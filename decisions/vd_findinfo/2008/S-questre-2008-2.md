@@ -1,0 +1,362 @@
+---
+decision_id: "vd_findinfo_S_questre___2008___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2008 / 2"
+decided: "2008-12-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1362442"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-604.md", "switzerland/bund/acts/220/art-075.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2008 / 2
+
+## Regeste
+
+SÉQUESTRE{LP}, CRÉANCE, EXIGIBILITÉ, ACTION EN PARTAGE SUCCESSORAL | 604 CC, 271 al. 1 ch. 4 LP, 278 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.12.2008 Séquestre / 2008 / 2
+
+SÉQUESTRE{LP}, CRÉANCE, EXIGIBILITÉ, ACTION EN PARTAGE SUCCESSORAL | 604 CC, 271 al. 1 ch. 4 LP, 278 LP
+
+TRIBUNAL CANTONAL
+620
+Cour des
+poursuites et faillites
+________________________________________________
+Séance du 11 décembre
+2008
+________________________
+Présidence
+de   M.
+Bosshard
+,
+président
+Juges
+:         Mme
+Carlsson et M. Muller
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 271 al. 1 ch. 4 et
+278 LP, 604 CC
+La Cour des
+poursuites et faillites du Tribunal cantonal, statuant en audience
+publique en sa qualité d'autorité de recours en
+matière sommaire de poursuites, s'occupe du recours
+exercé par
+G.________
+, à Buchillon,
+contre le prononcé rendu
+le 24 juillet 2008, à la suite de l'audience du
+1
+er
+juillet 2008, par le Juge de paix du district
+de Lausanne, dans la cause opposant la recourante à
+C.________
+, à
+Saint-Laurent-du-Var (France).
+Vu les pièces au dossier, la cour considère
+:
+En fait :
+1.
+Le 16 mai 2008,
+sur requête de G.________ qui invoquait une créance de
+68'738 fr. 08 en capital contre C.________ du chef de la succession
+de leur mère B.________, selon rapport du 1
+er
+octobre 2007 du notaire [...], le Juge de paix du district de
+Lausanne a scellé une ordonnance de séquestre sur la
+part du débiteur à la succession de [...] R.________,
+décédé à Lausanne le 27 février
+2006. Le cas de séquestre invoqué était celui
+de l'art. 271 al. 1 ch. 4 LP. La créancière a
+été dispensée de fournir des
+sûretés.
+L'Office des poursuites de Lausanne-Ouest a immédiatement
+exécuté le séquestre, qui a porté sur
+le montant 8'568 fr. 75, soit la part estimée du
+débiteur dans la succession R.________.
+C.________ a formé opposition au séquestre par acte
+du 22 mai 2008. Il a notamment fait valoir que la créance
+invoquée n'était pas échue, dès lors
+que la créancière séquestrante et lui
+étaient divisés par une action en partage successoral
+qui n'avait pas encore été jugée, un
+complément d'expertise ordonné au notaire [...]
+étant en cours.
+G.________ s'est déterminée le 25 juin 2008 sur
+l'opposition, faisant valoir que, si aucun jugement
+définitif et exécutoire n'avait encore
+été rendu dans l'action en partage opposant les
+parties, sa créance était néanmoins exigible
+depuis l'ouverture de la succession et qu'au surplus, le cas de
+séquestre invoqué était
+réalisé.
+Les deux parties ont produit des pièces, dont il ressort
+qu'elles sont divisées par une action en partage de la
+succession de leur mère ouverte le 13 avril 2006 devant le
+Tribunal d'arrondissement de La Côte, que le notaire [...] a
+déposé un premier rapport dans cette
+procédure, le 1
+er
+octobre 2007, selon
+lequel  C.________ doit être reconnu débiteur de
+sa sœur d'une soulte de 68'738 fr. 08, et que le
+président du tribunal, sur requête du
+prénommé, a ordonné un complément
+d'expertise, lequel est toujours en cours.
+2.
+Par prononcé rendu
+le 24 juillet 2008,  le Juge de
+paix du district de Lausanne a admis l'opposition et
+révoqué le séquestre, arrêté
+à 480 fr. les frais de justice de l'opposant et dit que
+l'intimée devait lui verser la somme de 1'080 fr.,
+comprenant le remboursement de ses frais et une participation aux
+honoraires de son mandataire.
+Les motifs de cette décision ont été
+adressés pour notification aux parties le 27 août
+2008. En bref, le premier juge a considéré que la
+créance invoquée n'était pas échue,
+l'action en partage entre les parties étant encore pendante,
+de sorte que les conditions de l'art. 271 al. 1 ch. 4 LP
+n'étaient pas remplies, et qu'au surplus, on ne se trouvait
+pas dans l'un des cas où le séquestre pouvait
+être requis pour une dette non échue (art. 271 al. 1
+ch. 1 et 2  et al. 2 LP).
+3.
+Par acte déposé le lundi 8 septembre 2008,
+G.________
+a recouru contre ce
+prononcé, concluant, avec suite de frais et dépens de
+première et de deuxième instance, à sa
+réforme en ce sens que l'opposition au séquestre est
+écartée. Elle a produit un mémoire le 6
+octobre 2008.
+L'intimé s'est déterminé le 24 novembre
+2008
+,
+concluant, avec dépens, au rejet du recours.
+En droit
+:
+I.
+Le recours a été déposé
+en temps utile (art. 278 al. 3 LP, 39a et 73 al. 3 LVLP -
+loi vaudoise d'application de la loi
+fédérale sur la poursuite pour dettes et la faillite;
+RSV 280.05). Il
+comporte des conclusions en réforme
+valablement formulées
+au
+regard des art. 461 ss CPC (Code de procédure civile; RSV
+270.11), applicables par le renvoi de l'art. 58 al. 1
+LVLP. Il est recevable.
+II.
+a)
+Selon l'art. 271 al. 1 ch. 4 LP, le créancier
+d'une prétention échue non garantie par gage peut
+requérir le séquestre des biens du débiteur
+lorsque le
+débiteur n'habite pas en Suisse, s'il n'y a pas d'autre cas
+de séquestre pour autant que la créance ait un lien
+suffisant avec la Suisse ou qu'elle se fonde sur un jugement
+exécutoire ou sur une reconnaissance de dette au sens de
+l'art. 82 al. 1 LP. L'exigibilité de la prétention
+dont le recouvrement doit être garanti est une condition de
+l'octroi du séquestre (Gilliéron, Commentaire de la
+loi fédérale sur la poursuite pour dettes et la
+faillite, n. 21 ad art. 271 LP).
+Le degré de preuve requis est celui de la vraisemblance. Le
+séquestre, mesure conservatoire urgente, doit être
+autorisé par le juge compétent, lorsque le
+créancier rend vraisemblable l'existence de la
+créance qu'il allègue et, dans le cas de l'art. 271
+al. 1 ch. 4 LP, son exigibilité, la réalisation du
+cas de séquestre invoqué et l'existence de biens
+appartenant au débiteur (art. 272 al. 1 LP).
+Pour rendre l'existence de sa
+créance vraisemblable, le requérant doit
+alléguer les faits et, pratiquement, produire une
+pièce ou un ensemble de pièces qui permettent au juge
+du séquestre d'acquérir, sur le plan de la simple
+vraisemblance, la conviction que la prétention existe pour
+le montant énoncé et qu'elle est exigible. Il suffit
+que, sur la base d'éléments objectifs, le juge
+acquière l'impression d'une certaine vraisemblance de
+l'existence des faits allégués, sans pour autant
+qu'il doive exclure qu'il puisse en aller autrement; par ailleurs,
+il peut se contenter d'un examen sommaire du droit (arrêt du
+Tribunal fédéral du 28 avril 2005 dans la cause
+5P.393/2004; arrêt du Tribunal fédéral du 21
+novembre 2003 dans la cause 5P.336/2003).
+b)
+Selon
+l'art. 278 al. 1
+LP, celui dont les droits sont
+touchés par un séquestre peut former opposition
+auprès du juge du séquestre dans les dix jours
+dès celui où il en a eu connaissance.
+Alors que le juge du séquestre rend son ordonnance sans
+avoir entendu la partie adverse, l'opposition a pour but l'examen
+ultérieur, en contradictoire, de toutes les conditions du
+séquestre. Le pouvoir d'examen du juge n'est pas plus
+étendu que celui qu'il avait lorsqu'il a statué
+unilatéralement sur la requête de séquestre,
+mais le point de vue défendu par l'opposant et les preuves
+déposées devant lui doivent lui permettre de
+reconsidérer tout ou partie de sa décision
+après une information plus complète (
+Reeb, Les mesures provisoires dans la
+procédure de poursuite, in RDS 1997 II 421,
+p. 478;
+Gilliéron, op. cit., n. 70 ad
+art. 278 LP; Jeandin, Aspects judiciaires relatifs à
+l'octroi du séquestre, in JT 2006 II 51, pp. 66 ss).
+L'opposant, qui peut notamment invoquer l'inexistence de la dette,
+doit s'efforcer de démontrer, en s'appuyant sur les moyens
+de preuve à sa disposition, que son point de vue est plus
+vraisemblable que celui du créancier séquestrant
+(arrêt du TF 5P.336/2003 précité et réf.
+cit.).
+c)
+La seule condition à
+l'octroi du séquestre qui est litigieuse en l'espèce
+est celle de l'exigibilité de la créance à
+garantir.
+L'exigibilité
+résulte du droit matériel qui régit
+l'obligation. Les principes habituels du droit suisse, en
+particulier l'art. 75 CO, s'appliquent (Stoffel/Chabloz,
+Commentaire romand, n. 22 ad art. 271 LP). Dans le cas
+présent,
+la créance
+invoquée est de nature successorale
+et c'est donc au regard du droit des
+successions que son exigibilité doit être
+examinée.
+Au sens strict, le partage de la succession consiste à
+attribuer aux héritiers des droits individuels, de nature
+réelle ou personnelle, correspondant aux quotes-parts
+respectives qui viennent se substituer aux droits que ces derniers
+détenaient jusque là de manière continue. Par
+ce biais, une partie des biens communs devient
+propriété exclusive de l'un des héritiers;
+celui-ci perd alors son droit de propriété sur le
+reste des biens en même temps qu'il devient, cas
+échéant, débiteur d'une soulte (Leuba, Le
+partage successoral en droit suisse, in RDS 2006 II 137, pp.
+142-143). Doctrine et jurisprudence reconnaissent, aujourd'hui,
+l'existence d'un partage judiciaire; il résulte d'une
+action, de nature formatrice, introduite conformément
+à l'art. 604 CC. Dans les limites des conclusions prises par
+les parties, le juge dispose d'un pouvoir d'adjudication qui lui
+permet de rendre une décision qui attribue les biens aux
+héritiers; le transfert de la propriété
+intervient dès l'entrée en force du jugement (ibid.,
+p. 152 et réf. cit.). L'action étant de nature
+formatrice, tant qu'elle est pendante, les héritiers ne sont
+titulaires d'aucun droit issu du partage. Aussi longtemps que le
+litige n'a pas été jugé, ils demeurent
+titulaires en mains communes des droits sur les actifs
+successoraux. Par conséquent, le droit au paiement d'une
+éventuelle soulte ne naît qu'une fois le jugement
+rendu. En cours d'instance, cette créance n'existe pas
+encore et, partant, n'est pas exigible.
+C'est ainsi  bon droit que le premier juge a
+considéré que la condition du caractère
+échu de la créance à garantir n'était
+pas réalisée et admis l'opposition au
+séquestre.
+III.
+Le recours doit ainsi
+être rejeté et le prononcé attaqué
+être maintenu.
+Les frais d'arrêt de la recourante sont fixés à
+690 francs. Elle doit en outre verser à l'intimé la
+somme de 400 fr. à titre de dépens de deuxième
+instance.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant en audience publique en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites,
+prononce
+:
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé entrepris est
+maintenu.
+III.
+Les frais d'arrêt de la
+recourante G.________ sont fixés à 690 fr. (six cent
+nonante francs).
+IV.
+La recourante doit payer à
+l'intimé C.________ la somme de 400 fr. (quatre cents
+francs) à titre de dépens de deuxième
+instance.
+V.
+L'arrêt motivé est
+exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 11
+décembre 2008
+Le dispositif de l'arrêt qui précède est
+communiqué par écrit aux
+intéressés.
+L
+a
+greffi
+ère
+:
+Du 30 mars 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié en expédition complète, par l'envoi de
+photocopies à :
+‑      Me François
+Magnin, avocat (pour G.________),
+‑      Me Laurent
+Savoy, avocat (pour C.________).
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière
+civile n'est recevable que si la valeur litigieuse
+s'élève au moins à 15'000 fr. en
+matière de droit du travail et de droit du bail à
+loyer, au moins à 30'000 fr. dans les autres cas, à
+moins que la contestation ne soulève une question juridique
+de principe (art. 74 LTF). Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Préposé à l'Office des poursuites de
+Lausanne-Ouest,
+-      M. le Juge de paix
+du district de Lausanne.
+L
+a
+greffi
+ère
+:
