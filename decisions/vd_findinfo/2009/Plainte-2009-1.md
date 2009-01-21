@@ -1,0 +1,674 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 1"
+decided: "2009-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1360364"
+cites_law: ["switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 1
+
+## Regeste
+
+SAISIE DE SALAIRE | 93 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 21.01.2009 Plainte / 2009 / 1
+
+SAISIE DE SALAIRE | 93 al. 1 LP
+
+TRIBUNAL CANTONAL
+1
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+21 janvier 2009
+___________________
+Présidence
+de   M.
+Bosshard
+,
+juge présidant
+Juges
+:         Mme
+Carlsson et M. Denys
+Greffier
+:         Mme
+Nüssli
+*****
+Art. 17 et 93 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+F.________
+, à [...],
+contre la décision
+rendue le 27 août 2008 par le Président du Tribunal
+d'arrondissement de Lausanne, autorité inférieure de
+surveillance, rejetant la plainte de la recourante
+contre le
+procès-verbal de saisie établi par l'Office des
+poursuites de Lausanne-Ouest, notifié le 26 juin
+2008.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+A.
+Le 12 novembre 2007, F.________
+a déposé une plainte contre un avis de saisie
+adressé le 24 octobre 2007 par l'Office des poursuites de
+Lausanne-Ouest (ci-après l'office) à son employeur,
+l'Etat de Vaud, relatif à la saisie d'une créance de
+4'200 fr. sur son treizième salaire.
+En cours de procédure, le Président du Tribunal
+d'arrondissement de Lausanne a pris acte de l'engagement de
+l'office de ne pas distribuer les 4'200 fr. saisis sur le
+treizième salaire 2007.
+Par prononcé
+du 18 juin 2008, rendu à la suite de l'audience du 24 avril
+2008, le Président du Tribunal d'arrondissement de Lausanne,
+statuant en sa qualité d'autorité inférieure
+de surveillance en matière de poursuites pour dettes et
+faillites, a admis la plainte (I), annulé l'avis de saisie
+d'une créance de 4'200 fr. sur le treizième salaire
+2007 de la débitrice (II), renvoyé le dossier
+à l'office pour nouvelle décision dans le sens des
+considérants (III), et rendu sa décision sans frais
+ni dépens (IV).
+Ce prononcé, qui n'a pas fait l'objet d'un recours, retient
+notamment ce qui suit :
+"3.
+(…)
+ba) Dans une
+décision de 1994, la présente autorité de
+surveillance avait considéré que le treizième
+salaire devait être compris, à raison d'un
+douzième, comme partie intégrante du salaire mensuel.
+Il s'agissait dans ce cas d'un débiteur dont le revenu
+mensuel ne couvrait pas le minimum vital; l'office avait alors
+ordonné une saisie sur le treizième salaire. Une fois
+le revenu mensuel augmenté du douzième de ce dernier,
+il était apparu que le minimum vital n'était toujours
+pas couvert, et qu'une saisie était impossible.
+L'autorité de surveillance avait considéré que
+le fait de ne pas tenir compte, dans le revenu mensuel, d'une part
+de treizième salaire, créerait une
+inégalité de traitement avec un poursuivi
+bénéficiant d'un revenu annuel équivalant mais
+payé en douze fois.  Un poursuivi touchant l'entier de
+son revenu sur douze mois ou celui dont les revenus mensuels sont
+irréguliers et pour lequel seul un revenu annuel moyen peut
+être déterminé serait libre de toute saisie
+alors que le plaignant se verrait saisi d'un treizième de
+son revenu annuel.
+bb) En
+réalité, la question est de déterminer ce
+qu'englobe le terme de salaire. Il doit être compris dans son
+acception la plus large, et comprend par conséquent le
+salaire
+de base, les primes,
+les gratifications ainsi que le treizième salaire pour
+autant que le salaire annuel total du débiteur soit
+supérieur à son minimum vital. "Lorsque le salaire
+annuel total du débiteur est supérieur à son
+minimum vital annuel, l'excédent (sous forme de salaire, de
+treizième salaire, de gratification ou autre) doit donc
+être saisi par l'Office des poursuites, par des saisies
+mensuelles sur le salaire et par la saisie de toutes autres
+prestations" (CR LP - Ochsner, n. 20 ad art. 93, qui cite une
+décision de l'autorité de surveillance du canton de
+Genève). On évite ainsi des situations choquantes
+telles que décrites ci-dessus (lettre ba). Cette
+façon de procéder correspond d'ailleurs à la
+pratique en matière de droit matrimonial."
+B.
+L'office a établi un
+procès-verbal de saisie, dont les copies ont
+été expédiées le 26 juin 2008, et qui
+mentionne en particulier ce qui suit :
+- page 1 :
+"(…)
+Objets
+SAISIE EST IMPOSEE SUR
+:
+SAISIE DE CREANCE
+1. Une somme de Fr.
+4'200.00 sur le 13
+ème
+salaire revenant à
+la débitrice pour l'année 2008 (saisie de
+créance à futur, conformément à la
+jurisprudence RO 71 III 60 - JdT 1945 II 49 ss), résultant
+de son activité auprès de l'Etat de Vaud.
+Lausanne, le 17 octobre
+2007, à 11h35 au bureau de l'office en présence de la
+débitrice, puis le 24 octobre 2007, à derniers
+renseignements.
+(…)
+Observations :
+Du 24 octobre
+2007
+Avis de saisie de
+créance (Form. no 9) adressé sous pli
+recommandé à l'employeur.
+***********************************************
+Situation
+:
+10.2007, révisée
+en 04.2008
+(…)
+REVENU
+:
+Enseignante, reçoit
+un salaire net de Fr. 6'659.69. Elle perçoit
+également un 13
+ème
+salaire net de Fr.
+5'879.40.
+Son époux est sans
+emploi et sans revenu.
+CHARGES
+:
+Lors de l'exécution
+de la saisie, les charges suivantes ont été prises en
+considération :
+Minimum vital de base du
+couple
+Fr.       1'550.00
+Minimum vital de base
+enfants
+Fr.       1'350.00
+Loyer, charges
+comprises
+Fr.       1'830.00
+Assurances maladie
+famille
+Fr.
+818.90
+Cours d'appui
+enfant
+Fr.
+160.00
+Suppl. repas hors
+domicile
+Fr.
+40.00
+Suppl. frais
+médicaux
+Fr.
+412.05
+Suppl. transports
+couple
+Fr.
+258.40
+Suppl. transport
+enfant
+Fr.
+43.25
+Place de parc domicile
+prof.
+Fr.
+44.30
+Suppl. frais repas
+enfants
+Fr.
+182.00
+_____________
+Total des
+charges
+Fr.       6'688.90
+Le revenu est ainsi
+insuffisant pour permettre une saisie sur salaire cft. à
+l'art. 93 LP.
+Elle ne possède en
+outre aucun bien à placer sous le poids de la saisie, selon
+déclarations.
+La débitrice a
+déposé une plainte 17 LP contre la décision de
+notre office de saisir le montant de Fr. 4'200.00 sur le
+13
+ème
+salaire 2007."
+- page 2 :
+"Par prononcé
+communiqué aux parties le 18 juin 2008, M. le
+Président du Tribunal d'arrondissement de Lausanne a admis
+la plainte et a renvoyé le dossier à notre office
+pour procéder à un nouveau calcul du minimum vital
+dans le sens des considérants. Une copie de ce
+prononcé est jointe au présent procès-verbal
+de saisie.
+Durant l'année 2007,
+Mme F.________ a perçu un salaire net, y compris le
+13
+ème
+salaire, de Fr. 85'759.68. Le minimum vital
+de la famille, calculé sur l'ensemble de l'année
+2007, est de Fr. 80'947.60. Les calculs établis sont
+annexés au présent procès-verbal de
+saisie.
+Ainsi, le salaire annuel
+total est supérieur au minimum vital total, de sorte qu'il
+se justifie de maintenir la saisie sur la somme de Fr. 4'200.00
+prélevée sur le 13
+ème
+salaire
+2007.
+Ce montant est
+consigné auprès de notre office et sera
+distribué aux créanciers à
+l'échéance du délai de plainte 17 LP, sans
+autre réquisition."
+L'office a effectué, pour chaque mois de l'année
+2007, le calcul du minimum vital d'existence de la débitrice
+et de sa famille, qui aboutit aux résultats suivants
+:
+- 6'781 fr. 60 pour le mois de
+janvier 2007;
+- 6'757 fr. 10 pour le mois de
+février 2007;
+- 6'055 fr  55 pour le mois de
+mars 2007;
+- 6'055 fr. 55 pour le mois d'avril
+2007;
+- 6'055 fr. 55 pour le mois de mai
+2007;
+- 6'055 fr. 55 pour le mois de juin
+2007;
+- 6055 fr. 55 pour le mois de juillet
+2007;
+- 6'752 fr. 75 pour le mois
+d'août 2007;
+- 7'328 fr. 20 pour le mois de
+septembre 2007;
+- 7'810 fr. 75 pour le mois d'octobre
+2007;
+- 8'453 fr. 85 pour le mois de
+novembre 2007;
+- 6'785 fr. 60 pour le mois de
+décembre 2007.
+Dans ces calculs, l'office a pris en compte chaque mois un poste
+"frais de régime spécial pour F.________", qui
+s'élève à 300 francs. Par ailleurs, les
+cotisations d'assurance-maladie de la débitrice et de son
+époux ont été comptabilisées pour les
+mois où elles ont été effectivement
+payées. L'office a ainsi retenu, au titre de cotisations
+d'assurance-maladie pour la famille :
+- 818 fr. 90 pour les mois
+d'août et décembre;
+- 841 fr. 90 pour les mois d'octobre
+et novembre.
+Enfin, des montants ont été retenus à titre de
+"Supp. Frais médicaux, pharm., dentaires", soit :
+- 418 fr. 05 au mois de
+janvier;
+- 701 fr. 55 au mois de
+février;
+- 79 fr. 20 au  mois
+d'août;
+- 1'105 fr. 65 au mois de
+septembre;
+- 1'114 fr. 20 au mois
+d'octobre;
+- 1'757 fr. 30 au mois de
+novembre;
+- 112 fr. 05 au mois de
+décembre.
+Le 26 juin 2008 également, l'office a écrit au
+conseil de la débitrice  ce qui suit :
+"Dans le cadre de la
+procédure de plainte 17 LP, notre office a
+procédé à un réexamen de la situation
+financière de votre cliente et a déterminé son
+minimum d'existence sur l'ensemble de l'année 2007,
+notamment sur la base des pièces qu'elle nous a fournies.
+Les calculs établis, dont vous avez reçu copies, ont
+été produits auprès de l'Autorité
+inférieure de surveillance le 18 avril 2008 et n'ont fait
+l'objet d'aucune contestation.
+Sur la base des mêmes
+chiffres, réputés admis, il ressort que votre cliente
+a perçu un salaire annuel net de Fr. 79'916.28 en 2007,
+auquel il convient d'y ajouter le treizième salaire net,
+soit  Fr. 5'879.40, totalisant ainsi un revenu annuel de
+Fr. 85'759.68. Quant aux charges, soit le minimum d'existence
+pour l'année 2007, celles-ci s'élèvent
+à Fr. 80'947.60.
+Il ressort donc que le
+salaire annuel total est supérieur au minimum vital total
+pour l'année 2007. Ce dernier étant couvert, il se
+justifie de maintenir la saisie sur le montant de Fr. 4'200.--
+prélevé sur le 13
+ème
+salaire
+2007.
+Cette somme a
+été consignée à notre office et sera
+remise aux créanciers saisissants à
+l'échéance du délai de plainte 17 LP. Un
+procès-verbal de saisie est dressé et
+communiqué aux parties ce jour."
+C.
+F.________ a déposé le 7 juillet 2008 une plainte LP
+contre le procès-verbal de saisie du 26 juin 2008, concluant
+à l'annulation de la saisie et à la délivrance
+d'actes de défaut de biens aux créanciers ayant
+participé à la saisie.
+Par décision du 9 juillet 2008, le Président du
+Tribunal d'arrondissement de Lausanne a accordé l'effet
+suspensif à la plainte.
+Dans ses déterminations du 5 août 2008, l'office a
+conclu au rejet de la plainte.
+Par prononcé rendu le 27 août 2008, le
+Président du Tribunal d'arrondissement de Lausanne, statuant
+en sa qualité d'autorité inférieure de
+surveillance en matière de poursuites pour dettes et
+faillites, a rejeté la plainte (I) et rendu sa
+décision sans frais ni dépens (II).
+En droit, le premier juge a retenu que la prise en compte du
+treizième salaire est conforme aux principes exposés
+dans le prononcé du 18 juin 2008, lequel n'a pas fait
+l'objet d'un recours. Il a constaté par ailleurs que les
+chiffres retenus par l'office pour le calcul du minimum vital
+étaient corrects et que ce calcul ne pouvait être
+remis en cause.
+Par acte du 8 septembre 2008, la plaignante a formé recours,
+concluant,  principalement, à l'annulation de la saisie
+de la somme de 4'200 fr. et à la délivrance par
+l'office d'actes de défaut de biens aux créanciers de
+la série 1, poursuites n
+os
+2'179'786,
+2'179'787, 2'188'597, 2'188'598, 2'188'613, 2'188'614, 2'188'616,
+2'189'596, 2'197'736, 2'197'687, 2'292'149, 2'292'150, 2'292'151 et
+2'292'152. Subsidiairement, elle a demandé l'annulation de
+la décision du 27 août 2008 de l'autorité
+inférieure de surveillance et le renvoi de la cause pour
+nouvelle décision.
+L'effet suspensif, requis dans l'acte de recours, a
+été accordé par décision du 15
+septembre 2008 du président de la cour de
+céans.
+Par lettre du 2 octobre 2008, l'office s'est
+référé aux déterminations qu'il avait
+produites en première instance.
+En droit :
+1.
+Le recours a été
+déposé en temps utile et comporte
+l'énoncé des moyens invoqués (art. 28 al. 1er
+et 3 de la loi d'application dans le canton de Vaud de la loi
+fédérale sur la poursuite pour dettes et la faillite
+du 18 mai 1955; LVLP, RSV 280.05). Il est recevable à la
+forme. Les pièces produites en deuxième instance sont
+également recevables (art. 28 al. 4 LVLP).
+2.
+a)
+Selon l'art. 93 al. 1
+er
+de
+la loi fédérale sur la poursuite pour dettes et la
+faillite du 11 avril 1889 (LP, RS 281.1), le salaire et les autres
+revenus du débiteur sont saisissables, déduction
+faite de ce qui est indispensable au poursuivi et à sa
+famille. L'office doit déterminer la quotité
+saisissable en se plaçant au moment de l'exécution de
+la saisie (Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite,
+n. 89 ad art. 93 LP; ATF 108 III 10 c. 4, JT 1984 II 18). A cet
+effet, les autorités de poursuite fixent librement - en
+suivant les lignes directrices pour le calcul du minimum
+d'existence en matière de poursuite de la Conférence
+des
+préposés aux poursuites
+et faillites de Suisse - la part des ressources du débiteur
+qu'elles estiment indispensable à son entretien et à
+celui de sa famille. La détermination du minimum vital n'a
+pas pour but de permettre au débiteur et à sa famille
+de conserver le train de vie qui était le leur avant la
+saisie, mais de déterminer quelles sont les dépenses
+indispensables et absolument nécessaires à leur
+entretien. La loi garantit au débiteur la possibilité
+de mener une existence décente, mais elle ne le
+protège pas contre la perte des commodités de la vie
+(Gilliéron, op. cit., n. 83 ad art. 93 LP; ATF 106 III 104,
+rés. in JT 1982 II 139).
+Pour fixer le montant
+saisissable selon l'article 93 LP, l'office doit tenir compte de
+toutes les ressources du débiteur et déterminer son
+revenu global net. En font notamment partie, outre le salaire, les
+provisions, les suppléments pour frais, les
+suppléments de salaire, tels que les allocations de
+renchérissement, pour enfants ou familiales, les prestations
+en nature, les pourboires et recettes analogues, les gains
+accessoires provenant d'activités que le débiteur
+exerce à titre secondaire, les revenus provenant de
+l'exercice d'une activité lucrative indépendante, les
+prestations que l'article 92 LP déclare insaisissables en
+tant que telles (Mathey, La saisie de salaire et de revenu,
+thèse Lausanne 1989, pp. 176-177, n. 372; arrêt du
+Tribunal fédéral du 13 novembre 1997 dans la cause
+7B.220/1997; Vonder Mühll, Basler Kommentar, n. 4 ad art. 93
+LP). L'office détermine ainsi le revenu net total du
+poursuivi en faisant l'addition de toutes les ressources du
+débiteur et, le cas échéant, des membres de sa
+famille et en opérant des déductions correspondant
+aux charges sociales, aux frais d'acquisition et à une
+éventuelle cession de salaire.
+Une fois établi le revenu net, l'office doit en
+déduire les dépenses nécessaires à
+l'entretien du débiteur et de sa famille, soit le minimum
+vital, afin de déterminer la quotité saisissable du
+revenu (Mathey, op. cit., p. 184).
+b)
+Comme l'a retenu l'autorité inférieure de
+surveillance dans son prononcé du 8 juin 2008, le
+treizième salaire, en particulier, est un
+élément du salaire convenu et, à ce titre,
+constitue une créance future au même titre que la
+créance de salaire, saisissable dans la même mesure
+que ce dernier (cf. aussi CPF, 28 janvier 1999/4; Mathey, op. cit.,
+pp. 26-27).
+c)
+La
+recourante reproche à l'office d'avoir fondé ses
+calculs pour la détermination de la quotité
+saisissable sur la totalité des charges et revenus de
+l'année 2007. Selon elle, la saisie ne pouvant
+débuter qu'au mois d'octobre 2007, soit après qu'elle
+eut fourni à l'office les renseignements nécessaires
+les 17 et 24 octobre 2007, il ne devait pas être tenu compte
+des revenus et charges antérieurs. Or, durant les trois
+derniers mois de l'année 2007, elle n'aurait pas atteint le
+minimum vital même en tenant compte du treizième
+salaire.
+Si la jurisprudence
+et la doctrine ont retenu que l'office doit, comme cela l'a
+été rappelé précédemment (cf
+supra, let. a), déterminer la quotité saisissable en
+se plaçant au moment de l'exécution de la saisie,
+cela ne signifie pas qu'il ne doive pas opérer une
+compensation lorsque les revenus et/ou les charges portées
+en déduction varient. En revanche, le poursuivi ne peut
+faire valoir des modifications ultérieures de la situation
+de fait par la voie de la plainte, mais dans une demande de
+révision de la saisie adressée à l'office (ATF
+108 III 10 c. 4 précité, JT 1984 II 18; CPF, 14 juin
+2004/30).
+En l'occurrence, la moyenne calculée sur l'année 2007
+par l'office se justifie d'une part en raison des variations dans
+les besoins reconnus de la poursuivante et de sa famille, d'autre
+part, du fait que la saisie porte sur le montant unique que
+représente le treizième salaire et qu'il s'agit donc
+de mensualiser pour déterminer de manière pertinente
+la quotité saisissable. Dans ces conditions, la
+manière de procéder de l'office pour
+déterminer dans le cas d'espèce l'existence d'une
+quotité disponible est correcte (Ochsner, Commentaire
+romand, n. 20 ad art. 83 LP), ainsi que l'a relevé
+l'autorité inférieure de surveillance.
+d)
+La recourante fait grief à l'office de ne pas
+avoir tenu compte, dans l'établissement du minimum
+d'existence de frais de régime spécial, pour un
+montant de 300 fr. par mois, de cotisations d'assurance-maladie qui
+s'élèveraient à 841 fr. 90 au lieu de 818 fr.
+90 et de supplément pour frais médicaux de 440 fr, au
+lieu de 412 francs 05 admis par l'office. Elle se
+réfère à cet égard au décompte
+figurant  sur la page 1 du procès-verbal
+litigieux.
+Toutefois, à la suite de la première plainte
+déposée par la recourante contre ce
+procès-verbal, l'office a réévalué la
+situation de cette dernière de manière
+globale, retenant sur l'année
+2007 un revenu net de 85'759 fr. 68 et un minimum vital de 80'947
+fr. 60. Ce dernier montant correspond aux calculs établis
+mois par mois et censés annexés au
+procès-verbal de saisie. Il ressort de ceux-ci que les frais
+de régime spécial ont été pris en
+compte à raison de 300 fr. par mois, de sorte que ce poste a
+été intégralement reconnu.
+S'agissant des cotisations d'assurance-maladie, l'office a pris en
+compte le montant de 841 fr. 90 qui comprend les cotisations de la
+recourante de de son époux aux mois d'octobre et novembre
+2007 ainsi que le montant de 818 fr. 90 aux mois d'août et
+décembre 2007, indiquant que le paiement des cotisations
+n'avaient pas été établi pour les autres mois.
+La recourante n'a fourni aucune pièce établissant que
+des montants supérieurs auraient dû être
+retenus.
+Pour ce qui est des frais médicaux, l'office a retenu
+certains mois divers montants pour un total de 5'288 fr. pour
+l'année, ce qui correspond à 440 fr. par mois, soit
+précisément le montant allégué par la
+recourante.
+Ainsi, la recourante n'a pas établi que d'autres montants
+auraient dus être pris en compte dans le calcul de son
+minimum d'existence et de celui de sa famille.
+e)
+Il ressort de ce qui précède que l'office a
+correctement calculé le montant saisissable.
+3.
+Le recours doit toutefois être admis pour un
+autre motif.
+Il ressort du
+procès-verbal de saisie du 26 juin 2008 que la somme de
+4'200 fr. a été saisie sur une créance
+relative au treizième salaire de l'année 2008, le
+calcul de la quotité saisissable ayant été
+effectué sur la base des revenus et des charges de la
+recourante en 2007.
+Or, il n'est pas établi à ce stade que la
+débitrice disposera d'un treizième salaire en 2008,
+de même que l'on ignore s'il y aura un disponible sur
+le
+revenu global 2008 après
+paiement des charges, de sorte que la saisie ne pouvait porter sur
+cette créance.
+On ne saurait certes exclure, au vu des pièces du dossier
+que la mention du treizième salaire 2008 figurant sur le
+procès-verbal du 26 juin 2008, relève d'une erreur de
+plume et que l'office entendait en réalité faire
+porter la saisie sur le treizième salaire de 2007. En effet,
+le courrier qu'il a adressé le même jour au conseil de
+la recourante mentionne précisément le
+treizième salaire 2007. De plus, l'employeur a donné
+suite à l'avis de saisie du 24 octobre 2007 puisque l'office
+s'est engagé devant l'autorité inférieure de
+surveillance "à ne pas distribuer les 4'200 fr. saisis sur
+le treizième salaire 2007". Manifestement, le
+procès-verbal du 26 juin 2008 ne fait que compléter
+celui établi le 24 octobre 2007 par les opérations
+intervenues après le prononcé rendu le 18 juin 2008
+par l'autorité inférieure de surveillance de sorte
+que, vraisemblablement, l'erreur précitée figurait
+déjà dans le premier procès-verbal.
+Il y a lieu néanmoins de faire preuve de rigueur en la
+matière en raison de la portée juridique du
+procès-verbal de saisie. Ce dernier deviendrait, en cas de
+rejet du recours, exécutoire, de sorte que les
+créanciers pourraient se prévaloir de la saisie du
+treizième salaire 2008, tandis que la recourante pourrait,
+le cas échéant, s'opposer, sur la même base,
+à la distribution du treizième salaire 2007, qui
+n'aurait pas été formellement saisi.
+Par ailleurs, une correction du procès-verbal de saisie dans
+le cadre d'une réforme de la décision entreprise
+n'est pas possible, car elle équivaudrait à une
+reformatio in pejus.
+Ainsi, quand bien même la mention du treizième salaire
+2008 proviendrait d'une erreur de plume, qui entachait
+vraisemblablement déjà le procès-verbal du 24
+octobre 2007, il y a lieu d'annuler le procès-verbal du 26
+juin 2008.
+4.
+En définitive,
+le recours doit être admis pour le motif que la saisie ne
+peut porter sur le treizième salaire de l'année 2008.
+Le procès-verbal de saisie doit
+en conséquence être
+annulé. Il appartiendra à l'office de prendre, le cas
+échéant, une nouvelle décision.
+Le présent arrêt est rendu sans frais ni dépens
+(art. 20 al. 1er LP, art. 61 al. 2 let. a et 62 al. 2 de
+l'Ordonnance du 23 septembre 1996 sur les émoluments
+perçus en application de la loi fédérale sur
+la poursuite pour dettes et la faillite; OELP, RS
+281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé entrepris est
+réformé en ce sens que le procès-verbal de
+saisie du 26 juin 2008 est annulé.
+III.
+Le présent arrêt, rendu
+sans frais ni dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 21 janvier 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Mme
+Geneviève Gehrig, agent d'affaires breveté (pour
+F.________),
+‑      M. le
+Préposé à l'Office des poursuites de
+l'arrondissement de Lausanne-Ouest.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 et suivants LTF (loi du 17 juin 2005 sur le
+Tribunal fédéral - RS 173.110). Ce recours doit
+être déposé devant le Tribunal
+fédéral dans les dix jours - cinq jours dans la
+poursuite pour effets de change - qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      Monsieur le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance.
+La greffière :
