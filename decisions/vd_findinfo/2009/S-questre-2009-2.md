@@ -1,0 +1,323 @@
+---
+decision_id: "vd_findinfo_S_questre___2009___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2009 / 2"
+decided: "2009-01-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1362163"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2009 / 2
+
+## Regeste
+
+AVANCE DE FRAIS, FORMALISME EXCESSIF | 38 al. 1 let. c LVLP, 45 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.01.2009 Séquestre / 2009 / 2
+
+AVANCE DE FRAIS, FORMALISME EXCESSIF | 38 al. 1 let. c LVLP, 45 LVLP
+
+TRIBUNAL CANTONAL
+15
+Cour des
+poursuites et faillites
+________________________________________________
+Séance du 22 janvier
+2009
+__________________­­­­___
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:         MM.
+Hack et  Sauterel
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 38 al. 1 et 48 al. 5
+LVLP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant
+en audience publique en sa qualité d'autorité de
+recours en matière sommaire de poursuites, s'occupe du
+recours exercé par
+M.________
+, à Morges,
+contre le prononcé rendu le 7
+octobre 2008, à la suite de l'audience du 11 septembre 2008,
+par le Juge de paix du district de Morges, dans la cause opposant
+le recourant à la
+Banque Z.________
+,
+à Lausanne.
+Vu les pièces au dossier, la cour considère
+:
+En fait :
+1.
+a)
+Le 5 août 2008, sur
+requête de la Banque Z.________ qui invoquait un acte de
+défaut de biens et une créance de dépens
+contre M.________, le Juge de paix du district de Morges a
+scellé une ordonnance de séquestre sur la part
+indivise du débiteur sur l'immeuble parcelle n° [...],
+plan n° [...], de la Commune de Morges, sis [...], 1110 Morges,
+dont il est propriétaire en mains communes avec deux autres
+personnes. Le cas de séquestre invoqué était
+celui de l'art. 271 ch. 5 LP. La créancière a
+été dispensée de fournir des
+sûretés.
+Par lettre datée du 23 et postée le 26 août
+2008, M.________ a formé opposition à cette
+ordonnance.
+b)
+Le Juge de paix du district de Morges
+a convoqué les parties à son audience, fixée
+au 11 septembre 2008, pour voir statuer sur l'opposition au
+séquestre, par avis du 28 août 2008. La convocation
+adressée à M.________ indiquait notamment ce qui suit
+:
+"
+Il
+sera procédé même en l'absence des parties;
+s'agissant d'une procédure sommaire de poursuite, leur
+présence n'est pas indispensable.
+Vous
+devez faire au greffe, avant l'audience, un dépôt de
+fr. 480.00 pour assurer les frais de l'office au moyen du bulletin
+de versement référencé qui vous parviendra par
+courrier séparé.
+Vous
+êtes prié(e) de présenter à l'huissier,
+avant l'audience, le récépissé
+postal
+".
+c)
+Le 9 septembre 2008, M.________
+a déposé au guichet du greffe de la Justice de paix
+du district de Morges une lettre rédigée en ces
+termes :
+"Concerne
+: Avance frais de justice Frs 480.-
+Monsieur
+le juge,
+N'ayant
+pas très bien compris la nature de la facture
+concernée et n'ayant pas les moyens financiers de
+régler ce montant.
+Je
+me permets d'attendre l'audience du 11 courant pour en parler avec
+vous-même.
+[salutations]"
+Par avis du 11 septembre 2008, le juge de paix a informé
+M.________ que le bénéfice de l'assistance judiciaire
+provisoire lui était accordé dans la mesure de
+l'avance totale des émoluments et débours du greffe,
+un délai au 30 septembre 2008 lui étant fixé
+pour requérir l'assistance judiciaire
+définitive.
+2.
+Par prononcé rendu
+le 7 octobre 2008,  le Juge de
+paix du district de Morges a constaté que l'avance de frais
+requise de 480 fr. n'avait pas été versée par
+la partie requérante [l'opposant au séquestre, ndlr]
+(I), déclaré irrecevable l'opposition formée
+à l'ordonnance de séquestre du 5 août 2008
+(II), arrêté à 120 fr. les frais de justice de
+la partie requérante (III), dit qu'il n'était pas
+alloué de dépens (IV) et rayé la cause du
+rôle (V).
+3.
+Par acte du 9 octobre 2008, M.________ a recouru contre ce
+prononcé, déclarant "contester" le chiffre I de son
+dispositif et en "réfuter" les chiffres II à V. Il a
+produit une pièce.
+La Banque Z.________ s'est déterminée le 25 novembre
+2008, concluant, avec suite de frais et dépens, au rejet du
+recours.
+En droit
+:
+I.
+Aux termes de l'art.
+39a al. 1 deuxième phrase  LVLP (
+loi d'application dans le Canton de
+Vaud de la loi fédérale sur la poursuite pour dettes
+et la faillite; RSV 280.05), il y a recours au Tribunal cantonal
+contre le prononcé sur opposition dans un délai de
+dix jours (art. 278 al. 3 LP). En l'espèce, le recours a
+été déposé en temps utile. Toutefois,
+le prononcé attaqué ne statue pas sur l'opposition au
+séquestre, mais l'écarte en raison du défaut
+d'avance de frais, en application de l'art. 48 al. 5 LVLP. Le
+recours en nullité contre un tel prononcé est ouvert
+en vertu de l'art. 38 al. 1 LVLP.
+Le recourant fait valoir que, contrairement à ce qu'a retenu
+le premier juge, il avait payé l'avance de frais requise, le
+4 octobre 2008, avec "quatre jours de retard car pas obtenu
+prêt de justice, ni réponse négative dans les
+temps" et déclare contester et réfuter le dispositif
+du prononcé attaqué dans son entier. On peut admettre
+qu'il conclut ainsi - implicitement - à l'annulation du
+prononcé, en invoquant la violation d'une règle
+essentielle de procédure, tel le formalisme excessif (art.
+38 al. 1 let. c LVLP). Le recours est ainsi recevable (art.
+461 ss CPC - Code de procédure civile; RSV 270.011 -
+applicables par le renvoi de l'art. 58 al. 1 LVLP).
+Le recourant a produit la copie d'une page de son carnet de
+récépissés postaux faisant état d'un
+versement de 480 fr. à l'Etat de Vaud à la date
+précitée, avec la mention "avance frais Justice paix
+Morges". La production de pièces  nouvelles est admise
+lorsqu'il s'agit d'établir, dans le cadre d'un recours en
+nullité, une informalité de la procédure (JT
+1993 III 10; 1992 III 2; 1992 III 66; 1991 III 34). Cette
+jurisprudence rendue en matière de procédure civile
+est applicable au recours de l'art. 38 al. 1 LVLP, vu le renvoi de
+l'art. 58 al. 1 LVLP.
+II.
+Le formalisme excessif est un aspect particulier du
+déni de justice prohibé par l'art. 29 al. 1 Cst. Il
+est réalisé lorsque la stricte application des
+règles de procédure ne se justifie par aucun
+intérêt digne de protection, devient une fin en soi,
+complique de manière insoutenable la réalisation du
+droit matériel ou entrave de manière inadmissible
+l'accès aux tribunaux (ATF 130 V 177 c. 5.4.1; ATF 128 II
+139 c. 2a, JT 2002 I 571). Selon une jurisprudence bien
+établie, il n'y a pas de rigueur excessive à ne pas
+entrer en matière sur un recours lorsque,
+conformément au droit de procédure applicable, la
+recevabilité de celui-ci est subordonnée au versement
+d'une avance de frais dans un délai déterminé;
+il faut cependant que l'auteur du recours ait été
+averti de façon appropriée du montant à
+verser, du délai imparti pour le paiement et des
+conséquences de l'inobservation de ce délai (ATF 104
+Ia 105 c. 5, JT 1980 I 322; ATF 96 I 521 c. 4, rés. in JT
+1972 I 216; arrêt du Tribunal fédéral du 10
+janvier 2007 dans la cause 1P.724/2006).
+En l'espèce, la convocation à l'audience du 11
+septembre 2008 adressée au recourant le 28 août 2008
+indiquait à la fois que les parties n'étaient pas
+tenues de comparaître et que le
+récépissé postal de l'avance de frais requise
+de
+l'opposant au séquestre devait être
+présenté à l'huissier avant l'audience. Ces
+deux mentions sont contradictoires. De plus et surtout, cette
+convocation ne comportait aucune indication sur les
+conséquences d'un défaut d'avance de frais, ne
+précisant pas que l'opposition au séquestre serait
+alors déclarée irrecevable. Il s'ensuit que le
+recourant était exposé à ce que son opposition
+soit déclarée irrecevable sans qu'il ait
+spécialement été rendu attentif au risque
+encouru en cas de défaut de paiement. Le recourant a
+d'ailleurs indiqué dans sa lettre du 9 septembre 2008
+n'avoir pas très bien compris ce qu'on lui demandait. Force
+est de constater que l'avis subséquent du juge de paix du 11
+septembre 2008 n'était pas plus clair, dès lors qu'il
+mentionnait à la fois que l'opposant était mis, pour
+la totalité de l'avance de frais, au bénéfice
+de l'assistance judiciaire provisoire et qu'il devait
+requérir, dans un délai fixé, l'assistance
+judiciaire définitive, deux notions entre lesquelles la
+nuance n'est pas évidente pour un justiciable qui n'est pas
+juriste. De plus, cet avis n'avertissait pas non plus son
+destinataire des conséquences de l'inobservation du
+délai fixé, savoir que l'opposition serait
+écartée s'il ne requérait pas l'assistance
+judiciaire dans ce délai. Ni la convocation ni l'avis
+suivant ne satisfaisaient donc aux exigences de la jurisprudence
+précitée. Il s'ensuit que le prononcé
+attaqué contrevient à l'interdiction du formalisme
+excessif.
+III.
+Le recours doit ainsi
+être admis et le prononcé attaqué
+annulé. La cause est renvoyée au premier juge pour
+nouvelle instruction et nouvelle décision.
+Vu les circonstances, le
+présent arrêt est rendu sans frais. Ayant agi en
+personne, le recourant n'a pas droit à des dépens de
+deuxième instance.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant en audience publique en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le
+prononcé entrepris est annulé, la cause étant
+renvoyée au Juge de paix du district de Morges pour nouvelle
+instruction et nouvelle décision.
+III.
+L'arrêt motivé, rendu
+sans frais ni dépens, est exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 22 janvier
+2009
+Le dispositif de l'arrêt qui précède est
+communiqué par écrit aux
+intéressés.
+L
+a
+greffi
+ère
+:
+Du 18 mars 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié en expédition complète, par l'envoi de
+photocopies à :
+‑      M.
+M.________,
+‑      Banque
+Z.________,
+-      M. le
+Préposé à l'Office des poursuites de
+Morges-Aubonne.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière
+civile n'est recevable que si la valeur litigieuse
+s'élève au moins à 15'000 fr. en
+matière de droit
+du travail et de droit du bail à loyer, au moins à
+30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le
+Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      Mme la Juge
+de paix du district de Morges.
+L
+a
+greffi
+ère
+:
