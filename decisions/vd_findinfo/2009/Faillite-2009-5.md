@@ -1,0 +1,166 @@
+---
+decision_id: "vd_findinfo_Faillite___2009___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2009 / 5"
+decided: "2009-02-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1361464"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-017.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2009 / 5
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ | 17 CPC, 461 CPC, 174 LP, 58 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 24.02.2009 Faillite / 2009 / 5
+
+DÉCISION D'IRRECEVABILITÉ | 17 CPC, 461 CPC, 174 LP, 58 al. 1 LVLP
+
+TRIBUNAL CANTONAL
+63
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+24 février 2009
+___________________
+Présidence
+de   M.
+Hack
+,
+vice-président
+Juges
+:         MM.
+Denys et  Sauterel
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 174 LP,  58
+al. 1 LVLP,  17 et  461 CPC
+Vu le jugement rendu
+le 15 janvier 2009 par la Présidente du Tribunal
+d'arrondissement de La Côte, admettant la requête de
+relief, constatant que les conditions d'annulation du jugement de
+faillite n'étaient pas remplies, révoquant l'effet
+suspensif accordé et disant que la faillite de
+R.________
+, à Morges, prononcée le 25 novembre 2008
+à la réquisition de
+C.________
+, à
+Lausanne,
+prenait
+effet le 15 janvier 2009,
+à 10
+heures,
+vu l'acte de recours daté du 26 et posté le 27
+janvier 2009 par R.________ contre ce jugement, qu'il avait
+reçu le 21 janvier 2009;
+attendu que le recours, formé dans le délai de dix
+jours suivant la notification du jugement de faillite, a
+été exercé en temps utile (art. 174 al. 1 LP -
+loi sur la poursuite pour dettes et la faillites; RS
+281.1),
+qu'en revanche, il ne comporte pas des conclusions suffisantes au
+regard des art. 461 ss CPC (Code de procédure civile; RSV
+270.11) applicables par le renvoi de l'art. 58 al. 1 LVLP (loi
+vaudoise d'application de la loi fédérale sur la
+poursuite pour dettes et la faillite; RSV 280.05),
+c'est-à-dire l'énoncé exact des
+réclamations du recourant,
+qu'en application de l'art. 17 CPC, le président de la cour
+de céans a renvoyé son acte à R.________, par
+courrier recommandé du 2 février 2009 avec
+accusé de réception, et lui a imparti un délai
+de cinq jours dès la réception de cet avis pour
+refaire son acte en précisant ses conclusions, en
+réforme ou en nullité, faute de quoi le recours
+pourrait être déclaré irrecevable,
+que, selon l'accusé de réception figurant au dossier,
+l'intéressé a reçu cet avis le 3
+février 2009,
+que, par télécopie du 7 février 2009, il a
+retransmis à la cour de céans son acte du 26 janvier
+2009, accompagné d'une pièce nouvelle,
+que, le 14 février 2009, soit après
+l'échéance du délai de cinq jours
+précité, tombant le dimanche 8 et reportée au
+lundi 9 février 2009, R.________ a déposé une
+nouvelle écriture,
+que cette écriture, outre qu'elle a été
+produite tardivement, ne contient toujours pas de conclusions ni
+même de moyens de recours reconnaissables, de sorte qu'elle
+est irrecevable,
+que, faute de satisfaire aux exigences de forme posées par
+la loi, le recours de R.________ doit être
+écarté et le jugement de faillite doit être
+maintenu,
+que le présent arrêt est rendu sans frais.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est
+écarté.
+II.
+Le jugement entrepris est
+maintenu.
+III.
+Le présent arrêt est
+rendu sans frais ni dépens.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 24 février 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      M.
+R.________,
+‑
+C.________,
+-      M. le
+Préposé à l'Office des faillites de
+Morges-Aubonne.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-
+M. le Conservateur du Registre foncier du district de
+Morges,
+-
+M. le Préposé au Registre du Commerce du canton de
+Vaud,
+‑      Mme la
+Présidente du Tribunal d'arrondissement de La
+Côte.
+L
+a
+greffi
+ère
+:
