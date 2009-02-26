@@ -1,0 +1,679 @@
+---
+decision_id: "vd_findinfo_Faillite___2009___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2009 / 15"
+decided: "2009-02-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1390391"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-716a.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/220/art-729b.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-192.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2009 / 15
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, LÉGITIMATION ACTIVE ET PASSIVE, CRÉANCIER, DEGRÉ DE LA PREUVE | 725 CO, 190 al. 1 ch. 2 LP, 194 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 26.02.2009 Faillite / 2009 / 15
+
+FAILLITE SANS POURSUITE PRÉALABLE, LÉGITIMATION ACTIVE ET PASSIVE, CRÉANCIER, DEGRÉ DE LA PREUVE | 725 CO, 190 al. 1 ch. 2 LP, 194 LP
+
+TRIBUNAL CANTONAL
+47
+Cour des
+poursuites et faillites
+________________________________________________
+Séance du 26 février
+2009
+_____________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:         Mme
+Carlsson et M. Denys
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 190 al. 1 ch. 2 et
+194 LP; 725 CO
+La Cour des
+poursuites et faillites du Tribunal cantonal, statuant en audience
+publique en sa qualité d'autorité de recours en
+matière sommaire de poursuites et de faillite, s'occupe du
+recours exercé par
+T.C.________SA
+, à Ecublens,
+et
+D.________
+, à Vullierens,
+contre le prononcé rendu le 6
+août 2008, à la suite des audiences des 1
+er
+avril, 27 mai et 10 juillet 2008, par la Présidente du
+Tribunal d'arrondissement de La Côte, rejetant la
+requête de faillite sans poursuite préalable
+formée par les recourants contre
+T.T.________SA
+,
+à Ecublens.
+Vu les pièces au dossier, la cour considère
+:
+En fait :
+1.
+a)
+La société T.C.________SA a
+été inscrite au Registre du commerce le 26 mai 2000.
+Elle est dirigée notamment par D.________, administrateur
+président. Créée le même jour, la
+société T.T.________SA est dirigée par
+P.________, administrateur président, et son épouse,
+administratrice. Les deux sociétés sont
+domiciliées à Ecublens. Elles ont été
+créées dans la perspective d'un partage des
+activités et d'une répartition des actifs et passifs
+des sociétés du "groupe T.________", notamment
+T.________SA, T.E.________SA, T.Q.________SA en liquidation et
+T.L.________SA (dissoute par faillite en 2005), entre leurs
+fondateurs et dirigeants P.________ et D.________.
+Par contrat du 18 avril 2001,
+complété d'une convention (accord
+général), T.E.________SA, T.________SA,
+T.C.________SA, T.T.________SA ainsi que P.________ et D.________
+ont réglé les questions de transfert d'actifs entre
+les différentes sociétés. Par la suite, divers
+problèmes se sont élevés et les
+sociétés T.C.________SA et T.T.________SA sont
+actuellement divisées par plusieurs
+procédures.
+b)
+Le 17 novembre 2006, D.________ et T.C.________SA ont
+requis de la Présidente du Tribunal d'arrondissement de La
+Côte la faillite sans poursuite préalable de la
+société T.T.________SA. Ils ont allégué
+en substance que la société intimée
+était locataire de locaux propriété de la
+société T.L.________SA, à Ecublens, dont elle
+avait cessé de payer le loyer depuis le mois de juillet
+2004, causant ainsi d'importantes pertes financières
+à T.L.________SA et, finalement, sa faillite, que, dans le
+cadre de cette faillite, T.C.________SA, également locataire
+de T.L.________SA, risquait de perdre son outil de travail, tandis
+que son administrateur devrait verser 300'000 fr. au Credit Suisse
+en sa qualité de caution solidaire de T.L.________SA envers
+cet établissement bancaire, que, de plus, la
+société intimée avait suspendu ses paiements
+au sens de l'art. 190 al. 1 ch. 2 LP et qu'elle se trouvait
+en outre en état de surendettement au sens de l'art. 725a
+CO
+, ce qui justifiait de prononcer sa
+faillite sans poursuite préalable en application de l'art.
+192 LP.
+L'intimée s'est déterminée le 12 janvier 2007,
+concluant au rejet de la requête. Elle a contesté la
+qualité pour agir des requérants, faisant valoir
+qu'ils n'étaient pas ses créanciers. Elle a en outre
+contesté être en état de cessation de paiements
+ou en état de surendettement.
+A l'audience du 16 janvier 2007, les requérants ont
+notamment produit un acte non daté, intitulé "cession
+de créance" et rédigé en ces
+termes :
+"La
+société V.________Sàrl expose qu'elle est la
+créancière de la société T.T.________SA
+d'un montant de CHF 2'169.20, selon commande n° 61580
+contresignée par M. P.________, représentant de
+T.T.________SA, du 18 août 2004. Un acompte de CHF 1'000.- a
+été réglé par T.T.________SA le 9 juin
+2005. Un solde en faveur de V.________Sàrl reste dû de
+CHF 1'169.20.
+V.________Sàrl
+cède à la société T.C.________SA la
+créance qu'elle détient à l'encontre de
+T.T.________SA à hauteur de CHF 1'169.20 ainsi que tous les
+droit découlant de la poursuite qu'elle a introduite contre
+T.T.________SA auprès de l'Office des poursuites de Morges,
+n°3076092, en capital, intérêts et
+frais."
+Cet acte était accompagné de deux annexes, soit une
+commande n° 61580 de l'intimée à
+V.________Sàrl du 18 août 2004 pour des pièces
+de connexion, à concurrence de 2'065 fr. 90, et une facture
+de 2'169 fr. 20 de V.________Sàrl à l'intimée,
+datée du 28 décembre 2004 et relative aux
+pièces commandées, avec une mention manuscrite
+indiquant le versement d'un acompte de 1'000 fr. le 9 juin 2005,
+laissant un solde de 1'169 francs.
+De son côté, l'intimée a produit le dispositif
+d'un prononcé du 15 décembre 2005 par lequel le Juge
+de paix de Morges a rejeté la requête de
+mainlevée déposée par V.________Sàrl
+dans la poursuite n° 3'076'092 citée dans l'acte de
+cession.
+Les requérants ont produit une autre cession de
+créance, non datée et rédigée en ces
+termes :
+"La
+société I.________SA expose qu'elle est la
+créancière de la société T.T.________SA
+d'un montant de 1740.95 (fact 05/40736). Un acompte a
+été réglé par T.T.________SA Un solde
+en faveur de I.________SA reste dû de CHF 1140.95.
+I.________SA cède
+à la société T.C.________SA la créance
+qu'elle détient à l'encontre de T.T.________SA
+à hauteur de CHF 1140.95 ainsi que tous les droit
+découlant de la poursuite qu'elle a introduite contre
+T.T.________SA auprès de l'Office des poursuites de Morges,
+n°3082194, en capital, intérêts et
+frais."
+c)
+Par jugement du 1
+er
+février 2007, la
+Présidente du Tribunal d'arrondissement de La Côte a
+rejeté la requête de faillite sans poursuite
+préalable.
+Par arrêt du 4 octobre 2007, la cour de céans a admis
+le recours en nullité formé par T.C.________SA et
+D.________ contre ce jugement, qu'elle a annulé, et a
+renvoyé la cause au premier juge pour nouvelle instruction
+et nouvelle décision.
+2.
+a)
+Des listes de poursuites
+exercées contre l'intimée ont été
+produites en cours d'instruction. De celle datée du 3
+juillet 2008, il résultait que l'intimée faisait
+à cette date l'objet de quarante-huit poursuites dont une
+trentaine était périmée. Parmi les poursuites
+encore valides figuraient celles exercées à
+l'instance des requérants, par la notification de deux
+commandements de payer portant chacun sur une somme de 500'400 fr.
+et invoquant comme cause de l'obligation : "inexécution
+des conventions et contrats; actes illicites", notifiés les
+premiers le 23 juin 2006, les suivants le 23 mai 2007 et les
+derniers le 6 mai 2008. Lors de l'audience du 10 juillet 2008,
+l'intimée a produit diverses pièces prouvant qu'elle
+avait réglé, dans les jours précédant
+l'audience, cinq des dix poursuites introduites par la Caisse de
+compensation [...] et quatre autres poursuites, respectivement d'un
+montant de 345 fr. 50, de 8'108 fr. 75, de 239 fr. 05 et  de
+176 francs.
+Les comptes de l'intimée des années 2003 à
+2007 ont été produits et plusieurs témoins
+entendus à leur sujet. Les comptes 2006 font état
+d'une perte reportée de 66'216 fr. 89, compte tenu de deux
+postpositions de créances intervenues en 2003 pour un
+montant total de 430'000 fr., le bénéfice de
+l'exercice étant de 23'895 fr. 11. Le stock de marchandises
+a passé à 374'144 fr. (448'600 fr. en 2005), le stock
+de catalogues restant à 16'000 francs. Les participations
+sont mentionnées pour une somme de 100'001 fr., les frais de
+recherche et de développement passent à 144'000 fr.
+(269'000 fr. en 2005) et le poste "brevets" à 245'000 fr.
+(255'000 fr. en 2005). Le chiffre d'affaires et "frais de ventes
+refacturés" est de 505'950 fr. 43 (649'219 fr. 22 en
+2005).  Dans le poste "exigible à court terme"
+apparaît une somme de 180'520 fr. 15 en faveur de la
+Gérance [...] (loyers à payer). Les comptes 2007 se
+soldent par une perte reportée de 34'562 fr. 06, l'exercice
+ayant permis un bénéfice de 31'654 fr. 83, mais
+toujours compte tenu de la postposition de 430'000 francs. Le stock
+de marchandises passe à 620'166 fr. et le stock de
+catalogues à 15'680 francs. Les participations sont
+identiques à celles de l'année
+précédente, de même que les frais de recherche
+et de développement. Le poste "brevets" passe à
+235'000 francs. Le chiffre d'affaires et "frais de ventes
+refacturés" s'élève à 609'081 fr. 42.
+La même somme de 180'520 fr. 15 figure dans les montants
+exigibles à court terme.
+b)
+Par
+jugement du 6 août 2008, rendu sans frais ni dépens,
+la Présidente du Tribunal d'arrondissement de La Côte
+a rejeté la requête de faillite sans poursuite
+préalable. Elle a considéré en bref que les
+requérants avaient rendu vraisemblable au degré
+requis leur qualité de créanciers de l'intimée
+au vu de l'ensemble du litige qui les opposait, notamment à
+la suite de la faillite de T.L.________SA, ainsi que des cessions
+de créance figurant au dossier. Toutefois, la suspension des
+paiements ne pouvait pas
+être retenue
+en l'espèce au vu des nombreux paiements intervenus, bien
+que, pour une part importante, les dettes de l'intimée aient
+été couvertes par des fonds propres de P.________ et
+de son épouse. Examinant ensuite la question de la
+solvabilité de l'intimée, le premier juge a
+considéré que, même si l'instruction avait
+permis de montrer que les comptes présentés ne
+correspondaient selon toute vraisemblance pas totalement à
+la réalité économique de la
+société, en conclure que celle-ci tombait sous le
+coup de l'art. 725 CO était un pas qu'il n'y avait pas lieu
+de franchir, compte tenu notamment des conséquences d'une
+faillite sans poursuite préalable. Enfin, ce magistrat a
+relevé que les requérants, s'ils avaient
+renouvelé chaque année leurs poursuites contre
+l'intimée, n'avaient pas ouvert action contre elle ni fait
+valoir de motifs pour leur inaction.
+3)
+Par acte du 15 août 2008, D.________ et T.C.________SA ont
+recouru contre ce jugement, concluant, avec suite de frais et
+dépens, principalement à sa réforme en ce sens
+que la faillite sans poursuite préalable de T.T.________SA
+est prononcée, subsidiairement à son
+annulation.
+Les recourants ont produit un mémoire ampliatif le 30
+octobre 2008, accompagné de pièces
+nouvelles.
+L'intimée s'est déterminée par mémoire
+du 27 janvier 2009, concluant, avec suite de frais et
+dépens, au rejet du recours. Elle a produit des
+pièces nouvelles.
+Par écriture du 2 février 2009, les recourants se
+sont déterminés sur le mémoire de
+l'intimée.
+L'intimée a requis le retranchement de cette écriture
+du dossier.
+En droit
+:
+I.
+a)
+Déposé en temps utile
+(art. 174 al. 1 LP, auquel renvoie l'art. 194 al. 1 LP, et
+art. 57 al. 1 LVLP
+- loi vaudoise
+d'application de la loi fédérale sur la poursuite
+pour dettes et la faillite; RSV 280.05
+) et comportant des conclusions,
+principale en réforme (art. 38 al. 2 let. g LVLP) et
+subsidiaire en nullité (art. 38 al. 1 LVLP), valablement
+formulées, le recours est recevable.
+b)
+Compte tenu des garanties constitutionnelles
+déduites du droit d'être entendu et de la
+jurisprudence fédérale à cet égard (ATF
+133 I 98; 133 I 100 c. 4.3 à 4.6), il faut reconnaître
+aux recourants le droit de se déterminer sur le
+mémoire de l'intimée, de sorte que leur
+écriture du 2 février 2009 n'a pas à
+être retranchée du dossier, même si la LVLP et
+le CPC (Code de procédure civile; RSV 270.11), auquel
+renvoie l'art. 58 al. 1 LVLP, n'instituent pas un double
+échange d'écritures en matière de
+recours.
+c)
+En matière de
+faillite sans poursuite préalable, en vertu des art. 174 al.
+1 LP, auquel renvoie l'art. 194 al. 1 LP, et 58 al. 7 LVLP, les
+parties peuvent faire valoir des faits nouveaux lorsqu'ils se sont
+produits avant le jugement de première instance
+(pseudo-nova). Il s'ensuit qu'en l'espèce, les pièces
+antérieures au jugement attaqué sont recevables,
+qu'elles aient été produites par les recourants ou
+par l'intimée. En revanche, seul le prétendu
+débiteur, sujet à la poursuite par voie de faillite
+et déclaré en faillite pour le motif qu'il a suspendu
+ses paiements (art. 190 al. 1 ch. 2 LP), peut faire valoir des
+faits intervenus depuis l'audience de faillite (vrais nova) au sens
+de l'art. 174 al. 2 LP, qu'il doit établir par titre, pour
+rendre vraisemblable sa solvabilité (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour
+dettes et la faillite, n. 58 ad art. 190 LP et n. 18 ad art. 194
+LP), la condition de la preuve du paiement de la prétention
+déduite en poursuite n'étant pas applicable en
+matière de faillite sans poursuite préalable (CPF, 22
+janvier 2009/9). Il en résulte que les pièces
+relatives à des éléments postérieurs au
+jugement produites par l'intimée (prétendue
+débitrice) sont recevables et que celles produites par les
+recourants (prétendus créanciers) sont irrecevables
+et doivent être écartées.
+II.
+a)
+En nullité, les recourants
+invoquent une violation de leur droit d'être entendus. Ils se
+plaignent d'une motivation insuffisante en ce que le premier juge
+n'aurait pas dit pourquoi il refusait de retenir que
+l'intimée tombait sous le coup de l'art. 725 CO.
+Il y a notamment violation du droit d'être entendu si
+l'autorité ne satisfait pas à son devoir minimum
+d'examiner et de traiter les problèmes pertinents. Il suffit
+cependant que le juge mentionne, au moins brièvement, les
+motifs qui l'ont guidé et sur lesquels il a fondé sa
+décision, de manière à ce que
+l'intéressé puisse se rendre compte de la
+portée de celle-ci et l'attaquer en connaissance de cause.
+L'autorité n'a pas l'obligation d'exposer et de discuter
+tous les faits, moyens de preuve et griefs invoqués par les
+parties, mais elle peut au contraire se limiter à ceux qui,
+sans arbitraire, lui paraissent pertinents (ATF 134 I 83 c. 4.1;
+134 I 140 c. 5.3). Savoir si la motivation présentée
+est convaincante est une question distincte de celle du droit
+à une décision motivée. Dès lors que
+l'on peut discerner les motifs qui ont guidé la
+décision du juge, le droit à une décision
+motivée est respecté, même si la motivation
+présentée est erronée (TF 4A_454/2008 c.
+3.1).
+En l'espèce, le premier juge a exposé les motifs pour
+lesquels il considérait que l'intimée ne tombait pas
+sous le coup de l'art. 725 CO (considérant 4 du jugement).
+Il a donc traité cette question et les recourants n'ont
+ainsi subi aucune violation de leur droit d'être entendus.
+Leur grief est infondé.
+b)
+Au demeurant, la référence à l'art.
+725 CO est sans pertinence dans la présente
+procédure. L'art. 192 LP prévoit que la faillite des
+sociétés anonymes, notamment, peut être
+prononcée sans poursuite préalable dans les cas
+prévus par le Code des obligations, en particulier les art.
+725 et 725a CO. Aux termes de l'art. 725 al. 2 CO, s'il existe des
+raisons sérieuses d'admettre que la société
+est surendettée, un bilan intermédiaire est
+dressé et soumis à vérification de l'organe de
+révision. S'il résulte de ce bilan que les dettes
+sociales ne sont couvertes ni lorsque les biens sont estimés
+à leur valeur d'exploitation, ni lorsqu'ils le sont à
+leur valeur de liquidation, le conseil d'administration en avise le
+juge, à moins que des créanciers de la
+société n'acceptent que leur créance soit
+placée à un rang inférieur à celui de
+toutes les autres créances de la société dans
+la mesure de cette insuffisance de l'actif. Au vu de l'avis, le
+juge déclare la faillite, à moins que les conditions
+d'un ajournement soient réunies (art. 725a CO). L'avis de
+surendettement au juge exige une décision du conseil
+d'administration dans son ensemble; une telle décision fait
+partie de ses attributions intransmissibles et inaliénables
+(art. 716a al. 1 ch. 7 CO), un membre du conseil d'administration
+ne pouvant en aucun cas la prendre de son propre chef (Basler
+Kommentar, Obligationenrecht II, n. 41 ad art. 725 CO). Si le
+conseil d'administration omet d'aviser le juge, cette tâche
+incombera à l'organe de révision en cas de
+surendettement manifeste et pour autant que celui-ci en ait eu
+connaissance dans le cadre de sa fonction (ibid., n. 42 ad art. 725
+CO; art. 729b al. 2 CO). Ainsi, l'avis de surendettement ne peut
+être donné que par le conseil d'administration en tant
+que tel, le cas échéant par l'organe de
+révision (Gilliéron, op. cit., n. 16 ad art. 192 LP).
+Il s'agit d'une exigence
+formelle, de sorte qu'il ne suffit pas que le juge ait connaissance
+du surendettement par une autre voie (CPF, 13 décembre
+2002/535). La cour de céans a ainsi nié qu'un tiers,
+fût-il créancier ou prétendu créancier
+de la société, puisse donner au juge l'avis de
+surendettement et requérir la faillite sans poursuite
+préalable sur la base de l'art. 192 LP
+(CPF 29
+novembre 2007/455 ; CPF, 22 janvier 2009/9
+précité). Les créanciers peuvent
+requérir la faillite sans poursuite préalable en cas
+de cessation de paiements (art. 190 al. 1 ch. 2 LP). Il ne leur
+appartient en revanche pas de donner au juge l'avis de
+surendettement, ni de soupçon de surendettement. En
+l'espèce, les recourants ne peuvent donc tirer argument de
+l'art. 725 CO.
+III.
+a)
+L'art. 190 al. 1 ch. 2 LP
+prévoit que le créancier peut requérir la
+faillite sans poursuite préalable si le débiteur
+sujet à la poursuite par voie de faillite a suspendu ses
+paiements.
+Le requérant, soi-disant créancier, doit rendre
+vraisemblable sa qualité pour agir, c'est-à-dire, en
+règle générale, qu'il est titulaire de la
+créance dont il se prévaut (Gilliéron, op.
+cit., n. 6 ad art. 190 LP). Dans sa jurisprudence
+récente, la cour de céans a jugé que la
+qualité de créancier devait être établie
+au degré de la vraisemblance qualifiée, même si
+la créance n'était pas encore exigible (Cometta,
+Commentaire romand, n. 3 ad art. 190, qui cite l'arrêt paru
+aux ATF 120 III 88, JT 1996 II 77, notamment). Elle a en effet
+considéré que, même si elle s'était
+parfois contentée de la simple vraisemblance, il y avait
+lieu de suivre l'auteur précité sur ce point, le
+degré de vraisemblance qualifiée tenant
+adéquatement compte des intérêts du
+créancier requérant et du débiteur dont la
+faillite est demandée (CPF, 13 novembre 2008/549; CPF, 18
+septembre 2008/439).
+b)
+En l'espèce, le premier juge a succinctement
+indiqué que les recourants avaient rendu suffisamment
+vraisemblable leur qualité de créanciers de
+l'intimée au vu de l'ensemble des litiges les opposant
+à celle-ci et des cessions de créance figurant au
+dossier. L'intimée conteste la qualité de
+créanciers des recourants. Il y a lieu d'examiner en premier
+lieu cette question de la légitimation active des
+recourants, qui est susceptible de sceller le sort du
+recours.
+c)
+Dans leur requête de faillite sans poursuite
+préalable du 17 novembre 2006, les recourants n'ont
+guère consacré de développements à leur
+qualité de créanciers. Ils n'ont pas fourni plus
+d'explications à ce propos dans leur mémoire relatif
+au présent recours. Dans leur écriture
+complémentaire du 2 février 2009, les recourants
+indiquent qu'ils se sont déterminés sur leur
+qualité de créanciers dans un précédent
+recours du 23 mars 2007 et que la Cour des poursuites et faillites
+a d'ailleurs reconnu leur qualité dans son arrêt du 4
+octobre 2007.
+aa)
+La cour de céans ne s'est en rien exprimée
+sur la qualité de créanciers des recourants dans
+l'arrêt en question. Elle a admis le grief invoqué par
+ceux-ci de la violation de leur droit d'être entendus, soit
+un grief d'ordre formel qui a
+entraîné l'annulation du jugement rendu le
+1
+er
+février 2007 et le renvoi de la cause en
+première instance, sans qu'elle ait à entrer en
+matière et à examiner la réalisation des
+conditions de l'art. 190 LP.
+bb)
+Dans leur mémoire de recours du 23 mars 2007 (ch.
+2.2, pp. 7/8), les recourants ont exposé que
+l'intimée s'était soustraite à ses obligations
+de paiement de loyer envers la société
+T.L.________SA, provoquant une grave crise de liquidités
+chez celle-ci, qui avait conduit à sa faillite. Les
+recourants considèrent l'intimée comme responsable de
+la faillite de T.L.________SA et invoquent avoir subi un
+préjudice dans cette faillite, D.________ étant en
+particulier caution solidaire d'une créance de 300'000 fr.
+produite par le Credit Suisse dans la faillite. On comprend ainsi
+que les recourants invoquent un dommage par ricochet. Les
+recourants ont fait notifier à l'intimée des
+commandement de payer la somme de 500'400 fr., respectivement le 26
+juin 2006, le 23 mai 2007 et le 6 mai 2008, la cause de
+l'obligation mentionnée étant "inexécution des
+conventions et contrats; actes illicites".
+La notification réitérée de commandements de
+payer ne suffit évidemment pas à rendre une
+créance vraisemblable. La réparation d'un
+préjudice réfléchi (dommage par ricochet)
+n'est envisageable que de manière restrictive (Engel,
+Traité des obligations, pp. 475 ss). Outre qu'en
+l'espèce, l'intimée conteste toute
+responsabilité dans la faillite de T.L.________SA, aucun
+élément ne permet de retenir que les recourants ont
+rendu leur créance invoquée de 500'400 fr. même
+simplement vraisemblable. La vraisemblance qualifiée de la
+créance n'est en tout cas pas établie.
+d)
+Les recourants se prévalent aussi de deux cessions
+de créance en faveur de la recourante
+T.C.________SA.
+La première a été opérée par une
+société dénommée I.________SA, selon un
+acte dont il ressort que cette société serait la
+créancière de l'intimée pour un montant de
+1'140 fr. 95 représentant un solde de facture. Cet acte a
+été produit à l'audience du 16 janvier 2007,
+soit postérieurement au dépôt de la
+requête de faillite sans poursuite préalable et n'est
+pas daté.
+Dans le cadre d'une action au fond, la question de la
+qualité pour agir (légitimation active), qui
+relève du droit matériel, doit s'examiner au moment
+du jugement et peut résulter en cours de procès d'une
+cession de créance, sans l'accord du défendeur (JT
+2007 III 116 c. 3b). Il est cependant fort douteux que ces
+principes puissent valoir dans une procédure de faillite
+sans poursuite préalable, soit une procédure
+d'exécution forcée. Pour une telle procédure,
+on doit pouvoir attendre que la partie requérante
+établisse la titularité de la créance qu'elle
+invoque au moment du dépôt de sa requête. Cette
+question peut toutefois rester indécise dans le cas
+présent, où l'on ignore de toute façon quelles
+sont les relations entre I.________SA et l'intimée, en quoi
+consiste la créance cédée par celle-là
+et sur quoi elle repose. Aucune pièce susceptible de valoir
+reconnaissance de dette opposable à l'intimée n'a
+été produite. La créance n'est ainsi pas
+même rendue vraisemblable et, a fortiori, une vraisemblance
+qualifiée n'est pas rapportée.
+La seconde cession a été opérée par une
+société dénommée V.________Sàrl,
+selon un acte dont il ressort que cette société
+serait la créancière de l'intimée pour un
+montant de 2'169 fr. 20 résultant d'une commande. Cet acte a
+été produit à l'audience du 16 janvier 2007 et
+n'est pas daté. La commande et la facture y relative ont
+également été produites. Là encore, les
+recourants n'établissent pas qu'ils auraient
+été titulaires de la créance invoquée
+au moment du dépôt de la requête de faillite
+sans poursuite préalable et, quoi qu'il en soit, ne rendent
+pas leur créance suffisamment vraisemblable. Ils
+établissent certes que l'intimée a passé une
+commande à V.________Sàrl. On ignore cependant ce
+qu'il est advenu de cette commande et si la société
+précitée a rempli les obligations qui lui
+incombaient, notamment la livraison des pièces
+commandées. L'intimée, pour sa part, a produit le
+dispositif d'un prononcé par lequel le juge de paix a
+rejeté la requête de mainlevée
+déposée par GM Précision Sàrl dans la
+poursuite n° 3'076'092 exercée contre l'intimée
+en paiement de la facture précitée. La
+société cédante a donc procédé
+contre l'intimée sans parvenir à ses fins. Dans ces
+conditions, les recourants n'ont pas établi la vraisemblance
+qualifiée de la créance cédée
+invoquée, mais tout au plus sa vraisemblance simple, ce qui
+est insuffisant.
+Il résulte de ce qui précède que les
+recourants n'ont pas démontré avec le degré de
+vraisemblance requis disposer d'une créance contre
+l'intimée. Pour ce motif déjà, la
+requête de faillite sans poursuite préalable devait
+être rejetée, ce qui entraîne le rejet du
+recours, sans qu'il soit besoin d'examiner plus avant la
+problématique de la cessation de paiements.
+III.
+Le recours doit ainsi être rejeté et
+le jugement confirmé.
+Les frais de deuxième instance des recourants, solidairement
+entre eux, sont arrêtés à 300 francs. Ils
+doivent en outre verser, solidairement entre eux, la somme de 2'500
+fr. à l'intimée, à titre de dépens de
+deuxième instance.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant en audience publique en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est
+rejeté.
+II.
+Le jugement entrepris est
+maintenu.
+III.
+Les frais d'arrêt des
+recourants T.C.________SA et D.________, solidairement entre eux,
+sont fixés à 300 fr. (trois cents francs).
+IV.
+Les recourants, solidairement entre
+eux, doivent payer à l'intimée T.T.________SA la
+somme de 2'500 fr. (deux mille cinq cents francs) à titre de
+dépens de deuxième instance.
+V.
+L'arrêt motivé est
+exécutoire.
+Le
+président :
+L
+a
+greffi
+ère
+:
+Du 26
+février 2009
+Le dispositif de l'arrêt qui précède est
+communiqué par écrit aux
+intéressés.
+L
+a
+greffi
+ère
+:
+Du 3 juin
+2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié en expédition complète, par l'envoi de
+photocopies à :
+‑      Me Philippe
+Reymond, avocat (pour T.C.________SA et D.________),
+‑      Me Bernard de
+Chedid, avocat (pour T.T.________SA),
+-      M. le
+Préposé à l'Office des poursuites et faillites
+de Morges-Aubonne.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-      M. le
+Préposé au Registre du commerce du canton de
+Vaud,
+-      M. le Conservateur du
+Registre foncier du district de Morges,
+‑      Mme la
+Présidente du Tribunal d'arrondissement de La
+Côte.
+L
+a
+greffi
+ère
+:
