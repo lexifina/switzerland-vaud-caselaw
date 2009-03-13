@@ -1,0 +1,316 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 4"
+decided: "2009-03-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1362037"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-010.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-088.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 4
+
+## Regeste
+
+PLAINTE{LP}, PROCÈS-VERBAL DE SAISIE, RÉCUSATION | 44 CPC, 10 LP, 17 LP, 18 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.03.2009 Plainte / 2009 / 4
+
+PLAINTE{LP}, PROCÈS-VERBAL DE SAISIE, RÉCUSATION | 44 CPC, 10 LP, 17 LP, 18 LP
+
+TRIBUNAL CANTONAL
+8
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+13 mars 2009
+__________________
+Présidence
+de   M.
+Bosshard
+,
+juge présidant
+Juges
+:         Mme
+Carlsson et M. Denys
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 10, 17, 18 LP; 44
+al. 1 CPC
+La Cour des
+poursuites et faillites du Tribunal cantonal prend séance
+à huis clos, en sa qualité d'autorité
+cantonale supérieure de surveillance, pour statuer sur le
+recours interjeté par
+A.________
+, à Morges,
+contre la décision
+rendue le 16 septembre 2008, à la suite de l'audience du 12
+août 2008, par la Présidente du Tribunal
+d'arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte
+formée par le recourant contre le procès-verbal de
+saisie établi par l'
+Office des poursuites et faillites
+de Morges-Aubonne
+, dans le cadre de la poursuite n°
+3'117'940 exercée contre lui à l'instance de
+l'
+Etat de
+Vaud
+, Secteur Recouvrement et Bureau A.J.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+1.
+a)
+Le 16
+avril 2007, l'Etat de Vaud, par son Secteur Recouvrement et Bureau
+A.J., a requis la continuation de la poursuite n° 3'117'940 de
+l'Office des poursuites de Morges-Aubonne [ci-après :
+l'office] à l'encontre de A.________, sur la base du
+prononcé du Juge de paix du district de Morges du 2 mars
+2007, définitif et exécutoire dès le 23 mars
+2007, prononçant la mainlevée définitive de
+l'opposition à concurrence de 37'250 fr. 10 sans
+intérêt.
+Le 18 avril 2007, l'office a adressé à A.________ un
+avis de saisie dans le cadre de la poursuite précitée
+pour le montant de 37'912 fr. 50, intérêts et frais
+compris. Cet avis indiquait, par une mention mise en
+évidence, que la saisie porterait sur le disponible revenant
+au débiteur ensuite de la vente aux enchères de son
+immeuble situé à Saint-Prex et serait
+exécutée même en son absence. La cellule
+immobilière de l'office a été avisée le
+27 avril 2007 de la saisie d'une créance de 40'000 fr. au
+préjudice de A.________.
+Par lettre recommandée du 27 avril 2007, l'office a
+rappelé au prénommé que la saisie requise par
+son créancier était fondée sur un
+prononcé de mainlevée devenu définitif et
+exécutoire faute de recours ou de demande de relief et qu'il
+ne lui était en conséquence plus possible de
+s'opposer au montant réclamé en poursuite, celle-ci
+étant exécutoire. L'office a encore indiqué
+à A.________ que ses revenus ne permettant pas de couvrir la
+créance réclamée, la saisie était
+ordonnée sur le disponible lui revenant de la vente de son
+immeuble à Saint-Prex et qu'il pouvait attaquer cette
+décision par la voie de la plainte.
+b)
+Par prononcé rendu
+le 20 novembre 2007, la Présidente du Tribunal
+d'arrondissement de La Côte a rejeté la plainte
+déposée le 7 mai 2007 par A.________ contre
+l'exécution de la saisie.
+Le 28 février 2008, la cour de céans
+a rejeté le recours du plaignant contre cette
+décision. Dans son arrêt, la cour a rappelé au
+recourant qu'il ne pouvait pas contester le fondement des
+prétentions du poursuivant dans le cadre d'une plainte
+dirigée contre un acte de l'office des poursuites,
+dès lors que ni l'office ni l'autorité de
+surveillance n'avaient le pouvoir de décider si la
+prétention litigieuse était exercée à
+bon droit ou non, cette question relevant de la compétence
+du juge de la mainlevée ou du juge du fond (CPF 2008/plainte
+n° 1, c. III b et réf. cit.). Pour le surplus, la cour
+de céans a constaté que l'office s'était
+conformé aux art. 88 ss LP réglant les
+modalités de la saisie.
+2.
+a)
+A l'échéance
+du délai de participation à la saisie, fixé au
+2 avril 2008, l'office a établi un procès-verbal de
+saisie qu'il a expédié aux parties le 20 juin
+2008.
+Le 29 juin 2008, A.________ a déposé plainte contre
+ce procès-verbal, concluant à l'annulation de la
+saisie. Dans son acte, le plaignant a déclaré
+"s'oppose[r] catégoriquement contre la poursuite" en cause,
+faisant valoir que la "facture pour "note de frais pénal"
+[était] prématurée" et que la créance
+en poursuite était fondée sur des jugements des 24
+novembre 2006 et 6 juillet 2007 contre lesquels il avait recouru
+auprès du Tribunal fédéral en requérant
+l'effet suspensif.
+L'Etat de Vaud et l'office se sont déterminés,
+respectivement le 23 et le 31 juillet 2008, concluant l'un et
+l'autre au rejet de la plainte.
+b)
+Par décision rendue
+le 16 septembre 2008,  la Présidente du Tribunal
+d'arrondissement de La Côte, statuant en sa qualité
+d'autorité inférieure de surveillance, a
+rejeté la plainte. Elle a considéré que la
+voie de la plainte n'était pas ouverte au poursuivi pour
+contester la prétention en poursuite et que, pour le
+surplus, le plaignant n'avait soulevé aucun grief contre le
+procès-verbal de saisie en cause.
+A.________ a recouru par acte du 27 septembre 2008 contre cette
+décision, concluant à son annulation, pour le motif
+que la Présidente Anne Röthenbacher se serait
+"récusée dans toutes les affaires [le] concernant",
+à l'instar des autres Présidents du Tribunal
+d'arrondissement de La Côte. Pour le surplus, il a
+à nouveau mis en cause le bien-fondé de la
+créance en poursuite. Subsidiairement, il a requis la
+"récusation en bloc de tous les "juges" vaudois".
+Dans le délai fixé aux intimés pour se
+déterminer sur le recours, l'Etat de Vaud s'est
+référé aux déterminations qu'il avait
+produites en première instance. L'office a
+procédé de même, préavisant en outre
+pour le rejet du recours.
+c)
+La  requête de
+récusation a été transmise au Tribunal neutre
+le 10 octobre 2008, le recourant étant avisé par avis
+du même jour que la cour de céans suivait à
+l'instruction du recours en application de l'art. 49 al. 1 in fine
+CPC (Code de procédure civile; RSV 270.11).
+La Présidente Röthenbacher a été
+invitée par lettre du 29 octobre 2008 à se
+déterminer sur l'affirmation du recourant selon laquelle
+elle se serait récusée dans toutes les affaires
+concernant celui-ci. Par lettre du 31 octobre 2008, elle a
+indiqué qu'elle ne s'était personnellement jamais
+récusée dans les affaires concernant le recourant.
+Une copie de cette détermination a été
+adressée au recourant et aux intimés le 5 novembre
+2008.
+En droit :
+I.
+Formé en temps utile
+(art. 18 al. 1 LP, 28 al. 1 LVLP
+-
+loi vaudoise
+d'application de la loi fédérale sur la poursuite
+pour dettes et la faillite; RSV 280.05
+) et suffisamment motivé (art.
+28 al. 3 LVLP), le recours est recevable.
+II.
+a)
+La
+récusation spontanée d'un président d'un
+tribunal d'arrondissement doit faire l'objet d'une décision
+de la Cour administrative du Tribunal cantonal, selon la
+procédure prévue aux art. 44 al. 1, 47 al. 3 et 48
+al. 3 CPC, auxquels renvoie l'art. 47 LVLP.
+En l'espèce, le recourant n'a produit aucune décision
+statuant sur la prétendue demande de récusation
+spontanée de la Présidente Röthenbacher.
+Cette
+dernière a déclaré ne s'être jamais
+récusée dans les affaires concernant le recourant. Il
+est vrai qu'une demande de récusation spontanée des
+magistrats du Tribunal d'arrondissement de La Côte a
+été admise par la Cour administrative, mais en 2003,
+soit avant la nomination d'Anne Röthenbacher comme
+présidente de ce tribunal. Par la suite, le 4 avril 2005, la
+Cour administrative a prononcé la récusation du
+Tribunal correctionnel de l'arrondissement de La Côte,
+à la demande du recourant, dans la procédure
+pénale dirigée contre lui, à laquelle
+était notamment partie comme plaignant l'époux de
+l'une des vice-présidentes du tribunal précité
+(CA, n° 17/05). Cette décision n'implique toutefois
+nullement que tout-e Président-e du Tribunal
+d'arrondissement de La Côte doive dorénavant
+systématiquement se récuser dans tout dossier
+concernant le recourant, la récusation
+précédente ne valant que pour la procédure
+pénale au fond. C'est ainsi à bon droit que la
+Présidente Röthenbacher a siégé dans le
+cadre la présente procédure de plainte LP contre un
+procès-verbal de saisie, quand bien même la
+créance à l'origine de la saisie en cause serait
+issue de la procédure pénale précitée.
+Aucun des motifs de récusation prévus par l'art. 10
+LP n'est par ailleurs réalisé.
+Le grief tiré de la prétendue récusation du
+magistrat qui a statué en première instance doit
+ainsi être rejeté.
+b)
+Le recourant s'en prend une
+nouvelle fois au caractère prétendument
+infondé de la créance en poursuite. Ce moyen est
+irrecevable dans la procédure de plainte, ainsi que le
+recourant en a été informé par l'office le 27
+avril 2007, par la décision de l'autorité
+inférieure de surveillance du 20 novembre 2007, par
+l'arrêt de la cour de céans du 28 février 2008
+et, à nouveau, par la décision
+attaquée.
+Pour le surplus, le recourant ne formule aucun grief relatif
+à la participation à la saisie,
+l'établissement ou la notification du procès-verbal
+de saisie (art. 110 à 114 LP). Ces opérations ont
+été suivies régulièrement par
+l'office.
+Le recours doit ainsi être rejeté et le
+prononcé entrepris maintenu.
+III.
+Le présent arrêt est rendu sans frais ni dépens
+(art. 20a al. 2 ch 5 LP,
+61 al. 2 let. a et 62 al. 2 OELP - o
+rdonnance sur les émoluments
+perçus en application de la LP; RS
+281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé entrepris est
+maintenu.
+III.
+Le présent arrêt, rendu
+sans frais ni dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 13 mars 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      M.
+A.________,
+-      Etat de Vaud,
+Secteur Recouvrement et Bureau A.J.,
+‑      M. le
+Préposé à l'Office des poursuites et faillites
+de Morges-Aubonne.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      Mme la
+Présidente du Tribunal d'arrondissement de La Côte,
+autorité inférieure de surveillance.
+La greffière :
