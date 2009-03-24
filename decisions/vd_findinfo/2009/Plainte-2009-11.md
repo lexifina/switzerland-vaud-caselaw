@@ -1,0 +1,479 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 11"
+decided: "2009-03-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1362299"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-074.md", "switzerland/bund/acts/272/art-073.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-050.md", "switzerland/bund/acts/281.1/art-053.md", "switzerland/bund/acts/281.35/art-062.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 11
+
+## Regeste
+
+FOR DE LA POURSUITE, PROROGATION DE FOR | 17 LP, 50 al. 2 LP, 53 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 24.03.2009 Plainte / 2009 / 11
+
+FOR DE LA POURSUITE, PROROGATION DE FOR | 17 LP, 50 al. 2 LP, 53 LP
+
+TRIBUNAL CANTONAL
+9
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+24 mars 2009
+__________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:         MM.
+Bosshard et  Denys
+Greffier
+:         Mme
+Nüssli
+*****
+Art. 17, 50 al. 2 et 53
+LP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+E.________
+, à [...],
+contre la décision
+rendue le 31 juillet 2008 par le Président du Tribunal
+d'arrondissement de la Broye et du Nord vaudois, autorité
+inférieure de surveillance, rejetant la plainte
+déposée par la recourante tendant à
+l'annulation du constat d'inexécution de la saisie requise,
+établi le 13 mars 2008 par l'
+OFFICE DES POURSUITES DE
+MOUDON-ORON
+dans le cadre de la poursuite n° 390'613
+dirigée contre
+W.________
+, à
+[...] (Royaume-Uni).
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+A.
+E.________
+et W.________, mariés le
+22 octobre 2001, sont séparés depuis le
+mois de février 2006.
+Dans deux écritures, datées des 30 octobre 2006 et 4
+mai 2007, relatives à la procédure de
+séparation d'avec son épouse, W.________ a
+indiqué son adresse de la manière suivante : "p.a.
+Mme [...], rue du [...], [...]".
+Le 6 octobre 2006, W.________ a écrit au conseil de
+E.________ pour l'informer de la résiliation du mandat de
+son conseil d'alors et lui demander d'adresser "tout courrier
+relatif à cette affaire" à l'adresse : "p.a.
+N.________, rue du [...], [...]".
+B.
+Sur requête de E.________, l'Office des poursuites de
+Moudon-Oron (ci-après : l'office) a notifié le 5
+janvier 2007 à W.________, rue du [...], à [...], un
+commandement de payer, dans la poursuite n° 383'152, portant
+sur la somme de 24'500 fr., sans intérêt, la cause de
+l'obligation invoquée étant "Reconnaissances de
+dettes du 10 janvier 2000, 30 juin 2000 et 3 août 2005". Le
+commandement de payer a été remis à
+N.________, mère du poursuivi, et a été
+frappé d'opposition.
+Le 4 mai 2007, la poursuivante a requis la mainlevée
+provisoire de l'opposition. Dans son procédé
+écrit du 4 juin 2007, le poursuivi, qui indiquait
+écrire de Cardiff (Royaume Uni), a conclu au rejet de la
+requête de mainlevée mais n'a pas fait valoir
+l'incompétence à raison du lieu du Juge de paix du
+district d'Oron.
+Par prononcé du 22 août 2007, ce magistrat a
+levé provisoirement l'opposition au commandement de
+payer.
+Le 3 janvier 2008, W.________ a ouvert action en libération
+de dette, concluant avec dépens à ce qu'il soit
+prononcé qu'il n'est pas le débiteur de E.________ du
+montant de 24'500 fr., qui fait l'objet de la poursuite n°
+383'152, et au maintien définitif de son opposition au
+commandement de payer. Dans cette écriture, W.________
+indique son adresse à Cardiff, suivie de la mention "p.a.
+Mme N.________, rue du [...], [...] [...]".
+C.
+Sur requête de E.________,
+l'office a notifié le 3 août 2007 à W.________
+un commandement de payer, dans la poursuite n° 390'613,
+portant sur la somme de 140'000 fr., plus intérêt
+à 5 % l'an dès le 16 juin 2007, la cause
+invoquée étant "Reconnaissance de dettes du 10
+décembre 2004 ". L'acte, remis à la mère du
+poursuivi, a été frappé d'opposition
+totale.
+Par prononcé du 20 septembre 2007, le Juge de paix du
+district d'Oron, a levé provisoirement l'opposition à
+concurrence de 140'000 fr., plus intérêt au taux de 5
+% l'an dès le 16 juillet 2007. Cette décision est
+définitive et exécutoire selon attestation du 12
+novembre du greffier de paix.  Une attestation du 14 janvier
+2008 du Tribunal cantonal indique par ailleurs qu'aucune action en
+libération de dette n'a été introduite
+à la Cour civile à la suite de ce
+prononcé.
+D.
+Le 18 janvier 2008, E.________ a
+déposé une réquisition de continuer la
+poursuite, dans le cadre de la poursuite n° 390'613.
+Le 13 mars 2008, l'office a établi un constat
+d'inexécution d'une saisie requise pour le motif que le
+débiteur est à l'étranger précisant que
+lors de l'exécution de la saisie du 11 mars 2008, il a
+été constaté :
+"- le débiteur n'est pas
+domicilié à [...], rue du [...].
+- le débiteur réside et est
+établi à CARDIFF en Angleterre.
+- de plus il exerce son activité
+professionnelle sur sol britannique.
+- l'adresse de [...] est uniquement une
+adresse postale.
+- seule la mère du débiteur
+réside à [...], rue du [...].
+Au vu de ce qui précède il
+n'existe pas de for de la poursuite (art. 46 LP), respectivement de
+la saisie, à [...], rue du [...]."
+Le 27 mars 2008, E.________ a déposé une plainte au
+sens de l'article 17 LP contre ce constat d'inexécution
+d'une saisie devant le Président du Tribunal
+d'arrondissement de la Broye et du Nord vaudois, autorité
+inférieure de surveillance, concluant, avec suite de frais
+et dépens, à l'annulation du constat
+d'inexécution de saisie et à ce qu'il soit
+ordonné à l'office de donner suite à la
+réquisition de continuer la poursuite du 18 janvier 2008
+dans le cadre de la poursuite n° 390'613.
+L'office intimé s'est déterminé le 2 mai 2008,
+concluant au rejet de la plainte.
+Dans ses déterminations du 20 mai 2008, l'intimé
+W.________ a conclu, avec dépens, au rejet de la plainte. Il
+a produit en particulier les pièces suivantes :
+-
+une attestation d'établissement
+établie le 23 juin 2006 par la Commune de [...], indiquant
+qu'il était domicilié à [...], rue du [...] du
+1
+er
+janvier 2006 au 31 juillet 2006 et qu'il a
+annoncé son départ dès le 1
+er
+juillet 2006 pour Cardiff, au Pays de Galles;
+- une lettre d'engagement ainsi
+qu'un contrat de travail établi par la société
+Rok Productions Limited, à Wolverhampton (Royaume Uni),
+indiquant le début des rapports de travail au 19 juillet
+2007;
+- une facture
+d'électricité, datée du 23 juillet 2007, ainsi
+qu'une facture de gaz, du 24 juillet 2007, adressées
+à l'intimé à son domicile à
+Cardiff;
+- une décision d'octroi de
+l'assistance judiciaire, du 17 octobre 2007, en faveur de
+l'intimé avec l'indication de son domicile à
+Cardiff.
+E.
+Par prononcé rendu le 31 juillet 2008, à la suite de
+l'audience du 22 mai 2008, le Président du Tribunal
+d'arrondissement de la Broye et du Nord vaudois, statuant en sa
+qualité d'autorité inférieure de surveillance
+en matière de poursuites pour dettes et faillites, a
+rejeté la plainte (I) et rendu sa décision sans frais
+ni dépens (II).
+Le premier juge a considéré en substance que
+l'intimé avait donné une adresse d'acheminement
+à [...] chez sa mère dans le cadre de la
+procédure de séparation d'avec son épouse,
+mais qu'il n'avait pas fait élection de domicile à
+cette adresse, de sorte que, vu son domicile à
+l'étranger, la continuation de la poursuite commencée
+en Suisse n'était pas possible.
+La plaignante a reçu cette décision le 8 août
+2008 et, par acte du 15 août suivant, a formé recours,
+concluant, avec suite de frais et dépens, principalement
+à la réforme du prononcé dans le sens de
+l'admission de sa plainte, subsidiairement à son annulation
+et au renvoi de la cause à l'autorité
+inférieure de surveillance pour nouveau jugement. Elle a
+produit la copie d'une requête de mesures provisionnelles
+d'extrême urgence déposée le 2 août 2006
+devant le Président du Tribunal d'arrondissement de la Broye
+et du Nord vaudois par l'intimé qui indique son adresse sous
+la forme "p.a. Mme N.________, rue du [...], [...]" et qui
+déclare, pour les besoins de la cause, faire élection
+de domicile en l'étude de son conseil d'alors.
+Par écriture du 1
+er
+septembre 2008, l'office
+s'est notamment référé aux
+déterminations qu'il avait produites en première
+instance et a conclu au rejet du recours.
+Dans ses déterminations du 3 novembre 2008, l'intimé
+a conclu au rejet du recours et à l'allocation de
+dépens en raison du comportement abusif de la recourante. Il
+a produit notamment un prononcé de mesures protectrices de
+l'union conjugale rendu le 30 novembre 2006 par le Président
+du Tribunal d'arrondissement de la Broye et du Nord vaudois dans
+lequel il est fait mention des craintes de E.________ quant
+au recouvrement de sa créance en raison du départ de
+son époux à l'étranger et de son intention de
+vendre son immeuble à [...] pour en acheter un autre en
+Angleterre.
+En droit :
+1.
+Déposé en temps
+utile (art. 18 al. 1 LP, loi fédérale sur la
+poursuite pour dettes et la faillite du 11 avril 1889,  RS
+281.1) et dans les formes requises (art. 28 LVLP, loi d'application
+dans le canton de Vaud de la loi fédérale sur la
+poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05),
+le recours est recevable selon ces critères. Les
+pièces nouvelles sont recevables (art. 28 al. 4 et 31 al. 1
+LVLP).
+2.
+La plainte est dirigée
+contre l'établissement par l'office d'un constat
+d'inexécution d'une saisie requise en raison du domicile
+à l'étranger du débiteur.  La recourante
+soutient toutefois que l'intimé a procédé
+à une élection de for chez sa mère à
+Mézières, de sorte qu'un for de poursuite
+existerait.
+a)
+Conformément à l'art.
+53 LP, en cas de transfert du domicile du poursuivi à
+l'étranger avant la communication de l'avis de saisie, la
+continuation de la poursuite en Suisse y est impossible, sous
+réserve des cas prévus aux art. 50, 51, 52 et 54 LP
+(Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, n. 16 ad art. 53
+LP).
+Aux termes de l'art. 50 al. 2 LP, le débiteur
+domicilié à l'étranger, qui a élu
+domicile en Suisse pour l'exécution d'une obligation, peut y
+être poursuivi pour cette dette. Cette disposition constitue
+la seule exception à la règle selon laquelle les
+parties ne sont pas habilitées à déterminer un
+for de poursuite selon leur gré. L'élection doit se
+rapporter à une ou des obligations spécifiées
+envers un créancier déterminé.
+L'élection d'un for de la poursuite est une manifestation de
+volonté qui s'interprète selon les règles de
+la bonne foi. L'application de l'art. 50 al. 2 LP ne suppose pas
+nécessairement qu'il y ait eu stipulation expresse d'un for
+de poursuite en Suisse; il suffit que, compte tenu des
+circonstances et des règles de la bonne foi, on doive
+admettre que le débiteur a manifesté la
+volonté de se soumettre à une exécution
+forcée en Suisse. La simple convention quant au lieu
+d'exécution ou de paiement (cf. art. 74 CO)
+, n'implique pas élection de for
+d'exécution forcée, sauf en
+ce qui concerne les
+lettres de change ou les titres au porteur. Le domicile élu
+au sens de l'art. 50 al. 2 LP est le lieu où le
+débiteur a manifesté la volonté de pouvoir
+être poursuivi en exécution de son obligation, quand
+bien même ce for de poursuite ne coïnciderait pas avec
+le lieu d'exécution stipulé entre les parties. Si
+l'élection d'un for de poursuite est
+généralement contemporaine à la dette, elle
+peut tout aussi bien être postérieure. La simple
+désignation d'un domicile aux fins de notification des actes
+judiciaires dans un procès civil ou pénal ne
+constitue pas le for de poursuite spécial prévu
+à l'art. 50 al. 2 LP (TF 7B.55/2006 du 21 septembre 2006,
+consid. 2.2.2, 2.2.3 et 2.3 ainsi que les références
+citées).
+b)
+En l'espèce, la recourante fonde tout d'abord
+l'élection de for sur le courrier du 6 octobre 2006 de
+l'intimé au conseil de la recourante, demandant de lui
+adresser "tout courrier relatif à cette affaire" à
+l'adresse de sa mère à [...].
+Le contenu de cette lettre, qui paraît s'inscrire dans le
+cadre d'une procédure de mesures protectrices de l'union
+conjugale, doit être compris comme la désignation d'un
+domicile aux fins de notification. Conformément à la
+jurisprudence précitée, une telle désignation
+ne vaut pas élection de for. On ne perçoit pas en
+quoi le fait que ce courrier de l'intimé soit intervenu
+à la suite de la résiliation du mandat de son avocat
+chez qui il avait élu domicile puisse constituer un
+élément d'interprétation en faveur d'une
+élection de for, comme le soutient la recourante. En effet,
+une élection de domicile chez un avocat au sens de l'art. 73
+CPC constitue une simple adresse de notification et ne comporte pas
+d'élection de for (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, n. ad art. 73 CPC). En outre, dans le cas
+particulier, le contexte ou les rapports entre les parties ne
+permettent pas de retenir une élection de for. Cette
+situation n'est pas assimilable à celle visée dans
+l'arrêt du Tribunal fédéral 7B.55/2006
+précité, où une élection de for avait
+été admise dès lors que, pour aplanir les
+difficultés d'exécution, la partie poursuivie avait
+en particulier déclaré faire élection de
+domicile en l'étude de son conseil en vue de la notification
+d'un commandement de payer.
+c)
+La recourante déduit encore une élection de
+for du fait que dans une première poursuite (n°
+383'152), l'intimé n'a pas déposé plainte
+contre la notification
+du commandement de
+payer et a ouvert action en libération de dette au for de la
+poursuite. Elle relève également que dans la
+poursuite litigieuse, l'intimé n'a pas davantage
+contesté le for par le dépôt d'une plainte
+contre la notification du commandement de payer.
+Cette argumentation ne peut être suivie. L'élection de
+for doit concerner une obligation déterminée. On ne
+saurait donc inférer quoi que ce soit d'une autre poursuite
+relative à une autre dette.  En l'espèce, les
+éléments invoqués par la recourante
+relativement à cette autre poursuite ne permettent pas de
+retenir une élection de for pour toute dette de
+l'intimé envers la recourante.
+On ne peut non plus inférer de l'absence de plainte contre
+la notification du commandement de payer dans la présente
+poursuite l'existence d'une prorogation de for. L'absence de
+plainte profite au poursuivant en ce sens qu'il peut
+requérir la continuation de la poursuite auprès de
+l'office compétent ratione loci si le commandement de payer
+n'a pas été frappé d'opposition ou si
+l'opposition a été levée; le poursuivant ne
+perd ainsi pas le bénéfice du commandement de payer
+notifié par un office incompétent à raison du
+lieu (Gilliéron, op. cit., Remarques introductives : art.
+46-55, nn. 31-32). En revanche, l'absence de plainte n'a pas pour
+effet de proroger le for de la poursuite. A réception de la
+réquisition de continuer la poursuite, l'office est tenu
+d'examiner à nouveau s'il est compétent ratione loci
+(Gilliéron, op. cit., n. 20 ad art. 53 LP).
+d)
+La recourante affirme encore que le comportement de
+l'intimé serait contraire à la bonne foi. Elle
+relève en particulier que ce dernier a toujours
+mentionné l'adresse de sa mère à [...] et
+prétend qu'entre le début de la procédure
+matrimoniale en février 2006 et le dépôt de
+l'action en libération de dette dans l'autre poursuite,
+l'intimé s'est volontairement abstenu de l'informer de son
+changement de domicile en Angleterre.
+Ce faisant, la recourante ne formule pas de grief
+véritablement distinct de ceux qui précèdent,
+lesquels sont infondés. Au demeurant, contrairement à
+ce qu'elle laisse entendre, la recourante avait au moins
+envisagé le départ de l'intimé à
+l'étranger en novembre 2006, ce qui résulte du
+prononcé de mesures protectrices de l'union conjugale du 30
+novembre 2006.
+e)
+L'existence d'une élection de for n'a ainsi pas
+été établie. La réquisition de
+continuer la poursuite - et donc l'avis de saisie - étant
+intervenue après le changement de domicile à
+l'étranger de l'intimé, c'est à juste titre
+que l'office n'a pas donné suite à la
+réquisition de poursuite.
+3.
+En définitive, le recours doit être
+rejeté et le prononcé entrepris maintenu.
+L'intimé soutient que le comportement de la recourante,
+qu'il qualifie d'abusif, justifie l'allocation de
+dépens.
+Selon l'art. 20a al. 1 ch. 5 LP, la procédure de plainte est
+gratuite. Toutefois, la partie ou son représentant qui use
+de procédés téméraires ou de mauvaise
+foi peut être condamné à une amende de 1'500
+fr. au plus ainsi qu'au paiement des émoluments et des
+débours.
+On relèvera en premier lieu qu'aux termes de la disposition
+précitée, seule une condamnation à une amende
+ou au paiement d'émoluments peut être prononcée
+lorsque les conditions en sont remplies. L'allocation de
+dépens est donc exclue, ce qui ressort par ailleurs de
+l'art. 62 al. 2 OELP (Ordonnance du 23 septembre 1996 sur les
+émoluments perçus en application de la loi
+fédérale sur la poursuite pour dettes et la faillite,
+RS 281.35)
+Se verra reproché un comportement téméraire ou
+de mauvaise foi celui qui - en violation du devoir d'agir selon la
+bonne foi - forme un recours sans avoir d'intérêt
+concret digne de protection et bien que la situation en fait et en
+droit soit claire, avant tout pour ralentir la procédure de
+poursuite (ATF 127 III 178, JT 2001 II 50).
+En l'espèce et au vu des considérants qui
+précèdent, ces conditions ne sont  pas remplies,
+de sorte qu'il n'y a pas lieu de mettre à la charge de la
+recourante une amende ou le paiement de frais.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé entrepris est
+maintenu.
+III.
+Le présent arrêt, rendu
+sans frais ni dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 24 mars 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Me Jean-Christophe
+Oberson, avocat (pour E.________),
+‑      Me Alix de
+Courten, avocate (pour W.________),
+‑      M. le
+Préposé à l'Office des poursuites de
+Moudon-Oron.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de la Broye et du
+Nord vaudois, autorité inférieure de
+surveillance.
+La greffière :
