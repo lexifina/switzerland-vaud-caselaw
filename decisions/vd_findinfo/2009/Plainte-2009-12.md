@@ -1,0 +1,305 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 12"
+decided: "2009-03-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1362438"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-067.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 12
+
+## Regeste
+
+PLAINTE{LP}, POUVOIR DE REPRÉSENTATION, MANDATAIRE | 17 LP, 18 LP, 67 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.03.2009 Plainte / 2009 / 12
+
+PLAINTE{LP}, POUVOIR DE REPRÉSENTATION, MANDATAIRE | 17 LP, 18 LP, 67 LP
+
+TRIBUNAL CANTONAL
+10
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+30 mars 2009
+__________________
+Présidence
+de   M.
+Bosshard
+,
+juge présidant
+Juges
+:         Mme
+Carlsson et M. Denys
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 17, 18 et 67
+LP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+T.________
+, à Schlieren,
+contre la décision rendue le
+26 septembre 2008, à la suite de l'audience du 22 mai 2008,
+par le Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance, rejetant la
+plainte formée par le recourant contre la notification par
+l'
+OFFICE DES POURSUITES DE LAUSANNE-EST
+d'un commandement de
+payer dans le cadre de la poursuite en réalisation de gage
+mobilier n° 1'254'775 exercée à l'instance de la
+société
+SI V.________SA
+,
+à Lausanne.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+1.
+a)
+Le 15 avril 2008, la
+société SI V.________SA, représentée
+par l'agent d'affaires breveté Jean-Marc Decollogny, a fait
+notifier à T.________, dans la poursuite n° 1'254'775 de
+l'Office des poursuites de Lausanne-Est, un comman-dement de payer
+la somme de 1'455 fr. plus intérêt à 5 % l'an
+dès le 1
+er
+juillet 2007, représentant le
+loyer impayé du mois de juillet 2007 de l'ancien appartement
+du poursuivi, sis chemin de Vermont 20, à Lausanne,
+dans  un immeuble propriété de la poursuivante
+et géré par la société G.________SA,
+ainsi que 200 fr. à titre d'indemnité selon l'article
+106 CO. Le poursuivi a formé opposition
+totale.
+b)
+Le 25 avril 2008,
+T.________ a saisi le Président du Tribunal d'arrondissement
+de Lausanne, autorité inférieure de surveillance,
+d'une plainte au sens de l'art. 17 LP, concluant, avec suite de
+frais et dépens, à l'annulation de la poursuite.
+Selon le plaignant, la partie poursuivante n'avait pas d'existence
+juridique ou, du moins, était inexactement
+désignée dans le commandement de payer et les
+pouvoirs de représentation de son mandataire
+n'étaient pas valables. Il a requis l'effet suspensif, qui a
+été refusé par décision
+présidentielle du 28 avril 2008.
+Le 8 mai 2008, au nom de SI V.________SA, l'agent d'affaires
+breveté Decollogny a déposé une
+détermination écrite, concluant au rejet de la
+plainte. Il a produit  des pièces, notamment le contrat
+de bail à loyer portant sur un appartement au chemin de
+Vermont 20, à Lausanne, signé le 10 décembre
+2004 par T.________, locataire, et G.________,
+Société de gestion immobilière,
+représentant la bailleresse SI V.________SA, ainsi qu'une
+lettre que G.________SA lui avait adressée le 18 mars 2008,
+lui donnant mandat d'engager les poursuites nécessaires
+contre le plaignant en paiement du loyer de l'appartement
+précité restant dû pour le mois de juillet
+2007, par 1'455 fr., charges comprises.
+L'Office des poursuites de Lausanne-Est s'est
+déterminé le 14 mai 2008, préavisant pour le
+rejet de la plainte.
+2.
+a)
+Par prononcé du 26
+septembre 2008, le Président du Tribunal d'arrondissement de
+Lausanne a rejeté la plainte. Au sujet de l'existence
+juridique de la poursuivante, il a constaté qu'il s'agissait
+d'une société anonyme inscrite comme telle au
+Registre du commerce du Canton de Vaud depuis le 21 juin 1951 sous
+la raison de commerce «S.I. V.________». Quant à
+sa désignation dans le commandement de payer, soit «SI
+V.________SA», le premier juge a considéré
+qu'elle tenait compte des nouvelles dispositions du droit de la
+société anonyme entrées en vigueur le
+1
+er
+janvier 2008, qui rendent obligatoire la
+désignation de la forme juridique dans la raison de commerce
+(art. 950 in fine CO), et que le nom de la bailleresse était
+au surplus indiqué de la même manière sur le
+contrat de bail du 10 décembre 2004 à la base de la
+poursuite, de sorte qu'il ne fallait aucun effort au plaignant pour
+reconnaître son créancier poursuivant, d'autant que le
+titre de la créance invoquée, savoir un mois de loyer
+impayé, était énoncé sans
+ambiguïté dans le commandement de payer. En outre,
+contrairement à ce qu'affirmait le plaignant, aucune
+confusion n'était possible avec la Société
+Immobilière «V.________ S.A.», Ste-Croix en
+liquidation, celle-ci ayant été radiée en 2001
+et n'existant donc déjà plus au moment de la
+conclusion du bail. Quant aux pouvoirs de l'agent d'affaires
+breveté Decollogny, le premier juge a
+considéré que leur justification résultait
+suffisamment de la lettre de G.________SA du 18 mars 2008, laquelle
+société représentait déjà la
+bailleresse au moment de la conclusion du contrat, le plaignant
+n'ayant alors apparemment pas émis le moindre doute sur la
+capacité des personnes qui signaient pour G.________
+à engager cette société.
+b)
+Par acte motivé
+portant le sceau postal du 14 octobre 2008, le plaignant a
+formé recours contre ce prononcé, qui lui avait
+été notifié le 1
+er
+octobre
+précédent, concluant en substance à
+l'annulation de la poursuite, avec suite de frais et
+dépens.
+Le recourant a requis l'effet suspensif, qui a été
+accordé par décision du président de la cour
+de céans du 29 octobre 2008.
+Le 5 novembre 2008, l'office s'est référé, en
+les confirmant, aux déterminations qu'il avait produites en
+première instance et a préavisé pour le rejet
+du recours.
+Le 17 novembre 2008, le mandataire de l'intimée a produit
+une copie de la procuration émise en sa faveur par les
+organes de sa cliente et déclaré que celle-ci s'en
+remettait à justice.
+En droit :
+I.
+L'échéance du délai de dix jours pour
+recourir
+(art. 18 al. 1
+LP et 28 al. 1 LVLP -
+loi vaudoise d'application de la loi
+fédérale sur la poursuite pour dettes et la faillite;
+RSV 280.05
+) contre
+l
+e
+prononcé attaqué notifié au plaignant le
+1
+er
+octobre 2008 tombait le samedi 11 octobre 2008 et
+était reportée automatiquement au lundi 13 octobre
+2008 (art. 73 al. 3 LVLP).
+L'enveloppe
+contenant le recours porte le sceau postal du 14 octobre 2008, mais
+le recourant a produit une déclaration écrite d'un
+témoin, attestant du dépôt du recours dans une
+boîte aux lettres de la Poste suisse le 13 octobre 2008, vers
+23 heures 40. Le recours a ainsi été
+déposé en temps utile.
+Il
+comporte en outre l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP),  de sorte
+qu'il est recevable. Les pièces nouvelles sont
+également recevables (art. 28 al. 4 et 31 al. 1
+LVLP).
+II.
+a)
+Le recourant se
+réfère à la plainte qu'il a
+déposée en première instance.  Dans la
+mesure où il entend par là persister à
+contester l'existence juridique de l'intimée ou la
+validité de sa désignation dans le commandement de
+payer, ses griefs sont infondés. Il est renvoyé,
+à cet égard, aux considérants complets et
+pertinents du premier juge, que la cour de céans adoptent
+pour siens.
+b)
+Le recourant remet en cause
+la validité des pouvoirs de représentation du
+mandataire de l'intimée.
+Saisi d'une réquisition de poursuite émanant d'un
+créancier représenté par un mandataire, le
+préposé n'a pas à vérifier d'office les
+pouvoirs de ce dernier. Le défaut de pouvoirs de
+représentation est un moyen qui doit être
+soulevé par la voie de la plainte et du recours aux
+autorités de surveillance (ATF 130 III 231 c. 2.1, JT 2005
+II 25). La réquisition de poursuite formée par un
+représentant sans pouvoirs
+peut au demeurant être ratifiée par le
+représenté dans la procédure de plainte ou de
+recours devant les autorités de surveillance
+(Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, n. 31 ad art. 67 LP;
+Ruedin, Commentaire romand, n. 15 ad art. 67 LP).
+En l'espèce, l'intimée a produit devant la cour de
+céans une procuration en faveur de l'agent d'affaires
+breveté Decollogny. Cette pièce, recevable en vertu
+de l'art. 31 al. 1 LVLP, vaut à tout le moins ratification
+par l'intimée de la réquisition de poursuite en
+cause. Cela entraîne le rejet du recours, sans qu'il soit
+nécessaire d'examiner plus avant si les pouvoirs
+donnés le 18 mars 2008 au mandataire précité
+par la gérance immobilière G.________SA
+étaient suffisants ou non.
+III.
+Le recours doit ainsi être rejeté
+et le prononcé entrepris maintenu.
+Le présent arrêt est rendu sans frais ni dépens
+(art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP -
+ordonnance sur les émoluments perçus en application
+de la LP; RS 281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé entrepris est
+maintenu.
+III.
+Le présent arrêt, rendu sans
+frais ni dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 30 mars 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      M.
+T.________,
+‑      M. Jean-Marc
+Decollogny, agent d'affaires breveté (pour SI
+V.________SA),
+‑      M. le
+Préposé à l'Office des poursuites de
+Lausanne-Est.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance.
+La greffière :
