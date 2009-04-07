@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 1"
+decided: "2009-04-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1454212"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2009 / 1
+
+## Regeste
+
+RADIATION DU RÔLE, PROCÈS DEVENU SANS OBJET | 83 al. 1 LPA-VD, 83 al. 2 LPA-VD, 83 LPA-VD, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 07.04.2009 Décision / 2009 / 1
+
+RADIATION DU RÔLE, PROCÈS DEVENU SANS OBJET | 83 al. 1 LPA-VD, 83 al. 2 LPA-VD, 83 LPA-VD, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+LAVAM 3/09 -
+14/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 7 avril
+2009
+____________________
+Présidence
+de   Mme
+Röthenbacher
+,
+juge unique
+Greffière
+:         Mme
+de Quattro Pfeiffer
+*****
+Cause pendante entre
+:
+Z.________
+, à Sainte-Croix, recourant,
+et
+Organe cantonal de contrôle
+de l'assurance-maladie et accidents
+(ci-après: OCC), à Lausanne,
+intimé.
+_______________
+Art. 83 LPA-VD et 94 al. 1
+let. c LPA-VD
+Vu la décision sur opposition du 18
+décembre 2008, confirmant un prononcé du 3 avril
+précédent, par laquelle l'OCC refuse à
+Z.________ et à sa famille l'octroi de subsides pour le
+paiement des primes d'assurance obligatoire des soins,
+vu le recours interjeté par l'assuré le 18 janvier
+2009, qui produit de nombreuses pièces et demande une
+réévaluation de sa situation,
+vu la réponse de l'OCC du 16 mars 2009, qui indique que le
+calcul du revenu déterminant effectué sur la base des
+éléments fournis par le recourant à l'appui de
+son recours justifie l'octroi de subsides rétroactivement au
+1
+er
+septembre 2007 et informe la Cour qu'il rendra
+prochainement de nouveaux prononcés annulant sa
+décision litigieuse,
+vu les prononcés du 26 mars 2009, par lesquels l'OCC octroie
+au recourant et à sa famille les subsides annoncés
+dans sa réponse du 16 mars 2009,
+vu les pièces du dossier ;
+attendu que le recours, interjeté dans le délai
+légal de trente jours dès la notification de la
+décision attaquée, est recevable en la forme,
+abstraction faite même des féries de fin
+d'année (art. 38 al. 4 let. c et 60 al. 1
+LPGA
+[loi fédérale du 6 octobre 2000 sur la partie
+générale du droit des assurances sociales, RS
+830.1]);
+attendu que l'art. 83 LPA-VD (loi vaudoise du 28 octobre 2008 sur
+la procédure administrative, RSV 173.36) prévoit
+qu'en lieu et place de ses déterminations, l'autorité
+intimée peut rendre une nouvelle décision
+partiellement ou totalement à l'avantage du recourant (al.
+1), l'autorité poursuivant alors l'instruction du recours,
+dans la mesure où celui-ci n'est pas devenu sans objet (al.
+2),
+qu'en l'espèce, par ses prononcés rendus le 26 mars
+2009, l'OCC a fait application de cette disposition en
+procédant au réexamen de la décision
+litigieuse et en révoquant celle-ci, pour rendre une
+nouvelle décision rectificative à l'avantage du
+recourant,
+qu'il y a lieu de prendre acte de cette nouvelle décision,
+motivée en tant qu'elle se rapporte à la
+réponse de l'OCC du 16 mars 2009,
+qu'il convient ainsi de constater que le présent litige se
+trouve vidé de son objet, de sorte qu'il se justifie de
+rayer la cause du rôle (art. 94 al. 1 let. c
+LPA-VD) ;
+attendu qu'il n'y a pas lieu de percevoir de frais in casu, ni
+d'allouer de dépens (art. 91 LPA-VD) ;
+attendu que la présente cause ressortit à la
+compétence du juge unique (art. 94 al. 1 let. c
+LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause, devenue sans objet par
+décision rectificative du 26 mars 2009, est rayée du
+rôle.
+II.
+Il n'est pas perçu de frais
+judiciaires ni alloué de dépens.
+La juge
+unique :
+La greffière :
+Du
+La décision qui précède est notifiée
+à :
+‑
+Z.________
+‑      Organe
+cantonal de contrôle de l'assurance-maladie et
+accidents
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+La greffière :
