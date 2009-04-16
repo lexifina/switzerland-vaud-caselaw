@@ -1,0 +1,396 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 17"
+decided: "2009-04-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1363957"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-041.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-154.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 17
+
+## Regeste
+
+PLAINTE{LP}, GAGE IMMOBILIER, VENTE, ACTION EN LIBÉRATION DE DETTE, ACTION EN CONSTATATION, MAINLEVÉE{LP} | 154 LP, 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.04.2009 Plainte / 2009 / 17
+
+PLAINTE{LP}, GAGE IMMOBILIER, VENTE, ACTION EN LIBÉRATION DE DETTE, ACTION EN CONSTATATION, MAINLEVÉE{LP} | 154 LP, 17 LP
+
+TRIBUNAL CANTONAL
+13
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+16 avril 2009
+_________________
+Présidence
+de   M.     M U L L E R,
+président
+Juges      :
+MM.
+Bosshard et Sauterel
+Greffier    :
+Mme
+Joye
+*****
+Art. 17 LP ; 154
+LP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+I.________
+,
+à Versoix, contre la décision rendue le
+11 septembre 2008, à la suite de l'audience du 2 septembre
+2008, par le Président du Tribunal d'arrondissement de La
+Côte, autorité inférieure de surveillance,
+rejetant la plainte formée le 30 juin 2008 par le recourant
+contre la décision de l'
+OFFICE DES POURSUITES DE
+NYON-ROLLE
+admettant la réquisition de vente
+présentée par la K.________ dans le cadre de la
+poursuite en réalisation de gage immobilier n°
+327'578.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+1.
+a)
+Sur réquisition de la V.________
+(ci-après : V.________), l'Office des poursuites de
+Nyon (ci-après : l'office) a fait notifier à
+I.________, le 24 février 1999, un commandement de payer
+dans la poursuite n° 327'578 en réalisation d'un gage
+immobilier, portant sur les sommes de 2'000'000 fr. et 700'000 fr.
+avec intérêt  à 10 % dès le 15
+janvier 1999, indiquant la cause de l'obligation et le gage
+suivants :
+«
+Titre et
+date de la créance, cause de
+l'obligation :
+1) Non
+remboursement du nominal de la cédule hypothécaire au
+porteur de Frs. 2'000'000.--.
+2) Non
+remboursement du nominal de la cédule hypothécaire au
+porteur de Frs. 700'000.--.
+GERANCE
+LEGALE REQUISE.
+Désignation
+de l'immeuble :
+Pacelles
+PPE 805, 250/1000 de P. 340, PPE 806, 250/1000 de P. 340, PPE 807,
+250/1000 de P. 340, [...]. »
+A la requête de la V.________, le Président du
+Tribunal du district de Nyon a, par prononcé du 8 juillet
+1999, levé provisoirement l'opposition de I.________ au
+commandement de payer susmentionné à concurrence de
+2'700'000 fr. avec intérêt à 10 % l'an
+dès le 16 janvier 1999 et constaté l'existence du
+gage.
+Le 27 août 1999, le Président la cour de céans
+a pris acte du retrait du recours exercé la veille par
+I.________ contre le prononcé de mainlevée
+précité, lequel a été
+déclaré exécutoire.
+Le 24 septembre 1999, I.________ a ouvert action en
+libération de dette devant la Cour civile du Tribunal
+cantonal vaudois, concluant, avec suite de frais et dépens,
+à ce qu'il soit prononcé qu'il n'est pas le
+débiteur de la V.________ de la somme de 2'700'000 fr. et
+que la poursuite n° 327'578 n'ira pas sa voie.
+Par courrier du 21 décembre 2000, la V.________ a
+confirmé à la K.________ (ci-après :
+K.________) de la cession en sa faveur, avec effet au
+30 juin 2000, de la créance qu'elle détenait contre
+I.________. Le débiteur a été informé
+de ce changement de créancier et de son droit de former
+opposition dans les dix jours par courrier de l'office du 29
+janvier 2001. I.________ a fait usage de ce droit ; son
+opposition a été déclaré irrecevable
+par l'autorité inférieure de surveillance. Le
+prénommé a recouru contre cette décision, puis
+a retiré son recours, ce que le Président de
+céans a constaté le 20 septembre 2001.
+Par jugement du 28 janvier 2008, la Cour civile a notamment
+prononcé que I.________ n'est pas le débiteur de la
+V.________ de 2'700'000 fr., qu'il doit payer à
+l'intervenante, K.________, la somme de 3'093'052 fr. 55 avec
+intérêt à 5 % l'an dès le 4 avril 2000
+et qu'il est constaté que la mainlevée de
+l'opposition formée par le prénommé au
+commandement de payer notifié le 24 février 1999 dans
+la poursuite n° 327'578 est devenue définitive.
+Il ressort de ce jugement que l
+'action en libération de dette de
+I.________, déposée le 24 septembre 1999, soit plus
+de vingt jours après le délai prévu par l'art.
+83 al. 2 LP, qui a commencé à courir le lendemain du
+retrait du recours formé par le demandeur, à savoir
+le 27 août 1999, était tardive et, partant,
+irrecevable ; il a toute-fois été admis que
+cette action en libération de dette tardive pouvait
+continuer à titre d'action en constatation de droit
+négative. Des considérant du jugement, il ressort
+également
+qu'au vu de la
+tardiveté de l'ouverture de l'action, la mainlevée
+provisoire est devenue eo ipso définitive,
+conformément à l'art. 83 al. 3 LP.
+b)
+Le 28 avril 2008, la K.________ a requis la
+réalisation du gage dans la poursuite
+précitée. L'office a adressé l'avis de
+réception de la réquisition de vente aux parties le
+15 mai 2008.
+Par courrier du 2 juin 2008, I.________ a requis de l'office de
+consta-ter la péremption du commandement de payer n°
+327'578. Par courrier du 16 juin 2008, l'office lui a
+répondu que « en fonction des pièces
+jointes par le créancier à sa réquisition de
+vente, l'office a considéré que sa requête
+était déposée dans le délai et il a
+été donné la suite utile à
+celle-ci ».
+Le 19 juin 2008, I.________ a demandé à l'office de
+se déterminer formellement sur la réquisition de
+vente en rendant une décision. Par courrier du
+20 juin 2008, l'office a confirmé sa décision de
+permettre à la créancière de requérir
+la vente dans la poursuite en cause.
+Le 30 juin 2008, I.________ a déposé plainte contre
+cette décision auprès du Président du Tribunal
+d'arrondissement de La Côte, concluant, avec suite de frais
+et dépens, à ce qu'il soit prononcé
+l'annulation de la réquisition de vente dans la poursuite
+n° 327'578.
+Dans ses déterminations du 26 août 2008, l'office a
+conclu au rejet de la plainte.
+2.
+Par prononcé rendu le 11 septembre 2008, à la suite
+de l'audience du
+2 septembre 2008, le Président du Tribunal d'arrondissement
+de la Côte a rejeté la plainte déposée
+par I.________, considérant, en substance, que l'action en
+constatation de droit négative - laquelle s'est
+substituée à l'action en libération de dette
+introduite par I.________ le 24 septembre 1999 - avait valablement
+suspendu le délai de l'art. 154 LP jusqu'au jour du
+jugement, intervenu le 28 janvier 2008, et que c'est dès
+lors à juste titre que l'office a fait droit à la
+réquisition de vente formulée par la
+poursuivante.
+I.________
+a recouru contre
+ce prononcé par acte du 23 septembre 2008, concluant, avec
+suite de frais et dépens,
+à l'admission de sa plainte,
+à l'annulation du prononcé entrepris et à
+l'annulation de la réquisition de vente dans la poursuite
+n° 327'578.
+Dans ses déterminations du 14 octobre 2008, l'office a
+conclu au rejet du recours.
+L'intimée a déposé des déterminations
+le 20 octobre 2008, concluant, avec suite de frais et
+dépens, au rejet du recours.
+En droit :
+I.
+Le
+recours a été déposé en temps utile
+(art. 18 LP) et comporte l'énoncé des moyens
+invoqués. Il est ainsi recevable à la forme (art. 28
+al. 1 à 3 LVLP).
+Les pièces
+produites avec le recours sont recevables également (art. 28
+al. 4 LVLP).
+II.
+a)
+Selon l'art. 17 al. 1
+LP, sauf dans les cas où la loi prescrit la voie judiciaire,
+il peut être porté plainte à l'autorité
+de surveillance lorsqu'une mesure de l'office est contraire
+à la loi ou ne paraît pas justifiée en fait.
+Par mesure au sens de cette disposition, il faut entendre tout acte
+d'autorité accompli par l'office ou par un organe de la
+poursuite en exécution d'une mission officielle dans une
+affaire concrète. L'acte de poursuite doit être de
+nature à créer, modifier ou supprimer une situation
+du droit de l'exécution forcée dans l'affaire en
+question et il peut se manifester de toutes sortes de façons
+(ATF 129 III 400 c. 1.1, JT 2004 II 51).
+Aux termes de
+l'art. 154 LP, le créancier
+peut requérir la réalisation d'un gage immobilier six
+mois au plus tôt et deux ans au plus tard après la
+notification du commandement de payer. S'il a été
+fait opposition, ces délais ne courent pas entre
+l'introduction de la procédure judiciaire et le jugement
+définitif (al.1). La poursuite tombe si la
+réquisition n'a pas été faite dans le
+délai légal ou si, retirée, elle n'est pas
+renouvelée dans ce délai (al. 2).
+b)
+Le plaignant soutient que la décision de l'office
+admettant la réquisi-tion de vente formulée par
+K.________ le 28 avril 2008 viole
+l'art. 154 LP. Il fait valoir que
+le délai de deux
+ans prévu par cette disposi-tion a commencé à
+courir du jour où la mainlevée est devenue
+définitive, à savoir le 15 septembre 1999,
+correspondant au vingtième jour suivant le retrait du
+recours qu'il avait formé le 26 août 1999 et que,
+partant, ladite réquisition a été
+déposée tardivement.
+L'intimée, quant à elle, soutient que l'action en
+libération de dette intentée par I.________ le 24
+septembre 1999 a suspendu le délai de l'art. 154 LP jusqu'au
+jugement, rendu le 28 janvier 2008, et que la réalisation du
+gage ne pouvait pas être requise avant.
+c)
+Aux termes de l'art. 83 al. 2 LP, lorsque la
+mainlevée provisoire a été accordée, le
+débiteur peut, dans les vingt jours à compter de la
+mainlevée, intenter au for de la poursuite une action en
+libération de dette. S'il ne fait pas usage de ce droit ou
+s'il est débouté de son action, la
+mainlevée devient définitive (al.
+3).
+Selon la jurisprudence, une
+action en libération de dette, irrecevable comme
+telle parce que tardive, peut néanmoins être
+poursuivie comme une action ordinaire en constatation
+négative de droit ; les deux actions ont cependant des
+effets distincts en ce sens que l'action en libération de
+dette est un obstacle à la continuation de la poursuite,
+alors que l'action négatoire ne peut avoir cet effet lorsque
+la mainlevée est devenue définitive (ATF 27 II 642,
+JT 1902 I 438 ; Gilliéron,
+Commentaire de la loi fédérale sur la
+poursuite pour dettes et la faillite, n. 106 ad art. 83 LP). Une
+action négatoire ayant le même objet que l'action en
+libération de dette, mais introduite après
+l'expiration du délai de l'art. 83 al. 2 LP, est donc
+recevable mais ne peut avoir aucun effet réflexe sur la
+poursuite pendante (Gilliéron, op. cit., n. 107 ad art. 83
+LP).
+En l'espèce, la mainlevée provisoire de l'opposition
+à la poursuite litigieuse a été
+prononcée le 8 juillet 1999. I.________ a recouru contre
+cette décision, puis retiré son recours le 26
+août 1999. Il a ouvert action en libération de dette
+le 24 septembre 1999. Dans son jugement du 28 janvier 2008, la Cour
+civile a expressément admis que cette action avait
+été ouverte tardivement. Elle a néanmoins
+considéré qu'elle pouvait être continuée
+à titre d'action en constatation négative de droit.
+Il ressort en outre de ce jugement qu'au vu de la tardiveté
+de l'ouverture de l'action, la mainlevée provisoire est
+devenue eo ipso définitive, conformément à
+l'art. 83 al. 3 LP.
+Cela étant, l'action en constatation négative de
+droit finalement plaidée devant la Cour civile ne pouvait
+avoir un effet réflexe quelconque sur la procédure de
+poursuite en cours. Le délai pour requérir la
+réalisation du gage immobilier prévu à l'art.
+154 LP, soit six mois au plus tôt et deux ans au plus tard
+après la notification du commandement de payer, n'a ainsi
+pas été suspendu. Il en découle que la
+réquisi-tion de vente présentée à
+l'office par la poursuivante le 28 avril 2008 l'a été
+alors que la poursuite en cause était déjà
+périmée de longue date.
+Pour ce premier motif déjà, le recours doit
+être admis.
+d)
+Si elle n'était pas périmée, on
+devrait constater que la poursuite en réalisation de gage
+immobilier ne porte plus sur son objet initial, à savoir les
+deux cédules hypothécaires, donc sur la
+créance abstraite, mais sur la créance causale
+reconnue par le jugement rendu par la Cour civile le 28 janvier
+2008, lequel déclare le poursuivi débiteur de la
+poursuivante de l
+a somme de 3'093'052 fr. 55 avec
+intérêt à 5 % l'an dès le 4 avril 2000.
+Or, une poursuite en réalisation de gage immobilier doit
+nécessairement porter sur une créance garantie par un
+gage immobilier. En effet, ce type de poursuite ne se continue pas
+par la saisie ou la faillite suivant la qualité du
+débiteur, mais par la réalisation du gage (art. 41
+al. 1 LP). Seule la créance cédulaire étant
+assortie d'un droit de gage immobilier, elle seule peut faire
+l'objet d'une poursuite en réalisation de gage immobilier,
+à l'exclusion de la créance causale (Denys,
+Cédule hypothécaire et mainlevée, in JT 2008
+II 3).
+III.
+Le recours
+doit donc
+être admis et le
+prononcé entrepris
+réformé en ce sens que la plainte de I.________ est
+admise et qu'il est constaté que la poursuite n° 327'578
+de l'Office des poursuites de Nyon-Rolle est
+périmée.
+Le présent arrêt est rendu sans frais ni
+dépens.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé entrepris est
+réformé en ce sens que la plainte de I.________ est
+admise et qu'il est constaté que la poursuite n° 327'578
+de l'Office des poursuites de Nyon-Rolle est
+périmée.
+III.
+Le présent arrêt, rendu
+sans frais ni dépens, est exécutoire.
+Le président
+:
+La greffière :
+Du 16 avril 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Me
+Alain-Valéry Poitry, avocat (pour I.________),
+‑      Me Daniel
+Pache, avocat (pour K.________),
+‑      M. le
+Préposé à l'Office des poursuites de
+Nyon-Rolle.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral, RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      Mme le
+Président du Tribunal d'arrondissement de La Côte,
+autorité inférieure de surveillance.
+La greffière :
+ejo
