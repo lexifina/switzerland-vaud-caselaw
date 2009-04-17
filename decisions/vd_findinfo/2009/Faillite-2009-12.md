@@ -1,0 +1,175 @@
+---
+decision_id: "vd_findinfo_Faillite___2009___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2009 / 12"
+decided: "2009-04-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1364021"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-008.md", "switzerland/bund/acts/272/art-017.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2009 / 12
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, LANGUE DE LA PROCÉDURE, CONCLUSIONS | 17 CPC, 461 CPC, 8 CPC, 48 al. 4 LVLP, 48 al. 5 LVLP, 58 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.04.2009 Faillite / 2009 / 12
+
+DÉCISION D'IRRECEVABILITÉ, LANGUE DE LA PROCÉDURE, CONCLUSIONS | 17 CPC, 461 CPC, 8 CPC, 48 al. 4 LVLP, 48 al. 5 LVLP, 58 al. 1 LVLP
+
+TRIBUNAL CANTONAL
+123
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+17 avril 2009
+_________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:         MM.
+Bosshard et  Denys
+Greffier
+:         Mme
+Debétaz Ponnaz
+*****
+Art. 48 al. 4 et 5 et 58
+al. 1 LVLP; 8, 17 et 461 CPC
+Vu le jugement rendu le 23 février 2009 par la
+Présidente du Tribunal d'arrondissement de La Côte,
+prononçant la faillite, le même jour à 10
+heures, de la société
+W.________Sàrl
+, à Nyon, à la réquisition de
+R.________
+,
+à Nyon,
+vu la lettre rédigée en langue allemande,
+adressée au tribunal d'arrondissement le 6 mars 2009 par la
+représentante de la faillie, T.________AG, à
+Winterthur, au bénéfice d'une procuration,
+déclarant recourir contre le jugement de faillite et
+requérant l'effet suspensif,
+vu la transmission du dossier par le premier juge à la cour
+de céans, autorité de recours, le 9 mars
+2009,
+vu la décision présidentielle du 12 mars 2009,
+refusant l'effet suspensif;
+attendu que le recours, formé dans les dix jours suivant la
+notification du jugement de faillite (art. 174 al. 1 LP et 57 al. 1
+LVLP - loi vaudoise d'application de la loi fédérale
+sur la poursuite pour dettes et la faillite; RSV 280.05), a
+été exercé en temps utile;
+attendu
+que, selon l'art. 8 CPC (Code de
+procédure civile; RSV 270.11), applicable par le renvoi de
+l'art. 58 al. 1 LVLP, les parties procèdent en langue
+française,
+que, lorsqu'un acte est rédigé dans une langue
+étrangère, le juge peut le renvoyer à son
+auteur en lui impartissant un délai pour le refaire (art. 17
+CPC),
+qu'aux termes de l'art. 48 al. 4 LVLP également, le juge
+peut exiger la traduction en français de tout acte ou
+pièce produit dans une autre langue, l'acte étant
+écarté préjudiciellement si
+l'intéressé ne donne pas suite à cette
+invitation dans le délai fixé (art. 48 al. 5
+LVLP),
+qu'en l'espèce, l'acte de recours déposé le 6
+mars 2009 est rédigé en langue allemande,
+qu'au surplus, il ne comporte pas de conclusions suffisantes au
+regard des art. 461 ss CPC, c'est-à-dire
+l'énoncé exact des réclamations de la
+recourante,
+qu'en application de l'art. 17 CPC, le président de la cour
+de céans a renvoyé son acte à
+W.________Sàrl, par sa représentante T.________AG,
+par courrier recommandé du 13 mars 2009, avec accusé
+de réception, et lui a imparti un délai de dix jours
+pour le refaire, en français et en précisant ses
+conclusions, faute de quoi le recours pourrait être
+déclaré irrecevable,
+que, selon l'accusé de réception figurant au dossier,
+l'intéressée a reçu cet avis le 17 mars
+2009,
+qu'elle n'y a donné aucune suite dans le délai
+imparti, lequel arrivait à échéance le 27 mars
+2009,
+que, faute d'avoir été traduit en langue
+française et de comporter des conclusions suffisantes, le
+recours du 6 mars 2009 est irrecevable et doit être
+écarté, le jugement attaqué étant
+maintenu,
+que le présent arrêt est rendu sans frais.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est
+écarté.
+II.
+Le jugement entrepris est
+maintenu.
+III.
+Le
+présent arrêt, rendu
+sans frais ni dépens, est
+exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 17 avril 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      T.________AG, (pour
+W.________Sàrl),
+‑      Me
+R.________, notaire.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-      M. le
+Préposé à l'Office des poursuites et faillites
+de Nyon-Rolle,
+-      M. le Conservateur
+du Registre foncier de Nyon,
+-      M. le
+Préposé au Registre du Commerce du canton de
+Vaud,
+‑      Mme la
+Présidente du Tribunal d'arrondissement de La
+Côte.
+L
+a
+greffi
+ère
+:
