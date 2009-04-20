@@ -1,0 +1,109 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 5"
+decided: "2009-04-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1376892"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# VD Findinfo Décision / 2009 / 5
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 20.04.2009 Décision / 2009 / 5
+
+RETRAIT{VOIE DE DROIT}, PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+AI 40/09 -
+117/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 20 avril
+2009
+_____________________
+Présidence
+de   Mme
+Lanz
+Pleines
+, juge unique
+Greffière
+:         Mme
+de Quattro Pfeiffer
+*****
+Cause pendante entre
+:
+A.________
+, à Lausanne, recourant, représenté
+par Me Jean-Pierre Bloch, audit lieu
+et
+Office de
+l'assurance-invalidité pour le canton de Vaud
+(ci-après : OAI), à Vevey,
+intimé
+_______________
+Art. 94 al. 1 let. c
+LPA-VD
+Vu
+le recours interjeté le 26
+janvier 2009 par A.________, représenté par Me
+Jean-Pierre Bloch, contre la décision sur opposition de
+l'OAI du 8 décembre 2008,
+vu la lettre de Me Jean-Pierre Bloch du 14 avril 2009, par laquelle
+il déclare que le recours doit être
+considéré comme retiré ;
+considérant
+qu'il y a lieu de rayer la cause du
+rôle par suite de retrait du recours conformément
+à la procédure de l'art. 94 al. 1 let. c LPA-VD (loi
+vaudoise du 28 octobre 2008 sur la procédure administrative,
+RSV 173.36),
+qu'il n'y pas lieu de percevoir un émolument de justice
+(art. 69 al. 1bis LAI [loi fédérale du 19 juin 1959
+sur l'assurance-invalidité, RS 831.20] et art. 49 LPA-VD),
+ni d'allouer de dépens (art. 55 LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle
+par suite de retrait du recours.
+II.
+Il n'est pas perçu
+d'émolument de justice ni alloué de
+dépens.
+Le juge
+unique :
+La greffière :
+Du
+La décision qui précède est notifiée
+à :
+‑
+A.________
+‑      Office de
+l'assurance-invalidité pour le canton de Vaud
+-      Office
+fédéral des assurances sociales
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+La greffière :
