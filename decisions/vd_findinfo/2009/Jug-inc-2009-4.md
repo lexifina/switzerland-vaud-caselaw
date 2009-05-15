@@ -1,0 +1,462 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2009___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2009 / 4"
+decided: "2009-05-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1426068"
+cites_law: ["switzerland/bund/acts/272/art-036.md", "switzerland/bund/acts/272/art-086.md", "switzerland/bund/acts/272/art-088.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md"]
+---
+
+# VD Findinfo Jug-inc / 2009 / 4
+
+## Regeste
+
+DÉCISION INCIDENTE, CONNEXITÉ MATÉRIELLE | 153 CPC, 154 CPC, 155 CPC, 156 al. 2 CPC, 317a CPC, 317b CPC, 86 al. 3 CPC, 88 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 15.05.2009 Jug-inc / 2009 / 4
+
+DÉCISION INCIDENTE, CONNEXITÉ MATÉRIELLE | 153 CPC, 154 CPC, 155 CPC, 156 al. 2 CPC, 317a CPC, 317b CPC, 86 al. 3 CPC, 88 CPC
+
+TRIBUNAL CANTONAL
+CO02.006737
+69/2009/DCA
+COUR
+CIVILE
+_________________
+Jugement incident
+dans la cause divisant
+A.F.________
+et
+B.F.________
+,
+tous deux à Bussigny, d'avec
+M.________
+et
+H.________
+SA
+, tous deux à Lausanne,
+ainsi que
+D.________ SA
+, à Berne
+.
+___________________________________________________________________
+Audience du 8 mai 2009
+___________________
+Présidence
+de   Mme
+Carlsson
+,
+juge instructeur
+Greffi
+ère
+:
+Mme   Schwab
+*****
+Statuant immédiatement à huis clos, le juge
+instructeur considère :
+En fait et en droit :
+Vu le procès introduit par les demandeurs
+A.F.________ et B.F.________ à l'encontre des
+défendeurs M.________ et H.________ SA, selon demande du 21
+mai 2002, concluant avec suite de frais et dépens, à
+ce qu'il plaise à la Cour civile prononcer :
+"
+I.-
+M.________ et H.________ SA sont les débiteurs conjoints et
+solidaires, ou chacun pour une part que justice dira,
+d'A.F.________ et B.F.________, créanciers conjoints et
+solidaires, et leur doivent immédiat paiement de la somme de
+CHF 565'297.-- (cinq cent soixante-cinq mille deux cent
+nonante-sept francs) avec intérêt à 5% l'an
+dès le 14 février 2001.",
+vu la requête déposée par les défendeurs
+le 20 septembre 2002, soit dans le délai de réponse,
+concluant à l'appel en cause de la société
+D.________ SA,
+vu le jugement incident du 11 décembre 2002, par lequel le
+juge instructeur a admis la requête et autorisé les
+défendeurs a appeler en cause D.________ SA, afin de prendre
+contre cette société, avec dépens, la
+conclusions suivante :
+"
+I.
+l'appelée en cause est condamnée à relever les
+défenderesses de toute condamnation qui serait
+prononcée contre elles en vertu des conclusions prises par
+les demandeurs, en capital intérêt frais et
+dépens.",
+vu la réponse au fond déposée le 11 juillet
+2003 par les défendeurs, concluant avec suite de frais et
+dépens "au rejet pur et simple des conclusions prises en
+procédure par les demandeurs",
+vu la réponse déposée le 13 novembre 2003 par
+l'appelée en cause, laquelle a conclu avec suite de frais et
+dépens au rejet de toutes conclusions prises à son
+encontre,
+vu l'échange complet des écritures auquel les parties
+ont procédé,
+vu, en particulier, la duplique déposée le 31 janvier
+2005 par les défendeurs, lesquels ont déclaré
+confirmer les conclusions de leur réponse du 11 juillet
+2003,
+vu la requête incidente déposée le 19 janvier
+2009 par les défendeurs au fond et requérants
+M.________ et H.________ SA, qui ont pris, avec suite de frais et
+dépens, les conclusions suivantes :
+"I.    La requête de réforme est
+admise.
+II.     Les défendeurs sont
+autorisés à modifier leurs conclusions et à
+compléter leur Duplique en ce sens que la procédure
+est complétée et qu'il sont autorisés à
+prendre la conclusion nouvelle suivante :
+II.       D.________ SA est
+condamnée à relever les défenderesses (sic) de
+tout condamnation qui serait prononcée contre elles (sic) en
+vertu des conclusions prises par A.F.________ et B.F.________, en
+capital intérêt frais et dépens.",
+vu l'avis du 13 février 2009, par lequel le juge instructeur
+a notifié dite requête aux demandeurs au fond et
+intimés A.F.________ et B.F.________ ainsi qu'à
+l'appelée en cause et intimée D.________
+SA,
+vu les courriers du 5 mars 2009 des intimés, lesquels ne se
+sont pas opposés au remplacement de l'audience par un
+échange d'écritures,
+vu la lettre du même jour, par laquelle les requérants
+se sont déterminés sur la question du remplacement de
+l'audience par un échange d'écritures,
+vu l'avis du 9 mars 2009 du juge instructeur impartissant aux
+parties un délai pour produire un mémoire
+incident,
+vu le courrier du 30 mars 2009, par lequel les requérants se
+sont référés à la requête
+incidente du 19 janvier 2009 et y ont apporté quelques
+précisions,
+vu le mémoire incident déposé le 21 avril 2009
+par l'intimée D.________ SA, laquelle a conclu, avec suite
+de frais et dépens, au rejet de la requête
+incidente,
+vu le mémoire incident du 29 avril 2009, par lequel les
+intimés A.F.________ et B.F.________ ont également
+conclu, avec suite de frais et dépens, au rejet de la
+requête incidente,
+vu les autres pièces au dossier,
+vu les art. 19, 146 ss, 153 à 157, 317a et 317b CPC (
+Code de procédure civile vaudois du 14
+décembre 1966, RSV 270.11)
+;
+attendu qu'aux termes de l'art. 153 al. 1 CPC, la partie qui
+désire obtenir la restitution d'un délai, corriger ou
+compléter sa procédure, peut, jusqu'à
+l'expiration du délai fixé pour le dépôt
+des mémoires de droit, voire jusqu'à la clôture
+de l'audience de jugement (art. 317a et 317b CPC), demander
+l'autorisation de se réformer, sous réserve de l'art.
+36 CPC (restitution d'un délai),
+que, déposée avant la fixation du délai pour
+déposer les mémoires de droit, la requête en
+réforme est intervenue en temps utile,
+que les requérants y précisent les opérations
+nouvelles qu'ils se proposent d'effectuer dans le délai dont
+ils demandent la restitution et les points sur lesquels ils
+entendent compléter leur procédure (JdT 1985 III
+21),
+qu'au surplus, leur requête est conforme aux exigences des
+art. 19 et 147 al. 1 CPC (applicables en vertu du renvoi de l'art.
+154 al. 2 CPC),
+qu'elle est ainsi recevable;
+attendu que le jugement incident admettant l'appel en cause
+reproduit les conclusions que l'appelant entend prendre contre
+l'appelé (art. 86 al. 3 CPC),
+qu'une fois l'appel en cause définitivement admis,
+l'appelé devient partie au procès (art. 88 al. 1
+CPC),
+que l'instance "au fond", rapport de droit processuel liant les
+parties et le tribunal, n'est pas ouverte contre l'appelé
+avant qu'il ne soit partie au procès (Salvadé,
+Dénonciation d'instance et appel en cause, thèse
+Lausanne 1995, p. 197),
+que dès cet instant, l'appelé peut accomplir certains
+actes de procédure (Salvadé, op. cit., p.
+212),
+que, dès cet instant également, tant le demandeur que
+le défendeur peuvent lier l'instance en prenant des
+conclusions contre l'appelé en cause (JT 1987 III 2 consid.
+5b),
+que l'instance est donc nouée par la formulation de
+conclusions prises au fond et non pas déjà dans le
+jugement incident qui admet l'appel en cause,
+que l'appelant est toutefois limité par les conclusions qui
+ont été communiquées à l'appelé
+dans le jugement incident (JT 1987 III 2 consid. 5b),
+qu'en l'espèce, les requérants ont été
+autorisés à prendre une conclusion récursoire
+contre l'intimée D.________ SA dans un jugement incident
+d'appel en cause,
+que, dans leurs écritures au fond, ils n'ont toutefois pris
+aucune conclusion à l'encontre de
+l'intimée,
+qu'ils entendent désormais introduire la conclusion qu'ils
+ont été autorisés à prendre contre
+l'intimée par le juge de l'appel en cause,
+que cette conclusion est donc formellement une conclusion
+nouvelle;
+attendu que la jurisprudence cantonale rendue en relation avec la
+réforme n'a pas abandonné la distinction entre
+conclusions nouvelles et conclusions modifiées,
+que, toutefois, selon une jurisprudence aujourd'hui bien
+établie, des conclusions nouvelles peuvent être
+introduites par le biais de la réforme pour autant qu'elles
+soient connexes avec celles déjà en cause,
+que c'est même la seule possibilité de les introduire
+après la fin de l'échange des écritures (JT
+2007 III 127 consid. 3b et 3c),
+que le fait qu'il s'agisse d'une conclusion nouvelle ne s'oppose
+donc pas à son introduction par voie de
+réforme;
+attendu que la connexité doit être
+interprétée largement et admise lorsque les
+prétentions ont leur origine dans le même complexe de
+faits ou de relations d'affaires (JT 2007 III 127; JT 2004 III
+83),
+qu'en l'espèce, la connexité a déjà
+été examinée et admise par le juge qui a admis
+l'appel en cause,
+qu'il est dès lors douteux que l'existence de la
+connexité doive être
+réexaminée,
+que cette question peut cependant demeurer
+indécise,
+qu'en effet, la prétention récursoire étant
+fondée sur le même ensemble de faits, la
+connexité doit être reconnue selon la
+définition donnée ci-dessus,
+que les intimés A.F.________ et B.F.________ font certes
+valoir que, si la connexité a été admise dans
+le cadre de l'appel en cause, la situation a évolué
+depuis lors,
+qu'elle soutient en substance que la procédure a
+progressé et que l'instruction, en particulier l'expertise,
+a démontré que son activité n'a pas
+péjoré la situation ni aggravé le dommage des
+demandeurs,
+que, ce faisant, l'intimée invoque des arguments de fond,
+qui seront examinés dans le cadre du jugement, mais qui ne
+sauraient être pris en considération pour juger de la
+connexité au stade de la réforme sans risquer de
+préjuger de la cause,
+qu'en définitive, la conclusion que les requérants
+entendent introduire peut l'être par le biais de la
+réforme;
+attendu que la réforme n'est accordée que si le
+requérant y a un intérêt réel (art. 153
+al. 2 CPC),
+que l'intérêt réel
+à la réforme doit être démontré
+par le requérant et apprécié au regard de
+l'ensemble des circonstances (JT 1979 III 126; Poudret/Haldy/Tappy,
+Procédure civile vaudoise, 3
+e
+éd., n. 7 ad
+art. 153 al. 2 CPC),
+qu'en outre, la requête de réforme
+présentée dans le dessin de prolonger la
+procédure doit être écartée (art. 153
+al. 3 CPC),
+qu'enfin, le droit à la réforme n'est pas
+subordonné à l'absence de faute de la partie, car il
+a précisément été institué pour
+permettre au plaideur négligent de rattraper un délai
+ou rectifier une erreur, le jugement reposant ainsi sur un
+état de fait complet et autant que possible conforme
+à la réalité (BGC automne 1966, p.
+719);
+qu'en l'espèce, les requérants demandent à
+pouvoir introduire en procédure la conclusion
+récursoire qu'ils ont été autorisés
+à formuler par le jugement de l'appel en cause, mais qu'ils
+ont omis de prendre dans leurs écritures au fond,
+qu'il apparaît pourtant qu'ils y ont allégué
+des faits en lien avec cette conclusion,
+qu'à ce stade du procès, les requérants ne
+peuvent plus prendre cette conclusion autrement que dans le cadre
+d'une réforme,
+que les requérants ont par conséquent
+démontré leur intérêt réel
+à la réforme,
+qu'en outre, la requête des réforme permet aux
+requérants de rectifier une erreur,
+que cette requête n'est pas susceptible d'entraîner de
+nouveaux actes de procédure ou d'instruction,
+qu'en effet, l'intimée D.________ SA a d'ores
+déjà allégué un certain nombre de faits
+pour se dégager de toute responsabilité et a conclu
+à libération des conclusions formulées
+à son encontre,
+que la réforme n'est donc pas requise à des fins
+dilatoires,
+qu'elle est dès lors admise;
+attendu que le juge détermine l'étendue de la
+réforme (art. 155 al. 1 CPC),
+qu'en principe lorsque des conclusions nouvelles sont introduites
+par le biais d'une réforme, le juge fixe à la partie
+adverse un délai pour se déterminer et pour
+alléguer des faits connexes (JT 1981 III 133),
+qu'en l'espèce, la situation a ceci de particulier que les
+requérants et l'intimée D.________ SA ont
+déjà allégué dans leur procédure
+les faits en lien avec la conclusion introduite en réforme
+et que cette dernière a déjà conclu à
+libération de toutes les conclusions prises contre
+elle,
+que, cela étant, il n'y a pas lieu de lui fixer un
+délai pour le dépôt d'une écriture
+complémentaire;
+attendu que la partie qui obtient la réforme peut être
+dispensée des dépens frustraires si elle
+établit n'avoir pu connaître en temps utile le fait
+qui l'incite à corriger sa procédure (art. 156 al. 2
+CPC),
+que, pour fixer le montant des dépens frustraires, il y a
+lieu de prendre en considération la part des
+opérations que la réforme imposera à la partie
+intimée de refaire ou de reconsidérer, alors que cela
+aurait pu être évité dans le cours ordinaire de
+la procédure (JT 2002 III 190),
+qu'en l'espèce, les requérants auraient pu agir dans
+le cadre de leur réponse déjà, puis de leur
+duplique,
+que, sur le principe, des dépens frustraires sont donc
+dus,
+que l'admission de la réforme entraînera tout au plus
+pour les autres parties une lettre, voire pour l'intimée
+D.________ SA une séance d'explications et de mise au point
+entre l'avocat et sa cliente,
+qu'on peut allouer à ce titre un montant de 300 fr. aux
+intimés A.F.________ et B.F.________ et un montant de 700
+fr. à l'intimée D.________ SA;
+attendu que les frais de la procédure incidente sont
+fixés à 900 fr. à la charge des
+requérants, solidairement entre eux (art. 4 al. 1, 5 al. 1
+et 170a al. 1
+TFJC, tarif du 4
+décembre 1984 des frais judiciaires en matière
+civile, RSV 270.11.5);
+attendu
+que le juge statue librement sur
+l'adjudication des dépens de l'incident soulevés par
+la requête de réforme (art. 156 al. 3 CPC),
+que la partie qui obtient l'adjudication de ses conclusions a droit
+à des dépens (art. 92 al. 1 et 150 al. 2
+CPC),
+que ceux-ci comprennent principalement les frais de justice
+payés par la partie, les honoraires et les débours de
+son avocat (art. 91 let. a et c CPC),
+que les honoraires d'avocats sont fixés selon le tarif du 17
+juin 1986 des honoraires d'avocat dus à titre de
+dépens (TAv, RSV 177.11.3),
+qu'en l'espèce, les intimés se sont opposés
+à la réforme,
+que, celle-ci ayant été admise, les requérants
+ont gain de cause et ont droit à des
+dépens,
+qu'il convient en définitive d'arrêter à 1'900
+fr. les dépens que les intimés verseront aux
+requérants (art. 2 al. 1
+ch. 11 et 4 al. 2
+TAv),
+qu'ayant procédé ensemble, les intimés
+A.F.________ et B.F.________ verseront, solidairement entre eux, un
+montant de 950 fr. aux requérants, solidairement entre
+eux,
+que l'intimée D.________ SA versera également un
+montant de 950 fr. aux requérants, solidairement entre
+eux.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme
+déposée le 19 janvier 2009 par les requérants
+M.________ et H.________ SA est admise.
+II.
+Les requérants sont
+autorisés à se réformer à la veille du
+délai de duplique pour introduire à l'encontre de
+l'intimée D.________ SA la conclusion
+suivante :
+"II.   D.________ SA est condamnée à
+relever les défendeurs de toute condamnation qui serait
+prononcée contre eux en vertu des conclusions prises par
+A.F.________ et B.F.________, en capital intérêt frais
+et dépens."
+III.
+Un délai de
+vingt
+jours
+dès celui où le présent jugement
+incident sera définitif et exécutoire est imparti aux
+requérants pour déposer une écriture
+complémentaire contenant la conclusion reproduite sous
+chiffre II ci-dessus.
+IV.
+Tous les actes du procès sont
+maintenus.
+V.
+Les requérants, solidairement
+entre eux, verseront aux intimés A.F.________ et
+B.F.________, solidairement entre eux, le montant de 300 fr. (trois
+cents francs) à titre de dépens
+frustraires.
+VI.
+Les requérants, solidairement
+entre eux, verseront à l'intimée D.________ SA le
+montant de 700 fr. (sept cents francs) à titre de
+dépens frustraires.
+VII.
+Les frais de la procédure
+incidente sont arrêtés à 900 fr. (neuf
+cents francs) pour les requérants, solidairement entre
+eux.
+VIII.
+Les intimés A.F.________ et
+B.F.________, solidairement entre eux, verseront aux
+requérants, solidairement entre eux, le montant de
+950 fr. (neuf cent cinquante francs) à titre de
+dépens.
+IX.
+L'intimée D.________ SA versera
+aux requérants, solidairement entre eux, le montant de
+950 fr. (neuf cent cinquante francs) à titre de
+dépens.
+Le juge
+instructeur :
+La greffière :
+D. Carlsson
+F. Schwab
+Du
+Le jugement qui précède, dont le dispositif a
+été expédié pour notification le 15 mai
+2009, lu et approuvé à huis clos, est notifié,
+par l'envoi de photocopies, aux conseils des parties.
+Les parties peuvent recourir auprès du Tribunal cantonal
+dans les dix jours dès la notification du présent
+jugement en déposant au greffe de la Cour civile un acte de
+recours en deux exemplaires désignant le jugement
+attaqué et contenant leurs conclusions en réforme,
+éventuellement en nullité, ou à défaut,
+indiquant sur quels points le jugement est attaqué et quelle
+est la modification demandée.
+La greffière :
+F. Schwab
