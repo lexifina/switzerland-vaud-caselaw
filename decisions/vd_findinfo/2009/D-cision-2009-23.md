@@ -1,0 +1,201 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 23"
+decided: "2009-05-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1414472"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2009 / 23
+
+## Regeste
+
+RECONSIDÉRATION, DÉCISION, ASSUREUR-MALADIE | 53 al. 3 LPGA
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 20.05.2009 Décision / 2009 / 23
+
+RECONSIDÉRATION, DÉCISION, ASSUREUR-MALADIE | 53 al. 3 LPGA
+
+TRIBUNAL CANTONAL
+AM 51/08 -
+29/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 20 mai
+2009
+____________________
+Présidence
+de   Mme
+Di Ferro
+Demierre
+, juge unique
+Greffier
+:
+M.      Perret
+*****
+Cause pendante entre
+:
+W.________
+, à Carrouge, recourant, représenté
+par l'avocat Gilles-Antoine Hofstetter, de l'ASSUAS, à
+Lausanne,
+et
+Assura, Assurance maladie et
+accident
+(ci-après : Assura ou la
+caisse), au Mont-sur-Lausanne, intimée.
+_______________
+Art. 53 al. 3
+LPGA
+Vu la décision sur opposition du 8 juillet 2008 par laquelle
+Assura a considéré que l'opposition dirigée
+par W.________ contre sa décision du 27 novembre 2007
+était irrecevable, subsidiairement a rejeté dite
+opposition,
+vu le recours formé le 30 juillet 2008 devant le Tribunal
+des assurances contre cette décision sur opposition par
+W.________, représenté par l'avocat Gilles-Antoine
+Hofstetter, qui conclut principalement à la réforme
+de la décision attaquée en ce sens que son opposition
+est recevable et qu'Assura est tenue de prendre en charge les
+séances de psychothérapie de son psychiatre traitant,
+le Dr V.________, à raison de deux séances
+hebdomadaires, ce y compris dès le mois de juillet 2008 et
+tant qu'elles seront justifiées médicalement, et
+subsidiairement à l'annulation de la décision
+attaquée, le dossier étant renvoyé
+auprès de la caisse intimée pour nouvelle instruction
+et/ou décision dans le sens des
+considérants,
+vu la réponse du 15 septembre 2008 par laquelle Assura a
+conclu à l'irrecevabilité du recours, la
+décision du 27 novembre 2007 étant entrée en
+force sans avoir fait l'objet d'une opposition, subsidiairement au
+rejet du recours, la prise en charge de la psychothérapie
+suivie par le recourant étant limitée à une
+séance par semaine dès le 1
+er
+juillet
+2008,
+vu le second échange d'écritures entre les parties,
+au cours duquel celles-ci ont maintenu leurs conclusions
+respectives,
+ouï les parties à l'audience d'instruction tenue le 30
+avril 2009, au cours de laquelle la question de la
+recevabilité de l'opposition du recourant a
+été discutée et à l'issue de laquelle
+le juge instructeur a imparti un délai de réflexion
+à la caisse pour produire une éventuelle proposition
+en procédure,
+vu le courrier du 7 mai 2009 par lequel Assura déclare
+accepter, par gain de paix, de prendre en charge deux
+séances de psychothérapie par semaine à
+compter du 1
+er
+juillet 2008 et jusqu'au 31
+décembre 2008, date de résiliation de la police
+d'assurance du recourant,
+vu le courrier du 20 mai 2009 par lequel le recourant
+déclare accepter la proposition formulée par Assura
+dans son courrier du 7 mai précédent et conclut
+à l'octroi de pleins dépens,
+vu les pièces au dossier;
+attendu que la LPA-VD (loi cantonale vaudoise du 28 octobre 2008
+sur la procédure administrative; RSV 173.36), entrée
+en vigueur le 1
+er
+janvier 2009 et qui s'applique aux
+recours et contestations par voie d'action dans le domaine des
+assurances sociales (art. 2 al. 1 let. c LPA-VD), est
+immédiatement applicable dans la présente cause (art.
+117 al. 1 LPA-VD),
+que la Cour des assurances sociales du Tribunal cantonal, qui
+succède au Tribunal des assurances, est compétente
+pour statuer (art. 93 al. 1 let. a LPA-VD),
+que le recours formé par W.________ l'a été en
+temps utile (art. 60 al. 1 LPGA [loi fédérale du 6
+octobre 2000 sur la partie générale du droit des
+assurances sociales; RS 830.1]) et est également recevable
+en la forme (art. 61 let. b LPGA),
+que, selon l'art. 53 al. 3 LPGA, l'assureur peut, jusqu'à
+l'envoi de son préavis à l'autorité de
+recours, reconsidérer une décision ou une
+décision sur opposition contre laquelle un recours a
+été formé,
+que, par acquiescement intervenu en procédure le 7 mai 2009,
+la caisse intimée a fait usage de cette faculté et
+reconsidéré la décision attaquée en
+faisant droit aux conclusions principales du recourant, ce dont il
+convient de prendre acte,
+que le recours est par conséquent devenu sans objet, de
+sorte que la cause doit être rayée du
+rôle;
+attendu que le recourant, représenté par un
+mandataire professionnel, obtient en définitive gain de
+cause sur le fond,
+qu'il peut dès lors prétendre au remboursement de ses
+frais et dépens dans la mesure fixée par le tribunal,
+sans égard à la valeur litigieuse, d'après
+l'importance et la complexité du litige (art. 61 let. g
+LPGA; art. 91 LPA-VD; art. 7 TFJAS [tarif du 2
+décembre 2008 des frais judiciaires et des dépens en
+matière de droit des assurances sociales, RSV
+173.36.5.2]),
+qu'en l'espèce, au vu de l'importance et de la
+complexité du litige, il y a lieu d'arrêter ces
+dépens, fixés en chiffres ronds incluant la taxe sur
+la valeur ajoutée (art. 7 al. 4 TFJAS), à 1'500 fr.,
+et de les mettre à la charge de la caisse intimée,
+réputée avoir succombé,
+qu'il n'y a pas lieu de percevoir de frais judiciaires, la
+procédure étant gratuite pour les parties (art. 91
+LPA-VD et 61 let. a LPGA);
+attendu que la présente décision relève de la
+compétence du juge instructeur statuant comme juge unique
+(art. 94 al. 1 let. c LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause, devenue sans objet, est
+rayée du rôle.
+II.
+L'intimée versera au recourant
+la somme de 1'500 fr. (mille cinq cents francs) à titre de
+dépens.
+III.
+Il n'est pas perçu de frais
+judiciaires.
+Le juge
+unique :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑      Me Gilles-Antoine
+Hofstetter (pour W.________);
+‑      Assura,
+Assurance maladie et accident;
+-      Office
+fédéral de la santé publique;
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier :
