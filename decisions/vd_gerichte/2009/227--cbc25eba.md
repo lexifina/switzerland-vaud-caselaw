@@ -1,0 +1,412 @@
+---
+decision_id: "vd_gerichte_0675c38e-44f2-41d4-bb29-6648b46c21e3"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCASS"
+docket: "227"
+decided: "2009-05-26"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/0675c38e-44f2-41d4-bb29-6648b46c21e3"
+cites_decisions: ["BGE 121 I 54", "BGE 122 IV 8", "BGE 123 I 31"]
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-373.md", "switzerland/bund/acts/312.0/art-411.md", "switzerland/bund/acts/312.0/art-414.md", "switzerland/bund/acts/312.0/art-418.md", "switzerland/bund/acts/312.0/art-431.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Gerichte 227
+
+## Text
+
+[...]
+TRIBUNAL CANTONAL
+227
+PE07.013351-MYO/MAO/NMO
+CO UR DE CAS SATION P EN ALE
+______________________________________
+Séance du 26 mai 2009
+__________________
+Présidence de M. CREUX, président
+Juges : MM. de Montmollin et Battistolo
+Greffier : M. Ritter
+*****
+Art. 411 let. h et j CPP
+La Cour de cassation pénale prend séance à huis clos pour
+statuer sur le recours interjeté par V.________ contre le jugement rendu le
+5 mars 2009 par le Tribunal de police de l’arrondissement de l'Est vaudois
+dans la cause dirigée contre F.________.
+Elle considère :
+604
+
+- 2 -
+En fait :
+A. Par jugement du 5 mars 2009, le Tribunal de police de
+l’arrondissement de l'Est vaudois a libéré F.________ des accusations de
+calomnie, subsidiairement de diffamation et de désagréments causés par
+la confrontation à un acte d'ordre sexuel, subsidiairement d'injure (I), a
+donné acte à V.________ de leurs réserves civiles à l'encontre de F.________
+(II) et a laissé les frais à la charge de l'Etat (III).
+B. Ce jugement retient en substance ce qui suit, la cour de céans
+se référant pour le surplus à l'état de fait dans son intégralité :
+1.1 Les époux V.________ exploitent un restaurant sur la Riviera.
+Ils ont déposé plainte le 2 juillet 2007 contre l'accusée F.________ au motif
+que celle-ci aurait, le 6 juin précédent, faussement laissé entendre à la
+mère de l'un de leurs clients que le plaignante entretenait une relation
+adultère avec son fils. L'accusée aurait ajouté que l'intéressé passait tout
+son temps dans l'établissement et y restait parfois la nuit durant.
+F.________ a contesté avoir tenu de tels propos. Elle a précisé
+qu'un litige l'avait opposé au client en question au sujet du parcage du
+véhicule de ce dernier. Il est constant que la mère de l'intéressé est
+atteinte de la maladie d'Alzheimer.
+1.2 Le 21 août 2007, V.________ ont derechef déposé plainte contre
+F.________, au motif que celle-ci aurait, vraisemblablement le 5 août
+précédent, mimé le geste de la masturbation par-dessus ses vêtements à
+l'attention de V.________, ce en présence d'une cliente du restaurant tenu
+par l'intéressée et son époux. L'accusée aurait ensuite fait un doigt
+d'honneur à la plaignante.
+F.________ a contesté les faits qui lui étaient reprochés.
+
+- 3 -
+2. Appréciant les faits de la cause, le tribunal de police a
+considéré, s'agissant du cas n° 1, que l'accusation se fondait uniquement
+sur les déclarations du client de l'établissement, qui est une connaissance
+des plaignants. Ces dires avaient relayé ceux de la mère de l'intéressée,
+atteinte de la maladie d'Alzheimer. Qui plus est, on ignore la teneur exacte
+des propos adressés par l'accusée à la vieille dame, de même que l'on ne
+sait pas s'ils ont été bien compris ou répétés fidèlement. Sauf à violer la
+présomption d'innocence, la teneur de l'entretien ne permettait, selon le
+premier juge, à l'évidence pas de fonder une condamnation pour calomnie
+ou diffamation à l'égard de l'accusée, qui devait donc être libérée au
+bénéfice du doute de ce chef d'accusation.
+Pour ce qui est du cas n° 2, le tribunal de police a considéré
+que l'accusation se fondait sur les dires de la plaignante, étayés par ceux
+de la cliente de l'établissement. Or, cette dernière a situé les faits au
+début de l'été et a évoqué un doigt d'honneur qui n'est pas mentionné
+dans la plainte du 21 août 2007. De surcroît, interpellée aux débats, la
+plaignante s'est révélée incapable de décrire les vêtements de l'assurée le
+jour des faits.
+Pour sa part, l'accusée s'est fondée sur les déclarations de sa
+cousine G.________, qui avait relevé qu'au jour et à l'heure mentionnés
+dans la plainte, soit le 5 août 2007 vers 17 h 30, elle aidait sa parente à
+préparer des conteneurs à ordures d'un complexe immobilier montreusien
+en vue de leur ramassage le lendemain. G.________ a été entendue en
+cours d'instruction. Or, le tribunal de police a tenu pour établi que
+l'accusée était bien employée comme concierge du complexe immobilier
+en question au moment des faits incriminés, ce dont il découle, toujours
+selon le premier juge, que sa version n'apparaît pas dénuée de pertinence.
+Certes, G.________ a été dénoncée pour faux témoignage. Pour l'heure, elle
+n'a toutefois pas été condamnée, de sorte que, d'après le tribunal de
+police, on ne saurait écarter ses déclarations sans faire preuve d'arbitraire.
+Le premier juge a dès lors retenu qu'aucune des versions des faits n'était
+plus convaincante que l'autre. L'autorité de première instance a ainsi,
+
+- 4 -
+quant à ce chef d'accusation également, libéré l'accusée au bénéfice du
+doute.
+C. En temps utile, V.________ ont recouru contre le jugement
+précité. Dans le délai imparti à cet effet, ils ont déposé un mémoire
+concluant principalement à son annulation, la cause étant renvoyée à un
+autre tribunal de première instance. Subsidiairement, ils ont conclu à la
+réforme du jugement en ce sens que G.________ est condamnée à leur
+verser, solidairement entre eux, une indemnité de tel montant que justice
+dira, ainsi que 3'000 fr. au titre de participation aux honoraires et débours
+de leur avocat,
+En d roit :
+1.a) Le recours est principalement en nullité, subsidiairement en
+réforme. La cour de céans détermine librement l'ordre d’examen des
+moyens invoqués (Besse-Matile/Abravanel, Aperçu de jurisprudence sur les
+voies de recours à la Cour de cassation pénale du Tribunal cantonal
+vaudois, in JT 1989 III 98, spéc. 99; Bersier, Le recours à la Cour de
+cassation pénale du Tribunal cantonal en procédure vaudoise, in JT 1996 III
+66, spéc. 107; Bovay/Dupuis/Monnier/Moreillon/Piguet, Procédure pénale
+vaudoise, Code annoté, 3e éd., Lausanne 2008, n. 1.4 ad art. 411 CPP).
+En l’espèce, il convient d'examiner en premier lieu les moyens
+de nullité, ceux-ci pouvant faire apparaître notamment des insuffisances
+ou des lacunes dans l’état de fait retenu par le tribunal (art. 411 litt. h
+CPP), éventualités qui ne sont en principe plus examinées dans le cadre du
+recours en réforme.
+b) Aux termes de l'art. 414 CPP, la partie civile peut recourir en
+nullité dans les cas visés à l'art. 411 let. a et d à j CPP, mais dans la
+mesure seulement où l'irrégularité influe sur le jugement des conclusions
+civiles, ou la décision du tribunal la chargeant de tout ou partie des frais
+
+- 5 -
+ou la condamnant à des dépens. Selon l'art. 418 al. 1 CPP, la partie civile
+peut recourir en réforme en ce qui concerne les conclusions civiles; elle
+peut également recourir en réforme lorsqu'elle a été condamnée à des
+frais ou à des dépens, mais uniquement pour faire modifier cette
+condamnation.
+2. Les recourants se prévalent d'abord du moyen de nullité de
+l'art. 411 let. f CPP, en faisant grief au tribunal de police de ne pas avoir
+entendu comme témoins trois personnes impliquées dans l'un ou l'autre
+des faits incriminés.
+a) L'art. 411 let. f CPP ouvre la voie du recours en nullité si le
+tribunal a rejeté à tort des conclusions incidentes du recourant, lorsque ce
+rejet a été de nature à influer sur la décision attaquée. Le moyen tiré de
+l'art. 411 let. f CPP est recevable lorsque le recourant a procédé par voie
+incidente à l'audience de jugement et que sa requête a été rejetée par le
+tribunal (Bovay/Dupuis/Monnier/Moreillon/Piguet, op. cit., n. 7.2 ad art. 411
+CPP).
+Déterminer au regard de l'art. 411 let. f CPP si un tribunal a
+rejeté à tort des conclusions incidentes, qui tendaient à une mesure
+d'instruction complémentaire, revient à juger du caractère arbitraire du
+refus d'une telle mesure, lequel échappe à ce grief s'il se fonde sur une
+appréciation des preuves déjà administrées pour maintenir l'instruction
+dans un cadre proportionné aux fins de la procédure (JT 1989 III 32; Cass.,
+R., 22 octobre 1997 et les réf. cit.; D., 29 janvier 1997; M., 7 mars 1995;
+Besse-Matile/Abravanel, op. cit., p. 101.). En résumé, le rejet de
+conclusions incidentes n'est injustifié, dans un tel cas, que si le juge a
+refusé sans raison pertinente une offre de preuves ou une réquisition
+(Cass., M., 9 novembre 1998).
+b) Dans le cas particulier, aucune requête incidente tendant à
+l'audition des témoins mentionnés n'avait été déposée à l'audience.
+Partant, le grief allégué ne peut être examiné à l'aune de l'art. 411 let. f
+CPP. Ce moyen doit donc être écarté.
+
+- 6 -
+3.a) Les recourants font ensuite valoir que l'état de fait du
+jugement est lacunaire au motif qu'il ne contient pas leur version des faits
+dans le cas n° 1. Ce moyen est implicitement déduit de l'art. 411 let. h
+CPP, respectivement de l'art. 411 let. j CPP.
+b) S’agissant d’un recours en nullité fondé sur l'art. 411 let. h (ou
+i) CPP, il sied de rappeler en préambule que le tribunal de première
+instance établit souverainement les faits selon sa conviction, en
+appréciant tous les éléments d'instruction réunis en cours d'enquête et
+lors des débats et en exposant de façon claire et complète les
+circonstances qu'il retient (art. 365 al. 2 et 372 al. 2 litt. a CPP; Bovay et
+alii, op. cit., n. 10.2 ad art. 411 CPP et les réf. cit.). La Cour de cassation
+n'étant pas une juridiction d'appel, le moyen de nullité tiré de l’art. 411 let.
+h et i CPP doit être envisagé comme un remède exceptionnel et ne permet
+pas au recourant de discuter librement l'état de fait du jugement devant
+l’autorité de recours, à laquelle il appartiendrait de choisir la version la
+plus vraisemblable (Bovay et alii., op. cit., n. 8.1 ad art. 411 CPP; Cass., A.,
+19 septembre 2000, n° 504; Cass., V., 14 septembre 2000, n. 494; JT 1999
+III 83, c. 6b; Besse-Matile/Abravanel, op. cit., p. 103).
+Selon l'art. 411 let. h CPP, le recours en nullité est ouvert
+lorsque, sur des points de nature à influer sur la décision attaquée, l'état
+de fait du jugement est insuffisant, présente des lacunes ou des
+contradictions. Cette disposition envisage ainsi des vices de deux natures :
+les insuffisances ou lacunes d'une part et les contradictions d'autre part
+(Bersier, op. cit., p. 81). L'existence d'une lacune ou d'une insuffisance de
+l'état de fait ne peut être retenue comme moyen de nullité, conformément
+à l'art. 411 let. h CPP, que si elle porte sur des points de nature à exercer
+une influence sur le dispositif du jugement attaqué, soit essentiellement
+sur des éléments de fait qualificatifs de l'infraction ou sur des critères
+déterminants de la culpabilité de l'auteur (Bersier, op. cit., p. 81). En
+revanche, la motivation donnée par le premier juge à l’appui de sa
+conviction quant aux faits ne constitue pas comme telle des faits
+
+- 7 -
+importants au sens de cette disposition (Besse-Matile/Abravanel, op. cit.,
+p. 104).
+En outre, il ne peut y avoir une contradiction qui fonde la
+nullité du jugement que dans la mesure où certains faits retenus dans le
+jugement sont en contradiction avec d’autres faits retenus dans le même
+jugement (contradiction interne ou intrinsèque). Les contradictions entre
+un fait du jugement et une pièce du dossier, ou une déclaration verbalisée
+durant l'enquête, restent sans portée puisque la Cour de cassation pénale
+n'est pas en mesure d'apprécier le résultat de l'administration des preuves
+faite aux débats sur un tel point (Bersier, op. cit., p. 82). Il faut encore
+distinguer les faits que le tribunal expose et la discussion de ces faits par
+le tribunal lui-même, dont l’éventuel désaccord avec ces faits ne relèverait
+pas du moyen tiré de l’art. 411 let. h CPP mais de l’application du droit aux
+faits, soit du recours en réforme. En effet, il ne peut y avoir contradiction
+entre une constatation de fait et une appréciation juridique (Bovay et alii,
+op. cit., n. 10.12 ad art. 411 CPP et les réf. cit.; Bersier, op. cit., p. 82;
+Besse-Matile/Abravanel, op. cit., p. 105).
+Aux termes de l'art. 411 let. j CPP, la voie du recours en nullité
+est ouverte en cas de violation de l'art. 373 al. 2 let. a CPP, lequel prévoit
+que le jugement doit indiquer brièvement les motifs de la conviction du
+tribunal sur les faits importants pour la cause. L'obligation de motiver, qui
+relève de la procédure et donc, au premier chef, du droit cantonal, se
+déduit également des art. 29 et suivants Cst. et 6 par. 3 let. d CEDH.
+Il suffit, pour répondre aux exigences de motivation, que le
+juge mentionne, au moins brièvement, les motifs qui l'ont guidé et sur
+lesquels il a fondé sa décision, de manière à ce que l'intéressé puisse se
+rendre compte de la portée de celle-ci et l'attaquer en connaissance de
+cause (ATF 123 I 31, c. 2a; 122 IV 8, c. 2c, p. 15 et les réf. cit.). Elle permet
+ensuite à l'autorité de recours d'exercer son contrôle (Piquerez, procédure
+pénale suisse, Zurich 2000, n° 3086). Le juge doit indiquer les faits
+desquels découle la preuve de l'infraction, puis qualifier les faits par
+rapport à la loi dont il fait application (Piquerez, op. cit., nos 3088 et 3089).
+
+- 8 -
+Conformément à la jurisprudence confirmée par le Tribunal fédéral, on ne
+doit pas se montrer trop exigeant concernant l'étendue de la motivation,
+dès lors que la protection accordée par le droit d'être entendu ne constitue
+qu'une garantie minimale et subsidiaire (ATF 112 Ia 107, c. 2 b, JT 1986 IV
+149, cité par Piquerez, op. cit., n° 3090).
+Le juge n'a pas l'obligation d'exposer et de discuter tous les
+faits, moyens de preuve et griefs invoqués par les parties, et il peut passer
+sous silence ce qui, sans arbitraire, lui paraît à l'évidence non établi ou
+sans pertinence (TF, M., 4 mars 1998, ad Cass., 15 septembre 1997, n°
+241; ATF 122 IV 8, c. 2; ATF 121 I 54, c. 2c; ATF 112 Ia 107, c. 2b, p. 110 et
+la jurisprudence citée). Lorsque les faits sont contestés, on doit cependant
+pouvoir comprendre quels sont les moyens de preuve qui ont fondé la
+décision du tribunal (TF, Y., 22 juin 1995, ad Cass., 10 novembre 1994, vol.
+10 p. 190).
+On ajoutera que la motivation donnée par le premier juge à
+l'appui de sa conviction quant aux faits ne peut être revue par l'autorité de
+recours que dans le cadre restreint de l'appréciation arbitraire des
+preuves, soit lorsque dite appréciation est évidemment fausse, qu'elle
+contredit d'une manière choquante le sentiment de la justice et de
+l'équité, qu'elle repose sur une inadvertance manifeste ou un abus du
+pouvoir d'appréciation (Cass., M., 6 juin 2007, n° 330; H., 10 septembre
+1998, n° 379).
+c) En l'espèce, force est de constater que le jugement mentionne
+avec toute la précision requise les motifs pour lesquels le fait allégué par
+les plaignants ne peut être tenu pour établi, à peine de violer la
+présomption d'innocence. En particulier, il expose que les assertions
+mettant en cause l'accusé reprennent les dires d'une vielle dame que l'on
+sait atteinte de la maladie d'Alzheimer et dont on ignore au surplus les
+propos exacts. Même si le jugement n'est pas explicite à ce sujet, il est
+notoire que l'affection en question compromet de manière irréversible les
+facultés mnésiques des patients qui en sont atteints, s'agissant même de
+la mémoire à court terme. En particulier, une telle appréciation, portant
+
+- 9 -
+sur des faits de nature générale, n'est pas sujette à expertise. C'est ainsi
+sans arbitraire aucun que le premier juge a retenu que ce motif invalidait
+la déposition du client des recourants quant aux dires attribués à sa mère.
+L'état de fait du jugement ne présente dès lors ni insuffisance, ni lacune,
+ni contradiction sur des points de nature à influer sur la décision attaquée.
+De même, sa motivation satisfait aux exigences de l'art. 373 al. 2 let. a
+CPP.
+4. Les recourants reprochent ensuite au tribunal de police,
+s'agissant du cas n° 2, d'avoir privilégié le témoignage de la cousine de
+l'accusée, alors même que le contrat de conciergerie figurant au dossier
+remonte à 2003 déjà. Selon eux, cet élément tendrait à infirmer le fait
+retenu selon lequel l'intéressée était encore concierge du complexe
+d'immeubles en 2007, en particulier le 5 août de cette même année, à
+savoir au moment des faits. Il ressort du dossier que, selon le témoignage
+de la cousine de l'accusée, recueilli en cours d'enquête, l'accusée et le
+témoin ne sont pas allées du côté du restaurant tenu par les plaignants le
+jour des faits allégués, quel qu'il eût été (vraisemblablement le 5 août
+2007).
+Ici encore, les recourants se méprennent sur les motifs du
+jugement. Le tribunal de police s'est limité à retenir, au bénéfice du doute,
+la thèse de l'accusée, confortée par le témoignage de sa cousine, au
+détriment de celle des plaignants, s'agissant de deux versions des faits
+dont l'une n'est pas moins vraisemblable que l'autre. Cette appréciation
+est conforme à la présomption d'innocence.
+5. Pour ce qui est toujours du cas n° 2, les recourants font aussi
+valoir que la thèse de l'accusée n'est pas crédible, sachant que le
+règlement de la commune de Montreux interdit de sortir les poubelles le
+dimanche. Il est exact (puisque notoire) que le 5 août 2007 était un
+dimanche. En outre, il arrive assez fréquemment que les restaurants
+soient ouverts ce jour, et rien ne permet de supposer que tel ne fût pas le
+cas de l'établissement tenu par les recourants. Cela étant, le jugement se
+limite à retenir que les faits incriminés étaient "vraisemblablement"
+
+- 10 -
+survenus à cette date, sans préciser qu'il n'ait pu s'agir que d'un
+dimanche, ce qui n'exclut dès lors aucun autre jour de la semaine. Quoi
+qu'il en soit, il n'apparaît pas invraisemblable a priori que l'accusée ait
+manutentionné les conteneurs à ordures même le dimanche en question.
+Ainsi, à cet égard également, la motivation du jugement s'avère conforme
+à la présomption d'innocence. Elle satisfait en outre aux réquisits de l'art.
+373 al. 2 let. a CPP.
+6. Les recourants plaident ensuite, pour ce qui est du cas n° 2,
+que le premier juge aurait dû suspendre le procès jusqu'à droit connu sur
+la cause ouverte contre la cousine de l'accusée pour faux témoignage.
+Pourtant, même une condamnation du témoin pour l'infraction en question
+n'aurait pas accrédité la thèse des plaignants au détriment de celle de
+l'accusée. En effet, la manutention des conteneurs à ordures incombe au
+concierge de tout immeuble et l'accusée aurait, en tout état de cause, pu,
+au jour et à l'heure mentionnés dans la plainte, mener à bien une telle
+tâche courante sans l'assistance d'un tiers, et même sans que quiconque
+n'en sache rien. Le fait libératoire allégué par l'accusée et retenu par le
+premier juge n'était donc pas irréductiblement soumis à la preuve
+testimoniale. Par surabondance, aucune requête incidente de suspension
+n'avait été déposée à l'audience. Sous l'angle de l'art. 411 let. f CPP, il
+suffit dès lors de renvoyer à la jurisprudence résumée au considérant 2.a
+ci-dessus.
+7.a) Au surplus et s'agissant toujours du cas n° 2, les recourants se
+prévalent de divers faits qui, s'ils ressortent certes du dossier, ne
+s'avèrent pas pertinents pour autant. Ainsi, ils excipent de lacunes dans
+l'appréciation de la déposition de leur cliente par le premier juge, au motif
+que le témoignage protocolé au dossier est plus précis que son reflet dans
+le jugement.
+b) En procédure pénale vaudoise, l'instruction principale faite aux
+débats est orale, de sorte que les déclarations qui y sont émises ne sont
+pas verbalisées. Le résultat de l'administration des preuves ne figure ainsi
+que dans l'état de fait du jugement. Toute référence aux procès-verbaux
+
+- 11 -
+enregistrés durant l'enquête est sans pertinence après le jugement,
+puisqu'on ignore ce qui a pu être déclaré aux débats par les personnes
+déjà entendues dans l'enquête (Bersier, Le recours à la Cour de cassation
+pénale du Tribunal cantonal en procédure vaudoise, in JT 1996 III 66, p. 80;
+Bovay et alii, op. cit., n. 10.12 et 11.5 ad art. 411 CPP). Cependant, le
+Tribunal fédéral reconnaît que le droit d'être entendu confère aux parties
+celui d'obtenir que les déclarations des parties, des témoins et des
+experts, qui sont importantes pour l'issue du litige, soient consignées au
+procès-verbal, tout au moins dans leur teneur essentielle. Cette
+retranscription permet à l'autorité de recours de contrôler, s'il y a lieu, que
+les faits ont été constatés correctement ou, du moins, sans arbitraire
+(Bovay et alii, op. cit., n. 10.4 et 11.5 ad art. 411 CPP).
+c) C'est donc en vain que les recourants se prévalent des procès-
+verbaux d'enquête. Au surplus, il suffit de relever qu'ils exposent leur
+propre version des faits quant à des circonstances qui ne sont pas
+déterminantes pour le sort de la cause. Des lors, même si l'état de fait du
+jugement présentait une insuffisance ou une lacune au sens de l'art. 411
+let. h CPP, celle-ci ne saurait porter sur des points de nature à influer sur la
+décision attaquée.
+Le recours en nullité doit dès lors être rejeté.
+8. Sous l'angle de la réforme et s'agissant également du cas n° 2,
+les recourants font valoir qu'il est "arbitraire d'avoir refusé de renvoyer la
+cause jusqu'à droit connu sur la plainte en faux témoignage, le
+témoignage incriminé étant de nature à influer sur le jugement". Ils
+précisent que le président a le pouvoir d'ordonner d'office une telle
+suspension et qu'ils ne pouvaient être assistés à l'audience. Ce moyen
+porte sur un vice de procédure. Partant, il relève de la nullité, et non de la
+réforme. Aussi bien a-t-il aussi été soulevé dans le recours en nullité. Il
+suffit ainsi de renvoyer au considérant 6 ci-dessus.
+Le recours en réforme doit dès lors être écarté.
+
+- 12 -
+9. Le tribunal de police ayant à juste titre libéré l'accusée, il
+pouvait se limiter à donner acte aux recourants de leurs réserves civiles à
+l'égard de celle-ci.
+10. En conclusion, le recours doit être rejeté en application de
+l'art. 431 al. 2 CPP et le jugement confirmé.
+Vu l'issue du recours, les frais de deuxième instance sont mis à
+la charge des recourants, solidairement entre eux (art. 450 al. 1 CPP).
+Par ces motifs,
+la Cour de cassation pénale,
+statuant à huis clos
+en application de l'art. 431 al. 2 CPP,
+prononce :
+I. Le recours est rejeté.
+II. Le jugement est confirmé.
+III. Les frais de deuxième instance, par 1'430 fr. (mille quatre cent
+trente francs), sont mis à la charge des recourants,
+solidairement entre eux.
+IV. L'arrêt est exécutoire.
+Le président : Le greffier :
+
+- 13 -
+Du 2 juin 2009
+Le dispositif de l'arrêt qui précède est communiqué aux
+recourants et aux autres intéressés.
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- M. et Mme V.________,
+- Me Eric Stauffacher, avocat, (pour F.________),
+- M. le Procureur général du canton de Vaud,
+et communiqué à :
+- Service de la population, secteur étrangers (06.08.1954),
+- M. le Président du Tribunal de police de l'arrondissement de l'Est
+vaudois,
+- M. le Juge d'instruction cantonal,
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+notification de l'expédition complète (art. 100
+al. 1 LTF).
+
+- 14 -
+Le greffier :
