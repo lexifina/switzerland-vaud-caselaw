@@ -1,0 +1,170 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 32"
+decided: "2009-06-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1416905"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2009 / 32
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 04.06.2009 Décision / 2009 / 32
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+AVS 41/08 -
+17/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 4 juin
+2009
+__________________
+Présidence
+de   M.
+Dind
+,
+juge unique
+Greffier
+:
+M.        Addor
+*****
+Cause pendante entre
+:
+J.________
+, à Crissier, recourant, représenté
+par la Fiduciaire Technikor SA, à Crissier,
+et
+caisse
+CANTONALE VAUDOISE DE COMPENSATION AVS
+(ci-après : la CCVD ou la caisse), à Clarens,
+intimée.
+_______________
+Art. 94 al. 1 let. c
+LPA-VD
+Vu la décision
+du 23 juin 2008 par laquelle la caisse a fixé à 8'413
+fr. 75 les cotisations dues sur le produit d'une activité
+indépendante exercée par J.________ pour la
+période courant du 1
+er
+janvier 2003 au 30 juin
+2008,
+vu la décision du même jour par laquelle la caisse a
+facturé à J.________ des intérêts
+moratoires à hauteur de 1'213 fr. 50 pour la période
+du 1
+er
+janvier 2004 au 23 juin 2008,
+vu l'opposition formée le 8 juillet 2008 par J.________
+contre les décisions précitées, dans laquelle
+il conteste avoir jamais eu le statut d'indépendant et
+explique que les revenus locatifs de ses appartements constituent
+un revenu de sa fortune privée,
+vu la décision sur opposition rendue par la caisse le 18
+juillet 2008, confirmant les décisions attaquées,
+dans laquelle elle indique que "selon les renseignements
+communiqués par le fisc, les immeubles de M. J.________ font
+partie de sa fortune commerciale, de sorte que les revenus locatifs
+en découlant sont de caractère commercial et doivent
+être soumis à cotisations",
+vu le recours déposé le 15 septembre 2008 par
+l'intéressé, qui conclut à l'annulation des 2
+décisions du 23 juin 2008, exposant qu'il ne dispose
+d'aucune fortune commerciale dès lors qu'il n'a jamais
+exercé aucune activité commerciale à titre
+indépendant, l'immeuble dont il est copropriétaire
+ayant été financé en partie par un emprunt
+bancaire et en partie par un prélèvement de fonds
+issu de sa fortune privée,
+vu la réponse de la caisse du 21 novembre 2008, qui conclut
+au rejet du recours et au maintien de la décision sur
+opposition querellée,
+vu le courrier de l'intéressé daté du 29 avril
+2009, informant le juge instructeur de ce que l'Office
+d'impôt des districts de Lausanne et Ouest lausannois a
+rectifié sa décision quant à la qualification
+des revenus de l'immeuble en question, lesquels sont
+désormais considérés comme revenus de la
+fortune privée,
+vu la correspondance de la caisse du 27 mai 2009 adressée au
+juge instructeur selon laquelle, contrairement à ce qui
+avait été retenu précédemment, "les
+revenus communiqués représentent des loyers provenant
+d'un immeuble faisant partie de la fortune privée de
+l'assuré", de sorte que l'affiliation de J.________ en tant
+que personne de condition indépendante doit être
+annulée, le recours interjeté contre la
+décision sur opposition du 18 juillet 2008 devenant
+dès lors sans objet,
+vu la correspondance de la caisse du 27 mai 2009 adressée
+à l'intéressé l'informant que, compte tenu de
+ce qui précède, une décision de cotisations
+rectificative lui sera prochainement notifiée,
+vu les pièces du dossier;
+attendu que le recours introduit le 15 septembre 2008 contre la
+décision sur opposition du 18 juillet
+précédent, tendant à son annulation au motif
+que J.________ ne dispose d'aucune fortune commerciale est devenu
+sans objet, dès lors que la caisse intimée a
+expressément reconnu que les loyers proviennent d'un
+immeuble faisant partie de la fortune privée du recourant et
+qu'une décision de cotisations rectificative serait rendue
+dans ce sens,
+qu'il y a en conséquence lieu de constater que le recours
+est devenu sans objet et de rayer la cause du
+rôle,
+que la présente décision est rendue sans frais, ni
+allocation de dépens (art. 91 al. 1 LPA-VD [loi cantonale
+vaudoise du 28 octobre 2008 sur la procédure administrative,
+RSV 173.36]),
+que s'agissant d'un recours sans objet, le juge statue comme juge
+unique (art. 94 al. 1 let. c LPA-VD).
+Par
+ces motifs,
+le
+juge instructeur
+prononce :
+I.
+Le recours est sans objet.
+II.
+La cause est rayée du
+rôle.
+III.
+La présente décision
+est rendue sans frais, ni allocation de dépens.
+Le juge
+instructeur :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑      Fiduciaire
+Technikor SA (pour J.________)
+‑      Caisse
+cantonale vaudoise de compensation AVS
+-      Office
+fédéral des assurances sociales
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral, RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier :
