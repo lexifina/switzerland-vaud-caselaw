@@ -1,0 +1,437 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 25"
+decided: "2009-06-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1402197"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-030.md", "switzerland/bund/acts/837.02/art-044.md", "switzerland/bund/acts/837.02/art-045.md"]
+---
+
+# VD Findinfo Décision / 2009 / 25
+
+## Regeste
+
+CHÔMAGE IMPUTABLE À UNE FAUTE DE L'ASSURÉ, SUSPENSION DU DROIT À L'INDEMNITÉ, VIOLATION D'OBLIGATIONS CONTRACTUELLES DE TRAVAIL | 30 al. 1 let. a LACI, 44 al. 1 let. a OACI, 45 al. 2 OACI
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 05.06.2009 Décision / 2009 / 25
+
+CHÔMAGE IMPUTABLE À UNE FAUTE DE L'ASSURÉ, SUSPENSION DU DROIT À L'INDEMNITÉ, VIOLATION D'OBLIGATIONS CONTRACTUELLES DE TRAVAIL | 30 al. 1 let. a LACI, 44 al. 1 let. a OACI, 45 al. 2 OACI
+
+TRIBUNAL CANTONAL
+ACH 11/09 -
+43/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Arrêt du 5 juin 2009
+__________________
+Présidence
+de   M.
+Abrecht
+,
+juge unique
+Greffier
+:         Mme
+Vuagniaux
+*****
+Cause pendante entre
+:
+M.________
+, à Lausanne, recourant,
+et
+Caisse de chômage
+UNIA
+, à Lausanne
+(ci-après : la caisse), intimée.
+_______________
+Art. 30 al. 1 let. a LACI;
+44 let. a et 45 al. 2 OACI
+E n  f a i t  :
+A.
+M.________, né en 1970, a travaillé pour le compte de
+l'entreprise S.________, dès le 21 novembre 2005 en
+qualité de chauffeur.
+Selon le procès-verbal de l'entretien d'évaluation du
+11 mai 2007 concernant l'année 2006, M.________ a fait
+très peu d'erreurs, a été ponctuel,
+présentable et disponible, et a bien assimilé les
+directives du service. En revanche, il a été
+noté qu'il devait faire attention au stress et accepter les
+remarques de son supérieur direct.
+Le 30 janvier 2008, l'employeur a résilié le contrat
+de travail avec effet au 31 mars 2008, reporté au 30 juin
+2008 en raison d'un accident.
+Sur requête de M.________, la société
+S.________ a justifié le licenciement comme suit par lettre
+du 3 mars 2008 :
+« Nous nous sommes rencontrés le 9
+juillet à [...] pour un entretien en présence de MM.
+[...], ainsi que de M. A.________, votre supérieur, mais que
+vous n'acceptiez pas comme tel. Après une longue discussion,
+nous avons convenu de poursuivre la collaboration.
+Malheureusement, la situation ne s'est pas
+améliorée. Vous avez continué à
+affirmer que M. A.________ n'était pas votre
+supérieur et que vous n'acceptiez pas ses ordres. Votre
+attitude a eu des répercussions négatives sur
+l'ambiance de travail à la plate-forme d'éclatement
+de [...] ».
+Le 31 mars 2008, M.________ a répondu à son employeur
+ce qui suit s'agissant du motif de licenciement
+invoqué :
+« […]
+En
+avril 2006, j'ai demandé à Monsieur A.________
+(Monsieur Q.________ était parti en vacances) de pouvoir
+prendre le mardi 18 avril un jour de congé en plus pour
+pouvoir prolonger le week-end de Pâques pour raison
+familiale. Ce jour de congé serait compensé par des
+heures supplémentaires. Monsieur A.________ avait
+refusé ma demande. J'ai téléphoné alors
+avec Monsieur […] (chef de la Suisse romande) qui,
+après explication de la raison de ma demande, m'avait
+accordé ce jour. Par la suite, Monsieur A.________
+était visiblement fâché avec moi et nos
+relations se sont dégradées de plus en plus.
+Après le retour de ses vacances de Monsieur Q.________,
+Monsieur A.________ et moi avons été convoqués
+dans son bureau. Il nous a fait comprendre que nous devrions nous
+entendre de nouveau sinon il nous licenciera tous les deux.
+Monsieur A.________ a continué de ne plus me parler et il
+m'a plus donné la main pendant environ 5 mois.
+[…]
+Après que Monsieur Q.________ (février
+2007) a quitté l'entreprise, Monsieur A.________ est devenu
+mon supérieur hiérarchique direct […]. Il est
+évidemment compréhensible que les rapports de travail
+entre Monsieur A.________ et moi n'étaient pas au beau fixe,
+mais j'ai toujours exécuté le travail
+correctement.
+[…]
+Par la
+lettre du 18 février 2008, j'ai demandé les motifs
+précis de mon licenciement. Dans votre réponse du 3
+mars 2008, vous affirmez que je n'acceptais pas comme tel mon
+supérieur direct Monsieur A.________. Ce n'est pas moi qui
+suis à l'origine de "l'attitude a eu des
+répercussions négatives sur l'ambiance de travail
+à la plate-forme" mais bien Monsieur
+A.________ ».
+Le 8 avril 2008, M.________ a sollicité l'intervention de
+l'assurance-chômage. Un délai-cadre d'indemnisation
+lui a été ouvert du 1
+er
+juillet 2008 au 30
+juin 2010.
+Le 25 septembre 2008, la société S.________ a
+indiqué à la caisse les motifs de licenciement
+suivants :
+« Monsieur M.________ n'accepte pas Monsieur
+A.________ comme son supérieur et refuse ses consignes.
+Monsieur M.________ a souligné à plusieurs reprises
+que Monsieur A.________ n'est pas son supérieur
+[…].
+Monsieur M.________ est tombé malade pendant ses
+vacances au Pakistan et n'était pas atteignable pour nous
+pendant ce temps-là. Monsieur M.________ ne nous a pas fait
+parvenir les certificats médicaux à temps et
+régulièrement. Après son temps d'absence, nous
+avons averti Monsieur M.________ par écrit. Le comportement
+de Monsieur M.________ pendant son temps d'absence et la
+collaboration avec son supérieur après son retour ne
+sont pas acceptables pour nous et c'est pour cette raison que nous
+avons résilié le contrat avec Monsieur
+M.________ ».
+Par décision du 3 octobre 2008, la caisse a suspendu
+l'assuré dans son droit au chômage pendant 31 jours
+indemnisables, en considérant que, par son comportement et
+en particulier par la violation de ses obligations contractuelles
+de travail, l'intéressé avait donné à
+son employeur un motif de résiliation du contrat de
+travail.
+Le 23 octobre 2008, l'assuré a contesté la suspension
+en indiquant qu'il avait toujours respecté A.________ en
+tant que supérieur ainsi que les consignes ordonnées,
+et qu'il avait faxé les certificats médicaux tel
+qu'on le lui avait demandé.
+Invitée par la caisse à se déterminer sur
+l'opposition de l'assuré, la société
+S.________ a contesté, le 16 décembre 2006, ses
+allégations en mentionnant que l'intéressé
+avait insisté plusieurs fois sur le fait qu'il n'acceptait
+pas A.________ comme chef direct et qu'il n'avait pas envoyé
+ses certificats médicaux régulièrement et dans
+les délais impartis.
+Par décision sur 22 décembre 2008, la caisse a
+estimé qu'au vu de l'ensemble des circonstances, il
+était approprié de suspendre l'assuré pendant
+24 jours dans son droit aux indemnités de
+chômage.
+B.
+C'est contre cette dernière décision que M.________ a
+recouru par acte du 29 janvier 2009, en concluant à son
+annulation. Il estime qu'il n'a pas perdu son emploi par sa faute,
+mais qu'il a été licencié uniquement en raison
+des tensions existant avec A.________ et pour avoir fait valoir le
+remboursement de frais de déplacement par
+l'intermédiaire d'un syndicat.
+Le 19 février 2009, la caisse a répondu qu'elle
+n'avait pas de nouveaux éléments à apporter au
+dossier.
+E n  d r o i t  :
+1.
+Le recours, interjeté dans le délai légal de
+trente jours dès la notification de la décision sur
+opposition attaquée, compte tenu des féries (art. 60
+et 38 al. 4 let. c LPGA [loi fédérale du 6
+octobre 2000 sur la partie générale du droit des
+assurances sociales, RS 830.1], laquelle loi est applicable en
+vertu de l'art. 1 al. 1 de la loi fédérale du 25 juin
+1982 sur l'assurance-chômage [LACI; RS 837.0], est recevable
+au regard des art. 56 à 60 LPGA.
+La loi cantonale vaudoise du 28 octobre 2008 sur la
+procédure administrative (LPA-VD; RSV 173.36), entrée
+en vigueur le 1
+er
+janvier 2009, s'applique aux recours
+et contestations par voie d'action dans le domaine des assurances
+sociales (art. 2 al. 1 let. c LPA-VD). La cour des assurances
+sociales du Tribunal cantonal est compétente pour statuer
+(art. 93 al. 1 let. a LPA-VD).
+La valeur litigieuse
+étant inférieure à 30'000 fr., la cause est de
+la compétence d'un juge unique (cf.
+art. 94 al. 1
+let. a LPA-VD).
+2.
+a)
+Selon l'art. 30 al. 1 let. a LACI, l'assuré doit
+être suspendu dans l'exercice de son droit à
+l'indemnité lorsqu'il est sans travail par sa propre faute.
+Tel est notamment le cas de l'assuré qui, par son
+comportement, en particulier par la violation de ses obligations
+contractuelles de travail, a donné à son employeur un
+motif de résiliation du contrat de travail (art. 44 let. a
+OACI [ordonnance du 31 août 1983 sur
+l'assurance-chômage, RS 837.02]). La suspension du droit
+à l'indemnité prononcée en raison du
+chômage dû à une faute de l'assuré, en
+application de l'art. 44 let. a OACI, ne suppose pas une
+résiliation des rapports de travail pour de justes motifs au
+sens des art. 337 et 346 al. 2 CO. Il suffit que le comportement
+général de l'assuré ait donné lieu au
+congédiement de celui-ci, même sans qu'il y ait des
+reproches d'ordre professionnel à lui faire. Tel peut
+être le cas aussi lorsque l'employé présente un
+caractère, dans un sens large, qui rend les rapports de
+travail intenables (ATF 112 V 244 consid. 1 et les arrêts
+cités; ATF C 190/06 du 20 décembre 2006, consid.
+1.2). En cas de licenciement par l'employeur, commet une faute
+celui qui, contrairement à ce qu'aurait fait tout
+travailleur raisonnable dans la même situation et les
+mêmes circonstances, a, par son comportement, donné
+lieu à la résiliation prévisible du contrat de
+travail (Munoz, La fin du contrat individuel de travail et le droit
+aux indemnités de l'assurance-chômage, thèse,
+Lausanne 1992, p. 168).
+b)
+Selon la jurisprudence, l'autorité administrative
+ou le juge ne doivent considérer un fait comme prouvé
+que lorsqu'ils sont convaincus de sa réalité. Dans le
+domaine des assurances sociales, le juge fonde sa décision,
+sauf dispositions contraires de la loi, sur les faits qui,
+faute
+d'être établis de
+manière irréfutable, apparaissent comme les plus
+vraisemblables, c'est-à-dire qui présentent un
+degré de vraisemblance prépondérante. Il ne
+suffit donc pas qu'un fait puisse être
+considéré seulement comme une hypothèse
+possible. Parmi tous les éléments de fait
+allégués ou envisageables, le juge doit, le cas
+échéant, retenir ceux qui lui paraissent les plus
+probables. Aussi n'existe-t-il pas, en droit des assurances
+sociales, un principe selon lequel l'administration ou le juge
+devrait statuer, dans le doute, en faveur de l'assuré (ATF
+135 V 39 consid. 6.1 et les références
+citées).
+3.
+Est en l'occurrence litigieux le point de savoir si le recourant
+doit être suspendu dans son droit aux indemnités de
+chômage pour avoir perdu son emploi par sa faute et, le cas
+échéant, si la durée de la suspension est
+appropriée dans son cas.
+L'administration considère qu'en affirmant à
+plusieurs reprises que A.________ n'était pas son
+supérieur direct, en refusant ses consignes et en ayant fait
+parvenir tardivement les certificats médicaux
+afférents à son absence pour cause de maladie,
+l'assuré a violé ses obligations contractuelles de
+travail et donné à son employeur plusieurs motifs de
+résiliation du contrat de travail. Le recourant estime pour
+sa part ne pas avoir perdu son emploi par sa faute et avoir
+été licencié uniquement à cause de ses
+relations tendues avec son supérieur et de son intervention
+auprès d'un syndicat pour demander le remboursement de frais
+de déplacement.
+Le 31 mars 2008, en réplique au motif de licenciement
+invoqué par son employeur, le recourant a
+déclaré que ce n'était pas lui, mais son
+supérieur direct qui était à l'origine des
+répercussions négatives sur l'ambiance de travail, et
+que leur mésentente avait débuté en avril
+2006, lorsqu'il avait obtenu, grâce à l'accord du chef
+de la Suisse romande, le jour de congé que A.________ lui
+avait refusé. Or, ce n'est qu'après avoir
+été suspendu dans son droit aux indemnités
+journalières de l'assurance-chômage par la caisse que
+l'intéressé a soutenu, dans son opposition du 23
+octobre 2008, avoir toujours respecté A.________ et les
+consignes données, et que leurs relations de travail
+étaient devenues tendues dès qu'il avait
+commencé à revendiquer le paiement de frais de
+déplacement. Ces dernières allégations se
+trouvent ainsi en contradiction avec celles formulées avant
+la décision de suspension du 3 octobre 2008. En pareille
+situation, il convient en général d'accorder la
+préférence aux
+premières
+déclarations
+de l'assuré,
+faites alors qu'il en ignorait peut-être les
+conséquences juridiques, les explications nouvelles pouvant
+être - consciemment ou non - le fruit de réflexions
+ultérieures (
+ATF 121 V
+47
+consid. 2a, 115 V 143 consid. 8c). Il n'y a pas de
+motif de s'écarter de ce principe dans le cas particulier.
+Ce sont donc les explications données par le recourant avant
+la première décision de suspension de la caisse qu'il
+convient de retenir pour l'examen d'une éventuelle perte
+fautive d'emploi.
+Au procès-verbal de l'entretien d'évaluation du 11
+mai 2007, l'employeur a noté que, malgré un bon
+travail effectué, le recourant devait accepter les remarques
+de son supérieur direct. L'intéressé ayant
+signé le rapport sans émettre d'objections sous la
+rubrique « Remarques du collaborateur (en cas de
+divergences avec le supérieur) », on peut en
+déduire qu'il admettait implicitement le reproche
+formulé et devoir faire un effort à cet égard.
+On relève aussi que, dans sa lettre du 31 mars 2008, le
+recourant n'a pas réfuté les allégations de
+son employeur s'agissant de ses relations avec son
+supérieur, soit qu'il avait affirmé à
+réitérées reprises que A.________
+n'était pas son supérieur direct et qu'il n'acceptait
+pas ses ordres, ce qui a eu des répercussions
+négatives sur l'ambiance de travail à la plate-forme
+d'éclatement des camions. Enfin, en avril 2006, A.________ -
+alors remplaçant de l'ancien chef direct du recourant,
+à l'époque en vacances - a refusé d'octroyer
+un jour de congé à l'intéressé. Passant
+outre le refus de son supérieur direct, le recourant s'est
+alors adressé au chef de la Suisse romande pour obtenir
+satisfaction. Force est par conséquent de constater que le
+recourant a violé son obligation contractuelle de respect
+des ordres de sa hiérarchie directe. C'est ainsi par sa
+faute qu'il a provoqué le conflit qui s'est installé
+durablement à partir de ce moment-là avec son
+supérieur direct. Le recourant admet d'ailleurs
+lui-même que A.________ était fâché
+contre lui depuis cet événement et que leurs
+relations se sont dégradées de plus en plus par la
+suite (cf. lettre du 31 mars 2008, 1
+re
+page, dernier
+paragraphe), sachant qu'au degré de vraisemblance
+prépondérante requis, le recourant a émis
+plusieurs fois l'opinion selon laquelle il n'acceptait pas
+A.________ en tant que supérieur direct.
+Dans ses déterminations du 25 septembre 2008
+adressées à la caisse, l'employeur invoque un second
+motif de licenciement, soit que le recourant a tardé
+à produire les certificats médicaux en relation avec
+son absence pour cause de maladie au Pakistan. Conformément
+au principe des premières déclarations
+précité, applicable par analogie à
+l'employeur, il n'y a pas lieu de prendre en compte ce nouveau
+motif de résiliation des rapports de travail. Enfin, les
+autres griefs soulevés par le recourant en cours de
+procédure (paiement de frais déplacement et de repas
+notamment) ne constituent pas l'objet du présent
+litige.
+Au vu de ce qui précède, il faut admettre que, par
+son comportement fautif, le recourant a donné à son
+employeur un motif de licenciement. Dès lors que le
+recourant doit ainsi participer au dommage qu'il a causé
+à l'assurance-chômage, c'est à bon droit que la
+caisse l'a suspendu dans son droit aux indemnités
+journalières pour perte fautive d'emploi.
+4.
+Selon l'art. 45 al. 2 OACI, la durée de la suspension dans
+l'exercice du droit à l'indemnité est de 1 à
+15 jours en cas de faute légère (a), 16 à 30
+jours en cas de faute de gravité moyenne (b) et 31 à
+60 jours en cas de faute grave (c).
+Dans le cas particulier, en considérant que le recourant a
+commis une faute de gravité moyenne, la caisse n'a pas
+outrepassé son pouvoir d'appréciation, ce qui
+justifie de confirmer la suspension du droit à
+l'indemnité de chômage pendant 24 jours
+indemnisables.
+5.
+En définitive, il convient de rejeter le recours et de
+confirmer la décision entreprise.
+La procédure étant gratuite, le présent
+arrêt est rendu sans frais (art. 61 let. a LPGA). Il n'est
+pas alloué de dépens (art. 55 LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le recours est
+rejeté.
+II.
+La décision attaquée est
+confirmée.
+III.
+Il n'est pas perçu de frais ni
+alloué de dépens.
+Le juge
+unique :
+La
+greffière
+:
+Du
+L'arrêt qui précède est notifié à
+:
+‑
+M.________
+‑      Caisse de
+chômage Unia
+‑
+Secrétariat d'Etat à l'économie
+(SECO)
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+La
+greffière
+:
