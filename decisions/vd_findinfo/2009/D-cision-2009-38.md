@@ -1,0 +1,132 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___38"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 38"
+decided: "2009-06-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1429058"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2009 / 38
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 12.06.2009 Décision / 2009 / 38
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+AA 29/09 -
+36/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 12 juin
+2009
+__________________
+Présidence
+de   Mme
+Röthenbacher
+,
+juge unique
+Greffier
+:
+Mme
+Vuagniaux
+*****
+Cause pendante entre
+:
+G.________
+, à
+Saint-Cergue, recourant,
+et
+CMBB CAISSE MALADIE
+ET ACCIDENT
+, à Martigny,
+intimée.
+_______________
+Art. 94 al. 1 let. c
+LPA-VD
+Vu le recours du 23 février 2009 par lequel G.________
+déclare que la CMBB Caisse maladie et accident ne lui a
+toujours pas réglé les frais relatifs aux suites d'un
+accident survenu en 2006,
+vu la réponse de la CMBB Caisse maladie et accident du 26
+mars 2009, indiquant qu'elle a informé l'assuré de la
+prise en charge des coûts occasionnés par les suites
+de l'accident du 11 octobre 2006 en lui transmettant le
+décompte de remboursement de prestations, et concluant
+à ce que la cause, devenue sans objet, soit rayée du
+rôle,
+vu l'écriture du juge instructeur du 9 avril 2009 informant
+l'intéressé que, sans objections motivées de
+sa part d'ici au 13 mai 2009, il considérerait que son
+recours n'a plus d'objet et que la cause serait rayée du
+rôle,
+vu l'absence de déterminations de
+l'assuré,
+vu les pièces au dossier;
+attendu que la CMBB Caisse maladie et accident s'est
+acquittée des frais relatifs aux suites de l'accident du 11
+octobre 2006 en établissant un décompte de
+remboursement de prestations,
+que l'intéressé n'a pas contesté ledit
+décompte,
+qu'il y a en conséquence lieu de constater que le recours
+est devenu sans objet et de rayer la cause du
+rôle,
+que s'agissant de rayer la cause du rôle, le juge statue
+comme juge unique (art. 94 al. 1 let. c LPA-VD [loi cantonale
+vaudoise du 28 octobre 2008 sur la procédure administrative,
+RSV 173.36]),
+que la présente décision est rendue sans frais ni
+allocation de dépens (art. 61 let. a et g LPGA [
+loi
+fédérale du 6 octobre 2000 sur la partie
+générale du droit des assurances sociales, RS
+830.1
+]).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du
+rôle.
+II.
+La présente décision est
+rendue sans frais ni allocation de dépens.
+Le juge
+unique :
+La
+greffière
+:
+Du
+La décision qui précède est notifiée
+à :
+‑
+G.________
+‑      CMBB Caisse
+maladie et accident
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+La
+greffière
+:
