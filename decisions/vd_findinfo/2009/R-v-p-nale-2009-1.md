@@ -1,0 +1,998 @@
+---
+decision_id: "vd_findinfo_R_v-p_nale___2009___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-pénale / 2009 / 1"
+decided: "2009-06-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20P%E9nale/R%E9v-p%E9nale/20090528082720588_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-397a.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-065.md", "switzerland/bund/acts/311.0/art-075.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/311.0/art-385.md", "switzerland/bund/acts/312.0/art-455.md", "switzerland/bund/acts/312.0/art-456.md", "switzerland/bund/acts/312.0/art-457.md"]
+---
+
+# VD Findinfo Rév-pénale / 2009 / 1
+
+## Regeste
+
+INTERNEMENT{DROIT PÉNAL}, RÉVISION{DÉCISION} | 65 al. 2 CP, 456 CPP, 465 al. 1 CPP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours civile 15.06.2009 Rév-pénale / 2009 / 1
+
+INTERNEMENT{DROIT PÉNAL}, RÉVISION{DÉCISION} | 65 al. 2 CP, 456 CPP, 465 al. 1 CPP
+
+TRIBUNAL CANTONAL
+3
+PE97.016620-VBA/AFE/JLA
+CHAMBRE DES
+REVISIONS
+CIVILES ET PENALES
+_________________________________
+REVISION PENALE
+Arrêt du 15 juin
+2009
+__________________
+Présidence
+de   Mme
+Carlsson
+,
+présidente
+Juges
+:
+MM.     de Montmollin, Giroud, J.-F. Meylan et
+Sauterel
+Greffier
+:
+M.        Valentino
+*****
+Art.
+65 al. 2 CP; 10 al. 1, 456 let. a, 465 al. 1
+CPP
+La
+Chambre des
+révisions civiles et pénales prend séance
+à huis clos pour statuer sur la demande
+présentée le
+24 février 2009
+par
+le
+Ministère public
+tendant à la
+révision du jugement rendu le 3 décembre 1998 par le
+Tribunal criminel du district d'Echallens dans la cause
+dirigée contre
+S.________
+.
+Elle considère :
+En fait :
+A.
+a)
+Par jugement du 3 décembre 1998, le Tribunal
+criminel du district d'Echallens a notamment condamné
+S.________ pour viol, contrainte sexuelle, lésions
+corporelles graves et pornographie, à la peine de douze ans
+de réclusion, sous déduction de 514 jours de
+détention préventive (I), dit que le
+prénommé était le débiteur de
+Q.________ et de G.________ de la somme de 40'000 fr. chacune,
+à titre de réparation du tort moral (IV), dit qu'il
+était le débiteur de Q.________ de la somme de 11'250
+fr. avec intérêts à 5 % l'an dès le
+1
+er
+janvier 1996 et de G.________ de la somme de 15'000
+fr., à titre de réparation du dommage matériel
+(V) et mis une partie des frais, par 70'832 fr. 75, à la
+charge du condamné (IX).
+Par arrêt du 12 avril 1999, la Cour de cassation
+pénale a libéré S.________ de l'accusation de
+pornographie et réduit la peine à onze ans et demi de
+réclusion, sous déduction de 514 jours de
+détention préventive.
+Par arrêt du 1
+er
+décembre 1999, le Tribunal
+fédéral a rejeté le recours de droit public
+déposé par le prénommé.
+b)
+Le jugement du
+3 décembre 1998 retient notamment que, de
+l'été 1985 au printemps 1990, le condamné a
+violé à de nombreuses reprises les deux jeunes filles
+susmentionnées; il a par ailleurs commis sur elles des actes
+d'ordre sexuel de tous genres, parfois même en
+présence de leur mère, n'hésitant pas à
+filmer certaines de ces scènes et à réaliser
+des cassettes vidéo de photos montages pornographiques
+impliquant ses victimes. Par ses agissements,
+l'intéressé a porté une atteinte grave
+à la santé mentale des deux jeunes filles.
+c)
+L'intimé
+a fait l'objet d'une expertise psychiatrique confiée au
+DUPA. Dans leur rapport du 14 novembre 1997, les experts ont
+posé le diagnostic d'épisode dépressif
+léger avec syndrome somatique, d'autres troubles
+spécifiés de la personnalité et du
+comportement chez l'adulte avec traits pervers et de troubles de la
+préférence sexuelle sans précision. Les
+médecins mandatés ont relevé que, depuis le
+début de son incarcération, l'expertisé avait
+décrit une anhédonie avec diminution de
+l'intérêt, des idées de culpabilisation, une
+perturbation de l'appétit avec perte de poids ainsi que des
+troubles du sommeil. En outre, des symptômes somatiques
+jusqu'ici existants mais tolérés étaient
+devenus des préoccupations. Ces observations ont eu pour
+effet que les experts se sont demandés dans quelle mesure
+l'expertisé n'avait pas utilisé cette symptomatologie
+pour créer un climat d'empathie à son égard.
+Celui-ci avait en particulier insisté sur les descriptions
+relatives à une tumeur cérébrale dont les
+experts n'ont retrouvé aucune trace dans les dossiers
+médicaux du CHUV, ce qui leur a fait parler de manipulation
+voire de mensonges de la part de l'expertisé. De plus, les
+médecins ont constaté que celui-ci imprimait
+fortement sa domination dans la relation, devenant manipulateur et
+tout-puissant face à des personnes immatures ou
+dépendantes de lui, imposant ses désirs sans tenir
+compte de la souffrance infligée, sa propre jouissance
+étant le seul élément dont il tenait compte.
+Il utilisait l'autre comme objet. Ce fonctionnement pervers
+prédisposait à des troubles sexuels tels le
+travestisme, l'exhibitionnisme, le sadisme ou le masochisme.
+L'expertisé n'avait cependant aucune angoisse dans ses
+actes, les experts relevant que les personnes sujettes à ces
+troubles savent le plus souvent qu'elles enfreignent la loi mais
+l'acceptent comme un élément gênant de la
+réalité, mais contournable. Les experts ont
+indiqué que S.________ avait une certaine conscience de son
+fonctionnement. Le diagnostic posé était assimilable
+à un développement mental incomplet, qui n'avait
+toutefois pas atténué la faculté de
+l'expertisé d'apprécier le caractère illicite
+de l'acte ou de se déterminer d'après cette
+appréciation. Les experts n'ont pas pu exclure que le
+prénommé puisse à nouveau commettre des actes
+punissables dans un contexte semblable. Selon eux, un traitement
+ambulatoire était envisageable, dans la mesure où
+l'intéressé en ferait la demande; ils ont
+précisé qu'il n'était pas nécessaire de
+l'interner, dès lors que, compte tenu de son état
+mental, il ne compromettait pas la sécurité publique
+et ne risquait pas de mettre autrui en danger.
+B.
+a)
+Alors que l'intimé
+était en exécution de peine,
+le Tribunal correctionnel de l'arrondissement de La Broye
+et du Nord vaudois l'a condamné
+, p
+ar jugement du 7
+février 2007, pour pornographie, à dix mois de peine
+privative de liberté et a ordonné un traitement
+ambulatoire sous la forme de la poursuite des entretiens
+psychothérapeutiques déjà
+entrepris.
+b)
+Ce jugement
+retient notamment qu'au milieu de l'année 2000, pendant
+qu'il purgeait sa peine aux Etablissements de la plaine de l'Orbe,
+S.________ a acquis un ordinateur qu'il a conservé dans sa
+cellule. Depuis lors et jusqu'au 10 décembre 2004, date
+à laquelle cet appareil a été saisi, il a
+confectionné plusieurs centaines de fichiers-images relevant
+de la pornographie dure. La police a relevé 3'545 fichiers
+à connotation sexuelle sur son ordinateur. Le
+prénommé s'est notamment servi de photos de ses
+anciennes victimes Q.________ et G.________, qu'il avait prises
+entre 1986 et 1987, pour faire des montages pornographiques,
+ceux-ci représentant environ 30 % de l'ensemble des fichiers
+créés; pour le reste, il a en particulier mis en
+scène des fillettes âgées de 10 ans au
+plus.
+c)
+Dans le cadre
+de l'instruction ayant abouti au jugement du 7 février
+2007, le condamné a été soumis à une
+nouvelle expertise psychiatrique confiée au professeur
+[...]. Dans son rapport du 5 octobre 2005, l'expert a posé
+le diagnostic de troubles multiples de la préférence
+sexuelle et trouble de la personnalité narcissique. Les
+troubles du narcissisme empêcheraient l'expertisé de
+ressentir de l'empathie pour autrui. L'expert a relevé que
+le risque de récidive était considérable et
+s'est dit certain qu'une fois libéré, l'intimé
+chercherait à entrer en contact avec la cadette des
+victimes; il a précisé que, dans un tel cas, les
+conséquences pour cette dernière seraient
+catastrophiques. Il a indiqué que la faculté
+d'apprécier le caractère illicite des actes
+était entièrement conservée, alors que les
+graves troubles de la personnalité dont souffrait
+l'intéressé avaient pu légèrement
+entraver sa capacité à se déterminer
+d'après cette appréciation. Peu après son
+arrivée aux Etablissements de la plaine de l'Orbe,
+S.________ a entrepris un traitement avec la
+psychothérapeute Z.________. Dans un premier temps, cette
+dernière a eu le sentiment qu'un lien thérapeutique
+se créait et qu'un travail pourrait être
+effectué; par la suite, elle a manifesté des doutes
+de plus en plus clairement. A plusieurs reprises, le
+prénommé a interrompu les entretiens, qu'il vivait
+davantage comme un moment de plaisir intellectuel narcissique que
+comme une entreprise de remise en question de son monde pulsionnel.
+En conclusion, l'expert a considéré qu'un internement
+était justifié et qu'il fallait y ajouter d'autres
+mesures matérielles empêchant
+l'intéressé de commettre à nouveau des actes
+punissables. Même si le traitement déjà
+tenté n'avait pas rencontré de grand succès,
+il apparaissait que de nouvelles tentatives thérapeutiques
+devaient être entreprises.
+Entendu aux débats, l'expert a déclaré,
+s'agissant de la nécessité d'un internement à
+l'endroit de l'expertisé, qu'il ne pouvait plus se prononcer
+de manière aussi catégorique qu'en 2005, compte tenu,
+d'une part, de la privation des moyens matériels qui avait
+pu changer la position du condamné et, d'autre part, du fait
+que celui-ci avait repris ses entretiens avec la
+psychothérapeute susmentionnée. Il a également
+relevé que le risque de récidive devait être
+relativisé, puisque l'intimé n'avait focalisé
+son attention que sur ses deux victimes et non sur toutes les
+adolescentes de leur âge et qu'aucun acte punissable n'avait
+été commis entre 1990 et l'arrestation en juillet
+1997.
+C.
+a)
+S.________ est entré en exécution de
+peine le 3 décembre 1998. Il a d'abord été
+incarcéré à la prison du Bois-Mermet, puis aux
+Etablissements de la plaine de l'Orbe, où il purge
+actuellement sa peine. Il doit achever l'exécution de
+celle-ci le 5 novembre 2009.
+b)
+Il ressort d'un rapport du 24 juin 2008 que la Direction
+des Etablissements de la plaine de l'Orbe a préavisé
+défavorablement à la libération conditionnelle
+du prénommé, aux motifs que celui-ci était
+réfractaire à tout placement en institution, qu'il
+n'y avait chez lui aucune remise en question, qu'il refusait toute
+prise en charge thérapeutique, persistait à se
+positionner en tant que victime et était persuadé que
+le risque de récidive était inexistant. Ce
+préavis fait notamment référence à
+l'avis que la Commission interdisciplinaire consultative concernant
+les délinquants nécessitant une prise en charge
+psychiatrique (ci-après : CIC) a rendu à l'issue de
+ses séances des 19 et 20 mai 2008; s'agissant de
+l'évaluation du suivi psychiatrique de l'intimé, la
+CIC a évoqué la possibilité d'appliquer l'art.
+65 al. 2 CP (Code pénal suisse du 21 décembre 1937,
+RS 311.0), dès lors que la dangerosité de
+l'intéressé était majeure, que les
+possibilités thérapeutiques étaient quasi
+inexistantes et que les risques encourus au moment d'une
+éventuelle remise en liberté étaient
+socialement inacceptables.
+c)
+Par jugement du
+20 novembre 2008, le Collège des juges d'application des
+peines a refusé d'accorder la libération
+conditionnelle au prénommé. Il s'est notamment
+fondé sur le rapport médical du 27 août 2008,
+selon lequel l'intimé avait commis des actes
+d'exhibitionnisme à l'égard du personnel soignant
+féminin pendant une hospitalisation à Genève
+en 2008. Il a également relevé que
+l'intéressé ne s'était pas conformé au
+traitement ambulatoire qui avait été ordonné
+le 7 février 2007 par le Tribunal correctionnel de
+l'arrondissement de La Broye et du Nord vaudois. Le Collège
+des juges d'application des peines a préconisé
+d'examiner la possibilité d'ordonner un internement en
+application de l'art. 65 al. 2 CP.
+d)
+Par courrier du
+10 février 2009, l'Office d'exécution des peines a
+saisi le Ministère public pour que celui-ci introduise une
+procédure de révision, conformément à
+la disposition précitée.
+D.
+Par mémoire
+déposé le 24 février 2009, le Ministère
+public du canton de Vaud a requis la révision du jugement
+rendu le
+3 décembre 1998 par le
+Tribunal criminel du district d'Echallens
+et le renvoi du dossier de la cause
+à un autre tribunal.
+Par acte du 30 avril 2009, S.________ a conclu principalement
+à l'irrecevabilité de la demande, subsidiairement
+à son rejet et plus subsidiairement encore à ce qu'un
+complément d'instruction soit ordonné.
+En droit
+:
+1.
+a)
+Il y a lieu d'examiner préalablement la
+question de la recevabilité de la demande de
+révision, que le Ministère public fonde sur l'art. 65
+al. 2 CP.
+Selon cette disposition, si, pendant l'exécution de la peine
+privative de liberté, des faits ou des moyens de preuve
+nouveaux permettent d'établir qu'un condamné remplit
+les conditions de l'internement et que ces conditions
+étaient déjà remplies au moment du jugement
+sans que le juge ait pu en avoir connaissance, le juge peut
+ordonner l'internement ultérieurement. La compétence
+et la procédure sont déterminées par les
+règles sur la révision.
+L'intimé fait tout d'abord valoir que, dès lors que
+les faits se sont déroulés entre 1985 et 1990,
+l'action pénale est prescrite depuis 2005,
+conformément à l'art. 97 CP, ce qui
+entraînerait l'irrecevabilité de la
+demande.
+Il est vrai qu'une révision au préjudice du
+condamné n'est possible que si la prescription des
+poursuites pénales n'est pas intervenue (Piquerez,
+Traité de procédure pénale suisse,
+2
+ème
+éd., 2006, n. 1267, p. 783). Mais
+c'est indépendamment de la prescription que l'art. 65 al. 2
+CP ouvre la voie de la révision à la seule condition
+que des faits ou des moyens de preuve nouveaux apparaissent en
+cours d'exécution. Peu importe dès lors la
+prescription de l'action pénale, la révision
+instaurée par la disposition précitée ne
+visant pas à sanctionner un comportement délictuel
+mais à adapter une sanction déjà
+prononcée eu égard à la dangerosité du
+condamné.
+b)
+L'intimé
+entend ensuite tirer argument de ce que la demande de l'art. 65 al.
+2 CP doit être déposée avant la fin de
+l'exécution de la peine. Selon cette disposition, c'est en
+effet "pendant l'exécution de la peine" que des
+éléments nouveaux doivent apparaître, de sorte
+que la demande y relative doit être formée au
+même moment. A l'issue de l'exécution, une
+intervention devrait se fonder sur une autre base, ainsi une
+privation de liberté à des fins d'assistance au sens
+des art. 397a ss CC (Code civil suisse du 10 décembre 1907,
+RS 210), voire un nouveau jugement pénal (Heer, Basler
+Kommentar, 2007, n. 47 ad art. 65 CP, p. 1383). Comme l'indique la
+note marginale, c'est d'un "changement de sanctions" qu'il s'agit,
+ce qui implique que la sanction perdure au moment où sa
+modification est demandée. Cette interprétation de
+l'art. 65 al. 2 CP n'est pas contredite en doctrine (Heer, op.
+cit., n. 47 et 48 ad art. 65 al. 2 CP, pp. 1383 s.; Pozo, Droit
+pénal, partie générale, 2008, n. 1669, p. 523;
+Roth, Mesures de sûreté et nouveau droit :
+confirmations, évolutions et paradoxes, in RPS 2008, p. 252;
+Heer, Nachträgliche Verwahrung - ein gesetzgeberischer
+Irrlaüfer, in PJA 2007, pp. 1031 ss, spéc.
+1041).
+Pour l'intimé, la demande du Ministère public du 24
+février 2009 est tardive, puisque l'exécution de la
+peine dont la révision est demandée s'est
+achevée le 5 janvier 2009, seule une autre peine de dix mois
+d'emprisonnement prononcée en 2007 étant
+purgée actuellement. En réalité, le principe
+de la confusion des peines s'oppose à un tel point de vue.
+Comme le prévoit
+l'art. 4 O-CP-CPM (Ordonnance
+relative au code pénal et au code pénal militaire du
+19 septembre 2006, RS 311.01), si, lors de l'exécution, il y
+a concours de plusieurs peines privatives de liberté, ces
+peines sont exécutées simultanément,
+conformément aux art. 76 à 79 CP, leur durée
+totale étant déterminante; le législateur a
+ainsi clairement prévu que les peines qui doivent être
+exécutées simultanément se confondent, raison
+pour laquelle d'ailleurs un seul plan d'exécution est
+établi dans de tels cas (art. 75 al. 3 CP). La même
+solution est prévue par l'art. 86 al. 1 CP en matière
+de libération conditionnelle : lorsque plusieurs sanctions
+ont été prononcées, c'est sur la base de la
+peine privative de liberté d'ensemble que la date à
+partir de laquelle le condamné est éligible à
+une libération anticipée est déterminée
+(
+Baechtold, Exécution
+des peines, Berne 2008, n. 5, p. 257). C'est donc la peine globale
+de douze ans et quatre mois résultant des deux condamnations
+dont l'intéressé a fait l'objet qui est
+déterminante. Partant, la demande déposée par
+le Ministère public le 24 février 2009 l'a
+été en temps utile.
+c)
+Selon l'art. 65
+al. 2 2
+ème
+phrase CP, la compétence et la
+procédure sont déterminées par les
+règles sur la révision. Ainsi, à teneur de
+l'art. 84 OJV (Loi d'organisation judiciaire du 12 décembre
+1979, RSV 173.01), la Chambre des révisions civiles et
+pénales statue sur les demandes de révision
+présentées en application du Code de procédure
+pénale. Par ailleurs, selon l'art. 456 let. a CPP (Code de
+procédure pénale du 12 septembre 1967, RSV 312.01),
+le Ministère public a qualité pour demander la
+révision d'un jugement; cette voie est ouverte s'agissant
+d'un jugement, d'une
+ordonnance de condamnation ou d'un
+arrêt de la Cour de cassation (art. 455 al. 1 CPP), soit de
+décisions emportant condamnation ou contenant une
+déclaration de culpabilité.
+Au vu de ce qui précède, la demande de
+révision du jugement du 3 décembre 1998 formée
+par le Ministère public est recevable. Les pièces
+produites à l'appui de cette demande le sont
+également (art. 457 al. 2 CPP).
+2.
+a)
+L'article 65 al. 2 CP a
+été introduit par la loi fédérale du 24
+mars 2006 modifiant le Code pénal suisse (Correctifs en
+matière de sanctions et casier judiciaire) et est
+entré en vigueur le 1
+er
+janvier 2007. Selon le
+Message du Conseil fédéral (FF 2005, p. 4450), un
+internement ordonné sur la base de la disposition
+précitée n'est possible que dans les limites d'une
+révision en défaveur de l'auteur, laquelle est admise
+à deux conditions, à savoir, d'une part, l'existence
+d'une base légale expresse et, d'autre part, la
+découverte de faits ou moyens de preuve nouveaux
+établissant que les conditions exigées pour le
+prononcé d'une sanction plus sévère
+étaient déjà réunies au moment du
+premier jugement sans toutefois que le tribunal ait pu en avoir
+connaissance.
+Par "faits", il faut entendre toute circonstance susceptible
+d'être prise en considération dans l'état de
+fait qui fonde le jugement, ce qui comprend tout
+événement matériel ou produit par
+l'activité humaine, même celui auquel la loi attache
+un effet juridique
+(Favre/Pellet/Stoudmann,
+Code pénal annoté, 3
+ème
+éd.,
+Lausanne 2007,
+n. 1.3 ad art.
+385 CP;
+Bovay/Dupuis/Monnier/Moreillon/Piguet,
+Procédure pénale vaudoise, Code annoté,
+3
+e
+éd., Bâle 2008,
+n. 2.2 ad art. 455
+CPP).
+Un fait ou un moyen de preuve est nouveau lorsque le juge n'en a
+pas eu connaissance au moment où il s'est prononcé,
+c'est-à-dire lorsqu'il ne lui a pas été soumis
+sous quelque forme que ce soit (ATF 130 IV 72 c. 1, rés. in
+JT 2004 IV 160; ATF 122 IV 66 c. 2a et les arrêts
+cités, rés. in JT 1998 IV 91), sans qu'il importe
+qu'il ait été connu ou non du requérant (ATF
+130 IV 72 c. 2.2, rés. in JT 2004 IV 160). Il est ainsi
+exclu de prendre en considération, lors de l'examen des
+conditions de l'internement au sens de l'art. 65 al. 2 CP, des
+éléments apportés dans la
+précédente procédure mais dont le tribunal n'a
+pas tenu compte ou qui ont été mal compris par
+celui-ci (Heer, op. cit., n. 65 ss ad art. 65 CP, p. 1387). Il
+appartient au juge de la révision d'apprécier les
+preuves avancées pour établir le fait nouveau ou
+d'examiner la force probante d'un nouveau moyen de preuve
+invoqué pour établir un fait déjà connu
+(ATF 92 IV 177, JT 1967 IV 56; JT 1988 III 94).
+b)
+L'art. 65 al. 2
+CP doit être appliqué de façon restrictive,
+à savoir uniquement dans les cas où s'en tenir
+à la chose jugée conduirait à un
+résultat inacceptable (Heer, op. cit., n. 38 ad art. 65 CP,
+p. 1381). Son champ d'application se limite aux cas dans lesquels
+un internement n'a pas été prononcé, alors que
+ses conditions étaient réunies, l'extrême
+dangerosité du condamné s'étant
+révélée durant l'exécution de peine.
+Une telle mesure constitue un moyen de corriger des erreurs graves
+commises au moment du jugement, sans toutefois permettre de prendre
+en considération des développements intervenus en
+cours d'exécution, tels un refus de thérapie, des
+menaces à l'égard du personnel de détention ou
+de l'agressivité; il faudra donc déterminer si un
+phénomène particulier chez un condamné est
+l'expression d'un état qui existait déjà au
+moment du jugement ou s'il a été provoqué par
+les conditions de la détention. Les éléments
+nouveaux doivent être de nature à ébranler
+fortement les constatations sur lesquelles s'est fondé le
+jugement et faire apparaître une mesure d'internement comme
+inévitable; l'état de fait déterminant doit
+avoir existé au moment du jugement (Heer, op. cit., n. 25 ss
+et 77 ss ad art. 65 CP, pp. 1377 s. et 1390 s.).
+c)
+Aux termes du
+ch. 2 al. 1 des Dispositions finales de la modification du 13
+décembre 2002, les dispositions du nouveau droit relatives
+aux mesures (art. 56 à 65) et à leur exécution
+(art. 90) s'appliquent aussi aux auteurs d'actes commis ou
+jugés avant leur entrée en vigueur. Cependant, le
+prononcé ultérieur de l'internement au sens de l'art.
+65 al. 2 CP n'est admissible que si l'internement aurait
+également été possible sur la base de l'art.
+42 ou 43 ch. 1 al. 2 de l'ancien droit (let. a).
+3.
+a)
+En l'espèce, le
+requérant fait tout d'abord valoir que des faits ou des
+moyens de preuve nouveaux ont été constatés
+dans le jugement du 7 février 2007, dès lors que les
+actes pour lesquels l'intimé a été
+condamné font apparaître la dangerosité de
+celui-ci comme persistante, intacte et élevée. Selon
+le Ministère public, cette dangerosité résulte
+également du jugement rendu le 20 novembre 2008 par le
+Collège des juges d'application des peines, du rapport
+d'expertise du 5 octobre 2005, des avis de la CIC des 2 mai 2007 et
+30 mai 2008 ainsi que des actes d'exhibitionnisme commis par
+l'intéressé lors de son hospitalisation en
+2008.
+Parmi ces éléments, il y a lieu de distinguer faits
+nouveaux et moyens de preuve nouveaux, les premiers devant exister
+au moment du prononcé du premier jugement
+déjà, alors que les seconds se rapportent à
+des faits anciens qui faisaient déjà l'objet de la
+procédure antérieure mais ne doivent pas
+nécessairement être antérieurs ou contemporains
+au jugement.
+b)
+Les actes pour
+lesquels S.________ a été condamné en 2007 ne
+constituent pas des faits nouveaux au sens de l'article
+précité puisqu'ils se sont déroulés de
+juin 2000 à décembre 2004, soit
+postérieurement au jugement du 3 décembre
+1998.
+Au demeurant, comme l'a du reste précisé le tribunal
+dans son jugement du 7 février 2007, les conditions d'un
+internement au sens de l'art. 64 CP n'étaient pas
+réalisées, l'infraction de pornographie dont le
+prénommé a été reconnu coupable
+n'étant pas déterminante au sens cette disposition;
+contrairement à ce que prétend le requérant,
+on ne saurait parvenir, par le seul biais de l'évaluation de
+la dangerosité de l'intimé, à un internement,
+alors que la disposition précitée ne permet pas en
+l'occurrence d'ordonner une telle mesure. Pour le surplus, la
+nature particulière de l'infraction susmentionnée ne
+suffit pas à conclure que sa commission a permis de
+révéler une facette de l'intéressé
+inconnue des premiers juges; en effet, les actes de pornographie
+retenus à l'encontre du condamné, consistant à
+effectuer des montages photographiques, avaient déjà
+été constatés dans le jugement de
+1998.
+c)
+Le jugement
+rendu le 20 novembre 2008 par le Collège des juges
+d'application des peines ne peut pas non plus ouvrir la voie de la
+révision, puisqu'il ne représente qu'une
+appréciation de l'état de fait déterminant
+dans l'examen de la libération conditionnelle du
+prénommé.
+d)
+S'agissant des
+comportements exhibitionnistes à l'égard du personnel
+soignant féminin pendant l'hospitalisation de
+l'intimé à Genève en 2008, on précisera
+tout d'abord que c'est en vain qu'il soutient, d'une part,
+qu'aucune plainte n'a été déposée et,
+d'autre part, qu'il s'est uniquement agi de faits inhérents
+aux "vêtements hospitaliers" et aux "situations de soins". En
+effet, les actes susmentionnés, que le condamné ne
+conteste d'ailleurs pas expressément, sont mentionnés
+dans le rapport médical du 27 août 2008 sur lequel
+s'est notamment fondé le Collège des juges
+d'application des peines et rien ne permet de les mettre en doute.
+Quoi qu'il en soit, ces faits ne sont pas nouveaux au sens de
+l'art. 65 al. 2 CP, du moment que les experts avaient
+déjà admis, en page 9 de leur rapport du 14 novembre
+1997, que le fonctionnement pervers affectant S.________
+prédisposait à des troubles sexuels
+tels par exemple le travestisme, l'exhibitionnisme, le sadisme ou
+le masochisme.
+e)
+Enfin, les avis
+de la CIC auxquels fait référence le Ministère
+public montrent que l'intimé n'a fait aucun effort pour
+suivre un traitement en détention. Une telle circonstance
+n'est pas un fait nouveau; il s'agit en revanche d'un
+développement intervenu en cours d'exécution, ce
+qu'une mesure d'internement au sens de l'art. 65 al. 2 CP ne permet
+pas de prendre en considération, comme on l'a relevé
+ci-avant (cf. ch. 2.b
+supra
+).
+f)
+En
+définitive, aucun des éléments invoqués
+globalement par le requérant en page 7 de sa demande ne
+constitue en soi un fait nouveau.
+4.
+a)
+Se fondant sur les divers aspects examinés
+ci-haut, le Ministère public invoque encore la
+dangerosité de l'intimé, son absence
+d'évolution ainsi que le risque élevé que
+celui-ci commette d'autres infractions du même genre. Il
+estime notamment que le penchant intact du condamné à
+la délinquance constituerait un fait nouveau.
+b)
+Il convient
+d'emblée de préciser que ni la dangerosité
+d'un condamné ni la possibilité d'une
+évolution ne sont des faits, mais relèvent d'une
+appréciation basée sur un certain nombre de facteurs
+de risque, lesquels peuvent en revanche être
+considérés eux-mêmes comme des faits (Heer, op.
+cit., n. 61 ad art. 65 CP, p. 1386).
+c)
+aa)
+En l'occurrence, s'il est
+vrai que, pour les motifs évoqués ci-dessus, les
+actes pour lesquels S.________ a été condamné
+par jugement du 7 février 2007 ne constituent pas en
+eux-mêmes des faits nouveaux, l'expert a toutefois
+souligné, dans son rapport du 5 octobre 2005, que le
+prénommé avait démontré, par son
+comportement, que la sanction pénale était sans prise
+sur ses obsessions, dans la mesure où il avait
+réalisé, dans sa cellule, plusieurs milliers de
+montages photographiques à caractère pornographique,
+dont plus d'un quart représentaient Q.________ ou
+G.________. L'expert a indiqué que l'intimé
+présentait un risque de récidive considérable,
+dès lors qu'il ne manifestait aucun remords, persistait
+à imaginer un lien affectif avec la cadette de ses victimes,
+ne voyait pas le caractère répréhensible de
+ses agissements et accordait une priorité absolue à
+ses besoins pulsionnels. Il a conclu que, s'il en avait la
+possibilité matérielle, non seulement
+l'intéressé poursuivrait ses activités
+à caractère pornographique, mais aussi tenterait, une
+fois libéré, de reprendre contact avec G.________, ce
+qui serait catastrophique pour elle.
+L'aspect de la personnalité de l'intimé que le
+rapport précité a permis de révéler ne
+saurait être remis en cause par les seules
+déclarations que l'expert a faites ultérieurement, au
+cours des débats. Celui-ci a certes précisé,
+à cette occasion, que le risque de récidive devait
+être relativisé, étant donné que, d'un
+côté, l'intimé n'avait focalisé son
+attention que sur ses deux victimes et non sur toutes les
+adolescentes de leur âge et que, d'un autre
+côté, aucun acte punissable n'avait été
+commis entre 1990 et l'arrestation en juillet 1997; toutefois, on
+remarquera que, dans le rapport précité, l'expert
+avait déjà tenu compte de ces deux
+éléments, qui ne lui ont pourtant pas permis
+d'exclure que le condamné ne cherche à recréer
+une relation d'emprise sur d'autres victimes. S'agissant ensuite
+des affirmations de l'expert selon lesquelles il ne pouvait plus se
+prononcer de manière aussi catégorique concernant la
+nécessité d'un internement à l'endroit de
+l'expertisé, aux motifs que la privation des moyens
+matériels avait pu changer sa position et qu'il avait repris
+ses entretiens avec la psychothérapeute Z.________, il
+convient de constater, là aussi, que le rapport du 5 octobre
+2005 faisait déjà état de ces deux aspects,
+concluant néanmoins à l'inaccessibilité de
+l'intéressé au traitement entrepris par la même
+psychothérapeute.
+L'expertise effectuée dans le cadre de l'instruction ayant
+abouti au jugement du 7 février 2007 a ainsi
+dévoilé l'immutabilité des penchants de
+S.________ à l'égard de ses victimes, ce qui
+constitue un facteur de risque qui, comme on l'a rappelé
+ci-haut, peut être considéré comme un fait au
+sens de l'art.
+65 al. 2 CP (Heer, op.
+cit., n. 61 ad art. 65 CP, p. 1386).
+Selon
+le Tribunal fédéral, la seule circonstance qu'une
+expertise psychiatrique a été effectuée lors
+du premier procès ne suffit pas pour dénier toute
+nouveauté à une expertise subséquente, si leur
+objet n'est pas le même (ATF 78 IV 50, JT 1952 IV 72); ainsi,
+les éléments qui déterminent la
+dangerosité d'un individu peuvent résulter d'une
+expertise psychiatrique, comme c'est le cas en
+l'espèce.
+bb)
+Les actes
+d'exhibitionnisme reprochés à l'intimé pendant
+son hospitalisation en 2008 ont mis à jour son
+inaccessibilité à la sanction pénale, comme le
+relève à juste titre le requérant lorsqu'il
+parle du "penchant intact du condamné pour
+l'exhibitionnisme" (demande, p. 7, paragraphe 4). En effet, quand
+bien même il avait déjà purgé plus de
+dix ans de peine privative de liberté et avait
+été condamné en cours d'exécution de
+peine pour pornographie, l'intimé n'a pas
+hésité à se laisser aller à un nouveau
+comportement exhibitionniste. Ces agissements confirment la
+conclusion de la seconde expertise selon laquelle seul un
+environnement sécurisé permettrait d'écarter
+chez l'expertisé le risque de récidive en
+matière d'
+infractions à
+l'intégrité sexuelle
+s'il ne
+s'engageait pas réellement dans une prise en charge de ses
+troubles. Ainsi, le fait que l'intimé ait repris ses
+entretiens avec la psychothérapeute Z.________ n'a pas
+permis de l'amender, alors que l'expert avait expressément
+affirmé, à l'audience du 7 février 2007,
+qu'une telle mesure suffirait à le détourner de
+commettre d'autres infractions (jugement du 7 février 2007,
+p. 2
+in fine
+).
+Un tel blocage à l'égard des infractions en
+matière sexuelle n'a pas pu être perçu par les
+juges en 1998, dès lors qu'il n'a été
+révélé que par les agissements de
+l'intimé en cours d'exécution de peine. Par
+conséquent, l'inaccessibilité de celui-ci à la
+sanction constitue aussi un facteur de risque nouveau qui peut
+être pris en considération.
+cc)
+S'agissant de la
+constatation faite par la CIC dans son avis du 2 mai 2007 selon
+laquelle S.________ n'a fait aucun effort pour suivre un traitement
+thérapeutique, c'est à juste titre que celui-ci fait
+valoir qu'il ne peut être considéré comme un
+fait nouveau, du moment que le jugement du 3 décembre 1998
+n'ordonnait aucun traitement.
+En revanche, en indiquant que "les possibilités
+thérapeutiques sont quasi inexistantes", l'avis de la CIC du
+30 mai 2008 a décelé un élément dont
+les juges de 1998 ne pouvaient avoir connaissance au moment du
+jugement. En effet, dans leur rapport du 14 novembre 1997, les
+experts avaient admis qu'il n'était pas nécessaire
+d'interner le prénommé et qu'un traitement
+ambulatoire était envisageable dans la mesure expresse
+où l'expertisé en ferait la demande, raison pour
+laquelle les juges n'ont ordonné aucune mesure; tout au
+plus, ceux-ci pouvaient-ils penser qu'un traitement ambulatoire
+serait dispensé en détention, ce qui a d'ailleurs
+été sporadiquement le cas. Comme le relève
+à bon droit le requérant (demande, p. 9), les
+experts se sont limités à examiner la
+responsabilité de l'intéressé et ont
+laissé à l'appréciation du tribunal et de
+l'intéressé lui-même la question d'un
+éventuel traitement ambulatoire, sans justifier en aucune
+façon la nécessité d'une telle mesure, alors
+que, selon l'art. 43 ch. 1 al. 3 aCP, une expertise sur cette
+question s'imposait; par ailleurs, ils ont indiqué, sans
+plus amples explications, qu'un internement n'était pas
+nécessaire. Dans ces conditions, force est de constater que
+le tribunal ignorait qu'une évolution de l'état
+psychique de l'intimé ne pouvait être obtenue par des
+actes médicaux.
+Par conséquent, l'incurabilité des tendances
+délictueuses de l'intimé constatée par la CIC
+est un élément de fait nouveau supplémentaire
+qui détermine sa dangerosité.
+Enfin, l'expertise réalisée en 2005 constitue en
+elle-même un moyen de preuve nouveau satisfaisant aux
+réquisits de l'art. 65 al. 2 CP. Fondée sur une
+anamnèse principalement axée sur le passé de
+l'intimé antérieur au jugement de 1997, elle
+procède à des constats qui auraient pu conduire
+d'emblée à l'internement s'ils avaient
+été effectués auparavant. Son but n'est pas
+comme précédemment d'établir un degré
+de responsabilité mais de poser un diagnostic eu
+égard à un risque de récidive : il s'est ainsi
+agi d'une approche nouvelle, dans le cadre de laquelle un important
+danger de récidive a pu être
+révélé.
+d)
+En conclusion,
+même s'ils ont considéré que S.________
+était de toute évidence un individu dangereux (jugt,
+p. 61), les juges de 1998 ne pouvaient avoir connaissance, sur la
+base de la seule expertise psychiatrique du 14 novembre 1997, des
+trois éléments susmentionnés, à savoir
+l'immutabilité des penchants du prénommé
+à l'égard de ses victimes, son inaccessibilité
+à la sanction pénale et l'incurabilité de ses
+tendances délictueuses. En tant que facteurs de risque, ces
+différents aspects constituent, comme on l'a vu, des faits
+nouveaux et l'expertise de 2005 un nouveau moyen de preuve au sens
+de l'art. 65 al. 2 CP.
+5.
+a)
+Il reste à déterminer, d'une part, si un
+internement au sens de l'art. 64 CP pourrait se justifier
+aujourd'hui et, d'autre part, si, comme exigé au ch. 2 al. 1
+let. a
+des Dispositions
+finales de la modification du 13 décembre 2002
+, une
+telle mesure aurait également été possible sur
+la base de l'art. 43 ch. 1 al. 2 aCP.
+b)
+Selon cette
+dernière disposition, si en raison de son état
+mental, le délinquant compromet gravement la
+sécurité publique et si cette mesure est
+nécessaire pour prévenir la mise en danger d'autrui,
+le juge ordonnera l'internement.
+L'état mental du condamné doit présenter une
+divergence d'avec la norme médicale (Niggli/
+Wiprächtiger,
+Baslerkommentar, Strafgesetzbuch II, Bâle 2003, n. 153 ad
+art. 43 CP et les arrêts cités).
+c)
+Si l'expertise
+psychiatrique effectuée en 1997 a posé le diagnostic
+d'épisode dépressif léger avec syndrome
+somatique, d'autres troubles spécifiés de la
+personnalité et du comportement chez l'adulte avec traits
+pervers et de troubles de la préférence sexuelle sans
+précision (jugt, p. 31), l'expertise réalisée
+en 2005 a posé celui de troubles multiples de la
+préférence sexuelle et trouble de la
+personnalité narcissique, précisant qu'un tel
+diagnostic n'était pas si éloigné de celui de
+1997. L'expert a considéré en 2005 que
+l'intéressé présentait, du point de vue
+structurel, un fonctionnement pervers et un risque
+élevé de récidive et qu'à défaut
+d'un investissement sérieux dans le traitement qui lui avait
+été initialement proposé, un internement
+s'imposerait. Le diagnostic de 1997 n'était donc pas
+fondamentalement différent de celui de 2005, comme le
+reconnaît d'ailleurs l'intimé lui-même
+(déterminations, p. 10
+in fine
+). Il s'ensuit qu'un
+internement au sens de l'art. 43 ch. 1 al. 2 aCP aurait
+été possible en 1997.
+d)
+Les
+éléments nouveaux mis à jour en cours
+d'exécution de peine (cf. ch. 4.d
+supra
+) permettent
+par ailleurs d'établir que le prénommé
+pourrait aujourd'hui faire l'objet d'un internement au sens de
+l'art. 64 CP. Il est en effet sérieusement à craindre
+qu'en raison de son grave trouble mental en relation avec les actes
+commis à l'époque, l'intimé ne commette
+d'autres infractions à l'intégrité sexuelle,
+ce d'autant plus que, comme on l'a vu (cf. ch. 4.c
+supra
+),
+le comportement du condamné a révélé
+son inaccessibilité au traitement entrepris par la
+psychothérapeute Z.________.
+6.
+Au demeurant, c'est en vain que S.________ invoque
+à ce stade sa situation actuelle (déterminations, p.
+14), à savoir son âge, sa maladie et le fait que ses
+anciennes victimes sont désormais adultes. Ces circonstances
+ne doivent en effet être prises en considération que
+par le juge du rescisoire (Heer, op. cit., n. 91 ad art. 65 CP, p.
+1393
+in fine
+). Partant, il y a lieu de rejeter la conclusion
+très subsidiaire du prénommé tendant à
+ce que des mesures d'instruction complémentaires soient
+ordonnées au sujet de son état de
+santé.
+7.
+En définitive, la demande de révision
+doit être admise et la cause renvoyée au Tribunal
+correctionnel de l'arrondissement de La Côte pour nouvelle
+instruction et nouveau jugement au sens des considérants
+(art. 465 al. 1 CPP).
+Le tribunal sera composé conformément à l'art.
+10 al. 1 2
+ème
+phrase CPP, pour les
+motifs relevés par le Ministère public.
+Les frais d'arrêt suivent le sort de la cause (art. 465 al. 1
+CPP).
+Par ces motifs,
+la Chambre des revisions civiles et
+pénales,
+statuant à huis
+clos,
+prononce
+:
+I.
+La demande de révision
+déposée le 24 février 2009 par le
+Ministère public est admise.
+II.
+La cause dirigée contre
+S.________ est transmise au Tribunal correctionnel de
+l'arrondissement de La Côte, constitué
+conformément à l'art. 10 al. 1 2
+ème
+phrase CPP, pour nouvelle instruction et nouveau jugement
+limités à la question de l'internement.
+III.
+Les frais d'arrêt, par 7'488
+fr. (sept mille quatre cent huitante-huit francs), y compris
+l'indemnité allouée au défenseur d'office de
+S.________, par 5'278 fr. (cinq mille deux cent septante-huit
+francs), suivent le sort de la cause.
+IV.
+L'arrêt est
+exécutoire.
+L
+a
+président
+e
+:
+L
+e
+greffi
+er
+:
+Du
+L'arrêt qui
+précède, dont la rédaction a été
+approuvée à huis clos, est notifié à
+:
+‑      Me Stefan
+Disch (pour S.________),
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+‑      M. le
+Président du Tribunal correctionnel de l'arrondissement de
+La Broye et du Nord vaudois,
+‑      M. le
+Président du Tribunal correctionnel de l'arrondissement de
+La Côte,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en
+matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral - RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition
+complète (art. 100
+al. 1 LTF).
+L
+e
+greffi
+er
+:
