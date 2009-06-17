@@ -1,0 +1,561 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 27"
+decided: "2009-06-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1406440"
+cites_law: ["switzerland/bund/acts/0.275.12/art-031.md", "switzerland/bund/acts/0.275.12/art-032.md", "switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-039.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-346.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-090.md", "switzerland/bund/acts/281.1/art-091.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 27
+
+## Regeste
+
+DÉCISION ÉTRANGÈRE, MAINLEVÉE DÉFINITIVE, SAISIE PROVISOIRE, DROIT D'ÊTRE ENTENDU, CONVENTION DE LUGANO | 31 CL, 34 CL, 17 LP, 18 LP, 21 LVLP, 24 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.06.2009 Plainte / 2009 / 27
+
+DÉCISION ÉTRANGÈRE, MAINLEVÉE DÉFINITIVE, SAISIE PROVISOIRE, DROIT D'ÊTRE ENTENDU, CONVENTION DE LUGANO | 31 CL, 34 CL, 17 LP, 18 LP, 21 LVLP, 24 al. 1 LVLP
+
+TRIBUNAL CANTONAL
+24
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+17 juin 2009
+_________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:         Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme   Debétaz Ponnaz
+*****
+Art. 31, 34 et 39 CL; 17 et
+18 LP; 21, 24 et 26 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+R.________
+, à Lausanne,
+contre la décision rendue le 2
+mars 2009, à la suite de l'audience du 13 février
+2009, par le Président du Tribunal d'arrondissement de
+Lausanne, autorité inférieure de surveillance,
+admettant la plainte déposée le 6 février 2009
+par
+B.________SA
+, à
+Luxembourg,
+et
+disant
+que l'
+Office des poursuites de
+Lausanne-Est
+devait procéder
+à la saisie provisoire des biens du recourant.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+1.
+a)
+Par ordonnance du 27 juin 2008, le Premier Juge du
+Tribunal d'arrondissement de et à Luxembourg a
+condamné la société foncière
+R.________Sàrl et R.________ solidairement à payer
+à la société B.________SA les montants de
+20'500'000 USD, 1'420'468 USD, 5 % d'intérêts sur
+1'500'000 USD dès le 18 janvier 2003, 5 %
+d'intérêts sur 7'500'000 USD dès le 31 mars
+2003, 50'000 USD au titre d'honoraires d'avocat et 750 euros pour
+les frais de procédure.
+Le 10 septembre 2008, la créancière a
+déposé contre R.________ une requête
+d'exequatur avec mesures conservatoires auprès du Tribunal
+de première instance de Genève. Par ordonnance du 12
+septembre 2008, cette autorité a prononcé l'exequatur
+provisoire de la décision luxembourgeoise et ordonné
+la saisie provisoire des biens du
+débiteur.
+Le 10 octobre 2008, à la requête de B.________SA, qui
+invoquait l'ordonnance luxembourgeoise précitée,
+l'Office des poursuites de Lausanne-Est a notifié à
+R.________, dans la poursuite n° 5'001'836, un
+commandement de payer la somme de 31'114'248 fr. 91 en capital,
+plus intérêts à 5,75 % dès le 27 juin
+2008 sur 24'176'390 fr. 91. Le poursuivi a formé opposition
+totale.
+Le 27 novembre 2008, la poursuivante a saisi le Juge de paix du
+district de Lausanne d'une requête d'exequatur, de mesures
+conservatoires et de mainlevée définitive, concluant
+:
+- à titre de mesures
+conservatoires urgentes (art. 39 al. 2 CL) : à l'exequatur
+de l'ordonnance luxembourgeoise, à la saisie provisoire, au
+sens de l'art. 83 LP, des biens du débiteur à
+concurrence des montants en poursuite, cette mesure étant
+soumise aux art. 89 ss LP, à l'exclusion des art. 90 et 56
+à 63 LP, et à la communication de la décision
+à l'Office des poursuites de Lausanne-Est pour
+exécution immédiate;
+- à titre principal : à
+l'exequatur de l'ordonnance luxembourgeoise et à la
+mainlevée définitive de l'opposition à la
+poursuite n° 5'001'836 de l'office
+précité.
+Par prononcé rendu le 3 février 2009 à la
+suite de l'audience du 27 janvier 2009, le Juge de paix du district
+de Lausanne a prononcé la mainlevée définitive
+de l'opposition à concurrence de 22'557'175 fr., 1'563'012
+fr., 55'017 fr. 50 et 1'186 fr, 40, avec intérêt
+à 5,75 % sur ces quatre montants dès le 27 juin 2008,
+et de 4'530'879 fr. 60 et 2'183'309 fr. sans intérêt
+(I), ordonné la saisie provisoire des biens du poursuivi
+à concurrence des montants énumérés
+ci-dessus, avec les aménagements suivants : la saisie
+provisoire est ordonnée au sens de l'art. 83 LP, cette
+mesure étant soumise aux art. 89 ss LP, à l'exclusion
+des art. 90 et 56 à 63 LP (II), communiqué le
+dispositif à l'Office des poursuites de Lausanne-Est pour
+exécution immédiate (III) et arrêté les
+frais et dépens (IV).
+Le 4 février 2009, le Préposé à
+l'Office des poursuites de Lausanne-Est a avisé le juge de
+paix qu'il refusait de donner suite à son ordre
+d'exécution de la saisie provisoire. Pour justifier sa
+décision, il a fait valoir qu'une saisie provisoire ne
+pouvait être autorisée que si le créancier
+avait obtenu la mainlevée provisoire et qu'au surplus,
+R.________ était soumis à la procédure de
+faillite en sa qualité d'associé indéfiniment
+responsable de la société en commandite R.________ et
+Cie, à Lausanne.
+Par lettre du 6 février 2009, le Juge de paix du district de
+Lausanne a confirmé à l'office que la saisie
+provisoire avait été ordonnée en application
+de l'art. 39 al. 2 CL (Convention de Lugano).
+b)
+Le 6 février 2009, B.________SA a saisi le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance, d'une plainte
+contre la décision de l'office du 4 février 2009.
+Elle a requis l'effet suspensif, lequel a été
+refusé par décision présidentielle du 9
+février 2009, et pris en outre les conclusions suivantes
+:
+"
+A titre de mesure
+d'extrême urgence, à réception de la
+présente plainte, avant audition du débiteur
+:
+I.
+[requête d'effet suspensif]
+II.
+L'Office des poursuites de Lausanne-Est doit immédiatement
+procéder à la saisie provisoire des biens de
+R.________, domicilié à Lausanne, [adresse], selon
+les modalités ressortant de la décision de la Justice
+de paix du 3 février 2009.
+III.
+[Ledit office] doit en particulier requérir
+immédiatement de l'Office des poursuites de Nyon-Rolle qu'il
+procède à l'annotation d'une restriction au droit
+d'aliéner sur parcelles [nos de cadastre] de Saint-Cergue,
+propriétés de R.________, et
+IV.
+[…] requérir de l'Office des poursuites de
+Genève la saisie provisoire immédiate des biens du
+débiteur situés dans ce canton.
+Principalement
+:
+V.
+La
+décision du 4 février 2009 rendue par l'Office des
+poursuites de Lausanne-Est est annulée.
+VI.
+[Ledit office]
+doit procéder à la saisie provisoire des biens de
+R.________, domicilié à Lausanne,
+[adresse
+].
+VII.
+[Ledit office] doit en particulier requérir de l'Office des
+poursuites de Nyon-Rolle qu'il procède à l'annotation
+d'une restriction au droit d'aliéner sur parcelles [nos de
+cadastre] de Saint-Cergue, propriétés de R.________,
+et requérir de l'Office des poursuites de Genève la
+saisie provisoire immédiate des biens du débiteur
+situés dans ce canton."
+c)
+La plainte a été reçue au greffe du
+Tribunal d'arrondissement de Lausanne le 9 février 2009. Le
+même jour, le président a communiqué un double
+de la plainte à l'office et à l'intimé et
+envoyé, en courrier "normal" à l'office et en
+courrier prioritaire au conseil de la plaignante et à
+l'intimé R.________, une convocation à l'audience du
+13 février 2009 à 9 heures. Cette convocation
+mentionnait, à propos de la plainte, que la partie
+intimée pouvait "se déterminer verbalement à
+l'audience ou déposer une détermination
+écrite, en trois exemplaires, au plus tard lors de
+l'audience".
+Le 12 février 2009, par lettre envoyée par
+télécopie, l'intimé a accusé
+réception de la convocation précitée, qu'il
+avait reçue la veille, et demandé le renvoi de
+l'audience du 13 février 2009 "à une date qui [lui]
+permette d'exercer convenablement [son] droit d'être
+entendu", expliquant qu'il n'était pas parvenu à
+trouver un avocat "dans un aussi bref délai". Le même
+jour, par lettre adressée en télécopie, le
+greffier du Tribunal d'arrondissement de Lausanne a informé
+l'intimé du maintien de l'audience et lui a adressé
+une copie des déterminations de l'office, datées du
+11 février 2009 et préavisant pour le rejet de la
+plainte.
+L'intimé ne s'est pas présenté  à
+l'audience du 13 février 2009.
+2.
+a)
+Par décision rendue sans frais ni dépens le
+2 mars 2009, le Président du Tribunal d'arrondissement de
+Lausanne a admis la plainte et dit que l'Office des poursuites de
+Lausanne-Est devait procéder à la saisie provisoire
+des biens de R.________. En bref, ce magistrat a
+considéré que c'était le droit du juge requis
+qui définissait les mesures pouvant être prises dans
+le cadre de l'art. 39 CL et qu'il appartenait au juge de
+l'exequatur - et non à l'office des poursuites ou à
+l'autorité de surveillance - de choisir l'institution qui
+lui paraissait la plus adéquate, avec les ajustements
+éventuels exigés par la norme
+conventionnelle.
+b)
+R.________ a recouru par acte motivé du 5 mars
+2009,  concluant, avec suite de frais et dépens,
+principalement à l'annulation du prononcé,
+subsidiairement à sa réforme en ce sens que la
+plainte est rejetée. Il a requis l'effet suspensif, qui a
+été refusé par décision
+présidentielle du 10 mars 2009.
+L'office s'est déterminé le 20 mars 2009,
+préavisant pour l'admission du recours.
+B.________SA s'est déterminée le 24 mars 2009,
+concluant, avec suite de dépens, au rejet du
+recours.
+En droit :
+I.
+Formé en temps utile
+(art. 18 al. 1 LP et 28 al. 1
+LVLP -
+loi
+vaudoise d'application de la loi fédérale sur la
+poursuite pour dettes et la faillite; RSV 280.05
+) et
+comportant l'énoncé des moyens
+invoqués (art. 28 al. 3 LVLP), le recours, principalement en
+nullité et subsidiairement en réforme, est
+recevable.
+La pièce nouvelle produite à l'appui du recours est
+également recevable (art. 28 al. 4 LVLP). Il s'agit d'une
+copie du jugement rendu le 23 février 2009 par le Tribunal
+de première instance de Genève, rejetant la
+requête d'exequatur de l'ordonnance luxembourgeoise
+déposée par B.________SA contre R.________, vu
+l'absence de domicile du défendeur dans le canton de
+Genève.
+II.
+a)
+A l'appui de son
+recours en nullité, le recourant invoque la violation du
+droit d'être entendu et de l'égalité entre
+parties. Il soutient qu'en étant convoqué par
+courrier prioritaire le 9 février 2009 pour l'audience du 13
+février 2009, il n'a pas eu le temps de préparer sa
+défense et, en particulier, de consulter un avocat, alors
+que la partie adverse était défendue par un
+conseil.
+Il fait valoir que la violation de
+ses droits essentiels de procédure ne saurait être
+justifiée, même en cas d'urgence.
+b)
+L'art. 20a LP énonce un certain nombre de
+dispositions applicables à la procédure devant les
+autorités de surveillance et prévoit à son al.
+5 que "pour le reste, les cantons règlent la
+procédure". Selon l'art. 17 LVLP, la procédure de
+plainte est régie par les art. 17 ss LP, les art. 76 et 80
+OJF
+(remplacés par les art. 72 ss LTF depuis le
+1
+er
+janvier 2007, date de l'entrée en vigueur de
+la loi sur le Tribunal fédéral du 17 juin 2005 (RS
+173.110), qui a abrogé la loi fédérale
+d'organisation judiciaire) et les art. 18 à 35 LVLP. Selon
+l'art. 21 al. 2 LVLP, le président de l'autorité
+inférieure de surveillance saisie d'une plainte "appointe
+une audience à laquelle il convoque les parties ou leurs
+mandataires par lettre recommandée et le
+préposé par lettre ordinaire". Selon l'art. 21 al. 3
+LVLP, il fixe un délai pour la production des
+déterminations écrites prévues à l'art.
+24 LVLP. En vertu de cette dernière disposition, le
+préposé produit, dans le délai qui lui a
+été fixé, une détermination
+écrite en deux exemplaires, dont l'un est transmis au
+plaignant (al. 1).  Quant aux parties intimées, elles
+peuvent se déterminer sur la plainte verbalement à
+l'audience ou produire, dans un délai identique, une
+détermination écrite (art. 24 al. 2 LVLP). Enfin,
+l'art. 26 al. 2 LVLP prévoit que le président "statue
+nonobstant l'absence des parties, à bref délai".
+La réglementation de la procédure de plainte
+appartient donc pour l'essentiel aux cantons (ATF 108 III 10, JT
+1984 II 18), mais le droit fédéral garantit aux
+parties le droit d'être entendues (ATF 105 Ia 193 c. 2, JT
+1981 I 162). Ce droit comprend notamment la faculté
+d'invoquer des arguments de fait et de droit, de répondre
+aux moyens et objections de la partie adverse et de se
+déterminer sur le dossier de la cause (CPF, 13 septembre
+2001/392 ; CPF, 23 janvier 2002/77), celui de fournir des
+preuves quant aux faits de nature à influer sur le sort de
+la décision, de participer à l'administration des
+preuves, d'en prendre connaissance et de se déterminer
+à leur propos (JT 1999 III 140 c. 3).
+Ni le droit cantonal ni le droit fédéral ne
+prescrivent de délai minimum pour la fixation de l'audience.
+Il n'y a pas de renvoi aux art. 346 ss CPC
+(Code de procédure civile;
+RSV 270.11). La LVLP connaît quelques renvois au CPC (art. 47
+et 58 LVLP, notamment), dans le cadre de la procédure
+sommaire, mais aucun renvoi pour ce qui est de la procédure
+devant les autorités de surveillance, qui ne sont pas des
+autorités judiciaires. Quant à la convocation
+à l'audience par lettre recommandée (art. 21 al. 2
+LVLP), il s'agit d'une mesure destinée à garantir et
+à s'assurer que la convocation parvient à son
+destinataire et non, comme le suggère le recourant, à
+garantir l'écoulement d'un certain délai entre la
+convocation et l'audience.
+La procédure de plainte oppose le plaignant à
+l'office qui a ordonné la mesure contestée. Le droit
+d'être entendu des parties intimées est garanti par le
+droit fédéral et respecté par le droit
+cantonal qui prévoit qu'elles sont convoquées
+à l'audience et qu'elles ont la faculté de se
+déterminer sur la plainte par écrit jusqu'à
+l'audience ou oralement lors de celle-ci. La procédure de
+plainte doit être rapidement menée à son terme
+(art. 26 al. 2 LVLP), d'autant plus lorsque, comme en
+l'espèce, elle s'inscrit dans une procédure
+d'exequatur selon la CL (Convention de Lugano du 16 septembre 1988
+concernant la compétence judiciaire et l'exécution
+des décisions en matière civile et commerciale; RS
+0.275.11), plus particulièrement de mesures conservatoires
+ordonnées pendant la durée du délai de recours
+(art. 39 CL), pour laquelle le droit international prévoit
+aussi la rapidité (34 al. 1 CL).
+c)
+En l'espèce, le recourant admet avoir reçu
+le pli contenant sa convocation le 11 février 2009. Il a
+donc disposé de deux jours pour organiser sa défense.
+Ce délai était suffisant pour lui permettre de
+préparer des déterminations et les déposer ou
+les présenter à l'audience, dont il ne peut pas
+prétendre qu'il "ignorait tout". L'objet de la plainte,
+savoir le refus de l'office d'exécuter l'ordre du juge de
+procéder à la saisie provisoire des biens du
+recourant, s'inscrivait dans le cadre d'une procédure dont
+ce dernier était bien informé, puisqu'elle avait
+été précédée de la
+procédure au Luxembourg ayant abouti à l'ordonnance
+du 27 juin 2008, de la procédure provisoire à
+Genève, où une audience avait eu lieu le
+1
+er
+décembre 2008, d'un commandement de payer
+notifié le 10 octobre 2008 et d'une décision de
+mainlevée rendue le 3 février 2009 à la suite
+d'une audience du 27 janvier 2009, tous événements
+suffisamment récents pour que le recourant ait toute
+connaissance nécessaire de la procédure en cours. Il
+ne peut pas davantage soutenir qu'il n'a pas
+eu le temps de trouver un conseil, puisqu'il ressort du jugement du
+Tribunal de première instance de Genève qu'il avait
+consulté avocat dans cette ville. Le recourant ne s'est pas
+présenté à l'audience de plainte du 13
+février 2009, au cours de laquelle il aurait pu être
+entendu. Il ne démontre pas en quoi il aurait
+été empêché, compte tenu des
+circonstances évoquées ci-dessus, de faire valoir ses
+arguments devant l'autorité de surveillance.
+Vu ce qui précède, le moyen de nullité
+soulevé par le recourant doit être
+rejeté.
+III.
+a)
+En réforme, le recourant fait
+valoir que l'art. 39 CL ne s'appliquerait pas en l'espèce,
+dès lors que le juge de paix n'a pas prononcé
+l'exequatur de l'ordonnance luxembourgeoise.
+Selon l'art. 31 al. 1 CL, les décisions rendues dans un Etat
+contractant et qui y sont exécutoires sont mises à
+exécution dans un autre Etat contractant après y
+avoir été déclarées exécutoires
+sur requête de toute partie intéressée. En
+l'espèce, la décision à exécuter a
+été rendue au Luxembourg et doit être
+exécutée en Suisse, deux Etats contractants, ces pays
+ayant l'un et l'autre adhéré à la Convention
+de Lugano.
+En Suisse, si la
+décision à exécuter porte condamnation
+à payer une somme d'argent, la requête est
+présentée au juge de la mainlevée, dans le
+cadre de la procédure prévue par les art. 80 et 81 LP
+(art. 32 CL) et la question de l'exequatur est préjudicielle
+à l'éventuelle levée définitive de
+l'opposition (CPF, 10 mars 2005/64 et réf. cit.). C'est dire
+que l'exequatur n'a pas à être expressément
+mentionnée dans le dispositif. La mainlevée
+définitive de l'opposition, si elle est prononcée,
+implique la reconnaissance du droit à
+l'exécution.
+Au demeurant, ce moyen aurait pu, le cas échéant,
+être soulevé dans le cadre d'un recours contre le
+prononcé de mainlevée du juge de paix, mais il ne
+peut pas être invoqué pour justifier le refus de
+l'office de déférer à l'ordre du juge de
+saisir provisoirement les biens du recourant. De jurisprudence
+constante, le Tribunal fédéral a dénié
+à l'office la faculté d'examiner le bien-fondé
+d'une ordonnance, soit de vérifier notamment l'existence des
+conditions justifiant l'octroi de la mesure (ATF 114 III 8 c. 1;
+109 III 120 c. 6; 107 III 33 c. 4; 105 III 141 c. 2b). Ce n'est que
+si
+l'ordonnance du juge est manifestement nulle ou impossible à
+exécuter que l'office peut se refuser à
+l'exécuter (
+TF 7B.249/2000 du 10
+novembre 2000; ATF 109 III 120 c. 6 précité; 107 III
+33 c. 4 précité). S'agissant plus
+particulièrement de mesures provisoires au sens de l'art. 39
+al. 2 CL, le Tribunal fédéral a dit clairement que le
+choix d'ordonner une saisie provisoire ou une autre mesure
+revient au juge de l'exequatur (ATF 126 III 438 c. 3, SJ 2000 I
+565) et que l'office, si une saisie provisoire est ordonnée,
+doit l'exécuter, sans qu'il lui appartienne de
+vérifier le bien-fondé de la mission qui lui
+était assignée (ATF 131 III 660 c. 4, SJ 2006 I
+109).
+Le premier moyen de réforme du recourant est ainsi mal
+fondé.
+b)
+Comme second moyen de réforme, le recourant
+soutient que le juge de paix aurait rendu "en pratique
+impossible"  l'exécution de la saisie en excluant, dans
+sa décision, l'application de l'art. 90 LP, qui prescrit
+l'avis au débiteur, lequel contient le rappel de ses devoirs
+découlant de l'art. 91 LP, soit le devoir d'assister
+à la saisie et celui d'annoncer tous les biens qui lui
+appartiennent.
+Le juge de paix a ordonné la saisie provisoire "au sens de
+l'art. 83 LP, cette mesure étant soumise aux art. 89 ss LP
+à l'exclusion des art. 90 et 56 à 63 LP".  Outre
+l'avis préalable au débiteur, les dispositions sur
+les temps prohibés, les féries et les suspensions ont
+donc également été écartées. Il
+ressort de la décision que son dispositif a
+été notifié aux parties et communiqué
+par télécopie et en courrier prioritaire à
+l'office, qui l'a donc reçu plus rapidement. Les
+modalités de cette décision avaient pour but de ne
+pas en retarder les effets et de ménager l'effet de surprise
+(art. 34 al. 1 CL). Elles s'inscrivent dans le cadre des
+aménagements nécessaires pour respecter les exigences
+de la Convention de Lugano (SJ 2006 I 109 précité,
+c. 4.1 et 4.5 et réf. cit.).
+Au demeurant, là encore, il n'appartenait pas à
+l'office de refuser de donner suite à l'ordonnance en
+mettant en cause les aménagements arrêtés par
+le juge. Il lui incombait d'exécuter la saisie provisoire
+sans adresser d'avis préalable au débiteur, afin de
+préserver l'effet de surprise. La suppression de l'avis au
+débiteur ne signifie d'ailleurs pas que celui-ci est
+privé des droits et obligations qui résultent pour
+lui de l'art. 91 LP et ne rend pas impossible l'exécution de
+l'ordonnance.
+Le second moyen de réforme du recourant est donc
+également mal fondé.
+IV.
+Le recours doit ainsi être rejeté
+et la décision de l'autorité
+inférieure de surveillance confirmée.
+L'arrêt est rendu sans
+frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et
+62 al. 2 OELP - ordonnance sur les émoluments
+perçus en application de la LP; RS
+281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé est
+confirmé.
+III.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 17 juin
+2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Me Bernard Katz, avocat (pour
+R.________),
+‑      Me Olivier Weniger, avocat
+(pour B.________SA)
+‑      M. le
+Préposé à l'Office des poursuites de
+Lausanne-Est.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance.
+La greffière :
