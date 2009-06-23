@@ -1,0 +1,228 @@
+---
+decision_id: "vd_findinfo_Faillite___2009___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2009 / 16"
+decided: "2009-06-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1412719"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-191.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2009 / 16
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ, ACTE DE DÉFAUT DE BIENS | 174 al. 1 LP, 174 al. 2 LP, 190 al. 1 ch. 2 LP, 194 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.06.2009 Faillite / 2009 / 16
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ, ACTE DE DÉFAUT DE BIENS | 174 al. 1 LP, 174 al. 2 LP, 190 al. 1 ch. 2 LP, 194 LP
+
+TRIBUNAL CANTONAL
+191
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+23 juin 2009
+_________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:         Mme
+Carlsson et M. Bosshard
+Greffier
+:
+Mme   Debétaz Ponnaz
+*****
+Art. 174 al. 1 et 2 LP,  190 al.
+1 ch. 2 LP  et  194 al. 1 LP
+Vu le jugement rendu
+le 16 mars 2009, à la suite de l'audience du 23
+février 2009, par la Présidente du Tribunal
+d'arrondissement de La Côte, prononçant la faillite
+sans poursuite préalable de
+Z.________
+, à Eclépens,
+le 13 mars 2009 à 11
+heures, à la requête de
+Q.________
+,
+Caisse
+de compensation
+, à Aarau,
+vu le recours formé contre ce jugement par acte
+motivé déposé le 27 mars 2009 par Z.________,
+concluant à l'annulation de la faillite et requérant
+l'effet suspensif,
+vu la décision du président de la cour de
+céans du 1
+er
+avril 2009, refusant l'effet
+suspensif,
+vu le délai fixé au 1
+er
+mai 2009 pour
+déposer un mémoire ampliatif, dans lequel le
+recourant n'a pas procédé,
+vu les pièces du dossier;
+attendu que le recours a été déposé en
+temps utile (art. 174 al. 1 LP auquel renvoie l'art. 194 al. 1 LP,
+et art. 57 al. 1 LVLP - loi vaudoise d'application de la loi
+fédérale sur la poursuite pour dettes et la faillite;
+RSV 280.05) et tend à l'annulation de la faillite (art. 174
+al. 2 LP), de sorte qu'il est recevable;
+attendu que le premier juge a prononcé la
+faillite sans poursuite préalable pour cessation de
+paiements, au sens de l'art. 190 al. 1 ch. 2 LP, considérant
+que Z.________
+ne s'acquittait
+pas, de manière durable, de ses cotisations sociales, soit
+de dettes exigibles et incontestées, laissait les poursuites
+se multiplier contre lui et avait vu dix-sept actes de
+défaut de biens délivrés contre lui pour un
+montant de près de 85'000 fr. en un peu plus de cinq mois et
+qu'on ne pouvait pas espérer un paiement de ses dette par
+une poursuite de l'activité de son entreprise, l'Auberge
+communale d' [...], qu'il exploite en raison
+individuelle,
+qu'au vu de ces motifs pertinents, qu'au demeurant le recourant ne
+conteste pas, c'est à juste titre que le premier juge a
+prononcé la faillite sans poursuite préalable du
+débiteur;
+attendu que le débiteur, sujet à la poursuite par
+voie de faillite et déclaré en faillite pour le motif
+qu'il a suspendu ses paiements (art. 190 al. 1 ch. 2 LP), peut
+recourir en faisant valoir des faits - qu'il doit établir
+par titre - intervenus depuis l'audience de faillite (vrais nova)
+au sens de l'art. 174 al. 2 LP, auquel renvoie l'art. 194 al. 1 LP,
+afin de rendre vraisemblable sa solvabilité, ce qui est la
+condition à  l'annulation de la faillite sans poursuite
+préalable (Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite,
+n. 58 ad art. 190 LP et n. 18 ad art. 194 LP), la condition de la
+preuve du paiement de la prétention déduite en
+poursuite n'étant pas applicable en cette matière
+(CPF, 22 janvier 2009/9; CPF, 26 février
+2009/47),
+que la solvabilité au
+sens de l'art. 174 al. 2 LP se définit par opposition
+à l'insolvabilité au sens de l'art. 191 LP (Giroud,
+Basler Kommentar, n. 25 ad art. 174 LP; TF, 5P.399/1999 du 14
+janvier 2000, c. 2b),
+que c
+ette
+dernière n'équivaut pas au surendettement mais
+consiste en l'incapacité du débiteur, en raison d'un
+manque de liquidités qui n'apparaît pas seulement
+temporaire, de payer ses dettes échues,
+que, s
+'il ne
+doit pas prouver de manière stricte sa solvabilité,
+le débiteur ne peut toutefois se contenter de simples
+allégations, mais doit fournir des indices tels que des
+récépissés de paiement, des justificatifs de
+moyens financiers à sa disposition (avoirs en banque,
+crédits bancaires), des listes de ses débiteurs, un
+extrait du registre des poursuites, des comptes annuels
+récents avec bilan intermédiaire, cette liste
+n'étant pas exhaustive,
+que la production de l'extrait du registre des poursuites est en
+règle générale décisive (Cometta,
+Commentaire romand, n. 10 ad art. 174 LP),
+que la solvabilité est en principe exclue s'il existe des
+actes de défaut de biens (ibid.),
+qu'en l'espèce, il ressort de l'extrait du registre de
+l'Office des poursuites et faillites de Cossonay au 31 mars 2009
+que le recourant faisait à cette date l'objet de
+quarante-six poursuites, dont quarante-deux exécutoires,
+pour un montant total de 163'459 fr. 55, et de dix-huit actes de
+défaut de biens délivrés du 27 mai 2008 au 20
+février 2009, pour un montant total de 88'776 fr.
+67,
+qu'à elle seule, cette dernière circonstance exclut
+la solvabilité, le recourant n'alléguant pas ni ne
+prouvant avoir réglé ces dettes entre temps (Cometta,
+op. cit., n. 10 in fine ad art. 174 LP),
+qu'au surplus, les pièces qu'il a produites, savoir des
+tableaux récapitulatifs du chiffre d'affaires
+réalisé des mois de janvier 2005 à
+février 2009, ne constituent pas des pièces
+comptables assorties d'une valeur probante suffisante pour rendre
+vraisemblable sa solvabilité,
+que, pour les mêmes motifs, un concordat n'est pas
+envisageable, de sorte qu'un ajournement d'office au sens de l'art.
+173a al. 2 LP ne se justifie pas,
+que le recours doit ainsi être rejeté et le jugement
+de faillite confirmé;
+attendu que les frais de deuxième instance du recourant sont
+arrêtés à 300 francs.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est
+rejeté.
+II.
+Le jugement est
+confirmé.
+III.
+Les frais de deuxième instance
+du recourant sont arrêtés à 300 fr. (trois
+cents francs).
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 23 juin
+2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      M. Pascal Stouder,
+agent d'affaires breveté (pour Z.________),
+‑      Q.________,
+Caisse de compensation,
+-      M. le
+Préposé à l'Office des poursuites et faillites
+de Cossonay.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-      M. le Conservateur
+du Registre foncier d'Echallens,
+-      M. le
+Préposé au Registre du Commerce du canton de
+Vaud,
+‑      Mme la
+Présidente du Tribunal d'arrondissement de La
+Côte.
+L
+a
+greffi
+ère
+:
