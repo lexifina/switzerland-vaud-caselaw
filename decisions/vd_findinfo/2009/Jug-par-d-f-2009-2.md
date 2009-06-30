@@ -1,0 +1,1131 @@
+---
+decision_id: "vd_findinfo_Jug-par-d_f___2009___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-par-déf / 2009 / 2"
+decided: "2009-06-30"
+published: "2009-07-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1608555"
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/210/art-807.md", "switzerland/bund/acts/210/art-842.md", "switzerland/bund/acts/210/art-844.md", "switzerland/bund/acts/210/art-855.md", "switzerland/bund/acts/210/art-872.md", "switzerland/bund/acts/220/art-017.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-305.md", "switzerland/bund/acts/272/art-306.md", "switzerland/bund/acts/281.1/art-008.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-149a.md", "switzerland/bund/acts/281.1/art-158.md", "switzerland/bund/acts/291/art-001.md", "switzerland/bund/acts/291/art-005.md", "switzerland/bund/acts/291/art-016.md", "switzerland/bund/acts/291/art-116.md", "switzerland/bund/acts/291/art-117.md"]
+---
+
+# VD Findinfo Jug-par-déf / 2009 / 2
+
+## Regeste
+
+RECONNAISSANCE DE DETTE, CERTIFICAT D'INSUFFISANCE DE GAGE, CRÉDIT HYPOTHÉCAIRE, PRÊT DE CONSOMMATION | 158 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 09.07.2009 Jug-par-déf / 2009 / 2
+
+RECONNAISSANCE DE DETTE, CERTIFICAT D'INSUFFISANCE DE GAGE, CRÉDIT HYPOTHÉCAIRE, PRÊT DE CONSOMMATION | 158 al. 3 LP
+
+TRIBUNAL CANTONAL
+CO06.025607
+101/2009/PHC
+COUR
+CIVILE
+_________________
+Audience
+préliminaire du juge instructeur
+du 30 juin 2009
+_______________________________
+Présidence
+de   M.
+Hack
+,
+juge instructeur
+Greffier
+:
+M.
+Peissard
+*****
+Cause pendante entre :
+J.________
+(Me J.
+Anex
+)
+et
+A.W.________
+- Du même jour
+-
+Statuant immédiatement à huis clos sur la
+réquisition de jugement par défaut
+présentée par la
+demanderesse
+,
+le juge instructeur,
+considérant que la
+défenderesse
+a
+été régulièrement
+assignée
+à l'audience de ce
+jour par citation à comparaître publiée dans la
+Feuille des avis officiels du 3 février 2009
+,
+qu'elle
+n'a pas comparu, ni personne en son
+nom,
+que, proclamée
+par l'huissier plus
+d'une heure après celle fixée pour sa comparution,
+elle
+a persisté à faire
+défaut, sans qu'il soit porté à la
+connaissance du juge instructeur qu'elle
+ait
+été empêchée
+de
+comparaître pour une cause majeure au sens de l'art. 305 al.
+2 CPC,
+vu les art. 305 al. 1 CPC et 306 al. 1 CPC,
+décide
+de passer au jugement par défaut.
+Appliquant l'art. 306 al. 2 CPC, aux termes duquel les faits
+allégués par la partie présente sont
+réputés vrais dans la mesure où le contraire
+ne résulte pas du dossier, le juge instructeur
+considère :
+En fait :
+1.
+La demanderesse J.________ est un
+établissement de droit public cantonal [...] exploitant une
+banque, dont le siège est à [...].
+Par convention du [...], elle a repris la totalité des
+actifs et passifs de la F.________, puis a fusionné avec le
+L.________ le [...], reprenant toutes les relations
+contractuelles.
+2.
+La défenderesse A.W.________ exerçait à la fin
+des années 1980 la profession d'esthéticienne et la
+banque estimait son gain annuel à 50'000 francs.
+Elle était l'épouse de B.W.________, chef de
+succursale pour une grande banque, qui réalisait un salaire
+annuel, toujours à la même époque et selon les
+estimations de la défenderesse, de plus de 107'000
+francs.
+3.
+La F.________ a accordé à la défenderesse un
+crédit de 580'000 pour financer l'achat d'un appartement en
+propriété par étages à [...]. Le 4
+août 1988, B.W.________ s'est porté caution solidaire
+de la défenderesse envers la banque pour ce prêt,
+à hauteur de 600'000 fr., par acte en brevet n° 171 du
+notaire [...], à [...]. Ce document, signé de
+l'officier public, de la défenderesse et de son mari
+B.W.________, incorpore un "acte de crédit avec
+cautionnement solidaire" sur formule préimprimée de
+la banque.
+Par convention signée le 5 août 1988, la F.________ a
+accordé à la défenderesse un prêt
+hypothécaire de 480'000 fr. au taux de 5 % l'an net,
+l'amortissement du capital étant fixé au taux initial
+de 1 % l'an, garanti par une cédule hypothécaire en
+1
+er
+rang au nominal de 480'000 fr. "grevant des
+immeubles au territoire de la commune de [...]".
+Par acte de crédit avec constitution de droit de gage du
+même jour, la défenderesse a contracté un
+prêt de 100'000 fr. auprès de la même banque,
+savoir un crédit en compte courant au taux de 5 ¼ %
+l'an sur le solde débiteur le plus élevé,
+garanti par le "nantissement d'une cédule
+hypothécaire" au porteur, de 100'000 fr., grevant les
+parcelles n° 4745 et 4749 de la commune de [...].
+Le même jour encore, la défenderesse a signé un
+acte aux termes duquel elle confirme avoir reçu un
+exemplaire des conditions en vigueur régissant ses rapports
+avec la F.________, après en avoir pris connaissance. Ces
+conditions prévoyaient un droit de gage et de compensation
+général au profit de la banque (art. 8), ainsi que le
+droit pour cette dernière de résilier en tout temps
+et immédiatement ses relations d'affaires (art. 11) ; elles
+fixaient le for de toute contestation à Lausanne et
+stipulaient l'application du droit suisse aux relations juridiques
+entre la banque et son client (art. 15).
+4.
+Après la reprise des actifs et passifs de la F.________ par
+la demanderesse, les crédits de la défenderesse ont
+pris les numéros suivants : 579.26.57 (compte de
+crédit hypothécaire) et 331.82.07 (compte de
+crédit en compte courant).
+Par acte du 14 octobre 1994 contresigné pour accord de la
+défenderesse et de son mari le 28 octobre 1994, la
+demanderesse a confirmé les conditions du crédit
+hypothécaire, qui étaient les suivantes :
+"
+Capital dû
+:
+fr.
+472'918.65
+(…)
+Taux
+:
+5 ¾ % l'an net, variations ultérieures
+réservées
+Amortissement
+:  sans, durant 5 ans, refaire le
+point au 31.07.1999
+Garantie
+:
+- Cession en propriété d'une cédule
+hypothécaire, au porteur, 1
+er
+rang de
+fr.
+480'000.--,
+grevant appartement en PPE sis à [...], ch.
+de [...], parcelle No. 1267
+- Cautionnement solidaire à concurrence de
+fr.
+600'000.--
+de M. B.W.________ (…)."
+Par acte du 14 octobre 1994 contresigné pour accord de la
+défenderesse et de son mari le 28 octobre 1994, la
+demanderesse a confirmé les conditions de son compte courant
+débiteur, qui étaient les suivantes :
+"
+Nominal
+:
+fr. 100'000.--
+(…)
+Taux
+:
+6 ¾ % l'an sur fr. 100'000.--, variations ultérieures
+réservées
+"Le dépassements de limite de crédit autorisée
+seront majorés d'un taux pouvant atteindre 3 % de plus que
+le taux du marché"
++ ¼ % commission trimestrielle sur le solde débiteur
+le plus élevé
+Amortissement
+:
+fr. 2'000.--
+par trimestre,
+la première fois le 31.03.1995
+Garantie
+:
+- Cession en propriété d'une cédule
+hypothécaire, au porteur, 2
+ème
+rang de
+fr. 100'000.--,
+grevant appartement en PPE sis à
+[...], Ch. de [...], parcelle No. 1267, après 1
+er
+rang [...] de
+fr. 480'000.--
+- Cautionnement solidaire à concurrence de
+fr.
+600'000.--
+de M. B.W.________ (…)
+- Nantissement (…) d'une police d'assurance
+(…)
+- Cession du produit de la location de la PPE, sise à [...]
+(…), à concurrence de
+fr. 2'050.--
+par
+mois
+(…)."
+Le 28 octobre 1994, la défenderesse et son époux ont
+signé un "acte de cession en propriété et
+à fin de garantie d'un titre hypothécaire", en faveur
+de la demanderesse, pour une cédule hypothécaire en
+2
+ème
+rang de 100'000 fr. grevant l'immeuble
+n° 167 de [...]. Cet acte comprend la mention que les
+"soussignés" reconnaissent que les "conditions
+spéciales figurant au verso, de même que les
+conditions générales de la J.________", dont ils ont
+pris connaissance, leur sont applicables. Dites conditions
+générales sont celles éditées en 1992,
+dont les articles 9 et 11 ont la même teneur que ceux
+publiés dans la Feuille des avis officiels
+évoqués ci-dessous, et dont l'article 13
+prévoit un for élu à Lausanne, ainsi que
+l'application du droit suisse aux relations juridiques du client
+avec la banque. La défenderesse et son mari ont remis
+à la demanderesse les cédules de 480'000 fr. et
+100'000 francs.
+5.
+Par publication dans la Feuille des avis officiels
+du 24 novembre 1995, la demanderesse a avisé tous les
+clients du L.________ qu'elle les soumettait à ses propres
+conditions générales dès le 31 décembre
+1995, sauf protestation écrite dans le délai d'un
+mois dès la publication. La défenderesse n'a jamais
+formulé d'opposition à ces conditions.
+Sous la rubrique "Résiliation des relations d'affaires",
+l'article 11 des conditions générales de la
+J.________ (parues dans la FAO qui précède)
+prévoit ce qui suit :
+"Le client comme la Banque est en droit de
+dénoncer ses relations d'affaires en tout temps. La Banque
+peut en particulier annuler des crédits ou engagements
+promis ou accordés. Ce n'est qu'après remboursement
+intégral, en capital et intérêts, des sommes
+dues que les relations seront considérées comme
+définitivement closes".
+L'article 9, troisième paragraphe (sous le titre "Comptes
+courants"), de ces conditions stipule notamment qu'à
+"défaut d'une réclamation présentée
+dans le délai d'un mois, les extraits de comptes sont tenus
+pour approuvés, cela conformément à la
+déclaration figurant sur chaque relevé de compte".
+L'article 13 prévoit encore que le for de "tous genres de
+procédure" est à Lausanne.
+6.
+La demanderesse a régulièrement communiqué
+à la défenderesse les taux d'intérêts
+pratiqués sur les crédits octroyés, ainsi que
+des relevés périodiques de ses comptes. La
+défenderesse n'a jamais contesté ou critiqué
+ces relevés.
+La défenderesse n'a pas respecté les conditions de
+remboursement des amortissements et intérêts convenus
+sur les prêts repris par la demanderesse, qui lui a
+adressé, ainsi qu'à son mari, des mises en demeure et
+sommations.
+7.
+Le prêt hypothécaire sous compte n° 579.26.57 de
+la défenderesse présentait un solde de 472'918 fr. 65
+en faveur de la demanderesse le 31 janvier 1998. Le compte courant
+n° 331.82.07 de la défenderesse auprès de la
+demanderesse avait un solde débiteur de 85'376 fr. 35 le 30
+avril 1998. Une expertise effectuée dans une autre cause
+impliquant la mise en œuvre de l'époux de la
+défenderesse comme caution solidaire, et produite comme
+pièce dans la présente espèce, confirme les
+montants ci-dessus.
+8.
+Par courriers recommandés et sous plis simples de contenus
+identiques sauf les dates des sommations, envoyés à
+la défenderesse à deux adresses différentes
+les 20 mai et 4 juin 1998, la demanderesse a résilié
+les deux comptes de celle-ci. La seconde de ces lettres est
+libellé comme il suit :
+"
+Vos compte courant No
+331.82.07, prêt hypothécaire N.
+579.26.57
+(…)
+Les clauses contractuelles
+de nos compte et prêt n'étant plus respectées,
+nous annulons nos crédits, avec effet immédiat et
+faisons valoir l'exigibilité des soldes de vos compte et
+prêt.
+Nous
+dénonçons au remboursement :
+a) la cédule
+hypothécaire No 474'836 du RF de [...], du capital de
+Fr.
+100'000.--
+Le montant de notre
+créance étant inférieur à cette somme,
+nous vous mettons donc en demeure de nous faire parvenir, d'ici au
+15 juin 1998
+, le montant de
+Fr. 85'376.35
+représentant le solde de votre compte au 30 avril 1998,
+valeur 31 mars 1998, date de son dernier bouclement, plus
+intérêt au taux de 6,75 % (pour un montant de
+Fr.
+74'000.--
+), 8,25 % et commission trimestrielle de ¼ %,
+courant tous trois dès le 1
+er
+avril
+1998.
+b) la cédule
+hypothécaire No 445'344 du R F de [...], du capital de
+Fr. 480'000.--
+Le montant de notre
+créance étant inférieur à cette somme,
+nous vous mettons donc en demeure de nous faire parvenir, d'ici au
+15 décembre 1998
+, le montant de
+Fr.
+472'918.65
+représentant le solde de votre prêt
+hypothécaire, valeur 31 janvier 1998, plus
+intérêt au taux de 5,75 % dès le 1
+er
+février 1998.
+(…)"
+La défenderesse et son mari n'ont donné aucune suite
+aux mises en demeure de la demanderesse et ne lui ont rien
+remboursé.
+9.
+La défenderesse n'a pas formé opposition au
+commandement de payer de la poursuite en réalisation de gage
+immobilier n° 679139 qui lui a été notifié
+le 29 janvier 1999 par l'Office des poursuites de [...] à
+l'instance de la demanderesse, à hauteur de 580'000 fr.
+et accessoires.
+10.
+Les parts de propriété par étages
+grevées appartenant à la défenderesse ont
+été vendue aux enchères forcées le 16
+juin 2000. L'office a remis à la demanderesse deux
+certificats d'insuffisance de gage datés du 20
+décembre 2000, pour une insuffisance de 305'166 fr. 75
+s'agissant de la cédule hypothécaire en
+1
+er
+rang de 480'000 fr. et une insuffisance de 27'450
+fr. 45 pour la cédule en 2
+ème
+rang de
+100'000 francs.
+Par deux courriers adressés personnellement à la
+défenderesse et à son époux caution solidaire
+le 16 mai 2001, la demanderesse a mis en demeure ses
+débiteurs de lui faire parvenir les sommes constatées
+dans les certificats d'insuffisance de gage ou de faire des
+propositions de remboursement, avant le 31 mai 2001. La
+défenderesse et son mari n'y ont donné aucune suite
+et n'ont jamais remboursé quoi que ce soit depuis la
+réalisation des gages.
+B.W.________ conteste toute obligation, en sa qualité de
+caution, à l'égard de la demanderesse, dans le cadre
+d'une procédure ouverte par cette dernière contre lui
+auprès de la Cour civile. La police d'assurance qu'il a
+remise en nantissement à la banque est une police risque
+pur, sans valeur de rachat, et la demanderesse n'a pu la faire
+réaliser.
+11.
+D'autres faits allégués et admis ou
+prouvés, mais sans incidence sur la solution du
+présent procès, ne sont pas reproduits
+ci-dessus.
+12.
+Au pied de sa demande du 4 septembre 2006,
+J.________ a pris la conclusion suivante :
+"Fondée sur ce qui
+précède, la demanderesse J.________
+a l'honneur de conclure, avec
+suite de frais et dépens, à ce qu'il plaise à
+la Cour civile de prononcer et ordonner par jugement que la
+défenderesse A.W.________ est reconnue sa débitrice
+et lui doit paiement immédiat de la somme de Fr. 305'166.75
+plus intérêt à 5,75 % l'an dès le
+16.6.2000 et de Fr. 27'450.45 plus intérêt
+à 7,75 % l'an dès le 16.6.2000."
+La demande a été notifiée à la
+défenderesse à West Palm Beach (USA), par voie
+diplomatique. Le Consulat a échoué à faire
+notifier la citation à comparaître à l'audience
+préliminaire, fixée dans un premier temps au 17 mars
+2009. La demanderesse ayant transmis une nouvelle adresse à
+Miami (USA), le Consulat a été chargé de
+notifier la citation à l'audience de ce jour,
+destinée à la défenderesse, tant à son
+adresse à West Palm Beach qu'à celle de Miami. Ces
+deux notifications ont échoué, la défenderesse
+ne résidant à aucune de ces adresses.
+La citation à comparaître a donc été
+publiée dans la Feuille des avis officiels, la
+défenderesse étant sans domicile connu, malgré
+les recherches de la demanderesse.
+En droit :
+I.
+Le domicile de la défenderesse se situait aux Etats-Unis
+d'Amérique au moment où la demande lui a
+été notifiée et s'est maintenu pour la suite
+de la procédure dans ce pays ou au Canada, aux dires de la
+demanderesse. Cet élément d'extranéité
+soulève la question de la compétence du juge de
+céans et du droit applicable au litige, qui doit être
+examinée d'office (art. 6 et 57 CPC et art. 16
+LDIP).
+a)
+Il n'existe pas de convention avec les Etats-Unis,
+domicile déterminant au moment de l'ouverture d'action selon
+le principe de la
+perpetuatio fori
+(Bucher/Bonomi, Droit
+international privé, 2
+e
+éd. n. 83),
+réglant la question de la compétence, de sorte que la
+LDIP (loi fédérale sur le doit international
+privé du 18 décembre 1987 - RS 291) s'applique (art.
+1 al. 2 LDIP).
+L'art. 5 LDIP permet aux parties d'évincer, en
+matière patrimoniale, un for ordinaire ou spécial au
+bénéfice du for qu'elles ont choisi, pourvu que la
+convention soit passée en la forme écrite ou par un
+moyen de communication écrit (Dutoit, Droit international
+privé suisse, Commentaire de la loi fédérale
+du 18 décembre 1987, nn. 1 et 6 ad art. 5 LDIP). Si le
+contrat contenant la clause d'élection de juridiction fait
+l'objet d'une cession, les règles ordinaires sur la
+transmission des créances et des obligations conduisent
+à admettre le jeu de la clause au profit ou à
+l'encontre du cessionnaire (Gaudemet-Tallon, Les Conventions de
+Bruxelles et de Lugano, 2
+e
+éd., pp. 97 s. ;
+Bucher/Bonomi, op. cit., n. 124).
+En l'espèce, le jour même où la
+défenderesse a conclu les deux contrats de crédit,
+l'un hypothécaire, l'autre en compte courant, garantis par
+des cédules sur ses biens immobiliers, elle a signé
+une déclaration attestant qu'elle avait pris connaissance
+des conditions générales de la F.________. L'article
+15 de ces conditions prévoit une élection de
+juridiction à Lausanne, de sorte que les parties sont
+valablement liées par cette clause, la demanderesse ayant
+repris le contrat de la banque originaire.
+Les nouvelles conditions générales de la demanderesse
+sont applicables à la relation entre les parties, en ce qui
+concerne les créances relatives à la cédule de
+100'000 fr. en 2
+ème
+rang, vu la cession à
+fin de garantie du 28 octobre 1994. Ces nouvelles conditions
+générales (art. 13) ont une rédaction
+pratiquement identique aux anciennes sur ce point, avec un for
+élu à Lausanne.
+Les clauses de prorogation de for précitées
+étant valables, les tribunaux vaudois sont compétents
+pour juger des prétentions dirigées contre la
+défenderesse, et plus particulièrement la Cour
+civile, compte tenu de la valeur litigieuse (art. 74
+OJV).
+b)
+En matière contractuelle, l'art. 116 LDIP
+prévoit que le contrat est régi par le droit choisi
+par les parties (al. 1). L'élection de droit doit être
+expresse ou ressortir de façon certaine des dispositions du
+contrat ou des circonstances (al. 2). Pour qu'il y ait
+élection de droit, la volonté d'accord des parties
+doit être clairement reconnaissable ou résulter
+indubitablement des circonstances, en ce sens que celles-ci ont vu
+qu'il existait un problème de droit applicable et qu'elles
+ont exprimé leur choix de façon manifeste (Dutoit,
+op. cit., n. 2 ad art. 116 LDIP ; ATF 119 II 173 cons. 1b, JT 1994
+I 115 et les références citées). En principe,
+une élection de droit peut être contenue dans des
+conditions générales, pour autant que celles-ci
+soient valables et que l'élection du droit ne soit pas
+exclue pour le contrat considéré (Dutoit, op. cit.,
+n. 12bis ad art. 116 LDIP).
+A défaut d'élection de droit (art. 116 LDIP), le
+contrat est régi par le droit de l'Etat avec lequel il
+présente les liens les plus étroits (art. 117 al. 1er
+LDIP). Ces liens sont réputés exister avec l'Etat
+dans lequel la partie qui doit fournir la prestation
+caractéristique a sa résidence habituelle ou, si le
+contrat est conclu dans l'exercice d'une activité
+professionnelle ou commerciale, son établissement (art. 117
+al. 2 LDIP). S'agissant d'un contrat de prêt, la prestation
+caractéristique est la remise de fonds, soit celle fournie
+par le prêteur (art. 117 al. 3 litt. b LDIP ; Dutoit, op.
+cit., n. 12 ad art. 117 LDIP ; ATF 78 II 190, c. 1, JT 1953 I 22 ;
+ATF 123 III 495 cons. 3a).
+En l'espèce, les clauses citées ci-dessus (sous ch.
+I.a) comportaient, avec la prorogation de for, une élection
+de droit en faveur du droit suisse. Celui-ci doit donc s'appliquer
+pour juger du litige. On relèvera que tel eût
+été le cas en l'absence de convention, puisque la
+demanderesse, prêteur, a fourni la prestation
+caractéristique du contrat, a son siège en Suisse et
+est constituée selon le droit [...], de même que la
+banque (la F.________) à qui elle a succédé.
+En outre,
+les prêts ont
+été octroyés en monnaie suisse, à une
+époque où la défenderesse résidait
+encore en Suisse, et étaient garantis par des cédules
+hypothécaires grevant des immeubles sis en Suisse (à
+[...]).
+II.
+La demanderesse a pris des conclusions en paiement contre la
+défenderesse. Les montant réclamés
+correspondent aux découverts constatés sur les
+certificats d'insuffisance de gage du 20 décembre 2000, de
+sorte qu'elle exerce en justice l'action déduite de ses
+créances abstraites, autrement dit celles incorporées
+à l'origine dans les deux cédules
+hypothécaires grevant les immeubles propriétés
+de la défenderesse.
+a)
+Aux termes de l'art. 842 CC, la cédule
+hypothécaire est une créance personnelle garantie par
+un gage immobilier. En principe, sa constitution éteint par
+novation l'obligation dont elle résulte (art. 855 al.
+1
+er
+CC) et donne naissance à une créance
+nouvelle, à savoir la créance résultant de la
+reconnaissance de dette exprimée dans le titre, laquelle est
+abstraite, en ce sens qu'elle n'énonce pas sa cause (art. 17
+CO). Il y a ainsi novation, la nouvelle créance née
+de la constitution de la cédule prenant la place de
+l'ancienne (Steinauer, Les droits réels, t. III,
+3
+ème
+éd., nn. 2932 s.). Cette règle
+est toutefois de droit dispositif (art. 855 al. 2 CC) et les
+parties peuvent convenir d'une juxtaposition des deux
+créances. La jurisprudence distingue alors la créance
+abstraite garantie par le gage immobilier, incorporée dans
+la cédule hypothécaire dont le créancier est
+propriétaire et la créance causale résultant
+de la relation de base, en général un prêt,
+pour laquelle la cédule a été remise en
+garantie, ces deux créances étant
+indépendantes l'une de l'autre. La créance abstraite
+constatée dans la cédule est alors destinée
+à doubler la créance causale aux fins d'en faciliter
+et d'en garantir le recouvrement. Seule la créance abstraite
+incorporée dans la cédule hypothécaire et
+garantie par gage immobilier doit faire l'objet d'une poursuite en
+réalisation de gage immobilier, tandis que la créance
+causale peut faire l'objet d'une poursuite ordinaire (TF, 11
+octobre 2001, arrêt 7B.175/2001, c. 1a ; ATF 119 III 105 c.
+2a et les réf. citées, JT 1996 II 115, SJ 1994 149 ;
+Steinauer, op. cit., n. 2933e).
+La remise d'une cédule hypothécaire en garantie
+fiduciaire implique nécessairement la renonciation des
+parties à la novation, ainsi que la juxtaposition de la
+créance incorporée et de la créance garantie,
+dès lors que le but des parties est de garantir la seconde
+et non de la substituer par la première (Steinauer, op.
+cit., n. 2933f ; Foëx, Les actes de disposition sur les
+cédules hypothécaires,
+in
+Les gages
+immobiliers, Constitution volontaire et réalisation
+forcée, pp. 113 ss, spéc.
+pp. 124 s.).
+b)
+La cédule hypothécaire est un papier-valeur
+- certes atypique (ATF 129 III 12 c. 3.2) - incorporant une
+créance personnelle et un droit de gage immobilier qui
+garantit celle-ci (art. 842 CC).
+Le transfert de la propriété d'une cédule
+hypothécaire et des droits qui y sont incorporés peut
+s'effectuer de deux manières. Le titulaire de la
+cédule et l'acquéreur peuvent convenir que la
+cédule sera transférée sans réserve
+à ce dernier ou que la cédule ne lui sera
+transférée qu'à titre fiduciaire, aux fins de
+garantir une autre créance dont l'acquéreur est
+titulaire. Dans le premier cas, on parle de transfert "en pleine
+propriété" de la cédule hypothécaire :
+il y a utilisation directe de la cédule et le transfert est
+direct. Dans le second cas, on parle de transfert de
+propriété aux fins de garantie : la
+sûreté procure au bénéficiaire une
+garantie fiduciaire (Foëx, op. cit., pp. 115 et 116). La
+remise d'une cédule hypothécaire aux fins de garantie
+peut revêtir deux formes : soit la cédule est
+d'emblée créée pour être remise à
+titre fiduciaire, soit la cédule existe déjà
+et elle est transférée aux fins de garantie
+(Foëx, op. cit., p. 121). Le créancier qui
+reçoit une cédule hypothécaire au porteur
+(cf. art. 842 et 859 CC) comme cessionnaire - soit en
+pleine propriété, soit à titre fiduciaire -
+devient donc titulaire de la créance et du droit de gage
+immobilier incorporés dans le papier-valeur (TF, 27 mai
+2005, arrêt 5C.11/2005, c. 3.1).
+Néanmoins, comme tous les actes juridiques fiduciaires, le
+transfert de la propriété aux fins de garantie a
+cette particularité que le fiduciaire peut plus que ce qui
+lui est permis. La légitimation selon le droit des
+papiers-valeurs lui permet de se présenter à
+l'égard des tiers comme le titulaire absolu des droits
+incorporés. Or, en raison de la convention de garantie, il
+est obligé envers le fiduciant de ne faire usage de cet
+excès de la faculté de disposer juridiquement que
+dans le cadre convenu (ATF 119 II 326 c. 2b, JT 1995 II 87). En
+d'autres termes, lorsqu'une cédule hypothécaire fait
+l'objet d'un transfert de propriété aux fins de
+garantie, le fiduciaire acquiert la propriété du
+titre et la titularité des droits incorporés tout en
+conservant la ou les créances de base résultant par
+exemple d'un contrat de prêt, mais il s'oblige
+simultanément à n'exercer les droits ainsi acquis que
+dans les limites de ce qu'exige le remboursement de la ou des
+créances garanties (Foëx, op. cit., pp. 121 s.).
+La convention fiduciaire implique nécessairement un
+pactum de non petendo
+portant sur la créance
+cédulaire dont la poursuite n'est pas nécessaire pour
+garantir le remboursement des créances. Ce pacte constitue
+une exception que le débiteur peut opposer au
+créancier garanti, en vertu de l'art. 872 CC, si ce dernier
+prétend se faire payer l'intégralité de la
+créance cédulaire (Cour de Justice GE, in RSJ 2005
+p. 430, c. 3.1 et 3.2 ; CPF, 30 octobre 2003, arrêt
+n° 379 ; Staehelin, Basler Kommentar,
+3
+ème
+éd., n. 22 ad art. 855 CC). Il
+appartient au débiteur d'établir que la
+créance causale est inférieure à la
+créance abstraite et dans quelle mesure, à titre de
+fait libératoire (art. 8 CC).
+Dans un tel cas, le créancier de la créance abstraite
+n'a droit au capital et intérêts sur celle-ci
+qu'à concurrence du capital et des intérêts
+conventionnels de la créance causale. La créance
+abstraite sert donc de plafond. Si la créance causale est
+d'un montant supérieur, en cas de poursuite, la
+mainlevée provisoire ne peut être accordée
+qu'à concurrence de la créance abstraite ; en
+revanche, si la créance causale est d'un montant
+inférieur, le poursuivi dispose d'un moyen
+libératoire pour autant que le montant de la créance
+causale soit établi par pièces. Dans cette
+hypothèse, la mainlevée provisoire ne pourra
+être accordée qu'à concurrence de la
+créance causale (Denys, Cédule hypothécaire et
+mainlevée,
+in
+JT 2008 II 3, spéc.
+§ 9.4, p. 16).
+c)
+Pour que l'acquéreur à titre
+fiduciaire d'une cédule hypothécaire puisse engager
+une poursuite en réalisation de gage immobilier, il faut que
+soient exigibles aussi bien la créance incorporée
+dans le titre - par la dénonciation préalable de la
+cédule hypothécaire - que la créance garantie
+- par la dénonciation du contrat de prêt (Foëx,
+op. cit., p. 126 ; Denys, op. cit., §§ 8.1 ss et §
+9.3, pp. 12 ss).
+L'art. 844 al. 2 CC, qui règle cette question, dispose que,
+sauf stipulation contraire, la cédule hypothécaire ne
+peut être dénoncée, par le créancier ou
+le débiteur, que six mois d'avance et pour le terme usuel
+assigné au paiement des intérêts. Les parties
+peuvent donc disposer de ce délai, en le modifiant ou en
+excluant pour un certain temps le droit à la
+dénonciation. Selon l'art. 844 al. 3 CC, le droit cantonal
+peut restreindre à ce sujet la liberté des parties,
+faculté dont le canton de Vaud n'a pas fait usage
+(Steinauer, Les droits réels, tome III, 3
+e
+éd., nn. 2943 ss ; Piotet, Traité de droit
+privé suisse, vol. I, t. II, Droit cantonal
+complémentaire, nn. 952 ss).
+La jurisprudence précise que des conventions
+séparées, par exemple contenues dans des conditions
+générales auxquelles le contrat particulier renvoie,
+peuvent modifier les délais et termes de dénonciation
+mentionnés sur la cédule, même lorsque le titre
+remis à titre de garantie prévoit une
+possibilité semestrielle de dénonciation (sous
+réserve de la protection de l'acquéreur de bonne foi)
+; il n'est pas nécessaire qu'une telle convention soit
+passée en la forme authentique, et la créance
+découlant de la cédule hypothécaire doit alors
+être dénoncée en fonction de la relation
+interne des parties (ATF 123 III 97, c. 2, JT 1998 I
+57).
+En vertu de l'art. 906 al. 1
+er
+CC, seul
+le propriétaire d'une créance engagée peut la
+dénoncer au remboursement ou en opérer le
+recouvrement. Ainsi, le créancier qui dispose d'une
+cédule au porteur comme cessionnaire soit en pleine
+propriété, soit à titre fiduciaire, est
+habilité à dénoncer la créance au
+remboursement et, le cas échéant, introduire une
+poursuite en réalisation de gage immobilier, contrairement
+au créancier uniquement nanti de la cédule (TF, 27
+mai 2005, arrêt 5C.11/2005, c. 3.1).
+Il existe une controverse sur le point de savoir si
+la créance en poursuite doit être exigible au jour de
+la réquisition de poursuite ou s'il suffit qu'elle le soit
+au jour de la notification du commandement de payer (TF, 11
+décembre 2001, arrêt 5P.333/2001, c. 3b). Avec une
+partie de la doctrine, il convient de s'en tenir à la
+règle selon laquelle la créance doit être
+exigible au jour du dépôt de la réquisition de
+poursuite (CCiv, 21 mai 2008, 62/2008/PMR, c. III.d ; Denys, op.
+cit., § 8.2, pp. 13 s. ;
+Gilliéron,
+Commentaire de la loi
+fédérale sur la poursuite pour dettes et la
+faillite
+,
+nn. 69 et 95
+95 ad art.
+82 LP;
+contra
+: Favre/Liniger, Cédules
+hypothécaires et procédure de mainlevée
+in
+SJ 1995 pp. 101 ss, spéc. 107 ;
+Schmidt, Commentaire romand, n. 25 ad
+art. 82 LP, pour qui seule la notification du commandement de payer
+devrait compter
+).
+d)
+En l'espèce, deux contrats de prêt ont
+été conclus entre la défenderesse et la
+F.________ le 5 août 1988. Le premier, de 480'000 fr.,
+stipule qu'une cédule de même montant devait
+"garantir" le prêt. Le second contrat, pour un emprunt de
+100'000 fr., stipule qu'il serait garanti par le nantissement d'une
+cédule du même montant. Les parties ont donc entendu
+créer un rapport de droit double comprenant des
+créances causales - la relation personnelle dérivant
+du contrat de prêt - et des créances abstraites
+incorporées dans des cédules ; il n'y a ainsi pas eu
+novation. S'agissant du prêt de 480'000 fr., la cédule
+devait clairement être remise à titre fiduciaire,
+alors que pour le second les parties originaires se sont servies du
+terme de "nantissement". On ignore toutefois ce qui s'est
+passé concrètement, mais cela n'a pas d'importance,
+dans la mesure où la défenderesse et la demanderesse
+directement ont mis à jour leurs relations par deux lettres
+du 14 octobre 1994 contresignées de toutes les parties. Ces
+courriers prévoient la "cession en propriété"
+des deux cédules, ce qui a été fait. L'acte de
+cession à fin de garantie du 28 octobre 1994 concernant la
+cédule en 2
+ème
+rang de 100'000 fr.
+confirme que les parties ont procédé à une
+cession fiduciaire.
+La défenderesse avait entre-temps
+fusionné avec la F.________, avec effet au 30
+novembre 1993, ce qui a entraîné la reprise des actifs
+et passifs de cette banque, donc également les deux contrats
+litigieux.
+Elle a dénoncé au remboursement à la fois les
+créances abstraites et causales le 4 juin 1998, puisqu'elle
+a précisé "faire valoir l'exigibilité des
+comptes et des prêts", ce qui se réfère
+à la relation personnelle, avant de mettre explicitement en
+demeure la défenderesse de lui rembourser les montants
+figurant dans les cédules, ramenés au montant
+inférieur prétendu de ses créances.
+Les conditions
+générales tant de la F.________ que de la
+demanderesse autorisent une dénonciation immédiate
+des relations d'affaires, de sorte que la J.________ n'avait pas
+à respecter le préavis de six mois de l'art. 844
+CC.
+Titulaire de la créance abstraite valablement
+dénoncée et possesseur des cédules, la
+demanderesse pouvait donc poursuivre la défenderesse en
+réalisation de gage. Il appartenait à la
+débitrice de faire valoir d'éventuelles exceptions,
+notamment quant aux montants en cause, ce qu'elle n'a fait ni dans
+une procédure de mainlevée qui n'a pas eu lieu faute
+d'opposition, ni par un autre moyen (comme l'annulation ou la
+suspension des art. 85 ou 85a LP). La procédure a conduit
+à la vente forcée des immeubles engagés le 16
+juin 2000 et à la délivrance de deux certificats
+d'insuffisance de gage sur lesquels la demanderesse peut
+valablement se fonder pour réclamer le solde de ses
+créances.
+III.
+a)
+Selon l'art. 158 al. 1 LP, l'office des poursuites
+délivre au poursuivant un certificat d'insuffisance de gage
+lorsque le produit de la réalisation n'a pas suffi à
+désintéresser le créancier
+poursuivant.
+Le certificat d'insuffisance de gage vaut, à teneur de
+l'art. 158 al. 3 LP, reconnaissance de dette au sens de l'art. 82
+LP et constitue ainsi un titre de mainlevée provisoire, sans
+avoir toutefois d'effet novatoire, la créance se fondant
+toujours sur les causes et les preuves originaires, voire les
+éventuelles décisions de justice rendues en
+mainlevée définitive dans le cadre de la poursuite en
+réalisation de gage antérieure (Käser,
+Kurzkommentar SchKG, 2009, n. 4 ad art. 158 LP ;
+Bernheim/Känzig, Commentaire bâlois, nn. 35 et 37 ad
+art. 158 LP). En effet, pour un créancier saisissant, le
+fondement de sa créance a été examiné
+et assuré, ce qui justifie de placer le certificat
+d'insuffisance de gage sur un pied d'égalité avec une
+reconnaissance de dette (
+Jäger/Kull/Walder, Das
+Bundesgesetz über Schuldbetreibung und Konkurs,
+5
+e
+éd., n. 15 ad art. 158 LP). Si la
+créance en cause résultait d'un jugement
+définitif et exécutoire, la délivrance du
+certificat d'insuffisance de gage ne lui fait pas perdre sa
+qualité de titre de mainlevée définitive
+(Foëx, Commentaire romand [ci-après : CR], n. 9 ad art.
+158 LP).
+Toutefois, pour Gilliéron, la rédaction de la loi est
+défectueuse et il faudrait restreindre les effets du
+certificat d'insuffisance de gage à valoir titre à la
+mainlevée provisoire ; il ne constitue ainsi pas un nouveau
+titre de créance, ni une reconnaissance de dette. En effet,
+le poursuivi ou le copoursuivi n'interviennent en rien dans son
+établissement. Ils peuvent soulever (par l'opposition au
+commandement de payer ou l'action en annulation ou en suspension de
+la poursuite), dans la poursuite ordinaire introduite par le
+porteur du certificat d'insuffisance de gage, tous les moyens
+libératoires qu'ils ont omis de présenter ou qui
+n'ont pas été retenus dans la poursuite en
+réalisation de gage, à l'exception toutefois de ceux
+qui ont été rejetés par le juge dans une
+action au fond les opposant au poursuivant
+(Gilliéron,
+op. cit.
+, nn. 41 et 42 ad art. 158
+LP).
+Au contraire de l'acte de défaut de biens, le certificat
+d'insuffisance de gage n'allonge pas la prescription à 20
+ans (art. 149a al. 1 LP) et la créance, qui n'est plus
+garantie par un gage immobilier (art. 807 CC), commence à se
+prescrire ; en revanche, les intérêts sur le capital
+de la créance à découvert recommencent ou
+continuent à courir, pour autant que le poursuivi
+réponde sur l'entier de son patrimoine (Käser, op.
+cit., n. 5 ad 158 LP ;
+Jäger/Kull/Walder, op. cit., n.
+8 ad art. 158 LP ;
+Bernheim/Känzig, op. cit., nn.
+36 et 38 ad art. 158 LP ; Foëx, CR, n. 13 ad art. 158 LP
+;
+Gilliéron, op. cit., n. 43 ad art.
+158 LP
+).
+Le certificat
+d'insuffisance de gage permet au créancier de
+procéder par voie de saisie ou de faillite, sans
+commandement de payer s'il agit dans le mois, pour recouvrer le
+solde de la dette d'un débiteur qui en répond
+également personnellement (Käser, op. cit., nn. 6 et 7
+ad art. 158 LP ; Bernheim/Känzig, op. cit., n. 29 ad art. 158
+LP ; Foëx, CR, n. 10 ad art. 158 LP). Il est même la
+condition de cette opération et ne peut être
+remplacé par une autre preuve de la perte sur la vente du
+gage ; le cas échéant, il appartient au
+créancier d'en contester l'exactitude auprès de
+l'autorité de surveillance (Jäger/Kull/Walder, op.
+cit., n. 9 ad art. 158 LP).
+Le certificat d'insuffisance de gage constate le montant encore
+dû au créancier gagiste poursuivant - en d'autres
+termes que la prétention exigible déduite en
+poursuite en réalisation de gage n'a pas été
+couverte, totalement ou partiellement - et fait foi de cette
+indication (Foëx, CR, n. 7 ad art. 158 LP ; Gilliéron,
+op. cit., n.39 ad art. 158 LP). Il signifie implicitement que la
+prétention n'est plus garantie par un gage et constitue un
+titre public au sens des art. 8 al. 2 LP et 9 CC (Gilliéron,
+op. cit., n. 40 ad art. 158 LP). Cela a pour conséquence que
+les faits qui y sont constatés sont présumés
+exacts, mais qu'il n'est pas exclu de renverser cette
+présomption ; il incombe néanmoins à celui qui
+conteste le contenu de ce titre d'établir les faits
+conduisant à s'en écarter (ATF 127 III 248, c. 3c,
+rés. in JT 2001 I 263 ; CCiv,
+8 juillet 2004,
+140/2004/DCA, c. IV
+).
+b)
+Selon l'art. 842 CC, la cédule hypothécaire garantit
+une créance
+personnelle
+, ce qui signifie que, pour le
+législateur, le débiteur répond de cette
+créance non seulement sur l'objet du droit de gage, mais
+aussi sur touts ses biens, ce en quoi la cédule se distingue
+par exemple de la lettre de rente (Steinauer, op. cit., n. 2930).
+Le créancier peut faire valoir l'entier la créance
+(à savoir le montant originaire libellé sur le titre)
+incorporée dans la cédule, et c'est en vertu du
+rapport interne que le débiteur peut opposer par voie
+d'exception qu'il s'est par hypothèse acquitté d'une
+partie de celle-ci (ATF 105 III 128, c. 5b, JT 1981 II 75 ;
+TF, 1
+er
+septembre 1978, arrêt paru
+in Revue Suisse du Notariat et du Registre foncier [RNRF/ZBGR]
+1979, p. 106, c. 1 ; Staehelin, Betreibung une Rechtsöffnung
+beim Schuldbrief, in Aktuelle Juristische Praxis [AJP/PJA] 1994,
+pp. 1255 ss, spéc. p. 1264
+). Ainsi, ensuite de la
+réalisation de l'immeuble grevé, le gage
+s'éteint certes, mais, lorsque le créancier n'est pas
+désintéressé ou ne l'est que partiellement, la
+responsabilité personnelle du débiteur
+dérivant de la cédule subsiste, quand bien même
+le titre est cancellé (Steinauer, op. cit., n. 2978a ;
+Staehelin, Commentaire bâlois, 3
+e
+éd., n. 2
+ad art. 842 CC, avec les références ; ATF 68 II
+84, c. 1, JT 1942 I 418).
+Les exceptions (
+Einreden
+), au contraire des objections
+(
+Einwändungen
+) qui constituent des faits
+empêchant la naissance du droit ou éteignant celui-ci
+et doivent être examinées d'office, sont des moyens
+permettant au débiteur de s'opposer momentanément ou
+définitivement au droit - existant - du créancier,
+moyens que ce débiteur a le choix d'invoquer ou non et qui
+ne peuvent par conséquent pas être retenus d'office
+(Tercier, Le droit des obligations, 3
+e
+éd., n.
+266 ; Engel, Traité des obligations en droit suisse,
+2
+e
+éd., pp. 34 et 35).
+c)
+En l'espèce, les certificats d'insuffisance de gage du 20
+décembre 2000 constatent que les créances sont
+demeurées impayées à hauteur 305'166 fr. 75
+pour celle résultant de la cédule en 1
+er
+rang, et 27'450 fr. 45 pour celle résultant de la
+cédule en 2
+ème
+rang. La
+défenderesse reste débitrice de ces créances
+et doit à la demanderesse l'entier des montants ainsi
+constatés, faute pour elle d'avoir soulevé dans la
+présente procédure d'éventuels moyens ou
+d'avoir rapporté la preuve que les certificats
+d'insuffisance de gage, présumés exacts, constatent
+des éléments erronés.
+d)
+S'agissant des intérêts courant sur ces montants,
+l'art. 104 al. 2 CO dispose que si le contrat stipule, directement
+ou sous la forme d'une provision de banque périodique, un
+intérêt supérieur à 5 pour cent, cet
+intérêt plus élevé que le taux
+légal peut également être exigé du
+débiteur en demeure. L'intérêt moratoire est
+ainsi fixe et se réfère au passé, le
+législateur ayant accepté que ce taux dépasse
+celui du marché en vigueur pendant la demeure, ce en quoi se
+manifeste son aspect punitif (ATF 130 III 312, c. 7.1, JT 2005 I
+260). En revanche, une éventuelle commission trimestrielle,
+telle celle perçue usuellement sur les comptes
+courants,
+tire son origine et son but de la
+relation contractuelle et ne saurait par conséquent
+être payée après la dénonciation du
+contrat (considérant 4, non publié, de l'ATF 130 III
+694, dans la cause 4C.131/2004, jugée le 9 septembre 2004 ;
+CCiv, 24 juillet 2008, 106/2008/PMR, c. III.a).
+En l'occurrence, la défenderesse est en demeure depuis la
+dénonciation des prêts en 1998. Les
+intérêts dus jusqu'à la réalisation
+forcée des immeubles ont été pris en compte
+dans le cadre de la poursuite et dans les montants
+arrêtés dans les certificats d'insuffisance de gage.
+Or, selon la doctrine, ces derniers n'interrompent pas le cours des
+intérêts, qu'il convient donc d'allouer dès le
+lendemain de la vente des immeubles le 16 juillet 2000. Quant au
+taux, conformément à la jurisprudence, il suivra
+celui dont sont convenues les parties lors du renouvellement ou de
+la confirmation de leurs relations bancaires des 14 et 28 octobre
+1994, puisque aucun autre accord plus récent n'est
+allégué. Ainsi, les intérêts dus sur le
+reliquat du prêt hypothécaire, cédule en
+1
+er
+rang de 480'000 fr., soit sur 305'166 fr. 75, seront
+de 5,75 %, et ceux sur le reste du compte courant, cédule en
+2
+ème
+rang de 100'000 fr., soit sur 27'450 fr. 45,
+seront de 6,75 %.
+IV.
+En vertu de l'art. 92 CPC, des dépens sont alloués
+à la partie qui obtient gain de cause. Ces dépens
+comprennent principalement les frais de justice payés par la
+partie, les honoraires et les débours de son avocat (art. 91
+lit. a et c CPC). Les frais de justice englobent l'émolument
+de justice, ainsi que les frais de mesures probatoires. Les
+honoraires d'avocat sont fixés selon le Tarif des honoraires
+d'avocat dus à titre de dépens du 17 juin 1986 (TAv -
+RSV 177.11.3). Les débours consistent dans le paiement d'une
+somme d'argent précise pour une opération
+déterminée (timbres, taxes, estampilles).
+A l'issue d'un litige, le juge doit ainsi rechercher lequel des
+plaideurs gagne le procès et lui allouer une certaine somme
+en remboursement de ses frais, à la charge du plaideur
+perdant.
+Obtenant gain de cause sur le principe et sur l'essentiel de ses
+conclusions chiffrées, la demanderesse a droit à des
+dépens, à la charge de la défenderesse, qu'il
+convient d'arrêter à 10'223 fr., savoir :
+6'000       fr. à titre de
+participation aux honoraires de son conseil ;
+300       fr. pour les débours
+de celui‑ci ;
+3'923
+fr. en remboursement de son coupon de justice.
+Par ces motifs,
+le juge instructeur,
+statuant à huis clos et
+par défaut de la
+défenderesse,
+prononce
+:
+I.
+La défenderesse A.W.________
+doit payer à la demanderesse J.________ les sommes de
+305'166 fr. 75 (trois cent cinq mille cent soixante-six francs et
+septante-cinq centimes), avec intérêt à
+5,75 % l'an dès le 17 juin 2000, et 27'450 fr. 45
+(vingt-sept mille quatre cent cinquante francs et quarante-cinq
+centimes), avec intérêt à 6,75 % l'an
+dès le 17 juin 2000.
+II.
+Les frais de justice de la
+demanderesse sont arrêtés à 3'923 fr. (trois
+mille neuf cent vingt-trois francs), non compris les frais de
+notification par publication officielle.
+III.
+La défenderesse versera
+à la demanderesse le montant de 10'223 fr. (dix mille
+deux cent vingt-trois francs) à titre de
+dépens.
+Le juge
+instructeur
+:
+Le greffier :
+P.
+Hack
+O. Peissard
+Du
+Le jugement qui précède, dont le dispositif a
+été expédié pour notification aux
+parties le 9 juillet 2009
+, lu et
+approuvé à huis clos, est notifié au conseil
+de la
+demanderesse
+,
+par l'envoi de photocopies, et à la défenderesse par
+publication dans la Feuille des avis officiels.
+Les parties peuvent recourir au Tribunal cantonal dans les dix
+jours dès la notification du présent jugement en
+déposant au greffe de la Cour civile un acte de recours en
+deux exemplaires désignant le jugement attaqué et
+contenant leurs conclusions en nullité, ou leurs conclusions
+en réforme dans les cas prévus par la loi.
+Le
+greffier
+:
+O. Peissard
