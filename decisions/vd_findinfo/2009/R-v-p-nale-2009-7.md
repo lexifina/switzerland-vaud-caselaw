@@ -1,0 +1,346 @@
+---
+decision_id: "vd_findinfo_R_v-p_nale___2009___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-pénale / 2009 / 7"
+decided: "2009-06-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20P%E9nale/R%E9v-p%E9nale/20090714152847317_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-385.md", "switzerland/bund/acts/312.0/art-455.md", "switzerland/bund/acts/312.0/art-456.md", "switzerland/bund/acts/312.0/art-457.md"]
+---
+
+# VD Findinfo Rév-pénale / 2009 / 7
+
+## Regeste
+
+RÉVISION{DÉCISION} | 455 al. 1 CPP, 462 CPP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours civile 30.06.2009 Rév-pénale / 2009 / 7
+
+RÉVISION{DÉCISION} | 455 al. 1 CPP, 462 CPP
+
+TRIBUNAL CANTONAL
+9
+PE08.011244-GAL/DST/SMH
+CHAMBRE DES
+REVISIONS
+CIVILES ET PENALES
+_________________________________
+REVISION PENALE
+Arrêt du 30 juin
+2009
+__________________
+Présidence
+de   M.
+Meylan
+,
+président
+Juges
+:
+M.        Giroud, Mme Carlsson,
+MM. J.-F. Meylan et Hack
+Greffier
+:
+Mme   Moret
+*****
+Art.
+385 CP; 455 ss, 462 CPP
+La
+Chambre des révisions
+civiles et pénales prend séance à huis clos
+pour statuer sur la demande présentée le
+2
+juin 2009
+par
+P.________
+et tendant
+à la révision d
+u jugement rendu le 6 novembre
+2008 par le Tribunal de police de l'arrondissement de
+Lausanne.
+Elle considère :
+En fait :
+A.
+Par jugement du 6 novembre 2008, le Tribunal de
+police de l'arrondissement de Lausanne a constaté que
+P.________ s'était rendu coupable de conduite en état
+d'ébriété qualifiée (I); l'a
+condamné à une peine pécuniaire de trente
+jours-amende, le montant du jour-amende étant fixé
+à 15 fr. (II); renoncé à révoquer le
+sursis accordé au prénommé le 10 octobre 2007
+par le Juge d'instruction de l'arrondissement de l'Est vaudois
+(III) et mis les frais de justice, par 1'810 fr. 75 à la
+charge de ce dernier (IV).
+B.
+Par jugement du 6 novembre 2008
+précité, le Tribunal de police de l'arrondissement de
+Lausanne a notamment retenu que le 19 mai 2008, peu avant 22h25,
+P.________, sous l'influence de l'alcool, avait circulé au
+volant de son véhicule entre la rue de la Pontaise et la
+place du Tunnel et que l'analyse du sang prélevé
+avait révélé une alcoolémie de 1,22 g
+‰ (taux le plus favorable). Pour ces faits, le premier juge
+a reconnu P.________ coupable de conduite en état
+d'ébriété qualifiée.
+C.
+Le 2 juin 2009, P.________ a déposé
+une demande de révision. Il conclut à ce qu'il plaise
+à la Chambre des révisions civiles et pénales
+du Tribunal cantonal dire et constater que les faits et moyens de
+preuve à l'appui de la présente requête en
+révision du jugement rendu par le Tribunal de police en date
+du 6 novembre 2008 sont sérieux au sens de l'art. 455 CPP,
+par voie de conséquence, déclarer recevable et bien
+fondée la présente demande de révision du
+jugement précité et admettre, en conséquence,
+cette demande et renvoyer la cause à un Tribunal
+d'arrondissement en application de l'art. 465 CPP pour nouvelle
+instruction et nouveau jugement.
+Le 9 juin 2009, l'avocat de P.________ a été
+désigné défenseur d'office de ce dernier dans
+la procédure de révision.
+Par arrêt du 11 juin 2009, la Présidente du Tribunal
+cantonal a admis la requête d'effet suspensif
+présentée par P.________ et suspendu, jusqu'à
+examen de la demande de révision, l'exécution du
+jugement du 6 novembre 2008 du Tribunal de police de
+l'arrondissement de Lausanne.
+Le 24 juin 2009, le Ministère public a conclu au rejet de
+ladite demande de révision.
+En droit
+:
+1.
+a)
+Selon
+l'art. 385 CP (art. 397 aCP), les cantons sont tenus de
+prévoir un recours en révision en faveur du
+condamné contre les jugements rendus en vertu du code
+pénal ou d'une autre loi fédérale, quand des
+faits ou autres moyens de preuve sérieux et dont le juge
+n'avait pas eu connaissance lors du premier procès viennent
+à être invoqués.
+L'art. 385 CP constitue une règle minimale, dont les cantons
+peuvent étendre mais non restreindre le champ d'application
+(Favre, Pellet, Stoudmann, Code pénal annoté,
+Lausanne 2007, n. 1.1 ad art. 385 CP).
+En procédure pénale vaudoise, le recours en
+révision est prévu aux art. 455 et suivants
+CPP.
+b)
+Le
+droit à la révision étant imprescriptible, une
+requête peut être présentée en tout temps
+(Favre, Pellet, Stoudmann, op. cit., n. 1.12 ad art. 385
+CP).
+Elle ne saurait être utilisée si l'erreur dont se
+plaint le requérant peut être corrigée par la
+voie d'un recours ordinaire. Elle suppose un jugement ou un
+prononcé définitif et exécutoire (Bovay,
+Dupuis, Monnier, Moreillon, Piguet, Procédure pénale
+vaudoise, Bâle 2008, n. 1.4 ad art. 455 CPP).
+Présentée
+le 2 juin 2009 par le condamné (art. 456 al. 1 let. b CPP)
+contre le jugement rendu par le Tribunal de police le 6 novembre
+2008, qui a force de chose jugée, la demande de
+révision est recevable. Les pièces produites à
+l'appui de cette demande le sont également (art. 457 al. 2
+CPP).
+2.
+a)
+La
+révision d'un jugement ou d'une ordonnance de condamnation,
+ainsi que celle d'un arrêt de la cour de cassation, peut
+être demandée quand des faits ou des moyens de preuve
+sérieux et dont le juge n'avait pas eu connaissance lors du
+premier procès viennent à être invoqués
+(art. 455 CPP).
+L'art. 455 CPP n'a, pour ce qui concerne une infraction
+réprimée par le droit fédéral, pas de
+portée propre par rapport à l'art. 385 CP, qui
+correspond textuellement à l'ancien art. 397 CP, de sorte
+que la jurisprudence du Tribunal fédéral rendue sous
+l'ancien droit conserve sa valeur.
+Par "faits", il faut entendre toute circonstance susceptible
+d'être prise en considération dans l'état de
+fait qui fonde le jugement, ce qui comprend tout
+événement matériel ou produit par
+l'activité humaine, même celui auquel la loi attache
+un effet juridique, à la condition qu'elle joue un
+rôle dans la qualification juridique, dans la fixation de la
+peine ou l'octroi du sursis (Favre, Pellet, Stoudmann, op. cit., n.
+1.3 ad art. 397 CP; Bovay, Dupuis, Monnier, Moreillon, Piguet, op.
+cit., n. 2.2 ad art. 455 CPP).
+Un fait ou un moyen
+de preuve est nouveau au sens de l'art. 385 CP lorsque le juge n'en
+a pas eu connaissance au moment où il s'est prononcé,
+c'est-à-dire lorsqu'il ne lui a pas été soumis
+sous quelque forme que ce soit (ATF 130 IV 72 cons. 1, rés.
+in JT 2004 IV 160; ATF 122 IV 66 cons. 2a et les arrêts
+cités, rés. in JT 1998 IV 91), sans qu'il importe,
+sous réserve de l'abus de droit, qui ne doit être
+admis qu'avec retenue en cas de révision fondée sur
+l'art. 385 CP, qu'il ait été connu ou non du
+requérant (ATF 130 IV 72 cons. 2.2, rés. in JT 2004
+IV 160). Il appartient au juge de la révision
+d'apprécier les preuves avancées pour établir
+le fait nouveau ou d'examiner la force probante d'un nouveau moyen
+de preuve invoqué pour établir un fait
+déjà connu (ATF 92 IV 177, JT 1967 IV 56; JT 1988 III
+94).
+Pour aboutir, il ne suffit pas que la révision se fonde sur
+des faits nouveaux. Encore faut-il qu'ils soient sérieux. Le
+fait ou le moyen de preuve est sérieux, lorsqu'il est propre
+à ébranler l'état de fait sur lequel se fonde
+la condamnation et que, ainsi modifié, celui-ci rend
+possible un jugement sensiblement plus favorable au condamné
+(ATF 130 IV 72 cons. 1, rés. in JT 2004 IV 160; ATF 122 IV
+66 cons. 2a et les arrêts cités, rés. in JT
+1998 IV 91). Le motif doit donc être concluant
+(ébranler les constatations de fait) et causal
+(entraîner une décision plus favorable pour le
+condamné).
+b)
+A l'appui de sa demande, le requérant fait valoir
+que trois témoins, à savoir son amie, T.________, et
+deux employés de l'établissement public [...], qui
+n'ont pas été entendus lors du procès
+pénal, pourraient attester que c'est après avoir bu
+de l'alcool dans cet établissement en compagnie de son amie
+que celle-ci a été agressée par un tiers et
+que tous deux se sont alors réfugiés dans sa voiture,
+d'où un appel a été lancé à la
+police, laquelle est intervenue et l'a
+interpellé.
+c)
+Tout d'abord, le fait que de l'alcool aurait
+été consommé par le requérant entre le
+moment où il a stationné son véhicule à
+la place du Tunnel et celui où la police est intervenue a
+été soumis au Tribunal de police le 6 novembre 2008,
+qui ne l'a toutefois pas tenu pour établi, aux motifs que
+cette version des faits n'avait été invoquée
+ni à la police ni devant le juge d'instruction et qu'au
+contraire, il ressortait de deux auditions que l'altercation,
+respectivement l'intervention de la police, avait eu lieu juste
+après qu'il se fut parqué à la place du
+Tunnel.
+Dans ces circonstances, l'absorption d'alcool après le
+parcage du véhicule ne peut donc pas être tenue pour
+un fait nouveau.
+d)
+En revanche, le fait que P.________ se serait rendu dans
+l'établissement public [...] après avoir
+parqué son véhicule à la place du Tunnel n'a
+été nullement évoqué devant le Tribunal
+de police ou en cours d'enquête, de sorte qu'il est
+certainement nouveau, tout comme les moyens de preuve
+invoqués, à savoir l'audition d'employés de
+cet établissement et de l'amie du requérant.
+Cependant,
+il
+ne suffit pas, comme déjà mentionné, que la
+révision se fonde sur des faits nouveaux: encore faut-il
+qu'ils soient sérieux.
+En l'occurrence, il ressort du dossier que P.________ a en
+substance déclaré, cela tant aux policiers
+étant intervenus qu'au greffier du juge d'instruction ayant
+procédé à son audition, qu'il avait
+circulé en état d'ébriété le
+soir en question et que son état avait été
+constaté dès son arrivée sur la place du
+Tunnel. Le fait qu'il plaide à l'appui de sa demande de
+révision qu'il se serait rendu dans l'établissement
+[...] avant le contrôle de son état physique ne
+saurait mettre en doute les aveux faits et ébranler
+l'état de fait sur lequel s'est fondée
+l'autorité de première instance, ce d'autant qu'il
+avait déjà tenté, lors des débats, de
+faire croire au tribunal qu'il s'était rendu le soir en
+question au domicile de son amie où il aurait
+consommé de l'alcool. La nouvelle version des faits
+proposée par le requérant, que rien ne
+l'empêchait d'invoquer dès le début de
+l'enquête et dont la réalisation ne s'impose pas au vu
+du seul témoignage écrit de deux employés dont
+l'identité n'est pas révélée, n'est pas
+propre à modifier le point de vue du Tribunal de
+police.
+3.
+En définitive, la demande de révision est
+rejetée. En conséquence, P.________ supportera les
+frais du présent arrêt (art. 464 CPP), ainsi que
+l'indemnité due à son défenseur d'office, par
+1'076 fr., TVA comprise.
+Par ces motifs,
+la Chambre des révisions
+civiles et pénales,
+statuant à huis
+clos,
+prononce
+:
+I.
+La demande de révision
+présentée par P.________ est
+rejetée.
+II.
+Les frais d'arrêt, par
+1'856 fr.  (mille huit cent cinquante-six francs), y
+compris l'indemnité allouée à son
+défenseur d'office par 1'076  fr.  (mille cent
+septante-six francs), sont mis à la charge du
+requérant.
+III.
+Le remboursement à l'Etat de
+l'indemnité allouée au ch. II ci-dessus sera exigible
+pour autant que la situation économique de P.________ se
+soit améliorée.
+IV.
+L'arrêt est
+exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du
+L'arrêt qui
+précède, dont la rédaction a été
+approuvée à huis clos, est notifié à
+:
+‑      Me Philippe
+Liechti, avocat (pour P.________),
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+-      Département
+de l'intérieur, Office d'exécution des
+peines,
+‑      Mme la
+Vice-Présidente du Tribunal de police de l'arrondissement de
+Lausanne,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en
+matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral - RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition
+complète (art. 100
+al. 1 LTF).
+L
+a
+greffi
+ère
+:
