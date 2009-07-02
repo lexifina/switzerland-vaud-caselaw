@@ -1,0 +1,165 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___54"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 54"
+decided: "2009-07-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1442500"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-556.md", "switzerland/bund/acts/210/art-566.md", "switzerland/bund/acts/830.1/art-057.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2009 / 54
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 566 CC, 260 LP, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 02.07.2009 Décision / 2009 / 54
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE | 566 CC, 260 LP, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+PC 27/06 - 15/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 2 juillet
+2009
+____________________
+Présidence
+de   M.
+DIND
+,
+juge unique
+Greffier
+:
+M.
+Cuérel
+*****
+Cause pendante entre
+:
+Masse en faillite de la
+succession répudiée de feue
+M.________
+, de son
+vivant à Eclépens, recourante,
+et
+Caisse cantonale vaudoise de
+compensation AVS
+(ci-après : la
+Caisse), à Clarens, intimée.
+_______________
+Art. 566 ss CC ; 260
+LP ; 94 al. 1 let. c LPA-VD
+Vu la décision sur opposition rendue le 25 juillet 2006 par
+la Caisse cantonale vaudoise de compensation AVS à l'endroit
+de M.________, rejetant l'opposition formée par cette
+dernière contre la décision du 7 avril 2006 en
+matière de prestations complémentaires de
+l'assurance-vieillesse et survivants ainsi que de
+l'assurance-invalidité,
+vu le recours formé contre cette décision par
+l'assurée le 25 août 2006 auprès du Tribunal
+des assurances,
+vu le décès de la recourante, survenu le 10 janvier
+2008,
+vu la liquidation par voie de faillite de la succession
+répudiée de la recourante, ordonnée par
+jugement du 22 avril 2008 du Président du Tribunal
+d'arrondissement de La Côte,
+vu la suspension de la cause ordonnée par le juge
+instructeur,
+vu le courrier du 11 juin 2009 du préposé de l'Office
+des faillites de Cossonay (ci-après : l'office)
+informant la Cour des assurances sociales du Tribunal cantonal
+qu'aucun créancier n'a requis la cession des droits de la
+masse au sens de l'article 260 LP et que l'administration de la
+faillite n'entend pas reprendre la procédure en
+cours,
+vu la réquisition formulée par l'office dans ce
+même courrier, tendant à ce que la cause soit
+rayée du rôle en ce qui concerne la succession
+répudiée de M.________,
+vu les déterminations de l'intimée du 30 juin 2009,
+dans lesquelles cette dernière propose également de
+rayer la cause du rôle ;
+attendu que la loi cantonale vaudoise du 28 octobre
+2008 sur la procédure administrative (LPA-VD, RSV 173.36),
+entrée en vigueur le 1
+er
+janvier 2009 et qui
+s'applique aux recours et contestations par voie d'action dans le
+domaine des assurances sociales (art. 2 al. 1 let. c LPA-VD), est
+immédiatement applicable dans la présente cause (art.
+117 al. 1 LPA-VD),
+que la Cour des assurances sociales du Tribunal cantonal, qui
+succède au Tribunal des assurances, est compétente
+pour statuer (art. 57 LPGA [loi fédérale sur la
+partie générale du droit des assurances sociales du 6
+octobre 2000, RS 830.1] et art. 93 al. 1 let. a LPA-VD),
+que le recours formé par M.________ l'a été en
+temps utile (art. 60 al. 1 LPGA) et est également recevable
+en la forme (art. 61 let. b LPGA) ;
+attendu que la recourante est décédée le
+10 janvier 2008
+,
+que tous ses héritiers ont répudié la
+succession (art. 556 ss CC [code civil suisse du 10 décembre
+1907, RS 210]),
+que la liquidation par voie de faillite de ladite succession a
+été ordonnée par jugement du
+22 avril 2008
+,
+que la masse a renoncé à poursuivre le procès
+en cours et qu'aucun créancier n'a demandé la cession
+du droit de conduire le procès (260 LP [loi
+fédérale du 11 avril 1889 sur la poursuite pour
+dettes et la faillite, RS 281.1),
+que, cela étant, la procédure ne peut plus être
+poursuivie en tant qu'elle concerne la masse en faillite de la
+succession répudiée,
+que la cause, devenue sans objet, doit donc être rayée
+du rôle, sans frais ni dépens ;
+attendu que la présente décision relève de la
+compétence du juge instructeur statuant comme juge unique
+(art. 94 al. 1 let. c LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause, devenue sans objet, est
+rayée du rôle.
+II.
+Il n'est pas perçu de frais ni
+alloué de dépens.
+Le juge
+unique :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑      Masse en faillite
+de la succession répudiée de feue
+M.________
+‑      Caisse
+cantonale vaudoise de compensation AVS
+-      Office
+fédéral des assurances sociales
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier :
