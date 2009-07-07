@@ -1,0 +1,184 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___50"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 50"
+decided: "2009-07-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1433704"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/831.20/art-028.md"]
+---
+
+# VD Findinfo Décision / 2009 / 50
+
+## Regeste
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 07.07.2009 Décision / 2009 / 50
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+AI 497/08 -
+211/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 7 juillet
+2009
+____________________
+Présidence
+de   M.
+Neu
+,
+juge unique
+Greffier
+:
+M.
+Cuérel
+*****
+Cause pendante entre
+:
+S.________
+, à Prilly, recourant,
+et
+Office de
+l'assurance-invalidité pour le canton de Vaud
+(ci-après : OAI), à Vevey,
+intimé,
+_______________
+Art. 94 al. 1 let. c
+LPA-VD
+Vu
+la décision rendue par l'OAI
+le 8 septembre 2008 à l'endroit de S.________, refusant
+à ce dernier le droit à des prestations de
+l'assurance-invalidité,
+vu le recours formé le 4 octobre 2008 par le
+prénommé à l'encontre de cette
+décision,
+vu la réponse déposée le 25 novembre 2008 par
+l'intimé, dans laquelle ce dernier conclut au rejet du
+recours,
+vu l'expertise psychiatrique mise en œuvre par le juge
+instructeur, selon avis 10 décembre 2008,
+vu le rapport d'expertise déposé le 7 mai 2009 par le
+Dr B.________, spécialiste FMH en psychiatrie et
+psychothérapie, dans lequel ce dernier pose les diagnostics
+de trouble panique avec agoraphobie, de trouble dépressif
+majeur ainsi que de trouble délirant de type somatique, et
+reconnaît une incapacité de travail de 80% à
+compter du 1
+er
+septembre 2007,
+vu le courrier adressé le 10 juin 2009 par l'OAI au juge
+instructeur, dont la teneur est la suivante :
+"[…] Nous avons pris connaissance
+de l'expertise du Dr B.________ du 7 mai 2009 et vous informons que
+nous n'avons aucune raison de nous écarter de ses
+conclusions.
+Il convient, par conséquent, de
+retenir une incapacité de travail de 80% dans toute
+activité à compter du 1
+er
+septembre
+2007.
+En application de l'art. 28 al. 1 lit. b
+LAI, le droit à la rente prend naissance à
+l'échéance du délai d'attente d'une
+année, soit en l'espèce le 1
+er
+septembre
+2008.
+Nous préavisons dès lors
+pour l'admission du recours dans le sens de l'octroi d'une rente
+entière (taux d'invalidité de 80%) dès le
+1
+er
+septembre 2008.
+Par ailleurs, nous attirons votre
+attention sur la teneur de l'art. 53 al. 3 LPGA, disposition selon
+laquelle l'assureur peut reconsidérer une décision ou
+une décision sur opposition contre laquelle un recours a
+été formé, jusqu'à l'envoi de son
+préavis à l'autorité de recours.
+En l'espèce, notre préavis
+vous a été envoyé le 25 novembre 2008. Il ne
+nous est dès lors plus possible, à ce stade de la
+procédure, de reconsidérer notre décision en
+application de l'art. 53 al. 3 LPGA.
+Il convient donc de considérer le
+présent courrier comme une proposition d'admission du
+recours, et non comme une nouvelle décision.
+[…]"
+vu la déclaration de retrait du recours envoyée par
+le recourant le 30 juin 2009, rédigée en ces termes
+:
+"[…] J'accepte la proposition de
+l'OAI du 10 juin 2009 et je retire par conséquent mon
+recours du 4 octobre 2008 pour mettre fin à la
+procédure suite à l'entretien
+téléphonique du 30 juin 2009 avec la
+secrétaire du tribunal qui m'a aimablement fournit [sic] des
+renseignements. […]" ;
+considérant
+qu'il y a lieu de rayer la cause du
+rôle par suite de retrait du recours, lequel est intervenu
+ensuite de la reconnaissance par l'intimé du droit du
+recourant à une rente entière d'invalidité
+dès le 1
+er
+septembre 2008, fondée sur un
+taux d'invalidité de 80%,
+que la présente décision relève de la
+compétence du juge unique (art. 94 al. 1 let. c LPA-VD [loi
+vaudoise du 28 octobre 2008 sur la procédure administrative,
+RSV 173.36]),
+qu'il n'y a pas lieu de percevoir des frais de justice, ni
+d'allouer de dépens.
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle
+par suite de retrait du recours, intervenu après que l'OAI a
+reconnu à S.________, par acte du 10 juin 2009, le droit
+à une rente entière d'invalidité dès le
+1
+er
+septembre 2008.
+II.
+Il n'est pas perçu de frais
+judiciaires, ni n'est alloué de dépens.
+Le juge
+unique :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑      S.________,
+à Prilly
+‑      Office de
+l'assurance-invalidité pour le canton de Vaud, à
+Vevey
+-      Office
+fédéral des assurances sociales, à
+Berne
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral, RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier :
