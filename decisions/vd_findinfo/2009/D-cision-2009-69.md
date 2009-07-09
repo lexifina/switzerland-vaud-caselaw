@@ -1,0 +1,195 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___69"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 69"
+decided: "2009-07-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1459588"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2009 / 69
+
+## Regeste
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 09.07.2009 Décision / 2009 / 69
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+AM 17/09 - 31/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 9 juillet
+2009
+____________________
+Présidence
+de   M.
+Abrecht
+,
+juge unique
+Greffier
+:
+M.
+Cuérel
+*****
+Cause pendante entre
+:
+G.________
+, à Lausanne, recourant, assisté de Me
+Gilles-Antoine Hofstetter, avocat à Lausanne
+et
+Visana
+,
+à Lausanne, intimée.
+_______________
+Art. 94 al. 1 let. c
+LPA-VD
+E n  f a i t  :
+A.
+G.________, né le 24 avril 1929
+(ci-après: l'assuré), souffrant d'un cancer de la
+gorge, a subi en 2001 une intervention chirurgicale ORL
+invalidante, suivie d'une réhabilitation prothétique.
+Le 17 juin 2005, il a adressé à son assureur-maladie,
+Visana, un devis de 4'545 fr. 40 portant sur le traitement
+dentaire. L'assureur a refusé la prise en charge, au motif
+que le traitement envisagé n'était plus en relation
+de causalité avec la maladie de 2001. Il y a eu de nombreux
+échanges de correspondances et l'assuré s'est plaint
+de ce que la décision formelle tardait à
+venir.
+B.
+a)
+Par décision du 5 mai 2008,
+Visana a refusé de prendre en charge la confection de
+nouvelles prothèses supérieure et inférieure
+ainsi que les traitements dentaires conservateurs effectués
+auprès de la policlinique dentaire du Centre hospitalier
+J.________ (ci-après : Policlinique Z.________) faisant
+l'objet du devis de 4'545 fr. 40.
+b)
+Le 19 mai 2008, l'assuré a fait opposition
+à cette décision, en invitant Visana à prendre
+en charge le solde de la facture de la Policlinique Z.________ du
+19 février 2007, soit 4'628 fr. 90, auquel s'ajoutait un
+montant de 381 francs 95 concernant un rebasage.
+Le 20 mai 2008, le Dr W.________ a établi un rapport dans
+lequel il met en doute l'avis du médecin-conseil de Visana
+et préconise de mettre sur pied une expertise
+indépendante. L'assuré a adressé ce rapport
+à Visana et l'a interpellée sur la suggestion de
+mettre sur pied une expertise auprès du Prof. R.________.
+Visana a ensuite temporisé.
+C.
+a)
+Le 9 mars 2009, l'assuré a
+saisi la Cour des assurances sociales d'un recours pour déni
+de justice dirigé contre Visana. A l'appui de ce recours, il
+invoque un déni de justice formel, ainsi que l'arbitraire
+à refuser la prise en charge des soins. A titre de mesures
+d'instruction, il maintient sa requête tendant à la
+mise sur pied d'une expertise ayant pour objet de déterminer
+si les traitements conservateurs consécutifs aux traitements
+oncologiques prodigués au recourant justifient une prise en
+charge de l'assurance obligatoire des soins. II conclut
+principalement à ce que la décision du 5 mai 2008
+soit réformée en ce sens que Visana est tenue de
+prendre en charge la confection de nouvelles prothèses
+supérieure et inférieure, ainsi que l'ensemble des
+traitements dentaires du recourant effectués auprès
+de la Policlinique Z.________ notamment. Subsidiairement, il
+conclut au renvoi du dossier à Visana pour nouvelle
+instruction et/ou décision.
+b)
+Après plusieurs prolongations du délai
+imparti pour déposer sa réponse au recours, Visana a
+adressé, le 26 juin 2009, à la Cour des assurances
+sociales une copie d'une lettre du conseil du recourant du 20 mai
+2009, proposant une transaction consistant en le versement d'un
+montant total de 5'024 fr. 10, sans intérêts, ainsi
+que d'un montant de 2'000 fr. à titre de participation aux
+honoraires d'avocat. Elle a également adressé
+à la Cour une copie d'une lettre qu'elle avait
+envoyée le 26 juin 2009 au conseil du recourant, par
+laquelle elle déclarait qu'elle acceptait la proposition
+transactionnelle formulée dans la lettre du 20 mai 2009 et
+qu'elle verserait prochainement les montants en
+question.
+c)
+Invité à déposer ses
+éventuelles déterminations sur l'écriture de
+Visana du 26 juin 2009 ou à retirer son recours, le
+recourant a, par courrier du 8 juillet 2009, informé le juge
+instructeur que compte tenu de l'accord conclu entre les parties,
+le recours était devenu sans objet et qu'il le
+retirait.
+E n  d r o i t  :
+1.
+La loi cantonale vaudoise du 28 octobre 2008 sur la
+procédure administrative (LPA-VD, RSV 173.36), entrée
+en vigueur le 1
+er
+janvier 2009, s'applique aux recours
+et contestations par voie d'action dans le domaine des assurances.
+sociales (art. 2 al. 1 let. c LPA-VD). La cour des assurances
+sociales du Tribunal cantonal est compétente pour statuer
+dans ce domaine (art. 93 aI. 1 let. a LPA-VD).
+Un membre du Tribunal cantonal statue en tant que juge unique
+lorsqu'il s'agit de rayer la cause du rôle (art. 94 al. 1
+let. c LPA).
+2.
+En l'espèce, le recourant a déclaré, ensuite
+de la transaction extrajudiciaire intervenue avec l'intimée,
+retirer le recours qu'il avait interjeté le 9 mars 2009, de
+sorte qu'il convient de rayer la cause du rôle par suite de
+ce retrait.
+Il n'y a pas lieu de percevoir de frais de justice (art. 61 let. a
+LPGA [loi fédérale du 6 octobre 2000 sur la partie
+générale du droit des assurances sociales, RS 830.1])
+ni d'allouer de dépens, cette dernière question ayant
+été réglée
+transactionnellement.
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle
+par suite de retrait du recours.
+II.
+Il n'est pas perçu de frais
+judiciaires ni alloué de dépens.
+Le juge
+unique :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑      G.________,
+à Lausanne
+‑      Visana,
+à Lausanne
+-      Office
+fédéral de la santé publique, à
+Berne
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier :
