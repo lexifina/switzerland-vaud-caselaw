@@ -1,0 +1,424 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2009___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2009 / 8"
+decided: "2009-07-16"
+published: "2009-10-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1537184"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-036.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-237.md"]
+---
+
+# VD Findinfo Jug-inc / 2009 / 8
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, DÉCISION INCIDENTE, EXPERTISE PRÉSENTÉE PAR UNE PARTIE, EXPERTISE JURIDIQUE | 149 al. 4 CPC, 153 CPC, 154 CPC, 237 al. 2 CPC, 29 al. 2 Cst.
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 09.10.2009 Jug-inc / 2009 / 8
+
+DROIT D'ÊTRE ENTENDU, DÉCISION INCIDENTE, EXPERTISE PRÉSENTÉE PAR UNE PARTIE, EXPERTISE JURIDIQUE | 149 al. 4 CPC, 153 CPC, 154 CPC, 237 al. 2 CPC, 29 al. 2 Cst.
+
+TRIBUNAL CANTONAL
+CO05.032624
+145/2009/PHC
+COUR
+CIVILE
+_________________
+Jugement incident
+dans la cause divisant
+S.________
+, à
+Lausanne,
+d'avec
+N.________
+SA
+, à Zurich
+.
+___________________________________________________________________
+Du 16 juillet 2009
+____
+__________
+Présidence
+de   M.
+Hack
+,
+juge instructeur
+Greffi
+ère
+:
+Mme   Schwab
+*****
+Statuant immédiatement à huis clos, le juge
+instructeur considère :
+En fait et en droit :
+Vu le procès introduit devant la Cour civile
+par la demanderesse S.________ contre la défenderesse
+N.________ SA, selon demande du 20 octobre 2005, dont les
+conclusions sont les suivantes, avec
+dépens :
+"I.-   La défenderesse, N.________ SA, lui
+doit :
+-      fr. 50'000.- (cinquante mille
+francs) plus intérêt à 5% l'an dès le 28
+août 1988,
+-      fr. 2'302'336.- (deux millions
+trois cent deux mille trois cent trente-six francs) plus
+intérêt à 5% l'an dès ce
+jour,
+-      fr. 135'929.- (cent trente-cinq
+mille neuf cent vingt-neuf francs) plus intérêt
+à 5% l'an dès le 1
+er
+septembre
+2008 ;
+le tout sous déduction de fr. 350'000.- (trois cent
+cinquante mille francs) et de l'intérêt y
+afférent à 5% l'an dès le 28 juillet
+2004.",
+vu la réponse déposée le 14 février
+2006 par la défenderesse, laquelle a conclu, avec suite de
+frais et dépens, au rejet des conclusions de la
+demanderesse,
+vu l'échange complet des écritures auquel les parties
+ont procédé,
+vu l'avis du 23 février 2009, par lequel le juge instructeur
+a imparti aux parties un délai échéant au 18
+mai 2009 pour déposer un mémoire au sens de
+l'art. 317a CPC,
+vu la requête incidente de réforme
+déposée le 13 mai 2009, par laquelle la demanderesse
+au fond et requérante S.________ a sollicité, avec
+suite de frais et dépens, l'autorisation de se
+réformer pour introduire les allégués 209
+à 230 figurant dans sa requête,
+vu l'avis du 4 juin 2009, par lequel le juge instructeur a
+notifié dite requête à la défenderesse
+au fond et intimée N.________ SA et lui a imparti un
+délai au 19 juin 2009 pour faire la déclaration
+prévue à l'art. 148 CPC ou indiquer les mesures
+d'instruction demandées, dit avis valant également
+interpellation au sens de l'art. 149 al. 4 CPC pour toutes les
+parties,
+vu le courrier du 8 juin 2009 de l'intimée, laquelle s'est
+opposée à la requête incidente de
+réforme du 13 mai 2009 et a requis la fixation d'un
+délai pour déposer sa détermination,
+conformément à l'art. 149 al. 4 CPC,
+vu la lettre du 17 juin 2009, par laquelle la requérante a
+renoncé dans un premier temps à la tenue d'une
+audience, partant de l'idée que l'art. 149 al. 4 CPC serait
+appliqué, et a renoncé à déposer un
+mémoire supplémentaire, se réservant toutefois
+de demander la tenue d'une audience incidente si le mémoire
+de l'intimée devait contenir des éléments
+nouveaux,
+vu l'avis du 19 juin 2009 du juge instructeur, impartissant
+à l'intimée un délai pour déposer un
+mémoire incident,
+vu le mémoire incident déposé le 16 juin 2009
+par l'intimée, laquelle a conclu, avec suite de
+dépens, au rejet de la requête de réforme du 13
+mai 2009,
+vu la lettre du 2 juillet 2009, par laquelle la requérante a
+requis, après avoir pris connaissance du mémoire de
+l'intimée du 16 juin 2009, la fixation d'une audience
+incidente,
+vu l'avis du juge instructeur du 7 juillet 2009 impartissant
+à la requérante un délai au 13 juillet
+2009 pour préciser les raisons rendant nécessaire la
+tenue d'une audience,
+vu le courrier du 8 juillet 2009 de la requérante, laquelle
+a requis la tenue d'une audience, qui aurait pour but de plaider le
+droit, ou, à défaut, demandé que lui soit
+fixé un délai pour déposer un mémoire
+de droit se limitant aux arguments développés par
+l'intimée,
+vu l'avis du juge instructeur du 13 juillet 2009 adressé
+à la requérante, dont la teneur est la
+suivante :
+"(…)
+Après déterminations des parties, il a
+été décidé de remplacer l'audience par
+un échange de mémoires. Dès lors que la
+requérante avait renoncé à déposer un
+mémoire, se référant aux arguments
+développés dans sa requête, il a
+été fixé un délai uniquement à
+l'intimée.
+Il est exact que vous vous étiez réservé dans
+votre écriture du 17 juin 2009 de requérir la tenue
+d'une audience, tout en partant de l'idée qu'il serait fait
+application de l'article 149 alinéa 4 CPC.
+Dans la mesure où l'audience requise n'aurait pour objet que
+de plaider le droit, le fait pour la requérante d'admettre
+l'application de l'article 149 alinéa 4 CPC, de renoncer
+à déposer un mémoire puis de demander une
+audience revient uniquement à échanger l'ordre dans
+lequel les parties doivent faire valoir leurs moyens.
+Au vu de ce qui précède, je ne peux faire droit
+à la réquisition tendant à la fixation d'une
+audience.
+(…)"
+vu les autres pièces du dossier,
+vu les art. 19, 146 ss, 153 à 157, 317a et 317b CPC
+(Code de procédure
+civile du 14 décembre 1996, RSV 270.11),
+attendu qu'aux termes de l'art. 153 al. 1
+CPC, la partie qui désire obtenir la restitution d'un
+délai, corriger ou compléter sa procédure,
+peut, jusqu'à l'expiration du délai fixé pour
+le dépôt des mémoires de droit, voire
+jusqu'à la clôture de l'audience de jugement (art.
+317a et 317b CPC), demander l'autorisation de se réformer,
+sous réserve de l'art. 36 CPC (restitution d'un
+délai),
+qu'en l'espèce, déposée dans le délai
+fixé par le juge instructeur pour la production des
+mémoires de droit, la requête de réforme est
+intervenue en temps utile;
+attendu qu'aux termes de l'art. 154 CPC, la demande de
+réforme indique les motifs et l'étendue de la
+réforme demandée (al. 1) et est instruite et
+jugée en la forme incidente (al. 2),
+qu'elle doit exposer les opérations nouvelles que la partie
+requérante se propose de faire dans le délai dont
+elle demande la restitution et les points sur lesquels celle-ci
+entend corriger ou compléter sa procédure, en
+particulier les faits qu'elle veut alléguer, les preuves
+qu'elle entend administrer et l'énumération des
+pièces dont elle requiert la production
+(Poudret/Haldy/Tappy, Procédure civile
+vaudoise, 3
+ème
+éd., n. 1 ad art. 154 CPC
+et les réf. citées),
+qu'en l'espèce, la requérante allègue les
+faits nouveaux qu'elle souhaite introduire en procédure,
+accompagnés des offres de preuves susceptibles de les
+prouver,
+qu'au surplus, sa requête est conforme aux exigences des art.
+19 et 147 al. 1 CPC (applicables en vertu du renvoi de l'art. 154
+al. 2 CPC),
+que la requête de réforme est dès lors
+recevable;
+attendu qu'ayant renoncé dans un premier temps à
+déposer un mémoire dans la procédure
+incidente, la requérante a requis, après le
+dépôt du mémoire de l'intimée, la tenue
+d'une audience, ou à défaut qu'un délai lui
+soit fixé pour déposer un mémoire,
+qu'en procédure de réforme l'art. 149 al. 4 CPC
+prévoit qu'après interpellation des parties, le juge
+peut remplacer l'audience par un échange d'écritures
+unique et à bref délai,
+que l'échange d'écritures prévu par cette
+disposition ne remplace pas les plaidoiries, mais l'audience
+elle-même et qu'il doit par conséquent être
+décidé avant celle-ci (Poudret/Haldy/Tappy, op. cit.,
+note ad art. 149 CPC; BGC 1996, p. 718),
+qu'au demeurant, le juge peut remplacer l'audience par un
+échange d'écritures unique, même sans l'accord
+des parties (Poudret/Haldy/Tappy, op. cit., note ad art. 149
+CPC),
+que selon la jurisprudence fédérale, en vertu du
+droit d'être entendu garanti par l'art. 29 al. 2 Cst., une
+partie a le droit de se déterminer spontanément sur
+les arguments de la partie adverse pour autant que le juge n'ait
+pas clôturé l'échange d'écritures,
+que toutefois, si le droit de procédure applicable
+prévoit qu'il n'y a en principe qu'un seul échange
+d'écritures, l'autorité peut se limiter, dans un
+premier temps, à communiquer la prise de position à
+titre d'information, sans avis formel de la possibilité de
+répliquer (arrêt du TF 2D_130/2008 du 13
+février 2009, consid. 3.1 et la jurisprudence citée;
+arrêt TF 1P.443/2006 du 19 janvier 2007, consid. 2.3),
+qu'en l'espèce, la requérante a renoncé
+à déposer un mémoire lorsqu'elle en avait la
+possibilité en vertu de l'art. 149 al. 4 CPC,
+qu'il lui était cependant loisible de se déterminer
+spontanément sur les arguments développés par
+l'intimée dans son mémoire du 16 juin 2009,
+qu'en vertu du droit d'être entendu, une telle
+détermination n'aurait pas été
+écartée,
+que, conformément à la jurisprudence
+fédérale, cela n'impliquait cependant pas le droit
+pour la requérante qu'on lui impartisse un délai pour
+déposer un mémoire, ni que l'on fixe une
+audience,
+que le droit cantonal de procédure ne permet pas au
+requérant de renoncer à déposer un
+mémoire, puis à requérir qu'on lui fixe un
+délai pour ce faire ou que l'on fixe une audience de
+plaidoirie, en fonction des arguments que fait valoir
+l'intimé;
+attendu que la réforme n'est accordée
+que si le requérant y a un intérêt réel
+(art. 153 al. 2 CPC),
+que cet intérêt à la réforme doit
+être démontré par le requérant et
+apprécié au regard de l'ensemble des circonstances,
+notamment de la pertinence du fait allégué, de sa
+vraisemblance, de la force de la preuve offerte et de la
+durée probable de la procédure consécutive
+à la réforme (
+JT 1979 III
+126;
+Poudret/Haldy/Tappy, op. cit., n. 4 et 7 ad art. 153
+CPC et les réf. citées),
+que, si les faits invoqués à l'appui de la
+requête de réforme sont dénués de
+pertinence ou déjà invoqués sous une autre
+forme en procédure, celle-là devra être
+refusée (JT 2003 III 114 c. 4; Poudret/Haldy/Tappy, op.
+cit., n. 7 ad art. 153 CPC),
+que la pertinence des faits allégués (art. 163 al. 2
+CPC) et la nécessité des preuves offertes (art. 5 al.
+2 CPC) doivent être appréciées plus strictement
+que dans l'ordonnance sur preuves (JT 1988 III 70 c. 4),
+qu'en revanche, le droit à la réforme n'est pas
+subordonné à l'absence de faute d'une partie, car il
+a été précisément institué pour
+permettre au plaideur négligent de rattraper un délai
+ou rectifier une erreur, le jugement reposant ainsi sur un
+état de fait complet et autant que possible conforme
+à la réalité (BGC automne 1966, p. 719);
+attendu qu'en l'espèce, la requérante sollicite
+l'autorisation d'introduire en procédure de nouveaux
+allégués qu'elle a assortis des numéros
+d'ordre 209 à 230,
+que la plupart d'entre eux ont toutefois déjà
+été invoqués en procédure,
+qu'ainsi, les allégués 210 à 217, 221 et 226
+n'énoncent aucun fait nouveau,
+que leur contenu de fait ressort en effet de l'expertise judiciaire
+du Dr Dominic Vaucher et/ou de son complément,
+que, pour le surplus, ces allégués consistent dans
+des appréciations de ladite expertise,
+que la requête doit donc être rejetée sur ce
+point;
+attendu que les allégués 209, 218 à 220, 222
+à 225 et 227 à 230 ont trait à une expertise
+privée à laquelle la requérante a fait
+procéder,
+qu'à l'appui de ces allégués, la
+requérante a produit un rapport d'expertise privée
+établi par le Dr [...] et un bilan d'ergothérapie de
+[...],
+qu'il ressort de la preuve offerte aux allégués 229
+et 230 que la requérante veut faire confirmer l'expertise
+privée par une nouvelle expertise,
+que les faits allégués sous numéros d'ordre
+209, 218 à 220, 222 à 225 et 227 à 230 ont en
+réalité déjà été
+allégués sous une forme ou une autre dans la
+procédure au fond,
+qu'ils portent en effet sur les lombalgies dont souffre la
+requérante, sur son handicap dans son activité
+d'enseignante et sur le dommage ménager qu'elle subit,
+qu'au surplus, l'allégué 230 porte sur les migraines
+de la requérante, les opérations subies et à
+la médication prise, l'expert judiciaire s'étant
+prononcé sur ces questions,
+qu'en réalité, la requérante souhaite
+déposer une expertise privée et, surtout, faire
+mettre en œuvre une nouvelle expertise portant sur le
+même objet que l'expertise judiciaire réalisée
+par le Dr Dominic Vaucher,
+que la voie de la réforme ne doit pas être un moyen
+détourné d'obtenir une seconde expertise que l'on n'a
+pas requise dans le délai de l'art. 237 al. 2 CPC (JI-Cciv,
+G. S. c. G. SA, R. L. et S. G., du 24 décembre 1996, consid.
+IV; JI-Cciv, R. B. c. B. A., du 27 avril 2007, n°
+101),
+que la requérante n'a pas remis en cause l'expertise
+judiciaire dans le délai imparti lors du dépôt
+du rapport d'expertise ni du rapport complémentaire,
+que les allégués que la requérante entend
+introduire par le biais de la réforme ne peuvent dès
+lors être admis, dans la mesure où ils tendent
+à la mise en œuvre d'une seconde expertise,
+que la requérante n'a donc établi aucun
+intérêt légitime à l'introduction des
+allégués 209 à 230,
+que sa requête de réforme doit donc être
+également rejetée sur ce point;
+attendu que les frais de la procédure incidente sont
+fixés à 900 fr. à la charge de la
+requérante (art. 4 al. 1 et 170a al. 1
+TFJC,
+tarif du 4 décembre 1984 des frais judiciaires en
+matière civile, RSV 270.11.5);
+attendu que le juge statue librement sur l'adjudication des
+dépens de l'incident soulevés par la requête de
+réforme (art. 156 al. 3 CPC),
+que la partie qui obtient l'adjudication de ses conclusions a droit
+à des dépens (art. 92 al. 1 et 150 al. 2
+CPC),
+que ceux-ci comprennent principalement les frais de justice
+payés par la partie, les honoraires et les débours de
+son avocat (art. 91 let. a et c CPC),
+que les honoraires d'avocats sont fixés selon le tarif du 17
+juin 1986 des honoraires d'avocat dus à titre de
+dépens (TAv, RSV 177.11.3),
+qu'en l'espèce, la requête étant
+rejetée, les frais sont entièrement mis à la
+charge de la requérante S.________,
+que l'intimée N.________ SA s'est opposée à la
+réforme,
+que, celle-ci ayant été rejetée,
+l'intimée a gain de cause et a droit à des
+dépens,
+qu'il convient en définitive d'arrêter à 1'500
+fr. les dépens que la requérante versera à
+l'intimée (art. 2 al. 1
+ch. 11 et 4 al. 2
+TAv).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme
+déposée le 13 mai 2009 par la requérante
+S.________ est rejetée.
+II.
+Les frais de la procédure
+incidente sont arrêtés à 900 fr. (neuf cents
+francs) à la charge de la requérante.
+III.
+La requérante versera à
+l'intimée N.________ SA, le montant de 1'500 fr. (mille cinq
+cents francs) à titre de dépens de
+l'incident.
+Le juge
+instructeur :
+La greffière :
+P. Hack
+F. Schwab
+Du
+Le jugement qui précède, lu et
+approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l'envoi de photocopies, aux conseils des
+parties.
+Les parties peuvent recourir au Président du Tribunal
+cantonal au sujet du montant des dépens de la
+procédure incidente dans les dix jours dès la
+notification du présent jugement en déposant au
+greffe de la Cour civile un acte de recours en deux exemplaires
+désignant le jugement attaqué et contenant leurs
+conclusions en réforme ou, à défaut, indiquant
+sur quels points le jugement est attaqué et quelle est la
+modification demandée.
+La greffière :
+F. Schwab
