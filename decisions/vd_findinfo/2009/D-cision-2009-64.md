@@ -1,0 +1,176 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___64"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 64"
+decided: "2009-07-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1444152"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-060.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2009 / 64
+
+## Regeste
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 61 let. b LPGA, 27 al. 5 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 17.07.2009 Décision / 2009 / 64
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 61 let. b LPGA, 27 al. 5 LPA-VD
+
+TRIBUNAL CANTONAL
+ACH 45/09 - 63/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 17 juillet
+2009
+_______________________
+Présidence
+de   M.
+Neu
+,
+juge unique
+Greffier
+:
+M.        Bichsel
+*****
+Cause pendante entre
+:
+K.________
+, à Vevey, recourant,
+et
+Service de
+l'emploi
+, à Lausanne,
+intimé.
+_______________
+Art. 61 let. b LPGA et 27
+al. 5 LPA-VD
+Vu
+la décision sur opposition
+rendue le 19 mai 2009 par le Service de l'emploi, confirmant une
+précédente décision de l'Office
+régional de placement (ORP) de Vevey du 10 février
+2009, en ce sens que K.________ était réputé
+inapte au placement à compter du 2 février
+2009,
+vu l'écriture adressée le 2 juin 2009 à
+l'autorité de céans par K.________, à laquelle
+était annexée la décision sur opposition
+mentionnée ci-dessus, et dont la teneur est la
+suivante:
+"Je me
+réfère aux divers courriers ainsi qu'à la
+décision reçue suite à ma
+négligence dont je me suis néanmoins
+excusé.
+A savoir, je n'ai jamais revendiqué
+l'indemnité de chômage depuis le 5 décembre
+2008 et je suis surpris que cette affaire ait pris une ampleur
+pareille.
+Je serai attentif à vos demandes si
+j'étais amené à me représenter dans les
+bureaux de l'ORP.",
+vu la correspondance du 9 juin 2009, par laquelle le magistrat
+instructeur a rendu K.________ attentif au fait qu'il ne ressortait
+pas clairement de son courrier qu'il recourait contre la
+décision sur opposition en cause, et lui a imparti un
+délai au 19 juin 2009 pour indiquer s'il formait
+effectivement recours, le cas échéant pour
+préciser ses motifs et conclusions, en l'avertissant
+qu'à défaut de réponse suffisamment claire de
+sa part dans le délai imparti, il ne serait pas entré
+en matière sur son recours, qui serait écarté
+préjudiciellement,
+vu l'absence de réponse de la part de K.________ dans le
+délai imparti;
+considérant
+que le Tribunal de céans est
+compétent à raison de la matière et du lieu
+(art. 93 let. a LPA-VD [loi cantonale vaudoise du 28 octobre 2008
+sur la procédure administrative, RSV 173.36]);
+considérant qu'aux termes de l'art. 61 let. b LPGA (loi
+fédérale du 6 octobre 2000 sur la partie
+générale du droit des assurances sociales, RS 830.1),
+l'acte de recours doit contenir un exposé succinct des faits
+et des motifs invoqués, ainsi que les conclusions; si l'acte
+n'est pas conforme à ces règles, le tribunal impartit
+un délai convenable au recourant pour combler les lacunes,
+en l'avertissant qu'en cas d'inobservation le recours sera
+écarté,
+que l'exigence de motivation résulte également, en
+droit cantonal de procédure administrative, de l'art. 79 al.
+1, 1
+ère
+phrase, LPA-VD, applicable par renvoi de
+l'art. 99 LPA-VD,
+qu'à teneur de l'art. 27 al. 5 LPA-VD, les écrits
+dont les vices ne sont pas corrigés dans le délai
+imparti à cet effet par l'autorité sont
+réputés retirés;
+considérant qu'en l'espèce, l'écriture
+déposée le 2 juin 2009 par K.________ ne
+répond manifestement pas aux exigences de motivation des
+art. 61 let. b LPGA et 79 al. 1, 1
+ère
+phrase,
+LPA-VD, dans la mesure où elle ne contient notamment ni
+moyens ni conclusions clairs,
+que l'intéressé a bénéficié d'un
+délai de 10 jours pour compléter dite
+écriture, et a été informé des
+conséquences d'une absence de réponse,
+qu'il n'a pas répondu dans le délai
+imparti,
+que l'exigence de motivation, selon les art. 61 let. b LPGA et 27
+al. 5 LPA-VD précités, est une condition de
+recevabilité du recours,
+que le présent recours est en conséquence
+irrecevable;
+considérant que le magistrat instructeur, statuant comme
+juge unique, est compétent pour rendre le prononcé
+d'irrecevabilité (cf. art. 94 al. 1 let c LPA-VD, l'art. 27
+al. 5 LPA-VD assimilant un tel prononcé à une
+radiation de la cause du rôle par suite de retrait de
+recours);
+considérant que la procédure est gratuite pour les
+parties (art. 60 let. a LPGA),
+qu'il n'y pas lieu d'allouer des dépens (cf. art. 55
+LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le recours est irrecevable.
+II.
+La
+présente décision est rendue sans frais, ni
+allocation de dépens
+.
+Le juge
+unique :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑      K.________,
+à 1800 Vevey;
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi
+fédérale du 17 juin 2005 sur le Tribunal
+fédéral, RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le
+Tribunal fédéral (Schweizerhofquai 6, 6004 Lucerne)
+dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Le greffier :
