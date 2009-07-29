@@ -1,0 +1,217 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___75"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 75"
+decided: "2009-07-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1453930"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/281.1/art-250.md", "switzerland/bund/acts/830.1/art-052.md", "switzerland/bund/acts/832.10/art-001.md", "switzerland/bund/acts/832.10/art-001a.md"]
+---
+
+# VD Findinfo Décision / 2009 / 75
+
+## Regeste
+
+COMPÉTENCE RATIONE MATERIAE, AUTORITÉ JUDICIAIRE{TRIBUNAL} | 250 LP, 7 al. 1 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 29.07.2009 Décision / 2009 / 75
+
+COMPÉTENCE RATIONE MATERIAE, AUTORITÉ JUDICIAIRE{TRIBUNAL} | 250 LP, 7 al. 1 LPA-VD
+
+TRIBUNAL CANTONAL
+AM 34/09 - 34/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 29 juillet
+2009
+_______________________
+Présidence
+de   M.
+Jomini
+,
+juge unique
+Greffier
+:
+M.        Bichsel
+*****
+Cause pendante entre
+:
+Fédération vaudoise
+des entrepreneurs
+, à Tolochenaz,
+demanderesse,
+et
+MASSE EN FAILLITE DE
+G.________
+SA, p.a. Office des faillites de l'arrondissement
+de Lausanne, à Lausanne, défenderesse,
+_______________
+Art. 250 LP  et
+7 al. 1 LPA-VD
+Vu la demande du 21 janvier 2009
+déposée auprès du Juge de paix des districts
+de Lausanne et de l'Ouest lausannois (ci-après: le Juge de
+paix) par la Fédération vaudoise des entrepreneurs,
+à l'encontre de la Masse en faillite de G.________ SA, avec
+les conclusions suivantes:
+"
+- Les primes relatives à
+l'indemnité journalière bénéficient du
+privilège légal de 2ème classe, tel que requis
+dans la production,
+-      La décision de l'administration
+de la faillite du 15 janvier 2009 est nulle
+-      L'état de collocation est
+modifié dans le sens ci-dessus.",
+vu les déterminations de l'Office des faillites de
+l'arrondissement de Lausanne (administration de la faillite), du 3
+mars 2009, qui fait valoir qu'à ses yeux, "s'agissant d'un
+problème lié aux assurances," […] "seul le
+Tribunal des assurances devrait se pencher sur cette
+cause",
+vu le prononcé rendu le 1
+er
+mai 2009 par le Juge
+de paix, qui a pris acte d'une déclaration signée par
+la demanderesse (à savoir, selon le procès-verbal de
+l'audience du même jour, une adhésion aux conclusions
+prises par la défenderesse ayant soulevé le
+déclinatoire
+ratione materiae
+) et qui a dit que la
+cause était transmise en l'état à la Cour des
+assurances sociales du Tribunal cantonal,
+vu les pièces au dossier;
+considérant que l'action de la demanderesse est une action
+en contestation de l'état de collocation, au sens de l'art.
+250 LP (loi fédérale du 11 avril 1889 sur la
+poursuite pour dettes et la faillite, RS 281.1),
+qu'en vertu du droit fédéral, l'action doit
+être intentée devant le juge du for de la faillite
+(art. 250 al. 1 LP), à savoir le juge civil, qui doit selon
+l'art. 250 al. 3 LP instruire le procès en la forme
+accélérée (ces règles s'appliquant en
+principe également aux créances de droit public - ATF
+120 III 32),
+qu'en droit cantonal vaudois, l'action est portée devant le
+juge compétent à raison de la valeur litigieuse
+d'après la loi vaudoise d'organisation judiciaire (art. 41
+al. 3 LVLP [loi du 18 mai 1955 d'application dans le Canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la
+faillite, RSV 280.05]), soit devant le juge de paix si la valeur
+litigieuse est inférieure à 8'000 fr. (art. 113 al.
+1bis LOJV [loi cantonale vaudoise d'organisation judiciaire du 12
+décembre 1979, RSV 173.01]),
+que dans la faillite, la valeur litigieuse est égale au
+montant nouveau ou supplémentaire pouvant être
+attribué au demandeur en cas d'action contre la masse, et
+correspond en d'autres termes au dividende probable
+échéant à la créance litigieuse ou
+à la partie contestée de celle-ci,
+qu'en application de ces règles, le Juge de paix saisi
+paraît compétent
+ratione loci
+et
+ratione
+valoris
+dans le cas d'espèce;
+considérant que le litige porte sur la collocation de
+créances pour des primes d'assurance-maladie, y compris
+d'assurance perte de gain (indemnités
+journalières),
+que, selon la demanderesse, ces primes relèvent
+entièrement de l'assurance-maladie sociale au sens de l'art.
+1a al. 2 LAMal (loi fédérale du 18 mars 1994 sur
+l'assurance-maladie, RS 832.10),
+que la qualification des primes - relevant de l'assurance-maladie
+sociale ou de l'assurance complémentaire - est en effet
+déterminante pour la collocation (cf. art. 219 al. 4,
+Deuxième classe
+, let. c LP),
+qu'il n'apparaît pas que le preneur d'assurance contesterait
+à ce stade une décision de l'assureur-maladie
+fondée sur la LAMal, auquel cas il y aurait lieu de le
+renvoyer à agir par les voies de droit prévues par le
+droit public fédéral (cf. ATF 120 III 147), notamment
+celle de l'opposition auprès de l'assureur lui-même
+(art. 52 LPGA [loi fédérale du 6 octobre 2000 sur la
+partie générale du droit des assurances sociales, RS
+830.1], par renvoi de l'art. 1 al. 1 LAMal),
+qu'il ressort au contraire du dossier que seule la qualification
+juridique d'une relation d'assurance est
+discutée,
+qu'il s'agit d'une question préjudicielle devant être
+tranchée par le juge compétent sur le
+fond;
+considérant que la Cour des assurances sociales du Tribunal
+cantonal connaît des recours et contestations
+énumérés à l'art. 93 LPA-VD (loi
+cantonale vaudoise du 28 octobre 2008 sur la procédure
+administrative, RSV 173.36), par renvoi de l'art. 83b LOJV, mais
+n'a pas la compétence de trancher les questions
+préjudicielles en matière de droit des assurances,
+dans les procès ordinaires,
+que la Cour des assurances sociales doit partant décliner en
+l'espèce sa compétence et, en vertu de l'art. 7 al. 1
+LPA-VD, transmettre d'office la cause au Juge de paix,
+lui-même compétent (cf.
+supra
+) nonobstant son
+ordonnance du 1
+er
+mai 2009 qui, vu ce qui
+précède, sera dépourvue d'effet;
+considérant que le présent prononcé, compte
+tenu de la valeur litigieuse, doit être rendu par un membre
+de la Cour des assurances sociales statuant en tant que juge unique
+(art. 94 al. 1 let. a LPA-VD par analogie);
+considérant qu'il y a lieu de statuer sans frais ni
+dépens.
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La Cour des assurances sociales
+décline sa compétence et transmet la cause au Juge de
+paix des districts de Lausanne et de l'Ouest lausannois, comme
+objet de sa compétence.
+II.
+Il n'est pas
+perçu de frais judiciaires ni alloué de
+dépens
+.
+Le juge
+unique :
+Le greffier :
+Du
+La décision qui précède est notifiée
+à :
+‑
+Fédération vaudoise des entrepreneurs, à 1131
+Tolochenaz;
+‑      Office des
+faillites de l'arrondissement de Lausanne, à 1014 Lausanne
+(pour Masse en faillite de G.________ SA);
+et communiquée à :
+-      Justices de paix
+des districts de Lausanne et de l'Ouest lausannois, à 1014
+Lausanne;
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi
+fédérale du 17 juin 2005 sur le Tribunal
+fédéral, RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le
+Tribunal fédéral (Schweizerhofquai 6, 6004 Lucerne)
+dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Le greffier :
