@@ -1,0 +1,266 @@
+---
+decision_id: "vd_findinfo_R_v-p_nale___2009___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-pénale / 2009 / 8"
+decided: "2009-07-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20P%E9nale/R%E9v-p%E9nale/20090804112358865_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-385.md", "switzerland/bund/acts/312.0/art-455.md"]
+---
+
+# VD Findinfo Rév-pénale / 2009 / 8
+
+## Regeste
+
+RÉVISION{DÉCISION}, ABUS DE DROIT | 385 CP, 455 al. 1 CPP, 461 al. 1 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 31.07.2009 Rév-pénale / 2009 / 8
+
+RÉVISION{DÉCISION}, ABUS DE DROIT | 385 CP, 455 al. 1 CPP, 461 al. 1 CPP
+
+TRIBUNAL CANTONAL
+11
+Commission DE
+REVISION PENALE
+____________________________________________
+Arrêt du 31 juillet
+2009
+__________________
+Présidence
+de   M.        F.
+Meylan
+,
+président
+Juges
+:
+MM.     Giroud et Hack
+Greffier
+:
+M.        Jaillet
+*****
+Art.
+385 CP;
+455 et 461 CPP
+La
+Commission de
+révision pénale prend séance à huis
+clos pour statuer sur la demande présentée le
+15 juillet 2009
+par
+J.________
+et tendant à la
+révision d
+es sentences sans citation
+prononcées par la Commission de police de la Commune de
+Lausanne les 19 décembre 2007 (309.373), 8 janvier 2008
+(310.198),16 janvier 2008 (311.604), 25 janvier 2008 (313.158), 21
+février 2008 (318.116), 29 février 2008 (318.866), 13
+mars 2008 (320.995 et 321.149), 8 mai 2008 (328.682 et 328.686), 9
+mai 2008 (329.277), 12 juin 2008 (334.944), 17 juillet 2008
+(2008829) et 4 mars 2009 (2055874), ainsi qu'à la
+révision du prononcé du Préfet du district de
+Lausanne du 30 avril 2008 (LAU/01/08/0007001) dans les causes le
+concernant.
+Elle considère :
+En fait :
+A.
+Par
+sentences
+municipales sans citation des
+19 décembre 2007
+(309.373), 8 janvier 2008 (310.198),16 janvier 2008 (311.604), 25
+janvier 2008 (313.158), 21 février 2008 (318.116), 29
+février 2008 (318.866), 13 mars 2008 (320.995 et 321.149), 8
+mai 2008 (328.682 et 328.686), 9 mai 2008 (329.277), 12 juin 2008
+(334.944), 17 juillet 2008 (2008829) et 4 mars 2009 (2055874), la
+Commission de police de la Commune de Lausanne
+a condamné J.________ à
+diverses peines d'amende ainsi qu'aux frais de chacune des
+procédures, pour diverses
+violations de la loi sur la
+circulation routière
+.
+Par
+prononcé du 30 avril 2008
+(LAU/01/08/0007001), le Préfet du district de Lausanne a
+condamné J.________ à une amende de 500 fr., plus 90
+fr. de frais, également pour violation de la loi sur la
+circulation routière.
+B.
+Le 15 juillet 2009, J.________ a
+déposé un mémoire tendant à la
+révision des quatorze sentences municipales et du
+prononcé préfectoral.
+En substance, il fait valoir que dans les quinze cas d'infractions
+à la loi sur la circulation routière, il
+n'était pas le conducteur des véhicules
+incriminés, quand bien même ceux-ci étaient
+immatriculés à son nom. Il précise que les
+véhicules étaient conduits par l'actionnaire
+W.________ de la société N.________ SA ou un
+employé de cette société, dont il est
+administrateur. Il a joint à sa requête une
+attestation signée le 13 juillet 2009 par W.________, qui
+certifie que J.________ n'est pas responsable des infractions
+commises avec les véhicules incriminés et qui en
+prend l'entière responsabilité. Il a également
+produit six lettres adressées à la commission de
+police entre les 11 février et 12 mars 2008, dans lesquelles
+il déclare que W.________
+était l'auteur des
+infractions retenues dans les six premières
+sentences.
+En droit
+:
+1.
+En vertu de l'art.
+385 CP (Code pénal du 21 décembre 1937; RS 311.0),
+les cantons sont tenus de prévoir un recours en
+révision en faveur du condamné contre les jugements
+rendus en vertu du code pénal ou d'une autre loi
+fédérale. La révision est aussi prévue
+par l'art. 455 CPP (Code de procédure pénale du 12
+septembre 1967; RSV 312.01), qui n'a pas de portée propre en
+l'occurrence. Le droit à la révision étant
+imprescriptible, une requête peut être
+présentée en tout temps (SJ 1986 p. 187; Favre,
+Pellet et Stoudmann, Code pénal annoté, Lausanne
+2007, n. 1.12 ad art. 385 CP, p. 819).
+2.
+La révision
+d'un jugement peut être demandée lorsque des faits ou
+des moyens de preuve sérieux et dont le juge n'avait pas eu
+connaissance lors du premier procès viennent à
+être invoqués. Par "faits", il faut entendre toute
+circonstance susceptible d'être prise en considération
+dans l'état de fait qui fonde le jugement, ce qui comprend
+tout événement matériel ou produit par
+l'activité humaine, même celui auquel la loi attache
+un effet juridique, à la condition qu'elle joue un
+rôle dans la qualification juridique, dans la fixation de la
+peine ou l'octroi du sursis (Favre, Pellet et Stoudmann, op. cit.,
+n. 1.3 ad art. 385 CP, p. 817; Bovay, Dupuis, Monnier, Moreillon et
+Piguet, Procédure pénale vaudoise, Code
+annoté, Lausanne 2008,
+n. 2.2 ad art. 455 CPP, pp. 549-550).
+Des faits ou moyens de preuve sont nouveaux lorsqu'ils n'ont pas
+été soumis, sous quelque forme que ce soit, à
+l'appréciation du tribunal, soit parce qu'ils ne
+ressortaient pas du dossier ou des débats, soit parce qu'ils
+avaient été négligés par le premier
+juge. Ils sont sérieux lorsqu'ils sont propres à
+ébranler les constatations de fait sur lesquelles la
+condamnation est fondée, de manière que l'état
+de fait ainsi modifié rende vraisemblable une condamnation
+sensiblement moins sévère ou permette de conclure
+à l'inexistence de l'une des infractions retenues, que cette
+libération entraîne ou non une réduction de la
+peine (ATF 130 IV 72 c. 1; 116 IV 353).
+Une demande de révision, déposée contre une
+ordonnance de condamnation, qui repose sur des faits que le
+condamné connaissait dès l'origine, qu'il n'avait
+aucun motif de passer sous silence et dont il aurait pu se
+prévaloir dans le cadre d'une simple procédure
+d'opposition doit être qualifiée d'abusive. Il ne peut
+donc y être donné suite (ATF 130 IV 72).
+3.
+En l'espèce, J.________ a fait l'objet de quinze
+dénonciations qui ont abouti à des condamnations.
+Tant les sentences de la commission de police que le
+prononcé préfectoral lui ont été
+notifiés à son adresse. Ils mentionnaient les voie et
+délai d'opposition. Le requérant n'a toutefois pas
+usé de son droit de recours. Selon les pièces qu'il a
+produites à l'appui de se demande, il a certes
+adressé à la commission de police six courriers entre
+les 11 février et 12 mars 2008, dans lesquels il se borne
+à dénoncer W.________ comme le conducteur des
+véhicules incriminés, mais ces courriers, à
+supposer qu'ils puissent être considérés comme
+des oppositions - ce qui est douteux -, ont tous été
+envoyés tardivement, ce que le requérant admet au
+demeurant. En outre, il n'a plus dénoncé W.________
+pour les amendes suivantes.
+Ainsi, chaque fois qu'il recevait une condamnation, le
+requérant connaissait déjà les faits qu'il
+avance aujourd'hui à l'appui de sa demande de
+révision. Il ne pouvait ignorer leur éventuelle
+incidence sur sa culpabilité. Pour pouvoir valablement les
+invoquer, il devait par conséquent former opposition et
+entreprendre une procédure ordinaire. Il n'en a rien fait.
+Il soutient que la tardiveté des explications qu'il a
+parfois fournies était due à l'incompétence de
+son secrétariat. Outre qu'un tel argument n'est pas
+pertinent, il n'explique pas son silence depuis le 12 mars 2008.
+Dans ces conditions, sa demande de révision apparaît
+comme une façon de contourner les voies de droit ordinaires
+et, partant, doit être qualifiée d'abusive.
+4.
+En définitive, la demande de révision de J.________
+doit être écartée d'entrée de cause,
+conformément à l'art. 461 CPP.
+Les frais de la cause seront supportés par J.________ (art.
+464 CPP).
+Par ces motifs,
+la Commission de révision
+pénale,
+statuant à huis
+clos,
+prononce à l'unanimité
+:
+I.
+La demande de révision
+présentée par J.________ est
+écartée.
+II.
+Les frais d'arrêt, par
+450 fr. (quatre cent cinquante francs), sont mis
+à la charge du requérant J.________.
+IV.
+L'arrêt est
+exécutoire.
+L
+e
+président :
+L
+e
+greffi
+er
+:
+Du
+L'arrêt qui
+précède, dont la rédaction a été
+approuvée à huis clos, est notifié à
+:
+‑      Me
+Jean-Pierre Moser, avocat (pour J.________),
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+‑      Commission de
+police de la Commune de Lausanne,
+-      Préfecture
+du district de Lausanne,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en
+matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral - RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition
+complète (art. 100
+al. 1 LTF).
+L
+e
+greffi
+er
+:
