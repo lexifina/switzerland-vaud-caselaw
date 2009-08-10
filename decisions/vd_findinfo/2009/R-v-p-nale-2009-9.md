@@ -1,0 +1,385 @@
+---
+decision_id: "vd_findinfo_R_v-p_nale___2009___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-pénale / 2009 / 9"
+decided: "2009-08-10"
+published: "2009-08-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CRP/R%E9v-p%E9nale/20090805131437284_e.html"
+cites_law: ["switzerland/bund/acts/142.20/art-023.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-385.md", "switzerland/bund/acts/312.0/art-455.md"]
+---
+
+# VD Findinfo Rév-pénale / 2009 / 9
+
+## Regeste
+
+MOTIF DE RÉVISION | 385 CP, 455 CPP, 461 CPP, 464 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 03.08.2009 Rév-pénale / 2009 / 9
+
+MOTIF DE RÉVISION | 385 CP, 455 CPP, 461 CPP, 464 CPP
+
+TRIBUNAL CANTONAL
+10
+PE08.019716-MCA
+COMMISSION DE REVISION PENALE
+____________________________________________
+Arrêt du 10 août
+2009
+__________________
+Présidence
+de   M. Fr.
+Meylan
+,
+président
+Juges
+:
+MM.     Hack
+et Giroud
+Greffier
+:
+M.        Ritter
+*****
+Art.
+385 CP; 455, 461, 464 CPP
+La
+Commission de
+révision pénale prend séance à huis
+clos pour statuer sur la demande présentée le
+27 juillet 2009
+par F.________
+et tendant à la révision du jugement rendu le 13
+janvier 2009 par le Tribunal de police de l'arrondissement de
+Lausanne.
+Elle considère :
+En fait :
+A.
+Par jugement du 13 janvier 2009, le Tribunal de
+police de l'arrondissement de Lausanne a, notamment, rejeté
+l'appel de F.________ et confirmé le prononcé rendu
+à son encontre le 18 août 2008 par la
+Préfecture de Lausanne (I et II), le dossier étant
+retourné à la Préfecture et les frais de
+justice, par 700 fr., mis à sa charge (V et VI).
+Un recours interjeté contre ce jugement par F.________ a
+été écarté par arrêt du 26 mars
+2009 de la Cour de cassation pénale du Tribunal cantonal
+(n° 121).
+B.
+1.
+F.________ a été condamné eu égard au
+fait que, le 16 octobre 2007, à Gland, un travailleur
+étranger en situation irrégulière en Suisse
+avait travaillé au service de l'entreprise V.________. Au
+terme de l'instruction, le tribunal a en effet
+considéré qu'en sa qualité de
+propriétaire économique de V.________, dont il
+gérait seul l'activité opérationnelle sur les
+chantiers, F.________ apparaissait comme un organe de fait de la
+société. L'accusé ayant lui-même eu
+contact avec le travailleur en question et l'ayant engagé
+oralement, le premier juge a considéré qu'il
+s'était rendu coupable de contravention à l'art. 23
+al. 4 de la loi fédérale du 26 mars 1931 sur le
+séjour et l'établissement des étrangers
+(LSEE), le prononcé préfectoral du 18 août 2008
+pouvant à cet égard être
+confirmé.
+2.
+Aux débats, F.________ a sollicité la suspension et
+le renvoi de l'audience afin de permettre l'audition du travailleur
+susmentionné, le cas échéant la production
+d'un témoignage écrit ou de toute autre pièce
+permettant de démontrer qu'il n'avait pas oeuvré pour
+V.________ mais au service de l'entreprise R.________.
+Le tribunal de police a rejeté cette requête en
+considérant, au vu de l'ensemble des circonstances, qu'il
+était pratiquement exclu de pouvoir recueillir le
+témoignage de l'intéressé, son lieu de
+séjour actuel étant inconnu. S'agissant des autres
+mesures d'instruction requises, il a estimé que F.________
+ne les avait pas requises dans le délai imparti à cet
+effet avant les débats et qu'il lui appartenait d'apporter
+tout élément de nature à étayer sa
+version des faits.
+Tenant le recours pour irrecevable, la Cour de cassation a quant
+à elle écarté une pièce produite en
+seconde instance, à savoir un témoignage écrit
+établi le 14 janvier 2009 par R.________, tendant à
+établir que le travailleur concerné était, le
+16 octobre 2007, employé de cette dernière
+société et qu'il n'avait été que
+"prêté" à V.________ le 16 octobre 2007.
+L'arrêt est entré en force.
+C.
+Par demande du 27 juillet 2009 adressée à la Chambre
+des révisions civiles et pénales du
+Tribunal cantonal
+,
+F.________ a demandé la révision du
+jugement
+rendu le 13 janvier 2009 par le Tribunal de police de
+l'arrondissement de Lausanne, en ce sens que les chiffres I et II
+du dispositif de cette décision et le prononcé
+préfectorale du 18 août 2008 sont annulés,
+d'une part, et à ce qu'il soit renvoyé devant le
+Tribunal d'arrondissement de l'Est vaudois pour nouvelle
+décision dans le sens des considérants, d'autre part.
+Il a produit à nouveau la déclaration écrite
+du
+14 janvier 2009
+mentionnée ci-dessus.
+En droit
+:
+1.
+En vertu de l'art.
+385 CP, les cantons sont tenus de prévoir un recours en
+révision en faveur du condamné contre les jugements
+rendus en vertu du code pénal ou d'une autre loi
+fédérale, quand des faits ou autres moyens de preuve
+sérieux et dont le juge n'avait pas eu connaissance lors du
+premier procès viennent à être invoqués.
+L'art. 385 CP constitue une règle minimale, dont les cantons
+peuvent étendre mais non restreindre le champ d'application
+(Favre, Pellet et Stoudmann, Code pénal annoté,
+Lausanne 3
+ème
+éd. 2007, n. 1.1 ad art. 385
+CP). En procédure pénale vaudoise, le siège de
+la matière se trouve aux art. 455 et suivants
+CPP.
+Le droit à la révision étant imprescriptible,
+une requête peut être présentée en tout
+temps (Favre et al., op. cit., n. 1.12 ad art. 385 CP). La
+présente demande de révision est donc
+recevable.
+2.a)
+La révision
+d'un jugement ou d'une ordonnance de condamnation, ainsi que celle
+d'un arrêt de la cour de cassation, peut être
+demandée quand des faits ou des moyens de preuve
+sérieux et dont le juge n'avait pas eu connaissance lors du
+premier procès viennent à être invoqués
+(art. 455 CPP).
+L'art. 455 CPP n'a, pour ce qui concerne une infraction
+réprimée par le droit fédéral, pas de
+portée propre par rapport à l'art. 385 CP, qui
+correspond textuellement à l'ancien art. 397 CP, de sorte
+que la jurisprudence du Tribunal fédéral rendue sous
+l'ancien droit conserve sa valeur.
+b)
+Par "faits", il faut
+entendre toute circonstance susceptible d'être prise en
+considération dans l'état de fait qui fonde le
+jugement, ce qui comprend tout événement
+matériel ou produit par l'activité humaine,
+même celui auquel la loi attache un effet juridique, à
+la condition qu'elle joue un rôle dans la qualification
+juridique, dans la fixation de la peine ou l'octroi du sursis
+(Favre et alii, op. cit., n. 1.3 ad art. 385 CP;
+Bovay, Dupuis, Monnier, Moreillon, Piguet,
+Procédure pénale vaudoise, Code annoté,
+3
+e
+édition, 2008,
+n. 2.2 ad art. 455
+CPP).
+Un fait ou un moyen de preuve est nouveau au sens de l'art. 385 CP
+lorsque le juge n'en a pas eu connaissance au moment où il
+s'est prononcé, c'est-à-dire lorsqu'il ne lui a pas
+été soumis sous quelque forme que ce soit (ATF 130 IV
+72, c. 1, rés. in JT 2004 IV 160; ATF 122 IV 66, c. 2a et
+les arrêts cités, rés. in JT 1998 IV 91), sans
+qu'il importe - sous réserve de l'abus de droit, qui ne doit
+être admis qu'avec retenue en cas de révision
+fondée sur l'art. 385 CP - qu'il ait été connu
+ou non du requérant (ATF 130 IV 72, c. 2.2, rés. in
+JT 2004 IV 160). Il appartient au juge de la révision
+d'apprécier les preuves avancées pour établir
+le fait nouveau ou d'examiner la force probante d'un nouveau moyen
+de preuve invoqué pour établir un fait
+déjà connu (ATF 92 IV 177, JT 1967 IV 56; JT 1988 III
+94).
+Pour aboutir, il ne suffit pas que la révision se fonde sur
+des faits nouveaux. Encore faut-il qu'ils soient sérieux. Le
+fait ou le moyen de preuve est sérieux, lorsqu'il est
+propre, sous l'angle de la vraisemblance, à ébranler
+l'état de fait sur lequel se fonde la condamnation et que,
+ainsi modifié, celui-ci rend possible un jugement
+sensiblement plus favorable au condamné (ATF 130 IV 72, c.
+1, rés. in JT 2004 IV 160; ATF 122 IV 66, c. 2a et les
+arrêts cités, rés. in JT 1998 IV 91). Le motif
+doit donc être concluant, à savoir ébranler les
+constatations de fait, et causal, à savoir entraîner
+une décision plus favorable pour le condamné
+(Piquerez, Procédure pénale suisse, Zurich,
+2ème éd. 2007, op. cit., n. 986 p. 629).
+3.a)
+En l'espèce, l'objet de la demande de révision est
+le
+jugement rendu le 13 janvier 2009 par le
+Tribunal de police de l'arrondissement de Lausanne, et non
+l'arrêt du 26 mars suivant de la Cour de cassation
+pénale du Tribunal cantonal. En effet, la juridiction de
+recours n'est pas entrée en matière sur le fond, se
+limitant à écarter le recours pour
+irrecevabilité.
+b)
+Le requérant se prévaut de la déclaration
+écrite de R.________ du 14 janvier 2009, selon laquelle
+cette société avait "prêté de la
+main-d'œuvre à V.________ le 16 octobre 2007, pour le
+chantier à Gland"; cette main-d'œuvre aurait compris
+l'ouvrier dont l'engagement lui avait été
+reproché. Ce faisant, le requérant plaide
+implicitement que, si cet employé avait de facto
+travaillé avec son entreprise, c'était de jure sur la
+base d'un contrat de travail passé avec R.________. Par
+conséquent, ce serait cette entreprise seule qui l'aurait
+"occupé" au sens de l'art. 23 al. 4 LSEE, applicable ratione
+temporis aux faits ici en cause.
+C'est cependant omettre que le verbe "occuper" doit être
+compris au sens large. L'art. 23 al. 4 LSEE est ainsi, par exemple,
+applicable au tenancier d'un salon de massage ou d'un bordel, qui
+fournit l'infrastructure sans donner d'instruction aux
+prostituées qui y exercent leur activité (ATF 128 IV
+170). Cette norme ne présuppose dès lors pas
+l'existence d'un contrat de travail entre l'auteur et la personne
+occupée. Est bien plutôt un employeur au sens de cette
+disposition également celui auquel un travailleur est
+prêté ou cédé à titre provisoire
+(Cinthia Sedo, Aufenthalt und Erwerbtätigkeit.
+Die Bestrafung
+ausländischer Arbeitnehmer und ihrer Arbeitgeber wegen
+Schwarzarbeit,
+in
+Schweizerisches Ausländerrecht in
+Bewegung ?, 2003, p. 121).
+Peu importe en effet qui
+rémunère le travailleur, seul important le fait que
+ce dernier fournit ses services à une personne se trouvant
+en Suisse (ATF 99 IV 110, c. 2 p. 112; Valentin Roschacher,
+Die
+Strafbestimmungen
+des
+Bundesgesetzes
+über
+Aufenthalt
+und
+Niederlassung
+der Ausländer vom 26.
+März 1931
+[ANAG],
+thèse, Zurich 1991, pp. 120 et 121).
+Dans le cas particulier,
+le requérant
+admet que l'ouvrier employé illicitement a travaillé
+sur l'ouvrage que V.________ réalisait à
+Gland.
+Il
+s'ensuit qu'
+il
+avait la qualité d'employeur au sens de l'art. 23 al. 4 LSEE
+comme propriétaire économique et administrateur de
+fait de cette société, indépendamment du
+rôle joué par R.________.
+c)
+A cela s'ajoute que le requérant a exposé
+lui-même à l'audience de jugement du tribunal de
+police que l'ouvrier en cause "travaillait pour le compte d'une
+société sous-traitante de V.________, l'entreprise
+R.________" (jugement, p. 9). Il est dès lors malvenu de se
+prévaloir, en procédure de révision, d'une
+autre version des faits selon laquelle il y aurait eu un prêt
+de main-d'œuvre et non plus un sous-traitement des
+travaux.
+4.
+Il s'avère ainsi que le fait, respectivement le moyen de
+preuve invoqué par le requérant n'est pas apte
+à ébranler les constatations sur lesquelles la
+condamnation a été fondée. Partant, il n'est
+pas sérieux au sens de l'art. 455 al. 1 CPP.
+Peu importe au surplus que l'entreprise R.________ déclare
+"(s'engager) à prendre toutes les responsabilités qui
+en découlent", puisque, si l'on peut convenir de transferts
+de main-d'œuvre, la responsabilité pénale n'est
+quant à elle pas transmissible.
+5.
+En définitive, la demande de révision ne repose sur
+aucun fait sérieux au sens de l'art. 455 CPP. Partant, elle
+doit être écartée d'entrée de cause en
+application de l'art. 461 CPP.
+Le requérant supportera les frais de la cause,
+conformément à l'art. 464 CPP.
+Par ces motifs,
+la Commission de révision
+pénale,
+statuant à huis
+clos,
+prononce
+à l'unanimité
+:
+I.
+La demande de révision
+présentée le 27 juillet 2009 par F.________ est
+écartée d'entrée de cause en application de
+l'art. 461 CPP.
+II.
+Les frais d'arrêt, par
+910 fr. (neuf cent dix francs), sont mis à la
+charge du requérant.
+III.
+L'arrêt est
+exécutoire.
+L
+e
+président
+:
+L
+e
+greffi
+er
+:
+Du
+L'arrêt qui
+précède, dont la rédaction a été
+approuvée à huis clos, est notifié à
+:
+‑      Me Gilles
+Robert-Nicoud, avocat (pour F.________),
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+-      Service de la
+population, secteur étranger (20.10.1975),
+-      Office
+fédéral des migrations,
+-      Préfecture
+de Lausanne (LAU/01/08/0008386 Réf AB/zirjlr),
+‑      M. le
+Président
+du Tribunal de police de
+l'arrondissement de Lausanne,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en
+matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral - RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition
+complète (art. 100
+al. 1 LTF).
+L
+e
+greffi
+er
+:
