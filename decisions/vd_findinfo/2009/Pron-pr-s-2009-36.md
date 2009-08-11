@@ -1,0 +1,214 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2009___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2009 / 36"
+decided: "2009-08-11"
+published: "2009-08-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20090812085022500_e.html"
+cites_law: ["switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-434.md"]
+---
+
+# VD Findinfo Pron-prés / 2009 / 36
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, PROPORTIONNALITÉ | 434 al. 1 CPP, 59 CPP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours civile 12.08.2009 Pron-prés / 2009 / 36
+
+DÉTENTION PRÉVENTIVE, PROPORTIONNALITÉ | 434 al. 1 CPP, 59 CPP
+
+TRIBUNAL CANTONAL
+336
+PE09.000647-PVA/JON/FHE
+LE PRESIDENT
+DE LA COUR DE
+CASSATION PENALE
+______________________________________________
+Arrêt du
+________________
+Du 11 août 2009
+________________
+Présidence
+de   M
+.
+Creux
+,
+président
+Greffier
+:
+M
+me
+Moret
+*****
+Art. 59 et 434
+CPP
+Vu
+le jugement
+rendu le 5 août 2009, par
+lequel le Tribunal de police de l'arrondissement de Lausanne a
+condamné
+P.________
+pour
+délit à la loi fédérale sur les
+étrangers, à une peine privative de liberté de
+quinze jours, sous déduction de neuf jours de
+détention avant jugement, peine partiellement
+complémentaire aux condamnations des 6 et 18 novembre 2008
+du Juge d'instruction de Lausanne (I) et mis les frais, par 2'620
+fr., à la charge de la prénommée, le solde
+étant laissé à la charge de l'Etat
+(II),
+vu la déclaration de recours du 5 août 2009
+formée par P.________ contre ce jugement,
+vu la requête de mise en liberté provisoire
+formée le 10 août 2009 par
+l'intéressée,
+vu les pièces du dossier;
+attendu que dès qu'il a reçu le dossier d'une cause
+relevant de la Cour de cassation pénale, le président
+de cette autorité est compétent pour prendre toute
+décision urgente et, notamment, pour statuer en
+matière de détention préventive (art. 434 al.
+1 et 2 CPP; Bovay, Dupuis, Monnier, Moreillon, Piguet,
+Procédure pénale vaudoise, Bâle 2008, n. 1 ad
+art. 434 CPP);
+attendu que, sitôt qu'un recours est valablement
+exercé contre un jugement de première instance,
+l'emprisonnement ordonné ou subi avant une décision
+au fond est assimilé à la détention
+préventive et non à un début
+d'exécution de peine (Cass., R., 7 octobre 2003, n°
+210),
+que, selon l'art. 59 al. 1 CPP, la détention
+préventive suppose la réunion d'au moins deux
+conditions, dont la première est l'existence de
+présomptions suffisantes de culpabilité (
+Piquerez, Traité de procédure pénale
+suisse, Zurich 2006, n. 841, p. 535
+);
+attendu qu'en l'espèce, même si le jugement rendu le 5
+août 2009 est frappé d'un recours qui en suspend
+l'exécution (art. 424a CPP), les faits retenus permettent
+raisonnablement de soupçonner P.________ d'avoir commis les
+infractions qui lui sont reprochées,
+que la première condition de l'art. 59 CPP est dès
+lors réalisée;
+attendu que le prévenu à l'égard duquel
+existent des présomptions suffisantes de culpabilité
+peut être mis en détention préventive s'il
+présente un danger pour la sécurité ou l'ordre
+publics, si sa fuite est à craindre ou si sa liberté
+offre des inconvénients sérieux pour l'instruction
+(art. 59 al. 1 ch. 1, 2 et 3 CPP),
+que le prévenu doit être libéré
+dès la disparition des motifs de détention (art. 59
+al. 2 CPP),
+que la détention préventive, qui porte une atteinte
+grave aux droits fondamentaux du prévenu et peut
+compromettre sa considération, doit respecter le principe de
+proportionnalité des intérêts en
+présence,
+que la durée de la détention
+préventive est jugée excessive lorsqu'elle
+dépasse la durée probable de la peine
+prévisible (ATF 126 I 172, c. 5a pp. 176-177),
+que cette durée probable de la peine doit être
+évaluée avec la plus grande prudence, car il faut
+éviter que le juge de l'action pénale ne soit
+incité à prononcer une peine excessive pour la faire
+coïncider avec la détention préventive à
+imputer (ATF116 Ia 143, c. 5a p. 147);
+attendu, en l'espèce, que la requérante a
+été condamnée le 5 août 2009 à
+quinze jours de peine privative de liberté, sous
+déduction de neuf jours de détention avant
+jugement,
+que le 11 août 2009, elle a terminé de purger sa peine
+de quinze jours de peine privative de liberté
+prononcée à son encontre,
+qu'il ressort du jugement qu'elle a purgé sa
+précédente peine de quarante-cinq jours de
+détention jusqu'au 27 juillet 2009,
+que selon les informations obtenues, le Ministère public
+n'entend pas recourir contre le jugement du 5 août 2009 et
+requérir une aggravation de la peine,
+que dans ces circonstances, le principe de proportionnalité
+n'est plus respecté;
+attendu, en définitive, que la demande de mise en
+liberté est admise,
+que la requérante doit être relaxée
+immédiatement, pour autant qu'elle ne doive pas être
+détenue pour un autre motif,
+que les frais du présent arrêt sont laissés
+à la charge de l'Etat.
+Par ces motifs,
+le Président de la Cour de
+cassation pénale,
+statuant à huis
+clos,
+p r o n o n c e  :
+I.
+La requête de mise en
+liberté formée par P.________ est admise.
+II.
+La relaxation immédiate de
+P.________ est ordonnée, pour autant qu'elle ne doive pas
+être détenue pour un autre motif.
+III.
+Les frais d'arrêt sont
+laissés à la charge de l'Etat.
+IV.
+L'arrêt est
+exécutoire.
+L
+e
+président
+:
+L
+a
+greffi
+ère
+:
+Du
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié au conseil de la requérante, ainsi qu'au
+Ministère public, par l'envoi d'une copie
+complète:
+‑      Me Fabien
+Mingard, avocat (pour P.________), par fax,
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+‑
+Département de l'intérieur, Office d'exécution
+des peines, par fax,
+-      M. le
+Surveillant-chef de la Prison de la Tuilière, par
+fax,
+‑      Mme la
+Présidente du Tribunal de police de l'arrondissement de
+Lausanne,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Conformément à l'art. 434 al. 2 CPP, les parties
+peuvent déposer un recours motivé dans les dix jours
+dès la communication de la présente décision
+auprès de la Cour de cassation pénale du Tribunal
+cantonal, ledit recours devant contenir la désignation de la
+décision attaquée, les conclusions en réforme
+ou en nullité et les motifs à l'appui de ces
+conclusions.
+L
+a
+greffi
+ère
+:
