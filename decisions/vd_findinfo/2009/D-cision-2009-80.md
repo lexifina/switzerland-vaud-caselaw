@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_D_cision___2009___80"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2009 / 80"
+decided: "2009-08-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1472335"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-058.md"]
+---
+
+# VD Findinfo Décision / 2009 / 80
+
+## Regeste
+
+COMPÉTENCE RATIONE LOCI, RADIATION DU RÔLE | 58 LPGA
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 12.08.2009 Décision / 2009 / 80
+
+COMPÉTENCE RATIONE LOCI, RADIATION DU RÔLE | 58 LPGA
+
+TRIBUNAL CANTONAL
+AVS 33/09 - 23/2009
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 12 août
+2009
+__________________
+Présidence
+de   Mme
+Di Ferro
+Demierre
+, juge unique
+Greffier
+:
+Mme
+Vuagniaux
+*****
+Cause pendante entre
+:
+P.________
+, à Thielle (NE), recourante,
+et
+Caisse cantonale
+neuchâteloise de compensation
+,
+à Neuchâtel, intimée.
+_______________
+Art. 58 LPGA
+Vu l'acte du 9 juillet 2009 de
+P.________,
+vu l'avis du magistrat instructeur du 13 juillet 2009 informant
+P.________ que l'autorité compétente pour
+connaître de son litige était le Tribunal
+administratif du canton de Neuchâtel et lui impartissant un
+délai au 23 juillet 2009 pour faire valoir son objection
+motivée,
+vu l'absence de réaction de P.________,
+vu les pièces au dossier;
+considérant que la
+Cour des assurances sociales du
+Tribunal cantonal vaudois, qui succède au Tribunal des
+assurances depuis le 1
+er
+janvier 2009, est
+compétente pour statuer (art. 93 al. 1 let. a LPA-VD [loi
+cantonale vaudoise du 28 octobre 2008 sur la procédure
+administrative, RSV 173.36]),
+que l'art. 58 al. 1 LPGA prévoit que le tribunal des
+assurances compétent est celui du canton de domicile de
+l'assuré ou d'une autre partie au moment du
+dépôt du recours,
+que, selon l'alinéa 3 de cette disposition, le tribunal qui
+décline sa compétence transmet sans délai le
+recours au tribunal compétent,,
+qu'en l'espèce, tant la société P.________ que
+la Caisse cantonale neuchâteloise ont leurs sièges
+dans le canton de Neuchâtel,
+que la Cour des assurances sociales du Tribunal cantonal vaudois
+doit donc décliner sa compétence,
+que le litige ressortit à la compétence de la Cour
+des assurances sociales du Tribunal administratif du canton de
+Neuchâtel (art. 49 LPJA [loi cantonale neuchâteloise du
+27 juin 1979 sur la procédure et la juridiction
+administratives, RS 152.130] et 6 du Règlement
+d'organisation du Tribunal administratif du 8 janvier 2008, RS
+162.114.1),
+que la présente cause est rayée du rôle sans
+frais ni dépens (art. 61 let. a et g LPGA et 55 LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La compétence de la Cour des
+assurances sociales du Tribunal cantonal vaudois est
+déclinée d'office.
+II.
+La cause sera, dès
+l'entrée en force de la présente décision,
+transmise en l'état à la Cour des assurances sociales
+du Tribunal administratif du canton de Neuchâtel comme objet
+de sa compétence.
+III.
+La cause est rayée du
+rôle.
+IV.
+La présente décision est
+rendue sans frais ni allocation de dépens.
+Le juge
+unique :
+La
+greffière
+:
+Du
+La décision qui précède est notifiée
+à :
+‑
+P.________
+‑      Caisse
+cantonale neuchâteloise de compensation
+par l'envoi de
+photocopies.
+Elle est communiquée à :
+‑
+la Cour des assurances sociales du
+Tribunal administratif du canton de
+Neuchâtel.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+La
+greffière
+:
