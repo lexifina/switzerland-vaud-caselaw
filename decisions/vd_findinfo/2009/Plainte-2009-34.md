@@ -1,0 +1,374 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___34"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 34"
+decided: "2009-08-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1471710"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-074.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 34
+
+## Regeste
+
+PLAINTE{LP}, COMMANDEMENT DE PAYER, OPPOSITION{LP}, PREUVE FACILITÉE | 17 LP, 18 LP, 74 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.08.2009 Plainte / 2009 / 34
+
+PLAINTE{LP}, COMMANDEMENT DE PAYER, OPPOSITION{LP}, PREUVE FACILITÉE | 17 LP, 18 LP, 74 LP
+
+TRIBUNAL CANTONAL
+31
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+14 août 2009
+_________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:
+MM.     Bosshard et  Hack
+Greffier
+:
+Mme   Debétaz Ponnaz
+*****
+Art. 17, 18 et 74
+LP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+N.________
+, à Vallamand-Dessous,
+contre la décision
+rendue le 20 mars 2009, à la suite de l'audience du 15
+janvier 2009, par le Président du Tribunal d'arrondissement
+de La Broye et du Nord vaudois, autorité inférieure
+de surveillance, admettant la plainte déposée contre
+l'
+Office des
+poursuites et faillites de Payerne-Avenches
+par
+A.B.________SA
+, à Payerne,
+dans la poursuite n°
+508'603 exercée contre cette société à
+l'instance du recourant, constatant la validité de son
+opposition au commandement de payer et annulant la commination de
+faillite notifiée dans cette poursuite.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+1.
+a)
+Par réquisition du 7 octobre 2008, N.________ a
+introduit une poursuite en paiement de la somme de 50'000 fr., plus
+intérêt à 5 % l'an dès le 19 novembre
+1996, contre la société A.B.________SA, à
+Payerne, par son administrateur A.B.________, invoquant comme cause
+de l'obligation la "réparation des vices de conception et
+défauts de l'ouvrage (véranda), frais d'expertise
+hors procès, frais de surveillance des travaux de remise en
+état et frais de procédure".
+Le 8 octobre 2008, l'Office des poursuites et faillites de
+Payerne-Avenches [ci-après : l'office] a établi le
+commandement de payer sous n° 508'603, lequel a
+été notifié à la poursuivie par la
+poste le 16 octobre 2008. L'exemplaire destiné au
+poursuivant lui a été retourné libre
+d'opposition; sous la rubrique "notification", il est
+indiqué que l'acte a été remis à
+"Madame C.B.________, son épouse". Quant à
+l'exemplaire remis à la poursuivie, il indique que l'acte a
+été remis à "Madame B.B.________, son
+épouse" et porte, sous la rubrique "opposition" au bas de
+l'acte, la mention manuscrite "Totale", avec la signature "
+B.B.________".
+b)
+Le 20 novembre 2008, le poursuivant a requis la
+continuation de la poursuite n° 508'603 et la commination de
+faillite a été notifiée le 24 novembre 2008
+à la poursuivie, en mains de C.B.________.
+2.
+a)
+Le 24 novembre 2008, A.B.________SA a
+porté plainte auprès du Président du Tribunal
+d'arrondissement de La Broye et du Nord vaudois, autorité
+inférieure de surveillance, contre la notification de la
+commination de faillite et demandé l'annulation de celle-ci.
+Elle a fait valoir que B.B.________, l'épouse de son
+administrateur A.B.________, avait formé opposition totale
+au commandement de payer dans la poursuite en cause, le 16 octobre
+2008. La plaignante a requis l'effet suspensif, qui a
+été accordé.
+b)
+Interpellée par l'office à la suite du
+dépôt de cette plainte, la Poste suisse, Secteur
+d'office de poste de Payerne, a expliqué les circonstances
+de la notification du commandement de payer, dans une lettre du 5
+décembre 2008 rédigée en ces termes
+:
+" […]
+- La distribution du
+commandement de payer [n° 508'603] a effectivement eu lieu
+à nos guichets de l'office de poste de Payerne en date du 16
+octobre 2008.
+- La collaboratrice qui a
+distribué l'acte de poursuite est Madame H.________ [date de
+naissance et domicile].
+- Madame H.________ se
+souvient avoir distribué l'acte à Madame
+B.B.________, épouse de Monsieur A.B.________.
+- Concernant l'opposition
+faite par Madame B.________, notre collaboratrice, Madame
+H.________ ne s'en souvient plus. Effectivement, il y a eu une
+erreur dans le processus de distribution puisque le double revenant
+à l'office des poursuites n'a pas été
+complété correctement lors de la distribution.
+Conséquence, l'exemplaire de l'office des poursuites a
+été rempli à postériori (sic) par notre
+collaboratrice de la poste sans opposition et sans la signature du
+débiteur. Ceci explique la raison pour laquelle les deux
+parties de l'acte ne concordent pas. Nous supposons que
+l'opposition de  Madame B.________ a été
+formulée lors de la distribution. Il n'est cependant pas
+à exclure qu'elle ait pu être faite après coup
+par le débiteur. […]"
+Sur requête complémentaire de l'office, la Poste a
+indiqué, par lettre du 10 décembre 2008, que le mot
+"Totale" inscrit à la rubrique "opposition" sur l'exemplaire
+du débiteur du commandement de payer n'était pas de
+la main de H.________, précisant que cette dernière
+faisait toujours inscrire l'opposition éventuelle par le
+destinataire de l'acte.
+c)
+Par lettre du 12 décembre 2008, l'office a
+déclaré s'en remettre à justice sur le sort de
+la plainte.
+Le poursuivant s'est déterminé le 5 janvier 2009,
+concluant au rejet de la plainte. Il a produit une lettre que la
+poursuivie lui avait adressée le 1
+er
+décembre 2008 pour proposer un règlement du litige
+"pour la véranda" par le retrait de toutes les poursuites
+introduites de part et d'autre entre les parties et l'annulation de
+toutes les factures.
+Le 5 janvier 2009, la plaignante a  produit un onglet de
+pièces sous bordereau, dont un relevé de la carte
+"SUPERCARDplus" de C.B.________, mentionnant un paiement
+effectué en Allemagne en date du 16 octobre 2008, et un lot
+de commandements payer établis dans des poursuites
+exercées à l'instance de N.________ contre
+A.B.________SA entre 1996 et 2007 pour les mêmes montant et
+motifs, notifiés tantôt en mains de B.B.________,
+tantôt en mains de C.B.________, et tous frappés
+d'opposition totale.
+d)
+Trois témoins ont été entendus
+à l'audience de l'autorité inférieure de
+surveillance du 15 janvier 2009, savoir H.________, employée
+de la poste, B.B.________ et C.B.________, respectivement
+l'épouse et la fille de A.B.________, administrateur de la
+plaignante.
+H.________ a confirmé qu'elle avait procédé
+à la notification du commandement de payer à
+l'épouse de A.B.________ et que le double de l'acte avait
+été retourné à l'office, qui l'avait
+toutefois renvoyé, parce qu'il était vierge.
+S'étant alors rendu compte qu'elle avait omis de placer le
+carbone entre l'exemplaire qu'elle avait rempli lors de la
+notification et le double renvoyé à l'office,
+H.________ avait décidé de remplir le double
+elle-même sans faire revenir Mme B.________. Ne se souvenant
+plus du prénom de l'épouse de A.B.________, elle
+avait posé la question au facteur, qui lui avait
+donné le nom de la fille des époux B.________, soit
+C.B.________. Cet exemplaire du commandement de payer avait ensuite
+été renvoyé à l'office, ainsi
+complété et libre de toute opposition. Sur ce point,
+l'employée de la poste a confirmé qu'elle ne
+remplissait jamais elle-même la rubrique "opposition" des
+actes de poursuite, selon l'usage suivi.
+B.B.________ a confirmé être allée chercher le
+commandement de payer au guichet de la poste et y avoir fait
+immédiatement opposition totale, avant de rendre l'acte
+à l'employée, qui lui avait alors remis l'exemplaire
+du débiteur. Elle a précisé qu'elle avait
+l'habitude d'aller retirer des commandements de payer et savait
+qu'il fallait y faire immédiatement opposition, ce qu'elle
+faisait systématiquement. Elle a en outre indiqué
+s'être rendue, en compagnie de sa fille, chez le poursuivant
+et son épouse pour leur proposer un règlement
+à l'amiable du litige.
+C.B.________ a déclaré qu'elle n'était pas en
+Suisse lorsque le commandement de payer avait été
+notifié et qu'elle n'avait jamais vu cet acte, mais a
+confirmé avoir reçu la commination de faillite le 24
+novembre 2008. Elle a également confirmé avoir
+accompagné sa mère chez les créanciers afin de
+leur faire signer une convention dans laquelle les parties
+s'engageaient réciproquement à retirer toutes les
+poursuites en cours.
+3.
+a)
+Par prononcé rendu sans frais
+ni dépens le 20 mars 2009, la Présidente du Tribunal
+d'arrondissement de La Broye et du Nord vaudois a admis la plainte,
+constaté la validité de l'opposition au commandement
+de payer n° 508'603 de l'Office des poursuites et faillites de
+Payerne-Avenches formée le 16 octobre 2008 et annulé
+la commination de faillite du 21 novembre 2008 dans la même
+poursuite. Ce magistrat a considéré que l'instruction
+avait permis d'établir que c'était B.B.________ qui
+avait réceptionné le commandement de payer et qu'elle
+y avait fait opposition au moment de la notification de cet acte
+à la poste.
+b)
+Par acte du 2 avril 2009, N.________ a recouru contre ce
+prononcé, qui lui avait été notifié le
+23 mars 2009, concluant, avec suite de frais et dépens,
+à l'admission du recours et au rejet de la plainte, libre
+cours pouvant être donné à la poursuite et la
+commination de faillite étant reconnue valable.
+Par lettre du 9 avril 2009, l'office a déclaré s'en
+remettre à justice.
+A.B.________SA s'est déterminée par acte du 4 mai
+2009, concluant, avec suite de frais et dépens, au rejet du
+recours.
+En droit :
+I.
+Formé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP -
+loi vaudoise d'application de la loi fédérale sur la
+poursuite pour dettes et la faillite; RSV 280.05) et comportant
+l'énoncé des moyens invoqués (art.28 al. 3
+LVLP), le recours est recevable.
+II.
+a)
+Aux termes l'art. 74 al. 1 LP, le débiteur
+poursuivi qui entend former opposition doit, verbalement ou par
+écrit, en faire la déclaration immédiate
+à celui qui lui remet le commandement de payer ou à
+l'office dans les dix jours à compter de la notification de
+l'acte. A la demande du débiteur, il lui est gratuitement
+donné acte de l'opposition (art. 74 al. 3 LP).
+Sauf dans la poursuite pour effets de change, la déclaration
+d'opposition n'est soumise à l'observation d'aucune forme
+(Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, nn. 37 à 39 ad art.
+74 LP). Le reçu de l'opposition facilite la preuve de la
+déclaration d'opposition, mais le destinataire du
+commandement de payer peut rapporter cette preuve par tous autres
+moyens (Gilliéron, op. cit., n. 55 ad art. 74 LP; Ruedin,
+Commentaire romand, n. 18 ad art. 74 LP). Peu importe que
+l'exemplaire du commandement de payer communiqué au
+poursuivant indique que le destinataire n'a pas fait opposition si
+le contraire est prouvé, ce qui peut résulter d'une
+déclaration de l'office des poursuites. Lorsque, s'adressant
+à l'agent notificateur, le destinataire forme opposition
+verbalement - opposition dont l'effet est immédiat - et que
+l'agent notificateur omet de consigner l'opposition sur
+l'exemplaire du commandement de payer destiné au
+poursuivant, le destinataire peut porter plainte dans les dix jours
+dès la notification ou dès la communication d'un acte
+de poursuite exécuté par l'office, qui a donné
+suite à une réquisition de continuer en ignorant la
+véritable situation (Gilliéron, op. cit., n. 58 ad
+art. 74 LP; ATF 85 III 165, JT 1960 II 38). Quant au degré
+requis de preuve de l'opposition, d'après certaines
+décisions cantonales, la simple vraisemblance devrait
+suffire, en vertu du principe "in dubio pro debitore" (Bessenich,
+Basler Kommentar, n. 27 in fine ad art. 74 LP et réf.
+cit.).
+b)
+En l'espèce, l'instruction a permis
+d'établir, avec un haut degré de vraisemblance, que
+si l'exemplaire du commandement de payer retourné à
+l'office des poursuites était parvenu au poursuivant libre
+d'opposition, cela n'était pas dû au fait que la
+poursuivie n'avait pas formé opposition, mais à une
+négligence de l'agent notificateur, qui avait omis de placer
+un carbone entre le commandement de payer destiné au
+débiteur et le double destiné au créancier et
+avait rempli après coup le double en question, sans faire
+revenir avec son exemplaire la personne à qui le
+commandement de payer avait été notifié - ce
+qui aurait permis de s'assurer de la
+concordance des mentions figurant sur les deux exemplaires - et en
+se méprenant sur le prénom de cette personne. On ne
+saurait exiger une preuve stricte de l'opposition, preuve rendue
+impossible par l'erreur de l'agent notificateur. Au vu des
+témoignages et des pièces produites, c'est à
+juste titre que le premier juge a considéré que
+B.B.________ avait formé opposition à la poursuite le
+16 octobre 2008 et que cette opposition était valable, ce
+qui, en vertu de la jurisprudence précitée, pouvait
+être constaté par la voie de la plainte contre la
+commination de faillite consécutive.
+III.
+Le recours doit ainsi être rejeté et
+la décision de l'autorité inférieure de
+surveillance confirmée.
+L'arrêt est rendu sans frais ni dépens (art. 20a al. 2
+ch. 5 LP, 61 al. 2 let. a  et 62 al. 2 OELP - ordonnance sur
+les émoluments perçus en application de la LP; RS
+281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé est
+confirmé.
+III.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 14 août
+2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Me Marcel Heider,
+avocat (pour N.________),
+‑      Me
+Jean-Emmanuel Rossel, avocat (pour A.B.________SA),
+‑      M. le
+Préposé à l'Office des poursuites et faillites
+de Payerne-Avenches.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      Mme la
+Présidente du Tribunal d'arrondissement de La Broye et du
+Nord vaudois, autorité inférieure de
+surveillance.
+La greffière :
