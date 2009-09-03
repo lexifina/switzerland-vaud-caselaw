@@ -1,0 +1,361 @@
+---
+decision_id: "vd_findinfo_Faillite___2009___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2009 / 19"
+decided: "2009-09-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1501341"
+cites_law: ["switzerland/bund/acts/173.110/art-066.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.35/art-052.md", "switzerland/bund/acts/281.35/art-061.md"]
+---
+
+# VD Findinfo Faillite / 2009 / 19
+
+## Regeste
+
+FRAIS JUDICIAIRES | 61 OELP, 66 OJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.09.2009 Faillite / 2009 / 19
+
+FRAIS JUDICIAIRES | 61 OELP, 66 OJ
+
+TRIBUNAL CANTONAL
+253
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du 3 septembre
+2009
+_____________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:
+MM.     Bosshard et  Hack
+Greffier
+:
+Mme   Debétaz Ponnaz
+*****
+Art. 66 aOJ; 52 et 61 al. 1
+OELP
+La Cour des poursuites et faillites du Tribunal cantonal, en sa
+qualité d'autorité de recours en matière
+sommaire de poursuites et de faillite, prend séance à
+huis clos, à la suite de l'arrêt rendu le 13
+février 2009 par la IIe Cour de droit civil du Tribunal
+fédéral, pour statuer sur les frais et dépens
+des deux instances cantonales de la procédure ayant
+opposé
+G.________SA
+, à Baulmes,
+à
+Bureau R.________
+,
+à Yverdon-les-Bains,
+K.________SA
+, à
+Baulmes,
+I.________SA
+, à
+Baulmes,
+et
+C.________SNC
+, à Baulmes.
+Vu les pièces au dossier, la cour considère
+:
+En fait :
+1.
+a)
+Par jugement du 23 mai 2008, notifié aux parties
+le 26 mai 2008, le Président du Tribunal d'arrondissement de
+la Broye et du Nord vaudois a prononcé la faillite sans
+poursuite préalable de G.________SA à la
+requête de quatre créanciers, Bureau R.________,
+K.________SA, I.________SA et C.________SNC. Le premier juge a mis
+les frais du jugement, par 300 fr., à la charge de la
+société faillie.
+Le 5 juin 2008, G.________SA a recouru contre ce jugement,
+concluant, avec suite de frais et dépens, principalement
+à son annulation, subsidiairement à sa réforme
+en ce sens que la faillite est révoquée, et à
+l'octroi de l'effet suspensif, subsidiairement à son
+annulation et au renvoi de la cause en première instance
+pour nouvelle instruction et nouveau jugement. Par lettres du
+même jour, les quatre créanciers
+précités ont déclaré retirer "purement
+et simplement" leurs demandes de faillite.
+L'effet suspensif a été accordé au recours par
+décision présidentielle du 13 juin 2008.
+b)
+Le 10
+novembre 2008, G.________SA a déposé une demande de
+sursis concordataire, accompagnée d'une requête
+d'effet suspensif, devant le Président du Tribunal
+d'arrondissement de La Broye et du Nord vaudois. Par
+prononcé du 11 novembre 2008, ce magistrat a suspendu les
+poursuites pendantes et celles qui pourraient encore être
+introduites et ajourné toute décision devant
+être rendue à la suite de requêtes de faillite
+ordinaire, de change ou sans poursuite préalable,
+jusqu'à droit connu sur la demande de sursis
+concordataire.
+c)
+Par
+arrêt rendu en séance publique le 13 novembre 2008, la
+cour de céans a rejeté le recours formé contre
+le jugement de faillite du 23 mai 2008 et dit que la faillite
+prenait effet le 13 novembre 2008 à 10 heures et 25 minutes.
+Les motifs de cette décision ont été
+adressés pour notification aux parties le 22 décembre
+2008. La cour a notamment considéré que les
+conditions de l'art. 174 al. 2 LP n'étaient pas
+remplies, la recourante n'ayant pas rendu vraisemblable sa
+solvabilité. Les frais d'arrêt de la recourante ont
+été arrêtés à 300 fr. et il n'a
+pas été alloué de dépens de
+deuxième instance.
+d)
+Par prononcé du 19 décembre 2008, rendu
+à la suite de l'audience du 11 décembre 2008, le
+Président du Tribunal d'arrondissement de La Broye et du
+Nord vaudois a, entre autres points, accordé à
+G.________SA un sursis concordataire de six mois, soit jusqu'au 11
+juin 2009.
+e)
+Le 31 décembre 2008, G.________SA a saisi le
+Tribunal fédéral d'un recours en matière
+civile et d'un recours constitutionnel contre l'arrêt rendu
+par la cour de céans le 13 novembre 2008. L'effet suspensif
+a été accordé au recours par ordonnance
+présidentielle du 28 janvier 2009.
+2.
+a)
+Par
+arrêt du 13 février 2009, le Tribunal
+fédéral a annulé l'arrêt
+précité du 13 novembre 2008, considérant que
+la procédure de faillite n'avait plus d'objet, le sursis
+concordataire, octroyé le 19 décembre 2008, ayant
+empêché le prononcé de faillite, suspendu le 28
+janvier 2009. Il a renvoyé la cause à la cour de
+céans pour nouvelle décision sur les frais et
+dépens des première et deuxième instances de
+la procédure cantonale.
+b)
+Par
+avis du greffe de la cour de céans du 13 mars 2009, les
+parties ont été informées que, sous
+réserve des objections qu'elles pourraient émettre
+à cet égard, la cour rendrait son arrêt
+à huis clos et que, dans cet optique, un délai au 26
+mars 2009 leur était imparti pour se déterminer sur
+la question des frais et dépens.
+c)
+En temps utile, G.________SA s'est
+déterminée, concluant à l'allocation de pleins
+dépens, les frais de justice étant laissés
+à la charge de l'Etat.
+Les autres parties ne se sont pas
+déterminées.
+En droit
+:
+I.
+La LTF (loi du 17
+juin 2005 sur le Tribunal fédéral; RS 173.110) ne
+connaît pas de disposition équivalente à l'art.
+66 al. 1 aOJ (loi fédérale d'organisation judiciaire,
+abrogée par la LTF) qui prévoyait que
+l'autorité cantonale était tenue de fonder sa
+nouvelle décision sur les considérants de droit de
+l'arrêt du Tribunal fédéral. Cette
+règle
+demeure toutefois valable sous
+le nouveau droit (TF 5A_336/2008 du 28 août 2008 c. 1.3 et
+réf. cit.; CPF, 31 octobre 2008/537) : le tribunal auquel la
+cause est renvoyée voit sa cognition limitée par les
+motifs de l'arrêt de renvoi, en ce sens qu'il est lié
+par ce qui a été déjà jugé
+définitivement par le Tribunal fédéral
+(ATF 133 III 201 c. 4.2,
+rés. in JT 2008 I 106).
+En l'espèce, le renvoi ne porte que sur la question des
+frais et dépens des deux instances cantonales. On doit donc
+examiner, à la lumière des considérants de
+l'arrêt du Tribunal fédéral, si le premier juge
+aurait statué différemment lorsqu'il a
+prononcé la faillite de G.________SA le 23 mai 2008, puis si
+la cour de céans aurait statué différemment
+dans son arrêt du 13 novembre 2008 et quelles auraient
+été les conséquences de ces décisions
+sur les frais et dépens.
+II.
+a)
+Dans son arrêt,
+le Tribunal fédéral a examiné les rapports
+entre la procédure de faillite et la procédure
+concordataire, considérant en particulier que l'octroi du
+sursis concordataire le 19 décembre 2008 avait
+"empêché le prononcé de la faillite",
+prononcé suspendu par l'ordonnance présidentielle du
+28 janvier 2009 "afin d'empêcher que la faillite ne fasse
+échec au concordat".
+En première instance, la faillite a été
+prononcée le 23 mai 2008, alors qu'aucune procédure
+concordataire n'était ouverte, puisque la demande de sursis
+concordataire a été déposée plus de
+cinq mois plus tard. Le premier juge aurait donc de toute
+façon prononcé la faillite, de sorte qu'en principe,
+il n'y aurait pas lieu de modifier le montant des frais de
+première instance mis à la charge de
+G.________SA.
+b)
+Le Tribunal fédéral a
+considéré que le Président du Tribunal
+d'arrondissement de La Broye et du Nord vaudois, en qualité
+de juge du concordat, n'était pas compétent pour
+rendre le prononcé du 11 novembre 2008 par lequel il a
+suspendu les poursuites pendantes jusqu'à droit connu sur la
+demande de sursis concordataire déposée le 10
+novembre 2008. Il a relevé qu'en application de l'art. 173a
+al. 1 LP, le juge de la faillite peut ajourner le jugement de
+faillite si le débiteur ou un créancier ont introduit
+une demande de sursis concordataire.
+D'après la doctrine, pour obtenir l'ajournement de la
+décision de faillite, le débiteur doit
+démontrer avoir présenté au juge du concordat
+une requête de sursis et rendre vraisemblable, par la
+production de la requête de sursis accompagnée des
+justificatifs nécessaires, que, sur la base de la
+proposition, émerge une certaine probabilité
+concrète d'homologation du concordat et qu'il n'existe aucun
+élément qui exclue de prime abord l'octroi du sursis,
+comme c'est par exemple le cas si la requête de sursis vise
+manifestement des buts uniquement dilatoires ou semble
+d'emblée dénuée de toute chance de
+succès, si elle n'est pas accompagnée de
+justificatifs, de sorte à ne pas en permettre un examen,
+même sommaire, ou si elle est constitutive d'un abus de
+droit, ce qui serait le cas de requêtes fondées en
+substance sur les mêmes faits déjà soumis
+à jugement et se succédant dans un bref délai
+(Cometta, Commentaire romand, n. 4 ad art. 173a LP;
+Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, n. 12 ad art. 173a
+LP).
+En l'espèce, G.________SA n'a pas produit avant l'audience
+du 13 novembre 2008 les éléments, soit la
+requête de sursis concordataire et les justificatifs
+nécessaires, qui auraient permis, le cas
+échéant, à la cour de céans d'ajourner
+la faillite en application de l'art. 173a al. 1 LP. Elle soutient
+avoir envoyé par télécopie, quelques minutes
+avant l'audience, le prononcé du 11 novembre 2008, mais
+celui-ci, nul puisque rendu par un juge incompétent à
+raison de la matière, ne saurait remplacer les
+éléments de preuve précités. A cela
+s'ajoute qu'une partie de la doctrine et de la jurisprudence
+considère, sur la base des travaux parlementaires ayant
+conduit à l'introduction de l'art. 173a LP le 1
+er
+février 1950, que seul le juge de première instance
+peut ajourner la faillite, mais non l'autorité de recours
+(Staehelin, Basler Kommentar, Ergänzungsband, ad n. 1 ss ad
+art. 173a LP; Giroud, Basler Kommentar, n. 5 ad art. 173a LP; SJ
+1993, p. 620; contra Gilliéron, op. cit., n. 46 ad art. 174
+LP).
+Ainsi, en l'absence des documents qui auraient permis, le cas
+échéant, d'ajourner la faillite, la décision
+de deuxième instance était également
+justifiée au regard de la procédure concordataire
+ouverte parallèlement, qui n'avait pas été
+communiquée en bonne et due forme à la cour de
+céans. Par conséquent, il n'y aurait en principe pas
+lieu de modifier cette décision sur la question des frais et
+dépens de deuxième instance.
+c)
+Il n'en demeure pas moins que, sur le plan formel,
+l'arrêt du Tribunal fédéral a annulé
+l'arrêt de la cour de céans et du même coup,
+compte tenu de l'effet dévolutif du recours de l'art.
+174 al. 1 LP (Gilliéron,
+op. cit., n. 46 ad art. 174 LP), le jugement de première
+instance du 23 mai 2008.
+Dès lors
+qu'on ne peut pas arrêter des
+frais et dépens pour des décisions  qui
+n'existent plus, il y a lieu de ne prélever
+d'émoluments ni en première instance (art. 52 OELP -
+ordonnance sur les émoluments perçus en application
+de la LP; RS 281.35) ni en deuxième instance (art. 61 al.
+1OELP). Il n'y a pas lieu d'allouer des dépens à la
+recourante, puisque les décisions étaient
+matériellement justifiées.
+Par ces
+motifs,
+la Cour des
+poursuites et faillites du Tribunal cantonal,
+statuant à
+huis clos en sa qualité d'autorité
+de recours en
+matière sommaire de poursuites et de faillite,
+p r o n o n c e
+:
+I.
+Il n'est pas perçu de frais de
+première et deuxième instances ni alloué de
+dépens dans la procédure ayant conduit au jugement du
+23 mai 2008 prononçant la faillite sans poursuite
+préalable de G.________SA et à l'arrêt du 13
+novembre 2008 confirmant cette faillite.
+II.
+L'arrêt est
+exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 3 septembre
+2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié en expédition complète, par l'envoi de
+photocopies à :
+‑
+G.________SA,
+‑      M. Christophe
+Savoy, agent d'affaires breveté (pour Bureau R.________,
+K.________SA, I.________SA et C.________SNC).
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-      M. le
+Préposé à l'Office des poursuites et faillites
+d'Yverdon-Orbe-La Vallée-Grandson,
+-      M. le Conservateur
+du Registre foncier du district d'Orbe,
+-      M. le
+Préposé au Registre du Commerce du canton de
+Vaud,
+‑      M. le
+Président du Tribunal d'arrondissement de La Broye et du
+Nord vaudois.
+L
+a
+greffi
+ère
+:
