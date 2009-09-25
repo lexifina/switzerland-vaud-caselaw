@@ -1,0 +1,140 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 41"
+decided: "2009-09-25"
+published: "2009-09-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1519466"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-036.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 41
+
+## Regeste
+
+ACTE DE RECOURS, EFFET SUSPENSIF, DÉCISION D'IRRECEVABILITÉ | 36 LP, 21 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 25.09.2009 Plainte / 2009 / 41
+
+ACTE DE RECOURS, EFFET SUSPENSIF, DÉCISION D'IRRECEVABILITÉ | 36 LP, 21 LVLP
+
+TRIBUNAL CANTONAL
+36
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+25 septembre 2009
+______________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:
+Mme   Carlsson et M. Sauterel
+Greffier
+:
+Mme   Joye
+*****
+Art.
+36
+LP
+; 21
+LVLP
+Vu le prononcé rendu le 24 août 2009 par la
+Présidente du Tribunal d'arrondissement de La Côte
+prononçant l'effet suspensif demandé dans le cadre de
+la plainte déposée le 21 août 2009 par
+M.________, à Founex, contre l'avis de saisie du 10
+août 2009 de l'
+OFFICE DES POURSUITES ET FAILLITES DE
+NYON-ROLLE
+dans la poursuite n° 1'204'045'702 introduite
+contre le plaignant à la réquisi-tion de
+R.________
+, à Thônex ;
+vu l'acte de recours déposé le 3 septembre 2009 par
+R.________ qui conclut à l'annulation de la décision
+du 24 août 2009 (I), à ce qu'il soit ordonné
+à l'Office des poursuites et faillites de procéder
+à la saisie des biens de M.________ (II) et à ce que
+ce dernier soit condamné au paiement des dépens
+(III) ;
+considérant que la plainte ou le recours à
+l'autorité de surveillance ne peuvent viser qu'une mesure ou
+une décision d'un organe de la poursuite,
+que, selon la jurisprudence et la doctrine unanimes, l'octroi, le
+refus ou le retrait de l'effet suspensif constituent des mesures de
+caractère purement procédural, et non des mesures
+d'exécution forcée (ATF 98 III 22; Sandoz-Monod,
+Commentaire de l'OJF, vol. II, n. 1.1.2 ad art. 78, p. 711; von
+Salis, Probleme des Sus­pensiveffektes von Rechtsmitteln im ZPR
+und SchKG, thèse Zurich 1980, pp. 142/143 et les
+références citées),
+qu'il n'y a dès lors pas de recours contre la
+décision sur l'effet suspensif (Gilliéron,
+Commen­taire de la LP, n. 16 ad art. 36, p. 607; CPF, 23
+février 2004/7 et les arrêts cités),
+que la question de la saisie
+des biens du débiteur sera examinée par
+l'autorité inférieure de surveillance dans le cadre
+de la plainte,
+que le présent recours est ainsi
+irrecevable;
+considérant que la présente décision est
+rendue sans frais.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Le prononcé est
+confirmé.
+III.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+Le président
+:
+La greffière :
+Du 25 septembre 2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Me Michel
+Valticos, avocat (pour R.________),
+‑      Me Didier
+Kvicinsky, avocat (pour M.________),
+-      M. le
+Préposé à l'Office des poursuites et faillites
+de Nyon-Rolle.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-      Mme
+la
+Présidente du Tribunal d'arrondissement de La Côte,
+autorité inférieure de surveillance.
+La greffière :
+ejo
