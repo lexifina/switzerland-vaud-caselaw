@@ -1,0 +1,428 @@
+---
+decision_id: "vd_findinfo_R_v-civile___2009___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-civile / 2009 / 3"
+decided: "2009-09-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20Civile/R%E9v-civile/20090915163008991_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/831.40/art-023.md"]
+---
+
+# VD Findinfo Rév-civile / 2009 / 3
+
+## Regeste
+
+MOTIF DE RÉVISION, RÉVISION{DÉCISION}, DÉLAI, PÉREMPTION, RENTE D'INVALIDITÉ, DÉBUT | 476 al. 1 ch. 2 CPC, 477 al. 1 CPC, 23 al. 1 LPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 30.09.2009 Rév-civile / 2009 / 3
+
+MOTIF DE RÉVISION, RÉVISION{DÉCISION}, DÉLAI, PÉREMPTION, RENTE D'INVALIDITÉ, DÉBUT | 476 al. 1 ch. 2 CPC, 477 al. 1 CPC, 23 al. 1 LPP
+
+TRIBUNAL CANTONAL
+12
+JU07.038572-090412
+CHAMBRE DES
+REVISIONS
+CIVILES ET PENALES
+_________________________________
+REVISION CIVILE
+Arrêt du 30 septembre
+2009
+____
+__________________
+Présidence
+de   M.        F.
+Meylan
+,
+président
+Juges
+:
+M.        Giroud, Mme Carlsson,
+MM. J.-F. Meylan et Hack
+Greffier
+:
+M.        Jaillet
+*****
+Art. 476 al. 1
+ch. 2,
+477 al. 1 CPC; 23 al. 1
+let. a LPP
+La
+Chambre des
+révisions civiles et pénales prend séance
+à huis clos pour statuer sur la demande
+présentée le
+26 février 2009
+par
+M.P.________
+, à
+Lausanne,
+tendant à la
+révision d
+u prononcé de mesures protectrices
+de l'union conjugale rendu le 18 mars 2008 par le Président
+du Tribunal civil de l'arrondissement de La Côte et du
+jugement d'appel rendu le 31 juillet 2008 par le Tribunal
+d'arrondissement de La Côte.
+Elle considère :
+En fait :
+A.
+Par prononcé de mesures protectrices de
+l'union conjugale du 18 mars 2008, le président du Tribunal
+civil de l'arrondissement de La Côte a notamment
+autorisé les époux M.P.________ et N.P.________
+à vivre séparés pour une durée d'une
+année, jusqu'au 31 mars 2009 (I) et dit que M.P.________
+contribuerait à l'entretien de son épouse par le
+versement d'une pension mensuelle de 3'022 fr. pour avril 2008,
+puis par le versement d'une pension mensuelle de 4'471 fr.,
+d'avance le premier de chaque mois dès et y compris le
+1
+er
+mai 2008 (III et IV).
+Ce prononcé retient que N.P.________ percevait des
+indemnités perte de gain à raison d'environ 5'796 fr.
+par mois jusqu'au 14 avril 2008, qu'elle alléguait que son
+médecin l'estimait toujours en incapacité de travail
+totale et que, dès le 15 avril 2008, elle serait à
+l'aide sociale, si elle ne retrouvait pas sa capacité de
+gain et un travail d'ici là.
+A l'audience d'appel sur mesures protectrices de l'union conjugale
+du 19 mai 2008, M.P.________ a conclu à ce que la pension
+soit fixée à
+3'200 fr., sous déduction des rentes Al que son
+épouse percevrait, et dont elle devrait rembourser la
+différence jusqu'à hauteur de la contribution
+d'entretien versée. Les parties ont passé une
+transaction selon laquelle la pension était fixée
+à 4'300 fr. par mois dès et y compris le
+1
+er
+juin 2008, l'imputation de la rente Al dès et
+y compris le 1
+er
+juin 2008 restant
+réservée. Cette convention était conclue sous
+la condition suspensive que l'enfant [...] confirme que son
+entretien était compris dans ce montant. Dans le cas
+contraire, il était prévu que le Tribunal rendrait
+une décision.
+La condition n'ayant pas été remplie, il a
+été rendu un arrêt sur appel le 31 juillet
+2008, qui a confirmé l'ordonnance de mesures protectrices de
+l'union conjugale. Les deux décisions ont été
+prises sur la base d'un salaire mensuel du mari de 7'032 fr., y
+compris le treizième mois. Le revenu de l'épouse,
+dès le 15 avril 2008, était supposé être
+nul.
+Le 3 décembre 2008, le conseil de N.P.________ a fait
+parvenir à celui de M.P.________ des copies des documents
+relatifs à la rente perçue par sa cliente de sa
+caisse de pensions. Il en ressort que N.P.________ s'est vu allouer
+une rente d'invalidité LPP par la Caisse de pensions du
+Groupe L'Express (ci-après: la caisse LPP) de 3'112 fr.,
+avec effet dès le 15 avril 2008. Selon une attestation du 13
+novembre 2008 (pièce 5/1), elle a d'abord perçu sa
+pension dès le 1
+er
+novembre 2008; un
+décompte a ensuite été établi le 25
+novembre 2008 pour la période du 1
+er
+avril 2007
+au 31 octobre 2008. De ce dernier décompte, il ressort que
+le Fonds social du Groupe L'Express avait versé, pour la
+période du 1
+er
+avril 2007 au 14 avril 2008, un
+montant total de 79'123 fr. 20. Il restait en faveur de
+l'assurée un solde de 7'269 francs (pièce
+5/2).
+B.
+Par acte du 26
+février 2009,
+M.P.________ a
+demandé la révision du prononcé de mesures
+protectrices de l'union conjugale et du jugement d'appel du 31
+juillet 2008, concluant en substance à ce qu'ils soient
+annulés pour ce qui concerne la contribution d'entretien
+mise à sa charge, à ce que soit désigné
+le tribunal devant lequel la cause doit être reprise et
+à ce que les contributions d'entretien mises à sa
+charge doivent intégrer les revenus de l'épouse tels
+qu'ils ressortent des attestations de rente de l'assurance
+invalidité et du 2
+ème
+pilier. Selon un
+calcul qu'il a produit en annexe (pièce 7), le montant total
+versé en trop à titre de pensions serait de 17'926
+francs. Le requérant a également produit une
+décision du 9 juillet 2008, par laquelle l'Office AI du
+Canton de Vaud (ci-après: l'office AI) a alloué
+à N.P.________ une rente entière d'invalidité
+de 1'803 fr. par mois dès le 1
+er
+juillet 2008, et
+une décision du 22 août 2008, par laquelle ce
+même office lui a alloué une rente entière pour
+la période du 1
+er
+avril 2007 au 30 juin 2008
+(pièces 6).
+L'intimée, dans son mémoire, a conclu au rejet de la
+demande de révision. Elle a produit des
+pièces.
+En droit
+:
+1.
+Selon l'art. 478 al.
+1 CPC (Code de procédure civile du 14 décembre 1966;
+RSV 270.11), la demande de révision, accompagnée des
+pièces justificatives doit être adressée par
+écrit au Tribunal cantonal. Selon la jurisprudence, elle
+doit contenir des conclusions précises, être
+fondée sur l'un ou l'autre des motifs légaux de
+l'art. 476 CPC et être accompagnée des pièces
+justificatives, faute de quoi elle doit être
+écartée préjudiciellement (JT 1965 III 31;
+Poudret/Haldy/Tappy, Procédure civile vaudoise, 3ème
+éd., 2002, n. 2
+ad
+art. 478 CPC, p. 746).
+Les pièces produites par la partie intimée sont
+recevables dans la mesure où elles sont de nature à
+réduire à néant la portée des
+pièces produites par la partie requérante (Ch.
+rév., 20 décembre 2004, n° 12, confirmé
+par TF, 4P_111/2005 du 16 juin 2005).
+En l'espèce, la demande de révision répond aux
+exigences de forme posées par l'art. 478 al. 1 CPC. Les
+pièces produites de part et d'autre sont
+recevables.
+2.
+a)
+Selon
+l'art. 476 al. 1 ch. 2 CPC, celui qui a été
+condamné par un jugement définitif ou son ayant cause
+obtient la révision, si le requérant recouvre un
+titre qui aurait été important dans les
+débats, mais qu'il ignorait ou ne pouvait faire produire au
+dossier.
+Un arrêt sur
+appel en matière de mesures protectrices de l'union
+conjugale doit être, s'agissant d'une révision,
+assimilé à un jugement définitif. La
+révision est donc possible (JT 1993 III 41;
+Poudret/Haldy/Tappy, op.
+cit., n. 2
+ad
+art. 476 CPC).
+b)
+Aux termes de
+l'art. 477 al. 1 CPC, la demande de révision doit être
+présentée, à peine de péremption, dans
+les trois mois dès la découverte du motif de
+révision.
+Le requérant soutient avoir reçu, par le courrier du
+conseil de l'intimée du 3 décembre 2008, l'ensemble
+des documents établissant le paiement des diverses rentes
+des assurances sociales à son épouse. Il en
+déduit que sa demande déposée le 26
+février 2009 respecte le délai de l'art. 477 al. 1
+CPC. De son côté, l'intimée conteste que ce
+délai ait été respecté. Elle fait
+valoir que l'existence d'une demande de rente AI ressort
+déjà de l'arrêt sur appel.
+L'argument de l'intimée n'est pas relevant. En effet, le
+requérant ne pouvait demander la révision de
+l'arrêt sur appel au motif que son épouse avait
+déposé une demande de rente AI.
+Si le requérant établit suffisamment que la
+décision de la Caisse de pensions du Groupe L'Express du 25
+novembre 2008 lui a été communiquée par la
+lettre du conseil de l'intimée du 3 décembre 2008
+(pièce 5), il ne rapporte plus cette preuve pour la
+décision de l'office AI du 9 juillet 2008 (pièce
+6).
+Il ressort des pièces produites
+par l'intimée (pièce 52) que, le 21 août 2008,
+le requérant a déposé une requête de
+mesures protectrices de l'union conjugale, dans laquelle il est
+allégué que, par décision du 9 juillet 2008,
+l'intimée percevait une rente Al mensuelle de 1'803 fr.
+dès le 1
+er
+juillet 2008 (allégué 8
+de cette demande); il offrait comme preuve la pièce 3 de son
+bordereau. Le 8 septembre 2008, dans le cadre de cette
+procédure, le requérant a requis la production de
+toute pièce permettant de déterminer le montant
+perçu ou à percevoir par l'intimée à
+titre de 2
+ème
+pilier ensuite de la
+décision rendue par l'office AI le 9 juillet 2008. Le 24
+septembre 2008, l'intéressée a produit la
+décision de l'office AI du 9 juillet 2008, celle du 22
+août 2008 (accordant l'assurance invalidité
+rétroactivement au 1
+er
+avril 2007) et, en ce qui
+concerne le 2
+ème
+pilier, une attestation de
+transfert de prestation de libre passage.
+Il résulte de ce qui précède que, dès
+le 21 août 2008, le requérant détenait la
+première décision de l'office AI et qu'il a eu
+accès à la seconde décision - si elle ne lui a
+pas été envoyée en copie - dès fin
+septembre 2008 en tous cas. Le dernier document produit à
+l'époque établit que le requérant savait,
+dès fin septembre 2008 au moins, que l'intimée
+disposait d'un avoir de vieillesse LPP auprès de la Caisse
+de pensions du Groupe L'Express.
+Le 4 décembre 2008, le conseil du requérant
+a
+produit l'attestation de la caisse LPP du 13 novembre 2008
+et a modifié les conclusions de sa requête de mesures
+protectrices de l'union conjugale (pièce 55).
+Il est ainsi établi que le délai de trois mois
+était largement dépassé, en tous cas en ce qui
+concerne la rente AI, lors du dépôt de la demande de
+révision. Le requérant ne peut dès lors faire
+valoir les décisions l'office AI pour obtenir la
+révision.
+En ce qui concerne la rente d'invalidité LPP, le
+requérant ne disposait apparemment pas avant le 4
+décembre 2008 du titre qu'il a produit. Toutefois, le
+délai de trois mois de l'art. 477 al. 1 CPC court dès
+la découverte du motif de révision. Or, selon l'art.
+23 al. 1 let. a LPP (Loi fédérale du 25 juin 1982 sur
+la prévoyance professionnelle vieillesse, survivants et
+invalidité; RS 831.40), ont droit à des prestations
+d'invalidité les personnes qui sont invalides à
+raison de 40% au moins au sens de l'AI, et qui étaient
+assurées lorsqu'est survenue l'incapacité de travail
+dont la cause est à l'origine de
+l'invalidité.
+La péremption de l'art. 477 al. 1 CPC s'applique donc en ce
+qui concerne la rente d'invalidité, puisque, dès
+l'été 2008, le recourant savait que l'intimée
+bénéficiait d'une rente AI, et qu'il savait
+également, dès fin septembre 2008, qu'elle
+était affiliée à une caisse LPP, sa prestation
+de libre passage ayant été transférée
+à la Caisse de pensions du Groupe L'Express.
+3.
+Selon une jurisprudence constante (JT 1993 III 41; Ch. rec., 19
+avril 2001, n°2; Ch. rec., 5 mai 2006, n° 2), seul un titre
+existant au moment du jugement peut être invoqué
+à l'appui d'une demande de révision.
+En l'occurrence, seule la décision de l'office AI du 9
+juillet 2008 existait au moment où l'arrêt sur appel a
+été rendu. Comme on l'a vu, les droits
+éventuels du requérant à demander la
+révision sur la base de cette décision sont
+périmés, puisqu'il disposait de cette pièce
+dès le 21 août 2008. Dans la mesure où il
+subsisterait un doute au sujet de la rente LPP, on relèvera
+que l'attestation du 13 novembre 2008 n'existait pas au moment
+où l'arrêt sur appel a été rendu et que
+le requérant ne peut donc pas s'en
+prévaloir.
+4.
+Au demeurant, abstraction faite de la première
+décision de l'office AI, les décisions en cause sont
+postérieures à l'arrêt sur appel. Certes, elles
+prévoient le versement rétroactif de rentes; mais ces
+versements sont intervenus après cet arrêt sur appel.
+Ces versements "rétroactifs" correspondent à ceux qui
+auraient été effectués si les droits à
+la rente avaient été immédiatement
+constatés. En réalité, les nouveaux revenus de
+l'intimée sont pour l'essentiel postérieurs à
+l'arrêt dont la révision est
+demandée.
+5.
+En conclusion, la demande de révision est
+irrecevable.
+Les
+frais d'arrêt, à la charge du requérant, sont
+arrêtés à 479 fr. (art. 232 et 250 TFJC [Tarif
+des frais judiciaires en matière civile du 4 décembre
+1984; RSV 270.11.5]).
+L'intimé a droit à des dépens de la
+procédure de révision, fixés à 1'000
+francs.
+Par ces motifs,
+la Chambre des révisions
+civiles et pénales,
+statuant à huis
+clos,
+prononce
+:
+I.
+La demande de révision
+présentée par M.P.________ est
+irrecevable.
+II.
+Les frais d'arrêt, à la
+charge du requérant, sont arrêtés à 479
+fr. (quatre cent septante-neuf francs).
+III.
+Le requérant M.P.________
+versera à l'intimée N.P.________ la somme de 1'000
+fr. (mille francs) à titre de dépens.
+IV.
+L'arrêt est
+exécutoire.
+L
+e
+président :
+L
+e
+greffi
+er
+:
+Du
+L'arrêt qui
+précède, dont la rédaction a été
+approuvée à huis clos, est notifié à
+:
+‑      Me Catherine
+Jaccottet Tissot (pour M.P.________),
+‑      Me Mireille
+Loroch (pour N.P.________).
+La Chambre des révisions civiles et pénales
+considère que la valeur litigieuse est de
+17'926 francs.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss (LTF loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière
+civile n'est recevable que si la valeur litigieuse
+s'élève au moins à 15'000 fr. en
+matière de droit du travail et de droit du bail à
+loyer, à 30'000 fr. dans les autres cas, à moins que
+la contestation ne soulève une question juridique de
+principe (art. 74 LTF). Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopie
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de La
+Côte.
+Il prend date de ce jour.
+L
+e
+greffi
+er
+:
