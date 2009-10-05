@@ -1,0 +1,193 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2009___52"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2009 / 52"
+decided: "2009-10-05"
+published: "2009-10-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/2009101411513756_e.html"
+cites_law: ["switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-434.md", "switzerland/bund/acts/818.101/art-039.md"]
+---
+
+# VD Findinfo Pron-prés / 2009 / 52
+
+## Regeste
+
+ATTRIBUTION DE L'EFFET SUSPENSIF, EFFET SUSPENSIF | 485p CPP, 38 al. 1 LEP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 14.10.2009 Pron-prés / 2009 / 52
+
+ATTRIBUTION DE L'EFFET SUSPENSIF, EFFET SUSPENSIF | 485p CPP, 38 al. 1 LEP
+
+TRIBUNAL CANTONAL
+430
+AP09.024011-SPG/LCJ
+LE PRESIDENT
+DE LA COUR DE
+CASSATION PENALE
+______________________________________________
+Arrêt du
+________________
+Du 14 octobre 2009
+________________
+Présidence
+de   M
+.
+Creux
+,
+président
+Greffier
+:
+M
+.
+Ritter
+*****
+Art. 485p CPP; 38, 39
+LEP
+Vu
+le jugement
+du 5 octobre 2009, par lequel le Juge
+d'application des peines a libéré conditionnellement
+U.________
+de l'exécution de la peine de quatre mois
+de privation de liberté prononcée le 5 juin 2007 par
+le
+Tribunal de police de l'arrondissement de
+Lausanne, au jour où son
+renvoi de Suisse pourra être exécuté, mais au
+plus tôt le 6 octobre 2009 (I), a fixé à un an
+la durée du délai d'épreuve imparti au
+condamné (II) et a laissé les frais de la
+décision à la charge de l'Etat
+(III),
+vu le recours déposé le 13 octobre 2009 contre ce
+jugement par U.________, concluant implicitement, au titre de
+mesures provisionnelles, qu'il soit sursis à son expulsion
+prévue le 14 octobre 2009, respectivement que celle-ci soit
+annulée, son autorisation de séjour en Suisse
+étant rétablie, d'une part, et à ce que
+l'effet suspensif soit accordé contre la décision du
+Juge d'application des peines lui octroyant la libération
+conditionnelle, d'autre part,
+vu les pièces du dossier;
+attendu que la décision attaquée, rendue par le Juge
+d'application des peines, peut faire l'objet d'un recours
+auprès de la Cour de cassation pénale
+conformément à l'art. 38 de la loi du 4 juillet 2006
+sur l'exécution des condamnations pénales
+(ci-après : LEP; RSV 340.01),
+qu'aux termes de l'art. 485p du Code de procédure
+pénale (RSV 312.01),
+applicable par renvoi de l'art. 39
+LEP
+, le dépôt du recours ne suspend pas
+l'exécution de la décision attaquée, sauf
+décision contraire prise, d'office ou sur requête, par
+le Président de la Cour de cassation
+pénale;
+attendu, en l'espèce, qu'on peut tout d'abord douter que la
+Cour de cassation soit saisie d'un véritable recours au
+fond,
+qu'en tout état de cause, la requête d'effet
+suspensif, en tant qu'elle concerne l'application des peines, tend
+à la poursuite de l'exécution de la peine privative
+de liberté, soit au maintien de la détention du
+requérant, ce afin qu'il soit sursis, respectivement
+renoncé à son refoulement du territoire suisse
+jusqu'au terme de la peine,
+que le requérant oublie cependant que la décision
+litigieuse a été rendue d'office, en application de
+l'art. 86 al. 2 CP, dès lors qu'il avait subi les deux tiers
+de sa peine à la date du 6 octobre 2009,
+que le condamné ne dispose donc pas de la procédure,
+dont il n'est, en d'autres termes, pas le maître,
+qu'il ne saurait ainsi renoncer de son propre chef à sa
+libération conditionnelle, même pour échapper
+à une expulsion pendente lite,
+qu'il n'y a donc pas lieu à suspendre l'exécution de
+la décision attaquée,
+qu'en définitive, la requête d'effet suspensif doit
+être rejetée;
+attendu, au surplus, que le requérant dit demander la
+"révision" de la décision du Service de la population
+du 9 novembre 2007, confirmée par arrêt du 21
+août 2008 de la Cour de droit administratif et public du
+Tribunal cantonal, lui impartissant un délai d'un mois pour
+quitter le territoire suisse,
+que ces rapports de droit relèvent de la législation
+sur les étrangers, en particulier de la loi
+fédérale du 26 mars 1931 sur le séjour et
+l'établissement des étrangers (LSEE), abrogée
+au 31 décembre 2007, respectivement de la loi
+fédérale du 16 décembre 2005 sur les
+étrangers (LEtr), entrée en vigueur le 1
+er
+janvier 2008, ainsi que de la législation cantonale sur le
+même objet,
+qu'ils ne ressortissent ainsi pas à la compétence
+ratione materiae de l'autorité de céans,
+qu'ils échappent, partant, à sa cognition;
+attendu que le présent arrêt doit être rendu
+sans frais.
+Par ces motifs,
+le Président de la Cour de
+cassation pénale,
+statuant à huis
+clos
+prononce
+:
+I.
+La requête d'effet suspensif est
+rejetée.
+II.
+L'arrêt, rendu sans frais, est
+exécutoire.
+L
+e
+président
+:
+L
+e
+greffi
+er
+:
+Du
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié à :
+‑      M.
+U.________,
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+‑
+Département de l'intérieur, Office d'exécution
+des peines
+(réf. OEP/PPL/10498/AL),
+-      Service de la
+population, secteur étrangers (9.11.2971),
+‑      Mme le
+Juge d'application des
+peines
+,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Conformément à l'art. 434 al. 2 CPP, les parties
+peuvent déposer un recours motivé dans les dix jours
+dès la communication de la présente décision
+auprès de la Cour de cassation pénale du Tribunal
+cantonal, ledit recours devant contenir la désignation de la
+décision attaquée, les conclusions en réforme
+ou en nullité et les motifs à l'appui de ces
+conclusions.
+L
+e
+greffi
+er
+:
