@@ -1,0 +1,100 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 9"
+decided: "2009-10-09"
+published: "2010-02-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1716735"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-437.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 9
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 437 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour de cassation pénale 15.02.2010 Pron-prés / 2010 / 9
+
+RETRAIT{VOIE DE DROIT} | 437 CPP
+
+TRIBUNAL
+CANTONAL
+13
+PE07.000673-JBN/VFV/SRL
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Du 15 février
+2010
+________________
+Vu le jugement du 9 octobre 2009 par lequel le Tribunal correctionnel de l’arrondissement de La
+Côte a, notamment, libéré C.X.________ des accusations de lésions corporelles graves,
+injures et menaces (I), constaté qu'il s'était rendu coupable de lésions corporelles simples
+qualifiées, voies de fait qualifiées, agression, tentative de contrainte, violation du devoir
+d'assistance ou d'éducation (II), l'a condamné à deux ans de peine privative de liberté,
+sous déduction de trente-quatre jours de détention préventive, a suspendu l'exécution
+de la peine et fixé au condamné un délai d'épreuve de cinq ans (III), mis les frais
+de la cause, comprenant les indemnités allouées au défenseur d'office de C.X.________
+par 7'424 fr. 40 et de B.X.________ par 7'747 fr. 20, à la charge du premier à raison de 26'542
+fr. 50 et à la charge du second à raison de 72'231 fr. 40 (IX) et dit que le remboursement
+à l'Etat des indemnités allouées au chiffre IX ci-dessus sera exigible pour autant que
+la situation économique de C.X.________, respectivement de B.X.________, se soit améliorée
+(X),
+vu la correspondance du 14 octobre 2009, par laquelle Me Annie Schnitzler, défenseur d'office de
+C.X.________, a déclaré recourir contre le jugement précité,
+vu l'art. 437 CPP (Code de procédure pénale du 12 septembre 1967, RSV 312.01);
+attendu que par courrier du 29 octobre 2009, la mandataire de C.X.________ a déclaré retirer
+purement et simplement l'acte de recours qu'elle avait déposé,
+qu'il y a lieu de prendre acte de ce retrait, les conditions de l'art. 437 CPP étant réalisées
+en l'espèce;
+attendu que la présente décision doit être rendue sans frais,
+le
+Président
+de
+la Cour de cassation pénale du Tribunal cantonal :
+I.
+Prend acte du retrait du recours interjeté
+par C.X.________.
+II.
+Dit que la présente décision, rendue sans frais, est exécutoire.
+Le président :
+Du
+Le jugement de première instance est déclaré définitif et exécutoire, en tant
+qu'il concerne C.X.________.
+Le greffier :
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est communiquée à :
+‑
+Me Annie Schnitzler, avocate (pour C.X.________),
+-
+Me Marie-Pomme Moinat, avocate (pour B.X.________),
+-
+Me Julien Rouvinez, avocat-stagiaire (pour [...]),
+-
+M. [...],
+-
+M. [...],
+‑
+M. le Procureur général du canton de Vaud,
+‑
+Mme la Présidente du Tribunal correctionnel de l'arrondissement de La Côte,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Elle prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+Le greffier :
