@@ -1,0 +1,763 @@
+---
+decision_id: "vd_findinfo_Plainte___2009___45"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2009 / 45"
+decided: "2009-10-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1544768"
+cites_law: ["switzerland/bund/acts/0.275.12/art-031.md", "switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-039.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-004.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-038.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-099.md", "switzerland/bund/acts/281.1/art-106.md"]
+---
+
+# VD Findinfo Plainte / 2009 / 45
+
+## Regeste
+
+DÉCLARATION D'EXÉCUTION, SAISIE PROVISOIRE, SÉQUESTRE{MESURE PROVISIONNELLE}, RÉQUISITION DE PROCÉDER À LA SAISIE | 39 CL, 17 LP, 83 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.10.2009 Plainte / 2009 / 45
+
+DÉCLARATION D'EXÉCUTION, SAISIE PROVISOIRE, SÉQUESTRE{MESURE PROVISIONNELLE}, RÉQUISITION DE PROCÉDER À LA SAISIE | 39 CL, 17 LP, 83 LP
+
+TRIBUNAL CANTONAL
+43
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+16 octobre 2009
+__________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:
+MM.     Denys et  Sauterel
+Greffier
+:
+Mme   Nüssli
+*****
+Art. 17, 83 al. 1 LP, art.
+39 CL
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+P.________
+SA
+, à
+Luxembourg, contre la décision
+rendue le 8 mai 2009 par le Président du Tribunal
+d'arrondissement de Lausanne, autorité inférieure de
+surveillance, rejetant la plainte déposée par la
+recourante contre le refus de l'
+OFFICE DES POURSUITES DE
+LAUSANNE-EST
+de saisir provisoirement, au préjudice du
+poursuivi
+L.________
+, à
+Lausanne, des
+comptes bancaires ouverts au nom de tiers.
+Vu les pièces du dossier, la cour considère
+:
+En fait
+:
+A.
+Par ordonnance de référé du 27 juin 2008, le
+Premier Juge du Tribunal d'arrondissement de et à Luxembourg
+a condamné par provision la société
+C.________ Sàrl et L.________ solidairement à payer
+à la société P.________ SA les montants de
+20'500'000 USD, 1'420'468 USD, 5 % d'intérêts sur
+1'500'000 USD dès le 18 janvier 2003, 5 %
+d'intérêts sur 7'500'000 USD dès le 31 mars
+2003, 50'000 USD au titre d'honoraires d'avocat et 750 euros pour
+les frais de procédure.  Cette décision
+précisait qu'elle était immédiatement
+exécutoire.
+L'ordonnance du 27 juin 2008 a été confirmée
+par arrêt référé rendu par la Cour
+supérieure de justice du Grand-Duché de Luxembourg
+à la suite d'une audience qui s'est tenue le 14 janvier
+2009.
+B.
+Le 10 septembre 2008, la créancière a
+déposé contre L.________ une requête
+d'exequatur avec mesures conservatoires auprès du Tribunal
+de première instance de Genève. Par ordonnance du 12
+septembre 2008, cette autorité a prononcé l'exequatur
+provisoire de la décision luxembourgeoise et ordonné
+la saisie provisoire des biens du
+débiteur.
+Sur la base de cette ordonnance, l'Office des poursuites de
+Genève a procédé à la saisie provisoire
+d'immeubles appartenant au poursuivi ainsi que de diverses
+créances auprès de plusieurs banques. Il
+apparaît à la lecture du procès-verbal de
+saisie établi le 14 janvier 2009 par cet office que la
+saisie a porté en particulier sur six comptes dont
+L.________ est titulaire ou détenteur économique
+auprès de l'établissement bancaire Clariden Leu SA,
+soit le compte n° 109962, compte à 0, le compte n°
+273081-43, présentant un solde débiteur de 807 fr.,
+le compte n° 367440-51 présentant un solde
+débiteur de 1'812 fr. 17, le compte n° 367440-52-2,
+présentant un solde créditeur de 1'335.02 livres
+sterling, le compte n° 367440-52-1 présentant un solde
+créditeur de 6'851.69 euros et le compte
+n° 367440-52 présentant un solde débiteur de
+48'094.44 dollars américains. Il est également
+mentionné dans le procès-verbal de saisie ce qui suit
+:
+"Le relevé des
+placement de V.________ & Cie présente une valeur brut
+au 18 septembre 2008 de Frs 6'917'705.-, à
+l'échéance des placement les soldes débiteur
+ci-dessus seront remboursés.
+Clariden Leu SA a
+octroyé à la société une avance
+à terme de Frs 1'084'833 et fait valoir un droit de gage sur
+les actifs ci-dessus à due concurrence. En
+conséquence la saisie provisoire porte sur un actif net de
+Frs 5'832'872."
+C.
+A la requête de P.________ SA, qui invoquait l'ordonnance
+luxembourgeoise du 27 juin 2008, l'Office des poursuites de
+l'arrondissement de Lausanne-Est (ci-après : l'office) a
+notifié le 10 octobre 2008 à L.________, dans la
+poursuite n° 5'001'836, un commandement de payer la somme
+de 31'114'248 fr. 91 en capital, plus intérêts
+à 5,75 % dès le 27 juin 2008 sur 24'176'390 fr. 91.
+Le poursuivi a formé opposition totale.
+La poursuivante a adressé le 27 novembre 2008 au Juge de
+paix du district de Lausanne une requête d'exequatur, de
+mesures conservatoires et de mainlevée
+définitive.
+A la suite d'une audience qui s'est tenue le 27 janvier 2009, le
+Juge de paix du district de Lausanne a rendu, le 3 février
+2009, le prononcé suivant :
+I.
+prononce la mainlevée définitive de l'opposition
+à concurrence de :
+- 22'557'175 fr.
+avec intérêt à 5,75 % dès le 27 juin
+2008
+-  1'563'012 fr.
+avec intérêt à 5,75 % dès le 27 juin
+2008
+-
+55'017 fr. 50
+avec intérêt à 5,75 % dès le 27 juin
+2008
+-   4'530'879 fr.
+60           sans
+intérêt
+-   2'183'309 fr.
+sans intérêt
+-
+1'186 fr. 40
+avec intérêt à 5,75 % dès le 27 juin
+2008
+II.
+ordonne la saisie provisoire des biens de L.________ à
+concurrence des montants énumérés au chiffre I
+ci-dessus, avec les aménagements suivants : la saisie
+provisoire est ordonnée au sens de l'art. 83 LP, cette
+mesure étant soumise aux art. 89 ss LP, à l'exclusion
+des art. 90 et 56 à 63 LP;
+III.
+communique le présent dispositif à l'Office des
+poursuites de Lausanne-Est pour exécution immédiate
+du chiffre II ci-dessus;
+IV.
+dit que la partie poursuivie doit verser à la partie
+poursuivante, à titre de dépens, la somme de 3'980
+fr. (trois mille neuf cent huitante francs), soit 1'980
+francs  (mille neuf cent huitante francs) en remboursement de
+ses frais de justice et 2'000 francs (deux mille francs) à
+titre de participation aux honoraires de son mandataire.
+Ce prononcé fait l'objet d'un recours pendant devant la cour
+de céans.
+Le 4 février 2009, l'office a avisé le juge de paix
+qu'il refusait de donner suite à son ordre
+d'exécution de la saisie provisoire. Pour justifier sa
+décision, il  a fait valoir qu'une saisie provisoire ne
+pouvait être autorisée que si le créancier
+avait obtenu la mainlevée provisoire et qu'au surplus,
+L.________ était soumis à la procédure de
+faillite en sa qualité d'associé indéfiniment
+responsable de la société en commandite Hirsch et
+Cie, à Lausanne.
+Le 6 février 2009, P.________ SA a saisi le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance, d'une plainte
+contre la décision de l'office du 4 février
+2009.
+Par décision rendue sans frais ni
+dépens le 2 mars 2009, le Président du Tribunal
+d'arrondissement de Lausanne a admis la plainte et dit que l'office
+devait procéder à la saisie provisoire des biens de
+L.________.
+Ce prononcé a été confirmé par la cour
+de céans dans un arrêt du 17 juin 2009.
+D.
+Les 3 et 10 mars 2009, l'office a adressé à UBS SA,
+Union Bancaire privée, Clariden Leu SA, Credit Suisse et
+Banque Cantonale Vaudoise un avis intitulé "Avis concernant
+la saisie PROVISOIRE d'une créance au sens de l'article 39
+alinéa 2 de la Convention de Lugano sur ordre du Juge de
+Paix du District de Lausanne (Juge de l'exequatur) (Art. 99 et 275
+LP)" indiquant qu'étaient saisis provisoirement au sens de
+l'art. 39 al. 2 CL "tous avoirs, espèces, créances,
+droits, etc… ouverts dans vos livres au nom de Monsieur
+L.________".
+Le 10 mars 2009 également, l'office a adressé
+à l'Office des poursuites de Nyon-Rolle et à l'Office
+des poursuites de Genève une demande d'entraide au sens de
+l'art. 4 LP requérant la saisie d'immeubles situés
+dans leur arrondissement et propriété du
+poursuivi.
+Par courrier du 13 mars 2009, l'office a écrit à
+Clariden Leu SA ce qui suit :
+" Par ces quelques lignes, je vous confirme que mon avis
+vaut uniquement pour les comptes dont Monsieur L.________ [adresse]
+est le titulaire.
+Pour le surplus, j'accuse réception de votre fax
+de ce matin 13 mars et prends acte du fait que la saisie provisoire
+requise n'a porté que sur un compte ouvert au nom de
+Monsieur L.________ (…) dont le solde est de Fr. 0.00 au 10
+mars 2009.
+J'adresse copie de la présente pour information au
+conseil de la poursuivante."
+Le 17 mars 2009, l'office a encore adressé deux avis de
+saisie, le premier à Z.________ SA portant sur "tous
+dividendes, tantièmes, jetons de présence,
+honoraires, salaires, créance d'actionnaire ou autres
+créances dont votre société est ou sera
+débitrices envers Monsieur L.________", le second à
+V.________ & Cie portant sur "les intérêts, les
+bénéfices ainsi que la part revenant à
+Monsieur L.________ dans la liquidation de la société
+en commandite V.________ & Cie, ainsi que les honoraires qui
+lui sont attribués".
+Par lettre du 17 mars 2009, l'office a fait savoir au conseil de
+P.________ SA qu'il refusait de porter la saisie provisoire sur le
+patrimoine de Z.________ SA et de V.________ & Cie, indiquant
+que seuls les droits du poursuivi L.________ contre ces
+sociétés sont concernés par l'ordre
+donné par le Juge de paix dans son prononcé du 3
+février 2009.
+E.
+Le 19 mars 2009, P.________ SA a déposé une plainte
+au sens de l'art. 17 LP contre ce refus de l'office devant le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance, concluant, avec
+dépens, principalement à l'annulation de la
+décision, à la saisie provisoire de tous les biens
+dont L.________ est propriétaire ou ayant-droit
+économique et à la saisie provisoire des comptes
+bancaires ouverts auprès de la banque Clariden Leu SA,
+soit :
+compte No 109962, titulaire
+Monsieur L.________, compte à 0
+compte No 273081-43, au nom
+de Z.________ SA, détenteur économique Monsieur
+L.________, débiteur de Fr. 807.-
+compte courant No
+367440-51, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________ , débiteur de Frs
+1'812, 17
+compte courant No
+367440-52-2, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________, créditeur de livres
+sterling 1'335,02
+compte courant No
+367440-52-1, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________, créditeur Euro
+6'851,69
+compte courant No
+367440-52, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________, débiteur de USD
+48'094,44
+Le relevé des
+placements de V.________ & Cie présente une valeur brut
+au 18 septembre 2008 de Frs 6'917'705.-, à
+l'échéance des placement les soldes débiteur
+ci-dessus seront remboursés.
+Clariden Leu SA a
+octroyé à la société une avance
+à terme de Frs 1'084'833 et fait valoir un droit de gage sur
+les actifs ci-dessus à due concurrence. En
+conséquence la saisie provisoire porte sur un actif net de
+Frs 5'832'872.
+La plaignante a également conclu, à titre de mesures
+d'extrême urgence, à l'octroi de l'effet suspensif
+à la plainte et à ce que les saisies soient
+ordonnées immédiatement, la décision
+étant communiquée sans délai à la
+Banque Clariden Leu SA.
+Par prononcé du 23 mars 2009, l'autorité
+inférieure de surveillance, statuant sur la
+réquisition d'effet suspensif et de mesures "d'extrême
+urgence" contenue dans la plainte a ordonné la saisie
+provisoire de tous les biens dont L.________ est
+propriétaire ou ayant droit économique, en
+particulier des comptes bancaires ouverts auprès de la
+Banque Clariden Leu SA, tels que désignés dans la
+conclusion III de la plainte et dit que cette mesure conservatoire
+resterait en vigueur jusqu'à droit connu sur le sort de la
+plainte.
+Dans ses déterminations du 23 mars 2009, L.________ a pris
+"par voie d'exception" la conclusion suivante :
+Suspendre la
+présente procédure de plainte jusqu'à droit
+connu sur la procédure N° C/20578/2008 actuellement
+pendante devant la Cour de justice du canton de Genève,
+puis, selon le résultat de cette procédure, reprendre
+l'instruction de la présente plainte ou invalider la
+procédure de la présente plainte.
+Sur le fond, L.________ a conclu au rejet de la plainte.
+L.________ a produit avec ses déterminations le jugement
+rendu le 3 février 2009 par le Tribunal de première
+instance de Genève (C/20578/2008) rejetant la requête
+en exequatur déposée le 10 septembre 2008 par
+P.________ SA, ainsi que le recours avec demande d'effet suspensif
+déposé le 13 mars 2009 par cette dernière
+contre ce jugement.
+Le 24 mars 2009, l'office a adressé à Clariden Leu SA
+un avis de saisie provisoire, complétant celui du 10 mars
+indiquant que la saisie portait en particulier sur les comptes tels
+que cités dans les conclusions de la plainte.
+Par courrier du 25 mars 2009, Clariden Leu SA a informé
+l'office que L.________ était l'ayant droit
+économique d'un compte CIF 0071-273081-4 au nom de
+Z.________ SA, dont le solde s'élevait à 0 fr. le 24
+mars 2009 et d'un compte 0160-367440-5, au nom de V.________ &
+Cie, qui présentait, à la même époque un
+solde négatif de 412'990 fr.; Clariden Leu SA a en outre
+apporté la précision suivante :
+"L'entreprise a
+effectué deux paiements avec date de valeur 16 mars 2009 de
+USD 6 millions et de EUR 300'000. Comme ce compte
+n'était pas concerné par la saisie du 10 mars 2009 -
+comme vous nous l'avez expressément confirmé par
+lettre du 13 mars 2009 - la banque n'avait pas de fondement
+juridique pour refuser d'effectuer ces transferts."
+La plaignante et l'office intimé ont été
+invités à se déterminer sur la conclusion
+prise par voie d'exception de L.________ par avis du 25 mars 2009
+de l'autorité inférieure de surveillance.
+Le 26 mars 2009, l'office s'est déclaré favorable
+à une suspension de la procédure de plainte
+jusqu'à droit connu sur le recours devant la Cour de justice
+de la République et canton de Genève.
+La plaignante a conclu, par écriture du 3 avril 2009, au
+rejet de la conclusion en suspension de la procédure et
+à l'admission de la plainte.
+L'office intimé s'est déterminé le 16 avril
+2009, concluant au rejet de la plainte et à l'annulation
+auprès des tiers désignés des avis de saisie
+provisoire portant sur les actifs inscrits au nom de V.________
+& Cie et Z.________ SA.
+F.
+Par prononcé
+rendu le 8 mai 2009, à la suite de l'audience du 30 avril
+2009, le Président du Tribunal d'arrondissement de Lausanne,
+statuant en sa qualité d'autorité inférieure
+de surveillance en matière de poursuites pour dettes et
+faillites, a rejeté la plainte (I), invité l'Office
+des poursuites de Lausanne-Est à annuler les avis de saisie
+provisoire portant sur les actifs inscrits au nom de V.________
+& Cie et de Z.________ SA (II) et rendu sa décision sans
+frais ni dépens (II).
+En bref, le premier juge a considéré qu'il n'existait
+aucun élément ou indice établissant que
+l'entier du capital-actions de la société Z.________
+SA fût entre les mains de L.________, ni que ce dernier
+disposât seul de la société V.________ &
+Cie, de sorte que les comptes dont sont titulaires ces deux
+sociétés ne pouvaient pas être saisis dans le
+cadre de la présente procédure de
+poursuite.
+La plaignante a recouru par acte du 20 mai 2009 prenant, avec suite
+de frais et dépens les conclusions suivantes :
+I. Le recours est
+admis.
+Principalement
+:
+II. Le prononcé
+rendu le 8 mai 2009 par l'Autorité inférieure de
+surveillance en matière de poursuites et de faillites de
+l'arrondissement de Lausanne est réformé comme il
+suit aux chiffres I et II de son dispositif :
+I.
+La plainte déposée le 19 mars 2009 par
+P.________ SA est admise.
+II.
+La décision du 17 mars 2009 rendue par l'Office
+des
+poursuites de Lausanne-Est est annulée.
+III.
+nouveau
+La saisie provisoire de tous
+les biens dont L.________
+est propriétaire ou ayant droit économique est
+ordonnée.
+IV.
+nouveau
+L'Office des poursuites de Lausanne-Est
+doit procéder
+à la saisie provisoire des comptes bancaires
+désignés ci-dessous,
+ouverts auprès de la banque Clariden Leu SA, quai du
+Mont-Blanc 1,
+1201 Genève:
+compte No 109962, titulaire
+Monsieur L.________, compte à 0
+compte No 273081-43, au nom
+de Z.________ SA, détenteur économique Monsieur
+L.________ , débiteur de Fr. 807.-
+compte courant No
+367440-51, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________, débiteur de Frs
+1'812, 17
+compte courant No
+367440-52-2, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________  créditeur de
+livres sterling 1'335,02
+compte courant No
+367440-52-1, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________, créditeur Euro
+6'851,69
+compte courant No
+367440-52, au nom de V.________ & Cie, détenteur
+économique Monsieur L.________, débiteur de USD
+48'094,44
+Le relevé des
+placements de V.________ & Cie présente une valeur brut
+au 18 septembre 2008 de Frs 6'917'705.-, à
+l'échéance des placement les soldes débiteur
+ci-dessus seront remboursés.
+Clariden Leu SA a
+octroyé à la société une avance
+à terme de Frs 1'084'833 et fait valoir un droit de gage sur
+les actifs ci-dessus à due concurrence. En
+conséquence la saisie provisoire porte sur un actif net de
+Frs 5'832'872.
+V.
+nouveau
+L'Office des poursuites de
+Lausanne-Est communiquera
+la saisie provisoire indiquée sous chiffre III
+nouveau
+ci-dessus à la
+banque Clariden Leu SA, quai du Mont-Blanc 1, 1201 Genève,
+avec
+l'indication que désormais elle ne pourra plus s'acquitter
+qu'en mains
+de l'Office des poursuites de Lausanne-Est en application
+de
+l'art. 99 LP.
+Subsidiairement
+:
+III. Le prononcé
+rendu le 8 mai 2009 par l'Autorité inférieure de
+surveillance en matière de poursuites et de faillites de
+l'arrondissement de Lausanne est annulé.
+Par lettre du 2 juin 2009, l'office a conclu au rejet du recours et
+à l'annulation des avis de saisie aux tiers.
+Dans son mémoire du 26 juin 2009, L.________ a conclu, avec
+suite de frais et dépens, au rejet du recours. Il a produit
+un courrier adressé le 4 mai 2009 à la Cour de
+Justice de Genève par lequel il retirait le recours qu'il
+avait formé le 13 mars 2009 dans la cause C/20578/2008 ainsi
+qu'un recours déposé le 18 mai 2009 devant la cour de
+céans contre le prononcé du 3 février 2009 du
+Juge de paix du district de Lausanne, dont les motifs ont
+été notifiés aux parties le 1
+er
+avril 2009.
+G.
+Le 17 août
+2009, l'office a informé la cour de céans que la
+faillite de L.________ avait été prononcée le
+14 juillet 2009 en vertu d'un jugement aujourd'hui définitif
+et exécutoire.
+Par avis du 27 août 2009, les parties ont été
+invitées à signaler si le recours conservait un
+objet.
+Par courrier du 3 septembre 2009, P.________ SA a conclu au
+maintien de la présente procédure de recours,
+estimant que la question de la saisissabilité des biens dont
+le failli est l'ayant droit économique pouvait avoir des
+effets directs dans le cadre du traitement de la
+faillite.
+L'intimé et l'office n'ont pas déposé de
+déterminations.
+En droit :
+I.
+Formé en temps utile
+(art. 18 al. 1 LP
+et 28 al. 1 LVLP -
+loi vaudoise
+d'application de la loi fédérale sur la poursuite
+pour dettes et la faillite; RSV 280.05
+) et
+comportant l'énoncé des
+moyens invoqués (art. 28 al. 3 LVLP), le recours,
+principalement en nullité et subsidiairement en
+réforme, est recevable.
+Il sera examiné, nonobstant la faillite de L.________, pour
+le cas où il conserverait encore un objet.
+Les pièces nouvelles produites par les parties en
+deuxième instance sont également recevables (art. 28
+al. 4 LVLP).
+II.
+La recourante est d'avis que l'intimé est l'ayant droit
+économique des comptes bancaires aux noms de Z.________ SA
+et de V.________ & Cie auprès de la banque Clariden Leu
+SA et que la saisie provisoire doit porter sur les avoirs de ces
+comptes également.
+L'intimé conteste être l'ayant droit économique
+de ces comptes. Par ailleurs, il met en cause le principe
+même d'une saisie provisoire en faveur de la recourante. Se
+référant à un arrêt récent du
+Tribunal fédéral (5A_ 634/2008 du 9 février
+2009), l'intimé prétend en substance qu'à
+défaut d'une décision rendue en Suisse octroyant
+l'exequatur à la décision luxembourgeoise, une mesure
+d'exécution forcée est exclue. Il convient d'examiner
+ce point en premier lieu.
+III.
+Lorsque la décision étrangère portant
+condamnation à payer une somme d'argent (art. 38 al. 1 LP,
+loi fédérale sur la poursuite pour dettes et la
+faillite du 11 avril 1889, RS 281.1) est rendue dans un Etat
+lié à la Confédération par une
+convention internationale sur l'exécution réciproque
+des jugements ou des sentences arbitrales, il appartient au juge de
+la mainlevée de statuer sur l'exequatur (art. 81 al. 3 LP).
+Si la décision en cause est soumise à la CL
+(Convention de Lugano du 16 septembre 1988 concernant la
+compétence judiciaire et l'exécution des
+décisions en matière civile et commerciale; RS
+0.275.11), le créancier dispose alors de deux
+possibilités. La première permet au créancier
+d'introduire une procédure d'exequatur indépendante
+et unilatérale selon les art. 31 ss CL, devant le juge de la
+mainlevée, qui déclarera exécutoire en Suisse
+le jugement étranger dans une procédure non
+contradictoire, sans entendre le débiteur (art. 34 CL). La
+seconde possibilité offerte au créancier consiste
+à introduire une poursuite (réquisition de poursuite,
+commandement de payer) et, en cas d'opposition du débiteur,
+à requérir la mainlevée de l'opposition,
+procédure au cours de laquelle le juge de la
+mainlevée se prononcera à titre incident sur la
+reconnaissance et le caractère exécutoire de la
+décision étrangère (décision
+d'exequatur prononcée à titre incident; art. 81 al. 3
+LP). En cas de reconnaissance du caractère
+exécutoire, le magistrat lève l'opposition au
+commandement de payer (TF 5A_162/2009 du 15 mai 2009, c. 6.1; TF
+5A_634/2008 précité, c. 3.3).
+En l'espèce, la recourante a fait notifier un commandement
+de payer à l'intimé qui a formé opposition.
+Par décision du 3 février 2009, le Juge de paix du
+district de Lausanne a prononcé la mainlevée
+définitive de l'opposition à concurrence de
+différents montants et ordonné la saisie provisoire
+de biens du poursuivi à concurrence desdits montants. Ce
+prononcé fait l'objet d'un recours pendant devant la cour de
+céans.
+Au vu de la procédure choisie par la recourante, on se
+trouve dans la seconde hypothèse évoquée par
+la jurisprudence précitée. C'est par
+conséquent en vain que l'intimé invoque l'absence de
+décision d'exequatur, la mainlevée définitive
+prononcée impliquant la reconnaissance du droit
+d'exécution.
+Le juge de paix a prononcé la saisie provisoire à
+titre de mesure conservatoire urgente selon l'art. 39 CL. Cette
+mesure relevait de sa compétence dans le cadre des
+aménagements nécessaires à la CL (ATF 131 III
+660 c. 4.1 et 4.5, SJ 2006 I 109). A l'instar d'un
+séquestre, cette mesure doit être immédiatement
+exécutoire pour répondre aux exigences de protection
+voulues par l'art. 39 CL. Il s'ensuit que dans le cadre de la
+présente procédure, l'intimé n'est pas
+habilité à s'en prendre au principe de la saisie
+provisoire.  Il faut certes réserver le sort du recours
+contre le prononcé du juge de paix du 3 février 2009,
+dans le cadre duquel le principe de la saisie provisoire pourrait
+être revu. Il n'en reste pas moins que le recours pendant
+devant la cour de céans contre ce prononcé ne remet
+pas en cause, en l'état, le caractère
+exécutoire de la saisie provisoire
+ordonnée.
+IV.
+Le principe
+même de la saisie provisoire n'étant pas critiquable,
+il convient d'examiner sur quels biens elle peut être
+exercée.
+La saisie ne doit pas porter uniquement sur les biens dont le
+débiteur est sans l'ombre d'un doute le propriétaire,
+mais aussi sur ceux pour lesquels il existe, sur la base des
+indications du créancier ou de l'examen effectué par
+l'office des poursuites, des indices de leur appartenance au
+patrimoine du poursuivi (ATF 129 III 239 c. 1, JT 2003 II 100 et
+les références citées). Les règles de
+la saisie obligent ainsi l'office à mettre sous main de
+justice tous les biens que la créancier déclare
+propriété de son débiteur, à moins qu
+les droits préférables d'un tiers ne puissent
+d'emblée être établis de manière
+indiscutable. Lorsque le poursuivant requiert la saisie de valeurs
+qui sont déposées au nom d'un tiers ou d'avoirs au
+nom d'un tiers, il faut comprendre qu'il prétend que ces
+valeurs appartiennent en réalité au poursuivi. Pour
+éclaircir la situation, au cas où des tiers feraient
+valoir des droits sur des biens objets de la procédure de
+poursuite, la loi a instauré la procédure de
+revendication, laquelle permet au tiers, titulaire du droit
+patrimonial mis sous main de justice, d'obtenir qu'il soit
+soustrait à l'exécution forcée dans la
+procédure en cours (art. 106 ss LP; ATF 132 III 281 c. 2.2).
+Seule la saisie d'un bien appartenant manifestement à un
+tiers doit être frappée de nullité (art. 22 al.
+1 LP, TF 5A_618/2007 du 10 janvier 2008 c. 2.1).
+En l'espèce, le premier juge a relevé qu'aucun
+élément ou indice n'établissait que
+l'intimé était l'unique actionnaire  de
+Z.________ SA. Quant à V.________ & Cie, l'intimé
+était certes l'associé indéfiniment
+responsable de cette société en commandite mais il
+n'est pas le seul à pouvoir l'engager par sa signature
+individuelle. Le premier juge a considéré qu'en
+l'absence d'éléments suffisants pour admettre que
+l'intimé était l'ayant droit économique des
+avoirs de ces sociétés auprès de la banque
+Clariden Leu SA, il n'y avait pas lieu de faire porter la saisie
+provisoire sur ces droits.
+La recourante voit toutefois un indice suffisant dans le
+procès-verbal de saisie provisoire établi par
+l'Offices des poursuites de Genève. L'office intimé
+admet en avoir eu connaissance, mais observe que l'office genevois
+était incompétent à raison du lieu.
+On ignore sur la base de quelles indications l'office genevois a
+établi ce procès-verbal de saisie. On peut cependant
+supposer qu'il a invité la banque Clariden Leu SA à
+fournir des renseignements comme il est en droit de le faire.
+L'office peut en effet exiger d'une banque la communication de
+valeurs dont le poursuivi est l'ayant droit économique (ATF
+130 III 579 c. 2.2.3, JT 2005 II 100; Bovey, L'obligation des tiers
+de renseigner l'office des poursuites et des faillites, in JT 2009
+II 62 ss, spéc. 68)
+En tout état de cause, l'office intimé ne pouvait se
+contenter de considérer que le procès-verbal de
+l'office genevois était sans portée. Tout du moins
+devait-il chercher à obtenir des renseignements
+auprès de la banque Clariden Leu SA, pour savoir si
+l'intimé était l'ayant droit d'autres valeur
+économiques que celles dont il était nominalement le
+titulaire.
+Or, il ressort du dossier que le 25 mars 2009, Clariden Leu SA a
+indiqué à l'office que l'intimé était
+l'ayant droit économique de deux comptes, l'un au nom de
+Z.________ SA  dont le solde s'élève à
+zéro franc (compte n° 273081-4), l'autre au nom de
+V.________ & Cie qui présentait au 24 mars 2009 un solde
+débiteur de 412'990 fr.  (compte n° 367440-5). Ces
+deux comptes correspondent précisément à ceux
+dont il est fait référence dans l'avis de saisie
+provisoire de l'office genevois, le second compte en question ayant
+des sous-rubriques suivant la devise concernée.
+Sur la base de ce qui précède, contrairement à
+ce qu'a retenu le premier juge, il existe des
+éléments suffisants pour retenir que l'intimé
+est l'ayant droit des comptes bancaires de Z.________ SA et de
+V.________ & Cie auprès de la banque Clariden Leu
+SA.  Par ailleurs, l'existence de droits
+préférables de ces deux sociétés ou
+d'autres tiers n'est pas rendue vraisemblable. En principe, la
+saisie pouvait donc porter sur ces droits.
+Il apparaît toutefois que ces comptes ne comportent plus
+aucun avoir. Or, une saisie provisoire, en tant que mesure
+conservatoire au sens de l'art. 39 CL, tend à assurer la
+conservation de droits patrimoniaux du poursuivi. Au moment
+où le premier juge a statué, il n'existait aucune
+créance contre l'établissement bancaire Clariden Leu
+SA, qui aurait pu être saisie. L'office ne peut pas saisir de
+créance inexistante (SJ 1987 449 c. 1).
+Il s'ensuit que la saisie provisoire ne saurait être
+ordonnée sur les comptes ouverts auprès de Clariden
+Leu SA dont sont titulaires Z.________ SA et V.________ & Cie.
+Il en va de même du compte bancaire au nom de
+l'intimé, qui ne présentait aucun disponible au 10
+mars
+2009.
+V.
+Le recours doit ainsi être rejeté
+et la décision de
+l'autorité inférieure de surveillance
+confirmée, par substitution de motifs.
+L'arrêt est rendu sans
+frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et
+62 al. 2 OELP - ordonnance sur les émoluments
+perçus en application de la LP; RS
+281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé est
+confirmé.
+III.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 16 octobre
+2009
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Me Olivier
+Weniger (pour P.________ SA),
+‑      Me Bernard
+Katz (pour L.________),
+‑      M. le
+Préposé à l'Office des poursuites de
+Lausanne-Est.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance.
+La greffière :
