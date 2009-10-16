@@ -1,0 +1,199 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2009___49"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2009 / 49"
+decided: "2009-10-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20091007124901746_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-110.md"]
+---
+
+# VD Findinfo Pron-prés / 2009 / 49
+
+## Regeste
+
+AVOCAT D'OFFICE, INDEMNITÉ{EN GÉNÉRAL} | 110 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 16.10.2009 Pron-prés / 2009 / 49
+
+AVOCAT D'OFFICE, INDEMNITÉ{EN GÉNÉRAL} | 110 CPP
+
+TRIBUNAL CANTONAL
+338
+PE05.013946-HNI/EMM/PGO
+LE PRESIDENT
+DE LA COUR DE
+CASSATION PENALE
+______________________________________________
+Arrêt du 16 octobre
+2009
+________________
+Du 12 août 2009
+______________
+Présidence
+de   M
+.
+Creux
+,
+président
+Greffier
+:
+M
+me
+Matile
+*****
+Art. 110 CPP
+Vu le jugement du 15 décembre 2008 par lequel le Tribunal
+correctionnel de l'arrondissement de l'Est vaudois a, notamment,
+condamné
+E.________
+,  pour lésions
+corporelles simples par négligence, mise en danger de la vie
+d'autrui, vol, tentative de vol, dommages à la
+propriété, violation de domicile, violence ou menace
+contre les autorités et les fonctionnaires, violation simple
+et grave des règles de la circulation,
+ébriété simple et qualifiée au volant,
+opposition ou dérobade aux mesures visant à
+déterminer l'incapacité de conduire, violation des
+devoirs en cas d'accident, vol d'usage, conduite sans permis de
+conduire, infraction à la loi fédérale sur les
+armes et contravention à la loi fédérale sur
+les stupéfiants, à une peine privative de
+liberté de trois ans, sous déduction de trente-sept
+jours de détention préventive (II),
+vu le courrier du 18 décembre 2008 par lequel Me
+Charles-Henri de Luze, conseil d'office d'E.________, a
+déclaré recourir contre le jugement
+précité,
+vu le courrier du 21 janvier 2009 par lequel Me de Luze, apprenant
+que son client d'office avait consulté Me Véronique
+Fontana comme avocat de choix, a demandé au Président
+de la Cour de cassation pénale d'être relevé de
+sa mission,
+vu la lettre du 22 janvier 2009 par laquelle le Président de
+la Cour de cassation pénale a relevé l'avocat de Luze
+de sa mission de défenseur d'office d'E.________,
+vu le courrier du 28 janvier 2009 par lequel Me de Luze a
+sollicité la fixation de son indemnité d'office pour
+les diverses opérations qu'il avait effectuées dans
+ce dossier depuis la lecture du jugement, estimant, ex-aequo et
+bono, son travail à quelque 2,5 heures et ses frais à
+10 fr.,
+vu le prononcé du 27 février 2009 par lequel le
+président de la Cour de cassation pénale a
+fixé à 53 fr. 80 pour toutes choses
+l'indemnité d'office due à Me de Luze,
+vu le recours interjeté au Tribunal fédéral
+par Me de Luze contre la décision
+précitée,
+vu l'arrêt du 2 juillet 2009 par lequel le Tribunal
+fédéral a admis le recours de Me de Luze,
+annulé l'arrêt attaqué et renvoyé la
+cause à la cour cantonale pour nouveau jugement,
+vu les pièces du dossier;
+attendu que le Tribunal fédéral a
+considéré ne pas être en mesure de
+contrôler si l'indemnité de 50 fr. allouée
+à Me de Luze était manifestement insuffisante
+dès lors que l'autorité cantonale ne mentionnait pas
+les opérations alléguées par le recourant
+qu'elle aurait refusé de prendre en considération ni
+les raisons qui l'aurait amenée à les
+écarter,
+qu'en l'occurrence, la décision attaquée partait de
+la prémisse que l'activité de l'avocat entre la
+lecture du jugement entrepris et le moment où il avait
+été relevé de sa mission d'office
+s'était essentiellement limitée au dépôt
+de la déclaration de recours,
+que, cependant, comme l'a précisé Me de Luze dans son
+recours au Tribunal fédéral et dans ses
+déterminations, il a dû, outre la déclaration
+de recours adressée aux magistrats de première
+instance le 18 décembre 2008, rencontrer son client en
+prison, ainsi que son épouse, et avoir plusieurs contacts
+téléphoniques avec l'étude du conseil de choix
+consulté par E.________, avant le transfert effectif du
+dossier,
+qu'au vu de l'ensemble des circonstances, il se justifie
+d'arrêter à 2 heures et demie le temps de travail de
+Me de Luze dans cette affaire, tel que requis,
+que son indemnité d'office sera donc fixée à
+450 fr., plus la TVA, par 34 fr. 20,
+que les frais réclamés en sus par Me de Luze, par 10
+fr., sont compris dans l'indemnité allouée, comme il
+est d'usage devant la Cour de cassation,
+qu'enfin, la présente décision sera rendue sans
+frais.
+Par ces motifs,
+le Président de la Cour de
+cassation pénale,
+statuant à huis
+clos,
+p r o n o n c e  :
+I.
+Fixe à 484 fr. 20 (quatre cent
+huitante-quatre francs et vingt centimes) l'indemnité due
+à Me Charles-Henri de Luze pour l'activité qu'il a
+déployée entre le 18 décembre 2008 et le 22
+janvier 2009 à titre de conseil d'office
+d'E.________.
+II.
+Dit que l'indemnité
+susmentionnée sera supportée par
+E.________.
+III.
+Le remboursement à l'Etat de
+l'indemnité allouée au chiffre I ci-dessus sera
+exigible pour autant que la situation économique
+d'E.________ se soit améliorée.
+IV.
+Dit que l'arrêt, rendu sans
+frais, est exécutoire.
+L
+e
+président
+:
+L
+a
+greffi
+ère
+:
+Du
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, est
+notifié à :
+‑      Me
+Charles-Henri de Luze, avocat,
+-      Me Véronique
+Fontana, avocate (pour E.________),
+‑      M. le
+Procureur général du canton de Vaud,
+et communiqué
+à :
+‑      M. le
+Président du Tribunal correctionnel l'arrondissement de
+l'Est vaudois,
+‑      M. le Juge
+d'instruction cantonal,
+par l'envoi de photocopies. Il prend
+date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en
+matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral - RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition
+complète (art. 100
+al. 1 LTF).
+L
+a
+greffi
+ère
+:
