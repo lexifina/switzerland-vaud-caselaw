@@ -1,0 +1,430 @@
+---
+decision_id: "vd_findinfo_R_v-civile___2009___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-civile / 2009 / 5"
+decided: "2009-11-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20Civile/R%E9v-civile/20091022110817992_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-023.md", "switzerland/bund/acts/220/art-024.md"]
+---
+
+# VD Findinfo Rév-civile / 2009 / 5
+
+## Regeste
+
+RÉVISION{DÉCISION}, MOTIF DE RÉVISION, TRANSACTION JUDICIAIRE, ERREUR DE BASE, ERREUR DE DÉCLARATION, ERREUR SUR LES MOTIFS, ERREUR ESSENTIELLE | 148 al. 2 CO, 23 CO, 24 al. 1 ch. 2 CO, 24 al. 1 ch. 4 CO, 24 al. 2 CO, 476 al. 1 ch. 3 CPC, 477 al. 1 CPC, 478 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 06.11.2009 Rév-civile / 2009 / 5
+
+RÉVISION{DÉCISION}, MOTIF DE RÉVISION, TRANSACTION JUDICIAIRE, ERREUR DE BASE, ERREUR DE DÉCLARATION, ERREUR SUR LES MOTIFS, ERREUR ESSENTIELLE | 148 al. 2 CO, 23 CO, 24 al. 1 ch. 2 CO, 24 al. 1 ch. 4 CO, 24 al. 2 CO, 476 al. 1 ch. 3 CPC, 477 al. 1 CPC, 478 al. 1 CPC
+
+TRIBUNAL CANTONAL
+11/09
+VT09.018604-090828
+CHAMBRE DES
+REVISIONS
+CIVILES ET PENALES
+_________________________________
+REVISION CIVILE
+Arrêt du 6 novembre
+2009
+__________________
+Présidence
+de   M.        F.
+Meylan
+,
+président
+Juges
+:
+Mme   Carlsson, MM. Denys, J.-F. Meylan et Hack
+Greffier
+:
+M.        Elsig
+*****
+Art.
+148 al. 2 CC; 23, 24 al. 1 ch. 2 et 4 CO;
+477, 478 CPC
+La
+Chambre des
+révisions civiles et pénales prend séance
+à huis clos pour statuer sur la demande
+présentée le
+22 mai 2008
+par
+T.________
+, à
+Orbe,
+et tendant à
+la révision d
+e la transaction judiciaire conclue
+à l'audience du 15 mai 2008 devant le Président du
+Tribunal civil de l'arrondissement de l'Est vaudois dans la cause
+en modification de jugement de divorce le divisant d'avec
+H.________
+, à Montreux.
+Elle considère :
+En fait :
+A.
+Par jugement du 18 juillet 2003 le Président
+du Tribunal civil de l'arrondissement de l'Est vaudois a notamment
+prononcé le divorce de T.________ et de H.________ (I) et
+ratifié pour valoir jugement notamment le chiffre VI de la
+convention sur les effets du divorce signée par les parties
+le 16 décembre 2002 prévoyant que T.________
+contribuerait à l'entretien H.________ par le versement
+d'une pension de 5'000 fr. par mois jusqu'à ce que l'enfant
+[...] ait atteint l'âge de sa majorité, ce montant
+étant réduit à concurrence de la moitié
+de tous les revenus nets que réaliserait ou pourrait
+réaliser H.________ de toute activité lucrative,
+principale ou accessoire, pour autant que ces revenus nets
+s'élèvent à 3'000 fr. et les situations
+entraînant la perte du droit à l'entretien (remariage,
+mise en ménage durable etc.) demeurant
+réservées (II).
+Le 15 mai 2006 T.________ a ouvert action en modification de
+jugement de divorce devant le Président du Tribunal civil de
+l'arrondissement de l'Est vaudois et a conclu, avec dépens,
+à la suppression de la contribution allouée à
+H.________.
+Par ordonnance de mesures provisionnelles du 12 septembre 2006, le
+Président du Tribunal civil de l'arrondissement de l'Est
+vaudois a réduit, dès le 1
+er
+juin 2006 et
+jusqu'à droit connu sur l'action au fond, la contribution en
+cause à 2'500 fr. par mois. Cette ordonnance retient
+notamment que les sociétés qui fournissaient les
+revenus de T.________ étaient en liquidation ou en
+ajournement de faillite et que les comptes de sa
+société immobilière faisaient état de
+pertes de 443'207 fr. et 704'536 fr. en 2004 et 2005, l'immeuble
+étant comptabilisé au bilan pour environ 12'000'000
+francs. Le président a considéré que la valeur
+de cet immeuble excluait la suppression de la contribution en
+cause. Le recours de T.________ contre cette ordonnance a
+été rejeté par arrêt de la Chambre des
+recours du 21 septembre 2007. Le recourant ne remettait pas en
+cause la valeur de l'immeuble.
+A l'audience préliminaire du 10 mai 2007, les parties,
+toutes deux assistées d'un avocat, sont convenues
+qu'H.________ renonçait à exiger une contribution en
+sa faveur depuis le 1
+er
+mai 2007 et qu'elles
+requéraient la suspension du procès qui serait repris
+à la demande de la partie la plus diligente.
+A l'audience préliminaire de reprise du 15 mai 2008, les
+parties ont transigé le procès comme il suit
+:
+"I.
+Le jugement rendu par le Président du Tribunal civil de
+l'Est vaudois le 18 juillet 2003 dans la cause en divorce
+H.________ c/ T.________, est modifié en ce sens que
+T.________ n'est plus astreint au paiement d'une contribution
+d'entretien de fr. 5'000.- en faveur d'H.________ dès le
+1
+er
+mai 2007.
+II.
+Chaque partie garde ses frais et renonce à des
+dépens."
+Copie du procès-verbal a été communiqué
+aux parties séance tenante.
+Par décision du 19 mai 2008, le Président du Tribunal
+civil de l'arrondissement de l'Est vaudois a rayé la cause
+du rôle et fixé les frais des parties.
+B.
+T.________ a recouru contre la transaction susmentionnée le
+22 mai 2008 en invoquant un vice de la volonté concernant la
+transaction et en requérant la fixation d'une nouvelle
+audience pour que l'affaire puisse être reprise.
+Par courrier du 31 octobre 2008, T.________ a déposé
+un mémoire et a déclaré que son
+écriture du 22 mai 2008 devait être
+considérée comme demande de révision et
+être traitée comme telle. Il a indiqué qu'il
+déposait à toutes fins utiles un mémoire de
+recours "si par impossible la demande de révision devait
+être écartée".
+C.
+Par arrêt du 13
+novembre 2008, la Chambre des recours a rejeté le recours du
+22 mai 2008 et transmis la cause à la Chambre des
+révisions civile et pénale pour traiter la cause sous
+l'angle de la révision.
+Dans ses déterminations du 6 juillet 2009 l'intimée
+H.________ s'est référée à la
+motivation de l'arrêt du 13 novembre 2008 et a conclu, avec
+suite de frais et dépens, au rejet de la demande de
+révision.
+En droit
+:
+1.
+a)
+Le requérant
+invoque le fait qu'il était dans l'erreur au moment
+où il a signé la transaction du 15 mai 2008, Ce
+faisant, il invoque le motif de révision tiré de
+l'art. 148 al. 2 CC (Code civil du 10 décembre 1907; RS
+210), qui dispose que la convention sur les effets patrimoniaux du
+divorce entrée en force peut faire l'objet d'une demande de
+révision pour vices du consentement.
+Selon la doctrine, le but de cette disposition est de régler
+de manière uniforme, sous forme d'un standard minimum, les
+motifs de révision en cette matière (Fankhauser,
+Scheidung, Schwenzer Hrsg, 2005, n. 11 ad art. 148 CC, p. 503), les
+cantons demeurant libres de prévoir d'autres motifs
+(Sutter/Freiburghaus, Kommentar zum neuen Scheidungsrecht, 1999, n.
+31 ad art. 148 CC, p. 613). Pour les autres modalités de la
+révision, en particulier la forme et le délai de la
+requête, le droit cantonal continue à s'appliquer
+(Message, Feuille fédérale [FF] 1996 I 153;
+Sutter/Freiburghaus, op. cit., n. 26 ad art. 148 CC, p. 611), sous
+réserve, selon certains auteurs, de la prohibition des
+délais absolus de révision (Fankhauser, op. cit., n.
+17 ad art. 148 CC, pp. 504-505).
+b)
+Selon
+l'art. 478 al. 1 CPC (Code de procédure civile du 14
+décembre 1966; RSV 270.11), la demande de révision,
+accompagnée des pièces justificatives, est
+adressée par écrit au Tribunal Cantonal. La
+jurisprudence a précisé que la demande de
+révision doit contenir des conclusions précises,
+être fondée sur l'un ou l'autre des motifs
+légaux de l'art. 476 CPC et être accompagnée
+des pièces justificatives, faute de quoi elle doit
+être écartée préjudiciellement (JT 1965
+III 31; Poudret/Haldy/Tappy, Procédure civile vaudoise,
+3
+ème
+éd., 2002, n. 2 ad art. 478 CPC, p.
+746).
+En l'espèce la demande en cause remplit les exigences
+formelles posées par l'art. 478 CPC.
+c)
+Selon l'art. 477 al. 1 CPC, la demande de révision
+doit être présentée, à peine de
+péremption, dans les trois mois dès la
+découverte du motif de révision.
+En l'espèce, interjetée dans les trois mois
+dès la découverte de l'erreur supposée, la
+demande de révision a été
+déposée en temps utile et est en conséquence
+recevable.
+2.
+a)
+Le
+requérant fait valoir qu'il est sans argent depuis une
+longue période, que sa faillite a été
+prononcée au mois de mars 2007 et qu'il est détenu
+depuis le mois d'août 2006. Il déclare ne pas arriver
+à comprendre que l'on puisse mettre à sa charge une
+contribution d'entretien jusqu'à la fin du mois d'avril 2007
+alors qu'il n'a aucune activité lucrative lui permettant de
+payer cette contribution, et relève que les
+conséquences de la convention en cause peuvent être
+dramatiques pour lui au niveau pénal. Le requérant
+déclare avoir signé cette convention sous la fausse
+impression qu'elle tenait loyalement compte de ses
+intérêts et expose avoir passé plusieurs heures
+à attendre l'audience, sans être assisté d'un
+conseil, et n'avoir pas vraiment compris ce qui se disait à
+l'audience, la traductrice ne lui ayant pas donné
+l'impression d'avoir traduit ce qu'il avait compris.
+b)
+Les vices du consentement visés à l'art.
+148 al. 2 CC sont ceux des art. 23 ss CO (Code des obligations du
+30 mars 1911; RS 220), soit l'erreur essentielle, le dol et la
+crainte fondée, à l'exclusion de la lésion
+(Message, Feuille fédérale [FF] 1996 I 153;
+Sutter/Freiburghaus, op. cit., n. 29 ad art. 148 CC, p. 612;
+Fankhauser, op. cit., n. 15 ad art. 148 CC, p. 504).
+Selon l'art. 23 CO, le contrat n'oblige pas la partie qui, au
+moment de conclure, était dans une erreur
+essentielle.
+aa)
+L'art. 24 al. 1 ch. 2 CO précise que l'erreur est
+essentielle, notamment, lorsque la partie avait en vue une autre
+chose que celle qui a fait l'objet du contrat. Il s'agit d'une
+erreur dans la déclaration : la manifestation de
+volonté retenue ne correspond pas à ce que son auteur
+voulait communiquer. Il y a divergence entre la volonté
+interne du déclarant et la volonté
+déclarée telle que l'a comprise le destinataire selon
+le principe de la confiance (Tercier, Le droit des obligations,
+3
+ème
+éd., 2004, n° 720, p. 150).
+L'erreur peut provenir de celui qui s'est exprimé; elle peut
+également être le fait d'un intermédiaire
+chargé de transmettre la volonté de l'auteur
+(Tercier, op. cit.,  n° 721, p. 150).
+En l'espèce, le requérant fait valoir que la
+transaction litigieuse est absurde de son point de vue mais
+n'indique pas quelle convention il entendait passer ou quelle
+convention il a cru signer. Au surplus, il est constant qu'une
+interprète français-anglais a fonctionné comme
+traductrice à l'audience et le requérant
+reconnaît, dans son mémoire du 31 octobre 2008, qu'il
+utilise la langue anglaise comme "langue commerciale". La
+transaction en cause était en outre simple et reprenait
+celle passée à l'audience du 10 mai 2007 - où
+le requérant était assisté - à la seule
+différence que la transaction en cause mettait fin au
+procès. On ne voit dès lors pas où une erreur
+de traduction ou de compréhension aurait pu intervenir, le
+chiffre 2007 en chiffres arabes étant au surplus le
+même dans toutes les langues
+indo-européennes.
+bb)
+Selon l'art. 24 al. 1 ch. 4 CO, l'erreur est essentielle
+lorsque elle porte sur des faits que la loyauté commerciale
+permettait à celui qui se prévaut de son erreur de
+considérer comme des éléments
+nécessaires du contrat (ch. 4). L'erreur qui concerne
+uniquement les motifs du contrat n'est pas essentielle (art. 24 al.
+2 CO).
+L'erreur visée par l'art. 24 al. 1 ch. 4 CO est une erreur
+de motif qualifiée à propos de l'intention
+contractuelle : elle ne concerne que la partie des motifs qui,
+subjectivement, forme la condition sine qua non du contrat et qui,
+objectivement, doit être considérée comme
+essentielle selon la loyauté commerciale; en d'autres
+termes, sans le fait erroné, la partie dans l'erreur
+n'aurait pas conclu le contrat. La bonne foi exige que le
+partenaire ait au moins pu se rendre compte de l'importance que les
+faits avaient pour la partie dans l'erreur (cf. Schmidlin,
+Commentaire romand, 2003, n. 7, 32 et 40 ad art. 23-24 CO, pp. 154,
+158-159 et 160).
+En présence d'une transaction judiciaire, qui élimine
+un litige ou une incertitude entre les parties par un accord
+contractuel comportant des concessions réciproques (ATF 130
+III 49 c. 1.2, JT 2005 I 517), le point litigieux ou incertain, qui
+fait justement l'objet de l'accord, est définitivement
+réglé par la transaction. Tout recours à
+l'invalidation pour erreur est exclu. Cependant, cela n'exclut pas
+le recours à l'erreur de base si la transaction ne concerne
+pas le point litigieux ou incertain, mais d'autres circonstances
+que l'une ou les deux parties considèrent comme le fondement
+de l'accord transactionnel ou lorsque la partie était dans
+une erreur essentielle lorsqu'il a passé la transaction
+(Schmidlin, op. cit., n. 89 ad art. 23-24 CO, p. 168 et
+références; ATF 132 III 737 c. 1.3; ATF 130 III 49
+précité).
+En l'espèce, le requérant fait valoir qu'il pensait
+à tort que la transaction litigieuse préservait ses
+intérêts lorsqu'il l'a signée et qu'il est
+inconcevable de mettre à sa charge une contrition
+d'entretien alors qu'il n'a plus de ressources et qu'il est
+détenu. Ce faisant, il remet en cause le point litigieux du
+procès, qui portait sur la suppression de la contribution
+d'entretien mise à sa charge et qui a été
+tranché par la transaction litigieuse, ce qui n'est pas
+admissible par l'invocation des règles sur l'erreur
+essentielle au regard de la jurisprudence susmentionnée. Au
+surplus, il n'est pas certain que, si la procédure avait
+suivi son cours, le requérant aurait obtenu la suppression
+de dite contribution dès le dépôt de sa
+demande, le 15 mai 2006. En effet, l'ordonnance de mesures
+provisionnelles du 12 septembre 2006 retient que la
+société immobilière du requérant
+possède un immeuble dont la valeur inscrite aux comptes
+s'élève à
+12'000'000
+francs.
+Les circonstances qu'invoque le requérant (attente avant
+l'audience, absence de conseil) ne démontrent pas qu'il
+était dans l'erreur au sujet d'un motif qualifié de
+la conclusion de la transaction litigieuse au sens de l'art. 24 al.
+1 ch. 4 CO.
+c)
+Au vu des éléments qui
+précèdent, il y a lieu de considérer que le
+requérant n'a pas été victime d'une erreur
+essentielle au sens des art. 23 et 24 CO lorsqu'il a signé
+la transaction en cause. Il ne saurait donc en obtenir
+l'invalidation par la voie de la révision.
+3.
+En conclusion, la demande de révision doit
+être rejetée.
+Les frais de la procédure de révision du
+requérant sont arrêtés à 300 fr. (art.
+233 et 250 TFJC; tarif du 4 décembre 1984 des frais
+judiciaires en matière civile; RSV 270.11.5).
+Obtenant gain de cause, l'intimée a droit à des
+dépens de la procédure de révision,
+fixés à 300 fr. (art. 91 et 92 CPC; art. 2 al. 1 ch.
+35, art. 3 et 5 TAv; tarif du 17 juin 1986 des honoraires d'avocat
+dus à titre de dépens; RSV 177.11.3).
+Par ces motifs,
+la Chambre des révisions
+civiles et pénales,
+statuant à huis
+clos,
+prononce
+:
+I.
+La demande de révision est
+rejetée.
+II.
+Les frais d'arrêt à la
+charge du requérant sont arrêtés à 300
+fr. (trois cents francs).
+III.
+Le requérant T.________ doit
+verser à l'intimée H.________ la somme de 300 fr.
+(trois cents francs) à titre de dépens.
+IV.
+L'arrêt est
+exécutoire.
+L
+e
+président
+:
+L
+e
+greffi
+er
+:
+Du
+L'arrêt qui
+précède, dont la rédaction a été
+approuvée à huis clos, est notifié à
+:
+‑      Me Peter
+Schaufelberger (pour T.________),
+‑      Me Alex
+Wagner (pour H.________).
+La Chambre des révisions civiles et pénales
+considère que la valeur litigieuse est de
+27'500 francs.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss (LTF loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière
+civile n'est recevable que si la valeur litigieuse
+s'élève au moins à 15'000 fr. en
+matière de droit du travail et de droit du bail à
+loyer, à 30'000 fr. dans les autres cas, à moins que
+la contestation ne soulève une question juridique de
+principe (art. 74 LTF). Ces recours doivent être
+déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopie
+à :
+‑      Chambre des recours
+du Tribunal cantonal
+Il prend date de ce jour.
+L
+e
+greffi
+er
+:
