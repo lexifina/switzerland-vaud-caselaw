@@ -1,0 +1,756 @@
+---
+decision_id: "vd_gerichte_3ead4b6b-8cd9-46da-b4f4-1e7ddd108352"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCASS"
+docket: "470"
+decided: "2009-11-09"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/3ead4b6b-8cd9-46da-b4f4-1e7ddd108352"
+cites_decisions: ["6B_207/2007", "6B_492/2008", "BGE 116 IV 288", "BGE 118 IV 21", "BGE 122 IV 156", "BGE 122 IV 97", "BGE 127 IV 101", "BGE 129 IV 6", "BGE 134 IV 1", "BGE 135 I 91", "BGE 135 IV 152", "BGE 99 IV 212"]
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-040.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-044.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/311.0/art-189.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-411.md", "switzerland/bund/acts/312.0/art-415.md", "switzerland/bund/acts/312.0/art-438.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Gerichte 470
+
+## Text
+
+TRIBUNAL CANTONAL
+470
+PE08.013613-JBN/MAO/PBR
+CO UR DE CAS SATION P EN ALE
+______________________________________
+Séance du 9 novembre 2009
+__________________
+Présidence de M. CREUX, président
+Juges : MM. de Montmollin et Battistolo
+Greffier : M. Ritter
+*****
+Art. 43 ch. 1, 47, 173 al. 1, 179septies, 180 al. 1, 189 al. 1 CP; 411,
+415 CPP
+La Cour de cassation pénale prend séance en audience
+publique pour statuer sur les recours interjetés par A.J.________ et par le
+MINISTERE PUBLIC contre le jugement rendu le 2 juillet 2009 par le
+Tribunal correctionnel de l’arrondissement de La Côte dans la cause
+dirigée contre A.J.________.
+602
+
+- 2 -
+Cité à comparaître en application de l’art. 438 al. 1 CPP,
+l'accusé se présente. Il est assisté de son conseil, l’avocate Sandra Gerber,
+à Lausanne, qui plaide.
+Elle considère :
+En fait :
+A. Par jugement du 2 juillet 2009, le Tribunal correctionnel de
+l’arrondissement de La Côte a, notamment, libéré A.J.________ des chefs
+d'accusation de lésions corporelles simples qualifiées, de contrainte et
+d'insoumission à une décision de l'autorité (I), l'a condamné, pour voies de
+fait qualifiées, diffamation, usage abusif d'une installation téléphonique,
+menaces qualifiées, contrainte sexuelle, tentative de contrainte sexuelle
+et violation grave des règles de la circulation, à quinze mois de privation
+de liberté, dont six à titre ferme et neuf avec sursis pendant cinq ans, ainsi
+qu'au paiement des frais, par 10'070 fr. 50 (II).
+B. Ce jugement retient en substance ce qui suit, la cour de céans
+se référant pour le surplus à l'état de fait dans son intégralité :
+1. L'accusé A.J.________, né en 1976, ressortissant d'Equateur, a
+épousé en 2002 B.J.________. Deux enfants, nés en 2002 et en 2005, sont
+issus de cette union. Ses casiers judiciaires suisse et équatorien sont
+vierges. La relation conjugale s'est détériorée depuis 2007. L'épouse a
+intenté une procédure de mesures protectrices de l'union conjugale. Les
+époux sont séparés. L'époux a quitté le domicile conjugal le 26 mai 2008.
+Il avait connaissance de la procédure en cours, tout comme il savait que le
+droit de visite aux enfants était organisé au Point rencontre.
+Par prononcé de mesures protectrices du 1er juillet 2008, le
+Président du Tribunal d’arrondissement de La Côte a interdit à l'accusé
+
+- 3 -
+d'approcher ou d'importuner son épouse, sous la menace de la peine de
+l'art. 292 CP.
+2. Les faits reprochés à l'accusé ont fait l'objet de deux
+ordonnances de renvoi.
+2.1 De la fin du mois de juin 2007 au 25 mai 2008, l'accusé a,
+toutes les trois semaines environ, contraint son épouse à des rapports
+anaux.
+2.2 Durant la même période, il l'a frappée à plusieurs reprises.
+2.3 Le 25 mai 2008, alors que les époux circulaient en voiture en
+direction de Lausanne, l'accusé, après avoir arrêté le véhicule sur le bord
+de la route, a donné un violent coup de poing sous le nez de son épouse,
+la faisant saigner abondamment du nez. Il s'est ensuite engagé sur
+l'autoroute et a accéléré jusqu'à près de 180 km/h en déclarant à son
+épouse qu'ils allaient mourir tous les deux. Terrorisée, B.J.________ a tenté
+de le raisonner, mais en vain. Ce n'est qu'à l'approche de la ville que la
+densité du trafic l'a forcé à ralentir.
+2.4 Le 7 juin 2008, alors qu'il s'était rendu au domicile de son
+épouse pour rendre visite aux enfants, l'accusé a tenté d'introduire sa
+main dans l'anus de son épouse, qui a crié sous l'effet de la douleur.
+2.5 Le 25 juin 2008, il a tenté, sans succès, de la pénétrer
+vaginalement.
+2.6 Du 1er juillet à la mi-août 2008, l'accusé a téléphoné
+quotidiennement à son épouse; il l'a menacée de mort.
+2.7 Le 5 juillet 2008, alors que les époux se trouvaient dans le
+corridor d'un immeuble pour se rendre à une fête d'enfants, l'accusé a
+arraché la culotte de son épouse et a tenté de lui introduire plusieurs
+doigts dans l'anus.
+
+- 4 -
+2.8 A la fin du mois d'octobre 2008, les époux se sont rencontrés
+pour que l'accusé puisse voir ses enfants. Il a alors à nouveau menacé son
+conjoint de lui faire du mal, allant jusqu'à exprimer l'intention de la tuer si
+elle fréquentait quelqu'un d'autre. Il lui a tordu le bras.
+2.9 D'octobre 2008 à février 2009, l'accusé a continué à
+téléphoner fréquemment à son épouse, l'appelant jusqu'à vingt fois par
+jour. La victime a dû changer de numéro de téléphone.
+2.10 Au début de l'année 2009, l'accusé a pris contact avec
+l'employeur de son épouse. Il lui a déclaré que celle-ci sortait le soir avec
+un homme qui l'empêchait de rentrer à la maison et qu'elle confiait ses
+enfants à sa mère qui souffrait de troubles de la personnalité et qui aurait
+fait de la prison; il a également mis en cause les capacités
+professionnelles de sa femme.
+2.11 Le 31 janvier 2009, l'accusé a saisi la tête de sa victime entre
+ses mains après l'avoir menacée de mort; il lui a mordu la lèvre
+supérieure.
+3. B.J.________ a déposé plainte à raison des faits ci-dessus,
+d'abord le 27 juin 2008. L'accusé a été interrogé une première fois le 7
+juillet suivant. Six mois après les derniers faits en question et jusqu'à la
+semaine précédant l'audience, il a continué à adresser à sa victime des
+courriels, qualifiés par le tribunal correctionnel d'"ambigus et (d')inutiles".
+A l'audience, il s'est engagé "à ne pas prendre contact et à cesser
+d'importuner son épouse (…), notamment par ses mails incessants et
+ambivalents".
+La cour a ajouté foi aux dires de la victime, tenus pour clairs et
+constants, étant précisé que la plaignante "est apparue comme
+totalement exempte d'une quelconque intention vengeresse (…)". Elle a
+entendu comme témoin notamment la psychologue qui suit la plaignante
+depuis une époque antérieure à la séparation du couple. Le tribunal
+
+- 5 -
+correctionnel a considéré que, si la victime n’avait osé opposer de
+résistance aux rapports intimes que lui imposait son époux, c'était pour
+éviter d'être battue.
+4. Les premiers juges ont considéré que l'accusé s'était rendu
+coupable de voies de fait qualifiées (2.2, 2.3, 2.8 et 2.11), de diffamation
+(2.10), d'usage abusif d'une installation téléphonique (2.6 et 2.9), de
+menaces qualifiées (2.3, 2.6, 2.8 et 2.11), de contrainte sexuelle (2.1), de
+tentative de contrainte sexuelle (2.4, 2.5 et 2.7) et de violation grave des
+règles de la circulation (2.3), avec concours d'infractions.
+5. Appréciant la culpabilité de l'accusé, les premiers juges ont
+retenu, à charge, la gravité et la récurrence des faits, ainsi que leur
+caractère, méprisant et humiliant à l'égard de la victime jusqu'à confiner
+au sadisme, ce que confortent encore les dénégations de l'intéressé. Le
+jugement fait, en particulier, état de "la sinistre mentalité machiste de
+l'accusé". Aucun élément n'a été retenu à décharge.
+Le tribunal correctionnel a considéré que les conditions d'un
+sursis partiel étaient remplies.
+C. En temps utile, A.J.________ a recouru contre le jugement
+précité. Dans le délai imparti à cet effet, il a déposé un mémoire concluant
+principalement à sa réforme en ce sens qu'il est libéré des chefs
+d'accusation de lésions corporelles simples qualifiées, de diffamation,
+d'usage abusif d'une installation téléphonique, de menaces qualifiées, de
+contrainte sexuelle et tentative de contrainte sexuelle, seule une peine
+pécuniaire modérée étant prononcée pour réprimer les infractions de voies
+de fait qualifiées et de violation grave des règles de la circulation.
+En temps utile également, le Ministère public a recouru contre
+le jugement précité. Il a déposé un mémoire concluant principalement à sa
+réforme en ce sens que l'accusé est condamné, pour voies de fait
+qualifiées, diffamation, usage abusif d'une installation téléphonique,
+
+- 6 -
+menaces qualifiées, contrainte sexuelle, tentative de contrainte sexuelle
+et violation grave des règles de la circulation, à quatre ans de privation de
+liberté, le jugement étant maintenu pour le surplus.
+A.J.________ a conclu au rejet du recours du Ministère public .
+B.J.________ a conclu au rejet du recours interjeté par l'accusé
+et s'en est remise à justice quant au recours du Ministère public.
+En d roit :
+I. Recours de A.J.________
+1. Le recours est principalement en réforme, subsidiairement en
+nullité. La cour de céans détermine librement l'ordre d’examen des
+moyens invoqués (Besse-Matile/Abravanel, Aperçu de jurisprudence sur les
+voies de recours à la Cour de cassation pénale du Tribunal cantonal
+vaudois, in JT 1989 III 98, spéc. 99; Bersier, Le recours à la Cour de
+cassation pénale du Tribunal cantonal en procédure vaudoise, in JT 1996 III
+66, spéc. 107; Bovay/Dupuis/Monnier/Moreillon/Piguet, Procédure pénale
+vaudoise, Code annoté, 3e éd., Lausanne 2008, n. 1.4 ad art. 411 CPP).
+En l’espèce, il convient d'examiner en premier lieu les moyens
+de nullité, ceux-ci pouvant, notamment, faire apparaître des doutes sur
+l’existence des faits admis et importants pour le jugement de la cause
+(notamment sous l'angle de l'art. 411 let. i CPP), éventualité qui n'est en
+principe plus examinée dans le cadre du recours en réforme.
+Le recourant se prévaut indifféremment des moyens de nullité
+de l'art. 411 let. g, h et i CPP.
+2. D'abord, il fait grief aux premiers juges d'avoir mentionné par
+deux fois des courriels échangés entre les parties, décrits comme
+
+- 7 -
+ambivalents, alors même que la plaignante avait renoncé à produire ces
+messages à l’audience et que, partant, il n’avait pu en prendre
+connaissance. De ce moyen, il déduit une violation de son droit d’être
+entendu, une lacune, le doute sur les faits déterminants et la violation de
+la présomption d’innocence.
+Quel que soit le moyen réellement invoqué, il faut, pour qu'il
+puisse être accueilli, que la circonstance invoquée ait une incidence sur
+l'issue de la cause. Il ressort du jugement que le recourant a harcelé son
+épouse de courriels inutiles et ambivalents jusqu’à la semaine précédant
+l’audience. Or, dans le cas particulier, le tribunal a, chaque fois qu’il a
+mentionné ces messages, précisé qu’il n’en tenait pas compte pour
+apprécier la culpabilité (jugement, pp. 7 et 9). Cela dit, le recourant est
+malvenu de critiquer l'appréciation des premiers juges sur un point qu’il a
+lui-même admis, puisqu'il s'était engagé, avec mention et signature au
+procès-verbal de l’audience, "à ne pas prendre contact et de cesser
+d’importuner son épouse (…), notamment par ses courriels incessants et
+ambivalents". En réalité, et pour ce qui importe pour le jugement, le
+tribunal n’a retenu qu’une chose, à savoir que le recourant harcelait son
+épouse avec des courriels, alors que la procédure de droit de la famille
+était pendante. Le recourant a implicitement admis ce harcèlement par la
+signature de l’engagement pris à l'audience. Les premiers juges n'ont
+donc pas versé dans l'arbitraire en retenant ces faits.
+Les moyens déduits de la mention des courriels doivent ainsi
+être rejetés.
+3. Pour le surplus, le recourant fait un amalgame entre les
+moyens de réforme et ceux de nullité.
+a) Il paraît reprocher aux premiers juges d’avoir préféré la
+version des faits de son épouse à la sienne, sans que celle-là soit
+corroborée par des preuves matérielles ou par des témoignages.
+Le tribunal correctionnel a ajouté foi aux déclarations de la
+
+- 8 -
+victime, tenues pour claires et constantes, au détriment de celles de
+l'accusé, considérées comme tortueuses. Ce faisant, l'autorité de première
+instance a motivé son choix. Pour le surplus, l’absence de témoins
+oculaires est compatible avec la nature même des faits incriminés, à
+savoir leur caractère intime. A ceci s'ajoute le jeune âge des enfants du
+couple lors des faits. Au surplus, des témoins ont été entendus,
+notamment la psychologue qui suit la plaignante depuis une époque
+antérieure à la séparation (jugement, p 7) et qui avait recueilli les dires de
+sa patiente au sujet des violences conjugales subies, s'agissant
+notamment des atteintets à l'intégrité sexuelle.
+b) Le recourant reproche aux premiers juges d’avoir admis les
+faits sans preuve matérielle, en l'absence notamment de tout constat
+médical établissant les actes de violence subis par la plaignante.
+A supposer même que de tels constats aient pu être établis, le
+tribunal pouvait, sans arbitraire, fonder sa conviction d’une autre manière,
+soit, comme déjà relevé, en ajoutant foi aux dires de la plaignante. Par
+ailleurs, le jugement relève que la victime a longtemps hésité à porter
+plainte et a différé sa demande en séparation, ce que l’on ne peut lui
+reprocher. Les motifs pour lesquels elle n’a pas porté plainte auparavant
+ressortent du procès-verbal de l’audition-plainte du 27 juin 2008, auquel le
+jugement renvoie (p. 7) :
+«Je précise qu’en septembre 2007, j'ai parlé des violences que
+je subissais auprès de la LAVI (sic), qui m'a ensuite dirigé vers une
+psychologue. Je n'ai pas réussi à porter plainte plus tôt suite pour (sic)
+diverses raisons. En effet, j'avais peur et je voulais aussi essayer de régler
+cela pour moi-même. De plus, c'est un pas à franchir vu qu'il s'agit de mon
+mari, que j'ai épousé pour le meilleur et le pire. Mais là, cela devenait
+vraiment trop grave. Avant de venir vers vous, je me suis rendue au
+Centre LAVI avant-hier et ils m'ont conseillé de faire le pas, ce que je
+m'étais décidée à faire de toute manière. (…)».
+Ces motifs sont explicites jusqu'à rendre superflu tout ajout ou
+
+- 9 -
+précision.
+c) Le recourant fait grief au tribunal correctionnel de l’avoir
+qualifié de «machiste» et, ce faisant, d’avoir porté un jugement de valeur
+sur son comportement, lequel, s’il était avéré, ne serait au demeurant pas
+répréhensible.
+L'appréciation contestée est admissible, si elle découle de faits
+par ailleurs énoncés. Or, tel est le cas en l’espèce. En effet, ce n'est
+qu'après avoir exposé dans le détail le comportement du recourant envers
+son épouse dans tous les rapports conjugaux ici en cause que le tribunal a
+utilisé le qualificatif précité. Outre le caractère humiliant des divers actes
+de violence perpétrés à l'encontre d'une personne de sexe opposé, a été
+tenu pour révélateur du caractère du recourant le fait que l'intéressé
+conteste à son épouse toute liberté, alors que lui-même entretient des
+relations à sa guise. Cette appréciation n'est nullement arbitraire. Elle
+constitue un critère d'application de l'art. 47 CP, ce qui justifie son énoncé
+dans le jugement. Ce moyen doit donc être rejeté à l'instar des
+précédents.
+Le recours en nullité doit ainsi être rejeté.
+3. Sous l'angle de la réforme, la cour de céans examine librement
+les questions de droit sans être limitée aux moyens que les parties
+invoquent (cf. l'art. 447 al. 1er CPP). La cour de cassation ne peut
+cependant aller au-delà des conclusions du recourant; elle est liée en
+outre par les faits constatés dans le jugement attaqué, sous réserve des
+inadvertances manifestes, qu’elle rectifie d’office (art. 447 al. 2, 1ère et 2e
+phrases, CPP), ou d'éventuels compléments qui ressortiraient des pièces
+du dossier (JT 1989 III 105). Il a été vu, sous l'angle de la nullité, que de
+telles inadvertances ne sont pas données en l’espèce, pas plus que l'état
+de fait n'a à être complété, hormis par l'extrait du procès-verbal de
+l’audition-plainte du 27 juin 2008 retranscrit plus haut.
+
+- 10 -
+3.1 Le premier moyen de réforme tend à nier la contrainte en fait,
+le recourant plaidant que les relations sexuelles incriminées avaient été
+consenties. Pour autant que ce moyen puisse relever de la réforme, il a
+été vu, sous l'angle de la nullité, que c'est sans arbitraire aucun que les
+premiers juges ont cru la plaignante au détriment de l'accusé.
+3.2 Le recourant fait valoir ensuite que les éléments constitutifs de
+la contrainte sexuelle ne sont pas remplis, faute d’un état de frayeur ou
+d’alarme de la victime. Il se prévaut d’un arrêt du Tribunal fédéral selon
+lequel il ne suffit pas que la victime ait conscience d’être menacée ou
+même se soit sentie menacée, si elle n’a pas conçu de crainte (ATF 99 IV
+212, c. 1a p. 215).
+a) Selon l'art. 189 al. 1 CP, celui qui, notamment en usant de
+menace ou de violence envers une personne, en exerçant sur elle des
+pressions d’ordre psychique ou en la mettant hors d’état de résister l’aura
+contrainte à subir un acte analogue à l’acte sexuel ou un autre acte
+d’ordre sexuel, sera puni d’une peine privative de liberté de dix ans au
+plus ou d’une peine pécuniaire.
+b) Pour qu'il y ait contrainte en matière sexuelle, il faut que la
+victime ne soit pas consentante, que l'auteur le sache ou accepte cette
+éventualité et qu'il passe outre en profitant de la situation ou en
+employant un moyen efficace (ATF 122 IV 97, c. 2b et réf. cit.). La
+contrainte peut notamment résulter de l'usage de la violence par l'auteur,
+soit de l'utilisation volontaire de la force physique sur la personne de la
+victime afin de la faire céder. A cet égard, il suffit que la violence utilisée
+soit efficace, de manière compréhensible, dans les circonstances
+d'espèce; ainsi, suivant les cas, un emploi limité de la force peut suffire
+(Corboz, Les infractions en droit suisse, Vol. I, Berne 2002, n. 17 ad art.
+189 CP). L'auteur peut également recourir à des pressions d'ordre
+psychique, notion qui vise les cas où la victime est mise hors d'état de
+résister par la surprise, la frayeur ou une situation sans espoir (TF, B., 26
+mai 1998, ad Cass., 5 février 1998, et les arrêts cités; Cass., D. et R., du
+13 mai 2009, n° 212).
+
+- 11 -
+Comme l'indique l'adverbe "notamment" figurant dans la
+norme ici topique, la liste des moyens de contrainte énoncés par la loi
+n'est pas exhaustive. Il faut toutefois que la victime ait été contrainte, ce
+qui suppose un moyen efficace, c'est-à-dire que la victime ait été placée
+dans une situation telle qu'il était possible d'accomplir l'acte sans tenir
+compte de son refus. Il suffit en définitive que, selon les circonstances
+concrètes, la soumission de la victime soit compréhensible. Il en va ainsi
+lorsque celle-ci est placée dans une situation telle qu'il serait vain de
+résister physiquement ou d'appeler au secours, ou que cela entraînerait
+un préjudice disproportionné, de sorte que l'auteur parvient à ses fins, en
+passant outre au refus, sans avoir nécessairement à employer la violence
+ou la menace. Il n'est pas exigé que la victime soit mise totalement hors
+d'état de résister (ATF 122 IV précité; TF, C., 22 septembre 2000, ad Cass.,
+25 janvier 2000 Cass., D. et R., du 13 mai 2009 précité).
+c) En l’espèce, les faits établis montrent que la plaignante n’était
+pas consentante, sachant qu’elle avait clairement manifesté son refus à
+certains des rapports intimes qu'entendait lui imposer son époux. La
+contrainte sexuelle a été exercée par la menace de violences, par ailleurs
+subies par la plaignante dans d’autres circonstances encore. Si la victime
+n’a osé opposer de résistance, c'est en raison des conséquences
+dommageables qu’elle redoutait, à savoir notamment pour éviter d'être
+battue (jugement, p. 9 in fine). Le moyen du recourant est donc infirmé
+par les faits. Au surplus, on se bornera à constater que les éléments
+constitutifs de l’infraction de l’art. 189 CP sont réalisés, notamment par le
+climat de peur entretenu par l'auteur, qui a fait que la plaignante n’osait
+pas s'opposer à ses entreprises de crainte d'être battue.
+3.3 Le recourant conteste que l’abus du téléphone ait été prouvé à
+satisfaction, faute de relevé émanant d'au moins un opérateur. Outre que
+ce moyen parait relever de la nullité, la conviction du tribunal (jugement,
+pp. 10 et 11) se fonde sur les déclarations faites à l’audience. Il n’y avait
+dès lors pas besoin d'ordonner des recherches techniques dans un tel cas.
+
+- 12 -
+Il n’appartient au demeurant pas à l’accusé de dicter au tribunal les
+preuves sur lesquelles il doit se fonder.
+3.4 Le recourant fait valoir que les menaces ne seraient pas
+réalisées, faute de crainte de son épouse.
+a) Selon l'art. 180 al. 1 CP, celui qui, par une menace grave, aura
+alarmé ou effrayé une personne sera, sur plainte, puni d’une peine
+privative de liberté de trois ans au plus ou d’une peine pécuniaire.
+La menace présentée par l'auteur doit être objectivement de
+nature à éveiller la peur ou l'effroi chez la personne menacée
+(Favre/Pellet/Stoudmann, Code pénal annoté, 3e éd. Lausanne 2007, n. 1.2
+ad art. 180 CP). On vise ainsi une perturbation psychologique propre à
+entraver la liberté de former sa volonté et de s’y tenir (Corboz, Les
+infractions en droit suisse, Vol. I, Berne 2002, note 12 ad art. 180 CP p.
+645). La perte du sentiment de sécurité suffit (Trechsel et alii,
+Praxiskommentar, Zurich et St-Gall 2008, note 3 ad art. 180 CP, avec
+référence à SJZ 63 [1967] n° 180).
+b) Les menaces sont décrites aux chiffres 2.3, 2.6, 2.8 et 2.11 de
+l’état de fait résumé, auxquels soit renvoi.
+Certes, il n’y est nulle part fait état de la réaction de la
+plaignante et de ce qu’elle avait alors ressenti. On sait en revanche, qu’à
+l’audience encore, elle est apparue guère rassurée face aux dénégations
+de l'accusé. Il est aussi constant qu’à une occasion, lorsque son époux
+l’avait emmenée contre son gré à près de 180 km/h sur l’autoroute, elle
+était terrorisée. Il est en outre établi que c'était de peur d’être battue
+qu'elle se soumettait aux comportements sexuels violents imposés par
+son conjoint et qu'elle avait du reste été molestée à certaines occasions
+(chiffre 2.2 de l'état de fait). Aussi bien vivait-elle dans un climat de
+violence conjugale et sexuelle, comme l'énonce le jugement (p. 7, chiffre
+2, en haut). Il résulte de ces éléments que la plaignante subissait
+manifestement l'emprise d'une crainte constante et qu’elle n’avait en tout
+
+- 13 -
+cas plus un sentiment de sécurité, ce indépendamment même des actes
+de contrainte sexuelle. Dans ce contexte, les menaces de mort proférées à
+son égard n'en ont que plus de poids. Les conditions d'application de l’art.
+180 CP sont donc remplies.
+3.5 Le recourant conteste s'être rendu coupable de diffamation.
+a) L'art. 173 al. 1 CP sanctionne notamment celui qui, en
+s'adressant à un tiers, aura accusé une personne ou jeté sur elle le
+soupçon de tenir une conduite contraire à l'honneur, ou de tout autre fait
+propre à porter atteinte à sa considération.
+L'atteinte à l'honneur réprimée doit faire apparaître la
+personne visée comme méprisable; il ne suffit pas de l'abaisser dans la
+bonne opinion qu'elle a d'elle-même ou dans les qualités qu'elle croit
+avoir, notamment dans le cadre de ses activités professionnelles,
+artistiques, politiques ou sportives (JT 1995 IV 121). Les affirmations qui,
+sans faire apparaître la personne comme méprisable, sont seulement
+propres à ternir la réputation dont elle jouit dans son entourage ou à
+ébranler sa confiance en elle-même par une critique visant en tant que tel
+l'homme de métier, l'artiste ou le politicien ne sont pas réprimées (JT 1992
+IV 107; Corboz, Les principales infractions, 1997, n°9 ad art. 173). Dans le
+domaine des activités socioprofessionnelles, il ne suffit pas de dénier à
+une personne certaines qualités, de lui imputer des défauts ou de
+l'abaisser par rapport à ses concurrents. En revanche, il y a atteinte à
+l'honneur au sens pénal, même dans ces domaines, si on évoque une
+infraction pénale ou un comportement clairement réprouvé par les
+conceptions morales généralement admises (Corboz, op. cit., note 11 ad
+art. 173; Cass., B., 13 juin 1998).
+b) Le tribunal a retenu la diffamation du fait que le recourant
+avait dénigré les capacités professionnelles de son épouse. Ce motif doit
+être interprété au vu du métier de la plaignante, mentionné par ailleurs, à
+savoir celui d'assistante sociale (p. 9, in medio).
+
+- 14 -
+Or, dans le cas particulier, si les qualités professionnelles de
+l'intimée ont été mises en cause auprès de son employeur, c’est en
+relation avec le fait imputé à la plaignante d’abandonner ses enfants à sa
+mère, décrite comme peu fréquentable, pour sortir le soir avec un homme.
+Un tel comportement est désapprouvé, si ce n'est tenu pour méprisable
+selon les conceptions morales généralement admises. Tel est le cas
+indépendamment de la profession de l'intéressée. Il en irait du reste de
+même si l'épouse n'avait pas été active professionnellement. A plus forte
+raison, cependant, un tel comportement serait-il réprouvé s'il était le fait
+d'une assistante sociale. L’infraction de diffamation est donc bien réalisée.
+Contrairement à ce que plaide le recourant, il n’est pas question ici de
+condamner le fait qu’il aurait reproché à la plaignante de sortir le soir avec
+un homme. A noter en outre que les propos incriminés ne se limitent
+nullement à une critique limitée aux aptitudes professionnelles de la
+plaignante, mais la visent également en tant que personne. Dans cette
+mesure, il y a lieu à substitution des motifs des premiers juges.
+3.6 Le recourant conteste enfin l’abus du téléphone,
+spécifiquement sous l'angle de la réforme cette fois (cf. c. 3.3 ci-dessus). Il
+fait valoir que l’élément subjectif de l'infraction réprimée par l'art.
+179septies CP fait défaut, dès lors qu'il n'a agi ni par méchanceté ni par
+espièglerie.
+a) A teneur de l'art. 179septies CP, celui qui, par méchanceté ou
+par espièglerie, aura utilisé abusivement une installation de
+télécommunication pour inquiéter un tiers ou pour l’importuner sera, sur
+plainte, puni d’une amende.
+Il y a méchanceté lorsque l'auteur commet l'acte répréhensible
+parce que le dommage ou les désagréments qu'il cause à autrui lui
+procurent de la satisfaction (Corboz, Les infractions en droit suisse,
+volume I, Berne 2002, p. 630, n. 10 et 11 ad art. 179septies CP et
+jurisprudence citée).
+
+- 15 -
+b) Ici, le recourant fait valoir que ses appels procédaient de la
+jalousie et de la passion, motifs qui ne tomberaient pas sous le coup de la
+loi pénale. Il se réfère à un arrêt de la Cour de cassation (JT 1989 IV 160).
+Or, cet arrêt se limite à énoncer que des appels faits par jalousie ou par
+passion peuvent ne pas tomber sous le qualificatif de méchanceté.
+Or, en l’espèce, le recourant a téléphoné à la plaignante de
+manière incessante, jusqu’à 20 fois par jour. Il a agi alors qu’une
+procédure de mesures protectrices était à tout le moins en cours, ce qu'il
+savait, tout comme il n'ignorait pas que le droit de visite aux enfants était
+organisé au Point rencontre. La multiplication des appels n’avait donc
+aucune utilité. Le recourant ne le conteste au demeurant pas, puisqu’il
+plaide la jalousie, respectivement la passion. Ces circonstances ne sont au
+demeurant pas établies, puisque le recourant insultait sa femme de
+manière récurrente, également face à face. Bien plutôt, la méchanceté est
+avérée au vu du contexte dans lequel les nombreux appels avaient été
+passés; cela est étayé en particulier par le fait que la plaignante avait dû
+changer de numéro de téléphone et que des menaces de mort avaient
+auparavant été proférées contre elle. Peu importe dès lors que l'auteur ait
+agi par jalousie ou par passion au sens de l'arrêt dont il se prévaut. Les
+conditions de l’art. 179septies CP sont ainsi remplies.
+3.7 Le recourant plaide enfin que les conditions du sursis ordinaire
+sont réunies, faisant grief aux premiers juges de n'avoir assorti la peine
+que d'un sursis partiel. Dès lors que le Ministère public recourt en
+aggravation en concluant à une peine incompatible avec le sursis, il y a
+lieu d'examiner la question du sursis de manière globale dans un
+considérant unique statuant à cet égard sur les deux recours.
+Le recours en réforme de A.J.________ doit dès lors être rejeté à
+l'instar de son recours en nullité, sous réserve de ce qui précède en
+relation avec le sursis.
+II. Recours du Ministère public
+
+- 16 -
+Le recours est exclusivement en réforme.
+1.1 Tenant la peine pour arbitrairement clémente, le Ministère
+public conclut à ce qu'une peine privative de liberté de quatre ans soit
+prononcée.
+a) Selon l'art. 47 al. 1 CP, le juge fixe la peine d'après la
+culpabilité de l'auteur. Il prend en considération les antécédents et la
+situation personnelle de ce dernier ainsi que l'effet de la peine sur son
+avenir. Selon l'al. 2 de cette disposition, la culpabilité est déterminée par
+la gravité de la lésion ou de la mise en danger du bien juridique concerné,
+par le caractère répréhensible de l'acte, par les motivations et les buts de
+l'auteur et par la mesure dans laquelle celui-ci aurait pu éviter la mise en
+danger ou la lésion, compte tenu de sa situation personnelle et des
+circonstances extérieures.
+b) L'art. 47 CP confère au juge un large pouvoir d'appréciation, de
+sorte que la Cour de cassation, qui ne fonctionne pas comme une
+juridiction d'appel, n'admettra un recours en réforme sur la quotité de la
+peine que si la sanction a été fixée en dehors du cadre légal, si elle est
+fondée sur des critères étrangers à l'art. 47 CP, si des éléments
+d'appréciation prévus par cette disposition n'ont pas été pris en compte ou
+enfin si la sanction apparaît exagérément sévère ou clémente au point
+que l'on doive parler d'un abus du pouvoir d'appréciation (art. 415 al. 3
+CPP; Bovay et alii, op. cit., n. 1.4 ad art. 415 CPP; ATF 127 IV 101, c. 2c;
+ATF 122 IV 156, c. 3b; ATF 116 IV 288, c. 2b).
+L'art. 47 al. 1 CP reprend les critères des antécédents et de la
+situation personnelle consacrés par l'art. 63 aCP, tout en leur ajoutant la
+nécessité de prendre en considération l’effet de la peine sur l’avenir du
+condamné. S’agissant de ce dernier élément, le Message précise que le
+juge n’est pas contraint d’infliger la peine correspondant à la culpabilité de
+l’auteur s’il y a lieu de prévoir qu’une peine plus clémente suffira à le
+détourner de commettre d’autres infractions (FF 1999 II 1866). Cet aspect
+de prévention spéciale ne permet toutefois que des corrections
+
+- 17 -
+marginales. Il ne saurait l'emporter sur l’appréciation de la culpabilité du
+délinquant, l'effet de la peine devant toujours rester proportionné à la
+faute. L'art. 47 al. 2 CP codifie la jurisprudence rendue en vertu de l’art. 63
+aCP (cf. not. ATF 129 IV 6, c. 6.1; ATF 127 IV 101, c. 2a; ATF 118 IV 21, c.
+2b; cf. aussi notamment TF, arrêt 6B_207/2007, du 6 septembre 2007, ad
+Chambre pénale de la Cour de justice du canton de Genève du 23 avril
+2007).
+c) L’infraction la plus grave poursuivie ici est la contrainte
+sexuelle, réprimée par l'art. 189 CP (cf. notamment son al. 1, précité). Elle
+est punie d’une peine privative de liberté de dix ans au plus ou d’une
+peine pécuniaire.
+1.2 On peut d'abord regretter que le Ministère public n'ait pas
+assisté à l'audience compte tenu de la sévérité de sanctions qu'il requiert
+et du fait que les infractions poursuivies l'étaient d'office. Cela étant, les
+premiers juges ont qualifié les faits de graves, mais n’ont pas
+formellement apprécié la culpabilité de l'accusé à l'aune des critères
+déduits de l'art. 47 CP. Il résulte toutefois du jugement qu’ils ont estimé
+celle-ci assez lourde, non seulement au vu de la gravité des faits et des
+dénégations de l'intéressé, mais aussi compte tenu de son attitude
+générale, de sa persistance à ne pas adapter son comportement malgré
+l’enquête, de son absence d’empathie et de ses déclarations déplacée en
+fin d’audience. La cour en a déduit qu’il persistait à nier la liberté d’une
+femme de refuser des relations sexuelles à son conjoint.
+Les faits déterminants, s'agissant des infractions à la liberté
+sexuelle, sont la durée et la fréquence des actes imposés à la plaignante,
+ainsi que leur caractère humiliant et les menaces explicites de violences
+physiques qui les accompagnaient. Il découle du caractère de l'accusé,
+établi notamment par son comportement le 25 mai 2008 et apprécié
+directement par les premiers juges à l'audience, que la plaignante devait
+sérieusement s'attendre à être battue si elle se refusait à son époux. Le
+fait que la victime ait différé le dépôt de sa plainte n'y change rien. A noter
+au surplus que le législateur n’a pas voulu que la contrainte sexuelle entre
+
+- 18 -
+époux soit moins sévèrement réprimée que les autres cas (Corboz, op. cit.,
+note 26 ad art. 189 CP p. 749).
+Cela étant, les infractions ne se sont pas limitées à des
+attentats à l'intégrité sexuelle, loin s'en faut. Les autres infractions ont été
+commises à raison d'une durée et d'une fréquence analogues. Elles ont
+été perpétrées dans le même climat de violence, entretenu par l'accusé
+durant de nombreux mois de manière ininterrompue. L'auteur a même
+continué à agir après avoir été interrogé une première fois à la suite de la
+plainte de son épouse et en sachant qu'une procédure de mesures
+protectrices de l'union conjugale était pendante.
+Considérés dans leur ensemble, les faits incriminés procèdent
+d'une mentalité à juste titre qualifiée de "machiste" par les premiers
+juges. Cette attitude tend à restreindre la liberté d'une épouse dans moult
+domaines de la vie, autrement dit à ne pas la reconnaître comme l'égale
+de son mari. Une telle mentalité est établie en particulier, outre par les
+actes matériels en cause, par l'absence de repentir et d’empathie. Elle
+induit une dangerosité indéniable. Le fait que l'accusé se soit – de manière
+assurément légitime – préoccupé de l'avenir de ses enfants après la
+séparation du couple n'y change rien.
+La peine de quinze mois de privation de liberté est au bas de
+l'échelle du seul art. 189 al. 1 CP, rapproché de l'art. 40 CP. Il faut en outre
+tenir compte des autres infractions, qui sont significatives. A ces éléments
+s'ajoute le concours d'infractions.
+Dans ces circonstances, les premiers juges ont versé dans
+l'arbitraire en prononçant une peine privative de liberté de quinze mois.
+1.3 Cela étant, il reste à déterminer la quotité de la peine privative
+de liberté, que le Ministère public voudrait voir fixée à quatre ans. Cette
+conclusion est manifestement excessive.
+
+- 19 -
+Tout bien pesé, et au vu notamment de la durée des actes, de
+leur récurrence, de leur gravité et du concours d'infractions diverses, une
+peine privative de liberté de deux ans paraît – en référence notamment à
+la motivation des premiers juges - adéquate.
+2. Cela étant, il reste à statuer sur le sursis.
+2.1a) La peine est, de par sa quotité, compatible avec le sursis (art.
+42 al. 1 ch. 1 CP). Le sursis doit même constituer la règle, s'agissant d'un
+délinquant dépourvu d'antécédents (cf. l'art. 42 al. 1 ch. 2 CP).
+Aux termes de l'art. 43 ch. 1 CP, le juge peut suspendre
+partiellement l’exécution d’une peine pécuniaire, d’un travail d’intérêt
+général ou d’une peine privative de liberté d’un an au moins et de trois
+ans au plus afin de tenir compte de façon appropriée de la faute de
+l’auteur.
+b) Sur le plan subjectif, le juge doit poser, pour l'octroi du sursis,
+un pronostic quant au comportement futur de l'auteur. Savoir si le sursis
+serait de nature à détourner l'accusé de commettre de nouvelles
+infractions doit être décidé sur la base d'une appréciation d'ensemble,
+tenant compte des circonstances de l'infraction, des antécédents de
+l'auteur, de sa réputation et de sa situation personnelle au moment du
+jugement, notamment de l'état d'esprit qu'il manifeste. Le pronostic doit
+être posé sur la base de tous les éléments propres à éclairer l'ensemble du
+caractère de l'accusé et ses chances d'amendement (ATF 134 IV 1 c.
+4.2.1).
+L'art. 42 CP n'exige pas l'existence d'un pronostic favorable
+quant au comportement futur du condamné. Le sursis est refusé non pas
+lorsqu'il est impossible d'établir un pronostic favorable, mais bien parce
+qu'un pronostic défavorable existe (Kuhn, Le sursis et le sursis partiel, in
+Justice et Sanctions, vol. 8, La nouvelle partie générale du Code pénal
+suisse, Kuhn, Moreillon, Viredaz et Bichovsky éd., Berne 2006, pp. 213 ss,
+spéc. p. 220). Le sursis est la règle dont on ne peut en principe s'écarter
+
+- 20 -
+qu'en présence d'un pronostic défavorable. En cas d'incertitude, le sursis
+doit primer (ATF 134 IV 1 précité, c. 4.2.2 in fine).
+Pour statuer sur la suspension partielle de l'exécution d'une
+peine, le juge doit tenir compte de façon appropriée de la faute de
+l'auteur. Or, cette notion de faute, définie à l'art. 47 al. 2 CP, constitue
+avant tout un critère d'appréciation pour la fixation de la peine. Pour
+savoir si un sursis partiel paraît nécessaire en raison de la faute de
+l'auteur et de ses perspectives d'amendement, on ne peut faire référence
+de la même manière au critère de la culpabilité tel que prévu à l'art. 47 al.
+2 CP. En effet, lorsque le juge statue sur la question du sursis, il a déjà fixé
+la quotité de la peine et il ne s'agit plus que de définir sa forme
+d'exécution appropriée. Reste que la loi lie la question de la peine, qui doit
+être mesurée à la faute commise, et celle du sursis, en ce sens que ce
+dernier est exclu pour les peine supérieures à deux ans. La nécessité
+d'une peine privative de liberté assortie d'un sursis partiel résulte alors de
+la gravité de la faute, lorsque cette peine se situe entre deux et trois ans.
+Dans ce cas, la notion de faute trouve pleinement sa place (SJ 2008 I
+précité, p. 281; ATF 134 IV 1 précité, c. 5.3.3, p. 11).
+Le Tribunal fédéral a, dans un arrêt du 19 mai 2009
+(6B_492/2008, c. 3.1.3 non publié aux ATF 135 IV 152), complété les
+principes ci-dessus en considérant que "(…) l'exception du sursis partiel ne
+se pose qu'en cas de pronostic très incertain. En effet, elle ne peut être
+admise que si l'octroi du sursis à l'exécution d'au moins une partie de la
+peine nécessite, à des fins de prévention spéciale, que l'autre partie de la
+peine soit exécutée, à savoir lorsqu'il existe des doutes très importants au
+sujet du comportement futur de l'auteur, notamment au vu de ses
+antécédents."
+2.2 Ici, les premiers juges ont exclu le sursis ordinaire au vu de
+l'attitude de l'accusé, qui a persisté à ne pas reconnaître la gravité de ses
+actes. Cette appréciation tient compte de façon appropriée de la faute de
+l’auteur au sens de l'art. 43 ch. 1 CP. En effet, son comportement ne laisse
+
+- 21 -
+entrevoir que de faibles chances d'amendement. Ces circonstances
+excluent le sursis ordinaire.
+Cela étant, le Ministère public conclut à une peine ferme,
+même si ses conclusions portant sur la quotité de la peine excluaient le
+sursis. Les conditions objectives du sursis partiel sont remplies, attendu
+que l'accusé n'a pas d'antécédents.
+Cela étant, il y a lieu d'en déterminer les modalités, ce qui
+revient à déterminer si une peine ferme paraît nécessaire ou non pour
+détourner l’auteur d’autres crimes ou délits selon l'art. 42 al. 1 CP. A cet
+égard, l'ensemble des faits matériels incriminés et l'attitude de l'auteur
+suscitent des doutes très importants au sujet de son comportement futur,
+même en l'absence de tout antécédent. Ainsi, ses chances d'amendement
+doivent être considérées comme faibles, d'où un pronostic défavorable. Il
+apparaît ainsi nécessaire, à des fins de prévention spéciale au sens de la
+jurisprudence citée ci-dessus, qu'une partie de la peine soit exécutée.
+Cette part doit être fixée à six mois, comme en ont du reste statué les
+premiers juges.
+L'exécution de la peine doit donc être assortie du sursis pour
+une durée de dix-huit mois. Vu l'impératif de prévention spéciale
+applicable à un auteur ne présentant que de faibles chances
+d'amendement, le délai d'épreuve doit être fixé à la limite supérieure
+prévue par l'art. 44 al. 1 CP, soit à cinq ans, comme l'ont également
+considéré les premiers juges.
+Le recours du Ministère public doit donc être admis dans cette
+mesure
+III.1. En définitive, le recours du Ministère public doit être admis
+partiellement et celui de A.J.________ rejeté. Le jugement est réformé en ce
+sens que l'accusé est condamné à une peine privative de liberté de deux
+ans, avec suspension de l'exécution d'une partie de la peine portant sur
+dix-huit mois avec sursis pendant cinq ans.
+
+- 22 -
+2. L'accusé a été représenté à l'audience par une avocate inscrite
+au tableau, mais tant le recours que le mémoire déposé en détermination
+au recours du Ministère public ont été rédigés par un stagiaire. Le travail
+du conseil a, pour ce qui est de la rédaction du mémoire d'intimé, été
+considérablement allégé par la connaissance du dossier acquise lors de
+celle du recours. Il y a lieu d'en tenir compte dans la fixation de
+l'indemnité. Vu ce qui précède et compte tenu de l'ampleur et de la
+complexité de la cause, une durée d'activité de onze heures paraît
+adéquate, à laquelle viendra s'ajouter la participation à l'audience, par 150
+fr., d'où une indemnité de 1'360 fr., TVA en sus.
+Pour sa part, l'indemnité allouée au conseil d'office de la
+plaignante, avocat breveté, doit être fixée sur la base d'une durée
+d'activité de cinq heures, d'où une indemnité de 900 fr., TVA en sus.
+3. Conformément à l’art. 450 al. 1 CPP, la moitié des frais de
+deuxième instance, plus l’indemnité allouée à son défenseur d’office, par
+1'463 fr. 35, et y compris la moitié de l'indemnité allouée au conseil
+d'office de la plaignante, par 484 fr. 20, seront mis à la charge de
+A.J.________, le solde étant laissé à celle de l’Etat (art. 450 al. 2 CPP). Le
+remboursement à l'Etat de l'indemnité due au défenseur d'office sera
+exigible pour autant que la situation économique de l'accusé se soit
+améliorée (ATF 135 I 91, c. 2.4, spéc. 2.4.3).
+Par ces motifs,
+la Cour de cassation pénale,
+statuant en audience publique,
+prononce :
+I. Le recours du Ministère public est admis partiellement, celui de
+A.J.________ est rejeté.
+
+- 23 -
+II. Le jugement est réformé au chiffre II de son dispositif en ce
+sens que le tribunal :
+II. Condamne A.J.________ pour voies de fait qualifiées,
+diffamation, usage abusif d'une installation téléphonique,
+menaces qualifiées, contrainte sexuelle, tentative de
+contrainte sexuelle et violation grave des règles de la
+circulation routière à une peine privative de liberté de deux
+ans et suspend l'exécution d'une partie de la peine portant sur
+dix-huit mois avec sursis pendant cinq ans, ainsi qu'au
+paiement des frais par 10'070 fr. 50 (dix mille septante francs
+et cinquante centimes).
+Le jugement est confirmé pour le surplus.
+III. Les frais de deuxième instance, par 3'698 fr. 40 (trois mille six
+cent nonante-huit francs et quarante centimes), sont mis pour
+moitié, soit 1'849 fr. 20 (mille huit cent quarante-neuf francs et
+vingt centimes), à la charge du recourant A.J.________, plus
+l'indemnité allouée à son défenseur d'office par 1'463 fr. 35
+(mille quatre cent soixante-trois francs et trente-cinq
+centimes), y compris l'indemnité allouée au conseil d'office de
+la plaignante B.J.________ par 968 fr. 40 (neuf cent soixante-
+huit francs et quarante centimes), soit 3'312 fr. 55 (trois mille
+trois cent douze francs et cinquante-cinq centimes), le solde
+étant laissé à la charge de l'Etat.
+IV. Le remboursement à l'Etat de l'indemnité allouée au chiffre III
+ci-dessus au défenseur d'office du recourant sera exigible pour
+autant que la situation économique de A.J.________ se soit
+améliorée.
+
+- 24 -
+V. L'arrêt est exécutoire.
+Le président : Le greffier :
+Du 10 novembre 2009
+Le dispositif de l'arrêt qui précède est communiqué aux
+recourants et aux autres intéressés.
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Me Sandra Gerber, avocate (pour A.J.________),
+- Me Manuela Ryter Godel, avocate (pour B.J.________),
+- M. le Procureur général du canton de Vaud,
+et communiqué à :
+- Service de la population, secteur étrangers (10.10.1976),
+- M. le Président du Tribunal correctionnel de l'arrondissement de La
+Côte,
+- M. le Juge d'instruction cantonal,
+
+- 25 -
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+notification de l'expédition complète (art. 100
+al. 1 LTF).
+Le greffier :
