@@ -1,0 +1,576 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2010___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2010 / 9"
+decided: "2009-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1693191"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/210/art-056.md", "switzerland/bund/acts/220/art-620.md", "switzerland/bund/acts/220/art-626.md", "switzerland/bund/acts/272/art-002.md", "switzerland/bund/acts/272/art-010.md", "switzerland/bund/acts/272/art-019.md", "switzerland/bund/acts/272/art-034.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-058.md", "switzerland/bund/acts/272/art-061.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-150.md"]
+---
+
+# VD Findinfo Jug-inc / 2010 / 9
+
+## Regeste
+
+LOI FÉDÉRALE SUR LES FORS EN MATIÈRE CIVILE, SIÈGE FICTIF, TRANSFERT DU SIÈGE, ABUS DE DROIT | 2 al. 2 CC, 56 CPC, 61 al. 1 CPC, 19 al. 1 let. c LFors, 3 al. 1 let. b LFors
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 30.12.2009 Jug-inc / 2010 / 9
+
+LOI FÉDÉRALE SUR LES FORS EN MATIÈRE CIVILE, SIÈGE FICTIF, TRANSFERT DU SIÈGE, ABUS DE DROIT | 2 al. 2 CC, 56 CPC, 61 al. 1 CPC, 19 al. 1 let. c LFors, 3 al. 1 let. b LFors
+
+TRIBUNAL CANTONAL
+CO09.012998
+5/2010/JKR
+COUR
+CIVILE
+_________________
+Jugement incident
+dans la cause divisant
+E.________ SA
+, à
+Lausanne,
+d'avec
+Q.________
+AG
+, à Rotkreuz
+.
+___________________________________________________________________
+Du 30 décembre 2009
+__________________
+Présidence
+de   M.
+Krieger
+,
+juge instructeur
+Greffier
+:
+M.
+Segura
+*****
+Statuant à huis clos, le juge instructeur considère
+:
+En fait et en droit :
+Vu le procès ouvert par l'intimée,
+demanderesse au fond
+, E.________ SA contre
+la requérante, défenderesse au fond, Q.________ AG
+par demande du 2 avril 2009 par laquelle elle a pris les
+conclusions suivantes .
+"
+Plaise
+à la Cour civile du Tribunal cantonal vaudois, avec suite de
+frais et dépens
+:
+- I -
+Condamner Q.________ AG
+(anciennement [...] SA [...]) à payer immédiatement
+à E.________ SA la somme de Fr. 600'159.-- (six cent mille
+et cent cinquante-neuf francs) :
+-           plus
+intérêt à 5 % l'an dès le 1
+er
+juin 2008 sur la somme de Fr. 325'020.-- (trois cent
+vingt-cinq mille vingt francs).
+-           plus
+intérêt à 5 % l'an dès le 1
+er
+mars 2009 sur la somme de Fr. 275'139.-- (deux cent
+septante-cinq mille cent trente-neuf francs).
+- II -
+Donner acte à E.________ SA du fait qu'elle tient à
+la disposition de Q.________ AG tous les fichiers informatiques et
+autres supports, contenant tous plans et autres documents
+exécutés dans le cadre du projet [...] à
+[...], et qu'elle les lui remettra dès le paiement de Fr.
+600'159.-- exécuté en sa faveur."
+vu le délai imparti à la requérante pour
+procéder sur la demande, prolongé au 14 juillet
+2009,
+vu la requête de déclinatoire déposée
+par la requérante le 14 juillet 2009 et par laquelle elle a
+pris, avec suite de dépens et par voie incidente, les
+conclusions suivantes :
+"
+Principalement
+I.        Le déclinatoire
+est admis
+II.       La demanderesse est
+éconduite de son instance
+Subsidiairement
+III.
+Un délai supplémentaire à dire de justice est
+imparti à la défenderesse pour procéder sur la
+demande."
+vu l'avis du juge instructeur du 16 juillet 2009 notifiant la
+requête à l'intimée, lui impartissant un
+délai au 26 août 2009 pour faire la déclaration
+prévue par l'art. 148 CPC (Code de procédure civile
+du 14 décembre 1966 - RSV 270.11) et valant interpellation
+au sens de l'art. 149 al. 4 CPC pour toutes les parties,
+vu la lettre de la requérante du 26 août 2009
+indiquant qu'elle ne peut se contenter d'un échange
+d'écritures, les offres de preuves portant sur des
+témoignages et sollicitant la production anticipée
+des pièces requises 2051 et 2052 puis une nouvelle
+interpellation au sens de l'art. 149 al. 4 CPC,
+vu la lettre de l'intimée du 26 août 2009 par laquelle
+elle conclut, avec suite de frais et dépens, au rejet de la
+requête et déclare accepter que l'audience incidente
+soit remplacée par un échange de mémoires
+à bref délai,
+vu l'avis du greffe du 31 août 2009 à Me [...],
+notaire, requérant production des pièces requises
+2051 et 2052 sous dix jours,
+vu la lettre de Me [...] du 8 septembre 2009, communiquée
+aux parties le 9 septembre 2009, indiquant qu'elle produira les
+pièces requises dès que [...] l'aura
+déliée du secret professionnel,
+vu la lettre de Me [...] du 9 septembre 2009 par laquelle elle
+transmet les pièces requises ainsi qu'une attestation,
+vu l'avis du juge instructeur du 10 septembre 2009 transmettant
+copie des pièces requises aux parties et fixant à la
+requérante un délai au 30 septembre 2009 pour
+procéder selon l'art. 149 al. 4 CPC,
+vu les lignes de la requérante du 30 septembre 2009 par
+lesquelles elle accepte de remplacer l'audience par un
+échange d'écritures unique et à bref
+délai,
+vu l'avis du juge instructeur du 1
+er
+octobre 2009
+impartissant à la requérante un délai au 16
+octobre 2009 et à l'intimée au 2 novembre 2009 pour
+produire un mémoire incident,
+vu le mémoire incident déposé par la
+requérante le 16 octobre 2009,
+vu le mémoire incident déposé par
+l'intimée le 3 décembre 2009, dans le délai
+prolongé par avis du 3 novembre 2009,
+vu les pièces du dossier;
+attendu que l'art. 56 CPC prévoit que le déclinatoire
+a lieu lorsque la cause est portée devant un juge
+incompétent pour en connaître d'après les
+règles qui déterminent le for et les attributions des
+autorités judiciaires,
+que le juge examine d'office sa compétence (art. 57 al. 1
+CPC), mais qu'en cas de violation des règles dispositives de
+compétence, il renonce cependant à prononcer le
+déclinatoire si le défendeur procède au fond
+sans faire de réserve ou si les parties ont valablement
+convenu d'une élection de for (art. 57 al. 2 CPC),
+que le déclinatoire sanctionne non seulement
+l'incompétence territoriale, mais également
+matérielle, qui peut résulter du droit
+fédéral (Poudret/Haldy/Tappy, Procédure civile
+vaudoise, 3
+ème
+éd., n. 1 ad art. 56 CPC et
+n. 7 ad art. 57 CPC; Bonard, Les sanctions des règles
+de compétence, thèse, p. 21),
+que pour trancher la question du for, le juge doit se placer au
+moment de l'ouverture d'action et devrait se baser sur les seuls
+faits allégués et les conclusions prises, sans
+être lié par la cause juridique invoquée
+à l'appui de celles-ci ni examiner le bien-fondé de
+la demande (Poudret/Haldy/Tappy, op. cit., n. 3 ad art. 56 CPC
+et les réf. citées),
+que selon l'art. 10 al. 1 LFors (loi fédérale du 24
+décembre 2000 sur les fors en matière civile - RS
+272), à moins d'une disposition légale contraire, le
+tribunal saisi est compétent lorsque le défendeur
+procède sans faire de réserve sur la
+compétence,
+que les dispositions légales contraires correspondent aux
+fors impératifs et partiellement impératifs
+prévus par la loi (Poudret/Haldy/Tappy, op. cit., n. 1 ad
+art. 10 LFors),
+que la requérante se prévaut du for fixé
+à l'art. 3 al. 1 litt. b LFors,
+que cette disposition prévoit que, sauf disposition
+contraire, le for pour les actions dirigées contre une
+personne morale est celui de son siège,
+que selon l'art. 2 al. 1 LFors, un for n'est impératif que
+si la loi le prévoit expressément,
+que tel n'est pas le cas de l'art. 3 al. 1 litt. b LFors,
+qu'il incombe au droit cantonal de déterminer à quel
+moment le déclinatoire doit être soulevé
+(Poudret/Haldy/Tappy, op. cit., n. 2 ad art. 10 LFors),
+que l'art. 58 CPC prévoit que le déclinatoire doit
+être opposé avant toute défense au fond et
+préalablement à toute exception de procédure
+(al. 1) et que le défendeur doit le soulever dans le
+délai de réponse (al. 2),
+que la partie qui oppose le déclinatoire procède en
+la forme incidente et que celui-ci est instruit et jugé en
+cette forme (art. 59 al. 1 et 2 CPC),
+que selon l'art. 61 al. 1 CPC, si le déclinatoire est
+prononcé parce que la cause ne relève pas d'une
+autorité judiciaire du canton ou en raison d'une violation
+de la loi fédérale sur les fors, le demandeur est
+éconduit d'instance, l'art. 34 al. 2 LFors étant
+réservé,
+que le requérant a soulevé le déclinatoire
+dans le délai de réponse fixé et
+prolongé, avant toute défense au fond,
+que la requête est en conséquence
+déposée en temps utile,
+qu'elle respecte les conditions fixées par les art. 19 et
+147 CPC,
+qu'elle est donc recevable en la forme;
+attendu que les conclusions prises par l'intimée au pied de
+sa demande sont relatives à un mandat d'architecte que [...]
+SA, [...] lui aurait confié,
+que les statuts de cette société ont
+été modifiés le 5 décembre 2008,
+qu'à cette occasion la raison sociale est devenue Q.________
+AG,
+qu'à la même date, le siège de la
+société a été transféré
+de [...] à [...], canton de Zoug,
+qu'en raison de ce transfert, la raison [...] SA, [...] a
+été radiée d'office du Registre du commerce du
+canton de Vaud le 19 décembre 2008,
+que l'intimée allègue dans sa demande que le contrat
+conclu par les parties serait relatif à des travaux devant
+avoir lieu sur les parcelles [...] et [...] de la commune de [...],
+propriétés de la requérante,
+qu'elle se prévaut du for prévu à l'art. 19
+al. 1 litt. c LFors,
+que selon cette disposition le tribunal du lieu où est
+situé le registre foncier dans lequel un immeuble est
+immatriculé ou devrait l'être est compétent
+pour connaître des autres actions en rapport avec l'immeuble
+telle que l'action visant au transfert de la
+propriété foncière ou à la constitution
+de droits réels limités sur les immeubles,
+que, auparavant, la doctrine considérait que ce for
+n'était applicable qu'aux actions qui avaient un rapport
+suffisant, d'une certaine intensité, avec l'immeuble (ATF
+134 III 16; Donzallaz, Commentaire de la loi fédérale
+sur les fors en matière civile, n. 36, p. 454; Hohl, Les
+fors spéciaux de la loi fédérale sur les fors,
+in
+La loi sur les fors, p. 61; Poudret/Haldy/Tappy, op.
+cit., n. 1 ad art. 19 LFors; Tenchio, Basler Kommentar, n. 33 ad
+art. 19 LFors),
+que le contrat liant un architecte au maître de l'ouvrage ne
+présentait pas un lien suffisant avec l'immeuble (Donzallaz,
+op. cit., n. 35, p. 453),
+que récemment le Tribunal fédéral a
+considéré que le critère du rapport d'une
+certaine intensité n'est pas propre à garantir la
+sécurité du droit, le rapport avec l'immeuble devant
+être examiné concrètement dans chaque cas et ne
+permettant pas au justiciable d'avoir l'assurance nécessaire
+quant au for à utiliser (ATF 134 III 16),
+que la Haute Cour a considéré que seules les actions
+contractuelles démontrant un aspect réel peuvent
+bénéficier du for de l'art. 19 al. 1 litt. c LFors
+(ATF 134 III 16 c. 3.6),
+que ce caractère réel est en particulier
+présent lorsque la prétention litigieuse peut
+conduire à une modification du registre foncier
+(
+idem
+),
+qu'en l'espèce, l'action de l'intimée est
+fondée sur une relation contractuelle,
+que les travaux qu'elle prétend avoir effectué pour
+le compte de la requérante consistent notamment en la
+rédaction de courriers, de procès-verbaux, de plans
+d'avant-projet, de documents en trois dimensions et de
+montages,
+que l'intimée allègue aussi avoir
+représenté la requérante notamment
+auprès des autorités communales [...],
+que les opérations alléguées par
+l'intimée ne présentent pas un aspect réel au
+sens de la jurisprudence,
+qu'en effet, l'intimée n'a pas effectué de travaux
+sur les bâtiments situés sur les parcelles
+concernées,
+qu'elle n'a pas assumé la direction de tels travaux,
+qu'au demeurant son action n'induit aucune modification au registre
+foncier,
+qu'en conséquence les conditions permettant de se
+prévaloir du for prévu à l'art. 19 al. 1 litt.
+c LFors ne sont pas réalisées;
+attendu que l'intimée soutient que le déplacement du
+siège social de la requérante de [...] à
+[...], respectivement que cette dernière se prévale
+du for de l'art. 3 al. 1 litt. b LFors, est constitutif d'un abus
+de droit au sens de l'art. 2 al. 2 CC,
+que selon l'art. 2 al. 2 CC, l'abus manifeste d'un droit n'est pas
+protégé par la loi,
+que ce principe vaut également dans le domaine de la
+procédure (TF 4C.385/2001 du 8 mai 2002; ATF 123 III 120, JT
+1997 I 612),
+que l'adjectif "manifeste" indique qu'il convient de se montrer
+restrictif dans l'admission de l'abus de droit (
+TF
+4C.33/2006 du 29 mars 2006;
+TF 4C.385/2001 du 8 mai
+2002 c. 5b non publié aux ATF 128 III 284, JT 2003 I 29 et
+les réf. citées),
+que l'existence d'un abus de droit se détermine selon les
+circonstances concrètes du cas, en s'inspirant des diverses
+catégories mises en évidence par la jurisprudence et
+la doctrine (TF 4C.33/2006 du 29 mars 2006; ATF 129 III 493 c. 5.1,
+JT 2004 I 49 et les réf. citées),
+que les cas typiques sont l'absence d'intérêt à
+l'exercice d'un droit, l'utilisation d'une institution juridique
+contrairement à son but, la disproportion manifeste des
+intérêts en présence, l'exercice d'un droit
+sans ménagement ou l'attitude contradictoire (TF 4C.33/2006
+du 29 mars 2006; TF 4C.172/2005 du 14 septembre 2005,
+c. 4.1 et les réf. citées; ATF 129 III 493 c.
+5.1, JT 2004 I 49;
+TF 4C.385/2001 du 8 mai 2002 et les
+réf. citées
+).
+que l
+a règle prohibant l'abus de droit
+autorise certes le juge à corriger les effets de la loi dans
+certains cas où l'exercice d'un droit allégué
+créerait une injustice manifeste, mais que son application
+doit demeurer restrictive et se concilier avec la finalité,
+telle que le législateur l'a voulue, de la norme
+matérielle applicable au cas concret (TF 4C.33/2006 du 29
+mars 2006; TF 4C.172/2005 du 14 septembre 2005, c. 4.1; ATF 107 Ia
+206 c. 3b, JT 1982 IV 159 et les réf.
+citées),
+que l'art. 56 CC (Code civil suisse du 10 décembre 1907 - RS
+210) prévoit que le siège des personnes morales est,
+sauf disposition contraire des statuts, au siège de leur
+administration,
+que, selon l'art. 626 ch. 1 CO (Code des obligations du 30 mars
+1911 - RS 220), les statuts d'une société anonyme
+doivent contenir une disposition sur le siège de la
+société,
+que le siège légal institué par l'art. 56 CC
+n'est en fait applicable qu'aux personnes morales du Code civil,
+celles figurant dans le Code des obligations étant, de par
+la loi, obligées de déterminer leur siège dans
+les statuts (Huguenin, Basler Kommentar, 3
+ème
+éd., nn. 10 ad art. 56 CC),
+que ces dispositions consacrent la liberté de choix du
+siège en Suisse (Huguenin, op. cit., nn. 3 et 8 ad art. 56
+CC; Niggli, Handkommentar zum Schweizer Privatrecht, n. 2 ad art.
+56 CC; Schenker, Basler Kommentar, 3
+ème
+éd., n. 5 ad art. 626 CO),
+qu'il n'y a pas besoin que le siège choisi coïncide
+avec le lieu des activités usuelles de la
+société (Huguenin, op. cit., n. 7 ad art. 56 CC;
+Niggli, op. cit., n. 4 ad art. 56 CC; Schenker, op. cit., n. 5 ad
+art. 626 CO),
+que ce droit est néanmoins limité par l'interdiction
+de l'abus de droit (Huguenin, op. cit., n. 8 ad art. 56 CC; Niggli,
+op. cit., n. 3 ad art. 56 CC; Schenker, op. cit., n. 5 ad art. 626
+CO),
+qu'en particulier la modification du siège d'une
+société peut constituer un abus de droit si elle a
+pour but d'éluder les poursuites d'un créancier
+(Niggli, op. cit., n. 3 ad art. 56 CC),
+que les personnes morales ont un droit constitutionnel à
+être poursuivies au lieu de leur siège (art. 30 al. 2
+Cst. [Constitution fédérale de la
+Confédération suisse du 18 avril 1999 - RS 101];
+Huguenin, op. cit., n. 18 ad art. 56 CC),
+qu'en l'espèce, la requérante est une
+société anonyme au sens de art. 620 ss CO,
+qu'elle se prévaut du for de son siège prévu
+à l'art. 3 al. 1 litt. b  LFors,
+que l'actionnariat de la requérante a été
+modifié en septembre 2008,
+que sa raison sociale et son siège ont été
+modifiés suite à ce changement,
+que le notaire [...] a été contacté en
+août 2008 pour émettre un devis relatif aux
+opérations nécessaires à la reprise des
+actions et au transfert du siège de la
+requérante,
+qu'on ne peut dès lors soutenir que ce transfert aurait eu
+lieu "soudainement" en décembre 2008,
+que, selon la requérante, le transfert à [...]
+répond à une volonté de concentrer les
+sociétés du groupe actionnaire de la
+requérante et de profiter du régime fiscal en vigueur
+pour les entreprises dans le canton de Zoug,
+que vouloir profiter d'un régime favorable en matière
+fiscale n'est pas en soi constitutif d'un abus de droit,
+qu'une modification du siège d'une société
+à cette fin n'est donc pas abusive,
+que la requérante a conservé son ancienne raison
+sociale jusqu'à droit connu sur la demande de permis de
+construire déposée auprès des autorités
+[...] et n'a effectué le transfert de son siège
+qu'après la réponse négative de ces
+autorités,
+que cela ne rend pas ce transfert abusif,
+que l'intimée allègue que ce transfert rendrait
+difficile la conduite d'un procès et la
+récupération des montants qui lui seraient
+dus,
+que le nouveau siège de la requérante est cependant
+en Suisse,
+qu'on ne perçoit pas de quelle nature pourrait être
+ces difficultés, sous réserve de devoir mener un
+procès en langue allemande,
+qu'en particulier le droit de fond applicable au litige entre les
+parties sera identique,
+que la saisine d'un tribunal zougois ne rend ni impossible ni plus
+compliquée la mise en œuvre d'une expertise sur sol
+vaudois, en l'espèce à [...],
+que le transfert du siège ne voue pas l'action de
+l'intimée à l'échec,
+que l'intimée soutient cependant que l'on se trouverait dans
+une situation identique à celle évoquée par la
+doctrine et la jurisprudence s'agissant d'une société
+qui déplace son siège fictivement pour se soustraire
+à l'action d'un créancier (Donzallaz, op. cit., n. 52
+p. 156; RSJB 1950, p. 582),
+que la situation mentionnée par la doctrine et la
+jurisprudence n'est toutefois pas similaire à la
+présente cause,
+qu'en effet, dans le cas envisagé par la doctrine et la
+jurisprudence, le transfert du siège de la
+société avait pour but de se soustraire à une
+action existante d'un créancier,
+qu'en l'espèce, l'inscription du nouveau siège au
+Registre du commerce du canton de Zoug est intervenue le 5
+décembre 2008 et la requérante a été
+radiée du Registre vaudois le 18 du même
+mois,
+que l'intimée a allégué ce transfert dans sa
+demande,
+qu'elle n'a par ailleurs pas allégué ou prouvé
+avoir procédé devant une autorité judiciaire
+ou de poursuites préalablement au dépôt de sa
+demande,
+qu'elle a déposé sa demande le 2 avril 2009, soit
+plus de trois mois après l'inscription du transfert au
+Registre du commerce,
+que c'est donc en toute connaissance de cause que l'intimée
+a décidé d'agir dans le canton de Vaud,
+qu'en conséquence, le transfert du siège de la
+requérante n'a pas eu pour effet de soustraire celle-ci
+à une action ou une poursuite déjà introduite
+par l'intimée,
+que l'inscription du nouveau siège au Registre du commerce
+est indépendante du fait qu'une partie, voire la
+totalité, de l'activité de l'intimée ne se
+produise pas en ce lieu,
+qu'une telle situation ne constitue dès lors pas un abus de
+droit,
+qu'en définitive, le fait que la requérante se
+prévale du for de son siège ne constitue pas un abus
+de droit,
+que la requête en déclinatoire doit être admise
+et l'intimée éconduite d'instance, la cause ne
+relevant pas d'une autorité judiciaire vaudoise (art. 61 al.
+1 CPC);
+attendu que les frais de la procédure incidente doivent
+être arrêtés à 900 fr. (art. 170a al. 1
+TJFC [tarif du 4 décembre 1984 des frais judiciaires en
+matière civile - RS 270.11.5]), à la charge de la
+requérante,
+que l'intimée étant éconduite d'instance, il y
+a lieu de statuer sur l'émolument afférant au
+dépôt de la demande,
+qu'aux termes de l'art. 155 TFJC, lorsque le procès prend
+fin avant la fixation de l'audience préliminaire, notamment
+en cas de déclinatoire, les émoluments de demande et
+de réponse peuvent être réduits de
+moitié au maximum compte tenu des travaux effectués
+par le greffe,
+qu'au regard des opérations effectuées par le greffe
+en l'espèce, il y a lieu de réduire
+l'émolument de demande à 2'000 fr. 40,
+que le jugement incident statue sur les dépens comme en
+matière de jugement au fond (art. 150 al. 2 CPC),
+que la requérante, obtenant gain de cause, a droit à
+des dépens de l'incident (art. 92 al. 1 CPC) qui se
+confondent avec les dépens pour avoir procédé
+sur la demande au fond, qu'il convient d'arrêter à
+1'600 fr, soit
+a)
+700 fr.
+à titre de participation aux honoraires et débours de
+son conseil;
+b)
+900 fr.          en
+remboursement de l'émolument del'incident;
+que la cause doit être rayée du rôle.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête incidente en
+déclinatoire déposée par la requérante
+et défenderesse au fond Q.________ AG le 14 juillet 2009 est
+admise.
+II.
+L'intimée et demanderesse au
+fond E.________ SA est éconduite de l'instance qu'elle a
+introduite le 2 avril 2009 contre la requérante et
+défenderesse au fond.
+III.
+Les frais de la procédure
+incidente sont arrêtés à 900 fr. (neuf
+cents
+francs) pour la
+requérante et défenderesse
+.
+IV
+.
+L'émolument de demande est
+réduit à 2'000 fr. 40 (deux mille francs et quarante
+centimes) pour la demanderesse et intimée.
+V.
+L'intimée et demanderesse
+versera
+à la
+requérante et défenderesse
+le
+montant de 1'600
+fr. (mille six
+cents
+francs) à titre de
+dépens.
+Le juge instructeur
+:
+Le
+greffier
+:
+J. Krieger
+S. Segura
+Du
+Le jugement qui précède, dont le
+dispositif a été expédié pour
+notification le 19 janvier 2010
+, lu et
+approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils des parties.
+Les parties peuvent recourir auprès du Tribunal cantonal
+dans les dix jours dès la notification du présent
+jugement en déposant au greffe de la Cour civile un acte de
+recours en deux exemplaires désignant le jugement
+attaqué et contenant leurs conclusions en réforme,
+éventuellement en nullité, ou à défaut,
+indiquant sur quels points le jugement est attaqué et quelle
+est la modification demandée.
+Le
+greffier
+:
+S. Segura
