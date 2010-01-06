@@ -1,0 +1,172 @@
+---
+decision_id: "vd_findinfo_D_cision___2010___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2010 / 5"
+decided: "2010-01-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1659582"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-056.md", "switzerland/bund/acts/830.1/art-059.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2010 / 5
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE, DROIT D'OBTENIR UNE DÉCISION | 56 al. 2 LPGA, 59 LPGA, 61 let. g LPGA, 91 LPA-VD, 94 al. 1 let. c LPA-VD, 99 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 06.01.2010 Décision / 2010 / 5
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE, DROIT D'OBTENIR UNE DÉCISION | 56 al. 2 LPGA, 59 LPGA, 61 let. g LPGA, 91 LPA-VD, 94 al. 1 let. c LPA-VD, 99 LPA-VD
+
+TRIBUNAL CANTONAL
+AM 44/09 - 1/2010
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 6 janvier
+2010
+__________________
+Présidence
+de   M.
+Dind
+,
+juge unique
+Greffier
+:
+M.        Greuter
+*****
+Cause pendante entre
+:
+Z.________
+, à Lausanne, recourant, représenté
+par Me Annie Schnitzler, avocate à Lausanne,
+et
+assurance
+C.________
+, à Lausanne,
+intimée.
+_______________
+Art. 91, 94 al. 1 let. c et
+99 LPA-VD
+E n   f a i t   e t   e n
+d r o i t   :
+A.
+Dans son recours du 10 septembre 2009, Z.________ (ci-après:
+le recourant) invoque un déni de justice et conclut qu'ordre
+soit donné à l'assurance C.________ (ci-après:
+la caisse) de rendre une décision sur opposition dans les 10
+jours dès notification du dispositif.
+Le présent recours a été formé pour
+déni de justice formel, soit pour retard injustifié
+(art. 56 al. 2 LPGA [loi fédérale du 6 octobre 2000
+sur la partie générale du droit des assurances
+sociales; RS 830.1]; ATF 130 V 90, consid. 2).
+L'intérêt direct au recours est une condition de
+recevabilité posée par l'art. 59 LPGA.
+B.
+a)
+Dans sa lettre du 25 novembre 2009, le recourant indique
+que la caisse intimée a rendu une décision sur
+opposition le 30 octobre 2009, soit le dernier jour du délai
+de réponse. Constatant que le recours est devenu sans objet,
+il demande l'allocation de dépens.
+Interpellée le 30 novembre, avec délai de
+détermination au 10 décembre 2009, la caisse n'a
+pas répondu.
+b)
+Lorsqu'une décision sur le fond est rendue, le
+litige est vidé de sa substance; en tel cas, il n'incombe au
+juge saisi que de statuer sur les prétentions accessoires,
+notamment les dépens (ATF 125 V 373, consid.
+2a; cf. aussi ATF 126 V 244, consid. 2b
+in initio
+; ATF 130 V 90, consid.
+4
+in initio
+).
+Lorsque l'instance est, selon l'art. 56 al. 2 LPGA, ouverte pour
+retard injustifié à statuer (au sujet de cette
+notion, cf. ATF 125 V 188, consid. 2a), l'intérêt au
+recours cesse d'exister au plus tard lorsque l'autorité
+intimée a rendu sa décision, comme le relève
+expressément la jurisprudence (ATF 125 V 373, consid. 1). Un
+intérêt théorique ou le fait de se
+prévaloir de l'intérêt général
+à une application de l'assurance conforme à la loi
+n'est pas juridiquement protégé (Kieser, ATSG
+Kommentar,
+ad
+art. 59, p. 587, let. d).
+c)
+En l'espèce, l'intérêt au recours a
+cessé dès que l'intimée a rendu la
+décision sur opposition du 30 octobre 2009, de sorte
+que
+le présent recours est devenu sans objet. Il se
+justifie dès lors de rayer la cause du rôle,
+compétence que l'art. 94 al. 1 let. c LPA-VD (
+loi cantonale vaudoise du 28 octobre 2008 sur
+la procédure administrative; RSV 173.36
+) attribue au
+magistrat instructeur statuant comme juge unique
+C.
+En ce qui concerne l'octroi de dépens, il faut que la partie
+ait, conformément à son devoir de diligence, rendu
+attentive l'autorité aux vices de procédure qu'elle a
+constatés (ATF 125 V 373, consid. 2b). Cette condition est
+remplie en l'espèce, le recourant ayant adressé des
+sommations écrites à l'intimée avant de saisir
+la cour de céans.
+Des dépens doivent ainsi être octroyés au
+recourant (cf. art. 91 et 99 LPA-VD). Compte tenu de l'art. 61
+let. g LPGA, qui s'applique par analogie, leur montant doit
+être déterminé sans égard à la
+valeur litigieuse, mais d'après l'importance et la
+complexité du litige. Conformément à ce
+principe, il convient d'allouer au recourant la somme de 800 fr.
+à titre de dépens.
+La présente décision doit être rendue sans
+frais (cf. art. 91 et 99 LPA-VD)
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause, devenue sans objet, est
+rayée du rôle.
+II.
+Il n'est pas perçu
+d'émoluments judiciaires.
+III.
+L'assurance C.________ versera
+à Z.________ la somme de 800 fr. (huit cents francs)
+à titre de dépens.
+Le juge
+unique:
+Le greffier:
+Du
+La décision qui précède est notifiée
+à :
+‑      Me Annie Schnitzler
+(pour Z.________),
+‑      Assurance
+C.________,
+-      Office
+fédéral de la santé publique,
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier:
