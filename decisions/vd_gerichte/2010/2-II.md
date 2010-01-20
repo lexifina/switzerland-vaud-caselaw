@@ -1,0 +1,106 @@
+---
+decision_id: "vd_gerichte_2_II"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREC"
+docket: "2/II"
+decided: "2010-01-20"
+published: "2010-02-20"
+language: "fr"
+legal_area: "Non contentieux"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/f92b7f6e-fe60-4230-b0fa-7c6bf4cacb72"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# Non contentieux
+
+## Text
+
+TRIBUNAL CANTONAL
+2/II
+CHAMBRE DE S RECO URS
+________________________________
+Arrêt du 20 janvier 2010
+__________________
+Présidence de M. COLOMBINI, président
+Juges : MM. Denys et Sauterel
+Greffier : Mme Bloesch
+*****
+Art. 566, 570 CC; 492 al. 2, 542 CPC
+La Chambre des recours du Tribunal cantonal prend séance
+pour s’occuper du recours interjeté par Q.________, à YVERDON, héritière,
+contre le certificat d'héritier rendu le 9 novembre 2009 par la Justice de
+paix du district du Jura - Nord vaudois dans la succession de A.G.________ .
+Délibérant à huis clos, la cour voit :
+804
+
+- 2 -
+Vu le dossier de la succession de A.G.________, décédée ab
+intestat à Orbe le [...] 2009,
+vu la déclaration de répudiation signée le 28 août 2009 par
+B.G.________ , C.G.________ , et D.G.________ ,
+vu la déclaration signée le 9 novembre 2009 par la recourante,
+acceptant la succession précitée,
+vu le certificat d'héritier délivré le 9 novembre 2009 par la
+Justice de paix du district du Jura - Nord vaudois en faveur de la
+recourante, attestant sa qualité de seule héritière légale,
+vu le recours formé le 27 novembre 2009 par Q.________ contre
+le certificat d'héritier précité,
+vu le courrier du 21 décembre 2009 du Président de la
+Chambre des recours, impartissant à la recourante un délai au 4 janvier
+2010 pour fournir des explications sur l'apparente tardiveté de son
+recours,
+vu les déterminations du 31 décembre 2009 de la recourante à
+ce sujet,
+vu les autres pièces du dossier,
+attendu que le recours non contentieux des art. 489 et ss CPC
+(Code de procédure civile du 14 décembre 1966; RSV 270.11) est ouvert
+contre la délivrance du certificat d'héritier (JT 1997 III 120),
+que ce recours doit être déposé dans les dix jours dès l'acte ou
+dès sa communication (art. 492 al. 2 CPC),
+
+- 3 -
+qu'en l'espèce, le certificat d'héritier a été communiqué le 9
+novembre 2009,
+qu'il est établi qu'il a été reçu au plus tard le 13 novembre
+2009 par la recourante, laquelle a adressé un courrier à son frère à cette
+date, dont une copie figure dans le dossier de première instance,
+qu'interjeté le 27 novembre 2009, le recours est tardif,
+que, dans son écriture du 31 décembre 2009, la recourante ne
+fait valoir aucun motif justifiant cette tardiveté,
+que le présent recours doit par conséquent être déclaré
+irrecevable,
+que le présent arrêt est rendu sans frais (art. 236 al. 2 TFJC;
+Tarif des frais judiciaires en matière civile du 4 décembre 1984; RSV
+270.11.5),
+Par ces motifs,
+la Chambre des recours du Tribunal cantonal,
+statuant à huis clos,
+prononce :
+I. Le recours est irrecevable.
+II. L'arrêt, rendu sans frais, est exécutoire.
+
+- 4 -
+Le président : La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+- Mme Q.________,
+La Chambre des recours considère que la valeur litigieuse est
+inférieure à 30'000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+
+- 5 -
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Justice de paix du district du Jura – Nord vaudois.
+La greffière :
