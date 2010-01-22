@@ -1,0 +1,113 @@
+---
+decision_id: "vd_findinfo_D_cision___2010___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2010 / 15"
+decided: "2010-01-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1670260"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2010 / 15
+
+## Regeste
+
+RADIATION DU RÔLE, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 22.01.2010 Décision / 2010 / 15
+
+RADIATION DU RÔLE, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL CANTONAL
+PP 31/2009 -6/2010
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 22 janvier
+2010
+__________________
+Présidence
+de   Mme
+Röthenbacher
+,
+juge unique
+Greffier
+:
+Mme   Rouiller
+*****
+Cause pendante entre
+:
+D.________
+, à Lausanne, demandeur, représenté
+par Me Philippe Nordmann, avocat à Lausanne,
+et
+H.________
+, à
+Lausanne, défenderesse.
+_______________
+Art. 94 LPA-VD
+Vu
+la demande du 9 septembre 2009, reçue le 14
+septembre suivant, déposée par D.________ à
+l'encontre de la H.________; ci-après : la Caisse),
+concluant avec dépens
+à ce qu'il soit jugé
+qu'après le décès de sa part, son amie et/ou
+future épouse Mme [...] est mise au bénéfice
+d'une rente de survivante d'au moins 3'003.- (trois mille trois
+francs) par mois, indexations et augmentations
+réservées,
+vu la réponse de la Caisse datée du 9 décembre
+2009, concluant avec dépens à ce que la Cour des
+assurances sociales du Tribunal cantonal déclare irrecevable
+la demande de D.________ (conclusion principale), voire la rejette
+(conclusion subsidiaire),
+vu la déclaration de retrait de la demande, adressée
+le 21 janvier 2010 par D.________ à la Cour de
+céans;
+considérant
+que la cause doit être rayée
+du rôle par la juge unique, par suite de retrait de la
+demande (art. 94 al. 1 let. c et art. 109 al. 1 LPA-VD)
+;
+qu'il n'y a pas lieu de percevoir de frais de justice ni d'allouer
+de dépens.
+Par
+ces motifs,
+la
+juge unique
+prononce :
+I.
+La cause est rayée du rôle
+par suite de retrait de la demande.
+II.
+Il n'est pas perçu de frais
+judiciaires ni alloué de dépens.
+La juge
+unique :
+La greffière :
+Du
+La décision qui précède est notifiée
+à :
+‑      Me Philippe
+Nordmann (pour D.________),
+‑      H.________
+,
+-      Office
+fédéral des assurances sociales (OFAS),
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+La greffière :
