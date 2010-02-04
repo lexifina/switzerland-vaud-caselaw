@@ -1,0 +1,207 @@
+---
+decision_id: "vd_findinfo_Faillite___2010___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2010 / 3"
+decided: "2010-02-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1741703"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2010 / 3
+
+## Regeste
+
+POURSUITE PAR VOIE DE FAILLITE, PAIEMENT, CRÉANCE | 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.02.2010 Faillite / 2010 / 3
+
+POURSUITE PAR VOIE DE FAILLITE, PAIEMENT, CRÉANCE | 174 LP
+
+TRIBUNAL
+CANTONAL
+56
+Cour
+des poursuites et faillites
+________________________________________________
+Séance
+du 4 février 2010
+__________________
+Présidence
+de               M.
+Hack
+,
+vice-président
+Juges
+:              M.
+Bosshard et M. Vallat, juge suppléant
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant en audience publique en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+C.________
+,
+à Yverdon-les-Bains, contre le jugement rendu le 5 octobre 2009, à la suite de l’audience
+du 1
+er
+octobre 2009, par le Président du Tribunal d’arrondisse-ment de la Broye et du Nord vaudois,
+prononçant la faillite du recourant à la requête de
+R.________
+SA
+, à Nyon.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 22 juin 2009, à la requête
+de R.________ SA, l'Office des poursuites d’Yverdon-Orbe-La Vallée-Grandson (ci-après
+: l'office) a notifié à C.________ un commandement de payer, dans la poursuite n° 1'133'053,
+portant sur la somme de 161 fr. 80 plus intérêt à 5 % l'an dès le 22 avril 2009.
+La cause de l'obligation invoquée était : « No Client : 274080. Contrat du :
+01.06.2008. Codes Liv. : 404 – Football-Euro 2008. »
+Cette poursuite est demeurée libre d'opposition.
+Le 4 août 2009, l’office a notifié au poursuivi une commination de faillite dans la même
+poursuite ; y figurent, outre le montant de la créance réclamée, en capital et intérêts,
+les frais du commandement de payer et de la commination de faillite, par 60 francs.
+La poursuivante a requis la faillite de C.________ par requête du 9 septembre 2009.
+Les parties ont été convoquées le 11 septembre 2009 à l'audience du Président
+du Tribunal d'arrondissement de la Broye et du Nord vaudois du
+1
+er
+octobre 2009. Par jugement du 5 octobre 2005, le président, statuant par défaut des parties,
+a prononcé la faillite de C.________, avec effet au
+1
+er
+octobre 2009 à 9h30, ordonné la liquidation sommaire de cette faillite et mis les frais du
+prononcé, par 200 fr., à la charge du failli.
+2.
+Par acte reçu au greffe du tribunal d’arrondissement
+le 13 octobre 2009, C.________ a recouru contre ce jugement concluant à l'annulation de la faillite.
+Il a confirmé ses conclusions dans un mémoire déposé le 6 novembre 2009.
+A l’appui de ces écritures, il a produit diverses pièces, en particulier un récépissé
+postal attestant du paiement qu’il a effectué le 30 septembre 2009 en faveur de « Sport
+Suisse », d’un montant de 200 fr. 40, ainsi que copie d’un courrier électronique
+adressé à la boîte d’information du Tribunal d’arrondissement de la Broye
+et du Nord vaudois de la teneur suivante :
+« Je
+vous informe vous avoir adressé par fax, ce jour, cinq documents apportant la preuve du règlement
+de montants des poursuites no (…) et 1901133053 (R.________ SA) ».
+L’intimée n’a pas procédé.
+En droit
+:
+I.
+a)
+Interjeté en temps utile et tendant à l'annulation de la faillite, le recours est recevable
+à la forme (art. 174 al. 1 et 2 LP).
+b)
+La production de pièces nouvelles en seconde instance est autorisée en matière de faillite,
+en vertu de l'art. 58 al. 7 LVLP, pour faire valoir des faits nouveaux lorsqu'ils se sont produits avant
+le jugement de première instance (art. 174 al. 1 LP). Les pièces se rapportant à des faits
+intervenus depuis l'audience de faillite peuvent être produites, pour autant qu'elles tendent à
+rendre vraisemblable la solvabilité du débiteur et à établir que celui-ci a payé
+sa dette ou consigné les montants nécessaires auprès de l'autorité compétente
+ou que le créancier a retiré sa réquisition de poursuite (art. 174 al. 2 LP; Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 17 ad art. 174
+LP; Cometta, Commentaire romand, nn. 5 et 6 ad art. 174 LP).
+Certaines des pièces produites par le recourant, dont il n’est pas démontré qu’elles
+l’ont été en première instance, sont recevables en application de l’art. 174
+al. 1 LP. D’autres le sont au titre de l’art. 174 al. 2 LP.
+II.
+a)
+Selon l'article 171 LP, le juge saisi d'une réquisition de faillite doit prononcer celle-ci, sauf
+dans les cas mentionnés aux art. 172 à 173a LP, qui ne sont pas réalisés en l'espèce.
+Invoquant l’art. 152 (recte : 172) LP, le recourant soutient qu’il a informé le
+premier juge, le 30 septembre 2009, avoir payé notamment la créance faisant l’objet de
+la commination de faillite en cause. Cela pourrait suggérer un grief de violation de son droit d’être
+entendu, en ce sens que le premier juge aurait méconnu les pièces ainsi produites. A l’appui
+de ces allégations, le recourant a produit une copie d’un courrier électronique adressé
+au tribunal d’arrondissement, mais il n’a produit ni copie des fax mentionnés, ni avis
+de réception, ni même une réponse à son courrier électronique. Il ne démontre
+donc pas que les documents en question seraient parvenus en mains de l’autorité destinataire.
+Supposé soulevé, ce moyen de nullité, n’est par conséquent pas recevable.
+Ainsi, le jugement attaqué n'étant entaché d'aucune irrégularité, c'est à
+bon droit que le premier juge a prononcé la faillite du recourant.
+b)
+En vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité judiciaire supérieure, qui peut annuler le jugement lorsque le débiteur,
+en déposant le recours, rend vraisemblable sa solvabilité et établit par titre que depuis
+lors, la dette, intérêts et frais compris, a été payée ou que la totalité
+de la somme à rembourser a été déposée à l'intention du créancier,
+ou encore que celui-ci a retiré sa réquisition de faillite.
+En pratique, le débiteur doit en premier lieu prouver le paiement de la dette, le dépôt
+de la somme due ou le retrait de la requête de faillite, faute de quoi le recours est rejeté,
+puis, s'il l'établit, le débiteur doit encore rendre vraisemblable sa solvabilité, les
+deux conditions étant cumulatives.
+En l'espèce, le recourant établit avoir payé en main de la poursuivante, le 30 septembre
+2009, un montant de 200 fr. 40. Or, la commination de faillite mentionne une créance de 161 fr.
+80, plus intérêts au taux de 5 % l’an dès le 22 avril 2009 (que le poursuivi a calculé
+pour 3 fr. 60), et des frais du commandement de payer et de la commination de faillite, par 60 francs.
+Le montant versé ne couvre pas l’entier de la dette, intérêts et frais compris.
+La première condition à l'annulation de la faillite au sens de l'art. 174 al. 2 LP n’est
+ainsi pas réalisée.
+Cela étant, il n’est pas nécessaire d’examiner la question de la vraisemblance
+de la solvabilité du failli.
+III.
+Le recours doit donc être rejeté et
+le prononcé entrepris confirmé.
+Les frais de deuxième instance, par 300 fr., sont mis à la charge du recourant. Il n’est
+pas alloué de dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+en audience publique en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+II.
+Les frais de deuxième instance du recourant
+C.________ sont arrêtés à 300 fr. (trois cents francs).
+III.
+Il n’est pas alloué de dépens
+de deuxième instance.
+IV.
+L’arrêt motivé est exécutoire.
+Le
+président :               La greffière
+:
+Du
+4 février 2009
+Le dispositif de l'arrêt qui précède est communiqué par écrit aux intéressés.
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies à :
+‑
+M. C.________,
+‑
+R.________ SA,
+-
+M. le Préposée à l'Office des poursuites du Jura-Nord vaudois,
+-
+M. le Préposé à l’Office des faillites de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier du Jura-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+La greffière :
