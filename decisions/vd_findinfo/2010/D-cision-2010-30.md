@@ -1,0 +1,108 @@
+---
+decision_id: "vd_findinfo_D_cision___2010___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2010 / 30"
+decided: "2010-02-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1707038"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2010 / 30
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 91 LPA-VD, 94 al. 1 let. c LPA-VD, 99 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 05.02.2010 Décision / 2010 / 30
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 91 LPA-VD, 94 al. 1 let. c LPA-VD, 99 LPA-VD
+
+TRIBUNAL CANTONAL
+AM 3/10 - 6/2010
+COUR DES ASSURANCES
+SOCIALES
+_____________________________________________
+Décision du 5 février
+2010
+__________________
+Présidence
+de   M.
+Neu
+,
+juge unique
+Greffier
+:
+M.        Greuter
+*****
+Cause pendante entre
+:
+M.________
+, à Pully, recourant,
+et
+CAISSE W.________
+, à Lucerne, intimée.
+_______________
+Art. 94 al. 1 let. c
+LPA-VD
+Vu
+le recours, reçu le 4
+août 2009, interjeté par M.________ à
+l'encontre de la décision prise le 9 juillet 2009 par la
+caisse W.________,
+vu la réponse déposée le 15 septembre 2009 par
+l'intimée,
+vu les déterminations du recourant reçues le 15
+octobre 2009,
+vu les déterminations de l'intimée du 5 novembre
+2009,
+vu les courriers du recourant des 14 décembre 2009 et 26
+janvier 2010,
+vu la déclaration de retrait du recours envoyée par
+le recourante le 4 février 2010;
+considérant
+qu'il y a lieu de rayer la cause du
+rôle par suite de retrait du recours, selon la
+procédure de l'art. 94 al. 1 let. c LPA-VD (loi vaudoise sur
+la procédure administrative ; RSV 173.36),
+qu'il n'y a pas lieu de percevoir des frais de justice ni d'allouer
+de dépens (art. 91 et 99 LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle
+par suite de retrait du recours.
+II.
+Il n'est pas perçu de frais
+judiciaires ni alloué de dépens.
+Le juge
+unique:
+Le greffier:
+Du
+La décision qui précède est notifiée
+à:
+‑
+M.________,
+‑      Caisse
+W.________,
+‑      Office
+fédéral de la santé publique,
+par l'envoi de
+photocopies.
+La présente décision peut faire l'objet d'un recours
+en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral; RS 173.110), cas
+échéant d'un recours constitutionnel subsidiaire au
+sens des art. 113 ss LTF. Ces recours doivent être
+déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui
+suivent la présente notification (art. 100 al. 1
+LTF).
+Le greffier:
