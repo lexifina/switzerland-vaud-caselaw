@@ -1,0 +1,337 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 2"
+decided: "2010-02-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1680703"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-074.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 2
+
+## Regeste
+
+COMMANDEMENT DE PAYER, OPPOSITION{LP}, FORME ORALE, PLAINTE{LP}, TÉLÉPHONE | 17 LP, 18 LP, 74 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.02.2010 Plainte / 2010 / 2
+
+COMMANDEMENT DE PAYER, OPPOSITION{LP}, FORME ORALE, PLAINTE{LP}, TÉLÉPHONE | 17 LP, 18 LP, 74 LP
+
+TRIBUNAL CANTONAL
+2
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+5 février 2010
+__________________
+Présidence
+de   M.
+Muller
+,
+président
+Juges
+:
+Mme   Carlsson et M. Bosshard
+Greffier
+:
+Mme   Debétaz Ponnaz
+*****
+Art. 17, 18 et 74 al. 1
+LP
+La Cour des poursuites et faillites du Tribunal cantonal prend
+séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour
+statuer sur le recours interjeté par
+T.________
+, à Renens,
+contre la décision
+rendue le 4 août 2009, à la suite de l'audience du 28
+mai 2009, par le Président du Tribunal d'arrondissement de
+Lausanne, autorité inférieure de surveillance,
+rejetant la plainte déposée par la recourante contre
+l'
+Office des
+poursuites de Lausanne-Ouest
+, dans le cadre de la
+poursuite n° 2'364'310-02 exercée contre elle à
+l'instance d'
+U.________AG
+, à
+Zurich.
+Vu les pièces du dossier, la cour considère
+:
+En fait :
+1.
+a)
+Le 4 décembre 2008, à la requête
+d'U.________AG, l'Office des poursuites de Lausanne-Ouest
+[ci-après : l'office] a notifié à T.________,
+dans la poursuite n° 2'364'310-02 un commandement de payer les
+sommes de 23'633 fr. 75, plus intérêt à 5 %
+l'an dès le 1
+er
+juillet 2008, et de 100 fr., sans
+intérêt, les titre de la créance et cause de
+l'obligation invoqués étant :
+"1)
+Arriérés de loyers et charges du 01.07.2008 au
+30.11.2008 (5 x 4'726 fr. 75) portant sur une salle de billard
+situé au 2
+ème
+rez-inférieur de
+l'immeuble sis avenue de Provence 82 à 1007 Lausanne,
+contrat de bail à loyer du 01.05.2007. 2) frais contre
+coobligé."
+Le 12 décembre 2008, la poursuivie s'est entretenue par
+téléphone avec un apprenti de dernière
+année de l'office, employé au service dit "du
+commandement de payer" et appelé à ce titre,
+notamment, à enregistrer les oppositions dans le
+système informatique et à envoyer, le cas
+échéant, copie des justificatifs de paiement aux
+créanciers. La poursuivie voulait former opposition au
+commandement de payer qui lui avait été
+notifié le 4 décembre 2008. Son interlocuteur lui a
+dit qu'elle devait le faire par écrit.
+Par lettre du 19 décembre 2008 adressée à
+l'office, le mandataire de la poursuivie a confirmé
+l'opposition totale de sa cliente à la poursuite en cause et
+demandé que lui soit délivré une attestation
+d'opposition.
+Le 22 décembre 2008, l'office lui a répondu qu'il ne
+pouvait accéder à sa requête, l'opposition
+ayant été formée tardivement, le 19
+décembre 2008, soit plus de dix jours après la
+notification du commandement de payer.
+b)
+Le 24 décembre 2008, T.________ a saisi le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance, d'une plainte
+contre l'office. Soutenant avoir fait opposition par
+téléphone en temps utile et contestant le refus de
+l'office d'attester sa déclaration d'opposition
+téléphonique, la plaignante a conclu à ce que
+l'opposition totale formée à la poursuite en cause
+soit confirmée.
+Par lettre de son conseil du 30 janvier 2009, la poursuivante a
+conclu au rejet de la plainte.
+L'office s'est déterminé le 2 février 2009,
+préavisant pour le rejet de la plainte. Il a invoqué
+sa pratique constante, consistant à refuser l'opposition
+déclarée par téléphone et à
+exiger du débiteur qu'il fasse opposition par écrit
+(ou de vive voix au guichet de l'office). Il a en outre produit une
+liste des poursuites en cours et clôturées dans les
+cinq ans (situation au 2 février 2009) dirigées
+contre la plaignante, au nombre de trente-neuf, dont plusieurs
+frappées d'opposition totale.
+2.
+Par décision du 4 août 2009, rendue sans frais ni
+dépens, l'autorité inférieure de surveillance
+a rejeté la plainte. Elle a considéré qu'il
+résultait de l'instruction que la plaignante, au cours de sa
+conversation téléphonique avec un employé de
+l'office, avait manifesté la volonté de faire
+opposition, ce que son inter-locuteur avait compris, puisqu'il
+l'avait immédiatement renvoyée à former
+opposition par écrit, ainsi que l'office doit le faire s'il
+refuse de tenir compte d'une opposition téléphonique.
+Elle a en outre retenu que la plaignante, qui n'en était pas
+à sa première opposition, n'avait pas eu à
+pâtir d'une ambiguïté des explications de
+l'employé de l'office et avait d'ailleurs admis en audience
+avoir compris qu'elle devait écrire pour faire opposition.
+Observant que plusieurs auteurs considèrent qu'en l'absence
+d'une disposition légale, l'office des poursuites est libre
+d'accepter ou de refuser une opposition téléphonique,
+tandis qu'un auteur
+admet au contraire qu'une opposition
+téléphonique est en principe valable et ne peut
+être refusée qu'exceptionnellement, l'autorité
+inférieure de surveillance a jugé que la pratique de
+l'office apparaissait opportune dans la mesure où elle
+était de nature à prévenir des complications
+en matière de preuve du contenu de la déclaration
+d'opposition faite par téléphone ainsi que de
+l'identité de son auteur et que, si elle était
+discutable en ce que le refus des oppositions
+téléphoniques était systématique, elle
+n'était cependant pas contraire à un texte
+légal clair et n'avait pas lieu d'être
+censurée.
+3.
+La plaignante a recouru par acte déposé le lundi 17
+août 2009, concluant à la réforme du
+prononcé en ce sens que sa plainte est admise et que la
+poursuite en cause est frappée d'opposition totale.
+La recourante a requis l'effet suspensif, qui a été
+accordé par décision présidentielle du 25
+août 2009.
+Par lettre du 26 août 2009, l'office a confirmé les
+déterminations qu'il avait produites en première
+instance.
+L'intimée s'est déterminée le 29 septembre
+2009, concluant, avec suite de frais et dépens, au rejet du
+recours.
+En droit :
+I.
+Formé en temps utile (art. 18 al. 1 et 31 al. 3 LP - loi
+fédérale sur la poursuite pour dettes et la faillite;
+RS 281.1) et comportant l'énoncé des moyens
+invoqués (art. 28 al. 3 LVLP - loi vaudoise d'application de
+la LP; RSV 280.05), le recours est recevable.
+II.
+a)
+Aux termes de l'art. 74 al. 1 LP, le débiteur
+poursuivi qui entend former opposition doit, verbalement ou par
+écrit, en faire la déclaration immédiate
+à celui qui lui remet le commandement de payer ou à
+l'office dans les dix jours à compter de la notification du
+commandement de payer.
+Sauf en matière de poursuite pour effets de change,
+l'opposition n'est soumise à aucune forme. Elle peut
+être faite par écrit ou par oral. Oralement, elle peut
+être faite à l'agent notificateur au moment de la
+notification ou à l'office des poursuites compétent
+après la notification (Ruedin, Commentaire romand, nn. 8 et
+9 ad art. 74 LP). L'opposition téléphonique est une
+forme d'opposition orale; elle doit être faite à
+l'office des poursuites au plus tard le dernier jour du
+délai de l'art. 74 al. 1 LP, avant la fermeture des bureaux
+(ibid., nn. 9 et 14 ad art. 74 LP). Une déclaration
+d'opposition faite par téléphone est valable
+pour autant que l'interlocuteur du déclarant - le
+préposé ou un employé de l'office - n'ait pas
+immédiatement et catégoriquement refusé de la
+recevoir (Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite,
+n. 38 ad art. 74 LP). Si l'office refuse de tenir compte d'une
+opposition téléphonique, il doit immédiatement
+en informer l'intéressé et le prier de former
+opposition d'une autre façon (Ruedin, op. cit., n. 9 ad
+art. 74 LP).
+En l'espèce, il est constant que la recourante a
+souhaité faire opposition par téléphone le 12
+décembre 2008 et qu'il lui a été
+répondu qu'elle devait le faire par écrit, en
+d'autres termes, que son interlocuteur, en l'occurrence un
+employé de l'office, a immédiatement refusé de
+recevoir une opposition téléphonique et
+renvoyé la recourante à former opposition d'une autre
+manière.
+b)
+Sur la question de savoir si l'office est en droit de
+refuser une opposition téléphonique,
+l'autorité inférieure de surveillance a relevé
+avec pertinence que Favre (Droit des poursuites, 3
+e
+éd., p. 138) considère, en l'absence d'une
+disposition légale, que l'office des poursuites est libre
+d'accepter ou de refuser une opposition téléphonique,
+mais, s'il refuse de prendre acte de l'opposition, doit le faire
+savoir à l'intéressé, opinion que partagent
+Gilliéron (op. cit., n. 38 ad art. 74 LP) et Ruedin (op.
+cit., n. 9 ad art 74 LP), tandis que
+Bessenich (Basler
+Kommentar, n. 15 ad art. 74 LP) admet au contraire qu'une
+opposition téléphonique est en principe valable et ne
+peut être refusée qu'exceptionnellement, si des
+circonstances particulières éveillent un doute au
+sujet de l'identité du déclarant, opinion qui peut
+s'appuyer sur un considérant d'un arrêt du Tribunal
+fédéral du 20 novembre 1973 (ATF 99 III 58 c. 4, JT
+1974 II 71).
+Selon un arrêt plus récent (ATF 127 III 181, JT 2000
+II 83), l'office des poursuites "peut" (["darf"] et non pas "doit")
+accepter la déclaration d'opposition faite par
+téléphone chaque fois que l'identité de
+l'appelant peut être établie sans doute possible. Le
+Tribunal fédéral poursuit en disant que, si des
+circonstances spéciales font exceptionnellement naître
+un tel doute, l'office peut ["kann"] refuser d'accepter
+l'opposition faite par téléphone et exiger de
+l'opposant qu'il procède par écrit ou se rende en
+personne au bureau de l'office pour la formuler.
+On distingue mal comment, en cas d'opposition par
+téléphone, l'identité de l'appelant pourrait
+être établie "sans doute possible", selon les termes
+de l'arrêt précité. Quoi qu'il en soit, cette
+jurisprudence ne peut pas s'interpréter en ce sens que
+l'office aurait l'obligation d'accepter une opposition faite par
+téléphone lorsqu'il n'y a pas de doute sur
+l'identité de l'auteur de l'opposition. En l'espèce,
+l'office était  donc libre de refuser l'opposition
+téléphonique de la recourante. En revanche, doctrine
+et jurisprudence exigent clairement qu'en cas de refus d'une telle
+opposition, le déclarant soit avisé sans
+ambiguïté de ce refus et orienté sur les moyens
+de former valablement opposition. Tel a été le cas en
+l'espèce lors de l'entretien téléphonique du
+12 décembre 2008 et la recourante, qui a reconnu avoir
+compris qu'elle devait former opposition par écrit, avait
+alors encore le temps de le faire avant l'expiration du
+délai de dix jours dès la notification du
+commandement de payer.
+III.
+Le recours doit ainsi être rejeté et le
+prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens
+(art. 20a al. 2 ch. 5 LP; art. 61 al. 2 let. a et 62 al. 2 OELP -
+ordonnance sur les émoluments perçus en application
+de la LP; RS 281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est
+rejeté.
+II.
+Le prononcé est
+confirmé.
+III.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+L
+e
+président
+:
+La greffière :
+Du 5 février
+2010
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Mme
+Geneviève Gehrig, agent d'affaires breveté (pour
+T.________),
+‑      Me Philippe Conod, avocat
+(pour U.________AG),
+‑      M. le
+Préposé à l'Office des poursuites de
+Lausanne-Ouest.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance.
+La greffière :
