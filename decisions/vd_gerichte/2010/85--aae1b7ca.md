@@ -1,0 +1,182 @@
+---
+decision_id: "vd_gerichte_f751c148-f89e-465f-a05e-69f2e0625836"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCASS"
+docket: "85"
+decided: "2010-03-01"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/f751c148-f89e-465f-a05e-69f2e0625836"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-036.md", "switzerland/bund/acts/311.0/art-106.md", "switzerland/bund/acts/313.0/art-010.md"]
+---
+
+# VD Gerichte 85
+
+## Text
+
+TRIBUNAL CANTONAL
+85
+PE09.014649-/TDE
+CO UR DE CAS SATION P EN ALE
+______________________________________
+Séance du 1er mars 2010
+__________________
+Présidence de M. CREUX, président
+Juges : MM. Battistolo et Winzap
+Greffier : M. Ritter
+*****
+Art. 106 al. 2 CP; 10 al. 1 et 3 DPA
+La Cour de cassation pénale prend séance en audience
+publique pour statuer sur le recours interjeté par le MINISTERE PUBLIC
+contre le jugement rendu le 18 novembre 2009 par le Président du
+Tribunal d’arrondissement de Lausanne dans la cause dirigée contre
+R.________.
+Elle considère :
+602
+
+- 2 -
+En fait :
+A. Par jugement du 18 novembre 2009, le Président du Tribunal
+d’arrondissement de Lausanne a converti par défaut en dix jours de peine
+privative de liberté l'amende de 1'000 fr. prononcée le 24 octobre 2007
+contre R.________ par la Commission fédérale des maisons de jeu (I) et a
+mis les frais de la cause, par 645 fr. 75, à la charge de R.________ (II).
+B. Ce jugement retient en substance ce qui suit, la cour de céans
+se référant pour le surplus à l'état de fait dans son intégralité :
+Par prononcé du 24 octobre 2007, la Commission fédérale des
+maisons de jeu a condamné R.________ à une amende de 1'000 fr. pour
+infraction à la loi fédérale sur les jeux de hasard et les maisons de jeu.
+L'amende est demeurée entièrement impayée. Un acte de défaut de biens
+après saisie a été délivré à la créancière le 9 mars 2009 par l'Office des
+poursuites de l'arrondissement de Lausanne-Ouest. Le condamné est sans
+domicile connu.
+En droit, le premier juge a considéré que les conditions posées
+à la conversion de l'amende en peine privative de liberté étaient réunies,
+la quotité de la peine de substitution devant être arrêtée à dix jours.
+C. En temps utile, le Ministère public a recouru contre le
+jugement précité. Dans le délai imparti à cet effet, il a déposé un mémoire
+concluant à sa réforme en ce sens que l'amende est convertie en trente
+jours de peine privative de liberté.
+L'intimé n'a pas procédé.
+
+- 3 -
+En d roit :
+1. Le prononcé attaqué est assimilable à une décision postérieure
+au jugement, au sens des art. 482 et suivants CPP (art. 15 al. 2 et 15h al. 2
+LEP). Comme en a statué la Cour de cassation pénale dans une
+précédente cause opposant les mêmes parties (CASS, Ministère public, 28
+juin 2007, n° 353), un tel prononcé peut faire l'objet d'un recours en
+réforme séparé pour fausse application de la loi ou pour abus du pouvoir
+d'appréciation (art. 420 let. e et 483 al. 3 CPP).
+Déposé en temps utile, le recours du Ministère public est
+recevable.
+2. Invoquant une violation de l'art. 10 al. 3 DPA, le Ministère
+public soutient que le taux de conversion applicable est d'un jour d'arrêts,
+soit de peine privative de liberté, pour 30 fr. d'amende.
+a) Aux termes de l'art. 10 al. 1, 1ère phrase, DPA, dans la
+mesure où l'amende ne peut être recouvrée, le juge la convertit en arrêts
+ou, s'il s'agit d'un adolescent, en détention. L'art. 10 al. 3 DPA dispose
+qu'en cas de conversion, un jour d'arrêts ou de détention sera compté
+pour 30 fr. d'amende, mais la durée de la peine ne pourra dépasser trois
+mois; lorsque des acomptes ont été versés, le juge réduit la peine
+proportionnellement.
+Les art. 10 al. 1 et 3 DPA n'ont pas été modifiés par la partie
+générale du Code pénal, entrée en vigueur au 1er janvier 2007 (loi fédérale
+du 13 décembre 2002; RO 2006 3459; FF 1999 1787). La peine d'arrêts a
+alors été supprimée de la loi au profit de la peine privative de liberté.
+Néanmoins, l'art. 333 al. 3, 1e et 2e phrases, CP prévoit que l’infraction
+passible de l’amende ou des arrêts, ou de l’amende exclusivement, est
+une contravention; les art. 106 et 107 CP sont applicables.
+
+- 4 -
+L'art. 106 al. 2 CP dispose que le juge prononce dans son
+jugement, pour le cas où, de manière fautive, le condamné ne paie pas
+l’amende, une peine privative de liberté de substitution d’un jour au moins
+et de trois mois au plus.
+La peine de substitution ici en cause est donc, nonobstant la
+lettre de l'art. 10 al. 1 DPA, une peine privative de liberté et non une peine
+d'arrêts.
+b) Pour ce qui est de la conversion des amendes infligées par
+une autorité administrative, l'art. 106 al. 5 CP renvoie par analogie à l'art.
+36 al. 2 à 5 CP. L'art. 36 al. 2 CP dispose que, si la peine pécuniaire est
+prononcée par une autorité administrative, un juge doit statuer sur la
+peine privative de liberté de substitution.
+c) La première question à trancher est celle du principe de la
+conversion de l'amende selon l'art. 36 al. 1 CP. La deuxième question
+soumise à la cognition de la cour est celle de la suspension éventuelle de
+l'exécution de la peine d'amende (cas échéant au profit d'une autre
+sanction) si l'insolvabilité non fautive du condamné venait à être tenue
+pour avérée depuis le prononcé administratif (art. 36 al. 3 CP, applicable
+par renvoi de l'art. 106 al. 5 CP, respectivement de l'art. 333 al. 3, 2e
+phrase, CP). Enfin, la troisième question topique est celle de la quotité de
+la peine privative de liberté de substitution, dans l'hypothèse où il y aurait
+lieu de la prononcer (art. 36 al. 2 CP, applicable par renvoi des mêmes
+normes).
+3. En l'espèce, il est constant que la tentative de recouvrement
+de l'amende s'est soldée par un acte de défaut de biens après saisie. La
+peine est ainsi inexécutable par la voie de la poursuite pour dette au sens
+de l'art. 36 al. 1 CP. Il y a donc lieu en principe à conversion. De même,
+l'insolvabilité du condamné était avérée au moment du prononcé déjà et il
+est manifeste qu'elle perdure depuis lors. Partant, aucune autre peine
+qu'une peine privative de liberté n'entre en ligne de compte (art. 36 al. 3
+CP, a contrario).
+
+- 5 -
+Pour ce qui est de la quotité de la peine de substitution devant
+être prononcée selon l'art. 36 al. 2 CP, le premier juge a retenu un taux de
+conversion d'un jour de peine privative de liberté pour 100 fr. d'amende.
+Ce faisant, il n'a pas appliqué le taux de conversion résultant
+impérativement de l'art. 10 al. 3 DPA, à savoir un jour de peine privative
+de liberté pour 30 fr. d'amende.
+4. En définitive, bien fondé, le recours du Ministère public doit
+être admis et le jugement réformé au chiffre I de son dispositif en ce sens
+que l'amende de 1'000 fr. prononcée par la Commission fédérale des
+maisons de jeu est convertie en 30 jours de peine privative de liberté.
+On relèvera néanmoins que, si l'amende est payée, la peine
+privative de liberté de substitution deviendra caduque dans la mesure où
+elle n’a pas encore été exécutée (cf. l'art. 10 al. 4 DPA).
+Vu l'issue du recours, les frais de deuxième instance seront
+laissés à la charge de l'Etat.
+Par ces motifs,
+la Cour de cassation pénale,
+statuant en audience publique,
+prononce :
+I. Le recours est admis.
+II. Le jugement est réformé au chiffre I de son dispositif en ce
+sens que le Président :
+I. Convertit par défaut en 30 (trente) jours de peine
+privative de liberté l'amende de 1'000 fr. (mille francs)
+prononcée le 24 octobre 2007 contre R.________ par la
+Commission fédérale des maisons de jeu.
+
+- 6 -
+Le jugement est maintenu pour le surplus.
+III. Les frais de deuxième instance sont laissés à la charge de
+l'Etat.
+IV. L'arrêt est exécutoire.
+Le président : Le greffier :
+Du 2 mars 2010
+Le dispositif de l'arrêt qui précède est communiqué au
+recourant et aux autres intéressés.
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- M. R.________ (par voie édictale),
+- M. le Procureur général du canton de Vaud,
+et communiqué à :
+- Ministère public de la Confédération,
+- M. le Président du Tribunal d'arrondissement de Lausanne,
+
+- 7 -
+- M. le Juge d'instruction cantonal,
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+notification de l'expédition complète (art. 100
+al. 1 LTF).
+Le greffier :
