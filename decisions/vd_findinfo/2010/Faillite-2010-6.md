@@ -1,0 +1,162 @@
+---
+decision_id: "vd_findinfo_Faillite___2010___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2010 / 6"
+decided: "2010-03-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1712235"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-017.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2010 / 6
+
+## Regeste
+
+OBLIGATION DE CHIFFRER LES CONCLUSIONS | 17 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.03.2010 Faillite / 2010 / 6
+
+OBLIGATION DE CHIFFRER LES CONCLUSIONS | 17 CPC
+
+TRIBUNAL CANTONAL
+109
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du
+3 mars 2010
+_________________
+Présidence
+de   M.        M U L L E R,
+président
+Juges
+:
+Mme   Carlsson et M. Sauterel
+Greffier
+:
+Mme   Joye
+*****
+Art. 174 LP ; 58 LVLP ; 17 et
+461 CPC
+Vu le jugement rendu le 8 janvier 2010, à la suite de
+l'audience du
+7 janvier 2010, par le Président du Tribunal
+d'arrondissement de la Broye et du Nord vaudois, prononçant
+la faillite de par
+Z.________
+, à Payerne, à la
+requête de
+D.________ SA
+, à Bellerive, au
+bénéfice d'une commination de faillite
+exécutoire n° 5'093'545 de l'Office des poursuites de
+l'arrondissement de Payerne-Avenches ,
+vu la déclaration de recours datée du 11 janvier 2010
+et déposée le lendemain par Z.________ contre ce
+jugement ;
+attendu que selon l'art. 174 al. 1 LP, la décision du juge
+de la faillite peut être déférée
+à l'autorité judiciaire supérieure dans les
+dix jours à compter de sa notification,
+que le recours, déposé le 12 janvier 2010, a
+été exercé à temps,
+que dans son écriture,
+le recourant indique son intention de
+« proposer un arrangement pour le paiement du montant
+demandé » et requiert un délai de quinze
+jours pour régler la dette,
+que cet acte ne comporte toutefois aucune conclusion en
+réforme ou en nullité ni aucun moyen de recours
+reconnaissable, comme le prescrit l'article 461 CPC,
+que l'avis accompagnant le jugement de faillite comportait
+l'indication des voies et délais de recours, en particulier
+que l'acte de recours doit contenir, sous peine
+d'irrecevabilité, la désignation du prononcé
+attaqué et les conclusions du recourant, en réforme
+ou en nullité, ou à défaut mentionner sur
+quels points le prononcé est attaqué et quelle est la
+modification demandée,
+que par lettre recommandée du 18 janvier 2010, le
+président de la cour de céans, en application de
+l'art. 17 CPC, a renvoyé l'acte de recours à son
+auteur, lui impartissant un délai de cinq jours dès
+réception pour le refaire,
+en précisant le montant exact
+qu'il réclamait, contestait devoir ou reconnaissait devoir,
+faute de quoi le recours pourrait être déclaré
+irrecevable,
+que Z.________ a reçu cet
+avis le 20 janvier 2010,
+qu'il n'a pas
+déposé de nouvel acte de recours conforme dans le
+délai imparti,
+que, faute de satisfaire aux
+exigences de l'art. 461 CPC, applicable par le renvoi de l'art. 58
+al. 1 LVLP, son recours est irrecevable
+;
+attendu que le présent arrêt est rendu sans frais ni
+dépens.
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité
+de recours en matière sommaire
+de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      M.
+Z.________,
+‑      D.________
+SA,
+-      M. le
+Préposé à l'Office des poursuites du district
+de la Broye-Vully,
+-      M. le
+Préposé à l'Office des faillites de
+l'arrondissement de  la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+-
+M. le Conservateur du Registre foncier du district de la
+Broye,
+-
+M. le Préposé au Registre du Commerce du canton de
+Vaud,
+‑      M. le
+Président du Tribunal d'arrondissement de la Broye et du
+Nord vaudois.
+L
+a
+greffi
+ère
+:
