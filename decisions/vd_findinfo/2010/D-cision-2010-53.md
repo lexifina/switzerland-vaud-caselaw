@@ -1,0 +1,120 @@
+---
+decision_id: "vd_findinfo_D_cision___2010___53"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2010 / 53"
+decided: "2010-03-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3904566"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-057.md", "switzerland/bund/acts/830.1/art-058.md"]
+---
+
+# VD Findinfo Décision / 2010 / 53
+
+## Regeste
+
+COMPÉTENCE RATIONE LOCI | 58 al. 1 LPGA, 58 al. 3 LPGA
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 15.03.2010 Décision / 2010 / 53
+
+COMPÉTENCE RATIONE LOCI | 58 al. 1 LPGA, 58 al. 3 LPGA
+
+TRIBUNAL
+CANTONAL
+AI
+85/10 - 104/2010
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 15 mars 2010
+__________________
+Présidence
+de               M.
+Abrecht
+Juges
+:              M.
+Dind et  Mme Thalmann
+Greffier
+:
+M.              Simon
+*****
+Cause
+pendante entre :
+S.________
+,
+à Ravoire (VS), recourant, représenté par CAP Compagnie d'Assurance et de Protection juridique
+SA,
+et
+Office
+de l'assurance-invalidité pour le canton de Vaud
+,
+à Vevey, intimé.
+_______________
+Art.
+58 al. 1 et 3 LPGA
+Vu
+le recours formé le 1
+er
+mars 2010 par S.________, domicilié à Ravoire (VS), représenté par CAP Compagnie
+d'Assurance et de Protection Juridique SA, contre la décision rendue le 28 janvier 2010 par l'Office
+de l'assurance-invalidité pour le canton de Vaud,
+vu le courrier du juge instructeur du 3 mars 2010, exposant qu'il semblait qu'au moment du dépôt
+du recours, le recourant était domicilié à Ravoire (VS), auquel cas le tribunal compétent
+serait la Cour des assurances sociales du Tribunal cantonal du canton du Valais, et impartissant au recourant
+un délai au 17 mars 2010 pour se déterminer à ce propos,
+vu les déterminations déposées le 11 mars 2010 par le mandataire du recourant, dans lesquelles
+celui-ci admet que c'est bien le Tribunal cantonal des assurances valaisan qui est compétent en
+raison de son nouveau domicile valaisan et invite la cour de céans à bien vouloir transmettre
+le dossier à cette autorité,
+vu les pièces au dossier;
+Considérant
+que la compétence pour statuer
+sur des recours dans le domaine des assurances sociales appartient au tribunal des assurances du canton
+de domicile de l'assuré ou d'une autre partie au moment du dépôt du recours (art. 58 al.
+1 LPGA [loi fédérale du 6 octobre 2000 sur la partie générale du droit des assurances
+sociales, RS 830.1] en corrélation avec l'art. 57 LPGA), étant précisé que par autre
+partie, il faut entendre le tiers ayant déposé recours (ATF 135 V 153 consid. 4.10 et les références
+citées),
+qu'il est constant que le recourant, au moment du dépôt du recours, était domicilié
+à Ravoire (VS),
+que la Cour de céans doit par conséquent décliner sa compétence à raison du
+lieu et transmettre d'office la cause à la Cour des assurances sociales du Tribunal cantonal du
+canton du Valais (art. 58 al. 3 LPGA), sans frais.
+Par
+ces motifs,
+la
+Cour des assurances sociales
+prononce :
+I.
+La Cour des assurances sociales du Tribunal cantonal du canton de Vaud n'est pas compétente pour
+statuer sur le recours formé le 1
+er
+mars 2010 par S.________ contre la décision rendue le 28 janvier 2010 par l'Office de l'assurance-invalidité
+pour le canton de Vaud.
+II.
+La cause est transmise à la Cour des assurances sociales du Tribunal cantonal du canton du Valais.
+III.
+Il n’est pas perçu de frais judiciaires.
+Le
+président :
+Le greffier :
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée à :
+‑
+CAP Compagnie d'Assurance et de Protection juridique SA (pour S.________)
+‑
+Office de l'assurance-invalidité pour le canton de Vaud
+-
+Office fédéral des assurances sociales
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
