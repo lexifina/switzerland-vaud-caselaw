@@ -1,0 +1,179 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 8"
+decided: "2010-04-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1766011"
+cites_law: ["switzerland/bund/acts/173.110/art-035.md", "switzerland/bund/acts/173.110/art-050.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 8
+
+## Regeste
+
+PLAINTE{LP}, DÉLAI DE RECOURS, DÉCISION D'IRRECEVABILITÉ | 464 CPC, 18 al. 1 LP, 28 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.04.2010 Plainte / 2010 / 8
+
+PLAINTE{LP}, DÉLAI DE RECOURS, DÉCISION D'IRRECEVABILITÉ | 464 CPC, 18 al. 1 LP, 28 al. 1 LVLP
+
+TRIBUNAL CANTONAL
+7
+Cour des
+poursuites et faillites
+________________________________________________
+Arrêt du 16 avril
+2010
+_________________
+Présidence
+de   M.
+Hack
+,
+vice-président
+Juges
+:
+MM.     Bosshard et  Denys
+Greffier
+:
+Mme   Debétaz Ponnaz
+*****
+Art. 18 al. 1 LP, 28 al.
+1 LVLP et 464 CPC
+Vu le prononcé
+rendu le 2 mars 2010 par le Président du Tribunal
+d'arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte
+formée le 3 novembre 2009 par
+N.________
+, à Vevey,
+tendant à une nouvelle
+estimation des gages immobiliers dans la poursuite en
+réalisation de gage n° [...] de l'
+Office des poursuites du district
+de La Riviera - Pays-d'Enhaut
+exercée contre elle
+à l'instance de la
+Banque C.________
+,
+vu le recours formé par la plaignante contre ce
+prononcé le 16 mars 2010;
+attendu qu'en procédure de plainte, le délai pour
+recourir contre une décision de l'autorité
+inférieure de surveillance est de dix jours à compter
+de sa notification (art. 18 al. 1 LP - loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1 - et art. 28
+al 1 LVLP - loi vaudoise d'application de la LP; RSV
+280.05),
+qu'en l'espèce, selon l'accusé de réception
+figurant au dossier, le prononcé querellé a
+été notifié à la recourante le 3 mars
+2010,
+que l'échéance du délai de dix jours pour
+recourir tombait donc le samedi 13 mars 2010, délai
+reporté au lundi 15 mars 2010 (art. 31 al. 3 LP),
+que le recours posté le 16 mars 2010 a ainsi
+été déposé après
+l'échéance du délai légal;
+attendu que le président de la cour de céans, par
+avis du 24 mars 2010, a informé N.________ que son recours
+pourrait être déclaré irrecevable pour
+tardiveté et que la cour statuerait sur cette
+irrecevabilité éventuelle à
+l'échéance du délai au 13 avril 2010,
+fixé en application de l'art. 464 CPC (code de
+procédure civile; RSV 270.11), dans lequel il était
+loisible à la recourante de formuler toutes observations
+utiles,
+que N.________ a donné suite à cet avis par lettre du
+26 mars 2010, dans laquelle elle a indiqué avoir
+calculé les jours à partir du 3 mars, date de
+réception du prononcé, et être parvenue au
+résultat que le 16 mars était le dernier jour du
+délai pour recourir,
+que l'échéance d'un délai de recours, soit la
+date limite jusqu'à laquelle le recours doit être
+déposé au plus tard, tombe le dernier jour de ce
+délai, le cas échéant le premier jour ouvrable
+suivant, si le dernier jour est un samedi, un dimanche ou un jour
+légalement férié, mais en aucun cas le
+lendemain du dernier jour utile,
+qu'en l'espèce, on ne peut pas considérer que la
+recourante a été sans sa faute empêchée
+d'agir à temps (Poudret, Commentaire de la loi
+fédérale d'organisation judiciaire, vol. I, n. 2.7 a
+ad art. 35 OJ; cette loi a été abrogée par
+la
+LTF - loi sur le Tribunal fédéral; RS 173.110 -, dont
+l'art. 50 reprend la notion d'empêchement non fautif;
+Donzallaz, Loi sur le Tribunal fédéral, Commentaire,
+section 6 ad art. 50 LTF, nn. 1327 ss, pp. 562 ss),
+qu'une erreur, même involontaire, dans le calcul d'un
+délai ne constitue en effet pas un empêchement non
+fautif justifiant de ne pas observer ce délai,
+que le recours de N.________ est ainsi tardif et, par
+conséquent, irrecevable;
+attendu que l
+e présent arrêt
+est rendu sans frais ni dépens (art. 20a al. 2 ch. 5
+LP, 61 al. 2 let. a et 62 al. 2 OELP - ordonnance sur les
+émoluments perçus en application de la LP; RS
+281.35).
+Par ces motifs,
+la Cour des poursuites et faillites
+du Tribunal cantonal,
+statuant à huis clos en sa
+qualité d'autorité cantonale
+supérieure de
+surveillance,
+p r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L'arrêt, rendu sans frais ni
+dépens, est exécutoire.
+L
+e
+président :
+L
+a
+greffi
+ère
+:
+Du 16 avril
+2010
+L'arrêt qui précède, dont la rédaction a
+été approuvée à huis clos, prend date
+de ce jour.
+Il est notifié, par l'envoi de photocopies, à
+:
+‑      Mme
+N.________,
+‑      M. le
+Préposé à l'Office des poursuites du district
+de La Riviera - Pays-d'Enhaut,
+-      Banque
+C.________,
+-      M. [...], [...] SA,
+expert immobilier.
+Le présent arrêt peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au
+sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans
+les dix jours - cinq jours dans la poursuite pour effets de change
+- qui suivent la présente notification (art. 100
+LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies,
+à :
+‑      M. le
+Président du Tribunal d'arrondissement de l'Est vaudois,
+autorité inférieure de surveillance.
+L
+a
+greffi
+ère
+:
