@@ -1,0 +1,118 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___64"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 64"
+decided: "2010-04-16"
+published: "2010-07-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100706101259867_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-437.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 64
+
+## Regeste
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 437 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 07.07.2010 Pron-prés / 2010 / 64
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 437 CPP
+
+TRIBUNAL
+CANTONAL
+269
+PE07.000931-ABA/LCT/TDE
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Du 7 juillet
+2010
+_____________
+Vu le jugement du 16 avril 2010 par lequel le Tribunal correctionnel de l’arrondissement de Lausanne
+a notamment constaté que N.________ s'était rendu coupable d'agression, de menaces et d'opposition
+aux actes de l'autorité (XIII), l'a condamné à une peine de 240 jours-amende, le montant
+du jour-amende étant fixé à 10 fr., sous déduction de huit jours de détention
+avant jugement (XIV), pris acte de la convention passée entre S.________, X.________, N.________
+et H.________ à l'audience du 11 mai 2009 (XVII), mis les frais de la cause par 8'243 fr. 50 à
+la charge de N.________ et dit que ces frais comprenaient les indemnités allouées à ses
+défenseurs d'office par 860 fr. 80 pour Me Imsand et 5'250 fr. pour Me Beauverd (XXIV), laissé
+le solde des frais de la cause à la charge de l'Etat (XXV) et dit que le remboursement à l'Etat
+de l'indemnité allouée au chiffre XXIV ci-dessus sera exigible pour autant que la situation
+économique de l'intéressé se soit améliorée (XXVI),
+vu la correspondance du 20 avril 2010, par laquelle Me Cynthia Beauverd, défenseur d'office de N.________,
+a déclaré recourir contre le jugement précité,
+vu le courrier du greffe du Tribunal d'arrondissement de Lausanne du 7 mai 2010 impartissant au recourant
+un délai de dix jours pour déposer un mémoire motivé,
+vu l'art. 437 CPP (Code de procédure pénale du 12 septembre 1967, RSV 312.01);
+attendu que par courrier du 20 mai 2010, le conseil de N.________ a déclaré retirer purement
+et simplement l'acte de recours qu'elle avait déposé,
+qu'il y a lieu de prendre acte de ce retrait, les conditions de l'art. 437 CPP étant réalisées,
+en l'espèce;
+attendu que la présente décision doit être rendue sans frais,
+le
+Président
+de
+la Cour de cassation pénale du Tribunal cantonal :
+I.
+Prend acte du retrait du recours interjeté
+par N.________.
+II.
+Dit que la présente décision, rendue sans frais, est exécutoire.
+Le président :
+Du
+Le jugement de première instance est déclaré définitif et exécutoire, en tant
+qu'il concerne N.________.
+La greffière :
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est communiquée à :
+‑
+Me Cynthia Beauverd, avocate-stagiaire (pour N.________),
+-
+Me Jean-Philippe Heim, avocat (pour H.________),
+-
+Me Cédric Ballenegger, avocat-stagiaire (pour Z.________),
+-
+Me Alain Sauteur, avocat (pour X.________),
+-
+Me David Moinat, avocat (pour S.________),
+-
+M. [...],
+-
+M. [...],
+-
+M. [...],
+-
+Mme [...],
+-
+[...],
+-
+Mme [...],
+-
+M. [...],
+-
+[...],
+-
+[...],
+‑
+M. le Procureur général du canton de Vaud,
+‑
+M. le Président du Tribunal correctionnel de l'arrondissement de Lausanne,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Elle prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+La greffière :
