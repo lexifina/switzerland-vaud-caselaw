@@ -1,0 +1,258 @@
+---
+decision_id: "vd_findinfo_Faillite___2010___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2010 / 25"
+decided: "2010-04-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2430713"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-333.md", "switzerland/bund/acts/281.1/art-334.md", "switzerland/bund/acts/281.35/art-055.md", "switzerland/bund/acts/281.35/art-056.md", "switzerland/bund/acts/446.1/art-007.md"]
+---
+
+# VD Findinfo Faillite / 2010 / 25
+
+## Regeste
+
+DÉPENS, RÈGLEMENT AMIABLE DES DETTES | 102 al. 2 CO, 69 al. 2 ch. 1 LP, 82 LP, 7 al. 2 LPAg, 38 al. 3 LVLP, 55 OELP, 56 al. 2 OELP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.04.2010 Faillite / 2010 / 25
+
+DÉPENS, RÈGLEMENT AMIABLE DES DETTES | 102 al. 2 CO, 69 al. 2 ch. 1 LP, 82 LP, 7 al. 2 LPAg, 38 al. 3 LVLP, 55 OELP, 56 al. 2 OELP
+
+TRIBUNAL
+CANTONAL
+187
+Cour
+des poursuites et faillites
+________________________________________________
+Séance
+du 29 avril 2010
+___________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Bosshard et Hack
+Greffier
+:
+M.              Berthoud, greffier ad
+hoc
+*****
+Art.
+333 ss LP; 56 al. 2 OELP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant en audience publique en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+P.________
+,
+à Lausanne, contre le jugement rendu le 12 novembre 2009, à la suite de l’audience du
+5 novembre 2009, par le Président du Tribunal d’arrondissement de Lausanne dans la cause opposant
+le recourant à
+T.________
+,
+à Lausanne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par
+acte du 14 janvier 2009, l'agent d'affaires breveté H.________ a adressé au Président
+du Tribunal d'arrondissement de Lausanne, pour le compte de P.________, une requête de règlement
+amiable de ses dettes. L'agent d'affaires breveté a proposé en qualité de commissaire
+au sursis son confrère T.________ qui a accepté ce mandat.
+Par prononcé du 18 février 2009, rendu à la suite d'une audience tenue le 12 février
+2009, le Président du Tribunal d'arrondissement de Lausanne a accordé à P.________ un
+sursis de trois mois en vue d'obtenir un règlement amiable de ses dettes, suspendu les poursuites
+et désigné l'agent d'affaires breveté T.________ en qualité de commissaire au règlement
+amiable. Le 15 mai 2009, à la suite d'une audience tenue le 7 mai 2009, le magistrat a prolongé
+de six mois le sursis accordé à P.________, reconduit le commissaire et chargé ce dernier
+de présenter au 2 novembre 2009 un rapport écrit sur la situation du requérant.
+Par lettre du 7 octobre 2009, le commissaire a requis du Président du Tribunal d'arrondissement
+de Lausanne d'être relevé de sa fonction, annexant à sa lettre un lot de pièces,
+notamment un courrier du 4 octobre 2009 par lequel P.________ lui indiquait ne plus vouloir faire appel
+à ses services, comme à ceux de l'agent d'affaires H.________. Par lettre du 9 octobre 2009,
+ce magistrat a relevé avec effet immédiat le commissaire de son mandat. Par courrier du 2 novembre
+2009, l'agent d'affaires breveté T.________ a produit le détail de ses opérations effectuées
+depuis le 13 janvier 2009, pour un total d'honoraires de 6'500 fr. auxquels s'ajoutaient 300 fr. de débours
+et des factures pour des parutions à la FOSC et dans la FAO pour un montant total de 454 fr. 05.
+b)
+Par prononcé du 12 novembre 2009, rendu à la suite d'une audience tenue le 5 novembre 2009,
+le Président du Tribunal d'arrondissement de Lausanne a prolongé au 15 février 2010 le
+sursis accordé à P.________ en vue d'obtenir un règlement amiable de ses dettes (I), dit
+que les honoraires du commissaire relevé T.________, arrêtés à 6'800 fr., plus 454
+fr. 05 de frais de publication, sous déduction de la somme de 4'877 fr. 70 déjà versée,
+étaient à la charge du requérant (II), désigné en qualité de nouveau commissaire
+au sursis R.________, Cabinet fiduciaire, fiscal et financier, [...], lequel devait déposer au greffe
+du tribunal, au plus tard une semaine avant l’audience suivante, un rapport sur la situation du
+requérant, accompagné des actes de règlement amiable et de la liste des créanciers
+(III), fixé une nouvelle audience au jeudi 11 février 2010
+à
+9
+h. 30 (IV), confirmé la suspension des poursuites actuelles ou futures contre le requérant
+pendant la durée du sursis (V), dit que la décision serait publiée dans la Feuille des
+avis officiels du canton de Vaud et la Feuille officielle suisse du commerce par les soins du nouveau
+commissaire (VI) et mis les frais de la décision, par 200 fr., à la charge du requérant
+(VII).
+2.
+Par acte du 22 novembre 2009 mis à la poste le 23 novembre 2009, P.________ a recouru contre ce
+prononcé, concluant en substance à sa réforme en ce sens que les honoraires alloués
+au commissaire sont réduits.
+Le recourant a développé ses moyens par mémoire ampliatif du 18 février 2010, auquel
+était joint un lot de pièces.
+Dans le délai imparti pour déposer un mémoire responsif, l’intimé a conclu,
+avec suite de dépens, au rejet du recours.
+En droit
+:
+I.
+Le recours a été déposé dans les dix jours dès réception du prononcé
+et comporte des conclusions valablement formulées. Le recours est ainsi recevable à la forme
+(art. 57 al. 1 et 58 al. 1 LVLP -
+loi
+du 18 mai 1955 d'application dans le Canton de Vaud de la loi fédérale sur la poursuite pour
+dettes et la faillite; RSV 280.05 -,
+art. 461
+ss CPC - Code de procédure civile du 14 décembre 1966; RSV 270.11).
+L'art. 38 al. 3 LVLP prévoit
+expressément qu'il y a recours en réforme en matière de concordat contre toute décision
+rendue par le président du tribunal en application des art. 294, 295 al. 1 et 5, 298 al. 3, 299,
+304 à 307, 313, 316, 320, 326, 327, 332, 334 ou 390 LP
+(
+loi
+fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite; RS 281.1). Ainsi, ce
+recours est ouvert contre la décision du juge prolongeant le sursis dans une procédure de règlement
+amiable des dettes, en vertu de l’art. 334 al. 2 LP. Ce recours est ouvert au débiteur (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 15 ad art. 334
+LP).
+L'art. 56 al. 2 OELP
+(ordonnance du 23 septembre
+1996 sur les émoluments perçus en application de la loi fédérale sur la poursuite
+pour dettes et la faillite; RS 281.35)
+,
+relatif aux honoraires du commissaire dans un règlement amiable des dettes, prévoit que l'art.
+55 OELP, qui a trait aux honoraires du commissaire dans la procédure concordataire est applicable
+par analogie. Le droit fédéral n'impose pas aux cantons de prévoir un recours à l'autorité
+cantonale supérieure contre la décision de taxation des honoraires prise par le juge du concordat
+(TF 5P.472/2003 du 8 avril 2004). Mais en tant qu'il émane du débiteur, un tel recours est
+recevable (art. 294 al. 3 LP applicable par renvoi de l'art. 334 al. 4 LP; CPF, M. c. Z., 7 mai 2009/142).
+Le recours formé par le débiteur, requérant au règlement amiable des dettes, est
+ainsi recevable.
+Les pièces nouvelles produites en deuxième instance sont également recevables (art. 58
+al. 5 LVLP).
+II.
+Le recourant conteste le montant mis à sa charge à titre d’honoraires alloués au
+commissaire dont il a requis la révocation.
+Selon l'art. 55 al. 1 OELP, le juge du concordat fixe de manière forfaitaire les honoraires du commissaire.
+Le troisième alinéa de cette disposition précise que l'autorité tient notamment compte
+de la difficulté et de l'importance de l'affaire, du volume du travail fourni, du temps consacré
+ainsi que des dépenses engagées.
+L'intimé a produit un relevé de ses opérations, qui ne comporte pas le temps consacré
+à chacune d'elle. Il a simplement indiqué qu'elles étaient au nombre de 130 et qu'elles
+étaient facturées 6'500 francs. En examinant le décompte, on comptabilise 24 téléphones
+ou conférences téléphoniques, 31 lettres, 2 audiences, une conférence avec le requérant
+à l'étude, 33 examens de documents reçus (lettres ou prononcés), l'établissement
+d'un texte à publier officiellement, l'établissement d'une circulaire, l'établissement
+d'une liste de productions et d'un bordereau, et l'établissement de deux nouvelles listes à
+la suite de production. En comptant les lettres à dix minutes, les téléphones à un
+dixième d'heure et l'établissement de bordereaux à 1 heure, selon les règles établies
+par la Cour de céans (CPF, M. c. Z. précité), on parvient à un total d'heures de
+20,5 heures, durée qui peut être arrondie à 21 heures.
+b)
+Selon l'art. 7 al. 2 LPAg
+(loi vaudoise du 20 mai 1957 sur la profession d’agent d'affaires breveté, RSV 179.11), dans
+les cas non prévus par le tarif des honoraires dus à titre de dépens (TAg; RSV 179.11.3),
+les honoraires de l'agent d'affaires breveté sont fixés par analogie avec ce tarif en tenant
+compte de l'usage, de l'importance et de la difficulté de l'affaire et du résultat obtenu.
+La jurisprudence applique les critères définis en matière d'honoraires d'avocats et prend
+également en considération la situation financière du client, l'importance du capital
+litigieux, le coût de la vie, les frais généraux de l'agent d'affaires et l'expérience
+de celui-ci (C. mod., N. c. S., 14 juin 2004, JT 2003 III 67). Cette jurisprudence mérite d'être
+nuancée en ce qui concerne les frais généraux. En effet, il n'y a pas de raison de taxer
+de manière différente les mêmes services rendus par des personnes aux compétences
+comparables. Elle n'est d'ailleurs pas directement applicable, dès lors que le commissaire au sursis
+(ou au règlement amiable des dettes) exerce une fonction officielle (Commentaire OELP, n. 5 ad art.
+55) ; le critère déterminant est avant tout la difficulté de l'affaire (ibidem).
+La Cour de modération a retenu dans une affaire de 2003 un tarif horaire de 180 francs (C. mod.,
+S. c. R., 20 janvier 2003/5) ; dans une affaire plus récente, elle a admis un tarif de 220 francs
+(C. mod., S c. Banque X., 10 juillet 2006/8). La Chambre des recours a admis la somme de 225 francs (Ch.
+rec., J. c. Fondation X., 4 décembre 2008/214).
+S’agissant de l'activité spécifique de commissaire, le Tribunal fédéral a considéré
+qu’« il est de l'intérêt du créancier et du débiteur que ceux qui
+exercent une activité dans le domaine des poursuites et faillites ne reçoivent pas une rémunération
+orientée vers le gain. Des honoraires « conformes aux lois du marché » sont
+inconciliables avec ces réflexions » (TF 7B.86/2005 du 18 juillet 2005, cité in Commentaire
+OELP, n. 5 ad art. 55). Dans cet arrêt, le Tribunal fédéral a admis des honoraires
+de 280 fr. pour un avocat administrateur d'une masse en faillite. Les auteurs du commentaire OELP sont
+d'avis qu'un tarif de 200 fr. se trouverait à « la limite supérieure acceptable »
+(op. cit., n. 6 ad art. 55), en tenant compte du fait que les travaux de secrétariat sont facturés
+à part. En l'espèce, où le commissaire au règlement amiable est agent d’affaires,
+et non avocat, un tarif horaire de 200 fr. paraît adéquat. Il en résulte dès lors
+des honoraires de 4’200 francs (21 x 200).
+Les débours consistant en photocopies et frais de timbres ne peuvent être facturés séparément,
+car ils font partie des frais généraux que l'on paie avec les honoraires. Ainsi, le montant
+des honoraires aurait dû se monter à 4'200 fr. net, soit 4'519 fr. 20 TVA comprise. Il faut
+ajouter à cette somme les frais de publication par 454 fr. 05, ce qui conduit à une somme totale
+de 4'973 fr. 25, dont à déduire 4'877 fr. 70 déjà versés.
+III.
+En définitive, le recours doit être partiellement admis, le prononcé attaqué étant
+réformé à son chiffre II en ce sens que les honoraires du commissaire sont arrêtés
+à 4'519 fr. 20 plus 454 fr. 05, sous déduction de la somme de 4'877 fr. 70 déjà
+versée. Le prononcé est maintenu pour le surplus.
+Les frais de deuxième instance du recourant sont fixés à 300 francs. L’intimé
+doit payer au recourant la somme de 300 fr. à titre de dépens de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+en audience publique en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+Le prononcé est réformé
+à son chiffre II en ce sens que les honoraires du commissaire relevé T.________, à la
+charge du requérant P.________, sont arrêtés à 4'519 fr. 20 (quatre mille cinq cent
+dix-neuf francs et vingt centimes), plus 454 fr. 05 (quatre cent cinquante-quatre francs et cinq centimes),
+sous déduction de la somme de 4'877 fr. 70 (quatre mille huit cent septante-sept francs et septante
+centimes) déjà versée.
+Il est confirmé pour
+le surplus.
+III.
+Les frais de deuxième instance du recourant sont arrêtés à 300 fr. (trois cents francs).
+IV.
+L'intimé T.________ doit verser
+au recourant P.________ la somme de 300 fr. (trois cents francs) à titre de dépens de deuxième
+instance.
+V.
+L'arrêt motivé est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+29 avril 2010
+Le dispositif de l'arrêt qui précède est communiqué par écrit aux intéressés.
+Le greffier :
+Du
+27 août 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. P.________,
+‑
+M. T.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Président du Tribunal d’arrondissement de Lausanne.
+Le greffier :
