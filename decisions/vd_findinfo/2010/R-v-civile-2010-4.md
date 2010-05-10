@@ -1,0 +1,144 @@
+---
+decision_id: "vd_findinfo_R_v-civile___2010___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-civile / 2010 / 4"
+decided: "2010-05-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20Civile/R%E9v-civile/20100511182833153_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-023.md"]
+---
+
+# VD Findinfo Rév-civile / 2010 / 4
+
+## Regeste
+
+RÉVISION{DÉCISION}, VICE DU CONSENTEMENT, TRANSACTION JUDICIAIRE, MESURE PROVISIONNELLE, MOTIF DE RÉVISION | 476 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 10.05.2010 Rév-civile / 2010 / 4
+
+RÉVISION{DÉCISION}, VICE DU CONSENTEMENT, TRANSACTION JUDICIAIRE, MESURE PROVISIONNELLE, MOTIF DE RÉVISION | 476 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+4/10
+VP10.014779-100770
+CHAMBRE
+DES REVISIONS
+CIVILES
+ET PENALES
+_________________________________
+REVISION
+CIVILE
+Arrêt du
+10 mai 2010
+_________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Giroud, Mme Carlsson, M. Meylan et Mme Byrde
+Greffier
+:
+M.              Elsig
+*****
+Art.
+476 al. 1 CPC
+Vu la transaction du 5 janvier 2010, ratifiée par le Président du Tribunal civil de l'arrondissement
+de Lausanne pour valoir ordonnance de mesures provisionnelles et, cas échéant, ordonnance d'exécution
+forcée, signée d'une part, par
+Z.________
+SA
+, à Lausanne, et, d'autre part, par
+M.________
+,
+audit lieu, et
+P.________
+,
+audit lieu,
+vu l'écriture du 15 janvier 2010 de M.________ qui déclare révoquer la transaction susmentionnée
+si Z.________ SA n'obtempérait pas à l'issue d'un nouveau délai à l'ordonnance de
+production de pièces,
+vu le recours en nullité déposé le 7 avril 2010 par M.________ concluant notamment au
+constat de la révocation pour dol de la transaction du 5 janvier 2010,
+vu l'arrêt de la Chambre des recours du Tribunal cantonal du 7 mai 2010, déclarant le recours
+irrecevable (I) et transmettant celui-ci à la Chambre des révisions civiles et pénales
+comme objet éventuel de sa compétence (II),
+vu les autres pièces du dossier;
+attendu que la voie du recours à la Chambre des recours contre le contenu d'une transaction ratifiée
+par le juge n'est pas ouvert, en particulier lorsque l'invalidation de celle-ci pour vice de la volonté
+est réclamée, à moins que le vice n'ait été invoqué devant le premier juge
+(JT 1998 III 82 c. 2a; Ch. rév. du 7 décembre 2009 n° 16 et référence),
+que le contenu d'une transaction judiciaire peut en revanche être invalidé par la voie de la
+révision pour les motifs prévus par les art. 476 al. 1 ch. 1 et 2 CPC (Code de procédure
+civile du 14 décembre 1966; RS 270.11) (JT 2004 III 99; JT 1998 III 82 précité; Gilliard,
+La transaction judiciaire en procédure civile, thèse Lausanne 2003, p. 222), cela même
+si elle a été ratifiée pour valoir ordonnance de mesures provisionnelles, la voie de la
+révision étant ouverte contre ce type de décision (JT 2003 III 103; JT 1993 III 41),
+que ces motifs sont le fait qu'une procédure pénale établit que le jugement a été
+influencé au préjudice du requérant par un crime ou un délit, même si aucune
+condamnation n'est intervenue, la preuve pouvant être administrée d'une autre manière
+si l'action pénale n'est pas possible (art. 476 al. 1 ch. 1 CPC), et le fait que le requérant
+recouvre un titre qui aurait été important dans les débats, mais qu'il ignorait ou ne
+pouvait faire produire au dossier (art. 476 al. 1 ch. 2 CPC),
+qu'en revanche, sauf en matière de jugement de divorce (art 476 al. 1 ch. 3 CPC; art. 148 al. 2
+CC; Code civil du 10 décembre 1907; RS 210), le droit vaudois ne reconnaît pas comme motif
+de révision le vice de la volonté au sens des art. 23 ss CO (Code des obligations du 30 mars
+1911; RS 220) (JT 2004 III 99 précité; JT 1998 III 83 précité), à moins qu'il
+ne réalise l'un des motifs de révision prévu par l'art. 476 al. 1 ch. 2 et 2 CPC, soit,
+par exemple, lorsque le vice de la volonté a été provoqué par un crime ou un délit
+(Poudret, note in JT 1998 III 85),
+qu'en l'espèce, le requérant ne fait valoir aucune constatation résultant d'une procédure
+pénale, ne prétend pas qu'une action pénale n'est pas possible et n'invoque aucune pièce
+existant au moment de la ratification de la transaction litigieuse qu'il aurait recouvré et n'aurait
+pu produire dans les débats,
+qu'à cet égard, l'art. 479 al. 2 CPC n'impose pas à la cour de céans de donner suite
+à des réquisitions de pièces, la production des éléments fondant la demande
+de révision incombant en premier lieu au requérant (Ch. rév. du 15 juillet 2009 n°
+7 et références),
+que la demande de révision est par conséquent irrecevable (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+ème
+éd., 2002, n. 2 ad art. 478 CPC, p. 746 et référence);
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Chambre des révisions civiles et pénales,
+statuant
+à huis clos,
+prononce
+:
+I.
+La demande de révision présentée par M.________ est irrecevable.
+II.
+L'arrêt, rendu sans frais est exécutoire.
+Le président :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+M. M.________,
+‑
+Me Jérôme Bénédict (pour Z.________ SA).
+La Chambre des révisions civiles et pénales considère que la valeur litigieuse est inférieure
+à 30'000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss (LTF loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la contestation ne soulève
+une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés devant
+le Tribunal fédéral dans les trente jours qui suivent la présente notification (art. 100
+al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopie à :
+‑
+M. le Président du Tribunal civil de l'arrondissement de Lausanne.
+Le greffier :
