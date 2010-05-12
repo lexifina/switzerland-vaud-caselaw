@@ -1,0 +1,131 @@
+---
+decision_id: "vd_findinfo_Faillite___2010___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2010 / 10"
+decided: "2010-05-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1844621"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-017.md"]
+---
+
+# VD Findinfo Faillite / 2010 / 10
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, OBLIGATION DE CHIFFRER LES CONCLUSIONS | 17 CPC, 461 CPC, 464 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 12.05.2010 Faillite / 2010 / 10
+
+DÉCISION D'IRRECEVABILITÉ, OBLIGATION DE CHIFFRER LES CONCLUSIONS | 17 CPC, 461 CPC, 464 CPC
+
+TRIBUNAL
+CANTONAL
+204
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 mai 2010
+__________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 461 et 464 CPC
+Vu le jugement rendu par défaut des parties le 25 janvier 2010 par le Président du Tribunal
+d'arrondissement de l'Est vaudois prononçant la faillite de
+J.________
+,
+à Lutry, à la requête de
+N.________
+,
+à Martigny,
+vu le prononcé, rendu par défaut des parties le 11 mars 2010, écartant la requête
+de relief déposée par le failli et confirmant sa faillite, celle-ci prenant effet le 4 mars
+2010 à 14 h. 20,
+vu le recours de J.________, rédigé en allemand, daté du 23 mars 2010 et reçu le
+26 mars 2010 au greffe du Tribunal d'arrondissement de l'Est vaudois,
+vu le courrier du 26 mars 2010 du Président du Tribunal d'arrondissement de l'Est vaudois renvoyant
+cet acte au recourant et l'invitant à le traduire en français,
+vu le nouvel acte de recours, rédigé en français, daté du 22 mars 2010, mais posté
+le 29 mars 2010,
+vu le prononcé du 20 avril 2010 du président de la cour de céans accordant l'effet suspensif
+au recours;
+attendu que le recours a été déposé en temps utile (art. 57 al. 1 LVLP; loi d'application
+dans le canton de Vaud de la loi fédérale sur la poursuite pour dettes et la faillite du 18
+mai 1955, RSV 280.05 et 174 LP; loi fédérale sur la poursuite pour dettes et la faillite du
+11 avril 1889, RS 281.1),
+qu'en revanche, il ne comporte aucune conclusion en réforme ou en nullité ni aucun moyen de
+recours reconnaissable contre la décision au sens de l'art. 461 CPC (Code de procédure civile
+du canton de Vaud du 14 décembre 1966, RSV 270.11), applicable par le renvoi de l'art. 58 al. 1
+LVLP,
+que par courrier recommandé du 8 avril 2010, le président de la cour de céans, en application
+de l'art. 17 CPC, a renvoyé son acte à J.________ et lui a imparti un délai au 22 avril
+2010 pour le refaire, en précisant le montant exact – en chiffres – qu'il réclamait,
+contestait devoir ou reconnaissait devoir,
+que, par courrier daté du 21 avril 2010 et remis par porteur le 22 avril 2010, le recourant a exposé
+diverses circonstances relatives à la créance à l'origine de la faillite,
+que ces déclarations ne répondent pas aux exigences de forme posées par la loi et ne constituent
+dès lors pas des conclusions recevables,
+qu'il y a lieu dès lors de constater que le recours est irrecevable (art. 464 al. 2 CPC),
+que, compte tenu de l'effet suspensif accordé, la faillite de J.________ prend effet au moment où
+la présente décision est rendue, le 12 mai 2010, à 11 heures;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Le prononcé entrepris, confirmant le jugement de faillite, est maintenu, la faillite de J.________
+prenant effet le 12 mai 2010, à 11 heures.
+III.
+L’arrêt,
+rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+12 mai 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. J.________,
+‑
+N.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lavaux-Oron,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l'Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier de Lavaux,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois.
+La greffière :
