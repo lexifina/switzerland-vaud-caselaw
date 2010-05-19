@@ -1,0 +1,135 @@
+---
+decision_id: "vd_findinfo_D_cision___2010___80"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2010 / 80"
+decided: "2010-05-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1862998"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-038.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# VD Findinfo Décision / 2010 / 80
+
+## Regeste
+
+AI{ASSURANCE}, DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE | 61 let. b LPGA, 27 al. 5 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 19.05.2010 Décision / 2010 / 80
+
+AI{ASSURANCE}, DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE | 61 let. b LPGA, 27 al. 5 LPA-VD
+
+TRIBUNAL
+CANTONAL
+AI
+75/10 - 200/2010
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 19 mai 2010
+_____________________
+Présidence
+de               M.
+Neu
+,
+juge unique
+Greffier
+:
+M.              Bichsel
+*****
+Cause
+pendante entre :
+Z.________
+,
+à [...], recourante, représentée par le Centre Social Régional Broye-Vully, Antenne
+de [...], à [...],
+et
+Office
+de l'assurance-invalidité pour le canton de Vaud
+,
+à Vevey, intimé.
+_______________
+Art.
+61 let. b LPGA et 27 al. 5 LPA-VD
+Vu l'écriture déposée le 25 février
+2010 par Z.________, représentée par le Centre Social Régional Broye-Vully, Antenne de
+[...], requérant "
+un
+délai pour faire recours
+" contre une
+décision rendue le 29 janvier 2010 par l'Office de l'assurance-invalidité pour le canton de
+Vaud,
+vu l'ordonnance du juge instructeur du 31 mars 2010, impartissant à la recourante un délai
+de 10 jours dès réception pour compléter son acte de recours en précisant ses motifs
+et conclusions, et l'avertissant qu'à défaut de réponse de sa part dans le délai
+imparti, le recours serait réputé retiré,
+vu l'absence de réponse de la recourante dans le délai imparti;
+considérant qu'aux termes de l'art. 61 let. b LPGA (loi fédérale du 6 octobre 2000 sur
+la partie générale du droit des assurances sociales, RS 830.1), l'acte de recours doit contenir
+un exposé succinct des faits et des motifs invoqués, ainsi que les conclusions; si l'acte n'est
+pas conforme à ces règles, le tribunal impartit un délai convenable au recourant pour
+en combler les lacunes, l'avertissant qu'en cas d'inobservation le recours sera écarté,
+que l'exigence de motivation du recours résulte également, en droit cantonal de procédure
+administrative, de l'art. 79 al. 1, 1
+ère
+phrase, LPA-VD (loi cantonale vaudoise du 28 octobre 2008 sur la procédure administrative,
+RSV
+173.36), applicable par renvoi de l'art. 99 LPA-VD,
+qu'à teneur de l'art. 27 al. 5 LPA-VD, les écrits dont les vices ne sont pas corrigés
+dans le délai imparti à cet effet sont réputés retirés;
+considérant qu'en l'espèce, l'écriture déposée le 25 février 2010 par la
+recourante ne répond manifestement pas aux exigences de motivation des art. 61 let. b LPGA et 79
+al. 1 LPA-VD, dans la mesure où elle ne contient notamment ni moyens ni conclusions clairs,
+que, par ordonnance du 31 mars 2010, l'intéressée a bénéficié d'un délai
+de 10 jours pour compléter dite écriture, et a été informée des conséquences
+en cas d'absence de réponse en temps utile,
+que l'ordonnance en cause a été retirée le 1
+er
+avril 2010,
+que la recourante n'a pas donné suite dans le délai imparti, incluant les féries (art.
+38 al. 4 let. a LPGA), délai qui est aujourd'hui échu,
+que l'exigence de motivation, selon les art. 61 let. b LPGA et 27 al. 5 LPA-VD précités, est
+une condition formelle de recevabilité du recours,
+que le présent recours est en conséquence irrecevable;
+considérant qu'un membre du Tribunal cantonal, statuant en tant que juge unique, est compétent
+pour rendre le prononcé d'irrecevabilité (cf. art. 94 al. 1 let. c LPA-VD, l'art. 27 al. 5
+LPA-VD assimilant un tel prononcé à une radiation de la cause du rôle par suite de retrait
+du recours);
+considérant qu'il est renoncé à percevoir un émolument judiciaire
+(cf.
+art 69 al. 1bis LAI [loi fédérale du 19 juin 1959 sur l'assurance-invalidité, RS 831.40],
+lequel déroge au principe général de l'art. 61 let. a LPGA),
+qu'il n'y a pas lieu d'allouer d'indemnité à titre de dépens (art. 61 let. g LPGA; art.
+55 LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le recours est irrecevable.
+II.
+La présente décision est rendue sans frais, ni allocation de dépens.
+Le
+juge unique :               Le
+greffier :
+Du
+La décision qui précède est notifiée à :
+‑
+Centre Social Régional Broye-Vully, Antenne de [...], à [...] (pour Z.________);
+‑
+Office de l'assurance-invalidité pour le canton de Vaud, à 1800 Vevey;
+-
+Office fédéral des assurances sociales, à 3003 Berne;
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi fédérale du 17 juin 2005 sur
+le Tribunal fédéral, RS 173.110), cas échéant d'un recours constitutionnel subsidiaire
+au sens des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+Le greffier :
