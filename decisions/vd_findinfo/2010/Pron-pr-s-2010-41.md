@@ -1,0 +1,174 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 41"
+decided: "2010-05-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100517113706613_e.html"
+cites_law: ["switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-434.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 41
+
+## Regeste
+
+MISE EN LIBERTÉ PROVISOIRE, DÉTENTION PRÉVENTIVE, RECOURS EN MATIÈRE PÉNALE, TRIBUNAL FÉDÉRAL | 434 CPP, 59 CPP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours civile 20.05.2010 Pron-prés / 2010 / 41
+
+MISE EN LIBERTÉ PROVISOIRE, DÉTENTION PRÉVENTIVE, RECOURS EN MATIÈRE PÉNALE, TRIBUNAL FÉDÉRAL | 434 CPP, 59 CPP
+
+TRIBUNAL
+CANTONAL
+204
+PE09.017475-JLR/VFV/MCA
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du 20 mai 2010
+__________________
+Du
+18 mai 2010
+________________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+Mme              Gabaz
+*****
+Art.
+59 et 434 CPP
+Vu le jugement rendu le 4 novembre 2009, par lequel le Tribunal correctionnel de l'arrondissement de
+Lausanne a condamné P.________, pour infraction grave et contravention à la loi fédérale
+sur les stupéfiants, à dix-huit mois de peine privative de liberté, sous déduction
+de cent quinze jours de détention avant jugement (I et II), a suspendu l'exécution d'une partie
+de la peine portant sur neuf mois et a fixé au condamné un délai d'épreuve de cinq
+ans (III),
+vu le recours déposé contre ce jugement par P.________,
+vu l'arrêt du 1
+er
+mars 2010 par lequel la cour de céans a réformé le jugement du 4 novembre 2009 en supprimant
+le sursis partiel accordé à P.________,
+vu le recours interjeté contre ce jugement par le condamné auprès du Tribunal fédéral,
+vu l'ordonnance de mesures provisionnelles, rendue le 29 mars 2010 par le Président de la Cour de
+droit pénal du Tribunal fédéral, déclarant irrecevable la requête de mesures
+provisionnelles fondée sur le droit fédéral tendant à la remise en liberté provisoire
+du condamné, d'une part, et constatant que cette question ressortit aux autorités cantonales,
+d'autre part,
+vu la requête de mise en liberté provisoire adressée le 31 mars 2010 par P.________ au
+président de la cour de céans,
+vu l'arrêt présidentiel du 1
+er
+avril 2010 rejetant cette requête,
+vu le recours déposé auprès du Tribunal fédéral par P.________ contre cet arrêt,
+vu l'arrêt du 26 avril 2010 de la Ire Cour de droit public du Tribunal fédéral rejetant
+le recours,
+vu la nouvelle demande de mise en liberté provisoire avec effet au 10 juillet 2010 présentée
+le 10 mai 2010 par P.________ et adressée au président de la cour de céans,
+vu les pièces du dossier;
+attendu que, malgré le recours pendant au Tribunal fédéral contre l'arrêt du 1
+er
+mars 2010, le président de la cour de céans est compétent pour statuer sur la demande
+de mise en liberté provisoire déposée par P.________, le rapport de connexité entre
+cette demande et l'objet du litige au fond n'étant pas suffisant pour que le Tribunal fédéral
+se saisisse de cette question;
+attendu que, sitôt qu'un recours est valablement exercé contre un jugement de première
+instance, l'emprisonnement ordonné ou subi avant une décision au fond est assimilé à
+la détention préventive et non à un début d'exécution de peine (CCASS, 7 octobre
+2003, n° 210),
+que, selon l'art. 59 al. 1 CPP, la détention préventive suppose la réunion d'au moins
+deux conditions, dont la première est l'existence de présomptions suffisantes de culpabilité
+(Piquerez,
+Traité de procédure
+pénale suisse, Zurich 2006, n. 841, p. 535
+),
+qu'il faut d'autre part que l'intéressé présente un danger pour la sécurité
+ou l'ordre public, que sa fuite soit à craindre ou que sa liberté offre des inconvénients
+sérieux pour l'instruction (art. 59 al. 1 CPP),
+que, de ces trois autres conditions légales, l'une au moins doit être réalisée pour
+justifier la détention préventive,
+que la troisième d'entre elles n'entre plus en considération à ce stade de la procédure,
+qu'en l'occurrence, l'accusé requiert sa mise en liberté provisoire avec effet au plus tard
+le 10 juillet 2010 au motif qu'à cette date, il serait en droit d'obtenir une libération conditionnelle
+à laquelle l'office d'exécution des peines a déjà préavisé favorablement,
+mais à laquelle elle ne peut donner suite en l'état, P.________ n'étant pour l'instant
+pas en exécution de peine,
+que, cependant, cette demande est prématurée,
+qu'il n'est en effet pas possible de déterminer à quelle date le Tribunal fédéral
+rendra son arrêt sur le fond, respectivement s'il le rendra avant le 10 juillet 2010,
+qu'en outre, on ne peut présumer du sort du recours pendant au Tribunal fédéral,
+qu'ainsi, le condamné n'a pas d'intérêt actuel à une décision de mise en liberté
+provisoire,
+qu'en outre, l'intéressé ne saurait, comme il le fait, préjuger de la décision du
+juge d'application des peines sur sa future libération conditionnelle,
+qu'il ne peut en effet considérer avoir un droit à obtenir une telle libération aux deux
+tiers de l'exécution de sa peine,
+que, de toute manière, il n'appartient pas au président de la cour de céans, sous l'angle
+de la détention préventive et de la mise en liberté provisoire, de tenir compte d'une
+éventuelle libération conditionnelle dont pourrait bénéficier le condamné s'il
+se trouvait en exécution de peine,
+que, pour le surplus, les motifs invoqués à l'appui de la décision du 1
+er
+avril 2010, confirmés sur recours par le Tribunal fédéral, sont toujours d'actualité,
+qu'on peut s'y référer sans plus ample développement,
+que, dès lors, il convient de rejeter la requête de mise en liberté provisoire déposée
+par P.________;
+attendu que les frais de la présente décision, par 520 fr., y compris l'indemnité allouée
+à son défenseur d'office, par 220 fr., seront mis à la charge du requérant qui succombe
+(art. 450 al. 1 CPP par analogie),
+que le remboursement à l'Etat de l'indemnité due au défenseur d'office sera exigible pour
+autant que la situation économique de P.________ se soit améliorée (ATF 135 I 91, c. 2.4,
+spéc. 2.4.3).
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+La requête de mise en liberté formée par P.________ est rejetée.
+II.
+Les frais d’arrêt, par 520 fr.  (cinq cent vingt francs), y compris l'indemnité
+allouée à son défenseur d'office par 220 fr. (deux cent vingt francs), sont mis à
+la charge de P.________.
+III.
+Le remboursement à l'Etat de l'indemnité allouée au ch. II ci-dessus sera exigible pour
+autant que la situation économique de P.________ se soit améliorée.
+III.
+L'arrêt est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Juliette Perrin, avocate-stagiaire (pour P.________)
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+Département de l'intérieur, Office d'exécution des peines,
+‑
+M. le Président du Tribunal de l'arrondissement de Lausanne,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Conformément à l'art. 434 al. 2 CPP, les parties peuvent déposer un recours motivé
+dans les dix jours dès la communication de la présente décision auprès de la Cour
+de cassation pénale du Tribunal cantonal, ledit recours devant contenir la désignation de la
+décision attaquée, les conclusions en réforme ou en nullité et les motifs à
+l'appui de ces conclusions.
+La greffière :
