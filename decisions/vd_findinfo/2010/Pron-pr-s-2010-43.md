@@ -1,0 +1,125 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 43"
+decided: "2010-05-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100527182406476_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-434.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 43
+
+## Regeste
+
+CONSULTATION DU DOSSIER | 434 al. 1 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 31.05.2010 Pron-prés / 2010 / 43
+
+CONSULTATION DU DOSSIER | 434 al. 1 CPP
+
+TRIBUNAL
+CANTONAL
+213
+PE07.010884-JRU/ECO/AFE
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+31 mai 2010
+______________
+Du 27 mai 2010
+___________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+M.              Rebetez
+*****
+Art.
+434 al. 1 CPP
+Vu le jugement du 25 juin 2009 par lequel le Tribunal correctionnel de l'arrondissement de La Côte
+a notamment libéré X.________ des chefs d'accusation d'actes d'ordre sexuel avec des enfants,
+contrainte sexuelle et viol (I), confisqué le journal intime de Z.________ produit aux débats
+et ordonné son maintien au dossier de la cause au titre de pièce à conviction (II),
+vu l'arrêt du 28 septembre 2009 par lequel la Cour de cassation pénale a annulé le jugement
+attaqué à son chiffre II et renvoyé la cause au Président du Tribunal correctionnel
+de l'arrondissement de La Côte pour qu'il statue sur la requête de restitution de pièce,
+vu le jugement du 4 mai 2010 par lequel le Tribunal correctionnel de l'arrondissement de La Côte
+a notamment ordonné le maintien au dossier de la cause, au titre de pièce à conviction,
+du journal intime de Z.________ (I) et dit que l'intéressée pourra obtenir, à sa demande,
+à ses frais, une copie certifiée conforme de son journal intime (II),
+vu le recours déposé le 20 mai 2010 par Z.________ contre ce jugement,
+vu la requête de restrictions d'accès au journal intime de Z.________ jusqu'à droit définitivement
+connu sur la restitution comprise dans dit recours,
+vu le courrier du 26 mai 2010 du Ministère public,
+vu les pièces du dossier;
+attendu que, dès qu'il a reçu le dossier d'une cause relevant de la Cour de cassation pénale,
+le président de cette autorité prend toute décision urgente (art. 434 al. 1 CPP),
+qu'à ce jour, le journal intime de Z.________ ne lui a pas encore été restitué,
+que ce document contient des informations relatives à son auteur qui ne sont pas accessibles au
+public et dont la plupart n'ont d'ailleurs aucun lien avec l'affaire qui a été jugée,
+qu'une restriction d'accès au journal intime de Z.________ s'impose durant la procédure de
+recours, afin de respecter la personnalité de celle-ci,
+que, partant, il convient d'admettre la requête de Z.________ et d'ordonner immédiatement toutes
+mesures nécessaires pour éviter, durant la procédure de recours et jusqu'à l'obtention
+d'un jugement définitif et exécutoire sur la restitution du journal intime, la divulgation
+de renseignements contenus dans le journal intime de Z.________, en particulier que ni X.________, ni
+son conseil, ne soient autorisés à en tirer des copies,
+attendu que la présente décision
+doit être rendue sans frais.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+La requête formée par Z.________ est
+admise.
+II.
+Il est immédiatement ordonné toutes
+mesures nécessaires pour éviter, durant la procédure de recours et jusqu'à l'obtention
+d'un jugement définitif et exécutoire sur la restitution du journal intime, la divulgation
+de renseignements contenus dans le journal intime de Z.________, en particulier que ni X.________, ni
+son conseil, ne soient autorisés à en tirer des copies.
+III.
+L'arrêt, rendu sans frais, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Franck Tièche, avocat (pour Z.________),
+-
+Me Nicolas Perret, avocat (pour X.________),
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+M. le Président du Tribunal correctionnel de l'arrondissement de La Côte,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+Le greffier :
