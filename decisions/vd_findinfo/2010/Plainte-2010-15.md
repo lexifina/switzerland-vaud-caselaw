@@ -1,0 +1,208 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 15"
+decided: "2010-06-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1881154"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-106.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-034.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 15
+
+## Regeste
+
+PLAINTE{LP}, NOTIFICATION DE LA DÉCISION, DÉCISION D'IRRECEVABILITÉ | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 09.06.2010 Plainte / 2010 / 15
+
+PLAINTE{LP}, NOTIFICATION DE LA DÉCISION, DÉCISION D'IRRECEVABILITÉ | 17 LP
+
+TRIBUNAL
+CANTONAL
+10
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+9 juin 2010
+______________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Bosshard et Hack
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+K.________
+,
+à Yverdon-les-Bains, contre la décision rendue le 19 février 2010, à la suite de
+l’audience du 28 janvier 2010, par le Président du Tribunal d’arrondissement de la Broye
+et Nord vaudois, autorité inférieure de surveillance, dans la cause opposant le recourant à
+l’
+OFFICE DES POURSUITES
+DU JURA-NORD VAUDOIS
+et
+T.________
+,
+à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 29 avril 2009, T.________ a adressé à l’Office des poursuites d’Yverdon-Orbe-La
+Vallée-Grandson (ci-après : l’office) une réquisition de poursuite dirigée
+contre K.________, réclamant le paiement de 14'795 fr. avec intérêt à 7 % l’an
+dès le 1
+er
+juin 2008 pour 11 mois de loyer concernant un appartement sis rue [...] à Yverdon-les-Bains, dont
+à déduire 625 fr. d’acompte, valeur au
+20
+décembre 2008, de 50 fr. sans intérêt pour frais divers et de rappels, et de 800 fr. à
+titre d’indemnité fondée sur l’art. 106 CO.
+La notification postale du commandement de payer dressé ensuite de cette réquisition ayant
+échoué, l’office a demandé à ce qu’il soit notifié par un agent
+de police. Le 31 octobre 2009, l’agent notificateur a affiché le pli contenant le commandement
+de payer à la porte du poursuivi.
+Le 20 novembre 2009, le poursuivant a requis la continuation de la poursuite.
+Le 23 novembre 2009, l’office a adressé au poursuivi un avis de saisie, mentionnant qu’il
+serait procédé à la saisie le 23 novembre 2009 le matin à l’office pour un
+montant de 16'775 fr. 95, intérêts et frais compris.
+Par lettre datée du 3 décembre 2009, reçue au greffe du Tribunal d’arrondissement
+de la Broye et du Nord vaudois le 8 décembre 2009, le poursuivi a formé une plainte contre
+cet avis de saisie, soutenant qu’il n’avait jamais signé de bail pour l’appartement
+en question, occupé par son père. L’enveloppe ayant contenu le courrier du poursuivi
+daté du 3 décembre 2009 ne figure pas au dossier.
+Dans ses déterminations du 18 janvier 2010, l’office a conclu au rejet de la plainte.
+Par lettre du 26 janvier 2010, le poursuivant a également conclu au rejet de la plainte.
+2.
+Par prononcé du 19 février 2010, rendu à la suite d’une audience tenue le 28
+janvier 2010, le Président du Tribunal d’arrondissement de la Broye et du Nord vaudois, en
+sa qualité d’autorité inférieure de surveillance, a déclaré irrecevable
+la plainte pour tardiveté. Il a considéré que le poursuivi avait dû recevoir l’avis
+de saisie querellé le jeudi 26 novembre 2009 au plus tard, puisque le délai de distribution
+du courrier B est en principe de trois jours ouvrables au maximum, et que si la plainte était datée
+du 3 décembre 2009, elle n’avait été postée que le 8 décembre 2009, lendemain
+de l’échéance du délai pour déposer plainte.
+Ce prononcé a été notifié à K.________ le 22 février 2010. Celui-ci a recouru
+par acte du 3 mars 2010. Il expose n’avoir reçu l’avis de saisie que le samedi
+28
+novembre 2009 après 7 heures 30, voire en avoir pris connaissance que le lundi suivant, 1
+er
+décembre 2009.
+Dans ses déterminations du 11 mars 2010, l’office a déclaré s’en tenir à
+celles qu’il avait déposées devant l’autorité inférieure de surveillance.
+Le 23 mars 2010, le poursuivant a conclu au rejet du recours, joignant à son courrier diverses pièces.
+En droit :
+I.
+La
+décision querellée a été notifiée au poursuivi le 22 février 2010. Formé
+le 3 mars 2010, son recours a été déposé à temps utile, dans le délai légal
+de dix jours (art. 18 al. 1 LP ; art. 28 al. 1 LVLP). Il comporte l'énoncé des moyens
+invoqués (art. 28 al. 3 LVLP) et est ainsi recevable à la forme.
+L’art. 28 al. 4 LVLP permet au recourant d’alléguer des faits nouveaux et de produire
+de nouvelles pièces. En outre, l’art. 23 LVLP (applicable par renvoi de l’art. 33 LVLP)
+habilite l’autorité supérieure de surveillance à ordonner librement les mesures
+d’instruction qui lui paraissent nécessaires, notamment la production de pièces. Dans
+la mesure où elles sont utiles à la cause, les pièces produites spontanément par
+les parties auraient pu faire l’objet d’un ordre de production et elles sont, dans cette
+mesure, recevables.
+II.
+a)
+Selon l’art. 17 al. 1 LP, la voie de
+la plainte est ouverte lorsqu’une mesure de l’office est contraire à la loi ou ne paraît
+pas justifiée en fait. Par mesure où sens de cette disposition, il faut entendre tout acte
+d’autorité accompli par l’office ou un organe de la poursuite en exécution d’une
+mission officielle dans une affaire concrète. L’acte de poursuite doit être de nature
+à créer, modifier ou supprimer une situation de droit de l’exécution forcée
+dans l’affaire en question et il peut se manifester de toutes sortes de façons (ATF 129 III
+400 c. 1.1, JT 2004 II 51 ; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, nn. 11-12 ad art. 17 LP).
+Acte matériel ayant pour objet la continuation de la procédure forcée et produisant des
+effets externes, l’avis de saisie peut faire l’objet d’une plainte (CPF, 11 juillet
+2007/16 ; CPF, 17 janvier 2007/38 ; CPF, 27 septembre 2002/39 et les réf. cit.). La plainte
+formée contre l’avis de saisie du 23 novembre 2009 était donc recevable sous cet angle.
+b)
+Aux termes de l’art. 17 al. 2 LP, la
+plainte doit être déposée dans les dix jours de celui où le plaignant a eu connaissance
+de la mesure.
+Le délai de plainte est un délai péremptoire et son observation une condition de recevabilité
+qui doit être vérifiée d’office par l’autorité de surveillance (ATF 102
+III 127, rés. in JT 1978 II 44 ; Gilliéron, op. cit., nn. 222-223 ad art. 17 LP). Si le
+délai n’est pas observé, la décision ou mesure en cause entre en force, sous réserve
+d’une éventuelle constatation de nullité, hors délai de plainte, selon l’art.
+22 al. 1 LP (Jeandin, Poursuite pour dettes et faillite, La plainte, FJS 679 ; TF 7B.233/2004 du
+24 décembre 2004 c. 1.1).
+La preuve de la notification ou de la communication et de sa date, même lorsqu’elle est fictive,
+de l’acte de poursuite contesté incombe à l’autorité de poursuite ou à
+l’organe de poursuite (Gilliéron, op. cit., n. 195 ad art. 17 LP ; Lorandi, Betreibungsrechtliche
+Beschwerde und Nichtigkeit, Kommentar zu den Artikeln 13-30 SchKG, n. 270 ad art. 17 LP ; ATF 114
+III 51 c. 3c, JT 1990 II 166). Ainsi, une autorité cantonale de surveillance ne peut pas déclarer
+une plainte irrecevable pour tardiveté en se bornant à conjecturer le moment où le pli
+de l’office avait dû parvenir au plaignant. Le fait que le plaignant n’invoque pas de
+circonstances particulières qui auraient retardé la réception de l’envoi ne dispense
+pas l’autorité de procéder à un examen qu’elle est tenue d’entreprendre
+d’office (ATF 102 III 127, rés. in JT 1978 II 44).
+En l’espèce, le premier juge a supputé que l’avis de saisie – qui n’avait
+pas été adressé sous pli recommandé ou remis contre reçu (art. 34 LP), mais
+envoyé sous pli simple par courrier B – avait été reçu par le plaignant le
+26 novembre 2009 au plus tard. Il ne s’agit toutefois là que d’une supposition qui ne
+permet pas de déclarer sans autre la plainte irrecevable.
+III.
+Dans ces conditions, le recours doit être admis, le prononcé annulé et la cause renvoyée
+au Président du Tribunal d’arrondissement de la Broye et du Nord vaudois pour nouvelle instruction
+et nouvelle décision dans le sens des considérants.
+Le présent arrêt est
+rendu sans frais ni dépens (art. 61 et 62 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est annulé, la cause étant renvoyée au Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois pour nouvelle instruction et nouvelle décision dans le sens des considérants.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. K.________,
+‑
+M. Alexandre Landry, agent d’affaires breveté (pour T.________),
+‑
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
