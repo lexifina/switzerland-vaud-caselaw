@@ -1,0 +1,90 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___87"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 87"
+decided: "2010-06-10"
+published: "2010-11-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20101014144058111_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-437.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 87
+
+## Regeste
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 437 CPP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours civile 05.11.2010 Pron-prés / 2010 / 87
+
+MOYEN DE DROIT, RETRAIT{VOIE DE DROIT} | 437 CPP
+
+TRIBUNAL
+CANTONAL
+402
+PE08.024608-HNI/ACP/NMO
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Du 11 octobre
+2010
+________________
+Vu le jugement du 10 juin 2010, par lequel le Tribunal de police de l'arrondissement de l'Est vaudois
+a, notamment, constaté que R.________ s'était rendu coupable de vol (II), l'a condamné
+à une peine pécuniaire de 40 jours-amende à 30 fr. le jour et à une amende de 600
+fr. (III), a suspendu l'exécution de la peine pécuniaire et a fixé au condamné un
+délai d'épreuve d'une durée de quatre ans (IV), a dit qu'en cas de non paiement fautif
+de l'amende, la peine privative de liberté de substitution sera de 20 jours (V), a dit que les peines
+infligées étaient entièrement complémentaires à celles prononcées le 27
+mai 2010 par le Juge d'instruction de l'arrondissement de l'Est vaudois (VI), a dit que R.________ était
+le débiteur de U.________ des sommes de 4'146 fr., avec intérêts à 5 % l'an dès
+le 3 novembre 2008, à titre de dommages et intérêts, et de 2'500 fr., à titre de
+dépens pénaux réduits (VII) et a donné acte pour le surplus à U.________ de
+ses réserves civiles à l'encontre de R.________ (VIII),
+vu la déclaration de recours déposée le 15 juin 2010 par U.________ contre ce jugement,
+vu le retrait du recours du 28 juin 2010
+vu l'art. 437 CPP;
+attendu qu'il y a lieu de prendre acte de ce retrait, les conditions de l'art. 437 CPP étant
+réalisées en l'espèce;
+attendu que la présente décision doit être rendue sans frais,
+le
+Président
+de
+la Cour de cassation pénale du Tribunal cantonal :
+I.
+Prend acte du retrait du recours interjeté
+par U.________.
+II.
+Dit que la présente décision, rendue sans frais, est exécutoire.
+Le président :
+Du
+5 novembre 2010
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est communiquée à :
+‑
+Me Jérôme Bénédict, avocat (pour R.________),
+-
+Me Laure Dallèves, avocate-stagiaire (pour U.________),
+‑
+M. le Procureur général du canton de Vaud,
+‑
+M. le Président du Tribunal de police de l'arrondissement de l'Est vaudois,
+-
+M. le Président du Tribunal de police de l'arrondissement de Lausanne,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Elle prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+Le greffier :
