@@ -1,0 +1,97 @@
+---
+decision_id: "vd_findinfo_D_cision___2010___94"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2010 / 94"
+decided: "2010-06-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1902322"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2010 / 94
+
+## Regeste
+
+RADIATION DU RÔLE, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 16.06.2010 Décision / 2010 / 94
+
+RADIATION DU RÔLE, RETRAIT{VOIE DE DROIT} | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+AI
+208/10 - 237/2010
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 16 juin 2010
+__________________
+Présidence
+de               M.
+Jomini
+,
+juge unique
+Greffier
+:
+M.              Simon
+*****
+Cause
+pendante entre :
+W.________
+,
+à Saint-Barthélemy, recourant,
+et
+Office
+de l'assurance-invalidité pour le canton de Vaud
+,
+à Vevey, intimé.
+_______________
+Art.
+94 al. 1 let. c LPA-VD
+Vu
+le recours formé le 27 mai 2010 par W.________
+contre une décision de restitution rendue le 4 mai 2010 par l'Office de l'assurance-invalidité
+pour le canton de Vaud ;
+vu la déclaration de retrait du recours envoyée le 16 juin 2010 par W.________ à la Cour
+des assurances sociales ;
+considérant
+que la cause doit être rayée du rôle par le juge unique, par suite de retrait du recours
+(art. 94 al. 1 let. c LPA-VD [loi cantonale vaudoise sur la procédure administrative ; RSV
+173.36]) ;
+qu’il n’y a pas lieu de percevoir de frais de justice ni d’allouer des dépens
+(art. 91 et 99 LPA-VD) ;
+que l'ordonnance du 3 juin 2010 fixant au recourant un délai pour effectuer une avance de frais
+devient donc sans objet.
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle, par suite de retrait du recours.
+II.
+Il n’est pas perçu de frais judiciaires ni alloué de dépens.
+Le
+juge unique :               Le
+greffier :
+Du
+La décision qui précède est notifiée à :
+‑
+W.________
+‑
+Office de l'assurance-invalidité pour le canton de Vaud
+‑
+Office fédéral des assurances sociales
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
