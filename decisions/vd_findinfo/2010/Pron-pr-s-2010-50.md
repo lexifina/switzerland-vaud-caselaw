@@ -1,0 +1,121 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___50"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 50"
+decided: "2010-06-16"
+published: "2010-06-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/2010060311351088_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-424.md", "switzerland/bund/acts/312.0/art-425.md", "switzerland/bund/acts/312.0/art-431.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 50
+
+## Regeste
+
+DÉLAI DE RECOURS | 424 CPP, 425 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 02.06.2010 Pron-prés / 2010 / 50
+
+DÉLAI DE RECOURS | 424 CPP, 425 CPP
+
+TRIBUNAL
+CANTONAL
+219
+PE08.028112-JBN/YBL/JLA
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+16 juin 2010
+______________
+Du 2 juin 2009
+__________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+M.              Rebetez
+*****
+Art.
+424, 425 CPP
+Vu le jugement par défaut du 15 avril 2010, par lequel le Tribunal de police de l'arrondissement
+de La Côte a, notamment, constaté par défaut que G.________ s'était rendu coupable
+de lésions corporelles simples et violence ou menace contre les autorités et les fonctionnaires
+(I); ordonné par défaut la révocation du sursis accordé à l'intéressé
+par décision du Juge d'instruction de Lausanne de 17 septembre 2008 et l'exécution de
+la peine prévue à cette occasion (II) et l'a condamné par défaut à une peine
+privative de liberté de 45 jours, peine d'ensemble (III);
+vu la déclaration de recours déposée le 24 avril 2010 par G.________ contre ce jugement,
+vu les pièces du dossier;
+attendu que celui qui, comme en l'espèce, se borne à déposer une déclaration de recours
+dépourvue de conclusions et non motivée doit produire, conformément à l'art. 425
+al. 1 CPP, un mémoire motivé dans les dix jours dès réception d'une copie du jugement
+attaqué,
+que le greffe envoie alors au recourant, sous pli recommandé et dans le plus bref délai, une
+copie complète du jugement attaqué et lui donne connaissance de l'article 425 CPP (art. 424
+al. 2 CPP),
+qu'en vertu de la disposition précitée, le recourant dispose ensuite d'un délai de dix
+jours pour produire un mémoire motivé,
+que suite à la déclaration de recours de G.________, le greffe du Tribunal d'arrondissement
+de La Côte lui a adressé une copie complète du jugement,
+que cet envoi a été expédié le 29 avril 2010 sous lettre recommandée avec accusé
+de réception,
+qu'il a été retiré le 4 mai 2010,
+que le délai pour produire un mémoire motivé expirait le 14 mai 2010, conformément
+aux articles 132 et 133 CPP,
+que G.________ n'a pas déposé de mémoire complémentaire dans le délai légal,
+que, partant, le recours est manifestement irrecevable et doit être écarté préjudiciellement
+(art. 431 al. 1 CPP), la Cour de cassation ne pouvant entrer en matière sur une déclaration
+de recours non motivée,
+qu'enfin, les frais de deuxième instance seront supportés par le recourant , conformément
+à l'art. 450 al. 1 CPP.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+Le recours est écarté préjudiciellement.
+II.
+Les frais de deuxième instance, par 300 fr.  (trois cent francs), sont mis à
+la charge du recourant.
+III.
+L'arrêt est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+M. G.________,
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+M. le Président du Tribunal de police de l'arrondissement de La Côte,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+Le greffier :
