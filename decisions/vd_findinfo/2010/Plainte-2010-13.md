@@ -1,0 +1,269 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 13"
+decided: "2010-06-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1892023"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-053.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-100.md", "switzerland/bund/acts/281.1/art-110.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.1/art-113.md", "switzerland/bund/acts/281.1/art-149.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 13
+
+## Regeste
+
+SAISIE DE SALAIRE, PARTICIPATION À LA SAISIE, ACTE DE DÉFAUT DE BIENS, FOR DE LA POURSUITE | 110 LP, 149 LP, 53 LP, 93 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.06.2010 Plainte / 2010 / 13
+
+SAISIE DE SALAIRE, PARTICIPATION À LA SAISIE, ACTE DE DÉFAUT DE BIENS, FOR DE LA POURSUITE | 110 LP, 149 LP, 53 LP, 93 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+13
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+17 juin 2010
+_______________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Bosshard
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 53, 93 al. 2, 110 et 149 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+L.________
+,
+à Pully, contre la décision rendue le 12 février 2010, à la suite de l’audience
+du 27 août 2009, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte de la recourante tendant à la modification
+du procès-verbal de saisie établi le 28 mai 2009 par l'
+OFFICE
+DES POURSUITES DE LAUSANNE-OUEST
+, dans le cadre
+de poursuites dirigées contre
+X.________
+,
+à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 5 mars 2008, à la suite d'une réquisition de saisie formée par L.________ dans le cadre
+de la poursuite n° 1'249'542 portant sur une créance en capital de 500'456 fr. 40, l'Office
+des poursuites de Lausanne-Est a établi un procès-verbal de saisie au détriment de X.________
+fixant à 7'000 fr. par mois la saisie sur le salaire du débiteur, dès et y compris le
+1
+er
+mars 2008, l'acte précisant que la saisie déploie ses effets pendant une année et qu'elle
+se terminera le 28 février 2009.
+Le 12 mars 2009, l'Office des poursuites de l'arrondissement Lausanne-Est a délivré à
+la poursuivante un acte de défaut de biens après saisie de 547'700 fr. 80, portant le numéro
+701'249'542.
+2.
+Dans l'intervalle, soit le 9 mars 2009, à la requête de L.________, l'Office des poursuites
+de Genève a établi un commandement de payer n° 09 119'831 P, pour les sommes de 135'915
+fr. et 424'410 fr. 80, avec intérêt, à l'encontre de X.________, qui avait pris domicile
+à Genève. L'acte n'a toutefois pas pu être notifié, le poursuivi ayant quitté
+cette ville le 27 mars 2009, selon la mention apposée le 19 mai 2009 sur le commandement de payer.
+L'Office des poursuites de Genève a établi le 11 mars 2009 un procès-verbal de saisie
+en faveur de trois autres créanciers, fixant la saisie à l'encontre de X.________ à 7'600
+fr. par mois. L'acte mentionne que le délai de participation à la saisie est fixé au 22
+avril 2009.
+3.
+Le 9 avril 2009,  L.________ a adressé
+à l'Office des poursuites de Lausanne-Ouest une réquisition de poursuite portant sur la somme
+de 135'915 francs. Un commandement de payer n° 5'038'612 a été notifié le 29 avril
+2009 à X.________, qui n'a pas formé opposition.
+Le 9 avril 2009 également, L.________ a requis de l'Office des poursuites de Lausanne-Ouest la continuation
+de la poursuite sur la base de l'acte de défaut de bien du 12 mars 2009  (numéro attribué
+à la nouvelle poursuite : 5'035'755). Donnant suite à cette réquisition, l'office a opéré,
+le 1
+er
+mai 2009, une saisie au domicile du débiteur et a établi un procès-verbal de saisie, fixant
+la saisie de revenus à 6'700 fr. par mois dès le 1
+er
+avril 2010. L'acte indique que la saisie, qui déploie ses effets jusqu'au 1
+er
+mai 2010 ou jusqu'au paiement intégral, prendra effet dès le 11 mars 2010, soit la date à
+laquelle la saisie antérieure, ordonnée par l'Office des poursuites de Genève, sera périmée.
+Le procès-verbal de saisie du 1
+er
+mai 2009, qui indique que les poursuites N
+os
+5'035'755 et 5'038'612 (la poursuivante avait requis la continuation de cette dernière poursuite
+le 20 mai 2009) participeront à la saisie, a été adressé à la poursuivante le
+28 mai 2009.
+4.
+Par lettre du 29 mai 2009, la poursuivante a requis la modification des procès-verbaux de saisie
+en ce sens que la saisie est ordonnée avec effet immédiat. Elle précisait que si cette
+requête n'était pas admise, elle devrait être considérée comme une plainte LP.
+Dans sa réponse du 12 juin 2009, l'Office des poursuites de l'arrondissement de Lausanne-Ouest a
+demandé à la poursuivante si après examen du procès-verbal de saisie établi
+par l'Office des poursuites de Genève, lequel était joint en copie, elle entendait que sa requête
+soit transmise à l'autorité inférieure de surveillance à titre de plainte LP.
+Par courrier du 14 juillet 2009, la poursuivante a confirmé que sa lettre du 29 mai 2009 valait
+plainte au sens de l'art. 17 LP.
+Dans ses déterminations du 21 août 2009, l'Office des poursuites de l'arrondissement de Lausanne-Ouest
+a conclu au rejet de la plainte.
+5.
+Par décision du 12 février 2010, le
+Président du Tribunal d'arrondissement de Lausanne, en sa qualité d'autorité inférieure
+de surveillance, a rejeté la plainte sans frais ni dépens.
+Le premier juge a constaté que la plainte formée le 29 mai 2010 avait été déposée
+en temps utile. Il a considéré que c'était à juste titre que l'Office de l'arrondissement
+de Lausanne-Ouest  avait fixé l'entrée en vigueur de la saisie à la date de péremption
+de la saisie ordonnée à Genève. Il a retenu que la plaignante était restée inactive
+en ne requérant pas la continuation de la poursuite n° 5'035'755, de sorte que la saisie opérée
+ensuite de sa réquisition de continuer la poursuite initiale était nulle.
+Par acte du 25 février 2010, accompagné de pièces, la plaignante a recouru contre cette
+décision, qui lui a été notifiée le 15 février 2010, concluant, avec suite de
+frais et dépens, à son annulation et à l'admission de sa plainte, en ce sens que le procès-verbal
+de saisie est modifié et que la saisie prend effet dès le 1
+er
+mai 2009.
+Par lettre du 15 mars 2010, l'office intimé s'est référé aux déterminations
+qu'il avait produites en première instance.
+L'intimé X.________ a déclaré renoncer à produire une détermination et s'en
+est remis à justice.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les pièces nouvelles produites par la recourante en deuxième instance sont également recevables
+en vertu de l'art. 28 al. 4 LVLP.
+II.
+a)
+La
+recourante fait valoir qu'elle a requis la continuation de la poursuite n° 5'035'755 le 9 avril
+2009, soit dans les trente jours dès la délivrance de l'acte de défaut de biens délivré
+le 12 mars 2009. Elle en déduit qu'il est erroné et arbitraire de retenir qu'elle est demeurée
+inactive, ce qui justifierait l'admission de son recours.
+b)
+En
+vertu de l'art. 93 al. 2 LP (loi fédérale sur la poursuite pour dettes et la faillite du 11
+avril 1889, RS 281.1), les revenus qui font l'objet d'une saisie peuvent être saisis pour un an
+au plus à compter de l'exécution de la saisie. Si plusieurs créanciers participent à
+la saisie, le délai court à compter du jour de l'exécution de la première saisie
+effectuée à la requête d'un créancier de la série en cause. Les créanciers
+qui requièrent la continuation de la poursuite dans les trente jours à compter de l'exécution
+de la première saisie participent à celle-ci (art. 110 al. 1 LP). Les créanciers qui requièrent
+la continuation de la poursuite après ce délai de trente jours forment de la même manière
+des séries successives, pour lesquelles il est procédé à de nouvelles saisies (art.
+110 al. 2 LP). Conformément à l'art. 112 LP, il est dressé procès-verbal de la saisie.
+La participation de nouveaux créanciers (art. 110 et 111 LP) et les compléments de saisie sont
+consignés à la fin du procès-verbal (art. 113 LP).
+La règle de l'art. 93 al. 2 LP, qui limite à une année la saisie de revenu à futur,
+n'est pas justifiée par le seul intérêt du poursuivi, mais aussi – et surtout –
+par l'intérêt des autres créanciers du poursuivi à qui l'on ne peut refuser trop
+longtemps la possibilité de s'en prendre au revenu relativement saisissable à futur du poursuivi
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 124 ad art. 93 LP).
+c)
+Peuvent
+requérir la continuation de leur poursuite notamment les créanciers au bénéfice d'un
+acte de défaut de biens définitif après saisie s'ils agissent dans le délai de six
+mois de l'art.  149 al. 3 LP.  En effet, en vertu de l'art. 149 al. 1 LP, le créancier
+qui a participé à la saisie et n'a pas été désintéressé intégralement
+reçoit un acte de défaut de biens pour le montant impayé. L'office délivre l'acte
+de défaut de biens dès que le montant de la perte est établi (al. 1bis). Cet acte vaut
+comme reconnaissance de dette dans le sens de l'art. 82 LP et confère les droits mentionnés
+aux art. 271 ch. 5 et 285 LP (al. 2). Le créancier est dispensé du commandement de payer, s'il
+continue la poursuite dans les six mois dès la réception de l'acte de défaut de biens
+(al. 3).
+d)
+En
+cas de changement de domicile du débiteur avant l'avis de saisie, le for de la poursuite est déplacé
+au nouveau domicile. Si le changement intervient après l'avis de saisie, la poursuite continue au
+même for (art. 53 LP). La perpétuation du for vaut pour la poursuite en cours et pour elle
+seule. Elle ne vaut pas en particulier pour les poursuites de l'art. 149 al. 3 LP, en dépit du terme
+"continuer" utilisé dans cette disposition (Schüpbach, Commentaire romand, n. 22
+ad art. 53 LP). L'art. 149 al. 3 LP dispense en effet le créancier d'un acte de défaut de biens
+de la notification d'un commandement de payer dans le cadre d'une nouvelle poursuite (Gilliéron,
+op. cit., n. 54 ad art. 149 LP). La nouvelle poursuite, dont l'introduction ou la continuation a été
+requise par un poursuivant à qui un acte de défaut de biens définitif a été
+délivré, doit être diligentée par l'office des poursuites du nouveau domicile du
+poursuivi, s'il en a changé après la communication de l'avis de saisie dans la poursuite dans
+laquelle l'acte de défaut de biens a été délivré (Gilliéron, op. cit. n.
+56 ad art. 149 LP; Rey-Mermet, Commentaire romand, n. 19 ad art. 149 LP).
+e)
+En
+l'espèce, la saisie de revenu à laquelle a participé la recourante a pris fin le 28 février
+2009. L'Office des poursuites de Lausanne-Est a délivré à la recourante un acte de défaut
+de biens le 12 mars 2009. Dès la réception de cet acte, et pendant six mois, la recourante
+pouvait requérir la continuation d'une nouvelle poursuite. Si, comme c'est apparemment le cas, le
+débiteur a changé de domicile après l'avis de saisie délivré dans la première
+poursuite, elle devait requérir la continuation de la poursuite au nouveau domicile. Elle aurait
+donc pu agir à Genève, dans le délai de participation au 22 avril 2009, mentionné
+dans le procès-verbal de saisie du 11 mars 2009. Elle ne l'a pas fait. En revanche, elle a requis,
+le 9 avril 2009, la continuation de la poursuite auprès de l'Office des poursuites de Lausanne-Ouest,
+for du nouveau domicile du débiteur. Cette réquisition, reçue le 14 avril 2009, ne permettait
+pas de participer à la saisie exécutée par un autre office des poursuites, celui de Genève,
+quand bien même elle est intervenue dans le délai de participation fixé lors de la saisie
+du 11 mars 2009. Quant à la nouvelle saisie de revenu à futur exécutée par l'Office
+des poursuites de Lausanne-Ouest, elle ne pouvait prendre effet immédiatement, dans la mesure où
+une saisie était déjà en cours à Genève depuis le 11 mars 2009.
+Le délai de trente jours de l'art. 110 al. 2 LP, qui est un délai péremptoire (Tschumy,
+Commentaire romand, n. 8 ad art. 100 LP), permet notamment au poursuivant au bénéfice d'un
+acte de défaut de biens après saisie de s'accrocher à une saisie en cours. Il n'existe
+en revanche pas dans la loi de délai de trente jours dès la délivrance de l'acte de défaut
+de biens après saisie, qui garantirait au poursuivant la continuité de la saisie.
+III.
+En définitive, il y a lieu de constater que
+l'office s'est conformé aux dispositions légales dont le contenu a été rappelé
+plus haut (cf. supra ch. II let. a, b et c). Il en résulte que le recours doit être rejeté.
+L'arrêt est rendu sans frais ni dépens (art. 61 al. 2 et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Luc Recordon, avocat (pour L.________),
+‑
+M. Youri Diserens, agent d'affaires breveté (pour X.________),
+‑
+M. le Préposé à l'Office des poursuites de l'arrondissement de Lausanne-Ouest.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
