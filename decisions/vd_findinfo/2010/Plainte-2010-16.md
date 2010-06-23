@@ -1,0 +1,207 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 16"
+decided: "2010-06-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1897652"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/446.1/art-008.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 16
+
+## Regeste
+
+PLAINTE{LP}, ASSISTANCE JUDICIAIRE, RÉQUISITION DE CONTINUER LA POURSUITE, AVIS DE SAISIE, PRINCIPE DE LA CÉLÉRITÉ | 8 LAJ, 17 LP, 18 LP, 88 LP, 89 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.06.2010 Plainte / 2010 / 16
+
+PLAINTE{LP}, ASSISTANCE JUDICIAIRE, RÉQUISITION DE CONTINUER LA POURSUITE, AVIS DE SAISIE, PRINCIPE DE LA CÉLÉRITÉ | 8 LAJ, 17 LP, 18 LP, 88 LP, 89 LP
+
+TRIBUNAL
+CANTONAL
+15
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 juin 2010
+__________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Denys et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17, 18, 88 et 89 LP; 26 al. 2 LVLP; 8 al. 1 LAJ
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+D.________
+,
+à Orbe, contre la décision rendue le 5 mars 2010, à la suite de l’audience du 28
+janvier 2010, par le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+autorité inférieure de surveillance, rejetant la plainte déposée par le recourant
+contre le procès-verbal de saisie établi dans la poursuite n° 1'901'071'857 de l'
+Office
+des poursuites du Jura - Nord vaudois
+exercée
+contre lui à l'instance de
+W.________
+,
+à Yverdon-les-Bains.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 30 septembre 2009, dans la poursuite n° 1'901'071'857 exercée contre D.________ à l'instance
+de W.________, l'Office des poursuites du Jura - Nord vaudois (ci-après : l'office) a établi
+un procès-verbal de saisie valant acte de défaut de biens pour le montant de 4'716 fr. 25,
+l'office ayant constaté en substance qu'il n'y avait ni biens ni salaire saisissables chez le débiteur.
+D.________ a déposé une plainte contre ce procès-verbal, par lettres des 6 et 19 octobre
+2009, reprochant pour l'essentiel à l'office de ne pas lui avoir transmis copie de la réquisition
+de continuer la poursuite déposée par le créancier.
+L'office s'est déterminé le 23 novembre 2009, concluant au rejet de la plainte. Il a notamment
+indiqué avoir transmis au plaignant une copie de la réquisition de continuer la poursuite le
+14 mai 2009. Le plaignant a contesté avoir reçu cette pièce.
+b)
+Le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois, en sa qualité d'autorité
+inférieure de surveillance
+,
+a convoqué les parties à son audience,
+d'abord fixée au 17 décembre 2009 puis renvoyée au 28 janvier 2010.
+Par lettre du 3 décembre 2009, le plaignant a informé l'autorité inférieure de surveillance
+qu'il ne se présenterait pas à l'audience.
+Le 22 décembre 2009, il a requis de cette autorité qu'elle lui désigne un avocat d'office.
+Celle-ci lui a répondu, par lettre du 24 décembre 2009, qu'elle n'était pas compétente
+pour ce faire et l'a invité à s'adresser au Bureau AJ, dont elle lui a communiqué l'adresse
+complète.
+Par lettre du 28 décembre 2009, le plaignant a à nouveau requis de l'autorité inférieure
+de surveillance la désignation d'un avocat d'office. Le 4 janvier 2010, il a adressé au "Bureau
+judiciaire" une lettre lui demandant de "faire le nécessaire".
+Le 25 janvier 2010, le plaignant a requis le report de l'audience du 28 janvier suivant, pour le motif
+qu'il était sans nouvelle du "Bureau judiciaire". L'audience a été maintenue,
+ce dont le plaignant a été avisé le 27 janvier 2010. Le même jour, le plaignant a
+écrit à l'autorité inférieure de surveillance pour l'informer qu'il ne serait pas
+présent à l'audience du lendemain.
+2.
+Par prononcé rendu sans frais ni dépens le 5 mars 2010, à la suite de l'audience du 28
+janvier précédent à laquelle le plaignant avait fait défaut, le Président du
+Tribunal d'arrondissement de La Broye et du Nord vaudois a rejeté la plainte, considérant en
+bref que le plaignant ne contestait pas un acte précis de l'office en relation avec l'établissement
+du procès-verbal de saisie, mais se bornait à se plaindre de n'avoir pas reçu copie de
+la réquisition de continuer la poursuite, alors que cette pièce, selon les explications de
+l'office qu'il n'y avait pas lieu de mettre en doute, lui avait été envoyée.
+3.
+Le plaignant a recouru
+par acte du 18 mars 2010 contre ce prononcé qui lui avait été notifié le 8 mars 2010,
+concluant à son annulation.
+Par lettre du 1
+er
+avril 2010, l'office a indiqué s'en tenir aux déterminations qu'il avait déposées
+en première instance.
+En droit :
+I.
+Formé en temps utile (art. 18 al. 1 LP – loi fédérale sur la poursuite pour dettes
+et la faillite; RS 281.1 – et 28 al. 1 LVLP – loi vaudoise d'application de la LP; RSV 280.05)
+et comportant des conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le
+recours est recevable.
+II.
+a)
+Au stade du recours, le plaignant ne reproche plus à l'office de ne pas lui avoir transmis une copie
+de la réquisition de poursuite. Avec raison, car ce grief est infondé. Il apparaît que
+l'office a transmis à l'intéressé une copie de la pièce demandée le 14 mai 2009.
+Aucune disposition légale n'exige de l'office qu'il transmette au débiteur copie de la déposée
+par le créancier. Saisi d'une réquisition de continuer la poursuite dans les formes et délai
+légaux, l'office est tenu d'y donner suite en notifiant au poursuivi un avis de saisie, si le débiteur
+est sujet à la poursuite par cette voie (art. 88 et 89 LP). En l'espèce, un tel avis a été
+notifié au recourant, le 2 avril 2009, le convoquant à l'office le 23 avril 2009 afin qu'il
+puisse être procédé à la saisie requise par le créancier, dont le nom, comme
+le numéro de la poursuite concernée et le montant réclamé, était mentionné
+sur ledit avis. Le recourant, après avoir fait défaut par deux fois, s'est finalement présenté
+à l'office le 18 juin 2009. A cette occasion, ou en tout autre temps, il lui était loisible
+de consulter son dossier, qui contient la réquisition de continuer la poursuite litigieuse. Au demeurant,
+cette pièce ne comporte aucune indication dont le poursuivi n'ait pas déjà eu connaissance
+à ce stade ou qui ne lui ait pas été communiquée par les avis et convocations qui
+lui ont été adressés à la suite de la réquisition de continuer la poursuite.
+b)
+Nonobstant l'absence de fondement de la plainte, on doit examiner si la procédure suivie par l'autorité
+inférieure est entachée d'un vice susceptible de justifier l'annulation du prononcé attaqué,
+le recourant reprochant à cette autorité d'avoir statué sur sa plainte avant que ne soit
+rendue une décision sur sa requête d'assistance judiciaire.
+On ne saurait reprocher à l'autorité inférieure de n'avoir pas considéré les
+lettres du recourant des 22 et 28 décembre 2009 comme des requêtes d'assistance judiciaire
+provisoire, faute de demande expresse en ce sens. Au demeurant, de telles requêtes auraient été
+vouées à l'échec vu les conditions posées par l'art. 8 al. 1 LAJ (loi sur l'assistance
+judiciaire en matière civile; RSV 173.81), la plainte apparaissant d'emblée infondée.
+En outre, le recourant avait déjà clairement indiqué dans sa lettre du 3 décembre
+2009 qu'il n'entendait pas comparaître à l'audience. La question de l'assistance judiciaire
+qu'il a invoquée ultérieurement apparaît ainsi n'être qu'un prétexte pour tenter
+de justifier son défaut à une audience à laquelle il avait d'emblée choisi de ne
+pas se présenter. Le recourant a été dûment informé le 27 janvier 2010 que l'audience
+était maintenue. Il lui incombait ainsi de comparaître, ne serait-ce que pour informer le juge
+de l'état d'avancement de ses démarches auprès du Bureau d'assistance judiciaire. Il n'en
+a rien fait, pas plus qu'il n'a produit, que ce soit en première ou en deuxième instance, de
+pièces émanant dudit Bureau. Il résulte de ce qui précède que l'attitude du
+recourant tend essentiellement à retarder l'issue de la procédure par des moyens dilatoires,
+alors qu'une plainte LP doit être traitée avec célérité (art. 26 al. 2 LVLP).
+Une telle attitude est contraire au principe de la bonne foi en procédure. On ne saurait par conséquent
+retenir en l'occurrence que la sauvegarde des droits du recourant a été compromise. Il s'ensuit
+que le prononcé attaqué n'est pas entaché d'une violation d'une règle essentielle
+de la procédure qui justifierait son annulation.
+III.
+En conclusion, le recours doit être rejeté et le prononcé de l'autorité inférieure
+de surveillance confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP;
+RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+23 juin 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. D.________,
+‑
+M. Christophe Savoy, agent d'affaires breveté (pour W.________),
+‑
+M. le Préposé à l'Office des poursuites du Jura - Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
