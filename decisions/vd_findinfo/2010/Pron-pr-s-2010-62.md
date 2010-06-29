@@ -1,0 +1,227 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___62"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 62"
+decided: "2010-06-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/2010062811333054_e.html"
+cites_law: ["switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-069.md", "switzerland/bund/acts/312.0/art-370.md", "switzerland/bund/acts/312.0/art-434.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 62
+
+## Regeste
+
+MISE EN LIBERTÉ PROVISOIRE, SÛRETÉS | 434 CPP, 59 CPP, 69 CPP
+
+## Text
+
+Vaud Tribunal cantonal Tribunal d'accusation 29.06.2010 Pron-prés / 2010 / 62
+
+MISE EN LIBERTÉ PROVISOIRE, SÛRETÉS | 434 CPP, 59 CPP, 69 CPP
+
+TRIBUNAL
+CANTONAL
+263
+PE02.016476-JBN/CMS/AFE
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+29 juin 2010
+________________
+Du 25 juin 2010
+________________
+Présidence
+de               M.   C R
+E U X , président
+Greffier
+:
+M.              Ritter
+*****
+Art.
+59, 69 et 434 CPP
+Vu le jugement rendu le 21 juin 2010, par lequel le Tribunal correctionnel de l’arrondissement
+de La Côte a, notamment, constaté que
+V.________
+s'était rendu coupable d'abus de confiance,
+d'escroquerie, de fraude dans la saisie, de faux dans les certificats et d'infraction à la loi fédérale
+sur les produits thérapeutiques (II), l'a condamné à 29 mois et 25 jours de peine privative
+de liberté, sous déduction de 16 jours de détention avant jugement, ainsi qu'à une
+amende de 10'000 fr., la peine privative de liberté de substitution en cas de non paiement fautif
+de l'amende étant de 100 jours, peine partiellement complémentaire à celles prononcées
+le 18 novembre 1998 par le Tribunal de division 1, le 11 mai 2001 par le Juge d'instruction de Lausanne
+et le 16 juillet 2004 par la Cour de cassation pénale du Tribunal cantonal (III), a assorti cette
+peine d'un sursis partiel de cinq ans portant sur une partie de la peine fixée à 15 mois et
+25 jours (IV) et a ordonné le maintien en détention préventive de V.________ (VI),
+vu la demande de mise en liberté provisoire formée le 22 juin 2010 par V.________,
+vu la déclaration de recours déposée le 24 juin 2010 par le prénommé contre
+ce jugement,
+vu les pièces du dossier;
+attendu que, dès qu'il a reçu le dossier d'une cause relevant de la Cour de cassation pénale,
+le président de cette autorité est compétent pour prendre toute décision urgente
+et, notamment, pour statuer en matière de détention préventive (art. 434 al. 1 et
+2 CPP; Bovay/Dupuis/Monnier/Moreillon/Piguet, Procédure pénale vaudoise, Code annoté,
+3
+ème
+éd., Bâle 2008, n. 1 ad art. 434 CPP; JT 1982 III 117),
+qu'il lui appartient ainsi de se prononcer sur la demande de liberté formée par un accusé
+jugé en contradictoire dont l'arrestation a été ordonnée au cours des débats
+ou à l'issue du jugement et qui recourt contre ledit jugement (Bovay et alii, op. cit., n. 2.1.3
+ad art. 295, p. 319 et la jurisprudence citée, et n. 4 ad art. 370 CPP p. 399);
+attendu que, sitôt qu'un recours est valablement exercé contre un jugement de première
+instance, l'emprisonnement ordonné ou subi avant une décision au fond est assimilé à
+la détention préventive et non à un début d'exécution de peine (CCASS, 7 octobre
+2003, n° 210),
+que, selon l'art. 59 al. 1 CPP, la détention préventive suppose la réunion d'au moins
+deux conditions, dont la première est l'existence de présomptions suffisantes de culpabilité
+(Piquerez, Procédure pénale suisse, Zurich 2000, n° 2329);
+attendu, en l'espèce, que, donnant suite à la réquisition du Ministère public, le
+tribunal correctionnel a ordonné l'arrestation immédiate de l'accusé par jugement incident
+rendu lors de son audience du 16 juin 2010 déjà, avant de confirmer cette mesure dans son jugement
+au fond,
+que les faits à l'origine de la condamnation ont été établis après instruction
+contradictoire,
+qu'ils paraissent solidement étayés,
+que la première condition de l'art. 59 CPP est dès lors réalisée;
+attendu qu'il faut encore que l'intéressé présente un danger pour la sécurité
+ou l'ordre public, que sa fuite soit à craindre ou que sa liberté offre des inconvénients
+sérieux pour l'instruction (art. 59 al. 1 CPP),
+que, de ces trois autres conditions légales, l'une au moins doit être réalisée pour
+justifier la détention préventive,
+que la troisième d’entre elles n’entre plus en considération à ce stade de
+la procédure;
+attendu que le risque pour la sécurité publique correspond au risque de réitération
+ou de poursuite de l’infraction, qui doit être apprécié sur la base d’éléments
+objectifs et sérieux (Bovay et alii, op. cit., n. 2.2.1 ad art. 59 CPP),
+qu’il doit être concret, et non seulement hypothétique (ATF 105 Ia 26, JT 1980 IV 85),
+que la mise en détention préventive ou le maintien de celle-ci pour risque de réitération
+n'est conforme au principe de la proportionnalité que si, d'une part, le pronostic de récidive
+est très défavorable et, d'autre part, les délits à craindre sont de nature grave
+(Bovay et alii, op. cit., nn. 2.2.1 et 2.2.2 ad art. 59 CPP);
+attendu, en l'espèce, que les infractions réprimées par le jugement de première instance
+sont d'une gravité significative,
+que les experts considèrent que le risque de récidive de nouvelles infractions n'est pas exclu,
+qu'il n'en reste pas moins que le jugement retient que le pronostic, sous l'angle du sursis, "n'est
+pas totalement défavorable",
+que l'accusé s'est présenté devant ses juges alors même qu'il réside en France,
+qu'il suit une thérapie,
+qu'il n'y a, en l'état, aucune nouvelle enquête pénale ouverte contre lui,
+qu'il a expressément renoncé à continuer à vendre des substances thérapeutiques,
+actes à l'origine d'une part significative de la condamnation,
+que les infractions contre le patrimoine sont relativement anciennes (cf. jugement, p. 58),
+que le pronostic ne saurait dès lors être tenu pour très défavorable sous l'angle
+du risque de réitération,
+qu'il y a dès lors pas lieu, à défaut de tout danger significatif de réitération,
+d'admettre que l'accusé présente un risque concret pour la sécurité ou l'ordre publics;
+attendu qu'outre cette condition déduite de l'art. 59 al. 1 CPP, il y a lieu de d'examiner le risque
+de fuite, mentionné par la même disposition,
+que le risque de fuite existe en soi dans toute procédure pénale,
+que l’autorité doit en apprécier la gravité dans chaque cas particulier,
+qu'il ne suffit pas que la fuite soit objectivement possible, mais qu'il faut encore faut-il que le risque
+de voir le condamné se soustraire à la poursuite pénale ou, comme en l'espèce, à
+l’exécution d’un jugement présente, concrètement, une certaine vraisemblance,
+que, pour apprécier le risque de fuite, il faut donc examiner la situation concrète de l’intéressé
+et prendre en compte, notamment, son caractère, sa moralité, une éventuelle absence de
+domicile fixe, sa profession, ses ressources, ses liens familiaux et ses contacts à l'étranger
+(Bovay et alii, op. cit., n. 2.4.2 ad art. 59 CPP; ATF 125 I 60, c. 3b; 117 Ia 69, c. 4a, JT 1993 IV
+59; ATF 108 Ia 64, c. 3; 107 Ia 3, c. 6),
+qu'à elle seule, la perspective d’une longue peine privative de liberté n’est pas
+déterminante,
+qu'elle permet toutefois souvent de présumer l’existence d’un risque de fuite (ATF 125
+I 60, précité),
+que, lorsque le maintien en détention n'est motivé que par la crainte de voir l'accusé
+se soustraire par la fuite à sa comparution ultérieure devant la juridiction de jugement, respectivement
+à l'exécution de sa peine une fois la sanction définitivement fixée, comme tel est
+le cas en l'espèce, la libération provisoire de l'accusé doit être ordonnée
+s'il est possible d'obtenir de lui des garanties assurant cette comparution,
+que l'autorité doit déterminer si le risque de fuite peut être supprimé ou diminué
+par une mesure moins rigoureuse, telle l'assignation à résidence, le dépôt de pièces
+d'identité ou celui de sûretés selon l'art. 69 CPP (Bovay et alii, op. cit., n. 4 ad art.
+69 CPP),
+que le montant de la garantie doit être fixé selon l'intérêt public à la comparution
+du prévenu à toute réquisition du juge, intérêt qui dépend notamment de
+la gravité des faits retenus à sa charge d'une part, et de la situation personnelle du prévenu,
+d'autre part (ibid.);
+attendu, en l'espèce, que l'accusé, bien que ressortissant suisse, vit en France depuis plusieurs
+années, comme déjà relevé,
+qu'il est en instance de divorce,
+que ses enfants son majeurs,
+que ses activités son centrées à l'étranger, notamment en France,
+qu'il a tenté de repousser les audiences pénales en tentant de faire usage de certificats médicaux,
+alors même que son état de santé lui permettait de comparaître à dire d'expert,
+que la peine privative de liberté prononcée à son égard est d'une quotité significative,
+même abstraction faite de la part assortie du sursis,
+qu'il n'en reste cependant pas moins que, comme déjà relevé, l'accusé s'est présenté
+de lui-même devant ses juges,
+que, si le risque de fuite apparaît donc concret au vu de la relative faiblesse des attaches de
+l'accusé avec la Suisse, il peut néanmoins y être obvié par des mesures de garantie,
+que, dans sa requête de mise en liberté provisoire, l'accusé a lui-même offert de
+fournir une garantie,
+que, dans son cas, vu son domicile ou, à tout le moins, sa résidence en France, seuls entrent
+en considération un dépôt ou une caution, bancaire ou autre, en application de l'art.
+69 CPP (cf. Bovay et alii, op. cit., n. 2.4.5. ad art. 59 CPP),
+que le montant des sûretés doit dépendre de la gravité des faits retenus à la
+charge de l'intéressé et de sa situation personnelle (cf. Bovay et alii, op. cit., n. 2.4.
+ad art. 59 CPP),
+que, si sa situation financière est obérée, il n'en reste pas moins que l'accusé,
+né en 1962 et au bénéfice d'une formation universitaire, exerce une activité lucrative
+qui lui rapporte en moyenne 5'000 fr. par mois (cf. jugement, p. 25) et qu'il est propriétaire d'une
+villa à [...],
+que, tout bien pesé, des sûretés à hauteur de 30'000 fr. paraissent adéquates
+dans le cas particulier,
+que dans ces circonstances, la libération requise par l'intéressé ne pourra lui être
+accordée qu'à la condition qu'il fournisse, sous forme de dépôt ou de cautionnement,
+auprès du greffe de la cour de céans, des sûretés à hauteur de 30'000 fr. jusqu'à
+droit connu sur le recours interjeté à l'encontre du jugement du 21 juin 2010 du Tribunal correctionnel
+de l'arrondissement de La Côte,
+que les frais de l'arrêt sont laissés à la charge de l'Etat.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+La requête de mise en liberté formée par V.________ est accordée, pour autant qu'il
+ne soit pas détenu pour une autre cause, à la condition que l'intéressé fournisse,
+sous forme de dépôt ou de cautionnement, des sûretés à hauteur de 30'000 fr.
+(trente mille francs) jusqu'à droit connu sur le recours interjeté à l'encontre du jugement
+rendu le 21 juin 2010 par le Tribunal correctionnel de l'arrondissement de La Côte.
+II.
+Les frais d’arrêt sont laissés à la charge de l'Etat.
+III.
+L'arrêt est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Paul Marville, avocat (pour V.________),
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+Département de l'intérieur, Office d'exécution des peines,
+-
+M. le Surveillant de la Prison du Bois-Mermet,
+‑
+M. le Président du Tribunal correctionnel de l'arrondissement de La Côte,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Conformément à l'art. 434 al. 2 CPP, les parties peuvent déposer un recours motivé
+dans les dix jours dès la communication de la présente décision auprès de la Cour
+de cassation pénale du Tribunal cantonal, ledit recours devant contenir la désignation de la
+décision attaquée, les conclusions en réforme ou en nullité et les motifs à
+l'appui de ces conclusions.
+Le greffier :
