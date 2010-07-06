@@ -1,0 +1,515 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 17"
+decided: "2010-07-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1915738"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-274.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-279.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 17
+
+## Regeste
+
+PROCÈS-VERBAL DE SÉQUESTRE, OPPOSITION{PROCEDURE}, ORDONNANCE DE SÉQUESTRE, PLAINTE{LP}, OFFICE DES POURSUITES | 17 LP, 276 LP, 278 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 06.07.2010 Plainte / 2010 / 17
+
+PROCÈS-VERBAL DE SÉQUESTRE, OPPOSITION{PROCEDURE}, ORDONNANCE DE SÉQUESTRE, PLAINTE{LP}, OFFICE DES POURSUITES | 17 LP, 276 LP, 278 LP
+
+TRIBUNAL
+CANTONAL
+17
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 juillet 2010
+__________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 276 et 278 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+U.________
+,
+à Paris (France),
+T.________
+,
+à Puteaux (France) et
+O.________
+Sàrl
+, à Paris (France), contre la décision
+rendue le 11 décembre 2009, à la suite de l’audience du 1
+er
+décembre 2009, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, déclarant irrecevable la plainte déposée par les recourants
+contre le procès-verbal de séquestre établi le 6 avril 2009 par l'
+OFFICE
+DES POURSUITES DE L'ARRONDISSEMENT DE LAUSANNE-OUEST
+sur
+requête de
+A.Q.________
+,
+à Crissier, et
+I.________
+,
+à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 4 juin 2007, A.Q.________, U.________, O.________ Sàrl et T.________ ont signé une convention
+d'actionnaires qui prévoit notamment la transformation d'A.________ Sàrl en société
+anonyme (A.________ SA) au capital de 100'000 francs, divisé en 10'000 actions d'une valeur nominale
+de 10 francs réparties de la manière suivante :
+-
+A.Q.________ : 70 %
+-
+U.________ : 12,5 %
+-
+O.________ Sàrl : 12, 5 %
+-
+T.________ : 5 %.
+Une lettre d'intention a été signée le même jour par les mêmes personnes, A.Q.________
+signant en outre pour A.________ Sàrl et Q.________ Sàrl. Selon ce doument, en contrepartie
+de la cession par A.Q.________ de 30 % du capital action de T.________ devait lui verser 27'500 fr. tandis
+qu'U.________ et  O.________ Sàrl lui verseraient chacun 68'750 francs.
+La réquisition d'inscription au registre du commerce de la nouvelle raison sociale A.________ SA
+a été signée le 27 juillet 2007 par ses administrateurs, soit A.Q.________, G.________
+et K.________. Elle a fait l'objet d'une publication dans la FOSC du 5 mars 2008.
+Le procès-verbal de la séance du conseil d'administration d'A.________ SA du 26 septembre 2007
+mentionne en particulier ce qui suit :
+"
+5.
+Emission de certificats d'actions
+Les certificats
+d'actions suivants, représentant l'intégralité du capital-actions de la société
+sont émis ce jour, soit :
+- Certificat
+no1, représentatif de 6'900 actions no 1 à 6900, pour un montant total de CHF 69'000, au nom
+de A.Q.________, à Porrentruy;
+- Certificat
+no 2, représentatif de 1'249 actions no 6901 à no 8149, pour un montant total de CHF 12'490,
+au nom d'U.________, à Paris, France;
+- Certificat
+no 3, représentatif de 1 action no 8150, pour un montant total de CHF10, au nom de G.________, à
+Lausanne;
+- Certificat
+no 4, représentatif de 1'249 actions no 8151 à no 9399, pour un montant total de CHF 12'490,
+au nom de O.________ Sàrl, à Paris, France;
+- Certificat
+no 5, représentatif de 1 action no 9400, pour un montant total de CHF 10, au nom de K.________,
+à Paris;
+- Certificat
+no 6, représentatif de 500 actions no 9401 à 9900, pour un montant total de CHF 5'000,
+au nom de T.________, à Puteaux, France;
+- Certificat
+no 7, représentatif de 100 actions no 9901 à 10'000, pour un montant total de CHF 1'000, au
+nom de B.Q.________, à Marseille, France."
+6.
+Consignation des certificats d'actions
+Le conseil
+d'administration décide à l'unanimité de consigner les certificats d'actions au porteur
+en l'étude de Me G.________, (…) en application de l'article 3 de la Convention d'actionnaires
+signée le 4 juin 2008."
+On peut lire dans le procès-verbal de la séance du 8 janvier 2008 du conseil d'administration
+d'A.________ SA :
+"Me G.________
+rappelle que les actions d'A.________ SA sont au porteur. Me G.________ se propose de les émettre
+et de les conserver dans son coffre au nom des actionnaires, ce qui est accepté."
+2.
+Par requête de mesures provisionnelles et préprovisionnelles déposée le 30 avril
+2008, U.________, T.________ et O.________ Sàrl ont saisi le Juge instructeur de la Cour civile
+du Tribunal cantonal d'une requête de mesures provisionnelles et préprovionnelles visant notamment
+à interdire à A.Q.________, tant en sa qualité d'actionnaire qu'en sa qualité de
+membre du conseil d'administration de la société A.________ SA de tenir une assemblée
+générale extraordinaire ayant pour ordre du jour la destitution du Conseil d'administration
+de K.________ et G.________ jusqu'à droit connu sur le fond du litige opposant K.________, O.________
+Sàrl et T.________ à A.Q.________.
+Il ressort en particulier de l'ordonnance de mesures provisionnelles rendue le 17 juillet 2008 par le
+Juge instructeur de la Cour civile que les administrateurs d'A.________ SA K.________ et G.________ ont
+refusé de prendre part à l'assemblée générale du 20 juin 2008, au cours de laquelle
+ils n'ont pas été réélus.
+Dans le cadre de la procédure de mesures provisionnelles précitée, U.________, O.________
+Sàrl et T.________ ont été condamnés à verser à A.Q.________ à titre
+de dépens les sommes de 4'560 fr., 2'500 fr. et 3'000 francs.
+Par lettres des 4 novembre 2008 et 15 décembre 2008, le conseil de A.Q.________, Me I.________,
+a réclamé au conseil d'U.________, O.________ Sàrl et T.________ le paiement de ces dépens.
+Le 8 janvier 2009, il réclamait, outre les dépens précités, un montant de 83'500
+fr. représentant un solde dû en raison de la cession des parts sociales d'A.________ Sàrl.
+3.
+Le 6 mars 2009, l'Office
+des poursuites de l'arrondissement de Lausanne-Ouest (ci-après l'office) a enregistré deux
+ordonnances de séquestre rendues contre U.________ par le Juge de paix des districts de Lausanne
+et Ouest Lausannois, à savoir :
+-
+séquestre n° 5'022'930
+créancier
+: A.Q.________
+titre
+de la créance ou cause de l'obligation :
+Convention
+d'actionnaires conclue en date du 4 juin 2007, lettre d'intention conclue en date du 4 juin 2007 et courrier
+de Me I.________ adressé à Me G.________ en date du 8 janvier 2009 pour un montant de 83'500
+fr. plus intérêt à 5 % l'an dès le 20 janvier 2009
+Emolument de
+séquestre : 480 fr.,
+biens à
+séquestrer :
+Actions au
+porteur de la société A.________ SA numérotées de 6'901 à 9'900 et appartenant
+aux débiteurs pour un montant de Fr. 83'500.-;
+-
+séquestre n° 5'022'944
+créancier
+I.________
+titre
+de la créance ou cause de l'obligation :
+Ordonnance
+de mesures provisionnelles du 17 juillet 2008 + lettre de mise en demeure du 4.11.2008 pour un montant
+de 4'560 fr., plus intérêt à 5 % l'an dès le 5 novembre 2008,
+Arrêt
+sur appel en date du 30 octobre 2008 + lettre de mise en demeure du 4.11.2008 pour un montant de 2'500
+fr. avec intérêt à 5 % l'an dès le 5 novembre 2008,
+Ordonnance
+de mesures provisionnelles en date du 1.12.2008 + lettre de mise en demeure du 8.01.2009. Cession de
+créance de Me Nicolas Rouiller du 25 février 2009, pour un montant de 3'000 fr., plus intérêt
+à 5 % l'an dès le 9 janvier 2009
+Emolument de
+séquestre : 360 fr.
+biens à
+séquestrer :
+Actions au
+porteur de la société A.________ SA numérotées de 3'901 à 9'900 et appartenant
+aux débiteurs pour un montant de Fr. 10'060.-.
+Le 20 mars 2009, l'office a enregistré deux ordonnances de séquestre rendues par le Juge de
+paix des districts de Lausanne et Ouest lausannois contre T.________, à savoir :
+-
+séquestre n° 5'027'704
+créancier
+: A.Q.________
+titre
+de la créance et cause de l'obligation :
+Convention
+d'actionnaires conclue en date du 4 juin 2007, lettre d'intention conclue en date du 4 juin 2007 et courrier
+de Me I.________ adressé à Me G.________ en date du 8 janvier 2009 pour un montant de 83'500
+fr. plus intérêt à 5 % l'an dès le 20 janvier 2009
+Emolument de
+séquestre : 480 fr.
+biens à
+séquestrer :
+Actions au
+porteur de la société A.________ SA numérotées de 6'901 à 9'900 et appartenant
+aux débiteurs pour un montant de Fr. 83'500.-;
+-
+séquestre n° 5'027'602
+créancier
+I.________
+titre
+de la créance ou cause de l'obligation :
+Ordonnance
+de mesures provisionnelles du 17 juillet 2008 + lettre de mise en demeure du 04.11.2008 pour un montant
+de 4'560 fr., plus intérêt à 5 % l'an dès le 5 novembre 2008,
+Arrêt
+sur appel en date du 30 octobre 2008 + lettre de mise en demeure du 4.11.2008 pour un montant de 2'500
+fr. avec intérêt à 5 % l'an dès le 5 novembre 2008,
+Ordonnance
+de mesures provisionnelles en date du 01.12.2008 + lettre de mise en demeure du 08.01.2009. Cession de
+créance de Me Nicolas Rouiller du 25 février 2009, pour un montant de 3'000 fr., plus intérêt
+à 5 % l'an dès le 9 janvier 2009
+Emolument de
+séquestre : 360 fr.
+biens à
+séquestrer :
+Actions au
+porteur de la société A.________ SA numérotées de 3'901 à 9'900 et appartenant
+au débiteur pour un montant de Fr. 10'060.-".
+Le 20 mars 2009 également, l'office a enregistré encore deux ordonnances de séquestre
+rendues par le même magistrat contre O.________ Sàrl, à savoir :
+-
+séquestre n° 5'027'711
+créancier
+A.Q.________
+titre
+de la créance et cause de l'obligation :
+Convention
+d'actionnaires conclue en date du 4 juin 2007, lettre d'intention conclue en date du 4 juin 2007 et courrier
+de Me I.________ adressé à Me G.________ en date du 8 janvier 2009 pour un montant de 83'500
+fr. plus intérêt à 5 % l'an dès le 20 janvier 2009
+Emolument de
+séquestre : 480 fr.
+biens à
+séquestrer :
+Actions au
+porteur de la société A.________ SA numérotées de 6'901 à 9'900 et appartenant
+au débiteur pour un montant de Fr. 83'500.-;
+-
+séquestre n° 5'027'592
+créancier
+I.________
+titre
+de la créance ou cause de l'obligation :
+Ordonnance
+de mesures provisionnelles du 17 juillet 2008 + lettre de mise en demeure du 04.11.2008 pour un montant
+de 4'560 fr., plus intérêt à 5 % l'an dès le 5 novembre 2008,
+Arrêt
+sur appel en date du 30 octobre 2008 + lettre de mise en demeure du 04.11.2008 pour un montant de 2'500
+fr. avec intérêt à 5 % l'an dès le 5 novembre 2008,
+Ordonnance
+de mesures provisionnelles en date du 01.12.2008 + lettre de mise en demeure du 08.01.2009. Cession de
+créance de Me Nicolas Rouiller du 25 février 2009, pour un montant de 3'000 fr., plus intérêt
+à 5 % l'an dès le 9 janvier 2009
+Emolument de
+séquestre : 360 fr.
+biens à
+séquestrer :
+Actions au
+porteur de la société A.________ SA numérotées de 3'901 à 9'900 et appartenant
+au débiteur pour un montant de Fr. 10'060.-.
+4.
+Il ressort d'un procès-verbal
+de séquestre, daté du 6 avril 2009 que, le 17 mars 2009, A.Q.________ a remis à l'office
+trois certificats d'actions portant sa signature et datés du 29 janvier 2009. L'office a dès
+lors frappé de séquestre les biens suivants :
+1
+1 certificat d'actions de la société A.________ SA (…) No 2 pour 1300 actions au porteur
+No 6901 à No 8200 d'une valeur nominale totale de Fr. 13'000 francs suisses.
+2
+1 certificat d'actions de la société A.________ SA
+(…) No 3 pour 1200 actions au porteur No 8201 à No 9400 d'une valeur nominale totale de Fr.
+12'000 francs suisses.
+3
+1 certificat d'actions de la société A.________ SA
+(…) No 4 pour 500 actions au porteur No 9401 à No 9900 d'une valeur nominale totale de Fr.
+5'000 francs suisses.
+Le procès-verbal de séquestre précise que sa notification interviendra par voie diplomatique
+au moment de la procédure de validation au sens de l'art. 279 LP avec le commandement de payer y
+relatif.
+Le procès-verbal de séquestre du 6 avril 2009 ainsi que les commandements de payer en validation
+de ce séquestre, établis le 17 avril 2009, ont été notifiés, par voie diplomatique
+à T.________ et à U.________ le 14 octobre 2009.
+Par courrier du 23 octobre 2009, le conseil de T.________, U.________ et O.________ Sàrl a indiqué
+que ses clients faisaient opposition aux commandements de payer qui leur ont été ou seront
+notifiés.
+5.
+Par plainte du 26 octobre
+2009, O.________ Sàrl, T.________ et U.________ ont conclu principalement à la modification
+du procès-verbal de séquestre en ce sens qu'il est constaté que le séquestre n'a
+pas porté et subsidiairement à ce que l'office soit invité à rectifier le procès-verbal
+de séquestre après s'être assuré que les certificats d'actions en sa possession sont
+conformes à la composition du capital-actions qu'ils attestent.
+L'office intimé s'est déterminé le 23 novembre 2009, proposant le rejet de la plainte.
+Dans leurs déterminations respectives du 25 novembre 2009, les intimés I.________ et A.Q.________
+ont conclu principalement à l'irrecevabilité de la plainte et subsidiairement à son rejet.
+A l'audience du 1
+er
+décembre 2009, les plaignants ont produit la copie du dispositif d'un jugement, rendu le 25 novembre
+2009 par la Présidente du Tribunal d'arrondissement de Lausanne, déclarant nulles les décisions
+prises par l'assemblée générale d'A.________ SA  qui s'est tenue le 20 juin 2008.
+6.
+Par prononcé du 11
+décembre 2009, le président du Tribunal d'arrondissement de Lausanne, statuant en sa qualité
+d'autorité inférieure de surveillance en matière de poursuites pour dettes et faillites,
+a déclaré irrecevable la plainte et a rendu sa décision sans frais.
+En droit, le premier juge a relevé que la voie de la plainte était ouverte contre tous les
+actes administratifs faits en application de la LP par les autorités de poursuite et faillite et
+que la plainte pouvait donc être dirigée contre l'exécution du séquestre, mais non
+contre l'ordonnance du juge du séquestre, qui ne peut être contestée que dans le cadre
+de la procédure d'opposition. Il a considéré qu'en l'espèce, l'office s'était
+conformé aux ordonnances de séquestre et qu'il ne lui appartenait pas d'examiner, comme le
+demandaient les plaignants, la conformité des certificats d'actions séquestrés avec les
+décisions prises par le conseil d'administration le 26 septembre 2007. Par surabondance, l'autorité
+de surveillance a relevé que les mesures prises par l'office n'apparaissaient pas contraires à
+la loi ou injustifiées.
+Les plaignants ont recouru par acte 23 décembre 2009, concluant à la recevabilité et à
+l'admission de la plainte ainsi qu'à la modification du procès-verbal de séquestre en
+ce sens qu'il est constaté que le séquestre n'a pas porté.
+A.Q.________ a déclaré le 10 février 2010 s'en remettre à justice.
+L'office intimé s'est référé aux déterminations qu'il avait déposées
+devant l'autorité inférieure de surveillance.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+II.
+a)
+Selon
+l'art. 17 al. 1 LP, la voie de la plainte est ouverte lorsqu'une mesure ou une décision de l'office
+est contraire à la loi ou ne paraît pas justifiée en fait.
+Par mesure au sens de la disposition précitée, il faut entendre tout acte d'autorité accompli
+par l'office ou par un organe de la poursuite en exécution d'une mission officielle dans une affaire
+concrète. L'acte de poursuite doit être de nature à créer, modifier ou supprimer
+une situation du droit de l'exécution forcée dans l'affaire en question et il peut se manifester
+de toutes sortes de façons (ATF 129 III 400
+c.
+1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes
+et la faillite, nn. 11-12 ad art. 17 LP).
+Le séquestre, acte matériel produisant, à l'instar de la saisie, des effets externes,
+est susceptible d'être attaqué par la voie de la plainte et du recours.
+b)
+Selon
+la jurisprudence antérieure au 1
+er
+janvier 1997, les autorités de poursuite étaient habilitées à refuser l'exécution
+d'une ordonnance de séquestre notamment lorsque les biens à séquestrer n'appartenaient
+à l'évidence pas au débiteur. Toutefois, depuis l'entrée en vigueur du nouveau droit
+de la poursuite le 1
+er
+janvier 1997, les compétences des autorités de poursuite sont circonscrites au contrôle
+de la régularité formelle de l'ordonnance de séquestre et aux mesures proprement dites
+d'exécution du séquestre prévues aux art. 92 à 106 LP (ATF 129 III 203).
+Dans l'arrêt précité, le Tribunal fédéral a considéré que, selon le
+droit actuellement en vigueur, la plainte à l'autorité de surveillance était ainsi recevable
+notamment pour les griefs suivants : l'exécution d'un séquestre ordonné par une autorité
+incompétente; l'exécution tardive ou incorrecte d'une ordonnance de séquestre; l'exécution
+d'une ordonnance de séquestre insuffisante au plan formel, par exemple parce qu'elle ne contient
+pas toutes les indications exigées par l'art. 274 al. 2 LP ou parce qu'elle ne désigne pas
+les biens à séquestrer avec suffisamment de précision; la mise sous séquestre d'objets
+insaisissables; les défauts manifestes de l'ordonnance de séquestre, tels que l'indication
+d'objets à séquestre inexistants ou la procédure de séquestre engagée contre
+une personne déjà décédée (c. 2.3). En revanche, les griefs touchant aux conditions
+de fond du séquestre, en particulier ceux qui concernent la propriété ou la titularité
+des biens à séquestre et l'abus de droit relèvent de la compétence du juge de l'opposition
+prévue à l'art. 278 LP (c. 2.4).
+L'autorité inférieure de surveillance s'est précisément fondée sur ces considérations
+pour  prononcer l'irrecevabilité de la plainte, jugeant que les doutes relatifs à la propriété
+des certificats d'action séquestrés n'entraient pas dans le contrôle que peut exercer
+l'office, mais relevaient de la procédure d'opposition au séquestre de l'art. 278 LP.
+Les recourants, invoquant la même jurisprudence, font valoir que la liste des griefs pouvant être
+examinés par les autorités de surveillance contenue dans l'arrêt précité n'est
+pas exhaustive mais exemplaire, vu l'utilisation du terme "notamment". Ainsi, l'office devrait
+refuser d'exécuter le séquestre lorsque les biens à séquestrer, au dire même
+du créancier ou de toute évidence, n'appartiennent pas au poursuivi, comme l'a relevé
+le Tribunal fédéral dans un arrêt non publié du 4 juillet 2001 (TF 7B130/2001).
+La référence à ce dernier arrêt est vaine. La jurisprudence qui y est citée
+(ATF 109 III 120 et 107 III 33) correspond en effet à celle qui était en vigueur sous l'ancien
+droit. Or, le Tribunal fédéral a clairement exposé (ATF 129 III 203 précité,
+c. 2.2), que cette ancienne jurisprudence "ne se justifie plus sous le nouveau droit, dès lors
+que celui-ci, en introduisant la procédure d'opposition à l'ordonnance de séquestre (art.
+278 LP), permet désormais le contrôle de cette dernière par le juge quant aux conditions
+de fond du séquestre, y compris la désignation "des biens appartenant au débiteur"
+(art. 272 al. 1 ch. 3 LP) qui fait partie de l'ordonnance en vertu de l'art. 274 al. 2 ch. 4 LP (…)
+Les griefs qui concernent la propriété ou la titularité des biens à séquestrer
+doivent donc être invoqués dans la procédure d'opposition; celui d'abus de droit également."
+La décision invoquée par les recourants (TF 7B130/2001 du 4 juillet 2001), a certes été
+rendue postérieurement à l'entrée en vigueur du nouveau droit, mais le Tribunal fédéral
+s'est précisément déterminé sur sa portée en ces termes :
+"Le
+fait, invoqué par l'intimée, que le Tribunal fédéral a déjà statué,
+sous le nouveau droit, dans une affaire semblable sans remettre en cause la recevabilité de la plainte
+(arrêt 7B.130/2001 du 4 juillet 2001, partiellement publié in SJ 2001 I p. 616) ne saurait
+avoir d'incidence sur la présente décision. D'ailleurs, à la différence de la présente
+espèce, il n'a alors pas du tout été reproché à l'autorité cantonale surveillance
+d'être entrée en matière sur la plainte. Le Tribunal fédéral ne pouvait remédier
+à l'absence de toute conclusion ou moyen sur ce point (ATF 129 III 203 précité, c. 2.4).
+c)
+Cela
+étant, même si la liste tirée du considérant 2.3 de l'arrêt ATF 129 III 203
+est exemplative, comme le soutiennent les recourants, elle doit se comprendre au regard des principes
+exposés plus haut dans le même considérant : ce que l'office peut contrôler, et ce
+qui peut faire l'objet d'une plainte LP, c'est la régularité formelle de l'ordonnance de séquestre.
+Pour le surplus, les compétences de l'autorité de poursuite doivent être circonscrites
+aux mesures propres dite d'exécution du séquestre, soit notamment à celles concernant
+la saisissabilité des biens, la sauvegarde des biens saisis et la procédure de revendication.
+Ainsi, le Tribunal fédéral a récemment confirmé que "l'autorité de surveillance
+n'est pas compétente pour recevoir une plainte concluant à l'annulation du séquestre;
+elle ne peut être saisie que d'une plainte contre l'exécution du séquestre, dont les conclusions
+ne peuvent viser à annuler un séquestre" (TF 5A_743/2008, du 27 janvier 2009).
+Dans le cas d'espèce, les recourants ont tout d'abord fait valoir, pour l'essentiel, que les certificats
+d'actions sur lesquels a porté le séquestre ne leur appartenaient pas. Il s'agit précisément
+du type de grief qui est exclu du champ de la plainte au vu des principes précités. Ce serait
+encore le cas même s'il était manifeste que ces certificats ne leur appartenaient pas –
+ce qui, du reste, n'est pas tout à fait vrai (il est exact que ces certificats sont au porteur et
+qu'ils ont été apportés à l'office par le poursuivant; il est toutefois possible
+qu'un titre au porteur appartienne à une autre personne que celle qui en a la possession immédiate).
+L'argument des recourants, selon lequel l'office aurait l'obligation, dans un but d'intérêt
+public, de vérifier que les biens séquestrés appartiennent au poursuivi, se heurte également
+à la jurisprudence qui précède. On ne peut simultanément affirmer que cette question
+n'a pas à être examinée par le biais de la plainte LP, et que l'office aurait néanmoins
+l'obligation de l'examiner dans un but d'intérêt public.
+En deuxième instance, les recourants font valoir que les certificats seraient faux ou tout au moins
+sans valeur. A l'appui de leur moyen, ils invoquent le jugement rendu le 25 novembre 2009 par la Présidente
+du Tribunal d'arrondissement de Lausanne prononçant que les décisions prises par l'assemblée
+générale d'A.________ SA, qui s'est tenue le 20 juin 2008 sont nulles. Ils en déduisent
+que les certificats que A.Q.________ aurait émis par la suite, et qui auraient été séquestrés,
+seraient nuls.
+Les certificats litigieux ont en effet été émis le 29 janvier 2009, après l'assemblée
+générale visée par le jugement précité. Il ressort notamment de l'ordonnance
+de mesures provisionnelles rendue le  par le Juge instructeur de la Cour civile que, lors de cette
+assemblée, K.________ et G.________ ont été démis de leurs fonctions d'administrateurs.
+Mais là encore, le moyen déborde de ce qui doit être examiné dans le cadre d'une
+plainte LP. Comme rappelé ci-dessus, seules peuvent faire l'objet d'une plainte LP la régularité
+formelle de l'ordonnance de séquestre et des mesures d'exécution du séquestre. Or, ici,
+les recourants font valoir que le séquestre aurait porté sur des certificats qui seraient sans
+valeur, du fait qu'ils ne représenteraient pas les actions qui, elles, sont – cela n'est pas
+contesté – la propriété des recourants. Cette question relève à l'évidence
+du fond et ne peut être traitée que dans une procédure d'opposition à l'ordonnance
+de séquestre, dans laquelle le requérant doit rendre vraisemblable – notamment- le fait
+qu'il existe des biens appartenant au débiteur (art. 272 al. 1 ch. 3 LP) (Chaix, in SJ 2005 II 357
+ss, spéc. 363-364).
+En l'espèce, il suffit de constater, comme l'a fait l'autorité inférieure de surveillance,
+que les certificats d'actions séquestrés correspondent en apparence aux actions décrites
+dans l'ordonnance de séquestre, même s'il est possible que ces certificats ne représentent
+en réalité aucune des actions visées, question sur laquelle l'office n'est manifestement
+pas habilité à se déterminer.
+III.
+Le recours doit en conséquence être rejeté et le prononcé entrepris confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 litt.
+a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+6 juillet 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Christophe Wilhelm, avocat (pour O.________ Sàrl, T.________ et U.________),
+‑
+Me Antoine Eigenmann, avocat (pour A.Q.________),
+‑
+M. le Préposé à l'Office des poursuites de l'arrondissement de Lausanne-Ouest.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
