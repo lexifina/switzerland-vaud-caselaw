@@ -1,0 +1,131 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___55"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 55"
+decided: "2010-07-06"
+published: "2010-06-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100616111831619_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-424.md", "switzerland/bund/acts/312.0/art-425.md", "switzerland/bund/acts/312.0/art-431.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 55
+
+## Regeste
+
+ACTE DE RECOURS, DÉCISION D'IRRECEVABILITÉ, DÉLAI | 424 CPP, 425 CPP, 431 al. 1 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 14.06.2010 Pron-prés / 2010 / 55
+
+ACTE DE RECOURS, DÉCISION D'IRRECEVABILITÉ, DÉLAI | 424 CPP, 425 CPP, 431 al. 1 CPP
+
+TRIBUNAL
+CANTONAL
+241
+PE09.012451-LML/CMS/JMR
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+6 juillet 2010
+_________________
+Du 14 juin 2009
+_____________
+Présidence
+de               M.
+Creux
+,
+président
+Greffière
+:              Mme
+Brabis
+*****
+Art.
+424, 425, 431 al. 1 CPP
+Vu le jugement du 3 mai 2010, par lequel le Tribunal de police de l'arrondissement de Lausanne a constaté
+que J.________ s'était rendu coupable de tentative d'induction de la justice en erreur et de contravention
+à la Loi fédérale sur les stupéfiants (I), condamné l'intéressé à
+une peine pécuniaire de 60 jours-amende, la quotité du jour-amende étant fixée à
+30 fr., et a une amende de 300 fr. (II), suspendu l'exécution de la peine pécuniaire et fixé
+un délai d'épreuve de 4 ans (III), dit qu'en cas de non paiement de l'amende, la peine privative
+de liberté de substitution était de 10 jours (IV), renoncé à révoquer le sursis
+de cinq ans assortissant la peine de deux mois d'emprisonnement prononcée contre J.________ le 20
+avril 2005 par le Tribunal de police de Lausanne, mais adressé un avertissement formel à l'intéressé
+et prolongé ledit sursis de deux ans (V) et mis les frais de justice, par 1'541 fr., à sa charge
+(VI),
+vu la déclaration de recours du 10 mai 2010 déposée le lendemain par J.________ contre
+ce jugement,
+vu le courrier du greffe du Tribunal d'arrondissement de Lausanne du 26 mai 2010 impartissant au recourant
+un délai de dix jours pour déposer un mémoire motivé,
+vu le mémoire de recours déposé le 9 juin 2010 par J.________,
+vu les pièces du dossier;
+attendu que celui qui, comme en l'espèce, se borne à déposer une déclaration de recours
+dépourvue de conclusions et non motivée doit produire, conformément à l'art. 425
+al. 1 CPP, un mémoire motivé dans les dix jours dès réception d'une copie du jugement
+attaqué,
+que le greffe envoie alors au recourant, sous pli recommandé et dans le plus bref délai, une
+copie complète du jugement attaqué et lui donne connaissance de l'art. 425 CPP (art. 424 al.
+2 CPP),
+qu'en vertu de la disposition précitée, le recourant dispose ensuite d'un délai de dix
+jours pour produire un mémoire motivé,
+que suite à la déclaration de recours de J.________, intervenue le lendemain de l'expiration
+du délai de recours (art. 424 CPP), le greffe du Tribunal d'arrondissement de Lausanne lui a adressé
+une copie complète du jugement,
+que cet envoi a été expédié le 26 mai 2010 sous lettre recommandée avec accusé
+de réception,
+qu'il a été retiré le 27 mai 2010,
+que le délai pour produire un mémoire motivé expirait le 7 juin 2010, conformément
+aux articles 132 et 133 CPP,
+que J.________ a déposé un mémoire complémentaire au greffe du Tribunal d'arrondissement
+de Lausanne en date du 9 juin, soit 2 jours après l'échéance du délai de l'art. 425
+al. 1 CPP,
+que, partant, le recours est manifestement irrecevable et doit être écarté préjudiciellement
+(art. 431 al. 1 CPP),
+qu'enfin, les frais de deuxième instance seront supportés par le recourant, conformément
+à l'art. 450 al. 1 CPP.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+Le recours est écarté préjudiciellement.
+II.
+Les frais de deuxième instance, par 300 fr. (trois cents francs), sont mis à la charge
+du recourant.
+III.
+L'arrêt est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+M. J.________,
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+M. le Président du Tribunal de l'arrondissement de Lausanne,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+La greffière :
