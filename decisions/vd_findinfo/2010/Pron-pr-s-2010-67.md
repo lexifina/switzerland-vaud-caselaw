@@ -1,0 +1,206 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___67"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 67"
+decided: "2010-07-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/2010070808210959_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-103.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-434.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 67
+
+## Regeste
+
+MISE EN LIBERTÉ PROVISOIRE | 434 CPP, 59 CPP
+
+## Text
+
+Vaud Tribunal cantonal Tribunal d'accusation 08.07.2010 Pron-prés / 2010 / 67
+
+MISE EN LIBERTÉ PROVISOIRE | 434 CPP, 59 CPP
+
+TRIBUNAL
+CANTONAL
+273
+PE08.025678-DBT/VFV/PSO
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+8 juillet 2010
+________________
+Du 7 juillet
+2010
+________________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+M.              Ritter
+*****
+Art.
+59 et 434 CPP
+Vu le jugement rendu le 14 janvier 2010, par lequel le Tribunal correctionnel de l’arrondissement
+de Lausanne a, notamment, constaté que D.________ s'était rendu coupable de blanchiment d'argent
+et d'infraction grave à la loi fédérale sur les stupéfiants (III); l'a condamné
+à une peine privative de liberté de trois ans, sous déduction de 422 jours de détention
+avant jugement (IV); a suspendu l'exécution d'une partie de la peine portant sur 18 mois et fixé
+au condamné un délai d'épreuve de cinq ans (V) et a ordonné la confiscation et la
+dévolution à l'Etat des sommes de 10'000 fr. et de 1'380 $ séquestrées sous fiche
+n° 44008 (XIII),
+vu le recours déposé contre ce jugement par le Ministère public,
+vu l'arrêt rendu le 13 avril 2010 par la Cour de cassation pénale (n° 152), admettant
+le recours et réformant le jugement attaqué en ce sens que le chiffre V de son dispositif est
+supprimé,
+vu le recours interjeté le 10 juin 2010 devant le Tribunal fédéral contre cet arrêt
+par D.________, concluant à sa réforme en ce sens que la peine soit assortie pour moitié
+du sursis, comme en statuait le jugement de première instance,
+vu l'ordonnance de mesures provisionnelles rendue le 1
+er
+juillet 2010 par le Président de la Cour de droit pénal du Tribunal fédéral (6B_510/2010),
+déclarant irrecevable la requête de mesures provisionnelles fondée sur le droit fédéral
+tendant à la remise en liberté provisoire du recourant, d'une part, et renvoyant le recourant
+à saisir l'autorité cantonale compétente, d'autre part,
+vu la requête de mise en liberté provisoire formée le 6 juillet suivant par D.________
+par procédé adressé au Président de la Cour de cassation pénale,
+vu les pièces du dossier;
+attendu que, dès qu'il a reçu le dossier d'une cause relevant de la Cour de cassation pénale,
+le président de cette autorité est compétent pour prendre toute décision urgente
+et, notamment, pour statuer en matière de détention préventive (art. 434 al. 1 et
+2 CPP; Bovay/Dupuis/Monnier/Moreillon/Piguet, Procédure pénale vaudoise, Code annoté,
+3
+ème
+éd., Bâle 2008, n. 1 ad art. 434 CPP);
+attendu que, sitôt qu'un recours est valablement exercé contre un jugement de première
+instance, l'emprisonnement ordonné ou subi avant une décision au fond est assimilé à
+la détention préventive et non à un début d'exécution de peine (CCASS, 7 octobre
+2003, n° 210),
+que, selon l'art. 59 al. 1 CPP, la détention préventive suppose la réunion d'au moins
+deux conditions, dont la première est l'existence de présomptions suffisantes de culpabilité
+(Piquerez, Procédure pénale suisse, Zurich 2000, n° 2329);
+attendu qu'en l'espèce, même si l'arrêt cantonal rendu le 13 avril 2010 est frappé
+d'un recours qui en suspend l'exécution ex lege (art. 103 al. 2 let. b LTF), les faits retenus ne
+sont pas remis en cause devant la juridiction fédérale, puisque le recours ne porte, au fond,
+que sur le sursis,
+que la cour de céans a fondé sa conviction sur des éléments matériels constants,
+puisqu'établis par les premiers juges après instruction contradictoire, et que le requérant
+ne conteste pas en fait,
+que la première condition de l'art. 59 CPP est dès lors réalisée;
+attendu qu'il faut encore que l'intéressé présente un danger pour la sécurité
+ou l'ordre public, que sa fuite soit à craindre ou que sa liberté offre des inconvénients
+sérieux pour l'instruction (art. 59 al. 1 CPP),
+que, de ces trois autres conditions légales, l'une au moins doit être réalisée pour
+justifier la détention préventive,
+que la troisième d’entre elles n’entre plus en considération à ce stade de
+la procédure;
+attendu que le risque pour la sécurité publique correspond au risque de réitération
+ou de poursuite de l’infraction, qui doit être apprécié sur la base d’éléments
+objectifs et sérieux (Bovay/Dupuis/Monnier/Moreillon/Piguet, op. cit., n. 2.2.1 ad art. 59
+CPP),
+qu’il doit être concret, et non seulement hypothétique (ATF 105 Ia 26, JT 1980 IV 85),
+que la mise en détention préventive ou le maintien de celle-ci pour risque de réitération
+n'est conforme au principe de la proportionnalité que si, d'une part, le pronostic de récidive
+est très défavorable et, d'autre part, les délits à craindre sont de nature grave
+(Bovay et alii, op. cit., nn. 2.2.1 et 2.2.2 ad art. 59 CPP);
+attendu, en l'espèce, que l'accusé avait déjà été condamné aux Pays-Bas
+à une peine privative de liberté de dix mois, dont cinq avec sursis, pour des infractions contre
+l’intégrité corporelle,
+que la possibilité d'un sursis partiel a été niée par la cour de céans conformément
+à la jurisprudence fédérale rendue en application de l'art. 42 al. 2 CP (TF 6B_492/2008
+du 19 mai 2009, c. 3.1.3., non publié aux ATF 135 IV 152), la juridiction de céans ayant au
+surplus adopté les motifs de l'instance inférieure,
+que cette jurisprudence impose une peine ferme dans un cas tel que la présente espèce, sauf
+circonstances particulièrement favorables,
+que les infractions réprimées par le jugement de première instance confirmé par la
+cour de céans pour ce qui est de la quotité de la peine sont manifestement graves, s'agissant
+notamment d'une infraction grave à la loi fédérale sur les stupéfiants ayant consisté
+en l'importation en Suisse, le 19 novembre 2009, d'une quantité de drogue équivalant à
+719,79 grammes de cocaïne pure,
+que l'arrêt de la cour de céans relève expressément que les infractions commises
+par l'intéressé vont en s'aggravant, à telle enseigne que ces éléments témoignent
+d'une persévérance dans la délinquance, et que l'intimé n'avait pas tiré les
+leçons de ses précédentes expériences ni compris la signification du sursis,
+que la peine privative de liberté prononcée par les premiers juges a au surplus été
+confirmée dans sa quotité, qui ne constituait pas l'objet du recours du Ministère public,
+que de nouvelles infractions similaires sont ainsi à craindre de la part de l'intéressé,
+notamment à l'étranger et particulièrement aux Pays-Bas,
+qu'il y a dès lors lieu, en présence d'un danger significatif de réitération, d'admettre
+que l'accusé présente un risque concret pour la sécurité ou l'ordre publics,
+qu'à cette condition déduite de l'art. 59 al. 1 CPP, déjà déterminante, s'ajoute
+le risque de fuite, mentionné par la même disposition,
+qu'en effet l'accusé est domicilié aux Pays-Bas,
+qu'il n'a quitté ce pays pour la France, puis pour la Suisse que quelques jours avant son arrestation,
+dans le dessein d'importer de la drogue,
+qu'au surplus l'intéressé ne dispose pas d'attaches familiales en Suisse,
+que son centre d'intérêt se trouve bien plutôt aux Pays-Bas, soit à Rotterdam, commune
+au service de laquelle il travaille et où séjournent sa concubine et son enfant,
+qu'il relève du reste lui-même, dans sa demande de mise en liberté, que son intention
+est de retourner auprès des siens en reprenant son activité,
+que la quotité de la peine privative de liberté prononcée est significative,
+qu'il est dès lors à craindre, dans la mesure où le solde de la peine ne devait pas être
+assorti du sursis pour une durée supérieure à celle de la détention déjà
+subie, que l'intéressé tente de se soustraire à l'exécution de la sanction,
+que le principe de proportionnalité est ainsi respecté compte tenu de la peine encourue et
+des circonstances personnelles du requérant,
+qu'il ne commande dès lors pas la mise en liberté provisoire du requérant,
+qu’en définitive, la requête de mise en liberté provisoire formée par D.________
+doit être rejetée;
+attendu que les frais d'arrêt, par 783 fr. 75, y compris l'indemnité allouée
+à son défenseur d'office, par 483 fr., TVA comprise, doivent être mis à la charge
+du requérant (art. 450 al. 1 CPP par analogie);
+que le remboursement à l'Etat de l'indemnité due au défenseur d'office sera exigible pour
+autant que la situation économique du requérant se soit améliorée (ATF 135 I 91,
+c. 2.4, spéc. 2.4.3).
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+La requête de mise en liberté formée par D.________ est rejetée.
+II.
+Les frais d’arrêt, par 783 fr. 75 (sept cent huitante-trois francs et septante-cinq
+centimes), y compris l'indemnité allouée à son défenseur d'office, par 483 fr. 75
+(quatre cent huitante-trois francs et septante-cinq centimes), sont mis à la charge du requérant
+D.________.
+III.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre II ci-dessus sera exigible
+pour autant que la situation économique de D.________ se soit améliorée.
+IV.
+L'arrêt est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Samuel Pahud, avocat (pour D.________),
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+Département de l'intérieur, Office d'exécution des peines,
+‑
+M. le Président du Tribunal de l'arrondissement de Lausanne,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Conformément à l'art. 434 al. 2 CPP, les parties peuvent déposer un recours motivé
+dans les dix jours dès la communication de la présente décision auprès de la Cour
+de cassation pénale du Tribunal cantonal, ledit recours devant contenir la désignation de la
+décision attaquée, les conclusions en réforme ou en nullité et les motifs à
+l'appui de ces conclusions.
+Le greffier :
