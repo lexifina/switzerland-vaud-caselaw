@@ -1,0 +1,86 @@
+---
+decision_id: "vd_gerichte_d13f37f9-e2cd-4095-881b-01545b0414b0"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CTUT"
+docket: "115"
+decided: "2010-07-08"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/d13f37f9-e2cd-4095-881b-01545b0414b0"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-307.md"]
+---
+
+# VD Gerichte 115
+
+## Text
+
+TRIBUNAL CANTONAL
+115
+CHAMBRE D E S TUTEL LES
+________________________________
+Arrêt du 8 juillet 2010
+______________________
+Présidence de M. DENYS, président
+Juges : MM. Battistolo et Colombini
+Greffier : Mme Robyr
+*****
+Vu la décision du 4 février 2010, par laquelle la Justice de paix
+du district de Lausanne a pris acte du jugement de divorce rendu le 16
+novembre 2009 par le Président du Tribunal civil de l'arrondissement de
+Lausanne concernant les époux E.N.________ et A.N.________ (I) et nommé
+le Service de protection de la jeunesse (ci-après: SPJ) en qualité de
+surveillant judiciaire au sens de l'art. 307 al. 3 CC de B.N.________,
+C.N.________ et D.N.________, nées respectivement les 24 février 1996,
+7 septembre 1998 et 16 janvier 2001 (II),
+vu le recours formé le 16 juin 2010 par A.N.________ contre
+cette décision,
+vu les pièces au dossier;
+205
+
+- 2 -
+attendu que la recourante a déposé son acte de recours dans
+les 10 jours dès la décision attaquée, soit en temps utile (art. 388 al. 1 et 2
+CC [Code civil suisse du 10 décembre 1907, RS 210], 405 CPC [Code de
+procédure civile du 14 décembre 1966, RSV 270.11]),
+qu'elle a déclaré former "opposition au service de protection
+de la jeunesse",
+qu'il apparaît toutefois, à la lecture de son acte, qu'elle
+conteste en réalité la mesure de surveillance éducative à forme de l'art.
+307 al. 3 CC et non la personne du curateur, soit le SPJ,
+que cette mesure a toutefois été instaurée par jugement de
+divorce du 16 novembre 2009, définitif et exécutoire,
+que cette décision ne peut dès lors plus être remise en
+question à ce stade, soit celui de la désignation du curateur de
+surveillance éducative,
+que le recours déposé par A.N.________ est donc irrecevable;
+attendu que le présent arrêt peut être rendu sans frais (art.
+236 al. 2 du tarif du 4 décembre 1984 des frais judiciaires en matière
+civile, RSV 270.11.05).
+
+- 3 -
+Par ces motifs,
+la Chambre des tutelles du Tribunal cantonal,
+statuant à huis clos
+p r o n o n c e :
+I. Le recours est irrecevable.
+II. La cause est rayée du rôle.
+III. L'arrêt, rendu sans frais, est exécutoire.
+Le président : La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Mme A.N.________,
+- Service de protection de la jeunesse,
+et communiqué à :
+- Justice de paix du district de Lausanne.
+par l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+
+- 4 -
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100 al. 1 LTF).
+La greffière :
