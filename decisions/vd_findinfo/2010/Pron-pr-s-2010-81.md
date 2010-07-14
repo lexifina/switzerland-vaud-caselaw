@@ -1,0 +1,82 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___81"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 81"
+decided: "2010-07-14"
+published: "2010-09-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100909121438968_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-437.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 81
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 437 CPP
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 09.09.2010 Pron-prés / 2010 / 81
+
+RETRAIT{VOIE DE DROIT} | 437 CPP
+
+TRIBUNAL
+CANTONAL
+376
+PE08.003922-ABA/ACP/PGO
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Du 9 septembre
+2010
+________________
+Vu le jugement du 14 juillet 2010 par lequel le Tribunal correctionnel de l’arrondissement de l'Est
+vaudois a, notamment, libéré
+N.________
+des fins de la poursuite pénale (I) et a mis une partie des frais de la cause, par 3'500 fr., à
+sa charge et a laissé le solde à la charge de l'Etat (III);
+vu la déclaration de recours déposée le 19 juillet 2010 contre ce jugement par N.________,
+vu l'art. 437 CPP;
+attendu que par courrier adressé le 5 août 2010 au Tribunal correctionnel de l'arrondissement
+de l'Est vaudois, le prénommé a déclaré retirer purement et simplement le recours
+qu'il avait déposé,
+attendu qu'il y a lieu de prendre acte de ce retrait, les conditions de l'art. 437 CPP étant
+réalisées, en l'espèce;
+attendu que la présente décision doit être rendue sans frais,
+le
+Président
+de
+la Cour de cassation pénale du Tribunal cantonal :
+I.
+Prend acte du retrait du recours interjeté
+par N.________.
+II.
+Dit que la présente décision, rendue sans frais, est exécutoire.
+Le président :
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est communiquée à :
+‑
+Me Elie Elkaim, avocat (pour N.________),
+-
+Me Julie Laverrière, avocate (pour [...]),
+‑
+M. le Procureur général du canton de Vaud,
+‑
+M. le Président du Tribunal correctionnel de l'arrondissement de l'Est vaudois,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Elle prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+Le greffier :
