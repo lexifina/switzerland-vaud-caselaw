@@ -1,0 +1,391 @@
+---
+decision_id: "vd_gerichte_a3411d1c-8eef-4832-b85c-2c8bc92bfeb9"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CTUT"
+docket: "143"
+decided: "2010-07-29"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/a3411d1c-8eef-4832-b85c-2c8bc92bfeb9"
+cites_decisions: ["5A_448/2008", "5P.131/2006", "5P.33/2001", "BGE 107 II 499", "BGE 118 II 21", "BGE 120 II 229", "BGE 121 III 1", "BGE 122 III 404", "BGE 123 III 445", "BGE 127 III 295", "BGE 131 III 209"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-025.md", "switzerland/bund/acts/210/art-273.md", "switzerland/bund/acts/210/art-274.md", "switzerland/bund/acts/210/art-275.md", "switzerland/bund/acts/210/art-420.md", "switzerland/bund/acts/272/art-401.md"]
+---
+
+# VD Gerichte 143
+
+## Text
+
+TRIBUNAL CANTONAL
+143
+CHAMBRE D E S TUTEL LES
+________________________________
+Arrêt du 29 juillet 2010
+____________________
+Présidence de M. DENYS, président
+Juges : MM. Giroud et Sauterel
+Greffier : Mme Robyr
+*****
+Art. 273 ss CC; 489 ss CPC
+La Chambre des tutelles du Tribunal cantonal prend séance
+pour s’occuper du recours interjeté par D.________, à Ecublens, contre
+l'ordonnance de mesures provisionnelles rendue le 18 mai 2010 par la
+Juge de paix du district du Jura-Nord vaudois dans la cause concernant
+l'enfant B.B.________.
+Délibérant à huis clos, la cour voit :
+201
+
+- 2 -
+En fait :
+A. B.B.________, né le 13 décembre 1997 hors mariage, est le fils
+de A.B.________ et de D.________. La mère est seule détentrice de l’autorité
+parentale sur son fils.
+Le 9 novembre 2008, D.________ a requis la Justice de paix du
+district du Jura-Nord vaudois d'instaurer en sa faveur un droit de visite
+usuel sur son fils, soit un week-end sur deux, ainsi qu'une parties des
+vacances et jours fériés. Il a indiqué qu'il ne pouvait pas passer plus d'une
+journée avec son fils.
+La juge de paix a procédé à l'audition de A.B.________ et
+D.________ lors de sa séance du 12 février 2009. La mère a fait valoir qu'il
+n'était pas adéquat qu'un droit de visite usuel soit fixé car le père souffrait
+de troubles du comportement qui perturbaient B.B.________. C'est la raison
+pour laquelle elle avait réduit le droit de visite à un jour par semaine et,
+durant les vacances, à plusieurs jours d'affilée à l'exclusion des nuits.
+A.B.________ a précisé que son fils se faisait du souci pour son père et se
+sentait responsable de lui, ce qui était trop lourd pour un enfant de cet
+âge. D.________ a contesté ces propos. Il a toutefois accepté de continuer à
+voir son fils un jour par semaine le temps que la Dresse R.________,
+pédopsychiatre d'B.B.________, soit consultée.
+Le lendemain, D.________ a requis la juge de paix de considérer
+le procès-verbal tenu lors de l'audience comme nul, en faisant valoir qu'il
+n'avait pas compris ce qui se disait en raison de problèmes d'appareillages
+auditifs inadéquats et qu'il n'avait pas réussi à lire le document manuscrit.
+Le 15 mars 2009, la Dresse R.________, pédopsychiatre, a
+transmis à la juge de paix un rapport concernant son patient B.B.________.
+Elle a relevé que celui-ci était triste pour son père et très angoissé de
+l'entendre aux prises avec ses délires de persécution, particulièrement
+durant les soirées et les nuits, durant lesquelles les angoisses de son père
+
+- 3 -
+l'envahissaient. L'enfant ne souhaitait dès lors plus dormir chez son père.
+Il désirait en revanche continuer à le voir la journée. Ayant également
+rencontré le père, la Dresse R.________ a constaté que celui-ci montrait
+beaucoup d'affection et de sollicitude pour son fils. Il souffrait de surdité,
+de diabète et de troubles de la vue. Il déclarait être poursuivi par des
+persécuteurs qui envahissaient sa maison la nuit ou lorsqu'il était absent,
+venaient empoisonner la nourriture entreposée chez lui et voulaient donc
+sa mort. La Dresse R.________ a indiqué que D.________ était convaincu par
+ses idées délirantes et se croyait victime d'un complot monté par des
+personnes malveillantes. Il n'avait confiance en aucun médecin et refusait
+toute idée de traitement. Les modalités de visite telles que prévues par la
+mère correspondaient ainsi aux souhaits et aux besoins de l'enfant ainsi
+qu'aux disponibilités d'attention présentes chez le père.
+Le 16 avril 2009, la juge de paix a entendu à nouveau
+A.B.________. Bien que dûment convoqué, D.________ ne s'est pas présenté.
+Il a en revanche comparu à l'audience du 2 juin 2009, lors de laquelle il a
+déclaré être victime des manipulations de tiers qui voulaient détruire son
+environnement. Il a contesté être malade.
+Le 5 novembre 2009, le Dr Yannick Schnegg, médecin adjoint
+auprès de l'Unité de psychiatrie ambulatoire de Payerne, a rendu un
+rapport d'expertise concernant D.________. L'expert a posé le diagnostic de
+trouble délirant, voire de schizophrénie paranoïde. Il a estimé que la durée
+de cette affection ne pouvait être prévue. L'expert a constaté que les
+troubles dont souffrait l'expertisé entraînaient un mal-être, des angoisses
+et une perturbation des relations avec l'entourage. Parfois, l'expertisé
+pensait que son fils était menacé par les mêmes persécuteurs que lui. Il
+semblait donc inclure son fils dans sa thématique délirante et on pouvait
+dès lors craindre que, pour le protéger, il puisse se sentir obligé de le
+cacher ou de fuir avec lui. L'expert a toutefois précisé qu'il n'avait jamais
+tenté de se faire du mal ou de faire du mal à son fils. Il a relevé que
+l'expertisé avait besoin d'un suivi voire d'un traitement médical mais qu'il
+était peu conscient de ses troubles et refusait toute traitement sur une
+base volontaire.
+
+- 4 -
+Entendu le 2 février 2010 par la juge de paix sur le contenu de
+l'expertise, D.________ a confirmé refuser tout suivi médical. Il a estimé que
+si son fils avait peur de passer la nuit chez lui, c'est parce qu'il avait été
+menacé par des gens qui lui voulaient du mal.
+La juge de paix a procédé à l'audition d'B.B.________ le 7 avril
+2010. Celui-ci a exprimé que le discours de son père, qui croyait que des
+gens voulaient l'empoisonner par exemple, était difficile à supporter
+longtemps et qu'il avait alors envie de rentrer chez lui. Voir son père une
+journée par semaine lui suffisait donc. B.B.________ a également expliqué
+qu'à l'issue d'une visite à son père, alors que sa mère venait le rechercher,
+son père s'était fâché contre elle et l'avait frappée à coups de poing. Il
+n'avait d'abord pas voulu retourner voir son père mais malgré cette scène,
+il ne voulait pas cesser toute visite car il estimait qu'il s'agissait d'une
+affaire qui ne concernait que ses parents.
+Par courrier du 27 avril 2010, A.B.________ a informé la justice
+de paix de comportements inadéquats de D.________ envers son fils et elle-
+même. Elle a confirmé les coups reçus le 27 mars 2010 et expliqué avoir
+été frappée une seconde fois le 23 avril 2010. Elle a indiqué que son fils ne
+voulait désormais plus voir son père, qu'il était très en colère contre celui-
+ci et qu'il allait mal depuis ces événements. Elle a requis une suspension
+du droit de visite du père sur son fils par crainte du comportement de
+D.________.
+Lors de son audience du 18 mai 2010, la juge de paix a
+entendu A.B.________. D.________, bien que dûment convoqué, ne s'est pas
+présenté. La mère a expliqué que son fils avait été témoin d'une nouvelle
+agression de son père contre elle. S'il n'envisageait pas de cesser de voir
+son père après la première agression, il avait toutefois changé d'avis après
+cette récidive et cessé de voir son père depuis le 23 avril précédent. En
+effet, il craignait de se voir frappé par son père. La mère a dès lors
+confirmé sa requête de suspension du droit de visite du père sur son fils.
+
+- 5 -
+Par ordonnance de mesures provisionnelles du même jour, la
+Juge de paix du district du Jura-Nord vaudois a suspendu le droit de visite
+de D.________ sur son fils B.B.________ (I) et déclaré l'ordonnance, dont les
+frais suivent le sort de la cause, immédiatement exécutoire nonobstant
+recours (II).
+B. Par acte du 2 juin 2010, D.________ a recouru contre cette
+ordonnance.
+Par écriture du 23 juin 2010, A.B.________ a conclu au rejet du
+recours.
+En d roit :
+1. Le recours est dirigé contre une ordonnance de mesures
+provisionnelles du juge de paix fixant les modalités de l'exercice du droit
+de visite d'un père sur son enfant mineur, sur lequel il n'a ni la garde ni
+l'autorité parentale (art. 273 ss CC, Code civil suisse du 10 décembre
+1907, RS 210).
+a) Selon la jurisprudence du Tribunal fédéral (ATF 107 II 499, JT
+1983 I 335 c. 2b), critiquée par la doctrine (Hegnauer, Berner Kommentar,
+n. 94 ad art. 275 CC, p. 164; Poudret/Sandoz-Monod, Commentaire de la
+loi fédérale d'organisation judiciaire, vol. II, 1990, n. 1.2.24 ad Titre II, pp.
+12-13; ATF 118 Ia 473 c. 2, JT 1995 I 523), la question des relations
+personnelles avec un enfant mineur constitue une matière non
+contentieuse.
+Contre les décisions en matière de relations personnelles, le
+recours non contentieux de l'art. 420 al. 2 CC est ainsi ouvert à la
+Chambre des tutelles (Schwenzer, Basler Kommentar, 3ème éd., 2006, n. 6
+
+- 6 -
+ad art. 275 CC, p. 1477; art. 76 LOJV, Loi d'organisation judiciaire du 12
+décembre 1979, RSV 173.01), qu'il s'agisse de mesures d'urgence
+(Poudret/Haldy/Tappy, Procédure civile vaudoise, 3ème éd., Lausanne 2002,
+n. 3 ad art. 401 CPC, p. 619; JT 2003 III 35 c. 1c; CTUT, 27 août 2007, no
+203; CTUT, 29 janvier 2004, no 25) ou d'une décision au fond (CTUT, 4
+août 2003, no 110). Ce recours, qui s'instruit conformément aux art. 489 ss
+CPC (Code de procédure civile du 14 décembre 1966, RSV 270.11; art. 109
+al. 3 LVCC, Loi d'introduction dans le canton de Vaud du Code civil suisse
+du 30 novembre 1910, RSV 211.01), s'exerce par acte écrit dans les dix
+jours dès la communication de la décision attaquée (art. 492 al. 1 et 2
+CPC). Il est ouvert à tout intéressé (art. 420 al. 1 CC et 405 CPC, par
+analogie), soit notamment à chacun des parents dans les causes
+concernant les relations personnelles avec un enfant mineur (Hegnauer,
+Droit suisse de la filiation, 4ème éd., 1998, adaptation française par Meier,
+n. 27.64, p. 205; RDT 1955, p. 101).
+La Chambre des tutelles peut réformer la décision attaquée ou
+en prononcer la nullité (art. 498 al. 1 CPC). Si la cause n'est pas
+suffisamment instruite, elle peut la renvoyer à l'autorité tutélaire
+ou procéder elle-même à l'instruction complémentaire (art. 498 al. 2 CPC);
+le recours étant pleinement dévolutif, elle revoit librement la cause en fait
+et en droit. S'agissant de mesures provisionnelles, la Chambre des tutelles
+peut se limiter à un examen prima facie, plus sommaire qu'au fond, et
+statuer sous l'angle du déni de justice (JT 2003 III 35; JT 2001 III 121).
+b) En l'espèce, le recours a été formé par le père du mineur
+concerné, qui y a intérêt (ATF 121 III 1 c. 2a, JT 1996 I 662), par acte de
+recours déposé en temps utile et recevable à la forme. Les déterminations
+de l'intimée, déposées dans le délai imparti à cet effet, sont également
+recevables (art. 496 al. 2 CPC; Poudret/Haldy/Tappy, op. cit., n. 2 ad art.
+496 CPC p. 765).
+2. a) Saisie d'un recours non contentieux, la Chambre des tutelles,
+qui n'est pas tenue par les moyens et les conclusions des parties, examine
+
+- 7 -
+d'office si la décision n'est pas affectée de vices d'ordre formel. Elle ne
+doit toutefois annuler une décision que s'il ne lui est pas possible de faire
+autrement, soit parce qu'elle est en présence d'une procédure informe,
+soit parce qu'elle constate la violation d'une règle essentielle de la
+procédure à laquelle elle ne peut elle-même remédier et qui est de nature
+à exercer une influence sur la solution de l'affaire (Poudret/Haldy/Tappy,
+op. cit., nn. 3 et 4 ad art. 492 CPC, p. 763).
+b) L'autorité tutélaire du domicile de l'enfant est compétente
+pour prendre les mesures nécessaires concernant les relations
+personnelles (art. 275 al. 1 CC). En l'espèce, c'est ainsi la Justice de paix
+du district du Jura-Nord vaudois, en sa qualité d'autorité du domicile de
+l'enfant mineur (art. 25 CC), qui était en principe compétente (art. 110
+LOJV; 3 LVCC).
+En l'absence de norme spéciale dans la loi cantonale, il faut
+admettre que la compétence donnée à l'autorité tutélaire par l'art. 275 al.
+1 CC est générale et englobe celle de prendre des mesures d'urgence.
+Cela ne signifie cependant pas pour autant que le juge de paix soit
+incompétent pour ordonner seul des mesures d'urgence en matière non
+contentieuse. Ces mesures, de par leur nature, impliquent une décision
+rapide dans le but d'assurer la protection d'intérêts menacés. La
+nécessaire diligence d'une telle décision peut se trouver en opposition
+avec les contraintes liées au fonctionnement d'une justice de paix,
+notamment pour la fixation d'une audience à bref délai. Suivant les
+situations, il peut donc s'avérer plus judicieux que les mesures
+provisionnelles ou d'urgence nécessaires soient prises par le juge de paix
+(JT 2003 III 35 c. 2c et d).
+La Juge de paix du district du Jura-Nord vaudois était donc bien
+compétente pour statuer par voie de mesures provisionnelles.
+Le recourant ne s'est pas présenté à l'audience du 18 mai
+2010, bien que dûment convoqué. Il a toutefois été entendu par la juge de
+paix le 2 février 2010. L'enfant a été entendu le 7 avril 2010 et la mère le
+
+- 8 -
+18 mai suivant. Leur droit d'être entendu a donc été respecté.
+La décision est ainsi formellement correcte et il convient
+d'examiner si elle est justifiée sur le fond.
+3. a) L'art. 273 al. 1 CC prévoit que le père ou la mère qui ne détient
+pas l'autorité parentale ou la garde ainsi que l'enfant mineur ont
+réciproquement le droit d'entretenir les relations personnelles indiquées
+par les circonstances. Le droit aux relations personnelles vise à
+sauvegarder le lien existant entre parents et enfants (Hegnauer, Droit
+suisse de la filiation, op. cit., n. 19.20, p. 116). Le Tribunal fédéral relève à
+cet égard qu'il est unanimement reconnu que le rapport de l'enfant avec
+ses deux parents est essentiel et qu'il peut jouer un rôle décisif dans le
+processus de recherche d'identité de l'enfant (ATF 127 III 295 c. 4a; ATF
+123 III 445 c. 3c, JT 1998 I 354). Le maintien et le développement de ce
+lien étant évidemment bénéfiques pour l'enfant, les relations personnelles
+doivent donc être privilégiées, sauf si le bien de l'enfant est mis en
+danger.
+Le droit aux relations personnelles n'est ainsi pas absolu. Si les
+relations personnelles compromettent le développement de l'enfant, si les
+père et mère qui les entretiennent violent leurs obligations, s'ils ne se sont
+pas souciés sérieusement de l'enfant ou s'il existe d'autres justes motifs,
+le droit d'entretenir ces relations peut leur être refusé ou retiré (art. 274
+al. 2 CC).
+Selon la jurisprudence, le refus ou le retrait du droit aux
+relations personnelles ne peut être demandé que si celles-ci mettent en
+danger le bien de l'enfant et qu'il est impossible de trouver une
+réglementation du droit de visite qui sauvegarde ses intérêts. La
+disposition a pour objet de protéger l'enfant, et non de punir les parents.
+La violation par ceux-ci de leurs obligations et le fait de ne pas se soucier
+de l’enfant ne justifient un tel refus ou retrait que si ces comportements
+portent atteinte au bien de l’enfant (ATF 131 III 209 ; ATF 118 II 21 c. 3c, JT
+
+- 9 -
+1995 I 548). On peut admettre qu’un parent ne s’est pas soucié
+sérieusement de son enfant au sens de l’art. 274 al. 2 CC lorsqu’il ne
+prend aucune part à son bien-être, s’en remet en permanence à d’autres
+pour les soins dus à l’enfant et n’entreprend rien pour établir ou entretenir
+une relation vivante avec lui ; peu importe de savoir si les efforts auraient
+été couronnés de succès et si le comportement du parent habilité à
+donner son consentement est coupable ou non (ATF 118 II 21 c. 3d). Les
+conflits entre les parents ne constituent pas un motif de restreindre le
+droit de visite. Une telle limitation n’est justifiée que s’il y a lieu
+d’admettre, au regard des circonstances, que l’octroi d’un droit de visite
+usuel compromet le bien de l’enfant (ATF 131 III 209 c. 5).
+Il y a danger pour le bien de l'enfant, susceptible d'entraîner la
+suppression ou la limitation des relations personnelles, si son
+développement physique, moral ou psychique est menacé par la présence,
+même limitée, du parent qui n'a pas l'autorité parentale. Conformément
+au principe de proportionnalité, il importe en outre que cette menace ne
+puisse être écartée par d'autres mesures appropriées (TF 5A_448/2008 du
+2 octobre 2008; TF 5P.131/2006 du 25 août 2006, publié in FamPra 2007
+p. 167; ATF 131 III 209). Le retrait de tout droit à des relations
+personnelles constitue l'ultima ratio et ne peut être ordonné dans l'intérêt
+de l'enfant que si les effets négatifs des relations personnelles ne peuvent
+être maintenus dans des limites supportables pour l'enfant. En revanche,
+si le risque engendré pour l'enfant par les relations personnelles peut être
+limité par l'établissement d'un droit de visite surveillé, qui s'exerce en
+présence d'un tiers, le droit de la personnalité du parent non détenteur de
+l'autorité parentale, le principe de la proportionnalité et le sens des
+relations personnelles interdisent la suppression complète de ce droit (ATF
+120 II 229 c. 3b/aa ; ATF 122 III 404, JT 1998 I 49 précité ; TF 5P.33/2001
+du 5 juillet 2001). L'établissement d'un droit de visite surveillé, comme le
+refus ou le retrait du droit aux relations personnelles selon l'art. 274 al. 2
+CC, nécessite des indices concrets de mise en danger du bien de l'enfant
+(TF 5P.131/2006 du 25 août 2006 précité).
+
+- 10 -
+b) En l'espèce, un rapport d'expertise psychiatrique établi le 5
+novembre 2009 par le Dr Yannick Schnegg, médecin adjoint auprès de
+l'Unité de psychiatrie ambulatoire de Payerne, retient que le recourant
+souffre d'un trouble délirant, voire d'une schizophrénie paranoïde, qui
+entraîne un mal-être, des angoisses et une perturbation des relations avec
+l'entourage. Les experts craignent que, incluant son fils dans sa
+thématique délirante, le recourant se sente obligé de le cacher ou de fuir
+avec lui pour le protéger de certains persécuteurs. Ils constatent que le
+recourant est anosognosique et ne paraît pas apte à participer à un
+traitement psychiatrique.
+Auparavant, dans un rapport du 15 mars 2009, la
+pédopsychiatre R.________ avait notamment relevé qu'B.B.________ avait
+peur de passer la nuit chez son père, dont les délires de persécution
+apparaissaient particulièrement durant les soirées et les nuits. Durant
+celles-ci, les angoisses de son père l'envahissaient, raison pour laquelle il
+ne souhaitait plus rester dormir chez lui. La pédopsychiatre avait
+également précisé que le recourant refusait tout traitement et qu'il était
+complètement convaincu par ses idées délirantes.
+Entendu le 7 avril 2010, B.B.________ a déclaré qu'il ne
+souhaitait pas passer la nuit chez son père. Il a expliqué avoir assisté à un
+agression de son père sur sa mère. Il n'a pas voulu retourner voir son père
+dans un premier temps mais a expliqué que par la suite, il ne voulait pas
+cesser de voir son père. Par lettre du 27 avril 2010, et lors de son audition
+le 18 mai suivant, la mère a indiqué que l'enfant avait été témoin d'une
+deuxième agression du recourant sur sa personne, qu'il était désormais
+très en colère contre son père et ne souhaitait plus le voir, par crainte qu'il
+ne le frappe à son tour. La mère a dès lors requis que le droit de visite soit
+suspendu puisque le père mettait en danger la santé psychologique de
+l'enfant.
+Au vu de ce qui précède, c'est à juste titre que le premier juge
+a suspendu l'exercice du droit de visite du recourant sur son fils. Aucune
+autre mesure en effet ne permet de mettre l'enfant à l'abri des
+
+- 11 -
+manifestations de l'atteinte psychique dont souffre le recourant, atteinte
+confirmée tant par l'expertise que par le rapport de la pédopsychiatre, les
+procès-verbaux d'audition et les écrits du recourant lui-même.
+B.B.________, âgé de bientôt 13 ans, a assisté aux délires et angoisses de
+son père. Il les a dans un premier temps assumés avant d'exprimer à sa
+mère son souhait de ne plus dormir chez son père afin de ne pas se laisser
+envahir par ces angoisses. Après la première agression de son père sur sa
+mère, il souhaitait encore voir son père. Depuis la seconde agression, il
+craint toutefois d'être lui-même frappé. La santé tant physique que
+psychique de l'enfant est menacée et il n'apparaît pas que cette menace
+puisse être écartée par une autre mesure que la suspension de tout droit
+de visite. En l'état, et aussi longtemps que le recourant n'est pas disposé à
+être pris en charge médicalement, le maintien des relations personnelles
+ne peut être imposé à l'enfant contre son gré. Cette décision, provisoire,
+pourra être revue après le dépôt d'un complément d'expertise
+psychiatrique d'ores et déjà demandé par le premier juge.
+Le recourant critique la manière dont la mère s'occupe de
+l'enfant, ce qui est toutefois sans pertinence s'agissant du droit de visite
+qu'il revendique. Il soutient en outre qu'il n'est pas atteint dans sa santé et
+produit un certificat médical fantaisiste, émanant d'un professeur
+Hippocratus Aristocratus, directeur de la "Crazy Clinic", qui n'est pas de
+nature à infirmer les constats des rapports psychiatriques susmentionnés.
+Pour le surplus, le recourant ne s'exprime pas au sujet des actes de
+violence qu'il a eux envers la mère de l'enfant et de l'effet de ces actes sur
+lui. Les arguments soulevés, dénués de pertinence, ne changent dès lors
+rien à l'appréciation qui précède.
+4. En définitive, le recours doit être rejeté et l'ordonnance
+confirmée.
+L'arrêt peut être rendu sans frais (art. 236 al. 2 TFJC, tarif du
+4 décembre 1984 des frais judiciaires en matière civile, RSV 270.11.5).
+
+- 12 -
+Par ces motifs,
+la Chambre des tutelles du Tribunal cantonal,
+statuant à huis clos,
+prononce :
+I. Le recours est rejeté.
+II. L'ordonnance est confirmée.
+III. L'arrêt est rendu sans frais.
+IV. L'arrêt motivé est exécutoire.
+Le président : La greffière :
+Du 29 juillet 2010
+Le dispositif de l'arrêt qui précède est communiqué par écrit
+aux intéressés.
+La greffière :
+Du
+
+- 13 -
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- M. D.________,
+- Mme A.B.________,
+et communiqué à :
+- Mme la Juge de paix du district du Jura-Nord vaudois,
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100 al. 1 LTF).
+La greffière :
