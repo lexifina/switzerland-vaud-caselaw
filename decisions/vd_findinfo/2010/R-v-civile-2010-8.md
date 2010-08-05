@@ -1,0 +1,121 @@
+---
+decision_id: "vd_findinfo_R_v-civile___2010___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Rév-civile / 2010 / 8"
+decided: "2010-08-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CREV%20-%20Civile/R%E9v-civile/20101006182539783_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Rév-civile / 2010 / 8
+
+## Regeste
+
+RÉVISION{DÉCISION}, MOTIF DE RÉVISION | 476 CPC, 477 CPC, 478 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 05.08.2010 Rév-civile / 2010 / 8
+
+RÉVISION{DÉCISION}, MOTIF DE RÉVISION | 476 CPC, 477 CPC, 478 CPC
+
+TRIBUNAL
+CANTONAL
+9/10
+CHAMBRE
+DES REVISIONS
+CIVILES
+ET PENALES
+_________________________________
+REVISION
+CIVILE
+Arrêt du
+5 août 2010
+_________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Giroud , Mme  Carlsson, M. Denys et Mme Byrde
+Greffière
+:              Mme
+Cardinaux
+*****
+Art.
+476, 477, 478 CPC
+Vu l'arrêt rendu le 2 décembre 2009
+par lequel la Cour administrative du Tribunal cantonal a rejeté la demande présentée le
+9 novembre 2009 par
+A.________
+,
+à Morges, tendant à la récusation en corps du Tribunal civil de l'arrondissement de La
+Côte (I), et mis les frais de justice, par 500 fr., à la charge du demandeur (II),
+vu la demande de révision (de "reconsidération") déposée par courriers
+des 27 mars et 14 juillet 2010 par A.________ à l'égard de l'arrêt rendu le 2 décembre
+2009 de la Cour administrative, concluant à la suppression de l'émolument de 500 francs mis
+à sa charge,
+vu les autres pièces du dossier;
+attendu que, selon l’art. 478 al. 1 CPC (Code de procédure civile du 14décembre 1966;
+RSV 270.11), la demande de révision, accompagnée des pièces justificatives, doit être
+adressée par écrit au Tribunal cantonal,
+que, conformément à la jurisprudence, elle doit contenir des conclusions précises, être
+fondée sur l’un ou l’autre des motifs légaux de l’art. 476 CPC et être
+accompagnée des pièces justificatives, faute de quoi elle doit être écartée
+préjudiciellement (JT 2002 III 15; JT 1965 III 31; Poudret/Haldy/Tappy, Procédure civile vaudoise,
+3
+ème
+éd., 2002, n. 2 ad art. 478 CPC, p. 746),
+qu'en l’espèce, la demande de révision n’est fondée sur aucun des motifs énumérés
+exhaustivement à l’art. 476 al. 1 CPC, à savoir l’influence sur le jugement d’un
+crime ou d’un délit ou le recouvrement d’un titre qui aurait été important
+dans les débats, mais que le requérant ignorait ou ne pouvait faire produire au dossier,
+qu'elle ne répond donc pas aux exigences précitées,
+que le requérant invoque que, dans un arrêt du 27 janvier 2010, la Cour administrative a admis
+une autre demande de récusation,
+que dans l'hypothèse où il faudrait voir dans l'arrêt du 27 janvier 2010 un titre invoqué
+par le requérant, ce titre n'existait pas lorsque l'arrêt dont la révision est demandée
+a été rendu,
+que l'arrêt du 27 janvier 2010 ne peut donc être invoqué à l'appui de la demande
+de révision (JT 1993 III 41; JT 1963 III 93 et 126),
+qu'en conséquence, la demande de révision est irrecevable;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Chambre des revisions civiles et pénales,
+statuant
+à huis clos,
+prononce
+:
+I.
+La demande de révision présentée par A.________ est irrecevable.
+II.
+L'arrêt, rendu sans frais, est exécutoire.
+Le
+président :              La
+greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+M. A.________,
+-
+I.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss (LTF loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la contestation ne soulève
+une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés devant
+le Tribunal fédéral dans les trente jours qui suivent la présente notification (art. 100
+al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopie à :
+‑
+Cour administrative du Tribunal cantonal.
+La greffière :
