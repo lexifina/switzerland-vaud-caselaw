@@ -1,0 +1,329 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 22"
+decided: "2010-08-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/1963618"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-186.md", "switzerland/bund/acts/272/art-197.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 22
+
+## Regeste
+
+PLAINTE{LP}, SAISIE DE SALAIRE, TÉMOIN, OBLIGATION DE TÉMOIGNER, CONJOINT | 17 LP, 18 al. 1 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.08.2010 Plainte / 2010 / 22
+
+PLAINTE{LP}, SAISIE DE SALAIRE, TÉMOIN, OBLIGATION DE TÉMOIGNER, CONJOINT | 17 LP, 18 al. 1 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+21
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 août 2010
+__________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Hack et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17, 18 al. 1 et 93 LP; 23 al. 2 LVLP; 197 CPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________
+,
+à Etoy, contre la décision rendue le 7 mai 2010, à la suite de l’audience du 20
+janvier 2010, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, admettant partiellement la plainte déposée par le recourant
+et réformant le procès-verbal de saisie établi par l'
+Office
+des poursuites du district de Morges
+à l'encontre
+de
+A.Z.________
+,
+à Morges.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+22 mai 2008, H.________ a requis de l'Office des poursuites du district de Morges (ci-après l’office)
+la continuation de la poursuite n° 3'107'565 exercée à son instance contre A.Z.________.
+Ce dernier exploite en raison individuelle un cabinet de conseils et d’expertises, M.________,
+à Morges. Il est en outre administrateur, respectivement gérant, d’une dizaine de sociétés
+anonymes ou à responsabilité limitée. Son épouse, B.Z.________, est administratrice
+unique de T.________SA.
+b)
+Le 11 décembre 2008, l’office a établi un procès-verbal de saisie à l'encontre
+de A.Z.________, ordonnant notamment une saisie de ses revenus de 1'100 fr. par mois dès le 13 mars
+2009.
+Pour déterminer les revenus du débiteur et arrêter la quotité saisissable, l’office
+s’est fondé notamment sur le bilan et le compte des pertes et profits du cabinet M.________
+au 31 décembre 2007. Selon le compte de pertes et profits, les honoraires se sont élevés
+à 336'895 fr. 07. Compte tenu de quelques autres revenus (frais refacturés, gains de change),
+les produits de l’année 2007 se sont élevés à 351'886 fr. 39. Les charges s’étant
+élevées à 314'429 fr. 18, le bénéfice annuel a été de 37'457 fr. 21.
+Parmi ces charges figurent notamment des "honoraires et frais de tiers" par 48'035 fr. 37,
+des "salaires" par 97'859 fr. 40, des "frais de véhicules" par 15'977 fr. 70,
+des "frais de téléphone et communication" par 18'217 fr. 40, des "frais de voyage"
+par 28'761 fr. 50, des "frais de représentation" par 19'550 fr. 20 et des "pertes
+sur honoraires et divers" par 15'870 fr. 90. Le débiteur a également présenté
+à l’office un document intitulé "évolution du compte capital" où
+figure un capital au 31 décembre 2006 de 29'495 fr. 89. Le report de ce capital au 1
+er
+janvier 2007, ajouté au bénéfice de l’exercice, soit 37'457 fr. 21, représente
+un total de 66'953 fr. 10, dont le débiteur a déduit des "prélèvements privés"
+par 64'130 fr. 10, soit un capital en fin d’exercice de 2'823 francs. Il a encore produit le détail
+de son compte "honoraires" pour l’année 2007, qui présente un total de 336'877
+fr. 67 très proche du montant qui figure à ce titre dans le compte de pertes et profits.
+Dans le procès-verbal de saisie, l’office a retenu comme revenu du débiteur le montant
+de 64’130 fr. 10 qui correspond aux prélèvements privés, duquel il a déduit
+certains montants représentant des factures payées en 2006 et 2008, pour un solde de 56'356
+fr. 15 qui, réparti sur douze mois, représente un revenu mensuel de 4'696 fr. 35. Pour le surplus,
+l’office a retenu que l’épouse recevait de T.________SA un salaire mensuel net de 3'865
+fr. 55 et, au titre de charges, a tenu compte d'un loyer de 2'100 fr. par mois (inférieur au loyer
+réel de 3'300 fr.), de cotisations d’assurance maladie pour le couple de 1'387 fr. par mois,
+augmentées de 863 fr. par mois de frais médicaux pour le débiteur, d’un supplément
+de 400 fr. par mois de frais de repas à l’extérieur et de 50 fr. par mois de frais d’habits
+et de blanchissage.
+c)
+Le 22 décembre 2008, H.________ a saisi
+la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de surveillance,
+d'une plainte contre cette décision de saisie.
+Par prononcé du 9 avril 2009, dite autorité
+a admis très partiellement la plainte et réformé le procès-verbal de saisie du 10
+décembre 2008 en ce sens que la saisie des revenus de A.Z.________ a été ordonnée
+à concurrence de 1'250 fr. par mois.
+d)
+Saisie d'un recours de H.________ contre cette
+décision, la cour de céans, par arrêt du 21 juillet 2009, a admis le recours, annulé
+le prononcé et renvoyé la cause à l'autorité inférieure de surveillance pour
+nouvelle instruction et nouvelle décision. Selon cet arrêt, l'instruction devait porter sur
+le poste "participation salaires" de la comptabilité 2007 de M.________, soit un montant
+de 97'859 fr. 40 versé à la société T.________SA, ainsi que sur la contre-prestation
+fournie par cette société pour ce montant. A cet effet, il y avait lieu d’examiner les
+comptes de T.________SA et d’entendre son administratrice unique, B.Z.________, voire ses autres
+employés. En outre, l’instruction devait porter sur le sort d’un montant de 12'096 fr.
+75 déduit des revenus 2007 au titre de perte sur honoraires et sur divers frais de représentation.
+2.
+Par prononcé du 7 mai 2010, rendu à
+la suite de l’audience du 20 janvier 2010, la Présidente du Tribunal d’arrondissement
+de La Côte, autorité inférieure de surveillance, statuant sans frais ni dépens, a
+admis partiellement la plainte déposée le 22 janvier 2008 par H.________ et réformé
+le procès-verbal de saisie du 10 décembre 2008 en ce sens qu’une saisie des revenus de
+A.Z.________ a été ordonnée à concurrence de 2'000 francs.
+En bref, après avoir entendu comme témoin le réviseur de T.________SA en 2007 et admis
+que B.Z.________, comme épouse de A.Z.________ et bien que celui-ci "ne soit formellement pas
+partie à la présente procédure", était fondée à refuser de témoigner,
+le premier juge a considéré que M.________ avait effectivement versé 97'859 fr. 40 à
+titre de frais de personnel à T.________SA. Il a en outre jugé que le débit du montant
+de 12'096 fr. 75 de "perte sur honoraires" était justifié, mais que les frais de
+représentation étaient excessifs et qu’il y avait lieu de ne pas tenir compte à
+ce titre d’un montant de 9'000 francs. Le premier juge a ainsi retenu un revenu mensuel de 5'681
+fr. 60 et une participation au minimum d’existence du couple de 3'510 fr. 50, de sorte que la quotité
+saisissable était de 2'171 fr. 10, montant arrondi à 2'000 francs.
+3.
+Par acte du 20 mai 2010, H.________ a recouru contre ce prononcé, qui lui avait été notifié
+le 10 mai 2010, concluant, avec dépens, principalement à sa réforme en ce sens que la
+retenue mensuelle imposée au débiteur est portée à 10'000 fr., subsidiairement en
+ce sens qu’elle est portée à 5'270 fr., plus subsidiairement à l’annulation
+du prononcé et au renvoi de la cause à l’autorité inférieure de surveillance
+pour nouvelle décision.
+Par lettre du 7 juin 2010, l’office a indiqué n’avoir pas d’éléments
+nouveaux à apporter, l’instruction menée ayant "permis de compléter le dossier",
+et implicitement  préavisé pour le rejet du recours.
+Par mémoire du 8 juin 2010, A.Z.________ a conclu au rejet du recours. Il a produit deux pièces.
+En droit :
+I.
+Formé en temps utile (art. 18 al. 1 LP – loi fédérale sur la poursuite pour dettes
+et la faillite; RS 281.1 – et 28 al. 1 LVLP – loi vaudoise d'application de la loi fédérale
+sur la poursuite pour dettes et la faillite; RSV 280.05) et comportant des conclusions et l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+II.
+a)
+Selon
+l’art. 93 al. 1 LP, le salaire et les autres revenus du débiteur sont saisissables, déduction
+faite de ce qui lui est indispensable, à lui et à sa famille. L'office doit déterminer
+la quotité saisissable en se plaçant au moment de l'exécution de la saisie (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 89 ad art. 93
+LP; ATF 108 III 10 c. 4, JT 1984 II 18). A cet effet, les autorités de poursuite fixent librement
+– en suivant les lignes directrices pour le calcul du minimum d’existence en matière
+de poursuite de la Conférence des préposés aux poursuites et faillites de Suisse –
+la part des ressources du débiteur qu’elles estiment indispensables à son entretien et
+à celui de sa famille. La détermination du minimum vital n’a pas pour but de permettre
+au débiteur et à sa famille de conserver le train de vie qui était le leur avant la saisie,
+mais de déterminer quelles sont les dépenses indispensables et absolument nécessaires
+à leur entretien. La loi garantit au débiteur la possibilité de mener une vie décente,
+mais elle ne le protège pas contre la perte des commodités de la vie (Gilliéron, op. cit.,
+n. 83 ad art. 93 LP; ATF 106 III 104, rés. in JT 1982 II 139).
+Pour fixer le montant saisissable selon l’art. 93 LP, l’office doit tenir compte de toutes
+les ressources du débiteur et déterminer son revenu global brut. En font notamment partie,
+outre le salaire, les provisions, les suppléments pour frais, les suppléments de salaire, tels
+que les allocations de renchérissement, pour enfants ou familiales, les prestations en nature, les
+pourboires et recettes analogues, les gains accessoires provenant d’activités que le débiteur
+exerce à titre secondaire, les revenus provenant de l’exercice d’une activité lucrative
+indépendante, les prestations que l’art. 92 LP déclare insaisissables en tant que telles.
+L’office détermine ainsi le revenu brut total du poursuivi en faisant l’addition de
+toutes les ressources du débiteur et, le cas échéant, des membres de sa famille (Mathey,
+La saisie de salaire et de revenu, thèse Lausanne 1989, pp. 176-177; Von der Mühll, Basler
+Kommentar, n. 4 ad art. 93 LP; Ochsner, Commentaire romand, nn. 20 et 21 ad art. 93 LP).
+L’office doit ensuite déterminer le revenu net du débiteur, en opérant des déductions
+correspondant aux charges sociales, aux frais d’acquisition du revenu et à une éventuelle
+cession de salaire (Mathey, op. cit., p. 184, n. 384), avant de déduire du revenu net ainsi établi
+les dépenses nécessaires à l’entretien du débiteur et de sa famille, soit le
+minimum vital, afin de déterminer la quotité saisissable du revenu (Mathey, op. cit., p. 184,
+n. 385).
+b)
+En
+l’espèce, l’autorité inférieure de surveillance devait instruire sur le montant
+de 97'859 fr. 40 porté dans les charges du cabinet de l’intimé, M.________, et versé
+à titre de "participation salaires" à la société T.________SA, en examinant
+les comptes de cette société et en entendant comme témoin notamment son administratrice,
+B.Z.________.
+aa)
+Le procès-verbal de l’audience du 20 janvier 2010 mentionne que la prénommée, née
+en 1946, administratrice, domiciliée à Morges, épouse de A.Z.________, a été
+introduite comme témoin, invitée à dire la vérité et informée de son droit
+de refuser de témoigner et qu’elle a alors déclaré refuser de témoigner en
+raison de son lien de parenté. Le plaignant s’est opposé à ce qu’elle ne soit
+pas entendue, soutenant qu’elle devait témoigner comme administratrice et non comme épouse
+de A.Z.________. Le premier juge a fait droit au refus d’être entendu du témoin et justifié
+cette dispense par référence à l’art. 197 CPC (Code de procédure civile; RSV
+270.11), la procédure, bien que formellement dirigée contre l’office, affectant directement
+les droits du conjoint du témoin.
+bb)
+Le recourant fait valoir que l’art. 197 CPC n’est pas applicable, l’art. 17 LVLP n’y
+renvoyant pas et le conjoint du témoin n’étant pas partie à la procédure, et
+que, de plus, ce refus de déposer en justice serait constitutif d’un abus de droit.
+L’intimé objecte qu’il est partie à la procédure comme débiteur poursuivi
+et saisi, que le droit de ne pas déposer dans une cause concernant son conjoint est un principe
+général de procédure et que l’art. 23 LVLP renvoie aux pouvoirs du président
+en procédure civile contentieuse, ce qui comprendrait l’octroi d'une dispense de témoigner.
+cc)
+En matière d’instruction de plainte LP, l’art. 23 al. 2 LVLP dispose que le président
+peut notamment entendre des témoins et ordonner la production de pièces et qu’il dispose
+à cet effet des mêmes pouvoirs qu’en procédure civile contentieuse. Cela ne peut
+se comprendre que comme un renvoi aux dispositions du CPC traitant de la preuve testimoniale (art. 186
+ss CPC).
+L’art. 197 al. 1 CPC prévoit que, notamment, le conjoint d’une partie n’est pas
+obligé de déposer comme témoin. En procédure de plainte LP, le débiteur poursuivi
+doit être assimilé à une partie au sens civil. Il en résulte qu’en l’espèce,
+le témoin pouvait se prévaloir de son union avec le débiteur.
+Le premier juge a toutefois admis d’emblée le refus de témoigner, sans examiner la réalisation
+éventuelle de l’exception prévue par l’art. 197 al. 2 ch. 2 CPC, soit que le refus
+de témoigner ne peut pas être invoqué lorsque le témoignage porte sur des actes que
+le témoin a accomplis comme auteur, antépossesseur ou représentant légal d’une
+partie. Quant au sens à attribuer à cette exception, on peut considérer que les actes
+accomplis comme auteur par le témoin sont littéralement ceux dont il a personnellement été
+l’acteur par opposition à un témoignage portant sur le comportement de son conjoint ou
+d’un tiers.
+Pour trancher la question de la licéité du refus de témoigner de B.Z.________, il faut
+donc examiner si son témoignage porte sur des faits qu’elle a personnellement accomplis ou
+non. Selon l’arrêt de la cour de céans du 21 juillet 2009, il s’agit d’élucider
+la question du caractère réel ou fictif et, dans le premier cas, de déterminer la nature
+et l’importance, de l’activité déployée par le témoin en 2007 au sein
+de la société T.________SA, qu’elle administre, pour le compte du cabinet de A.Z.________.
+Le témoignage porte ainsi sur des "actes accomplis" par le témoin au sens de l’art.
+197 al. 2 ch. 2 CPC. Il en résulte que B.Z.________ a en principe l’obligation de témoigner
+en dépit de son lien conjugal avec le débiteur poursuivi.
+dd)
+Il reste à déterminer si ce témoignage conserve son utilité compte tenu des autres
+preuves administrées. A cet égard, le témoin [...], réviseur des comptes de T.________SA,
+a indiqué que l’activité de cette société consistait essentiellement en la
+gestion d’un immeuble et des travaux de secrétariat pour le cabinet de conseils et d’expertise
+de A.Z.________. Il a confirmé les mouvements d’argent intervenus pour un montant de 97'859
+fr. 40 versé par le cabinet précité à T.________SA à titre de salaire pour les
+travaux de secrétariat effectués par cette société. Il n’a en revanche pas
+pu préciser le caractère effectif ni l’ampleur et la nature du travail ainsi rémunéré,
+ne se souvenant d’ailleurs pas d’éventuelles factures adressées par T.________SA
+à Philippe Guignard. Il en résulte qu’il reste utile d’entendre B.Z.________.
+Sur cette question du travail effectué par T.________SA, le poursuivi peut également être
+invité à produire toutes pièces susceptibles d’établir l’activité
+déployée par cette société en contrepartie du montant précité qui lui a
+été versé en 2007 à titre de "participation salaires". De même, on
+peut ordonner la production par T.________SA de ses fiches de salaires et déclarations à l’AVS,
+afin d’établir à qui ce salaire a été versé.
+Il se justifie ainsi d’annuler à nouveau la décision et de renvoyer la cause à l’autorité
+inférieure de surveillance pour nouvelle instruction, dès lors que la cour de céans statue
+à huis clos (art. 32 al. 1 LVLP) sur la base du dossier et des écritures et des pièces
+produites par les parties, sans procéder elle-même à l’audition de témoins
+ni ordonner la production de pièces.
+.
+c)
+Quant au montant de 12'076 fr. 95, le premier juge a retenu des explications de A.Z.________ qu’il
+s’agissait du solde d’honoraires restant dus à son cabinet en 2007, après constitution
+d’une provision sur débiteurs douteux en 2006, et qu’il avait ainsi été passé
+de manière justifiée dans le poste "pertes sur honoraires" en 2007, soit comptabilisé
+dans les produits n’ayant pas encore été payés. Le recourant fait valoir que le
+débiteur n’a pas produit de facture ou d’autres pièces permettant de vérifier
+l’existence même de sa créance d’honoraires. Il s’agit là d’une
+question distincte de celle suscitée par la comptabilisation des montants, qui a été élucidée
+à satisfaction. Dans la mesure où le prononcé est de toute manière annulé et
+la cause renvoyée au premier juge pour nouvelle instruction, celui-ci procédera également
+à la vérification, par la production de titres, du caractère réel de cette créance.
+III.
+Le recours doit ainsi être admis, la décision de l'autorité inférieure de surveillance
+annulée et la cause renvoyée à cette autorité pour nouvelle instruction dans le sens
+des considérants et nouvelle décision.
+L'arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al.
+2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est annulé et la cause renvoyée à la Présidente du Tribunal d'arrondissement
+de La Côte, autorité inférieure de surveillance, pour nouvelle instruction et nouvelle
+décision.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+13 août 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Christophe Piguet, avocat (pour H.________),
+‑
+Me Paul Marville, avocat (pour A.Z.________),
+‑
+M. le Préposé à l'Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
