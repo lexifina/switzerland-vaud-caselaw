@@ -1,0 +1,203 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___79"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 79"
+decided: "2010-09-01"
+published: "2010-09-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100827163712598_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-013.md", "switzerland/bund/acts/220/art-493.md", "switzerland/bund/acts/220/art-494.md", "switzerland/bund/acts/312.0/art-071.md", "switzerland/bund/acts/312.0/art-073.md", "switzerland/bund/acts/312.0/art-081.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 79
+
+## Regeste
+
+ACTE DE CAUTIONNEMENT, CAUTIONNEMENT, CAUTION{PARTIE AU CAUTIONNEMENT} | 493 al. 2 CO, 493 CO
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 01.09.2010 Pron-prés / 2010 / 79
+
+ACTE DE CAUTIONNEMENT, CAUTIONNEMENT, CAUTION{PARTIE AU CAUTIONNEMENT} | 493 al. 2 CO, 493 CO
+
+TRIBUNAL
+CANTONAL
+320
+PE02.016476-JBN/CMS/AFE
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+1
+er
+septembre 2010
+________________
+Du 31 août
+2010
+________________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+M.              Ritter
+*****
+Art.
+493 al. 3 CO; 69 al. 2, 73, 81 CPP
+Vu le jugement rendu le 21 juin 2010, par lequel le Tribunal correctionnel de l’arrondissement
+de La Côte a, notamment, constaté que J.________ s'était rendu coupable d'abus de confiance,
+d'escroquerie, de fraude dans la saisie, de faux dans les certificats et d'infraction à la loi fédérale
+sur les produits thérapeutiques (II), l'a condamné à 29 mois et 25 jours de peine privative
+de liberté, sous déduction de 16 jours de détention avant jugement, ainsi qu'à une
+amende de 10'000 fr., la peine privative de liberté de substitution en cas de non paiement fautif
+de l'amende étant de 100 jours, peine partiellement complémentaire à celles prononcées
+le 18 novembre 1998 par le Tribunal de division 1, le 11 mai 2001 par le Juge d'instruction de Lausanne
+et le 16 juillet 2004 par la Cour de cassation pénale du Tribunal cantonal (III), a assorti cette
+peine d'un sursis partiel de cinq ans portant sur une partie de la peine fixée à 15 mois et
+25 jours (IV) et a ordonné le maintien en détention préventive de J.________ (VI),
+vu la demande de mise en liberté provisoire formée le 22 juin 2010 par J.________,
+vu la déclaration de recours déposée le 24 juin 2010 par le prénommé contre
+ce jugement,
+vu l'arrêt rendu le 25 juin 2010 par le Président de la Cour de cassation pénale (n°
+263), prononçant que la requête de mise en liberté formée par J.________ est accordée,
+pour autant qu'il ne soit pas détenu pour une autre cause, à la condition que l'intéressé
+fournisse, sous forme de dépôt ou de cautionnement, des sûretés à hauteur de
+30'000 fr. jusqu'à droit connu sur le recours interjeté à l'encontre du jugement rendu
+le 21 juin 2010 par le Tribunal correctionnel de l'arrondissement de La Côte (I),
+vu l'arrêt rendu le 2 août 2010 par le Président de la Cour de cassation pénale (n°
+288), refusant les sûretés offertes par J.________,
+vu l'écriture de J.________ du 26 août 2010,
+vu le préavis du Ministère public du 27 août 2010, transmis par téléimprimeur,
+vu l'écriture complémentaire du recourant du même jour, également transmise par téléimprimeur,
+vu le procédé du recourant du 30 août 2010,
+vu les déterminations complémentaires du Ministère public du 31 août 2010, qui s'en
+remet à justice,
+vu les pièces du dossier;
+attendu que le Président de la Cour de cassation pénale est compétent pour toute question
+en relation avec la détention préventive (cf. art. 434 al. 1 et 2 CPP),
+que, selon l'art. 81 CPP, lorsque le juge, notamment, refuse d'accepter les sûretés offertes,
+il rend une décision motivée, qu'il communique au prévenu, le cas échéant au
+tiers garant;
+attendu que les sûretés exigées par l'arrêt du 25 juin 2010 n'ont, à ce jour,
+pas été versées,
+que le requérant a produit, d'une part, la copie d'un titre manuscrit sous seing privé, signé
+le 25 août 2010 de la main d'un sieur [...], à Genève, dans lequel celui-ci déclare
+"(s'engager) solidairement avec J.________ (…) à payer à la demande de l'Ordre judiciaire
+du canton de Vaud, soit notamment du Président de la Cour de cassation pénale du tribunal cantonal
+du canton de Vaud (…), jusqu'à droit connu sur le recours interjeté à l'encontre
+du Jugement rendu le 21 juin 2010 par le Tribunal correctionnel de l'arrondissement de La Côte (PE02.016476-JBN/cms/afe),
+la somme de Fr. 30'000 (…) dans l'hypothèse où, une fois libéré de détention
+préventive, J.________ devrait prendre la fuite en quittant la Suisse",
+que le recourant a produit, d'autre part, la copie d'un exemplaire dactylographié de la même
+déclaration de volonté, également signé du stipulant,
+qu'ultérieurement, soit après avoir pris connaissance des déterminations du Parquet, il
+a produit un autre cautionnement, de teneur identique, mais portant la signature olographe du promettant
+et contresigné de la main de son épouse avec la mention manuscrite "Lu et approuvé
+– bon pour accord",
+que les premières déclarations comportent la copie recto-verso de la carte d'identité
+du stipulant,
+que la déclaration conjointe des époux comporte le recto de la carte d'identité de chacun
+des stipulants;
+attendu que le cautionnement est régi par les règles de droit fédéral et cantonal
+qui le concernent (art. 71 al. 1 CPP),
+que le dépôt et le cautionnement garantissent que le prévenu donnera suite aux réquisitions
+du juge jusqu'à non-lieu définitif ou jugement exécutoire (art. 73 CPP),
+que, selon l'art. 493 al. 2 CO, lorsque la caution est une personne physique, la déclaration de
+cautionnement doit en outre revêtir la forme authentique conformément aux règles en vigueur
+au lieu où l’acte est dressé; si le cautionnement
+ne
+dépasse pas la somme de 2'000 fr., il suffit que la caution écrive de sa main, dans l’acte
+même, le montant à concurrence duquel elle est tenue et, le cas échéant, qu’elle
+s’engage en qualité de caution solidaire,
+que, d'après l'art. 493 al. 3 CO, pour les cautionnements de dettes de droit public envers la Confédération
+ou ses établissements de droit public ou envers un canton, comme les droits de douane, les impôts
+et autres droits semblables, et pour les cautionnements de transport, il suffit dans tous les cas de
+la déclaration écrite de la caution et de l’indication numérique, dans l’acte
+même, du montant total à concurrence duquel elle est tenue,
+que, si la caution est mariée, le consentement écrit, préalable ou simultané, du
+conjoint est une condition de validité de l'engagement (art. 494 al. 1 CO);
+attendu que la déclaration de volonté dont se prévaut le recourant tend à un dépôt
+de sûretés sous la forme d'un cautionnement, conformément à l'arrêt précité
+rendu le 25 juin 2010 par le Président de la Cour de cassation pénale,
+que, sous l'angle de l'art. 493 al. 2 CO, la déclaration de volonté, libellée sous seing
+privé, ne satisfait pas à l'exigence de la forme authentique, comme le recourant le reconnaît
+du reste à juste titre lui-même,
+que, cela étant, le recourant fait valoir que l'on se trouve dans l'hypothèse visée par
+l'art. 493 al. 3 CO, s'agissant, selon lui, d'une dette de droit public,
+que le cautionnement ici en cause ne tend assurément pas à garantir une dette de droit privé
+du recourant envers l'Etat,
+que le champ d'application de l'art. 493 al. 3 CO, qui est une loi spéciale par rapport à l'art.
+493 al. 2 CO, concerne certes au premier chef les créances fiscales et douanières, mais n'est
+pas pour autant limité à celles-ci,
+que l'énumération énoncée par cette disposition n'est pas exhaustive (cf. les exemples
+donnés par Scyboz, dans : Traité de droit privé suisse, VII/2, p. 87),
+que l'application du droit pénal, à l'instar de l'ensemble des normes assurant la sécurité
+publique, ne relève pas des rapports privés de l'Etat avec des particuliers,
+qu'il s'agit bien plutôt d'une tâche de puissance publique,
+que l'art. 493 al. 3 CO paraît dès lors trouver application,
+que, sous l'angle de cette norme, la déclaration de volonté de la caution comporte la signature
+olographe du stipulant et de son conjoint au sens de l'art. 13 CO,
+que l'accord du conjoint est donc simultané à teneur de l'art. 494 al. 1 CO,
+que l'identité de la caution et de son conjoint est au surplus validement établie,
+qu'au vu des éléments qui précèdent, la déclaration de volonté produite
+répond à la définition du cautionnement;
+attendu que le stipulant n'a certes pas produit de garantie bancaire,
+que sa condition sociale favorisée ressort toutefois, au degré de vraisemblance exigé,
+de sa profession ainsi que des renseignements fournis à son propos par le conseil du recourant,
+à telle enseigne que les sûretés en question peuvent être tenues pour valides,
+qu'il y a donc lieu d'admettre les sûretés offertes,
+que le recourant doit en conséquence être libéré, le cautionnement demeurant jusqu'à
+droit connu selon arrêt définitif et exécutoire sur l'issue de l'instruction pénale
+ouverte contre lui dans la présente cause;
+attendu que l'arrêt doit être rendu sans frais.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos :
+I.
+Accepte les sûretés offertes par J.________.
+II.
+Ordonne la mise en liberté immédiate de J.________ au sens des considérants, pour autant
+qu'il ne soit pas détenu pour une autre cause.
+III.
+Dit que l'arrêt, rendu sans frais, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Paul Marville, avocat (pour J.________),
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+-
+M. [...],
+‑
+Département de l'intérieur, Office d'exécution des peines,
+-
+M. le Surveillant de la Prison du Bois-Mermet,
+-
+M. le Président du Tribunal correctionnel de l’arrondissement de La Côte,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100
+al.
+1 LTF).
+Le greffier :
