@@ -1,0 +1,204 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2010___80"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2010 / 80"
+decided: "2010-09-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20100902144805367_e.html"
+cites_law: ["switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-434.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Findinfo Pron-prés / 2010 / 80
+
+## Regeste
+
+MISE EN LIBERTÉ PROVISOIRE | 59 CP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.09.2010 Pron-prés / 2010 / 80
+
+MISE EN LIBERTÉ PROVISOIRE | 59 CP
+
+TRIBUNAL
+CANTONAL
+366
+PE09.000455/CMI/CMF/SNR
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+3 septembre 2010
+________________
+Du 2 septembre
+2010
+________________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+M.              Rebetez
+*****
+Art.
+59 et 434 CPP
+Vu le jugement rendu le 13 août 2010 par lequel le Tribunal correctionnel de l’arrondissement
+de Lausanne a, notamment, libéré
+A.________
+de l'accusation de mise en danger de la vie d'autrui (I); constaté qu'il s'était rendu coupable
+de lésions corporelles simples qualifiées, voies de fait qualifiées, menaces qualifiées,
+contrainte, séquestration et enlèvement (II) et l'a condamné à quatorze mois de peine
+privative de liberté, sous déduction de 224 jours de détention préventive (III),
+vu le recours déposé le 30 août 2010 contre ce jugement par A.________,
+vu la requête de mise en liberté provisoire formée le 31 août 2010 par l'intéressé,
+vu les pièces du dossier;
+attendu que, dès qu'il a reçu le dossier d'une cause relevant de la Cour de cassation pénale,
+le président de cette autorité prend toute décision urgente (art. 434 al. 1 CPP,
+Code de procédure pénale du 12 septembre 1967, RSV 312.01),
+qu'il statue notamment en matière de détention préventive (art. 434 al. 2 CPP),
+que, sitôt qu'un recours est valablement exercé contre un jugement de première instance,
+l'emprisonnement ordonné ou subi avant une décision au fond est assimilé à la détention
+préventive et non à un début d'exécution de peine (CCASS, 7 octobre 2003, n°
+210),
+qu'en l'occurrence, A.________ est toujours en détention préventive,
+attendu que, selon l'art. 59 al. 1 CPP, la détention préventive suppose la réunion d'au
+moins deux conditions, dont la première est l'existence de présomptions suffisantes de culpabilité
+(Piquerez, Traité de procédure pénale suisse, Zurich 2006, n° 840),
+attendu qu'en l'espèce, même si le jugement rendu le 13 août 2010 est frappé d'un
+recours qui en suspend l'exécution (art. 424a CPP), les faits retenus permettent raisonnablement
+de soupçonner A.________ d'avoir commis les infractions qui lui sont reprochées,
+que les premiers juges ont fondé
+leur conviction sur des éléments qui paraissent pertinents,
+que la première condition de l'art. 59 CPP
+est dès lors réalisée;
+attendu qu'aux termes de l'art. 59 al. 1 CPP, il faut encore que l'accusé présente un danger
+pour la sécurité ou l'ordre publics, que sa fuite soit à craindre ou que sa liberté
+offre de sérieux inconvénients pour l'instruction,
+que le maintien en détention préventive se justifie lorsque le détenu présente un
+danger pour la sécurité ou l'ordre publics,
+qu'il s'agit du danger de réitération ou de poursuite de l'infraction (Bovay/Dupuis/Monnier/Moreillon/Piguet,
+Procédure pénale vaudoise, Code annoté, 3
+e
+éd., Bâle 2008, n. 2.2.1 ad art. 59 CPP),
+qu'un tel danger existe lorsqu'il apparaît vraisemblable que l'intéressé pourrait poursuivre
+son activité délictueuse ou commettre de nouveaux crimes ou délits importants (Piquerez,
+op. cit., n° 850),
+que selon la jurisprudence, le maintien en détention préventive pour risque de réitération
+ne se justifie que si, d'une part, le pronostic quant au comportement du prévenu en liberté
+est très défavorable et, d'autre part, les infractions à craindre sont graves,
+que la simple possibilité hypothétique de commission de nouvelles infractions, de même
+que la vraisemblance que soient perpétrées des infractions seulement mineures, ne suffisent
+pas pour justifier la détention préventive (ATF 125 I 60 c. 3a),
+que pour apprécier
+in
+concreto
+l'intensité du risque de réitération,
+il convient d'analyser le passé et les antécédents judiciaires de l'accusé et de
+tenir compte de sa fragilité psychique, de ses fréquentations, de la nature et de la fréquence
+des infractions commises (Piquerez, op. cit., n° 851),
+que finalement, en présence d'une probabilité sérieuse de réitération, le principe
+de proportionnalité impose de rechercher si le bien juridique à protéger, soit la sécurité
+publique, pourrait être sauvegardé par d'autres moyens que le maintien en détention, tels
+que la mise en place d'une surveillance médicale, l'obligation de se présenter régulièrement
+à une autorité ou l'instauration d'autres mesures d'encadrement (ATF 123 I 268 c. 2c
+in
+fine
+),
+que selon les faits retenus dans le jugement de première instance, l'accusé n'aurait pas hésité
+à s'en prendre violemment, à plusieurs reprises, à l'intégrité corporelle de
+son épouse,
+qu'il a démontré une tendance à adopter un comportement de tyran domestique n'hésitant
+pas à maltraiter son épouse de toutes les façons possibles, à savoir, lésions
+corporelles, menaces, contrainte et séquestration (jgt., p. 16),
+que l'expertise psychiatrique ordonnée en cours d'enquête souligne que le requérant souffre
+d'un trouble de la personnalité paranoïaque et présente une sensibilité excessive
+aux échecs et aux rebuffades, un caractère soupçonneux et une tendance à l'interprétativité
+ainsi que des doutes répétés sur la fidélité de son conjoint (jgt, p. 16),
+qu'il apparaît que A.________ est pathologiquement jaloux (jgt., p. 16),
+que le tribunal a relevé que le requérant ne s'était nullement remis en question, niant
+un éventuel problème de violence et/ou d'alcool et soutenant juste avoir commis une erreur
+corrigée dès sa première incarcération (jgt., p. 16),
+que les multiples plaintes, avertissements, périodes de détention préventive, cours contre
+la violence et la naissance d'un enfant n'ont eu aucun effet dissuasif (jgt., pp. 16-17),
+que le risque de récidive est indéniablement élevé en raison des réitérations
+en cours d'enquête, de la reprise possible de la vie commune ou, à tout le moins, d'éventuels
+contacts en relation avec la garde de l'enfant ainsi que de l'absence de traitement susceptible de réduire
+ce risque (jgt., p. 17),
+qu'au vu de l'ensemble des circonstances qui précèdent, et sans préjuger du sort du recours
+pendant, on ne peut que constater que A.________ présente un danger pour la sécurité ou
+l'ordre publics;
+attendu, enfin, que le principe de la proportionnalité ne s'oppose pas au maintien du requérant
+en détention, compte tenu de la peine encourue,
+que l'éventualité de l'octroi d'une libération conditionnelle aux deux tiers de la peine
+n'entre en principe pas en ligne de compte dans le calcul de la durée acceptable de la détention
+préventive (Piquerez, op. cit., n° 2434 et les références citées),
+que le Tribunal fédéral n'admet la prise en considération de cette circonstance qu'à
+titre exceptionnel, en particulier lorsqu'il apparaît que les conditions d'octroi de la libération
+conditionnelle sont selon toute vraisemblance remplies (TF 1P.215/2006 du 5 mai 2006 c. 4.1),
+qu'en l'occurrence, au jour du jugement de première instance, A.________ était détenu
+depuis deux cent quarante-quatre jours,
+qu'au vu des faits retenus dans le jugement, on peut considérer que la peine de quatorze mois de
+peine privative de liberté, sous déduction de deux cent quarante-quatre jours de détention
+préventive, prononcée par le tribunal n'est pas démesurée,
+qu'ainsi elle peut servir de référence,
+qu'en outre, il n'y a pas lieu de tenir compte de la libération conditionnelle pour apprécier
+la durée probable de la peine, dès lors que l'on ne se trouve pas dans le cas de figure évoqué
+par la jurisprudence,
+que, dans ces conditions, compte tenu du délai dans lequel la Cour de cassation devrait rendre son
+arrêt sur le fond, d'une part, et de la peine encourue, d'autre part, le principe de proportionnalité
+ne s'oppose pas au maintien en détention préventive du requérant;
+attendu qu'il convient en définitive de rejeter la requête de mise en liberté provisoire
+formée par A.________,
+que les frais d'arrêt, y compris l'indemnité allouée à son défenseur d'office
+par 200 fr., doivent être mis à la charge du requérant (art. 450 al. 1 CPP par analogie);
+attendu que le remboursement à l'Etat de l'indemnité due au défenseur d'office sera exigible
+pour autant que la situation économique de A.________ se soit améliorée.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+La requête de mise en liberté formée par A.________ est rejetée.
+II.
+Les frais d'arrêt, par 500 fr. (cinq cents francs), y compris l'indemnité allouée à
+son défenseur d'office par 200 fr. (deux cents francs) sont mis à la charge du requérant.
+III.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre II ci-dessus sera exigible
+pour autant que la situation économique de A.________ se soit améliorée.
+IV.
+L'arrêt est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Carole Sonnenberg, avocate-stagiaire (pour A.________),
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+Département de l'intérieur, Office d'exécution des peines,
+‑
+Mme la Présidente du Tribunal correctionnel de l'arrondissement de Lausanne,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Conformément à l'art. 434 al. 2 CPP, les parties peuvent déposer un recours motivé
+dans les dix jours dès la communication de la présente décision auprès de la Cour
+de cassation pénale du Tribunal cantonal, ledit recours devant contenir la désignation de la
+décision attaquée, les conclusions en réforme ou en nullité et les motifs à
+l'appui de ces conclusions.
+Le greffier :
