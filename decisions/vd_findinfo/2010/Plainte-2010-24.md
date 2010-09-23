@@ -1,0 +1,268 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 24"
+decided: "2010-09-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2009703"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/281.1/art-072.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 24
+
+## Regeste
+
+RESTITUTION DU DÉLAI, OPPOSITION{LP}, COMMANDEMENT DE PAYER, NOTIFICATION IRRÉGULIÈRE, PERSONNE PHYSIQUE, ADULTE, MÉNAGE | 33 al. 4 LP, 64 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.09.2010 Plainte / 2010 / 24
+
+RESTITUTION DU DÉLAI, OPPOSITION{LP}, COMMANDEMENT DE PAYER, NOTIFICATION IRRÉGULIÈRE, PERSONNE PHYSIQUE, ADULTE, MÉNAGE | 33 al. 4 LP, 64 LP
+
+TRIBUNAL
+CANTONAL
+24
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 septembre 2010
+__________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+33 al. 4 et 64 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+U.________
+,
+à Lausanne, contre la décision rendue le 20 mai 2010, à la suite de l’audience du
+6 mai 2010, par le Président du Tribunal d’arrondissement de Lausanne, autorité inférieure
+de surveillance, rejetant sa requête de restitution du délai pour former opposition à
+la poursuite n° 5'233'375 de l'
+Office
+des poursuites de Lausanne-Est
+exercée contre
+elle à l'instance d'
+E.________AG
+,
+à Schwerzenbach.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 5 février 2010, sur réquisition d'E.________AG, l'Office des poursuites de Lausanne-Est
+(ci-après : l'office) a notifié à U.________, [...], à Lausanne, un commandement
+de payer dans la poursuite n° 5'233'375. Selon les indications de l'agent notificateur inscrites
+sur l'acte, celui-ci a été remis à l'époux de la poursuivie. Aucune opposition n'a
+été formée dans le délai.
+La poursuivante ayant requis la continuation de la poursuite, l'office a adressé à la poursuivie,
+le 8 mars 2010, un avis de participation à la saisie exécutée le 1
+er
+mars 2010.
+Le 11 mars 2010, U.________ a écrit à l'office qu'elle n'avait jamais reçu le commandement
+de payer à l'origine de cette saisie. L'office lui a répondu par lettre du 16 mars 2010, prenant
+note de son opposition totale à la poursuite en cause mais précisant qu'il lui appartenait
+de requérir la restitution du délai d'opposition auprès du Président du Tribunal
+d'arrondissement de Lausanne. En annexe à sa lettre, l'office a transmis à la poursuivie une
+copie du commandement de payer.
+b)
+Par lettre du 22 mars 2010 adressée à l'office, la poursuivie, par son conseil, a formé
+opposition au commandement de payer n° 5'233'375.
+Le même jour, elle a saisi le Président du Tribunal d'arrondissement de Lausanne, autorité
+inférieure de surveillance, d'une requête de restitution du délai d'opposition. Elle a
+requis l'effet suspensif, qui a été accordé par décision présidentielle du 24
+mars 2010.
+2.
+A l'audience du 6 mai 2010, la requérante a confirmé avoir été en voyage au moment
+où le commandement de payer devait lui être notifié. Entendu comme témoin, son époux
+a expliqué être allé chercher à l'office un commandement de payer qui lui était
+destiné et s'être vu remettre à cette occasion un acte de poursuite concernant son épouse.
+Il a déclaré avoir oublié d'en parler à sa femme, ne pas lui avoir transmis cet acte
+et l'avoir entre-temps égaré.
+Par décision rendue sans frais à l'issue de cette audience et adressée pour notification
+aux parties le 20 mai 2010, le magistrat précité a rejeté la requête. En bref, il
+a considéré que le commandement de payer en cause avait été valablement notifié
+à l'époux de la requérante, dans les locaux de l'office; dès lors qu'on pouvait raisonnablement
+attendre du mari qu'il transmette cet acte à son épouse, avec laquelle il fait ménage
+commun, dès le retour de voyage de celle-ci, le fait qu'il n'ait pas remis le commandement de payer
+à sa destinataire ne pouvait être considéré comme un empêchement non fautif
+de former opposition dans le délai.
+3.
+Par acte du 31 mai 2010,
+U.________ a recouru contre cette décision, concluant, avec suite de frais et dépens, à
+sa réforme en ce sens que la requête de restitution de délai est admise et l'opposition
+à la poursuite n° 5'233'375 de l'Office des poursuites de Lausanne-Est confirmée.
+La recourante a requis l'effet suspensif, qui a été accordé par décision du Président
+de la cour de céans du 2 juin 2010.
+L'office a produit des déterminations le 16 juin 2010, préavisant pour le rejet du recours.
+Il a notamment précisé que le commandement de payer destiné à la recourante avait
+été "notifié le 5 février 2010 par l'entremise d'un collaborateur de l'office
+à "son époux" [...] lors d'un passage de ce dernier à nos bureaux dans le cadre
+de requêtes de saisie dirigées à son encontre". Sur la question de l'éventuel
+empêchement non fautif de former opposition à temps, l'office a déclaré n'être
+"pas en mesure de confirmer ni d'infirmer les déclarations de la poursuivie, à savoir
+qu'elle était absente à l'époque de la notification de l'acte pas plus que celles du mari
+qui déclare avoir oublié d'en parler à l'intéressée, ne lui avoir pas transmis
+l'acte et l'avoir entre-temps égaré".
+E.________AG n'a pas procédé dans le délai imparti à la partie intimée pour
+produire ses déterminations, mais la recourante a produit un mémoire dans ce délai, le
+17 juin 2010.
+En droit
+:
+I.
+a)
+Aux termes de l’art. 33 al. 4 LP (loi fédérale sur la poursuite pour dettes et la faillite;
+RS 281.1), quiconque a été empêché sans sa faute d’agir dans le délai
+fixé peut demander à l’autorité de surveillance ou à l’autorité
+judiciaire compétente qu’elle lui restitue ce délai. En dehors des cas où une autorité
+judiciaire est déjà saisie, c’est l’autorité de surveillance qui est compétente
+pour statuer sur la restitution d’un délai (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 54 ad art. 33 LP; Erard, Commentaire romand, n. 26 ad
+art. 33 LP). Dans le canton de Vaud, il s'agit du président du tribunal d'arrondissement, autorité
+inférieure de surveillance (art. 15 al. 1 et 2 LVLP – loi vaudoise d’application de
+la loi fédérale sur la poursuite pour dettes et la faillite; RS 280.05), la cour de céans,
+autorité supérieure de surveillance, étant compétente pour connaître du recours
+en réforme ouvert par l’art. 38 al. 2 let. a LVLP contre la décision de première
+instance, et c’est la procédure des art. 17 ss LVLP, en première instance, et 28 ss LVLP,
+en deuxième instance, qui s’applique (JT 2003 II 64; CPF, 14 février 2006, plainte 2005/55;
+CPF, 21 février 2003/16; CPF, 29 septembre 2006/28).
+b)
+En l’espèce, le recours a été déposé dans le délai de dix jours dès
+la notification de la décision attaquée, soit en temps utile (art. 28 al. 1 LVLP). Il est en
+réforme (art. 38 al. 2 let. a LVLP).
+En deuxième instance, l'art. 28 al. 3 LVLP impose aux parties de motiver directement le recours,
+c'est-à-dire d'indiquer leurs moyens, ce que précisait en l'espèce l'avis du 20 mai 2010
+adressé aux parties avec le prononcé et comprenant l'indication des voie et délai de recours.
+La procédure de plainte ne prévoit pas le dépôt d'un mémoire ampliatif. Le défaut
+de motivation constitue un vice qui n'est pas réparable (ATF 126 III 30, JT 2000 II 11; CPF, 19
+avril 2006/7; CPF, 29 septembre 2006/28 précité).
+Il en résulte que le mémoire déposé par la recourante le 17 juin 2010 est irrecevable.
+II.
+a)
+Objectivement, l'art. 33 al. 4 LP ne s'applique que si le délai à restituer est échu,
+ce qui implique qu'il a valablement couru. Tel n'est pas le cas si la communication de l'acte, à
+compter de laquelle le délai court, est irrégulière. Autrement dit, la restitution d'un
+délai suppose un empêchement d'agir autre qu'une communication irrégulière (Gilliéron,
+op. cit., n. 37 ad art. 33 LP; Erard, op. cit., n. 19 ad art. 33 LP).
+b)
+Forme qualifiée de communication, la notification est destinée à s’assurer qu’un
+acte produisant des effets juridiques a effectivement été porté à la connaissance
+de son destinataire ou d’une personne habilitée, tels que définis aux art. 64 à
+66 LP. Selon ces dispositions, la notification concerne les actes de poursuite, parmi lesquels le commandement
+de payer, dont la communication obéit en outre à des règles particulières (art. 72
+LP; Jeanneret/Lembo, Commentaire romand, nn. 3 ss ad art. 64 LP). Selon l’art. 64 al. 1 LP, qui
+régit la notification aux personnes physiques, les actes de poursuites sont notifiés au débiteur
+dans sa demeure ou à l'endroit où il exerce habituellement sa profession. S’il est absent,
+l’acte peut être remis à une personne adulte de son ménage ou à un employé.
+Celui qui procède à la notification d’un commandement de payer atteste sur chaque exemplaire
+de celui-ci le jour où elle a eu lieu et la personne à qui l’acte a été remis
+(art. 72 al. 2 LP).
+Contrairement à ce que l'on pourrait déduire du texte de l'art. 64 al. 1 LP, l'énumération
+des lieux de notification n'est pas exclusive : les actes de poursuite peuvent être notifiés
+en n'importe quel lieu, pourvu que l'agent notificateur soit à même d'identifier son interlocuteur
+comme étant un destinataire autorisé à recevoir l'acte (Gilliéron, op. cit., n. 9
+ad art. 64 LP; Jeanneret/Lembo, op. cit., n. 14 ad art. 64 LP). En soi, la notification du commandement
+de payer dans les locaux de l'office du for de la poursuite est régulière.
+Quant au destinataire de la notification, il faut distinguer selon que le débiteur est présent
+ou absent. S'il est présent, c'est-à-dire atteignable à sa demeure, sur son lieu de travail
+ou en tout autre lieu où l'agent notificateur puisse l'identifier, la notification doit intervenir
+en ses mains ou en celle de son représentant légal ou conventionnel. S'il est absent, et qu'il
+s'agit d'une absence provisoire, c'est-à-dire que le destinataire a quitté sa demeure ou son
+lieu de travail avec l'intention d'y revenir (Gilliéron, op. cit., n. 20 ad art. 64 LP), l'acte
+peut être notifié à une personne adulte faisant ménage commun avec le débiteur
+ou à un employé du débiteur. La notification à un tiers – qui n'est pas le
+représentant légal ni conventionnel – n'est régulière que si le destinataire
+est absent provisoirement et que l'agent notificateur a constaté ou s'est assuré préalablement
+de cette absence (Gilliéron, op. cit., n. 19 ad art. 64 LP; JT 1972 III 57).
+c)
+En
+l'espèce, il n'est pas allégué et il ne ressort pas non plus du dossier que le mari de
+la recourante était un représentant conventionnel, au bénéfice d'une procuration.
+Il importe dès lors de déterminer si la recourante était absente ou non lors de la notification
+et si l'office a constaté son absence ou s'en est assuré avant de remettre le commandement
+de payer à son époux. Or, si la recourante admet avoir été en voyage, soit provisoirement
+absente, l'office, pour sa part, non seulement n'allègue pas s'être préalablement assuré
+de l'absence de la destinataire du commandement de payer lorsqu'il a remis cet acte à son mari,
+mais reconnaît même qu'il ne l'a pas fait en déclarant dans ses déterminations qu'il
+"n'est pas en mesure de confirmer ni d'infirmer les déclarations de la poursuivie, à savoir
+qu'elle était absente à l'époque de la notification de l'acte".
+Il s'ensuit que la notification, en soi régulière, du commandement de payer au mari de la recourante,
+soit à une personne adulte de son ménage, dans les locaux de l'office, doit en définitive
+être considérée comme irrégulière, dès lors qu'il est établi que l'office
+ne s'est pas assuré au préalable de l'absence de la recourante. L'agent notificateur qui se
+présente dans la demeure du débiteur et constate son absence peut immédiatement procéder
+à la notification à une personne de son ménage ou à un employé sans avoir à
+vérifier qu'il est également absent de son lieu de travail et inversement (Jeanneret/Lembo,
+op. cit., n. 23 ad art. 64 LP). Autre est la situation où, à l'occasion du passage d'une personne
+à l'office, on lui remet un commandement de payer destiné à son conjoint. L'agent notificateur
+n'est alors nullement dispensé de s'assurer préalablement de l'absence du débiteur à
+sa demeure ou à son lieu de travail. Fondamentalement, l'acte de poursuite doit être remis
+personnellement au débiteur, dont il faut s'assurer qu'il est, à tout le moins, placé
+en situation de pouvoir prendre connaissance de l'acte (ibid., n. 18 ad art. 64 LP).
+La notification du commandement de payer n'ayant pas été régulière, le délai
+d'opposition n'a pas commencé à courir avant le jour où la recourante a eu une connaissance
+effective de l'acte (Donzallaz, La notification en droit interne suisse, nn. 1128-1131, pp. 537-539).
+Tel a été le cas à réception de la lettre de l'office du 16 mars 2010, à laquelle
+était jointe une copie du commandement de payer. L'opposition formée par lettre du conseil
+de la recourante du 22 mars 2010 est ainsi intervenue en temps utile et il n'y a pas lieu de restituer
+le délai d'opposition.
+III.
+Il
+résulte de ce qui précède que la requête en restitution de délai n'a pas d'objet,
+mais qu'il doit être constaté d'office que l'opposition formée le 22 mars 2010 à
+la poursuite en cause a été formée en temps utile.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS
+281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+L'opposition formée le 22 mars 2010 par la recourante au commandement de payer n° 5'233'375
+de l'Office des poursuites de Lausanne-Est a été formée en temps utile.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+23 septembre 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Jean-Claude Nicaty, agent d'affaires breveté (pour U.________),
+‑
+E.________AG,
+‑
+M. le Préposé à l'Office des poursuites de Lausanne-Est.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
