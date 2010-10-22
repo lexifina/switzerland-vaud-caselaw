@@ -1,0 +1,157 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 27"
+decided: "2010-10-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2049766"
+cites_law: ["switzerland/bund/acts/173.110/art-035.md", "switzerland/bund/acts/173.110/art-050.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-056.md", "switzerland/bund/acts/281.1/art-063.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 27
+
+## Regeste
+
+PLAINTE{LP}, DÉLAI DE RECOURS, DÉCISION D'IRRECEVABILITÉ | 464 CPC, 18 al. 1 LP, 28 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.10.2010 Plainte / 2010 / 27
+
+PLAINTE{LP}, DÉLAI DE RECOURS, DÉCISION D'IRRECEVABILITÉ | 464 CPC, 18 al. 1 LP, 28 al. 1 LVLP
+
+TRIBUNAL
+CANTONAL
+26
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 octobre 2010
+____________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Bosshard et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 LP,  28 al. 1 LVLP  et  464 CPC
+Vu le prononcé rendu le 8 juillet 2010, à la suite de l'audience du 15 avril 2010, par le Président
+du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance, rejetant la
+plainte déposée par
+S.________
+,
+à Lausanne, contre le commandement de payer qui lui avait été notifié dans la poursuite
+n° 5'223'971 de l'
+Office
+des poursuites de Lausanne-Est
+exercée contre
+lui à l'instance de l'
+Etat
+de Vaud
+,
+Service
+Juridique et Législatif, Secteur Recouvrement et Bureau AJ
+,
+vu le recours formé contre cette décision par S.________, par acte directement motivé
+déposé le 13 août 2010;
+attendu que le délai pour recourir contre une décision de l'autorité inférieure de
+surveillance est de dix jours à compter de sa notification (art. 18 al. 1 LP – loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1 – et 28 al. 1 LVLP –  loi vaudoise
+d'application de la LP; RSV 280.05),
+qu'en l'espèce, selon les informations d'acheminement postal figurant au dossier, le pli contenant
+le prononcé envoyé le 8 juillet 2010 en courrier recommandé à S.________ lui a été
+remis le lendemain, 9 juillet 2010,
+que l'échéance du délai de dix jours pour recourir tombait donc le 19 juillet 2010, soit
+durant les féries d'été qui s'étendent, en droit des poursuites, du 15 au 31 juillet
+(art. 56 ch. 2 LP),
+que, si la fin du délai de recours dans la procédure de plainte coïncide avec un jour
+des féries, le délai est prolongé jusqu'au troisième jour utile – c'est-à-dire
+ouvrable – suivant la fin des féries, le samedi, le dimanche et les jours légalement
+fériés n'étant pas comptés dans le calcul de cette prolongation de trois jours (art.
+63 LP; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 216 ad art. 17 LP et n. 53 ad art. 18 LP),
+que le délai de recours était donc en l'espèce prolongé de par la loi jusqu'au 4
+août 2010,
+que l'acte posté le 13 août 2010 a ainsi été déposé après l'échéance
+du délai légal;
+attendu que le président de la cour de céans, par avis du 20 août 2010 adressé en
+courrier recommandé à S.________, a informé celui-ci que son recours pourrait être
+déclaré irrecevable pour tardiveté et que la cour statuerait sur cette irrecevabilité
+éventuelle à l'échéance du délai au 3 septembre 2010, fixé en application
+par analogie de l'art. 464 CPC (Code de procédure civile; RSV 270.11), dans lequel il était
+loisible au recourant de formuler toutes observations utiles,
+que, dans une écriture du 26 août 2010, l'intéressé a indiqué qu'il avait par
+erreur tenu compte des féries de procédure civile cantonale, qui s'étendent du 15 juillet
+au 15 août, au lieu des féries de la LP,
+qu'il a cependant fait valoir que, "par sa nature", sa lettre du 13 août 2010, accompagnant
+son acte de recours, incluait "implicitement une requête de prolongation du délai de recours",
+que, subsidiairement, il a requis que son acte du 26 août 2010 soit considéré comme une
+nouvelle plainte LP "justifiée par le fait également nouveau de la lettre de la Municipalité
+du 16 août et des considérants qu'elle contient",
+que, à supposer qu'une prolongation de délai ait été valablement requise, il n'est
+pas dans le pouvoir du juge de prolonger un délai de la LP, sauf autorisation expresse de la loi
+(Gilliéron, Poursuite pour dettes, faillite et concordat, 4
+ème
+éd., n. 445, p. 85),
+qu'un délai peut être restitué, mais à la condition que le requérant fasse valoir
+un empêchement non fautif (art. 33 al. 4 LP),
+qu'en l'espèce, les explications du recourant ne permettent pas de considérer qu'il a été
+sans sa faute empêché d'agir à temps (Poudret, Commentaire de la loi fédérale
+d'organisation judiciaire, vol. I, n. 2.7 a ad art. 35 OJ; cette loi a été abrogée par
+la LTF – loi sur le Tribunal fédéral; RS 173.110 –, dont l'art. 50 reprend la notion
+d'empêchement non fautif; Donzallaz, Loi sur le Tribunal fédéral, Commentaire, section
+6 ad art. 50 LTF, nn. 1327 ss, pp. 562 ss),
+que le recours de S.________ est ainsi tardif et, par conséquent, irrecevable;
+attendu que l'Office des poursuites de Lausanne-Est n'a rendu aucune nouvelle décision contre laquelle
+une nouvelle plainte pourrait être déposée, de sorte qu'il n'y a pas lieu de considérer
+l'écriture du 26 août 2010 comme une nouvelle plainte;
+attendu que le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5
+LP, 61 al. 2 let. a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application
+de la LP; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+22 octobre 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. S.________,
+‑
+Etat de Vaud, Département de l'Intérieur, Service Juridique et Législatif, Secteur Recouvrement
+et Bureau AJ,
+‑
+M. le Préposé à l'Office des poursuites de Lausanne-Est.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
