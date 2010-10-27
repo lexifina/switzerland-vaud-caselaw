@@ -1,0 +1,130 @@
+---
+decision_id: "vd_findinfo_Faillite___2010___21"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2010 / 21"
+decided: "2010-10-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2379640"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2010 / 21
+
+## Regeste
+
+EXERCICE DU DROIT CONTRAIRE À SA FINALITÉ | 443 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.10.2010 Faillite / 2010 / 21
+
+EXERCICE DU DROIT CONTRAIRE À SA FINALITÉ | 443 CPC
+
+TRIBUNAL
+CANTONAL
+421
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 octobre 2010
+_____________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Bosshard et Hack
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+174 LP
+Vu le prononcé rendu le 26 août 2010 par le Président du Tribunal d'arrondissement de
+Lausanne, à la suite de son audience du 19 août 2010, prenant acte du retrait par
+D.________
+,
+à Lausanne, de sa requête de faillite du 13 juillet 2010 relative à la poursuite n°
+5'118'666 de l'Office des poursuites de Morges à l'encontre d'
+E.________
+,
+à Ecublens, et mettant les frais de sa décision, par 50 fr., à la charge du requérant,
+vu l'écriture d'E.________, datée du 3 septembre 2010, mais reçue le 16 septembre 2010
+par le greffe du Tribunal d'arrondissement de Lausanne, intitulée "Recours contre le jugement
+du Tribunal d'arrondissement de Lausanne du 19.8.2010 – Autorité de surveillance en matière
+de poursuites et de faillites reçu le 25.8.2010" avec la référence à la poursuite
+précitée,
+vu l'écriture datée du 11 septembre 2010, mais reçue le 16 septembre 2010 par le greffe
+du Tribunal d'arrondissement de Lausanne, intitulée "Recours contre le jugement du Tribunal
+d'arrondissement de Lausanne du 26.8.2010 – reçu le 6.9.2010" avec la référence
+à la poursuite précitée,
+vu l'écriture complémentaire déposée le 25 septembre 2010 par E.________;
+attendu que la date de la notification du prononcé attaqué ne ressort pas du dossier et que
+le recourant indique deux dates différentes pour la réception de celle-ci (25 août et
+6 septembre 2010),
+que, dans ces conditions, il n'est pas possible de déterminer si le recours a été déposé
+en temps utile (art. 174 al. 1 LP – loi fédérale sur la poursuite pour dettes et la faillite
+du 11 avril 1889, RS 281.1 – et art. 57 al. 1 LVLP – loi d'application dans le canton de
+Vaud de la LP du 18 mai 1955, RSV 280.05),
+que cette question peut toutefois rester ouverte dès lors que le recours est irrecevable pour le
+motif qui suit;
+attendu que l'existence d'un intérêt à recourir est en effet requise pour l'exercice de
+toute voie de droit (ATF 127 III 429, c. 1b, rés. in JT 2001 I 371; ATF 126 III 198, c. 2b; ATF
+120 II 5, c. 2a, JT 1997 I 59),
+que l'absence d'un tel intérêt est sanctionnée par l'irrecevabilité du recours (CPF,
+27 avril 2006/182),
+que l'exigence d'un intérêt juridique est remplie lorsque la partie recourante soulève
+une critique susceptible de conduire, le cas échéant, à une décision plus favorable
+pour elle,
+qu'il convient donc d'examiner si cette condition est remplie dans le cas d'espèce,
+qu'une requête de faillite a été déposée le 13 juillet 2010 par D.________ à
+l'encontre du recourant,
+que cette requête a été formellement retirée à l'audience du 19 août 2010,
+que la décision attaquée prend acte de ce retrait et met les frais à la charge du requérant
+D.________,
+que le recourant qui a obtenu gain de cause ne dispose ainsi d'aucun intérêt à recourir,
+qu'au demeurant, le recourant qui paraît se référer dans ces écritures à différentes
+procédures judiciaires civiles et pénales, ne prend aucune conclusion claire, en nullité
+ou en réforme, en relation avec la décision attaquée,
+qu'il y a dès lors lieu de prononcer l'irrecevabilité du recours;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Le prononcé entrepris est maintenu.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+27 octobre 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. E.________,
+‑
+Me Christian Fischer, avocat (pour D.________),
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
