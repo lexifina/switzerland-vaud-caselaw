@@ -1,0 +1,308 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 28"
+decided: "2010-11-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2393717"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-112.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 28
+
+## Regeste
+
+PLAINTE{LP}, POURSUITE PAR VOIE DE SAISIE, MINIMUM VITAL, CALCUL | 17 al. 2 LP, 18 al. 1 LP, 93 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.11.2010 Plainte / 2010 / 28
+
+PLAINTE{LP}, POURSUITE PAR VOIE DE SAISIE, MINIMUM VITAL, CALCUL | 17 al. 2 LP, 18 al. 1 LP, 93 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+27
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 novembre 2010
+_____________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Denys
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17 al. 2, 18 al. 1 et 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.G.________
+et
+B.G.________
+,
+à La Tour-de-Peilz, contre la décision rendue le 3 septembre 2010 par le Président du
+Tribunal d’arrondissement de l'Est vaudois, autorité inférieure de surveillance, considérant
+comme tardive la plainte formée par les recourants contre le calcul de leur minimum d'existence
+établi par l'
+Office
+des poursuites de La Riviera - Pays-d'Enhaut
+,
+à Vevey.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Dans le cadre de la continuation de la poursuite n° 5'138'223 de l'Office des poursuites de La Riviera
+- Pays-d'Enhaut (ci-après : l'office) exercée contre A.G.________ à l'instance de la Confédération
+suisse, représentée par Billag SA, l'office a adressé au débiteur, le 22 janvier
+2010, un avis l'informant qu'il serait procédé contre lui à une saisie pour un montant
+de 194 fr. 35, intérêts et frais compris, le 2 février 2010.
+L'office a dressé un premier procès-verbal des opérations de la saisie, accompagné
+d'un calcul de détermination du minimum d'existence du débiteur, le 1
+er
+février 2010, dont il résultait qu'aucun montant n'était alors saisissable. A.G.________,
+retraité, percevait une rente AVS et des prestations complémentaires de 2'580 fr. au total
+par mois et son épouse ne percevait pas encore de rente. Leur loyer mensuel s'élevait à
+1'400 fr. et leurs frais médicaux et dentaires à 100 fr. par mois. Ils détenaient en outre
+un véhicule en leasing, représentant une charge d'environ 260 francs par mois.
+Après avoir obtenu des renseignements complémentaires de la caisse AVS des époux ainsi
+que de leur caisse de prévoyance professionnelle, l'office a dressé un nouveau procès-verbal
+des opérations de la saisie avec calcul du minimum vital, le 28 avril 2010 : les revenus du couple
+s'élevant à 4'413 fr. par mois et ses charges mensuelles à 1'700 fr., soit la base mensuelle
+pour couple selon les lignes directrices de la Conférence des préposés aux poursuites
+et faillites de Suisse, le paiement des autres charges n'ayant pas été prouvé par le débiteur
+et son épouse, un montant mensuel de 1'671 fr. 55 était saisissable au préjudice de A.G.________,
+soit 61.61 %  de la différence entre les revenus et les charges, selon la clé de
+répartition de ceux-ci entre les époux.
+Le même jour, par lettre adressée en courrier recommandé, l'office a requis du débiteur
+l'envoi, avant le 6 mai 2010, de la police d'assurance maladie du couple pour l'année 2010 et des
+justificatifs du paiement pour les trois derniers mois du leasing de la voiture, du loyer, de l'assurance
+maladie et des frais médicaux.
+Le même jour encore, l'office a adressé un avis de saisie de rente LPP à la caisse de
+prévoyance du débiteur, l'informant qu'elle aurait à saisir une seule fois sur le "salaire"
+de son assuré le montant de 247 fr. 35, payable à l'office. Au débiteur, l'office a adressé
+un décompte de sa dette, s'élevant désormais, compte tenu des frais de saisie, par 53
+fr., à 247 fr. 35, montant payable jusqu'au 5 juin 2010.
+Par lettre adressée à l'office le 4 mai 2010, A.G.________ et B.G.________ ont déclaré
+former "opposition" à l'avis de saisie, contestant notamment le calcul de leur minimum
+d'existence. Ils ont produit des pièces, dont une décision de l'Organe cantonal de contrôle
+de l'assurance-maladie et accidents du 4 mars 2010, leur accordant à chacun un subside mensuel de
+13 fr. comme aide au paiement de leur prime respective de 416 fr. 53, leurs deux polices d'assurance
+fixant pour chacun la prime LAMal nette à 413 fr. 20 par mois dès le 1
+er
+janvier 2010, des décomptes de prestation de leur caisse d'assurance maladie des mois de janvier,
+février et avril 2010 et les justificatifs du paiement du leasing des mois de janvier à mars
+2010.
+Le 10 mai 2010, l'office a écrit à A.G.________ notamment ce qui suit :
+"En
+préambule, nous précisons que le calcul du minimum vital est basé sur les lignes directives
+selon l'article 93 de la loi sur la poursuite pour dettes et la faillite (LP). Vous trouverez ci-joint
+une copie de ces dernières. Conformément à cet article, la base mensuelle pour un couple
+s'élève à Fr. 1'700.00 et inclut, entre autres, les frais pour l'alimentation, les vêtements,
+l'entretien du logement, les frais culturels ainsi que les dépenses d'éclairage, le courant
+électrique ou le gaz pour cuisiner.
+Les
+primes à payer pour des assurances non obligatoires, type assurances complémentaires, ne peuvent
+pas être considérés. […]"
+L'office a en outre invité le débiteur
+à lui remettre jusqu'au 17 mai 2010 la copie de son bail à loyer, les justificatifs de paiement
+du loyer et de l'assurance maladie pour les trois derniers mois, le contrat de leasing et les justificatifs
+de paiement de l'assurance RC du véhicule et de la taxe d'immatriculation, documents à réception
+desquels l'office prendrait une nouvelle décision.
+Ayant reçu certaines des pièces requises, l'office a établi, le 20 mai 2010,  un
+nouveau calcul du minimum vital, dont il résultait qu'un montant mensuel de 453 fr. 30 était
+saisissable au préjudice de A.G.________, selon la clé de répartition des revenus et des
+charges entre les époux. Sous la rubrique "observations", il était mentionné
+que le débiteur avait fait recours auprès du Tribunal des assurances et attendait la décision,
+à réception de laquelle il aurait à payer environ 3'200 fr., et qu'il attendait le versement
+de sa rente LPP afin de payer son assurance maladie.
+Par lettre du 10 juin 2010, avec copie à A.G.________, la caisse de prévoyance professionnelle
+de ce dernier a informé l'office que la saisie de 247 fr. 35 serait effectuée sur le prochain
+versement de la rente LPP trimestrielle, soit à partir du 1
+er
+juillet 2010, et versée à l'office, le solde de la rente revenant à l'assuré.
+Le 16 juin 2010, l'office a encore requis du débiteur l'envoi, jusqu'au 21 juin 2010, des justificatifs
+de paiement du loyer et de l'assurance maladie des trois derniers mois ainsi que de la taxe d'immatriculation
+du véhicule, à réception desquels l'office procéderait à un nouveau calcul du
+minimum vital, la retenue unique de 247 francs 35 subsistant dans l'intervalle.
+Après réception de certaines pièces, l'office a établi, le 18 juin 2010, un nouveau
+procès-verbal des opérations de saisie et un nouveau calcul de détermination du minimum
+d'existence. Les revenus mensuels communs du couple s'élèvent à 4'413 fr. (2719 fr., soit
+61.61 %, du débiteur et 1'694 fr, soit 38.39 %, de son conjoint). Les charges mensuelles, outre
+la base pour couple de 1'700 fr., sont le loyer, par 1'400 fr., les frais médicaux, par 200 fr.,
+et les frais de déplacement chez le médecin, par 357 francs 60, soit au total 3'657 fr. 60.
+La "part" du débiteur représentant 2'253 fr. 55, le montant mensuel saisissable à
+son préjudice est arrêté à 465 fr. 45. Les cotisations LAMal des époux ne sont
+pas prises en compte dans le calcul, aucun justificatif de leur paiement n'ayant été remis
+à l'office.
+Par lettre expédiée en courrier recommandé le 18 juin 2010, l'office a communiqué
+ces nouveaux actes à A.G.________ et l'a informé que la retenue unique de 247 fr. 35 sur sa
+rente LPP subsistait et qu'à réception du montant, il serait procédé au règlement
+de la poursuite n° 5'138'223.
+Le 12 juillet 2010, l'office a adressé au débiteur un avis de règlement de la poursuite
+en cause.
+2.
+Le 1
+er
+septembre 2010, A.G.________ et B.G.________ ont saisi le Président du Tribunal d'arrondissement
+de l'Est vaudois, autorité inférieure de surveillance d'une plainte contre le calcul de détermination
+de leur minimum d'existence opéré par l'office le 18 juin 2006.
+Par décision du 3 septembre 2010, le magistrat précité a considéré cette plainte
+comme tardive et n'est pas entré en matière sur celle-ci.
+3.
+A.G.________ et B.G.________ ont recouru contre
+ce prononcé par acte daté du 10 et remis à la poste le 9 septembre 2010, contestant la
+tardiveté de leur plainte et mettant en cause le calcul du minimum vital opéré par l'office.
+L'office s'est déterminé le 28 septembre 2010, concluant au rejet du recours. Il a produit
+ses actes, procès-verbaux et calculs de déterminations du minimum d'existence, la correspondance
+échangée entre les parties et les pièces justificatives que le débiteur lui avait
+remises
+Les recourants ont déposé une nouvelle écriture, le 25 octobre 2010.
+En droit :
+I.
+Déposé en temps utile contre une décision de l'autorité inférieure de surveillance
+(art. 18 al. 1 LP – loi fédérale sur la poursuites pour dettes et la faillite; RS
+281.1 – et  28 al. 1 LVLP – loi vaudoise d'application de la LP; RSV 280.05) et comportant
+des conclusions – implicites – suffisantes et l'énoncé des moyens invoqués
+(art. 28 al. 3 LVLP), le recours du 9 septembre 2010 est recevable formellement.
+Les déterminations et les pièces produites par l'office sont également recevables (art.
+31 al. 1 LVLP).
+En revanche, l'écriture complémentaire déposée par les recourants est irrecevable
+(ATF 126 III 30, JT 2000 II 11). Le recours contre une décision en matière de plainte LP s'exerce
+par un acte qui doit être directement motivé (art. 28 al. 3 LVLP) et la procédure ne prévoit
+pas le dépôt d'un mémoire complémentaire. Au demeurant, l'écriture en question
+n'apporte aucun élément nouveau pour le calcul du minimum vital.
+II.
+La voie de la plainte au sens de l’art. 17 LP est ouverte aux parties à la procédure
+d’exécution forcée ainsi qu’aux tiers dont la décision attaquée touche
+des intérêts juridiquement protégés. L'existence d'un intérêt digne de
+protection à saisir l'autorité de surveillance est une condition de recevabilité de la
+plainte, qui doit être examinée d'office (Gilliéron, Commentaire de la loi sur la poursuite
+pour dettes et la faillite, n. 140 ad art. 17 LP). Est légitimée à porter plainte toute
+personne directement intéressée à l’issue de la procédure d’exécution
+forcée, au cours de laquelle est intervenue la décision ou la mesure attaquée. Ainsi,
+toute personne qui se prétend atteinte, lésée, dans ses intérêts juridiquement
+protégés, respectivement dignes de protection, par la décision ou la mesure d’une
+autorité de poursuite ou d’un organe de l’exécution forcée a qualité
+pour porter plainte (Gilliéron, op. cit., n. 144 ad art. 17 LP et les arrêts cités).
+En l’espèce, la plainte a pour contexte une poursuite dirigée contre A.G.________, dont
+il n’est ainsi pas douteux qu’il est habilité à porter plainte et à recourir.
+Il faut aussi reconnaître un intérêt digne de protection à son épouse, B.G.________.
+Les recourants ont ainsi qualité pour porter plainte et recourir.
+III.
+Le premier juge a considéré la plainte comme tardive et n'est pas entré en matière
+sur celle-ci.
+Le délai de plainte, qui est de dix jours dès celui où le plaignant a eu connaissance
+de la mesure en cause (art. 17 al. 2 LP), est un délai péremptoire et son observation une condition
+de recevabilité qui doit être vérifiée d'office (TF 7B.110/2004 du 30 juin 2004,
+c. 3.2).
+En l’espèce, la plainte est dirigée contre le procès-verbal des opérations
+de saisie du 18 juin 2010, plus particulièrement la détermination du minimum d’existence.
+Les recourants admettent que leur écriture du 1
+er
+septembre 2010 n’a pas été formée dans le délai légal, mais font valoir
+qu'ils n'ont pas été informés des voies de droit.
+L’indication expresse des voies de droit à l’encontre des décisions des offices
+de poursuite n’est pas légalement prévue, l’art. 20a al. 2 ch. 4 LP ne s’appliquant
+en particulier qu’aux autorités de surveillance. Certaines des formules établies selon
+l’Oform (Ordonnance sur les formulaires et registres à employer en matière de poursuite
+pour dettes et de faillite et sur la comptabilité; RS 281.31) prévoient cependant l’indication
+de voies droit, notamment la formule 6 pour le procès-verbal des opérations de la saisie, qui
+signale au saisi la voie de la plainte dans les dix jours s’il entend soutenir que la saisie a
+porté sur des biens insaisissables ou que la saisie de salaire est injustifiée ou encore exagérée
+(cf. Gilliéron, op. cit., n. 111 ad art. 20a LP). La formule 7c pour le procès-verbal de saisie
+mentionne aussi cette voie de droit. Cependant, l’utilisation de ces formules n’est pas obligatoire
+(cf. art. 1 al. 3 Oform) et, dans le canton de Vaud, elles ne sont plus employées depuis la mise
+en œuvre de la nouvelle application informatique. Les formules actuelles ne contiennent plus l’indication
+de voies de droit. Il serait adéquat de réintroduire cette indication pour les décisions
+des offices qui ont une incidence marquée (le procès-verbal de saisie, par exemple). Quoi qu’il
+en soit, c’est en vain que les recourants invoquent l’absence d’indication des voies
+de droit. Ils ne sauraient en tirer argument quant au non-respect du délai de plainte.
+On comprend toutefois de la plainte du 1
+er
+septembre 2010 que les recourants invoquent une atteinte à leur minimum vital. Or, une plainte est
+recevable en tout temps lorsque la mesure attaquée porte atteinte au minimum vital du débiteur
+et de sa famille et les place dans une situation intolérable (ATF 114 III 78 c. 3, JT 1990 II 162;
+BlSchK 2009 p. 182). Partant, le premier juge aurait dû entrer en matière et traiter la plainte
+qui lui était soumise.
+Le recours doit ainsi être admis, le prononcé de l'autorité inférieure de surveillance
+annulé et la cause renvoyée à cette autorité pour instruction et nouvelle décision.
+IV.
+On peut cependant se demander
+si les recourants ne se méprennent pas sur la portée du procès-verbal des opérations
+de saisie et la détermination du minimum d’existence du 18 juin 2010. Il résulte du calcul
+opéré par l'office sur la base des éléments en sa possession qu'un montant mensuel
+de 465 fr. 45 est saisissable au préjudice du recourant A.G.________. Cela ne signifie pas, contrairement
+à ce que semblent penser les recourants, qu’un montant de 465 fr. 45 va être saisi chaque
+mois sur leurs revenus. Il s’agit uniquement de la détermination de la quotité saisissable
+dans le cadre de la continuation par voie de saisie de la poursuite n° 5'138'223 ici en cause. Or,
+cette poursuite ne concerne qu’une créance de la Confédération suisse (représentée
+par Billag SA) d'un montant de 247 fr. 45, intérêts et frais compris. L’office devait
+ainsi déterminer si ce montant pouvait être saisi au préjudice de A.G.________. Il a considéré
+que tel était le cas, après avoir calculé que le recourant disposait d’une quotité
+saisissable de 465 fr. 45, soit supérieure au montant à saisir. Dans ces conditions, il se
+pourrait que les recourants ne contestent en réalité pas la saisie unique de 247 fr. 45 et
+que la procédure de plainte devienne sans objet. Il conviendra de les interpeller à cet égard.
+Si la procédure de plainte devait malgré tout conserver un objet, il s’agira alors de
+déterminer s’il existe ou non une atteinte au minimum vital. Pour ce qui concerne en particulier
+les primes d’assurance-maladie, que les recourants reprochent à l'office de n'avoir pas pris
+en compte, il leur incombera d’établir qu’ils les ont payées, la jurisprudence
+ne permettant de faire entrer dans le calcul du minimum vital que les obligations pécuniaires effectivement
+versées, ce qui vaut aussi pour les primes d’assurance-maladie (cf. ATF 121 III 20 c. 3b et
+c, JT 1990 III 163 ; Gilliéron, op. cit., n. 105 ad art. 93 LP). L’office pourra aussi,
+le cas échéant, être invité à expliquer pourquoi, à la suite du procès-verbal
+des opérations de saisie, un procès-verbal de saisie (art. 112 LP) n’a en l’état
+pas été émis.
+V.
+Le présent arrêt
+est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP –
+ordonnance sur les émoluments perçus en application de la LP; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est annulé et la cause renvoyée au Président du Tribunal d'arrondissement
+de l'Est vaudois, autorité inférieure de surveillance, pour instruction et nouvelle décision.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+5 novembre 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. et Mme A.G.________ et B.G.________,
+‑
+M. le Préposé à l'Office des poursuites du district de La Riviera – Pays-d'Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
