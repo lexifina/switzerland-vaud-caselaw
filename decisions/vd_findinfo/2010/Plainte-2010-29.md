@@ -1,0 +1,150 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 29"
+decided: "2010-11-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2396762"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 29
+
+## Regeste
+
+PLAINTE À L'AUTORITÉ DE SURVEILLANCE, DROIT D'OBTENIR UNE DÉCISION, RETARD INJUSTIFIÉ | 18 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 09.11.2010 Plainte / 2010 / 29
+
+PLAINTE À L'AUTORITÉ DE SURVEILLANCE, DROIT D'OBTENIR UNE DÉCISION, RETARD INJUSTIFIÉ | 18 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+28
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+9 novembre 2010
+_____________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 2 LP
+Vu la plainte au sens de l'art. 18 al. 2 LP (loi fédérale sur la poursuite pour dettes et la
+faillite; RS 281.1), dont
+E.________AG
+,
+à Zurich, a saisi la cour de céans, autorité supérieure de surveillance, le 14 octobre
+2010, se plaignant d'un retard injustifié de la part du Président du Tribunal d'arrondissement
+de l'Est vaudois, autorité inférieure de surveillance, dans le traitement de la plainte qu'elle
+avait déposée le 10 mai 2010 contre l'
+Office
+des poursuites de Lavaux-Oron
+, à Pully, dans
+le cadre de la poursuite exercée à son instance contre
+N.________
+,
+à Oron-la-Ville (poursuite n° 5'069'603),
+vu les déterminations produites par l'autorité inférieure de surveillance le 22 octobre
+2010,
+vu les pièces du dossier;
+attendu qu'à la suite du dépôt de la plainte précitée du 10 mai 2010, l'Office
+des poursuites de Lavaux-Oron (ci-après : l'office), par lettre du 25 mai 2010, a présenté
+ses excuses à la créancière pour son "manque de réactivité" dans la
+gestion de cette affaire et l'a en outre invitée à déterminer le salaire mensuel net moyen
+du débiteur à prendre en considération pour établir le calcul du minimum vital,
+qu'interpellée par l'autorité inférieure de surveillance le 1
+er
+juin 2010, E.________AG a déclaré, par lettre du 4 juin 2010, qu'elle maintenait sa plainte,
+que, par lettre du 16 juillet 2010, l'office a invité la plaignante à se déterminer sur
+le contenu de sa missive du 25 mai 2010,
+que, le 23 juillet 2010, la plaignante a requis pour ce faire un délai au 13 août 2010,
+que, par lettre adressée en courrier recommandé à l'autorité inférieure de surveillance
+le 12 août 2010, E.________AG a déclaré "maintenir explicitement [sa] plainte"
+et attendre donc une décision,
+que, dans ses déterminations du 22 octobre 2010, l'autorité inférieure de surveillance
+a exposé qu'à réception de cette lettre, le président avait décidé de fixer
+l'audience, mais que cela n'avait pas pu être fait à cause de la maladie d'une collaboratrice
+du greffe et d'une surcharge de travail,
+que, par avis du même jour, ladite autorité a convoqué les parties à son audience
+du 23 novembre 2010, à 10 heures 20;
+attendu que, selon l'art.
+18 al. 2 LP, une plainte peut être déposée en tout temps devant l'autorité cantonale
+supérieure de surveillance contre l'autorité inférieure pour déni de justice ou retard
+injustifié,
+que le retard injustifié est un aspect du déni de justice formel (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 66 ad art. 18 LP),
+qu'il y a retard injustifié lorsque l'autorité inférieure de surveillance reste inactive,
+mais sans avoir la volonté de ne pas agir du tout (ibid., eod. loc.)
+qu'en l'espèce, l'autorité inférieure de surveillance n'a encore rendu aucune décision
+sur la plainte dont elle a été saisie le 10 mai 2010 et dont la plaignante a confirmé
+le maintien le 12 août 2010, et n'avait, jusqu'au 22 octobre 2010, pas fixé d'audience en raison
+d'une surcharge du greffe,
+que l'audience a finalement été fixée,
+qu'on ne voit pas quel motif a empêché l'autorité inférieure de surveillance de statuer
+plus rapidement sur la plainte du 10 mai 2010,
+que la plainte du 14 octobre 2010 doit ainsi être admise et le Président du Tribunal d'arrondissement
+de l'Est vaudois invité à statuer dans les meilleurs délais à la suite de l'audience
+du 23 novembre 2010, soit au plus tard jusqu'au 30 novembre 2010;
+attendu que la présente décision est rendue sans frais ni dépens (art. 20a al. 2 ch. 5
+LP, 61 al. 2 let. a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application
+de la LP; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+La plainte formée le 14 octobre 2010 par E.________AG est admise.
+II.
+Le Président du Tribunal d'arrondissement
+de l'Est vaudois, autorité inférieure de surveillance, est invité à statuer sur la
+plainte déposée le 10 mai 2010 par E.________AG contre l'Office des poursuites de Lavaux-Oron
+dans le cadre de la poursuite n° 5'069'603 exercée à l'instance de la plaignante contre
+N.________, par une décision rendue au plus tard le 30 novembre 2010, à la suite de l'audience
+fixée au 23 novembre 2010.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+9 novembre 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+E.________AG,
+‑
+M. N.________,
+‑
+M. le Préposé à l'Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
