@@ -1,0 +1,2179 @@
+---
+decision_id: "vd_findinfo_Arr_t-sur-appel___2011___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Arrêt-sur-appel / 2011 / 5"
+decided: "2010-11-11"
+published: "2011-05-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2713578"
+cites_law: ["switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-655.md", "switzerland/bund/acts/210/art-665.md", "switzerland/bund/acts/210/art-959.md", "switzerland/bund/acts/210/art-960.md", "switzerland/bund/acts/210/art-961.md", "switzerland/bund/acts/220/art-404.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-108.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-112.md", "switzerland/bund/acts/272/art-262.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# VD Findinfo Arrêt-sur-appel / 2011 / 5
+
+## Regeste
+
+EXÉCUTION ANTICIPÉE, MESURE PROVISIONNELLE, ACQUISITION DE LA PROPRIÉTÉ, IMMEUBLE{ART. 655 CC}, REGISTRE FONCIER, INSCRIPTION, NOVA | 665 CC, 960 CC, 961 al. 3 CC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 06.05.2011 Arrêt-sur-appel / 2011 / 5
+
+EXÉCUTION ANTICIPÉE, MESURE PROVISIONNELLE, ACQUISITION DE LA PROPRIÉTÉ, IMMEUBLE{ART. 655 CC}, REGISTRE FONCIER, INSCRIPTION, NOVA | 665 CC, 960 CC, 961 al. 3 CC
+
+TRIBUNAL
+CANTONAL
+CO10.025711
+62/2011/PHC
+COUR
+CIVILE
+_________________
+Arrêt
+sur appel dans la cause divisant
+Y.________
+AG
+,
+à [...] (ZH), d'avec
+K.________
+SA
+et
+Z.________
+SA
+,
+toutes deux à [...].
+___________________________________________________________________
+Audience
+du 6 mai 2011
+__________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              M.
+Bosshard et Mme Byrde
+Greffier
+:              M.
+Greuter
+*****
+Statuant immédiatement à huis clos, la Cour civile considère :
+En fait :
+A.
+Par ordonnance du 11 novembre 2010, rendue à la suite d'une audience tenue le 4 novembre 2010, le
+Juge instructeur de la Cour civile a rejeté la requête de mesures provisionnelles déposée
+le 10 août 2010 par Y.________ AG contre K.________ SA et Z.________ SA (I), arrêté les
+frais de la procédure provisionnelle à 15'000 fr. pour la requérante (II) et condamné
+cette dernière à verser le montant de 7'500 fr. aux intimés, solidairement entre elles,
+à titre de dépens de la procédure provisionnelle (III).
+La requérante a requis la motivation de cette ordonnance par lettre de son conseil du 16 novembre
+2010.
+Les motifs de l'ordonnance ont ainsi été adressés pour notification aux parties le 13
+janvier 2011 et reçus par ces dernières le lendemain 14 janvier 2011.
+Le 24 janvier 2011, la requérante Y.________ AG a formé un appel contre cette ordonnance concluant,
+avec suite de frais et dépens, à l'admission de l'appel (I), à la réforme de l'ordonnance
+de mesures provisionnelles du 11 novembre 2010 (II), à ce qu'ordre soit donné au Conservateur
+du registre foncier de Nyon qu'elle soit, sur simple présentation de la décision à intervenir,
+inscrite en qualité de propriétaire des parcelles [...] et [...] de la commune de [...] et
+des parcelles [...], [...] et [...] de la commune de [...] (III), subsidiairement, à ce qu'ordre
+soit donné aux intimées de signer dans les cinq jours dès la décision à venir
+tous documents permettant son inscription en qualité de propriétaire de ces parcelles (IV)
+et, à défaut d'exécution du chiffre IV, à ce que le notaire W.________, à [...],
+soit autorisé à signer en lieu et place des intimées, dans les cinq jours dès l'échéance
+du délai imparti sous chiffre IV, tous les documents permettant son inscription en qualité
+de propriétaire de ces parcelles (V).
+L'appelante a déposé avec sa requête d'appel une pièce supplémentaire, savoir
+un contrat signé le 12 décembre 2006 entre N.________ B.V. et [...] AG intitulé "General
+agreement between N.________ B.V. and [...] AG" portant sur le projet [...].
+Le 3 mai 2011, les intimées à l'appel ont déposé des déterminations, accompagnées
+d'un onglet de quatorze pièces sous bordereau. Ce jour, l'appelante a encore produit une pièce,
+soit un rapport d'expertise, du 11 avril 2011, du prix de terrain du projet [...] dont il sera question
+ci-dessous.
+B.
+L'ordonnance entreprise contient en substance
+les faits suivants:
+1.
+La requérante Y.________ AG est une société anonyme de droit suisse active dans le domaine
+de la construction.
+Les intimées K.________ SA et Z.________ SA sont des sociétés anonymes de droit suisse
+actives dans le domaine des opérations immobilières. X.________, domicilié [...], est
+l'administrateur unique de ces deux sociétés.
+L'intimée K.________ SA est propriétaire
+de la parcelle n° [...] de la commune de [...]. L'intimée Z.________ SA est quant à elle
+propriétaire de la parcelle n° [...] de la commune de [...] et des parcelles n
+os
+[...],
+[...] et [...] de la commune de [...].
+Selon un rapport du 19 septembre 2006 établi par O.________ SA à [...], la valeur vénale
+des parcelles des intimées était à cette époque de 25'000'000 francs.
+2.
+Le 27 avril 2007, d'une part, M.________ et, d'autre
+part, les intimées K.________ SA et Z.________ SA ainsi que N.________ B.V., solidairement
+entre elles en qualité de codébitrices, ont conclu un contrat dont la teneur est notamment
+la suivante :
+"[…]
+Z.________
+et K.________ sont propriétaires de plusieurs parcelles sises sur les communes de [...] et [...],
+lesquelles sont au bénéfice d'un Plan partiel d'affectation (ci-après "PPA")
+entré en force. De manière à exploiter ce PPA et lancer un projet de construction d'envergure
+conforme à l'affectation définie, Z.________ et K.________ doivent s'assurer la présence
+d'un partenaire fort et apte à supporter l'investissement que suppose un tel projet. Ce partenaire
+a été trouvé en la personne de X.________, laquelle est disposée à investir
+les moyens propres nécessaires à l'aboutissement du projet et a d'ores et déjà conclu
+dans ce but un accord avec la société Y.________ AG, également intéressée à
+ce projet.
+La
+Banque [réd. : M.________] est en conséquence disposée à financer le Client […]
+1
+Limite de crédit d'investissement confirmée de CHF 17 000 000 (dix-sept millions
+de francs suisses)
+[…]
+1.2
+Durée
+La
+Banque s'engage, aux termes et conditions fixés par le présent contrat, à mettre à
+disposition du Client la limite de crédit précitée
+jusqu'au
+30 avril 2009
+.
+[…]
+2.1
+Nantissement du capital actions de Z.________ et K.________
+·
+Nantissement, par X.________, de l'intégralité
+des titres représentant sa participation dans K.________ et Z.________, selon l'acte de gage et
+cession général annexé.
+[…]
+2.2
+Cautionnement
+Cautionnement
+solidaire à hauteur de CHF 17 000 000 de X.________ (ci-après "la Caution")
+en faveur de la Banque, […]
+2.3
+Cession en propriété
+Cession
+en propriété par K.________, selon acte séparé, d'une cédule hypothécaire
+au porteur existante (RF no [...]9) en 1
+er
+rang de CHF 3 050 000 grevant la parcelle [...] de [...].
+Cession
+en propriété par Z.________ des cédules hypothécaires suivantes, selon actes séparés
+:
+·
+Cédule hypothécaire au porteur à
+créer en 1
+er
+et parité de rang, avec profit des cases libres, de CHF 3 140 000, grevant collectivement
+dans une case globale de CHF 13 950 000, les parcelles [...] de [...] et [...], [...]
+et [...] de [...] ;
+·
+Cédule hypothécaire au porteur à
+créer en 1
+er
+et parité de rang, avec profit des cases libres, de CHF 2 000 000, grevant collectivement
+dans une case globale de CHF 13 950 000, les parcelles [...] de [...] et [...], [...]
+et [...] de [...] ;
+·
+Cédule hypothécaire au porteur à
+créer en 1
+er
+et parité de rang, avec profit des cases libres, de CHF 2 000 000, grevant collectivement
+dans une case globale de CHF 13 950 000, les parcelles [...] de [...] et [...], [...]
+et [...] de [...] ;
+·
+Cédule hypothécaire au porteur existante
+(RF no [...]2) à porter en 1
+er
+et parité de rang, avec profit des cases libres, de CHF 1 650 000, grevant collectivement
+dans une case globale de CHF 13 950 000, les parcelles [...] de [...] et [...], [...]
+et [...] de [...] ;
+·
+Cédule hypothécaire au porteur existante
+(RF no [...]2) à porter en 1
+er
+et parité de rang, avec profit des cases libres, de CHF 5 160 000, grevant collectivement
+dans une case globale de CHF 13 950 000, les parcelles [...] de [...] et [...], [...]
+et [...] de [...].
+3.7
+Cas de défaut
+Sont
+considérés comme des cas de défaut les circonstances suivantes :
+·
+Le Client et/ou l'un ou l'autre des codébiteurs
+pris individuellement cesse(ent) de remplir l'un de ses(leurs) engagements stipulés dans le présent
+contrat ;
+·
+Tout paiement en capital, intérêts,
+commissions ou frais échus au titre de la limite de crédit du présent contrat ou des comptes
+courants et avances et prêts à terme fixe qui le composent n'est pas effectué sous bonne
+valeur ;
+[…]
+3.8
+Conséquences d'un cas de défaut
+En
+cas de survenance d'un cas de défaut (tels que listés sous point 3.7) communiqué par la
+Banque et non remédié par le Client dans les 5 jours, la Banque est en droit :
+-
+de dénoncer le présent contrat avec effet immédiat et d'exiger,
+sans
+égard à la durée des avances et/ou engagements consentis
+,
+le remboursement et/ou l'annulation immédiate de toutes les créances et/ou engagements, en
+capital, intérêts, commissions et frais en découlant et devenues exigibles par le fait
+même de la résiliation, et/ou
+-
+de céder, dans les délais prévus par la convention de cession annexée (Option Agreement
+et Transfer Agreement) au présent contrat, sa créance ainsi que ses accessoires à Y.________
+AG.
+[…]
+La requérante a contresigné ce contrat à titre informatif.
+Toujours
+le 27 avril 2007, la requérante et M.________ ont signé un "Option Agreement" ainsi
+qu'un "Transfer Agreement". L'"Option Agreement" a notamment la teneur suivante :
+"[…]
+3.              In case of a default
+of Borrower under the Loan Agreement which is not remedied within 60 days after written notice by M.________
+– respectively 30 days after written notice by M.________ in case of non payment of principal at
+the maturity date – M.________ has the option to transfer all rights and obligations under the
+Loan Agreement to Y.________ pursuant to a transfer agreement in the form as attached hereto in Annex
+2 (the "
+Option
+").
+4.              If M.________ exercises
+the Option, Y.________ will pay M.________, without any objection and under full discharge of M.________,
+all amounts due by the Borrower under the Loan Agreement.
+5.              M.________ has to exercise
+the Option within 30 days after expiration of the grace period of 60 respectively 30 days according to
+clause 3 and 4 above.
+6.              In case of an exercise
+of the Option under this Agreement and against payment of an amount equal to all amounts due by the Borrower
+under the Loan Agreement to M.________, M.________ undertakes to further transfer all securities, existing
+at the date of exercise of the Option and granted in connection with the Loan Agreement to Y.________.
+In this case, M.________ will confirm to Y.________ that all amounts are due by the Borrower, including
+principal, accrued interest and charges and remain unpaid but will not deliver an opinion on the solvency
+of the Borrower.
+[…]"
+soit en traduction libre :
+"[…]
+3.              En cas de défaut
+de l'Emprunteur quant au contrat de prêt auquel il ne serait pas remédié dans les 60 jours
+après avis écrit de M.________ – respectivement dans les 30 jours après avis écrit
+de M.________ si le paiement du principal n'est pas effectué à l'échéance du contrat
+– M.________ a la possibilité de transférer tous ses droits et obligations issus du contrat
+de prêt à Y.________ en application de l'accord de transfert tel que figurant en annexe 2 (l'"Option").
+4.              Si M.________ exerce
+l'Option, Y.________ paiera à M.________, sans contestation à la décharge complète
+de M.________, tous les montants dus par l'Emprunteur selon le contrat de prêt.
+5.              M.________ doit exercer
+l'Option dans les 30 jours dès l'expiration de la période de grâce de 60 respectivement
+30 jours prévue aux clauses 3 et 4 ci-dessus.
+6.              Au cas où l'Option
+est exercée en application du présent accord et contre paiement à M.________ d'un montant
+égal à tous les montants dus par l'Emprunteur selon le contrat de prêt, M.________ s'engage
+à transférer toutes les garanties, existant à la date d'exercice de l'Option et accordées
+en lien avec le contrat de prêt, à Y.________. En ce cas, M.________ confirmera à Y.________
+que tous les montants sont dus par l'Emprunteur, inclus le principal, les intérêts et charges
+et qu'ils restent impayés mais ne se prononcera pas sur la solvabilité de l'Emprunteur.
+[…]"
+Le "Transfer Agreement" a notamment la teneur suivante :
+"[…]
+1.1              Against payment of
+an amount equal to all amounts due by the Borrower under the Loan Agreement, M.________ hereby transfers
+all rights and obligations under the Loan Agreement to Y.________ and Y.________ assumes all rights and
+obligations under the Loan Agreement in lieu of and with the effect of discharging M.________ in full
+(change of contracting party /
+Parteiwechsel
+)
+with effect as of the date of exercise of the option ("
+Effective
+Date
+") in accordance with clause 3 of the
+Option Agreement.
+1.2              M.________ hereby transfers
+the Pledge Agreement with all rights and obligations to Y.________ and Y.________ hereby assumes the
+Pledge Agreement with all rights and obligations in lieu of and with the effect of discharging M.________
+in full (change of contracting party /
+Parteiwechsel
+)
+with effect as of the Effective Date in accordance with clause 6 of the Option Agreement.
+[…]
+2.2              M.________ undertakes
+to transfer the duly endorsed mortgage certificates with a total value of CHF 17 000 000
+on the parcels [...] no [...], [...] no [...], [...] no [...], [...] no [...] and [...] no [...] to Y.________
+at the date of signing of this Agreement.
+[…]"
+soit en traduction libre :
+"[…]
+1.1              Contre paiement d'un
+montant égal à tous les montants dus par l'Emprunteur en application du contrat de prêt,
+M.________ transfère par la présente tous droits et obligations liés au contrat de prêt
+à Y.________ et Y.________ assume tous droits et obligations selon ce contrat en lieu et avec pour
+effet de libérer M.________ complètement (changement de partenaire contractuel /
+Parteiwechsel
+)
+avec effet à la date d'exercice de l'option ("Date effective) en accord avec l'article 3 de
+l'Option Agreement.
+1.2              M.________ transfère
+par la présente le nantissement avec tous droits et obligations à Y.________ et Y.________
+par la présente assume le nantissement avec tous droits et obligations en lieu et avec pour effet
+de libérer M.________ complètement (changement de partenaire contractuel /
+Parteiwechsel
+)
+avec effet à la date effective en accord avec l'article 6 de l'Option Agreement.
+[…]
+2.2              M.________ s'engage
+à transférer à Y.________ les cédules hypothécaires nanties à la date de
+signature de cet accord d'une valeur totale de CHF 17'000'000 grevant les parcelles n
+os
+[...] et [...] de [...] et n
+os
+[...],
+[...] et [...] de [...].
+[…]"
+Le 27 avril 2007, simultanément à la signature des autres conventions, les intimées et
+N.________ B.V. ont accordé, par acte authentique, à la requérante des droits d'emption
+sur les parcelles n
+os
+[...] et [...] de [...] ainsi que n
+os
+[...],
+[...] et [...] de [...], inscrits au Registre foncier le 1
+er
+mai 2007. L'acte constitutif des droits d'emption prévoit notamment ce qui suit :
+"[…]
+Entrée en jouissance
+et possession
+:              Elle aura lieu le jour
+de la signature de la réquisition de transfert.
+Profits et risques
+:              Ils passeront à
+la bénéficiaire dès le jour d'entrée en jouissance et possession.
+Propriété
+:
+Elle sera transférée à la bénéficiaire par l'inscription de la réquisition
+de transfert au registre foncier.
+[…]
+Prix
+:
+Il est fixé d'ores et déjà, d'entente entre parties et sans aucune autre prestation, pour
+l'intégralité des parcelles objets des droits, à la somme globale de
+dix-sept millions de francs
+(fr. 17'000'000.--)
+[…]
+Paiement
+:
+Intégralement au jour du transfert de propriété, selon des décomptes à intervenir,
+intégrant notamment la somme des créances remboursées par la bénéficiaire à
+M.________, tout solde éventuel étant versé par des virements bancaires sur le compte
+fonds clients du notaire soussigné.
+[…]
+Condition suspensive
+:              Le remboursement des
+créances et le transfert de tous les droits et obligations que détient M.________ contre les
+constituantes des droits et N.________ B.V. à Y.________ AG.
+Exécution
+:
+Les droits d'emption ne pourront être exercés que si M.________ faisait usage de son droit
+au remboursement des créances et cédait tous les droits et obligations qu'elle détient
+contre ses codébitrices principales, à Y.________ AG. Dans ce cas, et si Y.________ AG exerçait
+ses droits d'emption, les parties s'engagent irrévocablement à :
+- payer le prix sur la base des décomptes à intervenir;
+- signer la/les réquisitions de transferts immobiliers.
+Réquisition de
+transfert
+:
+La décision d'exercer les droits d'emption sera adressée, par Y.________ AG au notaire soussigné
+et à toutes les parties au présent acte, sous pli recommandé.
+Sur le dit courrier, le notaire attestera de la date de réception.
+Il établira par ailleurs une attestation de réception de l'intégralité du prix fixé
+ci-dessus ou du solde à payer sur la base du décompte de remboursement des créances établi
+par M.________ (le dit décompte étant alors annexé à l'attestation notariale), sur
+son compte fonds clients ouvert auprès de M.________ (Association des Notaires Vaudois, rubrique
+W.________, compte numéro [...]9).
+A réception du courrier et des fonds, le notaire soussigné reçoit mandat, valant procuration
+aussi large et étendue que nécessaire, donné conjointement et solidairement par toutes
+les parties au présent acte, afin de requérir le transfert de propriété des immeubles
+grevés des droits d'emption au seul nom d'Y.________ AG.
+Le dépôt des réquisitions de transfert au registre foncier interviendra dans les quatorze
+jours calendriers ouvrables suivant la réception du courrier et des fonds, la dernière des
+deux dates étant déterminante pour le calcul du délai.
+Les parties au présent acte admettent d'ores et déjà que le décompte de remboursement
+tel que M.________ l'établira fera foi et elles s'interdisent toute contestation à cet égard.
+Défaut
+:
+Au cas où les constituantes des droits et N.________ B.V. faisaient défaut, Y.________ AG pourra
+prendre toute mesure judiciaire afin d'obtenir le transfert des immeubles grevés à son nom."
+Selon un rapport du 2 novembre 2010 d'O.________ SA, à [...], la valeur vénale des parcelles
+des intimées au 27 avril 2007 était de 25'000'000 de francs.
+3.
+a)
+Il est admis que les intimées et N.________
+B.V. n'ont pas remboursé à M.________ le prêt selon les modalités prévues par
+le contrat du 27 avril 2007.
+b)
+Par
+courrier recommandé du 26 juin 2009, M.________ a exercé son option selon le "Option Agreement"
+du 27 avril 2007.
+Par courrier du 30 juillet 2009 de son conseil adressé aux intimées par le notaire W.________,
+la requérante a indiqué exercer les droits d'emption accordés.
+Par ordre du 17 août 2009, la requérante a versé à M.________ la somme de 17'067'405
+fr. 15, valeur au 18 août 2009. Celle-ci en a accusé réception le 18 août 2009 pour
+valoir règlement du prix de la cession de l'ensemble de ses droits et créances reposant sur
+le contrat de prêt du 27 avril 2007. Le même jour, elle a informé le notaire W.________
+qu'elle avait été désintéressée et que la requérante avait acquis d'elle
+tous les droits de créance qu'elle détenait à l'égard des intimées, notamment
+sur les cédules hypothécaires grevant les parcelles des intimées à [...] et [...].
+Par courrier recommandé de son conseil du 25 août 2009 adressé aux intimées par le
+notaire W.________, la requérante a confirmé qu'elle entendait exercer les droits d'emption.
+c)
+Par
+lettre du 25 septembre 2009, le notaire W.________ a convoqué N.________ B.V., les intimées
+et la requérante à son étude le 8 octobre 2009 en vue de l'exécution des droits
+d'emption.
+Par courriel de leur conseil du 7 octobre 2009 adressé au conseil de la requérante, les intimées
+ont indiqué que X.________, seul actionnaire de N.________ B.V., ne pourrait être présent
+au rendez-vous chez le notaire et proposé de fixer un nouveau rendez-vous le 14 octobre 2009.
+Par courriel de son conseil du 8 octobre 2009 adressé au conseil des intimées, la requérante
+a déclaré vouloir maintenir la séance du même jour afin d'obtenir la délivrance
+d'un constat de carence tout en indiquant qu'un nouveau rendez-vous serait fixé le 16 octobre 2009
+à 14 heures. Il n'est pas établi que le notaire W.________ ait adressé aux parties une
+convocation à ce nouveau rendez-vous.
+Les intimées ne se sont pas présentées au rendez-vous du 8 octobre 2009 et le notaire
+W.________ a établi, le même jour, un constat de carence dont la teneur est notamment la suivante
+:
+"[…]
+II.
+Constat
+:
+Y.________
+AG requiert le ministère du notaire soussigné aux fins de faire constater la carence de Z.________
+SA et de K.________ SA et d'enregistrer ses déterminations.
+Carence :              Y.________ AG
+fait ici constater que :
+-
+ensuite des exigences de M.________ à [...], Y.________ AG a dû reprendre tous les engagements
+de N.________ B.V., Z.________ SA et K.________ SA, en relation avec les immeubles sus-désignés;
+-
+conformément aux dispositions de l'acte de droit d'emption, Y.________ AG représentée
+par Maître François Besse avocat à Lausanne, a opté pour l'exercice des droits d'emption
+sur les parcelles sus-désignées, selon déclaration du vingt-cinq août deux mille
+neuf, pièce ci-annexée;
+-
+Z.________ SA et K.________ SA ont été valablement convoquées par plis recommandés
+du vingt-cinq septembre deux mille neuf adressés à l'administrateur unique des sociétés
+[...] et au représentant de la société à Genève, et ce, conformément aux
+dispositions de l'acte de vente à terme conclu le vingt-sept avril deux mille sept, en vue de l'exécution
+ce jour des engagements pris;
+-
+aucun représentant des sociétés venderesses ne s'est présenté.
+Option :              En exécution
+des engagements souscrits aux termes de l'acte de droit d'emption du vingt-sept avril deux mille neuf,
+Y.________ AG :
+-
+confirme ici exercer le droit d'emption dont elle est bénéficiaire et dès lors vouloir
+devenir propriétaire par tous moyens de droit des parcelles [...] et [...] de [...] et [...], [...]
+et [...] de [...];
+-
+fait ici constater que, ayant repris l'intégralité des engagements de N.________ B.V. et/ou
+Z.________ SA et/ou K.________ SA envers M.________ à [...], et ce à concurrence de dix-sept
+millions soixante-sept mille quatre cent cinq francs et quinze centimes (fr. 17'067'405.15), le
+prix convenu a été payé;
+-
+fait ici constater qu'elle a versé, en mains du notaire soussigné, ce que l'officier public
+confirme, la somme de huit cent cinquante-trois mille trois cent septante francs et vingt-cinq centimes
+(fr. 853'370.25) pour garantir le paiement de l'éventuel impôt sur le gain immobilier et des
+créances pouvant donner lieu à hypothèque légale, privilégiée ou non.
+En vertu de ce qui précède
+et des dispositions de l'acte de droit d'emption précité, Y.________ AG se réserve, fondée
+sur le présent constat de carence, d'obtenir par tous moyens de droit, le transfert à son nom
+des parcelles [...] et [...] de [...] et [...], [...] et [...] de [...] en exercice du droit d'emption
+dont elle est titulaire.
+[…]"
+d)
+Par
+courrier recommandé du 9 avril 2010 au notaire W.________, M.________ a fait état qu'au jour
+de l'exercice du droit d'option la dette des intimées et de N.________ B.V. s'élevait à
+16'988'055 fr. 45 et qu'elle avait été totalement désintéressée par la requérante.
+e)
+Par courriers du 13 avril 2010 au notaire, à N.________ B.V. et aux intimées, la requérante
+a confirmé sa volonté d'exercer les droits d'emption.
+Par télécopie du même jour de leur conseil, les intimées et N.________ B.V. ont confirmé
+la résiliation du mandat du notaire W.________.
+f)
+Toujours
+le 13 avril 2010, le conseil des intimées a interpellé M.________ et lui a demandé de
+confirmer le montant communiqué dans son courrier du 9 avril 2010, de lui transmettre les correspondances
+entre la banque et la requérante ainsi que les documents relatifs à l'exercice de l'option
+par la banque et de lui confirmer que la requérante avait éteint la créance par un paiement.
+g)
+Le
+14 avril 2010, le notaire W.________ a écrit aux parties notamment ce qui suit :
+"[…]
+Je
+constate, à la lecture du pacte d'emption, que le mandat m'a été donné conjointement
+par les parties au contrat et que, au regard de la loi et de la jurisprudence, ce mandat ne peut être
+résilié que conjointement par les mandants.
+Par
+ailleurs, et dans la mesure où Y.________ AG exige le transfert, je ne peux que m'exécuter,
+à défaut de résiliation du mandat également par la bénéficiaire du droit
+d'emption.
+[…]"
+Par télécopie de leur conseil du même jour, les intimées ont interdit au notaire
+de signer au nom et pour leur compte la réquisition de transfert en lui confirmant que l'exercice
+des droits d'emption était contesté. Toujours le 14 avril 2010, elles ont confirmé contester
+cet exercice auprès du conseil de la requérante, qui leur a répondu, par télécopie
+du même jour, et a déclaré que la requérante avait exercé valablement les droits
+d'emption.
+h)
+Le
+16 avril 2010, M.________ a transmis au conseil des intimées un relevé du compte n° [...]9
+au nom des intimées et de N.________ B.V. et a refusé de transmettre les autres éléments
+demandés.
+La requérante a versé sur le compte du notaire W.________ la somme de 11'944 fr. 55, valeur
+au 16 avril 2010.
+4.
+a)
+Par
+courrier du 21 avril 2010, le notaire W.________ a interpellé A.T.________ et B.T.________, titulaires
+d'un droit de préemption sur la parcelle n
+o
+[...] de [...], du transfert de cette parcelle et leur a imparti un délai de 90 jours pour déclarer
+s'ils entendent exercer leur droit. Parties ont admis à l'audience que les préempteurs n'avaient
+pas exercé leur droit en temps utile.
+b)
+Toujours
+le 21 avril 2010, le notaire W.________ a adressé au registre foncier du district de Nyon une réquisition
+de transfert de la propriété des parcelles n
+os
+[...] et [...] de la commune de [...] et des parcelles n
+os
+[...], [...] et [...] de la commune de [...] en faveur de la requérante.
+Le même jour, les intimées, par leur conseil, ont contesté cette réquisition et requis
+du registre foncier principalement le rejet de la réquisition et subsidiairement son retrait.
+Par avis du 11 juin 2010, le registre foncier du district de Nyon a rejeté la réquisition de
+transfert et a notamment retenu les motifs suivants :
+"[…]
+·
+En date du 21 avril 2010, soit le jour même
+du dépôt de la réquisition, le registre foncier a été avisé par fax de
+Me [...], avocat à Genève, que les pouvoirs accordés à W.________ pour déposer
+la réquisition de transfert avaient été révoqués par K.________ SA, Z.________
+SA et N.________ B.V.
+L'argument
+selon lequel les pouvoirs, conférés conjointement, devraient également être retirés
+conjointement, n'emporte pas l'adhésion ; en effet, le mandat est révocable en tout temps (art. 404 CO,
+ZBGR 1980 p. 237ss).
+En
+l'état, la qualité pour déposer la réquisition au registre foncier fait défaut,
+ou, du moins, n'est pas suffisamment établie.
+·
+Le constat de carence dressé le 08.10.2009
+et annexé à la réquisition ne plaide pas non plus en faveur de la recevabilité de
+l'acte ; le pacte d'emption conférait une créance en délivrance de la chose (signature
+de la réquisition de transfert), que la révocation des pouvoirs conférés à Me
+W.________ met définitivement à mal.
+·
+La recevabilité de l'acte est subordonnée
+à l'autorisation de la Commission foncière section I : les parcelles [...], [...] et [...]
+de [...] ne sont pas entièrement en zone constructible, mais également en zone verdure, intermédiaire
+etc. Elles entrent donc dans le champ d'application de la LDFR.
+·
+L'acquisition par Y.________ AG est soumise aux
+attestations LFAIE portant sur le caractère suisse de la société acheteuse, ou sur l'affectation
+commerciale (établissement stable) des biens-fonds acquis ; la réquisition est accompagnée
+d'une déclaration sur le caractère suisse faite par la société elle-même en
+date du 22 septembre 2009, qui ne répond pas aux critères d'une attestation notariée
+exigée par la pratique vaudoise.
+[…]"
+Le 12 juillet 2010, la requérante a recouru contre cette décision auprès du Département
+des finances du Canton de Vaud, procédure actuellement toujours pendante.
+5.
+Selon un rapport du 2 novembre 2010 d'O.________ SA, à [...], la valeur vénale des parcelles
+des intimées au 13 avril 2010 était de 60'000'000 de francs.
+6.
+Le 23 octobre 2009, la requérante a déposé
+une requête de mesures provisionnelles devant le Président du Tribunal civil de l'arrondissement
+de la Côte, qui a décliné sa compétence en faveur de la Cour civile du Tribunal cantonal
+par jugement incident du 8 février 2010. La requérante a retiré cette requête le
+27 mai 2010.
+Par requête de mesures provisionnelles et d'extrême urgence du 10 août 2010, la requérante
+Y.________ AG a pris, avec suite de frais et dépens, les conclusions suivantes :
+"
+Principalement
+I.-
+Ordonner
+au Conservateur du Registre foncier de [...] d'inscrire, sur simple présentation de la décision
+à venir, la requérante, Y.________ en qualité de propriétaire des parcelles [...]
+et [...] de [...] et [...], [...] et [...] de [...], dont les désignations cadastrales sont les
+suivantes :
+Extrait
+du registre foncier [...]
+________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+________________________________________________________
+Etat
+descriptif de l'immeuble
+________________________________________________________
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s):
+[...]
+Autre(s)
+plan(s):              11
+No
+plan:
+10
+Surface:
+16'473m2, numérique
+Mutation:
+Genre(s)
+de nature:              Pré-champ,
+15'036m2
+Forêt,
+1'437m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens. officielle:
+Estimation
+fiscale:              Fr. 40000.00,
+RG 96
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 09.05.2003 2003/2077/0, Achat
+_________________________________________________________
+Mentions
+04.02.1991
+246440              Améliorations
+foncières,
+lD.2002/000392
+29.04.1996
+271455              Expropriation, lD.2007/000044
+12.06.2006
+2006/2858/0              Améliorations
+foncières,
+ID.2006/002114
+_________________________________________________________
+Servitudes
+03.04.1981
+178217              C Canalisation(s)
+d'égouts,
+ID.2003/000306
+En
+faveur de: Association Intercommunale [...]
+17.02.1984
+195941              C Canalisation(s)
+d'électricité,
+ID.2004/001035
+En
+faveur de: [...] SA, [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres, voir droits de gages immobiliers)
+01.05.2007
+2007/1913/0              C Emption au
+26.04.2017,
+ID.2007/002296
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits               (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+09.05.2003
+2003/2079/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%, Annotations:
+Profit des cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.052007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt
+max. 10%,
+Annotations: Profit des cases libres. ID.2001/000832
+Droit de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000717
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 31.08.2009:
+No
+2007/64/0               du 10.01.2007
+16:55
+Expropriation
+c/Z.________ SA [...], [...] SA et masse en faillite de [...]
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+_________________________________________________________
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s):
+[...]
+Autre(s)
+plan(s):
+No
+plan:
+16
+Surface:
+6'716m2, numérique
+Mutation:
+Genre(s)
+de nature:              Place-jardin,
+6'031m2
+Bâtiment(s):
+Bâtiment commercial
+(motel), No ECA [...], 580m2
+Bâtiment commercial
+(motel), No ECA [...], 105m2
+Feuillet
+de dépendance:
+Mention
+mens, officielle:
+Estimation
+fiscale:              Fr. 1'300'000.00,
+RG 96
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 29.02.2000 00/0851, Achat
+_________________________________________________________
+Mentions
+Aucune
+_________________________________________________________
+Servitudes
+22.06.1977
+158242              D Passage pour tous
+véhicules, ID.2004/001033
+A la charge de [...]
+22.06.1977
+158243              D Zone/quartier:
+Interdiction de bâtir, ID.2004/001034
+A la charge de [...]
+03.04.1981
+178217              C Canalisation(s)
+d'égouts, ID.2003/000306
+En
+faveur de: Association Intercommunale [...]
+17.02.1984
+195941               C Canalisation(s)
+d'électricité, lD.2004/001035
+En faveur de: [...] SA, [...]
+24.09.1985
+207240              C Passage â
+pied et pour tous véhicules, ID.2004/000919
+En faveur de: [...]
+15.12.2000
+00/5682              C Canalisation(s)
+de câbles de télécommunications, ID.2003/008105
+En faveur de: [...] SA. Sté [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres, voir droits de gages immobiliers)
+01.05.2007
+2007/1913/0              C Emption au
+26.04.2017, ID.2007/002296
+En faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+29.02.2000
+00/0852              Cédule hypothécaire
+au porteur Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt max. 10%,
+Annotations: Profit des cases libres. ID.2001/000832
+Droit de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres. ID.2007/000717
+Droit de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 31.08.2009: Aucune
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:               Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s):
+[...]
+Autre(s)
+plan(s):              16
+No
+plan:
+13
+Surface:
+17'162m2, numérique
+Mutation:
+Genre(s)
+de nature:              Pré-champ,
+17'162m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens. officielle:
+Estimation
+fiscale:              Fr. 90'000.00,
+RG 72
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 09.05.2003 2003/2077/0, Achat
+_________________________________________________________
+Mentions
+04.02.1991
+246440              Améliorations
+foncières,
+ID.2002/000392
+12.06.2006
+2006/2858/0              Améliorations
+foncières,
+ID.2006/002114
+_________________________________________________________
+Servitudes
+22.06.1977
+158242
+D Passage pour tous véhicules, ID.2004/001033
+A la charge de [...]
+03.04.1981
+178217
+C Canalisation(s) d'égouts,
+ID.2003/000306
+En
+faveur de: Association Intercommunale [...]
+17.02.1984
+195941              C Canalisation(s)
+d'électricité,
+ID.2004/001035
+En
+faveur de: [...] SA, [...]
+15.12.2000
+00/5682              C Canalisation(s)
+de câbles de télécommunications,
+ID.2003/008105
+En
+faveur de: [...] SA. Sté [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres,
+voir droits de gages immobiliers)
+01.05.2007
+2007/1913/0              C Emption au
+26.04.2017,
+ID.2007/002296
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+09.05.2003
+200312079/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt
+max. 10%,
+Annotations: Profit des
+cases libres.
+lD.2001/000832
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000717
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 31.08.2009: Aucune
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              Nyon
+Tenue
+du registre foncier:              Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s)
+:              [...]
+Autre(s)
+plan(s):
+No
+plan:
+13
+Surface:
+26'706m2, numérique
+Mutation:
+16.03.2004 2004/1253/0,
+Division de bien-fonds, (à P. 211)
+19.05.2004 2004/2386/0,
+Expropriation
+Genre(s)
+de nature:              Pré-champ,
+26'706m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens, officielle:
+Estimation
+fiscale:              Fr. 550'000.00,
+2004, 23.07.2004
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 16.03.2004 2004/1253/0, Achat
+_________________________________________________________
+Mentions
+Aucune
+_________________________________________________________
+Servitudes
+22.05.1968
+144435              C Canalisation(s)
+d'eau,
+ID.2004/003748
+En
+faveur de: [...]
+22.06.1977
+158243              C Zone/quartier:
+Interdiction de bâtir,
+lD.2004/001034
+En faveur de: [...]
+22.12.1981
+182161
+C Canalisation(s) d'eau et câbles électriques,
+ID.2004/000930
+En
+faveur de: Société anonyme [...]
+03.04.1981
+178217
+C Canalisation(s) d'égouts, ID.2003/000306
+En faveur de: [...]
+15.12.2000
+0015682              C Canalisation(s)
+de câbles de télécommunications,
+ID.2003/008105
+En
+faveur de: Société anonyme [...] SA. Sté [...]
+17.11.2006
+2006/5796/0              C Canalisation(s)
+d'électricité,
+ID.2007/000455
+En
+faveur de: Société anonyme [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres,
+voir droits de gages immobiliers)
+01.05.2007
+200711913/0              C Emption au
+26.04.2017,
+ID.2007/002296
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+27.05.2004
+2004/2544/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+Primé
+par Servitude, ID.2007/000455, 01.05.2007
+2007/1915/0
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt
+max. 10%,
+Annotations: Profit des
+cases libres.
+lD.2001/000832
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000717
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 01.09.2009: Aucune
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s)
+:              [...]
+Autre(s)
+plan(s):              9
+No
+plan:
+11
+Surface:
+8'201m2, numérique
+Mutation:
+18.07.2006 2006/3614/0,
+Division de bien-fonds, (de P. 98)
+Genre(s)
+de nature:              Pré-champ,
+8'201m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens. officielle:
+Estimation
+fiscale:               Fr. 110'000.00,
+2006, 02.04.2008
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme K.________ SA, [...], 18.07.2006 2006/3614/0, Achat
+_________________________________________________________
+Mentions
+12.06.2006
+2006/2858/0              Améliorations
+foncières,
+ID.2006/002114
+_________________________________________________________
+Servitudes
+18.11.1974
+147742              C Canalisation(s)
+: Câble électrique souterrain, ID.2004/01 3518
+En faveur de: Société anonyme [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres,
+voir droits de gages immobiliers)
+10.03.1995
+266209              C Préemption
+au 13.09.2014,
+ID.2002/005382
+En
+faveur de:
+A.T.________
+,
+08.04.1963
+En
+faveur de:
+B.T.________
+,
+27.11.1964
+01.05.2007
+2007/1914/0              C Emption au
+26.04.2017,
+ID.20071002297
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+18.07.2006
+2006/3615/0              Cédule
+hypothécaire au porteur, Fr. 3'050'000.00, Rang 1, Intérêt max. 10%. lD.2006/000639
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 01.09.2009: Aucune
+_________________________________________________________
+Subsidiairemen
+t
+II.-
+Ordonner
+à K.________ SA et Z.________ SA de signer dans les cinq jours dès la notification de la décision
+à venir tous documents permettant l'inscription de la société Y.________ en qualité
+de propriétaire des parcelles [...] et [...] de [...] et [...], [...] et [...] de [...], dont les
+désignations cadastrales sont les suivantes :
+Extrait
+du registre foncier [...]
+________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+________________________________________________________
+Etat
+descriptif de l'immeuble
+________________________________________________________
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s)
+:              [...]
+Autre(s)
+plan(s):              11
+No
+plan:
+10
+Surface:
+16'473m2, numérique
+Mutation:
+Genre(s)
+de nature:              Pré-champ,
+15'036m2
+Forêt,
+1'437m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens. officielle:
+Estimation
+fiscale:              Fr. 40000.00,
+RG 96
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 09.05.2003 2003/2077/0, Achat
+_________________________________________________________
+Mentions
+04.02.1991
+246440              Améliorations
+foncières,
+lD.2002/000392
+29.04.1996
+271455              Expropriation, lD.2007/000044
+12.06.2006
+2006/2858/0              Améliorations
+foncières,
+ID.2006/002114
+_________________________________________________________
+Servitudes
+03.04.1981
+178217              C Canalisation(s)
+d'égouts,
+ID.2003/000306
+En
+faveur de: Association Intercommunale [...]
+17.02.1984
+195941              C Canalisation(s)
+d'électricité,
+ID.2004/001035
+En
+faveur de: [...] SA, [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres, voir droits de gages immobiliers)
+01.05.2007
+2007/1913/0              C Emption au
+26.04.2017,
+ID.2007/002296
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits               (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+09.05.2003
+2003/2079/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%, Annotations:
+Profit des cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.052007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt
+max. 10%,
+Annotations: Profit des cases libres. ID.2001/000832
+Droit de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000717
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID..2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 31.08.2009:
+No
+2007/64/0               du 10.01..2007
+16:55
+Expropriation
+c/Z.________ SA [...], [...] SA et masse en faillite de [...]
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+_________________________________________________________
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s):
+[...]
+Autre(s)
+plan(s):
+No
+plan:
+16
+Surface:
+6'716m2, numérique
+Mutation:
+Genre(s)
+de nature:              Place-jardin,
+6'031m2
+Bâtiment(s):
+Bâtiment commercial
+(motel), No ECA [...], 580m2
+Bâtiment commercial
+(motel), No ECA [...], 105m2
+Feuillet
+de dépendance:
+Mention
+mens, officielle:
+Estimation
+fiscale:              Fr. 1'300'000.00,
+RG 96
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 29.02.2000 00/0851, Achat
+_________________________________________________________
+Mentions
+Aucune
+_________________________________________________________
+Servitudes
+22.06.1977
+158242              D Passage pour tous
+véhicules, ID.2004/001033
+A la charge de [...]
+22.06.1977
+158243              D Zone/quartier:
+Interdiction de bâtir, ID.2004/001034
+A la charge de [...]
+03.04.1981
+178217              C Canalisation(s)
+d'égouts, ID.2003/000306
+En
+faveur de: [...]
+17.02.1984
+195941               C Canalisation(s)
+d'électricité, lD.2004/001035
+En faveur de: [...] SA, [...]
+24.09.1985
+207240              C Passage â
+pied et pour tous véhicules, ID.2004/000919
+En faveur de: [...]
+15.12.2000
+00/5682              C Canalisation(s)
+de câbles de télécommunications, ID.2003/008105
+En faveur de: Société anonyme [...] SA. Sté [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres, voir droits de gages immobiliers)
+01.05.2007
+2007/1913/0              C Emption au
+26.04.2017, ID.2007/002296
+En faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+29.02.2000
+00/0852              Cédule hypothécaire
+au porteur Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt max. 10%,
+Annotations: Profit des cases libres. ID.2001/000832
+Droit de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres. ID.2007/000717
+Droit de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 31.08.2009: Aucune
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:               Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s):
+[...]
+Autre(s)
+plan(s):              16
+No
+plan:
+13
+Surface:
+17'162m2, numérique
+Mutation:
+Genre(s)
+de nature:              Pré-champ,
+17'162m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens. officielle:
+Estimation
+fiscale:              Fr. 90'000.00,
+RG 72
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________ SA, [...], 09.05.2003 2003/2077/0, Achat
+_________________________________________________________
+Mentions
+04.02.1991
+246440              Améliorations
+foncières,
+ID.2002/000392
+12.06.2006
+2006/2858/0              Améliorations
+foncières,
+ID.2006/002114
+_________________________________________________________
+Servitudes
+22.06.1977
+158242
+D Passage pour tous véhicules, ID.2004/001033
+A la charge de [...]
+03.04.1981
+178217
+C Canalisation(s) d'égouts,
+ID.2003/000306
+En
+faveur de: [...]
+17.02.1984
+195941              C Canalisation(s)
+d'électricité,
+ID.2004/001035
+En
+faveur de: [...]
+15.12.2000
+00/5682              C Canalisation(s)
+de câbles de télécommunications,
+ID.2003/008105
+En
+faveur de: [...] SA. Sté [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres,
+voir droits de gages immobiliers)
+01.05.2007
+2007/1913/0              C Emption au
+26.04.2017,
+ID.2007/002296
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+09.05.2003
+200312079/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt
+max. 10%,
+Annotations: Profit des
+cases libres.
+lD.2001/000832
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000717
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 31.08.2009: Aucune
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s):
+[...]
+Autre(s)
+plan(s):
+No
+plan:
+13
+Surface:
+26'706m2, numérique
+Mutation:
+16.03.2004 2004/1253/0,
+Division de bien-fonds, (à P. 211)
+19.05.2004 2004/2386/0,
+Expropriation
+Genre(s)
+de nature:              Pré-champ,
+26'706m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens, officielle:
+Estimation
+fiscale:              Fr. 550'000.00,
+2004, 23.07.2004
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme Z.________, SA, [...], 16.03.2004 2004/1253/0, Achat
+_________________________________________________________
+Mentions
+Aucune
+_________________________________________________________
+Servitudes
+22.05.1968
+144435              C Canalisation(s)
+d'eau,
+ID.2004/003748
+En
+faveur de: Association Service Intercommunal [...]
+22.06.1977
+158243              C Zone/quartier:
+Interdiction de bâtir,
+lD.2004/001034
+En faveur de: [...]
+22.12.1981
+182161
+C Canalisation(s) d'eau et câbles électriques,
+ID.2004/000930
+En
+faveur de: Société anonyme [...]
+03.04.1981
+178217
+C Canalisation(s) d'égouts, ID.2003/000306
+En faveur de: Association Intercommunale [...]
+15.12.2000
+0015682              C Canalisation(s)
+de câbles de télécommunications,
+ID.2003/008105
+En
+faveur de: [...] SA. Sté [...]
+17.11.2006
+2006/5796/0              C Canalisation(s)
+d'électricité,
+ID.2007/000455
+En
+faveur de: Société anonyme [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres,
+voir droits de gages immobiliers)
+01.05.2007
+200711913/0              C Emption au
+26.04.2017,
+ID.2007/002296
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+27.05.2004
+2004/2544/0              Cédule
+hypothécaire au porteur, Fr. 5'160'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000020
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+Primé
+par Servitude, ID.2007/000455, 01.05.2007
+2007/1915/0
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 1'650'000.00, RF no 00/0852 du 29.2.2000, Rang 1, Intérêt
+max. 10%,
+Annotations: Profit des
+cases libres.
+lD.2001/000832
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000717
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 2'000'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000718
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+01.05.2007
+2007/1915/0              Cédule
+hypothécaire au porteur, Fr. 3'140'000.00, Rang 1, Intérêt max. 10%,
+Annotations: Profit des
+cases libres.
+ID.2007/000719
+Droit
+de gage collectif avec B-F [...], B-F [...], B-F [...]
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 01.09.2009: Aucune
+_________________________________________________________
+Extrait
+du registre foncier [...]
+_________________________________________________________
+Bien-fonds:
+Bien-fonds [...]
+Registre
+foncier:              [...]
+Tenue
+du registre foncier:              Fédérale
+_________________________________________________________
+Etat
+descriptif de l'immeuble
+Commune:
+[...]
+Numéro
+d'immeuble:              [...]
+Adresse(s)
+:              [...]
+Autre(s)
+plan(s):              9
+No
+plan:
+11
+Surface:
+8'201m2, numérique
+Mutation:
+18.07.2006 2006/3614/0,
+Division de bien-fonds, (de P. 98)
+Genre(s)
+de nature:              Pré-champ,
+8'201m2
+Bâtiment(s):
+Feuillet
+de dépendance:
+Mention
+mens. officielle:
+Estimation
+fiscale:               Fr. 110'000.00,
+2006, 02.04.2008
+Observation(s):
+_________________________________________________________
+Propriété
+Propriété
+individuelle
+Société
+anonyme K.________ SA, [...], 18.07.2006 2006/3614/0, Achat
+_________________________________________________________
+Mentions
+12.06.2006
+2006/2858/0              Améliorations
+foncières,
+ID.2006/002114
+_________________________________________________________
+Servitudes
+18.11.1974
+147742              C Canalisation(s)
+: Câble électrique souterrain, ID.2004/01 3518
+En faveur de: [...] SA, [...]
+_________________________________________________________
+Charges
+foncières              Aucune
+_________________________________________________________
+Annotations
+(Profit des cases libres,
+voir droits de gages immobiliers)
+10.03.1995
+266209              C Préemption
+au 13.09.2014,
+ID.2002/005382
+En
+faveur de:
+A.T.________
+,
+08.04.1963
+En
+faveur de:
+B.T.________
+,
+27.11.1964
+01.05.2007
+2007/1914/0              C Emption au
+26.04.2017,
+ID.20071002297
+En
+faveur de: Société anonyme Y.________, [...]
+_________________________________________________________
+Exercices
+des droits              (Pour les droits
+dont l'exercice ne figure pas ci-dessous, voir le registre foncier)
+Voir registre foncier
+_________________________________________________________
+Gages
+immobiliers
+18.07.2006
+2006/3615/0              Cédule
+hypothécaire au porteur, Fr. 3'050'000.00, Rang 1, Intérêt max. 10%. lD.2006/000639
+_________________________________________________________
+Affaires
+en suspens
+Affaires
+du journal jusqu'au 01.09.2009: Aucune
+_________________________________________________________
+III.-
+A
+défaut d'exécution du chiffre III ci-dessus (sic), autoriser Maître W.________, notaire
+à [...], à signer, en lieu et place de K.________ SA et Z.________ SA, dans les cinq jours
+dès l'échéance du délai imparti aux parties intimées pour procéder selon
+chiffre III ci-dessus (sic), tous les documents permettant l'inscription de la société Y.________
+en qualité de propriétaire des parcelles [...] de [...] et [...], [...] et [...] de [...],
+propriétés de Z.________ SA, et de la parcelle [...] de [...], propriété de K.________
+SA."
+Par avis du 12 août 2010, le Juge instructeur a rejeté la requête d'extrême urgence.
+Par procédé écrit du 3 novembre 2010, les intimées K.________ SA et Z.________ SA
+ont pris, avec suite de frais et dépens, les conclusions suivantes :
+"
+Principalement
+I.              La requête de mesures
+provisionnelles et d'extrême urgence déposée par Y.________ AG le 10 août 2010 est
+rejetée.
+Subsidiairement
+II.              La requérante
+Y.________ AG est astreinte à fournir dans les 10 jours dès la notification de la décision
+de la Cour civile du Tribunal cantonal, des sûretés à concurrence de CHF 15 millions (quinze
+millions de francs suisses) par dépôt en mains du greffe du Tribunal cantonal d'un montant
+équivalent ou la fourniture d'une garantie bancaire à première demande non limitée
+dans le temps d'un même montant."
+7.
+Le 30 décembre 2010, la requérante a
+déposé une demande au fond dont les conclusions sont strictement identiques à celles prises
+dans sa requête de mesures provisionnelles du 10 août 2010.
+8.
+En substance, le premier juge a considéré
+que les critères prévus par l'acte constitutif des droits d'emption étaient remplis, les
+intimées n'étant au demeurant pas habilitées à se plaindre de l'éventuel non-respect
+du contrat d'option auquel elles n'étaient pas parties. Il a également estimé que la requérante
+avait exercé valablement ses droits d'emption, le fait qu'elle l'ait fait une première fois
+avant l'avènement de la condition suspensive ne l'empêchant pas de renouveler sa déclaration,
+une fois cette condition advenue. En revanche, il a considéré que, prima facie, l'ensemble
+de ces opérations violaient l'interdiction du pacte commissoire, les actes conclus permettant à
+la requérante – devenue créancière gagiste – d'acquérir les parcelles
+gagées à défaut de paiement des intimées. Ainsi, les prétentions de la requérante
+n'apparaissaient pas reposer sur un fondement juridique valable et, à tout le moins, la haute vraisemblance
+de la prétention, exigée pour obtenir par voie de mesures provisionnelles l'exécution
+anticipée de ce qui est demandé au fond, n'était pas atteinte. Le premier juge n'a pas
+examiné les autres conditions d'obtention des mesures provisionnelles, notamment l'urgence et le
+dommage difficile à réparer.
+En droit :
+I.
+L'appel a été formé en temps utile, dans le délai de dix jours dès la notification
+de l'ordonnance querellée (art. 112 al. 1 CPC-VD [Code de procédure civile vaudois du 14 décembre
+1966; RSV 270.11]), étant précisé que le moyen de droit exercé à l'encontre
+d'une décision est régi par le droit en vigueur au moment de la communication de cette décision
+(art. 405 al. 1 CPC [Code de procédure civile du 19 décembre 2008; RS 272). Cette communication
+peut notamment intervenir par la notification d'un dispositif écrit, même si cette notification
+n'a pas pour effet de provoquer l'écoulement du délai de recours et que l'expédition motivée
+n'intervient qu'ultérieurement, après l'entrée en vigueur du nouveau droit (TF 4A_106/2011
+du 31 mars 2011, destiné à la publication, c. 2, RSJ 2011 p. 261). Comme la notification
+du dispositif de l'ordonnance entreprise est intervenue avant le 1
+er
+janvier 2011, c'est l'ancien droit de procédure civile qui est applicable au présent appel
+et c'est la Cour civile qui est compétente pour en trancher (art. 111 al. 1 CPC-VD), même si
+les motifs de l'ordonnance ont été adressés pour notification aux parties au mois de janvier
+2011.
+II.
+Le CPC-VD ne règle pas la question du pouvoir d'examen de la juridiction d'appel sur mesures provisionnelles,
+notamment en ce qui concerne les faits nouveaux (JT 2004 III 76 c. 2b). Selon la Chambre des recours,
+la juridiction d'appel est limitée par les conclusions de première et de deuxième instances.
+Dans ce cadre, elle revoit librement la cause en fait et en droit et peut faire réadministrer toutes
+les preuves déjà administrées, en accueillir ou en ordonner de nouvelles. Il est en outre
+licite d'invoquer des pseudo-nova, soit des faits déjà existants au moment de la décision
+attaquée, mais inconnus du premier juge ou non retenus par lui faute d'avoir été rendus
+vraisemblables, ainsi que les faits futurs prévisibles de manière certaine ou quasi certaine,
+que le premier juge aurait dû prendre en considération. En revanche, les vrais nova constituent
+des éléments qui ne sauraient justifier l'admission de l'appel, mais bien plutôt une nouvelle
+ordonnance de mesures provisionnelles selon l'art. 108 al. 3 CPC-VD, sur requête de la partie qui
+y a intérêt (CREC II 12 septembre 2007/182; Tappy, Quelques aspects de la procédure de
+mesures provisionnelles, spécialement en matière matrimoniale, JT 1994 III 33 ss, spéc.
+pp. 59 s.)
+En l'espèce, les faits invoqués par les intimés comme par l'appelante qui se sont produits
+postérieurement à l'audience du 4 novembre 2011 ne peuvent être pris en considération,
+dans la mesure où il s'agit de vrais nova. De tels faits doivent, cas échéant, faire l'objet
+d'une nouvelle procédure provisionnelle.
+III.
+a)
+Sur le fond, le premier juge a, à juste
+titre, rappelé que des mesures provisionnelles consistant en des mesures d'exécution anticipées
+provisoires susceptibles d'avoir un effet définitif, parce que le litige n'a plus d'intérêt
+au-delà du stade des mesures provisoires, ne peuvent être admises que de façon restrictive
+et sont soumises à des exigences beaucoup plus élevées que d'autres mesures provisionnelles,
+en particulier quant à la vraisemblance des faits allégués par le requérant et à
+l'examen du droit prétendu (Hohl, Procédure civile, tome II, 2
+e
+éd., Berne 2010, nn. 1844 ss, pp. 336 s.; Huber, Kommentar zur Schweizerischen Zivilprozessordnung,
+Zurich/Bâle/Genève 2010, n. 15 ad art. 262 CPC; ATF 131 III 473 c. 2.3, rés. in JT 2005
+I 305 et rés. in SJ 2005 I 517; ATF 108 II 228 c. 2c, rés. in JT 1983 I 372 et les références
+citées).
+Comme l'a vu le premier juge, les conclusions prises en mesures provisionnelles sont des mesures d'exécution
+anticipée; du reste, les conclusions prises à titre provisionnel sont strictement les mêmes
+que celles que la requérante a prises au fond dans sa demande du 30 décembre 2010.
+b)
+Cependant, il y a plus. Selon la doctrine,
+pour les mutations au registre foncier, les art. 960 al. 1 ch. 1 et 961 al. ch. 1 et ch. 2 CC (Code civil
+suisse du 10 décembre 1907; RS 210) règlent une grande partie de la matière; déclarative
+ou constitutive, l'annotation qu'ils prescrivent protège le droit prétendu contre l'acquisition
+d'un tiers de bonne foi (art. 961 al. 1 ch. 1 CC) ou contre tout droit acquis postérieurement sur
+l'immeuble (art. 960 al. 1 ch. 1 et 960 al. 1 ch. 2 CC). Concrètement, cette mesure – l'annotation
+– consiste bien en une forme d'exécution provisoire du jugement à intervenir. Le droit
+fédéral et le principe de la proportionnalité interdisent d'ordonner à ce stade de
+la procédure un transfert de la propriété (Pelet, Réglementation fédérale
+des mesures provisionnelles et procédure civile cantonale contentieuse, thèse Lausanne 1986,
+ch. 107 in medio, p. 93 et la référence citée à la note infrapaginale n. 84; Guldener,
+Schweizerisches Zivilprozessrecht, Zurich 1979, p. 581 et note infrapaginale n. 32). Or, c'est précisément
+le transfert de la propriété que recherche la requérante; elle exerce l'action de l'art. 665 CC,
+au bénéfice des droits d'emption annotés, après avoir levé l'option, soit après
+avoir déclaré qu'elle voulait exercer ses droits d'emption (cf. Steinauer, Les droits
+réels, tome II, 3
+e
+éd., Berne 2002, n. 1714, p. 136).
+Une telle action aboutit à un jugement formateur, qui attribue directement la propriété
+au demandeur (Steinauer, op. cit., n. 1555, p. 61; Rey, Basler Kommentar, 3
+e
+éd., Bâle 2007, n. 10 ad art. 665 CC). Un tel effet n'est pas envisageable au stade des mesures
+provisionnelles (Pelet, op. cit., ch. 5, p. 6) et la mesure de sûretés envisagée pendant
+le procès ne peut être qu'une restriction du droit d'aliéner selon l'art. 960 al. 1 ch.
+1 CC (Rey, op. cit., n. 9 ad art. 665 CC).
+c)
+En l'occurrence, comme cela résulte des
+inscriptions au registre foncier les droits d'emption conférés à la requérante ont
+été annotés au registre foncier. Ainsi, elle dispose de droits opposables à tout
+droit acquis postérieurement sur l'immeuble, conformément à l'art. 959 al. 2 CC (Steinauer,
+op. cit., n. 1704, p. 132 et les références citées à la note infrapaginale n. 39;
+ATF 126 III 421 c. 3a/aa), rés. in JT 2001 I 160 et SJ 2001 p. 97). Par l'effet de l'annotation,
+le droit d'emption ne vaut pas seulement contre le promettant – en l'occurrence les intimées
+–, mais subsiste contre tout propriétaire pour le temps fixé dans l'annotation (Steinauer,
+op. cit., n. 1706, p. 133). L'action en exécution peut dès lors être dirigée contre
+le propriétaire actuel des immeubles, même s'il n'est pas le promettant et quand bien même
+le propriétaire actuel aurait acquis les immeubles après la levée de l'option (Steinauer,
+op. cit., n. 1714, p. 136 et la référence citée à la note infrapaginale n. 53; TF
+du 12 octobre 1978, publié in RNRF 1979 p. 381). Prima facie, la protection conférée par
+l'annotation des droits d'emption ne rend même pas nécessaire d'éventuelles inscriptions
+de restrictions du droit d'aliéner, qui ne sont du reste pas requises.
+Par conséquent, comme la requérante ne pouvait pas obtenir, par voie de mesures provisionnelles,
+le transfert de la propriété des parcelles de [...] et de [...], il était justifié
+de rejeter la requête de mesures provisionnelles.
+d)
+Cet empêchement initial d'obtenir par
+voie de mesures provisionnelles le transfert de la propriété rend inutile l'examen de la question
+– délicate – de l'exception de l'interdiction du pacte commissoire retenue par le premier
+juge. Ce point, qui devra être débattu au fond, mérite un plus ample examen que celui
+qui est possible en mesures provisionnelles.
+III.
+En définitive, l'appel formé par Y.________ AG doit être rejeté et l'ordonnance de
+mesures provisionnelles du 11 novembre 2010 confirmée, par substitution de motifs.
+Les intimées obtiennent gain de cause et
+ont ainsi droit, solidairement entre elles, à de pleins dépens à la charge de l'appelante
+(art. 92 al. 1 CPC-VD). Au vu des opérations effectuées et de la valeur litigieuse, les dépens
+d'appel sont arrêtés à 6'000 fr. à titre de participation aux honoraires et débours
+du conseil des intimées.
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos,
+prononce
+:
+I.
+L'appel formé le 24 janvier 2011 par l'appelante Y.________ AG contre l'ordonnance de mesures
+provisionnelles du 11 novembre 2010 est rejeté.
+II.
+L'ordonnance de mesures provisionnelles du 11 novembre 2010 est confirmée.
+III.
+Les frais de la procédure d'appel sont arrêtés à 15'000 fr. (quinze mille francs)
+pour l'appelante.
+IV.
+L'appelante Y.________ AG versera aux intimées K.________ SA et Z.________ SA, solidairement entre
+elles, le montant de 6'000 fr. (six mille francs) à titre de dépens d'appel.
+V.
+L'arrêt est exécutoire à réception des motifs.
+Le
+président :              Le greffier
+:
+P.
+Muller              J. Greuter
+Du
+L'arrêt sur appel qui précède, dont le dispositif a été expédié pour
+notification le 13 mai 2011, lu et approuvé à huis clos, est notifié, par l'envoi de photocopies,
+aux conseils des parties.
+Le présent arrêt sur appel peut faire l'objet d'un recours en matière civile devant le
+Tribunal fédéral au sens des art. 72 ss et 90 ss LTF (loi fédérale du 17 juin 2005
+sur le Tribunal fédéral; RS 173.110), cas échéant d'un recours constitutionnel subsidiaire
+au sens des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF). L'art. 100 al.
+6 LTF est réservé.
+Le greffier :
+J. Greuter
