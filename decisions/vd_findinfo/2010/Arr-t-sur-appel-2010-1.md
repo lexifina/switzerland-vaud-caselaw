@@ -1,0 +1,1064 @@
+---
+decision_id: "vd_findinfo_Arr_t-sur-appel___2010___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Arrêt-sur-appel / 2010 / 1"
+decided: "2010-11-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2922137"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-027.md", "switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/220/art-019.md", "switzerland/bund/acts/220/art-100.md", "switzerland/bund/acts/220/art-340b.md", "switzerland/bund/acts/220/art-418r.md", "switzerland/bund/acts/220/art-418u.md", "switzerland/bund/acts/272/art-101.md", "switzerland/bund/acts/272/art-102.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-112.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/291/art-183.md"]
+---
+
+# VD Findinfo Arrêt-sur-appel / 2010 / 1
+
+## Regeste
+
+MESURE PROVISIONNELLE, PRINCIPE DE LA CONFIANCE{INTERPRÉTATION DU CONTRAT} | 18 al. 1 CO, 418r CO, 101 CPC, 107 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 19.11.2010 Arrêt-sur-appel / 2010 / 1
+
+MESURE PROVISIONNELLE, PRINCIPE DE LA CONFIANCE{INTERPRÉTATION DU CONTRAT} | 18 al. 1 CO, 418r CO, 101 CPC, 107 CPC
+
+TRIBUNAL
+CANTONAL
+CO10.009891
+142/2011/PBH
+COUR
+CIVILE
+_________________
+Arrêt
+sur appel dans la cause divisant
+K.________
+,
+à [...], d'avec
+F.________
+SA
+, à [...].
+___________________________________________________________________
+Audience
+du 19 novembre 2010
+_________________________
+Présidence
+de               M.
+Bosshard
+,
+président
+Juges
+:              M.
+Colombini et Mme Byrde
+Greffière
+:              Mme
+Maradan
+*****
+Statuant immédiatement à huis clos, la Cour civile considère :
+En fait :
+1.
+La cour de céans fait sien l'état de
+fait de l'ordonnance de mesures provisionnelles du 20 mai 2010, qu'elle reproduit ici partiellement,
+en y apportant les précisions et compléments découlant des éléments recueillis
+dans la procédure d'appel.
+2.
+L'appelante F.________ SA est une société de droit suisse, dont le siège se trouve à
+[...].
+L'intimée
+K.________ est une société de droit italien, sise à [...].
+3.
+Par contrat du 17 juillet 2001, conclu avec l'appelante,
+alors dénommée L.________, l'intimée s'est vu confier la distribution exclusive des montres
+de marque F.________ SA en Italie continentale et insulaire, ainsi que sur le territoire de [...], magasins
+hors taxes exclus (art. 1 à 3).
+Au mois de décembre 2004, l'appelante a modifié sa raison sociale en F.________ SA.
+Le
+contrat du 17 juillet 2001 impose notamment à l'intimée des quantités minimales d'achats
+en francs suisses, pendant une période de vingt-cinq ans (art. 6). Les montres doivent être
+vendues à des détaillants situés sur le territoire attribué à l'intimée
+par l'entremise d'un représentant exclusif F.________ SA (art. 11 al. 1). Le contrat oblige encore
+l'intimée à remettre la liste de tous les points de vente à l'appelante à première
+réquisition (art. 11 al. 2 let. d). Elle doit également renseigner l'appelante sur toute évolution
+du marché italien qui pourrait avoir une influence sur l'importation et lui soumettre, une fois
+par année, un rapport de vente complet détaillant la liste des points de vente ainsi que les
+prix de détail pour chaque ligne (cf. art. 17 al. 1 et 2).
+L'intimée
+est en outre tenue de ne pas commercialiser, pendant la durée du contrat et dans le territoire contractuel,
+les produits d'autres marques de maisons de montres dont le prix et le design seraient proches de celui
+des montres de l'appelante, ainsi que ceux d'autres maisons d'articles de luxe de notoriété
+internationale qui seraient susceptibles de concurrencer les produits contractuels. Si elle souhaite
+s'adjoindre un produit de quelque nature que ce soit, elle doit obtenir l'approbation écrite de
+l'appelante (art. 21).
+L'intimée a fait
+usage de cette possibilité : elle distribue, avec l'approbation de l'appelante, d'autres produits
+en Italie, en particulier sa propre marque " [...]". Ces produits ne représentent toutefois
+qu'une faible proportion de son chiffre d'affaires.
+Concernant
+la durée du contrat, sa résiliation anticipée, la fin des rapports contractuels et les
+indemnités dues à titre de dédommagement, les art. 23 à 28 du contrat prévoient
+ce qui suit :
+"Article
+23
+Durée
+et renouvellement
+Le
+présent contrat entre en vigueur le 1
+er
+janvier 2001 et se terminera le 31.12.2025.
+Vingt-quatre
+mois au moins avant le terme de la durée initiale et de chaque période contractuelle subséquente,
+chaque partie peut notifier à l'autre, par lettre recommandée, sa volonté de ne pas renouveler
+le contrat. Le silence des deux parties, à cet égard, vaut acquiescement au renouvellement
+du contrat pour une nouvelle durée de dix années.
+Article
+24
+Résiliation
+anticipée pour juste motif
+En
+cas de violation des obligations auxquelles le DISTRIBUTEUR a souscrit par le présent contrat, L.________
+le mettra en demeure de s’y conformer dans un délai raisonnable qui sera fixé par elle.
+A défaut de quoi, elle sera en droit de lui signifier la résiliation immédiate et sans
+indemnité du présent contrat. La mise en demeure et la résiliation interviendront par
+pli recommandé.
+Si
+les objectifs d’achat ne sont pas atteints à cause d’une faute grave du DISTRIBUTEUR
+et que L.________ peut prouver, ce dernier se réserve le droit de résilier immédiatement
+le contrat par pli recommandé, sans mise en demeure, et sans indemnité. Si une faute grave
+de L.________ porte atteinte au DISTRIBUTEUR, celui-ci se réserve le droit de résilier le contrat,
+par pli recommandé, sans mise en demeure et sans indemnité.
+L.________
+aura le droit de dénoncer le contrat à tout moment et sans préavis :
+a)
+si le DISTRIBUTEUR est liquidé ou devient insolvable ou s’il est poursuivi pour dettes ou
+faillite.
+b)
+si le DISTRIBUTEUR cesse son activité commerciale.
+c)
+si la propriété du DISTRIBUTEUR modifie sensiblement la composition de l’actionnariat.
+Le
+DISTRIBUTEUR s’engage à informer immédiatement L.________ au cas où les conditions
+ci-dessus a), b) et c) entrent en considération.
+Article
+25
+Fin
+des rapports contractuels
+Dès
+que possible, après la fin du contrat, qu’elle ait été causée par son non-renouvellement
+ou par sa résiliation anticipée, les deux parties établiront un inventaire contradictoire
+du stock du DISTRIBUTEUR, soit de tous les PRODUITS L.________, pièces détachées, matériel
+d’emballage et de publicité et en général tous les objets portant la marque F.________
+SA et L.________...] [...] en possession du DISTRIBUTEUR et se trouvant en parfait état de vente
+ou d’utilisation.
+L.________
+bénéficiera d’un droit de réméré sur tous les objets ainsi inventoriés
+au prix d’achat effectué du DISTRIBUTEUR, moins les frais de remise en état pour la remise
+à neuf des PRODUITS. L.________ devra notifier au DISTRIBUTEUR dans les 30 jours suivant l’établissement
+de l’inventaire contradictoire, sa volonté d’exercer son droit de réméré,
+faute de quoi elle sera réputée d’y avoir renoncé.
+Si
+L.________ n’exerce pas son droit de réméré, le DISTRIBUTEUR aura le droit de continuer
+à vendre son stock de PRODUITS dans les territoires jusqu’à 12 mois au plus tard après
+fin de la convention. Si après ces 12 mois il reste encore des produits non vendus ceux-ci pourront
+être rachetés par L.________ à un prix raisonnable fixé de commun accord.
+Article
+26
+Aucune
+indemnité de clientèle ne sera due au DISTRIBUTEUR, sauf dans le cas où L.________ résilie
+le présent contrat sans juste motif.
+Dans
+ce cas, L.________ accordera au DISTRIBUTEUR, à titre de dédommagement un montant de 50 % (cinquante)
+de son chiffre d’affaires annuel net avec le DISTRIBUTEUR avec le PRODUIT dans le TERRITOIRE, basé
+sur la moyenne des trois dernières années.
+Aucune
+autre exigence de toute autre nature que ce soit, ne pourra être exigée de la part du DISTRIBUTEUR.
+Article
+27
+Aucune
+indemnité de clientèle ne sera due à L.________, sauf dans le cas où le DISTRIBUTEUR
+résilie le présent contrat sans juste motif. Le DISTRIBUTEUR accordera à titre de dédommagement
+un montant net de 50 % (cinquante) de ses achats annuels L.________, basé sur la moyenne des
+trois dernières années.
+Aucune
+autre exigence de toute autre nature que ce soit, ne pourra être exigée de la part de L.________.
+Article
+28
+Dans
+l’événement, qu’une ou plusieurs des conditions de ce contrat enfreignant directement
+les lois, règlements, conventions internationales ou autres dispositions applicables et deviennent
+ainsi non valables, les conditions qui restent continueront d’être considérées valables
+et en vigueur. Les parties s’engagent à remplacer aussi vite que possible les conditions trouvées
+non valables par des conditions légalement acceptables et aussi proches que possible des intentions
+originales."
+Le
+contrat est régi par le droit suisse et le for exclusif est au siège de l'appelante, à
+[...] (art. 29 et 30).
+4.
+Dans un projet précédant
+le contrat final, l'art. 26 avait été libellé comme suit :
+"Article
+26
+Aucune
+indemnité de clientèle ne sera due au DISTRIBUTEUR, sauf dans le cas où L.________ résilie
+le présent contrat sans juste motif.
+Dans
+ce cas, L.________ accordera au DISTRIBUTEUR, à titre de dédommagement un montant de 50 % (cinquante)
+de son chiffre d’affaires annuel net avec le DISTRIBUTEUR avec le PRODUIT dans le TERRITOIRE, basé
+sur la moyenne des trois dernières années. Ce dédommagement sera multiplié par le
+nombre d'années(s) encore en vigueur, à partir de l'année en cours de résiliation,
+jusqu'au 31 décembre 2025.
+Aucune
+autre exigence de toute autre nature que ce soit, ne pourra être exigée de la part du DISTRIBUTEUR."
+Dans
+la version définitive du contrat, les parties ont abandonné la dernière phrase du deuxième
+alinéa pour retenir la version de l'art. 26 reproduite au chiffre 3 ci-dessus.
+5.
+Le 18 mars 2010, soit le premier jour de la foire
+annuelle de [...], l'appelante a écrit à l'intimée ce qui suit :
+«Contrat
+pour une distribution exclusive» entre Montres L.________ Fabrication S.A. et K.________
+Madame,
+Monsieur,
+Par
+la présente, nous vous informons résilier avec effet immédiat le "Contrat pour une
+distribution exclusive" conclu le 17 juillet 2001 entre les parties citées en marge.
+Il
+va sans dire que F.________ SA respectera les articles 25 et 26 du contrat précité.
+En
+vous priant de prendre bonne note de ce qui précède, recevez, Madame, Monsieur, l'assurance
+de nos salutations distinguées."
+L'appelante
+soutient qu'elle a pris la décision de résilier le contrat pour des raisons d'ordre stratégique
+et économique : elle souhaitait améliorer la qualité de la distribution sur le marché
+italien. Ces faits ont été confirmés par les trois témoins entendus à l'audience
+de ce jour, soit J.________, président et directeur général de l'appelante, G.________,
+directeur financier de la branche montres et joaillerie du groupe [...], qui a repris l'appelante, et
+H.________, directeur financier de l'appelante.
+6.
+Par
+requête du 25 mars 2010, K.________ a pris contre  F.________ SA, par voie de mesures préprovisionnelles
+et provisionnelles, les conclusions suivantes, avec dépens :
+"I.
+Il est fait défense à F.________ SA de livrer des montres de marque F.________ SA à tout
+acheteur (autre que K.________) ayant son domicile ou son siège sur le territoire de l'Italie, que
+ce soit directement ou par l'intermédiaire d'une société que F.________ SA contrôle,
+qui contrôle F.________ SA ou qui est sous contrôle commun avec F.________ SA.
+II.
+Il est fait défense à F.________ SA, que ce soit directement ou par l'intermédiaire d'une
+société que K.________ contrôle, qui contrôle F.________ SA ou qui est sous contrôle
+commun avec F.________ SA, d'approvisionner en montres F.________ SA tout revendeur qui ferait de la
+publicité pour des montres de cette marque sur le territoire italien, ou qui disposerait d'une succursale
+ou de locaux sur ce territoire, sauf avec l'autorisation de K.________
+III.
+Ordre est donné à F.________ SA d'approvisionner K.________ en montres F.________ SA, aux conditions
+prévues par le contrat du 17 juillet 2001, selon les commandes de K.________ et au minimum dans
+les quantités permettant à K.________ d'atteindre les chiffres d'affaires minimaux prévus
+à l'article 6 de ce contrat.
+IV.
+Ordre est donné à F.________ SA de s'abstenir de toute communication, directe ou indirecte,
+sous quelque forme et par quelque moyen que ce soit, vis-à-vis des revendeurs de montres de marque
+F.________ SA ayant leur domicile ou leur siège en Italie, selon laquelle le contrat de distribution
+entre F.________ SA et K.________ aurait pris fin.
+V.
+Les injonctions ci-dessus sont assorties de la menace, signifiée aux organes de F.________ SA, des
+peines prévues à l'art. 292 du Code pénal."
+Par
+ordonnance de mesures préprovisionnelles du 25 mars 2010, le Juge instructeur de la Cour civile
+a, en substance, fait droit à cette requête.
+Dans
+son procédé du 15 avril 2010, l'appelante a conclu, avec dépens, au rejet de la requête
+de mesures provisionnelles et, en conséquence, à la constatation de la caducité de l'ordonnance
+de mesures préprovisionnelles du 25 mars 2010.
+L'audience
+de mesures provisionnelles s'est tenue le 20 avril 2010. Le 20 mai 2010, le juge instructeur de la Cour
+civile a rendu une ordonnance de mesures provisionnelles dont le dispositif est libellé comme suit
+:
+"
+I.
+Interdit à F.________ SA de livrer des montres
+de marque F.________ SA à tout acheteur (autre que K.________ ayant son domicile ou son siège
+sur le territoire de l'Italie, que ce soit directement ou par l'intermédiaire d'une société
+que F.________ SA contrôle, qui contrôle F.________ SA ou qui est sous contrôle commun
+avec F.________ SA.
+II.
+Interdit à F.________ SA, que ce soit directement ou par l'intermédiaire d'une société
+que F.________ SA contrôle, qui contrôle F.________ SA ou qui est sous contrôle commun
+avec F.________ SA, d'approvisionner en montres F.________ SA tout revendeur qui ferait de la publicité
+pour des montres de cette marque sur le territoire italien, ou qui disposerait d'une succursale ou de
+locaux sur ce territoire, sauf avec l'autorisation de K.________.
+III.
+Ordonne à F.________ SA d'approvisionner K.________ en montres F.________ SA, aux conditions prévues
+par le contrat du 17 juillet 2001, selon les commandes de K.________ et au minimum dans les quantités
+permettant à K.________ d'atteindre les chiffres d'affaires minimaux prévus à l'article
+6 de ce contrat.
+IV.
+Ordonne à F.________ SA de s'abstenir de toute communication, directe ou indirecte, sous quelque
+forme et par quelque moyen que ce soit, vis-à-vis des revendeurs de montres de marque F.________
+SA ayant leur domicile ou leur siège en Italie, selon laquelle le contrat de distribution entre
+F.________ SA et K.________ aurait pris fin.
+V.
+Assortit les interdictions et injonctions figurant aux chiffres I à IV ci-dessus de la menace aux
+organes de F.________ SA de la peine d'amende prévue à l'art. 292 du Code pénal, qui réprime
+l'insoumission à une décision de l'autorité.
+VI.
+Confirme en conséquence les chiffres I à V de l'ordonnance de mesures préprovisionnelles
+du 25 mars 2010.
+VII.
+Arrête les frais de la procédure provisionnelle à 5'000 fr. (cinq mille francs) pour la
+requérante K.________.
+Dit que si les parties
+renoncent à requérir la motivation, ces frais seront réduits à 3'450 fr. (trois mille
+quatre cent cinquante francs).
+VIII.
+Condamne l'intimée F.________ SA à verser à la requérante K.________ le montant de
+11'000 fr. (onze mille francs) à titre de dépens de la procédure provisionnelle.
+Dit
+que si les parties renoncent à requérir la motivation, ces frais seront réduits à
+9'450 fr. (neuf mille quatre cent cinquante francs).
+IX.
+Déclare la présente ordonnance immédiatement exécutoire nonobstant recours ou appel."
+L'ordonnance motivée a été envoyée pour notification le 13 juillet 2010. Elle a été
+reçue le lendemain par le conseil de l'appelante.
+7.
+Par requête du 27 juillet 2010, F.________
+SA a interjeté appel de l'ordonnance précitée, prenant, sous suite de frais et dépens,
+les conclusions suivantes :
+"
+Principalement
+1.
+L'appel est admis;
+2.              L'ordonnance de mesures
+provisionnelles rendue le 20 avril 2010 est annulée, l'ordonnance de mesures préprovisionnelles
+rendue le 25 mars 2010 étant révoquée et les conclusions de la requête de mesures
+provisionnelles rejetées.
+Subsidiairement
+3.
+Ordre est donné à K.________ de déposer au greffe de la Cour civile du Tribunal cantonal
+des sûretés d'un montant de CHF 5'000'000.- (cinq millions de francs suisses), que l'Appelante
+se réserve de modifier en cours d'instance, cela dans un délai de dix jours dès notification
+de l'arrêt sur appel, à défaut de quoi les mesures provisionnelles ordonnées le 20
+avril 2010, de même que les mesures préprovisionnelles du 25 mars 2010 deviendront caduques."
+A l'appui de sa requête, l'appelante a produit un onglet de six pièces sous bordereau.
+Le 16 novembre 2010, l'intimée a déposé un mémoire accompagné de deux pièces,
+sur lequel l'appelante s'est déterminée dans une écriture du 19 novembre 2010.
+A l'audience de ce jour, l'intimée a encore produit un procédé écrit complémentaire
+accompagné d'un onglet de treize pièces sous bordereau. Trois témoins ont été
+entendus.
+[...], président et directeur général de l'appelante a expliqué que depuis 2004,
+une nouvelle politique d'entreprise avait été mise en place, qui avait permis une croissance
+fulgurante du chiffre d'affaires. Il a précisé que cette politique n'était pas appliquée
+par l'intimée, dont le chiffre d'affaire avait augmenté dans une moindre proportion, raison
+pour laquelle il avait été décidé de résilier le contrat liant les parties.
+G.________, directeur financier de la branche montres et joaillerie du groupe [...], a confirmé
+que la décision de résilier le contrat avec l'intimée avait été prise en raison
+de la faible progression du chiffre d'affaire en Italie et que le groupe [...] soutenait l'appelante
+dans cette démarche.
+[…],
+directeur financier de l'appelante, a également déclaré que la décision de résiliation
+du contrat entre les parties était la conséquence de la relativement modeste progression du
+chiffre d'affaires en Italie. Il a encore précisé qu'il pouvait se produire que certaines pièces
+commandées par les distributeurs ne soient pas livrées, faute de stock disponible, mais qu'il
+n'existait aucune volonté de désavantager l'intimée par rapport aux autres partenaires
+commerciaux.
+En droit :
+I.
+Les parties ne remettent pas en cause la compétence
+de la Cour civile du Tribunal cantonal pour juger du fond de l'affaire - admettant ainsi que la présente
+cause est une cause patrimoniale dont la valeur litigieuse excède 100'000 francs (art. 74 al.
+2 de la loi vaudoise d'organisation judiciaire du 12 décembre 1979 ; RSV 173.01) - ni la compétence
+du juge instructeur de cette cour pour juger des mesures provisionnelles (art. 103 al. 1 du Code de procédure
+civile vaudois du 14 décembre 1966 ; CPC-VD ; RSV 270.11). Elles ne contestent pas non plus l'application
+par le juge instructeur du droit suisse (cf. cons. I), ni du CPC-VD (cf. cons. II). L'entrée en
+vigueur, le 1
+er
+janvier 2011, du Code de procédure civile du 19 décembre 2008 (CPC; RS 272) n'a pas d'incidence
+sur la compétence ni sur le droit de procédure applicable, la procédure restant régie
+par l'ancien droit jusqu'à la clôture de l'instance (art. 404 al. 1 CPC ; art. 166 du Code
+de droit privé judiciaire vaudois du 12 janvier 2010 ; RSV 211.02).
+L’appel, qui a été déposé dans le délai légal de dix jours dès
+la notification de l’ordonnance (art. 112 al. 1 CPC-VD) rendue par un juge instructeur (art. 111
+al. 1 et 3 CPC-VD), par une partie à la procédure et dans les formes prescrites (art. 19, 111
+al. 1 et 112 al. 2 CPC-VD), est recevable.
+II.
+a)
+Le
+juge instructeur a qualifié le contrat liant les parties de contrat de représentation exclusive
+(consid. IIIa), soit un contrat de durée indéterminée (après 2025 il se renouvelle
+tacitement pour dix ans à défaut d’avis contraire) « sui generis ». Faute
+de pouvoir déterminer la commune et réelle intention des parties, il a procédé à
+une interprétation du contrat selon le principe de la confiance ; ce faisant, il est arrivé
+à la conclusion que le contrat ne ménageait pas la possibilité aux parties de le résilier
+avec effet immédiat sans justes motifs ; les art. 26 et 27 du contrat, qui prévoient le versement
+d’une indemnité de clientèle en cas de résiliation sans juste motif ne seraient,
+à cet égard et par rapport aux autres éléments de l’interprétation (la
+systématique des art. 24 et 25, l’économie et le but du contrat), pas déterminants.
+Le juge instructeur en a conclu que la résiliation n’était « pas opérante »
+(consid. IIIe). Après avoir rappelé que le Tribunal fédéral et le CPC-VD admettaient
+d’allouer par la voie provisionnelle l’exécution anticipée du droit au fond, constaté
+que le besoin de protection provisionnel de l’intimée à l’appel était particulièrement
+grand et que, au regard du principe de proportionnalité, l’appelante ne faisait pas valoir
+que l’exécution du contrat par sa cocontractante lui nuirait ou lui causerait un préjudice,
+il a admis d’ordonner l’exécution du contrat par la voie des mesures provisionnelles
+(consid. IV).
+b)
+L’appelante conteste cette argumentation. Elle fait valoir que la réelle et commune intention
+des parties, s’agissant de la faculté de mettre fin au contrat avant l’échéance
+et en l’absence de justes motifs, peut être déterminée sur la base du projet de
+contrat qu’elle produit à l’appui de son appel. Elle invoque en outre que l’interprétation
+objective du contrat aboutit à la même conclusion, notamment eu égard à la jurisprudence
+du Tribunal fédéral en vigueur à la date de sa confection; ainsi, interprété
+selon le principe de la confiance, le contrat permettrait une résiliation extraordinaire, même
+en l’absence de justes motifs; en cas de résiliation immédiate injustifiée, une
+indemnisation forfaitaire était au demeurant prévue. Enfin, la systématique du contrat
+serait conforme à la loi et à la jurisprudence ; en particulier, le contrat de distribution
+exclusive serait soumis aux règles du contrat d’agence, qui renvoient à celles du contrat
+de travail. Or, une résiliation immédiate d’un contrat de travail, même injustifiée,
+met fin à ce contrat. L’appelante en déduit que la résiliation litigieuse a bien
+mis fin aux relations contractuelles. C’est donc à tort que le juge instructeur aurait retenu
+que la résiliation était inopérante. Les conditions posées à l’octroi
+de mesures provisionnelles ne seraient donc pas remplies, surtout eu égard à la vraisemblance
+accrue requise lorsque de telles mesures aboutissent pratiquement à une exécution anticipée
+du droit au fond. Enfin, à titre subsidiaire, l’appelante soutient que si les mesures étaient
+admises, il conviendrait d’obliger l’intimée à fournir des sûretés à
+hauteur de 5'000'000 francs.
+c)
+Quant à l’intimée, elle conclu au rejet de l’appel. Elle fait valoir, premièrement,
+que le contrat passé entre les parties ne conférait pas à l’appelante le droit de
+le résilier sans justes motifs : à cet égard, elle avance quatre arguments : l’interprétation
+du contrat ne permet pas de le soutenir; l’article 26 ne prévoit pas une limitation du montant
+du dommage en cas de résiliation immédiate sans justes motifs, mais traite des conditions auxquelles
+une indemnité de clientèle peut être réclamée, et le calcul de celle-ci; l’article
+26 se heurte au demeurant au droit impératif; enfin, si l’article 26 constituait une limitation
+de la réparation du dommage, il serait nul en application de l’art. 100 CO; deuxièmement,
+elle soutient qu’aucune autre disposition du contrat ne permet une résiliation anticipée
+sans juste motif; enfin, troisièmement, elle fait valoir que la résiliation immédiate
+et sans juste motif d’un contrat de distribution est sans effet juridique. Puisque le contrat n’a
+pas pris fin, elle en conclut qu’elle peut en exiger l’exécution, au besoin par voie
+de mesures provisionnelles, comme la jurisprudence du Tribunal fédéral l’a admis; à
+cet égard, elle fait observer que la reprise des livraisons est la seule mesure propre à éviter
+le préjudice difficilement réparable qu’elle subit en tant que distributeur. S’agissant
+des sûretés, elle invoque que l’appelante n’en avait pas demandé devant le
+premier juge et que, si celle-ci n’avait pas fait porter l’instruction sur un éventuel
+dommage que les mesures pourraient lui causer, c’est que ce dommage n’existe pas ; enfin,
+elle fait valoir que la probabilité que les mesures s’avèrent ultérieurement infondées
+est plus que restreinte; subsidiairement, si le versement de sûretés devait être ordonné,
+leur montant ne devrait pas priver l’intimée d’obtenir la protection provisionnelle
+de ses droits.
+III.
+a)
+Les
+mesures provisionnelles ou provisoires («vorsorgliche Massnahmen » ou « einstweilige Verfügungen
+») sont les mesures qu'une partie peut requérir pour la protection provisoire de son droit
+pendant la durée du procès au fond et, dans certains cas, avant même l'ouverture de celui-ci
+(Hohl, Procédure civile, tome II, 2
+e
+éd. 2010, n. 1773, p. 316). Encore qu'il existe un grand nombre de distinctions et de classifications,
+en raison de la nature même de cette institution juridique, la doctrine classe généralement
+les mesures provisionnelles en trois catégories, en fonction de leur but: les mesures conservatoires
+(« Sicherungsmassnahmen »), qui visent à maintenir l'objet du litige dans l'état
+où il se trouve pendant toute la durée du procès; les mesures de réglementation (« Regelungsmassnahmen
+»), qui règlent un rapport de droit durable entre les parties pour la durée du procès;
+les mesures d'exécution anticipée provisoires (« Leistungsmassnahmen ») - elles
+peuvent avoir pour objet soit des prestations en argent, soit d'autres obligations de faire ou des obligations
+de s'abstenir -, qui tendent à obtenir à titre provisoire, en tout ou en partie, l'exécution
+de la prétention au fond litigieuse (ATF 136 III 200 c. 2.3.2, commenté par Jacques de Werra,
+Liquidation d’un contrat de licence de marque et mesures provisionnelles : quelques observations
+à la lumière de l’ATF 136 III 200, in sic ! 9/2010, pp. 662 à 667 ; cf., parmi d'autres,
+Hohl, op. cit., nn. 1737 ss, pp. 317 ss ; Besson, Arbitrage international et mesures provisoires, thèse
+Lausanne 1998, n. 495, p. 297).
+La dernière de ces trois catégories de mesures provisoires trouve son fondement dans la constatation
+qu'une modification du droit est souvent nécessaire pour le maintien d'une situation de fait (Besson,
+op. cit., n. 8 i.f. et l'auteur cité). Une mesure d'exécution anticipée peut, en effet,
+se révéler indispensable lorsque, en raison de l'inexécution prolongée d'une prestation,
+le requérant est menacé d'un dommage (Hohl, op. cit., nn. 1822 s, pp. 333 à 337). Du reste,
+depuis le 1
+er
+janvier 2011, l’art. 262 let. d et e CPC prévoit qu'une mesure provisionnelle peut avoir pour
+objet la fourniture d'une prestation en nature et, lorsque la loi le prévoit, le versement d'une
+prestation en argent.
+Avant l’entrée en vigueur du CPC, les mesures d'exécution anticipée provisoires
+n’étaient pas étrangères au droit suisse (pour des exemples tirés de la législation
+fédérale, cf. Hohl, op. cit., n. 1827, p. 334). Elles avaient notamment cours dans le domaine
+de la propriété intellectuelle (Schlosser, Les conditions d'octroi des mesures provisionnelles
+en matière de propriété intellectuelle et de concurrence déloyale, sic! 2005, pp.
+339 ss, pp. 352 s.), l'arbitrage international (Berger/Kellerhals, Internationale und interne Schiedsgerichtsbarkeit
+in der Schweiz, Berne 2006, n. 1149; Berti, in : Honsell/Vogt/Schnyder/Berti (éd.), Basler Kommentar
+zum IPRG, 2e éd. 2007, n. 7 ad art. 183 LDIP; Geisinger, Les relations entre l’arbitrage commercial
+international et la justice étatique en matière de mesures provisionnelles, SJ 2005 II 375
+ss, p. 378 i.f.) et le droit du bail (Byrde, Les mesures provisionnelles en droit du bail à loyer
+: examen de la jurisprudence récente, in Séminaire sur le droit du bail, Neuchâtel 2004,
+pp. 4, 16 ss, 24 ss et 33 ss).
+b)
+C’est donc très logiquement que, dans des décisions récentes, le Tribunal fédéral
+a jugé admissible d'ordonner par voie de mesures provisionnelles, et à titre conservatoire,
+l'exécution d'un contrat indûment résilié : il l’a fait d’abord dans
+un arrêt de principe relatif, précisément, à un contrat de distribution (ATF 125
+III 451 c. 3c, JT 2000 I 163, rés. in SJ 2000 I 122) puis dans un autre arrêt relatif à
+un contrat de licence (ATF 133 III 360, rés. in SJ 2007 I 482, sic ! 2007, 619) ; dans ce dernier
+litige, qui était soumis à l’arbitrage et concernait un contrat de licence de marque,
+la preneuse de licence, confrontée à une résiliation du contrat avec effet immédiat
+qu’elle considérait comme injustifiée, avait tenté d’obtenir des autorités
+judiciaires tessinoises des mesures provisionnelles en exécution du contrat, que ces dernières
+avaient refusées ; saisi d’un recours de droit public, le Tribunal fédéral a jugé
+qu’une résiliation immédiate non fondée sur des motifs graves ne déployait
+pas d’effets de sorte que le contrat continuait à être valable ; il a ainsi renvoyé
+le litige aux juges tessinois pour déterminer si des mesures provisionnelles en exécution du
+contrat pouvaient être ordonnées en l’espèce (cf. cons. 9). Enfin, dans un autre
+arrêt qui concernait aussi un contrat de licence, mais dont la résiliation n’était
+pas litigieuse, le Tribunal fédéral a classé dans les mesures provisionnelles d’exécution
+anticipée et/ou de réglementation l’ordre donné par un arbitre unique à la
+preneuse de licence de céder à la donneuse son stock de vêtements portant la marque concédée
+en licence, pour un prix provisoire (ATF 136 III 200 c. 2.3.4.2).
+c)
+Pour sa part, le droit vaudois de procédure garantit et concrétise une telle protection provisionnelle
+à l’art. 101 al. 1 CPC-VD, en prévoyant qu’en cas d’urgence, des mesures
+provisionnelles peuvent être ordonnées, même avant l’ouverture d’action, pour
+prévenir tout changement à l’état de fait litigieux (let. b) et pour écarter
+la menace d’un dommage difficile à réparer (let. c). Quant aux mesures d’exécution
+anticipée, elles sont rendues possibles par le caractère non limitatif de l’énumération
+figurant à l’art. 102 CPC-VD (JT 2007 III 48 c. 5c; Poudret/Haldy/Tappy, Procédure civile
+vaudoise, 3e éd. Lausanne 2002, note ad art. 102 CPC-VD).
+Que le fondement procédural de telles mesures d’exécution anticipée soit fédéral
+ou cantonal, les conditions posées à leur octroi sont similaires : la partie requérante
+doit rendre vraisemblable le bien-fondé de sa prétention au fond, l’existence d’un
+préjudice difficilement réparable et l’atteinte ou le risque d’une atteinte, c’est-à-dire
+l’urgence (ATF 133 III 360 c. 9.2, rés. in SJ 2007 I 482; JT 2007 III 48 ; Hohl, op. cit.,
+nn. 1839 s., pp. 335 s.).
+Ces conditions ne sont valables que lorsque la mesure d’exécution anticipée a un effet
+provisoire. Dans certains cas, toutefois, une telle mesure est susceptible d’avoir un effet définitif,
+parce que le litige n’a plus d’intérêt au-delà du stade des mesures provisionnelles
+: tel sera le cas lorsque cette mesure ne sera l’objet ni d’une procédure de validation
+au fond ni d’une action en réparation du préjudice éprouvé par le défendeur
+; dès lors que le demandeur a obtenu l’exécution au fond, il n’a plus d’intérêt
+à valider la mesure en introduisant l’action au fond ; dans ces cas (comme l’interdiction
+de faire concurrence au sens de l’art. 340b al. 3 CO ou l’expulsion), la jurisprudence et
+la doctrine exigent que la mesure soit prononcée de façon restrictive (ATF 131 III 473 c. 2.3,
+SJ 2005 I 517; Hohl, op. cit., nn. 1844 à 1848, pp. 336 s.; JICC, S. c. B. SA, 26 février 2008,
+cons. II, rés. in JT 2009 I 131).
+En l’espèce, l’intimée a sollicité, par la voie des mesures provisionnelles,
+que l’appelante soit obligée de l’approvisionner en montres aux conditions prévues
+par le contrat de distribution pour le motif que celui-ci avait été résilié de manière
+indue (conclusion III). Ce faisant, elle a requis l’exécution du contrat litigieux. Selon
+ce qui a été exposé plus haut, cette conclusion peut être classée aussi bien
+parmi les mesures conservatoires que parmi les mesures de réglementation ou d’exécution
+anticipée. Quant aux conclusions tendant à ce qu’il soit fait interdiction à l’appelante,
+en substance, de livrer à des tiers sur le territoire italien les montres en cause (conclusions
+I et II), elles ont les mêmes caractéristiques. Enfin, la conclusion tendant à ce que
+la résiliation ne soit pas communiquée à des tiers (conclusion IV) a un caractère
+conservatoire et de réglementation. Si les conclusions I à III sont admises, l’intimée
+aura intérêt à maintenir l’action au fond qu’elle a déjà engagée.
+En effet, si elle retirait cette action, les mesures – notamment la poursuite de l’approvisionnement
+– seraient caduques. Il faut ainsi en conclure que les mesures anticipées litigieuses n’ont
+pas un caractère définitif, mais provisoire, jusqu’à droit connu sur l’action
+que l’intimée a d’ores et déjà engagée sur le fond.
+d)
+Il s’agit dès lors d’examiner si les conditions précitées, posées à
+l’octroi des mesures provisionnelles, sont remplies en l’espèce, en commençant
+par le bien-fondé du droit prétendu au fond, savoir les effets de la résiliation du contrat
+liant les parties (cf. cons. IV), puis l’urgence (cf. cons. V) et enfin la pesée des intérêts
+(cf. cons. VI).
+IV.
+a)
+Le
+contrat signé le 17 juillet 2001 entre [...] (devenue l’appelante F.________ SA), à Nyon,
+d’une part, et l’intimée, d’autre part, prévoit en substance que [...] concède
+à l’intimée le droit exclusif de vendre les montres de marque F.________ SA en Italie
+(art. 1 à 5), ce durant vingt-cinq ans, du 1er janvier 2001 au 31 décembre 2025 (art. 23 al.
+1); sauf avis donné vingt-quatre mois à l’avance par courrier recommandé, le contrat
+se renouvelle tacitement pour dix ans, et ainsi de suite (art. 23 al. 2). Ce contrat, de distribution
+ou de concession exclusive, est de durée indéterminée. L’appelante ne met pas en
+cause sa validité au regard de l’art. 19 al. 2 CO ou 27 CC, en particulier au vu de sa longue
+durée. Les parties ne contestent pas non plus que la résiliation avec effet immédiat litigieuse,
+signifiée par l’appelante le 18 mars 2010, est une résiliation extraordinaire, en ce
+sens qu’elle ne respecte pas les terme et délai contractuels précités. Elles sont
+divisées sur le point de savoir si une telle résiliation était possible, et à quelles
+conditions, d’une part, et sur ses conséquences, d’autre part.
+b) aa)
+En droit suisse, la règle est que les obligations contractées doivent être respectées
+(ATF 133 III 360 c. 8.1, rés. in SJ 2007 I 482). D’après le Tribunal fédéral,
+cette règle n’exclut pas de pouvoir mettre fin de manière anticipée à un contrat,
+en particulier à un contrat de durée - innommé ou  « sui generis » comme
+le présent contrat -, mais la résiliation doit alors se fonder sur des « motifs graves
+» (ATF 133 III 360 c. 8.1, rés. in SJ 2007 I 482 et les références citées;
+ATF 128 III 428 c. 3, JT 2005 I 284 et les références citées).
+De même, la doctrine admet que tout contrat de durée peut être résilié avec
+effet immédiat, pour de justes motifs, même en l’absence d’une disposition légale
+ad hoc ; il s’agit d’un principe général fondé sur la protection de la personnalité
+découlant de l’art. 27 du Code civil du 10 décembre 1907 (CC ; RS 210 ; cf. Venturi-Zen-Ruffinen,
+La résiliation pour justes motifs des contrats de durée, in SJ 2008 II 1 ss, spéc.
+p. 2 (ci-après : article SJ), et les références citées en note de bas de page 5 ;
+Vulliéty, Résiliation extraordinaire injustifiée d’une concession de vente en droit
+suisse : poursuite ou fin du contrat ?, in SJ 2003 II 91 ss, spéc. p. 95 et les références
+citées en note de bas de page 13 ; Schluep/Schmid, Schweizerisches Obligationenrecht, Allgemeiner
+Teil, vol. I, 9
+ème
+éd. Zurich 2008, nn. 151 à 153, p. 31 et les références citées). Constitue un
+juste motif de résiliation immédiate un manquement grave, ou des manquements répétés,
+propres à détruire le rapport de confiance entre les parties. Dans la mesure où la résiliation
+pour justes motifs déroge au principe de la fidélité contractuelle, elle ne doit être
+admise que de manière restrictive (Venturi-Zen-Ruffinen, article SJ, op. cit., p. 3, et les références
+citées en notes de bas de page 9, 11, et 12). Il s’agit d’une "ultima ratio",
+qui n’est pas admissible lorsqu’une mesure moins incisive est possible ; elle doit donc respecter
+les principes de proportionnalité et de subsidiarité (Venturi-Zen-Ruffinen, La résiliation
+pour juste motif des contrats de durée, thèse Fribourg 2007 (ci-après : thèse), n.
+347, pp. 122 et 123 avec les arrêts du Tribunal fédéral cités).
+Le manquement doit être objectivement et subjectivement grave. La gravité objective suppose
+que le motif invoqué ne permette pas, selon les règles de la bonne foi, d’exiger de la
+partie qui s’en prévaut la continuation du contrat jusqu’au prochain terme de résiliation;
+c’est en particulier le cas lorsque le rapport de confiance entre les parties est définitivement
+détruit; la gravité objective s’examine à l’aune de la bonne foi; le juge
+doit se demander si, placé dans les mêmes circonstances, un homme raisonnable devrait pouvoir
+résilier le contrat en vertu du motif en cause (Venturi-Zen-Ruffinen, article SJ, op. cit., pp.
+12 à 14 et les références). Une gravité purement objective ne suffit cependant pas;
+des motifs objectivement graves mais qui ne sont pas, subjectivement, considérés comme tels
+par le cocontractant qui résilie ne suffisent pas à fonder la résiliation. De même,
+une gravité purement subjective ne suffit pas. La gravité subjective suppose que le motif invoqué
+rende, effectivement, la continuation du contrat insupportable pour la partie qui résilie (Venturi-Zen-Ruffinen,
+article SJ, op. cit., pp. 16 à 21 et les références).
+bb)
+Dans l’arrêt du 6 mars 2007 précité (ATF 133 III 360, rés. in SJ 2007
+I 482) qui concerne un contrat de licence, le Tribunal fédéral a posé clairement qu’à
+défaut de motifs graves, la résiliation anticipée ne déployait pas d’effets,
+et les obligations contractuelles demeuraient (c. 8.1.2); il n’a réservé que les cas
+où la loi prévoit expressément d’autres conséquences, par exemple en matière
+de bail, de contrat de travail ou de mandat (c. 8.1.3 et 8.3).
+Certes, l’appelante soutient qu’en pareil cas, il faudrait appliquer les règles du droit
+du travail, c’est-à-dire admettre qu’une résiliation anticipée injustifiée
+produise des effets, par analogie avec les règles sur le renvoi de l’agent (cf. art. 418r
+al. 2 CO; ATF 125 III 14 c. 2a, JT 1999 I 359 relatif à un contrat d’agence).
+La thèse de l’appelante ne saurait être suivie : d’abord et surtout, elle contrevient
+à la jurisprudence du Tribunal fédéral susmentionnée, qui énonce elle-même
+qu’elle vaut pour tous les contrats de durée - sous la réserve précitée (cf.
+c. 8.3) -, et dont les auteurs s’accordent à dire qu’elle consacre un principe général
+applicable à tous les contrats de ce type (Tercier/Favre, Les contrats spéciaux, 4ème
+éd. Zurich 2009, n. 7936, p. 1192; Venturi-Zen-Ruffinen, article SJ, op. cit., pp. 30 et 32 ; en
+dernier lieu : Jacques de Werra, Liquidation d’un contrat de licence, op. cit., p. 666) ; au surplus,
+avant la reddition de cette jurisprudence, le Tribunal fédéral était déjà allé
+dans le même sens (ATF 125 III 451 c. 3b et 3c, JT 2000 I 163 relatif à un contrat de distribution
+exclusive) ; enfin, la doctrine récente souligne que l’application des règles du contrat
+d’agence et du contrat de travail ne sont pas adéquates s’agissant du contrat de distribution
+exclusive, la position du distributeur n’étant pas assimilable à celle d’un agent,
+et encore moins à celle d’un travailleur (cf. les longs et convaincants développements
+de Venturi-Zen-Ruffinen, thèse, op. cit., nn. 1427 à 1449, pp. 396 à 405; avant la reddition
+de l’arrêt du 6 mars 2007 - ATF 133 III 360, rés. in JT 2007 I 482 - Vulliéty critiquait
+la solution rendue en matière de contrat d'agence - ATF 125 III 14, JT 1999 I 359 - : cf. Vulliéty,
+op. cit., pp. 104 ss).
+c)
+A côté de la voie des graves motifs de résiliation au sens énoncé plus haut,
+qui justifient la résiliation anticipée, il existe aussi une résiliation anticipée
+pour des motifs prévus dans le contrat. Il est ainsi fréquent en pratique que les parties prévoient
+dans leur contrat que certaines circonstances donneront le droit de mettre fin au rapport contractuel
+de façon extraordinaire. Souvent, les parties prévoient que le contrat pourra être résilié
+à la double condition d’une mise en demeure à la partie défaillante de rétablir
+une situation conforme au contrat et de nouveaux manquements après la mise en demeure; si le manquement
+reproché constitue objectivement un juste motif de résiliation au sens rappelé ci-dessus,
+la victime du manquement peut résilier avec effet immédiat, même si le contrat subordonne
+ce droit à une mise en demeure (Vulliéty, op. cit., p. 97 ; Venturi-Zen-Ruffinen, thèse,
+op. cit., nn. 1243 ss, pp. 330 ss). En tout état de cause, les parties ne peuvent prévoir un
+juste motif dépendant exclusivement de la volonté de celui qui résilie; en effet, la clause
+qui habilite un cocontractant à résilier le contrat en raison d’un motif dont l’appréciation
+relève de sa seule autorité est tout aussi arbitraire que celle qui l’autorise à
+rompre la relation contractuelle quand il le veut (Venturi-Zen-Ruffinen, thèse, op. cit., n. 1235,
+p. 328). Le contrat ne peut ainsi pas étendre le droit de résilier avec effet immédiat
+à des circonstances qui feraient que la partie serait exposée à l’arbitraire de
+son cocontractant (Venturi-Zen-Ruffinen, article SJ, op. cit., pp. 3 ss ; Vionnet, L’exercice des
+droits formateurs, thèse Lausanne, Zurich 2008, pp. 20, 249 ss et 306 ss).
+d)
+L’appelante a déclaré résilier avec effet immédiat le contrat de distribution
+qui la liait à l’intimée par courrier du 18 mars 2010. Ce courrier n’énonce
+aucun motif à l’appui de cette déclaration de résiliation. Dans son procédé
+du 15 avril 2010 répondant à la requête de mesures provisionnelles, l’appelante
+a soutenu qu’il lui était loisible de résilier de manière anticipée le contrat
+sans invoquer de justes motifs, au vu de l’article 26 du contrat; de fait, dans cette écriture,
+elle n’expose pas les raisons qui l’ont conduit à dénoncer le contrat. Ce n’est
+qu’à l’appui de son appel qu’elle a, pour la première fois, exposé que
+son capital social avait été acquis par le groupe [...] (all. 7), mondialement actif dans les
+produits de luxe (all. 8) et qu’elle souhaitait améliorer la distribution des montres en cause
+sur le marché italien pour le mettre au standard des autres produits [...] (all. 36 à 38).
+Les trois témoins entendus, respectivement président directeur général de l’appelante,
+directeur financier de celle-ci et directeur financier de la branche montres et joaillerie de [...],
+ont dit que la résiliation était motivée par le fait que le chiffre d’affaires réalisé
+en Italie par l’intimée ne progressait que faiblement. Quant à l’intimée,
+elle conteste la réalité de ce motif, invoquant qu’elle pourrait réaliser un chiffre
+d’affaires supérieur si les distributeurs italiens étaient livrés en suffisance;
+or, pour des raisons qu’elle ignore mais qu’elle soupçonne relever de la mauvaise volonté
+de l’appelante, l’intimée prétend connaître depuis plusieurs mois des problèmes
+d’approvisionnement – antérieurs à la résiliation; quoi qu’il en soit,
+elle invoque que le motif énoncé par l’appelante relève de la convenance personnelle
+et non du motif grave.
+En l’occurrence, il n’est pas nécessaire, au stade des mesures provisionnelles, d’instruire
+la réalité du motif invoqué. En effet, à supposer même que le chiffre d’affaires
+de l’intimée en Italie progresse plus faiblement que celui des autres branches du groupe [...],
+et qu’un défaut d’approvisionnement de l’intimée n’en soit pas la cause,
+il ne s’agit manifestement pas d’un motif objectivement ni subjectivement grave, au sens
+précité (cf. cons. IVb)aa)). Du reste, l’appelante elle-même ne fait pas valoir
+que ce motif rendrait la continuation du contrat insupportable pour elle. Force est donc de constater
+qu’aucun motif grave n’est invoqué ni a fortiori rendu vraisemblable. Dans ces conditions,
+et à ce stade du raisonnement, la résiliation anticipée ne saurait déployer d’effets.
+e)
+L’appelante fait valoir que la résiliation litigieuse, même injustifiée, doit déployer
+néanmoins des effets parce qu’à son article 26, le contrat passé entre les parties
+lui donne le droit d’y mettre fin en tout temps sans justes motifs.
+aa)
+Pour apprécier la forme et les clauses d'un contrat, il y a lieu de rechercher la réelle et
+commune intention des parties, sans s'arrêter aux expressions ou dénominations inexactes dont
+elles ont pu se servir, soit par erreur, soit pour déguiser la nature véritable de la convention
+(art. 18 al. 1 CO [Code des obligations; RS 220]). Lorsque les parties ont fixé leurs déclarations
+sur un support écrit, il faut se fier en premier lieu à la teneur du texte lui-même (ATF
+131 III 377 c. 4.2.1, JT 2005 I 612; Wiegand, Basler Kommentar, OR I, 4ème éd., Bâle 2007,
+n. 19 ad art. 18 CO). La détermination d'un sens littéral univoque n'exclut toutefois pas la
+possibilité de recourir à d'autres critères d'interprétation. Il découle en
+effet de l'art. 18 al. 1 CO que les termes utilisés, même s'ils sont clairs, ne sont pas nécessairement
+déterminants, ce qui condamne une interprétation purement littérale. Même si la teneur
+d'une clause contractuelle paraît claire et indiscutable à première vue, il peut résulter
+du but poursuivi par les parties ou d'autres circonstances que la lettre ne restitue pas exactement le
+sens de l'accord conclu (ATF 136 III 186 c. 3.2.1, SJ 2010 I 317; ATF 135 III 295 c. 5.2, non rés.
+in SJ 2009 I 396; ATF 132 III 24 c. 4). Le droit dispositif peut également jouer un rôle: dans
+la mesure où le législateur opère, en règle générale, une pesée des
+intérêts en présence, la partie qui entend s'écarter des règles légales
+doit exprimer sa volonté avec suffisamment de clarté dans le contrat (ATF 126 III 388 c. 9d,
+JT 2002 I 215 et les arrêts cités; Wiegand, op. cit., n. 39 ad art. 18 CO). Au-delà du
+texte et du contexte dans lequel les déclarations des parties ont été formulées,
+il faut encore prendre en compte les circonstances qui ont précédé la conclusion du contrat,
+à tout le moins si celles-ci étaient reconnaissables également pour des tiers (ATF 131
+III 377 c. 4.2.1, JT 2005 I 612, SJ 2005 I 409 et les références; Winiger, Commentaire romand,
+CO I, Bâle 2003, nn. 33 à 34 ad art. 18 CO). Les circonstances survenues postérieurement
+à la conclusion du contrat, parmi lesquelles le comportement des parties, constituent, cas échéant,
+un indice de la volonté réelle de celles-ci (ATF 132 III 626 c. 3.1, JT 2007 I 423 et
+les arrêts cités; Kramer, Berner Kommentar, Berne 1985, n. 28 ad art. 18 CO). Il n'y a toutefois
+pas lieu de s'écarter du sens littéral du texte adopté par les intéressés lorsqu'il
+n'y a aucune raison de penser qu'il ne correspond pas à leur volonté (ATF 136 III 186
+précité, SJ 2010 I 317; ATF 135 III 295 c. 5.2, rés. in JT 2009 I 396). Le fardeau de
+la preuve incombe à celui qui soutient que le sens objectif du contrat ne restitue pas la volonté
+des parties (Wiegand, op. cit., n. 49 ad art. 18 CO; Winiger, op. cit., n. 24 ad art. 18 CO). Si le juge
+ne parvient pas à déterminer avec sûreté la volonté effective des parties, il
+interprétera le contrat selon le principe de la confiance, c’est-à-dire qu’il recherchera
+comment les parties, lorsque leur accord s'est formé, pouvaient comprendre de bonne foi les clauses
+adoptées par elles, en fonction du contexte dans lequel elles ont traité (ATF 136 III 186 c.
+3.2.1, SJ 2010 I 317; ATF 135 III 295 c. 5.2, rés. in SJ 2009 I 396; ATF 131 III 280 c. 3.1, non
+rés. in SJ 2005 I 512).
+bb)
+Il s’agit d’abord d’examiner la lettre du contrat. En l’occurrence, au chapitre
+« Durée et renouvellement » (article 23), les parties ont prévu que le contrat qui
+les lie durerait du 1er janvier 2001 au 31 décembre 2025 et se renouvellerait tacitement de dix
+ans en dix ans, sauf avis de résiliation donné deux ans avant l’échéance. C’est
+dire que, sur le principe, et à l’intérieur de la première période –
+soit celle qui nous occupe -, elles n’ont prévu qu’une seule possibilité pour les
+deux parties d’exercer un droit formateur avec effet résolutoire, savoir de respecter un délai
+de congé de deux ans, avant l’échéance du 31 décembre 2025.
+Au chapitre « Résiliation anticipée pour justes motifs » (article 24), les parties
+ont usé de la prérogative mentionnée plus haut au considérant IVc), en indiquant
+dans leur contrat deux hypothèses dans lesquelles les deux parties sont habilitées à résilier
+de manière anticipée pour justes motifs (article 24 al. 1 : violation par une partie de ses
+obligations contractuelles, après une vaine mise en demeure; article 24 al. 2 : faute grave de l’une
+des parties, sans mise en demeure), ainsi que trois hypothèses dans lesquelles la seule appelante
+est habilitée à « dénoncer le contrat à tout moment et sans préavis »
+(article 24 al. 3 :  a) l’intimée est liquidée ou devient insolvable, b) elle cesse
+ses activités commerciales et c) si son actionnariat se modifie sensiblement ; l’intimée
+s’engage à informer l’appelante de la survenance de l’une de ces trois hypothèses).
+Au regard des principes rappelés plus haut (cf. cons. IVc précité), l’article
+24 du contrat paraît dans l’ensemble correct, en ce sens qu’en cas de motif grave (faute
+grave, insolvabilité, cessation des activités), il permet à l’appelante de résilier
+de manière anticipée, soit sans respecter les délai et terme prévus à l’article
+23, et en cas de motif moins grave (violation des obligations contractuelles), il le lui permet également,
+mais moyennant une vaine mise en demeure.
+Au chapitre «Fins des rapports contractuels » figurent quatre articles. L’article 25
+est relatif au sort du stock : il prévoit que dès la fin du contrat, causée soit par un
+non-renouvellement soit par une résiliation anticipée, les parties dresseront un inventaire
+du stock des marchandises en possession de l’intimée, avec possibilité à l’appelante
+d’exercer sur celles-ci un droit de réméré. Les articles 26 et 27 sont relatifs
+à une indemnité de clientèle, l’article 26 se référant à l’indemnité
+de clientèle due au distributeur, soit à l’intimée, et l’article 27 se référant
+à l’indemnité de clientèle due au concédant, soit à l’appelante.
+Quant à l’article 28, il prévoit que si des clauses du contrat enfreignent la loi, elles
+continueront néanmoins à être valables (!), les parties s’engageant aussi vite que
+possible à les remplacer par des conditions valables.
+Avec le premier juge, il faut ainsi constater que les articles 26 et 27, selon lesquels aucune indemnité
+de clientèle n’est due au distributeur, respectivement au concédant, sauf en cas de résiliation
+du contrat « sans juste motif », auquel cas le concédant, respectivement le distributeur
+accordera à l’autre partie une indemnité égale à 50 % du chiffre d’affaires
+annuel net, respectivement à 50 % des achats annuels, ne posent pas clairement le principe de la
+validité d’une résiliation sans juste motif – comme l’article 24 pose le
+principe de la validité de la résiliation pour justes motifs -, mais prévoient cette hypothèse
+de manière implicite. C’est ainsi dans le cadre des conséquences financières de
+la fin des rapports contractuels que cette hypothèse est envisagée.
+Comme cela a été exposé plus haut, la jurisprudence et la doctrine considèrent qu’une
+partie ne peut pas mettre fin à un contrat de durée sans juste motif (cf. cons. IVb). De même,
+les parties ne peuvent pas prévoir contractuellement un juste motif dépendant exclusivement
+de la volonté de celui qui résilie ni ne peuvent étendre le droit de résilier avec
+effet immédiat à des circonstances qui feraient que la partie serait exposée à l’arbitraire
+de son cocontractant (cf. cons. IVc). En l’espèce, admettre qu’à l’article
+26 de leur contrat, les parties seraient convenues que l’appelante pourrait mettre fin au contrat
+en tout temps et sans juste motif signifierait que l’intimée serait livrée à l’arbitraire
+de sa cocontractante, ce qui n’est pas possible au vu des principes susmentionnés. Dans cette
+mesure, l’interprétation littérale contreviendrait ou s’écarterait des règles
+légales.
+Or, on l’a vu (cf. cons. e)aa)), la jurisprudence prévoit que la partie qui entend s’écarter
+des règles légales doit exprimer sa volonté avec suffisamment de clarté dans le contrat.
+En l’espèce, force est de constater que le droit de l’appelante de mettre fin au contrat
+en l’absence d’un juste motif n’est pas clairement énoncé dans le contrat,
+alors que le principe de la résiliation pour l’échéance est posé à l’article
+23 et que le droit de résilier pour de justes motifs strictement délimités est posé
+à l’article 24.
+En outre, il résulte du but poursuivi par les parties, et de la longue durée convenue, que
+celles-ci souhaitaient que leurs relations contractuelles aient une certaine permanence, justifiée
+notamment par les investissements que l’intimée devait faire pour mettre sur pied un réseau
+de distribution en Italie et atteindre les quantités minimales d’achat imposées progressivement,
+et sur les vingt-cinq prochaines années, par l’article 6 du contrat. Dans cette mesure, il
+est très douteux que le droit de l’appelante de mettre fin au contrat en tout temps et sans
+juste motif, si tant est qu’il puisse être déduit du texte de l’article 26, correspondait
+à la volonté de l’intimée.
+Il faut en conclure que si l’article 26 avait le sens que lui prête l’appelante, il
+serait non seulement contraire à la loi, mais exorbitant par rapport à l’économie
+et au but d’un contrat de durée qui a exigé de nombreux investissements de la part de
+l’intimée, investissements qui devaient être amortis sur la durée.
+Certes, l’article 26 al. 2 prévoit un dédommagement de l’intimée à hauteur
+de 50 % de son chiffre d’affaires annuel. Mais, comme le souligne l’intimée, il ne s’agit
+que d’une indemnité de clientèle, dont elle conteste au demeurant la validité au
+regard de la jurisprudence du Tribunal fédéral rendue à propos de l’art. 418u CO
+et de l’art. 100 CO. En outre, l’article 27 du contrat – qui est le pendant de l’article
+26 -, prévoit une indemnité de clientèle due par l’intimée à l’appelante,
+dans l’hypothèse d’une résiliation immédiate de la part de l’intimée;
+or, une telle indemnité n’a pas de sens, dans la mesure où l’appelante n’a
+pas investi pour se créer une clientèle. Ces éléments permettent de douter que l’intimée
+ait eu la volonté, d’une part, de permettre à l’appelante de mettre fin au contrat
+en tout temps – pour n’importe quel motif – et, d’autre part, de renoncer à
+tout autre dédommagement que celui indiqué. Quoi qu’il en soit, cette question excède
+l’examen rapide et succinct qui doit être fait dans le cadre des mesures provisionnelles.
+Enfin, à l’appui de son argumentation selon laquelle les parties ont voulu pouvoir mettre
+fin avec effet immédiat au contrat, même de façon injustifiée, l’appelante
+produit un document intitulé « Projet de contrat pour une distribution exclusive ». L’article
+26 du projet de contrat diffère de l’article 26 figurant dans le contrat, en ce sens que l’indemnité
+de clientèle est la même, mais qu’elle est multipliée par la durée encore à
+courir du contrat. Ainsi, en résiliant le contrat en 2010, l’appelante aurait dû payer
+non seulement le 50 % du chiffre d’affaires annuel de l’intimée, mais 15 fois ce montant.
+Comme on l’a vu plus haut (cf. cons. IVe)aa)), pour déterminer la commune intention des parties,
+il est possible de prendre en compte les circonstances qui ont précédé la conclusion du
+contrat. Il est ainsi admissible de se fonder sur un projet de contrat pour savoir si, réellement,
+l’intimée a pu vouloir se livrer à l’arbitraire de son cocontractant aux conditions
+posées à l’article 26. En l’occurrence, toutefois, la réglementation finalement
+adoptée est beaucoup moins favorable que celle qui était projetée, en ce sens que l’indemnité
+de clientèle ne dépend plus de la durée du contrat encore à courir. Sur la base de
+ce seul document, et en l’absence de mesures d’instruction ayant porté sur la teneur
+des pourparlers contractuels tenus en 2001, il n’est pas possible d’en déduire quoi
+que ce soit, sinon que les parties ont discuté ce point ; en particulier, on ne voit pas pour quelle
+raison, et singulièrement en contrepartie de quoi, l’intimée a renoncé à une
+indemnité dépendant de la durée du contrat encore à courir.
+cc)
+Avec le premier juge, il faut en conclure qu’il n’est pas possible de déterminer avec
+sûreté la volonté effective des parties. Dans ces conditions, il faut déterminer
+comment celles-ci, lorsque leur accord s'est formé, pouvaient comprendre de bonne foi les clauses
+adoptées par elles, en fonction du contexte dans lequel elles ont traité. Ce qui a été
+dit plus haut sur la systématique, l’économie et le but du contrat peut être repris
+« mutatis mutandis ». La durée du contrat, les investissements consentis par l’intimée
+pour mettre en place le réseau de distribution, la formulation de l’article 26, et sa place
+dans le contrat ne pouvaient pas laisser penser à l’intimée que l’appelante se
+réservait la faculté d’y mettre valablement fin en tout temps, avec effet immédiat,
+et pour n’importe quel motif (fût-ce de convenance comme en l’occurrence). En conclusion,
+l’appelante n’a pas rendu vraisemblable qu’interprété objectivement, l’article
+26 du contrat avait le sens qu’elle lui prête.
+Au demeurant, vu le caractère exorbitant de cette clause, non seulement le contrat aurait dû
+prévoir clairement cette faculté, mais il aurait dû mentionner – au moins - que
+l’attention de l’intimée avait été attirée sur ce point et que c’est
+en toute connaissance de cause, et bien informée de ses droits, qu’elle l’acceptait.
+dd)
+En tout état de cause, à supposer même que les parties aient eu la commune intention de
+permettre à l’appelante de résilier unilatéralement sans juste motif, voire que
+l’intimée ait pu ou dû comprendre objectivement de bonne foi que tel était le sens
+de l’article 26, une telle clause contractuelle serait très vraisemblablement contraire au
+droit en vertu des principes rappelés plus haut, singulièrement au regard du fait que les parties
+ne peuvent prévoir un juste motif dépendant exclusivement de la volonté de celui qui résilie
+(cf. cons. IVc)). Il faut au surplus rappeler que la doctrine et la jurisprudence sont d’avis qu’une
+clause qui livre l’intéressé à l’arbitraire de son cocontractant, ou limite
+sa liberté économique de telle manière que les bases de son existence économique
+sont mises en danger est excessive au regard de l’art. 27 al. 2 CC (ATF 123 III 337 c. 5, rés.
+in JT 1999 I 180 ; ATF 114 II 159 c. 2a, JT 1989 I 2).
+Si l’article 26 ne prévoyait pas de contrepartie au droit de l’appelante de résilier
+le contrat en tout temps sans juste motif, son invalidité serait patente; l’indemnité
+de clientèle prévue suffit-elle pour considérer que l’intimée n’est pas
+livrée à l’arbitraire de sa cocontractante ? A première vue, il faut répondre
+à cette question par la négative : en effet, l’indemnité en cause n’empêche
+pas que l’appelante, pour n’importe quel motif, y compris le plus futile, et en tout temps,
+aurait le droit de mettre fin unilatéralement au contrat de durée qui lie les parties ; dans
+ces conditions, l’indemnité est de nature à atténuer les conséquences financières
+de la fin du contrat – sans les compenser toutes -, mais ne met pas fin à la dépendance
+totale dans laquelle l’intimée se trouve par rapport au bon vouloir de l’appelante.
+Certes, à supposer que l’article 26 ait le sens précité, l’article 27 conférerait
+la même faculté à l’intimée vis-à-vis de l’appelante. Autrement
+dit, dans cette hypothèse, l’intimée pourrait aussi mettre fin au contrat de manière
+anticipée sans juste motif. En l’occurrence, la réciprocité qui serait prévue
+à l’article 27 n’enlèverait rien au fait que l’article 26 serait selon toute
+vraisemblance contraire au droit, en particulier à l’art. 27 al. 2 CC.
+Dans ces circonstances, à supposer même que les parties aient eu la commune intention de permettre
+à l’appelante de résilier unilatéralement sans juste motif, voire que l’intimée
+ait pu ou dû comprendre objectivement de bonne foi que tel était le sens de l’article
+26, il faudrait considérer que, selon toute vraisemblance, cette clause ne lie pas l’intimée.
+Par voie de conséquence, il ne serait pas possible à l’appelante de s’en prévaloir
+à l’encontre de l’intimée. Dans cette hypothèse également, la résiliation
+serait sans effet.
+f)
+Au vu de ce qui précède, l’intimée rend vraisemblable que la résiliation litigieuse
+n’a pas déployé d’effet. C’est donc à bon droit qu’elle exige
+l’exécution du contrat, non seulement en demandant d’être approvisionnée (conclusion
+III), mais également en sollicitant le respect de l’exclusivité prévue par celui-ci,
+en ce sens que l’appelante ne puisse pas livrer les montres à des tiers (conclusion I et II);
+enfin, dans ces circonstances, elle établit aussi son droit à empêcher l’appelante
+de communiquer à des tiers que le contrat aurait pris fin (conclusion IV).
+V.
+a)
+Quant
+au dommage, le Tribunal fédéral a admis dans un arrêt de principe du 17 septembre 1999
+(ATF 125 III 451, JT 2000 I 163) que si l’inexécution d’un contrat de distribution devait
+se prolonger, l’autre partie est exposée à un dommage difficilement réparable, tenant
+notamment dans une perte de clientèle.
+Comme le relève un auteur (Venturi-Zen-Ruffinen, thèse, op. cit., nn. 1446 et 1447, pp. 403
+et 404) à la suite d'un autre (Vulliéty, op. cit., pp. 107 ss), si le distributeur ne peut
+plus servir sa clientèle, il perdra des parts de marché importantes et véhiculera une
+image négative, pouvant entraîner la désertion de certains clients ou de certains détaillants;
+un réseau de distribution interrompu est un réseau mort; enfin, l’indemnisation en lieu
+et place de l’exécution du contrat n’est pas apte à réparer le dommage; en
+particulier les parts de marché (perte de clientèle, de débouchés ou de détaillants)
+causeront au distributeur un préjudice difficilement réparable; en outre, ce dommage sera difficile
+à établir car il dépend de ce qu’aurait été le développement des
+affaires du distributeur sans la résiliation, et donc sans l’interruption de livraison.
+b)
+En l’espèce, l’appelante soutient que l’intimée n’encourt aucun préjudice
+qui ne puisse pas être compensé en argent. Cette thèse est infirmée par la jurisprudence
+et la doctrine précitées. Avec le premier juge, et pour les mêmes motifs, il faut considérer
+que, si le contrat n’était pas exécuté durant le procès au fond, l’intimée
+encourrait un dommage difficilement réparable, voire même que les bases de son existence économique
+seraient mises en danger.
+VI.
+a)
+Dans
+le cadre des mesures provisionnelles, le juge a l'obligation de peser les intérêts respectifs
+du requérant et de l'intimé, pour les trois catégories susmentionnées (cf. cons.
+IIIa), sans exception (ATF 131 III 473 c. 2.3, SJ 2005 I 517; TF, 4A_367/2008 c. 4.2; Hohl, op. cit.,
+n. 1843, p. 336). Dans les trois cas, le juge doit procéder à la mise en balance des intérêts
+contradictoires, c'est-à-dire à l'appréciation des désavantages respectifs pour le
+requérant et pour l'intimé, selon que la mesure requise est ordonnée ou refusée.
+L'examen du droit et la pesée des intérêts en présence ne s'excluent pas: le juge
+doit pondérer le droit présumé du requérant à la mesure avec les conséquences
+irréparables que celle-ci peut entraîner pour l'intimé (ATF 131 III 473 c. 2.3, SJ 2005
+I 517 et les références citées).
+b)
+L’appelante se contente d’affirmer que la pesée des intérêts en présence
+ne justifie pas de la contraindre à exécuter le contrat. Elle n’explique cependant pas
+en quoi l’exécution du contrat l’exposerait à un quelconque désavantage, ni
+a fortiori à un quelconque dommage au sens juridique qui, mis en balance avec l’intérêt
+de l’intimée, commanderait de ne pas octroyer les mesures provisionnelles; en particulier,
+elle ne fait pas valoir ni a fortiori ne rend vraisemblable qu’elle serait elle-même exposée
+à subir un dommage difficilement réparable du fait de cet octroi.
+En tout état de cause, l’octroi des mesures provisionnelles ne conduit pas à priver l’appelante
+de la possibilité de distribuer ses produits en Italie, mais simplement l’oblige à le
+faire par le biais de l’intimée, comme le prévoit le contrat qui les lie depuis une dizaine
+d’années. Dans la mesure où il n’est pas contesté que l’intimée
+a respecté ses obligations contractuelles et, en particulier, réalisé chaque année
+les chiffres d’affaires, respectivement les quantités minimales d’achat imposées
+par l’article 6 du contrat, il est vrai qu’il est difficile à l’appelante de soutenir
+que la poursuite du contrat lui est dommageable. A tout le moins, l’appelante aurait-elle pu amener
+des éléments susceptibles de rendre vraisemblable le montant du chiffre d’affaires réalisé
+par le réseau de distribution [...] dans un pays comparable à l’Italie et avec des produits
+similaires pour tenter d’établir, par comparaison, l’existence d’un éventuel
+manque à gagner dont elle pâtirait. Or, l’appelante n’a pas fait porter l’instruction
+sur ce point.
+Dans ces conditions, il faut en conclure que l’appelante ne rend pas vraisemblable que la poursuite
+du contrat ou la défense de communiquer à des tiers que le contrat a pris fin lui causent un
+désavantage significatif. En revanche, et par comparaison, on a vu que, pour l’intimée,
+l’absence d’octroi des mesures provisionnelles aurait des conséquences graves et irréversibles.
+La pesée des intérêts ne fait donc pas obstacle aux mesures requises mais, au contraire,
+les impose.
+VII.
+a)
+L’appelante
+fait grief au premier juge d’avoir dispensé l’intimée de la fourniture de sûretés.
+Elle admet n’en avoir elle-même pas requis devant lui, mais le fait maintenant expressément,
+à hauteur de cinq millions de francs. Elle invoque le fait que « le devoir d’exécuter
+le contrat litigieux entraînerait, sur la durée, un manque à gagner de plusieurs millions
+de francs suisses » et se réfère à l’arrêt du 17 septembre 1999 précité
+(ATF 125 III 451, JT 2000 I 163), où des sûretés à hauteur de deux millions et demi
+de francs avaient été ordonnées par les instances cantonales.
+L’intimée conclut à en être dispensée, pour le motif, en bref, qu’elle
+ne voit pas quel dommage l’appelante pourrait subir du fait qu’elle soit simplement contrainte
+à exécuter le contrat qui les lie, et auquel elle a essayé de mettre fin par pure convenance
+personnelle.
+b)
+Aux termes de l’art. 107 CPC-VD, la partie requérante fournit dépôt ou caution pour
+assurer les dommages-intérêts qui peuvent résulter des mesures provisionnelles ou préprovisionnelles
+(al. 1); suivant les circonstances, elle peut en être dispensée (al. 2). Le juge peut renoncer
+à prononcer des sûretés lorsqu'il estime que la probabilité que les mesures s'avèrent
+ultérieurement comme infondées est restreinte et, a fortiori, lorsqu'il considère les
+prétentions du requérant comme non seulement vraisemblables, mais prouvées (JICC, M. c.
+C. I. Sàrl, 14 décembre 2005, cons. VI, avec les références citées). L’arrêt
+du 17 septembre 1999 mentionne, il est vrai, qu’« au vu du fait que de telles mesures d’exécution
+aboutissent à la satisfaction anticipée du créancier, il convient d’exiger au moins
+que celles-ci aient un caractère provisoire, autrement dit que des sûretés soient fournies
+par le requérant afin que, dans l’hypothèse où il perdrait le procès au fond,
+l’indemnisation de l’intimée soit garantie ». Cet arrêt est cependant particulier
+à plusieurs titres : d’une part, l’examen s’est fait sous l’angle de l’art.
+24 de la Convention de Lugano (et de la jurisprudence y applicable), d’autre part, les mesures
+provisionnelles ont été rendues par un tribunal qui n’était pas compétent sur
+le fond. Enfin, quoi qu’il en soit, la question doit être résolue en fonction des circonstances
+de chaque cas particulier, et ne peut l’être de manière générale.
+c)
+En application de l’art. 107 CPC-VD, on doit ainsi faire un pronostic, d’une part, quant
+au risque que les mesures provisionnelles qu’elle prononce puissent être considérées
+dans un jugement au fond comme infondées et, d’autre part, quant au préjudice que l’appelante
+pourrait subir du fait de l’octroi des mesures provisionnelles. En l’espèce, au vu des
+considérants qui précèdent, les conditions – même plus strictes – posées
+à l’octroi des mesures provisionnelles tendant à l’exécution anticipée
+de la prétention au fond sont remplies. Il faut en déduire que la probabilité que les
+mesures s’avèrent ultérieurement infondées est restreinte. En outre, l’appelante
+se contente d’affirmer qu’elle encourt un préjudice de plusieurs millions de francs,
+mais n’amène pas le début d’un élément de preuve ni même des indices
+qui viendraient étayer cette affirmation.
+Dans ces conditions, c’est à bon droit que le premier juge a considéré que l’intimée
+pouvait être dispensée de la fourniture de sûretés.
+VIII.
+En définitive, l'appel formé le 26 juillet
+2010 par l'appelante F.________ SA doit être rejeté et l'ordonnance de mesures provisionnelles
+du 20 mai 2010 confirmée.
+Les frais de la procédure d'appel, par 10'000 fr., sont mis à la charge de l'appelante F.________
+SA (art. 4 al. 1, 170b al. 1 et 3 TFJC [Tarif du 4 décembre 1984 des frais judiciaires en matière
+civile]).
+L'intimée obtient entièrement gain de cause. Agissant par l'intermédiaire d'un mandataire
+professionnel, elle a droit à de pleins dépens de la procédure provisionnelle, qu'il se
+justifie d'arrêter à 8'400 fr., débours compris (art. 92 et 93 CPC-VD).
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos,
+prononce
+:
+I.
+L'appel formé le 26 juillet 2010 par l'appelante F.________ SA contre l'ordonnance de mesures provisionnelles
+du 20 mai 2010 est rejeté.
+II.
+L'ordonnance du 20 mai 2010 est confirmée.
+III.
+Les frais de la procédure d'appel sont arrêtés
+à 10'000 fr. (dix mille francs) pour l'appelante.
+IV.
+L'appelante versera à l'intimée K.________ le montant de 8'400 francs (huit mille quatre cents
+francs) à titre de dépens d'appel.
+V.
+L'arrêt est exécutoire à l'échéance du délai de motivation ou, en cas de
+demande de motivation, à réception des motifs.
+Le
+président :              La greffière :
+P.-Y.
+Bosshard              C. Maradan
+Du
+L'arrêt sur appel qui précède, dont le dispositif a été expédié pour
+notification communiqué aux parties le 2 décembre 2010, lu et approuvé à huis clos,
+est notifié, par l'envoi de photocopies, aux conseils des parties.
+Les parties peuvent recourir en nullité auprès du Tribunal cantonal dans les dix jours dès
+la notification du présent arrêt en déposant au greffe de la Cour civile un acte de recours
+en deux exemplaires désignant l'arrêt attaqué et contenant leurs conclusions.
+Le présent arrêt sur appel peut faire l'objet d'un recours en matière civile devant le
+Tribunal fédéral au sens des art. 72 ss LTF et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens
+des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF). L'art. 100 al.
+6 LTF est réservé.
+La greffière :
+C. Maradan
