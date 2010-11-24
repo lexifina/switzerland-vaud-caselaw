@@ -1,0 +1,134 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 6"
+decided: "2010-11-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2514626"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.20/art-069.md"]
+---
+
+# VD Findinfo Décision / 2011 / 6
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, AVANCE DE FRAIS, ASSURANCE-VIEILLESSE, SURVIVANTS ET INVALIDITÉ | 69 al. 1bis LAI, 47 al. 3 LPA-VD, 82 LPA-VD, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 24.11.2010 Décision / 2011 / 6
+
+DÉCISION D'IRRECEVABILITÉ, AVANCE DE FRAIS, ASSURANCE-VIEILLESSE, SURVIVANTS ET INVALIDITÉ | 69 al. 1bis LAI, 47 al. 3 LPA-VD, 82 LPA-VD, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+AI
+245/10 - 18/2011
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 24 novembre 2010
+__________________
+Présidence
+de               M.
+Abrecht
+,
+juge unique
+Greffière
+:              Mme
+Favre
+*****
+Cause
+pendante entre :
+L.________
+,
+à Lausanne, recourant,
+et
+Office
+de l'assurance-invalidité pour le canton de Vaud
+,
+à Vevey, intimé.
+_______________
+Art.
+69 al. 1bis LAI; art 47 al. 2 et 3; art. 94 al. 1 let. c LPA-VD
+Vu la décision rendue le 31 mai 2010 par l'Office de l'assurance-invalidité pour le canton
+de Vaud (ci-après: l'OAI), octroyant à L.________ (ci-après: l'assuré) une rente
+entière d’invalidité du 13 mai 2007 jusqu’au 31 décembre 2008 et une demi-rente
+d’invalidité à partir du 1
+er
+janvier 2009,
+vu le recours interjeté le 30 juin 2010 contre cette décision par l’assuré, qui
+conclut implicitement à sa réforme dans le sens de la reconnaissance de son droit à une
+rente entière d'invalidité au-delà du 31 décembre 2008,
+vu la lettre du 7 juillet 2010 par laquelle un délai au 1
+er
+septembre 2010 a été fixé au recourant pour effectuer une avance de frais de 400 fr.,
+vu la lettre du 11 octobre 2010 constatant que le recourant n'avait pas procédé à l'avance
+de frais requise et lui impartissant un délai au 1
+er
+novembre 2010 pour s'expliquer à cet égard;
+attendu qu'en dérogation à l'art. 61 LPGA (loi fédérale du 6 octobre 2000 sur la
+partie générale du droit des assurances sociales; RS 830.1), l'art. 69 al. 1bis LAI (loi
+fédérale du 19 juin 1959 sur l'assurance-invalidité; RS 831.20) prévoit que la procédure
+de recours en matière de contestations portant sur l'octroi ou le refus de prestations de l'assurance-invalidité
+devant le tribunal cantonal des assurances est soumise à des frais de justice,
+que dans ces procédures, le principe du paiement d'une avance de frais est prévu par l'art.
+47 al. 2 LPA-VD (loi cantonale du 28 octobre 2008 sur la procédure administrative; RSV 173.36),
+que l'autorité doit impartir un délai à la partie recourante pour fournir l'avance de
+frais et l'avertir qu'en cas de défaut de paiement dans le délai, elle n'entrera pas en matière
+sur le recours (art. 47 al. 3 LPA-VD),
+qu'en l'espèce, le recourant s'est vu impartir, par lettre du 7 juillet 2010, un délai au 1
+er
+septembre 2010 pour fournir une avance de frais de 400 fr.,
+que cette lettre mentionnait expressément que si l'avance n'était pas versée à temps,
+il ne serait pas entré en matière sur le recours,
+que cette lettre indiquait également que le délai de paiement pouvait être prolongé
+sur requête et que l'assistance judiciaire pouvait être sollicitée,
+que le recourant n'a pas procédé à l'avance de frais requise dans le délai fixé
+à cet effet,
+que, par lettre du 11 octobre 2010, un délai au 1
+er
+novembre 2010 lui a été imparti pour s'expliquer à cet égard,
+que le recourant n'a pas donné suite à cet envoi,
+qu'il n'a donc fourni aucune explication quant au défaut de paiement en temps utile de l'avance
+de frais sollicitée ni requis la restitution du délai pour effectuer cette avance,
+qu'il ne dit pas avoir sollicité, avant l'échéance du délai de paiement, l'octroi
+de l'assistance judiciaire,
+que, dans ces conditions, le recours doit être déclaré irrecevable, en application de
+l'art. 47 al. 3 LPA-VD,
+qu'il convient de le constater par décision sommairement motivée du juge instructeur statuant
+comme juge unique (art. 94 al. 1 let. c LPA-VD; TC CDAP, PE.2008.0319 du 4 août 2009), sans autre
+échange d'écritures ni mesures d'instruction (art. 82 LPA-VD, applicable par analogie en vertu
+de l'art. 99 LPA-VD);
+attendu que la présente décision doit être rendue sans frais ni dépens (art. 50,
+55, 91 et 99 LPA-VD);
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le recours est irrecevable.
+II.
+Il n'est pas perçu de frais judiciaires ni alloué de dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+M. L.________
+‑
+Office de l'assurance-invalidité pour le canton de Vaud
+-
+Office fédéral des assurances sociales
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
