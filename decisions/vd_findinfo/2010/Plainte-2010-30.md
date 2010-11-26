@@ -1,0 +1,259 @@
+---
+decision_id: "vd_findinfo_Plainte___2010___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2010 / 30"
+decided: "2010-11-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2430410"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-065.md"]
+---
+
+# VD Findinfo Plainte / 2010 / 30
+
+## Regeste
+
+OPPOSITION{LP}, RESTITUTION DU DÉLAI, EMPÊCHEMENT NON FAUTIF, HÉRITIER, REPRÉSENTANT DE LA COMMUNAUTÉ HÉRÉDITAIRE | 33 al. 4 LP, 65 al. 3 LP, 74 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 26.11.2010 Plainte / 2010 / 30
+
+OPPOSITION{LP}, RESTITUTION DU DÉLAI, EMPÊCHEMENT NON FAUTIF, HÉRITIER, REPRÉSENTANT DE LA COMMUNAUTÉ HÉRÉDITAIRE | 33 al. 4 LP, 65 al. 3 LP, 74 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+26 novembre 2010
+______________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+33 al. 4, 65 al. 3 et 74 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par la
+Succession
+M.________
+, quand vivait à Villeneuve, représentée
+par la communauté héréditaire formée par
+A.R.________
+,
+à Lausanne, et
+B.R.________
+,
+à Veytaux, contre la décision rendue le 22 juillet 2010, à la suite de l’audience
+du 1
+er
+juillet 2010, par le Président du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, rejetant la requête de restitution de délai et la plainte
+formées par la recourante le 17 mai 2010 dans la poursuite n° 5'333'537 de l'
+Office
+des poursuites du district d'Aigle
+, exercée
+contre elle à l'instance de la
+Z.________SA
+,
+à Vevey.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 11 mars 2010, sur réquisition de la Z.________SA, l'Office des poursuites du district d'Aigle
+(ci-après : l'office) a notifié à B.R.________ un commandement de payer dans la poursuite
+n° 5'333'537 dirigée contre la Succession M.________, représentée par la communauté
+héréditaire formée par B.R.________ et A.R.________.
+B.R.________ a formé opposition totale à cette poursuite par acte adressé en courrier
+recommandé à l'office le 24 mars 2010.
+Par lettre du 25 mars 2010, l'office a informé B.R.________ que son opposition était tardive
+et, partant, considérée comme nulle et non avenue, l'intéressée étant renvoyée
+à l'art. 33 al. 4 LP (loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1)
+pour faire valoir d'autres moyens.
+Il ressort de l'extrait des registres de l'Office des poursuites de La Riviera – Pays-d'Enhaut
+au 17 juin 2010 que B.R.________ avait, précédemment à la poursuite en cause, fait opposition
+à plusieurs commandements de payer notifiés à l'instance d'autres créanciers.
+Le 4 mai 2010, l'office a adressé à B.R.________ un avis l'informant qu'il serait procédé
+à la saisie le 18 mai 2010, dans la poursuite n° 5'333'537.
+Par acte déposé le lundi 17 mai 2010, B.R.________ et A.R.________ ont requis du Président
+du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de surveillance, la restitution
+du délai pour former opposition et, subsidiairement, ont déposé plainte contre l'avis
+de saisie du 4 mai 2010. Ils ont notamment fait valoir que B.R.________, au vu de son âge, n'avait
+plus sa capacité de discernement. Ils ont requis l'effet suspensif, qui a été accordé
+par prononcé présidentiel du 18 mai 2010.
+L'office s'est déterminé le 17 juin 2010, concluant au rejet de la requête et de la plainte.
+2.
+Par prononcé du 22 juillet 2010, l'autorité inférieure de surveillance a rejeté la
+requête de restitution de délai (I), rejeté la plainte (II), révoqué l'effet
+suspensif accordé (III) et mis les frais de la procédure de restitution de délai, par
+210 francs, à la charge de la Succession M.________ (IV). En bref, elle a considéré que
+l'instruction n'avait pas permis d'établir que B.R.________ n'aurait plus sa capacité de discernement,
+qu'on avait affaire en l'espèce à un oubli ou une inadvertance ne constituant pas un empêchement
+non fautif et qu'en outre, la requête de restitution de délai était tardive; quant à
+l'avis de saisie objet de la plainte subsidiaire, l'autorité inférieure a jugé qu'il était
+conforme aux réquisits légaux.
+3.
+A.R.________ et B.R.________, représentant la Succession M.________, ont recouru contre ce prononcé
+par acte du 30 juillet 2010, concluant implicitement à ce que la requête de restitution de
+délai soit admise.
+Par lettre du 13 août 2010, l'office s'est référé à ses déterminations
+en première instance et a déclaré les maintenir.
+Par lettre du 24 août 2010, la Z.________SA a renoncé à se déterminer et s'en est
+remise à justice sur le recours.
+En droit :
+I.
+a)
+Aux termes de l’art. 33 al. 4 LP, quiconque a été empêché sans sa faute d’agir
+dans le délai fixé peut demander à l’autorité de surveillance ou à l’autorité
+judiciaire compétente qu’elle lui restitue ce délai. En dehors des cas où une autorité
+judiciaire est déjà saisie, c’est l’autorité de surveillance qui est compétente
+pour statuer sur la restitution d’un délai (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 54 ad art. 33 LP; Erard, Commentaire romand, n. 26 ad
+art. 33 LP). Dans le canton de Vaud, il s'agit du président du tribunal d'arrondissement, autorité
+inférieure de surveillance (art. 15 al. 1 et 2 LVLP – loi vaudoise d’application de
+la loi fédérale sur la poursuite pour dettes et la faillite; RS 280.05), la Cour de céans,
+autorité supérieure de surveillance, étant compétente pour connaître du recours
+en réforme ouvert par l’art. 38 al. 2 let. a LVLP contre la décision de première
+instance. La procédure qui s'applique, qui n'est pas définie par l'art. 33 al. 4 LP, est celle
+des art. 17 ss LVLP en première instance et 28 ss LVLP en deuxième instance (JT 2003 II 64;
+CPF, 29 septembre 2006/28).
+b)
+En l’espèce, le recours a été déposé dans le délai de dix jours dès
+la notification de la décision attaquée, soit en temps utile (art. 28 al. 1 LVLP). D'emblée
+motivé (art. 28 al. 3 LVLP) et tendant à la réforme du prononcé attaqué, il
+est recevable.
+II.
+a)
+Objectivement, l'art. 33 al. 4 LP ne s'applique que si le délai à restituer est échu,
+ce qui implique qu'il a valablement couru (Gilliéron, op. cit., n. 37 ad art. 33 LP; Erard,
+op. cit., n. 18 ad art. 33 LP). Pour obtenir la restitution d'un délai, l'intéressé doit,
+à compter de la fin de l'empêchement, déposer une requête motivée, justifiant
+du caractère non fautif de l'empêchement invoqué, dans un délai égal au délai
+échu et accomplir simultanément auprès de l'autorité compétente l'acte juridique
+omis (art. 33 al. 4, 2
+ème
+phrase, LP).
+Pour qu'un empêchement soit non fautif, il faut une absence de toute faute quelconque. De manière
+générale, constituent un empêchement non fautif une incapacité passagère de
+discernement, un accident, une maladie subite et grave, le service militaire, un défaut de réception
+en temps utile, un renseignement erroné donné par l'autorité (Erard, op. cit., nn. 21
+et 22 ad art. 33 LP).
+En l'espèce, les recourants font valoir que B.R.________ est "une femme âgée de septante-huit
+ans, vulnérable, jamais informée des logiques économiques et légales" et qu'elle
+manque "non pas de discernement, mais tout simplement de connaissance des législations en vigueur",
+ce qui "ne lui permet pas de mesurer délais et autres temps d'opposition". Ils allèguent
+en outre qu'elle serait "significativement atteinte dans sa santé après un mois aux soins
+intensifs sans connaissance voici trois ans".
+Aucun de ces faits n'est établi, pas même l'âge exact de l'intéressée. Au demeurant,
+même si l'on admet qu'elle est relativement âgée, cela ne signifie pas encore que B.R.________
+soit incapable de discernement. Il ressort en outre de la liste des poursuites dirigées contre elle
+que l'intéressée a fait opposition à temps à plusieurs commandements de payer qui
+lui ont été notifiés en 2007, 2009 et 2010. Elle ne se trouve pas sous le coup d'une tutelle
+ou d'une curatelle et aucun autre élément ne vient démontrer qu'elle serait incapable
+de former opposition à temps à une poursuite.
+Sur ce point, le recours est mal fondé.
+b)
+Les
+recourants soutiennent que, même si B.R.________ avait bien le discernement au sens juridique du
+terme, l'intimée lui aurait volontairement adressé à elle plutôt qu'à A.R.________
+toutes ses lettres et poursuites concernant la Succession M.________ afin de profiter de sa vulnérabilité.
+Quant bien même une succession n'a pas la personnalité morale, elle peut être poursuivie
+en tant que telle, aussi longtemps qu'elle n'est pas partagée. Dans un tel cas, le commandement
+de payer doit être notifié au représentant désigné de la succession ou, s'il
+n'existe pas de représentant connu, à l'un des héritiers (art. 65 al. 3 LP). Il n'est
+pas allégué en l'espèce que la succession aurait un représentant désigné.
+Formellement, la notification du commandement de payer à l'un des cohéritiers était donc
+valable.
+Le Tribunal fédéral a considéré que le créancier qui, poursuivant une succession
+non partagée, désigne l'héritier auquel le commandement de payer doit être notifié
+en supposant qu'il ne fera pas opposition et en négligeant celui dont il est certain qu'il fera
+opposition, commet un abus de droit. Dans un tel cas, le délai de plainte contre la poursuite dont
+le commandement de payer a été notifié irrégulièrement [ou abusivement, ndlr]
+court de la notification du procès-verbal de saisie (ATF 107 III 7, JT 1983 II 35).
+Un tel abus de droit n'est pas démontré en l'espèce. Aucun élément du dossier
+ne permet de considérer que c'est à dessein que l'intimée aurait fait adresser le commandement
+de payer litigieux à B.R.________ dans l'intention de tirer avantage de "la fragilité
+et l'ignorance d'une personne âgée". Il n'est en particulier pas établi que l'intimée
+"joue l'usure", parce qu'elle aurait précédemment déjà fait notifier un
+commandement de payer concernant la même facture à B.R.________. Il n'est pas non plus établi
+qu'elle aurait précédemment fait notifier des poursuites concernant la succession à A.R.________
+et aurait de la sorte pu constater que celui-ci y formait opposition, ce qui l'aurait conduite par la
+suite à désigner B.R.________ comme l'héritière à qui les commandements de payer
+devaient être notifiés.
+On ne peut dès lors pas considérer que l'intimée aurait commis un abus de droit et que
+la poursuite serait irrégulière pour ce motif. Sur ce point également, le recours est
+mal fondé.
+c)
+Pour
+le surplus, les recourants ne soulèvent aucun grief contre l'avis de saisie du 4 mai 2010. C'est
+à juste titre que l'autorité inférieure a rejeté la plainte dirigée contre cet
+avis.
+d)
+Le recours doit toutefois être partiellement
+admis et le prononcé attaqué réformé sur la question des frais que l'autorité
+inférieure de surveillance a mis à la charge de la requérante dans la procédure en
+restitution de délai.
+Cette procédure, lorsqu'elle se déroule devant les autorités de surveillance, est soumise
+aux règles énoncées aux art. 17 ss LVLP en première instance et 28 ss LVLP en deuxième
+instance, qui concernent la procédure de plainte et le recours en matière de plainte (JT 2003
+II 64, précité; CPF, 29 septembre 2006/28, précité). On doit par conséquent
+considérer que l'art. 20a al. 2 ch. 5 LP est applicable et que la procédure est gratuite.
+III.
+Le recours doit ainsi être partiellement admis et le prononcé attaqué réformé
+en ce sens qu'il est rendu sans frais ni dépens.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS
+281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est partiellement admis.
+II.
+Le prononcé est réformé au chiffre IV de son dispositif en ce sens qu'il est rendu sans
+frais ni dépens.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+26 novembre 2010
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. A.R.________ (pour la Succession M.________ et Mme B.R.________),
+‑
+Z.________SA,
+‑
+M. le Préposé à l'Office des poursuites du district d'Aigle.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
