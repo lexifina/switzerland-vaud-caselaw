@@ -1,0 +1,401 @@
+---
+decision_id: "vd_findinfo_S_questre___2010___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2010 / 5"
+decided: "2010-12-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2578210"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2010 / 5
+
+## Regeste
+
+CAS DE SÉQUESTRE, AUTORISATION DE SÉQUESTRE, EXIGIBILITÉ | 271 al. 1 ch. 4 LP, 272 al. 1 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 09.12.2010 Séquestre / 2010 / 5
+
+CAS DE SÉQUESTRE, AUTORISATION DE SÉQUESTRE, EXIGIBILITÉ | 271 al. 1 ch. 4 LP, 272 al. 1 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+469
+Cour
+des poursuites et faillites
+________________________________________________
+Séance
+du 9 décembre 2010
+_______________________
+Présidence
+de               M.
+Muller
+,
+président
+Juges
+:              MM.
+Hack et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 4,  272 al. 1 et 278 al. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant en audience publique en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+T.________
+,
+à Yvorne, contre le prononcé rendu le 23 juillet 2010, à la suite de l’audience
+du 6 juillet 2010, par le Juge de paix du district de La Riviera – Pays-d'Enhaut, dans la cause
+divisant le recourant d'avec
+U.________
+,
+à Saint-Maurice.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 12 mai 2010, à la requête de T.________, le Juge de paix du district de La Riviera –
+Pays-d'Enhaut a scellé une ordonnance de séquestre portant sur les immeubles n
+os
+[...] du cadastre de la Commune de Vevey, propriété d'U.________, alors en Roumanie, pour une
+créance de 660'000 francs, plus intérêt à 10 % l'an dès le 20 juillet 2005,
+représentant des "contributions, impôts, frais et intérêts dus à la France".
+Le titre de la créance invoqué était "Protocole d'accord du 27 avril 2006" et
+le cas de séquestre celui de l'art. 271 al. 1 ch. 4 in fine LP (loi fédérale sur la poursuite
+pour dettes et la faillite; RS 281.1).
+b)
+A
+l'appui de sa requête de séquestre, T.________ avait produit, notamment, le "Protocole
+d'accord" signé par les parties le 27 avril 2006, U.________ agissant "tant à titre
+personnel qu'au nom et pour le compte de ses ayants droit dont il se porte-fort", dont la teneur
+était la suivante :
+"Il A
+ETE EXPOSE ET CONVENU CE QUI SUIT :
+Aux termes
+d'un arrêt rendu le 28 mars 2006, la Cour d'Appel d'AIX-EN-PROVENCE a confirmé l'ordonnance
+du Tribunal de Grande Instance de GRASSE en date du 20 juillet 2005 rectifiée le 24 août, condamnant
+solidairement Messieurs
+U.________
+et
+T.________
+à payer à la Recette des Impôts de CANNES en application de l'article L 267 du livre des
+procédures fiscales les sommes de 218 062,16 euros au titre de la SARL Q.________ les 222 819,47
+euros au titre de la SARL X.________.
+Monsieur
+U.________
+s'engage par les présentes à prendre en charges les condamnations pécuniaires solidaires
+prononcées par la juridiction française.
+ARTICLE
+1 – ACCORD
+Monsieur U.________
+s'engage à relever Monsieur
+T.________
+de toutes poursuites engagées par la Recette des Impôts, en application de l'arrêt du
+28 mars 2006.
+ARTICLE
+2 – GARANTIES
+Monsieur U.________
+a d'ores et déjà présenté des garanties hypothécaires à la Recette des
+Impôts et s'engage à régler la totalité des condamnations prononcées par la
+Cour d'Appel d'AIX-EN-PROVENCE, de manière à ce que Monsieur T.________ ne soit pas poursuivi
+par la Recette des Impôts.
+ARTICLE
+3
+Monsieur U.________,
+après paiement des sommes indiquées ci-dessus, s'engage à ne pas répéter contre
+Monsieur T.________ la part et portion de ce dernier.
+ARTICLE
+4
+En contrepartie
+de l'engagement de Monsieur U.________, Monsieur T.________ s'engage à apporter tout mettre en œuvre
+pour apporter son concours à Monsieur U.________, tant éventuellement sur le pourvoi en cassation
+envisagé par Monsieur U.________ à l'encontre de la décision de la Cour d'Appel d'AIX-EN-PROVENCE
+en date du 28 mars 2006, qu'en ce qui concerne l'action en responsabilité à l'encontre de Maître
+L.________.
+Monsieur T.________
+s'engage à introduire solidairement les mêmes procédures.
+ARTICLE
+5 – DROIT APPLICABLE
+Les parties
+conviennent expressément de soumettre cette transaction au droit Français.
+ARTICLE
+6 – ATTRIBUTION DE JURIDICTION
+Les parties
+conviennent expressément que toute contestation ou interprétation relative aux présentes
+et à leurs suites, seront de la compétence du Tribunal de Grande Instance de VALENCE.
+ARTICLE
+7
+Chacune des
+parties s'engage à exécuter de bonne foi et sans réserves la présente transaction,
+établie conformément aux dispositions des articles 2044 et suivants du Code Civil.
+Les parties
+reconnaissent en particulier avoir pris connaissance de l'article 2052 du Code Civil qui dispose "que
+les transactions ont entre les parties l'autorité de la chose usée en dernier ressort, elle
+ne peut être attaquée pour cause d'erreur de droit ni pour cause de lésion".
+Fait à
+St-Maurice
+[mention manuscrite]
+Le
+27 avril 2006
+[mention manuscrite]
+U.________
+T.________
+[signature]
+[signature]              "
+Le requérant avait également produit deux arrêts rendus par la Cour de cassation le 11
+mars 2008, rejetant les pourvois formés par les parties contre les arrêts de la Cour d'appel
+d'Aix-en-Provence du 28 mars 2006, concernant l'un la SARL Q.________ et l'autre la SARL X.________ (cf.
+préambule du protocole d'accord).
+c)
+U.________
+a formé opposition au séquestre par acte du 28 mai 2010. En substance, il a contesté l'existence
+d'un cas de séquestre et, en particulier, le fondement, le montant et l'exigibilité de la créance
+invoquée. Il a produit notamment une lettre que lui avait adressée le 26 mai 2010 un avocat
+niçois, dont la teneur, après un rappel du déroulement chronologique du contentieux fiscal,
+était la suivante :
+"Dès
+lors, à ce jour, vous restez tous les deux (i.e. U.________ et T.________, ndlr) solidairement redevables
+des sommes précitées [i.e. 218'000 euros pour la société Q.________ et 223'000 euros
+pour la société X.________ (montants arrondis), ndlr].
+Pour répondre
+à votre question, l'administration fiscale a effectivement suspendu le recouvrement des sommes dues
+en attendant l'issue de tout recours possible notamment ceux à l'encontre du liquidateur judiciaire,
+maître L.________, et du cabinet d'expertise comptable […], qui étaient alors les conseils
+des sociétés Q.________ et X.________.
+L'administration
+fiscale suspend l'exécution de l'arrêt pourtant exécutoire de la Cour d'Appel également
+parce qu'elle dispose de plusieurs saisies conservatoires signifiées par exploit d'huissier le 10
+novembre 2004.
+En effet, à
+cette date l'administration fiscale avait pris des garanties sur les parts détenues par Monsieur
+U.________
+dont
+[quatre SCI]…
+Fort de ces
+garanties, l'administration fiscale n'a pour le moment tenté aucune exécution forcée pour
+recouvrir sa créance.
+Je vous précise
+toutefois qu'afin d'éviter toute prescription en matière de recouvrement, l'administration
+fiscale française doit nécessairement signifier des commandements de payer ou des actes interruptifs
+de prescription entre les mains de Monsieur U.________ ou Monsieur T.________ […]".
+d)
+Convoquées par le Juge de paix du district de La Riviera – Pays-d'Enhaut à son audience
+du 6 juillet 2010, les deux parties ont comparu.
+Le conseil de T.________ a produit une lettre du Service des impôts des entreprises de Cannes-Ville
+du 10 juin 2010, lui confirmant que les montants étaient dus, que des intérêts de retard
+seraient calculés sur ces montants et qu’un prompt règlement était attendu.
+2.
+Par prononcé rendu
+le 23 juillet 2010, à la suite de l'audience précitée, le Juge de paix du district de
+La Riviera – Pays-d'Enhaut a admis l'opposition au séquestre, révoqué l'ordonnance
+de séquestre du 12 mai 2010 et arrêté à 990 fr. les frais de justice du requérant,
+à qui l'intimé devait verser la somme de 1'990 fr. à titre de dépens.
+Demandée en temps utile, la motivation de cette décision a été adressée pour
+notification aux parties le 2 août 2010. En bref, le premier juge a considéré que les
+pièces produites rendaient la créance vraisemblable, mais non son exigibilité, faute de
+poursuites entamées par le fisc français contre le requérant.
+3.
+Par acte d'emblée motivé du 10 août
+2010, T.________ a recouru contre ce prononcé, concluant, avec suite de frais et dépens, à
+sa réforme –nonobstant l'emploi du terme "annuler" – en ce sens que l'opposition
+au séquestre est rejetée et l'ordonnance de séquestre du 12 mai 2010 confirmée. Il
+n'a pas déposé de mémoire complémentaire.
+U.________ s'est déterminé le 13 octobre 2010, concluant, avec suite de frais et dépens,
+au rejet du recours. Il a produit quatre pièces nouvelles sous bordereau.
+En
+droit :
+I.
+a)
+Déposé en temps utile (art. 278 al.
+3 LP et 39a LVLP – loi vaudoise d'application de la LP; RSV 280.05) et comportant des conclusions
+en réforme valablement formulées (art. 58 al. 1 LVLP et 461 CPC – Code de procédure
+civile; RSV 270.11), le recours est recevable.
+b)
+Le recours contre la décision du juge statuant sur une opposition au séquestre est dévolutif
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 82 ad art. 278 LP). L'autorité de recours statue uniquement sous l'angle de la vraisemblance
+des conditions du séquestre (Reeb, Les mesures provisoires dans la procédure de poursuite,
+in RDS 1997 II 421, p. 482 et les auteurs cités à la note infrapaginale n. 393).
+Les parties peuvent alléguer des faits nouveaux (art. 278 al. 3 LP) pour autant qu'ils se soient
+produits postérieurement à la décision du juge sur l'opposition (art. 58 al. 8 LVLP).
+Compte tenu de cette disposition, la cour de céans admet la production de pièces nouvelles
+en deuxième instance si elles se rapportent à des faits qui se sont produits après le
+prononcé attaqué. S’il s’agit de pseudo-nova, les pièces nouvelles ne sont
+recevables que si celui qui les produit établit qu’il a été empêché sans
+sa faute de les produire plus tôt (CPF, 28 août 2008/378; CPF, 27 mai 2004/215; CPF, 28 novembre
+2002/481; CPF, 26 février 1998/101).
+Dans le cas d’espèce, la pièce relative au taux de change de l’euro en francs suisses
+le 7 octobre 2010 est recevable. Les autres pièces produites par l’intimé en deuxième
+instance visent à prouver qu’il est domicilié en Suisse ou du moins qu’il y habite.
+En tant qu’elles se rapportent à des nova, elles sont recevables, savoir, l'attestation du
+Contrôle des habitants de Saint-Maurice du 31 août 2010 et l'extrait du Registre du commerce
+du Bas-Valais du 6 septembre 2010, concernant une société anonyme dont l'intimé est inscrit
+comme président. En revanche, la convention de cession de parts d’une société roumaine
+du 25 juin 2010 est irrecevable, dès lors qu'elle porte sur un fait antérieur à l’audience
+du 6 juillet 2010 et que l'intimé n'établit ni même n'allègue avoir été
+sans sa faute empêché de la produire plus tôt.
+II.
+a)
+Selon l'art. 271 al. 1 ch. 4 LP, le créancier
+d'une prétention échue non garantie par gage peut requérir le séquestre des biens
+du débiteur lorsque le débiteur n'habite pas en Suisse, s'il n'y a pas d'autre cas de séquestre,
+pour autant que la créance ait un lien suffisant avec la Suisse ou qu'elle se fonde sur un jugement
+exécutoire ou sur une reconnaissance de dette au sens de l'art. 82 al. 1 LP. Le degré de preuve
+requis est celui de la vraisemblance. Le séquestre, mesure conservatoire urgente, doit être
+autorisé par le juge compétent, lorsque le créancier rend vraisemblable l'existence de
+la créance qu'il allègue et, dans le cas de l'art. 271 al. 1 ch. 4 LP, son exigibilité,
+la réalisation du cas de séquestre invoqué et l'existence de biens appartenant au débiteur
+(art. 272 al. 1 LP).
+b)
+Le
+recourant conteste le prononcé en ce qu’il considère que la créance n’est
+pas exigible.
+aa)
+En droit suisse, on entend par exigibilité, le moment auquel ou à partir duquel le créancier
+a le droit d’exiger la prestation du débiteur. Dès que la créance est exigible,
+le créancier peut prétendre à son exécution et librement choisir le moment de l’échéance
+(Tercier, Le droit des obligations, 4
+ème
+éd., Genève 2009, n° 1057). L'exigibilité résulte du droit matériel
+qui régit l'obligation (Gilliéron, op. cit., n. 21 ad art. 271 LP). En l’espèce,
+toutefois, les parties sont expressément convenues, à l'article 5 du protocole d’accord
+du 27 avril 2006, de soumettre leur transaction au droit français et, à l'article 7, elles
+se sont référées à deux dispositions du Code civil français. Elles ont ainsi
+valablement procédé à une élection de droit (art. 116 al. 1 et 2 LDIP – loi
+sur le droit international privé; RS 291). L’examen de l’exigibilité de l’engagement
+de l’intimé doit donc s’opérer sous l’angle du droit français.
+bb)
+Les engagements de l'intimé tels qu'ils sont formulés dans le protocole d'accord précité,
+consistent à  prendre en charge les condamnations pécuniaires solidaires prononcées
+par la juridiction française (préambule), à relever le recourant de toutes poursuites
+engagées par la Recette des impôts en application de l’arrêt de la Cour d’appel
+d'Aix-en-Provence du 28 mars 2006 (art. 1), à régler, après évocation des garanties
+constituées, la totalité des condamnations prononcées par la Cour d’Appel d’Aix-en-Provence,
+de manière à ce que le recourant ne soit pas poursuivi par la Recette des impôts (art.
+2) et, après paiement, à ne pas répéter contre le recourant la part et portion de
+ce dernier (art. 3).
+Ces engagements ne relèvent pas d’une promesse de porte-fort au sens de l’art. 1120
+CCF (Code civil français), dès lors qu’ils ne portent pas sur le fait d’un tiers.
+Il s’agit de l’engagement d’un débiteur solidaire d’acquitter l’entier
+de la dette solidaire et de libérer ainsi son codébiteur tant à l’égard du
+créancier que dans leurs rapports internes, la présomption légale posée à l’art.
+1213 CCF étant à l’inverse que l’obligation contractée solidairement envers
+le créancier se divise de plein droit entre les débiteurs, qui n’en sont tenus entre
+eux que chacun pour sa part et portion. Cette convention relative à la répartition qui exclut
+le recours du codébiteur qui a payé n’est pas illicite (Code civil, éd. Dalloz 2010,
+p. 1442, n° 3 ad art. 1214 CCF).
+cc)
+En ce qui concerne les poursuites en recouvrement de dettes d'impôt, elles sont engagées, selon
+l’art. 258 du Livre des procédures fiscales, après une vaine mise en demeure du comptable
+du Trésor ou de la Direction générale des impôts, dans les formes prévues par
+le nouveau code de procédure civile pour le recouvrement des créances, par huissier de justice
+ou par tout agent de l’administration habilité à exercer des poursuites au nom du comptable.
+En l’espèce, le stade des mises en demeure a été atteint, mais, à la teneur
+du dossier, les poursuites n’ont pas été engagées.
+dd)
+L’engagement de payer pris par l'intimé selon l'article 1 du protocole d'accord dépend
+du déclenchement de poursuites contre le recourant, que l'intimé s'engage à régler,
+le cas échéant, pour en dégager le recourant, alors que, selon l'article 2, il s'engage
+à payer les sommes auxquelles ils ont été solidairement condamnés pour éviter
+au recourant de faire l'objet de poursuites. Cela paraît contradictoire, mais, en réalité,
+les deux clauses ne se contredisent pas, elles se complètent. En effet, selon l’ordre et le
+titre respectif de ces deux articles, le paiement doit intervenir pour libérer le recourant si des
+poursuites sont engagées. C’est là l’engagement prioritaire, premier et principal
+de l'intimé, pris aux termes de l'article 1, au demeurant intitulé "Accord". L'article
+2, intitulé "Garanties", débute par l’affirmation que l'intimé a d’ores
+et déjà présenté des garanties hypothécaires au fisc français et se poursuit
+par l’engagement de régler la totalité des condamnations prononcées en appel pour
+éviter des poursuites au recourant. Cet engagement complète donc l’évocation des
+garanties hypothécaires et, implicitement, par référence à la totalité de la
+dette, traite de l’éventuelle insuffisance des garanties déjà constituées,
+l’intimé renouvelant à cet égard son engagement de libérer son codébiteur
+solidaire en payant le solde de la dette. Les parties ont donc envisagé un paiement principalement
+en cas d’ouverture de poursuites contre le recourant, mais aussi en cas d’insuffisance des
+garanties, sans attendre, dans cette seconde hypothèse, l’ouverture de poursuites contre le
+recourant.
+L’intimé soutient que la procédure de recouvrement du fisc français a été
+suspendue notamment en raison des garanties qu’il a fournies. Sa thèse peut s’appuyer
+sur le constat que des poursuites n'ont pas été engagées, plus de deux ans après
+les arrêts de la Cour de cassation confirmant les créances fiscales, qui ont été
+rendus le 11 mars 2008. Le Service des impôts des entreprises de Cannes-Ville, dans sa lettre du
+10 juin 2010 répondant au conseil du recourant, a confirmé que les montants étaient dus,
+qu’ils portaient intérêts de retard et qu’un prompt règlement était attendu,
+mais n'a évoqué ni poursuites ni suspension. Dans sa lettre du 26 mai 2010, l'avocat niçois
+de l'intimé lui a expressément indiqué que l’administration fiscale avait suspendu
+le recouvrement des sommes dues et n’avait tenté pour le moment aucune exécution forcée
+pour recouvrer sa créance, en attendant l’issue de tout recours possible notamment à
+l’encontre du liquidateur judiciaire et du cabinet d’expertise comptable qui étaient
+les conseils des sociétés débitrices, cette suspension résultant également des
+saisies conservatoires signifiées par exploit d’huissier le 10 novembre 2004 sur des parts
+détenues par l’intimé dans quatre SCI. Il précisait toutefois que pour éviter
+la prescription en matière de recouvrement, l’administration fiscale devrait nécessairement
+signifier aux codébiteurs solidaires des commandements de payer ou des actes interruptifs de prescription.
+Ainsi, dans cette situation de suspension de fait, on ignore si – et , le cas échéant,
+quand – le fisc va d’abord réaliser les parts de SCI saisies avant d’engager éventuellement
+d’autres poursuites, notamment contre le recourant.
+c)
+En définitive, on doit considérer que la créance du recourant n’est pas exigible
+pour deux motifs, premièrement parce que l’ouverture effective de poursuites contre lui n’est
+pas rendue vraisemblable et, deuxièmement, parce que l'insuffisance des garanties obtenues par le
+fisc n’est pas non plus établie.
+III.
+Le recours doit ainsi être rejeté et
+le prononcé confirmé. Vu le sort du recours, il n'est pas nécessaire d'examiner la question,
+soulevée par l'intimé, du lieu de domicile du débiteur au moment du séquestre.
+Les frais de deuxième instance du recourant sont arrêtés à 1'350 francs. Il doit
+en outre verser à l'intimé la somme de 2'000 fr. à titre de dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+en audience publique en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais de deuxième instance du recourant sont arrêtés à 1'350 fr. (mille trois
+cent cinquante francs).
+IV.
+Le recourant T.________ doit verser à l'intimé U.________ la somme de 2'000 fr. (deux mille
+francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt motivé est exécutoire.
+Le
+président :               La greffière
+:
+Du
+9 décembre 2010
+Le dispositif de l'arrêt qui précède est communiqué par écrit aux intéressés.
+La greffière :
+Du
+10 mars 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies à :
+‑
+Me Jean-Pierre Gross, avocat (pour T.________),
+‑
+Me Christophe Misteli, avocat (pour U.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 660'000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme le Juge de paix du district de La  Riviera – Pays-d'Enhaut .
+La greffière :
