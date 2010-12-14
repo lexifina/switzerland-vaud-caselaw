@@ -1,0 +1,230 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2011___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2011 / 1"
+decided: "2010-12-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2494491"
+cites_law: ["switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/734.7/art-014.md", "switzerland/bund/acts/734.7/art-022.md"]
+---
+
+# VD Findinfo Jug-inc / 2011 / 1
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE, PROCÉDURE ADMINISTRATIVE, DÉCISION PRÉJUDICIELLE | 123 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 14.12.2010 Jug-inc / 2011 / 1
+
+SUSPENSION DE LA PROCÉDURE, PROCÉDURE ADMINISTRATIVE, DÉCISION PRÉJUDICIELLE | 123 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+CO10.009159
+176/2010/JCL
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+K.________
+SA
+, à Morges, d'avec
+F.________
+SA
+, à Moudon.
+___________________________________________________________________
+Du
+14 décembre 2010
+__________________
+Présidence
+de               M.
+Colombini
+,
+juge instructeur
+Greffier
+:              M.
+Maytain
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu la demande déposée le 17 mars 2010
+devant la cour de céans par la demanderesse K.________ SA concluant à ce qu'il soit prononcé,
+avec suite de frais et dépens, que la défenderesse F.________ SA est reconnue sa débitrice
+et lui doit paiement immédiat de 354'855 fr. 25, avec intérêt à
+5
+% l'an dès l'échéance moyenne du 1
+er
+juillet 2009,
+vu la requête incidente déposée le 21 juin 2010 par la défenderesse et requérante
+au fond F.________ SA, dont les conclusions sont reproduites littéralement ci-dessous :
+"La procédure présente soit suspendue jusqu'à ce qu'il existe une décision exécutoire
+dans la procédure en cours concernant les tarifs applicables de K.________ SA pour l'année
+2009
+(qui à ce temps a lieu devant
+la Commission Fédérale de l'electricité ElCom);
+éventuellement soit accordé à la défenderesse un nouveau délai de
+30
+jours pour procéder sur la demande de la demanderesse du
+17
+mars 2010 et déposer sa réponse à la plainte;
+avec suite de frais et dépenses à imposer à la demanderesse."
+vu l'avis du 23 juin 2010, par lequel le juge instructeur a notifié la requête incidente à
+la demanderesse au fond et intimée K.________ SA et lui a imparti un délai dont l'échéance
+a finalement été reportée au
+5
+octobre 2010 pour faire la déclaration prévue par l'art. 148 CPC-VD (Code de procédure
+civile vaudois du 14 décembre 1966; RSV 270.11) ou indiquer les mesures d'instruction demandées,
+dit avis valant également interpellation au sens de l'art. 149 al. 4 CPC-VD pour toutes les parties,
+vu les déterminations du 5 octobre 2010 aux termes desquelles l'intimée s'est opposée
+aux conclusions de la requête incidente formée le 21 juin 2010,
+vu les mesures d'instruction requises par l'intimée dans cette écriture,
+vu la lettre du même jour accompagnant lesdites déterminations, dans laquelle l'intimée
+a déclaré qu'elle ne s'opposerait pas à ce qu'il soit statué sur l'incident sans
+audience,
+vu le mémoire incident produit par la requérante le 5 novembre 2010,
+vu le "mémoire incident complémentaire" adressé au juge de céans par l'intimée
+le 10 décembre 2010,
+vu les autres pièces au dossier,
+vu les art. 19, 123, 146 al. 1, 147 et 149 CPC-VD;
+attendu que la requête incidente en suspension de cause est instruite et jugée en la forme
+incidente (art. 123 al. 2 CPC-VD),
+que la présente requête satisfait aux réquisits des
+art.
+19 et 147 al. 1 CPC-VD,
+qu'elle est ainsi recevable à la forme;
+attendu qu'après interpellation des parties, le juge peut, même sans l'accord de celles-ci,
+remplacer l'audience par un échange d'écritures unique et à bref délai (art. 149
+al. 4 CPC-VD; Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+e
+éd., n. ad art. 149 CPC-VD);
+attendu qu'aux termes de l'art. 123 al. 1 CPC-VD, le juge peut suspendre l'instruction du procès
+pour un temps déterminé en cas de nécessité,
+qu'en particulier, la suspension se justifie lorsque le sort du procès peut dépendre de l'issue
+d'une autre procédure – civile, pénale ou administrative –, sans qu'il y ait pour
+autant litispendance, afin de parer au risque que des jugements même indirectement contradictoires
+soient rendus (Poudret/Haldy/Tappy, op. cit., n. 3 ad art. 123 CPC-VD);
+attendu qu'en l'espèce, l'intimée réclame à la requérante, à teneur de
+sa demande, le paiement de la contre-prestation pécuniaire due en échange de la fourniture
+d'électricité,
+que la requérante conteste le bien-fondé du tarif de l'électricité appliqué
+par l'intimée,
+que les prix retenus dans ce tarif sont censés couvrir, pour l'essentiel, les coûts induits
+par la production d'énergie, d'une part, et ceux générés par l'utilisation du réseau
+électrique, d'autre part (Weber/Mannhart, Neues Strompreisrecht Kontrollkriterien und Kontrollmethoden
+für Elektrizitätstarife sowie Netznutzungstarife und -entgelte,
+in
+Schweizerisches Zentralblatt für Staats- und Verwaltungsrecht 2008, pp. 453 ss, p. 457),
+que, s'agissant de ce second élément, la loi fédérale du 23 mars 2007 sur l'approvisionnement
+en électricité (LApEl; RS 734.7) prescrit que la rémunération pour l'utilisation
+du réseau ne doit pas dépasser la somme des coûts imputables et des redevances et prestations
+fournies à des collectivités publiques (art. 14 al. 1 LApEl),
+que la Commission fédérale de l'électricité (Elcom) est notamment compétente
+pour vérifier, à l'aune de ces principes, les tarifs et la rémunération pour l'utilisation
+du réseau électrique, ainsi que, plus généralement, les tarifs de l'électricité
+(art. 22 al. 2 LApEl);
+attendu que, le 31 mars 2009, la requérante a demandé à l'Elcom qu'elle ordonne une réduction
+du tarif pratiqué par l'intimée,
+qu'en soi, rien n'empêche le juge civil, s'il l'estime opportun, de trancher à titre préjudiciel
+des questions qui relèvent de l'ordre administratif, pour autant que l'autorité compétente
+ne se soit pas déjà prononcée (Hohl, Procédure civile, t. I, n
+o
+41 et les réf.),
+que, dans le cas d'espèce, l'Elcom, autorité composée d'experts en matière d'approvisionnement
+électrique, est à même de statuer rapidement sur le bien-fondé du tarif de l'intimée,
+alors que le juge civil devrait recourir à des expertises, ce qui impliquerait immanquablement un
+délai considérable,
+que, de ce point de vue, il pourrait apparaître opportun de surseoir à la procédure civile
+jusqu'à ce que l'autorité administrative se prononce;
+attendu toutefois que, suivant l'art. 123 CPC-VD, la suspension de la procédure est un acte grave
+et exceptionnel, exigeant la réalisation effective d'un état de nécessité dont il
+appartient au juge d'apprécier l'existence (JT 2002 III 186 c. 2; JT 1993 III 113 c. 3a; JT 1984
+III 11 c. 2a; Poudret/Haldy/Tappy, op. cit., n. 4 ad
+art.
+123 CPC-VD),
+que le magistrat doit, ce faisant, tenir compte du stade d'avancement des procédures parallèlement
+engagées,
+qu'il n'y a pas matière à suspension lorsque l'instance pendante devant le tribunal saisi de
+la requête de suspension n'est qu'à ses débuts, alors que l'instance se déroulant
+devant l'autre autorité saisie est déjà bien avancée, de sorte qu'il apparaît
+plus probable que le résultat de cette seconde procédure interviendra suffisamment tôt
+pour être introduit en procédure (CREC I 30 novembre 2009/602 c. 4b; CREC I 12 mars 2008/111
+c. 4a et les réf.),
+qu'en l'espèce, la requérante indique elle-même qu'une décision devrait être
+rendue par l'Elcom avant la fin de l'année 2010 (lettres de l'Elcom des 13 janvier et 18 juin 2010),
+que, certes, la procédure de contrôle des tarifs pour l'année 2009 de l'intimée a
+été suspendue jusqu'à désignation par les cantons de Vaud et du Valais des zones
+de desserte des gestionnaires de réseau opérant sur leur territoire respectif, mais au plus
+tard jusqu'à la fin du mois d'octobre 2010 (décision de l'Elcom du 27 août 2010),
+que cependant la requérante ne fait pas valoir que cette suspension serait de nature à retarder
+de beaucoup la décision administrative à intervenir,
+que dans la mesure où le premier échange d'écritures n'a même pas été mené
+à terme, la réponse n'étant pas encore déposée, la suspension n'apparaît
+pas indispensable à ce stade,
+qu'en effet, la décision administrative pourra, selon toute vraisemblance, être rendue suffisamment
+tôt pour être introduite en procédure,
+que cette dernière conclusion commande de rejeter la requête incidente,
+que, cela étant, point n'est besoin d'examiner si la suspension n'est pas nécessaire parce
+qu'une éventuelle réduction tarifaire interviendrait uniquement au moyen d'une compensation
+sur les exercices suivants, les tarifs publiés demeurant opposables au consommateur tant et aussi
+longtemps qu'ils n'ont pas été invalidés par l'autorité administrative, comme le
+plaide l'intimée,
+qu'aussi les mesures d'instruction requises par celle-ci aux fins d'établir le bien-fondé de
+ce dernier argument (interpellation de l'Elcom) s'avèrent-elles superflues,
+qu'elles ne seront donc pas ordonnées;
+attendu que la requérante supportera les frais de la procédure incidente, arrêtés
+à 900 francs (art. 4 al. 1, 5 al. 1 et 170a al. 1 TFJC [tarif du 4 décembre 1984 des frais
+judiciaires en matière civile; RSV 270.11.5];
+attendu qu'en procédure incidente, le juge statue sur les dépens comme dans le cadre d'un jugement
+au fond (art. 150 al. 2 CPC-VD),
+que, suivant l'art. 92 al. 1 CPC-VD, des dépens sont alloués à la partie qui obtient gain
+de cause,
+qu'ils comprennent principalement les frais de justice payés par la partie, les honoraires et les
+débours de son avocat (art. 91 let. a et c CPC-VD),
+que les honoraires d'avocat sont fixés selon le tarif du 17 juin 1986 des honoraires d'avocat dus
+à titre de dépens (TAv; RSV 177.11.3),
+que la requérante, qui succombe, versera à l'intimée la somme de 1'500 fr. à titre
+de dépens de l'incident (art. 2 al. 1 ch. 11 et 4 al. 2 TAv).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête incidente en suspension de cause déposée le 21 juin 2010 par la requérante
+F.________ SA est rejetée.
+II.
+Un nouveau délai au
+31
+janvier 2011
+est imparti à la requérante
+pour déposer sa réponse.
+III.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs) pour
+la requérante.
+IV.
+La requérante versera à l'intimée K.________ SA le montant de 1'500 fr. (mille cinq cents
+francs) à titre de dépens.
+Le
+juge instructeur :              Le greffier :
+J.-L.
+Colombini              J. Maytain
+Du
+Le jugement qui précède, dont le dispositif a été expédié pour notification
+le 24 décembre 2010, lu et approuvé à huis clos, est notifié, par l'envoi de photocopies,
+aux conseils des parties.
+Les parties peuvent recourir auprès du Tribunal cantonal dans les dix jours dès la notification
+du présent jugement en déposant au greffe de la Cour civile un acte de recours en deux exemplaires
+désignant le jugement attaqué et contenant leurs conclusions en réforme, éventuellement
+en nullité, ou à défaut, indiquant sur quels points le jugement est attaqué et quelle
+est la modification demandée.
+Le greffier :
+J. Maytain
