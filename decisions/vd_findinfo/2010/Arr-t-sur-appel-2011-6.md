@@ -1,0 +1,877 @@
+---
+decision_id: "vd_findinfo_Arr_t-sur-appel___2011___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Arrêt-sur-appel / 2011 / 6"
+decided: "2010-12-16"
+published: "2011-06-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2797621"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-075.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-112.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# VD Findinfo Arrêt-sur-appel / 2011 / 6
+
+## Regeste
+
+GARANTIE BANCAIRE, CAS DE GARANTIE{GARANTIE BANCAIRE}, ENTREPRENEUR GÉNÉRAL | 18 al. 1 CO, 112 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 10.06.2011 Arrêt-sur-appel / 2011 / 6
+
+GARANTIE BANCAIRE, CAS DE GARANTIE{GARANTIE BANCAIRE}, ENTREPRENEUR GÉNÉRAL | 18 al. 1 CO, 112 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+CM10.036658
+80/2011/PBH
+COUR
+CIVILE
+_________________
+Arrêt
+sur appel dans la cause divisant
+A.________
+SA
+, à Yverdon-les-Bains, d'avec la
+M.________
+,
+à Lausanne.
+___________________________________________________________________
+Audience
+du 10 juin 2011
+____________________
+Présidence
+de               M.
+Hack
+,
+vice-président
+Juges
+:              M.
+Bosshard et Mme Byrde
+Greffier
+:              M.
+Intignano
+*****
+Statuant immédiatement à huis clos, la Cour civile considère :
+En fait :
+A.
+Par ordonnance du 16 décembre 2010, rendue à la suite d’une audience tenue le 3 décembre
+2010, le Juge instructeur de la Cour civile a rejeté la requête de mesures provisionnelles
+déposée le 9 novembre 2010 par la requérante A.________ SA contre l’intimée
+M.________ (I), révoqué en conséquence, dès l’ordonnance devenue définitive,
+l’ordonnance de mesures préprovisionnelles du 9 novembre 2010 (II), arrêté les frais
+de la procédure provisionnelle à 5'080 fr. (III), condamné la requérante à verser
+à l’intimée le montant de 2'500 fr. à titre de dépens de la procédure
+provisionnelle  (IV) et déclaré l’ordonnance immédiatement exécutoire,
+à l’exception de son chiffre II qui le deviendrait dès que l’ordonnance serait
+définitive (V).
+La requérante a requis la motivation de cette ordonnance par lettre de son conseil du 22 décembre
+2010.
+Les motifs de l’ordonnance ont ainsi été adressés pour notification aux parties
+le 13 janvier 2011 et reçus par elles le lendemain 14 janvier 2011.
+Le 24 janvier 2011, la requérante A.________ SA a formé un appel contre cette ordonnance concluant,
+avec suite de frais et dépens de procédure provisionnelle et d’appel, à l’admission
+de l’appel (I) et à la réforme de l’ordonnance de mesures provisionnelles en ce
+sens qu’interdiction est faite, sous la menace des peines d’amende prévue à l’art.
+292 du Code pénal suisse en cas d’insoumission à une injonction de l’autorité,
+à la Banque Z.________, [...], de donner suite à la requête émanant de M.________,
+représentée par [...], datée du 5 novembre 2010 et tendant au versement de la garantie
+référencée n° [...].1 ou de donner suite à toute requête similaire et qu’ordre
+est donné de bloquer cette garantie jusqu’à droit connu sur la procédure provisionnelle
+ou la procédure au fond (II).
+L'intimée à l’appel a déposé un mémoire responsif le 27 mai 2011, accompagné
+d’un onglet de six pièces sous bordereau, dont certaines sont postérieures à la
+décision du premier juge. Elle conclut, avec suite de dépens, au rejet de l’appel.
+B.
+L’ordonnance entreprise contient en substance les faits suivants :
+1.
+L'appelante et requérante aux mesures provisionnelles A.________ SA est une société anonyme
+de droit privé dont le but est "entreprise générale de construction".
+L'intimée à l'appel et intimée aux mesures provisionnelles M.________ est propriétaire
+des immeubles sis [...], à Lausanne
+2.
+Le 27 juillet 2010, l'intimée, représentée par la société I.________ SA, a conclu
+un contrat d'entreprise avec la société P.________ SA, dont le but inscrit au registre du commerce
+est "toute entreprise de construction et ouvrage de maçonnerie et de travaux publics".
+Ce contrat a pour objet la rénovation des immeubles précités pour un montant de 1'668'635 fr. 40
+(montant de l'adjudication net TTC). Il prévoit notamment la clause suivante:
+"
+7.
+CONDITIONS DE PAIEMENT
+[…]
+7.2.
+A la signature du contrat, l'entreprise produira une garantie de bonne fin de travaux d'un montant égal
+à 10% du montant du contrat, sous forme de garantie bancaire."
+3.
+Le 23 septembre 2010, la requérante a donné mandat à la Banque Z.________ d'émettre
+une garantie bancaire, d'un montant de 166'865 fr., pour le compte de la société P.________
+SA en faveur de l'intimée.
+Le mandat précise que la garantie bancaire est irrévocable et indépendante et que "[l]a
+banque effectuera son paiement à première réquisition sans faire valoir d'exception ou
+d'objection résultant du rapport juridique de base, dès que le bénéficiaire lui aura
+signifié par écrit ne pas avoir reçu les prestations couvertes par la garantie bancaire,
+soit la bonne fin des travaux de CFC 211.5 et 211.6 – béton armé et maçonnerie,
+dans le cadre de la transformation des immeubles sis [...] à [...] Lausanne, selon contrat d'entreprise
+no 02".
+4.
+Le 27 septembre 2010, la Banque Z.________ a émis une garantie bancaire libellée en ces termes:
+"
+GARANTIE
+BANCAIRE N° [...].1
+Pour
+compte de
+P.________
+SA
+[...]
+Case postale [...]
+[...]
+la
+Banque Z.________
+,
+[...] (ci-après: [...]) accorde une garantie bancaire indépendante et irrévocable à
+M.________
+Représentée
+par [...]
+[...]
+[...]
+[...]
+[...] LAUSANNE
+(ci-après le bénéficiaire)
+concernant
+la bonne fin des travaux de CFC 211.5 et 211.6 – Béton armé et maçonnerie, dans
+le cadre de la transformation des immeubles au chemin [...], [...]Lausanne, selon contrat d'entreprise
+n°02.
+La
+Banque Z.________ prend l'engagement ferme de payer au bénéficiaire tout montant jusqu'à
+concurrence de
+CHF*166
+865.00*
+(cent soixante six mille
+huit cent soixante cinq francs suisses)
+La
+Banque Z.________ effectuera son paiement à première réquisition sans faire valoir d'exception
+ou d'objection résultant du rapport juridique de base, dès que le bénéficiaire lui
+aura signifié par écrit que P.________ SA n'a pas rempli ses obligations contractuelles.
+[…]
+Cette
+garantie est valable jusqu'au 31 octobre 2012 et s'éteindra automatiquement et entièrement
+si la demande de paiement écrite du bénéficiaire […] n'est pas en possession de
+la Banque Z.________ d'ici cette date au plus tard, indépendamment du fait qu'il s'agisse d'un jour
+ouvrable ou non.
+[…]"
+Entendues par le premier juge à l'audience du 3 décembre 2010, les parties n'ont pas contesté
+la validité de cette garantie et ont admis qu'elle avait été constituée en exécution
+du contrat d'entreprise du 27 juillet 2010 conclu entre l'intimée et la société P.________
+SA.
+5.a)
+Dans un courrier du 21
+octobre 2010, la requérante a écrit ce qui suit à l'architecte F.________, de la société
+I.________ SA:
+"[…]
+Transformation
+Immeubles – [...] Lausanne
+Cher
+Monsieur,
+Suite
+à notre entrevue du mardi 19 octobre 2010 dans vos bureaux, dans le cadre du dépôt de
+bilan de l'entreprise P.________ SA, nous vous confirmons notre intérêt à la reprise du
+chantier en cours susmentionné aux conditions discutées, soit la reprise du contrat n°
+02 avec un rabais de 3% au lieu de 7% et un escompte de 2%.
+Nous
+vous transmettrons, au début de semaine prochaine, les situations métrées arrêtées
+au 22 octobre 2010. Les travaux seront stoppés la semaine du 25 au 29 octobre 2010. En cas d'accord
+de votre part, nous nous tenons à votre disposition pour reprendre les travaux dès le 1
+er
+novembre 2010.
+De
+plus, nous vous confirmons qu'A.________ SA, sous son entière responsabilité, a chargé
+la Banque Z.________ d'émettre une garantie bancaire d'un montant de CHF 166'865.- pour le compte
+de P.________ SA. Vous trouverez, en annexe à la présente, une copie de ce document.
+Par
+ailleurs, nous sommes désolés des désagréments causés par la faillite de notre
+confrère et vous assurons que nous mettrons tout en oeuvre, si vous reteniez la solution que nous
+vous proposons, pour conduire et terminer votre ouvrage à votre entière satisfaction. […]
+Copie:
+N.________
+S.________
+B.________"
+Entendu en qualité de témoin par le premier juge, D.________, directeur de la requérante,
+a déclaré que lors de l'entrevue du 19 octobre 2010, il avait fait, au nom de la requérante,
+une offre orale de reprise du chantier de la société P.________ SA à F.________. Ce dernier
+lui a demandé de confirmer son offre par écrit, ce qui a été fait par le courrier
+du 21 octobre 2010 précité. A la suite de la réception de ce dernier, F.________ a indiqué,
+le 22 octobre 2010, à la requérante de faire son offre écrite directement auprès
+de T.________. Le témoin a précisé avoir envoyé une copie du courrier précité
+à T.________ – dont le responsable est N.________ – en même temps que l'original
+à F.________. Entendue à l'audience du 3 décembre 2010, l'intimée a affirmé
+que T.________ avait reçu ce courrier le 28 octobre 2010.
+b)
+Le 22 octobre 2010, le
+consortium G.________ SA – H.________ SA a écrit ce qui suit à N.________:
+"[…]
+Immeubles
+locatifs chemin [...] – [...] Lausanne
+Monsieur,
+Suite
+à l'entretien téléphonique avec votre mandataire du jeudi 21 octobre 2010 pour l'ouvrage
+précité, nous avons l'avantage de vous communiquer notre position sur la reprise du chantier,
+qui fait suite à la défaillance de l'entreprise adjudicatrice.
+1.
+Au vu d'une intervention "rapide" soit,
+dès le 1
+er
+novembre 2010, nous avons décidé de nous associer avec l'entreprise H.________ SA.
+Par
+ce biais, nous serons en mesure de mettre le personnel qualifié et l'inventaire nécessaires
+dans un bref délai, et vous assurer une parfaite compétence professionnelle.
+2.
+Le marché se fera selon les particularités
+du dossier de soumission, rendu en date du 2 septembre 2009 par l'entreprise G.________ SA.
+3.
+Un état des lieux à la date de reprise
+devra être effectué contradictoirement, et accepté par toutes les parties.
+Etant
+donné la promptitude des événements, nous vous prions de nous contacter dans les meilleurs
+délais pour finaliser toutes les modalités.
+[…]"
+6.
+Le 25 octobre 2010, T.________ a écrit ce qui suit à la société P.________ SA:
+"
+Concerne:
+Rénovation immeubles sis ch. [...]
+Messieurs,
+Dans
+le cadre du chantier cité sous rubrique, nous nous référons à notre séance du
+19 octobre 2010 à 16h00 en présence de Messieurs D.________, directeur de la société
+A.________ SA, F.________, architecte, S.________, ingénieur civil, ainsi que le soussigné
+de droite [réd.: N.________], en qualité de représentant du maître de l'ouvrage M.________.
+Lors
+de cette entrevue, nous avons pris connaissance de la situation économique précaire de la société
+P.________ SA et le fait que cette dernière allait prochainement déposer son bilan.
+Cette
+situation va engendrer pour le maître de l'ouvrage d'importants dommages dus au non-respect des
+engagements pris selon contrat d'entreprise signé entre parties le 25 juillet 2010, contrat ici
+censé retranscrit dans son entier.
+La
+future faillite de la société P.________ SA va entraîner la rupture des relations contractuelles.
+Fondé
+sur ce qui précède, le maître de l'ouvrage M.________ va subir des dommages et inconvénients
+liés à cette situation, […].
+Pour
+le surplus, M.________ émet les plus expresses réserves quant à la qualité des travaux
+effectués jusqu'à ce jour.
+A
+cet effet, le maître de l'ouvrage rappelle que diverses malfaçons ont d'ores et déjà
+été constatées par l'architecte, notamment au niveau des travaux de démontage des
+rails des volets coulissants contre les façades.
+Fondée
+sur ce qui précède, M.________ invoque d'ores et déjà la compensation par rapport
+aux factures actuelles et futures en relation aux prestations exécutées par votre société
+et ce à concurrence de son dommage dont le montant doit encore être déterminé.
+Elle
+ne procédera dès lors pas au règlement d'un quelconque montant, ce jusqu'à droit
+connu sur l'ensemble de son dommage, ce dont je vous remercie de prendre acte.
+Pour
+le surplus, nous intervenons, selon courrier annexé, auprès de la Banque Z.________.
+[…]"
+Le même jour, B.________, agent d'affaires mandaté par la société P.________
+SA, a adressé un courrier aux clients et fournisseurs de celle-ci, libellé en ces termes:
+"[…]
+Je
+vous informe que je suis consulté par P.________ SA, entreprise de construction et ouvrage de maçonnerie
+et de travaux publics, dont le siège est situé [...].
+Ma
+cliente, comme vous le savez peut-être, est aujourd'hui confrontée à une situation financière
+qu'elle se trouve dans l'impossibilité de surmonter, au point de se résoudre à cesser
+toute activité d'ici à fin courant.
+Il
+ressort des éléments en ma possession que la voie de l'ajournement de la déclaration de
+faillite serait vouée à l'échec, au même titre qu'une requête de sursis concordataire
+auprès de l'autorité judiciaire compétente.
+L'avis
+obligatoire au Juge de la faillite s'impose en raison de l'état de surendettement, respectivement
+le manque cruel de trésorerie, qui rend illusoire la continuation du travail.
+C'est
+pourquoi ma mandante m'a donné pour instructions d'adresser une requête au Président du
+Tribunal d'arrondissement de [...], en vue de faire prononcer la faillite sans poursuite préalable
+de P.________ SA, conformément aux dispositions légales en la matière.
+Je
+tenais à vous informer de cette issue, au nom de la Direction, aussi regrettable qu'inéluctable.
+[…]"
+7.
+Le 27 octobre 2010, la société P.________ SA a déposé une requête en dépôt
+de bilan, dont il ressort notamment qu'elle "n'a pas d'autres choix que de cesser toute activité
+d'ici à fin courant au plus tard".
+Le même jour, N.________ a envoyé un courriel à la société G.________ SA, dont
+la teneur est la suivante:
+"[…]
+Pour
+faire suite à votre courrier du 22 octobre dernier relatif aux travaux cités en titre et conformément
+à notre entretien téléphonique de ce jour, j'ai le plaisir de vous confirmer que le consortium
+d'entreprises G.________ SA – H.________ SA a été retenu pour reprendre les travaux de
+maçonnerie et BA.
+S'agissant
+de l'aspect contractuel et pour toutes les autres questions inhérentes à l'organisation des
+travaux futurs et à l'état des lieux des travaux réalisés, vous recevrez toutes les
+instructions de Monsieur F.________, architecte en charge des travaux.
+[…]"
+8.
+Le 29 octobre 2010, le conseil de la requérante a adressé le courrier suivant à l'architecte
+F.________:
+"[…]
+Je
+porte à votre connaissance être le conseil d'A.________ SA, laquelle a délivré, en
+date du 23 septembre 2010, une garantie bancaire d'un montant de fr. 166'865.--, pour le compte de P.________
+SA.
+Ma
+mandante vous a adressé un courrier daté du 21 octobre 2010, mais il m'est nécessaire
+de préciser les points suivants:
+1.-
+Par contrat daté du 27 juillet 2010, le maître de l'ouvrage, M.________ a adjugé les travaux
+de béton armé et de maçonnerie à P.________ SA, pour un montant total de fr. 1'668'635,40.
+2.-
+Sollicitée à ce titre, A.________ SA a délivré, en date du 23 septembre 2010,
+une garantie bancaire de bonne exécution, d'un montant de fr. 166'865.--.
+3.-
+Vous avez été informé du dépôt de bilan de P.________ SA.
+Afin
+d'éviter la fin du chantier précité, ma mandante vous a, en date du 21 octobre 2010, proposé
+de reprendre le chantier aux conditions discutées, sous réserve d'un rabais de 3% au lieu de
+7% et d'un escompte de 2%.
+4.-
+Ma mandante a proposé à cet égard de reprendre les travaux dès le 1
+er
+novembre 2010.
+Pour un motif qui n'a pas trait directement au contrat ou à son exécution mais sur lequel on
+se réserve de revenir, vous avez indiqué verbalement à ma mandante que vous alliez contracter
+avec un tiers, à d'autres conditions, moins intéressantes pour le maître d'ouvrage que
+celles négociées avec P.________ SA ou proposées par A.________ SA.
+5.-
+P.________ SA accepte la reprise du chantier par A.________ SA.
+_________
+Au
+vu de ce qui précède, je vous informe que ma mandante précise sa correspondance du 21
+octobre 2010, en ce sens qu'elle reprend le chantier aux mêmes conditions que celles résultant
+du contrat d'entreprise passé entre M.________ et P.________ SA, en date du 27 juillet 2010. Il
+n'y aura dès lors aucun dommage pour le propriétaire du fait de la faillite de P.________ SA.
+Dès
+lors, je mets votre mandante en demeure de me confirmer, d'ici au 2 novembre 2010, que le maître
+d'ouvrage accepte la substitution de l'entrepreneur telle que proposée.
+A
+ce défaut, la garantie délivrée par ma mandante deviendra totalement caduque.
+[…]"
+Le 2 novembre 2010, l'intimée a accusé réception de la copie du précédent courrier
+et a demandé une prolongation au 10 novembre 2010 du délai imparti.
+Le même jour, T.________ a informé le consortium G.________ SA – H.________ SA de l'éventuelle
+rétraction de son engagement d'adjudication. Le consortium lui a répondu qu'il s'y opposait.
+9.
+A l'audience du 3 décembre 2010, l'intimée a déclaré avoir fait un premier appel
+à la garantie le 3 novembre 2010, mais que la Banque Z.________ avait refusé d'y donner suite,
+considérant cet appel comme étant non conforme aux modalités prévues par la garantie.
+Le 5 novembre 2010, T.________ a procédé à un second appel à la garantie par un courrier
+recommandé adressé à la Banque Z.________, dont on retient ce qui suit:
+"
+Concerne:
+Garantie bancaire no [...].1 – M.________ c/ P.________ SA
+Madame,
+Monsieur,
+Nous
+nous référons à notre courrier recommandé du 25 octobre dernier et, en application
+des termes de la garantie citée en titre, nous sollicitons, en qualité de représentant
+de M.________, le versement du montant de ladite garantie de CHF 166'865.- sur le compte de gestion que
+nous avons dans votre établissement, à savoir:
+compte de gestion no [...].9
+En
+effet, en vertu des points 1 et 2 qui suivent, nous attestons que la société P.________ SA
+n'a pas rempli ses obligations contractuelles relatives aux travaux de CFC 211.5 et 211.6 – Béton
+armé et maçonnerie, dans le cadre de la transformation des immeubles au chemin [...], [...]
+Lausanne, selon contrat d'entreprise no 02 signé entre cette société et M.________ le
+27 juillet 2010.
+1.
+Les travaux sont stoppés depuis le 21 octobre 2010 et par conséquent l'ensemble des dommages
+subis par le maître de l'ouvrage, dont il est fait mention dans notre correspondance adressée
+à P.________ SA le 25 octobre 2010 et qui vous a été adressée en copie le même
+jour, sont avérés.
+2.
+Un courrier adressé par Monsieur B.________, agent d'affaires, en date du 25 octobre 2010,
+dont une copie est jointe à la présente, annonce la faillite de la société P.________
+SA.
+[…]"
+10.a)
+Le 9 novembre 2010, T.________ a informé le conseil de la requérante qu'elle avait décidé
+d'adjuger la continuation du chantier à une autre personne que la requérante. A l'audience
+devant le premier juge, l'intimée a expliqué que la société G.________ SA connaissait
+le chantier, ayant fait une offre lors de la procédure de soumission initiale, alors que tel n'était
+pas le cas de la requérante. N.________ a déclaré qu'il ignorait alors que Beat Holzer
+avait été directeur ad intérim de la société P.________ SA.
+b)
+Par requête de mesures
+d'extrême urgence et provisionnelles du 9 novembre 2010, la requérante a pris contre l'intimée
+M.________, avec suite de frais et dépens, les conclusions suivantes:
+"I.-
+Interdiction
+est faite, sous la menace des peines d'amende prévue à l'article 292 du Code pénal suisse
+en cas d'insoumission à une injonction de l'autorité, à la Banque Z.________, de donner
+suite à la requête émanant de M.________, représentée par [...], datée
+du 5 novembre 2010 et tendant au versement de la garantie référencée no [...].1 ou
+de donner suite à toute requête similaire.
+II.-
+Le
+blocage de cette garantie est ordonné jusqu'à droit connu sur la procédure provisionnelle
+ou la procédure au fond."
+Par ordonnance de mesures préprovisionnelles du même jour, le juge instructeur a admis la conclusion
+I de cette requête et rejeté toutes autres ou plus amples conclusions, déclarant l'ordonnance
+immédiatement exécutoire et en vigueur jusqu'à droit connu sur le sort des mesures provisionnelles.
+11.
+Le 10 novembre 2010, la Banque Z.________ a écrit ce qui suit à l'intimée:
+"[…]
+Nous
+accusons réception de votre demande de paiement datée du 5 novembre 2010, reçue le
+8.11.2010 à nos bureaux, effectuée sous notre engagement cité en rubrique, pour le montant
+intégral de notre engagement, soit CHF 166 865.00.
+Dans
+ce cadre, nous vous informons que le juge instructeur de la Cour civile du Tribunal cantonal du canton
+de Vaud nous a notifié, au moyen d'une ordonnance de mesures préprovisionnelles reçue
+hier 9 novembre 2010, l'interdiction de tout paiement lié à notre garantie bancaire n°
+[...].1 susmentionnée. Compte tenu de cette interdiction, nous ne sommes donc pas en mesure d'honorer
+notre engagement. Vous trouverez ci-joint copie de ce document.
+En
+revanche, nous vous informons des points suivants:
+1.              votre demande de paiement
+du 05.11.2010 est pleinement conforme aux termes de notre engagement cité en rubrique;
+2.              notre engagement reste
+en vigueur jusqu'à ce que cette interdiction soit définitivement levée.
+[…]"
+12.
+Par décision du 11 novembre 2010, le Tribunal de l'arrondissement [...] a déclaré la faillite
+de la société P.________ SA avec effet au 11 novembre 2010, à 10h15.
+Par courrier du même jour, F.________ a écrit ce qui suit à la société P.________
+SA:
+"[…]
+Par
+la présente, je souhaite apporter un certain nombre d'informations suite au dépôt de bilan
+de votre entreprise.
+Monsieur
+D.________ nous informe le 19 octobre 2010 que l'entreprise P.________ SA va déposer le bilan et
+que les ouvriers en seront informés le 21 octobre 2010 à 07.00 h. Monsieur D.________ transmettra
+au MO une proposition pour la reprise des travaux.
+Le
+21 octobre 2010 présence sur le chantier du contremaître et de 2 ouvriers, tous les intérimaires
+sont absents (7 personnes sur 10). Toutes les machines sont évacuées du chantier, les travaux
+sont entièrement stoppés depuis le 20 octobre 2010 au soir.
+Le
+22 octobre 2010, le contremaître balaie le chantier.
+Le
+25 octobre 2010, une série de métrés ont été faits avec Monsieur U.________,
+votre technicien.
+Le
+27 octobre 2010, Monsieur U.________ nous remet pour vérification les métrés de la situation
+N°01 et N°02 pour la Maçonnerie et la situation N°01 pour Béton Armé.
+Le
+29 octobre 2010, nous avons rencontré Monsieur U.________ qui nous donne les informations suivantes:
+il reste sur place la clôture de chantier [...] (façade Nord, façade Ouest et façade
+Sud), la cabane du contremaître, la cabane des ouvriers, la cabane des outillages, le silo Maxit,
+évacué le 01 novembre 2010, quelques panneaux de coffrage, quelques étais pour les
+dalles des vérandas et au sous-sol de la col. 42, une cabine WC chimique louée à [...],
+des aciers pour les nouvelles dalles des vérandas. D'après Monsieur U.________, tout le matériel
+et tout votre outillage ont été rapatriés dans votre dépôt.
+Nous
+avons remis à Monsieur U.________ pour contrôle et vérification la facture N°[...]2
+du 27 octobre 2010 de [...] SA, sous-traitant des aciers, pour un montant TTC selon [...] SA de 4'287.15fr.
+(selon addition: 4'187.15 fr.).
+Le
+01 novembre 2010, Monsieur U.________ nous informe qu'il ne participera pas à la séance de
+vérification des métrés fixée au 02 novembre 2010. Il nous donne un N° de fax
+pour envoi des modifications à faire.
+De
+ce qui précède, et au nom du MO, nous portons à votre connaissance que cet arrêt
+brutal des travaux implique toute une série d'importants dommages non imputables au MO et qui vous
+seront facturés.
+[…]"
+13.
+A l'audience du 3 décembre 2010, l'intimée a conclu, avec dépens, au rejet de la requête
+de mesures provisionnelles.
+14.
+Appliquant les règles relatives aux garanties bancaires, le premier juge a considéré en
+substance que tant la légitimation active de l’appelante que la légitimation passive
+de l’intimée n’étaient pas vraisemblables et qu’il apparaissait douteux que
+l’appelante soit fondée à obtenir des mesures provisionnelles contre la banque sans que
+celle-ci ne soit partie à la procédure. En outre, analysant la garantie comme une garantie
+à première demande "simple", le premier juge a estimé que l’inexécution
+des obligations de la société P.________ SA n’était pas une condition à laquelle
+était soumise cette garantie, de sorte qu’il importait peu que l’ouvrage ait été
+livré ou non. Enfin, l’abus de droit flagrant n’était pas non plus démontré,
+l’appelante n’ayant pas rendu vraisemblable que l’intimée chercherait à utiliser
+le montant de la garantie à une autre fin que la couverture du risque lié à l’absence
+de bonne fin des travaux confiés à la société P.________ SA, ni que la banque aurait
+considéré ou dû considérer qu’il était manifeste que l’appel de
+l’intimée était abusif.
+C.
+La cour de céans complète l'état de fait de l'ordonnance entreprise de la manière
+suivante :
+1.
+Le contrat d'entreprise conclu le 27 juillet 2010 entre l'intimée et P.________ SA prévoit
+la clause suivante:
+"
+7
+.
+Conditions de paiement
+7.1
+(...)
+Les
+situations et factures sont payées:
+-
+Situations estimatives
+payables à 80%.
+-
+Situations selon métrés
+payables à 90%, avec métrés annexés à la facture.
+-
+Solde de compte
+payable à 90% jusqu'à ce que les travaux de retouches soient entièrement exécutés
+selon le procès-verbal de la réception définitive des travaux.
+payable à 100% contre
+remise de garantie bancaire représentant le 10% du montant de la facture finale, valable 24 mois
+à partir de la date de réception des travaux de retouches exécutés
+(...)"
+2.
+A l'audience de ce jour, la cour de céans a entendu comme témoin F.________, administrateur
+de la société I.________ SA, mandatée par la M.________ pour le chantier du chemin [...].
+Le témoin a expliqué être l'auteur du tableau récapitulatif des surcoûts subis
+par l'intimée à la suite de la faillite de P.________ SA et a confirmé les chiffres qui
+y figurent, tout en précisant que ses estimations ne pouvaient pas être définitives vu
+l'importance du chantier – qu'il a chiffré à 11 millions de francs – car d'autres
+dommages pourraient surgir à l'avenir.
+Sur la question de la garantie bancaire, le témoin a déclaré qu'il avait proposé
+à l'intimée d'en exiger une de l'entrepreneur; il a expliqué que sa longue pratique sur
+de gros chantiers lui a appris à demander une telle garantie systématiquement à la conclusion
+du contrat. Selon le témoin, cette garantie avait pour objet de garantir au maître de l'ouvrage
+que l'entrepreneur allait terminer le chantier, et non de garantir la bonne façon des travaux effectués,
+une garantie de ce type-ci n'étant exigée qu'à la fin des travaux.
+Le témoin a ajouté que, puisque la situation financière de P.________ SA le préoccupait,
+il a pris contact le 19 octobre 2010 avec D.________, de la société A.________ SA, pour trouver
+un entrepreneur prêt à continuer et terminer les travaux. Lors de cet entretien, D.________
+a expliqué au témoin vouloir reprendre le chantier, mais qu'il ne pouvait pas s'aligner sur
+les prix très bas offerts par P.________ SA. Le témoin a d'ailleurs reçu confirmation
+de cette position le 21 octobre 2010. Il s'est alors adressé à la société G.________
+SA, qui était la deuxième, en termes de prix, parmi les sociétés ayant répondu
+à la soumission de  l'intimée. Les travaux ont été adjugés à cette
+entreprise le 27 octobre 2010. Ce n'est que le 28 octobre 2010 que la société A.________ SA
+a fait parvenir à l'intimée une nouvelle offre à la baisse, s'alignant sur les prix initialement
+proposés par P.________ SA. Ce témoin a ainsi confirmé la teneur des courriers d'G.________
+SA du 22 octobre 2010 et de T.________ du 25 octobre 2010. Ses déclarations concordent en outre
+avec celles du témoin D.________, entendu par le premier juge.
+En droit :
+I.
+L’appel a été formé en temps utile, dans le délai de dix jours dès la
+notification de l’ordonnance querellée (art. 112 al. 1 CPC-VD), étant précisé
+que l’appel formé contre une ordonnance de mesures provisionnelles dont le dispositif a été
+rendu en 2010 doit être traité selon l’ancien droit de procédure civile (art. 405
+al. 1 CPC; TF 4A_106/2011 du 31 mars 2011 destiné à la publication, JT 2011 II 226, RSJ 2011
+p. 261).
+Les pièces nouvelles produites par l’intimée avec ses déterminations du 27 mai 2011
+sont irrecevables dans la mesure où elles tendent à établir des faits postérieurs
+à cette ordonnance non prévisibles de manière certaine ou quasi certaine (CCiv 6 mai 2011/62;
+CREC II 12 septembre 2007/128; Tappy, Quelques aspects de la procédure de mesures provisionnelles,
+spécialement en matière matrimoniale, in JT 1994 III 33, pp. 59-60); celles qui sont antérieures
+à la décision du premier juge sont en revanche recevables.
+II.
+L'appelante tend à ce qu'interdiction soit faite à la Banque Z.________ de donner suite à
+un ordre de libération de la garantie émanant de l'intimée. Comme le premier juge, on
+peut dès lors se demander si la banque n'aurait pas également dû être partie à
+la présente procédure, en tant qu'intimée ou cointimée.
+En matière de garantie bancaire ou d’accréditif en particulier, la doctrine et la jurisprudence
+paraissent admettre que l’on puisse demander au juge qu’il soit fait interdiction à
+la banque en tant que tiers de payer la somme d’unaccréditif, les seuls parties au procès
+étant le donneur d’ordre et le bénéficiaire (de Gottrau, Garantie bancaire II, FJS
+1349, pp. 26-27; de Gottrau, Le crédit documentaire et la fraude, thèse Genève 1999, pp.
+395-396; SJ 1985 p. 609 c. 9b; SJ 1983 p. 25 c. 1b et les références citées). Il
+est en effet communément admis que le juge des mesures provisionnelles puisse donner des ordres
+à des tiers auprès desquels se trouve l'objet du litige, et notamment au mandataire de l'une
+des parties en cause (de Gottrau, FJS 1349, op. cit., p. 26; Dohm, Mesures conservatoires dans le cadre
+des garanties bancaires "à première demande", SAS 54 (1982), p. 68). Cependant, cette
+construction présuppose l’existence d’un rapport de valeur – ou contractuel de
+base – entre le donneur d’ordre et le bénéficiaire (de Gottrau, FJS 1349, op. cit.,
+p. 26; de Gottrau, thèse, op. cit., p. 395).
+Or, en l’espèce, il n’y a pas de rapport de valeur entre l’appelante et l’intimée,
+l’appelante s’étant engagée à fournir la garantie bancaire pour un tiers,
+P.________ SA. Ainsi, comme l’a vu le premier juge, l’admissibilité de mesures provisionnelles
+dirigées par le donneur d’ordre contre le seul bénéficiaire, mais visant la banque,
+paraît douteuse, alors même que l’appelante aurait parfaitement pu diriger ses mesures
+contre la banque (de Gottrau, FJS 1349, op. cit., pp. 28 ss.; de Gottrau, thèse, op. cit., pp. 398
+ss).
+Vu ce qui va suivre, il n’est toutefois pas nécessaire de trancher cette question.
+III.a)
+Selon la doctrine, la nature même du contrat de garantie en fait une institution juridique complexe
+d’un maniement extrêmement difficile. Du moment qu’il s’agit de garantir l’exécution
+de l’obligation d’un tiers que la banque connaît forcément mal, il se pose la question
+de savoir s’il y a véritablement inexécution. En outre, et c’est là la question
+fondamentale en matière de garantie bancaire, il s’agit de déterminer à quelles
+conditions exactement le client qui a demandé à sa banque l’ouverture d’une garantie
+en faveur de son cocontractant désire que la banque s’exécute. Enfin, il n’est
+pas indifférent de savoir ce qu’a compris et désire le bénéficiaire de la garantie
+au moment de l’ouverture de celle-ci. A ces difficultés déjà nombreuses, il convient
+d’ajouter qu’au moment où un client demande l’ouverture d’une garantie bancaire,
+il désire conclure une affaire et que l’existence de cette garantie bancaire est souvent la
+condition mise par le bénéficiaire pour la conclusion du contrat. Le client sera donc amené,
+en vue de conclure l’affaire, à accepter de faire ouvrir une garantie à première
+demande qui l’expose à la voir être appelée sans qu’une inexécution puisse
+lui être imputée dans la relation de valeur (Guggenheim, Les contrats de la pratique bancaire
+suisse, 4
+ème
+éd., p. 331; Rapp, Garanties à première demande et autres garanties bancaires,
+in
+CEDIDAC n° 33, Sûretés et garanties bancaires, pp. 260 ss).
+D’un point de vue fonctionnel ou, autrement dit, selon leurs modes de mise en œuvre ou de
+réalisation, soit la manière dont le bénéficiaire peut obtenir le paiement de la
+somme garantie, les garanties bancaires peuvent être soit à première demande, soit documentaires,
+appelées aussi conditionnelles. Lorsqu’une garantie bancaire à première demande
+("garantie de bonne exécution" ou "garantie de bonne fin"; "Leistungsgarantie"
+ou "Lieferungsgarantie de bonne fin"; "performance guarantee" ou "performance
+bond") a été délivrée, le garant doit honorer son engagement, sans égard
+à un éventuel litige relatif au contrat de base, aussitôt après l’appel du
+bénéficiaire. La simple déclaration du bénéficiaire suffit pour que le garant
+ait à payer l’intégralité de la somme prévue. Une garantie à première
+demande peut contenir une clause d’effectivité (Effektivklausel), soit une clause indiquant
+par exemple que le paiement interviendra à première demande lorsque le dommage se produit,
+la question du degré de preuve de ce dommage étant discuté en doctrine. A la différence
+de la garantie à première demande, la garantie documentaire ou conditionnelle ne peut être
+mise en œuvre que par la présentation par le bénéficiaire d’un ou de plusieurs
+documents mentionnés dans le contrat de garantie, comme par exemple une attestation du bénéficiaire
+selon laquelle l’exportateur n’a pas correctement exécuté les obligations lui incombant
+d’après le contrat de base, des certificats émis par des tiers indépendants dans
+lesquels le dommage subi par le bénéficiaire ou la réalisation des autres conditions auxquelles
+est liée la mise en œuvre de la garantie est constaté, ou enfin, la production d’une
+décision d’un tribunal ou d’une instance arbitrale. Si les documents prévus ne
+sont pas présentés, la garantie n’est pas payée (ATF 119 II 132, SJ 1993 p. 492
+c. 5a, rés.
+in
+JT 1994 I 320 et les références citées; Rapp, op. cit., pp. 277 ss).
+Outre cette distinction fondée sur le mode de mise en œuvre de la garantie, la doctrine distingue
+également différents types de garanties bancaires en fonction de l'objet qu'elles garantissent.
+Ainsi, par exemple, la garantie de bonne exécution est destinée à assurer l'acheteur contre
+une prestation non conforme au contrat de base conclu avec le vendeur, que cette prestation soit défectueuse,
+tardive ou inexécutée. Le terme de "garantie de bonne exécution" couvrirait
+ainsi plusieurs types d'objets, telles les garanties d'exécution ou de bonne fin. Alors que la première
+garantirait le bénéficiaire contre le risque d'inexécution par le donneur d'ordre de son
+obligation de faire, la seconde couvrirait le risque de défaut de la chose (de Gottrau, FJS 1348,
+Garantie bancaire I, pp. 11-12 et les références citées à la note infrapaginale n° 55;
+cf. également les modèles présentés
+in
+CEDIDAC n° 33, op. cit., pp. 375-378,
+pp. 392-394 et pp. 457-459). La doctrine précise que la garantie de bonne fin ne servirait en réalité
+qu'à compléter la garantie de bonne exécution, afin d'assurer l'absence de défauts
+de la chose lors de la livraison et la suppression de ces défauts dans un certain délai. Plusieurs
+auteurs considèrent ainsi que la garantie de bonne fin serait une sous-catégorie de la garantie
+de bonne exécution (Dohm, Les garanties bancaires dans le commerce international, Berne 1986, pp.
+36-37 et les références citées à la note infrapaginale n° 7; Logoz, La
+protection de l'exportateur face à l'appel abusif à une garantie bancaire, thèse Lausanne
+1991, p. 34, et les références citées aux notes infrapaginales n° 49, 51 et
+52; Rapp, op. cit., p. 275).
+b)
+En l'espèce, l’appelante soutient essentiellement que l’intimée ne pouvait faire
+appel à la garantie donnée, pour le motif que la garantie serait intitulée "de bonne
+fin" et qu’on ne pourrait ainsi y faire appel qu’une fois l’ouvrage achevé
+et livré, afin de garantir les défauts cachés. L'intimée fait en revanche valoir
+que la garantie bancaire "de bonne fin" visait à lui assurer que l'entrepreneur achèverait
+les travaux commencés. A défaut, la garantie devait ainsi couvrir le dommage résultant
+de l'arrêt des travaux, pour quelque raison que ce soit. Elle soutient en outre qu'une autre garantie,
+à fournir lors de l'achèvement des travaux et prévue par le contrat, couvrait les défauts
+cachés.
+Ainsi, les parties sont divisées au sujet de la portée de la garantie litigieuse et celle-ci
+ne permet pas, de prime abord, de résoudre cette difficulté, de sorte qu'il convient d'en interpréter
+le contenu à la lumière des règles relatives à l'interprétation des contrats.
+IV.a)
+En présence d’un litige relatif à l’interprétation d'un contrat, le juge doit
+tout d’abord s’efforcer de déterminer la commune et réelle intention des parties,
+sans s’arrêter aux expressions ou dénominations inexactes dont elles ont pu se servir,
+soit par erreur, soit pour déguiser la nature véritable de la convention (art. 18 al. 1 CO).
+Si la volonté réelle des parties ne peut pas être établie ou si les volontés
+intimes divergent, le juge doit interpréter les déclarations et les comportements selon le
+principe de la confiance, en recherchant comment une déclaration ou une attitude pouvait être
+comprise de bonne foi en fonction de l’ensemble des circonstances. Le principe de la confiance
+permet d’imputer à une partie le sens objectif de sa déclaration ou de son comportement,
+même si celui-ci ne correspond pas à sa volonté intime (TF 4A_272/2010 du 30 juillet 2010
+c. 3.1; ATF 133 III 675 c. 3.3, JT 2008 I 508 et les références citées; Tercier, Le droit
+des obligations, 4
+ème
+éd., nn. 193 ss, pp. 57-58).
+Pour interpréter un contrat selon le principe de la confiance, un texte clair prévaudra en
+principe, dans le processus d’interprétation, contre les autres moyens d’interprétation.
+Toutefois, il ressort de l’art. 18 al. 1 CO que le sens d’un texte, même clair, n’est
+pas forcément déterminant et que l’interprétation purement littérale est au
+contraire prohibée. En effet, même si la teneur d’une clause contractuelle paraît
+claire à première vue, il peut résulter d’autres conditions du contrat, du but poursuivi
+par les parties ou d’autres circonstances que le texte de la clause litigieuse ne restitue pas
+exactement le sens de l’accord conclu. Il n’y a cependant pas lieu de s’écarter
+du sens littéral du texte adopté par les cocontractants lorsqu’il n’y a aucune
+raison de penser que celui-ci ne correspond pas à leur volonté (ATF 136 III 186 c. 3.2.1; ATF
+4A_272/2010 du 30 juillet 2010 précité c. 3.; ATF 135 III 295 c. 5.2, JT 2009 I 396).
+b)
+En l'espèce, la garantie bancaire délivrée à l’intimée le 27 septembre
+2010 est une garantie bancaire à première demande, comme le mentionne les termes d’après
+lesquels la Banque Z.________ effectuera son paiement à première réquisition sans faire
+valoir d’exception ou d’objection résultant du rapport juridique de base, dès que
+le bénéficiaire lui aura signifié par écrit que P.________ SA n’a pas rempli
+ses obligations contractuelles. Ainsi, la simple déclaration du bénéficiaire, soit en
+l’espèce l’intimée, suffisait pour que le garant, soit la banque, doive honorer
+son engagement, sans égard à un éventuel litige relatif au contrat de base, aussitôt
+après l’appel du bénéficiaire. Du reste, c’est ce que la banque a reconnu
+dans sa lettre du 10 novembre 2010 qui mentionnait que la demande de paiement du 5 novembre 2010 était
+pleinement conforme aux termes de son engagement.
+En ce qui concerne le type de garantie dont il s'agit, la garantie bancaire du 27 septembre 2010 est
+accordée, de manière indépendante et irrévocable, à l'intimée concernant
+"la bonne fin des travaux" des immeubles sis au chemin [...]. La banque s'est engagée
+à effectuer son paiement "dès que le bénéficiaire lui aura signifié par
+écrit que P.________ SA n'a pas rempli ses obligations". On comprend ainsi que la "bonne
+fin des travaux" correspond au fait pour P.________ SA de remplir ses obligations contractuelles,
+parmi lesquelles figurent évidemment une obligation d'exécution du contrat ainsi qu'une obligation
+de bonne facture.
+On doit encore examiner, toutefois, si la volonté réelle des parties différait du sens
+littéral du texte de la garantie.
+Il ressort du point 7.1 contrat d'entreprise du 27 juillet 2010 que le maître de l'ouvrage s'engage
+à payer, en cours de chantier, les situations estimatives à hauteur de 80% et les situations
+selon métrés à hauteur de 90%. En ce qui concerne le solde de compte en revanche, soit
+à la fin du chantier, le contrat prévoit que le maître de l'ouvrage doit s'acquitter du
+100% du solde de compte uniquement "contre la remise d'une garantie bancaire représentant le
+10% du montant de la facture finale, valable 24 mois à partir de la date de réception des travaux
+de retouches exécutés", faute de quoi il ne doit s'acquitter que du 90% du solde de compte.
+Ce même contrat prévoit, à son chiffre 7.2, qu'une garantie de bonne fin des travaux,
+celle litigieuse, d'un montant égal à 10% du montant du contrat doit être fournie à
+la conclusion du contrat sous forme de garantie bancaire.
+Le contrat d'entreprise signé le 27 juillet 2010 prévoit donc un système de garantie en
+deux temps. Une première garantie bancaire, intitulée "de bonne fin", à fournir
+à la conclusion du contrat
+,
+puis une seconde garantie bancaire, sans nom particulier, représentant le 10%
+de
+la facture finale
+et
+valable
+24 mois à partir de la date de réception des travaux de retouches exécutés
+.
+Il apparaît ainsi que la seconde garantie doit être fournie
+après
+l'établissement de la facture finale, soit à la fin des travaux. Son texte est clair: elle
+garantit les défauts qui pourraient survenir dans les deux ans après la fin des travaux. Par
+conséquent, la première garantie, fournie à la conclusion du contrat, ne peut tendre qu'à
+garantir l'achèvement des travaux. Puisque, en l'occurrence, les parties n'ont ni allégué,
+ni
+a fortiori
+rendu vraisemblable, que les travaux seraient terminés ou qu'une facture finale aurait été
+établie, on voit mal que la garantie litigieuse puisse être celle prévue au point 7.1
+du contrat. Il ne peut s'agir que de la garantie prévue au chiffre 7.2 du contrat, ce qu'elles ne
+contestent d'ailleurs pas.
+C'est également dans ce but que le témoin F.________, entendu à l'audience de ce jour,
+a conseillé à l'intimée d'exiger la fourniture d'une telle garantie. Il a en effet expliqué
+avoir pour pratique constante et régulière d'exiger de telles garanties de la part des entrepreneurs
+afin de couvrir le risque d'une faillite. Ce témoignage est corroboré par le fait que la garantie
+a été demandée dès la conclusion du contrat. En fournissant une telle garantie, les
+parties au contrat d'entreprise ont ainsi démontré que leur intention était de couvrir
+le risque de ne pas voir les travaux achevés. Peu importe donc que la garantie soit intitulée
+"de bonne fin". Peu importe également que l'appelante ne soit pas partie au contrat d'entreprise;
+elle doit se laisser imputer la volonté de la société pour laquelle elle a fourni cette
+garantie bancaire. Il ressort donc des circonstances que l'appelante ne pouvait de bonne foi pas comprendre
+qu'elle n'aurait à souffrir la libération de la garantie qu'en cas de défauts cachés
+survenus après l'achèvement des travaux. En d'autres termes, l'interprétation de la garantie
+bancaire selon le principe de la confiance conduit à retenir que l'intimée pouvait de bonne
+foi considérer qu'elle pourrait en requérir le paiement à partir du moment où P.________
+SA n'était plus en position d'achever les travaux qui lui avaient été adjugés.
+Au vu de ce qui précède, l'intimée est donc fondée à réclamer la libération
+de la garantie bancaire prévue par le contrat d'entreprise. Partant, l'appel déposé par
+A.________ SA doit être rejeté et l'ordonnance entreprise confirmée.
+V.
+Il peut arriver dans la pratique qu’une personne qui a donné l’ordre à la banque
+d’ouvrir une garantie estime que la banque risque d’être appelée en paiement par
+le bénéficiaire de façon illégitime, ce dernier se prévalant d’une garantie
+principale qui lui permet d’obtenir paiement à «première demande». Le donneur
+d’ordre est d’avis qu’il a exécuté ses obligations dans le cadre du contrat
+de base et que le bénéficiaire abuse simplement du mécanisme de la garantie qui lui permet
+d’obtenir paiement de la banque sans autre examen. Il se peut aussi que cette personne craigne
+que la banque paie, alors qu’à son avis, elle agit à titre subsidiaire et non principal,
+ou, plus simplement que les conditions de la mise en œuvre de la garantie principale ne sont pas
+réalisées. Cette personne pourra estimer qu’il vaut mieux empêcher la banque de
+payer au moyen d’une mesure provisionnelle que de devoir ensuite la rechercher en responsabilité,
+voire d’intenter une action en enrichissement illégitime contre le bénéficiaire
+(Guggenheim, op. cit., p. 360).
+Les tribunaux suisses reconnaissent que le principe de la bonne foi et son corollaire, l’interdiction
+de l’abus de droit défini à l’art. 2 CC (Code civile suisse du 10 décembre
+1907; RS 210), sont applicables à la garantie bancaire. Le donneur d’ordre qui considère
+que l’appel à la garantie par le bénéficiaire est constitutif d’un abus de
+droit pourra donc démontrer cette circonstance en tenant compte du lien économique existant
+entre le contrat de base et le contrat de garantie, ainsi que de la fonction de sûreté que
+remplit la garantie bancaire. Toutefois, la jurisprudence maintient une interprétation très
+restrictive de la notion d’abus de droit. D’après cette jurisprudence, l’appel
+à la garantie doit être considéré comme abusif chaque fois que le bénéficiaire
+y fait appel alors qu’il n’en a aucun droit, quel que soit le point de vue adopté, compte
+tenu de toutes les circonstances de l’espèce (Guggenheim, op. cit., pp. 367-368). Récemment,
+le Tribunal fédéral a rappelé que pour éviter de porter atteinte au principe de l’indépendance
+de la garantie bancaire, l’abus de droit doit être manifeste ou, en d’autres termes,
+que le refus du paiement d’une telle garantie, au motif que le bénéficiaire y fait appel
+de manière abusive, doit rester exceptionnel (TF 4A_171/2007 du 15 août 2007 c. 4.1 in fine
+et les références citées).
+En l'occurrence, l'appelante soutient essentiellement que l'intimée ne pouvait faire appel à
+la garantie donnée, pour le motif que la garantie serait intitulée de bonne fin et qu'on ne
+pourrait ainsi y faire appel qu'une fois l'ouvrage achevé et livré. Cependant, cette interprétation
+ne résulte pas de la lecture même du texte de la garantie; au contraire, d’après
+ce texte, le garant s’engage à payer dès que le bénéficiaire lui aura signifié
+par écrit que P.________ SA n’a pas rempli ses obligations contractuelles. On a vu par ailleurs
+que cette interprétation correspond à la réelle volonté des parties. Le garant lui-même
+a reconnu qu’il devait payer et que la demande de paiement du 5 novembre 2010 était pleinement
+conforme aux termes de son engagement. Du reste, étant tombée en faillite, P.________ SA n’a
+pu achever les travaux de construction qui lui avaient été confiés par l’intimée.
+Ainsi, on ne saurait considérer que l’intimée n’aurait pas droit de faire appel
+à la garantie. L'argument de l'appelante tendant à démontrer l'appel abusif à la
+garantie est ainsi mal fondé et la requête d'appel doit être rejetée pour ce motif
+également.
+VI.
+L’intimée obtient gain de cause et a ainsi droit à de pleins dépens à la charge
+des intimés, solidairement entre eux (art. 92 al. 1 CPC-VD). Au vu des opérations effectuées
+et de la valeur litigieuse, les dépens d'appel sont arrêtés à 3'000 fr. à titre
+de participation aux honoraires et débours du conseil de l'intimée.
+VII.
+Le présent arrêt d'appel sur mesures provisionnelles est rendu par un tribunal supérieur
+au sens de l'art. 75 al. 2 LTF (loi sur le Tribunal fédéral du 17 juin 2005; RS 173.110), de
+sorte qu'il ne peut faire l'objet d'un appel au sens des art. 308 ss CPC devant une autorité
+cantonale. Seul est ouvert le recours en matière civile (art. 72 ss LTF et 90 ss LTF), cas échéant
+le recours constitutionnel subsidiaire (art. 113 ss LTF) par-devant le Tribunal fédéral (TF
+5A_162/2011 du 19 avril 2001 c. 2.2 destiné à la publication).
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos,
+prononce
+:
+I.
+L'appel formé le 24 janvier 2011 par A.________ SA contre l'ordonnance de mesures provisionnelles
+du 16 décembre 2010 est rejeté.
+II.
+L'ordonnance de mesures provisionnelles du 16 décembre 2010 est confirmée.
+III.
+Les frais de la procédure d'appel sont arrêtés à 5'000 fr. (cinq mille francs)
+pour l'appelante.
+IV.
+L'appelante A.________ SA versera à l'intimée M.________ le montant de 3'500 francs (trois
+mille cinq cents francs) à titre de dépens d'appel.
+V.
+L'arrêt est exécutoire à réception des motifs.
+Le
+vice-président :              Le
+greffier :
+P.
+Hack              G. Intignano
+Du
+L'arrêt sur appel qui précède, dont le dispositif a été expédié pour
+notification le 16 juin 2011, lu et approuvé à huis clos, est notifié, par l'envoi de
+photocopies, aux conseils des parties.
+Le présent arrêt sur appel peut faire l'objet d'un recours en matière civile devant le
+Tribunal fédéral au sens des art. 72 ss LTF et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral - RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens
+des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF). L'art. 100 al.
+6 LTF est réservé.
+Le greffier :
+G. Intignano
