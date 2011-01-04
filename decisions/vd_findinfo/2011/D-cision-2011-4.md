@@ -1,0 +1,110 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 4"
+decided: "2011-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2488101"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/837.0/art-001.md"]
+---
+
+# VD Findinfo Décision / 2011 / 4
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, RADIATION DU RÔLE | 1 al. 1 LACI, 61 let. a LPGA, 61 let. b LPGA, 61 let. g LPGA
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 04.01.2011 Décision / 2011 / 4
+
+DÉCISION D'IRRECEVABILITÉ, RADIATION DU RÔLE | 1 al. 1 LACI, 61 let. a LPGA, 61 let. b LPGA, 61 let. g LPGA
+
+TRIBUNAL
+CANTONAL
+ACH
+145/10 - 2/2011
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 4 janvier 2011
+_____________________
+Présidence
+de               M.
+Neu
+,
+juge unique
+Greffière :
+Mme              Desscan
+*****
+Cause
+pendante entre :
+S.________
+,
+à Lausanne, recourant,
+et
+Service
+de l'emploi
+, Instance juridique chômage,
+à Lausanne, intimé,
+_______________
+Art.
+61 let. a, b et g LPGA ; art. 1 al. 1 LACI
+E n  f a i t  e t  e n  d r o i t
+Vu
+le recours déposé le 12 novembre
+2010 par S.________ (ci après : le recourant) contre la décision sur opposition rendue
+le 12 octobre 2010 par le Service de l'emploi, qui confirme la décision de l’office régional
+de placement de Lausanne, suspendant l’intéressé dans son droit aux indemnités de
+chômage durant 16 jours à compter du 12 juin 2010 pour abandon d’une mesure du marché
+du travail à laquelle il avait été assigné du 26 avril au 25 juillet 2010,
+vu l’absence de motivation et de conclusion de ce recours, le recourant se bornant à renvoyer
+à l’écriture subséquente d’une avocate,
+vu l’interpellation du recourant par courrier du juge instructeur du 17 novembre 2010, lui impartissant
+un délai de 10 jours pour faire valoir ses moyens et conclusions, sous peine d’irrecevabilité
+du recours,
+vu l’absence de réponse du recourant dans le délai imparti ;
+attendu que, selon l’art. 61 let. b LPGA (loi fédérale sur la partie générale
+du droit des assurances sociales du 6 octobre 2000, RS 830.1), applicable par renvoi de l’art.
+1 al. 1 LACI (loi fédérale sur l’assurance-chômage obligatoire et l’indemnité
+en cas d’insolvabilité du 25 juin 1982, RS 837.0), l’acte de recours doit indiquer les
+moyens et les conclusions du recourant, à défaut de quoi un bref délai doit lui être
+imparti pour compléter son écriture, en l’avertissant qu’en cas d’inobservation
+le recours sera écarté,
+qu’en l’occurrence, le recourant, dûment informé des conséquences d’une
+absence de motivation de son recours, n’a pas donné suite à l’injonction du juge
+instructeur de combler cette lacune,
+que, partant, le recours doit être déclaré irrecevable, et la cause en conséquence
+rayée du rôle, sans suite de frais ni allocation de dépens (art. 61 let. a et g LPGA).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le recours est irrecevable.
+II.
+La cause est rayée du rôle.
+III.
+Il n’est pas perçu de frais, ni alloué de dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+M. S.________
+‑
+Service de l'emploi
+-
+Secrétariat d'Etat à l'économie (SECO)
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
