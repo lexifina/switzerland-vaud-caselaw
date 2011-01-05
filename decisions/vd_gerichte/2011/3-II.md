@@ -1,0 +1,459 @@
+---
+decision_id: "vd_gerichte_3_II"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREC"
+docket: "3/II"
+decided: "2011-01-05"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/724d2416-7bbb-4b1a-a8ac-547f3c17f189"
+cites_decisions: ["5A_561/2009", "BGE 127 III 297", "BGE 128 III 411", "BGE 131 I 217", "BGE 132 III 209", "BGE 133 III 553"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/173.110/art-130.md", "switzerland/bund/acts/272/art-003.md", "switzerland/bund/acts/272/art-108.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# VD Gerichte 3/II
+
+## Text
+
+TRIBUNAL CANTONAL
+3/II
+CHAMBRE DE S RECO URS
+________________________________
+Arrêt du 5 janvier 2011
+__________________
+Présidence de M. DENYS, président
+Juges : MM. Colombini et Sauterel
+Greffier : Mme Monnard
+*****
+Art. 144 al. 2 CC, 3, 444 al. 1 ch. 3, 448 al. 4 CPC-VD
+La Chambre des recours du Tribunal cantonal prend séance
+pour s’occuper du recours interjeté par C.R.________, domiciliée à [...]
+contre l'arrêt d'appel sur mesures provisionnelles rendu le 23 novembre
+2010 par le Tribunal civil de l'arrondissement de l'Est vaudois dans la
+cause divisant la recourante d’avec A.R.________
+Délibérant à huis clos, la cour voit :
+806
+
+- 2 -
+En fait :
+A. Par arrêt sur appel de mesures provisionnelles du 23
+novembre 2010, le Tribunal civil de l'arrondissement de l'Est vaudois a
+admis partiellement l'appel déposé le 4 novembre 2009 par A.R.________
+(I), rejeté l'appel déposé en date du 4 novembre 2009 par C.R.________ (II),
+confirmé le chiffre I de l'ordonnance de mesures provisionnelles du 29
+octobre 2009, étant précisé que le transfert de la garde sera effectif dès le
+départ de C.R.________ du domicile conjugal (III), modifié le chiffre II de dite
+ordonnance en ce sens que la recourante jouira d'un libre et large droit de
+visite sur ses enfants, fixé d'entente entre les parties et à défaut, un week-
+end sur deux, durant la moitié des vacances scolaires alternativement à
+Noël ou Nouvel An, Pâques ou Pentecôte (IV), attribué la jouissance du
+domicile conjugal, [...] à A.R.________, à charge pour lui d'en payer les
+intérêts hypothécaires et les charges (V), imparti à C.R.________ un délai
+au 1er février 2011 pour quitter l'appartement conjugal, étant précisé
+qu'elle est autorisée à emporter ses effets personnels et de quoi meubler
+son nouveau logement (VI), modifié le chiffre III de dite ordonnance en ce
+sens que A.R.________ contribuera à l'entretien des siens par le régulier
+versement d'une pension mensuelle de Fr. 4'850.- (quatre mille huit cent
+cinquante francs), allocations familiales en sus, payable d'avance le
+premier de chaque mois, en mains de C.R.________ dès et y compris le 1er
+juillet 2009 et jusqu'au départ effectif de cette dernière du domicile
+familial, pro rata temporis (VII), dit que A.R.________ contribuera à
+l'entretien de son épouse C.R.________ par le régulier versement d'une
+pension mensuelle de Fr. 1'900.- (mille neuf cents francs), payable
+d'avance le premier de chaque mois, en mains de la bénéficiaire, dès le
+départ effectif de celle-ci du domicile conjugal (VIII), rendu dite décision
+sans frais et dit que C.R.________ est la débitrice de A.R.________ de la
+somme de Fr. 600.- (six cents francs) à titre de dépens réduits, TVA en sus
+(IX et X).
+
+- 3 -
+La Chambre des recours se réfère à l'état de fait du jugement,
+qui est le suivant:
+"1. A.R.________ demandeur au fond et appelant, et C.R.________
+défenderesse au fond et appelante, se sont mariés le [...] 1999 devant
+l'officier de l'Etat civil de Bex.
+Deux enfants sont issus de cette union :
+- B.R.________, née le [...] 1999, et
+- D.R.________ né le [...] 2001.
+2. La situation des parties a déjà fait l'objet de multiples
+ordonnances de mesures provisionnelles et d'extrême urgence depuis le
+10 novembre 2008, date d'ouverture de la procédure.
+3. Par ordonnance de mesures provisionnelles rendue le 29
+octobre 2009, le Président du tribunal de céans a, notamment, confié la
+garde sur les enfants B.R.________ et D.R.________ à leur père (I), dit que la
+mère jouirait d'un libre et large droit de visite sur ses enfants, fixé à défaut
+d'entente à un week-end sur deux (II) et dit que la contribution due par
+A.R.________ en faveur de son épouse resterait fixée à Fr. 4'300.- par mois
+(III).
+4. Par requêtes d'appel déposées le 4 novembre 2009, chacune
+des parties a interjeté appel contre l'ordonnance de mesures
+provisionnelles du 29 octobre 2009.
+5. Par arrêt sur appel de mesures provisionnelles du 3 mars
+2010, le Tribunal de céans a notamment admis partiellement l'appel
+interjeté par C.R.________ (I), modifié le chiffre I de l'ordonnance attaquée
+en ce sens que la garde sur les enfants B.R.________ D.R.________, est
+confiée à leur mère (II), modifié le chiffre II de dite ordonnance en ce sens
+que le père jouira d'un libre et large droit de visite sur ses enfants, fixé
+d'entente entre les parties mais incluant notamment et à tout le moins les
+soirs où C.R.________ travaille (III), modifié le chiffre III de dite ordonnance
+en ce sens que la contribution due par A.R.________ pour l'entretien de sa
+famille est fixée à Fr. 5'500.-, allocations familiales en sus, dès le 1er juillet
+2009 (IV).
+6. A.R.________ a interjeté recours en nullité contre l'arrêt précité
+en concluant, avec dépens, à son annulation et à sa réforme en ce sens
+que la garde sur les enfants lui soit attribuée et que la contribution
+d'entretien en faveur de C.R.________ soit fixée à Fr. 1'500.- par mois, des
+dépens de première instance lui étant alloués.
+7. Par arrêt du 1er juin 2010, la Chambre des recours du Tribunal
+cantonal a annulé l'arrêt sur appel du 3 mars 2010 et renvoyé la cause au
+Tribunal d'arrondissement de l'Est vaudois pour nouvelle instruction et
+nouvelle décision.
+
+- 4 -
+8. Une nouvelle audience d'appel a été appointée au 12 août
+2010. A cette occasion, les parties, assistées de leur conseil respectif, ont
+été entendues.
+Lors de dite audience, un témoin a été entendu :
+- W.________, voisine et amie de C.R.________, a déclaré que
+cette dernière était une bonne mère et s'était toujours très bien occupée
+de ses enfants. Le témoin a ajouté que C.R.________ était très disponible
+pour ses enfants, qu'il lui arrivait occasionnellement d'accomplir son
+emploi le soir mais que, durant ces périodes, les enfants étaient pris en
+charge par leur tante.
+9. (…)
+9. (recte: 10) (…)
+10. (recte: 11) (…)
+a) C.R.________ a travaillé en qualité de serveuse pour le
+compte du [...], de septembre à mi-décembre 2009, date à laquelle
+l'établissement a fermé ses portes. Depuis lors, elle perçoit des indemnités
+de l'assurance-chômage à hauteur de Fr. 1'300.- par mois, correspondant
+à un taux d'activité à 50 %. Elle effectue toutefois une activité ponctuelle
+auprès de [...], dans la mise en place de banquets, à raison de deux fois
+par mois en moyenne, pour un revenu qu'elle estime à environ Fr. 200.-
+par banquet.
+b) Le certificat de salaire 2009 de A.R.________ fait état d'un
+revenu annuel net de Fr. 112'122.-, allocations familiales par Fr. 4'800.-
+comprises, soit un revenu mensuel net de Fr. 8'943.50, allocations
+familiales par Fr. 400.- en sus (112'122 – 4'800 / 12), part au treizième
+salaire comprise. L'appelant a en outre produit ses fiches de salaire pour
+les mois de janvier à juin 2010, période durant laquelle il a réalisé un
+revenu mensuel net moyen de Fr. 8'203.-, allocations familiales par Fr.
+400.- en sus, part au treizième salaire non comprise. Il apparaît ainsi que
+ses revenus n'ont pas changé de manière significative. La déclaration
+d'impôt 2008 de A.R.________ fait en outre état d'une fortune à raison de
+titres et autres placements d'un montant de Fr. 573'934.-, ce qui lui
+procure des rendements de Fr. 137.60 par année, soit Fr. 11.50 par mois.
+D'après la déclaration d'impôt 2008, il apparaît que A.R.________ est
+propriétaire de trois immeubles, soit l'immeuble sis [...] qui constitue le
+domicile familial, l'immeuble sis [...], et un troisième immeuble dont on
+ignore l'adresse et le revenu locatif. Il ressort de l'ordonnance de mesures
+provisionnelles du 3 février 2009 que l'appelant a admis que les deux
+appartements secondaires étaient loués, tout en avançant que le revenu
+locatif était intégralement affecté au paiement des charges hypothécaires
+et autres charges y afférentes. La dette hypothécaire grevant les
+immeubles s'élève au total à Fr. 1'020'967.- (350'000 + 332'600 +
+274'366 + 64'001) au 31 décembre 2008. Il n'est toutefois pas possible de
+déterminer quelle cédule grève quel immeuble. Les intérêts hypothécaires
+s'élèvent au total à Fr. 30'813.- pour l'année, soit à Fr. 2'267.75 par mois.
+
+- 5 -
+Les autres frais liés à l'immeuble conjugal ayant été retenus à Fr. 500.- par
+mois, on retiendra un montant de Fr. 2'767.75 à titre d'intérêts
+hypothécaires des immeubles et des charges du domicile conjugal.
+S'agissant de l'immeuble, [...], la déclaration d'impôt fait état d'un revenu
+locatif de Fr. 27'240.- et de frais et charges par Fr. 2'980.-, ce qui
+représente un revenu annuel net de Fr. 24'260.-, soit Fr. 2'021.- par mois.
+Il ressort des pièces produites que, par courrier du 26 mars
+2010, l' [...] a dénoncé les prêts hypothécaires souscrits par A.R.________
+pour l'achat de ses immeubles. Par missive du 7 juillet 2010, la banque lui
+a imparti un délai pour rembourser le montant des prêts hypothécaires par
+Fr. 752'997.37 et a indiqué qu'à défaut, une poursuite en réalisation de
+gage serait engagée. A.R.________ a déclaré lors de l'audience qu'il était en
+négociation avec la banque afin de trouver un arrangement. A.R.________
+fait en outre l'objet d'une saisie de l'Office des poursuites du district
+d'Aigle à hauteur de Fr. 700.- par mois.
+11. (recte: 12) (…)
+A.R.________ dispose de revenus qui s'élèvent mensuellement à
+Fr. 8'943.50, auxquels il sied d'ajouter les revenus qu'il perçoit du
+rendement de ses titres d'un montant de Fr. 137.60 par année, soit
+Fr. 11.50 par mois ainsi que d'un revenu locatif de Fr. 2'021.- par mois.
+Ainsi, ses revenus mensuels nets s'élèvent au total à Fr. 10'976.-.
+Quant à C.R.________, celle-ci perçoit des indemnités de
+chômage à hauteur de Fr. 1'300.- par mois ainsi que des revenus
+accessoires moyens de Fr. 400.- par mois. Ainsi, ses revenus mensuels
+moyens net s'élèvent au total à Fr. 1'700.-".
+En droit, les juges d'appel ont considéré qu'il y avait lieu
+d'attribuer la garde sur les enfants B.R.________ et D.R.________ à leur père.
+Partant, la mère a été mise au bénéfice d'un libre et large droit de visite
+sur ses enfants, à fixer d'entente avec A.R.________. Cette solution a été
+envisagée dans la mesure où les deux parents habitent la même ville et
+que leurs relations réciproques ne semblent pas gravement altérées. Par
+ailleurs, les juges d'appel ont attribué la jouissance du domicile conjugal à
+A.R.________ du fait qu'il a obtenu le droit de garde sur ses deux enfants.
+Quant à la fixation des contributions d'entretien pour la famille, le Tribunal
+d'arrondissement de l'Est vaudois a estimé qu'il fallait prévoir deux
+périodes pour les déterminer; la première jusqu'au départ effectif de
+C.R.________ du logement familial, date à laquelle le transfert de la garde
+aura également lieu, et la seconde pour la période ultérieure. Pour la
+première, le minimum vital de A.R.________ a été fixé à 5'084.40 fr., ce qui
+lui laisse un excédent de 5'891.60 fr. Le minimum vital de C.R.________ a
+été arrêté à 4'967.75 fr., ce qui lui laisse un déficit de 3'267.75 fr. Le solde
+disponible a été réparti à raison de 60% pour l'épouse, et 40% pour
+l'époux. Pour la seconde période, soit dès le 1er février 2011, le minimum
+vital de A.R.________ a été fixé à 7'502.15 fr., ce qui lui laisse un excédent
+de 3'473.85 fr. Le minimum vital de C.R.________ a été arrêté à 2'550 fr.,
+ce qui lui laisse un déficit de 850 fr. Le solde disponible a été réparti à
+
+- 6 -
+raison de 60% pour l'époux, qui a la garde et la charge des enfants, et
+40% pour l'épouse.
+B. Le 1er décembre 2010, C.R.________ a recouru contre cet arrêt
+d'appel, en concluant à son annulation.
+Dans son mémoire du 23 décembre 2010, la recourante a
+développé ses moyens et confirmé ses conclusions.
+L'intimé, A.R.________ n'a pas été invité à se déterminer.
+C. La problématique de l'attribution du droit de garde a fait l'objet
+d'un rapport complet de la part du SPJ. Il ressort de ce document daté du 3
+juillet 2009, notamment ce qui suit (pp. 7-8):
+"(…)
+Tant Mme C.R.________ que Monsieur nous sont apparus comme des parents non
+seulement attachés à leurs enfants, mais encore soucieux de leur bon
+développement. Si Madame se montre affectueuse, douce et chaleureuse, il
+semble qu'elle ait davantage de difficultés à faire face à l'éducation d'enfants
+grandissants, qui demandent plus d'autorité et d'affirmation de soi. Il nous est
+apparu, de par sa personnalité, sa culture et certainement aussi de son état
+dépressif, qu'elle a de la peine à se positionner et qu'elle manque d'énergie vitale
+pour assumer seule la prise en charge des enfants, non seulement sur le plan
+scolaire, mais d'une manière plus générale.
+Par ailleurs, sa réinsertion professionnelle va lui demander de l'énergie et
+habituée qu'elle était à vivre avec le soutien de son mari, de sa sœur et des
+moyens confortables, son adaptation à un mode de vie plus modeste risque
+d'être difficile.
+(…)
+Comme suggéré par M. A.R.________ une organisation de prise en charge des
+enfants laissant une large place à la mère, sous forme d'un droit de visite élargi,
+ou d'une sorte de garde partagée à définir, selon les disponibilités de chacun,
+pourrait être envisagée, dès lors que les deux parents habitent la même ville et
+que la communication entre eux n'est pas si gravement altérée.
+(…)"
+Lors de l'audience de mesures provisionnelles du 7 octobre
+2009, l'assistante sociale du SPJ qui a rédigé le rapport susmentionné, a
+indiqué que la mère avait une moins grande aptitude que le père à
+prendre en charge les enfants, à se montrer présente et à suivre leur
+
+- 7 -
+scolarité mais que, toutefois, les deux parents avaient chacun un rôle à
+jouer, arrivant à communiquer entre eux.
+En d roit :
+1. a) Le Code de procédure civile du 19 décembre 2008 (ci-après:
+CPC, RS 272) est entré en vigueur le 1er janvier 2011. Toutefois, l'arrêt
+attaqué a été communiqué aux parties avant cette date, de sorte que ce
+sont les règles du Code de procédure civile vaudois du 14 décembre 1966
+(ci-après: CPC-VD, RSV 270.11) qui sont applicables (art. 405 al. 1 CPC).
+b) La voie du recours en nullité de l’art. 444 CPC-VD est seule
+ouverte contre les arrêts sur appel de mesures provisionnelles pour les
+griefs énoncés à l’alinéa premier de cette disposition, celle du recours en
+réforme étant exclue (JT 2007 III 48; Poudret/Haldy/Tappy, Procédure civile
+vaudoise, 3ème éd., 2002, n. 1 ad art. 108 CPC-VD, pp. 211-212, et n. 1 ad
+art. 111 CPC-VD, p. 217).
+Le présent recours en nullité, conforme aux exigences posées
+aux art. 458 et 461 CPC-VD, est donc recevable.
+c) Selon la jurisprudence, le Tribunal cantonal n'examine que
+les moyens de nullité invoqués dans le recours et ne saurait retenir
+d'office la violation de dispositions de procédure non invoquées par le
+recourant. Dans ce cadre, il qualifie librement les griefs
+(Poudret/Haldy/Tappy, op. cit., n. 2 ad art. 465 CPC-VD, p. 722).
+2. a) La recourante invoque une appréciation arbitraire des
+preuves sur divers points.
+La cour de céans a admis que le grief tiré de l’appréciation
+arbitraire des preuves pouvait faire l’objet d’un recours en nullité au sens
+de l’art. 444 al. 1 ch. 3 CPC-VD, même au stade provisionnel (JT 2007 III 48
+
+- 8 -
+c. 3a ; JT 2001 III 128 ; Tappy, note in JT 2000 III 78). Ce grief se distingue
+de celui de la fausse appréciation des preuves en ce sens qu’il n’y a pas
+arbitraire du seul fait qu’une solution autre apparaît concevable ou même
+préférable. Une décision est arbitraire lorsqu’elle est manifestement
+insoutenable, qu’elle se trouve en contradiction claire avec la situation de
+fait, qu’elle viole gravement une norme ou un principe juridique indiscuté,
+ou encore lorsqu’elle heurte de manière choquante le sentiment de la
+justice et de l’équité. Pour qu’une décision soit annulée pour cause
+d’arbitraire, il ne suffit pas que la motivation formulée soit insoutenable, il
+faut encore que la décision apparaisse arbitraire dans son résultat. En
+matière d’appréciation des preuves et d’établissement des faits, la
+décision n’est arbitraire que si le juge n’a manifestement pas compris le
+sens et la portée d’un moyen de preuve, s’il a omis, sans raison sérieuse,
+de tenir compte d’un moyen important propre à modifier la décision
+attaquée ou encore si, sur la base d’éléments recueillis, il a fait des
+déductions insoutenables (ATF 132 III 209 c. 2.1; ATF 131 I 217 c. 2.1; ATF
+131 I c. 2).
+Le grief d’appréciation arbitraire des preuves, qui est lié à
+l'application de règles de procédure, ne doit pas être confondu avec celui
+du grief d’appréciation arbitraire du droit de fond. Celui-ci n’est en effet
+pas lié à l’application des règles de procédure et ne relève pas du moyen
+de l’art. 444 al. 1 ch. 3 CPC-VD, cette disposition ne sanctionnant que des
+vice d’ordre procédural (JT 2007 III 48 c. 3a ; Girardet, op. cit., p. 24 ;
+Tappy, Note sur les recours cantonaux en matière de mesures
+provisionnelles et la nouvelle LTF, JT 2007 III 54, spéc. pp. 59 ss ; Tappy,
+Les mesures provisionnelles en matière civile dans le nouveau système de
+recours au Tribunal fédéral, in Revue suisse de procédure civile [RSPC]
+1/2007, pp. 99 ss, spéc. p. 107).
+La loi du 17 juin 2005 sur le Tribunal fédéral (LTF; RS 173.110)
+n’imposait pas immédiatement à la Chambre des recours d’étendre son
+pouvoir d’examen (art. 111 al. 3 et 130 al. 2 LTF ; Tappy , in RSPC 1/2007
+99, spéc. p. 107). Il en découlait que, dans le canton de Vaud, l’entrée en
+vigueur de la LTF n’avait pas changé le système de recevabilité du recours
+
+- 9 -
+cantonal en nullité. En particulier, l’art. 444 al. 1 ch. 3 CPC-VD ne permet
+pas à la Chambre des recours d’entrer en matière pour un grief tiré d’une
+violation du droit matériel, même sous l’angle de l’arbitraire (JT 2007 III 48
+avec note Tappy, op. cit., spéc. pp. 60-61). On doit considérer que, malgré
+l'entrée en vigueur du Code de procédure civile, cette règle reste
+applicable, ce qui paraît conforme à la ratio legis de l'art. 130 al. 2 LTF,
+introduit après coup dans cette loi précisément pour que les cantons
+n'aient pas à adapter leur procédure civile jusqu'à l'entrée en vigueur de
+la procédure civile unifiée (Tappy, Le droit transitoire applicable lors de
+l'introduction de la nouvelle procédure civile unifiée, in JT 2010 III 11, spéc.
+p. 45 note infrapaginale 84, spéc. p 46).
+b) La recourante fait valoir qu’après avoir résumé le contenu
+de l’audition du témoin, W.________ (p. 3 de l’arrêt sur appel du Tribunal du
+23 novembre 2010), les juges de l'appel n’ont arbitrairement pas tenu
+compte de ce témoignage dans leur appréciation.
+Le témoin, qui a relevé que la recourante était une bonne
+mère et s’était toujours bien occupée de ses enfants, ne s’est pas exprimé
+sur l’élément décisif de la capacité éducative comparée des époux et ne
+contredit pas la constatation du SPJ, selon laquelle le père avait de
+meilleures capacités éducatives, en raison de sa personnalité plus
+rassurante, de ses meilleures ressources et sa capacité à affronter les
+difficultés, à cadrer et rassurer ses enfants. Au demeurant, le témoin a
+confirmé qu’il arrivait occasionnellement à la recourante d’accomplir son
+emploi le soir, mais que durant ces périodes, les enfants étaient pris en
+charge par leur tante, ce qui confirme les constatations du SPJ sur ce
+point. Par conséquent, le grief d’appréciation arbitraire des preuves est
+infondé sur cet aspect.
+c) La recourante fait valoir que l’arrêt attaqué n’a pas tenu
+compte de l’évolution positive concernant son état de santé et son
+comportement depuis le rapport d’enquête du SPJ du mois de juillet 2009.
+Les premiers juges n’ont pas méconnu cet élément. En effet, ils se sont
+fondés, conformément à l’art. 448 al. 4 CPC-VD, sur les considérants de
+
+- 10 -
+l’arrêt de renvoi de la Cour de céans du 1er juin 2010, selon lesquels les
+meilleures capacités éducatives du père constatées par le rapport du SPJ
+ne tenaient pas exclusivement à la dégradation, le cas échéant passagère,
+de la santé de la recourante, mais principalement à la personnalité plus
+rassurante du père, à ses meilleures ressources, à sa capacité à affronter
+les difficultés, et, enfin à cadrer et rassurer les enfants. Le grief
+d’appréciation arbitraire des preuves est donc infondé. Pour le surplus,
+savoir si, au vu des éléments de faits retenus comme constants, c’est à
+juste titre que la garde a été attribuée au père, relève du droit matériel et
+ne peut être revu dans le cadre du recours en nullité.
+d) La recourante soutient qu’elle est plus disponible que
+l’intimé. Selon la jurisprudence fédérale, lorsque les père et mère offrent
+des conditions équivalentes pour le droit de garde, il convient d'attribuer
+le droit de garde au parent le plus disponible, qui est en mesure de
+s'occuper d'eux et de les élever personnellement (TF 5A_561/2009 du 1er
+décembre 2009 c. 3.2). La disponibilité des parents est donc un élément
+pertinent dans l'attribution de la garde.
+Si la recourante était occupée à temps partiel plusieurs jours
+de suite à partir de 18 heures, elle ne travaille désormais plus
+qu’occasionnellement le soir, à raison de deux fois par semaine. Le reste
+du temps, la recourante est au chômage. Ces éléments factuels figurent
+dans la décision attaquée (p. 6 de l’arrêt attaqué et témoignage de
+W.________). Il n’est pas pour autant arbitraire de ne pas retenir une
+disponibilité plus grande de la recourante. D’une part, le chômage ne
+constitue en principe qu’une situation passagère et l’on ne peut tabler sur
+le fait qu’il perdure. D’autre part, l’intimé, directeur d’une entreprise de
+décoration d’intérieur, est en mesure de renoncer à certaines activités
+sociales pour se consacrer à des tâches ménagères. Il est disponible tous
+les soirs et peut aisément se charger de conduire les enfants de la sortie
+de l’école à leurs activités extrascolaires. Quant aux repas de midi, les
+disponibilités des deux parents sont identiques (p. 5 de l’arrêt sur appel du
+23 novembre 2010).
+
+- 11 -
+e) La recourante fait valoir que le régime provisionnel ne
+saurait être modifié sans motif majeur et que l’intérêt des enfants à la
+stabilité l’emporte. Il s’agit là de moyens relevant de l’application du droit
+matériel et qui, par conséquent, sont irrecevables dans le cadre du
+recours en nullité.
+3. Invoquant l’art. 144 al. 2 CC (Code civil suisse du 10 décembre
+1907 ; RS 210), la recourante fait valoir que les enfants n’ont pas été
+entendus. Selon la jurisprudence, l’audition de l’enfant peut être déléguée
+à un spécialiste indépendant et qualifié, pourvu que l’enfant ait été
+interrogé sur les éléments décisifs pour l’affaire à trancher et que son avis
+soit retranscrit (ATF 133 III 553, JT 2008 I 244 ; ATF 127 III 297). En
+l’espèce, les enfants ont été entendus par le SPJ. Par ailleurs, lors de
+l’audience du 7 octobre 2009, l’assistante sociale avait indiqué qu’il n’y
+avait pas de message clair des enfants quant à l’attribution de la garde. Le
+droit d’être entendu des enfants a donc été suffisamment respecté.
+4. La recourante fait enfin valoir que les premiers juges ont
+statué ultra petita en attribuant le domicile conjugal à l’intimé. L’art. 3
+CPC-VD constitue une règle essentielle de la procédure dont la sanction
+est assurée par le recours en nullité de l’art. 444 al. 1 ch. 3 CPC-VD,
+lorsque le recours en réforme n’est pas ouvert, comme c’est le cas en
+l’espèce (Poudret/Haldy/Tappy, op. cit., n. 4 ad art. 3 CPC-VD, p. 15).
+Il est exact que, lors de l’audience d’appel du 9 avril 2009, le
+logement de la famille avait été provisoirement laissé à la recourante et
+aux enfants jusqu’à droit connu sur le rapport du SPJ. Dans son
+ordonnance du 29 octobre 2009, le président du Tribunal
+d’arrondissement de l’Est vaudois a considéré qu’en l’absence de
+conclusion prise par l’intimé tendant à l’attribution du logement conjugal,
+celui-ci restait confié à l’épouse. L’intimé n’a pas remis ce point en cause
+dans son appel du 6 novembre 2009, ni pris ultérieurement des
+conclusions formelles en ce sens.
+
+- 12 -
+La maxime d’office s'applique cependant pour toutes les
+questions liées au sort des enfants (ATF 128 III 411). L’attribution du
+logement conjugal à titre de mesures provisionnelles, lorsqu’il permet à
+son titulaire d’y exercer son droit de garde sur les enfants et d’assurer à
+ces derniers une stabilité plus grande, constitue une telle question.
+Comme l’observe la recourante elle-même, il serait incohérent de
+permettre à celle-ci de continuer à vivre dans l’ancien domicile conjugal,
+imposant ainsi aux enfants un déracinement de leur cadre de vie habituel.
+5. En conclusion, le recours doit être rejeté, en application de
+l'art. 465 al. 1 CPC-VD et l'arrêt sur appel maintenu.
+Les frais de la recourante sont arrêtés à 300 fr. dès lors que
+seuls les motifs de transfert de la garde et la jouissance du domicile sont
+litigieux (art. 233 al. 1 TFJC [tarif du 4 décembre 1984 des frais judiciaires
+en matière civile ; RSV 270.11.5]).
+Par ces motifs,
+la Chambre des recours du Tribunal cantonal,
+statuant à huis clos,
+en application de l'art. 465 al. 1 CPC-VD,
+prononce :
+I. Le recours est rejeté.
+II. L'arrêt sur appel est maintenu.
+
+- 13 -
+III. Les frais de C.R.________ sont arrêtés à 300 fr. (trois cents
+francs).
+IV. L'arrêt motivé est exécutoire.
+Le président : La greffière :
+Du 5 janvier 2011
+Le dispositif de l'arrêt qui précède est communiqué par écrit
+aux intéressés.
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+- Me Jacques Micheli (pour C.R.________),
+- Me Aba Neeman (pour A.R.________).
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+
+- 14 -
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Tribunal d'arrondissement de l'Est vaudois.
+La greffière :
