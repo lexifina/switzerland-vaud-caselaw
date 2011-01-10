@@ -1,0 +1,316 @@
+---
+decision_id: "vd_gerichte_6cbdfcf8-c524-4ddc-a418-5163f21874a6"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCASS"
+docket: "2"
+decided: "2011-01-10"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/6cbdfcf8-c524-4ddc-a418-5163f21874a6"
+cites_decisions: ["6B_207/2007", "BGE 116 IV 288", "BGE 118 IV 21", "BGE 122 IV 156", "BGE 127 IV 101", "BGE 129 IV 6", "BGE 134 IV 140"]
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-041.md", "switzerland/bund/acts/311.0/art-046.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/311.0/art-049.md", "switzerland/bund/acts/311.0/art-050.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/312.0/art-415.md", "switzerland/bund/acts/312.0/art-438.md", "switzerland/bund/acts/312.0/art-447.md", "switzerland/bund/acts/312.0/art-448.md", "switzerland/bund/acts/312.0/art-450.md"]
+---
+
+# VD Gerichte 2
+
+## Text
+
+TRIBUNAL CANTONAL
+2
+PE09.021487-YGR/MAO/PBR
+CO UR DE CAS SATION P EN ALE
+______________________________________
+Séance du 10 janvier 2011
+__________________
+Présidence de M. CREUX, président
+Juges : Mme Epard et M. Winzap
+Greffier : M. Ritter
+*****
+Art. 41 al. 1, 46 al. 1, 47 CP; 415 CPP
+La Cour de cassation pénale prend séance en audience
+publique pour statuer sur le recours interjeté par le MINISTERE PUBLIC
+contre le jugement rendu le 1er novembre 2010 par le Tribunal de police
+de l’arrondissement de La Côte dans la cause dirigée contre E.________.
+Cité à comparaître en application de l’art. 438 al. 1 CPP,
+l'intimé E.________ se présente. Il est assisté de son conseil, l’avocat-
+stagiaire Loïc Parein, à Lausanne, qui plaide.
+602
+
+- 2 -
+Elle considère :
+En fait :
+A. Par jugement du 1er novembre 2010, le Tribunal de police de
+l’arrondissement de La Côte a, notamment, condamné E.________, pour
+ivresses au volant qualifiées, conduites sous retrait de permis et violation
+simple des règles de la circulation, à deux mois de privation de liberté,
+peine suspendue au profit d'un traitement ambulatoire anti-alcoolique,
+dont les modalités et la durée seront fixées par l'Office d'exécution des
+peines (I), a renoncé à révoquer le sursis accordé à E.________ le 12 mai
+2009 par le Préfet de Morges et a prononcé un avertissement (II) et a mis
+les frais, par 2'009 fr. 45, à la charge de l'accusé (III).
+B. Ce jugement retient en substance ce qui suit, la cour de céans
+se référant pour le surplus à l'état de fait dans son intégralité :
+1.1 L'accusé E.________, né en 1958, a une formation de pilote
+d'avion, métier qu'il a exercé. Il est actuellement au chômage. Divorcé,
+l'accusé a été perturbé par son licenciement. Son casier judiciaire
+comporte une inscription, relative à une condamnation à une peine
+pécuniaire de 16 jours-amende avec sursis pendant deux ans, prononcée
+le 12 mai 2009 par le Préfet du district de Morges pour ivresse qualifiée au
+volant.
+1.2 Le 23 juillet 2009, vers 1h20, l'accusé a circulé au volant de sa
+voiture sur l'autoroute A1 à la sortie d'Aubonne, chaussée Jura, avec un
+taux d'alcoolémie d'au moins 2,56 g o/oo. Interpellé par la police, il a fait
+l'objet d'une saisie provisoire de permis de conduire. Le 28 septembre
+2009, Place Dufour, à Morges, l'accusé a, nonobstant la saisie provisoire
+de son permis, circulé à une vitesse de 73 km/h, marge de sécurité
+
+- 3 -
+déduite, alors même que la vitesse était limitée à 50 km/h à l'endroit
+concerné. Le surlendemain, à Morges également, l'accusé a été interpellé
+alors qu'il garait sa voiture nonobstant la saisie provisoire de son permis et
+alors qu'il présentait une alcoolémie de 1,85 g o/oo au moins. Il a admis
+les faits. Leur qualification apportée par le tribunal de police est celle
+d'ivresses au volant qualifiées, de conduites sous retrait de permis et de
+violation simple des règles de la circulation
+1.3 Appréciant les faits de la cause en fonction, notamment, des
+propos tenus par l'accusé à l'audience, le premier juge a considéré que
+l'intéressé s'était actuellement totalement repris en main, de manière à
+retrouver un travail et à résoudre son problème d'alcoolisme. En
+particulier, il consulte un médecin, lequel rend compte à l'autorité
+administrative du résultat satisfaisant des efforts de son patient en
+matière d'abstinence. La gravité des faits justifiait, de l'avis du premier
+juge, une peine ferme, qu'il y avait néanmoins lieu de suspendre en
+application de l'art. 63 al. 2 CP, la révocation du sursis n'ayant au surplus
+pas lieu d'être.
+C. En temps utile, le Ministère public a recouru contre le
+jugement précité. Dans le délai imparti à cet effet, il a déposé un mémoire
+concluant à sa réforme en ce sens que la peine est arrêtée à cinq mois de
+privation de liberté et que le sursis est révoqué, le paiement de la peine
+pécuniaire étant ordonné et le jugement maintenu pour le surplus.
+L'intimé a conclu au rejet du recours.
+En d roit :
+1. Saisie, comme en l'espèce, d'un recours en réforme, la cour de
+céans examine librement les questions de droit sans être limitée aux
+moyens que les parties invoquent (cf. l'art. 447 al. 1 CPP). La cour de
+
+- 4 -
+cassation ne peut cependant aller au-delà des conclusions du recourant;
+elle est liée en outre par les faits constatés dans le jugement attaqué, sous
+réserve des inadvertances manifestes, qu’elle rectifie d’office (art. 447 al.
+2, 1ère et 2e phrases, CPP), ou d'éventuels compléments qui ressortiraient
+des pièces du dossier (JT 1989 III 105). De telles inadvertances ne sont pas
+données en l’espèce, pas plus que l'état de fait n'a à être complété.
+2. La qualification des infractions ici réprimées n'est pas en
+cause. Le Parquet conteste d'abord la quotité de la peine, qu'il tient pour
+arbitrairement clémente.
+a) Selon l'art. 47 al. 1 CP, le juge fixe la peine d'après la
+culpabilité de l'auteur. Il prend en considération les antécédents et la
+situation personnelle de ce dernier ainsi que l'effet de la peine sur son
+avenir. Selon l'al. 2 de cette disposition, la culpabilité est déterminée par
+la gravité de la lésion ou de la mise en danger du bien juridique concerné,
+par le caractère répréhensible de l'acte, par les motivations et les buts de
+l'auteur et par la mesure dans laquelle celui-ci aurait pu éviter la mise en
+danger ou la lésion, compte tenu de sa situation personnelle et des
+circonstances extérieures.
+b) L'art. 47 CP confère au juge un large pouvoir d'appréciation, de
+sorte que la Cour de cassation, qui ne fonctionne pas comme une
+juridiction d'appel, n'admettra un recours en réforme sur la quotité de la
+peine que si la sanction a été fixée en dehors du cadre légal, si elle est
+fondée sur des critères étrangers à l'art. 47 CP, si des éléments
+d'appréciation prévus par cette disposition n'ont pas été pris en compte ou
+enfin si la sanction apparaît exagérément sévère ou clémente au point
+que l'on doive parler d'un abus du pouvoir d'appréciation (art. 415 al. 3
+CPP; Bovay et alii, op. cit., n. 1.4 ad art. 415 CPP; ATF 127 IV 101, c. 2c;
+ATF 122 IV 156, c. 3b; ATF 116 IV 288, c. 2b).
+L'art. 47 al. 1 CP reprend les critères des antécédents et de la
+situation personnelle consacrés par l'art. 63 aCP, tout en leur ajoutant la
+nécessité de prendre en considération l’effet de la peine sur l’avenir du
+
+- 5 -
+condamné. S’agissant de ce dernier élément, le Message précise que le
+juge n’est pas contraint d’infliger la peine correspondant à la culpabilité de
+l’auteur s’il y a lieu de prévoir qu’une peine plus clémente suffira à le
+détourner de commettre d’autres infractions (FF 1999 II 1866). Cet aspect
+de prévention spéciale ne permet toutefois que des corrections
+marginales. Il ne saurait l'emporter sur l’appréciation de la culpabilité du
+délinquant, l'effet de la peine devant toujours rester proportionné à la
+faute. L'art. 47 al. 2 CP codifie la jurisprudence rendue en vertu de l’art. 63
+aCP (cf. not. ATF 129 IV 6, c. 6.1; ATF 127 IV 101, c. 2a; ATF 118 IV 21, c.
+2b; cf. aussi notamment TF 6B_207/2007 du 6 septembre 2007).
+3. En l'espèce, l'intimé a, le 23 juillet 2009, commis une ivresse
+au volant en situation de récidive d'une infraction similaire perpétrée en
+février précédent et sanctionnée d'une peine pécuniaire dans l'intervalle; il
+y a donc récidive spéciale, de surcroît à bref délai. Le 28 septembre 2009,
+il a circulé à une vitesse excessive à la limite du cas grave, avant de
+conduire à nouveau sous l'emprise de l'alcool deux jours plus tard, étant
+précisé que, dans ces deux cas, il conduisait malgré la saisie provisoire de
+son permis effectuée lors de son interpellation pour ivresse au volant en
+juillet précédent.
+Une telle accumulation, à relativement bref délai, de
+semblables infractions à la LCR est de nature à mettre lourdement en péril
+la sécurité des usagers. Elle témoigne en outre d'un irrespect manifeste et
+récurrent des règles fondamentales de la circulation, s'agissant en
+particulier de deux cas d'alcoolémie importante. La peine de 60 jours de
+privation de liberté prononcée par le premier juge ne tient pas
+suffisamment compte de la dangerosité des comportements incriminés et
+de la récidive spéciale. Ces éléments à charge n'ont, en d'autres termes,
+guère reçu l'attention qu'ils justifiaient. Le tribunal de police a ainsi versé
+dans l'arbitraire par sa clémence en accordant un poids excessif aux
+éléments retenus à décharge. Aussi bien, le jugement procède à cet égard
+d'une violation du droit fédéral.
+
+- 6 -
+En pareil cas, la cour de céans peut statuer elle-même sur la
+nouvelle peine (art. 448 al. 1 CPP), qu'il convient de fixer à quatre mois, au
+vu notamment de la situation familiale et professionnelle difficile de
+l'intimé lors des faits, de son absence d'antécédents antérieurs à 2009,
+ainsi que de ses efforts tendant à l'abstinence, facteurs qu'il y a lieu de
+prendre en compte à décharge. Le recours doit ainsi être admis dans cette
+mesure.
+4. Le Parquet conteste ensuite le jugement en ce sens qu'il
+renonce à révoquer le sursis précédent et, partant, à ordonner l'exécution
+de la peine de 16 jours-amende prononcée le 12 mai 2009 par le Préfet du
+district de Morges.
+a) Sous la note marginale d'échec de la mise à l’épreuve, l'art. 46
+al. 1 CP dispose que, si, durant le délai d’épreuve, le condamné commet
+un crime ou un délit et qu’il y a dès lors lieu de prévoir qu’il commettra de
+nouvelles infractions, le juge révoque le sursis ou le sursis partiel; il peut
+modifier le genre de la peine révoquée pour fixer, avec la nouvelle peine,
+une peine d’ensemble conformément à l’art. 49 CP; il ne peut toutefois
+prononcer une peine privative de liberté ferme que si la peine d’ensemble
+atteint une durée de six mois au moins ou si les conditions prévues à l’art.
+41 CP sont remplies.
+b) La révocation du sursis selon l'art. 46 al. 1 CP dépend des
+infractions commises pendant le délai d'épreuve, lesquelles permettront
+d'établir un pronostic favorable ou défavorable (ATF 134 IV 140, c. 4.2).
+Seul un pronostic défavorable peut justifier la révocation; à défaut, le juge
+doit renoncer à celle-ci (ATF 134 IV 140, c. 4.3). Le pronostic doit être posé
+sur la base d'une appréciation d'ensemble, qui tienne compte des
+circonstances de l'infraction, des antécédents du condamné, de sa
+réputation et de sa situation personnelle au moment du jugement,
+notamment de l'état d'esprit qu'il manifeste, soit de tous les éléments
+propres à éclairer l'ensemble de son caractère et ses chances
+d'amendement. Il est inadmissible que le juge qui pose ce pronostic
+accorde un poids particulier à certains critères et qu'il en néglige d'autres
+
+- 7 -
+qui sont pertinents. Il doit par ailleurs motiver sa décision (cf. art. 50 CP)
+d'une manière qui permette de vérifier s'il a tenu compte de tous les
+éléments pertinents et de comprendre comment il les a appréciés (ATF
+134 IV 140, c. 4.4). Lorsqu'il s'agit de fixer le pronostic, le juge doit
+également tenir compte de l'effet dissuasif que peut exercer la nouvelle
+peine, si elle doit être exécutée; il en va de même s'agissant de l'effet de
+l'exécution d'une peine, à la suite de la révocation d'un sursis accordé
+précédemment (ATF 134 IV 140, c. 4.5).
+Un autre critère déterminant pour juger du risque de
+réitération et, partant, pour poser le pronostic prévu par la loi est celui de
+l'effet de choc et d'avertissement (Schock- und Warnungswirkung) issu de
+la condamnation précédente, y compris en ce qui concerne
+l'aménagement ultérieur de la vie de l'intéressé; s'il est avéré, un tel effet
+constitue un facteur favorable – même s'il n'est pas déterminant à lui seul
+- dans l'examen du pronostic (cf. l'arrêt précité, c. 5.3).
+5.a) Le premier juge a considéré que le pronostic était défavorable
+au sens déduit de l'art. 41 al. 1 CP, mais qu'un aménagement de
+l'exécution de la peine n'en était pas moins possible, ce sous la forme d'un
+traitement ambulatoire anti-alcoolique. Or, il découle de l'art. 63 al. 2 CP
+que la sanction doit être prononcée sous la forme d'une peine privative de
+liberté ferme pour que la question de sa suspension puisse se poser. De
+surcroît, l'art. 63 al. 1 let. b CP exclut le sursis en pareil cas.
+b) La question du pronostic doit être examinée en fonction aussi
+bien des nouvelles infractions commises que de la situation personnelle de
+l'intimé. A cet égard, la réitération ici en cause est grave, s'agissant de
+nouvelles infractions à la LCR perpétrées moins de six mois après une
+condamnation pour des faits semblables. Ce comportement dénote à
+l'évidence une forte propension à la violation de règles de la circulation
+routière parmi les plus essentielles. Il y a dès lors lieu de prévoir que
+l’auteur commettra de nouvelles infractions, du moins à défaut de se
+soumettre à un traitement visant l'abstinence à l'alcool. Or, à cet égard,
+un traitement ambulatoire ne peut constituer l'effet de choc et
+
+- 8 -
+d'avertissement qui permet, selon la jurisprudence précitée (ATF 134 IV
+140, spéc. c. 5.3), soit de ne pas révoquer un sursis précédent, soit, tout
+en le révoquant, de formuler un pronostic qui ne soit pas défavorable. On
+ne peut en effet assimiler l'obligation de suivre un traitement ambulatoire
+à une peine pénale. C'est dès lors à tort que le premier juge a considéré
+que le traitement ambulatoire ordonné influait favorablement sur le
+pronostic. Le pronostic doit donc être tenu pour défavorable à défaut de
+tout facteur en sens contraire.
+Partant, le sursis assortissant la peine pécuniaire prononcée
+par l'autorité préfectorale doit être révoqué. Cette révocation n'exclut pas
+la suspension de l'exécution de la nouvelle peine au profit d'un traitement
+ambulatoire anti-alcoolique. D'ailleurs, le Parquet renonce expressément à
+la contester. Au surplus, un traitement ambulatoire est indiqué vu la
+dépendance éthylique avérée de l'intimé.
+6.a) Lorsque le juge révoque le sursis ou le sursis partiel, il peut
+modifier le genre de la peine révoquée pour fixer, avec la nouvelle peine,
+une peine d'ensemble conformément à l'art. 49 CP (art. 46 al. 1 CP). Il ne
+peut toutefois prononcer une peine privative de liberté ferme que si la
+peine d’ensemble atteint une durée de six mois au moins ou si les
+conditions prévues à l’art. 41 CP sont remplies. (art. 46 al. 1, 2e phrase,
+CP).
+En l'espèce, les peines en concours sont de nature différentes.
+Quant à la nouvelle peine, elle est prononcée en vertu de l'art. 41 CP. Les
+conditions posées par l'art. 46 al. 1 CP sont remploies.
+La révocation du sursis antérieur conduit ainsi à fixer une
+peine d'ensemble de quatre mois et 16 jours, arrondie à quatre mois et
+demi.
+b) Conformément au ch. I in fine du dispositif du jugement, non
+remis en cause, cette peine est globalement suspendue au profit du
+
+- 9 -
+traitement ambulatoire anti-alcoolique déjà mentionné, dont les modalités
+et la durée seront fixées par l'Office d'exécution des peines.
+7. Le recours doit ainsi être admis partiellement et le jugement
+réformé dans le sens des considérants.
+Les frais de deuxième instance, y compris l'indemnité allouée
+au défenseur d'office de l'intimé, par 820 fr. 80, TVA comprise, sont laissés
+à la charge de l'Etat (art. 450 al. 1 CPP).
+Par ces motifs,
+la Cour de cassation pénale,
+statuant en audience publique,
+prononce :
+I. Le recours est admis partiellement.
+II. Le jugement est réformé aux chiffres I et II de son dispositif en
+ce sens que le tribunal :
+I. Constate que E.________ s'est rendu coupable d'ivresse au
+volant qualifiée, conduite sous retrait de permis de conduire et
+violation simple des règles de la circulation.
+II. Révoque le sursis accordé à E.________ le 12 mai 2009 par le
+Préfet du district de Morges et le condamne à une peine
+privative de liberté d'ensemble de 4 ½ mois (quatre mois et
+demi), peine suspendue au profit d'un traitement ambulatoire
+anti-alcoolique dont les modalités et la durée seront fixées par
+l'Office d'exécution des peines.
+Le jugement est maintenu pour le surplus.
+
+- 10 -
+III. Les frais de deuxième instance, y compris l'indemnité allouée
+au défenseur d'office de l'intimé, par 820 fr. 80 (huit cent vingt
+francs et huitante centimes), sont laissés à la charge de l'Etat.
+Le président : Le greffier :
+Du 11 janvier 2011
+Le dispositif de l'arrêt qui précède est communiqué au
+recourant et aux autres intéressés.
+Le greffier :
+
+- 11 -
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Me Loïc Parein, avocat-stagiaire (pour E.________),
+- M. le Procureur général du canton de Vaud,
+et communiqué à :
+- Département de l'intérieur, Office d'exécution des peines,
+- M. le Président du Tribunal de police de l'arrondissement de La Côte,
+- M. le Juge d'instruction cantonal,
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+notification de l'expédition complète (art. 100
+al. 1 LTF).
+Le greffier :
