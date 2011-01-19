@@ -1,0 +1,167 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 14"
+decided: "2011-01-19"
+published: "2011-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2506732"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 14
+
+## Regeste
+
+SÉQUESTRE{MESURE PROVISIONNELLE} | 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2011 Décision / 2011 / 14
+
+SÉQUESTRE{MESURE PROVISIONNELLE} | 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+5
+PE10.031115-LCT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 19 janvier 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+263 et 393 al. 1 let. a CPP
+Vu l'
+enquête n° PE10.031115-LCT
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+R.________
+pour lésions corporelles simples qualifiées, mise en danger de la vie d'autrui, vol entre proches
+et menaces qualifiées, d'office et sur plainte d'
+O.________
+,
+ainsi que d'office contre
+O.________
+pour voies de fait qualifiées,
+vu l'ordonnance du 3 janvier 2011, par laquelle le procureur a ordonné le séquestre du montant
+de 1'212.32 Euros, sis dans le dépôt de R.________,
+vu le recours interjeté en temps utile par ce dernier contre cette décision,
+vu les pièces du dossier;
+attendu
+que l'ordonnance de séquestre, rendue par le ministère public, peut faire l'objet d'un recours,
+conformément aux art. 20 al. 1 let. b et
+393 al. 1 let. a CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0),
+que la Chambre des recours pénale du Tribunal cantonal est compétente pour statuer sur un recours
+de cette nature (art. 20 al. 1 let. b CPP et 13 LVCPP [Loi vaudoise d'introduction du Code de procédure
+pénale suisse; RSV 312.01]),
+que déposé dans le délai de dix jours de l'art. 396 al. 1 CPP, le recours est recevable;
+attendu qu'O.________ a déposé plainte contre son époux, R.________,
+qu'elle lui reproche notamment de lui avoir volé la somme de 3'000 Euros en date du 19 décembre
+2010,
+que la police est intervenue le jour même (P. 4/1),
+que R.________ a alors restitué à son épouse les montants de 1'260 Euros et de 700 fr.
+et ce, en présence des policiers (P. 4/1),
+que R.________ était en outre en possession des sommes de 1'212.32 Euros et de 351 fr. 95,
+que par ordonnance du 3 janvier 2011, le procureur a ordonné le séquestre du montant de 1'212.32
+Euros,
+que R.________ a recouru contre cette décision;
+attendu que, se fondant sur l'art. 263 al. 2 CPP, il soutient d'abord que la décision attaquée
+est insuffisamment motivée,
+qu'aux termes de la disposition précitée, le séquestre est ordonné par voie d'ordonnance
+écrite, brièvement motivée,
+que l'ordonnance de séquestre doit comporter une motivation suffisante pour respecter le droit d'être
+entendu des personnes dont les actifs sont saisis et permettre à l'autorité de recours d'exercer
+son contrôle (Lembo/Julen Berthod, in: Kuhn/Jeanneret, Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 35 ad art. 263 CPP),
+que si l'on peut regretter la motivation sommaire de l'ordonnance, elle est toutefois suffisante en l'espèce,
+qu'en effet, un simple renvoi aux dispositions légales concernées peut encore suffire ici,
+les motifs du séquestre étant clairs,
+que le recourant a d'ailleurs pu contester valablement la décision du ministère public;
+attendu que R.________ fait ensuite valoir que les valeurs séquestrées lui appartiennent,
+que selon lui, leur restitution à O.________ n'est dès lors pas probable,
+que selon l'article 263 al. 1 CPP, des objets et des valeurs patrimoniales appartenant au prévenu
+ou à des tiers peuvent être mis sous séquestre, lorsqu'il est probable qu'ils seront utilisés
+comme moyens de preuve (let. a), qu'ils seront utilisés pour garantir le paiement des frais
+de procédure, des peines pécuniaires, des amendes et des indemnités (let. b), qu'ils devront
+être restitués au lésé (let. c) ou qu'ils devront être confisqués (let.
+d),
+qu'en l'espèce et à ce stade de l'enquête, il y a lieu d'admettre, avec un degré
+de probabilité suffisant, que le montant de 1'212.32 Euros pourrait appartenir à O.________,
+qu'en effet, il existe des présomptions concrètes à l'encontre de R.________ quant à
+la commission de l'infraction de vol,
+que le séquestre doit dès lors être admis sur la base de l'art. 263 al. 1 let. c CPP,
+qu'en tout état de cause, compte tenu de la situation financière très obérée
+du recourant, le séquestre peut également être ordonné en application de l'art. 263
+al. 1 let. b CPP, soit aux fins d'en assurer la dévolution à l'Etat pour garantir le paiement
+des probables frais de procédure et d'exécution des peines;
+attendu que R.________ invoque enfin la violation du principe de la proportionnalité,
+qu'il soutient que ledit séquestre le prive de certaines commodités, alors qu'il se trouve
+en détention préventive,
+que ses besoins de base sont toutefois satisfaits en prison,
+qu'on ne saurait dès lors lui restituer l'éventuel produit d'un vol pour lui conférer
+des avantages qui ne sont pas nécessaires,
+que par ailleurs, le recourant semble avoir obtenu le montant de 400 Euros sur les valeurs séquestrées
+(cf. P. 22/2 et 24/2),
+qu'au vu de l'ensemble des éléments qui précèdent, c'est à bon droit que le
+ministère public a ordonné le séquestre litigieux;
+attendu, en définitive, que le recours est rejeté et l'ordonnance confirmée,
+que l'indemnité due au défenseur d'office de R.________ est fixée à 360 fr., plus
+la TVA, par 28 fr. 80, soit un total de 388 fr. 80,
+que les frais du présent arrêt, ainsi que l'indemnité allouée à son défenseur
+d'office, sont mis à la charge du recourant (art. 428 al. 1 CPP),
+que le remboursement à l'Etat de cette indemnité ne sera toutefois exigible pour autant que
+la situation économique de R.________ se soit améliorée (art. 135 al. 4 let. a CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 388 fr. 80 (trois cent huitante-huit
+francs et huitante centimes) l'indemnité allouée au défenseur d'office de R.________.
+IV.
+Dit que les frais d'arrêt, par 440 fr. (quatre
+cent quarante francs), ainsi que l'indemnité due au défenseur d'office du recourant, par 388
+fr. 80 (trois cent huitante-huit francs et huitante centimes), sont mis à la charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité
+allouée au chiffre III ci-dessus sera exigible pour autant que la situation économique de R.________
+se soit améliorée.
+VI.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Jean Jacques Schwaab, avocat (pour R.________),
+-
+M. le Procureur général du canton de Vaud.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
