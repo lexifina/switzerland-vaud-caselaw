@@ -1,0 +1,182 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2011___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2011 / 6"
+decided: "2011-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2501579"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Pron-prés / 2011 / 6
+
+## Regeste
+
+MISE EN LIBERTÉ DÉFINITIVE, PEINE PRIVATIVE DE LIBERTÉ, PROPORTIONNALITÉ, ÉTABLISSEMENT DE SOINS, DÉTENTION{INCARCÉRATION}
+
+## Text
+
+Vaud Tribunal cantonal Cour de cassation pénale 21.01.2011 Pron-prés / 2011 / 6
+
+MISE EN LIBERTÉ DÉFINITIVE, PEINE PRIVATIVE DE LIBERTÉ, PROPORTIONNALITÉ, ÉTABLISSEMENT DE SOINS, DÉTENTION{INCARCÉRATION}
+
+TRIBUNAL
+CANTONAL
+30
+PE97.016620-VBA/ECO/PBR
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Arrêt du
+21 janvier 2011
+___________________
+Du 14 janvier
+2011
+________________
+Présidence
+de               M.
+Creux
+,
+président
+Greffière
+:              Mme
+de Quattro Pfeiffer
+*****
+Vu le jugement du 3 décembre 1998, par lequel le Tribunal criminel du district d’Echallens
+a condamné A.________ à la peine de douze ans de réclusion,
+vu l’arrêt du 12 avril 1999, par lequel la Cour de cassation pénale du Tribunal cantonal
+a partiellement admis le recours de l’accusé en ce sens que sa peine a été réduite
+à onze ans et demi de réclusion,
+vu l’arrêt du 1
+er
+décembre 1999, par lequel le Tribunal fédéral a confirmé la peine prononcée,
+vu le jugement du 7 février 2007, par lequel le Tribunal correctionnel de l’arrondissement
+de La Broye et du Nord vaudois a condamné l’intéressé à la peine complémentaire
+de dix mois d’emprisonnement,
+vu le jugement du Collège des juges d’application des peines du 20 novembre 2008, refusant
+la libération conditionnelle au condamné et fixant le terme de l’exécution de la
+peine au 5 novembre 2009,
+vu la requête de révision du jugement rendu le 3 décembre 1998 par le Tribunal criminel
+du district d’Echallens, présentée par le Ministère public le 24 février 2009,
+vu l’arrêt du 15 juin 2009, par lequel la Chambre des révisions civiles et pénales
+du Tribunal cantonal a admis la demande de révision et transmis la cause au Tribunal correctionnel
+de l’arrondissement de La Côte,
+vu le jugement du 29 septembre 2009, par lequel le Tribunal correctionnel de l’arrondissement de
+La Côte a ordonné l’internement du condamné,
+vu l’arrêt du 3 novembre 2009, par lequel la Cour de cassation pénale du Tribunal cantonal
+a confirmé le jugement précité,
+vu l’arrêt du 3 novembre 2010, par lequel la Cour de droit pénal du Tribunal fédéral
+a admis le recours déposé par le condamné, annulé l’arrêt attaqué
+et renvoyé la cause à l’autorité cantonale pour nouveau jugement,
+vu le courrier du chef de l’Office d’exécution des peines du 9 décembre 2010, qui
+constate que le titre à la détention, savoir l’internement, a été annulé
+par le Tribunal fédéral et demande au président de la Cour de cassation pénale d’examiner
+l’éventuelle nécessité de rendre une décision sur la question du maintien en
+détention du condamné pour des motifs de sécurité,
+vu la requête de mise en liberté immédiate présentée par A.________ le 10 décembre
+2010, dans laquelle il précise qu’il ne s’oppose pas à son transfert dans un établissement
+médico-social adapté à son état de santé et s’engage à ne plus entrer
+en contact de quelque manière que ce soit avec ses anciennes victimes,
+vu l’arrêt du 20 décembre 2010, par lequel la Cour de cassation pénale du Tribunal
+cantonal a admis le recours du condamné, annulé le jugement du Tribunal correctionnel de l’arrondissement
+de La Côte du 29 septembre 2009 et renvoyé la cause à cette autorité pour nouvelle
+instruction et nouveau jugement,
+vu le courrier du 20 décembre 2010, dans lequel le conseil du condamné confirme que son client
+souhaite pouvoir bénéficier de l’encadrement d’un établissement médico-social
+une fois sa mise en liberté ordonnée et précise qu’il ne voit aucun inconvénient
+à ce que la décision à ce sujet ne soit rendue qu’au début de l’année
+2011,
+vu le courriel du chef de l’Office d’exécution des peines du 14 janvier 2011, dont il
+ressort que seuls deux établissements médico-sociaux seraient disposés à accueillir
+l’intéressé dès le mois de février ou mars 2011,
+vu les pièces du dossier ;
+attendu que se pose la question de savoir si, nonobstant l’annulation de l’arrêt cantonal
+du 3 novembre 2009, la détention d’A.________ pourrait encore se justifier à titre d’exécution
+anticipée de la mesure,
+que la requête de mise en liberté intervient en l’occurrence à un moment où
+la peine privative de liberté a été entièrement exécutée,
+qu’ensuite de l’internement requis par le Ministère public le 24 février 2009 au
+travers de sa demande de révision, il y aura lieu d’examiner, par le biais d’une nouvelle
+expertise selon les injonctions du Tribunal fédéral, si les conditions d’une telle mesure
+étaient réalisées sous l’ancien droit,
+qu’un tel examen, doublé de celui des perturbations psychiques que pourraient subir les ex-victimes
+du condamné en cas de nouvelle confrontation avec ce dernier, va nécessairement prendre un
+certain temps,
+que le principe de proportionnalité doit conduire à s’interroger sur la possibilité
+d’envisager d’autres mesures moins incisives que la détention pendant la durée
+de cet examen (cf. ATF 133 I 270 c. 3.3.1 ; TF 1B_4/2010 du 21 janvier 2010 c. 3.5.1),
+que comme il le déclare dans sa demande de mise en liberté, le requérant ne s’oppose
+pas à son transfert dans un établissement médico-social adapté à son état
+de santé, tout en s’engageant à ne pas entrer en contact d’une quelconque manière
+avec ses anciennes victimes,
+qu’il faut par conséquent privilégier une telle solution, librement consentie par l’intéressé,
+laquelle ménage mieux qu’une mise en liberté abrupte la transition entre la longue période
+de détention subie et la libération, et tient compte tant de l’âge avancé que
+de l’état de santé « diminué » du requérant (cf. CCASS
+3 novembre 2009/455 p. 30 ; TF 6B_1062/2009 du 3 novembre 2010 p. 13),
+que cette solution, si elle ne remplace pas une détention pour des motifs de sécurité,
+injustifiée en l’espèce, a également pour avantage de créer un cadre de vie
+propre à assurer les soins nécessaires et une assistance adéquate à l’intéressé
+(cf. TF 6B_1062/2009 du 3 novembre 2010 p. 14),
+que l’engagement du requérant à s’abstenir de toute prise de contact avec ses ex-victimes
+est par ailleurs de nature à relativiser le risque de récidive mis en avant par les experts,
+qu’enfin, une place dans un établissement médico-social répondant aux conditions
+pour accueillir l’intéressé serait disponible dans un proche avenir, selon les informations
+recueillies par l’Office d’exécution des peines,
+qu’il se justifie dès lors d’admettre la requête et d’accorder la mise en
+liberté au requérant, selon les modalités fixées par l’Office d’exécution
+des peines en accord avec ce dernier,
+que le suivi du placement envisagé incombera au Tribunal correctionnel de l’arrondissement
+de La Côte, auquel la cause a été renvoyée ensuite de l’arrêt de la Cour
+de céans du 20 décembre 2010,
+que les frais du présent arrêt, y compris l'indemnité allouée au défenseur d'office
+du requérant, sont laissés à la charge de l’Etat.
+Par
+ces motifs,
+le
+Président de la Cour de cassation pénale,
+statuant
+à huis clos,
+p
+r o n o n c e  :
+I.
+La requête de mise en liberté formée par A.________ est admise.
+II.
+La mise en liberté est accordée selon les modalités fixées par l’Office d’exécution
+des peines en accord avec le requérant.
+III.
+Les frais d’arrêt, y compris l'indemnité allouée au défenseur d'office du requérant,
+par 387 fr. 35, sont laissés à la charge de l’Etat.
+IV.
+L'arrêt est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Stefan Disch, avocat (pour A.________),
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiqué à :
+‑
+Département de l'intérieur, Office d'exécution des peines,
+-
+M. le Surveillant-chef, Etablissements pénitentiaires de la Plaine de l’Orbe,
+‑
+M. le Président du Tribunal correctionnel de l'arrondissement de La Côte,
+‑
+M. le Juge d'instruction cantonal,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1 LTF).
+La greffière :
