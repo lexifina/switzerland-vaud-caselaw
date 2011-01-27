@@ -1,0 +1,291 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 23"
+decided: "2011-01-27"
+published: "2011-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2522776"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-230.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 23
+
+## Regeste
+
+DÉTENTION PRÉPARATOIRE, RISQUE DE RÉCIDIVE | 221 CPP (CH), 222 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2011 Décision / 2011 / 23
+
+DÉTENTION PRÉPARATOIRE, RISQUE DE RÉCIDIVE | 221 CPP (CH), 222 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+8
+PE10.008143-JPC
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 27 janvier 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffier
+:              M.
+Addor
+*****
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 24 janvier 2011 par
+C.________
+dans la cause
+PE10.008143-JPC
+.
+Elle considère :
+E n  f a i t :
+A.
+Par ordonnance du 20 décembre 2010, le Juge d'instruction de l'arrondissement de Lausanne, actuel
+procureur du Ministère public de l'arrondissement de Lausanne, a renvoyé C.________, né
+le 5 juin 1970, devant le Tribunal correctionnel de l'arrondissement de Lausanne sous les chefs d'accusation
+d'actes d'ordre sexuel avec des enfants, d'actes d'ordre sexuel commis sur une personne incapable de
+discernement ou de résistance, subsidiairement de contrainte sexuelle, de tentative d'instigation
+à actes d'ordre sexuel avec des enfants, de tentative d'instigation à actes d'ordre sexuel
+commis sur une personne incapable de discernement ou de résistance, subsidiairement de tentative
+d'instigation à contrainte sexuelle.
+Il est notamment reproché à C.________ d'avoir commis à son domicile, durant une période
+comprise entre 2007 et le 9 avril 2010, des attouchements sur sa filleule V.________, née le 21
+janvier 2002, la caressant, tantôt par-dessus ses vêtements, tantôt à même la
+peau, sur le dos, les fesses et l'arrière des cuisses et l'entraînant à plusieurs reprises
+à le masturber. Il est également accusé de s'être masturbé devant elle jusqu'à
+éjaculation dans le lavabo d'une salle de bains d'une chambre d'hôtel à Zurich. Enfin,
+sur MSN, le 7 avril 2010, il aurait proposé à son interlocuteur d'organiser une rencontre avec
+la prénommée dans un endroit isolé et de se livrer avec lui à des actes d'ordre sexuel
+sur l'enfant.
+Dans un procès-verbal d'audition du 4 octobre
+2010, l'intéressé a reconnu avoir demandé à sa filleule de le masturber à deux
+ou trois reprises au maximum, et avoir éjaculé en sa présence à une reprise dans
+le lavabo et une autre fois sur le sol de la douche. Il a également admis avoir parlé de la
+fillette en des termes crus avec un internaute (PV aud. 10).
+B.
+Dans le cadre de cette affaire, C.________ est en détention préventive depuis le 10 avril 2010.
+Une expertise psychiatrique a été ordonnée. Autant que de besoin, on se référera,
+dans la partie droit, aux conclusions du rapport que les experts commis ont déposé le 9 septembre
+2010 (P. 61/1).
+C.
+Le 4 janvier 2011, C.________, par son conseil, a adressé à la direction de la procédure
+du Tribunal correctionnel de l'arrondissement de Lausanne une demande écrite de libération
+de la détention pour des motifs de sûreté (cf. art. 230 al. 1 et 2 CPP). Il a notamment
+exposé qu'il disposait d'un logement dans la villa jumelée à celle de ses parents et que
+son père était d'accord de continuer à l'employer; au surplus, ses parents s'étaient
+déclarés d'accord de l'accueillir et d'exercer un contrôle sur lui; enfin, il était
+disposé à consulter, dès sa mise en liberté, l'un des psychiatres qui avaient été
+abordés par son conseil, et était prêt à prendre l'engagement de s'abstenir de tout
+contact avec V.________ et les parents de celle-ci et il consentait à fréquenter un hôpital
+de jour qui lui serait conseillé par le psychiatre consulté.
+D.
+Le 6 janvier 2011, le Président du Tribunal correctionnel de l'arrondissement de Lausanne a transmis
+cette demande au Tribunal des mesures de contrainte (art. 230 al. 3 CPP), avec une détermination
+du 5 janvier 2011, aux termes de laquelle il requérait le maintien de C.________ en détention,
+au motif de « risque de récidive élevé, selon expertise psychiatrique».
+Par lettre du 7 janvier 2011, le Procureur du Ministère public de l'arrondissement de Lausanne a
+déclaré adhérer au maintien de l'intéressé en détention.
+La détermination de la direction de la procédure a été notifiée au prévenu
+et à son défenseur (cf. art. 228 al. 3 et 230 al. 5 CPP) en date du 6 janvier 2011, avec un
+délai de réplique de trois jours, une audience étant fixée au 11 janvier 2011.
+E.
+Par ordonnance du 13 janvier 2011, le Tribunal des mesures de contrainte a refusé d'ordonner la
+libération de la détention pour des motifs de sûreté de C.________ et a dit que les
+frais de sa décision, par 450 fr., suivaient le sort de la cause. Il a considéré que les
+actes incriminés étaient graves, que l'expertise psychiatrique mettait en évidence un
+risque de récidive important et que l'on ne pouvait admettre, avec le prévenu, que l'ordre
+public pourrait être sauvegardé par d'autres moyens moins contraignants.
+F.
+Par acte du 24 janvier 2011, posté le même jour, C.________ a recouru contre cette ordonnance
+auprès de la Chambre des recours pénale du Tribunal cantonal. Il conclut, avec suite de frais
+et dépens, principalement à la réforme de cette ordonnance en ce sens qu'il est répondu
+favorablement à sa demande de libération de détention pour des motifs de sûreté
+et ordonné, en lieu et place de cette mesure de contrainte, toute mesure de substitution indiquée
+par les circonstances; à titre subsidiaire, il conclut à l'annulation de l'ordonnance, la cause
+étant renvoyée au Tribunal des mesures de contrainte pour nouvelle décision dans le sens
+des considérants.
+E n  d r o i t :
+1.
+a) Aux termes de l’art.
+393 al. 1 let. c CPP, le recours est recevable contre les décisions du tribunal des mesures de contrainte
+dans les cas prévus par le code. L’art. 222 CPP prévoit que le détenu peut attaquer
+devant l’autorité de recours les décisions ordonnant une mise en détention provisoire
+ou une mise en détention pour des motifs de sûreté ou encore la prolongation ou le terme
+de cette détention. Nonobstant la formulation peu claire de cette disposition, il y a lieu d’admettre
+que le détenu peut notamment attaquer devant l’autorité de recours une décision
+du tribunal des mesures de contrainte refusant la libération de la détention pour des motifs
+de sûreté durant la procédure de première instance, au sens de l’art. 230 al.
+3 ou 4 CPP (Forster, in Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische Strafprozessordnung,
+2011, n. 3 ad art. 222 CPP ; cf. Schmocker, in Kuhn/Jeanneret (éd.), Commentaire romand, Code
+de procédure pénale suisse, 2011, n. 6 ad art. 222 CPP ; Hug, in Donatsch/Hansjakob/Lieber
+(éd.), Kommentar zur Schweizerischen Strafprozessordnung, 2010, n. 2 ad art. 222 CPP). Le recours
+doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP), qui dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP, RSV 312.01 ; art. 80 LOJV, RSV 173.01).
+b) En l’espèce, il y a donc lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente et qui satisfait aux conditions
+de forme posées par l’art. 385 al. 1 CPP.
+2.
+a) L’art. 212 CPP
+pose le principe que le prévenu reste en liberté ; il ne peut être soumis à
+des mesures de contrainte entraînant une privation de liberté que dans les limites des dispositions
+du code (al. 1) ; les mesures de contrainte entraînant une privation de liberté doivent
+être levées dès que (a) les conditions de leur application ne sont plus remplies, (b)
+la durée prévue par le code ou fixée par un tribunal est expirée ou (c) des mesures
+de substitution permettent d’atteindre le même but (al. 2) ; la détention provisoire
+et la détention pour des motifs de sûreté ne doivent pas durer plus longtemps que la peine
+privative de liberté prévisible (al. 3).
+b) Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour motifs de
+sûreté – la première s’achevant, tandis que la seconde commence, lorsque l’acte
+d’accusation est notifié au tribunal de première instance (art. 220 al. 1 et 2 CPP) –
+ne peut être ordonnée que lorsque le prévenu est fortement soupçonné d’avoir
+commis un crime ou un délit et qu’il y a sérieusement lieu de craindre (a) qu’il
+se soustraie à la procédure pénale ou à la sanction prévisible en prenant la
+fuite, (b) qu’il compromette la recherche de la vérité en exerçant une influence
+sur des personnes ou en altérant des moyens de preuve ou (c) qu’il compromette sérieusement
+la sécurité d’autrui par des crimes ou des délits graves après avoir déjà
+commis des infractions du même genre.
+c) S’agissant des mesures de substitution (art. 212 al. 1 let. c CPP), l’art. 237 al. 1 CPP
+dispose que le tribunal compétent ordonne une ou plusieurs mesures moins sévères en lieu
+et place de la détention provisoire ou de la détention pour des motifs de sûreté
+si ces mesures permettent d’atteindre le même but que la détention. Selon l’art.
+237 al. 1 CPP, font notamment partie des mesures de substitution: (a) la fourniture de sûretés;
+(b) la saisie des documents d’identité et autres documents officiels; (c) l’assignation
+à résidence ou l’interdiction de se rendre dans un certain lieu ou un certain immeuble;
+(d) l’obligation de se présenter régulièrement à un service administratif;
+(e) l’obligation d’avoir un travail régulier; (f) l’obligation de se soumettre
+à un traitement médical ou à des contrôles; (g) l’interdiction d’entretenir
+des relations avec certaines personnes. Pour surveiller l’exécution de ces mesures, le tribunal
+peut ordonner l’utilisation d’appareils techniques qui peuvent être fixés à
+la personne sous surveillance (art. 237 al. 3 CPP).
+3.
+a) En l’espèce,
+le recourant ne conteste pas l’existence de charges suffisantes à son encontre (cf. art. 221
+al. 1 CPP), ni ne soutient que la détention pour des motifs de sûreté devrait être
+levée parce que la durée de la détention provisoire respectivement pour des motifs de
+sûreté déjà subie s’approcherait de celle de la peine privative de liberté
+prévisible (cf. art. 212 al. 3 CPP). Il conteste en revanche l’existence d’un risque
+concret de récidive (cf. art. 221 al. 1 let. c CPP) et soutient que des mesures de substitution
+seraient suffisantes pour parer à ce risque (cf. art. 237 al. 1 CPP).
+b) Comme on l’a vu (cf. consid. 2b supra), il ressort de l’art. 221 al. 1 let. c CPP que
+le maintien en détention pour des motifs de sûreté se justifie notamment lorsqu’il
+y a sérieusement lieu de craindre que le prévenu compromette sérieusement la sécurité
+d’autrui par des crimes ou des délits graves après avoir déjà commis des infractions
+du même genre. Par infractions du même genre déjà commises, il faut entendre non
+seulement des infractions déjà jugées, mais également des infractions pour lesquelles
+une procédure pénale est en cours (TF 1B_216/2007 du 11 octobre 2007, c. 3.2 ; TF 1P.462/2003
+du 10 septembre 2003, c. 3.3.1 ; Schmocker, op. cit., n. 18 ad art. 221 CPP).
+Le maintien en détention provisoire respectivement pour des motifs de sûreté se justifie
+s'il y a lieu de présumer, avec une certaine vraisemblance, qu'il existe un danger de récidive.
+Selon la jurisprudence du Tribunal fédéral, il convient de faire preuve de retenue dans l'appréciation
+d'un tel risque : le maintien en détention ne peut se justifier pour ce motif que si le pronostic
+est très défavorable et que les délits dont l'autorité redoute la réitération
+sont graves (ATF 133 I 270 c. 2.2; ATF 125 I 60 c. 3a); la jurisprudence se montre toutefois moins stricte
+dans l'exigence de la vraisemblance lorsqu'il s'agit de délits de violence graves ou de délits
+sexuels, car le risque à faire courir aux victimes potentielles est alors considéré comme
+trop important; en pareil cas, il y a lieu de tenir compte de l'état psychique du prévenu,
+de son imprévisibilité ou de son agressivité (TF 1B_220/2008 du 26 août 2008 c. 4.1
+et les arrêts cités).
+c) En l'espèce, quand bien même il existe à ce stade une divergence entre les faits de
+l’ordonnance de renvoi et ceux que le prévenu reconnaît, les seuls actes reconnus par
+le prévenu représentent déjà une grave atteinte à l’intégrité
+sexuelle d’une jeune enfant.
+Par ailleurs, dans leur rapport d’expertise psychiatrique du 9 septembre 2010, les experts mandatés
+dans le cadre de l’instruction de la cause ont retenu les diagnostics psychiatriques de trouble
+schizotypique (F21 selon la CIM-10) et de probable pédophilie (F65.4 selon la CIM-10), en expliquant
+que «les propos tenus sur le tchat, ainsi que les actes en eux-mêmes, vont dans le sens de
+la pédophilie, alors que son discours non» et que «dans ce contexte, la présence
+d’une pédophilie débutante et/ou déniée par l’expertisé est probable» ;
+ils ont ajouté que «la discordance mentionnée plus haut, le fait qu’il [C.________]
+se sente étranger à ses actes, qu’il n’arrive aucunement à les expliquer,
+ni à comprendre ce qui s’est passé, nous laisse penser que le risque de récidive
+est élevé», si bien qu’ «[i]l existe un risque important qu’il [C.________]
+commette de nouvelles infractions de nature identique».
+Dans ces circonstances, force est de constater, à l’instar du Tribunal des mesures de contrainte,
+qu’il existe un risque sérieux que le recourant ne commette à nouveau des infractions
+graves à l’intégrité sexuelle de jeunes enfants, ce qui justifie le maintien de
+la détention pour des motifs de sécurité, car le risque à faire courir aux victimes
+potentielles en cas de remise en liberté doit être considéré comme trop important.
+On ne saurait donc retenir, comme le fait le recourant, que le maintien de la détention pour des
+motifs de sécurité ne se justifie pas «compte tenu de l’absence d’antécédents
+et du peu d’éléments permettant au médecin de se déterminer sur le risque de
+récidive du recourant».
+d) Comme on l’a vu (cf. consid. 2c supra), il ressort de l’art. 237 al. 1 CPP que le tribunal
+compétent ordonne des mesures de substitution en lieu et place de la détention provisoire ou
+de la détention pour des motifs de sûreté si ces mesures permettent d’atteindre
+le même but que la détention.
+En l’espèce, il n’apparaît pas que les mesures de substitution proposées par
+le recourant dans sa demande de libération du 4 janvier 2011 (cf. lettre C supra) permettraient
+d’atteindre le même but de protection de la sécurité d’autrui que la détention
+pour des motifs de sûreté. En effet, comme le relève à raison le Tribunal des mesures
+de contrainte dans l’ordonnance attaquée, le recourant avait, au moment des actes qui lui
+sont reprochés, les mêmes conditions de logement et la même activité professionnelle
+que celles qu’il propose ; en outre, à supposer qu’ils disposent réellement
+des moyens pour l’assurer, on ne peut faire peser sur les parents du recourant la responsabilité
+d’un contrôle social censé prévenir la réitération d’actes de même
+nature ; au surplus, vu l’avis des experts selon lequel il est difficile d’estimer actuellement
+les chances de succès d’un traitement psychiatrique ambulatoire en raison de l’absence
+de conscience morbide chez l’expertisé, et par là d’affirmer qu’un tel traitement
+pourrait diminuer le risque de récidive, il n’apparaît pas qu’une telle mesure
+serait susceptible d’atteindre le même but que la détention. Enfin, la surveillance par
+bracelet électronique que C.________ propose dans son recours pour le cas où la cour de céans
+considérerait que toutes les mesures proposées ne devaient pas suffire à atteindre le
+même but que la détention ne constitue pas une mesure de substitution, mais un mode de surveillance
+de l’exécution de telles mesures (art. 237 al. 3 CPP), dont l’exécution n’apparaît
+en l’espèce pas susceptible de garantir suffisamment la sécurité d’autrui.
+4.
+Il résulte de ce
+qui précède que le recours doit être rejeté. Les frais de la procédure, constitués
+en l’espèce du seul émolument d'arrêt, en l’absence de débours (art.
+422 al. 1 CPP), doivent être fixés à 880 francs (art. 20 al. 1 TFJP; RSV 312.03.1) ;
+ils seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Dit que les frais de la procédure de recours,
+par 880 fr. (huit cent huitante francs), sont mis à la charge de C.________.
+IV.
+Déclare la présente décision exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Philippe Chaulmontet, avocat (pour C.________),
+-
+M. le Procureur général du canton de Vaud.
+et communiquée à :
+‑
+Tribunal des mesures de contrainte (SPG).
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
