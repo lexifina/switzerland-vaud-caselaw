@@ -1,0 +1,451 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2011___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2011 / 7"
+decided: "2011-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2538986"
+cites_law: ["switzerland/bund/acts/220/art-319.md", "switzerland/bund/acts/220/art-344.md", "switzerland/bund/acts/220/art-418a.md", "switzerland/bund/acts/220/art-418u.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-009.md", "switzerland/bund/acts/272/art-021.md", "switzerland/bund/acts/272/art-024.md", "switzerland/bund/acts/272/art-034.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-061.md", "switzerland/bund/acts/272/art-063.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/272/art-406.md"]
+---
+
+# VD Findinfo Jug-inc / 2011 / 7
+
+## Regeste
+
+ATTRACTION DE COMPÉTENCE, PROROGATION DE FOR, CONTRAT D'AGENCE, CONTRAT DE TRAVAIL, COMPÉTENCE | 147 CPC, 17 CPC, 58 al. 1 CPC, 58 al. 2 CPC, 59 al. 1 CPC, 61 al. 1 CPC, 91 CPC, 92 al. 1 CPC, 147 CPP, 21 LFors, 24 LFors, 5 LFors, 9 al. 1 LFors, 2 al. 1 TAv, 404 CPC (CH), 406 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 03.02.2011 Jug-inc / 2011 / 7
+
+ATTRACTION DE COMPÉTENCE, PROROGATION DE FOR, CONTRAT D'AGENCE, CONTRAT DE TRAVAIL, COMPÉTENCE | 147 CPC, 17 CPC, 58 al. 1 CPC, 58 al. 2 CPC, 59 al. 1 CPC, 61 al. 1 CPC, 91 CPC, 92 al. 1 CPC, 147 CPP, 21 LFors, 24 LFors, 5 LFors, 9 al. 1 LFors, 2 al. 1 TAv, 404 CPC (CH), 406 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CO10.020797
+13/2011/FAB
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+A.________
+SA
+,
+à [...], d'avec
+R.________
+,
+à [...].
+___________________________________________________________________
+Du
+27 janvier 2011
+__________________
+Présidence
+de               Mme
+Byrde
+,
+juge instructeur
+Greffier
+:              M.
+Greuter
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait :
+1.
+Le 18 juin 1997, le demandeur R.________, domicilié ce jour à [...], a signé un contrat
+d'agence générale indépendante avec O.________, prenant effet le 1
+er
+juillet 1997. Le demandeur y était engagé en qualité d'agent général indépendant
+pour l'acquisition de contrats d'assurance dans toutes les branches d'activité exercées par
+O.________ ; le contrat prévoyait le droit à une indemnité de clientèle selon
+l'art. 418u CO (Code des obligations du 30 mars 1911; RS 220). L'agence indépendante du demandeur
+était située à [...].
+Peu de temps après, O.________ a modifié sa raison sociale en Y.________. En mai 2007, K.________
+a repris les actifs et passifs de Y.________ par contrat de fusion. La société reprenante a
+ensuite modifié sa raison sociale en A.________ SA. Cette dernière, la défenderesse,
+a son siège à [...].
+Suite à cette reprise, le demandeur et la défenderesse ont signé, les 18 et 24 septembre
+2008, une "convention transitoire" prévoyant, en substance, que les parties concluraient
+avant fin septembre 2008 un contrat d'agence principale qui prendrait effet le 1
+er
+janvier 2009 et qu'en parallèle, le contrat d'agence du 18 juin 1997 et ses avenants prendraient
+fin au 31 décembre 2008 ; le chiffre 10 de cette convention dispose qu'en contrepartie et en
+vue de la poursuite de la collaboration, le demandeur percevra une indemnité forfaitaire de 463'379
+fr., dont les deux tiers sont payables à l'entrée en vigueur du futur contrat ; quant
+au tiers restant, il est payable en cinq acomptes annuels, étant précisé qu'en cas de
+résiliation par l'une ou l'autre des parties dans les cinq ans qui suivent l'entrée en vigueur
+du contrat, les acomptes non encore échus ne sont pas dus ; vu les prestations octroyées
+par la défenderesse, la convention mentionnait, à son chiffre 16, que le demandeur renonçait
+à une éventuelle indemnité pour la clientèle au sens de l'art. 418u CO ; à
+son (dernier) chiffre 19, elle mentionnait enfin que "Le for applicable pour les éventuels
+litiges résultant de la présente convention est à [...]".
+2.
+En exécution de cette convention, les parties ont signé, les 17 juin et 29 septembre 2008,
+un nouveau contrat d'agence principale avec la défenderesse, prenant effet le 1
+er
+janvier 2009, destiné à fixer pour l'avenir les nouveaux rapports contractuels entre les parties.
+A son chiffre 24.8, ce contrat prévoit que le droit suisse, en particulier les art. 418a ss CO sont
+applicables et, à son (dernier) chiffre 24.9, que "le for applicable pour tout les litiges
+qui découlant du présent contrat est le for de la Société".
+Dans le courant de l'année 2009, des dissensions sont survenues entre parties. Par courrier du 13
+septembre 2009, la défenderesse a résilié le contrat d'agence principale qui la liait
+au demandeur avec effet au 31 décembre 2009, soulevant un certain nombre de griefs tous contestés
+par l'intéressé. Le demandeur a apposé sa signature sur la résiliation, pour accuser
+réception du congé, selon lui, pour accepter le congé, selon la défenderesse.
+3.
+Quoi qu'il en soit, T.________, agent général indépendant de [...], a proposé au
+demandeur de l'engager, par contrat de travail, en qualité de conseiller en assurances. Le 28 novembre
+2009, le demandeur a signé un tel contrat. Le 28 janvier 2010, T.________ a cependant déclaré
+y mettre fin avec effet au 28 février 2010.
+4.
+Le 29 juin 2010, R.________ a déposé
+une demande devant la Cour civile du Tribunal cantonal à l'encontre de A.________ SA, tendant au
+paiement par cette dernière des sommes suivantes :
+-
+122'023 fr. avec intérêt à 5 % l'an dès le 1
+er
+janvier 2010,
+-
+191'925 fr. avec intérêt à 5 % l'an dès le 1
+er
+janvier 2010,
+-
+100'00 (sic) fr. (recte : 100'000 fr.) avec intérêt à 5 % l'an dès le 24 février
+2010.
+5.
+Dans le délai de réponse, la défenderesse a déposé une requête incidente,
+tendant au prononcé du déclinatoire (I) et à l'éconduction du demandeur de son instance
+(II). Elle a renoncé à déposer un mémoire incident. Le 2 décembre 2010, l'intimé
+a déposé un tel mémoire.
+En droit :
+I.
+La présente procédure, qui était en cours lors de l'entrée en vigueur le 1
+er
+janvier 2011 du Code de procédure civile du 19 décembre 2008 (CPC ; RS 272), reste régie
+par l'ancien droit de procédure, soit notamment par le Code de procédure civile du canton de
+Vaud du 14 décembre 1966 (art. 404 al. 1 CPC). La compétence à raison du lieu est cependant
+régie par le nouveau droit ; toutefois, la compétence conférée par l'ancien
+droit reste maintenue (art. 404 al. 2 CPC). La validité d'une clause d'élection de for est
+déterminée selon le droit en vigueur au moment de son adoption (art. 406 CPC).
+Déposée dans le délai de réponse, avant toute défense au fond et avant toute
+exception de procédure, et respectant les exigences de la forme incidente, la requête de déclinatoire
+est recevable (art. 17, 58 al. 1 et 2 et 59 al. 1 et 147 CPC-VD [Code de procédure civile du canton
+de Vaud du 14 décembre 1966 ; RSV 270.11]).
+II.
+a)
+La requérante A.________ SA, défenderesse
+au fond, soulève le déclinatoire au motif que, selon les allégués de la demande,
+les trois prétentions de l'intimé, demandeur au fond, découlent uniquement du contrat
+d'agence du 29 septembre 2009 (all. 30 et 31, 57 à 61 de la requête incidente) ;
+or, le for prévu par ce contrat pour les litiges qui surviennent dans le cadre de son exécution
+est à son siège, soit à [...] (all. 32) ; ce for serait valable (all. 33 à 38) ;
+par conséquent, la Cour civile du Tribunal cantonal du canton de Vaud ne serait pas compétente
+(all. 40).
+L'intimé conteste ce point de vue. Dans son mémoire incident, il invoque, principalement, que
+"les parties étaient liées par un contrat de travail, dès le mois de septembre 2008"
+(all. 140) et que les prétentions qu'il fait valoir sont liées – à tout le moins
+pour la plus grande partie d'entre elles – à un tel contrat (all. 153 ; mémoire,
+p. 29) ; les contrats conclus entre les parties intégreraient en effet un rapport de subordination
+(all. 138) et l'attitude de la requérante le démontrerait clairement (all. 141) ; les
+rapports contractuels contiendraient plus particulièrement tous les éléments constitutifs
+du contrat d'engagement des voyageurs de commerce (all. 141 bis) ; or, l'art. 24 al. 1 aLFors (loi
+fédérale sur les fors en matière civile du 24 mars 2000; RO 2000 2355) prévoit
+un for impératif en matière de contrat de travail, notamment au lieu où le travailleur
+accomplit son travail ; comme le lieu d'accomplissement habituel du travail de l'intimé se
+situait à [...], ou dans la région de [...] (all. 149 et 150), et que les parties ne pouvaient
+valablement déroger par avance à ce for, la Cour civile serait compétente "
+ratione
+loci
+". Subsidiairement, l'intimé fait
+valoir que la requérante disposerait d'une succursale à [...] (all. 150), qui serait inscrite
+au registre du commerce du canton de Vaud depuis le [...] 2007 à Vevey, sous la raison sociale "
+A.________ Agence générale T.________" (mémoire, p. 27) ; il y aurait ainsi
+également un for au lieu de la succursale de la requérante (art. 5 et 24 al. 1 aLFors), qui
+fonderait aussi la compétence de la Cour civile.
+b)
+Conformément aux dispositions transitoires
+mentionnées au considérant qui précède, il s'agit d'examiner si la compétence
+de la Cour civile à raison du lieu est donnée selon l'ancien droit et, en particulier, au regard
+de la aLFors (cf. infra considérants III à V), ou selon le nouveau droit.
+III.
+a)
+Selon l'art. 24 al. 1 aLFors, les actions fondées
+sur le droit du travail sont de la compétence du tribunal du domicile ou du siège du défendeur
+ou le tribunal du lieu où le travailleur accomplit habituellement son travail. La notion d'"actions
+fondées sur le droit du travail" ("arbeitliche Klagen" ou "azioni in materia
+di diritto del lavoro") doit être comprise au sens large. Il faut ranger sous cette notion
+l'ensemble des actions relatives à des prétentions qui se fondent sur les règles qui sont
+applicables au contrat de travail (TF 4P.18/1999 du 22 mars 1999 c. 2c, publié in : JAR 2000, p.
+390 ; Marianne Hristic, Zwingende und Teilzwingende Gerichtsstände, thèse 2002, p. 119 ;
+Balz Gross, in : Müller/Wirth (éd.), Kommentar zum Bundesgesetz über den Gerichtsstand
+in Zivilsachen, 2001, n. 29 ad art. 24 LFors). Parmi celles-ci, il y a les actions relatives
+aux prétentions qui sont fondées sur le contrat individuel de travail des art. 319 ss CO ainsi
+que sur le contrat d'apprentissage, le contrat d'engagement des voyageurs de commerce et le contrat de
+travail à domicile des art. 344 ss CO (Gross, op. cit., n. 31 et 35 ad art. 24 LFors ; Fridolin
+Walther, in : Kellerhals et alii (éd.), Gerichtsstandgesetz, Kommentar zum Bundesgesetz über
+den Gerichtsstand in Zivilsachen, 2
+e
+éd. 2005, n. 6 ad art. 24 LFors ;
+Yves Donzallaz, Commentaire de la loi fédérale sur les fors en matière civile, 2001, n.
+6 ad art. 24 LFors ; Noëlle Kaiser Job, in : Spühler et alii (éd.), Basler Kommentar
+zum Schweizerischen Zivilprozessrecht,  Bundesgesetz über den Gerichtsstand in Zivilsachen,
+2001, n. 8 ad art. 24 LFors). S'y ajoutent également les actions fondées sur les règles
+des lois spéciales qui concernent le contrat individuel de travail et qui confèrent aux parties
+des prétentions pouvant être mises en œuvre procéduralement, comme par exemple celles
+découlant de la loi fédérale du 24 mars 1995 sur l'égalité (RS 151) ou de la
+loi du 17 décembre 1993 sur la participation (RS 822.14; cf. Gross, op. cit., n. 31 ad art.
+24 LFors ; message du 18 novembre 1998 concernant la loi fédérale sur les fors en matière
+civile, FF 1999 2591 ss, spéc. 2624). D'après la jurisprudence rendue à propos de
+l'art. 343 al. 1 aCO (RO 1971 1461) – qui est la norme qui a servi de point de départ
+à l'art. 24 aLFors (cf. message précité, p. 2862) –, il y a un litige, respectivement
+une action, en matière de droit du travail déjà lorsque la controverse porte sur l'existence
+d'un contrat de travail entre les parties (TF 4P.18/1999 du 22 mars 1999 c. 2c, publié in :
+JAR 2000, p. 390 ; Spühler/Vock, Gerichtsstandgesetz, 2000, n. 1 ad art. 24 LFors).
+b)
+En vertu d'un principe général de
+procédure, pour juger de la question de la compétence, il faut se baser en premier lieu sur
+la prétention du demandeur et sur son fondement. La compétence du tribunal dépend de la
+question qui est posée dans le procès au fond, mais pas de sa réponse, laquelle ne sera
+fournie que dans ce procès (TF 4A_461/2010 du 22 novembre 2010 c. 2.2 (publication aux ATF prévue) ;
+TF 4P.18/1999 du 22 mars c. 2c, publié in : JAR 2000, p. 390). S'agissant de l'appréciation
+juridique des faits allégués dans la demande, le tribunal n'est cependant pas lié par
+l'argumentation du demandeur (TF 4P.104/2006 du 25 septembre 2006 c. 2.3). Si la compétence dépend
+du point de savoir si les prétentions déduites en justice découlent d'un contrat de travail,
+respectivement d'un contrat d'engagement des voyageurs de commerce, les faits allégués dans
+la demande ne doivent être examinés d'office, dans le cadre de l'examen de la compétence,
+que dans la mesure où on peut en déduire l'existence d'un tel contrat. Si une telle qualification
+juridique apparaît exclue, il n'y a pas lieu d'entrer en matière sur l'action (TF 4A_461/2010
+22 novembre 2010 c. 2.2).
+Les faits allégués par le demandeur
+qui sont déterminants non seulement pour la compétence, mais aussi pour le bien-fondé
+de l'action (appelés faits doublement pertinents) doivent, pour le jugement de la compétence,
+être présumés exacts. Ils ne seront instruits qu'au moment de l'examen du bien-fondé
+de l'action au fond ; les objections que la partie intimée ferait valoir sur ce point dans
+le cadre de l'examen de la compétence ne sont pas recevables (TF 4A_461/2010 du 22 novembre
+2010 c. 2.2 ; TF 4A_293/2010 du 31 août 2010 c. 4 [publication aux ATF prévue] ;
+ATF 134 III 27 c. 6.2.1 ; ATF 133 III 295 c. 6.2 ; ATF 122 III 249 c. 3b/bb, JdT 1997
+I 25). Il n'y a d'exception que lorsque la présentation des faits figurant dans la demande apparaît
+d'emblée comme spécieuse ou incohérente et qu'elle peut être réfutée immédiatement
+et sans équivoque par la réponse et les pièces déposée par la partie adverse
+(TF 4A_461/2010 du 22 novembre 2010 c. 2.2 ; TF 4A_293/2010 du 31 août 2010 c. 4).
+En revanche, s'ils sont contestés par l'autre partie, les faits qui ne sont utiles que pour la compétence
+du tribunal saisi et non pour le bien-fondé de la prétention déduite en justice (appelés
+faits fondant la compétence ou faits simplement pertinents) doivent être prouvés (TF 4A_461/2010
+du 22 novembre 2010 c. 2.2 ; ATF 122 III 249 c. 3b/cc, JdT 1997 I 25 ; TF 4C.73/2000 du 22
+juin 2000, c. 2b).
+A l'art. 24 al. 1 aLFors, les faits qui permettent de conclure à l'existence d'un rapport de travail
+sont doublement pertinents. Sont simplement pertinents ceux relatifs au lieu, comme par exemple le domicile
+ou le siège du défendeur ou le lieu d'accomplissement habituel du travail (André Bloch,
+Die Prüfung der örtlichen Zuständigkeit von Amtes wegen und die Folgen bei örtlicher
+Unzuständigkeit gemäss Art. 34 GestG, thèse 2003, p. 93).
+c)
+En l'espèce, au vu de ce qui précède,
+il convient en premier lieu d'examiner le fondement des trois prétentions émises par l'intimé
+dans sa demande du 29 juin 2010, exclusivement au regard de ce que celui-ci a allégué dans
+sa demande.
+aa)
+L'intimé conclut d'abord au paiement
+d'un montant de 122'023 francs. Il allègue dans sa demande que ce montant représente le dernier
+tiers d'une "indemnité forfaitaire de Fr. 463'379.-" promise par la requérante dans
+la convention transitoire signée par les parties les 18 et 24 septembre 2008 (all. 19 et 27). S'agissant
+du fondement de cette indemnité, l'intimé allègue expressément, sans ambiguïté,
+qu'il s'agit d'une indemnité de clientèle au sens de l'art. 418u CO (all. 20 : "Ce
+montant correspond en fait au montant de l'indemnité de clientèle de l'art. 418u CO" ;
+all. 26 "Cela démontre bien que le versement intervenu l'est à titre d'indemnité
+de clientèle" ; all. 97 : "… le montant de Fr. 463'379.- prévu dans
+la convention transitoire des 18 et 24 septembre 2008 est bien une … indemnité de clientèle" ;
+all. 98 : "Les dispositions relatives au paiement d'indemnité de clientèle sont
+de droit impératif"). Or, l'art. 418u CO fait partie des dispositions des art. 418a à
+418v CO consacrées au contrat d'agence.
+bb)
+L'intimé conclut ensuite au paiement
+d'un montant de 191'125 francs. Il allègue dans sa demande que ce montant correspond au manque à
+gagner qu'il a subi durant l'année 2009 (all. 72), alors que les parties étaient liées
+par le "contrat d'agence principale" signé par lui le 18 septembre 2008 (all. 28), "contrat
+d'agence principale" auquel la requérante a mis fin le 13 septembre 2009 pour le 31 décembre
+2009 (all. 69). L'intimé déduit ce manque à gagner par comparaison des exercices 2008
+et 2009 (all. 73). Il l'impute à l'attitude de la défenderesse, notamment à la complexité
+de ses procédures, au harcèlement de ses cadres et à sa désorganisation (all. 72
+et 73). L'intimé n'allègue pas dans sa demande, s'agissant de cette prétention, qu'elle
+découlerait d'un contrat de travail, en particulier que la requérante aurait violé son
+obligation de respecter la santé du travailleur. En outre, il établit un lien entre 2009 et
+les revenus qu'il a acquis en 2008, année durant laquelle il était sous l'empire du contrat
+d'agence principale conclu en 1997, dont il n'est pas allégué qu'il s'agirait aussi d'un contrat
+de travail ; c'est dire que, dans l'esprit de l'intimé, il existait une continuité dans
+son statut entre 2008 et 2009.
+cc)
+Enfin, l'intimé conclut au paiement d'un
+montant de 100'000 fr. à titre de tort moral. Le comportement incriminé est celui adopté
+par la requérante vis-à-vis de lui en 2009 (all. 72 et 74) ainsi que celui de ses cadres (harcèlement,
+désorganisation, etc.) (all. 73 et 103). Il allègue que des conséquences médicales
+en sont résultées – un burn out –, apparues en septembre 2009 (all. 74 à 78).
+De fait, à la lecture de la demande, on comprend que l'intimé n'envisage une modification de
+son statut qu'au 1
+er
+janvier 2010, début du contrat de travail qu'il a signé avec l'agent général T.________
+(all. 79 : "Ayant perdu le contrat d'agence principale, le demandeur a été contraint
+de signer un contrat de travail pour conseiller en assurances avec l'agent général T.________" ;
+all. 80 : "Le demandeur a ainsi été contraint à redevenir salarié" ;
+all. 83 : "La défenderesse a voulu lui faire signer qu'il avait lui-même dénoncé
+son contrat d'agence principale, ce qui est contraire à la vérité" ; all. 84 :
+"La défenderesse a tenté d'imposer un contrat de travail d'un minimum de 24 mois" ;
+all. 87 : "Par courrier du 28 janvier 2010, la défenderesse a résilié le contrat
+de travail avec effet au 30 avril 2010" ; all. 93 : " T.________ et le demandeur
+ont signé une convention le 15 février 2010 mettant fin aux rapports de travail").
+En résumé, l'intimé ne se prévaut dans sa demande de l'existence d'un contrat de
+travail que dès le 1
+er
+janvier 2010. Or, aucune de ses trois prétentions ne découle de ce contrat de travail. En outre,
+selon les allégués de la demande, le bien-fondé des deux premières prétentions
+– contractuelles – ne dépend pas du point de savoir si le contrat en cause est un contrat
+de travail. Quant à la troisième prétention, elle a un fondement délictuel. Il s'ensuit
+qu'il est douteux que l'existence d'un contrat de travail soit un fait doublement pertinent, au sens
+défini par la jurisprudence susmentionnée.
+Quoi qu'il en soit, à supposer qu'il s'agisse d'un fait doublement pertinent, il faudrait constater
+que, même si les allégués de la demande relatifs aux contrats d'agence successivement
+conclus, puis au contrat de travail qui leur a succédé, étaient exacts, ils ne permettraient
+pas de conclure que les prétentions litigieuses relèvent d'un contrat de travail ou d'un contrat
+apparenté visé à l'art. 24 aLFors. Dans cette mesure, conformément à
+la jurisprudence rappelée ci-dessus, il n'est pas nécessaire d'examiner les objections que
+l'intimé développe dans son mémoire ; le fait que celui-ci y prenne, s'agissant de
+la qualification juridique des relations entre parties en 2009, le contre-pied de ce qu'il a allégué
+dans sa demande, est ainsi sans incidence.
+En conclusion, les prétentions litigieuses ne sont pas soumises aux fors partiellement impératifs
+de l'art. 24 aLFors.
+IV.
+a)
+La requérante soutient que la Cour civile
+est incompétente en vertu des clauses d'élection de for en faveur des tribunaux de [...] figurant
+au chiffre 19 de la convention transitoire des 18 et 24 septembre 2008 et au chiffre 24.9 du contrat
+d'agence principale des 17 juin et 29 septembre 2008.
+b)
+Selon l'art. 9 al. 1 aLFors, sauf disposition
+légale contraire, les parties peuvent convenir d'un tribunal appelé à trancher un différend
+présent ou à venir résultant d'un rapport de droit déterminé. Sauf disposition
+conventionnelle contraire, l'action ne peut être intentée que devant le tribunal choisi. Cet
+alinéa premier réserve les dispositions légales contraires, soit d'une part les fors impératifs
+(cf. art. 2, 13 à 17, 27, 32 et 33 aLFors) qui excluent toute prorogation et, d'autre part, les
+fors partiellement impératifs (art. 21 aLFors) qui ne peuvent être prorogés qu'après
+la naissance de différends (Poudret/Haldy/Tappy, Commentaire de la LFors, in Procédure civile
+vaudoise, 3
+e
+éd. 2002, n. 1 ad art. 9 LFors ; Donzallaz, op. cit., n. 47 ad art. 9 LFors).
+L'accord de prorogation doit être conclu en fonction d'un litige existant ou de litiges futurs.
+Dans cette hypothèse, le for ne saurait être arrêté pour l'ensemble des litiges éventuels
+et futurs pouvant exister entre deux personnes, mais uniquement pour ceux découlant d'un rapport
+de droit déterminé, quand bien même celui-ci serait désigné de manière
+large, incluant également certains développements spécifiques non expressément mentionnés.
+Le fait que le contrat concerné ait pris fin entre-temps ne fait pas obstacle à voir une partie
+se prévaloir de la clause de prorogation incorporée au moment de sa signature, si elle estime
+avoir encore des prétentions à faire valoir de ce chef (Donzallaz, op. cit., n. 88 ad art.
+9 LFors).
+Une clause de prorogation de for "pour toutes les prétentions découlant du présent
+contrat" englobe les prétentions contractuelles découlant du contrat, mais également
+les prétentions délictuelles qui constituent en même temps une violation du contrat (Peter
+Reetz, in : Spühler et alii (éd.), Kommentar zum schweizerischen Zivilprozessrecht, 2001, n.
+35 ad art. 9 GestG) ou se fondent à tout le moins sur les mêmes circonstances factuelles et
+les mêmes fondements que les prétentions contractuelles (Markus Wirth, in : Müller/Wirth
+(éd.), Kommentar zum Bundesgesetz über den Gerichtsstand in Zivilsachen, 2001, n. 69 ad art.
+9 LFors).
+Pour Donzallaz, les prétentions concurrentes en relation avec des actes illicites pourront être
+portées au for choisi. Il serait erroné d'exiger que l'acte illicite corresponde en sus à
+une violation du contrat, quand bien même ce sera très généralement le cas. Il faudra
+pourtant toujours exiger une relation minimale entre le contrat et l'acte illicite. En l'absence de ce
+lien de connexité, il ne sera pas envisageable d'agir au for prorogé. Cette règle n'est
+toutefois pas absolue et ne vaut qu'en l'absence de stipulation contractuelle contraire (Donzallaz, op.
+cit., n. 89 ad art. 9 LFors).
+c)
+En l'espèce, les deux premières prétentions
+en paiement de 122'023 francs et de 191'125 fr. découlent, on l'a vu (cf. supra considérants
+III.c/aa et c/bb), de la convention transitoire et respectivement du contrat d'agence principale conclus
+en 2008 par les parties. Or, ces deux actes contiennent des clauses de prorogation de for en faveur des
+tribunaux de [...] pour les litiges qui en découleront. La validité formelle de ces clauses
+n'est pas contestée. Au demeurant, elles figurent de manière visible dans le corps des contrats,
+juste au-dessus des signatures. En outre, les deux prétentions en cause ne tombent pas sous le coup
+d'un for impératif. Il s'ensuit que, pour celles-ci, l'intimé ne pouvait pas actionner la requérante
+ailleurs qu'au for de son domicile.
+Quant à la troisième prétention, en paiement d'un montant de 100'000 francs à titre
+de tort moral, l'intimé allègue qu'elle découle d'actes illicites commis par requérante,
+ou par ses cadres, à l'occasion de l'exécution du contrat d'agence principale. C'est en effet
+dans le cadre de la mise en place et l'exploitation de l'agence prévue par le contrat d'agence principale
+que l'intimé aurait subi les atteintes à sa santé alléguées. Peu importe que
+les agissements illicites constituent, le cas échéant, aussi des violations dudit contrat.
+Il suffit de constater en l'occurrence qu'ils ont un lien étroit de connexité avec le contrat
+d'agence principale. Il s'ensuit que, pour cette prétention, l'intimé ne pouvait pas non plus
+actionner la requérante ailleurs qu'au for de son domicile.
+V.
+Subsidiairement, l'intimé soutient que le for pourrait être celui d'une succursale de la requérante
+sise à Vevey, au sens de l'art. 5 aLFors.
+En l'espèce, il n'est pas nécessaire d'examiner si les deux clauses de prorogation de for englobent
+les litiges qui pourraient impliquer les succursales de la requérante.
+En effet, il suffit de constater que, dans sa demande, l'intimé n'a pas allégué le moindre
+fait au sujet d'une prétendue succursale de la requérante à [...] (ce qui eût supposé
+la réunion d'une séries de conditions, notamment un établissement à caractère
+commercial, qui dépend d'une entreprise principale, y étant intégré juridiquement,
+et y exerçant de manière durable une activité économique apparentée, dans des
+locaux séparés, avec une autonomie commerciale et de gestion [Donzallaz, op. cit., n. 15 à
+35 ad art. 5 LFors]). Il n'a –
+a
+fortiori
+- pas non plus allégué que
+les actions en cause porteraient sur les activités commerciales ou professionnelles de cette soi-disant
+succursale.
+Cet argument, mal fondé, doit donc être rejeté.
+VI.
+Le nouveau droit de procédure n'ayant pas modifié, sur le fond, les règles des art. 5,
+9, 21, et 24 aLFors, la solution n'est pas différente sous l'empire du CPC (cf. art. 9 CPC sur les
+fors impératifs, 12 CPC sur le for de la succursale, 17 CPC sur l'élection de for, art.
+34 CPC sur le contrat de travail et 36 CPC sur le for des actions fondées sur un acte illicite).
+VII.
+La requête en déclinatoire est ainsi bien fondée, tant sous l'angle de l'ancien droit
+que celui du nouveau droit de procédure. Le for étant à l'extérieur du canton de
+Vaud, la conséquence est l'éconduction d'instance de l'intimé (art. 61 al. 1 CPC-VD).
+La solution ne serait pas différente si le nouveau droit était appliqué, puisque celui-ci
+prévoit dans ce cas l'irrecevabilité de la demande (art. 59 al. 2 lit. b CPC). Comme
+sous l'empire de l'art. 34 al. 2 aLFors, la litispendance est conservée si la demande est déposée
+devant le tribunal compétent dans les trente jours (art. 63 al. 1 CPC).
+Les frais de la procédure incidente, à la charge de la requérante, sont arrêtés
+à 900 fr. (art. 159 et 170a aTFJC [Tarif vaudois des frais en matière civile du 4 décembre
+1984 ; RA 1984 458]). Obtenant gain de cause, la requérante a droit à de pleins dépens,
+qu'il convient d'arrêter à 2'100 fr. (art. 91 et 92 al. 1 CPC-VD ; art. 26 al. 2 TDC
+[Tarif vaudois des dépens en matière civile du 23 novembre 2010 ; RSV 270.11.6] qui renvoie
+à l'art. 2 al. 1 aTAv [Tarif vaudois des honoraires d'avocat dus à titre de dépens du
+17 juin 1986 ; RA 1986 240]).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de déclinatoire déposée le 11 octobre 2010 par la défenderesse au
+fond et requérante à l'incident A.________ SA est admise.
+II.
+Le demandeur au fond et intimé à l'incident R.________ est éconduit de l'instance ouverte
+selon demande du 29 juin 2010.
+III.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs)
+pour la requérante.
+IV.
+L'intimé versera à la requérante le montant de 2'100 fr. (deux mille cent francs)
+à titre de dépens.
+Le
+juge instructeur :              Le greffier :
+F.
+Byrde              J. Greuter
+Du
+Le jugement qui précède, dont le dispositif a été expédié pour notification
+le 3 février 2011, lu et approuvé à huis clos, est notifié, par l'envoi de photocopies,
+aux conseils des parties
+Les parties peuvent recourir auprès du Tribunal cantonal dans les dix jours dès la notification
+du présent jugement en déposant au greffe de la Cour civile un acte de recours en deux exemplaires
+désignant le jugement attaqué et contenant leurs conclusions en réforme, éventuellement
+en nullité, ou à défaut, indiquant sur quels points le jugement est attaqué et quelle
+est la modification demandée.
+Le greffier :
+J. Greuter
