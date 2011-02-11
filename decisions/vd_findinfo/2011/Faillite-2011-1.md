@@ -1,0 +1,127 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 1"
+decided: "2011-02-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2536731"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-017.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 1
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, ACTE DE RECOURS, CONCLUSIONS, DÉCISION D'IRRECEVABILITÉ | 17 CPC, 461 CPC, 174 LP, 58 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.02.2011 Faillite / 2011 / 1
+
+OUVERTURE DE LA FAILLITE, ACTE DE RECOURS, CONCLUSIONS, DÉCISION D'IRRECEVABILITÉ | 17 CPC, 461 CPC, 174 LP, 58 al. 1 LVLP
+
+TRIBUNAL
+CANTONAL
+42
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 février 2011
+___________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Muller et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 LP, 58 al. 1 LVLP,  17 et 461 CPC-VD
+Vu le jugement rendu le 18 novembre 2010 par le Président du Tribunal d'arrondissement de Lausanne,
+statuant par défaut des parties, prononçant la faillite de
+W.________
+,
+à Lausanne, le même jour à 11 heures 17, à la réquisition de
+K.________
+,
+à Martigny, et mettant les frais de ce jugement, par 200 fr., à la charge du failli,
+vu la déclaration de recours contre ce jugement, datée du 1
+er
+et remise à la poste le 2 décembre 2010 par W.________, comprenant une demande d'effet suspensif,
+vu les pièces dossiers;
+attendu que le pli contenant le jugement de faillite adressé à W.________ en courrier recommandé
+le 18 novembre 2010 est venu en retour au greffe du Tribunal d'arrondissement de Lausanne à l'échéance
+du délai de garde de sept jours fixé au 26 novembre 2010, avec la mention "non réclamé",
+qu'ayant reçu la commination de faillite le 6 août 2010 et la convocation à l'audience
+de faillite fixée au 18 novembre 2010 à 11 heures, l'intéressé devait s'attendre
+à recevoir une décision judiciaire dans les jours suivants, de sorte que la fiction de la réception
+du pli à l'échéance du délai de garde s'applique (TF 1P.81/2007 c. 3.2; ATF 127 I
+31 c. 2 a aa et réf. cit., JT 2001 I 727) et que W.________ est réputé avoir reçu
+le jugement de faillite le 26 novembre 2010,
+que la déclaration de recours remise à la poste le 2 décembre 2010 a ainsi été
+déposée en temps utile, dans le délai de dix jours suivant la notification du jugement
+de faillite (art. 174 al. 1 LP – loi fédérale sur la poursuite pour dettes et la faillite;
+RS 281.1),
+qu'en revanche, cet acte ne comporte pas de conclusions (art. 461 al. 1 let. b et al. 2 CPC-VD [Code
+de procédure civile vaudoise; RVS 270.11], applicable par le renvoi de l'art. 58 al. 1 LVLP [loi
+vaudoise d'application de la LP; RSV 280.05]), c'est-à-dire l'énoncé exact des réclamations
+du recourant,
+qu'en application de l'art. 17 CPC-VD,  le président de la cour de céans a renvoyé
+son acte à W.________, par courrier recommandé du 8 décembre 2010, et lui a imparti un
+délai au 17 décembre 2010 pour le refaire en précisant ses conclusions, en réforme
+ou en nullité, faute de quoi le recours pourrait être déclaré irrecevable,
+que, selon les informations d'acheminement postal figurant au dossier, l'intéressé a reçu
+cet avis le 10 décembre 2010,
+qu'il n'y a donné aucune suite dans le délai imparti,
+que, faute de satisfaire aux exigences de forme posées par la loi, le recours de W.________, consistant
+en la seule déclaration déposée le 2 décembre 2010, est irrecevable;
+attendu que le présent arrêt peut être rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+11 février 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. W.________,
+‑
+K.________,
+-
+M. le Préposé à l'Office des poursuites de Lausanne-Est,
+-
+M. le Préposé à l'Office des faillites de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
