@@ -1,0 +1,185 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___45"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 45"
+decided: "2011-02-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2561739"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-776.md", "switzerland/bund/acts/220/art-778.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# VD Findinfo Décision / 2011 / 45
+
+## Regeste
+
+COMPÉTENCE RATIONE LOCI, PRÉVOYANCE PROFESSIONNELLE | 73 LPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 11.02.2011 Décision / 2011 / 45
+
+COMPÉTENCE RATIONE LOCI, PRÉVOYANCE PROFESSIONNELLE | 73 LPP
+
+TRIBUNAL
+CANTONAL
+PP
+2/11 - 11/2011
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 11 février 2011
+__________________
+Présidence
+de               M.
+Jomini
+,
+juge unique
+Greffière
+:              Mme
+Donoso Moreta
+*****
+Cause
+pendante entre :
+N.________
+,
+à Schwyz, demanderesse, représentée par Me Thomas Käslin, avocat à Bâle
+et
+T.________
+Sàrl, à Fribourg, p.a. K.________, à Orbe, défenderesse
+_______________
+Art.
+73 LPP
+E n  f a i t  :
+A.
+Le 10 août 2010, l’institution de prévoyance N.________ (caisse de pension N.________)
+a adressé à la Cour des assurances sociales du Tribunal cantonal du canton de Fribourg une
+demande (Klage) à l’encontre de T.________ Sàrl, à Fribourg. Cette demande tend
+à ce que la société défenderesse – liée en tant qu’employeur à
+la fondation demanderesse par un contrat d’affiliation fondé sur la LPP –  soit
+condamnée à payer les montants suivants : 7'080 fr. 55 avec intérêts à
+6 % depuis le 31 mars 2009 à titre de cotisations de l’employeur (« Prämien ») ;
+1'250 fr. avec intérêts à 6 % depuis l’ouverture d’action à titre
+de frais, selon des clauses du contrat d’affiliation ; 107 fr. à titre de frais de poursuite.
+B.
+La Cour des assurances sociales du Tribunal cantonal du canton de Fribourg a statué dans cette cause
+le 14 octobre 2010, en rendant une décision dont le dispositif est le suivant :
+I.
+Le recours est déclaré irrecevable. Partant, il est transmis au Tribunal cantonal du canton
+de Vaud, comme objet de sa compétence.
+II.
+Il n’est pas perçu
+de frais de justice.
+La motivation de cette décision retient en substance que la demande n’a pas pu être communiquée
+à la défenderesse, à cause de l’échec de la notification postale à l’adresse
+indiquée au registre du commerce pour le siège de l’entreprise (rue [...], à Fribourg).
+La poste a en effet retourné l’acte au tribunal avec la mention « le destinataire
+est introuvable à l’adresse indiquée ». La décision du 14 octobre 2010
+expose alors ce qui suit :
+« Les
+mesures d’instruction entreprises ultérieurement […] ont permis de déterminer que
+le siège de la défenderesse se trouve en réalité au chemin [...], à Orbe, ce
+que cette dernière a confirmé par écrit le 5 octobre 2010 ; […] la compétence
+de statuer sur une action intentée à l’encontre d’un employeur ayant son siège
+dans le canton de Vaud incombe par conséquent
+au tribunal désigné par ledit canton ».
+Les mesures d’instruction précitées sont les suivantes : comme une pièce du
+dossier mentionnait l’adresse d’un associé à Orbe, le tribunal a écrit à
+cette adresse en demandant à la société défenderesse d’indiquer où se
+trouvait actuellement le siège de l’entreprise. Le 5 octobre 2010, la fiduciaire G.________
+SA, à [...], a répondu en priant le tribunal d’ « utiliser »
+l’adresse K.________, à Orbe.
+La demanderesse avait produit auparavant un extrait du registre du commerce du canton de Fribourg du
+6 août 2010, dont il ressortait que T.________ Sàrl, inscrite le 30 avril 2007, avait son siège
+à Fribourg, et que son adresse était : « [...], c/o K.________ »,
+ce dernier étant associé gérant. Un extrait internet du jour du présent jugement
+contient les mêmes indications.
+C.
+Le dossier de l’affaire a effectivement été transmis le 12 janvier 2011 à la Cour
+des assurances sociales du Tribunal cantonal du canton de Vaud. Les parties ont été interpellées
+au sujet de la compétence de la juridiction vaudoise.
+La fondation demanderesse s’est déterminée le 8 février 2011, en faisant valoir
+que l’action devait être transmise au Tribunal cantonal fribourgeois. La société
+défenderesse n’a pas déposé d’observations mais sa fiduciaire a envoyé
+une quittance de l’Office des poursuites de la Sarine, attestant d’un paiement partiel des
+montants demandés.
+E n  d r o i t  :
+1.
+La Cour des assurances sociales examine d’office et librement sa compétence. La valeur litigieuse
+étant inférieure à 30'000 fr., le juge unique est compétent (art. 94 al. 1 let. a
+LPA-VD [loi vaudoise sur la procédure administrative du 28 octobre 2008; RSV 173.36], par renvoi
+de l’art. 109 al. 1 LPA-VD).
+Le fondement de l’action se trouve dans les normes de la législation fédérale sur
+la prévoyance professionnelle. Il s’agit d’une contestation entre institution de prévoyance
+et employeur, pour laquelle l’art. 73 LPP (loi fédérale sur la prévoyance professionnelle
+vieillesse, survivants et invalidité du 25 juin 1982; RS 831.40) est applicable (contestation sur
+le calcul et la perception des cotisations, visée par l’art. 73 al. 1, 1
+ère
+phrase LPP – cf. Ulrich Meyer/Laurence Uttinger, Commentaire LPP, édit. Schneider/Geiser/Gächter,
+Berne 2010, n. 52 ad art. 73 LPP).
+L’art. 73 al. 3 LPP prévoit que le for est au siège ou domicile suisse du défendeur
+ou au lieu de l’exploitation dans laquelle l’assuré a été engagé. Comme
+aucun employé assuré n’est partie au litige, le lieu déterminant est celui du siège
+ou domicile du défendeur. Cette règle de for est impérative (cf. Meyer/Uttinger, op. cit.,
+n. 97 ad art. 73 LPP).
+En droit suisse, la société à responsabilité limitée (Sàrl) a un siège
+qui est fixé par ses statuts (art. 776 ch. 1 CO [loi fédérale du 30 mars 1911 complétant
+le code civil suisse, livre cinquième : droit des obligations; RS 220]). Elle doit être inscrite
+au registre du commerce du lieu où elle a son siège (art. 778 CO).
+En l’occurrence, il résulte des pièces du dossier, notamment de l’extrait du registre
+du commerce, que le siège statutaire de la défenderesse est à Fribourg. Contrairement
+à ce qui est exposé dans la décision du 14 octobre 2010 de la juridiction cantonale fribourgeoise,
+aucun acte de la défenderesse n’indique un changement de siège, lequel nécessiterait
+du reste une révision des statuts en bonne et due forme. Seule une fiduciaire a fourni une adresse
+à utiliser, pour la communication postale avec l’entreprise. A l’évidence, en proposant
+une adresse de notification, qui peut être celle d’un associé ou celle d’un mandataire
+(avocat, fiduciaire, etc.), la société ne modifie pas son siège. De façon générale,
+pour l’application des règles de for, c’est bien le siège statutaire qui est déterminant
+(cf. par exemple ATF 115 II 160).
+Il s’ensuit qu’en vertu de la règle de for impérative de l’art. 73 al. 3
+LPP, la Cour de céans doit constater que la juridiction cantonale fribourgeoise est compétente
+ratione loci
+.
+La décision du 14 octobre 2010 ne permet pas à la Cour de céans de renoncer à prononcer
+l’incompétence de la juridiction cantonale vaudoise, dès lors qu’une décision
+de transmission, erronée à propos de la détermination du siège du défendeur,
+ne saurait avoir pour effet de créer un nouveau for de droit fédéral. Il convient donc
+de transmettre d’office la cause au Tribunal cantonal du canton de Fribourg, Cour des assurances
+sociales, comme objet de sa compétence. La situation juridique étant claire pour la Cour de
+céans, il n’y a pas lieu de procéder à un échange de vues, étant du reste
+relevé que la demanderesse s’est prononcée dans le sens de la présente décision.
+2.
+Il n’y a pas lieu de percevoir des frais de justice ni d’allouer des dépens (cf. ATF
+126 V 143).
+Par
+ces motifs,
+le
+Juge unique
+prononce:
+I.
+La cause est
+transmise au Tribunal
+cantonal du canton de Fribourg, Cour des assurances sociales, comme objet de sa compétence.
+II.
+Il n'est pas perçu de frais
+de justice ni alloué de dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+Me Thomas Käslin (pour N.________),
+‑
+T.________ Sàrl,
+-
+Office fédéral des assurances sociales,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
