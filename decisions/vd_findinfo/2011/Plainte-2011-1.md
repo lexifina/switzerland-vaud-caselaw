@@ -1,0 +1,281 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 1"
+decided: "2011-02-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2542034"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-919.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-107.md", "switzerland/bund/acts/281.1/art-108.md", "switzerland/bund/acts/281.1/art-109.md", "switzerland/bund/acts/281.35/art-061.md", "switzerland/bund/acts/281.35/art-062.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 1
+
+## Regeste
+
+PLAINTE{LP}, SÉQUESTRE{LP}, PROCÉDURE DE REVENDICATION{SAISIE} | 107 LP, 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 15.02.2011 Plainte / 2011 / 1
+
+PLAINTE{LP}, SÉQUESTRE{LP}, PROCÉDURE DE REVENDICATION{SAISIE} | 107 LP, 17 LP
+
+TRIBUNAL
+CANTONAL
+4
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 février 2011
+__________________
+Présidence
+de               M.
+Muller
+,
+juge présidant
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 et 107 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.F.________
+,
+à Villariaz, contre la décision rendue le 23 septembre 2010, à la suite de l’audience
+du 16 août 2010, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte de la recourante à l'encontre de l'avis de
+fixation du délai pour ouvrir action selon l'art. 107 LP établi par l'
+OFFICE
+DES POURSUITES DU DISTRICT DE MORGES
+dans le cadre
+du séquestre n° 5'414'559, requis par
+P.________
+Sàrl
+, à Tolochenaz, à l'encontre
+de
+B.F.________
+,
+à Coconut Grove (Etats-Unis d'Amérique, Floride).
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Un contrat intitulé "Mandat de vente d'une automobile de collection, sport ou prestige"
+a été signé le 6 mai 2010 par B.F.________, en sa qualité de propriétaire d'un
+véhicule Chevrolet Corvette, et L.________. Le contrat prévoyait que "le propriétaire
+de l'automobile charge L.________ de procéder, pour son compte, à la réalisation de sa
+voiture, aux enchères, au plus offrant mais pour le prix minimum ou prix de réserve de CHF
+29'500.—". Le véhicule devait être livré entre le 15 et le 18 mai 2010 et repris,
+s'il n'avait pas été vendu, le 27 mais 2010, la vente aux enchères publiques devant avoir
+lieu le 23 mai 2010 dans la halle CFF de Morges.
+Agissant sur requête de P.________ Sàrl, le Juge de paix du district de Morges a séquestré,
+le 21 mai 2010, au préjudice de B.F.________, à Coconut Grove, aux Etats-Unis d'Amérique,
+en garantie d'une créance de 41'908 francs 74, un véhicule de marque Corvette décapotable,
+un véhicule de marque Mercedes Maclaren SL40, un véhicule de marque Dodge ou la contre-valeur
+de ceux-ci, ces objets étant disponibles dans le cadre de la vente organisée par "Classic
+Cars" le dimanche 23 mai 2010 dans les halles CFF de Morges.
+Le séquestre n'a pu être imposé que sur la voiture Chevrolet Corvette, estimée à
+25'000 francs, les autres véhicules n'ayant pas été mis en vente.
+2.
+Par lettre du 31 mai 2010, A.F.________ a revendiqué la propriété de cette voiture. Elle
+a produit, à l'appui de cette revendication, les pièces suivantes :
+-
+un extrait Internet du registre du commerce, d'où il ressort qu'elle est inscrite depuis le 10 avril
+2006 sous la raison individuelle A.F.________ W.________, active
+dans
+le commerce de voitures, et qu'elle-même, en sa qualité de titulaire, ainsi que son époux,
+B.F.________, disposent de la signature individuelle;
+-
+une facture du 30 mars 2010 établie par W.________ pour la vente à C.________ d'un Hummer pour
+le prix de 53'000 fr., dont est déduit le montant de 30'000 francs pour la reprise d'une Chevrolet
+Corvette 1999;
+-
+une photocopie du permis de circulation du véhicule Chevrolet Corvette au nom de C.________, annulé
+le 10 novembre 2009;
+-
+la copie d'une pièce bancaire indiquant que la somme de 26'134 fr. 80 a été versée
+le 6 avril 2010 sur le compte bancaire d'A.F.________ W.________.
+3.
+Le procès-verbal de séquestre a été adressé aux parties le 3 juin 2010. On peut
+y lire en particulier :
+"Du 21.05.2010
+de 15.30 à 16.35 heures dans les Halles CFF de Morges en présence de M. P.________, domicilié
+à Crissier, responsable de vente, il ressort que les véhicules de marque Mercedes Maclaren
+SL 40 et Dodge n'ont pas été présentés à la vente du 23.05.2010, seul le véhicule
+de marque Corvett est stationné à Morges. Le présent séquestre porte sur les véhicules
+ou la contre valeur de ceux-ci.
+En conséquence,
+M. P.________ a dûment été avisé que le produit de la vente du véhicule de marque
+Chevrolet Corvett était d'ores et déjà placé sous le poids du séquestre. En
+outre, si le bien était invendu, il a été nommé gardien biens-meubles.
+Du 26 mai 2010,
+dans les halles CFF, il est constaté que le bien en question est invendu. En conséquence, il
+est pris sous la garde de l'office et déplacé à Crissier, [...], c/ D.________ SA.
+(…)
+REVENDICATION
+L'objet séquestré
+(réd.: voiture Chevrolet Corvette) a été amené pour la vente le 23.05.2010 selon
+contrat de mandat de vente d'une automobile signé par M. B.F.________. Il est revendiqué par
+Mme A.F.________, (…). Cette revendication de propriété est fondée sur diverses
+pièces jointes au présent procès-verbal.
+ASSIGNATION
+:
+En conséquence
+et conformément aux dispositions de l'article 107 LP, un délai de 10 jours, dès réception
+du présent procès-verbal, est assigné au débiteur et au créancier pour contester
+la prétention du tiers devant l'office.
+En
+cas de contestation, l'office assignera un délai de 20 jours au tiers pour ouvrir action en constatation
+de son droit contre celui qui le conteste.
+Si la prétention
+n'est pas contestée, elle sera réputée admise et le séquestre tombera".
+Par lettre du 14 juin 2010, P.________ Sàrl a contesté la revendication. Elle a déposé
+le même jour une réquisition de poursuite en validation de séquestre.
+Par avis du 16 juin 2010, l'Office des poursuites du district de Morges a informé A.F.________ que
+la créancière P.________ Sàrl contestait son droit de propriété sur la voiture
+Chevrolet Corvette et lui a fixé un délai de vingt jours dès réception de l'avis
+pour ouvrir, devant le juge compétent (art. 109 LP), action en constatation de droit, faute de quoi
+sa prétention ne serait pas prise en considération dans la poursuite en cause.
+4.
+Par acte du 28 juin 2010, A.F.________ a déposé une plainte contre l'avis de fixation de délai
+du 16 juin 2010. Elle a conclu, avec suite de frais et dépens, à son annulation et à ce
+qu'ordre soit donné à l'office de fixer à la créancière P.________ Sàrl,
+respectivement au débiteur B.F.________, le délai de l'art. 108 al. 2 LP. Elle a requis et
+obtenu l'effet suspensif par décision du 28 juin 2010 du Président du Tribunal d'arrondissement
+de La Côte.
+L'Office des poursuites du district de Morges s'est déterminé le 5 août 2010, préavisant
+pour le rejet de la plainte.
+Par prononcé du 23 septembre 2010, la Présidente du Tribunal d'arrondissement de La Côte,
+statuant en sa qualité d'autorité inférieure de surveillance, a rejeté la plainte
+et a rendu sa décision sans frais ni dépens.
+En substance, l'autorité inférieure a retenu que le contrat de mandat faisait apparaître
+que la maîtrise sur le véhicule séquestré appartenait au débiteur. Il en déduisait
+que c'est à raison que l'office avait imparti un délai à la plaignante pour ouvrir action.
+5.
+Par acte du 4 octobre 2010, la plaignante a recouru
+contre cette décision, reprenant, avec suite de frais et dépens, les conclusions de sa plainte.
+Elle a requis l'effet suspensif, qui a été accordé le 6 octobre 2010 par le président
+de la cour de céans.
+Par lettre du 18 octobre 2010, l'office s'est référé aux déterminations qu'il avait
+produites en première instance.
+La créancière a renoncé à déposer une détermination, selon écriture
+du 25 octobre 2010.
+En droit :
+I.
+Déposé
+en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes et la faillite
+du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud de la loi fédérale
+sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05) et comportant l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+II.
+La recourante conteste l'application de l'art. 107 LP dans le cas d'espèce. Elle soutient que l'office
+devait appliquer l'art. 108 LP.
+a)
+Lorsqu'un tiers revendique un droit de propriété, de gage ou un autre droit sur l'objet saisi
+et que sa prétention est contestée par le débiteur et/ou le créancier, l'office des
+poursuites doit impartir un délai de vingt jours soit au tiers pour ouvrir action en constatation
+de son droit (art. 107 LP), soit au créancier/débiteur pour ouvrir action en contestation de
+la prétention du tiers (art. 108 LP). Lorsque le bien revendiqué est un bien mobilier, le critère
+déterminant pour attribuer les rôles dans la procédure de revendication est la possession
+(art. 107 al. 1 ch. 1 et 108 al. 1 ch. 1 LP). L'office doit déterminer si le débiteur est,
+au moment où la saisie est exécutée, le "possesseur" exclusif du bien revendiqué.
+Si tel est le cas, la procédure
+se
+déroulera conformément à l'art. 107 LP; si tel n'est pas le cas, elle se déroulera
+conformément à l'art. 108 LP (Tschumy, Commentaire romand, nn. 5-6 ad art. 107 LP).
+La décision de l'office fixant le rôle des parties dans la procédure de revendication
+peut être attaquée par la voie de la plainte au sens de l'art. 17 LP (Tschumy, op. cit., n.
+7 ad art. 107 LP et les réf. cit.).
+b)
+La
+notion de possession des art. 107 et 108 LP n'est pas celle de l'art. 919 CC (Code civil du 10 décembre
+1907, RS 210); dans le cadre de la LP, il s'agit de la simple détention de fait, soit du pouvoir
+de fait exclusif d'user de la chose (Tschumy, op. cit. n. 4 ad art. 107 LP et les réf. cit.). Les
+autorités de poursuites doivent uniquement trancher la question du meilleur droit apparent, soit
+de savoir qui, au moment où la saisie est exécutée, peut disposer matériellement
+de la chose; elles ne doivent pas se demander si l'état de fait est ou non conforme au droit (TF
+5A_638/2008 du 5 décembre 2008, ATF 123 II 67 c. 3b; ATF 120 III 83, c. 3b; Gilliéron, Commentaire
+de la loi sur la poursuite pour dettes et la faillite, nn. 16 ss ad art. 107 LP).
+L'art. 107 al. 1 ch. 1 LP suppose une maîtrise de fait individuelle et exclusive du débiteur.
+Le débiteur n'est pas le possesseur exclusif du bien revendiqué lorsque le tiers revendiquant
+est le possesseur exclusif, lorsque le tiers revendiquant et le débiteur ont la copossession du
+bien et lorsque le quart détenteur détient pour le compte du tiers revendiquant (Tschumy, op.
+cit. n. 1 ad art. 108 LP et les réf. cit.; Gilliéron, op. cit. nn. 25-26 ad art. 107 LP). Si
+le quart détenteur détient pour le compte exclusif du débiteur, il appartient alors au
+tiers revendiquant d'ouvrir action (TF 5A_638/2008 précité, c. 5.1).
+Pour déterminer si la chose, dont le droit de propriété a été mis sous main
+de justice, est en la puissance, individuelle et exclusive du débiteur, l'office des poursuites
+et les autorités de surveillance doivent se baser sur les faits qu'ils peuvent directement constater.
+Ils doivent constater les faits pertinents d'office (Gilliéron, op. cit. n. 27 ad art. 107 LP).
+c)
+La recourante soutient qu'il ressort des pièces qu'elle a produites à l'appui de sa revendication
+que le véhicule litigieux est sa propriété exclusive. De son côté, l'office
+s'est fondé sur le contrat de mandat pour retenir que le débiteur avait la maîtrise exclusive
+du véhicule.
+Le véhicule a été saisi alors qu'il se trouvait dans les halles CFF de Morges, sous la
+garde du représentant de L.________. Il ressort clairement du contrat du 6 mai 2010 que L.________
+détenait cette voiture pour le compte du débiteur séquestré et qu'elle devait en
+particulier la restituer pour le cas où elle ne serait pas vendue. Ainsi, L.________, qui était
+en possession du véhicule au moment du séquestre, le détenait, en qualité de quart
+détenteur, pour le compte exclusif du débiteur. Ce dernier, désigné comme propriétaire
+dans le contrat, apparaît comme celui qui avait le pouvoir d'en disposer exclusivement.
+Quant aux pièces produites par la recourante, qui sont toutes antérieures au contrat de mandat
+de vente, elles n'établissent ni son droit de propriété sur le véhicule litigieux,
+ni son droit exclusif d'en disposer, a fortiori à l'époque de la saisie.
+Dès lors, la décision de l'autorité inférieure de surveillance était bien fondée
+et doit être confirmée.
+III.
+Le recours doit en conséquence être
+rejeté et le prononcé entrepris confirmé.
+La procédure de plainte et le recours contre une décision sur plainte sont gratuits (art. 20a
+al. 2 ch. 5 LP et art. 61 al. 2 let. a OELP, ordonnance du 23 septembre 1996 sur les émoluments
+perçus en application de la loi fédérale sur la poursuite pour dettes et la faillite;
+RS 281.35) et il ne peut être alloué de dépens dans ces procédures (art. 62 al. 2
+OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+15 février 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Jean-Marc Schlaeppi, agent d'affaires breveté (pour A.F.________ et B.F.________),
+‑
+M. Jean-Daniel Nicaty, agent d'affaires breveté (pour P.________ Sàrl),
+‑
+M. le Préposé à l'Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
