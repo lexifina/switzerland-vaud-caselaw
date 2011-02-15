@@ -1,0 +1,168 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___67"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 67"
+decided: "2011-02-15"
+published: "2011-03-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2597412"
+cites_law: ["switzerland/bund/acts/142.31/art-087.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-268.md", "switzerland/bund/acts/312.0/art-286.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 67
+
+## Regeste
+
+SÉQUESTRE{MESURE PROVISIONNELLE} | 263 CPP (CH), 268 CPP (CH), 396 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.03.2011 Décision / 2011 / 67
+
+SÉQUESTRE{MESURE PROVISIONNELLE} | 263 CPP (CH), 268 CPP (CH), 396 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+51
+PE11.002029-BUF
+Le
+Juge
+de
+la CHAMBRE DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 mars 2011
+__________________
+Juge
+:
+Mme              B Y R D E
+Greffier
+:              M.
+Rebetez
+*****
+Vu l'
+enquête n° PE11.002029-BUF
+instruite par le Ministère public de l'arrondissement du Nord vaudois contre
+I.________
+pour vol, d'office et sur plainte de [...],
+vu l'ordonnance du 15 février 2011, par laquelle le procureur a ordonné le séquestre du
+montant de 791 fr. 80 trouvé en possession de I.________,
+vu le recours interjeté en temps utile par le prénommé contre cette décision,
+vu les pièces du dossier;
+attendu
+que l'ordonnance de séquestre, rendue par le ministère public, peut faire l'objet d'un recours,
+conformément aux art. 20 al. 1 let. b et 393 al. 1 let. a CPP (Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0),
+que selon l'art. 395 let. b CPP, si l'autorité de recours est un tribunal collégial, sa direction
+de la procédure statue seule sur le recours lorsqu'il porte sur les conséquences économiques
+accessoires d'une décision et que le montant litigieux n'excède pas 5'000 francs,
+qu'aux termes de l'art. 13 al. 2 LVCPP (Loi d'introduction du Code de procédure pénale suisse,
+RSV 312.01), un juge de la Chambre des recours pénale est compétent pour statuer sur les recours
+en tant que juge unique dans les cas prévus à l'art. 395 CPP,
+que le Message du Conseil fédéral relatif à l’unification du droit de la procédure
+pénale du 21 décembre 2005 cite comme conséquences économiques d'une décision,
+les frais, les indemnités et les confiscations (FF 2006, pp. 1057 ss, spéc. p. 1297),
+que selon la doctrine, le séquestre entre dans la définition de conséquences économiques
+d'une décision (Stephenson/Thiriet, in : Niggli/Heer/Wiprächtiger, Basler Kommentar, Schweizerische
+Strafprozessordnung, 2011, n. 5 ad art. 395 CPP, p. 2628
+in
+fine
+),
+que dans le cas présent, le recourant conteste le séquestre de la somme de 791 fr. 80,
+que le recours relève donc de la compétence d'un juge unique de la Chambre des recours pénale
+(art. 395 let. b CPP);
+que déposé dans le délai de dix jours de l'art. 396 al. 1 CPP, le recours est recevable;
+attendu qu'en l'espèce, I.________ est soupçonné d'avoir commis un vol à l'étalage
+en date du 19 janvier 2011 au magasin [...] à Yverdon-les-Bains,
+que lors de son interpellation par la police, il était porteur de 891 fr. 80,
+qu'en application de l'art. 87 de la loi fédérale sur l'asile (LAsi; RS 142.31), la police
+a saisi la somme de 791 fr. 80,
+que par ordonnance du 15 février 2011, le procureur a ordonné le séquestre de ce montant,
+que le recourant conteste l'ordonnance de séquestre au motif que la somme séquestrée lui
+aurait été versée en partie par l'Etablissement vaudois d'accueil des migrants (ci-après
+: EVAM) et était destinée à l'entretien de sa famille,
+qu'en date du 19 janvier 2011, jour de son interpellation, il avait reçu 384 fr. 05 de l'EVAM,
+que le séquestre de cet argent mettrait sa famille en grande difficulté,
+qu'au vu de l'ordonnance du 15 février 2011, il s'agit d'un séquestre en couverture des frais
+(ou à fin de garantie) au sens de l'art. 263 al. 1 let. b CPP et non pas d'une saisie au sens
+de l'art. 87 LAsi (P. 11),
+qu'un séquestre en couverture des frais peut être opéré sur tous les biens du prévenu,
+aux fins d'en assurer la dévolution à l'Etat pour garantir le paiement des peines pécuniaires
+et autres frais de procédure et d'exécution des peines que la procédure pénale a
+fait naître à la charge du prévenu (Lembo/Julen Berthod, in : Kuhn/Jeanneret, Commentaire
+romand, Code de procédure pénale suisse, Bâle 2011, n. 35 ad art. 263 CPP),
+que conformément à l'art. 197 al. 1 CPP, applicable à l'ensemble des mesures de contrainte,
+le prononcé d'un séquestre en couverture des frais ne peut être ordonné que si les
+conditions matérielles suivantes sont réunies : l'existence d'une base légale, la présence
+d'indices suffisants de la commission d'une infraction, et le respect du principe de la proportionnalité,
+qu'aux termes de l'art. 263 al. 2 CPP, le séquestre est ordonné par voie d'ordonnance écrite,
+brièvement motivée,
+que l'ordonnance de séquestre doit comporter une motivation suffisante pour respecter le droit d'être
+entendu des personnes dont les actifs sont saisis et permettre à l'autorité de recours d'exercer
+son contrôle (Lembo/Julen Berthod, op. cit., n. 35 ad art. 263 CPP),
+que dans le cas présent, l'ordonnance querellée ne comporte qu'un simple renvoi à l'art.
+263 al. 1 let. b CPP,
+que la présence d'indices suffisants de la commission d'une infraction n'a aucunement été
+abordée par le magistrat instructeur,
+qu'en outre, l'exigence du respect du principe de la proportionnalité a été ignorée,
+que pour être conforme à ce principe, le séquestre doit être apte à produire
+les résultats escomptés (règle de l'aptitude), ces derniers ne pouvant pas être atteints
+par une mesure moins incisive (règle de la nécessité),
+que ces règles sont concrétisés, s'agissant du séquestre en couverture des frais,
+à l'art. 268 CPP,
+que selon la disposition précitée, le patrimoine d'un prévenu peut être séquestré
+dans la mesure qui paraît nécessaire pour couvrir les frais de procédure et les indemnités
+à verser (let. a) ainsi que les peines pécuniaires et les amendes (let. b),
+que lors du séquestre, l'autorité pénale tient compte du revenu et de la fortune du prévenu
+et de sa famille (al. 2),
+qu'enfin, l'art. 286 al. 3 CPP prévoit que les valeurs patrimoniales insaisissables selon les art.
+92 à 94 LP sont exclues du séquestre, soit ceux indispensables à la sauvegarde du minimum
+vital du prévenu et de sa famille,
+qu'en l'espèce, l'ordonnance n'examine pas l'opportunité du séquestre au regard de l'art.
+286 CPP,
+qu'au vu de cette carence, il se justifie d'admettre le recours, d'annuler la décision déférée
+et de renvoyer la cause au magistrat instructeur pour qu'il rende une nouvelle décision motivée
+dans le sens des considérants,
+que les frais du présent arrêt sont laissés à la charge de l'Etat (art. 428 al. 4
+CPP),
+Par
+ces motifs,
+le
+Juge
+de
+la Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance attaquée.
+III.
+Renvoie le dossier de la cause au Procureur de
+l'arrondissement du Nord vaudois, pour qu'il rende une nouvelle décision dans le sens des considérants.
+IV.
+Dit que les frais d'arrêt, par 440 fr. (quatre cent quarante francs), sont laissés à la
+charge de l'Etat.
+V.
+-
+Déclare la présente décision exécutoire.
+Le
+juge:               Le greffier :
+Du
+La décision qui précède est notifiée, par l'envoi d'une copie complète, à :
+-
+M. I.________,
+-
+Ministère public central,
+et communiquée à :
+‑
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
