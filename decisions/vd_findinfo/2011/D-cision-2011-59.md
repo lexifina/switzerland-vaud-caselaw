@@ -1,0 +1,147 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___59"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 59"
+decided: "2011-02-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2590851"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md"]
+---
+
+# VD Findinfo Décision / 2011 / 59
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE, RETRAIT{VOIE DE DROIT} | 2 al. 4 RAJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 23.02.2011 Décision / 2011 / 59
+
+ASSISTANCE JUDICIAIRE, RETRAIT{VOIE DE DROIT} | 2 al. 4 RAJ
+
+TRIBUNAL
+CANTONAL
+AI
+101/10 - 113/2011
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 23 février 2011
+__________________
+Présidence
+de               M.
+Abrecht
+,
+juge unique
+Greffière
+:              Mme
+Barman
+*****
+Cause
+pendante entre :
+Q.________
+,
+à Vallon, recourant, représenté par Me Olivier Carré, avocat à Lausanne
+et
+OFFICE
+DE L'ASSURANCE-INVALIDITE POUR LE CANTON DE VAUD
+,
+à Vevey, intimé.
+_______________
+Art.
+2 al. 4 RAJ
+Vu
+le recours formé le 11 mars 2010 par Q.________
+(ci-après: le recourant) à l’encontre de la décision prise le 10 février 2010
+par l'Office de l'assurance-invalidité pour le canton de Vaud (ci-après: l'OAI) lui refusant
+des mesures d'ordre professionnel,
+vu la réponse déposée le 27 mai 2010 par l'OAI, qui propose le rejet du recours ainsi
+que le maintien de la décision attaquée,
+vu la réplique du recourant du 16 août 2010, déposée par l'intermédiaire de
+son conseil, qui conclut, sous suite de frais et dépens, à l'annulation de la décision
+du 10 février 2010 et au renvoi du dossier à l'autorité intimée pour nouvelle instruction,
+vu la duplique déposée le 31 août 2010 par l'intimé, qui confirme ses conclusions,
+vu l'écriture complémentaire du recourant du 14 octobre 2010, dans laquelle il requiert la
+tenue d'une audience d'instruction afin d'entendre deux témoins,
+vu l'audience d'instruction du 1
+er
+février 2011, au cours de laquelle le recourant fait valoir qu'il souhaite bénéficier
+d'une aide financière et se réintégrer dans le milieu professionnel, s'engageant à
+se présenter à une nouvelle convocation de l'OAI si une seconde chance lui était offerte,
+vu l'engagement de l'OAI de rouvrir le dossier du recourant afin de mettre en œuvre une nouvelle
+instruction,
+vu la conciliation qui aboutit comme suit:
+"
+1.
+Le recourant retire son recours.
+2.
+L'Office intimé accepte d'annuler sa décision du 10 février 2010.
+3.
+Le recourant s'engage à donner suite à toutes demandes et convocations qui lui seront adressées
+par l'Office ou par toute institution mise en œuvre par celui-ci.
+4.
+Le recourant renonce à tous dépens.
+"
+vu la transaction qui précède et la radiation de la cause du rôle, sans frais ni dépens,
+intervenues à l'issue de l'audience,
+considérant
+que
+le recourant a obtenu, au titre de l'assistance judiciaire, l'exonération de l'avance de frais ainsi
+que la commission d'office d'un avocat, en la personne de Me Olivier Carré, par décision du
+Bureau de l'assistance judiciaire du 9 juillet 2010, jusqu'au terme de la présente procédure
+(art. 118 al. 1 let. a et c CPC [code de procédure civile du 19 décembre 2008, RS 272] par
+renvoi de l'art. 18 al. 5 LPA-VD [loi vaudoise sur la procédure administrative du 28 octobre 2008,
+RDV 173.36]),
+qu'ensuite de la transaction intervenue à l'audience du 1
+er
+février 2011, qui a conduit à la radiation de la cause du rôle sans frais ni dépens,
+la rémunération équitable due au conseil d'office du recourant (art. 122 al. 1 let. a
+CPC par renvoi de l'art. 18 al. 5 LPA-VD) doit être fixée par décision séparée
+prise par le juge délégué (art. 2 al. 4 RAJ [règlement sur l'assistance judiciaire
+en matière civile du 7 décembre 2010, RSV 211.02.3]),
+que le conseil d'office du recourant a produit la liste de ses opérations, laquelle a été
+contrôlée au regard de la procédure,
+que, s'agissant d'une affaire transigée au début de la procédure et en l'absence de liste
+des débours, l'avocat d'office du recourant a droit pour ses débours à une indemnité
+forfaitaire de 50 fr. (art. 3 al. 3 RAJ), plus de 4 fr. de TVA (art. 2 al. 3 RAJ),
+que la rémunération de l'avocat d'office du recourant est ainsi arrêtée à 2'332
+fr. 80 (dont 172 fr. 80 de TVA), plus 54 fr (dont 4 fr. de TVA) d'indemnité pour les débours,
+soit au total 2'386 fr. 80, TVA comprise,
+que si cette rémunération est provisoirement supportée par le canton, le recourant est
+rendu attentif au fait qu'il est tenu d'en rembourser le montant dès qu'il est en mesure de le faire
+(art. 123 al. 1 CPC par renvoi de l'art. 18 al. 5 LPA-VD),
+qu'il incombe au Service juridique et législatif de fixer les modalités de ce remboursement
+(art. 5 RAJ) en tenant compte des montants payés à titre de franchise depuis le début
+de la procédure,
+que, la cause ayant été rayée du rôle sans frais, l'avance de frais de 400 fr. effectuée
+par le recourant lui sera restituée;
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+L'indemnité du conseil d'office Olivier Carré est fixée à 2'386 fr. 80 (deux mille
+trois cent huitante six francs huitante), TVA comprise.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+Me Olivier Carré, à Lausanne (pour Q.________)
+‑
+Office de l'assurance-invalidité pour le canton de Vaud
+-
+Service juridique et législatif
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
