@@ -1,0 +1,120 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___50"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 50"
+decided: "2011-02-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2566345"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-052.md", "switzerland/bund/acts/830.1/art-056.md", "switzerland/bund/acts/831.10/art-001.md"]
+---
+
+# VD Findinfo Décision / 2011 / 50
+
+## Regeste
+
+RADIATION DU RÔLE, DÉCISION D'IRRECEVABILITÉ | 52 al. 1 LPGA, 56 LPGA, 82 LPA-VD, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 25.02.2011 Décision / 2011 / 50
+
+RADIATION DU RÔLE, DÉCISION D'IRRECEVABILITÉ | 52 al. 1 LPGA, 56 LPGA, 82 LPA-VD, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+AVS
+7/11 - 13/2011
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du
+25 février
+2011
+__________________
+Présidence
+de               M.
+Neu
+,
+juge unique
+Greffière :
+Mme
+Desscan
+*****
+Cause
+pendante entre :
+M.
+T.________
+et
+N.
+T.________
+, à Gland, recourants,
+et
+Caisse
+cantonale vaudoise de compensation AVS
+, à
+Clarens, intimée.
+_______________
+Art.
+52 al. 1 et 56 LPGA
+;
+art. 82 al. 1 et 94 al. 1 let. c LPA-VD
+E n  f a i t  e t  e n  d r o i t :
+Vu
+le recours déposé le 23 février 2011 par les époux M. T.________ et N. T.________
+contre une décision rendue le 3 février 2011 par la Caisse cantonale vaudoise de compensation
+AVS (ci-après : la caisse), leur refusant la prise en compte d'une période d'assurance
+en France pour le calcul de leur rente AVS,
+vu les pièces produites par les recourants à l'appui de leur écriture ;
+attendu que, à teneur de l’art. 56 al. 1 LPGA (loi fédérale du 6 octobre 2000 sur
+la partie générale du droit des assurances sociales ; RS 830.1), applicable par renvoi
+de l’art. 1 al. 1 LAVS (loi fédérale du 20 décembre 1946 sur l'assurance vieillesse
+et survivants ; RS 831.10), seules les décisions rendues sur opposition et celles contre lesquelles
+la voie de l’opposition n’est pas ouverte peuvent faire l’objet d’un recours
+au Tribunal cantonal,
+qu’en l’espèce, le recours a été formé contre une décision sujette
+à opposition, sans que la procédure d’opposition – à laquelle les recourants
+ont été rendus attentifs par l'indication des voies de droit au pied de la décision attaquée
+– ait été introduite, diligentée et ait donné lieu à une décision
+sur opposition, comme le prévoit l’art. 52 LPGA,
+qu’ainsi, le recours formé devant le tribunal de céans s’avère prématuré
+et, partant, manifestement irrecevable,
+qu’en conséquence, la cause doit être rayée du rôle du tribunal par le juge
+instructeur (art. 94 al. 1 let. c LPA-VD [loi cantonale vaudoise sur la procédure administrative
+du 28 octobre 2008 ; RSV 173.36]) et transmise à l’autorité d’opposition compétente
+pour en connaître, soit la caisse intimée, à Clarens, cela sans échange d'écritures,
+par décision immédiate (art. 82 LPA-VD) ;
+attendu qu’il n’y a pas lieu de percevoir de frais, la procédure étant gratuite,
+ni d’allouer de dépens (art. 61 let. a et g LPGA).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Prématuré, le recours est irrecevable.
+II.
+La cause est rayée du rôle et transmise à la Caisse cantonale vaudoise de compensation
+AVS, autorité d'opposition compétente pour en connaître.
+III.
+Il n'est pas perçu de frais, ni alloué de dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+M. M. T.________
+‑
+Caisse cantonale vaudoise de compensation AVS
+-
+Office fédéral des assurances sociales (OFAS)
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
