@@ -1,0 +1,211 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___52"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 52"
+decided: "2011-02-28"
+published: "2011-02-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2573164"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 52
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE COLLUSION, RISQUE DE RÉCIDIVE | 221 CPP (CH), 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 28.02.2011 Décision / 2011 / 52
+
+DÉTENTION PRÉVENTIVE, RISQUE DE COLLUSION, RISQUE DE RÉCIDIVE | 221 CPP (CH), 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+31
+PE11.002041-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 28 février 2011
+_____________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Brabis
+*****
+Vu l'
+enquête n° PE11.002041-CPB
+instruite par le Procureur du Ministère public de l'arrondissement de Lausanne contre
+J.________
+pour brigandage, d'office et sur plainte d'
+S.________
+et
+F.________
+,
+vu le mandat d'arrêt notifié à J.________ le 10 février 2011,
+vu la proposition du Ministère public de l'arrondissement de Lausanne au Tribunal des mesures de
+contrainte tendant à ordonner la détention provisoire de J.________,
+vu l'ordonnance du 12 février 2011, par laquelle le Tribunal des mesures de contrainte a ordonné
+la détention provisoire de J.________ et dit que les frais suivaient le sort de la cause,
+vu le recours interjeté en temps utile par le prénommé contre cette décision,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]) contre une décision du Tribunal des mesures de contrainte dans
+un cas prévu par le CPP (art. 393 al. 1 let. c et 222 CPP), par le détenu qui a qualité
+pour recourir (art. 222 et 382 al. 1 CPP), le recours est recevable;
+attendu qu'en vertu de l'art. 221 al. 1 CPP; la détention provisoire et la détention pour des
+motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement
+soupçonné d'avoir commis un crime ou un délit et qu'il y a sérieusement lieu de craindre
+qu'il se soustraie à la procédure pénale ou à la sanction prévisible en prenant
+la fuite (let. a), qu'il compromette la recherche de la vérité en exerçant une influence
+sur des personnes ou en altérant des moyens de preuves (let. b) ou encore qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre (let. c),
+qu'en outre, la détention provisoire et la détention pour des motifs de sûreté ne
+doivent pas durer plus longtemps que la peine privative de liberté prévisible (art. 212 al.
+3 CPP);
+attendu que la mise en détention provisoire n'est possible que s'il existe, préalablement à
+toute autre cause, de graves soupçons de culpabilité d'avoir commis un crime ou un délit
+à l'égard de l'auteur présumé (Schmocker, Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, nn. 7 ss ad art. 221, pp. 1024 ss),
+qu'en l'espèce, J.________ est soupçonné de s'être approprié les téléphones
+portables de F.________ et S.________ en les ayant menacés avec un couteau "papillon"
+(PV aud. 1 et 2),
+que les faits se seraient produits dans le M2 à Lausanne le 4 février 2011,
+qu'entendu sur ce qui lui était reproché, J.________ a d'abord admis avoir volé les téléphones
+portables des plaignants en les menaçant avec son couteau "papillon" (PV aud. 3, p. 3),
+qu'il a par la suite reconnu uniquement le vol des portables, affirmant ne pas les avoir menacés
+avec son couteau (PV aud. 4, p. 2),
+que le couteau en question a été trouvé en possession du prévenu lors de son interpellation
+(PV aud. 3, p. 3),
+que compte tenu de l'ensemble des éléments figurant au dossier, il existe contre J.________
+des présomptions de culpabilité suffisantes;
+attendu que la décision attaquée se
+fonde sur le risque de compromettre sérieusement la sécurité d'autrui, en d'autres termes
+sur le risque de récidive (art. 221 al. 1 let. c CPP),
+qu'une détention provisoire fondée sur le risque de récidive exige que le prévenu
+ait déjà commis des infractions (donc deux au minimum) du même genre que celle qu'il y
+a sérieusement lieu de redouter (Message du Conseil fédéral relatif à l’unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. pp.
+1210-1211),
+qu'il faut donc que ce soit du même genre de peine que les infractions commises par le passé
+et non pas le crime ou le délit que le prévenu est fortement soupçonné d’avoir
+commis, mais celui que l’on a sérieusement lieu de redouter (ibidem),
+que le terme infraction du même genre indique que les infractions précédentes doivent
+être des crimes ou des délits et que l'infraction redoutée doit être similaire, sans
+pour autant être identique (Schmocker, op. cit., n. 18 ad art. 221 CPP, p. 1028),
+que pour établir son pronostic, l'autorité doit s'attacher à la situation personnelle
+du prévenu en tenant compte notamment de ses antécédents judiciaires de l’inculpé,
+de sa fragilité psychique, de ses fréquentations, de la nature des infractions commises, du
+nombre et de la fréquence des infractions en cause (Schmocker, op. cit., n. 20 ad art. 221 CPP,
+p. 1028),
+qu’en l’espèce, le recourant
+a déjà eu affaire à la justice,
+qu'il a en effet été condamné à cinq reprises du 19 février 2008 au 27 juillet
+2009, notamment pour abus de confiance, vol, complicité de brigandage, complicité d'extorsion
+et de chantage, escroquerie et faux dans les titres,
+que de plus, outre la présente enquête, J.________ fait l'objet de quatre autres enquêtes
+pénales pour vol et violation de domicile,
+qu'au vu de ce qui précède, il y a lieu de redouter que le recourant commette à nouveau
+des infractions du même genre que celles qu'il a à réitérées reprises commises
+par le passé, soit des infractions contre le patrimoine,
+que le maintien du recourant en détention provisoire se justifie dès lors au regard de l'art.
+221 al. 1 let. c CPP;
+attendu que le maintien du prévenu en détention peut être justifié par un risque
+de collusion (art. 221 al. 1 let. b CPP), par exemple lorsqu’il est à craindre que l’intéressé
+ne mette sa liberté à profit pour faire disparaître ou altérer les preuves, ou qu’il
+prenne contact avec des témoins ou d’autres prévenus pour tenter d’influencer leurs
+déclarations (TF 1B_55/2010 du 11 mars 2010 c. 3.1),
+que ce risque doit être étayé par des faits concrets et précis, la simple possibilité
+théorique que le prévenu se livre à des manœuvres destinées à compromettre
+la recherche de la vérité ne suffisant pas (Schmocker, op. cit., n. 16 ad art. 221, p. 1027;
+ATF 132 I 21 c. 3.2),
+qu’en l’espèce, J.________ est également soupçonné d'avoir commis un
+brigandage le 14 février 2011 à Lausanne (PV aud. 3, p. 4),
+qu'il a contesté ces faits (ibidem),
+qu'il est toutefois hautement vraisemblable que le recourant ne se soit pas expliqué intégralement
+sur son activité délictueuse,
+que le résultat des investigations menées pourrait être compromis si le recourant venait
+à être remis en liberté,
+que la recherche de la vérité fait ainsi également obstacle, en l’état, à
+la relaxation du recourant;
+attendu que la proportionnalité de la détention doit être examinée au regard de l'ensemble
+des circonstances concrètes du cas d'espèce (ATF 133 I 168 c. 4.1 et les arrêts cités),
+que le juge peut maintenir la détention préventive aussi longtemps qu'elle n'est pas très
+proche de la durée de la peine privative de liberté à laquelle il faut s'attendre concrètement
+en cas de condamnation (TF 1B_256/2010 du 26 août 2010 c. 3.1; ATF 133 I 168 c. 4.1; ATF 132 I 21
+c. 4.1),
+qu'en l'espèce, J.________ est placé en détention provisoire depuis le 10 février
+2011, soit depuis 18 jours,
+qu'inculpé de brigandage, il encourt une peine privative de liberté d'une durée supérieure
+à la détention subie jusqu'à maintenant si les faits sont avérés,
+que, par conséquent, le principe de proportionnalité des intérêts en présence
+demeure respecté, compte tenu de la gravité des infractions reprochées au recourant et
+de la durée de la détention préventive déjà subie;
+attendu, en définitive, que le recours doit être rejeté et l'ordonnance confirmée,
+que les frais de la procédure de recours, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à 360 fr., plus la TVA, par 28 fr.
+80, soit un total de 388 fr. 80, sont mis à la charge du recourant, qui succombe (art. 428 al. 1
+CPP),
+que le remboursement à l'Etat de l'indemnité allouée au défenseur d'office de J.________
+ne sera toutefois exigible pour autant que la situation économique de ce dernier se soit améliorée
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 388 fr. 80 (trois cent huitante-huit
+francs et huitante centimes) l'indemnité allouée au défenseur d'office de J.________.
+IV.
+Dit que les frais de la présente décision,
+par 550 fr. (cinq cent cinquante francs), ainsi que l'indemnité due au défenseur d'office du
+recourant, par 388 fr. 80 (trois cent huitante-huit francs et huitante centimes), sont mis à la
+charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique de J.________ se soit améliorée.
+VI.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Mme Gisèle de Benoit, avocate (pour J.________),
+-
+Procureur général du canton de Vaud.
+et communiqué à :
+‑
+Tribunal des mesures de contrainte.
+-
+Ministère public de l'arrondissement de Lausanne
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
