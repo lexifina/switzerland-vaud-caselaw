@@ -1,0 +1,189 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___54"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 54"
+decided: "2011-03-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2573135"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-260bis.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 54
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, MENACE{DROIT PÉNAL}, DANGER{EN GÉNÉRAL} | 212 CPP (CH), 221 al. 2 CPP (CH), 222 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.03.2011 Décision / 2011 / 54
+
+DÉTENTION PRÉVENTIVE, MENACE{DROIT PÉNAL}, DANGER{EN GÉNÉRAL} | 212 CPP (CH), 221 al. 2 CPP (CH), 222 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+35
+PE10.031391-PHK
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 mars 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Mirus
+*****
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 25 février 2011 par
+A.________
+dans la cause
+n° PE10.031391-PHK
+.
+Elle considère:
+E
+n  f a i t :
+A.
+Soupçonné de vol, vol d'importance mineure, dommages à la propriété, violation
+de domicile, infraction à la LArm, vol d'usage, conduite sans permis de conduire et violence ou
+menace contre les autorités et les fonctionnaires, A.________ a été appréhendé
+et arrêté le 15 février 2011.
+B.
+Le 16 février 2011, le Ministère public de l'arrondissement de Lausanne a adressé au Tribunal
+des mesures de contrainte une requête de mise en détention provisoire d'A.________, invoquant
+tout d'abord le risque de réitération (art. 221 al. 1 let. c CPP), au vu de la fréquence
+des agissements du prénommé, puis le risque de passage à l'acte (art. 221 al. 2 CPP),
+au vu de ses nombreuses menaces de mort et de la forte probabilité qu'il les mette à exécution.
+Dans ses déterminations du 17 février 2011, A.________ s'est opposé à sa mise en
+détention provisoire. Il a fait valoir qu'il n'avait jamais compromis la sécurité d'autrui
+par des crimes ou des délits graves et qu'aucun élément au dossier ne permettait d'accorder
+du crédit aux menaces qu'il avait proférées. Par conséquent, il a soutenu que les
+conditions légales de la mise en détention provisoire n'étaient pas réalisées.
+C.
+Par ordonnance du 18 février 2011, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire d'A.________.
+D.
+En temps utile, ce dernier a recouru contre cette décision.
+E
+n  d r o i t :
+1.
+Aux termes de l’art.
+393 al. 1 let. c CPP, le recours est recevable contre les décisions du Tribunal des mesures de contrainte
+dans les cas prévus par le code. L’art. 222 CPP prévoit que le détenu peut attaquer
+devant l’autorité de recours les décisions ordonnant une mise en détention provisoire
+ou une mise en détention pour des motifs de sûreté ou encore la prolongation ou le terme
+de cette détention. Le recours doit être adressé par écrit, dans un délai de
+dix jours dès la notification de la décision attaquée (cf. art. 384 let. b CPP), à
+l’autorité de recours (art. 396 al. 1 CPP), qui dans le canton de Vaud est la Chambre
+des recours pénale du Tribunal cantonal (art. 13 LVCPP, RSV 312.01 ; art. 80 LOJV, RS 173.01).
+En l’espèce, il y a donc lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente.
+2.
+L’art. 212 CPP pose le principe que le prévenu reste en liberté ; il ne peut être
+soumis à des mesures de contrainte entraînant une privation de liberté que dans les limites
+des dispositions du code (al. 1) ; les mesures de contrainte entraînant une privation de liberté
+doivent être levées dès que (a) les conditions de leur application ne sont plus remplies,
+(b) la durée prévue par le code ou fixée par un tribunal est expirée ou (c) des mesures
+de substitution permettent d’atteindre le même but (al. 2) ; la détention provisoire
+et la détention pour des motifs de sûreté ne doivent pas durer plus longtemps que la peine
+privative de liberté prévisible (al. 3).
+L'art. 221 al. 2 CPP prévoit que la détention peut être ordonnée s'il y a sérieusement
+lieu de craindre qu'une personne passe à l'acte après avoir menacé de commettre un crime
+grave. Ce motif de détention peut non seulement s'appliquer à une personne ayant accompli des
+actes préparatoires délictueux au sens de l'art. 260 bis CP ou ayant commis une tentative
+au sens de l'art. 22 CP, mais également à une personne s'étant livrée à d'autres
+actes non prévus par la loi lorsque ceux-ci sont en tous points comparables s'agissant du risque
+de commission d'un crime (en l'occurrence des menaces de mort). En outre, pour admettre que le suspect
+menace sérieusement de passer à l'acte, il n'est pas nécessaire qu'il ait pris des mesures
+concrètes pour commettre l'infraction redoutée. Il suffit que, sur la base de sa situation
+personnelle et des circonstances d'espèce, la probabilité de passage à l'acte puisse être
+considérée comme très élevée (Schmocker, in Kuhn/Jeanneret, Commentaire romand,
+Code de procédure pénale suisse, 2011, n. 22 ad art. 221 CPP et la jur. cit.).
+3.
+En l'espèce, il ressort de l'ordonnance attaquée qu'A.________ aurait adopté, durant plusieurs
+séjours à l'hôpital de Cery, ainsi qu'au Centre Psychiatrique du Nord vaudois (ci-après:
+CPNVD), une attitude violente à l'encontre du personnel soignant, qu'il aurait en outre menacé
+de mort. Le 14 décembre 2010, il aurait également menacé de faire exploser l'hôpital
+de Cery à l'aide d'une bombe artisanale qu'il prétendait savoir fabriquer. Le 12 janvier 2011,
+contrarié suite à une convocation de la police remise par son tuteur, l'intéressé
+serait devenu très agressif et aurait dévasté les locaux de l'Office du Tuteur général,
+ce qui aurait nécessité l'intervention de la police. Le 10 février 2011, à la place
+Chauderon à Lausanne, A.________ aurait poursuivi un homme et l'aurait violemment poussé contre
+un véhicule. Mobilisé sur les lieux, un agent de police aurait été menacé de
+mort par l'intéressé. Enfin, le 11 février 2011, A.________ se serait présenté
+aux urgences du CHUV, où il aurait menacé l'un des agents de sécurité. Transporté
+au CPNVD la nuit même, il aurait menacé les infirmières du service de les égorger.
+En raison de sa violence et de son agressivité, il a dû être placé en chambre fermée.
+Au vu de ce qui précède, on ne peut que constater qu'A.________ est incapable de canaliser
+son agressivité et qu'il est particulièrement dangereux. Il résulte d'ailleurs des diverses
+plaintes figurant au dossier que l'intervention de la police ou de la sécurité est à chaque
+fois nécessaire pour maîtriser l'intéressé. Il convient également de tenir compte
+du fait que ces plaintes émanent de professionnels de la santé, en milieu psychiatrique. A
+cet égard, il est significatif que des médecins d'institutions spécialisées estiment
+que la dangerosité d'A.________ atteint un seuil critique (cf. P. 16, p. 2). Dans ces circonstances
+et contrairement à ce que soutient le recourant, les menaces de mort proférées par A.________
+sont à prendre au sérieux.
+Force est dès lors d'admettre qu'il existe un risque très élevé qu'A.________ perde
+tout contrôle et mette ses menaces de mort à exécution, de sorte que les conditions prévues
+à l'art. 221 al. 2 CPP pour ordonner la détention provisoire sont réalisées. Il conviendra
+par ailleurs de mettre en œuvre rapidement une expertise psychiatrique, dans le but d'évaluer
+le risque que le recourant fait courir aux autres et de proposer, le cas échéant, les mesures
+qui s'imposent.
+4.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans autres
+échanges d’écritures (art. 390 al. 2 CPP). Les frais d'arrêt, ainsi que l'indemnité
+due à son conseil d'office, par 360 fr., plus la TVA, soit 388 fr. 80, seront mis à la charge
+du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 388 fr.80 (trois cent huitante-huit
+francs et huitante centimes) l'indemnité due au conseil d'office d'A.________.
+IV.
+Dit que les frais d'arrêt, par 550 fr. (cinq
+cent cinquante francs), ainsi que l'indemnité due à son conseil d'office, sont mis à la
+charge du recourant.
+V.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Pierre Chiffelle, avocat (pour A.________),
+-
+M. A.________,
+-
+Ministère public central.
+et communiqué à :
+‑
+Tribunal des mesures de contraintes,
+-
+Procureur de l'arrondissement de Lausanne.
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
