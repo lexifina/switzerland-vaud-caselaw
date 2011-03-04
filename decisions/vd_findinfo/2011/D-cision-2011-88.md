@@ -1,0 +1,114 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___88"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 88"
+decided: "2011-03-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2604584"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2011 / 88
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ | 27 al. 5 LPA-VD, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 04.03.2011 Décision / 2011 / 88
+
+DÉCISION D'IRRECEVABILITÉ | 27 al. 5 LPA-VD, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+34/11
+- 139/2011
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 4 mars 2011
+__________________
+Présidence
+de               M.
+Métral
+,
+juge unique
+Greffier
+:
+Mme              Parel
+*****
+Cause
+pendante entre :
+J.________
+,
+à Lausanne, recourant, représenté par sa mère [...]
+et
+OFFICE
+DE L'ASSURANCE-INVALIDITE POUR LE CANTON DE VAUD
+,
+à Vevey, intimé
+_______________
+Art.
+94 al. 1 let. c LPA-VD
+Vu la décision du 29 octobre 2010 de l’Office
+de l’assurance-invalidité pour le canton de Vaud (ci-après : OAI) relative à la
+suppression, dès le 31 octobre 2010, d’une rente ordinaire pour enfant qui était versée
+à J.________, au motif qu’il avait atteint la limite d’âge de 25 ans,
+vu l’envoi au Tribunal cantonal, par la mère de J.________, déclarant agir pour ce dernier,
+de la décision de l’OAI du 29 octobre 2010 avec une annotation indiquant, en substance, que
+J.________ était en troisième année de formation et que la rente avait cessé d’être
+versée dès le mois d’octobre 2010, et demandant au tribunal de bien vouloir faire le
+nécessaire,
+vu la lettre du 4 février 2011, notifiée le 11 février, par laquelle le juge instructeur
+informait le recourant du fait que l’acte de recours ne répondait pas aux exigences de forme
+posées par la loi (motivation et conclusions) et l’invitait à compléter le recours
+dans un délai de dix jours, en précisant qu’à défaut de complément de
+motivation, le recours serait réputé retiré conformément à l’art. 27 al.
+5 LPA-VD (loi vaudoise sur la procédure administrative du 28 octobre 2008; RSV 173.36);
+attendu que le recourant n’a pas réagi à cette correspondance,
+qu’aux termes de l’art. 79 al. 1 LPA-VD (applicable par renvoi de l’art. 99 LPA-VD),
+l’acte de recours doit être signé et indiquer les conclusions et motifs du recours (cf.
+également art. 61 let. b LPGA [loi fédérale du 6 octobre 2000 sur la partie générale
+des assurances sociales]; RS 830.1),
+que si ces conditions ne sont pas remplies, le juge impartit un bref délai au recourant pour compléter
+le recours, en l’informant qu’à défaut, celui-ci sera réputé retiré
+(art. 27 al. 5 LPA-VD, cf. art. 61 let. b LPGA),
+qu’en l’espèce, le recours est dépourvu de motivation et de conclusions,
+que le recourant n’ayant pas réagi à la lettre du 4 février 2011 l’invitant
+à compléter son recours, celui-ci est irrecevable,
+que le juge unique est compétent pour prononcer l’irrecevabilité (art. 94 al. 1 let.
+c LPA-VD, l’art. 27 al. 5 LPA-VD assimilant ce prononcé à une radiation du rôle
+par suite de retrait du recours),
+qu’il n’y a pas lieu de percevoir de frais ni d’allouer de dépens (art. 50, 55
+et 91 LPA).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le recours est irrecevable.
+II.
+Il n'est pas perçu de frais de justice ni alloué de dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+[...] (pour le recourant), à Lausanne,
+‑
+Office de l'assurance-invalidité pour le canton de Vaud, à Vevey,
+-
+Office fédéral des assurances sociales, à Berne,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
