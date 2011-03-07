@@ -1,0 +1,173 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___63"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 63"
+decided: "2011-03-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2594601"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-397.md"]
+---
+
+# VD Findinfo Décision / 2011 / 63
+
+## Regeste
+
+DÉFENSE D'OFFICE | 132 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 07.03.2011 Décision / 2011 / 63
+
+DÉFENSE D'OFFICE | 132 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+41
+PE10.010007-LML
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 7 mars 2011
+___________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Abrecht
+Greffière
+:              Mme
+Brabis
+*****
+Art.
+132 al. 1 let. b CPP
+Vu l'
+enquête n° PE10.010007-LML
+instruite par le Procureur de l'arrondissement de Lausanne contre
+S.________
+pour violation d'une obligation d'entretien, sur plainte du
+T.________
+,
+vu l'ordonnance du Procureur de l'arrondissement de Lausanne du 25 janvier 2011, par laquelle il a rejeté
+la requête de désignation d'un défenseur d'office à S.________ (I) et dit que les
+frais suivaient le sort de la cause (II),
+vu le recours interjeté en temps utile par S.________ contre cette ordonnance,
+vu les déterminations du T.________,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]) contre une décision du ministère public (art. 393 al.
+1 let. a CPP), par le prévenu qui a qualité pour recourir (art. 382 al. 1 CPP), le recours
+est recevable;
+attendu qu'en vertu de l'art. 132 al. 1 let. b CPP, la direction de la procédure ordonne une défense
+d'office si le prévenu ne dispose pas des moyens nécessaires et que l'assistance d'un défenseur
+est justifiée pour sauvegarder ses intérêts,
+que selon cette disposition, le droit de bénéficier de l'assistance d'un défenseur d'office
+est soumis à deux conditions, à savoir que le prévenu ne dispose pas des moyens nécessaires
+pour rémunérer un défenseur et que la sauvegarde de ses intérêts justifie une
+telle assistance,
+que selon la jurisprudence, une personne est indigente lorsqu'elle n'est pas en mesure d'acquitter les
+frais du procès sans avoir recours à des moyens qui lui sont nécessaires pour subvenir
+à ses besoins élémentaires et à ceux de sa famille (ATF 128 I 225 c. 2.5.1, JT 2006
+IV 47),
+que la deuxième condition s'interprète à l'aune des critères mentionnés aux
+art. 132 al. 2 et 3 CPP (Harari/Aliberti, Commentaire romand, Code de procédure pénale suisse,
+Bâle 2011, nn. 60 ss ad art. 132, p. 558),
+que selon l'art. 132 al. 2 CPP, les intérêts du prévenu justifient une défense d'office
+notamment lorsque l'affaire n'est pas de peu de gravité et qu'elle présente des difficultés
+de fait ou de droit que le prévenu ne pourrait surmonter seul,
+que ces deux conditions incorporent la jurisprudence de la Cour Européenne des Droits de l'Homme
+et du Tribunal fédéral en la matière (Harari/Aliberti, op, cit., n. 61 ad art. 132, p.
+558),
+que l'art. 132 al. 3 CPP précise qu'en tout état de cause, une affaire n'est pas de peu de
+gravité lorsque le prévenu est passible d'une peine privative de liberté de plus de quatre
+mois, d'une peine pécuniaire de plus de 120 jours-amende ou d'un travail d'intérêt général
+de plus de 480 heures,
+qu'en l'espèce, s'agissant de la première condition, soit de l'indigence, il ressort du rapport
+d'enquête de personnalité que le recourant est dans une situation financière précaire
+(P. 9),
+qu'en outre, S.________ a signé un contrat de travail au mois de décembre 2010 pour une durée
+déterminée du 11 décembre 2010 au 25 avril 2011 prévoyant un salaire mensuel brut
+de 1'634 fr. 54 euros (P. 12/2),
+qu'au vu de ces éléments la première condition de l'art. 132 al. 1 let. b CPP est réalisée,
+que concernant la question de savoir si la sauvegarde des intérêts du prévenu justifie
+une telle assistance, la cause n'est certes pas complexe au niveau du droit et des faits,
+que le prévenu est en effet soupçonné d'avoir commis une violation d'une obligation d'entretien
+par le fait de n'avoir pas payé la pension alimentaire en faveur de sa fille depuis le 1
+er
+septembre 2009, accumulant un arriéré pénal de 11'400 fr. au 13 janvier 2011,
+que toutefois, le cas ne saurait être considéré comme de peu de gravité,
+que compte tenu des circonstances et de la situation personnelle du recourant, notamment de ses antécédents
+pénaux, une peine égale ou supérieure à 4 mois ne saurait effectivement être
+totalement exclue,
+qu'en outre, S.________ est domicilié en France et ne peut pas se rendre en Suisse, puisqu'il est
+sous le coup d'une mesure d'expulsion suite à sa condamnation prononcée le 13 juin 2005 par
+le Tribunal du district de Sion,
+qu'il se trouve dès lors dans l'incapacité de faire valoir normalement et pleinement ses moyens
+de défense,
+que l'assistance d'un défenseur d'office est par conséquent nécessaire,
+qu'au vu ce de qui précède, un défenseur d'office est désigné au recourant en
+la personne de l'avocat Fabien Mingard, d'ores et déjà consulté;
+attendu, en définitive,
+que le recours est admis,
+qu'une annulation de l'ordonnance
+attaquée et un renvoi à l'autorité inférieure pour nouvelle décision au sens
+de l'art. 397 al. 2 CPP ne se justifie pas dans le cas d'espèce, puisque l'autorité inférieure
+n'a pas constaté les faits de manière incomplète (Rémy, Commentaire romand, Code
+de procédure pénale suisse, Bâle 2011, n. 5 ad art. 397, p. 1767),
+que l'ordonnance peut
+être réformée en ce sens que Me Fabien Mingard est désigné en qualité de
+défenseur d'office de S.________ tant pour la suite de la procédure au fond que pour la présente
+procédure de recours,
+que l'indemnité due au défenseur d'office du recourant pour le présent recours est fixée
+à 360 fr., plus la TVA, par 28 fr. 80, soit 388 fr. 80,
+que les frais d'arrêt ainsi que l'indemnité du défenseur d'office sont laissés à
+la charge de l'Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Réforme l'ordonnance en ce sens que Me Fabien Mingard, avocat, est désigné en qualité
+de défenseur d'office de S.________ tant pour la suite de la procédure au fond que pour la
+présente procédure de recours.
+III.
+Fixe à 388 fr. 80 (trois cent huitante-huit francs et huitante centimes) l'indemnité due au
+défenseur d'office du recourant pour la présente procédure de recours.
+IV.
+Dit que les frais de la présente décision, par 440 fr. (quatre cent quarante francs), ainsi
+que l'indemnité du défenseur d'office, par 388 fr. 80 (trois cent huitante-huit francs et huitante
+centimes), sont laissés à la charge de l'Etat.
+V.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Fabien Mingard (pour S.________),
+-
+Service de prévoyance et d'aide sociales (réf.: 1044525)
+-
+Ministère public central,
+et communiquée à :
+‑
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
