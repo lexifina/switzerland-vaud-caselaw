@@ -1,0 +1,165 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___87"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 87"
+decided: "2011-03-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2606251"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/241/art-001.md", "switzerland/bund/acts/241/art-002.md", "switzerland/bund/acts/241/art-003.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 87
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 3 al. 1 let. a LCD, 310 CPP (CH), 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.03.2011 Décision / 2011 / 87
+
+CLASSEMENT DE LA PROCÉDURE | 3 al. 1 let. a LCD, 310 CPP (CH), 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+60
+PE11.002363-ECO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 10 mars 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Abrecht
+Greffière
+:              Mme
+de Watteville
+*****
+Art.
+310, 393 CPP
+Vu l'
+enquête n° PE11.002363-ECO
+instruite par le Ministère public central contre
+Q.________
+,
+H.________
+et
+T.________
+pour infraction à la Loi fédérale contre la concurrence déloyale, sur plainte de
+D.________
+et
+J.________
+,
+vu l'ordonnance de non-entrée en matière du 17 février 2011, par laquelle le Ministère
+public n'est pas entré en matière et a laissé les frais à la charge de l'Etat,
+vu le recours interjeté en temps utile par D.________ et J.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal de 10 jours (art. 322 al. 2 et 396 al. 1 CPP [Code
+de procédure pénale suisse du 5 octobre 2007, RS 312.0]) contre une décision du ministère
+public (art. 393 al. 1 let. a CPP), par les plaignants qui ont qualité pour recourir (art. 382 al.
+1 CPP), le recours est recevable;
+attendu que le 29 décembre 2010, D.________ et J.________ ont porté plainte contre Q.________,
+H.________ et T.________ pour violation de l'art. 3 let. a LCD (Loi fédérale du 19 décembre
+1986 contre la concurrence déloyale, RS 241),
+que D.________ et J.________, ci-après les plaignants, étaient les conseils de deux parties
+recourantes dans une procédure se déroulant devant le Tribunal fédéral,
+que, selon les plaignants, les juges fédéraux auraient indiqué à tort, dans l'arrêt
+du Tribunal fédéral, [...], [...] sur le site internet, qu'ils n'avaient pas motivé leurs
+griefs (P. 4),
+que ce faisant, les juges auraient dénigré les prestations des plaignants et violé l'art.
+3 let. a LCD;
+attendu que le Procureur général a rendu une ordonnance de non-entrée en matière,
+considérant que les éléments constitutifs de l'infraction ne sont manifestement pas réunis,
+que D.________ et J.________ contestent cette décision,
+qu'ils concluent en substance à l'annulation de l'ordonnance et au renvoi du dossier au Procureur
+général afin qu'il demande à l'Assemblée fédérale la levée de l'immunité
+des trois juges fédéraux, puis qu'il procède à l'instruction de la cause (P. 4, 6/1,
+7);
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont manifestement pas réunis,
+qu'en l'espèce, les plaignants accusent les juges fédéraux d'infraction à la LCD,
+que la LCD vise à garantir une concurrence loyale et qui ne soit pas faussée par les privés
+(art. 1 LCD),
+que, pour qu'il y ait acte de concurrence déloyale, le comportement doit influer sur les rapports
+entre concurrents ou entre fournisseurs et clients, en ce sens qu'il doit être objectivement propre
+à avantager ou désavantager une entreprise dans sa lutte pour acquérir de la clientèle,
+ou à accroître ou diminuer ses parts de marché (art. 2 LCD; ATF 126 III 198 c. 2.c.aa),
+que celui qui n'a pas de rapport de concurrence avec les fournisseurs ou les clients en question peut
+également agir de façon déloyale (ATF 126 III 198 c. 2.c.aa ; ATF 120 II 76 c. 3a,
+JT 1994 I 365),
+que, concernant le volet pénal, se rend coupable de concurrence déloyale celui qui intentionnellement
+dénigre autrui, ses marchandises, ses œuvres, ses prestations, ses prix ou ses affaires par
+des allégations inexactes, fallacieuses ou inutilement blessantes (art. 3 let. a et 23
+LCD),
+que par "dénigrer" il faut entendre s'efforcer de noircir, de faire mépriser (quelqu'un
+ou quelque chose) en attaquant ou en niant les qualités (ATF 122 IV 33 c. 2c, JT 1998 IV 27),
+que, toutefois, tout propos négatif ne suffit pas et doit revêtir un certain caractère
+de gravité (TF 6B.824/2007 du 17 avril 2008, c. 2.2.1),
+que dans le cas présent, le Tribunal fédéral se contente, conformément à sa
+mission, de discuter du bien-fondé des arguments des parties,
+que dans les considérants, les juges fédéraux ne font pas référence aux conseils,
+mais parlent simplement de "Beschwerdeführerinnen" et "Beschwerdegegnerin" qui
+se rapportent aux recourantes et intimées mais non aux avocats,
+que le nom des parties dans le jugement en cause est anonymisé, seul celui des avocats figurant
+dans l'arrêt,
+que, dans les différents arrêts publiés par le Tribunal fédéral, le nom des
+conseils des parties n'est jamais anonymisé,
+que les juges doivent pouvoir agir dans le cadre de leur fonction avec la liberté qu'elle implique,
+qu'en indiquant que les recourantes n'auraient pas motivé leurs griefs, les juges du Tribunal fédéral
+ne noircissent, ni ne méprisent les compétences des avocats D.________ et J.________,
+que force est de constater que l'infraction prévue à l'art. 3 let. a LCD n'est pas réalisée,
+qu'en effet, les éléments constitutifs de l'infraction, tant objectifs que subjectifs ne sont
+pas réunis,
+que c'est donc à juste titre que le procureur a rendu une ordonnance de non-entrée en matière;
+attendu, en définitive, que le recours, manifestement mal fondé, est rejeté et l'ordonnance
+confirmée,
+que les frais de la procédure de recours, par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.01]), sont mis à la charge de D.________ et J.________
+(art. 428 al. 1 CPP) à parts égales et solidairement entre eux (art. 418 al. 1 et
+2 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Dit que les frais de la procédure de recours,
+par 440 fr. (quatre cent quarante francs), sont mis à la charge de D.________ et J.________ à
+parts égales et solidairement entre eux.
+IV.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. D.________,
+-
+M. J.________,
+-
+M. le Procureur général, au Ministère public central.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
