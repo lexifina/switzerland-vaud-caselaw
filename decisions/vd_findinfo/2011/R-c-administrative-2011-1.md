@@ -1,0 +1,226 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2011___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2011 / 1"
+decided: "2011-03-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2584982"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2011 / 1
+
+## Regeste
+
+RÉCUSATION | 10 al. 2 LPA-VD, 9 let. e LPA-VD
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 14.03.2011 Réc-administrative / 2011 / 1
+Vaud Tribunal cantonal Cour administrative 14.03.2011 Réc-administrative / 2011 / 1
+Vaud Tribunal cantonal Cour administrative 14.03.2011 Réc-administrative / 2011 / 1
+
+RÉCUSATION | 10 al. 2 LPA-VD, 9 let. e LPA-VD
+
+TRIBUNAL
+CANTONAL
+8/2011
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 14 mars 2011
+____________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+9 ss LPA-VD
+Vu le recours déposé le 27 janvier 2011 par A.R.________ et B.R.________ auprès de la
+Cour de droit administratif du Tribunal cantonal (ci-après: CDAP) contre la décision de la
+Municipalité de D.________ du 23 décembre 2010 (levée d'opposition et autorisation de
+créer huit places de parc extérieures, parcelle n° 6'540, Av. [...] 32 à [...]),
+vu la demande déposée le 7 février 2011 par W.________ et T.________, propriétaires
+en hoirie de l'immeuble sis Av. [...] 32, tendant à la récusation du juge instructeur de la
+CDAP Imogen Billotte et de la CDAP
+in
+corpore
+,
+vu les déterminations du 16 février 2011 de A.R.________ et B.R.________,
+vu les déterminations du 17 février 2011 de la Municipalité de D.________,
+vu les déterminations du juge instructeur Imogen Billotte et du président de la 1
+ère
+Cour de droit administratif et public du 17 février 2011,
+vu les pièces au dossier;
+attendu que le recours déposé par A.R.________ et B.R.________ le 27 janvier 2011 est
+pendant devant la CDAP,
+que les art. 9 à 12 de la loi sur la procédure administrative (RSV 173.36; ci-après:
+LPA-VD) sont applicables,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 litt. a du règlement
+organique du Tribunal cantonal (RSV 173.31.1), la Cour administrative est compétente pour statuer
+sur la demande de récusation présentée le 7 février 2011 à l'encontre de la
+juge cantonale Imogen Billotte et de la CDAP en corps;
+attendu que selon l'art. 9 LPA-VD, toute personne
+appelée à rendre ou à préparer une décision ou un jugement doit se récuser
+si elle a un intérêt personnel dans la cause (litt. a), si elle a agi dans la même cause
+à un autre titre, notamment comme membre d'une autorité, comme conseil d'une partie, comme
+expert ou comme témoin (litt. b), si elle est liée par les liens du mariage ou du partenariat
+enregistré ou fait durablement ménage commun avec une partie, son mandataire ou une personne
+qui a agi dans la même cause comme membre de l'autorité précédente, la dissolution
+du mariage ou du partenariat enregistré ne supprimant pas le motif de récusation (litt. c),
+si elle est parente ou alliée en ligne directe ou, jusqu'au troisième degré inclus, en
+ligne collatérale avec une partie, son mandataire ou une personne qui a agi dans la même cause
+comme membre de l'autorité précédente (litt. d) ou si elle pourrait apparaître comme
+prévenue de toute autre manière, notamment en raison d'une amitié étroite ou d'une
+inimitié personnelle avec une partie ou son mandataire (litt. e),
+qu'en vertu de l'art. 10 al. 2 LPA-VD, les parties qui souhaitent demander la récusation d'une autorité
+ou de l'un de ses membres doivent le faire dès la connaissance du motif de récusation,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1;
+ATF
+131 I 24 c. 1.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats
+(ATF
+134 I 20 c. 4.2), qu'elles soient objectives et résultent de faits déterminés (ATF 131
+I 24 c. 1.1; ATF 124 I 121 c. 3a, JT 1999 I 159 ; ATF 115 IA 172 c. 3),
+que les impressions purement individuelles d'une des parties au procès ne sont en revanche pas décisives
+(TF 5D_61/2008 du 20 août 2008 c. 5.3;
+ATF
+131 I 24 c. 1.1),
+qu'en l'espèce, les demanderesses W.________ et T.________ allèguent que la juge cantonale
+Isabelle Guisan, qui siège au sein de la CDAP, est locataire de l'immeuble sis Av. [...] 32 à
+[...],
+qu'elles font valoir qu'Isabelle Guisan a eu un entretien avec le responsable de la Direction des travaux
+de la Municipalité de D.________ au sujet de la création des huit places de parc extérieures
+litigieuses,
+qu'elle est dès lors directement intéressée au sort de la procédure pendante devant
+la CDAP entre A.R.________ et B.R.________ et la Municipalité de D.________,
+qu'elle exerce de plus ses activités au sein de la CDAP, soit la cour dans laquelle siège la
+juge Imogen Billotte, de sorte que celle-ci doit être récusée,
+qu'il en va de même pour tous les autres juges cantonaux siégeant au sein de la CDAP,
+qu'un juge cantonal siégeant dans une autre cour du Tribunal cantonal devrait donc être désigné,
+qu'elles soutiennent qu'une telle solution a déjà été apportée dans le cadre
+d'un recours du 29 avril 2010 interjeté devant la CDAP, notamment par la juge cantonale Isabelle
+Guisan en sa qualité de locataire de l'immeuble sis Av. [...] 32, à l'encontre de décisions
+du Service [...] autorisant l'aliénation dudit immeuble,
+que les demanderesses considèrent que la problématique est la même dans le cadre du recours
+déposé par A.R.________ et B.R.________, de sorte que la solution à y apporter devrait
+être la même,
+que A.R.________ et B.R.________ font en revanche valoir que la demande de récusation est dilatoire
+et infondée,
+qu'ils estiment que la situation est très différente de celle relative à la procédure
+ouverte par le recours déposé le 29 avril 2010, car Isabelle Guisan était alors partie
+à la procédure, ce qui n'est pas le cas en l'espèce,
+que la juge cantonale Imogen Billotte et le président de la 1
+ère
+Cour de droit administratif et public estiment préférable, pour des motifs d'apparence, de
+transmettre le dossier à un juge cantonal ne siégeant pas à la CDAP,
+que les relations professionnelles entre les juges cantonales Isabelle Guisan et Imogen Billotte peuvent
+en effet faire naître une apparence de prévention de la cour appelée à instruire
+et statuer sur le recours,
+que la juge Isabelle Guisan a eu des contacts avec un responsable de la Direction des travaux de la Municipalité
+de D.________ au sujet de la création des places de parc litigieuses,
+que son statut de locataire de l'immeuble litigieux implique qu'elle connaît personnellement les
+recourants A.R.________ et B.R.________, de sorte qu'elle est au courant de l'affaire,
+que la fonction de juge cantonale d'Isabelle Guisan implique qu'elle a également des relations régulières
+avec les autres juges cantonaux au sein de la CDAP, dont la juge instructrice Imogen Billotte,
+qu'ainsi, pour des motifs d'apparence, il ne semble pas adéquat que l'un quelconque des juges cantonaux
+siégeant dans cette cour soit appelé à instruire ou statuer sur le recours de A.R.________
+et B.R.________
+qu'au demeurant, le président de la 1
+ère
+cour de droit administratif et public ainsi que la juge instructrice Imogen Billotte se sont déterminés
+favorablement sur la requête de récusation,
+que la demande de récusation doit dès lors être admise;
+attendu que lorsqu'une demande de récusation de l'ensemble d'une cour du Tribunal cantonal est admise,
+le Tribunal cantonal désigne une cour ad hoc en son sein (art. 8b al. 2 du Code de droit privé
+judiciaire vaudois du 12 janvier 2010; RSV 211.02),
+qu'il y a donc lieu de nommer André Jomini, juge cantonal au sein de la Cour des assurances sociales,
+en qualité de juge instructeur dans la cause qui oppose  A.R.________ et B.R.________ à
+la Municipalité de D.________;
+attendu que la présente décision est rendue sans frais,
+que les demanderesses obtiennent gain de cause, de sorte qu'elles ont droit à l'allocation de dépens
+(art. 55 al. LPA-VD),
+que ceux-ci doivent être mis à charge de la partie qui succombe (art. 55 al. 2 LPA-VD),
+qu'au vu des déterminations du président de la 1
+ère
+cour de droit administratif et public ainsi que de la juge instructrice Imogen Billotte, les dépens
+doivent être mis à la charge de l'Etat,
+que ceux-ci sont fixés à 1'000 francs.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation déposée le 7 février 2011 par W.________ et T.________ à
+l'encontre de la juge cantonale Imogen Billotte et de la Cour de droit administratif et public en corps
+est admise.
+II.
+La cause opposant A.R.________ et B.R.________ à la Municipalité de D.________ actuellement
+pendante devant la Cour de droit administratif et public est transmise, dans l'état où elle
+se trouve, à André Jomini, juge cantonal au sein de la Cour des assurances sociales du Tribunal
+cantonal pour instruire et cas échéant statuer sur le recours déposé le 27 janvier
+2011 par A.R.________ et B.R.________ (référence [...]).
+III.
+Une indemnité de 1'000 fr. est allouée à W.________ et T.________ à titre de dépens,
+à charge de l'Etat de Vaud.
+IV.
+Le présent arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+-
+W.________ et T.________, par l'intermédiaire
+de leur conseil, Me Raymond Didisheim, avocat à Lausanne,
+-
+A.R.________ et B.R.________ personnellement,
+-
+à [...], de l'Office de la police des constructions
+de la Municipalité de D.________, à [...],
+et communiqué par l'envoi de photocopies à :
+-
+Mme la juge cantonale Imogen Billotte, CDAP, à
+Lausanne,
+-
+M. le président de la 1
+ère
+Cour de droit administratif et public Pascal Langone, CDAP, à Lausanne,
+-
+M. le juge cantonal André Jomini, Cour des
+assurances sociales, à Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
