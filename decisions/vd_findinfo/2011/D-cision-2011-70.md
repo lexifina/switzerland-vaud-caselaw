@@ -1,0 +1,155 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___70"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 70"
+decided: "2011-03-14"
+published: "2011-03-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2597452"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/311.0/art-321ter.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2011 / 70
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 14.03.2011 Décision / 2011 / 70
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+48
+PE10.024241-CHM
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 14 mars 2011
+____________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Brabis
+*****
+Art.
+310 al. 1 let. a, 393 ss CPP
+Vu la plainte déposée le 6 octobre 2010 par
+N.________
+contre
+Z.________
+pour violation du secret des postes et des télécommunications,
+vu l’ordonnance du 25 février 2011, par laquelle le Procureur de l'arrondissement de Lausanne
+a rendu une ordonnance de non-entrée en matière et laissé les frais de la procédure
+à la charge de l'Etat (dossier
+n° PE10.024241-CHM
+),
+vu le recours interjeté par N.________ contre cette ordonnance,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]) contre une décision du ministère public (art. 393 al.
+1 let. a CPP), par le plaignant qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est
+recevable;
+attendu que dans le cadre d'une procédure de plainte au sens de l'art. 17 LP (Loi fédérale
+sur la poursuite pour dettes et la faillite du 11 avril 1889, RS 281.1), le plaignant a posté le
+12 avril 2010, sous pli recommandé, un acte à l'attention du Tribunal d'arrondissement de Lausanne,
+avec copie sous pli simple à l'Office des poursuites de Lausanne-Est, autorité intimée,
+que les deux plis sont toutefois parvenus à l'Office des poursuites de Lausanne-Est,
+que le plaignant a, dans un premier temps, porté plainte contre l'Office précité, lui
+reprochant d'avoir ouvert un pli qui était destiné à l'autorité de surveillance en
+matière de poursuites,
+qu'un refus de suivre à la plainte de N.________ a été prononcé par le Juge d'instruction
+de l'arrondissement de Lausanne le 20 août 2010, décision confirmée par le Tribunal d'accusation
+par arrêt du 9 septembre 2010,
+que dans la présente plainte, N.________ soutient que Z.________ s'est rendue coupable de violation
+du secret des postes et des télécommunications en ayant distribué le courrier destiné
+au Tribunal d'arrondissement de Lausanne à l'Office des poursuites de Lausanne-Est, erreur qui a
+conduit à l'ouverture de son pli par la mauvaise autorité,
+que le Procureur de l'arrondissement de Lausanne a rendu une ordonnance de non-entrée en matière,
+considérant que les éléments constitutifs d'une infraction n'étaient pas réunis,
+que N.________ conteste cette ordonnance, concluant implicitement à son annulation,
+qu'il soutient que l'ordonnance aurait dû lui être notifiée par lettre signature ou par
+tout autre mode de communication impliquant un accusé de réception,
+qu'il allègue, en outre, que le procureur aurait dû rendre une ordonnance de non-entrée
+en matière immédiatement après avoir reçu sa plainte,
+qu'en ne réagissant pas immédiatement, le procureur aurait ouvert une instruction par acte
+concluant et aurait dû, de ce fait, rendre une ordonnance de classement, de sorte que l'ordonnance
+de non-entrée en matière serait nulle;
+attendu que le fait de notifier une ordonnance par pli simple n'est pas contraire au droit, même
+si ce mode d'expédition ne permet pas de connaître la date de la notification,
+que dans ce cas, le fardeau de la preuve de la notification d'un acte et de sa date incombe à l'autorité
+qui entend en tirer une conséquence juridique (ATF 129 I 8 c. 2.2; ATF 124 V 400 c. 2a),
+qu'en l'espèce, l'ordonnance litigieuse rendue le 25 février 2011 a été expédiée
+sous pli simple,
+que le recourant admet avoir reçu l'ordonnance entreprise par pli simple du 4 mars 2011,
+que partant, aucun vice de forme ne saurait être retenu, d'autant plus que la cour de céans
+a considéré que le recours avait été déposé en temps utile;
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont manifestement pas réunis,
+qu'en l'espèce, l'ordonnance litigieuse ne peut en aucun cas être considérée comme
+nulle, puisqu'il n'y a eu aucune opération d'enquête depuis le dépôt de la plainte,
+que le procureur était dès lors en droit de rendre une ordonnance de non-entrée en matière
+au sens de la disposition précitée,
+que s'agissant des faits reprochés par le plaignant à Z.________, force est de constater que
+l'infraction prévue à l'art. 321ter CP (Code pénal suisse du 21 décembre 1937, RS
+311.0) n'est pas réalisée,
+qu'en effet, les éléments constitutifs de cette infraction ne sont pas réunis, à
+tous le moins l'élément subjectif, puisque qu'elle nécessite une intention délictuelle,
+qu'en outre, il n'existe aucun indice permettant de penser que le secret postal pourrait avoir été
+violé par un employé de Z.________,
+que c'est donc à juste titre que le procureur a rendu une ordonnance de non-entrée en matière;
+attendu que le recours, mal fondé, doit être rejeté et l'ordonnance confirmée,
+que les frais de la procédure de recours, par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), sont mis à la charge du recourant qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Dit que les frais du présent jugement, par
+440 fr. (quatre cent quarante francs), sont mis à la charge de N.________.
+IV.
+Déclare le présent jugement exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le jugement qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. N.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent jugement peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
