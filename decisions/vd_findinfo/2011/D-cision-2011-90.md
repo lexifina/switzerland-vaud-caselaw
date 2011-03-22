@@ -1,0 +1,164 @@
+---
+decision_id: "vd_findinfo_D_cision___2011___90"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2011 / 90"
+decided: "2011-03-22"
+published: "2011-03-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2613038"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-315.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-323.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-352.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-448.md"]
+---
+
+# VD Findinfo Décision / 2011 / 90
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 22.03.2011 Décision / 2011 / 90
+
+CLASSEMENT DE LA PROCÉDURE | 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+63
+PE10.026230-OOM
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 22 mars 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+de Watteville
+*****
+Art.
+320, 393 al. 1 let. a CPP
+Vu l'
+enquête n° PE10.026230-OOM
+instruite par le Ministère public de l'arrondissement de la Côte contre inconnu pour exhibitionnisme
+et "harcèlement", sur plainte de
+X.________
+,
+vu l'ordonnance du 21 janvier 2011 par laquelle le magistrat instructeur a suspendu la procédure
+pénale,
+vu l'ordonnance du 21 janvier 2011 par laquelle le magistrat instructeur a rendu un non-lieu et laissé
+les frais à la charge de l'Etat,
+vu le recours interjeté en temps utile par X.________ contre l'ordonnance suspendant la procédure
+pénale,
+vu les pièces du dossier;
+attendu
+que les procédures pendantes au moment de l'entrée en vigueur du nouveau code de procédure
+pénale se poursuivent selon le nouveau droit (art. 448 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]),
+qu'en l'espèce, l'enquête a été ouverte le 21 octobre 2010 et s'est poursuivie sur
+l'année 2011,
+qu'en conséquence, le nouveau code de procédure pénale, entré en vigueur le 1
+er
+janvier 2011, s'applique à la présente procédure;
+attendu qu'interjeté dans le délai légal (art. 322 al. 2 et 396 al. 1 CPP) contre
+une décision du ministère public (art. 393 al. 1 let. a CPP), par le plaignant qui a qualité
+pour recourir (art. 382 al. 1 CPP), le recours est recevable;
+attendu que selon le Code de procédure pénale, le Ministère public peut rendre une ordonnance
+de classement (art. 319 ss CPP) ou une ordonnance pénale (art. 352 ss CPP) ou encore décider
+d'engager l'accusation en renvoyant l'inculpé devant le tribunal compétent (art. 324 ss CPP;
+Massrouri,
+in
+Perrier / Vuille (éd.), Procédure pénale suisse, Tables pour les études et la pratique,
+Bâle 2010, p. 193),
+qu'en vertu de l'art. 319 al. 1 CPP, le ministère public ordonne le classement de tout ou partie
+de la procédure notamment lorsqu'aucun soupçon justifiant une mise en accusation n'est établi
+(let. a),
+que cette disposition reprend donc les motifs de non-lieu que l'on trouvait sous l'empire de l'ancien
+Code de procédure pénale du canton de Vaud (CPP-VD, RSV 312.01), soit le classement fondé
+en fait et le classement fondé en droit (Roth,
+in
+Kuhn / Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 3-4 ad art. 319, p. 1456),
+qu'une procédure préliminaire close par une ordonnance de classement entrée en force peut,
+toutefois, être reprise si de nouveaux moyens de preuves ou des faits nouveaux qui ne ressortaient
+pas du dossier antérieur, révèlent une responsabilité pénale du prévenu
+(art. 323 al. 1 CPP),
+qu'en l'espèce, le ministère public a rendu le 21 janvier 2011 une ordonnance de suspension
+considérant que l'auteur des faits demeure inconnu (art. 315 CPP),
+qu'il a rendu, le même jour, une ordonnance de non-lieu considérant que l'enquête n'a
+pas abouti faute d'éléments suffisants,
+que ces deux décisions sont contradictoires, le magistrat ne pouvant pas à la fois suspendre
+l'enquête et rendre un non-lieu,
+que cette manière d'opérer ne permet pas au justiciable de déterminer quelle est la décision
+contre laquelle il doit recourir, ni à l'autorité de recours de savoir laquelle doit primer
+sur l'autre,
+qu'au surplus, selon le CPP, le procureur avait la possibilité de rendre une ordonnance de classement
+mais non un non-lieu ou une suspension de la procédure,
+qu'en conséquence, les deux ordonnances doivent être annulées;
+attendu que X.________ soutient avoir été interpellée à plusieurs reprises à
+proximité de son domicile par l'un de ses voisins qui l'aurait sifflée (PV aud. 1),
+que celui-ci aurait également, maintes fois, intentionnellement laissé la fenêtre ouverte,
+le soir, alors qu'il regardait un film pornographique en sachant qu'elle passerait devant celle-ci au
+retour de la promenade de son chien,
+que X.________ aurait également trouvé un mot dans ses sous-vêtements qui séchaient
+dans la buanderie de l'immeuble mentionnant : "SE TEVE SEX APELE MOUA [...]",
+qu'elle a formellement reconnu sur une planche photo W.________ comme étant l'auteur des faits (P.
+4),
+que celui-ci a reconnu avoir invité, entre 2008 et 2009, X.________ à plusieurs reprises pour
+prendre un café et que celle-ci aurait refusé,
+qu'il a également affirmé avoir regardé des films érotiques avant de rencontrer sa
+copine (PV aud. 3; P. 4),
+qu'en conséquence, l'auteur, du moins d'une partie des faits, est connu en la personne de W.________,
+qu'il appartient dès lors au magistrat instructeur de rendre une nouvelle décision en tenant
+compte de ces éléments;
+attendu, en définitive, que les frais de la procédure de recours, constitués en l'espèce
+de l'émolument du présent arrêt (art. 422 al. 1 CPP), par 440 fr. (art. 20 al. 1
+TFJP; RSV 312.03.01), sont laissés à la charge de l'Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance de suspension du 21 janvier 2011 ainsi que l'ordonnance de non-lieu du 21 janvier
+2011.
+III.
+Renvoie le dossier au Procureur de l'arrondissement de la Côte pour qu'il procède dans le sens
+des considérants puis rende une nouvelle décision.
+IV.
+Dis que les frais d'arrêt, par 440 fr. (quatre
+cent quarante francs), sont laissés à la charge de l'Etat.
+V.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+X.________,
+-
+Ministère public central
+et communiqué à :
+‑
+Procureur de l'arrondissement de la Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
