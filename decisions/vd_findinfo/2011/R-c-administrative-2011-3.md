@@ -1,0 +1,117 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2011___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2011 / 3"
+decided: "2011-03-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2630654"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2011 / 3
+
+## Regeste
+
+RÉCUSATION, RETRAIT{VOIE DE DROIT} | 9 LPA-VD
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 24.03.2011 Réc-administrative / 2011 / 3
+Vaud Tribunal cantonal Cour administrative 24.03.2011 Réc-administrative / 2011 / 3
+Vaud Tribunal cantonal Cour administrative 24.03.2011 Réc-administrative / 2011 / 3
+
+RÉCUSATION, RETRAIT{VOIE DE DROIT} | 9 LPA-VD
+
+TRIBUNAL
+CANTONAL
+69/2010
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 28 mars 2011
+____________________
+Présidence
+de               M.
+Meylan
+,
+vice-président
+Juges
+:              MM.
+Battistolo et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+9 ss LPA-VD
+Vu le recours déposé le 10 mai 2010 auprès de la Cour de droit administratif et public
+du Tribunal cantonal (ci-après:CDAP) par X.________ SA contre la décision rendue par la Municipalité
+de S.________ le 29 avril 2010, qui adjuge le mandat d'ingénieur civil pour le réaménagement
+et l'agrandissement du port de Municipalité de S.________ à Y.________ SA,
+vu la demande de récusation du juge assesseur V.________ présentée à l'audience du
+4 octobre 2010 par X.________ SA,
+vu le courrier du conseil de la Municipalité de S.________ du 22 mars 2011 informant la cour de
+céans qu'une convention a permis à X.________ SA de retirer le recours pendant devant la CDAP
+et a ainsi mis fin au litige,
+vu la déclaration rendue par la CDAP le 18 février 2011, constatant notamment que le retrait
+du recours met fin à la procédure et rayant par conséquent la cause du rôle,
+vu les pièces au dossier;
+attendu que le recours déposé le 10 mai 2010 par X.________ SA est pendant devant la CDAP,
+que les art. 9 à 12 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative; RSV 173.36)
+sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007; RSV 173.31.1), la Cour administrative est compétente pour statuer sur la demande
+de récusation présentée le 4 octobre 2010 à l'encontre de
+V.________,
+que le recours déposé devant la CDAP le 10 mai 2010 a été retiré et la cause
+rayée du rôle,
+que la demande de récusation présentée à l'audience du 4 octobre 2010 n'a dès
+lors plus d'objet,
+qu'il y a ainsi lieu de constater que la cause doit être rayée du rôle;
+attendu que le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos :
+I.
+Constate que la demande de récusation présentée le 4 octobre 2010 par X.________ SA à
+l'encontre de V.________, juge assesseur au sein de la Cour de droit administratif et public du Tribunal
+cantonal, n'a plus d'objet.
+II.
+Raye la cause du rôle.
+III.
+Rend le présent arrêt sans frais.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+-
+X.________ SA, par l'intermédiaire de son
+conseil, Me Denis Merz, avocat à Lausanne,
+et communiqué par l'envoi de photocopies à :
+-
+V.________, juge assesseur au sein de la Cour
+de droit administratif et public du Tribunal cantonal, à Lausanne,
+-
+la Municipalité de S.________, par l'intermédiaire
+de son conseil, Me Olivier Rodondi, avocat à Lausanne,
+-
+Y.________ SA, à Yverdon-les-Bains.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
