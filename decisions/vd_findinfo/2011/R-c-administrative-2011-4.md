@@ -1,0 +1,168 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2011___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2011 / 4"
+decided: "2011-03-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2621022"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2011 / 4
+
+## Regeste
+
+RÉCUSATION, RÉVISION{DÉCISION} | 6 al. 1 let. a ROTC, 11 al. 3 LPA-VD, 9 let. b LPA-VD
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 31.03.2011 Réc-administrative / 2011 / 4
+Vaud Tribunal cantonal Cour administrative 31.03.2011 Réc-administrative / 2011 / 4
+Vaud Tribunal cantonal Cour administrative 31.03.2011 Réc-administrative / 2011 / 4
+
+RÉCUSATION, RÉVISION{DÉCISION} | 6 al. 1 let. a ROTC, 11 al. 3 LPA-VD, 9 let. b LPA-VD
+
+TRIBUNAL
+CANTONAL
+12/2011
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 31 mars 2011
+_____________________
+Présidence
+de               M.
+Meylan
+,
+vice-président
+Juges
+:              MM.
+Battistolo et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+9 al. 1 let. b et 11 al. 3 LPA-VD; 6 al. 1 let. a ROTC
+Vu la demande déposée auprès de la Cour de droit administratif et public du Tribunal cantonal
+(ci-après:CDAP) le 27 décembre 2010 par B.________ tendant à la révision des arrêts
+[...] du 15 juillet 2005, [...] du 30 novembre 2007 et [...] du 17 mars 2010,
+vu le dossier de cette cause, instruite par le juge cantonal Vincent Pelet,
+vu la demande de récusation dudit juge, présentée par B.________
+le 18 mars 2011,
+vu les pièces au dossier;
+attendu que le recours déposé par B.________
+le 27 décembre 2010 est pendant devant la
+CDAP,
+que les art. 9 à 12 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative; RSV 173.36)
+sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007; RSV 173.31.1), la Cour administrative est compétente pour statuer sur la demande
+de récusation présentée le 18 mars 2011 à l'encontre du juge cantonal Vincent Pelet;
+attendu que selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+qu'en vertu de l'art. 10 al. 2 LPA-VD, les parties qui souhaitent demander la récusation d'une autorité
+ou de l'un de ses membres doivent le faire dès la connaissance du motif de récusation,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999; RS 101) et 6 §1 CEDH (Convention du 4 novembre
+1950 de sauvegarde des droits de l’homme et des libertés fondamentales; RS 0.101), s'oppose
+à ce que des circonstances extérieures au procès puissent influencer le jugement d'une
+manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 1B_35/2010
+du 18 mars 2010 c. 2.1; ATF 131 I 24 c. 1.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (ATF 131 I 24 c. 1.1; ATF 124 I 121 c.
+3a, JT 1999 I 159 ; ATF 115 IA 172 c. 3),
+qu'en l'espèce, le demandeur B.________ fait valoir que l'arrêt rendu par le Tribunal administratif
+le 30 novembre 2007 ([...]) était notamment composée du juge cantonal Vincent Pelet,
+qu'il considère ainsi que ce juge n'est plus à même de statuer de manière impartiale
+sur la demande de révision de ce même arrêt présentée le
+27
+décembre 2010,
+qu'il invoque les art. 21 et 84 OJV (loi sur l'organisation judiciaire du 12 décembre 1979; RSV
+173.01) ainsi que l'art. 478 CPC-VD (Code de procédure civile vaudois du 14 décembre 1966;
+RSV 270.11),
+qu'en matière administrative, ces dispositions ne sont pas pertinentes,
+qu'à teneur de l'art. 15 al. 2 let. f LJPA (loi sur la juridiction et la procédure administratives
+du 18 décembre 1989, abrogée par l'entrée en vigueur le 1
+er
+janvier 2008 de la loi sur la procédure administrative; RSV 173.36), la Cour plénière
+du Tribunal administratif statuait sur les demandes de révision,
+qu'ainsi, le juge cantonal Vincent Pelet faisait partie de la Cour plénière ayant rendu l'arrêt
+[...] du 30 novembre 2007 dont B.________ demande la révision,
+qu'en vertu de l'art. 9 al. 1 let. b LPA-VD, un même magistrat ne peut agir dans une même cause
+à un autre titre,
+que l'arrêt du 30 novembre 2007 a certes été rendu par l'ancien Tribunal administratif,
+aujourd'hui devenu la CDAP,
+que toutefois, la participation du juge cantonal Vincent Pelet à cette procédure et à
+celle actuellement pendante devant la CDAP est de nature à faire naître une apparence qui pourrait
+faire douter de son impartialité,
+que la demande de récusation doit dès lors être admise pour ce motif,
+que la juge cantonale Imogen Billotte ne faisait pas partie des cours ayant rendu les arrêts des
+15 juillet 2005, 30 novembre 2007 et 17 mars 2010, de sorte que l'on ne saurait douter de son impartialité,
+que la cause doit par conséquent lui être transmise dans l'état où elle se trouve
+pour procéder à l'instruction et, cas échéant, au jugement,
+que par ailleurs, même si le demandeur a reçu au début du mois de janvier 2011 un courrier
+du juge cantonal Vincent Pelet accusant réception de la demande de révision déposée
+le 27 décembre 2010, on ne saurait être trop strict à l'égard d'une partie non assistée,
+que la demande de récusation déposée le 18 mars 2011 a par conséquent été
+présentée dans un délai raisonnable, compte tenu des circonstances du cas d'espèce;
+attendu que le présent arrêt est rendu sans frais, ni dépens, le demandeur n'étant
+pas assisté d'un conseil professionnel.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation du juge cantonal Vincent Pelet, présentée par B.________ le 18
+mars 2011, est admise.
+II.
+La cause ouverte le 27 décembre 2010 par B.________ tendant à la révision des arrêts
+[...] du 15 juillet 2005, [...] du 30 novembre 2007 et [...] du 17 mars 2010, actuellement pendante devant
+la Cour de droit administratif et public ([...]), est transmise, dans l'état où elle se trouve,
+à la juge cantonale
+Imogen Billotte
+pour l'instruction et, cas échéant, le jugement.
+III.
+Le présent arrêt est rendu sans frais.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- B.________ personnellement, à Orbe,
+et communiqué par l'envoi de photocopies à :
+- M. le Juge cantonal Vincent Pelet, CDAP, à Lausanne,
+- Mme la Juge cantonale Imogen Billotte, CDAP, à Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
