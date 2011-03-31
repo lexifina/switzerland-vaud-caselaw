@@ -1,0 +1,264 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 11"
+decided: "2011-03-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2613005"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-297.md", "switzerland/bund/acts/281.1/art-310.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 11
+
+## Regeste
+
+DETTE DE LA MASSE, MASSE EN FAILLITE, DETTE, DÉBITEUR, PLAINTE{LP}, COMPÉTENCE, ACTION EN JUSTICE | 17 LP, 310 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 31.03.2011 Plainte / 2011 / 11
+
+DETTE DE LA MASSE, MASSE EN FAILLITE, DETTE, DÉBITEUR, PLAINTE{LP}, COMPÉTENCE, ACTION EN JUSTICE | 17 LP, 310 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+115
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 mars 2011
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Muller
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 et 310 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+J.________
+SA
+, à Gressy, contre la décision rendue
+le 21 février 2011, à la suite de l’audience du 15 février 2011, par le Président
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, autorité inférieure de surveillance,
+rejetant la plainte de la recourante contre la décision du 10 janvier 2011 de l'
+Office
+des faillites de l'arrondissement de la Broye et du Nord vaudois
+portant sa créance de 15'096 fr. 60 à l'état de collocation dans la faillite de
+M.________
+SA
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par prononcé du 28 août 2009, le Président du Tribunal d'arrondissement de La Broye et
+du Nord vaudois a accordé à la société M.________ SA un sursis concordataire jusqu'au
+22 février 2010. Ce sursis a été prolongé jusqu'au 22 août 2010 par décision
+du 22 février 2010.
+Par prononcé rendu le 31 août 2010 à la suite d'une audience tenue le 26 août 2010,
+le président du tribunal a révoqué le sursis concordataire et prononcé la faillite
+de cette société, avec effet au 26 août 2010 à 9 h. 35.
+L'Office des faillites de l'arrondissement de la Broye et du Nord vaudois (ci-après : l'office)
+a fixé au 18 octobre 2010 le délai de production dans la faillite de M.________ SA en liquidation.
+Le 14 octobre 2010, J.________ SA a produit deux créances, l'une d'un montant de 153'144 fr. 90
+et l'autre de 15'096 fr. 60. La production relative à la seconde créance, qui concerne cinq
+factures établies entre les mois de mai et de juillet 2010, mentionne expressément qu'il s'agirait
+d'une dette de la masse.
+Dans un courrier du 3 décembre 2010 l'office a indiqué que cette seconde créance serait
+considérée comme une production et portée à l'état de collocation, dès
+lors que le commissaire au sursis n'avait pas donné son accord à des commandes passées
+durant le sursis.
+Le 24 décembre 2010, J.________ SA a réclamé le paiement immédiat de sa créance
+de 15'096 fr. 60, expliquant avoir travaillé en étroite collaboration avec M.  X.________
+pour livrer rapidement les marchandises commandées.
+Par avis du 10 janvier 2011, l'office a indiqué qu'il maintenait sa décision de porter cette
+créance à l'état de collocation, précisant que J.________ SA pouvait contester sa
+décision par la voie de la plainte dans un délai de 10 jours dès réception de l'avis.
+2.
+Le 21 janvier 2011, J.________ SA a déposé une plainte au sens de l'art. 17 LP contre la décision
+du 10 janvier 2011 de l'office, concluant à ce que l'office prenne en compte au titre de dette de
+la masse dans la faillite de M.________ SA les montants suivants :
+- Factures
+établies le 15 novembre 2008
+en capital
+(accessoires réservés) :
+fr. 24'692.85
+- Factures
+établies du 15 mai au 31 juillet 2010,
+en capital
+(accessoires réservés)
+fr. 15'096.60
+L'office intimé s'est déterminé en date du 3 février 2011, concluant implicitement
+au rejet de la plainte.
+Par prononcé du 21 février 2011, le Président du Tribunal d'arrondissement de la Broye
+et du Nord vaudois, statuant en sa qualité d'autorité inférieure de surveillance en matière
+de poursuites pour dettes et faillites, a déclaré la plainte irrecevable et rendu sa décision
+sans frais ni dépens. Le premier juge a considéré en substance qu'il n'appartenait pas
+aux autorités de surveillance de la poursuite et de la faillite de trancher les litiges qui portent
+sur la qualification d'une dette comme obligation de la masse ou obligation du failli, cette question
+relevant de l'autorité compétente pour statuer sur le fond de la prétention en cause.
+3.
+La plaignante a recouru par acte du 22 février
+2011, concluant, avec dépens, à l'admission de sa plainte.
+L'effet suspensif requis a été accordé par décision présidentielle du 25 février
+2011.
+Le 1
+er
+mars 2011, l'office intimé s'est opposé à l'octroi de l'effet suspensif. Il s'est par
+ailleurs déterminé sur le recours dans une écriture du 4 mars 2011 concluant au rejet
+de la plainte et au maintien du prononcé attaqué.
+En droit :
+I.
+Le recours, formé en temps utile, comporte l'énoncé des moyens invoqués. Il est formellement
+recevable (art. 28 LVLP; loi d'application dans le canton de Vaud de la loi fédérale sur la
+poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05) hormis la conclusion relative à
+la créance de 24'692 fr. 85 qui n'a pas fait l'objet de la décision de l'office contestée
+par la plainte et le présent recours.
+II.
+Aux termes de l'art. 17 LP (loi fédérale
+sur la poursuite pour dettes et la faillite du 11 avril 1889, RS 281.1), sauf dans les cas où la
+loi prescrit la voie judiciaire, il peut être porté plainte à l'autorité de surveillance,
+lorsqu'une mesure de l'office est contraire à la loi ou ne paraît pas justifiée en fait.
+a)
+L'autorité
+inférieure de surveillance a retenu que la qualification d'une dette comme dette de la masse ou
+comme dette du failli relevait des autorités judiciaires en se référant à un arrêt
+du Tribunal fédéral du 15 juin 1999 (ATF 125 III 293, rés. in JT 1999 II 160) où
+l'on peut lire en particulier :
+"Il n'appartient
+pas aux autorités de surveillance de la poursuite et de la faillite, dont la Chambre de céans,
+de trancher les litiges qui portent sur la qualification d'une dette comme obligation de la masse ou
+obligation du failli. La question relève de l'autorité compétente pour statuer sur le
+fond de la prétention en cause, soit du juge civil ou des autorités et juridictions administratives,
+suivant la nature du contentieux (ATF 113 III 148 c. 1, JdT 1990 II 47; ATF 106 III 118  c. 1, JdT
+1982 II 151, et les arrêts cités; Gilliéron, Poursuite pour dettes, faillite et concordat,
+3e éd., Lausanne 1993, p. 300; Amonn/Gasser, Grundriss des Schuldbetreibungs- und Konkursrechts,
+6e éd., Berne 1997, § 42 n. 8). Si, comme en l'espèce, la dette en question n'est pas
+reconnue comme une dette de la masse, il appartient au créancier qui soutient que c'est bien le
+cas d'ouvrir action contre la masse (ATF 75 III 19, 22, JdT 1949 II 109, 111 ss; ATF 75 III 57, JdT 1950
+II 17; Favre, Droit des poursuites, 3e éd., p. 330; Amonn/Gasser, op. cit., § 48 n. 8). Cette
+action contre la masse n'est soumise à aucun délai, mais l'administration de la faillite peut
+menacer le créancier de procéder à la distribution sans tenir compte de sa prétention
+d'être payé par prélèvement s'il n'ouvre pas action dans un délai convenable
+(ATF 75 III 57, JdT 1950 II 17)."
+Cette jurisprudence a été confirmée encore récemment (TF 4A_630/2010 du 27 janvier
+2011; TF 2C_517/2009 du 12 novembre 2010).
+La recourante fait valoir de son côté qu'il en va différemment lorsque l'office des faillites
+refuse, sur la base de l'art. 310 al. 2 LP, le privilège revendiqué par un créancier pour
+une créance produite au titre de dettes de la masse. Il y aurait ainsi, selon elle, une exception
+au principe de la compétence exclusive des autorités judiciaires lorsque l'administration de
+la faillite applique l'art. 310 al. 2 LP. La recourante invoque à cet égard une décision
+de la cour de céans (CPF, 11 juin 2007/17), qui contient le passage suivant :
+"La question
+de savoir si une créance fait partie des obligations de la masse ou si elle doit être colloquée
+en tant qu'obligation du failli relève en principe de l'autorité compétente pour statuer
+sur le fond de la prétention en cause, et non des autorités de surveillance en matière
+de poursuite (ATF 125 III 293, rés. in JT 1999 II 160). Toutefois, lorsque l'office prend cette
+décision sur la base de l'article 310 alinéa 2 LP, la décision en question peut faire
+l'objet d'une plainte LP (ATF 126 III 294, JT 2000 II 57)."
+b)
+Dans
+le deuxième arrêt précité, le Tribunal fédéral avait statué dans le
+cadre d'un recours sur plainte et son raisonnement comportait l'application de l'art. 310 al. 2 LP. Mais
+la question qui était litigieuse était celle de savoir si l'autorité de surveillance avait
+ou non violé le droit fédéral en prononçant que les poursuites introduites contre
+une société au bénéfice d'un sursis concordataire par un prétendu créancier
+(la Confédération) contrevenaient ou non à l'interdiction des poursuites prévue par
+l'art. 297 LP. Cet arrêt portait ainsi sur une autre question, à savoir la possibilité
+pour un créancier d'intenter une poursuite pendant le sursis concordataire; il ne se prononçait
+pas sur la qualification d'une dette produite dans une faillite postérieure à un sursis.
+Il semble donc que c'est à tort que la cour de céans a considéré, dans sa décision
+du 11 juin 2007, qui ne contient pas d'autres développements à cet égard, que le deuxième
+arrêt (ATF 126 III 294, JT 2000 II 57) instituait une exception au principe rappelé par le
+premier (ATF 125 III 293, rés. in JT 1999 II 160).
+Dans un arrêt plus ancien (CPF, 28 octobre 2002/58), la cour de céans, raisonnant en application
+de l'art. 310 al. 2 LP, avait considéré que la voie de la plainte n'était pas ouverte,
+sur la base du premier arrêt. Le Tribunal fédéral a réformé cette décision
+(TF 7B.29/2003 du 31 mars 2003) considérant que ce raisonnement était erroné dans le cas
+d'espèce : les conclusions prises par les plaignants tendaient à faire reconnaître qu'ils
+étaient titulaires, contre la masse en faillite, d'une créance en remboursement des rentes
+AI et allocations familiales affectées à l'exploitation agricole pendant le sursis concordataire
+et la faillite. Or, selon le Tribunal fédéral, la jurisprudence invoquée par la cour de
+céans (ATF 125 III 293 précité, rés. in JT 1999 II 160) vise les prétentions
+de tiers créanciers dont il faut décider si elles sont dirigées contre le failli, auquel
+cas elles sont soumises à la collocation, ou contre la masse, auquel cas elles sont payées
+en priorité. Dans le cas d'espèce, il ne s'agissait pas de cela, mais de savoir si des revenus
+du débiteur et failli entraient ou non dans la masse active, question susceptible de faire l'objet
+d'une plainte.
+S'il retient que la cour de céans avait appliqué le principe exposé dans le premier arrêt
+à une hypothèse qui n'entrait pas dans son champ d'application, le Tribunal fédéral
+n'évoque toutefois nullement - bien au contraire - l'existence d'une exception au principe
+de la compétence exclusive des tribunaux ordinaires pour trancher la question de la qualification
+de dette de la masse ou du failli y compris lors de l'application de l'art. 310 al. 2 LP.
+c)
+Dans la doctrine récente, un auteur qui a examiné cette question (Markarian, La continuation
+des activités du travailleur après la déclaration de faillite de l'employeur : dettes
+dans la masse ou dettes de la masse? in Panorama en droit du travail, Wyler (éd), 2009, spéc.
+p. 775) ne fait état d'aucune exception au principe rappelé par le premier arrêt.
+Plus topique encore, un autre auteur (Arroyo, Zu Sinn und Tragweite von Art. 310 Abs. 2 SchKG im Nachlassverfahren
+- Verbindlichkeiten der Masse, in BJM 2003, pp. 233 ss, p. 273) confirme expressément que ce sont
+les autorités judiciaires ou administratives ordinaires - et non l'autorité de surveillance
+- qui sont compétentes pour connaître des litiges relatifs à la qualification de la prétention
+d'un tiers créancier dans la faillite de dette de la masse ou de dette du failli (ou dans la masse)
+y compris lorsque la question se pose en application de l'art. 310 al. 2 LP.
+d)
+En
+l'espèce, la question litigieuse a clairement trait à la qualification de la créance de
+la recourante de 15'096 fr. 60 comme dette de la masse ou dette de la société faillie. C'est
+donc avec raison que l'autorité inférieure de surveillance a retenu que cette question ne
+peut être soulevée par la voie de la plainte, mais qu'elle doit faire l'objet d'une procédure
+judiciaire.
+III.
+En définitive, le recours doit être
+rejeté et la décision attaquée maintenue.
+Le présent arrêt est rendu sans frais ni dépens (art. 61 al. 2 litt. A et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est maintenu.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+31 mars 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Christian Savoy, agent d'affaires breveté (pour J.________ SA),
+‑
+M. Mikaël Ferreiro, agent d'affaires breveté (pour l'Office des faillites de La Broye et du
+Nord vaudois).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière:
