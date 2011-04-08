@@ -1,0 +1,138 @@
+---
+decision_id: "vd_findinfo_Pron-pr_s___2011___21"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Pron-prés / 2011 / 21"
+decided: "2011-04-08"
+published: "2011-04-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CCASS/Pron-pr%E9s/20110407110000253_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-411.md"]
+---
+
+# VD Findinfo Pron-prés / 2011 / 21
+
+## Regeste
+
+AVOCAT D'OFFICE, HONORAIRES | 30 TFJP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 07.04.2011 Pron-prés / 2011 / 21
+
+AVOCAT D'OFFICE, HONORAIRES | 30 TFJP
+
+TRIBUNAL
+CANTONAL
+451
+PE08.009318-DJA/MAO/DAC/vsm
+LE
+PRESIDENT
+DE
+LA COUR DE CASSATION PENALE
+______________________________________________
+Du 8 avril 2011
+________________
+Présidence
+de               M.
+Creux
+,
+président
+Greffier
+:
+M.              Valentino
+*****
+Vu le jugement rendu le 12 avril 2010 par lequel le Tribunal de police de l'arrondissement de Lausanne
+a, notamment, constaté que M.________ s'était rendu coupable de violation simple et de violation
+grave des règles de la circulation (I), l'a condamné à une peine pécuniaire de trente
+jours-amende, la valeur du jour-amende étant fixée à 20 fr., et à une amende de 300
+fr., convertible en quinze jours de peine privative de liberté de substitution en cas de non paiement
+fautif dans le délai qui sera imparti (II), a suspendu l'exécution de la peine pécuniaire
+et fixé au prénommé un délai d'épreuve de deux ans (III) et a mis les frais
+de justice par 1'805 fr. à sa charge (VI),
+vu le recours interjeté en temps utile contre ce jugement par le Ministère public et le recours
+joint déposé par M.________ dans le délai imparti à cet effet,
+vu l'audience de recours du 22 novembre 2010 de la Cour de cassation pénale, à l'ouverture
+de laquelle Me Nicolas Rouiller, défenseur d'office de M.________, a annoncé le décès
+de son client,
+vu la décision de suspendre ladite audience pour permettre à Me Rouiller d'attester ses dires,
+vu le courrier du 20 janvier 2011 de l'Office des faillites de l'arrondissement de Lausanne, produit
+par Me Nicolas Rouiller en annexe à sa lettre du 24 janvier 2011, confirmant que M.________ est
+décédé le 12 novembre 2010;
+attendu qu'on ne peut exercer de poursuites pénales contre un mort ou ses héritiers, vu le
+caractère strictement personnel de la peine (Gérard Piquerez, Traité de procédure
+pénale suisse, 2
+ème
+éd. 2006, p. 644, n° 1007),
+que la responsabilité pénale ne survit pas à l'auteur de l'acte délictueux (Cour
+européenne des droits de l'homme, arrêt du 29 août 1997, Rec. 1997-V, n° 48),
+que le jugement rendu le 12 avril 2010 par le Tribunal de police de l'arrondissement de Lausanne n'est
+donc pas exécutoire, en tant qu'il concerne M.________, le décès de ce dernier ayant mis
+fin à l'action pénale,
+qu'au vu de ce qui précède, la cause est devenue sans objet;
+attendu qu'il y a lieu d'allouer une indemnité au défenseur d'office de M.________, qui a déposé
+un mémoire de recours joint en temps utile,
+que dans la liste des opérations qu'il a produite en annexe à sa lettre du 30 mars 2011, Me
+Rouiller requiert une indemnité de plus de 3'330 fr., soit l'équivalent de 18 heures 30 de
+travail, ainsi que 36 fr. à titre de débours,
+qu'il apparaît toutefois exagéré de réclamer l'équivalent de 18 heures 30 pour
+une procédure de recours dans le cadre d'une affaire LCR jugée par un Tribunal de police dont
+le seul enjeu était, en l'espèce, la quotité de la peine pécuniaire,
+qu'il est par ailleurs injustifié de se prévaloir d'avoir consacré presque 12 heures pour
+procéder à des recherches et à la rédaction du recours joint en nullité, alors
+que l'argumentation du recourant était essentiellement appellatoire et que les conclusions en nullité
+prises dans un recours joint à un recours en réforme sont, de jurisprudence constante, irrecevables
+(Bovay/Dupuis/Monnier/ Moreillon/Piguet, Procédure pénale vaudoise, Code annoté, 3
+e
+éd., Bâle 2008, n. 1.4 ad art. 411 CPP),
+que les opérations utiles à la présente procédure impliquaient une activité
+qui n'excédait pas 9 heures de travail,
+qu'il faut y ajouter le déplacement à la susdite audience,
+que tout bien considéré, c'est un montant de 1'720 fr. plus TVA qui doit être alloué
+à titre d'indemnité au défenseur d'office de M.________ pour la procédure de recours,
+que cette indemnité doit être laissée à la charge de l'Etat;
+attendu que la présente décision est rendue sans frais.
+Le
+Président
+de
+la Cour de cassation pénale du Tribunal cantonal:
+I.
+Prend
+acte du décès de M.________.
+II.
+Dit que le jugement rendu le 12 avril 2010 par
+le Tribunal de police de l'arrondissement de Lausanne n'est pas exécutoire, en tant qu'il concerne
+M.________, le décès de ce dernier ayant mis fin à l'action pénale.
+III.
+Laisse l'indemnité due à Me Nicolas
+Rouiller, défenseur d'office de M.________, arrêtée à 1'850 fr. 70, à la charge
+de l'Etat.
+IV.
+Dit que la présente décision, rendue
+sans frais, est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée à :
+‑
+Me Nicolas Rouiller, avocat (pour M.________),
+-
+Mme [...],
+‑
+M. le Procureur général du canton de Vaud,
+et
+communiquée à :
+-
+Service des automobiles et de la navigation (NIP 00.001.462.828 réf. CBX),
+‑
+Mme la Vice-Présidente du Tribunal de police de l'arrondissement de Lausanne,
+par
+l'envoi de photocopies. Elle prend date de ce jour.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1 LTF).
+Le greffier :
