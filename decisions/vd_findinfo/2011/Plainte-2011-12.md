@@ -1,0 +1,315 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 12"
+decided: "2011-05-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2683502"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-032.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-085.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-089.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 12
+
+## Regeste
+
+PLAINTE{LP}, AVIS DE SAISIE, RÉQUISITION DE CONTINUER LA POURSUITE, POURSUITE POUR DETTES, SUSPENSION DE LA PROCÉDURE | 17 LP, 18 al. 1 LP, 32 al. 3 LP, 79 al. 1 LP, 83 al. 2 LP, 85 LP, 85a LP, 88 al. 2 LP, 89 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.05.2011 Plainte / 2011 / 12
+
+PLAINTE{LP}, AVIS DE SAISIE, RÉQUISITION DE CONTINUER LA POURSUITE, POURSUITE POUR DETTES, SUSPENSION DE LA PROCÉDURE | 17 LP, 18 al. 1 LP, 32 al. 3 LP, 79 al. 1 LP, 83 al. 2 LP, 85 LP, 85a LP, 88 al. 2 LP, 89 LP
+
+TRIBUNAL
+CANTONAL
+16
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 mai 2011
+_______________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mmes
+Carlsson et Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17, 18 al. 1, 32 al. 3, 79 al. 1, 83 al. 2, 85, 85a, 88 al. 2 et 89 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+V.________
+,
+à Grandvaux, contre la décision rendue le 28 janvier 2011, à la suite de l’audience
+du 25 novembre 2010, par le Président du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte déposée par le recourant contre l'avis
+de saisie qui lui avait été adressé par l'
+Office
+des poursuites de Lavaux-Oron
+, dans le cadre de
+la poursuite n° 900'245'445 exercée contre lui à l'instance d'
+Y.________Ltd
+,
+à Hong Kong.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 26 avril 2008, à la réquisition d'Y.________Ltd, l'Office des poursuites de Lavaux-Oron
+[ci-après : l'office] a notifié à V.________, dans la poursuite n° 245'445, un commandement
+de payer un montant en capital de 104'000 francs, plus intérêt au taux de 4,75 % l'an dès
+le 1
+er
+janvier 2008, ainsi que des intérêts trimestriels capitalisés au 30 juin, 30 septembre
+et 31 décembre 2007, par 1'190 fr. 55, 1'251 fr. 40 et 1'236 fr. 30, et réclamés avec
+un intérêt moratoire à 5 % l'an respectivement dès le 30  juin, le 30 septembre
+et le 31 décembre 2007. La cause de l'obligation invoquée était un contrat de prêt
+du 13 mars 2007 et des lettres du conseil de la poursuivante des 17 octobre 2007 et 18 janvier 2008.
+Le poursuivi a formé opposition totale. La poursuivante en a requis la mainlevée par requête
+du 15 juillet 2008.
+Par décision du 2 octobre 2008, rendue à la suite de l'audience du 19 septembre 2008,
+le Juge de paix du district de Lavaux a prononcé la mainlevée provisoire de l'opposition à
+concurrence de 104'000 fr. plus intérêt au taux de 4,755 % dès le 25 janvier 2008,
+et de 1'190 fr. 55, 1'251 fr. 40 et 1'236 fr. 30, sans intérêt. Ce prononcé de mainlevée
+a été confirmé par arrêt de la cour de céans du 26 février 2009.
+Par demande déposée le 24 novembre 2008, V.________ a ouvert action en libération de dette
+contre Y.________Ltd devant la Cour civile du Tribunal cantonal. Par jugement incident du 29 juillet
+2009, le juge instructeur a admis la requête en déclinatoire déposée le 19 mars 2009
+par la défenderesse et éconduit d'instance le demandeur. Ce jugement incident a été
+confirmé par arrêt de la Chambre des recours du 26 janvier 2010, adressé pour notification
+aux parties le 3 février suivant et que le demandeur a reçu le 9 février 2010.
+Le 24 février 2010, V.________ a saisi la Cour internationale d'arbitrage de la Chambre de Commerce
+Internationale (CCI), à Paris, d'une requête tendant en substance à ce qu'il soit dit
+qu'il n'est pas le débiteur d'Y.________Ltd de la somme de 104'000 fr. plus intérêt. L'intimée
+a déposé une réponse, concluant au rejet de la requête, le 25 mai 2010. Par courrier
+électronique du 10 août 2010, le secrétariat de la Cour internationale d'arbitrage a informé
+les parties que le solde de l'avance provisionnelle n'ayant pas été payé dans le délai
+accordé à cet effet, il était mis un terme administratif au dossier, les requêtes
+étant considérées comme retirées à  partir du 2 août 2010.
+b)
+Le 10 août 2010, Y.________Ltd a requis de l'office la continuation de la poursuite n° 245'445.
+Le 16 août 2010, l'office a adressé à V.________ un avis de saisie dans la poursuite en
+cause (n° 900'245'445 désormais), l'informant qu'il serait procédé à la saisie
+le 31 août 2010 l'après-midi, à son domicile, pour un montant de 122'819 francs 75, intérêts
+et frais compris.
+c)
+Le 27 août 2010, V.________ a déposé plainte contre cet avis de saisie, concluant à
+son annulation, auprès du Président du Tribunal d'arrondissement de l'Est vaudois, autorité
+inférieure de surveillance. Il a requis l'effet suspensif, qui a été accordé par
+décision présidentielle du 31 août 2010.
+Le plaignant a fait valoir que la procédure arbitrale était toujours pendante au moment du
+dépôt de la réquisition de continuer la poursuite et qu'il avait en outre saisi le Tribunal
+des prud'hommes de l'arrondissement de Lausanne d'une demande de suspension, respectivement, d'annulation
+de la poursuite en cause. A l'appui de sa plainte, il a produit notamment la duplique qu'il avait déposée
+le 23 août 2010 devant le tribunal précité, dans un procès l'opposant à S.________Ltd,
+et dans laquelle il a soulevé le déclinatoire (I), conclu principalement au rejet des conclusions
+de la demanderesse (II et III) et, reconventionnellement, à ce qu'il soit constaté que la demanderesse
+était sa débitrice de la somme de 371'421 fr. 70, avec intérêt (IV), que cette somme
+devait être opposée en compensation à hauteur de la créance de la société
+filiale Y.________Ltd de 122'819 fr. 75 contre lui (V), à la condamnation de la demanderesse à
+lui payer la différence, par 248'601 fr. 75, avec intérêt (VI), et à la suspension,
+respectivement, à l'annulation de la poursuite n° 900'245'445 de l'Office des poursuites
+du district de Lavaux-Oron exercée contre lui à l'instance d'Y.________Ltd (VII). Le plaignant
+a également produit le jugement incident rendu le 1
+er
+novembre 2010 par le président du tribunal de prud'hommes, déclinant sa compétence s'agissant
+des conclusions IV à VII de la duplique et transmettant la cause, concernant ces conclusions, à
+la Cour civile du Tribunal cantonal.
+L'office s'est déterminé le 17 novembre 2010, préavisant pour le rejet de la plainte et
+le maintien de l'avis de saisie.
+Y.________Ltd n'a ni procédé ni assisté à l'audience du 25 novembre 2010.
+2.
+Par décision rendue sans frais ni dépens le 28 janvier 2011, le Président du Tribunal
+d'arrondissement de l'Est vaudois a rejeté la plainte et révoqué l'effet suspensif. En
+bref, il a considéré que la créancière était au bénéfice d'un jugement
+de mainlevée définitif et exécutoire, que le débiteur avait été éconduit
+d'instance dans son action en libération de dette, que la procédure arbitrale avait été
+close avec effet au 2 août 2010, que l'office avait dès lors à juste titre donné
+suite à la réquisition de continuer la poursuite du 10 août 2010 et qu'il appartenait
+au juge de l'action en annulation ou en suspension de la poursuite de décider de suspendre provisoirement
+ou non la poursuite en cause.
+3.
+V.________ a recouru par acte motivé du 10
+février 2011 contre ce prononcé qu'il avait reçu le 31 janvier 2011, concluant, avec suite
+de frais et dépens, à son annulation et à l'annulation de l'avis de saisie du 16 août
+2010.
+Par prononcé du 23 février 2011, le président de la cour de céans a accordé
+d'office l'effet suspensif.
+L'office s'est déterminé le 7 mars 2011, se référant aux déterminations qu'il
+avait produites en première instance et préavisant pour le rejet du recours.
+Y.________Ltd s'est déterminée dans une écriture datée du 10 et postée le 9
+mars 2011, concluant, avec suite de dépens, au rejet des conclusions du recours et à la constatation
+de la validité de l'avis de saisie litigieux. Elle a produit un onglet de pièces nouvelles
+sous bordereau.
+Le recourant s'est déterminé sur ces pièces le 14 mars 2011.
+L'intimée et le recourant ont encore spontanément déposé des déterminations,
+les 22 et 24 mars 2011.
+En droit :
+I.
+a)
+Déposé en temps utile (art. 18 al. 1 LP – loi fédérale sur la poursuite pour
+dettes et la faillite; RS 281.1 – et art. 28 al. 1 LVLP – loi vaudoise d'application de la
+LP; RSV 280.05) et comportant des conclusions – tendant à la réforme, nonobstant l'emploi
+du terme "annulé", du prononcé attaqué – et l'énoncé des moyens
+invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les déterminations de l'office, de même que le mémoire et les pièces nouvelles produits
+par l'intimée, sont également recevables (art. 31 al. 1 LVLP).
+La procédure de recours en matière de plainte ne prévoit pas de mémoire complémentaire
+ou de second échange d'écritures. Le Tribunal fédéral a toutefois implicitement dit
+que le droit cantonal s'effaçait devant l'art. 29  al. 2 Cst, disposition constitutionnelle
+garantissant aux parties le droit d'être entendu, qui inclut, pour une partie à un procès,
+le droit de prendre connaissance de toute observation ou pièce soumise au tribunal et de se déterminer
+à son propos, que l'écriture ou le document contienne ou non de nouveaux éléments
+de fait ou de droit, ou qu'il soit ou non concrètement susceptible d'influer sur le jugement à
+intervenir (TF 4D_94/2008 du 1
+er
+septembre 2008 c. 4.1). Les déterminations produites par les deux parties après le dépôt
+des mémoires sont ainsi recevables.
+b)
+La voie de la plainte de l'art. 17 LP est ouverte aux parties à la procédure d'exécution
+forcée ainsi qu'aux tiers dont la décision attaquée touche des intérêts juridiquement
+protégés. L'existence d'un intérêt digne de protection à saisir l'autorité
+de surveillance est une condition de recevabilité de la plainte, qui doit être examinée
+d'office (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la
+faillite, n. 140 ad art. 17 LP). Est légitimée à porter plainte toute personne directement
+intéressée à l'issue de la procédure d'exécution forcée, au cours de laquelle
+est intervenue la décision ou la mesure attaquée. Ainsi, toute personne qui se prétend
+atteinte, lésée, dans ses intérêts juridiquement protégés, respectivement
+dignes de protection, par la décision ou la mesure d'une autorité de poursuite ou d'un organe
+de l'exécution forcée a qualité pour porter plainte (Gilliéron, op. cit., n. 144
+ad art. 17 LP et réf. cit.).
+En l'espèce, le recourant avait qualité pour porter plainte contre l'avis de saisie qui lui
+avait été adressé par l'office et il a qualité  pour recourir contre la décision
+rejetant sa plainte.
+II.
+a)
+Lorsque le débiteur est sujet à la poursuite par voie de saisie, l'office, après réception
+de la réquisition de continuer la poursuite, procède sans retard à la saisie ou y fait
+procéder par l'office du lieu où se trouvent les biens à saisir (art. 89 LP). Il lui appartient
+d'examiner d'office s'il est compétent à raison du lieu, si le poursuivant est fondé à
+requérir la continuation de la poursuite et si cette dernière doit continuer par voie de saisie
+(Foëx, Commentaire romand, n. 3 ad art. 89 LP).
+En l'espèce, seule la deuxième condition est litigieuse.
+b)
+Selon
+l'art. 79 al. 1 in fine LP, le poursuivant ne peut requérir la continuation de la poursuite qu'en
+se fondant sur une décision exécutoire qui écarte expressément l'opposition. En d'autres
+termes, il doit disposer d'un commandement de payer passé en force. En outre, la poursuite ne doit
+pas être suspendue par une décision de suspension au sens des art. 85 ou 85a LP ou par une
+action en libération de dette (art. 83 al. 2 LP).
+aa)
+Selon la jurisprudence, l'action en libération de dette de l'art. 83 al. 2 LP peut être
+intentée devant un tribunal arbitral (TF 5A_127/2010 du 7 septembre 2010 c. 3.1, rés.
+in SJ 2011 I 133).
+En l'espèce, le recourant a d'abord agi devant la Cour civile et a été éconduit d'instance
+ensuite de déclinatoire, par jugement incident du 29 juillet 2009, confirmé par arrêt
+de la Chambre des recours du 26 janvier 2010. Cet arrêt lui ayant été notifié le
+9 février 2010, il disposait dès cette date, conformément à l'ancien art. 32
+al. 3 LP (en vigueur jusqu'au 31 décembre 2010), d'un nouveau délai de vingt jours (art. 83
+al. 2 LP) pour ouvrir action, ce qu'il a fait par requête du 24 février 2010 devant la Cour
+internationale d'arbitrage de la CCI. Cette autorité a mis un terme administratif au dossier, faute
+d'avance de frais, les requêtes étant considérées comme retirées à compter
+du 2 août 2010. Le recourant fait valoir qu'il n'a jamais reçu le courrier électronique
+du tribunal arbitral du 10 août 2010 l'avisant de la clôture du dossier. Il est toutefois établi
+par pièce, soit une lettre du secrétariat de la Cour international d'arbitrage du 24 février
+2011, que le courrier en question a été adressé à son conseil à l'adresse électronique
+figurant sur le papier à en-tête de son étude. On doit ainsi considérer que la procédure
+arbitrale a pris fin, le 2 août 2010, faute d'avance de frais. Un tel motif d'irrecevabilité
+de l'action ne constituait pas un cas d'application de l'art. 32 al. 3 LP, qui ne trouvait application
+qu'en cas d'incompétence du tribunal saisi (ATF 126 III 288, JT 2000 II 14). Le recourant ne pouvait
+dès lors plus ouvrir action en libération de dette. Il s'ensuit que le commandement de payer
+était entré en force au jour du dépôt de la réquisition de continuer la poursuite,
+le 10 août 2010.
+bb)
+Le recourant se prévaut encore de la conclusion en suspension, respectivement en annulation, de
+la poursuite qu'il a prise dans sa duplique du 23 août 2010 déposée dans le cadre
+d'un procès qui l'oppose à la société S.________Ltd.
+Cette conclusion n'était toutefois pas de nature à suspendre la poursuite en cause, et cela
+pour deux motifs. Premièrement, l'irrecevabilité de  l'action arbitrale en libération
+de dette pour défaut de paiement de l'avance de frais n'ayant pas fait pas courir un nouveau délai
+au sens de l'ancien art. 32 al. 3 LP (ATF 126 III 288 précité), la mainlevée était
+devenue définitive (art. 83 al. 3 LP) et la conclusion prise le 23 août 2010 n'était plus
+susceptible d'aboutir à une suspension de la poursuite. Deuxièmement, comme l'a relevé
+l'autorité inférieure de surveillance, les actions des art. 85 et 85a LP, contrairement à
+l'action en libération de dette, n'ont pas pour effet de suspendre la poursuite, qui continue son
+cours (Gilliéron, op. cit., n. 48 ad art. 85 LP). Elle peut être suspendue provisoirement
+par le juge – même d'office –, le cas échéant seulement après que le
+créancier a obtenu la saisie, lorsque l'action a été ouverte en procédure accélérée
+et que le fondement de la demande apparaît très vraisemblable (ibid., eod. loc.; Schmidt, Commentaire
+romand, nn. 7-9 ad art. 85 LP). Quoi qu'il en soit en l'espèce, aucune suspension provisoire de
+la poursuite n'a été prononcée. A cela s'ajoute que la conclusion invoquée a été
+prise dans un procès qui n'oppose pas le recourant à l'intimée, mais à un tiers,
+de sorte que le jugement à intervenir, s'il ne rejette pas la conclusion pour défaut de légitimation
+passive, ne sera, le cas échéant, pas opposable à l'intimée.
+c)
+Lorsque la poursuite n'est pas suspendue par l'opposition ou par un jugement, le créancier peut
+requérir la continuation de la poursuite à l'expiration d'un délai – minimum –
+de vingt jours à compter de la notification du commandement de payer (art. 88 al. 1 LP). Le droit
+de requérir la continuation de la poursuite se périme par un an à compter de la notification
+du commandement de payer. En cas d'opposition, ce délai – maximum – ne court pas entre
+l'introduction de la procédure judiciaire ou administrative et le jugement définitif (art.
+88 al. 2 LP).
+En l'espèce, les délais légaux ont été respectés. Le commandement de payer
+a été notifié le 26 avril 2008. Vu l'opposition, le délai minimum de vingt jours
+a été absorbé par le délai maximum d'un an. Ce dernier délai, péremptoire,
+a été suspendu entre le 15 juillet 2008, date de la requête de mainlevée, et le 2
+août 2010, date à laquelle les requêtes devant l'autorité arbitrale ont été
+considérées comme retirées. Le commandement de payer n'était donc pas périmé
+lors du dépôt de la réquisition de continuer la poursuite, le 10 août 2010.
+III.
+Il résulte de ce qui précède que
+l'autorité inférieure de surveillance a rejeté la plainte à juste titre. Le recours
+doit par conséquent être également rejeté et le prononcé attaqué être
+confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS
+281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+19 mai 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Julien Fivaz, avocat (pour V.________),
+‑
+Me Douglas  Hornung, avocat (pour Y.________Ltd),
+‑
+Mme la Préposée à l'Office des poursuites de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
