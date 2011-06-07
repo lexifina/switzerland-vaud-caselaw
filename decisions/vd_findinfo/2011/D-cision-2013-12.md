@@ -1,0 +1,131 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 12"
+decided: "2011-06-07"
+published: "2012-12-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3622370"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/173.110/art-129.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2013 / 12
+
+## Regeste
+
+DÉPENS, RECTIFICATION DE LA DÉCISION | 61 let. g LPGA, 129 al. 1 LTF, 55 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 21.12.2012 Décision / 2013 / 12
+
+DÉPENS, RECTIFICATION DE LA DÉCISION | 61 let. g LPGA, 129 al. 1 LTF, 55 LPA-VD
+
+TRIBUNAL
+CANTONAL
+ACH
+21/12 - 201/2012 (rect.)
+ZQ12.006106
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+rectificative du 21 décembre 2012
+___________________________________
+Présidence
+de               Mme
+Röthenbacher
+,
+juge unique
+Greffier
+:
+Mme              Matile
+*****
+Cause
+pendante entre :
+V.________
+,
+à La Tour-de-Peilz, recourant, représenté par Me Claudio Venturelli, avocat à Lausanne,
+et
+Caisse
+cantonale de chômage
+, Division juridique,
+à Lausanne, intimée.
+_______________
+Art.
+61 let. g LPGA; 129 al. 1 LTF; 55 LPA-VD
+Vu
+l'arrêt rendu le 17 décembre 2012
+par la Cour des assurances sociales  (ACH 21/12 – 201/2012), dont le dispositif prévoit
+ce qui suit:
+"I.
+Le recours est admis.
+II.              La décision attaquée
+est réformée comme suit :
+I.
+L'opposition du 15 juillet 2011 est partiellement admise.
+II.
+La décision du 7 juin 2011 est réformée en ce sens que Mariano Casella est suspendu dans
+son droit au chômage pendant cinq jours indemnisables.
+III.              Il n'est pas perçu
+de frais judiciaires, ni alloué de dépens."
+vu le courrier de Me Venturelli du 20 décembre 2012, qui prend acte de la décision intervenue
+mais constate que la Cour de céans n'a en l'espèce pas alloué de dépens à son
+client, alors que les art. 55 LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la procédure
+administrative, RSV 173.36] et 61 let. g LPGA [Loi fédérale du 6 octobre 2000 sur la partie
+générale du droit des assurances sociales, RS 830.1] en prévoient lorsque le justiciable
+procède avec le concours d'un mandataire professionnel,
+vu les pièces du dossier;
+attendu que, dans le silence de la loi, la jurisprudence admet que le tribunal procède à l'interprétation
+et à la rectification de ses arrêts, en s'inspirant des règles applicables au Tribunal
+fédéral (cf. not. sur ce point, un arrêt de la CDAP, AC.2010.0076 du 2 novembre 2010
+et les réf. cit.),
+que, selon l'art. 129 al. 1 LTF (loi du 17 juin 2005 sur le Tribunal fédéral; RS 173.110),
+si le dispositif d'un arrêt est peu clair, incomplet ou équivoque, ou si ses éléments
+sont contradictoires entre eux ou avec les motifs, ou s'il contient des erreurs de rédaction ou
+de calcul, le Tribunal fédéral interprète ou rectifie l'arrêt,
+qu’en l’espèce, il y a lieu de constater que c'est à la suite d'une inadvertance
+manifeste qu'aucun dépens n'ont été alloués à V.________ dès lors que ce
+dernier a obtenu partiellement gain de cause avec l'aide d'un mandataire professionnel,
+que les dépens doivent être fixés en fonction de l'importance et de la complexité
+de la cause (art. 61 let. g LPGA, 55 LPA-VD),
+qu'en l'espèce, il y a lieu de les arrêter à 2'000 fr.,
+que, partant, le dispositif de l'arrêt du 17 décembre 2012 doit être rectifié d'office,
+en ce sens que le chiffre III n'aura trait qu'aux frais, un chiffre IV y étant ajouté de manière
+à préciser que l'intimée versera au recourant la somme de 2'000 fr. à titre de dépens,
+que le présent arrêt sera rendu sans frais ni dépens;
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Le dispositif de l'arrêt rendu le 17 décembre 2012 dans la cause opposant V.________ à
+la Caisse cantonale de chômage, Division juridique est modifié comme suit :
+"III.
+Il n'est pas perçu de frais judiciaires.
+IV.
+(nouveau) La Caisse cantonale de chômage, Division juridique, versera à V.________ la somme
+de 2'000 fr. (deux mille francs) à titre de dépens."
+II.
+Le présent arrêt est rendu sans frais, ni dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+Me Claudio Venturelli, avocat (pour V.________),
+‑
+Caisse cantonale de chômage, Division juridique,
+-
+Secrétariat d'Etat à l'économie,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
