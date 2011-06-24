@@ -1,0 +1,255 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 15"
+decided: "2011-06-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2737081"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-159.md", "switzerland/bund/acts/281.1/art-160.md", "switzerland/bund/acts/281.1/art-161.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 15
+
+## Regeste
+
+PLAINTE{LP}, COMMINATION DE FAILLITE, OBSERVATION DU DÉLAI, RÉQUISITION DE CONTINUER LA POURSUITE | 159 LP, 160 LP, 17 LP, 18 al. 1 LP, 88 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 24.06.2011 Plainte / 2011 / 15
+
+PLAINTE{LP}, COMMINATION DE FAILLITE, OBSERVATION DU DÉLAI, RÉQUISITION DE CONTINUER LA POURSUITE | 159 LP, 160 LP, 17 LP, 18 al. 1 LP, 88 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+19
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 juin 2011
+_______________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Sauterel et Mme Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17, 18 al. 1, 88 al. 1, 159 et 160 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+X.________Sàrl
+,
+à Chevilly, contre la décision rendue le 2 février 2011, à la suite de l’audience
+du 4 octobre 2010, suspendue et reprise le 29 novembre 2010, par la Présidente du Tribunal d’arrondissement
+de La Côte, autorité inférieure de surveillance, rejetant la plainte déposée
+le 20 août 2010 par la recourante contre la commination de faillite établie par l'
+Office
+des poursuites du district de Morges
+, à la
+réquisition de
+Y.________SA
+,
+à Echichens, dans la poursuite n° 400'238'598.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 27 février 2009, à la réquisition de Y.________SA, un commandement de payer a été
+notifié, dans la poursuite n° 238'598 de l'Office des poursuites et faillites de Cossonay,
+à X.________Sàrl, qui a formé opposition.
+La poursuivante a requis du Juge de paix du district de Morges la mainlevée définitive de cette
+opposition, qui a été prononcée par décision rendue le 14 mai 2009, à la suite
+de l'audience du 7 mai 2009.
+Par décision du 18 juin 2009, le magistrat précité a déclaré irrecevable, pour
+tardiveté, la demande de motivation présentée par la poursuivie le 15 juin 2009.
+X.________Sàrl a recouru auprès de la cour de céans contre cette décision, par acte
+du 6 juillet 2009. Elle a requis l'effet suspensif, qui a été accordé par décision
+présidentielle du 17 juillet 2009.
+Par arrêt du 15 janvier 2010, déclaré immédiatement exécutoire, la cour de céans
+a rejeté le recours.
+b)
+Le
+22 juin 2009, à la réquisition de la poursuivante, l'Office des poursuites et faillites de
+Cossonay avait émis une première commination de faillite, qui a été envoyée
+à la poursuivie à une date indéterminée et que ledit office a prié la poursuivie
+de lui renvoyer, le 13 octobre 2009, avant d'adresser à Y.________SA, le 26 octobre 2009, un avis
+de rejet de sa réquisition de continuer la poursuite, vu la procédure de recours ouverte devant
+la cour de céans et l'effet suspensif accordé.
+L'Office des poursuites et faillites de Cossonay a été définitivement fermé le 20
+novembre 2009, dans le cadre de la réorganisation territoriale cantonale, et la poursuite en cause
+a été reprise par l'Office des poursuites du district de Morges, sous le n° 400'238'598.
+c)
+Le 21 janvier 2010, Y.________SA a requis de l'Office des poursuites du district de Morges (ci-après
+: l'office) la continuation de la poursuite en cause.
+Le 28 janvier 2010, l'office a établi une nouvelle commination de faillite, laquelle porte toutefois
+la date du 22 juin 2009, soit la date de la première émission que le programme informatique
+ne permet pas de modifier.
+Le 3 février 2010, la poursuivie a informé l'office qu'elle allait recourir auprès du
+Tribunal fédéral contre la décision de la cour de céans du 15 janvier 2010, dans
+le délai de trente jours suivant sa réception.
+Elle a déposé un acte de recours constitutionnel le 24 février 2010. Aucun effet suspensif
+n'a été accordé. Le recours a été déclaré irrecevable, par arrêt
+de la IIe Cour de droit civil du Tribunal fédéral du 30 avril 2010.
+Après plusieurs tentatives, la commination de faillite n° 400'238'598 de l'Office des poursuites
+du district de Morges a finalement été notifiée à X.________Sàrl le 10 août
+2010.
+d)
+Le 20 août 2010, la poursuivie a saisi la Présidente du Tribunal d'arrondissement de La Côte,
+autorité inférieure de surveillance, d'une plainte, concluant à ce que la commination
+de faillite soit déclarée nulle pour le motif qu'elle aurait été établie "par
+anticipation" le 22 juin 2009. Elle a requis l'effet suspensif, qui a été accordé
+par décision présidentielle du 23 août 2010.
+L'office s'est déterminé le 31 août 2010, concluant au rejet de la plainte. Il a fourni
+des explications complémentaires et une pièce les 4 et 18 octobre 2010.
+Dans une lettre du 27 novembre 2010, la plaignante a précisé que l'arrêt de la cour de
+céans du 15 janvier 2010 lui avait été notifié le 27 janvier 2010.
+II.
+Par décision rendue sans frais ni dépens
+le 2 février 2011, la Présidente du Tribunal d'arrondissement de La Côte, autorité
+inférieure de surveillance, a rejeté la plainte et maintenu la commination de faillite notifiée
+le 10 août 2010 à la plaignante. En bref, elle a considéré que le recours au
+Tribunal fédéral formé par la plaignante n'avait pas eu d'effet suspensif, de sorte que
+la commination de faillite pouvait être établie sur réquisition de la poursuivante dès
+le 15 janvier 2010, soit dès le jour de l'arrêt rendu par la cour de céans, que l'office
+était ainsi habilité à donner suite à la réquisition de continuer la poursuite
+le 28 janvier 2010 et que peu importait à cet égard la date du 22 juin 2009 figurant,
+pour des raisons informatiques, sur la commination de faillite, dont il était par ailleurs prouvé
+qu'elle n'avait pas été émise à cette date, puisqu'elle avait été établie
+par l'Office des poursuites du district de Morges.
+III.
+La plaignante a recouru par acte du 21 février
+2011 contre ce prononcé, concluant à son "annulation" et à l'admission de la
+plainte. Elle a requis l'effet suspensif qui a été accordé par décision présidentielle
+du 7 mars 2011.
+La recourante a produit une écriture complémentaire le 26 février 2011. Le président
+de la cour de céans l'a informée, par lettre du 7 mars 2011, que la procédure ne prévoyait
+pas de mémoire ampliatif en matière de recours contre un prononcé sur plainte LP.
+Par lettre du 8 mars 2011, l'office s'est référé aux déterminations qu'il avait produites
+en première instance.
+L'intimée Y.________SA n'a pas procédé.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP – loi fédérale sur la poursuite pour
+dettes et la faillite; RS 281.1 – et art. 28 al. 1 LVLP – loi vaudoise d'application de la
+LP; RSV 280.05) et comportant des conclusions – tendant à la réforme, nonobstant l'emploi
+du terme "annulé", du prononcé attaqué – et l'énoncé des moyens
+invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les déterminations de l'office sont également recevables (art. 31 al. 1 LVLP).
+II.
+a)
+Selon l’art. 17 al. 1 LP, la voie de la plainte est ouverte lorsqu’une mesure de l’office
+est contraire à la loi ou ne paraît pas justifiée en fait. Elle est ouverte en particulier
+contre une commination de faillite, qui est un acte de poursuite (Cometta, Commentaire romand, n. 1 ad
+art. 161 LP).
+b)
+En l'espèce, la recourante se plaint de ce que la commination de faillite qui lui a été
+notifiée aurait été établie "par anticipation" le 22 juin 2009.
+A juste titre, l'autorité inférieure
+de surveillance a retenu que la date du 22 juin 2009 figurant sur la commination de faillite était
+celle de la première émission de cet acte, laquelle ne pouvait pas être modifiée
+pour des raisons informatiques. Il est établi que cette première émission, émanant
+de l'Office des poursuites et faillites de Cossonay, a été suivie d'un avis de cet office du
+26 octobre 2009 informant l'intimée du rejet de sa réquisition de continuer la poursuite en
+raison de la procédure de recours ouverte devant la cour de céans. Il est également démontré
+que la commination de faillite qui a finalement été notifiée à la recourante le 10
+août 2010 a été établie le 28 janvier 2010, par l'Office des poursuites du district
+de Morges, à la suite d'une réquisition de continuer la poursuite formulée par l'intimée
+le 21 janvier 2010. La date figurant sur la commination de faillite n'est au demeurant pas l'un des éléments
+obligatoires de son contenu (art. 160 LP), car la commination de faillite déploie ses effets au
+moment de sa notification.
+c)
+Ce
+qui importe, c'est que la réquisition de continuer la poursuite ne soit pas formée prématurément.
+Sur ce point, la recourante soutient que la continuation de la poursuite ne pouvait pas être requise
+avant le 7 mai 2010, lendemain du jour où l'arrêt du Tribunal fédéral du 30 avril
+2010 déclarant irrecevable son recours contre l'arrêt de la cour de céans du 15 janvier
+2010 lui aurait été notifié.
+Aux termes de l’art. 88 al. 1 LP, lorsque la poursuite n’est pas suspendue par l’opposition
+ou par un jugement, le créancier peut requérir la continuation de la poursuite à l’expiration
+d’un délai de vingt jours à compter de la notification du commandement de payer. Lorsque
+le commandement de payer a été frappé d’opposition, le poursuivant ne peut requérir
+la continuation de la poursuite qu’à la condition que l’opposition ait été
+annulée et il doit joindre à sa réquisition de continuer la poursuite le jugement annulant
+l’opposition par la mainlevée, muni d’une déclaration de son caractère exécutoire
+et, si le droit cantonal prévoit un recours, une déclaration judiciaire certifiant que le jugement
+de première instance est passé en force (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 26 ad art. 88 LP).
+D’après la jurisprudence, rien ne s’oppose à ce qu’une commination de faillite
+puisse être notifiée nonobstant un recours pendant contre la décision de mainlevée,
+mais pour autant que le recours contre cette décision de mainlevée n’ait pas d’effet
+suspensif (ATF 130 III 657 c. 2.1, JT 2005 II 138 ; ATF 126 III 479 c. 2, JT 2000 II 84 ; ATF 101 III
+40 c. 2, JT 1977 II 7). Il suffit ainsi que la décision judiciaire annulant l’opposition,
+produite avec la réquisition de continuer la poursuite, soit exécutoire. Il n’est du
+reste pas forcément nécessaire de produire une attestation du caractère exécutoire
+du jugement avec la réquisition de poursuite, notamment lorsque ce caractère découle clairement
+de la loi (ATF 126 III 479 c. 2 in fine, JT 2000 II 84).
+En l’espèce, la mainlevée de l’opposition
+formée au commandement de payer notifiée à la poursuivie a été prononcée
+par décision du 14 mai 2009, devenu définitif faute d'une demande de motivation formée
+à temps. La constatation de la tardiveté de cette demande a été confirmée par
+arrêt de la cour de céans du 15 janvier 2010, déclaré exécutoire lors de son
+prononcé. Le recours formé contre cet arrêt auprès du Tribunal fédéral
+n'a pas été doté de l’effet suspensif. Peu importe dès lors la date à
+laquelle la décision de cette dernière instance a été notifiée à la recourante.
+Dès le 16 janvier 2010, l'intimée était habilitée à requérir la continuation
+de la poursuite, ce qu'elle a fait le 21 janvier 2010. En vertu de l'art. 159 LP, l'office devait donner
+suite à cette réquisition en établissant la commination de faillite et n'avait aucun motif
+de surseoir à cette opération. La commination en cause n'a finalement été notifiée
+qu'au mois d'août 2010.
+III.
+Il résulte de ce qui précède que l'autorité inférieure de surveillance a rejeté
+la plainte à juste titre. Le recours doit par conséquent être également rejeté
+et le prononcé attaqué être confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS
+281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+24 juin 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+X.________Sàrl,
+‑
+M. Alain Vuffray, agent d'affaires breveté (pour Y.________SA),
+‑
+M. le Préposé à l'Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
