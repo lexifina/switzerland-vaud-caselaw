@@ -1,0 +1,172 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 20"
+decided: "2011-06-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2739934"
+cites_law: ["switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 20
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 322 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.06.2011 Faillite / 2011 / 20
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 322 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+237
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 juin 2011
+________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Bosshard
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 et 2 LP; 322 al. 1 CPC
+Vu le jugement rendu le 24 février 2011 par le Président du Tribunal d'arrondissement de Lausanne,
+prononçant par défaut des parties la faillite de
+K.________SA
+,
+à Lausanne, le même jour à 11 heures 25, à la requête de
+X.________
+,
+à Genève, et de
+B.________
+,
+à Vessy, et mettant les frais du jugement, par 200 fr., à la charge de la faillie,
+vu le recours formé contre ce jugement par K.________SA, par acte daté du 6 et déposé
+par porteur le 7 mars 2011 au greffe du tribunal d'arrondissement, tendant implicitement à l'annulation
+de la faillite,
+vu la transmission du dossier le 8 mars 2011 à la cour de céans, autorité de recours,
+qui l'a reçu le lendemain,
+vu l'extrait des registres 8a LP du 14 mars 2011 de l'Office des poursuites de Lausanne-Est, dont la
+production a été ordonnée d'office par le président de la cour de céans,
+vu l'absence de déterminations de la recourante sur cet extrait des poursuites, dans le délai
+qui lui avait été imparti à cet effet au 28 mars 2011 et dont la prolongation a été
+refusée,
+vu les pièces du dossier;
+attendu que, selon l'art. 321 al. 1 CPC (Code de procédure civile du 19 décembre 2008;
+RS 272), le recours est introduit auprès de l'instance de recours,
+que, toutefois, le principe selon lequel un délai est réputé observé si le mémoire
+a été adressé à l'autorité précédente, qui vaut pour les recours au
+Tribunal fédéral (art. 48 al. 3 LTF – loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110), doit être également appliqué dans la présente procédure (Tappy,
+Les voies de droit du nouveau Code de procédure civile, in JT 2010 III 115, spéc. p. 131),
+qu'en conséquence, le recours déposé au tribunal d'arrondissement le 7 mars 2011 contre
+le jugement qui avait été notifié à la recourante le 25 février 2011 a été
+formé en temps utile, dans le délai de dix jours de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1),
+qu'il est en outre suffisamment motivé pour permettre de comprendre qu'il tend à l'annulation
+de la faillite, de sorte qu'il est recevable formellement (art. 321 al. 1 CPC);
+attendu  que, selon l'art. 171 LP, le juge saisi d'une réquisition de faillite doit prononcer
+celle-ci, sauf dans les cas mentionnés aux art. 172 à 173a LP, qui n'étaient pas réalisés
+en l'espèce,
+que c'est donc à juste titre que le premier juge a prononcé la faillite de la recourante, les
+délais des art. 166 et 168 LP ayant été respectés et les parties régulièrement
+convoquées à l'audience de faillite;
+attendu qu'en vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler le jugement lorsque le débiteur, en déposant
+le recours, rend vraisemblable sa solvabilité et établit par titre que depuis lors la dette,
+intérêts et frais compris, a été payée ou que la totalité de la somme à
+rembourser a été déposée à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite,
+que ces deux conditions, soit la vraisemblance de la solvabilité et le paiement de la dette à
+l'origine de la faillite ou le retrait de la requête de faillite, sont cumulatives;
+attendu qu'en l'espèce, la recourante ne soutient pas et, a fortiori, ne prouve pas avoir réglé
+la créance réclamée par les intimés, dont elle conteste au contraire le bien-fondé,
+que cette première condition pour annuler le jugement de faillite n'est ainsi pas réalisée;
+attendu qu'au surplus, la recourante n'a produit aucune pièce susceptible de rendre vraisemblable
+sa solvabilité,
+que la solvabilité au sens de l’art. 174 al. 2 LP se définit par opposition à l’insolvabilité
+au sens de l’art. 191 LP (Giroud, Basler Kommentar, n. 25 ad art. 174 LP; TF 5P.399/1999 du
+14 janvier 2000 c. 2b),
+que cette dernière n'équivaut pas au surendettement mais consiste en l'incapacité du débiteur,
+en raison d'un manque de liquidités qui n'apparaît pas seulement temporaire, de payer ses dettes
+échues,
+que, s’il ne doit pas prouver de manière stricte sa solvabilité, le débiteur ne
+peut toutefois se contenter de simples allégations, mais doit fournir des indices tels que des récépissés
+de paiement, des justificatifs de moyens financiers à sa disposition (avoirs en banque, crédits
+bancaires), des listes de ses débiteurs, un extrait du registre des poursuites, des comptes annuels
+récents avec bilan intermédiaire, cette liste n’étant pas exhaustive,
+que l'extrait du registre des poursuites concernant le failli est en règle générale décisif
+(Cometta, Commentaire romand, n. 10 ad art. 174 LP),
+qu'en l'espèce, il ressort de l'extrait du 14 mars 2011 du registre des poursuites que la recourante
+fait l'objet de neuf poursuites introduites entre le 8 juin 2005 et le 9 décembre 2010, pour un
+total de 92'998 fr. 60, dont deux au stade de la commination de faillite,
+que la recourante n'a produit aucune pièce démontrant qu'elle aurait payé une partie de
+ses créanciers ou trouvé un accord avec certains d'entre eux,
+que, d'une manière générale, elle n'a pas produit de comptes ni de justificatifs de ses
+moyens financiers, ni aucune autre pièce démontrant une éventuelle amélioration de
+sa situation financière à court ou moyen terme,
+que sa solvabilité n'est ainsi pas rendue vraisemblable et la deuxième condition pour annuler
+la faillite n'est pas non plus remplie;
+attendu que le recours, manifestement infondé au sens de l'art. 322 al. 1 CPC, doit donc être
+rejeté et le jugement de faillite confirmé;
+attendu que les frais de deuxième instance de la recourante sont arrêtés à
+300 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais de deuxième instance de la recourante sont arrêtés à 300 fr. (trois cents
+francs).
+Le
+président :               La greffière
+:
+Du
+28 juin 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+K.________SA,
+‑
+Me Jean-Claude Mathey, avocat (pour X.________ et B.________),
+-
+M. le Préposé à l'Office des poursuites de Lausanne,
+-
+M. le Préposé à l'Office des faillites de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
