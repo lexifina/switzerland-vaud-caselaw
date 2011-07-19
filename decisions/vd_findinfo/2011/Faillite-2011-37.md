@@ -1,0 +1,192 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 37"
+decided: "2011-07-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2773520"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 37
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 322 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.07.2011 Faillite / 2011 / 37
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 322 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+266
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 juillet 2011
+_________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 et 2 LP; 322 al. 1 CPC
+Vu le jugement rendu le 13 avril 2011, à la suite de l'audience du 12 avril 2011, par le Président
+du Tribunal d'arrondissement de La Broye et du Nord vaudois, prononçant, par défaut des parties,
+la faillite de
+V.________
+,
+à Penthalaz, le 12 avril 2011 à 11 heures 40, à la requête de
+J.________
+,
+à Martigny, au bénéfice d'une commination de faillite dans la poursuite n° 5'338'712
+de l'Office des poursuites du district du Gros-de-Vaud, ordonnant la liquidation sommaire de cette faillite
+et mettant les frais du jugement, par 200 fr., à la charge du failli,
+vu le recours formé contre ce jugement par V.________, par acte écrit et motivé posté
+le 18 avril 2011 à l'adresse du greffe du Tribunal cantonal, accompagné de pièces nouvelles
+et concluant à l'annulation de la faillite,
+vu l'extrait des registres 8a LP du 26 avril 2011 de l'Office des poursuites du district du Gros-de-Vaud,
+dont la production a été ordonnée d'office par le président de la cour de céans,
+vu la décision présidentielle du 28 avril 2011 accordant d'office l'effet suspensif et ordonnant,
+à titre de mesures conservatoires, l'inventaire et l'audition du  failli,
+vu l'avis du même jour du président de la cour de céans, impartissant au failli un délai
+au 12 mai 2011 pour se déterminer sur l'extrait des poursuites et précisant que des déterminations
+concernant d'autres faits, des moyens ou arguments nouveaux ou des pièces nouvelles ne seraient
+en revanche pas pris en considération,
+vu la lettre du failli contenant ses déterminations, datée du 10 et postée le 11 mai 2011,
+accompagnée de pièces nouvelles,
+vu les pièces du dossier;
+attendu que le recours, adressé au greffe du Tribunal cantonal, a été introduit auprès
+de l'instance de recours conformément à l'art. 321 al. 1 CPC (Code de procédure civile
+du 19 décembre 2008; RS 272),
+que, déposé le 18 avril 2011 contre le jugement qui avait été notifié au recourant
+le 14 avril 2011, il a été formé en temps utile, dans le délai de dix jours de l'art.
+174 al. 1 LP (loi fédérale sur la poursuite pour dettes et la faillite du 11 avril 1889; RS
+281.1),
+que, concluant à l'annulation de la faillite, il est en outre suffisamment motivé, de sorte
+qu'il est recevable formellement (art. 174 al. 2 LP et 321 al. 1 CPC);
+attendu que la production de pièces nouvelles en deuxième instance est autorisée en matière
+de faillite pour faire valoir des faits nouveaux lorsqu'ils se sont produits avant le jugement de première
+instance (art. 174 al. 1 LP) ou, si les pièces se rapportent à des faits intervenus depuis
+l'audience de faillite, pour  rendre vraisemblable la solvabilité du débiteur et établir
+que celui-ci a payé sa dette ou consigné les montants nécessaires auprès de l'autorité
+compétente ou que le créancier a retiré sa réquisition de faillite (art. 174
+al. 2 LP),
+que, dans cette mesure, les pièces produites par le recourant à l'appui de son recours sont
+recevables,
+qu'en revanche, ainsi qu'il était précisé dans l'avis du 28 avril 2011, les pièces
+nouvelles produites avec ses déterminations du 10 mai 2011 ne sont pas prises en considération,
+le recourant devant faire valoir tous ses moyens au moment du dépôt du recours;
+attendu  que, selon l'art. 171 LP, le juge saisi d'une réquisition de faillite doit prononcer
+celle-ci, sauf dans les cas mentionnés aux art. 172 à 173a LP, qui n'étaient pas réalisés
+en l'espèce,
+que c'est donc à juste titre que le premier juge a prononcé la faillite du recourant, les délais
+des art. 166 et 168 LP ayant été respectés et les parties régulièrement convoquées
+à l'audience de faillite;
+attendu qu'en vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler le jugement lorsque le débiteur, en déposant
+le recours, rend vraisemblable sa solvabilité et établit par titre que depuis lors la dette,
+intérêts et frais compris, a été payée ou que la totalité de la somme à
+rembourser a été déposée à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite,
+que ces deux conditions, soit la vraisemblance de la solvabilité et le paiement de la dette à
+l'origine de la faillite ou le retrait de la requête de faillite, sont cumulatives;
+attendu qu'en l'espèce, le recourant a rapporté la preuve du règlement de la créance
+réclamée par l'intimée (poursuite n° 5'338'712),
+que cette première condition pour annuler le jugement de faillite est ainsi réalisée;
+attendu que la solvabilité au sens de l’art. 174 al. 2 LP se définit par opposition à
+l’insolvabilité au sens de l’art. 191 LP (Giroud, Basler Kommentar, n. 25 ad art.
+174 LP; TF 5P.399/1999 du 14 janvier 2000 c. 2b),
+que cette dernière n'équivaut pas au surendettement mais consiste en l'incapacité du débiteur,
+en raison d'un manque de liquidités qui n'apparaît pas seulement temporaire, de payer ses dettes
+échues,
+que, s’il ne doit pas prouver de manière stricte sa solvabilité, le débiteur ne
+peut toutefois se contenter de simples allégations, mais doit fournir des indices tels que des récépissés
+de paiement, des justificatifs de moyens financiers à sa disposition (avoirs en banque, crédits
+bancaires), des listes de ses débiteurs, un extrait du registre des poursuites, des comptes annuels
+récents avec bilan intermédiaire, cette liste n’étant pas exhaustive,
+que l'extrait du registre des poursuites concernant le failli est en règle générale décisif
+(Cometta, Commentaire romand, n. 10 ad art. 174 LP),
+qu'en l'espèce, il ressort de l'extrait du 26 avril 2011 du registre des poursuites que le recourant
+faisait à cette date l'objet de treize poursuites, introduites contre lui du 29 juin 2005 au 15
+mars 2011, pour un total de 12'692 fr. 80, dont sept étaient au stade de la commination de faillite
+et six au stade du commandement de payer, dont deux demeurées libres d'opposition,
+qu'en ce qui concerne ces deux dernières poursuites (n° 5'650'563 et n° 5'732'090),
+la première a trait à une dette d'impôt de 3'685 fr. 55 et la seconde à une dette
+envers l'intimée, caisse maladie et accident, de 3'043 fr. 75,
+que trois autres poursuites ont été introduites précédemment contre le recourant
+à l'instance de l'intimée, le 6 août 2010 (solde de 13 fr. 95), le 1
+er
+décembre
+2010 (solde de 24 fr. 45) et le 3 février 2011 (solde de 2'644 fr. 05),
+que, dans ses déterminations du 10 mai 2011 sur cet extrait, le recourant a indiqué avoir payé
+onze des poursuites en cours contre lui,
+qu'il n'établit toutefois pas avoir réglé ces poursuites,
+que le recourant n'a au surplus produit aucun compte ni aucune autre pièce susceptible de renseigner
+sur sa situation financière,
+qu'on ne peut dès lors pas considérer qu'il a rendu sa solvabilité vraisemblable, de sorte
+que la seconde condition légale pour annuler la faillite n'est pas remplie;
+attendu que le recours, manifestement infondé au sens de l'art. 322 al. 1 CPC, doit par conséquent
+être rejeté et le jugement de faillite confirmé,
+que, compte tenu de l'effet suspensif accordé, la faillite de V.________ prend effet le 19 juillet
+2011 à 16 heures 15;
+attendu que les frais de deuxième instance du recourant sont arrêtés à  300
+francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de V.________ prenant effet le 19 juillet 2011 à
+16 h 15.
+III.
+Les frais de deuxième instance du recourant sont arrêtés à 300 fr. (trois cents francs).
+Le
+président :               La greffière
+:
+Du
+19 juillet 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. V.________,
+‑
+J.________,
+-
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier d'Echallens,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
