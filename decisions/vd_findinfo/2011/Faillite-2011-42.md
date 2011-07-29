@@ -1,0 +1,456 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___42"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 42"
+decided: "2011-07-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2801703"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-716a.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 42
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE | 174 LP, 190 al. 1 ch. 2 LP, 194 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.07.2011 Faillite / 2011 / 42
+
+FAILLITE SANS POURSUITE PRÉALABLE | 174 LP, 190 al. 1 ch. 2 LP, 194 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+269
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 juillet 2011
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174, 190 al. 1 ch. 2 et 194 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+D.________SA
+,
+à Lausanne, contre le jugement rendu le 31 mars 2011, à la suite de l’audience du 22
+mars 2011, par le Président du Tribunal d’arrondissement de Lausanne, prononçant la faillite
+sans poursuite préalable de la recourante à la requête de
+S.________SA
+,
+à Genève.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+D.________SA, inscrite au Registre du commerce
+du canton de Vaud le 23 novembre 2006, est une société anonyme sise à Lausanne, dont le
+but est notamment le commerce de céréales et de produits alimentaires. Elle est une filiale
+du groupe russe D.________ actuellement en liquidation. Son capital-actions de 20'000'000 fr.  a
+été entièrement libéré.
+Le 21 novembre 2006, cette société a ouvert un compte auprès de la banque S.________SA,
+à Genève, qui lui a accordé des lignes de crédit pour financer son activité
+commerciale, consistant à acheter des céréales russes pour les revendre dans le monde.
+Ce prêt bancaire était garanti par des marchandises stockées dans des silos à grain
+en Russie, dont le produit de la vente devait servir au remboursement de la banque. Une société
+de surveillance, [...], était chargée de vérifier la présence et la disponibilité
+de ces stocks.
+Au mois d'août 2010, les autorités russes ont décrété un moratoire sur les exportations
+de produits céréaliers, d'abord jusqu'au 31 décembre 2010, puis jusqu'à la fin du
+premier semestre de l'année 2011. Le dernier rapport de la société de surveillance date
+du mois de novembre 2010. Depuis lors, l'existence de la marchandise n'a pas pu être vérifiée
+– la société de surveillance n'ayant apparemment plus accès aux lieux de stockage.
+L'intimée n'a en tout cas pas pu revendre la marchandise qu'elle avait achetée depuis le mois
+d'août 2010 et n'a dès lors pas remboursé son crédit à la banque.
+Celle-ci a dénoncé le crédit au remboursement, par lettre "LSI" du 22 décembre
+2010, et sommé sa débitrice de s'acquitter, jusqu'au 24 décembre 2010 au plus tard, de
+la somme de 76'250'196 USD, incluant les intérêts jusqu'au 30 septembre 2010.
+b)
+Le 8 mars 2011, S.________SA a requis du Président du Tribunal d'arrondissement de Lausanne la faillite
+sans poursuite préalable de D.________SA.
+Selon l'extrait des registres de l'Office des poursuites de Lausanne-Est au 7 mars 2011 produit à
+l'appui de la requête, D.________SA faisait à cette date l'objet de deux poursuites : l'une,
+frappée d'opposition, d'un montant de 559'662 francs 35 réclamé par la société
+de surveillance [...], l'autre, encore libre d'opposition (commandement de payer notifié le 3 mars
+2011), d'un montant de 30'095 fr. 55 réclamé par Y.________ assurances.
+Par lettre du 17 mars 2011, l'organe de révision de D.________SA a informé le président
+du tribunal de l'état de surendettement de la société.
+Le 18 mars 2011, cet organe de révision a transmis au président du tribunal son rapport à
+l’assemblée générale ordinaire des actionnaires de D.________SA appelée à
+statuer sur les comptes de l’exercice 2010. Le compte de profits et pertes mentionne dans les produits
+de l'exercice 2010 des provisions pour perte sur débiteurs de -141'902'229 fr., et se solde par
+une perte de l’exercice après impôt de 148'217'377 francs. Le bilan au 31 décembre
+2010 mentionne, à l’actif, des acomptes aux fournisseurs de 130'915'884 fr. ainsi qu’une
+provision sur acomptes aux fournisseurs de -130'906'563 fr., et, au passif, la perte nette précitée
+de l’exercice de 148'217'377 francs. L’annexe au bilan fait état de stocks, pour un
+volume total de 1'014'708.310 MT, cédés à diverses banques contre financement bancaire,
+dont 536'708.310 MT à S.________SA. Ce document se termine par une rubrique "Continuation de
+l'exploitation" rédigée en ces termes :
+"A
+la fin de novembre 2010, les deux fournisseurs principaux russes ont informé D.________SA que les
+stocks que cette dernière avait payés d’avance et cédés en nantissement aux
+banques n’existaient pas.
+Au
+vu de ce qui précède la société n’est plus en mesure de continuer ses activités
+de négoce et de bénéficier des lignes de crédit bancaire."
+Au bas de son rapport, l’organe de révision, non sans avoir émis des réserves quant
+au caractère complet des documents qui lui avaient été remis et des informations qui lui
+avaient été communiquées, a attiré l’attention du conseil d’administration
+de la société sur le fait que les comptes annuels faisaient ressortir un surendettement manifeste
+et que l’art. 725 CO (Code des obligations; RS 220) imposait d’en informer le juge.
+Le jugement attaqué retient encore que la société a cessé toute activité, que
+le bail de ses locaux  a été résilié pour le 1
+er
+avril 2011, que les deux derniers employés ont été licenciés pour le 1
+er
+mars 2011 et que leurs salaires, comme celui de la directrice, ne leur ont pas été versés
+au mois de février 2011.
+A l'audience du 22 mars 2011, l'intimée était représentée par sa directrice, qui
+jouit du pouvoir de signature individuelle. Celle-ci a reconnu le surendettement de la société
+et s'est ralliée aux conclusions de la requérante.
+2.
+Par jugement adressé pour notification aux
+parties le 31 mars 2011, le Président du Tribunal d'arrondissement de Lausanne a admis la requête
+déposée le 8 mars 2011 par S.________SA (I) et prononcé la faillite sans poursuite préalable
+de D.________SA le 22 mars 2011 à 9 heures 25 (II), les frais de justice, par 300 fr., étant
+mis à la charge de l'intimée, celle-ci devant les rembourser à la requérante qui
+en avait fait l'avance (III).
+En substance, le premier juge a notamment considéré que la condition de la suspension ou de
+la cessation des paiements était réalisée au vu des poursuites exercées contre l’intimée,
+dont l'une requise par une société d’assurances, ce qui démontrerait le non-paiement
+des charges courantes, le versement des salaires étant en souffrance, le bail et les contrats de
+travail ayant été résiliés et le comblement du surendettement par une reprise de
+la marche des affaires s’avérant ainsi improbable.
+3.
+a)
+Le jugement a été notifié à D.________SA le 1
+er
+avril 2011, en mains de son précédent conseil. Le mandat de celui-ci ayant été révoqué
+– révocation intervenue le 24 mars 2011, mais dont l'avocat concerné n'a eu connaissance
+que le 31 mars 2011 et dont il a informé le premier juge par lettre du 1
+er
+avril 2011 que ce magistrat a reçue trois jours plus tard –,  le jugement a été
+renvoyé directement à l'adresse de la recourante, le 4 avril 2011. Toutefois, le pli, non réclamé,
+a été renvoyé au greffe du tribunal d'arrondissement à l'échéance du délai
+de garde.
+Sous la plume de son nouveau conseil, D.________SA a déposé un recours avec demande d'effet
+suspensif le lundi 11 avril 2011, concluant, avec dépens, principalement, à l’annulation
+de sa faillite, subsidiairement, à l’ajournement de sa faillite. Elle a produit des pièces,
+parmi lesquelles deux "reconnaissances de solde" signées le 18 mars 2011, émanant
+de deux fournisseurs russes, dont D.________ LLC, pour des montants de 77’738'217,25 USD et 72'649'435,
+63 USD
+au
+31 décembre 2010.
+b)
+Dans une écriture du 14 avril 2011, l'intimée S.________SA s'est opposée à l'octroi
+de l'effet suspensif, exigeant subsidiairement, pour le cas où il serait accordé, que la recourante
+soit astreinte au dépôt de sûretés.
+La recourante s'est déterminée sur cette écriture par lettre du 18 avril 2011.
+Par décision du 19 avril 2011, le vice-président de la cour de céans a accordé l’effet
+suspensif, ordonné l'inventaire et l'audition de la faillie à titre de mesures conservatoires
+et dispensé en l'état la recourante de fournir des sûretés.
+c)
+Selon l'extrait des registres de l'Office des poursuites de Lausanne-Est au 14 avril 2011, dont la production
+a été requise d'office par le vice-président de la cour de céans, la recourante faisait
+à cette date l'objet de trois poursuites : la première, frappée d'opposition, d'un montant
+de 562'499 fr. 55 réclamé par la société de surveillance [...], la deuxième,
+frappée d'opposition depuis l'édition du précédent extrait, d'un montant de 30'303
+francs 05 réclamé par Y.________ assurances et la troisième, également frappée
+d'opposition, d'un montant de 113'526'915 fr. 35 réclamé par la société de surveillance
+précitée.
+Par lettre du 12 mai 2011, la recourante s’est déterminée sur cet extrait du registre
+des poursuites. Elle a produit des pièces.
+d)
+L'intimée a produit ses déterminations sur le recours le 1
+er
+juin 2011, concluant à son rejet. Elle a produit des pièces.
+Les 8 et 16 juin 2011, la recourante a requis la fixation d'un délai pour se déterminer sur
+la réponse de l’intimée au recours. Le président de la cour de céans, par lettres
+du 15 et du 20 juin 2011, lui a répondu que ni la loi ni la jurisprudence du Tribunal fédéral
+n’imposait au juge de fixer un tel délai.
+En droit
+:
+I.
+a)
+Interjeté en temps utile, dans les dix
+jours suivant la notification du jugement de faillite (art. 174 al. 1 LP, auquel renvoie l'art. 194 al.
+1 LP – loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1), intervenue
+en l'espèce au plus tôt le 1
+er
+avril 2011 de sorte que l'échéance du délai au dimanche 10 avril 2011 était
+reportée au premier jour ouvrable suivant (art. 142 CPC – Code de procédure civile du
+19 décembre 2008; RS 272), et tendant principalement à l’annulation de la faillite (art.
+174 al. 2 LP, par renvoi de l'art. 194 al. 1 LP), subsidiairement à son ajournement (art. 173a al.
+2 LP), le recours est recevable.
+b)
+En matière de faillite sans poursuite
+préalable, en vertu de l'art. 174 al. 1 LP, auquel renvoie l'art. 194 al. 1 LP, les parties peuvent
+faire valoir des faits nouveaux lorsqu'ils se sont produits avant le jugement de première instance
+(pseudo-nova), c'est-à-dire avant l'audience de faillite qui marque la fin de l'instruction. Il
+s'ensuit qu'en l'espèce, les pièces antérieures ou se rapportant à des faits antérieurs
+au 22 mars 2011 sont recevables, qu'elles aient été produites par la recourante ou par l'intimée.
+En revanche, seul le prétendu débiteur, sujet à la poursuite par voie de faillite et déclaré
+en faillite pour le motif qu'il a suspendu ses paiements (art. 190 al. 1 ch. 2 LP), peut faire valoir
+des faits intervenus depuis l'audience de faillite (vrais nova) au sens de l'art. 174 al. 2 LP, qu'il
+doit établir par titre, pour rendre vraisemblable sa solvabilité (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 58 ad art. 190 LP et n.
+18 ad art. 194 LP), la condition de la preuve du paiement de la prétention déduite en poursuite
+n'étant pas applicable en matière de faillite sans poursuite préalable (CPF, 22 janvier
+2009/9).
+Il en résulte que les pièces relatives à des éléments postérieurs au 22 mars
+2011 produites par la recourante (prétendue débitrice) sont toutes recevables et que celles
+produites par l'intimée (prétendue créancière), savoir les pièces 37 à
+41, 44, 47 et 52 à 56
+sont
+irrecevables et doivent être écartées.
+c)
+A
+deux reprises, la recourante a requis qu’un délai lui soit fixé pour se déterminer
+sur la réponse de l’intimée, en vain, dès lors que le CPC ne prévoit pas de
+fixation de délais en vue d’un deuxième échange d’écritures (art. 322
+CPC) et que la jurisprudence du Tribunal fédéral relative au droit à la réplique
+(TF 5A_779/2010 du 1
+er
+avril 2011) n’implique pas que le juge fixe un délai en vue de nouvelles déterminations.
+La recourante avait toutefois la latitude de déposer spontanément une nouvelle écriture,
+ce qu'elle n'a pas fait.
+II.
+La recourante reproche au premier juge d'avoir
+considéré qu'elle se trouvait en état de suspension ou de cessation de paiements et se
+plaint d'une violation de l'art. 190 al. 1 ch. 2 LP.
+a)
+Aux termes de cette disposition, le créancier peut requérir la faillite sans poursuite préalable
+si le débiteur sujet à la poursuite par voie de faillite a suspendu ses paiements. La suspension
+de paiements est une notion imprécise qui confère au juge de la faillite un ample pouvoir d'appréciation
+(TF 5P.312/2002 du 13 février 2003 c. 3.3; SJ 1933 p. 145; SJ 1994 pp. 434 ss; Cometta, Commentaire
+romand, n. 10 ad art. 190 LP; Huber, Kurzkommentar SchKG, n. 8 ad art. 190 LP; Peter, Edition annotée
+de la loi fédérale sur la poursuite pour dettes et la faillite, p. 851). Elle a été
+préférée par le législateur à l'insolvabilité parce qu'elle est perceptible
+extérieurement, plus aisée à constater que l'insolvabilité proprement dite et, partant,
+plus aisée à prouver pour le requérant.
+Pour qu'il y ait suspension de paiements, il faut que le débiteur ne paie pas des dettes incontestées
+et exigibles, laisse les poursuites se multiplier contre lui, tout en faisant systématiquement opposition,
+ou omette de s'acquitter même de dettes minimes. Par ce comportement, le débiteur démontre
+qu'il ne dispose pas de liquidités suffisantes pour honorer ses engagements. Il n'est toutefois
+pas nécessaire que le débiteur interrompe tous ses paiements; il suffit que le refus de payer
+porte sur une partie essentielle de ses activités commerciales. Même une dette unique n'empêche
+pas, si elle est importante et que le refus de payer est durable, d'admettre une suspension de paiements;
+tel peut être le cas lorsque le débiteur refuse de désintéresser son principal créancier
+(TF 5A_439/2010 du 11 novembre 2010; TF 5A_367/2008 du 11 juillet 2008 c. 4.1; SJ 2000 I 248, p. 250
+et réf. cit.). Le non-paiement de créances de droit public peut constituer un indice de suspension
+de paiements (SJ 2000 I 248 et réf. cit.).
+Pour juger de l'existence d'une suspension de paiements, l'autorité judiciaire supérieure doit
+tenir compte des faits nouveaux (art. 174 LP applicable par renvoi de l'art. 194 LP) et donc de la situation
+financière du débiteur à l'échéance du délai de recours cantonal (ATF 136
+III 294 c. 3).
+b)
+En l'espèce, le rapport de l'organe de révision de la recourante du 17 mars 2011 mentionne
+des provisions pour perte sur débiteur de près de 142'000'000 fr. et une provision sur acomptes
+aux fournisseurs de près de 131'000'000 fr. et conclut au surendettement manifeste de la société.
+La recourante conteste les comptes et le rapport de son organe de révision en soutenant que les
+provisions sur débiteurs telles que comptabilisées sont injustifiées, ses deux principaux
+fournisseurs russes ayant reconnu lui devoir, au 31 décembre 2010, 77’738'217,25 USD
+et 72'649'435, 63 USD, soit un montant total converti en francs suisses de 141'447'000 fr. supérieur
+au montant des acomptes aux fournisseurs de 130'915'884 fr. qui figure au bilan.
+aa)
+L’art. 669 al. 1 CO dispose que des amortissements, corrections de valeur et provisions pour risques
+et charges sont effectués dans la mesure où ils sont nécessaires selon les principes généralement
+admis dans le commerce. Des provisions pour risques et charges sont notamment constituées pour couvrir
+les engagements incertains et les risques de pertes sur les affaires en cours. Les montants comptabilisés
+doivent être la meilleure estimation de la dépense nécessaire à l’extinction
+de l’obligation actuelle à la date de clôture, autrement dit le montant qu’une
+entreprise devrait raisonnablement payer pour éteindre l’obligation à la date de clôture
+ou pour la transférer à un tiers à cette même date (Torrione, Commentaire romand,
+n. 26 ad art. 669 CO).
+Dans un arrêt du 27 juin 2006 (TF 4C.122/2006 c. 5.1), le Tribunal fédéral a considéré
+ce qui suit :
+"L'art.
+669 al. 1 CO impose de constituer des provisions pour risques et charges, afin de couvrir les engagements
+incertains et les risques de pertes sur les affaires en cours. Le montant de la provision à indiquer
+au bilan doit être évalué selon le principe de la prudence (Neuhaus/Schönbächler,
+Commentaire bâlois, N. 22 ad art. 669 CO) et va dépendre de la probabilité que la prétention
+émise à l'encontre de la société se concrétise (Böckli, op. cit., § 8
+N. 494). S'il ressort du dernier bilan annuel que la moitié du capital-actions et des réserves
+légales n'est plus couverte, le conseil d'administration convoque immédiatement une assemblée
+générale et lui propose des mesures d'assainissement (art. 725 al. 1 CO). S'il existe des raisons
+sérieuses d'admettre que la société est surendettée, un bilan intermédiaire
+est dressé et soumis à la vérification de l'organe de révision (art. 725 al. 2 1
+re
+phrase
+CO). Lorsque les dettes sociales ne sont plus couvertes, les administrateurs doivent en principe aviser
+le juge (cf. art. 725 al. 2 CO; ATF 128 III 180 consid. 2e p. 185). Exceptionnellement, il peut être
+renoncé à un avis immédiat au juge, si des mesures tendant à un assainissement concret
+et dont les perspectives de succès apparaissent comme sérieuses sont prises aussitôt (ATF
+116 II 533 consid. 5a p. 541, confirmé in arrêt du Tribunal fédéral 4C.366/2000 du
+19 juin 2001, consid. 4b et les références citées). En pratique, pour déterminer
+s'il existe des "raisons sérieuses" d'admettre un surendettement, le conseil d'administration
+ne doit pas seulement se fonder sur le bilan, mais aussi tenir compte d'autres signaux d'alarmes liés
+à l'évolution de l'activité de la société (cf. Böckli, op. cit., §
+13 N. 768), tels l'existence de pertes continuelles (Garbarski, op. cit., p. 167) ou l'état des
+fonds propres (Wüstiner, op. cit., N. 33 ad art. 725 CO). L'administrateur qui tarde de manière
+fautive à aviser le juge au sens de l'art. 725 al. 2 CO répond du dommage qui en découle
+(Glanzmann/Roberto, Verantwortlichkeit des Verwaltungsrates in Sanierungssituationen, in Praxis zum unternehmerischen
+Verantwortlichkeitsrecht, Zurich 2004, p. 77 ss, 80)".
+bb)
+Dans la présente cause, à supposer que les états de compte signés par les directeurs
+des deux sociétés russes censées fournir les céréales aient été constitutifs
+de reconnaissances de dettes, même pour un montant total supérieur d’environ 10'000'000
+fr. à celui des acomptes aux fournisseurs indiqué au bilan, cela n'éliminait pas la nécessité
+comptable de constituer des provisions. En effet, la recourante n'apporte aucun élément sur
+la question décisive de l’exécution de leur obligation par les fournisseurs, soit la
+livraison des céréales payées, exécution qui ne dépend pas seulement de la levée
+du moratoire étatique sur les exportations à la fin du 1
+er
+semestre de l'année 2011, mais encore et surtout de l’existence et de la libre disposition
+des marchandises cédées en nantissement aux banques, faits dont le contrôle a été
+empêché.
+En outre, comme le fait valoir l’intimée, ces deux sociétés russes apparaissent
+comme des débiteurs douteux qui ne sont pas en situation de régler leurs dettes. Les créances
+de la recourante contre ses fournisseurs ont été cédées en garantie à des banques,
+notamment à l’intimée. Or, le 16 décembre 2010, les sociétés en question
+ont adressé à l'intimée une lettre l'informant qu’elles n’étaient pas
+en mesure d’honorer leurs dettes envers les banques en raison de divers motifs (pièce 26).
+De plus, la société D.________ LLC a requis sa mise en faillite pour cause d’insolvabilité,
+le 24 janvier 2011. Par décision du 1
+er
+mars 2011, le Tribunal arbitral de la région de Krasnodar a ordonné l'introduction d'une procédure
+de surveillance devant déboucher à bref délai sur une faillite ou sur une reconstitution
+de la solvabilité du débiteur.
+Dans ce contexte, le provisionnement litigieux s’imposait et il en découle sur le plan comptable
+un surendettement patent de la recourante.
+c)
+La recourante soutient que les poursuites frappées
+d’opposition dont elle fait l’objet sont infondées ou abusives et qu'on ne saurait donc
+en déduire une suspension de paiements. Dans ses déterminations du 12 mai 2011 sur l'extrait
+du registre des poursuites la concernant du 14 avril 2011, elle fait valoir que la poursuite d’un
+montant de 562'039 fr. 45 exercée à l'instance de la société de surveillance [...]
+correspond à des honoraires pour une activité de surveillance de stocks de blé en relation
+avec des "Collateral Management Agreements", mais qu’elle n’entend pas s’en
+acquitter dès lors que les banques reprochent à la société de surveillance une violation
+de ses obligations découlant de ces accords (
+Agreements).
+Ainsi, la recourante n'invoque pas l'inexécution
+d’une prestation contractuelle qui lui serait due, mais des griefs formulés par des tiers,
+motif qui n'apparaît dès lors pas sérieusement fondé.
+La recourante conteste également la créance en poursuite d’un montant de 113'526’915
+fr. 35 réclamée par la même société de surveillance et censée relever d’une
+action récursoire en responsabilité consécutive aux prétentions émises par les
+banques contre la société de surveillance. Là encore, elle ne nie pas sérieusement
+les prétentions en réparation dirigées contre la poursuivante, mais se borne à contester
+son propre appel en cause.
+Enfin, en ce qui concerne la poursuite de 30'303 fr. 05 introduite par Y.________ assurances, la recourante
+soutient qu’il s’agit d’une créance de loyers concernant un bureau et un dépôt,
+que le bail du bureaux a pris fin le 28 mars 2011 et celui du dépôt au 30 juin 2011 et que
+la dette est inexistante dès lors que la lettre du bailleur du 16 mars 2011 relative à l'état
+de lieux ne mentionne pas d’arriérés. Cet argument est dénué de pertinence,
+le silence du bailleur sur ce point ne signifiant nullement qu'il reconnaisse n'être plus titulaire
+d'une créance et renonce à la poursuite, dont il n'est au demeurant pas établi qu'elle
+porte sur des arriérés de loyer ni, le cas échéant, pour quels locaux et quelle période
+de location.
+Il s'ensuit que ces déterminations ne permettent pas d’écarter une pratique systématique
+de l’opposition pour des motifs de peu de pertinence. De plus, les pièces produites démontrent
+la cessation d’activités de la recourante qui ne dispose plus de locaux à l’adresse
+de son siège lausannois et n’a plus de personnel.
+d)
+Se
+référant à l’art. 716a al. 1 CO qui réserve au conseil d’administration
+la compétence d’informer le juge en cas de surendettement, la recourante soutient que les
+déclarations de sa directrice, qui n'est pas membre du conseil, à l’audience de faillite
+n’auraient pas dû être prises en compte. En réalité, elle confond ainsi l’avis
+de surendettement de l’art. 725 CO avec la représentation en justice de la société.
+La directrice en fonction, jouissant du pouvoir de signature individuelle, avait la capacité de
+représenter la recourante à l’audience et de se déterminer oralement au nom de celle-là
+sur la requête de faillite et ses perspectives éventuelles de rétablissement économique
+et financier.
+e)
+En définitive, on constate que la recourante n’a plus d’activités, qu’elle
+fait systématiquement opposition aux importantes poursuites dirigées contre elle, que ses comptes
+2010 montrent un lourd surendettement imposant, de l’avis de son organe de révision, de donner
+au juge l’avis de l’art. 725 CO – ce qui a d'ailleurs été fait – et
+que sa directrice considérait la faillite comme inéluctable. Dans ces circonstances, auxquelles
+s’ajoutent l’ampleur de la créance de l’intimée – non contestée
+par la recourante qui déclare d'entrée de cause, dans son acte du 11 avril 2011, qu'elle n'entend
+pas discuter le bien-fondé de cette prétention – et l’inconsistance des garanties
+offertes, la situation de cessation de paiements est suffisamment établie, ce qui justifie
+de confirmer la faillite sans poursuite préalable.
+III.
+La recourante conclut subsidiairement à l'ajournement
+de sa faillite.
+Rien ne permet de considérer qu'un concordat paraît possible, ce qui est la condition pour
+ajourner d’office le jugement de faillite (art. 173a al. 2 LP), la recourante ne disposant d’aucuns
+actifs substantiels et ne formulant d'ailleurs aucune offre et l’intimée, principal créancier,
+déclarant expressément rejeter toute idée de concordat. Au demeurant, et comme mentionné
+ci-dessus, la recourante n'a plus d'activité.
+IV.
+Le recours doit ainsi être rejeté et
+le jugement confirmé, la faillite sans poursuite préalable de D.________SA prenant effet, compte
+tenu de l'effet suspensif accordé, le 29 juillet 2011, à 16 heures 15.
+Les frais de deuxième instance de la recourante sont arrêtés à 300 francs. Elle doit
+en outre verser à l'intimée la somme de 3'000 fr. à titre de dépens de de deuxième
+instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite sans poursuite préalable de D.________SA prenant effet
+le 29 juillet 2011, à 16 heures 15.
+III.
+Les frais de deuxième instance de la recourante sont arrêtés à 300 fr. (trois cents
+francs).
+IV.
+La recourante D.________SA doit verser à
+l'intimée S.________SA la somme de 3'000 fr. (trois mille francs) à titre de dépens de
+deuxième instance.
+Le
+président :               La greffière
+:
+Du
+29 juillet 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Antoine Kohler, avocat (pour D.________SA),
+‑
+Me Guillaume Fatio, avocat (pour S.________SA),
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
