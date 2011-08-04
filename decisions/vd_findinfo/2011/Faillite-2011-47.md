@@ -1,0 +1,188 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___47"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 47"
+decided: "2011-08-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2797722"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 47
+
+## Regeste
+
+POURSUITE PAR VOIE DE FAILLITE, DETTE, PAIEMENT | 172 ch. 3 LP, 174 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.08.2011 Faillite / 2011 / 47
+
+POURSUITE PAR VOIE DE FAILLITE, DETTE, PAIEMENT | 172 ch. 3 LP, 174 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+272
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 août 2011
+__________________
+Présidence
+de               M.
+H A C K, président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 1 et 172 ch. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+D.________
+,
+à Lausanne, contre le jugement rendu le 27 janvier 2011 par le Président du Tribunal d’arrondissement
+de Lausanne, prononçant la faillite du recourant, avec effet au 26 janvier 2011, à la réquisition
+de
+Q.________ SA
+,
+à Berne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 16 octobre 2010, à la réquisition
+de Q.________ SA, l'Office des poursuites du district de Lausanne-Ouest (ci-après : l'office) a
+notifié à D.________, dans la poursuite n° 5'537'016 un commandement de payer les sommes
+de 1'100 fr. 70, plus intérêt au taux de 5 % l'an dès le 1
+er
+mai 2010, de 90 fr. et 100 fr. sans intérêt.
+Le poursuivi n'a pas formé opposition. Une commination de faillite lui a été notifiée
+le 20 novembre 2010 dans la même poursuite. Le 15 décembre 2010, la poursuivante a requis la
+faillite du débiteur.
+Par jugement adressé pour notification aux parties le 27 janvier 2011, le Président du Tribunal
+d’arrondissement de Lausanne, statuant par défaut de la partie requérante, a prononcé
+la faillite de D.________ le 26 janvier 2011 à 17 heures (I) et mis les frais du jugement, par 200
+fr., à la charge du failli (II). Ce jugement a été notifié au failli le 1
+er
+février 2011.
+2.
+D.________ a recouru par acte du 9 février 2011, concluant implicite-ment à l'annulation de
+sa faillite, exposant qu'il avait réglé la dette en poursuite le
+25
+janvier 2011 en mains de l'office. Il a produit une quittance attestant du règlement d'un montant
+de 1'506 fr. 55, en expliquant qu'il ignorait qu'il devait produire cette pièce pour éviter
+la faillite.
+Par décision du 21 février 2011, le Président de céans a accordé l’effet
+suspensif au recours ; il a ordonné l’inventaire et l’audition du failli au titre
+de mesures conservatoires.
+Par avis recommandé du 23 février 2011, un délai au 7 mars 2011 a été imparti
+au recourant pour se déterminer sur l’extrait du registre des poursuites le concernant. Le
+failli ne s'est pas déterminé dans le délai fixé.
+Par lettre du 29 avril 2011, l'intimée a indiqué que sa créance en poursuite avait été
+payée, frais compris, et a requis la radiation de son "écriture".
+En droit
+:
+I.
+Le recours a été introduit auprès
+de l'instance de recours conformé-ment à l'art. 321 al. 1 CPC (Code de procédure civile
+du 19 décembre 2008; RS 272). Déposé le 9 février 2011, il a été formé
+en temps utile, dans le délai de dix jours de l'art. 174 al. 1 LP (loi fédérale sur la
+poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1). Tendant à l'annulation de la faillite,
+le recours est en outre suffisamment motivé, de sorte qu'il est recevable formellement (art. 174
+al. 2 LP et 321 al. 1 CPC).
+La production de pièces nouvelles en deuxième instance est autorisée en matière de
+faillite pour faire valoir des faits nouveaux lorsqu'ils se sont produits avant le jugement de première
+instance (art. 174 al. 1 LP) ou, si les pièces se rapportent à des faits intervenus depuis
+l'audience de faillite, pour rendre vraisemblable la solvabilité du débiteur et établir
+que celui-ci a payé sa dette ou consigné les montants nécessaires auprès de l'autorité
+compétente ou que le créancier a retiré sa réquisition de faillite (art. 174
+al. 2 LP). Dans cette mesure, la quittance produite par le recourant à l'appui de son recours
+est recevable.
+II.
+a)
+Selon les art. 171 et 172 LP,
+le juge saisi d'une réquisition de faillite prononce celle-ci, à moins que l'autorité
+de surveillance n'ait annulé la commination (art. 172 ch. 1 LP), que le débiteur ne se trouve
+au bénéfice de l'opposition tardive de l'article 77 LP (art. 172 ch. 2 LP), ou encore que le
+débiteur ne justifie par titre que la créance a été acquittée en capital, intérêts
+et frais ou que le créancier lui a accordé un sursis (art. 172 ch. 3 LP).
+L'art. 174 al. 1 LP prévoit que le jugement de faillite peut être déféré à
+l'autorité judiciaire supérieure dans les dix jours, les parties pouvant faire valoir des faits
+nouveaux lorsqu'ils se sont produits avant le jugement de première instance.
+En l'espèce, la faillite de D.________ a été prononcée par jugement du 27 janvier
+2001, avec effet au 26 janvier 2011. Or, il résulte des pièces produites en deuxième instance
+que le montant réclamé par la poursuivante avait été intégrale-ment payé
+le 25 janvier 2011, soit avant le jugement de faillite.
+Il convient de tenir compte de ces éléments, puisqu'il s'agit de faits nouveaux improprement
+dits au sens de l'art. 174 al. 1 LP, qui sont recevables notamment pour établir le règlement
+de l'entier de la créance en poursuite. Ces faits suffisent à eux seuls pour admettre le recours
+car s'il en avait eu connaissance, le premier juge n'aurait pas prononcé la faillite, en vertu de
+l'art. 172 ch. 3 LP
+(SJ 2011
+I p. 149 ; Bosshard, Le recours contre le jugement de faillite, JT 2010 II 126; CPF, 7 août 2008/370).
+III.
+Le recours doit dès
+lors être admis en ce sens que la faillite du débiteur n'est pas prononcée. Il faut en
+revanche maintenir le jugement attaqué en ce qui concerne les frais qui incombent au failli par
+200 fr., lesquels doivent demeurer à sa charge; en effet, on aurait pu attendre de celui-ci qu'il
+fasse preuve de la diligence requise en affaires et produise devant le premier juge les documents attestant
+du paiement de la dette, ce qui aurait évité le jugement de faillite ainsi que le recours.
+Les frais de deuxième instance du recourant
+sont arrêtés à  300 francs.
+Il
+n’est pas alloué de dépens de deuxième instance, l’intimée n'étant
+pas assistée et ayant retiré sa requête.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est annulé en ce sens que la faillite de D.________ n'est pas prononcée.
+Le jugement est maintenu
+pour le surplus.
+III.
+Les frais de deuxième instance du recourant sont arrêtés à 300 fr. (trois cents francs).
+IV.
+Il n'est pas alloué de dépens de deuxième instance.
+Le
+président :               La greffière
+:
+Du
+4 août 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. D.________,
+‑
+Q.________ SA,
+-
+M. le Préposé à l'Office des poursuites de Lausanne-Ouest,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
