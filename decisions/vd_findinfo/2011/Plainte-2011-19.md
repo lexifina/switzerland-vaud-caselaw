@@ -1,0 +1,285 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 19"
+decided: "2011-08-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2806172"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-063.md", "switzerland/bund/acts/281.1/art-065.md", "switzerland/bund/acts/281.1/art-074.md", "switzerland/bund/acts/281.1/art-077.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 19
+
+## Regeste
+
+COMMANDEMENT DE PAYER, OPPOSITION{LP}, RESTITUTION DU DÉLAI | 33 al. 4 LP, 65 al. 2 LP, 74 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 10.08.2011 Plainte / 2011 / 19
+
+COMMANDEMENT DE PAYER, OPPOSITION{LP}, RESTITUTION DU DÉLAI | 33 al. 4 LP, 65 al. 2 LP, 74 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+290
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 août 2011
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Muller et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+33 al. 4, 65 al. 2 et 74 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+G.________SA
+,
+à Lausanne, contre la décision rendue le 14 avril 2011, à la suite de l’audience
+du 10 février 2011, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la requête de restitution de délai déposée
+par la recourante le 24 décembre 2010 dans la poursuite n° 5'592'627 de l'
+Office
+des poursuites de Lausanne-Ouest
+exercée
+contre elle à l'instance de la
+Confédération
+suisse, Direction générale des douanes
+,
+à Berne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 17 novembre 2010, à la réquisition de la Confédération suisse, Direction générale
+des douanes, l'Office des poursuites de Lausanne-Ouest (ci-après : l'office) a notifié
+à G.________SA un commandement de payer dans la poursuite n° 5'592'627. Selon les indications
+de l'agent notificateur inscrites sur l'acte, ce dernier a été remis à un employé.
+Aucune opposition n'a été formée dans le délai de dix jours suivant la notification.
+La poursuivante ayant requis la continuation de la poursuite, l'office a adressé un avis de saisie
+à la poursuivie, le 13 décembre 2010, l'avisant qu'il serait procédé à la saisie
+le 11 janvier 2011.
+Le 24 décembre 2010, G.________SA a saisi le Président du Tribunal d'arrondissement de Lausanne,
+autorité inférieure de surveillance, d'une requête de restitution du délai pour former
+opposition à la poursuite en cause. Elle a demandé l'effet suspensif, qui a été accordé
+par décision présidentielle du 5 janvier 2011.
+A l'appui de sa requête de restitution de délai, la poursuivie a fait valoir que son administrateur
+était en voyage du 15 au 18 novembre 2010 et que l'employé à qui le commandement de payer
+avait été notifié le 17 novembre 2010 n'y avait pas fait opposition, désirant attendre
+le retour de son patron et les instructions de celui-ci à ce sujet, mais qu'il était tombé
+malade le lendemain, au point de se trouver en incapacité totale de travail jusqu'au 29 novembre
+2010, et avait complètement oublié, accaparé par ses soucis de santé, d'informer
+l'administrateur de la société de l'existence de cette poursuite.
+A l'audience du 10 février 2011, la requérante a produit une lettre que la poursuivante lui
+avait envoyée le 8 novembre 2010, l'avertissant du dépassement du montant de la garantie fournie
+en sa faveur et l'invitant à verser, jusqu'au 8 décembre 2010, une certaine somme pour augmenter
+cette garantie, faute de quoi le compte pouvait être temporairement bloqué.
+Entendu comme témoin à l'audience, l'employé de la requérante a en substance confirmé
+les allégations de celle-ci, précisant qu'il était directement rentré chez lui depuis
+le poste de police où il était allé chercher le commandement de payer, parce qu'il était
+souffrant. Il a en outre indiqué qu'il avait déjà réceptionné des commandements
+de payer.
+2.
+Par prononcé rendu sans frais le 14 avril 2011, le Président du Tribunal d'arrondissement de
+Lausanne a rejeté la requête de restitution de délai et confirmé l'avis de saisie
+envoyé le 13 décembre 2010 à la requérante dans la poursuite en cause. En substance,
+il a considéré que la requête était recevable et bien fondée en ce qui concernait
+la condition d'un empêchement non fautif, mais que la condition de l'accomplissement de l'acte omis,
+soit, en l'occurrence, l'opposition au commandement de payer, dans les dix jours suivant la fin de l'empêchement
+n'était pas réalisée.
+3.
+Par acte déposé le mardi de Pâques 26 avril 2011, G.________SA a fait appel de cette décision,
+qui lui avait été notifiée le 15 avril 2011, auprès de la Cour d'appel civile, concluant,
+avec suite de frais et dépens, à la restitution du délai pour former opposition. Elle
+a requis l'effet suspensif, "si le présent appel devait être considéré comme
+un recours". Elle a produit un onglet de pièces sous bordereau, dont une lettre adressée
+le 24 décembre 2010 à l'office par son conseil, déclarant former opposition totale au
+commandement de payer n° 5'592'627, et une lettre du 18 avril 2011 de l'office à son conseil,
+attestant avoir reçu la lettre précitée, contenant l'opposition à la poursuite en
+cause, le 3 janvier 2011.
+L'appel a été converti en recours contre une décision de l'autorité inférieure
+de surveillance auprès de l'autorité cantonale supérieure de surveillance, soit la Cour
+des poursuites et faillites du Tribunal cantonal, et le président de la cour de céans a accordé
+l'effet suspensif, par décision du 11 mai 2011.
+L'office s'est déterminé le 17 mai 2011, préavisant pour l'admission du recours. Il a
+produit la lettre précitée du conseil de la recourante du 24 décembre 2011, reçue
+le 3 janvier 2011.
+La Confédération suisse, Direction générale des douanes n'a pas procédé
+dans le délai fixé à la partie intimée pour produire ses déterminations.
+En droit :
+I.
+a)
+L'entrée en vigueur, le 1
+er
+janvier 2011, du nouveau CPC (Code de procédure civile du 19 décembre 2008; RS 272), applicable,
+en matière de droit de la poursuite pour dettes et la faillite, uniquement aux décisions judiciaires
+(art. 1 let. c CPC), n'a pas eu de conséquence sur la procédure de plainte et de recours LP
+(loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1), qui demeure régie
+par cette loi et par la LVLP (loi vaudoise d'application de la LP; RSV 280.05).
+b)
+Aux termes de l’art. 33 al. 4 LP, quiconque a été empêché sans sa faute d’agir
+dans le délai fixé peut demander à l’autorité de surveillance ou à l’autorité
+judiciaire compétente qu’elle lui restitue ce délai. En dehors des cas où une autorité
+judiciaire est déjà saisie, c’est l’autorité de surveillance qui est compétente
+pour statuer sur la restitution d’un délai (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 54 ad art. 33 LP; Erard, Commentaire romand, n. 26 ad
+art. 33 LP; Nordmann, Basler Kommentar, n. 15 ad art. 33 LP). Dans le canton de Vaud, il s'agit du président
+du tribunal d'arrondissement, autorité inférieure de surveillance (art. 15 al. 1 et 2 LVLP).
+La cour de céans, autorité cantonale supérieure de surveillance, est compétente pour
+connaître du recours contre toute décision de l'autorité inférieure (art. 18 al.
+1 LP et 14 al. 1 LVLP; Nordmann, op. cit., n. 16 ad art. 33 LP; JT 2003 II 64).
+La procédure qui s'applique à une requête en restitution de délai n'est pas définie
+par l'art. 33 al. 4 LP. Selon la jurisprudence, elle est soumise aux art. 17 ss LVLP en première
+instance et aux art. 28 ss LVLP en deuxième instance (JT 2003 II 64 précité; CPF, 26 novembre
+2010/31; CPF, 23 septembre 2010/24; CPF, 10 juin 2010/12 et réf. cit.).
+En l’espèce, le recours a été formé en temps utile (art. 28 al. 1 et 74 LVLP)
+et comporte l’énoncé des moyens invoquées (art. 28 al. 3 LVLP), de sorte qu’il
+est recevable. Les pièces nouvelles produites par la recourante sont également recevables (art.
+28 al. 4 LVLP), de même que les déterminations de l'office et la pièce nouvelle produite
+par celui-ci (art. 31 al. 1 LVLP).
+II.
+a)
+Objectivement, l'art. 33 al. 4 LP ne s'applique que si le délai à restituer est échu,
+ce qui implique qu'il a valablement couru. Tel n'est pas le cas si la communication de l'acte, à
+compter de laquelle le délai court, est irrégulière. Autrement dit, la restitution d'un
+délai suppose un empêchement d'agir autre qu'une communication irrégulière (Gilliéron,
+op. cit., n. 37 ad art. 33 LP; Erard, op. cit., n. 19 ad art. 33 LP).
+En l'espèce, l'autorité inférieure de surveillance a considéré à juste
+titre que la notification du commandement de payer à un employé de la recourante en l'absence
+de l'administrateur de celle-ci, conforme à l'art. 65 al. 2 LP, était régulière.
+b)
+Selon l’art. 33 al. 4 LP, la personne qui a été empêchée sans sa faute d’agir
+dans le délai fixé et demande à l’autorité compétente la restitution de
+ce délai doit, à compter de la fin de l’empêchement, déposer une requête
+motivée dans un délai égal au délai échu et accomplir auprès de l’autorité
+compétente l’acte juridique omis. La requête de restitution de délai est donc soumise
+à trois conditions subjectives : un empêchement non fautif, le dépôt d’une
+requête motivée dans un délai égal au délai échu et l’accomplissement
+de l’acte omis dans le même délai. Le dies a quo de ce délai pour demander la restitution
+et simultanément accomplir l’acte omis, sous peine d’irrecevabilité de la demande,
+est celui de la fin de l’empêchement non fautif.
+L'autorité de surveillance a considéré à juste titre que les deux premières
+conditions étaient remplies dans la présente cause.
+aa)
+Un
+empêchement de former opposition à la poursuite est considéré comme excusable, soit
+sans faute au sens de l'art. 33 al. 4 LP, lorsqu'il paraît vraisemblable que des circonstances indépendantes
+de la volonté du débiteur ont rendu cette opposition impossible. Cela peut être le cas
+lorsque le commandement de payer n'a pas été notifié personnellement au poursuivi mais
+à une personne de sa maison qui ne lui a pas remis l'acte (Jäger, Commentaire de la loi fédérale
+sur la poursuite pour dette, n. 2 ad art. 77 aLP; CPF, 10 juin 2010/12 précité). Dans le même
+sens, un autre auteur admet que l'empêchement qui a conduit à ne pas faire opposition dans
+le délai légal est excusable lorsque le poursuivi n'a pas eu connaissance du commandement de
+payer notifié régulièrement à une personne adulte de son ménage ou à un
+employé en raison de faits qui ne lui sont pas imputables à faute, tels qu'une absence prolongée
+due à un voyage, à des vacances ou à une mésentente familiale (Ruedin, Poursuite
+pour dettes et faillite, L'opposition (art. 74-78 LP), FJS 979, p. 11).
+En l'espèce, la maladie de l'employé à qui le commandement de payer a été notifié
+le 17 novembre 2010, son incapacité de travail à 100 % dès le lendemain et jusqu'au 29
+novembre 2010 et son oubli de signaler l'existence de la poursuite en cause à l'administrateur
+au retour de celui-ci ou à son retour au travail ne peuvent pas être imputés à faute
+à la recourante. Avec raison, l'autorité inférieure a retenu que l'administrateur n'avait
+pas négligé un éventuel devoir d'instruction à son employé. Ce dernier a déclaré,
+lors de son audition comme témoin, qu'il avait déjà réceptionné des commandements
+de payer. Au surplus, la lettre de l'Administration fédérale des douanes du 8 novembre 2010
+ne laissait pas prévoir l'introduction très prochaine d'une poursuite. Il n'y avait dès
+lors pas de raison de donner à l'employé des instructions particulières.
+bb)
+Le
+dies a quo du délai pour déposer la requête motivée de restitution et accomplir l'acte
+omis est celui où cesse l'empêchement (Gilliéron, op. cit., n. 48 ad art. 33 LP). L'empêchement
+de former opposition cesse lorsque le poursuivi prend connaissance du commandement de payer (Ruedin,
+op. cit., p. 11). Cette prise de connaissance intervient lorsque le débiteur a effectivement le
+commandement de payer en mains (ATF 120 III 114, JT 1997 II 50; CPF, 20 décembre 2007/40), mais
+non, si l'existence de la poursuite est seulement évoquée, sans que l'acte lui soit présenté.
+Le délai pour former opposition au commandement de payer est de dix jours (art. 74 al. 1 LP).
+En l'espèce, l'autorité inférieure a considéré que l'empêchement non fautif
+avait pris fin à réception de l'avis de saisie du 13 décembre 2010, soit au plus
+tôt le lendemain, 14 décembre 2010. La recourante allègue avoir reçu cet avis le
+22 décembre 2010, mais cela n'est pas établi. Au surplus, elle n'allègue ni ne prouve
+avoir eu effectivement connaissance du commandement de payer à une date ultérieure. Partant
+du dies a quo retenu dans la décision attaquée, le délai d'opposition de dix jours a été
+respecté et la requête de restitution motivée déposée le 24 décembre 2010
+l'a été dans les formes requises et en temps utile.
+cc)
+Il reste à examiner la condition de l'accomplissement
+de l'acte omis, soit l'opposition à la poursuite en cause, dans le même délai, dont l'autorité
+inférieure a considéré qu'elle n'était pas réalisée.
+Il est établi par les pièces produites en deuxième instance et les déterminations
+de l'office à ce sujet que la recourante a formé opposition à la poursuite par lettre
+du 24 décembre 2010, soit en temps utile. A compter du dies a quo retenu par l'autorité inférieure,
+la poursuivie disposait même, en vertu de l'art. 63 LP, d'un délai prolongé de trois jours
+ouvrables après la fin des féries de Noël, soit jusqu'au 5 janvier 2011.
+Il s'ensuit que toutes les conditions à la restitution du délai d'opposition sont réalisées.
+III.
+a)
+Le recours doit ainsi être admis et le
+prononcé réformé en ce sens que la requête de restitution du délai pour former
+opposition à la poursuite en cause est admise et l'avis de saisie du 13 décembre 2010 est annulé.
+b)
+La procédure en restitution de délai étant soumise, lorsqu'elle se déroule devant
+les autorités de surveillance, aux règles de la procédure de plainte et de recours LP,
+les art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP (ordonnance sur les émoluments perçus
+en application de la LP; RS 281.35) sont applicables et la procédure est gratuite (CPF, 26 novembre
+2010/31 précité).
+Par conséquent, le présent arrêt est rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé comme il suit aux chiffres I et II de son dispositif :
+I.
+admet la demande de restitution de délai déposée le 24 décembre
+2010 par G.________SA, chemin de [...], 1003 Lausanne;
+II.
+annule l'avis de saisie envoyé le 13 décembre 2010 à la requérante par l'Office des
+poursuites de Lausanne-Ouest dans la poursuite n° 5'592'627.
+Le prononcé est confirmé
+pour le surplus.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+10 août 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Philippe Chiocchetti, agent d'affaires breveté (pour G.________SA),
+‑
+Confédération suisse, Direction générale des douanes,
+‑
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
