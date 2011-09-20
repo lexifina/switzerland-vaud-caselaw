@@ -1,0 +1,155 @@
+---
+decision_id: "vd_gerichte_bfad004b-8661-49ff-b87c-f74b01df22fc"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CAPE"
+docket: "156"
+decided: "2011-09-20"
+published: "2011-10-06"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/bfad004b-8661-49ff-b87c-f74b01df22fc"
+cites_decisions: ["BGE 133 I 168"]
+cites_law: ["switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-231.md"]
+---
+
+# VD Gerichte 156
+
+## Text
+
+TRIBUNAL CANTONAL
+156
+PE11.002041-PSO-vva
+LE PRES ID ENT
+DE L A COUR D’APPEL PENALE
+_______________________________________
+Séance du 20 septembre 2011
+________________________
+Présidence de M. M E Y L A N
+Greffière : Mme Trachsel
+*****
+Parties à la présente cause :
+Ministère public, représenté par le Procureur de l'arrondissement de
+Lausanne,
+et
+W.________, prévenu, représenté par Me Aline Bonard, avocate d'office à
+Lausanne.
+652
+
+- 2 -
+Vu l'audience de jugement du 13 septembre 2011 du Tribunal
+correctionnel de l'arrondissement de Lausanne dans la cause dirigée à
+l'encontre de W.________,
+vu le jugement rendu le 14 septembre 2011 par lequel le
+Tribunal correctionnel de l’arrondissement de Lausanne a notamment
+constaté que W.________ s'est rendu coupable de voies de fait, de vol, de
+brigandage, d'injure, de menaces, de contravention à la loi fédérale sur les
+stupéfiants et d'infraction à la loi fédérale sur les armes (II), l'a condamné
+à une peine privative de liberté de 20 (vingt) mois, sous déduction de 217
+(deux cent dix-sept) jours de détention avant jugement, à une peine
+pécuniaire de 10 (dix) jours-amende, le montant du jour-amende étant fixé
+à 10 fr. (dix francs), et à une amende de 500 fr. (cinq cents francs) et dit
+qu'à défaut de paiement fautif de l'amende, la peine privative de liberté
+de substitution sera de 5 (cinq) jours (III), a suspendu partiellement
+l'exécution de la peinte privative de liberté fixée au chiffre III, en ce sens
+que la part suspendue est fixée à 12 (douze) mois et fixé au condamné un
+délai d'épreuve de 5 (cinq) ans (IV), a renoncé à révoquer les sursis
+octroyés les 18 mai (peine privative de liberté de 2 mois) et 21 juillet 2011
+(peine privative de liberté de 45 jours) (V),
+vu l'annonce d'appel et la demande tendant au maintien en
+détention pour des motifs de sûreté de W.________, dictées par le Ministère
+public au procès-verbal de l'audience contre ce jugement,
+vu la demande écrite du Ministère public adressée le 15
+septembre 2011 à la Cour d'appel pénale, par laquelle il confirme sa
+demande de maintien en détention de sûreté de W.________,
+vu les déterminations de W.________ du 16 septembre 2011,
+vu les pièces du dossier ;
+
+- 3 -
+attendu qu'aux termes de l'art. 231 al. 2 CPP, si le prévenu en
+détention est acquitté et que le tribunal de première instance ordonne sa
+mise en liberté, le ministère public peut demander à la direction de la
+procédure de la juridiction d'appel, par l'entremise du tribunal de première
+instance, de prolonger sa détention pour des motifs de sûreté, la
+juridiction d'appel devant statuer dans les cinq jours,
+que malgré le silence de la loi à cet égard, aucune
+circonstance ne justifie d'interdire au Ministère public de s'opposer
+également à la remise en liberté d'un condamné lorsque la condamnation
+s'écarte sensiblement de ses réquisitions et qu'il estime que le maintien
+en détention est nécessaire en prévision de la procédure d'appel qu'il
+entend annoncer (Logos, Commentaire romand, Code de procédure pénale
+suisse, Bâle 2011, n. 13 et 15 ad art. 231 CPP et les réf. cit.),
+qu'en l'espèce, le Ministère public, qui soutenait une
+qualification aggravée de certains faits (brigandage et vol qualifiés en lieu
+et place de brigandage et vol simples, cf. jgt, p. 23) et réclamait une peine
+sensiblement supérieure à celle prononcée par le Tribunal correctionnel de
+l'arrondissement de Lausanne, soit une peine privative de liberté de 30
+mois, dont 15 mois et la révocation des sursis octroyés les 18 mai et 21
+juillet 2011 (cf. jgt, p. 12), entend faire appel sur le fond,
+que sa demande est dès lors recevable ;
+attendu qu'en vertu de l'art. 221 al. 1 CPP, la détention
+provisoire et la détention pour motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d'avoir commis un crime
+ou un délit et qu'il y a sérieusement lieu de craindre : qu'il se soustraie à
+la procédure pénale ou à la sanction prévisible en prenant la fuite (a) ;
+qu'il compromette la recherche de la vérité en exerçant une influence sur
+des personnes ou en altérant des moyens de preuves (b) ; qu'il
+compromette sérieusement la sécurité d'autrui par des crimes ou des
+délits graves après avoir déjà commis des infractions du même genre (c),
+
+- 4 -
+que le Tribunal correctionnel de l'arrondissement de Lausanne
+a condamné W.________ pour les actes qui lui étaient reprochés,
+que les soupçons de culpabilité au sens de l'art. 221 al. 1 CPP
+sont donc à l'évidence fondés ;
+attendu que, par ordonnance du 12 juillet 2011, le Tribunal des
+mesures de contrainte a refusé d'ordonner la libération de la détention de
+W.________ pour des motifs de sûreté, se référant aux considérants de ses
+précédentes ordonnances, en ce qui concerne la présomption sérieuse de
+culpabilité retenue à l'endroit du prévenu, ainsi qu'à l'existence d'un
+risque de réitération,
+que le Tribunal correctionnel de l'arrondissement de Lausanne
+a estimé qu'une peine relativement sévère s'imposait au regard de la
+rapidité de la récidive après la première confrontation à la justice, le
+nombre de nouvelles infractions, la régularité avec laquelle celles-ci
+étaient commises et la futilité des motifs qui amenaient le prévenu à faire
+usage de violence,
+que le tribunal n'a suspendu que partiellement la peine
+privative de liberté,
+que le casier judiciaire du prévenu comporte cinq inscriptions,
+que, partant, il apparaît qu'il existe bel et bien un risque de
+récidive ;
+attendu, pour le surplus, que dans la mesure où le Ministère
+public a d'ores et déjà déclaré qu'il entendait renouveler ses réquisitions
+en procédure d'appel, le principe de proportionnalité des intérêts en
+présence demeure respecté, compte tenu de la gravité des infractions
+reprochées au recourant et de la durée de la détention préventive déjà
+subie (ATF 133 I 168 c. 4.1 et les arrêts cités) ;
+
+- 5 -
+attendu, en définitive, que la demande du Ministère public doit
+être admise et le maintien de la détention de sûreté prononcé ;
+attendu qu'il sera statué sur les frais de la présente
+ordonnance à l'issue de la cause au fond.
+Par ces motifs,
+le Président de la Cour d’appel pénale,
+en application des art. 221 al. 1 et 231 al. 2 CPP,
+statuant à huis clos :
+I. Ordonne le maintien en détention pour des motifs de sûreté de
+W.________.
+II. Dit que les frais suivent le sort de la cause au fond.
+III. Déclare la présente ordonnance exécutoire.
+Le président : La greffière :
+Du
+L’ordonnance qui précède est notifiée, par l'envoi d'une copie
+complète, à :
+- Me Aline Bonard, avocate (pour W.________),
+- Ministère public central
+
+- 6 -
+et communiquée à :
+- Ministère public de l'arrondissement de Lausanne,
+- M. le Président du Tribunal correctionnel de Lausanne,
+- Office d'exécution des peines,
+- Prison du Bois-Mermet,
+par l’envoi de photocopies.
