@@ -1,0 +1,198 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2011___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2011 / 19"
+decided: "2011-10-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2921493"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-060.md", "switzerland/bund/acts/272/art-132.md"]
+---
+
+# VD Findinfo Réc-civile / 2011 / 19
+
+## Regeste
+
+RÉCUSATION, COMPÉTENCE RATIONE MATERIAE, CONDITION DE RECEVABILITÉ | 6 al. 1 let. a ROTC, 132 CPC (CH), 47 CPC (CH), 50 al. 1 CPC (CH), 50 al. 2 CPC (CH), 59 al. 2 let. a CPC (CH), 8a al. 5 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 03.10.2011 Réc-civile / 2011 / 19
+Vaud Tribunal cantonal Cour administrative 03.10.2011 Réc-civile / 2011 / 19
+Vaud Tribunal cantonal Cour administrative 03.10.2011 Réc-civile / 2011 / 19
+
+RÉCUSATION, COMPÉTENCE RATIONE MATERIAE, CONDITION DE RECEVABILITÉ | 6 al. 1 let. a ROTC, 132 CPC (CH), 47 CPC (CH), 50 al. 1 CPC (CH), 50 al. 2 CPC (CH), 59 al. 2 let. a CPC (CH), 8a al. 5 CDPJ
+
+TRIBUNAL
+CANTONAL
+24/2011
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 4 octobre 2011
+_____________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+47 al. 1 let. a à f CPC; art. 8a al. 5 CDPJ
+Vu la cause pendante entre T.________ et O.________ (KC11.003233) par-devant la Cour des poursuites et
+faillites du Tribunal cantonal (ci-après: CPF),
+vu la demande déposée le 14 juillet 2011 par T.________ tendant à la récusation,
+"dans toutes les causes" le concernant, du juge cantonal Pierre Hack, président de la
+CPF,
+vu les pièces au dossier ;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+d'un membre du Tribunal cantonal en vertu des art. 8a
+al.
+5 CDPJ (Code de droit judiciaire privé vaudois du 12 janvier 2010; RSV 211.02) et 6 al. 1 let. a
+ROTC (Règlement organique du Tribunal cantonal du 13 novembre 2007; RSV 173.31.1),
+que malgré l'art. 50 al. 2 CPC (Code de procédure civile suisse du 19 décembre 2008; RS
+272), aucun recours n'est ouvert si la décision de récusation émane d'une juridiction
+supérieure statuant en deuxième instance, notamment lorsque la cause est jugée par le
+tribunal saisi de la cause au fond et que la personne concernée est membre d'une autorité d'appel
+ou de recours (Tappy, CPC Commenté, n. 35 ad art. 50 CPC),
+qu'en l'espèce le juge intimé est membre de la CPF, qui est une autorité de recours, de
+sorte que la cour de céans est compétente pour statuer sur la demande de récusation;
+attendu que la partie qui entend obtenir la récusation d'un magistrat ou d'un fonctionnaire judiciaire
+la demande du tribunal aussitôt qu'elle a eu connaissance du motif de récusation, en rendant
+vraisemblable les faits qui la motivent (art. 48 al. 1 CPC),
+que cette demande doit être recevable au sens de l'art. 59 CPC, dont les conditions sont examinées
+d'office par le tribunal (art. 60 CPC), notamment la condition selon laquelle le demandeur doit avoir
+un intérêt digne de protection à son action (art. 59 al. 2 let. a CPC),
+que l'art. 132 CPC prévoit que les actes illisibles, inconvenants, incompréhensibles ou prolixes
+doivent être rectifiés, faute de quoi ils ne sont pas pris en considération, alors que
+les actes abusifs ou procéduriers doivent être directement renvoyés à l'expéditeur,
+qu'en l'espèce le demandeur T.________ a déposé un recours le
+12
+juin 2011 à l'encontre de la décision du 30 mars 2011 rendue par le Juge de paix du district
+de Lausanne, dont les motifs ont été notifiés aux parties le 14 avril 2011,
+que la décision 30 mars 2011 prononce la mainlevée définitive de l'opposition formée
+par le demandeur contre le commandement de payer qui lui a été notifié le 1
+er
+décembre 2010 sur réquisition de O.________ (poursuite ordinaire n° [...]8),
+que par avis du 6 juillet 2011 concernant une autre affaire opposant les mêmes parties (KC11.001479),
+le juge intimé, en sa qualité de président de la CPF, a accusé réception du
+recours déposé dans cette affaire et l'a jugé incompréhensible,
+qu'il a ainsi imparti un délai au 14 juillet 2011 à T.________ pour clarifier son acte de recours
+en application de l'art. 56 CPC, en précisant, cas échéant, le montant exact – en
+chiffres – qu'il réclame, qu'il conteste devoir ou qu'il reconnaît devoir,
+qu'à défaut de clarification sur ces points, l'acte de recours ne serait pas pris en considération
+(art. 132 al. 2 CPC),
+qu'à l'appui de sa demande de récusation du 14 juillet 2011, le demandeur considère que
+son acte de recours est compréhensible, de sorte qu'il soutient que le "Q.I. (quotient intellectuel)
+[du juge intimé] est insuffisant" et qu'il n'a "donc pas les moyens intellectuels pour
+statuer valablement dans [son] affaire",
+qu'il précise en outre que si le juge intimé continue à ne pas pouvoir le comprendre,
+c'est qu'il est "
+vraiment
+atteint d'idiotie au sens médical du terme",
+qu'il ajoute toutefois que cela "ne concerne pas tous les aspects de la vie, mais uniquement la
+déficience en Q.I. relative à celui nécessaire pour traiter" son affaire et qu'il
+ne conteste pas au juge intimé "le Q.I. utile à un certain nombre de métiers valorisants",
+qu'ayant demandé la récusation du juge intimé "dans toutes les affaires le concernant",
+la présente cause a également été transmise à la cour de céans pour décision,
+que malgré sa rédaction prolixe, la demande du 14 juillet 2011 demeure compréhensible
+en ce sens que T.________ tend à la récusation du juge cantonal Pierre Hack pour défaut
+d'intelligence,
+que cette demande ne paraît toutefois pas satisfaire à la condition de l'art. 59 al. 2
+let. a CPC, de sorte qu'elle pourrait être irrecevable,
+qu'elle pourrait même être considérée comme manifestement abusive au sens de l'art.
+132 CPC (TF 1P.494/2006 du 13 septembre 2006 c. 4; voir aussi Bohnet, CPC Commenté, nn. 35
+à 39 ad art. 132 CPC),
+qu'il n'est toutefois pas nécessaire de trancher ces questions puisque la demande doit de toute
+manière être rejetée pour les motifs qui suivent;
+attendu que le demandeur allègue que le juge intimé ne serait pas capable de traiter son affaire
+en raison de son défaut d'intelligence, faisant apparemment valoir qu'il statuerait en sa défaveur
+pour cette raison,
+qu'il semble donc soutenir qu'il existerait un motif de récusation au sens de l'art. 47 al. 1
+let. f CPC,
+qu'à teneur de cette disposition, les magistrats et fonctionnaires judiciaires se récusent
+lorsqu'ils pourraient être prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié
+avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1;
+ATF
+131 I 24 c. 1.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats
+(ATF
+134 I 20 c. 4.2), qu'elles soient objectives et résultent de faits déterminés (ATF 131
+I 24 c. 1.1; ATF 124 I 121 c. 3a, JT 1999 I 159 ; ATF 115 IA 172 c. 3),
+qu’il n'appartient en outre pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+qu'en l'espèce, le demandeur se fonde sur l'avis du juge intimé du 6 juillet 2011 pour
+en déduire qu'il ne serait pas capable de comprendre son recours,
+que la cour de céans n'agit pas comme autorité de surveillance de la CPF, de sorte qu'elle
+n'a pas à se prononcer sur le bien-fondé de cet avis,
+que de toute manière, le demandeur se contente d'affirmer que le juge intimé est doté
+d'un "Q.I. insuffisant" et est atteint "d'idiotie",
+que non seulement ces considérations ne sont absolument pas rendues vraisemblables, mais qu'en outre
+on ne voit pas en quoi elles pourraient justifier la récusation du juge intimé,
+que le demandeur n'invoque en effet aucun élément pertinent qui pourrait faire apparaître
+le juge intimé comme prévenu à son égard au sens de l'art. 47 al. 1 let. f CPC,
+qu'il semble plutôt agir dans un le seul but de dénigrer le juge intimé, ce qui ne saurait
+en aucun cas être un motif de récusation de ce dernier,
+que le demandeur n'allègue en outre aucun motif absolu de récusation au sens de l'art. 47 al.
+1 let. a à e CPC,
+que faute de motif invoqué – et
+a
+fortiori
+rendu vraisemblable – la demande
+de récusation présentée le 14 juillet 2011 à l'encontre de Pierre Hack est manifestement
+mal fondée,
+qu'elle doit dès lors être rejetée;
+attendu que les frais du présent arrêt, par 500 fr., seront mis à la charge de T.________
+(art. 72 al. 1 du Tarif des frais judiciaires civils; RSV 270.11.5).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos :
+I.
+Rejette la demande de récusation déposée le 14 juillet 2011 par T.________ à l'encontre
+du juge cantonal Pierre Hack.
+II.
+Arrête les frais de justice à 500 fr. (cinq cents francs) à la charge de T.________.
+III.
+Déclare le présent arrêt exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. T.________, à Lausanne,
+-
+M. le Juge cantonal Pierre Hack, président de la Cour des poursuites et faillites, au Palais.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies :
+‑
+au [...], à Lausanne, pour O.________.
+Le greffier :
