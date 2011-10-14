@@ -1,0 +1,229 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 32"
+decided: "2011-10-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2906126"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-050.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 32
+
+## Regeste
+
+PLAINTE{LP}, FOR DE LA POURSUITE, ÉTABLISSEMENT COMMERCIAL | 18 al. 1 LP, 50 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.10.2011 Plainte / 2011 / 32
+
+PLAINTE{LP}, FOR DE LA POURSUITE, ÉTABLISSEMENT COMMERCIAL | 18 al. 1 LP, 50 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+35
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 octobre 2011
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Sauterel et Mme Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 50 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+T.________
+,
+à Grilly (France), contre la décision rendue le 6 juillet 2011, à la suite de l’audience
+du 16 juin 2011, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, admettant la plainte déposée contre l'
+Office
+des poursuites du district de Lausanne
+par la
+Banque
+J.________
+, à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+T.________,
+chirurgien, était titulaire d'un compte courant avec limite de crédit auprès de la Banque
+J.________. En 1988, la banque a dénoncé le compte au remboursement. Elle a entamé une
+première poursuite en 1990. Plusieurs autres poursuites ont suivi.
+En 1996, la faillite personnelle de T.________ a été prononcée et en 2002, la Banque J.________
+s'est vu délivrer un acte de défaut de biens après faillite. Sur la base de cet acte,
+elle a intenté  en 2006 une nouvelle poursuite contre son débiteur, portant le n°
+1'177'744 de l'Office des poursuites de Lausanne-Est. Le poursuivi a formé opposition, soulevant
+l'exception de non-retour à meilleure fortune. Par décision du 26 novembre 2006, le Juge de
+paix du district Lausanne a écarté cette exception.
+T.________ a ouvert action en libération de dette devant le Tribunal civil de l'arrondissement de
+Lausanne par demande du 26 mars 2007. Par jugement du 11 novembre 2009, dont les motifs ont été
+adressés pour notification aux parties le 30 septembre 2010, le tribunal a, notamment, levé
+définitivement l'opposition à la poursuite précitée à concurrence du montant
+de 32'181 fr. 90.
+Le 28 janvier 2011, la Banque J.________ a requis de l'Office des poursuites du district de Lausanne
+(ci-après : l'office) la continuation de la poursuite n° 1'177'744.
+Par décision du 18 avril 2011, l'office a rejeté cette réquisition de continuer la poursuite
+– portant désormais le n° 7'01'177'744 – pour le motif que le domicile réel
+de T.________ était en France, bien qu'il soit inscrit au contrôle des habitants de Lausanne,
+son adresse dans cette ville correspondant à celle de son cabinet médical, où il travaillait
+environ six mois par année, tout en résidant en France.
+b)
+Le
+11 mai 2011, la Banque J.________ a saisi le Président du Tribunal d'arron-dissement de Lausanne,
+autorité inférieure de surveillance, d'une plainte contre la décision de l'office, faisant
+valoir qu'à défaut de domicile, le débiteur pouvait être poursuivi au for de son
+établissement en Suisse, conformément à l'art. 50 al. 1 LP [loi fédérale sur
+la poursuite pour dettes et la faillite; RS 281.1]. Elle a produit notamment un extrait du registre du
+commerce concernant la société H.________SA, à Lausanne, dont T.________ est inscrit comme
+administrateur depuis le 15 avril 2011. Elle a requis l'effet suspensif, qui a été accordé
+par décision présidentielle du 12 mai 2011.
+L'office s'est déterminé le 14 juin 2011, préavisant pour le rejet de la plainte. Il a
+fait valoir que le débiteur exerçait une activité dépendante pour le compte de la
+société H.________SA, personne morale distincte, de sorte qu'il ne pouvait pas être considéré
+comme propriétaire d'un établissement, même s'il était l'administrateur unique de
+cette société.
+2.
+Par jugement rendu le 6 juillet 2011, l'autorité inférieure de surveillance a admis la plainte,
+considérant que le débiteur, bien que domicilié à l'étranger, possédait
+un établissement en Suisse au sens de l'art. 50 al. 1 LP, que, médecin spécialisé
+en chirurgie plastique, il était l'administrateur unique et le seul médecin travaillant pour
+le compte de la société H.________SA, qu'il n'avait jamais cessé l'exercice de la médecine
+depuis l'octroi du crédit bancaire et pratiquait "son art sous le couvert" de cette société
+depuis 1997, enfin, que sa dette résultait d'un crédit qui lui avait été accordé
+pour son activité professionnelle et était donc liée à son établissement.
+3.
+T.________ a recouru contre cette décision par acte motivé daté du 15 et posté
+le 16 juillet 2011, concluant implicitement à la réforme en ce sens que la plainte de la Banque
+J.________ est rejetée.
+Par lettre du 28 juillet 2011, l'office s'est référé à ses déterminations de
+première instance et a déclaré s'en remettre à justice.
+L'intimée Banque J.________ s'est déterminée par mémoire du 9 août 2011, concluant
+au rejet du recours.
+En droit :
+I.
+L’entrée en vigueur du CPC fédéral [Code de procédure civile du 19 décembre
+2008; RS 272], dont l’art. 1 let. c énonce qu’il s’applique uniquement aux décisions
+judiciaires en matière de droit de la poursuite pour dettes et la faillite, n’a pas eu de
+conséquence sur la procédure de plainte et de recours LP, qui demeure régie par la LVLP
+[loi vaudoise d'application de la LP; RSV 280.05] (Muster, La nouvelle procédure civile et le droit
+des poursuites et faillites, in JT 2011 II 75 ss, p. 77 ch. 2.2.).
+Déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP) et comportant l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les déterminations de l'office et de la créancière intimée sont également recevables
+(art. 31 al. 1 LVLP).
+II.
+a)
+Le recourant conteste posséder un établissement en Suisse, faisant valoir qu'il est employé
+à titre de directeur médical de H.________SA depuis le 1
+er
+janvier
+2007 et ne pratique donc pas de manière indépendante, qu'il est administrateur de la société
+depuis le 15 avril 2011, ce qui ne constitue pas une fonction de praticien médical, qu'il n'est
+pas actionnaire de la société, pour laquelle d'autres médecins travaillent également,
+que le crédit bancaire en cause a servi à l'installation de son ancien cabinet privé indépendant
+de Montreux et ne concerne nullement l'activité de H.________SA.
+L'intimée soutient que la forme juridique choisie pour l'activité n'importe pas, un établissement
+représentant, selon la doctrine qu'elle cite, tout lieu d'opérations où le débiteur
+exerce de façon non transitoire une activité économique avec des moyens humains et des
+biens et services. Elle fait valoir que le crédit a été contracté pour financer une
+activité de chirurgien qui se poursuit actuellement au sein de H.________SA.
+b)
+Il n'est pas contesté que le recourant est domicilié en France. La seule question litigieuse
+est de savoir s'il remplit les conditions de l'art. 50 al. 1 LP.
+Aux termes de cette disposition, le débiteur domicilié à l'étranger qui possède
+un établissement en Suisse peut y être poursuivi pour les dettes de celui-ci.
+L'établissement, comme la succursale, suppose l'absence de personnalité juridique (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 36 ad art.
+50 LP, p. 835).
+Selon un auteur, la définition de l’établissement correspondrait à celle de l’art.
+2 let. f de la Loi type de la CNUDCI (Commission des Nations Unies pour le droit commercial international)
+sur l’insolvabilité internationale, adoptée le 30 mai 1997, c’est-à-dire "tout
+lieu d’opérations où le débiteur exerce de façon non transitoire une activité
+économique avec des moyens humains et des biens ou des services" (Schüpbach, Commentaire
+Romand, n. 8 ad art. 50 LP). L’établissement se reconnaît à quatre critères :
+il faut un choix, une activité économique, que celle-ci ait lieu quelque part ailleurs qu’au
+domicile ou au siège, et cela avec une durée, qui peut être indéterminée (ibid.,
+n. 9 ad art. 50 LP). L'établissement peut être unique ou non, principal ou secondaire; il n’est
+pas personnalisé ni partie à la poursuite, qualités qui appartiennent au poursuivi (ibid.,
+n. 10 ad art. 50 LP)
+(CPF,
+2 décembre 2010, n° 34).
+Lorsque le poursuivi est une personne physique domiciliée à l'étranger, exerçant
+une activité économique en Suisse, la question de la possession d'un établissement s'examine
+au regard de la forme d'organisation de cette activité.
+Si l'activité s'exerce dans le cadre d’une société, c’est elle qui, à
+défaut de siège, a un établissement en Suisse – même si elle n’y a pas
+une succursale; or, elle n’est ni la débitrice ni la poursuivie. Si l'activité du poursuivi
+s'exerce sous une raison sociale, alors c’est le poursuivi qui possède un établissement
+en Suisse et il peut être recherché pour les dettes résultant de son activité dans
+le cadre de cet établissement (CPF, 2 décembre 2010, n° 34).
+En l'espèce, le recourant exerce son activité dans le cadre d'une personne morale, H.________SA.
+L'établissement appartient à celle-ci et non au recourant. A cela s'ajoute que les dettes personnelles
+de ce dernier ne sont pas celles de H.________SA.
+Il s'ensuit que c'est à tort que le premier juge a admis que le débiteur possédait un
+établissement en Suisse et que la créance en poursuite était une dette de l'établissement.
+III.
+Le recours doit ainsi être admis et le prononcé réformé en ce sens que la plainte
+formée par la BCV contre l'office est rejetée.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS
+281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que la plainte formée le 11 mai 2011 par la Banque
+J.________ contre la décision de l'Office des poursuites du district de Lausanne du 26 avril 2011
+rejetant la réquisition de continuer la poursuite n° 701'177'744 exercée à son instance
+contre T.________ est rejetée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+14 octobre 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. T.________,
+‑
+Banque J.________,
+‑
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
