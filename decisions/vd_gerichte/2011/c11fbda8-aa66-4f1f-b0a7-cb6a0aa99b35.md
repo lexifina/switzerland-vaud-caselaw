@@ -1,0 +1,326 @@
+---
+decision_id: "vd_gerichte_c11fbda8-aa66-4f1f-b0a7-cb6a0aa99b35"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCIV"
+docket: "c11fbda8-aa66-4f1f-b0a7-cb6a0aa99b35"
+decided: "2011-10-18"
+published: "2011-10-18"
+language: "fr"
+legal_area: "Réclamation pécuniaire"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/c11fbda8-aa66-4f1f-b0a7-cb6a0aa99b35"
+cites_law: ["switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-069c.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-267.md", "switzerland/bund/acts/272/art-330.md", "switzerland/bund/acts/272/art-334.md", "switzerland/bund/acts/272/art-341.md", "switzerland/bund/acts/272/art-343.md"]
+---
+
+# Réclamation pécuniaire
+
+## Text
+
+TRIBUNAL CANTONAL
+CO11.033798
+COUR CIVILE
+_________________
+Ordonnance de mesures d'exécution dans la cause divisant Y.________ SA,
+à [...], d'avec UNION DES ASSOCIATIONS EUROPEENNES DE
+FOOTBALL (UEFA), à Nyon.
+___________________________________________________________________
+Du 18 octobre 2011
+________________
+Vu l'ordonnance de mesures provisionnelles du 27 septembre
+2011, notifiée le 6 octobre suivant,
+vu la requête d'exécution et de mesures conservatoires
+déposée par la requérante Y.________ SA le 13 octobre 2011, dont les
+conclusions, prises avec suite de frais et dépens, sont les suivantes:
+"A titre conservatoire, sans audition de l'adverse partie
+1. Ordre est donné à l'Union des Associations Européennes de Football
+(UEFA) de communiquer à Y.________ SA d'ici au lundi 17 octobre
+2011 à 12h00 les mesures qu'elle a prises pour intégrer Y.________
+SA dans le groupe I de l'UEFA Europa League 2011/2012 et en
+particulier pour disputer le match de ce groupe qui se déroulera le
+20 octobre 2011 à [...].
+2. En cas d'inexécution du ch. 1 :
+- nommer un commissaire à l'association UEFA au titre de l'art. 69c al.
+2 du Code civil, avec la mission spécifique pour lui de prendre toutes
+les mesures nécessaires et adéquates pour mettre en œuvre la
+réintégration de Y.________ SA dans la compétition UEFA Europa
+League 2011/2012 ainsi les [sic] mesures de gestion de la
+compétition UEFA Europa League 2011/2012 qui découlent de cette
+réintégration.
+1002
+
+- 2 -
+- nommer en qualité de commissaire, Monsieur C.________, ancien juge
+fédéral.
+- ordonner à l'Union de [sic] Associations Européennes de Football de
+faire disputer les rencontres suivantes, dans le cadre du groupe I de
+l'UEFA Europa League 2011/2012, respectivement dit [sic]
+qu'Y.________ SA disputera les rencontres suivantes, dans le cadre du
+groupe I de l'UEFA Europa League 2011/2012:
+- le 20 octobre 2011 : M.________ FC – Y.________ SA, à [...]
+- le 3 novembre 2011 : Y.________ SA – M.________ FC, à [...]
+- Interdire à l'UEFA de faire se disputer, aux mêmes dates et lieux,
+d'autres rencontres que celles ci-dessus, dans le cadre du groupe I
+de l'UEFA Europa League 2011/2012.
+- Ordonner à l'UEFA de communiquer immédiatement par écrit au
+M.________ FC, à l'attention de M. [...], Président, et M. [...], Manager
+général: « l'UEFA vous informe que votre club accueillera Y.________
+SA au Stade de [...] à [...] le 20 octobre 2011, dans le cadre de la
+troisième journée du groupe I de l'UEFA Europa League 2011/2012
+et disputera la quatrième journée dudit groupe contre Y.________ SA
+au Stade de [...], à [...], le 3 novembre 2011».
+5. Réserve [sic] expressément de nouvelles mesures exécution [sic]
+portant sur les autres matches à disputer par Y.________ SA dans le
+cadre du groupe I de l'UEFA Europa League 2011/2012.
+6. dit que les mesures conservatoires sont immédiatement
+exécutoires.
+A titre de mesure d'exécution de l'ordonnance du 5 octobre 2011
+7. les conclusions 1 à 6 sont confirmées.
+En tout état de cause
+8. sous suite de frais et dépens."
+vu la lettre du même jour de l'intimée Union des Associations
+Européennes de Football (UEFA), qui sollicite du juge l'octroi d'un bref
+délai pour se déterminer sur dite requête,
+vu l'ordonnance de mesures d'exécution du 14 octobre 2011,
+qui fait droit à la conclusion no 1 de la requête d'exécution et de mesures
+conservatoires, et ordonne à l'intimée de communiquer, dans un délai
+échéant le 17 octobre 2011 à midi, les mesures qu'elle a prises pour
+intégrer la requérante dans le groupe I de l'UEFA Europa League
+2011/2012,
+11869A
+
+- 3 -
+vu l'avis du même jour, par lequel le juge délégué a imparti à
+l'intimée un délai au 17 octobre 2011, à midi, pour se déterminer par fax
+sur les conclusions nos 2 à 8 contenues dans la requête d'exécution et de
+mesures conservatoires,
+vu le courrier adressé par l'intimée à la requérante en
+exécution de l'ordonnance du 14 octobre 2011, transmis en copie au juge
+par fax reçu le 17 octobre 2011 à 11h.03,
+vu le "procédé écrit et requête d'interprétation" reçu par le
+juge le même jour, à 11h.17, au pied duquel l'intimée a pris, avec suite de
+frais et dépens, les conclusions suivantes:
+"I. rejeter les conclusions de la requête d'exécution et de mesures
+conservatoires du 13 octobre 2011;
+II. interpréter le chiffre I du dispositif de l'ordonnance de mesures
+provisionnelles du 5 octobre 2011 en ce sens que l'ordre donné à
+l'intimée Union des Associations Européennes de Football (UEFA)
+d'admettre Y.________ SA comme participant au championnant UEFA
+Europa League 2011/2012 et de prendre toutes mesures utiles aux
+fins de l'intégrer au sein du groupe I de l'UEFA Europa League pour
+lequel l'équipe Y.________ SA s'est qualifiée, jusqu'à droit connu sur
+l'action au fond, n'entraîne ni l'exclusion de Z.________ FC de l'Europa
+League ni l'obligation pour l'UEFA de remplacer Z.________ FC par
+Y.________ SA pour les prochains matchs du groupe I de l'Europa
+League 2011/2012 des 20 octobre, 3 novembre, 30 novembre et 15
+décembre 2011."
+vu la requête d'interprétation du dispositif de l'ordonnance de
+mesures provisionnelles du 27 septembre 2011 contenue dans cette
+écriture;
+attendu que le tribunal qui a ordonné les mesures
+provisionnelles prend également les dispositions d'exécution qui
+s'imposent (art. 267 CPC [Code de procédure civile suisse du 19 décembre
+2008; RS 272]),
+que la compétence du juge des mesures provisionnelles
+demeure si les mesures d'exécution sont requises après la notification de
+la décision accordant les mesures provisionnelles (Bohnet, in
+11869A
+
+- 4 -
+Bohnet/Haldy/Jeandin/Schweizer/Tappy, Code de procédure civile
+commenté, Bâle 2011, n. 4 ad art. 267 CPC),
+qu'ainsi, le juge de céans est compétent pour connaître de la
+présente requête d'exécution;
+attendu que le juge de l'exécution examine d'office le
+caractère exécutoire de la décision invoquée (art. 341 al. 1 CPC),
+que la partie succombante ne peut s'opposer à la requête
+d'exécution qu'en alléguant des faits survenus postérieurement au jour où
+la décision a été rendue et dont la survenance a eu pour conséquence
+l'extinction de la prétention à exécuter, telle, notamment, l'exécution de
+celle-ci (art. 341 al. 3 CPC; Jeandin, in
+Bohnet/Haldy/Jeandin/Schweizer/Tappy, op. cit., n. 16 ad art. 341 CPC);
+attendu qu'aux termes du dispositif de l'ordonnance de
+mesures provisionnelles du 27 septembre 2011, ordre a été donné à
+l'intimée d'admettre la requérante comme participant au championnat
+UEFA Europa League 2011/2012 et de prendre toutes mesures utiles aux
+fins de l'intégrer au sein du groupe I de cette compétition (I),
+que, dans sa lettre du 17 octobre 2011, l'intimée a
+communiqué à la requérante vouloir attendre la décision du Tribunal
+Arbitral du Sport (TAS) sur le fond de l'affaire avant, le cas échéant, de la
+réintégrer au sein de l'UEFA Europa League 2011/2012,
+qu'elle affirme, d'une part, étudier différents scenarii
+permettant de faire concourir la requérante au sein du groupe I de la
+compétition dès que la décision du TAS sera rendue,
+qu'elle expose, d'autre part, que la réintégration de la
+requérante en UEFA Europa League "poserait des difficultés pratiques
+évidentes", liées à l'ampleur des mesures d'organisation à prendre, ainsi
+11869A
+
+- 5 -
+qu'au fait que les intérêts d'autres clubs participant à la compétition
+seraient touchés,
+qu'une telle justification renferme en elle une contradiction
+évidente,
+que, de toute manière, on ne sache pas que l'intimée ait
+entrepris la moindre démarche concrète qui lui permettrait de dépasser
+les difficultés qu'elle invoque, ni qu'elle ait commencé de mettre en œuvre
+les différents scenarii qu'elle présente,
+qu'on ne voit pas non plus, au surplus, en quoi l'expectative
+d'une sentence rendue par le TAS serait susceptible de faire disparaître les
+obstacles allégués ou même de les atténuer,
+qu'il y a lieu, dans ces conditions, de constater que
+l'ordonnance de mesures provisionnelles du 27 septembre 2011,
+exécutoire, n'a pas été exécutée,
+qu'il s'agit, partant, d'examiner le bien-fondé des mesures
+d'exécution requises;
+attendu que les mesures d'exécution d'une obligation de faire
+sont exhaustivement énumérées à l'art. 343 al. 1 CPC (Jeandin, in
+Bohnet/Haldy/
+Jeandin/Schweizer/Tappy, op. cit., n. 8 ad art. 343 CPC);
+attendu que la requérante exige qu'un commissaire soit
+désigné à l'intimée au sens de l'art. 69c al. 2 CC (Code civil suisse du 10
+décembre 1907; RS 210), avec la mission spécifique de prendre toutes les
+mesures nécessaires et adéquates pour mettre en œuvre sa réintégration
+dans la compétition UEFA Europa League 2011/2012, y compris les
+mesures de gestion y relatives,
+11869A
+
+- 6 -
+qu'en vertu de l'art. 69c CC, lorsque l'association ne possède
+pas l'un des organes prescrits, un membre ou un créancier peut requérir
+du juge qu'il prenne les mesures nécessaires,
+que tout tiers envers lequel l'association a une dette est
+légitimé à saisir l'autorité judiciaire compétente (Jeanneret/Hari,
+Commentaire romand, CC I, Bâle 2010, n. 5 ad art. 69c CC),
+que par carence dans l'organisation de l'association, il faut
+entendre l'absence, temporaire et durable, ou définitive, d'un organe dont
+l'existence est rendue obligatoire de par la loi (ibidem, n. 6 ad art. 69c
+CC),
+qu'à teneur d'une déclaration publiée le 11 octobre 2011, le
+comité exécutif de l'intimée a estimé "qu'il ne disposait pas de la
+compétence statutaire pour réintégrer [la requérante]", cette prérogative
+revenant "exclusivement aux instances disciplinaires de l'UEFA",
+que, considéré pour lui-même, cet argument est dépourvu de
+toute consistance, dans la mesure où une association de droit privé n'est
+pas recevable à exciper de son organisation interne pour se soustraire à
+l'injonction du juge,
+que, toutefois, on ne saurait déduire de ce communiqué que
+l'intimée ne possède plus les organes prescrits par la loi,
+que, d'ailleurs, tel n'est manifestement pas le cas,
+qu'aussi la requête tendant à ce que l'intimée soit pourvue
+d'un commissaire doit-elle être rejetée;
+attendu que la requérante conclut aussi à ce qu'il soit ordonné
+à l'intimée de lui faire disputer les rencontres du 20 octobre et du 3
+novembre 2011 contre le M.________ FC, d'interdire à l'intimée de faire
+disputer, aux mêmes dates et lieux, d'autres rencontres que celles citées
+11869A
+
+- 7 -
+ci-devant et de lui ordonner de communiquer immédiatement au
+M.________ FC: "l'UEFA vous informe que votre club accueillera Y.________
+SA […] le 20 octobre 2011, dans le cadre de la troisième journée du
+groupe I de l'UEFA Europa League 2011/2012 et disputera la quatrième
+journée dudit groupe contre Y.________ SA [...] le 3 novembre 2011",
+que ces mesures de contrainte directe, au sens de l'art. 343 al.
+1
+let. d CPC, auront, le cas échéant, pour effet d'exclure le Z.________ FC de
+ces rencontres,
+que, dans les motifs de l'ordonnance de mesures
+provisionnelles du 27 septembre 2011, le juge de céans a retenu que les
+mesures d'organisation à prendre en exécution de l'obligation d'admettre
+la requérante comme participant à la phase de groupes de l'UEFA Europa
+League 2011/2012, dans le groupe I, sont laissées à l'appréciation de
+l'intimée, qui est mieux à même, compte tenu de son expérience, d'en
+décider,
+que, dans la mesure où elle requiert du juge de céans qu'il
+prenne lui-même les mesures d'organisation que nécessite sa
+réintégration dans la compétition litigieuse, on peut se demander si la
+requérante ne sort pas du cadre de la procédure d'exécution, laquelle se
+limite à la mise en œuvre de l'ordonnance de mesures provisionnelles du
+27 septembre 2011,
+que la question peut toutefois demeurer indécise,
+qu'en effet, les mesures d'exécution sollicitées par la
+requérante porteraient directement atteinte aux droits d'un tiers – en
+l'espèce le Z.________ FC – qui n'a pas été partie à la procédure de mesures
+provisionnelles,
+que, sur ce point également, la requête de mesures
+d'exécution ne peut qu'être rejetée;
+11869A
+
+- 8 -
+attendu que le procédé écrit de l'intimée du 17 octobre 2011
+contient une requête d'interprétation relative au chiffre I de l'ordonnance
+de mesures provisionnelles du 27 septembre 2011,
+qu'aux termes de l'art. 334 al. 1 CPC, si le dispositif de la
+décision est peu clair, contradictoire ou incomplet ou qu'il ne correspond
+pas à la motivation, le tribunal procède, sur requête ou d'office, à
+l'interprétation ou à la rectification de la décision,
+que le tribunal notifie la requête d'interprétation à la partie
+adverse pour qu'elle se détermine, sauf si la demande est manifestement
+irrecevable ou infondée (art. 330 CPC, applicable par analogie en vertu de
+l'art. 334 al. 2 CPC),
+que l'intimée demande que le juge de céans précise le chiffre I
+du dispositif de l'ordonnance de mesures provisionnelles du 27 septembre
+2011, en ce sens que dite ordonnance n'implique pas le remplacement du
+Z.________ FC par la requérante, ni la modification du groupe I de l'Europa
+League en ce qui concerne les matchs auxquels doit participer Z.________
+FC,
+qu'ainsi que le démontre l'intimée dans son écriture du 17
+octobre 2011, le dispositif de l'ordonnance du 27 septembre 2011 ne
+souffre aucune équivoque sur ce point,
+qu'il s'ensuit que la requête d'interprétation, manifestement
+mal fondée, doit être rejetée;
+attendu qu'à teneur de l'art. 106 al. 1 CPC, les frais, qui
+comprennent notamment l'émolument forfaitaire de décision et les
+dépens, sont mis à la charge de la partie qui succombe,
+qu'en l'espèce, la requérante qui voit sa requête de mesures
+d'exécution rejetée pour l'essentiel supportera les frais y relatifs,
+11869A
+
+- 9 -
+que l'émolument de décision est arrêté à 1'800 fr. (art. 82 al. 1
+du tarif des frais judiciaires civils du 28 septembre 2010 [TFJC]; RSV
+270.11.5),
+que le défraiement des représentants professionnels de
+l'intimée est fixé à 1'500 francs (art. 11 et 20 al. 2 du tarif des dépens en
+matière civile du
+23 novembre 2010 [TDC]; RSV 270.11.6),
+qu'en revanche, l'intimée paiera l'émolument de la décision
+d'interprétation, arrêté à 1'000 francs (art. 69 al. 1 TFJC auquel renvoie
+l'art. 81 TFJC),
+que la requérante, qui n'a pas été invitée à se déterminer sur
+la requête d'interprétation, ne peut prétendre au versement de dépens.
+le juge délégué de la Cour civile
+du Tribunal cantonal,
+I. rejette les conclusions contenues sous no 2 de la requête
+d'exécution et de mesures conservatoires déposée le 13
+octobre 2011 par la requérante Y.________ SA;
+II. rejette la requête d'interprétation déposée par l'intimée Union
+des Associations Européennes de Football (UEFA) le 17 octobre
+2011;
+III. met les frais judiciaires à la charge de la requérante Y.________
+SA, par 1'800 fr. (mille huit cents francs), et à la charge de
+l'intimée Union des Associations Européennes de Football, par
+1'000 fr. (mille francs);
+11869A
+
+- 10 -
+IV condamne la requérante Y.________ SA à verser à l'intimée
+Union des Associations Européennes de Football (UEFA) le
+montant de 1'500 fr. (mille cinq cents francs) à titre de
+dépens;
+V. rejette toutes autres ou plus amples conclusions.
+Le juge délégué : Le greffier :
+D. Carlsson J. Maytain
+Du 18 octobre 2011
+L'ordonnance qui précède prend date de ce jour. Des copies en
+sont remises pour notification aux conseils des parties.
+La présente ordonnance peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au sens des art. 72 ss et 90 ss LTF
+(loi du 17 juin 2005 sur le Tribunal fédéral; RS 173.110), cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours
+doivent être déposés devant le Tribunal fédéral dans les trente jours qui
+suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
+J. Maytain
+11869A
