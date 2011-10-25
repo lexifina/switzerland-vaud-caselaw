@@ -1,0 +1,170 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 6"
+decided: "2011-10-25"
+published: "2011-10-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3045672"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 6
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, DIFFAMATION | 173 ch. 1 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.10.2011 Décision / 2012 / 6
+
+DÉCISION D'IRRECEVABILITÉ, DIFFAMATION | 173 ch. 1 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+579
+PE11.013865-PGT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 25 octobre 2011
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              Mmes
+Epard et Byrde
+Greffier
+:              M.
+Valentino
+*****
+Art.
+310, 393 ss CPP
+Vu la plainte déposée le 18 août 2011 par R.________ contre K.________ pour diffamation,
+vu l'ordonnance du 16 septembre 2011, par laquelle le Procureur de l'arrondissement du Nord vaudois a
+refusé d'entrer en matière et laissé les frais à la charge de l'Etat (
+dossier
+PE11.013865-PGT
+),
+vu le recours interjeté le 14 octobre 2011 par R.________ contre cette ordonnance,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 322 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0] par renvoi de l'art. 310 al. 2 et art. 396 al. 1 CPP) contre une
+décision du Ministère public (art. 393 al. 1 let. a CPP), par le plaignant qui a qualité
+pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable;
+attendu que le 18 août 2011, R.________ a déposé plainte contre son épouse, K.________,
+dont il vit séparé, lui reprochant d'avoir dit à son nouveau compagnon, D.________, qu'il
+souffrait de problèmes de santé entraînant des troubles sexuels et nécessitant une
+injection avant chaque rapport,
+que le recourant expose que le 29 juillet 2011, pendant qu'il attendait son fils [...] dans sa voiture
+stationnée devant le domicile de K.________, D.________ lui aurait crié, en sortant de l'immeuble
+en compagnie de la prénommée et de l'enfant, "va chercher tes injections à la pharmacie,
+fais-toi tes piqûres et va te masturber", tout en mimant des gestes masturbatoires,
+que le 11 août 2011, D.________ aurait adopté un comportement similaire,
+que le Procureur de l'arrondissement du Nord vaudois n'est pas entré en matière sur la plainte
+déposée par le recourant contre K.________, considérant qu'aucune infraction ne pouvait
+être reprochée à cette dernière, au contraire de D.________, qui fait l'objet d'une
+procédure pénale en raison des faits précités,
+que R.________ conteste cette ordonnance, concluant à son annulation et au renvoi de la cause au
+procureur afin qu'il ouvre une instruction à l'encontre de K.________;
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont manifestement pas réunis,
+qu’il est donc nécessaire qu’il apparaisse d’emblée que l’un des éléments
+constitutifs de l’infraction n’est manifestement pas réuni (Cornu, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 8 ad art.
+310 CPP, p. 1411),
+que des motifs de fait peuvent également justifier la non-entrée en matière (Cornu, op.
+cit., n. 9 ad art. 310 CPP, p. 1411),
+qu’il s’agit des cas où la preuve d’une infraction, soit de la réalisation
+en fait de ses éléments constitutifs, n’est pas apportée par les pièces dont
+dispose le Ministère public,
+qu’il faut que l’insuffisance de charges soit manifeste,
+que de plus, le procureur doit examiner si une enquête, sous une forme ou sous une autre, est en
+mesure d’apporter des éléments susceptibles de renforcer les charges contre la personne
+visée,
+que ce n’est que si aucun acte d’enquête ne paraît pouvoir amener des éléments
+utiles que le Ministère public peut rendre une ordonnance de non-entrée en matière,
+qu’en cas de doute sur la possibilité d’apporter ultérieurement la preuve des faits
+en question, la non-entrée en matière est exclue (Cornu, op. cit., n. 9 ad art. 310 CPP, p.
+1411);
+attendu que se rend coupable de diffamation au
+sens de l'art. 173 ch. 1 CP, celui qui, en s'adressant à un tiers, aura accusé une personne
+ou jeté sur elle le soupçon de tenir une conduite contraire à l'honneur, ou de tout autre
+fait propre à porter atteinte à sa considération ainsi que celui qui aura propagé
+une telle accusation ou un tel soupçon,
+que cette disposition protège la réputation d'être une personne honorable, c'est-à-dire
+de se comporter comme une personne digne a coutume de le faire selon les conceptions généralement
+reçues (ATF 132 IV 112 c. 2.1; ATF 128 IV 53 c. 1a),
+que l'honneur protégé par le droit pénal est conçu de façon générale
+comme un droit au respect qui est lésé par toute assertion propre à exposer la personne
+visée au mépris en sa qualité d'homme (ibidem),
+que l'atteinte à l'honneur pénalement réprimée doit faire apparaître la personne
+visée comme méprisable,
+qu'échappent à la répression les assertions qui, sans faire apparaître la personne
+comme méprisable, sont seulement propres à ternir la réputation dont elle jouit dans son
+entourage ou à ébranler sa confiance en elle-même (Corboz, Les infractions en droit suisse,
+vol. I, Berne 2010, p. 582),
+qu'il s'agit d'une infraction intentionnelle, le dol éventuel étant suffisant (Corboz, op.
+cit., p. 591),
+qu'en l'occurrence, dire de quelqu'un qu'il ne peut avoir de rapport sexuel sans injection préalable
+ne fait pas apparaître cette personne comme méprisable,
+que même si, comme le prétend R.________, la révélation litigieuse avait été
+faite "[par] vengeance, dans le cadre des mesures protectrices de l'union conjugale", elle
+ne porte pas atteinte à la considération du recourant au sens de la jurisprudence précitée,
+que le fait que l'intéressé se soit senti humilié ne suffit pas à constituer une
+atteinte à l'honneur réprimée par le droit pénal,
+que les éléments constitutifs de l'infraction de diffamation au sens de l'art. 173 CP ne sont
+donc pas réunis dans le cas présent,
+qu'au vu de ce qui précède, c'est à juste titre que le Procureur a rendu une ordonnance
+de non-entrée en matière en faveur de K.________, une instruction ayant en revanche été
+ouverte à l'encontre de D.________;
+attendu que le recours, mal fondé, doit être rejeté et l'ordonnance confirmée,
+que les frais de la procédure de recours, par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), sont mis à la charge du recourant qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance est confirmée.
+III.
+Les frais du présent arrêt, par 440
+fr. (quatre cent quarante francs), sont mis à la charge de R.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Jean-Michel Duc, avocat (pour R.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
