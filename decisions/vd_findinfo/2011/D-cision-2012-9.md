@@ -1,0 +1,275 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 9"
+decided: "2011-10-27"
+published: "2011-10-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3074565"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 9
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ADMINISTRATION DES PREUVES | 318 CPP (CH), 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.10.2011 Décision / 2012 / 9
+
+CLASSEMENT DE LA PROCÉDURE, ADMINISTRATION DES PREUVES | 318 CPP (CH), 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+606
+PE09.013331-JRU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 27 octobre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Meylan
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+318, 319 ss, 393 ss CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 17 octobre 2011 par
+F.________
+contre l'ordonnance rendue le 26 septembre 2011 par le Ministère public de l'arrondissement de La
+Côte dans la cause
+n° PE09.013331-JRU
+.
+Elle considère:
+E
+n  f a i t :
+A.
+A [...], le 4 juin 2009, vers 05h35, un incendie s'est déclaré dans un appartement qui était
+loué par B.L.________ et B.________ et qui était construit dans une ferme appartenant à
+C.________. Les combles de cette demeure ont été entièrement détruits par le sinistre.
+Le corps sans vie de B.L.________ a été découvert dans les décombres.
+C.L.________, père de la défunte, F.________, mère de cette dernière, ainsi que P.________,
+gérant de l'immeuble appartenant à C.________, se sont constitués parties civiles.
+B.
+Par ordonnance du 26 septembre 2011, le Procureur de l'arrondissement de La Côte a ordonné
+le classement de la procédure pénale ouverte suite au décès de B.L.________ et laissé
+les frais de procédure à la charge de l'Etat.
+Estimant l'enquête suffisamment instruite et par conséquent rejetant les mesures d'instruction
+complémentaires requises par le conseil de F.________, le procureur a motivé l'ordonnance de
+classement de la manière suivante:
+"L'enquête n'a pas permis d'établir l'origine exacte du sinistre. Cependant, le départ
+du feu se situe à l'endroit où était placée une commode sur laquelle la défunte
+avait placé une ou des bougies. Son père, entendu comme témoin, a d'ailleurs confirmé
+avoir vu de tels objets à cet endroit et avoir attiré l'attention de la défunte au danger
+lié à l'usage de bougies. Compte tenu de ce qui précède, l'hypothèse la plus
+probable concernant les causes de l'incendie du décès de
+B.L.________
+est celle de nature accidentelle, suite à l'enflamm[em]ent d'un objet incandescent laissé sans
+surveillance. L'intervention ou la responsabilité d'un tiers dans le sinistre susmentionné
+semblent pouvoir être exclues."
+C.
+En temps utile, F.________ a recouru contre cette décision, concluant à son annulation et au
+renvoi du dossier à un autre procureur, afin qu'il procède aux mesures d'instruction nécessaires.
+E
+n  d r o i t :
+1.
+Interjeté dans le délai légal (art. 322 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0] et art. 396 al. 1 CPP) contre une décision du Ministère
+public (art. 393 al. 1 let. a CPP), par la partie civile qui a qualité pour recourir (art. 382 al.
+1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+En vertu de l'art. 318 CPP, le ministère public ne peut écarter une réquisition de preuves
+que si celle-ci exige l’administration de preuves sur des faits non pertinents, notoires, connus
+de l’autorité pénale ou déjà suffisamment prouvés en droit. Il rend sa
+décision par écrit et la motive brièvement. Les réquisitions de preuves écartées
+peuvent être réitérées dans le cadre des débats (al. 2). Les décisions
+rendues en vertu de l’al. 2 ne sont pas sujettes à recours (al. 3).
+La décision négative du Ministère public sur une requête en complément de preuves
+n’est en elle-même pas sujette à recours selon l’art. 318 al. 3 CPP. Toutefois,
+lorsque l'autorité de recours est saisie d’un recours contre une ordonnance de classement
+qui fait suite au rejet d’une requête tendant à l’administration de preuves complémentaires,
+elle examinera si l’instruction apparaît suffisante et, si elle estime que l’instruction
+doit être complétée, annulera l’ordonnance de classement et renverra la cause au
+Ministère public (Cornu, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 19 ad art. 318 CPP).
+3.
+a) La recourante sollicite des mesures d'instruction complémentaires. Elle estime que la présence
+dans le sang de la victime de substances médicales multiples, dont certaines au-delà des seuils
+thérapeutiques, justifie une enquête plus approfondie, d'autant plus que les causes de l'incendie
+demeurent fort mystérieuses. Selon elle, il serait essentiel à la compréhension des circonstances
+d'absorption des médicaments de savoir si le cocktail médicamenteux retrouvé dans le corps
+de la victime résulte d'une absorption ponctuelle, très peu de temps avant son décès.
+Plus particulièrement, il serait utile de déterminer si B.L.________ a pu se procurer ces médicaments
+elle-même ou si c'est un tiers qui les a obtenus, étant précisé que la colocataire
+B.________ travaillait à l'époque à l'hôpital [...]. Compte tenu de ces éléments,
+la recourante requiert d'abord l'audition du supérieur hiérarchique de B.L.________, notamment
+pour qu'il indique si cette dernière présentait des signes physiques ou psychologiques dus
+à l'absorption de médicaments. Elle requiert ensuite l'interpellation du médecin traitant
+de la victime, afin qu'il confirme que les substances mises en exergue par l'analyse toxicologique ne
+correspondent pas aux médicaments prescrits en 2007. Elle demande également un complément
+d'expertise auprès des médecins légistes, afin que ceux-ci confirment que les substances
+médicamenteuses retrouvées dans le corps de B.L.________ doivent obligatoirement faire l'objet
+de prescriptions médicales. De même, les médecins légistes devraient indiquer si
+l'absorption de ces différents médicaments peut correspondre à un traitement prescrit
+ou s'il s'agit d'une automédication, et s'il est possible de déterminer depuis combien de temps
+avant le décès ces substances étaient absorbées. Enfin, la recourante sollicite l'audition
+des supérieurs hiérarchiques de B.________ sur l'emploi du temps exact de cette dernière
+le jour des faits et sur ses possibilités de se procurer d'éventuels médicaments.
+b) En l'espèce, le procureur a refusé de donner suite aux réquisitions précitées
+pour les motifs suivants. Il a d'abord relevé qu'interpellé par écrit, le médecin
+traitant de B.L.________ avait rendu un rapport complet faisant état des consultations et des circonstances
+ayant amené la défunte à le consulter. Il a considéré que les réponses
+de ce dernier étaient claires et n'amenaient aucun complément, y compris sous forme d'audition.
+S'agissant ensuite de l'audition du supérieur de B.L.________, le procureur a estimé qu'elle
+n'était pas pertinente, dans la mesure où il n'y avait aucun motif que la prénommée,
+qui était qualifiée de brillante, fasse part à son supérieur d'un problème de
+type burn-out, d'autant plus qu'elle venait de faire l'objet d'une promotion. Quant aux expertises effectuées
+par le Centre Universitaire Romand de Médecine Légale (ci-après: CURML), le Ministère
+public a considéré qu'elles apparaissaient pertinentes et complètes. Enfin, se basant
+sur les divers témoignages, il a constaté que les relations entre la défunte et sa colocataire
+étaient excellentes et que rien au dossier ne permettait d'en douter, de sorte qu'il n'était
+pas pertinent de connaître l'heure de la prise de service de cette dernière, cet élément
+ne pouvant rien amener de plus. Ainsi, se fondant sur les dires des témoins, le procureur a retenu
+que B.L.________ prenait des médicaments pour se relaxer, notamment pour trouver le sommeil. Par
+conséquent, il a estimé qu'il n'était pas étonnant de retrouver des traces de substances
+médicamenteuses telles que découvertes par les analyses toxicologiques. Selon lui, il importerait
+dès lors peu de savoir par quel biais la victime s'en est procurée ou s'il s'agissait d'un
+reste d'une prescription antérieure, dès lors qu'aucun élément ne permettait de soutenir
+qu'un tiers eût remis ces substances dans un but délictueux, à l'insu de B.L.________.
+c) En l'occurrence, s'agissant de l'absorption de médicaments, on peut relever ce qui suit. Il ressort
+du rapport complémentaire du CURML du 28 juin 2010 que les concentrations de zolpidem (substance
+qui raccourcit le délai d'endormissement, réduit le nombre de réveils nocturnes, augmente
+la durée totale du sommeil et en améliore la qualité), de bromazépam, de midazolam,
+d'oxazépam (substances ayant des effets anxiolytiques, sédatifs, hypnotiques, anticonvulsivants
+et myorelaxants) et de diphenhydramine (un antihistaminique) mesurées dans les cheveux de B.L.________
+sont indicatrices d'une consommation de ces substances lors des mois précédant le décès
+(P. 52, p. 3). A cet égard, on relèvera que le père de la victime, qui a élevé
+cette dernière et qui était proche d'elle, n'a pas été surpris par ces analyses de
+sang. Il a en effet déclaré que sa fille prenait des médicaments pour se relaxer, soit
+pour trouver un meilleur sommeil (PV aud. 6, pp. 2 s.). Le cousin de B.L.________ a en outre
+confirmé que cette dernière prenait des médicaments lorsque le besoin s'en faisait sentir
+(PV aud. 5, p. 2). B.________ a aussi relevé que sa colocataire prenait un relaxant, car elle avait
+mal au dos (PV aud. 3, p. 2).
+Compte tenu de ce qui précède, on ne voit pas ce que l'audition du supérieur hiérarchique
+de B.L.________ sur la question de savoir si celle-ci présentait des signes physiques ou psychologiques
+de prises de médicaments apporterait de plus. En effet, il importe peu de savoir si la prénommée
+a pris lesdits médicaments de manière régulière ou ponctuelle, étant d'ailleurs
+rappelé que les experts se sont prononcés sur ce point en indiquant que la victime avait consommé
+les substances en cause dans les mois qui ont précédé le décès.
+Il n'est pas non plus déterminant d'entendre l'employeur de B.L.________ sur les relations entre
+celle-ci et sa colocataire B.________. Il n'y a en effet pas le moindre indice pouvant donner à
+penser que cette dernière ait pu être à l'origine de l'incendie. Par conséquent,
+la requête de la recourante doit être considérée comme une recherche générale
+indéterminée de moyens de preuves ("
+fishing
+expedition
+"), qui n'est pas admissible en
+droit suisse (Piquerez/Macaluso, Procédure pénale suisse, 3
+e
+éd., Bâle 2011, n. 1322, p. 425). Au demeurant, tant le père de la victime que son ami
+et son cousin relèvent la très bonne relation qui existait entre les deux colocataires (PV
+aud. 4; PV aud. 5, p. 2; PV aud. 6, p. 2). L'ami de B.L.________ fait même mention d'un sms envoyé
+quelques heures avant la mort de cette dernière et commençant par les mots suivants: "soirée
+tequila, [...] vient de me mettre au lit […]" (PV aud. 4, p. 2). Ce message confirme les témoignages
+précités et appuie la version selon laquelle les relations entre B.L.________ et B.________
+étaient bonnes.
+Au vu de l'ensemble de ces éléments, c'est à juste titre que le procureur a rejeté
+la mesure d'instruction tendant à l'audition du supérieur hiérarchique de B.L.________.
+d) S'agissant ensuite de la requête tendant à un complément d'expertise auprès des
+médecins légistes, elle doit également être rejetée. Il n'est en effet pas pertinent
+de savoir si les médicaments trouvés dans le corps de la victime doivent obligatoirement faire
+l'objet de prescriptions médicales. Il n'est pas non plus déterminant d'examiner si l'absorption
+de ces médicaments peut correspondre à un traitement prescrit ou à une automédication.
+En effet, le problème à résoudre était de savoir si l'incendie était d'origine
+criminelle et, si tel était le cas, d'en rechercher l'auteur. Or, il convient de souligner que l'enquête
+a abouti à la conclusion que l'incendie était d'origine accidentelle. En effet, il semble établi
+que le feu soit parti d'un petit meuble sur lequel se trouvaient des bougies. Le père de la victime
+a confirmé avoir vu de tels objets à cet endroit (PV aud. 6, p. 2). En outre, aucune trace
+de violence autre que celle consécutive à l'incendie n'a pu être établie. Il apparaît
+ainsi vraisemblable que B.L.________ se soit endormie avec une bougie allumée, laquelle a bouté
+le feu à des objets déposés à proximité. La prénommée est décédée
+en raison de l'inhalation de monoxyde de carbone dû aux fumées d'incendie. Vu l'ensemble de
+ces éléments, le fait que la victime ait pris, par hypothèse, des médicaments non
+prescrits ne saurait infirmer les conclusions de l'enquête. Par conséquent, le fait que B.________
+puisse éventuellement se procurer des médicaments n'apportera rien de plus à l'enquête.
+Pour les motifs précités, il y a également lieu de rejeter la réquisition tendant
+à l'interpellation du médecin traitant de B.L.________ sur la question de savoir si les substances
+mises en exergue par l'analyse toxicologique de la victime correspondent ou non aux médicaments
+prescrits en 2007. Au demeurant, à l'instar du procureur, on ne peut que constater que ledit médecin
+s'est déterminé de façon complète à cet égard, faisant état des consultations
+et des circonstances ayant amené la défunte à le consulter. En effet, dans son rapport
+du 17 août 2010 (P. 62), il a déclaré avoir prescrit à sa patiente, en date du 10
+août 2007, du Temesta (un anxiolytique), ainsi que du Stilnox (médicament inducteur de sommeil).
+Il a précisé qu'il était possible que B.L.________ ait reçu un équivalent de
+la prescription de Stilnox, tel que du Dorlotil, du Sedovalin ou du Zolpidem. Il a en outre indiqué
+que la prescription de ces médicaments était liée à un problème médical
+de santé de type burn-out avec réaction anxieuse, détaillant les troubles constatés
+ou évoqués par sa patiente. Il n'y a donc pas lieu d'y revenir.
+e) Enfin, il convient de rejeter la requête tendant à l'audition des supérieurs hiérarchiques
+de B.________. En effet, comme déjà mentionné ci-dessus, il n'y a pas le moindre indice
+laissant supposer que cette dernière soit à l'origine de l'incendie. Au demeurant, le responsable
+des ressources humaines s'est déjà déterminé sur la présence de la prénommée
+à son travail le jour de l'accident (P. 47/0, p. 2). A cela s'ajoute que les gendarmes ont joint
+celle-ci par téléphone sur son lieu de travail le jour en question (ibid.).
+f) Au vu de l'ensemble des considérations qui précèdent, il n'y a pas lieu de donner suite
+aux mesures d'instruction complémentaires requises par la recourante, et par conséquent de
+revenir sur l'ordonnance de classement.
+4.
+En définitive, le recours doit être rejeté et l'ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument du présent
+arrêt (art. 422 al. 1 CPP), par 880 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux
+du 28 septembre 2010, RSV 312.03.1]), sont mis à la charge de la recourante, qui succombe (art.
+428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Dit que les frais de la procédure de recours,
+par 880 fr. (huit cent huitante francs), sont mis à la charge de la recourante.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Jean-Samuel Leuba, avocat (pour F.________),
+-
+M. Jean-Yves Zufferey, avocat (pour C.L.________),
+-
+M. P.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
