@@ -1,0 +1,141 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2011___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2011 / 22"
+decided: "2011-11-29"
+published: "2011-11-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/2998707"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md"]
+---
+
+# VD Findinfo Réc-civile / 2011 / 22
+
+## Regeste
+
+RÉCUSATION | 6 al. 1 let. a ROTC, 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 28.11.2011 Réc-civile / 2011 / 22
+Vaud Tribunal cantonal Cour administrative 28.11.2011 Réc-civile / 2011 / 22
+Vaud Tribunal cantonal Cour administrative 28.11.2011 Réc-civile / 2011 / 22
+
+RÉCUSATION | 6 al. 1 let. a ROTC, 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ
+
+TRIBUNAL
+CANTONAL
+30/2011
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 29 novembre 2011
+________________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+47 al. 1 let. f et 48 CPC; art. 8a al. 3 et 8b al. 4 CDPJ
+Vu la requête de conciliation déposée le 18 novembre 2011 par l'Ecole S.________ à
+l'encontre de A.G.________ par-devant la Justice de paix du district de Nyon,
+vu la demande déposée le 22 novembre 2011 par la Première juge de paix du district de
+Nyon tendant à la récusation de tout son office,
+vu les pièces au dossier;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 22 novembre 2011 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12
+janvier 2010; RSV 211.02) et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal du 13
+novembre 2007; RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu que l'Ecole S.________ réclame à A.G.________ une somme de 800 fr. pour des cours dont
+le fils de ce dernier aurait bénéficié pour l'année scolaire 2010/2011,
+que A.G.________ est l'époux de B.G.________, laquelle travaille en tant que gestionnaire de dossiers
+au sein du greffe de la Justice de paix du district de Nyon,
+qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+qu'à teneur de l'art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d'un motif de récusation possible et se récuse lorsqu'il considère que
+ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit cependant pas être autorisée à
+la légère, mais uniquement pour des motifs sérieux, la récusation devant demeurer
+l'exception (TF 1C_103/2011 du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_643/2010 du 11 janvier 2011 c. 3.1; ATF 136 III 605 c. 3.2.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (ATF 134 I 238 c. 2.1;
+ATF
+134 I 20 c. 4.2),
+qu'en l'espèce, il est possible que l'activité de B.G.________ au sein de l'office concerné
+ait créé des liens d'amitié étroite ou d'inimitié personnelle entre elle et
+les magistrats appelés à statuer sur l'affaire,
+que ce sont ces mêmes magistrats qui pourraient être appelés non seulement à traiter
+de la requête de conciliation actuellement pendante concernant son époux, mais aussi de la
+cause au fond le cas échéant,
+que pour des motifs d'apparence, il n'est pas judicieux que la cause soit traitée, à quelque
+stade que ce soit, par la Justice de paix du district de Nyon,
+que la demande présentée le 22 novembre 2011 doit dès lors être admise;
+attendu que dans un tel cas, la cause doit être transmise, dans l'état où elle se trouve,
+à une autre juridiction ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'il convient dès lors de désigner la Justice de Paix du district de Morges;
+attendu que la présente décision est rendue sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 22 novembre 2011 par la Justice de paix  du
+district de Nyon est admise.
+II.
+La cause est transmise dans l'état où elle se trouve à la Justice de paix du district
+de Morges.
+III.
+L'arrêt est rendu sans frais, ni dépens.
+IV.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Mme la Première juge de paix du district de Nyon,
+-
+M. A.G.________, à Genolier.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le premier juge de paix du district de Morges,
+-
+l'Ecole S.________, à
+Nyon.
+Le greffier :
