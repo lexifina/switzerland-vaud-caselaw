@@ -1,0 +1,313 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2012___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2012 / 1"
+decided: "2011-11-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3060112"
+cites_law: ["switzerland/bund/acts/210/art-519.md", "switzerland/bund/acts/210/art-562.md", "switzerland/bund/acts/272/art-036.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-124.md", "switzerland/bund/acts/272/art-125.md", "switzerland/bund/acts/272/art-126.md", "switzerland/bund/acts/272/art-145.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2012 / 1
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE, EXÉCUTEUR TESTAMENTAIRE, LEGS, QUALITÉ DE PARTIE | 517 CC, 518 CC, 123 CPC, 123a CPC, 63 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 29.11.2011 Jug-inc / 2012 / 1
+
+SUSPENSION DE LA PROCÉDURE, EXÉCUTEUR TESTAMENTAIRE, LEGS, QUALITÉ DE PARTIE | 517 CC, 518 CC, 123 CPC, 123a CPC, 63 CPC
+
+TRIBUNAL
+CANTONAL
+CO09.018336
+163/2011/FAB
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant la
+SUCCESSION
+DE FEUE J.________
+, à Genève, d'avec
+H.________
+,
+à Genève,
+P.________
+,
+à Saint-Gall, et
+X.________
+,
+à Londres.
+___________________________________________________________________
+Audience
+du 29 novembre 2011
+__________________________
+Présidence
+de               Mme
+Rouleau
+,
+juge instructeur
+Greffier
+:              M.
+Intignano
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu la demande déposée le 15 mai 2009
+par J.________ à l'encontre de P.________, H.________ et X.________ concluant à ce que ces
+derniers soient condamnés solidairement à lui payer le montant de 500'000 USD (dollars américains)
+avec intérêt à 5% l'an dès le 9 juillet 2004,
+vu la demande déposée le 12 août 2009 par O.________ à l'encontre de P.________,
+H.________ et X.________ par-devant la Cour civile (cause CO09.027425) et dont les conclusions sont les
+suivantes:
+"I.
+Ordre est donné aux défendeurs, solidairement et conjointement entre eux, de remettre à
+la demanderesse, dans un délai de trois semaines dès le jugement définitif et exécutoire,
+l'entier du dossier successoral contenant en particulier l'ensemble des informations, renseignements
+et pièces justificatives en leur possession relatives à l'exécution de leur mandat d'exécuteurs
+testamentaires et à la gestion des fonds réunis à ce titre, soit notamment les pièces
+rendant compte de la provenance des fonds composant l'actif successoral ainsi que celles établissant
+de manière détaillée la justification complète, sur le principe et la quotité,
+de l'affectation des montants utilisés.
+II.
+Les défendeurs, solidairement entre eux, subsidiairement conjointement à concurrence de ce
+que justice dira, sont débiteurs de la demanderesse et lui doivent immédiat paiement de l'entier
+des sommes constituant l'actif successoral net de feu le Baron N.________, à ce jour, montant à
+préciser en cours d'instance, sous déduction du legs dû à Madame J.________, plus
+intérêts à 5% l'an dès le 9 juillet 2004."
+vu la requête d'intervention déposée le 23 septembre 2009 par [...], [...], [...], [...],
+[...] et [...], dans le cadre de la cause ouverte par O.________ (CO09.027425), concluant à ce que
+les requérants soient autorisés à intervenir dans dite cause afin de prendre les conclusions
+suivantes:
+"I.
+Ordre est donné à Me H.________, Me P.________ et le Prince X.________, solidairement et conjointement
+entre eux, de remettre aux requérants, dans un délai de trois semaines dès le jugement
+définitif et exécutoire, l'entier du dossier successoral contenant en particulier l'ensemble
+des informations, renseignements et pièces justificatives en leur possession relatives à l'exécution
+de leur mandat d'exécuteurs testamentaires et à la gestion des fonds réunis à ce
+titre, soit notamment les pièces rendant compte de la provenance des fonds composant l'actif successoral
+ainsi que celles établissant de manière détaillée la justification complète,
+sur le principe et la quotité, de l'affectation des montants utilisés.
+II.
+Me H.________, Me P.________ et le Prince X.________, solidairement entre eux, subsidiairement conjointement
+à concurrence que justice dira, sont débiteurs des requérants et leur doivent immédiat
+paiement de la moitié des sommes constituant l'actif successoral net de feu le Baron N.________,
+à ce jour, montant à préciser en cours d'instance, sous déduction du legs dû
+à Madame J.________, plus intérêts à 5% l'an dès le 9 juillet 2004, étant
+précisé que ce legs doit être prélevé sur l'entier de la succession et non seulement
+sur la part des requérants."
+vu le jugement incident rendu le 10 février 2010 par le juge instructeur de la Cour civile dans
+le cadre de la cause CO09.027425 admettant la requête d'intervention du 23 septembre 2009, jugement
+confirmé par arrêt de la Chambre des recours du 22 septembre 2010,
+vu la requête incidente en suspension de cause déposée le 27 novembre 2009 par P.________,
+H.________ et X.________ et dont les conclusions sont les suivantes:
+"I.
+La cause n°CO09.018336/JKR introduite par Madame J.________ contre Me H.________, Me P.________
+et le Prince X.________ par Demande déposée le 15 mai 2009 à la Cour civile du Tribunal
+cantonal est suspendue jusqu'à droit connu dans la cause n°CO09.027425/DCA opposant Madame
+O.________ à Me H.________, Me P.________ et le Prince X.________.
+II.
+Un nouveau délai sera imparti aux défendeurs, pour déposer la Réponse dès jugement
+définitif et exécutoire dans la cause n°CO09.027425/DCA."
+vu le courrier des parties des 5 et 6 janvier 2010 requérant la tenue d'une audience incidente,
+vu le courrier du 3 février 2010 du conseil de J.________ informant le juge de céans que celle-ci
+est décédée le 14 janvier 2010,
+vu l'attestation délivrée par la Justice de paix du district de Lausanne le 23 février
+2010 certifiant que S.________ a été désigné en qualité d'exécuteur testamentaire
+de la succession de J.________, avec les pouvoirs les plus étendus pour l'exécution de sa mission
+au sens des art. 517 et 518 CC (Code civil suisse du 10 décembre 1907; RS 210),
+vu le courrier du 16 novembre 2010 du conseil de J.________ requérant la reprise de cause, l'exécuteur
+testamentaire ayant qualité pour représenter la succession,
+vu l'avis du juge de céans du 4 mai 2011 ordonnant la reprise de cause,
+vu les pièces au dossier;
+ouï les parties assistées de leur conseil à l'audience de ce jour;
+attendu que la demande a été introduite le 15 mai 2009, soit avant l'entrée en vigueur
+du CPC (Code de procédure civile du 19 décembre 2008; RS 272) et sous l'empire du CPC-VD,
+qu'à teneur de l'art. 404 CPC, les procédures en cours à l’entrée en vigueur
+du CPC sont régies par l’ancien droit de procédure jusqu’à la clôture
+de l’instance,
+que le CPC-VD est dès lors applicable à la présente cause, partant à la procédure
+incidente de suspension de cause,
+qu'en vertu de l'art. 123 al. 2 CPC-VD, le juge instructeur, saisi d'une requête en suspension de
+cause, statue en la forme incidente (Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+ème
+éd., n. 3 ad art. 124 CPC-VD),
+qu'en l'espèce, la requête en suspension de cause satisfait aux exigences des art. 19 et 147
+al. 1
+er
+CPC-VD,
+qu'elle est ainsi recevable en la forme;
+attendu que, dans le cadre de la procédure au fond, la demande tend à la délivrance d'un
+legs de 500'000 USD prévu par feu N.________ dans un document daté du 10 juillet 1996,
+qu'elle est dirigée contre les requérants H.________, P.________ et X.________, désignés
+comme exécuteurs testamentaires d'N.________,
+que la succession d'N.________ fait l'objet d'un autre procès pendant devant la Cour civile (CO09.027425;
+ci-après: l'autre procès) intenté par O.________, dernière compagne du défunt,
+que dans le cadre de ce procès, O.________ conclut à la délivrance en sa faveur de tous
+les actifs successoraux d'N.________ en mains notamment des exécuteurs testamentaires H.________,
+P.________ et X.________, sous réserve du legs de 500'000 USD en faveur de J.________,
+que six membres du personnel du défunt sont intervenus dans le procès ouvert par O.________,
+afin de réclamer la moitié de l'actif successoral d'N.________, sous déduction du legs
+de 500'000 USD en faveur de J.________,
+que les requérants réclament la suspension de la présente cause, jusqu'à droit connu
+sur l'autre procès,
+qu'ils font valoir qu'une telle suspension serait justifiée par le fait que seule l'issue de l'autre
+procès permettrait de trancher le sort de la présente cause, en déterminant qui sont les
+héritiers d'N.________,
+que, selon les requérants, seuls les héritiers connus pourraient être débiteurs du
+legs en faveur de J.________ au sens de l'art. 562 al. 1 CC,
+que, de même, seuls les héritiers connus pourraient intenter une action en nullité du
+testament au sens de l'art. 519 al. 2 CC, une telle nullité ayant une influence sur le legs objet
+du présent litige,
+qu'enfin, les requérants soutiennent que l'absence d'héritiers reconnus empêche la délivrance
+du legs au sens de l'art. 562 al. 2 CC,
+qu'ainsi, la délivrance du legs litigieux ne pourrait pas intervenir avant que ne soient connus
+les héritiers d'N.________, de sorte qu'il faudrait attendre l'issue de l'autre procès pour
+pouvoir statuer sur le fond de la présente cause,
+que l'intimée fait en revanche valoir qu'il n'existe aucune connexité entre la présente
+action et l'autre procès, les parties n'étant pas les mêmes et l'objet du litige étant
+différent,
+que les conclusions de la demande du 12 août 2009 et de la requête d'intervention du 23 septembre
+2009 déposées dans le cadre de l'autre procès réservent d'ailleurs la délivrance
+du legs en faveur de J.________, de sorte qu'il n'y aurait aucun risque de jugements contradictoires,
+que l'intimée considère enfin que le jugement à intervenir dans la présente cause
+serait de toute manière opposable aux héritiers d'N.________, et ce quels qu'ils soient, les
+exécuteurs testamentaires – défendeurs à la présente cause – représentant
+valablement tout héritier, même inconnu,
+que l'intimé soutient en dernier lieu que la suspension de la présente cause, ouverte antérieurement
+à l'autre procès, ne reposerait sur aucune base légale, la règle inverse étant
+prévue à l'art. 123a CPC-VD,
+que la suspension de la présente cause contreviendrait de surcroît, selon l'intimé, au
+principe de célérité de la procédure;
+attendu que l'art. 123 al. 1 CPC-VD dispose que le juge peut suspendre l'instruction du procès pour
+un temps déterminé en cas de nécessité,
+que selon la jurisprudence, la condition de nécessité posée par cette disposition doit
+être interprétée de manière restrictive, la suspension étant un acte grave et
+exceptionnel, qui exige la réalisation effective d'un état de nécessité dont il appartient
+au juge d'apprécier l'existence (CI CCIV du 13 décembre 2010/175; CREC I du 27 décembre
+2005/910 c. 3b; JT 2002 III 1986 c. 2; JT 1993 III 113 c. 3a; JT 1984 III 11 c. 2a),
+que la suspension se justifie en particulier lorsque le sort du procès peut dépendre de l'issue
+d'une autre procédure, civile, pénale ou administrative, sans qu'il y ait pour autant litispendance,
+afin d'éviter des jugements même indirectement contradictoires (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+ème
+éd., n. 3 ad art. 123 CPC-VD),
+que la connexité entre deux actions ne suffit cependant pas en soi à justifier la suspension
+de l'un des procès (JT 1984 III 11 c. 2b; JT 1969 III 113; JT 1967 III 113; Reymond, L'exception
+de litispendance, étude de droit fédéral et de procédure civile vaudoise, thèse
+Lausanne 1991, pp. 207 ss),
+que l'art. 123a al. 1 CPC-VD prévoit également que
+lorsque
+plusieurs tribunaux sont saisis d'actions connexes, le tribunal saisi ultérieurement peut suspendre
+la procédure jusqu'à ce que le tribunal saisi en premier lieu ait statué,
+que cette disposition reprend textuellement l'art. 36 LFors (loi fédérale sur les fors en matière
+civile du 24 mars 2000; RS 291 [RO 2000 p. 2355], applicable par
+renvoi
+de l'art. 404 CPC
+), de sorte que
+la notion de connexité définie dans le cadre de ce dernier est la même qu'en procédure
+civile vaudoise (
+Poudret/Haldy/Tappy, op. cit.,
+ad art. 123a CPC),
+qu'il y a dès lors connexité quand des mêmes circonstances de fait ou des questions juridiques
+analogues sont à la base des différentes actions, qui sont liées entre elles par un rapport
+si étroit qu'il en découle un risque de jugements contradictoires
+(Donzallaz,
+Commentaire de la loi fédérale sur les fors en matière civile, n. 49, p. 749),
+que deux jugements sont contradictoires lorsqu'ils conduisent à des résultats qui s'excluent
+l'un l'autre (Ruggle/Tenchio-Kuzmic, Bundesgesetz über den Gerichtsstand in Zivilsachen, n. 17 ad
+art. 36 LFors; Dasser, Kommentar zum Bundesgesetz über den Gerichtsstand in Zivilsachen, n. 4 ad
+art. 36 LFors),
+que le juge doit toujours procéder à une pesée des intérêts en cause avant de
+trancher la question de la suspension (Donzallaz, op. cit., n. 22 ad art. 36 LFors),
+qu'en l'espèce, le présent procès a trait à la délivrance d'un legs, alors que
+l'autre procès a trait à la détermination de la qualité d'héritiers des demandeurs
+et des intervenants,
+que ni J.________, ni ses successeurs, ne sont partie à l'autre procès, puisqu'ils ne revendiquent
+pas la qualité d'héritiers d'N.________,
+que le jugement à intervenir dans le présent procès sera opposable aux héritiers
+reconnus à l'issue de l'autre procès (art. 475 CPC-VD; ATF 125 III 8 c. 3, SJ 1999 p. 273;
+Poudret/Haldy/Tappy, op. cit., n. 6 ad art. 475 CPC-VD; même solution sous l'empire du CPC, cf.
+Bohnet, CPC commenté, n. 134 ad art. 59 CPC),
+qu'il n'importe dès lors pas de savoir à qui sera reconnue la qualité d'héritier
+dans l'autre procès, les exécuteurs testamentaires ayant valablement la qualité pour défendre
+en leur propre nom dans les deux procès (
+ATF
+116 II 131 c. 3a et les références citées),
+que l'exigibilité du legs dont l'intimé requiert la délivrance devra être examinée
+à l'aune du présent procès au fond et non pas à l'aune du jugement à intervenir
+dans l'autre procès,
+qu'il en va de même des conditions à la délivrance du legs plaidées par les requérants,
+qu'il n'existe en l'état aucune nécessité à la suspension de la présente cause
+au sens de l'art. 123 CPC-VD,
+que les causes ne sont en outre pas connexes au sens de l'art. 123a CPC-VD, les conclusions
+prises par les parties dans les deux procès ayant des fondements différents (pétition
+d'hérédité et délivrance de legs),
+qu'en l'état, il n'y a en outre aucune conclusion, dans le cadre de l'autre procès, tendant
+à la réduction ou à la nullité du legs en faveur de J.________,
+qu'il n'y a donc ni identité d'objet, ni identité de cause entre les deux procès,
+qu'il n'existe dès lors pas de risque de jugements contradictoires,
+qu'enfin, l'intimé soutient à juste titre que le présent procès a été ouvert
+antérieurement à l'autre procès, de sorte qu'il ne peut être suspendu en application
+de l'art. 123a CPC-VD, lequel prévoit la règle inverse,
+que la suspension requise n'est dès lors pas justifiée et la requête doit en conséquence
+être rejetée;
+attendu que les frais de la procédure incidente sont arrêtés à 900 fr. à la
+charge des requérants, solidairement entre eux,
+qu'obtenant gain de cause, l'intimée a droit à de pleins dépens, à la charge des
+requérants solidairement entre eux, arrêtés à 900 fr., débours et TVA compris;
+attendu que le jugement sur un incident, sous l'empire du CPC-VD, ne pouvait faire l'objet d'un recours
+immédiat, sauf exception prévue par la loi (art. 145 al. 3 CPC-VD),
+que le Tribunal fédéral a cependant jugé que les procédures incidentes rendues après
+l'entrée en vigueur du CPC le 1
+er
+janvier 2011, dans le cadre de procès ouverts avant cette date, doivent être soumises aux voies
+de droit du CPC (ATF 137 III 424 c. 2.3.2; TF 4A_668/2011 du 11 novembre 2011 c. 6),
+qu'en l'espèce, un recours au sens des art. 319 ss CPC contre une décision suspendant la cause
+est prévu par la loi (art. 126 al. 2 CPC),
+que selon la doctrine, il s'agit d'une "autre décision" au sens de l'art. 319 let.
+b ch. 1 CPC, de sorte que l'art. 321 al. 2 CPC n'est pas applicable (Jeandin, CPC commenté, n. 15
+ad art. 319 CPC et n. 10 ad art. 321 CPC; Haldy, CPC commenté, n. 3 ad art. 125 CPC),
+que la présente décision est dès lors soumise à la voie du recours
+strico
+sensu
+dans le délai ordinaire prévu
+à l'art. 321 al. 1 CPC.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de suspension de cause déposée le 27 novembre 2009 par  H.________, P.________
+et X.________ est rejetée.
+II.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs)
+pour les requérants, solidairement entre eux.
+III.
+Les requérants, solidairement entre eux, doivent verser à l'intimée succession de feue
+J.________ le montant de 900 fr. (neuf cents francs) à titre de dépens de l'incident.
+Le
+juge instructeur :              Le greffier :
+S.
+Rouleau              G. Intignano
+Du
+Le jugement qui précède, dont le dispositif a été expédié pour notification
+le 1
+er
+décembre 2011, lu et approuvé à huis clos, est notifié, par l'envoi de photocopies,
+aux conseils des parties.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+G. Intignano
