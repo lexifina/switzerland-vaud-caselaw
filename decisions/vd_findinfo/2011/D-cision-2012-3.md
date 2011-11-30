@@ -1,0 +1,215 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 3"
+decided: "2011-11-30"
+published: "2011-11-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3081910"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-307.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-311.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 3
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.11.2011 Décision / 2012 / 3
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+609
+PE11.001898-JGS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 30 novembre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+310, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours déposé
+le 7 novembre 2011 par
+D.P.________
+contre l'ordonnance rendue le 14 octobre 2011 par le Ministère public de l'arrondissement de l'Est
+vaudois dans la cause
+n° PE11.001898-JGS
+dirigée contre
+W.________
+.
+Elle considère:
+E
+n  f a i t :
+A.
+Par acte du 8 décembre
+2010 (P. 4), complété le 18 juillet 2011 (P. 6), D.P.________ a porté plainte pénale
+contre inconnu pour diffamation et calomnie, exposant avoir eu connaissance d’une conversation
+ayant eu lieu sur le site internet Facebook entre W.________ et F.________, au cours de laquelle des
+propos diffamatoires à son égard avaient été échangés (cf. P. 5).
+B.
+Par ordonnance du 14 octobre
+2011, le Procureur de l’arrondissement de l’Est vaudois a décidé de ne pas entrer
+en matière (I) et de laisser les frais de cette décision à la charge de l’Etat (Il).
+II a en effet estimé que les éléments constitutifs de l’infraction de diffamation
+(art. 173 CP) n’étaient manifestement pas réunis en ce sens que les propos échangés
+entre W.________ et F.________ n’étaient pas accessibles par leurs «amis» sur Facebook,
+ces écrits ayant été envoyés entre elles comme des messages strictement privés
+et non publiés sur le « mur » appartenant à chaque utilisateur.
+C.
+Par acte du 7 novembre
+2011, remis à la poste le même jour, D.P.________ a recouru contre cette ordonnance, en concluant
+avec dépens à son annulation, le Procureur de l’arrondissement de l’Est vaudois
+étant invité à suivre à l’enquête ouverte suite à la plainte déposée
+le 8 décembre 2010 et le dossier étant joint à la plainte déposée par I.P.________
+contre F.________ pour les mêmes faits.
+Dans ses déterminations du 28 novembre 2011, le procureur a conclu à la confirmation de l'ordonnance
+de non-entrée en matière du 14 octobre 2011. Il soutient que les propos attentatoires à
+l'honneur que W.________ a tenus au sujet de D.P.________ étaient uniquement destinés à
+F.________ et pas à un tiers, de sorte que les éléments constitutifs des infractions de
+diffamation et calomnie ne seraient pas réalisés.
+E
+n  d r o i t :
+1.
+Selon l’art. 310
+al. 1 CPP (Code de procédure pénale suisse; RS 312.0), le ministère public rend immédiatement
+une ordonnance de non-entrée en matière s’il ressort de la dénonciation ou du rapport
+de police notamment (let. a) que les éléments constitutifs de l’infraction ou les conditions
+à l’ouverture de l’action pénale ne sont manifestement pas réunis. Au surplus,
+les dispositions sur le classement de la procédure sont applicables (art. 310 al. 2 CPP). Est ainsi
+notamment applicable l’art. 322 al. 2 CPP, qui prévoit que les parties peuvent attaquer l’ordonnance
+de classement dans les dix jours devant l’autorité de recours (cf. art. 20 al. 1 let. b CPP),
+à savoir, dans le canton de Vaud, devant la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [d’introduction du code de procédure pénale suisse; RSV 312.01]; art.
+80 LOJV, [loi d’organisation judiciaire; RSV 173.01]). Interjeté dans le délai légal
+(art. 322 al. 2 et 396 al. 1 CPP) par la partie plaignante qui a qualité pour recourir (art. 322
+al. 2 et 382 al. 1 CPP), le recours est donc recevable.
+2.
+a) Selon l’art. 310 al.1 CPP, le ministère public rend immédiatement, c’est-à-dire
+sans ouvrir d’instruction (art. 309 al. 1 et 4 CPP; cf. Pierre Cornu, in: Kuhn/Jeanneret (éd.),
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 2 ad art. 310
+CPP) et donc sans administrer de preuves (art. 311 CPP; cf. Cornu, op. cit., n. 4 ad art. 310 CPP),
+une ordonnance de non-entrée en matière s’il ressort de la dénonciation (cf. art.
+301 s. CPP) — respectivement, bien que l’art. 310 al. 1 CPP ne le mentionne pas expressément,
+de la plainte pénale (Cornu, op. cit., n. 1 ad art. 310 CPP) — ou du rapport de police
+(cf. art. 307 al. 3 CPP) que les éléments constitutifs de l’infraction ou les conditions
+à l’ouverture de l’action pénale ne sont manifestement pas réunis (let. a),
+qu’il existe des empêchements de procéder (let. b) ou que les conditions mentionnées
+à l’art. 8 CPP imposent de renoncer à l’ouverture d’une poursuite pénale
+(let. c).
+b) Aux termes de l’art. 173 ch. 1 CP, qui réprime la diffamation, est, sur plainte, puni d’une
+peine pécuniaire de 180 jours-amende au plus celui qui, en s’adressant à un tiers, aura
+accusé une personne ou jeté sur elle le soupçon de tenir une conduite contraire à
+l’honneur ou de tout autre fait propre à porte atteinte à sa considération, ou aura
+propagé une telle accusation ou un tel soupçon. Selon la jurisprudence du Tribunal fédéral
+(cf., parmi les arrêts récents, TF 6B_371/2011 du 15 août 2011 c. 5.1), l’honneur
+protégé par le droit pénal est le droit de chacun de ne pas être considéré
+comme une personne méprisable (ATF 132 IV 112 c. 2.1; ATF 128 IV 53 c. 1a; ATF 117 IV 27 c.
+2c). Les art. 173 ss CP ne protègent que l’honneur personnel, la réputation et le sentiment
+d’être un homme honorable, de se comporter, en d’autres termes, comme un homme digne
+a coutume de le faire selon les idées généralement reçues; échappent à
+ces dispositions les déclarations qui sont propres seulement à ternir de quelque autre manière
+la réputation dont jouit quelqu’un dans son entourage ou à ébranler sa confiance
+en lui-même: ainsi en va-t-il des critiques qui visent comme tel l’homme de métier, l’artiste
+ou le politicien (ATF 128 IV 53 c. 1a; ATF 119 IV 44 c. 2a). Lorsqu’on évoque la commission
+d’un crime ou d’un délit intentionnel, la jurisprudence admet qu’il y a atteinte
+à l’honneur (ATF 118 IV 248 c. 2B; ATF 132 IV 112). Il n’est toutefois pas nécessaire
+que le comportement soit réprimé par la loi pénale; il suffit qu’il soit moralement
+réprouvé (ATF 117 IV 27 c. 2d). Pour déterminer si une déclaration est attentatoire
+à l’honneur, il ne faut pas se fonder sur le sens que lui donne la personne visée, mais
+sur une interprétation objective selon le sens qu’un destinataire non prévenu doit, dans
+les circonstances données, lui attribuer (ATF 128 IV 53 c. 1a et les arrêts cités). Enfin,
+pour que l’auteur se rende coupable de diffamation, l’atteinte à l’honneur doit
+être communiquée à un tiers et porter sur un fait (et ne pas constituer un simple jugement
+de valeur).
+c) En l’espèce, il ressort de la retranscription papier d’un échange de conversation
+Facebook entre W.________ et F.________ (P. 5) que W.________ aurait notamment dit de D.P.________ qu'il
+serait un pauvre personnage, en procès avec tout le monde, qui aurait dit à un gitan "je
+suis allemand et on a buté des millions de personnes comme toi, mais on t’a oublié !!!
+Alors dégage", qu’il serait fou, qu'il serait un malade mental, qu’il faudrait
+le fuir comme la peste, qu’il serait le Diable en personne et qu'il dirigerait ses fils (qui seraient
+faits dans le même moule) et sa femme comme un vrai dictateur, soit la réincarnation du Führer.
+Quand bien même les propos concernant D.P.________, échangés entre W.________ et F.________,
+n’étaient pas accessibles par leurs "amis" sur Facebook, ces écrits ayant été
+envoyés entre elles comme des messages strictement privés et non publiés sur le "mur"
+appartenant à chaque utilisateur, ils n’en ont pas moins été adressés à
+une tierce personne, soit à F.________, au sens de l’art. 173 ch. 1 CP. En effet, le
+"tiers" est une personne autre que l'auteur et le lésé. C'est donc à tort que
+le procureur a considéré que les éléments constitutifs de l’infraction de diffamation
+n’étaient manifestement pas réunis (cf., s’agissant d’atteinte à l’honneur
+par courrier électronique, TF 66_371/2011 du 15 août 2011; TF 6P.54/2004 du 21 mai 2004;
+TF 6S.147/2002 du 21 août 2002). En effet, les propos en question sont de prime abord de nature
+à faire apparaître D.P.________, qui est comparé au Führer et au Diable en personne,
+comme un être méprisable, et à porter atteinte à sa réputation et au sentiment
+d’être un homme honorable se comportant comme un homme digne a coutume de le faire selon les
+idées généralement reçues.
+3.
+Il résulte de ce
+qui précède que le recours doit être admis, l’ordonnance attaquée annulée
+et le dossier renvoyé au Procureur de l’arrondissement de l’Est vaudois pour qu’il
+ouvre une instruction (art. 309 CPP), étant précisé qu’il n’appartient pas
+à la cour de céans mais au Procureur de décider contre qui cette instruction doit être
+ouverte et s’il y a lieu de la joindre à une autre procédure pénale.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 550 fr. (art. 20 al. 1 TFJP [des frais judiciaires pénaux;
+RSV 312.03.1]), seront laissés à la charge de l’Etat (cf. art. 428 al. 4 CPP). S'agissant
+des dépens réclamés par le recourant, ils suivent le sort de la cause au fond (cf. art.
+433 CPP; Mizel/Rétornaz, in: Kuhn/Jeanneret (éd.), op. cit., n. 13 ad art. 433 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance attaquée est annulée.
+III.
+Le dossier est renvoyé au Procureur de l'arrondissement
+de l'Est vaudois pour qu'il ouvre une instruction.
+IV.
+Les frais de la procédure de recours, par
+550 fr. (cinq cent cinquante francs), sont laissés à la charge de l'Etat.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Annik Nicod, avocate (pour D.P.________),
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
