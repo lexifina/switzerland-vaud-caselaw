@@ -1,0 +1,249 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___42"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 42"
+decided: "2011-12-01"
+published: "2011-12-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3060946"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-163.md", "switzerland/bund/acts/311.0/art-164.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 42
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, COMPLÉMENT, ENQUÊTE PÉNALE, FRAUDE DANS LA SAISIE, BANQUEROUTE FRAUDULEUSE | 163 CP, 164 CP, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 01.12.2011 Décision / 2012 / 42
+
+CLASSEMENT DE LA PROCÉDURE, COMPLÉMENT, ENQUÊTE PÉNALE, FRAUDE DANS LA SAISIE, BANQUEROUTE FRAUDULEUSE | 163 CP, 164 CP, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+600
+PE09.018343-VIY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 1er décembre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Sauterel
+Greffier
+:              M.
+Addor
+*****
+Art.
+319 al. 1, 393 al. 1 let. a CPP
+Vu l'
+enquête n° PE09.018343-VIY
+instruite par le Procureur de l'arrondissement de Lausanne contre
+A.I.________
+et
+B.I.________
+pour fraude dans la saisie et diminution effective de l'actif au préjudice des créanciers,
+d'office et sur plainte de
+S.________
+,
+vu l'ordonnance du 13 septembre 2011, par laquelle le procureur a notamment ordonné le classement
+de la procédure dirigée contre les prévenus et laissé les frais de procédure
+à la charge de l'Etat,
+vu le recours interjeté le 3 octobre 2010 par S.________ contre cette décision,
+vu les déterminations de A.I.________ et B.I.________ du 23 novembre 2011,
+vu les pièces du dossier;
+attendu
+que, par jugement du 14 novembre 2007, la Cour civile du Tribunal cantonal vaudois a notamment jugé
+que B.I.________ devait payer au plaignant S.________ une somme de 140'000 fr., avec intérêt
+à 5 % l'an dès le 1
+er
+décembre 1997 (P. 5/1, p. 25),
+que cette dette correspondait à la reprise en 1997, par B.I.________ et P.________, du fonds de
+commerce d'un établissement public à [...] pour la somme de 240'000 fr., dont le prix n'avait
+pas été payé,
+que le 15 septembre 2008, A.I.________ a vendu à N.________, pour 400'000 fr., la Brasserie [...],
+que le couple C.I.________ avait acquise peu après leur mariage (P. 28/2),
+que l'acquéreur a notamment remis 50'000 fr. au prévenu en mains propres, fait virer, à
+la demande de celui-ci, 100'000 fr. sur chacun des comptes des deux enfants mineurs du couple, et versé
+dix mensualités de 10'000 fr. sur le compte du prévenu, jusqu'en juin 2009,
+que, par arrêt du 18 novembre 2008, le Tribunal fédéral a rejeté le recours formé
+B.I.________ contre le jugement de la Cour civile du 14 novembre 2007,
+que le 21 novembre 2008, A.I.________ et B.I.________ ont, par devant le notaire [...], conclu un contrat
+de mariage en adoptant le régime de la séparation de biens, avec effet au 1
+er
+janvier 2008 (P. 25),
+que la convention exposait que les époux C.I.________, soumis au régime de la participation
+aux acquêts, avaient acquis, peu après leur mariage en 1998, la Brasserie [...] en société
+simple, qui présentait, au 31 décembre 2007, un actif net de 93'132 fr.; que la sortie de d'un
+des deux associés avait pour effet de dissoudre la société; et que les époux reconnaissaient
+que la part de chacun d'eux à la société simple, dont les actifs représentaient l'essentiel
+de leurs biens déterminants pour la liquidation du régime matrimonial, était d'une demie,
+qu'il était convenu que la prévenue conserverait ses dettes personnelles, tout en étant
+libérée de celles de la Brasserie [...],
+que la convention stipulait en outre que A.I.________ reprendrait l'actif net de la Brasserie [...],
+estimé à 93'132 fr. au 31 décembre 2007, et prendrait à sa charge les dettes de l'établissement,
+que par convention du 21 janvier 2009, A.I.________ a acquis pour la somme de 250'000 fr. le Restaurant
+[...] (P. 28/4), pour l'exploitation duquel il a constitué, le 1
+er
+mai 2009, la société X.________ SA, en faisant un apport un nature d'un montant de 100'000
+fr. (P. 28/5),
+que le 26 février 2009, l'Office des poursuites de Lausanne-Ouest a établi un premier procès-verbal
+de saisie et délivré le 4 juin 2009 au plaignant un acte de défaut de biens portant sur
+un montant de 221'592 francs,
+que ce document mentionne, sous la rubrique situation du débiteur, que les époux C.I.________
+étaient à la recherche d'un emploi, qu'ils ne percevaient aucune prestation ni de l'assurance
+chômage ni de l'aide sociale, qu'ils vivaient des dernières économies du prévenu
+et de l'aide de sa famille en Irak et qu'ils n'avaient aucun revenu sous quelque forme que ce soit (P.
+5/3),
+qu'un nouveau procès-verbal de saisie valant acte de défaut de biens a été établi
+le 16 décembre 2009, comportant des indications analogues à celles figurant dans le précédent
+procès-verbal de saisie relativement à la situation de B.I.________ (P. 16/2);
+attendu que S.________ reproche à A.I.________ et B.I.________ d'avoir cherché, par des moyens
+frauduleux, à diminuer l'actif de la prévenue, afin d'échapper au paiement de la dette
+que celle-ci avait contractée en acquérant l'établissement public du plaignant en 1997,
+qu'il les soupçonne d'avoir donné de fausses informations à l'Office des poursuites, et
+d'avoir créé la société X.________ SA, pour y investir tous leurs avoirs,
+que l'adoption, en novembre 2008, d'un contrat de mariage adoptant le régime de la séparation
+de biens, constituerait un indice supplémentaire à cet égard,
+que par ordonnance du 13 septembre 2011, le procureur a toutefois rendu une ordonnance de classement
+en faveur des prévenus, considérant que le changement de régime matrimonial adopté
+le 1
+er
+janvier 2008 n'avait pas d'incidence légale sur les droits des créanciers personnels des époux
+et qu'il n'était pas établi que les intéressés avaient donné à l'Office
+des poursuites de fausses indications sur leur situation économique,
+que les infractions de fraude dans la saisie (art. 163 CP) et de diminution effective de l'actif au préjudice
+des créanciers (art. 164 CP), sur lesquelles portait la prévention, n'étaient ainsi pas
+réalisées,
+que S.________ conteste cette décision, son recours tendant à un complément d'instruction,
+que B.I.________ et A.I.________ concluent au rejet du recours;
+attendu qu'interjeté dans le délai légal (art. 322 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0] et art. 396 al. 1 CPP) contre une décision du Ministère
+public (art. 393 al. 1 let. a CPP), par la partie plaignante qui a qualité pour recourir (art. 382
+al. 1 CPP), le recours est recevable;
+attendu que, lors de son interrogatoire du 14 décembre 2010, l'intimée a déclaré
+que l'adoption du régime de la séparation de biens visait à protéger son mari des
+dettes et poursuites qu'elle avait,
+qu'elle a précisé qu'en raison du changement de régime matrimonial, son mari avait reçu
+l'intégralité du produit de la remise de la Brasserie [...],
+qu'il s'agissait d'éviter que le recourant ne puisse recouvrer une quelconque somme,
+que l'intimée a précisé percevoir un salaire mensuel de 5'500 fr., contestant pour le
+surplus avoir déclaré à l'Office des poursuites qu'elle et son mari n'avaient aucun revenu
+(PV aud. 4),
+que l'intimé A.I.________ a pour sa part admis avoir versé deux fois 100'000 fr. sur le compte
+de ses enfants, dans le but d'éviter que cette somme ne soit récupérée par le biais
+des poursuites engagées par le recourant contre son épouse,
+qu'il a assuré ne pas avoir déclaré à l'Office des poursuites que lui et son épouse
+ne disposaient d'aucun revenu,
+qu'il a réfuté les dires de son épouse, selon lesquels elle recevait un salaire de 5'500
+fr. par mois durant l'exploitation du Restaurant [...] (PV aud 5, p. 2),
+que ces déclarations suggèrent que les versements effectués sur les comptes des enfants
+des époux C.I.________ visaient à dissimuler des actifs auxquels l'intimée, avant la dissolution
+de la société simple et la liquidation du régime matrimonial, pouvait prétendre,
+afin d'empêcher le recourant de recouvrer tout ou partie de sa créance,
+que des investigations complémentaires se justifient sur ce point,
+que l'effet du contrat de mariage est de faire apparaître le produit de la vente de la Brasserie
+[...] comme actif du seul intimé, alors qu'il s'agirait d'un actif commun aux deux conjoints, selon
+les éléments du dossier (PV aud. 4 et 5; P. 28/1, pp. 6 et 7),
+que l'adoption du régime de la séparation de biens paraît avoir eu pour conséquence
+de soustraire à la poursuite du recourant une part du produit de la vente du restaurant précité,
+que dans leurs déterminations, les intimés soutiennent toutefois que le produit de la vente
+de la Brasserie [...] revenait au mari seul, et non à son épouse,
+qu'ils se fondent à cet égard sur le fait que la convention de remise de commerce du 15 septembre
+2008 a été conclue entre l'acquéreur et A.I.________ exclusivement (P. 28/2) et que celui-ci,
+le 19 juin 2006, avait repris seul l'exploitation de cet établissement, dont le bail à ferme
+avait été transféré à son nom, avec effet au 1
+er
+juillet 2006,
+que la pièce qu'ils citent à ce propos est sans rapport avec cette dernière allégation,
+que celle-ci semble d'ailleurs contredite par les déclarations mêmes des intimés au sujet
+de la reprise de la brasserie en 1998 (PV aud. 2, p. 3 R. 5; PV aud. 3, p. 2
+in
+initio
+) et par les faits exposés en préambule
+du contrat de mariage (P. 25, p. 1),
+qu'au reste, on ne voit pas l'intérêt que les intimés auraient eu d'adopter le régime
+de la séparation de biens, si l'épouse n'avait pas droit à une part du produit de la vente
+de cette brasserie,
+qu'en outre, on peut s'étonner que la Brasserie [...], ainsi qu'il ressort du contrat de mariage,
+présentait au 31 décembre 2007 un actif net de 93'132 fr. (P. 28/3, p. 3), sans rapport avec
+le prix de 400'000 fr. auquel cet établissement a été vendu le 15 septembre 2008,
+qu'ainsi, avant de pouvoir exclure les infractions de fraude dans la saisie et de diminution effective
+de l'actif au préjudice des créanciers, il importe de poursuivre l'instruction,
+qu'il y aura lieu de requérir la production du dossier complet de l'Office des poursuites de Lausanne-Ouest,
+en particulier les procès-verbaux de saisie, et de réexaminer les incohérences relevées
+par les considérants ci-dessus;
+attendu, en définitive, que le recours est admis et l'ordonnance annulée,
+que le dossier de la cause est renvoyé au Procureur de l'arrondissement de Lausanne pour qu'il procède
+à un complément d'instruction dans le sens des considérants, puis rende une nouvelle décision,
+que l'indemnité due à Me Tony Donnet-Monay, conseil d'office des intimés, est fixée
+à 770 fr., plus la TVA, par 61 fr. 60, soit 831 fr. 60,
+que les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 660 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]),
+ainsi que des frais imputables à la défense d'office (art. 422 al. 2 let. a CPP), par 831 fr.
+60, sont laissés à la charge de l'Etat (art. 428 al. 4 CPP),
+que s
+'agissant des dépens
+réclamés par le recourant, ils suivent le sort de la cause au fond (cf. art. 433 CPP; Mizel/Rétornaz,
+in: Kuhn/Jeanneret (éd.),
+Commentaire romand,
+Code de procédure pénale suisse, 2011
+,
+n. 13 ad art. 433 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance.
+III.
+Renvoie le dossier de la cause au Procureur de
+l'arrondissement de Lausanne pour qu'il procède à un complément d'instruction dans le
+sens des considérants, puis rende une nouvelle décision.
+IV.
+Fixe à 831 fr. 60 (huit cent trente et un
+francs et soixante centimes) l'indemnité due au défenseur d'office de A.I.________ et de B.I.________.
+V.
+Dit que les frais d'arrêt, par 660 fr. (six
+cent soixante francs), ainsi que l'indemnité due au défenseur d'office de A.I.________ et B.I.________,
+par 831 fr. 60 (huit cent trente et un francs et soixante centimes), sont laissés à la charge
+de l'Etat.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Nicole Wiebach, avocate (pour S.________),
+-
+M. Tony Donnet-Monay, avocat (pour A.I.________ et B.I.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
