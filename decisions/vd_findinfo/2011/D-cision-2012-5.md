@@ -1,0 +1,157 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 5"
+decided: "2011-12-03"
+published: "2011-12-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3085004"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-202.md", "switzerland/bund/acts/312.0/art-299.md", "switzerland/bund/acts/312.0/art-355.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 5
+
+## Regeste
+
+OPPOSITION{PROCÉDURE}, RETRAIT{VOIE DE DROIT}, DÉLAI FIXÉ PAR LE JUGE, OBSERVATION DU DÉLAI, CITATION À COMPARAÎTRE | 202 CPP (CH), 299 al. 1 CPP (CH), 355 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.12.2011 Décision / 2012 / 5
+
+OPPOSITION{PROCÉDURE}, RETRAIT{VOIE DE DROIT}, DÉLAI FIXÉ PAR LE JUGE, OBSERVATION DU DÉLAI, CITATION À COMPARAÎTRE | 202 CPP (CH), 299 al. 1 CPP (CH), 355 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+611
+PE11.004941-JON
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 décembre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              MM.
+Meylan et Sauterel
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+202, 299 al. 1, 355 al. 2 CPP
+Vu l'
+enquête n° PE11.004941-JON
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+X.________
+pour vol, d'office et sur plainte de
+J.________
+,
+vu l'ordonnance du 15 septembre 2011, par laquelle le procureur a constaté que X.________ s'était
+rendu coupable de vol, l'a condamné à une peine pécuniaire de trente jours-amende, le
+jour-amende étant fixé à 50 fr., et a mis les frais de procédure à sa charge,
+vu l'opposition formée le 26 septembre 2011 par X.________ à l'encontre de cette décision,
+vu l'ordonnance du 12 octobre 2011, par laquelle le procureur a constaté que X.________ avait fait
+défaut à l'audience du 6 octobre 2011, à laquelle il avait été cité sous
+pli recommandé, dit que l'ordonnance pénale du 15 septembre 2011 devenait exécutoire et
+dit que la décision était rendue sans frais,
+vu le recours interjeté en temps utile par X.________ contre cette décision,
+vu les déterminations du procureur,
+vu les déterminations de J.________,
+vu les déterminations de X.________,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]) contre une décision du ministère public (art. 393 al.
+1 let. a CPP), par le prévenu qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les
+formes prescrites (art. 385 al. 1 CPP), le recours est recevable;
+attendu que le 26 septembre 2011, X.________, condamné par ordonnance pénale du 15 septembre
+2011, a formé opposition à l'encontre de cette décision,
+qu'il a dès lors été cité à comparaître à l'audience du 6 octobre
+2011,
+que le 12 octobre 2011, le procureur a rendu une décision de retrait d'opposition,
+qu'il a en effet constaté que le prénommé avait fait défaut à l'audience du
+6 octobre 2011, à laquelle il avait été cité sous pli recommandé,
+qu'en application de l'art. 355 al. 2 CPP, il a donc considéré l'opposition comme retirée,
+que X.________ conteste cette décision;
+attendu que selon l'art. 202 al. 1 CPP, le mandat de comparution est notifié, dans la procédure
+préliminaire, au moins trois jours avant la date de l'acte de procédure (let. a), et dans la
+procédure devant le tribunal, au moins dix jours avant la date de l'acte de procédure (let.
+b),
+que la computation des délais s'effectue à partir du lendemain de la notification au sens de
+l'art. 85 al. 3 et 4 CPP (art. 90 al. 1 CPP; Chatton, in: Kuhn/Jeanneret (éd.), Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 8 ad art. 202 CPP),
+que le non-respect des délais constitue une violation d'une règle de validité qui entraîne
+l'inexploitabilité de principe de l'acte de procédure accompli sous de tels auspices (Chatton,
+op. cit., n. 10 ad art. 202 CPP),
+que l'art. 299 al. 1 CPP prévoit que la procédure préliminaire se compose de la procédure
+d'investigation de la police et de l'instruction conduite par le ministère public,
+que la procédure préliminaire doit déboucher soit sur une ordonnance pénale, soit
+sur une mise en accusation, soit encore sur un classement (Maître, in: Kuhn/Jeanneret (éd.),
+op. cit., n. 4 ad art. 299 CPP),
+que la procédure d'opposition ne fait dès lors pas partie de la procédure préliminaire
+(Titre 6 par opposition au Titre 8 du CPP),
+qu'ainsi, par une application analogique de l'art. 202 al. 1 let. b CPP, dans la procédure d'opposition,
+le mandat de comparution doit être notifié au moins dix jours avant la date de l'acte de procédure
+visé,
+qu'en l'espèce, suite à son opposition formée le 26 septembre 2011 contre l'ordonnance
+pénale rendue à son encontre le 15 septembre 2011, X.________ a été cité à
+comparaître à une audience fixée par le procureur au 6 octobre 2011,
+que le mandat de comparution est daté du 28 septembre 2011,
+que le délai de dix jours prévu par l'art. 202 al. 1 let. b CPP n'a dès lors pas été
+respecté,
+qu'il s'ensuit que la décision de retrait de l'opposition du 12 octobre 2011 doit être annulée
+et une nouvelle audience fixée;
+attendu, en définitive, que le recours doit être admis et l'ordonnance annulée,
+que le dossier est renvoyé au Procureur de l'arrondissement de Lausanne pour qu'il fixe une nouvelle
+audience,
+que les frais de la procédure de recours, constitués en l'espèce de l'émolument du
+présent arrêt (art. 422 al. 1 CPP), par 440 fr. (art. 20 al. 1 TFJP, RSV 312.03.01), seront
+laissés à la charge de l'Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance.
+III.
+Renvoie le dossier au Procureur de l'arrondissement
+de Lausanne pour qu'il fixe une nouvelle audience.
+IV.
+Dit que les frais de la procédure de recours,
+par 440 fr. (quatre cent quarante francs), sont laissés à la charge de l'Etat.
+V.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. X.________,
+-
+Mme J.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
