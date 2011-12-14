@@ -1,0 +1,327 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 6"
+decided: "2011-12-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3079889"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 6
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.12.2011 Faillite / 2012 / 6
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 LP
+
+TRIBUNAL
+CANTONAL
+FF11.003603-110979
+534
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 décembre 2011
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Diserens, ad hoc
+*****
+Art.
+174 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+G.________
+,
+à Commugny, contre le jugement rendu le 4 avril 2011 par le Président du Tribunal d’arrondissement
+de La Côte, prononçant la faillite du recourant à la requête de
+A.________
+,
+à Zoug.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 19 novembre 2010, à la réquisition de A.________, l’Office des poursuites du district
+de Nyon a notifié à G.________, dans le cadre de la poursuite n° 5'603'650, un commandement
+de payer les sommes de 17'634 fr. 15, plus intérêt au taux de 5 % l’an dès le 7
+juillet 2010, et de 1'330 fr., sans intérêt.
+Le poursuivi n’a pas formé opposition. Une commination de faillite lui a été notifiée
+le 20 décembre 2010 dans la même poursuite. Le 25 janvier 2011, la poursuivante a requis la
+faillite du débiteur.
+2.
+Le 4 avril 2011, statuant par défaut de la partie requérante, la présidente du Tribunal
+d’arrondissement de La Côte a prononcé la faillite de G.________, le jour même à
+16 heures 15 (I) et a mis les frais, par 200 fr., à la charge du failli (II).
+Ce jugement, envoyé aux parties le 4 avril, leur a été notifié à chacune le
+6 avril 2011.
+3.
+a)
+G.________ a recouru contre ce jugement par
+acte d’emblée motivé du 15 avril 2011, concluant à l’annulation de la faillite.
+A l’appui de son écriture, le recourant a notamment produit les pièces suivantes :
+-
+un extrait du registre des poursuites de l’Office
+du district de Nyon au 14 avril 2011, indiquant qu’il fait l’objet de 31 poursuites pour
+un montant total de 175'995 fr. 40, dont huit poursuites portent la mention « payée »
+et douze poursuites, dont celle faisant l’objet du présent arrêt, en sont au stade de
+la notification de la commination de faillite ;
+-
+un bilan final pour l’exercice 2009, établi
+le 18 mars 2010, faisant état d’un bénéfice pour l’exercice 2009 d’un
+montant de 34'457 fr. 12 ;
+-
+une liste de factures en souffrance pour
+les années 2007 à 2011, établie le 12 avril 2011 par le recourant, pour un montant
+total de 71'417 fr. 40 ;
+-
+un lot de devis de son entreprise « C.________ »,
+portes et portails automatiques, datés de 2009 à 2011, dont certains ne sont pas signés
+pour acceptation.
+b)
+Par
+acte du même jour, le failli a requis la restitution de délai au sens de l’art. 148 CPC
+et demandé l’effet suspensif. Par décision du 18 avril 2011, le président du Tribunal
+d’arrondissement de La Côte a prononcé l’effet suspensif jusqu’à droit
+connu sur la requête de restitution de délai.
+Par décision adressée pour notification aux parties le 15 juin 2011, à la suite d’une
+audience du 16 mai 2011, la présidente du Tribunal d’arrondissement de La Côte a rejeté
+la requête de restitution de délai et révoqué l’effet suspensif accordé
+le 18 avril 2011.
+Le 20 juin 2011, le recourant a renouvelé sa requête d’effet suspensif, qui a été
+admise par décision du président de la cour de céans du 21 juin 2011.
+Par courrier du 22 juin 2011, l’intimée a informé la cour de céans que le recourant
+s’était intégralement acquitté de la créance à l’origine de la poursuite,
+raison pour laquelle elle retirait sa réquisition de faillite et sollicitait l’annulation
+du prononcé de faillite. Elle a renouvelé cette conclusion dans le courrier qu’elle a
+déposé dans le délai de réponse, le 18 août 2011.
+c)
+Figure
+encore au dossier un nouvel extrait du registre des poursuites, établi au 29 juin 2011, sur lequel
+le recourant a eu l’occasion de se déterminer. Il ressort de ce document que le recourant
+fait l’objet de 38 poursuites, introduites du 3 avril 2009 au 17 juin 2011, pour un montant total
+de 178'720 fr. 90. Quinze poursuites, dont la poursuite n° 6'603'650, qui ne sont pas comprises
+dans le montant précité de 178'720 fr. 90, sont indiquées comme payées, certaines
+pour quelques milliers de francs, d’autres pour des montants inférieurs à 50 francs.
+Le total des poursuites payées depuis le 14 avril 2011 est de 31'178 fr. 90. Sept comminations de
+faillites ont été notifiées pour un total de 79'721 fr. 05. Huit nouvelles poursuites
+impayées et non frappées d’opposition ont été introduites contre le failli
+depuis le précédent extrait, pour un total de 39'444 fr. 05. Ces nouvelles poursuites émanent
+de caisses de prévoyance.
+En droit
+:
+I.
+a)
+Depuis le 1
+er
+janvier 2011, la procédure de recours contre un jugement de faillite est régie par les dispositions
+applicables au recours selon les art. 319 et suivants CPC [Code de procédure civile du 19 décembre
+2008 ; RS 272] (Giroud, Basler Kommentar, n. 1 in fine ad art. 174 LP ; Bosshard, Le recours
+contre le jugement de faillite, in JT 2010 II 113 ss, pp. 125-126). Aux termes de l’art. 326 al. 1
+CPC, les conclusions, les allégations de faits et les preuves nouvelles sont irrecevables. Toutefois,
+l’art. 326 al. 2 CPC réserve les dispositions spéciales de la loi, par quoi il faut entendre
+non seulement les règles de procédure, mais toute norme de droit fédéral (Spühler,
+Basler Kommentar, n. 3 ad art. 326 CPC). En particulier, cette réserve vise les règles spécifiques
+de la LP, dont l’art. 174 LP qui régit le recours contre le jugement de faillite (Jeandin,
+CPC commenté, n. 4 ad art. 326 CPC).
+Selon  l’art.
+174 LP, dans sa teneur en vigueur depuis le 1
+er
+janvier 2011, la décision du juge de la faillite peut, dans les dix jours, faire l’objet d’un
+recours au sens du CPC, les parties pouvant faire valoir des faits nouveaux (nova) lorsque ceux-ci se
+sont produits avant le jugement de première instance (al. 1) ; selon le deuxième alinéa
+de cette disposition, l’autorité de recours peut annuler le jugement de faillite lorsque le
+débiteur rend vraisemblable sa solvabilité et qu’il établit par titre que l’une
+des conditions suivantes a été remplie : la dette, intérêts et frais compris,
+a été payée (ch. 1), la totalité du montant à rembourser a été déposée
+auprès de l’autorité de recours à l’intention du créancier (ch. 2) ou
+le créancier a retiré sa réquisition de faillite (ch. 3). La loi différencie ainsi
+deux types de nova : ceux qui se sont produits avant le jugement de première instance (pseudo-nova
+– al. 1 2
+ème
+phrase) et ceux qui se sont produits après (vrais nova – al. 2) (Giroud, op. cit., n.
+17 ad art. 174 LP). Il est possible de faire valoir les pseudo-nova sans aucune restriction (Giroud,
+op. cit., n. 19 ad art. 174 LP ; Bosshard, op. cit., p. 126 ; FF 1991 III 1 ss, p. 130 ;
+TF 5A_571/2010 du 2 février 2011 c. 2.2, publié in SJ 2011 I 149). En revanche, seul le débiteur
+peut apporter de vrais nova et il doit le faire dans la motivation du recours ou en tout cas avant l’échéance
+du délai de recours (Giroud, op. cit., n. 20 ad art. 174 LP).
+b)
+En
+l’espèce, le recours écrit et motivé, accompagné du jugement de faillite et
+introduit auprès de l’instance de recours dans le délai de dix jours suivant la notification
+de ce jugement, est recevable formellement (art. 174 al. 1 LP ; art. 321 CPC).
+Les pièces produites
+par le recourant le 15 avril 2011, qui tendent à démontrer sa solvabilité, sont également
+recevables.
+II.
+Selon l’art. 171 LP, le juge saisi d’une
+réquisition de faillite doit prononcer celle-ci, sauf dans les cas mentionnés aux art. 172
+à 173a LP.
+Aucun de ces cas n'étant
+réalisé en l'espèce, c’est à juste titre que le premier juge a prononcé
+la faillite du recourant.
+III.
+a)
+En vertu de l’art. 174 al. 2 LP, l’autorité
+de recours peut annuler le jugement de faillite lorsque le débiteur rend vraisemblable sa solvabilité
+et qu’il établit par titre que la dette, intérêts et frais compris, a été
+payée ou que la totalité de la somme à rembourser a été déposée à
+l’intention du créancier, ou encore que celui-ci a retiré sa réquisition de faillite.
+En l’espèce,
+l’intimée a écrit à la cour de céans que la créance à l’origine
+de la poursuite n° 5’6003'650 (recte 5'603'650) avait été intégralement payée,
+qu’elle retirait sa réquisition de faillite et requérait l’annulation du prononcé
+de faillite. La première condition posée par la loi pour pouvoir annuler la faillite est ainsi
+remplie.
+b)
+Le recourant doit ensuite rendre vraisemblable
+sa solvabilité. Un fait est rendu vraisemblable si le juge, dans son libre examen, aboutit à
+la conviction qu’il correspond avec une probabilité suffisante aux allégations de la
+partie (TF 5P.146/2004 du 14 mai 2004 et les références citées).
+La solvabilité au
+sens de l’art. 174 al. 2 LP se définit par opposition à l’insolvabilité au
+sens de l’art. 191 LP (Giroud, op. cit., n. 25 ad art. 174 LP). Cette dernière n’équivaut
+pas au surendettement mais consiste en l’incapacité du débiteur, en raison d’un
+manque de liquidités qui n’apparaît pas seulement temporaire, de payer ses dettes échues.
+Dès lors que la loi se contente d’une simple vraisemblance, il ne faut pas poser d’exigences
+trop sévères quant à la solvabilité : celle-ci est rendue vraisemblable lorsqu’elle
+apparaît plus vraisemblable que l’insolvabilité, en particulier lorsque la viabilité
+de l’entreprise ne saurait être déniée d’emblée (Giroud, op. cit., n.
+26 ad art. 174 LP ; TF 5A_529/2008 du 25 septembre 2008 ; TF5P.129/2006 du 30 juin 2006 ;
+TF 5P.456/2005 du 17 février 2006 ; TF 5P.80/2005 du 15 avril 2005).
+S’il ne doit pas
+prouver sa solvabilité de manière stricte, le débiteur ne peut toutefois se contenter
+de simples allégations, mais doit fournir des indices tels que les récépissés de
+paiements, des justificatifs de moyens financiers à sa disposition, des listes de ses débiteurs,
+un extrait du registre des poursuites, des comptes annuels récents avec bilan intermédiaire,
+cette liste n’étant pas exhaustive. Il faut examiner concrètement la situation du débiteur,
+par comparaison entre ses actifs et ses passifs. Des difficultés momentanées de trésorerie,
+même si elles amènent un retard dans le paiement des dettes, ne sont pas à elles seules
+un indice d’insolvabilité. A l’inverse, l’absence de poursuite en cours n’est
+pas une preuve absolue de solvabilité ; elle constitue toutefois un indice sérieux de
+la capacité du débiteur de s’acquitter de ses engagements échus, en particulier
+lorsqu’il s’agit d’une personne physique (CPF, 2 octobre 2008/483 ; CPF, 13 juin
+2002/229).
+c)
+En l’espèce, le recourant, qui exploite
+une entreprise de portes et portails automatiques, fait valoir qu’il a dû interrompre son
+activité durant quelques semaines en raison de problèmes de dos et que les clients ne le paient
+qu’avec des délais de 90 à 120 jours, raisons pour lesquelles il a dû faire face
+à un manque de liquidités momentané. Il a cependant repris son activité et il ne
+s’agirait ainsi pas d’une insolvabilité installée.
+Il ressort des pièces
+produites par le recourant que ce dernier a des factures en souffrance auprès de ses clients pour
+un montant total de 71'417 fr. 40 et qu’il a établi plusieurs devis entre les mois de septembre
+2009 et février 2011. Les comptes de l’exercice 2009 de sa société laissent apparaître
+un bénéfice de 34'457 francs 12. L’extrait du registre des poursuites produit par le
+recourant et établi le 14 avril 2011 fait état de 31 poursuites pour un total de 175'995
+fr. 40. Huit poursuites portent la mention « payées » et douze poursuites, dont
+la poursuite objet du présent arrêt, en étaient au stade de la notification de la commination
+de faillite. Selon un extrait plus récent, au 29 juin 2011, le recourant faisait l’objet de
+38 poursuites introduites entre le 3 avril 2009 et le 17 juin 2011 pour un montant total de 178'720 francs
+90. Quinze poursuites, dont la poursuite n° 6'603'650, sont indiquées comme payées, soit
+quelques unes de plus qu’au mois d’avril, certaines pour quelques milliers de francs, d’autres
+pour des montants inférieurs à 50 francs. Le total du montant des poursuites payées en
+plus s’élèvent à 31'178 fr. 90. Sept comminations de faillite ont été
+notifiées, en particulier dans les poursuites n° 5'704'582 et n° 5'548'112 , pour
+un montant total de 79'721 fr. 05. En outre, huit poursuites nouvelles impayées et non frappées
+d’opposition ont été introduites contre le failli depuis le précédent extrait,
+pour un total de 39'444 fr. 05. Les nouvelles poursuites émanent de caisses de prévoyance et
+concernent manifestement des cotisations sociales.
+Au vu de ce qui précède,
+on ne saurait retenir que la solvabilité du recourant est rendue vraisemblable. Celui-ci n’indique
+pas quand et pendant combien de temps il a été en incapacité de travail, ni depuis quand
+il a repris son activité, de sorte qu’il n’est pas possible de déterminer l’incidence
+de ces circonstances sur ses chances de redresser sa situation financière. Si le recourant a effectivement
+réglé des poursuites depuis le précédent extrait, il a aussi fait l’objet de
+nouvelles poursuites, pour un montant supérieur. Toutes ces nouvelles poursuites sont restées
+sans opposition et elles concernent des cotisations d’assurances sociales. Les poursuites au stade
+de la notification de la commination de faillite représentent quant à elles un montant de 79'721
+fr. 05. Le recourant ne rend pas vraisemblable qu'il dispose des liquidités pour faire face à
+ses paiements. Il invoque certes des factures en souffrance chez ses clients mais sur la base d’une
+liste qu’il a lui-même établie ; en outre, plusieurs de ces factures datent de 2007
+à 2009, de sorte que l’on peut douter de leurs chances d’être honorées. Il
+en va de même s’agissant des devis, qui ne sont pas tous signés et dont on ignore quels
+sont les travaux qui ont été ou qui seront effectivement exécutés. Le recourant n’a
+par ailleurs produit aucun compte récent ; les comptes 2009, vu leur ancienneté, n'apportent
+aucun renseignement utile dans le cadre du présent recours. On ignore tout du chiffre d’affaires
+2011 du recourant et de ses charges. On ignore également s’il est en mesure de faire face
+à ses charges courantes. Eu égard aux poursuites en cours contre le recourant, dont le montant
+total a augmenté, on doit au contraire admettre qu’il se trouve actuellement en cessation
+de paiement.
+Il résulte de l'examen
+concret de la situation du recourant que son insolvabilité est plus vraisemblable que sa solvabilité.
+La deuxième condition exigée par la loi pour annuler la faillite n’est ainsi pas remplie.
+IV.
+Le recours doit en conséquence
+être rejeté et le jugement de première instance confirmé, la faillite du recourant
+prenant effet, compte tenu de l’effet suspensif accordé, le 14 décembre 2011, à
+16 heures 15.
+Les frais de deuxième
+instance du recourant sont arrêtés à 300 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de G.________ prenant effet le 14 décembre 2011,
+à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+Il n'est pas alloué de dépens de deuxième
+instance.
+Le
+président :               La greffière
+:
+Du
+14 décembre 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. [...], agent d’affaires breveté (pour G.________),
+‑
+A.________,
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l’arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier du district de Nyon,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte
+.
+La greffière :
