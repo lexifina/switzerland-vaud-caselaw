@@ -1,0 +1,204 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 27"
+decided: "2011-12-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3051739"
+cites_law: ["switzerland/bund/acts/172.056.1/art-023.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-352.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-427.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 27
+
+## Regeste
+
+ORDONNANCE DE CONDAMNATION, DÉCISION SUR OPPOSITION | 352 CPP (CH), 354 CPP (CH), 393 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.12.2011 Décision / 2012 / 27
+
+ORDONNANCE DE CONDAMNATION, DÉCISION SUR OPPOSITION | 352 CPP (CH), 354 CPP (CH), 393 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+592
+PE10.021728-PGT/FDX
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 16 décembre 2011
+__________________
+Présidence
+de               Mme
+Epard
+,
+vice-présidente
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffière
+:              Mme
+de Watteville
+*****
+Art.
+352, 354 et 393 al. 1 let. b CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+par
+A.T.________
+contre le prononcé rendu le 31 octobre 2011 par la Présidente du Tribunal d'arrondissement
+de la Broye et du Nord vaudois dans la cause
+n° PE10.021728-PGT/FDX
+.
+Elle considère:
+EN
+FAIT:
+A.
+a) Par ordonnance pénale
+rendue le 9 août 2011, le Ministère public de l’arrondissement du Nord vaudois a déclaré
+B.T.________ coupable de lésions corporelles simples qualifiées et menaces qualifiées
+(I), l’a condamné à une peine pécuniaire de 45 (quarante-cinq) jours-amende, avec
+sursis pendant 2 (deux) ans, le montant du jour-amende étant fixé à 40 fr. (quarante francs)
+(II), l’a condamné à une amende de 200 fr. (deux cents francs), convertible en 5 (cinq)
+jours de peine privative de liberté de substitution en cas de non-paiement fautif (III), a pris
+acte de la reconnaissance de dette à hauteur de 500 fr. (cinq cents francs) de B.T.________ en faveur
+d'A.T.________ (IV), a renvoyé A.T.________ a agir pour le surplus devant les autorités compétentes
+en matière civile (V) et a mis les frais de la procédure, par 600 fr. (six cents francs), à
+la charge de B.T.________ (VI).
+b) Par courrier du 16 août 2011 (P. 15), A.T.________ a formé opposition contre cette ordonnance
+pénale, en faisant valoir que la condamnation prononcée à l’encontre de B.T.________
+aurait dû être « beaucoup plus lourde » et qu’elle n’acceptait
+pas non plus la « somme dérisoire » de 500 fr. à titre de tort moral.
+c) Le 22 août 2011 (P. 16), le Procureur de l’arrondissement du Nord vaudois a transmis le
+dossier au Tribunal de police de l’arrondissement du Nord vaudois pour statuer sur la validité
+de l’opposition (cf. art. 356 al. 2 CPP), en précisant qu’il estimait cette opposition
+irrecevable.
+B.
+a) Par prononcé rendu
+le 31 octobre 2011, qui n’a toutefois été notifié à A.T.________ que par pli
+recommandé du 6 décembre 2011 retiré le 9 décembre 2011, la Présidente du Tribunal
+d’arrondissement du Nord vaudois (recte : le Tribunal de police de l’arrondissement
+du Nord vaudois) a déclaré irrecevable l’opposition interjetée par A.T.________
+(I), a dit que l’ordonnance pénale rendue le 9 août 2011 était exécutoire (II),
+a ordonné le retour du dossier au Ministère public de l’arrondissement du Nord vaudois
+(III) et a dit que les frais de cette décision par 200 fr. étaient laissés –
+en équité – à la charge de l’Etat (IV).
+b) Par acte du 12 décembre 2011 (P. 19), remis à la Poste le même jour, A.T.________ a
+déclaré recourir auprès de la Chambre des recours pénale du Tribunal cantonal contre
+le prononcé du 31 octobre 2011.
+EN
+DROIT:
+1.
+a) Aux termes de l’art.
+393 al. 1 let. b CPP, le recours est recevable contre les ordonnances, les décisions et les actes
+de procédure des tribunaux de première instance, sauf contre ceux de la direction de la procédure.
+Le prononcé par lequel un tribunal de première instance déclare irrecevable une opposition
+formée contre une ordonnance pénale rendue par le Ministère public (cf. art. 356 al. 2
+CPP) est ainsi susceptible de recours selon les art. 393 ss CPP (Gilliéron/Killias, in Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 5 ad art.
+356 CPP, p. 1587; Riklin, in Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische
+Strafprozessordnung, Jugendstrafprozessordnung, Bâle 2011, n. 2 ad art. 356 CPP, p. 2407).
+Ce recours s’exerce auprès de l’autorité de recours (cf. art. 20 al. 1 let. b
+CPP), qui dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [loi d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV
+[loi d’organisation judiciaire; RS 173.01]). Le recours doit être adressé par écrit,
+dans un délai de dix jours dès la notification de la décision attaquée (cf. art.
+384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP).
+En l’espèce, il y a donc lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente.
+2.
+a) L’opposition
+(art. 354 CPP) est la seule voie de droit contre l’ordonnance pénale (art. 352 et 353 CPP),
+susceptible de déclencher la procédure ordinaire dans laquelle un juge déterminera le
+bien-fondé des accusations portées contre le prévenu dans l’ordonnance pénale
+(Gilliéron/Killias, op. cit., n. 1 ad art. 354 CPP, p. 1579). La qualité pour former
+opposition appartient au prévenu (art. 354 al. 1 let. a CPP), aux autres personnes concernées
+(art. 354 al. 1 let. b CPP) – par exemple aux tiers dont les intérêts sont touchés
+par une mesure de confiscation (cf. art. 353 al. 1 let. h CPP), qui ne peuvent alors former opposition
+que dans la mesure où la décision porte atteinte à leurs intérêts (Riklin, op.
+cit., n. 8 ad art. 354 CPP, p. 2400; Gilliéron/Killias, op. cit, n. 2 et 4 ad art. 354
+CPP, pp. 1579 et 1580; Schwarzenegger, in Donatsch/Hansjakob/Lieber (éd.), Kommentar zur Schweizerischen
+Strafprozessordnung, 2010, n. 4 ad art. 354 CPP, p. 1741) – et au procureur général du
+canton (art. 354 al. 1 let. c CPP; 29 al. 1 LVCPP [RSV 312.01]; cf. art. 23 al. 5 LMP-VD [RSV 173.21];
+sur le tout : CREP, 30 juin 2011/311, c. 2a, in JT 2011 III 173).
+b) Le parlement a suivi la proposition de la Commission d’experts «Unification de la procédure
+pénale» en supprimant le droit d’opposition de la partie plaignante, tel qu’il
+était prévu dans le projet du Conseil fédéral; en effet, comme une ordonnance pénale
+ne peut jamais contenir d’acquittement et que les prétentions civiles sont renvoyées
+au procès civil dans le cas où le prévenu ne les reconnaîtrait pas (art. 353 al.
+2 CPP), la partie plaignante n’a pas de raisons valables pour bénéficier de ce droit
+(Gilliéron/Killias, op. cit, n. 28 ad art. 352 CPP, pp. 1572 s. et n. 3 ad art. 354 CPP,
+p. 1579; Riklin, op. cit., n. 6 ad art. 354 CPP, p. 2399; Schwarzenegger, op. cit., n. 5 ad art. 354
+CPP, p. 1741). Si la partie plaignante n’a ainsi pas de droit général d’opposition,
+tel qu’il est reconnu au prévenu et au procureur général (cf. art. 354 al. 1
+let. a et c CPP), elle peut néanmoins dans certains cas se voir reconnaître la qualité
+pour former opposition en tant que personne concernée au sens de l’art. 354 al. 1 let.
+b CPP (Riklin, op. cit., n. 9 ad art. 354 CPP, p. 2400; Gilliéron/Killias, op. cit, n. 3
+ad art. 354 CPP, p. 1579; Schwarzenegger, op. cit., n. 5 ad art. 354 CPP, p. 1741). Tel peut être
+le cas, selon la doctrine, lorsque l’ordonnance de condamnation contient un classement implicite
+sur certains chefs d’accusation, lorsque la qualification juridique retenue par le procureur a
+des conséquences préjudiciables pour les prétentions civiles de la partie plaignante,
+lorsque des frais sont mis à la charge de cette dernière (cf. art. 353 al. 1 let. g et art. 427
+al. 1 let. c CPP), lorsque l’indemnité réclamée par la partie plaignante pour les
+dépenses occasionnées par la procédure lui a été refusée (cf. art.
+353 al. 1 let. g et art. 433 CPP), ou encore lorsqu’il n’est pas fait mention dans l’ordonnance
+pénale des prétentions civiles reconnues par le prévenu (cf. art. 353 al. 2
+CPP) (Riklin, op. cit., n. 10, 11, 12, 13 et 15 ad art. 354 CPP, pp. 2400 s.; Schwarzenegger,
+op. cit., n. 5 ad art. 354 CPP, p. 1741; Gilliéron/Killias, op. cit, n. 3 ad art. 354 CPP,
+pp. 1579 s.; sur le tout : CREP, 30 juin 2011/311, c. 2b, in JdT 2011 III 173).
+c) En l’espèce, c’est à juste titre que le Tribunal de police a considéré
+qu’A.T.________, en tant que partie plaignante, n’avait pas la qualité pour former opposition
+à l’ordonnance pénale du 9 août 2011, puisqu’elle n’a pas de droit général
+d’opposition, s’agissant notamment de la quotité de la peine, et que l’ordonnance
+pénale du 9 août 2011 a dûment mentionné la reconnaissance par B.T.________ de prétentions
+civiles d'A.T.________ à hauteur de 500 fr. (chiffre IV du dispositif) et renvoyé A.T.________
+à agir pour le surplus devant les autorités compétentes en matière civile (chiffre
+V du dispositif), en parfaite conformité avec l’art. 353 al. 2 CPP.
+3.
+Il résulte de ce
+qui précède que le recours, manifestement mal fondé, doit être rejeté sans autres
+échanges d’écritures (art. 390 al. 2 CPP). Les frais de la procédure de recours,
+constitués en l’espèce du seul émolument d'arrêt (art. 422 al. 1 CPP),
+par 550 fr. fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]), seront
+mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos
+prononce :
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 31 octobre 2011 est confirmé.
+III.
+Les frais de la présente procédure de
+recours, par 550 fr. (cinq cent cinquante francs), sont mis à la charge de A.T.________ qui succombe.
+IV.
+Le présent arrêt est exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme A.T.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois,
+-
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
