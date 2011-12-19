@@ -1,0 +1,362 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___68"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 68"
+decided: "2011-12-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3015208"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-039.md", "switzerland/bund/acts/281.1/art-077.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-160.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-173.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 68
+
+## Regeste
+
+AJOURNEMENT DE LA FAILLITE, OUVERTURE DE LA FAILLITE | 172 LP, 173 al. 2 LP, 173 LP, 173a al. 2 LP, 173a LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.12.2011 Faillite / 2011 / 68
+
+AJOURNEMENT DE LA FAILLITE, OUVERTURE DE LA FAILLITE | 172 LP, 173 al. 2 LP, 173 LP, 173a al. 2 LP, 173a LP
+
+TRIBUNAL
+CANTONAL
+FF11.018217-111200
+540
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 décembre 2011
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              M.
+Bosshard et Mme Rouleau
+Greffière
+:              Mme
+Tchamkerten
+*****
+Art.
+172, 173, 173a et 174 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+N.________SA
+,
+à Payerne, contre le jugement rendu le 8 juin 2011, à la suite de l’audience du 7 juin
+2011, par le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois, prononçant
+la faillite de la recourante à la réquisition de
+R.________SA
+,
+à Saint-Légier-La Chiésaz, et de
+J.________SA
+,
+à Fribourg.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 26 janvier 2011, à la réquisition de J.________SA, l'Office des poursuites du district de
+La Broye - Vully a notifié à N.________SA, dans la poursuite n° 5'646'170, un commandement
+de payer la somme de 1'500 fr. plus intérêt à 8 % l'an dès le 14 mai 2010, la cause
+de l'obligation étant "
+Créance
+cédée : Commission professionnelle paritaire de la plâtrerie peinture du canton de Fribourg.
+Facture du 14.04.2010
+", ainsi que le montant
+de 168 fr. sans intérêt représentant les "
+Frais
+de créancier, selon art. 103/106 CO
+".
+La poursuivie n'a pas formé opposition.
+Une commination de faillite lui a été notifiée le 26 février 2011 dans la même
+poursuite. Le 12 avril 2011, la poursuivante a requis la faillite de la débitrice.
+b)
+Le 16 février 2011, à la réquisition de R.________SA, l'office des poursuites précité
+a notifié à N.________SA un commandement de payer dans la poursuite n° 5'668'807
+portant sur la somme de 50'513 fr. 10 avec intérêt à 5 % l'an dès le 26 novembre
+2010, invoquant comme titre de la créance ou cause de l'obligation "
+Compte
+client 300007081, factures du 30.07.2010 au 13.10.10
+".
+La poursuivie n'a pas formé opposition.
+Une commination de faillite lui a été notifiée le 23 mars 2011 dans cette même poursuite.
+Le 6 mai 2011, la poursuivante a requis la faillite de N.________SA.
+2.
+Statuant à la suite de l'audience du 7 juin
+2011, à laquelle les parties ont fait défaut, le Président du Tribunal d'arrondissement
+de La Broye et du Nord vaudois a prononcé la faillite de N.________SA le même jour à 11
+heures 55 (I), ordonné la liquidation sommaire de cette faillite (II) et mis les frais, par 200
+fr., à la charge de la faillie (III).
+Ce jugement a été adressé pour notification aux parties le 8 juin 2011. La faillie l'a
+reçu le 10 juin 2011.
+3.
+N.________SA a recouru contre cette décision
+par acte du 20 juin 2011, concluant, avec suite de frais et dépens, principalement à son annulation,
+subsidiairement à l'ajournement de la faillite et, plus subsidiairement encore, à l'octroi
+d'un sursis concordataire.
+A
+l'appui de son recours, la recourante a produit notamment les pièces suivantes :
+-
+un extrait internet du registre du commerce la concernant;
+-
+un extrait internet du registre du commerce concernant la société " N.________SA, Victoria,
+Mahé, Seychelles, succursale de Sévaz en liquidation";
+-
+un extrait des registres 8a LP (loi fédérale sur la poursuite pour dettes et la faillite du
+11 avril 1889, RS 281.1) la concernant, établi par l'Office des poursuites du district de La Broye
+– Vully le 16 juin 2011, dont il ressort que le solde dû en faveur de R.________SA s'élève
+à 37'081 fr. 90 et que la poursuite intentée par J.________SA n'a pas été réglée;
+-
+un extrait des comptes créanciers et débiteurs de N.________SA non daté ni signé;
+-
+une lettre qui lui avait été envoyée le 4 avril 2011 par R.________SA, par laquelle cette
+dernière indiquait prendre note que la dette à l'origine de la réquisition de faillite
+serait acquittée à raison de trois versements de 15'000 fr. les 10 avril, 10 mai et 10 juin
+2011 et d'un versement de 5'513 fr. 10 plus intérêts et frais le 10 juillet 2011, et précisait
+que, si le plan de paiement précité n'était pas respecté, elle demanderait la faillite
+de la poursuivie;
+-
+un extrait du compte courant de la recourante faisant état des opérations effectuées entre
+le 20 mai et le 15 juin 2011;
+-
+diverses factures et demandes d'acomptes adressées par la recourante à ses clients.
+La recourante a formulé des réquisitions de production de pièces auxquelles il n'a pas
+été donné suite.
+Elle a également requis l'effet suspensif, qui a été accordé par décision du
+président de la cour de céans du 5 juillet 2011, ordonnant à titre de mesures conservatoires,
+l'inventaire et l'audition de la faillie.
+Le 6 juillet 2011, le président de la cour de céans a transmis à la recourante un extrait
+au 29 juin 2011 des registres 8a LP de l'Office des poursuites du district de La Broye – Vully,
+en lui impartissant un délai non prolongeable au 3 août 2011 pour se déterminer au sujet
+de cette pièce, si elle le souhaitait. Par courrier daté du 3 août 2011 et posté
+le lendemain, la recourante s'est déterminée en produisant des pièces.
+Le 12 août 2011, R.________SA a déposé sa réponse, indiquant qu'un solde de quelque
+15'000 fr. restait dû en sa faveur et qu'elle en préférait le règlement à une
+faillite. J.________SA ne s'est pas déterminée.
+En droit
+:
+I.
+a)
+Le recours a été introduit auprès
+de l'instance de recours conformément à l'art. 321 al. 1 CPC (Code de procédure civile
+du 19 décembre 2008, RS 272). Déposé le 20 juin 2011, il a été formé
+en temps utile, dans le délai de dix jours de l'art. 174 al. 1 LP. Le recours est en outre suffisamment
+motivé, de sorte qu'il est recevable formellement (art. 321 al. 1 CPC). Les déterminations
+de la recourante sur l'extrait des poursuites la concernant, déposées le lendemain de l'échéance
+du délai imparti à cet effet par le président de la cours de céans, soit tardivement,
+sont en revanche irrecevables.
+b)
+La production de pièces nouvelles en deuxième instance est autorisée en matière de
+faillite pour faire valoir des faits nouveaux (nova) sous certaines conditions. La loi différencie
+deux types de nova : ceux qui se sont produits avant le jugement de première instance (pseudo-nova
+– art. 174 al. 1, 2
+ème
+phrase LP)
+et ceux qui se sont produits après (vrais nova – art. 174 al. 2 LP) (Giroud, Basler Kommentar,
+n. 17 ad art. 174 LP). Il est possible de faire valoir les pseudo-nova sans aucune restriction (Giroud,
+op. cit., n. 19 ad art. 174 LP; Bosshard, Le recours contre le jugement de faillite, in JT 2010
+II 113 ss, p. 126; FF 1991 III 1 ss, p. 130; TF 5A_571/2010 du 2 février 2011 c. 2.2, publié
+in SJ 2011 I 149). En revanche, seul le débiteur peut apporter de vrais nova et il doit le faire
+dans la motivation du recours ou en tout cas avant l'échéance du délai de recours (Giroud,
+op. cit., n. 20 ad art. 174 LP).
+En l'espèce, les pièces produites avec le recours, qui sont antérieures à la faillite
+ou tendent à établir la solvabilité de la recourante, sont recevables. En revanche, les
+pièces produites après le délai de recours sont irrecevables.
+c)
+A titre de mesures d'instruction, la recourante a requis la production de pièces, savoir les dossiers
+des causes FF11.015014 et FF11.018217 par le greffe du Tribunal d'arrondissement de La Broye et du Nord
+vaudois, le dossier complet la concernant par l'Office des poursuites de La Broye - Vully, le dossier
+de la faillite de la société N.________SA, succursale de Sévaz en liquidation, prononcée
+en 2010 par le Tribunal de La Broye, ainsi que, en mains de J.________SA, toutes les pièces justificatives
+concernant sa "
+pseudo-créance de Fr.
+1'500.- ou Fr. 1'966.65
+".
+Les dossiers FF11.015014
+et FF11.018217 font précisément l'objet de la présente cause et ont été transmis
+par le Tribunal d'arrondissement de La Broye et du Nord vaudois avec le recours, de sorte que la réquisition
+est sans objet. Quant aux autres pièces requises, elles ne sont d'aucune pertinence pour l'examen
+du recours. Il n'a dès lors pas été donné suite aux réquisitions de la recourante.
+II.
+a)
+La recourante soutient que sa faillite
+a été prononcée à tort. Se fondant sur l'art. 320 CPC, elle invoque une constatation
+manifestement inexacte des faits ainsi qu'une violation du droit.
+Les art. 319 et suivants CPC ne sont applicables en matière de poursuites et faillites que sous
+réserve de la
+lex specialis
+que constitue la LP. Ainsi, la partie qui recourt contre un jugement de faillite ne peut faire valoir
+que les moyens résultant des art. 172 à 174 LP.
+Selon l’art. 171 LP, le juge saisi d’une réquisition de faillite doit prononcer celle-ci,
+sauf dans les cas mentionnés aux art. 172 à 173a LP.
+Le juge prononce la faillite
+si la réquisition est accompagnée d’un commandement de payer passé en force et d’un
+acte de commination de faillite régulièrement notifiés, si le délai d’atermoiement
+de vingt jours de l’art. 160 al. 1 ch. 3 LP est écoulé, s’il est compétent
+à raison du lieu et si le poursuivi est bien sujet à la poursuite par voie de faillite (Bosshard,
+op. cit., p. 121).
+Selon l'art. 172 LP, le juge rejette la réquisition de faillite lorsque l’autorité de
+surveillance a annulé la commination de faillite (ch. 1), lorsqu’il a été accordé
+au débiteur la restitution d’un délai au sens de l’art. 33 al. 4 LP ou le bénéfice
+d’une opposition tardive au sens de l’art. 77 LP (ch. 2 LP), ou lorsque le débiteur
+justifie par titre que la créance a été acquittée en capital, intérêts
+et frais ou que le créancier lui a accordé un sursis (ch. 3). En outre le juge doit rejeter
+la réquisition lorsque son incompétence
+ratione
+loci
+est évidente, si le droit de présenter
+la réquisition de faillite était périmé parce que le délai de quinze mois à
+compter de la notification du commandement de payer prévu par l’art. 166 al. 2 LP était
+échu, si la clôture d’une précédente faillite déclarée à l’encontre
+du failli n’a pas encore été prononcée, s’il existe un motif évident
+de nullité au sens de l’art. 22 LP qui puisse être établi
+prima
+facie
+par le juge de la faillite, par exemple
+lorsque le poursuivi n’est pas inscrit au registre du commerce en l’une des qualités
+énumérées à l’art. 39 LP ou si, de toute évidence, la partie poursuivie
+n’existe pas ou n’existe plus (Bosshard, op. cit., p. 121 et les références citées
+aux notes infrapaginales nn. 35 à 39).
+Conformément à
+l'art. 173 LP, le juge doit ajourner sa décision sur le jugement de la faillite si la suspension
+de la poursuite a été ordonnée par l’autorité de surveillance saisie d’une
+plainte à laquelle elle a accordé l’effet suspensif ou si le juge a prononcé la
+suspension provisoire de la poursuite en application de l’art. 85 ou de l’art. 85a al. 2 LP
+(al. 1). Il doit également ajourner sa décision et soumettre le cas à l’autorité
+de surveillance, s’il estime qu’une décision nulle a été rendue dans la procédure
+antérieure (al. 2), cette disposition étant d'application restrictive, pour des motifs de sécurité
+du droit. Sont nulles les mesures contraires à des dispositions édictées dans l'intérêt
+public ou dans l'intérêt des personnes qui ne sont pas parties à la procédure (art.
+22 al. 1 LP).
+Le juge de la faillite doit également ajourner sa décision s’il a des doutes sur sa compétence
+ratione loci
+ou
+sur la régularité de la commination de faillite (Bosshard, op. cit., p. 122 et les références
+citées aux notes infrapaginales nn. 40 et 41). Selon l'art. 173a al. 2 LP, il peut ajourner
+d'office le jugement de faillite lorsqu'un concordat paraît possible. Cette norme constitue toutefois
+une mesure d'exception dans le système du droit de l'exécution forcée et doit être
+appliquée restrictivement (Cometta, Commentaire romand, n. 7 ad art. 173a LP; Gilliéron, Commentaire
+de la loi sur la poursuite pour dettes et la faillite, n. 14 ad art. 173a LP).
+b)
+aa)
+Dans un premier moyen, la recourante fait valoir que la débitrice de l'intimée J.________SA
+serait en réalité une autre société, dont la raison sociale est presque identique
+à la sienne, savoir la société " N.________SA, Victoria, Mahé, Seychelles, succursale
+de Sévaz en liquidation". Pour ce motif, le premier juge aurait dû, selon elle, ajourner
+la faillite sur la base de l'art. 173 al. 2 LP.
+A supposer que la recourante ne soit pas la débitrice de la société intimée J.________SA
+– ce  qui n'est ni établi ni même rendu vraisemblable en l'espèce -, la poursuite
+ne serait pas pour autant considérée comme nulle au sens de l'art. 22 al. 1 LP. Partant, c'est
+à bon droit que le premier juge n'a pas ajourné la faillite pour cette raison.
+Mal fondé, ce moyen doit être rejeté.
+bb)
+Dans un second moyen, la recourante soutient que R.________SA lui avait accordé un sursis par lettre
+du 4 avril 2011 et que le premier juge aurait dû rejeter la requête de faillite pour ce motif.
+Elle explique avoir déjà payé 15'000 fr. et qu'il demeure un solde de 37'081 fr. 90.
+En l'espèce, l'intimée R.________SA avait effectivement accepté un plan de paiement. Comme
+l'a toutefois admis la recourante, et ainsi qu'il ressort de la pièce 8 produite, ce plan n'a pas
+été respecté puisqu'au jour du recours, un seul acompte avait été payé
+alors que trois auraient dû l'être. Dans ces conditions, la créancière était
+fondée à requérir la faillite, comme elle en avait du reste avisé la recourante par
+son courrier du 4 avril 2011.
+Ce moyen est par conséquent infondé.
+cc)
+Invoquant l'art. 173a al. 2 LP, la recourante
+fait enfin valoir qu'elle n'est pas en situation de surendettement et que le juge aurait dû ajourner
+d'office le jugement de faillite, un concordat paraissant possible.
+En l'espèce, la recourante ne propose aucun projet de concordat et se limite à reprocher au
+premier juge de ne pas avoir examiné d'office si les conditions en étaient remplies. Or, le
+dossier de la faillite ne contient que la requête de faillite, la commination de faillite et le
+commandement de payer, ce qui ne permet pas d'apprécier la perspective de l'homologation d'un concordat.
+Sans un projet de concordat, il est impossible d'établir un pronostic. L'extrait des comptes débiteurs
+et créanciers produit par la recourante (P. 6), non daté ni signé, est insuffisant à
+cet égard. Le droit fédéral ne prescrit pas au juge de la faillite d'instruire et d'établir
+d'office les éléments qui lui sont nécessaires (Gilliéron, op. cit., n. 14 ad art. 173a LP).
+dd)
+Au vu de ce qui précède, les conditions pour rejeter la réquisition de faillite ou ajourner
+la décision de faillite sur la base des art. 172 à 173a LP n'étant pas réunies, c'est
+à juste titre que le premier juge a prononcé la faillite de la recourante.
+III.
+a)
+En vertu de l'art. 174 al. 2 LP, la décision
+du juge de la faillite peut être déférée à l'autorité de recours, qui peut
+annuler le jugement lorsque le débiteur, en déposant le recours, rend vraisemblable sa solvabilité
+et établit par titre que depuis lors la dette, intérêts et frais compris, a été
+payée (ch. 1) ou que la totalité de la somme à rembourser a été déposée
+auprès de l'autorité de recours à l'intention du créancier (ch. 2), ou encore que
+celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions, soit le paiement
+de la dette à l'origine de la faillite ou le retrait de la requête de faillite et la vraisemblance
+de la solvabilité sont cumulatives (Bosshard, op. cit., p. 127).
+b)
+En l'espèce, la recourante n'invoque aucune de ces hypothèses. Elle n'a en particulier pas
+établi avoir payé les dettes à l'origine de la faillite. De son propre aveu, la créance
+de R.________SA n'a pas été entièrement réglée, un solde de 15'000 fr. plus
+accessoires légaux demeurant dû. Ainsi, la première des conditions exigées par la
+loi pour annuler la faillite n'étant pas remplie, il n'y a pas lieu d'examiner si la recourante
+a rendu vraisemblable sa solvabilité.
+IV.
+Le recours doit ainsi être rejeté et le jugement confirmé, la faillite de la recourante
+prenant effet, compte tenu de l'effet suspensif accordé, le 19 décembre 2011 à 16 heures
+15.
+Les frais de deuxième instance de la recourante sont arrêtés à 300 francs. Il
+n'y a pas lieu à l'allocation de dépens aux intimées, dès lors que R.________SA a
+procédé sans l'assistance d'un mandataire professionnel et que J.________SA ne s'est pas déterminée.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de N.________SA prenant effet le 19 décembre 2011, à
+16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+Il n'est pas alloué de dépens de deuxième instance.
+Le
+président :               La greffière
+:
+Du
+19 décembre 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+N.________SA,
+-
+R.________SA,
+‑
+J.________SA,
+-
+M. le Préposé à l'Office des poursuites de La Broye - Vully,
+-
+M. le Préposé à l'Office des faillites de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, office de La Broye,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et, en original, à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
