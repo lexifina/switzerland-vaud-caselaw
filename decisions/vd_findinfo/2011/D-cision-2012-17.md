@@ -1,0 +1,234 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 17"
+decided: "2011-12-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3059812"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-024.md", "switzerland/bund/acts/311.0/art-025.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-071.md", "switzerland/bund/acts/312.0/art-029.md", "switzerland/bund/acts/312.0/art-030.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-407.md", "switzerland/bund/acts/312.0/art-409.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2012 / 17
+
+## Regeste
+
+DISJONCTION DE CAUSES | 30 CPP (CH), 393 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 20.12.2011 Décision / 2012 / 17
+
+DISJONCTION DE CAUSES | 30 CPP (CH), 393 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+595
+PE08.025989-HNI/YBL/ROU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 20 décembre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Abrecht
+Greffière
+:              Mme
+de Watteville
+*****
+Art.
+30, 393 al. 1 let. b CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur les recours interjetés
+par
+U.________
+,
+l'Etat de Vaud et le Ministère public de l'arrondissement de l'Est vaudois contre le prononcé
+de disjonction rendu le 16 novembre 2011 par le Président du Tribunal d'arrondissement de l'Est
+vaudois dans la cause
+n° PE08.025989-HNI/YBL/ROU
+.
+Elle considère:
+EN
+FAIT:
+A.
+a) U.________, qui est
+depuis 2006 l’actionnaire principal et l’administrateur avec signature individuelle de la
+société C.________SA, a été renvoyé, selon ordonnance de renvoi du 13 septembre
+2010, devant le Tribunal de police de l’arrondissement de l’Est vaudois notamment pour dommages
+à la propriété. Il lui était reproché en substance d’avoir intentionnellement
+procédé à une coupe de plus d’une vingtaine d’arbres, sis pour partie sur
+une parcelle de l’Etat de Vaud, afin de faire bénéficier deux chalets de luxe à
+Villars-sur-Ollon, qu’il souhaitait vendre, d’une vue dégagée sur les Dents-du-Midi.
+Par jugement du 21 juillet 2011, le Tribunal de police a acquitté U.________ et rejeté les
+conclusions civiles de l’Etat de Vaud.
+b) Par jugement du 27 septembre 2011, la Cour d’appel pénale du Tribunal cantonal a notamment
+admis l’appel du Ministère public, modifié partiellement le jugement de première
+instance – notamment en ce sens qu’elle a constaté que U.________ s’était
+rendu coupable de dommages à la propriété – et annulé ce jugement pour le surplus,
+« la cause étant renvoyée au Tribunal de police de l’arrondissement de l’Est
+vaudois afin que le tribunal en complète l’instruction dans le sens des considérants,
+puis statue sur la peine à prononcer à l’encontre de U.________ pour dommages à
+la propriété, d’une part, et sur la créance compensatrice éventuellement due,
+en faveur de l’Etat de Vaud, par U.________, respectivement par C.________SA, d’autre part ».
+La cour d’appel a notamment exposé ce qui suit au considérant 5.2 de son jugement :
+« 5.2 C.________SA ne s’est pas déterminée et n’a pas été attraite
+à la procédure. Il n’est pas à exclure que cette société puisse être
+débitrice de tout ou partie de la créance compensatrice, voire d’une créance compensatrice
+distincte de celle qui pourrait être mise à la charge du prévenu. En effet, c’est
+dans le cadre de ses fonctions d’organe de la société que l’intimé a commis
+les dommages à la propriété pour lesquels il doit être poursuivi et a perpétré
+les infractions aujourd’hui prescrites. Sauf à priver la société du bénéfice
+de la première instance, soit de la garantie de la double instance cantonale, elle ne saurait être
+attraite à la procédure en appel seulement.
+Il s’ensuit que la cour de céans ne peut statuer sur la créance compensatrice, laquelle
+ne doit nullement être tenue a priori pour irrécouvrable selon l’art. 70 al. 2 CP. Le
+fait que C.________SA n’a pas été attraite à la procédure constitue ainsi un
+vice relevant de l’art. 409 al. 1 CPP. Il s’agit d’une lacune dirimante qui justifie,
+partant, l’annulation du jugement pour ce qui est de la créance compensatrice. Il appartient
+au premier juge d’attraire la société à la procédure en qualité de partie
+selon l’art. 105 al. 1 let. f CPP et d’examiner les conditions de principe d’une éventuelle
+créance compensatrice à sa charge, cas échéant d’en fixer la quotité après
+avoir procédé à toutes les mesures d’instruction idoines. »
+B.
+Après avoir mis en
+cause C.________SA, société concernée par une éventuelle confiscation, par avis du
+17 octobre 2011, et recueilli les déterminations des parties relatives à l’éventualité
+– soulevée d’office – d’une disjonction de la cause de C.________SA, le
+Président du tribunal d’arrondissement (recte : le Tribunal de police) a rendu le 16
+novembre 2011 un prononcé par lequel il a ordonné la disjonction de la cause de C.________SA
+d’avec celle dirigée contre U.________ pour dommages à la propriété (I), dit
+qu’il était sursis à toute nouvelle opération dans la cause de C.________SA jusqu’à
+droit connu sur l’action dirigée contre U.________ (II) et dit que les frais de ce prononcé,
+par 200 fr., suivaient le sort des frais de la cause dirigée contre C.________SA (III).
+Il a considéré en bref que si le tribunal de police était lié par les considérants
+de fait et de droit de l’arrêt de renvoi de la cour d’appel pénale (cf. art. 407
+al. 3 CPP) pour juger la cause de U.________ (qui ne pouvait remettre en cause notamment la matérialité
+de l’infraction), il était en revanche loisible à C.________SA (qui n’était
+pas partie à la procédure lorsque la Cour d’appel pénale avait statué) de faire
+valoir tous ses moyens, y compris sur les questions de fait et de droit tranchées par l’arrêt
+de renvoi, de sorte qu’il se justifiait d’ordonner la disjonction de la cause de C.________SA
+d’avec celle de U.________.
+C.
+a) L’Etat de Vaud
+a recouru par acte du 22 novembre 2011 auprès de la Chambre des recours pénale contre le prononcé
+de disjonction de cause du 16 novembre 2011, en concluant à son annulation. Tant le  Procureur
+de l’arrondissement de l’Est vaudois que le prévenu U.________ en ont fait de même
+par actes du 25 novembre 2011.
+b) Dans ses déterminations du 5 décembre 2011, le Président du Tribunal d'arrondissement
+de l'Est vaudois s'est référé à sa décision du 16 novembre 2011 (P. 142).
+L'Etat de Vaud a renoncé à déposer des déterminations, ayant recouru contre le prononcé
+du 16 novembre 2011 (P. 143).
+Dans ses déterminations du 8 décembre 2011, le Ministère public a conclu à l'admission
+du recours déposé par U.________ et s'est référé au recours qu'il avait lui-même
+déposé (P. 144).
+EN
+DROIT:
+1.
+a) Aux termes de l’art.
+393 al. 1 let. b CPP (Code de procédure pénale suisse; RS 312.0), le recours est recevable
+contre les ordonnances, les décisions et les actes de procédure des tribunaux de première
+instance, sauf contre ceux de la direction de la procédure.
+La décision par laquelle un tribunal de première instance ordonne la jonction ou la disjonction
+de procédures pénales (art. 30 CPP) est susceptible d’un recours immédiat au sens
+des art. 393 ss CPP (CREP 3 novembre 2011/475, c. 1c; Stephenson/ Thiriet, in Niggli/Heer/Wiprächtiger
+(éd.), Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, Bâle
+2011, n. 10 ad art. 393 CPP).
+b) Il y a donc lieu d'entrer en matière sur les recours interjetés en temps utile (cf. art.
+384 let. b CPP) par l’Etat de Vaud, par le Ministère public de l’arrondissement de l’Est
+vaudois et par U.________, toutes parties qui ont qualité pour recourir (art. 382 CPP), contre le
+prononcé de disjonction de cause du 16 novembre 2011.
+2.
+a) L’art. 30 CPP
+prévoit que si des raisons objectives le justifient, le ministère public et les tribunaux peuvent
+ordonner la jonction ou la disjonction de procédures pénales. Cette disposition autorise des
+exceptions au principe de l’unité de la procédure prévu par l’art. 29 al.
+1 CPP, aux termes duquel les infractions sont poursuivies et jugées conjointement lorsqu’un
+prévenu a commis plusieurs infractions (let. a) ainsi que lorsqu’il y a plusieurs coauteurs
+ou participation (let. b).
+Le ministère public et les tribunaux peuvent ainsi ordonner la disjonction de procédures dirigées
+contre un même prévenu à raison de différentes infractions (cf. art. 29 al. 1 let.
+a CPP) ou la disjonction de procédures dirigées contre plusieurs coauteurs ou participants
+– instigateurs (cf. art. 24 CP) ou complices (cf. art. 25 CP) – à l’infraction
+(cf. art. 29 al. 1 let. b CPP).
+b) Or en l’espèce, il n’existe – après le jugement de la Cour d’appel
+pénale – qu’une infraction et qu’un prévenu, en l’absence de tout autre
+participant à l’infraction en question. S’il ressort des considérants du jugement
+de la Cour d’appel pénale du 27 septembre 2011 qu’il n’est pas à exclure
+que C.________SA puisse être débitrice de tout ou partie de la créance compensatrice qui
+pourrait être mise à la charge du prévenu, voire d’une créance compensatrice
+distincte de celle-ci (cf. art. 71 ch. 1 CP), de sorte que cette société doit participer
+à la procédure en tant que tiers touché par des actes de procédure au sens de l’art.
+105 al. 1 let. f CPP, cela ne peut être le cas que dans la procédure dirigée contre U.________,
+aucune procédure pénale n’étant dirigée contre C.________SA.
+Il n’apparaît donc pas possible de disjoindre « la cause de C.________SA »
+d’avec celle dirigée contre U.________ pour dommages à la propriété, puisqu’il
+ne peut exister qu’une procédure, à savoir celle dirigée contre U.________ à
+laquelle C.________SA a été attraite comme participante à la procédure selon l’art.
+105 al. 1 let. f CPP.
+3.
+Il résulte de ce
+qui précède que les recours interjetés par l’Etat de Vaud, par le Ministère
+public de l’arrondissement de l’Est vaudois et par U.________ contre le prononcé de
+disjonction de cause du 16 novembre 2011 doivent être admis et le prononcé en question annulé.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux;
+RSV 312.03.1]
+),
+seront laissés à la charge de l’Etat (art. 428 al. 4 CPP).
+S'agissant des dépens réclamés
+par U.________, ils suivent le sort de la cause au fond et pourront être compris dans l'indemnité
+éventuelle à forme de l'art. 429 CPP.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos
+prononce :
+I.
+Les recours interjetés par l’Etat de Vaud, par le Ministère public de l’arrondissement
+de l’Est vaudois et par U.________ contre le prononcé de disjonction de cause rendu le 16
+novembre 2011 par le Tribunal de police de l’arrondissement de l’Est vaudois sont admis.
+II.
+Le prononcé est annulé.
+III.
+Les frais de la procédure de recours, par
+660 fr. (six cent soixante francs), sont laissés à la charge de l’Etat.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Filippo Ryter, avocat (pour U.________),
+-
+C.________SA,
+-
+Service juridique & législatif,
+-
+Service des forêts, de la faune et de la nature,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+-
+M. le Président du Tribunal d'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
