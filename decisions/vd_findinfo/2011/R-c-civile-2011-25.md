@@ -1,0 +1,353 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2011___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2011 / 25"
+decided: "2011-12-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3027991"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-060.md", "switzerland/bund/acts/272/art-042.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-051.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-096.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-183.md", "switzerland/bund/acts/272/art-222.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# VD Findinfo Réc-civile / 2011 / 25
+
+## Regeste
+
+RÉCUSATION, EXPERT | 6 par. 1 CEDH, 42 CPC, 29 Cst., 30 al. 1 Cst., 183 al. 2 CPC (CH), 320 CPC (CH), 50 al. 2 CPC (CH), 51 al. 1 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 21.12.2011 Réc-civile / 2011 / 25
+Vaud Tribunal cantonal Cour administrative 21.12.2011 Réc-civile / 2011 / 25
+Vaud Tribunal cantonal Cour administrative 21.12.2011 Réc-civile / 2011 / 25
+
+RÉCUSATION, EXPERT | 6 par. 1 CEDH, 42 CPC, 29 Cst., 30 al. 1 Cst., 183 al. 2 CPC (CH), 320 CPC (CH), 50 al. 2 CPC (CH), 51 al. 1 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+JQ10.013195
+33/2011
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 21 décembre 2011
+________________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+42 CPC-VD; art. 50 al. 2, 51 al. 1 et 183 al. 2 CPC; 8a al. 7 CDPJ
+Vu la requête d'expertise hors procès déposée le 9 avril 2010 par F.________ et T.________
+à l'encontre de X.________ SA par-devant la Justice de paix du district de Nyon qui conclut notamment
+à ce qu'un expert soit désigné en la personne d'Q.________,
+vu le procès-verbal de l'audience du 10 juin 2010, à laquelle les parties ont été
+entendues au sujet du choix de l'experte,
+vu le procès-verbal de la séance de mise en œuvre de l'expertise qui a eu lieu le 1
+er
+novembre 2010,
+vu la requête déposée le 18 novembre 2010 par X.________ SA par-devant la Juge de paix
+du district de Nyon (ci-après: la Juge de paix) et dont les conclusions sont les suivantes:
+"I.
+L'experte Q.________ est récusée et sa nomination en tant qu'experte est révoquée;
+II.
+Toutes les démarches effectuées par l'experte jusqu'à ce jour sont invalidées;
+III.
+Le temps consacré inutilement par la requérante aux opérations invalidées est indemnisé
+à hauteur de CHF 5'000.- ;
+IV.
+Le tout avec suite de frais et dépens."
+vu les déterminations d'Q.________ du 6 décembre 2010,
+vu la décision de la Juge de paix du 5 janvier 2011 rejetant la requête de récusation
+de l'experte,
+vu le recours exercé par X.________ SA à l'encontre de cette décision par-devant la cour
+de céans,
+vu l'arrêt de la cour de céans du 31 janvier 2011 (CA 4/2011) admettant le recours, annulant
+la décision de la Juge de paix et renvoyant la cause à l'autorité de première instance
+pour nouvelle décision,
+vu les déterminations du 4 avril 2011 de Me Z.________, conseil de F.________ et T.________,
+vu les observations complémentaires du 9 mai 2011 de Me Z.________,
+vu le jugement incident rendu par la Juge de paix le 5 juillet 2011 rejetant la requête de récusation
+de l'experte Q.________ et maintenant la désignation de celle-ci,
+vu le recours déposé le 15 juillet 2011 par X.________ SA à l'encontre de ce jugement
+incident concluant à titre préalable à ce que l'effet suspensif soit accordé au recours
+(1), et principalement à ce que le recours soit admis (2), à ce que le jugement incident du
+5 juillet 2011 soit annulé (3), à ce que l'experte soit récusée et sa nomination
+révoquée (4), à ce que toutes les démarches qu'elle a effectuées soient invalidées
+(5) et à ce que le temps consacré inutilement par Swisshaus SA aux opérations invalidées
+soit indemnisé à hauteur de 5'000 fr. (6), le tout sous suite de frais et dépens (7),
+vu la décision du 26 juillet 2011 rendue par le vice-président de la Chambre des recours civile
+du Tribunal cantonal accordant l'effet suspensif au recours de X.________ SA et imposant à l'experte
+de surseoir à toute opération dans le cadre de son mandat jusqu'à droit connu sur le recours,
+vu les déterminations du 13 octobre 2011 de Me Z.________, conseil de F.________ et T.________,
+se référant aux déterminations d'ores et déjà déposées les 4 avril
+et 9 mai 2011 et concluant, sous suite de frais et dépens, au rejet du recours,
+vu les pièces du dossier;
+attendu que le litige a trait à la récusation d'un expert,
+que la procédure pendante devant la Justice de paix du district de Nyon a été ouverte
+dans le courant de l'année 2010, soit avant l'entrée en vigueur du CPC (Code de procédure
+civile du 19 décembre 2008; RS 272), de sorte qu'elle est régie par le CPC-VD (Code de procédure
+civile vaudois du 14 décembre 1966; RSV 270.11),
+qu'à teneur de l'art. 405 CPC toutefois, les recours sont régis par le droit en vigueur au
+moment de la communication de la décision aux parties,
+que le jugement entrepris a été rendu le 5 juillet 2011, soit après l'entrée en vigueur
+du CPC, de sorte que les voies de recours doivent être examinées sous l'angle du nouveau droit,
+qu'à teneur de l'art. 183 al. 2 CPC, les motifs de récusation des magistrats et des fonctionnaires
+judiciaires sont applicables aux experts,
+que l'art. 50 al. 2 CPC, par renvoi, prévoit que la décision sur récusation peut faire
+l'objet d'un recours au sens des art. 319 ss CPC,
+qu'ainsi, même si l'art. 222 al. 3 CPC-VD ne prévoyait pas de recours contre une décision
+statuant sur la récusation d'un expert, un recours
+stricto
+sensu
+au sens des art. 319 ss CPC est ouvert à
+l'encontre d'une telle décision, à condition qu'elle ait été communiquée aux
+parties après le 1
+er
+janvier 2011, comme en l'espèce,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 du Code
+de droit privé judiciaire vaudois du 12 janvier 2010 [RSV 211.02] et 6 al. 1 let. a du Règlement
+organique du Tribunal cantonal du 13 novembre 2007 [RSV 173.31.1]),
+que le recours déposé par X.________ SA tend à l'annulation de la décision attaquée
+pour violation du droit constitutionnel, grief qui peut être invoqué au sens de l'art. 320
+CPC,
+que le recours a été déposé en temps utile,
+qu'il est donc recevable;
+attendu que la cour de céans fait sien l'état de fait tel qu'il ressort du jugement attaqué,
+complété par les pièces du dossier,
+qu'il ressort des déterminations respectives de l'experte Q.________ et de Me Z.________ qu'elles
+siègent toutes deux dans le comité du S.________ (ci-après: S.________), ce dernier étant
+organisé comme une association au sens des art. 60 ss CC (Code civil suisse du 10 décembre
+1907; RS 210),
+que l'experte est la présidente de ce comité,
+que Me Z.________ a été élue membre de ce comité le 31 mai 2010, notamment en raison
+du fait qu'elle est membre du Conseil de la Fondation [...] en qualité de trésorière,
+fondation qui entretient des liens étroits avec le S.________,
+qu'elle a siégé au comité du S.________ pour la première fois le 6 septembre
+2010, sous la présidence d'Q.________, avec six autres membres, une suppléante et une secrétaire,
+soit dix personnes au total,
+qu'au surplus, tant l'experte que Me Z.________ font valoir que leur activité au sein du S.________
+est bénévole, apolitique et non confessionnelle,
+qu'elle n'a de surcroît aucun lien, de prêt ou de loin, avec l'objet de l'expertise pour laquelle
+Q.________ a été désignée,
+que la recourante X.________ SA soutient en revanche que ce lien associatif suffit à créer
+une apparence de prévention de la part de l'experte en faveur de Me Z.________ et, corollairement,
+en faveur de ses clients, F.________ et T.________,
+qu'elle voit une tentative de dissimulation dans le fait que Me Z.________ n'a pas annoncé ces liens
+avec l'experte lors de l'audience du 10 juin 2010, alors qu'elle avait été élue le 31
+mai 2010 comme membre du comité du S.________,
+que la recourante fait également valoir que les déterminations du 6 décembre 2010
+de l'experte dénotent une animosité à son égard et à l'égard de son conseil,
+qu'enfin, la recourante soutient qu'un lien étroit existe entre l'experte et Me Z.________ puisqu'elles
+se sont tutoyées lors de la séance de mise en œuvre d'une expertise dans un dossier connexe
+(CA 32/2011) le 1
+er
+novembre 2010;
+attendu qu'à teneur de l'art. 42 CPC-VD – applicable vu la date du dépôt de la requête
+de récusation – les magistrats et les collaborateurs de l'ordre judiciaire et leurs suppléants
+peut être récusés ou se récuser spontanément si leurs relations avec une partie,
+son mandataire ou son avocat sont de nature à compromettre leur impartialité, seuls des motifs
+importants tels que notamment l'intérêt matériel ou moral au procès étant pris
+en compte,
+que d'une manière générale, la récusation d'un juge ou d'un tribunal ne doit pas
+être autorisée à la légère, mais uniquement pour des motifs sérieux, la
+récusation devant demeurer l'exception (ATF 116 Ia 14 c. 4, JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que la garantie du juge impartial, qui découle
+des art. 30 al. 1 de la Constitution fédérale de la Confédération suisse du
+18 avril 1999 (RS 101) et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme
+et des libertés fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1;
+ATF
+131 I 24 c. 1.1),
+que la garantie d'indépendance et d'impartialité vise au premier chef les juges, soit les personnes
+appelées à statuer en qualité de membre d'un tribunal, mais s'applique aussi, par analogie,
+aux experts judiciaires, dont les constatations et opinions sont susceptibles d'influencer l'issue du
+procès (TF 4A_6/2011 du
+22 mars 2011
+c. 2; ATF 126 III 249 c. 3c; ATF 125 II 541 c. 4a; ATF 120 V 357 c. 3a)
+que la récusation d'un expert judiciaire – qui ne fait pas partie du tribunal – s'examine
+ainsi au regard de l'art. 29 al. 1 Cst garantissant l'équité du procès (ATF 125 II 541
+c. 4a) et assurant au justiciable une protection équivalente à celle de l'art. 30 al. 1 Cst.
+s'agissant des exigences d'impartialité et d'indépendance requises d'un expert (TF 5A_435/2010
+du 28 juillet 2010 c. 3.2; ATF 127 I 196 c. 2b),
+que les parties à une procédure ont le droit d'exiger la récusation d'un expert dont la
+situation ou le comportement sont de nature à faire naître un doute sur son impartialité
+(TF 8C_1058/2010 du 1
+er
+juin 2011 c. 4.2),
+que la garantie d'impartialité n'impose pas la récusation seulement lorsqu'une prévention
+effective est établie – une disposition interne de l'expert ne pouvant guère être
+prouvée – mais il suffit que les circonstances donnent l'apparence de la prévention et
+fassent redouter une activité partiale (ATF 134 I 20 c. 4.2),
+que seules des circonstances constatées objectivement doivent cependant être prises en considération
+pour déterminer si une telle apparence existe, les impressions individuelles des parties n'étant
+pas décisives (ATF 134 I 20 c. 4.2; ATF 131 I 24 c. 1.1; ATF 124 I 121 c. 3a, JT 1999 I 159),
+qu'en l'espèce, l'experte a été désignée dans le cadre d'une procédure
+d'expertise hors procès, de sorte qu'elle agit comme expert judiciaire et les principes rappelés
+ci-dessus lui sont applicables,
+que la qualité de membres du S.________ de l'experte et du conseil de l'intimé ne suffit pas
+à faire naître une apparence de prévention objective et sérieuse,
+que cela est d'autant plus vrai que le S.________ est une association faîtière qui fédère
+environ quarante associations, clubs et fondations cantonales pour un total d'environ 10'000 membres,
+que même si les intéressées partagent une même sensibilité quant à la protection
+des intérêts des femmes, cela ne constitue pas un motif de récusation pertinent, notamment
+en raison du fait que l'expertise ordonnée n'a aucun rapport avec le but du S.________,
+qu'en revanche, au vu de la jurisprudence très récente du Tribunal fédéral (TF 1B_488/2001
+du 2 décembre 2011 c. 3.2), l'appartenance – en tant que présidente – de l'experte
+à une association à laquelle est liée le conseil de l'intimé – en tant que
+membre du comité exécutif – peut effectivement créer une apparence de prévention,
+que l'experte explique, dans ses déterminations du 6 décembre 2010, que Me Z.________ "a
+pu siéger au comité (...) la première fois le 6 septembre 2010" et que "les
+diverses obligations de [Me Z.________] ne lui ont pas permis de siéger à la séance suivante
+et très partiellement par la suite",
+qu'il y a donc eu plusieurs séances du comité entre le 6 septembre et le 6 décembre 2010,
+soit en seulement deux mois, ce qui démontre que le comité dont font partie les intéressées
+exerce une activité relativement soutenue,
+qu'ainsi, il n'est pas exclu que leurs rencontres régulières puissent créer des liens
+d'amitié, ce d'autant plus que le dépôt de la requête de récusation est intervenu
+le 18 novembre 2010, il y a plus d'une année,
+que le fait qu'elles se sont tutoyées lors de la séance du 11 novembre 2010 est un indice supplémentaire
+– même s'il ne s'agit pas d'un élément décisif (JT 1996 III 46) – que
+leur relation n'est pas purement professionnelle et formelle,
+que pour ces motifs déjà, objectifs et sérieux, les relations entre l'experte et le conseil
+de l'intimé créent une apparence de prévention incompatible avec les garanties de procédure
+dont doit bénéficier tout justiciable,
+que de plus, entre le dépôt de la requête d'expertise hors procès, le 9 avril
+2010, et l'audience du 10 juin 2010 devant la Juge de paix, un élément nouveau s'est produit,
+soit l'élection de Me Z.________ dans le comité du S.________ le 31 mai 2010,
+qu'on ne saurait considérer qu'il s'agit d'un élément banal, la procédure d'expertise
+hors procès ayant justement pour but d'obtenir l'avis d'un expert impartial afin d'éviter aux
+parties d'entamer un procès au fond,
+que malgré cet élément nouveau important, Me Z.________, au nom de son client, a maintenu
+sa proposition de désigner Q.________ en tant qu'experte,
+que même si l'on devait considérer que les principales intéressées n'accordaient
+pas – à tort – d'importance à cet élément, il n'en demeure pas moins
+qu'elles auraient dû le signaler afin que la recourante puisse valablement prendre position sur
+la nomination d'Q.________,
+qu'on ne peut pas en déduire que Me Z.________ ou l'experte auraient agi de mauvaise foi, mais ces
+circonstances constituent autant d'éléments objectifs qui créent une apparence de prévention
+de la part de l'experte,
+que de surcroît, on retiendra avec la recourante que les déterminations de l'experte du 6 décembre
+2010 répondent certes à la requête de récusation, mais laissent également transparaître
+une animosité peu adéquate de l'experte à l'égard du conseil de la recourante,
+que le jugement attaqué retient d'ailleurs à cet égard ce qui suit:
+"Il
+est vrai que Mme Q.________, dans sa détermination du 6 décembre 2010, semble avoir été
+piquée personnellement par cette demande de récusation et se défend, parfois même
+maladroitement, en faisant des reproches déguisés à la partie requérante et en mettant
+en doute les procédés du conseil de la requérante".
+que les circonstances du cas d'espèce comportent ainsi plusieurs éléments objectifs et
+sérieux qui font naître une apparence de prévention et redouter une activité partiale
+de la part de l'experte,
+qu'on rappellera à cet égard que la preuve de la prévention n'est pas nécessaire
+pour prononcer une récusation, l'apparence fondée sur des éléments objectifs et sérieux
+suffit (ATF 134 I 20 c. 4.2),
+qu'une telle situation est incompatible avec les garanties découlant des art. 29 et 30 Cst
+et 6 §1 CEDH,
+que le fait que le jugement attaqué invite "l'experte à se limiter à l'avenir à
+procéder à l'expertise, sans faire d'observation sur la pratique de l'une ou l'autre partie"
+n'amenuise en rien l'apparence de prévention de l'experte et n'écarte pas davantage le risque
+d'activité partiale dont se plaint à juste titre la recourante,
+que c'est ainsi à tort que le premier juge a estimé qu'il n'existait aucun motif de récusation
+à l'encontre de l'experte,
+que ce faisant, il a violé le droit constitutionnel, notamment les art. 29 et 30 Cst,
+que le recours doit ainsi être admis,
+que le jugement attaqué doit être réformé en ce sens que l'experte Q.________ est
+récusée et renvoyé à l'instance précédente pour que soit nommé un
+nouvel expert;
+attendu qu'en application de l'art. 51 al. 1 CPC, la recourante a conclu à ce que les opérations
+effectuées par l'experte récusée soient invalidées,
+que la recourante avait d'ores et déjà pris cette conclusion dans sa requête du 18 novembre
+2010, soit moins de dix jours après la séance de mise en œuvre de l'expertise du 11 novembre
+2010, lorsqu'elle a nourri des doutes sérieux quant à l'impartialité de l'experte,
+que cette demande intervient dès lors en temps utile (Tappy, CPC Commenté, nn. 3 et 5
+ad art. 51 CPC),
+que même si elle est globale, on ne saurait exiger de la recourante qu'elle énumère un
+à un tous les actes dont elle requiert l'invalidation, sous peine d'être formaliste à
+l'excès (Tappy, op. cit., n. 7 ad art. 51 CPC et les références citées),
+que la conclusion doit être admise, sous réserve de l'art. 51 al. 2 CPC;
+attendu que la recourante conclut à ce qu'un montant de 5'000 fr. lui soit alloué pour le temps
+inutilement consacré aux opérations invalidées,
+que l'on comprend de cette conclusion que la recourante requiert que lui soient alloués des dépens
+de première instance couvrant les opérations qu'elle a dû faire et qui s'avèrent,
+de par l'admission du présent recours, inutiles,
+qu'il ressort du dossier que la recourante a dû assister à l'audience du 10 juin 2010 et à
+la séance de mise en œuvre de l'expertise le 1
+er
+novembre 2010,
+qu'elle a par ailleurs déposé trois écritures par-devant la Juge de paix dans le cadre
+de la procédure de récusation de première instance, soit la requête du 18 novembre
+2010 (10 pages), les observations du 9 mars 2010 (12 pages) et les remarques du 18 mai 2011 (10
+pages),
+qu'au vu de ces opérations, des dépens à hauteur de 1'700 fr. peuvent lui être alloués
+(art. 14 al. 1 du Tarif des dépens en matière civile [TDC]; RSV 270.11.6), y compris le remboursement
+des frais judiciaires de première instance par 100 fr. (art. 2 al. 1 TDC),
+qu'ils seront inclus dans les dépens globaux alloués à la recourante à titre de dépens
+de seconde instance;
+attendu que les frais judiciaires de seconde instance sont arrêtés à 500 fr. à
+la charge de la recourante (art. 72 al. 1 du tarif des frais judiciaires en matière civile du 28
+septembre 2010; RSV 270.11.5),
+qu'obtenant gain de cause, la recourante a droit à de pleins dépens de deuxième instance
+(art. 95 al. 3 CPC), qu'il convient d'arrêter à 2'000 fr. (art. 96 CPC; art. 3 et 14 al. 2
+TDC), y compris le remboursement des frais judiciaires par 500 fr. (art. 2 al. 1 TDC), et de les mettre
+à la charge de l'intimé (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours est admis et le jugement incident rendu le 5 juillet 2011 par le Juge de paix du district
+de Nyon est annulé.
+II.
+La demande de récusation est admise et les opérations effectuées par l'experte Q.________
+sont invalidées et retirées du dossier.
+III.
+La cause est renvoyée à la Juge de paix du district de Nyon pour qu'elle désigne un nouvel
+expert.
+IV.
+Les frais de deuxième instance sont arrêtés à 500 fr. (cinq cents francs) à
+la charge de X.________ SA.
+V.
+F.________ et T.________ verseront, solidairement entre eux, à X.________ SA la somme de 3'700 fr.
+(trois mille sept cents francs) à titre de dépens et de remboursement des avances de frais.
+VI.
+Toutes autres ou plus amples conclusions sont rejetées.
+VII.
+Le présent arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Anton Henninger, Freiburgstrasse 10, case postale 141 à 3280 Morat, pour X.________ SA,
+-
+Me Z.________, [...], case postale [...], à [...], pour F.________ et T.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Q.________, Rue [...] à [...],
+-
+Mme le Juge de paix du district de Nyon, à Nyon.
+Le greffier :
