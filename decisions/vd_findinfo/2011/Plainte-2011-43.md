@@ -1,0 +1,432 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 43"
+decided: "2011-12-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3021515"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-005.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-102.md", "switzerland/bund/acts/281.1/art-138.md", "switzerland/bund/acts/281.1/art-155.md", "switzerland/bund/acts/281.1/art-157.md", "switzerland/bund/acts/281.42/art-016.md", "switzerland/bund/acts/281.42/art-020.md", "switzerland/bund/acts/281.42/art-021.md", "switzerland/bund/acts/281.42/art-101.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 43
+
+## Regeste
+
+POURSUITE EN RÉALISATION DE GAGE, GAGE IMMOBILIER, MISE SOUS RÉGIE, DOMMAGES-INTÉRÊTS, EXÉCUTION DE L'OBLIGATION | 102 al. 3 LP, 155 al. 1 LP, 157 al. 1 LP, 18 al. 1 LP, 101 al. 1 ORFI, 17 ORFI, 18 ORFI, 20 al. 1 ORFI, 21 al. 1 et 2 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.12.2011 Plainte / 2011 / 43
+
+POURSUITE EN RÉALISATION DE GAGE, GAGE IMMOBILIER, MISE SOUS RÉGIE, DOMMAGES-INTÉRÊTS, EXÉCUTION DE L'OBLIGATION | 102 al. 3 LP, 155 al. 1 LP, 157 al. 1 LP, 18 al. 1 LP, 101 al. 1 ORFI, 17 ORFI, 18 ORFI, 20 al. 1 ORFI, 21 al. 1 et 2 ORFI
+
+TRIBUNAL
+CANTONAL
+FA11.010106-111461
+47
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 décembre 2011
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Muller et M. Vallat, juge suppléant
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 102 al. 3, 155 al. 1 et 157 al. 1 LP; 17, 18, 20 al. 1, 21 al. 1 et 2 et 101 al. 1 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+E.________Sàrl
+,
+à Yverdon-les-Bains, contre la décision rendue le 27 juillet 2011, à la suite de l’audience
+du 18 mai 2011, par le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+autorité inférieure de surveillance, rejetant la plainte formée par la recourante contre
+le tableau de distribution et le compte de frais et charges déposés le 28 février 2011
+par l'
+Office
+des poursuites du district du Jura-Nord vaudois
+dans le cadre de la réalisation forcée d'un immeuble propriété de
+K.________SA
+en liquidation
+, à Yverdon-les-Bains.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+E.________Sàrl est une société
+sise à Yverdon-les-Bains, dont le but est toute activité dans le domaine de l'assistance aux
+petites et moyennes entreprises au niveau national et international.
+K.________SA était propriétaire d'un immeuble sis à l'avenue des Bains, à Yverdon-les-Bains
+(parcelle n° [...]). La faillite de cette société a été prononcée par jugement
+du 8 juillet 2010, sa raison de commerce devenant alors K.________SA en liquidation. La procédure
+de faillite, suspendue faute d'actif, a été clôturée le 24 septembre 2010.
+Par contrat du 10 décembre 1996, K.________SA a remis à bail à E.________Sàrl des
+locaux à l'usage d'un bar-dancing au sous-sol de l'immeuble précité ainsi que sur le mobilier
+s'y trouvant. Initialement conclu pour une durée d'un an à compter du 1
+er
+janvier 1997, le bail a été prolongé jusqu'au 1
+er
+avril 2013 par un avenant du 19 octobre 1998.
+b)
+L'immeuble en question a fait l'objet de poursuites en réalisation de gage immobilier introduites
+le 19 février 2004 par la Banque L.________. Dans un premier temps, la gérance légale
+a été confiée à une régie locale, avant d'être reprise par l'office des
+poursuites compétent – alors "Office des poursuites et faillites de l'arrondissement
+d'Yverdon-Orbe-La Vallée-Grandson". La banque créancière gagiste a requis la vente
+de l'immeuble le 9 février 2005. La vente aux enchères a eu lieu le 29 mai 2009 et l'immeuble
+a été adjugé pour le prix de 1'610'000 francs. Le nouveau propriétaire a été
+inscrit au registre foncier le 28 juillet 2009.
+c)
+Plusieurs procédures judiciaires ont divisé E.________Sàrl et sa bailleresse, respectivement
+le gérant légal de l'immeuble.
+Par jugement du 12 novembre 2007, le Tribunal des baux a, notamment, donné ordre à la bailleresse
+de faire procéder dans un délai d'un an à des travaux de réfection des locaux loués
+à E.________Sàrl et alloué à cette dernière la somme de 7'652 fr. à titre
+de dépens. Ce jugement a été confirmé par arrêt de la Chambre des recours du
+Tribunal cantonal du 29 mai 2009, allouant en outre à E.________Sàrl la somme de 1'500 fr.
+à titre de dépens de deuxième instance.
+Au cours des mois de janvier et avril 2008, les locaux loués par E.________Sàrl ont subi des
+dégâts d'eau, la première fois à la suite d'un incendie, la seconde fois à la
+suite d'une inondation.
+Le 10 avril 2008, le gérant légal de l'immeuble, soit l'Office des poursuites d'Yverdon, a
+avisé E.________Sàrl de la résiliation anticipée de son bail à loyer pour le
+31 octobre 2008.
+Saisi le 2 juin 2008 d'une requête portant sur la réfection des locaux et la validité
+de la résiliation anticipée, le Tribunal des baux, par jugement du 29 septembre 2008,
+dont les motifs ont été communiqués aux parties le 24 décembre 2009, a notamment
+donné ordre à la bailleresse, par son gérant légal, de procéder à la remise
+en état des locaux permettant la reprise de l'exploitation du bar, réduit le loyer dû
+à 0 fr. dès le 15 janvier 2008, dit que la résiliation de bail était inefficace et
+accordé des dépens à E.________Sàrl, par 4'933 francs.
+Une troisième procédure a été ouverte par la locataire, par demande adressée
+le 3 juin 2008 au Tribunal des baux, concluant notamment à ce que la bailleresse soit condamnée
+à lui payer les sommes suivantes :
+-
+221'924
+fr., plus intérêt à 5 % l'an dès le 15 mars 2008;
+-
+1'052
+fr. par jour dès le 1
+er
+mai 2008 et jusqu'à l'achèvement des travaux de réfection et d'assainissement permettant
+la reprise de l'exploitation du bar ou, à défaut, jusqu'à l'extinction des effets du bail;
+-
+708
+fr. par jour pendant deux ans à partir de l'achèvement des travaux de réfection permettant
+la reprise de l'exploitation du bar ou, à défaut, à partir de l'extinction des effets
+du bail.
+La procédure a été suspendue en raison de la faillite de K.________SA. Après la clôture
+de la faillite, la locataire s'est opposée à la radiation de la bailleresse et a requis la
+reprise de cause. La procédure est toujours pendante devant le Tribunal des baux.
+d)
+A la suite de la réalisation de l'immeuble, E.________Sàrl, par lettre du 4 juin 2009, a requis
+de l'Office des poursuites d'Yverdon que soient inscrits, au titre de frais de gérance (art. 20
+ORFI), les prétentions en dommages-intérêts contre le bailleur découlant de sa demande
+précitée du 3 juin 2008, savoir :
+- 221'924 fr.
+à titre de perte d'exploitation pour la période du 28 janvier au 30 avril 2008 (nonante-quatre
+jours à 2'361 fr. par jour);
+- 414'488 fr.
+à titre de perte d'exploitation (réduite) du 1
+er
+mai 2008 au 29 mai 2009 (trois cent nonante-quatre jours à 1'052 fr. par jour);
+- 12'642 fr.
+à titre de perte d'exploitation réduite du 30 mai au 12 juin 2009 (douze jours à 1'052
+fr. par jour);
+- 516'840 fr.
+à titre de compensation de la baisse du chiffre d'affaires durant deux ans à raison de la longue
+interruption d'exploitation (sept cent trente jours à 708 fr. par jour);
+- 9'152 fr.
+à titre de dépens de première et de deuxième instances (jugement du Tribunal des
+baux du 12 novembre 2007 et arrêt de la Chambre des recours du Tribunal cantonal du 29 mai 2009);
+- 4'933 fr.
+à titre de dépens de première instance (jugement du Tribunal des baux du
+12
+novembre 2008
+[recte : 29 septembre 2008].
+Dans un premier temps, l'Office des poursuites du district du Jura–Nord vaudois (ci-après
+: l'office) a refusé de déposer le tableau de distribution, décision contre laquelle E.________Sàrl
+a déposé une plainte. Par prononcé rendu le 16 décembre 2010, le Président
+du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure de surveillance,
+a admis la plainte et astreint l'office à déposer le tableau de distribution jusqu'au 1
+er
+mars 2011 au plus tard.
+Le 28 février 2011, l'office a déposé le compte de frais et le décompte d'administration
+de l'immeuble ainsi que le tableau de distribution. S'agissant des frais de gérance et d'administration,
+il a retenu les trois postes suivants :
+-
+2'621 fr. 95 (gérance légale);
+-
+2'115 fr. (procès en cours au Tribunal des baux durant la procédure de réalisation);
+-
+3'380 fr. (ensuite de l'incendie du bâtiment le 15 janvier 2008).
+e)
+Le
+9 mars 2011, E.________Sàrl a déposé une plainte contre le tableau de distribution et
+le compte de frais précités, concluant, avec dépens, à ce que la plainte soit admise
+(I), à ce que le tableau de distribution et le compte des frais de gérance litigieux soient
+modifiés principalement en ce sens qu'un montant supplémentaire est inscrit au titre de frais
+de gérance en faveur de la locataire à concurrence de 1'179'961 fr. (II), subsidiairement en
+ce sens qu'un montant supplémentaire est inscrit au titre de frais de gérance en faveur de
+la locataire à concurrence du montant des dommages-intérêts qui seront arrêtés
+en sa faveur par le jugement qui sera rendu par le Tribunal des baux dans le procès ouvert par la
+demande déposée le 3 juin 2008, qu'il soit en outre sursis au dépôt du tableau de
+distribution et à l'établissement du compte des frais de gérance jusqu'à droit connu
+sur ce procès (III) et, plus subsidiairement, à ce que le tableau de distribution et le compte
+de frais litigieux soient annulés (IV).
+Le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance, a prononcé l'effet suspensif et convoqué les parties à son audience du
+5 juillet 2011, par avis du 15 mars 2011.
+Le 24 mars 2011, la Banque L.________ a requis le retrait de l'effet suspensif et la fixation de l'audience
+à une date antérieure.
+Par avis du 25 mars 2011, les parties ont été citées à comparaître à l'audience
+du 18 mai 2011.
+L'office intimé a produit ses déterminations le 14 avril 2011, concluant au "rejet pur
+et simple" de la plainte "pour irrecevabilité tant en ce qui concerne le fond que sur
+la forme".
+La Banque L.________ s'est déterminée sur la plainte le 2 mai 2011, concluant, avec suite de
+frais et dépens, à son rejet.
+Par lettre du 17 mai 2011, K.________SA en liquidation a déclaré adhérer entièrement
+aux conclusions prises par l'office dans son écriture.
+Le même jour, la plaignante a déposé des "observations complémentaires".
+2.
+Par prononcé rendu à la suite de l'audience du 18 mai 2011 et adressé pour notification
+aux parties le 27 juillet 2011, l'autorité inférieure de surveillance a rejeté la plainte
+et dit que ce prononcé était rendu sans frais ni dépens. En bref, elle a considéré
+que la plaignante avait la qualité pour agir, invoquant à juste titre être touchée
+dans ses intérêts par le refus de l'office d'inclure ses prétentions dans les compte et
+tableau litigieux, mais que ses prétentions ne constituaient pas des frais de gérance légale,
+dès lors qu'elles n'avaient pas trait à la gestion de l'immeuble mais à une éventuelle
+responsabilité du gérant légal.
+3.
+La plaignante a recouru par acte du 8 août
+2011, concluant, avec dépens, à l'admission du recours (I), à la réforme du prononcé
+en ce sens que le tableau de distribution et le compte des frais de gérance litigieux sont modifiés
+et un montant supplémentaire est inscrit au titre de frais de gérance en faveur de la locataire,
+principalement, à concurrence de 1'179'961 fr. (II), subsidiairement, à concurrence du montant
+des dommages-intérêts qui seront arrêtés en sa faveur par le jugement qui sera rendu
+par le Tribunal des baux dans le procès ouvert par la demande déposée le 3 juin 2008 et
+il est en outre sursis au dépôt du tableau de distribution et à l'établissement du
+compte des frais de gérance jusqu'à droit connu sur ce procès (III).
+Par décision du 17 août 2011, le président de la cour de céans, autorité cantonale
+supérieure de surveillance, a admis la requête d'effet suspensif déposée avec le
+recours.
+La Banque L.________ s'est déterminée le 15 septembre 2011, concluant, avec suite de frais,
+au rejet du recours.
+K.________SA en liquidation, dans une écriture déposée le 16 septembre 2011, a conclu
+pour sa part au rejet de la plainte.
+Par lettre du 16 septembre 2011, l'office intimé a déclaré s'en tenir aux déterminations
+émises en première instance, soulignant que la locataire avait produit ses prétentions
+contre la bailleresse dans le délai imparti par l'office conformément à l'art. 138 LP,
+que ces prétentions avaient été  portées dans les conditions de vente de l'immeuble
+déposées le 24 avril et entrées en force le 5 mai 2009 et que ces "créances
+avec procédures" avaient été déléguées à l'adjudicataire de l'immeuble,
+à l'entière décharge de l'office.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes
+et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]) et dans
+les formes requises (art. 28 al. 2 et 3 LVLP), le recours est recevable.
+Les déterminations de l'office intimé et des intervenantes Banque L.________ et K.________SA
+en liquidation sont également recevables (art. 31 al. 1 LVLP).
+II.
+a)
+La poursuite en réalisation de gage immobilier se continue non pas par le dépôt d’une
+réquisition de continuer la poursuite, mais par une réquisition de vente. Il n’y a pas
+de saisie, l’objet dont le produit de la réalisation servira à désintéresser
+le créancier étant déjà déterminé (Gilliéron, Poursuite pour dettes,
+faillite et concordat, 4
+e
+éd., n. 525, p. 108).
+Selon l'art. 102 al. 3 LP, qui s'applique à la poursuite en réalisation de gage immobilier
+en vertu du renvoi de l'art. 155 al. 1 LP, l'office pourvoit à la gérance et à l’exploitation
+de l’immeuble. Précisant cette disposition, l'art. 101 ORFI (
+ordonnance
+du Tribunal fédéral du 23 avril 1920 sur la réalisation forcée des immeubles; RS
+281.42)
+prévoit que, dès la date de
+la réquisition de vente, l’office pourvoit à la gérance et à la culture de
+l’immeuble de la manière prévue, en matière de poursuite par voie de saisie, dès
+la date de la saisie (art. 155 al. 1 et 102 al. 3 LP; art. 16 et ss et 23
+c
+ORFI), à moins que le créancier poursuivant ne déclare expressément y renoncer.
+La durée et l'exercice en général de la gérance légale sont traités par
+l'art. 16 ORFI, les art. 17 et 18 ORFI réglant son étendue, en distinguant les mesures ordinaires
+de celles qui sont exceptionnelles.
+S'agissant des frais de gérance, l'art. 20 al. 1 ORFI prévoit que l’office tient un compte
+séparé des frais de la gérance, lequel doit être déposé en même temps
+que le tableau de distribution et peut faire l’objet de plainte aux autorités cantonales de
+surveillance; celles-ci statuent en dernier ressort, pour autant qu’il ne s’agisse pas de
+l’application de l’ordonnance sur les frais.
+Pour ce qui est des recettes et dépenses résultant de la gérance, elles doivent être
+au fur et à mesure inscrites par l’office dans un compte détaillé, qui peut être
+consulté en tout temps par le débiteur et par les créanciers poursuivants et qui doit
+être déposé en même temps que le tableau de distribution, les contestations éventuelles
+étant soumises à l’autorité de surveillance (art. 21 al. 1 et 2 ORFI).
+De manière générale, l'art. 157 al. 1 LP prévoit que le produit de la réalisation
+du gage sert en premier lieu à couvrir les frais d’administration – c'est-à-dire
+de gérance –, de réalisation et de distribution.
+b)
+En l'espèce, la recourante reproche notamment
+à l'office des poursuites de ne pas avoir procédé aux travaux de réfection ordonnés
+par le Tribunal des baux. Elle considère que ces travaux constituaient des mesures nécessaires
+au maintien de l'immeuble en bon état de rendement (art. 17 et 18 ORFI) et fait valoir que des mesures
+(ou l'absence de mesures) prises en relation avec le droit du bail et dont l'origine se situe dans la
+période de gérance légale ordinaire, soit après la réquisition de vente, sont
+assimilables à des actes de gérance légale en application des art. 17 et 18 ORFI. Selon
+elle, "lorsqu'une mesure prise par le gérant légal donne lieu à un contentieux avec
+un tiers, l'acte de gérance correspondant embrasse également la procédure qui s'ensuit
+(cf. ATF 37 I 99; Défago Gaudin, L'immeuble dans la LP : indisponibilité et gérance légale,
+thèse, Genève 2006, p. 149). Le jugement se prononce alors sur l'éventuelle nécessité
+de modifier la mesure initiale ainsi que, cas échéant, sa nouvelle forme. En cas d'imputation
+des frais et dépens, ceux-ci constituent des accessoires qui sont indissociables de la mesure modifiée".
+Se fondant sur l'avis de l'auteur précité selon qui, lorsque les mesures ordonnées sont
+nécessaires, les frais qui s'y rapportent sont des frais de gérance légale, payés
+par le produit de celle-ci, voire par le produit de la réalisation de l'immeuble (Défago Gaudin,
+op. cit., p. 147, n. 549), la recourante soutient qu'a fortiori lorsque les mesures nécessaires
+découlent du droit matériel et sont ordonnées par des décisions judiciaires, une
+mesure non prise, à tort, selon elle, par le gérant légal, et qui crée un dommage
+à un tiers est à "remplacer", à la fois par l'exécution de la mesure en
+question et par la réparation du dommage dû au retard dans l'exécution.
+Traitant de la question des paiements à effectuer
+par le gérant légal, l'auteur précité (Défago Gaudin, op. cit., pp. 142-143,
+nn. 533 à 535) expose que le fait qu'un immeuble existe et soit utilisé par le débiteur
+ou loué à des tiers entraîne un certain nombre de frais. Les art. 17 et 94 ORFI précisent
+quels frais sont pris en charge par l'office au titre de la gérance légale. Cette définition
+des frais que l'office peut payer détermine par la même occasion ceux qui ne peuvent pas l'être;
+les créances se rapportant à ces derniers frais sont alors colloquées selon les règles
+ordinaires. Ce paiement par préférence de certains frais est constitutif, dans la loi, d'une
+atteinte au principe de l'égalité entre créanciers, puisque certaines dettes venant à
+naître sont payées intégralement sans être colloquées. Le législateur délégué
+justifie cette atteinte par le but poursuivi par ces paiements, qui est de maintenir l'immeuble en bon
+état de rendement, respectivement d'assurer l'encaissement des loyers. Les art. 17 et 94 ORFI distinguent
+le paiement des redevances courantes, les frais de réparation et les contributions à l'entretien
+du débiteur. Les art. 17 et 95 al. 1 ORFI précisent que les intérêts hypothécaires
+ne peuvent pas être payés.
+Les développements de cet auteur sur les frais se rapportant à des mesures effectuées
+par l'office (Défago Gaudin, op. cit., p. 147, n. 549) et la tenue de procès (ibid., pp. 149
+ss) n'ont pas la portée que la recourante leur prête : les prétentions litigieuses qu'elle
+fait valoir ne peuvent pas être assimilées, contrairement à ce qu'elle soutient, à
+des frais de gérance, au sens de l'art. 20 ORFI, ou à des dépenses découlant de la
+gérance, au sens de l'art. 21 ORFI, qui devraient être portées dans un compte détaillé
+à déposer en même temps que le tableau de distribution. En d'autres termes, ces prétentions,
+en dommages-intérêts, ne peuvent pas bénéficier du privilège accordé aux
+frais de gérance qui sont payés sans avoir à être colloqués, en dérogation
+au principe de l'égalité des créanciers. En particulier, le créancier gagiste n'a
+pas à les supporter, par l'imputation de leur montant sur le produit de réalisation de l'immeuble.
+Ces prétentions relèvent de l'action en responsabilité de l'art. 5 LP. A cet égard,
+l'auteur précité rappelle que les actes du gérant légal – par quoi il faut
+comprendre son comportement, soit aussi son inaction éventuelle – sont susceptibles d'engager
+la responsabilité du canton (Défago Gaudin, op. cit., p. 175, n. 655). Un autre auteur (Jeandin,
+Les actions en responsabilité dans la LP, in JT 2010 II 90ss, p. 100 et les références
+jurisprudentielles à la note infrapaginale 53) donne précisément comme exemple de comportement
+illicite au sens de l'art. 5 LP l'absence d'une gérance légale appropriée.
+Le Tribunal fédéral a ainsi jugé, dans un arrêt paru aux ATF 129 III 400, qu'aux
+termes des art. 17 et 18 ORFI, la gérance légale comprenait notamment la commande et le
+paiement de petites réparations, les ensemencements et plantations, la conclusion et le renouvellement
+des assurances usuelles, la résiliation des baux, la récolte et la vente des fruits, la rentrée
+des loyers et fermages au besoin par voie de poursuites, l'exercice du droit de rétention du bailleur,
+le paiement des redevances courantes, la conduite de procès ou la prise de mesures exceptionnelles
+dans l'intérêt d'une bonne gestion, que tous ces actes d'administration pouvaient donner lieu
+à une plainte aux autorités de surveillance (Jäger, Commentaire de la LP, n. 7 ad art.
+102 LP) et que la responsabilité en découlant était régie non par le droit privé,
+mais par le droit de la poursuite (art. 5 LP; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 21 ad art. 5 LP).
+c)
+La recourante reproche à l'autorité
+inférieure de ne pas avoir clairement précisé si, selon elle, les frais de travaux de
+réfection de la chose louée ne pourraient pas, en tant que tels, être considérés
+comme des impenses nécessaires imposées par les art. 17 et 18 ORFI, et donc payables par le
+produit de la gérance légale, voire par le produit de la réalisation de l'immeuble, ou
+si c'est uniquement le fait qu'en l'espèce, en raison de l'inexécution de l'obligation de réfection
+des locaux loués, cette obligation non exécutée a été transformée en prétention
+en dommages-intérêts, qui empêcherait de considérer les dommages-intérêts
+comme des frais de gestion et d'administration, la locataire devant alors s'en prendre à l'office
+sur la base de l'art. 5 LP.
+La première hypothèse envisagée par la recourante n'est pas réalisée, puisque
+ce n'est précisément pas des frais d'exécution de travaux de réfection qu'elle entend
+faire inscrire dans le compte des frais de gérance, mais une prétention en paiement de dommages-intérêts.
+Quant à la seconde hypothèse, celle d'une "transformation" de l'obligation non exécutée
+en prétention en dommages-intérêt et d'un renvoi à agir en responsabilité contre
+l'Etat, la recourante perd de vue que le prix des travaux qui auraient, selon elle, dus être exécutés
+n'équivaut pas au montant du dommage qu'elle prétend avoir subi du fait de leur inexécution.
+Il n'y a donc pas, en raison de la prétendue inexécution des travaux, de "transformation"
+d'une créance en une autre – ou de "remplacement" d'une créance par une autre
+– soit d'une créance en paiement du prix de l'ouvrage, dont la recourante ne serait d'ailleurs
+pas titulaire, et qui devrait être inscrite au compte des frais de gérance ou au compte final
+du produit de la gérance, en une créance en dommages-intérêts dont elle serait titulaire
+et qui devrait être traitée de la même manière dans la réalisation, savoir être
+inscrite au compte des frais puis payée, en priorité, sur le produit de la vente aux enchères.
+L'arrêt cité par la recourante (ATF 37 I 194) ne conduit pas non plus à une telle conclusion.
+A cela s'ajoute, dans l'une et l'autre hypothèse, que les prétentions de la recourante ne se
+rapportent pas à des sommes versées effectivement.
+d)
+Quant à l'argument selon lequel la possibilité d'agir en responsabilité contre l'Etat
+serait "impraticable", en raison notamment de l'exigence légale de la démonstration
+d'une illicéité qualifiée, on ne saurait en tirer la conséquence que la recourante
+est fondée à obtenir ce à quoi elle prétend par la voie de la plainte contre le tableau
+de distribution et le compte de frais.
+Enfin, la question soulevée par les intimés de savoir si l'office devait ou non faire exécuter
+les travaux en question n'a pas à être examinée dans le cadre de la présente procédure
+de plainte.
+III.
+Vu ce qui précède, le recours doit
+être rejeté et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 et
+62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+22 décembre 2011
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Yves Nicole, avocat (pour E.________Sàrl),
+‑
+Me Christian Fischer, avocat (pour Banque L.________),
+-
+Me Laurent Gilliard, avocat (pour K.________SA en liquidation),
+-
+Société H.________,
+‑
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
