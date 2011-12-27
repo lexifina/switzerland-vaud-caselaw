@@ -1,0 +1,216 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 18"
+decided: "2011-12-27"
+published: "2011-12-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3059306"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-131.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-311.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 18
+
+## Regeste
+
+DÉFENSE D'OFFICE | 132 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.12.2011 Décision / 2012 / 18
+
+DÉFENSE D'OFFICE | 132 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+597
+PE11.011856-MRN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 27 décembre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffière
+:              Mme
+de Watteville
+*****
+Art.
+132, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+par
+G.________
+contre la décision du 28 novembre 2011 du Ministère public de l'arrondissement du Nord vaudois
+refusant de lui désigner un défenseur d'office dans la cause
+n° PE11.011856-MRN
+.
+Elle considère:
+EN
+FAIT:
+A.
+a) Le 22 août 2011,
+la Procureure de l’arrondissement du Nord vaudois a décidé de l’ouverture d’une
+instruction pénale (art. 309 CPP) contre G.________, né en 1987, pour injure, violence ou menace
+contre les autorités et les fonctionnaires, violation simple des règles de la circulation routière,
+conduite en état d’ébriété qualifiée et conduite en état d’incapacité.
+Le 15 novembre 2011, la Procureure a décidé de l’extension de l’instruction pénale
+(art. 311 al. 2 CPP) contre G.________ pour contravention à la Loi fédérale sur les stupéfiants
+(LStup; RS 812.121).
+b) Il est reproché à G.________ d’avoir, le 25 juin 2011, vers 04h54, à Yverdon-les-Bains,
+circulé au volant de la voiture VD [...] à un régime élevé en petite vitesse,
+sans éclairage et en étant sous l’influence de l’alcool (taux d’alcoolémie
+d’au moins 1.37 g ‰ au moment critique) et du cannabis. Il lui est aussi reproché d’avoir
+consommé de la cocaïne ainsi que, suite à son interpellation le 25 juin 2011 par le brigadier
+S.________ et l’appointé J.________ de la police municipale d’Yverdon-les-Bains, d’avoir
+injurié et menacé de mort ces deux policiers, d’avoir déchiré les formulaires
+de ses droits et obligations et de renseignements généraux, d’avoir proposé aux
+deux policiers «d’acheter» leur clémence et de leur rendre des services, et de leur
+avoir opposé de la résistance physique, notamment en voulant forcer le passage pour pénétrer
+aux urgences.
+c) Par actes datés respectivement des 4 et 11 juillet 2011, le brigadier S.________ et l’appointé
+J.________ ont déposé plainte pénale contre G.________ pour menaces de mort et injure.
+B.
+a) Le 7 septembre 2011,
+l’avocat Charles Munoz a requis d’être désigné comme défenseur d’office
+du prévenu G.________.
+b) Par décision du 28 novembre 2011, la Procureure a rejeté la requête de désignation
+d’un défenseur d’office à G.________ (I) et a dit que les frais de cette décision
+suivaient le sort de la cause (II). Elle a considéré en bref que les faits incriminés
+ne présentaient aucune difficulté particulière sur le plan des faits ou du droit et que
+l’assistance d’un mandataire professionnel n’apparaissait pas justifiée pour sauvegarder
+les intérêts du prévenu.
+c) Par acte du 7 décembre 2011, remis à la poste le même jour, G.________, représenté
+par l’avocat Charles Munoz, a recouru auprès de la Chambre des recours pénale du Tribunal
+cantonal contre cette décision, en concluant avec suite de frais et dépens à sa réforme
+en ce sens qu’un défenseur d’office est désigné à G.________ en la personne
+de l’avocat Charles Munoz.
+EN
+DROIT:
+1.
+Aux termes de l’art.
+393 al. 1 let. a CPP (Code de procédure pénale suisse; RS 312.0), le recours est recevable
+contre les décisions et actes de procédure du Ministère public. Une décision du Ministère
+public refusant d’ordonner une défense d’office (art. 132 CPP) est ainsi susceptible
+de recours selon les art. 393 ss CPP (Ruckstuhl, in Niggli/Heer/Wiprächtiger (éd.),
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, Bâle 2011, n. 32
+ad art. 132 CPP; Harari/ Aliberti, in Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 11 ad art. 132 CPP). Ce recours s’exerce auprès
+de l’autorité de recours (cf. art. 20 al. 1 let. b CPP), qui dans le canton de Vaud est la
+Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du code
+de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire;
+RSV 173.01]). Le recours doit être adressé par écrit, dans un délai de dix jours
+dès la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP). En l’espèce, il y a donc lieu d’entrer en matière
+sur le recours, qui a été interjeté en temps utile devant l’autorité compétente
+et satisfait aux conditions de forme posées par l’art. 385 al. 1 CPP.
+2.
+a) Selon l’art.
+130 CPP, le prévenu doit avoir un défenseur notamment lorsque (a) la détention provisoire,
+y compris la durée de l’arrestation provisoire, a excédé dix jours, ou (b) il encourt
+une peine privative de liberté de plus d’un an ou une mesure entraînant une privation
+de liberté (cf. pour les autres cas, les lettres c à e de cette disposition). En cas de défense
+obligatoire au sens de l’art. 130 CPP, la direction de la procédure pourvoit à ce que
+le prévenu soit assisté aussitôt d’un défenseur (art. 131 CPP), en ordonnant
+le cas échéant une défense d’office (cf. art. 132 al. 1 let. a CPP). En
+dehors des cas de défense obligatoire au sens de l’art. 130 CPP, la direction de la procédure
+ordonne une défense d’office si le prévenu ne dispose pas des moyens nécessaires
+et que l’assistance d’un défenseur est justifiée pour sauvegarder ses intérêts
+(art. 132 al. 1 let. b CPP; TF 1B_195/2011 du 28 juin 2011, c. 3.1).
+b) Aux termes de l’art. 132 al. 2 CPP, une défense d’office aux fins de protéger
+les intérêts du prévenu indigent se justifie notamment lorsque l’affaire n’est
+pas de peu de gravité et – condition cumulative (Harari/Aliberti, op. cit., n. 61 ad art. 132
+CPP; TF 1B_359/2010 du 13 décembre 2010, c. 3.2) – qu’elle présente, sur le plan
+des faits ou du droit, des difficultés que le prévenu seul ne pourrait pas surmonter. En tout
+état de cause, une affaire n’est pas de peu de gravité lorsque le prévenu est passible
+d’une peine privative de liberté de plus de quatre mois, d’une peine pécuniaire
+de plus de 120 jours-amende ou d’un travail d’intérêt général de plus
+de 480 heures (art. 132 al. 3 CPP). La peine dont le prévenu est « passible »
+(cf. art. 132 al. 3 CPP), ou qu’il « encourt » (cf. art. 130 let. b CPP), n’est
+pas la peine encourue abstraitement au vu de l’infraction en cause – à savoir la peine
+maximale prévue par la loi pour l’infraction en question –, mais celle qui est concrètement
+envisagée au vu des circonstances particulières objectives du cas ou de la peine que le Ministère
+public requiert (cf. Ruckstuhl, op. cit., n. 18 ad art. 130 CPP).
+Selon la jurisprudence du Tribunal fédéral, le point décisif est toujours de savoir si
+la désignation d'un avocat d'office est objectivement nécessaire dans le cas d'espèce;
+à cet égard, il faut tenir compte des circonstances concrètes de l'affaire, de la complexité
+des questions de fait et de droit, des particularités que présentent les règles de procédure
+applicables, des connaissances juridiques du requérant ou de son représentant, du fait que
+la partie adverse est assistée d'un avocat et de la portée qu'a pour le requérant la décision
+à prendre, avec une certaine réserve lorsque sont en cause principalement ses intérêts
+financiers (ATF 128 I 225 c. 2.5.2; ATF 123 I 145 c. 2b/cc; ATF 122 I 49 c. 2c/bb; ATF 122 I 275 c. 3a
+et les arrêts cités; TF 1B_359/2010 du 13 décembre 2010, c. 3.2; TF 1B_195/2011 du
+28 juin 2011, c. 3.2). Le degré de complexité de l’affaire requis pour justifier
+la désignation d’un défenseur d’office sera d’autant plus élevé
+que la peine prévisible est basse, et, inversement, d’autant moins élevé que la
+situation se rapproche d’un cas de défense obligatoire au sens de l’art. 130 CPP (Ruckstuhl,
+op. cit., n. 37 ad art. 132 CPP).
+c) En l’occurrence, il n’apparaît pas, au vu des faits qui lui sont reprochés,
+que le prévenu soit passible d’une peine privative de liberté de plus de quatre mois,
+d’une peine pécuniaire de plus de 120 jours-amende ou d’un travail d’intérêt
+général de plus de 480 heures (art. 132 al. 3 CPP). En outre, les faits incriminés
+ne présentent aucune difficulté particulière sur le plan des faits ou du droit et l’affaire
+ne soulève pas de difficultés que le prévenu ne pourrait pas surmonter seul. Enfin, les
+deux policiers qui ont porté plainte pour menaces et injure ne sont pas assistés d’un
+avocat. L’assistance d’un mandataire professionnel n’apparaît dès lors pas
+justifiée pour sauvegarder les intérêts du prévenu, étant précisé
+que l’allégation de celui-ci, selon laquelle il ne serait « un secret pour personne
+que les déclarations des forces de police prennent généralement le pas sur celles d’un
+administré avec lequel elles auraient eu maille à partir », n’apparaît
+pas pertinente à cet égard.
+3.
+Il résulte de ce
+qui précède que le recours, manifestement mal fondé, doit être rejeté sans autres
+échanges d’écritures (art. 390 al. 2 CPP). Les frais de la procédure de recours,
+constitués en l’espèce du seul émolument d'arrêt (art. 422 al. 1 CPP),
+par 550 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]), seront
+mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos
+prononce :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais de la procédure de recours, par
+550 fr. (cinq cent cinquante francs), sont mis à la charge de G.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Charles Munoz, avocat (pour G.________),
+-
+M. J.________,
+-
+M. S.________
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 l. 1
+LTF).
+La greffière :
