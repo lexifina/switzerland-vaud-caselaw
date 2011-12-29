@@ -1,0 +1,172 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___26"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 26"
+decided: "2011-12-29"
+published: "2011-12-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3079975"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-033.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 26
+
+## Regeste
+
+NON-LIEU, PLAINTE PÉNALE, RETRAIT{VOIE DE DROIT} | 33 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 29.12.2011 Décision / 2012 / 26
+
+NON-LIEU, PLAINTE PÉNALE, RETRAIT{VOIE DE DROIT} | 33 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+607
+PE11.020028-XCR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 29 décembre 2011
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffier
+:              M.
+Heumann
+*****
+Art.
+33 CP; 310 al. 1, 393 al. 1 let. a CPP
+Vu la plainte déposée le 15 novembre 2011 par
+D.________
+contre
+P.________
+pour violation d'une obligation d'entretien,
+vu l'ordonnance du 25 novembre 2011, par laquelle le Procureur de l'arrondissement de La Côte a
+refusé d'entrer en matière (I) et laissé les frais à la charge de l'Etat (II) (dossier
+n° PE11.020028-XCR
+),
+vu le recours déposé le 16 décembre 2011 par D.________ contre cette ordonnance,
+vu les pièces du dossier;
+attendu
+que, par jugement du 29 août 2005, le Tribunal d'arrondissement de La Côte a condamné
+par défaut P.________, notamment pour violation d'une obligation d'entretien,
+que, par jugement du 9 novembre 2006, le Président du Tribunal d'arrondissement de La Côte
+a prononcé le divorce des époux D.________ et P.________, et astreint ce dernier à contribuer
+à l'entretien de ses trois enfants par le versement d'une pension mensuelle en leur faveur,
+que, par jugement du 18 novembre 2008, à la suite de nouvelles plaintes de D.________, le Tribunal
+de police de l'arrondissement de La Côte a condamné par défaut P.________, pour violation
+d'une obligation d'entretien, à six mois de peine privative de liberté,
+que le relief de ces jugements par défaut ayant été accordé à P.________, une
+nouvelle audience s'est tenue, le 21 septembre 2010, devant le Tribunal de police de l'arrondissement
+de La Côte,
+qu'au cours de l'audience, les parties sont parvenues à la signature d'une convention, selon laquelle
+P.________ s'est engagé «à amortir l'arriéré [de pension] par un versement supplémentaire,
+au 1
+er
+septembre de chaque année, dès et y compris le 1
+er
+septembre 2011, de CHF 2'500.- (deux mille cinq cents francs) montant payable en une fois indépendamment
+de la pension courante», étant précisé que la pension courante due pour l'entretien
+de ses trois enfants était arrêtée à 700 dollars US (P. 4/2),
+qu'au vu de cet accord, D.________ a accepté de retirer la plainte pénale déposée
+à l'encontre de son ex-mari, pour violation d'une obligation d'entretien,
+que, le 15 novembre 2011, D.________ a déposé une nouvelle plainte, pour violation d'une obligation
+d'entretien, pour le motif que son ex-mari n'avait pas payé l'acompte de 2'500 fr. au 1
+er
+septembre 2011 (P. 4),
+que, par ordonnance du 25 novembre 2011, le procureur a toutefois refusé d'entrer en matière,
+qu'invoquant le principe "ne bis in idem", il a considéré que la nouvelle plainte
+portait également sur l'arriéré de pension qui avait fait l'objet du retrait de plainte,
+que D.________ conteste cette décision,
+qu'elle soutient que l'accord intervenu le 21 septembre 2010 constitue un fait nouveau la légitimant
+à déposer une nouvelle plainte,
+attendu qu'interjeté dans le délai légal (art. 322 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0] par renvoi de l'art. 310 al. 2 et art. 396 al. 1 CPP) contre une
+décision du Ministère public (art. 393 al. 1 let. a CPP), par la partie plaignante qui a qualité
+pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable;
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont manifestement pas réunis;
+attendu qu'aux termes de l'art. 33 al. 2 CP (Code pénal suisse du 21 décembre 1937; RS 311.0),
+quiconque a retiré sa plainte ne peut la renouveler,
+que le retrait de la plainte est irrévocable et définitif (Dupuis/Geller/Monnier/Moreillon/Piguet/Bettex/Stoll,
+Code pénal, Petit commentaire, Bâle 2012, n. 9 ad art. 33 CP, p. 236, et les réf. cit.),
+que le dépôt d'une nouvelle plainte identique est par conséquent exclu (ibidem),
+qu'en revanche, selon la jurisprudence du Tribunal fédéral, le dépôt d'une nouvelle
+plainte, qui se rapporte à un autre état de fait, est possible (TF 6P.94/2004 du 14 octobre
+2004 c. 7),
+qu'en l'espèce, par jugement du 21 septembre 2010, le Tribunal de l'arrondissement de La Côte
+a pris acte du retrait de plainte de D.________,
+que la plainte retirée porte sur l'arriéré de pension dû par P.________,
+que la nouvelle plainte fait suite au non-paiement du montant dû par P.________ à titre de
+remboursement annuel de l'arriéré de pension,
+que la nouvelle plainte porte donc sur des faits identiques à ceux qui ont fait l'objet de la plainte
+retirée,
+que vu le caractère irrévocable et définitif du retrait de plainte intervenu le 21 septembre
+2010, la recourante n'était pas habilitée à déposer, le 15 novembre 2011, une nouvelle
+plainte pour les mêmes faits,
+qu'en outre, et contrairement à ce que soutient la recourante, la plainte déposée le 15
+novembre 2011 ne concerne pas un autre état de fait, au sens de la jurisprudence fédérale
+précitée, que celui visé par la plainte retirée,
+que l'argument, selon lequel la convention de septembre 2010 constituerait un autre état de fait
+habilitant la recourante à déposer une nouvelle plainte, ne peut être suivi,
+que le fait que le règlement de l'arriéré de pension ait fait l'objet d'une convention
+n'y change rien, puisque l'objet de cette convention n'est autre que l'arriéré de pension,
+qui a déjà fait l'objet de la plainte retirée,
+que la plainte porterait sur un autre état de fait, si elle se rapportait à la pension courante,
+ce qui n'est pas le cas en l'occurrence,
+qu'au vu de l'ensemble des considérations qui précèdent, c'est à juste titre que
+le procureur a rendu une ordonnance de non-entrée en matière (art. 310 al. 1 let. a CPP);
+attendu, en définitive, que le recours, mal fondé, doit être rejeté et l'ordonnance
+attaquée confirmée,
+que les frais de la procédure de recours, par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010; RSV 312.03.1]), sont mis à la charge de la recourante qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance attaquée.
+III.
+Dit que les frais de la procédure de recours,
+par 440 fr. (quatre cent quarante francs), sont mis à la charge de D.________.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme D.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
