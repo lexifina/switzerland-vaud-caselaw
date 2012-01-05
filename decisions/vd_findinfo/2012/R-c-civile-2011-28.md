@@ -1,0 +1,140 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2011___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2011 / 28"
+decided: "2012-01-05"
+published: "2012-01-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3040674"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md"]
+---
+
+# VD Findinfo Réc-civile / 2011 / 28
+
+## Regeste
+
+RÉCUSATION | 47 al. 1 let. d CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 03.01.2012 Réc-civile / 2011 / 28
+Vaud Tribunal cantonal Cour administrative 03.01.2012 Réc-civile / 2011 / 28
+Vaud Tribunal cantonal Cour administrative 03.01.2012 Réc-civile / 2011 / 28
+
+RÉCUSATION | 47 al. 1 let. d CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+35/2011
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 5 janvier 2012
+_____________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+47 let. f et 48 CPC; art. 8a al. 3 et 8a al. 4 CDPJ
+Vu la requête de conciliation déposée le 22 décembre 2011 par le F.________ à
+l'encontre de X.________ Sàrl par-devant le Tribunal d'arrondissement de La Côte,
+vu la demande déposée le 27 décembre 2011 par le Premier président du Tribunal d'arrondissement
+de La Côte tendant à la récusation de cette autorité en corps,
+vu les pièces au dossier;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 27 décembre 2011 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois
+du 12 janvier 2010; RSV 211.02) et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007; RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu que le F.________ est constitué en la forme d'une société simple,
+que H.________ et T.________ en sont les associés,
+que H.________ est le fils de [...], actuellement juge assesseur du Tribunal d'arrondissement de La Côte,
+que le Premier président considère que ce fait constitue un motif de récusation en corps
+des magistrats de son office,
+qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1;
+ATF
+131 I 24 c. 1.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats
+(ATF
+134 I 20 c. 4.2), qu'elles soient objectives et résultent de faits déterminés (ATF 131
+I 24 c. 1.1; ATF 124 I 121 c. 3a, JT 1999 I 159 ; ATF 115 IA 172 c. 3),
+qu'en l'espèce, la fonction de juge assesseur de [...] au sein du Tribunal d'arrondissement de La
+Côte implique qu'il a eu des contacts réguliers et professionnels avec les membres formant
+cette autorité,
+qu'il est possible qu'un rapport d'amitié ou d'inimitié ait pu naître de ses relations
+professionnelles entre [...] et les autres magistrats composant cet office (CA 17/2011; CA 18/2011, CA
+30/2011),
+qu'il est par ailleurs lui-même investi d'un pouvoir décisionnel dans le cadre de sa fonction,
+qu'afin de garantir l'impartialité de l'autorité appelée à traiter de la cause opposant
+H.________ notamment à X.________ Sàrl, la demande de récusation présentée par
+le premier Président doit être admise,
+que dans un tel cas, la cause doit être transmise, dans l'état où elle se trouve, à
+une autre juridiction ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'il convient dès lors de désigner le Tribunal d'arrondissement de Lausanne;
+attendu que la présente décision est rendue sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 27 décembre 2011 par le Tribunal d'arrondissement
+de La Côte est admise.
+II.
+La cause est transmise, dans l'état où elle se trouve, au Tribunal d'arrondissement de Lausanne.
+III.
+L'arrêt est rendu sans frais, ni dépens.
+IV.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. le Premier président du Tribunal d'arrondissement de La Côte, à Nyon,
+-
+M. P.-Y. Zürcher, agent d'affaires breveté, pour le F.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Me Christophe Savoy, avocat, pour X.________ Sàrl,
+-
+M. le Premier président du Tribunal d'arrondissement de Lausanne, à Lausanne.
+Le greffier :
