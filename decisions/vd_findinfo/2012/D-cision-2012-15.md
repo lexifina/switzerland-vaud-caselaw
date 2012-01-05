@@ -1,0 +1,302 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 15"
+decided: "2012-01-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3064153"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-028.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-188.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 15
+
+## Regeste
+
+DIFFAMATION, PREUVE DE LA VÉRITÉ, RESPONSABILITÉ PÉNALE DE LA PRESSE | 173 ch. 1 CP, 173 ch. 2 CP, 173 ch. 3 CP, 28 CP, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 05.01.2012 Décision / 2012 / 15
+
+DIFFAMATION, PREUVE DE LA VÉRITÉ, RESPONSABILITÉ PÉNALE DE LA PRESSE | 173 ch. 1 CP, 173 ch. 2 CP, 173 ch. 3 CP, 28 CP, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+13
+PE08.026948-NKS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 5 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffier
+:              M.
+Addor
+*****
+Art.
+319 al. 1, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+par
+K.________
+et
+D.________
+contre l'ordonnance de classement rendue le 15 décembre 2011 par le Procureur de l'arrondissement
+de l'Est vaudois dans la cause les concernant (
+enquête
+n° PE08.026948-NKS
+).
+Elle considère :
+E n  f a i t :
+A.
+Le
+10 octobre 2008, a paru dans le quotidien "Le Matin", sous la signature de P.________, un article
+intitulé "On nous traite de tantouses à répétition". Sous forme de témoignage,
+l'article traite des rapports difficiles de J.________ et de son ami H.________ avec K.________ et D.________,
+concierges de leur immeuble à [...]. Il relate les déclarations faites par J.________ à
+la journaliste relativement au comportement des concierges. J.________ se plaignait que ceux-ci l'avaient
+insulté et humilié au motif qu'il était homosexuel, notamment en épiant ses allées
+et venues et en le traitant de "tantouse et de couille molle à répétition",
+qu'ils avaient placardé sur la porte d'entrée de l'immeuble et glissé dans les boîtes
+aux lettres de tous les copropriétaires une affiche les présentant, lui et son ami, comme des
+"dangers publics". L'article ne désignait pas nommément les concierges, ni le prévenu
+et son ami, mais indiquait que les bourreaux de J.________ étaient "ses voisins et la concierge"
+(P. 5).
+Le 27 novembre 2008, en raison des ces faits, K.________ et D.________ ont déposé plainte pénale
+pour atteinte à l'honneur contre J.________ et P.________ (P. 4).
+B.
+Par arrêt du 24 juillet 2009, le Tribunal d'accusation a annulé une première ordonnance
+de non-lieu rendue par le Juge d'instruction de l'arrondissement de l'Est vaudois et ordonné un
+complément d'instruction.
+Par arrêt du 16 avril 2010, le Tribunal d'accusation a annulé la seconde ordonnance de non-lieu
+rendue par le magistrat instructeur, à qui il a renvoyé le dossier pour complément d'enquête
+sur la preuve de la vérité et de la bonne foi, considérant que les plaignants étaient
+reconnaissables et que le fait de les présenter comme des bourreaux et des homophobes était
+de nature à porter atteinte à leur honneur.
+C.
+Par ordonnance du 15 décembre 2011, le Procureur de l'arrondissement de l'Est vaudois a ordonné
+le classement de la procédure pénale dirigée contre P.________ et J.________ pour diffamation
+et laissé les frais à la charge de l'Etat. Il a considéré que J.________ ne pouvait
+être poursuivi pour la commission de l'infraction qui lui était reprochée, celle-ci ayant
+été commise et consommée sous forme de publication par un média (art. 28 CP). Quant
+à la journaliste P.________, elle avait valablement apporté la preuve de la vérité
+des allégations litigieuses.
+D.
+Par acte du 23 décembre 2011, K.________ et D.________ ont interjeté recours auprès de
+la Chambre des recours pénale du Tribunal cantonal, concluant principalement au renvoi de la cause
+au procureur pour qu'il prononce la mise en accusation des prévenus, subsidiairement à un complément
+d'enquête.
+E n  d r o i t :
+1.
+Interjeté dans le
+délai légal (art. 322 al. 2 CPP [Code de procédure pénale suisse du 5 octobre 2007,
+RS 312.0] et art. 396 al. 1 CPP) contre une décision du Ministère public (art. 393 al. 1 let.
+a CPP), par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est
+recevable.
+2.
+a)
+L'art. 173 ch. 1
+CP
+protège la réputation d'être un homme honorable, c'est-à-dire de se comporter comme
+un homme digne a coutume de le faire selon les conceptions généralement reçues. L'honneur
+protégé par le droit pénal est conçu de façon générale comme un droit
+au respect qui est lésé par toute assertion propre à exposer la
+personne
+visée au mépris en sa qualité d'homme (ATF 132 IV 112, c. 2.1; ATF 128 IV 53 c. I/A/1a;
+TF 6B_143/2011 du 16 septembre 2011 c. 2.1.1).
+En l'espèce, le fait, pour l'intimé J.________, d'accuser les recourants, en s'adressant à
+un tiers, d'être homophobes, de l'insulter et de l'humilier, apparaît attentatoire à leur
+honneur. C'est ce qui ressort de l'arrêt du Tribunal d'accusation du 16 avril 2010, des considérants
+duquel il n'y a pas lieu de s'écarter à cet égard.
+Quant à P.________, elle reconnaît avoir cru J.________, avoir été sensible à
+son émotion et n'avoir pas procédé à des vérifications.
+Elle estime que les recourants n'ont pas été touchés dans la mesure où leur anonymat
+était respecté. Le rédacteur en chef adjoint du quotidien le confirme (PV aud. 13). L'article,
+cependant, cite le nom de la localité de [...], où vivent les parties et publie la photo de
+J.________ en train de lire, avec ses chiens, l'affiche placardée dans l'immeuble par les concierges.
+Ces éléments permettaient aux habitants de l'immeuble, sinon ceux du quartier, d'identifier
+les personnes visées par les allégations litigieuses. Peu importe à cet égard que
+seul un cercle relativement restreint ait pu reconnaître les protagonistes de cette affaire.
+L'infraction de diffamation est donc réalisée objectivement en ce qui concerne la journaliste,
+par la publication d'un article comportant des allégations attentatoires à l'honneur des recourants.
+b) Il ne s'ensuit pas, cependant, que l'intimé J.________ et la journaliste doivent nécessairement
+être condamnés pour atteinte à l'honneur. L'art. 173 ch. 2 CP dispose en effet que l'inculpé
+n'encourra aucune peine s'il prouve que les allégations qu'il a articulées sont conformes à
+la vérité ou
+qu'il avait des raisons sérieuses de les tenir de bonne foi pour vraies. L
+'art.
+173 ch. 3 CP précise que l'inculpé ne sera pas admis à faire ces preuves et sera punissable
+si ces allégations ont été articulées ou propagées sans égard à l'intérêt
+public ou sans autre motif suffisant, principalement dans le dessein de dire du mal d'autrui. La preuve
+libératoire ne peut être refusée que si l'auteur s'est exprimé sans motif suffisant
+et s'il a agi principalement dans le dessein de dire du mal d'autrui, ces deux conditions étant
+cumulatives (ATF 116 IV 31, c. 3). La jurisprudence et la doctrine interprètent restrictivement
+les conditions énoncées à l'art. 173 ch. 3 CP. En principe, l'accusé doit être
+admis à faire les preuves libératoires et ce n'est qu'exceptionnellement que cette possibilité
+doit lui être refusée (ATF 132 IV 112 c. 3.1, et les références citées).
+En l'occurrence, rien ne permet d'affirmer que les assertions litigieuses ont été articulées
+principalement dans le but de dire du mal des recourants.
+L'intimé a en effet expliqué avoir alerté la presse dans le but de faire cesser "le
+harcèlement contre notre couple", niant avoir voulu nuire aux recourants ou à quiconque
+(PV aud. 2, p. 1). Ces déclarations, qu'aucun élément ne vient contredire, sont plausibles.
+Quant à la journaliste, elle a indiqué qu'elle voulait rédiger un article rendant compte,
+comme phénomène de société, de l'homophobie qui peut régner dans un village
+vaudois. Elle a eu soin de ne pas désigner nommément les recourants. Si ceux-ci sont certes
+reconnaissables, il n'est pas présumable qu'ils puissent l'avoir été au-delà de leur
+immeuble, voire du quartier. S'ils ont pu être identifiés, c'est par des personnes qui avaient
+connaissance des relations difficiles entre les parties et qui étaient en quelque sorte déjà
+prévenues contre l'une d'elles. Malgré sa taille modeste, [...], qui doit bien compter quelques
+concierges, emprunte aux villes plus importantes un certain caractère d'anonymat. On ne saurait
+dès lors retenir que la journaliste, qui avait des raisons de publier ce témoignage, a agi
+principalement dans le dessein de dire du mal des recourants.
+c) Les prévenus doivent dès lors être admis à apporter les preuves libératoires
+de l'art. 173 ch. 2 CP.
+Le prévenu apporte la preuve de la vérité en établissant que ce qu'il a allégué,
+soupçonné ou propagé est vrai. Fréquemment, la déclaration contient à la
+fois un jugement de valeur et une allégation de fait. Dans ce cas, la preuve de la vérité
+a pour objet les faits qui fondent le jugement de valeur. La preuve peut être apportée par
+tous les moyens admis par la loi de procédure. Le prévenu peut se fonder sur des éléments
+dont il n'avait pas connaissance au moment où il a tenu les propos litigieux (Corboz, Les infractions
+en droit suisse, vol. I, Berne 2010, pp. 594-595; ATF 124 IV 149 c. 3a). Si la preuve de la vérité
+est apportée, le prévenu doit être acquitté (Corboz, op. cit., p. 596).
+Quant à la preuve de la bonne foi, elle est apportée lorsque le prévenu démontre
+qu'il a accompli les actes que l'on pouvait attendre de lui pour contrôler la véracité
+de ce qu'il alléguait. Une prudence particulière est exigée de celui qui donne une large
+diffusion à ses allégations (ATF 128 IV 53 c. 2).
+Il convient ici de distinguer le cas de l'intimé J.________ de celui de la journaliste P.________.
+aa) En ce qui concerne J.________, le procureur l'a mis hors de cause pour le motif que, dans la mesure
+où l'article avait été publié dans un journal, l'art. 28 CP était applicable.
+Selon cette disposition, lorsqu'une infraction a été commise et consommée sous forme de
+publication par un média, l'auteur est seul punissable, sous réserve des dispositions suivantes.
+La journaliste, du point de vue du procureur, serait dès lors seule punissable.
+Cette interprétation ne saurait être suivie.  En effet, l'art. 28 CP règle uniquement
+la question de la responsabilité pénale d'une publication, en d'autres termes de la punissabilité
+des médias lorsqu'une infraction a été commise par voie de presse. L'infraction reprochée
+à J.________ est autre. Prévenu de diffamation, il lui est reproché d'avoir, en s'adressant
+à un tiers, accusé une personne de tenir une conduite contraire à l'honneur ou de tout
+autre fait propre à porter atteinte à la considération. Cette infraction est différente
+de celle commise par voie de presse. Elle la précède, mais le fait qu'il y ait eu par la suite
+une publication ne la fait pas disparaître.
+Cela étant, il convient d'examiner si J.________ a apporté l'une ou l'autre preuve libératoire
+de l'art. 173 ch. 2 CP.
+Entendu comme témoin, A.R.________ a déclaré qu'à son avis, les intimés en voulaient
+plus à J.________ et à son ami en raison de leur orientation sexuelle. Pour illustrer l'attitude
+hostile des recourants à l'égard des homosexuels, il a indiqué qu'un jour, les concierges
+avaient amendé des amis homosexuels qui avaient garé leur voiture sur la place réservée
+aux visiteurs, alors qu'ils ne l'avaient jamais fait auparavant. Le témoin dit encore avoir entendu
+les concierges insulter J.________ et le traiter de "pédé". Enfin, la concierge ne
+cessait de les épier.
+H.________, le compagnon du recourant, a déclaré être convaincu que des sentiments homophobes
+ont exacerbé l'action de la concierge contre eux. Elle les traitait régulièrement de "sales
+pédés". Les concierges faisaient des mimiques imitant les homosexuels. Le témoin
+s'était lui-même fait traiter d'«animal qui doit retourner dans son étable»
+(PV aud. 9).
+B.________, amie du prévenu, n'a rencontré les concierges qu'à une seule occasion. Ils
+l'avaient épiée quand elle partait. Le témoin n'a rien observé de plus de ses propres
+yeux. En revanche, ayant discuté avec J.________, elle a constaté qu'il était profondément
+affecté et que sa santé s'était dégradée, tant au plan physique que moral (PV
+aud. 10).
+La déposition de B.R.________, une ancienne voisine, confirme les dires de B.________, selon lesquels
+les concierges paraissaient les avoir observées lorsqu'elles étaient parties. Le témoin
+ne peut rien dire de plus en ce qui concerne l'homophobie (PV aud. 11).
+Au vu de ces témoignages, il convient de retenir que J.________, lorsqu'il s'est entretenu avec
+la journaliste, a articulé des allégations conformes à la vérité au sens de
+l'art. 173 ch. 2 CP. L'une des preuves libératoire ayant été apportée, J.________
+n'encourt aucune peine et le classement de la procédure le concernant doit être confirmé.
+bb) Quant à la journaliste P.________, qui ne jouit pas de privilège lorsqu'elle porte atteinte
+à l'honneur d'autrui par la voie de la presse (ATF 131 IV 160 c. 3.3.2), elle n'a procédé,
+ainsi que le veut la nature de l'article publié (PV aud. 13, ligne 21), à aucune vérification
+relativement à la réalité des faits allégués par J.________. En sa qualité
+de journaliste, il lui appartenait toutefois de vérifier la véracité de ce qu'elle écrivait
+(Barrelet, Droit de la communication Berne 1998, nn. 121-122, pp. 35-36; Corboz, op. cit., n. 80 ad art.
+173 CP, p. 598; ATF 124 IV 149 c. 3a). A ce propos, le fait qu'elle se soit limitée à rapporter
+un témoignage n'y change rien. Elle ne pouvait en effet ignorer qu'un témoignage de ce genre,
+s'il est mensonger, pouvait porter atteinte à l'honneur de tiers. En conséquence, la journaliste
+ne saurait se prévaloir de sa bonne foi.
+Reste à examiner si l'intimée a apporté la preuve de la vérité.
+Le procureur a retenu que la preuve de la vérité avait été apportée, dès
+lors que les dépositions de plusieurs témoins tendaient à accréditer les allégations
+de la prévenue. L'ami de l'intimé, H.________, et A.R.________, on l'a vu, ont largement confirmé
+les faits qui permettaient de porter un jugement de valeur d'homophobie.
+Dans ces circonstances, on peut considérer que la preuve de la vérité a été
+apportée.
+d) Les recourants se plaignent que des témoins, dont l'audition avait été requise notamment
+par lettre du 29 mai 2009 (P. 17), dans le délai de prochaine clôture de l'art. 188 CPP-VD
+(Code de procédure pénale du 12 septembre 1967), n'avaient pas été entendus. Il s'agit
+en particulier de l'audition comme témoin d'une copropriétaire, [...], ainsi que de A.R.________.
+A.R.________ a été entendu et sa déposition a été la plus défavorable aux
+recourants. Le magistrat instructeur a procédé à l'audition de plusieurs voisins. On ne
+voit pas ce que le témoignage de [...] apporterait de décisif, même si elle disait ne
+jamais avoir entendu dans la bouche des recourants des propos teintés d'homophobie. Au reste, les
+recourants ne le démontrent pas ni ne le rendent vraisemblable. C'est ainsi à bon droit que
+le procureur n'a pas jugé à propos de procéder à l'audition requise.
+e) Les recourants reprochent au magistrat instructeur d'avoir rendu une ordonnance de classement, alors
+qu'il avait inculpé les intimés de diffamation le 15 septembre 2010 (P. 51 et 52).
+Au stade de l'enquête, l'inculpation, sous l'empire de l'ancienne procédure pénale vaudoise,
+tendait essentiellement à garantir le droit du prévenu d'être entendu, notamment de requérir
+des mesures d'instruction en rapport avec l'infraction pour laquelle il est recherché (JT 2002 III
+171). Cette décision, inconnue de la procédure pénale unifiée, ne saurait lier le
+juge, qui a la faculté, en vertu de son pouvoir d'appréciation, par exemple en raison d'éléments
+recueillis avant la clôture, de rendre une décision libératoire, après avoir constaté
+dans un premier temps, à un stade donné de l'enquête, qu'il existait des indices suffisants
+contre le prévenu. La manière de procéder du procureur ne constitue donc pas une violation
+du principe de la bonne foi (art. 3 al. 2 let. a CPP).
+3.
+En définitive, les intimés ayant apporté avec succès l'une des preuves libératoires
+prévues à l'art. 173 ch. 2 CP, il n'y a pas lieu de prononcer leur mise en accusation du chef
+de diffamation. C'est donc avec raison que le procureur a rendu une ordonnance de classement.
+Le recours, manifestement mal fondé, doit être rejeté sans autres échanges d’écritures
+(art. 390 al. 2 CPP). Les frais de la procédure de recours, constitués en l’espèce
+de l’émolument d'arrêt, par 990 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux; RSV 312.03.1]), seront mis à la charge des recourants solidairement entre eux (art.
+428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Dit que les frais de la procédure de recours,
+par 990 fr. (neuf cent nonante francs), sont mis à la charge de K.________ et de D.________, solidairement
+entre eux.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Anne-Rebecca Bula, avocate (pour K.________ et D.________),
+-
+M. Yves Burnand, avocat (pour P.________),
+-
+M. Marc Cheseaux, avocat (pour J.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
