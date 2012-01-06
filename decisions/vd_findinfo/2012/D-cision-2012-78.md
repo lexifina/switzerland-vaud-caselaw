@@ -1,0 +1,177 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___78"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 78"
+decided: "2012-01-06"
+published: "2012-01-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3093259"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-317.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 78
+
+## Regeste
+
+OUVERTURE DE LA PROCÉDURE, CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.01.2012 Décision / 2012 / 78
+
+OUVERTURE DE LA PROCÉDURE, CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+36
+PE11.013216-LML
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 6 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+310, 393 ss CPP
+Vu l'
+enquête n° PE11.013216-LML
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+R.________
+et
+T.________
+pour voies de fait et injure, sur plainte d'
+E.________
+,
+vu l'ordonnance du 14 novembre 2011, par laquelle le procureur n'est pas entré en matière à
+l'endroit de R.________ et a laissé les frais à la charge de l'Etat,
+vu l'ordonnance du 25 novembre 2011, par laquelle le procureur a condamné T.________ pour voies
+de fait et injure à une peine pécuniaire de dix jours-amende, avec sursis pendant deux ans,
+la valeur du jour-amende étant fixée à 30 fr., ainsi qu'à une amende de 150 fr.,
+convertible en cinq jours de peine privative de liberté de substitution en cas de non-paiement dans
+le délai qui serait imparti, et mis les frais de procédure, par 675 fr., à sa charge,
+vu le recours interjeté le 7 décembre 2011 par E.________ contre l'ordonnance du 14 novembre
+2011,
+vu le pli adressé le 14 décembre 2011, en recommandé, à R.________, et venu en retour
+avec la mention "non réclamé",
+vu les déterminations du procureur,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 322 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0] par renvoi de l'art. 310 al. 2 et art. 396 al. 1 CPP) contre une
+décision du Ministère public (art. 393 al. 1 let. a CPP), par la plaignante qui a qualité
+pour recourir (art. 382 al. 1 CPP), et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable;
+attendu que le 1
+er
+mai 2011, E.________ a déposé plainte contre R.________ pour voies de fait et injure,
+qu'il a expliqué que le jour même, il avait arbitré un match de foot opposant le FC [...]
+contre [...],
+que durant ce match, un des joueurs du FC [...], soit R.________, s'était fâché, lui avait
+craché au visage et l'avait insulté,
+qu'entendu par la police le 14 septembre 2011, R.________ a contesté les faits (PV aud. 2),
+qu'il a en effet déclaré n'avoir pas participé à ce match (ibid.),
+qu'il a ajouté que quelqu'un d'autre avait joué avec son maillot, sous son nom et avec son
+passeport de football (ibid.),
+qu'entendu par la police le 21 septembre 2011, T.________, par l'intermédiaire d'un interprète
+serbe, a admis être le joueur qui craché et insulté le plaignant (PV aud. 3),
+qu'il a également reconnu avoir joué sous l'identité de R.________ (ibid.),
+que par ordonnance du 14 novembre 2011, le procureur n'est pas entré en matière à l'endroit
+de R.________,
+qu'il a considéré que le prénommé devait être mis hors de cause, les faits litigieux
+ayant été commis par T.________,
+qu'E.________ conteste cette décision,
+qu'en se basant sur la photographie du passeport de football de R.________, ainsi que sur le profil Facebook
+de ce dernier, E.________ affirme que R.________ est l'auteur des infractions et que T.________ n'a rien
+à voir dans cet incident,
+qu'il précise que le joueur l'a insulté en français et non en serbe,
+que partant, il existerait une très forte présomption que R.________ soit l'auteur des faits
+litigieux,
+qu'il conclut dès lors à l'annulation de l'ordonnance attaquée et au renvoi du dossier
+au Ministère public pour une administration complémentaire des preuves,
+qu'il requiert en outre, à titre de mesures d'instruction, sa confrontation à R.________ et
+à T.________, ainsi que l'interpellation des dirigeants du FC [...], de la responsable du Club du
+FC [...] et de l'Association Suisse de Football;
+attendu qu'en vertu de l'art. 310 al. 1 CPP, le ministère public rend immédiatement une ordonnance
+de non-entrée en matière s'il ressort de la dénonciation ou du rapport de police que les
+éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action pénale
+ne sont manifestement pas réunis (let. a), qu'il existe des empêchements de procéder
+(let. b) ou que les conditions mentionnées à l'art. 8 CPP imposent de renoncer à l'ouverture
+d'une poursuite pénale (let. c),
+que le Ministère public ne peut pas rendre une ordonnance de non-entrée en matière après
+avoir ouvert une instruction (CREP 26 mai 2011/192; CREP 13 juillet 2011/272; Cornu, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 2 ad art.
+310 CPP, p. 1410),
+que si une instruction a été ouverte, le procureur doit la clôturer formellement (art.
+318 CPP), puis rendre une ordonnance de classement (art. 319 ss CPP),
+qu'en l'espèce, la police cantonale a entendu en qualité de prévenus R.________ et T.________
+le 14, respectivement le 21 septembre 2011,
+qu'une instruction a été ouverte,
+que des opérations d'enquête ont été effectuées,
+que le procureur a d'ailleurs rendu une ordonnance pénale à l'encontre de T.________,
+qu'il ne pouvait en conséquence rendre une ordonnance de non-entrée en matière à
+l'endroit de R.________, les conditions n'étant manifestement pas réunies,
+qu'il est donc nécessaire qu'il procède conformément aux art. 317 ss CPP, à savoir
+qu'il clôture l'instruction, puis rende une ordonnance de classement ou un acte d'accusation;
+attendu, en définitive, que le recours est admis et l'ordonnance annulée,
+que le dossier de la cause est renvoyé au Procureur de l'arrondissement de Lausanne pour qu'il procède
+dans le sens des considérants, puis rende une nouvelle décision,
+que les frais de la procédure de recours sont laissés à la charge de l'Etat (art. 428
+al. 4 CPP),
+qu'enfin, s'agissant des dépens réclamés par le recourant, ils suivent le sort de la cause
+au fond (cf. art. 433 CPP; Mizel/Rétornaz, in: Kuhn/Jeanneret (éd.), op. cit., n. 13 ad art. 433
+CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance.
+III.
+Renvoie le dossier de la cause au Procureur de
+l'arrondissement de Lausanne pour qu'il procède dans le sens des considérants, puis rende une
+nouvelle décision.
+IV.
+Dit que les frais d'arrêt, par 440 fr. (quatre
+cent quarante francs), sont laissés à la charge de l'Etat.
+V.
+Déclare l'arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Robert Fox, avocat (pour E.________),
+-
+M. R.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement Lausanne,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
