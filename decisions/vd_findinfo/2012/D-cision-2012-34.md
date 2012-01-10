@@ -1,0 +1,121 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___34"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 34"
+decided: "2012-01-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3057116"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2012 / 34
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 61 let. d LPGA, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 10.01.2012 Décision / 2012 / 34
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 61 let. d LPGA, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+AI
+493/09 -  13/2012
+ZD09.034473
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 10 janvier 2012
+_______________________
+Présidence
+de               M.
+Jomini
+,
+juge unique
+Greffière
+:              Mme
+Simonin
+*****
+Cause
+pendante entre :
+Y.________
+,
+au Brassus, recourante, représentée par Me Valérie Mérinat, avocate à Vevey,
+et
+A.________
+,
+à Vevey, intimé.
+_______________
+Art.
+61 let. d LPGA; 94 al. 1 let. c LPA-VD
+Vu le recours formé le 16 octobre 2009 par Y.________ contre une décision rendue par l’Office
+de l’assurance-invalidité pour le canton de Vaud (ci-après: OAI) le 16 septembre 2009
+(octroi d’une demi-rente d’invalidité du 1
+er
+août 2006 au 30 juin 2007);
+Vu les pièces du dossier;
+Vu la déclaration de retrait du recours, adressée le 9 janvier 2012 à la Cour des assurances
+sociales par l’avocate de la recourante ;
+Considérant que la cause doit être rayée du rôle par le juge unique, par suite de
+retrait du recours (art. 94 al. 1 let. c LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la procédure
+administrative; RSV 173.36]) ;
+Qu'il n'y a pas lieu de percevoir de frais de justice ni d'allouer des dépens ;
+Que la recourante ayant été mise au bénéfice de l’assistance judiciaire (décision
+du Bureau de l'assistance judiciaire du 27 novembre 2009), une équitable indemnité au conseil
+juridique désigné d’office pour la procédure, doit être fixée, laquelle
+sera supportée par le canton, provisoirement (art. 122 al. 1 let. a CPC [code de procédure
+civile du 19 décembre 2008; RS 272], applicable par renvoi de l’art. 18 al. 5 LPA-VD), car
+la partie qui a obtenu l’assistance judiciaire est tenue à remboursement dès qu’elle
+est en mesure de le faire (art. 123 al. 1 CPC, applicable par renvoi de l’art. 18 al. 5 LPA-VD)
+;
+Que l’indemnité doit être fixée eu égard aux opérations nécessaires
+pour la conduite du procès, et en considération de l'importance de la cause, de ses difficultés,
+de l'ampleur du travail et du temps consacré par le conseil juridique commis d'office (cf. art.
+2 RAJ [Règlement vaudois du 7 décembre 2010 sur l'assistance judiciaire en matière civile;
+RSV 211.02.3]) ;
+Que la liste des opérations produite par Me Mérinat fait état de 9 heures et 5 minutes
+de travail au total, soit 4 heures et 5 minutes avant le 1
+er
+janvier 2011 (735 fr. + 55 fr. 80 de TVA), de 5 heures en 2011 (900 fr. + 72 fr. de TVA), et de divers
+débours pour un montant de 85 fr. (+ 6 fr. 80 de TVA) ;
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle, par suite de retrait du recours.
+II.
+Il n'est pas perçu de frais judiciaires ni alloué de dépens.
+III.
+L'indemnité d'office de Me Valérie Mérinat, conseil de la recourante est arrêtée
+à 1'854 fr., TVA comprise (mille huit cent cinquante-quatre francs).
+IV.
+La bénéficiaire de l'assistance judiciaire
+est, dans la mesure de l'art. 123 CPC applicable par renvoi de l'art. 18 al. 5 LPA-VD, tenue au remboursement
+de l'indemnité du conseil d'office mise à la charge de l'Etat.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+Me Valérie Mérinat (pour Y.________)
+‑
+Office de l'assurance-invalidité pour le canton de Vaud
+-
+Office fédéral des assurance sociales
+par
+l'envoi de photocopies.
+Cette décision est communiquée, par courrier électronique, au Service juridique et législatif.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
