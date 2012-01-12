@@ -1,0 +1,272 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 33"
+decided: "2012-01-12"
+published: "2012-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3055566"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-071.md", "switzerland/bund/acts/311.0/art-073.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2012 / 33
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE | 197 al.1 CPP (CH), 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2012 Décision / 2012 / 33
+
+ORDONNANCE DE SÉQUESTRE | 197 al.1 CPP (CH), 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+8
+PE10.022870-JRY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 12 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Meylan
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+197 al. 1, 263 et 393 al. 1 let. a CPP
+Vu l'
+enquête n° PE10.022870-JRY
+instruite par le Ministère public de l'arrondissement de l'Est vaudois contre
+F.________
+et
+X.________
+pour escroquerie et infraction à la loi fédérale sur l'assurance-vieillesse et survivants
+(LAVS, RS 831.10), contre
+Q.________
+et
+M.________
+pour diffamation, subsidiairement calomnie, et contre
+O.________
+pour diffamation, subsidiairement calomnie, et violation de secrets privés, d'office et sur plaintes
+réciproques des prévenus, ainsi que sur plainte de
+G.________
+et de
+K.________
+,
+vu l'ordonnance du 21 octobre 2010, par laquelle le procureur a ordonné le séquestre des voitures
+suivantes, détenues par la société I.________Sàrl:
+-              Voiture de tourisme BMW
+320i Limousine bleu métal, châssis [...], plaque [...];
+-              Voiture de tourisme BMW
+X5xDrive40d, châssis [...], plaque [...];
+-              Voiture de tourisme Peugeot
+106 1.4, châssis [...], plaque [...],
+vu l'ordonnance du 24 octobre 2011, par laquelle le procureur a levé le séquestre sur les voitures
+BMW X5xDrive40d et Peugeot 106, ordonné leur restitution à leur propriétaire et dit que
+les frais suivaient le sort de la cause,
+vu l'ordonnance du 31 octobre 2011, par laquelle le procureur a confirmé sa décision de levée
+de séquestre du 24 octobre 2011 sur les voitures précitées, ordonné la levée
+du séquestre sur la BMW 320i et la restitution à son propriétaire, et dit que les frais
+suivaient le sort de la cause,
+vu le recours interjeté en temps utile par O.________ et K.________ contre les décisions des
+24 et 31 octobre 2011,
+vu la demande d'effet suspensif,
+vu les déterminations du procureur,
+vu les déterminations de F.________ et de X.________,
+vu les pièces du dossier;
+attendu
+qu'aux
+termes de l’art. 393 al. 1 let. a CPP, le recours est recevable contre les décisions et actes
+de procédure du Ministère public,
+qu'une décision du Ministère public ordonnant la restitution d’objets ou de valeurs patrimoniales
+à la personne à laquelle ceux-ci avaient été directement soustraits du fait de l’action
+pénale (art. 267 al. 2 CPP) est ainsi susceptible de recours selon les art. 393 ss CPP (Lembo/Julen
+Berthod, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse,
+Bâle 2011, n. 4 ad art. 267 CPP),
+que ce recours s’exerce auprès de l’autorité de recours (cf. art. 20 al. 1 let.
+b CPP), qui, dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP, RSV 312.01 ; art. 80 LOJV, RSV 173.01),
+que le recours doit être adressé par écrit, dans un délai de dix jours dès la
+notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP),
+qu'interjeté dans le délai légal de dix jours de l'art. 396 al. 1 CPP par les plaignants
+qui ont la qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant aux prescriptions de forme
+de l'art. 385 al. 1 CPP, le recours est donc recevable;
+attendu qu'O.________, Q.________ et M.________ ont déposé plainte contre X.________ et F.________
+pour escroquerie et infraction à la LAVS,
+que, d'une part, ils leur reprochent de les avoir trompés astucieusement lors de leur engagement
+au sein de l'entreprise I.________Sàrl, en leur dissimulant la situation financière obérée
+de ladite société,
+que, d'autre part, ils leur reprochent de ne pas s'être acquittés des cotisations sociales
+les concernant,
+qu'ils ont engagé des poursuites à leur encontre pour le montant des salaires impayés,
+qu'ils ont fait valoir ces créances en salaire à titre de conclusions civiles;
+attendu que par ordonnance du 21 octobre 2010, le procureur a ordonné le séquestre des voitures
+BMW X5xDrive40d, Peugeot 106 et BMW 320i, détenues par I.________Sàrl, afin de sauvegarder
+une éventuelle créance compensatrice,
+attendu que par ordonnances des 24 et 31 octobre 2011, le procureur a levé le séquestre sur
+les voitures précitées, au motif qu'elles étaient respectivement la propriété
+de la société [...], de V.________ et de X.________,
+qu'O.________ et K.________ contestent ces décisions;
+attendu que les séquestres litigieux sont fondés sur la sauvegarde d'une éventuelle créance
+compensatrice, soit sur l'art. 71 al. 3 CP, avec la possibilité, cas échéant, d'allouer
+cette créance compensatrice au lésé (cf. art. 73 al. 1 let. c CP),
+que selon l’art. 263 al. 1 CPP, des objets et des valeurs patrimoniales appartenant au prévenu
+ou à des tiers peuvent être mis sous séquestre, lorsqu'il est probable qu'ils seront utilisés
+comme moyens de preuve (let. a), qu'ils seront utilisés pour garantir le paiement des frais
+de procédure, des peines pécuniaires, des amendes et des indemnités (let. b), qu'ils devront
+être restitués au lésé (let. c) ou qu'ils devront être confisqués (let.
+d),
+que le juge prononce la confiscation des valeurs patrimoniales qui sont le résultat d'une infraction
+ou qui étaient destinées à décider ou à récompenser l'auteur d'une infraction
+(art. 70 CP),
+que bien que ni le texte de l'art. 263 al. 1 let. d CPP, ni le Message du Conseil fédéral relatif
+à l'unification du droit de la procédure pénale du 21 décembre 2005 (FF 2006 pp.
+1057 ss) ne mentionnent la créance compensatrice, cette dernière est, en raison de son caractère
+subsidiaire, englobée dans la notion de confiscation,
+qu'ainsi, dans l'hypothèse où les objets ou valeurs à confisquer ne seraient plus disponibles,
+un séquestre en vue de l'exécution d'une créance compensatrice peut être ordonné,
+tel que le prévoit l'art. 71 al. 1 CP, afin d'éviter que celui qui a disposé de ces objets
+ou valeurs ne soit privilégié par rapport à celui qui les a conservés (Lembo/Julen
+Berthod, op. cit., n. 10 ad art. 263 CPP, p. 1184),
+que conformément à l'art. 197 al. 1 CPP, qui reprend le principe général de l'art.
+36 Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999; RS 101)
+et applicable à l'ensemble des mesures de
+contrainte, plusieurs conditions générales de mise en œuvre des libertés constitutionnelles
+président au prononcé d'une mesure de séquestre: a) la mesure doit être prévue
+par la loi, b) des soupçons suffisants doivent laisser présumer la commission d'une infraction,
+c) les buts poursuivis par la mesure ne doivent pas pouvoir être atteints par une mesure moins sévère,
+d) la mesure doit paraître justifiée au regard de la gravité de l'infraction et e) il
+doit exister un rapport de connexité entre les objets saisis et l'infraction (Lembo/Julen Berthod,
+op. cit., n. 17 ad art. 263 CPP),
+qu'il peut, cependant, être fait exception à l'exigence d'un lien de connexité lorsque
+le séquestre est ordonné en couverture de frais ou en vue de l'exécution d'une créance
+compensatrice (Lembo/Julen Berthod, op. cit., n. 24 ad art. 263 CPP, p. 1187 et les références
+citées),
+que pour être conforme au principe de proportionnalité, le séquestre doit être apte
+à produire les résultats escomptés (règle de l'aptitude), ces derniers ne pouvant
+pas être atteints par une mesure moins incisive (règle de la nécessité),
+qu'enfin, le séquestre en vue de l'exécution d'une créance compensatrice ne peut être
+ordonné que jusqu'à concurrence du produit présumé de l'infraction et ne peut viser
+que l'auteur de l'infraction et tout tiers favorisé d'une manière ou d'une autre par celle-ci
+(Favre/Pellet/Stoudmann, Code pénal annoté, Lausanne 2007, 3
+e
+éd.,
+n. 3.1 ad art. 71 CP, p. 247);
+qu'en l'espèce, s'agissant de la voiture BMW X5xDrive40d, les recourants ne contestent pas qu'elle
+appartienne à la société [...], soit à un tiers,
+que, par ailleurs, ils ne prétendent pas que cette société ait été favorisée
+par les éventuelles infractions commises par les prévenus,
+que force est dès lors de constater que le motif de séquestre initial n'est pas réalisé,
+que les recourants l'admettent en fait, puisqu'ils tentent de soutenir que faute d'un séquestre
+conservatoire, un séquestre probatoire se justifie s'agissant d'un objet "dont la vision ou
+l'examen peut être utile au juge pour forger sa conviction",
+qu'à cet égard toutefois, les renseignements au dossier, soit la description précise des
+véhicules avec leurs caractéristiques et leurs photographies, sont largement suffisantes (P.
+7, 12 et 33/1),
+qu'il en va de même de la voiture BMW 320i,
+qu'en effet, l'enquête a permis d'établir que ce véhicule appartenait à V.________,
+soit également à un tiers,
+que les recourants ne rendent pas vraisemblable que le prénommé ait été favorisé
+par les éventuelles infractions commises par les prévenus,
+qu'en particulier, ils ne rendent pas vraisemblable que les frais d'entretien et d'assurance dudit véhicule
+auraient été pris en charge par la société I.________Sàrl,
+que le motif de séquestre initial n'est donc pas réalisé,
+qu'enfin, s'agissant de la voiture Peugeot 106, il y a lieu de constater qu'elle appartient à X.________,
+soit à un des prévenus,
+que toutefois, on rappellera, vu les principes mentionnés ci-dessus, que le séquestre doit
+répondre aux conditions générales des mesures de contrainte (cf. art. 197 al. 1 CPP),
+soit en particulier être conforme au principe de proportionnalité,
+qu'en l'occurrence, la voiture Peugeot 106 est un véhicule de petite cylindrée, qui a été
+immatriculé en juin 2000, soit il y a plus de 11 ans, et qui est immobilisé depuis plus d'un
+an,
+que sa valeur résiduelle est ainsi proche de zéro,
+qu'autrement dit, sa vente ne permettra pas d'en retirer quoi que ce soit,
+que le séquestre de la voiture Peugeot 106 est dès lors disproportionné par rapport au
+but attendu, de sorte qu'il ne se justifie pas,
+qu'au vu de l'ensemble des considérations qui précèdent, c'est donc à juste titre
+que le procureur a levé le séquestre sur les voitures en cause et ordonné leur restitution
+à leur propriétaire;
+attendu, en définitive, que le recours est rejeté et les ordonnances attaquées confirmées,
+que les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 770 fr. (art. 20 al. 2 TFJP; RSV 312.03.1), ainsi que des frais imputables à l'assistance
+judiciaire (art. 422 al. 1 et 2 let. a CPP), fixés à 870 fr., plus la TVA par 69 fr. 60, soit
+939 fr. 60, sont mis à la charge des recourants, qui succombent (art. 428 al. 1 CPP), à parts
+égales et solidairement entre eux (art. 418 al. 1 et 2 CPP),
+que le remboursement à l'Etat de l'indemnité allouée au conseil d'office d'O.________
+et de K.________ ne sera toutefois exigible que pour autant que la situation économique de ces derniers
+se soit améliorée (art. 135 al. 4 et 138 CPP),
+que s'agissant des dépens réclamés par les intimés, il leur appartiendra le cas échéant
+de demander une indemnité à l'autorité pénale qui a procédé à l'abandon
+de la poursuite pénale (art. 429 al. 1 let. a et al. 2 CPP; Mizel/Rétornaz, in: Kuhn/Jeanneret
+(éd.), op. cit., n. 51 ad art. 429 CPP),
+qu'enfin, il convient constater que la requête d'effet suspensif n'a plus d'objet, vu le maintien
+de la situation à ce jour,
+qu'en effet, il apparaît que les voitures en question n'ont pas encore été restituées.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme les ordonnances attaquées.
+III.
+Fixe à 939 fr. 60 (neuf cent trente-neuf
+francs et soixante centimes) l'indemnité allouée au conseil d'office d'O.________ et de K.________.
+IV.
+Dit que l'émolument d'arrêt, par 770
+fr. (sept cent septante francs), ainsi que l'indemnité due au conseil d'office des recourants, par
+939 fr. 60 (neuf cent trente-neuf francs et soixante centimes), sont mis à la charge d'O.________
+et de K.________, à parts égales et solidairement entre eux.
+V.
+Dit que le remboursement à l'Etat de l'indemnité
+allouée au chiffre III ci-dessus sera exigible pour autant que la situation économique d'O.________
+et de K.________ se soit améliorée.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Séverine Berger, avocate (pour O.________ et K.________),
+-
+Mme Lise-Marie Gonzalez Pennec, avocate (pour F.________ et X.________),
+-
+M. Q.________,
+-
+Mme M.________,
+-
+M. G.________,
+-
+Office des faillites de l'arrondissement de l'Est vaudois,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
