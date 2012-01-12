@@ -1,0 +1,164 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 36"
+decided: "2012-01-12"
+published: "2012-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3058998"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-424.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 36
+
+## Regeste
+
+DÉSISTEMENT{DROIT PÉNAL}, FRAIS JUDICIAIRES, DÉPENS, RETRAIT{VOIE DE DROIT} | 428 al. 1 CPP (CH), 433 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 12.01.2012 Décision / 2012 / 36
+
+DÉSISTEMENT{DROIT PÉNAL}, FRAIS JUDICIAIRES, DÉPENS, RETRAIT{VOIE DE DROIT} | 428 al. 1 CPP (CH), 433 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+28
+PE09.000500-CMI/MAO/STO
+COUR
+D’APPEL PENALE
+______________________________
+Séance
+du 12 janvier 2012
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              M.
+Winzap et Mme Bendani
+Greffier
+:              M.
+Ritter
+*****
+Parties
+à la présente cause :
+J.________
+,
+prévenu, représenté par Me Diego Bischof, à Lausanne, appelant,
+et
+A.Q.________
+et
+B.Q.________
+,
+plaignants, représentés par Me Paul Marville, à Lausanne, intimés,
+MINISTERE PUBLIC
+,
+représenté par le Procureur de l'arrondissement de Lausanne, intimé.
+Vu le dispositif du jugement du 30 novembre 2011, notifié le même jour, par lequel le Tribunal
+de police de l'arrondissement de La Côte a constaté que J.________ s'était rendu coupable
+d'incendie par négligence qualifié (I), l'a condamné à une peine pécuniaire
+de 60 jours-amende, le jour-amende étant arrêté à 80 fr., a suspendu l'exécution
+de la peine et a fixé au condamné un délai d'épreuve de deux ans (II), a dit que
+J.________ devait payer à A.Q.________ une somme de 18'344 fr. à titre de dépens pénaux
+et leur a donné acte de leurs réserves civiles à l'encontre de J.________ pour le surplus
+(III), a ordonné le maintien au dossier à titre de pièces à conviction du raccord
+mâle/femelle séquestré sous fiche n° 1 (IV) et a mis à la charge de J.________
+les frais de la cause, par 18'115 fr. 25 (V),
+vu l'annonce d'appel déposée contre ce jugement par J.________, agissant sous la plume de son
+conseil, le 2 décembre 2011,
+vu le procès-verbal de l'audience notifié, avec mention du délai d'appel de 20 jours de
+l'art. 399 al. 3 CP, en lieu et place du jugement par le greffe du tribunal d'arrondissement le 8 décembre
+2011,
+vu la déclaration d'appel du 16 décembre 2011,
+vu la notification du jugement complet, avec mention du délai d'appel de 20 jours de l'art. 399
+al. 3 CP, du 19 décembre 2011,
+vu l'avis de la direction de la procédure du 20 décembre 2011, interpellant les parties quant
+à la recevabilité de la déclaration d'appel du 16 décembre précédent,
+vu les déterminations des intimés A.Q.________ et B.Q.________, du 22 décembre 2011, agissant
+sous la plume de leur conseil commun, concluant, avec suite de frais et dépens, à l'irrecevabilité
+de la déclaration d'appel,
+vu les déterminations du 3 janvier 2012 du Ministère public de l'arrondissement de Lausanne,
+qui s'en remet à justice,
+vu la nouvelle déclaration d'appel de J.________, du 9 janvier 2012, par laquelle il déclare
+retirer sa précédente déclaration d'appel, du 16 décembre 2011,
+vu les pièces du dossier;
+attendu
+que la déclaration d'appel du 16 décembre 2011 a été retirée,
+qu'il y a lieu d'en prendre acte, étant précisé que la Cour de céans est désormais
+saisie sur le fond par l'effet dévolutif de la seule déclaration d'appel du 9 janvier 2012,
+que, cela étant, il y a lieu de statuer sur les frais et dépens de la procédure ouverte
+par la première déclaration d'appel,
+que celle-ci procédait d'une notification erronée du jugement contesté par le greffe du
+tribunal d'arrondissement,
+que la partie dont le recours est irrecevable ou qui retire le recours est considérée avoir
+succombé (art. 428 al. 1, seconde phrase, CPP),
+que, dans le cas particulier, l'appelant aurait pu signaler immédiatement l'erreur de notification
+au greffe du tribunal d'arrondissement, ce qui lui aurait évité de déposer sa première
+déclaration d'appel en vain ,
+qu'on ne saurait néanmoins considérer qu'il a succombé, dès lors qu'il a obtenu une
+seconde notification du jugement, laquelle a ouvert un nouveau délai d'appel,
+que la notification erronée a été le fait exclusif du greffe,
+qu'il n'y a donc pas lieu à la perception de frais à la charge de l'appelant selon l'art. 424
+CPP, les frais devant être laissés à la charge de l'Etat,
+que les plaignants, intimés à la présente procédure, ont requis des dépens pour
+la première déclaration d'appel,
+qu'il découle de l'art. 433 al. 1 let. a CPP que la partie plaignante peut demander au prévenu
+une juste indemnité pour les dépenses obligatoires occasionnées par la procédure
+si elle obtient gain de cause,
+que, selon l'art. 433 al. 2 CPP, la partie plaignante adresse ses prétentions à l’autorité
+pénale,
+qu'elle doit les chiffrer et les justifier (ibid., première phrase),
+que, si elle ne s’acquitte pas de cette obligation, l’autorité pénale n’entre
+pas en matière sur la demande (ibid., seconde phrase),
+que le fait que l'appelant ne succombe pas exclut, a contrario, que les intimés, plaignants à
+la procédure, obtiennent gain de cause,
+que, quoi qu'il en soit, les dépens requis n'ont été ni chiffrés ni justifiés,
+contrairement aux exigences de l'art. 433 al. 2 CPP,
+qu'il n'y a donc pas matière à allouer des dépens aux intimés.
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+en
+application des art. 398 ss, 424 et 428 CPP,
+prononce
+à huis clos :
+I.
+Il est pris acte du retrait de la déclaration d'appel déposée le 16 décembre 2011
+par J.________ contre le jugement du 30 novembre 2011 du Tribunal de police de l'arrondissement de La
+Côte.
+II.
+Les frais de la présente procédure d'appel sont laissés à la charge de l'Etat.
+III.
+Il n'est pas alloué de dépens.
+IV.
+La présente décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Diego Bischof, avocat (pour J.________),
+-
+Me Paul Marville, avocat (pour A.Q.________ et B.Q.________),
+-
+Ministère public central,
+et communiquée à :
+-
+Ministère public de l'arrondissement de Lausanne,
+-
+M. le Président du Tribunal d'arrondissement de La Côte.
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
