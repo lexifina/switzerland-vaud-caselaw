@@ -1,0 +1,355 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2012___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2012 / 4"
+decided: "2012-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3068290"
+cites_law: ["switzerland/bund/acts/210/art-646.md", "switzerland/bund/acts/211.412.11/art-061.md", "switzerland/bund/acts/211.412.11/art-062.md", "switzerland/bund/acts/211.412.11/art-064.md", "switzerland/bund/acts/211.412.11/art-070.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-062.md", "switzerland/bund/acts/272/art-063.md", "switzerland/bund/acts/272/art-064.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-328.md", "switzerland/bund/acts/272/art-329.md"]
+---
+
+# VD Findinfo Jug-inc / 2012 / 4
+
+## Regeste
+
+RÉVISION{DÉCISION}, TRANSACTION JUDICIAIRE, CRAINTE FONDÉE, ERREUR, VICE DU CONSENTEMENT | 70 LDFR, 328 al. 1 let. c CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 19.01.2012 Jug-inc / 2012 / 4
+
+RÉVISION{DÉCISION}, TRANSACTION JUDICIAIRE, CRAINTE FONDÉE, ERREUR, VICE DU CONSENTEMENT | 70 LDFR, 328 al. 1 let. c CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CW11.024489
+7/2012/PHC
+COUR
+CIVILE
+_________________
+Jugement
+dans la cause divisant
+D.________
+,
+au [...], d'avec
+M.________
+,
+à [...].
+___________________________________________________________________
+Du
+19 janvier 2012
+_______________
+Présidence
+de               M.
+Hack
+,
+juge instructeur
+Greffier
+:              Mme
+Ouni
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu l'acte de cessions de parts de copropriété
+du 30 novembre 2004 portant sur les parcelles n
+os
+[...] et [...] de la commune de [...], dont il ressort que les copropriétaires desdites parcelles
+sont la requérante D.________, G.________, [...], [...] et S.________,
+vu le règlement d'usage et d'administration de la copropriété des parcelles n
+os
+[...] et [...] du 30 novembre 2004,
+vu la demande déposée le 8 mai 2009 par l'intimée M.________ contre la requérante,
+dans laquelle elle réclamait en substance l'attribution de la part de copropriété de la
+requérante d'un cinquième sur les parcelles n
+os
+[...] et [...],
+vu la transaction judiciaire passée le 18 mars 2011 devant le Juge instructeur de la Cour civile,
+dont le contenu est le suivant :
+"
+I
+.
+Les parties admettent que D.________ a détenu à titre fiduciaire la part de copropriété
+d'un cinquième des parcelles [...] et [...] du Registre foncier, Commune de [...], pour le compte
+de S.________. La M.________ confirme que S.________ lui a cédé ses droits relatifs à
+cette part de copropriété.
+II.
+La M.________ versera à D.________ sur le compte de consignation de son conseil, n° [...] auprès
+du [...] à Lausanne, d'ici au 31 mars 2011, un montant de 30'000 fr. (trente mille francs), décomposé
+comme suit :
+-
+22'500 fr. (vingt-deux mille cinq cents francs)
+au titre de remboursement des frais de copropriété et des charges hypothécaires relatifs
+à la part de copropriété mentionnée sous chiffre I, du 1
+er
+janvier 2007 à ce jour;
+-
+7'500 fr. (sept mille cinq cents francs) à
+titre de dépens.
+III.
+Moyennant le versement des montants mentionnés
+sous chiffre II, D.________ cède à la M.________ sa part de copropriété d'un cinquième
+des parcelles [...] et [...] du Registre foncier de [...], [...]. Les parties requièrent du Conservateur
+de procéder sans délai à l'inscription relative au transfert en faveur de la M.________,
+aux frais de la M.________, de la part d'un cinquième de la copropriété simple de l'immeuble
+constituant la parcelle [...], Commune de [...], adresse [...] à [...], plan n° [...], d'une
+surface de [...] m2, dont la titulaire est D.________, et de la part d'un cinquième de la copropriété
+simple de l'immeuble constituant la parcelle [...], adresse [...], chemin [...] à [...], plan n
+os
+[...] et [...], d'une surface de [...] m2, dont la titulaire est D.________.
+Les
+parties requièrent du Juge instructeur qu'il transmette la présente convention au Conservateur
+du Registre foncier de [...] dès que le versement sera intervenu, ce dont les parties informeront
+sans délai le Juge instructeur.
+IV.
+La M.________ reprend, à la date de la radiation
+au Registre foncier de D.________ en tant que copropriétaire, la part d'un cinquième de la
+dette hypothécaire n°  [...] due par D.________ à la [...], en capital, intérêts
+et frais, ainsi que les engagements découlant des quatre cédules hypothécaires au porteur
+n° [...], [...], [...], [...] grevant la parcelle [...] de [...].
+V.
+D'ici à la radiation de D.________ en qualité
+de propriétaire, la M.________ assumera le paiement de toutes les charges de copropriété,
+y compris les frais, intérêts et amortissements bancaires, relatives à la part détenue
+par D.________.
+VI.
+Dès le versement prévu sous chiffre
+II, la M.________ assumera les risques et profits, à l'entière décharge de D.________,
+découlant de la titularité d'une part d'un cinquième de la copropriété des parcelles
+[...] et [...] de la Commune de [...]. Dans cette mesure, D.________ donne mandat à la M.________
+pour agir en son nom s'agissant de la dite part de copropriété.
+VII.
+Dans l'hypothèse où un autre membre
+de la copropriété de [...] exercerait avec succès un droit de préemption, dont l'existence
+est contestée par la Fondation, sur le présent transfert, le montant de 30'000 fr. (trente
+mille francs) mentionné sous chiffre II restera acquis à D.________. Le montant versé
+par le préempteur pour l'acquisition de la part de copropriété précitée sera
+versé par D.________ à la M.________.
+VIII.
+D.________ cède à la M.________ tous
+les droits actuels et futurs et les obligations futures en relation avec la procédure pendante devant
+le Président du Tribunal civil de l'arrondissement de l'Est vaudois sous cause [...]. Pour le surplus
+et dans la mesure où D.________ resterait partie à cette procédure, ses frais et dépens
+seront pris en charge par la M.________ pour autant que D.________ consulte le conseil désigné
+par la M.________.
+IX.
+La M.________ prendra à sa charge les frais
+de procédure et de conseil qui pourraient découler de toutes contestations judiciaires (y compris
+découlant de l'exercice d'un prétendu droit de préemption) du présent transfert par
+l'un des copropriétaires, pour autant qu'elle consulte l'avocat désigné par la M.________.
+X.
+La M.________ se porte fort du retrait par S.________
+de la poursuite n° [...] notifiée le 1
+er
+avril 2008 à D.________ par l'Office de Lausanne-Est.
+XI.
+La M.________ assumera le paiement de l'éventuel
+impôt sur le gain immobilier qui pourrait être mis à la charge de D.________.
+XII.
+Au bénéfice de ce qui précède,
+parties se donnent quittance pour solde de tous comptes et de toutes prétentions, notamment de la
+créance de 72'871 fr. 40 (septant-deux mille huit cent septante et un francs et quarante centimes),
+selon reconnaissance de dette du 27 mars 2006, cédée par S.________ à la M.________. La
+M.________ se porte fort d'une quittance pour solde de tous comptes de S.________ envers D.________,
+qui donne également quittance à ce dernier.
+XIII.
+Chaque partie garde ses frais et renonce à
+des dépens.",
+vu la lettre du 21 mars 2011, par laquelle la requérante met en cause la validité de la transaction,
+exposant qu'elle était en état de faiblesse psychologique,
+vu la lettre du 22 mars 2011 du juge instructeur transmettant la lettre précitée au conseil
+de la requérante,
+vu la lettre du 22 mars 2011 du conseil de G.________ à celui de la requérante, faisant valoir
+le droit de préemption de la première citée,
+vu la lettre identique adressée le même jour à l'intimée,
+vu la requête de conciliation préalable déposée le 27 mai 2011 devant la Chambre
+patrimoniale cantonale par la requérante, dont les conclusions sont les suivantes :
+"I.
+La convention signée par les parties, D.________ et la M.________, dans le cadre de l'audience préliminaire
+qui s'est tenue le 18 mars 2011 par devant la Cour civile du Tribunal cantonal, a été
+valablement invalidée.
+II.
+D.________ est propriétaire de la part de copropriété, pour un 1/5, du domaine de [...],
+parcelles n° [...] et [...], sises sur la commune de [...]."
+,
+vu la demande de révision déposée le 21 juin 2011 devant la Cour civile par la requérante,
+demandant notamment que la procédure soit suspendue jusqu'à droit connu sur la demande de révision
+présentée le 16 juin 2011 devant la Chambre patrimoniale cantonale,
+vu le prononcé du 18 juillet 2011 de la Chambre patrimoniale cantonale, déclarant irrecevable
+la demande de révision du 16 juin 2011,
+vu la nouvelle demande de révision déposée le 12 août 2011 devant la Cour civile
+par la requérante, dont les conclusions sont les suivantes :
+"I.
+La demande de révision est acceptée.
+II.              Le jugement rendu par
+le Juge instructeur de la Cour civile le 18 mars 2011, mentionnant erronément la date du 19 mars
+2011 et ratifiant la convention signée entre D.________ et la M.________, est annulé.
+III.              L'exécution du
+jugement rendu le 18 mars 2011 [recte : du 19 mars 2011] par le Juge instructeur de la Cour civile dans
+la cause divisant D.________ d'avec la M.________ est suspendue jusqu'à jugement définitif
+et exécutoire rendu sur la reprise de cause.
+IV.              Le jugement rendu le
+18 mars 2011 [recte : du 19 mars 2011] par le Juge instructeur de la Cour civile dans la cause divisant
+D.________ d'avec la M.________ est révisé, en ce sens que D.________ est propriétaire
+de la part de copropriété, pour un 1/5, du domaine de [...], parcelles n° [...] et [...],
+sises sur la commune de [...]."
+,
+vu la lettre du 15 août 2011 du juge instructeur, demandant à la requérante laquelle des
+deux demandes de révision doit être prise en considération,
+vu la lettre du 17 août 2011 de la requérante, indiquant que c'est la demande du 12 août
+2011 qui doit être prise en considération,
+vu le retrait le 1
+er
+septembre 2011 de la demande de révision du 21 juin 2011, dont le juge instructeur a pris acte
+le 6 septembre 2011,
+vu les déterminations du 29 septembre 2011 de l'intimée,
+vu les autres pièces du dossier;
+attendu que selon l'art. 328 al. 1 CPC (Code de procédure civile du 19 décembre 2008;
+RS 272), une partie peut demander la révision de la décision entrée en force au tribunal
+qui a statué en dernière instance,
+qu'en l'espèce, l'autorité qui a statué en dernière instance est le Juge instructeur
+de la Cour civile, qui est donc compétent,
+que la demande de révision est possible contre une transaction judiciaire (art. 328 al. 1 let. c
+CPC),
+que le délai pour demander la révision est de 90 jours depuis la découverte du motif de
+révision (art. 329 al. 1 CPC),
+que la requérante a déposé une demande de révision devant la Chambre patrimoniale
+cantonale moins de 90 jours après la date de la transaction,
+que cette demande était donc nécessairement déposée à temps,
+qu'elle a été déclarée irrecevable le 18 juillet 2011 en raison de l'incompétence
+du Tribunal saisi,
+que la requérante disposait d'un délai d'un mois pour déposer cette demande à nouveau
+(art. 63 al. 1 CPC),
+que la présente demande de révision a été déposée le 12 août 2011,
+soit à temps,
+que la demande est motivée (art. 329 al. 1 CPC),
+qu'elle est donc recevable à la forme;
+attendu que la requérante avait toutefois déposé une requête de conciliation devant
+la Chambre patrimoniale cantonale le 21 mai 2011,
+qu'il s'agit d'un acte préalable à une demande au fond, qui fixe la litispendance (art. 62
+al. 1 CPC),
+que quand bien même cet acte ressortit à une procédure au fond, on peut se demander au
+vu des conclusions prises dans la requête de conciliation, si elle n'entraîne pas litispendance
+sur la révision de la transaction,
+qu'elle tend également à ce que celle-ci soit invalidée,
+que la litispendance a toutefois pour effet l'irrecevabilité de la seconde demande (art. 64 al.
+1 let. a CPC; art. 59 al. 2 let. d CPC),
+que pour cette raison, l'intimée fait valoir qu'il n'y aurait pas lieu d'entrer en matière
+sur la demande de révision,
+qu'à première vue, les parties sont les mêmes et l'objet du procès aussi (Bohnet,
+Code de procédure civile commenté, Bâle 2011, n. 46 ad art. 59 CPC),
+qu'il est possible qu'après l'obtention de l'autorisation de plaider, qui selon l'intimée a
+été délivrée et fait l'objet d'un recours, le tribunal saisi refuse d'entrer en matière,
+motif pris qu'il s'agit en réalité d'une demande de révision (art. 59 al. 2 let. b CPC),
+que cela n'affecterait pas, semble-t-il, les effets de la litispendance jusque-là,
+que quoi qu'il en soit, la question d'une éventuelle irrecevabilité pour litispendance peut
+rester ouverte, la demande devant de toute manière être rejetée pour les raisons qui suivent;
+attendu que la révision d'une transaction judicaire peut être demandée par celui qui fait
+valoir qu'elle n'est pas valable (art. 328 al. 1 let. c CPC),
+que par cela, il faut entendre une invalidité au sens du droit privé telle qu'une incapacité
+de discernement, un vice de la volonté ou un acte immoral, notamment (Bohnet, op. cit., n. 37 ad
+art. 328 CPC),
+que la requérante fait valoir que la transaction serait illicite, en ce sens qu'elle violerait le
+droit de préemption sur toute part cédée à titre onéreux, attribué aux
+copropriétaires par le règlement de copropriété,
+qu'une telle réglementation n'interdit pas toute cession à titre onéreux,
+qu'elle institue un droit de préemption,
+que la requérante allègue d'ailleurs, en l'établissant par pièce, qu'une des copropriétaires,
+G.________, a déclaré exercer son droit de préemption,
+qu'un droit de préemption n'interdit pas une cession,
+que c'est au contraire justement en cas de cession qu'un droit de préemption peut être exercé,
+que la requérante fait valoir que l'art. 648 CO s'opposerait à la cession de sa part de copropriété,
+que la transaction serait donc illégale,
+que toutefois l'art. 648 CO s'applique à l'ensemble de la propriété dont les copropriétaires
+possèdent des parts,
+que la vente d'une part de copropriété est régie par l'art. 646 al. 3 CC,
+qu'elle ne nécessite pas l'accord des autres copropriétaires,
+que la requérante fait valoir que la cession contenue dans la transaction serait illicite parce
+que contraire au droit foncier rural,
+qu'elle fait valoir que l'intimée n'a pas obtenu d'autorisation de la commission foncière rurale
+au sens des art. 61 ss LDFR (loi fédérale du 4 octobre 1991 sur le droit foncier rural; RS
+211.412.11),
+que selon la requérante, l'intimée ne pourrait obtenir une telle autorisation, puisque étant
+une fondation, elle ne pourrait en aucun cas exploiter elle-même sa part de copropriété,
+qu'il ressort de l'acte de cession produit que l'immeuble serait un immeuble agricole,
+que la cession de la part de copropriété d'une part d'immeuble agricole nécessite une
+autorisation (art. 62 let. c LDFR),
+qu'une telle autorisation n'est pas forcément soumise à une exploitation personnelle,
+qu'à défaut, elle peut être octroyée pour de justes motifs (art. 64 LDFR),
+qu'aux termes de l'art. 70 LDFR, les actes juridiques qui contreviennent, notamment aux dispositions
+en matière d'acquisition des entreprises et des immeubles agricoles (art. 61 à 69 LDFR) sont
+nuls,
+que cela ne signifie pas toutefois que cette nullité doive être constatée dès lors
+qu'aucune autorisation n'a été délivrée,
+qu'entre la conclusion du contrat et un refus définitif d'autorisation, il y a une « période
+flottante » (Stalder, Le droit foncier rural, Commentaire de la loi fédérale sur
+le droit foncier rural du 4 octobre 1991, Brugg 1998, n. 2 ad art. 70 LDFR),
+que plus précisément, une telle nullité sera constatée au moment du refus définitif,
+qui a un effet formateur négatif,
+que cependant si l'autorisation est accordée, le contrat devient pleinement valable,
+qu'entre temps, l'invalidité flottante peut être guérie, c'est-à-dire convertie en
+pleine validité, et l'acte produit des effets entre les parties, qui sont liées par l'acte,
+qu'elles doivent d'ailleurs avoir un comportement fidèle au contrat et notamment s'abstenir de tout
+ce qui pourrait mettre en cause l'octroi de l'autorisation (Stalder, op. cit., n. 8 ad art. 70 LDFR),
+qu'une partie à un acte de vente ne peut donc se prévaloir du fait que la vente est soumise
+à autorisation pour se soustraire à ses effets, encore moins faire valoir qu'il serait illicite
+ou impossible, en ce sens que la vente ne pourrait être exécutée,
+que jusqu'à ce que l'autorisation ait été définitivement refusée, l'acte n'est
+pas nul,
+que ce moyen de révision n'est donc pas plus fondé que les précédents;
+attendu que la requérante ne fait pas valoir dans la présente procédure un vice de la
+volonté, ce qui est apparemment le moyen soulevé à l'appui de sa procédure au fond,
+qu'elle a toutefois produit la lettre du 21 mars 2011 et la mentionne dans sa procédure,
+qu'en matière de vices de la volonté, invoqués à l'appui d'une demande de révision
+d'une transaction, il faut garder à l'esprit qu'une transaction se conclut sur la base de concessions
+réciproques,
+qu'on ne doit donc pas admettre une invalidité à la légère (Bohnet, op. cit., n.
+38 ad art. 328 CPC),
+que dans la lettre précitée, la requérante affirme qu'en raison de la pression psychologique
+subie au cours de l'audience, elle n'aurait pas pu prendre une décision réfléchie, et
+que plusieurs points de la convention lui apparaissent comme des erreurs,
+qu'on ne voit pas très bien si la requérante invoque l'erreur ou la crainte fondée,
+que quoi qu'il en soit, il n'y a absolument aucun élément du dossier qui permettent de penser
+qu'elle aurait subi une pression quelconque ou qu'elle n'aurait pas réalisé la portée
+de ses engagements,
+qu'il ressort du procès-verbal que l'audience a duré trois heures, dont deux heures de négociations,
+qu'elle a été suspendue pendant une durée de plus d'une heure,
+que la requérante était assistée d'une avocate,
+que la convention apparaît au contraire avoir été mûrement réfléchie,
+que la demande de révision doit dès lors être rejetée;
+attendu que les frais judiciaires de la présente décision sont arrêtés à 2'060
+fr. (art. 80 du tarif des frais judiciaires civils du 28 septembre 2010; RSV 270.11.5),
+que les frais seront mis à la charge de la requérante (art. 106 CPC),
+que celle-ci ne doit pas de dépens à l'intimée, qui a procédé sans l'assistance
+d'un mandataire professionnel (art. 24 du tarif des dépens en matière civile du 23 novembre
+2010 [RSV 270.11.6]).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos,
+prononce
+:
+I.
+La demande de révision déposée le 12 août 2011 par D.________ est rejetée, dans
+la mesure où elle est recevable.
+II.
+Les frais de justice sont arrêtés à 2'060 fr. (deux mille soixante francs) à la charge
+de D.________.
+III.
+Il n'est pas alloué de dépens.
+Le
+juge instructeur :              Le greffier
+:
+P.
+Hack              N. Ouni
+Du
+Le jugement qui précède, lu et approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l'envoi de photocopies, au conseil de la requérante et à l'intimée,
+personnellement.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+N. Ouni
