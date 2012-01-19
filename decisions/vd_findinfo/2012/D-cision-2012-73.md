@@ -1,0 +1,148 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___73"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 73"
+decided: "2012-01-19"
+published: "2012-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3101581"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-001.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# VD Findinfo Décision / 2012 / 73
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2012 Décision / 2012 / 73
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+43
+PE11.017730-VIY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 19 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffier
+:              M.
+Heumann
+*****
+Art.
+310, 393 al. 1 let. a CPP
+Vu la plainte déposée le 10 octobre 2011 par
+P.________
+contre le Président du Conseil général de la [...],
+vu l'ordonnance du 25 octobre 2011, par laquelle le Ministère public de l'arrondissement de Lausanne
+a refusé d'entrer en matière sur la plainte et laissé les frais à la charge de l'Etat
+(dossier
+n° PE11.017730-VIY
+),
+vu le recours interjeté le 30 novembre 2011 par P.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+que l'ordonnance a été notifiée sous pli simple en France,
+que l'on ignore à quelle date le recourant en a pris connaissance,
+que, dans le doute, il y a lieu de retenir que le recours a été interjeté dans le délai
+légal (art. 322 al. 2 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]
+par renvoi de l'art. 310 al. 2 et art. 396 al. 1 CPP),
+que, pour le surplus, le recours est recevable quant à la forme, quand bien même il est douteux
+qu'il réponde aux exigences de motivation prévues par l'art. 385 al. 1 CPP;
+attendu qu'en l'espèce, à ses dires, P.________ habite en France et bénéficie du
+revenu de solidarité active (RSA),
+qu'il prétend avoir signé un contrat de solidarité active avec le Service insertion du
+Conseil général de la [...],
+que, selon lui, la mission du Service insertion du Conseil général de la [...] était d'entreprendre
+des actions en vue de son insertion,
+que, le 10 octobre 2011, P.________ a déposé plainte en Suisse contre le Président du
+Conseil général de la [...], en exposant de multiples griefs à son encontre et à
+l'encontre des membres du Service insertion du Conseil général de la [...],
+que, par ordonnance du 25 octobre 2011, la Procureure a refusé d'entrer en matière sur la plainte
+considérant en substance que les conditions à l'ouverture d'une action pénale n'étaient
+manifestement pas réunies, en ce sens que les faits rapportés par le plaignant ne présentaient
+aucun rattachement avec la Suisse,
+que P.________ conteste cette décision;
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions à l'ouverture
+de l'action pénale ne sont manifestement pas réunis,
+qu'en l'espèce, dans son acte du 30 novembre 2011, le recourant se borne à exposer sa situation
+personnelle et professionnelle,
+qu'il explique vouloir reprendre une activité professionnelle en Suisse, afin de sortir ses enfants
+du "pétrin",
+qu'il fait état également de demandes d'asile déposées dans plusieurs pays d'Europe
+ainsi qu'en Suisse, à Vallorbe,
+que toutefois l'ensemble des griefs soulevés par le recourant ont trait à l'attitude qu'auraient
+eue les assistants sociaux et, par la même occasion, le Président du Conseil général
+de la [...] à son encontre,
+que quand bien même les griefs exposés à l'encontre des personnes précitées
+se seraient avérés fondés, force est de constater qu'ils ne seraient constitutifs d'aucune
+infraction pénale,
+que la poursuite pénale d'un comportement que la loi ne réprime pas constitue une violation
+du principe de la légalité (ATF 118 Ia 137 c. 1c, JT 1995 IV 59; ATF 112 Ia 107 c. 3a, JT 1986
+IV 149; Dupuis/Geller/Monnier/Moreillon/Piguet/ Bettex/Stoll, Code pénal, Petit commentaire, Bâle
+2012, n. 1 ad art. 1 CP, p. 6 et la doctrine citée),
+qu'en outre, le recourant n'apporte aucun indice suggérant la commission d'une infraction sur le
+territoire suisse,
+que dès lors, en vertu du principe de la territorialité, la compétence des autorités
+suisses ferait de toute manière défaut,
+qu'en conclusion, c'est à juste titre que la Procureure a considéré que les conditions
+légales à l'ouverture de l'action pénale n'étaient manifestement pas réunies
+(art. 393 al. 1 let. a CPP);
+attendu, en définitive, que le recours, mal fondé, doit être rejeté et l'ordonnance
+attaquée confirmée,
+que les frais de la procédure de recours, par 330 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux du 28 septembre 2010; RSV 312.03.1]) sont exceptionnellement laissés à la charge
+de l'Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours dans la mesure où il est recevable.
+II.
+Confirme l'ordonnance attaquée.
+III.
+Dit que les frais de la procédure de recours,
+par 330 fr. (trois cent trente francs), sont laissés à la charge de l'Etat.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. P.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
