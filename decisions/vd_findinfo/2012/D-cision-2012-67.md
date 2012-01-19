@@ -1,0 +1,190 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___67"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 67"
+decided: "2012-01-19"
+published: "2012-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3077599"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-030.md", "switzerland/bund/acts/311.0/art-033.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-319.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-093.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-316.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-427.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 67
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2012 Décision / 2012 / 67
+
+CLASSEMENT DE LA PROCÉDURE | 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+22
+PE11.007593-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 19 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+319, 393 al. 1 let. a CPP
+Vu l'
+enquête n° PE11.007593-MMR
+instruite par le Ministère public de l'arrondissement de La Côte contre
+N.________
+pour voies de fait et contre
+I.________
+pour voies de fait et injure, sur plainte d'
+A.A.________
+et de
+B.A.________
+,
+vu les mandats de comparution adressés aux plaignants par courrier recommandé du 24 août
+2011 et venus en retour avec la mention "non réclamés",
+vu l'ordonnance du 9 novembre 2011, par laquelle la procureure a ordonné le classement de la procédure
+pénale dirigée contre N.________ pour voies de fait et contre I.________ pour voies de fait
+et injure, et mis les frais de procédure à la charge d'A.A.________ et de B.A.________, par
+moitié chacun,
+vu le recours interjeté le 24 novembre 2011 par B.A.________ et A.A.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 322 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0] et 396 al. 1 CPP) contre une décision du ministère public
+(art. 393 al. 1 let. a CPP), par les plaignants qui ont qualité pour recourir (art. 382 al. 1 CPP),
+le recours est recevable;
+attendu que le 29 novembre 2010, A.A.________ et B.A.________ ont déposé plainte contre N.________
+pour voies de fait et contre I.________ pour voies de fait et injure,
+que le 24 août 2011, la procureure a adressé à chacun des plaignants, par courrier recommandé,
+une citation à comparaître à l'audience de conciliation du 13 octobre 2011,
+que ces plis ont été envoyés à l'adresse indiquée par les plaignants, soit [...],
+[...], en Allemagne,
+qu'ils sont venus en retour avec la mention "non réclamés",
+que les plaignants ont fait défaut à l'audience du 13 octobre 2011,
+qu'ainsi, en application de l'art. 316 al. 1 CPP, la procureure a considéré les plaintes d'A.A.________
+et de B.A.________ comme retirées,
+que par ordonnance du 9 novembre 2011, elle a donc ordonné le classement de la procédure pénale
+dirigée contre N.________ pour voies de fait et contre I.________ pour voies de fait et injure,
+qu'en outre, en application de l'art. 427 al. 1 let. a CPP, elle a mis les frais de procédure à
+la charge des plaignants, par moitié chacun,
+qu'A.A.________ et B.A.________ contestent cette décision,
+qu'ils expliquent ne pas avoir reçu de convocation à l'audience du 13 octobre 2011, "sans
+doute en raison de leur changement de domicile en Allemagne",
+qu'ils estiment que faute d'avoir été convoqués, ils ne peuvent avoir fait défaut,
+qu'ils concluent dès lors à l'annulation de l'ordonnance attaquée et à la fixation
+d'une nouvelle audience de conciliation;
+attendu que l’art. 316 al. 1 CPP dispose que lorsque la procédure préliminaire porte
+exclusivement sur des infractions poursuivies sur plainte, le ministère public peut citer le plaignant
+et le prévenu à une audience dans le but d’aboutir à un arrangement à l’amiable,
+et que si le plaignant fait défaut, la plainte est considérée comme retirée,
+qu'en l'espèce, les recourants ont fait défaut à l'audience du 13 octobre 2011, à
+laquelle ils avaient été régulièrement cités à comparaître,
+qu'en effet, ils ont été convoqués par plis recommandés,
+que ces plis ont été envoyés à leur adresse en Allemagne,
+qu'en principe, la notification directe, par voie postale, d'actes de procédure et de décisions
+judiciaires heurte le droit international et, partant, est nulle (Zimmermann, La coopération judiciaire
+internationale en matière pénale, 3
+e
+éd.,
+Berne/Bruxelles 2009, n° 382, pp. 351 s. et les références citées),
+qu'il faut toutefois réserver les traités qui en disposeraient autrement, à l'instar du
+Deuxième Protocole additionnel à la Convention européenne d'entraide judiciaire en matière
+pénale (RS 0.351.12), plus précisément son art. 16 qui prévoit l'envoi direct, par
+voie postale, des actes judiciaires ou des décisions judiciaires,
+que si l'Allemagne n'est pas partie à ce Protocole, elle est en revanche liée à la Suisse
+par un traité particulier, qui prévoit à son article 12 al. 1 une réglementation
+similaire (cf. art. 12 de l'Accord entre la Confédération suisse et la République fédérale
+d'Allemagne relatif à la coopération transfrontalière en matière policière et
+judiciaire, RS 0.360.136.1; Zimmermann, op. et loc. cit.), ainsi que par des accords complémentaires
+d'entraide (Zimmermann, op. cit., note de bas de page n° 1094, p. 351),
+qu'au vu de ce qui précède, une notification directe, par voie postale, était possible
+et valable,
+qu'en conséquence, les mandats de comparution qui ont été envoyés aux recourants
+pour notification le 24 août 2011 sont réputés avoir été reçus à l'échéance
+du délai de garde postale (cf. art. 85 al. 4 let. a CPP),
+que dans la mesure où les recourants n'ont pas comparu à l'audience du 13 octobre 2011, il
+y a lieu de considérer qu'ils étaient défaillants au sens de l’art. 93 CPP,
+qu'ils n'établissent pas que le défaut de comparution à l'audience fixée n’était
+imputable à aucune faute de leur part (cf. art. 94 CPP),
+qu'en effet, ils allèguent n'avoir pas reçu leur convocation, "sans doute en raison de
+leur changement de domicile en Allemagne",
+que c’est donc à bon droit que la procureure a considéré que le défaut des
+recourants à l'audience du 13 octobre 2011 valait retrait de plainte en vertu de l’art. 316
+al. 1 CPP;
+attendu que selon l’art. 319 al. 1 let. d CPP, le ministère public ordonne le classement de
+tout ou partie de la procédure lorsqu’il est établi que certaines conditions à l’ouverture
+de l’action pénale ne peuvent pas être remplies,
+que pour les infractions qui ne sont poursuivies que sur plainte (cf. art. 30 al. 1 CP), la
+plainte est une condition d’exercice de l’action pénale et la procédure doit par
+conséquent être classée lorsque la plainte est retirée (cf. art. 33 CP) ou considérée
+comme retirée (Grädel/Heiniger, in: Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar,
+Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, Bâle 2011, n. 13 ad art. 319 CP;
+Roth, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 10 ad art. 319 CPP).
+que les infractions de voies de fait (art. 126 CP) et d'injure (art. 177 CP) ne sont poursuivies que
+sur plainte,
+que le classement de la procédure pénale dirigée contre N.________ et I.________ échappe
+dès lors à la critique;
+attendu, en définitive, que le recours doit être rejeté et l'ordonnance confirmée,
+que les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 550 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux;
+RSV 312.03.1]), seront mis à la charge des recourants, qui succombent (art. 428 al. 1 CPP), à
+parts égales et solidairement entre eux (art. 418 al. 1 et 2 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Dit que les frais de la procédure de recours,
+par 550 fr. (cinq cent cinquante francs), sont mis à la charge des recourants, à parts égales
+et solidairement entre eux.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Gilles Robert-Nicoud, avocat (pour A.A.________ et B.A.________),
+-
+M. N.________,
+-
+Mme I.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
