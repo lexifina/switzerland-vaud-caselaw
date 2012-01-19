@@ -1,0 +1,150 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___65"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 65"
+decided: "2012-01-19"
+published: "2012-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3073322"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 65
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2012 Décision / 2012 / 65
+
+CLASSEMENT DE LA PROCÉDURE | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+17
+PE11.015722-JGS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 19 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+310 al. 1, 393 al. 1 let. a CPP
+Vu la plainte déposée le 15 septembre 2011 par la
+MUNICIPALITE D'
+E.________
+contre "le détenteur du numéro de natel [...]" pour "incitation à une violation
+de domicile et escroquerie",
+vu le courrier du 21 septembre 2011 du Ministère public de l'arrondissement de l'Est vaudois,
+vu l'ordonnance du 9 novembre 2011, par laquelle le procureur a refusé d'entrer en matière
+et laissé les frais à la charge de l'Etat (dossier
+n° PE11.015722-JGS
+),
+vu le recours déposé en temps utile par la Municipalité d'E.________ contre cette décision,
+vu les déterminations du procureur;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0]) contre une décision du Ministère public (art. 393 al.
+1 let. a CPP), par la plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est
+recevable;
+attendu que le 15 septembre 2011, la Municipalité d'E.________ a déposé plainte contre
+le détenteur du numéro de natel [...] pour les motifs suivants (P. 4):
+"En effet, l'intéressé [le détenteur du numéro de natel [...]] a loué à
+M.
+I.________
+,
+domicilié rue du [...] à [...], la parcelle no [...] propriété de la Commune d'E.________,
+pour l'entreposage d'une dizaine de véhicules destinés à la vente, ceci pour une durée
+de six mois pour un montant de CHF 2'100.-.",
+que par courrier du 21 septembre 2011, le procureur a informé la plaignante que les éléments
+constitutifs de l'infraction ou les conditions à l'ouverture de l'action ne paraissaient manifestement
+pas réunis et lui a imparti un délai de dix jours, non prolongeable, pour motiver la plainte
+ou la préciser, faute de quoi une ordonnance de non-entrée en matière serait rendue,
+que par ordonnance du 9 novembre 2011, le procureur a refusé d'entrer en matière et laissé
+les frais à la charge de l'Etat,
+qu'en effet, il a considéré que les conditions à l'ouverture de l'action pénale n'étaient
+manifestement pas réunies en ce sens que la plaignante n'avait pas motivé ou précisé
+sa plainte dans le délai imparti à cet effet,
+que la Municipalité d'E.________ a recouru contre cette décision;
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont pas réunis;
+attendu que la question de savoir si les faits qui sont portés à sa connaissance constituent
+une infraction à la loi pénale doit être examinée d'office par le Ministère
+public (Cornu, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale
+suisse, Bâle 2011, n. 10 ad art. 310 CPP, p. 1411),
+qu'en l'espèce, la plainte formée par la Municipalité d'E.________ est parfaitement compréhensible,
+qu'en effet, cette dernière reproche à un tiers, dont elle n'a que le numéro de téléphone
+portable, d'avoir loué, sans droit, à I.________, un terrain appartenant à la commune
+d'E.________, et d'avoir ainsi encaissé une somme de 2'100 fr.,
+que tel que décrit, ce stratagème pourrait être constitutif d'escroquerie au sens de l'art.
+146 CP,
+que le lésé potentiel est non seulement le locataire I.________, qui paie pour une chose qui
+ne peut pas lui être valablement remise en location, mais aussi la Municipalité d'E.________
+qui, pendant ce temps, ne peut pas disposer du terrain loué sans droit,
+qu'il est donc nécessaire que le procureur ouvre une instruction, afin d'examiner si les éléments
+constitutifs de l'infraction d'escroquerie au sens de l'art. 146 CP sont réalisés dans
+le cas d'espèce;
+attendu, en définitive, que le recours de la Municipalité d'E.________ est admis et l'ordonnance
+annulée,
+que le dossier de la cause est renvoyé au Procureur de l'arrondissement de l'Est vaudois pour qu'il
+ouvre une instruction (art. 309 al. 1 let. a CPP) et procède aux mesures nécessaires,
+que les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux; RSV 312.03.1]), seront laissés à la charge de l’Etat (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance.
+III.
+Renvoie la cause au Procureur de l'arrondissement
+de l'Est vaudois pour qu’il ouvre une instruction et procède aux mesures nécessaires.
+IV.
+Dit que les frais de la procédure de recours,
+par 440 fr. (quatre cent quarante francs), sont laissés à la charge de l'Etat.
+V.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Municipalité d'E.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
