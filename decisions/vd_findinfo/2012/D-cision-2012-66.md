@@ -1,0 +1,181 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___66"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 66"
+decided: "2012-01-19"
+published: "2012-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3096903"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-169.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 66
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, DROIT D'OBTENIR UNE DÉCISION, DÉTOURNEMENT D'OBJETS SOUS MAIN DE JUSTICE | 169 CP, 319 al. 1 CPP (CH), 393 al. 2 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2012 Décision / 2012 / 66
+
+CLASSEMENT DE LA PROCÉDURE, DROIT D'OBTENIR UNE DÉCISION, DÉTOURNEMENT D'OBJETS SOUS MAIN DE JUSTICE | 169 CP, 319 al. 1 CPP (CH), 393 al. 2 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+39
+PE11.002334-NKS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 19 janvier 2012
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Puthod
+Art.
+169 CP; 319, 393 ss CPP
+Vu l'
+enquête n° PE11.002334-NKS
+instruite par le Ministère public de l'arrondissement de l'Est vaudois contre
+H.________
+pour détournement de valeurs patrimoniales mises sous main de justice, sur plainte de
+F.________
+SA
+,
+vu l'ordonnance du 25 novembre 2011, par laquelle le Procureur a ordonné le classement de la procédure
+pénale dirigée contre H.________, pour détournement de valeurs patrimoniales mises sous
+main de justice (I) et a laissé les frais de procédure à la charge de l'Etat (II),
+vu le recours interjeté le 16 décembre 2011 par F.________ SA contre cette décision, concluant
+à titre de mesures provisionnelles, au séquestre immédiat de tous les comptes bancaires
+de H.________, tous les avoirs mobiliers et immobiliers de ce dernier, de même que toutes les créances
+qu'il aurait contre des tiers et, au fond, à l'annulation de l'ordonnance entreprise, au renvoi
+de la cause au Procureur de l'arrondissement de l'Est vaudois avec des instructions précises, à
+l'allocation à la charge de l'Etat d'une indemnité équitable à F.________ SA pour
+ses frais d'intervention à titre de dépens et à ce que tous les frais soient supportés
+par l'Etat,
+vu la décision du 29 décembre 2011 par laquelle le Président de la Chambre des recours
+en matière pénale a rejeté la requête de mesures provisionnelles,
+vu le préavis du Ministère public du 30 décembre 2011 proposant le rejet du recours,
+vu les pièces du dossier;
+attendu que l'ordonnance entreprise a été adressée pour notification au recourant sous
+pli simple le vendredi 2 décembre 2011,
+qu'on peut admettre, vu les aléas de la distribution du courrier B, que le recourant n'a pas reçu
+l'envoi avant le mardi 6 décembre 2011,
+qu'ainsi, le recours a été interjeté dans le délai légal (art. 322 al. 2 CPP
+par renvoi de l'art. 310 al. 2 et de l'art. 396 al. 1 CPP) contre une décision du Ministère
+public (art. 393 al. 1 CPP),
+qu'au surplus, le recourant a qualité pour recourir au sens de l'art. 382 al. 1 CPP,
+que le recours est donc recevable;
+attendu que l'art. 319 al. 1 CPP prévoit le classement de l'affaire lorsque aucun soupçon justifiant
+une mise en accusation n'a été établi durant l'instruction (a), lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (b) ou lorsque les faits justificatifs empêchent
+de retenir une infraction contre le prévenu (c);
+qu'en l'occurrence, l'ordonnance de classement est motivée par le fait que l'infraction de détournement
+de valeurs patrimoniales mises sous main de justice n'est pas réalisée au motif que H.________
+n'aurait pas réalisé au cours de la période de saisie en question les gains qui avaient
+été prévus par l'Office des poursuites;
+attendu qu'il est reproché à H.________ d'avoir soustrait un montant total de 55'837 fr. 80
+au préjudice des créanciers de la série
+n°
+1, alors qu'il avait été astreint, par décision de l'Office des poursuites du district
+d'Aigle, à une retenue de 6'350 fr. par mois sur ses revenus pour une période allant du 17
+mars 2010 au 5 février 2011,
+que d'après l'art. 169 ch. 1 al. 1 CP, celui qui, de manière à causer un dommage à
+ses créanciers, aura arbitrairement disposé d'une valeur patrimoniale saisie ou séquestrée
+sera puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire;
+que, dans la mesure où la saisie de gains futurs repose sur des pronostics, il appartient au juge
+pénal d'examiner, en fait, si l'accusé a réalisé ou non pendant la période visée
+les gains qui avaient été prévus (B. Corboz, Les infractions en droit suisse, volume I,
+3
+ème
+édition, Berne 2010, n. 19, p. 558),
+que, si les gains du débiteur ont été inférieurs aux prévisions, le juge pénal,
+en suivant les règles de la LP, doit déterminer lui-même dans quelle mesure le débiteur
+pouvait et devait respecter la saisie (B. Corboz, op. cit., n. 19, p. 558),
+que, s'agissant d'un indépendant, la jurisprudence relative à l'art.
+169
+CP admet que si les gains effectifs du débiteur sont irréguliers, il faut opérer une moyenne
+pour la période visée, en ce sens qu'une période faste peut compenser une période
+de disette (B. Corboz, op. cit., n. 19, p. 558; ATF 102 IV 249 c. 2a et les arrêts cités);
+attendu qu'en l'espèce, d'après le procès-verbal de saisie de l'Office des poursuites
+du district d'Aigle du 17 mars 2010 (P. 5/5), le prévenu avait une saisie imposée sur ses revenus
+à hauteur de 6'350 fr. par mois dès le 17 mars 2010,
+que, d'après ce même document, les revenus du prévenu avaient été estimés
+par l'Office des poursuites à 7'506 fr. par mois,
+que, d'après les pièces au dossier, il n'a bénéficié du revenu d'insertion que
+depuis le 9 octobre 2010,
+que, par ailleurs, il ne figure au dossier aucune information relative aux revenus du prévenu pour
+la période allant du 17 mars 2010 au 9 octobre 2010,
+que le Procureur devait instruire ce point et de déterminer quels étaient les revenus du prévenu
+pour la période précitée,
+que ce dernier s'est contenté de retenir les chiffres donnés par le prévenu sans autre
+instruction ou vérification,
+qu'en conséquence, il n'est, en l'état, pas établi que, sur toute la période en question,
+H.________ n'était pas en mesure de payer au moins une partie de la retenue et qu'il n'a pas réalisé
+les gains qui avaient été prévus par l'Office des poursuites,
+qu'au vu de ce qui précède, le recours doit être admis et l'ordonnance annulée;
+attendu que F.________ SA a déposé une première requête de séquestre le 15 février
+2011 déjà (P. 4),
+qu'elle a réitéré sa requête par courrier du 13 avril 2011 (P. 8),
+que le Procureur en charge d'instruire le dossier n'a jamais donné suite aux requêtes,
+qu'il devait pourtant examiner celles-ci,
+que, partant, il lui est enjoint de statuer dans les plus brefs délais sur cette question;
+qu'en conséquence, le dossier de la cause doit être renvoyé au Procureur de l'arrondissement
+de l'Est vaudois pour qu'il procède dans le sens des considérants qui précèdent,
+que les frais de la procédure de recours, par 440 fr., sont laissés à la charge de l'Etat
+(art. 428 al. 4 CPP),
+que, s'agissant des dépens réclamés par la recourante, ils pourront être requis du
+prévenu au vu de l'issue de la procédure (art. 433 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance est annulée.
+III.
+Le dossier de la cause est renvoyé au Procureur
+de l'arrondissement de l'Est vaudois pour qu'il procède dans le sens des considérants.
+IV.
+Les
+frais de la procédure de recours, par 440 fr. (quatre cent quarante francs), sont laissés à
+la charge de l'Etat.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Olivier Couchepin, avocat (pour F.________ SA),
+-
+H.________,
+-
+Ministère public central,
+et communiquée à :
+-
+Ministère public de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
