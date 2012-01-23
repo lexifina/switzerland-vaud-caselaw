@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2012___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2012 / 4"
+decided: "2012-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3076165"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md"]
+---
+
+# VD Findinfo Réc-civile / 2012 / 4
+
+## Regeste
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 23.01.2012 Réc-civile / 2012 / 4
+Vaud Tribunal cantonal Cour administrative 23.01.2012 Réc-civile / 2012 / 4
+Vaud Tribunal cantonal Cour administrative 23.01.2012 Réc-civile / 2012 / 4
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+4/2012
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 23 janvier 2012
+______________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+47 let. f et 48 CPC; art. 8a al. 3 et 8b al. 4 CDPJ
+Vu la requête déposée le 13 janvier 2012 par T.________ par-devant la justice de paix
+du district de Lausanne,
+vu le courrier de la Première juge de paix du district de Lausanne du 16 janvier 2012 demandant
+la récusation de tout son office au motif que T.________ y est collaboratrice,
+vu les pièces au dossier;
+attendu que T.________ allègue dans sa requête du 13 janvier 2012 que sa fille M.________ est
+née le 23 avril 2011, avant que son divorce ne soit prononcé,
+qu'elle ne serait dès lors pas la fille de N.________, qui était son époux à l'époque,
+que leur divorce est devenu définitif et exécutoire le 11 octobre 2011,
+que T.________ conclut dès lors à la nomination d'un curateur ad hoc à sa fille, en la
+personne de Me Laurent Savoy, afin de la représenter dans le cadre de l'action en désaveu qu'elle
+souhaite intenter contre N.________,
+que la Première juge de paix considère que les magistrats de son office ne peuvent statuer
+sur cette requête sans que cela ne porte atteinte à la garantie d'un tribunal impartial et
+indépendant,
+qu'elle demande que la cause soit confiée à une autre justice de paix;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 16 janvier 2012 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12
+janvier 2010; RSV 211.02) et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal du 13
+novembre 2007; RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+qu'à teneur de l'art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d'un motif de récusation possible et se récuse lorsqu'il considère que
+ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_643/2010 du 11 janvier 2011 c. 3.1; ATF 136 III 605 c. 3.2.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (ATF 134 I 238 c. 2.1;
+ATF
+134 I 20 c. 4.2),
+qu'en l'espèce, T.________ a un intérêt dans la requête qu'elle a déposée
+tendant à la nomination d'un curateur pour sa fille M.________, âgée de neuf mois à
+ce jour,
+qu'elle travaille à ce jour au sein de la justice de paix du district de Lausanne,
+qu'il est ainsi possible que son activité au sein de l'office concerné ait créé des
+liens d'amitié étroite ou d'inimitié personnelle entre elle et les magistrats appelés
+à statuer sur sa requête du 13 janvier 2012,
+que pour des motifs d'apparence, il n'est pas souhaitable que sa requête soit traitée par la
+justice de paix du district de Lausanne,
+que la demande de récusation en corps de cet office doit dès lors être admise;
+attendu que dans un tel cas, la cause est transmise dans l'état où elle se trouve à une
+autre autorité ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'elle sera en l'espèce transmise à la justice de paix du district de la Riviera – Pays-d'Enhaut;
+attendu que la présente décision est rendue sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 16 janvier 2012 par la Justice de Paix du district
+de Lausanne est admise.
+II.
+La cause est renvoyée dans l'état où elle se trouve à la Justice de Paix du district
+de la Riviera – Pays-d'Enhaut.
+III.
+L'arrêt est rendu sans frais, ni dépens.
+IV.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Mme T.________, Chemin de la Colline 16, 1007 Lausanne,
+-
+Mme A.-F. Cornaz, Première juge de paix du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme Virginie Aguet, Première juge de paix du district de la Riviera – Pays-d'Enhaut.
+Le greffier :
