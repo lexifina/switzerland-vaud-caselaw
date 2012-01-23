@@ -1,0 +1,276 @@
+---
+decision_id: "vd_findinfo_Faillite___2011___70"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2011 / 70"
+decided: "2012-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3065433"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2011 / 70
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.01.2012 Faillite / 2011 / 70
+
+OUVERTURE DE LA FAILLITE | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF11.009752-111281
+64
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 janvier 2012
+__________________
+Présidence
+de               M.
+Sauterel
+,
+vice-président
+Juges
+:              M.
+Bosshard et Mme Rouleau
+Greffière
+:              Mme
+Tchamkerten
+*****
+Art.
+174 al. 2 ch. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+P.________Sàrl
+,
+à Ecublens, contre le jugement rendu le 17 juin 2011, à la suite de l’audience du 5
+mai 2011, par le Président du Tribunal d’arrondissement de Lausanne, prononçant la faillite
+de la recourante à la requête de
+A.C.________
+et
+B.C.________
+,
+à Prangins.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+A la requête de A.C.________ et B.C.________, l'Office des poursuites du district de Morges a notifié,
+le 2 février 2010, un commandement de payer n° 5'244'085 à P.________Sàrl portant
+sur le montant de 70'000 fr. plus intérêt à 5 % l'an dès le 1
+er
+août 2009,
+la cause de l'obligation étant libellée comme il suit : "Indemnités pour occupation
+illicite du 01.08.2009 au 31.12.2009 (soit 5 x Fr. 14'000.00) concernant une villa individuelle
+de 5.5 pièces sise route [...] à 1197 Prangins (VD) – contrat de bail à loyer du
+01.04.2007, résilié pour défaut de paiement au 30 septembre 2009. Poursuite
+solidaire : A.F.________ et B.F.________, [...], 1197 Prangins."
+La poursuivie a formé opposition totale.
+Une commination de faillite lui a été notifiée le  14 février 2011
+dans la même poursuite.
+Le 11 mars 2011, les poursuivants ont requis la faillite de la débitrice.
+2.
+Statuant à la suite de l'audience du 5 mai 2011,
+à laquelle les poursuivants ont fait défaut, le Président du Tribunal d'arrondissement
+de Lausanne a déclaré la faillite de P.________Sàrl le 17 juin 2011 à 8
+heures (I) et mis les frais, par 200 fr., à la charge de la faillie (II).
+Ce jugement a été adressé pour notification aux parties le 17 juin 2011. La
+faillie l'a reçu le 27 juin suivant.
+3.
+P.________Sàrl a recouru contre cette décision
+par acte du 7 juillet 2011, concluant, avec suite de frais et dépens, à son annulation.
+A l'appui de son recours, elle a produit notamment les pièces suivantes :
+-
+un extrait du Registre du commerce la concernant, dont il ressort que A.F.________ est son associé
+gérant, avec signature individuelle;
+-
+ses comptes de pertes et profits et son bilan intermédiaire pour la période du 1
+er
+janvier 2010
+au 31 décembre 2010, dont il ressort qu'un bénéfice de 130'000 fr. a été
+réalisé au cours de cet exercice;
+-
+un extrait des registres selon l'art. 8a LP (loi fédérale sur la poursuite pour dettes et la
+faillite du 11 avril 1889, RS 281.1) la concernant, établi le 5 juillet 2011 par l'Office
+des poursuites du district de l'Ouest lausannois;
+-
+un courriel du 4 juillet 2011, dans lequel l'avocat Serge Patek, représentant les poursuivants
+A.C.________ et B.C.________, informe A.F.________ que ses clients acceptent que leur créance de
+84'000 fr. en capital soit réglée à raison de 20'000 fr. "payable ce jour",
+de 20'000 fr. le 31 juillet 2011 et de 44'000 fr. le 31 août 2011, et que les
+intérêts et frais soient acquittés le 30 septembre 2011;
+-
+une lettre adressée le 27 avril 2011 par la société "Sàrl [...]", à
+Mulhouse, à P.________Sàrl, dont il ressort que des honoraires de 70'000 fr. seraient payés
+par la société précitée à la recourante.
+La recourante a requis l'effet suspensif, qui a été accordé par décision du président
+de la cour de céans du 19 juillet 2011, ordonnant par ailleurs, à titre de mesures conservatoires,
+l'inventaire et l'audition de la faillie.
+Le 19 juillet 2011, le président de la cour de céans a transmis à la recourante un extrait
+au 14 juillet 2011 des registres selon l'art. 8a LP de l'Office des poursuites du district
+de l'Ouest lausannois, en lui impartissant un délai non prolongeable au 12 août 2011 pour
+se déterminer au sujet de cette pièce, si elle le souhaitait. La recourante s'est déterminée
+dans le délai imparti, en produisant une pièce.
+Le 29 août 2011, les intimés ont indiqué à l'autorité de céans qu'ils "acquiesçaient"
+au recours.
+En droit
+:
+I.
+a)
+Le recours a été introduit auprès de l'instance de recours conformément à l'art.
+321 al. 1 CPC (Code de procédure civile du 19 décembre 2008, RS 272). Déposé
+le 7 juillet 2011, il a été formé en temps utile, dans le délai de dix jours de l'art.
+174 al. 1 LP. Le recours est en outre suffisamment motivé, de sorte qu'il est recevable formellement
+(art. 321 al. 1 CPC).
+b)
+La production de pièces nouvelles en deuxième instance est autorisée en matière de
+faillite pour faire valoir des faits nouveaux (nova) sous certaines conditions. La loi différencie
+deux types de nova : ceux qui se sont produits avant le jugement de première instance (pseudo-nova
+– art. 174 al. 1, 2
+ème
+phrase LP) et ceux qui se sont produits après (vrais nova – art. 174 al. 2 LP) (Giroud, Basler
+Kommentar, n. 17 ad art. 174 LP). Il est possible de faire valoir les pseudo-nova sans aucune restriction
+(Giroud, op. cit., n. 19 ad art. 174 LP; Bosshard, Le recours contre le jugement de faillite, in
+JT 2010 II 113, p. 126; FF 1991 III 1, p. 130; TF 5A_571/2010 du 2 février 2011 c. 2.2, publié
+in SJ 2011 I 149). En revanche, seul le débiteur peut apporter de vrais nova et il doit le faire
+dans la motivation du recours ou en tout cas avant l'échéance du délai de recours (Giroud,
+op. cit., n. 20 ad art. 174 LP).
+En l'espèce, les pièces produites avec le recours, qui sont antérieures à la faillite
+ou tendent à établir la solvabilité de la recourante, sont recevables. En revanche, la
+pièce produite après l'échéance du délai de recours est irrecevable.
+II.
+a)
+Selon l'art. 171 LP, le juge saisi d'une réquisition
+de faillite doit prononcer celle-ci, sauf dans les cas mentionnés aux art. 172 à 173a LP, qui
+n'étaient pas réalisées en l'espèce. C'est donc à juste titre que le premier
+juge a prononcé la faillite de la recourante.
+b)
+En
+vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler le jugement lorsque le débiteur, en déposant
+le recours, rend vraisemblable sa solvabilité et établit par titre que depuis lors la dette,
+intérêts et frais compris, a été payée (ch. 1) ou que la totalité de la
+somme à rembourser a été déposée auprès de l'autorité de recours à
+l'intention du créancier (ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite
+(ch. 3). Ces deux conditions, soit le paiement de la dette à l'origine de la faillite ou le retrait
+de la requête de faillite et la vraisemblance de la solvabilité sont cumulatives (Bosshard,
+op. cit., p. 127).
+aa)
+En l'espèce, rapproché de la réponse au recours, le courriel du 4 juillet 2011
+du conseil des intimés, par lequel ceux-ci indiquent accepter un plan de paiement, doit être
+interprété comme un retrait de la réquisition de faillite. Il n'y aurait en effet pas
+de sens à accorder un sursis à une société dont on persisterait à requérir
+la faillite. L'une des conditions précitées pour annuler la faillite est ainsi réalisée
+(art. 174 al. 2 ch. 3 LP).
+bb)
+La solvabilité au sens de l’art. 174
+al. 2 LP se définit par opposition à l’insolvabilité au sens de l’art. 191
+LP (Giroud, op. cit., n. 25 ad art. 174 LP; TF 5P.399/1999 du 14 janvier 2000 c. 2b). Cette dernière
+n’équivaut pas au surendettement mais consiste en l’incapacité du débiteur,
+en raison d’un manque de liquidités qui n’apparaît pas seulement temporaire, de
+payer ses dettes échues. Dès lors que la loi se contente d’une simple vraisemblance,
+il ne faut pas poser d’exigences trop sévères quant à la solvabilité :
+celle-ci est rendue vraisemblable lorsqu’elle apparaît plus vraisemblable que l’insolvabilité,
+en particulier lorsque la viabilité de l'entreprise ne saurait être déniée d'emblée
+(Giroud, op. cit., n. 26 ad art. 174 LP; Cometta, Commentaire romand, n. 9 ad art. 174 LP;
+Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 45 ad art. 174 LP; TF 5A_529/2008 du 25 septembre 2008 et réf. cit.; TF 5P.129/2006
+du 30 juin 2006; TF 5P.80/2005 du 15 avril 2005).
+S’il ne doit pas
+prouver sa solvabilité de manière stricte, le débiteur ne peut toutefois se contenter
+de simples allégations, mais doit fournir des indices tels que les récépissés de
+paiements, des justificatifs de moyens financiers à sa disposition (avoirs en banque, crédits
+bancaires), des listes de ses débiteurs, un extrait du registre des poursuites, des comptes annuels
+récents avec bilan intermédiaire, cette liste n’étant pas exhaustive. L'extrait
+du registre des poursuites concernant le failli est en règle générale décisif (Cometta,
+op. cit., n. 10 ad art. 174 LP).  Il faut examiner concrètement la situation du débiteur,
+par comparaison entre ses actifs et ses passifs. Des difficultés momentanées de trésorerie,
+même si elles amènent un retard dans le paiement des dettes, ne sont pas à elles seules
+un indice d’insolvabilité. A l’inverse, l’absence de poursuite en cours n’est
+pas une preuve absolue de solvabilité; elle constitue toutefois un indice sérieux de la
+capacité du débiteur de s’acquitter de ses engagements échus (CPF, 9 décembre
+2010/474; CPF, 2 octobre 2008/483; CPF, 13 juin 2002/229). Dans sa jurisprudence actuelle, la cour
+de céans admet que, s'agissant d'une poursuite d'un montant relativement faible, le paiement de
+cette poursuite accompagnée d'un extrait des poursuites vierge est suffisant pour rendre la solvabilité
+vraisemblable (CPF, 20 septembre 2007/341; CPF, 7 juin 2007/206; CPF 27 janvier 2005/4 et les arrêts
+cités). Cette vision libérale est aussi celle de la doctrine la plus récente (Cometta,
+op. cit., nn. 10-13 ad art. 174 LP;  CPF, 15 novembre 2007/424).
+En l'espèce, l'extrait des registres selon
+l'art. 8a LP produit par la recourante, établi le 5 juillet 2011, laisse apparaître
+deux poursuites des intimés, soit celle à l'origine de la faillite, et une autre, de quelque
+15'000 fr., frappée d'opposition, ainsi qu'une poursuite émanant du Service cantonal des contributions
+de l'Etat de Fribourg, qui a été payée. De l'extrait produit d'office, du 14 juillet 2011,
+il résulte qu'une nouvelle poursuite a été introduite le 13 juillet 2011 par la succession
+[...], pour la somme de 15'055 fr. 45, dont le délai pour faire opposition n'était pas encore
+échu au 14 juillet 2011, de sorte que cette poursuite n'était pas encore exécutoire à
+cette date. Il ressort des comptes produits que la recourante a réalisé un bénéfice
+de 130'000 fr. au cours de l'exercice 2010. La recourante devrait en outre percevoir des honoraires à
+hauteur de 70'000 fr. dans une affaire précise. Dans ces conditions, l'on ne saurait dénier
+d'emblée sa viabilité, de sorte que l'on peut considérer que sa solvabilité est rendue
+suffisamment vraisemblable pour permettre d'annuler la faillite.
+III.
+Le recours doit par conséquent être
+admis et le jugement annulé en ce sens que la faillite de P.________Sàrl n'est pas prononcée.
+Le jugement est confirmé pour le surplus, c'est-à-dire en ce qui concerne les frais de première
+instance, la décision du premier juge étant justifiée.
+Les frais judiciaires de deuxième instance de la recourante sont arrêtés à 300 francs.
+Il n'y a pas lieu à l'allocation de dépens, les intimés ayant conclu à l'admission
+du recours.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est annulé en ce sens que la faillite de P.________Sàrl n'est pas prononcée.
+Il est confirmé pour
+le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante P.________Sàrl.
+IV.
+Il n'est pas alloué de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+23 janvier 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mme Geneviève Gehrig, agent d'affaires breveté (pour P.________Sàrl),
+‑
+Me Serge Patek, avocat (pour A.C.________ et B.C.________),
+-
+M. le Préposé à l'Office des poursuites de l'Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, office de Morges,
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+et, en original, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
