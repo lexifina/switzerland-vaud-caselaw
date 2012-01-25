@@ -1,0 +1,193 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___84"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 84"
+decided: "2012-01-25"
+published: "2012-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3092020"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-264.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2012 / 84
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE, MOTIVATION DE LA DÉCISION | 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2012 Décision / 2012 / 84
+
+ORDONNANCE DE SÉQUESTRE, MOTIVATION DE LA DÉCISION | 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+33
+PE10.027184-CMI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 25 janvier 2012
+__________________
+Présidence
+de               M.
+KRIEGER, président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffier
+:              M.
+Ritter
+*****
+Art.
+263 CPP
+Vu l'
+enquête n° PE10.027184-CMI
+,
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+A.W.________
+pour diffamation, calomnie, menaces qualifiées, tentative de contrainte et insoumission à une
+décision de l'autorité, d'office et sur plainte de
+B.W.________
+,
+vu l'ordonnance du 5 janvier 2012, par laquelle le Procureur a ordonné le séquestre de divers
+documents saisis au domicile du prévenu à la suite d'une perquisition effectuée le 12
+octobre 2011, énumérés dans un inventaire de saisie annexé à la décision,
+vu le recours interjeté le 16 janvier 2012 par A.W.________ contre cette décision, concluant,
+avec suite de frais et dépens, à son annulation, les pièces objets de l'inventaire annexé
+à l'ordonnance étant restituées immédiatement au recourant,
+vu les déterminations du Procureur du 20 janvier 2012,
+vu les déterminations de l'intimée B.W.________ du 23 janvier 2012,
+vu les pièces du dossier;
+attendu
+qu'aux
+termes de l’art. 393 al. 1 let. a CPP, le recours est recevable contre les décisions et actes
+de procédure du Ministère public,
+que ce recours s’exerce auprès de l’autorité de recours (cf. art. 20 al. 1 let.
+b CPP), qui, dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP, RSV 312.01; art. 80 LOJV, RSV 173.01),
+que le recours doit être adressé par écrit, dans un délai de dix jours dès la
+notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP),
+qu'interjeté dans le délai légal de dix jours de l'art. 396 al. 1 CPP par le prévenu
+qui a la qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant aux prescriptions de forme
+de l'art. 385 al. 1 CPP, le recours est recevable;
+attendu que le Procureur a motivé sa décision comme il suit :
+"
+Les objets et valeurs
+patrimoniales ci-dessus :
+-
+pourraient être utilisés comme moyens de preuve (art. 263 al. 1 let. a CPP)
+-
+pourraient être confisqués (art. 263 al. 1 let. d CPP)
+",
+que, comme l'expose le Procureur dans ses déterminations sur le recours, le prévenu est notamment
+soupçonné d'avoir envoyé à la plaignante et diffusé auprès de tiers des
+courriers au contenu attentatoire à l'honneur de l'intimée,
+que la perquisition effectuée au domicile du prévenu le 12 octobre 2011 avait mené à
+la saisie de divers documents pouvant intéresser l'enquête et donc de nature à être
+utilisés comme moyens de preuve,
+qu'il s'agissait notamment de correspondances entre le recourant et ses avocats et de d'écrits établis
+par des moyens techniques, dépourvus de signature,
+que certains des documents saisis font l'objet d'analyses de police,
+qu'en outre, s'il s'avérait que les documents séquestrés ont été utilisés
+pour commettre une infraction, ils devront être confisqués,
+que, pour le surplus et toujours selon le Procureur, il n'y avait aucune volonté du Ministère
+public de procéder à un séquestre investigatoire;
+attendu que l'ordonnance entreprise se limite à justifier les deux cas de séquestre par référence
+aux normes légales tenues pour topiques,
+que l'ordonnance n'examine pas si les conditions légales de chacun de ces cas de séquestre
+sont remplies,
+que la seule référence à la norme légale est insuffisante sous l'angle des exigences
+de motivation de la décision (TF 1A.95. 2002 du 16 juillet 2002 c. 3.3; CREP 3 octobre 2011/401),
+que ce défaut de motivation ne permet pas à l'autorité de recours d'exercer son contrôle
+(Lembo/Julen Berthod, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale
+suisse, Bâle 2011, n. 35 ad art. 263 CPP, p. 1190),
+qu'en principe, le défaut de motivation conduit à l'annulation de l'ordonnance et au renvoi
+du dossier à l'autorité saisie de la cause pour nouvelle décision,
+qu'il y a lieu de procéder de la sorte en l'espèce,
+que les déterminations du Procureur du 20 janvier 2012 n'y changent rien, même si elles étayent
+a posteriori partiellement les motifs de l'ordonnance,
+qu'il appartient au Procureur de rendre une nouvelle décision, motivée conformément aux
+exigences légales,
+qu'il convient à cet égard de rappeler que la correspondance entre le prévenu et son ou
+ses défenseurs ne peut par principe être séquestrée (art. 264 al. 1 let. a CPP),
+qu'il en va de même des documents personnels et de la correspondance du prévenu, si l’intérêt
+à la protection de la personnalité prime l’intérêt à la poursuite pénale
+(art. 264 al. 1 let. b CPP),
+qu'il incombera en outre au Procureur de se prononcer sur les divers moyens invoqués par le prévenu;
+attendu, en définitive, que le recours doit être admis et l'ordonnance attaquée annulée,
+que le dossier de la cause est renvoyé au Procureur pour qu'il procède dans le sens des considérants
+puis rende une nouvelle décision,
+que le séquestre est maintenu jusqu'à droit connu sur la nouvelle décision du Procureur
+de l'arrondissement de Lausanne,
+que
+les frais de la procédure
+de recours, constitués de l'émolument d'arrêt, par
+440
+fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux du 28 septembre 2010, RSV 312.03.1]),
+et des frais imputables à
+la défense d'office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr., plus la TVA
+,
+par 43 fr. 20,
+soit 583 fr. 20,
+sont laissés à la charge de l’Etat
+(art. 428 al. 4 CPP),
+qu'au surplus, une indemnité au sens de l'art. 429 CPP pourra, le cas échéant, être
+requise par le recourant devant l'autorité qui jugera le fond.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance.
+III.
+Renvoie le dossier de la cause au Procureur de
+l'arrondissement de Lausanne pour qu'il procède dans le sens des considérants puis rende une
+nouvelle décision.
+IV.
+Maintient le séquestre jusqu'à droit connu sur la nouvelle décision du Procureur de l'arrondissement
+de Lausanne.
+V.
+Fixe à 583 fr. 20 (cinq cent
+huitante-trois francs et vingt centimes) l'indemnité allouée au défenseur d'office de
+A.W.________.
+VI.
+Dit que les frais du présent arrêt, par 440 fr. (quatre cent quarante francs),
+ainsi
+que l'indemnité due au défenseur d'office de A.W.________, par 583 fr. 20 (cinq cent huitante-trois
+francs et vingt centimes),
+sont laissés à
+la charge de l'Etat.
+VII.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Eric Reynaud, avocat (pour A.W.________),
+-
+M. Jean-Michel Duc, avocat (pour B.W.________),
+-
+Ministère public central,
+et communiquée à :
+‑
+Ministère public de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
