@@ -1,0 +1,182 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___72"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 72"
+decided: "2012-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3076873"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-088.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2012 / 72
+
+## Regeste
+
+RECOURS EN MATIÈRE PÉNALE, OPPOSITION TARDIVE, DOMICILE CONNU | 88 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2012 Décision / 2012 / 72
+
+RECOURS EN MATIÈRE PÉNALE, OPPOSITION TARDIVE, DOMICILE CONNU | 88 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+21
+PE10.015588-TDE/mno
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 25 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+88 al. 1 et 4, 329 al. 2 CPP
+Vu l'ordonnance pénale du 2 février 2011 par laquelle le Ministère public de l'arrondissement
+de Lausanne a constaté que
+I.________
+s'était rendue coupable d'infraction à la Loi fédérale sur les étrangers, l'a
+condamnée à cinquante jours de peine privative de liberté et a mis les frais de procédure
+à sa charge,
+vu l'opposition formée le 10 janvier 2012 par la prénommée,
+vu le courrier du 10 janvier 2012, par lequel le procureur a transmis le dossier au Tribunal d'arrondissement
+de Lausanne comme objet de sa compétence,
+vu le prononcé du 10 janvier 2012, par lequel le président du Tribunal d'arrondissement de
+Lausanne a déclaré irrecevable l'opposition formée par I.________ contre l'ordonnance
+pénale rendue par le Ministère public de l'arrondissement de Lausanne le 2 février 2011
+(I), dit que l'ordonnance pénale rendue le 2 février 2011 était exécutoire (II) et
+rendu la décision sans frais (III),
+vu le recours interjeté en temps utile par I.________ contre ce prononcé,
+vu les pièces du dossier;
+attendu
+qu'aux termes de l'art. 393 al. 1 let. b CPP (Code de procédure pénale suisse du 5 octobre
+2007, RS 312.0), le recours est recevable contre les ordonnances, les décisions, les actes de procédure
+des tribunaux de première instance, sauf contre ceux de la direction de la procédure,
+que le prononcé par lequel un tribunal de première instance, statuant sur la validité
+de l'opposition formée par le prévenu contre une ordonnance de condamnation rendue par le Ministère
+public (cf. art. 356 al. 2 CPP), déclare l'opposition irrecevable, par exemple pour cause de tardiveté,
+est ainsi susceptible de recours selon les art. 393 ss CPP (Gilliéron/Killias,
+in
+Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+n. 5 ad art. 356 CPP; Riklin,
+in
+Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Bâle 2011, n. 2 ad art. 356 CPP),
+que ce recours s’exerce auprès de l’autorité de recours (cf. art. 20 al.1 let.
+b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP [Loi d'introduction du Code de procédure pénale suisse du 19 mai 2009, RSV 312.01] ;
+art. 80 LOJV [Loi d'organisation judiciaire du 12 décembre 1979, RSV 173.01]),
+que le recours doit être adressé par écrit, dans un délai de dix jours dès la
+notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP),
+qu'en l'espèce, interjeté en temps utile, devant l’autorité compétente, par
+une partie qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art.
+385 al. 1 CPP), le recours est recevable;
+attendu que selon l'art. 88 al. 1 CPP, la notification a lieu dans la Feuille officielle désignée
+par le canton ou la Confédération lorsque le lieu de séjour du destinataire est inconnu
+et n'a pas pu être déterminé en dépit des recherches qui peuvent raisonnablement
+être exigées (let. a), lorsqu'une notification est impossible ou ne serait possible que moyennant
+des démarches disproportionnées (let. b) ou lorsqu'une partie ou son conseil n'a pas désigné
+un domicile de notification en Suisse, alors qu'ils ont leur domicile, leur résidence habituelle
+ou leur siège à l'étranger (let. c),
+que l'art. 88 al. 4 CPP prévoit toutefois que les ordonnances de classement et les ordonnances pénales
+sont réputées notifiées même en l'absence d'une publication,
+que cette fiction n'est valable que pour autant que l'une des conditions exigées par l'art. 88 al.
+1 let. a à c CPP soit remplie (Macaluso/Toffel, in: Kuhn/Jeanneret (éd.), Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 25 ad art. 88 CPP; Arquint, in: Niggli/Heer/Wiprächtiger
+(éd.), Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, Bâle
+2011, n. 11 ad art. 88 CPP),
+qu'en l'espèce, la recourante invoque qu'elle n'a pas pu être présente à l'audience
+du 21 juillet 2010 en raison de son incapacité à séjourner en Suisse,
+qu'elle indique, en outre, qu'elle n'avait pas d'adresse où recevoir la citation à comparaître
+du Ministère public,
+que lors de son interpellation par la police à la suite d'un vol à l'étalage le 24 juin
+2010, la recourante a indiqué vivre en sous-location depuis quatre ou cinq mois à l'avenue
+du [...] à Lausanne (PV aud. 4/1),
+que la recourante avait en outre refusé de révéler son lieu de séjour en France,
+qu'elle devait s'attendre à une notification et qu'il lui appartenait, dans ces conditions, d'indiquer
+son changement d'adresse,
+que la citation à comparaître à l'audience du 14 juillet 2010 est venue en retour avec
+la mention : "
+le destinataire
+est introuvable à l'adresse indiquée
+",
+qu'elle ne peut dès lors se prévaloir du défaut de signification qui aurait dû lui
+être faite,
+qu'il faut donc considérer que la recourante était sans domicile connu au moment où l'ordonnance
+pénale a été rendue,
+que l'hypothèse visée à l'art. 88 al. 1 let. a CPP est donc réalisée,
+que dans ces conditions, la fiction de l'art. 88 al. 4 CPP peut s'appliquer,
+qu'ainsi, en application de l'art. 88 al. 1 let. a et al. 4 CPP, il faut considérer que l'ordonnance
+pénale a été valablement notifiée le 2 février 2011, même sans publication;
+attendu que l'opposition doit être formée dans les dix jours dès la notification de la
+décision attaquée (art. 354 al. 1 CPP; Gilliéron/Killias, in: Kuhn/Jeanneret, op. cit.,
+n. 9 ad art. 354 CPP),
+qu'en l'espèce, l'ordonnance pénale est réputée avoir été notifiée
+le
+2 février 2011,
+que l'opposition a été formée le 10 janvier 2012, soit largement plus de dix jours après
+la notification de la décision,
+qu'elle est dès lors tardive,
+que par conséquent, c'est à bon droit que le premier juge a déclaré irrecevable l'opposition
+formée par I.________ contre l'ordonnance pénale du 2 février 2011;
+attendu, en définitive, que le recours est rejeté et le prononcé attaqué confirmé,
+que les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux du 28 septembre
+2010, RSV 312.03.1]), sont mis à la charge de la recourante qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme le prononcé attaqué.
+III.
+Dit que les frais de la procédure de recours,
+par 440 fr. (quatre cent quarante francs), sont mis à la charge de I.________.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+I.________,
+-
+Ministère public central;
+et communiquée à :
+‑
+M. le Président du Tribunal d'arrondissement
+de Lausanne,
+-
+M. le Procureur de l'arrondissement de Lausanne,
+-
+Office d'exécution des peines (et par fax),
+-
+Prison de la Tuillière, à Lonay (et par fax),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
