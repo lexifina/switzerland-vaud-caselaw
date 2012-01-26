@@ -1,0 +1,138 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___74"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 74"
+decided: "2012-01-26"
+published: "2012-01-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3081731"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-422.md"]
+---
+
+# VD Findinfo Décision / 2012 / 74
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, VOLONTÉ DE RECOURIR, RADIATION DU RÔLE | 393 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 26.01.2012 Décision / 2012 / 74
+
+CLASSEMENT DE LA PROCÉDURE, VOLONTÉ DE RECOURIR, RADIATION DU RÔLE | 393 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+24
+PE11.020968-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 26 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffier
+:              M.
+Heumann
+*****
+Art.
+393 al. 1 let. c CPP
+Vu l'
+enquête n° PE11.020968-CMS/CPB
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+J.________
+pour vol, dommages à la propriété, violation de domicile et contravention à la LStup
+(loi fédérale du 3 octobre 1951 sur les stupéfiants et les substances psychotropes; RS
+812.121) et contre
+M.________
+pour vol, dommages à la propriété et violation de domicile sur diverses plaintes,
+vu l'ordonnance du 10 décembre 2011, par laquelle le Tribunal des mesures de contrainte a ordonné
+la détention provisoire de J.________ pour une durée d'un mois, soit au plus tard jusqu'au
+8 janvier 2012,
+vu la demande de prolongation de la détention provisoire jusqu'au 8 février 2012 présentée
+par la Procureure de l'arrondissement de Lausanne le 20 décembre 2011,
+vu l'ordonnance du 28 décembre 2011, par laquelle le Tribunal des mesures de contrainte a ordonné
+la prolongation de la détention provisoire de J.________ pour une durée d'un mois, soit jusqu'au
+8 février 2012 au plus tard,
+vu le recours interjeté le 16 janvier 2012 par J.________ contre cette décision,
+vu l'avis du 20 janvier 2012, invitant la Procureure et la Présidente du Tribunal des mesures de
+contrainte à déposer d'éventuelles déterminations,
+vu les déterminations de la Procureure et de la Présidente du Tribunal des mesures de contrainte
+toutes deux datées du 20 janvier 2012,
+vu le courrier du 26 janvier 2012, adressé par fax le jour même par le conseil de J.________
+à la Chambre des recours pénale,
+vu les pièces du dossier;
+attendu
+que,
+par fax du 26 janvier 2012, le conseil de J.________ a déclaré retirer son recours pour des
+motifs d'ordre pragmatiques,
+qu'il convient d'en prendre acte et de rayer la cause du rôle,
+que selon l'art. 428 al. 1, 2
+e
+phrase CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0), la partie qui retire
+son recours est considérée comme ayant succombé, de sorte que les frais de la procédure
+de recours doivent être mis à sa charge (art. 428 al. 1, 1
+re
+phrase CPP),
+que les frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt
+arrêté exceptionnellement à 220 fr., ainsi que des frais imputables à la défense
+d'office (art. 422 al. 2 let. a CPP), fixés à 540 fr., plus la TVA, par 43 fr. 20, soit 583
+fr. 20, sont donc mis à la charge du recourant,
+que l'indemnité allouée au défenseur d'office de J.________ ne sera toutefois exigible
+que pour autant que la situation économique de ce dernier se soit améliorée (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Prend acte du retrait du recours.
+II.
+Raye la cause du rôle.
+III.
+Fixe à 583 fr. 20 (cinq cent huitante trois
+francs et vingt centimes) l'indemnité due au défenseur d'office de J.________.
+IV.
+Dit que les frais d'arrêt, par 220 fr. (deux cent vingt francs), ainsi que l'indemnité allouée
+au défenseur d'office de J.________, par 583 fr. 20 (cinq cent huitante trois francs et vingt centimes),
+sont mis à la charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera
+exigible que pour autant que la situation économique de J.________ se soit améliorée.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Robert Fox, avocat (pour J.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Pocureure de l'arrondissement
+de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
