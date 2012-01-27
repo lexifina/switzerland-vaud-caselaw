@@ -1,0 +1,216 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___79"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 79"
+decided: "2012-01-27"
+published: "2012-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3092948"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-064b.md", "switzerland/bund/acts/311.0/art-065.md", "switzerland/bund/acts/312.0/art-019.md", "switzerland/bund/acts/312.0/art-039.md", "switzerland/bund/acts/312.0/art-288.md", "switzerland/bund/acts/312.0/art-374.md", "switzerland/bund/acts/312.0/art-451.md", "switzerland/bund/acts/818.101/art-026.md"]
+---
+
+# VD Findinfo Décision / 2012 / 79
+
+## Regeste
+
+DROIT TRANSITOIRE, PLACEMENT PSYCHIATRIQUE, MESURE THÉRAPEUTIQUE INSTITUTIONNELLE, COMPÉTENCE RATIONE MATERIAE, CONFLIT DE COMPÉTENCES | 59 CP, 64 al. 1 CP, 64 CP, 65 CP, 451 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2012 Décision / 2012 / 79
+
+DROIT TRANSITOIRE, PLACEMENT PSYCHIATRIQUE, MESURE THÉRAPEUTIQUE INSTITUTIONNELLE, COMPÉTENCE RATIONE MATERIAE, CONFLIT DE COMPÉTENCES | 59 CP, 64 al. 1 CP, 64 CP, 65 CP, 451 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+34
+AP10.025425-CMD
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 27 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Abrecht
+Greffier
+:              M.
+Addor
+*****
+Art.
+59, 64 ss CP
+;
+451
+CPP
+La chambre des recours pénale, saisie par jugement du collège des juges d'application des peines
+du 20 décembre 2011, prend séance à huis clos pour examiner la levée de l'internement
+de
+J.________
+au profit d'une mesure thérapeutique institutionnelle (
+dossier
+AP.025425-CMD
+).
+Elle considère :
+E n  f a i t :
+A.
+Par arrêt du 22 février
+1989, le Tribunal d’accusation du canton de Vaud a constaté l’irresponsabilité
+de J.________ au sens de l’art. 10 CP, prononcé un non-lieu au regard des chefs d’accusation
+de lésions corporelles simples, vol, menaces, violence ou menace contre les autorités et les
+fonctionnaires et infraction à la LStup (Loi fédérale sur les stupéfiants; RS 812.121)
+notamment, et ordonné l’internement de l’intéressé au sens de l’art.
+43 ch. 1 al. 2 aCP, pour une durée indéterminée.
+De nouveaux non-lieux ont été rendus et l’internement confirmé par arrêts du
+Tribunal d’accusation des 2 juin 1989, 24 février 1992 et 5 août 1997, dans le cadre
+d’enquêtes pénales ouvertes contre J.________, notamment pour lésions corporelles,
+injure, menaces, séquestration et infraction et contravention à la LStup.
+Dans le cadre d’une expertise psychiatrique réalisée en 1999 – qui faisait suite
+à divers rapports d’expertise établis entre 1982 et 1991 –, les diagnostics de
+schizophrénie indifférenciée et de dépression post-schizophrénique ont été
+posés, les experts préconisant un traitement ambulatoire avec médication neuroleptique
+à long terme.
+Par arrêt du 30 novembre 2007, le Tribunal d’accusation a ordonné la poursuite de l’internement
+conformément au nouveau droit (art. 64 CP) (jgt, let. A.a p. 1-2).
+B.
+a) Par jugement du 20
+décembre 2011, le collège des juges d’application des peines a refusé d’accorder
+à J.________ la libération conditionnelle de l’internement ordonné par arrêts
+du Tribunal d’accusation du canton de Vaud des 22 février 1989, 2 juin 1989, 24 février
+1992 et 5 août 1997 (I), a saisi le Tribunal cantonal en vue de l’examen de la levée
+de l’internement au profit d’une mesure thérapeutique institutionnelle (II) et a laissé
+les frais de cette décision à la charge de l’Etat (III).
+Le collège des juges d’application des peines a considéré qu'il était compétent,
+conformément à l'art. 26 LEP (Loi sur l'exécution des condamnations pénales du 4
+juillet 2006; RSV 340.01), pour examiner si J.________ pouvait être libéré conditionnellement
+de l’internement, ainsi que pour examiner si les conditions d’un traitement thérapeutique
+institutionnel étaient réunies et si une demande en ce sens devait être faite auprès
+du juge compétent (art. 64b al. 1 let. a et b CP) (jgt, let. C, p. 3).
+b) Sur le fond, le collège des juges d’application des peines a estimé qu’une libération
+conditionnelle ne pouvait entrer en ligne de compte à ce stade, dès lors qu’elle mettrait
+en péril l’équilibre fragile qui avait pu être acquis grâce à un encadrement
+médico-social soutenu qui conservait toute sa pertinence, et qu’il convenait ainsi de refuser
+la libération conditionnelle à J.________ (jgt, let. F.a p. 7).
+Examinant si les conditions d’une mesure institutionnelle au sens de l’art. 59 CP étaient
+remplies, le collège des juges d’application des peines a estimé qu’on ne saurait
+exclure à ce stade que l’évolution globalement favorable observée chez J.________
+grâce au suivi médical, social et judiciaire intensif dont il faisait l’objet se poursuive
+au cours des prochaines années. Il se justifiait donc de saisir l’autorité compétente
+pour qu’elle examine l’opportunité de remplacer l’internement par une mesure thérapeutique
+institutionnelle, dont les conditions paraissaient a priori remplies. Relevant que le Code de procédure
+pénale suisse du 5 octobre 2007, entré en vigueur le 1
+er
+janvier 2011, consacrait la disparition programmée du Tribunal d’accusation du canton de Vaud,
+mais qu’aucune disposition transitoire ne paraissait trancher la question de savoir par quelle
+autorité le suivi d’un internement prononcé par ce tribunal devait désormais être
+effectué, il a estimé qu’il se justifiait de saisir le Tribunal cantonal, auquel il reviendrait
+de déterminer quelle était l’autorité compétente pour examiner l’opportunité
+d’un changement de mesure dans le cas de J.________.
+E n  d r o i t :
+1.
+Il convient d’examiner
+d’entrée de cause quelle est l’autorité compétente pour statuer sur la demande
+de levée, au profit d’une mesure thérapeutique institutionnelle, de l’internement
+de J.________ ordonné par arrêts du Tribunal d’accusation du Tribunal cantonal du canton
+de Vaud des 22 février 1989, 2 juin 1989, 24 février 1992 et 5 août 1997.
+a) Aux termes de l’art. 64b al. 1 let. b CP, l’autorité compétente examine, d’office
+ou sur demande, au moins une fois tous les deux ans et pour la première fois avant le début
+de l’internement, si les conditions d’un traitement thérapeutique institutionnel sont
+réunies et qu’une demande (recte :
+si
+une demande ; cf. les textes allemand et italien de cette disposition) en ce sens doit être
+faite auprès du juge compétent selon l’art. 65 al. 1 CP.
+Le collège des juges d’application des peines a admis, à raison, qu’il était
+l’autorité compétente pour examiner, conformément à l’art. 64b al. 1
+let. b CP, si les conditions d’un traitement thérapeutique institutionnel étaient réunies
+et si une demande en ce sens devait être faite auprès du juge compétent selon l’art.
+65 al. 1 CP. En effet, même si l’art. 26 al. 1 let. a LEP pourrait paraître viser uniquement
+l’examen de l’octroi de la libération conditionnelle (cf. art. 64b al. 1 let. a CP)
+et non l’examen de l’opportunité de demander la levée de l’internement au
+profit d’une mesure thérapeutique institutionnelle (cf. art. 64b al. 1 let. b CP), ces deux
+questions doivent à l’évidence être examinées par la même autorité.
+Aux termes de l’art. 65 al. 1 CP, si, avant ou pendant l’exécution d’une peine
+privative de liberté ou d’un internement au sens de l’art. 64 al. 1 CP, le condamné
+réunit les conditions d’une mesure thérapeutique institutionnelle prévues aux art. 59
+à 61 CP, le juge peut ordonner cette mesure ultérieurement. Le juge compétent est celui
+qui a prononcé la peine ou ordonné l’internement ; l’exécution du solde
+de la peine est suspendue.
+b) Il résulte de ce qui précède que le collège des juges d’application des
+peines, s’il estime que les conditions d’un traitement thérapeutique institutionnel
+d’un condamné interné sont réunies, doit adresser une demande en ce sens auprès
+du juge qui a ordonné l’internement.
+Sous l’empire du Code de procédure pénale vaudoise (CPP-VD), le Tribunal d’accusation
+était compétent pour ordonner, dans un arrêt de non-lieu, l’internement d’un
+prévenu irresponsable (art. 288 CPP-VD). Depuis l’entrée en vigueur, le 1
+er
+janvier 2011, du Code de procédure pénale suisse, c’est le Tribunal de première
+instance – soit, dans le canton de Vaud, le tribunal correctionnel (art. 9 LVCPP [loi d'introduction
+du Code de procédure pénale suisse du 19 mai 2009; RSV 312.01]) ou le tribunal criminel (art.
+10 LVCPP), puisque le tribunal de police (cf. art. 8 LVCPP) ne peut prononcer un internement au sens
+de l’art. 64 CP (art. 19 al. 2 let. b CPP) – qui est désormais seul compétent,
+selon l’art. 374 CPP, pour prononcer l’internement (art. 64 CP) d’un prévenu irresponsable.
+L’art. 451 CPP prévoit qu’après l’entrée en vigueur de ce code, les
+décisions judiciaires indépendantes ultérieures sont rendues par l’autorité
+pénale qui eût été compétente selon le CPP pour rendre le jugement de première
+instance. Les décisions judiciaires indépendantes ultérieures visées par cette disposition
+sont aussi bien les modifications des sanctions (cf. art. 36 et 39 CP) que des mesures (cf. art. 59 al.
+4, 60 al. 4, 63 et 65 CP) (Renate Pfister-Liechti, in: Kuhn/Jeanneret (éd.), Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 1 ad art. 451 CPP), notamment les décisions
+qui ordonnent le remplacement d’un internement par une mesure thérapeutique institutionnelle
+en application de l’art. 65 CP (Message du Conseil fédéral relatif à l’unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. p.
+1282).
+2.
+Il s’ensuit que
+c'est le Tribunal correctionnel de l’arrondissement de Lausanne qui est compétent pour statuer
+sur la demande d’examen de la levée de l’internement de J.________ au profit d’une
+mesure thérapeutique institutionnelle. La Cour de céans décline donc sa compétence
+et transmet le dossier au Tribunal correctionnel de l'arrondissement de Lausanne (cf. art. 39 al. 1 CPP).
+Les frais de la présente décision seront laissés à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Décline sa compétence pour examiner la levée de l'internement de J.________ au profit
+d'une mesure thérapeutique institutionnelle.
+II.
+Transmet le dossier au Tribunal correctionnel de l'arrondissement de Lausanne.
+III.
+Dit que les frais de la présente décision,
+par 550 fr. (cinq cent cinquante francs), sont laissés à la charge de l'Etat.
+IV.
+Déclare la présente décision exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Gilles Monnier, avocat (pour J.________),
+-
+Ministère public central,
+et communiquée à :
+‑
+M. le Président du collège des juges d'application des peines,
+-
+Office d'exécution des peines (réf. : [...]),
+-
+Tribunal correctionnel de l'arrondissement de Lausanne, avec le dossier,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
