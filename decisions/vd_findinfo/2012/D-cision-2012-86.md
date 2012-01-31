@@ -1,0 +1,218 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___86"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 86"
+decided: "2012-01-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3090539"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-173.md", "switzerland/bund/acts/312.0/art-248.md", "switzerland/bund/acts/312.0/art-265.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/952.0/art-047.md"]
+---
+
+# VD Findinfo Décision / 2012 / 86
+
+## Regeste
+
+CONSIGNATION EN JUSTICE, SCELLÉS | 248 CPP (CH), 265 al. 3 CPP (CH), 265 al. 4 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.01.2012 Décision / 2012 / 86
+
+CONSIGNATION EN JUSTICE, SCELLÉS | 248 CPP (CH), 265 al. 3 CPP (CH), 265 al. 4 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+31
+PE07.027145-ARS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 31 janvier 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              M.
+Abrecht et Mme Byrde
+Greffier
+:              M.
+Ritter
+*****
+Art.
+248, 265 al. 3 et 4 CPP
+Vu l'
+enquête n° PE07.027145-ARS
+.
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+X.________
+pour escroquerie d'une part et banqueroute frauduleuse et fraude dans la saisie d'autre part, ainsi que
+contre
+K.________
+pour escroquerie,
+vu l'ordre de production de pièces du 24 novembre 2011, par lequel le Procureur a ordonné à
+l'[...] la production de certains documents bancaires susmentionnée et lui a imparti un délai
+échéant le 8 décembre 2011 pour les produire,
+vu le recours interjeté le 9 décembre 2011 par K.________ contre cette décision, concluant
+à son annulation, respectivement à ce que les pièces produites par [...] soient retirées
+du dossier pénal,
+vu les pièces du dossier;
+attendu
+que, dans le cadre de l'enquête dirigée contre K.________, le Procureur a ordonné à
+la banque réputée dépositaire d'au moins une partie des avoirs du prévenu de fournir
+les documents d'ouvertures de comptes et leurs relevés, pour la période comprise entre le 1
+er
+janvier 2004 et le 31 décembre 2005, respectivement, en cas de clôture des comptes, la date
+de clôture, le montant des avoirs lors du bouclement et la destination de ces fonds, ainsi que l'identité
+du ou des tiers bénéficiant ou ayant bénéficié d'une procuration sur les comptes
+durant la période incriminée (droit de signature),
+que le recourant fait d'abord valoir que, vu le caractère selon lui relativement anodin de l'infraction
+dont il est soupçonné, son intérêt à la protection du secret bancaire doit l'emporter
+sur les impératifs de l'instruction,
+qu'il soutient ensuite que la divulgation du nom de ses clients figurant sur les documents bancaires
+mettrait à jamais sa crédibilité à mal, vu la discrétion de rigueur chez ses
+partenaires commerciaux,
+qu'il ne nie pas disposer d'avoirs auprès de la banque destinataire de l'ordonnance qu'il conteste;
+attendu que le détenteur d’objets ou de valeurs patrimoniales qui doivent être séquestrés
+est soumis à l’obligation de dépôt (art. 265 al. 1 CPP),
+que l'art. 265 al. 2 CPP pose les limites à ce principe,
+que, selon l'art. 265 al. 3 CPP, l’autorité pénale peut sommer les personnes tenues d’opérer
+un dépôt de s’exécuter dans un certain délai, sous commination de la peine
+prévue à l’art. 292 CP ou d’une amende d’ordre,
+que selon l'art. 265 al. 4 CPP, le recours à des mesures de contrainte n'est possible que si le
+détenteur a refusé de procéder au dépôt ou s'il y a lieu de supposer que la
+sommation de procéder au dépôt ferait échouer la mesure,
+qu'il faut dès lors distinguer l'ordre de production de pièces au sens de l'art. 265 al. 3
+CPP des mesures de contrainte du séquestre au sens de l'art. 265 al. 4 CPP (TPF BB.2011.15
+du 18 mars 2011 c. 1.2 et les réf. cit.; CREP du 3 mai 2011/147),
+qu'en effet, les alinéas 3 et 4 de l'art. 265 CPP fixent les étapes à suivre en vue du
+séquestre et concrétisent le principe de la proportionnalité en faveur du détenteur
+d’objets ou de valeurs patrimoniales (ibid.),
+qu'ainsi, le détenteur est d'abord sommé de procéder au dépôt dans un certain
+délai (ibid.),
+que ce n'est que s'il a refusé de s'exécuter que des mesures de contrainte peuvent être
+mises en oeuvre (ibid.),
+qu'en l'espèce, la décision attaquée constitue une sommation de production de pièces
+au sens de l'art. 265 al. 3 CPP;
+attendu que, sous réserve du cas où la sommation de production de pièces a été
+assortie de la menace des peines prévues à l'art. 292 CP (cf. Bommer/Goldschmid, in: Niggli/Heer/Wiprächtiger
+(éd.), Basler Kommentar, Schweizerische Strafprozessordnung, Bâle 2011, n. 30 ad art. 265 CPP),
+un recours au sens des art. 393 ss CPP n'est pas ouvert à l'encontre d'une ordonnance de sommation
+de production de pièces au sens de l'art. 265 al. 3 CPP (arrêt fédéral précité,
+c. 1.3 et les réf. cit.),
+qu'ainsi, le détenteur doit y donner suite (ibid.),
+qu'il peut toutefois s'opposer à une perquisition des documents, en demandant leur mise sous scellés
+(ibid.; art. 248 CPP),
+que, dans ce cas, l'autorité pénale a un délai de vingt jours pour requérir la levée
+des scellés (cf. art. 248 al. 2 CPP),
+que le tribunal compétent pour statuer sur cette demande (cf. art. 248 al. 3 CPP) dispose d'un plein
+pouvoir d'examen, de sorte que l'intéressé peut faire valoir, outre son droit de refuser de
+déposer ou de témoigner (cf. art. 248 al. 1 CPP), l'absence d'une présomption suffisante
+de culpabilité ou l'absence de la preuve de la vraisemblance (arrêt précité, c. 1.3
+et les réf. cit.),
+qu'il découle de la systématique de ces voies de droit que le prévenu ne dispose pas d'un
+recours immédiat pour s'opposer à la sommation de production de pièces en main d'un tiers
+dépositaire,
+qu'il s'ensuit que la voie de droit mentionnée par l'ordre de production de pièces contesté
+ne devait concerner que la personne directement visée, soit [...], et non les parties plaignantes
+ou prévenues,
+que la décision n'a du reste été communiquée qu'à ces parties-ci pour information,
+et non notifiée,
+que, bien plutôt, si le détenteur ou le prévenu entend contester la production, il doit
+solliciter une mise sous scellés et une décision du Tribunal des mesures de contrainte selon
+l'art. 248 CPP (cf. ATF 137 IV 189 pour ce qui est des autorités fédérales),
+qu'en l'espèce, la sommation de produire les pièces requises ne s'adresse pas au prévenu,
+mais à la banque dépositaire de tout ou partie de ses avoirs,
+qu'elle n'a pas été assortie de la menace des peines prévues à l'art. 292 CP,
+qu'au vu des considérations qui précèdent, le recours doit être déclaré
+irrecevable;
+attendu, par surabondance qu'aurait-il même été recevable, il n'en aurait pas moins été
+rejeté,
+qu'en effet, l'art. 173 CPP, dont se prévaut le recourant, ne s'applique qu'aux témoins, et
+non aux détenteurs d’objets ou de valeurs patrimoniales qui doivent être séquestrés
+au sens de l'art. 265 CPP, ainsi que cela ressort de sa note marginale,
+que l'alinéa 1 de cette disposition ne comporte du reste aucun renvoi à la loi fédérale
+du 8 novembre 1934 sur les banques et les caisses d’épargne (LB; 952.0),
+que les personnes tenues au secret selon l'art. 47 LB sont donc en principe tenues de déposer (art.
+173 al. 2, 1
+ère
+phrase, CPP), ce d'autant que l'art. 47 al. 5 LB réserve les dispositions de la législation
+fédérale et cantonale sur l’obligation de renseigner l’autorité et de témoigner
+en justice,
+que la direction de la procédure peut cependant libérer ces personnes de l’obligation
+de témoigner lorsqu’elles rendent vraisemblable que l’intérêt au maintien
+du secret l’emporte sur l’intérêt à la manifestation de la vérité
+(art. 173 al. 2, seconde phrase, CPP),
+que, selon l'art. 265 al. 2 let. b CPP, ne sont pas soumis à l’obligation de dépôt
+les personnes qui ont le droit de refuser de déposer ou de témoigner, dans les limites de ce
+droit,
+que, dans tous les cas, il n'appartiendrait toutefois qu'au banquier de demander d'être libéré
+de l’obligation de témoigner, respectivement de l'obligation de dépôt,
+qu'une telle libération n'a pas été requise en l'espèce,
+que, quoi qu'il en soit, le secret bancaire n'est pas opposable aux autorités pénales (Lombardini,
+Droit bancaire suisse, 2
+e
+éd., Zurich 2008, chapitre XXXIV, n° 86, p. 988),
+qu'au surplus, les considérations générales du plaideur déduites du risque d'atteinte
+à son crédit professionnel ne sauraient faire obstacle à la production des pièces
+requises,
+que le recourant ne dispose ainsi d'aucun moyen de fond contre l'ordre de production qu'il conteste;
+attendu, en définitive, que le recours est irrecevable,
+que les frais de la procédure de recours, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à 450 fr., plus la TVA, par 36 fr.,
+soit 486 fr., sont mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP),
+que le remboursement à l'Etat de l'indemnité allouée au défenseur d'office de K.________
+ne sera toutefois exigible que pour autant que la situation économique de ce dernier se soit améliorée
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Déclare le recours irrecevable.
+II.
+Fixe à 486 fr. (quatre cent huitante six
+francs), TVA comprise, l'indemnité allouée au défenseur d'office de K.________.
+III.
+Dit que les frais du présent arrêt,
+par 550 fr. (cinq cent cinquante francs), ainsi que l’indemnité due au défenseur d’office
+du recourant selon le chiffre II ci-dessus, sont mis à la charge de K.________.
+IV.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique de K.________ se soit améliorée.
+V.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Laurent Damond, avocat (pour K.________),
+-
+M. Christian Dénériaz, avocat (pour X.________),
+-
+M. Jean-Christophe Diserens, avocat (pour [...]),
+-
+[...], Service juridique & Compliance,
+-
+Ministère public central,
+et communiquée à :
+‑
+Ministère public de l'arrondissement de Lausanne.
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
