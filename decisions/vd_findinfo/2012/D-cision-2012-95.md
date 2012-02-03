@@ -1,0 +1,153 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___95"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 95"
+decided: "2012-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3089432"
+cites_law: ["switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/961.01/art-085.md"]
+---
+
+# VD Findinfo Décision / 2012 / 95
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ | 94 al. 1 let. a LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 03.02.2012 Décision / 2012 / 95
+
+DÉCISION D'IRRECEVABILITÉ | 94 al. 1 let. a LPA-VD
+
+TRIBUNAL
+CANTONAL
+AMC
+1/12 - 2/2012
+ZN12.004182
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 3 février 2012
+_____________________
+Présidence
+de               M.
+Jomini
+,
+juge unique
+Greffier
+:
+Mme              Matile
+*****
+Cause
+pendante entre :
+U.________
+,
+à Lucens, demandeur,
+et
+E.________
+,
+à Pully, défenderesse.
+_______________
+Art.
+94 al. 1 let. a LPA-VD
+E n  f a i t  :
+A.
+U.________ a conclu en 2009 avec E.________ un contrat portant sur les couvertures d’assurance
+complémentaire Complementa Maxi et Hospita (police n° 1083183). Les documents contractuels
+précisent qu’il s’agit d’une « couverture LCA ».
+Le 19 janvier 2011, il a annoncé à E.________ son intention de résilier ce contrat. Le
+25 janvier 2011, E.________ a accepté la résiliation pour le 31 décembre 2015.
+B.
+Par acte (requête) daté du 31 janvier 2012 et mis à la poste, à l’adresse de
+la Cour des assurances sociales le 2 février 2012, U.________ prend les conclusions suivantes à
+l’encontre d’E.________ :
+« 1.
+Résolution ex tunc du contrat d’assurance complémentaire du 2 novembre 2009.
+2.
+Subsidiairement, résiliation du contrat ex nunc.
+3.
+Condamner l’E.________ de répéter ce que j’ai payé jusqu’à aujourd’hui,
+à savoir 330 fr. sans intérêt. »
+E n  d r o i t  :
+1.
+Le contrat d’assurance litigieux, qui porte sur des assurances complémentaires à l’assurance-maladie
+sociale, relève du droit privé. Il est soumis à la législation civile fédérale,
+notamment à la LCA (loi fédérale du 2 avril 1908 sur le contrat d’assurance; RS
+221.229.1), et non pas à la législation de droit public sur l’assurance-maladie sociale
+(Loi fédérale du 18 mars 1994 sur l’assurance-maladie [LAMal], RS 832.10; cf. art. 12
+al. 2 et 3 LAMal).
+Le 20 mai 1996, le Grand Conseil avait adopté le Décret relatif à l’attribution
+au Tribunal cantonal des assurances de la compétence du contentieux des assurances complémentaires
+à l’assurance-maladie (DTAs-AM; ancienne référence RSV: 173.431). Cela visait, précisément,
+les assurances complémentaires selon la LCA telles que les assurances Complementa Maxi et Hospita
+de E.________. Après que la Cour des assurances sociales du Tribunal cantonal a remplacé, le
+1
+er
+janvier 2009, l’ancien Tribunal des assurances, le décret de 1996, toujours en vigueur, a
+été interprété dans le sens que cette Cour du Tribunal cantonal était compétente
+pour traiter ce contentieux, en appliquant sur le plan formel les règles de procédure administrative
+(cf. JT 2009 III 106).
+Le 16 décembre 2009, le Grand Conseil a adopté le Décret abrogeant celui du 20 mai 1996
+relatif à l’attribution au Tribunal cantonal des assurances de la compétence du contentieux
+des assurances complémentaires à l’assurance-maladie. Ce nouveau décret, qui a pour
+seul objet d’abroger le décret de 1996, est entré en vigueur le 1
+er
+janvier 2011. Ainsi, depuis le 1
+er
+janvier 2011 dans le canton de Vaud, les contestations de droit privé qui s’élèvent
+entre les entreprises d’assurance et les assurés sont dans la compétence du juge ordinaire
+(cf. art. 85 al. 1 LSA [Loi fédérale du 17 décembre 2004 sur la surveillance des entreprises
+d’assurance, RS 961.01]) et la législation de procédure civile s’applique. La Cour
+des assurances sociales du Tribunal cantonal n’est donc plus compétente.
+Les anciennes règles de compétence et de procédure ne s’appliquent plus lorsque
+la demande a été introduite à partir du 1
+er
+janvier 2011 (cf. art. 404 CPC).
+2.
+L’acte de U.________ adressé à
+la Cour des assurances sociales du Tribunal cantonal doit être considéré comme un acte
+introductif d’instance (demande), dans le but d’obtenir la résiliation anticipée
+d’un contrat d’assurance complémentaire. Il résulte du considérant précédent
+que la Cour de céans n’est pas compétente pour instruire et juger cette affaire. La demande
+doit donc être déclarée d’emblée irrecevable.
+Il convient d’appliquer, pour la présente décision, les règles de procédure
+administrative, en l’occurrence les règles pertinentes pour la Cour des assurances sociales,
+lorsqu’elle statue dans le cadre d’une action de droit administratif (art. 106 ss LPA-VD
+[loi cantonale vaudoise du 28 octobre 2008 sur la procédure administrative, RSV 173.36]). La composition
+de l’autorité juridictionnelle est fixée à l’art. 94 LPA-VD, par renvoi de
+l’art. 109 al. 1 LPA-VD. En l’espèce, comme la valeur litigieuse est à l’évidence
+inférieure à 30'000 fr. (voire à 10'000 fr.), vu le montant des primes en jeu (les primes
+déjà payées par 330 fr. et les primes encore dues jusqu’à la fin de l’année
+2015), il incombe à un membre de la Cour des assurances sociales de statuer en tant que juge unique
+(art. 94 al. 1 let. a LPA-VD).
+3.
+Il se justifie de statuer
+sans frais ni dépens.
+Par
+ces motifs,
+le
+juge unique
+:
+I.
+Déclare la demande irrecevable.
+II.
+Dit qu'il n'est pas perçu de frais judiciaires ni alloué de dépens.
+Le
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+M. U.________,
+‑
+E.________,
+par
+l'envoi de photocopies.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification du présent jugement en déposant au greffe du Tribunal cantonal, Chambre des
+recours civile, un mémoire écrit et motivé. Le jugement objet du recours doit être
+joint.
+La greffière :
