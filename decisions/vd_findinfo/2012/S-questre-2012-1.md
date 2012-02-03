@@ -1,0 +1,547 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 1"
+decided: "2012-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3087296"
+cites_law: ["switzerland/bund/acts/0.275.12/art-027.md", "switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-036.md", "switzerland/bund/acts/0.275.12/art-046.md", "switzerland/bund/acts/0.275.12/art-048.md", "switzerland/bund/acts/0.275.12/art-052.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 1
+
+## Regeste
+
+DÉCISION ÉTRANGÈRE, RECONNAISSANCE DE LA DÉCISION, OUVERTURE DE LA PROCÉDURE | 27 ch. 2 CL, 46 ch. 2 CL
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.02.2012 Séquestre / 2012 / 1
+
+DÉCISION ÉTRANGÈRE, RECONNAISSANCE DE LA DÉCISION, OUVERTURE DE LA PROCÉDURE | 27 ch. 2 CL, 46 ch. 2 CL
+
+TRIBUNAL
+CANTONAL
+KH11.018925-111247
+37
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 février 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+27 ch. 2 et 46 ch. 2 CL
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+U.________
+,
+à Saint-Légier - La Chiésaz, contre le prononcé rendu le 23 mai 2011, adressé
+pour notification aux parties le 24 juin 2011, par le Juge de paix du district de La Riviera –
+Pays-d'Enhaut, déclarant exécutoire l'arrêt rendu le 19 novembre 2007 par la Cour d'appel
+de Reims, Chambre civile – 1
+ère
+Section,
+dans la cause divisant le recourant d'avec
+V.________
+,
+à Paris, indiquant qu'il est statué sur le séquestre par ordonnance séparée
+et statuant sur les frais, émoluments et dépens.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par arrêt rendu par défaut le 19 novembre 2007, la Chambre civile – 1
+ère
+Section  de la Cour d'appel de Reims, a "infirmé le jugement prononcé le 13 octobre
+1994 par le Tribunal de grande instance de Paris" et, statuant à nouveau, a condamné U.________
+à payer à V.________ la somme de 352'352 euros et 21 centimes, avec intérêt au taux
+de 10 % l'an dès le 30 mai 1990, ainsi que 4'000 euros "au titre de l'art. 700 du nouveau code
+de procédure civile [NCPC]".
+Le 19 mai 2011, V.________ a saisi le Juge de paix du district de La Riviera – Pays-d'Enhaut d'une
+requête en exequatur et en séquestre, concluant à ce que ce magistrat prononce l'exequatur
+de l'arrêt précité du 19 novembre 2007 et ordonne le séquestre, à concurrence
+de 451'010 fr. 83 et de 5'120 fr. (contre-valeurs des sommes précitées en euros au taux de
+1,28 francs suisses pour un euro au cours de vente billets du 19 mai 2011), de tous titres, espèces,
+valeurs, objets, avoirs, créances, marchandises, tableaux et autres biens en compte, dépôt,
+contenu de coffre-fort, police d'assurance, accréditif et documents y relatifs, métaux précieux
+ou garantie bancaire, sous nom propre, désignation conventionnelle ou numérique ou encore sous
+forme de société, trust ou autres structures dont U.________ est titulaire ou propriétaire
+ou dont il apparaît comme bénéficiaire économique, en mains de la Banque [...], à
+Lausanne, ainsi que de tous meubles meublants et tableaux propriété du prénommé et
+situés "à son domicile de Saint-Légier - La Chiésaz". Le requérant
+a invoqué les cas de séquestre de l'art. 271 al. 1 ch. 2 et 6 LP [loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1], savoir l'absence de domicile fixe du débiteur
+et la possession du créancier contre le débiteur d'un titre de mainlevée définitive.
+A l'appui de sa requête, il a produit un onglet de trente-quatre pièces sous bordereau, parmi
+lesquelles :
+-
+une attestation de résidence établie par le Service de la population de Saint-Légier -
+La Chiésaz le 8 novembre 2010, attestant que U.________ est domicilié dans la commune "en
+résidence principale" depuis son arrivée le 14 septembre 2010, venant de Las Vegas, Etats-Unis;
+-
+la copie d'un chèque de 5 millions de francs français payable à V.________ sur le compte
+de U.________ auprès de l'Union de Banques à Paris, signé par ce dernier le 27 septembre
+1990 et mentionnant comme son adresse " [...] Street, Londres";
+-
+un protocole d'accord signé à Paris le 12 février 1991 par V.________ et U.________, indiquant
+comme adresse de ce dernier : " [...] Street, Londres, Grande Bretagne et [...] Boulevard [...],
+75116 Paris";
+-
+le procès-verbal de signification établi par un huissier de justice parisien relatant en ces
+termes sa tentative de signification, le 17 mars 1992, à U.________, à l'adresse du boulevard
+[...], à Paris, d'un acte d'assignation devant le Tribunal de grande instance de Paris à la
+demande de V.________ :
+"A
+cette adresse, la concierge m'a déclaré que le sus nommé était parti sans adresse
+depuis plusieurs mois.
+Ayant
+informé [l'avocat de V.________], celui-ci m'a déclaré n'avoir d'autre adresse à
+me communiquer et qu'il y avait lieu de régulariser selon les modalités de l'art. 659 NCPC.
+Puis
+le 27 mars 1992
+j'ai
+envoyé [à U.________] par lettre recommandée avec demande d'avis de réception, une
+copie du présent procès-verbal à laquelle est jointe une copie de l'acte, objet de la
+présente signification.
+Ce
+même jour, j'ai avisé ce destinataire par lettre simple de l'accomplissement de cette formalité."
+;
+-
+le jugement rendu le 13 octobre 1994 par le Tribunal de grande instance de Paris dans la cause divisant
+les parties, qui retient notamment ce qui suit :
+"Un
+précédent jugement de cette Chambre du Tribunal, du 11 mars 1993, contient l'exposé de
+la demande de V.________, commissaire priseur à Paris, contre deux défendeurs qui alors ne
+comparaissaient point, […] et U.________, dont le domicile actuel demeure encore inconnu. […]
+Ce jugement avait, d'une part, imposé au demandeur de faire signifier son assignation au second
+domicile, à Londres qu'U.________ indiquait dans l'acte sous seing privé qu'il avait passé
+avec lui le 12 février 1991 et qu'il invoquait dans l'instance, […]. Quant à la nouvelle
+assignation libellée à l'adresse de U.________ [...] Street à Londres, elle a été
+retournée au demandeur, avec un acte de l'autorité britannique compétente pour la délivrer,
+daté du 2 août 1993 et mentionnant que U.________ n'était pas connu à l'adresse indiquée.
+Ce jugement qui est susceptible d'appel sera réputé contradictoire […]."
+-
+l'arrêt rendu le 24 septembre 1996 par la Cour d'appel de Paris saisie d'un appel de V.________
+contre le jugement précité. Cet arrêt considère notamment que U.________, non comparant,
+a été régulièrement assigné;
+-
+l'arrêt rendu le 8 décembre 1998 par la Cour de cassation, saisie d'un pourvoi de V.________
+contre l'arrêt précité, cassant et annulant cet arrêt et renvoyant la cause et les
+parties devant la Cour d'appel de Reims;
+-
+l'arrêt rendu le 19 novembre 2007 par la Cour d'appel de Reims, constatant que le défendeur
+U.________ " [...] (sic) Street, Londres (Royaume Uni)" n'a "pas constitué avoué,
+bien que régulièrement assigné";
+-
+le certificat de non-opposition et le certificat de non-pourvoi contre l'arrêt du 19 novembre
+2007, délivrés respectivement par le Greffier en chef de la Cour d'appel de Reims le 6 juillet
+2010 et par le Greffier en chef de la Cour de cassation le 28 juillet 2010.
+2.
+Par prononcé du 23 mai 2011, adressé
+pour notification aux parties le 24 juin 2011, le Juge de paix du district de La Riviera – Pays-d'Enhaut
+a déclaré exécutoire l’arrêt rendu le 19 novembre 2007 par la Cour d’appel
+de Reims dans la cause divisant les parties (I), dit qu'il statuait sur la requête de séquestre
+par ordonnance séparée (II), arrêté à 1'320 fr., comprenant 660 fr. d’émolument
+pour le séquestre, les frais judiciaires du requérant et les a mis à la charge de l’intimé
+(III et IV), dit que l’intimé U.________ rembourserait au requérant V.________ ses frais
+judiciaires et lui verserait des dépens par 4'000 fr. à titre de défraiement de son représentant
+professionnel (V) et rayé la cause du rôle (VI).
+Appliquant la Convention de Lugano du 16 septembre 1988 concernant la compétence judiciaire et l'exécution
+des décisions en matière civile et commerciale [CL; jadis RS 0.275.11], entrée en vigueur
+le 1
+er
+janvier 1992 tant pour la Suisse que pour la France, le premier juge a considéré en substance
+que le requérant avait satisfait aux conditions des articles 46 et 47 CL.
+Par ordonnance du 24 mai 2011, ce magistrat a ordonné le séquestre requis aux Offices des poursuites
+des districts de Lausanne et de La Riviera – Pays-d'Enhaut. Le 3 juin 2011, U.________ a déposé
+une requête d'opposition au séquestre, concluant à l'annulation de celui-ci.
+3.
+a)
+Par acte du 4 juillet 2011, U.________ a recouru
+contre le prononcé d'exequatur qui lui avait été notifié le 27 juin 2011, concluant,
+avec dépens, à l'octroi de l'effet suspensif (I), à l'admission du recours (II), "à
+titre incident", à ce que l'arrêt de la Cour d'appel de Reims du 19 novembre 2007 ne soit
+pas reconnu (III) et à ce que le prononcé du 23 mai 2011 soit réformé en ce sens
+que ledit arrêt n'est pas exécutoire (IV), subsidiairement, à ce que le prononcé
+soit annulé et la cause renvoyée au premier juge pour nouvelle décision. Il a produit
+un onglet de dix pièces sous bordereau, dont notamment :
+-
+une demande du 15 juillet 2011 adressée à la Cour d'appel de Reims, concluant à ce que
+soit dites et jugées "nulles et de nul effet les diverses significations d'actes délivrées
+par Monsieur V.________ à l'adresse de Londres et notamment celle du 14 décembre 2007
+concernant le recours contre l'arrêt du 19 novembre 2007" et à ce que U.________
+soit "relevé de la forclusion résultant de l'expiration du délai pour exercer une
+opposition conte ledit arrêt";
+-
+des attestations de trois médecins suisses, selon lesquelles le recourant est régulièrement
+suivi à leur consultation, respectivement depuis 2002 et 2005;
+-
+une attestation d'une caisse d'assurance-maladie suisse, selon laquelle le recourant, domicilié
+à Saint-Légier, est assuré auprès d'elle depuis le 1
+er
+janvier 1979;
+-
+deux lots de correspondances diverses, adressées entre 1993 et 2007 et entre 1996 et 2001 au recourant,
+en Suisse, à Saint-Légier ou à Lausanne.
+La requête d'effet suspensif a été rejetée, par décision du Président de
+la cour de céans du 18 juillet 2011.
+L'intimé V.________ s'est déterminé par mémoire du 2 septembre 2011, concluant avec
+suite de frais et dépens, au rejet du recours. Il a produit des pièces, dont notamment :
+-
+une lettre de l'Union de Banques à Paris adressée au recourant, à son adresse " [...]
+Street, London", le 5 décembre 1991;
+-
+le procès-verbal d'exécution du séquestre établi le 24 juin 2011 par l'Office des
+poursuites du district de La Riviera – Pays-d'Enhaut, rapportant notamment ce qui suit :
+"Du
+24 mai 2011 :
+[Reçu
+ordonnance de séquestre].
+Vacation
+au [adresse] à St-Légier afin de séquestrer les éventuels biens se trouvant dans
+les locaux. Il a été constaté que personne n'était présent. Une convocation
+a été laissée sur la porte d'entrée.
+Téléphone
+du débiteur nous informant qu'il ne serait plus domicilié sur la commune de St-Légier
+depuis "ce jour" et qu'il serait établit (sic) à Las Vegas et qu'il se trouverait
+actuellement en Espagne.
+Du
+25 mai 2011 :
+[…]
+Le
+demi-frère du débiteur, M. [...] propriétaire de l'immeuble de St-Légier, prend contact
+avec l'office suite à la convocation laissée à son domicile. Il nous informe que le débiteur
+n'a jamais habité chez lui, cependant il y aurait quelques biens qui seraient propriété
+de M. [...]";
+-
+un rapport d'enquête menée pour l'avocat français de V.________ en 1993, selon lequel
+U.________ vivrait "incognito" au château de [...], en France, son ex-épouse, dont
+il aurait divorcé en 1988, étant propriétaire d'un appartement à l'adresse du boulevard
+[...], à Paris.
+b)
+Le
+2 septembre 2011, le recourant a requis la suspension de la procédure de recours jusqu'à droit
+connu sur "la requête en relevé de forclusion".
+Dans un premier temps, l'intimé a également conclu à la suspension de la procédure
+de recours jusqu'à droit connu sur "la procédure en relevé de forclusion pendante
+par devant la Cour d'appel de Reims".
+Le 27 septembre 2011, le recourant a transmis à la cour de céans l'ordonnance rendue le 21
+septembre 2011 par le Premier président de la Cour d'appel de Reims, rejetant sa requête de
+relevé de forclusion. Il s'est en outre spontanément déterminé sur la réponse
+de l'intimé du 2 septembre 2011 et a produit des pièces nouvelles.
+Le 30 septembre 2011, le Président de la cour de céans a informé les parties du rejet
+de la requête de suspension dans la mesure où elle conservait un objet.
+Par lettre du 4 octobre 2011, le recourant s’est
+encore déterminé sur la réponse. L’intimé s’est déterminé à
+son tour sur les derniers arguments du recourant, le 7 octobre 2011.
+Par lettre du 21 octobre 2011, le recourant a requis du Président de la cour de céans qu'il
+sursoie à statuer sur le recours jusqu'à droit connu sur l'opposition qu'il était "en
+train de déposer" [contre le jugement de la Cour d'appel de Reims du 19 novembre 2007, ndlr].
+Le 27 octobre 2011, le président a signifié au recourant qu'il ne faisait pas droit à
+sa requête de suspension.
+Le 8 novembre 2011, le recourant a produit une copie de l'opposition sur arrêt qu'il avait déposée
+la veille devant la justice française et a requis une nouvelle fois la suspension de la procédure
+de recours.
+Après avoir recueilli les déterminations de l'intimé, le Président de la cour de
+céans a rejeté cette requête, par décision du 25 novembre 2011, considérant
+que la suspension d'un procès d'exequatur doit rester exceptionnelle et ne peut en aucun cas se
+fonder sur des moyens soumis au juge étranger, ou qui auraient pu l'être (SJ 2011 I p. 302).
+Le 29 novembre 2011, le recourant a requis du président qu'il reconsidère sa décision.
+Le 5 décembre 2011, il l'a informé qu'une audience avait été fixée au 13 décembre
+2011 dans la procédure d'opposition ouverte en France.
+L'intimé s'est déterminé le 1
+er
+décembre 2011.
+Par lettre du 7 décembre 2011, le Président de la cour de céans a rejeté la demande
+de reconsidération de sa décision du 25 novembre 2011.
+En droit
+:
+I.
+a)
+Sur le fond, il n’est pas contesté
+par les parties que la question de l’exequatur doit se résoudre en application de la Convention
+de Lugano (CL) du 16 septembre 1988, entrée en vigueur en France et en Suisse le 1
+er
+janvier 1992, et non de celle du 30 octobre 2007 (nCL), entrée en vigueur dans l'Union européenne
+le 1
+er
+janvier 2010 et en Suisse le 1
+er
+janvier 2011. En effet, l’art 63 al. 1 nCL prévoit notamment que cette convention ne s’applique
+qu’aux actions judiciaires intentées après son entrée en vigueur dans l’Etat
+d’origine et, s'il s'agit d'une requête en reconnaissance ou en exécution d'une décision,
+dans l'Etat requis. En l’espèce, l'action française a été intentée en
+1992 et jugée en 2007, soit avant l'entrée en vigueur de la nCL tant dans l'Etat d'origine
+que dans l'Etat requis, de sorte que l'art. 63 al. 2 nCL ne s'applique pas non plus et que c'est
+bien la CL qui est applicable à la présente procédure.
+b)
+Le
+recours a été formé en temps utile, dans le délai d’un mois de l’art. 36
+CL, mais aussi dans le délai plus bref de dix jours de l’art. 321 al. 2 CPC (Code de procédure
+civile; RS 272). Il comprend des conclusions en nullité et en réforme. Toutefois, le recourant
+ne fait valoir aucun moyen de nullité, mais développe des arguments qui ont trait essentiellement
+aux conditions de l’exequatur et relèvent donc en réalité de la réforme.
+En matière de reconnaissance d’un jugement étranger, la production de pièces nouvelles
+est admise. La recevabilité est toutefois limitée aux pièces tendant à établir
+les conditions de l’exequatur et non d’autres questions relevant du seul droit interne (ATF
+105 Ib 37 c. 4c; CPF, 12 mars 1998/130).
+En l'espèce, les pièces nouvelles produites par les deux parties, destinées à infirmer,
+respectivement à établir les conditions de l’exequatur, sont par conséquent recevables.
+II.
+a)
+Conformément à l'art. 34 al. 2 CL,
+la requête d'exequatur ne peut être rejetée que pour l'un des motifs prévus aux art.
+27 et 28 CL.
+Le recourant conteste premièrement le caractère exécutoire en France de l’arrêt
+de la Cour d'appel de Reims du 19 novembre 2007. Ce moyen n'a plus de portée, dès lors que
+sa requête en relevé de forclusion a été rejetée par ordonnance du Premier président
+de la Cour d’appel de Reims du 21 septembre 2011, décision qui n'est pas sujette à recours,
+en vertu de l’art. 540 al. 4 NCPC.
+b)
+Selon l'art. 27 ch. 2 CL, une décision étrangère – c'est-à-dire provenant d'un
+Etat partie à la Convention, autre que celui où l'exécution est entreprise – n'est
+pas reconnue si l'acte introductif d'instance, ou un acte équivalent, n'a pas été signifié
+ou notifié au défendeur défaillant, régulièrement et en temps utile pour qu'il
+puisse se défendre.
+La notion de défaut doit être comprise, dans le cadre de la CL, dans le sens de la non-comparution.
+Dans cette situation, le requérant devra produire, outre une expédition de la décision
+par défaut réunissant les conditions nécessaires à son authenticité (art. 46
+ch. 1 CL), l’original ou une copie certifiée conforme du document établissant que l’acte
+introductif d’instance ou un acte équivalent a été réellement signifié
+ou notifié à la partie défaillante (art. 46 ch. 2 CL). Cette exigence part de la présomption
+implicite qu’un jugement par défaut n’a été prononcé que parce que le
+défendeur n’a pas été valablement informé de son existence. Les documents désignés
+par l’art. 46 CL doivent être fournis quel que soit le type de procédure (Donzallaz,
+La convention de Lugano, Vol. II, nn. 3720-3724). L’art. 48 al. 1 CL prévoit que l’autorité
+judiciaire peut impartir un délai pour produire ces pièces ou  accepter des documents
+équivalents ou, si elle s’estime suffisamment éclairée, en dispenser.
+En l’espèce, il est constant que le recourant n’a pas comparu devant la Cour d’appel
+de Reims et que l’arrêt du 19 novembre 2007 a été rendu par défaut. La question
+à examiner est donc celle de la validité de la notification de l'acte introductif de l'instance
+ayant abouti à cet arrêt, au regard des art. 27 ch. 2 et 46 CL.
+aa)
+La question de savoir ce qu'il faut entendre par acte introductif d'instance au sens de l'art. 27 ch.
+2 CL s'examine au regard des dispositions de la convention (ATF 123 III 374 c. 3d, JT 1999 I 136). L’acte
+introductif d’instance est le document prévu par le droit de l’Etat du jugement, dont
+la notification a permis au défendeur de connaître pour la première fois l’existence
+de la procédure engagée contre lui ayant conduit à la décision litigieuse. Il s’agit
+de l’acte dont la notification au défendeur, régulière et en temps utile, met celui-ci
+dans la position de faire valoir ses droits avant la reddition dans l’Etat du jugement d’une
+décision exécutoire. L’art. 27 ch. 2 CL a donc pour but de garantir le droit du défendeur
+à être entendu (ATF 123 III 374 précité c. 3b, JT 1999 I 136).
+Selon le recourant, l’acte introductif d’instance, en l'espèce, serait soit la déclaration
+de saisine de la Cour de renvoi remise le 8 juin 1999 au secrétariat-greffe, soit l’assignation
+en première instance devant le Tribunal de grande instance de Paris des 17 et 27 mars 1992.
+L’intimé ne se prononce pas spécifiquement sur l’identité de l’acte
+introductif d’instance, mais soutient que l’assignation du recourant a été régulière
+à toutes les étapes de la procédure, soit en vue du jugement du Tribunal de grande instance
+de Paris du 13 octobre 1994, de l’arrêt de la Cour d’appel de Paris du 24 septembre
+1996, de l’arrêt de la Cour de cassation du 8 décembre 1998 et de l’arrêt
+de la Cour d’appel de Reims du 19 novembre 2007.
+Conformément à la notion d’acte introductif d’instance développée ci-dessus,
+on doit considérer que l’instance a été introduite au début du procès
+en 1992. Par voie d’huissier, une assignation, soit une notification de la demande au défendeur
+U.________, a été tentée le 17 mars 1992 à l’adresse du boulevard [...] à
+Paris, sans toutefois aboutir, la concierge de l’immeuble ayant indiqué à l'huissier
+que le destinataire était parti sans laisser d'adresse depuis plusieurs mois. Le jugement rendu
+le 13 octobre 1994 par le Tribunal de grande instance de Paris, réputé contradictoire en application
+de l’art. 474 al. 1 NCPC, retient à cet égard qu'un précédent jugement du 11
+mars 1993 avait imposé au demandeur de faire signifier son assignation au domicile de [...] Street
+à Londres, indiqué par U.________ dans l’acte sous seing privé du 12 février
+1991, et que cette nouvelle assignation avait été retournée au demandeur avec un acte
+de l’autorité britannique compétente pour la délivrer, daté du 2 août
+1993, mentionnant que l'intéressé n’était pas connu à l’adresse indiquée.
+bb)
+La
+Convention de Lugano ne précise pas au regard de quelles règles la régularité de
+la notification doit se vérifier (Walther, Kommentar zum Lugano-Übereinkommen (LugÜ),
+n. 47 ad art. 27 CL). Dans un arrêt récent, le Tribunal fédéral a jugé qu'il
+s'agissait du droit de l'Etat où la décision a été prononcée, lorsque la notification
+a été faite sur son territoire. Si la notification s'est faite dans un Etat qui n'est ni celui
+d'origine ni celui d'exécution, il faut tenir compte au premier chef du droit international applicable
+aux notifications judiciaires de l'Etat d'origine dans cet Etat tiers et, à défaut de règle
+internationale spécifique, il faut s'en tenir aux principes généraux concernant les notifications
+judiciaires d'un Etat dans un autre Etat (TF 4A_161/2008  du 1
+er
+juillet 2008 c. 3.1 et réf. cit., rés. in SJ 2009 I 144).
+L'art. 27 al. 2 CL a donc pour conséquence que le juge requis peut être amené à vérifier
+la régularité des notifications purement nationales (Donzallaz, op. cit., vol. II, n.
+2988). Selon cet auteur, cette disposition ne constitue qu'un cas particulier de l'ordre public procédural
+garanti de manière générale par l'art. 27 ch. 1 CL (ibid., n. 2989). La prise en compte
+de l'ordre public procédural doit normalement procéder d'une approche formelle et non matérielle :
+une fois identifié et qualifié quant à son importance, il importe peu que le vice en question
+ait causé concrètement un résultat particulier (ibid., n. 2974). Les termes de l'art.
+27 ch. 2 CL signifient que la notification doit être intrinsèquement correcte et avoir mis
+le défendeur en mesure de se défendre (ibid., n. 2976). La double garantie accordée par
+l'art. 27 ch. 2 CL ne saurait cependant aboutir à cautionner les comportements les plus choquants,
+empreints de volonté dilatoire. La parenté de cette disposition avec la réserve d'ordre
+public permet d'affirmer que cette norme ne peut avoir pour but que de garantir le respect de droits
+importants – le droit à la notification en est un – respectivement l'interdiction de
+lésions importantes de tels droits (ibid., n. 2980).
+Une citation peut être régulière même si elle n'atteint pas son destinataire; il
+suffit que toutes les mesures nécessaires aient été prises pour que le défendeur
+ait été effectivement informé en temps utile (Donzallaz, op. cit., vol. I, n. 1240).
+En revanche, s'il est établi que le défendeur a été effectivement atteint en temps
+utile, une notification défectueuse produit en principe ses effets en dépit de son irrégularité
+(TF 4A_161/2008 précité, rés. in SJ 2009 I 144, c. 4.1).
+bba)
+En droit français, l'assignation est le mode de saisine de la procédure (F.-G. Pansier, Encyclopédie
+Dalloz, Procédure I, Assignation, nn. 46 et 53). La demande initiale introduit l’instance
+(art. 53 al. 2 NCPC). C'est l'acte d'huissier de justice par lequel le demandeur cite son adversaire
+à comparaître devant le juge (art. 55 NCPC). Cet acte doit contenir, sous peine de nullité,
+outre les mentions prescrites pour les actes d'huissier de justice (art. 648 NCPC) – en particulier
+l'état civil du requérant et du destinataire, la date de l'acte ainsi que le domicile de l'huissier
+de justice –, celles énumérées à l'art. 56 NCPC – notamment l'indication
+de la juridiction devant laquelle la demande est portée, l'objet de la demande et l'indication que,
+faute de comparaître, le défendeur s'expose à ce qu'un jugement soit rendu contre lui
+sur les seuls éléments fournis par son adversaire (Anne Leborgne, Encyclopédie Dalloz,
+Procédure I, Actes de procédure, n. 160).
+L'acte d'huissier est notifié à son destinataire par signification (art. 651 al. 2 NCPC). Les
+règles sur la signification sont contenues aux art. 653 et suivants NCPC. Lorsque la personne à
+qui l'acte doit être signifié n'a ni domicile ni résidence ni lieu de travail connus,
+l'huissier de justice doit procéder conformément à l'art. 659 NCPC. Selon cette disposition,
+il doit dresser un procès-verbal où il relate avec précision les diligences qu'il a accomplies
+pour rechercher le destinataire de l'acte; le même jour ou, au plus tard le premier jour ouvrable
+suivant, à peine de nullité, il envoie au destinataire, à la dernière adresse connue,
+par lettre recommandée avec demande d'avis de réception, une copie du procès-verbal à
+laquelle est jointe une copie de l'acte objet de la signification (art. 659 al. 1 NCPC). Il doit aviser
+le jour même le destinataire, par lettre simple de l'accomplissement de cette formalité (art. 659
+al. 2 NCPC). L'huissier de justice ne doit cependant se résoudre à recourir à ce procédé
+de signification que s'il ignore réellement où trouver le destinataire et le procès-verbal
+est là pour attester de ses diligences. Concrètement, l'huissier doit procéder à
+"toutes les recherches que commandent la prudence, la vigilance et la bonne foi" (Anne Leborgne,
+op. cit., n. 343 et la jurisprudence citée). L'huissier devra en particulier vérifier si un
+changement d'adresse n'a pas été fait auprès des services de la poste, effectuer toutes
+recherches sur le lieu de travail, à la mairie, auprès des services de police, au registre
+du commerce (ibid., n. 344). L'art. 662 NCPC autorise le juge à prescrire d'office toutes diligences
+complémentaires. Dans la pratique, il est rare toutefois qu'un magistrat fasse usage de cette disposition :
+soit il estimera les diligences suffisantes et se contentera de la signification selon l'art. 659 NCPC,
+soit elles lui apparaîtront insuffisantes, mais ce sera souvent après coup, lorsque le destinataire
+se plaindra de la nullité de l'acte (Anne Leborgne, op. cit., n. 349).
+bbb)
+En l'espèce, la signification, conforme aux règles indiquées ci-dessus, n’a pas
+abouti, de sorte qu’une notification à l’étranger au sens des art. 683 et suivants
+NCPC a été régulièrement tentée, comme l’ont constaté les autorités
+judicaires françaises. A chacune des étapes suivantes de la procédure, le recourant a,
+de même, été cité à l’adresse précitée de [...] Street à
+Londres, selon le mécanisme prévu à l’art. 5 de la Convention de La Haye du 15 novembre
+1965 relative à la signification et à la notification à l’étranger d’actes
+judicaires ou extrajudiciaires en matière civile et commerciale [CLH; RS 0.274.131].
+bbc)
+Le recourant ne critique toutefois pas l’assignation sous l’angle du respect de la procédure
+civile française ou de la CLH – entrée en vigueur au Royaume-Uni en 1969 et en France
+en 1972 –, mais il soutient que toute signification en France ou en Grande-Bretagne serait irrégulière
+dès lors qu’il était domicilié en Suisse, à Saint-Légier - La Chiésaz,
+et que l’intimé le savait ou aurait pu le savoir.
+Le recourant se prévaut à cet égard de l’art. 52 CL, qui prévoit que, pour
+déterminer si une partie a son domicile sur le territoire de l’Etat contractant dont les tribunaux
+sont saisis, le juge applique sa loi interne (al. 1) et que, lorsqu’une partie n’a pas de
+domicile dans l’Etat dont les tribunaux sont saisis, le juge, pour déterminer si elle a un
+domicile dans un autre Etat contractant, applique la loi de cet Etat (al. 2).
+Au regard des critères de l’art. 23 du CC (Code civil suisse; RS 210), le recourant ne démontre
+pas qu’il aurait été domicilié en Suisse au début des années nonante ou
+lors de la saisine de la Cour d’appel de Reims. Certes, il a manifestement entretenu des attaches
+avec la Suisse : il est originaire du canton de Vaud, où des membres de sa famille ont vécu
+et vivent encore, il y est assuré auprès d'une caisse d'assurance-maladie, il y a maintenu
+une relation bancaire et y a reçu quelques correspondances d’ordre professionnel ou des catalogues.
+Cela ne suffit toutefois pas à faire de Lausanne ou de Saint-Légier son lieu de résidence
+avec une intention de s’établir concrètement perceptible pour les tiers. En effet, s’il
+avait véritablement élu domicile durant plusieurs années dans le canton de Vaud, comme
+il le prétend, il aurait été en mesure de produire une multitude de documents administratifs
+communaux, cantonaux et fédéraux établissant sans conteste sa localisation, sa vie, dans
+le canton de vaud. Or, les pièces qu’il a produites rendent seulement plausibles quelques
+passages épisodiques sur territoire vaudois, mais ne sont pas de nature à prouver une résidence
+assortie d’une intention d’établissement.
+A l’inverse, l’intimé a démontré qu’il avait déployé d’importants
+efforts pour tenter de localiser le recourant aux adresses que celui-ci avait communiquées dans
+ses relations d’affaires avec lui, à Paris et à Londres, recourant même aux services
+d’un détective, dont l'enquête a permis d’identifier une résidence "incognito"
+au château de [...] en France au début de l'année 1993. Si ces démarches n’ont
+pas abouti c’est en raison de l’absence de collaboration du recourant qui, comme la décision
+de rejet de la requête en relevé de forclusion le constate, n’a fautivement pas communiqué
+à l’intimé ses adresses successives.
+En conclusion, il y a lieu de retenir, comme les décisions françaises rendues en cascade dans
+cette cause l’ont fait, que l’acte introductif d’instance a été valablement
+signifié au recourant défaillant, soit conformément aux dispositions procédurales
+françaises et à temps pour qu’il puisse se défendre, et que, par conséquent,
+l’art. 27 al. 2 CL ne s’oppose pas à la reconnaissance du jugement de la Cour d’appel
+de Reims du 19 novembre 2007.
+cc)
+L'art. 46 ch. 2 CL impose à la partie  qui demande la reconnaissance d'une décision par
+défaut de produire l'original ou une copie certifiée conforme du document établissant
+que l'acte introductif d'instance ou un acte équivalent a été signifié à la
+partie défaillante. Le recourant soutient que cette disposition n’a pas été respectée
+par l’intimé.
+Ce grief est mal fondé. L'intimé a produit l'original du procès-verbal de signification
+par huissier de l'acte introductif d'instance, des 17 et 27 mars 1992.
+III.
+Vu ce qui précède, le recours doit être
+rejeté et le prononcé confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 1'200 fr. et  compensés
+avec l'avance de frais effectuée par le recourant, sont mis à la charge de celui-ci, qui doit
+en outre verser à l'intimé la somme de 4'000 fr. à titre de dépens de deuxième
+instance.
+Par ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'200 fr. (mille deux cents
+francs), sont mis à la charge du recourant.
+IV.
+Le recourant U.________ doit verser à l'intimé V.________ la somme de 4'000 fr. (quatre mille
+francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+3 février 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Nicolas Gilliard, avocat (pour U.________),
+‑
+Me Benoît Dayer, avocat (pour V.________),
+-
+M. le Préposé à l'Office des poursuites du district de La Riviera – Pays-d'Enhaut,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 456'130 fr. 83.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme le Juge de paix du district de La Riviera – Pays-d'Enhaut.
+La greffière :
