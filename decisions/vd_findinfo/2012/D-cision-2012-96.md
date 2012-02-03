@@ -1,0 +1,258 @@
+---
+decision_id: "vd_findinfo_D_cision___2012___96"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2012 / 96"
+decided: "2012-02-03"
+published: "2012-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3096882"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-235.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2012 / 96
+
+## Regeste
+
+DROIT D'OBTENIR UNE DÉCISION | 6 CEDH, 29 al. 1 Cst., 393 al. 2 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.02.2012 Décision / 2012 / 96
+
+DROIT D'OBTENIR UNE DÉCISION | 6 CEDH, 29 al. 1 Cst., 393 al. 2 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+30
+PE11.003682-HRP/CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 février 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mmes
+Epard et Byrde
+Greffier
+:              M.
+Heumann
+*****
+Art.
+29 al. 1 Cst; 6 CEDH; 393 al. 2 let. a CPP
+Vu l'
+enquête n° PE11.003682-HRP
+instruite par le Ministère public de l'arrondissement de La Côte contre
+E.________
+pour lésions corporelles simples, dommages à la propriété, injure, menaces, violation
+de domicile et contravention à la LStup (loi fédérale du 3 octobre 1951 sur les stupéfiants
+et les substances psychotropes; RS 812.121), d'office et sur plainte d'
+I.________
+,
+A.L.________
+,
+B.L.________
+et
+C.L.________
+,
+vu l'ordonnance du 14 mars 2011, par laquelle le Tribunal des mesures de contrainte a ordonné la
+détention provisoire d'E.________ pour une durée d'un mois à compter du 12 mars 2011,
+vu l'ordonnance du 13 décembre 2011, par laquelle le Tribunal des mesures de contrainte a ordonné
+la prolongation de la détention provisoire d'E.________ pour la durée maximale de 3 mois, soit
+au plus tard jusqu'au 25 mars 2012,
+vu les requêtes du 16 janvier 2012, par lesquelles son conseil de choix, Me Sébastien Thüler,
+a requis du Ministère public de l'arrondissement de La Côte, la libération de la détention
+provisoire de son client et subsidiairement, si la demande de libération de la détention provisoire
+de son client ne devait pas aboutir, quatre permissions pour des démarches relatives au déménagement
+de la famille d'E.________,
+vu l'ordonnance du 27 janvier 2012, par laquelle le Tribunal des mesures de contrainte a rejeté
+la demande de libération de la détention provisoire d'E.________,
+vu l'acte du 30 janvier 2012, par lequel Me Thüler, d'une part, a recouru pour déni de justice
+de la part du Ministère public de l'arrondissement de La Côte, lequel a refusé de statuer
+sur la requête de permission présentée par son client, le 16 janvier 2012, et d'autre
+part, a adressé une requête de mesures d'extrême urgence et provisionnelles tendant à
+l'octroi d'une permission de seize heures à E.________ le 31 janvier 2012, subsidiairement à
+l'octroi d'une permission de seize heures au précité dès décision de mesure d'extrême
+urgence rendue,
+vu l'ordonnance du 31 janvier 2012, par laquelle le Président de la cour de céans a rejeté
+la requête de mesures provisionnelles déposée le 30 janvier 2012,
+vu les pièces du dossier;
+attendu
+que le recourant demande à la cour de céans de constater que la Procureure de l'arrondissement
+de La Côte a commis un déni de justice au préjudice d'E.________ en refusant de statuer
+sur sa demande de permission de sortie,
+que l'article 1 de la loi sur l'exécution de la détention avant jugement (LEDJ; RSV 312.07)
+dispose que l'exécution de la détention avant jugement est régie par le Code de procédure
+pénale suisse (CPP; RS 312.0) ainsi que par la présente loi,
+que la LEDJ n'instaure pas de voie de recours contre les décisions du Procureur en cette matière,
+qu'il convient dès lors d'appliquer les règles de recours du CPP,
+que, selon l'art. 393 al. 1 let. a CPP, le recours est recevable contre les décisions et les actes
+de procédure du Ministère public,
+que le recours peut être formé notamment pour violation du droit, y compris le déni de
+justice et le retard injustifié (art. 393 al. 2 let. a CPP),
+que le recours contre les décisions notifiées par écrit ou oralement est motivé et
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP),
+qui dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV, [loi
+d’organisation judiciaire; RSV 173.01]),
+que le recours pour déni de justice ou retard injustifié n’est soumis à aucun délai
+(art. 396 al. 2 CPP),
+qu'en l’espèce, il y a donc lieu d’entrer en matière sur le recours, qui a été
+formé devant l’autorité compétente pour déni de justice de la part du Ministère
+public et qui satisfait aux conditions de forme posées par l’art. 385 al. 1 CPP;
+attendu qu'en vertu de l'art. 29 al. 1 Cst (Constitution fédérale du 18 avril 1999; RS 101),
+toute personne a droit, dans une procédure judiciaire ou administrative, à ce que sa cause
+soit traitée équitablement et jugée dans un délai raisonnable,
+qu'à l'instar de l'art. 6 par. 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de
+l'homme et des libertés fondamentales; RS 0.101), qui n'offre pas à cet égard une protection
+plus étendue, cette disposition consacre le principe de la célérité, en ce sens qu'elle
+prohibe le retard injustifié à statuer,
+que l'autorité viole cette garantie constitutionnelle lorsqu'elle ne rend pas une décision
+qu'il lui incombe de prendre dans le délai prescrit par la loi ou dans le délai que la nature
+de l'affaire et les circonstances font apparaître comme raisonnable (ATF 135 I 265 c. 4.4; ATF 130
+I 312 c. 5.1; TF 1B_219/2011 du 6 juillet 2011 c. 2.1);
+attendu que le CPP ne prévoit pas de possibilité de congé de la détention préventive,
+que, selon l'art. 235 al. 5 CPP, les cantons règlent les droits et les obligations des prévenus
+en détention, leurs droits de recours, les mesures disciplinaires, ainsi que la surveillance des
+établissements de détention,
+que parmi les droits des prévenus en détention, on peut en déduire qu'il existe celui
+de demander une permission ou un congé,
+que la LEDJ ne prévoit aucune possibilité de permission ou de congé,
+qu'en revanche, le règlement sur le statut des détenus avant jugement et des condamnés
+placés dans un établissement de détention avant jugement et les régimes de détention
+applicables (RSDAJ; RSV 340.02.5) prévoit à ses articles 81 à 83 une telle possibilité,
+que, selon l'art. 81 RSDAJ, une permission de sortie de brève durée, avec ou sans accompagnement,
+ne peut être accordée aux détenus qu'exceptionnellement ou pour des raisons familiales
+ou professionnelles,
+que, selon les articles 70 et 71 RSDAJ, les détenus peuvent en tout temps adresser des requêtes
+écrites et motivées à la direction de l'établissement dans lequel ils sont placés,
+que, dans le cadre d'une permission de sortie, la direction de l'établissement dans lequel le détenu
+est placé émet un préavis écrit (cf. art. 83 RSDAJ) avant qu'il ne soit statué
+sur la permission de sortie,
+que, selon l'art. 82 RSDAJ, la compétence pour accorder une permission de sortie appartient à
+l'autorité dont les détenus dépendent,
+que l'autorité dont les détenus dépendent est l'autorité investie de la direction
+de la procédure (cf. art. 61 CPP);
+attendu qu'en l'espèce, étant donné le stade de la procédure, le Ministère public
+de l'arrondissement de La Côte est l'autorité investie de la direction de la procédure,
+qu'en conséquence, l'autorité compétente pour accorder une permission de sortie était
+la Procureure de l'arrondissement de La Côte (cf. art. 82 RSDAJ et 61 CPP);
+attendu que, par requête du 16 janvier 2012, le conseil du recourant s'est adressé directement
+à la Procureure, afin de présenter une demande de permissions de sortie pour son client,
+qu'il ne s'est pas adressé à la direction de l'établissement en question – la prison
+du Bois-Mermet, établissement pénitentiaire dans lequel son client est détenu provisoirement
+– comme le prévoit les articles 70 et 71 RSDAJ,
+qu'il a toutefois transmis copie de sa requête à la direction de la prison du Bois-Mermet,
+que, par lettre envoyée le 20 janvier 2012 au Ministère public de l'arrondissement de La Côte,
+le conseil du recourant a apporté des précisions quant à la durée des congés
+demandés par son client,
+que le 25 janvier 2012, un entretien a eu lieu entre E.________ et la direction de la prison du Bois-Mermet,
+que lors de cet entretien, la direction de la prison du Bois-Mermet a demandé à E.________
+de remplir le formulaire officiel prévu pour toute demande de permission, en lui expliquant qu'il
+était nécessaire qu'il le remplisse avant que la direction de l'établissement pénitentiaire
+ne formule son préavis,
+que, depuis cette date, la direction de la prison du Bois-Mermet n'a pas reçu ledit formulaire en
+retour,
+qu'en conséquence, cette dernière n'a pu émettre son préavis écrit,
+que par correspondances des 27 et 30 janvier, le conseil du recourant a requis une décision de la
+part de la Procureure quant à la demande de permissions déposée le 16 janvier 2012,
+que la Procureure, après avoir relevé que l'avancement de la procédure dépendait
+du recourant, a écrit au conseil de ce dernier, le 30 janvier 2012, qu'elle n'était pas en
+mesure de statuer conformément aux articles 82 et 83 RSDAJ, au motif qu'elle n'avait pas reçu
+le préavis de la prison du Bois-Mermet,
+qu'en l'espèce, l'attitude de la Procureure ne prête pas le flanc à la critique,
+qu'en effet, sans le préavis de la prison du Bois-Mermet, la Procureure n'était pas légitimée
+à accorder une permission de sortie,
+que dès lors, il n'y a pas déni de justice de la part de la Procureure qui s'est conformée
+aux dispositions légales cantonales prévues par le RSDAJ;
+attendu que le recourant soulève le grief de déni de justice également à l'encontre
+de la prison du Bois-Mermet,
+qu'il considère que le formulaire officiel de demande de permission de sortie remis par la prison
+du Bois-Mermet constitue une exigence contraire aux dispositions du CPP,
+que sont toutefois applicables en l'espèce les règles posées par la LEDJ et le RSDAJ;
+attendu que l'exigence de remplir un formulaire officiel tient compte du besoin de formalisme au sein
+des établissements pénitentiaires, qui doivent faire face à un nombre important de demandes,
+que l'emploi de ces formulaires permet en outre de garantir un accès équitable à tous
+les détenus à ce type de demande et qu'il est donc légitime, afin de standardiser les
+demandes au sein des établissements pénitentiaires,
+que si le formulaire en question n'avait pas été remis par la direction de la prison du Bois-Mermet
+au recourant ou si cette dernière ne lui avait pas expliqué les conséquences qui s'ensuivaient
+s'il ne remplissait pas ledit formulaire, l'attitude du recourant aurait été compréhensible,
+que tel n'est pas le cas d'espèce, puisque le recourant a reçu ce formulaire lors de l'entretien
+avec la direction de la prison du Bois-Mermet le 25 janvier 2012, laquelle lui a clairement indiqué
+qu'elle ne rendrait son préavis qu'à réception du formulaire rempli par ses soins,
+que malgré cela, le recourant ne s'est pas conformé aux instructions de la prison du Bois-Mermet,
+puisqu'il n'a jamais retourné le formulaire dûment rempli,
+qu'au surplus, la correspondance du conseil du recourant du 20 janvier 2012, par laquelle ce dernier
+apportait des précisions quant à la durée des permissions de sortie demandées, n'a
+pas été adressée à la direction de la prison du Bois-Mermet,
+que dès lors, il n'y a pas de déni de justice de la part de la direction de la prison du Bois-Mermet,
+qui s'est conformée aux instructions qui avaient été transmises au recourant,
+qu'au demeurant, le recourant a tardé à requérir une permission de sortie,
+qu'en effet, lors de l'audience de la Commission de conciliation en matière de baux à loyer
+de la Préfecture de la Broye-Vully, tenue le 23 mars 2011, une prolongation unique et définitive
+du bail de Mme [...], compagne du recourant , avait été accordée au 31 janvier 2012 (P.
+170/2),
+que le recourant était donc au courant depuis le mois de mars 2011 que sa famille devait quitter
+les locaux pris à bail au 31 janvier 2012,
+qu'il est détenu provisoirement à la prison du Bois-Mermet depuis plusieurs mois,
+qu'il aurait donc pu entreprendre les démarches en vue d'une demande de permission de sortie bien
+plus tôt qu'il ne l'a fait,
+qu'en conclusion, c'est à bon droit que la Procureure n'a pas donné suite à la requête
+formulée le 16 janvier 2012 par le conseil du recourant,
+qu'au vu de ce qui précède, il n'y a donc pas lieu d'examiner les conclusions subsidiaires
+prises par le recourant, qui ne peuvent qu'être rejetées également;
+attendu, en définitive, que le recours doit être rejeté dans la mesure où il est
+recevable,
+que les frais de la procédure de recours, par 770 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux du 28 septembre 2010; RSV 312.03.1]), sont mis à la charge du recourant, qui succombe
+(art. 428 al. 1 CPP),
+que dans la mesure où le conseil du recourant, avocat de choix en l'état de la procédure
+(cf. P. 174 et 175), n'a pas demandé à être désigné comme avocat d'office d'E.________
+dans le cadre de la procédure de recours, il n'y a pas lieu de lui allouer une indemnité,
+que
+s'agissant des dépens réclamés par le recourant, ils suivent le sort de la cause au fond
+(cf. art. 433 CPP; Mizel/Rétornaz, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 13 ad art. 433 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Dit que les frais de la procédure de recours, par 770 fr. (sept cent septante francs), sont mis
+à la charge de E.________.
+III.
+Déclare le présent arrêt exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Sébastien Thüler, avocat (pour E.________),
+-
+Ministère public
+central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
