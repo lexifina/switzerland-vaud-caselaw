@@ -1,0 +1,284 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 5"
+decided: "2012-02-03"
+published: "2012-01-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3087658"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-090.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 5
+
+## Regeste
+
+PLAINTE{LP}, AVIS DE SAISIE, NOTIFICATION DE LA DÉCISION | 17 LP, 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.01.2012 Plainte / 2012 / 5
+
+PLAINTE{LP}, AVIS DE SAISIE, NOTIFICATION DE LA DÉCISION | 17 LP, 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA11.035174-112250
+3/2012
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 février 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et Mme Rouleau
+Greffière
+:              Mme
+Tchamkerten
+*****
+Art.
+17, 18 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+V.________
+,
+à Lausanne, contre la décision rendue le 24 novembre 2011, à la suite de l'audience du
+27 octobre 2011, par le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure
+de surveillance, rejetant la plainte déposée par la recourante contre l'avis de saisie délivré
+par l'
+OFFICE
+DES POURSUITES DU DISTRICT DE
+LAUSANNE
+dans le cadre de la poursuite n°
+5'768'738 exercée contre elle à l'instance de
+R.________SA
+,
+à Ostermundigen.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 10 juin 2011, à la réquisition de R.________SA, l'Office des poursuites du district de Lausanne
+(ci-après : l'office) a notifié à V.________ un commandement de payer n° 5'768'738
+portant sur des arriérés de loyers et de charges afférents à un appartement et à
+une place de parc sis avenue de Q.________, à Préverenges.
+La poursuivie a formé opposition totale par courrier du 6 août 2011, reçu le 15 août
+suivant par l'office. Par lettre du 7 septembre 2011, l'office a informé la plaignante que sa déclaration
+d'opposition ne pouvait être prise en considération au motif qu'elle avait été formée
+tardivement.
+Le 9 septembre 2011, l'office a reçu de la poursuivante une réquisition de continuer la poursuite.
+Le même jour, il a adressé un avis de saisie sous pli simple à la poursuivie, fixant la
+date de la saisie à son domicile le 20 septembre 2011 dans l'après-midi. A cette date, l'office
+a procédé à l'interrogatoire de la poursuivie. Il en est ressorti que V.________ travaillait
+en qualité de médecin à l'Hôpital de Morges. Elle contestait la poursuite dirigée
+à son encontre du fait qu'elle concernait des arriérés de loyer et d'autres frais afférents
+à l'appartement conjugal qu'elle occupait avec son ex-époux,  P.________. Selon elle,
+cette dette devait être prise en charge par ce dernier, selon convention sur les effets accessoires
+du divorce, ratifiée par jugement de divorce rendu le 6 juillet 2011 par le Président du Tribunal
+civil de l'arrondissement de La Côte.
+2.
+Par lettre du 21 septembre 2011, adressée au Tribunal d'arrondissement de La Côte, et par lettre
+du 22 septembre 2011, déposée au greffe du Tribunal d'arrondissement de Lausanne, V.________
+a demandé au "Juge du district de La Côte" et au "Juge de l'arrondissement de
+Lausanne" d'"ordonner un effet suspensif de la saisie des biens" et d'"ordonner que
+[le créancier] se tourne plutôt vers le véritable débiteur, à savoir [son] ex-mari."
+A l'appui de sa requête, elle a produit notamment la copie du jugement de divorce rendu le 6 juillet
+2011 par le Président du Tribunal civil de l'arrondissement de La Côte, dont le chiffre II
+du dispositif ratifie les chiffres I à X d'une convention sur les effets accessoires du divorce
+signée les 18 et 19 mars 2011 par P.________ et elle-même, ainsi que la copie de cette convention,
+dont le chiffre V prévoit que P.________ assumera seul les obligations découlant de l'exécution
+du bail relatif à ce qui était l'appartement conjugal, sis à l'avenue de la Q.________
+7, à Préverenges, déchargeant V.________ de toute obligation à cet égard. Le
+Tribunal d'arrondissement de La Côte a transmis la requête reçue au Tribunal d'arrondissement
+de Lausanne comme objet de sa compétence.
+Par prononcé du 22 septembre 2011, envoyé le même jour aux parties, le Président
+du Tribunal d'arrondissement de Lausanne a refusé d'accorder l'effet suspensif à cette requête,
+considérée comme une plainte. Par courrier du même jour, il a invité la créancière
+et l'office à lui faire parvenir leurs déterminations sur la plainte.
+La créancière s'est déterminée par courrier du 28 septembre 2011, concluant au rejet
+de la plainte. Le 29 septembre 2011, le greffe du tribunal a communiqué ces déterminations
+à V.________.
+Par courrier recommandé du 12 octobre 2011, le Président a cité les parties à comparaître
+à une audience fixée au 27 octobre 2011, pour voir statuer sur la plainte. Ce pli est arrivé
+à l'office de distribution postal le 14 octobre 2011. A l'issue du délai de garde,
+le 21 octobre 2011, il a été renvoyé à l'expéditeur avec la mention "non
+réclamé".
+L'office s'est déterminé par courrier du 24 octobre 2011, préavisant pour le rejet
+de la plainte. Le greffe du tribunal a adressé copie de ce courrier aux parties.
+Le Président a tenu audience le 27 octobre 2011, par défaut de la plaignante.
+Par lettre du 4 novembre 2011, V.________ a répliqué aux déterminations de la créancière
+et de l'office.
+Par prononcé envoyé aux parties le 24 novembre 2011 sous pli recommandé, le Président
+du Tribunal d'arrondissement de Lausanne a rejeté la plainte (I) et rendu la décision sans
+frais ni dépens (II).
+3.
+Par lettre datée
+du 23 novembre 2011, postée le 25 novembre suivant en courrier B, et reçue le 30 novembre 2011
+par le greffe du tribunal d'arrondissement, V.________ a écrit notamment ceci :
+"Le préposé […] m'a […] informé qu'il y aurait eu une audience auprès
+de votre tribunal […]. Il se trouve que je n'avais pas été invité à assister
+à cette audience, et aucune information sur les suites de cette audience ne m'a été communiquée.
+Je
+ne sais plus quoi faire ni comment arrêter cette injustice […]".
+Ce courrier a été considéré comme un recours contre le prononcé de rejet de
+la plainte et transmis avec le dossier à la cour de céans.
+Par lettre du 14 décembre 2011, la créancière intimée a conclu au rejet du recours.
+Le 15 décembre 2011, l'office a préavisé en faveur du rejet du recours, se référant
+à ses déterminations déposées en première instance.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de la LP du 18 mai
+1955; RSV 280.05]) et dans les formes requises (art. 28 al. 2 et 3 LVLP), le recours est recevable.
+Les déterminations
+de l'office intimé et de la poursuivante sont également recevables (art. 31 al. 1 LVLP).
+II.
+Selon l'art. 17 al. 1
+LP, la voie de la plainte est ouverte lorsqu'une mesure de l'office est contraire à la loi ou ne
+paraît pas justifiée en fait. Par mesure au sens de cette disposition, il faut entendre tout
+acte d'autorité accompli par l'office ou un organe de la poursuite en exécution d'une mission
+officielle dans une affaire concrète. L'acte de poursuite doit être de nature à créer,
+modifier ou supprimer une situation de droit de l'exécution forcée dans l'affaire en question
+et il peut se manifester de toutes sortes de façons (ATF 129 III 400 c. 1.1, JT 2004 II 51; Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, nn. 11-12
+ad art. 17 LP).
+La voie de la plainte
+est ouverte contre un avis de saisie, acte matériel ayant pour objet la continuation de la procédure
+forcée et produisant des effets externes (CPF, 18 janvier 2011/1; CPF, 21 juin 2010/14; CPF, 11
+juin 2007/16; CPF, 17 janvier 2007/38 et les références citées).
+En contestant la décision de l'office de suivre à la réquisition de continuer la poursuite,
+la recourante s'en prend en réalité à l'avis de saisie qui lui avait été adressé
+le jour de la réception de la réquisition de continuer la poursuite. Les conclusions, tant
+de la plainte que du recours, tendent du reste implicitement à ce qu'il soit ordonné à
+l'office de rejeter la réquisition de continuer la poursuite.
+III.
+a)
+La recourante fait d'abord valoir qu'elle n'aurait pas été citée à comparaître
+à l'audience de l'autorité inférieure de surveillance du 27 octobre 2011 et qu'elle n'aurait
+pas reçu d'information "sur les suites de cette audience".
+b)
+La procédure de plainte est régie par l'art. 20a LP et par la LVLP. L'art. 21 al. 2 LVLP
+prévoit que le président appointe une audience, à laquelle il convoque les parties ou
+leurs mandataires par lettre recommandée et le préposé par lettre ordinaire.
+Selon l'art. 138 al. 3 let. a CPC (Code de procédure civile du 19 décembre 2008; RS 272),
+un acte est réputé notifié en cas d'envoi recommandé, lorsque celui-ci n'a pas été
+retiré, à l'expiration d'un délai de sept jours à compter de l'échec de la remise,
+si le destinataire devait s'attendre à recevoir la notification. La fiction de la notification à
+l'échéance d'un délai de sept jours n'intervient que si le destinataire devait s'attendre
+à recevoir une communication du tribunal. Elle se fonde sur le devoir des parties, dicté par
+les règles de la bonne foi, de faire en sorte que les pièces de procédure puisse les atteindre
+(Bohnet, in Bohnet/Haldy/ Jeandin/Schweizer/Tappy, Code de procédure civile commenté, Bâle
+2011, n. 26 ad art. 138 CPC).
+c)
+En l'occurrence, la recourante a saisi la justice d'une plainte les 21/22 septembre 2011. Au mois de
+septembre, le greffe lui a adressé une copie des déterminations de la créancière.
+La recourante ne pouvait donc ignorer qu'une procédure la concernant était en cours, de sorte
+qu'elle devait s'attendre à recevoir des communications du tribunal. Le 12 octobre 2011, une citation
+à comparaître lui a été envoyée dans la forme requise, soit par pli recommandé,
+que l'intéressée n'a pas retiré. Ce pli est ainsi réputé notifié à
+l'issue du délai de garde de sept jours, soit le 21 octobre 2011. La débitrice a
+été valablement citée à comparaître.
+Par ailleurs, en ce qui concerne la notification de la décision de l'autorité inférieure
+de surveillance, rejetant la plainte, on ignore à quelle date elle a eu lieu, dès lors qu'aucun
+accusé de réception ni aucune attestation Track & Trace ne figure au dossier et que la
+lettre valant recours a été rédigée avant le prononcé litigieux. Toutefois,
+à supposer que la recourante n'ait effectivement jamais reçu la décision de l'autorité
+inférieure de surveillance, elle n'en a subi aucun préjudice dans la mesure où elle a
+pu recourir en temps utile.
+Mal fondé, le grief tiré d'une irrégularité de la procédure doit être rejeté.
+IV.
+a)
+Sur le fond,
+la recourante paraît
+remettre en cause le bien-fondé de la créance en poursuite, faisant valoir que le débiteur
+de la créance en poursuite serait en réalité son ex-époux P.________.
+b)
+Il n'y a pas lieu d'entrer en matière sur
+ce grief dès lors que l'examen de cette question échappe à la compétence des autorités
+de surveillance. En effet, il n'appartient ni à l'office des poursuites ni à l'autorité
+de surveillance de décider si la prétention litigieuse est exercée à bon droit
+ou non (arrêt non publié du Tribunal fédéral du 6 mars 2007 dans la cause 5A.38/2007;
+ATF 115 III 18 c. 3b, JT 1991 II 76; ATF 110 III 20, JT 1986 II 43). C'est au juge du fond qu'il
+incombe de déterminer si le montant est dû et au juge de la mainlevée d'examiner, le cas
+échéant, si le créancier établit être au bénéfice d'un jugement exécutoire
+ou d'une reconnaissance de dette. Quant à l'autorité de surveillance, elle doit seulement examiner
+si l'office a pris une décision ou une mesure illégale ou inopportune.
+Le
+recourant ne peut donc soulever par la voie de la plainte les moyens libératoires qu'il aurait dû
+invoquer à l'appui de son opposition ou qui ont été rejetés dans le cadre de la procédure
+de mainlevée de l'opposition (Gilliéron, op. cit. n. 17 ad art. 17 LP).
+V.
+a)
+Lorsque la poursuite n'est pas suspendue par l'opposition ou par un jugement, le créancier peut
+requérir la continuation de la poursuite à l'expiration d'un délai – minimum –
+de vingt jours à compter de la notification du commandement de payer (art. 88 al. 1 LP). Le droit
+de requérir la continuation de la poursuite se périme par un an à compter de la notification
+du commandement de payer. Lorsque le débiteur est sujet à la poursuite par voie de saisie,
+l'office, après réception de la réquisition de continuer la poursuite, procède sans
+retard à la saisie ou y fait procéder par l'office du lieu où se trouvent les biens à
+saisir (art. 89 LP). Il lui appartient d'examiner d'office s'il est compétent à raison du lieu,
+si le poursuivant est fondé à requérir la continuation de la poursuite et si cette dernière
+doit continuer par voie de saisie (Foëx, Commentaire romand, n. 3 ad art. 89 LP). Le débiteur
+doit être avisé de la saisie la veille au plus tard (art. 90 LP).
+b)
+En l'occurrence la recourante ne prétend pas que l'une de ces conditions ne serait pas remplie.
+La cour de céans constate que le commandement de payer a été notifié à la recourante
+le 10 juin 2011, qu'il est resté sans opposition, cette dernière ayant été formée
+tardivement, et que le 9 septembre 2011, soit dans le délai prévu par l'art. 88 LP, la créancière
+intimée a déposé auprès de l'office une réquisition de continuer de la poursuite.
+La recourante a en outre été avisée suffisamment à l'avance du jour auquel il serait
+procédé à la saisie, conformément à l'art. 90 LP.
+En définitive, dès lors que la mesure prise par l'office ne fait l'objet d'aucun grief valable
+et qu'elle n'apparaît pas entachée d'un vice susceptible d'être relevé d'office par
+l'autorité de surveillance, la plainte ne pouvait qu'être rejetée.
+VI.
+Au vu de ce qui précède, le recours doit être rejeté et le prononcé confirmé.
+L'arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62
+al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L'arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+3 février 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mme V.________,
+‑
+M. Pierre-Yves Zurcher, agent d'affaires breveté (pour R.________SA),
+‑
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
