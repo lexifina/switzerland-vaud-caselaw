@@ -1,0 +1,340 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2012___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2012 / 7"
+decided: "2012-02-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3168807"
+cites_law: ["switzerland/bund/acts/272/art-004.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2012 / 7
+
+## Regeste
+
+DÉCISION INCIDENTE, DROIT TRANSITOIRE | 153 CPC, 404 CPC (CH), 99 TFJC (2010)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 07.02.2012 Jug-inc / 2012 / 7
+
+DÉCISION INCIDENTE, DROIT TRANSITOIRE | 153 CPC, 404 CPC (CH), 99 TFJC (2010)
+
+TRIBUNAL
+CANTONAL
+CO04.019029
+26/2012/SNR
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+G.________
+,
+à Pampigny, d'avec
+V.________SA
+,
+à Puidoux.
+___________________________________________________________________
+Du
+7 février 2012
+_____________
+Présidence
+de               Mme
+Rouleau
+,
+juge instructeur
+Greffière
+:              Mme
+Bouchat
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès ouvert par le demandeur G.________
+à l'encontre de la défenderesse V.________SA, selon demande du 9 septembre 2004 dont la conclusion,
+avec suite de frais et dépens, est la suivante :
+"I.
+V.________SA est la débitrice de G.________ et lui doit immédiat paiement de la somme de 649'262
+fr. 65 (six cent quarante-neuf mille deux cent soixante-deux francs et soixante-cinq centimes) avec intérêts
+à :
+-
+5 % l'an dès le 1
+er
+juin 2004, échéance moyenne, sur la somme de 178'710 fr. (cent septante-huit mille sept cent
+dix francs);
+-
+5 % l'an dès le 1
+er
+juin 2003, échéance moyenne, sur la somme de 47'450 fr. (quarante-sept mille quatre cent cinquante
+francs) plus 1'741 fr. 85 (mille sept cent quarante et un francs et huitante-cinq centimes);
+-
+5 % l'an dès le 1
+er
+novembre 2011, échéance moyenne, sur la somme de 34'666 fr. (trente-quatre mille six cent soixante-six
+francs);
+-
+5 % l'an dès le dépôt de la demande, sur le solde.",
+vu la réponse déposée par la défenderesse V.________SA, le 17 janvier 2005, laquelle
+conclut, avec suite de frais et dépens, au rejet de la conclusion de la demande,
+vu l'échange complet des écritures auquel les parties ont procédé,
+ouï les parties, assistées de leur conseil respectif, à l'audience préliminaire du
+12 juin 2006,
+vu l'ordonnance sur preuves du 19 juin 2006,
+vu le délai au 12 septembre 2011 imparti aux parties pour déposer un mémoire de droit,
+vu la requête de réforme déposée le 12 septembre 2011 par la requérante et défenderesse
+V.________SA à l'encontre de l'intimé et demandeur G.________ et dont les conclusions sont
+les suivantes, avec suite de frais et dépens :
+"I.
+V.________SA est autorisée à se réformer à la veille du délai de duplique pour
+déposer une duplique complémentaire contenant les allégués 316 à 359 reproduits
+dans la partie "objet de la réforme" de la présente requête.
+II.
+Un délai fixé à dire de justice est imparti à la requérante pour le dépôt
+de dite duplique complémentaire.
+III.
+Les frais de la réforme suivront le sort de la cause au fond.",
+vu les cinq bordereaux de pièces requises produits à l'appui de cette requête,
+vu l'avis du 6 octobre 2011, par lequel le juge instructeur a notifié la requête incidente
+à l'intimé en lui impartissant un délai pour s'opposer aux conclusions incidentes,
+vu le courrier de l'intimé du 10 novembre 2011 lequel déclare notamment ne pas s'opposer au
+principe de la requête de réforme, tout en contestant son étendue et en concluant au rejet
+de la conclusion incidente I,
+vu l'avis du juge instructeur du 11 novembre 2011 impartissant un délai aux parties pour produire
+un mémoire incident et précisant qu'à l'échéance du délai, il statuerait
+sans plus ample instruction,
+vu les mémoires incidents déposés par les parties les 19 janvier et 3 février
+2012,
+vu les autres pièces au dossier;
+attendu qu'à teneur de l'art. 404 al. 1 CPC (Code de procédure civile suisse du 19 décembre
+2008, RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau droit demeurent
+régies par l'ancien droit de procédure cantonal,
+que selon l'art. 99 al. 1 TFJC (tarif des frais judiciaires civils du 28 septembre 2010, RSV 270.11.5),
+les procédures en cours à l’entrée en vigueur du tarif restent soumises à l'aTFJC
+(tarif des frais judiciaires en matière civile du 4 décembre 1984) jusqu’à
+la clôture de l’instance,
+que la présente cause, ouverte en 2004, est ainsi notamment soumise au CPC-VD;
+attendu qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un
+délai, corriger ou compléter sa procédure peut, jusqu'à la l'expiration du délai
+fixé pour le dépôt des mémoires de droit (art. 317a et 317b CPC-VD), demander l'autorisation
+de se réformer,
+que la requête doit indiquer les motifs et l'étendue de la réforme demandée (art.
+154 al. 1 CPC-VD),
+qu'elle doit être conforme aux exigences des art. 19 et 147 al. 1 CPC-VD, auxquels renvoie l'art.
+154 al. 2 CPC-VD,
+qu'en l'espèce, elle a été déposée dans le délai imparti aux parties pour
+déposer leurs mémoires de droit,
+que les exigences précitées étant satisfaites, la requête est dès lors recevable;
+attendu que la requête tend à l'introduction de nouveaux allégués, à l'exclusion
+de conclusions nouvelles ou modifiées,
+que la réforme n'est accordée que si la partie a un intérêt réel et si la requête
+n'est pas présentée dans un but dilatoire (art. 153 al. 2 et 3 CPC-VD),
+que la requérantes doit établir d'une part son intérêt réel à la preuve
+des faits allégués, c'est-à-dire leur pertinence, et d'autre part son intérêt
+réel à l'administration des preuves offertes, c'est-à-dire l'utilité que présente
+la preuve offerte pour établir les faits allégués (JT 1988 III 70 c. 4),
+que l'intérêt réel doit être apprécié au regard de l'ensemble des circonstances,
+en particulier de la pertinence du fait allégué, de sa vraisemblance, de la force de la preuve
+offerte et de la durée probable de la procédure probatoire complémentaire (JT 2002 III
+190 et les références citées),
+que le bien-fondé d'une requête de réforme s'apprécie sur la base des indications
+qui y sont contenues, notamment pour juger de la pertinence des faits allégués (ibidem),
+qu'en outre, si les faits invoqués à l'appui de la requête sont dénués de pertinence
+ou déjà invoqués sous une autre forme en procédure, celle-là devra être
+refusée (JT 2003 III 114 c. 4),
+que, de surcroît, la pertinence des faits allégués (art. 163 al. 2 CPC-VD) et la nécessité
+des preuves offertes (art. 5 al. 2 CPC-VD) doivent être appréciées plus strictement que
+dans l'ordonnance sur preuves (JT 1988 III 70 c. 4), ce d'autant plus que la cause est avancée,
+qu'en l'espèce, l'intimé, qui a été l'employé de la requérante jusqu'au
+30 avril 2001, fait valoir, dans le cadre de la procédure au fond, qu'il a été en
+incapacité de travail totale depuis le 10 novembre 2000 en raison de l'attitude de la requérante
+à son égard,
+qu'il réclame dès lors la réparation de son dommage, à savoir la perte de gain passée
+et future, la perte de rente, les frais médicaux, le tort moral, ainsi que les frais d'avocat et
+d'expertise hors procès;
+attendu que la requête tend à l'introduction des allégués 316 à 359 nouveaux,
+qu'à l'appui de sa requête, la requérante soutient notamment que des précisions et
+des nuances pertinentes doivent être apportées concernant l'état psychique de l'intimé
+avant et après son licenciement,
+que le témoignage du Dr [...] recueilli en cours de procédure n'aurait pu être allégué
+en son entier dans la procédure au fond, à l'exception de quelques passages, pour appuyer les
+conclusions de l'expertise du 19 février 2009 et de son complément du 20 juillet 2010,
+qu'étant donné que l'art. 4 al. 2 CPC-VD n'impose pas l'obligation, mais accorde seulement
+la possibilité au juge de retenir les faits révélés dans une expertise, il y aurait
+un risque, selon la requérante, que ces faits ne soient finalement pas retenus,
+qu'enfin, l'intimé ayant atteint l'âge de la retraite le 22 avril 2010, sa situation financière,
+du mois de novembre 2000 jusqu'à cette date-là, peut être maintenant déterminée
+avec exactitude et précision,
+qu'à ce titre, les prestations financières que l'intimé a touchées durant cette période
+à titre d'indemnités de l'assurance perte de gain, de rente de l'assurance-invalidité,
+de rente d'invalidité versée par les Retraites Populaires et de prestations complémentaires
+sont désormais déterminables,
+que, même si l'intimé ne s'oppose pas au principe de la réforme, il conteste son étendue,
+celle-ci tendant selon lui à introduire en procédure des faits qui ont déjà été
+allégués ou allégués sous une autre forme;
+attendu qu'il n'est pas possible de considérer les allégués 316 à 359 comme un ensemble
+de faits à apprécier globalement, leur objet différant,
+qu'il faut donc les examiner individuellement,
+que les allégués 316 à 323 concernent la situation de l'intimé avant son licenciement,
+qu'ayant trait à des faits déjà invoqués dans la procédure principale, ils n'apportent
+rien de suffisamment nouveau pour que leur introduction soit utile,
+qu'en effet, l'allégué 316 correspond à l'allégué 223,
+que l'allégué 317 correspond aux allégués 181, 185 et 302,
+que l'allégué 318 correspond à l'allégué 4,
+que l'allégué 319 correspond aux allégués 125, 216 et 217,
+que les allégués 320 et 321 correspondent aux allégués 126 et 221,
+que l'allégué 322 correspond aux allégués 187, 188, 222 et 223,
+que l'allégué 323 correspond à l'allégué 23,
+que la requérante ne doit par conséquent pas être autorisée à introduire ces
+allégués dans la procédure au fond,
+que l'allégué 324 relève du droit,
+que son contenu pourra être plaidé, de sorte qu'il n'y a pas d'intérêt réel
+à l'introduire par la voie de la réforme,
+que l'allégué 325 concerne la manière dont le licenciement de l'intimé a été
+effectué,
+que cet allégué correspond aux allégués 16 et 144, de sorte que la requérante
+ne peut se prévaloir d'un intérêt pertinent à leur introduction dans la procédure
+principale,
+qu'en outre, à l'aune de la jurisprudence, les preuves offertes doivent être utiles pour établir
+les faits allégués (JT 1988 III 70 c. 4),
+qu'en l'occurrence, la pièce requise 154 consiste en tout document démontrant que la requérante
+aurait violé son devoir de protection de la personnalité lorsqu'elle a annoncé à
+l'intimé son licenciement,
+que la pièce requise 155 est le dossier complet perte de gain de V.________SA/ G.________ auprès
+d' [...],
+que la pièce requise 156 est le dossier complet AVS de l'intimé,
+que force est de constater que ces réquisitions de preuve ne présentent aucune utilité
+pour établir les faits allégués,
+que leur production ne doit donc pas être ordonnée,
+que les allégués 326 et 327 correspondent à l'allégué 40,
+que l'allégué 328 retranscrit un passage du témoignage du Dr [...] datant du 2 février
+2007 qui relate l'état de santé de l'intimé au cours des années 2000 à 2003,
+que l'allégué est pertinent du simple fait qu'il est susceptible de démontrer que le dommage
+proviendrait d'une autre cause que celle alléguée par l'intimé, ceci sans préjuger
+sur le fond,
+que bien que le témoignage soit repris dans l'expertise du 19 février 2009 et son complément
+du 20 juillet 2010, ceux-ci ne font état que de passages du témoignage,
+que, comme l'a relevé la requérante, l'art. 4 al. 2 CPC-VD n'impose pas l'obligation, mais
+accorde seulement la possibilité au juge de retenir les faits révélés dans une expertise,
+de sorte qu'il est possible que ces faits ne soient finalement pas retenus dans le jugement final,
+que l'introduction de l'allégué 328 revêt donc un intérêt pour la requérante,
+que l'allégué 329 relève de l'appréciation du juge,
+que son contenu pourra être plaidé de sorte qu'il ne revêt aucun intérêt à
+ce stade de la procédure,
+que les allégués 330 à 334 concernent la réaction de l'intimé lors de son licenciement
+le 11 novembre 2000,
+que ces faits présentent un intérêt réel,
+que les compléments d'offres de preuve ne rallongent pas la procédure probatoire,
+que leur introduction doit être ordonnée,
+que l'allégué 335 correspondant au contenu de l'allégué 25, la requérante n'a
+dès lors pas d'intérêt à l'introduire dans la procédure principale,
+qu'il en va de même des allégués 336 à 338 qui correspondent à l'allégué
+23,
+que, de surcroît, les preuves offertes à l'appui de ces allégués, soit les pièces
+requises 155 et 156, ne sont pas pertinentes pour établir ces faits, de sorte que leur production
+ne doit pas être ordonnée,
+que les allégués 339 à 348 ont trait notamment aux problèmes de santé que l'intimé
+a rencontrés de décembre 2002 à mai 2005,
+que ces éléments sont pertinents pour établir l'éventuelle étendue de la responsabilité
+de la requérante dans le cadre de la procédure principale,
+que les compléments d'offres de preuve par pièces ne rallongeront pas la procédure probatoire,
+que la requérante doit donc être autorisée à les introduire,
+que l'allégué 349 correspond aux allégués 16 et 144, de sorte que la requérante
+n'a aucun intérêt à l'introduire une nouvelle fois,
+que le même raisonnement peut être appliqué aux allégués 350 à 352 qui
+correspondent aux allégués 17 à 19 et 145,
+que les allégués 353 à 357 concernent le calcul du dommage de l'intimé,
+qu'il convient de rappeler que le dommage corporel est évolutif,
+que dès lors, les diverses prestations sociales à déduire du calcul du dommage le sont
+aussi,
+que l'introduction de ces précisions revêtant un intérêt réel pour la requérante,
+celle-ci doit être autorisée à les introduire,
+qu'étant donné que l'allégué 358 n'est pas un fait, il ne doit pas être retenu,
+que l'allégué 359 présentant un intérêt réel pour la requérante, elle
+doit être autorisée à l'introduire;
+attendu que la requête de réforme déposée par la requérante le 12 septembre
+2011 est ainsi partiellement admise,
+qu'en définitive, la requérante est autorisée à se réformer à la veille
+du délai de duplique pour introduire une duplique complémentaire contenant les allégués
+nouveaux 328, 330 à 334, 339 à 348, 353 à 357 et 359 et leurs offres de preuves,
+qu'un délai de 20 jours dès la notification du présent jugement est imparti à la
+requérante pour déposer une écriture contenant les éléments indiqués ci-dessus,
+que l'intimé se verra ultérieurement impartir un délai pour se déterminer sur les
+allégués introduits par la réforme et, au besoin, introduire des allégués et
+preuves strictement connexes;
+attendu que tous les actes du procès peuvent être maintenus (art. 155 CPC-VD);
+attendu que la partie qui obtient la réforme est chargée des dépens frustraires, arrêtés
+par le jugement de réforme, à moins qu'elle n'établisse n'avoir pu connaître en temps
+utile le fait qui l'incite à corriger sa procédure (156 al. 2 CPC-VD),
+qu'en l'espèce, à l'exception des allégués 332 à 334, le reste concerne des
+faits qui se sont produits ou qui sont parvenus à la connaissance de la requérante postérieurement
+au dépôt de la duplique,
+qu'il se justifie dès lors de mettre des dépens frustraires réduits à la charge de
+la requérante,
+que la réforme impliquera pour l'intimé de se déterminer sur l'écriture complémentaire
+de la requérante, mais ne devrait pas engendrer d'autres opérations d'instruction, les offres
+de preuves se limitant à des pièces,
+que bien que l'intimé soutient avoir commencé à rédiger son mémoire de droit,
+il n'a pas établi qu'il devrait le refaire complètement étant donné qu'il n'a pas
+été déposé,
+que par conséquent, une somme de 300 fr. (trois cents francs) à titre de dépens frustraires
+est adéquate;
+attendu que la requérante doit en outre supporter
+les frais de la procédure incidente, arrêtés
+à 900 fr. (art. 4 al. 1 et 170a al. 1 aTFJC, applicable par renvoi de l'art. 99 al. 1
+TFJC),
+qu'en matière de réforme,
+le juge statue librement sur l'adjudication des dépens de l'incident soulevés par la requête
+de réforme (art. 156 al. 3 CPC-VD),
+que
+les dépens sont alloués à la partie qui a obtenu l'adjudication de ses conclusions (art.
+92 al. 1 CPC-VD),
+que si l'intimé s'est opposé à juste titre à l'introduction de nombreux allégués,
+il s'est aussi opposé à tort sur certains points de la requête de réforme,
+que par conséquent, les dépens de l'incident peuvent être compensés.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 12 septembre 2011 par la requérante V.________SA
+dans la cause qui la divise d'avec l'intimé G.________ est partiellement admise.
+II.
+La requérante est autorisée à se réformer pour introduire en procédure les allégués
+328, 330 à 334, 339 à 348, 353 à 357 et 359 et les offres de preuves y relatives.
+III.
+Un délai de
+20 jours
+dès la notification du présent jugement est imparti à la requérante pour déposer
+une duplique complémentaire contenant les éléments mentionnés sous chiffre II ci-dessus.
+IV.
+Un délai sera fixé ultérieurement à l'intimé pour se déterminer sur les
+allégations nouvelles de la requérante et introduire, le cas échéant, des allégations
+et preuves connexes.
+V.
+Tous les actes du procès sont maintenus.
+VI.
+La requérante versera à l'intimé la somme de 300 fr. (trois cents francs) à titre
+de dépens frustraires.
+VII.
+Les frais de la procédure incidente, par 900 fr. (neuf cents francs), sont mis à la charge
+de la requérante.
+VIII.
+Les dépens de l'incident sont compensés.
+IX.
+Toutes autres ou plus amples conclusions incidentes sont rejetées.
+Le
+juge instructeur :              La greffière :
+S.
+Rouleau              F. Bouchat
+Du
+Le jugement qui précède, lu et approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l'envoi de photocopies, aux conseils des parties.
+La greffière :
+F. Bouchat
