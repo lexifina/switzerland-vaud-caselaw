@@ -1,0 +1,520 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 2"
+decided: "2012-02-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3109545"
+cites_law: ["switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-047.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-327a.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 2
+
+## Regeste
+
+OUVERTURE DE LA PROCÉDURE, DÉCISION ÉTRANGÈRE, RECONNAISSANCE DE LA DÉCISION | 34 ch. 2 CL (2007), 45 CL (2007)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.02.2012 Séquestre / 2012 / 2
+
+OUVERTURE DE LA PROCÉDURE, DÉCISION ÉTRANGÈRE, RECONNAISSANCE DE LA DÉCISION | 34 ch. 2 CL (2007), 45 CL (2007)
+
+TRIBUNAL
+CANTONAL
+KH11.027391-111413
+35
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+17 février 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+34 par. 2 et 45 CL; 327a CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+C.________
+,
+à Blonay, contre le prononcé rendu le 26 juillet 2011 par le Juge de paix du district
+de La Riviera – Pays-d'Enhaut, statuant sur la requête d'exequatur et de séquestre déposée
+contre le recourant par
+M.________
+Bank
+, à Amsterdam.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par jugement en référé rendu
+le 7 juillet 2011 à la suite d'une audience du 6 juillet 2011, dans l'affaire inscrite sous numéro
+de rôle n° 492120/KG ZA 11-895 SR/MV opposant M.________ Bank, "partie requérante
+par assignations du 15 et du 23 juin 2011", à P.________SA, T.________Ltd., Y.________
+et C.________, assignés, le Tribunal d’Amsterdam a prononcé ce qui suit (extrait
+de la traduction française produite) :
+"3.1.
+condamne les assignés par contumace,
+3.2.
+condamne les assignés individuellement au paiement à la partie requérante de 2'712'049,90
+USD, à augmenter par l’intérêt encouru au 1
+er
+décembre
+2010 de 11'368,35 USD, ainsi qu'à augmenter par l'intérêt de 22 % par an convenu contractuellement
+sur le montant principal à partir du 1
+er
+décembre 2010 jusqu'au jour de son acquittement,
+3.3.
+condamne les assignés aux frais du procès, du côté de la partie requérante,
+budgétés à ce jour à 152,62 euros de frais d'assignation, à 3'537 euros de frais
+de greffe et à 527 euros de salaire d'avocat,
+3.4.
+déclare ce jugement exécutoire nonobstant appel,
+3.5.
+décline toute requête en sus ou différente."
+b)
+Le 21 juillet 2011, M.________ Bank a saisi le Juge de paix du district de La Riviera – Pays-d'Enhaut
+d'une requête d'exequatur et de séquestre, concluant à ce que ce magistrat reconnaisse
+le jugement précité et constate sa force exécutoire, mette ce jugement à exécution
+et ordonne le séquestre, à l'encontre de C.________, de la parcelle n°  [...] de
+la commune de Blonay et de tous les biens meubles, valeurs, titres ou documents et droits patrimoniaux
+de quelque nature que ce soit se trouvant dans l'enceinte de la parcelle et des bâtiments qui y
+sont érigés, à concurrence de 2'243'481 fr. 15 – représentant la contre-valeur
+en francs suisses, aux cours du 21 juillet 2011 de 0,82 et de 1,16 francs suisses pour un dollar, respectivement
+pour un euro, des sommes fixées dans le jugement.
+A l'appui de sa requête, M.________ Bank a produit les pièces suivantes :
+-
+le jugement du Tribunal d'Amsterdam du 7 juillet 2011 et sa traduction certifiée conforme, qui retient
+notamment ce qui suit (extrait de la traduction française produite) :
+"2.2.
+Le conseiller de la partie requérante a allégué qu’il a notifié les assignations
+au parquet de l’officier de justice dans l’arrondissement d’Amsterdam. L’assignation
+du 15 juin 2011 a été notifiée à l’égard des quatre intimés, l’assignation
+du 23 juin 2011 a été notifiée à l’égard de la [fiduciaire] [...] S.A.,
+le dirigeant de l’intimé sous 1 [soit P.________SA, ndlr]. Il a fait traduire les assignations
+en français, en anglais et en russe conforme au Traité de la Haye sur les notifications. De
+cela il n’a pas encore reçu des pièces en retour.
+2.3.
+Dans le cas présent l’exigence de la partie requérante est considérée comme
+urgente comme – selon l’assignation – la position patrimoniale des assignés se
+détériore considérablement. Dans des cas urgents le juge des référés peut
+se prononcer en référé contre des assignés établis à l’étranger,
+lorsqu’il n’est pas encore apparu que les prescriptions de l’assignation aient été
+prises en considération, pour autant qu’il est garanti, autant que faire se peut, que l’assignation
+ait effectivement bien atteint son destinataire, et ce à temps pour qu’il ait eu encore la
+possibilité de se défendre.
+A
+ce titre, le conseiller de la partie requérante s’est référé à la pièce
+18 produite. Cette pièce est composée de 15 parties, le contenu résumé desquelles
+sera reproduit ci-après :
+[…]
+3.
+L’assignation, avec les pièces, de même qu’une traduction anglaise et russe, ainsi
+qu’un résumé en anglais et en russe ont été expédiés le 8 juin 2011
+par courrier express à l’adresse de l’assigné sous 4 [soit C.________, ndlr], et
+a été reçue le 20 juin 2011. Les même documents ont été envoyés par
+e-mail les 8, 9 et 15 juin 2011 à l’assigné sous 4. Le 24 juin 2011, les mêmes pièces
+ont encore une fois été envoyées par courrier express vers une autre adresse de l’assigné
+sous 4. Les pièces ont été reçues le 29 juin 2011.
+[…]
+5.
+Des parties 11 à – et y compris – 13 de la pièce 18 produite par la partie requérante
+il paraît que le conseiller a envoyé par courrier express à trois (anciens) bureaux d’avocats
+des assignés sous 1 et 4 l’assignation, avec les pièces, de même qu’une traduction
+anglaise, française et russe, ainsi qu’un résumé en anglais, en français et
+en russe. Deux des trois cas ont signé pour réception le 24 juin 2011.
+Avec
+ceci – avec en arrière plan le caractère urgent des requêtes – il est suffisamment
+garanti que les assignés sont au courant du contenu des assignations et qu’ils ont eu la possibilité
+de se défendre. Les assignés seront alors aussi condamnés par contumace."
+-
+l'original du certificat établi par le Tribunal d'Amsterdam le 19 juillet 2011, sur le modèle
+proposé dans l'annexe V à la Convention de Lugano, et sa traduction certifiée conforme;
+ce document atteste que l’acte introductif d’instance a été notifié les 15
+et 23 juin 2011 et que la décision est exécutoire dans l'Etat d'origine contre les quatre assignés;
+-
+des pages du site internet d'un convertisseur de devises;
+-
+un extrait du registre foncier, Office de Vevey, concernant la parcelle n°  [...] de la commune
+de Blonay, propriété de C.________.
+2.
+Par prononcé du 22 juillet 2011, adressé pour notification aux parties le 26 juillet 2011,
+le Juge de paix du district de La Riviera – Pays-d'Enhaut a reconnu le jugement rendu le 7
+juillet 2011 par le Tribunal d’Amsterdam dans la cause inscrite sous numéro de rôle n°
+492120/KG ZA 11-895 SR/MV opposant M.________ Bank à P.________SA, T.________Ltd., Y.________ et
+C.________ (I), déclaré exécutoire ce jugement (II), dit qu'il était statué
+sur le séquestre par ordonnance séparée (III), arrêté à 3'300 fr., comprenant
+1'800 fr. d’émolument pour le séquestre, les frais judicaires de la partie requérante
+M.________ Bank (IV), mis les frais à la charge de l'intimé C.________ (V) et dit que
+celui-ci rembourserait à M.________ Bank ses frais judicaires, à concurrence de 3'300 fr.,
+et lui verserait des dépens par 7'000 francs à titre de défraiement de son représentant
+professionnel (VI).
+Appliquant la Convention du 30 octobre 2007 concernant la compétence judiciaire, la reconnaissance
+et l’exécution des décisions en matière civile et commerciale (dite Convention de
+Lugano) [CL; RS 0.275.12], le juge de paix a considéré en bref que les exigences des art. 53
+et 54 CL étaient remplies et que le jugement devait par conséquent être reconnu et déclaré
+exécutoire.
+Le même jour, ce magistrat a ordonné le séquestre requis, sur l'immeuble et les biens
+désignés, pour une créance de 2'243'481 fr. 15, le cas de séquestre invoqué
+étant celui de l'art. 271 al. 1 ch. 6 LP. Son ordonnance a été scellée sous n°
+5'882'085 de l'Office des poursuites du district de La Riviera – Pays-d'Enhaut, qui a exécuté
+le séquestre le 26 juillet 2011.
+3.
+Par acte du 2 août 2011, C.________ a recouru
+contre le prononcé d'exequatur, concluant, avec suite de frais et dépens, à son annulation
+et, par conséquent, à l'annulation de l’ordonnance de séquestre. Il a produit des
+pièces de procédure, ainsi qu'un "document attestant des réserves de la Russie quant
+à la CLaH" (Convention "de La Haye" relative notamment à la notification d'actes
+judiciaires à l'étranger; RS 0.274.131).
+Par mémoire de réponse du 20 septembre 2011, l’intimée M.________ Bank a conclu,
+avec suite de frais et dépens, au rejet du recours dans toutes ses conclusions et à la confirmation
+du prononcé. Elle a produit notamment les pièces suivantes :
+-
+une copie d'un contrat intitulé "Transactional Loan Agreement" du 17
+novembre 2009 liant les parties, indiquant comme
+adresse du recourant, désigné comme citoyen et résidant de la Fédération de
+Russie, " [...] village, [...] Str. 123-4, Krasnodar region, Russian Federation". La clause
+23.1 de ce contrat prévoit que chaque partie reconnaît et accepte que l’adresse indiquée
+en regard de sa signature correspond à son adresse légale pour toutes notifications et communications
+et admet la validité de telles notifications ou communications à dite adresse, à moins
+que la banque ne reçoive de la partie concernée un avis écrit de changement d’adresse;
+-
+des listes, dressées trimestriellement, des personnes affiliées auprès de Y.________ entre
+le 1
+er
+janvier 2007 et le 30 juin 2011, mentionnant toutes C.________ avec pour adresse "Ville de Krasnodar";
+-
+une copie d'une lettre de l'Office des poursuites du district de La Riviera – Pays-d'Enhaut au
+conseil de l'intimée du 6 septembre 2011, indiquant notamment ce qui suit :
+"Selon
+l'extrait du Contrôle des habitants de Blonay, le débiteur [C.________, ndlr] est inscrit au
+registre de cette commune, adresse : Ch. [...] 6.
+Cependant,
+après vacation sur place et selon déclaration de M. X., le débiteur C.________ ne réside
+pas à cette adresse. Toujours selon M. X., le débiteur réside principalement en Russie,
+mais l'adresse exacte ne lui est pas connue; M. C.________ est rarement en Suisse.";
+-
+une copie de la traduction en anglais, français et russe d'un procès-verbal d'assignation par
+huissier, dont la teneur, dans sa version française, est notamment la suivante :
+"L'an
+deux mille onze et le [laissé en blanc] juin, à la demande de la société
+M.________
+Bank
+, […], Moi, huissier, [laissé en
+blanc], j'ai
+ASSIGNE
+EN REFERE
+[…]
+4.
+la personne physique
+C.________
+,
+demeurant du moins ayant son domicile élu [référence à la clause 23.1 du "Transactional
+Loan Agreement" précité] à [...] Village, [...] Str. 123-4, Krasnodar Region, Fédération
+Russe, sans lieu d'établissement ou adresse de bureau connus aux Pays-Bas, par conséquent faisant
+mon exploit par la remise de deux résumés en langue russe, ainsi qu'en laissant deux expéditions
+des présentes avec deux expéditions de la traduction russe du présent exploit à Monsieur/Madame
+le/la procureur de la Reine à Amsterdam, [adresse] et en y laissant deux expéditions du présent
+exploit et des documents susmentionnés à signifier simultanément, à [laissé
+en blanc], y travaillant en demandant ensuite la communication à la partie requise par une simple
+remise conformément à la disposition de l'article 5 alinéa 2 de la Convention de La Haye
+du 15 novembre 1965 relative à la signification et à la notification à l'étranger
+des actes judiciaires et extrajudiciaires en matière civile ou commerciale, du moins, si une simple
+remise n'est pas possible, de façon telle que réglée à l'article 5 alinéa 1
+sous a de la convention susmentionnée;
+alors
+qu'une troisième expédition, avec une traduction russe, du présent exploit sera envoyée
+sans délai par moi, huissier, par lettre recommandée à la partie requise susmentionnée;
+[…]";
+-
+une copie de la production numéro 18 dans la procédure néerlandaise, consistant en un
+ensemble de pièces comptant cent onze pages et comprenant notamment :
+- p. 19 : copie d'un bordereau d'envoi par "TNT" d'un paquet de "documents" de l'avocat
+néerlandais de M.________ Bank à C.________, à l'adresse [...] Village, [...] Str. 123-4,
+Krasnodar Region, en Russie, le 8 juin 2011;
+- p. 23 : un rapport d'acheminement, non signé, extrait du site internet de TNT, concernant l'envoi
+précité, indiquant que celui-ci a été "livré en bon état le 20 juin
+2011 à 12:00 en Russie" et qu'une personne du nom de "E." a signé à réception;
+- p. 18 : un document non daté et non signé, selon lequel "M. ou Mme E. est co-actionnaire
+de P.________SA";
+- pp. 21, 22, 25, 68 et 69 : des rapports d'échec de transmission de l'assignation par télécopie
+(fax) ou par courriel (email) à C.________ les 8, 9 et 15 juin 2011;
+- p. 26 : un document non daté et non signé, selon lequel P.________SA n'a pu être atteinte
+ni par courrier ni par email ni par fax et que l'assignation a finalement été notifiée
+le 15 juin 2011 à [la fiduciaire] [...] SA, "directeur" – en réalité,
+organe de révision – de la société et que "M. ou Mme M. a signé"
+à réception;
+- pp. 30 à 35, 62 à 64 : des rapports d'échec de transmission de l'assignation par fax
+ou par email à P.________SA les 8 et 9 juin 2011;
+- pp. 36-37 : un rapport d'acheminement, non signé, extrait du site internet de TNT, concernant
+un envoi initialement adressé à P.________SA, indiquant que celui-ci a été "livré
+en bon état le 15 juin 2011 à 12:07 à Lausanne" et qu'une personne du nom de "M."
+a signé à réception;
+- diverses pièces montrant que l'envoi de l'assignation à d'anciens conseils de P.________SA,
+en Suisse et en Russie, a été tenté par courrier, par fax et par email;
+- p. 104 : copie d'un
+bordereau d'envoi par "TNT" d'un paquet de "documents" de l'avocat néerlandais
+de M.________ Bank à C.________, à l'adresse [...] Street, H10, Krasnodar, le 24 juin 2011;
+- p. 106 : un rapport d'acheminement, non signé, extrait du site internet de TNT, concernant cet
+envoi, indiquant que celui-ci a été "livré en bon état le 29 juin 2011 à
+10:20 à Krasnodar" et qu'une personne du nom de "A." a signé à réception;
+- p. 108 : copie d'un bordereau d'envoi par "TNT" d'un paquet de "documents" de l'avocat
+néerlandais de M.________ Bank à C.________, à l'adresse 87, [...] Street, [...] Village,
+[...] District, Krasnodar Region, le 24 juin 2011;
+- p. 110 : un rapport d'acheminement, non signé, extrait du site internet de TNT, concernant cet
+envoi, indiquant que celui-ci est suspendu dans l'attente de l'adresse correcte.
+En droit
+:
+I.
+a)
+Il n’est pas contesté par les parties
+que la question de l’exequatur doit se résoudre en application de la Convention de Lugano
+du 30 octobre 2007 [CL; RS 0.275.12], entrée en vigueur dans l'Union européenne le 1
+er
+janvier
+2010 et en Suisse le 1
+er
+janvier 2011. L’art 63 par. 1 CL prévoit en effet que cette convention ne s’applique
+qu’aux actions judiciaires intentées après son entrée en vigueur dans l’Etat
+d’origine et, s'il s'agit d'une requête en reconnaissance ou en exécution d'une décision,
+dans l'Etat requis. En l’espèce, l'action néerlandaise a été intentée
+et jugée en 2011, soit après l'entrée en vigueur de la CL tant dans l'Etat d'origine que
+dans l'Etat requis.
+b)
+Formé
+en temps utile, dans le délai d’un mois prévu par les art. 43 par. 5 CL et 327a al. 3
+CPC (Code de procédure civile; RS 272), et présenté dans les formes requises (art. 321
+al. 1 CPC), le recours est recevable.
+La réponse de l'intimée est également recevable (art. 322 CPC).
+c)
+En matière de reconnaissance d’un jugement étranger, la production de pièces nouvelles
+est admise. La recevabilité est toutefois limitée aux pièces tendant à établir
+les conditions de l’exequatur et non d’autres questions relevant du seul droit interne (ATF
+105 Ib 37 c. 4c; CPF, 12 mars 1998/130).
+En l'espèce, les pièces nouvelles produites par les deux parties avec leurs écritures,
+destinées à infirmer, respectivement à établir les conditions de l’exequatur,
+sont par conséquent recevables.
+II.
+a)
+Conformément à l'art. 45 par. 1 CL,
+la juridiction de recours ne peut refuser ou révoquer une déclaration constatant la force exécutoire
+d'une décision étrangère que pour l’un des motifs prévus aux art. 34 et 35
+CL. Elle ne peut en aucun cas revoir la décision étrangère au fond (art. 45 par. 2 CL).
+b)
+Selon l'art. 34 par. 2 CL, une décision n'est pas reconnue si l'acte introductif d'instance ou un
+acte équivalent n'a pas été notifié ou signifié au défendeur défaillant
+en temps utile et de telle manière qu'il puisse se défendre, à moins qu'il n'ait pas exercé
+de recours à l'encontre de la décision alors qu'il était en mesure de le faire. Sur cette
+exception, toutefois, la Suisse a formulé une réserve selon laquelle elle ne l'applique pas
+(art. 1 al. 3 AF du 11 décembre 2007; RO 2010 5601).
+Le recourant invoque cette disposition, faisant valoir que l'assignation devant le tribunal néerlandais,
+qui l'a condamné par défaut, ne lui a pas été notifiée ou signifiée.
+L’intimée, qui a rendu vraisemblable que le recourant n’était pas domicilié
+à Blonay, soit en Suisse, à l’époque de son assignation devant le Tribunal d’Amsterdam,
+soutient que la réserve de la Suisse à l’art. 34 par. 2 CL ne s’applique pas et
+que tout éventuel échec de notification serait couvert par le fait que le recourant n’a
+pas contesté en temps utile le jugement d’Amsterdam. Elle se réfère à un passage
+du Message (FF 2009 p. 1424) selon lequel "la deuxième partie de l’art. 34, ch.
+2, ne sera dès lors pas applicable à l’égard d’un défendeur dans une
+procédure de reconnaissance domicilié en Suisse. A l’inverse, les autres Etats contractants
+peuvent exciper de la même situation juridique à l’égard de la Suisse. De même
+que le défendeur domicilié en Suisse, le défendeur à l’étranger peut également
+se prévaloir de l’objection de l’art. 34, ch. 2, lorsque, après la notification
+– correcte – de la décision, il a omis de contester la citation irrégulière".
+Contrairement à ce qu'en déduit l'intimée, ce passage ne signifie pas que la réserve
+faite par la Suisse, Etat requis, ne bénéficierait qu’aux défendeurs domiciliés
+en Suisse, ce qui introduirait une discrimination dépourvue de justification par rapport aux défendeurs
+ayant par exemple des biens en Suisse sans toutefois y être domiciliés, mais, de manière
+plus générale, concerne tous les défendeurs intimés à une procédure de
+reconnaissance en Suisse. Selon un auteur : "La réserve ayant été déclarée
+par la Suisse, le passage final de l’art. 34 ch. 2 ne s’y applique pas, sans égard au
+domicile du défendeur. En conséquence les autres Etats parties appliquent la même réserve
+à l’égard des décisions rendues en Suisse (art. III par. 1 de ce Protocole)" (Bucher,
+Commentaire romand, Loi sur le droit international privé – Convention de Lugano, n. 44 ad
+art. 34 CL).
+Il convient donc d'examiner si l'acte introductif d'instance a été notifié au recourant
+de manière à permettre la reconnaissance.
+c)
+L’art. 27 par. 2 aCL [Convention de Lugano du 16 septembre 1988 concernant la compétence judiciaire
+et l'exécution des décisions en matière civile et commerciale; jadis RS 0.275.11] subordonnait
+la reconnaissance de la décision étrangère notamment à la régularité de
+la signification de l’acte introductif d’instance au défendeur défaillant. Le juge
+de la reconnaissance devait opérer cette vérification à la lumière du droit de l’Etat
+d’origine, en examinant les modalités formelles de la signification ou de la notification,
+comme par exemple la traduction de l’acte signifié, le mode de notification utilisé,
+l’indication des délais de recours et les modalités de réparation possible du vice
+de signification (Dutoit, Guide pratique de la compétence des tribunaux et de l’exécution
+des jugements en Europe, n. 239 ad art. 26-30 aCL).
+Pour supprimer des comportements abusifs consistant à se prévaloir de défauts accessoires
+au niveau de la notification qui, matériellement, n’entamaient en rien les droits de défense,
+mais créaient un effet de blocage de la reconnaissance et de l’exécution (FF 2009 p.
+1523), le nouvel art. 34 par. 2 CL ne comporte plus l’exigence de la notification régulière
+de l’acte introductif d’instance. Désormais, seules la tardivité de la notification
+et une notification ne permettant pas à la partie de se défendre excluent la reconnaissance,
+des irrégularités de notification n’ayant plus qu’une portée d’indices.
+La reconnaissance est ainsi exclue en cas d'atteinte effective aux droits de défense du défendeur
+défaillant entraînée par une notification défectueuse (Schuler, Basler Kommentar,
+Lugano-Übereinkommen, nn. 28, 38 ss ad art. 34 CL). Selon Bucher (op. cit., n. 35 ad art. 34 CL),
+le contrôle est devenu cumulatif. L’irrégularité de la notification ne suffit pas,
+en tant que telle, pour permettre au défendeur défaillant de s’opposer à la reconnaissance
+de la décision. Il faut, en plus, qu’il ait été lésé, soit empêché
+de se défendre. L’irrégularité est ainsi sans pertinence si le défendeur avait
+la possibilité de comparaître et de mener sa défense devant le juge d’origine en
+y incluant, le cas échéant, le vice survenu lors de la notification. Si cette hypothèse
+est vérifiée, il n’y a plus lieu d’examiner la question de la régularité
+de la notification.
+d)
+Selon
+le certificat établi par le Tribunal d'Amsterdam le 19 juillet 2011, l’acte introductif d’instance
+a été notifié les 15 juin et 23 juin 2011. Le juge de la reconnaissance n'est cependant
+pas lié par ce seul document s'il n'est pas par ailleurs établi que l'acte introductif d'instance
+a atteint son destinataire en temps utile et de telle manière qu'il puisse se défendre.
+Sur ce point, le juge néerlandais a considéré, au regard notamment des pièces produites
+sous numéro 18, qu'il était suffisamment garanti que l’assignation ait effectivement
+bien atteint son destinataire et ce, à temps pour qu’il ait encore la possibilité de
+se défendre, et qu'il pouvait dès lors statuer, vu l'urgence, quand bien même il n'était
+"
+pas encore apparu que les prescriptions
+de l’assignation aient été prises en considération".
+La seule traduction du procès-verbal d'huissier, non produit, même en admettant qu'elle suffit
+pour établir que l'assignation en référé a été envoyée au recourant
+par les voies conformes, n'apporte aucunement la preuve que cet acte a bien atteint son destinataire.
+Le jugement néerlandais retient du reste à cet égard que le conseil de la requérante
+n'a pas encore reçu en retour les pièces relatives à ces démarches d'envoi. De même,
+si l'on peut admettre que les "documents" mentionnés dans le bordereau d'envoi par "TNT"
+au recourant, à Krasnodar, les 8 et 9 juin 2011 consistent en l'assignation litigieuse, la notification
+de cet acte à son destinataire n'est pas établie par les rapports d'acheminement extraits du
+site internet de TNT, dépourvus de signature et mentionnant le nom de personnes, à qui l'envoi
+a été remis, dont on ignore si elles étaient habilitées à recevoir un acte pour
+le recourant, la qualité de "co-actionnaire" étant à cet égard dépourvue
+de toute portée. Quant aux expéditions par courriel ou par fax au recourant, elles ont toutes
+échoué. Certaines d'entre elles n'étaient d'ailleurs pas adressées au recourant lui-même,
+mais à d'anciens conseils. La notification ou la signification de l'acte introductif d'instance
+aux autres assignés, à supposer qu'elle soit établie, ne suffit pas non plus à prouver
+la notification ou la signification de cet acte au recourant, dès lors qu'il s'agit de sociétés
+tierces. Même dans le cas de P.________SA, dont le recourant est l'administrateur, on ne saurait
+considérer que l'assignation a été remise à ce dernier par l'entremise de la société,
+dès lors que celle-ci n'a pas pu être atteinte, si ce n'est, finalement, par l'intermédiaire
+de son organe de révision, dont il n'est pas établi ni même seulement rendu vraisemblable
+qu'il ait pu transmettre l'acte au recourant et ce, en temps utile, et, dans certains cas, par l'intermédiaire
+d'anciens conseils, dont on ignore s'ils étaient encore mandataires de la société.
+En conclusion, il n'est pas établi que le recourant ait eu connaissance de l'assignation en temps
+utile pour se défendre.
+III.
+a)
+Le recours doit ainsi être admis et le
+prononcé modifié en ce sens que le jugement du Tribunal d'Amsterdam du 7 juillet 2011 n'est
+pas reconnu ni déclaré exécutoire.
+b)
+Le
+recourant conclut également à l'annulation du séquestre ordonné séparément
+par le juge de paix.
+L'ordonnance de séquestre est susceptible d'opposition (art. 278 LP – loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1). Lorsque le séquestre est ordonné en
+application de l'art. 271 al. 3 LP, la voie de l'opposition permet de présenter des griefs se rapportant
+à l'exécution du séquestre, alors que l'examen du cas de séquestre, soit l'existence
+d'une décision étrangère exécutoire susceptible d'être reconnue en Suisse, n'est
+possible que dans le cadre du recours de l'art. 327a CPC (Grégory Bovey, La révision de la
+Convention de Lugano et le séquestre, Conférence des préposés aux poursuites et faillites
+de Suisse, Séminaire de formation du 7 septembre 2011 à l'Université de Lausanne-Dorigny,
+p. 13). Le dépôt du recours contre la décision d'exequatur n'a aucun effet sur le séquestre,
+qui est, ex lege, maintenu pendant la procédure de recours (art. 278 al. 4 LP). En revanche,
+l'admission du recours entraîne la révocation du séquestre (G. Bovey, op. cit., p. 14).
+Si le recours est admis et la déclaration d'exequatur annulée, il y a donc lieu d'annuler également
+le séquestre (Bucher, op. cit., n. 20 ad art. 47 CL).
+En l'espèce, le prononcé du premier juge doit donc être modifié également en
+ce sens que le séquestre n° 5'882'085 exécuté par l'Office des poursuites du district
+de La Riviera – Pays-d'Enhaut est révoqué.
+c)
+En
+ce qui concerne les frais et dépens de première instance, le prononcé doit être modifié
+en ce sens que les frais judiciaires, arrêtés à 3'300 fr., y compris 1'800 fr. d'émolument
+pour le séquestre, sont mis à la charge de la requérante, qui doit en outre verser à
+l'intimé la somme de 7'000 fr. de dépens, à titre de défraiement de son mandataire
+professionnel.
+Vu l'admission du recours, les frais judiciaires de deuxième instance, arrêtés à
+2'250 fr., dont le recourant  a fait l'avance, doivent être mis à la charge de l'intimée,
+qui doit par conséquent rembourser son avance au recourant et lui verser en outre des dépens,
+par 4'000 fr., soit au total la somme de 6'250 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé est modifié comme il suit :
+I.-
+Le jugement rendu le 7 juillet 2011 par le Tribunal d'Amsterdam dans la cause inscrite sous numéro
+de rôle n° 492120/KG ZA 11-895 SR/MV opposant M.________ Bank à P.________SA, T.________Ltd.,
+Y.________ et C.________ n'est pas reconnu;
+II.- Ce jugement n'est
+pas déclaré exécutoire;
+III.- Le séquestre
+n° 5'882'085, exécuté le 26 juillet 2011 par l'Office des poursuites du district de La
+Riviera – Pays-d'Enhaut, faisant l'objet d'une ordonnance séparée, est révoqué;
+IV.- Les frais judiciaires,
+arrêtés à 3'300 fr. (trois mille trois cents francs), comprenant 1'800 fr. (mille huit
+cents francs) d'émolument pour le séquestre, sont mis à la charge de la partie requérante
+M.________ Bank;
+V. supprimé;
+VI. La partie requérante
+M.________ Bank doit verser à la partie intimée C.________ la somme de 7'000 fr. de dépens,
+à titre de défraiement de son représentant professionnel;
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'250 fr. (deux mille deux
+cent cinquante francs), sont mis à la charge de l'intimée.
+IV.
+L'intimée M.________ Bank doit verser au recourant C.________ la somme de 6'250 fr. (six mille deux
+cent cinquante francs) à titre de dépens et de restitution d'avance de frais de deuxième
+instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+17 février 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Stefan Graf, avocat (pour C.________),
+‑
+Me Olivier Bloch, avocat (pour M.________ Bank),
+-
+M. le Préposé
+à l'Office des poursuites du district de La Riviera – Pays-d'Enhaut.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 2'243'481 fr.
+15.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de La Riviera – Pays-d'Enhaut.
+La greffière :
