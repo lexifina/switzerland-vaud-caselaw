@@ -1,0 +1,277 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2012___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2012 / 9"
+decided: "2012-02-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3147637"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-002.md", "switzerland/bund/acts/272/art-070.md", "switzerland/bund/acts/272/art-099.md", "switzerland/bund/acts/272/art-104.md", "switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/272/art-224.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2012 / 9
+
+## Regeste
+
+SÛRETÉS, CONSORITÉ | 99 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 22.02.2012 Jug-inc / 2012 / 9
+
+SÛRETÉS, CONSORITÉ | 99 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CB11.018356
+34/2012/PBH
+COUR
+CIVILE
+_________________
+Prononcé
+du juge délégué dans la cause divisant
+L.________
+,
+à Lausanne, d'avec
+Z.________
+,
+à Vaduz (Liechtenstein), et
+D.________
+,
+à Madrid (Espagne).
+___________________________________________________________________
+Du
+22 février 2012
+_______________
+Présidence
+de               M.
+Bosshard
+,
+juge délégué
+Greffier
+:              Mme
+Bourquin
+*****
+Statuant immédiatement à huis clos, le juge délégué considère :
+En fait et en droit :
+Vu le procès ouvert au fond par la demanderesse
+L.________ contre les défenderesses Z.________ et D.________, selon demande du 12 mai 2011, dont
+les conclusions, avec suite de frais et dépens, sont les suivantes :
+"
+PLAISE
+A LA COUR CIVILE
+-              Constater la résiliation
+du contrat de cession des droits d'auteur et d'adaptation du 5 octobre 1995, de son avenant et de ses
+annexes,
+-              Condamner D.________
+et Z.________ à payer chacune à L.________ la somme de USD 150'000.-, plus intérêts
+à 5 % dès le 9 août 2010,
+-              Débouter D.________
+et Z.________ de toutes autres ou contraires conclusions.",
+vu la réponse déposée le 30 septembre 2011 par les défenderesses dont les conclusions,
+avec suite de frais et dépens, sont les suivantes :
+"
+Sur
+demande principale
+I.              Débouter L.________
+de toutes ses conclusions.
+II.              Débouter L.________
+de toutes autres ou contraires conclusions.
+Sur
+demande reconventionnelle
+I.              Dire et constater que
+le contrat de cession de 5 octobre 1995, ses annexes, son avenant du 15 novembre 1995 auquels [sic] Z.________
+et D.________ sont parties avec L.________ sont toujours en vigueur.
+II.              Dire et constater en
+conséquence que Z.________ et D.________ sont les titulaires exclusifs pour le monde entier et pour
+la durée légale du droit d'auteur, soit jusqu'en 2065, de la totalité des droits d'adaptation
+et d'exploitation cinématographiques, télévisuels, et audiovisuels de l'œuvre de
+M. [...] découlant des ouvrages traitant des aventures de [...] pour trois films de long métrage
+de fiction (concept de série) et leurs remake et spin off à partir des œuvres se situant
+[...].
+III.              Réserver pour
+le surplus tous les droits de Z.________ et D.________, par amplification de leur demande reconventionnelle
+ou action distincte, en lien avec le dommage que L.________ leur a causé en entravant successivement
+leurs projets.
+IV.              Débouter L.________
+de toutes autres ou contraires conclusions.
+Si
+mieux n'aime la Cour civile
+I.               Condamner L.________
+à verser à Z.________ et D.________ la somme de USD 200'000,-- avec intérêt à
+5 % à compter du 5 octobre 1995.
+II.              Condamner L.________
+à verser à Z.________ et D.________ tous les frais exposés en lien avec le contrat du
+5 octobre 1995, avec intérêt à 5 % à compter du 26 octobre 1999.
+III.              Réserver à
+Z.________ et D.________ le droit d'amplifier leur demande reconventionnelle à cet égard.
+II.               Débouter L.________
+de toutes autres ou contraires conclusions.",
+vu le délai imparti à la demanderesse pour déposer une réplique, prolongé au
+20 janvier 2012,
+vu la requête en fourniture de sûretés déposée le 12 janvier 2012 par la demanderesse
+au fond et requérante L.________ contre la défenderesse au fond et intimée Z.________,
+dont les conclusions, avec suite de frais et dépens, sont les suivantes :
+"I.
+L'intimée et défenderesse au fond, Z.________, ayant son siège à Vaduz, est tenue
+de fournir des sûretés, sous la forme et dans le délai que justice dira, pour assurer
+le paiement des frais et dépens présumés de la demande reconventionnelle qu'elle a déposée
+contre la requérante et demanderesse au fond, L.________, à la Cour civile du Tribunal cantonal
+le 30 septembre 2011.
+II.              Le montant des sûretés
+mentionnées sous chiffre I ci-dessus est fixé à CHF 30'000.-- (trente mille francs).
+III.              L'instance est suspendue
+et le Juge délégué de la Cour civile fixera un nouveau délai à la requérante,
+demanderesse au fond, pour le dépôt de la réplique.",
+vu
+les déterminations de l'intimée et de D.________ du 10 février 2012 concluant, avec suite
+de frais et dépens, au rejet de la requête en fourniture de sûretés,
+vu
+les pièces au dossier,
+vu
+l'art. 99 CPC (Code de procédure civile du 19 décembre 2008, RS 272);
+attendu
+que le CPC est entré en vigueur le 1
+er
+janvier 2011,
+que
+la présente procédure a été introduite par demande du 12 mai 2011,
+qu'elle
+est par conséquent régie par le CPC (art. 404 al. 1 CPC
+a
+contrario
+);
+attendu
+que les sûretés en garantie du paiement des dépens ne sont jamais ordonnées d'office,
+mais uniquement sur requête (art. 99 CPC; Tappy, Code de procédure civile commenté,
+2011, n. 11 ad art. 99 CPC),
+que
+dite requête doit observer les règles de forme de l'art. 130 CPC (Tappy,
+ibidem
+),
+qu'en revanche, aucune règle ne détermine le moment où la requête doit être
+déposée,
+qu'en l'espèce, la requête en fourniture de sûretés répond aux exigences de
+l'art. 130 CPC,
+qu'elle est donc recevable en la forme;
+attendu
+que l'obligation de fournir des sûretés incombe au demandeur exclusivement (art. 99 al. 1 CPC),
+que
+toutefois, le CPC traite le défendeur comme un demandeur s'agissant de ses prétentions reconventionnelles
+(cf. art. 224 CPC; Tappy, op. cit., n. 7 ad art. 99 CPC; Kuster, Schweizerische Zivilprozessordnung,
+Berne 2010, n. 2 ad art. 99 CPC; Suter/Von Holzen, Kommentar zur Schweizerischen Zivilprozessordnung
+[ZPO], n. 7 ad art. 99 CPC),
+qu'ainsi,
+rien n'empêche de l'astreindre à verser dans ce cas des sûretés si les conditions
+en sont par ailleurs remplies (Tappy,
+ibidem
+),
+qu'en
+vertu de l'art. 99 al. 1 CPC, le demandeur, respectivement le défendeur agissant reconventionnellement,
+doit fournir des sûretés en garantie du paiement des dépens s'il n'a pas de domicile ou
+de siège en Suisse (let. a), s'il paraît insolvable, notamment en raison d'une mise en faillite,
+d'une procédure concordataire en cours ou de la délivrance d'actes de défaut de biens
+(let. b), s'il est débiteur de frais d'une procédure antérieure (let. c) ou si d'autres
+raisons font apparaître un risque considérable que les dépens ne soient pas versés
+(let. d),
+qu'en ce qui concerne l'art. 99 al. 1 let. a CPC, les règles des traités internationaux sont
+réservées (art. 2 CPC; Tappy, op. cit., n. 21 ad art. 99 CPC),
+qu'à teneur de l'art. 99 al. 2 CPC, les consorts nécessaires ne sont tenus de fournir des sûretés
+que si l'une des conditions de l'alinéa 1
+er
+est réalisée pour chacun d'eux,
+qu'ils peuvent être astreints à fournir des sûretés sur la base de motifs au sens
+de l'article 99 al. 1 let. a à d différents,
+que la consorité nécessaire correspond à la notion de l'art. 70 CPC (Tappy, op. cit.,
+n. 41 ad art. 99 CPC; Suter/Von Holzen, op. cit., n. 36 ad art. 99 CPC),
+qu'il y a consorité matérielle nécessaire lorsque plusieurs personnes sont ensemble titulaires
+du droit en cause, de sorte que chaque cotitulaire ne peut pas l'exercer seul en justice (art. 70 CPC;
+Hohl, Procédure civile, t. I, Berne 2001, p. 103),
+que c'est le droit matériel fédéral qui détermine, expressément ou implicitement,
+dans quels cas plusieurs personnes disposent d'un droit en commun (ATF 118 II 168 c. 2b, rés. in
+JT 1993 I 564; Jeandin, Code de procédure civile commenté, 2011, n. 3 ad art. 70 CPC; Hohl,
+op. cit., p. 104; Schaad, La consorité en procédure civile, Neuchâtel 1993, pp. 334 et
+335),
+que la consorité active nécessaire est notamment donnée lorsque un groupe de personnes
+formant en vertu de la loi ou d'un contrat une communauté régie par les règles sur la
+propriété en main commune entendent faire valoir en justice une créance commune (Schaad,
+op. cit., p. 43),
+qu'en particulier, l'action constatatoire exercée activement et portant sur un droit appartenant
+à plusieurs requiert l'action concertée et entraîne consorité nécessaire active
+(ATF 89 II 429; Schaad, op. cit., p. 338);
+attendu qu'en l'espèce, Z.________ et D.________ sont les cessionnaires indivises de la totalité
+des droits issus du contrat de cession de droits d'auteur et d'adaptation du 5 octobre 1995, de ses annexes
+et de son avenant n° 1 du 15 octobre 1995,
+qu'en tant que titulaires en main commune desdits droits, elles ne peuvent les faire valoir que collectivement,
+qu'elles forment ainsi une consorité matérielle nécessaire,
+qu'à ce titre, elles ont déposé ensemble leur réponse concluant reconventionnellement
+notamment à ce que soit constaté que le contrat de cession du 5 octobre 1995 est toujours en
+vigueur et qu'elles sont les titulaires exclusives de la totalité des droits ainsi cédés,
+que l'intimée Z.________ a son siège au Liechtenstein,
+que ce dernier n'est partie ni aux Conventions de la Haye relatives à la procédure civile des
+17 juillet 1905 et 1
+er
+mars 1954 (RS 0.274.11 et 12), ni à la Convention de la Haye du 25 octobre 1980 tendant à faciliter
+l'accès international à la justice (RS 0.274.133),
+que
+les parties domiciliées dans cet Etat ne bénéficient par conséquent pas des dispenses
+prévues dans les conventions qui précèdent (SJ 1985 p. 126 c. 1; ATF 109 II 270 c. 1,
+JT 1984 I 160),
+qu'en
+outre, il n'existe aucun traité bilatéral entre la Suisse et le Liechtenstein traitant de la
+fourniture de sûretés,
+qu'il
+s'ensuit que la condition prévue par l'art. 99 al. 1 let. a CPC est réalisée en ce qui
+concerne l'intimée,
+que D.________ a quant
+à elle son siège en Espagne,
+que l'Espagne est partie
+à la Convention de la Haye du 1
+er
+mars 1954 relative à la procédure civile,
+que l'art. 17 de cette
+convention prévoit qu'aucune caution ni dépôt, sous quelque dénomination que ce soit,
+ne peut être imposé, à raison soit de leur qualité d'étrangers, soit du défaut
+de domicile ou de résidence dans le pays, aux nationaux d'un des Etats contractants, ayant leur
+domicile dans l'un de ces Etats, qui seront demandeurs ou intervenants devant les tribunaux d'un autre
+de ces Etats,
+que cette dernière disposition fait ainsi échec à la réalisation de la condition
+du siège étranger visée par l'art. 99 al. 1 let. a CPC s'agissant de D.________,
+que par ailleurs, il n'est pas établi que l'une des conditions des let. b à d de l'art. 99
+al. 1 CPC soit remplie à l'égard de D.________,
+qu'il convient par conséquent de retenir que l'une des conditions prévues par l'art. 99 al.
+1 CPC n'est pas réalisée pour chacun des consorts nécessaires,
+qu'en vertu de l'art. 99 al. 2 CPC, l'intimée ne peut donc pas être astreinte à fournir
+des sûretés en garantie du paiement des dépens,
+qu'en définitive, la requête en fourniture de sûretés doit être rejetée;
+attendu que les frais et dépens de la présente décision seront fixés dans la décision
+finale, avec les autres frais (art. 104 al. 1 CPC).
+Par
+ces motifs,
+le
+juge délégué,
+statuant
+à huis clos,
+prononce
+:
+I.
+La requête en fourniture de sûretés déposée le 12 janvier 2012 par la requérante
+L.________ contre l'intimée Z.________ est rejetée.
+II.
+La décision sur les frais et dépens est renvoyée à la décision finale.
+Le
+juge délégué :
+Le greffier :
+P.
+- Y. Bosshard              A. Bourquin
+Du
+Le prononcé qui précède, lu et approuvé à huis clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, aux conseils des parties.
+Le présent prononcé peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100 al. 1 LTF).
+.
+Le greffier :
+A. Bourquin
