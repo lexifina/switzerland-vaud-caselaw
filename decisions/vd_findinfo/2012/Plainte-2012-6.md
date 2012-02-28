@@ -1,0 +1,336 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 6"
+decided: "2012-02-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3140703"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-067.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 6
+
+## Regeste
+
+RÉQUISITION DE POURSUITE, CLASSEMENT DE LA PROCÉDURE, POURSUITE POUR DETTES, RETRAIT{VOIE DE DROIT} | 17 LP, 8a LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.02.2012 Plainte / 2012 / 6
+
+RÉQUISITION DE POURSUITE, CLASSEMENT DE LA PROCÉDURE, POURSUITE POUR DETTES, RETRAIT{VOIE DE DROIT} | 17 LP, 8a LP
+
+TRIBUNAL
+CANTONAL
+FA11.035737-112346
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 février 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mmes
+Carlsson et Rouleau
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+8a al. 3 let. c et 17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+C.________
+,
+à Grandvaux, contre la décision rendue le 1
+er
+décembre 2011, à la suite de l’audience du 17 novembre 2011, par le Président du
+Tribunal d’arrondissement de l'Est vaudois, autorité inférieure de surveillance, rejetant
+la plainte déposée par le recourant contre la décision du 7 septembre 2011 de l'
+OFFICE
+DES POURSUITES
+DU
+DISTRICT  DE LAVAUX-ORON
+, confirmant que
+la poursuite n° 900'245'445 exercée par
+U.________
+Ltd
+, à Hong Kong, est maintenue.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+C.________ fait l'objet d'une poursuite n° 900'245'445 de l'Office des poursuites du district de
+Lavaux-Oron (ci-après : l'office) exercée à l'instance de la société U.________
+Ltd. Par prononcé du 2 octobre 2008, le Juge de paix du district de Lavaux a prononcé la mainlevée
+provisoire de l'opposition formée à cette poursuite à concurrence de 104'000 fr., plus
+intérêt à 4,755 % dès le 25 janvier 2008 et de 1'190 fr. 55, 1'251 fr. 40 et 1'236
+fr. 30, sans intérêt. Cette décision a été confirmée par arrêt du
+26 février 2009 de la cour de céans.
+Le 7 juillet 2011, agissant sur requête de la poursuivante, l'office a adressé un avis de saisie
+au poursuivi, l'informant qu'il serait procédé à la saisie le 14 juillet 2011 à 15
+h 30 à son domicile. Le poursuivi a demandé le renvoi de la saisie, déclarant être
+en vacances jusqu'au 15 août 2011.
+2.
+Le 30 août 2011, le conseil du poursuivi a adressé à l'office les copies de deux lettres
+des conseils des parties des 19 juillet et 30 août 2011 "concrétisant un accord et mettant
+un terme définitif à ce dossier", accord selon lequel " U.________ Ltd a déclaré
+retirer la poursuite 900'245'445" à l'encontre de C.________.
+La lettre du 19 juillet 2011 du conseil de la poursuivante à celui du poursuivi a la teneur suivante
+:
+"Je vous
+écris la présente sous les plus expresses réserves d'usage suite à la lettre d'excuses
+que votre client a envoyée au Président du Groupe.
+Mes clientes
+(P.________ Ltd, R.________ Ltd, U.________ Ltd – ci-après "le Groupe") seraient
+disposées à trouver un arrangement amiable global avec Monsieur C.________, sur les bases suivantes
+:
+1. Monsieur
+C.________ retire irrévocablement ses productions dans les faillites de J.________ SA et N.________
+SA.
+2. Par conséquent,
+Monsieur C.________ renonce, irrévocablement, aux cessions des droits de la masse de N.________
+SA et de J.________ SA.
+3. P.________
+Ltd retire, avec l'accord de Monsieur C.________, les procéC.________ devant la Justice de Paix
+(numéro de cause : …) et devant le Tribunal des Prud'hommes (numéro de cause : …),
+dépens compensés.
+4. U.________
+Ltd retire la poC.________ (poursuite n° 900245445).
+5. Monsieur
+C.________ renonce à toutes prétentions de quelle que nature que ce soit envers P.________
+Ltd, U.________ Ltd, R.________ Ltd, J.________ SA en faillite, N.________, et/ou N.________ SA (B.________
+SA) en faillite.
+6. Monsieur
+C.________ convient et garantit que "Z.________" n'a aucune créance contre l'une ou l'autre
+des sociétés du Groupe, en particulier contre J.________ SA en faillite.
+7. Monsieur
+C.________ paie à U.________ Ltd un montant de CHF 60'000.- à titre de solde de tous comptes
+relatifs au prêt dont il a bénéficié (soit, en pratique, il ne rembourse que moins
+que la moitié du solde dû en capital et intérêts).
+8. Monsieur
+C.________ assiste, concrètement et positivement, P.________ Ltd et R.________ Ltd dans l'exercice,
+par ces dernières, de la cession des droits de la masse de J.________ SA envers N.________.
+9. Solde de
+tous comptes et de toutes prétentions réciproques.
+Vous voudrez
+bien m'indiquer si, sur ces bases, Monsieur C.________ est disposé à en terminer de manière
+définitive pour tout ce qui concerne ses prétentions, directes ou indirectes envers l'une ou
+l'autre des sociétés du Groupe, ou envers J.________ SA en faillite, aux conditions sus mentionnées.
+Je vous prie
+de bien vouloir noter qu'il s'agit là de la meilleure offre que mes clientes peuvent faire pour
+en terminer avec ces dossiers. Comme Monsieur C.________ le sait, mes clientes n'ont aucun problème
+pour continuer à mener toutes les procédures jusqu'à leurs termes si nécessaire.
+Il ne s'agit donc pas de revenir avec une contre proposition mais uniquement d'accepter ou de rejeter
+la proposition ici faite sous les plus expresses réserves d'usage."
+Au pied de la lettre, figure la mention manuscrite "Lu et accepté sans réserve. Grandvaux,
+le 29/08/2011", suivie de la signature du poursuivi.
+La lettre du 30 août 2011 du conseil du poursuivi à celui de la poursuivante a la teneur suivante
+:
+"En
+réponse à votre correspondance du 17 août 2011, je vous confirme encore une fois que Monsieur
+C.________
+accepte
+purement et simplement
+les termes de votre proposition
+du 19 juillet 2011 (cf. lettre annexée et dûment contresignée par mon client).
+Les
+réserves d'usages ne se justifient plus vu l'accord complet.
+J'adresse
+copie de notre échange de correspondances stigmatisant cet accord aux instances concernées,
+soit à l'office des poursuites de Vevey, à l'office des faillites de Lausanne et au Tribunal
+des Prud'hommes.
+S'agissant
+du paiement de la somme de CHF 60'000.-, je ne manquerai pas de revenir à vous prochainement."
+Par courrier du 31 août 2011, le Président du Tribunal de Prud'hommes de Lausanne a pris
+acte de "l'accord extrajudiciaire" intervenu dans le cadre du conflit de travail opposant P.________
+Ltd à C.________ et a rayé la cause du rôle.
+3.
+Le 31 août 2011, le conseil de la poursuivante
+a écrit à l'office qu'il n'y avait aucun accord, puisque le conseil du poursuivi lui avait
+indiqué que ce dernier ne paierait pas les 60'000 fr. qui "à l'évidence, sont la
+contrepartie aux retraits des procédures et des poursuites". Il demandait que l'office confirme
+que la poursuite n° 900'245'445 continuait sa voie.
+Par lettre adressée à l'office le 5 septembre 2011, le conseil du poursuivi a requis à
+nouveau que la cause soit rayée du rôle, précisant que le retrait de la poursuite n'avait
+pas été subordonné au paiement immédiat des 60'000 francs.
+Dans un courrier daté du même jour, le conseil de la poursuivante a indiqué une nouvelle
+fois à l'office qu'aucun accord n'était intervenu, précisant en outre : '"En tant
+que de besoin, par précaution et si nécessaire,
+j'invalide
+le soit disant accord".
+Le 7 septembre 2011, l'office a écrit au conseil de la poursuivante, avec copie au conseil du poursuivi,
+que la poursuite en question restait ouverte au stade la saisie, sauf contrordre écrit de la poursuivante
+ou de son conseil. Il a confirmé sa décision au conseil du poursuivi par courrier du 9 septembre
+2011.
+Par lettre du 12 septembre 2011, le conseil du poursuivi a réitéré sa demande de radiation
+de la poursuite et requis subsidiairement la suspension de cette dernière jusqu'à décision
+définitive du Tribunal des prud'hommes sur la question de la validité de l'accord litigieux,
+déclarant, à défaut, former une plainte 17 LP à l'encontre de la décision de
+l'office de maintenir la poursuite.
+4.
+Par acte du 20 septembre 2011, C.________ a formellement
+déposé une plainte auprès du Président du Tribunal d'arrondissement de l'Est vaudois,
+concluant, avec suite de frais et dépens, à l'annulation de la poursuite n° 900'245'445.
+L'effet suspensif requis dans la plainte a été accordé par décision du 27 septembre
+2011.
+Dans ses déterminations du 1
+er
+novembre 2011, l'office a conclu au rejet de la plainte.
+Le 22 novembre 2011, soit après l'audience de plainte qui s'est tenue le 17 novembre 2011, le plaignant
+a produit une quittance de l'office attestant de son versement, le même jour, de la somme 60'000
+fr. "à valoir sur la poursuite n° 900'245'445 cf. au courrier du 19.07.2011 de Maître
+Hornung".
+Par décision du 1
+er
+décembre 2011, le Président du Tribunal d'arrondissement de l'Est vaudois a rejeté la
+plainte. Il a considéré en substance qu'en l'absence de retrait par le créancier - seul
+habilité à retirer une poursuite qu'il avait introduite sous réserve d'une décision
+de justice - la déclaration de retrait qui n'était pas adressée directement aux autorités
+de poursuite ne devait être prise en considération que dans la mesure où sa transmission
+avait été expressément ou tacitement autorisée par le poursuivant. Le premier juge
+a retenu qu'en l'espèce l'office n'avait pas à tenir compte de la lettre du 19 juillet 2011
+produite par le poursuivi dès lors que la poursuivante niait l'existence d'un accord et s'était
+opposée à la production de cette pièce qui était frappée de la réserve
+d'usage. Enfin, il a considéré qu'il n'appartenait pas à l'autorité de surveillance
+d'examiner l'existence d'un accord entre les parties, sous réserve d'un abus de droit manifeste
+non réalisé en l'espèce, le plaignant devant agir par la voie des art. 85 et 85a LP.
+C.________ a recouru par acte du 9 décembre 2011 contre cette décision, qui lui a été
+notifiée le 2 décembre 2011, concluant, avec suite de frais et dépens, à son annulation
+et à l'annulation de la poursuite 900'245'445. Il a produit notamment les pièces suivantes
+:
+-
+un courrier que lui a adressé le 23 novembre 2011 l'Office des faillites de l'arrondissement de
+Lausanne indiquant que les productions du recourant dans les faillites de J.________ SA et N.________
+SA B.________ SA avaient été retirées purement et simplement, par courrier du 17 octobre
+de son conseil et qu'il n'était plus possible de les réinscrire aux états de collocations;
+-
+un courrier du 28 novembre 2011 du conseil de l'intimée déclarant qu'il n'y avait pas eu d'accord
+à la suite de la proposition faite, sous les réserves d'usage, le 19 juillet et que par conséquent,
+le montant de 60'000 fr. versé par le recourant constituait un acompte sur la poursuite en cours.
+L'office s'est déterminé le 9 janvier 2012 préavisant en faveur du rejet du recours.
+Dans ses déterminations du 13 janvier 2012, U.________ Ltd a également conclu au rejet du recours.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les pièces nouvelles produites par les parties en deuxième instance sont également recevables
+(art. 28 al. 4 LVLP).
+II.
+a)
+Le
+recourant fait valoir que la proposition transactionnelle formulée par le conseil de l'intimée
+a été acceptée, que les clauses de cet accord ont toutes été exécutées,
+y compris le paiement de 60'000 fr., nonobstant le fait que l'accord ne prévoyait pas de délai
+de paiement et que, dès lors, en refusant de retirer la poursuite et en soutenant que l'accord n'est
+pas valable, l'intimée fait preuve de mauvaise foi et commet un abus de droit.
+b)
+L'art.
+8a al. 3 let. c LP prévoit expressément la possibilité pour le créancier de retirer
+la poursuite. Ce retrait implique le retrait de la réquisition de poursuite. C'est un acte de procédure
+produisant, sauf contestation, ses effets sans intervention de l'office (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, Remarques introductives ad
+art. 67-68 LP, n. 5 et n. 123 ad art. 67 LP ainsi que la jurisprudence citée). En principe, seul
+le poursuivant est habilité à retirer la poursuite, puisqu'il est maître de celle-ci.
+Le retrait de la poursuite suppose une déclaration en ce sens adressée à l'office par
+le créancier lui-même.
+L'autorité fédérale de surveillance a considéré que la déclaration de retrait
+contenue dans une convention entre le créancier et le débiteur ne faisait que créer pour
+le créancier l'obligation de retirer la poursuite; cette obligation devait encore être exécutée
+par le créancier lui-même. L'office des poursuites n'avait pas à prendre en considération
+un retrait conventionnel, quand bien même sa validité était hors de doute, parce que l'exécution
+des engagements de faire et de ne pas faire relevait de la compétence du juge, notamment du juge
+désigné par le droit cantonal en application des art. 85 et 85a LP. Elle a toutefois admis
+qu'il était possible que le créancier chargeât le débiteur de faire une telle déclaration
+en son nom, mais qu'il fallait dans ce cas que le mandat fût donné expressément et par
+écrit, soit sur la convention elle-même, soit sur toute autre pièces. En l'absence d'une
+procuration, on ne pouvait demander aux autorités de poursuite de se prononcer sur un mandat oral,
+voire tacite (ATF 59 III 136, JT 1933 II 120, cité par Gilliéron).
+Dans un autre arrêt, le Tribunal fédéral a retenu que la déclaration de retrait adressée
+par le créancier au débiteur, qui est pure, simple et inconditionnelle, est censée être
+faite à l'intention de l'office et doit être prise en considération par ce dernier, même
+si elle ne lui a pas été adressée directement par le créancier (ATF 69 III 4, JT
+1944 II 4, cité par Gilliéron).
+Enfin, dans un arrêt ultérieur (ATF 83 III 7, JT 1957 II 35, également cité par Gilliéron),
+le Tribunal fédéral a rappelé que le créancier était maître de la poursuite,
+son droit de retirer la poursuite s'exerçant formellement par une déclaration faite à
+l'office et non pas déjà par un accord avec le débiteur, de sorte que si le créancier
+révoquait le retrait par une déclaration parvenue à l'office avant la déclaration
+de retrait, celle-ci ne produisait aucun effet et l'office n'avait pas à rechercher si le retrait
+était fondé au regard de la convention des parties.
+Il découle des arrêts précités que le retrait de la poursuite ne résulte pas
+déjà de la convention entre les parties. Pour produire des effets, il faut que la déclaration
+de retrait soit adressée à l'office, soit par le créancier personnellement, soit par le
+débiteur ou un tiers au bénéfice d'une procuration expresse. Toutefois, si le retrait
+résulte d'une déclaration sans réserve ni condition faite par le créancier au poursuivant,
+elle est censée être faite à l'intention de l'office qui doit la prendre en considération,
+même si elle ne lui est pas remise directement par le créancier.
+c)
+En
+l'espèce, la clause de retrait dont se prévaut le recourant est incluse dans une convention
+qui règle plusieurs objets entre plusieurs parties. Sans subordonner expressément le retrait
+de la poursuite à l'exécution d'autres engagements, la convention contient plusieurs clauses
+dont l'exécution incombait au recourant. Dès lors, on ne saurait y voir une déclaration
+sans condition ni réserve du créancier de retirer la poursuite. Par ailleurs, la convention
+ne contient aucune clause autorisant expressément le poursuivi ou son conseil à communiquer
+le retrait de la poursuite à l'office et le recourant n'a produit aucune autre pièce valant
+procuration.
+Ainsi, quand bien même un accord serait intervenu entre les parties sur la base de l'offre du 19
+juillet 2011, celui-ci ne contiendrait qu'une obligation de retirer la poursuite par l'intimée et
+non pas une déclaration de retrait adressée valablement à l'office. Dans ces conditions,
+l'office ne pouvait radier la poursuite sur la base de la pièce produite, faute d'un accord du créancier.
+III.
+Le recours doit en conséquence être
+rejeté et le prononcé entrepris maintenu.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, Ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est maintenu.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+28 février 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. C.________,
+‑
+Me Douglas Hornung (pour U.________ Ltd),
+‑
+Mme la Préposée à l'Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
