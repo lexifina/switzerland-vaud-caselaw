@@ -1,0 +1,238 @@
+---
+decision_id: "vd_findinfo_Plainte___2011___34"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2011 / 34"
+decided: "2012-02-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3132764"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-121.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-027.md"]
+---
+
+# VD Findinfo Plainte / 2011 / 34
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 119 CPC (CH), 121 CPC (CH), 39 al. 1 CDPJ, 39 al. 2 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.02.2012 Plainte / 2011 / 34
+
+ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 119 CPC (CH), 121 CPC (CH), 39 al. 1 CDPJ, 39 al. 2 CDPJ
+
+TRIBUNAL
+CANTONAL
+AJ11.034375-111807
+9
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 février 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Muller
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+29 al. 3 Cst; 119 et 121 CPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+W.________
+,
+à Penthaz, contre la décision rendue le 15 septembre 2011 par le Président du Tribunal
+d’arrondissement de La Broye et du Nord vaudois, autorité inférieure de surveillance,
+refusant de lui accorder le bénéfice de l'assistance judiciaire dans la cause en plainte 17
+LP qui l'oppose à l'
+OFFICE
+DES POURSUITES DU DISTRICT DU GROS-DE-VAUD
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par décision du 15 septembre 2011, le Président du Tribunal d'arrondissement de La Broye et
+du Nord vaudois, statuant en sa qualité d'autorité inférieure de surveillance, a refusé
+à W.________ le bénéfice de l'assistance judiciaire dans la cause en plainte au sens de
+l'art. 17 LP (loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1) qui l'oppose
+à l'Office des poursuites du district du Gros-de-Vaud.
+En droit, le premier juge a considéré que, la procédure de plainte étant gratuite,
+le requérant n'aurait aucune avance de frais à effectuer, de sorte que seule l'assistance d'un
+avocat commis d'office pouvait éventuellement entrer en ligne de compte, que, toutefois, la procédure
+de plainte étant régie par la maxime d'office, une telle assistance n'était en général
+pas nécessaire, sauf en cas d'affaire particulièrement complexe, et qu'en l'espèce, la
+cause, relativement simple et sans difficulté particulière, ne requérait pas l'assistance
+d'un mandataire professionnel.
+2.
+Par acte motivé du 26 septembre 2011, W.________
+a recouru contre cette décision, concluant, avec suite de frais et dépens, à titre préalable,
+à l'octroi du bénéfice de l'assistance judiciaire pour le présent recours (I), à
+titre principal, à l'admission du recours (II), à la réforme de la décision attaquée
+en ce sens qu'un avocat d'office lui est désigné (III), en la personne de Me Tony Donnet-Monay,
+avocat à Lausanne (IV), à titre subsidiaire, à l'annulation de la décision attaquée
+et au renvoi du dossier à l'autorité inférieure pour nouvelle décision dans le sens
+des considérants (V).
+3.
+Des pièces au dossier il ressort que, le 8 septembre 2011, W.________, sous la plume de Me Donnet-Monay,
+a saisi le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité
+inférieure de surveillance, d'une plainte au sens de l'art. 17 LP contre la notification du commandement
+de payer effectuée le 8 août 2011 par l'Office des poursuites du district du Gros-de-Vaud,
+dans la poursuite n° 5'877'164 exercée contre lui, contestant l'identité du créancier
+désigné dans le commandement de payer et la validité des pouvoirs de son représentant.
+Le même jour et sous la plume du même conseil, il a déposé une requête d'assistance
+judiciaire dans la procédure de plainte.
+Selon les fiches de salaire des mois de juin et juillet 2011 produites à l'appui de cette requête,
+W.________ gagne 5'115 fr. 05 net par mois. Son épouse a perçu en 2010 une rente annuelle AVS/AI
+de 13'680 francs. Les époux ont été imposés pour l'année 2009, après, notamment,
+la déduction sociale pour le logement et la déduction pour contribuable modeste, sur un revenu
+de 61'500 fr. et une fortune de zéro franc. Ils ont une fille à charge, née en 1992, qui
+est apprentie. Le loyer mensuel, charges comprises, de leur appartement de quatre pièces s'élève
+à 1'224 fr., la prime mensuelle d'assurance-maladie de l'époux à 397 fr. 95, celle de
+l'épouse à 421 fr. 75 et la prime trimestrielle d'assurance sur la vie de l'épouse à
+231 francs 50.
+En droit
+:
+I.
+a)
+En procédure civile suisse, la requête
+d'assistance judiciaire peut être présentée avant ou pendant la litispendance (art. 119
+al. 1 CPC [Code de procédure civile du 19 décembre 2008; RS 272]). Lorsque la procédure
+est pendante, le juge saisi statue sur l'octroi ou le retrait de l'assistance judiciaire (art. 39 al.
+1 CDPJ [Code de droit privé judiciaire vaudois du 12 janvier 2010; RSV 211.02]). Avant la litispendance,
+cette compétence appartient au juge qui serait compétent au fond (art. 39 al. 2 CDPJ).
+Les décisions qui ne relèvent pas du juge – décisions des organes d'exécution,
+en particulier les offices des poursuites et faillites, et des autorités de surveillance, notamment
+sur plainte au sens de la LP – ne relèvent pas du CPC mais d'une procédure administrative
+spéciale (Haldy, CPC commenté, n. 18 ad art. 1 CPC). La LVLP [loi d'application dans le Canton
+de Vaud de la loi fédérale sur la  poursuite pour dettes et la faillite; RSV 280.05],
+qui comprend un certain nombre de dispositions de procédure en matière de plainte (art. 17
+ss LVLP), ne contient pas de règle sur l'assistance judiciaire. Enfin, l'art. 18 LPA-VD [loi sur
+la procédure administrative; RSV 173.36] prévoit que les autorités administratives sont
+compétentes pour octroyer l'assistance judiciaire pour les procédures qu'elles mènent
+(al. 3), que le Tribunal cantonal est compétent pour les procédures ouvertes devant lui (al.
+4) et que, pour le surplus, les dispositions régissant l'assistance judiciaires en matière
+civile sont applicables par analogie (al. 5).
+En l'espèce, le recourant a saisi le même jour le Président du tribunal d'arrondissement
+de La Broye et du Nord vaudois, en sa qualité d'autorité inférieure de surveillance, d'une
+plainte au sens l'art. 17 LP et d'une requête d'assistance judiciaire.
+b)
+D'après le CPC, le juge statue sur la requête d'assistance judiciaire en procédure sommaire
+(art. 119 al. 3 CPC). L'art. 319 let. b ch. 1 CPC ouvre la voie du recours contre les décisions
+et ordonnances d'instruction de première instance pour lesquelles un recours est expressément
+prévu par la loi. Tel est le cas d'une décision refusant l'assistance judiciaire (art. 121
+CPC). Le recours, écrit et motivé, doit s'exercer dans un délai de dix jours auprès
+de l'instance de recours (art. 321 CPC).
+En l'espèce, déposé en temps utile et dans les formes requises auprès de la cour
+de céans, autorité cantonale supérieure de surveillance, qui est compétente pour
+l'examiner (art. 14 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05] et 39 al. 2 CDPJ), le
+recours est recevable.
+II.
+a)
+Quant au principe de son octroi ou de son refus,
+l'assistance judiciaire en procédure de plainte LP n'est pas soumise à l'art. 117 CPC –
+ce code régissant cependant par analogie les questions de procédure en matière d'assistance
+judiciaire –,  mais à l'art. 29 al. 3 Cst. (Constitution fédérale de la
+Confédération suisse du 18 avril 1999; RS 101). En vertu de cette disposition, toute personne
+qui ne dispose pas de ressources suffisantes a droit, à moins que sa cause paraisse dépourvue
+de toute chance de succès, à l'assistance judiciaire gratuite. Elle a en outre droit à
+l'assistance gratuite d'un défenseur, dans la mesure où la sauvegarde de ses droits le requiert.
+La procédure de plainte étant gratuite (art. 20a al. 2 ch. 5 LP), seule la question de l'assistance
+d'un avocat doit être examinée en l'espèce.
+Le droit à l'assistance judiciaire n'est pas exclu par principe dans la procédure de plainte
+des art. 17 ss LP, mais, dans la mesure où cette procédure est régie par la maxime d'office,
+l'assistance d'un avocat n'est en général pas nécessaire; toutefois, une telle assistance
+peut se révéler indispensable en raison de la complexité de l'affaire ou des questions
+à résoudre, des connaissances juridiques insuffisantes du requérant ou de l'importance
+des intérêts en jeu (ATF 122 III 392, JT 1998 II 185 et réf. cit.; TF 5A_236/2010
+du 21 juillet 2010 c. 6.1).
+L'assistance judiciaire est en principe accordée sans effet rétroactif, soit dès le moment
+de la requête et pour l'avenir. Sont également inclus les frais d'avocat liés au dépôt
+simultané d'une pièce de procédure (ATF 122 I 203 c. 2c, JT 1997 I 604) ou les frais déjà
+occasionnés au moment de la requête, pour autant qu'ils résultent de prestations d'avocat
+fournies en vue du stade de la procédure pour lequel la requête d'assistance judiciaire est
+déposée (ibid., c. 2f).
+b)
+En l'espèce, la procédure de plainte dans laquelle l'assistance judiciaire est requise tend
+à l'annulation d'un commandement de payer, pour le double motif que le poursuivant ne serait pas
+cessionnaire de la créance réclamée et
+que
+son représentant ne serait pas valablement autorisé à agir au regard des art. 27 LP et
+44a et 44b LVLP.
+Si l'on peut admettre que l'autorité inférieure de surveillance pourra, en vertu du principe
+"jura novit curia", examiner ces questions sur la base des pièces au dossier, sans que
+l'intervention d'un avocat soit nécessaire, on ne peut en revanche pas considérer que le recourant,
+justiciable sans connaissances juridiques particulières, était en mesure de déceler seul
+le problème de représentation, notamment, qui a motivé la plainte.
+Il s'ensuit que la sauvegarde des droits du recourant requérait l'intervention d'un conseil professionnel
+et qu'il se justifie de lui accorder l'assistance judiciaire, soit l'assistance gratuite d'un défenseur,
+dès la date de sa requête, les frais d'avocat liés au dépôt simultané de
+la plainte au sens de l'art. 17 LP étant ainsi couverts (ATF 122 I 203 c. 2c et 2f, JT 1997 I 604
+précité).
+Il se justifie également de faire droit à la conclusion préalable prise par le recourant
+et de lui accorder l'assistance judiciaire pour le présent recours.
+III.
+Le recours doit ainsi être admis et l'assistance
+judiciaire accordée au recourant, savoir l'assistance d'office de Me Tony Donnet-Monay, avocat,
+qui procède déjà en son nom, avec effet dès le 8 septembre 2011, ainsi que pour le
+présent recours.
+Le recourant est, dans la mesure de l’art. 123 CPC, tenu au remboursement de l'assistance judiciaire
+.
+Le présent arrêt est rendu sans frais (art. 119 al. 6 CPC) ni dépens, le président
+du tribunal d'arrondissement n'ayant pas qualité de partie, mais d'autorité de première
+instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+La décision est réformée en ce
+sens que le bénéfice de l'assistance judiciaire est accordé à W.________ dans la
+cause en plainte au sens de l'art. 17 LP qui l'oppose à l'Office des poursuites du district du Gros-de-Vaud,
+avec effet au 8 septembre 2011, dans la mesure suivante :
+- assistance d'office
+d'un avocat en la personne de Me Tony Donnet-Monay, avocat à Lausanne;
+Le bénéfice
+de l'assistance judiciaire est également accordé à W.________, dans la même mesure,
+pour le présent recours.
+W.________ est, dans la
+mesure de l’art. 123 CPC, tenu au remboursement de l'assistance judiciaire.
+III.
+L’arrêt, rendu sans frais ni dépens,
+est exécutoire.
+Le
+président :              La greffière
+:
+Du
+28 février 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Tony Donnet-Monay, avocat (pour W.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
