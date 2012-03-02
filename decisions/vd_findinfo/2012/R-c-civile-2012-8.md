@@ -1,0 +1,240 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2012___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2012 / 8"
+decided: "2012-03-02"
+published: "2012-03-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3160048"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-235.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2012 / 8
+
+## Regeste
+
+RÉCUSATION | 319 CPC (CH), 47 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 02.03.2012 Réc-civile / 2012 / 8
+Vaud Tribunal cantonal Cour administrative 02.03.2012 Réc-civile / 2012 / 8
+Vaud Tribunal cantonal Cour administrative 02.03.2012 Réc-civile / 2012 / 8
+
+RÉCUSATION | 319 CPC (CH), 47 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+JI11.021680
+08/2012
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 2 mars 2012
+__________________
+Présidence
+de               Mme
+Epard
+,
+président
+Juges
+:              MM.
+Meylan et Michellod
+Greffière
+:              Mme
+de Watteville
+*****
+Art.
+47, 319 CPC, 8a al. 7 CDPJ
+Vu le litige qui oppose
+A.X.________
+et
+B.X.________
+à la Communauté des copropriétaires par étages "
+Q.________
+",
+vu la décision du 2 février 2012 par laquelle le Tribunal civil de l'arrondissement de l'Est
+vaudois a rejeté la demande de récusation du Président Nicolas Monod présentée
+par A.X.________ et B.X.________,
+vu le recours déposé le 13 février 2012 par A.X.________ et B.X.________ contre cette
+décision,
+vu les pièces au dossier;
+attendu que le 26 novembre 2010, A.X.________ et B.X.________ ont déposé une requête à
+l'encontre de la Communauté des copropriétaires par étages " Q.________" concluant
+à ce que W.________, p. a. L.________, soit révoquée de sa fonction d'administratrice
+de la copropriété par étages " Q.________" et à ce qu'un nouvel administrateur
+soit nommé,
+que dans le cadre de cette procédure, l'audition de différents témoins a été
+sollicitée dont celle de N.________, propriétaire d'un des immeubles de " Q.________",
+que, par courrier daté du 1
+er
+décembre 2011, A.X.________ et B.X.________, par l'intermédiaire de leur conseil, ont demandé
+la récusation du président Nicolas Monod en charge de l'affaire, du fait qu'il entretiendrait
+"des liens d'amitié étroits avec l'une des parties impliquées dans cette affaire,
+soit Madame N.________",
+que par courrier du 5 décembre 2011, le Président Nicolas Monod a expliqué n'avoir pas
+"le moindre lien d'amitié avec Me N.________",
+qu'à l'audience du 10 janvier 2012, B.X.________ a indiqué, sur demande du juge, maintenir
+sa demande de récusation,
+que le président a dès lors suspendu l'audience afin de permettre à l'autorité compétente
+de statuer sur la demande de récusation,
+que, dans ses déterminations du 11 janvier 2012 adressées au Tribunal civil de l'arrondissement
+de l'Est vaudois, chargé de statuer sur la demande de récusation, le Président Nicolas
+Monod a confirmé n'entretenir aucun lien particulier, notamment d'amitié, avec N.________ qu'il
+connaît à peine,
+qu'il a en outre précisé ce qui suit:
+"Je me suis borné à indiquer aux parties lors d'une précédente audience que
+Mme N.________ avait été vice-présidente du Tribunal des prud'hommes de l'arrondissement
+de l'Est vaudois voilà bientôt dix ans et qu'elle est désormais une collègue puisqu'elle
+siège au Tribunal des mesures de contrainte depuis début 2011",
+que dans sa décision du 2 février 2012, le Tribunal civil a considéré en substance
+que les liens d'amitié invoqués par A.X.________ et B.X.________ ainsi que toute autre circonstance
+propre à fonder une suspicion légitime n'étaient pas rendus vraisemblables,
+que A.X.________ et B.X.________ contestent cette décision,
+qu'ils soutiennent que l'attitude et les déclarations du président Nicolas Monod lors de l'audience
+préliminaire du 23 août 2011 et lors de l'audience du 10 janvier 2012 ainsi que les omissions
+et les inexactitudes contenues dans les procès-verbaux ont semé le doute faisant ainsi porter
+sur lui une certaine suspicion de son impartialité,
+qu'à cet égard, ils reprochent au président Nicolas Monod de les avoir informé, lors
+de l'audience du 23 août 2011, qu'il connaîtrait N.________ au travers de contacts professionnels
+et non professionnels sans tirer de conclusions de cette information et sans le protocoler au procès-verbal,
+qu'ils estiment également que le fait que le président Nicolas Monod n'ait pas répondu
+lors de l'audience du 10 janvier 2012 à la question de B.X.________ lui demandant pourquoi il les
+avait informés que N.________ était une collègue et n'ait pas protocolé cette "discussion
+préliminaire" au procès-verbal, constituerait un signe de prévention de la part de
+ce magistrat,
+qu'ils concluent à ce que la récusation du président Nicolas Monod soit prononcée
+et à ce qu'un autre Président soit nommé;
+attendu que l'art. 50 al. 2 CPC (Code de procédure civile suisse du 19 décembre 2008;
+RS 272) prévoit que la décision sur récusation peut faire l'objet d'un recours au sens
+des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 du Code
+de droit privé judiciaire vaudois du 12 janvier 2010 [RSV 211.02] et 6 al. 1 let. a du Règlement
+organique du Tribunal cantonal du 13 novembre 2007 [RSV 173.31.1]),
+que la procédure de récusation, devant conduire rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC; Tappy, in Bohnet/Haldy/Jeandin/Schweizer/Tappy,
+Code de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC, pp. 124 et
+125),
+qu'ainsi le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+que le recours, déposé en temps utile par une partie qui a qualité pour recourir, est
+recevable;
+attendu qu'à la lecture du recours, il n'est pas clair si les recourants reprochent au président
+Nicolas Monod le déroulement des audiences et le fait que certains éléments ne figurent
+pas aux procès-verbaux ou s'ils remettent en doute l'impartialité du magistrat en raison des
+liens qu'il entretiendrait avec N.________,
+que dans le doute, il convient d'examiner les deux griefs,
+qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999 [RS 101]) et 6 § 1 CEDH (Convention
+du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales [RS 0.101]),
+s'oppose à ce que des circonstances extérieures au procès puissent influencer le jugement
+d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 1B_35/2010
+du 18 mars 2010 c. 2.1; ATF 131 I 24 c. 1.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (ATF 131 I 24 c. 1.1; ATF 124 I 121 c.
+3a, JT 1999 I 159; ATF 115 IA 172 c. 3),
+que les impressions purement individuelles d'une des parties au procès ne sont en revanche pas décisives
+(TF 5D_61/2008 du 20 août 2008 c. 5.3; ATF 131 I 24 c. 1.1),
+que l'apparence de partialité peut être crée par les circonstances et les éléments
+les plus variés,
+que le Tribunal fédéral a estimé qu'un lien particulier entre un juge et un témoin
+peut fonder un soupçon de partialité lorsque le juge est marié au témoin ou lorsqu'un
+juge suppléant entend son supérieur (TF 1P.507/2005 du 21 septembre 2005, c. 2.3, rés.
+in Revue Suisse de Procédure Civile 2006, p. 5),
+que le lien qu'un magistrat peut entretenir avec un témoin porte toutefois moins atteinte à
+son impartialité que la relation qu'il entretiendrait avec une partie, un témoin n'ayant pas
+d'intérêt à l'issue de la procédure (TF 1P.507/2005 du 21 septembre 2005, c. 2.3),
+que le Tribunal fédéral a également considéré que le fait qu'un juge interroge
+comme témoin un huissier travaillant dans le même tribunal n'était pas suffisant pour
+fonder un soupçon de prévention de la part du magistrat (TF 1P.507/2005, précité),
+que selon une jurisprudence de la Cour suprême, il n'y a pas de prévention de la part du juge
+de première instance qui doit statuer dans une affaire où le conseil de la partie adverse à
+la qualité de vice-président de la Cour de cassation (ATF 133 I 1 c. 5.3),
+qu'en l'espèce, les recourants reprochent à l'intimé d'avoir des liens d'amitié étroits
+avec la témoin N.________,
+que l'intimé a contesté entretenir quelque lien d'amitié à son égard,
+qu'il a même précisé ne la connaître qu'à peine,
+que la fonction de N.________ comme vice-présidente du Tribunal des prud'hommes de l'arrondissement
+de l'Est vaudois ne l'a pas conduite à entretenir des liens particuliers avec l'intimé, le
+Tribunal des prud'hommes étant une juridiction indépendante et siégeant en fin de journée,
+que cette fonction est souvent exercée à titre accessoire par des avocats,
+que, quand bien même, l'intimé ait pu avoir des contacts avec la témoin à l'époque,
+ces faits remontent à près de dix ans en arrière,
+qu'en sa qualité de présidente du Tribunal des mesures de contrainte, N.________ et l'intimé
+ne sont pas amenés à travailler régulièrement ensemble,
+qu'en effet, le siège de ce tribunal est à Renens,
+qu'en conséquence, les relations professionnels que la témoin et l'intimé peuvent entretenir
+ne sont pas propre à fonder un soupçon de prévention de la part de ce dernier,
+qu'au demeurant, les recourants n'ont pas rendu vraisemblable l'existence des liens d'amitié qu'ils
+allèguent,
+qu'en outre, les recourants voient dans le fait que le président Nicolas Monod n'ait pas protocolé
+au procès-verbal de l'audience du 23 août 2011 son affirmation concernant N.________, ni la
+"discussion préliminaire" lors de l'audience du 10 janvier 2012 un signe de prévention
+de sa part,
+qu'une telle manière de procéder ne paraît pas constitutif d'une prévention de la
+part du magistrat,
+que bien au contraire, l'intimé a mentionné le fait que la témoin ne lui était pas
+inconnue dans un but de transparence à l'égard des parties,
+que les recourants n'ayant pas demandé sa récusation lors de la première audience, il
+n'était pas tenu de protocoler le fait qu'il avait informé les parties que la témoin travaillait
+pour l'ordre judiciaire vaudois, tout comme lui (art. 235 al. 1 CPC),
+qu'au vu de ce qui précède, les griefs, invoqués par les recourants, ne démontrant
+pas un soupçon de prévention du président Nicolas Monod, sont tous infondés;
+attendu, en définitive, que le recours manifestement mal fondé doit être rejeté et
+la décision du 2 février 2012 du Tribunal civil de l'arrondissement de l'Est vaudois confirmée,
+que les frais judiciaires de deuxième instance sont arrêtés à 500 fr. (art. 72
+al. 1 du tarif des frais judiciaires en matière civile du 28 septembre 2010; RSV 270.11.5) à
+la charge des recourants qui succombent, à parts égales et solidairement entre eux (art. 106
+al. 1  et 3 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours interjeté par A.X.________ et B.X.________ le 13 février 2012 est rejeté.
+II.
+La décision rendue le 2 février 2012 par le Tribunal civil de l'arrondissement de l'Est vaudois
+est confirmée.
+III.
+Les frais judiciaires de deuxième instance sont arrêtés à 500 fr. (cinq cent francs)
+à la charge de A.X.________ et B.X.________, à parts égales et solidairement entre eux.
+IV.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. Denis Sulliger, avocat, pour la Communauté des copropriétaires par étages " Q.________",
+à Montreux,
+‑
+Mme A.X.________ et M. B.X.________, à Montreux,
+-
+M. Nicolas Monod, premier président du Tribunal d'arrondissement de l'arrondissement de l'Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Président du Tribunal civil de l'arrondissement de l'Est vaudois.
+La greffière :
