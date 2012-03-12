@@ -1,0 +1,875 @@
+---
+decision_id: "vd_gerichte_07071a2a-9ad8-4e69-8360-a38788da0019"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CACI"
+docket: "119"
+decided: "2012-03-12"
+published: "2012-06-15"
+language: "fr"
+legal_area: "Réclamation pécuniaire"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/07071a2a-9ad8-4e69-8360-a38788da0019"
+cites_decisions: ["1B_221/2010", "6B_239/2007", "6B_434/2008", "6B_595/2007", "6B_695/2007", "BGE 119 II 339", "BGE 119 IV 107", "BGE 124 I 139", "BGE 128 I 149", "BGE 130 I 312", "BGE 130 IV 53", "BGE 131 III 12", "BGE 133 III 462", "BGE 137 III 424", "BGE 80 II 152", "BGE 96 II 181"]
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-042.md", "switzerland/bund/acts/220/art-049.md", "switzerland/bund/acts/220/art-073.md", "switzerland/bund/acts/220/art-135.md", "switzerland/bund/acts/272/art-003.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-313.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# Réclamation pécuniaire
+
+## Text
+
+TRIBUNAL CANTONAL
+CO01.001764-111817 ;
+CO01.001764-120060
+119
+CO UR D’APPEL CIVI L E
+_____________________________
+Arrêt du 12 mars 2012
+__________________
+Présidence de M. COLOMBINI, président
+Juges : M. Abrecht et Mme Charif Feller
+Greffier : M. Elsig
+*****
+Art. 29 al. 1 Cst.; 42, 135 ch. 2 CO; 163a CPP-VD
+Statuant à huis clos sur l'appel interjeté par G.________, à
+Langenthal, demandeur, et l'appel joint interjeté par ETAT DE VAUD, à
+Lausanne, défendeur, contre le jugement rendu le 30 mars 2011 par la
+Cour civile du Tribunal cantonal dans la cause divisant les parties, la Cour
+d’appel civile du Tribunal cantonal voit :
+1102
+
+- 2 -
+En fait :
+A. Par jugement du 30 mars 2011, dont la motivation a été
+envoyée le 2 septembre 2011 pour notification, la Cour civile du Tribunal
+cantonal a dit que le défendeur Etat de Vaud devait payer au demandeur
+G.________ la somme de 50'900 fr., avec intérêt à 5 % l'an dès le 27
+octobre 1998 sur le montant de 7'000 fr. et dès le 9 février 2000 sur le
+solde de 43'900 fr. (I), fixé les frais de justice du demandeur à 7'020 fr. et
+ceux du défendeur à 3'760 fr. (II), alloué au demandeur des dépens fixés à
+8'115 fr. (III) et rejeté toutes autres ou plus amples conclusions (IV).
+En droit, les premiers juges ont considéré que le demandeur
+devait être indemnisé à raison de 7'000 fr. pour la détention préventive
+subie, que l'enquête pénale menée contre lui avait violé le principe de
+célérité, ce qui justifiait une indemnité de 17'000 fr. et de 26'900 fr. en
+remboursement des honoraires de ses avocats. Ils ont jugé en revanche
+que les prétentions du demandeur en indemnisation de la perte d'intérêts
+sur l'indemnité d'assurance versée après la clôture de l'enquête pénale
+étaient prescrites.
+B. G.________ a interjeté appel le 5 octobre 2011 contre ce
+jugement en concluant, avec dépens, à sa réforme en ce sens que le
+défendeur doit lui payer la somme de 166'900 fr. avec intérêt à 5 % l'an
+dès le 17 octobre 1998 sur le montant de 7'000 fr., dès le 16 mars 1998
+sur le montant de 116'000 fr. et dès le 9 février 2000 sur le solde de
+43'900 fr. et que des dépens de première instance, par 24'345 fr. lui sont
+alloués.
+L'intimé Etat de Vaud a conclu avec dépens au rejet de l'appel
+et, par voie de jonction, à la réforme du jugement attaqué en ce sens qu'il
+ne doit au demandeur que la somme de 13'000 fr. et aucun montant à
+titre de dépens.
+
+- 3 -
+L'appelant principal a conclu, avec dépens, au rejet de l'appel
+joint.
+
+- 4 -
+C. La Cour d'appel civile retient les faits suivants, sur la base du
+jugement complété par les pièces du dossier :
+1. Le demandeur G.________, né le [...] 1946, gynécologue de
+formation, exploitait en 1988 un cabinet de gynécologie à [...].
+2. Le 26 février 1988, une ou des personnes non identifiées ont
+tenté d'incendier la villa du demandeur située à [...], ce qui a donné lieu à
+l'ouverture d'une enquête pénale dirigée par le Juge d'instruction
+(anciennement Juge informateur) de l'arrondissement de Lausanne (ci-
+après : le juge d'instruction).
+Le 6 juin 1988, entre 4 h 00 et 5 h 15, un incendie a été
+perpétré dans la villa du demandeur. La police a constaté d'emblée que
+l'incendie était criminel. La villa a été détruite, à l'exception du garage et
+la buanderie, qui n'ont été que peu endommagés.
+Le 7 juin 1988, le demandeur, qui séjournait à Rome, a été
+victime d'un accident alors qu'il circulait en scooter. Les médecins du
+service des urgences qui l'ont examiné ont constaté une amputation
+traumatique des phalanges distales des 1er et 2e doigts de sa main droite.
+Le 14 juin 1988, l'inspecteur B.________ a informé le juge
+d'instruction qu'il avait eu un entretien téléphonique avec le demandeur et
+qu'il avait relevé des points obscurs concernant les circonstances de
+l'incendie et de l'accident.
+Le 18 juillet 1988, l'Etablissement cantonal d'assurance contre
+l'incendie et les éléments naturels (ci-après : ECA), qui s'était constitué
+partie civile dans les deux enquêtes relatives aux incendies
+susmentionnés, a proposé au demandeur une indemnité de 650'000 fr.
+(montant porté à 665'000 fr. le 26 août 1988) en cas de reconstruction de
+la villa, payable à la fin des travaux, étant précisé que cette indemnité
+n'était due qu'après la clôture de l'enquête pénale.
+
+- 5 -
+Le 27 juillet 1988, le juge d'instruction s'est entretenu de
+l'enquête avec les inspecteurs B.________ et L.________, qui lui ont indiqué
+que le demandeur leur avait déclaré avoir perdu la mémoire lors de
+l'accident de scooter et ne pas se souvenir de celui-ci, qui se serait passé
+sans témoins, qu'un accident de moto devrait occasionner des blessures
+sur les parties externes de la main, alors que le pouce et l'index avaient
+été amputés, et que l'examen de la casserole à proximité de la villa du
+demandeur avait révélé qu'elle avait dû contenir un feu important qui
+aurait pu brûler celui qui le tenait dans sa main. Les circonstances des
+incendies, ainsi que celle de l'accident ont conduit les enquêteurs à
+désigner le demandeur comme principal suspect.
+Dès lors que le demandeur avait invoqué un voyage en Italie,
+les inspecteurs ont été amenés à effectuer des contrôles à Rome. En effet,
+les documents fournis par le demandeur présentaient des similitudes
+d'écritures évidentes.
+Le 13 octobre 1988, le juge d'instruction a inculpé le
+demandeur pour incendies intentionnels et escroquerie, le soupçonnant
+d'avoir bouté volontairement le feu à sa villa et d'avoir mis en scène son
+accident à Rome afin d'obtenir des prestations d'assurance. Il l'a placé
+sous mandat d'arrêt.
+Au moment de son arrestation, le demandeur était en
+incapacité de travail en raison de l'accident de moto et se trouvait déjà
+dans une situation particulièrement difficile du fait des conséquences de
+cet accident et de l'incendie de sa villa. Le 17 octobre 1988, il a mandaté
+un avocat pour le défendre.
+Le 25 octobre 1988, les inspecteurs B.________ et W.________
+ont informé le juge d'instruction que la commission rogatoire décernée en
+Italie n'avait pas permis la découverte d'indices concrets.
+
+- 6 -
+Sur requête de son conseil du 4 novembre 1988, le demandeur
+a été libéré le 9 novembre 1988, après avoir subi vingt-huit jours de
+détention préventive.
+Le 28 novembre 1988, le juge d'instruction a adressé un
+courrier à sept compagnies d'assurances.
+Le 28 décembre 1988, le résultat de la commission rogatoire
+en Italie a été transmis au juge d'instruction. Du 27 juillet 1988 à cette
+date, le procès verbal des opérations et décisions mentionne une
+cinquantaine d'opérations, dont une commission rogatoire en Valais.
+Le 31 mars 1989, les inspecteurs B.________ et W.________ ont
+transmis au juge d'instruction un rapport de synthèse, daté du 28 mars
+1989, comportant trente-cinq pages et dont les conclusions sont les
+suivantes.
+"A ce stade de l’enquête, il a pu être formellement établi qu’G.________ est
+l’auteur du vol par introduction clandestine de mobilier d’une valeur d’environ
+Fr. 20'000.--, commis entre la mi-septembre et le 7 octobre 1987 au préjudice
+de la Clinique [...], ce qu’il n’a admis qu’après avoir été mis devant le fait
+accompli.
+Comme nous l’avons vu, celui qui nous occupe ne doit pas être étranger aux
+autres vols commis dans cette clinique, en 1987, mais G.________ l’a toujours
+contesté. Nous n’avons pas été en mesure de trouver des indices nous
+permettant de le confondre. Toutefois, nous ne pouvons pas exclure que
+d’autres membres du personnel de cet établissement puissent être à l’origine
+des disparitions.
+Au sujet des incendies criminels précités, l’enquête nous a amenés à porter des
+soupçons à l’endroit de l’intéressé et nous en avons expliqué le pourquoi plus
+avant. Pourtant, nous n’avons pas été en mesure de découvrir des éléments
+prouvant que G.________ a participé directement ou indirectement à ces actes
+de malveillance. Il a toujours nié une quelconque participation sans toutefois
+pouvoir donner des indications précises nous permettant de le disculper.
+
+- 7 -
+Dès que nos soupçons se sont portés sur le Dr G.________ (ce qui n’était pas le
+cas au début), nous avons forcément cherché à les étayer. Au cours des
+nombreuses investigations effectuées dans le cadre de cette affaire complexe,
+nous ne sommes pas parvenus à réunir des indices prouvant la culpabilité du Dr
+G.________ pour les incendies criminels et, par extension, pour des escroqueries
+au préjudice de compagnies d’assurances suite aux mutilations qu’il a ou aurait
+subies lors de l’accident de moto à Rome.
+Toutefois, l’enquête a aussi été faite à décharge de l’intéressé mais, chaque fois
+de nouveaux indices apparaissaient, ils étaient pratiquement toujours à charge
+du Dr. G.________ qui, on l’a vu, n’a parfois pas facilité le déroulement des
+auditions, notamment en invoquant l’amnésie ou en ne répondant
+qu’évasivement aux questions précises ou embarrassantes. Lors des
+interrogatoires, nous avons eu le net sentiment que ce disciple d’Hippocrate
+mettait totalement en pratique, et à son profit, le pouvoir de maîtrise
+généralement propre et reconnu dans ce milieu.
+Tout au long de nos entretiens et confronté aux résultats de nos investigations,
+le Dr. G.________ nous a donné l’impression de ne pas s'être comporté
+autrement qu’une personne qui aurait voulu, comme nous le pensons, tenter
+d’escroquer de fortes sommes d’argent au préjudice des diverses compagnies
+d’assurances auprès desquelles il avait souscrit les polices que nous
+connaissons.”
+Les travaux de reconstruction de la villa du demandeur ont
+commencé au mois d'octobre 1989, pour un coût final de l'ordre de
+700'000 à 750'000 francs. Le demandeur a pu la réintégrer durant les
+périodes chaudes de l'année 1990.
+Par courrier du 7 mai 1991 adressé au juge d'instruction, le
+conseil du demandeur a noté que, depuis deux ans, aucune mesure
+d'instruction n'avait été ordonnée et relevé que l'enquête pénale causait à
+son client un dommage important dans la mesure où tous les assureurs
+concernés refusaient de régler leurs prestations tant que l'enquête pénale
+était en cours.
+
+- 8 -
+Il ressort du procès-verbal des opérations et décisions que du
+28 mars 1989 au 15 juillet 1991, treize opérations ont été effectuées,
+consistant notamment dans la réception de pièces en provenance d'Italie.
+Le juge d'instruction n'a étudié les pièces rapportées par les enquêteurs
+jusqu'au mois de mars 1989 que les 20 septembre 1990, 11 février 1991
+et 27 mai 1991. Il a ainsi examiné de volumineuses pièces comptables,
+des pièces en provenance de la commission rogatoire ainsi que celles
+provenant de la police italienne. Hormis l'étude de ces pièces, présentes
+au dossier depuis presque un an et demi, le juge d'instruction n'a accompli
+aucune opération d'instruction entre le 1er avril 1989 et le 15 juillet 1991.
+Le 15 juillet 1991, soit plus de deux ans après le dépôt du
+rapport de synthèse, le juge d'instruction a ordonné deux expertises, l'une
+de nature technique, confiée à l'expert Z.________, chef de la section
+technologie textile du Laboratoire fédéral des matériaux et de recherches
+(ci-après : EMPA), visant à déterminer l'origine des marques sur le casque
+du demandeur, l'autre de nature médicale, confiée au professeur
+N.________ chef de l'Institut de médecine légale de l'Université de
+Lausanne (ci-après : IUML), visant à déterminer l'origine des lésions subies
+par le demandeur.
+L'expert Z.________ a déposé un rapport le 18 novembre 1991,
+relevant qu'il était possible que les dommages constatés au casque du
+demandeur aient été causé avec un outil de percussion à arête vive ou
+encore que le casque ait été envoyé avec violence contre un objet à arête
+vive. Au vu de ces constatations une expertise complémentaire a été
+ordonnée, qui a fait l'objet d'un rapport déposé le 13 février 1992.
+Le 28 août 1992, le Professeur N.________ a avisé le juge
+d'instruction qu'il prenait un congé sabbatique et qu'il avait confié le soin
+de mener à terme l'expertise à son remplaçant, le Dr F.________. Le 4 août
+1993, le conseil du demandeur a avisé le juge d'instruction que son client
+serait absent à l'étranger du 5 septembre au 10 octobre 1993, élément
+que le juge d'instruction a transmis au Dr F.________. Celui-ci, après avoir
+vainement tenté d'atteindre le demandeur, l'a convoqué le 27 septembre
+
+- 9 -
+1993 pour le 30 septembre 1993. Le demandeur a finalement été reçu par
+le Dr F.________ le 19 janvier 1994, qui a déposé son rapport le 11 juillet
+1994. Cette expertise était documentée. Toutefois, l'expert commis en
+cours de procédure a relevé que dès le moment où l'IUML avait reçu les
+dossiers primaires, une prise de position sur la question de savoir si les
+blessures aux doigts du demandeur avaient été provoquées par l'accident
+allégué ou par un acte commis par lui-même aurait été possible dans un
+délai de quelques semaines, au plus d'un mois, durée à laquelle il
+convenait d'ajouter le temps nécessaire à la traduction du dossier.
+L'expert a jugé que la durée de trois ans pour l'expertise était trop longue,
+plusieurs activités consignées, telles le visionnage des radiographies
+prises plus tard et en particulier l'examen clinique du demandeur à l'IUML
+étant sans utilité, partant superflues pour le traitement des quatre
+questions posées.
+Durant la période de l'expertise de l'IUML, le conseil du
+demandeur a envoyé au juge d'instruction un courrier du 24 août 1992
+relevant que l'enquête était ouverte depuis plus de quatre ans et devrait
+pouvoir être terminée dans des délais relativement brefs et un courrier du
+6 décembre 1993 se plaignant du fait que depuis des mois si ce n'est des
+années, il ne se passait rien dans le dossier, en violation du principe de
+célérité. Dans ce courrier, le conseil du demandeur reprochait en outre au
+juge d'instruction le fait que celui-ci ne répondait plus à ses courriers,
+relevant que cette situation était inadmissible pour son client également
+sur le plan civil, des questions pécuniaires étant suspendues tant que
+l'affaire pénale était ouverte. Du 12 mars 1992 au 18 avril 1994, le conseil
+du demandeur a en outre adressé au juge d'instruction dix lettres de
+relance, afin d'obtenir que l'expert médical dépose son rapport.
+Selon le procès-verbal des opérations et décisions, entre le 4
+février 1992 et le 11 juillet 1994, aucune opération d'instruction n'a été
+effectuée.
+Le demandeur a requis une expertise complémentaire et
+sollicité l'intervention de deux autres experts. Le 20 octobre 1994, le juge
+
+- 10 -
+d'instruction a ordonné un complément d'expertise au Dr F.________, qui a
+déposé son rapport le 3 janvier 1995.
+Sur requête du demandeur du 28 février 1995, le juge
+d'instruction a ordonné le 22 juin 1995 un complément d'expertise au
+professeur X.________, qui a déposé son rapport le 18 juillet 1995, reçu par
+le juge d'instruction le 20 juillet 1995.
+Selon le procès-verbal des opérations et décisions, entre le 20
+juillet 1995 et le 4 décembre 1997, soit pendant près de deux ans et cinq
+mois, le juge d'instruction n'a plus entrepris la moindre démarche
+d'investigation. Du 3 janvier 1995 au 4 juin 1998, il a procédé à trente-
+neuf opérations.
+Par courrier du 12 janvier 1998, le conseil du demandeur a
+insisté fermement pour que le dossier soit mis en prochaine clôture. Le 1er
+mai 1998, le juge d'instruction a informé le conseil du demandeur qu'une
+ordonnance de clôture devrait être rendue "dans un très proche avenir".
+Le 4 juin 1998, il a adressé aux parties un avis de prochaine
+clôture. Le demandeur a sollicité une prolongation d'un mois de ce délai.
+Le 30 juillet 1998, le demandeur a demandé une nouvelle
+prolongation de ce délai en invoquant les vacances.
+Le 9 mars 1999, le juge d'instruction a entendu à nouveau le
+demandeur et l'a inculpé complémentairement de vol.
+Le 10 mars 1999, il a adressé aux parties un avis de prochaine
+clôture.
+Par courrier du 18 juin 1999, le conseil du demandeur a
+informé le juge d'instruction que l'enquête pénale était connue dans le
+milieu des assurances et que cette enquête causait un tort sérieux à son
+
+- 11 -
+client dans ses recherches d'emploi, en particulier comme médecin-conseil
+auprès d'une assurance-maladie, fait qui a été établi.
+Le 9 février 2000, le juge d'instruction a rendu une ordonnance
+de non-lieu libérant entièrement le demandeur des fins de la poursuite
+pénale et laissant les frais de l'enquête à la charge de l'Etat. Cette
+ordonnance n'a pas été critiquée en recours.
+Selon le procès-verbal des opérations et décisions, entre le 12
+mars 1998 et le 9 février 2000, le juge d'instruction n'a procédé à presque
+aucune opération d'instruction, hormis l'obtention du casier judiciaire du
+demandeur, celle d'un rapport de renseignements généraux de deux
+pages et l'audition du demandeur le 9 mars 1999.
+3. En définitive, l'enquête pénale a duré onze ans, huit mois et
+deux jours, du 7 juin 1988 au non-lieu prononcé le 9 février 2000. Le
+demandeur a été inculpé le 13 octobre 1988 et a été détenu
+préventivement pendant vingt-huit jours sans qu'aucune charge ne puisse
+être retenue contre lui, détention dont il a ressenti durement les
+conséquences du fait de son statut social élevé. Le dossier pénal contient
+cent trente-cinq pièces consistant dans des courriers, des procès-verbaux
+d'audition, deux commissions rogatoires, deux rapports d'expertise, de
+nature technique et médicale, et leurs compléments. L'enquête a en outre
+donné lieu à cent nonante-huit opérations et décisions diverses. Elle a de
+surcroît dû se développer sous plusieurs angles. Ainsi des expertises
+techniques et médicales ont été nécessaires, ainsi que des compléments à
+celles-ci. Il a également fallu examiner de nombreuses pièces, notamment
+comptables et procéder à des jonctions d'enquêtes.
+Selon l'intime conviction du juge d'instruction, ces opérations
+étaient nécessaires et se sont avérées indispensables à la connaissance
+de la vérité. Les différents contrôles et expertises qu'il a ordonnés ne se
+justifiaient que dans le but de connaître la vérité. D'expérience, ces
+démarches sont inévitablement longues et il est manifeste que ce type
+
+- 12 -
+d'enquête se conduit sur une très longue période en raison des expertises,
+une enquête d'une période de douze ans étant toutefois exceptionnelle.
+Il n'est pas établi que le demandeur ait cherché à ralentir
+l'enquête. Ses conseils ont adressé pas moins de vingt-trois courriers au
+juge d'instruction pour le rendre attentif à la lenteur de la procédure et
+aux conséquences désagréables de celle-ci pour leur mandant.
+4. Depuis sa mise en liberté le 9 novembre 1988, le demandeur
+est resté sans travail pendant près d'une année, puis a été employé
+jusqu'en 1996 par le laboratoire central de [...], à Berne. Par la suite, il a
+œuvré comme expert pour la société [...], assurances maladie et accident,
+à Berne, pour un salaire mensuel de 13'000 fr. brut. Il n'a jamais pu
+retrouver le train de vie qui était le sien avant qu'il soit arrêté.
+Le 13 février 1992, le premier conseil du demandeur a adressé
+à son client une note d'honoraires et de débours de 8'000 fr., que celui-ci a
+réglée. Son second conseil lui a adressé le 28 février 1995 une note
+d'honoraires et de débours de 6'000 fr., puis, le 16 mars 2000, de 12'900
+fr., notes que le demandeur a réglées. Il ressort des notes d'honoraires
+que le premier conseil a rencontré le demandeur à trois reprises au Bois-
+Mermet, puis trois fois à son étude, qu'il a examiné le dossier pénal
+complet, ainsi qu'un important lot de pièces, qu'il a préparé et rédigé une
+requête de mise en liberté provisoire et une requête en complément
+d'expertise, qu'il a rédigé trente correspondances diverses et qu'il a eu
+vingt-neuf conférences téléphoniques diverses. Le second conseil a tenu
+une conférence avec son précédent confrère et onze conférences avec le
+demandeur. Il a rédigé une requête de complément d'expertise, un
+mémoire et huitante-neuf correspondances diverses. Il a eu de
+nombreuses conférences téléphoniques avec le demandeur, le greffier du
+juge d'instruction et le juge d'instruction lui-même
+5. Le 16 juillet 2001, le demandeur a demandé à l'ECA de rendre
+une décision formelle au sujet de l'indemnisation résultant de l'incendie de
+
+- 13 -
+sa villa. Le 27 juillet 2001, l'ECA a refusé de verser ses prestations en
+invoquant la prescription.
+Le demandeur a ouvert action contre l'ECA le 27 août 2001
+devant la Cour civile du Tribunal cantonal et a conclu, avec dépens, à ce
+que celui-ci soit condamné à lui verser les sommes de 727'989 fr., plus
+intérêt à 5 % l'an dès le 1er juin 1990 et de 290'000 fr. avec intérêt à 5 %
+l'an dès le 1er août 1988.
+Par transaction des 13 et 16 septembre 2006, annexée le 22
+septembre 2006 au procès-verbal pour valoir jugement par le Juge
+instructeur de la Cour civile, le demandeur et l'ECA sont convenus que le
+second verserait au premier les sommes de 700'000 fr. à titre d'indemnité
+pour la destruction par le feu de sa villa et des meubles et objets qui s'y
+trouvaient et de 100'000 fr. à titre d'indemnisation forfaitaire pour les
+intérêts courus depuis l'ouverture d'action le 27 août 2001.
+L'ECA a payé au demandeur les indemnités susmentionnées.
+Toutefois le demandeur n'a pas obtenu des intérêts pour la période
+courant du moment de l'incendie au 27 août 2001.
+6. G.________ a ouvert action le 6 février 2001 contre l'Etat de
+Vaud devant la Cour civile du Tribunal cantonal en concluant, avec
+dépens, au paiement de la somme de 166'900 fr., avec intérêt à 5 % l'an
+dès le 9 février 2000, soit 50'000 francs pour la détention injustifiée,
+90'000 fr. pour la violation du principe de célérité et 26'900 fr. pour ses
+frais de conseil. Il a allégué, en relation avec l'indemnité pour violation du
+principe de la célérité, que : "la durée de l'enquête pénale a eu des
+conséquences particulièrement graves du fait que les assureurs concernés
+à la fois par les conséquences de l'incendie de la villa et par celles de
+l'accident de moto refusaient de verser leurs prestations tant que
+l'enquête pénale était en cours" (allégué n° 46).
+Dans sa réponse du 31 mai 2001, le défendeur a adhéré, sous
+réserve de ratification par le Conseil d'Etat, aux conclusions du demandeur
+
+- 14 -
+à hauteur d'un montant de 13'000 fr. et a conclu, avec dépens, pour le
+surplus au rejet des conclusions de la demande.
+Dans sa réplique du 21 octobre 2002, le demandeur a
+augmenté, avec dépens, ses conclusions en ce sens qu'il a réclamé un
+montant de 500'000 fr., avec intérêt à 5 % l'an dès le 9 février 2001. A
+cette occasion il a allégué l'existence d'un dommage résultant du retard
+dans le paiement des prestations d'assurance.
+Dans sa duplique du 9 mars 2007, le défendeur a conclu, avec
+dépens, au rejet des conclusions augmentées du demandeur et a confirmé
+ses conclusions du 31 mai 2001.
+Par déterminations et nova du 26 juin 2007, le demandeur a
+réduit ses conclusions à 469'530 fr. 15, plus intérêt à 5 % l'an dès le 9
+février 2001.
+Par déterminations et nova du 26 juin 2007, le défendeur a
+conclu, avec dépens, au rejet des conclusions réduites susmentionnées. Il
+a soulevé les exceptions de prescription et de force jugée.
+En d roit :
+1. a) Le dispositif du jugement attaqué ayant été envoyé après
+l'entrée en vigueur, le 1er janvier 2011, du Code de procédure civile suisse
+du 19 décembre 2008 (ci-après CPC; RS 272), les voies de droit sont régies
+par celui-ci (art. 405 al. 1 CPC; ATF 137 III 424).
+b) L'art. 308 al. 1 let. a CPC ouvre la voie de l'appel contre les
+décisions finales et incidentes, pour autant, en ce qui concerne les litiges
+patrimoniaux, que la valeur litigieuse en première instance dépasse
+10'000 francs. En particulier l'appel est recevable contre les jugements de
+
+- 15 -
+la Cour civile dont le dispositif a été communiqué après le 1er janvier 2011,
+même si celle-ci était instance cantonale unique en vertu de l'ancien droit
+(cf. Colombini, Quelques questions de droit transitoire, in JT 2011 III 109,
+ch. 4, p. 112 et références).
+L'art. 313 al. 1 CPC ouvre la voie de l'appel joint déposé avec
+la réponse.
+Interjetés en temps utile par des parties qui y ont intérêt
+contre une décision finale portant sur des prétentions supérieures à
+10'000 fr., l'appel et l'appel joint sont recevables à la forme.
+2. L'appel peut être formé pour violation du droit ou constatation
+inexacte des faits (art. 310 CPC). L'autorité d'appel peut revoir l'ensemble
+du droit applicable, y compris les questions d'opportunité ou
+d'appréciation laissées par la loi à la décision du juge et doit le cas
+échéant appliquer le droit d'office conformément au principe général de
+l'art. 57 CPC (Jeandin, CPC Commenté, 2011, nn. 2 ss ad art. 310 CPC, p.
+1249). Elle peut revoir l'appréciation des faits sur la base des preuves
+administrées en première instance (Jeandin, op. cit. n. 6 ad art. 310 CPC,
+pp. 1249-1250).
+En l'espèce, l'état de fait est complet.
+3. a) L'appelant par voie de jonction conteste l'allocation à
+l'appelant principal d'une indemnité pour violation du principe de célérité.
+Il fait valoir que l'enquête a été extrêmement complexe, qu'elle a porté
+sur plusieurs aspects et a dû se développer sur plusieurs angles, que des
+expertises techniques et médicales ont dû être menées, que de
+nombreuses pièces comptables ont dû être vérifiées et que l'affaire avait
+des ramifications à l'étranger, ce qui était de nature à prolonger la
+procédure. Il relève que les retards des experts ne relevaient pas de la
+responsabilité du juge d'instruction et soutient que la jurisprudence
+
+- 16 -
+relative à l'art. 163a CPP-VD (Code de procédure pénale vaudois du 12
+septembre 1967) ne prévoit pas en soi une indemnité pour violation du
+principe de célérité.
+b) Selon l'art. 163a al. 1 1re phrase CPP-VD, l'inculpé et
+l'accusé libérés des fins de la poursuite pénale, qui ne l'ont ni provoquée
+ni compliquée fautivement, peuvent obtenir de l'Etat, du plaignant ou de
+la partie civile, une indemnité équitable pour le préjudice résultant de
+l'instruction et pour leur frais de défense.
+La jurisprudence a précisé qu'outre les frais de défense,
+l'indemnité visée par cette disposition concerne aussi tout dommage en
+lien de causalité avec l'instruction pénale, tels la perte de gain, ainsi que
+le tort moral en cas d'atteinte grave à la personnalité (Thélin,
+L'indemnisation du prévenu acquitté en droit vaudois, JT 1995 III 98, n. 5,
+p. 99; CCIV 30 mars 2010/55 c. IVd). Cette indemnité doit servir à
+compenser équitablement le préjudice subi par l'accusé libéré du fait de la
+procédure pénale. La référence de l'art. 163a CPP-VD à l'équité a pour
+conséquence de lier l'étendue de la réparation aux circonstances de
+chaque cas. La juridiction compétente jouit à cet égard d'un large pouvoir
+d'appréciation, qui est cependant limité par l'interdiction constitutionnelle
+de l'arbitraire; celle-ci est violée notamment par une décision contredisant
+d'une manière choquante le sentiment de la justice et de l'équité.
+L'indemnité équitable prévue à l'art. 163a CPP-VD n'entre toutefois en
+considération que lorsque le requérant a subi un préjudice d'une certaine
+importance. En effet, même dans un Etat de droit, le citoyen doit en
+principe assumer, dans l'intérêt d'une lutte efficace contre le crime, le
+risque d'une poursuite pénale injustifiée, du moins jusqu'à un certain
+stade. L'indemnité équitable est destinée à empêcher que l'intéressé ne
+doive supporter un préjudice considérable lié à la poursuite pénale, au
+point que cela apparaîtrait comme une conséquence choquante de cette
+poursuite (TF 6B_595/2007 du 11 mars 2008 c. 2.2;
+Bovay/Dupuis/Monnier/ Moreillon/Piguet, Procédure pénale vaudoise, 3e
+éd., 2008, nn. 1.1, 1.2 et 2.1 ad art. 163a CPP-VD, pp. 182-183 et 184-185;
+Thélin, op. cit., n. 5, pp. 99 et 100 et références).
+
+- 17 -
+Selon la jurisprudence du Tribunal fédéral, la violation du
+principe de célérité, garanti par les art. 6 par. 1 CEDH (Convention du 4
+novembre 1950 de sauvegarde des droits de l'homme et des libertés
+fondamentales; RS 0.101) et 29 al. 1 Cst. (Constitution fédérale du 18 avril
+1999; RS 101) peut donner lieu à l'octroi de dommages-intérêts. En effet,
+cette violation constitue un acte illicite, qui relève des autorités
+compétentes pour connaître des actions en responsabilité contre la
+Confédération ou les cantons (ATF 130 IV 53, c. 3.3.2, résumé in JT 2004 IV
+159; ATF 130 I 312 c. 5.3). A cet égard, le Tribunal fédéral a précisé que,
+dans la mesure où l'art. 163a CPP-VD, qui traite de l'indemnisation des
+préjudices résultant de l'instruction, constitue une loi spéciale par rapport
+à la loi du 16 mai 1961 sur la responsabilité de l'Etat, des communes et de
+leurs agents (ci-après : LRECA; RSV 170.11), c'est sur la base de cette
+disposition que l'accusé qui invoque une violation du principe de célérité
+dans le cadre d'une enquête pénale dispose d'une action en responsabilité
+contre l'Etat (TF 6B_695/2007 précité c. 3.1.1). L'art. 49 CO (Code des
+obligations du 30 mars 1911; RS 220) s'applique, à défaut de règles
+cantonales spécifiques, au calcul de l'indemnité pour tort moral fondée sur
+l'art. 163a CPP-VD à titre de droit cantonal supplétif (TF 6B_434/2008 du
+29 octobre 2008 c. 4.1).
+C'est donc en vain que l'appelant soutient que l'indemnité de
+l'art. 163a CPP-VD ne couvre pas celle résultant de la violation du principe
+de célérité.
+L'appel joint doit être rejeté sur ce point.
+c) Selon la jurisprudence, le principe de célérité impose aux
+autorités pénales, dès le moment où l'accusé est informé des soupçons qui
+pèsent sur lui, de mener la procédure pénale sans désemparer, afin de ne
+pas maintenir inutilement l'accusé dans les angoisses qu'elle suscite. Pour
+déterminer la durée du délai raisonnable, il y a lieu de se fonder sur des
+éléments objectifs. Doivent notamment être pris en compte le degré de
+complexité de l'affaire, l'enjeu que revêt le litige pour l'intéressé ainsi que
+
+- 18 -
+le comportement de ce dernier et des autorités compétentes. La
+complexité de l'affaire vise à la fois les enquêtes, l'instruction et le
+déroulement du procès et elle inclut toutes ses composantes : nombre de
+parties au procès, volume du dossier, difficulté et complexité des preuves,
+aspect international de l'affaire, etc. (TF 1B_221/2010 du 9 septembre
+2010 c. 3.1; TF 6B_239/2007 du 6 septembre 2007 c. 3.1 et 3.2; Piquerez,
+Traité de procédure pénale suisse, 2e éd., 2006, n. 328, p. 212)
+Comme on ne peut pas exiger de l'autorité pénale qu'elle
+s'occupe constamment d'une seule et unique affaire, il est inévitable
+qu'une procédure comporte quelques temps morts. Lorsque aucun d'eux
+n'est d'une durée vraiment choquante, c'est l'appréciation d'ensemble qui
+prévaut; des périodes d'activités intenses peuvent donc compenser le fait
+que le dossier a été laissé momentanément de côté en raison d'autres
+affaires. Le principe de la célérité peut être violé, même si les autorités
+pénales n'ont commis aucune faute; elles ne sauraient exciper des
+insuffisances de l'organisation judiciaire (TF 1B_221/2010 du 9 septembre
+2010 c. 3.1; TF 6B_239/2007 du 6 septembre 2007 c. 3.2; Piquerez, loc.
+cit.).
+L'attitude de l'intéressé s'apprécie avec moins de rigueur en
+procédure pénale et administrative qu'en procédure civile; celui-ci doit
+néanmoins entreprendre ce qui est en son pouvoir pour que l'autorité
+fasse diligence. Dans le domaine pénal, la Cour européenne a considéré
+qu'on ne saurait exiger une coopération active de l'accusé avec les
+autorités judiciaires, ni retenir à sa charge le fait qu'il ait utilisé toutes les
+voies de recours que lui ouvrait le droit national. En revanche, on tiendra
+compte de l'attitude abusive et dilatoire du requérant (changements
+répétés d'avocats, exercice systématique de la récusation des magistrats,
+recours répétés pour obtenir sa libération) (TF 1B_221/2010 du
+9 septembre 2010 c. 3.1; Piquerez, loc. cit.).
+Le principe de célérité a été considéré comme violé en
+présence d'une inactivité de treize ou quatorze mois au stade de
+l'instruction (ATF 124 I 139 c. 2c; ATF 119 IV 107 c. 1c), d'une procédure
+
+- 19 -
+de onze ans clôturée par un acquittement (cf. arrêt de la Cour européenne
+des droit de l'homme dans l'affaire Mac Hugo c. Suisse du 21 septembre
+2006), de l'inactivité durant plusieurs mois d'un expert psychiatre chargé
+de l'expertise du prévenu en détention préventive (ATF 128 I 149) et d'une
+procédure de six ans et demi, dont quatre ans d'inactivité en violation du
+principe de célérité, une indemnité de 5'000 fr. ayant été accordée (TF
+6B_239/2007 du 6 septembre 2007 c. 3.3). Les autorité judiciaires bâloises
+ont jugé qu'il n'était pas exagéré d'allouer une indemnité de 12'000 fr.
+pour tort moral à un accusé acquitté après une procédure ayant duré
+quatre ans, même sans détention préventive (Bulletin de jurisprudence
+pénale [BJP] 2001 n° 56; Bovay/Dupuis/Monnier/ Moreillon/Piguet, op. cit.,
+n. 2.3 ad art. 163a CPP-VD, p. 185).
+Les premiers juges ont pris en compte le fait que la procédure
+avait duré onze ans, huit mois et deux jours, que le juge d'instruction
+n'avait étudié les pièces rapportées par les enquêteurs au mois de mars
+1989 que les 20 septembre 1990, 11 février et 27 mai 1991 et qu'il n'avait
+ordonné les expertises technique et médicale que le 15 juillet 1991,
+n'ayant procédé à aucune opération d'instruction entre le 1er avril 1989 et
+le 15 juillet 1991, aucune raison objective ne justifiant cette période
+d'inactivité de deux ans. Les premiers juges ont en outre jugé choquant
+que l'expert médical n'ait déposé son rapport que le 11 juillet 1994, soit
+presque trois ans après avoir été mis en œuvre, alors que, selon l'expert
+commis en cours de procédure, cette expertise aurait pu être effectuée
+dans un délai d'un mois au plus, l'examen clinique du demandeur étant
+superflu pour répondre aux questions posées. Au vu de ces éléments, les
+premiers juges ont considéré que l'instruction aurait pu être terminée au
+début de l'année 1990 et l'affaire close au plus tard au mois de juin 1991.
+Les premiers juges ont en outre relevé que depuis le dépôt du rapport de
+l'expert médical complémentaire le 20 juillet 1995, le juge d'instruction
+n'avait plus entrepris de démarches d'investigation jusqu'au 4 décembre
+1997, soit pendant près de deux ans et cinq mois, et qu'après avoir
+informé le défendeur le 1er mai 1998 qu'une ordonnance de clôture devrait
+être rendue "dans un très proche avenir", le juge d'instruction n'avait
+prononcé le non-lieu que le 9 février 2000, soit près de deux ans après. La
+
+- 20 -
+violation du principe de célérité par le juge et l'expert médical avait ainsi
+eu pour conséquence une prolongation indue de la procédure de huit ans
+et demi.
+Cette appréciation ne prête pas le flanc à la critique et peut
+être confirmée. L'appelant par voie de jonction se borne à la qualifier de
+sévère s'agissant d'un complexe de fait compliqué, sans démontrer de
+manière précise en quoi les éléments retenus par les premiers juges ne
+seraient pas pertinents. C'est par ailleurs en vain, au vu de la
+jurisprudence parue au ATF 128 I 149 mentionnée ci-dessus, que
+l'appelant par voie de jonction soutient qu'il n'y a pas lieu de prendre en
+compte la durée excessive des expertises, l'expert étant un auxiliaire de
+l'Etat de Vaud dans l'accomplissement de son mandat de droit public.
+La présente espèce revêt un caractère de gravité plus
+conséquent que les précédents mentionnés ci-dessus. A l'instar des
+premiers juges, on doit considérer qu'une enquête pénale d'une durée de
+plus de onze ans, dont huit ans et demi en violation du principe de célérité
+constitue une atteinte grave à la personnalité du demandeur, qui se
+distingue de tout stress et de toute inquiétude que peut susciter
+normalement la participation à une enquête pénale. Il est par ailleurs
+établi que l'existence de cette enquête pénale était connue dans le milieu
+des assurances, ce qui a causé à l'appelant principal un tort considérable
+dans la mesure où il cherchait précisément un emploi de médecin-conseil
+auprès d'une assurance-maladie. En outre, les assureurs concernés à la
+fois par les conséquences de l'incendie de la villa et par celles de
+l'accident de moto ont refusé de verser leurs prestations tant que
+l'enquête pénale était en cours. Il résulte ainsi de l'état de fait que cette
+enquête a lourdement pesé sur la situation personnelle de l'appelant
+principal durant ces nombreuses années. Au vu de l'ensemble de ces
+circonstances, une indemnité pour tort moral lié à la durée de la procédure
+de 17'000 fr., bien qu'à la limite supérieure de ce qui est admissible,
+apparaît adéquate et peut être confirmée.
+L'appel joint doit être rejeté sur ce point.
+
+- 21 -
+4. L'appelant par voie de jonction relève que les notes
+d'honoraires des conseils de l'appelant principal ne sont pas détaillées. Il
+soutient que le travail accompli n'a pas été établi et que le nombre
+d'heures retenu par les premiers juges est disproportionné.
+Selon la jurisprudence, l'indemnisation selon l'art. 163a CPP-
+VD doit en règle générale couvrir les frais de quelque importance auxquels
+le prévenu, sauf à se priver d'une défense convenable, ne pouvait pas
+renoncer. Les frais d'avocats doivent en principe être remboursés
+lorsqu'au regard de la gravité de l'accusation, de la complexité de l'affaire
+et des capacités du prévenu, celui-ci était fondé à se pourvoir d'un
+défenseur. L'indemnisation n'a en effet pas pour but de couvrir un
+dommage peu important, ni un dommage que l'intéressé pouvait éviter ou
+dont il aurait pu restreindre l'ampleur. S'il se justifie de rembourser les
+frais de défense, des honoraires indûment élevés, réclamés par l'avocat ou
+même consentis par son client, ne sont pas déterminants et les frais de
+défense effectifs peuvent être évalués d'après les critères applicables à la
+modération des honoraires. L'indemnité doit néanmoins correspondre à
+des honoraires normaux, de manière à couvrir le dommage réellement
+subi par le prévenu; une somme correspondant seulement à l'indemnité
+allouée au défenseur d'office d'un prévenu indigent est insuffisante (CCIV
+30 mars 2010/55 c. IVea; CCIV 29 juin 2005/121 c. IIIa; TACC 17 novembre
+2008/633; Bovay/Dupuis/Monnier/Moreillon/Piguet, op. cit., n. 2.2 ad art.
+163a CPP-VD, p. 185; Thélin, op. cit., n. 6, p. 100).
+Les premiers juges ont considéré que le montant de 26'900 fr.
+correspondait à environ 107 heures de travail d'avocat et pouvait être
+admis, compte tenu de la durée particulièrement longue de l'enquête, de
+son ampleur et des interventions des mandataires professionnels en
+relation avec cette enquête.
+Même si la procédure a connu des périodes d'inactivité, les
+conseils ont tenté à réitérées reprises d'accélérer celle-ci. Il y a en outre
+
+- 22 -
+lieu de relever que l'affaire était complexe et que le dossier était
+volumineux. Les opérations mentionnées dans les notes d'honoraires des
+conseils successifs de l'appelant principal (17 conférences avec le client, 3
+requêtes, 119 correspondances, nombreuses conférences téléphonique
+avec le client, le juge d'instruction et le greffier de celui-ci) apparaissent
+compatibles avec le nombre de 107 heures retenu par les premiers juges
+et nécessaires à l'accomplissement du mandat. Il y en conséquence lieu
+de considérer qu'elles ont été établies, de même que leur durée.
+L'appel joint doit être rejeté sur ce point.
+5. L'appelant principal soutient qu'il a valablement interrompu,
+par la demande du 6 février 2001, la prescription à concurrence de
+116'000 fr. en ce qui concerne ses prétentions en indemnisation de la
+perte d'intérêts sur l'indemnité d'assurance versée en raison de l'incendie
+de sa villa.
+Selon l'art. 135 ch. 2 CO, la prescription est notamment
+interrompue lorsque le créancier fait valoir ses droits par une action.
+La doctrine et la jurisprudence ont précisé que l'effet
+interruptif de la prescription ne porte en principe que sur le montant
+indiqué dans la réquisition de poursuite, la production de créance ou
+l'action (ATF 119 II 339 c. 1; Pichonnaz, Commentaire romand, 2003, n. 27
+ad art. 135 CC, p. 779).
+La prescription n'est interrompue qu'à l'égard du rapport
+litigieux. Cette notion ne doit pas être comprise trop restrictivement; ainsi
+l'acte interrompant la prescription pour l'une des prétentions que peut
+élever l'acheteur porte aussi sur les autres, notamment l'action en
+dommages-intérêts pour le préjudice subi après coup (ATF 96 II 181 c. 3d;
+Engel, Traité des obligations en droit suisse, 2e éd., 1998, p. 818). Dans
+cet arrêt, le Tribunal fédéral a exposé que lorsque l'acheteur ouvre action
+en résiliation du contrat, en réduction du prix, en dommages-intérêts ou
+
+- 23 -
+en livraison de marchandises sans défaut, il manifeste son intention de
+faire valoir les droits que lui confèrent les défauts de la chose livrée. C'est
+tout ce que le vendeur est en droit d'attendre de lui. La liquidation se
+poursuit dès lors par la voie judiciaire; aussi longtemps qu'elle n'a pas pris
+fin, le vendeur doit s'attendre à ce que l'acheteur, après avoir élevé une
+prétention, passe à une autre ou cumule deux réclamations. Ainsi, celui
+qui ouvre action en réduction de prix interrompt également la prescription
+de l'action tendant à l'élimination des défauts de la chose et de l'action en
+dommages-intérêts pour le préjudice subi après coup.
+De manière générale, l'interruption de la prescription pour une
+créance vaut pour toutes les autres créances découlant du même
+"Zielverhalten", le tribunal ayant le devoir d'examiner tous les fondements
+de la créance découlant de l'état de fait pertinent et qui peuvent conduire
+à l'admission de la demande (Berti, Zürcher Kommentar, 2002, n. 171 ad
+art. 135 CO, p. 183; Spiro, Die Begrenzung privater Rechte durch
+Verjährung-, Verwirkungs- und Fatalfristen, Bd I, 1975, p. 400).
+Pour le surplus, l'étendue de l'interruption de la prescription
+doit être déterminée par l'interprétation de la déclaration d'interruption
+(Berti, op. cit., n. 173 ad art. 135 CO, p. 184). Tel est le cas du point de
+savoir si une demande en allocations de montants déterminés doit être
+considérée comme une demande en constatation de l'entier du dommage
+(Spiro, op. cit., p. 396).
+En l'espèce, l'appelant principal a certes, dans sa demande,
+précisé certains éléments du dommage résultant de l'enquête pénale et
+de sa détention préventive injustifiée (indemnité pour détention
+préventive injustifiée; préjudice résultant de l'instruction; frais d'avocat). Il
+a toutefois pris une conclusion globale en paiement de la somme de
+166'900 francs. Ces conclusions valaient, au vu des considérations qui
+précèdent, interruption de la prescription pour tous les éléments découlant
+du rapport de droit litigieux, soit de l'enquête et de la détention injustifiée.
+On ne saurait en outre considérer qu'en réclamant certains postes précis,
+l'appelant principal renonçait à en invoquer d'autres. D'ailleurs, à l'appui
+
+- 24 -
+de son préjudice de 90'000 fr. découlant de la durée excessive de
+l'instruction, l'appelant principal a allégué sous n° 46 les conséquences de
+celle-ci sur les indemnités d'assurance. S'il n'a développé les éléments
+factuels relatifs à ce poste et ne l'a chiffré qu'en réplique, il n'en demeure
+pas moins que celui-ci était déjà englobé - dans son principe – dans la
+demande initiale. Au surplus, les premiers juges n'étaient pas liés par les
+différents postes du dommage et pouvaient allouer plus sur un point que
+ce qui était réclamé dans les limites des conclusions globales (cf.
+Poudret/Haldy/Tappy, Procédure civile vaudoise, 3e éd., 2002, n. 3 ad art.
+3 CPC, pp. 14 et 15).
+Dès lors que le délai de prescription d'une année a commencé
+à courir dès le 10 février 2000, date de la connaissance par l'appelant
+principal de l'ordonnance de non-lieu, il y a lieu de considérer que la
+demande, déposée le 6 février 2001, a valablement interrompu la
+prescription à concurrence du montant total de 166'900 fr., soit, compte
+tenu des montants déjà alloués, 116'000 fr. relatifs à ses prétentions en
+indemnisation de la perte d'intérêts sur l'indemnité d'assurance versée en
+raison de l'incendie de sa villa.
+L'appel principal doit être admis sur ce point.
+6. L'appelant principal fait valoir qu'il n'a pas perçu d'intérêts sur
+le montant de l'indemnité couvrant l'incendie de sa villa, ce qui
+correspond, au taux de 5 % prévu par l'art. 73 CO appliqué par analogie, à
+une perte de 297'500 fr. pour la durée de huit années et demi de
+dépassement de la durée admissible de l'enquête. Il soutient que ce
+dommage résulte d'un acte illicite du juge d'instruction, soit la violation
+fautive par celui-ci du principe de célérité, et que les conditions de
+l'indemnisation de cette perte d'intérêt sont réalisées.
+Selon la jurisprudence, le dommage réside dans la diminution
+involontaire de la fortune nette. Il peut consister en une réduction de
+l'actif, en une augmentation du passif ou en un gain manqué et
+
+- 25 -
+correspond à la différence entre la situation actuelle de fortune et celle qui
+existerait si l'événement dommageable ne s'était pas produit (ATF 133 III
+462 c. 4.4.2 et références). La preuve du dommage incombe au
+demandeur (art. 42 al. 1 CO). Lorsque le montant exact du dommage ne
+peut être établi, le juge le détermine équitablement en considération du
+cours ordinaire des choses et des mesures prise par la partie lésée (art. 42
+al. 2 CO). Cette disposition allège le fardeau de la preuve, mais ne
+dispense pas le lésé de fournir au juge, dans la mesure du possible, tous
+les éléments constituant des indices de l'existence du préjudice et
+permettant l'évaluation ex aequo et bono du montant du dommage. Les
+circonstances alléguées par le lésé doivent faire apparaître un dommage
+comme pratiquement certain; une simple possibilité ne suffit pas pour
+allouer des dommages-intérêts. L'exception à la règle du fardeau de la
+preuve doit être appliquée de manière restrictive (ibidem).
+Les intérêts font partie intégrante du dommage dès le moment
+où l'événement dommageable a des incidences financières. Le dommage
+comprend donc l'intérêt, dit compensatoire, du capital alloué à titre
+d'indemnité. Il doit compenser le préjudice résultant de l'immobilisation du
+capital. Le taux forfaitaire retenu par la jurisprudence par application
+analogique de l'art. 73 CO est de 5 % (ATF 131 III 12 c. 9).
+En l'espèce, l'indemnité qu'a perçue l'appelant principal de
+l'ECA à la suite de la transaction des 13 et 16 septembre 2006 ne
+comprend pas les intérêts courant de l'incendie de la villa au dépôt de la
+demande contre l'ECA. On ne saurait considérer que l'appelant principal a
+renoncé, par cette transaction, à réclamer à l'ECA l'intérêt sur cette
+somme courant durant la procédure pénale en cause, dès lors que cet
+intérêt n'aurait pas été dû, l'art. 63 al. 3 ch. 1 LAIEN (loi du 17 novembre
+1952 concernant l'assurance des bâtiments et du mobilier contre
+l'incendie et les éléments naturels; RSV 963.41) prévoyant que la créance
+de l'assuré n'est pas échue aussi longtemps que celui-ci fait l'objet d'une
+enquête de police ou d'une instruction pénale en raison du sinistre et que
+la procédure n'est pas terminée.
+
+- 26 -
+Il y a lieu de relever ensuite que l'indemnité due par l'ECA ne
+constitue pas un poste du dommage résultant de l'acte illicite de l'Etat de
+Vaud. C'est la perte d'intérêt invoquée par l'appelant principal qui
+constitue elle-même le dommage. Ce poste du dommage – comme tout
+autre dommage – doit être prouvé conformément à la règle générale en
+matière de responsabilité civile. Cela étant, on ne saurait qualifier les
+intérêts réclamés à l'appelant par voie de jonction de compensatoires au
+sens de l'ATF 131 III 12 précité, car ils ne s'ajoutent pas à un capital
+constituant le dommage, mais sont le dommage lui-même. Il ne s'agit pas
+en outre des intérêts que l'indemnité de l'ECA aurait rapportés, mais de
+ceux que la fortune de l'appelant principal qui a été investie dans la
+reconstruction de la villa en 1989-1990 aurait rapportés si l'indemnité de
+l'ECA avait pu être versée plus tôt. Ces intérêts doivent donc être établis
+et l'on ne saurait retenir qu'ils s'élèvent 5 % par une application
+analogique de l'art. 73 CO.
+La présente espèce se rapproche davantage de la situation en
+matière d'enrichissement illégitime, où la jurisprudence considère que le
+créancier qui prétend que l'enrichissement comprend l'intérêt du capital
+réclamé doit prouver que le défendeur a placé ce capital et qu'il a
+effectivement perçu l'intérêt dont le paiement est demandé, cet intérêt
+n'étant pas nécessairement de 5 %. Il doit donc établir le taux d'intérêt
+obtenu grâce au placement opéré par le débiteur (ATF 80 II 152, JT 1955 I
+130; Spahr, L'intérêt moratoire, conséquence de la demeure, Revue
+valaisanne de jurisprudence [RVJ] 1990, p. 375). Cette jurisprudence va en
+effet dans le sens d'une application du régime ordinaire de l'allégation et
+de la preuve lorsque les intérêts forment l'objet même de la prétention,
+par opposition au cas où le litige porte sur les intérêts d'un poste du
+dommage.
+Faute d'avoir allégué ni établi quelles auraient été les
+conditions de placement de la fortune investie dans la reconstruction de la
+villa sinistrée, l'appelant principal échoue dans la preuve de son dommage
+et une application de l'art. 42 al. 2 CO n'entre pas en ligne de compte. Il
+appartenait ainsi à l'appelant principal d'alléguer et d'établir quel
+
+- 27 -
+rendement il aurait pu obtenir concrètement en plaçant le capital reçu de
+l'ECA et investi dans la reconstruction de la villa en 1989-1990 dans un
+placement sans risque et au rendement garanti, ce qu'il aurait pu faire,
+par exemple, en alléguant et établissant le taux d'intérêt servi sur des
+obligations de la Confédération sur la période considérée.
+L'appel principal doit en conséquence être rejeté et le
+jugement confirmé par substitution de motifs.
+7. En conclusion, l'appel et l'appel joint doivent être rejetés et le
+jugement confirmé.
+Les frais judiciaires de deuxième instance sont arrêtés à 2'160
+fr. à la charge de l'appelant principal et à 1'379 fr. à la charge de
+l'appelant par voie de jonction, les dépens de deuxième instance étant
+compensés (art. 106 al. 2 CPC; art. 63 TFJC [tarif du 28 septembre 2010
+des frais judiciaires civils; RSV 270.11.5]).
+Par ces motifs,
+la Cour d’appel civile du Tribunal cantonal,
+statuant à huis clos,
+prononce :
+I. L'appel est rejeté.
+II. L'appel joint est rejeté.
+III. Le jugement est confirmé.
+IV. Les frais judiciaires de deuxième instance sont arrêtés à 2'160
+fr. (deux mille cent soixante francs) à la charge de l'appelant
+
+- 28 -
+G.________ et à 1'379 fr. (mille trois cent septante-neuf francs)
+à la charge de l'appelant par voie de jonction Etat de Vaud.
+V. Les dépens de deuxième instance sont compensés.
+VI. L'arrêt motivé est exécutoire.
+Le président : Le greffier :
+Du 13 mars 2012
+Le dispositif de l'arrêt qui précède est communiqué par écrit
+aux intéressés.
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+- Me Jérôme Bénédict (pour G.________),
+- Me Pierre-Alexandre Schlaeppi (pour Etat de Vaud).
+La Cour d’appel civile considère que la valeur litigieuse est
+supérieure à 30'000 francs.
+
+- 29 -
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Cour civile.
+Le greffier :
