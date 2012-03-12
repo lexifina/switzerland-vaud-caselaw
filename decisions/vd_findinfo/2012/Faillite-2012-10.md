@@ -1,0 +1,256 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 10"
+decided: "2012-03-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3144578"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 10
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, PREUVE FACILITÉE, CRÉANCE | 190 al. 1 ch. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 12.03.2012 Faillite / 2012 / 10
+
+FAILLITE SANS POURSUITE PRÉALABLE, PREUVE FACILITÉE, CRÉANCE | 190 al. 1 ch. 2 LP
+
+TRIBUNAL
+CANTONAL
+FW11.020103-111659
+8
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 mars 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Sauterel et Mme Rouleau
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+190 al.1 ch. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+A.________
+AG
+, à Wädenswil, contre le jugement
+rendu le 29 août 2011, à la suite de l’audience du 16 août 2011, par la Présidente
+du Tribunal d’arrondissement de La Broye et du Nord vaudois rejetant la requête déposée
+par la recourante tendant à la faillite sans poursuite préalable de
+F.________
+Sàrl
+, Les Charbonnières.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par acte du 24 mai 2011, A.________ AG a requis la faillite sans poursuite préalable de F.________
+Sàrl. A l'appui de sa requête, elle a produit les pièces suivantes :
+-
+un extrait du registre du commerce du canton de Zürich concernant A.________ AG;
+-
+un extrait du registre du commerce du canton de Vaud concernant F.________ Sàrl, d'où il ressort
+que le capital social de la société, inscrite le 8 septembre 2008, est de 20'000 francs;
+-
+un contrat de prestations relatif au recouvrement et à l'encaissement général de créances
+passé le 3 novembre 2008 entre F.________ Sàrl et W.________ SA ainsi qu'un extrait des conditions
+générales de cette dernière, censées faire partie intégrante du contrat;
+-
+un décompte n° 388550 établi le 29 octobre 2010 par W.________ SA indiquant un montant
+de 7'437 fr. 70 dû par F.________ Sàrl;
+-
+un acte signé le 11 novembre 2010 par W.________ SA, qui déclare céder à A.________
+AG sa créance de 7'965 fr. 10 à l'encontre de F.________ Sàrl, relative au compte n°
+388550;
+-
+un commandement de payer n° 5'633'858 notifié le 21 décembre 2010 par l'Office des poursuites
+du Jura-Nord vaudois à F.________ Sàrl à la requête d'A.________ AG, portant sur
+les sommes de 1) 7'965 fr. 10, avec intérêt à 5 % l'an dès le 4 décembre 2010,
+de 2) 24 fr. et de 3) 677 fr. 05, sans intérêt, le titre de la créance ou cause de l'obligation
+étant désigné de la manière suivante :
+1) Cession
+de R.________ AG 8820 Wädenswil. Facture(s) relative(s) au compte n° 388550.
+2) Int. de
+retard dès l'échéance pro rata temporis à ce jour.
+3) Dommages-intérêts
+selon art. 103/106 CO;
+-
+un décompte n° 408244 établi le 21 avril 2011 par W.________ SA indiquant un solde de
+3'048 fr. 55, dû par F.________ Sàrl;
+-
+un extrait du registre des poursuites concernant F.________ Sàrl, établi le 27 avril 2011 par
+l'Office des poursuites du district du Jura-Nord vaudois, indiquant 23 poursuites introduites entre le
+7 décembre 2009 et le 4 avril 2011, presque toutes frappées d'opposition, pour un total
+de 101'325 fr. 25 et des actes de défaut de biens pour la somme de 4'546 fr. 40. Plusieurs de ces
+poursuites ont trait à des cotisations sociales et des primes d'assurances.
+A l'audience du 16 août 2011, la requérante a produit un nouvel extrait du registre des poursuites,
+daté du 4 août 2011, indiquant un montant total de poursuites à l'encontre de F.________
+Sàrl de 97'024 fr. 60 ainsi que des actes de défaut de biens pour 9'676 fr. 95.
+2.
+Par prononcé rendu le 29 août 2011 par défaut de l'intimée, la Présidente du
+Tribunal de La Broye et du Nord vaudois a rejeté la requête de faillite sans poursuite
+préalable et mis les frais par 300 fr. à la charge de la requérante.
+En substance, ce magistrat a considéré que les listes de poursuites produites n’établissaient
+pas que l’intimée était en suspension de paiements, ni en surendettement.
+A.________ AG a recouru par acte du 8 septembre 2011 contre ce prononcé, qui lui a été
+notifié le 30 août 2011, concluant avec dépens à ce que la faillite de l’intimée
+soit prononcée, subsidiairement à ce que la décision soit annulée et la cause renvoyée
+en première instance.
+L’intimée n’a pas déposé de réponse.
+A la requête du président de la cour de céans l’Office des poursuites du district
+du Jura Nord vaudois a établi, le 14 septembre 2011, un nouvel extrait du registre des poursuites
+concernant l’intimée, faisant état d'un montant total de 97'499 francs 45 et d'actes
+de défaut de biens pour la somme de 9'676 fr. 95.
+En droit
+:
+I.
+L'acte de recours, mis à la poste le 8 septembre
+2011, contre le jugement, notifié au recourant le 30 août 2011, a été déposé
+en temps utile (art. 174 al. 1 LP, auquel renvoie l'art. 194 al. 1 LP; loi fédérale sur la
+poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1).
+Il est suffisamment motivé de sorte qu'il est recevable formellement (art. 321 al. 1 CPC; Code
+de procédure civile du 19 décembre 2008; RS 272).
+II.
+a)
+Le système du droit suisse de la poursuite
+pour dettes et la faillite prévoit fondamentalement qu’une procédure de faillite est
+précédée d’une poursuite préalable ordinaire (Fritschi, Verfahrensfragen bei
+der Konkurseröffnung, thèse Zurich 2010, p. 151; Gilliéron, Poursuite pour dettes, faillite
+et concordat, 4
+ème
+éd., n. 564, p. 114). Ce n’est qu’exceptionnellement, dans un certain nombre de
+cas que la loi permet à un soi-disant créancier de requérir l’ouverture de la faillite
+de son prétendu débiteur sans commandement de payer exécutoire (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 2 ad remarques introductives :
+art. 190 – 194 LP).
+Aux termes de l'art. 190 al. 1 ch. 2 LP, le créancier peut requérir la faillite sans poursuite
+préalable si le débiteur sujet à la poursuite par voie de faillite a suspendu ses paiements.
+La suspension de paiements est une notion imprécise qui confère au juge de la faillite un ample
+pouvoir d'appréciation (TF 5P.312/2002 du 13 février 2003 c. 3.3; Gilliéron, Commentaire
+précité, n. 30 ad art. 190 LP; Cometta, Commentaire romand, n. 10 ad art. 190 LP). Elle
+a été préférée par le législateur à l'insolvabilité parce qu'elle
+est perceptible extérieurement, plus aisée à constater que l'insolvabilité proprement
+dite et, partant, plus aisée à prouver pour le requérant.
+Pour qu'il y ait suspension de paiements, il faut que le débiteur ne paie pas des dettes incontestées
+et exigibles, laisse les poursuites se multiplier contre lui, tout en faisant systématiquement opposition,
+ou omette de s'acquitter même de dettes minimes (Gilliéron, op. cit., eod. loc.). Par ce comportement,
+le débiteur démontre qu'il ne dispose pas de liquidités suffisantes pour honorer ses engagements.
+Il n'est toutefois pas nécessaire que le débiteur interrompe tous ses paiements; il suffit
+que le refus de payer porte sur une partie essentielle de ses activités commerciales (ibid.). Même
+une dette unique n'empêcherait pas, si elle est importante et que le refus de payer est durable,
+d'admettre une suspension de paiements; tel peut être le cas lorsque le débiteur refuse de
+désintéresser son principal créancier (SJ 2000 I 248, p. 250 et réf. cit.; TF 5A_367/2008
+du 11 juillet 2008 c. 4.1; TF 5A_709/2009 du 23 décembre 2009; TF 5A_439/2010 du 11 novembre
+2010; Fritzsche/Walder, Schuldbetreibung und Konkurs nach schweizerischem Recht, volume II, p. 91). On
+remarquera toutefois que, dans l'avant-dernier arrêt cité, le Tribunal fédéral a
+considéré que la Cour cantonale s'était "basée, à tort, uniquement sur
+l'existence des quatre créances de droit public pour admettre que la recourante se trouvait en situation
+de suspension de paiements" (TF 5A_709/2009 c. 4.4). Dans l'arrêt précédent cité
+(TF 5A_367/2008), le Tribunal fédéral avait également pris en compte le fait que la dette
+unique en cause (trois ans de loyer) concernait une partie essentielle de l'activité commerciale
+de la poursuivie. Le dernier arrêt cité (TF 5A_439/2010) concerne, quant à lui, un cas
+où le Tribunal fédéral a annulé une faillite sans poursuite préalable en dépit
+de poursuites nombreuses. Au demeurant, on ne voit pas qu'on puisse considérer que le débiteur
+d'une dette unique "laisse les poursuites se multiplier contre lui".
+Vu les lourdes conséquences de la déclaration de faillite sans poursuite préalable et
+le fait qu’elle constitue une exception dans le système de l’exécution forcée,
+de sorte qu’elle doit être appliquée et interprétée restrictivement, il faut,
+quant au degré de preuve requis, faire une distinction, en ce sens que pour les causes matérielles
+de la faillite, on exige en principe la preuve stricte – quand bien même les moyens de preuve
+consentis en procédure sommaire sont limités – alors que pour les autres conditions la
+vraisemblance qualifiée est suffisante (Cometta, op. cit., n. 2
+ad
+art. 190 LP; Fritschi, op. cit., pp. 153-154). Parmi les causes matérielles de la faillite, soumises
+aux exigences d’une preuve stricte, figure celle de la suspension des paiements (Cometta, op. cit.,
+nn. 5 et 10 ad art. 190 LP). Quant à la qualité de créancier du requérant, le degré
+de preuve requis pour sa démonstration est celui de la vraisemblance qualifiée, ce même
+si la créance n'est pas encore exigible (cf. Cometta, n. 3 ad art. 190, qui cite l'arrêt
+paru aux ATF 120 III 88, JT 1996 II 77, notamment). La cour de céans a considéré que,
+même si elle s’était parfois contentée de la simple vraisemblance (CPF, 29 novembre
+2007/455, qui se réfère à CPF, 10 décembre 1998/683), il y avait lieu de suivre l'auteur
+précité sur ce point, le degré de la vraisemblance qualifiée tenant adéquatement
+compte des intérêts du créancier requérant et du débiteur dont la faillite est
+demandée (CPF, 13 novembre 2008/549; CPF, 18 septembre 2008/439).
+b)
+En
+l'espèce, il ressort des listes de poursuites figurant au dossier que l'intimée, dont le capital
+social est de 20'000 fr., fait l'objet de nombreuses poursuites pour près de 100'000 fr., parmi
+lesquelles figurent des créances relatives à des cotisations d'assurances sociales. S'il apparaît
+qu'entre le 27 avril 2011 et le 14 septembre 2011 la société n'a pas désintéressé
+ses créanciers, sa situation ne s'est pas non plus péjorée. Cependant, les actes de défaut
+de biens et les oppositions systématiques aux poursuites semblent constituer des indices d'une situation
+de cessation de paiement. La question peut toutefois rester indécise, le recours devant être
+rejeté pour un autre motif.
+c)
+La
+requête de faillite sans poursuite préalable doit émaner d'un créancier dont la prétention
+est rendue vraisemblable selon les critères rappelés précédemment, soit au degré
+de la vraisemblance qualifiée (cf. supra ch. II let. a dernier paragraphe). En l'occurrence, la
+recourante a produit deux décomptes établis par W.________ SA, créancière cédante,
+ainsi qu'un contrat passé entre cette dernière et l'intimée, lequel ne comporte aucune
+indication chiffrée. Ces pièces ne suffisent pas à démontrer l'existence d'une créance
+et donc la qualité de créancière de la recourante, de sorte que la requête de faillite
+doit être rejetée.
+III.
+Le recours doit donc être rejeté et
+le jugement maintenu. Les frais judiciaires de deuxième instance sont arrêtés à 300
+fr. et doivent être mis à la charge de la recourante.
+Il n'y a pas lieu d'allouer de dépens à l'intimée, qui n'a pas procédé.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+Il n'est pas alloué de dépens de deuxième
+instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+12 mars 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Christophe Savoy, agent d'affaires breveté (pour A.________ AG),
+‑
+F.________ Sàrl,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
