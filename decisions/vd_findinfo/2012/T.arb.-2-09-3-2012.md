@@ -1,0 +1,599 @@
+---
+decision_id: "vd_findinfo_T.arb._2_09_-_3_2012"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "T.arb. 2/09 - 3/2012"
+decided: "2012-03-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CASSO/Jug/20120711145329921_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/832.10/art-003.md", "switzerland/bund/acts/832.10/art-032.md", "switzerland/bund/acts/832.10/art-043.md", "switzerland/bund/acts/832.10/art-046.md", "switzerland/bund/acts/832.10/art-089.md", "switzerland/bund/acts/832.112.31/art-005.md"]
+---
+
+# VD Findinfo T.arb. 2/09 - 3/2012
+
+## Regeste
+
+TRIBUNAL ARBITRAL, CONVENTION TARIFAIRE, PHYSIOTHÉRAPEUTE | 43 LAMal, 46 LAMal, 89 LAMal, 5 OPAS
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 23.03.2012 T.arb. 2/09 - 3/2012
+
+TRIBUNAL ARBITRAL, CONVENTION TARIFAIRE, PHYSIOTHÉRAPEUTE | 43 LAMal, 46 LAMal, 89 LAMal, 5 OPAS
+
+TRIBUNAL
+CANTONAL
+T.arb.
+2/09 - 3/2012
+ZK09.012737
+Tribunal
+arbitral des assurances
+__________________________________________________
+Jugement du
+23 mars 2012
+______________________
+Présidence
+de               M.
+Jomini
+Juges
+:              Mme
+Gross et M. Eugster, arbitres
+Greffière
+:              Mme
+Pellaton
+*****
+Cause
+pendante entre :
+C.________
+,
+à Coppet, demandeur, représenté par Me Christine
+Boldi-Goetschy, avocate à Bâle,
+et
+J.________
+,
+Droit des assurances Suisse romande, à Lausanne, défenderesse.
+_______________
+Art.
+43 et 89 LAMal
+E n  f a i t  :
+A.
+C.________ est physiothérapeute à G.________ (centre physio de G.________). Le Dr T.________,
+à Prangins, lui a adressé un patient, C.M., ferblantier/installateur-sanitaire, né en
+1958, pour un traitement de physiothérapie. La prescription, datée du 21 mars 2007, indique
+la cause de l'atteinte (maladie, par opposition à accident ou atteinte neurologique), les régions
+à traiter (épaule droite, lombaires), les buts du traitement (antalgie/action anti-inflammatoire,
+amélioration de la fonction musculaire) et le nombre de séances prescrites (neuf). Le médecin
+a précisé, sur cette formule (bon), qu'une périarthrite à l'épaule droite ainsi
+qu'une lombosciatalgie droite avaient été diagnostiquées.
+C.________ a effectué le traitement de physiothérapie, qu’il décrit ainsi (dans
+le mémoire-demande – cf. infra, let. E):
+"Traitement
+Epaule
+MTP (massage
+transverse profond) de l’insertion distale du muscle sus-épineux. Renforcement des muscles
+abaisseurs de l’épaule, principalement du grand pectoral et du grand dorsal.
+Apprentissage
+d’exercices à faire à domicile avec un élastique.
+Apprentissage
+des voies de passage (comment lever le bras sans léser le muscle sus-épineux).
+Dos
+Massage des
+muscles paravertébraux.
+Réharmonisation
+douce de l’articulation sacro-iliaque droite.
+Massage du
+muscle ilio-psoas.
+Apprentissage
+d’étirements (pour le muscle ilio-psoas et pour les muscles para-vertébraux).
+Travail de
+détente des ligaments ilio-lombaires.
+Réharmonisation
+douce vertébrale.
+Apprentissage
+d’exercices de renforcement du dos, des stabilisateurs du dos (muscle transverse de l’abdomen)."
+C.________ a ensuite adressé sa note d'honoraires à l'assurance-maladie du patient, J.________,
+le système du tiers-payant étant applicable. Neuf séances ont été facturées,
+pour la période du 21 mars au 26 avril 2007. Pour la première séance, un montant de 92
+fr. 90 a été fixé, correspondant à 101 points selon les positions tarifaires 7311
+et 7350. Pour chacune des huit séances suivantes, un montant de 70 fr. 85 a été facturé,
+correspondant à 77 points selon la position tarifaire 7311. Le montant total de la note d'honoraires
+est de 659 fr. 70.
+J.________ a versé à C.________, le 7 mars 2009, la somme de 419 fr. 50, en précisant
+ce qui suit: "Refus position 7311. Vous facturez la position 7311 pour une thérapie intensive
+par le mouvement. A notre avis, les conditions nécessaires ne sont pas remplies. De ce fait, nous
+vous confirmons la prise en charge des frais conformément à la position 7301".
+B.
+Le tarif appliqué est celui qui a été adopté comme avenant 1 à la Convention
+tarifaire entre la Fédération suisse des physiothérapeutes (FSP) et le Concordat des assureurs-maladie
+suisses (CAMS), la Commission des tarifs médicaux LAA (CTM, l'Assurance-invalidité (AI) et
+l'Office fédéral de l'assurance militaire (OFAM). Cette convention est entrée en vigueur
+le 1
+er
+janvier 1998 et elle était applicable à la date du traitement précité. Elle prévoit
+notamment que "l'indemnisation des prestations du physiothérapeute est réglée suivant
+les dispositions du tarif (avenant 1), qui repose sur le système de la taxation en points; la valeur
+du point est fixée par les parties contractantes dans l'accord sur la valeur du point" (art.
+8 al. 3 et 4 de la Convention tarifaire). Dans le préambule ("remarques préliminaires"),
+il est indiqué que "le texte allemand de la convention tarifaire fait foi".
+Le tarif (avenant 1) comprend les prescriptions suivantes:
+"Généralités:
+1
+Le
+physiothérapeute est libre de choisir les méthodes de traitement en fonction de la prescription
+médicale et de ses connaissances professionnelles. Sur la base de la prescription médicale,
+il choisit le traitement en tenant compte des critères d’économicité et d’efficacité.
+2
+Le tarif est principalement basé sur des forfaits par séance.
+Une
+séance de traitement donne droit à la facturation d’un seul forfait par séance (positions
+7301
+à 7340).
+3
+Un forfait par séance (positions 7301 à 7340) peut être facturé 2x par jour uniquement
+si deux traitements par jour ont été formellement prescrits par le médecin.
+4
+Si les prestations à fournir par séance sont réparties sur l’ensemble de la journée,
+on ne peut facturer qu’une seule fois le forfait.
+Position
+Traitement
+Points
+1. VUE D’ENSEMBLE DU TARIF:
+Forfaits par séance:
+7301
+Forfait par séance pour la physiothérapie générale:
+48
+(p. ex. kinésithérapie, massage et/ou combinaisons avec les
+thérapies sous position 7320)
+7311
+Forfait par séance pour kinésithérapie complexe
+77
+[…]
+Suppléments:
+7350
+Supplément pour le premier traitement
+24
+[…]
+2. FORFAITS PAR SEANCE:
+7301
+Forfait par séance pour physiothérapie générale:
+48
+(p.ex. kinésithérapie, massage et/ou combinaisons
+avec les thérapies selon position 7320)
+1
+Cette position tarifaire couvre tous les traitements
+uniques
+ou
+combinés qui ne sont pas expressément indiqués sous les
+positions
+7311 à 7340.
+2
+La physiothérapie générale comprend
+les méthodes de
+traitement suivantes:
+- kinésithérapie (mobilisation articulaire, kinésithérapie
+passive, mécanothérapie, gymnastique respiratoire y
+compris l'emploi d’appareils servant à traiter
+l’insuffisance respiratoire, gymnastique en piscine)
+- massage manuel et kinésithérapie
+- massage local ou général
+- massage du tissu conjonctif
+- massage réflexogène
+- extensions vertébrales
+- bains électriques
+- massage au jet sous l’eau
+- massage sous l’eau
+- bains hyperthermiques
+- douches médicales et bains médicinaux
+- inhalations d’aérosols
+3
+La position 7301 comprend en outre:
+• les combinaisons physiothérapie générale –
+électrothérapie
+ou thermothérapie
+• la combinaison physiothérapie générale –
+instruction en cas de location d’appareils
+7311
+Forfait par séance pour kinésithérapie complexe
+77
+·
+Kinésithérapie complexe en cas de troubles
+moteurs
+cérébraux
+et/ou médullaires (y compris les
+polyradiculonévrites
+telles que le syndrome de
+Guillain-Barré)
+ou de troubles fonctionnels sévères
+dans
+des conditions difficiles (âge, état général,
+troubles
+de la fonction cérébrale).
+·
+Traitement kinésithérapeutique complexe
+de blessés
+polytraumatisés
+et de patients ayant subi plusieurs
+opérations
+ou présentant les symptômes de
+plusieurs
+maladies concomitantes.
+·
+Thérapie respiratoire en cas de troubles
+graves de la
+ventilation
+pulmonaire.
+1
+Sur demande, l’assureur pourra autoriser
+l’utilisation de
+la position 7311 pour d’autres indications."
+Dans le texte allemand du tarif (qui peut notamment être consulté sur le site www.physioswiss.ch),
+les conditions de l’application du forfait pour kinésithérapie complexe (Sitzungspauschale
+für aufwendige Bewegungstherapie) sont libellées ainsi:
+"•
+Aufwendige Bewegungstherapie bei cerebralen und/oder medullären Bewegungsstörungen (inkl. Polyradiculitiden,
+z.B.Guillain-Barré) oder schweren funktionellen Störungen unter erschwerten Umständen
+(Alter, Allgemeinzustand, Hirnfunktionsstörungen).
+• Aufwendige
+bewegungstherapeutische Behandlung mehrerer Gliedmassen bei mehrfach -verletzten -, mehrfach-operierten
+- oder multimorbiden Patienten.
+• Atemtherapie
+bei schweren Lungenventilationsstörungen."
+C.
+Un échange de correspondances entre C.________ et l'assurance-maladie a révélé des
+divergences au sujet de l'application de la position tarifaire 7311 (kinésithérapie complexe).
+Dans une lettre du 9 août 2007, l'assurance-maladie a demandé au physiothérapeute de corriger
+sa facture ou, sinon, de fournir une justification médicale par le médecin traitant. Le 10
+septembre 2007, C.________ a répondu que le médecin, dans son bon (prescription), demandait
+expressément de traiter deux zones distinctes (épaule et région lombaire), ce qui constituait
+un traitement complexe. Le 18 septembre 2007, l'assurance-maladie a confirmé qu'une justification
+médicale délivrée par le médecin traitant était nécessaire.
+D.
+La Convention tarifaire
+prévoit, en cas de litige entre un assureur et un physiothérapeute ayant adhéré à
+la Convention, la mise en œuvre d'une commission paritaire, qui fait office d'instance contractuelle
+de conciliation (art. 9 al. 1). La commission paritaire a au demeurant la compétence pour toute
+question d'interprétation du tarif (art. 9 al. 4).
+C.________ a saisi la commission paritaire le 17 décembre 2007 du litige l'opposant à J.________.
+Le 16 février 2009, la commission paritaire ("commission paritaire physioswiss – santésuisse/AA/AM/AI")
+a écrit à C.________ qu'elle n'était pas parvenue à trouver une proposition de conciliation
+commune concernant le choix de la position tarifaire. Cette lettre résume la position des représentants
+de physioswiss ("L'ordonnance a été complétée comme il se doit et les indications
+correspondent à la position 7311; le traitement s'est terminé après 9 séances; le
+physiothérapeute a donc agi conformément au principe d'économicité.") et celle
+des représentants de santésuisse ("Il manque un rapport du médecin traitant; étant
+donné le dossier présenté, la multimorbidité n'est pas prouvée; le traitement
+doit donc être remboursé avec la position 7301"). Cette lettre précise encore ce
+qui suit: "Les deux parties s'entendent sur le fait qu'il s'agit de deux régions séparées
+et ne sont donc pas d'accord avec la position de l'assureur qui affirme qu'il s'agit du traitement d'une
+région du corps".
+J.________ a dès lors payé à C.________, pour le traitement concerné, la somme de
+419 fr. 50, en retenant la position tarifaire 7301 (à la place de la position 7311).
+La commission paritaire avait recueilli l'avis du médecin-conseil de l'assurance, le Dr F.________,
+qui avait exposé ce qui suit dans un rapport du 19 août 2008:
+"4.1 Examen
+médical du 21.03.2007
+Périarthrite
+aiguë droite et lombosciatalgie droite.
+Selon ce diagnostic,
+il s’agit d’une seule région du corps, épaule et colonne vertébrale chez un
+patient encore jeune et actif qui est capable de poursuivre les exercices de physio. de manière
+individuelle. Le dos et l’épaule sont liés et non séparés. Il ne s’agit
+pas de deux maladies graves concomitantes. Au vu de l’âge de l’assuré, un problème
+gériatrique n’existe pas et il n’y a pas manque de collaboration. Par conséquent,
+la position 7301 est donc suffisante.
+4.2 Diagnostic(s)
+du médecin
+- Périarthrite
+aiguë droite
+Nouveau traitement
+- Lombosciatalgie
+droite
+Récidive oui
+= maladie d’une
+seule région du corps chez un jeune patient actif et indépendant.
+4.3 Thérapies
+effectuées jusqu’ici
+Thérapie
+au centre physio de G.________, [...]:
+une série
+de 9 séances 7311 du 21 mars au 26.4.2007 selon prescription du médecin:
+Reconditionnement
+à l’effort, tonification de la musculature chez un status post laminectomie L4-L5
+4.4 Buts de
+la thérapie/Pronostic
+A long terme
+bon
+4.5 Justification
+Cf. 4.1. Il
+s’agit d’une physiothérapie peu compliquée chez un jeune patient et qui s’étend
+sur une partie du corps (épaule-dos liés). La position 7301 semble amplement suffisante."
+E.
+Dans un acte du 26 mars 2009 intitulé "recours" et adressé au Tribunal cantonal du
+canton de Vaud, C.________ prend les conclusions suivantes à l'encontre de J.________:
+"
+1.
+Que la défenderesse soit condamnée à payer au demandeur, numéro [...], la facture
+du 24 juillet 2007 d'un montant de CHF 659.70, intérêts de 5% compris, concernant le patient
+C.M. (né le 27 juillet 1958) et que les prestations de physiothérapie fournies par le demandeur
+au patient pendant la période du 21 mars 2007 – 26 avril 2007 soient de ce fait remboursées
+selon la position tarifaire 7311.
+2.
+Que les frais ordinaires et extraordinaires soient mis à la charge de la défenderesse."
+Dans sa réponse déposée le 15 juillet 2009, J.________ conclut au rejet de la demande.
+Elle relève qu’elle a réglé la note d’honoraires litigieuse à concurrence
+de 419 fr. 50, le montant non couvert s’élevant à 240 fr. 20.
+C.________ a déposé des déterminations le 2 décembre 2009; il n'a pas modifié
+ses conclusions.
+F.
+Les parties ont comparu à l'audience du président du Tribunal arbitral du 14 mai 2009. Elles
+ont proposé des arbitres. La conciliation a été tentée et elle n'a pas abouti.
+Mme Beatrice Gross a été désignée comme arbitre représentant le demandeur. M.
+Gebhard Eugster a été désigné comme arbitre représentant la défenderesse.
+G.
+Les parties ont comparu à l’audience du Tribunal arbitral du 12 mai 2010. Elles ont confirmé
+leurs conclusions et renoncé à des mesures d’instruction supplémentaires.
+E n  d r o i t  :
+1.
+Le régime juridictionnel de l'art. 89 LAMal (loi fédérale du 18 mars 1994 sur l'assurance-maladie,
+RS 832.10) est applicable car le présent litige oppose un fournisseur de prestations régies
+par la LAMal (le demandeur, physiothérapeute) à un assureur (la défenderesse) dans le
+cadre de l'assurance obligatoire des soins (art. 3 ss LAMal). Le Tribunal arbitral a été
+saisi et constitué conformément aux dispositions légales (cf. également art. 113
+ss LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la procédure administrative, RSV 173.36]).
+2.
+La défenderesse, qui n'est pas l'assureur accidents (selon la LAA [loi fédérale du 20
+mars 1981 sur l’assurance-accidents, RS 832.20]) du patient traité par le demandeur, fait
+valoir dans sa réponse que ce patient avait été victime d'un accident de travail le 27
+octobre 2005, qu'il était tombé sur l'épaule, qu'une prise en charge médicale avait
+duré jusqu'en avril 2006 (couverte par la Caisse nationale suisse d'assurance en cas d'accidents,
+ci-après: CNA), et que le médecin traitant signalait à l'époque la possibilité
+de suites sous forme d'un risque de déchirure et de douleurs à l'effort. La défenderesse
+expose que si l'on retient "l'aspect multifactoriel maladie/accident du traitement appliqué"
+en 2007, elle-même ne pourrait être rendue responsable que du traitement concernant l'assurance-maladie,
+en l'occurrence le seul traitement de l'affection lombaire. Pour ce traitement portant sur une seule
+région du corps, la position tarifaire 7311 n'entrerait d'emblée par en ligne de compte.
+Le demandeur a en effet présenté, dans son acte introductif (ch. 2.1.3), la justification suivante
+pour le traitement de l'épaule droite: "Tendinite du muscle sus-épineux au niveau de l'insertion
+distale chez un patient ayant eu un accident sur cette épaule en 2005. En effet, ce patient a déjà
+subi des séances de physiothérapie suite à une chute sur cette épaule en 2005".
+Dans ses déterminations sur la réponse, le demandeur a précisé sa position, au regard
+de l'argumentation de la défenderesse: d'après lui, il n'a jamais été mentionné
+que le problème à l'épaule droite, traité en 2007, résultait d'un ancien accident;
+il s'agit clairement d'un nouveau problème sans rapport avec l'accident de 2005, étant précisé
+que les pathologies résultant d'une rupture partielle ou totale du muscle sus-épineux sont
+à classer dans la catégorie maladie et non pas accident (diagnostic allégué: tendinopathie
+de l'insertion distale du muscle sus-épineux).
+Sur la base du dossier, qui ne contient notamment pas de rapport du médecin traitant, il n'est pas
+possible de décrire avec précision l'atteinte à l'épaule droite ayant justifié
+le traitement litigieux. Vu l'ordonnance, ou bon de physiothérapie, du médecin traitant –
+qui mentionne la maladie comme cause des atteintes diagnostiquées – et vu le rapport du médecin-conseil
+de la défenderesse – qui n’évoque pas de cause accidentelle –, il y a lieu
+de considérer qu’il est suffisamment vraisemblable que la défenderesse devait prendre
+seule en charge ce traitement, comme relevant de l’assurance-maladie exclusivement. La défenderesse
+n’avait du reste pas mis en doute son obligation de prise en charge jusqu’au dépôt
+de la présente demande et elle n'a pas contacté l’assureur-accidents. Elle fait valoir
+que "cet aspect était resté oblitéré jusqu’ici" et elle a produit
+des rapports de la CNA, à propos du précédent traitement de l’épaule. Toutefois,
+ces pièces, antérieures à 2007, ne permettent pas d’établir une cause accidentelle
+pour l’atteinte traitée en 2007. Il ne se justifie en outre pas, dans cette procédure
+judiciaire à laquelle le patient n’est pas partie, de réexaminer en détail sa situation
+médicale. En d’autres termes, en ce qui concerne la note d’honoraires litigieuse, il
+y a lieu de retenir qu'il ne s'agit pas d'un cas de prise en charge d'une partie du traitement par l'assurance-accidents.
+En conséquence, il faut considérer, à la suite de la commission paritaire, qu'il s'agit
+d'un traitement portant sur deux régions séparées du corps, à cause de maladies –
+l’affection lombaire et l’atteinte à l’épaule – , et donc que la prise
+en charge par l'assurance-maladie est en principe justifiée. Il n’est pas contesté que
+les prestations du physiothérapeute demandeur font partie des "mesures thérapeutiques,
+conseils et instruction" au sens de l'art. 5 OPAS (ordonnance du DFI du 29 septembre 1995 sur les
+prestations dans l'assurance obligatoire des soins en cas de maladie, RS 832.112.31), qui sont prises
+en charge par l'assurance-maladie lorsqu'elles sont fournies, comme en l'espèce, sur prescription
+médicale.
+3.
+La contestation porte alors sur l'interprétation de la notion de "kinésithérapie
+complexe", employée à propos de la position tarifaire 7311. Cette notion doit être
+interprétée en relation avec la notion de "physiothérapie générale",
+pour laquelle est prévue la position tarifaire 7301, dès lors que cette dernière position
+doit s’appliquer si la position 7311 n’entre pas en considération. La séance de
+physiothérapie générale (48 points) est moins rémunérée que la séance
+de kinésithérapie complexe (77 points).
+a)
+Le système selon lequel les fournisseurs de prestations établissent leurs factures sur la base
+de tarifs est prévu par la LAMal (art. 43 al. 1 LAMal).
+Aux termes de l’art. 43 al. 2 LAMal, le tarif peut notamment se fonder sur le temps consacré
+à la prestation (tarif au temps consacré – let. a); attribuer des points à chacune
+des prestations et fixer la valeur du point (tarif à la prestation – let. b); ou encore
+prévoir un mode de rémunération forfaitaire (tarif forfaitaire – let. c). Le tarif
+peut être fixé par une convention tarifaire conclue entre les fournisseurs de prestations et
+les assureurs (art. 43 al. 4 et art. 46 LAMal).
+En l’espèce, le tarif a été fixé par la convention tarifaire entrée en
+vigueur en 1998. C’est un tarif qui comporte un élément forfaitaire (forfait par séance),
+ce qui signifie que ce n’est pas un tarif au temps consacré. Ainsi, suivant les caractéristiques
+du patient ou du traitement, la séance peut durer plus ou moins longtemps, mais cela n’influencera
+pas le calcul de la rémunération. Selon l’art. 8 de la Convention tarifaire, la rémunération
+repose en outre sur le système de la taxation en points, chaque type de forfait par séance
+valant un certain nombre de points. Conformément à l’art. 43 al. 5 LAMal, les tarifs
+à la prestation doivent se fonder sur une structure tarifaire uniforme, fixée par convention
+sur le plan suisse. Pour que la convention tarifaire s’applique, elle doit encore être approuvée
+par le Conseil fédéral (art. 46 al. 4 LAMal).
+Puisqu’un tarif uniforme est prévu sur le plan suisse, il est logique que pour son interprétation,
+la Convention tarifaire désigne une langue de référence, en l’occurrence la langue
+allemande (voir les "remarques préliminaires" du tarif). Dans le cas particulier, il s’agira
+de déterminer si la définition en français de la position tarifaire 7311 correspond à
+la définition en allemand, et en cas de divergences ou de doutes, il faudra s’inspirer du
+texte allemand.
+En outre, en présence d'un litige sur l'interprétation d'une disposition d'une convention tarifaire,
+qui a une nature contractuelle, le juge doit tout d'abord s'efforcer de déterminer la commune et
+réelle intention des parties à la convention, sans s'arrêter aux expressions ou dénominations
+inexactes dont elles ont pu se servir, soit par erreur, soit pour déguiser la nature véritable
+de la convention (art. 18 al. 1 CO [code des obligations du 30 mars 1911, RS 220]). Si la volonté
+réelle des parties ne peut pas être établie ou si leurs volontés intimes divergent,
+le juge doit interpréter les déclarations faites et les comportements selon la théorie
+de la confiance; il doit donc rechercher comment une déclaration ou une attitude pouvait être
+comprise de bonne foi en fonction de l'ensemble des circonstances; le principe de la confiance permet
+ainsi d'imputer à une partie le sens objectif de sa déclaration ou de son comportement, même
+s'il ne correspond pas à sa volonté intime. Lorsqu'une volonté réelle concordante
+n'a pas été constatée, il faut donc se demander comment le destinataire de cette manifestation
+de volonté pouvait la comprendre de bonne foi (cf. notamment ATF 135 III 410 consid. 3.2).
+b)
+Le demandeur résume ainsi son argumentation: il est clair que le patient présente les symptômes
+de plusieurs maladies concomitantes, qu’il a été traité dans deux régions différentes
+du corps et que le traitement était par conséquent complexe.
+aa)
+La kinésithérapie (selon le Petit Robert: emploi thérapeutique des mouvements de gymnastique
+et des diverses formes de massages; en allemand: Bewegungstherapie) fait en principe partie, d’après
+le tarif, de la physiothérapie générale (position tarifaire 7301). La position 7311 ne
+s’applique qu’à la kinésithérapie complexe (aufwendige Bewegungstherapie).
+bb)
+Le Tribunal fédéral a récemment jugé une affaire concernant l’application des
+positions 7311 ou 7301 (arrêt 9C_331/2011 du 24 août 2011, recours contre un jugement du Tribunal
+arbitral du canton de Lucerne). Le traitement de physiothérapie avait été ordonné
+par un médecin qui avait posé les diagnostics de méniscopathie du genou droit, plaintes
+dans la région de la colonne lombaire et inflammation autour de l’épaule. Devant la commission
+paritaire, les représentants de santésuisse s’étaient prononcés pour l’application
+de la position tarifaire 7301 en estimant que seules deux régions du corps étaient concernées,
+et qu’on ne pouvait pas parler de multimorbidité, l’atteinte au ménisque étant
+de moindre importance. Quant aux représentants de Physioswiss, ils justifiaient la position 7311
+parce que plusieurs membres étaient concernés: la première ordonnance médicale visait
+la colonne lombaire et un genou, la seconde la colonne lombaire et l’épaule (consid. 7.1).
+Le Tribunal fédéral a considéré ce qui suit, en substance: La position tarifaire
+7311 comporte pour l’essentiel trois conditions. Premièrement, il doit s’agir d’un
+traitement complexe (aufwendig). Deuxièmement, il s’agit du traitement kinésithérapeutique
+de plusieurs membres (mehrere Gliedmassen). Troisièmement, le patient doit être soit polytraumatisé,
+soit il doit avoir subi plusieurs opérations, soit encore il doit présenter les symptômes
+de plusieurs maladies concomitantes (entweder mehrfachverletzt, mehrfachoperiert oder multimorbid). Dans
+la procédure 9C_331/2011, seules les conditions de la complexité et de la multimorbidité
+étaient litigieuses.
+Le Tribunal fédéral a finalement rejeté le recours du physiothérapeute, qui demandait
+l’application de la position tarifaire 7311. Il a cité les définitions données par
+deux dictionnaires médicaux au terme de "Multimorbidität" (synonymes: polymorbidité,
+polypathie; en résumé: présence simultanée de plusieurs maladies, ou de plusieurs
+maladies chroniques, en particulier chez les personnes âgées). Le Tribunal fédéral
+a toutefois laissé indécise la question de savoir si la condition de la multimorbidité
+devait être considérée  comme réalisée uniquement en fonction du nombre
+des diagnostics posés, ou si au contraire il fallait encore une interaction entre les différentes
+maladies, chez un patient d’âge avancé. En effet, il a jugé que le recours était
+de toute manière mal fondé. Le traitement ne portait en l’occurrence que sur deux maladies
+(genou et colonne lombaire, colonne lombaire et épaule); en pareil cas, on parle de comorbidité
+(Komorbidität). Il y avait des problèmes fonctionnels dans deux régions du corps différentes,
+sans qu’il y ait une interaction immédiate en ce qui concerne le traitement. Le Tribunal fédéral
+a donc considéré que la deuxième condition du tarif pour la position 7311 n’était
+pas remplie; il a renoncé à se prononcer sur la réalisation des première et troisième
+conditions (consid. 7.2).
+Le Tribunal fédéral s’est prononcé sur l’hypothèse du 2
+e
+point ou paragraphe de la position 7311. Il n’était pas question – pas plus que dans
+la présente affaire – des autres hypothèses de traitement complexe (troubles moteurs
+cérébraux et/ou médullaires, troubles fonctionnels sévères dans des conditions
+difficiles, troubles graves de la ventilation pulmonaire). Il ressort suffisamment clairement de l’arrêt
+précité du Tribunal fédéral qu’il convient alors d’être restrictif
+dans l’application de la position 7311, en la réservant aux cas d'atteintes graves à
+la santé. D’un point de vue global, cela est conforme au principe de l’économicité,
+consacré à l’art. 32 al. 1 LAMal.
+cc)
+En définitive, le Tribunal fédéral retient, en résumé, trois conditions pour
+appliquer la position 7311, dans une situation comparable à celle actuellement litigieuse, à
+savoir la complexité du traitement kinésithérapeutique, le traitement de plusieurs membres
+et la  multimorbidité. Il paraît retenir que ces conditions sont cumulatives.
+A propos de la première condition, il faut déterminer si la physiothérapie peut être
+considérée comme compliquée et si elle nécessite la mise ne œuvre de moyens
+particuliers. Est complexe ce qui est difficile à cause de sa complication (définition du mot
+"complexe" dans le Petit Robert: "qui contient, qui réunit plusieurs éléments
+différents; difficile, à cause de sa complication"). D'après le texte allemand, on
+peut aussi comprendre que le traitement doit être coûteux (définition du mot "aufwendig").
+La deuxième condition – "Behandlung mehrerer Gliedmassen" – ne ressort pas
+directement du texte français, mais comme la version allemande fait référence, cette condition
+ne peut pas être omise dans l’application d’un tarif uniforme valant pour l’ensemble
+du pays. Le Tribunal fédéral n’a du reste pas mis en doute que le texte allemand était
+applicable tel quel, sans restrictions, ce dont on peut déduire qu’il exprime la volonté
+réelle des parties à la convention tarifaire. Le terme "Gliedmassen" signifie selon
+le dictionnaire Klinisches Wörterbuch de Pschyrembel: "Extremitäten, Arme und Beine"
+(définition analogue dans le Lexikon Medizin de Roche). Cela vise les bras et les jambes, ou bien
+les mains et les pieds (cf. aussi Langenscheidts Grosswörterbuch, allemand-français: Gliedmassen
+= membres). La position 7311 implique ainsi le traitement de plusieurs membres ou extrémités.
+Le terme "Gliedmassen" ou "membres", interprété selon la théorie de
+la confiance (cf. supra, consid. 3a), ne saurait avoir le sens de "région du corps". Par
+exemple le dos, s'il est bien une région du corps, n'est pas un membre. Si les parties à la
+convention tarifaire avaient voulu fixer comme condition le traitement de plusieurs régions du corps,
+elles l'auraient précisé, et n'auraient pas employé le terme de "Gliedmassen"
+ou "membres", dont la définition n'est pas aussi large.
+S’agissant de la troisième condition, il y a lieu de relever que les termes "comorbidité"
+et "multimorbidité" sont des néologismes, dont il est difficile de donner une définition
+unique ou exacte. Le terme "comorbidité" est souvent utilisé dans le domaine de la
+psychiatrie, et la jurisprudence le mentionne régulièrement en relation avec les troubles somatoformes
+douloureux et atteintes apparentées (cf. ATF 130 V 352 consid. 2.2.3). Son sens est plus difficile
+à cerner s’agissant des troubles somatiques. En particulier, il n’est pas certain que
+l’on puisse sans autre appliquer le terme de comorbidité, voire celui de multimorbidité,
+aux "patients présentant les symptômes de plusieurs maladies concomitantes", au sens
+de la réglementation de la position tarifaire 7311. Cette question n’a toutefois pas à
+être résolue dans le présent jugement.
+c)
+On peut admettre, dans le cas particulier, la présence de deux maladies concomitantes, dans la mesure
+où il y a à la fois une atteinte à l’épaule et une atteinte au dos. En revanche,
+le traitement prescrit ne portait pas sur plusieurs membres, mais sur un membre (le bras) et une partie
+du corps à laquelle il est lié (le dos). Il manque donc la deuxième condition –
+traitement kinésithérapeutique de plusieurs membres – pour l’application de la
+position 7311. Il ne suffit en effet pas que deux régions du corps, par ailleurs liées entre
+elles, soient traitées. En outre, le traitement effectué par le demandeur, tel qu’il
+a été décrit par lui, est un traitement ordinaire qui ne comporte aucun élément
+de complexité. Il s’agit pour l’essentiel de massages et d’apprentissages d’exercices,
+pour un patient jeune et en bonne santé, donc d’actes qui relèvent en principe de la
+physiothérapie ordinaire ou générale. Le traitement ordonné par le médecin s’est
+concentré sur une seule série de neuf séances et il n’a jamais été question
+de complications. Si le traitement de deux régions du corps peut être de nature à prolonger
+la durée de l’une ou l’autre séance, cela n’est pas déterminant, dès
+lors que le système du forfait par séance fait en principe abstraction du temps consacré
+(cf. supra, consid. 3a). On ne saurait en effet qualifier de kinésithérapie complexe tout traitement
+qui implique une durée de séance supérieure à la moyenne. Le médecin-conseil
+de l’assurance a au demeurant indiqué qu’il s’agissait d’une "physiothérapie
+peu compliquée chez un jeune patient", ce que le demandeur n’a pas sérieusement
+contesté. La première condition pour l’application de la position 7311 – la complexité
+– fait donc également défaut.
+d)
+Sur le vu de ce qui vient d’être exposé, il apparaît que la défenderesse était
+fondée à refuser l’application de la position tarifaire 7311, et par conséquent
+de rémunérer le demandeur sur la base de la position tarifaire 7301. Les conclusions de la
+demande doivent donc être rejetées. Cela étant, il y a lieu de prendre acte ici que la
+défenderesse, quand bien même elle concluait au rejet de la demande, a payé au demandeur
+la rémunération due selon la position tarifaire 7301, ce qui n’était pas litigieux.
+4.
+Les frais de la procédure devant le Tribunal arbitral doivent être mis à la charge du
+demandeur, qui succombe (art. 95 al. 1 et 2 et 106 al. 1 CPC, par renvoi des art. 116 et 109 al. 2 LPA-VD).
+Ils comportent l’émolument judiciaire perçu par le Tribunal cantonal, arrêté
+à 2'000 fr., ainsi que la rémunération des arbitres, qu’il y a lieu de fixer à
+2'500 fr. par arbitre. La défenderesse, qui n’est pas représentée par un avocat,
+n’a pas droit à des dépens.
+Par
+ces motifs,
+le
+Tribunal arbitral des assurances
+:
+I.
+Rejette la demande.
+II.
+Met à la charge du demandeur C.________ un émolument judiciaire de 2'000 fr. (deux mille francs).
+III.
+Met à la charge du demandeur C.________ les frais des arbitres, soit au total 5'000 fr. (cinq mille
+francs), représentant une rémunération de 2'500 fr. (deux mille cinq cents francs) par
+arbitre.
+IV.
+Dit qu'il n'est pas alloué de dépens.
+Le
+président :
+La greffière :
+Du
+Le jugement qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Christine Boldi-Goetschy, avocate (pour C.________),
+‑
+J.________, Droit des assurances Suisse romande,
+-
+Office fédéral de la santé publique,
+par
+l'envoi de photocopies.
+Le présent jugement peut faire l'objet d'un recours en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
