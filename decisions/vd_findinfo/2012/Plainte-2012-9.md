@@ -1,0 +1,460 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 9"
+decided: "2012-03-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3178500"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-824.md", "switzerland/bund/acts/210/art-825.md", "switzerland/bund/acts/210/art-842.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-037.md", "switzerland/bund/acts/281.1/art-041.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 9
+
+## Regeste
+
+CÉDULE HYPOTHÉCAIRE, CRÉANCE GARANTIE PAR GAGE, POURSUITE EN RÉALISATION DE GAGE, POURSUITE PAR VOIE DE SAISIE, BENEFICIUM EXCUSSIONIS REALIS, CONTRAT FIDUCIAIRE | 17 LP, 41 al. 1bis LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.03.2012 Plainte / 2012 / 9
+
+CÉDULE HYPOTHÉCAIRE, CRÉANCE GARANTIE PAR GAGE, POURSUITE EN RÉALISATION DE GAGE, POURSUITE PAR VOIE DE SAISIE, BENEFICIUM EXCUSSIONIS REALIS, CONTRAT FIDUCIAIRE | 17 LP, 41 al. 1bis LP
+
+TRIBUNAL
+CANTONAL
+FA11.031210-120011
+10
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 mars 2012
+_________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Muller
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 et 41 al. 1 bis LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.X.________
+,
+à Nyon, contre la décision rendue le 13 décembre 2011, à la suite de l’audience
+du 26 septembre 2011, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte du recourant contre la notification du commandement
+de payer dans la poursuite n° 5'895'270 de l'
+OFFICE
+DES POURSUITES DU DISTRICT DE NYON
+, exercée
+par la
+BANQUE CANTONALE VAUDOISE
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+15 décembre 2009, la Cour civile a rendu un jugement dans la cause opposant A.X.________ et B.X.________
+à la Banque Cantonale Vaudoise (ci-après : BCV).
+Il s'agissait d'une action en libération de dette exercée par les demandeurs, qui concluaient
+notamment qu'ils n'étaient pas les débiteurs de la BCV des montants objets des poursuites en
+réalisation de gage immobilier n° 412'210, 412'211, 412’212-01 et 412’212-02 de
+l’Office des poursuites de Nyon. De son côté, la BCV avait pris des conclusions reconventionnelles
+en paiement des soldes des comptes des demandeurs.
+Par ce jugement, la Cour civile a notamment :
+-
+admis partiellement l’action en libération de dette des demandeurs (ch. I);
+-
+condamné A.X.________ à payer à la BCV la somme de 4'219'456 fr., avec intérêt
+à 8,5 % dès le 30 septembre 1993, sous déduction de dix-huit versements de 3'000 francs,
+de quatre versements de 6'000 fr., d’un versement de 19'523 fr. 10 et d’un versement de 5'125
+fr. 35, valeur à la date de leur paiement (ch. II);
+-
+condamné A.X.________ à payer à la BCV la somme de 3'916’406 fr. 26, avec intérêts
+à 8,7/8 % dès le 27 février 1993 (ch. III) ;
+-
+levé définitivement les oppositions formées par les demandeurs aux commandements de payer
+dans la poursuite en réalisation de gage immobilier n° 412'210, à concurrence de
+6'000'000 fr., avec intérêt dès le 4 septembre 2000, à 8,7/8 % l'an sur la somme
+de 3'916'406 fr. 25 et à 8,5 % l'an sur le solde (ch. VI);
+-
+levé définitivement les oppositions formées par les demandeurs aux commandements de payer
+dans la poursuite en réalisation de gage immobilier n° 412'211, à concurrence de
+6'000'000 fr., avec intérêt dès le 4 septembre 2000 à 8,7/8 % l'an sur la somme de
+3'916'406 fr. 25 et à 8,5 % l'an sur le solde (ch. VII);
+-
+levé définitivement l’opposition formée par A.X.________ au commandement de payer
+n° 412’212-02 à concurrence de 2'000'000 fr., avec intérêt à 8,5 % dès
+le 4 septembre 2000  (ch. IX);
+-
+dit qu'A.X.________ versera à la BCV la somme de 92'423 fr. 25 à titre de dépens (XI).
+Par arrêt du 25 novembre 2010, la Chambre des recours a rejeté les recours des demandeurs contre
+le jugement de la Cour civile. Ceux-ci ont recouru au Tribunal fédéral qui a également
+rejeté leurs recours dans un arrêt du 30 août 2011.
+b)
+Il ressort du jugement de la Cour civile et de l’arrêt du Tribunal fédéral les faits
+suivants :
+-
+Le 31 mai 1990, la Caisse d’Epargne et de Crédit de Lausanne a accordé à A.X.________
+un crédit en compte courant de 6'000'000 fr., garanti par la cession en propriété à
+la banque de la cédule hypothécaire au porteur n° 241'725, de 6'000'000 francs, grevant
+en premier rang la quote-part d’une demie d’A.X.________ sur la parcelle [...] de Nyon. Dite
+cédule avait été constituée le 9 février 1990.
+-
+Le 26 juillet 1990, la Caisse d’Epargne et de Crédit a accepté de maintenir à 3'750'000
+fr. le nominal du compte-courant n° 122’022-5 moyennant la cession en propriété
+de la cédule précitée et d’une cédule hypothécaire au porteur n°
+234'713 de 2'000'000 fr. grevant en premier rang la parcelle [...] de Nyon. Dite cédule avait été
+constituée le 23 mars 1989.
+-
+Le 27 août 1990, A.X.________ a signé un "acte de cession en propriété et à
+fin de garantie d'un titre hypothécaire" de la cédule n° 241'715. Il a en outre signé
+avec son frère B.X.________ un acte de cession en propriété de la cédule n°
+234'713.
+-
+Par courrier du 10 décembre 1993, la Caisse d’Epargne et de Crédit a dénoncé
+les crédits du demandeur, savoir les montants de 4'219'456 fr. du compte courant n°
+122’022-5
+et de 3'916'406 fr. 26 du compte avance à terme fixe n° 137’802-3.
+En droit, la Cour civile a notamment considéré que les demandeurs devaient payer à la
+défenderesse, qui avait repris les actifs et les passifs de la Caisse d’Epargne et de Crédit
+à la suite d’une reprise de cette banque par le Crédit foncier vaudois, puis d’une
+fusion de cet établissement avec la BCV, les soldes des avances à terme fixe et des comptes
+courants à la date de la résiliation de ces prêts, sous déduction des versements
+effectués postérieurement à la résiliation, d’avril 2000 à juillet 2002.
+Elle a constaté que les accords passés entre la BCV et les demandeurs précisaient que
+la cession en propriété des cédules hypothécaires avait pour but de garantir les
+crédits en compte courant et les avances à terme fixe consentis par la banque et en a déduit
+que les parties avaient voulu laisser subsister en parallèle les créances causales issues des
+contrats de prêt et les créances abstraites incorporées dans les cédules. La Cour
+civile a prononcé la mainlevée définitive des oppositions pour le nominal des cédules,
+puisque l’addition des créances causales à l’égard des deux demandeurs représentait
+un montant supérieur à celui des cédules, de sorte que le
+pactum
+de non petendo
+n’était pas violé.
+2.
+Il résulte encore du dossier de première instance notamment les faits suivants :
+-
+La BCV détient une cédule hypothécaire au porteur n° 101'516 de 50'000 francs. Cette
+cédule, constituée le 17 février 1961 par C.X.________ qui est mentionné comme débiteur
+initial, grève en premier et parité de rang les parcelles n
+os
+[...] de la commune de Nyon, propriété d'A.X.________ et B.X.________.
+-
+Par lettre du 7 février 1980, la BCV a déclaré accorder à B.X.________ et A.X.________,
+fils de C.X.________, un prêt en compte courant au nominal de 50'000 fr. garanti par le nantissement
+par C.X.________ de la cédule hypothécaire de 50'000 fr. avec un autre titre de 60'000 fr.,
+dans une case hypothécaire 1
+er
+rang totale de
+110'000
+francs. La banque invitait B.X.________ et A.X.________ à prendre contact avec elle pour la signature
+des documents et à lui retourner la lettre signée. La copie produite par le plaignant n’est
+pas signée. Le jugement de la Cour civile ne fait aucune mention de la cédule hypothécaire
+de 50'000 fr., comme garantie des prêts qui font l’objet de ce jugement.
+3.
+Sur réquisition de la BCV, l’Office des poursuites du district de Nyon a notifié le 12
+août 2011 à A.X.________ un commandement de payer, dans la poursuite ordinaire n° 5'895'270,
+en paiement des montants qui font l’objet des chiffres II, III et XI du jugement de la Cour civile,
+en invoquant comme titre de la créance : "Montants dus selon jugement de la Cour civile
+du Tribunal cantonal du 25 novembre 2009". Le poursuivi a formé opposition totale à ce
+commandement de payer.
+Le 22 août 2011, A.X.________ a déposé une plainte au sens de l'art. 17 LP contre
+les mesures opérées dans le cadre de la poursuite précitée, en particulier contre
+la notification du commandement de payer, invoquant le
+beneficium
+excussionis realis
+et concluant à l’annulation
+de tout acte tendant à la poursuite par voie ordinaire.
+Dans ses déterminations du 14 septembre 2011, l’office s’en est remis à justice.
+L’intimée a conclu au rejet de la plainte dans une écriture du 23 septembre 2011.
+Dans une écriture du 17 octobre 2011, le plaignant a requis la production d'un certain nombre de
+pièces en mains de l'intimée, en particulier :
+-
+toute pièce démontrant que la BCV a entrepris des démarches pour restituer la cédule
+hypothécaire n° 101'516 depuis l'année 2000,
+-
+toute pièce établissant que la BCV avait à son encontre une autre créance que celles
+figurant dans l'arrêt du Tribunal fédéral, et cela en 2000, 2003 et 2009.
+L'intimée a produit le 31 octobre 2011 :
+-
+une lettre adressée le 16 février 2001 à Me Jean-Paul Dubois, notaire à Nyon, indiquant
+que la cédule hypothécaire n° 101'516 lui était remise par la BCV et qu'un autre
+titre hypothécaire de 60'000 fr. lui avait été remis directement par B.X.________, afin
+que soient instrumentés les actes nécessaires en vue d'augmenter un titre hypothécaire
+de 2'135'000 francs;
+-
+un accusé de réception par le notaire précité de la cédule hypothécaire
+n° 101'516;
+-
+une lettre du notaire Jean-Paul Dubois à la BCV, du 11 juin 2003, restituant la cédule hypothécaire
+n° 101'516, puisque A.X.________ et B.X.________ ne désiraient pas donner suite à la création
+d'une cédule hypothécaire de 2'135'000 francs.
+4.
+Par prononcé du 13 décembre 2011, la Présidente du Tribunal d'arrondissement de La Côte,
+en sa qualité d’autorité inférieure de surveillance, a rejeté la plainte et
+rendu sa décision sans frais ni dépens.
+Le premier juge a retenu en substance que l'art. 41 al. 1 bis LP ne pouvait être invoqué dans
+le cas d'espèce dès lors qu'il y avait clairement deux créances distinctes. Le choix des
+poursuites en réalisation de gage immobilier pour le recouvrement des créances abstraites incorporées
+dans les cédules hypothécaires n'excluait donc pas celui de la poursuite ordinaire en remboursement
+des créances causales résultant des prêts accordés par l'intimée. Le premier
+juge a par ailleurs considéré, en se fondant sur les considérants du jugement de la Cour
+civile du 15 décembre 2009, que les créances objets de la poursuite litigieuse n'étaient
+pas garanties par un gage.
+Le plaignant a recouru par acte du 23 décembre 2011 contre cette décision qui lui a été
+notifiée le 14 décembre 2011, concluant avec dépens à l’annulation de la décision
+et des actes de la poursuite ordinaire n° 5'895'270, en
+particulier
+à l’annulation du commandement de payer, subsidiairement à l’annulation de la décision
+et au renvoi de la cause à l’autorité inférieure.
+Par décision du 10 janvier 2012, le président de la cour de céans a admis la requête
+d'effet suspensif contenue dans le recours.
+Le 27 janvier 2012, l'Office des poursuites du district de Nyon s'est référé à ses
+déterminations de première instance.
+Dans son mémoire du même jour, l’intimée a conclu, avec suite de frais et dépens,
+au rejet du recours.
+A l’appui de sa détermination sur le recours, la BCV a produit une lettre qu'elle avait adressée
+le 6 juin 1991 à A.X.________ et B.X.________, par laquelle, se référant au compte courant
+débiteur 674.336.2 et à un avis du Registre foncier du 31 mai précédent, elle déclarait
+avoir pris note des modifications intervenues sur les bien-fonds grevés et précisé que
+les garanties sur l’engagement étaient désormais les suivantes : cession de la propriété
+de la cédule hypothécaire 1
+er
+rang sur la parcelle [...] [...] et 1
+er
+et parité de rang de 50'000 fr. dans une case hypothécaire 1
+er
+rang totale de 110'000 fr. grevant les parcelles [...], [...], [...], [...] et [...]. Au pied de cette
+lettre figurent la date du 22 juillet et les signatures d'A.X.________ et de B.X.________  sous
+la mention "Nous acceptons, sans réserve, conjointement et solidairement le contenu de
+la présente".
+Elle a également produit l’acte de cession en propriété et à fin de garantie
+de la cédule hypothécaire 1
+er
+rang de 50'000 fr. grevant les parcelles précitées "en garantie des prétentions actuelles
+et futures de la BCV à l’encontre (…) d’eux-mêmes", qui porte la date
+du 10 juin 1991 et au titre de "cédant" les signatures d'A.X.________ et de B.X.________.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les pièces nouvelles produites par l'intimée en deuxième instance sont également
+recevables (art. 28 al. 4 LVLP).
+II.
+Le recourant invoque des
+moyens de réforme et subsidiairement des moyens de nullité. En nullité, il se plaint d’une
+motivation insuffisante de la décision attaquée, reprochant en particulier à l’autorité
+inférieure de n’avoir pas traité tous les arguments soulevés devant lui. De la sorte,
+il soulève le grief tiré d’une violation de son droit d’être entendu.
+Le vice relatif à une motivation insuffisante de l’entier d’une décision ne peut
+pas être corrigé par la cour de céans dans le cadre d’un recours en réforme,
+sans  compromettre la garantie de la double instance. La jurisprudence fédérale souligne
+en effet que la guérison d’une violation du droit d’être entendu devant l’instance
+de recours doit rester l’exception et n’est possible que si la violation porte sur un point
+qui n’est pas décisif (ATF 126 V 130 c. 2b; ATF 124 V 389 c. 5a).
+En vertu de l'art. 27 LVLP, le prononcé mentionne brièvement les opérations de l'instruction,
+les déclarations importantes des parties, les faits de la cause et les motifs.
+Selon la jurisprudence, le droit d’être entendu, tel qu’il est garanti par l’art.
+29 al. 2 Cst (Constitution fédérale de la Confédération suisse du 18 avril 1999,
+RS 101), implique notamment l’obligation pour le juge de motiver ses décisions, afin que le
+justiciable puisse comprendre et exercer ses droits de recours à bon escient. Le juge doit ainsi
+mentionner, au moins brièvement, les motifs qui l’ont guidé et sur
+lesquels
+il a fondé sa décision, de manière à ce que l’intéressé puisse se
+rendre compte de la portée de celle-ci et l’attaquer en connaissance de cause, mais aussi
+à ce que l’autorité de recours puisse contrôler l’application du droit ;
+il n’a toutefois pas l’obligation d’exposer et de discuter tous les faits, moyens de
+preuve et griefs invoqués par les parties, mais peut au contraire se limiter à ceux qui, sans
+arbitraire, apparaissent pertinents (ATF 134 I 83 c. 4.1; TF 4A_265/2008 du 26 août 2008 c. 2.1.1).
+En l’espèce, l’autorité inférieure a motivé sa décision. Elle a
+en particulier exposé clairement, et de manière suffisante, pour quels motifs elle a considéré
+que le recourant n’avait pas établi que les créances faisant l’objet de la poursuite
+litigieuse étaient garanties par la cédule hypothécaire n° 101'516 de 50'000 francs.
+Le recourant reproche également à l’autorité inférieure de surveillance de
+ne pas avoir donné suite à toutes ses réquisitions de production de pièces. Toutefois,
+comme il l’admet lui-même dans son recours, ce grief ne constitue un motif de nullité
+que s’il ne peut être réparé devant l’instance de recours. Or, les pièces
+nouvelles sont recevables devant l’instance de recours (art. 28 al. LVLP) et l’autorité
+supérieure peut également inviter les parties à collaborer (art. 20a al. 2 ch. 2 LP).
+Le motif de nullité est donc inexistant.
+III.
+a)
+La cédule hypothécaire est une créance
+personnelle garantie par un gage immobilier (art. 842 CC). Il s’agit d’un papier-valeur qui
+incorpore à la fois la créance et le droit de gage immobilier qui en est l’accessoire.
+Le créancier qui a reçu la cédule hypothécaire au porteur comme propriétaire
+fiduciaire aux fins de garantie est titulaire de la créance et du droit de gage immobilier incorporés
+dans le papier-valeur. En revanche, alors qu’en cas de transfert en pleine propriété,
+la créance causale est éteinte par novation et remplacée par la créance abstraite
+incorporée dans la cédule, il n’y a pas de novation de la créance causale lorsque
+la cédule hypothécaire au porteur est remise à titre de garantie fiduciaire; dans ce dernier
+cas, la créance incorporée dans la cédule se juxtapose à la créance garantie
+(causale) en vue d’en faciliter le recouvrement (TF 5A_226/2007 du 20 novembre 2007, c. 5 et les
+réf. citées; ATF 136 III 288 et les réf. citées).
+En l'espèce, les cédules hypothécaires N
+os
+241'725 et 234'713 grevant les parcelles [...] et [...] de la commune de Nyon ont été cédées
+en propriété en garantie de crédits accordés au recourant et à son frère.
+Il s'ensuit, comme l'a retenu la Cour civile dans son jugement du 15 décembre 2009, que les parties
+ont opté pour la juxtaposition des créances causales issues des contrats de prêt et des
+créances abstraites incorporées dans les cédules.
+b)
+Il
+découle de la distinction des deux créances, abstraite et causale, que l’une et l’autre
+peuvent faire l’objet d’une exécution forcée : la créance abstraite doit
+faire l’objet d’une poursuite en réalisation de gage immobilier alors que la créance
+causale, résultant du contrat de prêt, peut faire l’objet d’une poursuite ordinaire
+(ATF 136 III 288 précité, c. 3.1 ; TF 7B.175/2001 du 11 octobre 2001; ATF 119 III 105).
+C’est donc à bon droit que l’autorité inférieure de surveillance a jugé
+que le recourant ne pouvait, en invoquant les cédules hypothécaires n
+os
+241'725 et 234'713,  revendiquer le
+beneficium
+excussionis realis
+de l’art. 41 al. 1 bis
+LP pour les créances qui font l’objet de la poursuite litigieuse n° 5'895'270. Les créances
+causales et la créance en paiement de dépens qui font l’objet de cette poursuite ordinaire
+ne sont pas assorties des gages immobiliers mentionnés ci-dessus.
+c)
+Le recourant précise dans son recours qu’il ne méconnaît pas le droit pour l’établissement
+bancaire d’introduire une poursuite ordinaire en recouvrement de la créance causale, mais
+fait toutefois valoir que lorsque la banque poursuit une réalisation de gage pour la créance
+cédulaire, elle n’est alors pas autorisée à introduire une poursuite ordinaire pour
+la créance causale, à tout le moins à hauteur du montant maximum de la créance cédulaire
+avec accessoires. Il soutient qu’en l’espèce, les créances en capital sont couvertes
+par la procédure de réalisation du gage immobilier.
+Afin de respecter le
+pactum
+de non petendo
+qui résulte du contrat de
+fiducie, le créancier propriétaire fiduciaire de la cédule aux fins de garantie ne peut
+en effet poursuivre la créance abstraite pour un montant supérieur à celui de la
+créance
+causale. Plus précisément, si le créancier poursuit pour le montant de la créance
+incorporée dans le titre alors que la créance garantie est d’un montant inférieur,
+le débiteur poursuivi peut, dans le cadre de la procédure de mainlevée, opposer les exceptions
+personnelles dont il dispose contre le poursuivant (propriétaire fiduciaire), en particulier celle
+consistant à exiger la limitation de la somme réclamée au montant de la créance garantie
+(TF 5A_226/2007 du 20 novembre 2007 déjà cité, c. 5).
+Le fait que le créancier propriétaire fiduciaire de la cédule à des fins de garantie
+ne puisse obtenir un montant supérieur à celui de la créance garantie ne signifie pas
+que seul le montant de la créance causale qui excède celui de la créance abstraite peut
+faire l’objet d’une poursuite ordinaire. Tant que le gage n’est pas réalisé,
+on ignore quel sera le produit de la poursuite en réalisation de gage. Par ailleurs, la LP n’interdit
+même pas que deux poursuites soient introduites simultanément ou successivement pour une même
+créance (Panchaud & Caprez, La mainlevée d’opposition, § 39).
+En l’espèce, il ne s’agit de toute manière pas de la même créance, mais
+de deux créances distinctes, l’une abstraite, l’autre causale. Le
+pactum
+de non petendo
+ne s’oppose pas à la
+poursuite simultanée ou successive des créances. C’est au stade de la réalisation
+du gage que l’office inscrira le cas échéant à l’état des charges une
+créance d’un montant inférieur si la poursuite ordinaire a déjà permis un remboursement.
+Dans le cas contraire, si le gage a été réalisé dans un premier temps et a effectivement
+permis de verser à la banque un quelconque montant, le recourant pourra se prévaloir de ce
+paiement, au stade de la mainlevée ou à un stade ultérieur de la poursuite.
+IV.
+Le recourant excipe du
+beneficium
+excussionis realis
+en se fondant sur la cédule
+hypothécaire n° 101'516 de 50'000 francs. Il fait valoir que ce titre a été remis
+en nantissement à la banque et soutient qu’il garantit les créances qui font l’objet
+de la poursuite ordinaire n° 5'895'570, pour le motif notamment qu’à ce jour, la banque
+ne détiendrait plus d’autre créance à l’encontre du recourant et de son frère
+que celles qui ont fait l’objet du jugement de la Cour civile.
+Il appartient au débiteur qui se prévaut de l’art. 41 al. 1 bis LP d’établir
+de façon claire que la prétention en poursuite est garantie par un gage répondant à
+la définition de l’art. 37 LP (Commentaire, n. 11 ad art. 41 LP et les arrêts cités).
+Le terme "gage" employé seul comprend les gages mobiliers et immobiliers (art. 37
+al. 3 LP). Selon la loi, une hypothèque peut garantir une créance quelconque actuelle et future
+ou simplement éventuelle (art. 824 al. 1 CC), même une créance d’un montant indéterminé
+ou variable (art. 825 al. 1 CC). Les conditions générales de banque prévoient généralement
+une garantie très étendue en leur faveur en visant de manière générale toutes
+les créances actuelles et futures. Avec la doctrine majoritaire, le Tribunal fédéral admet
+que sont visées les créances dont le constituant du gage pouvait raisonnablement envisager
+l’existence au moment où il exprimait son accord (ATF 136 III 288 précité, c. 4.1
+et les réf. citées).
+En l’espèce, aucune pièce du dossier de première instance n’indique expressément
+que la cédule hypothécaire de 50'000 fr. garantit les créances qui font l’objet
+de la poursuite ordinaire litigieuse. La question paraît toutefois résolue par l’acte
+de cession signé le 10 juin 1991 par A.X.________ et B.X.________ et produit par la banque dans
+le cadre du recours. Cet acte précise en effet que la cédule est remise en garantie "des
+créances actuelles et futures de la BCV à l’égard des cédants". Or, les
+créances litigieuses étaient antérieures à l’acte de cession et peuvent donc
+être considérées comme visées par cet acte.
+Ce document scelle par ailleurs l’issue du recours, dans la mesure où il établit que,
+contrairement à ce qu’allègue le recourant, l’intimée détient la cédule
+hypothécaire en qualité de propriétaire à des fins de garantie des créances
+actuelles et futures de la banque et non en nantissement. Partant, conformément au mécanisme
+de la juxtaposition des créances exposé précédemment (cf. supra ch. III let. a),
+les deux créances, abstraite et causale, ont continué à coexister et la banque peut poursuivre
+pour la créance causale, qui n’est pas garantie par un gage, dans le cadre d’une procédure
+ordinaire.
+Comme l'a retenu le premier juge, c’est donc en vain que le recourant excipe du
+beneficium
+excussionis realis
+en invoquant la cédule
+hypothécaire de 50'000 francs.
+V.
+Le recours doit en conséquence être
+rejeté et le prononcé maintenu.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, Ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite, RS 281.35)
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est maintenu.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+29 mars 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mes Jacques Michod et Olivier Righetti, avocats (pour A.X.________),
+‑
+Me Jean-Samuel Leuba (pour la Banque Cantonale Vaudoise),
+‑
+M. le Préposé à l'Office des poursuites du district de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
