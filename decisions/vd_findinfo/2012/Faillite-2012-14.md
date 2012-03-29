@@ -1,0 +1,136 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 14"
+decided: "2012-03-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3179360"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/281.1/art-056.md", "switzerland/bund/acts/281.1/art-063.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 14
+
+## Regeste
+
+OBSERVATION DU DÉLAI, DÉLAI DE RECOURS, OUVERTURE DE LA FAILLITE | 174 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.03.2012 Faillite / 2012 / 14
+
+OBSERVATION DU DÉLAI, DÉLAI DE RECOURS, OUVERTURE DE LA FAILLITE | 174 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FF11.041601-120085
+163
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 mars 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Bosshard
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 LP
+Vu le jugement rendu le 7 décembre 2011, à la suite de l'audience du 1
+er
+décembre 2011, par le Président du Tribunal d'arrondissement de Lausanne, statuant par défaut
+de la partie requérante, prononçant la faillite de
+V.________
+,
+à Prilly, le 6 décembre 2011 à 16 heures, à la réquisition de
+c.________
+,
+à Martigny, et mettant les frais, par 200 fr., à la charge du failli,
+vu le recours formé contre ce jugement par V.________, par acte déposé le 13 janvier 2012,
+comprenant une requête d'effet suspensif,
+vu la décision du Président de la cour de céans du 24 janvier 2012, accordant l'effet
+suspensif et ordonnant, à titre de mesures conservatoires, l'inventaire et l'audition du failli,
+vu la lettre recommandée du 14 février 2012 du Président de la cour de céans à
+V.________, constatant que le recours de celui-ci paraissait tardif et lui impartissant un délai
+au 24 février 2012 pour fournir toutes explications utiles sur les raisons pour lesquelles il n'aurait
+pas respecté le délai légal de recours,
+vu le renvoi de ce pli par La Poste au greffe de la cour de céans à l'échéance du
+délai de garde, avec la mention "non réclamé";
+attendu que la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+(art. 174 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1]),
+qu'en l'espèce, le pli contenant le jugement adressé pour notification à V.________ le
+7 décembre 2011 a été renvoyé par La Poste au greffe du Tribunal d'arrondissement
+de Lausanne, après l'échéance du délai de garde tombée le 15 décembre 2011,
+avec la mention "non réclamé",
+que l'intéressé, qui était présent à l'audience de faillite du 1
+er
+décembre
+2011 et à qui la commination de faillite avait en outre été valablement notifiée
+le 23 juin 2011, devait s'attendre à recevoir une décision du juge de la faillite, de
+sorte qu'il est réputé avoir reçu le jugement du 7 décembre 2011 au plus tard le
+dernier jour du délai de garde, soit le 15 décembre 2011,
+que, compte tenu des féries de Noël (art. 56 ch. 2 LP), le délai pour recourir était
+prolongé jusqu'au troisième jour utile suivant la fin des féries (art. 63 LP), soit jusqu'au
+5 janvier 2012,
+que le recours déposé le 13 janvier 2012 a ainsi été formé tardivement,
+que le recourant est également réputé avoir reçu l'avis présidentiel du 14 février
+2012 au plus tard le dernier jour du délai de garde, dès lors qu'ayant engagé une procédure
+de recours, il devait s'attendre à recevoir du courrier de l'autorité compétente (art.
+138 al. 3 let. a CPC [Code de procédure civile; RS 272]),
+qu'il n'a donné aucune suite à cet avis,
+que cette absence d'explication ne permet pas de considérer qu'il a été sans sa faute
+empêché d'agir dans le délai légal de recours,
+que le recours doit par conséquent être déclaré irrecevable pour tardiveté;
+attendu que le présent arrêt peut être rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+29 mars 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. V.________,
+‑
+C.________,
+-
+M. le Préposé à l'Office des poursuites du district de l'Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
