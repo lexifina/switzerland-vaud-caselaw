@@ -1,0 +1,126 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 15"
+decided: "2012-03-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3180375"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-103.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 15
+
+## Regeste
+
+RESTITUTION DU DÉLAI, VOIE DE DROIT | 149 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.03.2012 Faillite / 2012 / 15
+
+RESTITUTION DU DÉLAI, VOIE DE DROIT | 149 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF11.045140-120438
+165
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 mars 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Muller
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+149 CPC
+Vu le jugement rendu le 5 janvier 2012 par le Président du Tribunal d'arrondissement de Lausanne
+prononçant par défaut des parties, le même jour à 11 heures 18, la faillite
+de
+B.________Sàrl
+,
+à Lausanne, à la réquisition de la
+D.________
+,
+à Tolochenaz,
+vu la décision rendue le 17 février 2012, à la suite de l'audience du 9 février
+2012, par le même magistrat, rejetant la requête de restitution de délai déposée
+le 13 janvier 2012 par B.________Sàrl, révoquant l'effet suspensif accordé le 13 janvier
+2012, disant que le jugement de faillite rendu le 5 janvier 2012 prenait effet le 9 février 2012
+à 10 heures 05 et mettant les frais de l'audience de faillite, par 200 fr., et ceux de la
+décision sur la requête en restitution de délai, par 200 fr., à la charge de la faillie,
+vu le recours formé par B.________Sàrl, par acte écrit et motivé déposé
+le 28 février 2012 contre cette décision, concluant à son annulation et à la fixation
+d'une nouvelle audience, l'effet suspensif étant réinstauré;
+attendu que le recours contre une décision du juge de la faillite s'exerce dans les dix jours suivant
+la notification de cette décision (art. 174 al. 1 LP [loi fédérale sur la poursuite pour
+dettes et la faillite; RS 281.1]), par le dépôt d'un acte écrit et motivé (art. 321
+al. 1 CPC [Code de procédure civile; RS 272]),
+qu'en l'espèce, le recours a été exercé en temps utile, en tant qu'il est dirigé
+contre la décision du 17 février 2012, et dans les formes requises, de sorte qu'il est recevable
+formellement,
+qu'en revanche, il est irrecevable matériellement, dès lors qu'en matière de restitution
+de délai à une partie défaillante, le tribunal statue définitivement (art. 149
+CPC), ce qui signifie qu'il n'y a en principe pas de recours contre sa décision (Tappy, CPC commenté,
+n. 12 ad art. 149 CPC; CPF, 11 novembre 2011/491; CPF, 20 janvier 2012/60 et 61),
+qu'en l'espèce, la décision attaquée indique ainsi à juste titre qu'elle peut faire
+l'objet d'un recours au sens de l'art. 103 CPC, c'est-à-dire uniquement sur la question des frais,
+et non pas d'un recours au sens des art. 319 ss CPC,
+que, dans son acte du 28 février 2012, B.________Sàrl ne recourt pas contre les frais mis à
+sa charge mais s'en prend au rejet de sa requête de restitution de délai,
+qu'un tel recours est irrecevable (CPF, 11 novembre 2011/491 précité; CPF, 20 janvier 2012/60
+et 61 précités);
+attendu que le présent arrêt peut être rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Jean-Pierre Bloch, avocat (pour B.________Sàrl),
+‑
+D.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
