@@ -1,0 +1,404 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 4"
+decided: "2012-04-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3193384"
+cites_law: ["switzerland/bund/acts/0.275.12/art-041.md", "switzerland/bund/acts/0.275.12/art-049.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/291/art-186.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 4
+
+## Regeste
+
+SENTENCE ARBITRALE, DÉCISION ÉTRANGÈRE, RECONNAISSANCE DE LA DÉCISION, CAS DE SÉQUESTRE | 271 al. 1 ch. 6 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 12.04.2012 Séquestre / 2012 / 4
+
+SENTENCE ARBITRALE, DÉCISION ÉTRANGÈRE, RECONNAISSANCE DE LA DÉCISION, CAS DE SÉQUESTRE | 271 al. 1 ch. 6 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE11.028404-112041
+115
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 avril 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Vallat, juge suppléant
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 6 et 278 al. 3 LP; IV et V CNY
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+Q.________Technologies
+,
+à Dubaï (Emirats arabes unis), et
+Q.T.________Ltd.
+,
+à Port Louis (Maurice), contre le prononcé rendu le 11 octobre 2011, à la suite de l’audience
+du 29 septembre 2011, par le Juge de paix du district de Nyon, dans la cause opposant les recourantes
+à
+E.________
+,
+à Begnins.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 14 avril 2011, un tribunal arbitral composé d'un arbitre unique siégeant à Londres
+a rendu une sentence arbitrale dans un litige opposant Q.________Technologies et Q.T.________Ltd., désignées
+comme "les demandeurs", à une société tierce et E.________, désignés
+comme "les défendeurs".
+Cette sentence comporte une section "F. Le contrat d'arbitrage et le droit applicable", dont
+la teneur est notamment la suivante (traduction) :
+"39.
+L'arbitrage a été lancé conformément à la disposition relative à l'arbitrage
+de l'article 11.10 du SPA [Share Purchase Agreement, trad. contrat de souscription d'actions, ndlr],
+qui prévoit que :
+Tous les litiges découlant
+du présent contrat ou qui y sont liés et qui ne peuvent pas être réglés à
+l'amiable entre les parties, notamment les litiges relatifs à sa conclusion, son effet exécutoire,
+sa modification et sa résiliation seront définitivement réglés conformément
+aux Règles d'arbitrage de la Cour Internationale d'arbitrage de la CCI [Chambre de commerce internationale,
+ndlr] (la "cour d'arbitrage").
+(a) La cour d'arbitrage siègera à Londres, Royaume-Uni et la procédure d'arbitrage, y
+compris les réquisitions et les plaidoiries, seront en anglais.
+(b) Chaque partie du présent contrat consent irrévocablement par la présente à la
+compétence exclusive et au siège de la cour d'arbitrage
+."
+Dans sa sentence, le juge arbitre a notamment (A) déclaré qu'E.________ était partie au
+SPA et soumis à sa compétence en tant qu'arbitre unique et ordonné que les défendeurs
+(B) versent aux demandeurs la somme de 5'000'000 USD, (E) remboursent les honoraires et frais juridiques
+des demandeurs s'élevant à 271'760 USD, (F) remboursent aux demandeurs les frais d'arbitrage
+payés par ceux-là s'élevant à 136'195 USD et (G) paient aux demandeurs des intérêts
+au taux de 1,25 % par an sur la totalité ou une partie de la somme de 5'407'955 USD encore due aux
+demandeurs entre la date de réception par les défendeurs de la sentence et la date du paiement
+intégral de la somme de 5'407'955 USD plus les éventuels intérêts cumulés.
+b)
+Le
+5 juillet 2011, invoquant l'art. 271 al. 1 ch. 6 LP, Q.________Technologies et Q.T.________Ltd. ont requis
+du Juge de paix du district de Nyon qu'il ordonne le séquestre, à concurrence de 4'587'568
+fr. (contre-valeur de 5'407'955 USD au taux de change du jour du dépôt de la requête),
+plus intérêt à 1,25 % l'an dès le 21 avril 2011, de la parcelle n° [...]
+de la commune de Gland, propriété d'E.________, de tous les biens meubles s'y trouvant, appartenant
+au prénommé, et de tous les avoirs et biens lui appartenant, de quelque nature et en quelque
+monnaie qu'ils soient, en mains de Credit Suisse AG, à Zurich.
+A l'appui de leur requête, Q.________Technologies et Q.T.________Ltd. ont produit notamment les
+pièces suivantes :
+-
+une copie certifiée de la sentence arbitrale du 14 avril 2011 et sa traduction libre;
+-
+une copie de la lettre de la Cour d'arbitrage de la CCI à leurs conseils britanniques du 29 juin
+2011, confirmant que la sentence avait été adressée pour notification aux défendeurs
+le 20 avril 2011 et qu'ils l'avaient reçue le lendemain, 21 avril 2011;
+-
+un affidavit, et sa traduction libre, daté du 28 juin 2011, émanant de l'un de leurs conseils
+britanniques, déclarant en substance que la sentence arbitrale était devenue définitive
+et exécutoire, faute de contestation, d'appel ou de demande de révision;
+-
+un extrait internet du Registre foncier de Gland au 23 juin 2011, concernant la parcelle n° [...],
+propriété d'E.________, comprenant une place-jardin et un bâtiment à usage d'habitation.
+c)
+Le 5 juillet 2011, le Juge de paix du district de Nyon a ordonné le séquestre, à concurrence
+de 4'587'568 fr., plus intérêt à 1,25 % l'an dès le 21 avril 2011, du bien-fonds
+n° 980 situé sur la commune de Gland, propriété d'E.________, de tous les biens meubles
+appartenant à celui-ci et se trouvant sur et à l'intérieur du bien-fonds, y compris les
+valeurs mobilières, meubles, argenterie, objets d'art et tableaux, bijoux, papiers-valeurs, coffres
+forts et véhicules, et de tous les avoirs, espèces, valeurs, objets, titres, créances,
+comptes, dépôts fiduciaires, effets de change, métaux précieux, dépôts,
+coffres et autres biens de quelque nature et en quelque monnaie qu'ils soient lui appartenant, en mains
+de Credit Suisse AG, à Zurich. Q.________Technologies et Q.T.________Ltd. ont été astreintes
+à fournir 50'000 fr. à titre de sûretés.
+2.
+a)
+Le 28 juillet 2011, E.________ a formé
+opposition au séquestre, concluant à l'annulation de l'ordonnance du 5 juillet 2011. Il a fait
+valoir en substance que, faute d'exequatur préalable dans le cadre d'une procédure contradictoire,
+la sentence arbitrale du 14 avril 2011 ne constituait pas, à ce stade, un titre de mainlevée
+définitive, de sorte que la condition de l'existence du cas de séquestre invoqué n'était
+pas réalisée. Lors de l'audience qui s'est tenue devant le Juge de paix du district de Nyon
+le 29 septembre 2011, il a produit deux articles de doctrine. Les intimées se sont déterminées
+par écrit, le 29 septembre 2011, concluant au rejet de l'opposition et à la confirmation de
+l'ordonnance de séquestre. A l'audience, elles ont produit une traduction certifiée de la sentence
+arbitrale.
+b)
+Par
+prononcé rendu le 11 octobre 2011, dont les motifs ont été adressés pour notification
+aux parties le 24 octobre 2011, le Juge de paix du district de Nyon a admis l'opposition au séquestre
+(I), révoqué l'ordonnance de séquestre du 5 juillet 2011 (II), arrêté à
+1'800 fr. les frais judiciaires, compensés avec l'avance de frais de la partie requérante [soit
+l'opposant, ndlr] ("II" (sic), recte : III), mis les frais à la charge de la partie intimée
+("III" (sic), recte : IV) et dit qu'en conséquence, celle-ci rembourserait à la partie
+requérante son avance de frais à concurrence de 1'800 fr. et lui verserait la somme de 4'000
+fr.  à titre de dépens ("IV" (sic), recte : V).
+En bref, le premier juge a considéré que les créancières séquestrantes, qui
+n’avaient produit ni l'original ni une copie certifiée conforme de la clause compromissoire
+signée par les parties à l'origine de la sentence arbitrale du 14 avril 2011 invoquée
+comme titre de mainlevée définitive au sens de l'art. 271 al. 1 ch. 6 LP, n'avaient pas rendu
+vraisemblable qu'une condition nécessaire à la reconnaissance et à l'exécution de
+cette sentence arbitrale était réalisée, partant, le cas de séquestre invoqué,
+savoir l'existence d'un titre de mainlevée définitive.
+3.
+Par acte écrit et motivé adressé
+à la cour de céans le 4 novembre 2011, accompagné de la décision attaquée, Q.________Technologies
+et Q.T.________Ltd. ont recouru contre ce prononcé, concluant, avec suite de frais et dépens,
+principalement à sa réforme en ce sens que l'opposition au séquestre est rejetée
+et l'ordonnance du 5 juillet 2011 est confirmée, subsidiairement, à l'annulation du prononcé
+et au renvoi de la cause au premier juge pour nouvelle décision. A l'appui de leur recours, elles
+ont produit une copie d'un "Memorandum of Understanding" du 3 mars 2008 entre "les vendeurs"
+E.________ et une société tierce, et "l'acheteur" Q.________Technologies, la traduction
+certifiée de la clause compromissoire contenue dans ce document, une copie d'un contrat intitulé
+"Share Purchase Agreement" du 11 août 2008 entre Q.________Technologies, Q.T.________Ltd.
+et la même société tierce et la traduction certifiée de la clause compromissoire
+contenue dans ce document.
+E.________ s'est déterminé le 12 décembre 2011, concluant, avec suite de dépens des
+première et deuxième instances, au rejet du recours.
+Le 27 décembre 2011, les recourantes ont déposé une réplique spontanée, à
+l'appui de laquelle elles ont produit des copies d'ordonnances de séquestre rendues dans différentes
+causes en Suisse sur la base de jugements étrangers ou de sentences arbitrales internationales.
+Par lettre du 6 janvier 2012, l'intimé a requis de la cour de céans qu'elle invite les recourantes
+à produire une traduction des pièces produites à l'appui de leur réplique spontanée.
+Par lettre du 9 janvier 2012, les recourantes se sont opposées à cette requête.
+En droit
+:
+I.
+Le recours a été formé dans le
+délai prescrit et les formes requises par l'art. 321 al. 1 et 2 CPC [Code de procédure civile;
+RS 272], applicable par renvoi de l'art. 278 al. 3 LP [loi fédérale sur la poursuite pour dettes
+et la faillite; RS 281.1]. Il est recevable.
+La réponse de l'intimé est également recevable (art. 322 CPC).
+Pour les motifs exposés ci-après, la question de la recevabilité des pièces nouvelles
+produites en deuxième instance peut demeurer ouverte.
+II.
+a)
+Selon l'art. 271 al. 1 ch. 6 LP, entré
+en vigueur le 1
+er
+décembre 2011, le créancier d'une dette échue non garantie par gage, lorsqu'il possède
+contre le débiteur un titre de mainlevée définitive, peut requérir le séquestre
+des biens de celui-ci qui se trouvent en Suisse. L'art. 271 al. 3 LP précise que, dans les cas où
+le titre de mainlevée définitive consiste en un jugement rendu dans un état étranger
+partie à la Convention du 30 octobre 2007 concernant la compétence judiciaire, la reconnaissance
+et l'exécution des décisions en matière civile et commerciale (dite Convention de Lugano)
+[CL; RS 0.275.12], le juge statue aussi sur la constatation de la force exécutoire.
+b)
+La
+question se pose, en l'espèce, de savoir si celui qui se prévaut d'une sentence arbitrale étrangère
+peut invoquer le cas de séquestre de l'art. 271 al. 1 ch. 6 LP.
+aa)
+Selon une partie de la doctrine, ce cas de séquestre serait purement et simplement exclu lorsque
+le titre de mainlevée présenté n'est ni une décision suisse ni une décision
+étrangère dont la reconnaissance et l'exequatur seraient soumises à la Convention de Lugano
+(Stoffel, in Basler Kommentar, n. 109 ad art. 271 LP; Staehelin, Neues Arrestrecht ab 2011, in Jusletter
+du 11 octobre 2010, §§ 39 ss). Selon d'autres auteurs, dans cette hypothèse, la question
+du caractère exécutoire de la décision devrait être examinée à titre préjudiciel
+dans le cadre de la procédure d'autorisation du séquestre, puis d'opposition (Boller, Der neue
+Arrestgrund von Art. 271 Abs. 1 Ziff. 6 revSchKG, in PJA 2/2010 pp. 187 ss, spéc. p. 190; Meier-Dieterle,
+Arrestpraxis ab 1. Januar 2011, in PJA 2010 pp. 1211 ss, spéc. p. 1223; ibid., Ausländische
+"nicht LugÜ-Entscheide" als Arrestgrund, in Jusletter du 18 juillet 2011; Schwander, Arrestrechtliche
+Neuerungen im Zuge des Umsetzung des revidierten Lugano-Übereinkommen, in ZBJV 2010 p. 641 ss, spéc.
+p. 657; Jaques, Alcune questioni aperte nel nuovo diritto del sequestro, in RSPC 2011 pp. 153 ss).
+bb)
+L'exigence
+légale d'un titre de mainlevée définitive n'est, à elle seule, pas univoque. On peut
+se demander si le jugement, la décision ou la sentence étrangère produite doit, à
+ce stade déjà, être exécutoire en Suisse et si ce caractère exécutoire
+en Suisse ne peut résulter que d'une décision antérieure ou tout au moins contemporaine
+avec la décision portant autorisation de séquestre. Le fait qu'en ce qui concerne les décisions
+portant condamnation au paiement d'une somme d'argent, la reconnaissance et l'exequatur doivent intervenir,
+au moins à titre incident, dans le cadre de la procédure destinée à conduire au prononcé
+de la mainlevée définitive plaide en ce sens; de même, le fait que la loi impose, pour
+les décisions visées par la Convention de Lugano, que la question du caractère exécutoire
+soit examinée dans le cadre de la procédure ad hoc prévue par l'art. 271 al. 3 LP. D'un
+autre côté, on ne peut cependant pas ignorer que le législateur a fait de ce titre de
+mainlevée définitive un cas de séquestre et que, selon l'art. 272 al. 1 LP, les conditions
+du séquestre ne sont examinées qu'au degré de la vraisemblance. L'art. 271 al. 3
+LP s'interprète, dans cette perspective, comme une exception à la règle en imposant au
+juge du séquestre d'examiner librement les conditions minimales (art. 41 CL) de la reconnaissance
+et du caractère exécutoire. Ces éléments de texte ne fournissent ainsi aucun élément
+déterminant.
+La seule substitution des termes "jugement exécutoire" (art. 271 al. 1 ancien ch. 4 LP,
+en vigueur jusqu'au 31 décembre 2010) par "titre de mainlevée définitive" (art.
+271 al. 1 nouveau ch. 6 LP) ne renseigne guère plus. En revanche, la suppression de la condition
+alternative du "jugement exécutoire" de l'ancien ch. 4 pour le motif que ce cas de séquestre
+devenait inutile en raison de l'introduction du nouveau ch. 6 (Message du Conseil fédéral relatif
+à l'arrêté fédéral portant approbation et mise en œuvre de la Convention
+de Lugano révisée; FF 2009 1497 ss, spéc. p. 1538) suggère assez clairement l'intention
+de modeler le nouveau cas de séquestre sur l'ancien, soit de faire du titre de mainlevée définitive
+une condition du séquestre examinée conformément à l'art. 272 al. 1 LP, sous réserve
+du cas particulier prévu par l'art. 271 al. 3 LP. De même, la précision donnée dans
+le Message (op. cit., p. 1537), selon laquelle le nouveau cas de séquestre est en principe aussi
+applicable à l'ayant droit d'un jugement étranger – ou d'un titre équivalent tel
+qu'un acte authentique – émis en dehors du champ d'application de la CLrév, indique-t-elle
+clairement l'intention du Conseil fédéral et ce point n'a fait l'objet d'aucune critique devant
+les Chambres fédérales.
+Il n'est pas contestable que la solution choisie, consistant à permettre au créancier au bénéfice
+d'un jugement étranger échappant au champ d'application de la Convention de Lugano d'obtenir
+un séquestre en rendant simplement vraisemblable le caractère exécutoire de la décision,
+va au-delà de ce qui était nécessaire à la mise en œuvre de ladite convention.
+Il n'en demeure pas moins que cette solution atteint l'objectif qui était visé en permettant
+tout à la fois au créancier au bénéfice d'une décision rendue dans le champ
+d'application de la Convention de Lugano d'obtenir des mesures de sûretés, aussitôt qu'est
+rendue en Suisse, dans une procédure unilatérale d'autorisation du séquestre, la décision
+sur la force exécutoire de la décision étrangère, sans qu'il en résulte une
+discrimination pour les créanciers au bénéfice d'un jugement suisse (Message précité,
+eod. loc.). Au surplus, si le législateur avait entendu retenir une autre solution, plus restrictive
+pour les décisions étrangères ne rentrant pas dans le champ d'application de la Convention
+de Lugano, il aurait formulé différemment le texte de l'art. 271 al. 1 ch. 6 LP.
+Le caractère unilatéral de la décision d'autorisation du séquestre est par ailleurs
+tempéré par la procédure d'opposition au séquestre, qui permet au débiteur,
+à bref délai, de faire valoir ses moyens. On ne saurait non plus exagérer le risque lié
+à des requêtes de séquestre fondées sur des jugements étrangers rendus par défaut
+(cf. Staehelin, op. cit., § 41). Dans ce cas, en effet, même si le séquestre peut être
+obtenu dans une procédure initialement unilatérale, le juge n'en doit pas moins examiner, sous
+la seule réserve des conventions internationales contraires (cf. art. 49 CL), la vraisemblance des
+conditions du caractère exécutoire, y compris la conformité à l'ordre public suisse,
+qui comprend l'exigence de la citation régulière des parties afin de garantir leur droit d'être
+entendues (ATF 117 Ib 347) et le débiteur peut, au stade de l'opposition, faire valoir ces moyens
+si le juge du séquestre ne l'a déjà fait au stade de la décision unilatérale.
+cc)
+Ces différents éléments amènent à considérer que le séquestre peut
+être ordonné sur présentation d'un jugement étranger rendu hors champ d'application
+de la Convention de Lugano en l'absence d'une décision d'exequatur préalable.
+Il en va de même de la sentence arbitrale, en particulier lorsqu'elle est soumise à la Convention
+de New York du 10 juin 1958 pour la reconnaissance et l'exécution des sentences arbitrales étrangères
+(dite Convention de New York) [CNY; RS 0.277.12] (Meier-Dieterle, op. cit., in Jusletter du 18 juillet
+2011, §§ 22 ss).
+c)
+La
+question du caractère exécutoire se pose à titre préjudiciel dans le cadre de l'autorisation
+de séquestre et le juge du séquestre, puis celui de l'opposition au séquestre et l'autorité
+de recours doivent examiner si ce caractère est établi au degré de la vraisemblance. En
+d'autres termes, il s'agit, selon la pratique développée en application de l'art. 271 al. 1
+ch. 4 LP, de juger s'il est vraisemblable que le requérant obtiendra la reconnaissance dans une
+procédure de mainlevée – dans le cadre d'une poursuite parallèle ou en validation
+du séquestre –, dans laquelle le juge examine toutefois librement cette question.
+En l'espèce, le premier juge a admis l'opposition au séquestre pour l'unique motif que les
+conditions formelles de la reconnaissance posées par l'art. IV CNY n'étaient pas réalisées
+parce que les créancières séquestrantes n'avaient produit ni l'original ni une copie certifiée
+de la clause compromissoire signée par les parties à l'origine de la sentence arbitrale du
+14 avril 2011.
+Selon la jurisprudence, tout formalisme excessif dans l'application de cette disposition doit être
+évité au stade de l'exequatur. Ainsi, le grief d'absence d'authentification de la clause compromissoire
+doit être écarté lorsque la partie qui s'en prévaut ne conteste pas l'authenticité
+de cette clause (TF 5A_427/2011 du 10 octobre 2011 c. 5; TF 4P.173/2003 du 8 décembre 2003
+c. 2; TF 5P.201/1994 du 9 janvier 1995 c. 3 et les références citées). Or, dans son opposition
+au séquestre, l'intimé n'a en aucune manière remis en question l'authenticité de
+la clause arbitrale. Celle-ci est reproduite dans son intégralité dans la sentence arbitrale,
+dans laquelle la question de son opposabilité à l'intimé fait l'objet d'un examen approfondi,
+ce qui est suffisant en tout cas dans le cadre de l'examen de la vraisemblance de l'existence du titre
+exécutoire. Le motif retenu par le premier juge pour exclure à ce stade la vraisemblance de
+l'exequatur dans une procédure de mainlevée est ainsi constitutif de formalisme excessif ou,
+à tout le moins, mal fondé.
+d)
+Les
+autres motifs de refus de la reconnaissance prévus par l'art. V CNY ne doivent être examinés
+que si la partie contre laquelle la reconnaissance est demandée en apporte la preuve (art. V al.
+1 CNY), sous réserve des deux motifs prévus à l'al. 2 de cette disposition, soit l'inarbitrabilité
+et la contrariété à l'ordre public du pays de la reconnaissance.
+A l'égard du premier motif, il n'apparaît pas que l'intimé, durant la procédure d'arbitrage,
+ait soulevé une exception en ce sens que l'objet du différend ne serait pas susceptible d'être
+réglé par voie d'arbitrage. Cela ne ressort en tout cas pas de la sentence arbitrale produite,
+qui examine uniquement la question de l'opposabilité de la clause compromissoire à l'intimé.
+Or, il a été jugé de longue date que l'exception d'inarbitrabilité du litige obéit
+à la même règle que l'exception d'incompétence et que, à l'instar de celle-ci
+(cf. art. 186 al. 2 LDIP [loi sur le droit international privé; RS 291]), elle doit être soulevée
+préalablement à toute défense sur le fond (ATF 119 II 271 c. 5 non publié; TF 4A_370/2007
+du 21 février 2008 c. 5.2.2). Ce motif de refus n'est donc en l'espèce pas démontré.
+Enfin, aucun motif de contrariété à l'ordre public n'est allégué ni n'apparaît
+a priori réalisé, étant précisé que l'intimé a procédé dans l'instance
+arbitrale et que le litige à la base de la procédure est de nature commerciale.
+Pour le surplus, l'existence de la créance et son exigibilité  sont rendues suffisamment
+vraisemblables par la production de la sentence arbitrale et ne sont d'ailleurs pas contestées par
+l'intimé, qui ne conteste pas non plus être propriétaire des biens séquestrés.
+La vraisemblance de la réalisation des conditions du séquestre est ainsi démontrée
+à satisfaction de droit, ce qui devait conduire au rejet de l'opposition.
+III.
+Le recours doit ainsi être admis et le prononcé
+réformé en ce sens que l'opposition au séquestre est rejetée, l'ordonnance de séquestre
+confirmée et les frais judiciaires de première instance, arrêtés à 1'800 fr.,
+mis à la charge du requérant ou opposant, qui en a fait l'avance, celui-ci devant verser la
+somme de 4'000 fr. aux intimées, solidairement entre elles, à titre de dépens de première
+instance.
+Les frais judiciaires de deuxième instance, arrêtés à 3'000 fr., compensés avec
+l'avance de frais des recourantes, sont mis à la charge de l'intimé, qui doit verser à
+celles-ci, solidairement entre elles, la somme de 8'000 fr. à titre de restitution d'avance de frais
+et de dépens de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé comme il suit :
+I.
+L'opposition au séquestre est rejetée.
+II. L'ordonnance de séquestre
+du 5 juillet 2011 est confirmée.
+III. Les frais judiciaires
+de première instance, arrêtés à 1'800 fr. (mille huit cents francs), sont mis à
+la charge du requérant.
+IV. Le requérant
+E.________ doit verser aux intimées Q.________Technologies et Q.T.________Ltd., solidairement entre
+elles, la somme de 4'000 fr. (quatre mille francs) à titre de dépens de première instance.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 3'000 fr. (trois mille francs),
+sont mis à la charge de l'intimé.
+IV.
+L'intimé E.________ doit verser aux recourantes Q.________Technologies et Q.T.________Ltd., solidairement
+entre elles, la somme de 8'000 fr. (huit mille francs) à titre de restitution d'avance de frais
+et de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+12 avril 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Blaise Stucki, avocat (pour Q.________Technologies et Q.T.________Ltd.),
+‑
+Me Olivier Rodondi, avocat (pour E.________),
+-
+M. le Préposé à l'Office des poursuites du district de Nyon.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 4'587'568 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+La greffière :
