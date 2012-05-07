@@ -1,0 +1,287 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 24"
+decided: "2012-05-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3233867"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 24
+
+## Regeste
+
+PROCÉDURE DE FAILLITE, RETRAIT{VOIE DE DROIT}, RÉQUISITION DE FAILLITE | 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 07.05.2012 Faillite / 2012 / 24
+
+PROCÉDURE DE FAILLITE, RETRAIT{VOIE DE DROIT}, RÉQUISITION DE FAILLITE | 174 LP
+
+TRIBUNAL
+CANTONAL
+FF11.042006-120171
+212
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+7 mai 2012
+_______________
+Présidence
+de               M.
+S A U T E R E L, vice-président
+Juges
+:              M.
+Bosshard et M. Vallat, juge suppléant
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+S.________
+,
+à Baulmes, contre le jugement rendu le 13 janvier 2012, à la suite de l’audience du 10
+janvier 2012, par le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+prononçant la faillite du recourant à la réquisition de
+F.________
+SA
+, à Bussigny-près-Lausanne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 26 août 2011, à la
+réquisition de F.________ SA, l'Office des poursuites du district du Jura – Nord vaudois a
+notifié à S.________, dans la poursuite
+n°
+5'915’548, un commandement de payer la somme de 28'281 fr. 45 plus intérêt au taux de
+5 % l'an dès le 22 août 2011.
+Le poursuivi
+n'a pas formé opposition. Une commination de faillite lui a été notifiée le 6 octobre
+2011 dans la même poursuite. Le 3 novembre 2011, la poursuivante a requis la faillite du débiteur.
+2.
+Par jugement du 13 janvier
+2012, rendu à la suite d’une audience tenue le 10 janvier 2012, le Président du Tribunal
+d’arrondissement de La Broye et du Nord vaudois a déclaré la faillite d’S.________
+à 14 heures 30 (I), ordonné la liquidation sommaire de la faillite (II) et mis les frais, par
+200 fr., à sa charge (III). Ce jugement a été notifié au failli le 17 janvier 2012.
+3.
+S.________ a recouru par acte du 25 janvier 2012,
+concluant à l'annulation de la faillite. A l'appui de son écriture, il a déposé un
+onglet de douze pièces, comprenant notamment :
+-
+un extrait du registre du commerce le concernant mentionnant la radiation de sa raison individuelle au
+5 août 2011 par suite de remise du commerce,
+-
+un extrait du registre foncier relatif à la parcelle n° 657 de la commune de [...] dont il
+est copropriétaire pour une demie avec B.________,
+-
+un projet d’acte de vente notarié de cette parcelle du 9 janvier 2012 pour le prix de 710'000
+fr.,
+-
+une lettre de la Banque [...] au notaire [...] du 23 janvier 2012 déclarant accepter le remboursement
+anticipé des prêts hypothécaires en relation avec la parcelle précitée, pour
+la somme totale de 589'658 fr. 90,
+-
+une lettre de B.________ au failli du 4 janvier 2012 déclarant qu’elle ne s’opposerait
+pas à la vente du chalet de [...] (commune de [...]) à condition qu’elle puisse récupérer
+son avoir LPP investi lors de l’acquisition du terrain, à concurrence de 10'562 fr. 65, et
+des fonds déposés auprès de la Banque [...], à concurrence de 6'239 fr. 60,
+-
+une attestation de l’avoir
+LPP de B.________ au 25 mars 2004,
+-
+une note d’honoraires
+du courtier mandaté pour la vente du bien-fonds, d’un montant de 15'336 fr.,
+-
+un extrait du registre
+des poursuites au 16 janvier 2012 concernant S.________ faisant état de onze poursuites pour un
+montant total de 53'075 fr. 30, dont 29'067 francs 10 pour la poursuite à l’origine de la
+faillite, les autres poursuites n’ayant pas dépassé le stade de l’opposition au
+commandement de payer,
+-
+une lettre du failli au
+Tribunal d’arrondissement du 19 décembre 2011 annonçant la vente de sa maison afin de
+pouvoir disposer de liquidités lui permettant de régler la créance de la poursuivante.
+Par lettre du 31 janvier 2012 adressée au Tribunal d’arrondissement de La Broye et du Nord
+vaudois, l’intimée a déclaré retirer purement et simplement sa requête de faillite
+du 3 novembre 2011.
+Par décision du 3 février 2012, le président de la cour de céans a accordé l'effet
+suspensif requis et ordonné, à titre de mesures conservatoires, l’inventaire, l’audition
+du failli et le blocage en mains du notaire instrumentateur du produit de la vente de l'immeuble dont
+S.________ est copropriétaire.
+Le 17 février 2012, le recourant s’est déterminé sur l’extrait des poursuites
+au 30 janvier 2012 qui lui avait été transmis après l’octroi de l’effet suspensif.
+Le 27 mars 2012, le recourant a encore produit trois pièces.
+En droit
+:
+I.
+a)
+Le recours a été introduit auprès
+de l’instance de recours conformément à l’art. 321 al. 1 CPC (Code de procédure
+civile ; RS 272). Il a été déposé en temps utile, dans le délai de dix jours
+suivant la notification du jugement de faillite (art. 174 al. 1 LP [loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1]). Tendant à l’annulation de la faillite, le recours
+est en outre suffisamment motivé, de sorte qu’il est recevable formellement (art. 174 al.
+2 LP et 321 al. 1 CPC).
+b)
+Aux termes de l’art. 326 al. 1 CPC, les
+conclusions, les allégations de faits et les preuves nouvelles sont irrecevables. Toutefois, l’art.
+326 al. 2 CPC réserve les dispositions spéciales de la loi, par quoi il faut entendre non seulement
+les règles de procédure mais toute norme de droit fédéral (Spühler, Basler Kommentar,
+n. 3 ad art. 326 CPC). En particulier, cette réserve vise les règles spécifiques de la
+LP, dont l’art. 174 LP qui régit le recours contre le jugement de faillite (Jeandin, CPC commenté,
+n. 4 ad art. 326 CPC ; TF 5A_230/2011 du 12 mai 2011 c. 3.2.1).
+La production de pièces nouvelles en deuxième instance est autorisée en matière de
+faillite pour faire valoir des faits nouveaux (nova) sous certaines conditions. La loi différencie
+deux types de nova: ceux qui se sont produits avant le jugement de première instance (pseudo-nova
+– art. 174 al. 1, 2
+ème
+phrase LP) et ceux qui se sont produits après (vrais nova – art. 174 al. 2 LP) (Giroud, Basler
+Kommentar, n. 17 ad art. 174 LP). Il est possible de faire valoir les pseudo-nova sans aucune restriction
+(Giroud, op. cit., n. 19 ad art. 174 LP; Bosshard, Le recours contre le jugement de faillite, in JT 2010
+II 113, p. 126; FF 1991 III 1, p. 130; TF 5A_571/2010 du 2 février 2011 c. 2.2, publié in SJ
+2011 I 149). En revanche, selon la doctrine, seul le débiteur peut apporter de vrais nova et il
+doit le faire dans la motivation du recours ou en tout cas avant l'échéance du délai de
+recours (Giroud, op. cit., n. 20 ad art. 174 LP).
+En l'espèce, les pièces produites avec le recours, qui sont antérieures à la faillite
+ou tendent à établir la solvabilité du recourant, sont recevables. Il en est de même
+de la déclaration de retrait de la réquisition de faillite, même si celle-ci est intervenue
+après l’échéance du délai de recours et émane du créancier à
+l’origine de la faillite, comme le suggère du reste le même auteur de doctrine (Giroud,
+op. cit.,
+n. 23 ad art. 174 LP).
+En revanche, les pièces produites le 27 mars 2012, hors délai, sont irrecevables.
+II.
+a)
+Selon l’art. 171 LP, le juge saisi d’une réquisition de faillite doit prononcer celle-ci,
+sauf dans les cas mentionnés aux art. 172 à 173a LP.
+Aucun de ces cas n’étant réalisé en l’espèce, c’est à juste
+titre que le premier juge a prononcé la faillite du recourant.
+b)
+En
+vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler le jugement lorsque le débiteur, en déposant
+le recours, rend vraisemblable sa solvabilité et établit par titre que depuis lors la dette,
+intérêts et frais compris, a été payée ou que la totalité de la somme à
+rembourser a été déposée à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite. Ces deux conditions, soit le remboursement de la dette
+à l'origine de la faillite ou le retrait de la requête de faillite et la vraisemblance de solvabilité,
+sont cumulatives (Bosshard, op. cit. p. 127).
+En l'espèce, il est établi que l’intimée
+a retiré sa réquisition de faillite. La première condition à l'annulation de la faillite
+est ainsi remplie.
+c)
+Le recourant doit ensuite rendre
+vraisemblable sa solvabilité. Un fait est rendu vraisemblable si le juge, dans son libre examen,
+aboutit à la conviction qu’il correspond avec une probabilité suffisante aux allégations
+de la partie (TF 5P.146/ 2004 du 14 mai 2004 et les réf. cit.).
+La solvabilité au sens de l’art. 174 al. 2 LP se définit par opposition à l’insolvabilité
+au sens de l’art. 191 LP (Giroud, op. cit., n. 26 ad art. 174 LP). Cette dernière n’équivaut
+pas au surendettement mais consiste en l’incapacité du débiteur, en raison d’un
+manque de liquidités qui n’apparaît pas seulement temporaire, de payer ses dettes échues.
+Dès lors que la loi se contente d’une simple vraisemblance, il ne faut pas poser d’exigences
+trop sévères quant à la solvabilité : celle-ci est rendue vraisemblable lorsqu’elle
+apparaît plus vraisemblable que l’insolvabilité, en particulier lorsque la viabilité
+de l’entreprise ne saurait être déniée d’emblée ou lorsque le débiteur
+peut satisfaire à ses engagements courants et s'acquitte de ses dettes dans un délai prévisible
+(Giroud, op. cit., n. 26 ad art. 174 LP; TF 5A_529/ 2008 du 25 septembre 2008; TF5P.129/2006 du 30 juin
+2006; TF 5P.456/2005 du
+17
+février 200 ; TF 5P.80/2005 du 15 avril 2005).
+S’il ne doit pas prouver sa solvabilité de manière stricte, le débiteur ne peut
+toutefois se contenter de simples allégations, mais doit fournir des indices tels que les récépissés
+de paiements, des justificatifs de moyens financiers à sa disposition, des listes de ses débiteurs,
+un extrait du registre des poursuites, des comptes annuels récents avec bilan intermédiaire,
+cette liste n’étant pas exhaustive. Il faut examiner concrètement la situation du débiteur,
+par comparaison entre ses actifs et ses passifs. Des difficultés momentanées de trésorerie,
+même si elles amènent un retard dans le paiement des dettes, ne sont pas à elles seules
+un indice d’insolvabilité. A l’inverse, l’absence de poursuite en cours n’est
+pas une preuve absolue de solvabilité ; elle constitue toutefois un indice sérieux de la capacité
+du débiteur de s’acquitter de ses engagements échus, en particulier lorsqu’il s’agit
+d’une personne physique (CPF, 2 octobre 2008/483 ; CPF, 13 juin 2002/229).
+En l'espèce, l'extrait des poursuites au 16 janvier 2012, comme celui requis d’office au 30
+janvier 2012, fait état de onze poursuites en cours, pour un total, au 16 janvier 2012, de 53'075
+fr. 30, dont 29'067 fr. 10 pour la poursuite à l’origine de la faillite. Le recourant a produit
+le projet d’acte de vente de sa maison à [...] (commune de [...]) pour le prix de 710'000
+francs. Après rembourse-ment du créancier hypothécaire, le solde disponible serait d’un
+peu plus de 120'000 francs, dont à déduire environ 17'000 fr. pour B.________. Ainsi, la vente
+de ce bien semble apporter, de manière suffisante à ce stade, au recourant un montant de l'ordre
+de 103'000 francs. Ces éléments permettent de conclure que l'intéressé rend sa solvabilité
+vraisemblable. La deuxième condition posée à l’art. 174 al. 2 LP est ainsi également
+remplie.
+III.
+Le
+recours doit en conséquence être admis et le jugement de première instance annulé
+en ce sens que la faillite d’S.________ n’est pas prononcée
+.
+Il est confirmé pour le surplus, c’est-à-dire en ce qui concerne les frais de première
+instance, la décision du premier juge étant alors justifiée.
+Pour les mêmes motifs, l
+es
+frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à la charge
+du recourant.
+Il n’y a pas lieu d’allouer
+de dépens de deuxième instance, l’intimée, qui ne s’est pas prononcée
+et a retiré sa réquisition de faillite, ne pouvant être considérée comme étant
+la partie succombante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est annulé en ce sens que la faillite d’S.________ n’est pas prononcée.
+Il est confirmé pour
+le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+7 mai 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Jean-Daniel Nicaty, agent d'affaires breveté (pour S.________),
+‑
+F.________ SA,
+-
+M. [...], notaire,
+-
+M. le Préposé à l'Office des poursuites du district du Jura – Nord vaudois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, office d'Yverdon-les-Bains,
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
