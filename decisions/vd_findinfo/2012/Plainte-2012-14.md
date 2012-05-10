@@ -1,0 +1,246 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 14"
+decided: "2012-05-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3240790"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-039.md", "switzerland/bund/acts/281.1/art-040.md", "switzerland/bund/acts/281.1/art-043.md", "switzerland/bund/acts/281.1/art-159.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 14
+
+## Regeste
+
+NOTIFICATION IRRÉGULIÈRE, NULLITÉ, CITATION À COMPARAÎTRE, DÉCISION, MAINLEVÉE{LP}, RÉQUISITION DE CONTINUER LA POURSUITE | 159 LP, 17 LP, 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 10.05.2012 Plainte / 2012 / 14
+
+NOTIFICATION IRRÉGULIÈRE, NULLITÉ, CITATION À COMPARAÎTRE, DÉCISION, MAINLEVÉE{LP}, RÉQUISITION DE CONTINUER LA POURSUITE | 159 LP, 17 LP, 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA11.047870-120539
+15
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 mai 2012
+________________
+Présidence
+de               M.
+Sauterel
+,
+vice-président
+Juges
+:              Mmes
+Carlsson et Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17, 18 al. 1 et 159 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.N.________
+,
+à Chavannes-près-Renens, contre la décision rendue le 9 mars 2012, à la suite de
+l’audience du 16 février 2012, par le Président du Tribunal d’arrondissement de
+Lausanne, autorité inférieure de surveillance, rejetant la plainte déposée par le
+recourant contre la commination de faillite qui lui avait notifiée par l'
+Office
+des poursuites du district de l'Ouest lausannois
+à la réquisition de
+O.________
+,
+à Lonay.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 18 janvier 2011, à la réquisition de O.________, un commandement de payer la somme de 10'000
+fr., plus intérêt à 3 % l'an dès le 15 août 2009, a été notifié
+à A.N.________ dans la poursuite n° 5'661'209 de l'Office des poursuites du district de Morges.
+L'acte indiquait comme titre de la créance ou cause de l'obligation : " Reconnaissance de dette
+du 1
+er
+juillet 2010". Le poursuivi a formé opposition totale.
+Saisi par le poursuivant d'une requête de mainlevée, le Juge de paix du district de l'Ouest
+lausannois, par décision du 19 mai 2011 rendue à la suite de l'audience du 12 mai 2011 tenue
+par défaut des parties, a provisoirement levé l'opposition, à concurrence de 10'000 fr.
+plus intérêt à 3 % l'an dès le 1
+er
+janvier 2011. Le 7 juin 2011, le greffier de paix a attesté que cette décision n'avait fait
+l'objet d'aucun recours. Le 21 novembre 2011, le Premier greffier du Tribunal d'arron-dissement de Lausanne
+a attesté que, jusqu'à ce jour, aucune action en libération de dette n'avait été
+introduite par A.N.________ contre O.________ à la suite du prononcé de mainlevée.
+O.________ ayant requis la continuation de la poursuite en cause le 24 novembre 2011, l'Office des poursuites
+du district de l'Ouest lausannois (ci-après : l'office) a notifié à A.N.________ une commination
+de faillite, le 1
+er
+décembre
+2011.
+b)
+Le 7 décembre 2011, A.N.________ a formé une plainte au sens de l'art. 17 LP [loi sur la poursuite
+pour dettes et la faillite; RS 281.1], soutenant qu'il n'était pas sujet à la poursuite par
+voie de faillite, faisant valoir qu'il n'avait reçu ni la convocation à l'audience du juge
+de paix ni le prononcé de mainlevée du 19 mai 2011, dont il indiquait n'avoir eu connaissance
+que le 30 novembre 2011, et contestant l'authenticité de la reconnaissance de dette invoquée
+par le poursuivant.
+L'office intimé a déposé ses déterminations le 7 février 2012, concluant au
+rejet de la plainte. Il a fait valoir que le plaignant avait été inscrit au registre du commerce
+depuis le 17 décembre 2003 en qualité d'associé de la société en nom collectif
+Garage H.________, A.N.________ et B.N.________, jusqu'au 5 décembre 2011, date de la radiation
+de la raison sociale publiée dans la Feuille officielle suisse du commerce (FOSC) le 8 décembre
+2011, que la créance réclamée en poursuite relevait du droit privé et n'entrait dès
+lors pas dans le champ d'application de l'art. 43 LP et que le plaignant était donc bien sujet à
+la poursuite par voie de faillite. Pour le surplus, l'office a relevé qu'il ne lui appartenait pas
+de décider si la prétention du poursuivant était bien fondée et qu'au stade de la
+continuation de la poursuite, il devait seulement s'assurer que cette dernière pouvait suivre son
+cours, libre d'opposition.
+L'intimé O.________ s'est également déterminé le 7 février 2012, concluant au
+rejet de la plainte. Il a produit un extrait du registre du commerce concernant l'ancienne raison sociale
+du plaignant. Il a en outre fait valoir que les moyens ayant trait à la procédure de mainlevée
+soulevés dans la plainte auraient dû faire l'objet d'un recours interjeté en temps utile
+contre le prononcé de mainlevée, ce qui n'avait pas été le cas.
+2.
+Par décision rendue le 9 mars 2012, à la suite de l'audience du 16 février 2012,
+le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance,
+statuant sans frais ni dépens, a rejeté la plainte. En bref, il a jugé, au vu des art.
+39 a. 1 ch. 2, 40 et 43 LP, que le plaignant était sujet à la poursuite par voie de faillite.
+Quant aux deux autres moyens soulevés dans la plainte, il a considéré qu'il n'était
+pas du ressort de l'autorité de surveillance de les examiner.
+3.
+Par acte du 19 mars 2012, reprenant les moyens
+qu'il avait soulevés dans sa plainte, A.N.________ a recouru contre la décision précitée
+auprès de la cour de céans, autorité supérieure de surveillance. Il n'a pas pris
+de conclusions formelles, mais son argumentation permet de comprendre qu'il conclut implicitement à
+l'admission de sa plainte et à l'annulation de la commination de la faillite.
+L'intimé O.________ s'est déterminé le 3 avril 2012, concluant au rejet du recours.
+Par courrier du 5 avril 2012, l'office a confirmé, en les transmettant à la cour de céans,
+les déterminations qu'il avait produites devant l'autorité précédente.
+Le 11 avril 2012, le recourant a déposé une nouvelle écriture, accompagnée de pièces.
+En droit :
+I.
+Formé en temps utile contre une décision de l'autorité inférieure de surveillance
+(art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]) et comportant des
+conclusions – implicites – suffisantes et l'énoncé des moyens invoqués (art.
+28 al. 3 LVLP), le recours est recevable.
+Les déterminations de l'office et de l'intimé sont également recevables (art. 31 al. 1
+LVLP).
+La question de la recevabilité de la deuxième écriture du recourant peut demeurer ouverte.
+II.
+a)
+Le
+recourant soutient qu'il n'est pas sujet à la poursuite par voie de faillite.
+A bon droit, l'autorité précédente a rejeté ce moyen, considérant que le recourant
+était inscrit au registre du commerce en qualité d'associé d'une société en
+nom collectif (art. 39 al. 1 ch. 2 LP), que la continuation de la poursuite avait été
+requise avant la radiation du registre du commerce de la raison sociale du recourant, qui, au demeurant,
+restait sujet à la poursuite par voie de faillite durant les six mois suivant la publication dans
+la FOSC de cette radiation (art. 40 LP), et que la créance réclamée en poursuite n'appartenait
+pas à l'une des catégories de créances exclues de la poursuite par voie de faillite (art.
+43 LP).
+b)
+Le recourant conteste l'authenticité de la reconnaissance de dette invoquée par le poursuivant.
+Là encore à juste titre, l'autorité précédente a considéré qu'elle
+n'était pas habilitée à examiner le bien-fondé de la prétention du poursuivant,
+le moyen libératoire pris de l'imitation de la signature figurant sur la reconnaissance de dette
+ne pouvant pas être soulevé par la voie de la plainte, le but de celle-ci n'étant pas
+de provoquer une décision sur le fond du droit objet de l'exécution forcée.
+c)
+L'autorité
+précédente a considéré n'être pas compétente, comme autorité de surveillance,
+pour examiner le grief du recourant tiré du défaut de convocation à l'audience de mainlevée
+et du défaut de notification du prononcé de mainlevée.
+aa)
+Selon
+l'art. 159 LP, dès réception de la réquisition de continuer la poursuite, l'office des
+poursuites adresse sans retard la commination de faillite au débiteur sujet à la poursuite
+par voie de faillite. A ce stade, la poursuite doit être libre de suivre son cours, soit que le
+poursuivi n'ait pas formé opposition, soit que l'opposition formée ait été levée
+par jugement.
+Le Tribunal fédéral a jugé que la poursuite ne peut pas être continuée lorsque
+le débiteur n'a reçu ni convocation à l'audience de mainlevée ni jugement de mainlevée
+(ATF 130 III 397, JT 2005 II 87). En pareil cas, en effet, le jugement de mainlevée est nul (ATF
+102 III 133, rés. in JT 1978 II 62). Selon cet arrêt plus ancien, lorsque le grief de défaut
+de convocation ou de notification du prononcé de mainlevée est invoqué dans une procédure
+de plainte ou de recours devant les autorités de surveillance, celles-ci doivent examiner si le
+débiteur a fait usage d'un moyen de droit cantonal contre le jugement de mainlevée (ibid.).
+Pour sa part, la cour de céans a considéré que l'assignation irrégulière n'entraînait
+pas la nullité absolue du jugement, mais constituait un motif de nullité qui devait être
+expressément soulevé dans un recours (CPF, 9 décembre 2010/470; CPF, 22 février 2007/52).
+Cela ne vaut toutefois que lorsque le débiteur est en mesure de recourir. Ainsi, dans d'autres arrêts,
+la cour de céans, statuant en qualité d'autorité de recours en matière sommaire de
+poursuite, a considéré que, dans l'hypothèse où la partie poursuivie n’a reçu
+ni la convocation à l'audience ni le prononcé de mainlevée, que ce soit sous forme de
+dispositif ou d'une décision motivée, elle ne pouvait pas recourir contre ce prononcé
+en soulevant le moyen tiré de l’assignation irrégulière, situation qui conduisait
+à annuler d’office le prononcé (CPF 16 juin 2011/213; CPF, 9 décembre 2010/470 précité;
+CPF, 1
+er
+juillet 2010/284; CPF 25 juin 2009/19). Statuant en sa qualité d'autorité supérieure de
+surveillance, elle a constaté d'office la nullité du prononcé de mainlevée et des
+actes qui avaient suivi dans la même poursuite, soit, dans un cas, une commination de faillite (CPF,
+14 septembre 2009/33) et, dans un autre cas, un avis de saisie (CPF, 7 octobre 2004/38).
+bb)
+Il s'ensuit que l'autorité inférieure de surveillance devait instruire la question de la validité
+de la convocation du recourant à l'audience de mainlevée. Si l'assignation est irrégulière
+– et que la décision de mainlevée n'a pas non plus été valablement notifiée
+au recourant, ce qui lui aurait ouvert, le cas échéant, la voie du recours en nullité
+–, le prononcé de mainlevée est nul, partant, la poursuite en cause ne peut pas continuer
+et la commination de faillite litigieuse est nulle également.
+III.
+Vu ce qui précède, la cour de céans ne peut pas en l'état admettre la plainte et
+annuler la commination de faillite, elle doit en revanche annuler la décision de l'autorité
+précédente et lui renvoyer la cause pour nouvelles instruction et décision dans le sens
+des considérants.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let. a
+et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est annulé et la cause renvoyée au Président du Tribunal d'arrondissement
+de Lausanne, autorité inférieure de surveillance, pour nouvelles instruction et décision
+dans le sens des considérants.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+10 mai 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. A.N.________,
+‑
+M. Christophe Savoy, agent d'affaires breveté (pour O.________),
+-
+M. le Préposé à l’Office des poursuites du district de l'Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
