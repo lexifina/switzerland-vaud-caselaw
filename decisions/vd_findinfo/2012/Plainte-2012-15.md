@@ -1,0 +1,276 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 15"
+decided: "2012-05-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3253990"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-125.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 15
+
+## Regeste
+
+PLAINTE{LP}, EXÉCUTION DE LA SAISIE, INSAISISSABILITÉ | 92 al. 1 ch. 1 LP, 92 al. 1 ch. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.05.2012 Plainte / 2012 / 15
+
+PLAINTE{LP}, EXÉCUTION DE LA SAISIE, INSAISISSABILITÉ | 92 al. 1 ch. 1 LP, 92 al. 1 ch. 3 LP
+
+TRIBUNAL
+CANTONAL
+FA11.017086-111739
+18
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 mai 2012
+________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Sauterel
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+92 al. 1 ch. 1 et 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Z.________
+,
+à Lausanne, contre la décision rendue le 7 septembre 2011, à la suite de l’audience
+du 30 juin 2011, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte du recourant contre le procès-verbal de saisie
+établi le 17 janvier 2011 par l'
+E.________
+dans le cadre de poursuites exercées par
+Y.________
+,
+à Zurich,
+M.________
+,
+à Küsnacht,
+F.________
+,
+à Zurich et
+P.________
+,
+à Lugano.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Dans le cadre de quatre poursuites exercées contre Z.________ par Y.________ (poursuite n°
+5'472'224), M.________ (poursuite n° 5'490'574), F.________ (poursuite n° 5'532'441) et F.________
+(poursuite n° 5'635'062) pour les montants respectifs de 7'638 francs 55, 2'771 fr. 45, 2'670 fr.
+15 et 14'111 fr. 35, l'Office des poursuites de Lausanne-Est (ci-après: l'office) a établi
+le 17 janvier 2011 un procès-verbal de saisie portant sur une voiture de tourisme "de marque
+MINI COOPER S, vert, 3 portes, toit o[...], matricule N° [...], 1ère mise en circulation
+le 11.02.2010, 20'348 Km au compteur, [...]", la valeur estimative de cet objet étant fixée
+à 20'000 francs.
+Le 2 mai 2011, l'office a adressé au débiteur saisi un avis de vente aux enchères, précisant
+que celle-ci aurait lieu le 26 mai 2011 à 9 heures chez [...], à Crissier.
+2.
+a)
+Par
+pli posté le 8 mai 2011, Z.________ a déposé une plainte au sens de l'art. 17 LP (loi
+sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1), faisant valoir que le représentant
+de l'office aurait usé de contrainte à son endroit. Il a également soutenu que son véhicule
+lui était nécessaire pour se rendre sur son lieu de travail, notamment du fait de ses horaires
+nocturnes, qui ne lui permettraient pas d'utiliser les transports publics. Il a produit une pièce.
+Dans ses déterminations du 16 juin 2011, l'office intimé a conclu au rejet de la plainte et
+a produit un ensemble de pièces, en particulier une lettre du 15 avril 2011 de l'assistante
+sociale du plaignant selon laquelle ce dernier, "alternatif du spectacle", s'est retrouvé
+sans travail, avec de nombreuses dettes, en 2010 et qu'il a ainsi bénéficié du revenu
+d'insertion entre les mois de février et juin 2010.
+Par lettre du 22 juin 2011, le plaignant a complété ses déclarations. Il a produit un
+ensemble de pièces, notamment:
+-
+un contrat de travail du 3 mai 2010 par lequel CFF SA l'a engagé en qualité d'agent commercial
+des trains internationaux dès le 1
+er
+juillet 2010 à un taux de 100% à Genève;
+-
+un calendrier détaillé montrant son activité, ses heures de début et de fin d'activité
+et comportant des commentaires de sa main dont il ressort qu'il aurait besoin d'un véhicule huit
+jours par mois.
+b)
+Par
+prononcé du 7 septembre 2011, l'autorité inférieure de surveillance a rejeté la plainte
+et rendu sa décision sans frais. En substance, elle a retenu, sous l'angle de l'art. 92 al. 1 ch.
+3 LP que le plaignant occupait un poste au sein des CFF à Genève et qu'ainsi il lui arrivait
+environ quatre fois par mois de finir son service aux alentours de 1 heure du matin ou d'entrer en fonction
+à 4 heures du matin et que, dans ce cadre, la fréquentation des transports en commun couplée
+à la location d'un véhicule pour les quatre jours par mois concernés constituerait la
+solution la plus économique. Quant à l'argument du plaignant selon lequel sa situation de poursuivi
+l'empêcherait de contracter un contrat de location de voiture, il a été écarté,
+premièrement, parce que le plaignant aurait choisi de vivre à Lausanne plutôt qu'à
+proximité de son lieu de travail, deuxièmement, parce que son appartement, d'un loyer mensuel
+de 2'061 fr. – charges et place de parc incluses –, serait d'un coût disproportionné
+par rapport à son revenu mensuel net de 3'300 fr., dont il constitue le 60%, troisièmement,
+parce que le véhicule saisi, d'une valeur de 20'000 fr., présente un caractère prestigieux
+en inadéquation avec le faible besoin du plaignant et enfin, quatrièmement, parce que le plaignant
+aurait fait preuve de légèreté en ne répondant pas aux convocations de l'office et
+d'absence de bonne volonté en dissimulant son activité salariée, ce qui a abouti à
+la saisie de la voiture plutôt qu'à une saisie sur salaire.
+3.
+Z.________
+a recouru contre ce prononcé par acte motivé
+du 16 septembre 2011 adressé au Tribunal d'arrondissement de Lausanne,
+concluant implicitement à l'annulation de
+la vente, voire de la saisie de son automobile.
+Par décision du 23 septembre 2011, le président de la cour de céans, autorité supérieure
+de surveillance, a accordé d'office l'effet suspensif.
+Par acte du 5 octobre 2011, l'office s'est déterminé, préavisant pour le rejet du recours.
+Il a produit une pièce, soit un extrait du site internet de Mobility indiquant le coût de location
+de véhicules.
+Le recourant a répliqué dans une lettre du 13 octobre 2011. Il s'est notamment référé
+à son courrier antérieur, du 22 juin 2011, dans lequel il exposait n'avoir pu conclure, en
+2009, un contrat de location en raison d'un examen négatif de sa solvabilité, faisant suite
+à son incapacité à verser une caution de 1'000 francs.
+En droit :
+I.
+a)
+L' entrée en vigueur du CPC (Code de procédure
+civile suisse du 19 décembre 2008; RS 272) n'a pas eu de conséquence sur la procédure
+de plainte qui demeure régie par la LVLP (loi d'application dans le canton de Vaud de la loi fédérale
+sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05) puisque l'art. 1 let. c CPC énonce
+qu'il s'applique uniquement aux décisions judiciaires en matière de droit de la poursuite pour
+dettes et la faillite, ce qui exclut les décisions des organes d'exécution de la LP et celles
+des autorités de surveillance (Muster, La nouvelle procédure civile et le droit des poursuites
+et des faillites, in JT 2011 II 75, ch. 2.2; Haldy, Code de procédure commenté, n. 18 ad art.
+1 CPC).
+Déposé en temps utile (art. 18 al. 1
+LP et 28 al. 1 LVLP) et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP),
+le recours est recevable.
+Les déterminations et la pièce nouvelle
+produite par l'office en deuxième instance sont également recevables (art. 28 al. 4 et 31 al.
+1 LVLP).
+b)
+Bien
+que la plainte soit dirigée contre l'avis de vente aux enchères (art. 125 al. 3 LP) et non
+formellement contre la saisie du véhicule, la question de l'insaisissabilité de ce véhicule
+se pose dès lors que des faits nouveaux ont été communiqués à l'office, soit
+l'exercice, par le plaignant, d'une activité professionnelle à Genève et la nécessité
+en découlant, pour le débiteur, de s'y rendre pour y travailler et de regagner ensuite son
+domicile à Lausanne. Ces faits nouveaux sont en effet susceptibles d'imposer une révision de
+la saisie et de mettre à néant la réalisation du moyen de transport. C'est donc à
+bon droit que la plainte déposée contre l'avis de vente aux enchères a été déclarée
+recevable par le premier juge et que le recours contre son rejet l'est également.
+II.
+a)
+L'art.
+92 al. 1 ch. 1 LP dispose que sont insaisissables les objets réservés à l'usage personnel
+du débiteur ou de sa famille, tels que les vêtements, les effets personnels, ustensiles de
+ménage, meubles ou autres objets mobiliers, en tant qu'ils sont indispensables.
+Selon l'art. 92 al. 1 ch. 3 LP, sont insaisissables les outils, appareils, instruments et livres, en
+tant qu'ils sont nécessaires au débiteur et à sa famille pour l'exercice de leur profession.
+Un véhicule destiné à l'usage privé est en principe saisissable (ATF 106 III 104,
+JT 1982 II 139; ATF 108 III 60, JT 1984 II 130; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 83 ad art. 92 LP; Vonder Mühll, in Kommentar zum
+Bundesgesetz über Schuldbetreibung und Konkurs, n. 11 ad art. 92 LP). Le principe général
+posé par le Tribunal fédéral est que si le débiteur peut utiliser les transports
+publics, une automobile ne lui est en principe ni indispensable ni nécessaire au sens de l'art.
+92 al. 1 ch. 1 et 3 LP (TF 7B.117/2002 du 22 août 2002, c. 2).
+La loi et la jurisprudence n'admettent l'insaisissabilité d'un véhicule que s'il est nécessaire
+pour l'exercice de la profession du débiteur et à des conditions précises (ATF 117 III
+20 c. 2, rés. in JT 1993 II 116; TF 7B.114/2001 du 7 juin 2001).
+Trois
+conditions cumulatives doivent être réalisées pour constater l'insaisissabilité d'un
+bien :
+-
+le débiteur doit exercer une profession (et non une entreprise),
+-
+le bien doit être nécessaire à cet exercice,
+-
+l'exercice de cette profession doit être rentable.
+Il incombe au débiteur d'établir que l'usage de son véhicule comme instrument de travail
+est rentable. Tel est notamment le cas, si, pour se rendre au travail, il ne peut pas prendre les transports
+publics (Peter, Edition annotée de la loi sur la poursuite pour dettes et la faillite, pp. 480 et
+481). L'insaisissabilité d'un véhicule automobile a ainsi été admise lorsqu'à
+défaut de ce moyen de transport, le débiteur est dans l'impossibilité d'exercer sa profession
+(in casu de garde de nuit dans une fabrique) à raison de l'horaire de travail qui s'y rattache et
+de l'éloignement de son domicile (BlSchK 1975 p. 145; Mühll, Basler Kommentar, n. 23 ad art.
+92 LP).
+Pour trancher de la nécessité d'un objet pour l'exercice d'une profession, il faut procéder
+à un examen de toutes les circonstances, plus spécialement des circonstances individuelles
+particulières à chaque débiteur (Ochsner, Commentaire romand, n. 99 ad art. 92 LP).
+b)
+En
+l'espèce, est litigieux le caractère nécessaire du véhicule pour effectuer les trajets
+entre le domicile et le lieu de travail.
+Le premier juge a retenu que le plaignant ne commençait ou finissait son travail tard dans la nuit
+que quatre jours par mois. Le tableau produit par le recourant le 22 juin 2011 mentionne une moyenne
+mensuelle de huit jours qui nécessiteraient l'utilisation d'une automobile. Ce décompte inclut
+toutefois des jours où le plaignant termine son service à Genève avant 23 heures, alors
+que cet horaire lui permettrait de regagner Lausanne en train. C'est ainsi à bon droit que l'autorité
+inférieure de surveillance a retenu que le plaignant n'avait besoin d'un véhicule que quatre
+jours par mois en moyenne.
+Le recourant ne conteste pas que la location d'une voiture pour ces quatre jours, couplée à
+l'utilisation des transports publics, serait moins onéreuse que les frais engendrés par le
+véhicule saisi. Il relève cependant qu'il n'existe pas d'alternative à l'utilisation de
+son automobile, son insolvabilité rendant la possibilité de location d'un véhicule purement
+illusoire. Si certaines sociétés de location exigent une caution, tel n'est pas le cas, par
+exemple, de la société coopérative Mobility qui propose un système de "car sharing"
+par lequel le locataire membre paie un abonnement annuel et un prix fonction du nombre de kilomètres
+parcourus, sans constitution d'une caution.
+Par ailleurs, malgré la saisie du véhicule du recourant, le travail de ce dernier s'est apparemment
+poursuivi sans qu'il ne puisse établir que les coûts des solutions de substitution soient apparus
+déraisonnables. Ainsi, l'usage d'une automobile n'était pas nécessaire au maintien de
+l'activité lucrative, le véhicule est donc saisissable et sa vente peut intervenir.
+III.
+Le recours doit en conséquence être
+rejeté et le prononcé attaqué maintenu.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP (ordonnance sur les émoluments perçus en application de la loi fédérale
+sur la poursuite pour dettes et la faillite du 23 septembre 1996; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est maintenu.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+18 mai 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Z.________,
+‑
+E.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne-Est.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
