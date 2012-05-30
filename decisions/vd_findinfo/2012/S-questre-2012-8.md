@@ -1,0 +1,238 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 8"
+decided: "2012-05-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3269557"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 8
+
+## Regeste
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE SÉQUESTRE, PREUVE FACILITÉE, CRÉANCE | 271 al. 1 ch. 4 LP, 272 al. 1 LP, 278 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.05.2012 Séquestre / 2012 / 8
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE SÉQUESTRE, PREUVE FACILITÉE, CRÉANCE | 271 al. 1 ch. 4 LP, 272 al. 1 LP, 278 LP
+
+TRIBUNAL
+CANTONAL
+KE11.047668-120506
+210
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 mai 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Muller
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+271 al. 1 ch. 4 et 272 al. 1 LP
+Vu le prononcé rendu le 13 janvier 2012 par le Juge de paix du district de Lausanne, à la suite
+de l'audience du 10 janvier 2012, admettant l'opposition au séquestre requis par
+B.________
+,
+à Chambésy, contre
+A.J.________
+et
+B.J.________
+,
+tous deux à Stockholm (Suède), et révoquant l'ordonnance de séquestre du 21 novembre
+2011,
+vu le prononcé motivé notifié aux parties le 2 mars 2012,
+vu le recours déposé le 12 mars 2012 par B.________, qui conclut au rejet de l'opposition au
+séquestre et à la confirmation de l'ordonnance de séquestre du 21 novembre 2011,
+vu les pièces du dossier;
+attendu que le recours a été déposé en temps utile (art. 321 al. 2 CPC, Code de procédure
+civile du 19 décembre 2008; RS 272),
+qu'il est accompagné de la décision attaquée et est suffisamment motivé, de sorte
+qu'il est recevable formellement (art. 321 al. 1 CPC);
+attendu que par ordonnance de séquestre scellée le 21 novembre 2011, mentionnant le cas de
+séquestre de l'art. 271 al. 1 ch. 4 LP, le Juge de paix du district de Lausanne a ordonné,
+à la requête de B.________, créancier, le séquestre de biens et avoirs appartenant
+à l'Hoirie de feue C.J.________ en mains de la banque UBS SA, à hauteur d'une créance
+de 1'850'000 fr., avec intérêt à 5 % l'an dès le 19 novembre 2008, de 2'250 fr.,
+avec intérêt à 5 % l'an dès le 27 août 2009 et de 3'125 fr., avec intérêt
+à 5 % l'an dès le 27 août 2009, sous déduction de 300'000 fr., valeur au 19 mai 2010,
+que par acte du 12 décembre 2011, A.J.________ et B.J.________ ont formé opposition au séquestre
+produisant un onglet de pièces sous bordereau, en particulier :
+-
+une reconnaissance de dette, datée du 17 août 2007 et portant la signature de C.J.________,
+mentionnant que cette dernière reconnaît devoir à B.________ la somme de 1'850'000 fr.,
+montant payable au 30 septembre 2007 au plus tard, "dû en raison de l'aide et de l'assistance
+qu'il m'a apportées au cours de ces cinq dernières années";
+-
+un prononcé motivé du Juge de paix du district  de Lavaux-Oron, adressé pour notification
+aux parties le 20 février 2009, rejetant la requête de mainlevée déposée par
+B.________ dans une poursuite à l'encontre de C.J.________ en paiement de la somme de 1'850'000
+fr., fondée sur la reconnaissance de dette précitée;
+-
+un arrêt du 27 août 2009 de la cour de céans réformant le prononcé précité
+et levant provisoirement l'opposition à concurrence de 1'850'000 fr., plus intérêt à
+5 % l'an dès le 19 novembre 2008;
+-
+une demande déposée le 16 septembre 2009 devant la Cour civile du Tribunal cantonal tendant
+notamment à ce qu'il soit prononcé que la succession de feue C.J.________ n'est pas la débitrice
+de B.________ de la somme de 1'850'000 francs;
+-
+un certificat d'héritiers délivré le 4 mars 2010 par la Justice de paix du district de
+Lavaux-Oron, indiquant que feue C.J.________ a laissé pour seuls héritiers légaux ses
+frères A.J.________ et B.J.________;
+-
+une convention signée  le 19 mai 2010 par l'avocat suédois d'A.J.________ et B.J.________,
+d'une part, B.________, d'autre part, destinée à mettre fin au litige qui les divise devant
+la Cour civile du Tribunal cantonal et qui contient notamment les clauses suivantes :
+"1. B.________
+adhère à la conclusion libératoire du demandeur ("La succession de Mme C.J.________
+n'est pas la débitrice de B.________ de la somme de CHF 1'850'000.- (…) plus intérêt
+à 5 % l'an dès le 19 novembre 2008.").
+2. La succession
+de feu C.J.________ renonce à sa conclusion reconventionnelle.
+(…)
+5. Pour mettre
+fin à leur litige, sans reconnaissance de responsabilité, les parties conviennent d'un montant
+transactionnel de CHF 300'000.- (…) à verser par la succession de feu C.J.________ à
+B.________ pour solde de tous comptes et de toutes prétentions.
+6. Les parties
+se donnent quittance pour solde de tous comptes et de toutes prétentions.
+(…)
+8. Les parties,
+par leurs conseils (…) adresseront à la Cour civile du Tribunal cantonal du canton de Vaud
+une déclaration confirmant qu'elles ont transigé le litige qui les divise.";
+-
+une déclaration signée les 21 mai et 25 mai 2010 conjointement par les parties à la transaction
+indiquant qu'elles déclarent avoir transigé leur litige et requérant que la cause soit
+rayée du rôle de la Cour civile;
+-
+un courrier du 26 mai 2010 du juge instructeur de la Cour civile prenant acte du fait que les parties
+ont transigé et rayant la cause du rôle;
+-
+deux avis de débit d'UBS SA attestant le versement en faveur du conseil de B.________ de la somme
+de 150'000 fr., valeur 19 juillet 2010, et de 150'000 fr., valeur 6 décembre 2010;
+attendu que le premier juge a considéré que les opposants au séquestre avaient rendu vraisemblable
+que B.________ n'était plus titulaire d'aucune créance à leur encontre, le séquestrant
+n'ayant apporté aucune preuve d'un vice du consentement lors de la signature de la convention du
+19 mai 2010;
+considérant que, selon l'art. 271 al. 1 LP (loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1), le créancier d'une dette échue et non garantie
+par gage peut requérir le séquestre des biens du débiteur qui se trouvent en Suisse, notamment
+lorsque le débiteur n'habite pas en Suisse et qu'il n'y a pas d'autre cas de séquestre, pour
+autant que la créance ait un lien suffisant avec la Suisse ou qu'elle se fonde sur une reconnaissance
+de dette au sens de l'art. 82 al. 1 LP (ch. 4),
+que le séquestre, mesure conservatoire urgente, doit être autorisé de manière générale
+par le juge compétent, lorsque le créancier rend vraisemblable l'existence de la créance
+qu'il allègue, celle du cas de séquestre et celle des biens qu'il désigne comme appartenant
+au débiteur (art. 272 al. 1 LP),
+qu'en l'espèce le premier juge a considéré que le séquestrant n'avait pas rendu vraisemblable
+l'existence d'une créance à l'encontre des séquestrés dès lors qu'il ressortait
+de la transaction du 19 mai 2010 et des deux versements effectués en application de cette convention
+qu'il n'avait plus aucune prétention à l'encontre de la succession de feue C.J.________,
+que le recourant soutient que la reconnaissance de dette du 17 août 2007 suffit à établir
+sa créance et que les intimés, de leur côté, ne pouvaient produire la convention
+du 19 mai 2010, dès lors qu'antérieure à la requête de séquestre, elle ne constituerait
+pas un élément nouveau,
+que l'opposition doit permettre au juge de réexaminer l'ordonnance de séquestre qu'il a prononcée
+(Pedrotti, Le séquestre international, thèse Fribourg 2001, p. 294),
+que, par le biais de l'opposition, le débiteur peut demander au juge de revoir toutes les conditions
+d'autorisation du séquestre, et en particulier celle de la vraisemblance de la créance (Pedrotti,
+op. cit.,  p. 298),
+qu'en raison de la rapidité de la procédure, les parties à une procédure d'opposition
+ne peuvent toutefois étayer leur point de vue qu'avec les moyens de preuve disponibles (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 81 ad art. 278
+LP; Pedrotti, op. cit., p. 301; Reiser, Basler Kommentar, n. 38 ad art. 278 LP),
+que depuis l'entrée en vigueur du CPC, le 1
+er
+janvier 2011, la procédure d'opposition au séquestre est soumise à la procédure sommaire
+des art. 248 ss CPC (art. 251 let. a CPC; Reiser, op. cit. n. 38 ad art. 278 LP),
+que l'art. 254 CPC prévoit que dans cette procédure, la preuve est généralement rapportée
+par titres,
+qu'en revanche, cette disposition ne restreint nullement la preuve à certains faits,
+que, si l'opposant au séquestre peut faire valoir des éléments nouveaux (Gilliéron,
+op. cit., n. 34 ad art. 278 LP), soit notamment des faits qui se seraient produits après le dépôt
+de la requête de séquestre, il n'est nullement limité, comme le prétend le recourant,
+à ces moyens,
+que ce n'est qu'en procédure de recours que l'apport de nouveaux faits est limité aux vrais
+novas (art. 278 al. 3 LP; Reiser, op. cit. n. 46 ad art. 278 LP),
+qu'il n'est ainsi pas douteux que les opposants étaient habilités à invoquer la convention
+du 19 mai 2010;
+considérant que le recourant fait encore valoir, que dans le cadre de l'examen de la vraisemblance
+de la créance, l'arrêt de la cour de céans du 27 août 2009, auquel serait rattachée
+l'autorité de la chose jugée, l'emporterait sur la convention produite par les intimés,
+laquelle n'a pas été ratifiée par le juge,
+qu'un prononcé de mainlevée n'a précisément pas pour objet de trancher, avec l'autorité
+de la chose jugée, la question de l'existence de la créance, mais uniquement celle de savoir
+si la poursuite peut être continuée (ATF 132 III 140 c. 4.1.1., rés. in JT 2006 II 187),
+qu'une convention extrajudiciaire ne constitue certes pas un titre de mainlevée définitive,
+mais peut justifier la mainlevée provisoire au sens de l'art. 82 LP,
+qu'en l'occurrence, la convention du 19 mai 2010, postérieure à la reconnaissance de dette
+– et à l'arrêt du 27 août 2009 – ne rend pas suffisamment vraisemblable que
+le recourant dispose encore d'une quelconque créance à l'encontre des intimés,
+que c'est donc à juste titre que le premier juge a admis l'opposition et révoqué l'ordonnance
+de séquestre;
+considérant que le recours, manifestement infondé au sens de l'art. 322 al. 1 CPC, doit être
+rejeté et le prononcé maintenu,
+que les frais judiciaires de deuxième instance, arrêtés à 1'825 fr. sont à la
+charge du recourant.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'825 fr. (mille huit cent
+vingt-cinq francs), sont mis à la charge du recourant.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+30 mai 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Philippe Currat, avocat (pour B.________),
+‑
+Me Yvan Henzer, avocat (pour A.J.________ et B.J.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 1'555'375 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Lausanne.
+La greffière :
