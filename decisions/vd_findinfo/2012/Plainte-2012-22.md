@@ -1,0 +1,288 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 22"
+decided: "2012-06-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3287861"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-010.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-155.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-099.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 22
+
+## Regeste
+
+POURSUITE EN RÉALISATION DE GAGE, GAGE IMMOBILIER, PROCÉDURE D'ESTIMATION, EXPERT, COMMUNICATION, EFFET SUSPENSIF, RÉCUSATION | 10 al. 1 LP, 155 al. 1 LP, 17 al. 1 LP, 17 al. 2 LP, 18 al. 1 LP, 97 al. 1 LP, 99 al. 1 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.06.2012 Plainte / 2012 / 22
+
+POURSUITE EN RÉALISATION DE GAGE, GAGE IMMOBILIER, PROCÉDURE D'ESTIMATION, EXPERT, COMMUNICATION, EFFET SUSPENSIF, RÉCUSATION | 10 al. 1 LP, 155 al. 1 LP, 17 al. 1 LP, 17 al. 2 LP, 18 al. 1 LP, 97 al. 1 LP, 99 al. 1 ORFI
+
+TRIBUNAL
+CANTONAL
+FA11.026514-112397
+23
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 juin 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Sauterel
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+10 al. 1, 17 al. 1 et 2, 18 al. 1, 97 al. 1 et 155 al. 1 LP; 99 al. 1 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+W.________
+,
+à Chevilly, contre la décision rendue le 5 décembre 2011, à la suite de l’audience
+du 26 septembre 2011, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, déclarant irrecevable la plainte déposée le 15 juillet
+2011 par le recourant contre la décision de l'
+Office
+des poursuites du district de Morges
+de procéder
+à l'expertise de l'immeuble propriété du recourant et contre l'exécution de cette
+expertise dans le cadre de la poursuite en réalisation de gage immobilier n° 400'207'794
+exercée contre lui à l'instance de la
+Banque
+G.________
+, à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 7 janvier 2011, dans le cadre de la poursuite en réalisation de gage immobilier n° 400'207'794
+de l'Office des poursuites du district de Morges (ci-après : l'office), exercée à l'instance
+de la Banque G.________ contre W.________, l'office a adressé au poursuivi l'avis de réception
+de la réquisition de vente du gage, soit l'immeuble parcelle RF 78 de la commune de Chevilly dont
+il est propriétaire, indiquant que le montant à verser afin d'éviter la réalisation
+du gage était de 609'266 francs 35.
+Le 27 janvier 2011,              W.________
+a déposé contre cet avis une plainte au sens de l'art. 17 LP [loi fédérale sur la
+poursuite pour dettes et la faillite; RS 281.1], que la Présidente du Tribunal d'arrondissement
+de La Côte, autorité inférieure de surveillance, a rejetée par décision du 11
+avril 2011.
+Le 28 avril 2011, le plaignant a formé un recours contre cette décision auprès de la cour
+de céans, autorité supérieure de surveillance. Il a requis l'effet suspensif, que le président
+de la cour de céans, par décision du 20 mai 2011, a refusé. Le 9 juin 2011, W.________
+a recouru au Tribunal fédéral contre cette décision présidentielle. Son recours a
+été déclaré irrecevable par arrêt du Tribunal fédéral du 14 juin 2011,
+expédié aux parties le 17 juin 2011. Par arrêt du 10 août 2011, la cour de céans
+a rejeté le recours du plaignant contre la décision de l'autorité inférieure de surveillance
+du 11 avril 2011.
+b)
+Par
+lettre recommandée du 15 juin 2011, l'office a informé W.________ qu'il serait procédé
+à une expertise de son immeuble le 5 juillet 2011, à 14 heures 30. Avisé le jeudi
+16 juin 2011 de l'arrivée de cette lettre, l'intéressé ne l'a retirée au guichet
+de la poste que le mercredi 22 juin 2011.
+Par lettre du 29 juin 2011, W.________ a demandé à l'office d'annuler cette expertise pour
+le motif qu'elle avait été décidée le 15 juin 2011, soit avant que l'arrêt précité
+du Tribunal fédéral n'ait été expédié aux parties. Il a également
+exigé que le nom de l'expert soit communiqué à son conseil, Me Aba Neeman, préalablement
+à toute intervention.
+L'office lui a répondu par lettre recommandée du 30 juin 2011, faisant valoir qu'il n'y avait
+pas d'effet suspensif dans les procédures en question et l'informant que l'expertise du 5 juillet
+2011 était maintenue et serait effectuée par M. Magnenat, à Morges, accompagné
+d'un représentant de l'office, le soin étant laissé à W.________ de transmettre ces
+informations à son conseil, dont les coordonnées étaient inconnues de l'office. Avisé
+le vendredi 1
+er
+juillet
+2011 de l'arrivée de cette lettre, l'intéressé ne l'a retirée au guichet de la poste
+que le mardi 5 juillet 2011 à 16 heures 58. Il a cependant encore écrit à l'office
+le 4 juillet 2011, déclarant maintenir son opposition à l'expertise et demandant que l'identité
+de l'expert avec ses coordonnées complètes, sa qualification professionnelle, ses références
+et la confirmation de son absence de toute implication avec la Banque G.________ soient communiquées
+préalablement à l'expertise à son conseil, dont il indiquait l'adresse.
+M. Jean-Luc Magnenat, architecte, a procédé à l'expertise le 5 juillet 2011 en présence
+du propriétaire.
+c)
+Le
+15 juillet 2011, W.________ a déposé une plainte au sens de l'art. 17 LP contre la décision
+de l'office de procéder à l'expertise malgré son opposition pour le motif que "la
+procédure de la poursuite n° 207'794 n'était pas terminée" et contre l'exécution
+de l'expertise, pour le motif que l'identité de l'expert ne lui avait pas été communiquée
+de manière assez complète ni suffisamment tôt pour pouvoir s'assurer de son impartialité.
+L'office s'est déterminé le 22 juillet 2011, concluant au rejet de la plainte et au maintien
+de l'expertise effectuée, sur la base de laquelle le procès-verbal d'estimation de gage serait
+notifié aux parties.
+2.
+Par décision rendue le 5 décembre 2011, à la suite d'une audience du 26 septembre 2011
+à laquelle le plaignant ne s'est pas présenté, la Présidente du Tribunal d'arrondissement
+de La Côte, autorité inférieure de surveillance, statuant sans frais ni dépens, a
+déclaré la plainte irrecevable et maintenu l'expertise litigieuse du 5 juillet 2011. Elle a
+considéré que la plainte déposée le 15 juillet 2011 était tardive en ce qu'elle
+était dirigée contre l'avis de l'office du 15 juin 2011, reçu le 22 juin 2011, la
+lettre subséquente de l'office du 30 juin 2011, reçue le 5 juillet 2011, n'ayant qu'une portée
+confirmatoire, que cette plainte était de toute manière infondée, l'office étant
+en droit de décider de procéder à l'expertise de l'immeuble objet du gage, dès lors
+qu'aucun effet suspensif n'avait été accordé dans la procédure de recours contre
+le rejet de la plainte contre l'avis de réception de la réquisition de vente dudit objet, enfin,
+que les griefs du plaignant concernant les modalités de l'expertise n'étaient nullement fondés,
+dès lors qu'il appartenait à celui-ci de faire diligence s'il voulait être informé
+plus tôt de l'identité de l'expert afin de faire valoir, le cas échéant, des motifs
+de récusation.
+La décision a été notifiée au plaignant le 12 décembre 2011.
+3.
+Par acte du 22 décembre 2011, W.________ a recouru contre cette décision, concluant à
+son annulation, à l'admission de la plainte et à l'annulation de l'expertise immobilière
+du 5 juillet 2011 et de son exécution.
+Il a requis l'effet suspensif, qui a été refusé par décision du président de
+la cour de céans, autorité supérieure de surveillance, du 30 décembre 2011.
+L'intimée Banque G.________ s'est déterminée le 10 janvier 2012, concluant au rejet du
+recours. Elle a fait valoir que le recourant n'était au bénéfice d'aucun effet suspensif
+dans la poursuite en cause et que l'office devait suivre à la procédure d'exécution forcée
+et notamment estimer l'immeuble objet du gage. Elle a en outre relevé que le recourant déposait
+plainte contre chaque opération de l'office, sans aucun fondement juridique et dans un but uniquement
+dilatoire.
+Par lettre du 20 janvier 2012, l'office s'est référé aux déterminations qu'il avait
+produites en première instance. Il a également relevé l'utilisation systématique
+par le recourant de tous les moyens dilatoires pour bloquer les procédures le concernant.
+En droit :
+I.
+Formé en temps utile contre une décision de l'autorité inférieure de surveillance
+(art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]) et comportant des
+conclusions suffisantes et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours
+est recevable.
+II.
+a)
+En matière de réalisation dans la
+poursuite en réalisation de gage immobilier, l'art. 99 al. 1 ORFI [ordonnance du Tribunal fédéral
+sur la réalisation forcée des immeubles; RS 281.42] prescrit que l'office, après avoir
+communiqué la réquisition de vente au débiteur, demande un extrait du registre foncier
+relatif à l'immeuble à réaliser et ordonne l'estimation de cet immeuble au sens de l'art.
+9 al. 1 ORFI. Selon cette dernière disposition, l'estimation doit déterminer la valeur vénale
+présumée de l'immeuble et de ses accessoires, sans égard au montant de la taxe cadastrale
+ou de la taxe de l'assurance contre l'incendie. L'art. 97 al. 1 LP, qui prévoit que le fonctionnaire
+fait l'estimation des objets qu'il saisit et peut s'adjoindre des experts, s'applique par analogie dans
+la procédure de réalisation d'un gage immobilier, par renvoi de l'art. 155 LP. Selon la jurisprudence,
+l'estimation n'a qu'une importance secondaire dans la poursuite en réalisation de gage, ses fonctions
+principales n'étant que de déterminer le découvert et d'orienter le créancier sur
+le résultat prévisible de la réalisation (CPF, D. c. Office des poursuites de Montreux,
+4 septembre 1996/plainte n° 37; CPF, M. c. Office des poursuites de l'arrondissement de Lavaux,
+4 décembre 1996/plainte n° 42). L'estimation sert en outre à renseigner d'éventuels
+enchérisseurs et doit être égale au montant que l'on peut envisager d'atteindre au moment
+de la réalisation du bien saisi (ATF 99 III 56 c. 4b, JT 1974 II 121).
+b)
+En l'espèce, le recourant a été avisé de la date de l'expertise litigieuse fixée
+au 5 juillet 2011 par lettre recommandée du 15 juin 2011, reçue le 22 juin 2011. Comme
+l'a constaté le premier juge, les griefs soulevés contre cette mesure dans la plainte du 15
+juillet 2011, tirés de l'inachèvement de la procédure de contestation de l'avis de réception
+de la réquisition de vente et du déroulement de la procédure parallèle de recours
+contre le refus de l'effet suspensif, ont été invoqués tardivement. C'est ainsi à
+bon droit que la plainte a été déclarée irrecevable sur ce point. A juste titre également,
+le premier juge a considéré que les griefs soulevés étaient au demeurant mal fondés,
+l'estimation du gage pouvant avoir lieu dès lors que l'effet suspensif avait été refusé
+dans la procédure de recours devant la cour de céans contre le rejet de la contestation de
+l'avis de réception de la réquisition de vente, décision confirmée par l'arrêt
+du Tribunal fédéral du 14 juin 2011 déclarant irrecevable le recours contre ce refus d'effet
+suspensif. Le fait que ce dernier arrêt ait été expédié aux parties le 17 juin
+2011, soit deux jours après l'avis précité du 15 juin 2011, n'a aucune incidence sur la
+validité formelle de cet avis, le recours au Tribunal fédéral n'ayant pas eu d'effet suspensif.
+c)
+Le
+recourant s'est toutefois également plaint de l'exécution de l'expertise le 5 juillet 2011
+et, dans cette mesure, la plainte du 15 juillet 2011, visant ainsi un acte de l'office (Peter, Edition
+annotée de la loi fédérale sur la poursuite pour dettes et la faillite, Berne 2010, ad
+art. 17 LP, p. 47), avait été déposée à temps et était recevable.
+aa)
+Le recourant reproche à l'office de ne pas avoir communiqué à son conseil, préalablement
+à l'expertise, l'identité de l'expert avec ses coordonnées complètes, sa qualification
+professionnelle, ses références et la confirmation de son absence de toute implication avec
+la Banque G.________.
+bb)
+Ce moyen est à double titre mal fondé. Premièrement, le recourant a attendu sept jours
+après la réception de l'avis d'expertise – qu'il n'était allé retirer, comme
+il le fait souvent, que le dernier jour du délai de garde – avant de demander à l'office,
+par lettre du 29 juin 2011, de communiquer à son conseil l'identité de l'expert. L'office lui
+a immédiatement répondu, par lettre recommandée du 30 juin 2011, l'informant du nom de
+l'expert et lui laissant le soin de transmettre ces informations à son conseil, dont les coordonnées
+n'étaient pas connues de l'office. Avisé le lendemain de l'arrivée de ce pli, le recourant
+a encore laissé courir le délai de garde et n'a retiré le pli que le 5 juillet 2011.
+Il ne saurait dès lors faire grief à l'office de ne pas avoir été informé de
+l'identité de l'expert avant l'expertise.
+Deuxièmement, aucune prescription n'impose à l'office de communiquer à une partie, préalablement
+à l'exécution d'une mesure, des informations sur la personne, la formation et les compétences
+du fonctionnaire chargée de l'opérer. Il en va de même en ce qui concerne l'expert que
+le fonctionnaire en question s'adjoint comme auxiliaire pour procéder à l'estimation d'un immeuble,
+conformément à l'art. 97 al. 1 LP. En revanche, si l'expert pressenti réalise un des cas
+de récusation prévu à l'art. 10 LP, notamment s'il peut avoir développé une
+opinion préconçue dans l'affaire (art. 10 al. 1 ch. 4 LP), il a le devoir de se récuser
+au même titre qu'un employé de l'office (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 16 ad art. 10 LP).
+En l'espèce, l'identité de l'expert a été communiquée par lettre du 30 juin
+2011 au recourant. Ce dernier a en outre eu connaissance de la personne de l'expert au moment de l'expertise
+le 5 juillet 2011, puisqu'il était présent. Cela était suffisant pour lui permettre, le
+cas échéant, de demander la récusation de l'expert et l'annulation de l'opération
+débutée par le récusé. Au demeurant, même s'il avait eu connaissance de la personne
+de l'expert plus tardivement, par exemple à la lecture du rapport d'expertise mentionnant son nom,
+cela aurait suffi (Gilliéron, op. cit., n. 28 ad art. 10 LP). Le droit du recourant de récuser
+l'expert n'a donc pas été entravé. A cet égard, le recourant ne prétend d'ailleurs
+nullement que l'expert aurait dû se récuser ou que lui-même aurait eu un intérêt
+digne de protection à une telle récusation (ibid., n. 29 ad art. 10 LP). Au surplus, aucun
+élément du dossier ne permet de retenir l'existence d'un éventuel cas de récusation.
+L'exécution de l'expertise du 5 juillet 2011 a ainsi été régulière et le recours
+sur ce point, mal fondé, doit être rejeté.
+III.
+En définitive, le recours doit être
+entièrement rejeté et le prononcé de l'autorité précédente confirmé
+en ce sens que la plainte est rejetée dans la mesure où elle est recevable.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé en ce sens que la plainte déposée par W.________ le 15 juillet
+2011 est rejetée dans la mesure où elle est recevable.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. W.________,
+‑
+Banque G.________,
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
