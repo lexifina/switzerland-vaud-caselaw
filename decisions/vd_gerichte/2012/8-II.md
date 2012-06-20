@@ -1,0 +1,476 @@
+---
+decision_id: "vd_gerichte_8_II"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREC"
+docket: "8/II"
+decided: "2012-06-20"
+published: "2012-07-10"
+language: "fr"
+legal_area: "Divorce sur demande unilatérale"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/23eef284-0ffc-45ec-abea-13ee4dc5956a"
+cites_decisions: ["4A_138/2007", "4A_641/2011", "5A_336/2008", "BGE 131 III 91", "BGE 133 III 201", "BGE 137 III 127", "BGE 137 III 130"]
+cites_law: ["switzerland/bund/acts/173.110/art-066.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-206.md", "switzerland/bund/acts/272/art-373.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# Divorce sur demande unilatérale
+
+## Text
+
+TRIBUNAL CANTONAL
+TU04.012981-120516
+8/II
+CHAMBRE DE S RECO URS
+________________________________
+Arrêt du 20 juin 2012
+__________________
+Présidence de M. SAUTEREL, président
+Juges : MM. Giroud et Colombini
+Greffière : Mme Vuagniaux
+*****
+Art. 107 al. 2 LTF
+A la suite de l'arrêt rendu le 17 février 2012 par le Tribunal
+fédéral, la Chambre des recours du Tribunal cantonal prend séance pour
+s’occuper du recours interjeté par A.T.________, à Corseaux, défenderesse,
+et du recours joint interjeté par B.T.________, à Vevey, demandeur, contre
+le jugement rendu le 26 mai 2010 par le Tribunal civil de l'arrondissement
+de l'Est vaudois dans la cause divisant les parties.
+Délibérant à huis clos, la cour voit :
+805
+
+- 2 -
+En fait :
+A. Par jugement du 26 mai 2010, le Tribunal civil de
+l'arrondissement de l'Est vaudois a prononcé le divorce du demandeur
+B.T.________ et de la défenderesse A.T.________ (I), dit que le demandeur
+contribuera à l'entretien de la défenderesse par le versement d'une
+pension mensuelle de 4'000 fr. dès jugement définitif et exécutoire pour
+une durée de vingt-quatre mois, puis de 2'500 fr. dès lors et jusqu'au 30
+juin 2017 (II), indexé dite contribution dans la mesure où les revenus du
+demandeur le seraient (III), dit que le demandeur assumera en outre les
+charges relatives à la villa sise à Corseaux jusqu'au 31 décembre 2010
+(IV), déclaré le demandeur débiteur de la défenderesse d'un montant de
+95'316 fr. à titre de liquidation du régime matrimonial (V), ordonné au
+Conservateur du Registre foncier de Vevey d'inscrire la défenderesse en
+qualité de seule et unique propriétaire du bien-fonds no [...] de la
+Commune de Corseaux (VI), constaté pour le surplus que le régime
+matrimonial est dissous et liquidé, chaque partie étant reconnue
+propriétaire des biens et objets en sa possession (VII), ordonné le partage
+par moitié des avoirs de prévoyance professionnelle acquis par chaque
+partie durant le mariage (VIII), transmis le dossier à la Cour des
+assurances sociales du Tribunal cantonal pour détermination du montant
+des avoirs de prévoyance à partager (IX), fixé les frais de justice du
+demandeur à 14'025 fr. et ceux de la défenderesse à 11'635 fr. (X),
+compensé les dépens de première instance (XI) et rejeté toutes autres ou
+plus amples conclusions (XII).
+Les faits suivants résultent du jugement attaqué :
+1. B.T.________, né le [...] 1952, et A.T.________, née [...] le [...]
+1956, se sont mariés le [...] 1986. Le couple a eu deux enfants, nés en
+1988 et 1990.
+2. B.T.________ est ophtalmologue. Son revenu mensuel brut a été
+estimé à 28'000 fr. pour l'année 2009, 30'000 fr. pour l'année 2008 et
+
+- 3 -
+23'000 fr. pour les années 2007 et 2006. Sa fortune imposable s'élevait à
+1'161'429 fr. en 2008.
+Après avoir obtenu un diplôme fédéral de médecin en 1980,
+A.T.________ a travaillé jusqu'en 1986 comme médecin assistant pour
+divers hôpitaux et polycliniques dans le but d'acquérir une formation de
+médecin généraliste FMH, puis, du 1er octobre 1986 au 30 septembre
+1987, dans un hôpital psychiatrique en vue d'obtenir la formation de
+psychiatre-psychothérapeute FMH. Les déplacements générés par le
+cursus professionnel de son mari et l'éducation des enfants ne lui ont
+toutefois pas permis de poursuivre sa formation : elle a ainsi cessé de
+travailler dès cette dernière date. Sa fortune imposable atteignait 465'000
+fr. en 2006, 444'000 en 2007 et 354'070 fr. en 2008.
+3. Le 4 septembre 1997, les époux T.________ ont acquis en
+copropriété, chacun pour moitié, les immeubles nos [...] et [...] sis sur la
+commune de Corseaux. Une maison est érigée sur la parcelle no [...],
+d'une surface de 1'785 m2, tandis que le bien-fonds no [...] constitue une
+place-jardin de 318 m2. Les immeubles ont été acquis pour un montant de
+1'025'000 fr., financé par l'épouse à raison de 355'000 fr. et par la
+conclusion d'un prêt hypothécaire d'un montant de 670'000 francs.
+4. Par convention de mesures protectrices de l'union conjugale
+signée les 5 et 13 août 2002, ratifiée par le Président du Tribunal civil de
+l'arrondissement de l'Est vaudois, les parties ont notamment convenu de
+vivre séparées, B.T.________ s'engageant à verser à son épouse une
+contribution d'entretien de 4'250 fr. par mois dès le 1er juin 2002 et à
+assumer les charges fixes régulières de la villa, à l'exception des frais
+d'électricité et de téléphone.
+5. B.T.________ a ouvert action en divorce le 18 juin 2004 devant
+le Tribunal civil de l'arrondissement de l'Est vaudois.
+Par ordonnance de mesures provisionnelles du 15 juin 2005, le
+Président du Tribunal civil de l'arrondissement de l'Est vaudois a dit que
+
+- 4 -
+B.T.________ contribuera à l'entretien des siens par le paiement des
+charges prévues dans la convention des 5 et 13 août 2002 et par le
+versement d'une pension mensuelle de 3'750 fr. du 1er février 2004 au 1er
+janvier 2005 et de 3'000 fr. dès le 1er février 2005. Par arrêt sur appel du
+10 février 2006, le Tribunal d'arrondissement de l'Est vaudois a fixé la
+contribution d'entretien à 4'000 fr. dès le 1er février 2005, les charges
+fixes régulières de la villa continuant à être supportées par le mari.
+6. Le notaire Philippe Crottaz, commis à la liquidation du régime
+matrimonial des époux, a déposé un rapport le 21 décembre 2007, ainsi
+que deux rapports complémentaires les 9 avril 2008 et 2 juin 2009.
+Lors de la liquidation dudit régime matrimonial, le bien-fonds
+no [...] (maison) a été estimé à 1'700'000 francs. La dette hypothécaire
+n'était pas amortie.
+7. En droit, les premiers juges ont retenu que la défenderesse
+avait droit à une contribution d'entretien du même montant que la pension
+provisionnelle pour une durée de deux ans, que ce montant devait ensuite
+être réduit à 2'500 fr. dès lors que l'intéressée était en mesure de réaliser
+un gain et être versé jusqu'au 30 juin 2017, date de la retraite du
+demandeur. Ils ont aussi estimé que le demandeur ne devait payer les
+charges relatives à la villa, par 3'000 fr., que jusqu'en décembre 2010.
+Enfin, s'agissant de la liquidation du régime matrimonial, le tribunal a
+retenu que la défenderesse n'avait pas apporté la preuve que son
+financement à l'acquisition des bien-fonds de Corseaux appartenait à la
+masse de ses biens propres pour un montant supérieur à 100'000 fr.,
+perçu à titre d'avance d'hoirie, de sorte que le solde devait être considéré
+comme appartenant aux acquêts la défenderesse.
+Concernant la liquidation du régime matrimonial, les premiers
+juges se sont fondés sur le rapport initial du notaire Crottaz et ont procédé
+aux calculs suivants :
+« Acquêts du demandeur : Acquêts de la défenderesse
+
+- 5 -
+2'815'868.- 1'357'727.-
+Dont il faut déduire :
+856'195.- 335'000.-
+208'199.- 767'449 fr. 75
+Total :
+1'751'474.- 255'277 fr. 25
+Répartition
+B.T.________
+a droit à
+1'003'375 fr. 625 (part de bénéfice)
+263'199.- (biens propres)
+
+- 6 -
+reçoit
+1'140'000.- (cabinet de [...])
+reprend
+520'000.- (dette banque Migros)
+1'195.- (solde Eurocard)
+conserve
+5'090.- (compte garantie de loyer UBS [...])
+55'000.- (mobilier)
+16'565.- (véhicule)
+82'723.- (3ème pilier)
+63'369.- (fortune commerciale)
+348'850.- (compte caisse des médecins [...])
+3'626.- (compte courant [...])
+174'470.- (valeur matérielles du cabinet)
+Total
+1'889'693.- 1'787'769 fr. 625
+A.T.________
+a droit à
+1'003'375 fr. 625 (part de bénéfice)
+777'449 fr. 75 (biens propres)
+reçoit
+1'700'000.- (villa Corseaux)
+1'463.- (CCP no [...])
+18'864.- (BCV [...])
+88'598.- (BCV [...])
+20'000.- (Part sociale [...])
+1'250.- (compte courant [...])
+1'000.- (part sociale [...])
+reprend
+670'000.- (dette hypothécaire Corseaux)
+conserve
+403'652.- (valeurs bancaires)
+110'000.- (mobilier)
+4'075.- (véhicule)
+Total
+2'348'902.- 2'450'825 fr. 375
+Il lui est dû
+
+- 7 -
+101'923 fr. 375 »
+Les premiers juges ont considéré qu'il convenait encore de
+déduire 6'607 fr. 60 (somme dépensée par la défenderesse avec la
+mastercard du demandeur alors que les époux vivaient séparés) du
+montant de 101'923 fr. 375, si bien qu'en définitive, A.T.________ disposait
+d'une créance de 95'316 fr. (chiffres arrondis) contre B.T.________ et
+devenait seule propriétaire de la villa sise à Corseaux.
+B. Par acte du 3 juin 2010, A.T.________ a recouru contre le
+jugement du 26 mai 2010, en concluant principalement à son annulation
+et subsidiairement à sa réforme en ce sens que la contribution d'entretien
+en sa faveur est fixée à 12'000 fr. « jusqu'à et y compris le mois de mai
+2010, montant indexé » – subsidiairement à 7'000 fr. par mois jusqu'au
+mois de mai 2020 et à 4'500 fr. ensuite, montants indexés –, qu'elle soit
+reconnue seule propriétaire de l'immeuble de Corseaux et que le
+défendeur est son débiteur de la somme de 598'790 fr. à titre de
+liquidation du régime matrimonial.
+Dans son mémoire du 2 juillet 2010, la recourante a développé
+ses moyens et confirmé ses conclusions, les conclusions en réforme étant
+toutefois prises à titre principal et celle en annulation à titre subsidiaire.
+Le 21 septembre 2010, B.T.________ a conclu au rejet du
+recours et, par voie de jonction, à la réforme du jugement en ce sens que
+la contribution d'entretien en faveur de la défenderesse est fixée à 2'500
+fr. dès jugement définitif et exécutoire jusqu'au 30 juin 2017 et que la
+défenderesse est inscrite comme seule propriétaire de la parcelle no [...]
+de la commune de Corseaux.
+La recourante principale a adhéré à la conclusion relative au
+numéro de la parcelle de Corseaux et requis la rectification du dispositif en
+ce sens que la parcelle no [...] (place-jardin) de la commune de Corseaux
+est également mentionnée. Elle a conclu au rejet du recours pour le
+surplus.
+
+- 8 -
+C. Par arrêt du 6 décembre 2010, dont les considérants ont été
+envoyés aux parties le 11 avril 2011, la Chambre des recours a rendu le
+dispositif suivant :
+« I. Le recours d'A.T.________ et le recours joint d'B.T.________ sont
+partiellement admis.
+II. Le jugement est réformé comme il suit aux chiffres II et VI de
+son dispositif :
+II.- dit qu'B.T.________ contribuera à l'entretien A.T.________
+par le régulier versement d'une pension mensuelle de
+4'500 fr., payable d'avance le premier de chaque mois en
+mains de l'intéressée, jusqu'au 30 mai 2020.
+VI.- ordonne au Conservateur du Registre foncier de Vevey
+d'inscrire A.T.________ en qualité de seule et unique
+propriétaire du bien-fonds no [...], [...], d'une surface de
+1'785 m2, plan no 10, de la commune de Corseaux (VD).
+Le jugement est confirmé pour le surplus.
+III. Les frais de deuxième instance sont fixés à 4'000 fr. (quatre
+mille francs) pour la recourante principale A.T.________ et 2'000 fr.
+(deux mille francs) pour le recourant par voie de jonction
+B.T.________.
+IV. Le recourant par voie de jonction B.T.________ doit verser à la
+recourante principale A.T.________ la somme de 1'500 fr. (mille cinq
+cent francs) à titre de dépens de deuxième instance. »
+En droit, la Chambre des recours a, entre autres, confirmé que
+le numéro de la parcelle attribuée en pleine propriété à la défenderesse
+devait être corrigé comme portant le no [...] et non le no [...], mais a refusé
+d'ajouter la parcelle no [...] (place-jardin) dans le dispositif du jugement
+dès lors que l'acte de recours ne visait que « l'immeuble de Corseaux, sis
+
+- 9 -
+[...]», alors que la parcelle no [...] était sise, selon l'extrait du Registre
+foncier, « [...]». A l'instar des premiers juges, la cour de céans a retenu
+que le montant investi par la recourante dans l'achat de l'immeuble de
+Corseaux, à savoir 355'000 fr., constituait des acquêts à raison de 255'000
+fr. dès lors que l'intéressée n'avait pas pu établir d'autres montants qu'un
+avancement d'hoirie de 100'000 fr. comme provenant de ses biens
+propres. Quant à la contribution d'entretien, la Chambre des recours a mis
+en exergue le fait que la recourante ne pouvait prétendre à un entretien
+couvrant l'occupation par sa seule personne d'une maison de 240 m2 et
+qu'elle pouvait escompter en tirer un revenu mensuel de 2'500 francs. Il y
+avait dès lors lieu de retenir une pension mensuelle de 4'500 fr. au lieu de
+7'000 fr. – la contribution d'entretien de 4'000 fr. fixée dans l'arrêt sur
+appel de mesures provisionnelles du 10 février 2006, ainsi que les charges
+de 3'000 fr. relatives à la villa fixées dans le jugement du 26 mai 2010
+devant être confirmés –, payable par le recourant jusqu'au 30 mai 2020,
+date de la survenance de l'âge AVS de la recourante.
+D. Statuant sur le recours en matière civile formé par A.T.________
+contre l'arrêt de la Chambre des recours, la IIe Cour de droit civil du
+Tribunal fédéral a, par arrêt du 17 février 2012, admis partiellement le
+recours, annulé l'arrêt de la cour de céans en tant qu'il condamne l'intimé
+à verser à la recourante une contribution d'entretien d'un montant de
+4'500 fr. et qu'il confirme le jugement de première instance quant au
+résultat de la liquidation du régime matrimonial (ch. V du jugement de
+première instance) et renvoyé la cause à la cour de céans pour nouvelle
+décision sur ces deux points, le recours étant rejeté pour le surplus.
+Le Tribunal fédéral a relevé que la Chambre des recours avait
+procédé à la liquidation du régime matrimonial sans avoir préalablement
+réglé le partage de la maison familiale, acquise en copropriété par les
+parties. En effet, ce partage avait été effectué au cours de la liquidation
+elle-même, la cour de céans ayant crédité les acquêts de chaque époux
+d'un montant de 850'000 fr. (montant correspondant à la moitié de la
+valeur estimée de la maison au jour de la liquidation), tout en les grevant
+d'une dette d'un montant de 335'000 fr. chacun (montant équivalant à la
+
+- 10 -
+moitié de la dette hypothécaire). Dans la mesure où l'immeuble était
+attribué à l'épouse et qu'en l'absence de preuve du contraire, les époux
+avaient l'un et l'autre voulu être copropriétaires et partager entre eux la
+plus-value, le tribunal a considéré que la recourante devait à l'intimé la
+somme de 337'500 fr. (soit [1'700'000 fr. – 670'000 fr. – 355'000 fr.] / 2) et
+que le résultat de ce partage devait ensuite être intégré dans les
+différentes masses des époux. Constatant que la recourante avait cessé
+toute activité professionnelle moins d'une année après la conclusion du
+mariage, les juges ont estimé que les fonds investis par la recourante pour
+l'achat de l'immeuble ne pouvaient provenir que de ses biens propres – sa
+fortune se chiffrant par ailleurs à l'époque à 776'645 fr. –, de sorte que
+tant le bien-fonds avec sa plus-value que le prêt hypothécaire devaient
+être attribués aux biens propres de la recourante, lesquels assureraient le
+versement de l'indemnité au mari selon le principe de connexité. Le
+tribunal a précisé que dès lors que seuls les biens propres avaient financé
+le bien immobilier, la plus-value correspondant à la partie non remboursée
+du prêt hypothécaire était entièrement acquise aux fonds propres, sans
+récompense en faveur des acquêts. Le montant de la fortune de la
+recourante à l'issue de la liquidation du régime matrimonial étant ainsi
+susceptible d'être modifié, les juges ont retenu que son revenu
+hypothétique devait à nouveau être calculé sur cette base, sachant que
+les 2'500 fr. arrêtés par la cour de céans correspondaient à 1,7 % de la
+fortune de la recourante ([2'500 fr. x 12] / 1'774'218 fr. x 100) et que la
+recourante n'avait pas contesté le montant de 7'000 fr. retenu à titre de
+contribution d'entretien. Enfin, le tribunal a relevé que la cour de céans
+avait refusé à bon droit d'inscrire la recourante en tant que seule
+propriétaire de la parcelle no [...] (place-jardin), dès lors que la conclusion
+prise à cet égard était tardive, car formulée au-delà de l'expiration du
+délai de recours.
+E. Dans ses déterminations du 2 mai 2012, A.T.________ a
+considéré que la plus-value correspondant à la partie non remboursée du
+prêt hypothécaire était acquise à ses biens propres sans récompense en
+faveur des acquêts de son mari. Ainsi, le solde des acquêts de son époux,
+par 1'751'484 fr., devait être débité de 850'000 fr. (moitié de la valeur de
+
+- 11 -
+la villa), crédité de 335'000 fr. (moitié de l'hypothèque), ainsi que de
+208'199 fr. (récompense en faveur des biens propres du mari retenue par
+l'expert). Quant à ses propres acquêts, ils ne s'élevaient qu'à 104'075 fr.
+(mobilier et véhicule), le reste de son patrimoine étant rattaché à ses
+biens propres. La part d'acquêts de chaque époux était dès lors de
+774'374 fr. ([1'751'474 fr. – 850'000 fr. + 335'000 fr. + 208'199 fr. +
+104'075 fr. / 2]) et, selon ses calculs, il en résultait une créance en sa
+faveur de 195'016 fr. 40 et une contribution d'entretien de 4'345 fr. 30.
+Dans ses déterminations du 2 mai 2012, B.T.________, qui a
+produit un avis de droit du notaire [...], a considéré qu'il bénéficiait contre
+son épouse d'une créance variable au sens de l'art. 206 al. 1 CC (Code
+civil suisse du 10 décembre 1907; RS 210) par 337'500 fr. (moitié de la
+différence entre le prix d'achat de la villa et de sa valeur vénale,
+correspondant, à son avis, aux travaux effectués par les époux et non à la
+conjoncture), à titre de contributions à l'acquisition, à l'amélioration ou à la
+conservation du bien immobilier appartenant à l'autre conjoint. Dès lors
+que les calculs du notaire aboutissaient à un solde net en faveur de
+l'épouse de 95'452 fr., divergeant peu de celui de 95'316 fr. retenu par le
+tribunal d'arrondissement, B.T.________ a conclu principalement au
+versement d'une pension mensuelle de 4'500 fr. payable dès le 1er de
+chaque mois jusqu'au 30 mai 2020 et, subsidiairement, pour le cas où le
+solde net de 95'452 fr. ne serait pas admis, au versement d'une pension
+mensuelle de 2'000 fr. payable dès le 1er du mois suivant lequel le divorce
+sera devenu définitif et exécutoire, jusqu'au 30 mai 2020.
+En d roit :
+1. Depuis l’entrée en vigueur le 1er janvier 2011 du CPC (Code de
+procédure civile du 19 décembre 2008; RS 272), les recours sont régis par
+le droit en vigueur au moment de la communication de la décision aux
+parties (art. 405 al. 1 CPC), soit la date de l’expédition du dispositif (ATF
+137 III 127, JT 2011 II 226; ATF 137 III 130, JT 2011 II 228).
+
+- 12 -
+En l'espèce, le dispositif du jugement attaqué ayant été
+envoyé le 6 décembre 2010, la Chambre des recours (art. 81a al. 2 ROTC
+[règlement organique du Tribunal cantonal du 13 novembre 2007; RSV
+173.31.1] et art. 166 al. 2 CDPJ [Code de droit privé judiciaire vaudois du
+12 janvier 2010; RSV 211.02]) est compétente pour statuer sur le recours.
+L'ancien droit de procédure régit le recours (art. 404 al. 1 CPC),
+notamment le CPC-VD (Code de procédure civile vaudoise du 14 décembre
+1966). Il reste applicable ensuite du renvoi à l'autorité cantonale par
+l'arrêt du Tribunal fédéral du 17 février 2012 (cf. TF 4A_641/2011 du 27
+janvier 2012, c. 2.2).
+2. La loi du 17 juin 2005 sur le Tribunal fédéral (LTF; RS 173.110)
+ne connaît pas de disposition équivalente à l'art. 66 al. 1 de l'ancienne loi
+fédérale d'organisation judiciaire du 16 décembre 1943 (OJ), abrogée au
+1er janvier 2007, qui prévoyait que l'autorité cantonale était tenue de
+fonder sa nouvelle décision sur les considérants de droit de l'arrêt du
+Tribunal fédéral. Cette règle demeure toutefois valable sous le nouveau
+droit (TF 5A_336/2008 du 28 août 2008 c. 1.3; TF 4A_138/2007 du 19 juin
+2007 c. 1.5). C'est dire que le tribunal auquel la cause est renvoyée voit sa
+cognition limitée par les motifs de l'arrêt de renvoi, en ce sens qu'il est lié
+par ce qui a été déjà jugé définitivement par le Tribunal fédéral (ATF 133
+III 201 c. 4.2; ATF 131 III 91 c. 5.2 et les arrêts cités). La juridiction
+cantonale n'est libre de sa décision que sur les points qui n'ont pas été
+tranchés par l'arrêt de renvoi ou dans la mesure où elle se fonde sur des
+faits complémentaires établis postérieurement à cet arrêt (Poudret,
+Commentaire de la loi fédérale d'organisation judiciaire, vol. II, Berne
+1990, n. 1.3.2 ad art. 66 OJ, p. 598).
+3. Dans son arrêt de renvoi du 17 février 2012, le Tribunal fédéral
+a tout d'abord considéré que l'immeuble était attribué à l'épouse et que
+celle-ci devait à son conjoint la somme de 337'500 francs. La copropriété
+étant ainsi liquidée, il a ensuite retenu que l'entier du montant investi pour
+l'achat de l'immeuble (355'000 fr.) provenait des fonds propres de
+l'épouse et que le bien-fonds, le prêt hypothécaire et la plus-value
+correspondant à la partie non remboursée du prêt hypothécaire devaient
+
+- 13 -
+être rattachés aux fonds propres de l'épouse, lesquels assureraient le
+versement de l'indemnité équitable due au mari suite au partage de la
+copropriété.
+La question des récompenses n'a pas été traitée par le
+Tribunal fédéral. Elle est normalement traitée en procédure par le biais
+d'un rapport préalable de notaire, au sujet duquel les parties ont la faculté
+de se déterminer (art. 373 CPC-VD). Dès lors que la cour de céans ne peut
+procéder à des mesures d'instruction que dans une mesure restreinte et
+qu'on ne conçoit pas qu'elle soumette aux parties un projet de liquidation
+de leur régime matrimonial, il s'impose de renvoyer la cause au tribunal
+de première instance afin qu'il mette en œuvre à titre complémentaire le
+notaire précédemment commis à la liquidation dudit régime. Une fois
+cette opération effectuée, il incombera au tribunal d'arrondissement
+d'examiner si le résultat de cette liquidation est susceptible de modifier la
+contribution d'entretien fixée à 4'500 fr. par mois (arrêt cantonal, c. 12 in
+fine, p. 47) et non remise en cause par le Tribunal fédéral sous réserve
+dudit résultat (c. 7.2.4 et 7.2.5). Il statuera ensuite à nouveau sur les
+objets qu'il avait traités aux chiffres II et V du dispositif de son jugement.
+4. En définitive, le recours principal et le recours joint doivent
+être partiellement admis et le jugement attaqué réformé au chiffre VI de
+son dispositif en ce sens que la défenderesse est déclarée propriétaire de
+la parcelle no [...] de la commune de Corseaux. Le jugement est annulé
+d'office aux chiffres II et V de son dispositif, la cause étant renvoyée au
+tribunal d'arrondissement pour compléter l'instruction et statuer à
+nouveau. Il est confirmé pour le surplus.
+Dès lors que le Tribunal fédéral n'a annulé l'arrêt de la cour de
+céans qu'en tant ce qu'il concerne la contribution d'entretien (ch. II/II du
+dispositif de l'arrêt cantonal) et qu'il confirme le jugement de première
+instance quant au résultat de la liquidation du régime matrimonial (ch. II
+du dispositif de l'arrêt cantonal, dernière phrase), les frais et dépens de
+deuxième instance demeurent inchangés (ch. III et IV du dispositif de
+l'arrêt cantonal).
+
+- 14 -
+Par ces motifs,
+la Chambre des recours du Tribunal cantonal,
+statuant à huis clos,
+prononce :
+A la suite de l'arrêt du Tribunal fédéral du 17 février 2012, il
+est statué à nouveau comme il suit :
+I. Le recours d'A.T.________ et le recours joint d'B.T.________ sont
+partiellement admis.
+II. Le jugement est réformé comme il suit au chiffre VI de son
+dispositif :
+VI.- ordonne au Conservateur du Registre foncier de Vevey
+d'inscrire A.T.________ en qualité de seule et unique
+propriétaire du bien-fonds no [...], [...], d'une surface de
+1'785 m2, plan no 10, de la commune de Corseaux (VD).
+Le jugement est annulé d'office aux chiffres II et V de son
+dispositif, la cause étant renvoyée au Tribunal
+d'arrondissement de l'Est vaudois pour compléter l'instruction
+et statuer à nouveau.
+Le jugement est confirmé pour le surplus.
+III. Les frais de deuxième instance sont fixés à 4'000 fr. (quatre
+mille francs) pour la recourante principale A.T.________ et 2'000
+fr. (deux mille francs) pour le recourant par voie de jonction
+B.T.________.
+IV. Le recourant par voie de jonction B.T.________ doit verser à la
+recourante principale A.T.________ la somme de 1'500 fr. (mille
+cinq cent francs) à titre de dépens de deuxième instance.
+
+- 15 -
+Le président : La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Me Catherine Jaccottet Tissot (pour A.T.________)
+- Me Olivier Burnet (pour B.T.________)
+Il prend date de ce jour.
+La Chambre des recours considère que la valeur litigieuse
+supérieure à 30'000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+
+- 16 -
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Tribunal civil de l'arrondissement de l'Est vaudois
+La greffière :
