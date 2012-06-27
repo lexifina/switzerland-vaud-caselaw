@@ -1,0 +1,316 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___26"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 26"
+decided: "2012-06-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3318071"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-004.md", "switzerland/bund/acts/281.1/art-010.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-222.md", "switzerland/bund/acts/281.1/art-260.md", "switzerland/bund/acts/281.1/art-286.md", "switzerland/bund/acts/281.1/art-288.md", "switzerland/bund/acts/281.1/art-292.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 26
+
+## Regeste
+
+PLAINTE{LP}, TRANSACTION FINANCIÈRE, ACTION RÉVOCATOIRE{LP}, NEUTRALITÉ | 10 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.06.2012 Plainte / 2012 / 26
+
+PLAINTE{LP}, TRANSACTION FINANCIÈRE, ACTION RÉVOCATOIRE{LP}, NEUTRALITÉ | 10 al. 1 LP
+
+L
+TRIBUNAL
+CANTONAL
+FA11.043906-120084
+28
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 juin 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Sauterel
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+222 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+O.________
+,
+à Vessy, contre la décision rendue le 23 décembre 2011, à la suite de l’audience
+du 1
+er
+décembre 2011, par la Présidente du Tribunal d’arrondissement de la Côte, autorité
+inférieure de surveillance, rejetant la plainte déposée par la recourante contre l'
+A.________
+,
+à Nyon, dans le cadre de la faillite de
+W.________
+,
+à Crans-près-Céligny.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+D'après
+un arrêt rendu dans le même litige par la cour des poursuites et faillites du Tribunal cantonal
+le 20 janvier 2012 (CPF, 20 janvier 2012/14, confirmé par le Tribunal fédéral: TF 5A_107/2012
+du 26 avril 2012), le 20 janvier 2010, T.________ a acheté à W.________ notamment des mouvements
+et autres composants horlogers qu'elle avait commandés, pour le prix total de 2'629'827 fr. 18.
+Le 21 janvier 2010, elle a remis au conseil d'administration de W.________ une offre d'achat d'actifs
+matériels et immatériels, désignés ultérieurement comme l'Acquisition Confrérie
+Horlogère, pour un prix de 3'000'000 fr., offre expirant le jour même à 18 heures. Cette
+offre a été acceptée.
+Par jugement du 25 janvier 2010, soit quatre jours après la remise de cette offre, la Présidente
+du Tribunal d'arrondissement de la Côte a prononcé la faillite de W.________. L'Office des
+faillites de l'arrondissement de la Côte (ci-après: l'office) administre cette faillite, liquidée
+en la forme ordinaire.
+La première assemblée des créanciers a eu lieu le 10 mars 2010. Le quorum n'a pas été
+atteint. La créancière O.________ n'était pas présente. L'office a informé les
+créanciers présents de l'état de la masse en faillite. La question de la vente d'actifs
+à T.________ et d'une éventuelle action révocatoire a été abordée.
+Après cette assemblée, l'office a mandaté une fiduciaire pour déterminer si le prix
+payé par T.________ pour ses acquisitions des 20 et 21 janvier 2010 était en adéquation
+avec la valeur réelle des actifs achetés. La fiduciaire a déposé son rapport le 1
+er
+juin 2011, concluant que l'opération du 20 janvier 2010 s'était réalisée au prix
+de vente usuel, mais que le prix de 3'000'000 fr. payé pour les achats du 21 janvier 2010 semblait
+"faible, en comparaison avec les profits que les produits cédés auraient dû générer
+pour W.________". L’office a alors entamé des négociations avec T.________.
+L'état de collocation a été déposé le 17 juin 2011.
+Par courrier du 29 septembre 2011, l’office a convoqué la deuxième assemblée des
+créanciers pour le 24 octobre 2011. L’ordre du jour contenait notamment le point 4 suivant :
+"
+Décision sur la renonciation à
+des droits litigieux ou, éventuellement, demande de cession de ces mêmes droits à teneur
+de l’art. 260 LP
+".
+Le vendredi 21 octobre 2011, l’office a signé avec T.________ un accord transactionnel prévoyant
+le versement par cette société d’une somme supplémentaire de 2'000'000 francs. Cette
+convention était soumise à deux conditions, entraînant sa caducité automatique et
+immédiate si l'une ou l'autre n'était pas réalisée : premièrement, son approbation
+par la majorité absolue des créanciers votants – lors de la deuxième assemblée
+des créanciers ou, ultérieurement, par voie de circulaire –, impliquant la renonciation
+par la masse à l’exercice des droits à l’action révocatoire, et, deuxièmement,
+l’absence de cession des droits à l’action révocatoire à un ou des créanciers.
+La deuxième assemblée des créanciers a eu lieu le lundi 24 octobre 2011. Le quorum n’a
+pas été atteint. L’office a informé les créanciers présents, parmi lesquels
+O.________, de la marche de la liquidation. La question de l'accord conclu avec T.________ a été
+abordée.
+Le 28 octobre 2011, l’office a adressé aux créanciers une circulaire n° 10,
+pour leur exposer la situation de la masse vis-à-vis de T.________. Il recommandait d’entériner
+la convention du 21 octobre 2011 et fixait aux créanciers un délai au 8 novembre 2011 pour
+se déterminer sur sa recommandation, les créanciers qui ne se manifesteraient pas étant
+censés approuver ladite convention. Le même délai était fixé aux créanciers
+qui le souhaiteraient, dans le cas où la majorité accepterait l’accord transactionnel,
+pour demander la cession des droits de la masse et verser un montant total de 2'000'000 fr., qui serait
+consigné jusqu’à droit connu sur l’action révocatoire. A réception de
+ce montant, l'administration délivrerait les actes de cession et inviterait les créanciers
+à agir dans le délai échéant le 24 janvier 2012.
+b)
+Le 16 novembre 2011, O.________ a formé une plainte contre l'accord transactionnel du 21 octobre
+2011 en soutenant que la valeur économique de l'acte dolosif à révoquer (art. 288 LP [loi
+sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1]) dépasserait 70'000'000
+fr. si bien que la transaction de 2'000'000 fr. nuirait gravement aux intérêts des créanciers,
+que la position de l'office consistant à couvrir des actes illicites relèverait du droit disciplinaire
+et que l'administration de la faillite devait être confiée à une administration spéciale.
+Par déterminations du 28 novembre 2011, la masse en faillite W.________ a conclu au rejet des conclusions
+de la plainte.
+2.
+Par décision du 23 décembre 2011, la
+Présidente du Tribunal d'arrondissement de la Côte a rejeté la plainte formulée par
+O.________ (I), rejeté toutes autres et plus amples conclusions (II) et rendu cette décision
+sans frais (III).
+Le premier juge a considéré que la décision de l'office de signer l'accord transactionnel
+du 21 octobre 2011 avec T.________ pour un montant de 2'000'000 fr. ne transgressait aucune règle
+impérative (art. 288 ou 242 LP) et ne devait pas être sanctionnée de nullité. De
+plus, il a retenu qu'aucune faute engageant une responsabilité disciplinaire ne pouvait être
+retenue à l'encontre d'un représentant de la masse et qu'enfin il n'y avait pas lieu d'instituer
+une administration spéciale.
+3.
+Par acte du 11 janvier 2012, O.________ a recouru
+contre cette décision, concluant à l'admission de sa plainte, à l'annulation de l'accord
+transactionnel du 21 octobre 2010 entre la masse en faillite W.________ et T.________ et à ce qu'ordre
+soit donné à l'office de déposer, d'ici au 25 janvier 2012 au plus tard, une assignation
+en action révocatoire au sens de l'art. 286 LP dont les conclusions préparatoires viseraient
+à faire expertiser la comptabilité de T.________ par rapport au chiffre d'affaires et bénéfice
+générés par la technologie et le savoir faire de W.________.
+Par lettre du 25 janvier 2012, la recourante a produit un ensemble de pièces, notamment une copie
+de la requête en conciliation en action révocatoire dirigée contre T.________ et la masse
+en faillite W.________, qu'elle a engagée en qualité de "gestionnaire d'affaires de la
+masse", requête adressée le 24 janvier 2012 à la Chambre patrimoniale vaudoise, la
+suspension de dite action étant requise jusqu'à droit connu sur les procédures de plainte
+en cours.
+Par déterminations du 1
+er
+février 2012, la masse en faillite de W.________, représentée par l'office en qualité
+d'administration ordinaire, a conclu au rejet du recours et à la confirmation du prononcé du
+premier juge. Elle a produit des pièces, dont un exemplaire de la requête en conciliation qu'elle
+a adressée à la Chambre patrimoniale vaudoise le 23 janvier 2012 pour ouvrir une action révocatoire
+contre T.________ en concluant à la révocation de la vente concernant l'offre d'achat d'actifs
+du 21 janvier 2010 pour un prix de 3'228'000 fr., à l'intégration des actifs en question dans
+la masse active et au paiement de 7'137'070 fr. 35. A son allégué 36, cette procédure
+indique qu'une expertise judiciaire devra établir que la valeur réelle des actifs cédés
+le 21 janvier 2010 par W.________ à T.________ n’est pas inférieure à 9'632'965
+fr., TVA en sus, montant comprenant le prix déjà payé par T.________ par 3'000'000 fr.
+et une différence de stock encore due (composants horlogers livrés à T.________ et non
+facturés) par 4'517'965 francs. Selon l’explication donnée dans une écriture antérieure,
+c’est pour sauvegarder les droits de la masse dans l’attente du résultat définitif
+des procédures initiées par la recourante que cette action a été introduite, le droit
+d’intenter l’action se périmant par deux ans dès l’ouverture de la faillite
+selon l’art. 292 ch. 2 LP.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la
+loi sur la poursuite pour dettes et la faillite; RSV 280.05]) et dans les formes requises (art. 28 al.
+2 et 3 LVLP), le recours est recevable.
+Les déterminations de l'intimée sont également recevables (art. 31 al. 1 LVLP).
+Les pièces nouvelles produites par les parties
+en deuxième instance sont recevables (art. 28 al. 4 LVLP).
+II.
+a)
+La
+recourante affirme qu’en signant la transaction du 21 octobre 2011 l’office aurait, au nom
+de la masse, manifestement avantagé T.________ au détriment des créanciers dans la mesure
+où le montant ainsi obtenu serait très nettement inférieur à la véritable valeur
+des actifs cédés. Ce faisant l’office aurait transgressé le principe de neutralité
+auquel il était tenu et dont le respect lui aurait imposé d’obtenir, en application de
+l’art. 222 LP, des indications sur la valeur effective des actifs en question, puis d’ouvrir
+l’action révocatoire plutôt qu’en offrir de manière dissuasive la cession
+aux créanciers (art. 260 LP).
+Officiers publics chargés de recouvrer des créances pécuniaires dans les formes prescrites
+par la loi, les préposés et fonctionnaires des offices des poursuites et faillites ne sont
+ni les représentants des créanciers, ni ceux du débiteur. Ils doivent être neutres.
+Lorsque la loi réserve un pouvoir d’appréciation, ils doivent obéir à l’art.
+4 CC d’une part (obligation d’appliquer les règles du droit et de l’équité)
+et concilier, autant que possible, les intérêts du créancier et ceux du débiteur
+(ex. : art. 95 al. 5, 123 al. 3 LP). La sanction d’une violation de ce devoir est l’annulabilité
+de l’acte accompli, sur plainte du lésé, dans les dix jours dès la connaissance
+de l’acte ou de la décision et une éventuelle action en dommages-intérêts (Gilliéron,
+Poursuites pour dettes, faillite et concordat, nn. 193 à 195, p. 34; Gilliéron, Commentaire
+de la loi fédérale sur la poursuites pour dettes et la faillite, n. 32 ad art. 1 –
+30 LP).
+La violation du principe de neutralité tend à se confondre avec les cas de récusation
+énoncés à l'art. 10 al. 1 LP (cf. CPF, 2 avril 2003/22 et arrêt du TF 7B.147/2004
+du 14 juillet 2003).
+b)
+En
+l’espèce, la masse a considéré, à juste titre, que l’aliénation
+d’actifs selon l’offre du 21 janvier 2010 nécessitait une révocation. Pour l’obtenir,
+elle a préféré transiger plutôt que d’engager aussitôt un procès.
+En soi, opter pour une transaction présente des avantages indéniables : l’obtention
+immédiate d’un montant assuré et non négligeable, ainsi que l’évacuation
+des incertitudes, des coûts et des lenteurs d’un procès bloquant la liquidation. La critique
+de la recourante ne porte en définitive que sur la valeur attribuée dans la transaction aux
+actifs concernés par l’offre précitée. Selon elle, l’office devait user des
+moyens offerts par l’art. 222 al. 4 LP pour se faire produire la comptabilité de T.________
+de manière à cerner la valeur des actifs en question.
+Selon ce que retient l’arrêt de la cour de céans du 20 janvier 2012/14 précité,
+l’office a entamé des négociations avec T.________ à la suite du rapport de la fiduciaire
+qui estimait que les 3'000'000 fr. convenus pour les achats du 21 janvier 2010 semblaient un faible montant
+en comparaison avec les profits que les produits cédés auraient dû générer pour
+W.________.
+On ne discerne pas en quoi l’office aurait dû, en application de l’art. 222 al. 4 LP,
+exiger de T.________ qu’elle le renseigne plus précisément. Il ne s’agissait en
+effet pas d’identifier des biens du failli en possession de tiers, les actifs aliénés
+ayant été décrits dans une annexe au contrat et leur détention n’étant
+pas litigieuse. De même, la recourante n’indique pas en quoi l’examen de la comptabilité
+de T.________ dans le courant de l’année 2011, soit l’exercice 2010, aurait concrètement
+et objectivement permis de déterminer la valeur des actifs litigieux. Tout au plus, peut-on inférer
+de l’une de ses conclusions que cet examen aurait dû porter sur le chiffre d’affaires
+et le bénéfice générés par la technologie et le savoir-faire de W.________,
+mais dans cette même conclusion la recourante évoque elle-même une expertise et non un
+simple examen comptable par du personnel de l’office. Au demeurant, s’agissant de perspectives
+de gains induites par l’exploitation de brevets, de marques, de projets de développement industriels
+ou de programmes de recherche, l’attribution de valeurs comptables peut s’avérer particulièrement
+ardue au point parfois de relever de projections peu fiables, voire dépourvues de réalité
+économique. Dans ce contexte, le recours à une expertise était donc judicieux et on ne
+saurait reprocher à l’office d’avoir négligé d’évaluer les prétentions
+révocatoires de la masse.
+Par ailleurs, les calculs auxquels se livre la recourante pour aboutir au montant de 70'000'000 fr. en
+se fondant sur la marge d’exploitation d’une part de chiffre d’affaires attribuée
+à chaque salarié, chiffres généraux tirés d’articles de presse consacrés
+notamment à l’état actuel du marché horloger, et en multipliant ce résultat
+par le nombre de salariés de la faillie repris par T.________, puis en multipliant ce montant par
+dix pour assurer une projection sur dix ans, sont hautement contestables. Il s’agit en effet d’évaluer
+la valeur des actifs industriels, techniques et commerciaux vendus et non les compétences professionnelles
+de collaborateurs. De plus, les marge et part au chiffre d’affaires intégrées au calcul,
+comme données de base, sont plus que discutables en raison de leur approximation très grossière
+et de leur défaut d’adéquation aux biens concernés. Enfin, la capitalisation sur
+dix ans dans un marché industriel et commercial soumis à de fortes et imprévisibles fluctuations
+n’a guère de sens.
+Au regard de ces éléments, il n’apparaît pas que l’office, en décidant
+de conclure la transaction au montant indiqué, aurait violé le principe de neutralité
+en favorisant T.________ au détriment des créanciers de la faillie. Cela étant, il pouvait
+parfaitement proposer à la masse de renoncer à engager elle-même l’action révocatoire.
+Certes, après la transaction, la masse a introduit une action révocatoire contre T.________
+en réclamant à celle-ci un montant nettement plus élevé que celui obtenu par voie
+transactionnelle, mais cette ouverture d’action est intervenue très peu de temps avant l’échéance
+de la péremption de l’art. 292 ch. 2 LP pour sauvegarder les droits de la masse au cas où
+les procédures de la recourante devaient aboutir. On ignore donc à ce stade si cette action
+sera maintenue ou retirée le cas échéant et donc si cela se traduira par la caducité
+définitive de la transaction ou, au contraire, par sa validation.
+Ainsi que l’intimée l’a indiqué, la conclusion de la recourante tendant à
+ce que l’office, au nom de la masse, reçoive l’ordre d’ouvrir d’ici au 25
+janvier 2012 une action révocatoire, procédure comprenant une requête de preuve par expertise,
+n’a plus d’objet puisqu’une telle action, avec cette offre de preuve, a été
+introduite par la masse le 23 janvier 2012.
+III.
+Vu ce qui précède, le recours doit être
+rejeté et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20 a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+27 juin 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Pierre-Philippe Sambuc, avocat (pour O.________),
+‑
+Me Jean-Luc Tschumy, avocat (pour la Masse en faillite W.________)
+-
+M. le Préposé à l’Office des faillites de l'arrondissement de la Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Côte, autorité inférieure de
+surveillance.
+La greffière :
