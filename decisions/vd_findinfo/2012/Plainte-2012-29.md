@@ -1,0 +1,360 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 29"
+decided: "2012-07-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3345595"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-095.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 29
+
+## Regeste
+
+PROCÈS-VERBAL DE SAISIE, PROFESSION, INSTRUMENT DE TRAVAIL, OUTIL | 17 LP, 92 al. 1 ch. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.07.2012 Plainte / 2012 / 29
+
+PROCÈS-VERBAL DE SAISIE, PROFESSION, INSTRUMENT DE TRAVAIL, OUTIL | 17 LP, 92 al. 1 ch. 3 LP
+
+TRIBUNAL
+CANTONAL
+FA12.000435-120821
+32
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 juillet 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Bosshard et Mme Rouleau
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 et 92 al. 1 ch. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.O.________
+,
+à M [...], contre la décision rendue le 18 avril 2012, à la suite de l’audience
+du 7 mars 2012, par le Président du Tribunal d’arrondissement de la Broye et du Nord vaudois,
+autorité inférieure de surveillance, rejetant la plainte déposée par le recourant
+à l'encontre de la saisie opérée le 14 décembre 2011 par l'
+OFFICE
+DES POURSUITES DU GROS-DE-VAUD
+dans le cadre de
+la poursuite n° 5'025'307 exercée par
+B.________
+,
+I.________
+,
+à Brügg.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par jugement du 25 janvier 2011, la Présidente du Tribunal civil d'arrondissement de la Broye et
+du Nord vaudois a condamné A.O.________ à payer à I.________ la somme de 9'560 fr., avec
+intérêt à 5 % l'an dès le 24 avril 2009 (II), levé définitivement,
+à concurrence de ces montant et intérêt, l'opposition formée par A.O.________ au
+commandement de payer n° 5'025'307 de l'Office des poursuites d'Echallens, qui lui avait été
+notifié le 24 avril 2009 à la réquisition de B.________, I.________ (III) et dit que A.O.________
+devait payer à I.________ la somme de 4'624 fr. 65 à titre de dépens (V).
+Ce jugement retient en particulier les faits suivants :
+"que le
+défendeur exploite un domaine agricole sur la commune de [...],
+que l'on retiendra
+sur la base du témoin (…), voisin du défendeur, qu'il s'agit de la deuxième plus
+importante exploitation du village de [...] et qu'elle s'étend sur un domaine de quarante à
+cinquante hectares,
+que sur la
+base de ce témoignage, on retiendra également que le frère du défendeur, B.O.________,
+et le fils de ce dernier, V.________, travaillent à temps complet sur cette exploitation agricole,
+que le demandeur
+est propriétaire de son exploitation et qu'il prend seul les décisions relatives à sa
+gestion".
+Par arrêt du 1
+er
+septembre 2011, la Chambre des recours civile du Tribunal cantonal a rejeté un recours formé
+par A.O.________ contre ce jugement.
+2.
+Le 15 novembre 2011, B.________, I.________ a requis la continuation de la poursuite précitée.
+Le 16 novembre 2011, l'Office des poursuites du district du Gros-de-Vaud (ci-après : l'office) a
+avisé le débiteur qu'il serait procédé
+à
+une saisie le 1
+er
+décembre 2011 pour un montant de 10'970 fr. 75, frais et intérêt compris.
+Le 14 décembre 2011, l'office a procédé à la saisie sur un tracteur agricole, de
+marque et type Hürlimann Prestige 95 Trd, dont la valeur a été estimée à 30'000
+francs. Le procès-verbal indique qu'il est renoncé à préciser tous les biens du débiteur,
+le tracteur couvrant la poursuite n° 5'025'307. Il ressort des déclarations de A.O.________,
+également consignées dans ce procès-verbal, que ce dernier est marié, qu'il a une
+fille, née le 28 janvier 2009, que son épouse, qui ne travaille pas et est sans revenu, a elle-même
+une fille, née le 24 août 1998. A.O.________ a encore précisé ne pas tirer de bénéfice
+de son exploitation, payer des auxiliaires et des entreprises et que son but était la conservation
+de son patrimoine.
+3.
+Le 23 décembre 2011, A.O.________ a déposé une plainte au sens de l'article 17 LP devant
+le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance, concluant à l'annulation de la saisie et faisant valoir que le tracteur saisi
+était un outil de travail indispensable à son activité d'agriculteur.
+Dans ses déterminations du 1
+er
+février 2012, l'office a indiqué qu'il ressortait de l'interrogatoire du plaignant que celui-ci,
+agriculteur de profession, percevait une rente AI, qu'il se déplaçait en chaise roulante ou
+difficilement avec des cannes et qu'il ne pouvait, en l'état, exploiter lui-même son domaine,
+faisant appel à des auxiliaires et des entreprises. L'office relevait que le plaignant était
+propriétaire de divers immeubles et détenteur de trois voitures, de cinq tracteurs et d'un
+chariot de travail agricole. L'office en déduisait que le bien saisi ne pouvait dans ces circonstances
+être considéré comme un outil utilisé par le débiteur dans l'exercice de sa
+profession et nécessaire à celle-ci au sens de l'art. 92 al. 1 ch. 3 LP.
+Le plaignant a encore déposé des déterminations le 14 février 2012 exposant qu'au
+bénéfice d'un CFC d'agriculteur et d'une maîtrise fédérale en agriculture, il
+était directement impliqué dans son activité agricole, son apport personnel devant être
+considéré comme prépondérant. Il précisait que son handicap l'empêchait
+d'accomplir certaines tâches, qu'il était secondé par son frère B.O.________ et engageait
+temporairement du personnel et des entreprises pour certains travaux saisonniers, comme cela se pratique
+dans beaucoup d'exploitations agricoles. Il précisait encore que chacun des tracteurs qu'il possédait
+avait des spécificités et une utilité propre et que le tracteur saisi était non seulement
+le plus récent mais aussi le plus puissant et le plus productif.
+Par courrier du 1
+er
+mars 2012, B.________, I.________ a relevé que la plainte lui paraissait abusive dès lors que
+le plaignant disposait de pas moins de cinq tracteurs.
+4.
+Par prononcé du 18 avril 2010, le Président
+du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure de surveillance,
+a rejeté la plainte. En droit, le premier juge a considéré qu'il n'était pas nécessaire
+de déterminer si le poursuivi exerçait une profession ou exploitait une entreprise dès
+lors que le tracteur saisi n'était pas nécessaire à cette activité, un des autres
+engins pouvant le remplacer, sans qu'il soit établi par le plaignant que la perte de temps ainsi
+subie lui causerait un préjudice financier.
+Par acte du 30 avril 2012, le plaignant a recouru contre cette décision, qui lui a été
+notifiée le 19 avril 2012, concluant à sa réforme en ce sens que la saisie est annulée.
+Il a produit un onglet de pièces nouvelles sous bordereau, en particulier :
+-
+un courrier du 30 avril 2012, dans lequel B.O.________, frère du recourant, expose que parmi les
+machines et les véhicules de transport présents sur l'exploitation, seuls les tracteurs H488
+et H 95 TDR pouvaient être utilisés et garantir la sécurité, que ces deux  tracteurs
+étaient indispensables et complémentaires et qu'ils étaient utilisés simultanément
+lors des différents travaux dans les champs, qu'enfin la disparition du tracteur saisi entraînerait
+un ralentissement et de fortes perturbations dans le travail sur l'exploitation, notamment en cas de
+météo incertaine;
+-
+un courrier du même jour de l'entreprise K.________ SA exposant que le tracteur Hürlimann H-480
+DT, année 1979, était un ancien tracteur qui n'était plus d'actualité pour l'exploitation
+agricole de la taille de celle du recourant, que le tracteur
+Hürlimann
+H-488 DT avait une boîte à vitesses supérieure au précédent, que le tracteur
+saisi était beaucoup plus performant pour l'exploitation du domaine du recourant, qu'enfin, vu la
+surface de cette exploitation, le recourant avait besoin de travailler avec deux tracteurs en même
+temps, soit le tracteur saisi et le tracteur H-488 DT, afin de labourer et de semer;
+-
+une décision du 19 mars 2012 de la Caisse de compensation AVS agricole, viticole et rurale "Agrivit"
+fixant les cotisations personnelles du recourant pour l'année 2009 sur la base d'un revenu brut
+de 55'741 fr., dont 14'775 fr. d'intérêt  du capital.
+Par décision du 11 mai 2012, le président de la cour de céans a admis partiellement la
+requête d'effet suspensif présentée par le recourant en ce sens qu'il ne pourra être
+procéder à la réalisation des biens.
+L'office s'est référé à ses précédentes déterminations.
+L'intimé B.________, I.________ a conclu au rejet du recours.
+En droit :
+I.
+La procédure de plainte n'est pas soumise au CPC (Code de procédure civile du 19 décembre
+2008; RS 287.35), mais demeure régie par la LP (loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1) et la LVLP (loi d'application dans le canton de Vaud de la
+loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05). Le recours
+contre la décision de l'autorité inférieure de surveillance est ainsi prévu par l'art.
+18 LP et les art. 28 à 33 LVLP.
+Déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP) et exposant les griefs du recourant
+(art. 28 al. 3 LVLP), le recours est recevable formellement. Les pièces nouvelles sont également
+recevables en vertu de l'art. 28 al. 4 LVLP.
+II.
+Selon l’art. 17 al. 1 LP, la voie de la plainte est ouverte lorsqu’une mesure de l’office
+est contraire à la loi ou ne paraît pas justifiée en fait. Par mesure au sens de cette
+disposition, il faut entendre tout acte d’autorité accompli par l’office ou un organe
+de la poursuite en exécution d’une mission officielle dans une affaire concrète. L’acte
+de poursuite doit être de nature à créer, modifier ou supprimer une situation de droit
+de l’exécution forcée dans l’affaire en question et il peut se manifester de toutes
+sortes de façons (ATF 129 III 400 c. 1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, nn. 11-12 ad art. 17 LP). Tel est le cas du procès-verbal
+de saisie (CPF, 29 mars 2012/6).
+III.
+a)
+Selon
+l'art. 92 al. 1 ch. 3 LP, sont insaisissables les outils, appareils, instruments et livres, en tant qu'ils
+sont nécessaires au débiteur et à sa famille pour l'exercice de leur profession.
+Trois conditions cumulatives doivent être réalisées pour constater l'insaisissabilité
+d'un bien :
+-
+le débiteur doit exercer une profession (et non exploiter une entreprise),
+-
+le bien doit être nécessaire à cet exercice,
+-
+l'exercice de cette profession doit être rentable.
+Doctrine et jurisprudence opposent les notions de profession et d'entreprise, la première impliquant
+davantage le travail personnel et les connaissances professionnelles, acquises par formation ou par expérience,
+du poursuivi et éventuellement de ses proches, alors que la seconde se caractérise par l'utilisation
+d'un capital investi. Une activité lucrative réunit cependant le plus souvent ces deux éléments,
+de sorte que la distinction entre profession et entreprise ne pourra être opérée qu'après
+avoir déterminé, parfois avec difficulté, la prédominance de l'un ou de l'autre.
+Déterminer quel est l'élément le plus important n'est pas chose facile. Le Tribunal fédéral
+a par exemple estimé que la peinture au pistolet consiste essentiellement dans l'exploitation d'appareils
+coûteux; en revanche, pour l'activité du dentiste, qui nécessite également une installation
+de ce genre, les capacités personnelles acquises grâce à une formation supérieure
+sont décisives (Ochsner, Commentaire romand, nn. 89-95 ad art. 92 LP et les références
+citées; Peter, Edition annotée de la loi fédérale sur la poursuite pour dettes et
+la faillite, 2010, p. 475).
+Pour trancher la question de la nécessité d'un objet pour l'exercice d'une profession, il faut
+procéder à un examen de toutes les circonstances, spécialement des circonstances individuelles
+particulières à chaque débiteur, existant au moment de la saisie. L'office doit aussi
+tenir compte des exigences d'un exercice rationnel et compétitif de la profession qui peut dépendre
+notamment du développement de la technique. S'il se révèle que l'absence d'un appareil
+ou d'un instrument induirait pour le débiteur un surcroît de travail substantiel ou une perte
+de revenus, il faut considérer qu'il est nécessaire à l'exercice de sa profession (Ochsner,
+op. cit., nn. 99-101 ad art. 92 LP).
+Les outils doivent être nécessaires pour l'exercice d'une profession procurant des revenus
+suffisants pour l'entretien du débiteur et de sa famille. Si à côté de son activité
+professionnelle principale lui procurant de tels revenus, le débiteur exerce une activité professionnelle
+accessoire dont le produit ne fait qu'améliorer ses conditions de vie, l'insaisissabilité de
+ces outils, même s'ils sont nécessaires à l'exercice de cette activité accessoire,
+ne sera pas accordée. A contrario, si l'activité accessoire est indispensable au poursuivi
+pour satisfaire son entretien et celui de sa famille, l'insaisissabilité de tous ses outils est
+acquise (Ochsner, op. cit., nn. 104 et 106 ad art. 92 LP).
+La rentabilité est une condition qui ne figure pas dans le texte de l'art. 92 LP mais a depuis
+longtemps été posée par la jurisprudence du Tribunal fédéral. Elle signifie
+que l'exercice de la profession doit permettre d'assurer l'entretien du débiteur et de sa famille,
+ainsi que ses frais professionnels. Le minimum vital doit être couvert. La couverture des frais
+professionnels implique que le débiteur puisse assurer l'entretien et l'amortissement du matériel,
+des machines, le paiement des réparations, des assurances, des charges sociales et des factures
+des fournisseurs, dans le cadre d'une exploitation courante et concurrentielle, la profession ne devant
+pas être exercée aux frais des créanciers (Ochsner, op. cit., nn. 107-109 ad art. 92 LP).
+A cet égard, les pièces comptables du débiteur constituent des indices importants. De
+plus, si le débiteur est l'objet d'autres poursuites récentes ou postérieures à celles
+objet de la saisie en cours, il y a de fortes présomptions que les
+revenus qu'il tire de sa profession ne soient pas suffisants à la couverture de son entretien ou
+de ses frais d'exploitation. Il s'agit là d'un indice prépondérant du défaut de rentabilité
+(Ochsner, op. cit., n. 113 ad art. 92 LP). Le critère de rentabilité ne doit cependant pas
+être apprécié de manière trop stricte, car dans le cadre de l'exécution de la
+saisie, l'office est tenu de concilier les intérêts du créancier et ceux du débiteur
+(art. 95 al. 5 LP; Peter, op. cit., p. 475; Ruedin, L'insaisissabilité des instruments professionnels,
+in BlSchk 1981, pp. 97 ss, spéc. p. 99). On peut dès lors concevoir que – dans des circonstances
+particulières – le débiteur poursuive son activité professionnelle même si
+celle-ci n'est pas rentable au sens défini ci-dessus; priver le débiteur de ses instruments
+de travail et par conséquent de toute possibilité de se procurer des revenus même insuffisants
+pour couvrir son minimum vital peut aller à l'encontre des intérêts non seulement du débiteur,
+mais aussi de ceux de ses créanciers, qui verraient très vite s'ajouter à leur propre
+poursuite un nombre croissant d'autres poursuites (Ochsner, op. cit., n. 117 ad art. 92 LP).
+b)
+L'autorité inférieure de surveillance
+a considéré qu'en l'espèce, les caractéristiques de la profession et de l'entreprise
+se retrouvaient toutes deux dans l'activité du plaignant, mais que l'apport personnel de ce dernier
+paraissait conséquent et nécessaire dans l'exploitation de ses terres et que, dans ce cadre,
+il utilisait abondamment ses connaissances professionnelles et son expérience. Elle n'a toutefois
+pas tranché le point de savoir s'il s'agissait de l'exercice d'une profession et non de l'exploitation
+d'une entreprise, dès lors que la plainte était rejetée pour un autre motif. Le premier
+juge relevait en effet que le bien saisi était utilisé par le frère du plaignant soit
+par un membre de la famille au sens de l'art. 92 al. 1 ch. 3 LP.
+Les éléments retenus par le premier juge tendent à démontrer qu'il s'agit bien essentiellement
+de l'exercice d'une profession. Certes le capital investi sous la forme d'un domaine agricole et des
+machines paraît important mais rien ne permet d'affirmer que l'exploitation de ce domaine pourrait
+se faire sans la participation du recourant, qui bénéficie d'une formation agricole complète.
+On ne saurait y opposer le fait que le recourant n'exécute pas lui-même tous les travaux agricoles,
+dans la mesure où cela ne résulte pas d'un choix personnel.
+Enfin, selon les indications figurant au dossier, le recourant, indépendant, perçoit une rente
+d'assurance-invalidité, mais il n'est nullement mentionné qu'il disposerait en outre de prestations
+d'une institution de prévoyance professionnelle, ce qui signifie que l'activité agricole, qui
+lui procure un revenu annuel net de l'ordre de 40'000 francs, constitue une activité principale
+et non accessoire, lui permettant d'assurer son entretien et celui de sa famille (cf. infra let. d).
+Dans ces circonstances, la condition de l'exercice d'une profession pour déterminer l'insaisissabilité
+du bien en question est ainsi réalisée.
+c)
+L'autorité
+inférieure a dénié le caractère nécessaire du tracteur saisi estimant que le
+travail effectué au moyen de celui-ci pouvait être réalisé avec le tracteur H 488
+DT, certes moins récent et moins performant, mais qui pouvait être utilisé à des
+tâches identiques. Cette appréciation est contredite par les témoignages écrits de
+B.O.________ et de l'entreprise K.________ SA qui considèrent que les deux tracteurs doivent pouvoir
+être utilisés simultanément lors des différents travaux aux champs. Selon le premier,
+l'absence du tracteur saisi ralentirait et perturberait fortement le travail surtout lors de conditions
+météorologiques particulières. Le second se réfère à la surface importante
+du domaine – laquelle est également évoquée dans le jugement du 25 janvier 2011
+- rendant nécessaire l'utilisation du bien saisi.  Ces explications sont convaincantes et paraissent
+correspondre aux impératifs du monde agricole. Il est en effet connu que certaines tâches doivent
+parfois être réalisées rapidement et que tout retard peut générer des pertes.
+Dès lors, le tracteur saisi constitue un bien nécessaire à la profession du recourant.
+d)
+Il
+reste à examiner si la profession du recourant est rentable.
+Le recourant a certes déclaré à l'office que son activité ne générait pas
+de bénéfice. Au vu de la pièce produite en deuxième instance, qui établit un
+revenu net annuel de 40'996 francs, calculé sur la base de la taxation fiscale, il faut comprendre
+cette déclaration en ce sens qu'une fois payées toutes ses charges, y compris les charges familiales,
+ces revenus ne lui permettent pas de réaliser une épargne ou de faire face à des dépenses
+extraordinaires.
+En tout état de cause, il apparaît que ce revenu, joint à la rente d'assurance-invalidité
+perçue par le recourant, lui permet de faire face à son entretien et à celui de sa famille.
+On relèvera par ailleurs que rien n'indique que le recourant ferait l'objet d'autres poursuites.
+Il s'ensuit qu'il y a lieu de considérer, en application des critères exposés précédemment
+(cf. surpa let. a) que l'activité du recourant est rentable.
+IV.
+Le recours doit ainsi être admis et le prononcé
+réformé en ce sens que la plainte est admise, le procès-verbal de saisie étant annulé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que la plainte est admise, le procès-verbal de
+saisie du 14 décembre 2011 étant annulé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+13 juillet 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Aba Neeman, avocat (pour A.O.________),
+‑
+Me Cédric Thaler, avocat (pour B.________, I.________),
+-
+M. le Préposé à l’Office des poursuites du district du Gros-de-Vaud.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
