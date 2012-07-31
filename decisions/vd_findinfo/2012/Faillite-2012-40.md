@@ -1,0 +1,119 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___40"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 40"
+decided: "2012-07-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3374725"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-240.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 40
+
+## Regeste
+
+PROCÉDURE DE FAILLITE, FIN, ACTIONNAIRE, QUALITÉ POUR RECOURIR, ADMINISTRATION DE LA FAILLITE | 240 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 31.07.2012 Faillite / 2012 / 40
+
+PROCÉDURE DE FAILLITE, FIN, ACTIONNAIRE, QUALITÉ POUR RECOURIR, ADMINISTRATION DE LA FAILLITE | 240 LP
+
+TRIBUNAL
+CANTONAL
+FF12.023941-121204
+325
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 juillet 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Sauterel et Mme Rouleau
+Greffier
+:
+Mme              Joye
+*****
+Art.
+240 LP
+Vu le jugement rendu le 20 juin 2012 par lequel le Président du Tribunal d'arrondissement de la
+Côte a prononcé, ce jour, la clôture de la faillite de
+P.________
+,
+à Coppet,
+vu le recours déposé contre ce jugement le 30 juin 2012, en temps utile, par N.________ ;
+attendu que la recourante
+dit agir
+en "qualité de représentante des
+actionnaires de la société P.________",
+qu'aucune pièce du dossier n'atteste du statut d'actionnaire de N.________ ni de sa qualité
+pour  représenter les actionnaires de la faillie,
+que quoi qu'il en soit, en vertu de l'art. 240 LP (loi
+fédérale
+sur la poursuite pour dettes et la faillite, RS 281.1)
+,
+c'est l'administration de la faillite qui est chargée des intérêts de la masse, pourvoit
+à sa liquidation et la représente en justice,
+q
+ue la loi confère ainsi à
+la masse en faillite la capacité d'être partie et celle d’ester en justice, à titre
+exclusif, pour faire valoir les prétentions dont est titulaire le failli ou dont la masse est titulaire
+en propre (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la
+faillite, n. 19 ss ad art. 240 LP),
+que par conséquent, N.________ n'est pas habilitée à agir en justice pour le compte de
+la faillie, ni à titre personnel ni pour les actionnaires, qui n'ont pas la qualité pour recourir
+à la place de la société (CPF, 25 mai 2000/210),
+que le recours doit dès lors être déclaré irrecevable;
+attendu que le présent arrêt peut être rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+31 juillet 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+P.________,
+‑
+Mme N.________,
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de la Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Nyon,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Côte.
+La greffière :
