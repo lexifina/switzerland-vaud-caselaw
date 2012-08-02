@@ -1,0 +1,560 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 12"
+decided: "2012-08-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20120712093839733_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-125.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 12
+
+## Regeste
+
+CAS DE SÉQUESTRE, SÉQUESTRE CONCERNANT UN DÉBITEUR DOMICILIÉ À L'ÉTRANGER, SÉQUESTRE{LP}, SÛRETÉS, JONCTION DE CAUSES | 271 al. 1 ch. 4 LP, 273 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 02.08.2012 Séquestre / 2012 / 12
+
+CAS DE SÉQUESTRE, SÉQUESTRE CONCERNANT UN DÉBITEUR DOMICILIÉ À L'ÉTRANGER, SÉQUESTRE{LP}, SÛRETÉS, JONCTION DE CAUSES | 271 al. 1 ch. 4 LP, 273 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+KE11.039754-120278
+120334
+249
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 août 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Bosshard et Mme Rouleau
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+271 al. 1 et 273 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe des recours exercés
+d'une part par
+C.________
+,
+à Saxonwold (Afrique du Sud),
+A.L.________
+,
+à Genève,
+B.L.________
+,
+à Gaiole in Chianti Siena (Italie),
+C.L.________
+,
+à Santa Rosa, Californie (Etats-Unis), et d'autre part par
+A.K.________
+,
+à Malte, contre le prononcé rendu le 20 décembre 2011, à la suite de l’audience
+du 1
+er
+décembre
+2011, par le Juge de paix du district de Morges, dans la cause qui les oppose.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Invoquant le cas de séquestre de l'art. 271 al. 1 ch. 4 LP (loi sur la poursuite pour dettes et
+la faillite du 11 avril 1889; RS 281.1), C.________, A.L.________, B.L.________ et C.L.________ ont déposé,
+le 4 octobre 2011, une requête de séquestre à l'encontre de A.K.________ portant, à
+concurrence de 2'000'000 fr. plus intérêt à 6 % l'an dès le 27 septembre 2001, sur
+les immeubles [...], [...], [...], [...], [...], [...], [...] et [...] de la commune de Vullierens dont
+ce dernier est propriétaire.
+A l'appui de leur requête, ils ont produit notamment:
+-
+un document intitulé "reconnaissance de dette", signé à Vullierens le 27 septembre
+2001 par R.________, d’une part, et A.K.________, d’autre part, par lequel ce dernier reconnaissait
+devoir à la première la somme de 2'000'000 francs. Ce document mentionnait que ce prêt
+était accordé pour une durée de dix ans, le créancier pouvant le dénoncer en
+tout temps moyennant un délai d’avertissement de douze mois, que le débiteur pourrait
+rembourser sa dette en tout temps, en entier ou par fractions, sans avertissement, que le débiteur
+s’engageait à régler au créancier un intérêt de 6 % par an, dû le
+31 décembre de chaque année à commencer par le 31 décembre 2002, que R.________ léguait
+cette créance à son fils D.L.________, en cas de décès, à l’exclusion
+de tout autre héritier testamentaire, les parties se référant aux dispositions légales
+en la matière pour tout ce qui n’était pas prévu;
+-
+un certificat sud-africain de décès de R.________ survenu le 11 décembre 2010;
+-
+un affidavit de l’avocat sud-africain C.________, exécuteur testamentaire de R.________ certifiant
+que cette dernière avait quatre héritiers, ses fils D.L.________, né le 30 juin 1952,
+A.L.________, né le 9 octobre 1953, C.L.________, né le 3 mars 1955, et B.L.________, né
+le 5 septembre 1957;
+-
+un document émanant d’une haute Cour de justice sud-africaine certifiant que C.________ avait
+été désigné exécuteur testamentaire de R.________;
+-
+un acte du 21 septembre 2011 par lequel D.L.________ a cédé à son frère B.L.________
+la part lui revenant dans le cadre de la succession de R.________ sur la créance de cette dernière
+contre A.K.________ découlant de la reconnaissance de dette du 27 septembre 2001;
+-
+une lettre du conseil des requérants au séquestre du 24 septembre 2011 mettant en demeure A.K.________
+de payer dans un délai échéant le 30 septembre 2011 le montant de 3'200'000 fr., soit
+la somme de 2'000'000 fr. plus intérêt à 6 % l'an dès le 27 septembre 2001 jusqu'au
+27 septembre 2011;
+-
+des extraits du Registre foncier du district de Morges relatifs à des parcelles situées à
+Vullierens mentionnant une valeur fiscale totale de 5'719'400 francs ;
+-
+des attestations de domicile à l'étranger de A.K.________.
+2.
+a)
+Le
+5 octobre 2011, le juge de paix du district de Morges a fait droit à la requête et ordonné
+le séquestre à l'encontre de A.K.________ pour le montant de 2'000'000 fr. avec intérêt
+à 6 % l'an dès le 27 septembre 2001, mentionnant comme cas de séquestre l'art. 271
+al. 1 ch. 4 LP, sur les immeubles n
+os
+[...], [...], [...], [...], [...], [...], [...] et [...] de la commune de Vullierens. Les séquestrants
+ont été dispensés de fournir des sûretés.
+b)
+Le séquestré, qui a reçu l’ordonnance de séquestre le 10 octobre 2011, y a
+fait opposition par acte du 19 octobre 2011. Avec cet acte, il a produit un onglet de onze pièces
+sous bordereau, comprenant notamment :
+-
+un courriel adressé le 23 décembre 2010 par D.L.________ à son frère B.L.________
+rapportant les propos du séquestré, surpris de l’existence de cette reconnaissance de
+dette et expliquant que leur mère ne lui avait jamais envoyé l’argent, mais qu’il
+était prêt à rembourser tout montant dont le versement aurait été prouvé;
+-
+un courriel de B.L.________ au séquestré du 7 février 2011, marquant sa surprise et celle
+de ses frères par rapport aux propos tenus à D.L.________ et indiquant en particulier que c’était
+au séquestré de prouver que la dette reconnue avait été remboursée ou annulée;
+-
+une lettre du conseil du séquestré au conseil des séquestrants du 30 septembre 2011 affirmant
+que la reconnaissance de dette était dénuée de toute validité, faute de cause, pour
+le motif que R.________ ne lui avait jamais rien versé;
+-
+des documents bancaires relatifs à deux prêts hypothécaires accordés par la Banque
+Cantonale Vaudoise au séquestré, l’un de 6'000'000 fr. et l’autre de 1'500'000
+fr., garantis par la remise de cédules hypothécaires grevant les parcelles n
+os
+[...], [...], [...],[...], [...], [...] et [...] de la commune de Vullierens.
+Le 21 novembre 2011, les séquestrants ont produit des déterminations sur l'opposition au séquestre,
+accompagnées d'un onglet de quatre pièces sous bordereau, en particulier:
+-
+un acte notarié Louis Rattaz du 21 octobre 1969 par lequel D.K.________ a fait donation à ses
+deux enfants A.K.________ et B.K.________ de cinq parcelles situées à Vullierens ainsi que
+du mobilier se trouvant dans les bâtiments érigés sur ces parcelles, dont [...] de cette
+localité; cet acte prévoyait qu’en cas de revente par le séquestré de tout
+ou partie des immeubles dans un délai de quinze ans dès le transfert, R.________, demi-sœur
+de A.K.________ et B.K.________, ou ses descendants aurait droit à un quart du gain;
+-
+un document de D.K.________ déclarant qu’un certain nombre de meubles et de tableaux garnissant
+le W.________ devait, en cas de vente du château par le séquestré, revenir à R.________,
+respectivement à ses quatre fils, car ils étaient originairement propriété de sa
+femme C.K.________ et de son précédent mari, de même qu’une somme de 100'000 fr.,
+représentant le tiers du capital dépensé par C.K.________ pour des améliorations
+effectuées sur le W.________;
+-
+une lettre de C.K.________ à sa fille R.________ faisant état d’avoirs bancaires gérés
+à Genève;
+-
+une lettre du conseil des séquestrants au conseil du séquestré du 25 octobre 2011 requérant
+l’adresse de ce dernier à Malte.
+Le 30 novembre 2011, le séquestré a déposé une réponse aux déterminations
+des séquestrants. Avec cette réponse, il a produit un onglet de dix pièces sous bordereau,
+notamment:
+-
+un extrait du registre du commerce de la société W.________ dont D.L.________ est le gérant;
+-
+un extrait du site internet de cette société;
+-
+une confirmation d’un prêt hypothécaire de 2'000'000 fr. sur le W.________ accordé
+le 10 septembre 2001 à A.K.________ et/ou B.K.________;
+-
+la copie d’une requête de preuves à futur avec mesures superprovisionnelles déposée
+le 8 novembre 2011 devant le Président du Tribunal d’arrondissement de la Côte à
+l’encontre des séquestrants, demandant notamment qu’ordre leur soit donné de produire
+tous documents comptables bancaires et fiscaux de R.________ couvrant la période du 1
+er
+janvier 2001 au 11 décembre 2010;
+-
+une détermination du conseil des séquestrants au magistrat saisi de cette requête, expliquant
+que la cause de la reconnaissance de dette invoquée était une soulte due par le séquestré
+à sa demi-sœur et non un prêt financier, de sorte que ses mandants admettaient que leur
+mère n’avait jamais versé la somme de 2'000'000 fr. à son demi-frère et concluant,
+avec dépens, au rejet de la requête de preuve à futur;
+-
+l’acte de mariage des époux D.K.________ et C.K.________ contracté à Genève
+le 20 janvier 1934;
+-
+un certificat du mariage des époux [...] et C.K.________ contracté à Paris le 17 mars
+1925;
+-
+un extrait du registre des familles de la commune de Val-de-Travers concernant les époux D.K.________
+et C.K.________;
+-
+une copie du testament de C.K.________ du 31 mai 1966 transférant à un trust l’ensemble
+de ses avoirs américains, sous réserve de ses effets personnels et d’une somme de 5'000
+US $;
+-
+une attestation du 14 octobre 1993 du Juge de paix du cercle de Colombier certifiant que D.K.________
+avait laissé pour seuls héritiers ses deux enfants A.K.________ et B.K.________.
+A l’audience du Juge de paix du district de Morges, le 1
+er
+décembre 2011, tenue en présence des parties, le séquestré a encore déposé
+une déposition écrite de l’employé de banque qui s’était occupé
+auprès de la SBS puis d’UBS SA de la gestion de sa fortune et de la formalisation et de la
+mise à disposition de financements destinés à payer les travaux de rénovation de
+la ferme du W.________. Dans ce document, ce témoin rapporte qu’en septembre 2001, R.________
+se trouvait à Vuillerens et que le séquestré avait fait à celle-ci la proposition
+de participer à ces financements. C’est dans ce contexte et alors que R.________ devait repartir
+en Afrique du Sud que le séquestré lui avait proposé de lui remettre une reconnaissance
+de dette, qui ne devait avoir de portée qu’en cas de prêt effectif et devait être
+détruit en cas de non-concrétisation.
+3.
+Par prononcé du 20 décembre 2011, le
+Juge de paix du district de Morges a admis partiellement l’opposition au séquestre (I), modifié
+l'ordonnance de séquestre du 5 octobre 2011 en ce sens que les séquestrants étaient astreints
+à verser en mains de l’Office des poursuites de Morges un montant de 700'000 fr. à titre
+de sûretés en vue de garantir tout dommage causé à la partie séquestrée
+par l’exécution du séquestre (II), arrêté à 1'800 fr. les frais judiciaires
+(III) mis partiellement à la charge du requérant (IV) et dit qu’en conséquence les
+intimés rembourseraient au requérant la moitié de son avance de frais, à concurrence
+de 900 fr., et lui verseraient en outre la somme de 800 fr. à titre de défraiement de son représentant
+professionnel (IV).
+Les deux parties ont requis la motivation de ce prononcé par lettres de leurs conseils respectifs
+des 21 et 22 décembre 2011. Le 21 décembre 2011, le conseil du séquestré a également
+requis que le dispositif de ce prononcé soit complété en ce sens qu’un délai
+est imparti aux séquestrants pour fournir les sûretés ordonnées. Les motifs du prononcé
+ont été adressés pour notification aux parties le 9 février 2012 et distribués
+le lendemain à leurs conseils. Le dispositif a été complété en ce sens qu’il
+a été imparti un délai de cinq jours dès réception du prononcé pour procéder
+au versement des sûretés en mains de l’office des poursuites, sous peine de caducité
+du séquestre.
+Le premier juge a considéré en substance qu’il n’avait pas à trancher la question
+de l’existence et de l’exigibilité de la créance dont le recouvrement devait être
+garanti par le séquestre, ces questions ressortissant à la cognition du juge de la mainlevée
+ou du juge de fond. Il a en revanche estimé que cette question pourrait se révéler litigieuse
+lorsque ce point serait examiné par le juge saisi de cette question et que cela justifiait d’astreindre
+les requérants à fournir des sûretés à concurrence de 700'000 fr., soit un montant
+correspondant à 10% de la valeur des immeubles séquestrés.
+4.
+Les séquestrants ont déposé un
+premier recours par mémoire du 14 février 2012 concluant, avec suite de dépens de
+première et deuxième instances, principalement à la réforme du prononcé en ce
+sens que l’opposition au séquestre est rejetée, les recourants étant dispensés
+de fournir des sûretés, subsidiairement à l’annulation du prononcé et au renvoi
+de la cause au premier juge pour nouvelle décision. Ils ont requis l’effet suspensif qui a
+été accordé par décision présidentielle du 15 février 2012.
+Le séquestré a également recouru contre le prononcé par mémoire du 20 février
+2012 concluant, avec suite de frais et dépens de première et deuxième instances, à
+la réforme du prononcé en ce sens que l’ordonnance de séquestre est annulée,
+voire révoquée, et le séquestre portant sur les immeubles n
+os
+[...],[...], [...], [...],[...], [...], [...] et [...] de la commune de Vullierens levé.
+Les séquestrants ont déposé un nouveau mémoire de recours le 20 février
+2012, reprenant les conclusions prises dans leur mémoire du 14 février 2012. Ils ont produit
+un onglet de huit pièces supplémentaires sous bordereau, comprenant notamment des pièces
+issues d’une procédure de mainlevée provisoire de l’opposition à un commandement
+de payer menée parallèlement à la présente procédure, mais aussi une lettre
+de leur conseil à l’Office des poursuites du district de Morges du 20 février 2012 par
+lequel il annonce renoncer au séquestre des immeubles [...] et [...] de la commune de Vuillerens
+ainsi qu’au séquestre de tous les loyers et fermages relatifs aux immeubles n
+os
+[...], [...], [...], [...], [...] et [...] de la commune de Vuillerens, le séquestre ne portant
+plus que sur ces derniers immeubles, à l’exclusion de tous loyers ou fermages.
+Le séquestré a répondu au recours des séquestrants par mémoire du 26 mars 2012,
+concluant, avec suite de frais et dépens, au rejet de leur recours. Il a produit avec cette réponse
+un onglet de trois pièces sous bordereau, comprenant en particulier des pièces extraites de
+la procédure de mainlevée précitée.
+Les séquestrants ont répondu au recours du séquestré par mémoire du 5 avril
+2012, concluant avec suite de dépens de première et seconde instances, au rejet des conclusions
+du recours du séquestré. Ils ont produit avec cette réponse un onglet de neuf pièces
+sous bordereau, comprenant également des pièces issues de la procédure de mainlevée
+de l’opposition.
+En droit
+:
+I.
+a)
+Aux termes de l'art. 125 let. c CPC (Code de procédure civile du 19 décembre 2008; RS
+272), pour simplifier le procès, le tribunal peut ordonner une jonction de causes. La jonction de
+causes, comme la division de causes, n'est pas conditionnée par des critères précis tels
+la connexité pour la jonction ou l'absence de connexité pour la division. Le seul critère
+est celui de la simplification du procès, selon l'appréciation du tribunal (Haldy, Code de
+procédure civile commenté, n. 6 ad art. 125 CPC).
+En l'occurrence, les deux recours déposés par A.K.________ d'une part et par C.________, A.L.________,
+B.L.________ et C.L.________ d'autre part concernent le même prononcé. De plus, le sort du
+premier est susceptible d'influer sur le sort du second. Dans ces conditions, il se justifie que les
+deux causes soient jointes pour être traitées dans le même arrêt.
+b)
+Les recours ont été formés en
+temps utile, dans le délai de dix jours de l’art. 321 al. 2 CPC. Il importe peu que les séquestrants
+aient produits deux mémoires successifs, dès lors que le second mémoire, plus complet,
+a également respecté le délai de recours. Ces recours sont écrits et motivés
+et contiennent des conclusions tendant au rejet de l’opposition au séquestre, respectivement
+à l’annulation de l’ordonnance de séquestre, et subsidiairement à l’annulation
+du prononcé et au renvoi au premier juge  (Reiser, Basler Kommentar, n. 40 ad art. 278 LP [loi
+sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1]; sur l’exigence de conclusions :
+cf. Jeandin, Code de procédure civile commenté, n. 5 ad art. 321 CPC; Freiburghaus/Afheldt,
+Kommentar zur Schweizerischen Zivilprozessordnung (ZPO), n. 14 ad art. 321 CPC; ATF 137 III 617 c. 4).
+Les recours sont ainsi recevables.
+En principe, en procédure de recours, les conclusions, les allégations de faits et les preuves
+nouvelles sont irrecevables (art. 326 al. 1 CPC). En effet, le tribunal de deuxième instance doit
+statuer sur un état de fait identique à celui examiné par le premier juge. Cette règle,
+stricte, s’explique par le fait que l’instance de recours a pour mission de contrôler
+la conformité au droit de la décision entreprise, mais pas de poursuivre la procédure
+de première instance; à l’instar du Tribunal fédéral, l’instance de recours
+doit contrôler la juste application du droit à un état de fait arrêté définitivement
+(Chaix, Introduction au recours de la nouvelle procédure civile fédérale, in SJ 2009 II
+257 ss, n. 17, p. 267). Cependant, l’art. 326 al. 2 CPC réserve les dispositions spéciales
+de la loi, ce qui vise non seulement les règles contenues dans le CPC, mais toute norme de droit
+fédéral. A ce titre, la loi fédérale sur la poursuite pour dettes et la faillite
+contient des règles spécifiques en relation avec le recours contre le jugement de faillite
+(art. 174 al. 1 et al. 2 LP), avec la décision sur opposition à séquestre (art. 278 al.
+3 LP) et avec le recours contre le jugement statuant sur la révocation du sursis extraordinaire
+(art. 348 al. 2 LP). Ainsi, l’art. 278 al. 3 2
+ème
+phrase LP prévoit explicitement que les parties peuvent alléguer des faits nouveaux. Cependant,
+ces faits nouveaux doivent s’être produits depuis la décision du premier juge. Seuls
+les vrais nova sont admissibles (Reiser, op. cit., n. 46 ad art. 278 LP et les réf. citées;
+Bovey, La révision de la Convention de Lugano et le séquestre, in JT 2012 II 80 ss, p. 97 et
+les réf. citées à la note infrapaginale n. 99).
+Ainsi, les pièces nouvelles produites par les parties avec leurs mémoires de recours, respectivement
+leurs mémoires responsifs, ne sont recevables que dans la mesure où elles sont strictement
+nouvelles. En particulier, les pièces contenues dans les bordereaux accompagnant la procédure
+de mainlevée et qui sont antérieures au 1
+er
+décembre 2011, date de l’audience devant le premier juge, ne sont pas recevables, à moins
+qu’elles n’aient également été produites en première instance. En revanche
+est notamment recevable la pièce d’après laquelle les séquestrants ont déclaré
+renoncer au séquestre sur certains immeubles et au séquestre des loyers et fermages sur les
+autres immeubles.
+II.
+a)
+Selon l’art. 271 al. 1 LP, le créancier
+d’une prétention échue non garantie par gage peut requérir le séquestre des
+biens du débiteur qui se trouvent en Suisse dans six cas, notamment lorsque le débiteur n’habite
+pas en Suisse et qu’il n’y a pas d’autre cas de séquestre, pour autant que la
+créance ait un lien suffisant avec la Suisse ou qu’elle se fonde sur une reconnaissance de
+dette au sens de l’art. 82 al. 1 LP. D’après l’art. 272 al. 1 LP, le séquestre
+est autorisé par le juge du for de la poursuite ou par le juge du lieu où se trouvent les biens,
+à condition que le créancier rende vraisemblable que sa créance existe (ch. 1), qu’on
+est en présence d’un cas de séquestre (ch. 2) et qu’il existe des biens appartenant
+au débiteur (ch. 3).
+Cette dernière disposition n’exige pas du créancier qu’il apporte la preuve que
+les conditions du séquestre sont remplies; il doit uniquement rendre vraisemblable leur existence.
+Le juge doit considérer un fait comme vraisemblable s’il est convaincu par le "commencement
+de preuve"; autrement dit, il suffit que le juge soit convaincu que les faits pertinents se sont
+vraisemblablement produits. Ainsi, la preuve est simplement vraisemblable lorsque le juge, en se basant
+sur des éléments objectifs, a l’impression que les faits pertinents se sont produits,
+sans pour autant qu’il doive exclure que les faits aient pu se dérouler autrement (Stoffel/Chabloz,
+Commentaire romand, n. 3 ad art. 272 LP; Stoffel, Basler Kommentar, n. 4 ad art. 272 LP; Hohl, Procédure
+civile, tome II, nn. 1569-1570, p. 284; ATF 130 III 321 c. 3.3, JT 2005 I 618; TF 5A_654/2010 du
+24 novembre 2011 c. 7.2 et les réf. citées).
+L’autorisation de séquestre ne requiert pas une vraisemblance particulière ou qualifiée.
+Une vraisemblance "normale" suffit. L’existence de titres facilite la démonstration,
+mais n’est pas exigée par la loi, sauf pour les cas de séquestre de l’art. 271
+al. 1 ch. 5 et ch. 6  LP ainsi que pour certaines conditions liées au cas de séquestre
+de l’art. 271 al. 1 ch. 4 LP. Le créancier satisfait aux exigences de la vraisemblance s’il
+fait une double démonstration. Ses allégations doivent être pertinentes; s’ils sont
+avérés, les faits exposés doivent correspondre aux conditions du séquestre. De plus,
+les faits présentés par le créancier doivent paraître vraisemblables; ainsi l’exposé
+des faits doit paraître plausible pour le juge. En d'autres termes, les exigences concernant le
+degré de la preuve sont remplies lorsque les éléments de l’état de fait présentés
+de manière vraisemblable sont aptes à établir l’existence des conditions du séquestre
+définies par l’art. 271 LP. L’appréciation de la vraisemblance est nécessairement
+provisoire. Elle peut se modifier en procédure d’opposition, sur la base des allégués
+présentés par le débiteur, dont le juge du séquestre peut et doit tenir compte (Stoffel/Chabloz,
+op. cit., nn. 4 à 6 ad art. 272 LP; Stoffel, op. cit., nn. 5 à 7 ad art. 272 LP).
+b)
+La
+présence de biens en Suisse ainsi que le cas de séquestre fondé sur le domicile à
+l’étranger du séquestré ne sont pas remis en cause. Seule est litigieuse l’existence,
+ou plus exactement la vraisemblance de l’existence, de la créance sur la base de laquelle
+le séquestre a été requis.
+Pour obtenir le séquestre, les requérants
+se sont fondés principalement sur un document par lequel le séquestré se reconnaissait
+débiteur d’une somme de 2'000'000 fr. avec intérêt à 6 % l’an à
+l’égard de leur mère, respectivement de la personne dont le premier requérant est
+l’exécuteur testamentaire. Cette créance était suffisamment vraisemblable pour que
+le séquestre soit ordonné.
+Dans la procédure d’opposition au séquestre, le séquestré a fait valoir que
+cette reconnaissance de dette ne reposait sur aucune cause, la bénéficiaire de la reconnaissance
+de dette n’ayant opéré aucun versement en faveur du séquestré. Le premier juge
+n’est pas entré en matière sur cette argumentation, considérant qu’il appartiendrait
+au juge de la mainlevée ou au juge du fond de trancher cette question. Cette approche est toutefois
+trop restrictive : l’auteur cité par le premier juge lui-même mentionne que le juge
+du séquestre qui statue sur l’opposition au séquestre procède à une instruction
+plus complète, car contradictoire, que lorsqu’il a statué unilatéralement et qu’il
+doit également prendre en compte les faits postérieurs à l’ordonnance de séquestre
+(Brogli, La procédure sommaire en droit des poursuites, thèse Lausanne 2003, p. 176). Comme
+on l’a vu plus haut, le juge de l’opposition au séquestre peut et doit tenir compte
+également des allégués présentés par le débiteur (Stoffel, op. cit., n.
+7 ad art. 272 LP).
+Le premier juge aurait donc dû se poser la question de savoir si, malgré les éléments
+nouveaux avancés par le séquestré, la créance invoquée par les séquestrants
+était encore suffisamment vraisemblable. La doctrine rapporte que dans l’hypothèse où
+le créancier se prévaut d’un contrat bilatéral comme reconnaissance de dette, il
+ne suffit pas que le séquestré affirme que le créancier n’a pas effectué sa
+contre-prestation pour que le séquestre soit levé, car il suffit que le créancier rende
+vraisemblable la reconnaissance de dette (Reiser, op. cit., n. 10 in fine ad art. 278 LP et la réf.
+citée). Compte tenu des éléments que le premier juge avait à disposition, il était
+pratiquement certain – car cela résultait en particulier de la détermination du conseil
+des séquestrants dans la procédure de preuve à futur – que la bénéficiaire
+de la reconnaissance de dette n’avait pas versé la somme de 2'000'000 fr. au séquestré
+au mois de septembre 2001.
+Cela ne rendait toutefois pas totalement invraisemblable la créance des séquestrants, la cause
+de l’engagement du séquestré pouvant résulter d’autres motifs, notamment d’une
+soulte due par le séquestré à sa demi-sœur en raison de la succession de leur mère
+commune. C.K.________ avait, par testament du 31 mai 1966, transféré à un trust ses avoirs,
+mais cela ne concernait que ses avoirs américains. Si l’on ne peut exclure que les faits se
+sont produits comme l’expose le séquestré, soit qu’il ait signé par avance
+une reconnaissance de dette à sa demi-sœur qui l’aurait emportée avec elle en Afrique
+du Sud avant même qu’il ait reçu les fonds qu’elle lui aurait promis, il n’est
+pas non plus impossible que cette reconnaissance de dette corresponde à des engagements consécutifs
+à la succession de leur mère commune.
+Par conséquent, le prononcé du premier juge doit être confirmé sur ce point et le
+recours du séquestré doit être rejeté.
+III.
+Aux termes de l’art. 273 al. 1 LP, le créancier
+répond du dommage qu’un séquestre injustifié peut causer tant au débiteur qu’aux
+tiers et le juge peut l’astreindre à fournir des sûretés.
+C’est le juge du séquestre qui est compétent pour décider de la fourniture des sûretés;
+il doit en décider d’office, lors de l’autorisation de séquestre, ou sur requête
+du débiteur ou du tiers à un moment ultérieur de la procédure (Stoffel/Chabloz, op.
+cit., n. 18 ad art. 273 LP). La décision du juge du séquestre d’astreindre ou de ne pas
+astreindre le créancier à fournir des sûretés peut être examinée, au même
+titre que l’autorisation de séquestre, dans la procédure d’opposition, sur requête
+du débiteur ou du tiers, mais aussi à la demande du créancier lui-même (Stoffel/Chabloz,
+op. cit., n. 20 ad art. 273 LP).
+La décision d’astreindre le créancier à fournir des sûretés relève
+de l’appréciation du juge du séquestre. Ce dernier doit prendre en compte plusieurs considérations.
+Tout d'abord, il y a lieu de ternir compte de la vraisemblance de l’existence d’une créance
+et d’un cas de séquestre. La fourniture de sûretés ne se justifie pas, lorsque le
+créancier se fonde sur un jugement exécutoire ou sur une décision administrative exécutoire;
+à l’inverse, les cas de séquestre difficiles à établir, comme par exemple le
+risque de fuite (art. 271 al. 1 ch. 2 LP) ou les liens suffisants avec la Suisse (art. 271 al. 1 ch.
+4 LP) plaident en faveur d’une astreinte à fournir des sûretés.
+De plus, le montant des sûretés est fonction du dommage possible. Celui-ci dépend de l’importance
+de la créance à la base du séquestre et de l’importance qu’ont les biens séquestrés
+pour le débiteur ou le tiers, y compris les frais de défense liés à la procédure
+de validation. Selon la doctrine, un montant équivalent à deux fois l’intérêt
+annuel (10 %) que produiraient les biens séquestrés peut souvent s’avérer justifié;
+en revanche, un montant forfaitaire jusqu’à 50 % de la créance séquestrée paraîtrait
+injustifié.
+Enfin, les intérêts du créancier doivent également être pris en compte dans
+l’évaluation générale, au même titre que ceux du débiteur. Lorsque les
+conditions du séquestre sont remplies, le créancier a droit à obtenir cette mesure. Ce
+droit ne doit pas être rendu illusoire par l’astreinte à fournir des sûretés
+excessives (Stoffel/Chabloz, op. cit., nn. 22 à 25 ad art. 273 LP).
+Depuis le prononcé sur opposition du premier juge, les séquestrants ont renoncé au séquestre
+sur deux parcelles et au séquestre des loyers et fermages sur les autres parcelles. Le dommage possible
+du séquestré est ainsi fortement diminué. En particulier, la levée du séquestre
+sur les loyers et fermages lui permet de s’acquitter des intérêts et amortissements des
+prêts hypothécaires.
+En revanche, les considérations du premier juge sur la vraisemblance de l’existence de la
+créance restent pertinentes. Il n’est pas certain qu’au terme des procédures menées
+au fond, après administration complète des preuves, les séquestrants obtiennent gain de
+cause. Le principe des sûretés doit en conséquence être maintenu.
+Le premier juge n’a cependant pas pris en compte, lorsqu’il a fixé le montant des sûretés,
+les intérêts des séquestrants, notamment à ce que le droit au séquestre ne soit
+pas rendu illusoire par le montant des sûretés requises. Compte tenu de la réduction du
+poids du séquestre et de la prise en considération de ce dernier élément, le montant
+des sûretés doit être ramené à 50'000 francs.
+IV.
+En conclusion, le recours du séquestré
+doit être rejeté. Les frais de deuxième instance doivent être arrêtés à
+1'050 fr. et mis à la charge du séquestré qui succombe (art. 106 al. 1 CPC). Une
+partie de son avance de frais, soit 1'575 fr., doit lui être restituée vu la réduction
+de la valeur litigieuse. Il doit en outre verser aux séquestrants de pleins dépens, fixés
+à 2'000 francs.
+Le recours des séquestrants doit être partiellement admis en ce sens que le montant des sûretés
+requises est réduit à 50'000 francs. Ces sûretés doivent être fournies dans
+le délai de quinze jours dès la notification du présent arrêt (CPF, 21 janvier 2010/30).
+Les frais de deuxième instance sont arrêtés à 1'350 fr. et répartis entre les
+parties conformément à l'art. 106 al. 2 CPC, soit mis à la charge du séquestré
+pour quatre cinquièmes (1'080 fr.) et à la charge des séquestrants pour un cinquième
+(270 fr.). Le séquestré doit en outre verser aux séquestrants des dépens réduits
+d'un cinquième, soit 1'200 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours de A.K.________ est rejeté.
+II.
+Le recours de C.________, A.L.________, B.L.________ et C.L.________ est admis partiellement.
+III.
+Le prononcé est réformé en ce sens
+que les séquestrants C.________, A.L.________, B.L.________ et C.L.________ sont astreints à
+verser en mains de l'Office des poursuites du district de Morges un montant de 50'000 fr. (cinquante
+mille francs) dans un délai de quinze jours dès la notification du présent arrêt
+à titre de sûretés en vue de garantir tout dommage causé au séquestré A.K.________
+par l'exécution du séquestre ordonné le 5 octobre 2011, sous peine de caducité du
+séquestre.
+Le prononcé est confirmé
+pour le surplus.
+IV.
+Les frais judiciaires de deuxième instance pour le recours de A.K.________, arrêtés à
+1'050 fr. (mille cinquante francs), sont mis à la charge du recourant A.K.________.
+V.
+Les frais judiciaires de deuxième instance
+pour le recours de C.________, A.L.________, B.L.________ et C.L.________, arrêtés à 1'350
+fr. (mille trois cent cinquante francs), sont mis partiellement à la charge de l'intimé A.K.________,
+à concurrence de 1'080 fr. (mille huitante francs), et partiellement à la charge des recourants
+C.________, A.L.________, B.L.________ et C.L.________, solidairement entre eux, à concurrence de
+270 fr. (deux cent septante francs).
+VI.
+Le recourant et intimé A.K.________ doit verser aux intimés C.________, A.L.________, B.L.________
+et C.L.________, solidairement entre eux, la somme de 4'280 fr. (quatre mille deux cent huitante francs)
+à titre de dépens et de restitution partielle des frais de deuxième instance.
+VII.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+2 août 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Jean-Pierre Gross, avocat (pour A.K.________),
+‑
+Me Jean-Noël Jaton, avocat (pour C.________, A.L.________, B.L.________ et C.L.________)
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 349'400 fr. pour
+le recours exercé par A.K.________ et de 700'000 fr. pour le recours exercé par C.________,
+A.L.________, B.L.________ et C.L.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé
+à l'Office des poursuites du district de Morges
+et
+communiqué à:
+‑
+M. le Juge de paix du district de Morges.
+La greffière :
