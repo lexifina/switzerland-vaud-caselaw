@@ -1,0 +1,308 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___47"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 47"
+decided: "2012-08-31"
+published: "2012-07-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3418979"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 47
+
+## Regeste
+
+PROCÉDURE DE FAILLITE, INSOLVABILITÉ, RESTITUTION DU DÉLAI, PRINCIPE DE LA BONNE FOI | 5 al. 3 Cst., 174 LP, 33 al. 4 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 31.07.2012 Faillite / 2012 / 47
+
+PROCÉDURE DE FAILLITE, INSOLVABILITÉ, RESTITUTION DU DÉLAI, PRINCIPE DE LA BONNE FOI | 5 al. 3 Cst., 174 LP, 33 al. 4 LP
+
+TRIBUNAL
+CANTONAL
+FF11.044409-120134
+277
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 août 2012
+__________________
+Présidence
+de               M.
+SAUTEREL
+,
+vice-président
+Juges
+:              M.
+Muller et M. Vallat, juge suppléant
+Greffier
+:
+Mme              Joye
+*****
+Art.
+33 al. 4 ; 174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+L.________
+,
+à Lausanne, contre le jugement rendu le 9 janvier 2012, à la suite de l’audience du 15
+décembre 2011, par le Président du Tribunal d’arrondissement de Lausanne, prononçant
+la faillite du recourant à la réquisition de
+X.________
+,
+à Lausanne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 18 août 2011, à la
+réquisition de X.________, l'Office des poursuites du district de Lausanne (ci-après : l'office)
+a notifié à L.________, dans la poursuite n° 5'894'740, un commandement de payer les sommes
+de 367 fr. 25, plus intérêt au taux de 5 % l'an dès le 27 juin 2011, en règlement
+de la prime d'assurance LAMal du mois de juin 2011, et de 35 fr. sans intérêt, correspondant
+à des frais administratifs.
+Le poursuivi n'a pas formé opposition. Une commination de faillite lui a été notifiée
+le 28 septembre 2011 dans la même poursuite et pour les mêmes montants en capital et intérêt.
+b)
+Le
+21 novembre 2011, la poursuivante a requis du
+Président
+du Tribunal d’arrondissement de Lausanne
+la faillite du débiteur.
+Une audience a été
+tenue le 15 décembre 2011, lors de laquelle le poursuivi a été entendu et s'est vu accorder
+un délai au 21 décembre 2011.
+Par jugement du 9 janvier 2012, le Président
+du Tribunal d’arrondisse-ment de Lausanne a prononcé la faillite d'L.________, le même
+jour à 14 heures, et mis les frais, par 200 fr., à sa charge. Ce jugement a été
+adressé pour notification aux parties le même jour. Le failli l'a reçu le lendemain, 10
+janvier 2012.
+c)
+Par courrier daté du 17 janvier 2012, déposé au greffe du Tribunal d'arrondissement de
+Lausanne le 23 janvier 2012, L.________ a demandé que la décision de faillite soit "réétudiée",
+expliquant qu'il avait réglé le montant réclamé, par 367 fr. 25, le 16 décembre
+2011 et le solde de la poursuite, par 120 fr. 10, le
+11
+janvier 2012. A l'appui de son écriture, il a produit des pièces attestant du paiement, en
+main de l'office, de ces deux montants.
+Par lettre du 31 janvier 2012, le Président de la Cour de céans a informé L.________ que
+son recours – daté du 17 janvier 2012, mais déposé le 23 janvier 2012 seulement
+– contre le jugement de faillite qui lui a été notifié le
+10
+janvier 2012 paraissait tardif et donc irrecevable et lui a imparti un délai au
+10
+février 2012 pour se déterminer sur ce point et exposer, s'il entendait requérir une restitution
+de délai, les raisons pour lesquelles l'acte n'a pas été déposé à temps.
+Par lettre du 9 février 2012, le recourant a indiqué qu'il était en arrêt maladie
+la semaine du 16 au 20 janvier 2012 et qu'il n'avait repris ses activités professionnelles que le
+lundi 23 janvier 2012, raison pour laquelle il n'a pas pu déposer son acte de recours avant cette
+date. Le 14 février 2012, un délai au
+22
+février 2012 a été imparti au recourant pour produire un certificat médical.
+Par
+courrier du 20 février 2012, L.________ a demandé un délai supplémentaire pour ce
+faire. Une prolongation au 12 mars 2012 lui a été accordée. Par courrier du
+2
+mars 2012, il a produit un certificat médical attestant d'une incapacité totale de travail
+dès le 16 janvier 2012, pour 5 jours, pour cause de maladie.
+Par décision du 6 mars 2012, le Président de la cour de céans a accordé d'office
+l'effet suspensif et ordonné, à titre de mesures conservatoires, l'inventaire et l'audition
+du failli. Le 7 mars 2012, un délai au 22 mars 2012  a été imparti à L.________
+pour effectuer l'avance de frais pour le dépôt du recours, ce qu'il a fait.
+Par courrier du 14 mars 2012, la créancière Supra a demandé à ce que le dossier soit
+classé, la requête de faillite n'ayant "plus lieu d'être", le débiteur
+ayant payé la créance en poursuite.
+2.
+Il ressort des pièces figurant au dossier
+qu'L.________ exploite seul son entreprise individuelle (atelier de mécanique de précision),
+inscrite au Registre du commerce du canton de Vaud depuis le 2 mai 2011. Aucune comptabilité n'a
+été établie pour l'instant.
+Selon l'extrait des poursuites au 24 janvier 2012,
+le recourant faisait l'objet, à cette date, de trois poursuites pour une somme totale de 4'306 fr.
+75, à savoir : une poursuite exercée par l'intimée, d'un montant de 202 fr. 30, au stade
+de la commination de faillite, et deux poursuites exercées par l'Office d'impôt des districts
+de Lausanne et de l'Ouest lausannois, la première, d'un montant de 328 fr. 70, au stade du commandement
+de payer notifié, et la seconde, de 3'775 fr. 75, au stade de la saisie exécutée.
+En droit
+:
+I.
+a)
+Le recours contre un jugement de faillite doit être introduit dans le délai de dix jours dès
+sa notification (art. 174 al. 1 LP, loi fédérale sur la poursuite pour dettes et la faillite
+du 11 avril 1889; RS 281.1).
+L.________ a reçu le jugement de faillite le 10 janvier 2012, si bien que le délai de dix jours
+pour recourir arrivait à échéance le 20 janvier 2012. Le recours a été déposé
+le 23 janvier 2012. Pour expliquer ce retard,
+le
+recourant invoque un empêchement pour cause de maladie.
+Aux termes de l'art. 33 al. 4 LP, quiconque a été empêché sans sa faute d'agir dans
+le délai fixé peut demander à l'autorité de surveillance ou à l'autorité
+judiciaire compétente qu'elle lui restitue ce délai. L'intéressé doit, à compter
+de la fin de l'empêchement, déposer une requête motivée dans un délai égal
+au délai échu et accomplir auprès de l'autorité compétente l'acte juridique
+omis. La requête de restitution de délai est donc soumise à trois conditions : un empêchement
+non fautif, le dépôt d'une requête motivée dans un délai égal au délai
+échu et l'accomplissement de l'acte omis dans le même délai que celui pour former la demande
+de restitution.
+S'agissant de l'empêchement non fautif d'agir dans le délai de recours – arrivé
+à échéance le 20 janvier 2012 –, le certificat médical produit, qui atteste
+d'une incapacité totale de travail du 16 au 20 janvier 2012 pour cause de maladie, est suffisamment
+probant. La première condition posée par l'art. 33 al. 4 LP est donc réalisée.
+Le recourant disposait ainsi d'un délai de 10 jours à compter du
+20
+janvier 2012, soit jusqu'au 30 janvier 2012, pour requérir la restitution du délai et effectuer
+l'acte omis. L.________ a déposé un recours le 23 janvier 2012, accomplissant ainsi, à
+temps, l'acte omis. Dans son recours, l'intéressé ne requiert certes pas formellement la restitution
+du délai manqué. Toutefois, il a été interpellé par l'autorité de céans
+pour se déterminer sur son retard à
+agir et pour exposer, s'il entendait requérir une restitution de délai, les raisons pour lesquelles
+l'acte n'a pas été déposé à temps. Le recourant a répondu à cette
+interpellation le 9 février 2012, dans le délai qui lui a été imparti. Puis, un délai
+au 22 février 2012, prolongé au 12 mars 2012 à sa demande, a été accordé
+au recourant pour produire un certificat médical, ce qu'il a fait, le 2 mars 2012. Après cela,
+le 7 mars 2012, une avance de frais pour le dépôt du recours lui a été réclamée,
+l'autorité de céans exprimant ainsi implicitement qu'elle entrait en matière. Dans ces
+circonstances, en vertu du principe de la bonne foi en procédure, par lequel le juge est lié
+en vertu des art. 5 al. 3 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999; RS 101) et
+52
+CPC (Bohnet, CPC commenté, nn. 12 et 16 ad art. 52 CPC),
+il
+y a lieu d'admettre la recevabilité de la requête en restitution de délai présentée
+par L.________ le 9 février 2012 et de lui restituer le délai de recours.
+Ainsi, déposé à temps et tendant à l'annulation de la faillite, le recours est recevable
+formellement.
+b)
+La production de pièces nouvelles en deuxième instance est autorisée en matière de
+faillite pour faire valoir des faits nouveaux lorsqu'ils se sont produits avant le jugement de première
+instance (art. 174 al. 1 LP) ou, si les pièces se rapportent à des faits intervenus depuis
+l'audience de faillite, pour rendre vraisemblable la solvabilité du débiteur et établir
+que celui-ci a payé sa dette ou consigné les montants nécessaires auprès de l'autorité
+compétente ou que le créancier a retiré sa réquisition de faillite (art. 174
+al. 2 LP). Dans cette mesure, les pièces produites à l'appui du recours sont recevables.
+II.
+a)
+Selon l'art. 171 LP, le juge saisi d'une réquisition
+de faillite doit prononcer celle-ci, sauf dans les cas mentionnés aux art. 172 à 173a LP, qui
+n'étaient pas réalisés en l'espèce. C'est donc à juste titre que le premier
+juge a prononcé la faillite de la recourante.
+b)
+En vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler le jugement lorsque le débiteur, en déposant
+le recours, rend vraisemblable sa solvabilité et établit par titre que depuis lors la dette,
+intérêts et frais compris, a été payée ou que la totalité de la somme à
+rembourser a été déposée à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite. Ces deux conditions, soit le paiement de la dette à
+l'origine de la faillite ou le retrait de la requête de faillite et la vraisemblance de la solvabilité
+sont cumulatives.
+En l'espèce, le recourant a rapporté la preuve du paiement de la dette à l'origine de
+la faillite et, en outre, l'intimée a retiré sa requête de faillite, de sorte que la première
+des conditions précitées pour annuler la faillite est réalisée.
+La solvabilité au
+sens de l’art. 174 al. 2 LP se définit par opposition à l’insolvabilité au
+sens de l’art. 191 LP (Giroud, Basler Kommentar, n. 25 ad art.
+174
+LP). Cette dernière n’équivaut pas au surendettement mais consiste en l’incapacité
+du débiteur, en raison d’un manque de liquidités qui n’apparaît pas seulement
+temporaire, de payer ses dettes échues. Dès lors que la loi se contente d’une simple
+vraisemblance, il ne faut pas poser d’exigences trop sévères quant à la solvabilité :
+celle-ci est rendue vraisemblable lorsqu’elle apparaît plus vraisemblable que l’insolvabilité
+(Giroud, op. cit., n. 26 ad art. 174 LP; Cometta, Commentaire romand, n. 9 ad art. 174 LP; Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 45 ad art. 174
+LP; TF 5A_529/2008 du 25 septembre 2008 et réf. cit.).
+S’il ne doit pas
+prouver sa solvabilité de manière stricte, le débiteur ne peut toutefois se contenter
+de simples allégations, mais doit fournir des indices tels que les récépissés de
+paiements, des justificatifs de moyens financiers à sa disposition, des listes de ses débiteurs,
+un extrait du registre des poursuites, des comptes annuels récents avec bilan intermédiaire,
+cette liste n’étant pas exhaustive. La production de l'extrait du registre des poursuites
+est en règle générale décisive (Cometta, op. cit., n. 10 ad art. 174 LP).  Il
+faut examiner concrètement la situation du débiteur, par comparaison entre ses actifs et ses
+passifs. Des difficultés momen-tanées de trésorerie, même si elles amènent un
+retard dans le paiement des dettes, ne sont pas à elles seules un indice d’insolvabilité.
+A l’inverse, l’absence de poursuite en cours n’est pas une preuve absolue de solvabilité;
+elle constitue toutefois un indice sérieux de la capacité du débiteur de s’acquitter
+de ses engagements échus, en particulier lorsqu’il s’agit d’une personne physique
+(CPF, 9 décembre 2010/474; CPF, 2 octobre 2008/483; CPF, 13 juin 2002/229).
+En l'espèce, la cour dispose certes de très peu d'éléments permettant de se faire
+une idée claire de la situation
+économique du recourant
+et d'apprécier
+sa solvabilité. Toutefois, on peut retenir que l
+es
+montants en poursuite, par 4'306 fr. 75 au total, ne sont pas particulièrement importants et que
+seule une poursuite, e
+xercée par l'intimée
+en paiement d'une prime
+modique
+de 202 fr. 30, est susceptible de donner lieu à faillite. Ce faible endettement paraît résorbable.
+On admettra ainsi,
+à l’extrême
+rigueur, que ces éléments sont suffisants pour dire que la solvabilité du recourant est
+rendue plus vraisemblable que son insolvabilité.
+III.
+Le recours doit par conséquent être
+admis et le jugement annulé en ce sens que la faillite d'L.________ n'est pas prononcée. Il
+est confirmé pour le surplus, c'est-à-dire en ce qui concerne les frais de première instance,
+la décision du premier juge étant justifiée.
+Les frais de deuxième instance du recourant sont arrêtés à  300 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est annulé en ce sens que la faillite d'L.________ n'est pas prononcée.
+Il est confirmé pour
+le surplus.
+III.
+Les frais de deuxième instance, arrêtés
+à 300 fr. (trois cents francs), sont mis à la charge du recourant.
+IV.
+Il
+n'est pas alloué de dépens de deuxième
+instance.
+V.
+L'arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+31 août 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+L.________,
+‑
+X.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
