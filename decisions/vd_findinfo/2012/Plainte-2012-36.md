@@ -1,0 +1,446 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 36"
+decided: "2012-09-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3427100"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-074.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 36
+
+## Regeste
+
+PLAINTE{LP}, AVIS DE SAISIE, SAISIE DE SALAIRE, MINIMUM VITAL | 17 LP, 93 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.09.2012 Plainte / 2012 / 36
+
+PLAINTE{LP}, AVIS DE SAISIE, SAISIE DE SALAIRE, MINIMUM VITAL | 17 LP, 93 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA12.005018-120735
+37
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 septembre 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Muller et Mme Rouleau
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 et 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+E.________
+,
+à Yverdon-les-Bains, contre la décision rendue le 10 avril 2012, à la suite de l’audience
+du 13 mars 2012, par le Président du Tribunal d’arrondissement de la Broye et du Nord vaudois,
+autorité inférieure de surveillance, rejetant la plainte du recourant contre la saisie de salaire
+qui lui a été communiquée le 24 janvier 2012 par l'
+OFFICE
+DES POURSUITES DU DISTRICT DU JURA-NORD VAUDOIS
+dans
+le cadre de la poursuite n° 6'012'418 exercée par
+A.________
+AG
+, à Zürich.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Selon avis de saisie du 4 octobre 2010, E.________ a fait l'objet d'une saisie de salaire à concurrence
+de "tout ce qui dépasse le minimum d'existence fixé à Fr. 2'600.00", dans le
+cadre de la poursuite n° 5'100'693 de l'Office des poursuites du district du Jura-Nord vaudois (ci-après
+: l'office), exercée par A.________ AG. Cette saisie devait déployer ses effets jusqu'au 1
+er
+septembre 2011 au plus tard.
+Il ressort d'un extrait des registres art. 8a LP du 28 février 2012 qu'E.________ faisait l'objet
+à cette date de deux poursuites, à savoir la poursuite n° 5'548'405, d'un montant de 67'137
+fr. 55, exercée par I.________ AG et qui a fait l'objet d'une opposition pour non-retour à
+meilleure fortune, et la poursuite n° 6'012'418, d'un montant de 226'904 fr. 60, exercée
+par A.________ AG, qui n'a pas fait l'objet d'une opposition et où la continuation a été
+requise.
+2.
+Le 24 janvier 2012, l'office a adressé à P.________ SA un avis de saisie ordonnant la saisie
+sur le salaire de son employé E.________ à concurrence de 1'350 fr. par mois.
+L'office a retenu les éléments suivants pour la détermination du minimum d'existence :
+Revenus
+- rente AVS
+du débiteur
+Fr.              1'719.00
+- salaire perçu
+Fr.
+2'744.95
+- salaire de
+l'épouse
+Fr.               1'927.50
+Charges
+- frais de
+chauffage
+Fr.
+75.00
+- loyer
+Fr.
+920.00
+- déplacement
+du débiteur jusqu'au lieu de travail
+Fr.
+500.00
+- prime d'assurance
+maladie du débiteur
+Fr.
+325.25
+- repas pris
+hors du domicile
+Fr.
+200.00
+- prime d'assurance-maladie
+de l'épouse
+Fr.
+325.25
+Sur cette base, il a arrêté la quotité saisissable du débiteur à 1'500 francs
+par mois, selon le calcul suivant :
+Débiteur
+Conjoint
+Commun
+Revenu
+net par mois
+Fr. 4'463.95
+1'927.50              6'391.45
+%
+des revenus
+%
+69.84
+30.16
+100.00
+___________________________________________________________________
+Minimum
+d'existence
+Base mensuelle
+:
+Fr. 1'187.30
+512.70              1'700.00
+Charges communes
+:
+Fr.   694.95
+300.05
+995.00
+Charges propres
+payées :
+Fr.   980.95
+423.55
+1'404.50
+________________________________________
+Minimum d'existence
+:
+Fr. 2'863.20
+1'236.30
+Augmentation
+minimum d'existence              Fr.
+100.75
+Montant
+mensuel saisissable
+Fr. 1'500.00
+3.
+Par acte du 1
+er
+février 2012, E.________ a déposé une plainte au sens de l'art. 17 LP contre la saisie
+de salaire, concluant à son annulation et à ce qu'elle soit réduite à "tout
+ce qui dépasse le minimum d'existence fixé à Fr. 2'600.--, comme déjà établi
+en 2010". Il a requis l'effet suspensif.
+Le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois a accordé, le 9 février
+2012, l'effet suspensif.
+Par courrier du 14 février 2012, l'office a indiqué au magistrat précité que, s'agissant
+de la suspension de la décision attaquée, il considérait que les retenues en vigueur étaient
+maintenues mais que les fonds encaissés ne devaient pas être distribués.
+Le 14 février 2012, P.________ SA a produit, à l'attention de l'office qui en avait fait la
+demande, les décomptes de salaire du plaignant pour l'année 2011 qui mentionnent les salaires
+nets suivants :
+- Janvier 2011
+Fr.
+1'451.00
+- Février
+2011
+Fr.               3'081.50
+- Mars 2011
+Fr.               2'822.70
+- Avril 2011
+Fr.               2'447.90
+- Mai 2011
+Fr.              2'839.70
+- Juin 2011
+Fr.              2'937.20
+- Juillet 2011
+Fr.               2'128.80
+- Août
+2011
+Fr.
+2'213.00
+- Septembre
+2011
+Fr.               2'995.90
+- Octobre 2011
+Fr.
+2'736.00
+- Novembre
+2011
+Fr.              3'034.90
+- Décembre
+2011
+Fr.               3'060.40
+A réception de ces décomptes, l'office a établi, le 15 février 2012 une nouvelle
+détermination du minimum d'existence en prenant en compte un salaire moyen de 2'645 fr. 40, lequel,
+additionné à la rente AVS perçue par le plaignant, représentait 69,37 % des revenus
+du couple. Il a en conséquence calculé que le minimum vital du plaignant s'élevait à
+2'843 fr. 65 et le montant mensuel saisissable à 1'420 francs.
+Dans une écriture du 21 février 2012, le plaignant a conclu à la nullité de la saisie
+ordonnée le 24 janvier 2012 et à la délivrance d'un acte de défaut de biens.
+Dans ses déterminations du 28 février 2012, l'office a conclu au rejet de la plainte, estimant
+que la saisie de salaire de 1'350 fr. n'entamait pas – même après correction du salaire
+mensuel - le minimum d'existence du plaignant. Il a précisé, s'agissant de l'effet suspensif
+requis, que les retenues de salaire seraient maintenues mais que les fonds encaissés ne seraient
+pas distribués.
+L'intimée A.________ AG ne s'est pas déterminée.
+4.
+Par prononcé rendu le 10 avril 2012 sans frais ni dépens, le Président du Tribunal d'arrondissement
+de la Broye et du Nord vaudois, autorité inférieure de surveillance, a rejeté la plainte.
+Le premier juge a retenu en substance que les calculs opérés par l'office étaient corrects
+et que la saisie de salaire ne portait pas atteinte au minimum vital du plaignant.
+Par acte du 19 avril 2012, E.________ a recouru contre cette décision qui lui a été notifiée
+le 11 avril 2012, concluant à ce que la saisie soit ordonnée sur tout ce qui excédera
+2'600 fr. du salaire accessoire ou à un maximum de saisie fixe de 744 francs.
+Par courrier du 11 mai 2012, l'office a conclu au rejet du recours en se référant à ses
+déterminations de première instance.
+Le 14 mai 2012, le recourant a déposé une nouvelle écriture accompagnée d'un lot
+de pièces.
+L'intimée A.________ AG ne s'est pas déterminée.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les pièces nouvelles produites par le recourant en deuxième instance sont également recevables
+(art. 28 al. 4 LVLP).
+En revanche, son écriture du 14 mai 2012 et les pièces qui l'accompagnaient sont tardives et
+partant, irrecevables.
+II.
+Selon l’art. 17 al. 1 LP, la voie de la plainte est ouverte lorsqu’une mesure de l’office
+est contraire à la loi ou ne paraît pas justifiée en fait. Par mesure au sens de cette
+disposition, il faut entendre tout acte d’autorité accompli par l’office ou un organe
+de la poursuite en exécution d’une mission officielle dans une affaire concrète. L’acte
+de poursuite doit être de nature à créer, modifier ou supprimer une situation de droit
+de l’exécution forcée dans l’affaire en question et il peut se manifester de toutes
+sortes de façons (ATF 129 III 400 c. 1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, nn. 11-12 ad art. 17 LP).
+La voie de la plainte est ouverte contre un avis de saisie, acte matériel ayant pour objet la continuation
+de la procédure forcée et produisant des effets externes (CPF, 21 juin 2010/14; CPF, 11 juillet
+2007/16; CPF, 17 janvier 2007/38 et les références citées).
+III.
+Le recourant expose en premier lieu que la poursuite
+en cause (n° 6'012'418) concerne la même créance que la poursuite n° 5'548'405.
+Il soutient que l'exception de non-retour à meilleure fortune soulevée dans la seconde vaut
+également pour la première.
+L'opposition ne déploie que des effets de strict droit des poursuites et seulement à l'égard
+du commandement de payer auquel elle se rapporte, si bien que lorsque l'office des poursuites notifie
+un nouveau commandement de payer pour en remplacer un premier, qui devait être corrigé, une
+nouvelle opposition est aussi nécessaire (Gilliéron, op. cit., n. 13 ad art. 74 LP).
+En l'espèce, les deux poursuites exercées à l'encontre du recourant ne concernent ni le
+même créancier, ni le même montant. Quoi qu'il en soit, même s'il s'agissait de la
+même créance comme le soutient le recourant, l'exception de non-retour à meilleure fortune
+soulevée dans la première poursuite ne peut valoir pour la seconde. Or, le recourant n'établit
+pas s'être opposé à la poursuite en cause en soulevant l'exception précitée.
+Ce moyen doit donc être rejeté.
+IV.
+Le
+recourant s'en prend à la détermination de son minimum vital, faisant valoir principalement
+qu'il ne tient pas compte de l'irrégularité de ses revenus accessoires perçus dans le
+cadre d'un contrat de travail non fixe et à l'appel.
+a)
+Selon
+l'art. 93 al. 1 LP, le salaire et les autres revenus du débiteur sont saisissables, déduction
+faite de ce qui est indispensable au poursuivi et à sa famille.
+Pour fixer le montant saisissable, l'office doit d'abord tenir compte de toutes les ressources du débiteur;
+puis, après avoir déterminé le revenu global brut, il évalue le revenu net en opérant
+les déductions correspondant aux charges sociales et aux frais d'acquisition du revenu; enfin il
+déduit du revenu net les dépenses nécessaires à l'entretien du débiteur et de
+sa famille, en s'appuyant généralement sur les Lignes directrices pour le calcul du minimum
+vital du droit des poursuites selon l'article 93 LP établies par la Conférence des préposés
+aux poursuites et faillites de Suisse (ci-après : les Directives).
+Les faits déterminant le revenu saisissable doivent être établis d'office, compte tenu
+des circonstances existant au moment de l'exécution de la saisie (ATF 112 III 79 c. 2, rés.
+in JT 1988 II 63 et les arrêts cités). Le poursuivi est tenu envers l'office de collaborer
+(ATF 119 III 70 c. 1, JT 1995 II 133); il a le même devoir à l'égard de l'autorité
+cantonale de surveillance en vertu de l'art. 20a al. 2 ch. 2 LP, disposition qui prévoit même
+que l'autorité de surveillance peut déclarer irrecevables les conclusions des parties lorsqu'elles
+refusent de prêter le concours que l'on peut attendre d'elles (TF 5A_16/2011 du 2 mai 2011).
+Font notamment partie des ressources du débiteur le salaire, les provisions, les suppléments
+pour frais, les suppléments de salaire, tels que les allocations de renchérissement, pour enfants
+ou familiales, les prestations en nature,
+les
+pourboires et recettes analogues, les gains accessoires provenant d'activités que le débiteur
+exerce à titre secondaire, les revenus provenant de l'exercice d'une activité lucrative indépendante,
+les prestations que l'art. 92 LP déclare insaisissables en tant que telles (Mathey, La saisie de
+salaire et  de revenu, thèse Lausanne 1989, n. 372 pp. 176-177; TF B.220/1997 du 13 novembre
+1997; Vonder Mühll, Basler Kommentar, n. 4 ad art. 93 LP).
+Selon certains auteurs, lorsque les ressources
+professionnelles du débiteur fluctuent, en raison par exemple d'un horaire variable, d'un emploi
+sur appel ou d'une activité professionnelle indépendante soumise à des variations, la
+saisie ne peut pas porter sur un montant déterminé du revenu, mais doit prendre la forme d'une
+saisie d'un excédent correspondant à la part du revenu qui n'est pas affectée à la
+couverture du minimum vital du débiteur (Mathey, op. cit., n. 423 p. 197). Ce dernier – le
+cas échéant, son employeur - sera donc avisé qu'il aura à verser à l'office
+non pas un montant fixe, mais tout ce qui dépasse son minimum vital. Afin d'éviter les abus
+et de permettre à l'office d'exercer un contrôle sur les montants qui lui sont versés
+au titre de la saisie des gains, le débiteur indépendant devra fournir à l'office tous
+les éléments chiffrés permettant de déterminer le revenu effectivement réalisé
+chaque mois (Ochsner, Commentaire romand, nn. 33 à 36 ad art. 93 LP).
+Les Directives (édition actuellement en vigueur du 1
+er
+juillet 2009), de même que les normes cantonales d'insaisissabilité, traitent des charges à
+prendre en considération dans le cadre d'une saisie de revenus. Elles comportent une liste des charges
+fixes, regroupées sous la dénomination "montant de base mensuel", avec des montants
+identiques pour tous les débiteurs, qui couvrent les frais pour l'alimentation, les vêtements
+et le linge y compris leur entretien, les soins corporels et de santé, l'entretien du logement,
+les assurances privées, les frais culturels ainsi que les dépenses pour le courant électrique
+et le gaz. Les Directives énumèrent par ailleurs sous la rubrique "suppléments au
+montant de base mensuel" les autres charges, qui varient en fonction de la situation particulière
+du débiteur (frais de logement et de chauffage, cotisations sociales, dépenses liées à
+l'exercice d'une profession, pensions alimentaires, formation des enfants, paiements par acomptes pour
+des objets de stricte nécessité et dépenses diverses) et indiquent si et dans quelle mesure
+ces dépenses doivent être prises en compte.
+La détermination du minimum vital n'a pas pour but de permettre au débiteur et à sa famille
+de conserver le train de vie qui était le leur avant la saisie, mais de déterminer quelles
+sont les dépenses indispensables et absolument nécessaires à leur entretien. La loi garantit
+au débiteur la possibilité de mener une existence décente, mais elle ne le protège
+pas contre la perte des commodités de la vie (Gilliéron, op. cit., n. 83 ad art. 93 LP; ATF
+106 III 104, rés. in JT 1982 II 139).
+b)
+En l'espèce, les revenus du recourant
+sont composés d'un élément fixe, sa rente AVS pour un montant de 1'719 fr., et d'un élément
+variable provenant de son activité lucrative. Le montant total du salaire perçu par le recourant
+en 2011 est de 31'745 fr., ce qui représente une moyenne mensuelle de 2'645 fr. en chiffres ronds,
+comme l'a calculé l'office.
+Pour déterminer le minimum vital d'un conjoint, il faut tout d'abord déterminer le revenu net
+des deux conjoints et leur minimum vital commun (montant de base pour le couple, avec les suppléments,
+respectivement les déductions, qui doivent être pris en compte) et répartir le minimum
+vital déterminé entre les époux proportionnellement à leurs revenus nets. La part
+saisissable du revenu du conjoint poursuivi se dégage alors en déduisant de son revenu net
+déterminant sa part au minimum vital (ATF 114 III 12, JT 1990 II 118 c. 3).
+L'office a appliqué cette règle en considérant que les revenus du recourant, AVS et salaire
+moyen, représentait 69,37 % des revenus du couple. La base mensuelle pour un couple, prévue
+par les Directives, de 1'700 fr., les charges communes correspondant au loyer et au chauffage, par 995
+fr. et les charges propres, telles que cotisations d'assurance-maladie, frais de déplacement et
+repas pris hors du domicile du recourant, ont été répartis entre le recourant et son épouse
+dans cette proportion. Ces charges correspondent à des frais effectifs payés et ne sont pas
+remises en cause. L'office a calculé sur cette base que le minimum d'existence du recourant s'élevait
+à 2'843 fr. 65, soit 69,37 % du minimum vital du couple (4'099 fr. 50) et a augmenté ce résultat
+de 100 fr. 75 pour tenir compte de diverses autres dépenses.
+En raison des fortes variations du salaire du recourant, il est vrai que certains mois, tels les mois
+de janvier, d'avril, de juillet et d'août 2011, la quotité disponible est inférieure à
+la retenue de salaire décidée par l'office. Pour le mois d'avril 2011, par exemple, les revenus
+globaux du recourant se sont élevés à 4'166 francs 90 (salaire : 2'447.90 + rente AVS
+: 1'719.-), ce qui laisse, après déduction de son minimum vital (2'943 fr. 65) un disponible
+de 1'223 fr. 25, inférieur à la retenue de salaire de 1'350 francs.
+La conclusion du recourant visant à réduire la saisie à 744 fr. en se fondant sur les
+seuls revenus du mois de janvier 2012 doit être rejetée. En premier lieu, elle ne correspond
+pas à la situation examinée par l'office lors de l'avis de saisie du 24 janvier 2012. Par ailleurs
+et surtout, on ne saurait se fonder, en présence d'un salaire variable, sur les revenus d'un seul
+mois pour déterminer la quotité disponible.
+Le recourant soutient que pour tenir compte de son salaire variable, il y a lieu de ne saisir que la
+part de son salaire mensuel excédant 2'600 francs. S'il est vrai qu'en cas de revenus soumis à
+des variations, la saisie peut prendre la forme d'une saisie d'un excédent correspondant à
+la part du revenu qui n'est pas affectée à la couverture du minimum vital (cf. supra let. a
+avec la référence à Mathey, op. cit. n. 423 p. 197 et Ochsner, op. cit., nn. 33 à
+36 ad art. 93 LP), cette solution est difficilement applicable en l'espèce dès lors que le
+recourant fait ménage commun avec son épouse qui dispose elle-même de revenus et que la
+part du recourant au minimum vital du couple se détermine précisément en fonction des
+revenus respectifs de chacun des époux, conformément à la jurisprudence précitée
+(ATF 114 III 12, JT 1990 II 118).
+Cette interdépendance rend problématique la détermination de la quotité saisissable.
+Il est en effet impossible de déterminer un montant précis, au-delà duquel les revenus
+du recourant pourraient être saisis. Plus son revenu augmente, plus sa participation au minimum
+vital du couple augmente elle aussi. Il est seulement possible, vu le caractère variable du salaire,
+de déterminer après coup si telle ou telle saisie est admissible ou non.
+On doit remarquer par ailleurs qu'au vu des éléments retenus par l'office pour le calcul du
+minimum vital – et qui ne sont en soi pas remis en question – la retenue proposée par
+le recourant ("tout ce qui excédera 2'600 fr.") pourrait se révéler soit supérieure
+au montant saisissable, soit excessivement peu élevée selon qu'elle s'applique à l'ensemble
+de ses revenus ou seulement au salaire perçu auprès de P.________ SA (les conclusions du recourant
+dans sa plainte et dans son acte de recours paraissent suggérer cette deuxième alternative).
+A titre d'exemple, au mois d'octobre 2011, les revenus du recourant s'élevaient à 4'455 fr.
+(salaire : 2'736 fr, rente AVS : 1'719), soit 69,8 % des revenus du couple, qui s'élevaient à
+6'382 fr. (4'455 + 1'927), La part du recourant aux charges du couple se montait à 2'961 fr. 10
+(69,8 % de 4'099 + 100 fr. pour dépenses diverses), ce qui laissait un disponible de 1'493 fr. 90.
+S'il fallait saisir la part de l'ensemble des revenus excédant 2'600 fr., la retenue serait de 1'855
+fr. (4'455  – 2'600). S'il fallait saisir uniquement la part de salaire dépassant 2'600
+fr., on parviendrait à une retenue de 136 fr. (2'736  – 2'600). Dans le premier cas,
+la solution serait défavorable au recourant, dans le second cas, la saisie de salaire serait disproportionnée
+par rapport à la quotité saisissable.
+Dans ces conditions, la méthode appliquée par l'office qui repose sur un salaire annuel moyen,
+permettant de fixer une proportion moyenne de la participation du recourant au minimum vital du couple,
+est la seule possible; elle tient compte des fluctuations des revenus de ce dernier. Globalement, la
+saisie ne porte pas atteinte au minimum vital du recourant, quand bien même elle peut certains mois
+dépasser la quotité disponible.
+V.
+Le recours doit en conséquence être
+rejeté et le prononcé entrepris confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+5 septembre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. E.________,
+‑
+A.________ AG,
+-
+M. le Préposé à l’Office des poursuites du district du Jura-Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
