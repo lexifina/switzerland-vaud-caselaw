@@ -1,0 +1,434 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 16"
+decided: "2012-09-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20120829125637189_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/220/art-716b.md", "switzerland/bund/acts/220/art-717.md", "switzerland/bund/acts/220/art-754.md", "switzerland/bund/acts/220/art-759.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-211.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 16
+
+## Regeste
+
+CAS DE SÉQUESTRE, CRÉANCE, PREUVE FACILITÉE, RÉQUISITION DE SÉQUESTRE, RESPONSABILITÉ DES ORGANES D'UNE SOCIÉTÉ | 754 al. 1 CO, 271 al. 1 ch. 2 LP, 271 al. 1 ch. 6 LP, 272 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 07.09.2012 Séquestre / 2012 / 16
+
+CAS DE SÉQUESTRE, CRÉANCE, PREUVE FACILITÉE, RÉQUISITION DE SÉQUESTRE, RESPONSABILITÉ DES ORGANES D'UNE SOCIÉTÉ | 754 al. 1 CO, 271 al. 1 ch. 2 LP, 271 al. 1 ch. 6 LP, 272 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+KH12.021412-121151
+361
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+7 septembre 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Sauterel et Mme Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 2 et 6 et 272 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+U.________
+et
+U.________Company
+,
+à Amman (Jordanie), contre le prononcé rendu le 11 juin 2012 par le Juge de paix du district
+de Nyon, rejetant la requête de séquestre déposée le 1
+er
+juin 2012 par les recourants contre
+A.Q.________
+,
+à Mies.
+Vu les pièces au dossier, la cour considère :
+En
+fait :
+1.
+a)
+Par sentence arbitrale du 17 décembre 2010, F.________Internacional, à Madère, et F.________SA,
+à Genève, ont été condamnées à payer conjointement et solidairement à
+U.________ et U.________Company les sommes de 500'000 US$, plus intérêt à 8 % l'an dès
+le 2 novembre 2005, 1'200'000 US$, plus intérêt à 8 % l'an dès le 9 novembre
+2005, 600'000 US$, plus intérêt à 8 % l'an dès le 19 janvier 2006, 1'200'000 US$,
+plus intérêt à 8 % l'an dès le 30 juillet 2006, 457'789,49 US$, plus intérêt
+à 5 % l'an dès le 1
+er
+juillet 2009, 40'000 US$, plus intérêt à 5 % l'an dès le 1
+er
+juillet
+2009, 151'440 fr. et 300'000 francs.
+Il ressort de cette sentence arbitrale notamment que F.________SA était la propriété de
+A.Q.________.
+b)
+Le 3 mars 2011, à la réquisition d'U.________ et U.________Company, l'Office des poursuites
+de Genève a notifié à  F.________SA, dans la poursuite n° 11 117004 Z, un commandement
+de payer les sommes de 479'400 fr., plus intérêts à 8 % l’an dès le 2
+novembre 2005, 1'150'560 francs, plus intérêts à 8 % l’an dès le 9 novembre
+2005, 575'280 fr., plus intérêts à 8 % l’an dès le 19 janvier 2006, 1'150'560
+fr., plus intérêts à 8 % l’an dès le 30 juillet 2006, 438'928 fr. 55, plus
+intérêts à 5 % l’an dès le 1
+er
+juillet 2009, 38'352 fr., plus intérêts à 5 % l’an dès le 1
+er
+juillet
+2009, 151'440 fr., plus intérêts à 5 % l’an dès le 1
+er
+janvier
+2011, et 300'000 fr., plus intérêts à 5 % l’an dès le 1
+er
+janvier 2011. La poursuivie a fait opposition totale. Par jugement du 4 octobre 2011, le Tribunal civil
+de Genève a prononcé la mainlevée définitive de l'opposition.
+c)
+La
+faillite de F.________SA a été prononcée par le Tribunal de première instance de
+Genève avec effet au 26 septembre 2011. Les droits de la masse contre les administrateurs A.Q.________
+et B.Q.________ pour les dommages qu’ils ont pu causer en manquant intentionnellement ou par négligence
+à leurs devoirs ont été cédés aux créanciers U.________ et U.________Company.
+Depuis le 28 avril 2003, A.Q.________, jusqu'alors administrateur – avec son fils, B.Q.________
+– et président de F.________SA, était seul administrateur de la société, avec
+signature individuelle.
+La faillite de F.________Internacional, dont A.Q.________ et B.Q.________ étaient gérants,
+a été prononcée par le Tribunal de Funchal (Madère) avec effet au 13 janvier 2012.
+d)
+Le 29 mars 2012, U.________ et U.________Company ont déposé plainte pénale à Genève
+contre A.Q.________ et B.Q.________ pour escroquerie, faux dans les titres, extorsion, diminution d’actifs
+au préjudice des créanciers, gestion fautive et détournement de choses frappées d’un
+droit de rétention.
+Par ordonnance du 11 mai 2012, le Ministère public de la République et canton de Genève,
+ayant ouvert une enquête pour "notamment des infractions dans la faillite et la poursuite pour
+dettes (art. 164 et 165 CP)", a séquestré les parcelles de la commune de Mies n°
+[...], dont A.Q.________ est propriétaire, et n° [...], dont B.Q.________ est copropriétaire
+pour une demie.
+e)
+Par acte daté du 31 mai et remis à la poste le 1
+er
+juin 2012, U.________ et U.________Company ont requis du Juge de paix du district de Nyon le séquestre,
+fondé sur l'art. 271 al. 1 ch. 2 et 6 LP, de la parcelle n° [...] de la commune de Mies, propriété
+de A.Q.________, à concurrence des sommes de 480'000 fr., plus intérêts à 8 % l’an
+dès le 2 novembre 2005, 1'152'000 fr., plus intérêts à 8 % l’an dès le
+9 novembre 2005, 576'000 fr., plus intérêts à 8 % l’an dès le 19 janvier 2006,
+1'152'000 fr., plus intérêts à 8 % l’an dès le 30 juillet 2006, 439'477 fr.
+90, plus intérêts à 5 % l’an dès le 1
+er
+juillet 2009, 38'400 francs, plus intérêts à 5 % l’an dès le 1
+er
+juillet 2009, 151'440 fr., plus intérêts à 5 % l’an dès le 17 décembre
+2010 et 300'000 fr., plus intérêts à 5 % l’an dès le 17 décembre
+2010.
+2.
+Par prononcé du 11 juin 2012, notifié
+le lendemain aux requérants, le Juge de paix du district de Nyon a rejeté la requête de
+séquestre, arrêté à 1'800 fr. les frais judiciaires, compensés avec l’avance
+de frais de la partie requérante, et les a mis à la charge de celle-ci. Il a considéré
+que les requérants ne rendaient pas vraisemblable avoir une créance exigible contre A.Q.________,
+l’identité économique alléguée entre celui-ci et les sociétés F.________Internacional
+et F.________SA n’étant pas rendue vraisemblable, que, dans la mesure où le cas de séquestre
+invoqué était celui de l'art. 271 al. 1 ch. 2 LP, ni la préparation de sa fuite par le
+prétendu débiteur ni son intention de se soustraire à ses obligations n’étaient
+rendues vraisemblables et que, dans la mesure où le cas de séquestre invoqué était
+celui du de l'art. 271 al. 2 ch. 6 LP, l'existence d'un titre de mainlevée définitive contre
+le prétendu débiteur faisait défaut, l’identité économique alléguée
+entre la sociétés F.________SA et A.Q.________ n’étant pas rendue vraisemblable
+par le jugement de mainlevée du 4 octobre 2011.
+3.
+U.________ et U.________Company ont recouru par
+acte du 22 juin 2012, concluant à ce que le prononcé soit "annulé" et le séquestre
+requis ordonné.
+A ce stade, A.Q.________ n'est pas informé de la procédure de séquestre, conformément
+au but de celle-ci qui est, le cas échéant, de pouvoir exécuter le séquestre à
+l'improviste, sous peine de la vider de toute efficacité (Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite, n. 70 ad art. 272 LP).
+En droit
+:
+I.
+Un recours au sens des art. 319 ss CPC [Code de
+procédure civile; RS 272) est ouvert contre les décisions rendues en matière de séquestre,
+en vertu des art. 309 let. b ch. 6 et 319 let. a CPC (Blickenstorfer, ZPO Kommentar, nn. 4 et 23-24 ad
+art. 309 CPC).
+Le recours s'exerce par le dépôt d'un acte écrit et motivé auprès de l'instance
+de recours (art. 321 al. 1 CPC), dans les dix jours suivant la notification de la décision, si elle
+a été prise en procédure sommaire (art. 321 al. 2 CPC), ce qui est le cas des décisions
+rendues en matière de séquestre (art. 251 let. a CPC).
+Le recours déposé par les requérants au séquestre le 22 juin 2012 est ainsi recevable
+matériellement et formellement.
+II.
+a)
+Selon l’art. 271 al. 1 LP [loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1], le créancier d’une dette échue
+et non garantie par gage peut requérir le séquestre des biens du débiteur qui se trouvent
+en Suisse dans six cas, notamment lorsque le débiteur, dans l'intention de se soustraire à
+ses obligations,  fait disparaître ses biens, s'enfuit ou prépare sa fuite (ch. 2) et
+lorsque le créancier possède contre le débiteur un titre de mainlevée définitive
+(ch. 6). Dans le premier cas énoncé ci-dessus, le séquestre peut être requis
+pour une dette non échue; il rend la créance exigible à l'égard du débiteur
+(art. 271 al. 2 LP).
+En vertu de l'art. 272 al. 1 LP, le séquestre, mesure conservatoire urgente, doit être autorisé
+de manière générale par le juge du for de poursuite ou par le juge du lieu où se
+trouvent les biens, lorsque le créancier rend vraisemblable l'existence de la créance qu'il
+allègue, celle du cas de séquestre et celle des biens qu'il désigne comme appartenant
+au débiteur.
+b)
+Le soi-disant créancier doit en premier lieu rendre vraisemblable l'existence de la créance
+dont il se prévaut (Gilliéron, Commentaire précité, n. 11 ad art. 211 LP). La vraisemblance
+de la créance doit résulter des pièces, à l'exclusion de tout autre moyen de preuve
+(CPF, 19 décembre 2001/566; CPF, 17 avril 2008/156). Pour rendre sa créance vraisemblable,
+la partie requérante doit donc produire une pièce ou un ensemble de pièces permettant
+au juge du séquestre d'acquérir, au stade de la simple vraisemblance, la conviction que la
+prétention existe pour le montant énoncé et, le cas échéant, qu'elle est exigible,
+même si le document n'est pas signé (Gilliéron, op. cit., n. 29 ad art. 272 LP).
+En l'espèce, les recourants invoquent trois fondements possibles à leur créance. Tout
+d’abord, les sociétés F.________SA et F.________Internacional, d’une part, A.Q.________,
+d’autre part, formeraient une seule entité économique, de sorte que la créance contre
+les unes vaudrait également contre l'autre, en vertu du principe du "Durchgriff" (transparence).
+Ensuite, A.Q.________, en sa qualité d’administrateur, serait responsable des dommages causés
+aux créanciers sociaux. Enfin, ses agissements à l’égard des recourants seraient
+constitutifs d’infractions pénales.
+aa)
+Selon la jurisprudence, on ne peut pas s'en tenir sans réserve à l'existence formelle de deux
+personnes juridiquement distinctes lorsque tout l'actif ou la quasi-totalité de l'actif d'une société
+anonyme appartient soit directement, soit par personnes interposées, à une même personne,
+physique ou morale (TF 4A_384/2008). Malgré la dualité formelle de personnes, il n'existe pas
+d'entités indépendantes, la société étant un simple instrument dans la main
+de son auteur, lequel, économiquement, ne fait qu'un avec elle. Selon le principe de la transparence,
+déduit de l'art. 2 CC, on doit dès lors admettre, à certains égards, que, conformément
+à la réalité économique, il y a identité de personnes et que les rapports de
+droit liant l'une lient également l'autre (ATF 132 III 489, JT 2007 II 81; ATF 132 III 737; ATF
+128 II 329; ATF 121 III 319, rés. in JT 1996 I 92; Forstmoser/Meier-Hayoz/Nobel, Schweizerisches
+Aktienrecht, Berne 1996, pp. 65 ss, nn. 51 ss). On ne peut cependant faire abstraction de l'indépendance
+juridique que lorsque le principe de la bonne foi dans les affaires l'exige (ATF 92 II 160, JT 1967 I
+186; ATF 85 II 111, JT 1960 I 19; ATF 81 II 455, JT 1956 I 491), soit lorsque le fait de s'en prévaloir
+constitue un abus de droit ou a pour effet une violation manifeste d'intérêts légitimes
+(ATF 128 II 329; ATF 113 II 31, JT 1988 I 20; ATF 112 II 503, JT 1987 I 168; ATF 108 II 213, rés.
+in JT 1983 I 30, et les références; TF 4C.335/1999 du 25 août 2000, SJ 2001 I 186; SJ
+1973 p. 369; ATF 72 II 67, JT 1947 I 117, SJ 1946 p. 343; ATF 71 II 272, JT 1946 I 270; Chappuis, L'abus
+de droit en droit suisse des affaires, in L'abus de droit – Comparaisons franco-suisses, Saint-Etienne
+2001, p. 92). Ainsi, l'indépendance juridique entre l'actionnaire unique et la société
+anonyme ne peut pas être invoquée dans un but qui ne mérite pas la protection de la loi,
+comme éluder un contrat (ATF 113 II 31 précité) ou une prohibition de concurrence, ou
+encore contourner une interdiction (Chappuis, op. cit., p. 93). En bref, l'indépendance juridique
+d'une société anonyme par rapport à son actionnaire unique est la règle et ce n'est
+qu'exceptionnellement, soit en cas d'abus de droit, qu'il pourra en être fait abstraction (ATF 113
+II 31 précité; Forstmoser/Meier-Hayoz/Nobel, op. cit., p. 966, nn. 53 ss; Hovagemyan, Transparence
+et réalité économique des sociétés, 1994, p. 25, n° 8).
+En l'espèce, il ressort de la sentence arbitrale que A.Q.________ était "propriétaire"
+de F.________SA, sans que l'on sache s'il en était l'actionnaire unique. Quoi qu'il en soit, aucun
+élément du dossier ne permet de considérer que les sociétés F.________Internacional
+et F.________SA n'auraient eu qu'une existence nominale et se seraient confondues avec A.Q.________,
+ou que d'invoquer l'indépendance juridique de la société F.________SA constituerait un
+abus de droit de la part de ce dernier. Comme on vient de le voir, on ne saurait partir du principe qu'une
+société ne serait pas indépendante de son actionnaire unique.
+bb)
+L'art.
+754 al. 1 CO [Code des obligations; RS 220], qui règle la responsabilité dans l'administration,
+la gestion et la liquidation de la société anonyme, prévoit que les membres du conseil
+d'administration et toutes les personnes qui s'occupent de la gestion ou de la liquidation répondent
+à l'égard de la société, de même qu'envers chaque actionnaire ou créancier
+social, du dommage qu'ils leur causent en manquant intentionnellement ou par négligence à leurs
+devoirs.
+L'action dont dispose un créancier social envers les organes d'une société dépend
+du type de dommage subi (ATF 132 III 564, JT 2007 I 448, SJ 2007 I 13). Trois situations sont envisageables
+: un dommage direct du créancier, un dommage par ricochet du créancier découlant d'un
+dommage direct de la société ou un dommage direct du créancier et un dommage direct de
+la société. La qualité pour agir du créancier lésé à l'encontre de
+l'organe de la société varie en fonction des trois situations précitées (Corboz,
+Commentaire romand, nn. 47 et 55 ad art. 754 CO).
+L’art. 754 CO n'énumère pas les dispositions du droit de la société anonyme
+qui, violées, peuvent entraîner la responsabilité des organes de la société.
+On doit dès lors en déduire que la violation de n'importe quel devoir incombant aux personnes
+chargées de l'administration, de la gestion ou de la liquidation de la société peut entraîner
+leur responsabilité (Corboz, op. cit., n. 17 ad art. 754 CO). Celle-ci est engagée en cas de
+manquement des organes concernés à leurs devoirs. Il peut s'agir d'une action ou d'une omission;
+dans ce dernier cas, il faut déduire des circonstances que la personne recherchée avait l'obligation
+juridique d'agir (ATF 128 III 92 précité, JT 2003 I 23, SJ 2002 I 347). Les art. 716 à
+716b CO énumèrent les attributions du conseil d'administration (Corboz, op. cit., n. 21 ad
+art. 754 CO). En l'absence d'une délégation organisationnelle, le conseil d'administration
+exerce notamment la gestion de la société (art. 716b al. 3 CO).
+Les administrateurs ont un devoir de diligence et un devoir de fidélité (art. 717 al. 1 CO).
+Ils doivent, d'une manière générale, faire preuve de toute la diligence nécessaire
+à la gestion des affaires sociales (ATF 122 III 195, JT 1997 I 221, JT 1998 II 163, JT 1999 II 12);
+il ne suffit pas qu'ils observent la diligentia quam in suis (ATF 113 II 52 c. 3a, JT 1988 I 26; Corboz,
+op. cit., n. 20 ad art 754 CO). Il leur appartient notamment de contrôler de manière régulière
+la situation économique et financière de la société (ATF 132 III 564 précité).
+La diligence due dépend des circonstances concrètes; il faut se demander quel aurait été
+le comportement d'un administrateur raisonnable placé dans les mêmes circonstances (TF 4A_467/2010
+du 5 janvier 2011; Peter/Cavadini, Commentaire romand, n. 8 ad art. 717 CO). En se plaçant au moment
+du comportement reproché à l'administrateur, il faut se demander, en fonction des renseignements
+dont il disposait ou pouvait disposer, si son attitude semble raisonnablement défendable. Des excuses
+purement subjectives, telles que l'absence, le manque de temps, la maladie ou des connaissances insuffisantes
+sont sans pertinence pour examiner la diligence due (Corboz, op. cit., nn. 19 et 22 ad art. 754 CO).
+Le devoir de fidélité impose aux administrateurs l’obligation de ne pas trahir les intérêts
+qui leur sont confiés. Par exemple, s'ils ont, dans le cadre de leur activité, prélevé
+un bien appartenant à la société ou reçu un bien lui étant destiné, ils
+doivent prouver que celui-ci est entré ou retourné dans le patrimoine social, ou encore qu'il
+a été utilisé dans l'intérêt de la société (TF 4C.155/2002 du 9 septembre
+2002). Le devoir de fidélité interdit notamment tout acte de gestion déloyale (Corboz,
+op. cit., n. 26 ad art. 754 CO).
+En matière de faillite sans poursuite préalable, pour laquelle on exige une vraisemblance qualifiée
+de l'existence de la créance invoquée, la cour de céans a considéré qu'il était
+exclu de trancher à titre préjudiciel l'existence d'une créance en réparation de
+dommage fondée sur la responsabilité d'un administrateur, alors même qu'un rapport d'expertise
+rendait vraisemblable de manière qualifiée que le conseil d'administration dont faisait partie
+le prétendu débiteur avait violé un certain nombre de ses devoirs. Ce rapport ne permettait
+pas de déterminer de manière suffisamment sûre quels actes de l'intimé avaient violé
+quelles normes du droit de la société anonyme, quels en avaient été les effets dommageables
+précis, en rapport de causalité adéquate, et, le cas échéant, dans quelle mesure
+le dommage devait être imputé à l'intimé en vertu de l'art. 759 al. 1 CO (CPF,
+18 septembre 2008/439). Cet arrêt retient qu'au surplus, l'expérience judiciaire permet
+de se convaincre qu'une action en responsabilité dans un tel complexe de faits est particulièrement
+délicate et qu'il serait hasardeux de vouloir juger de la responsabilité d'un administrateur
+sur la base d'un rapport d'expertise réalisé dans le cadre d'une procédure pénale,
+aussi fouillé soit-il, et ce, même à l'aune de la vraisemblance.
+Dans le cas présent, le degré requis de la vraisemblance de l'existence de la créance
+n'est que simple, mais cela ne signifie pas qu'il suffise que l'existence de la créance invoquée
+ne soit pas exclue ou qu'elle soit possible, voire plausible. Or, les seuls éléments ressortant
+des pièces du dossier sont que les sociétés F.________Internacional et F.________SA ont
+été condamnées par une sentence arbitrale à payer des sommes d'argent aux recourants,
+que ces sociétés ont ensuite fait faillite, que le prétendu débiteur était gérant
+de la première société et administrateur de la seconde et qu'en ce qui concerne cette
+dernière société, les droits de la masse contre les administrateurs pour les dommages
+qu'ils auraient pu causer ont été cédés aux recourants. Il n'y a toutefois aucun
+indice que la responsabilité de A.Q.________ serait réellement engagée. La sentence arbitrale
+produite ne rend pas vraisemblable la violation de ses devoirs d'administrateur par A.Q.________; elle
+rend vraisemblable l'existence d'un dommage résultant d'une violation d'obligations contractuelles
+des sociétés envers les recourants, mais ne peut à elle seule justifier une action en
+responsabilité de la société contre l'administrateur. Or, ce sont les droits à une
+telle action que les recourants se sont fait céder et dont ils doivent démontrer la vraisemblance,
+démonstration dans laquelle ils échouent.
+cc)
+Quant
+à la prétendue responsabilité pénale de A.Q.________, elle n'est pas rendue vraisemblable
+par le seul dépôt d'une plainte pénale contre lui ni même par l'ordonnance de séquestre
+pénale, à la lecture de laquelle on peut considérer que la commission d'infractions pénales
+est rendue vraisemblable, mais sans qu'on sache quelles infractions et sur la base de quels faits. Il
+semble s'agir d'infractions commises dans le cadre de poursuites et non de l'escroquerie qui fonde l'essentiel
+des prétentions des recourants.
+c)
+Par surabondance, on doit constater que l'existence des cas de séquestre invoqués (art. 271
+al. 1 ch. 2 et 6 LP) n'est pas non plus rendue vraisemblable.
+aa)
+Selon l’art. 271 al. 1 ch. 2 LP, le créancier d'une prétention échue non garantie
+par gage peut requérir le séquestre des biens du débiteur notamment lorsque ce dernier,
+dans l'intention de se soustraire à ses obligations, fait disparaître ses biens, s'enfuit ou
+prépare sa fuite. La réalisation de ce cas de séquestre repose sur un élément
+objectif et un élément subjectif (Stoffel/Chabloz, Commentaire romand, n. 53 ad art. 271 LP).
+L’élément objectif peut être réalisé par la fuite ou la préparation
+de la fuite du débiteur. Un tel comportement peut précéder l’abandon de domicile
+prévu par l'art. 271 al. 1 ch. 1 LP. Un simple départ ne suffit pas; c’est l’abandon
+pur et simple du domicile et donc du for de la poursuite sans en créer un nouveau qui est nécessaire
+(Stoffel/Chabloz, op. cit., n. 55 ad art. 271 LP). L’élément objectif consiste en premier
+lieu à faire disparaître des biens. Il recouvre aussi bien le fait de cacher, d’emporter
+ou de se débarrasser de biens que celui de les vendre, de les grever, voire même de les détruire
+ou de les endommager. La loi vise le résultat du comportement : le débiteur soustrait des biens
+auxquels son créancier aurait accès dans une procédure d’exécution forcée
+(CPF, 21 février 2008/46). Le cas de séquestre est réalisé lorsque le débiteur
+cèle les objets de son patrimoine du fait qu'il les cache, en fait donation, les vend à vil
+prix, les emporte à l'étranger ou les met en gage sans explication plausible (CPF, 27
+mai 2004/215). L’élément subjectif tient dans l’intention du débiteur de se
+soustraire à ses obligations. Les éléments objectifs précités constituent des
+indices d’une telle intention. D’autres circonstances suspectes peuvent la corroborer, telles
+qu’un nombre considérable d’obligations non exécutées, une relation disproportionnée
+entre les obligations et les moyens à disposition, les retards provoqués par le débiteur
+et son comportement non coopératif, d’autres poursuites en cours (Stoffel/Chabloz, op. cit.,
+n. 56 ad art. 271 LP).
+En l'espèce, il ressort de pièces au dossier qu’une villa située à Mies, sur
+une parcelle d’une surface identique au bien-fonds n° [...] dont A.Q.________ est propriétaire
+dans cette commune, était à vendre au mois de février 2012, le propriétaire,
+l'adresse et le prix demandé n’étant pas indiqués dans les annonces parues sur le
+site internet de deux agences immobilières, que A.Q.________ a eu des adresses aux Etats-Unis entre
+1998 et 2000 puis de 2008 à ce jour, qu'il gère deux sociétés en France depuis 1997
+et 2003 et qu'invité le 22 février 2012 par l’Office des faillites de Genève à
+collaborer à l’examen des productions dans le cadre de la faillite de F.________SA, il ne
+s’est pas manifesté. Il n’est pas établi qu’il réside avec sa famille
+aux Etats-Unis, ses liens avec d'autres pays que la Suisse ne sont pas récents et rien ne permet
+d’affirmer qu'il ait eu l’intention de quitter ce pays avec le produit de la vente éventuelle
+de sa maison ou de brader la parcelle à vil prix.
+bb)
+Selon l'art. 271 al. 1 ch. 6 LP, le créancier d’une dette échue et non garantie par gage
+peut requérir le séquestre des biens du débiteur qui se trouvent en Suisse, lorsqu'il
+possède contre le débiteur un titre de mainlevée définitive. Cette disposition, entrée
+en vigueur le 1
+er
+janvier 2011, instaure un nouveau cas de séquestre, introduit par le droit révisé de la
+Convention de Lugano (FF 2009 7973; Arrêté fédéral du 11 décembre 2009 portant
+approbation et mise en œuvre de la Convention de Lugano; RO 2010 5601). Constituent un titre de
+mainlevée définitive au sens l'art. 80 LP les jugements exécutoires, suisses ou étrangers,
+les transactions ou reconnaissances passées en justice, les titres authentiques exécutoires,
+les décisions des autorités administratives suisses (Bovey, La révision de la Convention
+de Lugano et le séquestre, in JT 2012 II 80 ss, pp. 84 ss). Dans un arrêt récent (CPF,
+12 avril 2012/115), la cour de céans a considéré que le séquestre pouvait également
+être requis sur la base d'une sentence arbitrale.
+En l'espèce, on peut donc admettre que la sentence arbitrale vaut titre de mainlevée définitive
+contre F.________Internacional et contre F.________SA – vu en plus, pour cette dernière, le
+jugement rendu le 4 octobre 2011 par le Tribunal civil de Genève –, mais pas contre A.Q.________
+personnellement, faute de pouvoir appliquer le principe de la transparence.
+III.
+Le recours doit ainsi être rejeté et
+le prononcé confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 3'000 fr., compensés avec
+l'avance de frais effectuée par les recourants, sont laissés à la charge de ceux-ci, solidairement
+entre eux.
+Il n'y a pas lieu de statuer sur la question des dépens de deuxième instance, dès lors
+qu'à ce stade de la procédure, comme en première instance, il n’y a pas de partie
+intimée.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 3'000 fr. (trois mille francs),
+sont mis à la charge des recourants U.________ et U.________Company, solidairement entre eux.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+7 septembre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mes Pierre-André Morand et Rabab Yasseen, avocats (pour U.________ et U.________Company).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 4'289'317 fr.
+90.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+La greffière :
