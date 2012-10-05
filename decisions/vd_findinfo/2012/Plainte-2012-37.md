@@ -1,0 +1,766 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 37"
+decided: "2012-10-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3472992"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-106.md", "switzerland/bund/acts/281.1/art-107.md", "switzerland/bund/acts/281.1/art-108.md", "switzerland/bund/acts/281.1/art-275.md", "switzerland/bund/acts/281.1/art-279.md", "switzerland/bund/acts/281.35/art-061.md", "switzerland/bund/acts/281.35/art-062.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 37
+
+## Regeste
+
+PLAINTE{LP}, DÉLAI, PROCÉDURE DE REVENDICATION{SAISIE}, PRÉTENTION DE TIERS, POURSUITE PAR VOIE DE SAISIE, SÉQUESTRE{LP} | 106 LP, 17 LP, 275 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.10.2012 Plainte / 2012 / 37
+
+PLAINTE{LP}, DÉLAI, PROCÉDURE DE REVENDICATION{SAISIE}, PRÉTENTION DE TIERS, POURSUITE PAR VOIE DE SAISIE, SÉQUESTRE{LP} | 106 LP, 17 LP, 275 LP
+
+TRIBUNAL
+CANTONAL
+FA12.005983-120724
+35
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 octobre 2012
+____________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et  Sauterel
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par la
+CONFEDERATION SUISSE,
+l'ETAT DE VAUD, LA COMMUNE DE [...]
+, représentés
+par l'
+Administration cantonale
+des impôts
+, à Lausanne, contre la décision
+rendue le 10 avril 2012, à la suite de l’audience du 20 mars 2012, par le Président du
+Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant
+les plaintes déposées par les recourants les 16 et 23 février 2012 et déclarant irrecevables
+les conclusions qu'ils ont prises le 20 mars 2012 contre l'
+OFFICE
+DES POURSUITES DE L'OUEST LAUSANNOIS
+dans le cadre
+des poursuites n
+os
+5'319'713
+et 5'319'748 dirigées contre
+AK.________
+,
+à [...], n
+os
+5'319'736 et 5'319'753 dirigées contre
+BK.________
+,
+à [...], et n
+os
+5'320'224 et 5'320'225 dirigées contre
+F.________
+SA
+, à [...],
+Vu les pièces du dossier, la cour considère :
+En fait
+:
+1.
+Les poursuivis
+F.________ SA est une société anonyme créée le 15 février 1990 et inscrite au
+Registre du commerce du canton de Vaud le 20 février de la même année. Son siège
+est à [...]. Son capital-actions se monte à 300'000 fr. et est entièrement libéré.
+Son but – modifié le 22 juin 2006 – est défini actuellement comme suit : "services
+informatiques dans le domaine de la finance, notamment l'installation de systèmes et location d'espaces
+informatiques, service de bureau, conseils, gestion de projets, support et assistance, formation des
+utilisateurs." Son conseil d'administration est composé de deux personnes, AK.________, administrateur
+président, et BK.________, administratrice et secrétaire.
+Le 12 mars 1991, AK.________ a constitué la société [...] SA dont le siège est situé
+en Roumanie. Il en détient quasiment l'entier du capital-actions (98 %). En 1999, AK.________ a
+créé plusieurs nouvelles entités juridiques, à savoir :
+-
+le 8 mars 1999 : FA.________
+AG, dont le siège est à [...] (Liechstenstein). Son capital-actions est de 50'000 fr.
+et a été entièrement versé par AK.________, qui est membre de son conseil d'administration
+avec signature individuelle. Le but social de cette société est la conception, le développement,
+la fabrication, la commercialisation et le service après-vente de matériel et de logiciels
+informatiques. Depuis sa création, la gestion de FA.________ AG s'est effectuée à partir
+des locaux de F.________ SA à [...] ;
+-
+le 8 mars 1999 : [...]
+AG, dont le siège est à [...]. Cette société a le même capital-actions, également
+versé par AK.________, que FA.________ AG. Son but social est "toutes activités dans le
+domaine de l'aéronautique et du transport, notamment l'achat d'avions et la commercialisation de
+vols d'affaires" ;
+-               le 12 mai 1999 : M.________,
+dont le siège est à [...] également. Son objet est de gérer la fortune d'AK.________
+et de faire des prestations aux bénéfi-ciaires désignés par le conseil de fondation.
+Son capital se monte à 30'000 francs. AK.________ est l'ayant droit économique de la fondation
+;
+-
+le 31 mai 1999 : l'Etablissement
+[...], dont le siège est à [...] (Liechten-stein). Son capital est de 30'000 fr. et son but
+le placement et l'administration de la fortune de l'établissement. Depuis le 9 juin 1999, cet établissement
+détient l'entier du capital-actions de FA.________ AG grâce à un prêt consenti par
+M.________. AK.________ est l'ayant droit économique de l'établissement ;
+-
+le 25 juin 1999 : [...] SA, dont le siège est à [...]. Son capital-actions se monte à
+250'000 francs. Quant à son but, il consiste dans l'achat, l'administration et la vente d'avions,
+l'activité dans le domaine de l'aéronautique et du transport aérien et le commerce avec
+des avions et commercialisation de vols d'affaires.
+2.
+Les
+demandes de sûretés et ordonnances de séquestre
+a)
+Le 5 décembre 2008, l'Administration cantonale des impôts (ci-après: ACI) a rendu diverses
+décisions de demandes de sûretés à l'égard d'AK.________, BK.________ et de
+F.________ SA. Elle a ainsi requis :
+-
+d'AK.________, des sûretés
+s'élevant à :
+- 9'980'000 fr. en garantie du rappel d'impôt cantonal et communal sur le revenu et la fortune et
+des amendes pour les périodes fiscales 1999-2000, 2001-2002 et 2001-2002bis ainsi que de l'impôt
+cantonal et communal sur le revenu et la fortune pour les périodes fiscales 2003 à 2006, et
+-              4'770'000 fr. en garantie
+du rappel d'impôt fédéral direct et des amendes pour les périodes fiscales 1995-1996,
+1997-1998, 1999-2000, 2001-2002 et 2001-2002bis ainsi que l'impôt fédéral direct pour
+les périodes fiscales 2003 à 2006 ;
+-
+de BK.________, des sûretés s'élevant à :
+- 7'960'000 fr. en garantie du rappel d'impôt cantonal et communal sur le revenu et la fortune et
+des amendes pour les périodes fiscales 1999-2000, 2001-2002 et 2001-2002bis ainsi que de l'impôt
+cantonal et communal sur le revenu et la fortune pour les périodes fiscales 2003 à 2006, et
+-              3'340'000 fr. en garantie
+du rappel d'impôt fédéral direct et des amendes pour les périodes fiscales 1995-1996,
+1997-1998, 1999-2000, 2001-2002 et 2001-2002bis ainsi que l'impôt fédéral direct pour
+les périodes fiscales 2003 à 2006 ;
+-
+de F.________ SA, des
+sûretés s'élevant à :
+- 5'470'000 fr.  en garantie du rappel d'impôt cantonal et communal sur le bénéfice
+et des amendes pour les périodes fiscales 1999 à 2002 ainsi que de l'impôt cantonal et
+communal sur le bénéfice capital pour les périodes fiscales 2003 à 2006, et
+-              2'960'000 fr. en garantie
+du rappel d'impôt fédéral direct et des amendes pour les périodes fiscales 1995 à
+2002 ainsi que l'impôt fédéral direct pour les périodes fiscales 2003 à 2006.
+b)
+Le même jour, le 5 décembre 2008, l’ACI a rendu à l'encontre des prénommés
+les six ordonnances de séquestre en prestation de sûretés suivantes :
+-
+en faveur de l'Etat de Vaud et la commune de [...] :
+- n° 3'197'669, contre AK.________, d'un montant de 9'980'000 fr.,
+- n° 3'197'668, contre BK.________, d'un montant de 7'960'000 fr.,
+- n° 3'197'667, contre F.________ SA, d'un montant de 5'470'000 francs,
+-
+en faveur de la Confédération suisse :
+- n° 3'197'664, contre AK.________, d'un montant de 4'770'000 fr.,
+- n° 3'197'665, contre BK.________, d'un montant de 3'340'000 fr.,
+- n° 3'197'666, contre F.________ SA, d'un montant de 2'960'000 francs.
+Ces ordonnances de séquestre portaient, en substance, à l'égard d'AK.________ et de BK.________
+sur tous biens appartenant aux débiteurs, tels que espèces, titres, créances, meubles,
+équipements et matériels, tous avoirs en banque, notamment auprès de la Banque [...] et
+du [...] ainsi que de [...] et de la [...] pour ce qui concerne BK.________, et, à l'égard
+de BK.________ sur l'immeuble sis [...], à [...], les espèces, titres, meubles, équipements
+et matériels, sur quatre véhicules et tous avoirs auprès du [...].
+Le 7 janvier 2009, AK.________, BK.________ et F.________ SA ont déposé plainte – au
+sens de l'art. 17 LP – contre les séquestres précités. Dans le cadre de cette procédure,
+les séquestrés ont notamment soutenu que certains biens n’étaient pas leur propriété.
+A cet égard, l’administration fiscale a répondu dans ses déterminations à l’autorité
+inférieure de surveillance que la question de l’apparte-nance des biens et de la titularité
+des créances devait être tranchée, le cas échéant, dans la procédure de
+revendication des art. 106 et ss LP, par renvoi de l’art. 275 LP, citant un arrêt du Tribunal
+fédéral du 29 novembre 2005.
+Par prononcés du 11 février 2009, le Président du Tribunal d’arrondis-sement de
+Lausanne a rejeté les plaintes d'AK.________ et de F.________ SA et admis très partiellement
+celle de BK.________. Ces décisions ont été confirmées par la cour de céans
+dans des arrêts rendus le 22 juillet 2009.
+c)
+Selon procès-verbaux de séquestre dressés par l'Office des pour-suites du district de
+Morges le 12 février 2010, les biens mis sous séquestre se montaient à 1'386'419 fr. pour
+AK.________ (séquestres n
+os
+3'197'669 et 3'197'664), 1'439'176 fr 38 pour
+BK.________ (séquestres n
+os
+3'197'668 et 3'197'665) et à 7'684'059 fr. 34 pour F.________ SA (séquestres n
+os
+3'197'667 et 3'197'666). A la suite d'une procédure de plainte initiée par les parties créancières
+dans le cadre des séquestres n
+os
+3'197'669 et 3'197'664, l'Office des poursuites du district de Morges a complété, le 2 mars
+2011, les deux procès-verbaux précités en ajoutant des biens mis sous séquestre par
+2'937'315 francs. Dans le cadre de cette procédure de plainte, les intimés ont contesté,
+en particulier dans la procédure de recours, être propriétaires de certains biens, notamment
+de comptes bancaires ouverts au nom de la M.________.
+3.
+Les poursuites introduites
+Le 28 avril 2010, l'Office des poursuites du district de Morges a notifié aux intéressés
+six commandements de payer dans les poursuites suivantes :
+-
+n° 5'319'713 (9'980'000 fr.) et n° 5'319'748 (4'770'000 fr.) contre AK.________,
+-
+n° 5'319'736 (7'960'000 fr.) et n° 5'319'753 (3'340'000 fr.) contre BK.________,
+-
+n° 5'320'224 (5'470'000 fr.) et n° 5'320'225 (2'960'000 fr.) contre F.________ SA.
+La
+mainlevée définitive des oppositions faites aux commandements de payer précités a
+été prononcée, à concurrence des montants en poursuite, le 14 octobre 2010, par le
+Juge de paix du district de l'Ouest lausannois. Ces six prononcés n'ont été réformés,
+par arrêts rendus le 10 octobre 2011 par la cour de céans, que sur la question des dépens.
+Dans le cadre desdites poursuites, AK.________ a été entendu par un représentant de l'Office
+des poursuites du district de Morges le 11 novembre 2011. Il ressort notamment du procès-verbal
+d'audition que l'intéressé a déclaré que la société F.________ SA ne possédait
+"pas d'autres actifs mobiliers ou comptes bancaires en Suisse que ceux mentionnés sur le procès-verbal
+de séquestre". Il ressort de l'état de fait du jugement de première instance que
+lors de cette audition, AK.________ aurait annoncé immédiatement les revendications éventuelles
+de chaque bien, qu'il aurait affirmé que la société F.________ SA ne possédait aucune
+licence informatique. Il ressort également du jugement attaqué que lors de cette audition,
+l'Office des poursuites du district de Morges n'a pas eu connaissance des licences "Valos"
+dont il sera question plus loin.
+4.
+Les
+procès-verbaux de saisie et les revendications
+Le 9 février 2012, l'Office des poursuites de l'Ouest lausannois (ci-
+après
+: l'office) – désormais compétent selon la nouvelle organisation territoriale –
+a adressé aux intéressés les procès-verbaux de saisie des six poursuites concernées.
+Dans les poursuites n
+os
+5'319'713 et 5'319'748 dirigées contre AK.________,
+la saisie porte essentiellement sur des pièces de mobilier (biens n
+os
+1 à 52) et des avoirs bancaires auprès
+du [...] et de la banque [...] (biens n
+os
+53 à 61). Le procès-verbal de saisie mentionne les revendications suivantes :
+-
+F.________ SA revendique la propriété des biens n
+os
+1, 2 et 4 à 8 ;
+-
+BK.________ revendique la propriété des biens n
+os
+3, 9, 11 à 14, 16 à 21, 23 à 31, 33 à 43, 48 à 50, 52 et 53 ;
+-
+M.________ revendique la propriété du compte saisi sous n° 61.
+Le
+procès-verbal de saisie impartit aux créanciers saisissants un délai de 20 jours pour
+ouvrir l'action de l'art. 108 LP contre F.________ SA et BK.________, et un délai de 10 jours pour
+ouvrir l'action de l'art. 107 LP pour contester la revendica-tion de M.________.
+Dans les poursuites n
+os
+5'319'736 et 5'319'753 dirigées contre BK.________, la saisie porte en substance sur des pièces
+de mobilier (biens n
+os
+1
+à 49 et 60 à 62), sur des avoirs bancaires auprès du [...], de la banque [...], de [...]
+et de la [...] (biens n
+os
+50 à 58), et les droits que possède la débitrice dans le cadre de la succession de feu
+[...] (bien n° 59). Le procès-verbal de saisie mentionne les revendications suivantes :
+-
+F.________ SA revendique la propriété des biens n
+os
+1, 2 et 4 à 8 ;
+-
+AK.________ revendique la propriété des biens n
+os
+3, 9, 11 à 14, 16 à 20, 22 à 30, 32 à 42, 46, 47, 49, 50, 61 et 62.
+Le
+procès-verbal de saisie impartit aux créanciers saisissants un délai de 20 jours pour
+ouvrir l'action de l'art. 108 LP contre F.________ SA et contre AK.________.
+Dans les poursuites n
+os
+5'320'224 et 5'320'225 contre F.________ SA, la saisie porte sur des pièces de mobilier (biens n
+os
+1 à 14), sur trois véhicules automobiles
+(biens n
+os
+15
+à 17), sur des avoirs bancaires auprès du [...] (biens n
+os
+18 à 28) et sur un immeuble sis [...], à
+[...] (bien
+n° 29). Le procès-verbal
+de saisie mentionne que FA.________ AG revendique la propriété des biens n
+os
+20 à 28 et impartit aux créanciers un délai de 20 jours pour ouvrir l'action de l'art.
+108 LP contre la société prénommée. Le procès-verbal contient en outre la renonciation
+à la saisie du matériel informatique, obsolète, ainsi que la renonciation de la saisie
+de tous les autres actifs actuels de la société débitrice.
+Le 11 février 2012, l'ACI a requis de l'office que les divers revendi-quants présentent leurs
+moyens de preuve pour chacun des biens revendiqués. Le 15 février 2012, l'office a informé
+l'ACI des modifications suivantes dans l'état des revendications :
+-
+dans les poursuites n
+os
+5'319'713 et 5'319'748 contre AK.________, M.________ revendique la propriété des biens saisis
+sous n
+os
+53 et 54 et BK.________ retire sa revendication sur le bien n° 53. L'avis de revendication fixe
+un délai de
+10 jours aux créanciers
+saisissants pour ouvrir l'action de l'art. 107 LP contre M.________ ;
+-
+dans les poursuites n
+os
+5'319'736 et 5'319'753 contre BK.________, M.________ revendique la propriété des biens saisis
+sous n° 50 et AK.________ retire sa revendication sur ledit bien. L'avis de revendication fixe un
+délai de
+10 jours aux créanciers
+saisissants pour ouvrir l'action de l'art. 107 LP contre M.________.
+Toujours le 15 février 2012, l'office a pris acte des modifications requises et indiqué qu'il
+ne ressortait pas du protocole d'audition du poursuivi du
+11
+novembre 2011 que M.________ revendiquait le compte saisi sous n
+os
+50, 53 et 59, seul y figurant le compte mentionné n° 61. Le 18 février 2012, M.________
+a confirmé qu'elle était titulaire juridique et économique des avoirs bancaires revendiqués,
+se réservant de faire entendre des témoins ou de prouver par expertise cette affirmation.
+5.
+La
+procédure de plainte
+a)
+Le 16 février 2012, l'Etat de Vaud, la Commune de [...] et la Confédération suisse ont
+déposé trois plaintes contre l'office :
+-
+dans le cadre des poursuites n
+os
+5'319'713 et 5'319'748 contre AK.________, les plaignants ont conclu à ce qu'il soit constaté
+que les déclarations de reven-dications de F.________ SA et BK.________ sont tardives, à la
+modification du procès-verbal en ce sens que lesdites revendications sont annulées et à
+ce que les délais pour ouvrir l'action des art. 108 et 107 LP soient retirés ;
+-
+dans le cadre des poursuites n
+os
+5'319'736 et 5'319'753 contre BK.________, les plaignants ont conclu à ce qu'il soit constaté
+que les revendications de F.________ SA et d'AK.________ sont tardives, à ce que le procès-verbal
+de saisie soit rectifié en ce sens que les revendications sont annulées, et à ce que le
+délai pour ouvrir l'action de l'art. 108 LP soit retiré ;
+-
+dans le cadre des poursuites n
+os
+5'320'224 et 5'320'225 contre F.________ SA, les plaignants ont conclu à ce qu'il soit constaté
+que la revendication de FA.________ AG est tardive, à la rectification du procès-verbal en
+ce sens que les revendications sont annulées et à ce que le délai pour ouvrir l'action
+de l'art. 108 LP soit retiré, et à ce qu'ordre soit donné à l'office de compléter
+la saisie en incluant tous les actifs matériels, véhicules, créances, revenus de contrats,
+avoirs bancaires, immatériels, licences, brevets, droits et autres qui sont la propriété
+de F.________ SA. Les plaignants ont en particulier requis la mise sous le poids de la saisie du logiciel
+"Valos", en produisant un bilan de la société F.________ SA au 31 décembre 2010
+établi le 21 septembre 2011. Selon cette pièce, les licences "Valos" étaient
+évaluées à 160'000 fr. au 31 décembre 2010, alors qu’elles l’avaient
+été à 240'000 fr. au 31 décembre 2009. Dans l’annexe à ce bilan, le conseil
+d’administration de la société indique qu’il pourrait examiner la capacité
+de continuation de l’exploitation de la société, notamment la valorisation de son actif
+d’exploitation principal, les licences "Valos". Le compte de pertes et profits de la
+société pour l’année 2010 mentionne un chiffre d’affaires de 1'477'162 fr.
+60 en progression par rapport à l’année 2009 où il était de 1'189'317 fr. 28.
+Le 23 février 2012, les plaignants ont déposé deux plaintes complé-mentaires :
+-
+dans le cadre des poursuites
+n
+os
+5'319'713 et 5'319'748 contre AK.________, ils ont modifié la conclusion relative à la tardiveté
+de la revendication de BK.________ en adaptant les numéros des biens saisis et conclu à ce
+qu'il soit constaté que la déclaration de revendication de M.________ est tardive et à
+ce que l'avis du délai pour ouvrir l'action des art. 106 et 107 LP soit annulé ;
+-
+dans le cadre des poursuites n
+os
+5'319'736 et 5'319'753 contre BK.________, ils ont modifié la conclusion relative à la tardiveté
+de la revendication d'AK.________ en adaptant les numéros des biens saisis et conclu à ce qu'il
+soit constaté que la déclaration de revendication de M.________ est tardive et à ce que
+l'avis du délai pour ouvrir action des art. 106 et 107 LP soit annulé.
+Le 15 mars 2012, l'Office des poursuites du district de l'Ouest lausannois a déposé ses déterminations,
+concluant au rejet des plaintes et des plaintes complémentaires, précisant qu'il ignorait les
+conditions exactes dans lesquelles les revendications avaient été traitées par l'Office
+des poursuites de Morges lors de l'audition du poursuivi AK.________. Il a soulevé la question de
+l'éventualité d'une expertise sur la valeur du logiciel informatique "Valos", tout
+en mettant en doute sa valeur de liquidation.
+Le 19 mars 2012, BK.________, AK.________ et F.________ SA ont conclu au rejet des plaintes, faisant
+valoir que les créanciers étaient au courant des revendications depuis le 7 janvier 2009 à
+tout le moins, date à laquelle les poursuivis avaient déposé des plaintes contre les procès-verbaux
+de séquestre, procédure dans laquelle ils faisaient valoir ne pas être propriétaires
+des biens actuellement revendiqués.
+Le même jour, M.________ et FA.________ AG ont également conclu au rejet des plaintes, invoquant
+également que les poursuivants savaient que la question de la propriété des biens revendiqués
+était litigieuse, et cela à tout le moins depuis la procédure de plainte de 2009, voire
+même antérieurement, depuis le début du litige fiscal en 2003.
+b)
+L'audience sur plaintes s'est tenue le 20 mars 2012. Les parties ont admis la tenue d'un seul procès-verbal
+et la rédaction d'une seule décision sur plainte, les trois dossiers étant dès lors
+réunis sous la référence FA12.005983. A dite audience, le représentant des poursuivants
+a complété ses conclusions de la manière suivante :
+-
+dans le cadre des poursuites n
+os
+5'319'713 et 5'319'748 contre AK.________, il a conclu à ce que la saisie soit complétée
+en ce sens que soient placés sous le poids de la saisie tous les autres droits, prétentions
+ou créances qui sont la propriété d’AK.________, notamment les actions de F.________
+SA, de [...], de [...], de [...], de [...], de [...], de M.________ et d' [...] au Liechtenstein;
+-
+dans le cadre des poursuites n
+os
+5'319'736 et 5'319'753 contre BK.________, il a conclu à ce que la saisie soit complétée
+en ce sens que soient placés sous le poids de la saisie tous les autres droits, prétentions
+ou créances qui sont la propriété de BK.________, notamment les actions de F.________
+SA, de [...], de [...], de [...], de [...], de [...], de M.________ et d' [...] au Liechtenstein.
+AK.________, BK.________ et F.________ SA ont conclu au rejet de ces conclusions, pour autant qu'elles
+soient recevables. M.________ a conclu également au rejet, dans la mesure où elle serait concernée.
+L'office s'en est remis à justice.
+Par prononcé du 10 avril 2012, le Président du Tribunal d’arrondisse-ment de Lausanne,
+en sa qualité d'autorité inférieure de surveillance, a rejeté les plaintes des 16
+et 23 février 2012 (I), déclaré irrecevables les conclusions nouvelles des plaignants
+prises à l’audience du 20 mars 2012 (II) et rendu sa décision sans frais ni dépens.
+En bref, le premier juge a considéré que les revendications formées par les tiers n’étaient
+pas tardives, les plaignants n’ayant pas apporté la preuve de l’intention dolosive de
+ces tiers, même si ces derniers, personnes physiques ou morales, sont liés par une structure
+de participation complexe dans le groupe [...]. Il a également admis que, comme l'avait estimé
+l’office, le matériel informatique n’avait pas de valeur, en raison de sa dépréciation
+très rapide en cas de revente, et qu'il allait de même pour le logiciel «Valos» dont
+la valeur ne pourrait être déterminée que par une expertise coûteuse.
+6.
+La procédure de recours
+Par acte du 19 avril 2012, les poursuivants ont recouru contre le prononcé du 10 avril 2012 et
+pris les conclusions principales suivantes :
+-
+Dans les poursuites n
+os
+5'319'713 et 5'319'748 contre AK.________ :
+"II.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que la revendication de
+F.________ SA sur les biens saisis nos 1, 2, 4 à 8 est tardive ;
+III.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que la revendication de
+BK.________ sur les biens saisis nos 3, 9, 11 à 14, 16 à 21, 23 à 31, 33 à 43, 48
+à 50 et 52 est tardive ;
+IV.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que les revendications de
+propriété de M.________ sur le compte saisi no 61 et les objets saisis sous nos 53 et 54 sont
+tardives ;
+V.
+Que le procès-verbal de saisie de l'Office des poursuites du district de l'Ouest lausannois du 9
+février 2012, série no 1, poursuites nos 5'319'713 et 5'319'748 contre AK.________ est rectifié
+dans le sens que les revendications indiquées en regard des biens saisis nos 1 à 9, 11 à
+14, 16 à 21, 23 à 31, 33 à 43, 48 à 50, 52, 53, 54 à 61 sont annulées ;
+VI.
+Que l'avis de revendication des biens saisis selon l'art. 106 et 107 LP du 15 février 2012 de l'Office
+des poursuites de l'Ouest lausannois, lequel impartit un délai de 10 jours aux créanciers saisissants
+de la série no 1, poursuites nos 5'319'713 et 5'319'748 contre AK.________ pour contester la revendication
+de M.________ sur les biens saisis nos 53 et 54 est annulé ;
+VII.
+Que les délais aux créanciers saisissants, d'une part, le délai de 20 jours pour ouvrir
+l'action de l'art. 108 LP à F.________ SA (sous chiffre II ci-dessus) et à BK.________ (sous
+chiffre III ci-dessus), et, d'autre part, les délais de dix jours pour contester les revendications
+de M.________ (sous chiffre IV ci-dessus) sont retirés."
+-
+Dans les poursuites n
+os
+5'319'736 et 5'319'753 contre BK.________ :
+"VIII.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que la revendication de
+F.________ SA sur les biens saisis nos 1, 2, 4 à 8 est tardive ;
+IX.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que la revendication de
+AK.________ sur les biens saisis nos 3, 9, 11 à 14, 16 à 20, 22 à 30, 32 à 42, 46,
+47, 49, 61 et 62 est tardive ;
+X.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que les revendications de
+propriété de M.________ sur le bien saisi no 50 est tardive ;
+XI.
+Que le procès-verbal de saisie de l'Office des poursuites du district de l'Ouest lausannois du 9
+février 2012, série 1, poursuites nos 5'319'736 et 5'319'753 contre BK.________ est rectifié
+dans le sens que les revendications indiquées en regard des biens saisis nos 1 à 9, 11 à
+14, 16 à 20, 22 à 30, 32 à 42, 46, 47, 49, 50, 61 et 62 sont annulées ;
+XII.
+Que l'avis de revendication des biens saisis selon l'art. 106 et 107 LP du 15 février 2012 de l'Office
+des poursuites de l'Ouest lausannois, lequel impartit un délai de 10 jours aux créanciers saisissants
+de la série no 1, poursuites nos 5'319'736 et 5'319'753 contre BK.________ pour contester la revendication
+de M.________ sur le bien saisi sous no 50, est annulé ;
+XIII.
+Que le délai de 20 jours imparti aux créanciers saisissants d'une part pour ouvrir l'action
+de l'art. 108 LP à F.________ SA (sous chiffre VIII ci-dessus) et à AK.________ (sous chiffre
+IX ci-dessus), et, d'autre part, les délais de dix jours pour contester la revendication de M.________
+(sous chiffre X ci-dessus) sont retirés."
+-
+Dans les poursuites n
+os
+5'320'224 et 5'320'225 contre F.________ SA :
+"XIV.
+Le prononcé du 10 avril 2012 (…) est réformé en ce sens que la revendication de
+FA.________ AG sur les biens saisis nos 20 à 28 est tardive ;
+XV.
+Que le procès-verbal de saisie de l'Office des poursuites du district de l'Ouest lausannois du 9
+février 2012, série 1, poursuites nos 5'320'224 et 5'320'225
+contre F.________ SA est rectifié dans le
+sens que les revendications indiquées en regard des biens saisis nos 20 à 28 sont annulées
+;
+XVI.
+Que le délai de 20 jours imparti aux créanciers saisissants pour ouvrir l'action de l'art.
+108 LP à FA.________ AG (sous chiffre XIV ci-dessus) est retiré.
+XVII.
+Ordonner à l'Office des poursuites du district de l'Ouest lausannois de compléter l'exécution
+de la saisie des poursuites nos 5'320'224 et 5'320'225 en plaçant sous le poids de la saisie tous
+les actifs actuels matériels, véhicule, créances, revenus de contrats, avoirs bancaires,
+immatériels, licences, brevets, droits et autres qui sont la propriété de F.________ SA."
+Les
+plaignants ont conclu, subsidiairement, à l’annulation du prononcé du 10 avril 2012 et
+au renvoi de la cause au premier juge pour nouvelle décision.
+L’effet suspensif a été accordé le 25 avril 2012.
+Le 10 mai 2012, l’office a indiqué ne pas avoir d’autres déterminations à
+produire que celles communiquées à l’autorité inférieure de surveillance.
+Le 14 juin 2012, les intimées FA.________ AG et M.________ ont conclu, avec suite de frais et dépens,
+au rejet du recours et à la confirmation du prononcé entrepris. Elles ont produit un onglet
+de trois pièces sous bordereau.
+Le même jour, les intimés AK.________, BK.________ et F.________ SA ont également conclu
+au rejet du recours.
+Spontanément, le 15 juin 2012, les recourants ont déposé des déter-minations à
+propos des mémoires des intimés, accompagnées de nouvelles pièces.
+En droit :
+I.
+a)
+L'entrée en vigueur du CPC suisse (Code de procédure civile du
+19
+décembre 2008; RS 272), dont l'art. 1 let. c énonce qu'il  s'applique uniquement aux décisions
+judiciaires en matière de droit de la poursuite pour dettes et la faillite, n'a pas eu de conséquence
+sur la procédure de plainte qui demeure régie par la LVLP (loi d'application dans le canton
+de Vaud de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV
+280.05) (Muster, La nouvelle procédure civile et le droit des poursuites et des faillites, in JT
+2011 II 75, ch. 2.2).
+La décision querellée a été notifiée aux plaignants le 12 avril 2012. Formé
+le 19 avril 2012, leur recours a été déposé à temps utile (art. 18 al. 1 LP;
+art. 28 al. 1 LVLP). Pour le surplus, le recours comporte l'énoncé des moyens invoqués
+(art. 28 al. 3 LVLP) et est ainsi recevable à la forme.
+b)
+En principe, les pièces nouvelles produites avec le recours sont recevables, dès lors que l’art.
+28 al. 4 LVLP prévoit que le recourant peut alléguer des faits nouveaux et produire de nouvelles
+pièces. De même, le préposé de l’office et les parties intimées peuvent,
+dans le délai fixé par le président de la cour, se déterminer par écrit et,
+le cas échéant, alléguer des faits nouveaux et produire toutes pièces utiles (art.
+31 al. 1 LVLP). Les pièces produites par les intimées sont donc recevables.
+Les recourants n’ont pas produit de pièces avec leur recours, mais l’ont fait à
+l’appui de déterminations déposées spontanément après la production des
+mémoires des intimés. Conformément aux art. 29 al. 2 Cst.
+(Constitution
+fédérale de la Confédération suisse du 18 avril 1999; RS 101) et 6 §
+1 CEDH
+(Convention du 4 novembre
+1950 de sauvegarde des droits de l’homme et des libertés fondamentales; RS 0.101)
+,
+les parties à un procès ont le droit d’être entendues. Cette garantie de procédure
+comprend notamment le droit, pour une partie à un procès, de prendre connaissance de toute
+argumentation présentée au tribunal et de se déterminer à son propos (droit à
+la réplique : ATF 133 I 98 c. 2.1, JT 2007 I 379). Le Tribunal fédéral a retenu à
+de nombreuses reprises que les parties à une procédure ont le droit de prendre connaissance
+de toute argumentation présentée au tribunal, que celle-ci contienne ou non des éléments
+nouveaux, et qu’elle soit ou non concrètement susceptible d’influer sur le jugement :
+il appartient aux parties, et non au juge, de déterminer si un document nécessite un commentaire.
+Avant de rendre son jugement, le tribunal doit communiquer aux parties toute prise de position nouvelle
+versée au dossier pour permettre à celle-ci de décider si elles veulent ou non faire usage
+de leur faculté de se déterminer (TF 1B_255/2012 du 15 mai 2012 c. 3; SJ 2012 I 61 c. 2.2;
+ATF 137 I 195 c. 2.3.1, SJ 2011 I 345; ATF 133 I 100 c. 4.5, JT 2008 I 368; ATF 133 I 98 précité,
+JT 2007 I 379; ATF 132 I 42 c. 3.3.2, JT 2007 I 110 et les références citées; cf. aussi
+Lanter, Formeller Charakter des Replikrechts – Herkunft und Folgen, in Zbl 2012 pp. 167 ss; Fratini,
+La mise en œuvre du droit à la réplique dans les nouveaux codes de procédure suisses,
+in Jusletter 14 novembre 2011; Hottelier/Mock/Puéchavy, La Suisse devant la Cour européenne
+des droits de l’homme, 2
+ème
+éd., pp. 156-158; Grodecki, Strasbourg et le droit à la réplique, in Plädoyer 2007/2,
+pp. 55 ss).
+Les déterminations déposées spontanément par les recourants le
+15
+juin 2012 sont ainsi recevables en vertu du droit constitutionnel à la réplique. Il en va de
+même des pièces qui accompagnent ces déterminations, puisque, aux yeux des recourants,
+elles apparaissent nécessaires à la discussion portant sur les mémoires des intimés
+qui ont eux-mêmes pu produire des pièces, étant rappelé que les garanties d’un
+procès équitable impliquent en principe le droit, pour les parties au procès, de prendre
+connaissance de toute pièce ou observation présentée au juge et de la discuter (CourEDH,
+Ellès et autres c. Suisse, 16 décembre 2010 § 26; CourEDH, Schaller-Bossert c. Suisse,
+28 octobre 2010 § 39 et les références citées).
+II.
+a)
+Selon
+l’art. 17 al. 1 LP, la voie de la plainte est ouverte lorsqu’une mesure de l’office
+est contraire à la loi ou ne paraît pas justifiée en fait. Par mesure au sens de cette
+disposition, il faut entendre tout acte d’autorité accompli par l’office ou un organe
+de la poursuite en exécution d’une mission officielle dans une affaire concrète. L’acte
+de poursuite doit être de nature à créer, modifier ou supprimer une situation de droit
+de l’exécution forcée dans l’affaire en question et il peut se manifester de toutes
+sortes de façons (ATF 129 III 400 c. 1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, nn. 11-12 ad art. 17 LP).
+Dans les procédures individuelles et spéciales, l’office des poursuites est seul compétent
+pour statuer sur la tardiveté d’une déclaration de revendication, le juge de la tierce
+opposition n’ayant pas à se prononcer sur ce moyen; la décision de l’office des
+poursuites peut faire l’objet d’une plainte et d’un recours aux autorités de surveillance
+(Gilliéron, op. cit., n. 76 ad art. 106 LP et les références citées;
+TF
+7B.15/2005 du 1
+er
+mars 2005).
+b)
+La loi fédérale sur la poursuite
+pour dettes et la faillite ne fixe aucun délai pour former la déclaration de revendication
+des biens saisis ou séquestrés (art. 106 à 109 et 275 LP). Selon une jurisprudence constante,
+la déclaration peut donc intervenir, en principe, dès le moment où l’intéressé
+a eu connaissance de l’exécution valide de la saisie ou du séquestre jusqu’à
+la distribution des deniers (art. 106 al. 2 LP). Toutefois, une annonce tardive par le tiers de ses prétentions
+pouvant compromettre les droits du créancier – qui aura soit accompli des actes ou engagé
+des frais inutilement, soit perdu l’occasion d’obtenir d’autres actes d’exécution
+pour la couverture de sa créance –, la déclaration de revendication doit être opérée
+dans un délai bref et approprié aux circonstances, le tiers étant déchu de son droit
+s’il tarde malicieusement à la faire ou s’il commet une négligence grossière.
+Une déclaration de revendication différée de plus de cinq mois doit en règle générale
+être considérée comme tardive (TF 5A_429/2010 du 11 août 2010 c. 2; ATF 120 III 123
+c. 2a, rés. in JT 1997 II 153; ATF 106 III 57 c. 2, JT 1982 II 85; ATF 104 III 42 c. 5).
+Cependant, la temporisation de la revendication n’est pas contraire à la bonne foi lorsque
+le créancier poursuivant sait qu’un tiers déterminé pourrait faire valoir des droits
+sur les valeurs patrimoniales mises sous main de justice (ATF 114 III 92, JT 1990 II 72 c. 1a; ATF 112
+III 59 c. 3, rés. in JT 1988 II 94; ATF 111 III 21 c. 4, JT 1987 II 112; ATF 109 III 18 c. 1, JT
+1985 II 70). D’après cette jurisprudence, le tiers n’est pas tenu d’annoncer sa
+prétention tant qu’une contestation relative à la saisissabilité des biens en cause
+ou à la validité du séquestre, respectivement de la saisie, n’a pas été
+tranché, étant observé que dans le cas d’un séquestre une telle décision
+peut émaner, suivant la nature des griefs invoqués, soit des autorités de poursuite soit
+du juge de l’opposition (TF 7B.15/2005 du 1
+er
+mars 2005 c. 3.1; Staehelin, Basler Kommentar, n. 24 ad art. 106 LP et les références citées).
+En l’occurrence, d’après l’état de fait retenu en première instance
+qu’il n’y a pas lieu de remettre en cause, les revendications auraient été faites,
+en tout cas oralement, le 11 novembre 2011 lors de l’audition par l’Office des poursuites
+du district de Morges d’AK.________, assisté de son conseil, à son domicile. Jusqu’alors,
+de nombreuses procédures étaient pendantes, en particulier des procédures de plainte en
+lien avec les séquestres opérés et des procédures de mainlevée d’opposition.
+Au cours des procédures de plainte, les séquestrés ont fait valoir de manière récurrente
+que certains biens n’étaient pas leur propriété; l’administration fiscale
+était consciente que des actions en revendication pourraient être ouvertes, puisqu’elle
+a elle-même soutenu que la question de la propriété des biens et de la titularité
+des créances ne pouvait être soulevée dans ces procédures mais devrait faire l’objet
+de revendications ultérieures.
+Contrairement à l’avis de la doctrine (Tschumy, La revendication de droits de nature à
+soustraire un bien à l’exécution forcée, thèse Lausanne 1987, p. 54, note infrapaginale
+n. 18), le législateur, lors de la révision de la loi entrée en vigueur le 1
+er
+janvier 1997, n’a pas fixé un délai de déchéance déterminé au revendicant.
+Il n’a même pas souhaité introduire une deuxième phrase, prévue dans l’avant-projet,
+prévoyant une déchéance lorsque le revendicant tarde intention-nellement à annoncer
+sa prétention. Lorsque le législateur entend limiter la durée pendant laquelle une prétention
+peut être invoquée, il fixe un délai de prescription ou de péremption. A l’intérieur
+de ce délai, le titulaire du droit est en principe libre de choisir le moment qui lui convient pour
+faire valoir son droit. D’une façon générale, il n’est donc pas possible de
+raccourcir un délai de prescription ou de péremption, voire d’introduire indirectement
+un tel délai, en arguant que le droit n’a pas été exercé dès que possible.
+Il peut certes arriver qu’en raison de circonstances spéciales, le retard mis à l’exercice
+du droit constitue un abus de droit, en ce sens qu’il est en contradiction avec l’attitude
+antérieure du titulaire du droit. Toutefois, cette exception ne doit être admise qu’avec
+la plus grande retenue (Steinauer, Le titre préliminaire du Code civil, TDPS II/1, n. 586, p. 220
+et les références citées aux notes infrapaginales nn. 32 et 33).
+En l’espèce, tant les revendicants que les débiteurs séquestrés ont constamment
+contesté la propriété des biens. Les revendicants n’ont donc pas exercé leurs
+droits en contradiction avec une attitude antérieure, de manière malicieuse. L’exception
+de l’abus de droit – qui doit être manifeste pour être sanctionné (art. 2
+al. 2 CC; Chappuis, Commentaire romand, nn. 23 ss ad art. 2 CC) – n’est donc pas réalisée
+et c’est à juste titre que le premier juge a considéré que les déclarations
+de revendication n’étaient pas frauduleusement tardives.
+c)
+Les recourants remettent également en
+question le rejet de la plainte dans le dossier F.________ SA dans la mesure où l’assiette
+de la saisie ne comprend pas le logiciel "Valos", valorisé dans les comptes de cette société
+au 31 décembre 2010 à 160'000 fr. et dont le conseil d’administration explique qu’il
+constitue l’actif d’exploitation principal de la société dont le chiffre d’affaires
+en 2010 était de 1'477'192 fr. 60.
+L’office, suivi par l’autorité inférieure de surveillance, avait exclu cet actif
+du poids de la saisie pour le motif que la valeur aux enchères publiques de ce logiciel ne couvrirait
+pas les frais liés à la procédure d’estimation et de réalisation de cet actif.
+Compte tenu de la valorisation au 31 décembre 2010 de cet actif dans les comptes de la société
+à 160'000 fr., de ce que le conseil d’administration considère qu’il pourrait être
+valorisé à la hausse et de ce qu’il constitue l’essentiel de l’actif de l’exploitation
+de la société, cette estimation paraît exagérément pessimiste et peut être
+revue par les autorités de surveillance saisies d’une plainte des créanciers, comme en
+l’espèce (Ochsner, Commentaire romand, n. 195 ad art. 92 LP).
+Lorsque le créancier séquestrant poursuit dans l’action en validation du séquestre
+au for ordinaire du débiteur, il pourra obtenir la saisie d’autres biens que ceux séquestrés
+(Gilliéron, Poursuite pour dettes, faillite et concordat, 4
+ème
+éd., n. 417, p. 80; Gilliéron, Commentaire, op. cit., n. 15 ad art. 279 LP; Reiser, Basler
+Kommentar, n. 7 ad art. 279 LP; ATF 55 III 30 c. 1, JT 1929 II 151). Il importe ainsi peu que cet actif
+n’ait pas expressément été visé par les procès-verbaux de séquestre
+du 12 février 2010.
+Par conséquent, la plainte aurait dû être admise sur ce point.
+III.
+Ainsi, le recours doit être partiellement admis et le prononcé réformé en ce sens
+que les plaintes déposées par les recourants Etat de Vaud, Commune de [...] et Confédération
+suisse contre les procès-verbaux de saisie de la société F.________ SA sont admises partiellement
+et l’office des poursuites du district de l’Ouest lausannois est invité à compléter
+la saisie dans les poursuites
+n
+os
+5'320'224 et 5'320'225 en plaçant également sous le poids de la saisie le logiciel "Valos".
+La procédure de plainte et le recours contre une décision sur plainte sont gratuites (art.
+20a al. 2 ch. 5 LP et art. 61 al. 2 let. a OELP; Cometta/Möckli, Basler Kommentar, n. 24 ad art.
+20a LP) et il ne peut être alloué de dépens dans ces procédures (art. 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis partiellement.
+II.
+Le prononcé est réformé en ce sens que les plaintes déposées par les recourants
+Etat de Vaud, Commune de [...] et Confédération suisse contre les procès-verbaux de saisie
+de la société F.________ SA sont admises partiellement, l’Office des poursuites du district
+de l’Ouest lausannois étant invité à compléter la saisie dans les poursuites
+n
+os
+5'320'224 et 5'320'225 en plaçant également sous le poids de la saisie le logiciel "Valos".
+III.
+Le présent arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+5 octobre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Administration cantonale des impôts (pour l'Etat de Vaud, la commune de [...] et la Confédération
+suisse),
+‑
+Me Eric Muster, avocat (pour AK.________, BK.________ et F.________ SA),
+-
+Me Claudio Venturelli, avocat (pour FA.________ AG et M.________),
+-
+M. le Préposé à l’Office des poursuites du district de l'Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
