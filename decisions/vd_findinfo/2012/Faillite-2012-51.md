@@ -1,0 +1,267 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___51"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 51"
+decided: "2012-10-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3482017"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-305.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 51
+
+## Regeste
+
+SURSIS CONCORDATAIRE | 293 LP, 294 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.10.2012 Faillite / 2012 / 51
+
+SURSIS CONCORDATAIRE | 293 LP, 294 LP
+
+TRIBUNAL
+CANTONAL
+FV11.049022-121019
+435
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 octobre 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              MM.
+Bosshard et Muller
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+293 al. 1, 294 al. 2, 306 al. 2 ch. 1bis LP
+Vu le prononcé rendu le 9 mars 2012 par le Président du Tribunal d'arrondissement de Lausanne,
+à la suite de l'audience du 16 février 2012, prononçant un sursis provisoire de deux mois
+au bénéfice de la société
+E.________
+SA
+, à Lausanne, et désignant V.________,
+agent d'affaires breveté, en qualité de commissaire provisoire,
+vu le rapport déposé par le commissaire provisoire au sursis en date du 24 avril 2012,
+vu le prononcé rendu le 23 mai 2012 par le Président du Tribunal d'arrondissement de Lausanne,
+à la suite de l'audience du 26 avril 2012, rejetant la demande de sursis concordataire déposée
+par E.________ SA, relevant V.________ de sa fonction de commissaire provisoire au sursis et révoquant
+l'effet suspensif prononcé le 20 décembre 2011,
+vu le recours, accompagné de pièces, déposé le 4 juin 2012 par E.________ SA contre
+ce prononcé, concluant principalement à son annulation, à l'octroi d'un sursis concordataire
+de six mois, prolongeable, et à la nomination de V.________, agent d'affaires breveté, en qualité
+de commissaire,
+vu la décision du 13 juin 2012 du président de la cour de céans, rejetant la requête
+d'effet suspensif déposée avec le recours,
+vu les pièces du dossier;
+attendu que le prononcé a été notifié le 25 mai 2012, de sorte que l'acte de recours,
+mis à la poste le 4 juin 2012, a été déposé en temps utile (art. 321 al. 2 CPC,
+Code de procédure civile du 19 décembre 2008; RS 272),
+qu'il est suffisamment motivé et est donc recevable formellement (art. 321 al. 1 CPC);
+attendu que selon l'art. 326 CPC, les preuves nouvelles sont irrecevables (al. 1), les dispositions
+spéciales de la loi étant réservées (al. 2),
+qu'en matière concordataire, il n'y a pas de norme dérogeant à la règle de l'art.
+326 al. 1 CPC (CPF, 12 juin 2012/247),
+qu'en l'espèce la recourante a produit en deuxième instance la "version définitive"
+(datée du 13 avril 2012) de ses comptes pour l'exercice 2011 ainsi que celle des comptes de M.________
+SA pour la même année,
+que ces pièces étant irrecevables, seuls seront pris en considération les comptes "provisoires"
+(datés du 26 janvier 2012) de ces deux sociétés pour l'exercice 2011, produits devant
+le premier juge;
+attendu que dans sa requête de sursis concordataire la requérante fait notamment valoir qu'elle
+bénéficie d'une clientèle et de créances pour des travaux en cours, qui seraient
+mis en péril par le prononcé d'une faillite, et que par ailleurs les créances dont elle
+dispose à l'égard de la société M.________ SA, pourraient être couvertes par
+la vente d'un immeuble dont cette dernière est propriétaire,
+qu'elle a produit un projet d'acte de concordat par abandon d'actifs dans lequel elle se propose d'abandonner
+à ses créanciers chirographaires l'entier de ses biens, soit en particulier :
+-
+la totalité de ses actifs mobiliers d'exploitation, soit notamment le mobilier, les machines et
+le stock des marchandises;
+-
+la contre-valeur de ses travaux en cours telle qu'elle sera déterminée au moment de l'octroi
+de sursis;
+-
+ses débiteurs,
+que, dans son rapport du 24 avril 2012, le commissaire provisoire au sursis a préavisé favorablement
+à l'octroi d'un sursis concordataire par abandon d'actifs pour une durée à déterminer
+qui pourrait être fixée initialement à six mois,
+qu'il a exposé notamment les éléments suivants :
+-
+treize créanciers ont déjà produit, dont un privilégié de deuxième classe
+pour un montant de 52'375 fr. 80 et douze créanciers de troisième classe pour un total de 1'628'104
+fr. 70;
+-
+il est douteux qu'une procédure de réalisation forcée des biens mobiliers de la sursitaire
+permette de dégager un bénéfice; ceux-ci pourraient en revanche, en cas de procédure
+concordataire, faire l'objet d'une vente de gré à gré pour un montant de 5'000 francs;
+-
+l'activité de la sursitaire est double, soit une activité de fiduciaire, qui génère
+peu de bénéfices, voire des pertes, et une activité, largement bénéficiaire,
+d'entreprise générale;
+-
+les travaux en cours portent sur 20'000 fr. dans le secteur fiduciaire et 10'000 fr. dans le secteur
+d'entreprise générale;
+-
+selon le bilan au 31 décembre 2011, la sursitaire disposerait d'une créance d'entreprise générale
+de 60'377 fr. 80 et d'une créance contre M.________ SA de 92'254 francs 75;
+-
+les perspectives en cas de faillite sont mauvaises, d'une part, parce que les actifs, notamment les différentes
+créances, seraient difficiles à réaliser, d'autre part, parce que le passif risque de
+s'accentuer notamment en raison du non-paiement du loyer des locaux de la société durant la
+procédure de réalisation, voire au-delà; enfin la faillite de la sursitaire engendrerait
+la faillite de M.________ SA dont la créance serait vraisemblablement perdue;
+-
+dans le cadre de la procédure concordataire, une importante restructuration serait effectuée
+visant à mettre un terme à l'activité fiduciaire - ce qui entraînerait le licenciement
+du dernier employé de la sursitaire et la résiliation du contrat de bail de la succursale -
+et au développement de l'activité d'entreprise générale, la sursitaire devant obtenir
+prochainement quatre mandats, qui devraient générer des bénéfices de l'ordre de 1'200'000
+francs;
+que le commissaire provisoire au sursis a produit un inventaire des biens et un aperçu de fortune
+de la sursitaire, ainsi que le contrat de travail de son dernier employé;
+attendu que le premier juge a retenu que les mandats futurs allégués par la sursitaire n'étaient
+pas confirmés, de sorte que les revenus qu'elle pourrait en tirer semblaient pour le moins aléatoires
+et hypothétiques, qu'il n'était ni établi ni rendu vraisemblable que la société
+débitrice M.________ SA, dont la dette à l'égard d'E.________ SA s'élèverait
+à 250'000 fr., serait solvable et que le produit de la vente de son immeuble reviendrait à
+la sursitaire,
+que le premier juge a considéré, au vu de ces éléments, qu'il n'était pas établi
+que le produit de réalisation dans le cadre d'un concordat par abandon d'actif serait supérieur
+à celui qui pourrait être obtenu par liquidation dans le cadre d'une faillite;
+considérant qu'en vertu de l'art. 294 al. 2 LP (loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1), le juge statue sur la demande de sursis concordataire en
+tenant compte notamment de la situation du débiteur, de l'état de son patrimoine et de ses
+revenus ainsi que des perspectives de concordat,
+que la requête de concordat présentée par le débiteur doit être motivée
+et documentée (art. 293 al. 1 LP),
+que le requérant doit non seulement rendre vraisemblable qu'il est en mesure de présenter une
+proposition acceptable pour une majorité de créanciers (art. 305 LP), mais également que
+son projet remplira les conditions d'homologation,
+que dans le cas d'un projet de concordat par abandon d'actif, il doit rendre vraisemblable que celui-ci
+présente un intérêt supérieur à une faillite pour les créanciers (art.
+306 al. 2 ch. 1 bis LP),
+qu'en l'espèce, il ressort du rapport du commissaire provisoire que l'essentiel des actifs de la
+recourante est constitué par des mandats futurs, pour un montant de 1'200'000 fr., dans une activité
+d'entreprise générale qui se situe en dehors du but social de la société,
+que la recourante n'a produit aucune pièce de nature à rendre vraisemblables l'existence et
+l'ampleur de tels projets ni des bénéfices qu'elle prétend en tirer,
+que c'est donc à juste titre que le premier juge a considéré que les revenus tirés
+de la réalisation de ces mandats étaient pour le moins aléatoires et hypothétiques,
+qu'un second poste des actifs serait constitué par une créance d'entreprise générale
+de 60'377 fr. 80 et une créance à l'encontre de M.________ SA à hauteur de 250'000 fr.
+(224'393 fr. selon l'acte de recours),
+que la recourante critique l'appréciation du premier juge qui a retenu que la solvabilité de
+cette société débitrice n'avait pas été rendue vraisemblable,
+que la seule pièce produite à cet égard, soit le bilan et les comptes de l'exercice 2011,
+paraît en effet constituer un indice en faveur de la solvabilité de cette société,
+qu'il convient de relever toutefois qu'ils ne sont pas audités, pas plus que ceux de la recourante
+d'ailleurs,
+que la question de la solvabilité de M.________ SA n'est toutefois pas déterminante en l'état,
+le montant de la créance, qui n'est d'ailleurs pas connu puisqu'il varie entre 83'374 fr. (bilan
+de la société M.________ SA), 92'254 fr. 75 (bilan de la recourante), 224'393 fr. dans l'acte
+de recours et 250'000, allégués à l'audience du 26 avril 2012, n'étant pas, même
+dans son chiffre maximum, suffisant pour l'homologation du concordat sans les bénéfices hypothétiques
+des mandats invoqués, par 1'200'000 francs,
+qu'au vu de ce qui précède, il n'a pas été rendu vraisemblable que le concordat par
+abandon d'actif proposé présenterait un intérêt supérieur à celui de la
+faillite pour les créanciers,
+qu'en cas de faillite, l'administration pourra tout aussi bien que dans le concordat réaliser les
+quelques biens mobiliers, dont la valeur a été estimée à 5'000 francs par le commissaire
+provisoire au sursis, encaisser le prix des ouvrages en cours ou terminés (30'000 fr. selon le rapport
+du commissaire, 77'924 fr. selon l'acte de recours) et encaisser les créances de la société;
+considérant que la recourante fait valoir dans son recours que l'objectif du concordat s'inscrit
+dans une perspective globale au "groupe Y.________" tendant à désintéresser
+les créanciers victimes des agissements de Y.________,
+que ce fait ne ressort d'aucune pièce si ce n'est d'un document intitulé "comparatif des
+options" établi par la recourante elle-même et produit à l'audience du 16 février
+2012,
+que la recourante se prévaut encore de l'accord des créanciers au sursis concordataire requis,
+que ce fait n'est pas non plus rendu vraisemblable, le rapport du commissaire provisoire au sursis ne
+faisant pas état d'un tel accord;
+considérant que la recourante demande l'annulation de la décision pour le motif que le représentant
+de l'office des faillites était présent dans la salle d'audience avant que celle-ci ne débute
+officiellement,
+qu'elle invoque une violation du droit d'être entendu, du respect de l'égalité des parties
+et du principe d'impartialité de l'autorité judiciaire,
+que ce fait ne ressort pas du procès-verbal de l'audience,
+qu'en tout état de cause, il appartenait à la recourante de soulever cette irrégularité
+de procédure immédiatement (Ch. rec. , 26 novembre 2001/792),
+qu'elle pouvait, le cas échéant, demander à être immédiatement entendue sur
+les éventuelles déclarations du représentant de l'office des faillites ou déposer
+une demande de récusation si elle estimait que le juge ne présentait plus, de ce fait, les
+garanties d'impartialité,
+qu'une telle demande doit être formulée aussitôt que la partie a eu connaissance du motif
+de récusation (art. 49 CPC), soit avant la clôture de l'audience lorsque ce motif apparaît
+au cours de celle-ci (Tappy, Code de procédure civile commenté, n. 11 ad art. 49 CPC),
+qu'enfin, la recourante n'indique pas quelle influence cette prétendue irrégularité de
+procédure aurait eue sur la décision attaquée de sorte que celle-ci ne saurait être
+annulée pour ce motif (TF 2P.20/2005 du 13 avril 2005);
+considérant en définitive que le recours, manifestement infondé au sens de l'art. 322
+al. 1 CPC, doit être rejeté et le prononcé confirmé par adoption de motifs,
+que les frais du présent arrêt, par 1'200 fr. , doivent être mis à la charge de la
+recourante.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'200 fr. (mille deux cents
+francs), sont mis à la charge de la recourante.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+11 octobre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Bertrand Demierre, avocat (pour E.________ SA),
+-
+M. Julien Greub, agent d'affaires breveté, commissaire provisoire désigné,
+‑
+Me Jean-Christophe Diserens, avocat (pour U.________ et R.________),
+-
+M. Serge Maret, agent d'affaires breveté (pour W.________ SA),
+-
+Administration fédérale des contributions AFC,
+-
+Mme X.________ (pour I.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé
+à l'Office des poursuites du district de l'Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
