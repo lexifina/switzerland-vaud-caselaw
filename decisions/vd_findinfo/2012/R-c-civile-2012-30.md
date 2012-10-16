@@ -1,0 +1,143 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2012___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2012 / 30"
+decided: "2012-10-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3492801"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2012 / 30
+
+## Regeste
+
+RÉCUSATION | 47 al. 1 let. b CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 16.10.2012 Réc-civile / 2012 / 30
+Vaud Tribunal cantonal Cour administrative 16.10.2012 Réc-civile / 2012 / 30
+Vaud Tribunal cantonal Cour administrative 16.10.2012 Réc-civile / 2012 / 30
+
+RÉCUSATION | 47 al. 1 let. b CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+36/2012
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 16 octobre 2012
+______________________
+Présidence
+de               Mme
+Epard
+,
+présidente
+Juges
+:              MM.
+Meylan et Michellod
+Greffier
+:              M.
+Intignano
+*****
+Art.
+47 let. b CPC; art. 8a al. 3 et 8b al. 4 CDPJ
+Vu la requête déposée le 11 octobre 2012 par la Justice de paix du district d'Aigle tendant
+à la mainlevée définitive de l'opposition au commandement de payer qu'elle a fait notifier
+à W.________ le 17 avril 2012,
+vu la demande déposée le 12 octobre 2012 par le Premier juge de paix du district d'Aigle tendant
+à la récusation de tout son office,
+vu les pièces au dossier ;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 12 octobre 2012 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12
+janvier 2010; RSV 211.02) et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal du 13
+novembre 2007; RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu que la Justice de paix du district d'Aigle a rendu une décision, le 1
+er
+juillet 2011 mettant des frais de justice par 750 fr. à la charge de W.________ et B.L.________,
+solidairement entre eux,
+que W.________ et B.L.________ sont les parents de A.L.________,
+que la Justice de paix du district d'Aigle a fait notifier le 17 avril 2012 un commandement de payer
+à W.________, lequel a formé opposition totale,
+que W.________ est domicilié à [...], soit dans le district d'Aigle, de sorte que la Justice
+de paix de ce district est compétente pour prononcer la mainlevée en question,
+que le premier Juge de paix y voit un motif de récusation de tout son office,
+qu'à teneur de l'art. 47 al. 1 let. b CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils ont agi dans
+la même cause à un autre titre, notamment comme membre d'une autorité,
+qu'à teneur de l'art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d'un motif de récusation possible et se récuse lorsqu'il considère que
+ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit cependant pas être autorisée à
+la légère, mais uniquement pour des motifs sérieux, la récusation devant demeurer
+l'exception (TF 1C_103/2011 du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_643/2010 du 11 janvier 2011 c. 3.1; ATF 136 III 605 c. 3.2.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (ATF 134 I 238 c. 2.1;
+ATF
+134 I 20 c. 4.2),
+qu'en l'espèce, la Justice de paix du district d'Aigle devrait statuer sur la requête de mainlevée
+qu'elle a elle-même déposée à l'encontre d'une opposition à un commandement
+de payer qu'elle a fait notifier,
+qu'à l'évidence, la Justice de paix du district d'Aigle ne peut pas être juge et partie
+dans une cause qui l'intéresse,
+qu'en outre, le montant de 350 fr. déduit en poursuite à l'encontre de W.________ découle
+d'une décision rendue par cette même autorité,
+qu'il y a dès lors lieu d'admettre la demande de récusation présentée le 12 octobre
+2012 par le premier Juge de paix du district d'Aigle,
+qu'en pareil cas, la cause doit être transmise dans l'état où elle se trouve à une
+autre autorité ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'elle sera par conséquent transmise à la Justice de paix du district de la Riviera –
+Pays-d'Enhaut;
+attendu que la présente décision est rendue sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande déposée le 12 octobre 2012 par la Justice de paix du district d'Aigle tendant à
+la récusation en corps de son office est admise.
+II.
+La cause divisant la Justice de paix du district d'Aigle d'avec W.________ est transmise, dans l'état
+où elle se trouve, à la Justice de paix du district de la Riviera – Pays-d'Enhaut.
+III.
+L'arrêt est rendu sans frais, ni dépens.
+IV.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. Robert Gay, premier Juge de paix du district d'Aigle,
+-
+M. W.________ personnellement.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme Virginie Aguet, première Juge de paix du district de la Riviera – Pays-d'Enhaut.
+Le greffier :
