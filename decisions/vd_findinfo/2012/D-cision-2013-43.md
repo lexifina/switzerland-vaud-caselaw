@@ -1,0 +1,166 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 43"
+decided: "2012-10-22"
+published: "2012-10-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3643514"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-394.md"]
+---
+
+# VD Findinfo Décision / 2013 / 43
+
+## Regeste
+
+EXPERTISE MÉDICALE, ADMINISTRATION DES PREUVES, DÉCISION D'IRRECEVABILITÉ | 393 al. 1 let. a CPP (CH), 394 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 22.10.2012 Décision / 2013 / 43
+
+EXPERTISE MÉDICALE, ADMINISTRATION DES PREUVES, DÉCISION D'IRRECEVABILITÉ | 393 al. 1 let. a CPP (CH), 394 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+819
+PE12.008150-BUF
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 22 octobre 2012
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              Mme
+Epard et M. Abrecht
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+393 al. 1 let. a, 394 let. b CPP
+Vu l'
+enquête n° PE12.008150-BUF
+instruite par le Ministère public central, division affaires spéciales, contrôle et mineurs
+contre
+A.________
+et
+I.________
+pour lésions corporelles graves par négligence, d'office et sur plainte d'
+E.________
+,
+vu la requête du 28 septembre 2012, par laquelle E.________ a sollicité la mise en œuvre
+d'une expertise médicale,
+vu l'ordonnance du 2 octobre 2012, par laquelle le procureur a rejeté la requête d'expertise
+présentée par la prénommée (I) et a dit que les frais de l'ordonnance suivaient le
+sort de la cause (II),
+vu le recours interjeté le 3 octobre 2012 par E.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+que le 3 mai 2012, E.________ a déposé plainte notamment contre les Drs A.________ et I.________,
+médecins au [...] (ci-après: S.________),
+qu'en substance, elle a expliqué avoir été hospitalisée le 13 février 2012 au
+S.________ pour une intervention de thyroïdectomie totale, qui a été pratiquée par
+le Dr A.________,
+que les jours qui ont suivi cette intervention, elle se serait plainte notamment de violentes douleurs
+à la jambe auprès des Drs A.________ et I.________,
+que le 19 février 2012, compte tenu de l'aggravation de son état, elle se serait rendue aux
+urgences du S.________, où on lui aurait diagnostiqué une thrombose veineuse profonde, ainsi
+qu'une embolie pulmonaire,
+qu'E.________ reproche aux médecins précités de ne pas lui avoir administré d'anticoagulant
+ensuite de l'intervention pratiquée le 13 février 2012 et d'être ainsi responsables de
+la thrombose et de l'embolie dont elle a été victime,
+que le 28 septembre 2012, E.________ a sollicité la mise en œuvre d'une expertise médicale,
+que par ordonnance du 2 octobre 2012, le procureur a rejeté cette requête,
+qu'il a estimé qu'il ressortait du dossier que plusieurs praticiens avaient d'ores et déjà
+répondu négativement à la question de savoir si un traitement anticoagulant aurait dû
+être administré à la plaignante,
+que selon lui, l'expertise sollicitée par la prénommée serait donc superflue,
+qu'E.________ a recouru contre cette décision, concluant à la réforme de la décision
+entreprise;
+attendu qu'aux termes de l’art. 393 al. 1 let. a CPP (Code de procédure pénale suisse
+du 5 octobre 2007, RS 312.0), le recours est recevable contre les décisions et actes de procédure
+du Ministère public,
+qu'ainsi, la décision du Ministère public d'administrer ou de refuser d'administrer une preuve
+au sens des art. 139 ss CPP est en principe susceptible de recours selon les art. 393 ss CPP (Keller,
+in: Donatsch/Hansjakob/Lieber (éd.), Kommentar zur Schweizerischen Strafprozessordnung, 2010, n.
+16 ad art. 393 CPP),
+que toutefois, l'art. 394 let. b CPP précise que le recours est irrecevable lorsque le Ministère
+public ou l'autorité pénale compétente en matière de contraventions rejette une réquisition
+de preuves qui peut être réitérée sans préjudice juridique devant le tribunal
+de première instance,
+que les décisions relatives à l'administration des preuves ne sont en principe pas de nature
+à causer un dommage juridique irréparable (ATF 136 IV 92 c. 4; ATF 134 III 188 c. 2.3;
+ATF 133 IV 139 c. 4; ATF 99 Ia 437 c. 1; TF 1B_688/2011 du 14 mars 2012),
+que cette règle comporte toutefois des exceptions, notamment lorsque le refus porte sur des moyens
+de preuve qui risquent de disparaître et qui visent des faits décisifs non encore élucidés
+(ATF 133 IV 335 c. 4; ATF 101 Ia 161; ATF 98 Ib 282 c. 4; TF 1B_688/2011 du 14 mars 2012 et les réf.
+citées),
+que par "préjudice juridique", on entend notamment le témoin qui ne pourrait pas
+être entendu ultérieurement dans la procédure, ou qui ne pourrait l'être que difficilement,
+ainsi que la situation où une expertise devrait être menée immédiatement en raison
+des possibles modifications de son objet (Rémy, in: Kuhn/Jeanneret (éd.), Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 6 ad art. 394 CPP),
+que le recours contre le refus de réquisitions de preuves n'est recevable qu'en présence d'un
+préjudice concrètement immédiat, irréparable ou difficile à réparer (TPF
+2011 58 c. 1.2 et les réf. cit.),
+que la preuve y relative incombe au recourant (ibid.),
+qu'en l'occurrence, il s'agit du rejet d'une réquisition de preuves qui pourra être réitérée
+ultérieurement sans préjudice juridique devant le tribunal de première instance,
+que la recourante garde la possibilité de solliciter ultérieurement la mise en œuvre d'une
+expertise médicale devant le tribunal de première instance et, si cette mesure d'instruction
+lui était refusée, de contester ce refus par la voie de l'appel contre le jugement au fond
+(TF 1B_688/2011 du 14 mars 2012; CREP 22 août 2012/485; CREP 6 mars 2012/143),
+que certes, la recourante prétend que son état de santé se dégrade et qu'il y a une
+certaine urgence, les résultats de l'expertise risquant d'être compromis par le retard à
+la mettre en œuvre,
+que, toutefois, cela n'est nullement établi,
+que par conséquent, le recours doit être déclaré irrecevable au regard de l'art.
+394 let. b CPP,
+que les frais de la procédure de recours, par 440 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), seront exceptionnellement laissés à la charge
+de l'Etat (art. 425, 2
+e
+phrase, CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Déclare le recours irrecevable.
+II.
+Dit que les frais de la procédure de recours, par 440 fr. (quatre cent quarante francs), sont laissés
+à la charge de l'Etat.
+III.
+Déclare le présent arrêt exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Jean Lob, avocat (pour E.________),
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur du Ministère public central, division affaires spéciales, contrôle et
+mineurs,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
