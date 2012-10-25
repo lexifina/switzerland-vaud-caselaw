@@ -1,0 +1,100 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___57"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 57"
+decided: "2012-10-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3501931"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 57
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET | 43 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 25.10.2012 Faillite / 2012 / 57
+
+PROCÈS DEVENU SANS OBJET | 43 CDPJ
+
+TRIBUNAL
+CANTONAL
+FF12.015137-121017
+461
+LE
+VICE-PRESIDENT
+DE
+LA COUR DES POURSUITES ET FAILLITES
+_________________________________________________________
+Arrêt du
+25 octobre 2012
+____________________
+Vu le jugement rendu le 24 mai 2012 par la Présidente du Tribunal d'arrondissement de Lausanne,
+à la suite de l'audience du même jour à laquelle les parties ont fait défaut, prononçant
+la faillite d'
+O.________
+,
+à Lausanne, à la requête du
+B.________
+,
+à Genève,
+vu le recours formé contre ce jugement par O.________ le 4 juin 2012,
+vu l'art. 43 al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010; RSV 211.02);
+attendu que, préalablement au jugement du 24 mai 2012, le Président du Tribunal d'arrondissement
+de Lausanne a déclaré la faillite d'O.________, à la requête de [...], par prononcé
+du 19 avril 2012,
+que par décision du 24 août 2012, la cour de céans a confirmé le jugement susmentionné,
+la faillite d'O.________ devant prendre effet le même jour, à 16 heures 15,
+que cette décision est définitive et exécutoire, la faillie n'ayant pas recouru,
+qu'en conséquence, le recours du 4 juin 2012 n'a plus d'objet;
+attendu que le présent arrêt peut être rendu sans frais ni dépens.
+Par
+ces motifs,
+le
+Président de la Cour des poursuites et faillites du Tribunal cantonal,
+autorité
+de recours en matière sommaire de poursuites et de faillite,
+statuant
+en tant que juge unique au sens de l'art. 43 CDPJ,
+prononce
+:
+I.
+Le recours est sans objet.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+vice-président :
+La greffière :
+B.
+Sauterel              C.-S. van Ouwenaller
+Du
+25 octobre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Pierre-Yves Brandt, avocat (pour O.________),
+‑
+B.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
+C.-S. van Ouwenaller
