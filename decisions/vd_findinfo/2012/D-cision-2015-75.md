@@ -1,0 +1,599 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___75"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 75"
+decided: "2012-10-31"
+published: "2014-10-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4751096"
+cites_law: ["switzerland/bund/acts/272/art-308.md"]
+---
+
+# VD Findinfo Décision / 2015 / 75
+
+## Regeste
+
+DROIT DE LA FONCTION PUBLIQUE, CLASSE DE TRAITEMENT, EMPLOYÉ PUBLIC, SALAIRE, CAHIER DES CHARGES, ARBITRAIRE DANS L'APPLICATION DU DROIT, ÉGALITÉ DE TRAITEMENT | 8 Cst., 9 Cst., 19 al. 1 LPers-VD, 6 DecFo
+
+## Text
+
+Waadt Tribunal de Prud'hommes de l'Administration cantonale 31.10.2014 Décision / 2015 / 75
+Vaud Tribunal de Prud'hommes de l'Administration cantonale 31.10.2014 Décision / 2015 / 75
+Vaud Tribunal de Prud'hommes de l'Administration cantonale 31.10.2014 Décision / 2015 / 75
+
+DROIT DE LA FONCTION PUBLIQUE, CLASSE DE TRAITEMENT, EMPLOYÉ PUBLIC, SALAIRE, CAHIER DES CHARGES, ARBITRAIRE DANS L'APPLICATION DU DROIT, ÉGALITÉ DE TRAITEMENT | 8 Cst., 9 Cst., 19 al. 1 LPers-VD, 6 DecFo
+
+TRIBUNAL
+DE PRUD'HOMMES
+DE
+L'ADMINISTRATION CANTONALE
+Palais de justice
+de Montbenon
+1014 Lausanne
+DS09.007224
+DECISION
+rendue
+par le
+TRIBUNAL
+DE
+PRUD'HOMMES DE L'ADMINISTRATION
+CANTONALE
+le
+31 octobre 2014
+dans
+la cause
+C.________
+c/ ETAT DE VAUD
+Recours
+DECFO SYSREM
+*****
+Audience
+: 1
+er
+avril 2014
+Président
+: M. Benoît Morzier, v.-p.
+Assesseurs :
+Mmes Brigitte Serres et Farinaz Fassa Recrosio
+Greffier
+: M. Karim El Bachary-Thalmann
+Statuant
+au complet et à huit clos sur le recours interjeté par l’Etat de Vaud (ci-après :
+le recourant) contre la décision rendue le 31 octobre 2012 par la Commission de recours DECFO-SYSREM
+dans la cause divisant le recourant d'avec C.________ (ci-après : l’intimé), le
+Tribunal de prud'hommes de l'Administration cantonale retient ce qui suit :
+EN
+FAIT
+:
+1.
+Par décision du 31 octobre 2012, dont les
+motifs ont été notifiés aux parties le 27 février 2013, la Commission de recours
+DECFO-SYSREM (ci-après: la Commission) a admis le recours de C.________ (I), modifié sa collocation
+en ce sens qu’à partir du 1
+er
+décembre 2008, son poste est colloqué au niveau 10 de la chaîne 350 (II), et rendu sa
+décision sans frais (II).
+L'état de fait de cette décision est le suivant :
+1.
+Monsieur C.________ (ci-après
+également « le recourant ») travaille à la Police cantonale (ci-après également
+« la POLCANT », « l’intimée » ou « l’autorité
+d’engagement ») au sein du Département de la sécurité et de l’environnement
+(DES), depuis le 1
+er
+juillet 2003.
+2.
+A teneur de l’ancien
+système de rémunération, le recourant occupait la fonction de « chef de bureau
+A » colloqué en classes 20-23, dont le salaire annuel maximum se situait à CHF 109’629.-
+(échelle 2008).
+3.
+Par avenant du 29 décembre 2008, le recourant a été informé de sa nouvelle classification,
+soit qu’il exerce l’emploi-type de « responsable comptable » et que son
+poste est colloqué dans la chaîne 349, niveau 9, dont le salaire annuel maximum est de CHF
+104’569.- (échelle 2008).
+4.
+Par acte du 30 janvier 2009, le recourant conteste la collocation de son poste au niveau 9 de la chaîne
+349 qui, selon lui, ne prend pas en considération son expérience, ses connaissances et son
+cahier des charges. Il estime que son poste exige la gestion d’un grand secteur et revendique ainsi
+une collocation dans un niveau et une classe supérieure, soit le niveau 10 de la chaîne 350.
+5.
+Dans ses déterminations
+du 24 avril 2011, l’autorité intimée propose de rejeter ce recours et maintient sa décision
+de colloquer le poste du recourant au niveau 9 de la chaîne 349.
+6.
+Le recourant n’a pas
+déposé de déterminations finales dans le délai imparti de sorte que l’échange
+d’écritures est terminé.
+En droit, la Commission a, dans un premier temps, analysé de manière systématique les
+différences existant entre la chaîne 349 correspondant à la conduite d’ « unité »
+et la chaîne 350 correspondant à la conduite de « secteur », pour conclure
+qu’au vu du cahier des charges de C.________, la chaîne 350 correspondait mieux à ses
+activités. Elle a ensuite examiné, à l’intérieur de la chaîne 350, les
+compétences requises pour les niveaux 10 et 11. A la suite d’une lecture croisée de ce
+descriptif et du cahier des charges du recourant, l’autorité a constaté que le poste
+de C.________ répondait bien aux exigences du niveau 10 de la chaîne 350. Enfin, pour une analyse
+complète de la situation, la Commission a comparé le poste du recourant avec ceux d’un
+responsable comptable travaillant au Service pénitentiaire (SPEN) (niveau 9 de la chaîne 349)
+et d’un responsable financier travaillant au Service de la population (SPOP) (niveau 10 de la chaîne
+350). Elle a conclu que le principe de l’égalité de traitement avait été respecté.
+2.
+a)
+Par mémoire de recours du 2 avril 2013, l’Etat
+de Vaud, représenté par la Délégation du Conseil d’Etat aux ressources humaines,
+a saisi le Tribunal de céans et pris, sous suite de frais, les conclusions suivantes :
+« La
+décision rendue le 31 octobre 2012 et notifiée le 28 février 2013 par la Commission de
+recours DECFO-SYSREM est annulée» ;
+« La collocation
+du poste de « responsable comptable » au niveau 9 de la chaîne 349 est confirmée ».
+A l’appui de son recours, l’Etat de Vaud a produit de nouvelles pièces, notamment les
+extraits du descriptif des fonctions (chaînes 349 et 350), le cahier des charges de M. C.________,
+ainsi que ceux d’autres collaborateurs de l’ACV (n° 800, 9222 et 720), pour une comparaison
+et une analyse complète de la situation.
+b)
+Par courrier du 11 juin 2013, la Commission a
+confirmé les motifs de sa décision du 31 octobre 2012.
+c)
+Par courrier du 1
+er
+août 2013, l’intimé a conclu au rejet du recours déposé part l’Etat de
+Vaud.
+3.
+Les parties ont renoncé à la fixation d’une audience. Le Tribunal a tenu une audience
+de délibération le 1
+er
+avril 2014.
+EN
+DROIT:
+I.
+a)
+Selon l'article 6 du Décret du 25 novembre 2008 relatif à la nouvelle classification des fonctions
+et à la nouvelle politique salariale de l'Etat de Vaud (ci-après: « le Décret »
+; RSV 172.320), le collaborateur dont la fonction n'a pas fait l'objet d'une transition directe peut
+déposer un recours auprès de la Commission.
+Aux termes de l'article
+7 du Décret, les décisions de la Commission peuvent faire l'objet d'un recours auprès
+du tribunal de céans dans les trente jours suivant la notification de la décision attaquée.
+La législation sur la procédure administrative est applicable pour le surplus. Selon la jurisprudence
+cantonale la plus récente (CACI 12 juin 2014/317, consid. 3c), le recours au Tribunal de prud’hommes
+de l’Administration cantonale est un recours de droit administratif au sens des articles 92 et
+suivants de la loi du 28 octobre 2008 sur la procédure administrative (LPA-VD ; RSV 173.36). Il
+convient donc d’appliquer ces règles, notamment l’art. 95 LPA-VD relatif au délai
+de recours et l’art. 99 LPA-VD qui renvoie aux dispositions du chapitre IV de la loi, consacré
+au recours administratif (art. 73 ss LPA-VD).
+b)
+En l'espèce, la décision attaquée est une décision finale rendue par la Commission
+dans un cas de transition indirecte. Le recourant a pris part à la procédure devant l’autorité
+de première instance et est atteint par la décision attaquée. Il dispose également
+d'un intérêt digne de protection à ce qu'elle soit annulée ou modifiée. Ces
+points ne sont d'ailleurs pas contestés. Le recours en réforme et le recours en nullité
+sont ainsi ouverts (art. 90 LPA-VD). Interjeté en temps utile (art. 95 LPA-VD) par une partie qui
+y a intérêt (art. 75 LPA-VD), le recours motivé, dont les conclusions ne sont pas nouvelles,
+est recevable en la forme (art. 79 LPA-VD).
+II.
+Aux termes de l'article 19 alinéa premier
+LPers-VD, les rapports de travail entre l'Etat de Vaud et ses collaborateurs sont régis par le droit
+public, sauf dispositions particulières contraires. L'application du droit public aux rapports de
+travail entre l'Etat et ses employés a pour corollaire que l'Etat est tenu de respecter les principes
+constitutionnels régissant l'ensemble de son activité, tels la légalité, l'égalité
+de traitement, l'interdiction de l'arbitraire ou encore le droit d'être entendu (ATF 2P.63/2003
+du 29 juillet 2003, consid. 2.3 non publié).
+Selon la jurisprudence précitée, le Tribunal de prud’hommes de l’Administration
+cantonale n’est pas une autorité administrative hiérarchiquement supérieure à
+la Commission, mais une autorité judiciaire qui est distincte de l’administration et qui n’a
+pas de rôle exécutif. Alors que le recours auprès de la Commission est un exemple de recours
+auprès du supérieur hiérarchique, qui doit être soumis aux règles qui gouvernent
+le recours administratif (art. 73 ss LPA-VD), le recours au tribunal de céans est soumis à
+des règles de procédure propres aux autorités judiciaires, soit aux articles 92 et suivants
+LPA-VD (CACI 12 juin 2014/317, consid. 3c).
+Il en découle que le tribunal de céans ne saurait substituer son appréciation à celle
+de l’autorité de première instance, comme le ferait une autorité supérieure
+saisie d’un recours administratif (Bovay et al., Procédure administrative vaudoise, n. 1 ad
+art. 76 LPA-VD). Dans sa pratique, le tribunal de céans a déjà relevé que la Commission
+bénéficie d’une compétence exclusive qui lui assure une vision d’ensemble
+des problématiques touchant l’adéquation entre les activités prévues par le
+cahier des charges et le niveau de poste lors de transitions semi-directes et indirectes, et que sa spécialisation
+assure aux collaborateurs concernés l’intervention d’une autorité de proximité
+spécialement conçue pour connaître des litiges qui lui sont soumis (cf. par ex. décision
+du 17 juin 2013 dans la cause DS09.006452). Sur cette base, le Tribunal de prud’hommes de l’Administration
+cantonale intervient comme juridiction de seconde instance chargée de vérifier la conformité
+des décisions qui lui sont soumises avec les règles applicables, notamment avec les principes
+de droit administratif rappelés ci-dessus. Les parties ne sauraient donc se contenter de faire réexaminer
+leur cause devant le tribunal de céans, comme elles le feraient devant l’autorité administrative
+supérieure. Elles doivent au contraire indiquer précisément la violation du droit ou la
+constatation inexacte ou incomplète des faits pertinents qu’elles invoquent (art. 98 LPA-VD).
+Le tribunal de céans n’examine en principe que les griefs qui sont formulés de façon
+compréhensible par la partie recourante.
+III.
+a)
+Dans
+son mémoire, le recourant invoque en premier lieu un excès ou un abus du pouvoir d’appréciation
+de la Commission, qui aurait substitué sa propre appréciation à celle de l’autorité
+administrative, en créant ainsi une inégalité de traitement et en versant dans l’arbitraire.
+b)
+L'autorité commet un excès du pouvoir d'appréciation lorsqu'elle se reconnaît à
+tort un pouvoir d'appréciation dans un domaine où la loi ne lui en accorde pas ou, au contraire,
+lorsqu'elle s'estime à tort liée par la réglementation qu'elle applique. En d’autres
+termes, l'autorité qui commet un excès de son pouvoir d'appréciation est celle qui sort
+du cadre de sa liberté d'appréciation en usant d'une faculté qui ne lui appartient pas,
+par exemple en optant pour une solution différente de celle qui s'offre à elle. On peut également
+ajouter l'hypothèse d'un excès de pouvoir négatif visant le cas de l'autorité qui,
+au lieu d'utiliser sa liberté d'appréciation, se considère comme liée (Benoît
+BOVAY, Procédure administrative, Berne 2000, p. 395).
+En droit suisse, l'abus
+de pouvoir vise deux cas : l'expression est tout d'abord synonyme de détournement de pouvoir (on
+désigne ainsi l'acte accompli par l'autorité dans les limites de ses attributions, mais pour
+des motifs étrangers à ceux dont elle doit s'inspirer); mais elle peut également être
+comprise plus largement, soit dans le sens d'un comportement arbitraire ou recouvrant une violation manifeste
+de certains droits ou principes constitutionnels (Benoît BOVAY, Thibault BLANCHARD et Clémence
+GRISEL RAPIN, Procédure administrative vaudoise annotée, Bâle 2012, note 2.2 ad art. 76
+et références citées).
+S'agissant plus particulièrement
+de la législation applicable au cas d'espèce, l'article 5 alinéa premier du Décret
+dispose que la Commission de recours est chargée de traiter les contestations individuelles liées
+au niveau du poste. L’article 6 prévoit pour le surplus l’application subsidiaire de
+la LPA-VD à son septième alinéa.
+Selon l’exposé
+des motifs et projet de décret n° 124 de novembre 2008
+« cette
+voie de recours ne sera ouverte qu’aux collaborateurs dont la fonction n’a pas fait l’objet
+d’une transition directe. En effet, pour cette dernière, la collocation d’un collaborateur
+particulier ne pourra faire l’objet d’aucune discussion, sauf à remettre en cause la
+classification de l’ensemble de la fonction. Or, la mission de la commission de recours consistera
+à examiner des situations particulières, soit par exemple le cas de collaborateurs qui estimeraient
+que leur cahier des charges individuel leur permettrait de prétendre à une classification supérieure.
+Elle n’aura pas pour vocation de réexaminer la classification arrêté par le Conseil
+d’Etat. En revanche, la commission sera compétente à l’exclusion de toute autre
+juridiction pour traiter des recours relatifs au niveau de poste dans le cas de transition semi-directe
+ou indirecte »
+(ad. Art. 5, 6 et 7,
+p. 16).
+c)
+En l’espèce, la Commission a comparé
+le cahier des charges de l’intimé avec l’emploi-type « responsable comptable »
+et s’est basée sur le descriptif des fonctions de la chaîne 350 pour lui attribuer le
+niveau 10. Elle a donc agi dans les limites de ses attributions. La Commission aurait au contraire agi
+en dehors de ses compétences si elle avait analysé les évaluations qui ont conduit à
+la grille des fonctions, ce qui n’est pas le cas en l’espèce.
+En outre, la Commission
+n’a pas statué au-delà des prétentions de l’intimé puisque celui-ci avait
+réclamé l’emploi-type responsable comptable, niveau 10 de la chaîne 350. La Commission
+n’a donc pas non plus excédé ses compétences en ce sens qu’elle aurait statué
+ultra petita
+.
+En définitive, la
+Commission n’a pas excédé ou abusé de son pouvoir d’appréciation quand
+elle a octroyé la chaîne 350 en examinant exclusivement la correspondance entre le cahier des
+charges au moment de la bascule et les caractéristiques de l’emploi-type, de la chaîne
+et du niveau telles qu’elles résultent de la grille des fonctions (cf. par exemple décisions
+du TriPAc du 25 juin 2014 dans la cause DS09.007813, et du 4 septembre 2014 dans la cause DS09.002370).
+IV.
+a)
+Il
+sied maintenant d’examiner si l’attribution de la chaîne 350, niveau 10 est conforme
+avec le principe d’interdiction de l’arbitraire.
+b)
+Selon la jurisprudence, l'arbitraire, prohibé par l'article 9 Cst., ne résulte pas du seul
+fait qu'une autre solution pourrait entrer en considération ou même qu'elle serait préférable;
+le Tribunal n'annulera la décision attaquée que lorsque celle-ci est manifestement insoutenable,
+qu'elle se trouve en contradiction claire avec la situation de fait, qu'elle viole gravement une norme
+ou un principe juridique indiscuté, ou encore lorsqu'elle heurte de manière choquante le sentiment
+de la justice et de l'équité; pour qu'une décision soit annulée pour cause d'arbitraire,
+il ne suffit pas que la motivation formulée soit insoutenable, il faut encore que la décision
+apparaisse arbitraire dans son résultat (ATF 127 I 54, p. 56, c. 2b, ATF 127 I 60, p. 70, c. 5a;
+ATF 126 I 168, p. 170, c. 3a; ATF 125 I 166, p. 168, c. 2a).
+c)
+En l’occurrence, le recourant soulève que la Commission a, de façon erronée, considéré
+dans sa décision que M. C.________ remplissait les conditions de la chaîne 350 (conduite de
+secteur), quand bien même il n’a sous ses ordres que des assistants en gestion comptable représentant
+2,8 ETP. De ce fait, la Commission aurait perdu de vue que, au moment de la bascule, l’indépendance,
+la marge de manœuvre, la portée des activités et les responsabilités inhérentes
+au poste occupé par M. C.________ étaient limitées. En d’autres termes, son poste
+a certes trait à la gestion de la bonne marche de la Division des finances (ci-après :
+DFin), mais force est de constater, à la lecture du plan des postes de la POLCANT, qu’il est
+subordonné au poste de Chef de la DFin qui est responsable de tous les aspects financiers touchant
+le service.
+Pour sa part, la Commission a considéré que l’éventail des activités remplies
+par l’intimé constitue l’entier de l’activité de la DFin, de sorte que l’intimé
+représente, au sein de la POLCANT, la part organisation et gestion de ce qui touche aux finances.
+Malgré un nombre limité de subordonnés, soit quatre assistants comptables pour un total
+de 2,8% ETP, l’intimé effectue de la conduite dite de « secteur », car
+il organise et planifie tout ce qui touche aux finances. Le Tribunal ne peut que se rallier à cette
+appréciation en relevant que, selon le cahier des charges de l’intimé, ce dernier s’occupe
+de tout ce qui touche aux finances au sein du service. On peut citer à titre d’exemple que
+« l’intimé dirige et assure la bonne marche de la Dfin, collabore à la planification
+et à l’élaboration des projets de budgets de la Police cantonale, est responsable des
+bouclements de fin d’année, participe à la planification financière et d’investissements,
+etc ». En d’autres termes, et comme le relève l’intimé avec raison, le
+bureau dans lequel il exerce son activité doit répondre à une soixantaine de responsables
+de budget ainsi qu’à plus de mille collaborateurs par rapport à leurs dépenses de
+service et à leurs indemnités. Le Tribunal considère donc, à l’instar de la
+Commission, que l’emploi de l’intimé ne s’attache pas qu’à la conduite
+d’une petite unité, mais à la gestion d’un secteur en soi. L’argument du
+recourant selon lequel l’indépendance, la marge de manœuvre, la portée des activités
+et les responsabilités inhérentes au poste occupé par M. C.________ sont limitées
+ne permet pas de renverser cette appréciation. Si l’intimé est subordonné au poste
+de Chef de la Dfin, il dispose de grandes capacités organisationnelles et jouit d’une marge
+de manœuvre assez importante dans plusieurs domaines puisqu’il « dirige et assure
+le bon fonctionnement de la Dfin, organise et gère les tâches incombant à l’entité,
+est responsable des bouclements de fin d’année, procède à des analyses d’organisation
+et comptables ponctuelles en fonction des demandes, peut être amené à établir les
+projets de propositions au Conseil d’Etat développe et adapte les procédures relatives
+à la gestion des questions comptables et financières, etc », avec une indépendance
+moyenne dans l’organisation. En effet, l’intéressé doit informer et renseigner
+le Chef de la Dfin sur le déroulement de son activité et de celle du bureau ainsi que sur toutes
+les demandes reçues directement. Partant, la Commission n’est pas tombée dans l’arbitraire
+en qualifiant l’indépendance de l’intimé de moyenne.
+Au vu de ce qui précède, l’octroi de la chaîne 350 – conduite de secteur n’apparaît
+pas insoutenable. Le recours est également mal fondé sur ce point, de sorte que le grief d’arbitraire
+doit être écarté.
+V.
+a)
+Le recourant soulève également que la Commission s’est limitée à analyser uniquement
+les niveaux 10 et 11 de la chaîne 350 sans examiner les compétences requises pour le niveau
+9 de la chaîne 349. Il faut dès lors examiner si la décision entreprise a correctement
+classé l’intéressé dans la chaîne 350, qui couvre les niveaux 10 à 12.
+b)
+Selon l’article 3 ANPS et la nouvelle politique salariale du système de classification des
+fonctions au système de rémunération (p. 47), une transition indirecte est un cas qui
+s’explique par le fait que la ou les fonctions de départ ne renvoient pas automatiquement
+à un seul emploi-type. Et les emplois-types qui leur sont attribuables
+a
+priori
+peuvent se décliner en plusieurs niveaux
+de fonction. La lecture des cahiers des charges des postes concernés est doublement nécessaire :
+pour déterminer d’abord le bon emploi-type, et pour ensuite choisir le bon niveau de fonction.
+En résumé, la bascule d’un poste a consisté, dans un premier temps et sur la base
+du cahier des charges (ou de tout autre mode de connaissance du contenu du poste), à déterminer
+l’emploi-type et donc la chaîne de fonctions qui pouvaient lui être rattachés. Dans
+un deuxième temps, la mise en regard du cahier des charges et du descriptif des fonctions, […],
+a permis de déterminer le niveau
+a priori
+adéquat. La collocation du poste
+ainsi obtenue a ensuite été soumise à la validation du Conseil d’Etat (p. 51).
+En l’occurrence, la Commission a dans un premier temps examiné le cahier des charges de l’intimé,
+pour conclure ensuite que la chaîne 350 correspondait mieux à ses activités et non pas
+la chaîne 349. Dans le premier cas, la chaîne de fonctions de référence est la chaîne
+« 350 – conduite de secteur », avec trois niveaux possibles de fonction, soit
+les niveaux 10, 11 et 12. Dans le second cas, la chaîne de fonctions de référence est
+la chaîne « 349 – conduite d’unité », avec trois niveaux possibles
+de fonction, soit les niveaux 7, 8 et 9.
+C’est donc à juste titre que la Commission s’est limitée à analyser uniquement
+les niveaux 10 et 11, l’activité de l’intimée correspondant à la chaîne
+350. Partant la Commission n’a pas versé dans l’arbitraire, de sorte que ce grief doit
+être rejeté.
+c)
+Examinant
+la question de la chaîne, la Commission a relevé que la chaîne 349 n’était
+pas appropriée au recourant, dès lors que son poste répondait bien aux exigences du descriptif
+des fonctions du niveau 10 de la chaîne 350 – conduite de secteur. En effet, la grande expérience
+de l’intimé dans son domaine d’activité lui permet de prétendre à une
+équivalence de niveau bachelor. De même, il dispose des connaissances approfondies dans divers
+domaines, lui permettant de prétendre à un savoir-faire approfondi. En plus, l’indépendance
+de l’intimé peut être qualifiée de moyenne puisqu’il renseigne et informe
+le chef Dfin sur le déroulement de son activité et de celle du bureau, ainsi que sur toutes
+les demandes reçues directement. La Commission relève encore que les tâches auxquelles
+l’intimé est confronté sont moyennement diversifiées et complexes, en ce sens qu’il
+traite des questions comptables et financières et suit des procédures préétablies.
+Les interlocuteurs avec lesquels l’intimé traite sont des assistants en gestion comptable.
+Ils sont donc familiers avec le langage technique approprié, ce qui rend la transmission des messages
+d’une difficulté moyenne. Enfin, selon le cahier des charges et le plan des postes, l’intimé
+effectue l’organisation et la gestion de la Dfin qui est constitué de quatre assistants en
+gestion comptable, soit un petit groupe de personnes. Ces tâches sont très largement opérationnelles
+car elles font partie de la gestion journalière de la Dfin, comme par exemple « l’imputation
+des factures des fournisseurs, le contrôle de la caisse, le suivi des loyers, les décomptes,
+etc ». En outre, l’intimé déploie une activité de conseil à des niveaux
+simples et opérationnels en ce sens qu’il développe et adapte les procédures relatives
+aux questions comptables et financières.
+Le Tribunal de céans ne peut que se rallier à cette analyse en relevant qu’au niveau
+des compétences professionnelles, bien que l’intimé ne soit pas au bénéfice
+d’un bachelor, requis par le niveau 10, il peut entrer dans cette chaîne en vertu de son expérience
+et des caractéristiques et exigences liées aux tâches prévues par son cahier des
+charges. En effet, l’absence d’un diplôme n’est pas un empêchement à
+l’accès à un niveau, car ce qui est essentiellement déterminant se sont les caractéristiques
+du cahier des charges, dans la mesure où celui-ci fixe les responsabilités et les tâches
+liées à un poste. Le diplôme est un indice du niveau des compétences normalement
+nécessaires pour exercer les tâches de ce niveau, mais non pas une condition sine qua non de
+l’accès à ce niveau. Or, l’intimé a des tâches et une expérience
+qui lui permettent de remplir de manière adéquate les exigences du niveau 10 de la chaîne
+350.
+La titularité d’un diplôme est une condition à laquelle une autorité peut subordonner
+la nomination d’un collaborateur de l’Etat. S’agissant d’un collaborateur de
+l’Etat déjà nommé, avec un cahier des charges correspondant à un emploi-type,
+à une chaîne et à un niveau déterminés, la collocation doit être conforme
+à cet emploi-type, cette chaîne et ce niveau malgré l’absence de diplôme, dans
+la mesure où l’expérience professionnelle compense effectivement cette absence. Il faut
+rappeler, à cet égard, que les différents critères des descriptifs de fonctions nécessitent,
+pour l’évaluation d’un poste, un jugement global – qui correspond, dans la grille
+des critères,  à l’addition des points obtenus par chacun d’eux ; à
+ce titre, aucun, pris isolément, n’a la portée d’une condition d’accès
+sine qua non
+au niveau décrit. Faire de la titularité d’un diplôme une telle condition reviendrait
+à donner à ce seul critère une portée qu’aucun des autres n’a ;
+les autres critères s’en trouveraient dévalorisés, alors même qu’ils
+rendent mieux compte des activités, des tâches et responsabilités attachées aux postes
+(cf. décision de la Commission du 27 octobre 2011 dans la cause DS09. 002406, p. 7, consid. V.3).
+L’examen des autres compétences exigées par le niveau 10 ne conduit pas à un résultat
+différent. Bien que l’intimé soit subordonné au Chef de la Dfin, il dispose de grandes
+capacités d’organisation et jouit d’une marge de manœuvre moyenne dans plusieurs
+domaines (cf. supra ch. III.c). Au surplus, on peine à voir quelles compétences personnelles
+de l’intimé imposeraient le niveau 9. Il n’apparaît en effet pas que la quasi-totalité
+des projets qu’il a gérés ou conduits ont été avalisés et surveillés
+par le Chef de la Dfin. La subordination de l’intimé au Chef de la Dfin ne modifie pas cette
+appréciation, dans la mesure où il organise et gère tout ce qui touche aux finances, de
+manière (relativement) autonome.
+S’agissant de la conduite, à la lecture du descriptif des fonctions 349 – niveau 9 et
+celui de 350 – niveau 10, on constate que les deux niveaux se distinguent essentiellement par la
+grandeur du groupe conduit. Le niveau 9 requiert une conduite d’un grand groupe alors que le niveau
+10 requiert la conduite d’un petit groupe, ce qui est  manifestement le cas ici. Le critère
+de la diversité des fonctions s’avère moins pertinent dès lors que le niveau 9 parle
+d’une très faible diversité et le 10 d’une faible diversité. A cela s’ajoute
+que les tâches de l’intimé, comme le démontre avec raison la Commission, sont largement
+opérationnelles. Par conséquent, c’est à juste titre que cette dernière a considéré
+que l’activité de l’intimé correspondait plutôt au niveau 10 de la chaîne
+350.
+Enfin, le rare exercice de l’activité de conseil requise pour le niveau 10 ne s’oppose
+pas à une telle conclusion. En effet, selon le cahier des charges de l’intimé, celui-ci
+« traite avec la comptabilité du Département toutes les questions comptables et financières,
+développant ou adaptant au besoin les procédures y relatives, collabore à la planification
+et à l’élaboration des projets de budgets de la Police cantonale, etc », ce
+qui englobe manifestement l’activité de conseil. Ainsi, dans le cadre du pouvoir d’examen
+limité du Tribunal de céans, il n’apparaît pas arbitraire que l’intimé
+ait été classé en niveau 10. Les conditions de la description de la chaîne 349 –
+niveau 9 n’étant pas remplies, de sorte que le recours apparaît mal fondé sur ce
+point.
+V.
+a)
+Le recourant soutient encore que la décision rendue par la Commission viole le principe de l'égalité
+de traitement. Il voit notamment une inégalité par rapport aux autres responsables comptables
+de l’administration cantonale qui n’ont pas été colloqués dans la chaîne
+350 – niveau 10 bien que leurs activités soient similaires à celles de l’intimé.
+En fait, ces activités restent assez simples et ne confèrent pas de difficultés particulières
+dans l’accomplissement des tâches quotidiennes. Le recourant fait grief à la Commission
+de ne pas prendre en compte l’ensemble des caractéristiques des postes considérés.
+De plus, la Commission se serait bornée à constater que l’intimé effectuait certaines
+tâches sans les remettre dans leur contexte, soit notamment sans tenir compte de la réalité
+structurelle au sein de la POLCANT.
+b)
+Selon la jurisprudence, une décision viole le principe de l'égalité consacré à
+l'article 8 alinéa premier Cst. (RS 101) lorsqu'elle établit des distinctions juridiques qui
+ne se justifient par aucun motif raisonnable au regard de la situation de fait à réglementer
+ou qu'elle omet de faire des distinctions qui s'imposent au vu des circonstances, c'est-à-dire lorsque
+ce qui est semblable n'est pas traité de manière identique et ce qui est dissemblable ne l'est
+pas de manière différente. Il faut que le traitement différent ou semblable injustifié
+se rapporte à une situation de fait importante (ATF 134 I 23, p. 42, c. 9.1). Une norme réglementaire
+viole l'article 8 alinéa premier Cst. lorsqu'elle n'est pas fondée sur des motifs sérieux
+et objectifs, qu'elle est dépourvue de sens et d'utilité ou qu'elle opère des distinctions
+juridiques que ne justifient pas les faits à réglementer. Dans l'examen auquel il procède
+à cette occasion, le juge ne doit toutefois pas substituer sa propre appréciation à celle
+de l'autorité dont émane la réglementation en cause. Il doit au contraire se borner à
+vérifier si la disposition litigieuse est propre à réaliser objectivement le but visé
+par la loi, sans se soucier, en particulier, de savoir si elle constitue le moyen le mieux approprié
+pour atteindre ce but (ATF 128 V 217, p. 219, c. 2).
+Dans la fonction publique, le principe de l’égalité de traitement exige en principe qu’à
+travail égal, un même salaire soit versé. Une différence de rémunération
+peut toutefois être justifiée par l’âge, l’ancienneté, les charges de
+famille, le degré de qualification, les risques, le genre et la durée de formation, l’horaire
+de travail, le domaine d’activité, etc., cela sans violer le droit constitutionnel. Le principe
+de l’égalité de traitement est violé lorsque dans un rapport de service public,
+un travail identique n’est pas rémunéré de la même manière. La question
+de savoir si des activités différentes doivent être considérées comme identiques
+dépend d’appréciations pouvant s’avérer différentes. Dans les limites
+de l’interdiction de l’arbitraire et du principe de l’égalité de traitement,
+les autorités sont habilitées à choisir, parmi le grand nombre de critères concevables,
+ceux qui doivent être considérés comme déterminants pour la rémunération
+des fonctionnaires (ATF 123 I 1, p. 8, c. 6c, JdT 1999 I 547). Le Tribunal fédéral admet notamment
+que le principe selon lequel une rémunération égale doit être réservée
+à un travail égal ne peut être battu en brèche que pour des motifs objectifs. Toutefois,
+en matière d'égalité de traitement des fonctionnaires, le Tribunal fédéral fait
+preuve d'une certaine retenue (ATF 129 I 161, p. 165, c. 3.2) et admet qu'un système de rémunération
+présente nécessairement un certain schématisme (ATF 121 I 102, p. 104, c. 4).
+En outre, lorsque les preuves administrées permettent à l’autorité de recours de
+se forger une conviction et que, procédant d’une façon non arbitraire à une appréciation
+anticipée des preuves qui lui sont encore proposées, l’autorité a la certitude que
+ces dernières ne pourraient plus l’amener à modifier son opinion, elle peut mettre un
+terme à l’instruction (arrêt du TF non publié 9C_282/2013 du 31 août 2013,
+c. 4.4).
+c)
+En l’occurrence, le recourant reprend, à titre de comparaison, les mêmes postes déjà
+soumis à l’autorité inférieure et fournit un autre cahier des charges d’un
+responsable comptable, colloqué au niveau 9 – chaîne 349. Il expose que par rapport aux
+deux postes colloqués au niveau 9 (n° 800 et 9222), ces derniers ont de la conduite comparable
+à celle de l’intimé et que, au niveau des missions, on retrouve les activités similaires
+entre tous ces postes. On ne saurait ainsi colloquer le poste de M. C.________ à un niveau supérieur.
+S’agissant du poste au sein du SPOP, colloqué au niveau 10 (n° 720), son titulaire intervient
+de manière plus significative dans le domaine financier, dès lors qu’il doit conseiller
+et appuyer les chefs de division ainsi que le chef de service, analyser des dossiers et, le cas échéant,
+rédiger des rapports, participer à des projets, renseigner les instances de contrôle et
+travailler en étroite collaboration avec l’unité financière départementale.
+Cela démontre que les affaires traitées par ce collaborateur sont plus pointues et confèrent
+plus d’indépendance compte tenu du positionnement du collaborateur dans les différents
+projets qui lui sont confiés. L’appréciation globale des activités démontre
+qu’elles sont plus opérationnelles au niveau 9 qu’au niveau 10, et qu’on ne saurait
+donc colloquer le poste de M. C.________ au niveau 10 dès lors que son champ d’intervention
+est principalement comptable.
+d)
+La comparaison des missions, faite par le Tribunal de céans, fait apparaître que celles de
+l’intimé exigent davantage de responsabilités et d’autonomie, comme le constate
+avec raison la Commission dans sa décision. Ainsi, il ressort du cahier des charges des postes n°
+800 et n° 9222 que leurs titulaires doivent veiller à l’organisation, à la gestion
+et à l’encadrement des activités comptables, élaborer les projets budgétaires,
+effectuer le suivi budgétaire, renseigner et informer le Chef de service, etc. Pour sa part, l’intimé,
+en sus des activités susmentionnées, doit établir des projets de proposition au Conseil
+d’Etat pour les demandes de crédit, ainsi que développer et adapter les procédures
+relatives à la gestion des questions comptables et financières. En plus, il peut remplacer
+le chef de la Dfin. Les titulaires de postes comparés ne font pas ces activités, raison pour
+laquelle l’on observe également une différence significative dans la comparaison des
+descriptifs de fonctions s’agissant du critère des compétences professionnelles. Ainsi,
+le cahier des charges de l’intimé requiert douze ans d’expérience, alors que ceux
+des postes comparés n’exigent que 5 à 8 ans d’expérience professionnelle.
+Au vu de ce qui précède, une similitude sur quelques critères ne permet pas à elle
+seule de déduire que ces fonctions ont des exigences identiques et que, partant, doivent être
+colloquées de la même manière. La marge de manœuvre et la responsabilité de
+l’intimé sont plus larges que celles des postes comparés, comme on a vu plus haut. Il
+n’est ainsi pas contraire au principe de l’égalité de traitement que l’intimé
+soit colloqué à un niveau supérieur. Partant, ce grief doit être écarté.
+Pour ce qui est du poste du SPOP, colloqué au niveau 10 (n° 720), il ressort du cahier des
+charges produit, que son titulaire effectue tout ce qui touche aux finances, à l’instar de
+l’intimé. Les deux sont responsables du bon déroulement et de la bonne marche en matière
+de gestion financière, et cela dans le respect des règles et normes comptables (l’élaboration
+et planification du budget, bouclement des comptes, gestion et organisation de la comptabilité de
+leur service, etc). Il est vrai que, comme le relève le recourant, le titulaire de poste comparé,
+en sus des tâches susmentionnées, conseille et appuie les chefs de division ainsi que le chef
+de service dans le domaine financier (renseigner les instances de contrôle et préparer les
+document comptables nécessaires, travailler en étroite collaboration avec l’unité
+financière départementale, etc), activité que l’intimé effectue que rarement
+et à un niveau départemental. Toutefois, le descriptif des fonctions de niveau 10 ne requiert
+qu’un rare exercice de l’activité de conseil. Par conséquent, cette différence
+n’est pas déterminante en l’espèce et ne saurait justifier un classement inférieur.
+Ainsi, et contrairement à l’avis du recourant, il n’existe pas de différence significative
+entre les deux postes, de sorte que la collocation de l’intimé au niveau 10 respecte le principe
+de l’égalité de traitement.
+En définitive, le recourant ne saurait se prévaloir d’une inégalité de traitement,
+dans la mesure où des situations semblables ont été traitées de manière semblable
+et des situations différentes de manière différente. En conséquence, ce grief doit
+également être écarté.
+VI.
+A la lumière de ce qui précède, le recours doit être rejeté.
+Les frais de seconde instance sont arrêtés à fr. 500.- et mis à la charge du recourant
+(art. 47 al. 2, 49 al. 1 LPA-VD, art. 4 al. 3 du tarif des frais judiciaires en matière de droit
+administratif et public du 11 décembre 2007; RSV 173.36.5.1).
+Il n’y a pas lieu d’allouer de dépens à l’intimé, qui n’a pas
+engagé de frais externes pour la présente procédure.
+Par ces motifs,
+le Tribunal de prud’hommes de l’Administration cantonale
+prononce :
+I.
+Le recours est rejeté
+.
+II.
+La décision du 31
+octobre 2012 de la Commission de recours DECFO-SYSREM est confirmée.
+III.
+Les frais
+de deuxième instance, par fr. 500.- (cinq cents francs), sont mis à la charge du recourant
+Etat de Vaud et sont compensés par l'avance de frais effectuée.
+IV.
+Il n’y a pas lieu à l’allocation
+de dépens.
+Le
+Président:
+Le Greffier:
+Benoît
+Morzier, v.-p.
+Karim
+El Bachary-
+Thalmann
+Du
+31 octobre 2014
+La décision rendue ce jour est notifiée au recourant, par l’intermédiaire de son
+représentant, ainsi qu'à l'intimée, par l’intermédiaire de son conseiller.
+Un appel au sens des art. 308 ss CPC peut être formé dans un délai de
+trente
+jours
+dès la notification de la présente
+décision en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé.
+La décision objet de l'appel doit être jointe.
+Le greffier:
