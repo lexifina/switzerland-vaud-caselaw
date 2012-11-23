@@ -1,0 +1,164 @@
+---
+decision_id: "vd_findinfo_Faillite___2012___60"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2012 / 60"
+decided: "2012-11-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3547506"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2012 / 60
+
+## Regeste
+
+LIQUIDATION SOMMAIRE DE LA FAILLITE, CERTIFICAT D'INSUFFISANCE DE GAGE, INSOLVABILITÉ, PREUVE, PAIEMENT | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.11.2012 Faillite / 2012 / 60
+
+LIQUIDATION SOMMAIRE DE LA FAILLITE, CERTIFICAT D'INSUFFISANCE DE GAGE, INSOLVABILITÉ, PREUVE, PAIEMENT | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF12.022349-121871
+495
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 novembre 2012
+__________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Muller et Mme Rouleau
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+174 al. 2 LP; 322 al. 1 CPC
+Vu le jugement rendu le 28 septembre 2012, par le Président du Tribunal d'arrondissement de Lausanne,
+prononçant, par défaut de la requérante, la faillite de
+L.________
+,
+à Mont-sur-Lausanne, le vendredi 28 septembre 2012 à 10 heures, à la réquisition
+d'
+O.________
+,
+à Lausanne,
+vu le recours déposé le 10 octobre 2012 par le failli, demandant en substance l'annulation
+du prononcé de faillite et l'octroi de l'effet suspensif,
+vu la décision du vice-président de la cour de céans du 16 octobre 2012, admettant la
+requête d'effet suspensif et ordonnant, à titre de mesures conservatoires, l'inventaire et
+l'audition du failli,
+vu la lettre du 16 octobre 2012 du président de la cour de céans transmettant au recourant
+un extrait au 12 octobre 2012 des registres de l'Office des poursuites du district de Lausanne, et lui
+impartissant un délai non prolongeable au 26 octobre 2012 pour se déterminer au sujet de cette
+pièce s'il le souhaitait,
+vu les pièces au dossier;
+attendu qu'en vertu de l'art. 174 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889;
+RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+au sens du CPC (Code de procédure civile du 19 décembre 2008; RS 272),
+que, selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours,
+que le recours déposé par L.________ le 10 octobre 2012 a été formé en temps
+utile et dans les formes requises de sorte qu'il est recevable;
+attendu que le 7 mai 2012, l'Office des poursuites du district de Lausanne (ci-après: l'office)
+a délivré à O.________ un certificat d'insuffisance de gage d'un montant de 155'519 fr.
+90,
+que le 16 mai 2012, à la réquisition d'O.________, l'office a notifié à L.________
+une commination de faillite dans la poursuite n° 6'223'451 en paiement du même montant,
+que le 8 juin 2012, la poursuivante a requis du Président du Tribunal d'arrondissement de Lausanne
+qu'il prononce la faillite de L.________,
+qu'aux termes de l'art. 158 al. 1 et 2 LP, le créancier qui s'est vu délivrer un certificat
+d'insuffisance de gage peut procéder par voie de saisie ou de faillite, suivant la qualité
+du débiteur, et est dispensé du commandement de payer s'il agit dans le mois suivant l'octroi
+du certificat,
+que selon l'art. 171 LP, le juge saisi d'une réquisition de faillite doit prononcer celle-ci, sauf
+dans les cas mentionnés aux art. 172 à 173a LP qui n'étaient pas réalisés en
+l'espèce,
+que c'est donc à juste titre que le premier juge a prononcé la faillite du recourant, les délais
+des art. 166 et 168 LP ayant été respectés et les parties régulièrement convoquées
+à l'audience de faillite;
+attendu qu'en vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité judiciaire supérieure, qui peut annuler le jugement lorsque le débiteur,
+en déposant le recours, rend vraisemblable sa solvabilité et établit par titre que depuis
+lors, la dette, intérêts et frais compris, a été payée ou que la totalité
+de la somme à rembourser a été déposée à l'intention du créancier,
+ou encore que celui-ci a retiré sa réquisition de faillite,
+que ces deux conditions, soit le remboursement de la dette à l'origine de la faillite ou le retrait
+de la requête de faillite et la vraisemblance de solvabilité, sont cumulatives (Bosshard, Le
+recours contre le jugement de faillite, in JT 2010 II 113 ss, p. 127),
+qu'en l'espèce, le recourant n'établit, ni même n'allègue satisfaire aux deux conditions
+posées par l'art. 174 al. 2 LP permettant l'annulation de la faillite,
+qu'il ressort au contraire de l'extrait des registres au 12 octobre 2012 que la poursuite n° 6'223'451
+n'a pas été acquittée,
+que le recourant n'a au surplus produit aucune pièce ni fourni aucune explication rendant vraisemblable
+sa solvabilité,
+qu'en conséquence, il ne satisfait à aucune des deux conditions posées par l'art. 174
+al. 2 LP;
+attendu que le recours, manifestement mal fondé au sens de l'art. 322 al. 2 CPC, doit être
+rejeté et le jugement entrepris confirmé,
+que, compte tenu de l'effet suspensif accordé, la faillite de L.________ prend effet le 23 novembre
+2012
+à
+16 heures 15,
+que les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de L.________ prenant effet le 23 novembre 2012
+à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+23 novembre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. L.________,
+‑
+Me Stéphane Coletta, avocat (pour O.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
