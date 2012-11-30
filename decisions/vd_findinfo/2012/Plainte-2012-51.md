@@ -1,0 +1,257 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___51"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 51"
+decided: "2012-11-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3559973"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-028.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-279.md", "switzerland/bund/acts/281.1/art-280.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 51
+
+## Regeste
+
+PLAINTE{LP}, REJET DE LA DEMANDE, ACTION EN VALIDATION DE SÉQUESTRE, CADUCITÉ DU SÉQUESTRE, EXÉCUTION DU SÉQUESTRE, ORDONNANCE DE SÉQUESTRE, SÉQUESTRE{LP} | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.11.2012 Plainte / 2012 / 51
+
+PLAINTE{LP}, REJET DE LA DEMANDE, ACTION EN VALIDATION DE SÉQUESTRE, CADUCITÉ DU SÉQUESTRE, EXÉCUTION DU SÉQUESTRE, ORDONNANCE DE SÉQUESTRE, SÉQUESTRE{LP} | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA12.033294-121870
+51
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 novembre 2012
+______________________
+Présidence
+de               M.
+Sauterel
+,
+vice-président
+Juges
+:              Mme
+Carlsson et M. Muller
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+17 et 280 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.D.________
+,
+et
+B.D.________
+,
+tous deux à Sockholm (Suède), contre la décision rendue le 3 octobre 2012, à la suite
+de l’audience du 13 septembre 2012, par le Président du Tribunal d’arrondissement de
+Lausanne, autorité inférieure de surveillance, admettant la plainte déposée par
+C.________
+,
+à Chambésy, annulant la décision de l'
+OFFICE
+DES POURSUITES DU DISTRICT DE LAUSANNE
+du 6 août
+2012 et ordonnant le maintien du séquestre n° 6'014'092 ordonné à la requête
+de C.________ à l'encontre d'A.D.________ et B.D.________.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+21 novembre 2011, à la requête de C.________, le Juge de paix du district de Lausanne a rendu
+une ordonnance de séquestre n° 6'014'092 à l'encontre de l'hoirie de feue C.D.________,
+portant sur les montants de 1'850'000 francs, avec intérêt à 5 % l'an dès le 19 novembre
+2008, 2'250 fr., avec intérêt à 5 % l'an dès le 27 août 2009, 3'125 fr., avec
+intérêt à 5 % l'an dès le 27 août 2009, sous déduction de 300'000 fr.,
+valeur au 19 mai 2010, et mentionnant comme titre et date de la créance ou cause de l'obligation
+"Arrêt de la Cour des poursuites et faillites du Tribunal cantonal du Canton de Vaud du 27
+août 2009", le cas de séquestre invoqué étant celui de l'art. 271 al. 1 ch.
+4 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1). L'ordonnance désigne
+comme objet à séquestrer:
+"Avoirs
+et biens, valeurs, papiers valeurs, titres, certificats, titres représentatifs de marchandises,
+documents, cessions, créances actuelles et futures en salaire ou toute autre forme de revenu liée
+à son activité professionnelle, droits réels ou personnels, participations et autres biens,
+métaux précieux, valeurs et droits patrimoniaux de quelque nature que ce soit, en compte courant
+ou autre, dépôt, coffre-fort, dossiers ou autre, sous nom propre ou pseudonyme, désignation
+conventionnelle ou numérique, ou au nom de tiers, notamment de personnes morales, truts, trustees,
+ou autres entités similaires, mais appartenant en réalité à l'Hoirie de feue Madame
+C.D.________, actuellement en main de la Banque UBS SA, en son siège de Lausanne, Pl. St-François
+16, 1003 Lausanne, soit notamment mais sans s'y limiter, le compte n° [...]"
+Le 22 novembre 2012, l'Office des poursuites du district de Lausanne (ci-après: l'office) a adressé
+aux parties l'ordonnance de séquestre pour notification. Le même jour, il a envoyé à
+l'établissement bancaire concerné un avis de séquestre.
+Le procès-verbal de séquestre a été notifié le 1
+er
+décembre 2011 au séquestrant et le 13 décembre 2011 à la séquestrée.
+b)
+Par acte du 12 décembre 2011, C.________ a déposé auprès de la Chambre patrimoniale
+cantonale une demande en paiement et en validation de séquestre contre l'hoirie de feue C.D.________.
+Le 13 décembre 2011, le juge de paix a informé l'office de l'opposition formée par A.D.________
+et B.D.________ contre l'ordonnance de séquestre scellée le 21 novembre 2011 à l'instance
+de C.________.
+Par prononcé du 13 janvier 2012, dont la motivation a été adressée pour notification
+aux parties le 1
+er
+mars 2012, le Juge de paix du district de Lausanne a admis l'opposition au séquestre et révoqué
+l'ordonnance de séquestre du 21 novembre 2011. En substance, le magistrat a motivé sa
+décision par le fait qu'au stade de la vraisemblance, C.________ n'était plus titulaire d'aucune
+créance envers A.D.________ et B.D.________, une convention signée entre parties le 19 mai
+2010 ayant apparemment mis fin au litige les opposant par le versement, en faveur du séquestrant,
+de la somme de 300'000 francs. C.________ réclamait en effet à l'origine plus de 1'850'000
+fr., se fondant d'une part sur une reconnaissance de dette signée en sa faveur le 17 août 2007
+par C.D.________, pour l'aide et l'assistance fournies pendant cinq ans, et d'autre part sur un arrêt
+de la Cour des poursuites et faillites du 27 août 2009 levant provisoirement l'opposition formée
+par C.D.________ au commandement de payer notifié dans la poursuite n° 250'601 de l'Office
+des poursuites et faillites de Lavaux à la requête de C.________, portant sur la même
+créance.
+Le 12 mars 2012, C.________ a recouru contre le prononcé du premier juge.
+Parallèlement, dans un prononcé du 30 mars 2012, le juge délégué de la Chambre
+patrimoniale cantonale a suspendu le procès ouvert par le séquestrant contre A.D.________ et
+B.D.________ jusqu'à droit connu sur la procédure d'opposition au séquestre.
+Par arrêt du 30 mai 2012, la Cour des poursuites et faillites du Tribunal cantonal a rejeté
+le recours formé par C.________ et maintenu l'opposition au séquestre, confirmant que la convention
+du 19 mai 2010, postérieure à la reconnaissance de dette – et à son arrêt du
+27 août 2009 – ne rendait pas suffisamment vraisemblable que celui-ci dispose encore d'une
+quelconque créance à l'encontre des débiteurs.
+C.________ a recouru au Tribunal fédéral contre cette décision par acte du 2 juillet 2012.
+Par lettre du 31 juillet 2012, le plaignant a informé l'office du retrait du recours au Tribunal
+fédéral. Il y a indiqué que selon lui, le séquestre devait cependant maintenir ses
+effets en raison de l'action en validation du séquestre déposée le 12 décembre 2011
+auprès de la Chambre patrimoniale, ce jusqu'à droit connu au fond.
+c)
+Par courrier recommandé du 6 août 2012, l'office a informé C.________ que compte tenu
+du caractère définitif de l'arrêt de la Cour des poursuites et faillites du 30 mai 2012,
+le séquestre pouvait être considéré comme caduc.
+Dans un prononcé du 9 août 2012, le Juge délégué de la Chambre patrimoniale
+cantonale a quant à lui ordonné la reprise de cause de l'action en validation de séquestre.
+2.
+Le 17 août 2012, C.________ a déposé une plainte au sens de l'art. 17 LP contre la
+décision du 6 août 2012 de l'Office des poursuites du district de Lausanne dont il a demandé
+l'annulation. Il a également requis le maintien du séquestre n° 6'014'092 jusqu'à
+droit connu au fond dans l'action en validation de séquestre.
+Le 4 septembre 2012, A.D.________ et B.D.________ se sont déterminés, concluant au rejet de
+la plainte.
+Le 6 septembre 2012, l'Office s'est également déterminé en faveur du rejet de la plainte.
+3.
+Par prononcé du 3 octobre 2012, à la suite de l'audience du 13 septembre 2012 tenue contradictoirement,
+le Président du Tribunal d'arrondissement de Lausanne, en sa qualité d'autorité inférieure
+de surveillance en matière de poursuite pour dettes et de faillite, a admis la plainte déposée
+le 17 août 2012 par C.________ (I), annulé la décision de l'Office des poursuites du district
+de Lausanne du 6 août 2012 (II), ordonné le maintien du séquestre n° 6'014'092 (III),
+et rendu la décision sans frais ni dépens (IV).
+En droit le premier juge a considéré que le juge du séquestre, limité par le seul
+examen des preuves immédiatement disponibles, statuait sur la base d'éléments immédiatement
+appréciables et en vertu d'un contrôle limité à la simple vraisemblance et que, pour
+cette raison, un séquestre ne pouvait être levé au stade précédant la décision
+relative à sa validation car cela constituerait une grave atteinte aux droits du créancier
+séquestrant.
+4.
+Par acte du 10 octobre 2012, A.D.________ et B.D.________
+ont recouru contre ce prononcé, concluant, avec suite de frais et dépens, à son annulation
+et à la levée du séquestre n° 6'014'092.
+Le 23 octobre 2012, l'office s'est déterminé en faveur de l'admission du recours.
+Par acte du 30 octobre 2012, l'intimé a conclu au rejet du recours.
+En droit :
+I.
+La procédure de plainte n'est pas soumise au CPC (Code de procédure civile du 19 décembre
+2008; RS 272), mais demeure régie par la LVLP (loi d'application dans le Canton de Vaud de la loi
+fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955; RSV 280.05). Le recours
+contre la décision de l'autorité inférieure de surveillance est ainsi prévu par l'art.
+18 LP et les art. 28 à 33 LVLP.
+Déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP) et exposant les griefs des recourants
+(art. 28 al. 3 LP), le recours est recevable.
+II.
+En l'occurrence, il convient de déterminer si les droits séquestrés doivent le rester
+alors que l'opposition au séquestre a été définitivement admise et le séquestre
+révoqué, mais qu'une action en paiement et en validation de séquestre est pendante.
+Le séquestre est une mesure conservatoire urgente destinée à éviter que le débiteur
+ne dispose de ses biens pour les soustraire à l'action future de son créancier. Par sa nature,
+le séquestre est provisoire (Stoffel/Chabloz, Commentaire romand, n. 1 ad art. 280 LP). Etant nécessairement
+provisoire, il doit être confirmé par une procédure de validation permettant au débiteur
+de contester après-coup l'existence de la créance. Le créancier qui est parvenu à
+faire bloquer les biens du débiteur doit entreprendre les démarches nécessaires pour valider
+la mesure. En cas d'inaction ou d'échec du créancier, les effets du séquestre cessent
+de plein droit (art. 280 LP) (Stoffel/Chabloz, op. cit., nn. 1 et 2 ad art. 279 LP).
+La loi prévoit à l'art. 280 LP trois cas dans lesquels le séquestre devient caduc: il
+en est ainsi lorsque le créancier laisse écouler les délais qui lui sont assignés
+à l'art. 279 LP (ch. 1), retire ou laisse périmer son action ou sa poursuite (ch. 2) et, enfin,
+voit son action définitivement rejetée (ch. 3). Cette énumération n'est pas exhaustive.
+La mesure est aussi caduque notamment lorsque la réquisition de séquestre a été définitivement
+rejetée à l'issue de la procédure d'opposition (Reeb, Les mesures provisoires dans la
+procédure de poursuite, in RDS 1997 II 421, spéc. p. 485 et les réf. citées). Ainsi
+l'ordonnance de séquestre annulée dans le cadre de la procédure d'opposition (art. 278
+LP) rend caduc le séquestre.
+En effet, par rapport à la procédure en validation de séquestre, la procédure d'opposition
+au séquestre suit une systématique identique à celle des mesures provisionnelles du CPC.
+Ainsi, comme évoqué plus haut, le créancier ayant obtenu un séquestre doit, en cas
+d'opposition selon l'art. 278 LP, en obtenir la confirmation par le juge de l'opposition, sous peine
+de caducité. S'il n'obtient pas la confirmation de la mesure obtenue du juge du séquestre,
+il conserve le droit d'ouvrir, au fond, une action en paiement. Dans le cas où, après avoir
+obtenu le séquestre, le créancier ouvre déjà action au fond et que par la suite,
+l'opposition au séquestre est admise et l'ordonnance de séquestre révoquée, le procès
+au fond peut continuer mais le séquestre, mesure provisoire de caractère temporaire, tombe.
+Autrement dit, le fait qu'un procès au fond en validation de séquestre soit pendant n'empêche
+nullement le séquestre de devenir caduc, dans l'hypothèse où l'opposition au séquestre
+est admise, en première instance ou en instance de recours, postérieurement à l'ouverture
+d'action. C'est la portée même de la procédure d'opposition au séquestre.
+III.
+Vu ce qui précède, il se justifie d'admettre
+le recours et de réformer la décision de l'autorité inférieure de surveillance du
+3 octobre 2012 en ce sens que la plainte déposée par C.________ le 17 août 2012 à
+l'encontre de la décision du 6 août 2012 de l'Office des poursuites du district de Lausanne
+est rejetée.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que la plainte déposée par C.________ le
+17 août 2012 est rejetée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+30 novembre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Yvan Henzer, avocat (pour A.D.________ et B.D.________),
+‑
+Me Philippe Currat, avocat (pour C.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
