@@ -1,0 +1,967 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 18"
+decided: "2012-11-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20121115144135539_e.html"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-098.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-274.md", "switzerland/bund/acts/281.1/art-275.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-280.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 18
+
+## Regeste
+
+SÉQUESTRE{LP}, OBJET SÉQUESTRÉ, PREUVE FACILITÉE, SÉQUESTRABILITÉ, SÛRETÉS, PRÉTENTION DE TIERS, OPPOSITION{LP} | 271 al. 1 ch. 5 LP, 272 al. 1 LP, 273 al. 1 LP, 278 al. 1 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 30.11.2012 Séquestre / 2012 / 18
+
+SÉQUESTRE{LP}, OBJET SÉQUESTRÉ, PREUVE FACILITÉE, SÉQUESTRABILITÉ, SÛRETÉS, PRÉTENTION DE TIERS, OPPOSITION{LP} | 271 al. 1 ch. 5 LP, 272 al. 1 LP, 273 al. 1 LP, 278 al. 1 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE12.016620-121554
+/ KE12.016620-121577 / KE12.016498-121578
+492
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 novembre 2012
+______________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Muller
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 5, 272 al. 1, 273 al. 1 et 278 al. 1 et 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe des trois recours exercés
+respectivement par
+A.W.________
+,
+à Morges, par
+F.________
+,
+à Crissier,
+B.W.________
+,
+à Lausanne,
+Z.________
+,
+à Pully, et
+V.________SA
+,
+à Morges, et par
+R.________
+,
+à Etoy, contre le prononcé rendu le 12 juillet 2012, à la suite de l’audience du
+5 juillet 2012, par le Juge de paix du district de Morges, dans la cause en séquestre les divisant.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 30 octobre 2001, le Juge instructeur de la Cour civile du Tribunal cantonal a pris acte, pour valoir
+jugement au fond, de la transaction passée entre A.W.________ et R.________, le premier se reconnaissant
+débiteur du second d'un montant de 420'000 fr., valeur échue, plus intérêt à
+3 % l'an dès le 1
+er
+novembre 2001.
+Sur la base de ce jugement, R.________ a requis la poursuite de A.W.________, à qui un commandement
+de payer a été notifié le 1
+er
+septembre 2006, dans la poursuite n° 3'107'565 de l'Office des poursuites de Morges-Aubonne. Continuée
+à la suite du retrait de l'opposition formée par le poursuivi, cette poursuite a abouti, le
+23 novembre 2007, à la délivrance d'un acte de défaut de biens pour le montant de 497'559
+fr. 70, frais et intérêts compris. A la suite d'une nouvelle poursuite contre A.W.________,
+n° 1'003'177'157 de l'Office des poursuites du district de Morges, un nouvel acte de défaut
+de biens a été délivré à R.________, le 14 juin 2011, pour le montant de 490'533
+fr. 25.
+Le 3 février 2012, à la requête de R.________, le Juge de paix du district de Morges a
+rendu une ordonnance de séquestre contre A.W.________, à concurrence de 490'533 fr. 25, sur
+les "avoirs dont [il] est titulaire auprès de la Banque [...] SA, dont le siège est [à
+Zurich], en particulier sur le compte bancaire dont le numéro IBAN est le CH [...], ainsi que sur
+tout compte bancaire, safe et autres dépôts dont [il] est l'ayant droit économique ou
+sur lesquels il dispose d'une procuration." Le séquestre a porté, exécuté par
+l'Office des poursuites du district de Zurich le 15 février 2012.
+Le 8 mars 2012, R.________, sous la plume de son conseil, a requis du juge précité le séquestre
+"du compte bancaire dont M. A.W.________ est le titulaire, ouvert auprès de la Banque [...]
+[à Zurich], sous le numéro XXXX", en précisant ce qui suit :
+"Le
+séquestre de ce compte a déjà été ordonné par votre autorité le 3
+février 2012 [réf. : …]. Toutefois, pour des raisons indépendantes de la volonté
+du requérant, la validation dudit séquestre n'a pas été requise en temps utile, raison
+pour laquelle M. R.________ se voit dans l'obligation de déposer une nouvelle requête de séquestre.
+Il
+paraît utile de préciser qu'une ordonnance de séquestre n'emporte pas force de chose jugée
+et que, si le créancier laisse s'écouler le délai de validation, le séquestre devient
+caduc (art. 280 ch. 1 LP). Par conséquent, il est possible de requérir successivement plusieurs
+séquestres portant sur les mêmes biens."
+Cette écriture mentionne en outre une requête de mainlevée définitive adressée
+par R.________ au même magistrat le 7 mars 2012. Il ressort du prononcé attaqué (p. 12)
+que cette requête tendait à la mainlevée définitive de l'opposition formée par
+A.W.________ à la poursuite n° 6'088'832, en validation – anticipée – du séquestre.
+Le 9 mars 2012, le Juge de paix du district de
+Morges a rendu une ordonnance de séquestre contre A.W.________, à concurrence de 490'533 fr.
+25, sur les "avoirs dont [il] est titulaire auprès de la Banque [...] SA, dont le siège
+est [à Zurich], sur le compte bancaire dont le numéro est XXXX (client n° ZZZZ)."
+Cette ordonnance a été adressée pour exécution à l'Office des poursuites du
+district de Zurich, qui s'est déclaré incompétent, considérant que l'argent déposé
+sur le compte bancaire était une créance, laquelle était située au domicile du débiteur.
+Par lettre du 30 mars 2012, R.________ a requis du juge de paix qu'il ordonne à l'Office des poursuites
+du district de Morges d'exécuter le séquestre du 9 mars 2012 ou de s'assurer que le compte
+déjà séquestré par l'Office des poursuites de Zurich le reste. Le 2 avril 2012, il
+a formellement requis du juge de paix qu'il rende une nouvelle ordonnance de séquestre afin que
+l'Office des poursuites du district de Morges puisse agir, et ce, le jour même, l'Office des poursuites
+zurichois s'apprêtant à lever le séquestre.
+Le 2 avril 2012, le Juge de paix du district de Morges a rendu une ordonnance de séquestre contre
+A.W.________, à concurrence de 490'533 fr. 25, sur les "avoirs dont [il] est titulaire auprès
+de la Banque [...] SA, dont le siège est [à Zurich], en particulier sur le compte bancaire
+dont le numéro IBAN est le CH [...], ainsi que sur tout compte bancaire, safe et autres dépôts
+dont [il] est l'ayant droit économique ou sur lesquels il dispose d'une procuration."
+b)
+Le
+2 avril 2012, l'Office des poursuites du district de Morges a reçu l'ordonnance précitée,
+qu'il a enregistrée sous n° 6'177'594. Le 19 avril 2012, il a dressé le procès-verbal
+du séquestre, lequel a porté sur dix-sept comptes ouverts auprès de la Banque [...] SA,
+dont douze au nom de tiers. La requête de séquestre sur ces douze comptes ayant été
+retirée par actes des 29 juin et 5 juillet 2012, l'extrait suivant du procès-verbal de séquestre
+ne porte que sur les cinq comptes encore bloqués :
+N°
+Objets
+Valeur
+estimative
+Fr.
+Observations/Revendications
+1
+Numéro
+de client : ZZZZ A.W.________ – No compte [...], montant bloqué Fr. 10'410.10
+10'410.10
+Du 2 avril
+2012 : réception de l'ordonnance de séquestre […]
+[et] adressé
+par télécopie et sous pli recommandé un avis concernant le séquestre d'une créance
+à la Banque [...] SA [à Zurich]
+Du 16 avril
+2012 : adressé un courrier par télécopie à [la banque] leur demandant de nous indiquer
+si et dans quel mesure le séquestre aurait porté.
+Des 18 et 19
+avril 2012 : reçu la réponse de [la banque…qui] précise que le montant de Fr. 550'000.00
+a déjà été bloqué par une autre instance.
+2
+Numéro
+de client : ZZZZ A.W.________ – No compte [...], montant bloqué
+Fr. 1'370.32
+1'370.32
+3
+Numéro
+de client : ZZZZ A.W.________ – No compte [...], montant bloqué EUR 301.37 (au cours de 1.2018)
+362.10
+4
+Numéro
+de client : ZZZZ A.W.________ – No compte [...], montant bloqué
+USD 1'543.43
+(au cours de 0.91892)
+1'418.20
+5
+Numéro
+de client : ZZZZ A.W.________ – No compte XXXX, montant bloqué
+Fr. 113'799.10
+113'799.10
+c)
+Par
+acte du 26 avril 2012, accompagné d'un onglet de vingt-neuf pièces sous bordereau, A.W.________
+a formé opposition au séquestre, concluant à sa levée immédiate et, préliminairement,
+à ce que R.________ soit astreint à la constitution de sûretés par 663'799 fr. 10.
+Par acte du 26 avril 2012 également, F.________, B.W.________, Z.________ et V.________SA ont formé
+opposition au séquestre, concluant à sa levée immédiate et, préliminairement,
+à ce que R.________ soit astreint à la constitution de sûretés de 663'799 fr. 10.
+En substance, ils ont fait valoir que le compte n° XXXX avait été ouvert sous le
+nom de la Coopérative L.________, dont ils avaient détenu les parts sociales et qui avait été
+en outre leur débitrice, avant qu'ils ne vendent ces parts sociales et ces créances, pour le
+prix de 695'000 fr., à une société en formation N.________SA, que le produit de cette
+vente avait été versé sur le compte précité et que A.W.________ n'en était
+ni le titulaire ni le bénéficiaire économique. Ils ont produit un onglet de neuf pièces
+sous bordereau, savoir notamment :
+-
+copie de la lettre adressée le 16 avril 2012 par la Banque [...] SA à A.W.________ l'informant
+du blocage, sur ordre de l'Office des poursuites de Morges, des "sommes citées en titres sur
+vos propres comptes ainsi que sur les comptes dont vous avez procuration", notamment comme suit
+:
+"
+Numéro
+de client : ZZZZ Guignard Philippe
+N° de
+compte: XXXX              Montant bloqué
+: CHF 113'799.10
+N° de
+compte: [...]              Montant bloqué
+: CHF   10'410.10
+N° de
+compte: [...]              Montant bloqué
+: CHF     1'370.32
+N° de
+compte: [...]              Montant bloqué
+: EUR       301.37
+N° de
+compte: [...]              Montant bloqué
+: USD    1'543.43
+[…]
+De plus, nous
+vous informons que le montant de CHF 550'000.00 bloqué sur votre compte n° XXXX en faveur
+de séquestre n° 24935 de l'office des poursuites de Zurich, reste bloqué jusqu'à
+nouvel avis écrit de ce dernier."
+-
+un extrait du compte XXXX pour la période du 25 au 31 juillet 2011, attestant du versement d'un
+montant de 68'492 fr. 45, valeur au 25 juillet 2011, par le notaire Baillif, à titre d'acompte sur
+la vente de la Coopérative L.________;
+-
+un extrait du même compte pour la période du 1
+er
+au 31 janvier 2012 attestant d'un solde de 44'976 fr. 20 avant le versement d'un montant de 618'861 fr.
+65, valeur au 23 janvier 2012, par le notaire Baillif, à titre de produit de la vente de la coopérative;
+-
+un extrait du registre du commerce au 25 avril 2012 relatif à la coopérative;
+-
+une convention de vente et d'achats de parts sociales du 23 juin 2011, par laquelle F.________, B.W.________,
+Z.________ et V.________SA, tous représentés par A.W.________, ont vendu à N.________SA
+en formation leurs parts sociales de la coopérative ("intervenante" à la convention
+et également représentée par A.W.________) ainsi que leurs créances respectives envers
+elle pour le prix de 695'000 fr., payable comme suit :
+- 69'500 fr. d'acompte déjà versé sur le compte [du notaire Ballif – également
+signataire de la convention et auteur de la légalisation des signatures]
+- 625'500 fr. devant être acquitté au plus tard le 31 décembre 2011.
+Il
+était précisé que l'acheteur autorisait le notaire à libérer immédiatement
+l'acompte en faveur des vendeurs, dès réception en son étude de tous les certificats de
+parts sociales de la société et des cessions de créances des vendeurs signées par
+ces derniers;
+-
+une convention intitulée "Exécution de vente et d'achat de parts sociales" signée
+le 20 janvier 2012 par les quatre vendeurs, tous représentés par un tiers au bénéfice
+d'une procuration, par N.________SA, acheteur, et par le notaire Ballif – également auteur
+de la légalisation des signatures – dont la teneur est notamment la suivante :
+"[…]
+le solde du prix d'achat de CHF 625'500.- devait être crédité par l'acheteur […]
+au plus tard le 31 décembre 2011;
+[…]
+le vendeur a accepté, à la demande de l'acheteur, que l'exécution de la vente intervienne
+finalement au plus tard le 20 janvier 2012.
+[…]
+le solde du prix d'achat de CHF 625'500.- a été crédité par l'acheteur […]
+5.
+EXECUTION
+Suite
+au paiement de l'intégralité du prix d'achat par l'acheteur, le vendeur remet à celui-ci,
+en exécution de la convention du 23 juin 2011 :
+-
+trois anciens certificats de parts sociale de [la coopérative], dûment endossés en faveur
+de l'acheteur;
+-
+trois nouveaux certificats de parts sociales établis au nom de l'acheteur;
+-
+quatre cessions de créances;
+-
+[…];
+-
+trois lettres de démission des actuels administrateurs de [la coopérative].
+Sur la base
+de ces constatations, les parties confirment la bonne et complète exécution de la convention
+du 23 juin 2011 et s'en donnent mutuellement quittance. […]";
+Le 24 mai 2012, R.________ a déposé un procédé écrit, concluant, principalement,
+au rejet des oppositions et à la confirmation du séquestre n° 6'177'594, subsidiairement
+à la confirmation du séquestre "s'agissant des comptes bancaires dont l'instruction permettra
+de déterminer que A.W.________ est le titulaire ou l'ayant droit économique". Il a produit
+un onglet de trente-six pièces sous bordereau. Il a en outre requis la production, en mains de la
+Banque [...] SA, des documents d'ouverture des comptes bancaires séquestrés, des formulaires
+A d'identification de l'ayant droit économique relatifs à ces comptes et les extraits de compte,
+avis d'écritures, de crédits et de débits et autres relevés périodiques et annuels
+y relatifs à compter du 1
+er
+janvier 2006 jusqu'au 24 mai 2012.
+Le 29 juin 2012, le conseil de R.________ a adressé au Juge de paix une lettre de la teneur suivante
+(extraits) :
+"[…]
+Un
+premier examen des pièces produites par la Banque [...] SA m'a permis de constater ce qui suit.
+1.
+Absence de la documentation
+bancaire requise
+En
+dépit de la formulation claire du bordereau de pièces requises du 24 mai 2012, les formulaires
+A de l'identification de l'ayant droit économique font défaut s'agissant de l'ensemble des
+comptes dont A.W.________ est le titulaire.
+Les
+documents d'ouverture de compte font également défaut, en particulier s'agissant du compte
+n° XXXX dont on prétend que le titulaire serait devenu la Coopérative L.________ sans
+que l'on connaisse le moindre détail de ce changement.
+Je
+requiers dès lors en mains de A.W.________ les pièces suivantes l'acte de vente des parts coopératives
+[…].
+En
+outre, au regard de la carence de [la banque] dans la production des pièces, je requiers la production
+en mains de cet établissement des formulaires A de l'identification de l'ayant droit économique
+ainsi que des documents d'ouverture de tous les comptes dont A.W.________ est le titulaire, en particulier
+du compte n° XXXX.
+[…]
+3.
+De l'organisation de
+l'insolvabilité de A.W.________
+A.W.________
+se dit insolvable alors que les relevés de ses comptes exposent une activité lucrative considérable.
+Ainsi, selon le relevé du compte n° [...], le total des mouvements entre le 1
+er
+janvier 2009 et le 24 mai 2012, soit à peine plus de trois ans, se monte à plus de deux millions
+de francs (un montant total de CHF 2'191'709.33  a été porté au crédit du compte)!
+Il est rappelé que le compte susmentionné ne figure pas dans la déclaration d'impôt
+de A.W.________…
+[…]
+4.
+Levée du séquestre
+[…]R.________
+retire sa requête de séquestre sur [sept] comptes [au nom de tiers].
+Il
+paraît utile de préciser que M. R.________ n'a requis le séquestre que des comptes de
+A.W.________. Si [la banque et l'office des poursuites] ont cru bon de saisir les comptes susmentionnés,
+ce n'est pas par hasard mais parce que A.W.________ a entretenu une savante confusion.
+[…]"
+A l'appui de cet écriture, le conseil précité a produit des extraits des dix comptes bancaires
+– dont cinq au nom de tiers – sur lesquels son client demandait le maintien du séquestre.
+Par la suite, le 5 juillet 2012, R.________ a retiré sa requête de séquestre sur les cinq
+comptes au nom de tiers.
+Le  2 juillet 2012, A.W.________ a produit un onglet de pièces complémentaires sous bordereau.
+D'autres pièces ont encore été produites par les parties à l'audience du 5 juillet
+2012.
+2.
+Par décision rendue sous forme de dispositif
+le 12 juillet 2012, le Juge de paix du district de Morges a pris acte du retrait de la requête de
+séquestre sur douze comptes au nom de tiers (I à VII), confirmé l'ordonnance de séquestre
+du 2 avril 2012 sur les cinq comptes au nom de A.W.________, objets des chiffres 1 à 5 du procès-verbal
+de séquestre (VIII), astreint R.________ à fournir des sûretés à hauteur de
+132'759 fr. 80 sur le compte séquestré n° XXXX (IX), statué sur les frais et dépens
+relatifs au retrait de la requête de séquestre sur les douze comptes au nom de tiers (X à
+XVIII), mis les frais, fixés à 990 fr., compensés par l'avance de frais de A.W.________,
+à la charge de ce dernier (XIX) et dit qu'il verserait à R.________ la somme de 2'500 fr. à
+titre de défraiement de son représentant professionnel (X), mis les frais, fixés à
+990 fr., compensés par l'avance de frais de F.________, B.W.________, Z.________ et V.________SA,
+à la charge de ces derniers (XXI) et dit qu'ils verseraient à R.________ la somme de 2'500
+fr. à titre de défraiement de son représentant professionnel (XXII).
+Toutes les parties ayant requis, en temps utile, la motivation de cette décision, les motifs du
+prononcé leur ont été adressés pour notification le 16 août 2012.
+3.
+a)
+A.W.________ a recouru par acte du 27 août
+2012, concluant, avec suite de frais et dépens, à ce que le prononcé soit "réformé,
+respectivement annulé en ce sens que la (les) demande(s) de séquestre présentée(s)
+par R.________ sont intégralement rejetées et les Ordonnances de séquestre de la Justice
+de Paix, annulées".
+L'intimé R.________ s'est déterminé le 1
+er
+octobre 2012, concluant, avec suite de frais et dépens, au rejet du recours.
+Le même jour, les intimés F.________ et consorts ont déclaré par lettre s'en remettre
+à justice.
+b)
+F.________, B.W.________, Z.________ et V.________SA ont recouru par acte du 27 août 2012, concluant,
+avec suite de frais et dépens de première et de deuxième instance, principalement à
+la réforme du prononcé en ce sens que le séquestre du compte n° XXXX est levé,
+subsidiairement à son annulation et au renvoi de la cause au premier juge pour nouvelle décision.
+Ils ont produit des pièces nouvelles à l'appui de leur recours et encore une pièce nouvelle
+le 1
+er
+octobre 2012.
+Le 1
+er
+octobre 2012, l'intimé R.________ s'est déterminé sur le recours, concluant, avec suite
+de frais et dépens, à son rejet.
+L'intimé A.W.________ s'est déterminé le même jour, concluant, avec suite de frais
+et dépens, à l'admission du recours.
+c)
+R.________
+a recouru par acte du 27 août 2012, concluant, avec suite de frais et dépens, à la réforme
+du prononcé, principalement en ce sens qu'il est dispensé de fournir des sûretés,
+subsidiairement en ce sens que le montant des sûretés n'excède pas 10'000 francs. Il a
+produit une pièce nouvelle.
+Par décision du 29 août 2012, le président de la cour de céans a admis la requête
+d'effet suspensif contenue dans le recours, en ce sens que le chiffre IX du dispositif du prononcé
+attaqué n'est pas immédiatement exécutoire.
+L'intimé A.W.________ et les intimés F.________ et consorts se sont déterminés par
+mémoires respectifs du 1
+er
+octobre 2012, concluant, avec suite de frais et dépens, au rejet du recours.
+En droit
+:
+I.
+a)
+Déposés dans le délai prescrit
+et les formes requises par l'art. 321 al. 1 et 2 CPC [Code de procédure civile; RS 272], applicables
+par renvoi de l'art. 278 al. 3 LP [loi fédérale sur la poursuite pour dettes et la faillite;
+RS 281.1], les trois recours sont recevables formellement.
+Les réponses des intimés respectifs aux trois recours sont également recevables (art.
+322 CPC).
+b)
+En ce qui concerne la production de pièces nouvelles en deuxième instance, la cour de céans
+a récemment jugé ce qui suit au sujet du régime des nova dans le cadre de la procédure
+de recours en matière d'opposition au séquestre (CPF, 13 juillet 2012/280) :
+"S'agissant
+de la recevabilité des pièces nouvelles produites en deuxième instance, la jurisprudence
+de la cour de céans – rendue sous l'empire du droit en vigueur jusqu'au 31 décembre
+2010 – considérait que le recours contre la décision du juge statuant sur une opposition
+au séquestre était dévolutif (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 82 ad art. 278 LP) et que les parties pouvaient
+alléguer des faits nouveaux (art. 278 al. 3 LP) pour autant qu'ils se soient produits postérieurement
+à la décision du juge sur l'opposition (art. 58 al. 8 aLVLP [loi vaudoise d'application de
+la LP; RSV 280.05]; Reeb, Les mesures provisoires dans la procédure de poursuite, in RDS 116/1997
+II 421, p. 482). Compte tenu de cette disposition, la cour de céans admettait la production de pièces
+nouvelles en deuxième instance si elles se rapportaient à des faits qui s'étaient produits
+après le prononcé attaqué; en ce qui concernait les pseudo-nova, les pièces nouvelles
+n'étaient recevables que si celui qui les produisait établissait qu’il avait été
+empêché sans sa faute de les produire plus tôt (CPF, 2 octobre 2008/487; CPF, 27
+mai 2004/215; CPF, 28 novembre 2002/481; CPF, 26 février 1998/101).
+Le
+CPC, entré en vigueur le 1
+er
+janvier
+2011, prohibe en principe les allégations et preuves nouvelles au stade du recours (art. 326 al.
+1 CPC), sous réserve de dispositions spéciales de la loi (art. 326 al. 2 CPC), dont l'art.
+278 al. 3 2
+ème
+phrase LP, aux termes duquel les parties peuvent, dans le cadre de la procédure de recours en matière
+d'opposition au séquestre, alléguer des faits nouveaux (Jeandin, Code de procédure civile
+commenté, n. 4 ad art. 326 CPC). Contrairement toutefois à ce que semble dire cet auteur lorsqu'il
+précise que "l'art. 278 al. 3 LP admet tout fait nouveau" (ibid., eod. loc.), la
+portée de cette disposition, dont la lettre n'a pas changé, est la même que sous l'ancien
+droit, en ce sens que seuls les "vrais nova" peuvent être invoqués (Reiser, Basler
+Kommentar, n. 46 ad art. 278 LP). La jurisprudence de la cour de céans est donc toujours applicable
+sur ce point. En ce qui concerne les pseudo-nova, la question relevait auparavant du droit cantonal (Jeandin,
+Aspects relatifs à l'octroi du séquestre, JT 2006 II 51 ss, p. 71). Le droit fédéral
+ne prévoyant pas la possibilité d'alléguer des nova improprement dits, se pose la question
+du maintien de la jurisprudence précitée sur ce second point. A cet égard, il convient
+de relever que le droit fédéral règle exclusivement cette question, ce qui ne laisse plus
+de place à une éventuelle réglementation cantonale. Il s'agit donc d'interpréter
+le droit fédéral. Dans la voie de l'appel, les faits et moyens de preuve nouveaux ne sont pris
+en compte que s'ils sont invoqués ou produits sans retard et qu'ils ne pouvaient être invoqués
+ou produits devant la première instance bien que la partie qui s’en prévaut ait fait
+preuve de la diligence requise (art. 317 al. 1 CPC). On peut en déduire, que, dans la voie
+du recours, les moyens nouveaux, admis par exception en application de l'art. 278 al. 3 LP, ne doivent
+en tout cas pas être admis plus largement que dans l'appel et que les pseudo-nova ne pourraient,
+au mieux, être recevables qu'en tant que celui qui les produit établirait qu'ils ne pouvaient
+être invoqués ou produits devant la première instance bien qu'il ait fait preuve de la
+diligence requise. La doctrine précitée réserve, en ce sens, la possibilité d'invoquer
+des faits antérieurs à la décision de première instance, lorsque ceux-ci n'ont pu
+être invoqués au stade de l'opposition et que cette omission est excusable (entschuldbar; Reiser,
+op. cit., nn. 47 et 49 ad art. 278 LP)."
+Cette jurisprudence doit être appliquée en l'espèce. Il en résulte qu'il n'y a pas
+lieu de tenir compte des pièces nouvelles produites par les recourants F.________ et consorts les
+27 août et 1
+er
+octobre 2012 : antérieures à la décision attaquée, ces pièces ne sont pas recevables
+faute pour les recourants de rendre vraisemblable qu'ils ont été dans l'incapacité de
+les produire en première instance.
+En revanche, la pièce nouvelle produite par le recourant R.________ le 27 août 2012, savoir
+l'extrait des poursuites dirigées contre A.W.________ au 24 août 2012, est recevable.
+II.
+Examen
+du recours de A.W.________
+a)
+Selon l’art. 271 al. 1 ch. 5 LP, le créancier
+d’une dette échue et non garantie par gage peut requérir le séquestre des biens
+du débiteur qui se trouvent en Suisse lorsqu'il possède contre lui un acte de défaut de
+biens provisoire ou définitif.  Le séquestre, mesure conservatoire urgente, doit être
+autorisé par le juge compétent, lorsque le créancier rend vraisemblable l’existence
+de la créance qu’il allègue, la réalisation du cas de séquestre invoqué
+et l’existence de biens appartenant au débiteur (art. 272 al. 1 LP). Celui dont les droits
+sont touchés par un séquestre peut former opposition (art. 278 al. 1 LP).
+b)
+Le recourant soutient que le séquestre serait nul, respectivement caduc, faute d'avoir été
+validé. Il soulève également le moyen de l'abus de droit du fait de séquestres successifs.
+Il y a eu en effet trois requêtes et ordonnances de séquestre successives dans cette affaire.
+Seul le séquestre ordonné le 3 février 2012 est devenu caduc faute de validation. Contrairement
+à ce que le recourant comprend de la lettre du juge de paix du 13 mars 2012 déclarant
+sans objet sa "requête d'opposition au séquestre du 9 mars 2012", ce n'est pas le
+séquestre ordonné le 9 mars 2012 qui est devenu caduc faute de validation, mais le séquestre
+précédent, c'est-à-dire celui du 3 février 2012, contre lequel était dirigée
+l'opposition du 9 mars 2012, ce qui l'a rendue sans objet. Quant à l'ordonnance de séquestre
+du 9 mars 2012, l'Office des poursuites de Zurich s'est déclaré incompétent pour son exécution.
+Le juge de paix a alors rendu une nouvelle ordonnance de séquestre, le 2 avril 2012, qu'il a adressée
+pour exécution à l'Office des poursuites du district de Morges. A cette date, le créancier
+séquestrant avait déjà validé le séquestre – de manière "anticipée"
+– en déposant le 7 mars 2012 une requête de mainlevée d'opposition. L'ordonnance
+de séquestre du 9 mars 2012 n'ayant pas été exécutée, le séquestre n'est
+pas devenu caduc, il n'a simplement pas porté.
+Le seul séquestre en cause dans la présente procédure est celui qui a été ordonné
+le 2 avril 2012 et a porté selon procès-verbal du 19 avril 2012.
+Quant à l'admissibilité de séquestres successifs et à l'absence d'abus de droit,
+les considérants du premier juge sont pertinents et peuvent être confirmés. Les moyens
+du recourant sur ces deux points sont infondés.
+c)
+Le recourant fait ensuite valoir que les biens séquestrés sur le compte n° XXXX ne lui
+appartiennent pas.
+Le compte litigieux, comme les quatre autres comptes faisant l'objet du séquestre selon procès-verbal
+du 19 avril 2012, est désigné par la banque elle-même comme étant le propre compte
+du recourant. Le fait que ce compte ait pu, à un moment donné, être crédité
+du prix de vente de la Coopérative L.________ ne suffit pas à retenir que le séquestre
+ne porterait pas sur des biens appartenant au recourant. Ainsi, à l'aune de la vraisemblance qui
+est le seul degré de preuve requis du créancier séquestrant, le séquestre porte sur
+des biens appartenant au débiteur, ce qui suffit pour le confirmer. Pour le surplus, on renvoie
+aux considérants développés sur ce point dans l'examen du recours de F.________ et consorts
+(infra, consid. III let. b).
+d)
+Le recourant soutient que les comptes objets n
+os
+1 à 4 du procès-verbal de séquestre concernent son activité d'indépendant, dont
+il ne serait pas possible de saisir ni de séquestrer le revenu.
+Ces affirmations ne changent rien à la constatation qu'il est rendu suffisamment vraisemblable que
+les biens séquestrés appartiennent au débiteur et non à des tiers. Au surplus et
+comme l'a considéré à juste titre le premier juge, la question de la "saisissabilité"
+ou de la "séquestrabilité" des droits patrimoniaux séquestrés, si c'est
+là le point soulevé par le recourant, relève de la compétence des autorités
+de surveillance et doit être soulevée par la voie d'une plainte contre l'exécution du
+séquestre.
+e)
+Enfin, le recourant reproche au premier juge de s'être fondé sur les statuts non produits de
+la Coopérative L.________. Sur ce point, on renvoie aux considérants également développés
+dans l'examen du recours de F.________ et consorts (infra, consid. III let. c).
+Le recours de A.W.________ est ainsi mal fondé et doit être rejeté.
+III.
+Examen
+du recours de F.________ et consorts
+a)
+La
+première question qui se pose est celle de savoir si les recourants, qui se prétendent propriétaires
+des fonds séquestrés sur le compte n° XXXX, ont qualité pour former opposition
+au séquestre et pour recourir.
+La jurisprudence du Tribunal fédéral en matière de séquestre portant sur des biens
+appartenant prétendument à des tiers est la suivante (TF 5A_654/2010 du 24 novembre 2011) :
+"7.2
+Le séquestre est autorisé, en particulier, lorsque le créancier rend vraisemblable qu'il
+existe des biens appartenant au débiteur (art. 272 al. 1 ch. 3 LP; cf. sur cette disposition: ATF
+126 III 95 consid. 4a, avec les citations). La juridiction saisie d'un recours contre la révocation
+du séquestre (art. 278 al. 3 LP) ne jouit pas d'une cognition plus étendue que celle du juge
+de l'opposition; elle examine également au degré de la simple vraisemblance si les conditions
+du séquestre sont réalisées (GILLIÉRON, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, vol. IV, 2003, n° 83 ad art. 278 LP; REEB, Les mesures
+provisoires dans la procédure de poursuite, in: RDS 116/1997 II p. 482). Il suffit dès lors
+que cette autorité, se fondant sur des éléments objectifs, acquière l'impression
+que les faits pertinents se sont produits, sans qu'elle doive exclure pour autant la possibilité
+qu'ils se soient déroulés autrement (sur cette notion: STOFFEL, in: Basler Kommentar, SchKG
+II, 2
+e
+éd.,
+2010, n° 4 ad art. 272 LP et les références).
+7.3
+7.3.1
+Conformément à l'art. 271 al. 1 LP, un séquestre ne peut frapper que les «biens du
+débiteur». Doivent être considérés comme biens de tiers tous ceux qui, en vertu
+des normes du droit civil, appartiennent à une personne autre que le débiteur; en matière
+d'exécution forcée, seule l'identité juridique est donc en principe déterminante
+(ATF 107 III 103 consid. 1; 105 III 107 consid. 3a et les citations). Ce n'est que dans des circonstances
+exceptionnelles qu'un tiers peut être tenu des engagements d'un débiteur avec lequel il forme
+une identité économique; tel est le cas lorsque l'identité économique absolue entre
+le débiteur et le tiers n'est ni contestable ni sérieusement contestée et que la dualité
+des sujets n'est invoquée qu'aux fins de se soustraire abusivement à l'exécution forcée
+(ATF 105 III 107 consid. 3a). Il appartient au séquestrant de rendre vraisemblable que, malgré
+notamment la possession, l'inscription dans un registre public ou l'intitulé du compte bancaire,
+les biens à mettre sous main de justice appartiennent au débiteur (ATF 107 III 33 consid. 2;
+126 III 95 consid. 4a et les nombreuses citations; arrêt 5A_873/2010 du 3 mai 2011 consid. 4.2.2);
+de simples allégations sont insuffisantes (ATF 5P.1/2007 du 20 avril 2007 consid. 3.2 et les arrêts
+cités).
+[…]
+7.4
+La loi reconnaît la qualité pour former opposition à celui dont les droits sont touchés
+par un séquestre (art. 278 al. 1 LP). La question de savoir si l'opposant doit «invoquer un
+préjudice qualifié» - comme le soutient la recourante - n'a pas à être tranchée
+de façon générale. En effet, cette question se pose essentiellement pour le tiers débiteur
+et le tiers détenteur des biens séquestrés, situation que vise précisément la
+doctrine dont se réclame la recourante (cf. Stoffel/Chabloz, in: Commentaire romand, Poursuite et
+faillite, 2005, n° 16/17 ad art. 278 LP et les auteurs cités). Or, en l'espèce, l'intimée
+prétend que le séquestre frappe des droits patrimoniaux (avoirs bancaires) dont elle est titulaire;
+dans cette mesure, la qualité pour former opposition doit ainsi lui être reconnue (cf. parmi
+plusieurs: Artho von Gunten, Die Arresteinsprache, 2001, p. 26; Amonn/Walther, Grundriss des Schuldbetreibungs-
+und Konkursrechts, 8e éd., § 51 n° 65; Meier-Dieterle, in: Kurzkommentar SchKG, 2009,
+n° 2, et Reiser, in: Basler Kommentar, SchKG II, 2e éd., 2010, n° 22 ad art. 278 LP);
+la Cour de céans l'a d'ailleurs dit dans un précédent arrêt concernant la recourante
+(5A_871/2009 du 2 juin 2010 consid. 2). L'arrêt déféré n'est nullement arbitraire
+sur ce point."
+Sur cette base, on doit considérer en l'espèce que les recourants avaient qualité pour
+former opposition au séquestre et, partant, ont qualité pour recourir contre la décision
+rejetant leur opposition.
+b)
+La deuxième question à résoudre
+est celle de savoir si, à l'aune de la vraisemblance des faits et de l'apparence du droit, le séquestre
+ayant porté sur le compte n° XXXX a touché des biens appartenant au débiteur.
+aa)
+Sur ce point, le prononcé attaqué
+retient en substance que le compte litigieux, bien qu'ouvert au nom de la Coopérative L.________,
+laquelle semble avoir été liquidée, a pour adresse de correspondance celle de A.W.________,
+que F.________ et consorts font valoir que, le 23 janvier 2012, la somme de 618'861 fr. 15 a été
+créditée sur ce compte, sur l'ordre du notaire Ballif, comme produit de la vente des parts
+de la coopérative, que le 23 juin 2011, une convention de vente et d'achats de parts sociales
+de la coopérative a été conclue entre F.________ et consorts, d'une part, tous représentés
+par A.W.________, et N.________SA, d'autre part, pour un montant de 695'000 fr., que cet acte précise
+que ses effets, savoir l'entrée en jouissance et la prise de possession "auront lieu au jour
+du paiement intégral du prix d'achat, dans l'intervalle les vendeurs [demeurant] seuls propriétaires
+des parts sociales et créances", que cette convention a été exécutée le
+20 janvier 2012, selon l'acte du notaire Baillif intitulé "Exécution de vente et d'achat
+de parts sociales", et qu'il ressort toutefois de la FOSC du 3 février 2012 que A.W.________
+était l'administrateur de la coopérative jusqu'à cette date, à défaut de preuve
+d'une date antérieure. Le premier juge a considéré en outre, qu'aux termes de l'art. 19
+des statuts de la coopérative du 25 juin 2010 et de ceux du 20 janvier 2012, les administrateurs
+devaient être sociétaires ou représentants d'une personne morale sociétaire, que
+l'art. 4 des statuts stipulait que le capital était constitué de parts sociales d'une valeur
+nominale de 500 fr. chacune, nominatives et entièrement libérées, et que ses parts étaient
+constatées par titres, créés au nom du sociétaire et portant la signature du président
+et d'un autre membre du conseil d'administration, et qu'il était par ailleurs précisé
+que chaque sociétaire devait, pour devenir membre de la société, souscrire et libérer
+intégralement au moins une part sociale et s'acquitter de la finance d'entrée et de la cotisation
+annuelle de l'exercice en cours telles qu'elles avaient été fixées par l'assemblée
+générale (art. 6 des statuts). Il en a déduit qu'il était rendu ainsi hautement vraisemblable
+qu'en qualité d'administrateur, A.W.________ devait avoir des intérêts financiers sur
+le compte litigieux, en ce sens qu'il était détenteur de parts sociales de la coopérative,
+et qu'en conséquence, ces avoirs bancaires "semblaient lui appartenir en partie", de sorte
+que le séquestre pouvait porter sur ceux-ci.
+bb)
+Les
+recourants plaident notamment que la vente portait sur l'ensemble des parts sociales et des créances
+de la coopérative qui leur appartenaient, que A.W.________, quoique représentant les vendeurs
+dans le contrat initial (mais non dans la convention d'exécution où les vendeurs étaient
+représentés par un tiers), ne faisait pas partie des vendeurs, qu'on ne saurait dès lors
+considérer qu'une partie du prix de vente devait lui revenir, du moins pas en vertu de l'acte de
+vente lui-même, que c'est le solde du prix de vente qui a été versé sur le compte
+litigieux le 23 janvier 2012 et que A.W.________ a bénéficié d'une commission de 3 %,
+soit 22'518 fr., qui lui a été versée le 30 août 2011.
+cc)
+A
+l'argumentation des recourants, l'intimé R.________ répond que le rôle exact de A.W.________
+dans la vente des parts sociales reste douteux, que parmi les vendeurs se trouvent son propre fils et
+une société dont son épouse est administratrice unique, laquelle a refusé de répondre
+à la question de savoir qui est l'ayant droit économique de cette société,
+et qu'il est douteux que A.W.________ ait uniquement bénéficié d'une commission de 3 %
+comme le soutiennent les recourants. L'intimé fait valoir que le prix de vente n'a pas été
+libéré en faveur des vendeurs, comme prévu par la convention du 23 juin 2011, mais sur
+le compte litigieux dont les relevés sont libellés au nom de la coopérative et adressés
+à
+A.W.________ et que ni ce dernier ni les recourants
+n'ont fourni la moindre explication de la raison pour laquelle le prétendu argent de la vente des
+parts sociales est resté sur le compte litigieux depuis le moment où il a été versé,
+le 23 janvier 2012, jusqu'au moment du séquestre, soit au plus tôt le 2 avril 2012. Il soutient
+qu'il existe "à l'évidence" un accord entre les recourants et le débiteur saisi,
+qu'ils n'ont pas voulu produire et qui explique les raisons de la manière dont les choses se sont
+déroulées. Il relève au surplus que la banque elle-même considère que le compte
+litigieux appartient à A.W.________, de telle sorte qu'il faut considérer que ce compte a été
+ouvert au nom de A.W.________ et que celui-ci en est l'ayant droit économique. Il fait encore valoir
+que les recourants, à supposer qu'ils soient les vrais bénéficiaires du produit de la
+vente des parts sociales de la coopérative, ne sont titulaires que d'une créance envers A.W.________,
+sans pouvoir prétendre à la propriété du compte bancaire litigieux, et, enfin, que
+c'est dans le cadre de la procédure de revendication que la question de leurs éventuels droits
+préférentiels doit être réglée.
+dd)
+Comme rappelé dans l'arrêt du Tribunal fédéral précité (TF 5A_654/2010
+du 24 novembre 2011), le créancier séquestrant doit rendre vraisemblable l'existence de biens
+appartenant au débiteur et non à des tiers. Le degré de preuve requis est donc celui de
+la vraisemblance (art. 272 al. 1 LP).
+Des tiers, notamment des tiers revendiquant la propriété du bien séquestré, ont qualité
+pour former opposition au séquestre, mais la procédure d'opposition au séquestre ne constitue
+pas une sorte de procédure sommaire de revendication : le tiers revendiquant ne peut pas faire lever
+le séquestre simplement en rendant vraisemblable que les avoirs mis sous main de justice n'appartiennent
+pas au débiteur, mais à lui; pour obtenir l'annulation du séquestre à ce stade, le
+tiers doit fournir une preuve complète et immédiate que les biens séquestrés sont
+sa propriété. A défaut, il doit ouvrir la procédure de revendication des art. 106
+à 109 LP (SJ 2000 I 329).
+Dans un arrêt du 28 août 2008 (TF 5A_483/2008 c. 5.1 et 5.3), le Tribunal fédéral
+a notamment jugé ce qui suit :
+"Le
+séquestre ne peut être ordonné que si les biens à séquestrer appartiennent effectivement
+au débiteur (art. 272 al. 1 ch. 3 LP). Celui-ci ne répond en principe de ses obligations que
+sur les biens qui lui appartiennent (ATF 105 III 107 consid. 3; arrêt 5A_144/2008 du 11 avril 2008,
+consid. 3.3). Lors de l'adoption de l'art. 272 al. 1 ch. 3 LP, le législateur a cependant voulu
+que, comme sous l'empire de l'ancien droit, le créancier puisse aussi faire séquestrer des
+biens au nom ou en possession d'un tiers, s'il rend vraisemblable que ces biens appartiennent en réalité
+au débiteur (Arrêt 5A_144/2008 du 11 avril 2008, consid. 3.3). Le séquestre est une mesure
+conservatoire urgente, qui a pour but d'éviter que le débiteur ne dispose de ses biens pour
+les soustraire à la poursuite pendante ou future de son créancier (ATF 116 III 111 consid.
+3a; 107 III 33 consid. 2). Le juge du séquestre statue en se basant sur la simple vraisemblance
+des faits; il ne doit pas trancher de manière définitive la question de la titularité
+des biens dont le séquestre est demandé.
+[…]
+Les
+conditions de fond du séquestre, en particulier l'existence de biens appartenant au débiteur
+(art. 272 al. 1 ch. 3 LP), sont contrôlées par le juge, dans la procédure d'opposition.
+Les
+compétences de l'office des poursuites et des autorités de surveillance sont, elles, limitées
+aux mesures proprement dites d'exécution du séquestre ainsi qu'au contrôle de la régularité
+formelle de l'ordonnance de séquestre (Walter Stoffel/Isabelle Chabloz, Commentaire romand LP, n.
+10 ad art. 275 LP). Ce pouvoir d'examen entre en effet par définition dans les attributions d'un
+organe d'exécution qui ne peut donner suite à un ordre lacunaire ou imprécis, ni exécuter
+un séquestre entaché de nullité (Bertrand Reeb, Les mesures provisoires dans la procédure
+de poursuite, in RDS 1997 II p. 489). Tel pourrait être le cas si l'ordonnance ne désigne pas
+les biens à séquestrer avec suffisamment de précision ou qu'elle ne contient pas toutes
+les informations requises par l'art. 274 LP. L'office ne pourra pas non plus exécuter une ordonnance
+rendue par un juge manifestement incompétent et devra également respecter les dispositions
+en matière de saisie (art. 92 à 106 LP) (ATF 129 III 203 consid. 2.3; Walter Stoffel/Isabelle
+Chabloz, op. cit., n. 11 ad art. 275 LP).
+Il
+n'appartient donc ni à l'office, ni aux autorités de surveillance de se prononcer sur la propriété
+des biens ou la titularité des créances. Si le juge a admis le séquestre et qu'il le confirme
+sur opposition en se fondant sur le fait que les biens appartiennent vraisemblablement au débiteur,
+le tiers devra faire valoir ses droits dans la procédure de revendication (art. 106-109 LP; Walter
+Stoffel/Isabelle Chabloz, op. cit., n. 28 ad art. 272 LP; Pierre-Robert Gilliéron, op. cit., n.
+87 ad art. 278 LP)."
+En l'espèce, les cinq comptes faisant l'objet du séquestre sont désignés par la banque
+elle-même comme étant les propres comptes de A.W.________. Le fait que le compte litigieux
+ait pu, à un moment donné, être crédité du prix de vente de la coopérative
+destiné aux recourants ne suffit pas à retenir que le séquestre ne porterait pas sur des
+biens appartenant au débiteur séquestré. Ainsi, à l'aune de la vraisemblance qui
+est le seul degré de preuve requis du créancier séquestrant, le séquestre porte sur
+des biens appartenant au débiteur, ce qui suffit pour le confirmer. En revanche, et même sans
+tenir compte de la motivation du premier juge fondée sur les statuts de la coopérative, on
+ne saurait considérer comme clairement établi que les recourants sont les seuls titulaires
+des fonds séquestrés sur le compte litigieux, dès lors qu'ils n'en ont pas rapporté
+la preuve complète requise dans la présente procédure d'opposition au séquestre,
+même s'il n'est pas exclu qu'ils puissent le démontrer dans le cadre d'une éventuelle
+procédure ultérieure de revendication.
+c)
+Les
+recourants se plaignent d'une violation de leur droit d'être entendus par le premier juge, qui se
+serait fondé sur une argumentation juridique imprévisible en se basant sur les statuts non
+produits de la coopérative.
+A cet égard, le Tribunal fédéral a notamment jugé que le droit d'être entendu
+se rapporte surtout à la constatation des faits. Celui des parties d'être interpellées
+sur des questions juridiques n'est reconnu que de manière restreinte. En règle générale,
+selon l'adage jura novit curia, les tribunaux apprécient librement la portée juridique des
+faits et ils peuvent statuer aussi sur la base de règles de droit autres que celles invoquées
+par les parties. En conséquence, celles-ci n'ont pas à être entendues de façon spécifique
+sur la portée à reconnaître aux règles de droit. A titre exceptionnel, il convient
+de les interpeller lorsque le juge ou le tribunal envisage de fonder sa décision sur une norme ou
+une considération juridique qui n'a pas été évoquée au cours de la procédure
+et dont les parties ne pouvaient pas supputer la pertinence (TF 4A_3/2009 du 20 mars 2009 c. 7.1 et réf.
+cit.).
+En l'espèce, le premier juge n'a fait que se prononcer sur la question - parfaitement connue des
+parties et au centre des débats - de savoir si le séquestre avait ou non porté sur des
+biens appartenant au débiteur. Dans le cadre des éléments factuels sur lesquels il a fondé
+son raisonnement, il a pris en considération le contenu de statuts, en les considérant apparemment
+comme des faits notoires. Ce faisant il n'a pas violé le droit d'être entendu des recourants.
+Le moyen est donc dénué de fondement.
+Le recours de F.________ et consorts est ainsi mal fondé et doit être rejeté.
+IV.
+Examen
+du recours de R.________
+a)
+Cet
+acte comporte une réquisition de mesures d'instruction, le recourant réitérant, dans la
+mesure où la procédure de recours le permet, sa réquisition de production de pièces
+du 24 mai 2012 - déjà réitérée dans sa lettre du 29 juin 2012 au juge de paix
+- portant sur le formulaire A de l'identification de l'ayant droit économique du compte n°
+XXXX ainsi que les documents d'ouverture de ce compte.
+Vu les considérants développés supra sur la vraisemblance suffisante de l'appartenance
+au débiteur des fonds séquestrés sur le compte litigieux, les mesures d'instruction requises
+ne sont pas nécessaires et peuvent être rejetées.
+b)
+Quant au fond, le recours porte uniquement sur le principe et le montant des sûretés.
+aa)
+En vertu de l'art. 273 al. 1 LP, le créancier répond du dommage qu'un séquestre injustifié
+peut causer tant au débiteur qu'aux tiers; le juge peut l'astreindre à fournir des sûretés.
+Selon la jurisprudence (TF 5A_757/2010 du 20 avril 2011 c. 2), le droit fédéral règle
+les conditions et le contenu des sûretés prévues par l'art. 273 al. 1 LP :
+"Le
+séquestrant peut être astreint - tant par l'ordonnance elle-même (art. 274 al. 2 ch. 5
+LP) qu'à un stade ultérieur (cf. Stoffel, in: Basler Kommentar, SchKG II, 2e éd., 2010,
+nos 18, 24 et 30 ad art. 273 LP) - de fournir des sûretés lorsque la créance ou le cas
+de séquestre sont douteux (ATF 112 III 112 consid. 2a; 93 I 278 consid. 5a), ou que la créance
+a perdu de sa vraisemblance par rapport au moment où le séquestre a été autorisé
+(consid. 6 et les références). L'autorité de séquestre apprécie librement s'il
+se justifie d'imposer une garantie (ATF 112 III 112 consid. 2c), dont le Tribunal fédéral ne
+revoit la fixation que sous l'angle de l'arbitraire (art. 9 Cst., en relation avec l'art. 98 LTF; ATF
+5A_165/2010 consid. 1.2, in: Praxis 2011 p. 142). Les sûretés de l'art. 273 al. 1 LP sont destinées
+à garantir la prétention en dommages-intérêts du débiteur (ou du tiers) qui
+découle de l'indisponibilité frappant ses biens (ATF 5A_165/2010 consid. 2.3.2 et la jurisprudence
+citée, in: Praxis 2011 p. 144); au nombre des éléments pertinents pour déterminer
+ce préjudice éventuel figurent, notamment, la durée prévisible du procès en
+validation de séquestre, ainsi que les intérêts - équivalant en principe à deux
+années - des emprunts que le débiteur (ou le tiers) a contractés pour pallier la privation
+de ses avoirs (ATF 5A_165/2010 consid. 2.3.3 et les nombreuses citations, in: Praxis 2011 p. 145)."
+Le dernier arrêt cité dans l'extrait ci-dessus (TF 5A_165/2010 du 10 mai 2010) comporte
+les motifs suivants (c. 2.3) :
+"
+Le juge du séquestre astreindra le créancier à fournir des sûretés lorsque la
+créance ou le cas de séquestre sont douteux (ATF 112 III 112 consid. 2a), autrement dit lorsqu'il
+ne peut pas exclure que les faits qu'il a retenus au stade de la vraisemblance soient autres ou qu'un
+examen approfondi conduise à une autre solution juridique que celle dictée par un examen sommaire
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+2003, nos 27 et 37 ad art. 273 LP). Il s'ensuit qu'il n'y aura normalement pas lieu d'imposer la prestation
+de sûretés lorsque le créancier peut se fonder sur un jugement exécutoire (Stoffel,
+Kommentar zum Bundesgesetz über Schuldbetreibung und Konkurs, 1998, n° 21 ad art. 273 LP).
+2.3.2
+Les sûretés prévues à l'art. 273 al. 1 LP sont destinées à garantir la
+prétention en dommages-intérêts du débiteur séquestré, laquelle découle
+de l'indisponibilité frappant ses droits patrimoniaux (ATF 113 III 94 consid. 9, 10a et 11a). La
+responsabilité pour le dommage causé est une responsabilité causale légale. Elle
+présuppose que le séquestré ait subi un préjudice, que le séquestre fût
+illicite et qu'il y ait un rapport de causalité entre le séquestre et le dommage. Le devoir
+de réparer est réduit si le débiteur ne satisfait pas à son obligation de diminuer
+son dommage et tombe si le séquestré a commis une faute si grave qu'elle interrompe le rapport
+de causalité (arrêt 5C.177/2002 du 16 octobre 2002 consid. 1, in Pra 2003 n. 72 p. 379).
+2.3.3
+Le montant des sûretés dépend du dommage éventuel dont est menacé le débiteur
+en cas de séquestre injustifié (ATF 113 III 94 consid. 12 p. 103/104; 93 I 278 consid. 5b p.
+283 et les arrêts cités; Gilliéron, op. cit., n° 36 ad art. 273 LP; Stoffel, op.
+cit., n° 22 ad art. 273 LP). Parmi les éléments pertinents pour apprécier ce dommage
+éventuel figurent la durée prévisible du procès en validation de séquestre ainsi
+que les intérêts des emprunts que le débiteur peut devoir contracter pour pallier la privation
+de ses avoirs (ATF 113 III 94 consid. 11a et 11b p. 102/103). Selon la doctrine, un montant équivalent
+à deux années d'intérêt devrait souvent se révéler justifié (Stoffel,
+op. cit., n° 22 ad art. 273 LP et la référence citée). Le dommage dont les sûretés
+visent à garantir la réparation comprend en outre les frais exposés dans les procédures
+de validation du séquestre et d'opposition à l'ordonnance de séquestre; en revanche, les
+frais de séquestre et de la poursuite en validation du séquestre ne font pas partie du dommage,
+et ne peuvent donc pas être pris en considération dans les sûretés (ATF 113 III 94
+consid. 10 p. 100 et les références citées; Gilliéron, op. cit., n° 36 ad art.
+273 LP; Stoffel, op. cit., n° 22 ad art. 273 LP et les références citées, Jeandin,
+Mainlevée sommaire de l'opposition : développements récents et perspectives, in JT 2006
+II p. 51 ss, p. 73)."
+bb)
+En l'espèce, pour astreindre le créancier séquestrant à fournir des sûretés
+et en fixer le montant, le premier juge a considéré ce qui suit :
+"que le dommage éventuel étant dépendant de l'importance de la créance à
+la base du séquestre et de l'importance qu'ont les biens séquestrés pour le débiteur
+ou le tiers, y compris les frais de défense liés à la procédure de validation, un
+montant équivalant à deux fois l'intérêt annuel, soit 10 %, que produiraient les
+biens séquestrés peut souvent s'avérer justifié (Walter Stoffel et Isabelle Chabloz,
+op. cit., n. 24 ad art. 273 LP);
+considérant qu'en l'espèce, la partie séquestrante a su rendre suffisamment vraisemblable
+qu'une part des fr. 618'861 fr. 65 versés sur le compte n° XXXX appartenait à A.W.________,
+qu'en revanche, il ressort également des différentes pièces produites qu'une partie de
+cet argent semble appartenir à F.________, B.W.________ et Z.________ ainsi qu'à V.________SA,
+cette dernière étant créancière de la Coopérative,
+que la part des avoirs bancaires propriété exclusive de A.W.________ n'est toutefois pas déterminable
+en l'état,
+qu'en conséquence, et afin de garantir le droit à des dommages-intérêts aux tiers
+touchés, il convient d'astreindre la partie séquestrante à fournir des sûretés,
+qu'aux termes des conclusions des tiers précités, ces derniers ont requis la constitution de
+sûretés à hauteur de fr. 663'799.10, soit le montant présent sur le compte n° XXXX,
+que les sûretés doivent être calculées en tenant compte du dommage éventuel
+résultant ou qui pourrait résulter du séquestre pour la partie séquestrée ou
+les tiers touchés dans leurs droits,
+que le dommage susceptible n'étant toutefois pas chiffré par ceux-ci, il y a lieu d'appliquer
+la règle doctrinale préconisant la constitution de sûretés à hauteur de 20 %
+des biens séquestrés, soit un montant de fr. 132'759.80;"
+De manière inexpliquée, le premier juge a ainsi tenu compte de la totalité du montant
+présent sur le compte litigieux, et non du seul montant bloqué selon le procès-verbal
+du séquestre en cause, et d'une immobilisation sur quatre ans.
+cc)
+Quant au principe de la fourniture de sûretés, il se justifie d'y astreindre le créancier
+séquestrant dès lors qu'on doit prendre en considération une éventuelle procédure
+de revendication ayant pour effet de soustraire les biens séquestrés à cette mesure d'exécution
+forcée.
+En ce qui concerne le montant des sûretés, il y a lieu de tenir compte du montant bloqué
+sur le compte litigieux selon le procès-verbal de séquestre du 19 avril 2012, soit 113'799
+fr. 10, arrondi à 113'800 fr., et d'une immobilisation de ce montant sur trois ans, durée prévisible
+de la procédure de revendication, à un taux de 5 %.
+Le recours de R.________ doit ainsi être partiellement admis et le prononcé réformé
+en ce sens que le recourant est astreint à fournir des sûretés d'un montant de 17'000
+francs.
+V.
+Vu le rejet du recours de A.W.________, les frais
+de deuxième instance, arrêtés à 1'050 fr., compensés avec l'avance de frais
+versée par le recourant, doivent être mis à la charge de celui-ci. Il doit en outre verser
+à l'intimé R.________ la somme de 3'000 fr. à titre de dépens de deuxième instance.
+Vu le rejet du recours de F.________, B.W.________, Z.________ et V.________SA, les frais de deuxième
+instance, arrêtés à 900 fr., compensés avec l'avance de frais versée par les
+recourants, doivent être mis à la charge de ceux-ci, solidairement entre eux. Ils doivent en
+outre, solidairement entre eux, verser à l'intimé R.________ la somme de 3'000 fr. à titre
+de dépens de deuxième instance.
+Vu l'admission partielle du recours de R.________, les frais de deuxième instance, arrêtés
+à 900 fr., compensés avec l'avance de frais versée par le recourant, doivent être
+répartis comme suit : 225 fr. la charge du recourant, 337 fr. 50 à la charge de l'intimé
+A.W.________ et 337 fr. 50 à la charge des intimés F.________ et consorts, solidairement entre
+eux. L'intimé A.W.________ doit par conséquent verser au recourant R.________ la somme de 1'462
+fr. 50 à titre de dépens réduits et de restitution partielle d'avance de frais de deuxième
+instance. Les intimés F.________ et consorts, solidairement entre eux, doivent également verser
+au recourant la somme de 1'462 fr. 50 à titre de dépens réduits et de restitution partielle
+d'avance de frais de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours de A.W.________ est rejeté, le recours de F.________, B.W.________, Z.________ et V.________SA
+est rejeté et le recours de R.________ est partiellement admis.
+II.
+Le prononcé est réformé au chiffre IX de son dispositif comme il suit :
+"IX.
+Astreint R.________, partie séquestrante, à fournir des sûretés à hauteur de
+17'000 fr. (dix-sept mille francs) sur le compte séquestré n° XXXX, ouvert au nom de A.W.________
+(n° 5 du procès-verbal de séquestre)."
+Il
+est maintenu pour le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'050 fr. (mille cinquante
+francs) pour le recourant A.W.________, sont mis à sa charge, les frais judiciaires de deuxième
+instance, arrêtés à 900 fr. (neuf cents francs) pour les recourants F.________, B.W.________,
+Z.________ et V.________SA, sont mis à leur charge, solidairement entre eux, et les frais judiciaires
+de deuxième instance, arrêtés à 900 fr. pour le recourant R.________, sont mis à
+sa charge par 225 fr. (deux cent vingt-cinq francs), à la charge de l'intimé A.W.________ par
+337 fr. 50 (trois cent trente-sept francs et cinquante centimes) et à la charge des intimés
+F.________, B.W.________, Z.________ et V.________SA, solidairement entre eux, par 337 fr. 50 (trois
+cent trente-sept francs et cinquante centimes).
+IV.
+Le recourant et intimé A.W.________ doit verser au recourant et intimé R.________ la somme
+de 3'000 fr. (trois mille francs) à titre de dépens de deuxième instance et la somme de
+1'462 fr. 50 (mille quatre cent soixante-deux francs et cinquante centimes) à titre de dépens
+et de restitution partielle d'avance de frais de deuxième instance.
+V.
+Les recourants et intimés F.________, B.W.________,
+Z.________ et V.________SA, solidairement entre eux, doivent verser au recourant et intimé R.________
+la somme de 3'000 fr. (trois mille francs) à titre de dépens de deuxième instance et la
+somme de 1'462 francs 50 (mille quatre cent soixante-deux francs et cinquante centimes) à titre
+de dépens et de restitution partielle d'avance de frais de deuxième instance.
+VI.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+20 novembre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+-
+Me Paul Marville, avocat (pour A.W.________),
+‑
+Me Jérôme Bénédict, avocat (pour F.________ et consorts),
+-
+Me Christophe Piguet, avocat (pour R.________),
+-
+M. le Préposé à l'Office des poursuites du district de Morges.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 344'036 fr. 93 pour
+le recours de A.W.________, de 113'799 fr. 10 pour le recours de F.________ et consorts et de 132'759
+fr. 80 pour le recours de R.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Morges.
+La greffière :
