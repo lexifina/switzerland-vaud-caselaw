@@ -1,0 +1,273 @@
+---
+decision_id: "vd_findinfo_Plainte___2012___53"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2012 / 53"
+decided: "2012-12-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3576873"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2012 / 53
+
+## Regeste
+
+AVIS DE SAISIE, PRÉSENTATION DEVANT L'AUTORITÉ, POLICE, OBLIGATION DE RENSEIGNER | 17 LP, 91 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.12.2012 Plainte / 2012 / 53
+
+AVIS DE SAISIE, PRÉSENTATION DEVANT L'AUTORITÉ, POLICE, OBLIGATION DE RENSEIGNER | 17 LP, 91 LP
+
+TRIBUNAL
+CANTONAL
+FA11.002063-121834
+54
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 décembre 2012
+______________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              Mme
+Carlsson et M. Muller
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 et 91 LP; 72 al. 4 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+C.________
+,
+à Lausanne, contre la décision rendue le 21 septembre 2012, à la suite de l’audience
+du 6 septembre 2012, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte du recourant contre la convocation qui lui a été
+adressée le 10 janvier 2011 par l'
+OFFICE
+DES POURSUITES DE LAUSANNE-EST
+dans le cadre de
+la continuation de poursuites par voie de saisie exercées contre le recourant.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Les 16 décembre 2010, 3 et 21 janvier 2011, l'Office des poursuites du district de Lausanne-Est
+(ci-après : l'office) a reçu trois réquisition de continuer les poursuites n
+os
+5'603'591, 5'223'971 et 5'624'394, exercées contre C.________ par l'Etat de Vaud, Département
+de l'Intérieur, Service Juridique et Législatif. Le poursuivant a joint à sa réquisition
+dans la poursuite n° 5'223'971 une copie d'un prononcé de mainlevée définitive
+rendu le 17 décembre 2010 par le Juge de paix du district de Lausanne, définitif et exécutoire
+dès le 8 octobre 2010. Les deux autres commandements de payer étaient restés libres d'opposition.
+Trois avis de saisie, correspondant à ces poursuites, ont été adressés au poursuivi
+les 16 décembre 2010, 3 et 21 janvier 2011, l'informant qu'il devait se présenter à l'office
+le 6 janvier 2011.
+Le poursuivi n'ayant pas obtempéré à cette injonction, l'office lui a adressé, le
+10 janvier 2011, une convocation l'invitant à passer dans ses bureaux dans un délai au 20 janvier
+2011. La convocation porte, en caractères gras, les mentions suivantes :
+"A défaut,
+un mandat d'amener sera décerné à votre encontre afin d'être mis à disposition
+de l'office soussigné par les soins des organes de police, conformément à l'art. 72 al.
+4 LVLP.
+En outre, une
+peine d'amende pourra être prononcée contre vous pour contravention aux dispositions des art.
+91 LP et 292 ou 323 ch. 1 du Code pénal suisse".
+2.
+Le 17 janvier 2011, C.________ a déposé une plainte au sens de l'art. 17 LP contre cette convocation,
+concluant à son annulation et, subsidiairement, à sa réforme, la mention faisant référence
+à l'art. 72 al. 4 LVLP étant supprimée.
+L'office s'est déterminé le 10 février 2011, concluant au rejet de la plainte.
+Le poursuivi a développé ses moyens dans deux écritures des 21 et 28 février 2011.
+Par prononcé rendu le 6 avril 2011, à la suite de l'audience du 3 mars 2011, le Président
+du Tribunal d'arrondissement de Lausanne, statuant en sa qualité d'autorité inférieure
+de surveillance, a rejeté la plainte ainsi que la demande d'assistance judiciaire déposée
+par le plaignant.
+Par arrêt du 31 mai 2012, la cour de céans a admis le recours interjeté par le plaignant
+et annulé le prononcé pour non-respect du droit d'être entendu du recourant ainsi que
+de son droit à l'assistance d'un avocat.
+3.
+Une nouvelle audience de plainte s'est tenue le
+6 septembre 2012 au cours de laquelle le plaignant, assisté de son conseil d'office, et le préposé
+ont été entendus.
+Par prononcé du 21 septembre 2012, le Président du Tribunal d'arrondissement de Lausanne, statuant
+en sa qualité d'autorité inférieure de surveillance, a rejeté la plainte du 17 janvier
+2011 (I), fixé l'indemnité du conseil d'office du plaignant à 804 fr. 60, débours
+et TVA au taux de 8 % compris, pour la période du 14 août au 6 septembre 2012 (II), dit que
+le bénéficiaire de l'assistance judiciaire est, dans la mesure de l'art. 123 CPC, tenu au remboursement
+de cette indemnité, mise à la charge de l'Etat (III) et rendu sa décision sans frais ni
+dépens (IV).
+L'autorité inférieure de surveillance a rappelé que l'office avait le devoir de dresser
+l'inventaire du patrimoine du poursuivi, afin de pouvoir ne mettre sous main de justice que les droits
+patrimoniaux nécessaires selon son estimation ou celles d'experts, pour satisfaire le saisissant
+en capital, intérêts et frais. Elle a considéré que la décision de l'office
+de requérir le nom de la banque française et de convoquer le poursuivi, sous la menace des
+peines prévues par loi, n'excédait pas le cadre des attributions que lui confèrait la
+loi et ne prêtait pas le flanc à la critique.
+Par acte du 3 octobre 2012, C.________ a recouru contre ce prononcé, qui lui avait été
+notifié le 24 septembre 2012, prenant les conclusions suivantes :
+-
+D'admettre le recours et d'annuler le prononcé du Tribunal d'arrondissement du 21 septembre 2012;
+-
+De constater que l'office des poursuites n'a saisi à ce jour aucun bien réalisable et n'a pas
+en conséquence à établir le minimum vital;
+-
+De constater que dans ces conditions, la convocation du 10 janvier 2011 n'avait aucun objet au sens de
+la LP et doit être annulée;
+-
+De constater qu'une convocation fondée uniquement sur la saisie fictive de biens à l'étranger
+ne profite au mieux qu'au fisc et contrevient ainsi à la volonté du législateur de ne
+pas pénaliser la soustraction fiscale;
+-
+De constater en conséquence l'illégalité du procès-verbal de saisie du 26 mars 2010;
+-
+Subsidiairement dans le cas contraire de transmettre le dossier à l'OFJ dans le cadre de l'entraide
+administrative internationale.
+-
+En cachant le véritable objet de la convocation, l'office des poursuites a provoqué ma plainte
+du 17 janvier et la présente cause. Il lui incombe donc d'en supporter les frais y compris les honoraires
+de l'avocat.
+Par lettre du 25 octobre 2012, l'office a déclaré maintenir les déterminations qu'il avait
+produites en première instance et se rallier à la décision attaquée.
+En droit :
+I.
+Déposé à temps, dans le délai légal de dix jours (art. 18 al. 1 LP; loi fédérale
+sur la poursuite pour dettes et la faillites, RS 281.1), et comportant des conclusions et l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP; loi vaudoise d'application de la LP; RSV 280.05),
+le recours est recevable.
+Deux des conclusions du recourant sont en revanche irrecevables. Il s'agit de celles qui ont trait au
+procès-verbal de saisie du 26 mars 2010 et à la transmission du dossier à l'Office fédéral
+de la Justice, qui ne font pas l'objet de la décision attaquée, ni, manifestement, celui de
+la procédure engagée dans les poursuites en cours.
+II.
+Selon
+l'art. 17 al. 1 LP, la voie de la plainte est ouverte lorsqu'une mesure ou une décision de l'office
+est contraire à la loi ou ne paraît pas justifiée en fait.
+Par mesure au sens de la disposition précitée, il faut entendre tout acte d'autorité accompli
+par l'office ou par un organe de la poursuite en exécution d'une mission officielle dans une affaire
+concrète. L'acte de poursuite doit être de nature à créer, modifier ou supprimer
+une situation du droit de l'exécution forcée dans l'affaire en question et il peut se manifester
+de toutes sortes de façons (ATF 129 III 400
+c.
+1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes
+et la faillite, nn. 11-12 ad art. 17 LP).
+Acte matériel ayant pour objet la continuation de la procédure d'exécution forcée
+et produisant des effets externes, l'avis de saisie peut faire l'objet d'une plainte (CPF, 21 juin 2010/14;
+CPF, 17 janvier 2007/38 et les références citées).
+La convocation du 10 janvier 2011 constitue un avis de saisie et, comme tel, peut être contestée
+par la voie de la plainte.
+III.
+a)
+En vertu de l’art. 91 al. 1 LP, le débiteur
+contre lequel une saisie est requise est tenu, sous menace des peines prévues par la loi, d’assister
+à la saisie ou de s’y faire représenter et d’indiquer jusqu’à due concurrence
+tous les biens qui lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses
+créances et autres droits contre des tiers. Le préposé aux poursuites, le substitut qui
+le remplace, le fonctionnaire ou l’employé de l’office des poursuites qui exécute
+une saisie, a notamment le devoir d’interroger le poursuivi afin qu’il lui indique la composition
+de son patrimoine, ce qui suppose que le poursuivi assiste aux opérations de la saisie, ou s’y
+fasse représenter.
+b)
+En
+l'espèce, le recourant a soutenu dans ses écritures de première instance qu'il n'avait
+pas l'obligation de renseigner l'office sur son patrimoine situé en France. A l'audience de plainte
+du 6 septembre 2012 et dans son recours, il a allégué que l'office aurait admis à dite
+audience ne pas avoir l'intention de réaliser le compte bancaire français dont il est titulaire
+et qui aurait été saisi selon un procès-verbal de saisie du 26 mars 2010. Il affirme que
+l'office n'aurait dès lors besoin d'aucun renseignement et qu'en particulier rien ne nécessiterait
+de déterminer son minimum vital, de sorte que sa présence lors de la saisie ne serait pas nécessaire.
+On relèvera à cet égard que ni le procès-verbal d'audience, ni le prononcé attaqué
+ne mentionne une décision de l'office de ne pas réaliser les droits du recourant contre l'établissement
+bancaire français. Dans ses déterminations de première instance, auxquelles il se réfère
+dans le cadre du présent recours, l'office conteste détenir tous les renseignements utiles
+en vue de parfaire l'exécution de la saisie, compte tenu notamment du fait que le recourant refuse
+d'apporter des informations sur son patrimoine situé en France.
+Le devoir de renseigner du débiteur prévu par l'art. 91 al. 1 ch. 2 LP est exhaustif et ne
+souffre aucune restriction. Il porte également sur les revenus réalisés à l'étranger
+tout comme sur l'existence de biens (meubles, immeubles, avoirs bancaires) dont le débiteur dispose
+à l'étranger, indépendamment du fait que de tels actifs ne sauraient être appréhendés
+par l'entremise d'une saisie opérée en Suisse; l'office peut avoir besoin de ces informations
+pour établir la quotité saisissable au sens de l'art. 93 LP (TF 7B.229/2005 du 20 mars 2006
+c. 3.3.1 et les références citées; ATF 114 IV 11, JT 1989 IV 45).
+L'office est donc habilité à requérir du recourant les renseignements relatifs à
+ses avoirs bancaires en France et ce dernier a l'obligation non seulement d'assister à la saisie
+(art. 91 al. 1 ch. 1 LP), mais également de donner toutes les indications sur la composition de
+son patrimoine, y compris sur son compte bancaire français (art. 91 al. 1 ch. 2 LP).
+c)
+Le
+recourant réclame la suppression de la mention du recours à la force publique sur la convocation
+litigieuse.
+Selon l’art. 91 al. 2 LP, si le débiteur néglige sans excuse suffisante d’assister
+à la saisie ou de s’y faire représenter, l’office des poursuites peut le faire
+amener par la police. L’office des poursuites attire expressément l’attention des intéressés
+sur leurs obligations ainsi que sur les conséquences pénales de leur inobservation (art. 91
+al. 6 LP).
+Pour remplir la tâche que lui assigne la loi – qui est d’établir l’inventaire
+du patrimoine du poursuivi – l’office des poursuites est ainsi doté de pouvoirs d’investigation
+et de coercition et notamment du pouvoir de requérir le concours de la force publique (ATF 83 III
+64-65, JT 1957 II 79-80; Gilliéron, op. cit., n. 12 ad art. 91 LP). Au nombre des moyens investigatoires
+et de coercition dont dispose l’office des poursuites figure notamment le pouvoir de requérir
+le concours de la force publique pour amener le poursuivi sur les lieux où la saisie est exécutée
+(art. 91 al. 2 LP; Gilliéron, op. cit., nn. 13 et 14 ad art. 91 LP).
+Les modalités du recours à l’assistance de la force publique sont fixées à
+l’art. 72 LVLP. Selon l’al. 4 de cette disposition, lorsqu’un débiteur, avisé
+conformément à la loi, n’assiste pas en personne à une saisie ou à une prise
+d’inventaire et ne s’y fait pas représenter, le préfet peut, sur demande du préposé,
+le faire conduire dans les locaux de l’office pour y être entendu, la poursuite pénale
+étant réservée.
+En l'espèce, le recourant n'a pas répondu à la convocation officielle contenue dans les
+trois avis de saisie qui lui ont été adressés les 16 décembre 2010, 3 et 21 janvier
+2011.  Comme l'a souligné le premier juge, l'office devait mentionner le recours à la
+force publique sur la convocation litigieuse; en l'absence d'une telle mention, il ne pourrait recourir
+à cette mesure de contrainte (ATF 87 III 87).
+III.
+Le recours doit en conséquence être rejeté et le prononcé entrepris confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+11 décembre 2012
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. C.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
