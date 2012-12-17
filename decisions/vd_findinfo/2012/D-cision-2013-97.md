@@ -1,0 +1,140 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___97"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 97"
+decided: "2012-12-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3675114"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-052.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 97
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ | 385 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.12.2012 Décision / 2013 / 97
+
+DÉCISION D'IRRECEVABILITÉ | 385 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+832
+PE12.015797-MYO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 17 décembre 2012
+__________________
+Présidence
+de               Mme
+Epard
+,
+vice-présidente
+Juges
+:              M.
+Creux et Mme Byrde
+Greffier
+:              M.
+Addor
+*****
+Art.
+385 CPP
+La Chambre des recours pénale prend séance
+à huis clos pour statuer le recours interjeté le 16 novembre 2012 par
+X.________
+contre l'ordonnance de non-entrée en matière rendue le 29 octobre 2012 par le Ministère
+public de l'arrondissement de l'Est vaudois dans la cause
+n°
+PE12.015797-MYO
+.
+Elle considère :
+E n  f a i t :
+A.
+Le 10 août 2012,
+X.________ a déposé plainte pénale contre L.________, lui reprochant en substance de l'avoir
+menacée au cours de l'année 2011, d'avoir propagé sur elle de fausses rumeurs depuis le
+mois de mars 2012, de l'avoir saisie par un bras et traitée de "pute" en mai 2012 (PV
+aud. 1).
+Le 29 octobre 2012, le Ministère public de l'arrondissement de l'Est vaudois a rendu une ordonnance
+de non-entrée en matière pour des motifs d'opportunité (art. 52 CP). Il a considéré
+que la plaignante, pourtant invitée à le faire, n'avait pas fourni des indications précises
+quant à la date des infractions dénoncées et au moment où elle en avait eu connaissance.
+Ces incertitudes et le peu d'informations connues de la plaignante elle-même faisaient apparaître
+comme disproportionnées, en raison de l'absence d'intérêt public à la répression,
+les opérations à envisager si une enquête était formellement ouverte.
+B.
+Le 16 novembre 2012, X.________
+a interjeté recours contre cette décision, indiquant qu'elle souhaitait donner à la procureure
+de plus amples explications sur son affaire.
+Le 22 novembre 2012, le Président de la Chambre des recours pénale a imparti à la prénommée
+un délai au 3 décembre 2012 pour qu'elle précise les points contestés et ses conclusions.
+Aucune suite n'a été donnée à cet avis.
+E n  d r o i t :
+1.
+a) En vertu de l'art. 396 al. 1 CPP (Code de procédure pénale suisse du 5 octobre 2007, RS
+312.0), le recours contre les décisions notifiées par écrit ou oralement est motivé
+et adressé par écrit, dans le délai de dix jours, à l'autorité de recours.
+Aux termes de l'art. 385 al. 1 CPP, si le présent code exige que le recours soit motivé –
+ce qui est le cas en l'espèce en vertu de l'art. 396 al. 1 CPP – la personne ou l'autorité
+qui recourt indique précisément les points de la décision qu'elle attaque (let. a), les
+motifs qui commandent une autre décision (let. b) et les moyens de preuve qu'elle invoque (let.
+c). Conformément à l'art. 385 al. 2 CPP, si le mémoire ne satisfait pas à ces exigences,
+l'autorité de recours le renvoie au recourant pour qu'il le complète dans un bref délai.
+Si, après expiration de ce délai supplémentaire, le mémoire ne satisfait toujours
+pas à ces exigences, l'autorité de recours n'entre pas en matière.
+b) En l'espèce, la recourante n'a pas communiqué les indications qui auraient permis à
+la procureure de se prononcer notamment sur le point de savoir si la plainte avait été déposée
+temps utile, soit dans le délai de trois mois à compter du jour où l'ayant droit a connu
+l'auteur de l'infraction (art. 31 CP [Code pénal suisse du 21 décembre 1937; RS 311.0]), les
+infractions dénoncées, en effet, ne se poursuivant pas d'office.
+Dans son écriture du 16 novembre 2012 adressée à la procureure, X.________ s'est bornée
+à manifester son intention de "faire un recours pour cette affaire", dans le but de "mieux
+détailler [s]on cas". Le recours n'étant pas motivé, un délai au 3 décembre
+2012 a été fixé à son auteur pour y remédier.
+L'intéressée n'ayant pas refait son acte dans le délai imparti, son recours, qui ne satisfait
+pas aux exigences de motivation et de forme prévues par l'art. 385 CPP, est irrecevable.
+2.
+En définitive, le recours est irrecevable. Les frais de la procédure de recours, par 330 fr.
+(art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux du 28 septembre 2010, RSV 312.03.1]), sont
+mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d'arrêt, par 330 fr. (trois cent trente francs), sont mis à la charge de X.________.
+III.
+Le présent arrêt est exécutoire.
+La
+vice-présidente :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme X.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
