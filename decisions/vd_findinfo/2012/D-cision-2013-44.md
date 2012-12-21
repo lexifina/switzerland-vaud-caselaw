@@ -1,0 +1,177 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___44"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 44"
+decided: "2012-12-21"
+published: "2012-12-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3640590"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-117.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2013 / 44
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, LÉSION CORPORELLE SIMPLE, ATTEINTE À LA SANTÉ | 123 CP, 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.12.2012 Décision / 2013 / 44
+
+CLASSEMENT DE LA PROCÉDURE, LÉSION CORPORELLE SIMPLE, ATTEINTE À LA SANTÉ | 123 CP, 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+816
+PE12.014720-PGT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 21 décembre 2012
+__________________
+Présidence
+de               Mme
+E P A R D, vice-présidente
+Juges
+:              Mme
+Byrde et M. Abrecht
+Greffière
+:              Mme
+Bonnard
+*****
+Art.
+123 ch. 1 CP, 310, 393 al. 1 let. a CP
+Vu la plainte déposée le 20 juillet 2012 par
+S.________
+contre
+A.H.________
+et
+B.H.________
+à raison de faits survenus le 24 juin 2012,
+vu l'ordonnance du 10 août 2012, par laquelle le Ministère public de l'arrondissement du Nord
+vaudois a refusé d'entrer en matière (I) et a laissé les frais à la charge de l'Etat
+(II),
+vu le recours interjeté le 14 novembre 2012 par S.________ contre cette décision,
+vu le courrier du Ministère public du 13 décembre 2012,
+vu les pièces du dossier;
+attendu
+que S.________ souffre d'un asthme chronique sévère depuis de nombreuses années,
+que, d'après son médecin, la qualité de l'air de son voisinage doit être préservée
+(P. 4),
+que, dans ce contexte, A.H.________ et B.H.________ ont été invités à cesser toute
+utilisation de citronnelle sur leur terrasse attenante à celle de S.________,
+que les problèmes rencontrés par cette dernière et les conséquences dangereuses des
+émanations de la citronnelle sur sa santé ont été rappelés aux deux voisins
+(P. 5),
+que le 20 juillet 2012, S.________ a porté plainte contre A.H.________ et B.H.________, leur reprochant
+d'avoir brûlé de la citronnelle durant l'après-midi du 24 juin 2012, en dépit des
+mises en garde dont ils avaient fait l'objet, et de lui avoir causé une dermohypodermite étendue
+au membre supérieur droit,
+que le 10 août 2012, le Ministère public a rendu une ordonnance de non-entrée en matière,
+approuvée le 23 août 2012 par le Procureur général, pour les motifs que le litige
+qui divise les parties relèverait exclusivement du droit civil et que l'on ne saurait considérer,
+du fait que les époux A.H.________ et B.H.________ ont été avertis par la conseil de S.________
+des problèmes de santé rencontrés par cette dernière, qu'ils ont enfreint la loi
+pénale en allumant une bougie parfumée à la citronnelle sur leur terrasse,
+qu'en outre, le Procureur a relevé que la plaignante était ressortie à deux reprises de
+chez elle, malgré qu'elle avait constaté les émanations en question et déterminé
+leur provenance,
+que, par acte du 12 novembre 2012, S.________ a interjeté recours contre cette décision auprès
+de la Chambre des recours pénale du Tribunal cantonal en concluant à l'annulation de l'ordonnance
+de non-entrée en matière et au renvoi du dossier à l'autorité inférieure;
+attendu qu'interjeté dans le délai légal (art. 322 al. 2 CPP, par renvoi de l'art. 310
+al. 2 et art. 396 al. 1 CPP) contre une décision du Ministère public (art. 393 al. 1 let.
+a CPP), par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes
+prescrites (art. 385 al. 1 CPP), le recours est recevable;
+attendu qu'aux termes de l'art. 310 al. 1 let. a CPP, une ordonnance de non-entrée en matière
+est rendue immédiatement – c’est-à-dire sans qu’une instruction soit ouverte
+(art. 309 al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 c. 2.1; Cornu, in : Kuhn/Jeanneret [éd.],
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 2 ad art. 310 CPP)
+– par le ministère public lorsqu'il apparaît, à réception de la dénonciation
+(cf. art. 301 s. CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310 CPP) ou après une procédure
+préliminaire limitée aux investigations de la police (art. 300 al. 1 et 306 s. CPP), (a) que
+les éléments constitutifs de l'infraction ou les conditions à l'ouverture de l'action
+pénale ne sont manifestement pas réunis, (b) qu’il existe des empêchements de procéder
+ou (c) que les conditions mentionnées à l’art. 8 CPP imposent de renoncer à l’ouverture
+d’une poursuite pénale (TF 1B_111/2012 du 5 avril 2012 c. 2.1; TF 1B_67/2012 du 29 mai 2012
+c. 2.2),
+qu'il suffit que l'un des éléments constitutifs de l'infraction ne soit manifestement pas réalisé
+(Cornu, op. cit., n. 8 ad art. 310 CPP);
+attendu que, selon l'art. 123 ch. 1 CP, celui qui, intentionnellement, aura fait subir à une personne
+une autre atteinte à l'intégrité corporelle ou à la santé sera, sur plainte,
+puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire,
+que cette disposition punit également les atteintes à la santé,
+qu'il y a donc également lésions corporelles lorsque l'auteur provoque une maladie, aggrave
+une maladie ou retarde la guérison (Corboz, Les infractions en droit suisse, volume I, Berne 2010,
+n. 13 ad art. 123 CP, p. 136),
+qu'en l'espèce, il existe suffisamment d'éléments au dossier pour envisager une atteinte
+à la santé,
+qu'au surplus, A.H.________ et B.H.________ ont été informés des problèmes de santé
+rencontrés par S.________ et des conséquences dangereuses sur sa santé que pouvaient avoir
+des émanations de citronnelle (P. 5),
+qu'on peut certes se demander, comme l'a fait le Ministère public, si le comportement de la victime
+n'a pas interrompu le lien de causalité adéquate (Dupuis et al., Petit commentaire du Code
+pénal, Bâle 2012, n. 11 ad art. 117 CP),
+qu'un tel raisonnement ne peut toutefois être tenu au stade de l'entrée en matière,
+qu'au vu de ce qui précède,
+les éléments constitutifs de
+l'infraction
+de lésions corporelles
+,
+au moins par négligence,
+ne
+peuvent pas être exclus à ce stade,
+qu'il appartiendra dès lors au Ministère public d'ouvrir une instruction sur ce point (art.
+309 CPP);
+attendu, en définitive, que le recours, bien
+fondé, doit être admis et l'ordonnance annulée,
+que le dossier sera renvoyé au Ministère public de l'arrondissement du Nord vaudois pour qu'il
+procède dans le sens des considérants, puis rende une nouvelle décision,
+que les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 440 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]),
+seront laissés à la charge de l'Etat (art. 428 al. 4 CPP),
+qu'enfin, s'agissant des dépens réclamés par la recourante, ils suivront le sort de la
+cause au fond (cf. art. 433 CPP; Mizel/Rétornaz, in Kuhn/Jeanneret (éd.), Commentaire romand,
+Code de procédure pénale suisse, 2011, n. 13 ad art. 433 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l'ordonnance du 10 août 2012.
+III.
+Renvoie le dossier de la cause au Ministère
+public de l'arrondissement du Nord vaudois pour qu'il procède dans le sens des considérants.
+IV.
+Dit que les frais du présent arrêt,
+par 440 fr. (quatre cent quarante francs), sont laissés à la charge de l'Etat.
+V.
+Déclare le présent arrêt exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Mireille Loroch, avocate (pour S.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
