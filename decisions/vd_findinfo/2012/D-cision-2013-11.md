@@ -1,0 +1,273 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 11"
+decided: "2012-12-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3615304"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-087.md", "switzerland/bund/acts/312.0/art-147.md", "switzerland/bund/acts/312.0/art-201.md", "switzerland/bund/acts/312.0/art-202.md", "switzerland/bund/acts/312.0/art-205.md", "switzerland/bund/acts/312.0/art-207.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-355.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2013 / 11
+
+## Regeste
+
+COMPARUTION PERSONNELLE, CITATION À COMPARAÎTRE, REPORT{DÉPLACEMENT}, PRÉSENTATION DEVANT L'AUTORITÉ | 202 CPP (CH), 205 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.12.2012 Décision / 2013 / 11
+
+COMPARUTION PERSONNELLE, CITATION À COMPARAÎTRE, REPORT{DÉPLACEMENT}, PRÉSENTATION DEVANT L'AUTORITÉ | 202 CPP (CH), 205 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+806
+PE12.017041-GALN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 21 décembre 2012
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              Mme
+Epard et M. Abrecht
+Greffière
+:              Mme
+Bonnard
+*****
+Art.
+147, 201 ss, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+par
+P.________
+contre la décision du procureur de l’arrondissement de Lausanne du 6 novembre 2012 refusant
+d’ajourner l’audience fixée au 29 novembre 2012 dans la cause
+n°
+PE12.017041-GALN
+.
+Elle considère:
+En fait:
+A.
+a)
+P.________ fait l’objet d’une instruction pénale (art. 309 CPP) diligentée par
+le procureur de l’arrondissement de Lausanne. Il lui est reproché d’avoir, à Lausanne,
+le 3 juillet 2012 à 22h00, provoqué un accident avec un autre véhicule en ne maintenant
+pas correctement sa droite et de ne pas avoir respecté ses devoirs de conductrice impliquée
+dans un accident.
+P.________ a été condamnée par ordonnance pénale du 16 octobre 2012 pour violation
+simple des règles de la circulation routière, dérobade aux mesures visant à déterminer
+l’incapacité de conduire et violation des devoirs en cas d’accident.
+Par courrier recommandé du 24 octobre 2012, elle a formé opposition à l’encontre
+de cette ordonnance pénale.
+b)
+Le 29 octobre 2012, le Ministère public de l’arrondissement de Lausanne a adressé à
+P.________, avec copie à son défenseur, l’avocate Joëlle Vuadens, un mandat de comparution
+dans la procédure d’opposition (art. 201 et 355 CPP) pour être entendue comme prévenue
+le 29 novembre 2012 à 15 heures par le collaborateur juridique du procureur en charge du dossier.
+Par fax et courrier du 1
+er
+novembre 2012 (P. 9), l’avocate Joëlle Vuadens a requis le report de l’audition de P.________
+à une date ultérieure en raison du fait qu’elle était d’ores et déjà
+retenue ce jour-là à une audience de jugement auprès du Tribunal de l’arrondissement
+de l’Est vaudois, à Vevey.
+Par lettre du 6 novembre 2012 (P. 10), envoyé sous pli simple (courrier B) reçu le 9 novembre
+2012, le procureur a refusé de reporter l’audience agendée au 29 novembre 2012. Tout
+en attirant l’attention de l’avocate Joëlle Vuadens sur l’art. 147 aI. 2 CPP,
+il l’a informée que son indisponibilité ne justifiait pas un ajournement de l’audience,
+dont la date avait été fixée suffisamment à l’avance pour lui permettre de
+s’organiser, relevant qu’elle avait la possibilité de se faire remplacer par un autre
+avocat ou un stagiaire appartenant à son Etude.
+Par courrier recommandé et par fax du 9 novembre 2012 (P. 11), l’avocate Joëlle Vuadens
+a relevé qu’il n’y avait aucune urgence particulière dans ce dossier, dont l’instruction
+avait d’ailleurs été confiée à un greffier, et a dès lors requis une fois
+de plus le renvoi de l’audience du 29 novembre 2012.
+Par courrier du 13 novembre 2012 (P. 12), le procureur a informé l’avocate Joëlle Vuadens
+qu’il n’entendait pas revenir sur sa décision.
+B.
+a)
+Par acte du 19 novembre 2012, remis à
+la Poste le même jour, P.________, par son défenseur, a recouru auprès de la Chambre des
+recours pénale du Tribunal cantonal contre la décision du procureur du 6 novembre 2012 refusant
+d’ajourner l’audience fixée au 29 novembre 2012, en concluant avec suite de frais et
+dépens à l’annulation de cette décision et à l’annulation de la citation
+à comparaître à l’audience du 29 novembre 2012. Elle a en outre sollicité l’octroi
+de l’effet suspensif.
+Par ordonnance du 20 novembre 2012, le Président de la Chambre des recours pénale a admis la
+requête d’effet suspensif, considérant que l’instruction du dossier ne revêtait
+aucune urgence et qu’il y avait donc lieu de surseoir à l’audition déjà fixée.
+b)
+Dans ses déterminations datées du 20 décembre 2012, le procureur – se demandant
+si le recours avait encore un objet – a conclu à l’admission du recours et au renvoi
+de la cause au Ministère public de l’arrondissement de Lausanne en vue de la fixation d’une
+nouvelle audience.
+En droit:
+1.
+a)
+Aux termes de l’art. 393 al. 1 let. a
+CPP (Code de procédure pénale suisse; RS 312.0), le recours est recevable contre les décisions
+et actes de procédure du ministère public. Une décision par laquelle le ministère
+public refuse de révoquer un mandat de comparution (art. 205 al. 3 CPP; cf. c. 3c infra) est ainsi
+susceptible de recours selon les art. 393 ss CPP. Ce recours s’exerce auprès de l’autorité
+de recours (cf. art. 20 al. 1 let. b CPP), qui dans le canton de Vaud est la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du code de procédure pénale suisse;
+RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire; RSV 173.01]). Le recours doit être
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP).
+b)
+En l’espèce, il y a donc lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente et satisfait aux conditions
+de forme posées par l’art. 385 al. 1 CPP.
+2.
+A titre préliminaire, le procureur soulève la question de savoir si le recours a encore un
+objet dans la mesure où l’audience litigieuse a été annulée par la décision
+d’octroi de l’effet suspensif.
+Or tel est bien le cas puisque la recourante a un intérêt à obtenir la constatation que
+le mandat de comparution a été décerné, respectivement n’a pas été
+décerné, en violation du droit (CREP 14 décembre 2012/776; Gregor T. Chatton, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 46 ad art.
+207 CPP).
+3.
+a)
+Tout mandat de comparution du ministère public, des autorités pénales compétentes
+en matière de contraventions et des tribunaux est décerné par écrit (art. 201 al.
+1 CPP) et contient les indications prescrites par l’art. 201 al. 2 CPP. Le mandat de comparution
+est notifié au moins trois jours avant la date de l’acte de procédure dans la procédure
+préliminaire et au moins dix jours avant la date de l’acte de procédure dans la procédure
+devant le tribunal (art. 202 al. 1 CPP). Cela étant, l’art. 202 al. 3 CPP prévoit que
+lorsqu’elle fixe les dates de comparution aux actes de procédure, l’autorité tient
+compte de manière appropriée des disponibilités des personnes citées. Selon la doctrine,
+cette disposition – qui, par l’usage du terme « de manière appropriée »,
+laisse une marge d’appréciation certaine en faveur de l’autorité pénale qui
+décerne le mandat de comparution et en fixe les date et heure – impliquera le cas échéant
+pour l’autorité un contact téléphonique préalable, en particulier avec l’avocat
+de la personne citée lorsque l’autorité pénale a connaissance de ce que la personne
+citée est assistée par un avocat et que ce dernier est autorisé à l’accompagner
+(Gregor T. Chatton, op. cit., nn. 12 et 15 ad art. 202 CPP; Ulrich Weder, in: Donatsch/Hansjakob/Lieber
+(éd.), Kommentar zur Schweizerischen Strafprozessordnung, 2010, n. 7 ad art. 202 CPP; Sararard Arquint,
+in: Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Bâle 2011, n. 4 ad art. 202 CPP). En effet, l’indisponibilité de son avocat lors de l’acte
+de procédure en question priverait la personne citée, en particulier le prévenu, de moyens
+de défense substantiels, et le fait que le destinataire direct du mandat de comparution soit la
+personne citée, tandis que son conseil juridique n’en reçoit qu’une copie (art.
+87 al. 4 CPP), ne modifie en rien cette obligation de l’autorité pénale (Chatton, op.
+cit., n. 15 ad art. 202 CPP; cf. Arquint, op. cit., n. 4 ad art. 202 CPP).
+b)
+Selon l’art. 147 al. 2 CPP, celui qui fait valoir son droit de participer à la procédure
+ne peut exiger que l’administration des preuves soit ajournée. Cette disposition permet d’administrer
+les preuves en cas d’urgence, même si les parties ou leurs conseils juridiques ne peuvent
+se libérer à brève échéance; elle permet d’éviter le risque que,
+faute de dates acceptables pour toutes les parties, des preuves ne puissent pas être administrées
+ou les parties puissent prolonger inutilement la procédure (Olivier Thormann, in: Kuhn/Jeanneret
+(éd.), op. cit., n. 4 ad art. 147 CPP et les références citées; Dorrit Schleiminger,
+in: Niggli/Heer/Wiprächtiger (éd.), op. cit., n. 10 ad art. 147 CPP). L’art. 147 al.
+2 CPP ne dispense en revanche pas l’autorité pénale du devoir que lui impose l’art.
+202 al. 3 CPP de tenir compte, dans la mesure du possible, des disponibilités de la personne citée
+à comparaître et de celles de son avocat; les demandes d’ajournement fondées doivent
+être acceptées pour autant que le retard qui en résulte se révèle acceptable
+(Schleiminger, op. cit., n. 10 ad art. 147 CPP; Thormann, op. cit., n. 4 ad art. 147 CPP).
+c)
+Lorsque l’autorité décerne un mandat de comparution sans avoir vérifié au préalable
+les disponibilités de la personne citée respectivement celles de son avocat, la personne qui
+est empêchée de comparaître ou dont l’avocat est empêché de l’assister
+à la date et à l’heure fixées doit en informer sans délai l’autorité,
+en lui indiquant les motifs de son empêchement et en lui présentant les pièces justificatives
+éventuelles (art. 205 al. 2 CPP). En présence de justes motifs, il y aura lieu pour l’autorité
+décernante de révoquer le mandat de comparution (art. 205 al. 3 CPP) et d’adopter un
+nouveau mandat pour une date ultérieure (cf. Chatton, op. cit., nn. 6 ss ad art. 205 CPP; Arquint,
+op. cit., n. 6 ad art. 205 CPP).
+d)
+En l’espèce, le procureur a cité la prévenue à comparaître à une
+audience de son collaborateur, sans avoir consulté préalablement par téléphone le
+défenseur de la prévenue, par un mandat de comparution que la prévenue et son défenseur
+ont reçu moins d’un mois avant la date de l’audience. Une telle manière de procéder
+est contraire à la Directive n° 7 du Procureur général sur les modalités et
+les délais lors de la fixation des audiences par les procureurs, qui prévoit qu’ «
+[e]n règle générale, la personne à entendre est citée par un mandat de comparution
+écrit adressé de manière à ce qu’il lui parvienne au moins six semaines avant
+la date d’audience. Son conseil est, le cas échéant, avisé par l’envoi d’une
+copie du mandat de comparution en respectant le même délai » (ch. 2.1) et que « [l]orsque,
+sans urgence mais pour des motifs d’opportunité ou de célérité de la procédure,
+le procureur décide de fixer audience dans un délai inférieur à six semaines, il
+doit consulter préalablement par téléphone le défenseur du prévenu pour convenir
+d’une date » (ch. 2.2). Certes, cette Directive n'engage pas la Cour de céans. Il n'en
+reste pas moins qu'elle est adéquate et suffisamment pondérée pour tenir compte des exigences
+de chaque partie de la procédure.
+Dans la mesure où l’audition de la prévenue ensuite de son opposition à l’ordonnance
+pénale du 16 octobre 2012 (cf. art. 355 CPP) ne revêt aucune urgence et où le procureur
+ne s’était pas assuré de la disponibilité du défenseur de la prévenue
+en vue de l’audience fixée au 29 novembre 2012 à 15 heures, le refus du procureur d’ajourner
+l’audience après que le défenseur du prévenu l’eut informé sans délai
+des motifs qui l’empêchaient d’assister sa cliente à l’audience du 29 novembre
+2012 n’est pas défendable. Au vu des circonstances, pour respecter le droit de la prévenue
+d’être assistée de son défenseur lors de son audition, le procureur aurait dû
+révoquer le mandat de comparution du 29 octobre 2012 en application de l’art. 205 al. 3 CPP
+et adopter un nouveau mandat pour une date ultérieure en tenant compte de manière appropriée
+des disponibilités du défenseur de la prévenue. Eu égard à la proximité
+de l’audience, le procureur ne pouvait imposer au défenseur de la prévenue de s’organiser
+afin de se faire remplacer par un autre avocat ou un stagiaire de son Etude, cela d'autant plus que le
+conseil était retenu par une audience devant une autre juridiction du Canton.
+4.
+Il résulte de ce qui précède que
+le recours doit être admis et la décision du 6 novembre 2012 annulée. Il doit être
+constaté que le mandat de comparution du 29 octobre 2012 a été décerné à
+la recourante en violation de ses droits et doit être révoqué. Le dossier sera renvoyé
+au procureur de l'arrondissement de Lausanne pour qu'il fixe une nouvelle audience.
+Vu l’issue de la procédure de recours, les frais de cette procédure, constitués
+en l’espèce du seul émolument d’arrêt (art. 422 al. 1 CPP), par 770 fr. (art.
+20
+al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.11]), seront laissés â la charge
+de l’Etat (art. 428 al. 1 CPP).
+Enfin, s'agissant des dépens réclamés par la recourante, ils suivront le sort de la cause
+au fond (art. 433 CPP; Mizel/Rétornaz, in Kuhn/Jeanneret (éd.), op. cit., n. 13 ad art. 433
+CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est admis.
+II.
+La décision du 6 novembre 2012 est annulée.
+III.
+Le mandat de comparution du 29 octobre 2012, décerné
+par le Ministère public de l'arrondissement de Lausanne à P.________ en violation des droits
+de cette dernière, est révoqué.
+IV.
+Le dossier est renvoyé au Ministère
+public de l'arrondissement de Lausanne pour qu'il fixe une nouvelle audience.
+V.
+Les frais de la procédure de recours, par
+770 fr. (sept cent septante francs), sont laissés à la charge de l'Etat.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Joëlle Vuadens, avocate (pour P.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
