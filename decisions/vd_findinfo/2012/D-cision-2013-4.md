@@ -1,0 +1,125 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 4"
+decided: "2012-12-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3610815"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md"]
+---
+
+# VD Findinfo Décision / 2013 / 4
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE | 18 al. 5 LPA-VD, 122 al. 1 let. a CPC (CH), 2 al. 1 RAJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 27.12.2012 Décision / 2013 / 4
+
+ASSISTANCE JUDICIAIRE | 18 al. 5 LPA-VD, 122 al. 1 let. a CPC (CH), 2 al. 1 RAJ
+
+TRIBUNAL
+CANTONAL
+AJ
+155/11
+AJ11.049337
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 27 décembre 2012
+__________________
+Présidence
+de               Mme
+Thalmann
+,
+juge instructeur
+Greffière
+:              Mme
+Mestre Carvalho
+*****
+Cause
+pendante entre :
+E.________
+,
+à […], recourant, représenté par Me Julien Lanfranconi, avocat à Lausanne,
+et
+Office
+de l'assurance-invalidité pour le canton de Vaud
+,
+à Vevey, intimé.
+_______________
+Art.
+122 et 123 CPC; art. 18 LPA-VD; art. 2 RAJ
+Vu
+le recours déposé le 12 décembre
+2011 par E.________, représenté par l’avocat Julien Lanfranconi, contre la décision
+de l’Office de l'assurance-invalidité pour le canton de Vaud (ci-après : l'OAI) du 9
+novembre 2011,
+vu la demande d’assistance judiciaire déposée le même jour par le recourant,
+vu la décision du 4 janvier 2012 du juge instructeur désignant Me Julien Lanfranconi en qualité
+d’avocat d’office d’E.________, dans la procédure de recours contre la décision
+de l’OAI précitée, et allouant l’assistance judiciaire avec effet au 12 décembre
+2011,
+vu la liste des opérations déposée le 7 novembre 2012,
+vu les pièces au dossier;
+attendu que
+les avocats désignés ont droit au remboursement de leurs débours et à des indemnités,
+que l'indemnité doit être fixée eu égard aux opérations nécessaires pour
+la conduite du procès, et en considération de l'importance de la cause, de ses difficultés,
+de l'ampleur du travail et du temps consacré par le conseil juridique commis d'office (cf. art.
+2 al. 1 RAJ [règlement cantonal du 7 décembre 2010 sur l'assistance judiciaire en matière
+civile; RSV 211.02.3]),
+que, s’agissant des honoraires de l’avocat commis d’office, le Tribunal fédéral
+part d’un tarif horaire de l’ordre de 180 fr. comme règle de base (cf. ATF 132 I 201;
+cf. également art. 2 al. 1 let. a RAJ);
+attendu qu’en l’occurrence Me Julien Lanfranconi a chiffré à 13 heures 50 le temps
+consacré à ce dossier en procédure de recours, et a arrêté à 35 fr. les
+frais et débours encourus dans ce contexte,
+que la quotité des opérations listées ainsi que le temps consacré à leur réalisation
+paraissent adéquats eu égard à la complexité de la cause,
+qu’il y a dès lors lieu de fixer l’indemnité – au tarif horaire de 180 fr.
+– à 2’490 fr. (13.50 heures), plus TVA à 8 % d’un montant de 199 fr. 20,
+qu’en ce qui concerne les débours, ils s'élèvent à 35 fr., plus TVA à
+8%, soit 37 fr. 80,
+que l’indemnité d’office est fixée à 2’727 fr;
+attendu que l'indemnité globale sera supportée par le canton, provisoirement (cf. art. 122
+al. 1 let. a CPC [code de procédure civile du 19 décembre 2008; RS 272], applicable par renvoi
+de l'art. 18 al. 5 LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la procédure administrative;
+RSV 173.36]), la partie étant tenue à remboursement dès qu'elle est en mesure de le faire
+(cf. art. 123 al. 1 CPC, applicable par renvoi de l'art. 18 al. 5 LPA-VD), selon les conditions fixées
+par le Service juridique et législatif.
+Par
+ces motifs,
+le
+juge instructeur de
+la
+Cour des assurances sociales du Tribunal cantonal
+:
+I.
+Fixe l'indemnité de conseil d'office d'E.________ allouée à Me Julien Lanfranconi à
+2'727 fr. (deux mille sept cent vingt-sept francs).
+II.
+Dit que le bénéficiaire de l'assistance judiciaire est, dans la mesure de l'art. 123 CPC
+applicable par renvoi de l'at. 18 al. 5 LPA-VD, tenu à remboursement de l'indemnité du conseil
+d'office mis à la charge de l'Etat.
+Le
+juge instructeur :
+La greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+Me Julien Lanfranconi,
+‑
+E.________,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
