@@ -1,0 +1,203 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___21"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 21"
+decided: "2012-12-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3618379"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-314.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-394.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 21
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE, ADMINISTRATION DES PREUVES, DEMANDE ADRESSÉE À L'AUTORITÉ, DÉCISION D'IRRECEVABILITÉ | 314 CPP (CH), 394 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.12.2012 Décision / 2013 / 21
+
+SUSPENSION DE LA PROCÉDURE, ADMINISTRATION DES PREUVES, DEMANDE ADRESSÉE À L'AUTORITÉ, DÉCISION D'IRRECEVABILITÉ | 314 CPP (CH), 394 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+807
+PE09.014760-GMT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 27 décembre 2012
+__________________
+Présidence
+de               Mme
+Epard
+,
+vice-présidente
+Juges
+:              M.
+Creux et Mme Byrde
+Greffier
+:              M.
+Addor
+*****
+Art.
+109, 394 let. b CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+par
+B.Q.________
+et
+C.Q.________
+contre la décision du Ministère public de l'arrondissement du Nord vaudois du 27 novembre 2012
+rejetant leur requête de suspension de cause et refusant de donner suite à leurs réquisitions
+de preuves (
+dossier PE09.014760-GMT
+).
+Elle considère :
+E n  f a i t :
+A.
+A.Q.________, né le 12 mai 1991, s'est donné la mort par pendaison dans la nuit du 17 au 18
+juin 2009, alors qu'il était hospitalisé sur un mode volontaire au Centre [...], à Yverdon-les-Bains.
+L'expert psychiatre commis en cours d'enquête aux fins d'évaluer le caractère adéquat
+de la prise en charge du jeune homme dans cet établissement, la Doctoresse K.________, a déposé
+son rapport le 22 février 2011, jugeant en substance que le suivi du patient avait été
+approprié (P. 25).
+Le 28 avril 2011, les parents de A.Q.________, B.Q.________ et C.Q.________ ont requis une nouvelle expertise
+dans le domaine médicamenteux pour des patients qualifiés de psychiatriques. Ils ont également
+sollicité que le dossier médical du Docteur V.________, qui suivait leur fils avant son hospitalisation,
+et que l'infirmière à laquelle A.Q.________ s'était confié en premier soit entendue
+en qualité de témoin.
+Le 11 août 2011, le procureur a refusé de donner suite à ces réquisitions.
+Par arrêt du 30 septembre 2011, la Chambre des recours pénale du Tribunal cantonal, statuant
+sur recours de B.Q.________ et C.Q.________, a confirmé cette décision.
+Le 31 août 2012, la Doctoresse K.________, à la suite du mandat confié par le procureur,
+a déposé un rapport d'expertise complémentaire.
+B.
+Le 15 octobre 2012, les
+parties plaignantes B.Q.________ et C.Q.________ ont requis du procureur qu'il procède à leur
+audition, qu'il saisisse le dossier médical du Docteur V.________ et qu'il entende celui-ci, et
+qu'il leur communique les analyses toxicologiques du médecin légiste. Ils ont également
+sollicité la suspension de l'instruction de la procédure pénale, pour permettre à
+l'expert mandaté par leurs soins de s'acquitter de sa mission (P. 46).
+Par décision du 27 novembre 2012, le procureur a rejeté la requête de suspension de cause
+(I) et refusé de donner suite aux réquisitions de mesures d'instruction complémentaires
+des plaignants (II).
+C.
+Par acte du 10 décembre 2012, B.Q.________ et C.Q.________ ont interjeté recours contre cette
+décision, en concluant implicitement à son annulation et à la mise en œuvre des mesures
+d'instruction requises le 15 octobre 2012.
+E n  d r o i t :
+1.
+L'ordonnance attaquée comportant deux décisions
+distinctes, la recevabilité du recours doit être examinée séparément en fonction
+de chacune d'elles.
+2.
+Recours contre la décision
+refusant la suspension de la procédure
+a) L'art. 314 al. 1 CPP (Code de procédure pénale suisse du 5 octobre 2007, RS 312.0) prévoit
+que le Ministère public peut suspendre l'instruction aux conditions énumérées aux
+lettres a à d. La mission du Ministère public consistant à établir les faits dans
+la mesure utile et dans le respect du principe de célérité, au sens des art. 308 al. 1
+et 5 CPP, la suspension de la procédure doit constituer l'exception, qui ne peut se justifier que
+quand les conditions légales sont réunies. Parmi les cas énumérés, figure celui
+où il paraît indiqué d'attendre le résultat d'un autre procès (let. b), qui
+peut être de nature civile, pénale ou administrative (Cornu, in: Kuhn/Jeanneret (éd.),
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 1 et 13 ad art. 314
+CPP, pp. 1427 et 1429). Le Ministère public dispose d'un large pouvoir d'appréciation pour
+décider d'une éventuelle suspension. Il doit toutefois examiner si le résultat de l'autre
+procédure peut véritablement jouer un rôle pour le résultat de la procédure
+pénale suspendue et s'il simplifiera de manière significative l'administration des preuves
+dans cette même procédure (TF 1B_721/2011 du 7 mars 2012; Cornu,
+ibidem
+).
+b) Si un recours à la Chambre des recours pénale, au sens de l'art. 393 al. 1 let. a CPP, est
+ouvert contre la décision du procureur de suspendre l'instruction (Cornu, in: Kuhn/Jeanneret (éd.),
+op. cit., n. 23 ad art. 314 CPP ; Omlin, in: Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar,
+Schweizerische Straf­prozessordnung, Jugendstrafprozessordnung, Bâle 2011, n. 44 ad art. 314
+CPP; Stephenson/Thiriet, in: Niggli/Heer/Wiprächtiger (éd.), op. cit., n. 10 ad art. 393 CP;
+CREP 23 juin 2012/440, CREP 3 avril 2012/248, et les références citées), il n'y a en revanche
+aucun recours contre le refus du procureur de suspendre la procédure, les parties n'ayant pas un
+droit à requérir une suspension (Omlin, in: Niggli/Heer/Wiprächtiger (éd.), op. cit.,
+n. 47 ad art. 314 CPP, p. 2187; Schmid, Schweizerische Strafprozessordnung, Praxiskommentar, Zurich 2009,
+n, 13 ad art. 314 CPP, p. 600; Landshut, in: Donatsch/Hansjakob/Lieber (éd.), Kommentar zur Schweizerischen
+Strafprozessordnung, 2010, n. 25 ad art. 314 CPP, p. 1573).
+Au vu de ce qui précède, le recours est irrecevable tant qu'il vise la décision refusant
+de donner suite à une demande de suspension de la procédure pénale (cf. CREP 26 septembre
+2012/583; CREP 13 août 2012/493).
+3.
+Recours
+contre la décision refusant de donner suite aux réquisitions de preuves
+a) Aux termes de l’art. 393 al. 1 let. a CPP, le recours est recevable contre les décisions
+et les actes de procédure du Ministère public. Ainsi, la décision du Ministère public
+d'administrer ou de refuser d'administrer une preuve au sens des art. 139 ss CPP est en principe susceptible
+de recours selon les art. 393 ss CPP (Keller, in Donatsch/Hansjakob/Lieber [éd.], op. cit., n. 16
+ad art. 393 CPP; CREP 4 décembre 2012/739). Toutefois, l'art. 394 let. b CPP précise que le
+recours est irrecevable lorsque le Ministère public ou l'autorité pénale compétente
+en matière de contraventions rejette une réquisition de preuves qui peut être réitérée
+sans préjudice juridique devant le tribunal de première instance. Les décisions relatives
+à l'administration des preuves ne sont en principe pas de nature à causer un dommage juridique
+irréparable (ATF 136 IV 92 c. 4; ATF 134 III 188 c. 2.3; ATF 133 IV 139 c. 4; ATF 99 Ia 437
+c. 1; TF 1B_688/2011 du 14 mars 2012). Cette règle comporte toutefois des exceptions, notamment
+lorsque le refus porte sur des moyens de preuve qui risquent de disparaître et qui visent des faits
+décisifs non encore élucidés (ATF 133 IV 335 c. 4; ATF 101 Ia 161; ATF 98 Ib 282
+c. 4; TF 1B_688/2011 du 14 mars 2012 et les réf. citées). Par "préjudice juridique",
+on entend notamment le témoin qui ne pourrait pas être entendu ultérieurement dans la
+procédure, ou qui ne pourrait l'être que difficilement, ainsi que la situation où une
+expertise devrait être menée immédiatement en raison des possibles modifications de son
+objet (Rémy, in Kuhn/Jeanneret [éd.], op. cit., n. 6 ad art. 394 CPP).
+b) En l'espèce, qu'une ordonnance de classement soit rendue ou la mise en accusation prononcée,
+les réquisitions de preuves litigieuses peuvent être renouvelées. Dans le premier cas,
+elles peuvent l'être dans le délai de prochaine clôture et constituer, en cas de refus
+d'y donner suite, un motif d'annulation de la décison de classement. Dans le second cas, il est
+possible de les réitérer devant le tribunal de première instance. Dans l'une et l'autre
+hypothèses, le refus de donner suite aux réquisitions présentées par les recourants
+n'est pas de nature à leur causer un préjudice irréparable, les preuves sur lesquelles
+portent ces réquisitions ne risquant pas de disparaître prochainement (CREP 21 décembre
+2012/801). Au demeurant, on relève que la cour de céans, dans son arrêt du 30 septembre
+2011, a déjà eu l'occasion de se prononcer sur certaines des réquisitions formulées
+dans la présente procédure. Il n'y a donc pas lieu d'y revenir ici.
+Il résulte de ce qui précède que le recours est également irrecevable de ce point
+de vue.
+4.
+En définitive, le recours doit être déclaré irrecevable, les frais de la procédure
+de recours, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux du 28 septembre
+2010; RSV 312.03.1]), étant mis à la charge des recourants (art. 428 al. 1 CPP), solidairement
+entre eux.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d'arrêt, par 550 fr. (cinq cent cinquante francs), sont mis à la charge de B.Q.________
+et C.Q.________, solidairement entre eux.
+III.
+Le présent arrêt est exécutoire.
+La
+vice-présidente :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Mauro Poggia, avocat (pour B.Q.________ et C.Q.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
