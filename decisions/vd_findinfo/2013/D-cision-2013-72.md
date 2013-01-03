@@ -1,0 +1,276 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___72"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 72"
+decided: "2013-01-03"
+published: "2013-01-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3649261"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 72
+
+## Regeste
+
+DÉFENSE D'OFFICE, INDEMNITÉ{EN GÉNÉRAL}, AVOCAT D'OFFICE | 135 al. 3 let. a CPP (CH), 395 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.01.2013 Décision / 2013 / 72
+
+DÉFENSE D'OFFICE, INDEMNITÉ{EN GÉNÉRAL}, AVOCAT D'OFFICE | 135 al. 3 let. a CPP (CH), 395 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+35
+PE11.002942-SGW
+LE
+JUGE DE LA
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 janvier 2013
+__________________
+Juge
+:
+M.
+Abrecht
+Greffier
+:              M. Ritter
+*****
+Art.
+135 al. 3 let. a, 395 let. b CPP
+Vu le jugement du 29 novembre 2012, par lequel le Tribunal correctionnel de l'arrondissement de la Broye
+et du Nord vaudois a, notamment, constaté que F.________ s’était rendu coupable de délit
+manqué de viol, de viol, ainsi que de contravention à la LStup (I), l'a condamné à
+une peine privative de liberté de quatre ans, sous déduction de 512 jours de détention
+préventive déjà subie (II), l'a condamné à payer à [...] la somme de 10'000
+fr., avec intérêts à    5 % l'an dès le 26 février 2011, à titre
+de tort moral (VI), l'a condamné à payer à [...] la somme de 5'000 fr., valeur échue,
+à titre de tort moral (VII), a arrêté l'indemnité due à Me Manuela Ryter Godel
+en sa qualité de conseil d'office d'[...] à 7'074 fr., débours et TVA compris, à
+la charge de l'Etat sous réserve des art. 135 al. 4 et 138 CPP (VIII), a arrêté l'indemnité
+due à Me Sandrine Chiavazza en sa qualité de conseil d'office de [...] à 3'266 fr., débours
+et TVA compris, à la charge de l'Etat sous réserve des art. 135 al. 4 et 138 CPP (IX), a arrêté
+l'indemnité due à Me L.________ en sa qualité de conseil d'office de F.________ à
+15'000 fr., débours et TVA compris, sous déduction des montants de 7'683 fr. et 4'153 fr. 70
+déjà versés, à la charge de l'Etat sous réserve des art. 135 al. 4 et 138 CPP
+(X) et a mis une partie des frais, par 19'782 fr. 60, à la charge du condamné, le solde étant
+laissé à la charge de l'Etat (XIII),
+vu le recours interjeté le 12 décembre 2012 par Me L.________ contre ce jugement,
+vu les pièces du dossier;
+attendu
+que Me L.________, désigné dès le début de la procédure comme défenseur
+d'office de F.________, conteste le montant qui lui a été alloué à ce titre par le
+jugement précité,
+qu'il produit une liste globale de ses opérations (P. 127/3),
+que le Tribunal d'arrondissement a renoncé à se déterminer sur le recours;
+attendu que le défenseur d'office peut recourir devant l'autorité de recours contre la décision
+du ministère public et du tribunal de première instance fixant l'indemnité (art. 135 al.
+3 let. a CPP),
+que, selon l'art. 395 let. b CPP, si l'autorité de recours est un tribunal collégial, sa direction
+de la procédure statue seule sur le recours lorsqu'il porte sur les conséquences économiques
+accessoires d'une décision et que le montant litigieux n'excède pas 5'000 francs,
+qu'aux termes de l'art. 13 al. 2 LVCPP (Loi d'introduction du Code de procédure pénale suisse;
+RSV 312.01), un juge de la Chambre des recours pénale est compétent pour statuer sur les recours
+en tant que juge unique dans les cas prévus à l'art. 395 CPP,
+que le Message du Conseil fédéral relatif à l’unification du droit de la procédure
+pénale du 21 décembre 2005 cite, comme conséquences économiques d'une décision,
+les frais, les indemnités et les confiscations (FF 2006 pp. 1057 ss, spéc. p. 1297),
+que, selon la doctrine, les honoraires du défenseur d'office entrent
+dans
+la notion de conséquences économiques d'une décision (Rémy,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, 2011, n.
+2 ad art. 395 CPP; Schmid, Handbuch des schweizerischen Strafprozessrechts, 2009, n. 1521; Stephenson/Thiriet,
+in
+: Niggli/Heer/Wiprächtiger, Basler Kommentar, Schweizerische Strafprozessordnung, 2011, n. 5 ad
+art. 395 CPP),
+que se pose encore la question de la valeur litigieuse, dont dépend la compétence de l'autorité
+pour connaître du recours,
+que le montant litigieux ne doit pas être compris comme étant celui qui est réclamé,
+qu'il représente bien plutôt la différence entre celui-ci et la somme allouée (Stephenson/Thiriet,
+op. cit., n. 6 ad art. 395 CPP),
+qu'en l'occurrence, le montant demandé au titre des conclusions principales du recours s'élève
+à 19'396 fr. 85, débours et TVA compris, par 1'160 fr. et 1'436 fr. 85 respectivement, sous
+déduction des montants de 7'683 fr. et de 4'153 fr. 70 déjà versés, soit à un
+solde de 7'560 fr. 15,
+qu'à titre subsidiaire, le recourant conclut à ce que son indemnité soit augmentée
+dans la mesure que justice dira, de manière conséquente, à hauteur d'un montant supérieur
+à 18'000 fr., débours et TVA compris, sous déduction des montants déjà versés,
+que l'indemnité allouée s'élève à 15'000 fr., débours et TVA compris, sous
+déduction des montants de 7'683 fr. et 4'153 fr. 70 déjà versés, soit à un solde
+de 3'163 fr. 30,
+que la valeur litigieuse est ainsi de 4'396 fr. 85 au titre des conclusions principales du recours,
+qu'elle est inférieure selon ses conclusions subsidiaires,
+que le recours relève donc de la compétence d'un juge unique de la Chambre des recours pénale
+(art. 395 let. b CPP);
+attendu que le défenseur d'office a droit au remboursement intégral de ses débours ainsi
+qu'à une indemnité s'apparentant aux honoraires perçus par le mandataire plaidant aux
+frais de son client,
+que, pour fixer cette indemnité, l’autorité doit tenir compte de la nature et de l’importance
+de la cause, des difficultés particulières qu’elle peut présenter en fait et en
+droit, du temps que le défenseur d’office y a consacré et de la qualité de son travail,
+du nombre de conférences, d’audiences et d’instances auxquelles il a pris part, du résultat
+obtenu et, enfin, de la responsabilité qu’il a assumée (TF 6B_745/2009 du 12 novembre
+2009, c. 10.1; TF 6B_273/2009 du 2 juillet 2009, c. 2.1; TF 6B_102/2009 du 14 avril 2009, c. 2; TF 6B_960/2008
+du 22 janvier 2009, c. 1.1; TF 6B_947/2008 du 16 janvier 2009, c. 2),
+qu'à condition d’être équitable, la rémunération de l’avocat d’office
+peut être inférieure à celle du mandataire choisi (JT 2002 III 204, c. 2.1; ATF 122 I
+1, c. 3a; ATF 117 Ia 22, c. 3a; ATF 109 Ia 107, c. 3b et 3c),
+qu'elle doit non seulement couvrir les frais généraux de l'avocat, mais aussi lui permettre
+de réaliser un gain modeste et non seulement symbolique (ATF 132 I 201 c. 8.6),
+que, dans le canton de Vaud, l'indemnité horaire de l’avocat d’office breveté est
+usuellement fixée à 180 fr., TVA en sus, et celle de l’avocat stagiaire à 110 fr.,
+en règle générale sans TVA (cf. ATF 132 I 201; TF 6B_273/2009 du 2 juillet 2009 c. 2.1;
+cf. aussi art. 2 al. 1 du règlement sur l’assistance judiciaire en matière civile [RSV
+211.02.3] et ATF 137 III 185),
+que l’indemnité due au défenseur
+d’office ne comprend pas seulement un montant représentant ses honoraires, mais également
+le remboursement de ses débours dans la mesure où ceux-ci ne dépassent pas ce qui est
+nécessaire à l’exécution de sa mission (JT 2002 III 204, précité; ATF
+122 I 1, précité; ATF 117 Ia 22, précité, c. 4b),
+que l'autorité chargée de fixer l'indemnité dispose d'un large pouvoir d'appréciation
+dans l'application des normes cantonales relatives à l'indemnisation de l'avocat d'office, n'abusant
+de ce pouvoir que dans le cas où elle apprécie de façon erronée un poste de l'état
+de frais ou se fonde sur un argument déraisonnable (ATF 134 I 140 c. 5.4 et les arrêts cités),
+que l’autorité chargée de fixer la rémunération du défenseur d’office
+peut se prononcer sur le caractère excessif du temps que celui-ci a prétendument consacré
+à sa mission et ne rétribuer que l’activité qui s’inscrit raisonnablement
+dans le cadre de l’accomplissement de la tâche du défenseur, à l’exclusion
+des démarches inutiles ou superflues ou des tâches relevant d’un simple soutien moral
+ou social (ATF 109 Ia 107 c. 3b),
+que l’avocat doit toutefois bénéficier d’une marge d’appréciation suffisante
+pour déterminer l’importance du travail qu’exige l’affaire (ATF 109 Ia 107, précité,
+c. 3b);
+attendu, en l'espèce, que le recourant soutient que c'est à tort que le tribunal correctionnel
+a réduit, d'environ 25 %, la rémunération allouée en s'écartant des trois listes
+qui lui avaient été soumises pour les opérations effectuées au 26 février 2011
+au 28 novembre 2012,
+que le tribunal correctionnel a entièrement alloué, en honoraires et frais, les montants figurant
+sur la première liste des opérations, portant sur la période du 26 février au 12
+décembre 2011 et sur 39 heures 45 de travail, en faisant toutefois abstraction de la TVA, par 614
+fr. 65,
+qu'il a inclus la TVA pour ce qui est de la deuxième liste des opérations, portant sur la période
+du 15 décembre 2011 au 30 mai 2012 et sur 20 heures 35 de travail, en plus des débours, par
+231 fr., mais en réduisant le montant alloué de 92 fr. 70,
+que, pour ce qui est de la troisième liste des opérations, relative à la période
+du 31 mai au 28 novembre 2012, pour 33 heures 10 de travail, le conseil d'office réclame un montant
+de 6'843 fr. 30 au titre des honoraires, débours et TVA compris, en plus de la TVA, par 674 fr.
+65, omise sur la première liste d'opérations, et des 92 fr. 70 manquants sur la seconde liste
+d'opérations,
+que le recourant conclut ainsi, à titre principal, à ce que son indemnité de défenseur
+d'office soit calculée comme il suit : 7'155 fr. (39 heures 45) + 3'705 fr. (20 heures 35) + 5'940
+fr. (33 heures 10), en plus de débours s'élevant à respectivement 528 fr., 231 fr. et
+401 fr. pour ses trois listes d'opérations successives, TVA non comprise (P. 127/3),
+que les honoraires et débours totaux demandés s'élèvent ainsi à 17'960 fr.,
+la TVA y afférente ascendant à 1'436 fr. 80,
+que le montant global réclamé se monte dès lors à 19'396 fr. 80,
+que les versements déjà effectués sont incontestés dans leur principe et leurs quotités,
+que le recourant fait grief au tribunal d'avoir réduit sans motif la durée d'activité
+prise en compte pour fixer l'indemnité d'office, respectivement d'avoir aussi limité les débours
+réclamés, sans davantage justifier sa position,
+que le tribunal correctionnel a retenu que les opérations considérées comme justifiées
+justifiaient une indemnité de défenseur d'office de 15'000 fr. pour toutes choses, débours
+et TVA compris, sous déduction des montants déjà versés,
+qu'il a, ce faisant, procédé à une appréciation globale, indépendamment des
+modalités applicables aux versements antérieurs,
+qu'il peut paraître insolite que la somme allouée
+in
+fine
+incorpore la TVA, alors que le premier versement,
+de 7'683 fr., en faisait abstraction, et que le deuxième versement, de 4'153 fr. 70, semblait l'inclure
+à l'instar du montant final,
+qu'une unification de pratique à cet égard ne pourrait que simplifier les décomptes,
+qu'il n'en reste cependant pas moins que le parti pris de fixer globalement, au terme de la procédure,
+l'indemnité allouée débours et TVA compris ne prête pas le flanc à la critique
+en tant que tel sous l'angle légal, étant précisé que le dispositif du jugement se
+limite à porter en déduction les montants déjà versés sans décompte de
+débours ni de TVA,
+qu'il y a donc lieu de procéder à une appréciation globale de la durée d'activité
+raisonnablement nécessaire à la défense d'office, TVA comprise, les débours invoqués
+par le recourant, à hauteur de 1'160 fr., pouvant être admis,
+que la somme de 15'000 fr. allouée correspond ainsi à une rétribution nette de 12'814
+fr. 15 (sans TVA), ce qui représente quelque 71 heures et dix minutes d'activité,
+que le prévenu avait à répondre de deux tentatives de viol, respectivement d'un viol consommé
+et d'un viol tenté, subsidiairement de lésions corporelles simples et de contrainte, ainsi
+que de contravention à la LStup,
+que la seconde infraction contre l'intégrité sexuelle, commise sur territoire genevois, a fait
+l'objet d'une attraction de compétence en faveur des autorités vaudoises par jonction des causes,
+que le prévenu a été détenu à titre provisoire durant 512 jours au total, en
+deux périodes distinctes,
+que ses dénégations ont été infirmées notamment par les rapports médicaux
+établis au vu de l'examen physique des victimes, d'une part, et de sa propre personne, d'autre part,
+que ces rapports ont été déposés peu après les faits litigieux, sur la base
+d'examens effectués à bref délai,
+que le prévenu n'avait à s'opposer qu'aux prétentions de deux parties plaignantes, ce
+à raison de faits similaires,
+que les moyens de défense articulés étaient les mêmes pour chaque infraction,
+que les mesures d'instruction mises en œuvre ont d'emblée strictement été limitées
+aux faits déterminants, même si la jonction des causes par l'effet de l'attraction de compétences
+a pu compliquer la procédure dans une certaine mesure,
+qu'au vrai, le seul aspect de la procédure de nature à susciter une difficulté relativement
+significative était constitué par l'appréciation de l'expertise psychiatrique, déposée
+le 4 janvier 2010 dans le cadre d'une précédente enquête pénale,
+que les infractions contre l'intégrité sexuelle, subsidiairement contre l’intégrité
+corporelle reléguaient au second plan les infractions à la législation sur les stupéfiants
+dont le prévenu avait à répondre par ailleurs,
+que le mandat de défenseur d'office ne nécessitait ainsi pas d'opérations particulièrement
+fastidieuses ni difficiles, malgré la gravité des infractions dont avait à répondre
+le prévenu,
+que le montant alloué au recourant est largement supérieur à la somme des indemnités
+du conseil d'office de chacune des victimes,
+que, dans ces circonstances, on ne saurait considérer que le tribunal correctionnel a abusé
+de son large pouvoir d'appréciation en fixant une indemnité correspondant à une durée
+d'activité de 71 heures environ, étant précisé que les premiers juges sont mieux
+à même d'évaluer la difficulté de la cause et le temps nécessaire à une
+défense efficace (cf. notamment CREP 11 juin 2012/361),
+qu'en particulier, l'omission initiale de la TVA, par 614 fr. 65, sur les honoraires de 7'683 fr., pour
+regrettable qu'elle soit, ne mène pas à une autre appréciation, sachant que l'on se trouve,
+in fine
+,
+dans le cadre de la marge d'appréciation des premiers juges;
+attendu, en définitive, que le recours, mal fondé, doit être rejeté,
+que les frais de la procédure de recours, constitués des seuls émoluments du présent
+arrêt (art. 422 al. 1 CPP), par 630 fr. (art. 20 al. 1 TFJP; RSV 312.03.1), seront mis à la
+charge du recourant qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+Juge
+de
+la Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme la décision du 29 novembre 2012 fixant à 15'000 fr., débours et TVA compris,
+l'indemnité due à Me L.________ en sa qualité de défenseur d'office de F.________.
+III.
+Dit que les frais de la procédure de recours,
+par 630 fr. (six cent trente francs), sont mis à la charge de L.________.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+juge :               Le greffier :
+Du
+L’arrêt qui précède est notifié, par l'envoi d'une copie complète, à :
+-
+Me L.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Direction de la procédure : Tribunal correctionnel de l'arrondissement de la Broye et du Nord vaudois.
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ce recours doit être déposé devant le Tribunal fédéral dans les trente jours
+qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
