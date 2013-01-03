@@ -1,0 +1,184 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___77"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 77"
+decided: "2013-01-03"
+published: "2013-01-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3652815"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 77
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, JUGE UNIQUE, FRAIS DE LA PROCÉDURE | 319 CPP (CH), 395 let. b CPP (CH), 426 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.01.2013 Décision / 2013 / 77
+
+CLASSEMENT DE LA PROCÉDURE, JUGE UNIQUE, FRAIS DE LA PROCÉDURE | 319 CPP (CH), 395 let. b CPP (CH), 426 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+40
+PE11.018788-ADY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 janvier 2013
+__________________
+Juge
+:              M.
+Meylan
+Greffier
+:              M.
+Heumann
+*****
+Art.
+319, 395 let. b, 426 al. 2 CPP
+Vu l'
+enquête n° PE11.018788-ADY
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+X.________
+pour dénonciation calomnieuse et induction de la justice en erreur et contre
+M.________
+pour escroquerie et faux dans les titres,
+vu l'ordonnance du 13 novembre 2012, par laquelle le Procureur a ordonné le classement de la procédure
+pénale dirigée contre X.________ et M.________ pour les infractions précitées (I
+et II) et a mis les frais de procédure, par 1'200 fr., à la charge de X.________ (III),
+vu la correspondance reçue le 30 novembre 2012, par laquelle X.________ s'est plaint de sa condamnation
+aux frais de justice,
+vu les lettres des 3 et 19 décembre 2012, par lesquelles le Procureur a demandé à X.________
+si sa correspondance devait être considérée comme un recours contre l'ordonnance de classement,
+vu le courrier posté le 27 décembre 2012, par lequel X.________ a confirmé sa volonté
+de recourir contre l'ordonnance de classement,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0]), par le prévenu qui a qualité pour recourir (art. 382
+al. 1 CPP), le recours est recevable,
+que selon l'art. 395 let. b CPP, si l'autorité de recours est un tribunal collégial, sa direction
+de la procédure statue seule sur le recours lorsqu'il porte sur les conséquences économiques
+accessoires d'une décision et que le montant litigieux n'excède pas 5'000 fr.,
+que tel est le cas en espèce puisque le recourant conteste la mise à sa charge des frais de
+procédure, par 1'200 fr.,
+que dès lors, le recours relève de la compétence d'un juge unique de la Chambre des recours
+pénale (art. 13 al. 2 LVCPP [loi d'introduction du Code de procédure pénale suisse du
+19 mai 2009; RSV 312.01]);
+attendu que, le 6 septembre 2011, X.________ a déposé plainte contre M.________,
+qu'il lui reproche d'avoir conclu, à l'aide de son permis C, et en imitant sa signature, un abonnement
+de téléphonie mobile auprès de l'opérateur [...],
+que des communications pour un montant de 2'580 fr. auraient été effectuées par le biais
+de ce nouvel abonnement, ce qui aurait occasionné le blocage de son abonnement conclu précédemment
+auprès du même fournisseur,
+qu'ensuite de l'ouverture d'une instruction, il a pu être établi que X.________ était
+présent aux côtés de M.________ lorsque celui-ci s'est présenté dans les locaux
+de l'opérateur [...] pour y conclure l'abonnement litigieux,
+que X.________ a également reconnu avoir accepté de remettre son permis C au vendeur pour l'établissement
+du contrat,
+qu'il n'aurait toutefois pas remarqué que l'adresse de facturation mentionnée sur le contrat
+était la sienne et qu'il serait ainsi responsable du paiement des communications effectuées
+à l'aide de ce raccordement,
+qu'à la réception de la facture de l'opérateur mobile, il aurait paniqué et déposé
+plainte dans la foulée, s'estimant victime des agissements de M.________,
+qu'ensuite d'une audition à la police, et confronté aux éléments qui précèdent,
+X.________ a déclaré retirer sa plainte,
+que le Procureur a classé la procédure dirigée contre M.________ dans la mesure où
+les opérations d'enquête n'avaient pas permis de confirmer les soupçons à son égard,
+que le classement de la procédure dirigée contre X.________ pour dénonciation calomnieuse
+et induction de la justice en erreur a également été ordonné pour le motif qu'un
+doute subsistait quant aux intentions délictueuses de X.________,
+que toutefois, le Procureur a mis les frais de la procédure, par 1'200 fr., à la charge de
+X.________ considérant que, par son comportement, celui-ci avait provoqué l'ouverture de la
+procédure et rendu plus difficile la conduite de celle-ci,
+que X.________ conteste uniquement ce dernier point;
+attendu que l'art. 426 al. 2 CPP prévoit que lorsque la procédure fait l’objet d’une
+ordonnance de classement ou que le prévenu est acquitté, tout ou partie des frais de procédure
+peuvent être mis à sa charge s’il a, de manière illicite et fautive, provoqué
+l’ouverture de la procédure ou rendu plus difficile la conduite de celle-ci,
+que, selon la jurisprudence du Tribunal fédéral, la condamnation aux frais d'un prévenu
+acquitté ou mis au bénéfice d'une ordonnance de classement ne résulte pas d'une responsabilité
+pour une faute pénale, mais d'une responsabilité proche du droit civil, née d'un comportement
+fautif,
+qu'il est compatible avec les art. 32 al. 1 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999; RS 101) et 6 ch. 2 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits
+de l’homme et des libertés fondamentales; RS 0.101) de mettre les frais à la charge d'un
+prévenu libéré qui, d'une manière engageant sa responsabilité civile, a manifestement
+violé une règle de comportement pouvant découler de l'ordre juridique suisse dans son
+ensemble – dans le sens d'une application par analogie des principes découlant de l'art. 41
+CO (Code des obligations; RS 220) (TF 6B_99/2011 du 13 septembre 2011 c. 5.1.2; Chapuis, in : Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 2 ad art.
+426 CPP) – et a provoqué ainsi l'ouverture d'une enquête pénale ou compliqué
+celle-ci (TF 6B_87/2012 du 27 avril 2012 c. 1.2; ATF 116 Ia 162 c. 2d et c. 2e),
+que seul un comportement fautif et contraire à une règle juridique, qui soit en relation de
+causalité avec les frais imputés, entre en ligne de compte (TF 6B_387/2009 du 20 octobre 2009
+c. 1.1; TF 6B_215/2009 du 23 juin 2009 c. 2.2; ATF 119 Ia 332 c. 1b; ATF 116 Ia 162 c. 2c),
+que la relation de causalité est réalisée lorsque, selon le cours ordinaire des choses
+et l'expérience de la vie, le comportement de la personne concernée était de nature à
+provoquer l'ouverture de la procédure pénale et le dommage ou les frais que celle-ci a entraînés
+(TF 6B_99/2011 du 13 septembre 2011 c. 5.1.2 et les références citées),
+qu'en l'espèce, le recourant ne conteste la mise à sa charge des frais de la procédure
+que dans la mesure où il n'aurait pas les moyens de s'en acquitter,
+que cet argument n'apparaît toutefois pas relevant, puisqu'il n'appartient pas à la Cour de
+céans de se prononcer sur la solvabilité du recourant,
+que le cas échéant, le recourant pourra solliciter un plan de paiement auprès de l'autorité
+compétente pour le recouvrement de cette somme, à savoir le Service juridique et législatif
+– Secteur recouvrement, Case postale, 1014 Lausanne,
+que sur le fond, la décision du Procureur apparaît conforme au droit,
+qu'en effet, si X.________ n'avait pas alerté les autorités en déposant plainte contre
+M.________, la présente procédure pénale n'aurait jamais été ouverte,
+que les opérations d'enquête ont démontré que X.________ avait agi avec une certaine
+légèreté que cela soit au moment de la signature du contrat avec l'opérateur, où
+il ne s'est pas vraiment soucié des conséquences de son acte, ou lors du dépôt de
+sa plainte à la police, où il a présenté une version des faits qui s'est avérée
+non conforme à la réalité,
+que la mise à la charge des frais de la procédure est ainsi pleinement justifiée et conforme
+à l'art. 426 al. 2 CPP,
+que dès lors, la décision du Procureur ne prête pas le flanc à la critique;
+attendu, en définitive, que le recours doit être rejeté et l'ordonnance attaquée
+confirmée,
+que les frais de la procédure de recours, par 450 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge de recourant, qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+Juge
+de
+la Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance attaquée.
+III.
+Dit que les frais de la procédure de recours,
+par 450 fr. (quatre cent cinquante francs), sont mis à la charge de X.________.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+juge :               Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. X.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
