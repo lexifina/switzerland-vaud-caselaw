@@ -1,0 +1,214 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 14"
+decided: "2013-01-03"
+published: "2013-01-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3629149"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2013 / 14
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.01.2013 Décision / 2013 / 14
+
+DÉCISION D'IRRECEVABILITÉ | 310 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+21
+PE12.018163-LML
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 3 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              MM.
+Creux et Meylan
+Greffier
+:              M.
+Heumann
+*****
+Art.
+310, 393 al. 1 let. a CPP
+Vu la plainte déposée le 15 février 2012 par
+V.________
+contre
+O.________
+pour lésions corporelles simples et injure,
+vu l'ordonnance du 5 novembre 2012, par laquelle le Ministère public de l'arrondissement de Lausanne
+a refusé d'entrer en matière sur la plainte (I) et a laissé les frais à la charge
+de l'Etat (II) (dossier
+n° PE12.018163-LML
+),
+vu le recours interjeté le 23 novembre 2012 par V.________ contre cette décision,
+vu les déterminations déposées le 27 décembre 2012 par le Procureur,
+vu les pièces du dossier;
+attendu
+que l'ordonnance du 5 novembre 2012 a été transmise le lendemain au Procureur général
+pour approbation,
+qu'elle a été approuvée le 6 novembre 2012 et envoyée pour notification au recourant
+le 7 novembre 2012,
+que le recourant affirme qu'il n'a reçu celle-ci que le 13 novembre 2012, ce qu'il y a lieu d'admettre
+au vu de ce qui précède et compte tenu du fait que l'ordonnance a été envoyée
+en courrier B,
+que déposé le 23 novembre 2012, le recours l'est dans le délai légal (art. 396 al.
+1 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]),
+que, pour le surplus, interjeté contre une décision du Ministère public (art. 393 al.
+1 let. a CPP), par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP),
+le recours est recevable;
+attendu que, le 12 février 2012, alors qu'il se trouvait au [...], V.________ aurait aperçu
+un individu qui fumait une cigarette à l'intérieur de cet établissement et l'aurait rejoint
+pour partager celle-ci,
+que peu après, O.________, agent de sécurité de la discothèque, l'ayant aperçu,
+lui aurait enjoint d'éteindre cette cigarette et de quitter l'établissement,
+qu'assumant son erreur, V.________ se serait dirigé vers la sortie,
+que consécutivement à sa sortie, O.________ aurait insulté V.________ en le traitant,
+selon les dires de ce dernier, de "connard" et de "fils de pute" et lui aurait assené
+un coup de poing en direction de la mâchoire,
+que V.________ aurait chuté et reçu d'autres coups alors qu'il se trouvait à terre,
+qu'O.________ aurait également saisi V.________ au cou en exerçant à plusieurs reprises
+des pressions de manière à ce que celui-ci ne puisse plus respirer,
+qu'O.________ l'aurait lâché ensuite et il aurait pu faire appel aux forces de l'ordre,
+que V.________ a souffert de nombreuses contusions comme l'atteste le constat médical (P. 7),
+qu'ensuite de ces événements, le 15 février 2012, V.________ a déposé plainte
+contre O.________,
+qu'interrogé sur le déroulement des faits, O.________ a contesté la version des faits
+présentée par V.________,
+qu'il a expliqué qu'après que V.________ avait refusé d'éteindre sa cigarette, il
+aurait fait sortir celui-ci de l'établissement,
+que lors de son intervention non seulement V.________ l'aurait insulté en français ("nique
+ta mère") mais il lui aurait également arraché son bonnet pour ensuite le mettre
+au sol,
+qu'O.________ a indiqué qu'à aucun moment il n'avait insulté, frappé et serré
+au cou V.________, mais qu'il aurait uniquement repoussé celui-ci quand ils se trouvaient à
+terre,
+qu'il a déclaré que deux de ses collègues agents de sécurité pouvaient attester
+ses dires,
+qu'interrogés tous les deux, D.________ et Z.________ ont confirmé qu'O.________ n'avait ni
+frappé ni saisi au cou V.________,
+que par ordonnance du 5 novembre 2012, le Procureur n'est pas entré en matière sur la plainte,
+qu'il a considéré que les déclarations recueilles auprès des témoins des faits
+ne permettaient pas d'établir qu'O.________ avait fait un usage disproportionné de la force,
+que selon le Procureur, il apparaissait plus vraisemblable tant sur la base des déclarations des
+protagonistes que sur la base des photographies au dossier qu'une bousculade avait eu lieu entre O.________
+et V.________, occasionnant leur chute,
+que par ailleurs, selon le Procureur, les lésions subies par V.________ seraient davantage compatibles
+avec une bousculade qu'avec un passage à tabac,
+que le Procureur en a conclu que les accusations du plaignant n'étaient pas corroborées et
+qu'aucune mesure d'instruction n'était susceptible de renseigner davantage sur le déroulement
+exact des faits ce soir-là,
+que V.________ conteste cette décision;
+attendu qu'en vertu de l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont manifestement pas réunis,
+qu’il est donc nécessaire qu’il apparaisse d’emblée que l’un des éléments
+constitutifs de l’infraction n’est manifestement pas réuni (Cornu, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 8 ad art.
+310 CPP, p. 1411),
+que des motifs de fait peuvent également justifier la non-entrée en matière (Cornu, op.
+cit., n. 9 ad art. 310 CPP, p. 1411),
+qu’il s’agit des cas où la preuve d’une infraction, soit de la réalisation
+en fait de ses éléments constitutifs, n’est pas apportée par les pièces dont
+dispose le Ministère public,
+qu’il faut que l’insuffisance de charges soit manifeste,
+que de plus, le Procureur doit examiner si une enquête, sous une forme ou sous une autre, est en
+mesure d’apporter des éléments susceptibles de renforcer les charges contre la personne
+visée,
+que ce n’est que si aucun acte d’enquête ne paraît pouvoir amener des éléments
+utiles que le Ministère public peut rendre une ordonnance de non-entrée en matière,
+qu’en cas de doute sur la possibilité d’apporter ultérieurement la preuve des faits
+en question, la non-entrée en matière est exclue (Cornu, op. cit., n. 9 ad art. 310 CPP,
+p. 1411),
+qu'en l'espèce, l'ordonnance de non-entrée en matière du Procureur se fonde sur les déclarations
+du personnel du [...], à savoir le prévenu, O.________, et ses deux collègues, D.________
+et Z.________,
+que bien qu'il ressorte des auditions de D.________ et Z.________ que ceux-ci confirment le fait qu'O.________
+n'aurait ni frappé ni serré au cou V.________, leurs déclarations divergent néanmoins
+quelque peu de celles du prévenu,
+qu'en particulier, O.________ a déclaré qu'il était tenu au sol par V.________, alors
+que Z.________ a indiqué qu'O.________ tenait fermement V.________ au sol,
+que ces divergences suscitent déjà des doutes quant au déroulement des faits,
+qu'au surplus, on s'étonne du fait que le Procureur n'ait pas cherché à auditionner un
+cercle de personnes plus large que celles gravitant autour du prévenu, à savoir ses collègues,
+que compte tenu de leur relation professionnelle, leur témoignage est en effet sujet à caution,
+qu'enfin, il ressort du rapport médical accompagné de photos que V.________ a subi un certain
+nombre de lésions qui sont loin d'être anecdotiques,
+que sur la base des éléments qui précèdent, on ne saurait considérer que les
+éléments constitutifs des infractions dont se plaint V.________ ne sont manifestement pas réunis,
+qu'ainsi, c'est à tort que le Procureur a rendu une ordonnance de non-entrée en matière
+et une enquête doit être ouverte pour les faits dénoncés par V.________,
+qu'en particulier, il appartiendra au Procureur d'établir quelle est la cause des lésions subies
+par V.________ et si celles-ci peuvent être imputables, d'une manière ou d'une autre, à
+O.________,
+que dans la mesure où la scène s'est déroulée aux abords d'un établissement
+public fréquenté, des investigations devront être conduites afin de rechercher d'autres
+témoins présents ce soir-là,
+qu'au demeurant, contrairement à ce que soutient le Procureur, on ne saurait inférer du fait
+que le [...] n'a pas fourni les images de vidéosurveillance que celles-ci n'existent pas,
+qu'il s'agira donc d'interpeller à nouveau cet établissement pour que cette pièce –
+si elle existe – soit versée au dossier;
+attendu, en définitive, que le recours doit être admis et le dossier de la cause renvoyé
+au Procureur de l'arrondissement de Lausanne pour qu'il procède dans le sens des considérants,
+que les frais de la procédure de recours, par 660 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux; RSV 312.03.1]), sont laissés à la charge de l'Etat (art. 428 al. 4 CPP),
+que s'agissant des dépens réclamés par le recourant, ils suivent le sort de la cause au
+fond (cf. art. 433 CPP; Mizel/Rétornaz, in: Kuhn/Jeanneret (éd.), op. cit., n. 13 ad art. 433
+CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance attaquée est annulée et le dossier de la cause est renvoyé au Ministère
+public de l'arrondissement de Lausanne pour qu'il procède dans le sens des considérants.
+III.
+Les frais d'arrêt, par 660 fr. (six cent
+soixante francs), sont laissés à la charge de l'Etat.
+IV.
+L'arrêt est exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Jeton Kryeziu, avocat (pour V.________),
+-
+M. O.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
