@@ -1,0 +1,239 @@
+---
+decision_id: "vd_findinfo_S_questre___2012___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2012 / 20"
+decided: "2013-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20121214145203265_e.html"
+cites_law: ["switzerland/bund/acts/0.275.12/art-039.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-327.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md"]
+---
+
+# VD Findinfo Séquestre / 2012 / 20
+
+## Regeste
+
+FOR DU SÉQUESTRE, SÉQUESTRE{LP}, COMPÉTENCE RATIONE LOCI, FORUM REI SITAE, DÉCISION DE RENVOI | 272 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.01.2013 Séquestre / 2012 / 20
+
+FOR DU SÉQUESTRE, SÉQUESTRE{LP}, COMPÉTENCE RATIONE LOCI, FORUM REI SITAE, DÉCISION DE RENVOI | 272 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+KH12.043489-122073
+557
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 janvier 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et Rouleau
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+272 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+K.________
+,
+à Founex, contre le prononcé rendu le 1
+er
+novembre
+2012 par le Juge de paix du district de Lausanne, dans la cause l'opposant à
+S.________
+,
+à Malte.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 29 octobre 2012, invoquant le cas de séquestre de l'art. 271 al. 1
+er
+ch. 4 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1) K.________ a requis
+du Juge de paix du district de Lausanne, avec suite de frais et dépens, le séquestre, à
+concurrence de 344'697 fr., de tous les avoirs sous compte IBAN [...] dont la société S.________
+est titulaire, en mains d'UBS SA, à Lausanne, et de tous les avoirs, notamment les actions des sociétés
+[...], [...] et [...] dont les sociétés S.________ ou [...] sont titulaires en mains de [...],
+à Genève. La créance invoquée était une créance de salaire et en remboursement
+de frais de scolarisation prétendument pris en charge par l’employeur.
+2.
+Par prononcé directement motivé du 1
+er
+novembre 2012, notifié au conseil du séquestrant le lendemain, le Juge de paix du district
+de Lausanne a rejeté la requête de séquestre s’agissant des biens sis à Genève,
+arrêté à 660 fr. les frais judiciaires mis à la charge de la partie requérante
+et rayé la cause du rôle. Le premier juge a considéré, en bref, que le Juge de paix
+du district de Lausanne n'était pas compétent pour séquestrer des biens situés à
+Genève.
+3.
+Par acte adressé le 12 novembre 2012 à
+la cour de céans, K.________ a recouru contre le refus du séquestre, concluant avec suite de
+frais et dépens des deux instances, principalement à la réforme du prononcé en ce
+sens que le séquestre est ordonné, subsidiairement à l’annulation du prononcé
+et au renvoi du dossier au premier juge pour nouveau jugement dans le sens des considérants.
+En droit
+:
+I.
+Un recours au sens des art. 319 ss CPC (Code de
+procédure civile du 19 décembre 2008; RS 272) est ouvert contre les décisions rendues
+en matière de séquestre, en vertu des art. 309 let. b et 319 let. a CPC (Blickenstorfer, Zürcher
+Kommentar, nn. 4 et 23-24 ad art. 309 CPC). Depuis l’entrée en vigueur du CPC, le recours
+contre le refus d’ordonner un séquestre n’est donc plus limité au déni de
+justice, comme c’était le cas sous l’empire de la LVLP (loi d'application dans le Canton
+de Vaud de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955; RSV
+280.05).
+Le recours s’exerce par le dépôt d’un acte écrit et motivé auprès
+de l’instance de recours (art. 321 al.1 CPC), dans les dix jours suivant la notification de la
+décision, si elle a été prise en procédure sommaire (art. 321 al. 2 CPC), ce qui
+est le cas des décisions rendues en matière de séquestre (art. 251 let. a CPC).
+Le recours déposé le 12 novembre 2012 par K.________ respecte ces exigences; il est ainsi recevable
+matériellement et formellement.
+II.
+a)
+Selon l’art. 271 al. 1 LP, le créancier
+d’une dette échue et non garantie par gage peut requérir le séquestre des biens
+du débiteur qui se trouvent en Suisse dans six cas, notamment lorsque le débiteur n’habite
+pas en Suisse et qu’il n’y a pas d’autre cas de séquestre, pour autant que la
+créance ait un lien suffisant avec la Suisse ou qu’elle se fonde sur une reconnaissance de
+dette au sens de l’art. 82 al. 1 LP (art. 271 al. 1 ch. 4 LP).
+En vertu de l’art. 272 al. 1 LP, dans sa teneur en vigueur depuis le 1
+er
+janvier
+2011, le séquestre est autorisé par le juge du for de la poursuite ou par le juge du lieu où
+se trouvent les biens, à condition que le créancier rende vraisemblable que sa créance
+existe, qu’on est en présence d’un cas de séquestre et qu’il existe des biens
+appartenant au débiteur.
+b)
+L’art. 272 al. 1 LP a été modifié par l’art. 3 ch. 2 de l’Arrêté
+fédéral du 11 décembre 2009 portant approbation et mise en œuvre de la Convention
+de Lugano, entré en vigueur le 1
+er
+janvier 2011 (RO 2010, p. 5601).
+Jusqu’au 31 décembre 2011, le juge compétent pour ordonner un séquestre était
+celui du lieu où se trouvaient les biens à séquestrer. Compte tenu de la réglementation
+prévue à l’art. 39 al. 2 CL 2007 (Convention de Lugano 2007; Convention concernant la
+reconnaissance judiciaire, la reconnaissance et l'exécution des décisions en matière civile
+et commerciale du 30 octobre 2007; RS 0.275.12), qui prévoit deux fors alternatifs, il est apparu
+nécessaire qu’une couverture territoriale identique soit prévue pour l’exequatur
+et pour l’ordonnance de séquestre; c’est la raison pour laquelle le séquestre peut
+maintenant être prononcé tant par le juge du lieu où se trouvent les biens que par le
+juge de l’un des fors de la poursuite au sens des art. 46 ss LP (FF 2009, p. 1497).  Selon
+le Message, le premier tribunal compétent saisi en vertu de l’art. 272 LP peut prononcer le
+séquestre sur l’ensemble des biens du débiteur quel que soit le lieu où ils se trouvent
+en Suisse. La LP satisfait ainsi à la notion d’espace d’exécution unique en Suisse
+concrétisée par le CPC (FF 2009, p. 1528). Ainsi, si le juge du séquestre ne pouvait jusqu’au
+31 décembre 2010 adresser une ordonnance de séquestre qu’aux offices des poursuites de
+son ressort, il peut désormais les adresser à tous les offices de Suisse, sans qu’il
+soit nécessaire que des biens appartenant au débiteur se trouvent dans son arrondissement
+(Muster, la nouvelle procédure et le droit des poursuites et faillites, in JT 2011 II 75 ss, p.
+102 ; Bovay, La révision de la Convention de Lugano et le séquestre, in JT 2012 II 80,
+p. 93 ; Lazopoulos, Arrestrecht – die wesentlichen Änderungen im Zusammenhang mit
+dem revidierten LugÜ und der Schweizerischen ZPO, in PJA 2011 608 ss, p. 614). Cette modification
+ne vaut pas seulement dans le cadre de l’application de la Convention de Lugano, mais pour tous
+les cas de séquestre (Meier-Dieterle, Arrestpraxis ab 1 Januar 2011, in PJA 2010, p. 1211 ss, p.
+1218).
+c)
+Le juge de paix, citant l’article précité de Muster (
+eod.
+loc.)
+, a rejeté la requête de séquestre
+pour le motif que seul le juge du for de la poursuite au sens de l’art. 46 LP pouvait ordonner
+un séquestre sur des biens sis ailleurs que dans son ressort. En revanche, le juge qui n’est
+ni celui du for de la poursuite ni celui du lieu de situation des biens à séquestrer ne serait
+pas compétent pour ordonner le séquestre de biens situés dans un autre ressort. La débitrice
+n’étant pas domiciliée dans son for, le premier juge a dès lors refusé le séquestre
+pour les biens situés hors de son arrondissement.
+Le recourant critique cette interprétation restrictive de l’art. 272 al. 1 LP, faisant valoir
+qu’elle ne correspond pas à la volonté du législateur.
+La volonté du législateur, exprimée dans le Message (FF 2009 p. 1529), est en effet
+de créer un espace d'exécution unique en Suisse. Il découle de cette volonté que
+si la compétence territoriale du juge saisi d'une requête de séquestre est donnée
+– parce que c'est le lieu de situation d'un des biens à séquestrer ou l'un des fors de
+la poursuite – le lieu de situation des autres biens à séquestrer ne joue plus aucun
+rôle. Dans ce cas, il appartient au juge d'ordonner le séquestre des biens du débiteur
+dans les lieux désignés par le créancier, où qu'ils se trouvent en Suisse, et de
+notifier son ordonnance aux offices compétents (Meier-Dieterle, op. cit., n. 48, p. 1218; Louis
+Gaillard, Procédure civile et exécution forcée, séquestre et acte authentique exécutoire,
+in Journée 2010 de droit bancaire et financier, p. 71 ss, p. 84).
+L'interprétation restrictive du premier juge, qui n'est confirmée par aucun des auteurs cités,
+est contraire à la volonté du législateur, puisqu'elle obligerait les requérants,
+en l'absence d'un for de la poursuite, à déposer autant de requêtes de séquestre
+qu'il y aurait de lieux de situation des biens à séquestrer.
+III.
+Il résulte de ce qui précède que
+le recours est bien fondé, en ce sens que c’est à tort que le premier juge a rejeté
+la requête de séquestre déposée le 29 octobre 2012 par le recourant, en tant
+qu’elle visait les biens situés à Genève.
+Si elle admet le recours, l’instance de recours peut soit annuler la décision et renvoyer
+la cause à l’instance précédente, soit rendre une nouvelle décision si la cause
+est en état d’être jugée (art. 327 al. 3 CPC).
+En l’espèce, rejetant la requête pour motif d’incompétence, le premier juge
+n’a pas vérifié si les autres conditions du séquestre énoncées à
+l’art. 272 al. 1 LP étaient réunies. Il n'a en particulier pas examiné la question
+de l’existence de biens appartenant au débiteur. Il n’est dès lors pas possible
+de réformer la décision sans priver le recourant du droit à la double instance sur les
+questions qui n’ont pas été abordées.
+En définitive, il convient d’annuler le prononcé attaqué et de renvoyer le dossier
+au premier juge afin qu’il rende une nouvelle décision dans le sens des considérants.
+Les frais de deuxième instance, arrêtés à 1'050 fr., sont mis à la charge de
+l'Etat (art. 107 al. 2 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé du 1
+er
+novembre 2012 est annulé.
+III.
+La cause est renvoyée au Juge de paix du district de Lausanne afin qu'il rende une nouvelle décision
+dans le sens des considérants.
+IV.
+Les frais judiciaires de deuxième instance, arrêtés à 1'050 fr. (mille cinquante
+francs), sont mis à la charge de l'Etat.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+4 janvier 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Nicod, avocat (pour K.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 344'697 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de Lausanne.
+La greffière :
