@@ -1,0 +1,247 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 7"
+decided: "2013-01-07"
+published: "2013-01-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3610901"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 7
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE FUITE, RISQUE DE RÉCIDIVE, ACTE ANALOGUE À L'ACTE SEXUEL | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH), 221 CPP (CH), 226 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 07.01.2013 Décision / 2013 / 7
+
+DÉTENTION PRÉVENTIVE, RISQUE DE FUITE, RISQUE DE RÉCIDIVE, ACTE ANALOGUE À L'ACTE SEXUEL | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH), 221 CPP (CH), 226 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+2
+PE11.015623-DBT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 7 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              MM.
+Creux et Meylan
+Greffier
+:              M.
+Addor
+*****
+Art.
+221 al. 1, 229, 393 al. 1 let. c CPP
+Vu l'
+enquête n° PE11.015623-SFE
+instruite par le Ministère public central, division affaires spéciales, contrôle et mineurs,
+contre
+K.________
+pour actes d'ordre sexuel avec des enfants, contrainte sexuelle et pornographie, d'office et sur diverses
+plaintes,
+vu l'appréhension du prévenu le 6 octobre 2011,
+vu l'ordonnance du 8 octobre 2011, par laquelle le Tribunal des mesures de contrainte a ordonné
+la détention provisoire du prévenu pour une durée maximale de trois mois, soit au plus
+tard jusqu'au 6 janvier 2012,
+vu l'ordonnance du 1
+er
+octobre 2012, par laquelle le Tribunal des mesures de contrainte a ordonné en dernier lieu la prolongation
+de la détention provisoire du prévenu pour une durée maximale de trois mois, soit au plus
+tard jusqu'au 6 janvier 2013,
+vu l'acte du 14 décembre 2012, par lequel le procureur a engagé l'accusation devant le Tribunal
+criminel de l'arrondissement de La Côte contre K.________ des chefs d'actes d'ordre sexuel avec
+des enfants, contrainte sexuelle et pornographie,
+vu l'ordonnance du 20 décembre 2012, par laquelle le Tribunal des mesures de contrainte, déférant
+à la requête du Ministère public du 14 décembre 2012, a ordonné la détention
+pour des motifs de sûreté de K.________ pour une durée maximale de quatre mois, soit au
+plus tard jusqu'au 14 avril 2013,
+vu le recours interjeté le 27 décembre 2012 par le prénommé contre cette décision,
+vu les pièces du dossier;
+attendu
+qu’interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0]) contre une décision du Tribunal des mesures de contrainte dans
+un cas prévu par le CPP (art. 393 al. 1 let. c CPP), par le détenu qui a qualité pour
+recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable;
+attendu qu’en vertu de l’art. 221 al. 1 CPP, la détention provisoire et la détention
+pour des motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est
+fortement soupçonné d’avoir commis un crime ou un délit et qu’il y a sérieusement
+lieu de craindre qu’il se soustraie à la procédure pénale ou à la sanction
+prévisible en prenant la fuite (let. a), qu’il compromette la recherche de la vérité
+en exerçant une influence sur des personnes ou en altérant des moyens de preuves (let. b) ou
+encore qu’il compromette sérieusement la sécurité d’autrui par des crimes
+ou des délits graves après avoir déjà commis des infractions du même genre (let.
+c);
+attendu, en l'espèce, que le recourant, plaidant le fond, conteste l'existence de présomptions
+de culpabilité suffisantes,
+qu'il ressort de l'acte d'accusation du 14 décembre 2012 qu'entre août 2010 et mai 2011, alors
+qu'il occupait un emploi d'enseignant spécialisé à l'Ecole [...] à [...], il aurait
+donné régulièrement des bises [...], né le [...], lui aurait fait des câlins
+en classe, pour le calmer et l'inciter à se remettre au travail, lui aurait fait sucer son sexe
+à une occasion et aurait procédé sur lui à des actes de sodomie à quatre reprises,
+en exploitant la fragilité affective de l'enfant,
+que l'acte d'accusation retient que durant la même période, le prévenu, après avoir
+verrouillé la porte de la classe, aurait rattrapé [...] (né le [...]), lequel tentait
+de prendre la fuite, aurait frotté son sexe contre le torse dénudé de l'enfant, l'aurait
+forcé à faire et à subir une fellation, et l'aurait sodomisé en le pénétrant
+à plusieurs reprises, avant de lui recommander de garder le silence,
+que le recourant est encore accusé d'avoir touché le sexe de l'enfant [...], né le [...],
+par-dessus ses habits et de l'avoir forcé à toucher son sexe en érection, toujours par-dessus
+ses habits,
+qu'enfin, il est reproché au prévenu, selon l'acte d'accusation, d'avoir, entre le 15 février
+et le 6 octobre 2011, reçu sur son adresse électronique plusieurs courriels contenant des images
+et des vidéos à caractère pédopornographique et d'avoir téléchargé
+sur son ordinateur et stocké sur son disque dur du matériel de même nature,
+que la mise en accusation du prévenu suppose des soupçons suffisants (cf. art. 324 al. 1 CPP),
+qu'on en déduit qu'il existe contre le recourant de forts soupçons de culpabilité au sens
+de l'art. 221 al. 1 CPP,
+que ces soupçons résultent, au reste, des éléments figurant au dossier, en particulier
+des mises en cause dont le recourant est l'objet, comme l'a constaté la cour de céans dans
+son arrêt du 10 janvier 2012, aux considérants duquel il y a lieu de se référer;
+attendu que l'ordonnance attaquée se fonde sur le risque de fuite,
+que selon la jurisprudence du Tribunal fédéral, le risque de fuite doit s'analyser en fonction
+d'un ensemble de critères tels que le caractère de l'intéressé, sa moralité,
+ses ressources, ses liens avec l'Etat qui le poursuit ainsi que ses contacts à l'étranger,
+qui font apparaître le risque de fuite non seulement possible, mais également probable (ATF
+138 IV 81, c. 3.1 non publié),
+que la gravité de l’infraction ne peut pas, à elle seule, justifier la prolongation de
+la détention, même si elle permet souvent de présumer un danger de fuite en raison de
+l’importance de la peine dont le prévenu est menacé (ibidem),
+qu'en l'espèce, le recourant, ressortissant français né en 1954, qui occupait un emploi
+d'enseignant spécialisé lorsqu'il a été arrêté, présente peu d'attaches
+avec la Suisse, où il ne possède un permis de séjour que depuis le 21 octobre 2009 et
+où il a peu d'amis,
+qu'en outre, il a travaillé de longues années à l'étranger et possède une propriété
+au Pérou, selon la prise de position du Ministère public du 21 décembre 2011 relative
+à la demande de mise en liberté du prévenu,
+qu'enfin, renvoyé devant le tribunal criminel notamment sous les accusations d'actes d'ordre sexuel
+avec des enfants et contrainte sexuelle, le recourant est exposé au prononcé d'une peine privative
+de liberté supérieure à six ans (art. 10 al. 2 LVCPP [Loi vaudoise d'introduction du Code
+de procédure pénale suisse du 19 mai 2009; RSV 312.01]),
+que le risque de fuite est donc bien réel et justifie la détention du recourant pour des motifs
+de sûreté,
+qu'il n'y a pas, dans les circonstances personnelles de l'intéressé, de modifications telles
+qu'une nouvelle appréciation de la situation s'imposerait, de sorte que l'on peut renvoyer à
+cet égard aux motifs de l'arrêt rendu par la cour de céans le 10 janvier 2012;
+attendu que la décision litigieuse se fonde également sur le risque de récidive,
+que selon la jurisprudence, le maintien en détention pour ce motif ne peut se justifier que si le
+pronostic est très défavorable et si les délits dont l'autorité redoute la réitération
+sont graves (ATF 137 IV 13 c. 4.5; ATF 135 I 71 c. 2.3; ATF 133 I 270 c. 2.2),
+que, bien qu'une application littérale de l'art. 221 al. 1 let. c CPP suppose l'existence d'antécédents,
+le risque de récidive peut être également admis dans des cas particuliers, alors qu'il
+n'existe qu'un antécédent, voire aucun dans les cas les plus graves,
+que la prévention du risque de récidive doit en effet permettre de faire prévaloir l'intérêt
+à la sécurité publique sur la liberté personnelle du prévenu (ATF 137 IV 13
+c. 3-4),
+que le risque de récidive peut également se fonder sur les infractions faisant l'objet de la
+procédure en cours, si le prévenu est fortement soupçonné – avec une probabilité
+confinant à la certitude – de les avoir commises (ATF 137 IV 84 c. 3.2, JT 2011 IV 325),
+qu'en l'espèce, la manière dont le recourant a agi, selon l'acte d'accusation, fait sérieusement
+craindre qu'il n'attente de nouveau à l'intégrité sexuelle d'enfants,
+qu'il a pris des contacts avec des enfants ou des adolescents, notamment par le biais de réseaux
+sociaux, admettant en particulier avoir fait des propositions à caractère sexuel à des
+jeunes garçons,
+qu'il a également rencontré un adolescent à Lausanne et proposé à sa commune
+d'organiser des cours de handball pour les jeunes, dans le cadre d'activités extra-scolaires,
+qu'enfin, l'intéressé a été condamné le 18 mai 1993 par le Tribunal correctionnel
+de Cayenne, pour attentat à la pudeur commis avec violence ou surprise par ascendant ou personne
+ayant autorité, à une peine de deux ans d'emprisonnement, dont un an et six mois avec sursis,
+que cette condamnation est certes relativement ancienne,
+que le risque de récidive ne se fonde toutefois pas uniquement sur cette circonstance,
+que cet antécédent, qui, pris isolément, n'est sans doute pas décisif, est cependant
+un élément dont il convient de tenir compte dans l'appréciation d'ensemble,
+que, de surcroît, les experts psychiatres commis en cours d'enquête ont jugé non négligeable
+le risque de récidive, du moins dans l'hypothèse où les faits incriminés devaient
+être avérés (P. 147, pp. 9 et 11),
+que, compte tenu de ce qui précède, il y a sérieusement lieu de craindre que le recourant
+ne cherche à nouer des relations avec de jeunes garçons, uniquement en raison de ses attirances
+sexuelles,
+que la risque de réitération fait ainsi également obstacle à l'élargissement
+du recourant;
+attendu, s'agissant du principe de la proportionnalité,, que le juge peut maintenir la détention
+préventive aussi longtemps qu'elle n'est pas très proche de la durée de la peine privative
+de liberté à laquelle il faut s'attendre concrètement en cas de condamnation (TF 1B_411/2011
+du 31 août 2011 c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1; art. 212 al. 3 CPP),
+qu'en l'espèce, le recourant encourt une importante peine privative de liberté au vu des charges
+retenues contre lui,
+qu'il est placé en détention depuis le 7 octobre 2011,
+qu'au moment du jugement, dont l'audience, déjà fixée, se tiendra du 20 au 22 mars 2013,
+il aura passé dix-huit mois en détention préventive,
+que, dans ces circonstances, le principe de proportionnalité demeure respecté;
+attendu, enfin, que le recourant propose, comme mesures de substitution à la détention, le
+dépôt de ses papiers d'identité (art. 237 al. 2 let. b CPP) et le dépôt d'une
+somme de 20'000 fr. à titre de sûretés (art. 237 al. 2 let. a et 238 CPP),
+que ces mesures sont par nature destinées à parer le risque de fuite et à garantir la
+présence du prévenu aux débats,
+qu'elles ne suffisent toutefois pas à écarter le risque de réitération, pas plus
+d'ailleurs que l'engagement du prévenu de se présenter à un poste de police (art. 237
+al. 2 let. d CPP) ou de s'abstenir de tout contact avec des jeunes garçons;
+attendu, en définitive, que le recours, manifestement mal fondé, doit être rejeté
+sans autres échanges d'écritures (art. 390 al. 2 CPP) et l’ordonnance confirmée,
+que les frais de la procédure de recours, par 770 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à 450 fr., plus la TVA, par
+36 fr., soit un total de 486 fr., sont mis à la charge du recourant, qui succombe (art. 428 al.
+1 CPP),
+que le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de K.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 486 fr. (quatre cent huitante-six
+francs) l'indemnité allouée au défenseur d'office de K.________.
+IV.
+Dit que les frais d'arrêt, par 770 fr. (sept cent septante francs), ainsi que l'indemnité due
+au défenseur d'office de K.________, par 486 fr. (quatre cent huitante-six francs), sont mis à
+la charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique de K.________ se soit améliorée.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Aude Bichovsky, avocate (pour K.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+M. le Procureur du Ministère public central, division affaires spéciales, contrôle et
+mineurs,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
