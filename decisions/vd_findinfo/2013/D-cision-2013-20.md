@@ -1,0 +1,367 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 20"
+decided: "2013-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3619591"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-229.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 20
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE FUITE, PRINCIPE DE LA CÉLÉRITÉ | 221 al. 1 let. a CPP (CH), 227 CPP (CH), 5 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.01.2013 Décision / 2013 / 20
+
+DÉTENTION PRÉVENTIVE, RISQUE DE FUITE, PRINCIPE DE LA CÉLÉRITÉ | 221 al. 1 let. a CPP (CH), 227 CPP (CH), 5 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+11
+PE08.002977-DBT/YBL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 9 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              M.
+Creux et Mme Byrde
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+5, 221 al. 1 let. a, 222, 227, 393 al. 1 let. c CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+par
+O.________
+contre l'ordonnance rendue le 11 décembre 2012 par le Tribunal des mesures de contrainte dans la
+cause le concernant (
+PE08.002977-DBT/YBL
+).
+Elle considère :
+E n  f a i t :
+A.
+O.________ a été condamné le 17 mars 2004 par la Cour d'assises du canton de Neuchâtel
+à une peine de réclusion de dix ans, pour faux dans les certificats, rupture de ban, crime
+contre la loi fédérale sur les stupéfiants et contravention à la loi fédérale
+sur les stupéfiants.
+Alors qu'il exécutait cette peine aux Etablissement de la plaine de l'Orbe, O.________ a fait l'objet
+d'une nouvelle enquête pénale, ouverte par le Juge d'instruction de l'arrondissement du Nord
+vaudois. L'écoute des conversations téléphoniques et ses conversations au parloir de la
+prison permettaient de l'impliquer, avec deux complices, dans l'organisation d'un important trafic d'héroïne
+entre le Kosovo et la Suisse. Il aurait convaincu un co-détenu, B.________, de lui prêter la
+somme de 25'000 fr., qu'il aurait utilisée pour financer ce trafic. Un ancien co-détenu, V.________,
+a été arrêté le 11 mai 2008 en compagnie de quatre comparses au Kosovo, alors qu'il
+était en possession de dix kilos d'héroïne apparemment destinés au marché suisse.
+O.________ a été placé en détention provisoire à compter du 3 mars 2009.
+Par arrêt du 13 août 2009, le Tribunal d'accusation du canton de Vaud a rejeté le recours
+déposé par O.________ contre la décision de refus de libération rendue par le juge
+d'instruction (TAcc 2009/480). Le 30 septembre 2009 le Tribunal fédéral a également rejeté
+le recours déposé par l'intéressé contre cet arrêt
+(TF
+1B_258/2009).
+Par ordonnance de renvoi du 19 avril 2010, le juge d'instruction a engagé l'accusation devant le
+Tribunal d'arrondissement de la Broye et du Nord vaudois. Les débats ont débuté le 17
+novembre 2010 et la cause a été suspendue le lendemain pour complément d'enquête,
+notamment pour procéder – par le biais d'une commission rogatoire – à l'audition
+de V.________ au Kosovo.
+Par prononcé du 18 novembre 2010, le Tribunal d'arrondissement de la Broye et du Nord vaudois a
+ordonné la mise en liberté provisoire de O.________ dès l'instant où il pourra être
+transféré en régime d'exécution de peine.
+L'audience a été reprise le 11 juillet 2012, la procédure étant cependant à
+nouveau suspendue en vue de la désignation d'un nouveau défenseur à O.________. Ce dernier
+a en effet demandé la "récusation" de son défenseur d'office. Il a été
+dûment averti par la Présidente du Tribunal d'arrondissement des conséquences qui découleraient
+de la levée du mandat de son défenseur d'office sur le temps nécessaire pour refixer l'audience
+avec le nouveau défenseur d'office (PV d'audience, p. 27). Par prononcé du 13 juillet 2012,
+la Présidente du Tribunal d'arrondissement a désigné Me Laurent Moreillon comme défenseur
+d'office de O.________. Le 18 juillet suivant, elle a fixé la reprise des débats au 5 mars
+2013, la lecture du jugement étant prévue pour le 7 mars suivant (PV des opérations, p.
+36).
+B.
+Par décision du 13 novembre 2012, l'Office d'application des peines et mesures du canton de Neuchâtel
+a accordé à O.________ la libération conditionnelle à compter du 15 décembre
+2012 et l'a subordonnée à son renvoi dans son pays d'origine, à défaut de quoi il
+devra poursuivre l'exécution de sa peine.
+Par mandat de comparution du 16 novembre 2012, le Président du Tribunal d'arrondissement de la Broye
+et du Nord vaudois a cité O.________ à comparaître le 30 novembre 2012 pour une éventuelle
+mise en détention pour des motifs de sûreté. Lors de son audition, O.________ a expressément
+demandé à être entendu par le Tribunal des mesures de contrainte.
+C.
+Le 3 décembre 2012, le Président du Tribunal d'arrondissement a adressé au Tribunal des
+mesures de contrainte une demande de mise en détention de O.________ pour des motifs de sûreté
+à compter du 15 décembre 2012 jusqu'au 7 mars 2013, date de la lecture du jugement. La direction
+de la procédure a motivé sa demande notamment par le fait que O.________ séjournait illégalement
+en Suisse et présentait un haut risque de fuite, cela d'autant plus que s'il devait être relâché,
+l'intéressé serait immédiatement transféré dans une zone de détention administrative
+en vue de son renvoi vers la Turquie, de sorte qu'il était à craindre qu'il ne se présente
+pas à la reprise des débats.
+Par ordonnance du 11 décembre 2012, le Tribunal des mesures de contrainte a constaté que les
+conditions de la détention pour des motifs de sûreté de O.________ étaient réunies
+(I), a ordonné, en lieu et place de la détention pour des motifs de sûreté, une mesure
+de substitution à forme d'interdiction pour O.________ de quitter le territoire suisse jusqu'à
+la lecture de son jugement (II), a dit que O.________ serait mis en détention pour des motifs de
+sûreté si l'exécution de la peine devait être interrompue (III), et a fixé la
+durée de la détention pour des motifs de sûreté de O.________ jusqu'au 7 mars 2013,
+date de la lecture du jugement (IV), les frais de cette ordonnance suivant le sorte de la cause (V).
+D.
+Par acte du 21 décembre 2012, O.________ a recouru contre cette ordonnance, en concluant principalement
+à sa réforme en ce sens que la demande de mise en détention soit déclarée irrecevable.
+A titre subsidiaire, il a conclu à la réforme de l'ordonnance en ce sens que la détention
+pour des motifs de sûreté soit refusée et sa libération immédiate ordonnée.
+E n  d r o i t :
+1.
+Aux termes de l’art.
+393 al. 1 let. c CPP, le recours est recevable contre les décisions du tribunal des mesures de contrainte
+dans les cas prévus par le code. L’art. 222 CPP prévoit que le détenu peut attaquer
+devant l’autorité de recours les décisions ordonnant une mise en détention provisoire
+ou une mise en détention pour des motifs de sûreté ou encore la prolongation ou le terme
+de cette détention. Le recours doit être adressé par écrit, dans un délai de
+dix jours dès la notification de la décision attaquée (cf. art. 384 let. b CPP), à
+l’autorité de recours (art. 396 al. 1 CPP), qui dans le canton de Vaud est la Chambre des
+recours pénale du Tribunal cantonal (art. 13 LVCPP, RSV 312.01 ; art. 80 LOJV, RSV 173.01).
+En l’espèce, il y a lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente et satisfait aux conditions
+de forme posées par l’art. 385 al. 1 CPP.
+2.
+Dans un premier argument, le recourant soutient que l'art. 227 CPP, qui s'applique par analogie à
+la demande de mise en détention pour des motifs de sûreté, aurait été violé
+en ce sens que la demande du Président du Tribunal d'arrondissement n'était pas suffisamment
+motivée, se référant pour les faits à l'ordonnance de renvoi du 19 avril 2010.
+2.1
+L'art. 229 al. 3 let. b CPP prévoit que l'art. 227 CPP est applicable aux décisions ordonnant
+la détention pour des motifs de sûreté, lorsqu'il y a eu détention provisoire préalable.
+L'art. 227 al. 2 CPP prévoit que le Ministère public – ou en l'occurrence, le Président
+du Tribunal d'arrondissement – transmet au Tribunal des mesures de contrainte la demande de prolongation
+écrite et motivée, au plus tard quatre jours avant la fin de la période de détention,
+et y joint les pièces essentielles du dossier.
+La loi ne précise pas les exigences de motivation que doit revêtir la demande du Ministère
+public ou du Président du Tribunal d'arrondissement. Il faut que la demande expose les faits concrets
+confirmant la persistance du caractère concret et sérieux des charges retenues, en énonçant
+les faits nouveaux recueillis depuis la dernière décision du Tribunal des mesures de contrainte
+(Logos, in Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse,
+2011, n. 11 ad art. 227 CPP).
+2.2
+En l'occurrence, le recourant a été détenu provisoirement du 3 mars 2009 au 12 décembre
+2010 pour les faits en cause, avant d'exécuter une peine privative de liberté. Le 13 novembre
+2012, les autorités neuchâteloises lui ont accordé une libération conditionnelle
+dès le 15 décembre 2012, en subordonnant celle-ci à son renvoi en Turquie. Par conséquent,
+il y a bien prolongation de la détention provisoire, si bien que l'art. 227 CPP s'applique.
+La demande du Président du Tribunal d'arrondissement du 3 décembre 2012 fait référence
+aux faits contenus dans l'ordonnance de renvoi du 19 avril 2010. Il est vrai que cette demande ne mentionne
+pas de faits nouveaux, ni le résultat des mesures d'instruction menées depuis lors, en suite
+de la suspension de la cause prononcée par le Tribunal correctionnel le 18 novembre 2010. Cette
+carence ne signifie cependant pas que la demande soit insuffisamment motivée, mais implicitement
+que l'instruction n'a pas révélé de faits nouveaux pertinents pour la détention provisoire.
+Ce moyen, mal fondé, doit dès lors être rejeté.
+3.
+Dans un second grief, le recourant conteste principalement l'existence de charges suffisantes pour son
+maintien en détention. Il expose que la cause a été suspendue en vu d'un complément
+d'instruction et que celui-ci n'a en l'occurrence au contraire rien amené de plus. Le recourant
+fait valoir qu'à ce stade de l'instruction, le Tribunal des mesures de contrainte ne pouvait se
+contenter de renvoyer aux décisions prises par le Tribunal d'accusation le 13 août 2009, par
+le Tribunal fédéral le 30 septembre 2009 et par le Tribunal correctionnel le 18 novembre 2010.
+Selon lui, les soupçons auraient dû s'intensifier pour justifier sa mise en détention,
+ce qui n'est pas le cas. Il fait enfin référence à la situation de B.________, qui aurait
+été mis hors de cause, et soutient devoir bénéficier du même sort.
+3.1
+Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs de
+sûreté – la première s’achevant, tandis que la seconde commence, lorsque l’acte
+d’accusation est notifié au tribunal de première instance (art. 220 al. 1 et 2 CPP) –
+ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné d’avoir
+commis un crime ou un délit.
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+d’avoir commis un crime ou un délit (TF 1B_182/2011 du 5 mai 2011 c. 3.1). Soumise au principe
+de célérité, l'autorité n'a toutefois pas à prouver la culpabilité –
+ce qui est la tâche du juge de fond – les soupçons devant néanmoins reposer sur
+des indices sérieux et concordant tirés de faits concrets et précis (Schmocker, in: Kuhn/Jeanneret
+(éd.), op. cit., nn. 7ss ad art. 221 CPP).
+3.2
+Il ressort des pièces du dossier que, par arrêt du 13 août 2009, confirmé par le
+Tribunal fédéral le 30 septembre 2009, le Tribunal d'accusation du canton de Vaud a jugé
+que les charges pesant contre le recourant étaient suffisantes pour justifier son maintien en détention.
+Le recourant n'a pas sollicité sa mise en liberté, ni fait valoir l'insuffisance des charges
+jusqu'à l'audience du 18 novembre 2010. En outre, même après avoir ordonné un complément
+d'enquête pour "apporter des compléments sur le rôle de V.________" (P. 27),
+la Présidente du Tribunal d'arrondissement a, par prononcé du 18 novembre 2010, estimé
+qu'"en l'état actuel de l'instruction, il existe des indices suffisants tendant à démontrer
+que O.________ pourrait s'être rendu coupable à tout le moins d'actes préparatoires à
+un trafic de produits stupéfiants au sens de l'art. 19 ch. 1 al. 6 LStup". Elle a estimé
+qu'il y avait un risque de fuite mais que celui-ci pouvait être pallié par la peine privative
+de liberté que l'intéressé devait purger et pour laquelle la liberté conditionnelle
+ne pouvait intervenir avant le 20 novembre 2012; elle a ajouté que "dans l'hypothèse où
+il devrait être libéré à cette échéance sans que les débats n'aient
+repris, il pourrait être envisagé de le placer à nouveau en détention préventive."
+Le fait que la commission rogatoire – qui a consisté à entendre comme témoin au
+Kosovo le dénommé V.________ - n'ait pas renforcé les charges pesant contre le recourant
+n'y change rien (P. 27); ce dernier a certes nié avoir participé à un quelconque trafic
+et, en particulier, avoir reçu de l'argent de la part du recourant (P. 27). Il appartiendra cependant
+à l'autorité de jugement d'apprécier la pertinence de cette audition, notamment eu égard
+aux liens qui existent entre les deux hommes. Sur ce point en particulier, on peut émettre des doutes
+quant à la crédibilité des déclarations de V.________ compte tenu de la teneur d'une
+conversation téléphonique qu'a eue le recourant le 6 avril 2008. Il a en effet déclaré
+que V.________ était son débiteur et qu'il était en prison à sa place (P. 12, p.
+8, ch. 2.5.4).
+S'agissant des analogies que fait le recourant avec le sort de B.________, la Cour de céans ne peut
+pas en juger, n'étant pas au courant de la situation de celui-ci. Il appartenait au recourant d'amener
+les éléments de preuve, ou de requérir leur production, à cet égard.
+Au vu de ce qui précède, il convient de constater que les graves soupçons de culpabilité
+qui ont été jugés existants dans les décision de 2009 et 2010 n'ont pas disparu.
+4.
+Le recourant conteste le risque de fuite.
+4.1
+L'art. 221 al. 1 let. a CPP dispose notamment que la détention provisoire et la détention pour
+des motifs de sûreté ne peuvent être ordonnées que s'il y a sérieusement lieu
+de craindre qu’il se soustraie à la procédure pénale ou à la sanction prévisible
+en prenant la fuite.
+Selon la jurisprudence du Tribunal fédéral, le risque de fuite doit s'analyser en fonction
+d'un ensemble de critères tels que le caractère de l'intéressé, sa moralité,
+ses ressources, ses liens avec l'Etat qui le poursuit ainsi que ses contacts à l'étranger qui
+font apparaître le risque de fuite non seulement possible, mais également probable (TF 1B_414/2011
+du 5 septembre 2011 c. 3.1). Si la gravité de l'infraction ne peut pas, à elle seule, justifier
+la détention, elle permet souvent de présumer un danger de fuite en raison de l'importance
+de la peine dont le prévenu est menacé (TF 1B_478/2011 du 5 octobre 2011 c. 4.1).
+4.2
+C'est en vain que le recourant conteste un risque de fuite. En effet, outre qu'il fait l'objet de la
+présente procédure, où il est passible – compte tenu de ses multiples antécédents
+(trois condamnations pour crimes contre la LStup) – de plusieurs années de prison, il est
+également intimé à une procédure en révocation de la libération conditionnelle
+accordée le 22 décembre 2006 par un tribunal bernois (PV p. 26, audience du 11 juillet 2012).
+O.________ est un multirécidiviste endurci, qui a des connexions avec l'étranger et n'a pas
+le droit de rester en Suisse. Il a constamment nié son implication dans les faits qui lui sont reprochés.
+Compte tenu de l'ensemble de ces éléments, il existe un risque concret que le recourant retourne
+dans son pays d'origine ou qu'il entre dans la clandestinité pour échapper à une sanction
+dont il semble dénier toute pertinence.
+Ce grief, mal fondé, doit être rejeté.
+5.
+Dans un dernier moyen, le recourant invoque la violation du principe de célérité. Il fait
+valoir que l'audience suspendue le 18 novembre 2010 ne sera reprise que les 5, 6 et 7 mars 2013, soit
+plus de deux ans et demi plus tard. Ce délai serait, selon lui, excessif au regard de la jurisprudence
+qui prévoit tout au plus quelques mois entre la clôture de l'instruction et la tenue des débats.
+5.1
+Concrétisant le principe de célérité, l'art. 5 CPP impose aux autorités pénales
+d'engager les procédures pénales sans délai et de les mener à terme sans retard injustifié
+(al. 1), la procédure devant être conduite en priorité lorsqu'un prévenu est placé
+en détention (al. 2). La détention peut être considérée comme disproportionnée
+en cas de retard injustifié dans le cours de la procédure pénale (ATF 128 I 149 c. 2.2.1;
+TF 1B_708/2012 du 13 décembre 2012, c. 5.2 et les références citées).
+Le caractère raisonnable de la durée d'une procédure pénale s'apprécie selon
+les circonstances particulières de la cause, eu égard en particulier à la complexité
+de l'affaire, au comportement du requérant et à celui des autorités compétentes,
+ainsi qu'à l'enjeu du litige pour l'intéressé (ATF 133 I 270 c. 3.4.2; TF 1B_708/2012
+précité). Selon la jurisprudence européenne, apparaissent comme des carences choquantes
+une inactivité de treize ou quatorze mois au stade de l'instruction, un délai de quatre ans
+pour qu'il soit statué sur un recours contre l'acte d'accusation ou encore un délai de dix
+ou onze mois pour que le dossier soit transmis à l'autorité de recours (ATF 124 I 139 c. 2c
+; ATF 119 IV 107 c. 1c).
+Le principe de la bonne foi en procédure commande aux parties de faire connaître immédiatement
+un grief s'agissant notamment de la conduite de la procédure, sous peine de déchéance
+du droit de s'en prévaloir par la suite (art. 5 al. 3 Cst.; TF 6B_370/2012 du 22 octobre 2012, c.
+1; TF 6B_281/2012 du 9 octobre 2012, c. 1.4.1.3; ATF 135 III 334 c. 2.2; ATF 134 V 306 c. 4.2).
+5.2
+En l'occurrence, il ressort des pièces du dossier que, depuis la suspension ordonnée le 18
+novembre 2010, l'instruction s'est poursuivie sans désemparer, d'abord par la détermination
+– en contradictoire – des questions à soumettre au témoin entendu par commission
+rogatoire, puis par un conflit au sujet du mandat de défenseur d'office de Me Disch que le Président
+du Tribunal d'arrondissement a refusé de relever le 23 mai 2011, puis le 22 décembre 2011 par
+la fixation des débats aux 5 et 6 juin 2012, puis par l'exécution de la commission rogatoire
+au printemps 2012, puis par la tenue de l'audience le 11 juillet 2012 (PV des opérations, p. 26);
+or, lors de cette audience, le Tribunal d'arrondissement a constaté qu'en raison de la demande formulée
+par le recourant de "récusation" de son avocat et des propos qu'il avait tenus à
+l'égard de son défenseur, Me Disch devait être relevé de son mandat; lors de cette
+audience, la Présidente du tribunal a exposé à O.________ les conséquences qui découleraient
+de la levée du mandat de Me Disch. Dans ces conditions, l'audience a été suspendue en
+vue de la désignation d'un autre défenseur d'office. Le 13 juillet 2012, Me Moreillon a été
+désigné et le 18 juillet 2012, les débats ont été fixés aux 5 et 6 mars
+2013, soit sept mois et demi plus tard. Force est ainsi de constater que le traitement du dossier n'a
+pas connu de temps d'inactivité ou de carences.
+Quant au délai séparant la fixation de la tenue de l'audience, le recourant ne fait pas valoir
+qu'il serait excessif. Au demeurant, s'il jugeait ce délai disproportionné, il lui appartenait
+de le faire valoir immédiatement, sous peine de déchéance. Or, rien au dossier ne permet
+de conclure que le recourant ou son défenseur aurait soulevé ce grief durant la procédure.
+On relève ainsi que le 19 juillet 2012, Me Moreillon ne s'est pas opposé à ce délai
+(P. 291), acceptant le mandat de défense d'office de O.________ tout en demandant "que la date
+fixée pour la reprise des débats tienne compte du changement de défenseur et du temps
+qui m'est nécessaire pour préparer la défense de M. O.________" (P. 292). Certes,
+on pourrait soutenir que le recourant n'avait pas de raison de s'opposer à ce délai puisqu'il
+était en exécution de peine. Toutefois, après avoir appris que O.________ allait être
+libéré conditionnellement et que le Président du Tribunal d'arrondissement allait solliciter
+sa détention pour des motifs de sûreté (P. 300), ni le recourant, ni son défenseur
+d'office n'ont demandé que l'audience soit avancée. En outre, lorsqu'il s'est déterminé
+le 28 novembre 2012 sur une éventuelle décision de mise en détention pour des motifs de
+sûreté, le recourant n'a pas évoqué ni a fortiori invoqué la violation du principe
+de célérité pour ce motif (P. 312).
+Ce grief, mal fondé, doit également être rejeté.
+6.
+En définitive, le recours de O.________, manifestement mal fondé, doit être intégralement
+rejeté et l'ordonnance du Tribunal des mesures de contrainte du 11 décembre 2012 confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1'210 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV
+312.03.1]) et des frais imputables à la défense d’office (art. 422 al. 1 et 2 let. a
+CPP), fixés à 560 fr., plus la TVA, par 44 fr. 80, soit un total de 604 fr. 80, seront
+mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 11 décembre 2012 est confirmée.
+III.
+L'indemnité allouée au défenseur
+d'office de O.________ est fixée à 604 fr. 80 (six cent quatre francs et huitante centimes).
+IV.
+Les frais d'arrêt, par 1'210 fr. (mille deux cent dix francs), ainsi que l'indemnité due au
+défenseur d'office de O.________ par 604 fr. 80 (six cent quatre francs et huitante centimes), sont
+mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera exigible
+pour autant que la situation économique de O.________ se soit améliorée.
+VI.
+Le présent arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Laurent Moreillon, avocat (pour O.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
