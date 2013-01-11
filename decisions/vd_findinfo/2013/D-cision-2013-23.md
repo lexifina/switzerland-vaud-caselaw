@@ -1,0 +1,199 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 23"
+decided: "2013-01-11"
+published: "2013-01-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3618580"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 23
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE COLLUSION | 221 CPP (CH), 222 CPP (CH), 393 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.01.2013 Décision / 2013 / 23
+
+DÉTENTION PRÉVENTIVE, RISQUE DE COLLUSION | 221 CPP (CH), 222 CPP (CH), 393 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+13
+PE12.024921-PVU/GRV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 11 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              MM.
+Creux et Meylan
+Greffière
+:              Mme
+de Watteville Subilia
+*****
+Art.
+221, 222, 393 al. 1 let. c CPP
+Vu l'
+enquête n° PE12.024921-PVU/GRV
+instruite par le Ministère public de l'arrondissement du Nord vaudois contre
+T.________
+,
+K.________
+,
+G.________
+,
+H.________
+et
+R.________
+pour vol, dommages à la propriété et violation de domicile, d'office et sur diverses plaintes,
+vu l'interpellation de T.________ intervenue le 27 décembre 2012,
+vu la demande de mise en détention provisoire adressée le 28 décembre 2012 par le Ministère
+public au Tribunal des mesures de contrainte,
+vu l'audition de T.________ le 29 décembre 2012 par le Tribunal des mesures de contrainte,
+vu l'ordonnance du 29 décembre 2012 par laquelle le Tribunal des mesures de contrainte a ordonné
+la mise en détention provisoire de T.________ pour une durée de deux mois, soit au plus tard
+jusqu'au 27 février 2013,
+vu le recours interjeté le 8 janvier 2013 par T.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]) contre une décision du Tribunal des mesures de contrainte dans
+un cas prévu par le CPP (art. 393 al. 1 let. c CPP), par le détenu qui a qualité
+pour recourir (art. 222 et 382 al. 1 CPP), le recours est recevable;
+attendu qu'en vertu de l'art. 221 al. 1 CPP, la détention provisoire et la détention pour des
+motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement
+soupçonné d'avoir commis un crime ou un délit et qu'il y a sérieusement lieu de craindre
+(a) qu'il se soustraie à la procédure pénale ou à la sanction prévisible en
+prenant la fuite, (b) qu'il compromette la recherche de la vérité en exerçant une influence
+sur des personnes ou en altérant des moyens de preuves, ou (c) qu'il compromette sérieusement
+la sécurité d'autrui par des crimes ou des délits graves après avoir déjà
+commis des infractions du même genre;
+attendu que la mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (TF 1B_182/2011 du 5 mai 2011
+c. 3.1; Schmocker, in Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale
+suisse, Bâle 2011, nn. 7 ss ad art. 221 CPP, pp. 1024 ss),
+qu'en l'espèce, T.________ est mis en cause pour avoir participé, avec plusieurs comparses,
+à de nombreux cambriolages dans des établissements d'enseignement de la Broye, vols portant
+principalement sur des ordinateurs et du matériel informatique, mais aussi sur des appareils photos,
+ou autres,
+que neuf plaintes ont déjà été déposées,
+que T.________ a admis avoir participé à cinq cambriolages au cours desquels plusieurs dizaines
+d'ordinateurs ont été dérobés,
+qu'il prétend avoir été contraint d'y participer sous la menace d'être frappé
+par l'un de ses comparses,
+qu'il a déclaré avoir principalement jouer le rôle de guetteur,
+qu'il a toutefois reconnu avoir reçu chez lui à plusieurs reprises les ordinateurs volés
+afin de procéder à leur formatage de manière à ce qu'ils puissent être écoulés,
+qu'il existe par conséquent des présomptions de culpabilité suffisantes à l'égard
+du prévenu;
+attendu que T.________ conteste que le risque de collusion soit réalisé,
+qu'il invoque qu'il craint les protagonistes et qu'il a spontanément déclaré où était
+le butin,
+que l'ordonnance entreprise se fonde sur le risque de collusion (art. 221 al. 1 let. b CPP),
+que le maintien du prévenu en détention peut être justifié par un tel risque notamment
+lorsqu'il est à craindre que l'intéressé ne mette sa liberté à profit pour faire
+disparaître ou altérer les preuves, ou qu'il prenne contact avec des témoins ou d'autres
+prévenus pour tenter d'influencer leurs déclarations (TF 1B_55/2010 du 11 mars 2010 c. 3.1),
+que ce risque doit être étayé par des faits concrets et précis, la simple possibilité
+théorique que le prévenu se livre à des manœuvres destinées à compromettre
+la recherche de la vérité ne suffisant pas (Schmocker, op. cit., n. 16 ad art. 221 CPP, p.
+1027; ATF 132 I 21 c. 3.2),
+qu'en l'espèce, le prévenu a commis les divers cambriolages avec plusieurs comparses,
+que tous les co-prévenus n'ont pas encore été appréhendés et entendus,
+que il ne ressort pas du dossier, à ce stade de l'instruction, que T.________ aurait été
+contraint d'agir par ses co-prévenus,
+que, cela étant, si T.________ a effectivement été contraint et s'il craint ses comparses,
+il demeure encore sous leur influence,
+qu'il existe donc un risque concret qu'une fois en liberté, le prévenu fasse disparaître
+les preuves et se concerte avec ses comparses en vue de compromettre leur interpellation ou le résultat
+de l'enquête,
+qu'en conséquence, le risque de collusion est bien réalisé;
+attendu qu'il reste à examiner la proportionnalité de la détention au regard de l'ensemble
+des circonstances du cas d'espèce (ATF 133 I 168 c. 4.1 et les arrêts cités),
+que le juge peut maintenir la détention provisoire aussi longtemps qu'elle n'est pas très proche
+de la durée de la peine privative de liberté à laquelle il faut s'attendre concrètement
+en cas de condamnation (TF 1B_411/2011 du 31 août 2011 c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21
+c. 4.1),
+qu'en l'espèce, le recourant, arrêté le 27 décembre 2012, est détenu provisoirement
+depuis à peine plus de deux semaines,
+que sa détention a été ordonnée pour deux mois, soit jusqu'au 27 février
+2013,
+qu'il est prévenu de vol, dommages à la propriété et violation de domicile,
+que le recourant et ses comparses ont retiré du cambriolage qui leur vaut la présente poursuite
+un butin non négligeable, composé notamment de plusieurs dizaines d'ordinateurs, de matériel
+informatique et d'appareils photos,
+qu'eu égard aux charges qui pèsent sur lui, le recourant est exposé à une peine privative
+de liberté supérieure à celle de la détention provisoire subie,
+que, dans ces conditions, le principe de la proportionnalité des intérêts en présence
+demeure respecté,
+qu'enfin, aucune mesure de substitution, au sens de l'art. 237 CPP, n'est susceptible d'atteindre le
+même but que la détention provisoire (cf. art. 212 al. 2 let. c CPP);
+attendu, en définitive, que le recours, manifestement mal fondé, doit être rejeté
+sans autres échanges d'écritures (art. 390 al. 2 CPP) et l’ordonnance confirmée,
+que les frais de la procédure de recours, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à 450 fr., plus la TVA, par
+36 fr., soit un total de 486 fr., sont mis à la charge du recourant, qui succombe (art. 428 al.
+1 CPP),
+que le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de T.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 486 fr. (quatre cent huitante-six
+francs) l'indemnité allouée au défenseur d'office de T.________.
+IV.
+Dit que les frais d'arrêt, par 550 fr. (cinq cent cinquante francs), ainsi que l'indemnité
+due au défenseur d'office de T.________, par 486 fr. (quatre cent huitante-six francs), sont mis
+à la charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique de T.________ se soit améliorée.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Véronique Fontana, avocate (pour T.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Tribunal des mesures de contrainte,
+-
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
