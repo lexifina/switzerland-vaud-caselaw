@@ -1,0 +1,277 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 1"
+decided: "2013-01-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3617104"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.42/art-009.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 1
+
+## Regeste
+
+PROCÈS-VERBAL DE SAISIE, ORDRE DE SAISIE | 95 LP, 97 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.01.2013 Plainte / 2013 / 1
+
+PROCÈS-VERBAL DE SAISIE, ORDRE DE SAISIE | 95 LP, 97 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FA12.027962-121963
+2
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 janvier 2013
+___________________
+Présidence
+de               M.
+Hack
+,
+président
+Juges
+:              M.
+Sauterel et Mme Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 95 et 97 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+J.________
+,
+à Nyon, contre la décision rendue le 15 octobre 2012, à la suite de l’audience
+du 14 mai 2012, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte déposée par le recourant contre le procès-verbal
+de saisie établi par l'
+Office
+des poursuites du district de Nyon
+dans le cadre
+des poursuites ordinaires n
+os
+5'895'354 et 5'925'756 exercées contre lui
+par la
+Banque
+P.________
+, à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+J.________ fait l'objet de quatre poursuites
+de l'Office des poursuites du district de Nyon (ci-après : l'office) à l'instance de la Banque
+P.________, soit deux poursuites en réalisation de gage immobilier n
+os
+1'200'412'211
+et 1'200'412'212 et deux poursuites ordinaires n
+os
+5'895'354
+et 5'925'756.
+Dans les deux premières poursuites, une nouvelle estimation du gage – au sens de l'art. 9
+al. 2 ORFI [ordonnance du Tribunal fédéral sur la réalisation forcée des immeubles;
+RS 281.42] –, savoir les parcelles n
+os
+[...] [a] et [...] [b] de la commune de Nyon, propriétés du poursuivi et de son frère
+chacun pour une demie, a été ordonnée le 11 juin 2012.
+Dans les deux poursuites ordinaires, la saisie a été requise au mois de janvier 2012, les montants
+à recouvrer étant de 21'520'108 fr. 40 dans la poursuite n° 5'895'354 et de 37'054
+fr. dans la poursuite n° 5'925'756.
+b)
+Le 29 juin 2012, l'office a établi un procès-verbal de saisie portant sur six comptes bancaires
+ouverts au nom du poursuivi seul ou avec un tiers, pour un montant total de 195'320 fr. 33, ainsi que
+sur dix parts de copropriété, savoir :
+-
+part de ½ RF [...] [a], Nyon
+Fr. 2'350'000.00
+-
+part RF [...] [b-1] Nyon
+Fr. 15'000'000.00
+-
+part de ½ RF [...], Grens
+Fr.
+185'540.00
+-
+part de ½ RF [...], Grens
+Fr.
+167'745.00
+-
+part de ½ RF [...], Nyon
+Fr.
+5'680.00
+-
+part de ½ RF [...], Nyon
+Fr.
+99'120.00
+-
+part de ½ RF [...], Nyon
+Fr.
+68'935.00
+-
+part de ½ RF [...], Nyon
+Fr.
+120'055.00
+-
+part de ½ RF [...], Nyon
+Fr.
+19'035.00
+-
+part de ½ RF [...], Nyon
+Fr.
+2'122'655.00
+Fr. 20'138'765.00
+c)
+Le 12 juillet 2012, J.________ a déposé une plainte au sens de l'art. 17 LP [loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1] contre le procès-verbal de saisie qui lui
+avait été notifié le 2 juillet 2012, concluant à ce que cet acte soit annulé
+et à ce que la saisie "ne porte que sur les parcelles [...] [a] et [...] [b] du cadastre de
+Nyon".  Selon lui, ces deux parcelles, dont il contestait l'estimation, valaient suffisamment
+pour couvrir l'intégralité des créances de la Banque P.________, unique créancière
+saisissante, et l'office aurait dû attendre le résultat de la deuxième estimation ordonnée
+dans le cadre des poursuites en réalisation de gage immobilier avant de saisir l'ensemble de son
+patrimoine. Il a requis l'effet suspensif, qui a été refusé par la Présidente du
+Tribunal d'arrondissement de La Côte, autorité inférieure de surveillance, le 13 juillet
+2012.
+L'office s'est déterminé le 15 août 2012, préavisant en faveur du rejet de la plainte.
+Il a fait valoir qu'il était "difficilement concevable d'exiger de l'office qu'il retarde la
+rédaction du procès-verbal jusqu'à droit connu sur la nouvelle expertise" et que
+les droits des parties n'étaient pas lésés dans la mesure où elles pouvaient déposer
+plainte contre les valeurs estimatives figurant sur le procès-verbal de saisie.
+La Banque P.________ ne s'est pas déterminée par écrit. Elle  a été entendue
+et a produit des pièces lors de l'audience de plainte du 14 mai 2012, à laquelle toutes les
+parties étaient présentes ou représentées.
+2.
+Par prononcé adressé pour notification aux parties le 15 octobre 2012, la Présidente du
+Tribunal d'arrondissement de La Côte, autorité inférieure de surveillance, a rejeté
+la plainte (I), sans frais ni dépens (II). Elle a considéré que, s'agissant d'une poursuite
+ordinaire, l'office devait d'abord saisir les biens meubles, puis seulement les immeubles, si les biens
+meubles étaient insuffisants pour couvrir la créance (art. 95 al. 1 et 2 LP); en l'espèce,
+il avait procédé conformément à cette disposition, les avoirs bancaires saisis, d'un
+montant total de 195'320 fr. 33, ne suffisant pas à désintéresser la créancière.
+La présidente a ensuite rappelé que l'office ne saisissait que les biens nécessaires pour
+satisfaire les créanciers (art. 97 al. 2 LP), dans l'ordre de saisie fixé à l'art. 95
+LP; en l'espèce, la valeur estimée de tous les biens saisis selon le procès-verbal litigieux
+était inférieure aux montants réclamés en poursuite, de sorte que la saisie n'était
+pas disproportionnée. Enfin, l'office devait d'abord faire une estimation provisoire des biens saisis
+– en l'occurrence, des immeubles –, une nouvelle estimation ne devant être faite qu'après
+la réquisition de réalisation et avant la publication de la vente; en l'espèce, l'office
+ne pouvait que se fonder sur les éléments en sa possession, soit la première expertise
+effectuée dans le cadre des poursuites en réalisation de gage immobilier.
+3.
+Par acte du 26 octobre 2012, J.________ a recouru contre cette décision, concluant principalement
+à sa réforme en ce sens que la saisie ne porte que sur les parcelles [...] [a] et [...] [b]
+de la commune de Nyon, subsidiairement à son annulation et au renvoi de la cause à l'autorité
+inférieure de surveillance pour nouvelle décision dans le sens souhaité. Il a produit
+un onglet de pièces sous bordereau, dont certaines nouvelles, notamment le rapport de l'expert immobilier
+désigné pour la deuxième estimation des parcelles en cause du 3 octobre 2012, selon lequel
+la valeur de la première parcelle est estimée à 7'800'000 fr. et celle de la seconde à
+28'350'000 fr., avec pour cette dernière une estimation alternative indicative, dépendant de
+la réalisation d'un plan de quartier, de 106'800'000 francs.
+Le recourant a requis l'effet suspensif, qui a été refusé par décision du président
+de la cour de céans, autorité supérieure de surveillance, du 1
+er
+novembre 2012.
+L'office, par courrier du 6 novembre 2012, a produit ses déterminations de première instance.
+L'intimée Banque P.________ s'est déterminée le 19 novembre 2012, concluant au rejet du
+recours. Elle a produit une pièce nouvelle.
+En droit :
+I.
+Déposé en temps utile et dans les formes requises (art. 18 al. 1 LP et 28 al. 1 et 3 LVLP [loi
+vaudoise d'application de la LP; RSV 280.05]), le recours est recevable, de même que les déterminations
+de l'office et de l'intimée (art. 31 al. 1 LVLP).
+Les pièces nouvelles produites en deuxième instance sont également recevables (art. 28
+al. 4 LVLP).
+II.
+a)
+Le recourant se prévaut de la deuxième estimation des parcelles en cause, selon laquelle la
+parcelle n° [...] [a] a été estimée à 7'800'000 fr. et la parcelle n° [...]
+[b] à 28'350'000 fr., alternativement, en tenant compte d'un projet de plan de quartier, à
+106'800'000 francs. Il soutient derechef que ces seules parcelles sont suffisantes pour désintéresser
+la créancière saisissante. Il fait valoir en outre que les cédules hypothécaires
+au porteur sont des biens mobiliers, que la créance de la banque est garantie par des gages immobiliers
+et que "ces gages qui sont des biens mobiliers auraient dû être saisis en premier lieu,
+soit avant tous les biens immobiliers".
+Ce raisonnement est contradictoire, le recourant concluant à ce que la saisie porte sur des parcelles
+et non sur des cédules hypothécaires – dont il n'est pas le porteur, d'ailleurs. Quoi
+qu'il en soit, c'est à juste titre que l'office, respectant l'ordre de saisie de l'art. 95 LP, a
+d'abord saisi les avoirs bancaires du poursuivi. Il ne peut dès lors pas être fait droit à
+la conclusion tendant à ce que la saisie ne porte que sur des parcelles – en réalité,
+des parts de copropriété.
+Il ne peut pas non plus être tenu compte de l'estimation alternative à 106'800'000 fr. de la
+parcelle [...] [b], s'agissant d'une évaluation qualifiée d'indicative par l'expert, dès
+lors que le projet de plan de quartier fondant cette estimation n'a pas reçu l'approbation des autorités
+cantonales et communales.
+Le montant total des avoirs bancaires saisis atteint 195'320 fr. 33. Avec la nouvelle estimation des
+parcelles litigieuses, on peut y ajouter 18'075'000 fr. pour les parts de copropriété du recourant
+sur ces parcelles, au lieu de la valeur précédemment estimée à 17'350'000 francs.
+Les créances en poursuites s'élevant à 21'557'162 fr. 40, il manque encore 3'286'842 fr.
+07. Seule la saisie de l'ensemble des parts de copropriété énumérées dans le
+procès-verbal litigieux permet de couvrir le montant des créances en poursuite. Ce procès-verbal
+doit donc être confirmé.
+b)
+Le recourant fait valoir qu'une seconde poursuite portant sur la même créance est inadmissible
+dans les cas où le créancier pouvait ou avait déjà demandé la continuation de
+la poursuite. Il soutient qu'en l'espèce, les poursuites ordinaires portent sur les mêmes créances
+que les poursuites en réalisation de gage immobilier et sont donc "inadmissibles".
+Les poursuites en réalisation de gage portent sur des créances de respectivement 6'000'000
+fr. (n°
+1'200'412'211)
+et 2'000'000 fr. (n° 1'200'412'212)  résultant de cédules hypothécaires. Les
+deux poursuites ordinaires portent sur des créances de 21'520'108 fr. 40 (n° 5'895'354) et
+37'054 fr. (n° 5'925'756), résultant respectivement d'une relation bancaire et d'une condamnation
+au paiement de dépens. Il est donc inexact de dire que toutes ces poursuites portent sur la même
+créance et ce moyen tombe à faux.
+III.
+Le recours doit ainsi être rejeté et
+le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+14 janvier 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me François Besse, avocat (pour J.________),
+‑
+Me Jean-Samuel Leuba, avocat (pour la Banque P.________),
+-
+M. le Préposé à l’Office des poursuites du district de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
