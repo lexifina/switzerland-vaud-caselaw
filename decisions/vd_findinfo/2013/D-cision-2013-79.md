@@ -1,0 +1,167 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___79"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 79"
+decided: "2013-01-14"
+published: "2013-01-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3663034"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-064.md", "switzerland/bund/acts/312.0/art-205.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 79
+
+## Regeste
+
+AMENDE, DÉFAUT{CONTUMACE} | 205 CPP (CH), 64 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 14.01.2013 Décision / 2013 / 79
+
+AMENDE, DÉFAUT{CONTUMACE} | 205 CPP (CH), 64 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+51
+PE10.017058-CHM
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 14 janvier 2013
+__________________
+Présidence
+de               M.
+ABRECHT, vice-président
+Juges
+:              MM.
+Creux et Meylan
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+64 al. 1 et 205 al. 4 CPP
+Vu l'
+enquête n° PE10.017058-CHM
+instruite par le Ministère public de l’arrondissement de Lausanne contre
+B.X.________
+pour voies de fait qualifiées et menaces qualifiées, sur plainte de
+A.X.________
+,
+vu le mandat de comparution daté du 18 septembre 2012 adressé à A.X.________ pour l'audience
+de conciliation du 30 octobre 2012 devant le Procureur de l'arrondissement de Lausanne,
+vu
+l’ordonnance du 5 novembre 2012, par laquelle le Procureur a condamné A.X.________ à
+une amende de 300 fr. pour défaut de comparution à l'audience de conciliation du 30 octobre
+2012,
+vu
+le recours interjeté le 22 novembre 2012 par A.X.________ contre cette ordonnance,
+vu
+le courrier de A.X.________ adressé le même jour au Procureur,
+vu
+les pièces du dossier ;
+attendu
+qu'aux termes de l’art. 64 al. 1 CPP (Code de procédure pénale suisse; RS 312.0), la
+direction de la procédure peut infliger une amende d’ordre de 1’000 francs au plus aux
+personnes qui troublent le déroulement de la procédure, qui enfreignent les règles de
+la bienséance ou qui n’obtempèrent pas à ses injonctions,
+que
+selon l'alinéa 2 de cette même disposition, les amendes d’ordre infligées par le
+ministère public et les tribunaux de première instance peuvent être attaquées dans
+les dix jours devant l’autorité de recours, qui statue définitivement,
+qu'interjeté
+en temps utile devant l’autorité de recours (cf. art. 20 al. 1 let. b CPP), qui dans le canton
+de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13 al. 1 LVCPP [loi d'introduction
+du Code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi d'organisation judiciaire;
+RSV 173.01]), le recours est donc recevable ;
+qu’il
+appartient à la Chambre des recours pénale, dans sa composition collégiale à trois
+juges (art. 67 al. 1 LOJV; art. 12 al. 1 ROTC [règlement organique du Tribunal cantonal; RSV 173.31.1]),
+de statuer sur les recours contre des prononcés d’amende d’ordre au sens de l’art.
+64 CPP (CREP 10 octobre 2012/662);
+attendu
+que, le 14 mars 2012, A.X.________ a déposé plainte contre B.X.________ pour voies de fait
+qualifiées et menaces qualifiées,
+que
+dans le cadre de l'instruction, le Procureur a adressé le 18 septembre 2012 à A.X.________
+un mandat de comparution pour une audience de conciliation agendée au 30 octobre 2012,
+que
+le jour de l’audience de conciliation, les parties ne s’étant pas présentées,
+la collaboratrice du Procureur a contacté A.X.________,
+que
+ce dernier l’a informé que B.X.________ était à l’étranger et qu’il
+pouvait se rendre immédiatement au Ministère public,
+que
+par ordonnance du 5 novembre 2012, le Procureur, en application des art. 64 al. 1 et 205 al. 4 CPP, a
+condamné A.X.________ à une amende de 300 fr. pour défaut de comparution à l'audience
+de conciliation du 30 octobre 2012,
+que
+A.X.________ conteste cette décision,
+qu’en
+substance, il fait valoir qu’il a informé la collaboratrice du Procureur, lors de leur téléphone
+du 30 octobre 2012, qu’il pouvait se présenter immédiatement,
+que
+celle-ci l’a avisé que ce ne serait pas nécessaire au vu de l’absence de B.X.________ ;
+attendu
+que, selon l'art. 205 al. 4 CPP, celui qui, sans être excusé, ne donne pas suite ou donne suite
+trop tard à un mandat de comparution décerné par le ministère public, une autorité
+pénale compétente en matière de contraventions ou un tribunal peut être puni d'une
+amende d'ordre,
+qu’en
+l’espèce, il est vrai que le recourant ne s’est pas présenté à l’audience
+de conciliation et sans s’être préalablement excusé,
+qu’il
+sied toutefois de relever qu’il s’est mis à disposition du Ministère public pour
+se présenter immédiatement,
+qu’il
+s’agissait d’une audience de conciliation,
+qu’au
+vu de l’absence de B.X.________ le jour de l’audience, cette dernière n’aurait
+de toute manière pas pu avoir lieu,
+qu’ainsi,
+au vu des circonstances, la décision du Procureur n’apparaît pas opportune (cf. art.
+393 al. 2 let. c CPP) ;
+attendu,
+en définitive, que le recours doit être admis et la décision attaquée annulée,
+que
+les frais de la procédure de recours, par 330 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux; RSV 312.03.1]), seront laissés à la charge de l'Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Annule l’ordonnance attaquée.
+III.
+Dit que les frais de la procédure de recours,
+par 330 fr. (trois cent trente francs), sont laissés à la charge de l'Etat.
+IV.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. A.X.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
