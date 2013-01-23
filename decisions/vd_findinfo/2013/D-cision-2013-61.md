@@ -1,0 +1,213 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___61"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 61"
+decided: "2013-01-23"
+published: "2013-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3647863"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-131.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 61
+
+## Regeste
+
+DÉFENSE D'OFFICE | 132 al. 1 let. b CPP (CH), 132 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 23.01.2013 Décision / 2013 / 61
+
+DÉFENSE D'OFFICE | 132 al. 1 let. b CPP (CH), 132 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+33
+PE12.018011-HNI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 23 janvier 2013
+__________________
+Présidence
+de               M.
+abrecht
+,
+vice-président
+Juges
+:              M.
+Meylan et Mme Dessaux
+Greffier
+:              M.
+Valentino
+*****
+Art.
+132, 393 al. 1 let. a CPP
+Vu l'
+enquête n° PE12.018011-HNI
+instruite par le Ministère public de l'arrondissement de l'Est vaudois contre
+Z.________
+pour escroquerie et faux dans les titres, d'office et sur plainte du
+SERVICE
+DE PREVOYANCE ET D'AIDE SOCIALES
+,
+vu la décision du 28 décembre 2012 par laquelle le Procureur a rejeté la requête
+de désignation d'un défenseur d'office présentée par Z.________,
+vu le recours interjeté le 10 janvier 2013 par Z.________ contre cette décision,
+vu la renonciation du Ministère public à déposer des déterminations,
+vu les pièces du dossier;
+attendu
+qu'interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007, RS 312.0]) contre une décision du ministère public (art. 393 al.
+1 let. a CPP), par une partie qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes
+prescrites (art. 385 al. 1 CPP), le recours est recevable;
+attendu que selon l’art. 130 CPP, le prévenu doit avoir un défenseur notamment lorsque
+la détention provisoire, y compris la durée de l’arrestation provisoire, a excédé
+dix jours (let. a), ou lorsqu'il encourt une peine privative de liberté de plus d’un an ou
+une mesure entraînant une privation de liberté (let. b),
+qu'en cas de défense obligatoire au sens de l’art. 130 CPP, la direction de la procédure
+pourvoit à ce que le prévenu soit assisté aussitôt d’un défenseur (art. 131
+CPP), en ordonnant le cas échéant une défense d’office (cf. art. 132 al. 1 let.
+a CPP),
+qu'en dehors des cas de défense obligatoire au sens de l’art. 130 CPP, la direction de la
+procédure ordonne une défense d’office si le prévenu ne dispose pas des moyens nécessaires
+et que l’assistance d’un défenseur est justifiée pour sauvegarder ses intérêts
+(art. 132 al. 1 let. b CPP), ces deux conditions étant cumulatives (Harari/Aliberti,
+in
+Kuhn/Jeanneret (éd.), Commentaire Romand, Code de procédure pénale suisse, Bâle 2011,
+n. 55 ad art. 132 CPP),
+que cette disposition codifie la jurisprudence rendue par le Tribunal fédéral avant l'entrée
+en vigueur du Code de procédure pénale suisse en matière de défense d'office (Harari/Aliberti,
+op. cit., nn. 60 ss ad art. 132 CPP, p. 558),
+qu'en ce qui concerne la notion d'indigence, une personne ne dispose pas des moyens nécessaires
+lorsqu'elle n'est pas en mesure d'acquitter les frais du procès sans avoir recours à des moyens
+qui lui sont nécessaires pour subvenir à ses besoins élémentaires et à ceux
+de sa famille (ATF 128 I 225 c. 2.5.1, JT 2006 IV 47; Harari/Aliberti, op. cit., n. 33 ad art. 132 CPP,
+p. 554),
+que la deuxième condition s'interprète à l'aune des critères mentionnés à
+l'art. 132 al. 2 et 3 CPP (Harari/Aliberti, op. cit., nn. 60 ss ad art. 132 CPP),
+qu'aux termes de l’art. 132 al. 2 CPP, une défense d’office aux fins de protéger
+les intérêts du prévenu indigent se justifie notamment lorsque l’affaire n’est
+pas de peu de gravité et – condition cumulative (Harari/Aliberti, op. cit., n. 61 ad art.
+132 CPP; TF 1B_359/2010 du 13 décembre 2010 c. 3.2) – qu’elle présente, sur le
+plan des faits ou du droit, des difficultés que le prévenu seul ne pourrait pas surmonter,
+qu'en tout état de cause, une affaire n’est pas de peu de gravité lorsque le prévenu
+est passible d’une peine privative de liberté de plus de quatre mois, d’une peine pécuniaire
+de plus de 120 jours-amende ou d’un travail d’intérêt général de plus
+de 480 heures (art. 132 al. 3 CPP),
+que selon la jurisprudence du Tribunal fédéral, le point décisif est toujours de savoir
+si la désignation d'un avocat d'office est objectivement nécessaire dans le cas d'espèce
+(TF 1B_195/2011 du 28 juin 2011 c. 3.2),
+qu'à cet égard, il faut tenir compte des circonstances concrètes de l'affaire, de la complexité
+des questions de fait et de droit, des particularités que présentent les règles de procédure
+applicables, des connaissances juridiques du requérant ou de son représentant, du fait que
+la partie adverse est assistée d'un avocat et de la portée qu'a pour le requérant la décision
+à prendre, avec une certaine réserve lorsque sont en cause principalement ses intérêts
+financiers (TF 1B_359/2010 du 13 décembre 2010 c. 3.2; ATF 128 I 225 c. 2.5.2),
+qu'en revanche, dans les "cas bagatelle" – soit, selon le Tribunal fédéral,
+ceux dans lesquels il ne risque qu'une peine de courte durée ou une amende –, le prévenu
+n'a pas, même s'il est indigent, de droit constitutionnel à la désignation d'un défenseur
+d'office gratuit (Harari/Aliberti, op. cit., n. 67 ad art. 132 CPP; TF 6B_304/2007 du 15 août 2008
+c. 5.2; ATF 128 I 225 c. 2.5.2; CREP, 3 août 2011/291);
+attendu, en l'espèce, que Z.________ ne prétend pas se trouver dans un cas de défense
+obligatoire (cf. art. 130 CPP),
+qu'une défense d'office ne devrait dès lors être ordonnée, le cas échéant,
+qu'aux conditions de l'art. 132 al. 1 let. b CPP,
+que s'agissant de la condition de l'indigence, le Procureur s'est limité à retenir que la prénommée
+"n'avait pas allégué ne pas avoir les moyens nécessaires pour s'assurer les services
+d'un défenseur de choix" (décision, p. 1
+in
+fine
+),
+que, contrairement à ce qu'a soutenu le Procureur, la prévenue n'avait pas à alléguer
+son indigence, puisque celle-ci ressort du dossier,
+qu'en effet, il résulte de la pièce 4.2 que l'intéressée, qui n'a ni revenu, ni fortune,
+est au bénéfice d'un revenu d'insertion,
+que la situation de la recourante n'a pas changé (PV aud. 1; pièce 10.1),
+que, partant, la condition de l'indigence est réalisée;
+attendu qu'il est reproché à Z.________ d'avoir falsifié un contrat de bail afin de cacher
+au Centre social régional de Bex qu'elle vivait en concubinage et que son ami bénéficiait
+d'une activité lucrative et d'un revenu et d'avoir ainsi obtenu indûment des prestations du
+revenu d'insertion pour un montant total de 12'940 fr. entre le 1
+er
+mai 2010 et le 30 novembre 2011,
+que même si, au vu des faits qui lui sont reprochés, une ordonnance pénale est envisageable,
+la situation de fait et de droit n'est pas simple, contrairement à ce qu'a indiqué –
+sans plus amples explications – le Procureur,
+que la version de la recourante, qui conteste "une grande partie des faits qui lui sont reprochés"
+(recours, p. 5), s'oppose à celle du Service de prévoyance et d'aide sociales,
+que s'il ressort des pièces produites par le Service de prévoyance et d'aide sociales à
+l'appui de sa plainte que la prévenue a emménagé avec son compagnon au début 2012,
+ce qu'elle admet (PV aud. 1), la situation de fait résultant des pièces 5.1 à 5.5 du bordereau
+du 21 septembre 2012 sur lesquels s'est basé ledit Service pour soutenir que la cohabitation datait
+du 1
+er
+mai 2010 n'est pas aussi claire que la seule lecture de la plainte pourrait le laisser croire,
+qu'il en va de même de la question de savoir si Z.________, qui a affirmé avoir reçu un
+avenant au bail (lequel ne figure pas au dossier) ensuite du départ de son ami en février 2012,
+a falsifié le contrat de bail à loyer du 20 décembre 2011 et si, le cas échéant,
+les conditions de l'art. 251 CP sont réalisées,
+que des mesures d'instruction supplémentaires, dont l'audition de [...], domicilié en France,
+ne sont, à ce stade, pas exclues,
+qu'à cela s'ajoute qu'une condamnation de la prévenue, croupière de formation et accusée
+de deux crimes, pourrait mettre en péril son avenir professionnel,
+que compte tenu de sa situation personnelle, la recourante, vivant seule avec ses deux enfants en bas
+âge (pièce 4.2), ne paraît pas à même de se défendre efficacement seule,
+que Z.________ doit donc être pourvu d'un défenseur d'office au sens de l’art. 132 al.
+1 let. b CPP,
+que le recours doit dès lors être admis et la décision entreprise réformée en
+ce sens que la requête de désignation de Me Nicolas Mattenberger comme défenseur d'office
+de Z.________ est admise,
+que Me Nicolas Mattenberger est désigné comme défenseur d'office de la recourante également
+pour la présente procédure de recours et son indemnité fixée à 540 fr., plus
+la TVA, par 43 fr. 20, soit 583 fr. 20,
+que les frais du présent arrêt, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), par 583 fr. 20, seront laissés à la charge
+de l’Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Admet le recours.
+II.
+Réforme la décision du 28 décembre 2012 en ce sens que Me Nicolas Mattenberger est désigné
+comme défenseur d'office de Z.________.
+III.
+Désigne
+Me Nicolas Mattenberger comme défenseur d'office de Z.________ pour la présente procédure
+de recours et fixe son indemnité à 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes).
+IV.
+Dit que les frais du présent arrêt,
+par 550 fr. (cinq cent cinquante francs), ainsi que l'indemnité due au défenseur d'office de
+la recourante, par 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes), sont laissés
+à la charge de l'Etat.
+V.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Nicolas Mattenberger, avocat (pour Z.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
