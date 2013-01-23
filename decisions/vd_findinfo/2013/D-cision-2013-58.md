@@ -1,0 +1,196 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___58"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 58"
+decided: "2013-01-23"
+published: "2013-01-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3657429"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-263.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-247.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 58
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE, PORNOGRAPHIE | 263 al. 1 let. a CPP (CH), 263 al. 1 let. d CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 23.01.2013 Décision / 2013 / 58
+
+ORDONNANCE DE SÉQUESTRE, PORNOGRAPHIE | 263 al. 1 let. a CPP (CH), 263 al. 1 let. d CPP (CH)
+
+TRIBUNAL
+CANTONAL
+44
+PE12.019539-PVU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 23 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              M.
+Meylan et Mme Dessaux
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+263 al. 1 let. a et d CPP
+Vu l'
+enquête n° PE12.019539-PVU
+instruite par le Ministère public de l'arrondissement du Nord vaudois contre
+M.________
+pour avoir adressé via internet des textes à caractère pornographique à une enfant,
+soit
+B.________
+,
+née le 13 novembre 1997,
+vu l'ordonnance du 31 décembre 2012 par laquelle le Ministère public de l'arrondissement du
+Nord vaudois a ordonné le séquestre de l'ordinateur saisi chez M.________ par la police de
+sûreté le 16 octobre 2012,
+vu le recours interjeté le 8 janvier 2013 par M.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+que
+l'ordonnance de séquestre, rendue par le Ministère public, peut faire l'objet d'un recours,
+conformément à l'art. 393 al. 1 let. a CPP (Code de procédure pénale suisse du 5
+octobre 2007; RS 312.0),
+que la Chambre des recours pénale du Tribunal cantonal est compétente pour statuer sur un recours
+de cette nature (art. 20 al. 1 let. b CPP et 13 LVCPP [Loi vaudoise d'introduction du Code de procédure
+pénale suisse; RSV 312.01]),
+que déposé dans le délai de dix jours de l'art. 396 al. 1 CPP, le recours est recevable;
+attendu que l'art. 263 al. 1 CPP prévoit notamment que des objets et des valeurs patrimoniales appartenant
+au prévenu ou à des tiers peuvent être mis sous séquestre, lorsqu’il est probable
+(a) qu’ils seront utilisés comme moyens de preuves (let. a) ou qu’ils devront être
+confisqués (d),
+que le séquestre a non seulement pour but d'assurer la conservation des moyens de preuve, mais également
+de garantir l'exécution d'une éventuelle confiscation (Lembo/Julen Berthod,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 2 ad art. 263 CP, p. 1183),
+qu'en l'espèce, le recourant est soupçonné de pornographie pour avoir fait des propositions
+pornographiques à une enfant de quinze ans (P. 9),
+que son ordinateur a été séquestré pour une analyse détaillée en vue d'établir
+la réalité des accusations portées et de déterminer l'étendue de l'activité
+coupable (art. 263 al. 1 let. a CPP),
+que le séquestre est également motivé par la possibilité d'une confiscation par le
+juge du fond (art. 263 al. 1 let. d CPP);
+attendu que le recourant invoque le principe de la proportionnalité, soutenant que la police n'aurait
+qu'à copier le contenu de son ordinateur et le lui rendre,
+que conformément à l'art. 197 al. 1 CPP, applicable à l'ensemble des mesures de contrainte,
+le prononcé d'un séquestre ne peut être ordonné que si les conditions matérielles
+suivantes sont réunies : l'existence d'une base légale, la présence d'indices suffisants
+de la commission d'une infraction, le respect du principe de la proportionnalité, un lien de connexité
+entre l'infraction et la mesure ordonnée,
+que le principe de proportionnalité suppose que le séquestre soit apte à produire les
+résultats escomptés (règle de l'aptitude), ces derniers ne pouvant pas être atteints
+par une mesure moins incisive (règle de la nécessité),
+qu'il suppose également que la mesure n'emporte pas de limitation allant au-delà du but visé
+et qu'il existe un rapport raisonnable entre le séquestre et les intérêts privés
+compromis, eu égard à la gravité de l'infraction et des charges qui pèsent sur le
+recourant (principe de la proportionnalité au sens étroit) (TF 1B_293/2009 du 7 janvier
+2010 c. 3.2; ATF 132 I 49 c. 7.2; Lembo/Julen Berthod, op. cit., n. 23 ad art. 263 CPP, p. 1187),
+que l’autorité pénale doit, lorsqu’un objet est susceptible d’être utilisé
+comme moyen de preuve (cf. art. 263 al. 1 let. a CPP) en raison des informations qui y sont contenues,
+se contenter de tirer une copie de ces informations si cela suffit aux besoins de la procédure (art.
+247 al. 3 CPP; Bommer/Goldschmid, in: Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische
+Strafprozessordnung, Jugendstrafprozessordnung, Bâle 2011, n. 23 ad art. 263 CPP) et restituer l’objet
+lui-même à son titulaire si celui-ci en a besoin,
+qu'en l'espèce, et à ce stade de l'enquête, il y a lieu d'admettre l'existence de soupçons
+crédibles à l'encontre de M.________, ce que ce dernier ne conteste d'ailleurs pas,
+que si la police doit certes examiner le contenu de l'ordinateur séquestré dans un premier
+temps (art. 263 al. 1 let. a CPP), il y a également lieu d'examiner si le séquestre doit être
+ordonné, respectivement maintenu en vue de confiscation par le juge du fond (art. 263 al. 1 let.
+d CPP),
+qu'à ce stade, il existe des indices démontrant que l'ordinateur du recourant pourrait être
+confisqué (P. 9),
+qu'en conséquence, les conditions du séquestre tant probatoire que conservatoire sont réalisées;
+attendu que la police détient l'ordinateur du recourant depuis le 16 octobre 2012,
+que la conservation d'une copie des fichiers trouvés sur l'ordinateur et la restitution de ce dernier
+au recourant aurait certes pu suffire à titre probatoire (art. 247 al. 3 CPP; CREP, 8 novembre 2011/508,
+c. 2.1),
+qu'il n'en va cependant pas de même pour garantir l'exécution d'une éventuelle confiscation,
+qui suppose le maintien de la mesure de séquestre litigieuse;
+que partant, le principe de proportionnalité est respecté,
+que le Procureur est invité à ordonner à la police d'examiner l'ordinateur séquestré
+dans les meilleurs délais,
+que s'il ressort de cet examen que le séquestre conservatoire doit être maintenu, une copie
+du disque dur de l'ordinateur devra être remise au recourant, sans les données illicites qui
+pourraient y être contenues;
+attendu, en définitive, que le recours doit être partiellement admis et l'ordonnance attaquée
+annulée,
+que le dossier de la cause sera renvoyé au Procureur de l'arrondissement de l'Est vaudois pour qu'il
+procède dans le sens des considérants puis rende une nouvelle décision,
+que le séquestre doit être maintenu jusqu'à droit connu sur la nouvelle décision
+du Procureur,
+que les frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 550 fr. (art. 20 al. 1 TFJP, RSV 312.03.1), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à 450 fr., plus la TVA, par 36 fr.,
+soit 486 fr., seront mis par moitié à la charge du recourant, le solde étant laissé
+à la charge de l'Etat (art. 428 al. 1 CPP),
+que le remboursement à l'Etat de la moitié de l'indemnité allouée au défenseur
+d'office de M.________ sera toutefois exigible pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+L'ordonnance de séquestre du 31 décembre 2012 est annulée.
+III.
+Le dossier de la cause est renvoyé au Procureur
+de l'arrondissement du Nord vaudois pour qu'il procède dans le sens des considérants, puis
+rende une nouvelle décision.
+IV.
+Le séquestre est maintenu jusqu'à droit connu sur la nouvelle décision du Procureur de
+l'arrondissement du Nord vaudois.
+V.
+L'indemnité allouée au défenseur d'office du recourant est fixée à
+486
+fr. (quatre cent huitante-six francs).
+VI.
+Les frais d'arrêt, par 550 fr. (cinq cent cinquante francs), ainsi que l'indemnité due au défenseur
+d'office du recourant, par 486 fr. (quatre cent huitante-six francs), sont mis pour moitié à
+la charge de ce dernier et pour moitié à la charge de l'Etat.
+VII.
+Le remboursement à l'Etat de la moitié de l'indemnité allouée au chiffre IV ci-dessus
+sera exigible pour autant que la situation économique du recourant se soit améliorée.
+VIII.
+Le présent arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Mathias Keller, avocat (pour M.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
