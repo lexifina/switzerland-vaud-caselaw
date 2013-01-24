@@ -1,0 +1,161 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___63"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 63"
+decided: "2013-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3646883"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# VD Findinfo Décision / 2013 / 63
+
+## Regeste
+
+TRANSACTION{ACCORD}, RADIATION DU RÔLE, PROCÈS DEVENU SANS OBJET | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 24.01.2013 Décision / 2013 / 63
+
+TRANSACTION{ACCORD}, RADIATION DU RÔLE, PROCÈS DEVENU SANS OBJET | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+PP
+29/12 - 3/2013
+ZI12.043333
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 24 janvier 2013
+__________________
+Présidence
+de               Mme
+Pasche
+,
+juge unique
+Greffière
+:              Mme
+Berberat
+*****
+Cause
+pendante entre :
+Caisse
+S.________
+, à [...], demanderesse, représentée
+par Me Thomas             Käslin, avocat à Bâle,
+et
+Y.________
+sàrl
+, à [...], défenderesse.
+_______________
+Art.
+94 al. 1 let. c LPA-VD
+Vu
+la demande adressée le 26 octobre 2012 à la Cour des assurances sociales du Tribunal cantonal
+par la Caisse S.________ (ci-après : la demanderesse), concluant au paiement, de la part d’Y.________
+Sàrl (ci-après : la défenderesse), d’un montant d’un 8'488 fr. 95 avec
+intérêts à 6 % dès le 23 mai 2012, d’un montant de 1'250 fr. avec intérêts
+à 6 % dès le jour du dépôt de la demande, et d’un montant de 73 fr. au
+titre de frais de poursuite (I), ainsi qu’à la levée de l’opposition formée
+au commandement de payer poursuite n° 6275446 de l’Office des poursuites du district de [...],
+pour le montant de 8'488 fr. 95 plus intérêts à 6 % à compter du 23 mai 2012
+(II), sous suite de frais et dépens (III),
+vu la réponse de la défenderesse du 21 novembre 2012, qui reconnaît n’avoir pu honorer
+sa créance à l’égard de la demanderesse, en expliquant être passée par
+deux années très difficiles, s’en excuse, et requiert la possibilité de pouvoir
+bénéficier d’un paiement échelonné pour réunir la somme demandée,
+vu la convention de paiement échelonné conclue par les parties les 9 et 15 janvier 2013, soumise
+au juge instructeur pour ratification, et dont la teneur est la suivante :
+I.
+La débitrice explicitement reconnaît
+devoir à la créancière une somme de CHF 8'488.95 et retire l’opposition à
+la poursuite N° 6275446 de l’office des poursuites du District de [...].
+II.
+La créancière et la débitrice conviennent
+que la débitrice s’acquittera de la dette à l’égard de la créancière
+en 17 tranches mensuelles d’un montant identique, à savoir CHF 500.00 par mois. La débitrice
+paiera ce montant à la créancière au plus tard le 20ème jour de chaque mois et la
+première fois au cours du mois de Février 2013.
+III.
+Si la débitrice paie ponctuellement sa dette
+aux échéances ainsi fixées, la débitrice ne sera pas redevable au créancier
+d’intérêts de retard.
+IV.
+A défaut de paiement d’une de ces mensualités
+à l’échéance fixée, le solde restant dû de la dette de la débitrice
+deviendra immédiatement et intégralement exigible, de plein droit et sans mise en demeure,
+et sera majoré des intérêts de retard à 6 % dès le 23 mai 2012 et en plus
+de CHF 500.00 en cas de mainlevée.
+vu les pièces du dossier constitué;
+attendu
+que le Tribunal fédéral a admis la possibilité de conclure des transactions judiciaires
+dans le cadre d'une procédure administrative judiciaire et que, dans cette éventualité,
+il incombe au juge des assurances sociales appelé à se prononcer sur une convention conclue
+entre les parties de contrôler, dans le cadre du pouvoir d'examen dont il dispose, l'adéquation
+de la convention qui lui est soumise à l'état de fait ainsi que sa conformité au droit
+(TFA H 162/98 du 16 juin 1999, TFA H 325/00 du 11 mai 2001, consid. 3),
+attendu qu'en l'espèce, les parties ont convenu, par signatures respectivement apposées les
+9 et 15 janvier 2013 sur l’acte de transaction tel que repris ci-dessus, du paiement de la somme
+de 8'488 fr. 95 par la défenderesse à la demanderesse, et réglé les modalités
+de versement de cette somme,
+qu’il apparaît que le montant de 8'488 fr. 95 dont s’est reconnue débitrice la
+défenderesse correspond au solde de la créance due à la demanderesse, auprès de laquelle
+elle était affiliée depuis le 1
+er
+janvier 2007 en tant qu’employeur,
+que ce montant paraît conforme au droit en tant qu’il se fonde notamment sur le contrat d’affiliation
+conclu entre les parties, ainsi que sur le règlement de prévoyance pour la couverture de base
+LPP de la demanderesse et son règlement concernant les frais,
+qu’il ressort finalement de l’examen de la transaction que le contenu de celle-ci est en
+adéquation avec les circonstances de fait de la cause, qu’elle est conforme à la loi
+et qu’elle tient compte de l’intérêt des parties,
+que rien ne s'oppose dès lors à son approbation, respectivement à sa ratification pour
+valoir jugement,
+que la transaction vide le présent litige de son objet, ce qui justifie de rayer la cause du rôle
+(ATF 135 V 65), compétence qui revient au juge instructeur statuant en tant que juge unique (art.
+94 al. 1 let. c LPA-VD [Loi cantonale vaudoise du 28 octobre 2008 sur la procédure administrative,
+RSV 173.36]),
+qu’il n’y a pas lieu de percevoir de frais, la procédure étant gratuite,
+que bien qu’obtenant gain de cause, la demanderesse ne peut prétendre à des dépens
+de la part de la défenderesse, dès lors que selon la jurisprudence, l’assureur social
+qui obtient gain de cause devant une juridiction de première instance n’a pas droit à
+des dépens, y compris dans une procédure d’action en matière de prévoyance
+professionnelle (art. 73 LPP [Loi fédérale du 25 juin 1982 sur la prévoyance professionnelle
+vieillesse, survivants et invalidité, RS 831.40]; ATF 126 V 143 consid. 4),
+qu’au demeurant, il ne peut être considéré que la défenderesse a agi par témérité
+(cf. ATF 124 V 287 consid. 3b et les références citées).
+Par
+ces motifs,
+la
+juge unique
+prononce :
+I.
+Il est pris acte de la convention de paiement échelonné signée par les parties les 9 et
+15 janvier 2013 pour valoir jugement.
+II.
+Le litige étant devenu sans objet, la cause est rayée du rôle.
+III.
+Il n’est pas perçu de frais, ni alloué de dépens.
+La
+juge unique :               La
+greffière :
+Du
+La décision qui précède est notifiée à :
+‑
+Me Thomas Käslin (pour la demanderesse), avocat à Bâle,
+‑
+Y.________ Sàrl, à [...],
+-
+Office fédéral des assurances sociales, à Berne,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
