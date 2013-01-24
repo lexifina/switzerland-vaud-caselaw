@@ -1,0 +1,269 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___56"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 56"
+decided: "2013-01-24"
+published: "2013-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3642726"
+cites_law: ["switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-229.md", "switzerland/bund/acts/312.0/art-324.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 56
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, PROPORTIONNALITÉ, RISQUE DE RÉCIDIVE | 221 CPP (CH), 229 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2013 Décision / 2013 / 56
+
+DÉTENTION PRÉVENTIVE, PROPORTIONNALITÉ, RISQUE DE RÉCIDIVE | 221 CPP (CH), 229 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+30
+PE11.009252-SDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 24 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              M.
+Creux et Mme Dessaux
+Greffier
+:              M.
+Addor
+*****
+Art.
+212 al. 3, 221 al. 1, 229 al. 1 et 3, 393 al. 1 let. c CPP
+Vu l'
+enquête n° PE11.009252-AUP
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+K.________
+pour lésions corporelles simples, voies de fait, mise en danger de la vie d'autrui, dommages à
+la propriété, injure, utilisation abusive d'une installation de télécommunication,
+menaces, tentative de contrainte, tentative de contrainte sexuelle, désagréments causés
+par la confrontation à un acte d'ordre sexuel, infraction à la LEtr (Loi fédérale
+sur les étrangers; RS 142.20) et contravention à la LStup (Loi fédérale sur les stupéfiants;
+RS 812.121), d'office et sur plaintes notamment de
+B.________
+et
+H.________
+,
+vu l'ordonnance du 25 avril 2012, par laquelle le Tribunal des mesures de contrainte a ordonné la
+détention provisoire, pour une durée de trois mois, soit jusqu'au 23 juillet 2012, de K.________,
+lequel avait déjà été détenu provisoirement du 19 novembre 2010 au 21 janvier
+2011, puis du 11 juin 2011 au 14 septembre 2011, date à laquelle le juge de la détention avait
+ordonné une mesure de substitution enjoignant au prénommé de s'abstenir d'entretenir des
+relations, qu'elles quelles soient, avec H.________, et ordonné la libération immédiate
+du prévenu,
+vu l'ordonnance du 22 novembre 2012, par laquelle le Tribunal des mesures de contrainte a ordonné
+en dernier lieu la prolongation de la détention provisoire du prévenu pour une durée maximale
+de deux mois, soit au plus tard jusqu'au 4 février 2013,
+vu l'acte du 21 décembre 2012, par lequel le Ministère public a engagé l'accusation devant
+le Tribunal correctionnel de l'arrondissement de Lausanne contre K.________ des chefs de lésions
+corporelles simples, voies de fait, mise en danger de la vie d'autrui, dommages à la propriété,
+injure, utilisation abusive d'une installation de télécommunication, menaces, contrainte, désagréments
+causés par la confrontation à un acte d'ordre sexuel, faux dans les certificats, violence ou
+menace contre les autorités et les fonctionnaires, empêchement d'accomplir un acte officiel,
+contravention à la LStup et infraction à la LEtr,
+vu l'ordonnance du 4 janvier 2013, par laquelle le Tribunal des mesures de contrainte, déférant
+à la requête du Ministère public, a ordonné la détention pour des motifs de
+sûreté de K.________ pour une durée maximale de deux mois, soit jusqu'au 21 février
+2013,
+vu le recours interjeté le 10 janvier 2013 par K.________ contre cette décision,
+vu les déterminations déposées par le procureur le 18 janvier 2013 (art. 390 al. 2 CPP),
+vu les pièces du dossier;
+attendu
+qu’interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0]) contre une décision du Tribunal des mesures de contrainte dans
+un cas prévu par le CPP (art. 393 al. 1 let. c CPP), par le détenu qui a qualité pour
+recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable;
+attendu qu’en vertu de l’art. 221 al. 1 CPP, la détention provisoire et la détention
+pour des motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est
+fortement soupçonné d’avoir commis un crime ou un délit et qu’il y a sérieusement
+lieu de craindre qu’il se soustraie à la procédure pénale ou à la sanction
+prévisible en prenant la fuite (let. a), qu’il compromette la recherche de la vérité
+en exerçant une influence sur des personnes ou en altérant des moyens de preuves (let. b) ou
+encore qu’il compromette sérieusement la sécurité d’autrui par des crimes
+ou des délits graves après avoir déjà commis des infractions du même genre (let.
+c);
+attendu, en l'espèce, que le recourant ne conteste pas l'existence de présomptions de culpabilité
+suffisantes,
+qu'on rappellera cependant, pour une meilleure intelligence de l'affaire, les griefs qui lui sont faits,
+que le recourant, qui faisait déjà l'objet d'un signalement sous mandat d'arrêt par le
+Service pénitentiaire vaudois afin d'exécuter une peine antérieure, est soupçonné
+d'avoir harcelé son ex-amie H.________ régulièrement depuis leur séparation en août
+2010, de s'en être pris physiquement à elle et de l'avoir menacée,
+que l'intéressé est également mis en cause pour avoir, le 11 juin 2011, mordu jusqu'au
+sang la main de H.________, pour l'avoir menacée et lui avoir jeté le contenu d'un verre d'alcool
+à la figure le 14 octobre 2011 (P. 54), pour l'avoir, le 20 novembre 2011, une nouvelle fois
+menacée et injuriée, lui avoir dérobé ses deux téléphones portables et
+avoir cassé la vitre de la voiture appartenant au père de la plaignante (P. 69/1),
+que le 2 décembre 2011, il l'aurait de nouveau menacée, embrassée avec violence et léchée
+au visage (P. 65),
+qu'il est en outre reproché au prévenu d'avoir, le matin du 22 avril 2012, à la sortie
+d'un club à Lausanne, après une altercation verbale avec son amie de l'époque B.________
+pour la faire taire, saisi au cou cette dernière et avoir serré jusqu'à lui faire perdre
+connaissance (PV audition de B.________ du 22 avril 2012, pp. 3 et 4),
+que les présomptions de culpabilité découlent non seulement de la mise en accusation,
+qui suppose des soupçons suffisants (cf. art. 324 al. 1 CPP), mais aussi des déclarations de
+l'intéressé, qui admet en partie les faits;
+attendu que l'ordonnance entreprise se fonde sur le risque de réitération,
+que la cour de céans, dans ses arrêts des 31 octobre et 30 novembre 2012, a retenu un tel motif
+de détention provisoire, compte tenu notamment des antécédents du prévenu, de la
+gravité des actes qui lui étaient reprochés, de son incapacité à tirer les leçons
+de ses précédentes condamnations, ainsi que des avis exprimés par les experts psychiatres,
+en particulier dans leur rapport du 31 octobre 2012 (P. 158),
+que les experts, dans ce rapport, ont en effet jugé élevé le risque que le prévenu,
+qui présente un trouble mixte de la personnalité avec des traits immatures, paranoïaques
+et dyssociaux, doublé d'un syndrome de dépendance à des substances psychoactives, récidive
+et commette des actes de même nature que ceux qui lui valent les présentes poursuites (P. 158,
+pp. 12 et 13),
+que le prévenu ne remettant pas en cause cette appréciation dans son recours, on peut renvoyer
+aux considérants des arrêts des 31 octobre et 30 novembre 2012 sur la question,
+que ce procédé est admissible au regard des exigences du droit d'être entendu, le recourant
+ne faisant valoir aucun argument nouveau (CREP 23 octobre 2012/634; CREP 18 octobre 2012/632; CREP 17
+octobre 2012/621, et les références citées);
+attendu que la détention pour des motifs de sûreté a été requise en raison du
+risque de fuite, que le Tribunal des mesures de contrainte s'est dispensé d'examiner après
+avoir constaté l'existence suffisante du risque de récidive,
+que selon la jurisprudence du Tribunal fédéral, le risque de fuite doit s'analyser en fonction
+d'un ensemble de critères tels que le caractère de l'intéressé, sa moralité,
+ses ressources, ses liens avec l'Etat qui le poursuit ainsi que ses contacts à l'étranger,
+qui font apparaître le risque de fuite non seulement possible, mais également probable (ATF
+138 IV 81, c. 3.1 non publié),
+que la gravité de l’infraction ne peut pas, à elle seule, justifier la prolongation de
+la détention, même si elle permet souvent de présumer un danger de fuite en raison de
+l’importance de la peine dont le prévenu est menacé (ibidem),
+qu'en outre, alors que la détention provisoire a essentiellement pour but de garantir les objectifs
+de la procédure d’instruction, la détention pour des motifs de sûreté vise
+à assurer la disponibilité du prévenu durant la procédure de première instance
+et la procédure de recours ainsi qu’à garantir l’exécution consécutive
+des sanctions privatives de liberté (Message du Conseil fédéral relatif à l’unification
+du droit de la procédure pénale, FF 2006 p. 1057 ss, spéc. 1210),
+qu'en l'espèce, le recourant, qui est interdit de séjour en Suisse, sans domicile connu, faisait
+l'objet d'un signalement sous mandat d'arrêt, au moment de son interpellation en raison de faits
+nouveaux, pour s'être soustrait aux poursuites dirigées contre lui,
+qu'en outre, eu égard à la gravité des charges qui pèsent sur lui, il est exposé
+à une importante peine privative de liberté,
+que, dans ces conditions, le risque de fuite est bien réel et s'oppose à l'élargissement
+du recourant;
+attendu que le recourant demande, à titre subsidiaire, comme mesure de substitution, d'être
+libéré de la détention pour des motifs de sûreté pour pouvoir être admis
+à la Fondation Les Oliviers, afin d'y soigner ses problèmes de consommation de drogue et d'alcool,
+que la Chambre des recours pénale s'est déjà prononcée sur cette question dans son
+arrêt du 30 novembre 2012, aux considérants duquel il peut être renvoyé, le recourant
+ne développant aucun argument nouveau et décisif à cet égard,
+qu'il faut remarquer qu'une précédente mesure de substitution, dont le recourant a bénéficié
+lorsque sa libération a été ordonnée le 14 septembre 2011, et consistant à s'abstenir
+de tout contact avec H.________, s'est soldée par un échec,
+qu'en outre, le transfert du recourant à la Fondation des Oliviers ne paraît pas concevable,
+si l'on admet qu'il équivaut à ordonner un traitement institutionnel, contre l'avis de l'expert
+psychiatre, qui a préconisé un traitement ambulatoire (P. 158, p. 15),
+qu'il résulte de ce qui précède que la détention pour des motifs de sûreté,
+vu le but qui lui est assigné, est la seule mesure propre à garantir que le prévenu se
+présente devant ses juges;
+attendu, pour le surplus, que le principe de la proportionnalité demeure respecté, dans la
+mesure où, compte tenu de la gravité des actes qui lui sont reprochés, de ses antécédents
+et de la réitération de délits en cours d'enquête, le recourant, dont la responsabilité,
+à dire d'expert, n'est que légèrement à moyennement diminuée, est exposé
+au prononcé d'une peine privative de liberté dont la durée est encore sensiblement supérieure
+à celle de la détention qu'il aura subie au moment du jugement (TF 1B_411/2011 du 31 août
+2011 c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1; art. 212 al. 3 CPP),
+que le recourant se plaint toutefois d'une "prolongation disproportionnée de sa détention",
+que, concrétisant le principe de la célérité consacré par l’art. 29 al.
+1 Cst., l'art. 5 CPP impose aux autorités pénales d'engager les procédures pénales
+sans délai et de les mener à terme sans retard injustifié (al. 1), la procédure devant
+être conduite en priorité lorsqu'un prévenu est placé en détention (al. 2),
+qu'après la clôture de l'instruction, le prévenu doit en principe être renvoyé
+devant le juge du fond dans un délai qui, pour être conforme aux exigences des art. 10
+Cst., 5 CPP et 5 par. 3 CEDH, ne devrait pas excéder quelques semaines, voire quelques mois (TF
+1B_684/2011 du 21 décembre 2011 c. 3.1; cf. TF 1B_419/2011 du 13 septembre 2011 c. 2.1
+pour les durées jugées conformes au principe de la célérité; TF 1B_418/2011
+du 13 septembre 2011 c. 6.1; TF 1B_69/2011 du 4 mars 2011 c. 5.1; TF 1P.540/2002 du 4 novembre 2002
+c. 4.3, ad TACC 20 septembre 2002/549),
+qu'en l'espèce, les débats ont été fixés aux 2 et 3 avril 2013,
+que le délai de trois mois et demi qui sépare la mise en accusation des débats devant
+le tribunal est conforme aux exigences de la jurisprudence précitée, sous l'angle du principe
+de la célérité,
+que le Tribunal des mesures de contrainte a toutefois ordonné la détention pour des motifs
+de sûreté du recourant pour une durée maximale de deux mois, soit au plus tard jusqu'au
+21 février 2013, en relevant dans les considérants de sa décision que l'audience de jugement
+devrait avoir lieu avant cette date,
+qu'un tel délai, trop bref, ne peut être raisonnablement respecté, s'agissant d'un renvoi
+devant une cour correctionnelle,
+que le Tribunal des mesure de contrainte, pour tenir compte de ce qui précède, aurait donc
+pu – et dû – d'emblée ordonner la détention pour des motifs de sûreté
+pour quatre mois (art. 227 al. 7 CPP),
+que la décision entreprise ne saurait pourtant être réformée en ce sens au détriment
+du recourant (cf. art. 391 al. 2 CPP),
+qu'il appartiendra, le cas échéant, à la direction de la procédure du tribunal correctionnel,
+de demander au Tribunal des mesures de contrainte que la détention du recourant soit prolongée
+jusqu'aux débats (art. 229 al. 2 CPP);
+attendu, en définitive, que le recours doit être rejeté et l’ordonnance confirmée,
+que les frais de la procédure de recours, par 770 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à 450 fr., plus la TVA, par
+36 fr., soit un total de 486 fr., sont mis à la charge du recourant, qui succombe (art. 428 al.
+1 CPP),
+que le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de K.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 486 fr. (quatre cent huitante-six
+francs) l'indemnité allouée au défenseur d'office de K.________.
+IV.
+Dit que les frais d'arrêt, par 770 fr. (sept cent septante francs), ainsi que l'indemnité due
+au défenseur d'office de K.________, par 486 fr. (quatre cent huitante-six francs), sont mis à
+la charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique de K.________ se soit améliorée.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Kathrin Gruber, avocate (pour K.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+M. le Procureur de l'arrondissement de Lausanne,
+-
+M. le Président du Tribunal d'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
