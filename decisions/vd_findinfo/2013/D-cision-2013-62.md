@@ -1,0 +1,152 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___62"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 62"
+decided: "2013-01-25"
+published: "2013-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3643150"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-394.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 62
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, EXPERTISE PSYCHIATRIQUE | 189 CPP (CH), 394 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2013 Décision / 2013 / 62
+
+DÉCISION D'IRRECEVABILITÉ, EXPERTISE PSYCHIATRIQUE | 189 CPP (CH), 394 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+28
+PE12.006780-CDT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 25 janvier 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice - président
+Juges
+:              M.
+Meylan et Mme Dessaux
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+394 let. b CPP
+Vu l'
+enquête n PE12.006780-CDT
+instruite d'office et sur diverses plaintes par le Ministère public de l'arrondissement de La Côte
+contre
+S.________
+pour tentative de meurtre et vol, subsidiairement brigandage qualifié, vol, dommages à la propriété,
+violation de domicile, faux dans les certificats, conduite en état d'ébriété qualifiée,
+conduite en état d'incapacité de conduire, vol d'usage, conduite malgré un retrait du
+permis de conduire, infraction grave et contravention à la Loi fédérale sur les stupéfiants,
+vu le rapport d'expertise psychiatrique déposé le 31 octobre 2012 par le Département de
+psychiatrie, Secteur psychiatrique Ouest du CHUV,
+vu la prolongation au 14 décembre 2012 du délai imparti aux parties pour formuler leurs éventuelles
+observations sur ce rapport,
+vu le courrier du 14 décembre 2012 du défenseur d'office de S.________ requérant une nouvelle
+expertise psychiatrique de son client,
+vu la décision du 4 janvier 2013 par laquelle la Procureure ad interim de l'arrondissement de La
+Côte a refusé d'ordonner une nouvelle expertise (I) et a dit que les frais de la décision
+suivaient le sort de la cause (II),
+vu le recours interjeté le 17 janvier 2013 par S.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+qu'aux
+termes de l’art. 393 al. 1 let. a CPP (Code de procédure pénale suisse du 5 octobre 2007;
+RS 312.0), le recours est recevable contre les décisions et actes de procédure du Ministère
+public,
+qu'ainsi, la décision du Ministère public d'administrer ou de refuser d'administrer une preuve
+au sens des art. 139 ss CPP est en principe susceptible de recours selon les art. 393 ss CPP (Keller,
+in: Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozessordnung, Zurich/Bâle/Genève
+2010, n. 16 ad art. 393 CPP, pp. 1886 s.; CREP, 18 octobre 2012/651),
+que, toutefois, l'art. 394 let. b CPP précise que le recours est irrecevable lorsque le Ministère
+public ou l'autorité pénale compétente en matière de contraventions rejette une réquisition
+de preuves qui peut être réitérée sans préjudice juridique devant le tribunal
+de première instance,
+que les décisions relatives à l'administration des preuves ne sont en principe pas de nature
+à causer un dommage juridique irréparable (ATF 136 IV 92 c. 4; ATF 134 III 188 c. 2.3;
+ATF 133 IV 139 c. 4; ATF 99 Ia 437 c. 1; TF 1B_688/2011 du 14 mars 2012),
+que cette règle comporte toutefois des exceptions, notamment lorsque le refus porte sur des moyens
+de preuve qui risquent de disparaître et qui visent des faits décisifs non encore élucidés
+(ATF 133 IV 335 c. 4; ATF 101 Ia 161; ATF 98 Ib 282 c. 4; TF 1B_688/2011 du 14 mars 2012 et les réf.
+citées),
+que, par "préjudice juridique", on entend notamment le témoin qui ne pourrait pas
+être entendu ultérieurement dans la procédure, ou qui ne pourrait l'être que difficilement,
+ainsi que la situation où une expertise devrait être menée immédiatement en raison
+des possibles modifications de son objet (Rémy, in : Kuhn/Jeanneret [éd.], Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 6 ad art. 394 CPP, p. 1761);
+attendu qu'en l'espèce, le recourant a sollicité une nouvelle expertise psychiatrique,
+qu'il n'indique toutefois pas en quoi la décision attaquée serait susceptible de causer un
+dommage juridique irréparable,
+qu'en effet, le recourant garde la possibilité de solliciter ultérieurement la mise en œuvre
+d'une nouvelle expertise psychiatrique devant le tribunal de première instance et, si cette mesure
+d'instruction lui était refusée, de contester ce refus par la voie de l'appel contre le jugement
+au fond (TF 1B_688/2011 du 14 mars 2012; CREP, 27 décembre 2012/807, c. 3; CREP, 4 décembre
+2012/739; CREP, 18 octobre 2012/651; CREP, 3 août 2012/500; CREP, 19 juillet 2012/437),
+qu'au vu de ce qui précède, le recours doit être déclaré irrecevable,
+que les frais de la procédure de recours, par 330 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux du 28 septembre 2010; RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à
+450
+fr., plus la TVA, par 36 fr., soit un total de 486 fr., sont mis à la charge du recourant (art.
+428 al. 1 CPP),
+que le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de S.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Déclare le recours irrecevable.
+II.
+Fixe à 486 fr. (quatre cent huitante-six francs) l’indemnité allouée au défenseur
+d’office de S.________.
+III.
+Dit que les frais du présent arrêt,
+par 330 fr. (trois cent trente francs), ainsi que l’indemnité due au défenseur d’office
+du recourant, par 486 fr. (quatre cent huitante-six francs), sont mis à la charge de ce dernier.
+IV.
+Dit que le remboursement à l’Etat de l’indemnité allouée au chiffre II ci-dessus
+sera exigible pour autant que la situation économique de S.________ se soit améliorée.
+V.
+Déclare le présent arrêt exécutoire.
+Le
+vice - président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Georges Reymond, avocat (pour S.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure ad interim de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
