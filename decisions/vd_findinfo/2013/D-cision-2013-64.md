@@ -1,0 +1,205 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___64"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 64"
+decided: "2013-01-25"
+published: "2013-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3645455"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 64
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE FUITE | 221 al. 1 let. a CPP (CH), 221 CPP (CH), 393 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2013 Décision / 2013 / 64
+
+DÉTENTION PRÉVENTIVE, RISQUE DE FUITE | 221 al. 1 let. a CPP (CH), 221 CPP (CH), 393 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+31
+PE12.020529-CMI/PHK
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 25 janvier 2013
+__________________
+Présidence
+de               M.
+A B R E C H T, vice-président
+Juges
+:              MM.
+Creux et Meylan
+Greffière
+:              Mme
+Bonnard
+*****
+Art.
+221, 222, 237, 393 al. 1 let. c CPP
+Vu l'
+enquête n° PE12.020529-CMI/PHK
+instruite par le Ministère public de l'arrondissement du Nord vaudois contre
+X.________
+pour lésions corporelles, mise en danger de la vie d'autrui et infraction à la Loi fédérale
+sur les étrangers (LEtr; RS 142.20), d'office et sur plainte d'
+E.________
+,
+vu l'appréhension de X.________ le 2 novembre 2012,
+vu l'ordonnance du 3 novembre 2012, par laquelle le Tribunal des mesures de contrainte a ordonné
+la détention provisoire de X.________ pour une durée maximale de trois mois, soit jusqu'au
+2 février 2013,
+vu la demande de mise en liberté déposée le 24 décembre 2012 par X.________,
+vu la prise de position du Ministère public du 27 décembre 2012, par laquelle il a conclu au
+rejet de la demande de mise en liberté et a sollicité la prolongation de la détention
+provisoire de l'intéressé pour une durée de trois mois,
+vu l'ordonnance du 9 janvier 2013, par laquelle le Tribunal des mesures de contrainte a rejeté la
+demande de libération de la détention provisoire de X.________ (I), a ordonné la prolongation
+de la détention provisoire de l'intéressé pour une durée de trois mois, soit jusqu'au
+2 mai 2013 (II) et a dit que les frais de la décision, par 525 fr., suivaient le sort de la cause
+(III),
+vu le recours interjeté le 21 janvier 2013 par X.________ contre cette décision,
+vu les pièces du dossier;
+attendu
+qu’interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0]) contre une décision du Tribunal des mesures de contrainte dans
+un cas prévu par le CPP (art. 393 al. 1 let. c CPP), par le détenu qui a qualité pour
+recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable;
+attendu qu’en vertu de l’art. 221 al. 1 CPP, la détention provisoire et la détention
+pour des motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est
+fortement soupçonné d’avoir commis un crime ou un délit et qu’il y a sérieusement
+lieu de craindre qu’il se soustraie à la procédure pénale ou à la sanction
+prévisible en prenant la fuite (let. a), qu’il compromette la recherche de la vérité
+en exerçant une influence sur des personnes ou en altérant des moyens de preuves (let. b) ou
+encore qu’il compromette sérieusement la sécurité d’autrui par des crimes
+ou des délits graves après avoir déjà commis des infractions du même genre (let.
+c),
+que la détention provisoire et la détention pour des motifs de sûreté ne doivent
+pas durer plus longtemps que la peine privative de liberté prévisible (art. 212 al. 3 CPP);
+attendu que la mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (TF 1B_576/2012 du 19 octobre 2012
+c. 4.1; ATF 137 IV 122 c. 3.2; Schmocker, in Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, nn. 7ss ad art. 221 CPP, pp. 1024 ss),
+qu'en l'espèce, X.________ est mis en cause pour avoir, le 22 octobre 2012, donné un coup de
+poing à E.________, le faisant chuter sur un muret et mettant ainsi sa vie en danger,
+que l'intéressé a été formellement identifié par la victime, un témoin
+et des images de vidéosurveillance,
+que le recourant ne conteste pas avoir donné un coup de poing à E.________,
+que, compte tenu de ce qui précède, la condition préalable à toute détention
+– les forts soupçons de culpabilité – est dès lors réalisée (art.
+221 al. 1 CPP);
+attendu que l'ordonnance entreprise se fonde sur le risque de fuite (art. 221 al. 1 let. a CPP),
+que selon la jurisprudence du Tribunal fédéral, le risque de fuite doit s'analyser en fonction
+d'un ensemble de critères tels que le caractère de l'intéressé, sa moralité,
+ses ressources, ses liens avec l'Etat qui le poursuit ainsi que ses contacts à l'étranger,
+qui font apparaître le risque de fuite non seulement possible, mais également probable (ATF
+138 IV 81 c. 3.1 non publié),
+que la gravité de l’infraction ne peut pas, à elle seule, justifier la prolongation de
+la détention, même si elle permet souvent de présumer un danger de fuite en raison de
+l’importance de la peine dont le prévenu est menacé (ibidem),
+qu'en l'espèce, le recourant, ressortissant bosniaque né en 1992, sans domicile fixe, ne dispose
+d'aucun statut légal en Suisse,
+qu'il fait l'objet d'une décision de renvoi entrée en force et exécutoire depuis le 27
+mars 2011,
+que la peine encourue par le recourant est importante au vu des infractions qui lui sont reprochées
+(lésions corporelles graves, mise en danger de la vie d'autrui, vols et diverses autres infractions
+faisant l'objet d'enquêtes distinctes),
+que, dans ces circonstances, il y a sérieusement lieu de craindre que le recourant ne tente de se
+soustraire aux poursuites engagées contre lui,
+que, par ailleurs, le fait que l'intéressé doive toucher une indemnité pour détention
+injustifiée d'un montant de 23'478 fr. après compensation (P.33/2/13) n'est pas de nature à
+changer cette appréciation,
+que le risque de fuite, bien réel, justifie le maintien du recourant en détention provisoire,
+que, pour le surplus, aucune mesure de substitution n'est propre à écarter le risque de fuite
+(art. 237 al. 3 CPP);
+attendu que les conditions de la mise en détention étant réalisées pour le risque
+de fuite, il n'est pas nécessaire d'examiner si les risques de réitération et de collusion
+justifient également la mise en détention du recourant,
+qu'on peut toutefois relever, au vu des nombreux antécédents de X.________, ce dernier ayant
+déjà été condamné à six reprises, que le risque de réitération
+paraît également avéré;
+attendu que le recourant invoque une violation du principe de la proportionnalité,
+que, selon la jurisprudence, la proportionnalité de la détention doit être examinée
+au regard de l’ensemble des circonstances concrètes du cas d’espèce (ATF 133 I
+168 c. 4.1 et les arrêts cités),
+que le juge peut maintenir la détention préventive aussi longtemps qu’elle n’est
+pas très proche de la durée de la peine privative de liberté à laquelle il faut s’attendre
+concrètement en cas de condamnation (TF 1B_565/2012 du 16 octobre 2012 c. 2 et 3; ATF 133 I 168
+c. 4.1; ATF 132 I 21 c. 4.1),
+que le fait que la peine encourue puisse être assortie du sursis, total ou partiel, n'est pas déterminant
+sous l'angle de la proportionnalité (ATF 133 I 270
+c.
+3.4.2),
+qu'en l'espèce, X.________, prévenu notamment de lésions corporelles graves et de mise
+en danger de la vie d'autrui, est détenu provisoirement depuis le 2 novembre 2012,
+que l'infraction de lésions corporelles graves est passible d'une peine privative de liberté
+de 10 ans au plus (art. 122 al. 1 CP),
+que compte tenu de la gravité des charges qui pèsent contre le recourant et de la durée
+de la détention provisoire subie, le principe de proportionnalité est respecté (TF 1B_411/2011
+du 31 août 2011 c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1);
+attendu, en définitive, que le recours, manifestement mal fondé, doit être rejeté
+sans autres échanges d'écritures (art. 390 al. 2 CPP) et l’ordonnance confirmée,
+que les frais de la procédure de recours, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à
+540
+fr., plus la TVA, par 43 fr. 20, soit un total de 583 fr. 20, sont mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP),
+que le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de X.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Rejette le recours.
+II.
+Confirme l'ordonnance.
+III.
+Fixe à 583 fr. 20 (cinq cent huitante-trois
+francs et vingt centimes), TVA comprise, l'indemnité allouée au défenseur d'office de
+X.________.
+IV.
+Dit que les frais d'arrêt, par 550 fr. (cinq
+cent cinquante francs), ainsi que l'indemnité due au défenseur d'office de X.________, par
+583 fr. 20 (cinq cent huitante-trois francs
+et vingt centimes), sont mis à la charge de ce dernier.
+V.
+Dit que le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique de X.________ se soit améliorée.
+VI.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Bertrand Demierre, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal des mesures de contrainte,
+-
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
