@@ -1,0 +1,340 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 2"
+decided: "2013-01-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3641544"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-090.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-098.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/311.0/art-323.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 2
+
+## Regeste
+
+PLAINTE{LP}, OBSERVATION DU DÉLAI, MINIMUM VITAL, DEVOIR DE COLLABORER | 17 LP, 90 LP, 91 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.01.2013 Plainte / 2013 / 2
+
+PLAINTE{LP}, OBSERVATION DU DÉLAI, MINIMUM VITAL, DEVOIR DE COLLABORER | 17 LP, 90 LP, 91 LP
+
+TRIBUNAL
+CANTONAL
+FA12.042321-122182
+3
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 janvier 2013
+__________________
+Présidence
+de               Mme
+Rouleau
+,
+vice-présidente
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 90 et 91 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+E.________
+,
+à Lausanne, contre la décision rendue le 14 novembre 2012, à la suite de l’audience
+du 8 novembre 2012, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée le 8 octobre 2012 par le recourant
+contre le procès-verbal de saisie établi le 14 septembre 2012 par l'
+OFFICE
+DES POURSUITES DU DISTRICT DE LAUSANNE
+dans le
+cadre de la poursuite n° 5'593'662 exercée par
+A.________
+,
+à Pully.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 28 septembre 2011, A.________ a adressé à l'Office des poursuites du district de Lausanne
+(ci-après : l'office) une réquisition de continuer la poursuite n° 5'593'662 dirigée
+contre E.________.
+Le lendemain, l'office a établi un avis de saisie et a convoqué le poursuivi. Ce dernier n'ayant
+pas répondu à la convocation, l'office lui a adressé une nouvelle convocation, lui demandant
+de se présenter jusqu'au 28 octobre 2011 avec les justifications de ses charges et revenus et indiquant
+ce qui suit :
+"A défaut,
+un mandat d'amener sera réclamé à votre encontre afin d'être mis à disposition
+de l'office soussigné par les soins des organes de police, conformément à l'art. 91 al.
+2 LP.
+En outre, une
+peine d'amende pourra être prononcée contre vous pour contravention aux disposition des art.
+292 et 323 al. 1 du Code pénal suisse".
+Le 7 novembre 2011, constatant que le poursuivi n'avait pas obtempéré, l'office lui a adressé
+une nouvelle assignation, mentionnant les mêmes mises en garde au cas où il ne se présenterait
+pas.
+Sur la base des éléments obtenus de l'employeur du poursuivi, l'office a établi le minimum
+vital de l'intéressé comme suit :
+Base
+mensuelle pour une personne seule
+Fr. 1'200.00
+Loyer
+Fr.    600.00
+Assurance
+maladie
+Fr.    364.00
+Frais
+d'abonnement de bus
+Fr.      66.00
+Il a arrêté la quotité saisissable à 2'420 fr. 95, en tenant compte d'un salaire
+net de 4'650 fr. 95.
+Le 25 janvier 2012, l'office a adressé à l'employeur du poursuivi un avis de saisie, lui ordonnant
+de retenir sur le salaire de son employé 2'300 fr. par mois.
+E.________ s'est présenté à l'office le 12 mars 2012 en déclarant de plus amples
+charges. Il n'a cependant pas fourni de justificatifs dans le délai qui lui a été imparti
+pour ce faire.
+Le 23 avril 2012, l'office a annulé la retenue de salaire dès le 31 mars 2012, le produit de
+la saisie permettant de couvrir la poursuite en capital, intérêts et frais.
+2.
+Par prononcé du 21 mai 2012, le Président du Tribunal d'arrondissement de Lausanne a rejeté
+une plainte de E.________ contre la notification de la réquisition de continuer la poursuite. Cette
+décision a été confirmée par arrêt du 15 août 2012 de la cour de céans.
+Le 4 septembre 2012, le Tribunal fédéral a déclaré irrecevable le recours déposé
+par le plaignant contre cet arrêt.
+3.
+Le 14 septembre 2012, l'office a dressé le
+procès-verbal de saisie, qui a été envoyé en copie aux parties le 18 septembre 2012
+et reçu par E.________ le 26 septembre 2012.
+Le 8 octobre 2012, l'office a distribué le produit de la saisie à A.________ à concurrence
+du montant de la poursuite ainsi que des intérêt et frais et a restitué le solde à
+E.________.
+4.
+Le 8 octobre 2012, E.________ a adressé au
+tribunal d'arrondissement une plainte "pénale" contre l'office dans laquelle il faisait
+valoir que l'office n'avait pas examiné sa situation financière et n'avait pas tenu compte
+de ses charges réelles qui se présenteraient de la manière suivante :
+Assurance
+maladie
+Fr.   379.50
+Abonnement
+de bus              Fr.
+102.00
+Impôt
+Fr.   732.85
+Electricité
++ TV réseau              Fr.
+95.00
+Loyer
+Fr.   600.00
+Téléphone
+Fr.   150.00
+Médicaments
+Fr.
+50.00
+_________
+Total
+Fr. 2'109.35
+E.________ indiquait en outre qu'il n'avait pas pu payer ses impôts en janvier 2012 en raison de
+la saisie opérée sur son salaire et réclamait le remboursement d'un montant de 3'238 fr.
+05. Il a produit notamment les pièces suivantes :
+-
+la copie de deux emballages de médicaments indiquant les prix de 16 fr. 15 et de 94 fr. 80;
+-
+le décompte final des impôts dus pour l'année 2011, daté du 5 juillet 2012;
+-
+trois récépissés postaux attestant le paiement en 2011 et 2012 de primes mensuelles d'assurance-maladie
+d'un montant de 379 fr. 50.
+Le tribunal d'arrondissement a transmis ce courrier au Ministère public, qui a rendu une décision
+de refus d'entrer en matière et a retourné le dossier au tribunal pour qu'il traite la plainte
+comme une plainte LP.
+Par courrier recommandé du 23 octobre 2012, le président du tribunal d'arrondissement a cité
+les parties à une audience fixée au 8 novembre 2012. Le poursuivi n'a pas retiré le pli
+contenant cette convocation.
+A.________ a renoncé à se déterminer sur la plainte.
+Dans ses déterminations du 26 octobre 2012, l'office a conclu au rejet de la plainte dans la mesure
+où elle était recevable.
+Par prononcé du 14 novembre 2012, le Président du Tribunal d'arrondissement de Lausanne, en
+sa qualité d'autorité inférieure de surveillance, a rejeté la plainte et rendu sa
+décision sans frais ni dépens. Il a considéré en substance que la plainte était
+tardive, d'une part, et mal fondée, d'autre part. Il a retenu que le poursuivi ne pouvait se plaindre
+du fait que l'office n'avait pas tenu compte de certaines charges alors qu'il n'avait pas collaboré
+à leur établissement, qu'une partie des charges alléguées n'étaient pas établies
+ou avaient déjà été prises en compte dans le cadre du forfait mensuel de base et
+qu'enfin, les impôts ne faisaient pas partie des dépenses indispensables à l'entretien
+du débiteur.
+5.
+E.________ a recouru par acte du 29 novembre 2012
+contre ce prononcé qui lui a été notifié le 22 novembre 2012 en produisant quelques
+pièces, en particulier :
+-
+une lettre adressée le 21 octobre 2012 au Tribunal fédéral dans laquelle le recourant
+faisait état de son opposition à la décision du 4 septembre 2012 et de son intention de
+s'adresser à la Cour européenne des droits de l'homme;
+-
+une lettre adressée le 27 mai 2008 à A.________, dans laquelle le recourant déclarait
+notamment qu'il n'avait pas les moyens de prendre une assurance-maladie;
+-
+des décomptes de la Caisse publique cantonale d'assurance-chômage d'où il résulte
+qu'une saisie avait été opérée sur des indemnités de chômages versées
+en 1996 au recourant.
+L'office a préavisé pour le rejet du recours et s'est référé à ses déterminations
+de première instance.
+A.________ a renoncé à se déterminer.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les pièces nouvelles produites par le recourant en deuxième instance sont également recevables
+(art. 28 al. 4 LVLP).
+II.
+a)
+En
+vertu de l'art. 17 al. 1 LP, la voie de la plainte est ouverte contre tout acte de poursuite de nature
+à créer ou à modifier une situation de droit de l'exécution forcée (ATF 129
+III 400 c. 1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, nn. 11-12 ad art. 17 LP). Elle l'est notamment contre un procès-verbal
+de saisie (CPF, 29 mars 2012/6; CPF, 18 mai 2012/18; CPF, 26 juin 2012/29).
+b)
+La
+plainte contre une mesure de l'office doit être déposée dans les dix jours suivant celui
+où le plaignant a eu connaissance de la décision attaquée (art. 17 al. 2 LP).
+Le délai de plainte est un délai péremptoire et son observation une condition de recevabilité
+qui doit être vérifiée d'office par l'autorité de surveillance (ATF 102 III 127,
+rés. in JT 1978 II 44; Gilliéron, op. cit., nn. 222-223 ad art. 17 LP). Si le délai n'est
+pas observé, la décision ou mesure en cause entre en force, sous réserve d'une éventuelle
+constatation de nullité, hors délai de plainte, selon l'art. 22 al. 1 LP (Jeandin, Poursuite
+pour dettes et faillite, La plainte, FJS 679, pp. 14-15; TF 7B.233/2004 du 24 décembre 2004 c. 1.1).
+En l'espèce, le recourant a déposé une plainte le 8 octobre 2012 contre le procès-verbal
+de saisie reçu le 26 septembre 2012. La plainte apparaît ainsi tardive, comme l'a relevé
+le premier juge.
+La jurisprudence a toutefois admis, pour des raisons d'humanité et de décence qu'une plainte
+était recevable en tout temps lorsque la mesure attaquée portait atteinte au minimum vital
+du débiteur et de sa famille et les plaçait dans une situation intolérable (ATF 97 III
+7, c. 2, JT 1973 II 22; BlSchk 2009, p. 182; CPF, 10 août 2000/36).
+A l'examen des charges alléguées par le recourant lui-même dans sa plainte, il apparaît
+que les conditions d'une exception à l'art. 17 al. 2 LP ne sont pas réalisées. En effet,
+s'il est avéré que les primes d'assurance-maladie sont légèrement plus élevées
+que celles retenues par l'office (379 fr. 50 au lieu de 364 fr.), les autres dépenses alléguées
+sont soit comprises dans la base mensuelle (électricité + TV réseau, téléphone),
+soit non établies (102 fr. pour l'abonnement de bus et 50 fr. de médicaments, dont on ignore
+s'ils concernent le recourant et dans quelle mesure ils sont remboursés par l'assurance-maladie).
+Quant aux impôts, ils n'entrent pas dans le calcul du minimum vital (ATF 126 III 89, JT 2000 II
+20). Ainsi, quant bien même on retiendrait, outre le montant avéré des primes d'assurance
+maladie, les montants non établis de l'abonnement de bus et des médicaments, on parviendrait
+à un total de charges de 2'331 fr. 50, ce qui laisserait une quotité saisissable de 2'319 fr.
+45. Dans ces conditions, force est de constater que la saisie ne porte pas atteinte au minimum vital
+du recourant.
+La plainte est donc tardive.
+III.
+Au surplus, il apparaît que les griefs articulés par le recourant sont infondés.
+a)
+Le
+recourant fait valoir que "le procès contre l'Office des Poursuites est toujours en cours et
+je compte m'adresser à la Cour européenne des droits de l'homme".
+On peut supposer que le recourant fait ici référence à la précédente plainte,
+la procédure ayant abouti à un arrêt du 4 septembre 2012 du Tribunal fédéral.
+En l'état, si l'on se réfère à la propre argumentation du recourant, ainsi qu'à
+sa lettre du 21 octobre 2012 au Tribunal fédéral, la Cour européenne des droits de l'Homme
+n'a pas été saisie et aucun effet suspensif n'a été établi.
+b)
+Le
+recourant fait valoir qu'il n'a pas donné suite aux convocations de l'office, parce qu'ils étaient
+"en communication par courrier" et que les lettres de l'office avaient un caractère menaçant.
+Selon l'art. 91 LP, le débiteur est tenu, sous menace des peines prévues par la loi, d'assister
+à la saisie ou de s'y faire représenter et d'indiquer tous les biens qui lui appartiennent,
+ainsi que ses créances et autres droits contre des tiers (al. 1). L'office peut le faire amener
+par la police (al. 2) et faire appel à la force publique pour ouvrir les locaux et les meubles (al.
+3). Il peut également prendre des mesures de sûreté (art. 98 ss LP). S'il n'obtempère
+pas, le débiteur s'expose en outre à une condamnation pour inobservation par le débiteur
+des règles de la procédure de poursuite pour dettes ou de faillite (art. 323 CP) ou pour insoumission
+à une décision de l'autorité (art. 292 CP). L'art. 90 LP prévoit par ailleurs que
+le débiteur doit être avisé à l'avance de la saisie et que cet avis doit rappeler
+les dispositions de l'art. 91 LP.
+C'est donc à juste titre que l'office a exigé la présence du recourant et l'a avisé
+de ce qu'il risquait s'il n'obtempérait pas.
+c)
+Le recourant se prévaut des pièces produites en deuxième instance et qui prouveraient
+que l'office n'a jamais respecté son minimum vital.
+Ces pièces ont trait à des saisies opérées en 1996 et sont donc sans pertinence dans
+la présente procédure.
+d)
+Le
+recourant reproche au premier juge d'avoir omis de tenir compte du fait qu'il avait mentionné dans
+sa plainte une dette provoquée par l'office.
+On peut supposer qu'il fait référence aux impôts mentionnés dans sa plainte dont
+il n'aurait pas pu s'acquitter en raison de la saisie.
+La décision entreprise n'a pas omis cet élément. Elle retient à juste titre que les
+impôts ne doivent pas être pris en compte dans la détermination du minimum vital du débiteur
+(cf. supra ch. II let. b).
+e)
+Le
+recourant conteste la validité du procès-verbal de saisie qui ne mentionnerait aucun délai
+de réponse.
+Un procès-verbal de saisie n'a pas à contenir de délai de réponse, mais uniquement
+les indications figurant aux art. 112 ss LP. Un délai de réponse se justifie d'autant moins
+que le débiteur est avisé à l'avance de la saisie à laquelle il a l'obligation de
+collaborer.
+IV.
+Le recourant n'a pas retiré le pli le citant
+à comparaître à l'audience du Président du Tribunal d'arrondissement de Lausanne.
+Cette notification est réputée effectuée valablement, conformément à l'art.
+138 al. 3 CPC (Code de procédure civile du 19 décembre 2008; RS 272), le recourant devant s'attendre
+à recevoir un tel courrier dès lors qu'il avait formé une plainte auprès de cette
+autorité. Le recourant ne se plaint d'ailleurs d'aucune violation de son droit d'être entendu
+dans la procédure de plainte.
+V.
+En définitive, le recours doit être
+rejeté et la décision attaquée confirmée.
+Le présent arrêt est rendu sans frais
+ni dépens (art. 61 al. 2 let. a et 62 al. 2 OELP; ordonnance du 23 septembre 1996 sur les émoluments
+perçus en application de la loi fédérale sur la poursuite pour dettes et la faillite,
+RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+29 janvier 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. E.________,
+‑
+A.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
