@@ -1,0 +1,150 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___90"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 90"
+decided: "2013-01-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3668594"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2013 / 90
+
+## Regeste
+
+DROIT D'OBTENIR UNE DÉCISION, PROCÈS DEVENU SANS OBJET | 393 al. 2 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.01.2013 Décision / 2013 / 90
+
+DROIT D'OBTENIR UNE DÉCISION, PROCÈS DEVENU SANS OBJET | 393 al. 2 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+57
+PE12.002560-LCT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 30 janvier 2013
+__________________
+Présidence
+de               M.
+abrecht
+,
+vice-président
+Juges
+:              M.
+Meylan et Mme Dessaux
+Greffier
+:              M.
+Valentino
+*****
+Art.
+393 al. 2 let. a CPP
+Vu l'
+enquête n° PE12.002560-LCT
+instruite par le Ministère public de l'arrondissement de Lausanne contre
+A.M.________
+pour instigation au vol, subsidiairement instigation à appropriation illégitime sans dessein
+d'enrichissement, séquestration et enlèvement, enlèvement de mineur et violation du devoir
+d'assistance ou d'éducation, d'office et sur plainte de
+C.M.________
+,
+vu les doutes exprimés par le Procureur sur sa compétence
+ratione
+loci
+(P. 12/1, p. 1
+in
+initio
+; P. 28; cf. ég. PV aud. 1, lignes
+26 et 27),
+vu les lettres des 9, 26 juillet et 15 août 2012, par lesquels C.M.________, par son conseil, Me
+Philippe Liechti, a requis du Procureur qu'il "continue à instruire ce dossier",
+vu les demandes réitérées de la plaignante d'obtenir une décision motivée sujette
+à recours, telles que présentées en vain par courriers des 22 août, 3 et 10 septembre,
+5 octobre et 27 novembre 2012 par le conseil de l'intéressée,
+vu le recours pour déni de justice formé par C.M.________, par acte de son conseil du 14 janvier
+2013, tendant à ce que le Procureur en charge du dossier rende une décision sur sa compétence
+ratione loci
+et
+materiae
+,
+vu les pièces produites à l'appui de cette écriture,
+vu la requête désignation d'un conseil d'office contenue dans cette même écriture,
+vu les pièces du dossier;
+attendu
+qu'interjeté auprès de l'autorité compétente pour déni de justice (art. 393
+al. 2 let. a CPP) par la partie plaignante, le recours, qui n'est soumis à aucun délai (art.
+396 al. 2 CPP), est recevable,
+qu'un déni de justice est établi lorsqu'une autorité s'abstient tacitement ou refuse expressément
+de rendre une décision dans un délai convenable (Rémy, in Kuhn/Jeanneret (éd.), Commentaire
+romand, Code de procédure pénale suisse, Bâle 2011, n. 16 ad art. 393 CPP);
+attendu que le Procureur a rendu, en cours de procédure, soit le 25 janvier 2013, une ordonnance
+de classement en faveur d'A.M.________ aux motifs qu'"aucune infraction ne peut [lui] être
+reprochée sur territoire suisse ou vaudois",
+que le prononcé de l'ordonnance de classement rend donc sans objet le recours pour déni de
+justice, l'inactivité reprochée au Ministère public ayant pris fin,
+qu'ainsi, il se justifie de rayer la cause du rôle;
+attendu que dans son recours, C.M.________ a requis de pouvoir bénéficier de l'assistance judiciaire
+gratuite,
+qu'il convient de faire droit à cette requête (art. 136 CPP), dès lors que la prévenue,
+qui est au bénéfice d'un revenu d'insertion (P. 47/2.1), est indigente et que son recours n'était
+pas d'emblée voué à l'échec,
+que, partant, C.M.________ doit être mise au bénéfice d'un conseil juridique gratuit,
+que cela vaut uniquement pour la procédure de recours,
+que l'indemnité d'office allouée à Me Liechti est fixée à 540 fr., plus la TVA,
+par 43 fr. 20, soit 583 fr. 20,
+que les frais du présent arrêt, par 330 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux du 28 septembre 2010, RSV 312.03.1]), ainsi que les frais imputables à l'assistance
+gratuite (art. 422 al. 1 et al. 2 let. a CPP), par 583 fr. 20, seront laissés à la charge de
+l’Etat,
+que s'agissant des dépens réclamés par la recourante, ils suivent le sort de la cause
+au fond (cf. art. 433 CPP; Mizel/Rétornaz, in: Kuhn/Jeanneret (éd.), op. cit., n. 13 ad art. 433
+CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos :
+I.
+Constate que le recours est devenu sans objet.
+II.
+Raye la cause du rôle.
+III.
+Alloue une indemnité de 583 fr. 20 (cinq
+cent huitante-trois francs et vingt centimes) au conseil d'office de C.M.________.
+IV.
+Dit que les frais du présent arrêt,
+par 330 fr. (trois cent trente francs), ainsi que l'indemnité due au conseil d'office de la recourante,
+par 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes), sont laissés à
+la charge de l'Etat.
+V.
+Déclare le présent arrêt exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Philippe Liechti, avocat (pour C.M.________),
+-
+M. Laurent Moreillon, avocat (pour A.M.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
