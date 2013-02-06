@@ -1,0 +1,233 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___95"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 95"
+decided: "2013-02-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3659234"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-397.md", "switzerland/bund/acts/311.0/art-385.md", "switzerland/bund/acts/312.0/art-410.md", "switzerland/bund/acts/312.0/art-411.md", "switzerland/bund/acts/312.0/art-412.md", "switzerland/bund/acts/312.0/art-413.md"]
+---
+
+# VD Findinfo Décision / 2013 / 95
+
+## Regeste
+
+RÉVISION{DÉCISION}, MODIFICATION DES CIRCONSTANCES | 410 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 06.02.2013 Décision / 2013 / 95
+
+RÉVISION{DÉCISION}, MODIFICATION DES CIRCONSTANCES | 410 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+45
+AM12.008905-AMLN
+COUR
+D’APPEL PENALE
+________________________________
+Séance
+du 6 février 2013
+__________________
+Présidence
+de               M.
+Battistolo
+Juges
+:              Mme
+Favrod et M. Winzap
+Greffière
+:              Mme
+Choukroun
+*****
+Parties
+à la présente cause :
+L.________
+,
+prévenu, représenté par Me Lionel Zeiter, avocat de choix à Prilly, requérant,
+et
+Ministère
+public
+, représenté par le Procureur
+de l'arrondissement de Lausanne, intimé.
+La Cour d’appel pénale prend séance à huis clos pour statuer sur la requête
+de révision formée par L.________ contre l'ordonnance pénale rendue le 31 mai 2012 par
+le Ministère public de l'arrondissement de Lausanne.
+Elle considère :
+En fait :
+A.
+Par ordonnance pénale du 31 mai 2012, le Ministère public de l'arrondissement de Lausanne a
+reconnu L.________ coupable d'infractions à la Loi fédérale sur les étrangers et
+l'a condamné à une peine privative de liberté de quarante jours.
+B.
+Par courrier du 29 janvier 2013, L.________ a demandé la révision de cette ordonnance en ce
+sens que la peine prononcée est assortie du sursis. Il a expliqué que peu après sa condamnation,
+soit le 22 juin 2012, son séjour en Suisse a été toléré dans le cadre de sa
+procédure de mariage, qu'il est désormais marié à V.______ et au bénéfice
+d'un permis de séjour valable depuis le
+29
+novembre 2012.
+Le 5 février 2013, L.________ a demandé que sa requête de révision soit assortie
+de l'effet suspensif.
+C.
+Les faits retenus sont les suivants :
+Alors qu'il était sous le coup d'une interdiction d'entrer en Suisse, valable du 2 juin 2010 au
+1
+er
+juin 2012, L.________ a séjourné à Renens, de janvier au 7 mai 2012. Il a travaillé
+sans être au bénéfice d'une autorisation à Lausanne les 4 et 7 mai 2012, jour de
+son interpellation.
+Le casier judiciaire de L.________ fait mention des condamnations suivantes :
+-
+29 avril 2010 : Préfecture du district de l'Ouest lausannois, condamnation pour infraction à
+la Loi fédérale sur les étrangers à une peine de dix jours-amende à 50 fr.,
+avec sursis pendant deux ans et une amende de 500 francs;
+-
+11 février 2012 : Ministère public de l'arrondissement de l'Est vaudois, condamnation pour
+infractions à la Loi fédérale sur les étrangers à une peine de trente jours-amende
+à 50 francs, révocation du sursis accordé le 29 avril 2010.
+En droit
+:
+1.
+Pour être valides en la forme, les demandes
+de révision doivent être motivées et adressées par écrit à la juridiction
+d’appel, les motifs de révision devant être exposés et justifiés dans la demande
+(art. 411 al. 1 CPP; Piquerez, Traité de procédure pénale suisse, 3
+ème
+édition, Schulthess § 2011, n. 2092, p. 679 et Niggli et Wiprächtiger, Basler Kommentar,
+Schweizerische Strafprozessordnung Jungenstrafprozessordnung, Bâle 2011, n. 6 ad art. 411 CPP, p.
+2731).
+La requête déposée le 29 janvier 2013 par L.________ remplit les exigences de forme de
+l'art. 411 CPP.
+2.1
+L'art. 410 al. 1 let. a CPP permet à toute
+personne lésée par un jugement entré en force, une ordonnance pénale, une décision
+judiciaire ultérieure ou une décision rendue dans une procédure indépendante en matière
+de mesures d'en demander la révision s'il existe des faits ou des moyens de preuve qui étaient
+inconnus de l'autorité inférieure et qui sont de nature à motiver l'acquittement ou une
+condamnation sensiblement moins sévère du condamné. Dans cette hypothèse, la demande
+de révision n'est soumise à aucun délai (art. 411 al. 2 CPP).
+L'art. 410 al. 1 let. a CPP reprend la double exigence posée à
+l'art.
+385 CP selon laquelle les faits ou moyens de preuve invoqués doivent être nouveaux et
+sérieux (cf. FF 2006 1303 ad. art. 417 [actuel art. 410 CPP]). Les faits ou moyens de preuve sont
+nouveaux lorsque le juge n'en a pas eu connaissance au moment où il s'est prononcé, c'est-à-dire
+lorsqu'ils ne lui ont pas été soumis sous quelque forme que ce soit. Ils sont sérieux
+lorsqu'ils sont propres à ébranler les constatations de fait sur lesquelles se fonde la condamnation
+et que l'état de fait ainsi modifié rend possible un jugement sensiblement plus favorable au
+condamné
+(ATF 130 IV 72 c. 1).
+Le fait survenu après le jugement dont la révision est demandée n’est pas considéré
+comme inconnu (Rémy, in Commentaire romand, op., cit., n. 10 ad
+art.
+410 CPP; Message, FF 2006, p. 1303 ; dans le même sens ad ancien droit, De Montmollin, La révision
+pénale selon l'art. 397 CPC et les lois vaudoises, thèse 1981, p. 124).
+2.2
+En l'occurrence, l'ordonnance pénale dont
+le requérant demande la révision a été rendue le 31 mai 2012. Il ressort des pièces
+transmises
+par L.________ qu'il a été
+autorisé à séjourner en Suisse en vue de son mariage
+le
+22 juin 2012 (P. 4) et qu'il a obtenu un permis de séjour valable dès le
+29
+novembre 2012 (P. 5). Ces faits, dont le requérant se prévaut à l'appui de sa demande
+de révision, sont postérieurs au moment auquel l'ordonnance pénale est devenue définitive.
+Ils ne peuvent dès lors être invoqués à l'appui d'une demande de révision au
+sens de l'art. 410 CPP. Partant, la requête, manifestement mal fondée, doit être rejetée.
+3.1
+L'art. 412 CPP qui prévoit que la juridiction
+d'appel examine préalablement la demande de révision en procédure écrite (al. 1).
+Elle n'entre pas en matière si la demande est manifestement irrecevable ou non motivée ou si
+une demande de révision invoquant les mêmes motifs a déjà été rejetée
+par le passé (al. 2). Si la juridiction d'appel entre en matière sur la demande, elle invite
+les autres parties et l'autorité inférieure à se prononcer par écrit (al. 3). Elle
+détermine les compléments de preuves à administrer et les compléments à apporter
+au dossier et arrête des mesures provisoires, pour autant que cette décision n'incombe pas
+à la direction de la procédure en vertu de l'art. 388 (al. 4).
+Selon le message du Conseil fédéral, la révision ne permet d’examiner un jugement
+que si certaines conditions formelles et matérielles sont réunies et la procédure de l’examen
+préalable sert avant tout à constater si les motifs invoqués à l’appui de la
+demande de révision sont vraisemblables (cf. Message relatif à l'unification du droit de la
+procédure pénale du 21 décembre 2005, FF 2006 1305 ad art. 419 [actuel art. 412 CPP]).
+Celle-ci doit contenir – sous peine d’irrecevabilité – des conclusions, indiquer
+les motifs de révision et tous les faits ou moyens de preuve sur lesquels elle se fonde. Uniquement
+lorsque ces conditions sont remplies et s’il existe une des causes de révision limitativement
+énumérées à l’art. 410 al. 1 CPP, la juridiction d’appel est tenue de
+procéder à un examen provisoire de la demande en révision. Le défaut manifeste de
+motivation a pour conséquences la non-entrée en matière de la juridiction d'appel (Rémy,
+in: Commentaire romand, op. cit., n. 2 ad
+art.
+411 CPP et nn. 2 et 4 ad art. 412 CPP). Il n'est, en outre, pas exclu de prononcer une décision
+de non-entrée en matière lorsque les moyens de révision invoqués apparaissent d'emblée
+comme non vraisemblables, l'économie de la procédure le commandant. En effet, si la situation
+est évidente, il n'y a pas de raison que l'autorité requière des déterminations (art.
+412 al. 3 CPP) pour ensuite rejeter la demande
+(art.
+413 al. 1 CPP; CAPE, 18 juillet 2011, n° 92).
+Le Tribunal fédéral a récemment rappelé que la procédure de non-entrée
+en matière de l'art. 412 al. 2 CPP est en principe réservée à des vices de nature
+formelle (Heer, in Basler Kommentar, Schweizerische Strafprozessordung, 2011, n. 7 ad art. 412 CPP).
+Il est toutefois également possible de prononcer une décision de non-entrée en matière
+lorsque les moyens de révision invoqués apparaissent d'emblée comme non vraisemblables
+ou mal fondés. Le Code de procédure pénale suisse ne précise pas si, dans ce cas,
+il convient de consulter préalablement les parties; une prise de position de leur part n'apparaît
+pas nécessaire, mais peut être souhaitable dans les cas douteux (TF 6B_415/2012 du
+14
+décembre 2012, consid. 1.1 et les références citées).
+3.2
+En l’espèce, il n’existe à l’évidence aucun motif valable de révision
+(consid. 2.2 ci-dessus), de sorte que le cas n’est pas douteux. Il n'y a ainsi pas lieu de consulter
+préalablement les autres parties, une prise de position de leur part n'apparaissant pas nécessaire.
+Au vu de ce qui précède, la demande de révision de L.________, manifestement infondée,
+doit être rejetée dans la mesure où elle est recevable.
+Le rejet de la demande de révision rend la requête d'effet suspensif du requérant sans
+objet.
+4.
+Au vu de l'issue de la cause, les frais de révision, par 550 fr. (art. 21 TFJP [Tarif des frais
+judiciaires pénaux, RSV 312.03.1], par renvoi de l'art. 22 de cette loi), doivent être mis
+à la charge de L.________.
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+en
+application des art. 410 al. 1, 412 al. 1 et 2, 428 al. 1 CPP,
+statuant
+à huis clos
+,
+prononce
+:
+I.
+La requête de révision est rejetée dans la mesure où elle est recevable.
+II.
+La requête d’effet suspensif est sans objet.
+III.
+Les frais de la procédure de révision,
+par 550 fr. (cinq cent cinquante francs), sont mis à la charge de L.________.
+IV.
+La présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Lionel Zeiter, avocat (pour L.________),
+-
+Ministère public central,
+et communiquée à :
+‑
+Mme la Procureure de l'arrondissement de Lausanne,
+-
+Office d'exécution des peines,
+par l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
