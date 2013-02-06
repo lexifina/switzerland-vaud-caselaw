@@ -1,0 +1,377 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 3"
+decided: "2013-02-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3656444"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-137.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-116.md", "switzerland/bund/acts/281.1/art-121.md", "switzerland/bund/acts/281.1/art-123.md", "switzerland/bund/acts/281.1/art-140.md", "switzerland/bund/acts/281.1/art-154.md", "switzerland/bund/acts/281.1/art-156.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-029.md", "switzerland/bund/acts/281.42/art-099.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 3
+
+## Regeste
+
+NOTIFICATION DE LA DÉCISION, NOTIFICATION IRRÉGULIÈRE, REPRÉSENTATION PAR UN AVOCAT, PRINCIPE DE LA BONNE FOI, POURSUITE EN RÉALISATION DE GAGE, PROCÉDURE D'ESTIMATION | 17 LP, 29 ORFI, 9 ORFI, 99 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 06.02.2013 Plainte / 2013 / 3
+
+NOTIFICATION DE LA DÉCISION, NOTIFICATION IRRÉGULIÈRE, REPRÉSENTATION PAR UN AVOCAT, PRINCIPE DE LA BONNE FOI, POURSUITE EN RÉALISATION DE GAGE, PROCÉDURE D'ESTIMATION | 17 LP, 29 ORFI, 9 ORFI, 99 ORFI
+
+TRIBUNAL
+CANTONAL
+FA12.025911-122268
+4
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 février 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et Rouleau
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17 LP et 27 al. 2 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.K.________
+,
+à Pully, contre la décision rendue le 21 novembre 2012, à la suite de l’audience
+du 4 octobre 2012, par le Président du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte du recourant contre les avis de publication de vente
+aux enchères d'immeubles sis à Forel et à Puidoux, adressés au recourant le 18 juin
+2012 par l'
+OFFICE DES POURSUITES
+DU DISTRICT DE LAVAUX-ORON
+dans le cadre de
+poursuites exercées par la
+R.________
+et par
+P.________
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+B.K.________ était propriétaire des parcelles RF [...] de la Commune de Forel et RF [...] de
+la Commune de Puidoux. Le 16 août 2001, la R.________ a requis la vente de ces immeubles dans le
+cadre de la poursuite n° 700'804 de l'Office des poursuites du district de Lavaux-Oron.
+B.K.________ est décédé le 13 mai 2002 laissant pour héritiers sa veuve I.K.________
+et son fils A.K.________.
+Le 18 novembre 2002, un autre créancier, P.________, a requis la vente des immeubles précités
+dans le cadre d'une poursuite n° 185'155. L'avis de réception de la réquisition de vente
+a été adressé le 21 novembre 2002 à la succession de B.K.________. Un avis de vente
+aux enchères, dans le cadre de cette même poursuite, a été adressé à la
+succession le 3 août 2006; il mentionne que le gage est estimé à 275'000 fr. "selon
+rapport d'expert et procédures antérieures". Le 10 août 2006, les héritiers
+de B.K.________ ont déposé une plainte LP contre l’avis du 3 août 2006 et contre
+le refus de l'Office des poursuites de Lavaux de procéder à une nouvelle estimation du gage.
+I.K.________ est décédée le 9 janvier 2008, laissant pour seul héritier son fils
+A.K.________, qui a accepté la succession de sa mère sous bénéfice d’inventaire.
+La procédure d’exécution a été suspendue à la suite de ce décès,
+jusqu’à l’acceptation de la succession.
+Par décision de l’autorité inférieure de surveillance du 15 septembre 2011, l’avis
+de vente adressé le 3 août 2006 à la succession de B.K.________ a été annulé,
+l’office étant invité à procéder à une nouvelle estimation des parcelles
+[...] et [...]. Cette décision retient que les changements intervenus sur la parcelle [...] (morcellement
+et changement de statut) justifiaient une nouvelle estimation des parcelles en cause.
+Ces parcelles ont ainsi fait l’objet d’un rapport d’estimation établi par T.________
+SA le 2 décembre 2011. L’expert a arrêté à 300'000 fr. la valeur vénale
+des deux parcelles. Il mentionne que les bâtiments sis sur la parcelle [...] (une ancienne ferme,
+soit maison d’habitation et deux dépendances) sont en ruine et voués à la démolition.
+2.
+Le 18 juin 2012, l’Office des poursuites du district de Lavaux-Oron (ci-après l’office)
+a adressé à la "Succession B.K.________ M. A.K.________" deux avis de vente aux enchères
+des immeubles de Forel et de Puidoux dans les poursuites n
+os
+700'804'155 et  900'185'155, exercées respectivement par la R.________ et par P.________, indiquant
+que la publication de la vente serait requise le 22 juin 2012. L'office a également envoyé
+l’avis de publication de la vente aux enchères requise dans le cadre de la poursuite de P.________
+qui indique que le gage est estimé à 300'000 francs.
+A.K.________ a reçu ces avis le 22 juin 2012.
+3.
+Le 2 juillet 2012, le conseil de A.K.________ a déposé plainte contre les avis du 18 juin 2012,
+concluant, préalablement, à la suspension de la publication de la vente et de la vente aux
+enchères des parcelles [...] et [...], et, sur le fond, à l'annulation de la décision
+rendue le 18 juin 2012 par l'office. Il a produit à l'appui de sa plainte notamment les pièces
+suivantes :
+-
+une lettre du 6 mars 2012 dans laquelle la R.________, qui refuse une précédente proposition
+du plaignant, offre à ce dernier de solder sa créance par le versement d'un montant de 150'000
+fr.  à effectuer jusqu'au 30 juin 2012, l'offre étant limitée à cette dernière
+date;
+-
+un écrit du 27 mai 2012, par lequel P.________ propose le règlement de sa créance par
+le versement d'un montant de 450'000 francs;
+-
+un courrier du 23 mars 2012 du Bureau d’ingénieurs civils Q.________ SA, sollicité par
+A.K.________ pour donner un avis sur la possibilité de réhabilitation des bâtiments existants
+de la parcelle 430 sur l'aspect structurel, qui conclut que le bâtiment principal et l’une
+des annexes sont réhabilitables.
+Le 3 juillet 2012, l’autorité inférieure de surveillance a accordé l’effet
+suspensif à la plainte, jusqu’à droit connu sur celle-ci.
+L’office s’est déterminé le 24 septembre 2012 en préavisant pour le rejet
+de la plainte. Il a produit en particulier un courrier adressé au plaignant le 4 octobre 2011, l'invitant
+à se présenter ou à se faire représenter lors de l'expertise fixée au 17 octobre
+2011 ainsi qu'un extrait du registre foncier relatif aux parcelles en cause, qui désigne B.K.________
+comme propriétaire. L'office a précisé à cet égard qu'il prenait acte du fait
+que les actes subséquents devraient mentionner A.K.________ comme seul débiteur et qu'ainsi
+le nouvel avis de vente aux enchères et l'avis de la publication de la vente seraient établis
+au nom de l'héritier à l'issue de la procédure de plainte.
+La créancière R.________ s’est ralliée à la détermination de l’office
+dans une écriture du 3 octobre 2012. Elle a précisé qu'elle n'avait jamais accordé
+de sursis au sens de la LP, que des discussions avaient eu lieu avec le plaignant, mais que les conditions
+posées pour un éventuel retrait de sa réquisition de vente n'avaient jamais été
+remplies par ce dernier.
+Le même jour, le conseil du plaignant s’est encore exprimé sur la détermination
+de l’office et a indiqué que ni lui, ni son client ne seraient présents à l'audience
+de plainte.
+4.
+Par prononcé du 21 novembre 2012, l’autorité inférieure de surveillance a rejeté
+la plainte, dans la mesure de sa recevabilité, laissé libre cours à la vente des immeubles
+et rendu sa décision sans frais ni dépens.
+Le premier juge a considéré que le plaignant n'avait pas établi que ses créanciers
+lui auraient accordé un sursis, les pièces produites ne faisant état que
+d'offres
+de règlement dont il n'était pas établi qu'elles auraient été acceptées.
+Il a relevé que les avis litigieux étaient adressés à la succession de B.K.________,
+conformément aux indications figurant au registre foncier et que cette mention ne rendait pas la
+situation équivoque, de sorte que la notification des avis était régulière. Enfin,
+le premier juge a relevé que la question de l'estimation du gage avait été définitivement
+réglée par jugement.
+A.K.________ a recouru par acte du 10 décembre 2012 contre le prononcé qui lui avait été
+notifié le même jour, concluant à l’admission du recours
+(a),
+subsidiairement, à ce qu’un nouveau délai soit accordé à son avocat pour déposer
+un recours (b), à l’annulation de la décision attaquée (c), à la constatation
+que la R.________ n’est pas sa créancière (d et g), à la mise en œuvre d’une
+nouvelle estimation des immeubles (e) et à la suspension des opérations de vente des parcelles
+RF [...] de Forel et RF [...] de Puidoux jusqu’à la nouvelle estimation des immeubles (f).
+Aucun effet suspensif n’a été accordé d’office au recours.
+Dans son écriture du 21 décembre 2012, l'office s'est référé à sa détermination
+de première instance.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est formellement
+recevable, sous réserve de la conclusion e) (nouvelle estimation des immeubles), dont il sera question
+plus loin (cf. infra ch. III let. d).
+II.
+a)
+Le recourant invoque comme premier moyen le
+fait que l’autorité inférieure de surveillance lui a personnellement notifié la
+décision attaquée, alors même qu’il était assisté d’un avocat. Il
+y voit un moyen de nullité; subsidiairement, il requiert qu’un délai supplémentaire
+soit accordé à son conseil pour recourir.
+Il ressort en effet du dossier de première instance que Me Gilles Davoine a annoncé son mandat
+par lettre du 2 juillet 2012 accompagnant la plainte. Par lettre du 3 octobre 2012, il s’est déterminé
+sur la détermination de l’office et a annoncé que ni son client ni lui-même n’assisteraient
+à l’audience du 4 octobre 2012.
+b)
+Dans la procédure de plainte, le prononcé de l’autorité inférieure de surveillance
+est communiqué par écrit, en entier, au préposé et est notifié à chaque
+partie ou à son mandataire (art. 27 al. 2 LVLP).
+Selon un auteur (Donzallaz, La notification en droit interne suisse, n. 779 et les réf. citées,
+p. 400), les règles sur la notification sont influencées par l’existence d’un représentant
+conventionnel. Elles ne valent en effet qu’en tant que les personnes en cause ne sont pas représentées
+par un avocat. Dans cette hypothèse, les notifications effectuées directement à destination
+des parties seront jugées irrégulières. C’est à l’avocat que les tribunaux
+devront en principe expédier les documents de procédure et les autres communications, même
+si la procuration justifiant de l’existence des pouvoirs n’a pas encore été versée
+en cause.
+Il en va ainsi des assignations et des décisions. Ces dernières doivent être notifiées
+au seul mandataire régulièrement constitué, sauf disposition expresse du droit cantonal
+dans la mesure où celui-ci régit la notification (Poudret et Sandoz-Monod, Commentaire de la
+loi fédérale d’organisation judiciaire, ch. 1,3,4 ad art. 32, cité par Donzallaz,
+op. cit., n. 788, p. 405). L'art. 137 CPC (Code de procédure civile du 19 décembre 2008,
+RS 272) prescrit également la notification des actes au représentant.
+Le principe de la bonne foi intervient toutefois dans l’appréciation du cas. Ainsi, dans la
+mesure où le représenté peut se rendre compte que son mandataire n’a pas reçu
+de notification, il agit contrairement aux règles de la bonne
+foi
+en restant longtemps inactif sans tenter d’éclairer la situation (Donzallaz, op. cit., n.
+789, p. 405 et la réf. citée).
+D’une manière générale, une notification irrégulière ne doit pas entraîner
+de préjudice pour les parties et autres destinataires (Donzallaz, op. cit., n. 1115 et les
+réf. citées). Dans tous les cas, il s’agira de procéder à une pesée des
+intérêts entre la sécurité du droit et le respect de la bonne foi. La règle
+à retenir veut que le défaut de notification n’est susceptible d’entraîner
+des conséquences que dans la mesure où il a causé une erreur préjudiciable à
+son destinataire. A défaut, la question de sa nullité ou de son annulabilité ne devrait
+pas se poser (Donzallaz, op. cit., nn. 1115-1119).
+Dans un arrêt récent, le Tribunal fédéral a rappelé ces principes, précisant
+notamment qu'il y avait lieu d'examiner, d'après les circonstances du cas concret, si la partie
+intéressée avait réellement été induite en erreur par l'irrégularité
+de la notification et avait, de ce fait, subi un préjudice, les règles de la bonne foi imposant
+une limite à l'invocation du vice de forme (TF 9C_296/2011 du 28 février 2012, c. 5.1 et les
+références citées).
+c)
+En l’espèce, à défaut de disposition cantonale contraire, la notification de la
+décision entreprise au plaignant personnellement était irrégulière, dès lors
+que celui-ci était assisté d’un mandataire professionnel. L’annonce faite par l’avocat
+dans son courrier du 3 octobre 2012 que ni lui ni son client ne seraient présents à l’audience
+de plainte ne saurait en effet être assimilée à l’annonce d’une fin de mandat.
+Le plaignant a reçu la décision attaquée le 10 décembre 2012. Le même jour,
+il a mis à la poste un recours motivé et recevable, dans lequel il se plaint notamment de l’absence
+de notification à son conseil. C’est dire qu’à cette date, il était déjà
+conscient du fait que son mandataire n’avait pas reçu la décision. Rien ne l’empêchait
+dès lors de communiquer la décision à son conseil afin que celui-ci rédige un recours
+dans le délai qui venait à échéance le lundi 7 janvier 2013, compte tenu des féries
+(art. 56 et 63 LP : le délai de dix jours qui courait jusqu'au 20 décembre 2012 a été
+prolongé au samedi 5 janvier 2013 et reporté au lundi 7 janvier
+2013).
+Le recourant n’allègue aucune circonstance qui l’aurait empêché d’aviser
+à temps son conseil pour permettre à celui-ci de rédiger un recours dans le délai
+légal. Au demeurant, le conseil pouvait encore compléter l’acte de son client dans le
+délai légal. En invoquant l’irrégularité de la notification le premier jour
+du délai de recours, le recourant n’est pas de bonne foi, de sorte que ce premier moyen doit
+être rejeté.
+III.
+a)
+Le recourant conteste ensuite la validité
+des avis du 18 juin 2012, dans la mesure où ils ont été adressés à la succession
+de B.K.________ en qualité de débitrice, alors que le recourant est seul héritier à
+la suite du décès de sa mère.
+Ce moyen doit également être rejeté. Tout d’abord, il ressort des extraits du registre
+foncier produits par l’office que B.K.________ est toujours inscrit comme propriétaire des
+parcelles. Au surplus, les actes sont parvenus au recourant, à qui ils ont été envoyés
+au nom de la succession, de sorte qu’il n’en est résulté aucun dommage pour lui.
+Enfin, l’inexactitude pourra être corrigée dans les nouveaux avis qui devront être
+établis  à l’issue de la procédure de plainte, quel que soit le sort du recours.
+Dans ses déterminations de première instance, l'office a déjà pris acte de ce changement
+et annoncé que les décisions subséquentes seraient adressées au recourant.
+b)
+Le recourant soutient que la R.________ n'est pas sa créancière. Ce moyen doit aussi être
+rejeté. L’inexistence de la créance est un moyen qui doit être invoqué dans
+la procédure de mainlevée ou dans le cadre de l’action de l’art. 85a LP ou encore
+de l’action générale en constatation de l’inexistence de la créance. Le recourant
+n’établit pas que l’inexistence de la créance ait à ce jour été
+constatée.
+c)
+Le recourant reprend ensuite son argument principal invoqué en première instance, savoir qu’il
+serait au bénéfice de sursis au paiement accordés par les deux créanciers poursuivants.
+Il soutient que les sursis accordés équivalent à un retrait de la réquisition de
+vente.
+La poursuite peut être suspendue sur la base des art. 85 et 85a LP si le débiteur prouve que
+le créancier lui a accordé un sursis. Cette procédure se déroule devant le juge de
+l’exécution forcée selon les règles prévues par le CPC et non pas devant l’autorité
+de surveillance. Ce n’est donc pas cette hypothèse qui est envisagée ici.
+Une fois la réalisation de l’immeuble requise, le créancier peut retirer sa réquisition
+puis la renouveler, pour autant qu’il agisse dans les délais des art. 116 al. 1 LP (cf art.
+121 LP) et 154 LP. Le fait que le poursuivant accorde au poursuivi un sursis après la réquisition
+de vente équivaut à un retrait de la réquisition de vente (Bettschart, Commentaire romand,
+nn. 10 ad art. 116 LP et 29 ad art. 154 LP et les réf. citées). Passé l’avis de
+réception de la réquisition de vente, et sauf retrait de la réquisition de vente, la vente
+des immeubles saisis ne peut être différée qu’aux conditions des art. 123 LP (auquel
+renvoie l’art. 156 al. 1 LP) et 32 al. 1 ORFI (ordonnance du Tribunal fédéral du 23 avril
+1920 sur la réalisation forcée des immeubles, RS 281.42), soit sur demande du débiteur
+qui rend vraisemblable qu’il peut acquitter sa dette par acomptes réguliers et appropriés
+et qui paie l’acompte fixé ainsi que les frais occasionnés par les préparatifs et
+le renvoi de la vente. La mention de cette possibilité figure dans les avis de réception de
+la réquisition de vente et dans les avis de vente aux enchères.
+En l’espèce, comme l’a relevé l’autorité inférieure, si les courriers
+des 6 mars et 27 mai 2012 contiennent effectivement des offres de remboursement faites au recourant -
+que celui-ci n’établit pas avoir acceptées -, ils ne permettent en aucun cas de conclure
+à l’existence de sursis au paiement, qui auraient été accordés par les créanciers.
+La R.________ a d'ailleurs formellement contesté, dans ses déterminations de première
+instance, avoir accordé un sursis au recourant ou qu'un accord soit intervenu en vue d'un éventuel
+retrait de sa réquisition de vente. Le recourant n’établit dès lors pas que les
+créanciers auraient retiré les réquisitions de vente, de sorte que ces derniers n’avaient
+pas à les renouveler et que l’office n’avait pas non plus à aviser à nouveau
+le recourant des réquisitions de vente et de la possibilité offerte par l’art. 123 LP.
+Enfin, le recourant ne prétend pas avoir requis un sursis en se conformant aux dispositions des
+art. 123 LP et 32 ORFI.
+Cela étant, le moyen pris d’un sursis au paiement doit être rejeté.
+d)
+Le recourant s’en prend encore à l’estimation des gages, faisant valoir que le second
+rapport d’estimation est erroné, contesté et obsolète. Il se prévaut du rapport
+d’ingénieur du 23 mars 2012, qui tient pour possible une réhabilitation de certains bâtiments.
+En vertu de l’art. 99 al. 1 ORFI, après avoir communiqué la réquisition de vente
+au débiteur, l’office ordonne l’estimation de l’immeuble. Celle-ci est insérée
+dans la publication de vente conformément à l’art. 29 al. 2 ORFI (art. 99 al. 2 ORFI).
+En l’espèce, une estimation des immeubles a eu lieu il y a plusieurs années et une nouvelle
+estimation a déjà été ordonnée le 15 septembre 2011, ce qui a donné lieu
+à une expertise du 2 décembre 2011, qui a estimé la valeur des immeubles à 300'000
+francs. Cette estimation a été reprise par l’office dans l’avis de publication
+de la vente du 18 juin 2012 (Form. ORFI 7a).  Il s’agit bien d’une nouvelle estimation
+au sens de l’art. 9 al. 1 ORFI (cf ATF 122 III 338, JT 1998 II 171 c. 3 par analogie), ordonnée
+en raison des changements intervenus sur l'une des parcelles, de sorte que le recourant avait le droit
+de la remettre en cause et d’exiger une nouvelle estimation aux conditions de l’art. 9 al.
+2 ORFI, soit en s’adressant à l’autorité de surveillance dans le délai de
+plainte et moyennant avance des frais de la nouvelle estimation.
+En revanche, une estimation éventuellement erronée de la valeur des immeubles n’est pas
+de nature à affecter la validité ou la régularité des avis de vente aux enchères
+et à entraîner leur annulation ou la suspension des opérations de vente.
+En l’espèce, il ressort expressément de la plainte déposée par le conseil du
+recourant le 2 juillet 2012 que ce dernier a renoncé à faire valoir ses droits relatifs à
+l’estimation des immeubles au stade de la présente procédure de plainte, de sorte qu’il
+ne peut plus les faire valoir au stade du recours, n’ayant pas requis la nouvelle estimation dans
+le délai de plainte. La conclusion e)
+de l’acte de recours du 10 décembre
+2012 est en effet nouvelle et n’est dès lors pas recevable.
+Le recourant n’est au demeurant pas forclos à réclamer une nouvelle estimation du gage,
+puisque l’office devra à nouveau estimer le gage au stade des opérations préliminaires
+à la vente aux enchères (art. 140 al. 3 LP et 156 al. 1 LP : art. 44 et 102 ORFI ;
+ATF 122 III 338, JT 1998 II 171 précité).
+IV.
+Le recours doit en conséquence être rejeté et le prononcé entrepris confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+6 février 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Gilles Davoine, avocat (pour A.K.________),
+‑
+Me Jean-Luc Tschumy, avocat (pour la R.________),
+-
+M. P.________,
+-
+Mme la Préposée à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
