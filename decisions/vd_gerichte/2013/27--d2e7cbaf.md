@@ -1,0 +1,113 @@
+---
+decision_id: "vd_gerichte_47161c2d-b50c-4c5a-94ae-658785402041"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCUR"
+docket: "27"
+decided: "2013-02-15"
+published: "2013-03-07"
+language: "fr"
+legal_area: "Curatelle de portée générale"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/47161c2d-b50c-4c5a-94ae-658785402041"
+cites_decisions: ["4A_659/2011"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-416.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450b.md"]
+---
+
+# Curatelle de portée générale
+
+## Text
+
+TRIBUNAL CANTONAL
+II12.012623-130197
+27
+CHAMBRE DE S CURATELLE S
+___________________________________
+Arrêt du
+__________________
+Présidence de M GIROUD, président
+Juges : M Abrecht et Mme Charif Feller
+Greffier : Mme Rodondi
+*****
+Art. 416 al. 1 ch. 9 et 450 CC
+Vu l'ordonnance de mesures préprovisionnelles du 28 mars
+2012 par laquelle le Juge de paix du district de la Broye-Vully a institué
+une tutelle provisoire en faveur de K.________,
+vu la décision du 25 avril 2012 par laquelle la Justice de paix
+du district de la Broye-Vully a confirmé la mesure de tutelle provisoire
+instituée en faveur de K.________ et désigné Me Virgine Rodigari, avocate à
+Lausanne, en qualité de tutrice provisoire,
+vu la décision du 8 janvier 2013, adressée pour notification le
+jour même, par laquelle le Juge de paix du district de la Broye-Vully a
+257
+
+- 2 -
+consenti à ce que Virginie Rodigari plaide et transige dans le cadre de la
+procédure CC12.046150 intentée par Q.________ à l'encontre de K.________
+(I) et a dit que le frais de justice sont laissés à la charge de l'Etat (II),
+vu le recours interjeté le 17 janvier 2013 par K.________
+apparemment contre cette décision,
+vu les pièces du dossier;
+attendu que la décision apparemment attaquée a été rendue
+le 8 janvier 2013 de sorte que les règles du nouveau droit de protection de
+l'adulte sont applicables en l'espèce (art. 14 al. 1 Tit. fin. CC [Code civil du
+10 décembre 1907; RS 210]),
+que le recours est apparemment dirigé contre une décision du
+juge de paix donnant son consentement à un acte du curateur en
+application de l'art. 416 al. 1 ch. 9 CC,
+que contre une telle décision, le recours de l'art. 450 CC est
+ouvert aux personnes parties à la procédure dans les trente jours dès la
+notification de la décision attaquée (art. 450b al. 1 CC),
+que le recours doit être dûment motivé (art. 450 al. 2 CC; Droit
+de la protection de l'adulte, Guide pratique COPMA, n. 12.38, p. 290),
+que les exigences de motivation ne doivent cependant pas
+être trop élevées (Steck, Basler Kommentar, Erwachsenenschutz, 2012, n.
+42 ad art. 450 CC, p. 642),
+qu'il suffit ainsi que la personne concernée, capable de
+discernement, signe un texte dont ressort l'objet du recours et dont on
+puisse déduire les raisons pour lesquelles elle s'oppose à la décision
+(Guide pratique COPMA, n. 12.38, p. 290),
+
+- 3 -
+que, contrairement aux vices de forme (Steck, op. cit., n. 42 ad
+art. 450 CC; Guide pratique COPMA, n. 12.38, p. 290), le défaut de
+motivation suffisante est irréparable et conduit à l'irrecevabilité (CACI 15
+mai 2012/229; TF 4A_659/2011 du 7 décembre 2011 c. 5),
+qu'en l'espèce, on ne comprend pas quelle décision la pupille
+veut contester ni pourquoi,
+qu'en effet, elle se réfère à la vente de sa maison alors
+qu'aucune décision n'a été prise à ce sujet dans les mois précédant le
+dépôt de son recours,
+qu'elle se plaint également de l'attitude de sa tutrice (appelée
+curatrice dès le 1er janvier 2013),
+que ces griefs sont toutefois sans rapport avec l'objet de la
+décision du 8 janvier 2013,
+que le recours ne satisfait ainsi pas à l'exigence de motivation
+de l'art. 450 al. 2 CC et doit être déclaré irrecevable;
+attendu que le présent arrêt peut être rendu sans frais (art.
+74a al. 4 TFJC [Tarif du 28 septembre 2010 des frais judiciaires civils, RSV
+270.11.5]).
+Par ces motifs,
+la Chambre des curatelles du Tribunal cantonal,
+statuant à huis clos
+p r o n o n c e :
+I. Le recours est irrecevable.
+II. L'arrêt, rendu sans frais, est exécutoire.
+
+- 4 -
+Le président : La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Mme K.________,
+- Me Virginie Rodigari,
+et communiqué à :
+- Juge de paix du district de la Broye-Vully,
+par l'envoi de photocopies. Il prend date de ce jour.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100 al. 1 LTF).
+La greffière :
