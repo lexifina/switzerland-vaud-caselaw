@@ -1,0 +1,612 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2013___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2013 / 6"
+decided: "2013-02-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3714128"
+cites_law: ["switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-183.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2013 / 6
+
+## Regeste
+
+DÉCISION INCIDENTE, NOUVEAU MOYEN DE FAIT | 153 al. 1 CPC, 153 al. 2 CPC, 153 al. 3 CPC, 153 CPC, 154 al. 1 CPC, 154 al. 2 CPC, 154 CPC, 156 al. 2 CPC, 156 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 19.02.2013 Jug-inc / 2013 / 6
+
+DÉCISION INCIDENTE, NOUVEAU MOYEN DE FAIT | 153 al. 1 CPC, 153 al. 2 CPC, 153 al. 3 CPC, 153 CPC, 154 al. 1 CPC, 154 al. 2 CPC, 154 CPC, 156 al. 2 CPC, 156 CPC
+
+TRIBUNAL
+CANTONAL
+CT10.034550
+12/2013/DCA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+G.________
+,
+à Grandson, d'avec
+M.________
+et
+X.________
+,
+toutes deux à Zurich.
+___________________________________________________________________
+Du
+19 février 2013
+_______________
+Présidence
+de               Mme
+Carlsson
+,
+juge instructeur
+Greffière
+:              Mme
+Bourquin
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès intenté par le demandeur
+G.________ à l'encontre de la défenderesse M.________, selon demande du 15 juin 2010,
+vu le procès intenté par le demandeur G.________ à l'encontre de la défenderesse
+X.________, selon demande du 22 octobre 2010,
+vu le jugement incident du 3 décembre 2010, par lequel le juge instructeur a notamment prononcé
+la jonction des deux causes précitées, imparti au demandeur un délai pour déposer
+une demande unique et déclaré que les dates d'ouverture des actions restaient acquises à
+ce dernier,
+vu la demande déposée le 17 janvier 2011 par le demandeur G.________ contre les défenderesses
+M.________ et X.________, dont les conclusions, avec suite de frais et dépens, sont les suivantes
+:
+"I.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+636'210.95
+(six cent trente-six mille deux cent
+dix francs et nonante-cinq centimes), avec intérêt à 5 % l'an dès le 1
+er
+mars 2009.
+II.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+707'000
+(sept cent sept mille) avec intérêt
+à 5 % l'an dès le 1
+er
+juillet 2009.
+III.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+62'728.90
+(soixante-deux mille sept cent vingt-huit
+francs et nonante centimes), avec intérêts à 5 % l'an dès le 1
+er
+mars 2005, représentant 1'322 actions de M.________ au prix de Fr. 47.45 (quarante-sept francs et
+quarante-cinq centimes).
+IV.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+156'816.-
+(cent cinquante-six mille huit cent
+seize francs), avec intérêts à 5 % l'an dès le 1
+er
+mars 2006, correspondant à 2'178 actions de M.________ au prix de Fr. 72.- (septante-deux francs).
+V.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+161'508.-
+(cent soixante et un mille cinq cent
+huit francs), avec intérêts à 5 % l'an dès le 1
+er
+mars 2007, correspondant à 1'878 actions de M.________ au prix de Fr. 86.- (huitante-six francs).
+VI.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+503'904.-
+(cinq cent trois mille neuf cent quatre
+francs), avec intérêts à 5 % l'an dès le 1
+er
+mars 2008, correspondant à 8'688 actions de M.________ au prix de Fr. 58.- (cinquante-huit francs).
+VII.
+M.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+501'545.-
+(cinq cent un mille cinq cent quarante-cinq
+francs), avec intérêts à 5 % l'an dès les 1
+er
+mars
+2009, correspondant à 18'238 actions de M.________ au prix de Fr. 27.50 (vingt-sept francs et cinquante
+centimes).
+VII
+I.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+636'210.95
+(six cent trente-six mille deux cent
+dix francs et nonante-cinq centimes), avec intérêt à 5 % l'an dès le 1
+er
+mars 2009.
+IX.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+707'000
+(sept cent sept mille) avec intérêt
+à 5 % l'an dès le 1
+er
+juillet 2009.
+X.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+62'728.90
+(soixante-deux mille sept cent vingt-huit
+francs et nonante centimes), avec intérêts à 5 % l'an dès le 1
+er
+mars 2005, représentant 1'322 actions de X.________ au prix de Fr. 47.45 (quarante-sept francs et
+quarante-cinq centimes).
+XI.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+156'816.-
+(cent cinquante-six mille huit cent
+seize francs), avec intérêts à 5 % l'an dès le 1
+er
+mars 2006, correspondant à 2'178 actions de X.________ au prix de Fr. 72.- (septante-deux francs).
+XII.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+161'508.-
+(cent soixante et un mille cinq cent
+huit francs), avec intérêts à 5 % l'an dès le 1
+er
+mars 2007, correspondant à 1'878 actions de X.________ au prix de Fr. 86.- (huitante-six francs).
+XIII.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+503'904.-
+(cinq cent trois mille neuf cent quatre
+francs), avec intérêts à 5 % l'an dès le 1
+er
+mars 2008, correspondant à 8'688 actions de X.________ au prix de Fr. 58.- (cinquante-huit francs).
+XIV.
+X.________
+est la débitrice de G.________ et lui doit prompt et immédiat paiement de la somme de
+Fr.
+501'545.-
+(cinq cent un mille cinq cent quarante-cinq
+francs), avec intérêts à 5 % l'an dès les 1
+er
+mars 2009, correspondant à 18'238 actions de X.________ au prix de Fr. 27.50 (vingt-sept francs
+et cinquante centimes).",
+vu la réponse déposée le 6 mai 2011 par les défenderesses, qui concluent, avec suite
+de frais et dépens, au rejet des conclusions prises par le demandeur,
+vu le second échange d'écritures,
+vu l'audience préliminaire du 8 décembre 2011,
+vu l'ordonnance sur preuves du même jour,
+vu l'avis du juge instructeur du 12 juin 2012 impartissant un délai aux parties pour déposer
+un mémoire de droit au sens de l'art. 317a CPC-VD (Code de procédure civile vaudoise du 14 décembre
+1966, dans sa version au 31 décembre 2010, RSV 270.11),
+vu les prolongations du délai susmentionné, accordées sur demande des parties, en dernier
+lieu jusqu'au 20 novembre 2012,
+vu la requête de réforme déposée le 20 novembre 2012 par les défenderesses,
+dont les conclusions, avec suite de frais et dépens, sont les suivantes :
+"I.
+Les défenderesses au fond dans la cause CT10.034550 M.________ et X.________ sont autorisées
+à se réformer à la veille du jour du délai de duplique afin d'introduire les allégués
+suivants :
+«275.-
+Entendu en qualité de témoin le 6 mars 2012, M. [...], Directeur des ressources humaines à
+[...], a déclaré notamment ce qui suit :
+«La banque a annoncé
+une réorganisation en novembre 2008 et a chargé un «chasseur de tête» de trouver
+des candidats pour le poste de directeur général de la division Private Banking de [...]. Nous
+avons reçu des listes de candidats en janvier 2009. Sur la base de cette liste nous avons sélectionné
+quelques candidats. Nous avons débuté les entretiens à mi janvier 2009. J'ai rencontré
+le demandeur en février 2009 pour discuter des modalités de son engagement. Le nom du demandeur
+se trouvait sur la liste communiquée par le chasseur de tête. Lorsque j'ai rencontré le
+demandeur, il restait encore plusieurs candidats en liste. »
+Preuve :              témoin [...]
+(procès-verbal d'audition du 6 mars 2012)
+276.-
+La décision formelle
+de l'engagement du demandeur par [...] a été prise par le Conseil d'administration de cette
+banque en date du 2 mars 2009 et la signature du contrat de travail est intervenue le 3 mars 2009.
+Preuve : pièces 106
+et 153
+277.-
+Le contrat de travail
+signé par G.________ et [...] contient notamment la clause suivante :
+«
+Indemnités
+spéciales
+: en ce qui
+concerne la perte subie pour les plans de participation, une compensation de CHF ___ sera payée
+sur 5 ans; la première fois 3 mois après votre entrée en fonction (CHF ___) et par la
+suite au mois de juin de chaque année jusqu'en 2013 (CHF ___ par an).
+Dans l'éventualité
+d'une perte subie pour le bonus sur l'exercice 2008, une compensation de la moitié de la perte,
+mais au maximum de CHF ___ sera versée à raison de CHF ___ en juin 2014, et CHF ___ en juin
+2015.
+Ces indemnités seront
+versées pour autant que le contrat de travail ne soit pas résilié par vous-même ou
+par la Banque. »
+Preuve : pièce 153
+278.-
+En application du premier
+alinéa de la clause «indemnités spéciales», G.________ a effectivement perçu,
+de [...], en 2009, ainsi qu'en juin 2010, juin 2011 et juin 2012 une compensation pour la perte subie
+pour les plans de participation dont le demandeur bénéficiait auprès de X.________.
+Preuve : par l'aveu, pièce
+155 dont la production est requise
+279.-
+A ce jour, les rapports
+contractuels de travail entre le demandeur G.________ et [...] n'ont pas fait l'objet d'une déclaration
+de résiliation d'une partie ou de l'autre.
+Preuve : par l'aveu, pièce
+156 dont la production est requise
+280.-
+La compensation accordée
+par [...] à G.________ en raison de «l'éventualité d'une perte subie pour le bonus
+sur l'exercice 2008» est de CHF 700'000.- au moins, somme qui devra être versée à
+raison d'un acompte de CHF 350'000.- en juin 2014 et un second acompte, de CHF 350'000.- également
+en juin 2015.
+Preuve : pièce 157
+dont production est requise
+281.-
+Entendu en qualité
+de témoin le 6 mars 2012, M. [...], Chef des ressources humaines du Private Banking Switzerland
+auprès du [...], a déclaré notamment ce qui suit, en relation avec l'allégué
+171 :
+«Les modalités du paiement du salaire variable sont les mêmes dans toutes les branches
+et dans toutes les filiales du groupe. Il ne s'agit toutefois par d'un salaire. Ces conditions générales
+sont applicables à toutes les filiales du groupe, dont X.________. »
+Preuve :
+témoin [...] (procès-verbal d'audition du 6 mars 2012)
+282.-
+Entendu sous l'allégué
+173, ce même témoin a précisé ce qui suit :
+«Le
+«bonus policy region switzerland P00135» est une directive générale pour l'ensemble
+des collaborateurs du groupe en Suisse; le « [...] groupe master share plan» est aussi une
+directive générale pour l'ensemble des collaborateurs au monde; le «cash retention award
+certificate» n'est pas destiné à tous les collaborateurs mais uniquement à ceux qui
+ont droit au CRA (cash retention award) : ce système dépend du montant du award et n'a été
+utilisé qu'une fois pour le private banking en Suisse, à la fin de l'année 2008; le «Performance
+incentive plan certificate (225 et 2006) et les «Incentive share unit award certificates 2007 et
+2008»; sont des documents personnels pour les collaborateurs qui reçoivent cette forme d'award.
+Ces deux derniers documents sont différents l'un de l'autre. L'ensemble de ces documents constitue
+les conditions générales qui se sont appliquées au fil du temps et en fonction des catégories
+d'employés. »
+Preuve :
+témoin [...] (procès-verbal d'audition du 6 mars 2012)
+283.-
+Entendu en qualité
+de témoin à cette même audience du 6 mars 2012, M. [...], Manager des rémunérations
+auprès du [...] a déclaré ce qui suit , en relation, en relation à l'allégué
+194 :
+«Il
+faut rappeler le contexte. En 2008, [...] a fait une perte de 8'000'000'000 francs et n'aurait en principe
+pas du payer de bonus en 2009 pour l'année 2008. Les bonus ont toutefois été payés
+mais réduits au minimum. Pour tous les managing directors, la banque a introduit le CRA afin de
+conserver comme employés malgré les mauvais résultats. Interpellé par Me Favre, je
+confirme que dans le système du CRA la performance passée de l'employé n'était pas
+prise en compte. Le but était de fidéliser l'employé. En introduisant le CRA, [...] a
+anticipé les règles ultérieurement mises en vigueur par la FINMA. Les règles de la
+FINMA sont contraignantes.
+Interpellé par Me
+Rodondi, il est possible en effet que le Private banking du [...] n'ait pas fait de perte en 2008. Je
+confirme que la banque a néanmoins versé des bonus aux cadres, afin de les fidéliser,
+mais avec le système du CRA cela permettait à la banque de comptabiliser les montants sur les
+exercices ultérieures
+[sic]
+.
+»
+Preuve :
+témoin [...] (procès-verbal d'audition du 6 mars 2012)
+284.-
+Le témoin [...] a
+confirmé que le système du Cash Retention award (CRA) a été introduit à la demande
+de la FINMA.
+Preuve :
+témoin [...] (procès-verbal d'audition du 6 mars 2012)",
+vu l'avis du 21 décembre 2012, par lequel
+le juge instructeur a notifié la requête à l'intimé, lui impartissant un délai
+pour faire la déclaration prévue par l'art. 148 CPC-VD ou indiquer les mesures d'instruction
+requises, dit avis valant interpellation au sens de l'art. 149 al. 4 CPC-VD pour toutes les parties,
+vu le courrier du 7 janvier 2013, par lequel l'intimé a déclaré s'opposer à la requête
+de réforme, mais accepter que l'audience incidente soit remplacée par un échange d'écritures,
+vu le courrier du 10 janvier 2013, par lequel les requérantes ont accepté que l'audience incidente
+soit remplacée par un échange d'écritures,
+vu l'avis du 11 janvier 2013 du juge instructeur impartissant un délai au 28 janvier 2013 pour les
+requérantes et au 11 février 2013 pour l'intimé pour déposer un mémoire incident,
+vu le mémoire incident déposé le 28 janvier 2013 par les requérantes,
+vu le mémoire incident déposé le 15 février 2013 par l'intimé, dans le délai
+prolongé à cet effet,
+vu les autres pièces du dossier,
+vu les art. 19, 146 ss, 153 ss, 317a et 317b CPC-VD ainsi que 404 al. 1 CPC (Code de procédure civile
+suisse du 19 décembre 2008, RS 272);
+attendu qu'à teneur de l'art. 404 al. 1 CPC, les procédures pendantes avant l'entrée en
+vigueur du nouveau droit demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance,
+que le procès a été introduit les 15 juin et 22 octobre 2010, soit avant l'entrée
+en vigueur du CPC,
+que la présente cause doit par conséquent être jugée en application du CPC-VD;
+attendu qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un
+délai, corriger ou compléter sa procédure, peut, jusqu'à l'expiration du délai
+fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+qu'en vertu de l'art. 154 al. 1 CPC-VD, la demande de réforme doit indiquer les motifs et l'étendue
+de la réforme demandée,
+qu'en d'autres termes, la partie qui sollicite la réforme doit préciser dans sa requête
+les opérations nouvelles qu'elle se propose de faire dans le délai dont elle demande la restitution
+et les points sur lesquels elle entend corriger ou compléter sa procédure, en particulier les
+faits qu'elle veut alléguer et les preuves qu'elle entend administrer (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+ème
+éd., n. 1 ad art. 154 CPC-VD),
+qu'elle doit en outre exposer les motifs qui feraient apparaître la réforme sollicitée
+comme nécessaire ou utile à la solution du litige (
+ibidem
+),
+qu'en l'espèce, la requête de réforme a été déposée dans le délai
+imparti aux parties pour déposer leurs mémoires de droit,
+qu'elle est motivée et conforme aux exigences des art. 19 et 147 al. 1 CPC-VD, applicables en vertu
+de l'art. 154 al. 2 CPC-VD,
+qu'elle comprend les allégués nouveaux (n° 275 à 284) que les requérantes entendent
+introduire avec les offres de preuves y afférentes,
+qu'elle est dès lors recevable en la forme;
+attendu que la réforme n'est accordée que si la partie requérante y a un intérêt
+réel et pour autant qu'elle ne soit pas présentée dans le dessein de prolonger la procédure
+(art. 153 al. 2 et 3 CPC-VD),
+que l'intérêt réel à la réforme doit être apprécié au regard
+de l'ensemble des circonstances, notamment de la pertinence du fait allégué, de sa vraisemblance,
+de la forme de la preuve offerte et de la durée probable de la procédure consécutive à
+la réforme (JT 2002 III 190; Poudret/Haldy/Tappy, op. cit., n. 4 ad art. 153 CPC-VD),
+que la réforme doit être refusée lorsque les faits qui font l'objet de la requête
+sont dénués de pertinence ou ont déjà été allégués sous une autre
+forme en procédure (JT 2003 III 114 c. 4; Poudret/Haldy/Tappy, loc. cit.),
+que dans le cadre d'une réforme, la pertinence des faits allégués et la nécessité
+des preuves offertes doivent être appréciées plus strictement que dans l'ordonnance sur
+preuves (JT 1988 III 70 c. 4);
+attendu qu'en l'espèce, dans le cadre de la procédure au fond, l'intimé réclame aux
+requérantes divers montants, représentant principalement des bonus et la contrevaleur de la
+participation à des plans d'intéressement,
+qu'il soutient notamment avoir été forcé d'accepter le système du "
+Cash
+Retention Award
+" (ci-après CRA) imposant
+à l'employé, dont le contrat de travail était résilié dans les vingt-quatre
+mois suivant le versement de la part en espèces du bonus, de rembourser celle-ci au
+pro
+rata
+,
+qu'il allègue avoir invalidé son accord au CRA pour dol et crainte fondée,
+que de leur côté, les requérantes prétendent que l'intimé a accepté volontairement
+et en toute connaissance de cause le système du CRA et qu'il avait pleinement conscience qu'en résiliant
+son contrat de travail, il s'exposait à l'obligation de restituer une part de son bonus,
+qu'à cet égard, elles font valoir qu'au moment d'accepter le CRA, l'intimé était
+déjà en négociation avec son futur nouvel employeur, soit [...] (ci après [...]),
+et qu'il a obtenu de ce dernier qu'une clause particulière sur la compensation pour perte de bonus
+figure dans son nouveau contrat,
+que par ailleurs, l'intimé soutient qu'il faisait partie des employés concernés par les
+plans d'intéressement mis en place en 2004 et 2007, savoir le "performance incentive plan"
+(PIP) et le "incentive share units" (ISU),
+qu'il fait valoir ne pas avoir reçu toutes les expectatives sur actions auxquelles il avait droit
+conformément auxdits plans d'intéressement;
+attendu qu'il convient d'examiner individuellement les allégués n° 275 à 284
+que les requérantes souhaitent introduire dans la procédure, leurs objets différant,
+que l'allégué n° 275 reprend intégralement la déclaration du témoin [...]
+en réponse à l'allégué n° 234,
+qu'il concerne les démarches entreprises par [...] pour trouver un directeur général de
+la division Private Banking ainsi que les premiers contacts avec l'intimé,
+que le premier point (démarches de [...]) est sans pertinence pour juger du litige,
+que le second (premiers contacts entre l'intimé et [...]) fait déjà l'objet des allégués
+n° 180 et 234,
+que l'introduction de l'allégué n° 275 ne revêt donc aucun intérêt réel
+pour les requérantes, de sorte que son introduction doit être refusée,
+que l'allégué n° 276 traite de la date de la décision du conseil d'administration
+de [...] d'engager l'intimé et de celle de la signature du contrat de travail de ce dernier,
+que la date de la conclusion du contrat de travail de l'intimé, lequel est mentionné aux allégués
+n° 180 et 182, n'est pas alléguée,
+que les requérantes peuvent dès lors être autorisées à introduire l'allégué
+n° 276, qui doit être prouvé par des pièces déjà au dossier,
+que l'allégué n° 277 retranscrit l'intégralité de la clause contractuelle figurant
+dans la pièce requise n° 153, laquelle n'est pas stipulée comme censée alléguée
+en son entier,
+que cette clause a trait aux indemnités que [...] aurait accepté de verser à l'intimé
+en cas de perte subie sur les plans de participation et sur le bonus relatif à l'année 2008,
+que l'allégué n° 182 fait certes état de cette clause,
+qu'il ne précise toutefois pas les conditions de la compensation et le mode de versement de cette
+dernière,
+qu'il n'est pas exclu que ces éléments revêtent un intérêt dans l'appréciation
+de la volonté de l'intimé d'adhérer au système du CRA,
+que les requérantes doivent par conséquent être autorisées à introduire l'allégué
+n° 277,
+que l'allégué n° 278 concerne la compensation pour la perte subie sur les plans de participation
+que l'intimé aurait effectivement perçue de [...],
+que l'accord conclu par l'intimé et [...] sur ce point se déduit de l'allégué n °
+277,
+que les requérantes entendent prouver l'allégué n° 278 par la pièce requise
+n° 155, soit tout document permettant d'établir que l'intimé a effectivement perçu
+jusqu'en 2012 la compensation prévue au premier alinéa de la clause "indemnités spéciales",
+qu'elles n'établissent pas leur intérêt réel,
+qu'en effet, l'exécution de la clause contractuelle en question, qui lie l'intimé à son
+nouvel employeur, est une
+res
+inter alios
+, qui est sans incidence sur les droits
+éventuels de l'intimé à l'égard des requérantes,
+que l'introduction de l'allégué n° 278 doit dès lors être refusée,
+que l'allégué n° 279 indique que l'intimé est toujours employé de [...],
+que le 3
+ème
+paragraphe de la clause retranscrite sous l'allégué n° 277 prévoit que les indemnités
+seront versées à condition que le contrat de travail entre l'intimé et [...] ne soit pas
+résilié,
+que l'allégué n° 279 présente donc une certaine pertinence, si bien que son introduction
+doit être autorisée,
+que l'allégué n° 280 a trait au montant de l'indemnité que [...] aurait accepté
+d'accorder à l'intimé pour une éventuelle perte subie sur le bonus relatif à l'année
+2008,
+que les requérantes offrent de prouver cet allégué par la pièce requise n° 157,
+savoir le texte complet et non caviardé de la clause "indemnités spéciales"
+figurant dans le contrat de travail signé le 3 mars 2009 entre l'intimé et [...],
+que cette clause a déjà été produite par l'intimé sous la pièce requise
+n° 153,
+que le juge instructeur a pris la décision, en application de l'art. 183 CPC-VD, d'adresser aux
+requérantes une version caviardée de la pièce requise n° 153,
+que les requérantes ne déterminent pas en quoi le fait de connaître les montants qui devraient
+être versés à l'intimé en 2014 et 2015 dans l'éventualité d'une perte sur
+le bonus 2008 aurait une incidence sur les droits prétendus de l'intimé à leur égard,
+qu'en effet, dans la mesure où l'intimé se fonde sur son contrat de travail pour réclamer
+l'intégralité du bonus 2008, l'accord conclu avec son nouvel employeur constitue une
+res
+inter alios
+,
+qu'au demeurant, il résulte clairement de la clause de compensation que cette dernière n'intervient
+que si l'intimé subit une perte sur son bonus 2008 et à concurrence de la moitié de la
+perte,
+qu'ainsi, la connaissance du montant maximum de la compensation et de celui des paiements échelonnés
+est sans incidence sur les prétentions de l'intimé et sur les conclusions libératoires
+des requérantes,
+qu'au vu de ce qui précède, l'introduction de l'allégué n° 280 doit être
+refusée,
+que les allégués n° 281 et 282 reprennent les déclarations du témoin [...] en
+réponse aux allégués n° 171 et 173,
+qu'ils concernent les conditions générales du groupe [...] en matière de salaire variable,
+que ces faits ont déjà été allégués sous une autre forme en procédure
+aux allégués 167 à 173 et 244 ss,
+que, faute d'intérêt réel, l'introduction des allégués n° 281 et 282 doit
+être refusée,
+que l'allégué n° 283 reprend l'intégralité de la déclaration du témoin
+[...] en réponse à l'allégué n° 194,
+qu'il concerne les résultats du [...] pour l'année 2008, le versement aux employés de
+bonus relatifs à dite année et l'introduction du CRA,
+que l'entrée en vigueur du système du CRA ressort déjà des allégués n°
+63 à 69 et 211 à 215,
+que les requérantes peuvent avoir un intérêt à alléguer le contexte conjoncturel
+qui a conduit à l'introduction du CRA,
+qu'elles peuvent ainsi être autorisées à introduire l'allégué n° 283, prouvé
+par un témoignage déjà recueilli,
+qu'il en va de même de l'allégué n° 284, que les requérantes offrent de prouver
+par un autre témoignage au dossier,
+qu'en définitive, les requérantes sont autorisées à se réformer à la veille
+du délai de duplique pour introduire les allégués n° 276, 277, 279, 283 et 284 figurant
+dans leur requête de réforme et requérir la production de la pièce 156 à preuve
+de l'allégué n° 279;
+attendu qu'un délai de trente jours sera imparti aux requérantes pour déposer une écriture
+complémentaire (triplique) contenant les nouveaux allégués n° 276, 277, 279,
+283 et 284, dont la numérotation devra être revue pour être continue, ainsi qu'un bordereau
+de pièce requise à titre de complément d'offres de preuves,
+qu'après le dépôt de la triplique, un délai sera imparti à l'intimé pour
+se déterminer sur les allégués de la triplique et, le cas échéant, introduire
+des allégations et des preuves connexes;
+attendu que tous les actes du procès peuvent être maintenus (art. 155 al. 1 CPC-VD);
+attendu que la partie qui obtient la réforme est chargée des dépens frustraires, à
+moins qu'elle n'établisse n'avoir pu connaître en temps utile le fait qui l'incite à corriger
+sa procédure (art. 156 al. 2 CPC-VD),
+qu'en l'occurrence, c'est la production de la pièce requise n° 153 et les dépositions
+des témoins Haag et Frei qui ont suscité la rédaction des allégués n° 276,
+277, 279, 283 et 284,
+que la pièce requise n° 153, qui est datée du 23 mai 2012, a été produite le
+29 mai 2012,
+que les requérantes ont déposé leur duplique le 16 septembre 2011,
+qu'à ce moment, elles ne pouvaient de toute évidence pas connaître les faits allégués
+sous n° 277 et 279,
+qu'en revanche, les faits relatés par les témoins Haag et Frei devaient leur être connus
+avant la clôture de l'échange des écritures, tout comme le contenu de l'allégué
+n° 276,
+que par conséquent, les requérantes, solidairement entre elles, doivent verser des dépens
+frustraires à l'intimé,
+que le montant des dépens frustraires est arrêté en considération des opérations
+que l'intimé devra refaire ou reconsidérer en raison de la réforme, alors qu'il aurait
+pu en faire l'économie si la procédure avait suivi un cours ordinaire (JT 2002 III 190),
+qu'en l'espèce, la réforme impliquera notamment une entrevue entre l'intimé et son conseil,
+la détermination de l'intimé sur les nouveaux allégués des requérantes et, les
+cas échéant, l'introduction d'allégués connexes,
+qu'il convient d'arrêter à 2'000 fr. le montant des dépens frustraires;
+attendu que les frais de la procédure incidente, arrêtés à 450 fr., sont mis à
+la charge des requérantes, solidairement entre elles, en application des art. 4 al. 1, 5 al. 1,
+170a al. 1 et 174 aTFJC (tarif du 4 décembre 1984 des frais judiciaires en matière civile,
+abrogé par l'entrée en vigueur, le 1
+er
+janvier 2011, du tarif des frais judiciaires civils du 28 septembre 2010 [TFJC, RSV 270.11.5] et
+applicable en vertu de l'art. 99 al. 1 TFJ);
+attendu que le juge statue librement sur l'adjudication des dépens de l'incident soulevés par
+le requête de réforme (art. 156 al. 3 CPC-VD),
+que les dépens sont alloués à la partie qui a obtenu l'adjudication de ses conclusions
+(art. 92 al. 1 CPC-VD),
+que lorsque aucune des parties n'obtient entièrement gain de cause, le juge peut réduire les
+dépens ou les compenser (art. 92 al. 2 CPC-VD),
+qu'en l'espèce, la requête de réforme est admise partiellement,
+qu'il convient donc de compenser les dépens.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 20 novembre 2012 par les requérantes M.________
+et X.________ est admise partiellement.
+II.
+Les requérantes sont autorisées à introduire les faits indiqués sous les allégués
+n° 276, 277, 279, 283 et 284 de la requête précitée ainsi que les offres de preuves
+y relatives.
+III.
+Un délai de trente jours dès la notification du présent jugement est imparti aux requérantes
+pour déposer une écriture complémentaire (triplique) contenant les allégués
+n° 276, 277, 279, 283 et 284, dont la numérotation devra être revue, et les offres de
+preuve y relatives, ainsi qu'un bordereau de pièce requise à titre de complément d'offres
+de preuves.
+IV
+.
+Un délai sera fixé ultérieurement à l'intimé G.________ pour se déterminer
+sur les allégués de la triplique et, le cas échéant, introduire des allégations
+et des preuves connexes.
+V.
+Tous les actes du procès sont maintenus.
+VI.
+Les requérantes, solidairement entre elles, verseront à l'intimé la somme de 2'000 fr.
+(deux mille francs) à titre de dépens frustraires.
+VII.
+Les frais de la procédure incidente, arrêtés à 450 fr. (quatre cent cinquante francs),
+sont mis à la charge des requérantes, solidairement entre elles.
+VIII.
+Les dépens sont compensés.
+IX.
+Toutes autres ou plus amples conclusions sont rejetées.
+Le
+juge instructeur :              La greffière :
+D.
+Carlsson              A. Bourquin
+Du
+Le jugement qui précède, lu et approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l'envoi de photocopies, aux conseils des parties.
+Les parties peuvent recourir au sujet des frais et dépens dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+La greffière :
+A. Bourquin
