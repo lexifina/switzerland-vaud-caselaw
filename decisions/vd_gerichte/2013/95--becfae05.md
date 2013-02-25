@@ -1,0 +1,267 @@
+---
+decision_id: "vd_gerichte_37af1e01-a4c5-4173-b945-eb1ae18251da"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREP"
+docket: "95"
+decided: "2013-02-25"
+published: "2013-03-20"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/37af1e01-a4c5-4173-b945-eb1ae18251da"
+cites_decisions: ["1B_182/2011", "1B_39/2013", "1B_565/2012", "BGE 133 I 168", "BGE 133 I 270", "BGE 135 I 71", "BGE 137 IV 13", "BGE 137 IV 84"]
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Gerichte 95
+
+## Text
+
+TRIBUNAL CANTONAL
+95
+PE11.005571-SPG
+CHAMBRE DE S RECO URS PEN ALE
+__________________________________________
+Séance du 25 février 2013
+__________________
+Présidence de M. ABRECHT, vice-président
+Juges : M. Creux et Mme Dessaux
+Greffière : Mme Molango
+*****
+Art. 221, 222, 227, 237, 393 al. 1 let. c CPP
+Vu l'enquête n° PE11.005571-XCR instruite d'office par le
+Procureur de l'arrondissement de La Côte contre B.________ pour actes
+d'ordre sexuel avec des enfants, contrainte sexuelle et viols qualifiés,
+vu l'appréhension de B.________ le 11 août 2012,
+vu l'ordonnance du 13 août 2012, par laquelle le Tribunal des
+mesures de contrainte a ordonné la détention provisoire de B.________,
+prolongée jusqu'au 10 février 2013 par ordonnance du 7 novembre 2012,
+vu la requête du Procureur de l'arrondissement de La Côte du
+25 janvier 2013 tendant à la prolongation de la détention provisoire pour
+une durée de trois mois,
+vu l'ordonnance du 6 février 2013, par laquelle le Tribunal des
+mesures de contrainte a ordonné la prolongation de la détention provisoire
+de B.________ (I), a fixé la durée maximale de la prolongation à trois mois,
+351
+
+- 2 -
+soit au plus tard jusqu'au 10 mai 2013 (II), et a dit que les frais de cette
+décision par 150 fr. suivaient le sort de la cause (III),
+vu le recours interjeté le 18 février 2013 par B.________ contre
+cette décision,
+vu les pièces du dossier;
+attendu qu'interjeté dans le délai légal (art. 396 al. 1 CPP
+[Code de procédure pénale suisse du 5 octobre 2007, RS 312.0]) contre
+une décision du Tribunal des mesures de contrainte dans un cas prévu par
+le CPP (art. 222 et 393 al. 1 let. c CPP), par le détenu qui a qualité pour
+recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1
+CPP), le recours est recevable;
+attendu qu'en vertu de l'art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être
+ordonnées que lorsque le prévenu est fortement soupçonné d'avoir
+commis un crime ou un délit et qu'il y a sérieusement lieu de craindre qu'il
+se soustraie à la procédure pénale ou à la sanction prévisible en prenant la
+fuite (let. a), qu'il compromette la recherche de la vérité en exerçant une
+influence sur des personnes ou en altérant des moyens de preuves (let. b)
+ou encore qu’il compromette sérieusement la sécurité d’autrui par des
+crimes ou des délits graves après avoir déjà commis des infractions du
+même genre (let. c);
+attendu que la mise en détention provisoire n’est possible que
+s’il existe à l’égard de l’auteur présumé, et préalablement à toute autre
+cause, de graves soupçons de culpabilité d’avoir commis un crime ou un
+délit (TF 1B_182/2011 du 5 mai 2011 c. 3.1; Schmocker, in Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+nn. 7 ss ad art. 221 CPP, pp. 1024 ss),
+qu'en l'espèce, B.________ a été mise en cause pour avoir
+contraint sexuellement et violé de manière qualifiée Y.________, alors âgée
+de douze ans, le 14 avril 2011, dans les sous-sols de son immeuble, pour
+avoir tenté d'attirer des fillettes, dont une âgée de sept ans, le 29 juillet
+2012, dans une cabine de Genève-Plage, afin de commettre des actes
+d'ordre sexuel sur elles, ainsi que pour avoir, à des dates indéterminées,
+abusé sexuellement d' I.________, également mineure,
+
+- 3 -
+que le prévenu a globalement admis les faits reprochés,
+qu'il conteste toutefois avoir pénétré vaginalement Y.________
+et l'avoir menacée avec un couteau (P. 227),
+que compte tenu des éléments au dossier, il existe des
+charges suffisantes, ce qui n'est par ailleurs pas nié par le recourant;
+attendu que B.________ conteste l'existence d'un risque de fuite
+et de réitération,
+que l'ordonnance entreprise se fonde uniquement sur un
+risque de réitération, le risque de fuite retenu par le Procureur dans sa
+demande de prolongation de la détention provisoire du 25 janvier 2013
+n'ayant pas été évoqué par le Tribunal des mesures de contrainte,
+que le Procureur a en effet considéré que B.________ présentait
+un tel risque compte tenu de la planification d'un voyage au Costa Rica au
+mois d'août 2012,
+que le recourant a produit différentes pièces tendant à
+démontrer, d'une part, que son projet de voyage au Costa Rica relevait du
+séjour touristique et non d'une volonté de s'y établir, et d'autre part, que
+le lymphome dont il souffre nécessite des contrôles et des soins réguliers,
+dont le suivi, respectivement sa prise en charge par l'assurance-maladie,
+ne peut pas être garanti à l'étranger (P. 227, annexes 1 et 2),
+que compte tenu de ces éléments, c'est à juste titre que le
+Tribunal des mesures de contrainte n'a pas retenu le risque de fuite;
+attendu qu'il convient d'examiner s'il existe un risque de
+réitération,
+qu'aux termes de l'art. 221 al. 1 let. c CPP, la détention
+provisoire peut être ordonnée lorsqu'il y a sérieusement lieu de craindre
+que le prévenu compromette sérieusement la sécurité d'autrui par des
+crimes ou des délits graves après avoir déjà commis des infractions du
+même genre,
+que le maintien en détention ne peut se justifier pour ce motif
+que si le pronostic est très défavorable et si les délits dont l'autorité
+redoute la réitération sont graves (ATF 137 IV 84 c. 4.5, JT 2011 IV 325;
+ATF 135 I 71 c. 2.3; ATF 133 I 270 c. 2.2 et les arrêts cités, JT 2011 IV 3; TF
+1B_39/2013 du 14 février 2013 c. 2.1),
+
+- 4 -
+que le risque de récidive peut également se fonder sur les
+infractions faisant l'objet de la procédure pénale en cours, si le prévenu
+est fortement soupçonné – avec une probabilité confinant à la certitude –
+de les avoir commises (ATF 137 IV 84 c. 3.2 et les références citées, JT
+2011 IV 325; TF 1B_39/2013 ibidem),
+que, pour établir son pronostic, le juge doit s'attacher à la
+situation personnelle du prévenu, en tenant compte notamment de ses
+antécédents judiciaires, de sa fragilité psychique, de la nature des
+infractions commises, ainsi que du nombre et de la fréquence des
+infractions en cause (Schmocker, op. cit., n. 20 ad art. 221 CPP),
+que la prévention du risque de récidive doit permettre de faire
+prévaloir l'intérêt à la sécurité publique sur la liberté personnelle du
+prévenu (ATF 137 IV 13 c. 4.5),
+qu'en l'espèce, les infractions reprochées au recourant sont
+très graves, répétées et s'inscrivent dans la durée, ses agissements
+s'étant étendus sur plus de six mois,
+qu'en outre, il semblerait que sa problématique pédophile
+remonte à de nombreuses années, sa fille l'ayant mis en cause, dans une
+lettre datée du 12 juillet 1993, pour s'être livré sur elle, alors qu'elle était
+enfant, à des attouchements sexuels,
+que le recourant a admis souffrir de tendances pédophiles et
+bénéficier actuellement d'une prise en charge thérapeutique par le
+Département de psychiatrie du service médical de la prison du Bois-
+Mermet (P. 244/1, ch. 18 et P. 227, annexe 3),
+qu'il a affirmé avoir pris conscience de la gravité de ses actes
+et être horrifié par ses agissements (P. 244/1, ch. 20),
+que cette prise de conscience n'est toutefois pas suffisante en
+l'état pour exclure toute récidive,
+qu'au surplus, le recourant ne produit aucune attestation
+médicale confirmant cette prise de conscience et son impact sur la
+prévention du risque de récidive,
+qu'il convient de rappeler qu'en date du 24 septembre 2012, le
+Ministère public a ordonné la mise en œuvre d'une expertise psychiatrique
+du prévenu visant notamment à déterminer si sa responsabilité pénale
+était diminuée et s'il présentait un risque de réitération,
+
+- 5 -
+qu'un délai au 28 février 2013 a été accordé à l'experte
+psychiatre pour rendre son rapport,
+qu'à ce jour, les conclusions de l'expertise ne sont pas encore
+connues,
+qu'il apparaît néanmoins vraisemblable, à ce stade, que le
+recourant souffre d'un trouble de la sexualité nécessitant une longue prise
+en charge thérapeutique,
+qu'au vu des éléments qui précèdent et en l'état de
+l'instruction, il existe un risque de réitération, non seulement patent, mais
+également important;
+attendu que le recourant fait valoir que des mesures de
+substitution seraient à même de prévenir tout risque de récidive,
+que selon l'art. 237 al. 1 CPP, le tribunal compétent ordonne
+une ou plusieurs mesures moins sévères en lieu et place de la détention
+provisoire ou de la détention pour des motifs de sûreté si ces mesures
+permettent d'atteindre le même but que la détention,
+que les mesures de substitution énumérées de manière non
+exhaustive à l'art. 237 CPP sont un succédané à la détention provisoire,
+poursuivant le même objectif tout en étant moins sévères (Schmocker, op.
+cit., n. 2 ad art. 237 CPP, p. 1099),
+que le tribunal doit les prononcer à la place de la détention
+provisoire ou pour des motifs de sûreté si elles permettent d'empêcher la
+concrétisation du risque (Schmocker, op. cit., n. 2 ad art. 237 CPP, p.
+1099),
+qu'elles sont donc l'émanation directe du principe de la
+proportionnalité, consacré par l'art. 197 al. 1 let. c CPP, en vertu duquel le
+maintien en détention pour les besoins de l'instruction présente l'ultima
+ratio,
+qu'en l'espèce, en raison de la gravité des actes incriminés et
+du bien juridique à protéger, à savoir l'intégrité sexuelle et psychique des
+enfants, il convient de se montrer particulièrement restrictif quant à
+l'examen des mesures de substitution propres à prévenir le risque de
+réitération,
+qu'il est essentiel de connaître les conclusions de l'expertise
+psychiatrique, notamment les mesures à mettre en place dans le but de
+
+- 6 -
+prévenir une récidive, avant ordonner d'éventuelles mesures de
+substitution,
+que, comme indiqué ci-dessus, la seule détermination affichée
+par le prévenu à cet égard n'est pas suffisante,
+que de surcroît, le courrier du 3 octobre 2012 du service de
+médecine et psychiatrie pénitentiaire, qui atteste du suivi thérapeutique
+du recourant, indique que le corps médical n'en est qu'au stade de
+l'évaluation de la problématique délictuelle (P. 227, annexe 3),
+qu'en conséquence, la cour ne peut tirer aucune information
+de ce courrier qui permette de fonder la mise en place d'une mesure de
+substitution,
+que, dans ces conditions, il n'existe en l'état aucun succédané
+adéquat à la détention provisoire;
+attendu que le recourant est en détention depuis le 11 août
+2012,
+que compte tenu de la durée de la peine à laquelle il s'expose
+concrètement en cas de condamnation, la détention demeure
+proportionnée (TF 1B_565/2012 du 16 octobre 2012 c. 2 et 3; ATF 133 I
+168 c. 4.1);
+attendu, en définitive, que le recours, manifestement mal
+fondé, doit être rejeté et l’ordonnance entreprise confirmée,
+que les frais de la procédure de recours, par 660 fr. (art. 20 al.
+1 TFJP [Tarif des frais judiciaires pénaux du 28 septembre 2010, RSV
+312.03.1]), ainsi que les frais imputables à la défense d’office (art. 422 al.
+1 et al. 2 let. a CPP), fixés à
+540 fr., plus la TVA, par 43 fr. 20, soit un total de 583 fr. 20, seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP),
+que le remboursement à l’Etat de l’indemnité allouée au
+défenseur d’office de B.________ ne sera toutefois exigible que pour autant
+que la situation économique de ce dernier se soit améliorée (art. 135 al. 4
+CPP).
+
+- 7 -
+Par ces motifs,
+la Chambre des recours pénale,
+statuant à huis clos :
+I. Rejette le recours.
+II. Confirme l'ordonnance.
+III. Fixe à 583 fr. 20 (cinq cent huitante-trois francs et vingt
+centimes), TVA comprise, l'indemnité allouée au défenseur
+d'office de B.________.
+IV. Dit que les frais d'arrêt, par 660 fr. (six cent soixante francs),
+ainsi que l'indemnité due au défenseur d'office de B.________,
+par 583 fr. 20 (cinq cent huitante-trois francs et vingt
+centimes), sont mis à la charge de ce dernier.
+V. Dit que le remboursement à l'Etat de l'indemnité allouée au
+chiffre III ci-dessus sera exigible pour autant que la situation
+économique de B.________ se soit améliorée.
+VI. Déclare le présent arrêt exécutoire.
+Le vice- président : La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+- M. Julien Rouvinez, avocat (pour B.________),
+- Ministère public central,
+et communiqué à :
+
+- 8 -
+- Mme la Présidente du Tribunal des mesures de contrainte,
+- M. le Procureur de l'arrondissement de La Côte,
+- Mme Coralie Devaud, avocate (pour Y.________),
+- M. Xavier Diserens, avocat (pour I.________),
+- Mme Tirile Tuchschmid Monnier, avocate (pour J.________),
+- M. [...],
+- M. [...],
+- Mme [...],
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+notification de l'expédition complète (art. 100 al. 1 LTF).
+La greffière :
