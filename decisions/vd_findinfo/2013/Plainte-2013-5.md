@@ -1,0 +1,320 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 5"
+decided: "2013-02-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3690901"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 5
+
+## Regeste
+
+SAISIE DE SALAIRE, MINIMUM VITAL, LOYER | 18 al. 1 LP, 93 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.02.2013 Plainte / 2013 / 5
+
+SAISIE DE SALAIRE, MINIMUM VITAL, LOYER | 18 al. 1 LP, 93 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA12.044667-122302
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 février 2013
+___________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par l'
+Etat
+de Vaud
+,
+Département de l'Intérieur,
+Service Juridique et Législatif,
+Secteur
+recouvrement
+, à Lausanne, contre la décision
+rendue le 6 décembre 2012, à la suite de l’audience du 22 novembre 2012, par le Président
+du Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance, admettant
+la plainte déposée le 5 novembre 2012 par
+R.________
+,
+à Epalinges, contre l'avis de saisie établi à son encontre par l'
+Office
+des poursuites du district de Lausanne
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+R.________ fait l'objet d'une saisie de salaire.
+Dans le cadre de cette mesure, l'Office des poursuites du district de Lausanne [ci-après : l'office],
+par lettre du 13 février 2012, l'a avisé que son loyer de 2'620 fr. par mois, charges comprises,
+pour un appartement de quatre pièces et demie et un box pour voiture, était trop élevé
+pour une personne seule vivant avec un enfant, qu'il disposait d'un délai au 1
+er
+octobre 2012, prochain terme du bail, pour trouver un appartement "conforme aux normes locales dont
+[il devait se] contenter", que, dès cette date, l'office ne tiendrait compte que d'un loyer
+moyen pour un appartement de deux pièces et demie dans sa région, soit 1'250 fr. par mois,
+et que si ses recherches n'aboutissaient pas à l'échéance fixée, il devrait prouver
+par pièces que des logements lui avaient été refusés.
+Le débiteur est carrossier dans un garage d'Epalinges où il réalise un revenu net de 4'790
+fr. par mois. Célibataire, il vit seul avec sa fille, née au mois de juin 2008, pour laquelle
+il ne reçoit pas de pension alimentaire. Selon le procès-verbal de saisie dressé le 26
+mars 2012, la saisie de salaire du débiteur a été fixée à 360 fr. par mois à
+compter du 1
+er
+février 2012. Deux créanciers participent à la saisie, savoir un établissement de
+crédit, pour une créance de 26'975 fr. 35, et l'Etat de Vaud, Secteur recouvrement, pour une
+créance de 780 fr. 05. A la suite d'une révision de la situation du débiteur au mois de
+mai 2012, la saisie a été supprimée avec effet au 30 avril 2012.
+b)
+Le 2 octobre 2012, l'office a revu la situation du débiteur conformément à ce qu'il avait
+annoncé dans sa lettre du 13 février 2012. Il a fixé la saisie à 1'000 fr. par mois
+à compter du 1
+er
+octobre 2012, sur la base de la détermination du minimum d'existence ci-après :
+- salaire mensuel
+net
+Fr. 4'783.35
+- base mensuelle
+Fr. 1'350.00
+- supplément
+pour enfant de moins de dix ans
+Fr.    400.00
+- prime d'assurance
+maladie du débiteur
+Fr.
+348.75
+- prime d'assurance
+maladie de l'enfant
+Fr.    110.00
+- frais de
+déplacement
+Fr.    177.25
+- loyer
+Fr.
+1'250.00
+Minimum d'existence
+Fr.
+3'636.00
+Fr.
+3'636.00
+Montant mensuel
+saisissable
+Fr.
+1'147.35
+Par lettre adressée le 22 octobre 2012 à l'office, le débiteur a contesté la décision
+qui précède, faisant valoir qu'il effectuait en vain des recherches d'appartement, des gérances
+lui ayant répondu négativement et d'autres ne lui ayant même pas répondu, en raison
+de sa situation financière obérée.
+Par décision du 24 octobre 2012, l'office a revu sa décision précédente. Considérant
+à la fois que le débiteur n'avait pas clairement prouvé ses recherches d'appartement et
+justifié leur échec, n'ayant établi le refus d'une gérance que pour deux objets,
+et que, vu la hausse des loyers dans la région lausannoise, il fallait compter en moyenne un montant
+de 1'600 fr. par mois pour un appartement de trois pièces, il a retenu ce montant de loyer et arrêté
+le minimum d'existence du débiteur - sur la base d'un salaire mensuel net de 4'790 fr., les autres
+postes du décompte étant les mêmes - à 3'986 fr. et le montant mensuel saisissable
+à 804 francs. Sur cette base, il a fixé la saisie de salaire du débiteur à 800 fr.
+par mois dès le 1
+er
+octobre
+2012.
+c)
+Par acte déposé le 5 novembre 2012,
+R.________ a saisi le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure
+de surveillance, d'une plainte contre l'avis de saisie précité, qu'il avait reçu le 26
+octobre 2012, concluant, avec suite de frais et dépens, à son annulation, subsidiairement à
+sa réforme en ce sens que la saisie de salaire est réduite. Il a requis l'effet suspensif,
+qui a été accordé par décision du 6 novembre 2012. Il a également requis le
+bénéfice de l'assistance judiciaire, qui lui a été accordé par décision
+du 6 novembre 2012, notamment dans la mesure de l'assistance d'un avocat d'office en la personne de Me
+Pierre-Yves Bétrix.
+L'office s'est déterminé dans une écriture du 14 novembre 2012, concluant au rejet de
+la plainte et au maintien du montant de la saisie à 800 fr. par mois.
+2.
+Par décision du 6 décembre 2012, le
+Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance,
+a admis la plainte,  réduit la saisie de salaire à 400 fr. par mois, renvoyé le dossier
+à l'office pour nouvelle décision dans ce sens, rendu sa décision sans frais ni dépens,
+fixé à 810 fr., débours et TVA compris, l'indemnité du conseil d'office du plaignant
+et dit que ce dernier était tenu, dans la mesure de l'art. 123 CPC [Code de procédure civile;
+RS 272], au remboursement de cette indemnité mise à la charge de l'Etat. Il a considéré
+que l'office n'avait à juste titre pas tenu compte du loyer réel du plaignant passé le
+délai accordé à celui-ci pour trouver un logement moins cher, que le plaignant, ayant
+à charge un enfant, devait toutefois disposer d'un appartement suffisamment grand, qu'aux difficultés
+liées à la crise du logement s'ajoutait pour lui le problème de son dossier, sur lequel
+les gérances refusaient d'entrer en matière en raison des poursuites dirigées contre lui,
+qu'on pouvait en revanche admettre qu'il était en mesure de sous-louer une chambre de son appartement
+et que, dans cette mesure, il était admissible de tenir compte d'un loyer de 2'000 fr. par mois,
+la saisie de salaire étant par conséquent réduite à 400 francs.
+3.
+Par acte du 14 décembre 2012, l'Etat de Vaud,
+Secteur recouvrement, a recouru contre la décision de l'autorité inférieure, concluant
+à son annulation et au maintien de la saisie au montant fixé par l'office de 800 fr. par mois
+dès le 1
+er
+octobre 2012.
+L'office s'est déterminé le 8 janvier 2013, préavisant en faveur de l'admission du recours.
+R.________ s'est déterminé le 10 janvier 2013, concluant, avec suite de frais et dépens,
+au rejet du recours, dans la mesure de sa recevabilité, et à la confirmation du prononcé
+attaqué. Il a requis "que l'exécution de la décision du 6 décembre 2012 soit
+suspendue".
+Par décision du 15 janvier 2013, le président de la cour de céans, autorité supérieure
+de surveillance, a refusé l'effet suspensif.
+L'intimé a en outre requis le bénéfice de l'assistance judiciaire. Un formulaire de demande
+lui a été transmis, qu'il a complété et déposé le 29 janvier 2013, accompagné
+de justificatifs.
+En droit :
+I.
+a)
+La qualité pour recourir
+ou déposer plainte selon les art. 17 et ss LP
+[loi
+fédérale sur la poursuite pour dettes et la faillite; RS 281.1]
+est
+subordonnée à l'existence d'une atteinte par la décision ou la mesure attaquée et
+d'un intérêt digne de protection à ce que celle-ci soit annulée ou modifiée
+(CPF, 30 juillet 2010/19 et réf. cit.). Elle est généralement reconnue au poursuivant
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 161 ad art. 17 LP). En l'espèce, le recourant, créancier saisissant, est susceptible
+d'être lésé dans ses intérêts juridiquement protégés par la décision
+arrêtant le montant de la saisie. Il a dès lors qualité pour agir.
+b)
+Le prononcé attaqué n'a pas été adressé pour notification au recourant, qui
+en a toutefois eu connaissance le 13 décembre 2012 par l'intermédiaire de l'office, à
+qui il avait été notifié le 7 décembre 2012. Le recours a été formé
+en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05])
+et comporte des conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte
+qu'il est recevable.
+Les déterminations de l'office et de l'intimé sont également recevables (art. 31 al. 1
+LVLP).
+II.
+a)
+Selon l'art. 93 al. 1 LP, tous les revenus du travail peuvent être saisis, déduction faite
+de ce que le préposé estime indispensable au débiteur et à sa famille.
+En l'espèce, le recours du créancier saisissant ne porte que sur le montant du loyer qui doit
+être pris en considération dans le calcul du minimum vital du débiteur.
+b)
+C'est à juste titre que l'office s'est écarté du montant du loyer réel du débiteur
+pour les motifs qu'il a indiqués dans sa décision du 24 octobre 2012. Ce point, confirmé
+par le prononcé attaqué, n'est d'ailleurs pas contesté. L'autorité inférieure
+de surveillance a toutefois pris en considération les difficultés de l'intimé à se
+reloger, compte tenu d'un marché immobilier tendu et de son dossier défavorable, en raison
+de ses dettes, mais a jugé que, disposant d'un appartement de quatre pièces et demie, il pouvait
+en sous-louer une pour réduire sa charge de loyer, tout en conservant un nombre de pièces suffisant
+pour vivre avec sa fille.
+Le recourant soutient que l'on doit exiger du débiteur qu'il abaisse ses coûts de logement,
+en déménageant, en sous-louant une partie de son appartement ou en réclamant une baisse
+de loyer, et que le montant de 1'600 fr. de loyer retenu par l'office était dès lors adéquat.
+Dans sa détermination sur le recours, l'office confirme qu'un loyer de 2'000 fr. est conforme au
+prix du marché pour un appartement de trois pièces et demie, tout en faisant valoir que l'on
+pourrait exiger de l'intimé qu'il se contente d'un appartement de deux pièces, correspondant
+à un loyer de 1'600 fr. par mois.
+c)
+Vivant avec sa fille de plus de quatre ans (cinq ans au mois de juin 2013), l'intimé forme avec
+elle une famille monoparentale, dont la situation est différente de celle d'un couple, en ce sens
+qu'on doit admettre que tant le père que l'enfant ont le droit de disposer de leur propre chambre
+séparée, en plus d'un séjour commun. On ne saurait donc exiger de l'intimé qu'il
+sous-loue deux pièces de son logement actuel. Quant à rechercher un autre appartement, outre
+les difficultés de cette démarche relevées avec raison par l'autorité inférieure,
+l'intimé peut prétendre dans ce cadre aussi, vu sa situation domestique, à un logement
+de trois pièces. Le montant de loyer de 2'000 francs par mois retenu par l'autorité inférieure,
+conforme aux prix du marché, est ainsi justifié.
+Le recours doit par conséquent être rejeté et le prononcé confirmé.
+III.
+L'intimé a requis le bénéfice de
+l’assistance judiciaire. Les procédure de plainte et de recours contre une décision sur
+la plainte étant gratuites (art. 20a al. 2 ch. 5 LP et 61 al. 2 let. a OELP [ordonnance sur les
+émoluments perçus en application de la LP; RS 281.35]), cette requête n’a dès
+lors d’objet qu’en ce qui concerne la désignation éventuelle et, le cas échéant,
+la rémunération d'un conseil d'office.
+L'intimé remplit les conditions de l’art. 117 CPC, en ce qu'il ne dispose pas de ressources
+suffisantes et que sa cause n’était pas dépourvue de chances de succès. Sa demande
+d'assistance judiciaire peut donc être admise dans la mesure de la désignation d'un conseil
+d'office en la personne de Me Pierre-Yves Bétrix, qui l'a déjà assisté devant l'autorité
+inférieure et qui a rédigé le recours, avec effet au jour de la notification de la décision
+attaquée, soit le 7 décembre 2012.
+Me Bétrix n’a pas déposé de liste détaillée de ses opérations. Le
+temps consacré aux opérations nécessaires pour se déterminer sur le recours peut
+être estimé (art. 3 al. 2 RAJ [règlement sur l'assistance judiciaire en matière civile;
+RSV 211.02.3]) à deux heures, ce qui représente, au tarif horaire de 180 fr. (art. 2 al. 1
+let. a RAJ), plus TVA à 8 %, une indemnité totale de 388 fr. 80, arrondie à 400 fr.
+pour tenir compte de quelques débours.
+L'intimé, bénéficiaire de l'assistance judiciaire, est, dans la mesure de l'art. 123 CPC,
+tenu au remboursement de l'indemnité de son conseil d'office mise à la charge de l'Etat.
+IV.
+Le présent arrêt est rendu sans frais
+ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let. a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Le bénéfice de l'assistance judiciaire
+est accordé à R.________ pour le présent recours, avec effet dès le 7 décembre
+2012, dans la mesure suivante :
+- assistance d'office
+d'un avocat en la personne de Me Pierre-Yves Bétrix, avocat à Lausanne.
+L'indemnité de Me
+Pierre-Yves Bétrix est fixée à 400 fr. (quatre cents francs).
+IV.
+R.________, bénéficiaire de l'assistance judiciaire, est, dans la mesure de l'art. 123 CPC,
+tenu au remboursement de l'indemnité du conseil d'office mise à la charge de l'Etat.
+V.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+28 février 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Etat de Vaud, Service Juridique et Législatif, Secteur recouvrement,
+‑
+Me Pierre-Yves Bétrix, avocat (pour R.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
