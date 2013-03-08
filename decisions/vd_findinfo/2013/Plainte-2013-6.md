@@ -1,0 +1,288 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 6"
+decided: "2013-03-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3707630"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-260.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 6
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, ABUS DE DROIT, CESSION DES DROITS DE LA MASSE | 29 al. 2 Cst., 260 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.03.2013 Plainte / 2013 / 6
+
+DROIT D'ÊTRE ENTENDU, ABUS DE DROIT, CESSION DES DROITS DE LA MASSE | 29 al. 2 Cst., 260 LP
+
+TRIBUNAL
+CANTONAL
+FA12.040655-130086
+9
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 mars 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Rouleau et Byrde
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+29 al. 2 Cst. et 260 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+R.________
+et
+L.________
+,
+à Denens, contre la décision rendue le 27 décembre 2012, à la suite de l’audience
+du 4 décembre 2012, par la Présidente du Tribunal d’arrondissement de La Broye et du
+Nord vaudois, autorité inférieure de surveillance, rejetant la plainte déposée le
+8 octobre 2012 par les recourants contre la décision de l'
+Office
+des faillites de l'arrondissement de La Broye et du Nord vaudois
+,
+administration de la faillite de
+T.________SA
+,
+de céder les droits de la masse à
+T.________
+,
+à Chapelle-sur-Moudon.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+R.________ et L.________ ont fait appel à la société T.________Sàrl pour effectuer
+divers travaux dans le cadre de la construction de leur villa à [...]. Ces travaux ont donné
+lieu à un litige et T.________Sàrl a ouvert action devant la Cour civile du Tribunal cantonal
+contre R.________ et L.________, chaque partie prenant des conclusions actives en paiement.
+La faillite de T.________Sàrl a été prononcée par jugement du 20 avril
+2009. R.________ et L.________ ont produit dans la faillite une créance de 146'619 francs 30. T.________SA
+a produit une créance de 26'075 francs 82, admise à l’état de collocation. L'administration
+de la faillite, soit l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois, a offert
+la cession des droits de la masse en précisant que, si le procès n’était pas continué,
+la créance de 146'619 francs 30 des défendeurs serait considérée comme reconnue.
+T.________SA s’est fait céder les droits de la masse contre R.________ et L.________ et le
+procès en Cour civile s’est poursuivi entre ces parties.
+T.________SA a été à son tour déclarée en faillite par jugement du 10 mai
+2011, confirmé par arrêt de la cour de céans, la faillite prenant effet le 28 septembre
+2011. R.________ et L.________ ont produit une créance de 16'164 francs 40 - correspondant aux avances
+de frais effectuées par eux et aux honoraires de leur conseil dans le procès - qui a été
+portée à l’état de collocation pour mémoire. T.________ a produit une créance
+de 150'884 fr. 25, qui a été admise à l’état de collocation en troisième
+classe.
+Le 6 juillet 2012, l'administration de la faillite de T.________SA, soit l’Office des faillites
+de l'arrondissement de La Broye et du Nord vaudois (ci-après : l'office), a cédé les droits
+de la masse liés au procès civil précité à T.________. La décision précisait
+que, si le procès n’était pas continué, la créance de 16'164 fr. 40 des défendeurs
+serait considérée comme reconnue.
+Par acte du 8 octobre 2012, R.________ et L.________ ont formé une plainte contre la décision
+de cession du 6 juillet 2012, dont leur conseil avait appris l’existence le 28 septembre 2012,
+à l’occasion d’un contact téléphonique avec l’office. Ils ont conclu
+à l’annulation de cette décision, subsidiairement à ce qu’il soit ordonné
+à l’office de l’annuler.
+L’office s'est déterminé le 20 novembre 2012, concluant au rejet de la plainte.
+Dans une écriture du 29 novembre 2012, T.________ a demandé à intervenir dans la procédure
+et a conclu au rejet de la plainte.
+2.
+Après avoir tenu audience le 4 décembre 2012 et admis l’intervention de T.________, la
+Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance, par décision du 27 décembre 2012, notifiée aux parties le 31 décembre
+2012, a rejeté la plainte (I), sans frais ni dépens (II). Elle a considéré que l’office
+avait suivi la procédure prévue en cas de cession des droits de la masse, qu’aucun créancier
+– pas plus les plaignants que les autres – ne s’était opposé à la décision
+de l’administration de ne pas poursuivre le procès elle-même et que les critiques des
+plaignants contre le bien-fondé de la production de T.________ étaient irrecevables, l’état
+de collocation n’ayant pas été contesté. Elle a également considéré
+que l’administration de la faillite ne disposait pas de marge de manœuvre si les conditions
+de la cession étaient réunies et qu’il appartenait au juge saisi du procès civil
+litigieux de déterminer si T.________ commettait un abus de droit.
+3.
+Par acte du 9 janvier 2013, R.________ et L.________
+ont recouru contre cette décision, concluant, avec suite de frais et dépens, principalement
+à son annulation, subsidiairement à sa réforme en ce sens qu’ordre est donné
+à l’office d’annuler la décision de cession des droits de la masse.
+L’office et l’intimé T.________, par une écriture du 23, respectivement du 31 janvier
+2013, ont conclu l'un et l'autre au rejet du recours en se référant à leurs précédentes
+déterminations.
+En droit :
+I.
+Formé en temps utile contre une décision de l'autorité inférieure de surveillance
+(art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1] et 28
+al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]) et comportant des conclusions et l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les déterminations de l'office et de l'intimé sont également recevables (art. 31 al. 1
+LVLP).
+II.
+a)
+Les recourants se plaignent tout d’abord d’une violation de leur droit d’être
+entendus. Ils reprochent à l’autorité inférieure de n’avoir pas motivé
+sa décision d’admettre l'intimé comme intervenant à la procédure de plainte.
+aa)
+Le droit d’être entendu, tel qu’il est garanti par l’art. 29 al. 2 Cst. [Constitution
+fédérale; RS 101], implique notamment l’obligation pour le juge de motiver ses décisions,
+afin que le justiciable puisse comprendre et exercer ses droits de recours à bon escient. Le juge
+doit ainsi mentionner, au moins brièvement, les motifs qui l’ont guidé et sur lesquels
+il a fondé sa décision, de manière à ce que l’intéressé puisse se
+rendre compte de la portée de celle-ci et l’attaquer en connaissance de cause, mais aussi
+à ce que l’autorité de recours puisse contrôler l’application du droit; il
+n’a toutefois pas l’obligation d’exposer et de discuter tous les faits, moyens de preuve
+et griefs invoqués par les parties, mais peut au contraire se limiter à ceux qui, sans arbitraire,
+apparaissent pertinents (ATF 134 I 83 c. 4.1; TF 4A_265/2008 du 26 août 2008 c. 2.1.1). Des motifs
+concis et même partiellement implicites suffisent à exclure le grief de violation du droit
+d'être entendu (RDAF 2009 II p. 434; CPF, 11 juillet 2012/222).
+Selon la jurisprudence, le droit d’être entendu étant une garantie constitutionnelle
+de caractère formel, sa violation entraîne en principe l’annulation de la décision
+sans égard à ses conséquences matérielles, autrement dit sans qu’il importe
+de savoir si le respect du droit d’être entendu conduirait à une modification de la décision
+attaquée (ATF 133 III 235; ATF 121 III 331, JT 1996 I 611; CPF, 9 septembre 2011/27; CPF 12
+novembre 2009/388). Dans d’autres arrêts, il a été jugé que le vice pouvait
+être réparé en deuxième instance lorsque l’autorité de recours disposait
+du même pouvoir de cognition que l’autorité de première instance (Haldy, CPC commenté,
+nn. 19 et 20 ad art. 53 CPC; CPF, 5 novembre 2012/391). La jurisprudence fédérale souligne
+toutefois que la guérison d’une violation du droit d’être entendu devant l’instance
+de recours doit rester l’exception et n’est possible que si la violation porte sur un point
+qui n’est pas décisif (ATF 126 V 130; ATF 124 V 389; CPF, 29 mars 2012/10).
+bb)
+En l’occurrence, il est vrai que la décision d’admettre T.________ comme partie à
+la procédure de plainte n’est pas motivée. Elle ne concerne toutefois pas le fond de
+l’affaire et n’est pas décisive pour le sort de la cause. Au surplus, les motifs de
+cette décision, bien fondée, sont évidents. En effet, la qualité pour défendre
+appartient à toute personne dont les droits et obligations pourraient être touchés par
+la décision à prendre (Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 117 ad art. 17 LP). Dans la procédure de plainte, l’autorité
+de surveillance doit considérer comme "partie adverse" toute personne directement concernée
+par la décision ou mesure attaquée et l’inviter à se déterminer sur la plainte
+ou le recours (ibid., n. 125 ad art. 17 LP).  En l'espèce, T.________ était directement
+concerné par la question de savoir si la cession des droits de la masse qu’il avait obtenue
+était confirmée ou annulée. L’absence de motivation n’empêchait pas les
+recourants de comprendre la position de l’autorité inférieure et de contester sa décision
+en développant leur raisonnement à ce sujet, ce qu’ils n’ont pas fait.
+b)
+Les recourants ne soutiennent pas que la procédure prévue en matière de cession des droits
+de la masse n’aurait pas été respectée par l’office, de sorte qu’il
+n’y a pas lieu de réexaminer la régularité de la procédure, point déjà
+vérifié par l’autorité inférieure de surveillance.
+c)
+Les recourants soutiennent que l'intimé abuserait de l’institution de la cession des droits
+de la masse en faillite prévue par l'art. 260 LP; il ne paierait jamais les charges de ses sociétés,
+constituerait, à chaque faillite, une nouvelle société pour poursuivre ses activités
+et rachèterait le matériel à vil prix en produisant une créance non établie
+dans la faillite. En demandant la cession des droits de la masse, il lèserait les créanciers
+de la faillie, soit eux-mêmes, en permettant "la continuation d’un procès qui aurait
+dû prendre fin depuis longtemps" et en les empêchant de lui "réclamer le dommage
+qu’il leur a causé originellement". Les recourants se prévalent de la jurisprudence
+selon laquelle le fait de requérir la cession d’une créance dans le cadre d’une
+procédure de faillite est susceptible de constituer un abus de droit, si la cession n’est
+requise par certains créanciers que dans le but d’empêcher d’autres créanciers
+de faire valoir leurs prétentions, ou de leur rendre cette tâche plus difficile (ATF 107 III
+91).
+aa)
+Comme l’a relevé l'autorité inférieure, c’est en vain que les recourants remettent
+en question le bien-fondé de la créance de l'intimé dès lors que celle-ci est définitivement
+colloquée. Les plaignants auraient dû ouvrir action en contestation de l’état de
+collocation s’ils estimaient que la créance litigieuse n’existait pas. T.________ étant
+bel et bien créancier de T.________SA en faillite, il était fondé à demander la cession
+des droits de la masse. On peut supposer qu’il en est allé de même dans la faillite précédente,
+lorsque T.________SA a produit dans la faillite de T.________Sàrl puis obtenu cession des droits
+de la masse; à ce stade, cependant, les recourants ne critiquent pas concrètement cette précédente
+cession, si ce n’est pour affirmer que l'intimé aurait érigé cette pratique en système.
+bb)
+Il est parfaitement légitime pour l'intimé de poursuivre la défense des intérêts
+de T.________Sàrl résultant du contrat d’entreprise initial. On voit ainsi que ce qui
+dérange les recourants, c’est d’avoir à soutenir le procès civil jusqu’au
+bout, avec l’incertitude que cela suppose. L'intimé agit en effet désormais comme personne
+physique et répondra dès lors du sort du procès, le cas échéant, sur l’entier
+de son patrimoine.
+cc)
+Enfin, on ne voit pas en quoi la cession des droits lèserait les créanciers. Du point de vue
+de l’administration de la faillite, faire poursuivre un procès par un cessionnaire favorise
+au contraire les intérêts de la masse en cas de gain et ne les lèse pas en cas de perte.
+Les recourants se voient comme des créanciers de la masse mais leur créance est précisément
+litigieuse; il se pourrait qu’ils soient en définitive des débiteurs de la masse, si
+le jugement civil à venir leur donne tort. En l’état, ils cumulent une double position
+hypothétique, de créanciers et de débiteurs. C’est au contraire la renonciation
+à la cession qui lèserait la masse parce que la créance des plaignants serait alors admise
+à l’état de collocation.
+Dans l’arrêt cité par les recourants (ATF 107 III 91 précité), où l’associé
+de la société cessionnaire était la cible de l’action en responsabilité contre
+l’administrateur cédée par la masse – situation différente de celle de la
+présente cause –, le Tribunal fédéral a jugé qu'il n'appartenait ni à
+l'administration de la faillite ni à l'autorité de surveillance d'empêcher l'exécution
+de prétentions fondées sur le droit matériel en refusant la délivrance d'un acte
+de cession, que, certes, la jurisprudence considérait comme inadmissible la cession des droits à
+un cessionnaire lui-même débiteur des droits cédés (ATF 54 III 211 et les références),
+mais qu'on ne saurait simplement assimiler le cas examiné en l'espèce à cette situation,
+que le juge était seul compétent pour trancher la question de l'admissibilité de la cession
+et que l'office des poursuites comme les autorités de surveillance ne pouvaient préjuger de
+cette décision ou la soustraire au juge en refusant de délivrer ou de maintenir l'acte de cession.
+Il a certes relevé qu'il fallait sans doute réserver le cas où la cession ne serait requise
+par certains créanciers que dans le but d'empêcher d'autres créanciers de faire valoir
+leurs prétentions, ou de le leur rendre plus difficile, ce qui constituerait un abus de droit, mais
+n'a pas constaté en l'occurrence l'existence d'un tel abus, au demeurant non invoqué.
+En l'espèce, on ne discerne aucun abus de droit dans l’attitude de l'intimé. Il importe
+peu dès lors de savoir si l’office aurait pu refuser la cession requise pour un tel motif,
+question que les recourants admettent controversée.
+III.
+En conclusion, le recours doit être rejeté et le prononcé de l'autorité inférieure
+confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+8 mars 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Bernard Katz, avocat (pour R.________ et L.________),
+‑
+Me Jean-Emmanuel Rossel, avocat (pour T.________),
+-
+M. le Préposé à l’Office des faillites de l'arrondissement de La Broye et du Nord
+vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
