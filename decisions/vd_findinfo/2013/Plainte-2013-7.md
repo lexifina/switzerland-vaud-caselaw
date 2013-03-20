@@ -1,0 +1,335 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 7"
+decided: "2013-03-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3724525"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-131.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 7
+
+## Regeste
+
+PLAINTE{LP}, AVIS DE SAISIE, SAISIE DE SALAIRE, CRÉANCE | 17 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 20.03.2013 Plainte / 2013 / 7
+
+PLAINTE{LP}, AVIS DE SAISIE, SAISIE DE SALAIRE, CRÉANCE | 17 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+FA12.020315-122066
+12
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 mars 2013
+__________________
+Présidence
+de               M.
+SAUTEREL
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17, 93 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+N.________
+,
+à Crissier, contre la décision rendue le 31 octobre 2012, à la suite de l’audience
+du 20 septembre 2012, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée par le recourant le 25 mai 2012
+contre l'avis de saisie délivré par l'
+OFFICE
+DES POURSUITES DU DISTRICT DE L'OUEST LAUSANNOIS
+dans
+le cadre de la poursuite n° 5'154'636 exercée contre lui à l'instance de
+W.________
+,
+à Saint-Avertin (France).
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+N.________ est associé gérant de la société M.________ Sàrl (ci-après :
+M.________ Sàrl), dont il détient cent huitante parts sur deux cents, et administrateur unique
+de la société A.________ SA.
+Le 1
+er
+novembre 2011, l'Office des poursuites du district de l'Ouest lausannois (ci-après : l'office) a
+dressé un procès-verbal de saisie dans le cadre de la poursuite n° 5'154'636 dirigée
+contre N.________, à la réquisition de la société W.________. Lors de son audition,
+N.________ a déclaré à l'office qu'il travaillait au service de M.________ Sàrl dont
+il était salarié, qu'il ne touchait plus de salaire depuis le 1
+er
+janvier 2011, qu'il était aidé par des amis et son père, que son loyer était payé
+par l’entreprise et qu'il détenait, contre M.________ Sàrl et A.________ SA, des créances
+à hauteur d'environ 600'000 fr., représentant des salaires depuis janvier 2011 et des notes
+de frais, qui devraient lui être payés à la fin de l'année 2011, après le bouclement
+des comptes. Sur la base de ses déclarations, l'office a retenu à l'égard du débiteur
+un revenu mensuel de 160 fr. (correspondant à une rente perçue de l'Etat français), fixé
+son minimum d'existence à 1'600 fr. par mois (1'200 fr. de base mensuelle et 400 fr. de prime d'assurance
+maladie) et considéré qu'il n'y avait pas de biens saisissables.
+Le 30 mars 2012, N.________ a été à nouveau auditionné par l'office, en particulier
+en lien avec les comptes de l'année 2011 de M.________ Sàrl, où figurent notamment un
+montant de 301'326 fr. 10 sous rubrique "charges du personnel" et un montant de 234'081 fr.
+39 à titre de "frais de publicité et de voyages professionnels". Selon le procès-verbal
+dressé par l'office, le débiteur a déclaré que durant l'année 2011, M.________
+Sàrl avait employé quatre collaborateurs, en plus de lui, et un stagiaire durant six mois,
+que lui-même n'avait perçu aucun salaire, que son "salaire théorique" était
+transféré sur le compte courant de la société, et que lors de ses déplacements,
+tous ses frais (déplacement, hébergement et nourriture) étaient payés par les organisateurs
+des événements artistiques concernés. L'office a imparti à N.________ un délai
+au 11 avril 2012, puis un délai supplémen-taire au 4 mai 2012, pour fournir des pièces
+attestant de ses déclarations. L'intéressé n'a produit aucun document.
+Le 14 mai 2012, l'office a adressé à N.________, pour notification, un avis fixant à 8'500
+fr. par mois la saisie sur son salaire, avis comportant en annexe le calcul effectué, ainsi qu'une
+copie de l'avis de saisie de salaire adressé à M.________ Sàrl. Pour déterminer la
+part de salaire saisissable, l'office a retenu les chiffres suivants :
+Revenu net
+par mois :              10'000 fr.
+(salaire versé par M.________ Sàrl)
+160 fr.
+(rente accident payée par l'Etat français)
+Minimum d'existence
+:                1'200 fr.
+(base mensuelle)
+408 fr. 85
+(prime d'assurance maladie)
+Quotité
+saisissable :
+8'551
+fr. 85
+2.
+Le 25 mai 2012, N.________ a déposé plainte auprès du Président du Tribunal d'arrondissement
+de Lausanne contre l'avis de saisie précité, concluant à son annulation en soutenant que
+le montant retenu entamait son minimum vital.
+Le 30 mai 2012, le plaignant a adressé à l'office sa fiche de salaire du mois de mai 2012 faisant
+état d'un salaire mensuel brut de 7'900 fr.,  soit un salaire mensuel net de 5'360 fr. 70,
+après déduction de charges sociales totalisant 2'539 fr. 30, comprenant 1'209 fr. 50 d’impôt
+à la source, salaire net réduit encore à 4'160 fr. 70, après déduction d’une
+retenue de loyer de 1'200 francs. Il a également produit une attestation du 29 mai 2012 de la fiduciaire
+de M.________ Sàrl, [...], indiquant qu'en 2011 (hormis pour mars, avril et mai) et au 1
+er
+semestre de 2012, les salaires de N.________ avaient été comptabilisés dans le compte
+courant de la société. Sur la base des pièces produites, l'office a effectué un nouveau
+calcul et fixé la saisie de salaire, avec effet au 1
+er
+mai 2012, à 2'700 fr. par mois, selon le détail suivant :
+Revenu net
+par mois :                5'360
+fr.              (salaire net versé
+par M.________ Sàrl)
+240 fr.
+(rente accident payée par l'Etat français)
+Minimum d'existence
+:                1'200 fr.
+(base mensuelle)
+1'200 fr.              (loyer)
+409 fr. 40
+(prime d'assurance maladie)
+Quotité
+saisissable :
+2'791
+fr. 30
+Le débiteur a été informé de cette modification par avis du 11 juin 2012. Le même
+jour, l'office a également informé le Président du Tribunal d'arrondissement de Lausanne
+que la décision du 14 mai 2012 avait été revue, en application de l'art. 17 al. 4 LP.
+Le 17 juillet 2012, N.________ a demandé à l'office de revoir à nouveau le montant de
+la saisie, faisant valoir qu’elle entamait son minimum vital dès lors qu'il ne percevait aucun
+salaire.
+Invité à se déterminer dans le cadre de la procédure de plainte, l’office a
+conclu, le 4 septembre 2012, à son rejet, se référant à la fiche de salaire de mai
+2012 et en soulignant que l'extrait de compte de M.________ Sàrl figurant au dossier faisait apparaître
+le versement en faveur du plaignant d'un montant de 28'500 fr. le 30 novembre 2011 et de 33'000 fr. le
+15 mars 2012.
+Par réplique du 1
+er
+octobre 2012, le plaignant a répété ne percevoir aucun salaire, que les débits opérés
+sur le compte de la société étaient affectés au paiement des charges de celle-ci
+et que durant les dix-huit derniers mois, il avait vécu grâce à des prêts de parents
+ou d’amis, totalisant 450'000 fr. environ.
+Par duplique du 12 octobre 2012, l’office a relevé que l’argent emprunté par N.________
+représentait quelque 25'000 fr. par mois. Il a également indiqué que la renonciation à
+la saisie d’une part des salaires comptabilisés porterait préjudice à la créancière
+dans la mesure où, en cas de faillite de M.________ Sàrl, le débiteur ferait valoir sa
+créance de salaire. L'office a ainsi maintenu sa décision de saisie à concurrence de 2'700
+fr. par mois, même dans l'hypothèse où le salaire n’était pas versé mais
+seulement comptabilisé, avec la précision qu’à la péremption de la saisie,
+une sommation de versement serait adressée à l’employeur et, qu’à défaut
+de paiement, une remise à l’encaissement serait effectuée en faveur de la créancière,
+à charge pour elle d’actionner la société ou de requérir sa faillite.
+Par prononcé du 31 octobre 2012, notifié le 1
+er
+novembre 2012 au plaignant, le Président du Tribunal de l’arrondissement de Lausanne a rejeté
+la plainte déposée le 25 mai 2012 par N.________.
+Par acte du 12 novembre 2012, le plaignant a recouru contre ce prononcé, concluant à l’annulation
+de la saisie. Il a requis l’audition, comme témoins, des signataires de l’attestation
+de sa fiduciaire, de son banquier et d’un tiers pour prouver qu'il ne percevait aucun salaire.
+Par décision du 16 novembre 2012, le vice-président de la cour de céans a accordé
+l'effet suspensif requis.
+Par lettre du 27 novembre 2012, l’office s’est référé à ses précédentes
+déterminations.
+Le 16 janvier 2013, la créancière W.________ a conclu, avec dépens, au rejet du recours.
+En droit :
+I.
+L'entrée en vigueur du CPC suisse (Code de procédure civile du
+19
+décembre 2008; RS 272), dont l'art. 1 let. c énonce qu'il  s'applique uniquement aux décisions
+judiciaires en matière de droit de la poursuite pour dettes et la faillite, n'a pas eu de conséquence
+sur la procédure de plainte qui demeure régie par la LVLP (loi d'application dans le canton
+de Vaud de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV
+280.05) (Muster, La nouvelle procédure civile et le droit des poursuites et des faillites, in JT
+2011 II 75, ch. 2.2).
+Le recours a été déposé en temps utile, dans le délai de dix jours de l'art.
+18 al. 1 LP (loi fédérale sur la poursuite pour dettes et la faillite du 11 avril 1889, RS
+281.1),
+arrivé à échéance
+le dimanche 11 novembre et reporté au lundi
+12
+novembre 2012 (31 al. 3 LP; 73 al. 3 LVLP), et comporte
+l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), si bien qu'il est recevable.
+L'audition de témoins requise est dépourvue de pertinence dès lors qu’il ne résulte
+pas des pièces produites au dossier, en particulier de l’attestation de la fiduciaire, donc
+de l’instruction menée par l’office, puis par le Président du tribunal, que les
+salaires du plaignant lui seraient versés. L’administration de ces preuves ne sera donc pas
+ordonnée.
+II.
+a)
+Selon l'art. 17 LP, sauf dans les cas où la loi prescrit la voie judiciaire, il peut être porté
+plainte à l'autorité de surveillance lorsqu'une mesure de l'office est contraire à la
+loi ou ne paraît pas justifiée en fait (al. 1) ; la plainte doit être déposée
+dans les dix jours à compter de celui où le plaignant a eu connaissance de la mesure (al. 2).
+Par mesure au sens de l'art. 17 al. 1 LP, il faut entendre tout acte d'autorité accompli par l'office
+ou par un organe de la poursuite en exécution d'une mission officielle dans une affaire concrète.
+L'acte de poursuite doit être de nature à créer, modifier ou supprimer une situation du
+droit de l'exécution forcée dans l'affaire en question et il peut se manifester de toutes sortes
+de façons (ATF 129 III 400 c. 1.1, JT 2004 II 51; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, nn. 11-12 ad art. 17 LP).
+Acte matériel ayant pour objet la continuation de la procédure d'exécution forcée
+et produisant des effets externes, l'avis de saisie peut faire l'objet d'une plainte (CPF, 11 décembre
+2012/54 ; CPF, 21 juin 2010/14).
+La plainte du 25 mai 2012, dirigée contre l'avis de saisie du 14 mai 2012, a été déposée
+en temps utile, dans le délai de l'art. 17 al. 2 LP.
+A qualité pour déposer plainte toute personne directement intéressée à l'issue
+de la procédure d'exécution forcée au cours de laquelle est intervenue la décision
+ou la mesure attaquée (Gilliéron, op. cit., n. 144 ad art. 17 LP). En l'espèce,
+la
+qualité de plaignant du recourant ne fait aucun doute.
+b)
+Selon l'art 17 al. 4 LP,
+en cas
+de plainte, l'office peut, jusqu'à l'envoi de sa réponse, procéder à un nouvel examen
+de la décision attaquée et prendre une nouvelle mesure, qu'il notifie sans délai aux parties
+et communique à l'autorité de surveillance.
+En l'espèce, l'office a revu sa décision du 14 mai 2012 – objet de la plainte –
+et délivré un nouvel avis de saisie le 11 juin 2012, diminuant dans une large mesure le montant
+retenu. Toutefois, comme le plaignant soutient ne percevoir aucun salaire et qu'il n'y aurait donc rien
+à saisir, la nouvelle décision laisse subsister la contestation, si bien que la plainte du
+25 mai 2012 doit  être tranchée dans la mesure où elle a encore un objet.
+III.
+Selon l'art. 93 al. 1 LP, le salaire et les autres revenus du débiteur sont saisissables, déduction
+faite de ce qui est indispensable au poursuivi et à sa famille (Peter, Edition annotée de la
+loi sur la poursuite pour dettes et la faillite, Berne 2010 p. 497 ; Ochsner, Commentaire romand,
+n. 12 ad art. 93 LP ; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 28 ad art. 93 LP).
+Pour fixer le montant saisissable, l'office doit d'abord tenir compte de toutes les ressources du débiteur;
+puis, après avoir déterminé le revenu global brut, il évalue le revenu net en opérant
+les déductions correspondant aux charges sociales et aux frais d'acquisition du revenu; enfin il
+déduit du revenu net les dépenses nécessaires à l'entretien du débiteur et de
+sa famille, en s'appuyant généralement sur les Lignes directrices pour le calcul du minimum
+vital du droit des poursuites selon l'art. 93 LP établies par la Conférence des préposés
+aux poursuites et faillites de Suisse.
+Font notamment partie
+des ressources du débiteur le salaire, les provisions, les suppléments pour frais, les suppléments
+de salaire, tels que les allocations de renchérissement, pour enfants ou familiales, les prestations
+en nature, les pourboires et recettes analogues, les gains accessoires provenant d'activités que
+le débiteur exerce à titre secondaire, les revenus provenant de l'exercice d'une activité
+lucrative indépendante, les prestations que l'art. 92 LP déclare insaisissables en tant que
+telles (Mathey, La saisie de salaire et  de revenu, thèse Lausanne 1989, n. 372 pp. 176-177;
+TF B.220/1997 du 13 novembre 1997; Vonder Mühll, Basler Kommentar, n. 4 ad art. 93 LP).
+En vertu de l'art. 91 al. 1 ch. 2 LP, le débiteur est tenu, sous menace des peines prévues
+par la loi, d'indiquer jusqu'à due concurrence tous les biens qui lui appartiennent, même ceux
+qui ne sont pas en sa possession, ainsi que ses créances et autres droits contre des tiers. L'office
+des poursuites peut se faire remettre la comptabilité et tous documents concernant l'exploitation
+du débiteur, qui est tenu de fournir les renseignements exigés (Mathey, La saisie de salaire
+et de revenu, thèse Lausanne 1989, p. 188 ch. 394, p. 191 ch. 402 ss et p. 195 ch. 414 et les références
+citées).
+En l’espèce, on est en présence d’un débiteur salarié de la société
+à responsabilité limitée qu’il gère et dont il détient l’essentiel
+des parts. Le recourant ne conteste pas fournir un travail, soit notamment une activité de gérant,
+en échange d’un salaire. Ce travail salarié est au demeurant prouvé par les déclarations
+du plaignant auditionné par l’office, par l’attestation de la fiduciaire de l’employeur,
+par la fiche de salaire produite et par la comptabilisation par l’employeur des montants dus à
+ce titre. De même, compte tenu des déclarations constantes du plaignant, de l’attestation
+de la fiduciaire, de la mise en compte des dettes de salaire et de l’absence de trace bancaire
+ou comptable de paiements réguliers, on peut tenir pour établi que les montants des salaires
+dus n’ont pas été transférés au plaignant.
+Il n’y a toutefois pas lieu d’assimiler, à l’instar du recourant, l’absence
+de versement effectif du salaire dû à la prétendue irréalité de la créance
+en salaire, dont l’existence juridique ne fait aucun doute, comme revenu saisissable. En d’autres
+termes, le fait que le recourant ait renoncé provisoirement à percevoir son salaire pour ménager
+la survie de la société qui l'emploie ne saurait correspondre à une remise de dette. Au
+demeurant, il est contradictoire et contraire au principe de la bonne foi de soutenir, comme travailleur
+saisi, que le revenu est inexistant et, comme représentant de l’employeur, que le salaire
+est dûment comptabilisé comme dette de la société. En définitive, rien n’empêche
+la saisie en mains de l’employeur de la créance en paiement du salaire. Comme l’office
+l’a indiqué, si l’employeur n’exécute pas la saisie, une remise à l’encaissement
+de la créance (art. 131 LP) en faveur de la créancière saisissante interviendra au terme
+de l’année de saisie.
+IV.
+Le recours doit ainsi être rejeté et le prononcé entrepris confirmé.
+L'arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62
+al. 2 OELP – ordonnance sur les émoluments perçus en application de la LP; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+20 mars 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Arnaud Moutinot, avocat (pour N.________),
+‑
+Me Raymond Didisheim, avocat (pour W.________),
+-
+M. le Préposé à l’Office des poursuites du district de l'Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
