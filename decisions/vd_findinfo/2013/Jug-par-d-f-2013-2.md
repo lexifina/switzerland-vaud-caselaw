@@ -1,0 +1,2429 @@
+---
+decision_id: "vd_findinfo_Jug-par-d_f___2013___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-par-déf / 2013 / 2"
+decided: "2013-03-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4195584"
+cites_law: ["switzerland/bund/acts/101/art-016.md", "switzerland/bund/acts/101/art-017.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/220/art-042.md", "switzerland/bund/acts/220/art-049.md", "switzerland/bund/acts/220/art-073.md", "switzerland/bund/acts/241/art-002.md", "switzerland/bund/acts/241/art-003.md", "switzerland/bund/acts/241/art-009.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-020.md", "switzerland/bund/acts/272/art-036.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-111.md", "switzerland/bund/acts/272/art-223.md", "switzerland/bund/acts/272/art-265.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# VD Findinfo Jug-par-déf / 2013 / 2
+
+## Regeste
+
+ACTION EN RÉPARATION DU TORT MORAL, CONCURRENCE DÉLOYALE, LOI FÉDÉRALE CONTRE LA CONCURRENCE DÉLOYALE, DÉNIGREMENT, TORT MORAL, ACTION EN DOMMAGES-INTÉRÊTS{EN GÉNÉRAL}, DOMMAGES-INTÉRÊTS, HONORAIRES, PROTECTION DE LA PERSONNALITÉ, PERSONNE MORALE | 3 al. 1 let. a LCD, 3 LCD, 9 al. 1 LCD, 9 al. 2 LCD, 9 al. 3 LCD, 9 LCD
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 22.03.2013 Jug-par-déf / 2013 / 2
+
+ACTION EN RÉPARATION DU TORT MORAL, CONCURRENCE DÉLOYALE, LOI FÉDÉRALE CONTRE LA CONCURRENCE DÉLOYALE, DÉNIGREMENT, TORT MORAL, ACTION EN DOMMAGES-INTÉRÊTS{EN GÉNÉRAL}, DOMMAGES-INTÉRÊTS, HONORAIRES, PROTECTION DE LA PERSONNALITÉ, PERSONNE MORALE | 3 al. 1 let. a LCD, 3 LCD, 9 al. 1 LCD, 9 al. 2 LCD, 9 al. 3 LCD, 9 LCD
+
+TRIBUNAL
+CANTONAL
+CO11.028150
+22/2013/PMR
+COUR
+CIVILE
+_________________
+Séance
+du 22 mars 2013
+____________________
+Présidence
+de              M. Hack, président
+Juges :
+M. Muller et Mme Byrde
+Greffier
+:              Mme
+Bourquin
+*****
+Cause
+pendante entre :
+A.________
+O.________
+N.________
+(Me N. Gillard)
+et
+T.________
+-
+Du même jour -
+En fait :
+1.
+Les demanderesses A.________, O.________ et N.________ sont des sociétés anonymes de droit
+suisse dont les sièges se trouvent au [...]. Elles font partie d’un groupe horloger notoirement
+connu en Suisse et à travers le monde. Le nom d’E.________ est associé à des produits
+de haute horlogerie de grande qualité et de tradition suisse.
+Le but d’A.________, qui chapeaute le groupe E.________, est la participation à la gestion
+et le financement d'entreprises de toute nature, en particulier dans le domaine de l'horlogerie.
+O.________ a pour but la vente, la promotion, la distribution et le service d'entretien après-vente
+d'articles d'horlogerie, de bijouterie, de joaillerie, d'articles de luxe et de tout produit se rapportant
+à l'industrie horlogère et à ses activités annexes.
+Le but de N.________ est la fabrication, la vente et le service d'entretien après-vente d'articles
+d'horlogerie, de bijouterie, de joaillerie, d'articles de luxe et de tout produit se rattachant à
+l'industrie horlogère et à ses activités annexes ainsi que l'exploitation et la gestion
+de tout droit de propriété intellectuelle, notamment des brevets, licences et marques.
+Les demanderesses ont beaucoup investi dans les relations avec leurs ambassadeurs, en particuliers des
+sportifs.
+Le défendeur T.________ est un ressortissant français domicilié dans le canton de Genève.
+Il est directeur de la publication et responsable de la rédaction du magazine on-line Z.________
+(ci après : Z.________). Il en signe l’éditorial ainsi que la majorité des articles.
+Z.________ est publié vingt-deux fois par an sur le site Internet [...], abondamment consulté.
+Il est destiné à tous les acteurs du milieu de l’horlogerie et de la joaillerie et se
+décrit comme « l’indispensable outil de veille opérationnelle de tous les professionnels
+qui ont besoin de savoir et de comprendre pour agir ». Selon la rubrique « s’abonner »
+du site, seules les personnes qui souscrivent à un abonnement sont admis à le consulter. Néanmoins,
+bon nombre d’informations, présentées sous forme de "brèves", sont accessibles
+à tous.
+2.
+Dès le 30 avril 2010, le défendeur a
+publié plusieurs articles ou brèves concernant les demanderesses. Ces textes contenaient notamment
+les passages suivants :
+"
+Décidément,
+rien ne va plus pour E.________, manufacture classée parmi celles qui n’ont pas vraiment su
+tirer leur épingle du jeu au cours de la crise (Z.________ du 25 avril, marque n° 2). Le pronostic
+était lucide : « Le ver est dans le fruit quand une marque doute d’elle-même
+et temporise, le nez sur l’obstacle, faute d’une vision claire de son devenir. Secouées
+par des allées-venues successives et contradictoires, les équipes doutent autant que le board
+ce qui commence à se remarquer dans la stratégie marketing, dans la politique produits et sur
+le terrain.
+Pathétique
+spectacle que celui de la spirale négative où semble aspirée une des plus belles marques
+du marché
+.
+(…)
+[...] (un designer américain d’origine mexicaine, passé par [...] et par [...]) jette
+l’éponge de ce qui commence à
+ressembler
+à une déroute pour [...], actuel CEO, qui reste à présent le dernier (le prochain?)
+fusible au sein de l’actuelle direction.
+"
+"(…)
+l’absence de créativité désormais manifeste de la manufacture du [...],
+les
+incohérences d’une stratégie devenue illisible et incompréhensible.
+La confiance est entamée
+,
+dans la vallée comme sur les marchés. Les messages sont brouillés, chez les détaillants
+comme chez les fournisseurs. Ce n’est pas le départ d’un directeur artistique devenu
+emblématique qui va
+enrayer
+la spirale mortifère où la marque semble durablement engagée
+.
+(…)
+Plus facile à dire qu’à faire, sans doute, mais il y a le feu dans la maison! La direction
+-
+plus autiste que jamais
+- s’en rend-elle compte?"
+"L'aspect
+prioritaire de cet argument T.S.B (Ndr : Tout sauf [...]) en dit d'ailleurs long sur
+le
+désarroi d'une direction dont la boussole s'est affolée et sur la posture d'actionnaires qui
+se déchirent trop pour garder assez de lucidité dès qu'il s'agit de mieux comprendre les
+évolutions du marché
+."
+"La
+grande faiblesse, voire même
+la
+détresse psychologique d'une grande maison qui ne trouve plus ses marques et dont le haut management
+fait eau de toute part
+. Ce qui commence à
+se voir, et, surtout, à se savoir, l'article de Z.________ ayant ouvert les yeux de ceux qui ne
+s'en doutaient pas encore…"
+"Et
+si la rédaction de Z.________ avait été
+sournoisement
+manipulée par [...] et [...]
+, dans le but
+machiavélique
+d'obliger [...] à rester à son poste?
+ç
+a
+c'est de l'info, coco!".
+3.
+Par requête de mesures provisionnelles et d'extrême urgence du 14 mai 2010, les demanderesses
+ont pris les conclusions suivantes :
+"
+Par
+voie de mesures d'extrême urgence
+I.     Ordre
+est donné à T.________ de cesser immédiatement de dénigrer les marchandises, les
+prestations ou les affaires d’A.________, O.________ et N.________ par des allégations inexactes,
+fallacieuses ou inutilement blessantes, relatives notamment au comportement de leurs organes ou à
+leur stratégie produits et marketing, par voie de publication dans le magazine Internet Z.________,
+ou de toute autre manière.
+II.    Interdiction
+est faite à T.________ de dénigrer les marchandises, les prestations ou les affaires d’A.________,
+O.________ et N.________ par des allégations inexactes, fallacieuses ou inutilement blessantes,
+relatives notamment au comportement de leurs organes ou à leur stratégie produits et marketing,
+par voie de publication dans le magazine Internet Z.________, ou de toute autre manière.
+III.   Ordre
+est donné à T.________ de retirer immédiatement du site Internet [...] et des pages correspondantes
+du magazine en ligne « Z.________» les allégations et commentaires suivants :
+Du
+25 et 30 avril 2010 :
+«
+Pathétique spectacle que celui de la spirale négative où semble aspirée une des plus
+belles marques du marché... »
+Du
+30 avril 2010:
+« Ce n’est
+pas le départ d’un directeur artistique devenu emblématique qui va enrayer la spirale
+mortifère où la marque semble durablement engagée » et « la direction - plus
+autiste que jamais - s’en rend-elle compte? »
+Du
+5 mai 2010:
+« La grande
+faiblesse, voire même la détresse psychologique d’une grande maison qui ne trouve plus
+ses marques et dont le haut management fait eau de toute part »
+7
+mai 2010:
+« Et si la rédaction
+de Z.________ avait été sournoisement manipulée par [...] et [...], dans le but machiavélique
+d’obliger [...] à rester à son poste ? »
+IV
+.
+Les injonctions qui précèdent sont assorties
+de la menace des peines d'amende prévue par l'article 292 CP à l'encontre de celui qui ne se
+sera pas conformé à une décision signifiée par une autorité ou un fonctionnaire.
+Subsidiairement aux conclusions I à III
+V.    Interdiction
+est faite à T.________ de dénigrer les marchandises, les prestations ou les affaires d’A.________,
+O.________ et N.________, par des allégations inexactes, fallacieuses ou inutilement blessantes,
+relatives notamment au comportement de leurs organes ou à leur stratégie produits et marketing,
+par voie de publication dans le magazine Internet Z.________, ou de toute autre manière.
+Par
+voie de mesures provisionnelles
+VI.   Ordre
+est donné à T.________ de cesser immédiatement de dénigrer les marchandises, les
+prestations ou les affaires d’A.________, O.________ et N.________, par des allégations inexactes,
+fallacieuses ou inutilement blessantes, relatives notamment au comportement de leurs organes ou à
+leur stratégie produits et marketing, par voie de publication dans le magazine Internet Z.________,
+ou de toute autre manière.
+VII.  Interdiction
+est faite à T.________ de dénigrer les marchandises, les prestations ou les affaires d’A.________,
+O.________ et N.________, par des allégations inexactes, fallacieuses ou inutilement blessantes,
+relatives notamment au comportement de leurs organes ou à leur stratégie produits et marketing,
+par voie de publication dans le magazine Internet Z.________, ou de toute autre manière.
+VIII. Ordre
+est donné à T.________ de retirer immédiatement du site Internet [...] et des pages correspondantes
+du magazine en ligne «Z.________» les allégations et commentaires suivants :
+Du
+25 et 30 avril 2010 :
+«
+Pathétique spectacle que celui de la spirale négative où semble aspirée une des plus
+belles marques du marché... »
+Du
+30 avril 2010 :
+« Ce n’est
+pas le départ d’un directeur artistique devenu emblématique qui va enrayer la spirale
+mortifère où la marque semble durablement engagée » et « la direction - plus
+autiste que jamais - s’en rend-elle compte? »
+Du
+5 mai 2010 :
+« La grande
+faiblesse, voire même la détresse psychologique d’une grande maison qui ne trouve plus
+ses marques et dont le haut management fait eau de toute part »
+7
+mai 2010 :
+« Et si la
+rédaction de Z.________ avait été sournoisement manipulée par [...] et [...], dans
+le but machiavélique d’obliger [...] à rester à son poste ? »
+IX
+.
+Les injonctions qui précèdent sont assorties
+de la menace des peines d'amende prévue par l'article 292 CP à l'encontre de celui qui ne se
+sera pas conformé à une décision signifiée par une autorité ou un fonctionnaire."
+Par
+ordonnance de mesures préprovisionnelles du 14 mai 2010 - déclarée immédiatement
+exécutoire -, le Juge instructeur de la Cour civile a fait droit à la requête de mesures
+d'extrême urgence précitée, assortissant les injonctions et interdictions faites au défendeur
+de la menace de la sanction prévue par l’art. 292 CP.
+4.
+Les 17 mai et 2 juin 2010, le défendeur a notamment publié les brèves suivantes :
+"Les
+faits sont têtus et la réalité pesante ! Même constat désolant avec les onze
+montres E.________ du catalogue [...] : 8 montres « ravalées » (dont une chrono tourbillon
+[...] et une répétition minutes [...]!), et 3 vendues, dont deux superbes [...] (lots n°
+14 et n° 97, de toute rareté et d'un immense intérêt).
+Pas
+vraiment terrible pour une marque qui « ne risque pas de perdre son aura auprès des collectionneurs
+» (selon [...]), mais relativement facile à décoder dans l'esprit de ce qu'affirmait [...]
+ci-dessus :
+le bon, le vrai,
+le rare, le vieil E.________ a toujours son public, mais les errances marketing de ces dernières
+années et le récent « flou managérial » dont parlait Z.________ se paient désormais
+cash auprès des collectionneurs…
+"
+"
+UN
+DEUXIEME CHOIX POUR
+E.________
+Z.________
+a enquêté dans l'entourage du footballeur [...]
+,
+le nouvel ambassadeur d'E.________ pour le ballon rond. On sait que la manufacture du [...] est vraiment
+décidée à marquer à la culotte [...], mais on n'imaginait pas à quel point la
+marque poussait très loin la stratégie T.S.B («Tout sauf [...] » : Z.________ du
+5 mai, info n° 4). En effet, de l'aveu même des coéquipiers barcelonais de [...],
+ce dernier rêvait d'intégrer l'équipe officielle des footballeurs constituée par
+[...] : malheureusement, le programme (très chargé) des partenariats de [...] ne permettait
+pas d'y intégrer le milieu de terrain offensif du FC [...] avant 2011. Le contrat était prêt,
+mais [...] était pressé de trouver un sponsor horloger dès 2010.
+Non
+sans difficultés, il s'est donc résigné à son deuxième choix : E.________, qui
+picore ainsi les miettes tombées du gâteau [...]. Deuxième choix ? Un rang auquel nous
+n'étions pas habitués avec les prédécesseurs de [...]
+."
+A
+la suite de ces publications, les demanderesses ont dénoncé le défendeur au pénal.
+5.
+Lors de l'audience de mesures provisionnelles du 22 juin 2010, les parties ont conclu la convention suivante
+:
+"I.
+T.________ s’interdit de présenter de manière dénigrante ou inutilement blessante
+à l’avenir les activités, les produits et/ou les employés et dirigeants d’E.________,
+en particulier de les comparer de manière dénigrante ou inutilement blessante à celles
+et ceux d’entreprises concurrentes d’E.________, notamment en faisant usage d’expressions
+ou formules produisant un effet similaire à celles contenues à la conclusion VIII de la requête
+mesures provisionnelles du 14 mai 2010.
+II.
+T.________ s’engage à retirer, en leur substituant la phrase "passages retirés suite
+à un accord judiciaire avec E.________", sans commentaire, dans les trois jours dès signature
+de la présente, du site [...] les passages des articles et brèves contenus à la conclusion
+VII de la requête de mesures provisionnelles du 14 mai 2010, ainsi que les quatre lignes mentionnées
+en gras au final de la citation de l'allégué 65 du procédé complémentaire du
+21 juin 2010.
+III.
+En cas d’infraction à l’engagement souscrit au chiffre I ci-dessus E.________ sera en
+droit de requérir le retrait immédiat et par toute voie de droit utile des textes ou parties
+de texte incriminés et de réclamer à T.________, à titre de peine conventionnelle,
+la somme de CHF 10'000.- pour chaque infraction, tout dommage supplémentaire demeurant réservé.
+E.________ ne sera en droit de faire valoir la clause pénale susmentionnée que selon les modalités
+suivantes :
+-
+lors d’une première infraction, après vaine sommation de retirer le texte ou passage
+de texte dans un délai de cinq jours;
+-
+pour toute infraction ultérieure dès la commission de celle-ci.
+IV.
+Parties s’engagent à conserver le contenu de la présente convention confidentiel, hormis
+s’agissant du passage entre guillemets prévu au chiffre II ci-dessus.
+V.
+Moyennant fidèle exécution des chiffres I et Il ci-dessus, parties se donnent réciproquement
+quittance pour solde de tout compte et de toute prétention du chef des publications intervenues
+à ce jour sur le site [...]. E.________ s’engage en particulier à retirer dans les cinq
+jours dès signature de la présente convention la plainte/dénonciation adressée le
+4 juin 2010 à Monsieur le Procureur de la République du Canton de Genève.
+VI.
+Parties requièrent ratification de la présente convention par Madame le Juge instructeur de
+la Cour civile pour valoir jugement au fond, chaque partie gardant ses frais et renonçant à
+l’allocation de dépens."
+Le juge instructeur a pris acte de la convention précitée pour valoir jugement au fond.
+6.
+Au mois de décembre 2010 - comme il l’avait déjà fait au mois de juin de la même
+année -, le défendeur a soutenu que les demanderesses ne se renouvelaient que par les couleurs
+de leurs montres.
+Les 7 et 13 mars 2011, le défendeur a publié les brèves suivantes :
+"
+•
+• •
+LA RUMEUR LA PLUS AMUSANTE DE CE DÉBUT DE SEMAINE…
+On
+sait que les rumeurs pré-Bâle sont toujours à prendre avec les pincettes
+,
+mais celle-là est trop amusante – et si crédible, au vu de la source – pour qu'on
+n'en fasse pas état : une célèbre manufacture s'apprête à recruter son nouveau
+directeur marketing. Le choix se serait porté sur une « pointure », débauchée
+chez…
+[...]
+(hygiène bébé). Commentaire de celui qui nous l’a racontée : « Faut-il
+qu’ils soient dans la m... pour s’offrir un expert en couches-culottes » !
+•
+La suite dans quelques jours,
+avec la publication du communiqué officiel.
+A moins qu'un membre du conseil d’administration n’ait compris le ridicule de la situation
+d’un
+choix gênant
+au mauvais moment...
+"
+LA
+PLUS AMUSANTE DE LA SEMAINE…
+Où
+une grande marque très chahutée ces derniers temps s'apprêterait-elle à trouver son
+nouveau directeur marketing?
+Chez [...], histoire
+de crier sur tous les toits qu’elle est vraiment dans la m…  Et si ce n'était pas
+une rumeur… (…)".
+Dans
+le milieu des grandes marques horlogères, il était notoire que les demanderesses cherchaient
+un nouveau directeur marketing, ce d’autant plus que le défendeur avait annoncé le départ
+du précédent directeur marketing comme suit :
+"
+LE
+DEPART ANNONCE D’[...] (E.________)… dont l’imminence de ce départ se chuchotait
+dans les couloirs du SIHH,
+mais notre ami [...]
+a grillé tout le monde (sauf
+[...]
+)
+en confirmant la nouvelle sur
+[...]
+:
+[...] (ex-[...]) quittera la direction marketing d’E.________ fin mars, après moins d’un
+an et demi passé au [...]. Son départ – explicable par une brouille tenace avec la représentante
+d’une des familles actionnaires – est un indice supplémentaire du malaise persistant
+à la manufacture, toujours pas remise de sa déstabilisation après le départ de [...]…"
+Le
+nouveau directeur marketing a bien travaillé pour le groupe [...], propriétaire de la marque
+[...], mais non pas pour cette dernière.
+Le
+15 avril 2011, le défendeur a publié ce qui suit :
+"
+•
+• •
+E.________
+vs [...] :
+«
+La guerre des gangs aux Etat-unis? » Traduction libre de l'américain pour «
+E.________
+vs [...]: The Turf Wars Continue in America
+»!
+Cet article d'[...] dans
+A
+Blog to Read
+reprend l'information signalée
+par
+Z.________
+le 11 avril (info n° 9) à propos du recrutement par E.________ de [...], un des animateurs
+de l'équipe des [...]. Vraie compétition entre les deux marques ou illusion d'optique? Pour
+votre
+Quotidien des Montres,
+et contrairement à ce que pense notre ami [...], il n'y a guère que [...] (patron américain
+d’E.________ aux Etats-Unis) pour s'imaginer en concurrence frontale
+avec
+[...] et pour vouloir ainsi le «marquer à la culotte», avec une attitude qui sent un peu
+trop le
+me
+too
+suiviste. Erreur tactique
+! [...] n'est déjà
+plus
+en compétition avec E.________,
+qui se trompe de train. [...] est déjà loin, ailleurs, devant, avec une stratégie
+alternative
+,
+dans une autre gare et à bord d'un autre train…
+".
+Les
+demanderesses étaient en contact avec [...]  avant l’annonce par [...] de son contrat
+avec les [...] et un joueur de cette équipe. Elles étaient en négociations avec le joueur
+précité au mois de septembre 2010 déjà, alors que le partenariat entre [...] et le
+joueur [...] n’a été annoncé qu’au mois de mars 2011 et celui avec les [...]
+au mois de juin 2011. [...] avait débuté les négociations avec les [...] au mois de décembre
+2010.
+Le
+25 avril 2011, le défendeur a publié sur le site de son magazine ce qui suit :
+"
+• • •
+QUELLE EST LA RUMEUR HORLOG
+è
+RE
+LA PLUS FOLLE DE CE PRINTEMPS?
+C'est le bobard de fin de banquet
+lancé par les copains d'«Arnie»
+(« Schwarzie » : [...]) qui rêverait de devenir le prochain président de l'Union
+européenne. Depuis qu'il n'est plus super-
+governator
+de Californie, l'ex-
+terminator
+s'ennuie. Il voulait devenir président d’E.________, sa marque de montres préférée,
+mais on l'a éconduit. Alors pourquoi pas l'Europe, comme
+presidentor
+d'un conglomérat politico-industriel qui
+aurait bien besoin d'une forte tête pour l'incarner aux yeux du monde. Né Autrichien, et donc
+potentiellement désignable [
+le
+président de l'Union est coopté, par élu par les peules
+],
+« Arnie » ne manque pas de personnalité et son carnet d'adresses est bien rempli.
+Non, ce n'est pas encore vrai, ne le croyez pas si on vous le raconte : chez E.________, [...]
+ne
+prépare pas encore une 283
+e
+série limitée de [...], la future [...]
+[pour
+les 27 pays membres de l'Union]
+et elle ne sera pas rouge, comme d'habitude, mais bleue comme le drapeau de l'Union avec ses vingt-sept
+étoiles sur le cadran…
+"
+Précédemment,
+le défendeur avait déjà indiqué qu’[...] souhaitait accéder au conseil
+d’administration d’E.________.
+Le
+18 mai 2011, le défendeur a publié ce qui suit :
+"
+•
+• •
+E.________
+:
+les rumeurs se sont de plus en plus insistantes sur les mouvements au sein du capital de la manufacture
+(« pure rumeur, bien entendu » :
+Z.________
+du 13 mai, info n°5). C’est même une partie de la « famille » fondatrice
+qui s
+erait
+potentiellement tentée de vendre son bloc d’actions et de contrôle de la marque…".
+Les
+actionnaires membres des familles fondatrices n’ont jamais envisagé de se dessaisir des titres
+qui leur ont été dévolus à titre successoral ou de céder de quelque manière
+le contrôle de la marque.
+Le
+27 mai 2011, le défendeur a publié la brève suivante :
+"
+La
+toujours jeune et toujours sympathique manufacture E.________
+n’allait tout de même pas utiliser des peaux de brochet du lac de [...] ! Dans la vallée,
+on a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont
+toutes celles du [...] Group. Donc, autant continuer à utiliser les bracelets en galuchat dont on
+dispose et dont on sait par ailleurs qu’ils ne doivent pas être si écologiquement corrects
+que ça, puisqu’on a décidé, parallèlement, de ne plus en acheter.
+Des
+économies de bouts de chandelle, pitoyables
+pour une marque qui met si volontiers en avant sa conscience environnementale et son éthique « responsable
+»..."
+Le
+galuchat est un cuir de poisson cartilagineux, type raie ou requin, utilisé en maroquinerie. Compte
+tenu des menaces planant sur les espèces concernées, son usage est dénoncé depuis
+un certain temps. Au début du mois d’avril 2011, les demanderesses avaient décidé
+de ne plus se servir de ce matériau pour les bracelets de leurs montres et d’en détruire
+les stocks.
+La
+brève publiée par le défendeur sur son site le 24 juin 2011 contenait le passage suivant
+:
+"
+PARIÉ
+SUR LE SUCCESSEUR (PROBABLE) DE [...] À LA DIRECTION
+D'E.________
+...
+S’il est de moins en moins probable que le contrat de [...] soit renouvelé en fin d’année
+(selon un héritier de la famille, il n’en
+serait même pas question !), les spéculations vont bon train sur le nom de son successeur.
+Alors qu’un puissant lobby interne s’emploie à servir les intérêts de [...]
+(l’actuel directeur commercial), on apprend de source singapourienne bien informée que le
+choix du conseil d'administration se porterait plutôt,
+in
+fine
+, sur [...], l'actuel directeur financier
+de la manufacture. D'origine syrienne, ce dernier affiche un parcours purement financier (même s'il
+a fait un détour par [...]) à dominante médico-pharmaceutique : autant dire qu'il aurait
+le profil idéal pour
+soigner
+les bleus à l'âme d'une marque tirée à hue et à dia ces dernières années.
+Cette option
+financière
+– préférée apparemment à l’option
+commerciale
+de son challenger – est assez révélatrice
+des orientations et des urgences stratégiques d’un
+board
+qui tente de conserver un minimum de cohérence et d’homogénéité dans la redistribution
+en cours de son capital – et qui doit faire face au traumatisme de l’éventuelle ouverture
+de ce capital à des investisseurs extérieurs aux « familles »…"
+Le départ du directeur d’E.________ n’a jamais été à l’ordre du
+jour. La publication de la brève précitée a créé un trouble au sein des demanderesses
+et affecté le directeur général, quand bien même ce dernier avait appris à prendre
+les brèves du défendeur avec beaucoup de recul. Un démenti a été donné
+à l’interne pour tranquilliser le personnel des demanderesses.
+Les 8 et 9 juillet 2011, le défendeur a mis en ligne ce qui suit :
+"
+•
+• •
+CONSTATÉ
+QUE LE NEZ DES PINOCCHIO DU [...] VENAIT DE S’ALLONGER A LA HAUTEUR DE LA [...]…
+On
+imagine bien que le dernier écho de
+Z.________
+(24 juin, info n° 1)
+sur la succession annoncée de [...] a fait grincer des dents au [...],
+où
+on pratique simultanément I’
+omerta
+,
+le refus autiste de répondre aux questions et le démenti non convaincant.
+Message de [...] à l'ensemble des collaborateurs (pas à
+Z.________
+,
+qui a heureusement un bon copain au
+board
+)
+: « Depuis quelques mois déjà, des articles dans la presse ainsi que sur Internet évoquent
+de prétendus changements dans la structure familiale de notre Société ainsi que dans notre
+Direction. Le Conseil d'Administration tient à démentir formellement ces allégations.
+Le rythme de croissance soutenu de ces dernières années a généré de nombreux
+défis, tant stratégiques qu'organisationnels, et la direction actuelle réunie autour de
+[...] ainsi que l'ensemble de nos collaborateurs, ont toute notre confiance et notre appui pour les relever
+». Si Pinocchio était [...], son nez s’élèverait à la hauteur de la [...]...
+• • •
+Décodage pour les non-initiés,
+sachant que Z.________ est clairement visé.
+Ce n'est pas un démenti de la fin du contrat de [...] fin 2011 : L'
+hypothèse
+préférée de votre
+Quotidien
+des Montres
+(la solution [...] pour le remplacer)
+reste une
+hypothèse
+plus qu'intéressante parmi les spéculations en cours – même si le fait d'en faire
+état peut avoir un effet aussi bien autoréalisateur qu'autodestructeur.
+•
+Pour ce qui est de la «
+redistribution du capital »
+évoquée
+par votre
+Quotidien des Montres
+,
+le démenti formel des « prétendus changements dans la structure familiale » amusera
+beaucoup les
+insiders
+,
+mais sans convaincre les sceptiques, tellement la « redistribution en cours » dont nous parlions
+est l'objet d'âpres négociations « familiales » - ce qui est une procédure on
+ne peut plus normale et naturelle, à propos de laquelle de simples explications seraient préférables
+au présent déni de réalité…"
+".
+..LE
+NEZ DES PINOCCHIO DU [...] QUI S’ALLONGE MAINTENANT AU-DESSUS DE LA [...]... C’est la roche
+qui domine la vallée de [...], mais Pinocchio a un nez qui peut battre tous les records
+dès qu’il raconte des salades ! Apparemment, chez E.________, on n’a pas apprécié
+les hypothèses de Z.________ sur la succession de [...], d’où le démenti du conseil
+d’administration,
+qui
+a visiblement du mal à faire la différence entre démentir et mentir
+(
+Z.________
+du 8 juillet, info n° 6)..."
+Le
+défendeur n’a jamais reçu d’informations de la part d’un membre du conseil
+d’administration de la demanderesse A.________.
+Le
+10 juillet 2011, le défendeur a publié la brève suivante :
+"•••
+E.________
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer,
+mois
+après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les résultats
+commerciaux, mais qui n'en obère pas moins l'avenir. La reprise par l'Espagne du marché français
+(!) est tout sauf un signal positif. Les départs commencent à se remarquer. Les changements
+annoncés au sommet de la hiérarchie et la « redistribution du capital » que
+certains préparent (indiscrétion Z.________ du 24 juin, info n° 7) suffiront-ils à
+redresser la barre?"
+La situation des demanderesses est florissante, de même qu’elle l’était au mois
+de mai 2010. De plus, l’Espagne n’a aucunement repris le marché français. Le directeur
+de la filiale espagnole des demanderesses a simplement été nommé directeur de la filiale
+française.
+7.
+Par courrier du 11 juillet 2011, les demanderesses
+ont écrit au défendeur notamment ce qui suit :
+"(…)
+Comme elles l’ont clairement confirmé par le passé, notamment devant le juge vaudois,
+mes clientes ne mésestiment aucunement le droit des « journalistes » de faire
+leur travail et d’informer. II y a en revanche un fossé entre information d’une part
+et dénigrement et désinformation de l’autre.
+La
+plupart de vos brèves et, considéré plus globalement, l’ensemble de vos articles
+récents, tiennent de la désinformation et témoignent, comme par le passé, de votre
+volonté de porter gratuitement préjudice à E.________.
+Avec,
+comme par le passé également, une tendance inquiétante à l’escalade, probablement
+causée par le silence que vous opposent mes clientes depuis que vous avez recommencé à
+vous « occuper » d’elles.
+Même
+si elles ne surestiment pas l’audience de vos soi-disant scoops, mes clientes ne peuvent négliger
+l’image systématiquement négative, souvent jusqu’à la caricature, que vos
+texte véhiculent. Leur patience, que vous avez mise à l’épreuve depuis de long mois,
+est aujourd’hui épuisée.
+Dès
+lors, je vous impartis un délai de cinq jours ouvrables dès réception de la présente,
+soit au
+18 juillet
+2011
+pour retirer tous les articles concernant
+E.________ mentionnés ci-dessus de votre site Internet. Vous êtes par ailleurs tenus de vous
+conformer strictement à la convention que vous avez signée et il vous est, plus généralement,
+interdit de porter atteinte intentionnellement et gratuitement à E.________, ses organes, actionnaires
+et employés.
+A
+défaut de retrait des articles susmentionnés dans le délai imparti, mes clientes agiront
+sans autre avis à votre encontre par toute voie de droit et vous réclameront, au surplus, la
+peine conventionnelle mentionnée au chiffre I de la convention susmentionnée.
+Par
+ailleurs, vous êtes prié de vous abstenir de tout commentaire, sur votre site, s’agissant
+des conditions du retrait des brèves incriminées: ce retrait est dû au fait que lesdites
+brèves portent atteinte aux droits de mes clientes et constituent des infractions à vos engagements
+exprès; toute allusion à une censure serait dès lors non seulement déplacée,
+mais qui plus est mensongère.
+Eu
+égard à vos antécédents de même nature, je ne doute pas qu’un juge saisi
+à nouveau se montrerait extrêmement agacé par la répétition de ce type d’actes.
+Il
+sera fait état de la présente."
+Par lettre du 13 juillet 2011, le défendeur a notamment répondu ce qui suit :
+"(…)
+POINT
+1
+Je
+ne vois pas en quoi la maison E.________ est visée par ces deux échos. Son nom n’y apparaît
+pas. Beaucoup d’autres maisons sont à la recherche d’un directeur marketing.
+•••
+En revanche, si cela peut faire plaisir à votre cliente, je veux bien informer mes lecteurs qu’AP
+s’est sentie visée et leur faire part de vos commentaires, dans les termes qui sont employés
+dans votre sommation.
+(…)
+POINT
+2
+Je
+trouve en avril deux allusions aux faits dont vous parlez. Le premier (11 avril, info n°9) se contente
+de relater un fait et ne cherche en rien à démontrer un quelconque suivisme : il rappelle
+seulement un article écrit en décembre dans lequel
+Z.________
+recommandait aux marques horlogères de suivre cette équipe des [...]. Ce que E.________ a fait
+et ce que dont on peut donc se féliciter.
+Le
+second (15 avril, info n°8) relève un commentaire de la presse américaine sur ce même
+sujet et signale, au contraire, que toute comparaison entre E.________ et [...] serait un contresens
+(
+Z.________
+arguments contre cette erreur d’analyse, qu’il serait donc absolument ridicule de lui imputer).
+•••
+Mais, si ça peut faire plaisir à votre cliente, je peux également expliquer à mes
+lecteurs comment E.________ regrette d’avoir suivi les conseils de
+Z.________
+concernant les [...] et en quoi E.________ se
+sent visée par cette analyse, ce qui laisserait entendre – soyons logiques – que E.________
+se situe effectivement dans cette « logique de concurrence »…
+(…)
+POINT
+3
+Il
+concerne une page dont le titre « On peut s’amuser avec l’information horlogère
+un lundi de Pâques » indique clairement qu’elle ne se prend pas au sérieux.
+L’écho qui vous chagrine est clairement présenté comme une
+rumeur
+,
+dans une page
+humoristique
+,
+et clairement balisé comme la « rumeur la plus
+folle
+»
+parmi des informations «
+à
+ne jamais prendre au sérieux
+»
+(citations préalables), sinon comme «
+bobard
+de fin de banquet ». Difficile de faire plus en matière de mise en garde ! Toute
+interprétation paranoïaque tendrait plutôt à démontrer la mauvaise foi d’E.________
+me concernant – en plus d’un manque d’humour sidérant…
+•••
+Je veux bien informer mes lecteurs – ceux qui auraient pu prendre tout ça au sérieux,
+en dépit de tous ces avertissements précurseurs – qu’ils ne sont pas les seuls
+à manquer d’humour et que E.________ a p ça très à cœur en considérant
+cette rumeur (née aux Etats-Unis) comme « blessante, affabulatrice, mensongère et
+fantaisiste »…
+(…)
+POINT
+4
+(…)
+Je veux bien retirer cet article, mais en faisant savoir à mes lecteurs comment E.________ a eu
+des remords après avoir lu Z.________: je suis sûr que ça les intéressera, surtout
+la publication des notes de service internes. On peut également leur faire savoir que les « économies
+de bouts de chandelle » ne sont pas dénigrantes pour E.________. Ils vont adorer quand
+ils constateront qu’on veut même interdire à
+Z.________
+de féliciter E.________, ce qui démontrerait que la volonté de la marque est de m’interdire
+définitivement de parler d’elle…
+(…)
+POINT
+5
+(…)
+•••
+Je peux évidemment faire savoir à mes lecteurs, en supprimant ce texte, qu’E.________
+considère comme un signe de bonne santé de voir se succéder dans une filiale stratégique
+(la France) trois directeurs en trois ans. Il serait également plaisant de signaler à ces mêmes
+lecteurs qu’il n’y a pas de querelles au sein de la direction, mais on risque un tsunami
+d’éclats de rire sur les rives du lac de Joux.
+(…)
+POINT
+6 et 7
+Vous
+avez la bonté de transformer en « information » ce qui est très explicitement
+présenté comme une « spéculation » : c’est faire trop d’honneur
+à cet écho, qui relate un état de fait (la fin du contrat de l’actuel directeur
+en fin d’année) et différentes « hypothèses » (clairement présentées
+comme telles) pour sa succession. Vous faites également allusion à des « rumeurs »
+clairement présentées comme telles, mais l’existence même de ces rumeurs relève
+de l’exercice journalistique : (…)
+Par
+définition, une rumeur n’est pas erronée : c’est une rumeur !
+Pour
+ce qui est du « jugement totalement subjectif à l’emporte-pièce et sans fondement »,
+il faudrait rappeler qu’un journaliste n’est pas un juge, donc il ne peut travailler qu’en
+toute subjectivité, surtout quant l’objet de son travail refuse systématiquement tout
+contact et laisse toutes ses questions sans réponse. (…)
+•••
+La suppression de ce passage réclamant quelques explications, on peut imaginer que les lecteurs
+seront passionnés par un démenti circonstancié d’E.________. Concernant les changements
+d’actionnariat, les lecteurs seront également très heureux de consulter le registre du
+commerce et les récentes modifications du conseil d’administration, qu’expliquent évidemment
+beaucoup de choses…
+(…)".
+8.
+Par requête de mesures provisionnelles et
+superprovisionnelles du 26 juillet 2011, les demanderesses ont pris les conclusions suivantes :
+"
+Par
+voie de mesures superprovisionnelles
+I.
+Ordre est donné à T.________ de cesser immédiatement de dénigrer les marchandises,
+les prestations ou les affaires d’A.________, O.________ et N.________, leurs organes et/ou dirigeants,
+par des allégations inexactes, fallacieuses ou inutilement blessantes, relatives notamment au comportement
+de leurs organes ou à leur stratégie produits et marketing, par voie de publication dans le
+magazine Internet Z.________, ou de toute autre manière.
+Il.
+Interdiction est faite à T.________ de dénigrer les marchandises, les prestations ou les affaires
+d’A.________, O.________ et N.________, leurs organes et/ou dirigeants, par des allégations
+inexactes, fallacieuses ou inutilement blessantes, relatives notamment au comportement de leurs organes
+ou à leur stratégie produits et marketing, par voie de publication dans le magazine Internet
+Z.________, ou de toute autre manière.
+III.
+Ordre
+est
+donné à T.________ de retirer immédiatement du site www.businessmontres.com et des pages
+correspondantes du magazine en ligne
+«
+Z.________
+»
+les allégations et commentaires suivants, sans accompagner ces suppressions de quelque commentaire
+que ce soit :
+A. Suppressions :
+7
+mars
+: «
+Commentaire
+de celui qui nous l’a racontée :
+«
+Faut-il
+qu’ils soient dans la m... pour s’offrir un expert en couches-culottes
+»
+! « A moins qu’un membre du conseil
+d’administration n’ait compris le ridicule de la situation d’un
+choix
+gênant au mauvais moment...
+»
+13
+mars :
+«
+Chez [...], histoire de crier sur tous les toits qu’elle est vraiment dans la m…
+»
+15
+avril :
+«
+…
+et pour vouloir ainsi le « marquer à la culotte », avec une attitude qui sent un peu trop
+le me too suiviste. Erreur tactique !
+»
+25
+avril :
+«
+283
+e
+»
+et
+«
+comme d'habitude
+»
+27
+mai 2011 :
+«
+La toujours
+jeune et toujours sympathique manufacture E.________
+n’allait tout de même pas utiliser des peaux de brochet du lac de [...] ! Dans la vallée,
+on a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont
+toutes celles du [...] Group. Donc, autant continuer à utiliser les bracelets en galuchat dont on
+dispose et dont on sait par ailleurs qu’ils ne doivent pas être si écologiquement corrects
+que ça, puisqu’on a décidé, parallèlement de ne plus en acheter. Des économies
+de bouts de chandelle, pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale
+et son éthique « responsable »...
+»
+24
+juin
+: «
+une marque tirée à hue et à dia ces dernières années
+»
+8
+juillet :
+«
+…
+CONSTATÉ
+QUE LE NEZ DES PINOCCHIO DU [...] VENAIT DE S’ALLONGER A LA HAUTEUR DE LA [...]…
+»,
+« où on pratique simultanément I’
+omerta
+,
+le refus autiste de répondre aux questions et le démenti non convaincant. » « qui
+a heureusement un bon copain au
+board
+»
+« Si Pinocchio était [...], son nez s’élèverait à la hauteur de la [...]...
+»
+•
+Pour ce qui
+est de la « redistribution du capital »
+évoquée par votre
+Quotidien des Montres,
+le démenti formel des
+« prétendus changements dans la structure familiale » amusera beaucoup les
+insiders
+,
+mais sans convaincre les sceptiques, tellement la « redistribution en cours » dont nous parlions
+est l'objet d'âpres négociations « familiales » - ce qui est une procédure on
+ne peut plus normale et naturelle, à propos de laquelle de simples explications seraient préférables
+au présent déni de réalité…
+»
+9
+juillet
+«.
+..LE
+NEZ DES PINOCCHIO DU [...] QUI S’ALLONGE MAINTENANT AU-DESSUS DE LA [...]... C’est la roche
+qui domine la vallée de [...], mais Pinocchio a un nez qui peut battre tous les records
+dès qu’il raconte des salades ! Apparemment, chez E.________, on n’a pas apprécié
+les hypothèses de
+Z.________
+sur la succession de [...], d’où le démenti du conseil d’administration, qui a
+visiblement du mal à faire la différence entre démentir et mentir (
+Z.________
+du 8 juillet, info n° 6)...
+»
+10
+juillet :
+«
+La mort dans
+l'âme, ceux qui aiment cette grande maison la voient s'enfoncer,
+mois
+après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les résultats
+commerciaux, mais qui n'en obère pas moins l'avenir. »
+et
+« Les changements annoncés au sommet de la hiérarchie et la « redistribution du capital
+» que certains préparent (indiscrétion Z.________ du 24 juin, info n° 7) suffiront-ils
+à redresser la barre?
+»
+B. Modifications (telles que soulignées)
+:
+24
+juin
+«
+Selon
+Z.________, il serait
+de moins en moins probable que le contrat de
+Philippe [...] soit renouvelé en fin d'année
+»
+«
+Alors qu'un puissant lobby interne
+s'emploierait
+à servir les intérêts [...] (l'actuel directeur commercial)
+»
+«
+qui
+aurait
+selon nous à faire face au traumatisme de l'éventuelle ouverture de ce capital à des investisseurs
+extérieurs aux « familles »
+IV.
+Les injonctions qui précèdent sont assorties de la menace des peines d’amende prévue
+par l’article 292 CP à l'encontre de celui qui ne se sera pas conformé à une décision
+signifiée par une autorité ou un fonctionnaire compétent.
+Par
+voie de mesures provisionnelles
+V.
+Ordre est donné à T.________ de cesser immédiatement de dénigrer les marchandises,
+les prestations ou les affaires d’A.________, O.________ et N.________, leurs organes et/ou dirigeants,
+par des allégations inexactes, fallacieuses ou inutilement blessantes, relatives notamment au comportement
+de leurs organes ou à leur stratégie produits et marketing, par voie de publication dans le
+magazine Internet Z.________, ou de toute autre manière.
+Vl.
+Interdiction est faite à T.________ de dénigrer les marchandises, les prestations ou les affaires
+d’A.________, O.________ et N.________, leurs organes et/ou dirigeants, par des allégations
+inexactes, fallacieuses ou inutilement blessantes, relatives notamment au comportement de leurs organes
+ou à leur stratégie produits et marketing, par voie de publication dans le magazine Internet
+Z.________, ou de toute autre manière.
+VII.
+Ordre
+est
+donné à T.________ de retirer immédiatement du site [...] et des pages correspondantes
+du magazine en ligne
+«
+Z.________
+»
+les allégations et commentaires suivants, sans accompagner ces suppressions de quelque commentaire
+que ce soit :
+A. Suppressions :
+7
+mars
+:
+«
+Commentaire de celui qui nous l’a racontée : « Faut-il qu’ils soient dans la m...
+pour s’offrir un expert en couches-culottes »
+!
+« A moins qu’un membre du conseil d’administration n’ait compris le ridicule de
+la situation d’un
+choix
+gênant au mauvais moment...»
+13
+mars :
+« Chez [...], histoire
+de crier sur tous les toits qu’elle est vraiment dans la m…»
+15
+avril :
+«… et pour
+vouloir ainsi le « marquer à la culotte », avec une attitude qui sent un peu trop le me
+too suiviste. Erreur tactique ! »
+25
+avril :
+« 283
+e
+»
+et
+« comme d'habitude »
+27
+mai 2011 :
+«
+La
+toujours jeune et toujours sympathique manufacture E.________t
+n’allait tout de même pas utiliser des peaux de brochet du lac de [...] ! Dans la vallée,
+on a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont
+toutes celles du [...] Group. Donc, autant continuer à utiliser les bracelets en galuchat dont on
+dispose et dont on sait par ailleurs qu’ils ne doivent pas être si écologiquement corrects
+que ça, puisqu’on a décidé, parallèlement de ne plus en acheter. Des économies
+de bouts de chandelle, pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale
+et son éthique « responsable »... »
+24
+juin
+:
+«
+une marque tirée à hue et à dia ces dernières années
+»
+.
+8
+juillet :
+«
+…
+CONSTATÉ
+QUE LE NEZ DES PINOCCHIO DU [...] VENAIT DE S’ALLONGER A LA HAUTEUR DE LA [...]…
+»,
+« où on pratique simultanément I’
+omerta
+,
+le refus autiste de répondre aux questions et le démenti non convaincant. » « qui
+a heureusement un bon copain au
+board
+»
+« Si Pinocchio était [...], son nez s’élèverait à la hauteur de la [...]...»
+•
+Pour ce qui
+est de la « redistribution du capital »
+évoquée par votre
+Quotidien des Montres,
+le démenti formel des
+« prétendus changements dans la structure familiale » amusera beaucoup les
+insiders
+,
+mais sans convaincre les sceptiques, tellement la « redistribution en cours » dont nous parlions
+est l'objet d'âpres négociations « familiales » - ce qui est une procédure on
+ne peut plus normale et naturelle, à propos de laquelle de simples explications seraient préférables
+au présent déni de réalité…»
+9
+juillet
+«
+...LE
+NEZ DES PINOCCHIO DU [...] QUI S’ALLONGE MAINTENANT AU-DESSUS DE LA [...]... C’est la roche
+qui domine la vallée de [...], mais Pinocchio a un nez qui peut battre tous les records
+dès qu’il raconte des salades ! Apparemment, chez E.________, on n’a pas apprécié
+les hypothèses de
+Z.________
+sur la succession de [...], d’où le démenti du conseil d’administration, qui a
+visiblement du mal à faire la différence entre démentir et mentir (
+Z.________
+du 8 juillet, info n° 6)... »
+10
+juillet :
+«
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer,
+mois
+après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les résultats
+commerciaux, mais qui n'en obère pas moins l'avenir. »
+et
+« Les changements annoncés au somme de la hiérarchie et la « redistribution du capital
+» que certains préparent (Z.________ du 24 juin, info n° 7) suffiront-ils à redresser
+la barre? »
+B. Modifications (telles que soulignées)
+:
+24
+juin
+«
+Selon
+Z.________, il serait
+de moins en moins probable que le contrat de
+[...] soit renouvelé en fin d'année »
+«
+Alors qu'un puissant lobby interne
+s'emploierait
+à servir les intérêts de [...] (l'actuel directeur commercial) »
+«
+qui
+aurait
+selon nous à faire face au traumatisme de l'éventuelle ouverture de ce capital à des investisseurs
+extérieurs aux « familles »
+VIII.
+Les injonctions qui précèdent sont assorties de la menace des peines d’amende prévue
+par l’article 292 CP à l'encontre de celui qui ne se sera pas conformé à une décision
+signifiée par une autorité ou un fonctionnaire compétent."
+9.
+Par ordonnance de mesures superprovisionnelles du 28 juillet 2011, le Juge délégué
+de la Cour civile a statué comme suit :
+"
+I.
+Ordre
+est donné à T.________ de cesser immédiatement de dénigrer les marchandises, les
+prestations ou les affaires d’A.________ O.________ et N.________, leurs organes et/ou dirigeants,
+par des allégations inexactes, fallacieuses ou inutilement blessantes, relatives notamment au comportement
+de leurs organes ou à leur stratégie produits et marketing, par voie de publication dans le
+magazine Internet Z.________, ou de toute autre manière.
+Il.
+Interdiction
+est faite à T.________ de dénigrer
+les marchandises, les prestations ou les affaires d’A.________, O.________ et N.________, leurs
+organes et/ou dirigeants, par des allégations inexactes, fallacieuses ou inutilement blessantes,
+relatives notamment au comportement de leurs organes ou à leur stratégie produits et marketing,
+par voie de publication dans le magazine Internet Z.________, ou de toute autre manière.
+III.
+Ordre
+est donné à T.________ de retirer
+immédiatement du site [...] et des pages correspondantes du magazine en ligne "Z.________"
+les allégations et commentaires suivants, sans accompagner ces suppressions de quelque commentaire
+que ce soit :
+7
+mars : "commentaire de celui qui nous l’a racontée : "faut-il qu’ils soient
+dans la m... pour s’offrir un expert en couches-culottes" ! "A moins qu’un membre
+du conseil d’administration n’ait compris le ridicule de la situation d’un choix gênant
+au mauvais moment..."
+13
+mars : "Chez [...], histoire de crier sur tous les toits qu’elle est vraiment dans la m…"
+27
+mai 2011 : "
+La toujours
+jeune et toujours sympathique manufacture E.________
+n’allait tout de même pas utiliser des peaux de brochet du lac de [...]. Dans la vallée,
+on a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont
+toutes celles du [...] Group. Donc, autant continuer à utiliser les bracelets en galuchat dont on
+dispose et dont on sait par ailleurs qu’ils ne doivent pas être si écologiquement corrects
+que ça, puisqu’on a décidé, parallèlement de ne plus en acheter. Des économies
+de bouts de chandelle, pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale
+et son éthique "responsable"..."
+8
+juillet : "
+…
+CONSTATE QUE LE NEZ DES PINOCCHIO
+DU [...] VENAIT DE S’ALLONGER
+À
+LA HAUTEUR DE LA [...]…
+", "où
+on pratique simultanément I’omerta, le refus autiste de répondre aux questions et le
+démenti non convaincant." "qui a heureusement un bon copain au board" "Si Pinocchio
+était [...], son nez s’élèverait à la hauteur de la [...]..."
+9
+juillet "
+...LE NEZ DES
+PINOCCHIO DU [...] QUI S’ALLONGE MAINTENANT AU-DESSUS DE LA [...]... C’est la roche qui domine
+la Vallée de [...], mais Pinocchio a un nez qui peut battre tous les records
+dès qu’il raconte des salades ! Apparemment, chez E.________, on n’a pas apprécié
+les hypothèses de Z.________ sur la succession de [...], d’où le démenti du conseil
+d’administration, qui a visiblement du mal à faire la différence entre démentir
+et mentir (Z.________ du 8 juillet, info n° 6)..."
+IV.
+Assortit
+les injonctions qui figurent aux chiffres
+I à III qui précèdent de la menace de la peine d’amende prévue par l’article
+292 du Code pénal, pour insoumission à une décision de l’autorité.
+V.
+Déclare
+la présente ordonnance immédiatement
+exécutoire et dit qu’elle restera en vigueur jusqu’à droit connu sur le sort des
+mesures provisionnelles."
+A la suite de cette ordonnance, le défendeur a supprimé certains passages des brèves litigieuses
+en les substituant par ce qui suit :
+"
+xxxxxxxxxxxxxxxxx
+(passage supprimé à la demande d’E.________ xxxxxxxxxxxxxxxxx
+".
+10.
+Lors de l'audience de mesures provisionnelles du 29 août 2011, les parties ont demandé au juge
+de surseoir à statuer jusqu'au 15 septembre 2011, dans le but de trouver un terrain d'entente et
+passer, si possible, une convention.
+Le défendeur a par ailleurs indiqué qu'il ne tirait aucun revenu de son magazine Internet.
+Il a fait valoir que les demanderesses refusaient de lui communiquer des renseignements, ce qui justifiait
+à ses yeux les propos qu'il avait tenus sur elle.
+11.
+Par courrier du 14 septembre 2011, les demanderesses ont demandé au juge instructeur de surseoir
+à statuer jusqu'à la fin du mois de septembre 2011.
+Dans une lettre du 20 septembre 2011, elles ont demandé au juge instructeur de statuer sur leur
+requête de mesures provisionnelles.
+12.
+Le 12 décembre 2011, le défendeur a publié sur son site ce qui suit :
+"•••
+LA DISTRIBUTION AU PERSONNEL
+D’E.________ D’UN « JOURNAL INTIME » A REMPLIR QUOTIDIENNEMENT POUR RESPECTER
+LES VALEURS DE L’ENTREPRISE…
+Pas une
+réaction, sinon celle d’un certain malaise devant des « professions de foi »
+qui s’apparentaient vaguement
+à ces techniques de programmation neurolinguistique dévoyées par les nouvelles sectes
+religieuses
+. Dans le style « Bonjour,
+je fais partie de la grande famille E.________ et je m’engage à faire ceci ou cela »…
+Pas de quoi faire d’E.________
+une succursale de la scientologie, mais ça se murmurait dans les coulisses
+,
+où chacun avait soigneusement noté une absence parmi ces « professions de foi »
+des dirigeants de l’entreprise : pas d’intervention vidéo de [...], qui a paru
+fatigué et comme démotivé…
+(…)
+•••
+Les programmateurs neuro-psychologisants
+de service
+[ils
+n’avaient pas lésiné sur les moyens]
+avaient même prévu, en complément de cette charte, une sorte de « journal intime »
+à tenir quotidiennement : « Ma responsabilité, ma contribution ».".
+13.
+Le 14 février 2012, le Juge délégué de la Cour civile a communiqué aux parties
+son ordonnance de mesures provisionnelles du 29 août 2011, dont le dispositif est le suivant :
+"
+I.
+Ordre est donné à T.________ de cesser immédiatement de dénigrer les marchandises,
+les prestations ou les affaires d’A.________, O.________ et N.________, leurs organes et/ou dirigeants,
+par des allégations inexactes, fallacieuses ou inutilement blessantes, relatives notamment au comportement
+de leurs organes ou à leur stratégie produits et marketing, par voie de publication dans le
+magazine Internet Z.________, ou de toute autre manière.
+II.
+Interdiction est faite à T.________ de dénigrer
+les marchandises, les prestations ou les affaires d’A.________, O.________ et N.________, leurs
+organes et/ou dirigeants, par des allégations inexactes, fallacieuses ou inutilement blessantes,
+relatives notamment au comportement de leurs organes ou à leur stratégie produits et marketing,
+par voie de publication dans le magazine Internet Z.________, ou de toute autre manière.
+III.
+Ordre est donné à T.________ de retirer
+immédiatement du site [...] et des pages correspondantes du magazine en ligne "Z.________"
+les allégations et commentaires suivants, sans accompagner ces suppressions de quelque commentaire
+que ce soit :
+7 mars 2011 :
+"Commentaire de celui qui nous
+l’a racontée : "Faut-il qu’ils soient dans la m... pour s’offrir un expert
+en couches-culottes"! "A moins qu’un membre du conseil d’administration n’ait
+compris le ridicule de la situation d’un choix gênant au mauvais moment..."
+13 mars 2011 :
+"Chez [...], histoire de crier
+sur tous les toits qu’elle est vraiment dans la m... (…)"
+27 mai 2011 :
+"
+La
+toujours jeune et toujours sympathique manufacture E.________
+n’allait tout de même pas utiliser des peaux de brochet du lac de Joux ! Dans la vallée,
+on a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont
+toutes celles du [...]. Donc, autant continuer à utiliser les bracelets en galuchat dont on dispose
+et dont on sait par ailleurs qu’ils ne doivent pas être si écologiquement corrects que
+ça, puisqu’on a décidé parallèlement de ne plus en acheter. Des économies
+de bouts de chandelle, pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale
+et son éthique "responsable"..."
+24 juin 2011 :
+"une marque tirée à
+hue et à dia ces dernières années"
+8 juillet 2011 :
+"
+...
+CONSTATÉ QUE LE NEZ DES PINOCCHIO DU BRASSUS VENAIT DE S’ALLONGER A LA HAUTEUR DE LA DENT-DE-VAULION…
+"
+(…) "où on pratique simultanément
+l’
+omerta
+,
+le refus autiste de répondre aux questions et le démenti non convaincant." "qui a
+heureusement un bon copain au
+board
+"
+(…) "si Pinocchio était combier, son nez s’élèverait à la hauteur
+de la Dent-de-Vaulion".
+"Pour ce qui est de la « redistribution du capital » évoquée par votre
+Quotidien des Montres, le démenti formel des « prétendus changements dans la structure
+familiale » amusera beaucoup les
+insiders
+,
+mais sans convaincre les sceptiques, tellement la « redistribution en cours » dont
+nous parlions est l'objet d'âpres négociations « familiales » – ce
+qui est une procédure on ne peut plus normale et naturelle, à propos de laquelle de simples
+explications seraient préférables au présent déni de réalité…"
+9 juillet 2011 :
+"
+…LE
+NEZ DES PINOCCHIO DU BRASSUS QUI S’ALLONGE MAINTENANT AU-DESSUS DE LA DENT-DE-VAULION... C’est
+la roche qui domine la vallée de Joux, mais Pinocchio a un nez qui peut battre tous les records
+dès qu’il raconte des salades! Apparemment, chez E.________, on n’a pas apprécié
+les hypothèses de
+Z.________
+sur la succession de [...], d’où le
+démenti
+du conseil d’administration, qui a visiblement du mal à faire la différence entre
+démentir
+et
+mentir
+(
+Z.________
+du 8 juillet, info n°6)..."
+10 juillet 2011 :
+"
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer
+,
+mois après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les
+résultats commerciaux, mais qui n'en obère pas moins l'avenir" et "Les changements
+annoncés au sommet de la hiérarchie et la « redistribution du capital »
+que certains préparent (indiscrétion
+Z.________
+du 24 juin, info n. 7) suffiront-ils à redresser la barre?"
+IV.
+Assortit les injonctions qui figurent aux chiffres
+I à III qui précèdent de la menace de la peine d'amende prévue à l'art. 292
+du Code pénal en cas d'insoumission à une décision de l'autorité.
+V.
+Fixe aux requérantes un délai au
+15
+mai 2012
+pour déposer une demande au fond,
+sous peine de caducité des présentes mesures provisionnelles.
+VI.
+Met les frais judiciaires de la procédure
+provisionnelle, arrêtés à 1'500 francs (mille cinq cents francs) à la charge
+de l'intimé.
+VII.
+Condamne l'intimé à verser aux requérantes,
+solidairement entre elles, le montant de 7'800 fr. (sept mille huit cents francs) à titre de dépens
+et de restitution d'avance de frais judiciaires.
+VIII.
+Rejette toutes autres ou plus amples conclusions."
+14.
+L’atteinte à l’image et la réputation des demanderesses perdure. Par ses articles,
+le défendeur a diminué la valeur des contrats de partenariat conclus entre les demanderesses
+et leurs ambassadeurs, en particulier [...], [...] et [...].
+Le 6 août 2010, l’étude d’avocats [...] a facturé aux demanderesses 22'650
+fr. à titre de frais d’avocat en relation avec le dossier du défendeur pour la période
+du 1
+er
+mai au 30 juin 2010.
+Le conseil actuel des demanderesses leur a facturé les montants suivants à titre de frais d’avocat
+en relation avec le dossier du défendeur pour la période du 10 mars 2011 au 7 mai 2012 :
+-
+11'340 fr. le 18 août 2011,
+-
+4'748 fr. 20 le 10 octobre 2011,
+-
+2'551 fr. 50 le 20 janvier 2012 et
+-
+6'101 fr. 30 le 10 mai 2012.
+Selon un document interne aux demanderesses, le directeur juridique de ces dernières a consacré
+à la présente affaire, à un taux horaire de 150 fr., nonante-six heures de travail, ce
+qui représente un coût total de 14'400 francs. Ce même document indique qu’un
+avocat interne des demanderesses a consacré au même dossier, à un taux horaire de 100
+fr., cent septante-six heures de travail,  représentant un coût total de 17'600 francs.
+15.
+Par demande du 15 mai 2012, les demanderesses ont pris contre le défendeur, avec suite de frais
+et dépens, les conclusions suivantes :
+"1.
+Les expressions, jugements de valeur et rumeurs suivants, publiés par T.________ sur le site internet
+[...] portent illicitement atteinte à la personnalité d’A.________, O.________ et N.________,
+leurs organes et/ou dirigeants et sont considérés comme déloyales à la lumière
+de l’art. 3 LCD :
+7 mars 2011 : «
+Commentaire
+de celui qui nous l'a racontée : « Faut-il qu'ils soit dans la m… pour s'offrir
+un expert en couches-culottes »! « A moins qu'un membre du conseil d'administration
+n'ait compris le ridicule de la situation d'un choix gênant au mauvais moment…
+»
+13
+mars 2011 : «
+Chez
+[...], histoire de crier sur tous les toits qu'elle est vraiment dans la m…
+»
+15
+avril 2011 : «
+…et
+pour vouloir ainsi le « marquer à la culotte », avec une attitude qui sent un
+peu trop le me too suiviste. Erreur tactique!
+»
+27
+mai 2011 : «
+La
+toujours jeune et toujours sympathique manufacture E.________
+n'allait
+tout de même pas utiliser des peaux de brochet du lac de Joux! Dans la vallée, on a dû
+rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont toutes celles
+du [...]. Donc, autant continuer à utiliser les bracelets en galuchat dont on dispose et dont on
+sait par ailleurs qu'elles ne doivent pas être si écologiquement corrects que ça, puisqu'on
+a décidé parallèlement de ne plus en acheter. Des économies de bouts de chandelle,
+pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale et son éthique
+« responsable »…
+»
+24
+juin 2011 : «
+une
+marque tirée à hue et dia ces dernières années
+».
+8
+juillet 2011 : «
+…
+CONSTATÉ
+QUE LE NEZ DES PINOCCHIO DU BRASSUS VENAIT DE S'ALLONGER A LA HAUTEUR DE LA DENT-DE-VAULION…
+»,
+« où on pratique simultanément l'omerta, le refus autiste de répondre aux questions
+et le démenti non convaincant. », « qui a heureusement un bon copain au board »,
+« Si Pinocchio était combier, son nez s'élèverait à la hauteur de la Dent-de-Vaulion…
+»
+«
+…
+mais
+sans convaincre les sceptiques tellement la "redistribution en cours" dont nous parlions est
+l'objet d'âpres négociations « familiales » – ce qui est une procédure
+on ne peut plus normale et naturelle, à propos de laquelle de simples explications seraient préférables
+au présent déni de réalité…
+»
+9
+juillet 2011 : «
+…
+LE NEZ DES PINOCCHIO DU BRASSUS QUI S'ALLONGE MAINTENANT AU-DESSUS DE LA DENT-DE-VAULION… C'est
+la roche qui domine la vallée de  Joux, mais Pinocchio a un nez qui peut battre tous les records
+dès qu'il raconte des
+salades! Apparemment, chez E.________, on n'a pas apprécié les hypothèses de Z.________
+sur la succession de [...], d'où le démenti du conseil d'administration, qui a visiblement
+du mal à faire la différence entre démentir et mentir (
+Z.________
+du 8 juillet, info n° 6)…
+»
+10
+juillet 2011 : «
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer
+,
+mois après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les
+résultats commerciaux, mais qui n'en obère pas moins l'avenir » et « Les
+changements annoncés au sommet de la hiérarchie et la "redistribution du capital"
+que certains préparent (indiscrétion
+Z.________
+du 24 juin, info n° 7) suffiront-ils à redresser la barre?
+»
+12
+décembre 2011 : « •••
+LA
+DISTRIBUTION AU PERSONNEL D’
+E.________
+D’UN « JOURNAL
+INTIME » A REMPLIR QUOTIDIENNEMENT POUR RESPECTER LES VALEURS DE L’ENTREPRISE…
+»
+« …
+Pas une réaction, sinon celle d'un certain malaise devant ces « professions de foi »
+qui s'apparentaient vaguement à ces techniques de programmation neuro-linguistique dévoyées
+par les nouvelles sectes religieuses. Dans le style « Bonjour, je fais partie de la grande
+famille E.________ et je m'engage à faire ceci ou cela »… Pas de quoi faire d’E.________
+une succursale de la scientologie, mais ça se murmurait dans les coulisses, où chacun avait
+soigneusement noté une absence parmi ces « professions de foi » des dirigeants
+de l'entreprise :
+« •••
+Les programmateurs neuro-psychologisants
+de service
+[ils
+n’avaient pas lésiné sur les moyens]
+avaient même prévu, en complément de cette charte, une sorte de « journal intime »
+à tenir quotidiennement : «
+Ma
+responsabilité, ma contribution
+».
+II.
+Ordre est donné à T.________ de cesser
+de dénigrer les marchandises, les prestations ou les affaires d’ A.________, O.________ et
+N.________, leurs organes et/ou dirigeants, par des allégations inexactes, fallacieuses ou inutilement
+blessantes, relatives notamment au comportement de leurs organes ou à leur stratégie, produits
+et marketing, par voie de publication dans le magazine internet Z.________, ou de toute autre manière.
+III.
+Interdiction est faite à T.________ de dénigrer
+les marchandises, les prestations ou les affaires dA.________, O.________ et N.________ leurs organes
+et/ou dirigeants, par des allégations inexactes, fallacieuses ou inutilement blessantes, relatives
+notamment au comportement de leurs organes ou à leur stratégie, produits et marketing, par
+voie de publication dans le magazine internet Z.________, ou de toute autre manière.
+IV.
+Ordre est donné à T.________ de retirer
+immédiatement du site [...] et des pages correspondantes du magazine en ligne « Z.________
+Joaillerie » les allégations et commentaires suivants, respectivement de modifier lesdites
+allégations et commentaires comme suit, sans accompagner ces suppressions ou modifications de quelque
+commentaire que ce soit, et notamment pas le commentaire « passage supprimé à la
+demande d’E.________ » :
+7 mars 2011 : «
+Commentaire
+de celui qui nous l'a racontée : « Faut-il qu'ils soit dans la m… pour s'offrir
+un expert en couches-culottes »! « A moins qu'un membre du conseil d'administration
+n'ait compris le ridicule de la situation d'un choix gênant au mauvais moment…
+»
+13
+mars 2011 : «
+Chez
+[...], histoire de crier sur tous les toits qu'elle est vraiment dans la m…
+»
+15
+avril 2011 : «
+…et
+pour vouloir ainsi le « marquer à la culotte », avec une attitude qui sent un
+peu trop le me too suiviste. Erreur tactique!
+»
+25
+avril 2011 : «
+283
+e
+»
+et «
+comme d’habitude
+»
+27
+mai 2011 : «
+La
+toujours jeune et toujours sympathique manufacture E.________
+n'allait
+tout de même pas utiliser des peaux de brochet du lac de Joux! Dans la vallée, on a dû
+rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont toutes celles
+du [...]. Donc, autant continuer à utiliser les bracelets en galuchat dont on dispose et dont on
+sait par ailleurs qu'elles ne doivent pas être si écologiquement corrects que ça, puisqu'on
+a décidé parallèlement de ne plus en acheter. Des économies de bouts de chandelle,
+pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale et son éthique
+« responsable »…
+»
+24
+juin 2011 : «
+une
+marque tirée à hue et à dia ces dernières années
+».
+8
+juillet 2011 : «
+…
+CONSTATÉ
+QUE LE NEZ DES PINOCCHIO DU BRASSUS VENAIT DE S'ALLONGER A LA HAUTEUR DE LA DENT-DE-VAULION…
+»,
+« où on pratique simultanément l'omerta, le refus autiste de répondre aux questions
+et le démenti non convaincant. », « qui a heureusement un bon copain au board »,
+« Si Pinocchio était combier, son nez s'élèverait à la hauteur de la Dent-de-Vaulion…
+»
+«
+Pour
+ce qui est de la « redistribution du capital »
+évoquée par votre Quotidien des Montres, le démenti formel des « prétendus
+changements dans la structure familiale » amusera beaucoup les insiders,
+mais sans convaincre les sceptiques
+tellement la "redistribution en cours" dont nous parlions est l'objet d'âpres négociations
+« familiales » – ce qui est une procédure on ne peut plus normale et naturelle,
+à propos de laquelle de simples explications seraient préférables au présent déni
+de réalité…
+»
+9
+juillet 2011 : «
+…
+LE NEZ DES PINOCCHIO DU BRASSUS QUI S'ALLONGE MAINTENANT AU-DESSUS DE LA DENT-DE-VAULION… C'est
+la roche qui domine la vallée de  Joux, mais Pinocchio a un nez qui peut battre tous les records
+dès qu'il raconte des
+salades! Apparemment, chez E.________, on n'a pas apprécié les hypothèses de Z.________
+sur la succession de [...], d'où le démenti du conseil d'administration, qui a visiblement
+du mal à faire la différence entre démentir et mentir (
+Z.________
+du 8 juillet, info n° 6)…
+»
+10
+juillet 2011 : «
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer
+,
+mois après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les
+résultats commerciaux, mais qui n'en obère pas moins l'avenir » et « Les
+changements annoncés au sommet de la hiérarchie et la "redistribution du capital"
+que certains préparent (indiscrétion
+Z.________
+du 24 juin, info n° 7) suffiront-ils à redresser la barre?
+»
+12
+décembre 2011 : « •••
+LA
+DISTRIBUTION AU PERSONNEL D’
+E.________
+D’UN « JOURNAL
+INTIME » A REMPLIR QUOTIDIENNEMENT POUR RESPECTER LES VALEURS DE L’ENTREPRISE…
+»
+« …
+Pas une réaction, sinon celle d'un certain malaise devant ces « professions de foi »
+qui s'apparentaient vaguement à ces techniques de programmation neuro-linguistique dévoyées
+par les nouvelles sectes religieuses. Dans le style « Bonjour, je fais partie de la grande
+famille E.________ et je m'engage à faire ceci ou cela »… Pas de quoi faire d’E.________
+une succursale de la scientologie, mais ça se murmurait dans les coulisses, où chacun avait
+soigneusement noté une absence parmi ces « professions de foi » des dirigeants
+de l'entreprise : pas d’intervention vidéo de [...], qui a paru très fatigué et
+comme démotivé… »
+« •••
+Les programmateurs neuro-psychologisants
+de service
+[ils
+n’avaient pas lésiné sur les moyens]
+avaient même prévu, en complément de cette charte, une sorte de « journal intime »
+à tenir quotidiennement : «
+Ma
+responsabilité, ma contribution
+».
+V.
+Les injonctions qui précèdent sont assorties
+de la menace des peines d’amendes prévue par l’article 292 CP à l’encontre
+de celui qui ne se sera pas conformé à une décision signifiée par une autorité
+ou un fonctionnaire compétent.
+VI.
+T.________ est le débiteur d’A.________,
+O.________ et N.________ de la somme de CHF 129'392.- avec intérêts à 5 % l’an
+dès le 30 avril 2010.
+VII.
+Ordre est donné à T.________ de publier
+sur le site internet [...] le chiffre du dispositif du jugement à venir correspondant au chiffre
+III des présentes conclusions. »".
+Par avis du 18 juin 2012, le juge délégué a notifié cette demande au défendeur,
+impartissant à ce dernier un délai au 24 août 2012 pour déposer une réponse.
+Le défendeur n’ayant pas procédé dans le délai imparti pour déposer sa
+réponse, par avis du 25 septembre 2012, le juge délégué lui a fixé un délai
+supplémentaire non prolongeable (art. 223 al. 1 CPC) au 10 octobre 2012 pour déposer la réponse,
+l’informant qu’à ce défaut, l’instance poursuivrait son cours et le tribunal
+pourrait rendre sa décision finale si la cause était en état d’être jugée.
+Le défendeur n’a pas agi dans le délai supplémentaire qui lui avait été
+accordé.
+Par avis du 23 janvier 2013, le Président de la Cour civile a informé les parties que la cause
+était en état d’être jugée et qu’un dispositif leur serait notifié
+dans les meilleurs délais.
+En droit :
+I.
+En substance, les demanderesses A.________, O.________ et N.________ font valoir que les articles que
+publie le défendeur T.________ sur le site Internet du magazine Z.________ portent atteinte à
+leur réputation professionnelle et leurs affaires. Elles fondent leurs conclusions sur la loi fédérale
+contre la concurrence déloyale du 19 décembre 1986 (LCD, RS 241) ainsi que sur les art. 28
+ss CC (Code civil suisse du 10 décembre 1907, RS 210).
+II.
+a)
+En
+vertu de l'art. 36 CPC (Code de procédure civile du 19 décembre 2008, RS 272), le tribunal
+du domicile ou du siège du lésé ou du défendeur ou le tribunal du lieu de l'acte
+ou du résultat de celui-ci est compétent pour statuer sur les actions fondées sur un acte
+illicite. La notion d’acte illicite doit être interprétée d’une façon
+large; le for de l’art. 36 CPC est notamment ouvert aux actions fondées sur la LCD (Haldy,
+in
+:
+Code de procédure civile commenté, Bâle 2011, n. 2 ad art. 36 CPC).
+Aux termes de l’art.
+20 let. a CPC, le tribunal du domicile ou du siège de l’une des parties est compétent
+pour statuer sur les actions fondées sur une atteinte à la personnalité.
+Les
+demanderesses (lésées) ont leur siège au [...]. Ainsi, que l’on se place sous l’angle
+de l’art. 36 CPC ou de l’art. 20 let. a CPC, les tribunaux vaudois sont compétents pour
+connaître de la présente cause.
+b)
+Conformément à l’art. 74 al. 3 LOJV (loi d'organisation judiciaire du 12 décembre
+1979, RSV 173.01), dans sa teneur en vigueur dès le 1
+er
+janvier 2011, la Cour civile du Tribunal cantonal connaît en instance cantonale unique des affaires
+civiles ressortissant à l’art. 5 CPC – parmi lesquelles on compte les litiges relevant
+de la LCD lorsque la valeur litigieuse dépasse 30'000 fr. (art. 5 al. 1 let. d CPC). Si le litige
+porte sur une prétention ayant plusieurs fondements, l’un de ces derniers relevant de l’instance
+cantonale unique, celle-ci pourra être saisie pour l’intégralité de la prétention
+(Haldy, op, cit., n. 5 ad art. 5 CPC et la réf. citée).
+En
+l’espèce, la présente cause relève de la LCD et la valeur litigieuse dépasse
+30'000 francs. Il faut donc considérer que la Cour civile est compétente pour connaître
+des conclusions prises par les demanderesses, tant sous l’angle de la LCD que sous celui des art.
+28 ss CC.
+III.
+Les art. 28ss CC ont un caractère subsidiaire par rapport aux règles spéciales qui instaurent
+un régime de responsabilité pour des atteintes particulières à la personnalité,
+à l’instar des art. 2 ss LCD (TF 4C.224/2005 du 12 décembre 2005 c. 2.4 et les réf.
+citées). Partant, il convient d’examiner les prétentions des demanderesses en premier
+lieu à la lumière de la LCD.
+a)i)
+En droit de la concurrence déloyale, la légitimation active est reconnue à celui qui,
+par un acte de concurrence déloyale, subit une atteinte dans sa clientèle, son crédit
+ou sa réputation professionnelle, ses affaires ou ses intérêts économiques en général
+ou celui qui en est menacé (art. 9 al. 1 LCD). La légitimation passive appartient à quiconque
+a provoqué ou menace de provoquer par ses agissements une atteinte à la concurrence loyale.
+Il n'est pas nécessaire que l'auteur se trouve dans un rapport de concurrence avec le lésé.
+Il suffit que son comportement exerce une influence sur les relations entre concurrents ou entre fournisseurs
+et clients, c’est-à-dire qu’il ait un impact sur le marché et la concurrence économique.
+Des journalistes ou des entreprises de presse peuvent donc être actionnés s’ils ne s’en
+tiennent pas aux règles de la concurrence loyale et donnent sur des tiers des informations inexactes
+ou fallacieuses (TF 4C.167/2006 du 16 mai 2007 c. 6.1.1; TF 4C.224/2005 précité c. 2.2.2).
+On peut généralement attaquer cumulativement l’auteur, le rédacteur responsable,
+l’éditeur, l’annonceur ou toute autre personne qui a participé à la diffusion
+du journal, car l’atteinte résulte du comportement de tous ceux qui participent à la
+diffusion de l’information (ATF 131 III 26 c. 12.1).
+ii)
+Les actes reprochés au défendeur relèvent
+de son activité de journaliste. Ils consistent en la publication d'écrits dans un magazine
+on-line à caractère économique, qui a pour vocation d'informer et donc d'influencer les
+acteurs du marché de l'horlogerie et de la joaillerie. Les demanderesses sont ainsi légitimées
+à faire valoir des prétentions sur la base de la LCD, alors que le défendeur a la légitimation
+passive.
+b)i)
+A teneur de l'art. 2 LCD, est déloyal et illicite tout comportement ou pratique commercial qui est
+trompeur ou qui contrevient de toute autre manière aux règles de la bonne foi et qui influe
+sur les rapports entre concurrents ou entre fournisseurs et clients. Cette clause générale
+est concrétisée aux art. 3 à 8 LCD, lesquels donnent un catalogue non exhaustif des agissements
+déloyaux (TF 4C.170/2006 du 28 août 2006 c. 3; TF 4C.224/2005 précité c. 3.2).
+Selon l’art. 3 let. a LCD, agit de façon déloyale celui qui dénigre autrui, ses
+marchandises, ses oeuvres, ses prestations, ses prix ou ses affaires par des allégations inexactes,
+fallacieuses ou inutilement blessantes. Par dénigrer il faut comprendre s’efforcer de noircir,
+de faire mépriser (quelqu’un ou quelque chose) en disant du mal, en attaquant, en niant les
+qualités. Un propos est dénigrant lorsqu’il rend méprisable le concurrent, ses marchandises,
+etc. Tout propos négatif ne suffit pas : il doit revêtir un certain caractère de gravité.
+Dénigre par exemple un produit mis sur le marché celui qui le dépeint comme sans valeur,
+d’un prix surfait, inutilisable, entaché de défauts ou nuisible. Une allégation
+n’est pas déjà illicite au sens de l’art. 3 let. a LCD du seul fait qu’elle
+dénigre les marchandises de la personne visée; il faut encore qu’elle soit inexacte -
+c’est-à-dire contraire à la réalité, - ou bien fallacieuse - soit exacte en
+elle-même, mais susceptible, par la manière dont elle est présentée ou en raison
+de l’ensemble des circonstances, d’éveiller chez le destinataire une impression fausse,
+- ou encore inutilement blessante - à savoir qu’elle donne de la personne visée, respectivement
+de ses prestations au sens large, une image négative, outrancière, que la lutte économique
+ne saurait justifier (TF 4A_481/2007 du 12 février 2008 c. 3.3; TF 4C.167/2006 du 16 mai 2007
+c. 6.1.2). A l'inverse, en l'absence de dénigrement, l'art. 3 let. a LCD n'est pas applicable,
+même si les propos incriminés sont inexacts ou fallacieux (Born, UWG versus Medien, Unter besonderen
+Berücksichtigung der aktuellen Rechtsprechung, Medialex 2010, pp. 134 ss).
+Pour déterminer si une ou plusieurs expressions contenues dans des articles de presse sont dénigrantes
+au sens de l'art. 3 let. a LCD, il y a lieu de se fonder sur l'impression que se forge le lecteur moyen
+non prévenu, qui ne dispose pas de connaissances techniques particulières et prête aux
+allégations publiées l'attention commandée par les circonstances. Chacune des allégations
+concernées doit être analysée séparément. Une impression d'ensemble négative
+pourra influencer l'interprétation des différentes allégations, mais elle ne sera pas
+déterminante à elle seule (TF 4C.167/2006 précité c. 6.1.2; TF 4C.224/2005
+précité c. 3.2; ATF 124 IV 162, JT 1999 I 450).
+La notion de caractère déloyal (Unlauterkeit), c’est-à-dire d’illicéité,
+doit encore être interprétée conformément à la Constitution fédérale
+de la Confédération suisse du 18 avril 1999 (Cst., RS 101), en particulier à la lumière
+de l’art. 16 Cst., qui traite des libertés d’opinion et d’information, et de l’art.
+17 Cst. concernant la liberté des médias. En effet, l'application de la LCD ne doit pas faire
+obstacle au but assigné par le constituant à la fonction même des médias dans le
+monde économique, qui consiste à susciter un débat, informer le public sur les faits d'intérêt
+général, sur les évènements économiques, de façon à favoriser l'échange
+des opinions et la discussion politique. Le Tribunal fédéral considère ainsi qu'il convient
+de n'admettre qu'avec retenue l’existence d’un dénigrement déloyal commis par voie
+de presse (TF 4C.167/2006 précité c. 6.1.2 et les réf. citées, TF 4C.224/2005 précité
+c. 3.2).
+ii)
+Les demanderesses invoquent l’illicéité des passages suivants :
+7
+mars 2011
+: "commentaire de celui qui nous
+l’a racontée : "faut-il qu’ils soient dans la m... pour s’offrir un expert
+en couches-culottes" ! "A moins qu’un membre du conseil d’administration n’ait
+compris le ridicule de la situation d’un choix gênant au mauvais moment..."
+13
+mars 2011 :
+"Chez
+[...], histoire de crier sur tous les toits qu’elle est vraiment dans la m…"
+15
+avril 2011
+: "… et pour vouloir ainsi
+"marquer à la culotte", avec une attitude qui sent un peu trop le me too suiviste. Erreur
+tactique!
+25
+avril 2011
+: "283
+e
+"
+et "comme d'habitude".
+27
+mai 2011
+: "
+La
+toujours jeune et toujours sympathique manufacture E.________
+n’allait tout de même pas utiliser des peaux de brochet du lac de [...]. Dans la vallée,
+on a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont
+toutes celles du [...] Group. Donc, autant continuer à utiliser les bracelets en galuchat dont on
+dispose et dont on sait par ailleurs qu’ils ne doivent pas être si écologiquement corrects
+que ça, puisqu’on a décidé, parallèlement de ne plus en acheter. Des économies
+de bouts de chandelle, pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale
+et son éthique "responsable"..."
+24
+juin 2011
+: "une marque tirée à
+hue et à dia ces dernières années"
+8
+juillet 2011
+: "
+…
+CONSTATE QUE LE NEZ DES PINOCCHIO
+DU [...] VENAIT DE S’ALLONGER A LA HAUTEUR DE LA [...]…
+",
+"où on pratique simultanément I’omerta, le refus autiste de répondre aux questions
+et le démenti non convaincant." "qui a heureusement un bon copain au board" "Si
+Pinocchio était [...], son nez s’élèverait à la hauteur de la [...]..."
+"Pour
+ce qui est de la « redistribution du capital » évoquée par votre Quotidien
+des Montres, le démenti formel des « prétendus changements dans la structure familiale »
+amusera beaucoup les
+insiders
+,
+mais sans convaincre les sceptiques, tellement la « redistribution en cours » dont
+nous parlions est l'objet d'âpres négociations « familiales » – ce
+qui est une procédure on ne peut plus normale et naturelle, à propos de laquelle de simples
+explications seraient préférables au présent déni de réalité…"
+9
+juillet 2011
+: "
+...
+LE NEZ DES PINOCCHIO DU [...] QUI S’ALLONGE MAINTENANT AU-DESSUS DE LA [...]... C’est la
+roche qui domine [...], mais Pinocchio a un nez qui peut battre tous les records
+dès qu’il raconte des salades! Apparemment, chez E.________, on n’a pas apprécié
+les hypothèses de Z.________ sur la succession de [...], d’où le démenti du conseil
+d’administration, qui a visiblement du mal à faire la différence entre démentir
+et mentir (Z.________ du 8 juillet, info n. 6)..."
+10
+juillet 2011 :
+"
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer
+,
+mois après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les
+résultats commerciaux, mais qui n'en obère pas moins l'avenir" et "Les changements
+annoncés au sommet de la hiérarchie et la "redistribution du capital" que certains
+préparent (indiscrétion
+Z.________
+du 24 juin, info n. 7) suffiront-ils à redresser la barre?"
+12
+décembre 2011 :
+" … Pas une
+réaction, sinon celle d'un certain malaise devant ces « professions de foi »
+qui s'apparentaient vaguement à ces techniques de programmation neuro-linguistique dévoyées
+par les nouvelles sectes religieuses. Dans le style « Bonjour, je fais partie de la grande
+famille E.________ et je m'engage à faire ceci ou cela »… Pas de quoi faire d’E.________
+une succursale de la scientologie, mais ça se murmurait dans les coulisses, où chacun avait
+soigneusement noté une absence parmi ces « professions de foi » des dirigeants
+de l'entreprise : pas d’intervention vidéo de [...], qui a paru très fatigué et
+comme démotivé… ".
+De manière générale, on constate que le défendeur mentionne les demanderesses dans
+ses écrits presque exclusivement pour critiquer leurs agissements. Le contenu de ces publications
+relève du persiflage, de la vitupération; il s'en dégage une évidente envie de nuire,
+en salissant l'image des demanderesses. Cette impression d'ensemble négative ne permet toutefois
+pas à elle seule de considérer que la publication des textes du défendeur est illicite.
+Il faut encore examiner individuellement chacun des passages incriminés.
+Dans
+les brèves des 7 et 13 mars 2011, les demanderesses sont facilement identifiables : le contexte
+général des publications du défendeur fait apparaître de manière suffisamment
+claire son inimitié envers elles pour que même un lecteur non averti puisse reconnaître
+qu'elles sont visées par ses propos. Le défendeur y remet en question la compétence des
+organes des demanderesses sur la base de déductions pour le moins hâtives, qui échappent
+à toute logique. Il utilise en outre des termes orduriers. Ces brèves sont – pour le
+moins – inutilement blessantes, tant sur la forme que sur le fond. Elles sont également contraires
+à la réalité, le nouveau directeur marketing concerné ayant travaillé pour le
+groupe [...], mais pas pour la marque [...]. La publication de ces textes doit dès lors être
+qualifiée d'acte déloyal au sens de l'art. 3 let. a LCD.
+Il
+en va de même de la brève du 15 avril 2011, dont les propos méprisants ne sont pas conformes
+à la réalité, les contacts entre les demanderesses et [...] ayant précédé
+l’annonce par [...] de la conclusion d’un contrat avec les [...] et un joueur de cette équipe.
+Dans
+la brève du 25 avril 2011, le défendeur tourne en dérision les nombreuses déclinaisons
+du produit phare de la marque des demanderesses, laissant clairement entendre que ces dernières
+se répéteraient à l’infini dans la production de leurs modèles de montres.
+La publication de ce texte dénigrant et fallacieux constitue aussi un acte déloyal au sens
+de l'art. 3 let. a LCD.
+Dans
+la brève du 27 mai 2011, l'honnêteté des demanderesses est mise en doute de manière
+fallacieuse. Certes, seules la stratégie commerciale et la gestion au sens large du groupe des demanderesses
+sont blâmées, alors que la qualité des produits n'est pas critiquée. Toutefois, le
+reproche ternit clairement l'image des demanderesses puisqu'il remet en cause leur intégrité.
+Par ailleurs, les termes "économie de bouts de chandelle" et surtout "pitoyables"
+sont à l'évidence méprisants. Les propos tenus par le défendeur sont d'ailleurs inexacts,
+puisque les demanderesses avaient décidé de détruire les stocks de galuchat. Ils sont
+particulièrement pernicieux : en instrumentalisant la conscience écologique du lecteur, ils
+tendent à discréditer l'éthique des demanderesses. La médiatisation de ces propos
+tombe sous le coup de l'art. 3 let. a LCD.
+Il
+en va de même de la brève du 24 juin 2011. Son texte donne l'impression d'une perte de maîtrise
+totale des organes des demanderesses, qui subiraient passivement les soubresauts de l'économie,
+sans parvenir à diriger leur groupe. L'allégation apparaît inexacte puisque le défendeur
+reconnaît lui-même, dans une autre brève, que les résultats commerciaux n'ont pas
+encore été affectés par les divers manquements et l'absence totale de stratégie qu'il
+impute aux demanderesses; elle est dans tous les cas inutilement blessante et elle donne des demanderesses
+une image particulièrement négative. La publication de ce texte est donc déloyale au sens
+de l'art. 3 let. a LCD.
+Pour ce qui est des brèves des 8 et 9 juillet 2011, force est de constater que leur contenu est
+tout simplement injurieux : les demanderesses sont accusées de mentir. La mention selon laquelle
+le défendeur disposerait d'informateurs parmi les demanderesses laisse penser à des dissensions
+au sein de leur direction, ce qui ternit à l'évidence leur image. Ces textes sont de nature
+à faire douter le lecteur moyen et non averti de la crédibilité et de la stabilité
+du groupe des demanderesses. Purement dénigrants et fallacieux, ils portent atteinte à l'image
+de ces dernières. Partant, leur publication est illicite.
+Le texte publié par le défendeur le 10 juillet 2011 véhicule une image outrageusement
+négative des demanderesses. Le défendeur y laisse entendre que le déclin de leur groupe
+serait inévitable. Cette appréciation est d'autant plus pernicieuse que l'auteur précise
+qu'elle n'est pas fondée sur une péjoration des résultats commerciaux des demanderesses,
+mais sur le constat de l'incompétence durable de leurs organes dirigeants. Ce faisant, il installe
+un doute nuisible aux relations commerciales des demanderesses, qui fausse le jeu de la concurrence.
+Enfin, dans la brève publiée le 12 décembre 2011, le défendeur assimile le comportement
+des représentants des demanderesses à des procédés sectaires, en particulier ceux
+de l’église de scientologie. Un tel rapprochement est manifestement de nature à dénigrer
+les demanderesses; il sous-entend que l’employeur aurait un comportement abusif, arbitraire ou
+inapproprié vis-à-vis des employés. La publication de ce texte est donc déloyale
+au sens de l'art. 3 let. a LCD.
+IV.
+En premier lieu, les demanderesses requièrent qu’il soit prononcé que les textes examinés
+au considérant précédent portent illicitement atteinte à leur personnalité et
+sont déloyales au sens de l’art. 3 LCD (conclusion I).
+a)
+Aux termes de l’art. 9 al. 1 let. c LCD,
+celui qui, par un acte de concurrence déloyale, subit une atteinte dans sa clientèle, son crédit
+ou sa réputation professionnelle, ses affaires ou ses intérêts économiques en général
+ou celui qui en est menacé, peut demander au juge d’en constater le caractère illicite,
+si le trouble qu’elle a créé subsiste.
+Cela étant, en règle générale, l’action en constatation de droit est irrecevable
+lorsque le demandeur dispose d’une action condamnatoire, par exemple d’une action en cessation
+(ATF 130 III 636, JT 2004 I 331; Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+ème
+éd., Lausanne 2002, n. 2 ad art. 265 CPC-VD; sur les exceptions à ce principe, cf. Hohl, Procédure
+civile, t. I, Berne 2001, n. 143). Cependant, les conclusions doivent être interprétées
+de manière objective, conformément aux principes généraux et selon les règles
+de la bonne foi (ATF 105 II 149 c. 2a, JT 1980 I 177; Abbet, Le principe de la bonne foi en procédure
+civile,
+in
+:
+SJ 2010 II 221, note infrap. n. 169, p. 247). La lettre des conclusions n’est pas déterminante
+à elle seule; il convient bien plutôt de prendre en compte toutes les circonstances ayant accompagné
+leur formulation (Guldener, Schweizerisches Zivilprozessrecht, 3
+ème
+éd., Zurich 1979, p. 262).
+b)
+En l’espèce, force est de constater que le premier chef des conclusions des demanderesses
+est purement constatatoire et qu’il a le même fondement et porte sur le même objet que
+les conclusions en interdiction prises sous ch. IV. Il doit par conséquent être rejeté.
+V.
+Les demanderesses requièrent ensuite qu’il soit ordonné au défendeur de cesser,
+respectivement qu’il lui soit interdit de dénigrer leurs marchandises, prestations ou affaires
+(conclusions II et III).
+a)
+A teneur de l’art. 9 al. 1 let. a et
+b LCD, le lésé peut demander d’interdire l’atteinte, si elle est imminente, et
+de la faire cesser, si elle dure encore.
+L’objet de la demande en cessation ou en interdiction doit être défini de manière
+précise, la conclusion pouvant être reprise telle quelle dans le dispositif du jugement. La
+partie concernée par l’interdiction doit être en mesure de saisir ce qu’elle ne
+doit plus faire et les autorités d’exécution ou les autorités pénales doivent
+savoir quels sont les actes qu’elles sont tenues d’empêcher ou qu’elles peuvent
+assortir d’une peine. Si l’on fait valoir auprès de ces autorités que le défendeur
+a commis un acte interdit malgré l’injonction du juge civil, celles-ci doivent seulement avoir
+à vérifier si les conditions de fait invoquées sont remplies; en revanche, elles ne doivent
+pas être amenées à qualifier sur le plan juridique le comportement en cause. Il est donc
+déterminant que le défendeur puisse connaître les limites de l’interdiction sans
+efforts d’interprétation et qu’aucune difficulté ne puisse surgir au moment de
+l’exécution du jugement. Des conclusions générales sont donc inadmissibles (TF
+4A
+_460/2011 du 20 décembre 2011 c.
+2.1; TF 4A_103/2008 du 7 juillet 2008 c. 10.1; TF 4C.401/2004 du 9 mars 2005 c. 3.1; Troller, Précis
+du droit suisse des biens immatériels, 2
+ème
+éd., Bâle 2006, p. 380; Schlosser, Les conditions d’octroi des mesures provisionnelles
+en matière de propriété intellectuelle et de concurrence déloyale,
+in
+:
+sic ! 2005 p. 341
+et les réf. citées; Barbey, Mesures provisionnelles devant la Cour de justice dans le droit
+de la propriété intellectuelle, de la concurrence déloyale et des cartels,
+in
+:
+SJ 2005 II 335, spéc. p. 348).
+b)
+En l’espèce, les conclusions II et III des demanderesses ne font que reprendre l’interdiction
+légale figurant dans la LCD; elles sont insuffisamment précises. Un chiffre de dispositif qui
+les reprendrait ne serait pas exécutable comme tel; il appartiendrait au juge de l’exécution
+de déterminer si le comportement reproché au défendeur est ou non contraire à la
+LCD, en d’autres termes de se livrer à un examen matériel qui ressortit au juge du fond.
+Partant, ces conclusions doivent être rejetées.
+VI.
+Les demanderesses concluent encore à ce qu’il
+soit ordonné au défendeur de retirer immédiatement de son site les textes examinés
+sous c. III ci-dessus.
+a)
+L’action en cessation prévue par
+l’art. 9 al. 1 let. b LCD ne peut être dirigée que contre des violations qui persistent
+au moment du dépôt de la demande ou dont la commission est imminente. Il en va ainsi lorsque
+le comportement du défendeur laisse sérieusement craindre une violation des droits du demandeur,
+par exemple lorsqu’il a déjà commis des atteintes dont la répétition n'est
+pas à exclure ou si des indices concrets indiquent qu'il va commettre de telles atteintes. A l'inverse,
+une menace hypothétique, pour le cas où il viendrait à l'idée du défendeur d'agir
+comme on le craint, ne permet pas de conclure à l'imminence de l'atteinte. En règle générale,
+le danger de répétition des actes incriminés est présumé si le défendeur
+a déjà commis une telle violation et qu'il ne reconnaît pas les droits du demandeur ou
+nie à tort que les actes qu'on lui reproche constituent une atteinte illicite à ces droits-là.
+Cette présomption peut être renversée si le défendeur établit des circonstances
+qui excluent une récidive dans le cas concret ou qui la font apparaître comme invraisemblable.
+Il y a cependant lieu de poser des exigences strictes à cet égard. Ainsi, la cessation des
+violations ne suffira pas à renverser la présomption; il en ira de même de la simple déclaration
+du défendeur selon laquelle il renonce à des atteintes futures, si l'intéressé ne
+reconnaît pas simultanément la prétention du demandeur (TF 4A_529/2008 du 9 mars
+2009 c. 4.1 et les réf. citées; Troller, op. cit., p. 380 et les réf. citées).
+b)
+En l’espèce, le défendeur a
+publié des textes offensants à l'égard des demanderesses pendant les mois d'avril et mai
+2010. Par ordonnance du 14 mai 2010, le Juge instructeur de la Cour civile a ordonné le retrait
+de certains passages de ces textes, à la requête des demanderesses. Malgré ces injonctions,
+le défendeur a publié de nouvelles brèves, dont les demanderesses ont à nouveau mis
+en cause la licéité. Finalement, lors de l'audience de mesures provisionnelles du 22 juin 2010,
+le défendeur s'est engagé conventionnellement à retirer les passages concernés. En
+mars 2011, soit moins d'une année après la conclusion de cette convention, le défendeur
+a commencé à publier les textes objets de la présente procédure. Alors qu'il lui
+avait été ordonné par mesures superprovisionnelles de retirer certains passages de ses
+"brèves" sans accompagner ces suppressions de quelque commentaire que ce soit, le défendeur
+à inséré, en lieu et place des passages incriminés, la mention "passages supprimés
+à la demande d’E.________" ce qui était, une fois de plus, de nature à nuire
+aux demanderesses. Le 12 décembre 2011, il a publié un nouveau texte dénigrant les demanderesses.
+En résumé, le défendeur montre à l'égard des demanderesses un acharnement que
+l'on pourrait presque qualifier de compulsif. En outre, il n’a nullement reconnu en cours de procédure
+le caractère contraire au droit de son comportement. Dans de telles conditions, l'imminence de l'atteinte
+invoquée par les demanderesses doit être présumée, sans qu'aucun élément
+ne permette de renverser cette présomption.
+La conclusion IV prise par les demanderesses doit donc être allouée telle que libellée.
+Comme requis par les demanderesses (conclusion V), l’injonction doit être assortie de la menace
+au défendeur de la peine d'amende prévue à l'art. 292 du Code pénal suisse du 21
+décembre 1937 (CP, RS 311.0),
+qui réprime l'insoumission à une décision
+de l'autorité (Troller, op. cit., p. 380).
+VII.
+Les demanderesses concluent en outre à ce
+qu’il soit prononcé que le défendeur est leur débiteur à hauteur d’un
+montant de 129'392 fr. (conclusion VI), qu’elles décomposent comme suit :
+-
+1 fr. à titre de diminution de la valeur
+des contrats de partenariat conclus avec des ambassadeurs tels que [...], [...] et [...],
+-
+50'000 fr. à titre de réparation du
+tort moral subi,
+-
+79'392 fr. à titre de remboursement des frais
+de conseils externes et internes.
+a)
+Nonobstant le texte de la conclusion précitée, on ne saurait admettre, de bonne foi, que les
+demanderesses voulaient qu’elle soit seulement  constatatoire : elles n’y avaient
+aucun intérêt et n’en ont d’ailleurs allégué aucun. Il apparaît
+au contraire qu’en postulant la reconnaissance judiciaire de leur créance, dont elles ont
+chiffré le montant d’une manière précise, elles entendaient en réalité
+en obtenir le paiement. Sanctionner d’irrecevabilité la demande dont les conclusions souffrent
+d’un pareil défaut de formulation procéderait d’un excès de formalisme, prohibé
+par l’art. 29 Cst.
+b)
+En
+vertu de l’art. 9 al. 3 LCD, le lésé peut, conformément au code des obligations,
+intenter des actions en dommages-intérêts et en réparation du tort moral, ainsi qu’exiger
+la remise du gain selon les dispositions sur la gestion d’affaires.
+A teneur de l’art. 42 al. 2 CO, lorsque le montant exact du dommage ne peut être établi,
+le juge le détermine équitablement en considération du cours ordinaire des choses et des
+mesures prises par la partie lésé.
+Il ressort des faits qu’en publiant ses articles, le défendeur a diminué la valeur des
+contrats de partenariat conclus entre les demanderesses et leurs ambassadeurs. Le montant de ce dommage
+n’est cependant pas déterminable.
+Il y a donc lieu, en application de l’art. 42 al. 2 CO, d’allouer aux demanderesses le franc
+symbolique qu’elles réclament à ce titre.
+c)
+La
+règle générale de l’art. 49 al. 1 CO prévoit la réparation du tort moral
+en faveur de celui qui subit une atteinte illicite à sa personnalité, pour autant que la gravité
+de l’atteinte le justifie et que l’auteur ne lui ait pas donné satisfaction autrement.
+Selon une jurisprudence constante, la protection de la personnalité peut être invoquée
+tant par une personne physique que par une personne morale, dans la mesure où elle ne touche pas
+à des caractéristiques qui, en raison de leur nature, appartiennent seulement aux personnes
+physiques (ATF 138 III 337 c. 6.1; ATF 121 III 168 c. 3a; ATF 108 II 241 c. 6). Au nombre des droits
+de la personnalité dont peuvent se prévaloir les personnes juridiques figurent notamment le
+sentiment de l’honneur (ATF 96 IV 148), la protection de la sphère privée ou secrète
+(ATF 97 II 97 c. 2), le droit à la considération sociale (ATF 121 III 168 c. 3a) et le droit
+au libre développement économique, qui est assuré actuellement dans une large mesure par
+la LCD (ATF 138 III 337 c. 6.1; ATF 121 III 168 c. 3a).
+La fixation de l’indemnité pour tort moral relève pour une part importante de l’appréciation
+des circonstances. Il ne s'agit toutefois pas d’une question d'appréciation au sens strict
+mais d'une question d'équité (TF 2C_294/2010 du 28 avril 2011 c. 3.2; ATF 138 III 337 c. 6.3.1).
+Une comparaison avec d’autres affaires ne doit intervenir qu’avec circonspection, puisque
+le tort moral ressenti dépend de l’ensemble des circonstances du cas d’espèce.
+Cela étant, une comparaison n’est néanmoins pas dépourvue d’intérêt
+et peut se révéler, suivant les occurrences, un élément utile d’orientation
+(ATF 138 III 337 c. 6.3.3; ATF 130 III 699 c. 5.1).
+Le Tribunal fédéral considère que les deux critères proposés par Roland Brehm
+(Commentaire bernois, 3
+ème
+éd., 2006, n. 86 ad art. 49 CO) pour la fixation de l’indemnité sont pertinents, à
+tout le moins lorsqu’une personne juridique est en droit d’obtenir réparation pour le
+tort moral engendré par des atteintes à la personnalité. Selon cet auteur, il faut premièrement
+distinguer entre les atteintes qui créent un état durable et celles qui s’effacent avec
+le temps, comme c’est le cas la plupart du temps pour les atteintes à la personnalité;
+les premières doivent être indemnisées par le versement de sommes plus importantes que
+celles accordées pour réparer les secondes. Secondement, lorsqu’il existe une atteinte
+à l’honneur ou au crédit, une différence doit se faire selon que l’atteinte
+procède d’un acte unique ou selon qu’elle a été propagée dans les médias;
+dans cette dernière hypothèse, l’atteinte aux droits de la personnalité pèse
+d’un poids plus important que dans la première, ce qui doit se répercuter sur la quotité
+de l’indemnité satisfactoire attribuée (ATF 138 III 337 c. 6.3.6). Dans le cas d’une
+société anonyme dénigrée sur un site Internet accessible au public pendant deux mois,
+le Tribunal fédéral a arrêté l’indemnité pour tort moral à 10'000
+fr. (ATF 138 III 337).
+En l’espèce, il y a lieu de ne pas perdre de vue que les textes qui ont porté atteinte
+à la personnalité des demanderesses étaient ouverts à tous et non seulement aux abonnés
+du site Internet du défendeur. Diffusés par Internet, ils étaient accessibles à toute
+heure dans le monde entier. En outre, il faut prendre en compte le caractère répété
+et particulièrement crasse des atteintes commises par le défendeur.
+Tout bien pesé, il convient d’accorder à chaque demanderesse une indemnité pour
+tort moral se montant à 12'000 fr., savoir 36'000 fr. au total.
+d)
+En droit de la responsabilité civile,
+les frais engagés par la victime pour la consultation d'un avocat avant l'ouverture du procès
+civil peuvent constituer un élément du dommage, lorsque cette démarche était nécessaire
+et adéquate, et pour autant que ces frais n'aient pas été inclus dans les dépens
+(ATF 133 II 361 c. 4.1; TF 4C.51/2000 du 7 août 2000 c. 2, publié
+in
+:
+SJ 2001 I 153; Werro, La responsabilité civile, 2
+ème
+éd., Berne 2011, n. 1057, p. 298).
+En l’espèce, l’étude d’avocats [...] a facturé aux demanderesses 22'650
+fr. à titre de frais d’avocat pour la période du 1
+er
+mai au 30 juin 2010. Pour celle du 10 mars 2011 au 7 mai 2012, l’actuel conseil des demanderesses
+leur a facturé des frais de 11'340 fr. le 18 août 2011, 4'748 fr. 20 le 10 octobre 2011, 2'551
+fr. 50 le 20 janvier 2012 et 6'101 fr. 30 le 10 mai 2012. Il ressort des faits que toutes ces factures
+se rapportent à des prestations d’avocat  déployées dans le cadre du présent
+litige, dont l’utilité n’a pas été contestée. Par ordonnance de mesures
+provisionnelles du 29 août 2011, le défendeur a été condamné à verser aux
+demanderesses un montant de 6'000 fr. à titre de défraiement de leur conseil. Ce montant doit
+être équitablement imputé sur les factures des 18 août et 10 octobre 2011, couvrant
+vraisemblablement l’activité déployée par le conseil des demanderesses dans le cadre
+de la procédure de mesures provisionnelles. Par conséquent, il convient de retenir  que
+les montants de 22'650 fr., 8’340 fr. (= 11’340 fr. - 3'000 fr.), 1'748 fr. 20 (= 4'748
+fr. 20 – 3'000 fr.), 2'551 fr. 50 et 6'101 fr. 30 constituent des éléments du dommage
+dont le défendeur doit répondre.
+Selon un document interne aux demanderesses, le directeur juridique de ces dernières a consacré
+à la présente affaire, à un taux horaire de 150 fr.,  nonante-six heures de travail,
+ce qui représente un coût total de 14'400 francs. Ce même document indique qu’un
+avocat interne des demanderesses a consacré, à un taux horaire de 100 fr., cent septante-six
+heures de travail,  représentant un coût total de 17'600 francs. Il n’a toutefois
+pas été allégué,
+a
+fortiori
+pas établi, que ces personnes auraient
+été engagées uniquement pour s’occuper du présent litige ou qu’elles
+auraient été contraintes d’effectuer des heures supplémentaires ayant dû être
+rémunérées en plus de leur travail habituel. Dans ces conditions, il faut considérer
+que les montants de 14'400 fr. et 17'600 fr. représentent simplement le salaire de certains employés
+des demanderesses, qui ne peut pas être retenu à titre de dommage indemnisable.
+e)
+La convention passée entre les parties
+lors de l’audience de mesures provisionnelles du 22 juin 2010 prévoit à son chiffre III
+ce qui suit :
+"En cas d’infraction à l’engagement souscrit au chiffre I ci-dessus E.________
+sera en droit de requérir le retrait immédiat et par toute voie de droit utile des textes ou
+parties de texte incriminés et de réclamer à T.________, à titre de peine conventionnelle,
+la somme de CHF 10'000.- pour chaque infraction, tout dommage supplémentaire demeurant réservé.
+E.________ ne sera en droit de faire valoir la clause pénale susmentionnée que selon les modalités
+suivantes :
+-
+lors d’une première infraction, après vaine sommation de retirer le texte ou passage
+de texte dans un délai de cinq jours;
+-
+pour toute infraction ultérieure dès la commission de celle-ci."
+Par courrier du 11 juillet 2011, le conseil des demanderesses a fixé au défendeur un délai
+de cinq jours ouvrables dès réception du courrier, soit au 18 juillet 2011, « pour
+retirer tous les articles concernant E.________ mentionnés ci-dessus de votre site Internet
+».
+Il a par ailleurs mentionné « vous
+êtes par ailleurs tenus de vous conformer strictement à la convention que vous avez signée
+et il vous est, plus généralement, interdit de porter atteinte intentionnellement et gratuitement
+à E.________, ses organes, actionnaires et employés. A défaut de retrait des articles
+susmentionnés dans le délai imparti, mes clientes agiront sans autre avis à votre encontre
+par toute voie de droit et vous réclameront, au surplus, la peine conventionnelle mentionnée
+au chiffre I de la convention susmentionnée ».
+Le défendeur a certes retiré certains passages de ses brèves. Il ne l’a toutefois
+fait qu’à la suite de l’ordonnance de mesures provisionnelles rendue le 28 juillet
+2011, soit hors du délai que les demanderesses lui avaient imparti. Celles-ci ont donc droit, conformément
+à la convention signée avec le défendeur, à une somme de 10'000 fr. à titre
+de peine conventionnelle.
+Le défendeur doit aux demanderesses un second montant de 10'000 fr. à titre de peine conventionnelle,
+compte tenu de la publication qu’il a effectuée le 12 décembre 2011.
+Bien que ces sommes n’aient pas été expressément réclamées par les demanderesses,
+il y a néanmoins lieu de les leur allouer, conformément au principe d’application du
+droit d’office (
+iura
+novit curia
+, art. 57 CPC).
+f)
+En définitive, le défendeur reste devoir aux demanderesses les sommes suivantes :
+-
+1 fr. à titre d’indemnité pour
+dommages-intérêts,
+-
+36'000 fr. à titre d’indemnité
+pour tort moral,
+-
+41'391 fr. (= 22'650 fr. + 8’340 fr. + 1'748
+fr. 20 + 2'551 fr. 50 + 6'101 fr. 30) à titre de remboursement des frais d’avocat,
+-
+20'000 fr. à titre de peine conventionnelle.
+VIII.
+Les demanderesses réclament un intérêt à 5 % dès le 30 avril 2010.
+a)
+Le dommage comprend l'intérêt, dit
+compensatoire, du capital alloué à titre d'indemnité. L'intérêt est dû
+par celui qui est tenu de réparer le dommage causé à autrui, à partir du moment où
+ce préjudice est intervenu (art. 73 al. 1
+er
+CO; Tercier/Pichonnaz, Le droit des obligations, 5
+ème
+éd., Bâle 2012, n. 1117), soit à partir du moment où l'évènement dommageable
+engendre des conséquences pécuniaires, et il court jusqu'au moment du paiement des dommages-intérêts.
+Selon la jurisprudence, les intérêts font partie intégrante du dommage et ils ont pour
+but de placer l'ayant droit dans la situation qui aurait été la sienne si sa créance avait
+été honorée au jour de l'acte illicite ou de la survenance de ses conséquences économiques.
+Au contraire des intérêts moratoires, ils ne supposent ni interpellation du créancier,
+ni demeure du débiteur, même s'ils poursuivent le même but. Ils doivent compenser le préjudice
+résultant de l'immobilisation du capital (ATF 131 III 12 c. 9.1, JT 2005 I 488, SJ 2005 I 113 et
+les arrêts cités). Le taux d'intérêt forfaitaire retenu par la jurisprudence par
+application analogique de
+l'art.
+73 CO est de 5 % (ATF 131 III 12 c. 9.4 et 9.5, JT 2005 I 488, SJ 2005 I 113). En ce qui concerne le
+moment déterminant pour le calcul de l'indemnité pour tort moral, le Tribunal fédéral
+a laissé indécise la question controversée de savoir s'il faut retenir la date de l’évènement
+dommageable ou le jour du jugement (ATF 118 II 404 c. 3b/bb, JT 1993 I 736). La pratique de la Cour civile
+retient la date de l'évènement dommageable (cf. p. ex. CCiv 16/2010/PMR du 27 janvier 2012).
+b)
+Le défendeur doit donc être condamné à payer aux demanderesses un intérêt
+de 5 % l’an sur les montants en capital de 1 fr. et 36'000 fr. dès le
+19
+février 2011 (date moyenne entre la première et la dernière publication), sur celui de
+22'650 fr. dès le 6 août 2010 (date de facturation de la note d’honoraires), sur celui
+de 8'340 fr. dès le 18 août 2011 (
+ibidem
+),
+sur celui de 1'748 fr. 20 dès le 10 octobre 2011 (
+ibidem
+),
+sur celui de 2'551 fr. 50 dès le 20 janvier 2012 (
+ibidem
+),
+sur celui de 6'101 fr. 30 dès le 10 mai 2012 (
+ibidem
+),
+sur la première somme de 10'000 fr. dès le 19 juillet 2011 (date de l’échéance
+du délai imparti par les demanderesses), et sur la seconde dès le 12 décembre 2011
+(date de la publication).
+IX.
+Finalement, les demanderesses concluent à ce qu’il soit ordonné au défendeur de
+publier sur le site Internet litigieux le chiffre du dispositif du jugement correspondant au chiffre
+III de leurs conclusions (conclusion VII). Elles font valoir l’art. 9 al. 2 LCD, qui prévoit
+que le lésé peut en particulier demander qu’une rectification ou que le jugement soit
+communiqué à des tiers ou publié.
+Comme on l’a vu, la conclusion III prise par les demanderesses doit être rejetée. Par
+conséquent, il convient d’en faire de même de la conclusion VII.
+X.
+a)
+Selon l'art. 106 CPC, les frais sont mis à la charge de la partie succombante (al. 1); lorsqu’aucune
+des parties n’obtient entièrement gain de cause, les frais sont répartis selon le sort
+de la cause (al. 2). Les frais comprennent les frais judiciaires et les dépens, ces derniers englobant
+le défraiement d’un représentant professionnel et les débours nécessaires (art.
+95 CPC). Les frais judiciaires sont arrêtés selon le tarif des frais judiciaires civils du
+28 septembre 2010, RSV 270.11.5). Le défraiement du représentant professionnel est fixé
+selon le tarif des dépens en matière civile du 23 novembre 2010 [TDC, RSV 270.11.6]. Les
+débours ont trait au paiement d'une somme d'argent précise pour une opération déterminée.
+A teneur de l’art. 111 CPC, les frais judiciaires sont compensés avec les avances fournies
+par les parties. La personne à qui incombe la charge des frais verse le montant restant (al. 1).
+La partie à qui incombe la charge des frais restitue à l’autre partie les avances que
+celle-ci a fournies et lui verse les dépens qui lui ont été alloués (al. 2).
+b)
+En l’espèce, obtenant partiellement gain de cause, les demanderesses doivent supporter un
+quart des frais. Par conséquent, elles ont droit, solidairement entre elles, à la charge du
+défendeur, à un montant de 12'750 fr., qui se décompose comme suit :
+a)
+9’000
+fr.
+à
+titre de participation aux honoraires de leur conseil;
+b)
+3’750
+fr.
+en
+remboursement des trois quarts de leur avance de frais.
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos
+par
+défaut du défendeur,
+prononce
+:
+I.
+Ordre est donné au défendeur T.________ de retirer immédiatement du site www.[...].com
+et des pages correspondantes du magazine en ligne "[...]" les allégations et commentaires
+suivants, respectivement de modifier lesdites allégations et commentaires comme suit, sans accompagner
+ces suppressions ou modifications de quelque commentaire que ce soit, et notamment pas le commentaire
+"passage supprimé à la demande d'[...]" :
+-
+7 mars 2011 : "Commentaire de celui qui nous
+l'a racontée : "Faut-il qu'ils soit dans la m… pour s'offrir un expert en couches-culottes"!
+"A moins qu'un membre du conseil d'administration n'ait compris le ridicule de la situation d'un
+choix gênant au mauvais moment…"
+-
+13 mars 2011 : "Chez [...], histoire de crier
+sur tous les toits qu'elle est vraiment dans la m…"
+-
+15 avril 2011 : "…et pour vouloir ainsi
+le "marquer à la culotte", avec une attitude qui sent un peu trop le me too suiviste.
+Erreur tactique!"
+-
+25 avril 2011 : "283
+e
+"
+et "comme d'habitude"
+-
+27 mai 2011 : "
+La
+toujours jeune et toujours sympathique manufacture [...]
+n'allait tout de même pas utiliser des peaux de brochet du lac de Joux! Dans la vallée, on
+a dû rater les campagnes anti-galuchat, pourtant signées par de nombreuses marques, dont toutes
+celles du [...]. Donc, autant continuer à utiliser les bracelets en galuchat dont on dispose et
+dont on sait par ailleurs qu'elles ne doivent pas être si écologiquement corrects que ça,
+puisqu'on a décidé parallèlement de ne plus en acheter. Des économies de bouts de
+chandelle, pitoyables pour une marque qui met si volontiers en avant sa conscience environnementale et
+son éthique "responsable"…"
+-
+24 juin 2011 : "une marque tirée à
+hue et dia ces dernières années"
+-
+8 juillet 2011 : "
+…
+CONSTATÉ QUE LE NEZ DES PINOCCHIO DU BRASSUS VENAIT DE S'ALLONGER A LA HAUTEUR DE LA DENT-DE-VAULION…
+",
+"où on pratique simultanément l'omerta, le refus autiste de répondre aux questions
+et le démenti non convaincant.", "qui a heureusement un bon copain au board", "Si
+Pinocchio était combier, son nez s'élèverait à la hauteur de la Dent-de-Vaulion…",
+"
+Pour
+ce qui est de la "redistribution du capital
+"
+évoquée par votre Quotidien des Montres, le démenti formel des "prétendus changements
+dans la structure familiale" amusera beaucoup les insiders, mais sans convaincre les sceptiques
+tellement la "redistribution en cours" dont nous parlions est l'objet d'âpres négociations
+"familiales" – ce qui est une procédure on ne peut plus normale et naturelle, à
+propos de laquelle de simples explications seraient préférables au présent déni de
+réalité…"
+-
+9 juillet 2011 : "
+…
+LE NEZ DES PINOCCHIO DU BRASSUS QUI S'ALLONGE MAINTENANT AU-DESSUS DE LA DENT-DE-VAULION… C'est
+la roche qui domine la vallée de  Joux, mais Pinocchio a un nez qui peut battre tous les records
+dès qu'il raconte des salades! Apparemment,
+chez [...], on n'a pas apprécié les hypothèses de Business Montres sur la succession de
+[...], d'où le démenti du conseil d'administration, qui a visiblement du mal à faire la
+différence entre démentir et mentir (
+Business
+Montres
+du 8 juillet, info n° 6)…"
+-
+10 juillet 2011 : "
+La
+mort dans l'âme, ceux qui aiment cette grande maison la voient s'enfoncer
+,
+mois après mois, dans une ankylose stratégique que ne sanctionnent pas encore vraiment les
+résultats commerciaux, mais qui n'en obère pas moins l'avenir" et "Les changements
+annoncés au sommet de la hiérarchie et la "redistribution du capital" que certains
+préparent (indiscrétion
+Business
+Montres
+du 24 juin, info n° 7) suffiront-ils
+à redresser la barre?"
+-
+12 décembre 2011 : "Pas une réaction,
+sinon celle d'un certain malaise devant ces "professions de foi" qui s'apparentaient vaguement
+à ces techniques de programmation neuro-linguistique dévoyées par les nouvelles sectes
+religieuses. Dans le style "Bonjour, je fais partie de la grande famille [...] et je m'engage à
+faire ceci ou cela"… Pas de quoi faire d'[...] une succursale de la scientologie, mais ça
+se murmurait dans les coulisses, où chacun avait soigneusement noté une absence parmi ces "professions
+de foi" des dirigeants de l'entreprise : pas d'intervention vidéo de [...], qui a paru très
+fatigué et comme démotivé…"
+II.
+L'injonction décernée sous chiffre I ci-dessus est assortie de la menace au défendeur
+de la peine d'amende prévue à l'art. 292 du Code pénal qui réprime l'insoumission
+à une décision de l'autorité.
+III.
+Le défendeur doit payer aux demanderesses A.________, O.________ et N.________ les sommes suivantes
+:
+-
+36'001 fr. (trente-six mille un francs) avec intérêt
+à 5% l'an dès le
+19 février
+2011,
+-
+8'340 fr. (huit mille trois cent quarante francs)
+avec intérêt à 5% l'an dès le 18 août 2011,
+-
+1'748 fr. 20 (mille sept cent quarante-huit francs
+et vingt centimes) avec intérêt à 5% l'an dès le 10 octobre 2011,
+-
+2'551 fr. 50 (deux mille cinq cent cinquante-et-un
+francs et cinquante centimes) avec intérêt à 5% l'an dès le 20 janvier 2012,
+-
+6'101 fr. 30 (six mille cent un francs et trente
+centimes) avec intérêt à (dix-huit mille sept cent quarante-et-un francs) avec intérêt
+à 5% dès le 10 mai 2012,
+-
+22'650 fr. (vingt-deux mille six cent cinquante
+francs) avec intérêt à 5% l'an dès le 6 août 2010,
+-
+10'000 fr. (dix mille francs) avec intérêt
+à 5% l'an dès le 19 juillet 2011,
+-
+10'000 fr. (dix mille francs) avec intérêt
+à 5% l'an dès le 12 décembre 2011.
+IV.
+Les frais de justice sont arrêtés à 5'000 fr. (cinq mille francs) pour les demanderesses,
+solidairement entre elles.
+V.
+Le défendeur versera aux demanderesses, solidairement entre elles, le montant de 12'750 fr.
+(douze mille sept cent cinquante francs) à titre de dépens et de restitution d'avance de frais.
+VI.
+Toutes autres ou plus amples conclusions sont rejetées.
+Le
+président :              Le greffier
+:
+P.
+Hack              A. Bourquin
+Du
+Le jugement qui précède, dont le dispositif a été communiqué aux parties le
+18 avril 2013, lu et approuvé à huis clos, est notifié, par l'envoi de photocopies, au
+conseil des demanderesses et au défendeur, personnellement.
+Le présent prononcé peut faire l’objet d’un recours en matière civile devant
+le Tribunal fédéral au sens des art. 72 ss et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral, RS 173.110), cas échéant d’un recours constitutionnel subsidiaire
+au sens des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
+A. Bourquin
