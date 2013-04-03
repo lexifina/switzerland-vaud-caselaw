@@ -1,0 +1,430 @@
+---
+decision_id: "vd_findinfo_S_questre___2013___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2013 / 4"
+decided: "2013-04-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3745195"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-275.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-348.md", "switzerland/bund/acts/291/art-176.md", "switzerland/bund/acts/291/art-190.md"]
+---
+
+# VD Findinfo Séquestre / 2013 / 4
+
+## Regeste
+
+SÉQUESTRE{LP}, TITRE DE MAINLEVÉE, SENTENCE ARBITRALE, CRÉANCE, PREUVE FACILITÉE, AYANT DROIT, EXIGIBILITÉ | 271 al. 1 ch. 6 LP, 272 al. 1 ch. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.04.2013 Séquestre / 2013 / 4
+
+SÉQUESTRE{LP}, TITRE DE MAINLEVÉE, SENTENCE ARBITRALE, CRÉANCE, PREUVE FACILITÉE, AYANT DROIT, EXIGIBILITÉ | 271 al. 1 ch. 6 LP, 272 al. 1 ch. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE12.033447-122212
+143
+Cour
+des poursuites et faillites
+________________________________________________
+Séance
+du 3 avril 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et Byrde
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 6 ; 272 al. 1 ch. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant en audience publique en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+S.________
+,
+à [...], contre le prononcé rendu le 10 octobre 2012, à la suite de l'audience du 4 octobre
+2012, par le Juge de paix du district de Nyon, rejetant l'opposition au séquestre formée par
+le recourant contre l'ordonnance de séquestre scellée le 3 août 2012 à l'instance
+d'
+O.________
+SA
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 30 juillet 2012, O.________ SA a saisi le Juge de paix du district de Nyon d'une requête de séquestre
+contre S.________. La requête est fondée sur l'art. 271 al. 1 ch. 6 LP, la cause de l'obligation
+indiquée est une sentence arbitrale du Tribunal Arbitral du Sport du 12 octobre 2011 et les biens
+à séquestrer, en mains de l'Union des associations européennes de football (ci-après
+: UEFA), dont le siège est à Nyon, sont désignés comme suit : "toute créance
+dont est titulaire S.________ à l’encontre de l’UEFA, à concurrence de
+-
+CHF 1'921'600 fr. plus intérêt à 5% l'an à partir du 9 mai 2010
+-
+CHF 210'175 fr. plus intérêt à 5% l'an à partir du 12 octobre 2011
+-
+CHF 36'142 fr. plus intérêt à 5% l'an à partir du 13 janvier 2012
+-
+CHF 15'000 fr. plus intérêt à 5% l'an à partir du 12 octobre 2011
+soit,
+une somme totale de CHF 2'182'917, plus les intérêts échus de CHF 223'999, soit, au 30
+juillet 2012, un montant total de CHF 2'406'916 fr., les créances susmen-tionnées continuant
+à porter intérêt à 5 % l'an à partir de leur date d'exigibilité respective".
+A l'appui de sa requête, O.________ SA a produit notamment les pièces suivantes :
+-
+copie d'une sentence arbitrale
+rendue le 12 octobre 2011 par le Tribunal Arbitral du Sport dans la cause CAS 2010/O/2136, condamnant
+S.________ à payer à O.________ SA :
+-               1'600'000 euros plus
+intérêts à 5 % l'an dès le 9 mai 2012 et 175'000 euros plus intérêt à
+5 % l'an dès notification de la sentence (1),
+-               les frais de la procédure,
+qui seront déterminés et communiqués aux parties par le Secrétaire général
+du Tribunal Arbitral du Sport (2),
+-
+15'000 fr. plus intérêt
+à 5 % l'an dès notification de la sentence (3),
+-
+copie d'une décision du 13 décembre 2011 émanant du Secrétaire général
+du Tribunal Arbitral du Sport fixant les frais de la cause CAS 2010/O/2136 à 36'142 francs, mis
+à la charge du S.________, payable dans un délai de trente jours.
+Le 3 août 2012, le Juge de paix du district de Nyon a ordonné le séquestre, en mains de
+l’UEFA, en faveur d'O.________ SA, à concurrence des montants réclamés dans la requête
+du 30 juillet 2012, de toute créance dont est titulaire S.________ à l’encontre de l’UEFA.
+Le cas de séquestre mentionné est celui de l’art. 271 ch. 6 LP. Le titre de la créance
+est la sentence arbitrale du 12 octobre 2011 du Tribunal Arbitral du Sport. Le juge de paix a fixé
+l'émolument de justice à 1'800 fr. et dispensé la créancière de fournir des
+sûretés.
+b)
+Le 20 août 2012, S.________ s’est opposé au séquestre, concluant avec suite de frais
+et dépens à l’annulation de l’ordonnance et à la levée du séquestre.
+A l'appui de son écriture, l'opposant a notamment produit les pièces suivantes :
+-
+copie d'un extrait du Règlement de l'UEFA Europa League Cycle 2012-2015, saison 2012/13.
+-
+copie d'un courrier que l'UEFA a adressé à l'Office des poursuites du district de Nyon le 8
+août 2012, de la teneur suivante :
+"(…)
+Suite
+à votre avis du 8 août dernier, nous avons immédiatement entrepris les démarches
+nécessaires pour que toutes les créances du S.________ (…) à l'encontre de l'UEFA
+soient retenues à concurrence de CHF 2'954'000.-.
+A
+ce jour, aucun fond n'est à disposition dudit club auprès de l'UEFA. Cela étant, un versement
+lié à sa participation à l'Europa League devrait intervenir à la fin du mois de novembre
+prochain, voire ultérieurement.
+Bien
+que le montant concerné ne soit pas connu à ce jour, il est peu probable qu'il permette de
+couvrir la totalité du séquestre. Nous ne manquerons pas de vous informer du montant exact
+à retenir aussitôt que celui-ci nous sera connu.
+(…)"
+Une audience s’est tenue en présence des parties le 4 octobre 2012. A cette occasion, la séquestrante
+a encore produit notamment :
+-
+un document intitulé
+"Distribution des revenus en UEFA Europa League", publié par l'UEFA le 9 août 2012
+sur son site officiel, et qui comporte le détail des revenus attendus et de la part distribuée
+aux clubs participants à l'événement pour la saison 2012/13,
+-
+le résultat des matchs
+de UEFA Europa League pour la période du 19 juillet 2012 au jour de l'audience,
+-
+les Statuts de l'UEFA.
+Par prononcé du 11 octobre 2012, le Juge de paix du district de Nyon a rejeté l’opposition
+au séquestre, confirmé l’ordonnance du 3 août 2012, arrêté à 1'800
+fr. les frais judiciaires, mis à la charge du requérant, et dit que celui-ci devait verser
+à l'intimée la somme de 6'000 fr. à titre de dépens. Les motifs de cette décision
+ont été adressés pour notification aux parties le 21 novembre 2012. L'opposant les a reçus
+le 22 novembre 2012.
+2.
+S.________ a recouru par acte du 3 décembre 2012, concluant, avec suite de frais et dépens,
+principalement à l’annulation du prononcé et à l’admission de l’opposition
+au séquestre, et, subsidiairement, à l’annulation du prononcé et au renvoi de la
+cause au premier juge pour qu'il statue à nouveau.
+L’intimée a répondu par acte du 12 décembre 2012, concluant, avec suite de frais
+et dépens, au rejet du recours, au maintien de l’ordonnance de séquestre et du séquestre
+lui-même. A l'appui de son écriture, elle a produit une pièce nouvelle.
+En droit
+:
+I.
+a)
+Le recours a été formé en temps utile, dans le délai de dix jours de l’art. 321
+al. 2 CPC (Code de procédure civile du 19 décembre 2008, entré en vigueur le 1
+er
+janvier 2011, RS 272), applicable par le renvoi de l’art. 278 aI. 3 LP (loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite, RS 281.1). Il est écrit et motivé,
+et contient des conclusions tendant à ce que l’opposition au séquestre soit admise, de
+sorte qu’il est recevable à la forme (art. 321 al. 1 CPC ; Reiser, Basler Kommentar, n. 40
+ad art. 321 CPC ; Freiburghaus/Afheldt, ZPO Kommentar, n. 14 ad art. 321 CPC ; sur l’exigence des
+conclusions au fond : cf. Jeandin, CPC commenté, n. 5 ad art. 321 CPC).
+b)
+En principe, en procédure de recours, les conclusions, les alléga-tions de faits et les preuves
+nouvelles sont irrecevables (art. 326 al. 1 CPC). En effet, le tribunal de deuxième instance doit
+statuer sur un état de fait identique à celui examiné par le premier juge. Cette règle,
+stricte, s’explique par le fait que l’instance de recours a pour mission de contrôler
+la conformité au droit de la décision entreprise, mais pas de poursuivre la procédure
+de première instance; à l’instar du Tribunal fédéral, l’instance de recours
+doit contrôler la juste application du droit à un état de fait arrêté définitivement
+(Chaix, Introduction au recours de la nouvelle procédure civile fédérale, in SJ 2009 Il
+257 ss, n. 17, p. 267). Cependant, l’art. 326 al. 2 CPC réserve les dispositions spéciales
+de la loi, ce qui vise non seulement les règles contenues dans le CPC, mais toute norme de droit
+fédéral. A ce titre, la loi fédérale sur la poursuite pour dettes et la faillite
+contient des règles spécifiques en relation avec le recours contre le jugement de faillite
+(art. 174 al. 1 et aI. 2 LP), avec la décision sur opposition à séquestre (art. 278 aI.
+3 LP) et avec le recours contre le jugement statuant sur la révocation du sursis extraordinaire
+(art. 348 al. 2 LP). Ainsi, l’art. 278 aI. 3, 2
+ème
+phrase LP prévoit explicitement que les parties peuvent alléguer des faits nouveaux. Cependant,
+ces faits nouveaux doivent s’être produits depuis la décision du premier juge. Seuls
+les vrais nova sont admissibles (Reiser, Basler Kommentar, n. 46 ad art. 278 LP et les références
+citées ; Bovey, La révision de la Convention de Lugano et le séquestre, in JT 2012 lI
+80 ss, p. 97 et les références citées à la note infrapaginale n. 99).
+En l'espèce, l'intimée au recours a produit une pièce nouvelle à l’appui de
+sa réponse, savoir un extrait du site officiel de l’UEFA Europa League, indiquant les résultats
+des matchs qui se sont déroulés du 19 juillet au 6 décembre 2012. Une pièce analogue
+a déjà été produite en première instance mais, par la force des choses, elle
+n’indiquait que les résultats des matchs déjà joués à la date et à
+l’heure de l'audience du 4 octobre 2012. On peut se demander si le résultat des matchs de
+l’Europa League n’est pas un fait notoire dans la mesure où tout un chacun a la possibilité
+de les consulter sur internet. Quoi qu'il en soit, la pièce nouvelle est recevable en l’espèce
+puisqu’elle concerne des faits – soit des résultats de rencontres – postérieurs
+à la procédure de première instance.
+c)
+Alors que le juge du séquestre rend son
+ordonnance sans avoir entendu la partie adverse, l'opposition a pour but l'examen ultérieur, en
+contradic-toire, de toutes les conditions du séquestre. Le pouvoir d'examen du juge n'est pas plus
+étendu que celui qu'il avait lorsqu'il a statué unilatéralement sur la requête de
+séquestre, mais le point de vue défendu par l'opposant et les preuves déposées devant
+lui doivent lui permettre de reconsidérer tout ou partie de sa décision après une information
+plus complète (Reeb, op. cit., p. 478 ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 70 ad art. 278 LP).
+Le recours contre la décision du juge statuant
+sur une opposition au séquestre est dévolutif (Gilliéron, op. cit., n. 82 ad art. 278
+LP). L'autorité de recours statue uniquement sous l'angle de la vraisemblance des conditions du
+séquestre (Reeb, op. cit., p. 482 et les auteurs cités à la note infrapaginale n. 393).
+II.
+a)
+Aux termes de l'art. 272 al. 1 LP, le
+séquestre est autorisé par le juge compétent lorsque le créancier rend vraisemblable
+que sa créance existe
+(ch. 1), qu'on
+est en présence d'un cas de séquestre (ch. 2) et qu'il existe des biens appartenant au débiteur
+(ch. 3).
+Lorsque la loi n'exige que la simple vraisemblance, il suffit que le juge, dans son libre examen, aboutisse
+à la conviction que le fait invoqué correspond, avec une probabilité suffisante, aux allégations
+de la partie, sans qu'il doive nécessairement être convaincu de son exactitude ou que toute
+autre solution paraisse exclue (ATF 120 II 393, JT 1995 I 571 ; Hohl, Procédure civile, tome II,
+nn. 2758 ss, p. 225 ; Reeb, Les mesures provisoires dans la procédure de poursuite, in RDS 1997
+II, pp. 465-466).
+b)
+Les cas de séquestre sont énumérés à l'art. 271 al. 1 LP. Selon le ch. 6 de
+cette disposition, le créancier d’une dette échue et non garantie par gage peut requérir
+le séquestre des biens du débiteur qui se trouvent en Suisse lorsqu'il possède contre
+le débiteur un titre de mainlevée définitive.
+Constituent un tel titre les jugements exécutoires, y compris ceux de première instance déclarés
+exécutoires, nonobstant appel, les transactions ou reconnaissances passées en justice, les
+titres authentiques exécutoires et les décisions des autorités administratives suisses,
+ainsi que les sentences rendues par un tribunal arbitral dont le siège est en Suisse ou à l’étranger
+(Bovey, op. cit., pp. 84-85 et les références citées aux notes infrapaginales nn. 26 à
+34). Le juge du séquestre doit ainsi vérifier, prima facie, que la décision ou le titre
+invoqué est exécutoire ; cet examen s’effectue notamment en regard de l’autorité
+dont émane la décision (Bovey, op. cit., p. 86 et la référence citée à
+la note infrapaginale n. 35).
+Est en particulier
+exécutoire la décision qui est entrée en force de chose jugée et dont le caractère
+exécutoire n’a pas été suspendu (Hohl, procédure civile, T. II, n. 3219).
+Contrairement aux cas de séquestre prévus aux ch. 1 à 5 de l’art. 271 al. 1 LP,
+point n’est besoin, dans le cas du ch. 6, que le séquestrant rende vrai-semblable l’existence
+de sa créance, car cette vraisemblance découle directement du titre produit.
+En l'espèce, le titre invoqué est une sentence arbitrale rendue le
+12
+octobre 2011 par le Tribunal Arbitral du Sport. Il s’agit d’un arbitrage international au
+sens des art. 176 ss LDIP (Loi fédérale du 18 décembre 1987 sur le droit international
+privé, RS 291). En cette matière, la sentence est définitive dès sa communication
+(art. 190 al. 1 LDIP) et le recours, limité aux motifs de l'art. 190 al. 2 LDIP, n'est ouvert que
+devant le Tribunal fédéral (191 LDIP). Le recourant ne conteste pas avoir reçu la sentence
+du 12 octobre 2011, ni la décision sur les frais rendue conformément au chiffre 2 de son dispositif,
+par le Secrétaire général du Tribunal Arbitral du Sport, le 13 décembre 2011. La
+sentence n'a pas fait l'objet d'un recours et rien n'indique que son exécution aurait été
+suspendue. Les montants indiqués dans la requête de séquestre sont ceux qui figurent dans
+la sentence et la décision sur les frais et les montants libellés en euros ont été
+convertis en francs suisses (au taux officiel en vigueur au 30 juillet 2012, date du dépôt
+de la requête de séquestre, diffusé sur le site xtop.com, soit 1.201 francs suisses pour
+1 euro). Ces points ne sont d'ailleurs pas contestés.
+La sentence produite – définitive et exécutoire – constitue ainsi un titre de mainlevée
+définitive. On est donc bien en présence d'un cas de séquestre – celui de l'art.
+271 al. 1 ch. 6 LP – et la vraisemblable de l’existence de la créance découle directement
+du titre produit. Les conditions posées par les ch. 1 et 2 de l'art. 272 LP sont ainsi réalisées.
+c)
+Le créancier séquestrant
+doit encore rendre vraisemblable l'exis-tence de biens appartenant au débiteur. Seuls des biens
+patrimoniaux qui pourront par la suite être saisis peuvent faire l'objet d'un séquestre, les
+art. 91 à 109 LP s'appliquant par analogie à l'exécution du séquestre (art. 275 LP).
+Les biens séquestrés doivent donc être saisissables au sens des art. 92 ss LP. Tel est
+le cas des créances (art. 95 LP) – qui sont saisies en priorité, même si elles sont
+relativement saisissables au sens de l'article 93 LP – qui présentent une valeur patrimoniale
+(Gilliéron, op. cit., n. 32 ad art. 95 LP ; Stoffel/Chabloz, op. cit., n. 36 ad art. 271 LP). Le
+séquestre peut porter sur une créance non encore exigible, voire contestée ou soumise
+à une condition suspensive (Gottrau, Commentaire romand,
+n.
+12 ad art. 95 LP ; Foëx, Commentaire bâlois, n. 17 ad art. 95 LP).
+En
+revanche, de simples expectatives ne peuvent être saisies, pas plus que des créances éventuelles
+et non déterminables (Stoffel/Chabloz, op. cit., nn. 25-26 ad art. 275 LP ; Gottrau, op. cit., nn.
+11 ss ad art. 95 LP). La créance doit être désignée avec suffisamment de précision ;
+un séquestre générique est toutefois possible (Stoffel/ Chabloz, op. cit.,
+n.
+29 ad art. 272 LP).
+En l'espèce, l'intimée a requis le séquestre de "toute
+créance
+dont est titulaire S.________ à l’encontre de l’UEFA". Il s'agit, dans les faits,
+des revenus découlant de la participation dudit Club à l’UEFA Europa League 2012/2013
+.
+L'intimée doit donc établir – au stade de la vraisemblance – que cette créance
+existe et que
+S.________
+,
+débiteur séquestré, en est bien le titulaire.
+aa)
+Dans un premier moyen, le recourant soutient qu’au jour de la requête de séquestre, il
+ne détenait aucune créance à l’encontre de l’UEFA, dès lors qu'aucun
+droit à la redistribution des bénéfices dans le cadre de l’UEFA Europa League 2012/2013
+– donc aucune créance – ne naîtrait avant le terme de la compétition ou à
+tout le moins avant l'aboutissement de la phase de groupes qui s’achevait à la fin du mois
+de novembre 2012. Elle en veut pour preuve la lettre de l’UEFA à l’office des poursuites
+du 8 août 2012, indiquant qu’à cette date, cette dernière ne disposait d’aucun
+fond en faveur du recourant.
+Le 9 août 2012, l’UEFA a publié le détail des revenus à distribuer aux clubs
+participant à l’UEFA Europa League 2012/2013. Il en résulte que près de 75% du revenu
+commercial brut seront reversés aux clubs, de la manière suivante : chaque club disputant le
+premier et/ou le deuxième et/ ou le troisième tour(s) de qualification de l’UEFA Europa
+League obtiendra 100'000 euros par tour, même s’il se qualifie pour la phase de groupes ;
+chaque équipe éliminée en barrage se verra attribuer 100'000 euros ; chaque club participant
+à la phase de groupes se verra attribuer 200'000 euros pour une victoire et 100'000 euros pour un
+match nul ; un bonus de qualification viendra récompenser les clubs qualifiés en seizième
+de finale : les douze vainqueurs de groupes toucheront 400'000 euros et les deuxièmes 200'000 euros.
+Il ressort des pièces produites que S.________ a participé au premier, puis au deuxième
+et troisième tours des qualifications du
+19
+juillet au 9 août 2012, puis aux matchs de barrages les 23 et 30 août 2012 et, dès le
+20 septembre 2012, à la phase de groupes. Dans cette phase, entre le
+20
+septembre 2012 et le 6 décembre 2012, le club a gagné trois matchs, perdu deux matchs et joué
+un match nul. Il en découle qu'à ce stade de la compétition, ses gains se montent à
+un million d’euros (300'000 + 600'000 + 100'000 euros). De fait, cette créance est née.
+Certes, au jour de la décision de première instance, une partie de cette créance était
+subordonnée à une condition suspensive, comme le sont d'ailleurs aujourd’hui les créances
+qui dépendent de la progression du club dans la compétition. Il n'en demeure pas moins que
+la créance existe et, même si elle n'était pas exigible au jour de la requête de
+séquestre, elle est saisissable et peut faire l'objet d'un séquestre.
+Ce premier grief est donc mal fondé.
+bb)
+Dans un deuxième moyen, le recourant conteste que les clubs engagés dans la compétition
+puissent être considérés comme les créanciers de l’UEFA. Il plaide que d’un
+point de vue structurel et financier, il n’y a pas de rapport direct entre les clubs et l’UEFA.
+Il invoque l’art. 27.10 du Règlement de l’UEFA Europa League Cycle 2012-2015, saison
+2012/13, et le fait que seules les associa-tions nationales sont membres de l’UEFA.
+En vertu de l’art. 5 des Statuts de l’UEFA, ce sont en effet les associa-tions nationales
+européennes, et non les clubs, qui sont membres de l’UEFA. Toutefois, en vertu de l’art.
+50 desdits Statuts, les associations et leurs clubs s’obligent, en cas d’inscription à
+une compétition de l’UEFA, à respecter les statuts, les règlements et les autres
+décisions des organes compétents. Selon l’art. 4 du Règlement de l’UEFA Europa
+League Cycle 2012-2015, saison 2012/13, lors de leur inscription à la compétition, les clubs
+prennent un certain nombre d’engagements, en particulier celui de respecter toutes les décisions
+relatives à la compétition prises par l’organe compétent de l’UEFA. L’art.
+27.10 du Règlement précité dispose que "tous les versements destinés aux clubs
+sont effectués en euros sur le compte de leur association respective. Il appartient à chaque
+club de coordonner le transfert des paiements en question depuis le compte de l’association sur
+son propre compte." L’art. 27.11 dispose quant à lui que "sauf autorisation écrite
+de l’UEFA, aucun club n’est autorisé à attribuer à un tiers les bénéfices
+de sa participation à l’UEFA Europa League.". Ces dispositions attestent que même
+si ce ne sont pas les clubs qui sont membres de l’UEFA, il existe entre ces derniers un rapport
+de droits et d’obligations. Quant aux art. 27.10 et 27.11 du Règlement de la compétition,
+ils établissent que ce sont les clubs qui sont créanciers des paiements de l’UEFA.
+Dans sa lettre du 8 août 2012 à l’office des poursuites, l’UEFA a d’ailleurs
+déclaré avoir entrepris toutes les démarches afin que soient retenues "toutes les
+créances du S.________ (…) à l'encontre de l'UEFA".
+Ce deuxième grief est donc également mal fondé.
+cc)
+Le recourant fait encore valoir que les associations nationales conservent la possibilité d’opérer,
+le cas échéant, des retenues sur les montants versés par l’UEFA pour le cas où
+elles seraient elles-mêmes créancières des clubs, ce qui rendraient les montants finalement
+versés à ces derniers indéterminés et indéterminables.
+Le fait que dans le cadre de relations internes, un club puisse devoir certains montants à l’association
+nationale à laquelle il appartient et qu’une compensation s’opère à l’occasion
+d’un versement destiné au club n’enlève rien à l'existence de la créance
+ni à la qualité de créancier du club vis-à-vis de l’UEFA. Par ailleurs, les
+retenus invoqués sont purement hypothétiques et aucun élément du dossier de permet
+d'en tenir compte.
+Ce troisième grief est donc également sans pertinence.
+dd)
+Au vu de ce qui précède, il y a lieu d'admettre que la vraisemblable de l’existence
+de
+biens appartenant au débiteur – soit la titularité de ce dernier d'une créance à
+l'égard
+de l’UEFA – est démontrée.
+La condition posées par l'art. 272 ch. 3 LP est ainsi réalisée.
+IV.
+Le recours doit en conséquence être rejeté et la décision attaquée confirmée.
+Les frais de deuxième instance, par 2'250 fr., sont mis à la charge du recourant.
+L’intimée, qui obtient gain de cause et qui est assistée d’un avocat, a droit à
+des dépens arrêtés à 3'000 francs (art. 8 TDCA).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+en audience publique en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'250 fr. (deux mille deux
+cents cinquante francs), sont mis à la charge du recourant.
+IV.
+Le recourant S.________ doit verser à l'intimée O.________ SA la somme de 3'000 fr. (trois
+mille francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+3 avril 2013
+L'arrêt qui précède, dont la rédaction
+a été approuvée à huis clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies,
+à :
+‑
+Me Olivier Rodondi, avocat (pour S.________),
+‑
+Me Antonio Rigozzi, avocat (pour O.________ SA),
+-
+M. le Préposé à l'Office des poursuites du district de Nyon.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 2'182'917 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+La greffière :
