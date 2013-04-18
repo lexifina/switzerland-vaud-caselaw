@@ -1,0 +1,209 @@
+---
+decision_id: "vd_findinfo_D_cision___2013___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2013 / 30"
+decided: "2013-04-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3787188"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2013 / 30
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE, VICE DE FORME | 385 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.04.2013 Décision / 2013 / 30
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE, VICE DE FORME | 385 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+234
+PE11.005365-DMT/JLA
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 18 avril 2013
+__________________
+Présidence
+de               M.
+Abrecht
+,
+vice-président
+Juges
+:              M.
+Creux et Mme Byrde
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+385, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours déposé
+par
+X.________
+contre le prononcé rendu le 25 octobre 2012 par le Président du Tribunal de l’arrondissement
+de La Côte
+(enquête
+n° PE11.005365-JLA)
+.
+Elle considère :
+En fait :
+A.
+a)
+Par ordonnance pénale du 12 juin 2012, le Ministère public de l’arrondissement de La
+Côte a condamné X.________ à une peine pécuniaire de cent quarante jours-amende à
+30 fr. le jour, avec sursis pendant deux ans, pour vol est abus de confiance.
+b)
+Le 16 juillet 2012, le Ministère public de
+l’arrondissement de La Côte a reçu en retour le courrier qui contenait l'ordonnance notifiée
+au domicile du condamné en France. Conformément à la pratique, la décision a été
+réexpédiée le même jour par pli prioritaire à la même adresse.
+c)
+Par courrier du 14 août 2012 (annexe à
+la P. 13), reçu au greffe du Ministère public de l’arrondissement de La Côte le
+17 août 2012, X.________ a déclaré faire opposition à l'ordonnance pénale du
+12 juin 2012.
+d)
+Par courrier du 3 octobre 2012 (P. 13), le Procureur
+de l'arrondissement de La Côte a transmis le dossier au Tribunal de l’arrondissement de La
+Côte, considérant que l'opposition était tardive.
+B.
+Par prononcé du 25 octobre 2012, le Président
+du Tribunal de l’arrondissement de La Côte a déclaré irrecevable l'opposition à
+l'ordonnance pénale du 12 juin 2012 formée le 14 août 2012 par X.________ (I) et a dit
+que l'ordonnance pénale rendue le 12 juin 2012 était exécutoire (II).
+Cette décision a été notifiée à l'intéressé, sous pli recommandé,
+à son adresse en France. Elle a été réceptionnée le 6 novembre 2012.
+C.
+Par courrier du 12 novembre 2012 (P. 15), remis
+à la Poste suisse le 13 novembre 2012, X.________ a déclaré recourir contre "l'ordonnance
+pénale rendue le 12 juin 2012 par le tribunal d'arrondissement de la côte (sic)". Il exposait
+notamment qu'il avait été malade et qu'il n'avait donc pas pu respecter le délai de dix
+jours qui lui avait été accordé pour faire recours. Pour le surplus, il "clam[ait]
+[s]on innocence", soutenant avoir été condamné à tort pour vol et abus de confiance.
+b)
+Par courrier recommandé du 3 décembre
+2012 (P. 16), le Président de la Chambre des recours pénale a accusé réception du
+recours déposé le 13 novembre 2012 par X.________ et, constatant que cet acte ne répondait
+pas aux exigences de motivation de l'art. 385 al. 1 CPP (Code de procédure pénale suisse du
+5 octobre 2007; RS 312.0), a imparti au prénommé un délai au 13 décembre 2012 pour
+le compléter (art. 385 al. 2 CPP). Ce courrier précisait qu'à défaut de complément,
+le recours pourrait être tenu pour irrecevable et que des frais pourraient être mis à
+la charge de son auteur.
+Selon le suivi "Track and Trace" de la Poste, ce courrier, envoyé sous pli recommandé
+le 3 décembre 2012, a été distribué à X.________ le 19 décembre 2012.
+c)
+Par courrier non daté, remis à la Poste
+suisse le 9 janvier 2013, X.________ s'est excusé "par rapport à la date de recours qui
+est de 10 jours", exposant que cela était dû au fait qu'il n'avait pas les moyens de prendre
+un avocat et invoquant sa méconnaissance des procédures juridiques. Pour le surplus, il a indiqué
+contester l'ordonnance pénale du 12 juin 2012 et a exposé les motifs qui commanderaient, selon
+lui, une autre décision concernant les accusations de vol et d'abus de confiance.
+En droit :
+1.
+Aux termes de l’art. 393 al. 1 let. b CPP,
+le recours est recevable contre les ordonnances, les décisions et les actes de procédure des
+tribunaux de première instance, sauf contre ceux de la direction de la procédure. Le prononcé
+par lequel un tribunal de première instance, statuant sur la validité de l’opposition
+formée par le prévenu contre une ordonnance de condamnation rendue par le Ministère public
+(cf. art. 356 al. 2 CPP), déclare l’opposition irrecevable, par exemple pour cause de tardiveté,
+est ainsi susceptible de recours selon les art. 393 ss CPP (CREP du 13 février 2012/160; Gilliéron/Killias,
+in:
+Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+n. 5 ad art. 356 CPP; Riklin, in: Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische
+Strafprozess-ordnung, Jugendstrafprozessordnung, Bâle 2011, n. 2 ad art. 356 CPP).
+Ce recours s’exerce par écrit, dans un délai de dix jours dès la notification de
+la décision attaquée (cf. art. 384 let. b CPP), auprès de l’autorité de recours
+(cf. art. 20 al. 1 let. b et 396 al. 1 CPP), qui, dans le canton de Vaud, est la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [Loi d'introduction du Code de procédure pénale
+suisse du 19 mai 2009, RSV 312.01] ; art. 80 LOJV [Loi d'organisation judiciaire du 12 décembre
+1979, RSV 173.01]).
+2.
+a)
+D'après l'art. 385 al. 1 CPP, si le code de procédure pénale suisse exige que le recours
+soit motivé, le recourant doit indiquer les points qu'il attaque (let. a), les motifs qui commandent
+une autre décision (let. b) et les moyens de preuve qu'il invoque (let. c). Si le mémoire ne
+satisfait pas à ces exigences, l’autorité de recours le renvoie au recourant pour qu’il
+le complète dans un bref délai. Si, après l’expiration de ce délai supplémentaire,
+le mémoire ne satisfait toujours pas à ces exigences, l’autorité de recours n’entre
+pas en matière (art. 385 al. 2 CPP).
+D'après l'art. 396 al. 1 CPP, le recours contre les décisions notifiées par écrit
+est motivé.
+b)
+En l’espèce, X.________ a déclaré
+en temps utile recourir contre le prononcé rendu le 25 octobre 2012 par le Président du Tribunal
+de l’arrondissement de La Côte. Par courrier du 3 décembre 2012, il a toutefois été
+informé du fait que son mémoire de recours ne satisfaisait pas aux exigences de forme prévues
+à l'art. 385 al. 1 CPP et un délai au 13 décembre 2012, soit un délai de dix jours,
+lui a été imparti pour y remédier. Pour des raisons qui ne sont pas imputables au recourant,
+celui-ci n'a eu connaissance du courrier du 3 décembre 2012 que le 19 décembre 2012, soit après
+l'échéance du délai au 13 décembre 2012 qui lui était imparti. Dès lors,
+la bonne foi commande d'admettre que le délai de dix jours imparti par courrier du 3 décembre
+2012 n'a commencé à courir qu'à réception du pli par le recourant, soit le 19 décembre
+2012. Ainsi, le délai est-il échu depuis le 2 janvier 2013, compte tenu du fait que le 29 décembre
+tombait un samedi et des jours fériés de fin d'année (art. 90 al. 2 CPP). Au vu de ces
+éléments, l'acte posté le 9 janvier 2013 est donc manifestement tardif.
+En définitive, il y a lieu de constater qu'à l'expiration du délai de
+l'art.
+385 al. 2 CPP, le recours de X.________ ne satisfait toujours pas aux exigences de motivation prévues
+par l'art. 385 al. 1 CPP. En effet, le recourant n'indique pas en quoi le prononcé du 25 octobre
+2012 serait contraire au droit ou inopportun. En particulier, il ne précise pas pour quelles raisons
+son opposition du 14 août 2012 ne serait pas tardive. Certes, le recourant développe une argumentation,
+mais celle-ci est uniquement dirigée contre l'ordonnance pénale du 12 juin 2012. Dans ces conditions,
+il ne sera donc pas entré en matière sur le recours (art. 385 al. 2
+in
+fine
+CPP).
+3.
+Il résulte de ce qui précède que le recours doit être déclaré irrecevable,
+sans autre échange d’écritures (art. 390 al. 2 CPP), le prononcé rendu le 25 octobre
+2012 par le Président du Tribunal de l’arrondissement de La Côte étant ainsi maintenu.
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt
+(art. 422 al. 1 CPP), par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux du 28
+septembre 2010, RSV 312.03.1]), seront mis à la charge de X.________ qui succombe (art. 428 al.
+1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais du présent arrêt, par 550 fr. (cinq cent cinquante francs), sont mis à la charge
+de X.________.
+III.
+Le présent arrêt est exécutoire.
+Le
+vice-président:               La
+greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. X.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal de l’arrondissement de La Côte,
+-
+M. le Procureur de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
