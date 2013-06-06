@@ -1,0 +1,172 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2013___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2013 / 4"
+decided: "2013-06-06"
+published: "2013-07-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4292717"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2013 / 4
+
+## Regeste
+
+ÉLECTION{DROITS POLITIQUES}, DÉCISION D'IRRECEVABILITÉ | 16 LOJV, 23 LOJV
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 09.07.2013 Réc-administrative / 2013 / 4
+Vaud Tribunal cantonal Cour administrative 09.07.2013 Réc-administrative / 2013 / 4
+Vaud Tribunal cantonal Cour administrative 09.07.2013 Réc-administrative / 2013 / 4
+
+ÉLECTION{DROITS POLITIQUES}, DÉCISION D'IRRECEVABILITÉ | 16 LOJV, 23 LOJV
+
+TRIBUNAL
+CANTONAL
+AC.2013.0080
+AC.2013.0124
+19/2013
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Du 9 juillet
+2013
+_____________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffier
+:              Mme
+Boryszewski
+*****
+Art.
+9 al. 1 LPA-VD
+Vu les recours déposés auprès de la Cour de droit administratif et public du Tribunal
+cantonal (ci-après : CDAP) le 31 janvier 2013 respectivement par B.V.________ et A.V.________ d'une
+part, et par [...] et [...] d’autre part, contre la décision rendue par la Municipalité
+de [...] (ci-après : la Municipalité) le 20 décembre 2012 levant leur opposition et autorisant
+la construction d’un mur de soutènement le long de la limite sud-ouest de la parcelle n° [...],
+propriété de A.M.________ et B.M.________ (cause AC.2013.0080, ci-après : cause I),
+vu le recours déposé auprès de la CDAP le même jour par B.V.________ et A.V.________
+contre la décision rendue par la Municipalité le 20 décembre 2012, autorisant la
+construction d’un cabanon de jardin contre la façade nord-est de la villa érigée
+sur la parcelle n° [...], propriété de A.M.________ et B.M.________ (cause AC.2013.0124,
+ci-après : cause II),
+vu le dossier de ces causes instruites par le juge cantonal [...],
+vu les avis du 29 mai 2013 du juge instructeur de la CDAP dans les causes I et II adressés à
+A.M.________ et B.M.________ informant ces derniers de l’élection par le Grand conseil, au
+printemps 2013, de A.V.________ en qualité de juge assesseur auprès de la CDAP, de son assermentation
+le 16 mai 2013, et du fait qu’il n’a pas encore fonctionné en qualité
+d’assesseur et ne sera pas appelé à fonctionner durant la durée la procédure
+- ces circonstances ne constituant dès lors pas un motif de récusation au sens de l’art.
+9 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative; RSV 173.36) - et leur impartissant
+un délai au 10 juin 2013 pour se déterminer sur la question d’une éventuelle récusation,
+vu les courriers des 31 mai et 5 juin 2013 de A.M.________ et B.M.________ dans la cause II,
+vu la "demande de récusation" du 6 juin 2013 de A.V.________ "en tant qu’assesseur
+nommé auprès de la CDAP", présentée par A.M.________ et B.M.________ (ci-après :
+demandeurs) dans les causes I et II,
+vu les déterminations du 10 juin 2013 du conseil de la Municipalité, par lesquelles il conclut
+au rejet de la demande,
+vu les déterminations du 10 juin 2013 du conseil de B.V.________ et A.V.________, par lesquelles
+il déclare partager l’avis de la CDAP,
+vu l’avis du 11 juin 2013 de la présidente de la CDAP annexant la liste des juges appelés
+à juger les causes I et II, savoir trois juges professionnels, [...], [...] et [...] et informant
+les parties que, sauf avis contraire des demandeurs tendant au maintien de leur demande, celle-ci serait
+classée sans plus ample suite,
+vu le courrier du 20 juin 2013 de A.M.________ et B.M.________ confirmant que leur demande a bien pour
+objet la "récusation de M. A.V.________ de toute fonction auprès de la CDAP",
+vu l’avis du 25 juin 2013 de la Présidente de la CDAP à la cour de céans transmettant
+notamment la demande déposée par A.M.________ et B.M.________,
+vu le courrier du 1
+er
+juillet 2012 (recte : 2013) du conseil de B.V.________ et A.V.________,
+vu les pièces au dossier;
+attendu que selon l’art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+qu’en l’espèce, il ressort des différents échanges de courriers avec les demandeurs
+que ces derniers ont manifestement saisi que A.V.________ n’a pas encore fonctionné en qualité
+d’assesseur et ne sera pas appelé à statuer dans la section du Tribunal qui sera amenée
+à juger les dossiers le concernant, soit les causes I et II,
+qu’ils ne demandent donc pas sa récusation,
+que, dès lors, les art. 9 à 12 LPA-VD ne sont pas applicables au cas d'espèce;
+attendu qu’au vu de la formulation de leur demande, soit la récusation de A.V.________ "en
+tant qu’assesseur nommé auprès de la CDAP" et la "récusation de M. A.V.________
+de toute fonction auprès de la CDAP", les demandeurs contestent en réalité le principe
+même de son élection par le Grand conseil, au printemps 2013, en tant que juge assesseur auprès
+de la CDAP,
+qu’à l’appui de leur demande, ils semblent faire valoir que A.V.________ aurait manipulé
+des mesures géométriques effectuées le 3 mars 2009 sur la parcelle n° [...], sise
+dans la commune de [...], et faisant l’objet d’un rapport daté du 9 mars 2009,
+que ledit rapport, déjà requis dans le cadre d’une procédure antérieure, le
+serait une nouvelle fois dans les causes I et II,
+que, de surcroît, leur plainte pénale du 6 janvier 2012, déposée notamment contre
+B.V.________ et A.V.________ pour diffamation et injures, aurait pour conséquence que ce dernier
+serait "impliqué dans le cas de collusion avec un membre de l’ex-Municipalité de
+[...]",
+qu’on ne voit guère sur quelle disposition légale, les demandeurs, en tant qu’administrés,
+pourraient se fonder pour contester l’élection par le Grand conseil d’un juge assesseur
+auprès de la CDAP (art. 16 ss LOJV, spéc. art. 23 LOJV [Loi d’organisation judiciaire
+du 12 décembre 1979; RSV 173.01]),
+qu’il n’appartient pas à la cour de céans de statuer sur une telle contestation,
+qu’en de pareilles circonstances, la demande déposée par A.M.________ et B.M.________
+le 6 juin 2013 doit être déclarée irrecevable,
+que l’examen des griefs des demandeurs est par conséquent inutile;
+attendu que la présente décision peut être rendue sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation de A.V.________, présentée, le 6 juin 2013, par A.M.________
+et B.M.________ dans la cause AC.2013.0080, est irrecevable.
+II.
+La demande de récusation de A.V.________, présentée, le 6 juin 2013, par A.M.________
+et B.M.________ dans la cause AC.2013.0124, est irrecevable.
+III.
+Le présent arrêt est rendu sans frais.
+IV.
+Il n'est pas alloué de dépens.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- A.M.________ et B.M.________, personnellement,
+- Me Blanchard, avocat à Lausanne, pour B.V.________ et A.V.________,
+et communiqué par l'envoi de photocopies à :
+- Me Nicole, avocat à Yverdon-les-Bains, pour la Municipalité de [...],
+- [...] et [...], personnellement.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF
+(art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
