@@ -1,0 +1,375 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 16"
+decided: "2013-06-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3854937"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-137.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-125.md", "switzerland/bund/acts/281.1/art-132a.md", "switzerland/bund/acts/281.1/art-134.md", "switzerland/bund/acts/281.1/art-140.md", "switzerland/bund/acts/281.1/art-156.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 16
+
+## Regeste
+
+PLAINTE{LP}, CONDITIONS DES ENCHÈRES, ÉTAT DES CHARGES, POURSUITE EN RÉALISATION DE GAGE, GAGE IMMOBILIER, VENTE AUX ENCHÈRES FORCÉES, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 132a al. 1 LP, 17 LP, 18 al. 1 LP, 17 LVLP, 21 al. 2 LVLP, 27 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.06.2013 Plainte / 2013 / 16
+
+PLAINTE{LP}, CONDITIONS DES ENCHÈRES, ÉTAT DES CHARGES, POURSUITE EN RÉALISATION DE GAGE, GAGE IMMOBILIER, VENTE AUX ENCHÈRES FORCÉES, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 132a al. 1 LP, 17 LP, 18 al. 1 LP, 17 LVLP, 21 al. 2 LVLP, 27 al. 1 LVLP
+
+TRIBUNAL
+CANTONAL
+FA12.050224-130550
+18
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 juin 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et Byrde
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17, 18 al. 1 et 132a al. 1 LP; 29 al. 2 Cst.; 17, 21 al. 2 et 27 al. 1 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur les recours interjetés
+par
+X.________
+,
+à Orbe, contre la décision rendue le 1
+er
+mars
+2013, à la suite de l’audience du 12 février 2013, par le Président du Tribunal
+d’arrondissement de La Broye et du Nord vaudois, autorité inférieure de surveillance,
+rejetant la plainte déposée par le recourant contre la réalisation forcée par vente
+aux enchères de son immeuble intervenue dans le cadre de la poursuite en réalisation de gage
+immobilier n° (1900) 801'404 de l'
+Office
+des poursuites du district du Jura - Nord vaudois
+exercée contre lui à l'instance de la
+Banque
+Z.________
+, à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Dans le cadre de la poursuite en réalisation de gage immobilier n° (1900) 801'404 de l’Office
+des poursuites du district du Jura - Nord vaudois (ci-après : l’office), exercée à
+l’instance de la Banque Z.________ contre X.________, l'office a adressé au poursuivi, par
+courrier recommandé du 28 juin 2012, un exemplaire de la publication de la vente aux enchères
+de son immeuble, parcelle RF [...] de la commune d’Orbe. Selon cette publication, la vente était
+fixée au 19 octobre 2012 et les conditions de vente et l’état des charges seraient déposés
+à partir du 24 août 2012 à l'office, où ils pourraient être consultés.
+Par décision du 19 juillet 2012, le Président du Tribunal d'arrondissement de La Broye et du
+Nord vaudois a accordé à X.________, "dans la cause en plainte 17 LP, qui l'oppose à
+l'Office des poursuites du district du Jura - Nord vaudois", le bénéfice de l’assistance
+judiciaire, incluant l’assistance d’un avocat en la personne de Me Yves Nicole, avec effet
+au 30 juin 2012. Cette décision a été communiquée à X.________, par l’intermédiaire
+de son conseil, et au Service juridique et législatif.
+Par pli recommandé du 23 août 2012 adressé au poursuivi personnellement, l’office
+lui a communiqué les conditions de la vente aux enchères et l’état des charges de
+l’immeuble. Par lettre recommandée du 30 août 2012, faisant suite à une correspondance
+du poursuivi du 25 août 2012, l’office l'a informé qu’il n’avait pas connaissance
+de la désignation d’un avocat d’office, n’ayant pas reçu copie de la décision
+rendue en ce sens, et l'a invité à transmettre à son conseil l’envoi précité
+du 23 août 2012. Par lettre du 1
+er
+septembre 2012, à laquelle il a joint une copie de la décision d'octroi de l'assistance judiciaire
+du 19 juillet 2012, le poursuivi a déclaré contester "l’entier de la communication
+des charges et la visite officielle du 21 septembre 2012".
+Le 3 septembre 2012, l’office a écrit au conseil d’office du poursuivi, déclarant
+n’avoir pas eu connaissance de son mandat d’office ni du fait qu’une plainte serait
+pendante concernant la vente de la parcelle RF [...] d’Orbe fixée au 19 octobre 2012.
+Par ce même courrier, l’office a notifié au conseil du poursuivi l’avis de fixation
+du délai pour ouvrir action en contestation de l’état des charges et lui a transmis l’état
+des charges qui avait été notifié au débiteur le 23 août 2012.
+Par lettre à l’office du 18 octobre 2012, le poursuivi a exposé que les conditions adéquates
+pour la vente de son immeuble n’étaient pas réunies et qu’il contesterait l’attribution
+de celui-ci. L’office lui a répondu, par lettre du 22 octobre 2012 avec copie à
+son conseil d'office, que les conditions de vente étaient passées en force depuis le 4 septembre
+2012, que les enchérisseurs A.W.________ et B.W.________ remplissaient ces conditions et que l’immeuble
+leur avait été adjugé, en copropriété chacun pour une demie, pour le prix de
+451'000 francs.
+Par lettre du 23 octobre 2012, avec copie à son avocat et au président du Tribunal d'arrondissement
+de La Broye et du Nord vaudois, le poursuivi a reproché à l’office de ne pas avoir respecté
+la décision du président du 19 juillet 2012 lui désignant un conseil d’office et
+d’avoir de ce fait empêché que son conseil puisse réagir dans les délais à
+la communication des conditions de vente et de l'état des charges du 23 août 2012, raison pour
+laquelle il était, selon lui, faux d’affirmer que les conditions de vente étaient passées
+en force. Il en déduisait que la vente aux enchères du 19 octobre 2012 était nulle
+et sans objet.
+b)
+Par lettre du 24 octobre 2012 au Président
+du tribunal d'arron-dissement de La Broye et du Nord vaudois, avec copie à l’office et à
+son avocat, le poursuivi a requis l'annulation de la vente du 19 octobre 2012. Il a renouvelé cette
+requête dans une lettre non signée du 28 octobre 2012.
+Par lettre du 2 novembre 2012, le président du tribunal, autorité inférieure de surveillance,
+a fixé au conseil d'office du poursuivi un délai au 12 novembre 2012, ultérieurement
+prolongé au 6 décembre 2012, pour dire si la lettre précitée du 28 octobre 2012 devait
+être considérée comme une plainte au sens de l'art. 132a LP [loi fédérale sur
+la poursuite pour dettes et la faillite; RS 281.1]. Le conseil d’office de X.________ a confirmé
+que tel était le cas, par lettre du 6 décembre 2012.
+L’office s’est déterminé sur la plainte le 21 décembre 2012, concluant au
+rejet de celle-ci.
+Par lettre du 11 janvier 2013, la Banque Z.________ a déclaré adhérer aux déterminations
+de l’office.
+2.
+Par décision du 1
+er
+mars 2013, notifiée aux parties le 4 mars 2013, le Président du Tribunal d'arrondissement de
+La Broye et du Nord vaudois, autorité inférieure de surveillance, a rejeté la plainte,
+sans frais ni dépens.
+En bref, cette autorité a considéré que l’office n’avait eu connaissance de
+la désignation d’un avocat d’office au plaignant qu’à réception de la
+lettre de ce dernier du 1
+er
+septembre
+2012, soit le 3 septembre 2012, qu’on ne saurait dès lors lui faire grief d’avoir adressé
+au plaignant personnellement l’avis recommandé du 23 août 2012, qu’il appartenait
+au plaignant de transmettre lui-même l’avis à son avocat ou de contester les conditions
+de vente, qu’aucune action en contestation de l’état des charges n’avait été
+ouverte dans le délai fixé et qu’au surplus, le plaignant ne formulait aucun grief précis
+à l’encontre de l’office.
+3.
+Le plaignant, par son conseil, a recouru par acte du 14 mars 2013, concluant, avec dépens, principalement
+à l’annulation de la vente du 19 octobre 2012, subsidiairement à l’annulation du
+prononcé attaqué.
+Le plaignant a également recouru personnellement, le 16 mars 2013.
+L'office s'est déterminé dans une écriture du 4 avril 2013, concluant au rejet du recours
+déposé le 14 mars 2013.
+En droit :
+I.
+a)
+Formé en temps utile, dans les dix jours suivant la notification de la décision de l'autorité
+inférieure de surveillance (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la
+LP; RSV 280.05]), et comportant des conclusions et l'énoncé des moyens invoqués (art.
+28 al. 3 LVLP), le recours déposé le 14 mars 2013 par le plaignant, par son conseil d'office,
+est recevable.
+Les déterminations de l'office sont également recevables (art. 31 al. 1 LVLP).
+b)
+En revanche, le recours déposé par le plaignant personnellement le 16 mars 2013, soit plus
+de dix jours après la notification de la décision attaquée, a été formé
+tardivement et, par conséquent, est irrecevable.
+II.
+a)
+Dans un premier motif, le recourant invoque une violation de son droit d’être entendu. Il
+soutient que l’autorité inférieure ne l’a pas régulièrement convoqué
+à l’audience de plainte, à laquelle il n’a pas comparu, et n’a de plus pas
+examiné tous les moyens développés dans ses différentes écritures.
+Un tel grief, le droit d'être entendu étant une garantie constitutionnelle de caractère
+formel, est susceptible d’entraîner une annulation du prononcé attaqué (ATF 121
+III 331 c. 3c, JT 1996 I 611).
+aa)
+La procédure de plainte LP est régie par les art. 17 ss LP, 72 ss LTF [loi sur le Tribunal
+fédéral; RS 173.110] et 17 ss LVLP (art. 17 LVLP). Conformément à l’art. 21
+al. 2 LVLP, lorsqu'il est saisi d’une plainte, le président fixe une audience, à laquelle
+il convoque les parties ou leur mandataire par lettre recommandée et le préposé par lettre
+ordinaire. Lorsqu’une partie est représentée, les actes judiciaires sont notifiés
+à son représentant (art. 137 CPC). En l’espèce, l’autorité inférieure
+de surveillance a cité le plaignant à l’audience du 12 février 2013 par avis recommandé
+du 12 décembre 2012 notifié à son conseil d'office. Elle a donc parfaitement respecté
+l’art. 21 al. 2 LVLP et le grief de violation du droit d'être entendu, sous cet angle, est
+mal fondé.
+bb)
+Le droit d'être entendu, tel qu'il est garanti par l'art. 29 al. 2 Cst. [Constitution fédérale;
+RS 101], implique notamment l'obligation pour le juge de motiver ses décisions, afin que le justiciable
+puisse comprendre et exercer ses droits de recours à bon escient. Ce droit est consacré par
+l’art. 53 CPC et, dans le cadre de la procédure de plainte LP, par l’art. 27 al. 1 LVLP,
+qui dispose que le prononcé mentionne brièvement les opérations de l’instruction,
+les déclarations importantes des parties, les faits de la cause et les motifs. Selon
+la
+jurisprudence, l
+e juge doit mentionner, au moins
+brièvement, les motifs qui l'ont guidé et sur lesquels il a fondé sa décision, de
+manière à ce que l'intéressé puisse se rendre compte de la portée de celle-ci
+et l'attaquer en connaissance de cause, mais aussi à ce que l'autorité de recours puisse contrôler
+l'application du droit; il n'a toutefois pas l'obligation d'exposer et de discuter tous les faits, moyens
+de preuve et griefs invoqués par les parties, mais peut au contraire se limiter à ceux qui,
+sans arbitraire, apparaissent pertinents (ATF 134 I 83 c. 4.1; TF 4A_265/2008 du 26 août 2008 c.
+2.1.1; CPF, 8 mars 2013/9). Des motifs concis et même partiellement implicites suffisent à
+exclure le grief de violation du droit d'être entendu (CPF, 11 juillet 2012/222).
+En l’espèce, l’autorité inférieure de surveillance a indiqué et discuté
+les motifs susceptibles d’être pertinents et a expliqué en quoi, en définitive,
+ils ne l’étaient pas. Au demeurant, le recourant n’indique pas dans son recours de quels
+motifs prétendument pertinents l’autorité inférieure de surveillance n’aurait
+pas tenu compte dans sa décision. Le grief de violation du droit d'être entendu est ainsi sous
+cet angle également mal fondé.
+b)
+Le
+recourant conclut principalement à l’annulation de la vente aux enchères du 19 octobre
+2012.
+aa)
+En vertu de l’art. 132a al. 1 LP, applicable dans le cadre d’une poursuite en réalisation
+de gage immobilier (art. 156 al. 1 LP), la réalisation ne peut être attaquée que par le
+biais d’une plainte contre l’adjudication ou l’acte de vente de gré à gré.
+Cette compétence exclusive de l’autorité de surveillance vaut quels que soient les griefs
+invoqués, qu’ils relèvent du droit de la poursuite ou du droit matériel, qu’il
+s’agisse d’irrégularités commises lors des opérations d’adjudication
+ou lors de la procédure préparatoire (Bettschart, in Commentaire romand de la LP, n. 4 ad art. 132a
+LP et nn. 16 ss ad art. 125 LP).
+Conformément aux principes généraux de l’art. 17 LP, il peut être porté
+plainte contre une décision ou une mesure d’un office si ce dernier a violé la loi ou
+rendu une décision inopportune. La plainte à l’autorité de surveillance est la voie
+de recours contre les décisions de l’office; elle permet que des décisions non encore
+entrées en force soient annulées afin d’assurer l’application correcte de la loi
+tout au long de la procédure de poursuite. Grâce à la procédure de plainte, les autorités
+de surveillance exercent leur pouvoir de contrôle sur les organes de poursuites (Erard, in Commentaire
+romand de la LP, nn. 1 et 2 ad art. 17 LP).
+bb)
+Le recourant reproche à l’office de lui avoir adressé personnellement un certain nombre
+d’avis, alors qu’un conseil d’office lui avait été désigné, ce
+qui aurait empêché ce conseil de s’opposer à ces avis dans les délais.
+Il est constant que par décision du 19 juillet 2012, le Président du Tribunal d'arrondissement
+de La Broye et du Nord vaudois a accordé l’assistance judiciaire au recourant et lui a désigné
+comme conseil d'office l’avocat Yves Nicole, dans le cadre d’une procédure de plainte
+LP. Cette décision était largement antérieure au dépôt de la plainte intervenu
+le 28 octobre 2012, ce qui ne signifie pas qu’elle concernait une autre procédure, dès
+lors que, conformément à l’art. 119 al. 1 CPC, la requête d’assistance judiciaire
+peut être présentée avant ou pendant la litispendance.
+La requête d’assistance judiciaire est présentée par l’ayant droit, ou par
+son conseil (art. 119 al. 1 CPC). Elle est traitée en la forme sommaire. La partie adverse n’est
+pas obligatoirement partie à la procédure, sauf si l’assistance judiciaire porte sur
+la fourniture de sûretés (art. 119 al. 2 CPC). Tel n’était pas le cas en l’espèce.
+La décision du 19 juillet 2012, selon les indications qu'elle mentionne, a été notifiée
+au recourant, par l’intermédiaire de son conseil, et communiquée au Service juridique
+et législatif. Il en résulte dès lors clairement que l’office intimé n’a
+pas été avisé directement de la désignation d’un conseil d’office. Le
+recourant ne soutient pas que l'office aurait été informé de la désignation de Me
+Nicole avant de recevoir sa lettre du 1
+er
+septembre 2012. Dès lors, comme l’a jugé à bon droit l’autorité inférieure
+de surveillance, on ne saurait reprocher à l’office d’avoir ignoré cette défense
+d’office et communiqué au recourant personnellement, le 23 août 2012, les conditions
+de vente aux enchères et l’état des charges.
+La question n’a toutefois un objet qu’en ce qui concerne les conditions de vente, puisque
+le recourant s’est personnellement opposé à l’état des charges dans sa lettre
+du 1
+er
+septembre 2012 à l’office, soit dans le délai de dix jours de l’art. 140 al.
+2 LP. A réception de cette lettre, qui l'avisait en outre de la désignation de Me Nicole, l'office
+a fixé à ce dernier, par avis recommandé du 3 septembre 2012, un délai de vingt jours
+pour ouvrir action en contestation de l’état des charges, conformément à la procédure
+des art. 106 à 109 LP. Aucune action n’ayant été ouverte dans ce délai, l’état
+des charges est devenu définitif, sans que le recourant puisse se prévaloir de ce que ses droits
+auraient été compromis du fait que l’office était dans l’ignorance de l’existence
+d’un conseil d’office.
+En ce qui concerne les conditions de vente également communiquées dans l’avis recommandé
+du 23 août 2012 au recourant, elles étaient susceptibles d’être attaquées par
+la voie de la plainte dans le délai de dix jours dès la réception de l’avis spécial
+(art. 134 al. 2 LP; Piotet, in Commentaire romand de la LP, nn. 1 et 2 ad art. 134 LP). Le recourant
+n'a pas déposé une telle plainte. Dans sa lettre du 30 août 2012, l’office a indiqué
+au recourant qu’il lui appartenait le cas échéant de transmettre l’avis recommandé
+du 23 août 2012 à son avocat. On ignore s’il l’a fait. Dès lors, en prétendant
+que son conseil aurait été empêché d’agir à temps parce que l’avis
+en question ne lui pas été notifié, le recourant a une attitude manifestement contraire
+au principe de la bonne foi en procédure. On ne saurait par conséquent retenir que la sauvegarde
+de ses droits a été compromise.
+cc)
+Le recourant, sous la plume de son conseil, soulève enfin le moyen suivant : "En plus des griefs
+soulevés par le recourant dans ses précédentes écritures et qui n’ont pas été
+traités, il est apparu qu’en date du 21 décembre 2011, M. X.________ avait adressé
+à l’Office des poursuites un courrier recommandé dans lequel il contestait le procès-verbal
+d’estimation du gage". Ce courrier aurait dû, selon lui, être considéré
+comme une plainte. Il ajoute qu'à la suite d’une intervention de Me Nicole du 21 septembre
+2012, l’office aurait pris des dispositions en vue d’une nouvelle estimation du gage, qui
+se seraient révélées inutiles dans la mesure où le président du tribunal a ordonné
+la levée de l’effet suspensif et que la vente forcée de l'immeuble a eu lieu. Le recourant
+considère que cette irrégularité justifie l’annulation de la vente.
+En vertu de l’art. 28 al. 4 LVLP, le recourant peut alléguer des faits nouveaux et produire
+de nouvelles pièces dans la procédure de recours devant l’autorité cantonale supérieure
+de surveillance.
+La lettre du recourant du 21 décembre 2011 à l’office a été produite par ce
+dernier. Dans cette lettre, le recourant ne dépose pas plainte contre l’estimation de son
+immeuble ni ne demande une nouvelle estimation de celui-ci. Il indique au contraire qu’il y a lieu
+d’attendre, écrivant ce qui suit : "A toutes fins utiles, avant de confirmer une
+nouvelle estimation, attendre le résultat final sur ma plainte contre X du 17.12.011". Le 21
+septembre 2012, le conseil d’office du recourant s’est prévalu de la lettre précitée
+pour requérir de l’office une nouvelle estimation de l’immeuble et l’octroi de
+l’effet suspensif à la "plainte". Par décision communiquée aux parties
+le 3 octobre 2012, le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+après avoir recueilli les déterminations de l'office, a révoqué l’effet suspensif
+qui avait été prononcé dans un premier temps. La vente a dès lors eu lieu à
+la date prévue, sans qu’aucune faute ne puisse être reprochée à l’office,
+qui s’est conformé à la décision de l’autorité inférieure de surveillance.
+Le moyen est ainsi mal fondé.
+III.
+En conclusion, le recours doit être rejeté et le prononcé de l'autorité inférieure
+de surveillance confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Me Yves Nicole, conseil d'office du recourant, n’a pas déposé de liste détaillée
+de ses opérations. Le temps consacré aux opérations nécessaires pour la conduite
+du procès peut être estimé (art. 3 al. 2 RAJ [règlement sur l'assistance judiciaire
+en matière civile; RSV 211.02.3]) à trois heures, ce qui représente, au tarif horaire
+de 180 fr. (art. 2 al. 1 let. a RAJ), plus débours de 100 fr. (art. 3 al. 3 RAJ) et TVA à 8
+% (art. 2 al. 2 RAJ), une indemnité totale de 691 fr. 20.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours déposé par X.________ le
+16 mars 2013 est irrecevable.
+II.
+Le recours déposé par X.________, représenté
+par son conseil d'office, le 14 mars 2013 est rejeté.
+III.
+Le prononcé est confirmé.
+IV.
+L'indemnité d'office de Me Yves Nicole, conseil
+du recourant, est arrêtée à 691 fr. 20 (six cent nonante et un francs et vingt centimes).
+Le
+bénéficiaire de l'assistance judiciaire est, dans la mesure de l'art. 123 CPC, tenu au
+remboursement de l'indemnité du conseil d'office mise à la charge de l'Etat.
+V.
+L’arrêt, rendu sans frais ni dépens,
+est exécutoire
+Le
+président :              La greffière
+:
+Du
+14 juin 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Yves Nicole, avocat (pour X.________),
+‑
+Banque Z.________,
+-
+Mme A.W.________,
+-
+M.              B.W.________,
+-
+M. le Préposé à l’Office des poursuites du district du Jura – Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
