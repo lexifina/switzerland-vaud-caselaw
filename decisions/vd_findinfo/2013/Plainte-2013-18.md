@@ -1,0 +1,258 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 18"
+decided: "2013-06-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3876187"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-199.md", "switzerland/bund/acts/281.1/art-221.md", "switzerland/bund/acts/281.1/art-222.md", "switzerland/bund/acts/281.1/art-230.md", "switzerland/bund/acts/281.1/art-230a.md", "switzerland/bund/acts/281.1/art-231.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 18
+
+## Regeste
+
+CONSULTATION D'UN REGISTRE PUBLIC, CONSULTATION DU DOSSIER, SUSPENSION DE LA FAILLITE FAUTE D'ACTIFS, CRÉANCIER, GAGE | 230 al. 1 LP, 230a al. 2 LP, 231 LP, 8a LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.06.2013 Plainte / 2013 / 18
+
+CONSULTATION D'UN REGISTRE PUBLIC, CONSULTATION DU DOSSIER, SUSPENSION DE LA FAILLITE FAUTE D'ACTIFS, CRÉANCIER, GAGE | 230 al. 1 LP, 230a al. 2 LP, 231 LP, 8a LP
+
+TRIBUNAL
+CANTONAL
+FA12.049069-130661
+20
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 juin 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Byrde et Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+8a, 230 al. 1, 230a al. 2 et 231 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+I.________SA
+,
+à Lausanne, contre la décision rendue le 19 mars 2013, à la suite de l’audience
+du 7 février 2013, par le Président du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, rejetant, dans la mesure où elle était recevable, la plainte
+déposée par la recourante contre l'
+Office
+des faillites de l'arrondissement de l'Est vaudois
+,
+à Vevey, dans le cadre de la faillite de la société
+O.________SA
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Par cession de créance du 28 juin 2012,
+I.________SA est devenue créancière hypothécaire de la société O.________SA.
+Celle-ci faisait l'objet de saisies, dans le cadre desquelles les immeubles dont elle était propriétaire
+avaient été placés sous gérance légale par l'Office des poursuites du district
+d'Aigle jusqu'au 1
+er
+avril 2011, date à laquelle cette mesure avait été levée, avant d'être reprise
+le 2 août 2011.
+Le 12 juillet 2012, O.________SA a été déclarée en faillite. La faillite a été
+suspendue faute d'actif le 24 octobre 2012 et l'avis de suspension publié le 30 octobre 2012.
+Aucun créancier n'a versé, dans le délai de dix jours, l'avance de frais requise pour
+la liquidation de la faillite.
+Le 12 novembre 2012, I.________SA a requis la réalisation de son gage, conformément à
+l'art. 230a al. 2 LP [loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1].
+Le 7 décembre 2012, un avis de liquidation spéciale limitée aux gages immobiliers a été
+publié, fixant le délai de production au 8 janvier 2013.
+b)
+Par lettre du 4 novembre 2012, I.________SA a demandé à l'Office des faillites de l'arrondissement
+de l'Est vaudois (ci-après : l'office), administration de la masse en faillite, de vérifier
+si les loyers du deuxième trimestre de l'année 2011 des immeubles de O.________SA avaient été
+encaissés.
+Le même jour, elle a requis de l'office la production du dossier d'un procès ayant opposé
+l'Etat de Vaud à deux autres créanciers hypothécaires de la société faillie,
+M.________ et L.________, au sujet de la répartition d'une somme saisie.
+Le 14 novembre 2012, enfin, elle a demandé à l'office de pouvoir consulter les comptes de la
+faillie des années 2009 à 2011.
+Par lettre du 26 novembre 2012, l'office a informé I.________SA qu'il ne pouvait donner suite à
+sa dernière requête, dès lors que la faillite, suspendue faute d'actif, allait être
+traitée selon l'art. 230a al. 2 LP et que l'administration de la faillite n'était par conséquent
+pas tenue de prendre la comptabilité de la faillie sous sa garde.
+c)
+Par
+acte déposé le 2 décembre 2012, I.________SA a formé une plainte LP contre l'office,
+concluant à ce que ce dernier soit sommé de "fournir les renseignements demandés"
+dans les trois lettres précitées des 4 et 14 novembre 2012.
+L'office s'est déterminé le 23 janvier 2013, préavisant en faveur du rejet de la plainte.
+Sur la question du procès ayant opposé l'Etat de Vaud à M.________ et L.________, il a
+relevé que la plaignante avait pu consulter le dossier de la faillite et que ce procès n'en
+faisait pas partie; au sujet des loyers du deuxième trimestre de l'année 2011, il a indiqué
+s'être renseigné auprès de l'Office des poursuites du district d'Aigle et de la fiduciaire
+chargée de la gérance légale et avoir obtenu l'information que ni l'un ni l'autre n'avaient
+encaissé les loyers en question; enfin, quant à la consultation des comptes de O.________SA,
+il a confirmé la position exprimée dans sa lettre du 26 novembre 2012.
+2.
+Par prononcé rendu le 19 mars 2013, à la suite d'une audience tenue le 7 février 2013,
+le Président du Tribunal d’arrondissement de l’Est vaudois, autorité inférieure
+de surveillance, a rejeté la plainte dans la mesure où elle était recevable. Il a considéré
+que la plaignante, comme créancière gagiste, pouvait exiger la réalisation du gage et
+n’avait dès lors pas d’intérêt juridiquement protégé à obtenir
+les renseignements requis; de plus, il a constaté que la comptabilité pour l'année 2011
+n’était pas en possession de l’office. Cette décision a été notifiée
+le 20 mars 2013 à la plaignante.
+3.
+Par acte du 2 avril 2013, I.________SA a recouru
+contre ce prononcé, concluant à l’admission de sa plainte.
+Dans une écriture déposée le 24 mai 2013, soit dans le délai de détermination
+prolongé à sa demande, l'office a conclu au rejet du recours. Il a produit un onglet de pièces
+sous bordereau.
+En droit :
+I.
+Formé en temps utile contre une décision de l'autorité inférieure de surveillance
+(art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]) et comportant des
+conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est
+recevable.
+Les déterminations et les pièces nouvelles produites par l'office intimé sont également
+recevables (art. 31 al. 1 LVLP).
+II.
+a)
+Le droit de consulter prévu à l’art. 8a LP ne se limite pas aux procès-verbaux et
+registres des offices des poursuites et des faillites, mais s’étend "aux livres de comptabilité
+et papiers d’affaires du débiteur commun dans une procédure générale et collective"
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 6 ad art. 8a LP). Le droit, pour les personnes formellement parties à, ou concernées par,
+une procédure d’exécution forcée, de consulter le dossier, est directement déduit
+du droit d’être entendu garanti par l'art. 29 al. 2 Cst. [Constitution fédérale;
+RS 101] (Gilliéron, op. cit., n. 7 ad art. 8a LP). L’intérêt du requérant à
+la consultation dépend de l’objet de celle-ci et doit être évalué selon les
+circonstances particulières de l’espèce (ibid., eod. loc. et n. 23 ad art. 8a LP).
+b)
+En
+l’espèce, l’office intimé ne conteste pas le droit de la recourante de consulter
+le dossier de la faillite, ce que l’intéressée a d'ailleurs déjà fait avec
+son accord. La question est de savoir si la recourante a le droit d’obtenir des renseignements
+spécifiques, qui ne figurent pas nécessairement dans le dossier, soit de contraindre l’office
+à instruire certaines questions.
+aa)
+Après
+le prononcé de la faillite, l’office procède à un inventaire des biens du failli
+(art. 221 LP). Dans ce cadre, le failli, les tiers qui détiennent des biens du failli ou contre
+qui le failli a des créances ainsi que les autorités ont une obligation de renseigner l’office
+(art. 222 LP). La masse peut comprendre des biens saisis non réalisés à l’ouverture
+de la faillite, des biens séquestrés ou un excédent après distribution du produit
+de la saisie (art. 199 LP).
+Lorsqu’il est probable que la masse ne suffira pas à couvrir les frais de liquidation sommaire,
+le juge qui a ordonné la faillite prononce la suspension de celle-ci à la demande de l’office
+(art. 230 al. 1 LP). La décision du juge de la faillite de suspendre la liquidation lie l’office
+et le prive du pouvoir d’accomplir des actes qui ont pour but la continuation de la liquidation
+(Gilliéron, op. cit., n. 26 ad art. 230 LP). Toutefois, lorsque la masse d’une personne
+morale comprend des valeurs grevées de droits de gage, chaque créancier gagiste peut exiger
+de l’office la réalisation de son gage (art. 230a al. 2 LP). La procédure de réalisation
+est alors limitée à ces valeurs et aux personnes intéressées; elle a lieu conformément
+aux dispositions sur la liquidation sommaire (art. 231 LP), applicables par analogie (Gilliéron,
+op. cit., n. 27 ad art. 230a LP). Comme dans la procédure ordinaire, il y a notamment un délai
+de production et, pour les immeubles à réaliser, un état des charges.
+bb)
+En l’espèce, la recourante demande tout d’abord que l’office la renseigne sur
+l'encaissement des loyers dus à la faillie pour les mois d'avril à juin 2011, période
+durant laquelle la gérance légale était levée.
+L’office a recueilli sur cette question des informations, qu’il a transmises en première
+instance de façon partielle, complétées dans ses déterminations sur le recours,
+dans lesquelles il précise que les loyers en question ont été versés à deux
+créanciers gagistes de la faillie, M.________ et L.________. On peut ainsi constater que la requête
+de la plaignante a été satisfaite et que le recours est devenu sans objet sur ce point.
+cc)
+La
+recourante demande ensuite production du dossier d’un procès opposant l’Etat de Vaud
+à M.________ et L.________ au sujet de la "répartition d’une somme d'environ 100'000
+francs".  Il s’agirait pour elle de savoir dans quelle mesure ces autres créanciers
+hypothécaires de la faillie ont été désintéressés.
+L'office fait valoir qu'il n’a pas accès au dossier de ce procès, la société
+O.________SA, respectivement sa masse en faillite, n’y étant pas partie. Néanmoins, dans
+le cadre de la procédure de recours, elle a sollicité des renseignements des deux créanciers
+précités et fourni des éléments de réponse, en rappelant que la recourante pourrait
+à nouveau consulter le dossier de la faillite. La position de l’office n’est pas critiquable.
+En l’état, on ne comprend pas exactement quel est la nature et l’objet du procès
+et quelle est l’utilité de ce dossier pour la recourante. Quoi qu’il en soit, le montant
+exact de la créance de M.________ et L.________ sera déterminé dans le cadre de l’examen
+des productions. L’office des poursuites qui a saisi la somme litigieuse pourra en particulier
+indiquer à qui cette somme a finalement été versée.
+dd)
+Enfin, la recourante demande l’accès à la comptabilité de la faillie pour les années
+2009 à 2011.
+Dans sa réponse au recours, l'office fait valoir qu’il a interpellé l’administrateur
+de O.________SA "au sujet de l’existence de la comptabilité" et que, "en fonction
+du résultat des investigations actuellement en cours, la recourante pourra […] consulter,
+une nouvelle fois et en temps utile, le dossier de la faillite". La lettre de son conseil à
+celui de l'administrateur du 22 avril  2013 et la réponse de ce deuxième conseil du 16
+mai 2013 prouvent cette allégation et permettent de constater que l’office est désormais
+en possession de la comptabilité de l'année 2010, mais pas de celle de l'année 2011, qui
+n’avait pas été bouclée avant la faillite. On ignore ce qu’il en est de la
+comptabilité de l'année 2009. L'office ne s’oppose en tout cas pas à la consultation
+de la comptabilité, pour autant qu’elle soit en sa possession ou qu'il l’obtienne. On
+peut ainsi considérer qu'il a agi de manière justifiée et conforme à ses obligations
+légales et qu’il est exclu de le sommer de produire des documents qu’il ne peut pas
+se procurer. Au demeurant, au moment de la demande de consultation, la liquidation ordinaire de la faillite
+était déjà exclue, le délai pour effectuer l’avance de frais étant échu.
+On peut dès lors se demander si la recourante, qui n’a pas contesté l’inventaire
+ou la suspension faute d’actif, a encore un intérêt à examiner la comptabilité
+de la société faillie.
+III.
+En conclusion, le recours doit être rejeté
+et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+27 juin 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+I.________SA,
+‑
+Me Jean-Luc Tschumy, avocat (pour l'Office des faillites de l'arrondissement de l'Est vaudois).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
