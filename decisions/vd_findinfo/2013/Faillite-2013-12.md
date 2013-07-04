@@ -1,0 +1,208 @@
+---
+decision_id: "vd_findinfo_Faillite___2013___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2013 / 12"
+decided: "2013-07-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3887391"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2013 / 12
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, REJET DE LA DEMANDE, ACOMPTE, INSOLVABILITÉ | 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.07.2013 Faillite / 2013 / 12
+
+OUVERTURE DE LA FAILLITE, REJET DE LA DEMANDE, ACOMPTE, INSOLVABILITÉ | 174 LP
+
+TRIBUNAL
+CANTONAL
+FF12.049120-130181
+274
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 juillet 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              MM.
+Hack et Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+174 LP
+Vu le jugement rendu le 6 mai 2013, à la suite de l'audience du 7 mars 2013, par le Président
+du Tribunal d'arrondissement de Lausanne admettant la requête en restitution de délai déposée
+le 21 janvier 2013 par
+M.________
+Sàrl
+, à Bussigny-près-Lausanne,
+constatant que les conditions d'annulation du prononcé de faillite n'étaient pas remplies,
+révoquant l'effet suspensif prononcé le 29 janvier 2013, disant que le prononcé de faillite
+rendu le 10 janvier 2013 contre M.________ Sàrl à la requête de
+G.________
+SA
+, à Crissier, prenait effet le 3 mai 2013
+à 10 heures, mettant les frais de l'audience de faillite par 200 fr. et ceux de l'audience en restitution
+de délai par 200 fr. à la charge de la requérante et déclarant cette décision
+définitive sur la question de la restitution de délai,
+vu le recours, accompagné de pièces nouvelles, déposé le 13 mai 2013 par la faillie
+à l'encontre de cette décision, concluant à l'annulation du jugement de faillite au motif
+qu'un accord aurait été conclu avec sa créancière, un délai lui étant accordé
+jusqu'à la fin du mois de juin 2013 pour payer sa dette, moins 3'500 fr. déjà versés,
+vu la requête d'effet suspensif contenue dans ce recours,
+vu la décision du  17 mai 2013 du président de la cour de céans admettant la requête
+d'effet suspensif,
+vu la lettre du 23 mai 2013 du président de la cour de céans transmettant à la recourante
+un extrait au 16 mai 2013 des registres de l'Office des poursuites du district de l'Ouest lausannois
+la concernant et lui impartissant un délai non prolongeable au 3 juin 2013 pour se déterminer
+au sujet de cette pièce si elle le souhaitait,
+vu la lettre du 3 juin 2013 de la recourante indiquant qu'elle avait établi plusieurs reconnaissances
+de dette en faveur de ces créanciers,
+vu les pièces au dossier;
+attendu qu'en vertu de l'art. 174 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889;
+RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+au sens du CPC (Code de procédure civile du 19 décembre 2008; RS 272),
+que, selon l'art. 321
+al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé, introduit
+auprès de l'instance de recours,
+que le recours déposé par M.________ Sàrl le 13 mai 2013 a été formé en
+temps utile et dans les formes requises de sorte qu'il est recevable,
+que la production de pièces nouvelles en deuxième instance est autorisée en matière
+de faillite (art. 58 al. 7 LVLP [loi d'application dans le Canton de Vaud de la loi fédérale
+sur la poursuite pour dettes et la faillite du 18 mai 1955; RSV 280.05]), pour faire valoir des faits
+nouveaux lorsqu'ils se sont produits avant le jugement de première instance,
+que les pièces se
+rapportant à des faits intervenus depuis l'audience de faillite peuvent être produites, pour
+autant qu'elles tendent à rendre vraisemblable la solvabilité du débiteur et à établir
+que celui-ci a payé sa dette ou consigné les montants nécessaires auprès de l'autorité
+compétente ou que le créancier a retiré sa réquisition de faillite (art. 174 al.
+2 LP),
+que
+dans cette mesure, les pièces nouvelles produites par la recourante sont recevables;
+attendu que selon l'art. 171 LP, le juge saisi d'une réquisition de faillite doit prononcer celle-ci,
+sauf dans les cas mentionnés aux art. 172 à 173a LP qui n'étaient pas réalisés
+en l'espèce,
+que c'est à juste titre que le premier juge a prononcé la faillite du recourant;
+attendu qu'en vertu de l'art. 174 LP, la décision du juge de la faillite peut être déférée
+à l'autorité judiciaire supérieure, qui peut annuler le jugement lorsque le débiteur,
+en déposant le recours, rend vraisemblable sa solvabilité et établit par titre que depuis
+lors, la dette, intérêts et frais compris, a été payée ou que la totalité
+de la somme à rembourser a été déposée à l'intention du créancier,
+ou encore que celui-ci a retiré sa réquisition de faillite,
+que ces deux conditions,
+soit le remboursement de la dette à l'origine de la faillite ou le retrait de la requête de
+faillite et la vraisemblance de solvabilité, sont cumulatives (Bosshard, Le recours contre le jugement
+de faillite, in JT 2010 II 113, p. 127),
+qu'en l'espèce, la
+recourante a produit une lettre de G.________ SA du 7 mai 2013 prenant note que la créance
+de 16'099 fr. 90 moins l'acompte versé de 3'500 fr. serait réglée d'ici au 30 juin 2013,
+qu'ainsi la créancière apparaît avoir accordé à sa débitrice un sursis
+de paiement,
+que cela n'est cependant pas suffisant au regard des conditions strictes de l'art. 174 al. 2 LP,
+que dès lors, la recourante échoue à démontrer avoir rempli la première condition
+de l'art. 174 al. 2 LP,
+qu'il incombe en outre au débiteur de rendre vraisemblable sa solvabilité,
+que la solvabilité
+au sens de l'art. 174 al. 2 LP se définit par opposition à l'insolvabilité au sens de
+l'art. 191 LP (Giroud, Basler Kommentar, n. 25 ad art. 174 LP; TF 5P.399/1999 du 14 janvier 2000 c. 2b),
+que cette dernière
+n'équivaut pas au surendettement mais consiste en l'incapacité du débiteur, en raison
+d'un manque de liquidités qui n'apparaît pas seulement temporaire, de payer ses dettes échues,
+que selon la jurisprudence,
+la solvabilité du débiteur doit au moins être plus probable que son insolvabilité
+(TF 5A.230/2011 du 12 mai 2011 c. 3; TF 5A_350/2007 du 19 septembre 2007 c. 4; TF 5P.80/2005 du 15 avril
+2005 c. 3.2; TF 5P.456/2005 du 17 février 2006 c. 2.2),
+que dès lors que
+la loi se contente d'une simple vraisemblance, il ne faut pas poser d'exigences trop sévères
+quant à la solvabilité,
+que s'il ne doit pas prouver
+sa solvabilité de manière stricte, le débiteur ne peut toutefois se contenter de simples
+allégations mais doit fournir des indices tels que des récépissés de paiements, des
+justificatifs de moyens financiers à sa disposition (avoirs en banque, crédits bancaires),
+des listes de ses débiteurs, un extrait du registre des poursuites, des comptes annuels récents
+avec bilan intermédiaire, cette liste n'étant pas exhaustive,
+que l'extrait du registre
+des poursuites concernant le failli est en règle générale décisif (Cometta, Commentaire
+romand, n. 10 ad art. 174 LP),
+qu'en l'espèce, la
+seule pièce au dossier permettant d'apprécier la situation de la faillie est l'extrait des
+registres au 16 mai 2013 la concernant,
+qu'il ressort de cet extrait que la recourante fait l'objet de poursuites pour 492'640 fr. 65,
+que la recourante n'a pour le surplus donné aucun détail concernant un quelconque arrangement
+avec ses créanciers,
+que dans son courrier du 3 juin 2013, elle a uniquement évoqué l'existence de reconnaissances
+de dette faite en leur faveur,
+que par conséquent, elle ne rend pas vraisemblable sa solvabilité, de sorte que la seconde
+condition d'annulation du jugement de faillite n'est pas réalisée,
+qu'en définitive, aucune des conditions légales pour annuler le jugement de faillite n'est
+remplie;
+attendu que le recours, mal fondé au sens de l'art. 322 al. 2 CPC, doit être rejeté et
+le jugement entrepris confirmé,
+que, compte tenu de l'effet suspensif accordé, la faillite de M.________ Sàrl prend effet le
+4 juillet 2013 à 16 heures 15,
+que les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de M.________ Sàrl prenant effet le 4 juillet 2013
+à 16 heures 30.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+4 juillet 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M.________ Sàrl,
+‑
+G.________ SA,
+-
+M. le Préposé à l'Office des poursuites du district de l'Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office des districts de Lausanne et de l'Ouest lausannois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
