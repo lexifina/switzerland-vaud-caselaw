@@ -1,0 +1,357 @@
+---
+decision_id: "vd_findinfo_S_questre___2013___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2013 / 8"
+decided: "2013-07-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3888701"
+cites_law: ["switzerland/bund/acts/0.275.12/art-025.md", "switzerland/bund/acts/0.275.12/art-031.md", "switzerland/bund/acts/0.275.12/art-032.md", "switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-038.md", "switzerland/bund/acts/0.275.12/art-043.md", "switzerland/bund/acts/0.275.12/art-054.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-335.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2013 / 8
+
+## Regeste
+
+CONVENTION DE LUGANO, DROIT D'ÊTRE ENTENDU, DÉCLARATION D'EXÉCUTION, DROIT D'OBTENIR UNE DÉCISION, INTERDICTION DE L'ARBITRAIRE, CAS DE SÉQUESTRE | 271 al. 1 ch. 6 LP, 32 CL (2007)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.07.2013 Séquestre / 2013 / 8
+
+CONVENTION DE LUGANO, DROIT D'ÊTRE ENTENDU, DÉCLARATION D'EXÉCUTION, DROIT D'OBTENIR UNE DÉCISION, INTERDICTION DE L'ARBITRAIRE, CAS DE SÉQUESTRE | 271 al. 1 ch. 6 LP, 32 CL (2007)
+
+TRIBUNAL
+CANTONAL
+KH13.003050-130651
+277
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 juillet 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Rouleau et M. Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+271 al. 1 ch. 6 LP, 32 CL
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+T.________
+SA
+, à Renens, contre le prononcé rendu
+le 1
+er
+mars 2013, à la suite de l'audience du 26 février 2013, par le Juge de paix du district de
+l'Ouest lausannois, dans la cause qui l'oppose à
+N.________
+,
+à Bucarest (Roumanie).
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par
+acte du 24 janvier 2013, N.________ a requis du Juge de paix du district de l’Ouest lausannois
+qu'il ordonne le séquestre de tous avoirs, créances (en monnaie suisse ou étrangère),
+biens en compte, en dépôt, en coffre-fort, en particulier toutes créances en restitution
+relatives à des placements fiduciaires et/ou des contrats à terme, de tous métaux précieux
+en compte, de tous titre chez des correspondants, droit à des prétentions de toute nature,
+en particulier ceux relatifs à des opérations documentaires, de papiers-valeurs y compris futurs
+revenus de ces avoirs, détenus au nom et/ou pour le compte de T.________ SA elle-même, ou sous
+désignation conventionnelle ou numérique ou de tout tiers agissant au nom et pour le compte
+et/ou sur instructions de cette dernière, dès lors que ces biens et avoirs appartiennent en
+réalité à T.________ SA, en main de la Banque Cantonale Vaudoise, en particulier le compte
+[...] dont T.________ SA est titulaire, à concurrence du montant de 66'009 fr. 10 (correspondant
+à la contre-valeur de 53'341.54 Euros au cours moyen de 1.23748 du 23 janvier 2013) avec intérêt
+à 5 % l'an dès le 29 décembre 2012. Le cas de séquestre invoqué était celui
+de l'art. 271 al. 1 ch. 6 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1).
+La requérante concluait également à ce que le juge prononce l’exequatur de la sentence
+civile n° 2295F, affaire n° 59897-3-2010, rendue par la Vème Section Civile du Tribunal
+de Bucarest le 20 décembre 2011. A l’appui de sa requête, elle a produit notamment :
+-
+une copie certifiée conforme de la sentence civile n° 2295 F dans le dossier n° 5987/3/10
+du 20 décembre 2011, condamnant T.________ SA à payer 53'341,54 euros à N.________ ;
+-
+une traduction certifiée conforme de cette sentence ;
+-
+le certificat requis à l’art. 54 CL, daté du 21 décembre 2012, avec sa traduction
+certifiée conforme.
+b)
+Le
+28 janvier 2013, le Juge de paix du district de l'Ouest lausannois a scellé l’ordonnance de
+séquestre requise. Le cas de séquestre mentionné est celui de l'art. 271 al. 1 ch. 6 LP.
+Le juge a fixé l'émolument de justice à 480 fr. et dispensé la créancière
+de fournir des sûretés.
+c)
+Le
+4 février 2013, la requérante s’est enquise auprès du premier juge du sort de sa
+requête d’exequatur. Le 5 février 2013, le magistrat a répondu que cette question
+avait été examinée de façon incidente dans le cadre du séquestre et qu’il
+n’y aurait pas de décision séparée. Par lettres des 7 et 11 février 2013, la
+requérante a contesté ce point de vue.
+2.
+Le 31 janvier 2013, la requête de séquestre
+a été communiquée à T.________ SA. Celle-ci a formé opposition au séquestre,
+le 6 février 2013. Le juge de paix a cité les parties à une audience fixée au 26
+février 2013. Le 15 février 2013, il a avisé N.________ que la question de l’exequatur
+serait examinée à cette audience.
+Par lettre du 21 février 2013, N.________ a contesté ce mode de faire et a annoncé qu’elle
+formait un recours pour déni de justice.
+Par lettre du 28 février 2013, T.________ SA s’est aussi plainte de n’avoir reçu
+aucune décision sur l’exequatur.
+3.
+Par prononcé du 1
+er
+mars 2013, notifié le 4 mars 2013 à T.________ SA, le Juge de paix du district de l’Ouest
+lausannois a reconnu la sentence civile n° 2295F, affaire n° 59897-3-2010, rendue par
+la Vème Section Civile du Tribunal de Bucarest le 20 décembre 2011 dans la cause opposant N.________
+à N.________ (I), l’a déclarée exécutoire en Suisse (II) et a dit que les frais
+suivaient le sort de la cause au fond (III).
+4.
+Par acte du 3 avril 2013,
+T.________ SA a recouru contre cette décision, concluant avec suite de frais et dépens principalement
+à son annulation, à l’annulation de l’ordonnance de séquestre n° 6'496'455
+scellée le 28 janvier 2013 par le Juge de paix du district de l’Ouest lausannois et à
+la levée dudit séquestre, subsidiairement à son annulation et au renvoi de la cause à
+l’autorité précédente pour nouveau jugement. Elle a produit un onglet de pièces
+sous bordereau, dont deux nouvelles : le prononcé sur opposition au séquestre rendu le
+1
+er
+mars 2013 par le juge de paix et sa motivation.
+N.________ s'est déterminée par acte du 6 mai 2013, concluant, avec suite de frais et dépens,
+au rejet du recours. Elle a produit un onglet de pièces sous bordereau.
+En droit
+:
+I.
+a)
+Le recours, dirigé contre une décision
+d’exequatur d’une sentence roumaine du 20 décembre 2011, condamnant la recourante à
+payer une somme d’argent à l’intimée, est celui de l’art. 43 CL (Convention
+de Lugano révisée concernant la compétence judiciaire, la reconnaissance et l'exécution
+des décisions en matière civile et commerciale du 30 octobre 2007, qui s’applique à
+l’Union européenne - à laquelle la Roumanie a adhéré en 2007 - depuis le 1
+er
+janvier 2010 et à la Suisse depuis le 1
+er
+janvier 2011; RS 0.275.12). En effet il ressort de la sentence litigieuse que la procédure roumaine
+a été introduite le 8 mars 2011 ; ainsi, aussi bien l’action judiciaire intentée
+dans l’Etat d’origine que la requête en exécution dans l’Etat requis sont
+postérieures à l’entrée en vigueur de la CL.
+b)
+Le recours a été formé en temps utile, dans le délai de l’art. 43 par. 5 CL
+(art. 335 al. 3 CPC [Code de procédure civile du 19 décembre 2008; RS 272]), et dans les formes
+requises (art. 321 CPC). La réponse, déposée dans le délai de dix jours imparti,
+est également recevable.
+c)
+La procédure de première instance ayant ceci de particulier que la décision d’exequatur
+est rendue sans que le débiteur ne soit entendu, l’instance de recours dispose d’un
+plein pouvoir d’examen, en fait et en droit, en ce qui concerne les motifs de refus prévus
+par la CL (art. 43 par. 3 CL). La production de pièces nouvelles est donc admise, dans la mesure
+où elle concerne les conditions de l’exequatur (CPF, 17 février 2012/35).
+En
+l’occurrence, les parties n’ont pas produit d’éléments nouveaux, si ce n’est
+le prononcé sur opposition et sa motivation. Ces pièces sont irrecevables car elles ne concernent
+pas les conditions d'exequatur.
+II.
+La recourante invoque
+une violation de l’art. 34 par. 1 et 2 CL.
+a)
+Conformément à l'art. 45 par. 1 CL, la juridiction de recours ne peut refuser ou révoquer
+une déclaration constatant la force exécutoire d'une décision étrangère que
+pour l’un des motifs prévus aux art. 34 et 35 CL. Elle ne peut en aucun cas revoir la décision
+étrangère au fond (art. 45 par. 2 CL).
+Selon l'art. 34 CL, une décision n'est pas reconnue (par. 1) si la reconnaissance est manifestement
+contraire à l’ordre public ou (par. 2) si l'acte introductif d'instance ou un acte équivalent
+n'a pas été notifié ou signifié au défendeur défaillant en temps utile
+et de telle manière qu'il puisse se défendre, à moins qu'il n'ait pas exercé de recours
+à l'encontre de la décision alors qu'il était en mesure de le faire. La Suisse a toutefois
+formulé une réserve selon laquelle elle n'applique pas cette exception (art. 1 al. 3 AF du
+11 décembre 2007).
+b)
+La recourante soutient que la décision roumaine "exécutoire" ne lui a pas été
+notifiée, ce qui l’aurait empêché de la contester. Elle se prévaut d'une ordonnance
+roumaine n° 5 du 19 juillet 2011 concernant la procédure de sommation de paiement dont les
+art. 9 et 10 prévoient qu'une décision découlant de la procédure de sommation constitue
+un titre exécutoire remis au créancier et dont une copie est communiquée au débiteur.
+Une partie intéressée peut alors former contestation à l'exécution.
+On ne comprend pas bien si la recourante se plaint de ne jamais avoir reçu la sentence elle-même,
+ou seulement la sentence "munie du sceau la déclarant exécutoire". Quoi qu’il
+en soit, ces griefs ne concernent pas la notification d’un acte introductif d’instance, ayant
+abouti à un jugement par défaut. Il ressort de la sentence litigieuse qu’elle a été
+rendue au terme d’une procédure contradictoire durant laquelle la débitrice a fait valoir
+ses moyens. De même, la recourante allègue dans son recours avoir exercé le recours ouvert
+contre cette décision. Elle n’a donc pas été empêchée de se défendre,
+et on peut en déduire que la sentence elle-même lui a été notifiée.
+Au demeurant, l’ordonnance roumaine dont la recourante se prévaut ne paraît pas avoir
+la portée qu’elle lui prête : elle préconise la notification – et permet
+la contestation – de la sentence, non celle de l’attestation de son caractère exécutoire.
+Ainsi, rien ne permet de dire que la débitrice a été empêchée d’exercer
+l’un de ses droits.
+III.
+La recourante fait valoir
+que la sentence roumaine litigieuse a été rendue au terme d’une procédure sommaire,
+qu’elle peut être contestée par une procédure ordinaire – allégation
+contestée par l’intimée –, ce qu’elle aurait " précisément l’intention"
+de faire "prochainement", et que le litige n’a ainsi pas été "définitivement"
+tranché.
+a)
+On entend par décision, au sens de la CL, toute décision rendue par une juridiction d'un Etat
+lié, quelle que soit la dénomination qui lui est donnée, telle qu'arrêt, jugement,
+ordonnance ou mandat d'exécution, ainsi que la fixation par le greffier des frais de procès
+(art. 32 CL, qui reprend le texte de l’art. 25 aCL [Convention de Lugano du 16 septembre 1988 concernant
+la compétence judiciaire et l'exécution des décisions en matière civile et commerciale;
+aRS 0.275.11]). La décision en cause doit être exécutoire dans l'Etat d'origine, caractère
+qui peut ressortir de la décision elle-même, de la loi de l'Etat d'origine ou d'un document
+spécial en attestant (Donzallaz, La Convention de Lugano, vol. II, § 3521, pp. 677-678), mais
+l'art. 38 par. 1 CL (qui reprend l’art. 31 aCL) n'exige pas qu'elle ait force de chose jugée.
+L'exequatur peut ainsi être accordée à des mesures provisionnelles, à une décision
+au fond exécutoire par provision et au référé-provision du droit français fondé
+sur l'art. 809 NCPC (nouveau Code français de procédure civile; Kaufmann-Kohler, L'exécution
+des décisions étrangères selon la Convention de Lugano : titres susceptibles d'exécution,
+mainlevée définitive, procédure d'exequatur, mesures conservatoires, in SJ 1997, pp. 561
+ss., sp. pp. 562-565 ; Donzallaz, La Convention de Lugano, Vol. I., n. 1657 ; CPF, 18 février
+2010/74).
+b)
+Ainsi, le fait que la décision litigieuse découle d’une procédure sommaire n’est
+pas un obstacle à son exécution. De plus, à supposer que la débitrice puisse encore
+intenter une nouvelle procédure pour la contester, ce fait demeure sans incidence tant qu’un
+tribunal n’a pas rendu une décision en sa faveur, par exemple un blocage provisionnel.
+Le droit suisse connaît aussi ce type de procédures comme par exemple la procédure sommaire
+de mainlevée, qui peut aboutir à une exécution forcée si elle n’est pas contestée,
+mais qui peut également être suivie en tout temps d’une action en constatation de l’inexistence
+d’une créance. Une telle action n’empêche une exécution forcée que si
+le juge rend des mesures provisionnelles.
+IV.
+La recourante invoque
+une violation de l’art. 271 al. 3 LP. Elle reproche au premier juge de n’avoir pas rendu
+la décision d’exequatur avant de sceller l’ordonnance de séquestre.
+L'art. 271 al. 3 LP prévoit que dans les cas énoncés à l'art. 271 al. 1 ch. 6
+LP qui concernent un jugement rendu dans un Etat étranger auquel s'applique la CL, le juge statue
+aussi sur la constatation de la force exécutoire.
+A supposer que ce grief soit fondé, il ne justifierait pas l’annulation de la décision
+d’exequatur mais seulement, éventuellement, de l’ordonnance de séquestre qui aurait
+dû être rendue postérieurement. Il devra être examiné dans le cadre du recours
+dirigé contre la décision sur opposition au séquestre.
+La recourante a également pris une conclusion tendant à l’annulation du séquestre,
+mais le présent recours est dirigé contre la décision d’exequatur. La révocation
+du séquestre ne se justifierait que par ricochet, si le recours était admis (CPF, 17 février
+2012/35).
+V.
+La recourante invoque
+un déni de justice formel (art. 29 al. 1 Cst. [Constitution fédérale de la Confédération
+suisse du 18 avril 1999; RS 101]). Le juge de paix aurait refusé de, puis tardé à, statuer.
+En rendant sa décision après l’ordonnance de séquestre, il n’aurait "pas
+respecté le délai légal" qui s’imposait à lui.
+Aux termes de l'art. 29 al. 1 Cst., toute personne a droit, dans une procédure judiciaire ou administrative,
+à ce que sa cause soit traitée équitablement et jugée dans un délai raisonnable.
+Il y a déni de justice formel lorsqu'une autorité n'applique pas ou applique d'une façon
+incorrecte une règle de procédure, de sorte qu'elle ferme l'accès à la justice au
+particulier qui, normalement, y aurait droit. L'autorité qui se refuse à statuer, ou ne le
+fait que partiellement, viole l'art. 29 al. 1 Cst. (TF 2C_601/2010 du 21 décembre 2010 c. 2; TF
+5A 578/2010 du 19 novembre 2010; TF 5A_279/2010 du 24 juin 2010 c. 3.3 et les arrêts cités).
+En l'occurrence, dans un premier temps, le juge a refusé de rendre une décision formelle, estimant
+qu’elle découlait implicitement de l’ordonnance de séquestre. Il a toutefois modifié
+sa position par la suite en décidant d'examiner formellement la question de l'exequatur lors de
+l'audience du 26 février 2013 portant sur l'opposition au séquestre. Ainsi, on ne peut reprocher
+au juge de paix d'avoir refusé de statuer. Par ailleurs, la conséquence d'un éventuel
+déni de justice formel dans un tel cas n’est pas, comme le soutient la recourante, l’annulation
+de la décision attaquée. A cet égard, la jurisprudence citée par celle-ci à
+l'appui de son écriture concerne une violation du droit d’être entendu et non un déni
+de justice formel.
+Pour le surplus, le grief, dans la mesure où il évoque un dépassement d’un "délai
+légal ", se confond avec le précédent.
+VI.
+La recourante invoque
+une violation de son droit d’être entendue (art. 29 al. 2 Cst et 6 par. 1 CEDH [Convention
+européenne de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre
+1950, entrée en vigueur pour la Suisse le 28 novembre 1974; RS 0.101]). Elle se plaint de n’avoir
+pas pu faire valoir ses arguments relatifs à la question de l’exequatur dans le cadre de la
+procédure d’opposition au séquestre.
+Le système prévu par le législateur est le suivant (art. 38 al. 1 CL; art. 271 à
+278 LP):
+le
+juge de paix statue sur l’exequatur puis sur le séquestre sans y associer le débiteur,
+pour ne pas vider de sa substance la procédure de séquestre. Le débiteur n’est informé
+des deux décisions qu’après coup. Au demeurant, vu l’urgence du séquestre
+et le délai nécessaire à la rédaction de la décision d’exequatur, il ne
+paraît pas inhabituel que, concrètement, les parties reçoivent celle-ci après l’ordonnance
+de séquestre, quand bien même la décision a été prise auparavant. En l’occurrence,
+d’ailleurs, le juge de paix a expliqué qu’il avait bel et bien examiné la question
+de la reconnaissance – et donc pris une décision – avant de sceller l’ordonnance
+de séquestre. Le dépôt du recours contre la décision d’exequatur n’a
+aucun effet sur le séquestre, qui est, ex lege, maintenu (art. 278 al. 4 LP) et ce n’est
+que l’admission éventuelle du recours qui entraîne la révocation du séquestre
+(CPF, 17 février 2012/35, précité). Dans le cadre de l’opposition au séquestre,
+le débiteur ne peut plus présenter d’arguments à ce sujet.
+Ainsi, un éventuel retard à notifier la décision d’exequatur a pour seul effet de
+repousser la possibilité de la faire annuler, ainsi que le séquestre, sur recours. Le débiteur
+conserve la possibilité de faire opposition au séquestre pour d’autres motifs que ceux
+liés à la reconnaissance de la décision étrangère.
+En l’espèce, la recourante n’a pas été privée de la possibilité
+de faire valoir les arguments pertinents dans chacune des procédures ouvertes à elle. Elle
+a recouru contre la décision d’exequatur et fait opposition au séquestre.
+VII.
+En conclusion, le recours
+doit être rejeté et le prononcé confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 690 fr., sont mis à la
+charge de la recourante qui succombe (art. 106 al.1 CPC). Celle-ci doit des dépens à l’intimée
+assistée d’un avocat, arrêtés à 2’000 fr. (art. 3 et 8 TDC [Tarif des
+dépens en matière civile du 23 novembre 2010; RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 690 fr. (six cent nonante francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante T.________ SA doit verser à l'intimée N.________ la somme de 2'000 fr. (deux
+mille francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Cyrille Piguet, avocat (pour T.________ SA),
+‑
+Me Tanja Planinic et Me Joëlle Lendenmann, avocates (pour N.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 66'009 fr. 10.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de l'Ouest lausannois.
+La greffière :
