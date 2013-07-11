@@ -1,0 +1,131 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2013___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2013 / 16"
+decided: "2013-07-11"
+published: "2013-07-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3952675"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-241.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2013 / 16
+
+## Regeste
+
+RÉCUSATION, RETRAIT{VOIE DE DROIT} | 6 al. 1 let. a ROTC, 106 al. 1 CPC (CH), 241 CPC (CH), 47 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Waadtland Tribunal cantonal Cour administrative 11.07.2013 Réc-civile / 2013 / 16
+Vaud Tribunal cantonal Cour administrative 11.07.2013 Réc-civile / 2013 / 16
+Vaud Tribunal cantonal Cour administrative 11.07.2013 Réc-civile / 2013 / 16
+
+RÉCUSATION, RETRAIT{VOIE DE DROIT} | 6 al. 1 let. a ROTC, 106 al. 1 CPC (CH), 241 CPC (CH), 47 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+GA11.031527
+18/2013
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 11 juillet 2013
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+de Watteville Subilia
+*****
+Art.
+47 al. 1 let. f, 106 al. 1 et 241 CPC
+Vu le conflit opposant V.________ et K.________ au sujet du droit de visite sur leur fille, née
+le 15 novembre 2008,
+vu la demande de récusation déposée, le 3 juin 2013, contre le Juge de paix N.________
+par V.________,
+vu le jugement du 6 juin 2013 de la Justice de paix du district d’Aigle rejetant la demande de
+récusation de N.________ et laissant les frais à la charge de l’Etat,
+vu le recours déposé le 17 juin 2013 par V.________ contre cette décision,
+vu le courrier du 26 juin 2013 de N.________ renonçant à se déterminer,
+vu le courrier du 27 juin 2013 de la Justice de paix du district d’Aigle s’en remettant à
+justice,
+vu les déterminations du 28 juin 2013 de K.________ concluant, avec suite de frais et dépens,
+au rejet du recours,
+vu le courrier du 5 juillet 2013 par lequel V.________ a déclaré retirer « purement
+et simplement » son recours formé le 17 juin 2013,
+vu le courrier du 9 juillet 2013 de K.________ sollicitant qu’il soit statué sur les frais
+et dépens,
+vu les pièces au dossier;
+attendu que l'art. 50 al. 2 CPC (Code de procédure civile suisse du 19 décembre 2008;
+RS 272) prévoit que la décision sur récusation peut faire l'objet d'un recours au sens
+des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010; RSV 211.02] et 6 al. 1 let. a ROTC [Règlement
+organique du Tribunal cantonal du 13 novembre 2007; RSV 173.31.1]);
+attendu que V.________ a déclaré, dans son courrier du 5 juillet 2013, retirer « purement
+et simplement » son recours contre le jugement du 6 juin 2013 rejetant la demande de récusation
+du Juge de paix N.________,
+qu'il y a ainsi lieu d'en prendre acte et d'ordonner que la cause soit rayée du rôle (art.
+241 CPC);
+attendu que les frais sont mis à la charge du demandeur en cas de désistement de l’action
+(art. 106 al. 1, 2
+e
+phrase CPC),
+qu’ainsi, les frais judiciaires de la présente décision sont arrêtés à
+500 fr. (art. 28 TFC [Tarif des frais judiciaires civils; RSV 270.11.5]) à charge de V.________,
+qu'une indemnité de dépens de 300 fr. est allouée à K.________ pour la présente
+procédure (art. 9 TDC [Tarif des dépens en matière civile; RSV 270.11.6]),
+qu’il n’appartient pas à l’autorité de céans d’allouer des dépens
+pour la procédure de première instance.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Il est pris acte du retrait du recours dirigé contre le jugement du 6 juin 2013 de la Justice de
+paix du district d’Aigle.
+II.
+La cause est rayée du rôle.
+III.
+Les frais judiciaires pour la demande de récusation, arrêtés à 500 fr. (cinq cents
+francs), sont mis à la charge de V.________.
+IV.
+V.________ doit verser à K.________ la somme de 300 fr. (trois cents francs) à titre de dépens.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Gilles Robert-Nicoud, avocat (pour V.________),
+-
+Me Olivier Couchepin, avocat (pour K.________),
+-
+M. le Premier juge de Paix N.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme le Juge de Paix du district d’Aigle.
+La greffière :
