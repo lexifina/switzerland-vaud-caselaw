@@ -1,0 +1,525 @@
+---
+decision_id: "vd_gerichte_acbf81e3-faa1-4d5e-a190-e80613dedc61"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCUR"
+docket: "189"
+decided: "2013-07-12"
+published: "2013-09-11"
+language: "fr"
+legal_area: "Fixation du droit de visite (parents    non mariés) (275)"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/acbf81e3-faa1-4d5e-a190-e80613dedc61"
+cites_decisions: ["5A_448/2008", "5A_716/2010", "5P.131/2006", "BGE 118 II 21", "BGE 123 III 445", "BGE 127 III 295", "BGE 130 III 585", "BGE 131 III 209"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-273.md", "switzerland/bund/acts/210/art-274.md", "switzerland/bund/acts/210/art-314.md", "switzerland/bund/acts/210/art-445.md", "switzerland/bund/acts/210/art-446.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450d.md", "switzerland/bund/acts/210/art-450f.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-118.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-229.md", "switzerland/bund/acts/272/art-316.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# Fixation du droit de visite (parents non mariés) (275)
+
+## Text
+
+TRIBUNAL CANTONAL
+LQ12.038018-130856
+189
+CHAMBRE DE S CURATELLE S
+___________________________________
+Arrêt du 12 juillet 2013
+____________________
+Présidence de M. GIROUD, président
+Juges : Mmes Favrod et Crittin Dayen
+Greffière : Mme Rossi
+*****
+Art. 273 ss, 445 et 450 ss CC
+La Chambre des curatelles du Tribunal cantonal prend séance
+pour statuer sur le recours interjeté par M.________, à [...], contre
+l’ordonnance de mesures provisionnelles rendue le 11 février 2013 par la
+Justice de paix du district de Lavaux-Oron dans la cause concernant les
+enfants B.L.________ et
+C.L.________.
+Délibérant à huis clos, la cour voit :
+251
+
+- 2 -
+
+- 3 -
+En fait :
+A. Par ordonnance de mesures provisionnelles du 11 février 2013,
+envoyée pour notification le 23 avril 2013, la Justice de paix du district de
+Lavaux-Oron (ci-après : justice de paix) a admis la requête de mesures
+provisionnelles déposée le 18 septembre 2012 par A.L.________, en ce sens
+que le droit de visite d’M.________ sur ses enfants B.L.________ et
+C.L.________ s’exerçant du mardi soir au mercredi soir est supprimé (I), fixé
+le droit de visite d’M.________ sur ses enfants B.L.________ et C.L.________ à
+un week-end sur deux, du vendredi soir à 18 heures au lundi matin à
+9 heures 30, à la moitié des vacances scolaires, ainsi qu’alternativement à
+Noël ou Nouvel An, à Pâques ou à Pentecôte, à l’Ascension ou au Jeûne
+fédéral, à charge pour lui d’aller chercher ses enfants là où ils se trouvent
+et de les y ramener, respectivement de les amener à l’école (II), ouvert
+une enquête en fixation du droit de visite (parents non mariés) en faveur
+de B.L.________ et C.L.________ (III), confié dite enquête au Service de
+protection de la jeunesse (ci-après : SPJ), Groupe évaluation (IV), dit que
+les frais de la procédure provisionnelle suivent le sort de la cause (V) et
+déclaré l’ordonnance immédiatement exécutoire, nonobstant recours (VI).
+En droit, les premiers juges ont en substance considéré qu’il
+convenait de supprimer le droit de visite d’M.________ du milieu de la
+semaine, afin de permettre aux enfants de ne pas subir de changement de
+cadre et de limiter les relations entre les parents. Ils ont notamment
+relevé que le rapport établi le 13 novembre 2012 par le SPJ faisait état de
+l’absence de prise de conscience par les père et mère des tensions, ainsi
+que du manque de confiance en l’autre, de communication et de dialogue,
+et que cela avait un impact sur le développement de B.L.________ et
+C.L.________. Le représentant du SPJ se montrait inquiet quant aux
+implications à long terme des relations parentales conflictuelles. Le mode
+de communication inapproprié du père, la manière dont celui-ci se
+comportait avec les professionnels et la colère qui l’habitait toujours
+étaient perçus par les enfants et le passage de ceux-ci d’un parent à
+l’autre était problématique.
+
+- 4 -
+B. Par acte motivé du 30 avril 2013, M.________ a recouru contre
+cette ordonnance en concluant, sous suite de frais et dépens,
+principalement à la réforme des chiffres I et II de son dispositif en ce sens
+que la requête de mesures provisionnelles déposée le 18 septembre 2012
+par A.L.________ est rejetée et que son droit de visite sur ses enfants est
+maintenu conformément à la décision rendue le 15 août 2011 par la
+justice de paix. Subsidiairement, il a conclu à la réforme des chiffres I et II
+du dispositif de la décision entreprise en ce sens que la requête de
+mesures provisionnelles déposée le 18 septembre 2012 par A.L.________
+est rejetée et que son droit de visite sur ses enfants est fixé toutes les
+deux semaines, soit du jeudi à 18 heures au lundi matin à 9 heures 30,
+durant la moitié des vacances scolaires ainsi qu’alternativement à Noël ou
+Nouvel An, à Pâques ou à Pentecôte, à l’Ascension ou au Jeûne fédéral, à
+charge pour lui d’aller chercher ses enfants là où ils se trouvent et de les y
+ramener, respectivement de les amener à l’école. Plus subsidiairement, il
+a conclu à l’annulation de l’ordonnance et au renvoi de la cause à
+l’autorité de première instance pour nouvel examen dans le sens des
+considérants. Il a produit un bordereau de pièces et demandé, à titre de
+mesure d’instruction, la fixation de débats, se réservant le droit de
+requérir l’audition d’un témoin amené.
+Le même jour, le recourant a formulé une demande
+d’assistance judiciaire.
+Le 7 mai 2013, la Juge déléguée de la Chambre des curatelles
+(ci-après : juge déléguée) a précisé au recourant, ensuite de sa
+correspondance du 3 mai 2013, que l’effet suspensif avait été retiré au
+recours au chiffre VI du dispositif de l’ordonnance entreprise. Elle a ajouté
+qu’il était provisoirement dispensé d’avance de frais et qu’il serait statué
+ultérieurement sur sa requête d’assistance judiciaire.
+
+- 5 -
+Le 17 juin 2013, l’intimée A.L.________ a déposé une demande
+d’assistance judiciaire.
+Le 18 juin 2013, l’intimée a conclu, sous suite de frais et
+dépens, au rejet du recours.
+Par décision du 19 juin 2013, la juge déléguée a accordé à
+A.L.________ le bénéfice de l’assistance judiciaire pour la procédure de
+recours, avec effet au 17 juin 2013, sous la forme de l’exonération des
+avances et frais judiciaires ainsi que de l’assistance d’office d’un avocat en
+la personne de Me Habib Tabet. L’intimée a été astreinte au paiement
+d’une franchise mensuelle de 50 fr., dès et y compris le 1er juillet 2013.
+Par courrier du 20 juin 2013, la justice de paix a renoncé à
+prendre position sur le recours et à reconsidérer sa décision, se référant à
+la décision attaquée.
+Dans ses déterminations du 25 juin 2013, déposées dans le
+délai prolongé pour ce faire, le SPJ a conclu au rejet du recours.
+Le 10 juillet 2013, Mes Julien Gafner et Habib Tabet ont, sur
+requête, produit leur liste respective d’opérations et de débours.
+C. La cour retient les faits suivants :
+B.L.________ et C.L.________, nés hors mariage respectivement
+les [...] 2007 et [...] 2008, sont les enfants de A.L.________ et M.________. Ils
+vivent auprès de leur mère, à [...], dans le canton de Fribourg.
+Par décision du 15 août 2011, la justice de paix a notamment
+ratifié, pour valoir jugement définitif et exécutoire sur le droit aux relations
+personnelles d’M.________ sur ses enfants B.L.________ et C.L.________, la
+convention signée le même jour par A.L.________ et M.________ – qui
+prévoyait que le droit de visite d’M.________ sur B.L.________ et C.L.________
+
+- 6 -
+s’exercerait un week-end sur deux du vendredi soir à 18 heures au lundi
+matin à 9 heures 30, chaque semaine du mardi soir à 18 heures au
+mercredi soir à 18 heures, à charge pour lui d’aller chercher et ramener
+ses enfants là où ils se trouvent, respectivement de les amener à l’école,
+ainsi que la moitié des vacances scolaires et alternativement à Noël ou
+Nouvel An, Pâques ou Pentecôte, le Jeûne fédéral ou l’Ascension,
+proposition agréée par le représentant du SPJ – (I), institué une mesure de
+curatelle d’assistance éducative et de surveillance du droit de visite à
+forme de l’art. 308 al. 1 et 2 CC (Code civil suisse du 10 décembre 1907,
+RS 210) en faveur de B.L.________ et C.L.________ (II) et désigné le SPJ en
+qualité de curateur de ceux-ci (III).
+Le 18 septembre 2012, A.L.________ a saisi la justice de paix
+d’une requête de mesures provisionnelles et superprovisionnelles tendant
+à la modification de la convention du 15 août 2011 en ce sens que le droit
+de visite d’M.________ s’exercerait un week-end sur deux du vendredi soir à
+18 heures au lundi matin à 9 heures 30, chaque semaine du mercredi
+matin à 11 heures 15 au mercredi soir à 18 heures – à charge pour lui
+d’aller chercher et ramener ses enfants là où ils se trouvent,
+respectivement de les amener à l’école –, ainsi que la moitié des vacances
+scolaires et alternativement à Noël ou Nouvel An, Pâques ou Pentecôte, le
+Jeûne fédéral ou l’Ascension. Cette requête était notamment motivée par
+le fait que B.L.________ allait dorénavant à l’école le mercredi matin et que
+les enfants étaient perturbés par les va-et-vient qu’impliquait le régime en
+vigueur.
+Le 21 septembre 2012, le Juge de paix du district de Lavaux-
+Oron a rejeté la requête de mesures superprovisionnelles, « la notion
+d’urgence n’étant pas présente ».
+Dans son procédé écrit du 10 octobre 2012, M.________ a
+conclu au rejet de la requête du 18 septembre 2012.
+Le 13 novembre 2012, F.________, assistant social auprès du
+SPJ en charge de la curatelle de B.L.________ et C.L.________, a déposé un
+
+- 7 -
+bilan périodique de l’action socio-éducative concernant les enfants
+précités. Il a notamment indiqué qu’après plus de deux ans d’intervention
+dans cette situation, il n’y avait pas eu de progrès entre les deux parents
+sur le plan relationnel. Malgré l’affection portée par les père et mère à
+leurs enfants, il n’y avait pas eu chez M.________ et A.L.________ de prise de
+conscience des tensions, du manque de confiance en l’autre et du manque
+de communication et de dialogue, et que cela avait un impact sur le
+développement des enfants. F.________ a exposé qu’il avait l’impression
+que C.L.________ imitait souvent son père et que B.L.________ s’enfermait
+sur elle-même. A ce jour, le problème ne résidait pas dans de la
+maltraitance envers les enfants, mais dans les relations parentales
+conflictuelles, et l’impact sur C.L.________ et B.L.________ à long terme
+l’inquiétait. L’assistant social a ajouté que le mode de communication
+inapproprié du père, la manière dont celui-ci se comportait envers les
+professionnels et la colère qui l’habitait toujours étaient perçus par ses
+enfants, ce qui amenait le SPJ à « questionner à moyen terme le bien-
+fondé du droit de visite à ses enfants ».
+Le 11 février 2013, la justice de paix a procédé à l’audition
+d’M.________ et A.L.________, assistés de leur conseil respectif, ainsi que
+d’F.________. Celui-ci a notamment déclaré qu’il ne reprochait rien aux
+parents personnellement, mais se basait sur les dires des professionnels
+et s’inquiétait des modalités actuelles du droit de visite. Le droit de visite
+supplémentaire du mercredi posait problème du point de vue du passage
+des enfants et le retour chez la mère était difficile. Il a estimé qu’il fallait
+réduire le droit de visite. A.L.________ a modifié les conclusions de son acte
+du 18 septembre 2012 en ce sens que le droit de visite de la semaine est
+supprimé, M.________ concluant pour sa part au rejet de celles-ci. Les
+parties ont été informées de l’ouverture d’une enquête relative au droit de
+visite et que ce mandat serait confié au SPJ, Groupe évaluation, qui n’était
+jamais intervenu jusqu’alors.
+En d roit :
+
+- 8 -
+1. Dès le 1er janvier 2013, les mesures de protection de l'adulte
+sont régies par le nouveau droit de protection de l'adulte (art. 14 al. 1 Tit.
+fin. CC). Selon l'art. 14a Tit. fin. CC, les procédures pendantes à cette date
+relèvent des autorités compétentes en vertu du nouveau droit (al. 1) et
+sont soumises au nouveau droit de procédure (al. 2) ; l'autorité décide si la
+procédure doit être complétée (al. 3). L'art. 14a Tit. fin. CC, en relation
+avec l'art. 12 al. 1 Tit. fin. CC, s'applique par analogie aux procédures
+relatives aux enfants pendantes au 1er janvier 2013 (Reusser, Basler
+Kommentar, Erwachsenenschutz, 2012, n. 4 ad art. 14 Tit. fin. CC, p. 742).
+L'art. 405 al. 1 CPC (Code de procédure civile du 19 décembre
+2008, RS 272), applicable par renvoi de l'art. 450f CC, prévoit que les
+recours sont régis par le droit en vigueur au moment de la communication
+de la décision aux parties. La décision entreprise a été communiquée aux
+intéressés le 23 avril 2013, de sorte que le nouveau droit est applicable au
+présent recours (Reusser, op. cit., n. 12 ad art. 14a Tit. fin. CC, p. 759).
+2. a) Le recours est dirigé contre une ordonnance de mesures
+provisionnelles de la justice de paix fixant les modalités de l’exercice du
+droit de visite d'un père sur ses enfants mineurs (art. 273 ss CC).
+b) Le recours de l'art. 450 CC est ouvert à la Chambre des
+curatelles (art. 8 LVPAE [loi du 29 mai 2012 d'application du droit fédéral
+de la protection de l'adulte et de l'enfant, RSV 211.255] et 76 al. 2 LOJV
+[loi d'organisation judiciaire du 12 décembre 1979, RSV 173.01]) contre
+toute décision relative aux mesures provisionnelles (Steck, Basler
+Kommentar, op. cit., n. 21 ad art. 450 CC, p. 638), dans les dix jours dès la
+notification de la décision (art. 445 al. 3 CC). Les personnes parties à la
+procédure, les proches de la personne concernée et les personnes qui ont
+un intérêt juridique à l'annulation ou à la modification de la décision
+attaquée ont qualité pour recourir (art. 450 al. 2 CC). Le recours doit être
+dûment motivé et interjeté par écrit (art. 450 al. 3 CC), les exigences de
+
+- 9 -
+motivation ne devant cependant pas être trop élevées (Steck, op. cit., n.
+42 ad art. 450 CC, p. 642).
+L’art. 446 al. 1 CC, applicable par renvoi de l’art. 314 al. 1 CC,
+prévoit que l'autorité de protection établit les faits d'office. Compte tenu
+du renvoi de l’art. 450f CC aux règles du CPC, l’art. 229 al. 3 CPC est
+applicable devant cette autorité, de sorte que les faits et moyens de
+preuve nouveaux sont admis jusqu’aux délibérations. Cela vaut aussi en
+deuxième instance (Steck, op. cit., n. 7 ad 450a CC, p. 644, et les auteurs
+cités).
+c) Interjeté en temps utile par le père des mineurs concernés,
+partie à la procédure, le présent recours est recevable à la forme. Les
+déterminations de l’intimée et du SPJ, déposées dans les délais impartis à
+cet effet, sont également recevables, de même que les pièces produites
+en deuxième instance. Interpellée conformément à l’art. 450d al. 1 CC, la
+justice de paix s’est référée à sa décision.
+d) La Chambre des curatelles peut soit ordonner des débats,
+soit statuer sur pièces (art. 316 al. 1 CPC, applicable par renvoi de l'art.
+450f CC, et art. 20 LVPAE). En l’espèce, le dossier est suffisamment
+complet, au stade des mesures provisionnelles, de sorte qu’il n’y a pas lieu
+de donner suite à la mesure d’instruction requise en deuxième instance.
+Le recourant a au demeurant été auditionné par les premiers juges et a pu
+faire valoir ses moyens dans le cadre de son recours.
+3. a) Le recourant fait en substance valoir que la réduction de
+son droit de visite est une mesure bien trop incisive et qu’elle viole le
+principe de proportionnalité. La décision entreprise serait en outre
+inopportune.
+L’intimée expose quant à elle que c’est ensuite de l’audition
+d’F.________ le 11 février 2013 qu’elle a requis la diminution du droit de
+visite du recourant. Se référant au bilan périodique du SPJ du 13 novembre
+
+- 10 -
+2011 [recte : 2012] et aux déclarations d’F.________ lors de l’audience, elle
+relève en particulier le comportement du recourant, notamment le
+caractère colérique de celui-ci, qui déteint sur les enfants et a un impact
+négatif sur leur développement, ceux-ci imitant leur père ou se renfermant
+sur eux-mêmes. B.L.________ et C.L.________ sont en outre témoins des
+élans de colère du recourant lors de leur passage d’un parent à l’autre.
+Elle estime en conséquence que le régime instauré par la décision
+entreprise est conforme aux intérêts des enfants.
+Le SPJ indique que si la profonde affection que le recourant
+porte à ses enfants n’est pas contestée, le conflit du père avec la mère est
+d’une intensité telle qu’il rejaillit sur les enfants et porte atteinte au bon
+développement de ceux-ci. Les professionnels intervenus dans cette
+situation ont constaté que B.L.________ et C.L.________ étaient
+instrumentalisés par leur père. Compte tenu de la « violence conjugale
+verbale » du père envers la mère lors du passage des enfants d’un parent
+à l’autre, le SPJ préconise que cette étape se déroule dans un lieu neutre
+défini par les parties. Selon lui, la réduction momentanée des relations
+personnelles du recourant avec ses enfants n’est pas contraire au principe
+de proportionnalité, à tout le moins jusqu’à droit connu sur le rapport de
+l’Unité évaluation et missions spécifiques (anciennement Groupe
+évaluation et missions spécifique). L’intérêt des enfants à pouvoir être,
+pendant la semaine, au calme et pas pris dans les conflits de leurs parents
+doit l’emporter sur celui du recourant à avoir un droit de visite plus large
+que celui usuellement admis.
+b/aa) Les art. 273 ss CC relatifs aux relations personnelles
+d'un enfant avec ses père et mère ou des tiers n'ont pas été modifiés par
+l'entrée en vigueur du nouveau droit, de sorte que la doctrine et la
+jurisprudence antérieures au 1er janvier 2013 conservent toute leur
+pertinence.
+L'art. 273 al. 1 CC prévoit que le père ou la mère qui ne détient
+pas l'autorité parentale ou la garde ainsi que l'enfant mineur ont
+réciproquement le droit d'entretenir les relations personnelles indiquées
+
+- 11 -
+par les circonstances. Autrefois considéré comme un droit naturel des
+parents, le droit aux relations personnelles est désormais conçu à la fois
+comme un droit et un devoir de ceux-ci (cf. art. 273 al. 2 CC) ; il est
+cependant également considéré comme un droit de la personnalité de
+l'enfant qui doit servir en premier lieu l'intérêt de celui-ci (TF 5A_716/2010
+du 23 février 2011 c. 4 et les réf., in La pratique du droit de la famille
+[FamPra.ch] 2011 p. 491 ; ATF 131 III 209 c. 5, JT 2005 I 201 ; ATF 123 III
+445 c. 3b, JT 1998 I 354).
+Le droit aux relations personnelles vise à sauvegarder le lien
+existant entre parents et enfants (Hegnauer, Droit suisse de la filiation et
+de la famille, 4e éd., Berne 1998, adaptation française par Meier, n. 19.20,
+p. 116). Le Tribunal fédéral relève à cet égard qu'il est unanimement
+reconnu que le rapport de l'enfant avec ses deux parents est essentiel et
+qu'il peut jouer un rôle décisif dans le processus de recherche d'identité de
+l'enfant (ATF 127 III 295 c. 4a ; ATF 123 III 445 précité c. 3c). Le maintien
+et le développement de ce lien étant évidemment bénéfiques pour
+l'enfant, les relations personnelles doivent donc être privilégiées, sauf si le
+bien de l'enfant est mis en danger.
+L'importance et le mode d'exercice des relations personnelles
+doivent être appropriés à la situation, autrement dit tenir équitablement
+compte des circonstances particulières du cas. Le bien de l'enfant est le
+facteur d'appréciation le plus important (ATF 127 III 295 c. 4a) et les
+éventuels intérêts des parents sont à cet égard d’importance secondaire
+(ATF 130 III 585 c. 2.1, JT 2005 I 206).
+Le droit aux relations personnelles n'est pas absolu. Si les
+relations personnelles compromettent le développement de l'enfant, si les
+père et mère qui les entretiennent violent leurs obligations, s'ils ne se sont
+pas souciés sérieusement de l'enfant ou s'il existe d'autres justes motifs,
+le droit d'entretenir ces relations peut leur être refusé ou retiré (art. 274
+al. 2 CC). Selon la jurisprudence du Tribunal fédéral, le refus ou le retrait
+des relations personnelles ne peut être demandé que si le bien de l'enfant
+est mis en danger par ces mêmes relations : la disposition a pour objet de
+
+- 12 -
+protéger l'enfant et non de punir les parents. Il y a danger pour le bien de
+l'enfant, susceptible d'entraîner la suppression ou la limitation du droit de
+visite, si son développement physique, moral ou psychique est menacé
+par la présence, même limitée, du parent concerné. Conformément au
+principe de proportionnalité, il importe en outre que cette menace ne
+puisse être écartée par d'autres mesures appropriées (ATF 131 III 209
+précité ; ATF 118 II 21 c. 3c, résumé in JT 1995 I 548 ; TF 5A_448/2008 du
+2 octobre 2008 c. 4.1 ; TF 5P.131/2006 du 25 août 2006, in FamPra.ch
+2007, p. 167).
+Les conflits entre les parents ne constituent pas un motif de
+restreindre le droit de visite. Une telle limitation n'est justifiée que s'il y a
+lieu d'admettre, au regard des circonstances, que l'octroi d'un droit de
+visite usuel compromet le bien de l'enfant (ATF 131 III 209 c. 5 précité ;
+CREC II 23 mars 2009/50).
+La pratique romande d'un week-end sur deux est qualifiée de
+large en doctrine par rapport à celle d'outre Sarine (Leuba, Commentaire
+romand, Code civil I, Bâle 2010, n. 16 ad art. 273 CC, p. 1716 ;
+Meier/Stettler, Droit de la filiation, 4e éd., 2009, n. 703, p. 409). Il faut
+donc des circonstances particulières pour aller au-delà du droit de visite
+usuel (Hegnauer, op. cit., n. 19.16, p. 114 ; Juge délégué CACI 22 août
+2012/380 c. 3b ; Juge délégué CACI 20 décembre 2011/411 c. 6b).
+bb) Conformément à l'art. 445 al. 1 CC, applicable par renvoi
+de l'art. 314 al. 1 CC, l'autorité de protection prend les mesures
+provisionnelles nécessaires pendant la durée de la procédure et peut
+notamment ordonner une mesure de protection de l'enfant à titre
+provisoire.
+c) En l’espèce, si, à l’appui de sa requête de mesures
+provisionnelles et superprovisionnelles du 18 septembre 2012, l’intimée
+demandait une restriction du droit de visite exercé la semaine au mercredi
+après-midi seulement, motif pris notamment que B.L.________ fréquente
+dorénavant l’école le mercredi matin, les circonstances ont évolué en
+
+- 13 -
+cours de procédure. Le bilan périodique de l’action socio-éducative a en
+effet été déposé le 13 novembre 2012 et l’auteur dudit rapport, F.________,
+a été entendu par les premiers juges le 11 février 2013. C’est ensuite de
+cette audition que l’intimée a requis, en audience, la suppression du droit
+de visite exercé le jour de semaine.
+Dans le bilan périodique précité, l’assistant social du SPJ s’est
+montré inquiet quant aux implications à long terme des relations
+parentales conflictuelles. Il a souligné que le mode de communication
+inapproprié du recourant, la manière dont celui-ci se comporte avec les
+professionnels et la colère qui l’habite sont perçus par les enfants et ont
+une incidence sur eux. Il est en effet indiqué que C.L.________ imite
+souvent son père et que B.L.________ s’enferme sur elle-même. L’absence
+de prise de conscience par les parents des tensions, du manque de
+confiance en l’autre et du manque de communication et de dialogue, ont
+un impact sur le développement de leurs enfants. Lors de son audition,
+F.________ a également mis en avant un problème au niveau du passage
+de ceux-ci d’un parent à l’autre lors du droit de visite du mercredi. Le SPJ a
+en substance confirmé l’ensemble de ces éléments dans ses
+déterminations déposées dans le cadre du présent recours. Il a clairement
+mentionné que le conflit du père avec la mère est d’une intensité telle
+qu’il rejaillit sur les enfants et porte atteinte au bon développement de
+ceux-ci, les professionnels ayant même constaté une instrumentalisation
+de B.L.________ et C.L.________ par leur père.
+Ainsi, le bien des enfants est potentiellement compromis par
+l’exercice du droit de visite élargi du recourant tel que convenu le 15 août
+2011. Ceci justifie, en l’état, une restriction de ce droit, qu’il soit exercé –
+en sus de la réglementation liée aux week-ends, vacances et jours fériés
+non contestée – le mercredi, comme auparavant, ou le vendredi, comme
+proposé par le recourant dans ses conclusions subsidiaires. Une enquête
+en fixation du droit de visite du recourant a été ouverte et confiée à l’Unité
+évaluation et missions spécifiques du SPJ. Elle est actuellement en cours et
+permettra de déterminer notamment si le droit de visite du recourant doit
+ou non être fixé, sur le fond, plus largement que les modalités usuelles. En
+
+- 14 -
+l’état, les parties ne sont plus d’accord sur l’exercice étendu du droit de
+visite et on ne discerne pas de circonstances particulières, telles que
+prévues par la jurisprudence, qui justifieraient des modalités allant au-delà
+du droit de visite usuel.
+On peut encore souligner que, si le droit de visite du recourant
+est certes provisoirement restreint afin de protéger les enfants de l’impact
+négatif du conflit parental sur leur bon développement – ce qui est admis
+par la jurisprudence dès lors que le bien des enfants est compromis –, le
+père continue à jouir d’un droit de visite usuel, qui lui permettra de
+conserver ses liens avec B.L.________ et C.L.________. La décision
+provisionnelle attaquée respecte ainsi le principe de proportionnalité et
+n’est clairement pas inopportune.
+Le recours se révèle mal fondé, tant dans ses conclusions
+principales que subsidiaires.
+4. a) En conclusion, le recours doit être rejeté et l’ordonnance
+entreprise confirmée.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr.
+(art. 74a al. 1 TFJC [tarif du 28 septembre 2010 des frais judiciaires civils,
+RSV 270.11.5]), sont laissés à la charge de l'Etat, le recourant, qui
+succombe, devant être mis au bénéfice de l’assistance judiciaire, comme
+cela sera exposé ci-après (art. 118 al. 1 let. b et 122 al. 1 let. b CPC,
+applicables par renvoi de l’art. 450f CC).
+Obtenant gain de cause, l'intimée, qui a procédé par
+l'intermédiaire d'un mandataire professionnel, a droit à des dépens de
+deuxième instance, qu'il convient de fixer à 1’600 fr. et de mettre à la
+charge du recourant (art. 95, 106 al. 1 et 122 al. 1 let. d CPC, applicables
+par renvoi de l’art. 450f CC).
+
+- 15 -
+b/aa) Selon l’art. 117 CPC, applicable par renvoi de l’art. 450f
+CC, une personne a droit à l’assistance judiciaire aux conditions
+cumulatives qu’elle ne dispose pas de ressources suffisantes et que sa
+cause ne paraisse pas dépourvue de toute chance de succès. La requête
+d’assistance judiciaire peut être présentée avant ou pendant la
+litispendance (art. 119 al. 1 CPC). L’assistance judiciaire doit faire l’objet
+d’une nouvelle requête pour la procédure de recours (art. 119 al. 5 CPC).
+En l’espèce, il y a lieu d’accorder à M.________ le bénéfice de
+l’assistance judiciaire pour la procédure de recours, les conditions
+précitées étant remplies, et de désigner Me Julien Gafner en qualité de
+conseil d’office du prénommé. L’assistance judiciaire pouvant être
+accordée totalement ou partiellement (art. 118 al. 2 CPC) et au vu des
+indications fournies par le recourant dans sa demande d’assistance
+judiciaire, celui-ci est astreint à payer une franchise mensuelle de 50 fr.,
+dès et y compris le 1er août 2013, à verser auprès du Service juridique et
+législatif.
+Dans la liste de ses opérations du 10 juillet 2013, l’avocat
+susmentionné indique avoir consacré 7 heures à l’exécution de son
+mandat, temps qui apparaît admissible au vu des difficultés présentées
+par la cause en fait et en droit. Compte tenu d’un tarif horaire de 180 fr.
+hors TVA (art. 2 al. 1 let. a RAJ [règlement sur l'assistance judiciaire en
+matière civile du 7 décembre 2010, RSV 211.02.3]), l'indemnité d'office de
+Me Julien Gafner doit être arrêtée à 1'260 fr. (7 h x 180 fr.), à laquelle
+s'ajoutent les débours allégués, par 18 fr., et la TVA à 8% sur ces deux
+montants (art. 2 al. 3 RAJ), par respectivement 100 fr. 80 et 1 fr. 45, soit
+1'380 fr. 25, montant arrondi à 1'381 francs.
+bb) A.L.________ a été mise au bénéfice de l’assistance
+judiciaire par décision du 19 juin 2013. Dans la liste de ses opérations du
+10 juillet 2013, l’avocat de l’intimée indique avoir consacré 7 heures à
+l’exécution de ce mandat, ce qui peut être admis au vu des difficultés
+présentées par la cause en fait et en droit. Pour le cas où les dépens fixés
+ci-avant ne pourraient pas être obtenus de la partie adverse (art. 4 RAJ),
+
+- 16 -
+l’indemnité d’office à verser par l’Etat à Me Habib Tabet, conseil de
+l’intimée, est arrêtée au montant arrondi de 1'369 fr., comprenant un
+défraiement basé sur un tarif horaire de 180 fr. hors TVA (1'260 fr.), les
+débours allégués par 7 fr. 55 et la TVA à 8% sur ces deux montants, par
+respectivement 100 fr. 80 et 0 fr. 60.
+cc) Les bénéficiaires de l'assistance judiciaire sont, dans la
+mesure de l'art. 123 CPC, tenus au remboursement des frais judiciaires et
+de l’indemnité à leur conseil d’office mis à la charge de l'Etat.
+Par ces motifs,
+la Chambre des curatelles du Tribunal cantonal,
+statuant à huis clos,
+prononce :
+I. Le recours est rejeté.
+II. L’ordonnance est confirmée.
+III. Les frais judiciaires de deuxième instance, arrêtés à 300 fr.
+(trois cents francs), sont laissés à la charge de l’Etat.
+IV.La requête d’assistance judiciaire du recourant M.________ est
+admise, Me Julien Gafner étant désigné comme conseil d’office
+pour la procédure de recours et le recourant étant astreint à
+payer une franchise mensuelle de 50 fr. (cinquante francs),
+dès et y compris le 1er août 2013, à verser auprès du Service
+juridique et législatif, case postale, à 1014 Lausanne.
+V. L’indemnité d’office de Me Julien Gafner, conseil du recourant,
+est arrêtée à 1'381 fr. (mille trois cent huitante et un francs),
+TVA et débours compris, et celle de Me Habib Tabet, conseil de
+
+- 17 -
+l’intimée, à 1'369 fr. (mille trois cent soixante-neuf francs),
+TVA et débours compris.
+VI.Les bénéficiaires de l’assistance judiciaire sont, dans la mesure
+de l’art. 123 CPC, tenus au remboursement des frais judiciaires
+et de l’indemnité à leur conseil d’office mis à la charge de
+l’Etat.
+VII. Le recourant M.________ doit verser à l’intimée A.L.________
+la somme de 1'600 fr. (mille six cents francs) à titre de dépens
+de deuxième instance.
+VIII. L’arrêt motivé est exécutoire.
+Le président : La greffière :
+Du 12 juillet 2013
+Le dispositif de l'arrêt qui précède est communiqué par écrit
+aux intéressés.
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Me Julien Gafner (pour M.________),
+- Me Habib Tabet (pour A.L.________),
+- M. F.________, assistant social auprès du Service de protection de la
+jeunesse, Office régional de protection des mineurs de l’Est,
+
+- 18 -
+et communiqué à :
+- Justice de paix du district de Lavaux-Oron,
+- Service de protection de la jeunesse, Unité d’appui juridique,
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100 al. 1 LTF).
+La greffière :
