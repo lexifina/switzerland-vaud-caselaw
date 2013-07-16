@@ -1,0 +1,612 @@
+---
+decision_id: "vd_findinfo_S_questre___2013___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2013 / 7"
+decided: "2013-07-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3903621"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-018.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-125.md", "switzerland/bund/acts/272/art-239.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-334.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Séquestre / 2013 / 7
+
+## Regeste
+
+CAS DE SÉQUESTRE, DROIT D'ÊTRE ENTENDU, MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, MOTIVATION DE LA DÉCISION, MANIFESTATION DE VOLONTÉ, INTERPRÉTATION{SENS GÉNÉRAL}, PRINCIPE DE LA CONFIANCE{INTERPRÉTATION DU CONTRAT}, SUSPENSION DE LA PROCÉDURE, INTÉRÊT MORATOIRE, OBLIGATION D'ENTRETIEN, PENSION D'ASSISTANCE | 271 al. 1 ch. 6 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.07.2013 Séquestre / 2013 / 7
+
+CAS DE SÉQUESTRE, DROIT D'ÊTRE ENTENDU, MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, MOTIVATION DE LA DÉCISION, MANIFESTATION DE VOLONTÉ, INTERPRÉTATION{SENS GÉNÉRAL}, PRINCIPE DE LA CONFIANCE{INTERPRÉTATION DU CONTRAT}, SUSPENSION DE LA PROCÉDURE, INTÉRÊT MORATOIRE, OBLIGATION D'ENTRETIEN, PENSION D'ASSISTANCE | 271 al. 1 ch. 6 LP
+
+TRIBUNAL
+CANTONAL
+KE12.033146-130622
++ KE 12.033146-130625
+KE12.033146-130625
+299
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 juillet 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Rouleau et M. Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+271 al. 1 ch. 6 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe des recours exercés
+par
+U.________
+,
+à Oron-le-Châtel, et
+A.A.________
+,
+aux Monts-de-Corsier, contre le prononcé rendu le 16 janvier 2013, à la suite de l’audience
+du 4 décembre 2012, par le Juge de paix du district de la Riviera – Pays-d'Enhaut, dans la
+cause qui les oppose.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 3 août 2012, U.________ a requis du Juge de Paix du district  de la Riviera – Pays-d'Enhaut
+qu’il ordonne le séquestre des avoirs bancaires détenus par A.A.________ auprès
+de la Banque Cantonale Vaudoise (ci-après: BCV) à Vevey, à concurrence de 26'800 fr. avec
+intérêt au taux de 5 % l’an dès le 1
+er
+janvier
+2011 (échéance moyenne). Le cas de séquestre invoqué était celui de l’art.
+271 al. 1 ch. 6 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1), soit
+la possession par le créancier d’un titre de mainlevée définitive. A l'appui de
+sa requête, U.________ a produit les pièces suivantes :
+-
+une copie de la convention concernant le droit de visite et les contributions d'entretien pour B.A.________,
+né le 26 octobre 1998, et C.A.________, né le 16 février 2001, signée entre les parties
+le 26 janvier 2003 et approuvée le 30 janvier 2003 par la Justice de paix du cercle d’Oron
+prévoyant :
+"
+I
+En cas d'entente
+En principe,
+les parents voient les modalités de l'entretien et des relations personnelles de leurs enfants comme
+suit:
+[...]
+Les frais mentionnant
+(*) seront payés directement par le père au(x) prestataire(s):
+·
+[...]
+·
+forfait de fr. 250.-- par enfant par mois
+·
+[...]
+3.- Les payements
+dus à la mère pour ses enfants seront à verser le premier de chaque mois.
+[...]
+II
+En cas de mésentente entre les parents
+[...]
+1.-
+Chacun des
+parents est habilité, moyennant avis écrit donné pour la fin d'un mois, d'exiger l'application
+de ce chiffre II de la convention dès le début du mois suivant.
+2.-
+Si les enfants
+vivent séparés de leur père, ce dernier s'engage à participer à leur entretien
+par le paiement pour chacun d'eux d'une contribution d'entretien mensuelle de:
+·
+fr. 1250.-- [...] jusqu'à dix-huit ans révolus
+ou jusqu'à ce que l'enfant soit capable de gagner sa vie [...],
+allocations
+familiales non comprises.
+Aussi longtemps
+que la famille vit en Suisse, le père s'engage à verser, de surcroît, fr. 250.- par enfant
+et par mois.
+Ces contributions
+d'entretien sont payables d'avance le premier de chaque mois à la mère.";
+Au
+bas de cette convention figure un timbre humide signé du greffier attestant du caractère définitif
+et exécutoire de la décision depuis le 1
+er
+mars 2003;
+-
+une copie du relevé de compte bancaire de la requérante auprès de la BCV du 1
+er
+janvier
+2008 au 30 juin 2012 duquel il ressort qu'entre le mois d'octobre 2009 et le mois de juin 2012, A.A.________
+a payé 44'300 fr. à la requérante;
+-
+une copie du procès-verbal de l’audience du 2 mars 2010 de la Présidente du Tribunal
+civil de l’arrondissement de l’Est vaudois, selon lequel parties sont convenues de suspendre
+pour six mois la cause au fond et ont signé une convention de mesures provisionnelles ratifiée
+par la présidente du tribunal pour valoir ordonnance de mesures provisionnelles dont le contenu
+est le suivant:
+"I. A.A.________
+contribuera à l'entretien de ses fils [...] par le régulier service, d'avance le premier de
+chaque mois en mains de leur mère U.________, d'une contribution d'entretien mensuelle de Fr. 1'500.-
+[...], allocations familiales éventuelles en sus, et ce à compter du 1
+er
+mars 2010";
+-
+une copie du prononcé constatant la péremption d’instance rendu par le Président
+du Tribunal civil de l'arrondissement de l’Est vaudois le 29 juin 2011;
+-
+une copie de la requête de mesures provisionnelles adressée le 29 juillet 2011 par A.A.________
+au Président du Tribunal civil de l’arrondissement de l’Est vaudois indiquant notamment
+que par convention du 26 février 2003 ratifiée par la Justice de paix du cercle d'Oron, celui-ci
+a pris l'engagement de contribuer à l'entretien de ses fils par le versement d'une pension mensuelle
+totale de 3'000 fr., et requérant que sa contribution soit ramenée à un montant de 1'500
+fr. dès le 1
+er
+juillet 2011;
+-
+une copie du procès-verbal de l’audience du 2 novembre 2011 de la Présidente du Tribunal
+civil de l’arrondissement de l’Est vaudois, lequel contient une convention ratifiée
+pour valoir jugement de modification d’aliment définitif et exécutoire, prévoyant:
+"La convention
+du 26 janvier 2003 approuvée par la Justice de paix du cercle d'Oron le 30 janvier 2003 est
+annulée et remplacée par les clauses suivantes:
+I.
+A.A.________ contribuera à l'entretien de ses enfants B.A.________, né le 26 octobre 1998,
+et C.A.________, né le 16 février 2001, par le régulier versement d'une pension mensuelle,
+pour chacun d'entre eux, payable d'avance le premier de chaque mois en mains de U.________ dès et
+y compris le 1
+er
+juillet 2011, de:
+-
+750.- fr. [...] jusqu'à l'âge de 11
+ans révolus;
+-
+850.- fr. [...] dès lors et jusqu'à
+l'âge de 15 ans révolus;
+-
+950.- fr. [...] dès lors et jusqu'à
+la majorité de l'enfant";
+-
+une copie d’une ordonnance de mesures superprovisionnelles rendue par le président du Tribunal
+civil de l’arrondissement de l’Est vaudois le 28 juin 2012.
+Par ordonnance datée du 3 août 2012, le Juge de paix du district de la Riviera – Pays-d'Enhaut
+a ordonné le séquestre des avoirs bancaires de A.A.________ auprès de la BCV, à Vevey,
+à concurrence de 25'800 fr. avec intérêt à 5 % l’an dès le 1
+er
+janvier 2011 (échéance moyenne), le cas de séquestre mentionné étant celui de
+l’art. 271 al. 1 ch. 6 LP. Sous la rubrique titre et date de la créance/cause de l’obligation
+figure la mention "arriérés de pensions (octobre 2009 à juin 2012)". Le juge
+de paix a fixé l'émolument de justice à 360 fr. et dispensé le créancier de
+fournir des sûretés.
+2.
+Le 16 août 2012, A.A.________ s’est opposé au séquestre, concluant, avec dépens,
+à la levée immédiate du séquestre n° 6'310'947. Il a joint en annexe à
+cette écriture une copie de l’avis concernant le séquestre des avoirs de l’opposant
+remis par l’Office des poursuite de la Riviera – Pays-d'Enhaut à la BCV le 6 août
+2012.
+A.A.________ a déposé une écriture complémentaire le 10 septembre 2012 à l’appui
+de laquelle il a produit :
+-
+une copie du procès verbal de l’audience tenue par la Présidente du Tribunal civil de
+l'arrondissement de l’Est vaudois le 5 septembre 2012 contenant une convention aux termes de laquelle
+parties ont convenu d'une suspension subordonnée au paiement de la somme de 4'100 fr. correspondant
+à l'arriéré de pension, étant précisé que cet arriéré concernait
+la période des mois de juillet 2011 à septembre 2012;
+-
+un courrier qu'il a adressé à la Présidente du Tribunal civil de l’arrondissement
+de l’Est vaudois le 7 septembre 2012 confirmant l'exécution du paiement précité
+le 5 septembre 2012.
+Le 4 décembre 2012, le Juge de paix du district de la Riviera – Pays-d’Enhaut a tenu
+audience, en présence des parties. A cette occasion, A.A.________  a produit une copie du prononcé
+du président du Tribunal civil de l’arrondissement de l’Est vaudois du 29 juin, déjà
+produit précédemment par U.________, mais muni de la mention attestant de son caractère
+définitif et exécutoire. Lors de cette audience, les parties ont en outre confirmé que
+la somme de 4'100 fr. avait bien été versée par le séquestré.
+3.
+Par prononcé du 16
+janvier 2013, le Juge de paix du district de la Riviera – Pays-d’Enhaut a rejeté l’opposition
+au séquestre, confirmé l’ordonnance du 3 août 2012 à hauteur de 25'800 fr.
+avec intérêt à 5% l’an dès le 1
+er
+janvier 2012 (échéance moyenne) sous déduction de 4’100 fr. valeur au 9 septembre
+2012, arrêté à 360 fr. les frais judiciaires, mis ces frais à la charge du requérant,
+et dit que celui-ci devait verser à l'intimée la somme de 1’500 fr. à titre de dépens,
+en remboursement de ses débours nécessaires.
+A.A.________ et U.________ ont requis la motivation de cette décision par courrier des 21 et 22
+janvier 2013 respectivement.
+Les motifs de cette décision ont été adressés pour notification aux parties le 14
+mars 2013. Le premier juge a retenu en substance que les conventions produites constituaient des titres
+de mainlevée définitive au sens de l’art. 80 LP et que dès lors le cas de séquestre
+de l’art 271 al. 1 ch. 6 LP était rendu vraisemblable. Sur la base d’un examen des conventions
+et des extraits bancaires de U.________, il est ensuite arrivé à la conclusion que A.A.________
+devait un arriéré de contributions de:
+-
+6’200 fr. pour la période du 1
+er
+octobre 2009 au 31 décembre 2009 (soit trois mois x 3'000 fr. – 2'800 fr.),
+-
+8'300 fr. pour la période du 1
+er
+janvier 2010 au 31 décembre 2010 (six mois (janvier, février, ainsi que septembre à décembre
+2010) x 3'000 fr. + six mois  (mars à août 2010) x 1'500 fr. – 18'700 fr.),
+-
+12'600 fr. pour la période 1
+er
+janvier 2011 au 31 décembre 2011 (soit trois mois x 3'000 fr. et six mois x 1'600 fr. [750 fr. +
+850 fr.] – 15'000 fr.),
+-
+200 fr. pour la période du 1
+er
+janvier 2012 au 30 juin 2012 (deux mois x 1'600 fr. + quatre mois x 1'700 fr. – 9'800 fr.),
+soit
+un total de 27'300 francs. Dans ses calculs, le premier juge a retenu que le régime provisoire prévu
+par la convention du 2 mars 2010 avait cessé dès le 2 septembre 2010 et que la pension
+convenue de 1'500 fr. devait être appliquée jusqu'au 31 août 2010. Considérant que
+la partie séquestrante n’avait, dans ses conclusions, réclamé que la somme de 26'800
+fr., que le juge du séquestre n’avait quant à lui retenu que le montant de 25'800 fr.
+et que ce dernier montant n’avait pas été remis en cause par la partie séquestrante,
+le premier juge s’en est finalement tenu à cette dernière somme, soit 25'800 francs.
+Il a en outre porté en déduction la somme de 4’100 fr. dont le versement avait été
+admis par les parties en audience.
+4.
+Par acte du 25 mars 2013, U.________ a recouru
+contre cette décision, concluant, avec suite de frais et dépens, principalement à la réforme
+du prononcé en ce sens que l’ordonnance de séquestre du 3 août 2012 était confirmée
+à hauteur de fr. 25'800 fr. avec intérêt à 5% l’an dès le 1
+er
+janvier 2011 (échéance moyenne) sous déduction de fr. 2'400 fr. valeur au 9 septembre
+2012, subsidiairement à l’annulation du prononcé et au renvoi de la cause au premier
+juge pour qu'il statue à nouveau.
+L’intimé a répondu par acte du 8 mai 2013, concluant, avec suite de frais et dépens,
+au rejet du recours.
+Par acte du 25 mars 2013, A.A.________ a également recouru contre cette décision, concluant,
+avec suite de frais et dépens, principalement à la réforme du prononcé en ce sens
+que l’opposition au séquestre est admise, l’ordonnance de séquestre étant
+annulée et le séquestre levé, subsidiairement à l’annulation du prononcé
+et au renvoi de la cause au premier juge pour qu'il statue à nouveau. Il a en outre produit une
+copie de la requête de mesures provisionnelles et superprovisionnelles adressée par U.________
+au Président du Tribunal civil de l’arrondissement de l’Est vaudois le 28 juin 2012.
+L’intimée a répondu par acte du 7 mai 2013, concluant, avec suite de frais et dépens,
+au rejet du recours.
+En droit
+:
+I.
+a)
+Les recours ont été formés en
+temps utile, dans le délai de dix jours de l’art. 321 al. 2 CPC (Code de procédure
+civile du 19 décembre 2008; RS 272), applicable par le renvoi de l’art. 278 aI. 3 LP. Ils
+sont écrits et motivés, et contiennent des conclusions de sorte qu’ils sont recevables
+à la forme (art. 321 al. 1 CPC; Reiser, Basler Kommentar, n. 40 ad art. 321 CPC; Freiburghaus/Afheldt,
+ZPO Kommentar, n. 14 ad art. 321 CPC; sur l’exigence des conclusions au fond: cf. Jeandin,
+Code de procédure civile commenté, n. 5 ad art. 321 CPC).
+b)
+Pour simplifier le procès, le tribunal peut notamment ordonner une jonction de causes (art. 125
+let. c CPC). La jonction de causes, comme la division de causes, n'est pas conditionnée par des
+critères précis, tels que la connexité pour la jonction ou l'absence de connexité
+pour la division. Le seul critère est celui de la simplification du procès, selon l'appréciation
+du tribunal (Haldy, Code de procédure civile commenté, Bâle 2011, n. 6 ad art. 125 CPC).
+En l'occurrence, les deux recours déposés concernent le même complexe de faits et la même
+problématique juridique. Il s'agit, dans les deux cas, d'examiner les conditions du séquestre.
+En conséquence, il se justifie que les deux causes soient jointes pour être traitées dans
+le présent arrêt.
+c)
+En principe, en procédure de recours, les conclusions, les allégations de faits et les preuves
+nouvelles sont irrecevables (art. 326 al. 1 CPC). En effet, le tribunal de deuxième instance doit
+statuer sur un état de fait identique à celui examiné par le premier juge. Cette règle,
+stricte, s’explique par le fait que l’instance de recours a pour mission de contrôler
+la conformité au droit de la décision entreprise, mais pas de poursuivre la procédure
+de première instance; à l’instar du Tribunal fédéral, l’instance de recours
+doit contrôler la juste application du droit à un état de fait arrêté définitivement
+(Chaix, Introduction au recours de la nouvelle procédure civile fédérale, in SJ 2009 Il
+257 ss, n. 17, p. 267). Cependant, l’art. 326 al. 2 CPC réserve les dispositions spéciales
+de la loi, ce qui vise non seulement les règles contenues dans le CPC, mais toute norme de droit
+fédéral. A ce titre, la loi fédérale sur la poursuite pour dettes et la faillite
+contient des règles spécifiques en relation avec le recours contre le jugement de faillite
+(art. 174 al. 1 et aI. 2 LP), avec la décision sur opposition à séquestre (art. 278 aI.
+3 LP) et avec le recours contre le jugement statuant sur la révocation du sursis extraordinaire
+(art. 348 al. 2 LP). Ainsi, l’art. 278 aI. 3, 2
+ème
+phrase LP prévoit explicitement que les parties peuvent alléguer des faits nouveaux. Cependant,
+ces faits nouveaux doivent s’être produits depuis la décision du premier juge. Seuls
+les vrais nova sont admissibles (Reiser, Basler Kommentar, n. 46 ad art. 278 LP et les références
+citées; Bovey, La révision de la Convention de Lugano et le séquestre, in JT 2012 lI 80
+ss, p. 97 et les références citées à la note infrapaginale n. 99; CPF, 3 avril 2013/143).
+En l'espèce, A.A.________ a produit une pièce nouvelle à l’appui de sa réponse,
+savoir une copie de la requête de mesures provisionnelles et superprovisionnelles adressée
+par U.________ au Président du Tribunal civil de l’arrondissement de l’Est vaudois le
+28 juin 2012. Cette pièce nouvelle ne concerne pas des vrais novas au sens définis ci-dessus
+et n’est de ce fait pas recevable.
+d)
+Alors que le juge du séquestre rend son ordonnance sans avoir entendu la partie adverse, l'opposition
+a pour but l'examen ultérieur, en contradictoire, de toutes les conditions du séquestre. Le
+pouvoir d'examen du juge n'est pas plus étendu que celui qu'il avait lorsqu'il a statué unilatéralement
+sur la requête de séquestre, mais le point de vue défendu par l'opposant et les preuves
+déposées devant lui doivent lui permettre de reconsidérer tout ou partie de sa décision
+après une information plus complète (Reeb, Les mesures provisoires dans la procédure de
+poursuite, in RDS 1997 II, p. 478; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 70 ad art. 278 LP).
+Le recours contre la décision du juge statuant sur une opposition au séquestre est dévolutif
+(Gilliéron, op. cit., n. 82 ad art. 278 LP). L'autorité de recours statue uniquement sous l'angle
+de la vraisemblance des conditions du séquestre (Reeb, op. cit., p. 482 et les auteurs cités
+à la note infrapaginale n. 393).
+II.
+Dans un de ses moyens, A.A.________
+se
+plaint d’une violation de son droit d’être
+entendu en raison d’une motivation insuffisante de la décision attaquée. Un tel grie
+f,
+d’ordre formel, étant susceptible de justifier une annulation de la décision inférieure,
+il convient de l’examiner en premier lieu.
+Le CPC (art. 53) consacre le droit des parties d’être entendues, droit qui est garanti par
+l'art. 29 al. 2 Cst.
+(Constitution fédérale
+de la Confédération suisse du 18 avril 1999; RS 101) et qui implique notamment l'obligation
+pour le juge de motiver ses décisions, afin que le justiciable puisse comprendre et exercer ses
+droits de recours à bon escient. Une motivation insuffisante constitue une violation du droit que
+la juridiction supérieure peut librement examiner dans le cadre d’un recours selon les art.
+319 ss CPC (Tappy, Code de procédure civile commenté, n. 18 ad art. 239 CPC).
+Selon la jurisprudence, l
+e juge doit mentionner,
+au moins brièvement, les motifs qui l'ont guidé et sur lesquels il a fondé sa décision,
+de manière à ce que l'intéressé puisse se rendre compte de la portée de celle-ci
+et l'attaquer en connaissance de cause, mais aussi à ce que l'autorité de recours puisse contrôler
+l'application du droit ; il n'a toutefois pas l'obligation d'exposer et de discuter tous les faits,
+moyens de preuve et griefs invoqués par les parties, mais peut au contraire se limiter à ceux
+qui, sans arbitraire, apparaissent pertinents (ATF 134 I 83 c. 4.1; TF 4A_265/2008 du 26 août 2008,
+c. 2.1.1).
+En l'espèce, le premier juge a motivé sa décision. Il a retenu que les conventions produites
+valaient titre de mainlevée et que, partant, le cas de séquestre prévu à l’art.
+271 al. 1 ch. 6 LP était réalisé. Il a détaillé les calculs effectués pour
+arriver au montant qu’il estimait être dû au titre de contribution d’entretien
+tout en précisant que de son point de vue, la convention signée le 2 mars 2010 n’impliquait
+pas la nullité de celle signée en 2003.
+Le juge de paix a ainsi suffisamment exposé les motifs sur lesquels il a fondé sa décision.
+Le grief d'absence de motivation est ainsi manifestement infondé.
+III.
+Aux termes de l'art. 272 al. 1 LP, le séquestre
+est autorisé par le juge compétent lorsque le créancier rend vraisemblable que sa créance
+existe
+(ch. 1), qu'on est en présence
+d'un cas de séquestre (ch. 2) et qu'il existe des biens appartenant au débiteur (ch. 3).
+Lorsque la loi n'exige
+que la simple vraisemblance, il suffit que le juge, dans son libre examen, aboutisse à la conviction
+que le fait invoqué correspond, avec une probabilité suffisante, aux allégations de la
+partie, sans qu'il doive nécessairement être convaincu de son exactitude ou que toute autre
+solution paraisse exclue (ATF 120 II 393, JT 1995 I 571 ; Hohl, Procédure civile, tome II, nn. 2758
+ss, p. 225 ; Reeb, op. cit., pp. 465-466).
+Les cas de séquestre sont énumérés à l'art. 271 al. 1 LP. Selon le ch. 6 de
+cette disposition, le créancier d’une dette échue et non garantie par gage peut requérir
+le séquestre des biens du débiteur qui se trouvent en Suisse lorsqu'il possède contre
+le débiteur un titre de mainlevée définitive.
+Constituent un tel titre les jugements exécutoires, y compris ceux de première instance déclarés
+exécutoires, nonobstant appel, les transactions ou reconnaissances passées en justice, les
+titres authentiques exécutoires et les décisions des autorités administratives suisses,
+ainsi que les sentences rendues par un tribunal arbitral dont le siège est en Suisse ou à l’étranger
+(Bovey, op. cit., pp. 84-85 et les références citées aux notes infrapaginales nn. 26 à
+34). Le juge du séquestre doit ainsi vérifier, prima facie, que la décision ou le titre
+invoqué est exécutoire ; cet examen s’effectue notamment en regard de l’autorité
+dont émane la décision (Bovey, op. cit., p. 86 et la référence citée à
+la note infrapaginale n. 35).
+Est en particulier
+exécutoire la décision qui est entrée en force de chose jugée et dont le caractère
+exécutoire n’a pas été suspendu (Hohl, op. cit., n. 3219).
+Contrairement aux cas de séquestre prévus aux ch. 1 à 5 de l’art. 271 al. 1 LP,
+point n’est besoin, dans le cas du ch. 6, que le séquestrant rende vraisemblable l’existence
+de sa créance, car cette vraisemblance découle directement du titre produit.
+En l’espèce, il n’est pas contesté que les transactions judiciaires produites constituent
+bien des titres de mainlevée définitive.
+IV.
+A.A.________ soutient qu’en signant la convention
+passée lors de l’audience du 2 novembre 2011, les parties auraient purement et simplement
+annulé, dans son entier, celle signée le 26 janvier 2003 avec pour conséquence que U.________
+n’était dès lors plus autorisée à se prévaloir d’un quelconque arriéré
+de contributions fondé sur la convention de 2003.
+Conformément à la règle de l’art. 18 CO (Code des obligations, loi fédérale
+du 30 mars 1911 complétant le code civil suisse; RS 220), il faut rechercher la réelle volonté
+des parties en s’attachant en premier lieu aux termes utilisés dans l’acte (Winiger,
+Commentaire romand, nn. 25 à 53 ad art. 18 CO).
+En l’occurrence, l’usage, dans la convention du 2 novembre 2011, du terme "annulée"
+complété immédiatement par celui de "remplacée" avec l’indication
+d’une date pour l’entrée en vigueur des nouveaux montants de pensions, soit le 1
+er
+juillet
+2011, permet de conclure, au stade de la vraisemblance en tous les cas, que les parties ont simplement
+voulu modifier le régime des contributions d’entretien en vigueur jusqu’alors. Il n’est
+en tous les cas pas possible d’inférer des termes choisis que les parties auraient voulu annuler,
+avec effet ex tunc, la convention passée en 2003.
+Ce moyen doit donc être écarté.
+V.
+Dans un autre moyen, A.A.________
+soutient que U.________ n’aurait pas rapporté la preuve que l’avis écrit, mentionné
+au chiffre II de la convention de 2003 pour permettre l’application du régime prévu en
+cas de mésentente, lui aurait été signifié.
+Il est vrai que le chiffre 1 du point II de la convention prévoit que "chaque parent est habilité,
+moyennant avis écrit donné pour la fin d’un mois, d’exiger l’application
+de ce chiffre II de la convention dès le début du mois suivant".
+Cet argument, invoqué au stade du recours seulement, ne résiste toutefois pas à l’examen.
+Il ressort en effet clairement des relevés bancaires produits par U.________ que le régime
+conventionnel prévu sous chiffre II de la convention de 2003 a été appliqué par A.A.________
+dès le mois d’août 2009, date à laquelle il a versé 3’000 fr., conformément
+au régime prévu en cas de mésentente, en lieu et place des 500 fr. forfaitaires qu’il
+versait précédemment en application du régime prévu en cas de bonne entente. A cela
+s’ajoute que dans sa requête de mesures provisionnelles du 29 juillet 2011 produite par la
+séquestrante, A.A.________ admettait sans réserve que cette convention mettait à sa charge
+une contribution d’entretien de 3'000 francs. Ainsi, et sauf à violer les règles de la
+bonne foi, le recourant ne saurait se prévaloir aujourd’hui d’une absence d’avis
+écrit pour se soustraire à ses obligations.
+Le moyen est dès lors mal fondé.
+VI.
+A.A.________ fait encore valoir que le premier
+juge a méconnu la portée de l’art 125 al. 4 CPC-VD (Code de procédure civile vaudois
+du 14 décembre 1966; RSV 270.11) en considérant que le régime provisoire convenu le 2
+mars 2010 avait cessé dès le 2 septembre 2010, soit après les six mois convenus pour la
+suspension de la cause au fond, et non dès le 2 mars 2011.
+La péremption procédurale, qui intervient de par l'écoulement du temps, est la conséquence
+de l'inaction des parties dans une procédure soumise à la maxime de disposition. Elle se justifie
+du fait qu'aucun des plaideurs ne manifeste, dans un certain délai, le désir de poursuivre
+l'instance (JT 2006 III 24, c. 2a p. 25; Tappy, note in JT 2002 III 161). Dans le cas de péremption
+procédurale, l’inaction des parties entraîne automatiquement la péremption de l’instance,
+que le juge se borne à constater (JT 2002 III 161, c. 4b). Il appartient donc aux parties, qui veulent
+éviter les inconvénients d'avoir engagé en vain une procédure ou d'avoir procédé
+inutilement sur une demande, d'interrompre le cours de la péremption aux conditions prévues
+par les dispositions légales appropriées (JT 2005 III 59, c. 3 p. 61 et la référence).
+Selon l'art. 125 al. 1 CPC-VD, la cause pouvait être suspendue pour une durée déterminée
+de trois mois au moins et un an au plus par une convention des parties, non soumise à la ratification
+du juge; cette convention pouvait être renouvelée et répétée. A l’expiration
+du délai de suspension, la cause était reprise sur réquisition de l’une des parties
+(art. 125 al. 3 CPC-VD). L'instance était périmée si la reprise de cause n’était
+pas requise dans les six mois dès l'expiration de la suspension (art. 125 al. 4 CPC-VD).
+Au vu de ce qui précède, il faut admettre que l’instance ouverte à l’initiative
+de A.A.________ a été suspendue, en application de l’accord du 2 mars 2010, jusqu’au
+2 septembre 2010. La péremption d’instance n’est toutefois intervenue, automatiquement,
+soit indépendamment de la décision de constatation du juge, que six mois plus tard, soit le
+2 mars 2011. Dans l’intervalle, l’accord provisionnel, passé à l’audience
+du 2 mars 2010, qui arrêtait le montant de la contribution d’entretien due à 1'500 fr.
+est resté en vigueur. Dès lors, le premier juge ne pouvait retenir que le recourant devait,
+pour la période du 1
+er
+septembre 2010 au 31 mars 2011, la somme mensuelle de 3'000 fr. (en application de la convention du
+26 janvier 2003), seule la somme mensuelle de 1'500 fr. étant due (en application de la convention
+du 2 mars 2010).
+Ainsi, le montant total dû par A.A.________ à U.________ doit être calculé de la
+manière suivante:
+-
+Du 1
+er
+octobre 2009 au 28 février 2010: 8'700 fr. ((5 mois x 3'000 fr.) – 6'300 fr.),
+-
+Du 1
+er
+mars 2010 au 31 mars 2011: - 200 fr. ((13 mois x 1'500 fr.) – 19'700 fr.),
+-
+Du 1
+er
+avril 2011 au 30 juin 2011: 4'500 fr. ((3 mois x 3'000 fr.) – 4'500 fr.),
+-
+Du 1
+er
+juillet 2011 au 29 février 2012: 3'800 fr. ((8 mois x 1'600 fr. [850 fr. + 750 fr.]) – 9'000
+fr.),
+-
+Du 1
+er
+mars 2012 au 30 juin 2012: 2'000 fr. (4 mois x 1'700 fr. [850 fr. + 850 fr.]) – 4'800 fr.),
+soit
+au total, 18'800 francs.
+VII.
+U.________ fait quant à elle valoir que c’est
+à tort que le premier juge a tenu compte de la totalité de la somme de 4'100 fr. payée
+par A.A.________ dans la mesure où, conformément au texte de la convention du 5 septembre 2012,
+cette somme inclut le paiement de la pension de septembre 2012, arrêtée à 1'700 fr., laquelle
+n’était toutefois pas visée par le séquestre qui ne portait que sur les arriérés
+dus jusqu’à fin du mois de juin 2012.
+Il est vrai que l’accord passé le 5 septembre 2012 prévoit le versement d’une somme
+de 4’100 fr. destiné à couvrir un arriéré de pensions mais précise que
+ce montant inclut la pension de septembre 2012. Cette dernière n’est toutefois pas visée
+par le séquestre qui concerne les arriérés de pensions allant d’octobre 2009 à
+juin 2012. Conformément à l’accord passé le 2 novembre 2011, la contribution due
+pour le mois de septembre 2012 s’élevait, compte tenu de l’âge des enfants (11
+et 14 ans) à 1’700 francs. Ce dernier montant ne devait donc pas être déduit du
+montant sur lequel porte le séquestre. Ainsi, seule la somme de 2'400 fr. sera déduite, valeur
+au 5 septembre 2012.
+VIII.
+U.________ soutient encore que l’ordonnance de séquestre portait sur une somme de 25'800 fr.
+avec intérêt à 5% l’an dès le 1
+er
+janvier 2011 et que, bien que ce point n’ait été ni contesté ni examiné dans
+la décision querellée, cette dernière fixe le point de départ des intérêts
+aux 1
+er
+janvier 2012.
+Dans la mesure où ce point
+n’a effectivement pas été contesté ni discuté par le juge de l’opposition,
+il convient de constater qu’il s’agit effectivement d’une erreur de plume susceptible
+d’être corrigée par l’autorité de recours (art. 334 CPC).
+IX.
+En définitive, le recours de U.________ doit
+être admis et celui de A.A.________ admis partiellement. Le prononcé doit être réformé
+dans le sens des considérants qui précèdent.
+Les frais de première instance, arrêtés à 360 fr., sont mis à la charge du séquestré
+à concurrence de 65 %, soit 235 fr., et à la charge de la séquestrante à concurrence
+de 35 % soit 125 fr. (art. 106 al. 2 CPC). A.A.________, opposant au séquestre, obtenant partiellement
+gain de cause, a droit au défraiement de ses frais d'avocat à concurrence de 525 fr., soit
+1'500 fr. réduits de 65 % (art. 3 et 6 TDC [Tarif des dépens en matière civile du 23 novembre
+2010; RSV 270.11.6]).
+Les frais de deuxième instance du recours de A.A.________ sont arrêtés à 570 fr.
+et mis à la charge du recourant à concurrence de 370 fr. et à la charge de l'intimée
+à concurrence de 200 francs. U.________ doit verser au recourant la somme de 500 fr. à titre
+de dépens réduits (art. 3 et 8 TDC). Les frais du recours de U.________, arrêtés
+à 270 fr., sont mis à la charge de A.A.________ qui succombe (art. 106 al. 1 CPC). Celui-ci
+doit verser à la recourante la somme de 400 fr. à titre de défraiement de son avocat (art.
+3 et 8 TDC). Globalement, c'est donc une somme de 30 fr. qui est due par U.________ à A.A.________.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours de A.A.________ est partiellement admis.
+II.
+Le recours de U.________ est admis.
+III.
+Le prononcé est réformé en ce sens que l'opposition au séquestre est partiellement
+admise et l'ordonnance de séquestre du 3 août 2012 réformée en ce sens qu'elle porte
+sur une créance de 18'800 fr. (dix-huit mille huit cents francs) avec intérêt à 5
+% l'an dès le 1
+er
+janvier 2011 sous déduction de 2'400 fr. (deux mille quatre cents francs), valeur au 9 septembre
+2012.
+Les frais judiciaires
+de première instance, arrêtés à 360 fr. (trois cent soixante francs), sont mis à
+la charge de A.A.________ à concurrence de 235 francs (deux cent trente-cinq francs) et de U.________
+à concurrence de 125 fr. (cent vingt-cinq francs).
+U.________ doit verser
+à A.A.________ la somme de 650 fr. (six cent cinquante francs) à titre de restitution partielle
+d'avance de frais et de dépens de première instance.
+IV.
+Les frais judiciaires de deuxième instance, arrêtés à 840 fr. (huit cent quarante
+francs), sont mis à la charge de A.A.________ à concurrence de 640 fr. (six cent quarante francs)
+et à la charge de U.________ à concurrence de 200 fr. (deux cents francs).
+V.
+U.________ doit verser à A.A.________ la somme de 30 fr. (trente francs) à titre de dépens
+de deuxième instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+16 juillet 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Alain Brogli, avocat (pour A.A.________),
+‑
+Me Anne-Rebecca Bula, avocate (pour U.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 23'400 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de la Riviera – Pays-d'Enhaut.
+La greffière :
