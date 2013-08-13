@@ -1,0 +1,501 @@
+---
+decision_id: "vd_findinfo_PP_1_13_inc."
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+chamber: "PP"
+docket: "PP 1/13 inc."
+decided: "2013-08-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CASSO/Jug/20130820085722436_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/273/art-006.md", "switzerland/bund/acts/830.1/art-057.md", "switzerland/bund/acts/831.40/art-056.md", "switzerland/bund/acts/831.40/art-056a.md", "switzerland/bund/acts/831.40/art-073.md"]
+---
+
+# VD Findinfo PP 1/13 inc.
+
+## Regeste
+
+DÉCISION INCIDENTE, COMPÉTENCE RATIONE MATERIAE, SUSPENSION DE LA PROCÉDURE, REJET DE LA DEMANDE | 56a al. 1 LPP, 73 al. 1 LPP
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 13.08.2013 PP 1/13 inc.
+
+DÉCISION INCIDENTE, COMPÉTENCE RATIONE MATERIAE, SUSPENSION DE LA PROCÉDURE, REJET DE LA DEMANDE | 56a al. 1 LPP, 73 al. 1 LPP
+
+TRIBUNAL
+CANTONAL
+PP
+1/13 inc.
+ZI13.000204
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Jugement incident
+du 13 août 2013
+__________________
+Présidence
+de               Mme
+Pasche
+Juges
+:              Mmes
+Thalmann et Röthenbacher
+Greffière
+:              Mme
+Berberat
+*****
+Cause
+pendante entre :
+FONDS
+DE GARANTIE lpp
+, à Berne, demandeur, représenté
+par Me Alexandre Bernel, avocat à Lausanne,
+et
+Banque
+R.________
+, à [...], défenderesse, représentée
+par Me Christian Fischer, avocat à Lausanne,
+C.________
+,
+à [...], défendeur, représenté par Mes Yves Magnin et Patrick Udry, avocats à
+Genève,
+N.________
+,
+à [...], défendeur,
+P.________
+,
+à [...], défendeur,
+A.G.________
+,
+à [...], défendeur,
+B.G.________
+,
+à [...], défendeur, représenté par Me Catherine Weniger, avocate à Lausanne,
+M.________
+,
+à [...], défenderesse, représentée par Me Anne-Sylvie Dupont, avocate à Lausanne,
+B.________
+,
+à [...], défendeur,
+H.________
+,
+à [...] (France), défendeur, représenté par Me Corinne Monnard Séchaud,
+avocate à Lausanne,
+T.________
+,
+à [...], défendeur, représenté par Me Corinne Monnard Séchaud, avocate
+à Lausanne.
+E n  f a i t  :
+A.
+Le Fonds de garantie LPP est une fondation dont le siège se trouve à Berne et qui a notamment
+pour but la gestion du Fonds de garantie au sens des art. 56 à 59 LPP.
+La Fondation de Prévoyance pour le personnel de D.________ SA et sociétés affiliées
+en liquidation est une fondation inscrite le 29 décembre 1998 au Registre du commerce du canton
+de Vaud avec le but suivant: "prévoyance professionnelle dans le cadre de la LPP et de ses
+dispositions d'application en faveur des salariés de la société D.________ SA respectivement
+de l'employeur et en faveur des salariés des entreprises étroitement liées économiquement
+ou financièrement, ainsi qu'en faveur de leurs survivants contre les conséquences économiques
+de la vieillesse, du décès et de l'invalidité". B.G.________, A.G.________, C.________,
+P.________, H.________, T.________, N.________, M.________, Q.________, B.________ et P.________ siégeaient
+dans le conseil de fondation de la Fondation de Prévoyance pour le personnel de D.________ SA et
+sociétés affiliées, le premier nommé en qualité de président.
+La Banque R.________ (ci-après: la Banque R.________) et la Fondation de Prévoyance pour le
+personnel de D.________ SA et sociétés affiliées ont signé un "mandat de gestion
+d’une institution de prévoyance" les 18 janvier et 21 février 2000, ainsi que le
+9 mars 2001. Elles ont par ailleurs conclu un contrat de mandat de gestion administrative, technique
+et comptable les 18 et 19 janvier 2000.
+Le Département de l’intérieur du canton de Vaud a constaté la dissolution de la
+Fondation de Prévoyance pour le personnel de D.________ SA et sociétés affiliées
+le 5 octobre 2007.
+B.
+Par demande du 24 décembre 2012 adressée à la Cour des assurances sociales du Tribunal
+cantonal, le Fonds de garantie LPP a ouvert action contre la Banque R.________, C.________, N.________,
+P.________, A.G.________, B.G.________, M.________, B.________, H.________ et T.________, en prenant
+la conclusion suivante:
+"I.
+Le demandeur Fonds de garantie LPP est créancier des défendeurs Banque R.________, C.________,
+N.________, P.________, A.G.________, B.G.________, M.________, B.________, H.________ et T.________,
+qui lui doivent immédiat paiement des montants suivants:
+-
+Fr. 19'230.05, avec intérêt à 5%
+l’an dès le 20 novembre 2008,
+-
+Fr. 8'031.35, avec intérêt à 5%
+l’an dès le 20 novembre 2008,
+-
+Fr. 2'291'405.50, avec intérêt à
+5% l’an dès le 28 novembre 2008,
+-
+Fr. 1'619'909.55, avec intérêt à
+5% l’an dès le 5 décembre 2008,
+-
+Fr. 8'763.80, avec intérêt à 5%
+l’an dès le 9 décembre 2008,
+-
+Fr. 2'746'413.80, avec intérêt à
+5% l’an dès le 12 décembre 2008,
+-
+Fr. 23'189.45, avec intérêt à 5%
+l’an dès le 16 décembre 2008,
+-
+Fr. 849'736.90, avec intérêt à
+5% l’an dès le 19 décembre 2008,
+-
+Fr. 201'869.65, avec intérêt à
+5% l’an dès le 25 décembre 2008,
+-
+Fr. 26'870.40, avec intérêt à 5%
+l’an dès le 27 janvier 2009,
+-
+Fr. 390'250.65, avec intérêt à
+5% l’an dès le 30 janvier 2009,
+-
+Fr. 314'926.30, avec intérêt à
+5% l’an dès le 13 février 2009,
+-
+Fr. 340'899.45, avec intérêt à
+5% l’an dès le 24 avril 2009,
+-
+Fr. 17'801.75, avec intérêt à 5%
+l’an dès le 22 octobre 2010,
+-
+Fr. 2'236'400-., avec intérêt à
+5% l’an dès le 1
+er
+janvier 2008,
+-
+Fr. 282'851.60, avec intérêt à
+5% l’an dès le 1
+er
+janvier 2008,
+-
+Fr. 410.-, avec intérêt à 5% l’an
+dès le 24 décembre 2010,
+-
+tous les autres montants qui seront à l’avenir
+versés par Fonds de garantie LPP à un ou plusieurs assuré(s) de Fondation de Prévoyance
+pour le personnel de D.________ SA et sociétés affiliées en liquidation, à titre
+de prestations de prévoyance professionnelle,
+dont
+à déduire les sommes suivantes:
+-
+Fr. 4'412.60, valeur 24 décembre 2008,
+-
+Fr. 11'924.92, valeur 6 avril 2009,
+-
+Fr. 4'213.48, valeur 6 avril 2009,
+-
+Fr. 96'868.45, valeur 6 avril 2009,
+-
+Fr. 3'000'000.-, valeur 20 juillet 2012,
+-
+toutes autres sommes que Fondation de Prévoyance
+pour le personnel de D.________ SA et sociétés affiliées en liquidation pourrait verser
+à l’avenir au demander Fonds de garantie LPP dans le cadre de la liquidation de ladite fondation,
+montants
+dus solidairement par lesdits défendeurs ou selon une répartition à fixer à dire
+de justice, sous déduction de:
+-
+Fr. 229'637.25, valeur au 31 décembre 2012,
+-
+Fr. 53'214.35, valeur au 31 décembre 2012,
+-
+à raison de Fr. 229'637.25 en faveur du défendeur
+T.________ et de Fr. 53'214.35 en faveur du défendeur H.________, subsidiairement entre tous les
+défendeurs."
+Le 31 janvier 2013, la Banque R.________, par son conseil, a émis des réserves sur la compétence
+ratione materiae
+de la Cour de céans, en expliquant douter que la cause relève de l’art. 93 let. c LPA-VD,
+dans la mesure où la Banque R.________ n’était pas recherchée en qualité d’employeur
+ou d’ayant droit, le procès n’étant par ailleurs pas ouvert par une institution
+de prévoyance ou de libre passage au sens de cette disposition. La Banque R.________ soutenait en
+outre que la cause ne relevait pas non plus de l’art. 93 let. a LPA-VD, ne s’agissant pas
+d’un recours selon l’art. 57 LPGA. La Banque R.________ a en outre requis la suspension de
+la procédure jusqu’à ce que soit achevée la liquidation de la Fondation de prévoyance
+pour le personnel de D.________ SA et sociétés affiliées en liquidation, en arguant du
+fait que les conclusions de la demande n’étaient pas définitives.
+Le 7 février 2013, le demandeur s’est opposé à ce que la question de la compétence
+de la Cour de céans fasse l’objet d’un examen et/ou d’une décision préalables,
+dans la mesure où il estimait que la situation était parfaitement claire et la compétence
+de la Cour de céans donnée.
+Se déterminant spontanément le 14 février 2013, la Banque R.________ a fait valoir que
+dans la mesure où l’organisation judiciaire demeurait l’affaire des cantons (sic), il
+paraissait exclu que l’art. 73 LPP désigne ou puisse désigner les tribunaux devant connaître
+en dernière instance cantonale des contestations opposant institutions de prévoyance, employeurs
+et ayants droit, ainsi que d’autres contestations selon l’art. 73 al. 1 let. a-d LPP,
+en notant que l’art. 73 LPP chargeait expressément chaque canton de désigner le tribunal
+qui devrait fonctionner comme dernière instance cantonale, sans le désigner lui-même.
+Elle a encore relevé que l’intervention du fonds de garantie prévue à l’art.
+56a al. 1 LPP actuellement en vigueur n’était pas visée par la disposition – antérieure
+– de l’art. 73 al. 1 let. d LPP.
+Le 21 mars 2013, la Banque R.________ a formellement requis que la Cour de céans rende une décision
+préalable sur la question de sa compétence
+ratione
+materiae
+et que la procédure soit suspendue
+jusqu’à ce que soit achevée la liquidation de la Fondation de prévoyance pour le
+personnel de D.________ SA et sociétés affiliées en liquidation.
+Le 6 mars 2013, un délai a été imparti aux parties pour se déterminer sur la compétence
+ratione materiae
+de la Cour de céans et sur la suspension de la procédure jusqu’à ce que soit achevée
+la liquidation de la Fondation de prévoyance pour le personnel de D.________ SA et sociétés
+affiliées en liquidation.
+Le 22 avril 2013, B.G.________, représenté par Me Catherine Weniger, a déclaré s’en
+remettre à justice s’agissant de la compétence
+ratione
+materiae
+de la Cour. S’agissant de la suspension
+de la cause, il a relevé que de l’aveu du demandeur lui-même, sa demande en paiement
+était prématurée dès lors que le montant de sa créance n’était pas
+encore déterminé, l’art. 56a LPP, tant dans son ancienne teneur que dans sa teneur actuelle,
+n’ouvrant un droit au Fonds de garantie qu’à concurrence des prestations garanties.
+B.G.________ déclarait dès lors ne pas s’opposer à la requête de suspension
+de la procédure.
+Le 22 avril 2013, M.________ a déclaré, par son conseil Me Anne-Sylvie Dupont, s’en remettre
+à justice tant sur la question de la compétence
+ratione
+materiae
+que sur celle de la suspension de la
+procédure.
+Se déterminant le 22 avril 2013, le demandeur a confirmé qu’il avait ouvert une action
+fondée sur l’art. 56a al. 1 LPP, et qu’il convenait d’interpréter l’art. 93
+al. 1 let. c LPA-VD et l’art. 36 ROTC en ce sens qu’en attribuant à la Cour des assurances
+sociales la compétence de connaître "des contestations et prétentions en matière
+de responsabilité relatives à la prévoyance professionnelle opposant institutions de prévoyance
+et de libre passage, employeur et ayant droit", ces dispositions visaient non seulement les contestations
+opposant institutions de prévoyance, employeurs et ayants droit, mais aussi le droit de recours
+du fonds de garantie selon l’art. 56a al. 1 LPP. Le demandeur a en outre conclu au rejet de la
+requête de suspension de la procédure, et a finalement conclu à l’octroi de dépens,
+compte tenu du caractère "manifestement dilatoire" des deux interventions de la Banque
+R.________.
+C.________, par ses conseils, s’en est remis à l’appréciation de la Cour dans ses
+déterminations du 22 avril 2013, ce tant s’agissant de la question de la compétence
+ratione
+materiae
+de la Cour que celle de la suspension.
+Dans leurs déterminations du 22 avril 2013, T.________ et H.________, par leur conseil Me Corinne
+Monnard Séchaud, s’en sont remis à justice s’agissant de la compétence
+ratione
+materiae
+de la Cour, en relevant toutefois que
+l’art. 73 LPP semblait régler la problématique. T.________ et H.________ s’opposaient
+par contre à la suspension de la procédure jusqu'à droit connu sur la liquidation de la
+Fondation D.________ SA, en relevant que s’il était certain que la liquidation de la Fondation
+de prévoyance pour le personnel de D.________ SA et sociétés affiliées devait être
+achevée au moment où le jugement final serait rendu sur le fond, cela n’excluait pas
+que l’instruction de la procédure soit débutée, au risque de reporter de nombreux
+mois, voire de plusieurs années, le début de l’instruction de la procédure.
+N.________, P.________, A.G.________ et B.________ ne se sont pas déterminés.
+E n  d r o i t  :
+1.
+Le litige porte en premier lieu sur la compétence
+ratione
+materiae
+de la Cour de céans.
+a)
+D'après l'art. 73 al. 1 de la loi fédérale sur la prévoyance professionnelle vieillesse,
+survivants et invalidité du 25 juin 1982 (LPP; RS 831.40), chaque canton désigne un tribunal
+qui connaît, en dernière instance cantonale, des contestations opposant institutions de prévoyance,
+employeurs et ayants droit. Dans le canton de Vaud, cette compétence est dévolue à la
+Cour des assurances sociales du Tribunal cantonal (art. 93 al. 1 let. c de la loi vaudoise du 28 octobre
+2008 sur la procédure administrative [LPA-VD, RSV 173.36]). Selon cette disposition, dans le domaine
+des assurances sociales, le Tribunal cantonal connaît des contestations et prétentions en matière
+de responsabilité relatives à la prévoyance professionnelle opposant institutions de prévoyance
+et de libre passage, employeurs et ayants droit.
+Lorsque le litige porte sur une contestation opposant le Fonds de garantie LPP aux personnes responsables
+de l'insolvabilité de l'institution de prévoyance ou du collectif d'assurés (art. 73 al.
+1 let. d LPP), l'action est ouverte à l'initiative du premier nommé par une écriture qui
+doit désigner les personnes recherchées, contenir des conclusions ainsi qu'une motivation;
+c'est elle qui déclenche l'ouverture de la procédure et détermine l'objet du litige et
+les parties en cause (maxime de disposition; ATF 129 V 450 consid. 3.2 p. 453 et la référence).
+Dans sa teneur initiale en vigueur jusqu'au 31 décembre 1996, l'art. 56 al. 1 let. b LPP (RO 1983
+797) confiait le soin au Conseil fédéral d'édicter des prescriptions sur les conditions
+dont dépendait la prise en charge des prestations légales dues par des institutions de prévoyance
+devenues insolvables, ainsi que sur le droit de recours contre les organes d'institutions de prévoyance
+insolvables. Sur la base de cette délégation de compétence, le Conseil fédéral
+avait édicté l'ordonnance sur l'administration du "fonds de garantie LPP" du 7 mai
+1986 (OFG 2; RO 1986 867; en vigueur jusqu'au 30 juin 1998, RO 1998 1662). Selon l'art. 11 de cette ordonnance,
+le Fonds de garantie LPP avait, dans les limites des prestations garanties, un droit de recours contre
+les personnes responsables de l'insolvabilité de l'institution de prévoyance.
+Afin de consacrer le droit de recours du Fonds de garantie LPP dans une règle de niveau législatif,
+le législateur a adopté l'art. 56a al. 1 LPP, disposition qui est entrée en vigueur le
+1
+er
+janvier 1997 (RO 1996 3067; voir le rapport du 24 août 1995 de la Commission de la sécurité
+sociale et de la santé publique du Conseil national en réponse à l'initiative parlementaire
+Rechsteiner, FF 1996 I 528; voir également TFA B 10/05 du 30 mars 2006 consid. 8.2.3.4, in SVR 2006
+BVG n° 34 p. 131). En vertu de cette disposition, le Fonds de garantie LPP disposait, à
+concurrence des prestations garanties, d'un droit de recours contre des personnes responsables de l'insolvabilité
+de l'institution de prévoyance ou du collectif d'assurés.
+Dans sa teneur applicable depuis le 1
+er
+janvier 2005, l'art. 56a al. 1 LPP prévoit que le Fonds de garantie LPP peut, vis-à-vis des
+personnes responsables de l'insolvabilité de l'institution de prévoyance ou du collectif d'assurés
+(depuis le 1
+er
+janvier
+2012: de la caisse de pension affiliée [RO 2011 3385]), participer aux prétentions de l'institution
+au moment du versement des prestations garanties et jusqu'à concurrence de celles-ci. Le Fonds de
+garantie LPP est désormais subrogé aux droits de l'institution de prévoyance à concurrence
+des prestations garanties (Beat Christen, Commentaire LPP et LFLP, Berne, 2010, n° 6 ad art.
+56a LPP).
+b)
+La Banque R.________ met en cause la compétence matérielle de la Cour de céans, au motif
+d’une part que le procès n’est pas ouvert par une institution de prévoyance ou
+de libre passage, et d’autre part qu’elle [Banque R.________] n’est pas recherchée
+en qualité d’employeur ou d’ayant droit. Pour elle, dans la mesure où l’organisation
+judiciaire demeure l’affaire des cantons, il paraît exclu que l’art. 73 LPP désigne
+ou puisse désigner directement les tribunaux devant connaître en dernière instance cantonale
+des contestations opposant institutions de prévoyance, employeurs et ayants droit, ainsi que d’autres
+contestations selon l’art. 73 al. 1 let. a-d LPP, estimant que l’art. 73 LPP charge
+expressément chaque canton de désigner le tribunal qui devrait fonctionner comme dernière
+instance cantonale, sans le désigner lui-même. Elle relève enfin que l’intervention
+du fonds de garantie prévue à l’art. 56a al. 1 LPP actuellement en vigueur n’était
+pas visée par la disposition – antérieure – de l’art. 73 al. 1 let. d LPP.
+La défenderesse ne peut être suivie dans ses explications.
+En premier lieu, il est établi que le fonds de garantie peut faire valoir ses prétentions dans
+une procédure simple et rapide au sens de l’art. 73 LPP (cf. dans ce sens ATF 139 V 176).
+A cela s’ajoute que l’art. 73 LPP prévoit à son alinéa 1 let. d que le tribunal
+compétent pour connaître des contestations opposant institutions de prévoyance, employeurs
+et ayants droit est également compétent pour le droit de recours selon l’art. 56a al.
+1 LPP, étant précisé que lors de l’adaptation de l’art. 56a al. 1 LPP en 2005,
+l’art. 73 al. 1 let. d LPP n’a pas subi de modification (Beat Christen, op. cit., n° 17
+ad art. 56a LPP). Il en découle que quand bien même l’art. 93 let. c LPA-VD n’a
+repris que le début de l’art. 73 al. 1 LPP, en tant qu’il indique que le Tribunal cantonal
+connaît "des contestations opposant institutions de prévoyance, employeurs et ayants droit",
+cette disposition cantonale n’exclut pas pour autant les contestations listées à l’art.
+73 al. 1 let. a-d LPP. Il en résulterait sinon une situation manifestement contraire à la volonté
+du législateur fédéral, lequel voulait créer avec l’art. 73 LPP une voie de
+droit uniforme pour les litiges de la prévoyance professionnelle (cf. ATF 112 V 356 consid. 3).
+Cette solution contreviendrait au demeurant au principe de la primauté du droit fédéral,
+le législateur fédéral ayant en l’occurrence réglementé la matière
+à l’art. 73 al. 1 let. d LPP.
+La compétence matérielle du Tribunal statuant sur les litiges de la prévoyance professionnelle
+a par ailleurs été admise dans le cadre d’actions en responsabilité du fonds de
+garantie dirigées contre une banque, ainsi à l’ATF 135 V 373, qui opposait le fonds de
+garantie LPP à la banque C., et à l’ATF 139 V 176 précité, s’agissant
+d’une action en responsabilité du fonds de garantie fondée sur les art. 56 al. 1 et 56a
+al. 1 LPP, notamment dirigée contre la Banque cantonale neuchâteloise.
+Il y a dès lors lieu de constater que la Cour de céans est compétente pour statuer sur
+la demande du Fonds de garantie LPP, au demeurant formée devant le tribunal compétent à
+raison du lieu (cf. art. 73 al. 3 LPP), et selon les formes prescrites.
+2.
+Il convient ensuite d’examiner la requête formée par la Banque R.________ tendant à
+la suspension de la procédure jusqu’à l’achèvement de la liquidation de la
+Fondation de prévoyance pour le personnel de D.________ SA et sociétés affiliées
+en liquidation.
+De son propre aveu, le dommage que le Fonds de garantie LPP allègue subir était encore incertain
+au moment où celui-ci a ouvert action.
+Selon la jurisprudence, lorsque le dommage ne peut pas, vu l'incertitude planant par exemple sur le dividende
+d'une faillite ou le bénéfice d'une liquidation, être exactement déterminé ou
+du moins ne peut pas l'être d'une manière suffisamment fiable, le lésé peut néanmoins
+faire valoir l'entier de son préjudice supposé dans le cadre d'une action en responsabilité,
+à la condition que le dividende de faillite ou le bénéfice de liquidation soit cédé
+à l'auteur du dommage. Il a été jugé que cette solution, retenue en droit public
+(ATF 108 Ib 97 consid. 1c p. 100) et en droit civil (ATF 111 II 164 consid. 1b p. 167), puis étendue
+en matière d'assurances sociales (ATF 113 V 180 consid. 3b p. 183), doit également être
+reprise dans le cadre du droit de recours du Fonds de garantie LPP contre les personnes responsables
+de l'insolvabilité d'une institution de prévoyance (cf. ATF 139 V 176, consid. 9). Il serait
+contraire en effet aux intérêts des parties d'ajourner indéfiniment l'exercice de créances
+en dommages-intérêts, notamment lors de liquidations compliquées. Cette manière de
+procéder respecte par ailleurs mieux le but des règles en matière de responsabilité.
+Elle permet de remettre le lésé dans la situation dans laquelle il se serait trouvé s'il
+n'avait pas été victime du comportement illicite de l'auteur du dommage et, indirectement,
+d'exclure qu'il se trouve, en raison de l'intrication des procédures, surindemnisé. Il paraît
+en outre plus équitable que ce soit l'auteur du dommage qui supporte en définitive les conséquences
+dues à l'incertitude planant sur le résultat définitif de la liquidation (voir également
+Isabelle Vetter-Schreiber, Staatliche Haftung bei mangelhafter BVG-Aufsichtstätigkeit, 1996, p.
+134).
+Le Tribunal fédéral a ainsi admis dans un cas d’action en responsabilité du Fonds
+de garantie fondée sur l’art. 56a LPP que celui-ci était en droit, quand bien même
+son dommage réel ne pouvait pas, compte tenu des circonstances, être chiffré ou ne pouvait
+pas l'être avec une précision suffisante, d'ouvrir, moyennant cession du dividende de la liquidation
+de l'institution de prévoyance en faveur des auteurs du dommage, une action en réparation du
+dommage pour le montant total de son préjudice supposé. Partant le Tribunal fédéral
+a considéré que la juridiction cantonale n’avait pas violé le droit fédéral
+en entrant en matière sur l'action ouverte par le Fonds de garantie LPP (ATF 139 V 176, consid.
+9).
+La présente affaire ne justifie pas de s’écarter de l'ATF 139 V 176, consid. 9.
+Il y a encore lieu de relever que la suspension de la procédure, qui est prononcée par le juge
+dans les cas prévus par la loi, peut se justifier également par des raisons d'opportunité
+(voir l'art. 6 PCF; Fabienne Hohl, Procédure civile, Tome II: Organisation judiciaire, compétence,
+procédures et voies de recours, Berne 2002, ch. 2404), notamment lorsque le jugement d'un autre
+litige peut influencer l'issue du procès en cours (principe d'économie de la procédure).
+Le principe de la célérité qui découle de l'art. 29 al. 1 de la Constitution fédérale
+de la Confédération suisse du 18 avril 1999 (Cst.; RS 101) pose cependant des limites à
+la suspension d'une procédure. Aussi ne doit-elle être admise qu'exceptionnellement, lorsqu'il
+s'agit d'attendre le prononcé de la décision d'une autre autorité et qui permettrait de
+trancher une question décisive (ATF 130 V 94 consid. 5). Tel n’est pas le cas en l’espèce.
+Il se justifie au contraire de poursuivre l’instruction de la cause, conformément à la
+lettre de l’art. 73 LPP, qui pose le principe d’une procédure simple et rapide.
+La requête tendant à la suspension de la cause doit dès lors être rejetée.
+3.
+Il résulte de ce qui précède que, d’une part, la Cour des assurances sociales du
+Tribunal cantonal est compétente pour statuer sur la demande déposée le 24 décembre
+2012 par le Fonds de garantie LPP contre la Banque R.________, C.________, N.________, P.________, A.G.________,
+B.G.________, M.________, B.________, H.________ et T.________, et, d’autre part, que la requête
+tendant à la suspension de la cause jusqu’à ce que soit achevée la liquidation de
+la Fondation de prévoyance pour le personnel de D.________ SA et sociétés affiliées
+en liquidation doit être rejetée.
+Considérant les deux requêtes de la Banque R.________ de nature dilatoire, le demandeur sollicite
+l’octroi de dépens de l’incident. Certes le fonds de garantie peut prétendre à
+une indemnité de dépens dans le cadre d'une action fondée sur l'art. 56a LPP, lorsqu'il
+recourt aux services d'un mandataire qualifié (TFA B 10/05 du 30 mars 2006, consid. 10.2, publié
+in SVR 2006 BVG n° 34 p. 137). Dans le cas d’espèce toutefois, les dépens suivront
+le sort de la cause au fond.
+Il est statué sans frais (art. 73 al. 2 LPP).
+Par
+ces motifs,
+la
+Cour des assurances sociales
+prononce :
+I.
+La Cour des assurances sociales est compétente pour statuer sur la demande déposée le
+24 décembre 2012 par le Fonds de garantie LPP contre Banque R.________, C.________, N.________,
+P.________, A.G.________, B.G.________, M.________, B.________, H.________ et T.________.
+II.
+La requête tendant à la suspension de la cause jusqu’à ce que soit achevée
+la liquidation de la Fondation de prévoyance pour le personnel de D.________ SA et sociétés
+affiliées en liquidation est rejetée.
+III.
+Il n’est pas perçu de frais.
+IV.
+Les dépens de la présente procédure suivent le sort de la cause au fond.
+La
+présidente :
+La greffière :
+Du
+Le jugement qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Alexandre Bernel (pour le Fonds de garantie LPP), avocat à Lausanne,
+‑
+Me Christian Fischer (pour la Banque R.________), avocat à Lausanne,
+‑
+Mes Yves Magnin et Patrick Udry (pour C.________), avocats à Genève,
+‑
+M. N.________, à [...],
+‑
+M. P.________, à [...],
+‑
+M. A.G.________, à [...],
+‑
+Me Catherine Weniger (pour B.G.________), avocate à Lausanne,
+‑
+Me Anne-Sylvie Dupont (pour M.________), avocate à Lausanne,
+‑
+M.
+B.________
+,
+à [...],
+‑
+Me Corinne Monnard Séchaud (pour MM. H.________ et T.________), avocate à Lausanne,
+-
+Office fédéral des assurances sociales, à Berne,
+par
+l'envoi de photocopies.
+Le présent jugement peut faire l'objet d'un recours en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
