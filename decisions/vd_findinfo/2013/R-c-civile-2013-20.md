@@ -1,0 +1,222 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2013___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2013 / 20"
+decided: "2013-08-22"
+published: "2013-08-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4034997"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-235.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-017.md"]
+---
+
+# VD Findinfo Réc-civile / 2013 / 20
+
+## Regeste
+
+RÉCUSATION, ACTE DE RECOURS | 6 al. 1 let. a ROTC, 319 CPC (CH), 322 al. 1 CPC (CH), 47 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 22.08.2013 Réc-civile / 2013 / 20
+Vaud Tribunal cantonal Cour administrative 22.08.2013 Réc-civile / 2013 / 20
+Vaud Tribunal cantonal Cour administrative 22.08.2013 Réc-civile / 2013 / 20
+
+RÉCUSATION, ACTE DE RECOURS | 6 al. 1 let. a ROTC, 319 CPC (CH), 322 al. 1 CPC (CH), 47 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+FA13.026800
+25/2013
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 22 août 2013
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+de Watteville Subilia
+*****
+Art.
+47, 319, 322 al. 1 CPC; art. 8a al. 7 CDPJ; art. 6 al. 1 let. a ROTC
+Vu la décision du 6 juin 2013 par laquelle l’Office des poursuites de Lausanne a imparti un
+délai au 7 juillet 2013 à L.________ pour verser le montant de 13'700 fr.,
+vu la plainte au sens de l’art. 17 LP (Loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite; RS 281.1) déposée le 20 juin 2013 auprès du Tribunal d’arrondissement
+de Lausanne par le requérant L.________ à l’encontre de la décision de l’Office
+des poursuites de Lausanne susmentionnée,
+vu le prononcé du 21 juin 2013 par lequel le Président du Tribunal d’arrondissement de
+Lausanne a prononcé la suspension de la décision du 6 juin 2013 de l’Office des poursuites
+de Lausanne jusqu’à droit connu sur la plainte LP,
+vu le courrier du 25 juin 2013 convoquant L.________ à une audience le 11 juillet 2013,
+vu le courrier du 1
+er
+juillet 2013 par lequel le requérant a sollicité « la tenue du procès-verbal
+sténographié » lors de ladite audience,
+vu l’audience du 11 juillet 2013 au cours de laquelle L.________ a demandé la récusation
+du Président P.________ au motif qu’il avait refusé de tenir un « procès-verbal
+sténographié »,
+vu le courrier du 12 juillet 2013 par lequel L.________ a confirmé sa demande de récusation
+et demandé la récusation du Tribunal d’arrondissement de Lausanne en corps,
+vu le jugement du 2 août 2013 par lequel le Tribunal d’arrondissement de Lausanne statuant
+à trois juges a rejeté la demande de récusation présentée le 11 juillet 2013
+par L.________ à l’encontre du Président P.________ (I), a rendu le jugement sans frais
+(II) et a déclaré le jugement immédiatement exécutoire (III),
+vu le recours interjeté le 12 août 2013 par L.________ contre cette décision,
+vu la décision du 15 août 2013 par laquelle la Cour administrative du Tribunal cantonal a rejeté
+la demande de récusation du Tribunal d’arrondissement de Lausanne dans son ensemble présentée
+par L.________,
+vu les pièces au dossier;
+attendu que le présent recours est dirigé contre une décision statuant sur la récusation
+d'un magistrat de première instance,
+que l'art. 50 al. 2 CPC (Code de procédure civile suisse du 19 décembre 2008; RS 272)
+prévoit que la décision sur récusation peut faire l'objet d'un recours au sens des art.
+319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010; RSV 211.02] et 6 al. 1 let. a ROTC [Règlement
+organique du Tribunal cantonal du 13 novembre 2007; RSV 173.31.1]),
+que la procédure de récusation, devant conduire rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC; Tappy, in Bohnet/Haldy/Jeandin/Schweizer/Tappy,
+Code de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC, pp. 124 et
+125),
+qu'ainsi le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+que le recours, déposé en temps utile par une partie qui a qualité pour recourir, est
+recevable en tant qu’il conclut à l’annulation du jugement sur récusation du 2
+août 2012,
+qu’en revanche, la Cour de céans n’est pas compétente pour statuer sur la demande
+de suspension de la procédure civile jusqu’à droit connu sur la procédure pénale
+qui serait ouverte en parallèle,
+que, partant, cette conclusion est irrecevable;
+attendu qu’à l’audience du 11 juillet 2013, L.________ a d’entrée de cause
+demandé « la tenue d’un procès-verbal sténographié »,
+qu’il a sollicité la récusation du président, après que ce dernier lui a expliqué
+qu’un « procès-verbal sténographié » n’avait pas à
+être tenu,
+que, par jugement du 2 août 2013, le Tribunal d’arrondissement de Lausanne a rejeté la
+demande de récusation, considérant que le refus du président de tenir un « procès-verbal
+sténographié » ne constituait pas une circonstance rendant douteuse l’impartialité
+de celui-ci,
+que, par acte du 12 août 2013, L.________ a recouru contre cette décision;
+attendu que le recourant invoque une violation de son droit d’être entendu par les premiers
+juges au motif que la date du jugement du 2 août 2013 ne figurerait pas en tête de l’arrêt,
+qu’il n’a pas reçu copie du courrier adressé à la Cour administrative transmettant
+sa demande de récusation en corps du Tribunal d’arrondissement de Lausanne et qu’il
+ne figurait pas dans le jugement qu’une copie de celui-ci avait été transmise au Tribunal
+cantonal,
+que le droit d'être entendu, garanti à l'art. 29 al. 2 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101), comprend notamment le droit pour l'intéressé
+de s'exprimer sur les éléments pertinents avant qu'une décision ne soit prise touchant
+sa situation juridique, de produire des preuves, d'obtenir qu'il soit donné suite à ses offres
+de preuve pertinentes, de participer à l'administration des preuves essentielles ou à tout
+le moins de s'exprimer sur son résultat, lorsque cela est de nature à influer sur la décision
+à rendre (TF 5A_194/2010 du 13 septembre 2010 c. 2.2),
+qu’en l’espèce, le fait que la date du jugement ne figure pas en tête de l’arrêt
+mais uniquement en page 11 de celui-ci constitue une erreur de plume qui n’engendre aucune violation
+des droits du recourant, notamment celui de recourir contre la décision,
+que, par courrier du 2 août 2013, le Premier président du Tribunal d’arrondissement de
+Lausanne a adressé le dossier de la cause au Tribunal cantonal, autorité compétente, pour
+qu’il puisse statuer sur la demande de récusation en corps présentée par le recourant,
+qu’ainsi, il ne se justifiait pas que le recourant obtienne copie de ce courrier,
+que même si l’on devait considérer que son droit d’être entendu avait été
+violé, cette violation a été réparée aussitôt, puisque le recourant a consulté
+le dossier le 8 août 2013 et a levé copie de certaines pièces,
+qu’enfin, c’est à raison que le Tribunal cantonal ne figure pas dans les destinataires
+du jugement du 2 août 2013, celui-ci ne lui ayant pas été communiqué,
+qu’ainsi, c’est à tort que le recourant se plaint d’une violation de son droit
+d’être entendu;
+attendu que le recourant conteste le principe posé par l’art. 235 CPC selon lequel le procès-verbal
+doit consigner dans leur substance les allégués des parties qui ne se trouvent pas dans leurs
+actes écrits,
+que dans la mesure où le recourant soutiendrait que le refus de tenir « un procès-verbal
+sténographié » constituerait un motif de récusation – ce qui ne ressort
+pas clairement de son recours –, il convient d’examiner ce grief,
+qu'à teneur de l’art. 47 al. 1 let. f CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 de la Constitution fédérale
+de la Confédération suisse du 18 avril 1999 (RS 101) et 6 §1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l'homme et des libertés fondamentales (RS 0.101), s'oppose à
+ce que des circonstances extérieures au procès puissent influencer le jugement d'une manière
+qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012 du 17 octobre
+2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés, les impressions purement individuelles n'étant pas décisives
+(TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138
+I 1 c. 2.2 et les références citées),
+qu’il n’appartient en outre pas au juge de la récusation d’examiner la conduite
+du procès à la façon d’un organe de surveillance (TF 4A_323/2010 du 3 août
+2010 c. 2.2),
+qu’en l’espèce, comme cela a déjà été tranché dans l’arrêt
+du 15 août 2013 de la Cour de céans (CA 15 août 2013/23), le refus de tenir un « procès-verbal
+sténographié » ne constitue pas un motif de prévention à l’égard
+du requérant,
+qu’en effet, selon l’art. 235 CPC, le procès-verbal ne doit pas reprendre de manière
+détaillée les déclarations des parties (Tappy, Code de procédure civile commenté,
+Bâle 2011, nn. 9 et 10 ad art. 235 CPC),
+que le recourant n’explique pas quels seraient les propos que le Président intimé aurait
+refusé de protocoler malgré sa demande,
+qu’il se contente de critiquer le système judiciaire,
+qu’il n’invoque aucun grief précis à l’appui de son recours laissant apparaître
+un soupçon de prévention de la part du Président intimé,
+qu'aucun motif de récusation n’étant réalisé, il y a dès lors lieu de
+rejeter le recours;
+attendu, en définitive, que les griefs soulevés par L.________ s'avèrent manifestement
+infondés, de sorte que son recours peut être écarté sans autres échanges d’écritures,
+en application de l'art. 322 al. 1
+in
+fine
+CPC,
+que la décision du 2 août 2013 doit donc être confirmée,
+qu’exceptionnellement, la présente décision sera rendue sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours interjeté par L.________ le 12 août 2013 est rejeté dans la mesure où
+il est recevable.
+II.
+Le jugement du 2 août 2013 est confirmé.
+III.
+La présente décision est rendue sans frais.
+IV.
+La décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. L.________,
+-
+M. P.________, Président du Tribunal d’arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Premier président du Tribunal d’arrondissement de Lausanne.
+La greffière :
