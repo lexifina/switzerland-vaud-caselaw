@@ -1,0 +1,448 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 24"
+decided: "2013-08-28"
+published: "2013-08-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/3961191"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-034.md", "switzerland/bund/acts/281.1/art-035.md", "switzerland/bund/acts/281.1/art-221.md", "switzerland/bund/acts/281.1/art-228.md", "switzerland/bund/acts/281.1/art-231.md", "switzerland/bund/acts/281.1/art-249.md", "switzerland/bund/acts/281.1/art-260.md", "switzerland/bund/acts/281.1/art-288.md", "switzerland/bund/acts/281.32/art-025.md", "switzerland/bund/acts/281.32/art-030.md", "switzerland/bund/acts/281.32/art-032.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 24
+
+## Regeste
+
+INVENTAIRE, ADMINISTRATION DE LA FAILLITE, LIQUIDATION SOMMAIRE DE LA FAILLITE, MASSE EN FAILLITE, OFFICE DES FAILLITES, PLAINTE{LP}, DÉLAI, OBSERVATION DU DÉLAI, QUALITÉ POUR AGIR | 17 LP, 221 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.08.2013 Plainte / 2013 / 24
+
+INVENTAIRE, ADMINISTRATION DE LA FAILLITE, LIQUIDATION SOMMAIRE DE LA FAILLITE, MASSE EN FAILLITE, OFFICE DES FAILLITES, PLAINTE{LP}, DÉLAI, OBSERVATION DU DÉLAI, QUALITÉ POUR AGIR | 17 LP, 221 LP
+
+TRIBUNAL
+CANTONAL
+FA12.052072-131170
+27
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 août 2013
+__________________
+Présidence
+de               Mme
+Rouleau
+,
+vice-présidente
+Juges
+:              Mme
+Carlsson et M. Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+17, 221 et 228 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par l'
+Office
+des faillites du district de l'arrondissement de la Broye et du Nord vaudois
+,
+contre la décision rendue le 24 mai 2013, à la suite des audiences du 26 février et 30
+avril 2013, par le Président du Tribunal d’arrondissement de la Broye et du Nord vaudois,
+autorité inférieure de surveillance, dans la cause qui l'oppose à
+D.________
+,
+à Poliez-Pittet.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 3 décembre 2002, O.________, [...], à Yvonand, sous la signature de D.________, a conclu
+avec la masse en faillite de la société L.________ une convention par laquelle la seconde a
+cédé à la première la totalité de ses actifs industriels, à l'exclusion
+des actifs immobiliers. La cession comportait les produits finis et semi-finis, les stocks inertes, les
+brevets, dessins mécaniques/électriques, les softwares, l'ensemble du système informatique
+de la société, documentation et archives, le mobilier, la bureautique, les outillages et les
+véhicules. Dès la signature de la convention, O.________ bénéficiait d'un libre accès
+aux actifs cédés, disposant notamment des locaux [...] et [...], à Yvonand, pour procéder
+aux différents travaux nécessaires à l'exécution de ses obligations. La cession est
+intervenue pour le prix de 7'000'000 fr. payable selon les modalités prévues dans le contrat.
+Le 28 février 2005, les mêmes parties ont signé un avenant à la convention qui précède.
+Il résulte du préambule de cet avenant que les deux sociétés sont actives dans le
+même domaine, soit celui de la construction de machines à fabriquer des tubes composites, qu'elles
+avaient leurs locaux dans le même immeuble et que la masse en faillite de L.________ est propriétaire
+de l'immeuble sis rue de l' [...] où O.________ a son siège. Selon l'art. 1 de l'avenant, les
+parties ont admis que la masse en faillite de L.________ était toujours propriétaire des produits
+finis et semi-finis, des stocks inertes et du mobilier énumérés dans l'annexe 5, "objet
+de la convention du 3 décembre 2002", à l'exception des objets mobiliers déjà
+vendus par O.________. Cette dernière était reconnue propriétaire des autre biens cédés.
+L'art. 2 de l'avenant se réfère en effet à un inventaire établi le même jour
+par les parties et devant être actualisé au fur et à mesure des opérations de réalisation.
+2.
+La faillite d'O.________ a été prononcée
+le 14 octobre 2005. Elle est traitée en la forme sommaire par l'Office des faillites de l'arrondissement
+de La Broye et du Nord vaudois (ci-après l'office).
+D.________ était actionnaire, administrateur et directeur de cette société. Il a produit
+dans la faillite une créance colloquée en troisième classe.
+3.
+L'inventaire de la faillite a été établi le 19 octobre 2006 sur la formule 3F, avec la
+précision qu'il a été dressé les 21 septembre, 11 octobre et 18 octobre 2006 par
+le substitut de l'office, avec l'aide du préposé. Il est signé par le substitut de l'office.
+En revanche, il ne porte pas la signature du failli, ne mentionne pas qu'il a été établi
+en présence d'un organe de la société et la rubrique selon laquelle le failli reconnaît
+l'inventaire comme exact et complet est biffée, sans aucune explication.
+L'inventaire recense sous chiffre II les objets mobiliers se trouvant dans les locaux de la rue [...]
+à Yvonnand, au premier étage et au rez-de-chaussée (n° 1 à 78). Il intègre
+un inventaire complémentaire non daté d'objets mobiliers se trouvant dans les locaux de la
+rue [...], au rez-de-chaussée et dans les locaux techniques du rez-de-chaussée (n° 90
+à 181 c). Ont également été inventoriés à l'actif les droits résultant
+de l'action en responsabilité contre les administrateurs, dont D.________.
+Le 20 octobre 2006, l'office a fait paraître dans la feuille des avis officiels (ci-après:
+FAO) l'avis indiquant que l'état de collocation de la faillite d'O.________ était déposé
+à l'office, qu'il pouvait être attaqué dans un délai au 9 novembre 2006, à défaut
+de quoi il serait considéré comme définitif, que l'inventaire de la faillite était
+également déposé et que dans le même délai, les créanciers pouvaient solliciter
+la cession des droits de la masse (art. 260 LP [loi sur la poursuite pour dettes et la faillite du 11
+avril 1889; RS 281.1]) au sujet des revendications de propriété admises par l'administration
+de la masse ainsi que des droits admis par l'administration, à défaut de quoi les décisions
+de cette dernière deviendraient exécutoires.
+Dans une lettre adressée le 23 janvier 2007 à l'avocat d'O.________, l'avocat de F.________
+indiquait que l'inventaire établi par l'office était incomplet car il ne comportait que les
+objets entreposés au premier étage du bâtiment sis [...] et omettait "les instruments
+de contrôle (laboratoire) eux-mêmes incomplets se trouvant au rez-de-chaussée dans la
+pièce au coin du bâtiment […], ainsi que les outillages d'exploitation (atelier) déposés
+également au rez-de-chaussée dans un petit local à côté de l'atelier, près
+du passage menant à l'étage". Sur la base de ce courrier, l'autorité inférieure
+de surveillance a retenu que l'inventaire complémentaire avait été effectué après
+le 23 janvier 2007.
+4.
+Le 11 octobre 2012, D.________ a déposé
+plainte contre l'office dans le cadre de la faillite d'O.________, à propos d'une transaction signée
+par la masse. L'office s'est déterminé sur cette plainte dans une écriture du 20 novembre
+2012.
+Il résulte de la plainte du 11 octobre 2012, rédigée et signée par D.________ personnellement,
+et de la détermination de l'office du 20 novembre suivant que l'avocat du plaignant s'était
+rendu dans les locaux de l'office, le 1
+er
+octobre 2012 selon la plainte, avec l'accord du préposé, afin d'y consulter le dossier de la
+faillite d'O.________. Selon la plainte, l'avocat aurait alors constaté qu'une partie des pièces
+mentionnées dans le procès-verbal de la faillite était mal classée ou manquante.
+La plainte du 11 octobre 2012 contient le passage suivant:
+"Suite
+à cette visite, Me Yann Jaillet m'a transmis différentes pièces, notamment une transaction
+(annexe 1), dont j'ai pu prendre connaissance de la teneur ce mardi 2 octobre 2012.
+Au point I,
+page 2 de la transaction (non signée), il est fait mention de l'achat d'objets mobiliers pour une
+valeur de CHF 70'000.- au profit de la masse de O.________, et au point II de cette même page, de
+l'achat d'instruments de contrôle du laboratoire et des outillages d'exploitation pour une valeur
+de CHF 10'000.- au profit de la masse de L.________.
+A la lecture
+d'un reçu daté du 22 mars 2007 (annexe 4), on peut noter que les serveurs d'O.________, qui
+contiennent l'ensemble des données de ladite société, à savoir: comptabilité
+complète, clientèle, dossiers administratifs, et particulièrement le système de gestion
+de la production GALOP (ProConcept), comprenant la gestion des stocks, des offres, de la vente, des achats,
+du service après vente, des affaires, de l'ingénierie et des biens immatériels (dessins
+techniques, automation, brevets, etc.), étaient inventoriés sous les n° 51 – 58.
+Le même
+point I de ladite transaction nous informe que ces biens ont été vendus, malgré qu'une
+procédure pénale soit toujours pendante à l'encontre des instances dirigeantes de O.________.
+Ces dits biens, selon le rapport de la Police de Sûreté vaudoise, n'ont pas été présentés
+aux inspecteurs, lors de leur visite des locaux des sociétés faillies, en date du 22 février
+2007 (avant la date du reçu), et par voie de conséquence n'ont pas fait l'objet d'un séquestre,
+comme l'ont été des classeurs bancaires, qui ne relatent que des flux financiers. On comprend
+aisément qu'en raison de la disparition de ces biens de l'inventaire de O.________, une administration
+complète des preuves n'est malheureusement plus possible."
+La plainte du 11 octobre 2012 a donné lieu à deux audiences des 4 décembre 2012 et
+18 février 2013 et à une décision de l'autorité inférieure de surveillance du
+23 mai 2013.
+5.
+a)
+Par acte du 13 décembre 2012, D.________
+a déposé plainte contre l'inventaire établi par la masse en faillite d'O.________ et la
+réalisation d'actifs de cette société par la masse. Il fait valoir que c'est en préparant
+l' "argumentaire" de la plainte du 11 octobre 2012, soit le lundi 3 décembre 2012
+pour l'audience du lendemain, qu'il a eu des doutes sur l'authenticité de l'inventaire, notamment
+à la lecture de la détermination de l'office du 20 novembre 2012. Il affirme s'être alors
+rendu compte que l'inventaire établi par l'office dans la faillite d'O.________ ne comportait aucun
+stock de produits finis, semi-finis ou inertes, de sorte que l'inventaire serait incomplet. Il renvoie
+à la lettre de l'avocat de F.________ du 23 janvier 2007 relevant déjà que l'inventaire
+était incomplet. Le plaignant se réfère ensuite à la détermination de l'office
+du 20 novembre 2012 dans le cadre de la plainte du 11 octobre 2012, selon laquelle les pièces de
+rechange des machines vendues antérieurement par les deux sociétés l'avaient été
+par le conseil de la masse en faillite de L.________ et fait valoir qu'il y a des indices que des sommes
+ont été encaissées pour le compte de cette dernière alors qu'il s'agissait de biens
+qui appartenaient à O.________, de sorte qu'il est nécessaire de faire toute la lumière
+sur ce point. Il pose ensuite un certain nombre de questions relatives à la vente par la masse d'O.________
+de serveurs et à la conservation des données stockées dans ces serveurs. Il reproche également
+aux responsables des deux masses en faillite de s'être suppléés l'un l'autre et, dans
+ce cadre, au préposé qui dirigeait la masse en faillite de L.________ d'avoir réduit les
+prétentions d'O.________ à l'égard de la société F.________ dans le but de maximiser
+le produit de la vente de l'immeuble [...] qui revenait à la masse en faillite de L.________. Dans
+les motifs de sa plainte, D.________ cite les art. 221 et 223 al. 1 LP. Il fait valoir que les stocks
+des sociétés L.________ et O.________ étaient gérés de manière distincte
+par le programme informatique GALOP se trouvant dans les serveurs d'O.________, de sorte que l'office
+pouvait procéder à la prise d'inventaire des stocks d'O.________, les stocker dans des endroits
+distincts de ceux de L.________ et procéder à leur réalisation de manière optimale.
+Pour le plaignant, l'absence de stocks finis, semi-finis et inertes à l'inventaire est doublement
+impossible, d'une part en raison des charges matières/marchandises/services se trouvant dans le
+compte de pertes et profits et d'autre part en raison des productions des créanciers fournisseurs.
+Les conclusions de la plainte sont les suivantes:
+"1)
+L'Office des faillites de l'arrondissement de La Broye et du Nord vaudois doit procéder rétrospectivement
+à l'inventaire des stocks finis, semi-finis et inertes de la masse en faillite de O.________.
+2)
+L'Office […] doit présenter tout (sic) les procès-verbaux des biens vendus (objets de
+la vente/reçus) par l'administration de la masse de L.________ et par l'administration de la masse
+de O.________, depuis le 14 octobre 2005, jusqu'au jour de leurs productions par l'Office, afin de confirmer
+leurs bonnes attributions aux masses respectives.
+3)
+L'Office devait conserver l'ensemble des données informatiques de O.________, accessoirement de
+L.________ en état de fonctionnement, à savoir les données sur les disques des serveurs,
+afin qu'elles puissent être en tout temps consultées. Dès lors, l'informaticien privé
+doit attester qu'il a purgé complètement les serveurs d'O.________ avant leur revente.
+4)
+Il doit être constaté que l'office a contrevenu à ses devoirs dans le cadre de la faillite
+d'O.________, notamment aux articles 221 et 223 LP, ainsi qu'en laissant les responsables des masses
+MM. Laurent et Savary se suppléer, voire intervenir dans la gestion de chacune des deux masses."
+b)
+L'office s'est déterminé sur la plainte le 11 février 2013. Il relève tout d'abord
+que l'autorité inférieure de surveillance a transmis au plaignant sa détermination du
+20 novembre 2012 par pli du 22 novembre suivant. Il fait valoir que cette détermination n'était
+pas une décision, qu'elle n'ouvrait aucun délai de plainte et qu'aucune décision n'a été
+prise par l'office. Subsidiairement, l'office invoque la tardiveté de la plainte.
+c)
+Le premier juge a tenu audience les 26 février et 30 avril 2013. Lors de l'audience de plainte du
+30 avril 2013, le substitut a déclaré qu'il était possible qu'il ait oublié de faire
+signer l'inventaire à la faillie et qu'à l'époque de l'établissement de ce document,
+l'administrateur de la société était en France.
+6.
+Par décision du 24 mai 2013, notifiée à l'office le 27 mai 2013, l'autorité inférieure
+de surveillance a admis partiellement la plainte du 13 décembre 2012 de D.________, annulé
+l'inventaire des biens du 19 octobre 2006 et l'inventaire complémentaire établi par l'office
+dans la faillite d'O.________, rejeté la conclusion 2 de la plainte, déclaré irrecevables
+ses conclusions 3 et 4 et rendu sa décision sans frais ni dépens.
+L'autorité inférieure a retenu que lorsque l'irrégularité visant un acte de procédure
+n'est découverte qu'après l'exécution de la décision ou mesure, le délai de
+plainte part du moment où le vice est connu de la personne concernée. Le délai de plainte
+contre l'inventaire de la faillite part de la déclaration du failli conformément à l'art.
+228 LP. Elle a admis que la plainte avait été déposée dix jours après que le
+plaignant s'était rendu compte de l'irrégularité de l'inventaire, qui avait été
+complété postérieurement au dépôt de l'état de collocation, sans avoir
+été porté à la connaissance des tiers. L'office n'ayant pas respecté l'art.
+288 LP et ayant au surplus complété l'inventaire après sa publication sans respecter la
+procédure prévue par la LP, dit inventaire devait être annulé. Quant aux conclusions
+3 et 4 de la plainte, elles n'étaient pas dirigées contre des décisions de l'office.
+7.
+L'office a recouru contre cette décision
+par acte du 5 juin 2013, concluant à l'annulation de la décision, subsidiairement au rejet
+de la plainte.
+L'intimé s'est déterminé dans une écriture du 26 juin 2013, concluant au rejet du
+recours.
+En droit :
+I.
+Le recours a été déposé dans le délai de dix jours des art. 18 al. 1 LP et 28
+al. 1 LVLP (loi d'application dans le Canton de Vaud de la loi fédérale sur la poursuite pour
+dettes et la faillite du 18 mai 1955; RSV 280.05).
+Le recours émane de l'office. La qualité pour recourir – qui doit être examinée
+d'office – doit être reconnue à toute personne qui avait, devant l'autorité inférieure,
+qualité à la plainte et à toute personne ou autorité de poursuite qui fait valoir
+un intérêt digne de protection, direct, actuel et réel à la suite de la décision
+de l'autorité inférieure ou qui doit veiller d'office à l'application de le loi ou qui
+doit, le cas échéant, remplacer une décision ou une mesure nulle parce que contraire à
+des dispositions édictées dans l'intérêt public ou dans l'intérêt de personnes
+qui ne sont pas parties à la procédure (Gilliéron, Commentaire de la loi fédérale
+sur le poursuite pour dettes et la faillite, n. 26 ad art. 18 LP). Selon la jurisprudence, un office
+des poursuites ou des faillites dont la décision ou la mesure a été attaquée peut,
+malgré l'absence d'intérêt juridique, avoir intérêt à recourir dans certains
+cas, ainsi lorsqu'il agit comme organe du canton et fait valoir un intérêt du fisc, lorsqu'il
+défend ou représente les intérêts de la masse en faillite ou lorsque le litige a
+trait à l'application de l'OELP (ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35) (ATF
+134 III 136, c. 1.3 et les arrêts cités). En sa qualité d'administration de la masse en
+faillite – notamment lorsque, comme en l'espèce, la faillite est liquidée en la forme
+sommaire – l'office des faillites a qualité pour recourir dès lors qu'il doit sauvegarder
+les intérêts de la masse (Gilliéron, op. cit., n. 41 ad art. 18 LP et les arrêts
+cités).
+L'annulation de l'inventaire ordonnée par l'autorité inférieure de surveillance a une
+influence sur les droits de la masse, dès lors que le dépôt de l'inventaire a fait courir
+les délais pour la cession des droits de la masse et les actions en revendication. La qualité
+pour recourir de l'office doit ainsi être reconnue en l'espèce.
+Le recours est en conséquence recevable.
+II.
+a)
+L'intimé s'est plaint en première instance de ce que l'inventaire du 19 octobre 2006 serait
+incomplet, ce dont il ne se serait rendu compte que le 3 décembre 2012, en prenant connaissance
+de la détermination de l'office du 20 novembre 2012 dans une précédente plainte.
+Il demandait à l'autorité inférieure de surveillance, dans sa conclusion 1, qui est la
+seule litigieuse dans le cadre du présent recours, d'ordonner à l'office de procéder rétrospectivement
+à l'inventaire des stocks finis, semi-finis et inertes de la masse en faillite d'O.________. L'autorité
+inférieure de surveillance a annulé l'inventaire.
+A l'appui de son recours, l'office conteste que la plainte ait été dirigée contre une
+décision ou une mesure de l'office au sens de l'art. 17 LP. Subsidiairement, il fait valoir que
+l'intimé a eu connaissance de l'inventaire, par l'intermédiaire de son conseil, dès le
+2 octobre 2012, tout comme il a eu connaissance de la détermination de l'office du 20 novembre 2012,
+avant le 3 décembre 2012.
+b)
+En vertu de l'art. 17 al.1 LP, sauf dans les cas où la loi prescrit la voie judiciaire, il peut
+être porté plainte à l'autorité de surveillance lorsqu'une mesure de l'office est
+contraire à la loi ou ne paraît pas justifiée en fait. La plainte doit être déposée
+dans les dix jours de celui où le plaignant a eu connaissance de la mesure (al. 2). Il peut de même
+être porté plainte en tout temps pour déni de justice ou retard injustifié (al. 3).
+La plainte a pour objet tout acte de poursuite, pris unilatéralement ou d'office, de nature à
+créer ou à modifier une situation de droit de l'exécution forcée (ATF 31 I 219; ATF
+36 I 420; Gilliéron, op. cit., n. 11 ad art. 17 LP). A qualité pour porter plainte toute personne
+lésée ou exposée à l'être dans ses intérêts juridiquement protégés,
+ou tout au moins touchée dans ses intérêts de fait, par décision ou la mesure de
+l'office (Erard, Commentaire romand, n. 24 ad art. 17 LP).
+Le jour d' "origine" du délai de plainte est celui où la personne concernée
+a une connaissance effective de la décision ou mesure – l'acte de poursuite – qui peut
+être attaquée par la voie de la plainte. Il peut s'agir d'une notification au sens des art.
+64 à 66 LP, d'une publication (art. 35 LP), d'une communication écrite (art. 34 LP), d'une
+communication orale, mais la personne concernée doit être à même de se rendre compte
+du caractère illégal ou inopportun de l'acte de poursuite au moment où elle en a connaissance,
+sinon il faut tenir compte des investigations nécessaires pour connaître le vice (Gilliéron,
+op. cit., n. 190 ad art. 17 LP et les réf. citées). La preuve de la notification ou de
+la communication et de sa date, même lorsqu'elle est fictive, incombe à l'autorité de
+poursuite ou à l'organe de poursuite (Gilliéron, op. cit., n. 195 ad art. 17 LP et la réf.
+citée).
+Lorsque la publication vise la consultation d'un état – tel l'état de collocation –
+qui doit être déposé, le
+dies
+a quo
+est le jour ouvrable qui suit la publication
+du dépôt et auquel est ouvert l'office où est déposé l'état, indépendamment
+de la réception d'un avis spécial communiqué aux intéressés (Gilliéron,
+op. cit., n. 203 ad art. 17 LP et les réf. citées). Lorsqu'une irrégularité viciant
+un acte de poursuite n'est découverte qu'après l'exécution de la décision ou mesure,
+le délai de plainte part du moment où le vice est connu de la personne concernée (Gilliéron,
+op. cit., n. 205 ad art. 17 LP; ATF 47 III 131, JT 1922 II 70, c. 1).
+c)
+En l'espèce, la plainte est dirigée contre l'inventaire du 19 octobre 2006, qui a été
+déposé en même temps que l'état de collocation, conformément à l'art. 231
+al. 1 ch. 3 LP, selon publication dans la FAO du 20 octobre 2006 (art. 249 LP).
+En vertu de l'art. 221 LP, dès que l'office a reçu communication de l'ouverture de la faillite,
+il procède à l'inventaire des biens du failli et prend les mesures nécessaires pour leur
+conservation (art. 25 OAOF [Ordonnance sur l'administration des offices de faillites du 13 juillet 1911;
+RS 281.32]). L'inventaire donne une vision d'ensemble sur le patrimoine du failli et tend à assurer
+sa conservation. Il sert aussi de base à la décision déterminant la liquidation de la
+faillite: suspension faute d'actif, liquidation sommaire ou ordinaire (Vouilloz, Commentaire romand,
+n. 2 ad art. 221 LP). Une fois que l'inventaire est dressé, il est soumis au failli qui se prononce
+sur son caractère exact et complet. Sa réponse est reproduite dans l'inventaire qui est signé
+par lui (art. 228 LP). Lorsque le failli est une société anonyme, un des organes fait la déclaration
+et la signe (art. 30 OAOF). Si ces déclarations ne peuvent être obtenues, l'inventaire en indiquera
+les raisons (art. 30 al. 2 OAOF). Une fois ces opérations accomplies et l'inventaire clos, celui-ci
+est soit présenté à la première assemblée des créanciers si la faillite
+est liquidée en la forme ordinaire soit, si comme en l'espèce la faillite est soumise à
+la forme sommaire, déposé à l'office en même temps que l'état de collocation
+(art. 231 al. 3 ch. 3 et 249 LP; art. 32 al. 2 OAOF). Le délai de recours contre les opérations
+d'inventaire commence à courir dès le jour du dépôt (art. 32 al. 2 in fine OAOF).
+L'inventaire, même reconnu par le failli, peut toutefois être rouvert et complété
+jusqu'à la clôture de la faillite (Gilliéron, op. cit., n. 4 ad art. 221 – 231 LP).
+L'inventaire est une mesure interne à l'administration de la faillite. Il ne détermine pas
+l'appartenance d'un élément du patrimoine à la masse en faillite, ni n'entraîne le
+dessaisissement du failli. Il n'a pas d'effet sur la situation juridique des tiers. Les valeurs patrimoniales
+tombant dans la masse sont déterminées au jour de l'ouverture de la faillite et non pas lors
+de la prise d'inventaire. En bref, l'inventaire ne détermine pas l'appartenance d'une valeur patrimoniale
+à la masse. Partant, les tiers n'ont pas qualité pour porter plainte contre l'inscription ou
+la non-inscription d'une valeur à l'inventaire (Vouilloz, op. cit., nn. 3 et 14 ad art. 221 LP;
+Gilliéron, Poursuite pour dettes, faillite et concordat, 5
+ème
+édition., nn. 1825 ss., p. 431). En revanche, les créanciers qui ont manifestement intérêt
+à ce que tout l'actif du débiteur soit effectivement considéré comme appartenant
+à la masse et soit réalisé, ont qualité pour porter plainte si l'office refuse de
+porter certains objets à l'inventaire (ATF 64 III 35, JT 1938 II 98, pp. 99.100) ou s'il omet de
+le faire (Gilliéron, op. cit., n. 35 ad art. 221 LP).
+d)
+En l'espèce, selon la décision de première instance, l'inventaire est affecté d'une
+double irrégularité: d'une part, il ne mentionne pas la position de la faillie et ne porte
+pas sa signature, contrairement aux exigences de l'art. 228 LP et, d'autre part, il a été complété
+à une date indéterminée, mais après la publication du dépôt de l'inventaire
+et de l'état de collocation.
+On doit constater que dans sa plainte du 13 décembre 2012, l'intimé n'a pas mentionné
+ces irrégularités et ne demandait pas l'annulation de l'inventaire. L'autorité inférieure
+de surveillance, en ordonnant l'annulation, a donc statué d'office. Cette annulation ne se justifiait
+pas. L'inventaire peut en effet être complété jusqu'à la clôture de la faillite.
+Le fait qu'il ait été complété ne constitue donc en soi pas un vice; tout au plus
+cela peut-il avoir une influence sur le délai de plainte contre le complément. Quant à
+la reconnaissance et à la signature par le failli ou l'un de ses organes, elle ne justifie pas non
+plus l'annulation de l'inventaire. Une telle sanction – alors que l'inventaire n'a qu'un effet
+interne à l'administration de la masse et ne détermine pas la composition de la masse –
+ne résulte en effet ni de la loi ni de la jurisprudence.
+e)
+L'intimé se plaint de ce que l'inventaire n'inclut pas les produits finis, semi-finis et inertes
+appartenant à la société O.________. Il est constant que cette dernière avait acheté
+ces produits à la masse en faillite de L.________ par un contrat du 3 décembre 2002, mais qu'ensuite,
+par un avenant du 28 février 2005, la masse en faillite de L.________ a été reconnue propriétaire
+des produits finis, semi-finis et inertes figurant sur une annexe 5 non produite, O.________ restant
+propriétaire de ceux déjà vendus.
+L'intimé, qui a été avisé du dépôt de l'inventaire par publication du 20 octobre
+2006, devait donc le cas échéant se plaindre de cette lacune dans le délai de dix jours
+qui courait dès le lendemain de la publication. Le vice existait en effet
+ab
+ovo
+. Au demeurant, il ressort clairement de sa
+plainte du 11 octobre 2012, qu'il a signée et adressée personnellement à l'autorité
+de surveillance, qu'à cette date, l'intimé connaissait l'inventaire dont il ne prétend
+pas qu'il a été complété après le 11 octobre 2012. Dès lors, même
+si le
+dies a quo
+du délai de plainte devait être le 11 octobre 2012, la plainte déposée le 13
+décembre 2012 serait tardive.
+Au demeurant, même à supposer déposée à temps, la plainte devrait être
+rejetée. L'intimé n'a pas allégué ni
+a
+fortiori
+établi que l'office aurait refusé
+de porter des biens à l'inventaire. Il n'a par ailleurs donné aucune indication quant à
+la nature et au nombre de produits qui n'auraient pas été inventoriés, ni quant au(x)
+lieu(x) où ils se seraient trouvés. Dans ces circonstances, il n'est donc pas possible de retenir
+que l'office a omis d'inventorier des biens mobiliers.
+III.
+En conséquence, le recours doit être
+admis et la plainte rejetée dans la mesure où elle est recevable.
+Le présent arrêt est rendu sans frais ni dépens (art. 61 al. 2 let. a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que la plainte déposée le 13 décembre
+2012 par D.________ est rejetée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+28 août 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+L'Office des faillites du district de l'arrondissement de la Broye et du Nord vaudois,
+‑
+M. D.________,
+-
+M. le Préposé à l’Office des poursuites du district du Jura – Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
