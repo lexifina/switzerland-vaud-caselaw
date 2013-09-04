@@ -1,0 +1,156 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2013___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2013 / 7"
+decided: "2013-09-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4149474"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2013 / 7
+
+## Regeste
+
+RÉCUSATION, INTÉRÊT PERSONNEL | 6 al. 1 let. a ROTC, 11 al. 3 LPA-VD, 9 let. a LPA-VD
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 04.09.2013 Réc-administrative / 2013 / 7
+Vaud Tribunal cantonal Cour administrative 04.09.2013 Réc-administrative / 2013 / 7
+Vaud Tribunal cantonal Cour administrative 04.09.2013 Réc-administrative / 2013 / 7
+
+RÉCUSATION, INTÉRÊT PERSONNEL | 6 al. 1 let. a ROTC, 11 al. 3 LPA-VD, 9 let. a LPA-VD
+
+TRIBUNAL
+CANTONAL
+AC2013.370
+28/2013
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 4 septembre 2013
+_______________________
+Présidence
+de               M.
+Meylan
+président
+Juges
+:              MM.
+Muller et Battistolo
+Greffier
+:              Mme
+Boryszewski
+*****
+Art.
+9 al. 1 let. a LPA-VD; art. 6 al. 1 let. a ROTC
+Vu le recours déposé auprès de la Cour de droit administratif et public du Tribunal cantonal
+(ci-après : CDAP), le 2 septembre 2013, par la S.________ contre la décision rendue par la
+P.________, le 9 juillet 2013, qui refuse l'abattage de trois pins sylvestres et trois cyprès de
+l'Arizona situés sur la parcelle n° [...], sis avenue du [...] à [...],
+vu le dossier de cette cause, instruite par le Juge cantonal [...],
+vu la demande de récusation du 3 septembre 2013, adressée à la cour de céans, par
+l'ensemble des juges cantonaux travaillant dans les locaux de la CDAP, à l'exception de ses juges
+assesseurs,
+vu l'avis du même jour du Juge cantonal [...] informant les parties de la demande de récusation
+et de la transmission de la cause à la présente cour afin de statuer,
+vu l'avis du 4 septembre 2013 de la cour de céans impartissant un délai au 17 septembre suivant
+à la Commune de [...], [...], ainsi qu'à la S.________ pour se déterminer,
+vu le courrier du 17 septembre 2013 de la Commune de [...], [...], par laquelle elle a conclu à
+l'admission de la demande de récusation,
+vu les pièces au dossier;
+attendu que le recours déposé par la S.________
+,
+le 2 septembre 2013, est pendant devant la
+CDAP,
+que les art. 9 à 12 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative; RSV 173.36)
+sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007; RSV 173.31.1), la Cour administrative est compétente pour statuer sur la demande
+de récusation, visant ses membres,
+qu'en outre, la demande est déposée en temps utile au sens de l'art. 10 al. 1 LPA-VD;
+attendu que selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+que l'art. 6 §1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et
+des libertés fondamentales; RS 0.101), garantit le droit à être jugé par un tribunal
+indépendant et impartial, établi par la loi (ATF 127 I 44 c. 2),
+que l'art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999; RS 101) n'a, de ce point de vue, pas une portée différente de
+l'art.
+6 § 1 CEDH, toute personne dont la cause doit être jugée dans une procédure judiciaire
+ayant droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent,
+indépendant et impartial (TF 1C_235/2008 du 13 mai 2009 c. 3.1),
+qu'en particulier, la garantie du juge impartial s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1; ATF 131 I 24 c. 1.1),
+qu’il n'appartient en outre pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+qu'en l'espèce, les six arbres, dont l'abattage est demandé, se trouvent sur la dalle de toiture
+de l'immeuble dans lequel la CDAP a ses locaux,
+que l'administration cantonale est locataire de ces locaux,
+que, de par la situation géographique de la CDAP, les juges, dont le bureau se situent dans ledit
+immeuble, ont un intérêt personnel évident dans la cause,
+qu'en effet, l'un des arguments de la recourante en faveur de l'abattage desdits arbres est notamment
+le fait que les racines de ces derniers pourraient pénétrer dans les drainages et les obstruer,
+et qu'ils pourraient également causer des infiltrations d'eau dans le bâtiment,
+qu'au demeurant, la Commune de [...] ne s'est pas opposée à la demande de récusation,
+que dès lors, la demande de récusation du 3 septembre 2003 doit être admise et la cause
+transmise à un juge siégeant dans une autre cour que la CDAP;
+attendu que le présent arrêt est rendu sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation de la Cour de droit administratif et public en corps, présentée
+le 3 septembre 2013, est admise.
+II.
+La cause opposant la S.________ à la P.________ actuellement pendante devant la Cour de droit administratif
+et public est transmise, dans l'état où elle se trouve, à [...], juge au sein de la Cour
+d'appel civile et de la Chambre des tutelles du Tribunal cantonal pour instruire et cas échéant
+statuer sur le recours déposé le 2 septembre 2013 par la S.________.
+III.
+Le présent arrêt est rendu sans frais, ni dépens.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- [...], Juge cantonal à la Cour de droit administratif et public, à Lausanne,
+et communiqué par l'envoi de photocopies à :
+- [...], juge au sein de la Cour d'appel civile et de la Chambre des tutelles du Tribunal cantonal à
+Lausanne;
+- la S.________, par l'intermédiaire de son conseil, Nicolas Saviaux, avocat à Lausanne;
+- la P.________.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
