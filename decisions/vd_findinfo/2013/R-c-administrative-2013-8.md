@@ -1,0 +1,164 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2013___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2013 / 8"
+decided: "2013-09-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4148829"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2013 / 8
+
+## Regeste
+
+RÉCUSATION | 6 al. 1 let. a ROTC, 9 let. e LPA-VD
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 23.09.2013 Réc-administrative / 2013 / 8
+Vaud Tribunal cantonal Cour administrative 23.09.2013 Réc-administrative / 2013 / 8
+Vaud Tribunal cantonal Cour administrative 23.09.2013 Réc-administrative / 2013 / 8
+
+RÉCUSATION | 6 al. 1 let. a ROTC, 9 let. e LPA-VD
+
+TRIBUNAL
+CANTONAL
+AC.2013.0391
+29/2013
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Du 23 septembre
+2013
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffier
+:              Mme
+Boryszewski
+*****
+Art.
+9 al. 1 let. e LPA-VD; art. 6 al. 1 let. a ROTC
+Vu le recours déposé auprès de la Cour de droit administratif et public du Tribunal cantonal
+(ci-après : CDAP), le 13 septembre 2013, par O.________ et Z.________ contre la décision rendue
+par la C.________, le 25 juillet 2013, qui autorise la transformation de la dépendance du bâtiment
+ECA n.[...] par l'aménagement d'un dépôt, carnotzet et locaux de production artisanale
+de caramels, sur la parcelle n. [...] de la Commune d'[...], propriété d'[...] à [...]
+et promis-vendu à [...] et [...] à [...],
+vu la demande de récusation du 18 septembre 2013, adressée à la cour de céans, par
+le juge cantonal [...] pour l'ensemble des juges de la CDAP,
+vu les pièces au dossier;
+attendu que le recours déposé par O.________ et Z.________
+,
+le 13 septembre 2013, est pendant devant la CDAP,
+que les art. 9 à 12 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative; RSV 173.36)
+sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal
+du 13 novembre 2007; RSV 173.31.1), la Cour administrative est compétente pour statuer sur la demande
+de récusation présentée, le 13 septembre 2013, par [...], pour l'ensemble des juges de
+la CDAP,
+qu'en outre, ledit juge, en sa qualité de président de la CDAP I, cour compétente pour
+traiter du recours de O.________ et Z.________ (art. 28 al. 1 ROTC), a demandé la récusation
+de la CDAP le 18 septembre suivant,
+qu'il a dès lors agi avec célérité (art. 10 al. 2 LPA-VD);
+attendu que selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 IA 172 c. 3),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (ATF 131 I 24 c. 1.1; ATF 124 I 121 c.
+3a, JT 1999 I 159; ATF 115 IA 172 c. 3),
+que les impressions purement individuelles d'une des parties au procès ne sont en revanche pas décisives
+(TF 5D_61/2008 du 20 août 2008 c. 5.3; ATF 131 I 24 c. 1.1),
+que l'art. 6 §1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et
+des libertés fondamentales; RS 0.101), garantit le droit à être jugé par un tribunal
+indépendant et impartial, établi par la loi (ATF 127 I 44 c. 2),
+que l'art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999; RS 101) n'a, de ce point de vue, pas une portée différente de
+l'art.
+6 § 1 CEDH, toute personne dont la cause doit être jugée dans une procédure judiciaire
+ayant droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent,
+indépendant et impartial (TF 1C_235/2008 du 13 mai 2009 c. 3.1),
+qu'en particulier, la garantie du juge impartial s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1; ATF 131 I 24 c. 1.1),
+qu'en l'espèce, par sa fonction de juge cantonal, par ailleurs, membre de la CDAP, O.________ entretient
+régulièrement des contacts professionnels avec les autres juges membres de dite cour,
+que ces relations professionnels pourraient faire naître des liens d'amitié étroite ou
+d'inimitié personnelle entre les autres juges de la CDAP et O.________,
+qu'ainsi, pour des motifs d'apparence, il ne semble pas adéquat que l'un des juges cantonaux siégeant
+dans cette cour soit appelé à instruire ou statuer sur le recours de O.________ et Z.________,
+que la demande de récusation doit dès lors être admise;
+attendu que lorsqu'une demande de récusation de l'ensemble d'une cour du Tribunal cantonal est admise,
+la cour de céans désigne une cour ad hoc en son sein (art. 8b al. 2 du Code de droit privé
+judiciaire du 12 janvier 2010; RSV 211.02),
+qu'il y a donc lieu de nommer [...], juge cantonal au sein de la Cour d'appel civile et de la Cour d'appel
+pénale, en qualité de juge instructeur dans la cause qui oppose O.________ et Z.________ à
+la C.________,
+qu'il lui appartiendra de composer la cour;
+attendu que le présent arrêt est rendu sans frais, ni dépens.
+.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation de la Cour de droit administratif et public en corps du 18 septembre 2013
+est admise.
+II
+.
+La cause opposant O.________ et Z.________ à la C.________ actuellement pendante devant la Cour
+de droit administratif et public est transmise dans l'état où elle se trouve, à [...],
+juge au sein de la Cour d'appel civile et de la Cour d'appel pénale du Tribunal cantonal, pour instruire,
+le cas échéant statuer sur le recours déposé le 13 septembre 2013 par O.________
+et Z.________.
+III.
+Le présent arrêt est rendu sans frais, ni dépens.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- O.________ et Z.________, par l'intermédiaire de leur conseil, Me Luc Pittet, avocat à Lausanne,
+et communiqué par l'envoi de photocopies à :
+- [...], juge au sein de la Cour d'appel civile et de la Cour d'appel pénale du Tribunal cantonal
+à Lausanne;
+-
+la C.________.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
