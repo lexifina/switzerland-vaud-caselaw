@@ -1,0 +1,296 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 29"
+decided: "2013-10-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4017535"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-107.md", "switzerland/bund/acts/281.1/art-140.md", "switzerland/bund/acts/281.1/art-141.md", "switzerland/bund/acts/281.1/art-155.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-037.md", "switzerland/bund/acts/281.42/art-039.md", "switzerland/bund/acts/281.42/art-044.md", "switzerland/bund/acts/281.42/art-099.md", "switzerland/bund/acts/281.42/art-102.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 29
+
+## Regeste
+
+POURSUITE EN RÉALISATION DE GAGE, PROCÉDURE D'ESTIMATION, BIEN-FONDS, CONCLUSIONS, PLAINTE{LP} | 140 al. 3 LP, 155 al. 1 LP, 17 LP, 44 ORFI, 9 ORFI, 99 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.10.2013 Plainte / 2013 / 29
+
+POURSUITE EN RÉALISATION DE GAGE, PROCÉDURE D'ESTIMATION, BIEN-FONDS, CONCLUSIONS, PLAINTE{LP} | 140 al. 3 LP, 155 al. 1 LP, 17 LP, 44 ORFI, 9 ORFI, 99 ORFI
+
+TRIBUNAL
+CANTONAL
+FA13.012718-131371
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 octobre 2013
+___________________
+Présidence
+de               Mme
+Rouleau
+,
+vice-présidente
+Juges
+:              MM.
+Hack et Maillard
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 140 al. 3, 155 LP ; 9 al. 2, 44, 99 al. 2 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.B.________
+,
+à Pully, contre la décision rendue le 11 juin 2013, à la suite de l’audience du
+23 mai 2013, par le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte déposée par le recourant contre l’avis
+de publication du 6 mars 2013 de la vente au enchères de deux parcelles de l’
+OFFICE
+DES POURSUITES DU DISTRICT DE LAVAUX-ORON
+, reçu
+par le recourant le 20 mars 2013
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+B.B.________ était propriétaire des parcelles RF [...] de la Commune de Forel et RF [...] de
+la Commune de Puidoux. Ces immeubles sont collectivement grevés de deux cédules hypothécaires
+au porteur de 225'000 fr. et de 100'000 francs.
+B.B.________ est décédé le 13 mai 2002 laissant pour héritiers sa veuve C.B.________
+et son fils A.B.________. C.B.________ étant décédée à son tour le 9 janvier
+2008, A.B.________, unique héritier, a accepté la succession sous bénéfice d’inventaire.
+2.
+Le 12 juin 2006, M.________ a requis la vente
+aux enchères des immeubles précités dans le cadre d'une poursuite en réalisation
+de gage.
+Par décision de l’autorité inférieure de surveillance du 15 septembre 2011, l’avis
+de vente adressé le 3 août 2006 à la succession de B.B.________ a été annulé,
+l’Office des poursuites de Lavaux-Oron (ci-après : l’office) étant invité
+à procéder à une nouvelle estimation des parcelles [...] et [...]. Cette décision
+retient que les changements intervenus sur la parcelle [...] (morcellement et changement de statut) justifiaient
+une nouvelle estimation des parcelles en cause. Celles-ci ont ainsi fait l’objet d’un rapport
+d’estimation établi par C.________ SA le 2 décembre 2011. L’expert a arrêté
+à 300'000 fr. la valeur vénale des deux parcelles. Il mentionne que les bâtiments sis
+sur la parcelle [...] (une ancienne ferme, soit maison d’habitation et deux dépendances) sont
+en ruine et voués à la démolition.
+Le 18 juin 2012, l’office a adressé
+à  A.B.________ un nouvel avis de vente aux enchères des immeubles de Forel et de Puidoux,
+estimés à 300'000 francs. Une plainte déposée par A.B.________ le 2 juillet 2012
+a été rejetée par prononcé de l’autorité inférieure de surveillance
+du 21 novembre 2012, confirmé par arrêt du 6 février 2013 de la cour de céans.
+3.
+Le 6 mars 2013, l’office a adressé un avis de publication de vente aux enchères des immeubles
+précités, reçu par A.B.________ le 20 mars 2013. La publication de la vente est intervenue
+le 15 mars 2013 dans la Feuille des avis officiels (FAO) et dans la Feuille officielle suisse de commerce
+(FOSC). La vente était prévue pour le 26 juin 2013.
+Le 25 mars 2013, A.B.________ a formé une plainte au sens de l’art. 17 LP contre l’avis
+de publication précité. Il a conclu à l’annulation de la publication de la vente,
+l’office étant invité à faire procéder à une nouvelle estimation du gage
+par un expert immobilier reconnu. Il a demandé l’effet suspensif, qui a été refusé
+par décision du 26 mars 2013 de l’autorité inférieure de surveillance.
+Dans ses déterminations du 2 mai 2013, l’office a conclu au rejet de la plainte.
+4.
+Par prononcé rendu 11 juin 2013 sans frais ni dépens, l’autorité inférieure
+de surveillance a rejeté la plainte et laissé libre cours à la vente aux enchères
+des immeubles en cause.
+Le premier juge a considéré en substance que l’estimation querellée était le
+résultat d’une deuxième expertise et que le plaignant n’avait pas fait valoir que
+de nouvelles modifications seraient intervenues depuis lors sur les parcelles en cause.
+A.B.________ a recouru
+par acte du 28 juin 2013 contre le prononcé qui lui avait été notifié le 18 juin
+2013, prenant la conclusion principale suivante :
+« La
+procédure de vente aux enchères des immeubles RF n° [...] de la commune de Forel et RF
+n° [...] de la commune de Puidoux est suspendue jusqu’à droit connu sur l’action
+en contestation de l’état des charges déposée, en date du 12 juin 2013, par M. A.B.________
+contre M. M.________ devant la Chambre patrimoniale du canton de Vaud et ne pourra être reprise
+qu’à droit connu sur le sort de cette action, l’Office étant alors invité
+à procéder à une nouvelle estimation du gage par le biais d’un expert immobilier
+reconnu ».
+Subsidiairement, le recourant a demandé l’annulation du prononcé et le renvoi de la cause
+pour nouvelle instruction et nouvelle décision dans le sens des considérants.
+A l’appui de son écriture, le recourant a produit une pièce nouvelle à savoir la
+demande qu’il a déposée le 12 juin 2013 devant la Chambre patrimoniale cantonale dans
+le cadre d’une action en contestation de l’état des charges, dans laquelle il conclut
+principalement à ce qu’il soit prononcé qu’il n’est pas le débiteur
+de M.________, ce dernier ne disposant d’aucune prétention à faire valoir à l’état
+des charges s’agissant de la vente des immeubles [...] et [...], à l’annulation de la
+poursuite en réalisation de gage n° 900’185’155 et à la restitution des cédules
+hypothécaires grevant les parcelles précitées.
+Par décision du 8 juillet 2013, la vice-présidente de la cour de céans a rejeté la
+requête d’effet suspensif contenue dans le recours.
+Dans son écriture du 17 juillet 2013, l'office s'est référé à sa détermination
+de première instance.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est formellement
+recevable, sous réserve de la première partie de la conclusion principale (suspension de la
+procédure de vente aux enchères jusqu’à droit connu sur l’action en contestation
+de l’état des charges) pour les motifs qui suivent (cf. infra ch. II).
+II.
+Selon l’art. 140 al. 2 LP, lorsque l’état
+des charges est établi, il est communiqué aux intéressés (créanciers saisissants,
+créanciers gagistes, titulaires de droits personnels annotés, débiteur). L’art.
+37 al. 2 ORFI (ordonnance du Tribunal fédéral du 23 avril 1920 sur la réalisation forcée
+des immeubles, RS 281.42), précise que la communication de l’état des charges est accompagnée
+de l’avis que celui qui entend contester l’existence, l’étendue, le rang ou l’exigibilité
+d’un droit inscrit à l’état des charges doit le déclarer par écrit à
+l’office dans les dix jours dès la communication en désignant exactement le droit contesté,
+faute de quoi le droit sera reconnu par lui pour la poursuite en cause (art. 140 al. 2 et 107 al. 2 et
+4 LP ; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et
+la faillite, nn. 124 ss ad art. 140 LP).  Cet avis ouvre la procédure dite d’épuration
+de l’état des charges. S’il n’est formé aucune opposition, l’état
+des charges devient définitif. En cas d’opposition, l’office procède selon les
+art. 106 à 109 LP (art. 140 al. 2 LP) et assigne un délai de vingt jours pour ouvrir action
+en contestation d’un droit inscrit à l’état des charges à celui qui veut en
+réclamer la modification ou la radiation (art. 39 ORFI et art. 107 al. 5 LP) (Gilliéron, op.
+cit. n. 125 ad art. 140 LP ; CCIV, 20 août 2000/339). Dans la mesure où le litige peut
+influer sur la fixation du prix d’adjudication ou que, pratiquée sans attendre la fin du procès,
+la vente serait de nature à léser des intérêts légitimes, l’office doit
+y surseoir jusqu’à la solution du litige (art. 141 LP).
+Le recourant allègue avoir ouvert action en contestation de l’état de charge contre M.________
+devant la Chambre patrimoniale. Il produit à cet égard une copie de la demande qu’il
+a déposée devant cette cour – laquelle est postérieure au prononcé attaqué
+- comme l’y autorise l’art. 28 al. 4 LVLP. Toutefois, si, en vertu de cette disposition,
+l’allégation de faits nouveaux ainsi que la production de nouvelles pièces sont licites
+en procédure de recours, il n’en va pas de même des conclusions nouvelles. La plainte
+LP et le recours contre la décision sur plainte doivent porter sur le même objet, sous peine
+d’irrecevabilité (CPF, 26 juin 2003/52).
+En l’espèce, la plainte tendait à une nouvelle estimation des immeubles en cause. La
+conclusion en suspension de la procédure de vente aux enchères jusqu’à droit connu
+sur l’action en contestation de l’état des charges est une conclusion nouvelle relative
+à une autre procédure. S’il estimait que les conditions en était remplies, le recourant
+devait requérir de l’office le renvoi de la vente en se fondant sur l’art. 141 al. 1
+LP, puis en cas de refus, déposer un nouvelle plainte LP contre celui-ci.
+Au demeurant, l’action introduite par le recourant vise à contester le fondement de la créance
+en poursuite et le droit de gage immobilier qui la garantit, ce qui n’apparaît guère
+possible à ce stade (ATF 118 III 22, JT 1994 II 143, c. 2a).
+Au vu de ce qui précède, la conclusion tendant à la suspension de la procédure de
+vente jusqu’à droit connu sur l’action en contestation de l’état des charges
+est irrecevable.
+III.
+Il reste à examiner la question d’une nouvelle estimation du gage, formulée tant dans
+la plainte que dans l’acte de recours.
+a)
+En
+procédure ordinaire par voie de saisie, l’office procède à l’estimation de
+l’immeuble au moment de la saisie (art. 97 al. 1 LP). Selon l’art. 9 al. 2 ORFI, dans le
+délai de plainte contre la saisie, chacun des intéressés a le droit d’exiger, en
+s’adressant à l’autorité de surveillance et moyennant avance des frais, qu’une
+nouvelle estimation soit faite par des experts. Lors du dépôt de la réquisition de réaliser,
+l’immeuble doit à nouveau être estimé par l’office des poursuites (art. 140
+al. 3 LP). Même dans le cas où l’estimation faite lors de la saisie serait éventuellement
+confirmée, il s’agit d’une nouvelle décision de l’office et les intéressés
+bénéficient de la même faculté de remettre en cause cette nouvelle estimation et
+d’en exiger le contrôle par un (autre) expert, en vertu de l’art. 9 al. 2 ORFI, quelle
+que soit la manière dont ils ont réagi à l’égard de la première estimation
+lors de la saisie (ATF 122 III 338, JT 1998 II 171 c. 3a ; Gilliéron, op. cit. n. 15 ad art.
+155 LP).
+Dans la procédure en réalisation de gage – où une estimation lors de la saisie fait
+naturellement défaut -, l’office n’opère en principe qu’une seule estimation
+de l’immeuble (art. 99 al. 1 ORFI), qui a lieu à la suite du dépôt de la réquisition
+de vente, les intéressés ayant la faculté de contester cette estimation et d’en
+requérir une nouvelle dans le délai de plainte (art. 99 al. 2 ORFI) (TF 7B.126/2003 du 31 juillet
+2003 c. 2 ; TF 5A_854/2010 du 3 mai 2011 c. 3.2 ; ATF 122 III 338, JT 1998 II 171 précité).
+Cette faculté, qui ressort de l’art. 99 al. 2 ORFI, est confirmée par la doctrine (Foex,
+Commentaire romand, n. 19 ad art. 155 LP et les références). Toutefois, l’office pourra
+procéder à une nouvelle estimation (« révision », cf. TF 5A_854/2010
+précité, ou « révision de l’estimation », cf. Gilliéron,
+op. cit. n. 16 ad
+art. 155
+LP) si, durant la procédure d’épuration de l’état des charges, des modifications
+sont intervenues quant à la valeur de l’immeuble, notamment par suite de l’élimination
+de certaines charges (art. 44 ORFI par renvoi de l’art. 102 ORFI) ou tout simplement pour des motifs
+tenant à la conjoncture économique générale (TF 7B.126/2003 précité ;
+ATF 52 III 153, pp. 156 ss, JT 1927 II 78). Si l’office procède à cette nouvelle estimation,
+chaque intéressé pourra, comme pour la première estimation, requérir une nouvelle
+estimation par des experts aux conditions de l’art. 9 al. 2 ORFI (art. 44 ORFI in fine). S’il
+renonce, en revanche, à revoir l’estimation, plainte pourra être formée, mais seulement
+pour faire valoir que la survenance de modifications rendait une révision de l’estimation
+nécessaire.
+Il n’existe donc pas, dans la poursuite en réalisation de gage immobilier un droit inconditionnel
+à ce qu’une deuxième expertise, intervenant à un stade ultérieur de la procédure,
+soit mise en œuvre, comme c’est le cas en matière de saisie (art. 140 al. 3 LP). En revanche,
+il est toujours possible de contester la première estimation de l’office, opérée
+lors du dépôt de la réquisition de vente, ou une éventuelle révision de l’estimation
+selon l’art. 44 ORFI, en réclamant, dans le délai de plainte, une nouvelle expertise
+conformément à l’art. 9 al. 2 ORFI, applicable selon renvoi des art. 99 al. 2 ORFI
+et art. 44 ORFI.
+b)
+En
+l’espèce, l’office a procédé, sur injonction de l’autorité inférieure
+de surveillance (prononcé du 15 septembre 2011), à une nouvelle estimation des parcelles en
+cause en raison de changements intervenus sur celles-ci. Il s’agissait donc d’une révision,
+fondée sur l’art. 44 ORFI, que les intéressés, le recourant en particulier, pouvaient
+contester dans le délai de plainte (art. 9 al. 2 ORFI par renvoi de l’art. 44 ORFI). Cette
+nouvelle estimation a été communiquée au recourant le 18 juin 2012. On ignore la date
+exacte à laquelle il l’a reçue, mais c’était nécessairement avant le
+2 juillet 2012, date à laquelle il a déposé une première plainte, laquelle n’avait
+pas pour objet une nouvelle estimation. Le délai de l’art. 9 al. 2 ORFI (délai de plainte)
+était donc largement dépassé lors du dépôt de la plainte du 25 mars 2013, objet
+de la présente procédure.
+Il ressort par ailleurs des principes exposés précédemment que, s’agissant d’une
+poursuite en réalisation de gage immobilier, le recourant ne disposait pas du droit de demander
+une nouvelle estimation fondée sur l’art. 140 al. 3 LP. Il n’invoque par ailleurs aucune
+modification intervenue sur les parcelles en cause, pouvant, le cas échéant, justifier une
+révision de l’estimation selon l’art. 44 ORFI.
+c)
+Le
+recourant n’énonce aucun grief à l’appui de sa conclusion subsidiaire et il n’y
+a aucun motif d’annuler le prononcé attaqué.
+IV.
+Le recours doit en conséquence être
+rejeté et le prononcé entrepris confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP, ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+8 octobre 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Nicolas Blanc, avocat (pour A.B.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
