@@ -1,0 +1,1020 @@
+---
+decision_id: "vd_findinfo_Faillite___2013___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2013 / 20"
+decided: "2013-10-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4035704"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-779.md", "switzerland/bund/acts/220/art-957.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-270.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-056.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-305.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Faillite / 2013 / 20
+
+## Regeste
+
+SURSIS CONCORDATAIRE, BILAN{EN GÉNÉRAL}, CLARTÉ ET SINCÉRITÉ DU BILAN, CONCORDAT DANS LA PROCÉDURE DE FAILLITE, CONCORDAT{LP}, OUVERTURE DE LA FAILLITE | 293 al. 1 LP, 293 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.10.2013 Faillite / 2013 / 20
+
+SURSIS CONCORDATAIRE, BILAN{EN GÉNÉRAL}, CLARTÉ ET SINCÉRITÉ DU BILAN, CONCORDAT DANS LA PROCÉDURE DE FAILLITE, CONCORDAT{LP}, OUVERTURE DE LA FAILLITE | 293 al. 1 LP, 293 LP
+
+TRIBUNAL
+CANTONAL
+FV13.008417-130708
+419
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 octobre 2013
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Byrde et M. Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+293 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par la
+F.A.W.________
+Sàrl
+, à Crissier, contre le jugement
+rendu le 22 mars 2013, à la suite de l’audience du 19 mars 2013, par le Président du
+Tribunal d’arrondissement de Lausanne, dans la cause qui l'oppose à
+S.________
+,
+à Lausanne,
+H.________
+,
+à Lausanne,
+C.________
+,
+à Crissier,
+J.________
+,
+à Assens, et
+N.________
+,
+à Boncourt.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+La recourante F.A.W.________ Sàrl, inscrite au registre du commerce depuis le 8 août 2005,
+avec siège [...] à Crissier depuis le 1
+er
+juillet 2008, précédemment à Porrentruy, a notamment pour but l'exploitation de fonds
+de commerce et d'industrie d'acquisition, la conservation, le montage, et l’exploitation de [...],
+industriels et de [...] et plus généralement de produits audiovisuels sur tous supports. Le
+capital-social de 20'000 fr. a été libéré à hauteur de 10'000 francs. A.W.________,
+qui a réuni au fil des ans une collection de plus d'un million de [...], en est l'associé-gérant
+avec signature individuelle, et est détenteur de 180 parts à 100 fr. sur 200 ; B.W.________
+et B.________ sont associés, détenteurs chacun de 10 parts à 100 francs.
+Initialement, la recourante occupait des locaux dans le canton du Jura, où étaient stockés
+les films. Suite à une inondation ayant détruit une partie de la collection, elle s’est
+installée à Crissier dans des locaux commerciaux pris à bail de C.________ pour un loyer
+de 15'350 fr. par mois.
+2.
+La recourante déploie ses activités dans le cadre du spectacle " [...]", basé
+sur [...]. Il s'agit d'une tournée mondiale qui se déroule sur une année.
+Dans le cadre de cette activité, A.W.________ a également créé la société
+Y.________, société inscrite au registre du commerce depuis le 8 août 2005, avec siège
+[...] à Crissier, au domicile de la recourante, ayant pour but l'acquisition, la conservation et
+l'archivage de films publicitaires ainsi que leur mise à disposition du public, et dont A.W.________
+est l'unique administrateur. Par décision du Président du Tribunal d'arrondissement de Lausanne
+du 15 janvier 2013, prenant effet le 1
+er
+mars 2013, Y.________ a été déclarée dissoute et sa liquidation a été ordonnée.
+3.
+Par ordonnance du 16 octobre 2012, le Juge de
+paix du district de l'Ouest lausannois a ordonné l’expulsion de la recourante des locaux commerciaux
+qu’elle loue à Crissier en raison du non-paiement du loyer à la bailleresse C.________
+depuis le 1
+er
+janvier 2012. Le 17 décembre 2012, le Juge délégué de la Cour d’appel du Tribunal
+cantonal a déclaré irrecevable, en raison du non-paiement de l’avance de frais, l’appel
+formé par la recourante contre cette ordonnance. L'exécution de l’ordonnance d’expulsion
+a eu lieu le 1
+er
+mars 2013. Les serrures des locaux ayant été changées, la recourante n’a plus accès
+aux locaux, ni au stock de fims ; en outre, le stock de films est frappé d’un droit de
+rétention en faveur de la bailleresse ; pour ces motifs, de l’aveu de son associé-gérant,
+la recourante n’est plus en mesure de préparer la tournée 2013.
+Le 24 octobre 2012, C.________ a déposé une requête de faillite sans poursuite préalable
+à l’encontre de la recourante.
+4.
+Le 11 mai 2012, à la requête de H.________, l'Office des poursuites du district de l’Ouest
+lausannois a notifié à F.A.W.________ Sàrl un commandement de payer n° 6'220'356,
+portant sur la somme de 12'253 fr. 25 avec intérêt à 5 % l’an dès le 19 janvier
+2012, indiquant comme titre de la créance ou cause de l'obligation "Note d’honoraires
+numéro : 90193-1/20110228 du 19 décembre 2011". La recourante a formé opposition
+totale.
+Le 25 septembre 2012, le Juge de paix du district de l’Ouest lausannois a prononcé la mainlevée
+provisoire de cette opposition à concurrence du 8'608 fr. avec intérêt à 5 % l’an
+dès le 12 mai 2012 ; cette décision, qui n’a pas fait l’objet de recours,
+est devenue définitive et exécutoire le 16 octobre 2012, selon un timbre humide apposé
+et signé par le greffier de paix sur l’expédition originale. Une commination de faillite
+a dès lors été notifiée à la recourante, le 27 novembre 2012.
+Par acte du 18 février 2013, H.________ a requis du Président du Tribunal d’arrondissement
+de Lausanne (ci-après : le président) qu’il prononce la faillite de F.A.W.________
+Sàrl. Parties ont alors été convoquées, par citations du 22 février 2013, à
+une audience de faillite appointée au 14 mars 2013, à 11 heures.
+5.
+Le 27 février 2013,
+en recommandé et par fax, F.A.W.________ Sàrl a déposé auprès du Tribunal d’arrondissement
+de Lausanne une demande de sursis concordataire, assortie d’une requête de mesures préprovisoires.
+Les conclusions de cette requête sont les suivantes, avec suite de frais et dépens :
+"
+Statuant
+sur mesures préprovisoires urgentes
+:
+-
+Surseoir à la requête de faillite requise
+par C.________ dans le cadre de la poursuite n° FW12.042950.
+-
+Surseoir à l’expulsion des locaux ordonnés
+par le Juge de Paix sous cause JL 12.022729/DHU, par ordonnance du 16 octobre 2012 et fixée
+au
+vendredi 1
+er
+mars 2013 à 11 h
+.
+-
+Décréter un sursis provisoire et nommer
+un Commissaire provisoire au sens de l’art. 293 al. 3 LP.
+Statuant sur
+le fond :
+-
+Octroyer à F.A.W.________ Sàrl un sursis
+concordataire de 6 mois.
+-
+Nommer un Commissaire".
+A cette requête étaient notamment jointes les pièces suivantes :
+-
+un fascicule intitulé " [...]/ Tournée 2011:/ [...]";
+-
+ses bilans et compte de pertes et profit au 31 décembre 2011, avec annexes, datés du 21 février
+2012, non signés ni révisés, et dont l’auteur est inconnu, aux termes duquel
+l'exercice comptable 2011 a été clôturé avec une perte nette de 443'141 francs 16,
+les liquidités représentant 116 fr. 26; parmi les actifs figure une créance prétendue
+de 421'841 fr. 71 contre Y.________; il figure au passif une créance de la société envers
+un "associé", d'un montant de 237'052 fr. 18, le total des dettes portée au bilan
+s'élève à 1'324'031 fr. 47; dans le compte pertes et profits, le poste charges du personnel
+porte sur un montant de 301'326 fr. 10, le compte frais d'administration à 20'164 fr. 82, les frais
+de véhicule à 21'079 fr. 52 et les frais d'assurance à 6'682 francs 70; en annexe au bilan
+figure la valeur d'assurance incendie des immobilisations corporelles, soit 12'100'000 francs;
+-
+un budget prévisionnel avril 2012-avril 2013 établi par la recourante elle-même indiquant:
+"
+AVRIL
+2012
+Facture en
+attente de règlement
+15.956 €
+MCM diffusion
+programme 2012              10.000 €
+[...] Abidjan
+3.500 €
+Ambassade de
+France Amsterdam              300 €
+Ventes aux
+télés / divers
+2.000 €
+[...] tournée
+belge (avance)              15.000 €
+O
+46.756 €
+Frais fixes
+30.000 €
+Solde
++ 16.756 €
+MAI
+2012
+Factures en
+attente de règlement
+8.056 €
+[...] Mayotte
+3.500 €
+Addict
+5.000 €
+Tournée
+mexicaine 1
+ère
+partie              3.000 €
+[...] Chisinau
+4.000 €
+[...] Lisbonne
+3.000 €
+Soirée
+privée ESC Paris
+2.000 €
+Sponsoring
+2012 1
+ère
+partie              20.000 €
+Digital Média
+téléphonie CEI
+2.500 €
+Ventes aux
+télés / divers
+2.000 €
+53.056 €
+Frais fixes
+30.000 €
+Solde
++ 39'812 €
+JUIN
+2012
+Factures en
+attente de règlement
+8.000 €
+[...] Crest
+3.000 €
+[...] Bucarest
+4.000 €
+[...] tournée
+Moyen-Orien 1
+ère
+part.              7.700 €
+Ventes aux
+télés / divers
+1.000 €
+23.700  €
+Frais fixes
+30.000 €
+Solde
++  33.512 €
+[...]
+JANVIER
+2013
+[...] Tunis
+6.000 €
+[...] Casablanca
+6.000 €
+[...] tournée
+française 4
+ème
+partie              18.000 €
+30.000 €
+Frais fixes
+30.000 €
+Solde
++ 70.712 €
+FEVRIER
+2013
+[...] Paris
+(avance Fnac)
+30.000 €
+[...] toournée
+française 5
+ème
+partie              6.000 €
+36.000 €
+Frais fixes
+30.000 €
+Solde
++ 76.712 €
+MARS
+2013
+[...] Paris
+(solde)
+60.000 €
+Diffusion TV
+programme 2012              15.000 €
+75.000 €
+Frais fixes
+30.000 €
+Frais exceptionnels
+45.000 €
+75.000 €
+Solde
++ 76.712 €
+";
+-
+un contrat de travail de durée indéterminée, daté du 5 août 2005, conclu entre
+F.A.W.________ Sàrl, employeur, et R.________, travailleur, mentionnant un salaire brut mensuel
+de 3'100 francs;
+-
+un contrat d'assurance conclu entre l'ECA et F.A.W.________ intitulé "Police d'assurance Mobilière
+Professionnelle et industrielle" assurant une somme totale de 12'100'000 fr. (soit 100'000 fr. à
+la rubrique "Mobilier", 2'000'000 à la rubrique "Machines" et 10'000'000 fr.
+à la rubrique "Marchandises de toute nature") prévoyant une entrée en vigueur
+le 25 mars 2008 et une prime annuelle de 6'050 francs;
+-
+une copie d'un contrat intitulé "Convention de cession sous condition suspensive" conclu
+le 18 septembre 2010, prévoyant la vente pour 5'000'000 € de "l'Activité" à
+savoir "la Collection, les supports matériels des films, les droits y afférents de quelque
+nature, l'organisation des spectacles et événements s'y rapprochant, les actions, parts et
+intérêts des sociétés [à savoir les sociétés Y.________ et F.A.W.________
+Sàrl], les patrimoines respectifs des sociétés, les marques, les concepts et tous autres
+droits corporels et incorporels s'y rattachant"; les trois premières pages du contrat indiquent:
+"
+Convention
+de cession
+sous
+condition suspensive
+Entre
+Les Soussignés:
+1.
+- M. A.W.________, es qualité personnelle et se portant fort pour M. B.________ et M. B.W.________
+en tout ce qui les concerne dans la présente convention, [...]
+(Ci-après dénomé
+A.W.________).
+(A.W.________ s'engage par la présente à
+couvrir son engagement de porte-fort par des procurations légales dans un délai d'une semaine
+à compter de la signature des présentes) (M. A.W.________, M. B.________ et M. B.W.________
+Individuellement et collectivement
+dénommés les Cédants).
+2.
+- Société A.________]. [...] représentée pour les fins de ce contrat par M. [...],
+ayant la faculté de se substituer à tout moment, à titre onéreux ou gratuit, de manière
+totale ou partielle, toute(s) personne(s) morale(s) ou physique(s) de son choix, pour l'exécution
+des dispositions de cette convention, [...].
+(Ci-après dénommée
+le Cessionnaire)
+(en cas de substitution par le Cessionnaire, la
+société A.________ restera garant de la société ainsi substituée pour les fins
+de paiement du prix d'acquisition tel que défini dans la présente convention).
+3.
+- La Société Y.________., société de droit Suisse, au capital de 100000 CHF entièrement
+versé, ayant son siège social [...] [...], dûment représentée pour les fins
+de cette convention par M. A.W.________. [...]
+4.
+- La [...] société de droit Suisse au capital de 20000 CHF entièrement versé, ayant
+son siège social au [...] [...], dîment représentée pour les fins de cette convention
+par M. A.W.________. [...]
+PREAMBULE
+Considérant
+que A.W.________ a créé une collection rare de [...] (ci-après La Collection ou [...]),
+qui compte un grand nombre de films en bon état de visionnage et d'exploitation, auxquels viendra
+s'ajouter tout film éventuellement recueilli par A.W.________ après la date de la signature
+de cette convention, et qui sera réputé y intégré de plein droit;
+Considérant
+que A.W.________ a créé depuis 1980 le concept de spectacles annuels diffusés dans le
+monde entier, connus sous le nom des " [...]", ou de " [...]", ou " [...]",
+ou " [...]" ou autres dénominations similaires dans différentes langues, et durant
+lesquels spectacles de réputation internationale, une projection d'une sélection annuelle de
+[...] a lieu;
+Considérant
+que A.W.________ a constitué en 2004, pour les fins de toute cette activité dans tous ses éléments
+notamment la Collection, un groupe de sociétés de droit suisse ayant pour objectifs d'acquérir,
+de conserver, d'archiver et de mettre à dispositiondu public par voie de représentation les
+[...] de la Collection, d'une part, et d'exploiter cette Collection d'autre part;
+Considérant
+que A.W.________ a par conséquent constitué une société dénommée Y.________transformée
+par la suite en société anonyme, ainsi qu' une société dénommée [...] ayant
+pour mission d'exploiter la Collection;
+Considérant
+que les cédants ont exprimé à [...] leur décision de se retirer définitivement
+de l'Activité ainsi que de toute autre activité apparentée dans le domaine [...];
+Considérant
+que cette décision de se retirer définitivement et d'arrêter toute activité dans
+le domaine de [...] et de céder tout intérêts porte sur toute l'activité dans tous
+ses éléments, [...];
+Considérant
+que les Cédants ont décidé de céder l'intégralité de l'Activité au
+Cessionnaire;
+Considérant
+que les Cédants déclarent et garantissent qu'ils n'entreprennent de manière directe ou
+indirecte, aucune activité similaire ou se rapportant à l'Activité, ni ne détiennent
+des actions ou parts ou intérêts, ni n'exploitent, ni n'ont le contrôle, de telle entité
+et/ou société, active ou dormante, ayant une activité similaire ou se rapportant à
+l'Activité en Europe ou ailleurs;
+[...]";
+-
+un courrier adressé le 31 janvier 2013 par [...], directeur adjoint à la communication de l’Institut
+national de l’audiovisuel (INA), à Paris, à A.W.________, faisant suite à un entretien
+avec l’avocat parisien de ce dernier, et déclarant que l'INA était intéressé
+à sauvegarder le fond de ces [...] et que lui-même viendrait en février avec des experts ;
+A.W.________ était invité à présenter l’ensemble des données chiffrées
+liées à son modèle économique;
+-
+une copie d’une lettre adressée à A.W.________ par son avocat parisien le 25 février
+2013 lui confirmant qu’il avait été de nouveau contacté par ses anciens acquéreurs,
+que ceux-ci entendaient poursuivre et finaliser le processus d’acquisition, à des conditions
+devant être définies lors de ces prochaines étapes et que le calendrier retenu viserait
+à conclure les négociations et procéder à la cession dans les six à huit prochaines
+semaines;
+-
+une copie d’un courrier du 27 février 2013, adressé par [...], au nom de X.________,
+à Beyrouth, à A.W.________, l’informant qu’il avait rencontré [...], directeur
+de A.________, et que ce dernier lui avait réitéré son souhait "d’acquérir
+la [...]", que des rendez-vous devraient être pris à Beyrouth ou à Dubaï d’ici
+fin mars et qu’il reviendrait vers lui rapidement pour fixer la date du voyage;
+-
+copie de l’ordonnance d’expulsion rendue le 16 octobre 2012 par le Juge de paix du district
+de l'Ouest lausannois, ordonnant à la recourante de quitter les locaux qu'elle occupait au [...]
+à Crissier au plus tard au 21 novembre 2012, à midi.
+Le 28 février 2013, la Présidente du Tribunal d'arrondissement de Lausanne a accordé un
+sursis provisoire et ordonné la suspension des poursuites intentées contre F.A.W.________ Sàrl
+jusqu'à l'audience appointée au 19 mars 2013.
+Le 1
+er
+mars 2013, le président a notifié la requête et convoqué la recourante, les Offices
+des poursuites des districts de Lausanne et de l’Ouest lausannois, ainsi que l’Office des
+faillites de Lausanne à son audience du 19 mars 2013.
+Par lettre du 4 mars 2013 adressée au président, S.________ a indiqué avoir lu dans la
+presse que la recourante avait été expulsée des locaux qu’elle louait à Crissier,
+qu’elle-même était créancière de cette société, qu’elle avait
+appris par l’office l’existence d’une audience appointée au 19 mars 2013 et qu’enfin,
+après qu’elle l’avais mis en demeure, A.W.________ lui avait écrit le 18 février
+2013 pour l’informer qu’il était sûr de revenir prochainement vers elle avec de
+bonnes nouvelles. A l'appui de son courrier elle a produit notamment une reconnaissance de dette signée
+le 23 mai 2013 par A.W.________ sur papier à entête " F.A.W.________ Sàrl" par
+laquelle ce dernier a certifié avoir reçu de S.________ un prêt de 45'000 fr. remboursable
+au 31 décembre 2012, prêt rémunéré à un taux de 2 % l'an. Le 6 mars 2013,
+le président lui a répondu qu’il lui était possible de venir à son audience
+du mardi 19 mars 2013
+Le 6 mars 2013, C.________ a informé le président que la recourante avait été expulsée
+le 1
+er
+mars 2013, par voie d’exécution forcée, des locaux qu’elle louait à Crissier.
+Le 12 mars 2013, C.________ a adressé au président un onglet de pièces sous bordereau.
+6.
+Lors de l’audience de faillite du 14 mars 2013, à laquelle seul le créancier H.________
+était présent, le président a informé le créancier qu'un effet suspensif avait
+été prononcé et qu'une audience de sursis concordataire aurait lieu le 19 mars 2013 et
+a clos les débats.
+7.
+S'agissant de la requête de sursis concordataire, le président a tenu audience le 19 mars 2013
+en présence de A.W.________ pour F.A.W.________ Sàrl, Claude Bonjour, préposé, pour
+l'Office des poursuites de l'Ouest lausannois, Michel Vodoz, substitut, pour l'Office des faillites de
+Lausanne, ainsi que les créanciers C.________, N.________, J.________, H.________, et S.________.
+Lors de l’audience, la recourante a fait valoir que la faillite serait préjudiciable aux créanciers
+dès lors qu'elle entraînerait le démantèlement de la collection mise en valeur par
+A.W.________; interpellée sur le type de concordat demandé, elle a déclaré qu’elle
+envisageait a priori un sursis concordataire par abandon d'actifs. La recourante a allégué
+que la tournée 2013 devait débuter le 17 avril à Moscou, qu’une à trois soirées
+par semaine étaient programmées, qu’elle avait développé des partenariats avec
+des chaînes de télévision locales ou étrangères et que le gain escompté
+pour l’année 2013 s’élevait à environ 400'000 francs.  Elle a confirmé
+ses conclusions et produit de nouvelles pièces à savoir:
+-
+une copie d’une télécopie adressée le 14 mars 2013 par Me Julien Lanfranconi, avocat
+à Lausanne, à l'avocat de la recourante, confirmant que des négociations sont en cours
+au sujet du rachat du fonds de commerce et des actifs de la société F.A.W.________ Sàrl,
+et déclarant que ses mandants – dont les coordonnées ne sont pas précisées
+– envisagent d’acquérir ledit fonds de commerce et les actifs de la société
+- soit notamment l’entier de la collection des films (environ un million de documents vidéo),
+le matériel, les marques, les noms de domaine, les documents relatifs à la [...] ainsi que
+les contrats de vente en cours, propriété de la Sàrl ou de A.W.________ personnellement
+– et sont disposés à financer cette acquisition à hauteur de 270'000 fr., somme
+versée sur son compte de consignation, cette somme devant permettre de solder l’intégralité
+des dettes de la Sàrl, étant précisé que la proposition ne porte que sur l'acquisition
+du fonds de commerce de la société et pas sur la société elle-même, l’achat
+des actifs susmentionnés excluant toute responsabilité pour les dettes de la société ;
+Me Lanfranconi a en outre requis que lui soit transmis une déclaration de A.W.________, par laquelle
+celui-ci s’engagerait à ne pas négocier avec des tiers en vue d’une vente ou d’une
+cession;
+-
+une lettre du 18 mars 2013 de Me Benoît Brêchet, avocat à Delémont, à l'avocat
+de la recourante dans laquelle il confirme que des négociations sont en cours depuis une semaine
+entre [...], de [...], à Delémont, et A.W.________, associé et gérant de la recourante,
+"en vue d’une reprise éventuelle des actifs (collection de films) de cette dernière";
+-
+un courrier du 13 mars 2013 de [...], de l’INA, à A.W.________, confirmant sa volonté
+de partenariat autour de " [...]", déclarant qu’il espérait que celui-ci trouverait
+des solutions appropriées pour pérenniser la [...] et précisant que " [...] est unique
+au monde";
+-
+une série de courriers et de mails au sujet des intentions de certaines villes d’acquérir
+les droits pour projeter le spectacle «  [...]» en 2013 et 2014 , avec les prix proposés
+soit notamment:
+·
+25'000 € pour Bucarest et d'autres villes
+de Roumanie;
+·
+100'000 € pour une quarantaines de villes
+de Russie, d'Ukraine, de Lettonie, du Kazakhstan, d'Azerbaïdjan, d'Ouzbékistan, d'Estonie,
+de Lituanie, de Biélorussie et du Kirgyztan;
+·
+12'000 € pour la tournée polonaise;
+·
+7'000 € pour les villes de Prague, Brno
+et Bratislava;
+·
+2'000 € pour le Costa Rica;
+·
+5'000 € pour la ville de Mexico;
+·
+12'000 € pour la tournée mexicaine;
+·
+2'500 € pour la Ville de  Crest;
+·
+3'000 € pour Lisbonne;
+·
+13'000 € pour la tournée japonaise;
+·
+6'750 fr. pour la tournée suisse romande;
+·
+10'000 USD pour Beyrouth;
+Des
+propositions pour les villes de Toulouse, Marseille, Stasbourg, Saint-Dié, Madrid, Valence, Séville,
+Saragosse, Milan, Amman, Bruxelles, Liège, Antwerpen et les régions du Koweït et du Pays
+basque étant également mentionnées, sans qu'un prix ne soit évoqué;
+-
+une lettre de [...], sur papier à en-tête d’ [...], datée du 15 février 2013
+et adressée à A.W.________, disant que la [...] qu’il a constituée est irremplaçable
+et que "voir disparaître cette œuvre serait un crime collectif";
+-
+une lettre de [...], directeur de la [...], à [...], datée du 7 mars 2013 attestant que la
+collection réunie pendant trente ans par A.W.________ est un ensemble unique au monde, qu’il
+est essentiel de préserver et de ne pas disperser ; en tant qu’ [...], la [...] précise
+qu’elle demeure à disposition pour assurer le dépôt et la conservation de cette
+collection.
+Lors de l'audience, C.________ et H.________ se sont opposés à l’octroi d’un sursis
+concordataire.
+Les autres créanciers, J.________, créancière de 25'000 fr. environ, N.________, créancière
+de 21'000 fr. environ, et S.________, pour le prêt de 45'000 fr. susmentionné qui n'avait
+touché ni capital ni intérêts sur ce prêt  au jour de l’audience, ne se
+sont pas opposés à l'octroi du sursis et n'ont d'ailleurs pas entamé de poursuites.
+L'Office des poursuites a indiqué à l’audience que la valeur de la société
+ne dépassait pas  300'000 fr. et que le total des poursuites dirigées contre elle s’élevait
+à 689'086 fr. 25 , ce dernier montant ne représentant pas l’entier du passif, dès
+lors que des créanciers n’avaient pas engagé de poursuites ; en outre, il a déclaré
+que les espoirs de partenariats annoncés ne constituaient pas une nouveauté et que les
+difficultés de la société ayant transpiré dans la presse, les risques que les acquéreurs
+potentiels attendent la faillite étaient évidents.
+Lors de cette audience, le président a informé les parties que le sursis provisoire serait
+efficient jusqu'à droit connu sur sa décision.
+8.
+Par décision du 22 mars 2013, le Président du Tribunal d'arrondissement de Lausanne a rejeté
+la requête de sursis concordataire déposée par F.A.W.________ Sàrl (I), révoqué
+avec effet immédiat le sursis provisoire et l'effet suspensif prononcés le 28 février
+2013 (II), prononcé la faillite de F.A.W.________ Sàrl avec effet au 22 mars 2013 à 9
+heures (III) et mis les frais de la décision, par 800 fr., à la charge de la requérante,
+frais de publication en sus (IV).
+En substance, le premier juge a retenu que les conditions posées par l’art. 293 LP (loi sur
+la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1) n’étaient pas remplies ,
+la requérante n'ayant pas déposé de projet de concordat, ni de bilan détaillé
+établi à la date du dépôt de la requête mais seulement les comptes de l’année
+2011 et un budget prévisionnel sans valeur probante ; il a considéré que dans ces
+conditions, il lui était impossible d’estimer la situation de la requérante, l’état
+de son patrimoine et ses revenus, et par conséquent les perspectives d’un éventuel concordat ;
+en outre, il a relevé qu’aucune information n’avait été fournie sur l’existence
+d’une garantie suffisante, que selon les comptes 2011 les actifs étaient très limités,
+que les passifs étaient très élevés (montant en poursuite de plus de 680'000 fr.,
+plus les créances ne faisant pas l’objet de poursuites, plus la créance de C.________
+augmentant de mois en mois) et que les bénéfices prétendus que la requérante pourraient
+réaliser durant sa tournée 2013 ne compenseraient pas les dettes (notamment courantes, estimées
+par la requérante elle-même à 30'000 euros par mois) ; au surplus, il a estimé
+qu’il était douteux, au vu de l’opposition de C.________, que les majorités exigées
+par l’art. 305 LP soient réunies ; enfin, il a conclu que la requérante ne rendait
+pas vraisemblable que les partenaires potentiels évoqués par elle avaient la volonté effective
+de contracter, aucune des tentatives de partenariat n’ayant abouti à ce jour. En conséquence,
+il a rejeté la requête, révoqué la décision du 28 février 2013 et prononcé
+la faillite.
+9.
+Le 28 mars 2013, C.________, par son conseil, a déposé un mémoire préventif à
+forme de l’art. 270 CPC (Code de procédure civile du 19 décembre 2008; RS 272) auprès
+de la Cour des poursuites et faillites du Tribunal cantonal, concluant d’une part au refus d’octroyer
+l’effet suspensif à un éventuel recours de F.A.W.________ Sàrl contre la décision
+du président du 22 mars 2013 et d’autre part au rejet d’une éventuelle requête
+de sursis provisoire déposée en seconde instance.
+Par acte du 10 avril 2013, F.A.W.________ Sàrl, par son conseil, a recouru contre la décision
+rendue le 22 mars 2013 par le président. A titre de mesures provisoires, la recourante a requis
+"la suspension de l’exécution de la faillite" et l’octroi d’un sursis
+provisoire au sens de l’art. 293 al. 3 LP et, sur le fond, elle a conclu à l’octroi
+d’un sursis concordataire de six mois et à la nomination d’un commissaire. Elle a produit,
+outre la décision attaquée, une pièce nouvelle.
+Par prononcé du 17 avril 2013, le président de la Cour des poursuites et faillites du Tribunal
+cantonal a rejeté la requête d’effet suspensif.
+Le 6 juin 2013, le registre du commerce a informé le greffe du tribunal qu’il n’avait
+pas de remarque à formuler quant au recours déposé. Le 13 juin 2013, l’administration
+de la faillite a déclaré renoncer à déposer des déterminations. Le 14 juin
+2013, C.________ a déposé un mémoire dans lequel elle a conclu, avec suite de frais et
+dépens, à l’irrecevabilité de la conclusion tendant à la "suspension de
+l’exécution de la faillite", et au rejet du recours portant sur le refus d’octroi
+d’un sursis concordataire, la décision de première instance étant confirmée.
+Le 17 juin 2013, H.________ a déposé une réponse, au pied de laquelle il a conclu, avec
+suite de frais et dépens, au rejet du recours.
+Par publication dans la FOSC du 11 juin et dans la FAO du 14 juin 2013, les créanciers de la recourante
+ont été invités à déposer une réponse dans les dix jours dès la parution.
+Par télécopie du 14 juin 2013, C.________ a protesté contre le libellé de ces publications,
+ensuite de quoi des avis rectificatifs ont été insérés dans ces publications les
+19 et respectivement 21 juin 2013.
+Le 17 juillet 2013, le Préposé de l’Office des faillites de Lausanne a écrit au
+président de la cour de céans pour attirer son attention sur le fait qu’au vu du rejet
+de la requête d’effet suspensif, C.________ sollicitait que la procédure de faillite
+aille de l’avant ; le préposé demandait de lui confirmer, si tel était le cas,
+que la faillite était exécutoire. Le 19 juillet 2013, le président a répondu que
+la cour se réunirait à mi-août pour trancher le recours, que la portée des conclusions
+prises par la recourante serait examinée, et que dans cette attente, le traitement de la faillite
+n’était pas paralysé.
+Le 5 août 2013, C.________ a transmis à la cour de céans une copie d’une requête
+déposée le même jour auprès du Président du Tribunal d'arrondissement de Lausanne
+visant à ce qu'il prononce l'exequatur en ce qui concerne le prononcé de faillite. Le 8 août
+2013, le président du tribunal d'arrondissement a refusé de déférer à cette
+requête.
+En droit
+:
+I.
+a)
+La recourante, qui avait requis la procédure
+concordataire en tant que débitrice, a qualité pour recourir contre le refus du sursis, auprès
+de la cour de céans et selon les modalités du recours des art. 319 ss CPC (art. 294 al. 3 LP ;
+CPF, 12 juin 2012/247). Le prononcé ayant été notifié à la recourante le 25
+mars 2013, l'acte de recours, mis à la poste le 10 avril 2013, a été déposé
+en temps utile compte tenu des féries pascales (art. 145 al. 3 et 321 al. 2 CPC; art. 56 ch. 2 LP).
+Ecrit et motivé, le recours est recevable formellement (art. 321 al. 1 CPC).
+b)
+La décision attaquée a trois composantes :
+elle rejette la requête de sursis concordataire déposée le 27 février 2013 par la
+recourante (c. I), révoque les mesures (super)provisionnnelles prononcées le 28 février
+2013 (c. II) et prononce la faillite de la recourante (c. III).
+Lors de l’audience de faillite du 14 mars 2013, le président a de fait usé de la faculté
+qui lui était offerte par l’art. 173a al. 1 LP d’ajourner la faillite en raison de la
+requête de sursis concordataire déposée le 27 février 2013 par la poursuivie, d’une
+part, et de la décision de sursis provisoire prise le 28 février 2013, d’autre part.
+Puis, le 22 mars 2013, statuant comme juge du concordat et comme juge de la faillite, en application
+de l’art. 173a al. 3 LP, il a refusé d’accorder le sursis requis et prononcé la
+faillite.
+En concluant à titre
+provisoire à la "suspension de l’exécution de la faillite" et à "l’octroi
+d’un sursis provisoire au sens de l’art. 293 al. 3 LP", et sur le fond à l’octroi
+d’un sursis concordataire de six mois et à la nomination d’un commissaire, la recourante
+ne s’en prend formellement qu’aux deux premiers chiffres de la décision, ceux qui ont
+trait au sursis concordataire ; ce faisant, elle se contente de reprendre les conclusions qu’elle
+avait formulées dans sa requête de sursis concordataire du 27 février 2013. L’intimée
+C.________ en déduit que le troisième point du dispositif, prononçant la faillite de la
+recourante, n’a pas été contesté dans le délai de recours et qu’il est
+ainsi devenu définitif et exécutoire.
+Cette interprétation formaliste se heurte toutefois au sens des conclusions prises par la recourante
+car celle-ci entend indubitablement, aussi bien par les conclusions prises à titre de "mesures
+provisoires" que celles prises au fond dans son acte de recours, faire échec au caractère
+immédiatement exécutoire du prononcé de faillite. Or, une fois que le débiteur a
+été déclaré en faillite, et pour autant que le jugement de faillite soit entré
+en force, un sursis concordataire ne peut plus être accordé (SJ 2010 I 34 ss ; Gilliéron,
+Poursuite pour dettes, faillite et concordat, 5
+ème
+éd. 2012, n. 3090a, p. 608). Pour trouver un sens aux conclusions prises par la recourante, il convient
+dès lors de distinguer. Comme elle ne prend formellement aucune conclusion tendant à la réforme
+ou à l’annulation du prononcé de faillite ni a fortiori ne développe de motivation
+exposant pour quelles raisons sa faillite ne devrait pas être prononcée en cas de rejet de
+la requête de sursis concordataire, mais seulement une motivation exposant pour quelles raisons
+elle devrait bénéficier d’un sursis, la bonne foi commande de conclure qu’en cas
+d’octroi d’un tel sursis, elle soutient que le prononcé de faillite ne peut pas subsister ;
+toutefois, en cas de rejet de sa requête de sursis concordataire, et dans la mesure où elle
+ne développe pas de conclusions ni de griefs à l’encontre du prononcé de faillite,
+celui-ci devrait être purement et simplement maintenu.
+Il convient donc d'examiner uniquement le bien-fondé des conclusions tendant à la réforme
+de la décision en ce sens qu’un sursis concordataire est octroyé pour six mois et un
+commissaire nommé.
+c)
+Selon l'art. 326 CPC, les preuves nouvelles
+sont irrecevables (al. 1), les dispositions spéciales de la loi étant réservées
+(al. 2). En matière concordataire, il n'y a pas de norme dérogeant à la règle de
+l'art. 326 al. 1 CPC, contrairement à ce qui prévaut en matière de recours contre un jugement
+de faillite (art. 174 al. 1 LP), en matière d'opposition au séquestre (art. 273 al. 3 LP) ou
+de recours contre le jugement statuant sur la révocation du sursis extraordinaire (art. 348 al.
+2 LP) ; la mention "recours limité au droit" du titre marginal de l'art. 294 LP écarte
+la possibilité pour l'autorité de recours de revoir les faits et partant, d'examiner des faits
+et preuves nouveaux (CPF, 12 juin 2012/247 précité). La pièce nouvelle déposée
+à l’appui du recours est dès lors irrecevable.
+II.
+a)
+La recourante soutient que c’est à
+tort que le premier juge a considéré que l’absence de bilan et de compte d’exploitation
+récents ainsi que d’un projet de concordat faisait obstacle à l’octroi d’un
+sursis concordataire. Ce faisant, il aurait violé l’art. 293 LP. En particulier, elle fait
+valoir que, selon la doctrine, des comptes récents ne sont nécessaires que pour autant qu’une
+modification sensible soit intervenue depuis le dernier bouclement ; or, selon elle, le budget prévisionnel
+qu’elle a produit démontrerait au contraire une continuité dans ses comptes ; en
+outre, les pièces qu’elle a produites laisseraient apparaître l’état de son
+patrimoine et de ses revenus : ces pièces permettraient d’établir qu’elle
+peut compter en 2013 sur un chiffre d’affaires de 400'000 fr., que l’estimation de la valeur
+de la société par l’office – à 300'000 fr. – est nettement inférieure
+au prix de vente de 5 millions d’euros convenu avec A.________ le 18 septembre 2010, que cette
+estimation est également nettement inférieure à la valeur d’assurance des films,
+de 12'100'000 francs. Enfin, elle invoque le fait que, contrairement à ce qu’a retenu le premier
+juge, elle avait précisé le type de concordat envisagé (par abandon d’actifs) dans
+sa requête et expliqué lors de l’audience que le dividende prévu était le désintéressement
+total des créanciers.
+Pour leur part, les intimés C.________ et H.________ soutiennent que l’art. 293 al. 1 LP a
+été correctement appliqué.
+b)
+Le concordat préventif à la faillite
+est caractérisé par la nécessité pour le débiteur d'obtenir un "sursis
+concordataire" antérieur à la décision d'homologuer ou de refuser d'homologuer le
+concordat proposé, c'est-à-dire un délai légal pendant lequel les démarches
+nécessaires à l'élaboration d'un concordat pourront être accomplies officiellement,
+dans des conditions déterminées par la loi, et pendant lequel le débiteur bénéficie
+d'une suspension des poursuites, à l'exception notamment des poursuites en réalisation de gage
+immobilier, lequel ne peut cependant pas être réalisé (Gilliéron, op. cit., n. 3090,
+p. 608).
+Le contenu de la requête de sursis concordataire est fixé par l'art. 293 LP. Aux termes de
+l'art. 293 al. 1 LP, le débiteur qui a l'intention d'obtenir un concordat doit ainsi adresser au
+juge du concordat une requête motivée et un projet.
+Par requête motivée, il faut comprendre une requête argumentée (Gilliéron, op.
+cit., n. 3092, p. 608). Le débiteur doit ainsi non seulement exposer sa situation économique,
+mais aussi les arguments qui plaident en faveur d’un concordat, et en particulier expliquer en
+quoi les créanciers y trouveraient un avantage (Vollmar, in Staehelin/Bauer/Staehelin (éd.),
+Basler Kommentar, Bundesgestez über Schuldbetreibung und Konkurs, t. II, n. 22 ad art. 293 SchKG,
+p. 2564). La requête doit aussi indiquer les causes auxquelles le débiteur attribue sa situation
+(CPF, 15 septembre 2005/322).
+Le projet de concordat est indispensable; certes, à ce stade, il n’est pas nécessaire
+de présenter un projet qui règle dans le détail tous les points du concordat ; il
+n’empêche que les éléments les plus importants du concordat envisagé doivent
+être exposés (simple sursis au paiement intégral, versement d’un dividende déterminé,
+abandon d’actifs, combinaison des différents types de concordat), de manière à ce
+que le juge puisse examiner si la conclusion d’un tel concordat est envisageable ; parmi les
+points indispensables figure le type de concordat requis, ainsi que des éléments sur le montant
+du dividende prévu et la manière de le financer (Vollmar, op. cit., n. 23 ad art. 293 SchKG,
+p. 2564 ; Gilliéron, op. et loc. cit.).
+Le projet de concordat a également pour but de permettre de s'assurer que le débiteur connaît
+sa situation, est capable de l'analyser et est en mesure de faire des propositions cohérentes; d'autre
+part, il permet de s'assurer que la requête de sursis n'est pas formée uniquement à des
+fins dilatoires ; enfin, un projet permet au juge d'adapter la tâche du commissaire aux fins poursuivies
+(CPF, 15 septembre 2005/322 précité ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, t. IV, n. 19 ad art. 293 LP, p. 357 [cité: Gilliéron,
+Commentaire]).
+L’art. 293 al. 1, 2
+ème
+phrase, LP exige également du débiteur qui a l'intention d'obtenir un concordat la production
+d'un bilan détaillé, d'un compte d'exploitation ou de tous autres documents correspondants
+laissant apparaître l'état de son patrimoine et de ses revenus, ainsi qu'un état de ses
+livres, si le requérant est soumis à l'obligation de tenir une comptabilité en vertu de
+l'article 957 CO (Code des obligations, loi fédérale du 30 mars 1911 complétant le Code
+civil suisse; RS 220). Par cette mesure, le juge doit pouvoir apprécier non seulement la valeur
+des postes de l'actif et du passif du bilan, mais également la situation économique de l'exploitation
+du débiteur, soit ses charges et ses revenus (Jeanneret/Cavadini-Birchler, Quelques aspects pratiques
+du nouveau droit de la procédure concordataire, SJ 1999 II 195 ss, p. 197). Les documents comptables
+doivent être établis à la date de la requête ou à une date peu antérieure
+(CPF, 15 septembre 2005/322 précité ; Gilliéron, Commentaire, op. cit., nn. 20 et
+21 ad art. 293 LP, p. 358), certains auteurs réservant le cas où la situation ne se serait
+pas modifiée depuis le dernier bouclement (Gani, in Dallèves/Foëx/Jeandin (éd.),
+Commentaire romand, Poursuite et faillite, n. 4 ad art. 293 LP, p. 1407).
+Une requête d'ouverture d'une procédure concordataire non argumentée ou à laquelle
+n'est pas annexé un projet de concordat ou encore à laquelle ne sont pas jointes les pièces
+probantes requises n'est certes pas irrecevable; mais, si le juge du concordat peut en signaler les lacunes
+au requérant en l'invitant à y remédier avant qu'il tienne audience, voire exiger la production
+des documents comptables, le requérant qui ne produit pas un projet de concordat et les pièces
+comptables requises verra sa requête rejetée préjudiciellement (ATF 47 III 188 s., JT
+1922 II 9 ; SJ 1994, 436 ; CPF, 15 septembre 2005/322 précité ; Gilliéron,
+Commentaire, op. cit., n. 22 ad art. 293 LP, p. 358).
+c)
+En l’espèce, il faut reconnaître,
+avec le premier juge et les intimés, que la requête de sursis concordataire déposée
+le 27 février 2013 ne remplit manifestement pas les exigences de motivation ni ne comprend les pièces,
+non seulement utiles à un examen minimal de la situation, mais obligatoires selon l’art. 293
+al. 1 LP.
+aa)
+D’abord, cette requête expose une
+série de faits censés relater l’historique que la société, et en particulier
+les motifs qui ont conduit à son endettement (cf. all. 1 à 20). Or, seule la copie d’une
+brochure publicitaire, vantant la " [...]", et un contrat de travail relatif à R.________,
+sont offerts à titre de preuve de ces allégués ; au demeurant, le nom de la recourante
+ne figure nulle part dans cette brochure, celle-ci ne se référant qu’à " F.A.W.________",
+dont il est dit qu’elle a été créée par celui-ci en 1979. Manifestement,
+outre son caractère unilatéral, cette pièce n’est pas de nature à faire comprendre
+ni même rendre vraisemblables les raisons des très sérieuses difficultés financières
+que connaît la recourante. Le fait que la recourante a été victime d’une inondation
+à Porrentruy – fait qui n’est pas contesté – ne suffit pas à expliquer
+ces difficultés dès lors qu’une indemnité d’assurance a dû lui être
+versée.
+bb)
+Ensuite, dans sa requête, elle expose
+sous cinq allégués le contenu de "son patrimoine" (cf. all. 16 à 20), dont seuls
+deux font l’objet d’une offre de preuve :
+aaa)
+Elle expose tout d'abord que "la valeur de la collection de [...]" qu’elle "détient"
+est "inestimable", et que "la valorisation de l’ensemble du fonds par l’assurance
+ECA s’élève à Euros 12'100'000.—" ; la recourante offre comme preuve
+de cet allégué le contrat d’assurance ECA qu’elle a produit.
+Il convient de relever premièrement que, selon le bilan au 31 décembre 2011 et les comptes
+2011 que la recourante a produits en première instance – qui sont au demeurant ni signés
+ni révisés (leur force probante est ainsi relative, mais vaut à tout le moins comme un
+aveu) –,  la collection de films ne figure pas à l’actif, en particulier dans les
+actifs immobilisés ; le bilan ne comporte aucune rubrique "immobilisation corporelle"
+et le total de l’actif immobilisé ascende à 157'645 fr. 50, et pas plus. Certes, en annexe
+à ces comptes figure une rubrique no 1 intitulée "valeur d’assurance incendie des
+immobilisations corporelles" d’un montant de "CHF 12'100'000" ; cette annexe
+n’a pas de sens puisque, on l’a vu, les comptes 2011 ne mentionnent pas la collection comme
+un actif, en particulier immobilisé. Quant à la police d’assurance ECA de 2008 rééditée
+en mai 2012, si elle mentionne bien ce montant comme somme d’assurance totale, elle ne fait pas
+état de la recourante comme cocontractante mais de " F.A.W.________" ; quant à
+la prime ECA annuelle de 6'050 fr., le dossier ne permet pas de savoir qui s’en acquitte, de la
+recourante ou de son associé-gérant.
+En conclusion, et en l’état du dossier, la recourante ne rend pas vraisemblable que la collection
+de films fasse partie de ses actifs, au contraire.
+bbb)
+Dans sa requête, la recourante fait valoir ce qui suit : "Un second élément
+permettant d’estimer la valeur marchande de la collection est le contrat de vente établi en
+date du 18 septembre 2010 et résilié depuis, avec la société A.________ lequel contrat
+prévoyait, sur la base d’un audit effectué par l’acquéreur, un prix d’acquisition
+de Euros 5 millions". La recourante offre comme preuve de cet allégué le contrat du 18
+septembre 2010 qu’elle a produit.
+Il est vrai que ce contrat fait état d’un "prix d’acquisition" de 5 millions
+d’euros ; toutefois, d’une part, la recourante n’y figure pas comme partie venderesse
+(ou cédante) ; sous "les Cédants", en effet, seul est mentionné A.W.________
+personnellement et se portant fort pour son père et pour B.________; la recourante figure, aux côtés
+d’Y.________, comme "les Sociétés" qui, selon le préambule du contrat,
+ont été créées par A.W.________ en vue, s’agissant de la recourante, "d’acquérir,
+de conserver, d’archiver et de mettre à disposition du public par voie de représentation
+les films publicitaires de la collection" et, s’agissant d’Y.________, "d’exploiter
+la Collection"; d’autre part, l’objet de la vente ne se limitait pas à la collection,
+mais à l’ensemble de "l’Activité", à savoir "la Collection,
+les supports matériels des films, les droits y afférents de quelque nature, l’organisation
+des spectacles et événements s’y rapportant, les actions, parts et intérêts
+des sociétés, les patrimoines respectifs des sociétés, les marques, les concepts,
+et tous autres droits corporels et incorporels s’y rattachant, … ".
+Il faut ainsi déduire de ce contrat que, non seulement la recourante n’apparaît pas comme
+titulaire de la "valeur marchande de la collection", mais que cette valeur, à elle seule,
+est inférieure à 5 millions d’euros puisque ce prix comprend d’autres postes.
+Quoi qu’il en soit, pour les raisons exposées plus haut, la "valeur marchande" de
+la collection ne saurait être comprise dans les actifs de la recourante.
+ccc)
+Dans sa requête, la recourante déduit
+des allégations susmentionnées que "La valeur du patrimoine de F.A.W.________ Sàrl
+dépasse [...] largement la valeur des dettes qui la frappent".
+Vu ce qui a été dit plus haut, cette déduction est manifestement erronée.
+Il est vrai que le fait que la recourante ne soit pas propriétaire de la collection de [...] ne
+signifie pas qu’elle ne détienne pas de droit sur celle-ci, ni qu’un éventuel droit
+sur celle-ci n’ait pas une certaine valeur. Selon le contrat du 18 septembre 2010, A.W.________
+a créé deux sociétés de droit suisse, dont la recourante, pour pérenniser et
+exploiter sa collection. Dans sa requête et dans son recours, la recourante allègue et/ou laisse
+croire que ce patrimoine lui appartient. Très logiquement, elle ne précise pas si elle dispose
+d’un quelconque autre droit (que celui, absolu, de propriété) sur la collection ni, dans
+l’affirmative lequel et pour quelle durée. Aucun contrat liant A.W.________ à la recourante
+ou à Y.________ n’a été produit, permettant de savoir à quel titre (prêt,
+sous-location, licence, etc.) la collection a été mise à disposition de la recourante,
+a été entreposée dans les locaux pris à bail par elle, et a été exploitée
+par elle. Dans ces conditions, il est impossible d’estimer la valeur d’un tel droit, ni a
+fortiori la valeur de sa contre-partie.
+En conséquence, la recourante ne rend pas vraisemblable que ses actifs sont "largement"
+supérieurs à ses passifs. Il ressort au contraire des pièces produites que ses passifs
+sont de beaucoup supérieurs à ses actifs et que l’estimation de la valeur de la société
+à 300'000 fr. opérée par l’office est plutôt optimiste.
+cc)
+Enfin, dans sa requête et son recours,
+la recourante fait état de pourparlers "très avancés avec plusieurs partenaires"
+au sujet de la vente de la collection et des efforts qu’elle fait en ce sens. Là encore, elle
+tente de laisser accroire qu’elle est propriétaire du fonds en cause et que les créanciers
+pourraient être désintéressés sur la produit de sa vente, lequel serait prétendument
+meilleur en cas de sursis concordataire qu’en cas de faillite. Or, comme on l’a vu, l’assertion
+selon laquelle elle est propriétaire dudit fonds ne trouve pas appui dans le dossier, au contraire.
+En outre, il ressort des pièces que des pourparlers ont été menés par des personnes
+intéressées par le rachat de la collection, mais pas par la reprise de l’un ou l’autre
+actif de la recourante.
+dd)
+En conclusion, non seulement la requête
+et les pièces au dossier sont clairement insuffisantes pour se faire une idée, même vague,
+de la situation économique réelle et actuelle de la recourante, mais elles montrent que celle-ci
+entretient volontairement une ambiguïté sur la substance de ses actifs. Dans ces circonstances,
+il n’est pas étonnant qu’elle ne présente aucun projet de concordat, en particulier
+par abandon d’actifs, et qu’elle se contente d’affirmer péremptoirement dans sa
+requête qu’un tel concordat "pourra être octroyé".
+Quant à l’affirmation selon laquelle elle serait en mesure de désintéresser "intégralement"
+ses créanciers par un tel abandon d’actifs, elle relève de la témérité.
+Il ressort en effet des comptes 2011 – ni signés ni révisés – qu’à
+fin 2011, la recourante ne disposait presque plus de liquidités (116 fr. 26) et que son principal
+actif circulant (sur un total de 529’494 fr. 67) était une créance contre Y.________
+(de 421'841 fr. 71), société dont A.W.________ était l’unique administrateur et
+dont la dissolution a été prononcée en janvier 2013. C’est dire qu’en réalité,
+au jour du prononcé litigieux, la perspective de recouvrer cette créance de 421'841 fr. 71
+était nulle.
+Le "budget prévisionnel avril 2012-avril 2013" ne fournit par ailleurs absolument aucun
+élément probant, en particulier au sujet des actifs de la recourante; il ne s’agit
+pas d’un budget mais d’une liste de prétendues rentrées mensuelles d’argent,
+qui n’est pas étayée par le moindre début d’une preuve ; ainsi, la recourante
+ne produit aucun des contrats prétendus de "diffusion", "sponsoring", "ventes
+aux télés", etc. ni aucune des factures en ayant découlé ; quant aux "frais
+fixes" budgétés à 30'000 € par mois, il n’est pas possible de savoir
+ce qu’ils recouvrent, en particulier s’ils comprennent l’indemnité d’occupation
+illicite ; à première vue, tel ne devrait être que très partiellement le cas
+car, selon les comptes 2011, les charges que l’on peut qualifier de fixes se sont élevées
+au minimum à 29'100 fr. par mois, sans compter le loyer (les charges de personnel se sont élevées
+à 25’110 fr. 50 par mois (301'326 fr. 10 divisés par 12), les frais d’administration
+à 1'680 fr. 40 (20'164 fr. 82 divisés par 12), les frais de véhicule à 1'756 fr.
+60 (21'079 fr. 52 divisés par 12) et les frais d’assurance à 556 fr. 90 (6'682 fr. 70
+divisés par 12)).
+Quant à la rentrée de 400'000 fr. alléguée, elle n'est pas confirmée par les
+pièces produites par la recourante, lesquelles compilent les demandes de différentes entités
+pour diffuser le spectacle 2013, pour un montant d'un peu moins de 200'000 francs. Au demeurant, dans
+la mesure où la recourante n'a plus accès à la collection de films, notamment du fait
+du droit de rétention, il lui est impossible de réaliser le chiffre d'affaires allégué.
+Si la recourante avait réellement voulu se conformer aux réquisits de l’art. 293 al.
+1 LP, elle aurait non seulement produit une requête clairement motivée et un projet de concordat,
+mais aussi son bilan détaillé au 31 décembre 2012, un compte d’exploitation pour
+2012, ainsi qu’un état de son grand livre, de son journal et de ses livres auxiliaires, ce
+qui aurait permis de connaître la situation financière actualisée de l’entreprise,
+l’état précis de ses dettes et des créances se rattachant à l’exploitation.
+Contrairement à ce qu’elle fait valoir, l’obligation de produire de tels pièces
+n’est pas une faculté du débiteur qui requiert un sursis concordataire - si bien que
+son absence pourrait être palliée par la production d’autres pièces. Compte tenu
+du fait que la recourante est une société à responsabilité limitée, et donc
+qu’elle est une personne morale (art. 779 CO), elle a l’obligation de tenir une comptabilité
+au sens de l’art. 957 CO (plus précisément de l’art. 957 al. 1 ch. 2 CO) et ses
+gérants ont la même obligation d’aviser le juge en cas de surendettement que les administrateurs
+d’une société anonyme (art. 820 al. 1 qui renvoie à 725 al. 1 CO). Partant, l’art.
+293 al. 1 LP faisait obligation à la recourante de joindre lesdites pièces comptables à
+sa requête de sursis concordataire.
+Certes, la recourante se prévaut de l’opinion de Gani - selon lequel des documents comptables
+non récents pourraient suffire si aucune modification sensible n’était survenue depuis
+le dernier bouclement (cf. cons. IIb) ci-dessus) – pour soutenir que son "budget prévisionnel
+avril 2012-avril 2013" démontrerait qu’aucune modification sensible de la situation n’est
+survenue depuis le 31 décembre 2011. Cette argument est dépourvu de pertinence, vu l’absence
+de toute force probante dudit "budget". Au surplus, il est particulièrement téméraire
+de la part de recourante de soutenir que sa situation est demeurée inchangée depuis le 1
+er
+janvier 2012, alors que, depuis cette date, d’une part, elle ne s’est plus acquittée
+de ses loyers, a fait l’objet d’une résiliation de bail extraordinaire, d’une
+procédure d’expulsion et d’une procédure d’exécution forcée qui
+ont eu pour conséquence que la collection de films publicitaires représentant sa seule source
+de revenu ne lui est plus accessible, et que d’autre part elle a fait l’objet de deux requêtes
+de faillite.
+Les griefs de la recourante, tirés de la prétendue violation de l’art. 293 LP, sont donc
+mal fondés.
+d)
+Dans ces circonstances, à défaut
+de requête dûment motivée, de projet de concordat et des pièces exigées par
+l’art. 293 al. 1 LP, la requête doit être écartée préjudiciellement (cf.
+cons. IIb) ci-dessus). Compte tenu de l’ampleur de ces carences et de l’ambiguïté
+entretenue par l’intéressée dans son allégation au sujet de la propriété
+de la collection, cette requête apparaît même dilatoire. Il n’est ainsi pas nécessaire,
+ni au demeurant possible, d’évaluer les chances d’un éventuel projet de concordat.
+C’est donc à bon droit que la requête de sursis concordataire a été rejetée
+et la décision du 28 février 2013 révoquée. Les conclusions du recours, relatives
+aux chiffres I et II du dispositif, doivent ainsi être rejetées. Pour les motifs exposés
+plus haut (cf. cons. Ib)), il n’est pas nécessaire d’examiner le bien fondé du
+chiffre III du dispositif ; au demeurant, il n’est pas contesté que la recourante était
+sous le coup de deux requêtes de faillite, dont l’une a fait l’objet d’une audience
+suspendue en raison de la requête de sursis concordataire du 27 février et du sursis provisoire
+et de l'effet suspensif prononcés le 28 février 2013.
+III.
+Le recours doit ainsi être rejeté et le prononcé confirmé. Les frais judiciaires
+de deuxième instance, arrêtés à 2'200 fr., sont mis à la charge de la recourante
+qui succombe (art. 106 al. 1 CPC). Celle-ci doit également supporter les frais de publication. La
+recourante doit verser à l'intimée C.________ le montant de 2'200 fr. à titre de dépens
+de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de F.A.W.________ Sàrl ayant pris effet au 22 mars 2013
+à 9 heures.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'200 fr. (deux mille deux
+cents francs), frais de publication en sus, sont mis à la charge de la recourante.
+IV.
+La recourante F.A.W.________ Sàrl doit verser à l'intimée C.________ la somme de 2'200
+fr. (deux mille deux cents francs) à titre de dépens de deuxième instance.
+Le
+président :               La greffière
+:
+Du
+18 octobre 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Arnaud Moutinot, avocat (pour F.A.W.________ Sàrl),
+‑
+M. Serge Maret, agent d'affaires breveté (pour C.________),
+-
+Me Dan Bailly, avocat (pour N.________),
+-
+La J.________,
+-
+Me H.________,
+-
+Mme S.________
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des poursuites de l'Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne et de l'Ouest lausannois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
