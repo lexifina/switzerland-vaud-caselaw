@@ -1,0 +1,454 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 18"
+decided: "2013-11-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4217750"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/311.0/art-052.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-173.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-430.md"]
+---
+
+# VD Findinfo Décision / 2014 / 18
+
+## Regeste
+
+NON-LIEU, DIFFAMATION, PREUVE LIBÉRATOIRE, INDEMNITÉ{EN GÉNÉRAL} | 173 ch. 2 CP, 173 CP, 319 CPP (CH), 429 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.11.2013 Décision / 2014 / 18
+
+NON-LIEU, DIFFAMATION, PREUVE LIBÉRATOIRE, INDEMNITÉ{EN GÉNÉRAL} | 173 ch. 2 CP, 173 CP, 319 CPP (CH), 429 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+810
+PE10.031761-LML
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 12 novembre 2013
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              MM.
+Meylan et Abrecht
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+173 ch. 1 et 2 CP, 319ss, 393 al. 1 let. a et 429ss CPP
+La Chambre des recours pénale du Tribunal cantonal prend séance à huis clos pour statuer
+sur les recours interjetés le 30 septembre 2013 par
+J.________
+et
+F.________
+contre l’ordonnance de classement rendue le 13 septembre 2013 par le Procureur de l’arrondissement
+de Lausanne dans la cause
+n° PE10.031761-LML
+.
+Elle considère :
+E
+n f a i t :
+A.
+a) Le 27 décembre 2010, J.________, représenté par l’avocate Gisèle de Benoit,
+a déposé plainte pénale (P. 4 et 5) contre F.________ pour diffamation, lui reprochant
+notamment d’avoir, à Lausanne, le 30 septembre 2010, fait alléguer les faits suivants
+dans le cadre d’une écriture déposée auprès de la Cour civile du Tribunal cantonal :
+- « Le demandeur F.________ s’est aperçu, au printemps 2003, que le demandeur J.________
+avait prélevé des montants importants du compte bancaire commun de l’association formée
+des demandeurs auprès de la Banque [...]» (all. 264) ;
+- « Ces prélèvements ont été effectués par le demandeur J.________
+unilatéralement et à l’insu du demandeur F.________ » (all. 265) ;
+- « Pour ce faire, le demandeur J.________ a été jusqu’à créer, à
+l’insu du demandeur F.________, un système d’ « easy banking »
+lui permettant de retirer, unilatéralement et à l’insu de son associé, des montants
+du compte commun de l’association formée par les demandeurs » (all. 266 ).
+b) Au cours de l’instruction de l’affaire, F.________ a été assisté, notamment
+lors de l’audition de la partie plaignante, du prévenu et de l’épouse de ce dernier,
+entendue en qualité de témoin, par l’avocat Bernard Katz.
+B.
+Par ordonnance du 17 septembre 2013, le Procureur de l’arrondissement de Lausanne a ordonné
+le classement de la procédure pénale dirigée contre F.________ pour diffamation (I), a
+refusé d’allouer une indemnité à F.________ au sens de l’art. 429 CPP (II)
+et a mis les frais de procédure, par 1'800 fr., à la charge de F.________ (III).
+Dans son ordonnance, le Procureur a reconnu le caractère diffamatoire des allégations faites
+par F.________, mais a considéré que la preuve libératoire de l’art. 173 ch. 2 CP
+serait très vraisemblablement considérée comme rapportée, et F.________ acquitté,
+si un Tribunal venait à être saisi. Le Procureur a en outre refusé d’octroyer l’indemnité
+réclamée par F.________ pour l’exercice raisonnable de ses droits de procédure au
+sens de l’art. 429 CPP, notamment pour le motif que ce dernier était en bonne partie responsable
+de la naissance du litige entre les parties.
+C.
+a) Par acte du lundi 30 septembre 2013, remis à la poste le même jour, J.________, représenté
+par l’avocate Gisèle de Benoît, a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance de classement, en concluant, avec suite de frais et dépens,
+à son annulation en tant qu’elle ordonne le classement de la procédure pénale dirigée
+contre F.________. Il requiert principalement que l’affaire soit transmise au Tribunal de police
+de l’arrondissement de Lausanne, F.________ devant y répondre de l’accusation de calomnie,
+subsidiairement diffamation, en raison des allégations tenues dans le procès devant la Cour
+civile, et subsidiairement que l’affaire soit renvoyée au Procureur pour qu’il dresse
+l’acte d’accusation pour calomnie, subsidiairement diffamation.
+b) Par acte du lundi 30 septembre 2013, remis à la poste le même jour, F.________, représenté
+par l’avocat Bernard Katz, a également recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre l’ordonnance de classement du 17 septembre 2013, en concluant avec
+suite de frais et dépens principalement à la réforme des chiffres II et III de son dispositif
+en ce sens qu’une indemnité au sens de l’art. 429 al. 1 let. 1 CPP fixée à
+dire de justice lui soit allouée et que les frais de procédure ne soient pas mis à sa
+charge, et subsidiairement à l’annulation des chiffres II et III du dispositif de l’ordonnance
+attaquée, la cause étant renvoyée au Procureur pour nouvelle décision dans le sens
+des considérants.
+E
+n d r o i t :
+1.
+a) Les parties peuvent attaquer une ordonnance de classement rendue par le ministère public en application
+des art. 319 ss CPP (Code de procédure pénale; RS 312.0) dans les dix jours devant l’autorité
+de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est dans le canton de
+Vaud la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction
+du Code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire; RSV 173.01]).
+Interjeté dans le délai légal (art. 322 al. 2 et 396 al. 1 CPP) respectivement par la
+partie plaignante et par le prévenu qui ont tous deux qualité pour recourir (art. 322 al. 2
+et 382 al. 1 CPP), les deux recours sont recevables.
+2.
+Recours de J.________
+a) Le recourant fait valoir que, alors même que le caractère diffamatoire des allégations
+faites par le prévenu a été reconnu, celui-ci n’aurait pas expliqué et encore
+moins démontré la nécessité qu’il avait de répandre de telles accusations
+au préjudice de son ex-associé, si bien que la question de la véracité des allégations
+diffamatoires portées par F.________ n’aurait pas dû être instruite et la possibilité
+de prouver ses allégations n’aurait pas dû lui être accordée. Au demeurant,
+F.________ n’aurait pas non plus apporté la preuve de ses allégations, si bien qu’il
+devrait être renvoyé devant le Tribunal pour y répondre de l’accusation de calomnie,
+subsidiairement diffamation.
+b) Selon l'art. 319 al. 1 let. e CPP, le Ministère public ordonne le classement de tout ou partie
+de la procédure, lorsqu'on peut renoncer à toute poursuite ou à toute sanction en vertu
+de dispositions légales. Norme de renvoi ouverte, cette disposition vise toute norme, en particulier
+de la partie générale (cf. art. 52 CP, CREP 29 septembre 2011/454) ou spéciale du Code
+pénal (Roth, in: Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale
+suisse, Bâle 2011, n. 13 ad art. 319 CPP, p. 1458), qui permet de renoncer à toute poursuite
+ou à toute sanction, telle que notamment l’art. 177 ch. 3 CP (CREP 18 mars 2013/174, CREP
+5 octobre 2012/791, CREP 5 janvier 2012/13) ou l’art. 173 ch. 2 CPP (cf. CREP 18 mars 2013/174,
+CREP 5 octobre 2012/791, CREP 5 janvier 2012/13).
+c) Aux termes de l'art. 173 ch. 1 CP, se rend coupable de diffamation celui qui, en s’adressant
+à un tiers, aura accusé une personne ou jeté sur elle le soupçon de tenir une conduite
+contraire à l’honneur, ou de tout autre fait propre à porter atteinte à sa considération,
+ou celui qui aura propagé une telle accusation ou un tel soupçon. Selon l'art. 174 ch. 1 CP,
+se rend coupable de calomnie celui qui, connaissant la fausseté de ses allégations, aura, en
+s’adressant à un tiers, accusé une personne ou jeté sur elle le soupçon de
+tenir une conduite contraire à l’honneur, ou de tout autre fait propre à porter atteinte
+à sa considération, ainsi que celui qui aura propagé de telles accusations ou de tels
+soupçons, alors qu’il en connaissait l’inanité.
+Ces
+deux dispositions protègent la réputation d'être une personne honorable, c'est-à-dire
+de se comporter comme une personne digne a coutume de le faire selon les conceptions généralement
+reçues (ATF 132 IV 112 c. 2.1; ATF 128 IV 53 c. 1a). L'honneur protégé
+par le droit pénal est conçu de façon générale comme un droit au respect qui
+est lésé par toute assertion propre à exposer la personne visée au mépris en
+sa qualité d'homme (ibidem). L'atteinte à l'honneur pénalement réprimée doit
+ainsi faire apparaître la personne visée comme méprisable (ATF 137 IV 313
+c. 2.1.1; ATF 133 IV 308 c. 8.5.1). Tant la diffamation que la calomnie sont des infractions intentionnelles
+(Corboz, Les infractions en droit suisse, 3
+e
+éd., vol. I, Berne 2010, n. 48 ad art. 173 CP, p. 591, et n. 11 ad art. 174, p. 611), la seconde
+se distinguant de la première en ce sens qu'un élément subjectif supplémentaire doit
+être réalisé, à savoir que l'auteur sait – le dol éventuel n'est pas suffisant
+– que le fait qu'il allègue est faux (Corboz, op. cit., n. 1, p. 611; Favre/Pellet/Stoudmann,
+Code pénal annoté, Lausanne, 3
+e
+éd., 2007, n. 1.1 ad art. 174 CP).
+d)
+La loi prévoit la possibilité pour une
+personne accusée de diffamation d'apporter des preuves libératoires qui excluent sa condamnation.
+Aux termes de l'art. 173 ch. 2 CP, l'inculpé n'encourra aucune peine s'il prouve que les allégations
+qu'il a articulées ou propagées sont conformes à la vérité (preuve de la vérité)
+ou qu'il avait des raisons sérieuses de les tenir de bonne foi pour vraies (preuve de la bonne foi).
+Le juge doit examiner d'office si les conditions d'admission à la preuve libératoire sont remplies;
+il faut toutefois préciser que l'admission à la preuve constitue la règle (Corboz, op.
+cit., n. 54 ad. art. 173 CP, p. 592). Pour que les preuves libératoires soient exclues, il faut,
+d'une part, que l'accusé ait tenu les propos attentatoires à l'honneur sans motif suffisant
+(d'intérêt public ou privé) et, d'autre part, qu'il ait agi principalement dans le dessein
+de dire du mal d'autrui. Ces deux conditions doivent être réalisées cumulativement pour
+refuser les preuves libératoires. Ainsi, l'accusé sera admis aux preuves libératoires
+s'il a agi pour un motif suffisant (et ce, même s'il a agi principalement pour dire du mal d'autrui)
+ou s'il n'a pas agi pour dire du mal d'autrui (et ce, même si sa déclaration n'est pas fondée
+sur un motif suffisant) (ATF 116 IV 31 c. 3; ATF 116 IV 205 c. 3b).
+L'accusé admis à
+apporter les preuves libératoires a le choix de fournir la preuve de la vérité ou la preuve
+de la bonne foi (ATF 124 IV 149 c. 3a). Apporte la preuve de la vérité un accusé qui établit
+que ce qu'il a allégué, soupçonné ou propagé est vrai (ibidem). Tous les éléments
+de preuve, même ceux qui lui étaient inconnus au moment où il s'est exprimé, peuvent
+être apportés, car la seule question pertinente est celle de la véracité du propos
+(ATF 122 IV 311 c. 2c et 2e; ATF 106 IV 115 c. 2a). En outre, la preuve de la
+vérité doit être considérée comme rapportée par l'auteur lorsque les faits
+qu'il a allégués sont établis pour l'essentiel (ATF 102 IV 176 c. 1b). La preuve de la
+bonne foi suppose que l'accusé établisse qu'il avait des raisons sérieuses de tenir de
+bonne foi ses allégations pour vraies ou ses soupçons pour fondés (cf. art. 173 ch. 2
+CP; ATF 102 IV 176 c. 2c). L'accusé est de bonne foi s'il a cru à la véracité de
+ce qu'il disait (Corboz, op. cit., n. 77 ad art. 173 CP; ATF 124 IV 149 c. 3b).
+e) En l’espèce, contrairement à ce que paraît penser J.________, F.________ n’avait
+pas à démontrer que dans le cadre du procès civil en cours, il n’avait d’autre
+choix que de tenir les allégations attentatoires à l’honneur de J.________ qui lui sont
+reprochées (recours de J.________, p. 4). Le procureur devait seulement examiner d’office
+si les conditions d’amission de la preuve libératoire, admission qui constitue la règle,
+étaient remplies.
+Or il y a lieu de retenir, à l’instar du Procureur, que si l’utilité réelle
+des allégations litigieuses apparaît douteuse, celles-ci n’apparaissaient pas à
+ce point étrangères à la cause qu’il faille considérer comme établi, en
+l’absence d’autres éléments probants, que le prévenu aurait agi sans motif
+suffisant ou uniquement dans l’intention de nuire.
+Cela étant, il y a lieu de retenir, pour les motifs exposés par le Procureur, que F.________
+a établi qu’il avait des raisons sérieuses de tenir de bonne foi ses allégations
+pour vraies. En effet, l’instruction a permis d’établir qu’alors qu’une
+signature collective à deux était en principe nécessaire pour effectuer des retraits sur
+le compte commun, J.________ a pourtant obtenu un accès informatique easy banking sur ce compte
+commun en faisant la demande sous sa seule signature, et que l’accès qui lui a été
+octroyé lui permettait de faire des paiements informatiques sans que le second titulaire du compte
+ne doive les valider informatiquement. En effet, il ressort du dossier que les documents d’ouverture
+du compte joint ouvert par F.________ et J.________ le 2 juillet 2001 indiquent que le mode de signature
+exprès prévu pour la gestion de ce compte est à deux (P. 28/2). Or il ressort du formulaire
+de la banque COOP du 7 août 2001 que seul J.________ a rempli le formulaire de demande easy banking
+en ne mentionnant que ses propres coordonnées à l’exclusion de celle de son associé
+(P. 28/3), agissant ainsi en contradiction avec ce qui avait été convenu un mois plus tôt
+s’agissant du mode de validation des paiements. Il n’est pas ni ne peut être établi
+que J.________ aurait obtenu verbalement l’accord de F.________ pour procéder de la sorte.
+J.________ était en outre le seul à disposer de l’accès easy banking (PV aud. n.
+3, p. 4, lignes 120ss). A cela s’ajoute que dans son audition du 7 juin 2012, J.________ a admis
+avoir payé par le compte commun du matériel informatique, déposé dans son bureau,
+mais indispensable selon lui à l’exécution du mandat commun (PV aud. n. 3, p. 2, lignes
+61ss), sans qu’il soit établi qu’il ait obtenu l’accord verbal de F.________ qui
+le conteste. J.________ n’a par ailleurs pas été en mesure de confirmer qu’il avait
+adressé une copie de la facture y relative à F.________, ni même de produire cette facture
+dans le cadre de la procédure. De la même manière, J.________ a admis également qu’il
+n’avait pas établi ni a fortiori communiqué à F.________ des notes d’honoraires
+formelles justifiant les montants qu’il s’était attribués à ce titre (PV aud.
+3, p. 3, lignes 75ss). Enfin, J.________ n’a pas produit le moindre document susceptible de prouver
+que son associé aurait été tenu informé des prélèvements importants opérés
+sur le compte commun de l’association. Ainsi, comme le souligne F.________, le fait de ne pas avoir
+été informé constitue un fait négatif impossible à prouver et J.________, qui,
+comme on l’a vu, était le seul à disposer de l’accès easy banking, aurait
+dû être en mesure d’apporter la preuve des accords oraux qu’il dit avoir obtenus
+de son associé. Vu ce qui précède, il y a lieu de retenir que F.________ était de
+bonne foi et avait des raisons sérieuses de tenir pour vrais les faits allégués dans l’écriture
+du 30 septembre 2010 sous les numéros 264 à 266.
+f) Il s’ensuit que l’ordonnance attaquée échappe à la critique en tant qu’elle
+ordonne le classement de la procédure pénale dirigée contre F.________. Le recours de
+J.________ doit donc être rejeté.
+3.
+Recours de F.________
+a) F.________ fait valoir que les propos qu’il a fait alléguer en procédure seraient
+licites et ne seraient pas constitutifs d’une violation d’une règle de droit codifiée
+ou même non écrite, l’ordonnance entreprise faisant ainsi, selon lui  une application
+erronée des art. 426 al. 2 et 430 al. 1 let. a CPP. Il expose encore qu’il aurait apporté
+la preuve de la vérité, au sens de l’art. 173 ch. 2 CP, des propos allégués
+en procédure, la décision entreprise violant ainsi selon lui le principe de la présomption
+d’innocence, et enfin qu’il n’existerait aucun lien de causalité adéquat
+entre les propos allégués en procédure par le recourant et l’ouverture de la procédure
+pénale dirigée contre lui, l’ordonnance entreprise faisant selon lui sur ce point aussi
+une application erronée des articles 426 al. 2 et 430 let. a CPP.
+b) L’art. 423 CPP prévoit que les frais de procédure sont mis à la charge de la
+Confédération ou du canton qui a conduit la procédure, sauf disposition contraire de la
+loi. Selon l’art. 426 al. 2 CPP, lorsque la procédure fait l’objet d’une ordonnance
+de classement ou que le prévenu est acquitté, tout ou partie des frais de procédure peuvent
+être mis à sa charge s’il a, de manière illicite et fautive, provoqué l’ouverture
+de la procédure ou rendu plus difficile la conduite de celle-ci. D'après l'art. 429 al. 1 CPP,
+si le prévenu est acquitté totalement ou en partie ou s’il bénéficie d’une
+ordonnance de classement, il a droit notamment à une indemnité pour les dépenses occasionnées
+par l’exercice raisonnable de ses droits de procédure. Aux termes de l’art. 430 al.
+1 CPP, l’autorité pénale peut réduire ou refuser cette indemnité notamment
+si le prévenu a provoqué illicitement et fautivement l’ouverture de la procédure
+ou a rendu plus difficile la conduite de celle-ci.
+Selon la jurisprudence
+du Tribunal fédéral, il existe un parallélisme entre la mise à la charge du prévenu
+des frais de procédure selon l'art. 426 al. 1 et 2 CPP et la réduction ou le refus de l'indemnité
+selon les art. 429 et 430 CPP en ce sens que si les frais de procédure sont mis à la charge
+du prévenu, il ne peut lui être alloué d'indemnité, tandis que lorsque les frais
+sont supportés par l’Etat en tout ou partie, une indemnisation entre en ligne de compte dans
+la même proportion (ATF 137 IV 352 c. 2.4.2, JT 2012 IV 255; TF 6B_77/2013 du 4 mars 2013 c. 2.4).
+L’art. 430 al. 1 CPP posant les mêmes conditions que l’art. 426 CPP, il est adéquat
+de se référer dans les deux cas à la jurisprudence rendue en matière de condamnation
+aux frais du prévenu acquitté (ATF 137 IV 352 c. 2.4.2, JT 2012 IV 255 TF 6B_77/2013 du 4 mars
+2013 c. 2.3; Mizel/Rétornaz,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, nn. 2 et 3 ad art. 430 CPP, p. 1883;
+Chapuis,
+in
+:
+Kuhn/Jeanneret [éd.], op. cit., n. 2 ad art. 426 CPP, pp. 1857 s.).
+c) La condamnation d'un
+prévenu acquitté à supporter tout ou partie des frais doit respecter la présomption
+d'innocence, consacrée par les art. 32 al. 1 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999; RS 101) et 6 par. 2 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits
+de l’homme et des libertés fondamentales; RS 0.101). Ce principe interdit de rendre une décision
+défavorable au prévenu libéré en laissant entendre que ce dernier serait néanmoins
+coupable des infractions qui lui étaient reprochées ou qu’il aurait commis une faute
+pénale (TF 1B_377/2012 du 25 juin 2013 c. 2.1.1; TF 6B_87/2012 du 27 avril 2012 c. 1.2; TF 1B_21/2012
+du 27 mars 2012 c. 2.1; TF 1B_12/2012 du 20 février 2012 c. 2). Une condamnation aux frais n'est
+ainsi admissible que si le prévenu a provoqué l'ouverture de la procédure pénale
+dirigée contre lui ou s'il a compliqué celle-ci (TF 6B_87/2012 du 27 avril 2012 c. 1.2; ATF
+116 Ia 162 c. 2d p. 171 et c. 2e p. 175). A cet égard, seul un comportement fautif et contraire
+à une règle juridique, qui soit en relation de causalité avec les frais imputés,
+entre en ligne de compte (ATF 119 Ia 332 c. 1b; ATF 116 Ia 162 c. 2c; TF 1B_377/2012 du 25 juin 2013
+c. 2.1.1).
+Pour déterminer si
+le comportement en cause est propre à justifier l'imputation des frais, le juge peut prendre en
+considération toute norme de comportement écrite ou non écrite résultant de l'ordre
+juridique suisse pris dans son ensemble, dans le sens d'une application par analogie des principes découlant
+de l'art. 41 CO (ATF 119 Ia 332 c. 1b; ATF 116 Ia 162 c. 2c; TF 6B_99/2011 du 13 septembre 2011 c. 5.1.2;
+Chapuis,
+in
+:
+Kuhn/Jeanneret [éd.], op. cit., n. 2 ad art. 426 CPP). Le fait reproché doit constituer une
+violation claire de la norme de comportement (ATF 119 Ia 332 c. 1b; ATF 116 Ia 162 c. 2d p. 171). L'acte
+répréhensible ne doit pas nécessairement être commis intentionnellement. La négligence
+suffit, sans qu'il soit besoin qu'elle soit grossière (ATF 109 Ia 160 c. 4a; TF 1B_377/2012 du 25
+juin 2013 c. 2.1.1). En outre, le juge doit fonder sa décision sur des faits incontestés ou
+déjà clairement établis (ATF 112 Ia 371 c. 2a; TF 6B_87/2012 du 27 avril 2012 c. 1.2).
+Sur la base des principes précités,
+la jurisprudence a régulièrement admis qu'un comportement contraire à une disposition
+légale peut, sans violation de la présomption d'innocence, être retenu pour justifier
+la mise à charge des frais, respectivement le refus d'indemnité, même si l'action pénale
+pour l'infraction correspondante n'a pas abouti à une condamnation (TF 1B_377/2012 du 25 juin 2013;
+TF 6B_331/2012 du 22 octobre 2012 c. 2.3; TF 6B_143/2010 du 22 juin 2010 c. 3.1; TF 1P.584/2006
+du 22 décembre 2006 c. 9.3; TF 1P.543/2001 du 1
+er
+mars 2002 c. 1.2).
+d)
+La condamnation d’un prévenu acquitté à supporter tout ou partie des frais peut
+en principe se fonder sur l’art. 28 CC (TF 1B_21/2012 du 27 mars 2012. c. 2.4).
+Selon cette disposition, celui qui subit une atteinte illicite à sa personnalité peut agir
+en justice pour sa protection contre toute personne qui y participe (al. 1). Une atteinte est illicite,
+à moins qu’elle ne soit justifiée par le consentement de la victime, par un intérêt
+prépondérant privé ou public, ou par la loi (al. 2). L’honneur, comme partie intégrante
+de la personnalité en droit civil, est une notion clairement plus large que l’honneur protégé
+pénalement par l’art. 173 CP (ATF 129 III 715 c. 4.1; TF 5A_445/2010 du 30 novembre 2010
+c. 3.1). Il y a atteinte à la personnalité notamment lorsqu’une personne est touchée
+dans son honneur, à savoir dans la considération morale, sociale ou professionnelle dont elle
+jouit (ATF 127 III 481 c. 2b/aa; 106 Il 92 c. 2a). Pour juger si une déclaration est propre
+à entacher une réputation, il faut utiliser des critères objectifs et se placer du point
+de vue du citoyen moyen, en tenant compte des circonstances, en particulier du contexte dans lequel la
+déclaration a été émise (TF 6B _87/2012 ibid c. 1.4.2; ATF 135 III 145 c. 5.2; ATF
+129 III 49 c. 2.2; ATF 127 III 481 c. 2b/aa; ATF 126 III 209 c. 3a).
+e)
+En l’espèce, il est incontestable que les allégations reprochées à F.________
+sont attentatoires à l’honneur de J.________ au sens de l’art. 28 CC. En effet, dans
+la réplique déposée par F.________ devant la Cour civile du Tribunal cantonal le 30 septembre
+2010, ce dernier affirme clairement que J.________ a, par le biais de l’easy banking et à
+l’insu de son associé, vidé, à son seul profit, le compte commun honoraires. De
+telles affirmations jettent le discrédit sur J.________ et constituent donc une atteinte à
+sa personnalité, celui-ci étant directement touché dans la considération morale,
+sociale et professionnelle dont il jouit. Cette atteinte à l’honneur est par conséquent
+illicite, à moins qu’elle ne soit justifiée par le consentement de la victime. Or J.________
+n’a à l’évidence pas consenti à cette atteinte (cf. notamment P. 5/1);
+il sied à cet égard de préciser que, contrairement à ce que soutient F.________,
+le fait que J.________ n’a pas déposé plainte pénale contre lui lorsque celui-ci
+avait déjà allégué les même faits dans le cadre d’une requête en
+liquidation d’une société simple adressée le 12 décembre 2008 au président
+du Tribunal civil de l’arrondissement de Lausanne (cf recours de F.________, p. 12, ch. 32, p.
+13, ch. 36 et p. 17-18) ne saurait être considéré comme un consentement à l’atteinte
+qui a fait l’objet de sa plainte pénale du 27 décembre 2010. Par ailleurs, il n’apparaît
+pas que F.________ puisse se prévaloir d’un intérêt prépondérant privé
+ou public. En effet, si les allégations litigieuses n’apparaissaient pas à ce point étrangères
+à la cause qu’il faille refuser pour ce motif d’admettre le prévenu à apporter
+les preuves libératoires de la vérité ou de la bonne foi, F.________ n’a nullement
+démontré en quoi ces allégations seraient justifiées par un intérêt prépondérant
+qui permettrait de considérer l’atteinte à l’honneur comme licite sur le plan du
+droit civil. D’ailleurs, F.________ ne tente même pas dans son recours de démontrer que
+les allégations litigieuses seraient licites sur le plan du droit civil, mais se borne à soutenir
+que ces allégations seraient licites respectivement non punissables sur le plan du droit pénal,
+ce qui n’est pas pertinent puisque, comme on l’a vu, la notion d’honneur est plus large
+en droit civil qu’elle ne l’est en droit pénal et que la condamnation aux frais d’un
+prévenu acquitté se fonde en principe sur l’art. 28 CC (cf. 3d supra). Le fait que F.________
+a apporté la preuve de la bonne foi au sens de l’art. 173 ch. 2 CP a certes pour conséquence
+qu’il n’est pas punissable sur le plan pénal et que la procédure pénale dirigée
+contre lui doit être classée, mais ne change rien au fait que son comportement était illicite
+sur le plan civil.
+F.________
+soutient l’inexistence d’un lien de causalité adéquat entre les propos allégués
+et l’ouverture de la plainte pénale dirigée à son encontre. Il explique que les
+allégations litigieuses avaient déjà toutes été exposées dans le cadre
+de la requête en liquidation d’une société simple adressée par le recourant
+au président du Tribunal civil de l’arrondissement de Lausanne en date du 12 décembre
+2008 déjà, et que J.________ n’aurait pas réagi à cette occasion, et qu’il
+ne pouvait dès lors se rendre compte que son comportement risquait de provoquer l’ouverture
+d’une instruction pénale. Contrairement à cette affirmation, il existe manifestement
+un lien de causalité entre l’acte civilement répréhensible et l’ouverture
+de l’enquête pénale à son encontre, en ce sens que s’il n’avait pas
+allégués les propos litigieux, J.________ n’aurait pas déposé plainte pénale.
+Force est dès lors de constater que le comportement de F.________, clairement constitutif d’une
+atteinte illicite à l’honneur de J.________ au regard de l’art. 28 CC, était propre
+à faire naître, selon le cours ordinaire des choses et l’expérience générale
+de la vie, le soupçon d’un comportement punissable justifiant l’ouverture d’une
+enquête pénale, laquelle a finalement été classée par une instruction au terme
+de laquelle il a été retenu que le prévenu avait apporté la preuve libératoire
+de sa bonne foi. C’est donc à juste titre que le Procureur a retenu que F.________ était
+certes de bonne foi, mais qu’en alléguant de tels propos, il était manifestement à
+l’origine de l’ouverture de l’action pénale. L’argument selon lequel il
+ne pouvait pas prévoir qu’en alléguant à nouveau des faits qu’il avait déjà
+allégués dans une procédure civile antérieure, il provoquerait l’ouverture
+d’une procédure pénale, doit dès lors être rejeté.
+f)
+Il s’ensuit que l’ordonnance attaquée échappe à la critique en tant qu’elle
+met les frais de la procédure à la charge de F.________ et refuse de lui allouer une indemnité
+pour l’exercice raisonnable pour ses droits de procédure. Le recours de F.________ doit donc
+être rejeté.
+4.
+En définitive, tant
+le recours de J.________ que le recours de F.________ doivent être rejetés sans autre échange
+d’écritures (art. 390 al. 2 CPP), de sorte que l’ordonnance attaquée doit être
+confirmée.
+Vu l’issue des recours,
+les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 1'320 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux ; RSV 312.03.1]), seront mis pour moitié, par 660 fr., à la charge de J.________
+et pour moitié, par 660 fr., à la charge de F.________ (art. 428 al. 1 et 418 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours de J.________ est rejeté.
+II.
+Le recours de F.________ est rejeté.
+III.
+L’ordonnance du 17 septembre 2013 est confirmée.
+IV.
+Les frais d’arrêt, par 1’320 fr. (mille trois cent vingt francs), sont mis pour moitié,
+par 660 fr. (six cent soixante francs), à la charge de J.________ et pour moitié, par 660 fr.
+(six cent soixante francs), à la charge de F.________.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Gisèle de Benoit, avocate (pour J.________),
+-
+Me Bernard Katz, avocat (pour F.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur du Ministère public de l’arrondissement
+de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
