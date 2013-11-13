@@ -1,0 +1,391 @@
+---
+decision_id: "vd_findinfo_Faillite___2013___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2013 / 30"
+decided: "2013-11-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4072930"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-957.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-039.md", "switzerland/bund/acts/281.1/art-160.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-293.md"]
+---
+
+# VD Findinfo Faillite / 2013 / 30
+
+## Regeste
+
+AJOURNEMENT DE LA FAILLITE, AUDIENCE DE FAILLITE, CONCORDAT DANS LA PROCÉDURE DE FAILLITE, OUVERTURE DE LA FAILLITE, DETTES PROPRES, COMPTABILITÉ | 171 LP, 173a LP, 293 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.11.2013 Faillite / 2013 / 30
+
+AJOURNEMENT DE LA FAILLITE, AUDIENCE DE FAILLITE, CONCORDAT DANS LA PROCÉDURE DE FAILLITE, OUVERTURE DE LA FAILLITE, DETTES PROPRES, COMPTABILITÉ | 171 LP, 173a LP, 293 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FF13.017458-131526
+447
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 novembre 2013
+_____________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              M.
+Hack et Mme Byrde
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+171, 173a et 293 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Z.________
+,
+à Montreux, contre le jugement rendu le 10 juillet 2013, à la suite de l’audience du
+27 juin 2013, par le Président du Tribunal d’arrondissement de l'Est vaudois, dans la cause
+qui l'oppose à
+G.________
+,
+à Montreux.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 31 octobre 2011, à la réquisition de Z.________, l'Office des poursuites du district de
+la Riviera – Pays-d'Enhaut (ci-après: l'office) a notifié à G.________, dans la
+poursuite n° 5'980'247, un commandement de payer les montants de 255'000 fr. sans intérêt
+(I) et de 157'000 fr. sans intérêt (II), mentionnant comme titre de la créance ou cause
+de l'obligation: (I) "Convention du 15.05.2006 et mise en demeure du 30.08.2011" et (II) "Intérêts
+courus pour les années 2008 à 2011". Le poursuivi a formé opposition totale.
+Par décision du 31 janvier 2012, le Juge de paix du district de la Riviera – Pays-d'Enhaut
+a prononcé la mainlevée provisoire de l'opposition à concurrence de 315'000 fr. avec intérêt
+à 5 % l'an dès le 15 mai 2008, sous déduction de 50'000 fr. valeur au 30 juillet 2008
+et de 10'000 fr. valeur au 1
+er
+mars 2010.
+Par arrêt du 24 août 2012, la cour de céans a partiellement admis le recours déposé
+par G.________ et réformé le prononcé en ce sens que l'opposition était levée
+à concurrence de 255'000 fr. sans intérêt et de 39'250 fr. sans intérêt.
+b)
+Le 16 mars 2013, à la réquisition de Z.________, l'office a notifié à G.________
+une commination de faillite dans la poursuite n° 5'980'247 portant sur les montants de 255'000 fr.
+sans intérêt et de 39'250 fr. sans intérêt.
+Par acte du 23 avril 2013, Z.________ a requis du Président du Tribunal d'arrondissement de l'Est
+vaudois qu'il prononce la faillite d'G.________ et qu'il ordonne l'inventaire des biens du débiteur.
+Par décision du 25 avril 2013, le président a ordonné l'inventaire des biens d'G.________.
+c)
+L'office a dressé l'inventaire le 2 mai 2013. Les biens inventoriés à l'adresse de l'intéressé
+ont dans leur grande majorité été revendiqués par V.________, compagne d'G.________.
+Selon les pièces réunies par l'office, G.________ aurait vendu à V.________ "le total
+du stock des livres au domicile privé" le 6 mars 2013, pour 1'500 francs. Dans la galerie d'G.________,
+les biens inventoriés, des œuvres d'art, ont été revendiqués soit par V.________
+soit par les auteurs des œuvres. L'inventaire ne fait état d'aucun numéraire ni de papiers
+valeurs, mais d'une seule créance, de 65'000 fr. en capital, contre X.________, domicilié en
+France, selon décision du Tribunal civil de la Sarine du 9 février 2012.
+2.
+Lors de l'audience de faillite du 27 juin 2013,
+G.________, par son conseil, a déposé une requête écrite de sursis concordataire
+ainsi qu'un projet de concordat et a requis l'ajournement de la faillite. A l'appui de sa requête,
+il a produit notamment les pièces suivantes:
+-
+un extrait du Registre du commerce du Canton de Vaud relatif à son entreprise individuelle, la [...];
+-
+une copie du prononcé rendu le 28 juin 2012 par le Juge de paix du district de la Riviera –
+Pays-d'Enhaut prononçant, à concurrence de 66'000 fr. sans intérêt sous déduction
+de 5'000 fr. valeur au 30 novembre 2011, la mainlevée provisoire de l'opposition formée par
+G.________ au commandement de payer la poursuite n° 6'148'850 de l'office exercée contre
+lui à l'instance d'C.F.________ et de B.F.________;
+-
+un dito rendu le 26 juillet 2012, prononçant, à concurrence de 215'000 fr. sans intérêt,
+sous déduction de 36'000 fr. valeur au 9 juin 2011, la mainlevée provisoire de l'opposition
+formée par G.________ au commandement de payer la poursuite n° 6'148'826 de l'office exercée
+contre lui à l'instance de B.F.________;
+-
+un dito rendu le 24 août 2012, prononçant, à concurrence de 139'500 fr. avec intérêt
+à 5 % l'an dps le 1
+er
+mai 2012, la mainlevée définitive de l'opposition formée par G.________ au commandement
+de payer la poursuite n° 6'235'296 de l'office exercée contre lui à l'instance de D.________;
+-
+un dito rendu le 4 octobre 2012, prononçant, à concurrence de 490'000 fr. avec intérêt
+à 10 % l'an dès le 1
+er
+janvier 2011, la mainlevée provisoire de l'opposition formée par G.________ au commandement
+de payer la poursuite n° 6'003'540 de l'office exercée contre lui à l'instance de R.________;
+-
+un arrêt du 19 novembre 2012 de la cour de céans, admettant partiellement le recours formé
+par G.________ à l'encontre d'un prononcé du 13 février 2012 du Juge de paix du district
+de la Riviera – Pays-d'Enhaut et prononçant, à concurrence de 194'250 fr. sans intérêt,
+sous déduction de 10'000 fr. valeur au 22 septembre 2010 et de 15'000 fr. valeur au 26 avril 2011,
+l'opposition formée par celui-ci au commandement de payer la poursuite n° 5'900'441 de l'office
+exercée contre lui à l'instance de [...];
+-
+la deuxième page du jugement rendu le 9 février 2012 par le Tribunal civil de l'arrondissement
+de la Sarine astreignant X.________ à payer à G.________ 65'000 fr. avec intérêt
+à 5 % l'an dès le 22 juillet 2010 moyennant restitution d'une peinture;
+-
+un document de trois pages intitulé "Paiements à A.F.________" affichant un total
+de 450'543 francs;
+-
+une facture au nom de "[...]" pour V.________, du 5 juillet 2010, indiquant "Avance sur
+vente futur [./.] Avance sur vente pour le mois de mars 2000.- (A ce jour 42'000)";
+-
+une lettre du 21 janvier 2011 adressée par G.________ à D.________ lui réclamant des honoraires
+de courtage d'un montant de 211'460 francs;
+-
+une copie d'une liste de tableaux au bas de laquelle figure l'indication manuscrite "Reprise pour
+CHF 36'000.-, 36 tableaux selon liste ci-dessus, en déduction de la dette de B.F.________ Vevey
+le 9 juin 2011";
+-
+plusieurs avis de débit du compte bancaire d'G.________ attestant de versements en faveur de B.F.________,
+entre le 19 juillet 2007 et le 20 juin 2008, de 71'000 francs;
+-
+un inventaire des œuvres à vendre de la [...] par lequel G.________ a estimé à 5'910'800
+fr. les œuvres de la galerie, une seule de ces œuvres, d'une valeur de 40'000 fr., ne portant
+pas de mention selon laquelle elle serait la propriété de V.________; sur cet inventaire, figure
+un tableau intitulé "Débiteurs" listant des créances contre X.________, pour
+65'000 fr., A.F.________, pour 42'000 fr., B.F.________ et C.F.________, pour 40'000 fr., et D.________,
+pour 131'300 francs;
+-
+un contrat de vente conclu le 27 février 2002 entre G.________, vendeur, et V.________, acheteuse,
+portant sur la vente de plusieurs œuvre d'art dont une partie figure dans l'inventaire susmentionné,
+pour 150'000 francs;
+-
+un extrait du compte bancaire d'G.________ attestant du versement, le 27 février 2002, de 150'000
+fr. en sa faveur de la part de V.________.
+Z.________ s'est immédiatement opposé à la requête d'ajournement de la faillite déposée
+par G.________. Il a déposé des déterminations le 4 juillet 2013.
+3.
+Par prononcé du 10 juillet 2013, le Président
+du Tribunal d'arrondissement de l'Est vaudois a constaté qu'G.________ avait déposé une
+requête de sursis concordataire (I), ajourné le prononcé de faillite d'G.________ jusqu'à
+droit connu sur la requête de sursis concordataire du 27 juin 2013 (II), mis les frais du prononcé,
+par 50 fr., à la charge d'G.________ (III) et rejeté toutes autres et plus amples conclusions
+(IV). Ce prononcé a été notifié le lendemain à Z.________.
+En substance, le premier juge a considéré que la requête de sursis concordataire déposée
+à l'audience du 27 juin 2013 par G.________ était conformes aux réquisits légaux
+et qu'il convenait en conséquence d'ajourner la faillite.
+4.
+Par acte du 17 juillet 2013, Z.________ a recouru
+contre le prononcé précité, concluant, avec dépens, à sa réforme en ce
+sens que la requête d'ajournement de la faillite est rejetée et la faillite prononcée.
+Un extrait des registres concernant G.________ a été requis d'office. Il ressort de cet extrait
+au 23 juillet 2013 qu'G.________ faisait l'objet de huit poursuites, pour un total de 1'370'380 fr. 60,
+dont sept au stade du commandement de payer en cours, pour 1'070'964 fr. 60 et une ayant donné lieu
+à la délivrance d'une commination de faillite, pour 299'416 francs.
+Par courrier du 27 avril 2013 adressé à l'office, R.________, par son conseil, a exposé
+sa surprise à la lecture de l'extrait des registres susmentionné du fait que la poursuite qu'elle
+avait intentée à l'encontre d'G.________, n° 6'003'540, n'y figurait pas.
+Par lettre du 13 septembre 2013 à R.________, l'office a admis son erreur, due à des difficultés
+informatiques. Il a transmis en annexe à cet envoi un nouvel extrait, au 13 septembre 2013, des
+registres concernant G.________.
+En droit
+:
+I.
+En vertu de l'art 174 LP (loi sur la poursuite
+pour dettes et la faillite du 11 avril 1889; RS 281.1), la décision du juge de la faillite peut,
+dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile du 19 décembre
+2008; RS 272). Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit
+et motivé, introduit auprès de l'instance de recours.
+Déposé en temps utile et dans les formes requises, le recours formé par Z.________ est
+recevable.
+II.
+a)
+Selon l'art. 171 LP, le juge saisi d'une réquisition
+de faillite doit prononcer celle-ci, sauf dans les cas mentionnés aux art. 172 à 173a LP.
+b)
+Aux termes de l'art. 173a LP, si le débiteur ou un créancier ont introduit une demande de sursis
+concordataire ou de sursis extraordinaire, le tribunal peut ajourner le jugement de faillite (al. 1);
+le tribunal peut aussi ajourner d'office le jugement de faillite lorsqu'un concordat paraît possible;
+il transmet dans ce cas le dossier au juge du concordat (al. 2).
+Le débiteur qui a l'intention d'obtenir un concordat adresse au juge du concordat une requête
+motivée et un projet. Il y joint un bilan détaillé, un compte d'exploitation ou tous autres
+documents correspondants laissant apparaître l'état de son patrimoine et de ses revenus, ainsi
+qu'un état de ses livres s'il est soumis à l'obligation d'en tenir (art. 293 al. 1 LP). D'après
+la doctrine et la jurisprudence, le débiteur qui est une personne physique exploitant une entreprise
+doit joindre à sa requête un état de sa fortune et de ses dettes privées; ces documents
+comptables doivent être établis à la date de la requête ou à une date peu antérieure.
+Suivant que le débiteur a réalisé, lors du dernier exercice, un chiffre d'affaire de plus
+ou moins 500'000 fr., il est tenu de tenir une comptabilité et de présenter des comptes, respectivement
+une comptabilité des recettes et des dépenses ainsi que du patrimoine (art. 957 al. 1 ch. 1
+et al. 2 ch. 1 CO [Code des obligations, loi fédérale du 30 mars 1911 complétant le Code
+civil suisse; RS 220] auquel se réfère l'art. 293 LP). Il s'agit, pour le débiteur, de
+produire des relevés bancaires, des contrats relatifs à ses actifs, des polices d'assurance
+d'une part et la liste de ses créanciers, avec leur identité, la somme due, l'échéance
+et les poursuites en cours (Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, nn. 20 et 21 ad art. 293 LP).
+L'art. 173a LP est une mesure d'exécution forcée permettant d'éviter l'ouverture de la
+faillite quand sont réalisées les conditions d'un assainissement financier, notamment sous
+la forme d'un sursis concordataire. Le juge de la faillite saisi d'une requête d'ajournement doit
+examiner si une requête motivée de sursis, accompagnée du projet de concordat et des pièces
+justificatives (bilan détaillé, compte d'exploitation ou tous autres documents faisant apparaître
+l'état du patrimoine du poursuivi) a été déposée et si, sur la base de ces pièces
+émerge, selon toute vraisemblance, une certaine probabilité concrète d'homologation du
+concordat (Gilliéron, op. cit., n. 13 ad art. 173a LP). Tout comme le juge saisi de la requête
+de sursis concordataire, le juge de la faillite saisi d'une demande d'ajournement doit donc poser un
+pronostic, sur la base d'un examen sommaire, à propos des chances de succès de la requête
+de concordat. Selon la jurisprudence, l'art. 173a al. 1 LP introduit une faculté (Kannvorschrift),
+laissée à l'appréciation du juge de la faillite. Si, la faillite ayant été ajournée,
+le sursis concordataire est octroyé, la réquisition de faillite doit être annulée
+dès que la décision accordant le sursis est devenue définitive (TF 5P.288/1997 du 7 octobre
+1997, c. 3a).
+L'ajournement de la faillite déploiera ses effets pendant la durée correspondant au temps nécessaire
+au juge pour rendre sa décision sur le sursis concordataire. Une telle décision tend ainsi
+à maintenir la situation inchangée dans l'attente du résultat de la procédure concordataire.
+Compte tenu de son caractère temporaire, de sa dépendance par rapport à la procédure
+de sursis concordataire – elle-même considérée comme une mesure provisionnelle (ATF
+135 III 430, c. 1.3) – et du pronostic qu'elle implique lequel s'opère sur la base de la vraisemblance,
+l'ajournement doit être considéré comme une mesure provisionnelle (TF 5A_211/2010 du 12
+janvier 2011, c. 2.1 et 2.2).
+Dans le cadre de la procédure sommaire (art. 251 let. a CPC), le tribunal examine s'il est rendu
+vraisemblable qu'un concordat est possible. A cet égard, il ne suffit pas au débiteur d'alléguer
+l'existence d'une telle possibilité; encore faut-il que celle-ci ressorte du dossier, ou des éléments
+de preuve amenés par le débiteur, le créancier ou des tiers (Giroud, Basler Kommentar
+SchKG II, nn. 7 à 9 ad art. 173a LP et les références citées).
+Enfin, l'art. 173a LP constitue une mesure d'exception dans le système du droit de l'exécution
+forcée et doit donc être appliqué restrictivement (CPF, 2 mai 2013/177; CPF, 19 décembre
+2011/540; Cometta, Commentaire romand, n. 7 ad art. 173a LP; Gilliéron, op. cit., n. 14 ad art.
+173a LP).
+c)
+Le
+recourant allègue que le poursuivi n'a pas produit de projet de concordat. En réalité,
+G.________ a déposé un projet proposant un dividende de 30 %.
+La requête de sursis ne précise pas si le requérant a réalisé un chiffre d'affaire
+de plus ou moins 500'000 fr. lors du dernier exercice. On ignore donc le type de documents comptables
+qu'il était censé produire avec sa requête. A supposer qu'il n'était pas astreint
+à tenir une comptabilité au sens des art. 957 ss CO, mais seulement une comptabilité des
+recettes et dépenses et de son patrimoine, en vertu de l'art. 957 al. 2 ch. 1 CO, il faut constater
+qu'G.________ n'a pas produit d'état de sa fortune et de ses dettes. Le seul document produit s'apparentant
+à des comptes est l'inventaire des œuvres à vendre de la [...]. Ce document fait état
+de tableaux, de sculptures et de bouteilles estimés à un montant total de 5'910'800 francs.
+A l'appui de sa requête de sursis concordataire G.________ admet que "la majorité de ces
+œuvres appartiennent à V.________" et affirme que "celle-ci accepterait toutefois
+que ces dernières soient mises à disposition du commissaire" et qu'en cas de vente, les
+œuvres pourraient rapporter un dividende de 30 % environ des sommes dues par le recourant, "alors
+qu'elle les revendiquerait dans le cadre d'une faillite". Il n'a cependant produit aucune preuve
+de ces allégations et ne prétend pas jouir d'un quelconque droit sur ces œuvres.
+L'estimation effectuée par G.________ des biens se trouvant dans sa galerie paraît peu crédible.
+Les montants pour lesquels les œuvres sont estimées ne sont aucunement documentés. Le
+contrat de vente conclu le 27 février 2002 entre G.________ et sa compagne porte sur une partie
+des œuvres listées dans l'inventaire qu'il a produit. Or, le prix convenu pour cette vente
+s'élève à 150'000 francs. Ainsi, l'allégation selon laquelle ces objet vaudraient
+environ 6 millions paraît pour le moins hasardeuse, sinon fantaisiste. D'ailleurs, comme on l'a
+vu, ces œuvres ne lui appartiennent pas. L'inventaire fait également état de plusieurs
+créances. La première, de 65'000 fr., contre X.________ ressort du jugement du 9 février
+2012 du Tribunal civil de l'arrondissement de la Sarine. Cependant, l'intéressé n'a produit
+aucune pièce permettant d'établir que ce jugement est exécutoire ou que le montant n'aurait
+pas été payé. L'inventaire comporte également la mention d'une créance à
+l'encontre de A.F.________, d'une valeur de 42'000 francs. A l'appui de sa requête de concordat,
+le requérant allègue que cette créance s'élèverait à 450'543 francs. A
+ce sujet, G.________ a produit une facture du 5 juillet 2010 en faveur de V.________ dont le texte –
+"Avance sur vente future [./.] Avance sur vente pour le mois de mars 2000.- (A ce jour 42'000)"
+– n'est pas très clair. Quant au décompte intitulé "Paiements à A.F.________",
+affichant un total de 450'543 fr., il a été établi par G.________ lui-même et ne
+saurait dès lors revêtir une quelconque force probante. L'inventaire évoque également
+une créance de 40'000 fr. contre B.F.________ et C.F.________ que l'intéressé n'a pas
+invoqué dans sa requête de sursis concordataire. Il allègue cependant une créance
+de 131'300 fr. à l'encontre de D.________ en vertu d'un contrat de mandat. G.________ n'a produit,
+à l'appui de son affirmation, qu'une lettre qu'il a adressée à D.________ pour lui réclamer
+la somme de 211'460 francs. Cette pièce ne revêt aucune force probante.
+On pourrait ainsi tout au plus tenir compte de 65'000 fr., avec la réserve qui précède.
+Quant à ses dettes, G.________ les estime à 1'984'174 fr. 10. L'intimé a indiqué
+avoir contracté divers emprunts dans le cadre de l'exploitation de sa galerie d'art. Il a admis
+que Z.________ avait obtenu la mainlevée contre lui pour 294'250 fr., que R.________ l'avait obtenue
+pour 490'000 fr., B.F.________ pour 240'000 fr., D.________ pour 139'500 fr. et [...] pour 169'250 francs.
+A l'appui de sa requête de concordat, le recourant a allégué avoir remboursé plusieurs
+montants à ses créanciers. Il a notamment produit des avis de virement en faveur de B.F.________;
+ces derniers sont cependant antérieurs au prononcé de mainlevée produit. Il ressort des
+pièces que les poursuites pour lesquelles la mainlevée a été obtenue totalisent presque
+1'400'000 francs. En outre, selon l'inventaire dressé par l'office le 2 mai 2013 et les affirmations
+d'G.________, celui-ci ne possède quasiment rien.
+Ainsi, il apparaît que l'intimé n'a pas produit les pièces requises par l'art. 293 al.
+1 LP et que son projet de concordat est irréalisable. En effet, s'il mentionne un dividende de 30
+%, il ressort de la requête et des pièces que ce chiffre est fantaisiste. Dès lors que
+le stock d'œuvres – dont la valeur est incertaine – ne lui appartient pas, on voit mal
+comment G.________ pourrait servir un dividende de 30 % à ses créanciers. Le projet de concordat
+ne révèle pas une analyse sérieuse de sa situation par le requérant ni de proposition
+cohérente au vu de celle-ci.
+Pour tous les motifs évoqués, il convient de rejeter la demande d'ajournement de la faillite
+déposée par G.________ le 27 juin 2013.
+III.
+a)
+Le juge prononce la faillite si la réquisition
+est accompagnée d'un commandement de payer passé en force et d'un acte de commination de faillite
+régulièrement notifiés, si le délai d'atermoiement de vingt jours de l'art. 160 al.
+1 ch. 3 LP est écoulé, s'il est compétent à raison du lieu et si le poursuivi est
+bien sujet à la poursuite par voie de faillite (Bosshard, Le recours contre le jugement de faillite,
+in JT 2010 III 113 ss, p. 121).
+b)
+En l'espèce, G.________ étant sujet à la poursuite par voie de faillite (art. 39 al. 1
+LP), il convient de prononcer sa faillite.
+IV.
+En définitive, le recours doit être
+admis et le prononcé réformé en ce sens la requête d'ajournement de faillite et rejetée
+et que la faillite d'G.________ est prononcée et prend effet le 13 novembre 2013 à 16 heures
+15.
+Les frais de deuxième instance, arrêtés à 300 fr., sont mis à la charge de l'intimé
+qui succombe (art. 106 al. 1 CPC). Celui-ci doit verser au recourant des dépens de deuxième
+instance, arrêtés à 2'000 fr. (art. 3 et 8 TDC [Tarif des dépens en matière
+civile du 23 novembre 2010; RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que la requête d'ajournement de faillite est rejetée,
+et que la faillite d'G.________ est prononcée, prenant effet le 13 novembre 2013 à 16 heures
+15.
+Il est maintenu pour le
+surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de l'intimé.
+IV.
+L'intimé G.________ doit verser au recourant Z.________ la somme de 2'300 fr. (deux mille trois
+cents francs) à titre de restitution d'avance de frais et de dépens de deuxième instance.
+Le
+président :               La greffière
+:
+Du
+13 novembre 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Marcel Heider, avocat (pour Z.________),
+‑
+Me Dan Bally, avocat (pour G.________),
+-
+M. le Préposé à l'Office des poursuites du district de la Riviera – Pays-d'Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l'Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office des districts d'Aigle et de la Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois.
+La greffière :
