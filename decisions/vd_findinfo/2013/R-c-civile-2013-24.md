@@ -1,0 +1,175 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2013___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2013 / 24"
+decided: "2013-11-18"
+published: "2013-11-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4148772"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# VD Findinfo Réc-civile / 2013 / 24
+
+## Regeste
+
+RÉCUSATION, DROIT À UNE AUTORITÉ INDÉPENDANTE ET IMPARTIALE, ASSISTANCE JUDICIAIRE | 117 CPC (CH), 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 18.11.2013 Réc-civile / 2013 / 24
+Vaud Tribunal cantonal Cour administrative 18.11.2013 Réc-civile / 2013 / 24
+Vaud Tribunal cantonal Cour administrative 18.11.2013 Réc-civile / 2013 / 24
+
+RÉCUSATION, DROIT À UNE AUTORITÉ INDÉPENDANTE ET IMPARTIALE, ASSISTANCE JUDICIAIRE | 117 CPC (CH), 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ
+
+TRIBUNAL
+CANTONAL
+JI13.034648
+32/2013
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 18 novembre 2013
+________________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffier
+:              Mme
+Boryszewski
+*****
+Art.
+47 al. 1 let. f et 49 al. 1 CPC; art. 8a al. 3 CDPJ
+Vu la demande déposée le 9 août 2013 par-devant le Président du Tribunal d'arrondissement
+de l'[...] par O.________ contre A.S.________ dite [...] et B.S.________,
+vu la réponse du 23 septembre 2013 de A.S.________ dite [...] et B.S.________,
+vu le dispositif du jugement du 4 octobre 2013 rendu par la Présidente du Tribunal d'arrondissement
+de l'[...], ordonnant notamment à A.S.________ dite [...] et B.S.________, sous la menace de la
+peine d'amende de l'art. 292 CP (Code pénal suisse du 21 décembre 1937; RS 311.0),
+de quitter et rendre libre dans les 10 jours, dès jugement exécutoire, la chambre qu'ils occupent
+dans le [...] à [...], en emportant leurs
+effets personnels,
+vu le courrier du 9 octobre 2013 de A.S.________ dite [...] et B.S.________, par lequel ils ont demandé
+la motivation du jugement, soulevé le déclinatoire, demandé la révision dudit jugement
+en produisant un contrat de bail daté du 3 décembre 2007 et requis le bénéfice de
+l'assistance judiciaire,
+vu la décision du 11 octobre 2013 rendue par la Présidente du Tribunal d'arrondissement de
+l'[...] refusant de prendre en compte la pièce produite par les défendeurs, déclarant
+irrecevable la demande de révision et rejetant la demande d'assistance judiciaire,
+vu le recours du 18 octobre 2013 interjeté par A.S.________ dite [...] et B.S.________ auprès
+du Tribunal cantonal contre la décision de la Présidente du Tribunal d'arrondissement de l'[...]
+du 11 octobre 2013,
+vu la demande de récusation du 21 octobre 2013 déposée par A.S.________ dite [...] et
+B.S.________ (ci-après : les requérants) à l'encontre du Tribunal d'arrondissement de
+l'[...]
+in corpore
+(ci-après : l'autorité intimée),
+vu les déterminations du 29 octobre 2013 de l'autorité intimée,
+vu l'avis du 12 novembre 2013 de l'autorité de céans adressant une copie des déterminations
+de l'autorité intimée,
+vu les pièces au dossier;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 21 octobre 2013 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12
+janvier 2010; RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal du 13
+novembre 2007; RSV 173.31.1),
+que la demande satisfait
+aux exigences de forme,
+qu'elle est ainsi recevable;
+attendu que les requérants
+soutiennent que, dans sa décision du 11 octobre 2013, la Présidente du Tribunal d'arrondissement
+de l'[...] n'a pas statué sur la requête en déclinatoire et a lié à tort la
+demande d'assistance judiciaire à la demande de révision, refusant ainsi d'y répondre,
+que cette attitude démontrerait que la présidente a un parti-pris, empêchant les requérants
+d'avoir ainsi accès à une défense efficace,
+que, de son côté, l'autorité intimée a relevé qu'aucun motif de récusation
+n'était réalisé,
+que selon elle, un jugement ayant été rendu, le déclinatoire ne peut plus être invoqué
+dans cette cause,
+qu'il en va de même pour l'assistance judiciaire,
+qu'enfin, le courrier des requérants, interprété comme une demande de révision, était
+prématuré faute de jugement définitif et exécutoire;
+attendu qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant (let. f.),
+que la récusation
+d'un juge ou d'un tribunal ne doit pas être autorisée à la légère, mais uniquement
+pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116 Ia 14 c. 4, trad.
+et rés. au JT 1991 IV 157; ATF 115 Ia 172 c. 3),
+que la garantie du juge
+impartial, qui découle des art. 30 al. 1 de la Constitution fédérale de la Confédération
+suisse du 18 avril 1999 (RS 101) et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits
+de l’homme et des libertés fondamentales (RS 0.101), s'oppose à ce que des circonstances
+extérieures au procès puissent influencer le jugement d'une manière qui ne serait pas
+objective, en faveur ou au préjudice d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1;
+ATF
+131 I 24 c. 1.1),
+qu'en la matière,
+même les apparences peuvent revêtir de l'importance, pour autant qu'elles fassent redouter
+une attitude partiale du ou des magistrats
+(ATF
+134 I 20 c. 4.2), qu'elles soient objectives et résultent de faits déterminés (ATF 131
+I 24 c. 1.1; ATF 124 I 121 c. 3a, JT 1999 I 159 ; ATF 115 Ia 172 c. 3),
+qu'en l'espèce, les
+requérants n'allèguent pas en quoi les décisions de la présidente découleraient
+d'une activité partiale,
+qu'ils se contentent d'arguments appellatoires qui n'ont pas lieu d'être devant la cour de céans,
+celle-ci n'agissant en aucun cas comme autorité de surveillance (TF 4A_323/2010 du 3 août 2010
+c. 2.2),
+que leurs impressions purement individuelles n'apportent aucun élément concret laissant apparaître
+un soupçon de prévention de la part de la présidente,
+que le comportement de
+la seule présidente - en l'occurrence pas établi - ne saurait conduire à la récusation
+de tout un tribunal,
+qu'au surplus, ils ne font aucun grief aux autres présidents du Tribunal d'arrondissement de l'[...],
+que la demande de récusation de A.S.________ dite [...] et B.S.________ doit, par conséquent,
+être rejetée;
+attendu que les frais de la présente décision sont arrêtés à 500 fr. à
+la charge des requérants,
+qu'il n'y a pas lieu d'allouer des dépens, O.________ n'ayant pas participé à la procédure.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation du Tribunal d'arrondissement de l'[...] en corps présentée, le
+21 octobre 2013, par A.S.________ dite [...] et B.S.________ est rejetée.
+II.
+Les frais sont arrêtés à 500 fr. (cinq cents francs) à la charge des requérants,
+solidairement entre eux.
+III.
+Il n'est pas alloué de dépens.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+A.S.________ dite [...] et B.S.________,
+-
+Tribunal d'arrondissement de l'[...], à [...].
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Me Raymond pour O.________.
+Le greffier :
