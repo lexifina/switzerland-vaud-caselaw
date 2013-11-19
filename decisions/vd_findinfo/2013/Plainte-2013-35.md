@@ -1,0 +1,474 @@
+---
+decision_id: "vd_findinfo_Plainte___2013___35"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2013 / 35"
+decided: "2013-11-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4081800"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-676.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-133.md", "switzerland/bund/acts/281.1/art-135.md", "switzerland/bund/acts/281.1/art-140.md", "switzerland/bund/acts/281.1/art-141.md", "switzerland/bund/acts/281.42/art-045.md"]
+---
+
+# VD Findinfo Plainte / 2013 / 35
+
+## Regeste
+
+PLAINTE{LP}, GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, CONDITIONS DES ENCHÈRES | 126 LP, 133 LP, 141 al. 1 LP, 17 LP, 28 LVLP, 45 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.11.2013 Plainte / 2013 / 35
+
+PLAINTE{LP}, GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, CONDITIONS DES ENCHÈRES | 126 LP, 133 LP, 141 al. 1 LP, 17 LP, 28 LVLP, 45 ORFI
+
+TRIBUNAL
+CANTONAL
+FA12.024490-131379
+38
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 novembre 2013
+______________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 126 al. 1, 133 et 141 LP ; 28 al. 4 LVLP ; 45 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+X.________
+,
+à Némiaz-Chamoson, contre la décision rendue le 14 juin 2013, à la suite de l’audience
+du 21 février 2013, par le Président du Tribunal d’arrondissement de l’Est vaudois,
+autorité inférieure de surveillance, rejetant la plainte de la recourante contre le procès-verbal
+de vente aux enchères établi le 6 juin 2012 par l’
+OFFICE
+DES POURSUITES DU DISTRICT DE LA RIVIERA-PAYS-D’ENHAUT
+,
+dans le cadre d’une procédure en réalisation de gage initiée par
+A.________
+SA
+, à Zurich, représentée par
+AE.________
+SA
+, à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 31 juillet 2002, A.________
+SA  (ci-après : A.________) a déposé une réquisition de poursuite en réalisation
+de gage immobilier contre X.________ en paiement d’une créance de 531'044 fr. 30, plus intérêts
+à 4, 75 % dès le 1
+er
+novembre 1998, sous déduction de deux versements de 10'000 fr. chacun, effectués respectivement
+les 12 avril et 28 septembre 1999. La poursuite est fondée sur deux cédules hypothécaires,
+l’une en premier rang, de 435'000 fr., RF n° [...], l’autre en deuxième rang, de
+65'000 fr., RF n° [...]. L’objet du gage est une maison avec jardin sise sur la commune de
+Montreux, à Glion, parcelle n [...], [...], propriété de X.________. Le commandement de
+payer n° 258'608, notifié le 12 octobre 2002 à la poursuivie, n’a pas été
+frappé d’opposition.
+Une procédure d’expropriation de la parcelle précitée a été introduite
+le 14 mai 2001 par Y.________ (YI.________) et les CFF devant la Commission fédérale d’estimation,
+2
+ème
+arrondissement. En 2003, l’Office des poursuites du district de La Riviera-Pays-d’Enhaut
+(ci-après : l’office) a suspendu la procédure de réalisation forcée du
+gage jusqu’à droit connu sur la procédure d’expropriation. A la suite d’une
+plainte d’A.________, le Tribunal fédéral, par arrêt du 10 décembre 2008, a
+renvoyé la cause à la cour de céans pour qu’elle ordonne la reprise de la procédure.
+Le Tribunal fédéral a en effet considéré que le délai de trois mois au plus
+tard à compter de la réception de la réquisition de réaliser de l’art. 133
+LP pour la réalisation des immeubles par l’office était un délai d’ordre et
+qu’en l’espèce aucun cas de suspension légale n’était réalisé.
+La cour de céans a en conséquence ordonné la poursuite de la procédure de réalisation
+et a enjoint l’office de donner suite à une requête de nouvelle expertise déposée
+par X.________.
+Par décision du 10 mars 2011, l’autorité inférieure de surveillance a fixé
+la valeur vénale de l’immeuble à 1'126'850 fr., conformément au rapport de l’expert
+B.________,
+étant précisé que cette estimation faisait abstraction des lignes électriques à
+haute tension qui surplombent la parcelle et de dégradations du bâtiment d’habitation,
+en raison de l’inoccupation des lieux et qu’elle tenait compte du fait qu’une partie
+de la parcelle serait théoriquement constructible.
+Le 24 avril 2012, l’office a adressé à X.________ l’avis de publication de la vente
+aux enchères du gage, fixée au 22 juin 2012 à 10 heures, étant précisé
+que les conditions de vente et l’état des charges seraient déposés dès le 6
+juin 2012. La publication de la vente est intervenue le 27 avril 2012. A la suite de cette publication,
+les productions suivantes ont été enregistrées :
+-
+A.________ a produit le 10 mai 2012 une créance au jour de la vente de 916'157 fr. 80, garantie
+par les deux cédules hypothécaires mentionnées plus haut ;
+-
+Les CFF ont fait valoir le 15 mai 2012 leur droit de passage de la ligne électrique aérienne
+132 kV [...];
+-
+La Commune de Montreux a produit les 15 et 22 mai 2012 une créance de 6'867 francs 20, relative
+à des taxes et à l’impôt foncier.
+Le 31 mai 2012, l’office a communiqué l’état des charges. Ont  été
+inscrites dans celui-ci la créance de la Commune de Montreux, de 6'867 fr. 20, au bénéfice
+d’une hypothèque légale privilégiée (n° 1), la créance d’A.________,
+au bénéfice de gages conventionnels, à concurrence du montant de 916'157 fr. 80 plus 15'000
+francs d’impenses (facture E.________ Sàrl) payés par l’office, soit au total 938'025
+fr. (n° 2), les servitudes passives inscrites au registre foncier (n
+os
+3 à 16), la servitude des CFF mentionnée ci-dessus, non inscrite au registre foncier (art.
+676 al. 3 CC) (n° 19), ainsi que deux restrictions du droit d’aliéner figurant dans les
+annotations du registre foncier (n
+os
+17 et 18).
+Par courrier du 31 mai 2012 à l’office, X.________ s’est opposée à l’état
+des charges. Elle conteste :
+-
+la description qui y est faite de la parcelle ;
+-
+la gestion du gage par l’office ;
+-
+le montant de la créance d’A.________ portée à l’état des charges, à
+concurrence de 11'428 francs ;
+-
+le montant de la créance de la Commune de Montreux ;
+-
+les annotations (restrictions du droit d’aliéner) inscrites les 16 mai et 17 novembre 2003
+;
+-
+la servitude de passage des CFF.
+L’office a répondu à X.________ le 4 juin 2012 en lui adressant trois avis de fixation
+d’un délai de vingt jours pour ouvrir action en contestation des inscriptions de la créance
+de la Commune de Montreux pour 6'867 fr. 20, de la créance d’A.________, à concurrence
+de 11'428 fr. plus intérêts, et de la servitude de passage des CFF. Dans chacun de ces trois
+avis, l’office précisait qu’en l’état, la vente aux enchères publiques
+fixée au vendredi 22 juin 2012 était maintenue. Dans une lettre d’accompagnement du même
+jour, l’office s’est déterminé sur les autres griefs soulevés : il a
+indiqué que les conditions de vente préciseraient la zone dans laquelle est située la
+parcelle comprenant notamment la partie aval du terrain ; que le tableau de répartition des
+frais avait été transmis à X.________ les 22 janvier et 3 février 2010, sans qu’elle
+ne  réagisse à l’époque de sorte qu’il devait être considéré
+comme tacitement approuvé ; que la question de la gestion de l’immeuble par l’office
+avait été définitivement jugée par le Tribunal fédéral ; enfin, que
+les restrictions au droit d’aliéner seraient radiées après le transfert de l’immeuble.
+Des avis de vente aux enchères sont parus dans 24 Heures du 5 juin 2012, dans la Feuille des Avis
+Officiels (FAO) des 5 et 8 juin 2012 ainsi que dans Le Matin des 7 et 9 juin 2012. Les conditions de
+vente, consignées dans un « procès-verbal de vente immobilière aux enchères »
+et déposées le 6 juin 2012 indiquaient l’estimation fiscale, la valeur incendie ainsi
+que l’estimation de l’office selon rapport d’expertise avec la mention :
+« étant
+précisé que cette estimation fait abstraction des lignes électriques à haute tension
+qui surplombent la parcelle et, s’agissant du bâtiment d’habitation des dégradations
+à ce jour en raison de l’inoccupation des lieux, et tient compte qu’une partie de la
+parcelle serait théoriquement constructible ».
+On peut en outre lire dans les conditions de vente les clauses suivantes :
+« 1.
+L’immeuble sera adjugé après
+trois
+criées
+au plus offrant, à condition
+que son offre soit supérieure à
+Fr.
+6'867.20.
+(…)
+2. L’immeuble
+sera vendu avec toutes les
+charges
+(droits de gage, servitudes, charges foncières, etc.) qui le grèvent d’après l’état
+des charges ci-annexé, pour autant qu’elles sont couvertes par le prix d’adjudication.
+Les créances garanties
+par gage qui ne sont pas exigibles
+seront
+déléguées
+à l’acquéreur à concurrence
+du prix d’adjudication. Lorsque la charge réelle est accompagnée d’une
+obligation
+personnelle
+du débiteur, celle-ci est déléguée
+à l’adjudicataire (art. 135 al. 1 LP).
+(…)
+14. Les immeubles
+sont vendus
+sans aucune garantie
+.
+(…)
+18. En complément
+des dispositions qui précèdent, ch. 14, il est précisé que l’immeuble est réalisé
+dans son état actuel et avec les restrictions éventuelles de droit d’ordre public et
+administratif qui régissent la Commune de Montreux.
+19. Selon
+courrier de la Commune de Montreux du 10 mai 2012, la parcelle en question se situe en zone agricole
+pour le secteur amont du chemin de la [...] (où se situe le bâtiment) et en zone intermédiaire
+pour la partie aval dudit chemin, selon la modification du plan des zones du 8 avril 1987. Dans le cadre
+de la révision du Plan général d’affectation (PGA), mise à l’enquête
+publique du 20 avril au 21 mai 2007, actuellement en cours de légalisation, la totalité de
+la parcelle concernée se situerait en zone intermédiaire ».
+2.
+Le 11 juin 2012, X.________ a adressé à l’office une opposition à l’état
+des charges des 24 et 31 mai 2012. Elle conteste dans cette écriture :
+-
+l’état descriptif de la parcelle n° [...], faisant valoir que la partie de la parcelle
+sise en amont du chemin a changé d’affectation et se trouve désormais en zone intermédiaire
+non constructible après l’établissement d’un plan de quartier ;
+-
+l’état des charges concernant les frais avancés par l’office pour la gérance
+du bâtiment, compte tenu de l’état actuel dégradé du bâtiment ;
+-
+l’inscription de la créance de 6'867 fr. 20 de la Commune de Montreux, contestant devoir ces
+montants ;
+-
+l’annotation des restrictions du droit d’aliéner ;
+-
+la servitude de passage des CFF, faisant valoir que ces derniers ne l’ont pas avisée personnellement
+des droits à exproprier, de sorte qu’elle n’a pas pu faire opposition dans le délai
+légal.
+Cette plainte fait l’objet d’une procédure distincte.
+3.
+Le 14 juin 2012, X.________ a contesté le
+procès-verbal de vente aux enchères du 6 juin 2012, soit les conditions de vente déposées
+à cette date. Elle se plaint en substance :
+-
+de ce que l’immeuble puisse être offert après trois criées au plus offrant au prix
+minimum de 6'867 fr. 20, correspondant à la créance produite par la Commune de Montreux, alors
+que cette créance est contestée ;
+-
+de la désignation de la parcelle en zone champs, pré-pâturage alors que la partie sise
+en amont du chemin se trouve en zone intermédiaire constructible ;
+-
+de ce que l’estimation de la parcelle ne tienne par compte de la valeur exacte de l’objet,
+soit avec des nuisances résultant de la présence de lignes électriques qui le rendent
+impropre à l’habitation.
+Elle demandait le report du délai de réalisation du gage immobilier.
+L’immeuble a été vendu le 22 juin 2012 à A.________ pour le prix de 12'000 francs.
+Le procès-verbal de la vente aux enchères du même jour indique notamment ce qui suit :
+« Il
+est donné lecture de l’état descriptif de l’immeuble, de l’état des
+charges ainsi que des conditions de vente. Il est relevé que ces actes font règle malgré
+3 actions en contestation d’un droit inscrit à l’état des charges pendantes qui
+ne sont pas de nature à influer sur le prix d’adjudication et de nature à léser
+des intérêts légitimes ; l’Office attendra le résultat de ces actions
+avant de procéder à la distribution du produit de la réalisation. Ces pièces ont
+été mises à la disposition des intéressés et du public, lesquels pouvaient les
+consulter, dès le 6 juin 2012.
+Le préposé
+signale que la décision de la Commission fédérale d’estimation n’a pas encore
+été communiquée aux parties. Il relève aussi que l’annotation figurant sous
+n° 18 de l’état des charges a été radiée par réquisition du
+12 juin 2012 ».
+L’office s’est déterminé le 10 septembre 2012 sur la plainte, concluant à
+son rejet.
+4.
+Par décision rendue à la suite de l’audience du 21 février 2013, notifiée à
+la plaignante le 17 juin 2013, le Président du Tribunal d’arrondissement de l’Est vaudois,
+statuant en sa qualité d’autorité inférieure de surveillance, a rejeté la plainte
+et rendu sa décision sans frais.
+Il a retenu en bref que la contestation relative au montant de la créance de la Commune de Montreux
+avait été transmise à l’autorité compétente, que les conditions de vente
+étaient conformes aux art. 126 LP et 105 ORFI s’agissant de la mise à prix miminum, que
+les conditions de vente et les publications étaient au surplus conformes aux art. 138 et 140 LP
+et aux art. 29 et 102 ORFI et que la question de l’avancement de la procédure de réalisation
+forcée par rapport à la procédure d’expropriation avait été définitivement
+tranchée.
+5.
+La plaignante a recouru par acte du 27 juin 2013
+auquel elle a joint des pièces sous CD-Rom. Elle conclut à ce qu’il plaise à la
+cour de céans « de retirer la vente forcée de ma propriété :
+1.1
+tant que la valeur vénale du gage immobilier ne sera pas clairement définie par apport à
+l’irrécusable dégradation et déprédation du bâtiment dont l’Office
+des poursuites à la garde,
+1.2
+tant que le bâtiment ne soit remis en l’état initial, tel qu’il était lors
+de la remise des clefs à l’Office des poursuites,
+2.1
+tant que la valeur vénale du gage immobilier ne sera pas clairement définie par apport à
+l’extrême pollution électro-magnétique résultant de l’augmentation drastique
+du potentiel électrique survolant le lieudit à utilisation sensible LUS de la propriété
+qui fut réalisée ultérieurement à l’emprunt hypothécaire.
+2.2
+tant qu’un ingénieur (en électricité) neutre, accrédité et d’une
+probité absolue n’aura pas déterminer et ce, dans un esprit de saine neutralité,
+si le bâtiment existant est du point de vue de la santé oui ou non habitable et doit être
+ou non considéré comme paralysant la réalisation de l’immeuble. Ces prérogatives
+ont été sollicitées par l’expert immobilier Jean-Marc Légeret pour l’édification
+de son rapport.
+3.1
+tant que le montant de ma dette hypothécaire actualisé en tenant compte de mes revendications
+ainsi que les débours pour l’entretien du bâtiment et autres débours réglés
+à ce jour par A.________ SA ne m’auront pas été officiellement transmis de manière
+détaillée et datée avec preuves à l’appui, par l’Office des poursuites ».
+Dans son écriture, la recourante réclame une copie du commandement de payer qui lui a été
+notifié, sans opposition le 12 octobre 2012 (recte : 12 octobre 2002) ; elle invoque la
+péremption du droit de réaliser le gage, puis une procédure de conciliation qui justifierait
+un report de la vente ; elle conteste l’estimation du gage ; elle invoque les nuisances
+électromagnétiques qui affectent le gage et la dégradation du bâtiment sis sur
+la parcelle en cause, exigeant une remise en état avant la vente aux enchères ; elle demande
+que soient établies les causes de cette dégradation et que les responsables soient recherchés ;
+elle critique les frais engagés par l’office pour l’entretien du bâtiment et conteste
+également les frais déboursés par A.________ pour la gérance de l’immeuble ;
+elle conteste la créance de la Commune de Montreux et l’inscription de la servitude en faveur
+des CFF.
+L’office s’est déterminé
+le 12 juillet 2013, en se référant à sa détermination de première instance et
+en concluant au rejet du recours.
+Le 15 juillet 2013, la recourante a adressé à la cour de céans une copie de son écriture
+du même jour aux CFF ainsi que diverses écritures adressées au Tribunal administratif
+fédéral.
+La créancière A.________ s’est déterminée sur le recours dans une écriture
+du 25 juillet 2013, concluant avec suite de frais et dépens au rejet du recours.
+Le 12 août 2013, la recourante a produit une lettre des CFF indiquant qu’une rencontre des
+expropriants devrait avoir lieu en septembre 2013 pour discuter de l’indemnité qui serait
+due dans le cadre de la procédure d’expropriation.
+Le 30 août 2013, la recourante a encore déposé des copies d’un acte qu’elle
+adressait aux CFF.
+En droit :
+I.
+Le recours du 27 juin 2013 a été déposé dans le délai des art 18 LP (loi fédérale
+sur la poursuite pour dettes et la faillite du 11 avril 1889, RS 281.1) et 28 al. 1 LVLP (loi d'application
+dans le canton de Vaud de la loi fédérale sur la poursuite pour dettes et la faillite du 18
+mai 1955, RSV 280.05). Il est conforme aux réquisits de l’art. 28 al. 3 LVLP.
+Le recours n’est recevable que sur les points qui faisaient l’objet de la plainte du 14 juin
+2012 et qui sont repris dans le recours. Quand bien même l’art. 28 al. 4 LVLP l’autorise
+à alléguer des faits nouveaux et à produire des pièces nouvelles, la recourante ne
+peut pas, dans le cadre du recours, introduire des conclusions nouvelles. En l’espèce, la
+plainte tendait à une correction des conditions de la vente sur les points contestés. En outre,
+dans sa plainte du 14 juin 2012, la recourante demandait le report de la vente.
+Si les pièces nouvelles – comme les
+faits nouveaux – sont recevables en deuxième instance, se pose en revanche la question de
+la recevabilité des écritures et des pièces déposées par la recourante postérieurement
+au délai pour recourir. Selon la jurisprudence du Tribunal fédéral, dans la procédure
+de plainte, les moyens doivent être articulés en une seule fois, par acte déposé
+dans les dix jours dès réception du prononcé entrepris. Une écriture complémentaire
+déposée après le délai de recours ne peut plus être prise en considération
+(ATF 126 III 30, JT 2000 II 11), sauf si elle constitue une détermination sur l’écriture
+d’une partie adverse, cela en vertu du droit de réplique garanti aux parties que le Tribunal
+fédéral déduit de l’art. 29 al. 2 Cst (Constitution fédérale de la
+Confédération suisse du 18 avril 1999, RS 101 (TF 5A_791/2010).
+En l’espèce, les pièces adressées le 15 juillet 2013 ne sauraient être considérées
+comme une détermination sur l’écriture du 12 juillet 2013 de l’office, dès
+lors que celui-ci se réfère uniquement à sa détermination de première instance.
+Quant aux pièces produites les 12 et 30 août 2013, soit après le dépôt de l’écriture
+d’A.________, elles seront également écartées car elles ne se rapportent pas à
+des conclusions recevables dès lors qu’elles ont trait à la procédure d’expropriation.
+II.
+Les conditions de vente et l’état des charges sont déposés en même temps. L’état
+des charges constitue une annexe des conditions de vente (art. 45 al. 2 ORFI, ordonnance du Tribunal
+fédéral du 23 avril 1920 sur la réalisation forcée des immeubles, RS 281.42 ;
+Piotet, Commentaire. Romand, n. 14 ad art. 140 LP). Les conditions de vente doivent indiquer le nom du
+débiteur, celui du créancier à la requête duquel la réalisation est opérée,
+le lieu et la date de la vente, la désignation de l’immeuble et de ses accessoires (art. 45
+al. 1 ORFI) et les autres indications mentionnées sous lettres a à g de cette disposition.
+En l’espèce, force est de constater que les conditions de vente du 6 juin 2012 respectent
+ces exigences.
+En ce qui concerne en particulier la désignation de l’immeuble, les conditions de vente reproduisent
+les indications qui figurent au Registre foncier et précisent, sous ch. 19, en se référant
+à une lettre du Service de l’urbanisme de la Commune de Montreux du 10 mai 2012, la désignation
+complète des zones dans lesquelles est comprise la parcelle. Les griefs de la recourante quant à
+une désignation inexacte de la parcelle dans les conditions de vente sont donc mal fondés.
+En ce qui concerne l’estimation du gage, le grief est également mal fondé dès lors
+que la question a été définitivement tranchée dans le cadre de précédentes
+procédures de plainte. La recourante ne peut plus remettre en question ce montant.
+III.
+La recourante critique le chiffre 1 des conditions de vente relatif à la vente de la parcelle au
+plus offrant après trois criées, à condition que son offre soit supérieure à
+6'867 fr. 20, montant qui correspond à la créance – contestée – de la Commune
+de Montreux. Cette créance – pour autant qu’elle soit définitivement établie
+– bénéficie d’un gage privilégié et passe donc avant les gages conventionnels
+d’ A.________. Le chiffre 1 des conditions de vente est dès lors conforme à l’art.
+126 al. 1 LP.
+Plus largement, la recourante conteste que la vente puisse avoir lieu avant que la contestation relative
+à l’existence – respectivement à la quotité de cette créance –
+ait été définitivement tranchée.
+En vertu de l’art. 141 al. 1 LP, lorsqu’un droit inscrit à l’état des charges
+est litigieux, il est sursis aux enchères jusqu’au règlement du litige si l’on
+peut admettre que celui-ci influe sur le montant du prix d’adjudication ou que les enchères
+lèseraient d’autres intérêts légitimes, si elles étaient pratiquées
+avant que le litige ne soit réglé. Il doit ainsi toujours y avoir sursis lorsque l’étendue
+ou l’existence d’une charge dépréciative de l’immeuble est litigieuse, la
+valeur vénale de l’immeuble pouvant alors s’en ressentir. Il n’y a d’exception
+que si la contestation a pour conséquence de n’influer que de façon minime sur le prix
+(Piotet, op. cit., n. 2 ad art. 141 LP et les références citées). Selon Gilliéron
+(Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, nn. 17 et 18 ad
+art. 141 LP), les enchères doivent être renvoyées, primo si le résultat du procès
+en épuration de l’état des charges peut influer sur le calcul du prix d’adjudication
+minimum ou déterminer l’exercice du droit de requérir la double mise à prix et,
+secundo, si l’adjudication, prononcée avant  que la question litigieuse ne soit définitivement
+tranchée, est de nature à léser d’autres intérêts légitimes, notamment
+des intérêts protégés par une disposition édictée dans l’intérêt
+public ou dans l’intérêt de personnes qui ne sont pas parties à la procédure.
+L’office a choisi de procéder à la vente aux enchères avant droit connu sur la contestation
+relative à la créance de la Commune de Montreux. Cette décision n’est pas critiquable
+au regard de la disposition précitée. La créance contestée porte sur un montant dérisoire
+par rapport à l’estimation de l’immeuble. Dès lors, quelle que soit son issue,
+le litige en cours n’influera que de façon très minime sur le prix d’adjudication,
+car dans l’hypothèse où la créance serait écartée, la vente de l’immeuble
+pourrait avoir lieu à tout prix, savoir même à un prix inférieur à celui de
+la créance privilégiée de la Commune de Montreux. La recourante n’a dès lors
+aucunement été lésée par la décision de l’office.
+IV.
+La recourante reproche à l’office d’avoir procédé à la vente sans attendre
+la fin de la procédure d’expropriation. Elle invoque des pourparlers transactionnels dans
+le cadre de cette procédure. Cette question a toutefois été définitivement tranchée
+par le Tribunal fédéral qui a dit que la procédure d’exécution forcée
+devait se poursuivre nonobstant la procédure d’expropriation.
+Quant à une prétendue péremption du droit de réaliser, il suffit de relever que le
+délai de l’art. 133 al. 1 LP est une prescription d’ordre et le retard de l’office
+ne forclot pas le créancier (Piotet, op. cit., n. 2 ad art. 133 LP).
+V.
+Les autres griefs contenus
+dans le recours du 27 juin 2012 sont exorbitants à la plainte du 14 juin 2012. Ils sont traités
+dans le cadre du recours déposé contre la décision de l’autorité de première
+instance relative à la plainte contre l’état des charges.
+VI.
+En définitive, le recours doit être
+rejeté et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP ; Ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite, RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+19 novembre 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mme X.________,
+‑
+Me Cornelia Seeger Tappy, avocate (pour A.________ SA),
+-
+M. le Préposé à l’Office des poursuites du district de La Riviera-Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
