@@ -1,0 +1,210 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___34"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 34"
+decided: "2013-11-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4173260"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-064.md", "switzerland/bund/acts/312.0/art-065.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-174.md", "switzerland/bund/acts/312.0/art-183.md", "switzerland/bund/acts/312.0/art-393.md"]
+---
+
+# VD Findinfo Décision / 2014 / 34
+
+## Regeste
+
+EXPERTISE PSYCHIATRIQUE, RÉCUSATION, DÉCISION D'IRRECEVABILITÉ | 393 al. 1 let. b CPP (CH), 428 al. 1 CPP (CH), 56 CPP (CH), 59 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.11.2013 Décision / 2014 / 34
+
+EXPERTISE PSYCHIATRIQUE, RÉCUSATION, DÉCISION D'IRRECEVABILITÉ | 393 al. 1 let. b CPP (CH), 428 al. 1 CPP (CH), 56 CPP (CH), 59 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+783
+PE12.002120-JLA
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 27 novembre 2013
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              MM.
+Abrecht et Maillard
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+56ss, 61 let. d, 65, 184, 393 al. 1 let. b CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 7 novembre 2013 par
+P.________
+contre le prononcé rendu le 29 octobre 2013 par le Président du Tribunal d’arrondissement
+de La Côte dans la cause n°
+PE12.002120-JLA
+.
+Elle considère :
+En
+fait :
+A.
+Par acte du 9 juillet 2013, la Procureure de l’arrondissement
+de La Côte a engagé l’accusation contre P.________ devant le Tribunal de police de l’arrondissement
+de La Côte pour tentative de contrainte au sens de l’art. 181 CP (Code pénal suisse;
+RS 311.0), au préjudice de [...].
+B.
+Par prononcé du 29 octobre 2013, le Tribunal
+de police de l’arrondissement de La Côte a ordonné une expertise psychiatrique de la
+prévenue P.________ (I), a désigné en qualité d’expert l’Hôpital
+psychiatrique de Prangins, à charge pour lui, tout en conservant la responsabilité de l’expertise,
+de déléguer toute ou partie de sa mission à l’un de ses subordonnés (II), a
+imparti à l’expert un délai au 31 janvier 2014 pour déposer son rapport en 3 exemplaires,
+accompagné de sa note d’honoraires (III), a invité l’expert à répondre
+à une liste de questions précises (IV), a dit que copie de l’acte d’accusation
+et du casier judiciaire seraient remis à l’expert (V) et a imparti aux parties un délai
+de 10 jours pour faire valoir, cas échéant, leurs motifs de récusation de l’expert
+(IV).
+En substance, le Tribunal a considéré qu’il y avait un doute quant à la responsabilité
+de la prévenue dans la commission de l’infraction qui lui était reprochée.
+C.
+Par acte du 7 novembre 2013, P.________ a recouru contre ce prononcé. Elle conteste le principe
+d’une expertise psychiatrique et voudrait une expertise neurologique. P.________ se plaint également
+des questions posées à l’expert, qu’elle considère totalement inadaptées
+et déplacées. Enfin, elle requiert la récusation de l’expert pressenti.
+En
+droit :
+1.
+a)
+Aux termes de l’art. 393 al. 1 let. b CPP,
+le recours est recevable contre les ordonnances, les décisions et les actes de procédure des
+tribunaux de première instance, « sauf contre ceux de la direction de la procédure »
+(en allemand : « ausgenommen sind verfahrensleitende Entscheide » ; en italien :
+« sono eccettuate le disposizioni ordinatorie »). Cette disposition doit être lue
+en corrélation avec l’art. 65 al. 1 CPP, aux termes duquel « les ordonnances rendues
+par les tribunaux » (en allemand : « Verfahrensleitende Anordnungen der Gerichte
+» ; en italien : « le disposizioni ordinatorie del giudice ») ne peuvent
+être attaquées qu’avec la décision finale (ATF138 IV 193 c. 4.3.1)
+.
+b) Sont ainsi exclues
+du recours selon les art. 393 ss CPP les décisions ou ordonnances prises en cours de procédure
+– par opposition aux prononcés clôturant la procédure (cf. art. 81 CPP;  Stephenson/
+Thiriet, in: Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische Strafprozessordnung,
+Jugendstrafprozessordnung, Bâle 2011, n. 12 ad art. 393 CPP ; Rémy, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 11 ad art.
+393 CPP ) – rendues avant la décision finale par un tribunal de première instance
+ou par son président lorsque celui-ci est compétent en qualité d’autorité investie
+de la direction de la procédure au sens de l’art. 61 let. c CPP (Jent, in: Niggli/Heer/Wiprächtiger
+(éd.), op. cit., n. 1 ad art. 65 CPP).
+Sous réserve des cas où la loi ouvre expressément la voie du recours – ce qui est
+notamment le cas pour les décisions infligeant une amende d’ordre (art. 64 al. 2 CPP) et les
+décisions sur l’admissibilité du droit de refuser de témoigner (art. 174 al. 2 CPP)
+(Jent, op. cit., n. 3 ad art. 65 CPP) –, ces décisions ou ordonnances ne sont donc pas susceptibles
+de recours selon les art. 393 ss CPP (Jent, op. cit., n. 4 ad art. 65 CPP ; Moreillon/Parein-Reymond,
+Code de procédure pénale, Petit commentaire, Bâle 2013, n. 18 ad art. 393 CPP ; CREP
+17 mai 2011/202 ; CREP 4 octobre 2011/403 ; JT 2011 III 205), à moins qu’elles
+ne soient susceptibles de causer un préjudice irréparable (Moreillon/Parein-Reymond, op. cit.,
+n. 18 ad art. 393 CPP et les références citées).
+c) En l’espèce, le prononcé attaqué a été rendu par le Tribunal de première
+instance avant la décision finale et n’est à l’évidence pas susceptible de
+causer un préjudice irréparable. Il n’est par conséquent pas susceptible de recours
+et le recours doit être déclaré irrecevable sur ce point.
+2.
+a)
+P.________ requiert ensuite la récusation
+du Docteur [...], directeur de l’hôpital psychiatrique de Prangins, le Tribunal de police
+ayant désigné l’hôpital de Prangins comme expert, à charge pour lui, tout en
+conservant la responsabilité de l’expertise, de déléguer tout ou partie de sa mission
+à l’un de ses subordonnés.
+b)
+La Chambre des recours pénale est compétente pour statuer définitivement sur la demande
+de récusation présentée par la recourante (TF 1B_488/2011 du 2 décembre 2011;
+CREP 21 février 2012/57 c. 1).
+c)
+L'art. 56 CPP – applicable aux experts par renvoi de l'art. 183 al. 3 CPP (TF 1B_243/2012 du 9
+mars 2012, in SJ 2012 I 485 s.) – énumère divers motifs de récusation aux let. a
+à e, la let. f imposant la récusation "lorsque d'autres motifs, notamment un rapport d'amitié
+étroit ou d'inimitié avec une partie ou son conseil, sont de nature à le rendre suspect
+de prévention". La let. f de l'art. 56 CPP a la portée d'une clause générale
+recouvrant tous les motifs de récusation non expressément prévus aux lettres précédentes
+(TF 6B_621/2011 du 19 décembre 2011 c. 2.2; TF 1B_488/2011 du 2 décembre 2011 c.
+3.1; TF 1B_415/2011 du 25 octobre 2011 c. 2.1; TF 1B_290/2011 du 11 août 2011 c. 2.1;
+TF 1B_131/ 2011 du 2 mai 2011 c. 3.1).
+L'art. 56 CPP concrétise
+les garanties déduites de l'art. 30 al. 1 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999; RS 101). Certes, dès lors que l'expert ne fait pas partie du tribunal,
+sa récusation ne s'examine pas au regard de l'art. 30 al. 1 Cst., mais sous l'angle de l'art. 29
+al. 1 Cst. garantissant l'équité du procès (ATF 125 II 541 c. 4a). Cette disposition assure
+toutefois au justiciable une protection équivalente à celle de l'art. 30 al. 1 Cst. s'agissant
+des exigences d'impartialité et d'indépendance requises d'un expert (ATF 127 I 196 c. 2b;
+TF 1B_488/2011 du 2 décembre 2011 c. 3.1). Les parties à une procédure ont donc le droit
+d'exiger la récusation d'un expert dont la situation ou le comportement est de nature à faire
+naître un doute sur son impartialité. Cette garantie tend notamment à éviter que
+des circonstances extérieures à l'affaire puissent influencer le jugement en faveur ou au détriment
+d'une partie; elle n'impose pas la récusation seulement lorsqu'une prévention effective est
+établie, car une disposition interne de la part de l’expert ne peut guère être prouvée.
+Il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter une activité
+partiale. Cependant, seules les circonstances constatées objectivement doivent être prises
+en compte, les impressions purement individuelles n'étant pas décisives (ATF 137 I 227
+c. 2.1 et les références citées; ATF 136 III 605 c. 3.2.1; ATF 134 I 20 c. 4.2; ATF 133
+I 1 c. 5.2; ATF 128 V 82 c. 2a; ATF 127 I 196 c. 2b; TF 1B_488/2011 du 2 décembre 2011 c. 3.1).
+d) En l’espèce, la demande de récusation n’est pas motivée P.________ n’invoque
+aucun motif de récusation à l’appui de sa requête et on ne voit rien dans le dossier
+qui ferait redouter une activité partiale du Docteur [...].
+3.
+En définitive, le recours contre le prononcé
+ordonnant l’expertise psychiatrique de P.________ doit être déclaré irrecevable,
+tandis que la demande de récusation présentée par cette dernière à l’encontre
+de l’expert [...] doit être rejetée.
+Les frais du présent
+arrêt, par 550 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]),
+doivent être mis à la charge de P.________ (art. 428 al. 1 et 59 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+La demande de récusation présentée par P.________ le 7 novembre 2013 est rejetée.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont mis à la charge de P.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme P.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Me Daniel Pache, avocat (pour [...]),
+-
+Mme la Procureure du Ministère public de
+l’arrondissement de La Côte,
+-
+M. le Président du Tribunal de l’arrondissement
+de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
