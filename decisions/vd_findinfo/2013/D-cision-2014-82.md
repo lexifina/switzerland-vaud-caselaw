@@ -1,0 +1,197 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___82"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 82"
+decided: "2013-11-28"
+published: "2013-11-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4261931"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-410.md", "switzerland/bund/acts/312.0/art-411.md", "switzerland/bund/acts/312.0/art-412.md", "switzerland/bund/acts/312.0/art-451.md"]
+---
+
+# VD Findinfo Décision / 2014 / 82
+
+## Regeste
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉVISION{DÉCISION}, DÉCISION D'IRRECEVABILITÉ | 410 al. 1 let. a CPP (CH), 412 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 28.11.2013 Décision / 2014 / 82
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉVISION{DÉCISION}, DÉCISION D'IRRECEVABILITÉ | 410 al. 1 let. a CPP (CH), 412 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+317
+PE06.002622-vva
+COUR
+D’APPEL PENALE
+_________________________________
+Séance
+du 28 novembre 2013
+__________________
+Présidence
+de               M.
+Winzap,
+président
+Juges
+:              MM.
+Colelough et Pellet
+Greffière
+:              Mme
+Saghbini
+*****
+Parties
+à la présente cause :
+C.________
+,
+prévenu, à Renens, requérant,
+et
+Ministère
+public
+, représenté par le Procureur
+de l’arrondissement de Lausanne, intimé.
+La Cour d’appel pénale prend séance à huis clos pour statuer sur la demande de révision
+formée par C.________ contre le jugement rendu le 4 décembre 2006 par le Tribunal de police
+de l’arrondissement de Lausanne dans la cause le concernant.
+Elle considère :
+En fait :
+A.
+Par jugement du 4 décembre 2006, le Tribunal de police de l’arrondissement de Lausanne a condamné
+C.________, pour lésions corporelles simples qualifiées et voies de fait, à la peine d’un
+mois d’emprisonnement, avec sursis pendant deux ans (I), a ordonné la confiscation et la destruction
+du bâton en métal recouvert de plastique vert et du tuteur en bambou séquestrés (II),
+a ordonné le maintien au dossier, à titre de pièces à conviction, des deux cassettes
+VHS et des deux DVD des audition d’ [...] et d’ [...] inventoriés (III) et a mis l’entier
+des frais de la cause, par 2'780 fr., à la charge du condamné.
+Les faits retenus à l’appui de ce jugement
+sont les suivants. Le 1
+er
+juillet 2005, à son domicile à Renens, C.________ a mis les mains sur le cou de son fils [...]
+sans serrer parce que son frère, [...], était arrivé au même moment. Le 13 janvier
+2006, le prévenu a frappé son fils [...] sur le corps au moyen d’un bâton et à
+coups de poing. Le constat médical effectué le soir même par le Centre hospitalier universitaire
+vaudois (CHUV) rapporte qu’ [...] a souffert de dermabrasions et contusions à la jambe gauche,
+à la main gauche et sur le côté gauche de la nuque. C.________ a admis avoir frappé
+son fils sur les fesses, mais à deux reprises uniquement.
+B.
+Par courrier du 20 novembre 2013, C.________ a
+demandé à la Cour d’appel pénale du Tribunal cantonal « d’annuler
+le jugement » du 4 décembre 2006. A l’appui de sa requête, l’intéressé
+a produit différentes pièces. Il fait valoir que son ex-femme, qui avait porté plainte
+contre lui au nom de leurs fils communs, s’était présentée aux autorités sous
+deux fausses identités. Il soutient que le jugement précité se base sur un rapport médical
+fait par le CHUV qui ne figure pas au dossier. Il rapporte encore avoir découvert dans le courant
+de l’année 2013 que son ex-épouse avait été victime d’un viol en 2002
+et précise que le Service de protection de la jeunesse (SPJ) lui avait retiré ses enfants « parce
+qu’ils savaient le crime commis contre leur mère ».
+En droit
+:
+1.
+1.1
+La demande de révision présentée
+par C.________ est postérieure à l'entrée en vigueur du Code de procédure pénale
+suisse du 5 octobre 2007 (CPP ; RS 312.0). Partant, les règles de compétence et de procédure
+des art. 410 ss CPP sont applicables (Pfister-Liechti, in : Kuhn/Jeanneret [éd.], Commentaire
+romand, Code de procédure pénale suisse, 2011, n. 9 ad art. 451 CPP ; TF 6B_41/2012 du
+28 juin 2012 c. 1.1). Les motifs de révision pertinents sont en revanche ceux prévus
+par le droit applicable au moment où la décision, dont la révision est demandée,
+a été rendue ; cette réserve est toutefois sans portée s'agissant d'une révision
+en faveur du condamné, le motif de révision prévu à l'art. 410 al. 1 let. a CPP correspondant
+à celui de l'art. 385 du Code pénal suisse du 21 décembre 1937 ([CP ; RS 311.0] ;
+TF 6B_41/2012 du 12 septembre 2012 c. 1.1 et les références citées ; TF 6B_310/2011
+du 20 juin 2011 c. 1.1).
+1.2
+Aux termes l'art. 410 al. 1 let. a CPP, toute
+personne lésée par un jugement entré en force, une ordonnance pénale, une décision
+judiciaire ultérieure ou une décision rendue dans une procédure indépendante en matière
+de mesures, peut en demander la révision, s’il existe des faits ou des moyens de preuves qui
+étaient inconnus de l’autorité inférieure et qui sont de nature à motiver l’acquittement
+ou une condamnation sensiblement moins sévère ou plus sévère du condamné ou
+encore la condamnation de la personne acquittée. La qualité de partie (art. 382 al. 1
+CPP) pour une demande de révision est reconnue au prévenu, ainsi qu’à toute personne
+qui a un intérêt juridiquement protégé à l’annulation ou la modification
+de la décision (Rémy in : Kuhn/Jeanneret [éd.], op. cit., n. 7 ad art. 410 CPP ;
+Fingerhuth in : Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozessordnung,
+2010, n. 47 ad. art. 410 CPP).
+Des faits ou moyens de preuve sont nouveaux lorsqu'ils n'ont pas été soumis, sous quelque forme
+que ce soit, à l'appréciation du tribunal, soit parce qu'ils ne ressortaient pas du dossier
+ou des débats, soit parce qu'ils avaient été négligés par le premier juge. Ils
+sont sérieux lorsqu'ils sont propres à ébranler les constatations de fait sur lesquelles
+la condamnation est fondée, de manière que l'état de fait ainsi modifié rende vraisemblable
+une condamnation sensiblement moins sévère ou permette de conclure à l'inexistence de
+l'une des infractions retenues, que cette libération entraîne ou non une réduction de
+la peine (TF 6B_310/2011 du 20 juin 2011 c. 1.2 ; ATF 130 IV 72 c. 1; 116 IV 353).
+Pour être valides en la forme, les demandes de révision doivent être motivées et
+adressées par écrit à la juridiction d’appel, les motifs de révision devant
+être exposés et justifiés dans la demande (art. 411 al. 1 CPP ; Piquerez, Traité
+de procédure pénale suisse, 3
+e
+édition, Schulthess § 2011, n. 2092, p. 679 et Niggli et Wiprächtiger, Basler Kommentar,
+Schweizerische Strafprozessordnung Jungenstrafprozessordnung, Bâle 2011, n. 6 ad art. 411 CPP, p.
+2731). L’art. 412 al. 2 CPP prescrit que la juridiction d'appel n'entre pas en matière
+sur la demande de révision si celle-ci est manifestement irrecevable ou non motivée ou si une
+demande de révision invoquant les mêmes motifs a déjà été rejetée
+par le passé. La procédure de non-entrée en matière selon cette disposition est en
+principe réservée à des vices de nature formelle ; il est toutefois également
+possible de prononcer une décision de non-entrée en matière lorsque les motifs de révision
+invoqués apparaissent d'emblée non vraisemblables ou mal fondés (TF 6B_293/2013 du
+19 juillet 2013 c. 3.3; TF 6B_415/2012 du 14 décembre 2012 c. 1.1 et les références
+citées).
+1.3
+En l’espèce, les faits invoqués
+par le requérant pour fonder sa demande de révision n’ont aucun rapport avec sa condamnation
+pénale, de sorte qu’on ne saurait les considérer propres à rendre vraisemblable
+une telle requête. A cet égard, les faits incriminés dans le jugement du 4 décembre
+2006 concernent des violences commises par C.________ à l’encontre de ses deux fils. On ne
+voit donc pas en quoi le viol allégué de son ex-femme, laquelle se serait, selon les dires
+de l’intéressé, présenté aux autorités sous deux fausses identités,
+est pertinent dans ce cadre. En outre, c’est à tort qu’il prétend que le rapport
+médical du CHUV ne serait pas au dossier (cf. P. 7/6). Force est ainsi de constater que le requérant
+n’invoque aucun fait sérieux susceptible d’aboutir à un autre constat que celui
+des premiers juges, ses allégations étant dans l’ensemble informes.
+2.
+Il y a dès lors lieu de refuser d’entrer en matière au sens de l’art. 412 al. 2
+CPP, la demande de révision de C.________ étant irrecevable. La présente décision
+doit être rendue sans frais.
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+en
+application des art. 410 al. 1 let. a et 412 al. 2 CPP,
+statuant
+à huis clos ,
+prononce
+:
+I.
+La demande de révision est irrecevable.
+II.
+La présente décision est rendue sans frais.
+III.
+La présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+C.________,
+-
+Ministère public central ;
+et communiquée à :
+-
+M. le Président du Tribunal d’arrondissement de Lausanne,
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
