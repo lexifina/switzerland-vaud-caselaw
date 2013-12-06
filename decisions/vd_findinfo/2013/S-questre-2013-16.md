@@ -1,0 +1,392 @@
+---
+decision_id: "vd_findinfo_S_questre___2013___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2013 / 16"
+decided: "2013-12-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20131125100805915_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-568.md", "switzerland/bund/acts/220/art-574.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Séquestre / 2013 / 16
+
+## Regeste
+
+CAS DE SÉQUESTRE, MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, SOCIÉTÉ EN NOM COLLECTIF, ASSOCIÉ, DISSOLUTION DE LA SOCIÉTÉ | 568 al. 3 CO, 271 al. 1 ch. 6 LP, 80 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.12.2013 Séquestre / 2013 / 16
+
+CAS DE SÉQUESTRE, MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, SOCIÉTÉ EN NOM COLLECTIF, ASSOCIÉ, DISSOLUTION DE LA SOCIÉTÉ | 568 al. 3 CO, 271 al. 1 ch. 6 LP, 80 LP
+
+TRIBUNAL
+CANTONAL
+KE13.001432-131623
+487
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 décembre 2013
+_____________________
+Présidence
+de               Mme
+Carlsson
+,
+juge présidant
+Juges
+:              Mme
+Byrde et M. Maillard
+Greffier
+:
+Mme              Joye
+*****
+Art.
+271 al. 1 ch. 6 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+A.G.________ et B.G.________
+,
+à Commugny, contre le prononcé rendu le 21 mars 2013, à la suite de l’audience
+du
+8 février 2013, par le Juge de paix
+du district de Nyon, dans la cause opposant les recourants à
+V.________
+,
+à Genève,
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+19 décembre 2012, invoquant le cas de séquestre de l'art. 271 al. 1 ch. 6 LP (loi sur la poursuite
+pour dettes et la faillite du 11 avril 1889; RS 281.1), V.________ a requis du Juge de Paix du district
+de Nyon qu’il ordonne le séquestre de la part de copropriété, appartenant à
+A.G.________, du bien-fonds n° [...] sis sur la commune de Commugny, à concurrence de 12'657
+fr. 90 avec intérêt à 5 % l’an dès le 28 février 2010, de 18'000 fr. avec
+intérêt à 5 % l’an dès le 28 février 2010 et de 1'700 fr., sans intérêt.
+A l'appui de sa requête, V.________ a produit les pièces suivantes :
+-
+copie d’un extrait du registre du commerce genevois, daté du 19 octobre 2012, relative à
+la société en nom collectif S.________, inscrite au registre depuis le 12 décembre 2007,
+d’où il ressort que A.G.________ est l’un des associés de la société
+;
+-               copie d’un jugement
+rendu le 14 avril 2011 par le Tribunal des prud’hommes de la République et du canton de Genève,
+condamnant la société S.________ à payer à V.________ la somme brute de 12'657
+fr. 90, plus intérêts au taux de 5 % l’an dès le 28 février 2010, et la somme
+nette de 18'000 fr., plus intérêts au taux de 5 % l’an des le 28 février 2010 ;
+-
+copie d’un arrêt
+du 15 mai 2012 de la Cour de justice de la République et du canton de Genève, Chambre des prud’hommes,
+confirmant le jugement du
+14 avril 2011
+susmentionné ;
+-
+copie d’un commandement
+de payer notifié le 16 août 2012 à la société S.________, à la réquisition
+de V.________, dans la poursuite n° 12'196'894 de l’Office des poursuites de Genève,
+portant sur les sommes de 12'657 fr. 90, plus intérêts à 5 % l’an dès le 28
+février 2010, et de 18'000 fr. plus intérêt à 5 % l’an dès le 28 février
+2010 et indiquant comme cause de l’obligation : « Arrêt de la Chambre des prud’hommes
+de la Cour de justice CAPH/106/2012 du 15.05.12 rendu dans la cause C/16661/2010 » ; le
+comman-dement de payer porte le sceau « pas d’opposition » ;
+-
+copie d’une commination
+de faillite notifiée le 28 septembre 2012 à la société S.________, à la réquisition
+de V.________, dans le cadre de la poursuite n° 12'196'894 de l’Office des poursuites de Genève;
+-
+copie d’un jugement
+rendu le 13 décembre 2012 par lequel le Tribunal de première instance de la République
+et du canton de Genève a déclaré sans objet la requête de faillite déposée
+le 24 octobre 2012 par V.________ à l’encontre de la société S.________, la faillite
+de cette dernière ayant déjà été prononcée le 12 novembre 2012 et entrée
+en force, et astreint la société S.________ à verser à V.________ 200 fr. à
+titre de remboursement des frais judiciaires dont elle avait fait l’avance et 1'500 fr. à
+titre de dépens ;
+-
+copie d’un extrait
+du registre foncier du 19 décembre 2012 attestant que A.G.________ et B.G.________ sont copropriétaires,
+chacun pour une demie, du bien-fonds n° [...] sis sur la commune de Commugny.
+b)
+Par ordonnance du 21 décembre 2012, le Juge de paix du district de Nyon a ordonné le séquestre
+de la part de copropriété, appartenant à A.G.________, du bien-fonds n° [...] sis
+sur la commune de Commugny, à concurrence de 12'657 fr. 90, plus intérêt à 5 % l’an
+dès le 28 février 2010, de  18'000 fr., plus intérêt à 5 % l’an dès
+le 28 février 2010, et de 1'700 fr., sans intérêt, mentionnant comme cause de l’obligation
+« jugement du tribunal des prud’hommes du 14 avril 2011 et jugement de faillite du 13
+décembre 2012 » et indiquant comme cas de séquestre celui de l’art. 271 al. 1 ch.
+6 LP. Le juge de paix a fixé l'émolument de justice à 360 fr. et dispensé le créancier
+de fournir des sûretés.
+2.
+a)
+Le 14 janvier 2013, A.G.________ et B.G.________ se sont opposés au séquestre, concluant, avec
+suite de frais et dépens, principalement à l’annulation de l’ordonnance du 21 décembre
+2012 et à la levée immédiate du séquestre, subsidiairement à ce que la séquestrante
+V.________ soit astreinte à fournir des sûretés d’un montant minimum de 10'000 francs.
+A l’appui de leur écriture, les opposants ont produit les documents suivants :
+-
+copie d’un extrait du registre du commerce genevois du 14 janvier 2013, d’où il ressort
+que la faillite de la société en nom collectif  S.________ a été prononcée
+le 12 novembre 2012 ;
+-
+copie de la requête
+de faillite déposée le 19 octobre 1012 par V.________ et de la citation à comparaître
+à l’audience de faillite adressée à S.________par le tribunal de première instance
+;
+-
+copie de l’avis de séquestre adressé le 3 janvier 2013 à A.G.________ par l’Office
+des poursuites du district de Nyon ;
+-
+copie de l’avis de séquestre adressé le 3 janvier 2013 par l’Office des poursuites
+du district de Nyon à B.G.________, en sa qualité de coproprié-taire du bien-fonds n°
+[...] de la commune de Commugny ;
+-
+copie du courrier adressé le 11 janvier 2013 par A.G.________ à l’Office des poursuites
+du district de Nyon pour s’opposer au séquestre.
+La juge de paix du district de Nyon a cité V.________ et A.G.________ à une audience, initialement
+fixée au 8 mars 2013, avancée au 8 février 2013. Les parties n’ont pas comparu personnellement
+mais se sont fait représenter par leurs conseils respectifs. L’avocate des opposants a déclaré
+qu’elle représentait également valablement B.G.________, bien qu’elle n’ait
+pas été citée à comparaître.
+b)
+Par prononcé du 21 mars 2013, le Juge de paix du district de Nyon a rejeté l’opposition
+au séquestre (I), confirmé l’ordonnance du 21 décembre 2012 (II), arrêté
+à 360 fr. les frais judiciaires (II), mis les frais judicaires à la charge de la partie requérante
+(IV), et dit que celle-ci devait verser à l'intimée la somme de 1’500 fr. à titre
+de dépens (V).
+Les motifs de cette décision ont été adressés pour notification aux parties le 29
+juillet 2013, qui les ont reçus le lendemain. Le premier juge a retenu en substance que les jugements
+rendus par le Tribunal des prud’hommes de la République et du canton de Genève le 14
+avril 2011 et par le Tribunal de première instance de la République et du canton de Genève
+le 13 décembre 2012 valaient titres à la mainlevée définitive au sens de l’art.
+80 LP à l’encontre de A.G.________, en sa qualité d’associé de la société
+S.________, et que le cas de séquestre de l’art. 271 al. 1 ch. 6 LP était ainsi réalisé.
+3.
+Par acte du 9 août
+2013, A.G.________ et B.G.________ ont recouru contre cette décision, concluant, avec suite de frais
+et dépens, principale-ment à l’annulation du prononcé entrepris et de l’ordonnance
+de séquestre rendue, ainsi qu’à la levée du séquestre, et, subsidiairement,
+à ce que la séquestrante soit astreinte à fournir des sûretés d’un montant
+minimum de 10'000 francs. Les recourants ont produit, outre le prononcé entrepris, les documents
+suivants :
+-
+copie d’un courrier du conseil des recourants à l’Office des faillites de Genève,
+daté du 8 février 2013 ;
+-
+copie d’un courrier de la Banque cantonale vaudoise à A.G.________, daté du 25 février
+2013 ;
+-
+copie d’un prononcé
+(dispositif) rendu par le Juge de paix du district de Nyon le
+25
+juillet 2013 rejetant la requête de mainlevée déposée le 16 avril 2013 par V.________
+dans une poursuite n° 6'597’519 de l’Office des pour-suites du district de Nyon dirigée
+contre A.G.________.
+L’intimée a répondu par acte du 16 septembre 2013, concluant, avec suite de frais et
+dépens, au rejet du recours.
+En droit
+:
+I.
+a)
+Le recours a été formé en temps
+utile, dans le délai de dix jours de l’art. 321 al. 2 CPC (Code de procédure civile
+du 19 décembre 2008; RS 272), applicable par le renvoi de l’art. 278 aI. 3 LP. Il est écrit
+et motivé, de sorte qu’il est recevable à la forme (art. 321 al. 1 CPC).
+b)
+En
+principe, en procédure de recours, les conclusions, les alléga-tions de faits et les preuves
+nouvelles sont irrecevables (art. 326 al. 1 CPC). En effet, le tribunal de deuxième instance doit
+statuer sur un état de fait identique à celui examiné par le premier juge. Cette règle,
+stricte, s’explique par le fait que l’instance de recours a pour mission de contrôler
+la conformité au droit de la décision entreprise, mais pas de poursuivre la procédure
+de première instance; à l’instar du Tribunal fédéral, l’instance de recours
+doit contrôler la juste application du droit à un état de fait arrêté définitivement
+(Chaix, Introduction au recours de la nouvelle procédure civile fédérale, in SJ 2009 Il
+257 ss, n. 17, p. 267). Cependant, l’art. 326 al. 2 CPC réserve les dispositions spéciales
+de la loi, ce qui vise non seulement les règles contenues dans le CPC, mais toute norme de droit
+fédéral. A ce titre, la loi fédérale sur la poursuite pour dettes et la faillite
+contient des règles spécifiques en relation avec le recours contre le jugement de faillite
+(art. 174 al. 1 et aI. 2 LP), avec la décision sur opposition à séquestre (art. 278 aI.
+3 LP) et avec le recours contre le jugement statuant sur la révocation du sursis extraordinaire
+(art. 348 al. 2 LP). Ainsi, l’art. 278 aI. 3, 2
+ème
+phrase LP prévoit explicitement que les parties peuvent alléguer des faits nouveaux. Cependant,
+ces faits nouveaux doivent s’être produits depuis la décision du premier juge. Seuls
+les vrais nova sont admissibles (Reiser, Basler Kommentar, n. 46 ad art. 278 LP et les références
+citées ; Bovey, La révision de la Convention de Lugano et le séquestre, in JT 2012 lI
+80 ss, p. 97 et les références citées à la note infrapaginale n. 99 : CPF, 3
+avril 2013, S. c. O.SA).
+En l'espèce, les pièces nouvelles produites par les recourants à l’appui de leur
+recours concernent des faits postérieurs à la procédure de première instance. Elles
+sont dès lors recevables.
+c)
+Alors que le juge du séquestre rend son ordonnance sans avoir entendu la partie adverse, l'opposition
+a pour but l'examen ultérieur, en contradic-toire, de toutes les conditions du séquestre. Le
+pouvoir d'examen du juge n'est pas plus étendu que celui qu'il avait lorsqu'il a statué unilatéralement
+sur la requête de séquestre, mais le point de vue défendu par l'opposant et les preuves
+déposées devant lui doivent lui permettre de reconsidérer tout ou partie de sa décision
+après une information plus complète (Reeb, Les mesures provisoires dans la procédure de
+poursuite, in RDS 1997 II, p. 478; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 70 ad art. 278 LP).
+Le recours contre la décision du juge statuant sur une opposition au séquestre est dévolutif
+(Gilliéron, op. cit., n. 82 ad art. 278 LP). L'autorité de recours statue uniquement sous l'angle
+de la vraisemblance des conditions du séquestre (Reeb, op. cit., p. 482 et les auteurs cités
+à la note infrapaginale n. 393).
+II.
+a)
+Aux termes de l'art. 272 al. 1 LP, le séquestre
+est autorisé par le juge compétent lorsque le créancier rend vraisemblable que sa créance
+existe (ch. 1), qu'on est en présence d'un cas de séquestre (ch. 2) et qu'il existe des biens
+appartenant au débiteur (ch. 3).
+Lorsque la loi n'exige
+que la simple vraisemblance, il suffit que le juge, dans son libre examen, aboutisse à la conviction
+que le fait invoqué correspond, avec une probabilité suffisante, aux allégations de la
+partie, sans qu'il doive nécessairement être convaincu de son exactitude ou que toute autre
+solution paraisse exclue (ATF 120 II 393, JT 1995 I 571 ; Hohl, Procédure civile, tome II, nn. 2758
+ss, p. 225 ; Reeb, Les mesures provisoires dans la procédure de poursuite, in RDS 1997 II, pp. 465-466).
+Selon l'art. 271 al. 1 ch. 6 LP, le créancier d’une dette échue et non garantie par gage
+peut requérir le séquestre des biens du débiteur qui se trouvent en Suisse, lorsqu'il
+possède contre le débiteur un titre de mainlevée définitive. Cette disposition, entrée
+en vigueur le 1
+er
+janvier 2011, instaure un nouveau cas de séquestre, introduit par le droit révisé de la
+Convention de Lugano (CL ; FF 2009, p. 7973 ; RO 2010, p. 5601). Ce nouveau cas de séquestre
+dépasse cependant les objectifs de la CL révisée, puisqu’il s’applique à
+l’ensemble des titres de mainlevée définitive et est également applicable aux titres
+de mainlevée suisses (TF 5A_355/ 2012 du 21 décembre 2012 c. 4.3.2).
+Constituent des titres de mainlevée définitive les jugements exécu-toires, y compris ceux
+de première instance déclarés exécutoires, nonobstant appel, les transactions ou
+reconnaissances passées en justice, les titres authentiques exécutoires et les décisions
+des autorités administratives suisses, ainsi que les sentences rendues par un tribunal arbitral
+dont le siège est en Suisse ou à l’étranger (Bovey, op. cit., pp. 84-85 et les références
+citées aux notes infrapaginales nn. 26 à 34). Le juge du séquestre doit ainsi vérifier,
+prima facie, que la décision ou le titre invoqué est exécutoire ; cet examen s’effectue
+notamment en regard de l’autorité dont émane la décision (Bovey, op. cit., p. 86
+et la référence citée à la note infrapaginale n. 35).
+Est
+en particulier exécutoire la décision qui est entrée en force de chose jugée et dont
+le caractère exécutoire n’a pas été suspendu (Hohl, procédure civile,
+T. II, n. 3219)
+Contrairement aux autres cas de séquestre (art. 271 al. 1 ch. 1 à 5 LP), lorsqu'il invoque
+l'art. 271 al. 1 ch. 6 LP, le créancier n'a pas à rendre vraisemblable sa créance –
+qui découle en effet directement du titre produit –, la première et principale condition
+à l'octroi du séquestre étant l'existence d'un titre de mainlevée définitive
+au sens de l'art. 80 LP (Bovay, La révision de la Convention de Lugano et le séquestre, in
+JT 2012 II 80 ss, pp. 84-85).
+En l’espèce, il n’est pas contesté que les deux décisions judiciaires invoquées
+par la séquestrante
+V.________ – soit
+le jugement rendu le 14 avril 2011 par le Tribunal des prud’hommes de la République et du
+canton de Genève et celui rendu le 13 décembre 2012 par le Tribunal de première instance
+de la République et du canton de Genève –
+sont
+définitives et exécutoires et constituent des titres de mainlevée définitive au sens
+de l’art. 80 LP.
+b)
+Les recourants soutiennent que l
+es deux jugements
+en cause, rendus à l’encontre de la société en nom collectif S.________, ne sauraient
+valoir titres de mainlevée à l’égard A.G.________ personnellement.
+D’après l’art. 568 al. 3 CO, relatif à la société en nom collectif, un
+associé ne peut être recherché personnellement pour une dette sociale, même après
+sa sortie de la société, que s’il est en faillite ou si la société est dissoute
+ou a été l’objet de poursuites restées infructueuses. En mettant à la charge
+des associés une responsabilité personnelle indéfinie et solidaire, mais subsidiaire,
+le législateur suisse a reconnu la quasi-personnalité externe de la société en nom
+collectif et fait des associés les garants des dettes dont la société est elle-même
+la débitrice principale. Une application complète du principe de subsidiarité eût
+conduit à n’ouvrir de droit direct contre les associés qu’une fois épuisés
+les droits des créanciers contre la société elle-même. Mais le législateur n’a
+pas voulu contraindre les créanciers à attendre la clôture de la faillite sociale pour
+faire valoir leurs droits contre un associé ; il suffit que soit réalisée l’une
+des trois hypothèses visées à l’art. 568 al. 3 CO – faillite de l’associé,
+dissolution de la société ou poursuites infructueuses contre elle – pour que puisse être
+mise en cause la responsabilité solidaire de l’associé pour les dettes sociales (Recordon,
+op. cit., n. 12 ad art. 568 CO). On peut dire que du fait du caractère subsidiaire de sa responsabilité,
+l’associé assume à l’égard du créancier social une obligation dont l’existence
+remonte à la naissance de la dette ou à l’entrée de l’associé dans la
+société. Quant à l’exigibilité de cette dette envers l’associé,
+elle est soumise à la condition suspensive de la survenance d’une des circonstances de l’art.
+568 al. 3 CO (Recordon, op. cit., n. 13 ad art. 568 CO). La faillite de la société en nom collectif
+est une hypothèse particulière de dissolution de la société (art. 574 al. 1 CO).
+Sous l’angle de l’art. 568 CO, sa particularité est de rendre toutes les dettes sociales
+exigibles et de les convertir en dettes d’argent, conformément aux art. 208 al. 1 et 211 al.
+1 LP. Par conséquent, dès l’ouverture de la faillite, les créanciers sociaux peuvent
+poursuivre directement les associés, dont la responsabi-lité solidaire peut être mise
+en oeuvre (Recordon, op. cit., n. 20 ad art. 568 CO ; CPF, 31 mai 2012/170). Le jugement rendu à
+l’encontre d’une société en nom collectif vaut titre de mainlevée définitive
+à l’encontre des associés indéfiniment responsables lorsqu’ils peuvent être
+recherchés personnellement en application de l’art. 568 al. 3 CO (Staehlin, Basler Kommentar,
+n. 32 ad art. 80 LP et les références citées).
+En l’espèce, il est établi que la faillite de la société en nom collectif
+S.________ a été prononcée le 12 novembre 2012. A partir de ce moment, l’associé
+A.G.________ pouvait être recherché personnelle-ment pour les dettes sociales. Il en découle
+que les jugements rendus à l’égard de la société, en particulier ceux dont
+la séquestrante se prévaut en l’espèce, qui constituent des titres de mainlevée
+définitive, peuvent être opposés à l’associé A.G.________, qui n’a
+invoqué ni établi aucun des moyens libératoires de l’art. 81 al. 1 LP. Dans ces
+conditions, c’est à juste titre que le premier juge a considéré que le cas de séquestre
+de l’art. 271 al. 1 ch. 6 LP était réalisé et qu’il a rejeté l’opposition
+au séquestre déposée le 14 janvier 2013 et maintenu l’ordonnance de séquestre
+du 14 décembre 2012.
+Il n’y a pas lieu d’allouer des sûretés, s’agissant d’un séquestre
+fondé sur l’art. 271 al. 1 ch. 6 LP (CPF, 31 mai 2012/179).
+III.
+Le recours doit donc être rejeté et
+le prononcé attaqué confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 570 fr., sont mis à la
+charge des recourants, solidairement entre eux. Ceux-ci verseront en outre,  solidairement entre
+eux, un montant de 1'500 fr. à l’intimée à titre de dépens de deuxième
+instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 570 fr. (cinq cent septante
+francs), sont mis à la charge des recourants, solidairement entre eux.
+IV.
+Les recourants A.G.________ et B.G.________ verseront, solidairement entre eux, à l’intimée
+V.________ un montant de 1'500 fr. (mille cinq cents francs) à titre de dépens de deuxième
+instance.
+V.
+L'arrêt est exécutoire.
+Le
+juge présidant :
+La greffière :
+Du
+6 décembre 2013
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Philippe Girod, avocat (pour A.G.________ et B.G.________),
+‑
+Me Antoine Kohler, avocat (pour V.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 32'357 fr. 90.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+La greffière :
