@@ -1,0 +1,230 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___42"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 42"
+decided: "2013-12-10"
+published: "2013-12-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4175805"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 42
+
+## Regeste
+
+MOTIVATION DE LA DÉCISION, CAS DE SÉQUESTRE, ORDONNANCE DE SÉQUESTRE | 29 al. 2 Cst., 263 al. 1 let. a CPP (CH), 263 al. 1 let. d CPP (CH), 263 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.12.2013 Décision / 2014 / 42
+
+MOTIVATION DE LA DÉCISION, CAS DE SÉQUESTRE, ORDONNANCE DE SÉQUESTRE | 29 al. 2 Cst., 263 al. 1 let. a CPP (CH), 263 al. 1 let. d CPP (CH), 263 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+789
+PE10.022527-MRN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 10 décembre 2013
+__________________
+Présidence
+de               M.
+krieger
+,
+président
+Juges
+:              MM.
+Meylan et Perrot
+Greffière
+:              Mme
+Molango
+*****
+Art.
+263 al. 1 let. a et d, 393 al. 1 let. a CPP
+La Chambre des recours pénale du Tribunal cantonal prend séance à huis clos pour statuer
+sur le recours interjeté le 8 novembre 2013 par
+Y.________
+contre l'ordonnance de séquestre rendue le 28 octobre 2013 par le Ministère public de l'arrondissement
+de Lausanne dans le dossier
+n° PE10.022527-MRN
+.
+Elle considère :
+E n  f a i t :
+A.
+a)
+Le 17 octobre 2010, le Juge d’instruction
+de l’arrondissement de Lausanne a ouvert une instruction pénale contre Y.________ pour infraction
+à la Loi fédérale contre la concurrence déloyale (LCD, RS 241) et infraction à
+la Loi fédérale sur la protection des marques (LPM, RS 232.11). Il lui est reproché d’avoir
+vendu des articles de marque contrefaits dans ses magasins X.________ et B.________ à Lausanne.
+b)
+Le 28 septembre 2010, la police a procédé à la saisie de différents vêtements
+de marque dans les locaux précités.
+B.
+Par ordonnance du 28 octobre 2013, le Ministère public de l’arrondissement de Lausanne a ordonné
+le séquestre de plusieurs vêtements de marque H.________ (pièces n° B1 à B177,
+B185 à B210 et B223 et B229).
+C.
+Par acte du 8 novembre 2013, Y.________ a recouru auprès de la Chambre des recours pénale du
+Tribunal cantonal contre « la décision de séquestre », en concluant implicitement
+à son annulation.
+Par ordonnance du 12 novembre 2013, le Ministère public a ordonné le séquestre de plusieurs
+vêtements de marque G.________ (pièces n° R1 à R81).
+Par courrier du 19 novembre 2013, le Président de la Cour de céans a imparti au recourant un
+délai au 29 novembre 2013 pour qu’il indique contre quelle décision il entendait recourir.
+Le 23 novembre 2013, le recourant a déposé des observations complémentaires sans toutefois
+préciser quelle ordonnance il souhaitait contester.
+Par courrier du 27 novembre 2013, le défenseur du prénommé a confirmé au Président
+de la Cour de céans que son client entendait recourir contre l’ordonnance du 28 octobre 2013.
+Par écriture du 4 décembre 2013, la Procureure de l’arrondissement de Lausanne a déposé
+des déterminations.
+E n  d r o i t :
+1.
+Interjeté en temps utile (art. 396 al. 1 CPP) contre une ordonnance de séquestre du ministère
+public (art. 263 al. 1 et 393 al. 1 let. a CPP) par la personne visée par la mesure litigieuse (art.
+382 CPP), le recours est recevable (CREP 17 juin 2013/370).
+2.
+a)
+Le droit d’être entendu, garanti
+à l'art. 29 al. 2 Cst. (Constitution fédérale de la Confédération suisse du
+18 avril 1999, RS 101), implique notamment pour l'autorité l'obligation de motiver sa décision.
+Pour répondre à ces exigences, le juge doit mentionner, au moins brièvement, les motifs
+qui l'ont guidé et sur lesquels il a fondé sa décision, de manière à ce que
+l'intéressé puisse se rendre compte de la portée de celle-ci et l'attaquer en connaissance
+de cause (ATF 137 IV 81 c. 2.2 ; ATF 134 I 83 c. 4.1). S’agissant du contenu de la décision
+de séquestre, la seule référence à la norme légale est insuffisante sous l'angle
+des exigences de motivation de la décision (TF 1A.95/2002 du 16 juillet 2002 c. 3.3; CREP 1
+er
+juillet 2013/397; CREP 21 novembre 2012/725).
+Le principe du droit d’être entendu étant de nature formelle, toute violation de ce dernier
+conduit, en principe, à l’annulation de la décision rendue. Sa violation peut toutefois
+être réparée dans le cadre de la procédure de recours lorsque l'irrégularité
+n'est pas particulièrement grave et pour autant que la partie concernée ait la possibilité
+de s'exprimer et de recevoir une décision motivée de la part de l'autorité de recours
+disposant d'un pouvoir d'examen complet en fait et en droit. Une réparation du vice procédural
+est également possible lorsque le renvoi à l’autorité inférieure constitue
+une vaine formalité, provoquant un allongement inutile de la procédure, incompatible avec l’intérêt
+de la partie concernée à ce que sa cause soit tranchée dans un délai raisonnable
+(ATF 137 I 195 c. 2.3.2; TF 1B_524/2012 du 15 novembre 2012 c. 2.1 et les références citées;
+Moreillon/Parein-Reymond, Code de procédure pénale, Petit commentaire, Bâle 2013, n. 24
+ad art. 3 CPP).
+b)
+En l’espèce, l'ordonnance entreprise se limite à justifier le séquestre par référence
+à la norme légale tenue pour topique, à savoir par la motivation selon laquelle les vêtements
+séquestrés pourraient être utilisés comme moyens de preuve (art. 263 al. 1 let. a
+CPP) ou être confisqués (art. 263 al. 1 let. d CPP). Or, le seul renvoi aux dispositions légales
+est insuffisant sous l'angle des exigences de motivation de la décision. Dans ses déterminations
+du 4 décembre 2013, la procureure a certes développé les motifs à l’appui de
+son ordonnance de séquestre. Toutefois, une motivation subséquente à la décision
+litigieuse ne saurait être admissible au regard du principe du droit d’être entendu (cf.
+art. 80 al. 2 CPP). Le défaut de motivation doit ainsi, en principe, conduire à l’annulation
+de l’ordonnance et au renvoi du dossier à l'autorité d’instruction pour nouvelle
+décision. Toutefois, dans le cas d’espèce, compte tenu des infractions en cause (concurrence
+déloyale et protection des marques) et des objets séquestrés (vêtements), force est
+de constater qu’il s’agit d’un cas de séquestre manifeste (cf. infra c. 3) car
+l’intéressé ne peut pas ignorer, vu le contexte particulier de l’affaire, le motif
+ayant conduit le Ministère public à ordonner cette mesure. Dès lors, il se justifie, exceptionnellement,
+que la cour de céans, qui dispose d’un pouvoir d’examen complet, pallie le défaut
+de motivation et examine l'ordonnance entreprise.
+3.
+a)
+Aux termes de l'art. 263 al. 1 CPP, des objets
+et des valeurs patrimoniales appartenant au prévenu ou à des tiers peuvent être mis sous
+séquestre notamment, lorsqu'il est probable qu'ils seront utilisés comme moyens de preuve (let.
+a) ou qu'ils devront être confisqués (let. d).
+Conformément à l'art. 197 al. 1 CPP, le séquestre ne peut être ordonné qu'aux
+conditions suivantes: la mesure est prévue par la loi (let. a); des soupçons suffisants laissent
+présumer une infraction (let. b); les buts poursuivis ne peuvent pas être atteints par des
+mesures moins sévères (let. c) et la mesure apparaît justifiée au regard de la gravité
+de l'infraction (let. d) (Lembo/Julen Berthod, in : Kuhn/Jeanneret [éd.], Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 17 ad art. 263 CPP; Bommer/ Goldschmid,
+in : Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische Strafprozessordnung,
+Jugendstrafprozessordnung, Bâle 2011, nn. 11 à 15 ante art. 263-268 CPP).
+Le séquestre probatoire (art. 263 al. 1 let. a CPP) garantit la protection et la conservation, à
+la disposition des autorités pénales, de tous les éléments de preuve découverts
+au cours de l'enquête susceptibles de servir à la manifestation de la vérité au cours
+du procès pénal (Lembo/Julen Berthod, op. cit., n. 5 ad art. 263 CPP). Un soupçon crédible
+ou un début de preuve de l'existence de l'infraction reprochée suffit à permettre le séquestre
+(Lembo/Julen Berthod, op. cit., n. 22 ad art. 263 CPP).
+Le séquestre de type conservatoire (art. 263 al. 1 let. d CPP) consiste en la confiscation de biens
+en raison de leur origine criminelle ou du danger qu’ils représentent pour la sécurité,
+l’ordre public ou encore morale (Moreillon/Parein-Reymond, op. cit., n. 19 ad art. 263 CPP). Une
+telle mesure est fondée sur la vraisemblance; elle porte sur des objets dont on peut admettre,
+prima
+facie
+, qu'ils pourront être confisqués
+en application du droit pénal fédéral. Tant que l'instruction n'est pas achevée,
+une simple probabilité suffit car, à l'instar de toute mesure provisionnelle, la saisie se
+rapporte à des prétentions encore incertaines (TF 1B_127/2013 du 1er mai 2013 c. 2; Lembo/Julen
+Berthod, op. cit., nn. 7 et 27 ad art. 263 CPP). Le séquestre pénal se justifie aussi longtemps
+que subsiste une probabilité de confiscation (SJ 1994 p. 90 et 102) et ne peut être levé
+que dans l'hypothèse où il est d'emblée manifeste et indubitable que les conditions matérielles
+d'une confiscation ne sont pas réalisées et ne pourront l'être (TF 1S.8/2006 du 12 décembre
+2006 c. 6.1).
+b)
+En l’espèce, Y.________ s’en prend à la manière dont certains agents de police
+ont mené l’enquête et se plaint des répercussions financières. Ce faisant,
+il n’expose pas en quoi le séquestre serait infondé.
+Or, ce dernier, prévenu d’infractions à la LCD et à la LPM, est mis en cause pour
+avoir vendu divers articles de marque contrefaits dans ses magasins. Il ressort des pièces au dossier
+qu’il existe des indices convergents selon lesquels les vêtements séquestrés seraient
+des contrefaçons. En particulier, les personnes ayant examiné les articles litigieux ont indiqué
+que certaines pièces étaient des faux (cf. notamment PV aud. 6, p. 2; PV aud. 7, p. 2; PV aud.
+8, p. 2; P. 22 et 27). Par ailleurs, une expertise sera prochainement mise en œuvre afin de déterminer
+l’authenticité des vêtements.
+Dans ces conditions, il est manifeste que la marchandise litigieuse pourrait être utilisée
+à des fins probatoires (art. 263 al. 1 let. a CPP) ou conservatoires (art. 263 al. 1 let. d CPP)
+dans l’optique d’une éventuelle contrefaçon.
+Par conséquent, c’est à bon droit que le Ministère public a ordonné le séquestre
+des vêtements litigieux, étant précisé qu’il lui appartiendra de faire diligence
+dans le cadre de la présente instruction ouverte depuis 2010.
+4.
+En définitive, le recours doit être rejeté et l’ordonnance de séquestre confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 660 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]),
+seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 28 octobre 2013 est confirmée.
+III.
+Les frais du présent arrêt, par 660
+fr. (six cent soixante francs), sont mis à la charge de Y.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Y.________,
+-
+Me Eric Stauffacher, avocat (pour Y.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
