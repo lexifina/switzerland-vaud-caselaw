@@ -1,0 +1,158 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 20"
+decided: "2013-12-13"
+published: "2013-12-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4165994"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 20
+
+## Regeste
+
+NON-LIEU | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 13.12.2013 Décision / 2014 / 20
+
+NON-LIEU | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+780
+PE13.013542-JPC
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 13 décembre 2013
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              MM.
+Perrot et Maillard
+Greffier
+:              M.
+Addor
+*****
+Art.
+310 al. 1 let. a, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance
+à huis clos pour statuer sur le recours interjeté par
+C.________
+contre l’ordonnance de non-entrée en matière rendue le 12 juillet 2013 par le Ministère
+public de l’arrondissement de l’Est vaudois dans la cause
+n° PE13.013542-JPC
+.
+Elle considère :
+E n  f a i t :
+A.
+Le 4 juillet 2013, N.________
+a déposé une plainte pénale auprès du Ministère public de l’arrondissement
+de l’Est vaudois. Dans la mesure où les griefs exposés sont intelligibles et autant qu’on
+puisse en juger d’après les pièces qui y sont annexées, cette plainte, confuse,
+paraît avoir été déposée pour vol et diffamation, contre les syndics d’
+[...] et d’ [...], contre deux policiers, un juge de paix et un ramoneur (P. 4/1). Dans l’une
+des pièces jointes à la plainte figure un écrit du 21 juin 2013 de C.________, lequel
+se présente comme « enquêteur et escorte personnelle de M. [...]», et qui semble
+s’en prendre au syndic d’ [...] [...].
+B.
+Par ordonnance du 12 juillet 2013, approuvée le 16 juillet 2013 par le Procureur général
+et notifiée le surlendemain, le Ministère public de l’arrondissement de l’Esst
+vaudois a rendu une ordonnance de non-entrée en matière, considérant en bref qu’il
+n’apparaissait pas, à la lecture de la plainte, qu’une « infraction pénale
+caractérisée ait pu être réalisée ».
+C.
+Par acte non daté, remis par porteur le 31 juillet 2013 au Greffe du Tribunal cantonal, C.________
+a interjeté recours contre cette ordonnance.
+Il a versé en temps utile l’avance de frais requise de 440 francs.
+E n  d r o i t :
+1.
+a) Le recours est interjeté
+en temps utile (art. 322 al. 2 CPP, applicable par renvoi de l’art. 310 al. 2 CPP, et 384 let.
+b CPP) contre une décision du Ministère public (cf. art. 310 et 393 al. 1 let. a CPP [Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) par la partie plaignante,
+qui a qualité pour recourir (art. 382 al. 1 CPP).
+Selon l'art. 385 al. 1 CPP, si le présent code exige que le recours soit motivé – ce
+qui est le cas en l'espèce en vertu de l'art. 396 al. 1 CPP – la personne ou l'autorité
+qui recourt indique précisément les points de la décision qu'elle attaque (let. a), les
+motifs qui commandent une autre décision (let. b) et les moyens de preuve qu'elle invoque (let.
+c). Conformément à l'art. 385 al. 2 CPP, si le mémoire ne satisfait pas à ces exigences,
+l'autorité de recours le renvoie au recourant pour qu'il le complète dans un bref délai.
+Si, après expiration de ce délai supplémentaire, le mémoire ne satisfait toujours
+pas à ces exigences, l'autorité de recours n'entre pas en matière.
+b) En l'espèce, on ne sait pas très bien si C.________, auteur de l’acte de recours qui
+déclare « agir en défense de [s]es intérêts personnels », entend
+agir en son nom, ou s’il représente N.________. Quoi qu’il en soit, l'écriture
+du recourant, telle qu’elle est formulée, ne permet pas de comprendre les griefs qu’il
+articule contre la décision attaquée. L’intéressé n'indique pas les points
+de la décision qu'il attaque, ni les motifs qui commanderaient une autre décision, se contentant
+d’alléguer pêle-mêle différents faits.
+On peut renoncer à renvoyer le mémoire au recourant pour qu'il le complète dès lors
+que supposé recevable, le recours devrait de toute façon être rejeté comme manifestement
+mal fondé (cf. TF 1B_354/2011 du 8 juillet 2011 ; CREP 4 juin 2011/224). En effet, la lecture
+du recours et de la plainte ne permet pas de comprendre les motifs de la dénonciation déposée
+par les intéressés, ni ne fait apparaître des indices laissant supposer la commission
+d’une quelconque infraction pénale. La décision attaquée est donc bien fondée
+au regard de l'art. 310 al. 1 let. a CPP, qui autorise le ministère public à rendre immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions d'ouverture de l'action
+pénale ne sont manifestement pas réunis.
+2.
+En définitive, le recours, manifestement mal fondé, doit être rejeté, dans la mesure
+où il est recevable, et l'ordonnance du 12 juillet 2013 confirmée. Les frais de la procédure
+de recours, constitués de l’émolument d’arrêt, par 440 fr. (art. 20 al. 1
+TFJP [Tarif des frais judiciaires pénaux du 28 septembre 2010, RSV 312.03.1]), seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté, dans la mesure où il est recevable.
+II.
+L’ordonnance du 12 juillet 2013 est confirmée.
+III.
+Les frais d’arrêt, par 440 fr. (quatre cent quarante francs), sont mis à la charge de
+C.________.
+IV.
+Le montant de 440 fr. (quatre cent quarante francs) déjà versé par C.________ à titre
+de sûretés est imputé sur les frais mis à sa charge au chiffre III ci-dessus.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. C.________,
+-
+M. N.________,
+-
+Ministère public central,
+et communiqué à :
+-              M. le Procureur de l’arrondissement
+de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
