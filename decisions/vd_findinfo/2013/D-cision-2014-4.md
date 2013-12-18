@@ -1,0 +1,271 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 4"
+decided: "2013-12-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4159210"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-138.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/312.0/art-127.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 4
+
+## Regeste
+
+ESCROQUERIE, ABUS DE CONFIANCE, NON-LIEU, ASTUCE, DÉLIT D'OMISSION | 146 CP, 138 CPP (CH), 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.12.2013 Décision / 2014 / 4
+
+ESCROQUERIE, ABUS DE CONFIANCE, NON-LIEU, ASTUCE, DÉLIT D'OMISSION | 146 CP, 138 CPP (CH), 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+768
+PE12.013999-NKS/YGR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 18 décembre 2013
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              MM.
+Abrecht et Maillard
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+138, 146 CP; 319, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 23 septembre 2013 par
+G.________
+contre l’ordonnance de classement rendue le 30 août 2013 par le Ministère public de l’arrondissement
+de l’Est vaudois (
+PE12.013999-NKS
+).
+Elle considère :
+En
+fait :
+A.
+a)
+Le 27 février 2010, G.________ a fait
+appel à la société [...] pour un transport et la location d’un garde-meubles. C.________,
+titulaire de cette société, est venu chercher les affaires de G.________ pour les déposer
+dans le garde-meuble qu’il sous-louait à Vevey. G.________ s’est acquitté d’une
+caution de 300 fr., de trois loyers d’avance et du premier mois de location, pour un montant total
+de 800 fr. (P. 6). En 2011, C.________ a été sommé par le propriétaire de libérer
+les box, ce qu’il n’a pas fait immédiatement. Le propriétaire aurait alors commencé
+à démonter les box, ce qui aurait créé une grande confusion. Au mois de juin 2012,
+lorsque G.________ a souhaité récupérer ses affaires, il n’a pu que constater que
+celles rapportées par C.________ n’étaient pas les siennes mais d’autres ne lui
+appartenant pas. Le prévenu lui a expliqué que ses affaires avaient été confondues
+avec des objets sans valeur et qu’elles auraient été jetées.
+b) Le 25 juillet 2012, G.________ a déposé plainte pénale contre C.________ pour abus
+de confiance et toute autre infraction que l’instruction pourrait révéler (P. 4) G.________
+a précisé avoir appris de la Police Riviera que le garde meuble loué par la société
+[...], C.________, serait fermé depuis six mois (P. 4; PV aud. n. 1, p. 2, lignes 2), ce qui n’a
+pas été contesté par C.________ lors de son audition du 15 avril 2013 (PV aud. n. 4).
+G.________ n’a en outre jamais récupéré la caution versée.
+B.
+Le 30 août 2013, le Procureur de l’arrondissement
+de l’Est vaudois a rendu une ordonnance de classement, considérant qu’aucune infraction
+contre le patrimoine n’était réalisée et que ce litige relevait exclusivement du
+droit civil.
+C.
+Le 23 septembre 2013, G.________, représenté par [...], au bénéfice d’une procuration
+écrite, a interjeté recours contre cette ordonnance. En substance, il soutient que C.________
+aurait abusé de sa confiance, qu’il aurait encaissé des loyers pour la location d’un
+box qui n’existait plus et qu’il ne lui aurait restitué ni la garantie de dépôt,
+ni ses affaires.
+Le 25 septembre 2013, G.________ a été invité par l’autorité de céans
+à s’acquitter d’un dépôt de 440 fr. à titre de sûretés dans
+un délai au 15 octobre 2013, ce qu’il a fait.
+Interpellé, le Ministère public s’est référé à son ordonnance et
+a conclu au rejet du recours, aux frais de son auteur.
+En
+droit :
+1.
+L’ordonnance attaquée,
+envoyée par courrier B aux parties le vendredi 6 septembre 2013 (PV des opérations du 6 septembre
+2013, p. 4), a été vraisemblablement reçue 3 jours ouvrables plus tard, soit le mercredi
+11 septembre 2013. Le délai de recours a donc commencé à courir le jeudi 12 septembre
+2013, pour venir à échéance le samedi 21 septembre 2013. Déposé dans un bureau
+de poste suisse le premier jour ouvrable suivant, soit le lundi 23 septembre 2013, le recours a ainsi
+été interjeté en temps utile devant l’autorité compétente, par le plaignant,
+valablement représenté (art. 127 al. 4 CPP), qui a qualité pour recourir au sens de l'art.
+382 al. 1 CPP. Interjeté de surcroît dans les formes prescrites (art. 385 al. 1 CPP), le recours
+est recevable.
+2.
+a) Aux termes de l'art.
+319 al. 1 CPP, le Ministère public ordonne le classement de tout ou partie de la procédure
+notamment lorsqu’aucun soupçon justifiant une mise en accusation n’est établi (let.
+a), à savoir lorsque les soupçons initiaux qui ont conduit le ministère public à
+ouvrir une instruction n’ont pas été confirmés (Grädel/Heiniger,
+in
+:
+Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Bâle 2011, n. 8 ad art. 319 CPP, p. 2208), ou lorsque les éléments constitutifs d’une
+infraction ne sont pas réunis (let. b), à savoir lorsque le comportement incriminé, quand
+bien même il serait établi, ne réalise les éléments constitutifs objectifs et
+subjectifs d’aucune infraction pénale (Grädel/Heiniger, op. cit., n. 9 ad art. 319 CPP).
+b)
+De manière générale, les motifs
+de classement sont ceux « qui déboucheraient à coup sûr ou du moins très
+probablement sur un acquittement ou une décision similaire de l'autorité de jugement »
+(Message du Conseil fédéral relatif à l'unification du droit de la procédure pénale
+du 21 décembre 2005, FF 2006 p. 1057 ss, 1255). Selon la jurisprudence, un classement s'impose donc
+lorsqu'une condamnation paraît exclue avec une vraisemblance confinant à la certitude; la possibilité
+de classer la procédure ne saurait toutefois être limitée à ce seul cas, car une
+interprétation aussi restrictive imposerait un renvoi en jugement, même en présence d'une
+très faible probabilité de condamnation. Le principe «
+in
+dubio pro duriore
+» – qui ne figure
+pas expressément dans la loi mais se déduit indirectement des art. 324 al. 1 et 319 al. 1 CPP
+(ATF 137 IV 219 c. 7; TF 1B_338/2011 du 24 novembre 2011 c. 4.1) – exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement (ATF 138 IV 86 c. 4.1.1; TF 1B_272/2011
+du 22 mars 2012 c. 3.1.1), voire même lorsque les probabilités d'acquittement et de condamnation
+apparaissent équivalentes en présence d'une infraction grave (ATF 138 IV 86 c. 4.1.2; ATF 137
+IV 285 c. 2.5).
+3.
+a) Le recourant reproche au prévenu, responsable d’une entreprise de garde-meubles, de ne
+pas lui avoir restitué les objets confiés au mois de février 2010.
+b)
+Réprimant l’abus de confiance, l’art. 138 CP (Code pénal; RS 311.0) prévoit
+que celui qui, pour se procurer ou procurer à un tiers un enrichissement illégitime, se sera
+approprié une chose mobilière appartenant à autrui et qui lui avait été confiée,
+celui qui, sans droit, aura employé à son profit ou au profit d'un tiers des valeurs patrimoniales
+qui lui avaient été confiées, sera puni d'une peine privative de liberté de cinq
+ans au plus ou d'une peine pécuniaire (ch. 1, première phrase).
+Les éléments
+constitutifs objectifs de l’infraction d’abus de confiance sont au nombre de quatre, à
+savoir un auteur à qui une chose mobilière ou une valeur patrimoniale a été confiée
+(a), l'objet de l'infraction qui peut consister en une chose mobilière confiée ou des valeurs
+patrimoniales confiées (b), un acte d'appropriation portant sur l'objet de l'infraction (c) et un
+dommage (d) (Dupuis/Geller/ Monnier/Moreillon/Piguet/Bettex/Stoll [éd.], Petit commentaire CP, Bâle
+2012, nn. 8 et 22 ad art. 138 CP). Cette infraction est intentionnelle et l'auteur doit agir dans un
+dessein d'enrichissement illégitime, ces deux conditions pouvant être réalisées par
+dol éventuel (Dupuis et alii, op. cit., nn. 43 ss ad art. 138 CP et les références citées).
+La jurisprudence définit
+la chose confiée comme une chose remise ou laissée à l’auteur, en vertu d’un
+accord ou d’un autre rapport juridique, pour qu’il l’utilise de manière déterminée
+dans l’intérêt d’autrui, en particulier pour la conserver, l’administrer
+ou la livrer, selon les termes exprès ou tacites du rapport de confiance (ATF 133 IV 21 c. 6.2;
+Dupuis et alii, op. cit., n. 12 ad art. 138 CP).
+c) En l’espèce, C.________ admet avoir reçu en dépôt les objets appartenant
+au plaignant. Il explique toutefois les avoir jetés par erreur en 2011 lorsqu’il a évacué
+en urgence les box qu’il sous-louait. L’instruction n’a pas permis d’établir
+d’éléments à charge. On ne voit pas quelles autres mesures d’instruction pourraient
+y parvenir. Dès lors, à l’instar du Ministère public, force est d’admettre
+qu’il n’y a pas d’élément suffisant pour retenir une infraction pénale,
+le litige étant, sur ce point, de nature purement civile.
+4.
+a) Le recourant expose ensuite ne pas avoir pu récupérer la caution de 300 fr. versée
+au prévenu au moment de la conclusion du contrat, en février 2010 (P. 6).
+b) La non-restitution d’une caution n’est pas une infraction pénale. Le Ministère
+public a donc à juste titre considéré que le litige était, sur ce point aussi, de
+nature purement civile.
+5.
+a)
+Enfin, le recourant se plaint d’avoir payé,
+pendant six mois, la location d’un box qui n’existait plus.
+b) Réprimant l’escroquerie,
+l’art. 146 CP dispose que celui qui, dans le dessein de se procurer ou de procurer à un tiers
+un enrichissement illégitime, aura astucieusement induit en erreur une personne par des affirmations
+fallacieuses ou par la dissimulation de faits vrais ou l'aura astucieusement confortée dans son
+erreur et aura de la sorte déterminé la victime à des actes préjudiciables à
+ses intérêts pécuniaires ou à ceux d'un tiers sera puni d'une peine privative de
+liberté de cinq ans au plus ou d'une peine pécuniaire (al. 1).
+L'escroquerie
+suppose en particulier que l'auteur ait usé de tromperie et que celle-ci ait été astucieuse
+(ATF 128 IV 18 c. 3a; ATF 122 II 422 c. 3a; ATF 122 IV 246 c. 3a et les arrêts cités).
+L'astuce est réalisée lorsque l'auteur recourt à un édifice de mensonges, à
+des manœuvres frauduleuses ou à une mise en scène, mais aussi lorsqu'il donne simplement
+de fausses informations, si leur vérification n'est pas possible, ne l'est que difficilement ou
+ne peut raisonnablement être exigée, de même que si l'auteur dissuade la dupe de vérifier
+ou prévoit, en fonction des circonstances, qu'elle renoncera à le faire en raison d'un rapport
+de confiance particulier (ibid.). L'astuce n'est toutefois pas réalisée si la dupe pouvait
+se protéger avec un minimum d'attention ou éviter l'erreur avec le minimum de prudence que
+l'on pouvait attendre d'elle (ATF 128 IV 18 c. 3a; ATF 126 IV 165 c. 2a). U
+n
+édifice de mensonges, pour être astucieux, ne résulte ainsi pas nécessairement de
+l'accumulation de plusieurs mensonges. Le simple fait de se taire suffit pour que l’on retienne
+la tromperie, si l’auteur occupe une position de garant, c'est-à-dire, s’il a en vertu
+de la loi, d’un contrat ou d’un rapport de confiance spécial, une obligation de renseigner
+ou de détromper la dupe (Dupuis et alii, op. cit., n. 7 ad art. 146 CP et les références
+citées). Il n’y a toutefois pas tromperie lorsque la décision de ne pas exécuter
+un contrat est postérieure à la conclusion de ce dernier (
+Favre/Pellet/Stoudmann,
+Code pénal annoté, 3
+e
+éd., Lausanne 2007, n. 1.4
+in
+fine
+ad art. 146 CP et les références citées).
+c) En l’espèce, il n’est pas contesté que la perception des loyers versés
+par le recourant était, à l’origine à tout le moins, justifiée. Il n’y
+a donc pas eu de tromperie initiale. Le fait que C.________ n’a par la suite vraisemblablement
+plus exécuté sa part du contrat ne tombe pas sous le coup de l’art. 146 CP. Il s’agit
+là encore d’un litige de nature purement civile.
+6.
+Les éléments
+constitutifs d’aucune infraction n’étant réunis, le classement de la procédure
+pénale dirigée contre C.________ échappe à la critique, de sorte que le recours,
+manifestement mal fondé, doit être rejeté et l’ordonnance attaquée confirmée.
+Les frais de la procédure
+de recours, constitués de l’émolument d’arrêt (art. 422 al. 1 CPP), par 770
+fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux; RSV 312.03.1]), seront mis à la
+charge du recourant, qui succombe (art. 428 al. 1 CPP)
+.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance de classement du 30 août 2013 est confirmée.
+III.
+Les frais du présent arrêt, par 770
+fr. (sept cent septante francs), sont mis à la charge de G.________.
+IV.
+Le montant de 440 fr. (quatre cent quarante francs) déjà versé par le recourant à
+titre de sûretés est imputé sur les frais mis à sa charge au chiffre III ci-dessus.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. G.________,
+-
+M. C.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur du Ministère public de l’arrondissement
+de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
