@@ -1,0 +1,267 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 19"
+decided: "2013-12-18"
+published: "2013-12-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4161719"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2014 / 19
+
+## Regeste
+
+INDEMNITÉ{EN GÉNÉRAL}, DÉFENSE D'OFFICE | 135 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.12.2013 Décision / 2014 / 19
+
+INDEMNITÉ{EN GÉNÉRAL}, DÉFENSE D'OFFICE | 135 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+775
+PE11.014848-SSM
+LE
+JUGE
+DE
+LA CHAMBRE DES RECOURS PENALE
+__________________________________________
+Séance
+du 18 décembre 2013
+__________________
+Juge
+:              M.
+Abrecht
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+135, 393 al. 1 let. b et 395 let. b CPP
+Le
+Juge unique de la Chambre des recours pénale prend séance à huis clos pour statuer sur
+le recours interjeté le 28 novembre 2013 par
+R.________
+contre le jugement rendu le 14 novembre 2013 par le Tribunal correctionnel de l’arrondissement
+de la Broye et du Nord vaudois en tant qu’il fixe l’indemnité due en sa qualité
+de défenseur d’office du prévenu H.________ dans la cause
+n° PE11.014848-SSM
+.
+Il
+considère:
+E
+n  f a i t :
+A.
+Par jugement du 14 novembre 2013, le Tribunal correctionnel de la Broye et du Nord vaudois a libéré
+H.________ du chef de prévention d'infraction grave à la loi fédérale sur les stupéfiants
+(I), a constaté qu'il s'était rendu coupable de violation d'une obligation d'entretien, d'infraction
+à la loi fédérale sur les stupéfiants et de contravention à la même loi
+(II), a révoqué la libération conditionnelle accordée à H.________ le 7 février
+2011 par le Juge d'application des peines (III), a condamné H.________ à une peine privative
+de liberté de dix-huit mois et à une amende de 500 fr. (IV), a dit que la peine privative de
+liberté de substitution en cas de non-paiement fautif de l'amende serait de cinq jours (V), a ordonné
+la confiscation et la destruction des drogues, accessoires de drogues et objets séquestrés
+sous fiches n° 13515/11 et n° 13810/12 (VI), a ordonné le maintien au dossier à titre
+de pièce à conviction du CD de contrôles téléphoniques rétroactifs qui
+s'y trouvait déjà à ce titre sous fiche n° 13718/12 (VII), a arrêté l'indemnité
+de l'avocat R.________, défenseur d'office de H.________, à 2'948 fr. 40, débours et TVA
+compris (VIII), a mis les frais de la cause, par 17'922 fr. 40, indemnité de son défenseur
+d'office comprise, à la charge de H.________ (IX) et a dit que le remboursement à l'Etat de
+l'indemnité allouée sous chiffres VIII et IX ne pourrait être exigée de H.________
+que lorsque sa situation financière s'améliorerait et le permettrait (X).
+S’agissant de l’indemnité due au défenseur d’office, les premiers juges ont
+expliqué que le montant de 2'948 fr. 40 correspondait à 22 heures de travail fournies par un
+avocat-stagiaire, débours, forfaits de vacation et TVA compris. Ils ont estimé que le mandat
+pouvait raisonnablement être exécuté en 22 heures, à savoir 6 heures pour les
+correspondances, 4 heures 30 pour les téléphones, 2 heures pour les conférences avec le
+client, 5 heures de recherches juridiques et de préparations d'audience, 3 heures 30 pour l'audience
+et la lecture du jugement et une heure pour des opérations diverses.
+B.
+Par acte du 28 novembre 2013, l’avocat R.________ a recouru auprès de la Chambre des recours
+pénale du Tribunal cantonal contre ce jugement en concluant, sous suite de frais et dépens,
+principalement à sa réforme en ce sens qu'une indemnité de défenseur d'office d'un
+montant de 4'195 fr. 80, TVA et débours compris, lui soit allouée, et subsidiairement à
+son annulation et au renvoi de la cause au tribunal de première instance pour nouvelle décision
+dans le sens des considérants.
+Le 13 décembre 2013, le Président du Tribunal correctionnel de l'arrondissement de la Broye
+et du Nord vaudois a indiqué qu'il renonçait à se déterminer.
+Par courrier du 17 décembre 2013, le Ministère public de l'arrondissement du Nord vaudois a
+déclaré qu'il s'en remettait à justice quant à la fixation de l'indemnité du
+défenseur d'office de H.________.
+E
+n  d r o i t :
+1.
+a)
+L’indemnité due au défenseur d’office du prévenu (art. 132 ss CPP [Code de
+procédure pénale suisse du 5 octobre 2007; RS 312.0]) est fixée à la fin de la procédure
+par le Ministère public ou par le Tribunal qui statue au fond (art. 135 al. 2 CPP).
+Le défenseur d’office peut recourir devant l’autorité de recours (cf. art. 20 CPP)
+contre la décision du Ministère public ou du Tribunal de première instance fixant son
+indemnité (art. 135 al. 3 let. a CPP; Ruckstuhl, in: Niggli/Heer/Wiprächtiger [éd.],
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, Bâle 2011, n. 15
+ad art. 135 CPP; Harari/Aliberti, in: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 30 ad art. 135 CPP). Le recours doit être adressé par
+écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP), qui dans le
+canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire;
+RSV 173.01]).
+En
+l’espèce, le recours a été déposé en temps utile devant l’autorité
+compétente par le défenseur d'office de H.________ qui a qualité pour recourir contre
+la décision fixant son indemnité. Il convient donc d’entrer en matière sur le recours.
+b)
+Selon l'art. 395 let. b CPP, si l'autorité de recours est un tribunal collégial, sa direction
+de la procédure statue seule sur le recours lorsqu'il porte sur les conséquences économiques
+accessoires d'une décision et que le montant litigieux n'excède pas 5'000 francs. Aux termes
+de l'art. 13 al. 2 LVCPP, un juge de la Chambre des recours pénale est compétent pour statuer
+sur les recours en tant que juge unique dans les cas prévus à l'art. 395 CPP.
+L’indemnité
+due au défenseur d'office entre dans la notion de conséquences économiques accessoires
+d'une décision (Rémy, in: Kuhn/Jeanneret [éd.], op. cit., n. 2 ad art. 395 CPP; Schmid,
+Handbuch des schweizerischen Strafprozessrechts, 2009, n. 1521; Stephenson/Thiriet, in: Niggli/Heer/Wiprächtiger
+[éd.], op. cit., n. 5 ad art. 395 CPP; Message du Conseil fédéral relatif à l’unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 p. 1057 ss, spéc. p. 1297;
+CREP 21 octobre 2013/628; CREP 15 octobre 2013/637; CREP 12 septembre 2013/575).
+Le
+montant litigieux, qui détermine s’il appartient à la Chambre des recours pénale
+en corps ou à un juge de statuer sur le recours, correspond à la différence entre le montant
+réclamé par le défenseur d’office et la somme allouée par la décision
+attaquée (Stephenson/Thiriet, op. cit., n. 6 ad art. 395 CPP; CREP 21 octobre 2013/628; CREP
+15 octobre 2013/637; CREP 12 septembre 2013/575).
+En
+l’occurrence, le montant réclamé par le recourant s'élève à 4'195 fr. 80
+et celui alloué par jugement du 14 novembre 2013 à 2'948 fr. 40. Ainsi, le montant litigieux
+s'élève à 1'247 fr. 40 (4'195 fr. 80 – 2'948 fr. 40), de sorte que le
+recours relève de la compétence d'un juge unique de la Chambre des recours pénale.
+2.
+Le recourant fait grief au premier juge d’avoir réduit à tort ses honoraires. Il estime
+que la durée totale des activités effectuées n’était pas excessive.
+a)
+Selon l’art. 135 al. 1 CPP, le défenseur d’office est indemnisé conformément
+au tarif des avocats de la Confédération ou du canton du for du procès. Selon la jurisprudence,
+le défenseur d'office a droit au remboursement intégral de ses débours ainsi qu'à
+une indemnité s'apparentant aux honoraires perçus par le mandataire plaidant aux frais de son
+client; pour fixer cette indemnité, l’autorité doit tenir compte de la nature et de l’importance
+de la cause, des difficultés particulières qu’elle peut présenter en fait et en
+droit, du temps que le défenseur d’office y a consacré et de la qualité de son travail,
+du nombre de conférences, d’audiences et d’instances auxquelles il a pris part, du résultat
+obtenu et, enfin, de la responsabilité qu’il a assumée (TF 6B_745/2009 du 12 novembre
+2009 c. 10.1; TF 6B_273/2009 du 2 juillet 2009 c. 2.1; TF 6B_102/2009 du 14 avril 2009 c. 2; TF 6B_960/2008
+du 22 janvier 2009 c. 1.1; TF 6B_947/2008 du 16 janvier 2009 c. 2).
+A
+condition d'être équitable, il est admis que la rémunération de l'avocat d'office
+puisse être inférieure à celle du mandataire choisi (TF 6B_745/2009 du 12 novembre
+2009 c. 10.1; TF 6B_273/2009 du 2 juillet 2009 c. 2.1; TF 6B_960/2008 du 22 janvier 2009 c. 1.1; TF 6B_947/2008
+du 16 janvier 2009 c. 2). Elle doit non seulement couvrir les frais généraux de l'avocat, mais
+aussi lui permettre de réaliser un gain modeste et non seulement symbolique (ATF 132 I 201 c. 8.6).
+Dans le canton de Vaud, l'indemnité horaire de l’avocat d’office breveté est usuellement
+fixée à 180 fr., TVA en sus, et celle de l’avocat-stagiaire à 110 fr. (cf. ATF 132
+I 201; TF 6B_273/2009 du 2 juillet 2009 c. 2.1; cf. aussi art. 2 al. 1 du règlement sur
+l’assistance judiciaire en matière civile [RAJ; RSV 211.02.3] et ATF 137 III 185).
+L’autorité
+chargée de fixer la rémunération du défenseur d’office peut se prononcer sur
+le caractère excessif du temps que celui-ci allègue avoir consacré à sa mission et
+ne rétribuer que l’activité qui s’inscrit raisonnablement dans le cadre de l’accomplissement
+de la tâche du défenseur, à l’exclusion des démarches inutiles ou superflues
+ou des tâches relevant d’un simple soutien moral ou d’une aide sociale sans rapport
+avec la conduite du procès pénal; l’avocat doit toutefois bénéficier d’une
+marge d’appréciation suffisante pour déterminer l’importance du travail qu’exige
+l’affaire (ATF 109 Ia 107 c. 3b).
+b)
+A l’audience du 14 novembre 2013, le recourant a produit une liste des opérations, qui mentionnait
+des opérations sans préciser le temps consacré à chacune d’elles et indiquait
+un total de 29 heures d’activité et 150 fr. de débours non détaillés (cf.
+P. 5 du bordereau produit à l’appui du recours). Les 29 heures annoncées ne comprenaient
+pas la durée de l’audience.
+En l’occurrence, les premiers juges ont admis 22 heures d’activité d’avocat-stagiaire,
+vacations et débours en sus. Or, les explications fournies par le recourant dans son mémoire
+de recours sont convaincantes. En effet, au vu notamment de la gravité de la cause – le prévenu
+a été condamné à dix-huit mois de peine privative de liberté et sa libération
+conditionnelle a été révoquée –, de la durée de la procédure, de
+l’ampleur du dossier – celui-ci comprend près de 450 pages –, du temps consacré
+à la rédaction des déterminations du 5 février 2013 – lesquelles comportent
+19 pages (P. 9 du bordereau produit à l’appui du recours) –, et du temps consacré
+à l’étude du dossier (cf. P. 62/1), il faut admettre avec le recourant que la liste des
+opérations dont il se prévaut ne comporte aucun procédé superflu et que la durée
+d’activité dont elle fait état s’avère adéquate. En outre, il sera tenu
+compte de la durée de l’audience à hauteur de trois heures, de la vacation entre l’étude
+du recourant et le Tribunal d’arrondissement de la Broye et du Nord vaudois, ainsi que des débours.
+Sur le vu de ce qui précède, l’indemnité d’office à allouer à Me
+R.________ doit être arrêtée à 4'136 fr. 40, correspondant à 3’520 fr.
+d’honoraires (soit 32 heures d’activité [29 heures + 3 heures d’audience] à
+110 fr.), à 150 fr. de débours et à 160 fr. de vacations (2 x 80 fr.), plus la TVA sur
+ces montants par 306 fr. 40.
+3.
+En définitive, le recours doit être admis et le jugement entrepris réformé en ce
+sens que l’indemnité due à Me R.________ en sa qualité de défenseur d’office
+est arrêtée à 4'136 fr. 40, TVA et débours compris, à charge de l’Etat.
+Le
+défenseur d'office qui recourt en son nom a droit à des honoraires (Ruckstuhl, in: Niggli/Heer/Wiprächtiger
+[éd.], op. cit., n. 16 et 18 ad art. 135 CPP, p. 913; Pra 2008, n° 46; CREP 9 novembre
+2011/477). L'indemnité qu'il convient d'allouer à ce titre à Me R.________ doit être
+fixée à 420 fr. (3 heures d’avocat-stagiaire et 30 minutes d’avocat), plus la TVA
+par 33 fr. 60, soit un total de 453 fr. 60.
+Les
+frais de la procédure de recours, constitués de l'émolument d'arrêt, par 630 fr.
+(art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux du 28 septembre 2010; RSV 312.03.1]),
+ainsi que l'indemnité allouée au recourant, par 453 fr. 60, seront laissés à la charge
+de l'Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement du 14 novembre 2013 est réformé aux chiffres VIII et IX de son dispositif comme
+il suit :
+«
+VIII.              arrête l'indemnité
+de l'avocat R.________, défenseur d'office de H.________, à 4'136 fr. 40, débours et TVA
+compris.
+IX.              met les frais de la
+cause, par 19'110 fr. 40, indemnité de son défenseur d’office comprise, à la charge
+de H.________ ».
+III.
+L’indemnité allouée à Me
+R.________ pour la procédure de recours est fixée à 453 fr. 60 (quatre cent cinquante-trois
+francs et soixante centimes).
+IV.
+Les frais d'arrêt, par 630 fr. (six cent trente francs), ainsi que l'indemnité allouée
+à Me R.________, par 453 fr. 60 (quatre cent cinquante-trois francs et soixante centimes), sont
+laissés à la charge de l'Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+juge :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. R.________, avocat,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Tribunal correctionnel de l’arrondissement de la Broye et du Nord vaudois,
+-
+M. le Procureur de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
