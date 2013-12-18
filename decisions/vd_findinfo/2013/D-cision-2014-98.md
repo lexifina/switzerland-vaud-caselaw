@@ -1,0 +1,244 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___98"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 98"
+decided: "2013-12-18"
+published: "2013-12-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4207168"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-286.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-301.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2014 / 98
+
+## Regeste
+
+NON-LIEU, OPPOSITION À UN ACTE DE L'AUTORITÉ | 286 CP, 310 CPP (CH), 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.12.2013 Décision / 2014 / 98
+
+NON-LIEU, OPPOSITION À UN ACTE DE L'AUTORITÉ | 286 CP, 310 CPP (CH), 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+806
+PE13.018158-CDT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 18 décembre 2013
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              MM.
+Meylan et Perrot
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+286 CP ; 310 al. 1 let. a, 319 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 30 octobre 2013 par
+A.L.________
+contre l’ordonnance de non-entrée en matière rendue le 8 octobre 2013 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE13.018158-CDT
+.
+Elle considère :
+En fait :
+A.
+Le 28 août 2013, A.L.________ a dénoncé son mari, B.L.________, dont elle vit séparée,
+pour empêchement d’accomplir un acte officiel.
+En substance, elle reproche à ce dernier d’avoir faussement indiqué être domicilié
+en République dominicaine et d’ainsi mettre en échec les notifications de citation du
+Tribunal de district de Sierre, dans le cadre d’une procédure de mesures protectrices de l’union
+conjugale pendante auprès cette autorité.
+B.
+Par ordonnance du 8 octobre 2013, approuvée
+par le Procureur général le 11 octobre suivant, le Ministère public de l’arrondissement
+de La Côte a refusé d’entrer en matière (I) et a laissé les frais à la
+charge de l’Etat (II). En substance, la Procureure a considéré que les éléments
+constitutifs de l’infraction d’empêchement d’accomplir un acte officiel n’étaient
+manifestement pas réunis en ce sens qu’il apparaissait que B.L.________ était effectivement
+domicilié de manière permanente en République dominicaine comme le confirmait l’attestation
+produite par son défenseur (P. 8/2).
+C.
+Par acte du 30 octobre 2013, A.L.________ a recouru
+contre cette ordonnance de non-entrée en matière en concluant, en substance, à son annulation
+et au renvoi de la cause au Procureur de l’arrondissement de La Côte afin qu’il ouvre
+une enquête en vue d’établir le domicile effectif de B.L.________ et qu’il ordonne
+la production du passeport de ce dernier.
+Par courrier du 26 novembre 2013, la Procureure de l’arrondissement de La Côte a indiqué
+qu’elle n’entendait pas déposer de déterminations.
+Dans ses déterminations du 5 décembre 2013, B.L.________ a conclu, avec suite de frais et dépens,
+au rejet du recours. Il a produit un bordereau de pièces (P. 14/1).
+Par courrier du 16 décembre 2013, A.L.________
+a spontanément confirmé ses conclusions.
+En droit
+:
+1.
+a)
+L’art. 382 al. 1 CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dispose que toute partie qui a un intérêt
+juridiquement protégé à l’annulation ou à la modification d’une décision
+a qualité pour recourir contre celle-ci.
+Cette disposition donne une définition générale
+de la qualité pour recourir (Message du Conseil fédéral relatif à l’unification
+du droit de la procédure pénale, FF 2006, p. 1292). La définition de partie doit être
+entendue au sens large et comprendre, en sus des parties stricto sensu (art. 104 CPP), les autres participants
+à la procédure (art. 105 CPP), pour autant que ceux-ci aient participé à la procédure
+de première instance et aient un intérêt juridique à recourir (Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, 2013, n. 4 ad art. 382 CPP et les références
+citées). L’intérêt doit être juridique et direct. L’intérêt
+juridiquement protégé se distingue de l’intérêt digne de protection qui n’est
+pas, lui, nécessairement juridique mais peut aussi être un pur intérêt de fait ;
+ce dernier ne suffisant pas à fonder une qualité pour recourir (Calame, in : Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale, Bâle 2011, n. 1 ad art. 382
+CPP).
+Le simple dénonciateur ne répond pas à la définition de lésé et n'est donc
+pas partie à la procédure (Jeanneret, La partie plaignante et l'action civile, RPS 128/2010,
+p. 299). La règle est d'ailleurs mentionnée à l'art. 301 al. 3 CPP, qui dispose que le
+dénonciateur, qui n'est ni lésé ni partie plaignante, ne jouit d'aucun autre droit en
+procédure, excepté celui prévu à l'art. 301 al. 2 CPP, d'être informé,
+s'il le demande, sur la suite que l'autorité pénale a donnée à sa dénonciation
+(Moreillon/Parein-Reymond, op. cit., n. 12 ad art. 115 CPP).
+b)
+En l’espèce, la recourante, qui ne semble pas s’être constituée partie plaignante,
+est dénonciatrice. On pourrait admettre qu’elle soit lésée, dans la mesure où
+l’infraction qu’elle impute à son époux est susceptible de porter atteinte à
+ses intérêts dans le cadre de la procédure de mesures protectrices de l’union conjugale
+ouverte auprès du Tribunal de district de Sierre. Cette question peut toutefois rester ouverte au
+vu de ce qui suit.
+2.
+Aux termes de l'art. 310 al. 1 let. a CPP, une ordonnance de non-entrée en matière est rendue
+immédiatement – c’est-à-dire sans qu’une instruction soit ouverte (art. 309
+al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 c. 2.1; Cornu, in: Kuhn/Jeanneret (éd.), op.
+cit., n. 2 ad art. 310 CPP) – par le Ministère public lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 s. CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310 CPP)
+ou après une procédure préliminaire limitée aux investigations de la police (art.
+300 al. 1 et 306 s. CPP), que les éléments constitutifs de l'infraction ou les conditions à
+l'ouverture de l'action pénale ne sont manifestement pas réunis (TF 1B_111/2012 du 5 avril
+2012 c. 2.1; TF 1B_67/2012 du 29 mai 2012 c. 2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction, ce qui est le cas lors de litiges purement civils. Une ordonnance de
+non-entrée en matière ne peut être rendue que dans les cas clairs du point de vue des
+faits mais également du droit; s'il est nécessaire de clarifier l'état de fait ou de procéder
+à une appréciation juridique approfondie, le prononcé d'une ordonnance de non-entrée
+en matière n'entre pas en ligne de compte. En règle générale, dans le doute, il convient
+d'ouvrir une enquête pénale (ATF 137 IV 285, JT 2012 IV 160 c. 2.3 et les références
+citées). En revanche, le Ministère public doit pouvoir rendre une ordonnance de non-entrée
+en matière dans les cas où il apparaît d’emblée qu’aucun acte d’enquête
+ne pourra apporter la preuve d’une infraction à la charge d’une personne déterminée
+(TF 1B_67/2012 du 29 mai 2012 c. 3.2). En effet, il ne se justifie pas d’ouvrir une instruction
+pénale (art. 309 CPP) qui devra être close par une ordonnance de classement dans la mesure
+où une condamnation apparaît très vraisemblablement exclue (ATF 138 IV 86 c. 4.1.1; TF
+1B_272/2011 du 22 mars 2012 c. 3.1.1).
+3.
+La recourante reproche à la procureure d’avoir
+considéré que l’infraction d’empêchement d’accomplir un acte officiel
+n’était manifestement pas réalisée sur la seule base de l’attestation fournie
+par l’intimé et sans procéder à l’enquête de voisinage qu’elle
+avait requise, ni à l’analyse du passeport de l’intimé, afin de déterminer
+le domicile réel et effectif de ce dernier. Elle soutient que son mari a obtenu cette attestation
+pour rendre difficiles à l’excès les demandes tendant à sa comparution devant le
+Tribunal de district de Sierre dans le cadre de la procédure de mesures protectrices de l’union
+conjugale qui est pendante.
+a)
+L’art. 286 CP dispose que celui qui aura
+empêché une autorité, un membre d’une autorité ou un fonctionnaire d’accomplir
+un acte entrant dans ses fonctions sera puni d’une peine pécuniaire de 30 jours-amende au
+plus.
+Selon la jurisprudence, pour qu'il y ait opposition aux actes de l'autorité, il faut que l'auteur,
+par son comportement, entrave l'autorité ou le fonctionnaire dans l'accomplissement d'un acte officiel;
+il ne suffit pas qu'il se borne à ne pas obtempérer à un ordre qui lui est donné.
+Il n'est en revanche pas nécessaire que l'auteur parvienne à éviter effectivement l'accomplissement
+de l'acte officiel, il suffit qu'il le rende plus difficile, l'entrave ou le diffère (ATF 133 IV
+97 c. 4.2 ; ATF 127 IV 115 c. 2 et les références citées). La réalisation
+de cette infraction nécessite une certaine activité et vise avant tout une obstruction physique
+(Corboz, Les infractions en droit suisse, 3
+e
+éd., vol. I, Berne 2010, n. 13 ad art. 286 CP).
+b)
+En l’occurrence, si tant est que l’intimé aurait pris un domicile fictif en République
+dominicaine, cela ne constitue pas une opposition aux actes de l’autorité au sens de l’art.
+286 CP. En tout état de cause, les pièces produites par l’intimé démontrent
+que ce dernier est effectivement domicilié de manière permanente dans ce pays depuis plusieurs
+années (P. 101 et 102 du bordereau déposé le 5 décembre 2013). Par ailleurs, contrairement
+à ce que soutient la recourante, rien au dossier n’établit que l’intimé aurait
+cherché à empêcher sa comparution dans le cadre de la procédure de mesures protectrices
+de l’union conjugale pendante devant le Tribunal du district de Sierre ; il a en effet mandaté
+un conseil qui, en sa qualité de représentant, reçoit en son étude les actes judiciaires
+qui lui sont destinés et il a communiqué au tribunal les dates de ses venues en Suisse, de
+sorte qu’une audience a pu être appointée pour le 11 mars 2014 (P. 104 et 105 du bordereau
+déposé le 5 décembre 2013).
+Au vu de ce qui précède, les conditions de l'art. 286 CP ne sont à l’évidence
+pas réalisées et aucune mesure d’instruction complémentaire ne permettrait d’aboutir
+à une autre appréciation. L'ordonnance de non-entrée rendue par la procureure est dès
+lors bien fondée.
+4.
+En définitive, le recours doit être rejeté, dans la mesure où il est recevable, et
+l'ordonnance de non-entrée en matière du 8 octobre 2013 confirmée.
+Les frais de la procédure de recours, constitués de l’émolument d’arrêt,
+par 660 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux du 28 septembre 2010; RSV 312.03.1]),
+seront mis à la charge de A.L.________ qui succombe (art. 428 al. 1 CPP).
+L’intimé, qui a conclu au rejet du recours et qui a procédé avec l'assistance d'un
+conseil professionnel, a droit à une indemnité pour les dépenses occasionnées par
+l'exercice raisonnable de ses droits dans le cadre de la présente procédure de recours, conformément
+à l'art. 429 al. 1 let. a CPP, à la charge de l’Etat.
+Au
+vu de la nature de la procédure et compte tenu des opérations utiles du mandataire, il
+convient
+d'arrêter cette indemnité à 594 fr., TVA et débours compris.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté, dans la mesure où il est recevable.
+II.
+L’ordonnance du 8 octobre 2013 est confirmée.
+III.
+Une indemnité de 594 fr. (cinq cent nonante
+quatre francs), à titre d’indemnité selon l’art. 429 al. 1 let. a CPP, est allouée
+à B.L.________ pour la procédure de recours, à la charge de l’Etat.
+IV.
+Les frais d’arrêt, par 660 fr. (six cent soixante francs), sont mis à la charge de A.L.________.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mme Béatrice Stahel, avocate (pour A.L.________),
+-
+M. Gille Davoine, avocat (pour B.L.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
