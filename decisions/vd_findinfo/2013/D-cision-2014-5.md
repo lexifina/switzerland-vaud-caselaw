@@ -1,0 +1,112 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 5"
+decided: "2013-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4149922"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-386.md"]
+---
+
+# VD Findinfo Décision / 2014 / 5
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 386 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.12.2013 Décision / 2014 / 5
+
+RETRAIT{VOIE DE DROIT} | 386 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+763
+PE13.001646-NKS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 30 décembre 2013
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              MM.
+Meylan et Abrecht
+Greffier
+:              M.
+Addor
+*****
+Art.
+386 al. 2 let. b CPP
+La
+Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 16 décembre 2013 par
+A.X.________
+contre l’ordonnance de séquestre rendue le 11 décembre 2013 par le Ministère public
+de l’arrondissement de l’Est vaudois (dossier
+n°
+PE13.001646-NKS
+).
+Elle
+considère en fait et en droit :
+1.
+Par lettre du 23 décembre 2013, le Président de la Chambre des recours pénale a imparti
+à A.X.________ un délai au 31 décembre 2013 pour compléter son recours et le rendre
+ainsi conforme aux exigences de l’art. 385 al. 1 CPP.
+Le 24 décembre 2013, A.X.________, par son défenseur d’office, a déclaré retirer
+son recours contre l’ordonnance de séquestre du 11 décembre 2013. Il convient d’en
+prendre acte et de rayer la cause du rôle.
+2.
+La partie qui retire son recours étant considérée comme ayant succombé (art. 428
+al. 1, 2
+e
+phrase CPP [Code de procédure pénale du 5 octobre 2007; RS 312.0]), les frais de
+la procédure de recours, constitués en l'espèce du seul émolument d'arrêt, par
+220 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux du 28 septembre 2010; RSV 312.03.1]),
+devraient en principe être mis à la charge de A.X.________. Compte tenu des circonstances,
+ils seront exceptionnellement laissés à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Il est pris acte du retrait du recours.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d'arrêt, par 220 fr. (deux cent
+vingt francs), sont laissés à la charge de l’Etat.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M. Christian Favre, avocat (pour A.X.________),
+-
+Ministère public central,
+et communiqué à :
+-              M. le Procureur de l’arrondissement
+de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
