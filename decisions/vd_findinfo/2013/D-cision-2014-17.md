@@ -1,0 +1,327 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 17"
+decided: "2013-12-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4166531"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 17
+
+## Regeste
+
+NON-LIEU, ESCROQUERIE, ASTUCE | 146 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.12.2013 Décision / 2014 / 17
+
+NON-LIEU, ESCROQUERIE, ASTUCE | 146 CP
+
+TRIBUNAL
+CANTONAL
+778
+PE12.014079-YGL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 31 décembre 2013
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              MM.
+Meylan et Abrecht
+Greffier
+:              M.
+Ritter
+*****
+Art.
+146 al. 1 CP; 319 CPP
+La Chambre des recours pénale du Tribunal cantonal prend séance à huis clos pour statuer
+sur le recours interjeté le 23 août 2013 conjointement par
+D.________
+et
+A.________
+contre l’ordonnance de classement rendue le 12 août 2013 par le Procureur du Ministère
+public central, division entraide, criminalité économique et informatique, dans la cause
+n° PE12.014079-YGL
+dirigée contre
+H.________
+.
+Elle considère:
+E n  f a i t :
+A.
+a)
+Le 7 juin 2012, D.________ et A.________ ont déposé plainte pénale contre H.________ et
+contre toute autre personne que justice dira, pour escroquerie et toute autre infraction (P. 4 et 5).
+Ils ont exposé qu’A.________, détenue par D.________, avait, par convention du 4 décembre
+2008 passée en la forme authentique (P. 7/1), acquis d’une société [...] la moitié
+des actions que celle-ci détenait dans la société [...] et que, de ce fait, A.________
+serait devenue propriétaire de l'entier du capital-actions de [...].
+Cette dernière société était jusqu’alors détenue à parts égales
+par D.________ et H.________, au travers de sociétés leur appartenant. H.________ en était
+administrateur unique, de même qu’il l’était de l’ensemble des sociétés
+communes aux deux associés durant la période de leur collaboration. Du fait qu’A.________
+était, pour sa part, une société dominée directement ou indirectement par D.________,
+H.________ a reçu de celle-ci en contrepartie les 50 % du capital-actions qu’elle détenait
+dans L.________, une autre société créée par les associés du temps de leur entente.
+En définitive, au lieu de posséder l’un et l’autre 50 % du capital-actions de chacune
+des deux sociétés, D.________ et H.________ devenaient chacun seul propriétaire économique
+de l’une des sociétés, à savoir de [...] pour le premier nommé et de L.________
+pour le second. Selon les plaignants, l’opération devait être «neutre» sur
+le plan financier pour les deux parties d’après les explications fournies par H.________ (P.
+5, ch. 5, p. 3; cf. aussi PV aud. 1, ligne 43-49).
+La convention du 4 décembre 2008 prévoit notamment ce qui suit :
+«(…) Les clauses et les conditions de la présente vente sont stipulées comme suit :
+1.              Au sujet de la société
+« [...]», la venderesse (soit [...], réd.) déclare et certifie :
+1.4- qu’elle ( [...], réd.) a rempli, à ce jour, toutes ses obligations fiscales, tant
+communales, cantonales que fédérales; (…);
+1.10- que les passifs (de [...], réd.) sont connus et acceptés à ce jour par «A.________»,
+sans aucune réserve quelconque. (...)».
+Les plaignants ont estimé avoir été victimes d'une escroquerie de la part de H.________
+dans le cadre de la vente précitée pour les deux motifs suivants :
+-
+D'une part, H.________, qui détenait la moitié des actions vendues par l'intermédiaire
+d’ [...] et qui était administrateur de [...], leur aurait caché le fait que cette dernière
+faisait l'objet d'une procédure en rappel d'impôts concernant l'impôt fédéral
+direct dû pour l’exercice 2008; les plaignants avancent ainsi qu’ils ont été
+astreints, par décision de l’autorité fiscale du 14 juillet 2011 rendue à la suite
+d’une procédure en rappel et en soustraction d’impôt ouverte le 24 février
+2011, à verser un supplément d’impôt fédéral direct de 222'912 fr. 50,
+majoré d'intérêts de retard de 20'928 fr. 80, auquel s'ajouterait encore une amende fiscale
+de 167'184 francs. Or, selon ceux-ci, la convention de vente du 4 décembre 2008 spécifiait,
+à son chiffre 1.4 précité, que [...] «a[vait] rempli, à ce jour, toutes ses
+obligations fiscales, tant communales, cantonales que fédérales» (P. 5, ch. 7, pp. 4 s.).
+Les intéressés y voient des déclarations mensongères susceptibles de fonder une accusation
+d’escroquerie, dès lors qu’on leur aurait ainsi garanti l’absence de tout arriéré
+fiscal.
+-
+D'autre part, les plaignants font valoir que H.________ leur aurait dissimulé le fait que, parmi
+les dettes de la société [...], figurait un compte courant actionnaire de 244'066 fr. 36 (P.
+5, ch. 8, p. 5).
+Ainsi, toujours selon les plaignants, l'astuce pénalement punissable résiderait dans le fait
+qu'ils auraient été dissuadés de procéder à des vérifications en raison
+du rapport de confiance qui liait les parties. A cet égard, ils ont précisé que D.________
+et H.________ avaient collaboré étroitement pendant plusieurs années dans le domaine de
+l'immobilier, instaurant ainsi le lien de confiance dont ils se prévalaient (P. 5, ch. 10, p. 6).
+Le comptable de H.________ durant les faits litigieux était un nommé P.________.
+b)
+A réception de la plainte, le Procureur a sollicité des autorités fiscales, par courrier
+du 12 juin 2012, la production du dossier de [...] (P. 9).
+Par ordonnance du 7 août 2012, le Ministère public central, division entraide, criminalité
+économique et informatique, a refusé d'entrer en matière et a laissé les frais à
+la charge de l'Etat. Il considéré qu'il n'y avait eu ni déclarations mensongères
+ni tromperie et que, partant, les éléments constitutifs de l'escroquerie n'étaient pas
+réalisés, s'agissant tant de la problématique fiscale que de l'existence d'un compte courant
+débiteur actionnaires.
+c)
+Cette ordonnance a été annulée par la Chambre des recours pénale par arrêt du
+7 novembre 2012 (n° 705) rendu sur recours de D.________ et d’A.________.
+En reprise de cause, le Procureur a entendu notamment D.________ et H.________ (PV aud. 3 et 1, respectivement).
+Par des déterminations déposées le 5 août 2013, soit dans le délai de prochaine
+clôture, les plaignants ont insisté sur le caractère selon eux déséquilibré
+de la transaction incriminée, dû notamment à la question fiscale déjà décrite
+(P. 38).
+B.
+Par ordonnance du 12 août 2013, le Procureur a ordonné le classement de la procédure pénale
+dirigée contre H.________ pour escroquerie (I) et a laissé les frais de procédure à
+la charge de l’Etat (II).
+Le Procureur a retenu que les éléments constitutifs de l’infraction d’escroquerie
+n’étaient pas réalisés dans le cas particulier. Concernant d’abord le contentieux
+fiscal, il a relevé que, s’agissant d’une convention passée le 4 décembre
+2008 sur la base d’une procuration délivrée à D.________ par A.________ le 25 septembre
+précédent, il semblait aller de soi que les impôts dus par [...] pour l’exercice
+fiscal 2008 ne pouvaient alors avoir déjà été réglés. En particulier, la
+disposition contractuelle dont se prévalaient les plaignants (ch. 1.4 de la convention du 4 décembre
+2008), ne saurait avoir la signification qu’ils lui conféraient, puisque le vendeur ne pouvait
+donner quittance pour une tranche d’impôt non encore déterminée, ce que D.________
+ne pouvait ignorer comme professionnel de l’immobilier. De même, toujours selon le procureur,
+la clause en question ne saurait être interprétée comme impliquant une obligation de constituer
+une provision fiscale à la charge de H.________ (ordonnance, ch. 2 et 3). Le procureur a ajouté
+que l’échange d’actions incriminé n’était qu’un des volets de
+l’opération, puisque deux autres sociétés communes devaient également faire
+l’objet d’une même processus d’échange (ordonnance, ch. 4).
+S’agissant, ensuite, du compte courant actionnaire prétendument celé par H.________,
+le magistrat a estimé que la dette en question découlait en réalité du compte créancier-actionnaire
+de D.________ lui-même (P. 29/1), le montant de 244'066 fr. 36 représentant le solde négatif
+de ce compte; il ne s’agissait ainsi pas d’une dette personnelle de H.________, mais d’une
+dette liée aux mouvements opérés par le plaignant (ordonnance, ch. 3). Partant, rien ne
+permettrait de dire que ce dernier aurait trompé ses partenaires à quelqu’égard
+que ce soit.
+C.
+Le 23 août 2013, D.________ et A.________, agissant conjointement, ont recouru contre l’ordonnance
+du 12 août 2013, concluant, sous suite de frais et dépens, à son annulation et à
+ce que le dossier de la cause soit renvoyé au Ministère public, principalement pour permettre
+la mise en accusation de H.________ dans le sens des considérants de l’arrêt à intervenir,
+notamment pour escroquerie, et subsidiairement afin qu’une nouvelle décision soit rendue à
+l’encontre de P.________, également dans le sens des considérants de l’arrêt
+à intervenir.
+E n  d r o i t :
+1.
+L’ordonnance attaquée a été notifiée aux plaignants, par leur conseil commun,
+au plus tôt le 13 août 2013. Le délai de recours a, dans cette hypothèse, commencé
+à courir le lendemain pour venir à échéance le 23 août 2013 (art. 90 al. 1 CPP
+[Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]). Interjeté ce même
+jour, le recours l’a été dans le délai légal (art. 322 al. 2 et 396 al. 1 CPP),
+contre une décision du Ministère public (art. 393 al. 1 let. a CPP), par les parties plaignantes
+qui ont qualité pour recourir (art. 382 al. 1 CPP). Interjeté dans les formes prescrites (art.
+385 al. 1 CPP), le recours est ainsi recevable.
+2.
+a)
+Aux termes de l'art. 319 al. 1 CPP, le Ministère public ordonne le classement de tout ou partie
+de la procédure notamment lorsque aucun soupçon justifiant une mise en accusation n’est
+établi (let. a), à savoir lorsque les soupçons initiaux qui ont conduit le ministère
+public à ouvrir une instruction n’ont pas été confirmés (Grädel/Heiniger,
+in
+:
+Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Bâle 2011, n. 8 ad art. 319 CPP, p. 2208), ou lorsque les éléments constitutifs d’une
+infraction ne sont pas réunis (let. b), à savoir lorsque le comportement incriminé, quand
+bien même il serait établi, ne réalise les éléments constitutifs objectifs et
+subjectifs d’aucune infraction pénale (Grädel/Heiniger, op. cit., n. 9 ad art. 319 CPP).
+b)
+De manière générale, les motifs
+de classement sont ceux «qui déboucheraient à coup sûr ou du moins très probablement
+sur un acquittement ou une décision similaire de l'autorité de jugement» (Message du Conseil
+fédéral relatif à l'unification du droit de la procédure pénale du 21 décembre
+2005, FF 2006 p. 1057 ss, 1255). Selon la jurisprudence, un classement s'impose donc lorsqu'une condamnation
+paraît exclue avec une vraisemblance confinant à la certitude; la possibilité de classer
+la procédure ne saurait toutefois être limitée à ce seul cas, car une interprétation
+aussi restrictive imposerait un renvoi en jugement, même en présence d'une très faible
+probabilité de condamnation. Le principe «
+in
+dubio pro duriore
+» – qui ne figure
+pas expressément dans la loi mais se déduit indirectement des art. 324 al. 1 et 319 al. 1 CPP
+(ATF 137 IV 219 c. 7; TF 1B_338/2011 du 24 novembre 2011 c. 4.1) – exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement (ATF 138 IV 86 c. 4.1.1; TF 1B_272/2011
+du 22 mars 2012 c. 3.1.1), voire même lorsque les probabilités d'acquittement et de condamnation
+apparaissent équivalentes en présence d'une infraction grave (ATF 138 IV 86 c. 4.1.2; ATF 137
+IV 285 c. 2.5).
+3.
+a)
+Réprimant
+l’escroquerie, l’art. 146 al. 1 CP (Code pénal; RS 311.0) dispose que celui qui, dans
+le dessein de se procurer ou de procurer à un tiers un enrichissement illégitime, aura astucieusement
+induit en erreur une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais
+ou l'aura astucieusement confortée dans son erreur et aura de la sorte déterminé la victime
+à des actes préjudiciables à ses intérêts pécuniaires ou à ceux d'un
+tiers sera puni d'une peine privative de liberté de cinq ans au plus ou d'une peine pécuniaire.
+L'escroquerie
+suppose en particulier que l'auteur ait usé de tromperie et que celle-ci ait été astucieuse
+(ATF 128 IV 18 c. 3a; ATF 122 II 422 c. 3a; ATF 122 IV 246 c. 3a et les arrêts cités).
+L'astuce est réalisée lorsque l'auteur recourt à un édifice de mensonges, à
+des manœuvres frauduleuses ou à une mise en scène, mais aussi lorsqu'il donne simplement
+de fausses informations, si leur vérification n'est pas possible, ne l'est que difficilement ou
+ne peut raisonnablement être exigée, de même que si l'auteur dissuade la dupe de vérifier
+ou prévoit, en fonction des circonstances, qu'elle renoncera à le faire en raison d'un rapport
+de confiance particulier (ibid.). L'astuce n'est toutefois pas réalisée si la dupe pouvait
+se protéger avec un minimum d'attention ou éviter l'erreur avec le minimum de prudence que
+l'on pouvait attendre d'elle (ATF 128 IV 18 c. 3a; ATF 126 IV 165 c. 2a). U
+n
+édifice de mensonges, pour être astucieux, ne résulte ainsi pas nécessairement de
+l'accumulation de plusieurs mensonges. Il n'est bien plutôt réalisé que si les mensonges
+sont l'expression d'une rouerie particulière et se recoupent de manière si subtile que même
+une victime faisant preuve d'esprit critique se laisse tromper (ATF 119 IV 28 c. 3c; Dupuis et alii,
+op. cit., n. 12 ad art. 146 CP).
+b)
+En l’espèce, les recourant ne reviennent pas sur la démonstration du procureur s’agissant
+de la question fiscale et de celle du compte courant débiteur, incriminés l’une et l’autre
+dans la plainte. On doit donc considérer que ces points ne sont plus litigieux.
+En revanche, les recourants soutiennent avoir été trompés par le prévenu H.________,
+respectivement par son comptable P.________, le premier nommé ayant profité du lien de confiance
+existant avec D.________ pour obtenir une contrepartie déséquilibrée lors de la transaction
+du 4 décembre 2008 et le second ayant agi comme son «homme de main» (recours, ch. 21,
+p. 4).
+Les recourants mettent en avant les différences entre les actifs et les passifs des deux sociétés
+lors de l’échange de leurs actions (recours, ch. 16 et 17, p. 7). Même en admettant que
+leur analyse chiffrée soit juste, on ne voit pas sur quel fait ils se fondent pour prétendre
+avoir été trompés. En effet, la convention, passée devant notaire, prévoyait
+expressément, sous chiffre 1.10, que «les passifs (de [...], réd.) [étaie]nt connus
+et acceptés à ce jour par «A.________», sans aucune réserve quelconque»
+(P. 7/1). Ils ne l’expliquent d’ailleurs pas. De plus, ainsi que le mentionne l’ordonnance
+attaquée, sans que les recourants ne la contestent sur ce point, cet échange n’était
+que l’un des volets de l’opération, puisque deux autres sociétés communes
+à D.________ et à H.________ devaient également être l’objet du même processus
+d’échange (ordonnance, ch. 4).
+c)
+Certes, le prévenu, en sa qualité d’administrateur unique non seulement de [...], mais
+encore de l’ensemble des sociétés communes aux deux associés durant la période
+de leur collaboration, avait probablement la confiance de ses partenaires, notamment de D.________, avant
+que la situation ne se dégrade entre associés. Toutefois, rien n’indique qu’il
+en ait abusé et ait voulu les tromper. Ainsi, les actes ont été passés devant notaire
+et c’est l’officier public qui a préparé la répartition des sociétés,
+ce que confirment du reste les plaignants (recours, ch. 12 et 13, p. 6). Le fait que les documents nécessaires
+aient été remis au notaire par le prévenu n’y change rien, pas plus que les déclarations
+du prévenu au Procureur le 5 mars 2013, selon lesquelles aucune des sociétés n’avait
+de liquidités au moment de l’échange d’actions (PV aud. 1, lignes 26-27, 172-174
+et 199-201). Cet élément tendrait bien plutôt à accréditer sa bonne foi.
+Il s’ensuit que les recourants ne fournissent pas le moindre indice un tant soit peu sérieux
+d’une intention dolosive du prévenu, respectivement de son comptable, laquelle ne ressort
+du reste d’aucun élément du dossier. On ne voit au surplus pas quelle mesure d’instruction
+complémentaire permettrait d’établir d’autres ou plus amples faits déterminants
+à cet égard. L’élément constitutif légal de la tromperie, à plus
+forte raison de l’astuce, n’est ainsi pas donné, ce qui exclut toute escroquerie.
+d)
+Dans ces conditions, une mise en accusation de
+l’intimé comme, du reste, de quiconque, ne pourrait aboutir qu’à un acquittement
+avec une vraisemblance confinant à la certitude. Il apparaît bien plutôt que le litige
+est de nature exclusivement civile.
+4.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans autre échange d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt (art. 422 al. 1 CPP), par 990 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux;
+RSV 312.03.1]), seront mis à la charge des recourants, qui succombent (art. 428 al. 1 CPP), par
+moitié chacun et solidairement entre eux (art. 418 al. 1 et 2 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 12 août 2013 est confirmée.
+III.
+Les frais du présent arrêt, par 990
+fr. (neuf cent nonante francs), sont mis à la charge de D.________ et d’A.________, par moitié
+chacun et solidairement entre eux.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Alain Dubuis, avocat (pour D.________ et A.________),
+-
+Me Gérald Page, avocat (pour H.________),
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur du Ministère public central, division entraide, criminalité économique
+et informatique,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
