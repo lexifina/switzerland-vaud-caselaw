@@ -1,0 +1,276 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 7"
+decided: "2014-01-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4152214"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 7
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE RÉCIDIVE, PROPORTIONNALITÉ | 221 al. 1 let. c CPP (CH), 393 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.01.2014 Décision / 2014 / 7
+
+DÉTENTION PRÉVENTIVE, RISQUE DE RÉCIDIVE, PROPORTIONNALITÉ | 221 al. 1 let. c CPP (CH), 393 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1
+PE13.009218-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 6 janvier 2014
+__________________
+Présidence
+de               M.
+Abrecht
+,
+président
+Juges
+:              MM.
+Meylan et Perrot
+Greffière
+:              Mme
+Saghbini
+*****
+Art.
+221 al. 1 let. c, 393 al. 1 let. c CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 30 décembre 2013 par
+N.________
+contre l'ordonnance de refus de libération de la détention provisoire rendue le 23 décembre
+2013 par le Tribunal des mesures de contrainte dans la cause
+n° PE13.009218-CPB
+.
+Elle considère :
+E
+n  f a i t :
+A.
+a) N.________ a été appréhendé par la police le 4 septembre 2013. Une instruction
+pénale a été ouverte contre lui par le Ministère public de l’arrondissement
+du Nord vaudois pour escroquerie par métier et faux dans les titres.
+Durant la période comprise entre les mois de mai 2012 et de janvier 2013, il est reproché
+à N.________ d’avoir provoqué une série d’accidents de la circulation routière
+– au moins onze – et d’avoir produit de fausses factures dans le but de toucher indûment
+des prestations de la part des assurances. Il lui est également reproché d’avoir tenté,
+à cinq reprises, d’obtenir des prestations en prétendant avoir été victime
+de douleurs au poignet, alors que ses douleurs étaient préexistantes et consécutives à
+une chute survenue en sortant de chez lui.
+b) Par ordonnance du 6 septembre 2013, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire du prévenu pour une durée maximale de trois mois, soit au plus tard jusqu'au 4 décembre
+2013.
+Par ordonnances du 25 septembre 2013, respectivement du 8 octobre 2013, le Tribunal des mesures
+de contrainte a rejeté les demandes de mise en liberté formées par N.________ le 13 septembre
+et le 1
+er
+octobre 2013.
+Par ordonnance du 22 novembre 2013, le Tribunal des mesures de contrainte a ordonné la prolongation
+de la détention provisoire pour une durée de trois mois, soit jusqu’au 4 mars 2014, retenant
+le risque de réitération.
+B.
+a) Le 13 décembre 2013, N.________ a requis sa mise en liberté provisoire, invoquant la violation
+du principe de proportionnalité et exposant que le risque de récidive était très
+faible. Il a avancé que, dans la mesure où ses procédés avaient toujours été
+les mêmes et que les assurances étaient au courant de ses agissements, elles procéderaient
+à tous contrôles utiles en cas de réception de nouvelles requêtes tendant à
+une indemnisation. Il a également soutenu que le risque de récidive pouvait être pallié
+autrement que par le maintien en détention provisoire, notamment par le fait qu’il avait envoyé
+son permis de conduire au Service des automobiles et qu’il s’engageait à renoncer à
+conduire un véhicule, à tout le moins jusqu’à son jugement. Il a proposé que
+sa mise en liberté soit subordonnée à la condition qu’il s’abstienne de conduire
+tout véhicule à moteur. Enfin, il a soutenu qu’il n’avait causé qu’un
+dommage somme toute assez modeste.
+Dans sa prise de position du 16 décembre 2013, le Ministère public a conclu au rejet de cette
+demande, invoquant le risque de réitération et estimant que le fait que le prévenu ait
+envoyé son permis de conduire au Service des automobiles ne constituait pas une garantie suffisante,
+étant donné qu’il pouvait sans difficultés récupérer son permis ou même
+conduire des véhicules malgré l’absence d’un permis, eu égard à sa personnalité,
+au risque de récidive mis en évidence par l’expertise psychiatrique et aux récidives
+récurrentes qui survenaient depuis de nombreuses années, dès que l’intéressé
+se retrouvait en liberté. Le Procureur a encore ajouté que les escroqueries commises par N.________
+s’étendaient au-delà du domaine des véhicules automobiles puisque ce dernier n’avait
+apparamment pas annoncé tous ses revenus au Service social alors qu’il percevait le revenu
+d’insertion. Enfin, il a jugé la prise de conscience du prévenu toute relative dans la
+mesure où ce dernier contestait avoir intentionnellement provoqué la majorité des accidents
+dans lesquels il avait été impliqué alors que plusieurs éléments tendaient à
+démontrer le contraire.
+Par courrier du 18 décembre 2013, N.________ a confirmé sa requête de mise en liberté
+provisoire.
+b) Par ordonnance du 23 décembre 2013, le Tribunal des mesures de contrainte a rejeté la demande
+de libération de la détention provisoire de N.________ (I) et a dit que les frais de la décision
+suivaient le sort de la cause (II). Le Tribunal des mesures de contrainte, se référant intégralement
+aux considérants de ses quatre ordonnances précédentes – qui n’ont pas été
+entreprises – a considéré que les soupçons qui pesaient sur le prévenu étaient
+sérieux et qu’aucun nouvel élément ne permettait à ce jour de les lever. S’agissant
+du risque de réitération que présentait N.________, il a retenu que celui-ci était
+réalisé et existait toujours. Par ailleurs, il a conclu que ni la mesure de substitution proposée
+par le prévenu ni aucune autre ne saurait réduire efficacement le risque de récidive.
+Enfin, il a jugé le principe de proportionnalité respecté, l’intéressé
+ayant subi alors 111 jours de détention provisoire.
+C.
+Par acte du 30 décembre
+2013, N.________ a recouru auprès de la Chambre des recours pénale contre cette ordonnance
+en concluant, sous suite de frais et dépens, à ce que sa mise en liberté soit ordonnée,
+subsidiairement à ce que cette mise en liberté soit subordonnée à la condition qu’il
+s’abstienne de conduire un véhicule à moteur.
+E
+n  d r o i t :
+1.
+Interjeté dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0]) contre une décision du Tribunal des mesures de contrainte dans
+un cas prévu par le CPP (art. 393 al. 1 let. c CPP), par le détenu qui a qualité pour
+recourir (art. 222 et 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable.
+2.
+a) Selon l’art.
+221 al. 1 CPP, la détention provisoire et la détention pour des motifs de sûreté
+ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné d’avoir
+commis un crime ou un délit et qu’il y a sérieusement lieu de craindre qu’il se
+soustraie à la procédure pénale ou à la sanction prévisible en prenant la fuite
+(let. a), qu’il compromette la recherche de la vérité en exerçant une influence
+sur des personnes ou en altérant des moyens de preuve (let. b) ou qu’il compromette sérieusement
+la sécurité d’autrui par des crimes ou des délits graves après avoir déjà
+commis des infractions du même genre (let. c). Selon l'art. 212 al. 3 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne doivent pas durer plus longtemps
+que la peine privative de liberté prévisible.
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (ATF 139 IV 186 c. 2 ; Schmocker,
+in : Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse,
+Bâle 2011, nn. 7 ss ad art. 221 CPP, pp. 1024 ss).
+b) En l’espèce, le recourant ne conteste à juste titre pas l’existence de présomptions
+suffisantes de culpabilité à son encontre.
+3.
+L’ordonnance attaquée se fondant sur le risque de récidive, il convient d'examiner s'il
+existe un tel risque, ce que le recourant conteste.
+a) Il ressort de l’art. 221 al. 1 let. c CPP que le maintien en détention provisoire respectivement
+pour des motifs de sûreté se justifie notamment lorsqu'il y a sérieusement lieu de craindre
+que le prévenu compromette sérieusement la sécurité d'autrui par des crimes, ou à
+tout le moins par des délits graves (cf. ATF 137 IV 84 c. 3.2, JT 2011 IV 325), après avoir
+déjà commis des infractions du même genre. Selon la jurisprudence, il convient de faire
+preuve de retenue dans l'appréciation du risque de récidive : le maintien en détention
+ne peut se justifier pour ce motif que si le pronostic est très défavorable et si les délits
+dont l'autorité redoute la réitération sont graves (ATF 137 IV 13 c. 4.5 p. 21; ATF
+135 I 71 c. 2.3 p. 73; ATF 133 I 270 c. 2.2 p. 276 et les arrêts cités, JT 2011 IV 3;
+TF 1B_39/2013 du 14 février 2013 c. 2.1). Le risque de récidive peut également
+se fonder sur les infractions faisant l'objet de la procédure pénale en cours, si le prévenu
+est fortement soupçonné – avec une probabilité confinant à la certitude –
+de les avoir commises (ATF 137 IV 84 c. 3.2 et les références citées, JT 2011 IV 325;
+TF 1B_39/2013
+ibidem
+).
+Pour établir son pronostic, le juge doit s'attacher à la situation personnelle du prévenu,
+en tenant compte notamment de ses antécédents judiciaires, de sa fragilité psychique,
+de la nature des infractions commises, ainsi que du nombre et de la fréquence des infractions en
+cause (Schmocker, in : Kuhn/Jeanneret (éd.), op. cit., n. 20 ad art. 221 CPP). La prévention
+du risque de récidive doit permettre de faire prévaloir l'intérêt à la sécurité
+publique sur la liberté personnelle du prévenu (ATF 137 IV 13 c. 4.5).
+b) En l'espèce, le recourant a été condamné le 9 décembre 2009 par le Tribunal
+correctionnel de La Broye et du Nord vaudois à une peine privative de liberté de 3 ans pour
+escroquerie, induction de la justice en erreur, incendie intentionnel et faux dans les titres. De plus,
+il a été renvoyé en jugement par acte d’accusation du 13 mars 2013 notamment pour
+les infractions d’escroquerie par métier, de faux dans les titres et d’induction de
+la justice en erreur, lesquelles auraient été commises entre les mois de décembre 2008
+et de mars 2010. Dans le cadre de la procédure précitée, N.________ a été
+détenu préventivement pendant 303 jours. Enfin, il est prévenu d’escroquerie par
+métier et de faux dans les titres dans la procédure ouverte le 8 mai 2013 par le Ministère
+public de l’arrondissement du Nord vaudois. Il y a lieu de relever que malgré cela, l’intéressé
+a récidivé. Le pronostic est clairement défavorable. On peut admettre du reste que l’activité
+délictueuse de N.________ est de nature à compromettre sérieusement la sécurité
+d’autrui au sens de l’art. 221 al. 1 let. c CPP puisque les infractions dont on peut
+redouter la réitération sont des crimes mettant en danger la sécurité des usagers
+de la route et que l’expertise de l’intéressé, effectuée le 3 novembre 2010,
+met notamment en évidence l’absence par ce dernier de prise de conscience de ses actes.
+Compte tenu de ce qui précède, le risque de récidive est manifeste.
+4.
+À l’instar du Tribunal des mesures de contrainte, la Chambre des recours pénale considère
+qu’aucune mesure de substitution ne présente de garanties suffisantes. En effet, les mesures
+proposées par le prévenu ne suffisent pas à pallier le risque de réitération.
+A cet égard, on relèvera que le dépôt de son permis de conduire ne saurait l’empêcher
+de conduire un véhicule automobile sans autorisation.
+Par ailleurs, la demande subsidiaire de N.________ d’assortir sa mise en liberté de la condition
+qu’il s’abstienne de conduire un véhicule à moteur paraît insuffisante pour
+garantir l’absence de risque de réitération, compte tenu de l’intensité dudit
+risque, de la nature des faits reprochés au prévenu, de ses antécédents et de l’absence
+de prise de conscience de ses actes.
+5
+a) Concernant le respect du principe de proportionnalité, il y a lieu de relever que la proportionnalité
+de la détention provisoire doit être examinée au regard de l’ensemble des circonstances
+concrètes du cas d’espèce (ATF 133 I 168 c. 4.1 et les arrêts cités). A cet
+égard, il est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle
+n’est pas très proche de la durée de la peine privative de liberté à laquelle
+il faut s’attendre concrètement en cas de condamnation (TF 1B_411/2011 du 31 août 2011
+c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1).
+b) En l’espèce, le recourant est détenu depuis le 4 septembre 2013, soit depuis environ
+quatre mois. Compte tenu de ses antécédents et des charges qui pèsent sur lui, il s'expose
+à une peine privative de liberté d’une durée nettement supérieure à celle
+de la détention provisoire subie à ce jour. Par conséquent, le principe de la proportionnalité
+est respecté.
+6.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d’écritures (art. 390 al. 2 CPP) et l'ordonnance confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l'émolument
+d'arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux;
+RSV 312.03.1]), et des frais imputables à la défense d’office (art. 422 al. 1 et
+2 let. a CPP), fixés à 450 fr. plus la TVA, par 36 fr., soit 486 fr., seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP). Le remboursement à l’Etat de l’indemnité
+allouée au défenseur d’office de N.________ ne sera toutefois exigible que pour autant
+que la situation économique de ce dernier se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 23 décembre 2013 est
+confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de N.________ est fixée à 486 fr. (quatre cent huitante-six francs).
+IV.
+Les frais du présent arrêt, par 770
+fr. (sept cent septante francs), ainsi que l’indemnité due au défenseur d’office
+de N.________ par 486 fr (quatre cent huitante-six francs), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité
+allouée au chiffre III ci-dessus sera exigible pour autant que la situation économique du recourant
+se soit améliorée.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Jean Lob, avocat (pour N.________),
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Procureur de l’arrondissement du Nord vaudois,
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1 LTF).
+La greffière :
