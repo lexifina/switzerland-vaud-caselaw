@@ -1,0 +1,113 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___40"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 40"
+decided: "2014-01-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4171998"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Décision / 2014 / 40
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 13.01.2014 Décision / 2014 / 40
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+PP
+36/13 - 4/2014
+ZI13.047247
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Décision
+du 13 janvier 2014
+__________________
+Présidence
+de               Mme
+Berberat
+,
+juge unique
+Greffier
+:
+M.              Bohrer
+*****
+Cause
+pendante entre :
+Fondation
+collective A.________
+, c/o [...], à [...],
+demanderesse,
+et
+S.________,
+à Lausanne, défenderesse.
+_______________
+Art.
+94 al. 1 let. c LPA-VD
+E
+n  f a i t  e t  e n d r o i t  :
+Vu
+la demande déposée le 31 octobre
+2013 par la Fondation collective A.________ (ci-après : la demanderesse) contre S.________
+(ci-après : la défenderesse) auprès du Tribunal de céans en le priant de conclure
+à ce que :
+"1.
+La défenderesse soit obligée de verser à la demanderesse la somme de CHF 2'726.65 plus
+intérêt de 5% à compter du 09.06.2013, ainsi que les frais de poursuite.
+2.
+L’opposition faite dans les poursuites n° 6744204 de l’Office des poursuites de [...]
+soit intégralement levée.
+3.
+Tous les frais et dépens soient mis à la charge de la défenderesse."
+,
+vu la déclaration du 10 janvier 2014 par laquelle la demanderesse a informé le Tribunal de
+céans du fait que "suite au versement intégral du montant de la demande ZI13.074247 par
+le preneur d’assurances, la Fondation collective A.________ retire sa demande du 31.10.2013 dirigée
+contre S.________",
+vu les pièces au dossier ;
+considérant qu
+'il convient de prendre acte
+du retrait de la demande par suite du versement intégral par la défenderesse, en sa qualité
+de preneur d'assurances, de la somme réclamée par la Fondation collective A.________,
+qu’il y a par conséquent lieu de rayer la cause du rôle par suite de retrait de la demande,
+selon la procédure de l’art. 94 al. 1 let. c LPA-VD (loi vaudoise sur la procédure administrative ;
+RSV 173.36),
+qu’il n’y a pas lieu de percevoir des frais de justice ni d’allouer de dépens
+(art. 91 et 99 LPA-VD).
+Par
+ces motifs,
+la
+juge unique
+prononce :
+I.
+La cause est rayée du rôle par suite de retrait de la demande.
+II.
+Il n’est pas perçu de frais judiciaires ni alloué de dépens.
+La
+juge unique :               Le
+greffier :
+Du
+La décision qui précède est notifiée à :
+‑
+Fondation collective A.________, c/o [...], à [...],
+‑
+S.________, à [...],
+‑
+Office fédéral des assurances sociales, à Berne,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière de droit public devant
+le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
