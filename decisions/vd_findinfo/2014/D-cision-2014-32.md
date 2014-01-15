@@ -1,0 +1,292 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 32"
+decided: "2014-01-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4171313"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 32
+
+## Regeste
+
+SOUPÇON, RISQUE DE FUITE, PROPORTIONNALITÉ, DÉTENTION PRÉVENTIVE | 221 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 15.01.2014 Décision / 2014 / 32
+
+SOUPÇON, RISQUE DE FUITE, PROPORTIONNALITÉ, DÉTENTION PRÉVENTIVE | 221 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+PE13.013604-GRV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 15 janvier 2014
+__________________
+Présidence
+de               M.
+abrecht
+,
+président
+Juges
+:              MM.
+Meylan et Maillard
+Greffier
+:              M.
+Valentino
+*****
+Art.
+221 al. 1, 227, 393 al. 1 let. c CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours interjeté
+le 10 janvier 2014 par
+T.________
+contre l’ordonnance de prolongation de la
+détention provisoire rendue le 30 décembre 2013 par le Tribunal des mesures de contrainte dans
+la cause
+n° PE13.013604-GRV.
+Elle considère :
+E n  f a i t :
+A.
+a)
+Le 6 juillet 2013, une instruction a été
+ouverte contre T.________ par le Ministère public de l’arrondissement de Lausanne pour brigandage,
+ensuite des plaintes déposées par [...], [...], [...], [...] et [...].
+Il lui est reproché d’avoir, dans la nuit du 6 juillet 2013, au Montreux Jazz Festival, en
+compagnie de F.________ et C.________, agressé ces cinq personnes afin de leur dérober leurs
+affaires, en utilisant des sprays lacrymogènes et en assénant des coups de pied à certaines
+d’entre elles.
+T.________ est également mis en cause pour avoir, toujours dans la nuit du 6 juillet 2013, volé
+à [...] son téléphone cellulaire Iphone 4 en compagnie de ses comparses et avoir, durant
+cette même nuit, commis seul un vol par effraction dans une villa à Payerne.
+Le matin du 6 juillet 2013, le prévenu a été appréhendé, à Genève,
+au volant de son véhicule, dans lequel se trouvaient également F.________ et C.________.
+b)
+Il
+est également ressorti de l’instruction, en particulier de ses auditions des 13 août
+et 12 novembre 2013, que T.________, après avoir consommé de la cocaïne et sans être
+titulaire d’un permis de conduire valable, avait véhiculé ses comparses de Grenoble à
+Montreux, qu’il était entré illégalement en Suisse le 5 juillet 2013, ne bénéficiant
+d’aucun document l’autorisant à voyager dans l’espace Schengen, et que le lendemain,
+il avait conduit sur le chemin du retour, entre Montreux et Genève, alors qu’il était
+sous l’emprise de l’alcool et de médicaments.
+B.
+a)
+Par ordonnance du 8 juillet 2013, confirmée
+par arrêt de la Chambre des recours pénale du 23 juillet 2013, le Tribunal des mesures de contrainte
+a ordonné la détention provisoire de T.________ pour une durée maximale de trois mois,
+soit au plus tard jusqu’au 6 octobre 2013.
+b)
+Par
+ordonnance du 30 septembre 2013, le Tribunal des mesures de contrainte a ordonné la prolongation
+de la détention provisoire de T.________ pour une durée maximale de trois mois, soit au plus
+tard jusqu’au 6 janvier 2014.
+c)
+Par demande du 20 décembre 2013, le Ministère public a proposé au Tribunal des mesures
+de contrainte d’ordonner la prolongation de la détention provisoire de T.________ pour une
+durée d’un mois, afin de permettre la mise en accusation du prévenu au terme du délai
+de prochaine clôture de l’instruction échéant le 6 janvier 2014.
+Par ordonnance du 30 décembre 2013, le Tribunal des mesures de contrainte a ordonné la prolongation
+de la détention provisoire de T.________ (I), a fixé la durée maximale de la prolongation
+à un mois, soit au plus tard jusqu’au 6 février 2014 (II), et a dit que les frais de
+la décision, par 150 fr., suivaient le sort de la cause (III).
+Cette autorité, renvoyant aux motifs exposés à l’appui de ses précédentes
+ordonnances et au précédent arrêt de la cour de céans (CREP, 23 juillet 2013/445),
+a retenu qu’il existait des indices de culpabilité suffisants et que le risque de fuite était
+avéré.
+C.
+Par acte du 10 janvier 2014, T.________, par l'intermédiaire de son défenseur d'office, a recouru
+contre cette ordonnance en concluant principalement au rejet de la demande de prolongation de sa détention
+provisoire; à titre subsidiaire, il a conclu à l’annulation de l’ordonnance et
+au renvoi de la cause au Tribunal des mesures de contrainte pour nouvelle décision.
+Il n’a pas été ordonné d’échanges d’écritures.
+E n  d r o i t :
+1.
+Aux termes de l’art. 393 al. 1 let. c CPP (Code de procédure pénale suisse du 5 octobre
+2007; RS 312.0), le recours est recevable contre les décisions du tribunal des mesures de contrainte
+dans les cas prévus par le code.
+L’art.
+222 CPP prévoit que le détenu peut attaquer devant l’autorité de recours les décisions
+ordonnant une mise en détention provisoire ou une mise en détention pour des motifs de sûreté
+ou encore la prolongation ou le terme de cette détention. Le recours doit être adressé
+par écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP), qui, dans le
+canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi d’organisation
+judiciaire; RSV 173.01]).
+En l’espèce, il y a lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente et qui satisfait aux conditions
+de forme posées par l’art. 385 al. 1 CPP.
+2
+Le recourant conteste l’existence de soupçons
+suffisants à son encontre.
+a)
+Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d’avoir commis un crime ou un délit et qu’il y a sérieusement lieu de craindre
+qu’il se soustraie à la procédure pénale ou à la sanction prévisible en
+prenant la fuite (let. a), qu’il compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuve (let. b) ou qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre (let. c).
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (ATF 139 III 186 c. 2; Schmocker,
+in: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 7 ss ad art. 221 CPP, pp. 1024 ss). Il n’appartient cependant pas au juge de la détention
+de procéder à une pesée complète des éléments à charge et à décharge
+et d’apprécier la crédibilité des personnes qui mettent en cause le prévenu;
+il doit uniquement examiner s’il existe des indices sérieux de culpabilité justifiant
+une telle mesure. L’intensité des charges propres à motiver un maintien en détention
+préventive n’est pas la même aux divers stades de l’instruction pénale. Si
+des soupçons, même encore peu précis, peuvent être suffisants dans les premiers temps
+de l’enquête, la perspective d’une condamnation doit apparaître vraisemblable après
+l’accomplissement des actes d’instruction envisageables (TF 1B_414/2011 du 5 septembre
+2011 c. 3.1).
+b)
+En l’espèce, T.________ se contente de remettre en cause l’existence de soupçons
+suffisants, telle que retenue dans les précédentes décisions et notamment dans l’arrêt
+de la cour de céans du 23 juillet 2013, alors que les éléments à charge ne se sont
+pas affaiblis depuis lors. Au contraire, les déclarations contradictoires du recourant, la découverte,
+dans sa voiture, des objets dérobés, ainsi que son implication dans d’autres vols sont
+autant d’éléments qui se sont renforcés. Tout d’abord, après avoir contesté
+sa participation aux brigandages en cause (PV aud. du 6 juillet 2013), le recourant est revenu sur ses
+déclarations, admettant avoir menti (PV aud. du 13 août 2013, R. 4). Concernant le vol commis
+au préjudice de [...] et [...], il a reconnu – tout en tentant de se justifier – qu’au
+moment où ses comparses sont sortis de la voiture et ont agressé ces deux personnes, c’est
+lui qui était au volant (
+ibidem
+),
+ce qui constitue un indice supplémentaire de sa participation aux brigandages qui lui sont reprochés,
+à tout le moins en qualité de chauffeur. Ensuite, le recourant persiste à prétendre
+que ses acolytes, à qui il aurait prêté les clés de sa voiture – ce que ceux-ci
+contestent – et qui auraient donc eu "un accès direct à l’automobile durant
+le laps de temps déterminant" (recours, p. 5 ch. 12), étaient seuls lorsqu’ils ont
+commis les autres brigandages, qu’il ne les a rejoints que par la suite et qu’il n’a
+eu connaissance de leurs méfaits que lors de l’interpellation policière. Outre le fait
+que le prévenu a tenu des propos contradictoires à cet égard, situant le moment où
+il aurait remis les clés à C.________ peu après leur arrivée à Montreux vers
+minuit (PV aud. d’arrestation, lignes 30 ss; PV aud. du 6 juillet 2013, p. 4, R. 6), puis entre
+minuit et 1h00 (PV aud. du 13 août 2013, R. 4) et, enfin, entre 02h00 et 02h30, soit après
+avoir commis le cambriolage à Payerne (PV aud. du 12 novembre 2013, lignes 34 à 36), force
+est de constater que d’après les dépositions des plaignants, les brigandages ont tous
+eu lieu entre 03h00 et 04h00, soit à un moment où, selon la première version fournie par
+le prévenu lui-même, il avait déjà rejoint ses comparses (PV aud. d’arrestation,
+ligne 32; PV aud. du 6 juillet 2013, R. 6). Par ailleurs, s’ajoute à ces brigandages, objet
+du premier rapport d’investigation, le vol à la tire – dont fait état le rapport
+d’investigation du 7 octobre 2013 (p. 20) – commis au préjudice de [...] dans la nuit
+du 6 juillet 2013, alors que celui-ci se trouvait, comme les autres victimes, au Montreux Jazz Festival;
+il résulte en effet des recherches complémentaires que ce plaignant s’est révélé
+être le détenteur du quatrième téléphone cellulaire découvert dans la voiture
+conduite par T.________ au moment de l’interpellation policière (rapport d’investigation
+du 7 octobre 2013, p. 10). Enfin, le recourant a admis avoir cambriolé, durant cette même nuit,
+la villa de [...], à Payerne (PV aud. du 12 novembre 2013, lignes 26 ss), et avoir ensuite conduit,
+entre Montreux et Genève, "dans un état d’ivresse avancé et sous l’effet
+de la cocaïne" (PV aud. du 12 novembre 2013, lignes 61 et 62).
+Ainsi, pour les motifs exposés dans son précédent arrêt, auxquels la cour de céans
+se réfère, et au vu des autres éléments précités et des aveux de T.________,
+tels qu’ils ressortent de sa dernière audition, il existe de forts soupçons de culpabilité
+à l’encontre du recourant, qui sont suffisants pour justifier son maintien en détention
+provisoire.
+3.
+L’ordonnance entreprise se fonde sur le
+risque de fuite (art. 221 al. 1 let. a CPP), lequel n’est toutefois pas contesté par le recourant.
+Dans son arrêt du 23 juillet 2013, la cour de céans a retenu qu’il existait un risque
+concret qu’en cas de libération, T.________ tente de se soustraire aux opérations d’enquête
+en prenant la fuite, compte tenu du fait que le prénommé, ressortissant algérien et domicilié
+en France, n’avait aucune attache avec la Suisse, étant uniquement de passage dans notre pays
+au moment des faits, et au vu des charges qui pesaient sur lui.
+Dans la mesure où le recourant ne fait valoir aucun élément nouveau sur ce point, il suffit
+de se référer à cette argumentation (cf. CREP, 23 juillet 2013/445, c. 4b).
+Par ailleurs, aucune mesure de substitution n’est susceptible de pallier ce risque (art. 212 al.
+2 let. c CPP).
+4.
+a)
+Selon l'art. 212 al. 3 CPP, la détention provisoire et la détention pour des motifs de sûreté
+ne doivent pas durer plus longtemps que la peine privative de liberté prévisible.
+La proportionnalité de la détention provisoire doit être examinée au regard de l’ensemble
+des circonstances concrètes du cas d’espèce (ATF 133 I 168 c. 4.1 et les arrêts
+cités). A cet égard, il est admis que le juge peut maintenir la détention provisoire aussi
+longtemps qu’elle n’est pas très proche de la durée de la peine privative de liberté
+à laquelle il faut s’attendre concrètement en cas de condamnation (TF 1B_411/2011
+du 31 août 2011 c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1). Toutefois, le fait que la peine
+encourue puisse être assortie du sursis, total ou partiel, n'est pas déterminant sous l'angle
+de la proportionnalité (ATF 133 I 270 c. 3.4.2).
+b)
+En l’espèce, T.________ est détenu depuis le 8 juillet 2013. Compte tenu des charges
+qui pèsent sur lui, qui se sont renforcées (c. 2b
+supra
+),
+et de son antécédent en France, il encourt, en cas de condamnation, une peine d’une durée
+supérieure à celle de la détention subie jusqu’ici. Par conséquent, le principe
+de proportionnalité est également respecté, le prévenu devant d’ailleurs prochainement
+être mis en accusation (cf. PV des opérations, p. 11, d’où il résulte que le
+terme du délai de prochaine clôture a été fixé, après prolongation, au
+6 janvier 2014).
+5.
+En définitive, le recours, manifestement mal fondé, doit être rejeté et l'ordonnance
+entreprise confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 880 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux, RSV 312.03.1]),
+et des frais imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés
+à 540 fr., plus la TVA par 43 fr. 20, soit 583 fr. 20 au total, seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de T.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 30 décembre 2013 est confirmée.
+III.
+L'indemnité
+allouée au défenseur d'office de T.________ est fixée à 583 fr. 20 (cinq cent huitante-trois
+francs et vingt centimes).
+IV.
+Les
+frais d’arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité due
+au défenseur d’office de T.________ selon le chiffre III ci-dessus, sont mis à la charge
+de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique de T.________ se soit améliorée.
+VI
+.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Stephen Gintzburger, avocat (pour T.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
