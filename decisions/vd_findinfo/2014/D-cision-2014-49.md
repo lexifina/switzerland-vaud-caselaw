@@ -1,0 +1,325 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___49"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 49"
+decided: "2014-01-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4208692"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-128.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-084.md", "switzerland/bund/acts/312.0/art-314.md", "switzerland/bund/acts/312.0/art-320.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2014 / 49
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE, PRINCIPE DE LA CÉLÉRITÉ | 314 al. 1 let. b CPP (CH), 393 al. 1 let. a CPP (CH), 5 CPP (CH), 80 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.01.2014 Décision / 2014 / 49
+
+SUSPENSION DE LA PROCÉDURE, PRINCIPE DE LA CÉLÉRITÉ | 314 al. 1 let. b CPP (CH), 393 al. 1 let. a CPP (CH), 5 CPP (CH), 80 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+8
+PE13.005274-DMT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 17 janvier 2014
+__________________
+Présidence
+de               M.
+Krieger
+,
+président
+Juges
+:              MM.
+Meylan et Perrot
+Greffière
+:              Mme
+Saghbini
+*****
+Art.
+5, 80 al. 1, 314 al. 1 let. b, 393 al. 1 let. a CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur les recours interjetés
+respectivement le 4 décembre et le 6 décembre 2013 par
+H.________
+et par
+D.________
+contre l'ordonnance de suspension rendue le 18 novembre 2013 par le Ministère public de l'arrondissement
+de la Côte dans la cause
+n° PE13.005274-DMT
+.
+Elle considère :
+E n f a i t :
+A.
+a) Le 12 octobre 2012, H.________ a déposé une plainte pénale contre inconnu pour faux
+dans les titres. A l’appui de sa plainte, elle a exposé en substance avoir travaillé
+en qualité de courtière pour la société M.________ SA, à l’agence de [...],
+durant la période comprise entre le 1
+er
+janvier 2005 et le 31 janvier 2007. Une partie de sa rémunération consistait en des versements
+de commissions de courtage qui étaient attribuées aux différents courtiers de l’agence
+selon une clé de répartition, déterminée par avenant à son contrat de travail
+du 14 décembre 2005. Chaque courtier concerné devait signer un décompte intitulé
+« avis d’opérations immobilières » qui visualisait les éléments
+et les conditions de la vente, les honoraires de courtage ainsi que la répartition de la commission
+entre courtiers. H.________ a fait valoir que, pour l’année 2006, plusieurs avis n’avaient
+pas été signés de sa main et que la clé de répartition, pour certains d’entre
+eux, ne correspondait pas aux conditions contractuelles. Elle a également requis l’audition
+de la dénommée [...] et a fourni les noms de trois anciens courtiers, dont D.________, ainsi
+que celui de l’assistante des ventes, F.________, laquelle était habilitée à rédiger
+les avis d’opérations des courtiers de l’agence [...].
+H.________ a été entendue le 26 février 2013 par la police et a confirmé les éléments
+de sa plainte, en précisant qu’un litige était pendant devant le Tribunal civil de l’arrondissement
+de Lausanne entre elle et son ancien employeur, la société M.________ SA, depuis le 19 décembre
+2008.
+b) Par ordonnance du 30 avril 2013, le Ministère public de l’arrondissement de la Côte
+a suspendu la procédure pénale pour une durée indéterminée au motif que le dossier
+ne contenait pas d’élément permettant d’identifier l’auteur et qu’aucune
+mesure d’instruction supplémentaire n’était, en l’état, propre à
+atteindre ce but.
+c) Par acte du 17 mai 2013, H.________ a recouru auprès de la Chambre des recours pénale du
+Tribunal cantonal contre l’ordonnance précitée.
+Par arrêt du 5 juin 2013, la Chambre des recours pénale a admis le recours de H.________ et
+renvoyé la cause au Ministère public (n° 344).
+B.
+a) Le 24 juin 2013, le Procureur de l’arrondissement de La Côte a délivré un mandat
+d’investigation à la police afin qu’elle procède à l’audition des personnes
+citées par H.________ dans sa plainte du 12 octobre 2013.
+Celles-ci
+ont été entendues durant les mois de juin, juillet, septembre et octobre 2013. Suite aux
+auditions, une instruction contre D.________ et F.________ a été ouverte pour faux dans les
+titres.
+Un ordre de production de pièces a été adressé le 1
+er
+novembre 2013 par le Procureur à la société M.________ SA, tendant à la remise de
+certains documents comptables de l’entreprise d’ici au 18 novembre 2013.
+b) Par ordonnance du 18 novembre 2013, le Ministère public de l’arrondissement de la Côte
+a suspendu à nouveau la procédure pénale pour une durée indéterminée (I)
+et a dit que les frais suivaient le sort de la cause (II). Le Procureur a considéré que l’issue
+de la procédure pénale dépendait du procès civil pendant devant le Tribunal d’arrondissement
+de Lausanne entre H.________ et la société M.________ SA, dans la mesure où cette autorité
+judiciaire fixerait l’éventuel dommage de la partie plaignante et établirait si celle-ci
+avait effectivement subi une atteinte à ses intérêts pécuniaires.
+C.
+a) Par acte du 4 décembre 2013, H.________ a recouru auprès de la Chambre des recours pénale
+contre cette ordonnance, en concluant, avec suite de frais et dépens, à son annulation, l’enquête
+devant être reprise sans délai. En substance, elle a soutenu que la procédure pénale
+avait révélé des faits qui n’étaient pas connus de la procédure civile,
+de sorte que la suspension du procès pénal ne se justifiait pas sous l’angle de l’art.
+314 al. 1 let. b CPP. Elle a également invoqué la violation du principe de célérité
+au motif notamment que le Procureur n’avait pas fait une pesée des intérêts entre
+l’opportunité de connaître le sort du procès civil et la nécessité de
+faire progresser la cause pénale, en précisant d’ailleurs que c’était en général
+plutôt le procès civil qu’il convenait de suspendre dans ce genre de situation.
+Par acte du 6 décembre 2013, D.________ a également recouru contre l’ordonnance de suspension
+précitée, en concluant, avec suite de frais et dépens, à son annulation, l’instruction
+devant être reprise sans délai. Invoquant la violation du principe de célérité,
+il a relevé que les questions devant être résolues sur le plan pénal pouvaient être
+traitées sans qu’il soit nécessaire de connaître l’issue du procès civil
+et que la procédure civile était loin d’être terminée, de sorte qu’une
+suspension de la procédure pénale ne justifiait pas au regard de l’art. 5 CPP.
+b) Par avis du 18 décembre 2013, la Cour de céans a imparti aux parties un délai jusqu’au
+6 janvier 2014 pour déposer des déterminations.
+Par lettre du 20 décembre 2013, le Procureur a indiqué qu’il n’avait aucune remarque
+à formuler s’agissant des recours déposés, ceux-ci n’apportant, selon lui,
+pas d’éléments nouveaux qui n’auraient pas été pris en considération.
+Il a conclu à leur rejet.
+Dans ses déterminations du 6 janvier 2014, H.________ a indiqué partager l’avis de D.________
+selon lequel le principe de célérité avait été violé. Elle a demandé,
+en cas d’admission des recours, une communication du dispositif avant la décision motivée.
+Dans ses déterminations du 6 janvier 2014, D.________ a indiqué adhérer aux conclusions
+du recours déposé par H.________, tout en précisant que sa motivation était différente
+de celle de cette dernière, et a renoncé à formuler des observations.
+F.________ n’a pas déposé de déterminations.
+E n d r o i t :
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de suspension rendue par le Ministère public (cf. art.
+393 al. 1 let. a et 314 al. 5 qui renvoie aux art. 320 ss CPP [Code de procédure
+pénale suisse du 5 octobre 2007, RS 312.0]) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 CPP; cf. art. 20 al. 1 let. b CPP), qui dans le canton de Vaud est la Chambre
+des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du code
+de procédure pénale suisse; RSV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire;
+RSV 173.01] ; CREP 16 janvier 2013/67 c. 1).
+1.2
+En l’espèce, il y a lieu d’entrer en matière sur les deux recours qui satisfont
+aux conditions de forme posées par l'art. 385 al. 1 CPP et qui ont été interjetés
+en temps utile devant l’autorité compétente, respectivement par la partie plaignante
+et par le prévenu qui ont la qualité pour recourir (art. 382 al. 1 CPP).
+2.
+Tant H.________ que D.________ invoquent une violation de l’art. 5 CPP dans leurs recours respectifs
+et soutiennent que la procédure pénale devrait être achevée sans qu’il faille
+attendre l’issue du procès civil, de sorte que la suspension en vertu de l’art. 314
+al. 1 let. b CPP est infondée. Vu la connexité des griefs invoqués, les deux recours seront
+traités conjointement.
+2.1
+En vertu de l’art. 314 al. 1 let. b CPP, le Ministère public peut suspendre une instruction
+lorsque l'issue de la procédure pénale dépend d'un autre procès dont il paraît
+indiqué d'attendre la fin. Cet autre procès peut être de nature civile, pénale ou
+administrative (Cornu, in : Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 13 ad art. 314 CPP ; CREP, 18 septembre 2012/602).
+Le Ministère public dispose d'un large pouvoir d'appréciation pour décider d'une éventuelle
+suspension ; il doit toutefois examiner si le résultat de l'autre procédure peut véritablement
+jouer un rôle pour le résultat de la procédure pénale suspendue et s'il simplifiera
+de manière significative l'administration des preuves dans cette même procédure (TF 1B_721/2011
+du 7 mars 2012 c. 3.1 ; Cornu, ibidem). Contrairement au juge civil qui se contente d'une vérité
+relative en ce sens que les preuves ne sont exigées que pour les allégués contestés
+et qu’il est laissé aux parties le soin d’établir les faits, le juge pénal,
+qui recherche la vérité matérielle, joue un rôle actif dans le procès et dispose
+de moyens coercitifs et de pouvoirs étendus. Pour ces raisons, il convient en principe de suspendre
+le procès civil pour permettre au juge pénal d'établir les faits (TF 1B_67/2011 du
+13 avril 2011 c. 4.1 ; TF 1B_231/2009 du 7 décembre 2009 c. 4.1). En outre, comme
+l’expose la jurisprudence constante du Tribunal fédéral, la suspension d’une procédure
+ne doit être admise qu’à titre exceptionnel, le principe de célérité devant
+primer en cas de doute (TF 1B_67/2011 du 13 avril 2011 c. 4.1).
+Concrétisant le principe de célérité, l'art. 5 al. 1 CPP impose aux autorités
+pénales d'engager les procédures pénales sans délai et de les mener à terme
+sans retard injustifié. Cette disposition garantit aux parties le droit d'obtenir que la procédure
+soit achevée dans un délai raisonnable en exigeant des autorités, dès le moment où
+le prévenu est informé des soupçons qui pèsent sur lui, qu’elles mènent
+la procédure sans désemparer afin de ne pas le maintenir inutilement dans les angoisses qu’elle
+suscite (ATF 124 I 139 c. 2a). Le principe de célérité, ancré à l'art. 29 al.
+1 Cst., revêt en outre une importance particulière en matière pénale (ATF 119
+Ib 311 c. 5) et pose ainsi des limites à la suspension d'un procès pénal (TF 1B_57/2009
+du 16 juin 2009 c. 2.1 et les références citées). Il est notamment violé lorsque
+l'autorité ordonne la suspension d'une procédure sans motifs objectifs ; pareille mesure
+dépend d'une pesée des intérêts en présence et ne doit être admise qu'avec
+retenue, en particulier s'il convient d'attendre le prononcé d'une autre autorité compétente
+qui permettrait de trancher une question décisive (TF 1B_231/2009 du 7 décembre 2009
+c. 4.1). Dans les cas limites ou douteux, le principe de célérité prime (ATF 130 V 90
+c. 5 ; ATF 119 II 386 c. 1b). Ces principes s'appliquent également lorsqu'il s'agit d'examiner
+si un procès pénal doit être suspendu dans l'attente de l'issue d'un procès civil
+(TF 1B_57/2009 du 16 juin 2009 c. 2.1).
+2.2
+En l’espèce, l’existence du procès civil n’apparaît pas susceptible
+d’avoir la moindre incidence déterminante sur la procédure pénale. En effet, la
+procédure civile était déjà connue du Procureur au début de l’instruction
+pénale, étant rappelé que H.________ avait annoncé avoir entrepris des démarches
+judiciaires auprès du Tribunal d’arrondissement de Lausanne contre son ancien employeur (cf.
+P. 6), de sorte que son existence ne constituait pas un motif objectif justifiant une suspension de la
+procédure pénale. A ce titre, l’argumentation de la recourante est convaincante. On retiendra
+particulièrement que le cadre du procès pénal, contrairement à celui du procès
+civil, est beaucoup plus étendu. Les actes d’instruction ont mis notamment en évidence
+que les périodes concernées par les éventuelles infractions commises se rapportaient aux
+années 2005 à 2007, alors que le procès civil concernait des faits s’étant
+déroulés en 2006. De plus, les parties en cause ne sont pas les mêmes dans les deux procédures ;
+l’action civile ouverte par H.________ est dirigée contre son ex-employeur, la société
+M.________ SA, tandis que l’instruction pénale a mis en cause D.________ et F.________, tous
+deux anciens employés de l’agence M.________ SA à [...], soupçonnés, à
+ce stade, d’avoir commis des faux dans les titres.
+En outre, il y a lieu de relever que la prescription de l’action pénale (art. 97 CP [Code
+pénal du 21 décembre 1937 ; RS 311.0]) est déterminante sur le plan civil, de sorte
+qu’il est nécessaire dans la présente affaire d’être en premier lieu fixé
+sur la commission éventuelle d’une infraction pénale afin de déterminer ensuite
+si la créance du travailleur pour ses services, laquelle se prescrit par cinq ans (art. 128 CO
+[Code des obligations du 30 mars 1911 ; RS 220]), pourrait bénéficier du délai de
+prescription plus long, s’agissant particulièrement de l’année 2006, seule concernée
+par le procès civil entrepris par H.________. Sur cet aspect, il sied de rappeler que la jurisprudence
+fédérale préconise en principe plutôt la suspension de la procédure civile,
+jusqu’à droit connu sur le procès pénal, et non l’inverse (cf.
+supra,
+ch. 2.1). Enfin, la plupart des pièces dont le Procureur a ordonné la production (cf. sa décision
+du 1
+er
+novembre 2013, P. 24) ne figurent pas au dossier civil et ne concernent que l’affaire pénale.
+Dès lors, il apparaît clair que le dénouement du procès civil ne sera pas de nature
+à simplifier de manière significative l’administration des preuves et l’issue du
+procès pénal. Comme le relève par ailleurs D.________, la procédure civile entreprise
+en 2008 est loin d’arriver à son terme et le délai d’attente qui en résulte
+afin que la procédure pénale puisse être reprise est contraire au principe de célérité
+qui impose d’instruire la procédure pénale dans un délai raisonnable. A ce titre,
+il sied de souligner que l’audience de jugement prévue le 9 janvier 2014 devant le Tribunal
+d’arrondissement de Lausanne a été annulée, sans réappointement (cf. P. 33).
+Au vu de ce qui précède, le principe de célérité de l’art. 5 CPP doit
+primer. C’est ainsi à tort que le Procureur de l’arrondissement de La Côte a rendu
+une nouvelle ordonnance de suspension en application de l’art. 314 al. 1 let. b CPP.
+3.
+Dans sa détermination
+du 6 janvier 2014, H.________ a sollicité la communication du dispositif avant l’arrêt
+motivé. Concernant cette requête, il doit être relevé que le code de procédure
+pénale ne prévoit pas la notification à "double détente" s’agissant
+des décisions rendues par la Cour de céans. En effet, le mode de notification prévu par
+l’art. 84 CPP ne s’applique qu’aux jugements. Or, en vertu de l’art. 80 al. 1,
+1
+ère
+et 2
+e
+phrases CPP, seuls les prononcés qui tranchent des questions civiles ou pénales sur le fond
+revêtent la forme de jugements, les autres prononcés revêtant la forme de décisions
+lorsqu’ils émanent d’une autorité collégiale ou d’ordonnances lorsqu’ils
+sont rendus par une seule personne. Par "jugement", il faut donc entendre les prononcés
+qui tranchent des questions au fond, à savoir ceux qui portent sur la cause qui fait l’objet
+d’un procès (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure pénale,
+Bâle 2013, n. 2 ad. art. 80 CPP). Dès lors, il ne peut être fait suite à
+la demande de la recourante, le présent arrêt lui étant communiqué directement motivé.
+4.
+En définitive, les
+recours de H.________ et de D.________, bien fondés, doivent être admis. L’ordonnance
+attaquée est donc annulée et le dossier de la cause renvoyé au Ministère public de
+l’arrondissement de La Côte pour qu’il poursuive l’instruction.
+5.
+Les frais de la procédure de recours, par 880 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires
+pénaux du 28 septembre 2012; RSV 312.02.1]), seront laissés à la charge de l'Etat (art.
+428 al. 4 CPP).
+S’agissant des dépens réclamés par H.________, cette dernière aura la possibilité,
+à la fin de la procédure, de formuler ses prétentions auprès de l’autorité
+pénale compétente selon l’art. 433 al. 2 CPP (CREP 16 avril 2013/279 c. 4 et les références
+citées).
+Quant aux dépens réclamés par D.________, ce dernier aura également la faculté,
+à la fin de la procédure, de faire valoir ses droits auprès de l’autorité pénale
+compétente selon l’art. 429 al. 2 CPP (CREP 21 mars 2013/155 c. 3 et les références
+citées; CREP 22 août 2012/568 et la référence citée).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Les recours sont admis.
+II.
+L’ordonnance du 18 novembre 2013 est annulée.
+III.
+Le dossier de la cause est renvoyé au Procureur
+de l'arrondissement de La Côte pour qu'il procède dans le sens des considérants.
+IV.
+Les frais de la procédure de recours, par
+880 fr. (huit cent huitante francs), sont laissés à la charge de l'Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+M
+e
+Olivier Righetti, avocat (pour H.________),
+-
+M
+e
+Stefan Disch, avocat (pour D.________),
+-
+F.________,
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1 LTF).
+La greffière :
