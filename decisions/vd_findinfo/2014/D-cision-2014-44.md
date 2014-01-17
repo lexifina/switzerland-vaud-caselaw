@@ -1,0 +1,208 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___44"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 44"
+decided: "2014-01-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4186705"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-030.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2014 / 44
+
+## Regeste
+
+QUALITÉ DE PARTIE, ASSOCIATION | 251 CP, 253 CP, 30 CP, 115 CPP (CH), 118 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.01.2014 Décision / 2014 / 44
+
+QUALITÉ DE PARTIE, ASSOCIATION | 251 CP, 253 CP, 30 CP, 115 CPP (CH), 118 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+19
+PE13.019357-BEB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 17 janvier 2014
+__________________
+Présidence
+de               M.
+K R I E G E R, président
+Juges
+:              MM.
+Meylan et Abrecht
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+115, 118ss, 393 al. 1 let. a CPP
+La
+Chambre des recours pénale du Tribunal cantonal prend séance à huis clos pour statuer
+sur le recours interjeté le 3 décembre 2013 par la
+F.________
+contre la décision de refus de
+qualité de partie plaignante rendue par le Ministère public de l'arrondissement de Lausanne
+dans le cadre de la procédure
+n° PE13.019357-BEB
+.
+Elle considère :
+En fait :
+A.
+Le 2 août 2013, la F.________ a dénoncé les faits suivants: P.________ est le président
+de la F.________. Il a été inscrit comme tel au registre du commerce le 27 janvier 2011. Ensuite
+à de graves dissensions internes, le secrétaire général de cette association, T.________,
+a été suspendu de ses fonctions lors de la séance du comité exécutif de la F.________
+le 22 mars 2013. Cette suspension a été prononcée en raison notamment de «
+professional
+misconduct of this duties and responsabilities
+».
+Le 22 juin 2013, T.________, bien que suspendu, a convoqué un «
+[...]
+de la F.________
+», qui a eu lieu le
+22 juin 2013 à [...]. Lors de ce congrès, P.________ a été exclu de la F.________
+et T.________ nommé nouveau secrétaire général.
+T.________ a ensuite fait modifier le Registre du commerce du canton de Vaud en produisant, à l’appui
+de ses réquisitions, plusieurs pièces qui, selon la F.________, seraient fausses.
+Le 22 juillet 2013, P.________ a déposé une requête de mesures provisionnelles à
+l’issue de laquelle le Président du Tribunal civil de l’arrondissement de Lausanne a
+ordonné la radiation de l’inscription opérée ensuite de la demande de T.________
+en modification du registre du commerce, ainsi que la radiation de la signature individuelle du secrétaire
+général T.________.
+B.
+Le 21 novembre 2013, le Procureur a rendu une décision refusant la qualité de partie plaignante
+à la F.________, considérant que les statuts de cette association ne conféraient pas expressément
+au président le droit d’agir en justice et que cette compétence appartenait à l’assemblée
+générale.
+Le 3 décembre 2013, la F.________, par son conseil, l’avocat Pierre-Olivier Wellauer, a recouru
+contre cette décision en concluant, avec suite de frais et de dépens, à titre principal
+à sa réforme en ce sens que la qualité de partie plaignante soit reconnue à la F.________
+et à titre subsidiaire à ce que cette décision soit annulée et la cause renvoyée
+au Ministère public pour nouvelle décision.
+Le Ministère public a déposé des déterminations le 17 décembre 2013.
+En droit :
+1.
+a)
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007, RS 312.0), le recours est recevable contre
+les décisions et les actes de procédure du ministère public. Le recours doit être
+adressé par
+écrit, dans un délai
+de dix jours dès la notification de la décision attaquée
+(cf.
+art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP), qui est la Chambre
+des recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi d'introduction du Code de procédure
+pénale suisse du 19 mai 2009, RSV 312.01]; art. 80 LOJV
+[Loi
+d'organisation judiciaire du 12 décembre 1979, RSV 173.01]).
+b) En l’espèce, il y a donc lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile devant l’autorité compétente et satisfait aux conditions
+de forme  posées  par l’art. 385 al. 1 CPP.
+2.
+a)
+La recourante soutient que, contrairement à
+ce qu’affirme le Ministère public, la qualité de partie plaignante ne pouvait lui être
+refusée sous prétexte qu’à défaut d’une règle statutaire expresse
+sur la compétence d’agir par la voie judiciaire pour l’association, seule l’assemblée
+générale pouvait le décider en vertu de sa compétence résiduelle universelle
+(art. 65 al. 1 let. i et f CC).
+b)
+Lorsque le lésé est une personne morale, la qualité pour porter plainte en son nom se
+détermine selon sa structure interne (ATF 117 IV 437 c. 1a, JT 1994 IV 38 ; ATF 99 IV 1 c.
+a, JT 1974 IV 2; Stoll, in Roth/Moreillon, Commentaire romand, Code pénal I, Bâle 2009, n.
+31 ad art. 30 CP). Il s’agit en principe de l’organe qui a pour mission de veiller sur les
+intérêts lésés par l’infraction et dont les pouvoirs sont inscrits au Registre
+du commerce (Dupuis/Geller/ Monnier/Moreillon/Piguet/Bettex/Stoll [éd.], Petit commentaire CP, Bâle
+2012, n. 12 ad art. 30 CP et les références citées). Dans le cas d’une association,
+le président est habilité à déposer plainte en tant que représentant de l’entité
+(Dupuis et al., op. cit., n. 12 ad art. 30 CP;  Stoll, op. cit., n. 30 ad. art. 31 CP et les références
+citées).
+c)
+Selon l'art. 118 al. 1 CPP, on entend par partie plaignante le lésé qui déclare expressément
+vouloir participer à la procédure pénale comme demandeur au pénal ou au civil.
+La déclaration de partie plaignante doit avoir lieu avant la clôture de la procédure préliminaire
+(art. 118 al. 3 CPP), soit à un moment où l'instruction n'est pas encore achevée. Dès
+lors, tant que les faits déterminants ne sont pas définitivement arrêtés sur ce point,
+il y a lieu de se fonder sur les allégués de celui qui se prétend lésé pour
+déterminer si tel est effectivement le cas (TF 1B_678/2011 du 30 janvier 2012, c. 2.1 ; Camille
+Perrier, in: Kuhn/Jeanneret (éd.), op. cit., n. 8 ad art. 115). Celui qui entend se constituer partie
+plaignante doit toutefois rendre vraisemblable le préjudice et le lien de causalité entre celui-ci
+et l'infraction dénoncée (TF 1B_678/2011 du 30 janvier 2012 c. 2.1 ; TF 6B_870/2009
+du 18 mars 2010 et 1B_311/2010 du 19 novembre 2010 c. 3.2; Derisbourg-Boy, La position du lésé
+dans la procédure pénale et ses possibilités d'obtenir un dédommagement, thèse,
+Lausanne 1992, pp. 29 s.).
+d)
+Aux termes de l’art. 30 al. 1 CP, si une infraction n’est punie que sur plainte, toute personne
+lésée peut porter plainte contre l’auteur. Selon l’art. 31 CP, le droit de porter
+plainte se prescrit par trois mois. Le délai court du jour où l’ayant droit a connu l’auteur
+de l’infraction. Ce délai impératif de trois mois concerne uniquement les infractions
+poursuivies sur plainte. En présence d’une infraction poursuivie d’office, la qualité
+de plaignant est acquise même après l’expiration du délai de 90 jours (Dupuis et
+alii, op. cit., n. 3 ad art. 31 CP).
+e) En l’espèce, P.________ a, en tant que président de la F.________, la qualité
+pour déposer plainte au nom de cette association. Certes, il ne l’avait temporairement plus
+au moment où la plainte a été déposée. Toutefois, il résulte de l’ordonnance
+de mesures provisionnelles du 23 août 2013, notifiée le 4 octobre 2013, que P.________ a été
+rétabli au Registre du commerce du canton de Vaud dans ses droits de président de la F.________,
+avec signature individuelle (P. 7/2 nn. 3 et 4), si bien qu’il a maintenant le droit de se constituer
+partie plaignante au nom de la F.________.
+S’agissant du délai pour le dépôt de la plainte pénale, le délai de péremption
+de l’art. 31 CP ne concerne pas les infractions poursuivies d’office, ce qui est le cas en
+l’espèce. De plus, la procédure préliminaire n’a pas encore été
+clôturée, de sorte qu’il ne pourrait pas être reproché à P.________ une
+constitution de partie plaignante tardive.
+3.
+En définitive, le recours doit être
+admis et l'ordonnance du 21 novembre 2013 réformée en ce sens que la qualité de partie
+plaignante est accordée à la F.________.
+Les frais d’arrêt, par 550 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires pénaux
+du 28 septembre 2010, RSV 312.03.1]), seront laissés à la charge de l’Etat.
+Il n’y a pas lieu de statuer à ce stade sur les
+dépens réclamés par la recourante, cette dernière ayant la possibilité d’adresser
+à la fin de la procédure ses prétentions à l’autorité pénale compétente
+selon l’art. 433 al. 2 CPP (CREP 16 avril 2013/279 c. 4 et les références citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 21 novembre 2013 est réformée en ce sens que la qualité de partie
+plaignante est accordée à la F.________.
+III.
+Les frais du présent arrêt, par 550
+fr. (cinq cent cinquante francs), sont laissés à la charge de l’Etat.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Pierre-Olivier Wellauer, avocat (pour la F.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
