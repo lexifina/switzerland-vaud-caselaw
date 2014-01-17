@@ -1,0 +1,190 @@
+---
+decision_id: "vd_findinfo_Plainte___2014___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2014 / 1"
+decided: "2014-01-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4166750"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-036.md", "switzerland/bund/acts/281.1/art-159.md"]
+---
+
+# VD Findinfo Plainte / 2014 / 1
+
+## Regeste
+
+PLAINTE{LP}, CONCLUSIONS, ACTE DE RECOURS, EFFET SUSPENSIF, RÉQUISITION DE CONTINUER LA POURSUITE, COMMINATION DE FAILLITE | 159 LP, 17 al. 1 LP, 18 al. 1 LP, 36 LP, 28 al. 3 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.01.2014 Plainte / 2014 / 1
+
+PLAINTE{LP}, CONCLUSIONS, ACTE DE RECOURS, EFFET SUSPENSIF, RÉQUISITION DE CONTINUER LA POURSUITE, COMMINATION DE FAILLITE | 159 LP, 17 al. 1 LP, 18 al. 1 LP, 36 LP, 28 al. 3 LVLP
+
+TRIBUNAL
+CANTONAL
+FA13.037530-132099
+14
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+17 janvier 2014
+____________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              M.
+Hack et Mme Rouleau
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 36 et 159 LP; 28 al. 3 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+D.________SA
+,
+à Lausanne, contre la décision rendue le 7 octobre 2013, à la suite de l’audience
+du 19 septembre 2013, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée par la recourante contre deux
+comminations de faillite à elle notifiées par l'
+Office
+des poursuites du district de Lausanne
+, à
+la réquisition de
+Z.________SA
+,
+à Nyon.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 3 juin 2013, à la réquisition de Z.________SA, l'Office des poursuites du district de Lausanne
+(ci-après : l'Office) a notifié à D.________SA deux commandements de payer, l'un dans
+la poursuite n° 6'651'087 et l'autre dans la poursuite n° 6'651'092.
+La poursuivie, par lettres de son administrateur unique du 10 août 2013, a déclaré faire
+opposition totale aux deux poursuites et a requis la restitution du délai d'opposition.
+Le 27 août 2013, l'Office a reçu de la poursuivante des réquisitions de continuer les
+deux poursuites en cause. Donnant suite à ces actes, il a notifié deux comminations de faillite
+à la poursuivie, le 29 août 2013.
+b)
+Le 30 août 2013, D.________SA a déposé une plainte contre les comminations de faillite,
+concluant à leur annulation. Elle faisait valoir en substance que l'Office, sachant qu'une requête
+de restitution du délai d'opposition était pendante devant l'autorité de surveillance,
+ne pouvait pas donner suite aux réquisitions de continuer les poursuites sans en référer
+d'abord à dite autorité.
+Le 12 septembre 2013, l'Office a produit ses déterminations sur la plainte, concluant au rejet de
+celle-ci.
+c)
+Par prononcé du 5 septembre 2013 (réf. FA13.034914), le Président du Tribunal d'arrondissement
+de Lausanne, autorité inférieure de surveillance, a rejeté la requête de restitution
+du délai d'opposition.
+La poursuivie a recouru contre ce prononcé auprès de la cour de céans, autorité cantonale
+supérieure de surveillance, par acte du 27 septembre 2013. Elle a requis l'effet suspensif, qui
+a été accordé par décision du juge présidant de la cour de céans du 2 octobre
+2013, en ce sens que les procédés relatifs notamment aux deux poursuites en cause sont provisoirement
+suspendus.
+2.
+Par décision du 7 octobre 2013, la Présidente du Tribunal d'arrondissement de Lausanne, autorité
+inférieure de surveillance, statuant à la suite de son audience du 19 septembre 2013, a rejeté
+la plainte déposée le 30 août 2013, sans frais ni dépens.
+3.
+La plaignante D.________SA a recouru contre cette
+décision par acte du 18 octobre 2013, concluant à l'admission du recours (I), à la restitution
+du délai pour faire opposition aux deux poursuites en cause (II) et à ce qu'il soit dit que
+l'opposition aux dites poursuites est réputée avoir été formée en temps utile
+(III).
+L'Office s'est déterminé le 8 novembre 2013, préavisant en faveur du rejet du recours.
+La poursuivante a déposé ses déterminations le 11 novembre 2013, concluant, avec suite
+de frais et dépens, au rejet du recours dans la mesure où il est recevable.
+En droit :
+I.
+Dirigé contre une décision de l'autorité inférieure de surveillance et déposé
+dans le délai de dix jours prévus par les art. 18 al. 1 LP [loi fédérale sur la poursuite
+pour dettes et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05],
+le recours, qui comporte l'indication des moyens invoqués (art. 28 al. 3 in fine LVLP), est recevable
+formellement.
+Les déterminations de l'Office et celles de l'intimée sont également recevables (art.
+31 al. 1 LVLP).
+II.
+a)
+Selon l'art. 28 al. 3 in initio LVLP, le recours
+doit préciser les points sur lesquels une modification du prononcé est demandée. Il en
+découle que le recours contre un prononcé rejetant une plainte doit tendre au même résultat
+que cette plainte.
+En l'espèce, les conclusions prises dans l'acte de recours n'ont pas trait à la décision
+attaquée rejetant la plainte contre les comminations de faillite litigieuses. Elles tendent à
+la restitution du délai d'opposition aux poursuites en cause, prétention qui a déjà
+été tranchée par la décision de l'autorité inférieure de surveillance du
+5 septembre 2013, contre laquelle la plaignante a déposé un autre recours auprès de la
+cour de céans, actuellement pendant. En tant que telles, ces conclusions sont donc irrecevables
+matériellement.
+b)
+Même interprétées – très largement – comme tendant à l'annulation
+des comminations de faillite litigieuses, les conclusions du recours ne peuvent être que rejetées.
+Selon l'art. 159 LP, dès réception de la réquisition de continuer la poursuite, l'office
+adresse sans retard la commination de faillite au débiteur sujet à la poursuite par voie de
+faillite. A ce stade, la poursuite doit être libre de suivre son cours.
+En l'espèce, la recourante a formé tardivement opposition aux poursuites litigieuses le 10
+août 2013 et a requis la restitution du délai d'opposition. Une telle requête, comme la
+plainte ou le recours, n'a d'effet suspensif que si cela est ordonné (art. 36 LP), d'office ou sur
+requête (art. 21 al. 1 LVLP). Or, la recourante n'a pas requis l'effet suspensif en première
+instance, où il n'a pas été prononcé d'office, mais seulement en deuxième instance,
+où il a été accordé  par décision du 2 octobre 2013. Ainsi, le 27 août
+2013, lorsque l'Office a reçu de l'intimée les deux réquisitions de continuer les poursuites
+en cause, il devait, comme il l'a fait, procéder conformément à l'art. 159 LP et donner
+suite à ces réquisitions en notifiant des comminations de faillite à la recourante. Quant
+à l'intimée, même si elle était informée de la requête de restitution du
+délai d'opposition, elle n'avait pas à attendre pour agir jusqu'à droit connu sur cette
+requête, dès lors que l'effet suspensif n'avait alors été ni demandé ni prononcé
+d'office.
+III.
+Vu ce qui précède, le recours doit être
+rejeté, dans la mesure où il est recevable, et le prononcé confirmé.
+L'arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let. a et 62 al.
+2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+17 janvier 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+D.________SA,
+‑
+Me Marc Mullegg, avocat (pour Z.________SA),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
