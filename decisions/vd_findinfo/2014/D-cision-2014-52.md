@@ -1,0 +1,291 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___52"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 52"
+decided: "2014-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4176865"
+cites_law: ["switzerland/bund/acts/101/art-027.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-122.md", "switzerland/bund/acts/311.0/art-133.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 52
+
+## Regeste
+
+DÉTENTION PRÉVENTIVE, RISQUE DE COLLUSION, RISQUE DE RÉCIDIVE, MOTIVATION DE LA DÉCISION | 221 al. 1 let. b CPP (CH), 221 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.01.2014 Décision / 2014 / 52
+
+DÉTENTION PRÉVENTIVE, RISQUE DE COLLUSION, RISQUE DE RÉCIDIVE, MOTIVATION DE LA DÉCISION | 221 al. 1 let. b CPP (CH), 221 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+34
+PE13.018002-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 21 janvier 2014
+__________________
+Présidence
+de               M.
+A B R E C H T, président
+Juges
+:              MM.
+Krieger et Maillard
+Greffier
+:              M.
+Ritter
+*****
+Art.
+212 al. 3, 221 al. 1 CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours formé
+par
+N.________
+contre l'ordonnance de prolongation de la détention provisoire rendue le 27 décembre 2013 par
+le Tribunal des mesures de contrainte dans la cause le concernant (
+enquête
+n° PE13.018002-MYO
+).
+Elle considère:
+E n  f a i t :
+A.
+N.________, né en 1966, ressortissant turc, a été condamné, pour lésions corporelles
+simples qualifiées, à la peine de dix jours d’emprisonnement, avec sursis pendant deux
+ans, par jugement rendu le 17 décembre 1997 par le Tribunal de police du district de Lausanne. La
+condamnation réprime une infraction perpétrée le 10 mars 1996, lors d’une bagarre
+survenue dans une discothèque, au cours de laquelle le prévenu avait blessé sa victime
+au genou au moyen du canif qu’il portait sur lui.
+N.________ a été appréhendé le 4 octobre 2013, à 6 h 40. Prévenu de lésions
+corporelles graves et de rixe, il lui est reproché d’avoir grièvement blessé, au
+moyen d’un couteau, [...] au visage et dans la région postérieure de l’aisselle
+gauche, lors d’une bagarre dans un établissement public de Renens, durant la nuit du 29 au
+30 août 2013 (enquête n° PE13.018002-MYO).
+Mis en cause par deux témoins, le prévenu a contesté les faits incriminés, mais a
+admis porter sur lui de manière récurrente un couteau. Les investigations sont en cours. Il
+apparaît, en l’état de l’enquête, qu’il pourrait avoir agi en compagnie
+d’un nommé [...], lequel séjournerait actuellement à l’étranger. En outre,
+la serveuse de l’établissement affirme avoir été menacée par le prévenu.
+Le prévenu est détenu sans discontinuer depuis son arrestation.
+B.
+Le 4 octobre 2013, la Procureure de l'arrondissement de l’Est vaudois a saisi le Tribunal des mesures
+de contrainte d'une requête tendant à la mise en détention provisoire du prévenu
+pour une durée de trois mois.
+Par ordonnance du 5 octobre 2013, le Tribunal des mesures de contrainte a, notamment, ordonné la
+détention provisoire du prévenu (I) et fixé la durée maximale de la détention
+provisoire à trois mois, soit au plus tard jusqu'au 4 janvier 2014 (II). Tenant les soupçons
+pesant sur le prévenu pour suffisants et renonçant à examiner s’il existait un danger
+de réitération, l'autorité a retenu qu’il existait un risque concret de collusion.
+Elle a en outre estimé qu'aucune mesure de substitution n'offrait de garanties suffisantes.
+Le 13 décembre 2013, la Procureure a requis la prolongation de la détention provisoire du prévenu
+pour une durée de trois mois. Elle a invoqué des risques de collusion et de réitération
+que présenterait le prévenu.
+Le 20 décembre 2013, le prévenu a conclu au rejet de la requête. Par procédé
+déposé spontanément le 24 décembre 2013, [...] a conclu au maintien, soit à
+la prolongation, de la détention provisoire. Il a allégué des «graves risques de
+représailles» de la part du prévenu.
+Par ordonnance du 27 décembre 2013, le Tribunal des mesures de contrainte a ordonné la prolongation
+de la détention provisoire de N.________ (I), a fixé la durée maximale de la prolongation
+à trois mois, soit au plus tard jusqu'au 4 avril 2014 (II) et a dit que les frais de cette décision,
+par 150 fr., suivaient le sort de la cause (III). Par adoption des motifs du Parquet et par renvoi aux
+considérants de sa précédente ordonnance, le premier juge a retenu que des soupçons
+suffisants pesaient sur le prévenu et qu’il existait un risque concret de collusion. Il a
+ajouté qu’un risque de réitération était également avéré au
+vu de la gravité des faits incriminés et des antécédents pénaux de l’intéressé
+qui, même s’ils remontaient à plusieurs années, ne concernaient pas moins l’usage
+d’un couteau au cours d’une bagarre. Pour le reste, le premier juge a estimé que la
+durée de la détention provisoire restait proportionnée compte tenu de la peine susceptible
+d'être prononcée en cas de condamnation et qu'aucune mesure de substitution n'offrait de garanties
+suffisantes.
+C.
+Le 15 janvier 2014, N.________, représenté par son défenseur d'office, a recouru auprès
+de la Chambre des recours pénale contre l'ordonnance du 30 décembre 2013, en concluant, avec
+suite de frais et dépens, à sa réforme en ce sens que la requête de prolongation
+de la détention provisoire du Ministère public déposée le 13 décembre 2013 soit
+rejetée, la libération immédiate du prévenu étant ordonnée.
+E n  d r o i t :
+1.
+Aux termes de l’art. 393 al. 1 let. c CPP (Code de procédure pénale suisse; RS 312.0),
+le recours est recevable contre les décisions du tribunal des mesures de contrainte dans les cas
+prévus par le code. L’art. 222 CPP prévoit que le détenu peut attaquer devant l’autorité
+de recours les décisions ordonnant une mise en détention provisoire ou une mise en détention
+pour des motifs de sûreté ou encore la prolongation ou le terme de cette détention. Le
+recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP), qui dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi d’introduction du code de procédure pénale suisse; RSV 312.01]; art.
+80 LOJV [loi d’organisation judiciaire; RSV 173.01]).
+En l’espèce, l’ordonnance entreprise a été notifiée au prévenu,
+par son défenseur, le 6 janvier 2014. Il y a lieu d’entrer en matière sur le recours,
+qui a été interjeté en temps utile par le détenu devant l’autorité compétente
+et satisfait aux conditions de forme posées par l’art. 385 al. 1 CPP.
+2.
+a)
+Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d’avoir commis un crime ou un délit et qu’il y a sérieusement lieu de craindre
+(a) qu’il se soustraie à la procédure pénale ou à la sanction prévisible
+en prenant la fuite, (b) qu’il compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuve ou (c) qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre.
+Selon l’art. 212 al. 3 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne doivent pas durer plus longtemps que la peine privative de liberté prévisible.
+b)              La mise en détention
+provisoire n’est possible que s’il existe, préalablement à toute autre cause, de
+graves soupçons de culpabilité d’avoir commis un crime ou un délit à l’égard
+de l’auteur présumé (ATF 139 IV 186 c. 2; Schmocker,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 7 ss ad art. 221 CPP, pp. 1024 ss). L'intensité des charges propres à motiver un
+maintien en détention préventive n'est pas la même aux divers stades de l'instruction
+pénale. S
+i des soupçons,
+même encore peu précis, peuvent être suffisants dans les premiers temps de l'enquête,
+la perspective d'une condamnation doit apparaître vraisemblable après l'accomplissement des
+actes d'instruction envisageables (ATF 116 Ia 143 c. 3c; TF 1B_423/2010 du 17 janvier 2011 c. 4.1; Piquerez,
+Traité de procédure pénale suisse, 2
+e
+éd., Zurich 2006, n. 845; Schmocker, op. cit., n. 8 ad art. 221 CPP, p. 1025; Forster,
+in
+: Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, 2011,
+n. 3 ad art. 221 CPP, pp. 1459 s.). Les autorités de recours appelées à se prononcer sur
+la légalité d'une décision de maintien en détention provisoire ne doivent pas procéder
+à une pesée complète des éléments à charge et à décharge, ni
+apprécier la crédibilité des personnes qui mettent en cause le prévenu. Bien plutôt,
+elles doivent uniquement examiner s'il existe des indices sérieux de culpabilité justifiant
+une telle mesure (ATF 137 IV 122 c. 3.2; ATF 124 I 208 c. 3; ATF 116 Ia 413 c. 3c; TF 1B_423/2010
+du 17 janvier 2011 c. 4.1; TF 1B_410/2010 du 23 décembre 2010 c. 4.1; Forster, op. cit., n.
+3 ad art. 221 CPP, pp. 1459 s.).
+c)              L
+e
+droit d'être entendu, garanti tant par l'art. 29 al. 2 Cst. (Constitution fédérale de
+la Confédération suisse du 18 avril 1999; RS 101) que par l'art. 27 al. 2 Cst-VD (Constitution
+du Canton de Vaud du 14 avril 2003; RSV 101.01), comporte celui de recevoir une décision suffisamment
+motivée, c'est-à-dire permettant à la personne visée de la contester à bon escient
+(ATF 129 I 232 c. 3.2; ATF 125 II 369 c. 2c) et à l'autorité de recours d'exercer utilement
+son contrôle (ATF 126 I 97 c. 2b; ATF 124 II 146). Il s'agit d'un droit de nature formelle, dont
+la violation doit entraîner en principe l'annulation de la décision attaquée (ATF 122
+IV 8; ATF 121 I 230). Toutefois, la jurisprudence du Tribunal fédéral admet qu'une telle irrégularité
+peut être réparée lorsque l'intéressé peut s'exprimer librement devant une autorité
+de recours disposant du même pouvoir d'examen que l'autorité de première instance, et
+qui peut ainsi contrôler librement la décision attaquée (ATF 133 I 201 c. 2.2; ATF 129
+I 129 c. 2.2.3; TF 1B_36/2010 du 19 août 2010). La Chambre des recours pénale dispose d'un
+tel pouvoir d'examen, permettant de guérir le vice (art. 391 al. 1 CPP; CREP 14 mars 2011/46).
+3.
+a)              En l’espèce,
+le recourant est mis en cause par deux témoins, à savoir [...] et [...], pour avoir asséné
+un coup de couteau à la victime lors des faits incriminés. D’autres personnes affirment
+qu’il se trouvait sur les lieux des faits. Aucun élément n’infirme ces dépositions
+à ce stade de l’enquête. En dépit des dénégations du prévenu, il
+existe ainsi, en l’état de l’enquête, un faisceau d’indices convergents qui
+fonde des soupçons suffisants sous l’angle de l’art. 221 al. 1 in initio CPP.
+b)              Le prévenu conteste
+tout risque de collusion. Comme l’a retenu le premier juge, les versions des faits données
+par les témoins et les protagonistes de la rixe divergent sur plusieurs points. Le recourant ne
+le conteste du reste pas. A ceci s’ajoute qu’il y avait, sur les lieux lors des faits, 14
+personnes, dont les noms figurent au dossier, et qui ont été entendues. Dans de telles circonstances,
+il est à craindre que le prévenu ne mette à profit sa liberté pour tenter d’influencer
+des témoins, en particulier les deux témoins à charge déjà mentionnés,
+voire de capter d’autres dépositions en sa faveur, y compris de son comparse présumé
+actuellement en fuite.
+c)              Les conditions légales
+étant alternatives, et non cumulatives, point n’est besoin d’examiner les autres motifs
+légaux de la détention provisoire, s’agissant en particulier du risque de réitération,
+également contesté par le recourant (TF 1B_249/2011 du 7 juin 2011 c. 2.4; Forster, op. cit.,
+n. 4 ad art. 221 CPP, p. 1460). On retiendra cependant, par surabondance, que ce risque apparaît
+également réalisé. En effet, même si l’antécédent pénal du recourant,
+sur lequel se fonde l’ordonnance, est relativement ancien, il n’en portait pas moins sur
+des faits similaires à ceux de la présente enquête, à savoir l’usage d’un
+couteau au cours d’une altercation dans un établissement public. Cet élément s’ajoute
+au fait que le prévenu admet avoir l’habitude de porter sur lui un couteau. Il suffit à
+retenir un risque de réitération d’actes compromettant sérieusement la sécurité
+d’autrui au sens de l’art. 221 al. 1 let. c CPP.
+d)              Le recourant fait ensuite
+grief au premier juge d’une motivation insuffisante. L’ordonnance attaquée renvoie,
+pour partie, aux motifs de la première ordonnance, du 5 octobre 2013. Elle expose en outre les faits
+déterminants en droit et l’appréciation juridique que l’autorité en déduit.
+La motivation de l’ordonnance entreprise a permis au recourant d’en contester tous les points
+qu’il entendait soumettre à la cognition de la chambre de céans. Elle apparaît ainsi
+suffisante au regard des exigences déduites de l’ordre constitutionnel. Par surabondance,
+même si la motivation de l’ordonnance devait être tenue pour insuffisante, la partie
+a eu la faculté de faire valoir ses moyens devant une autorité de recours disposant d’un
+plein pouvoir d'examen, et qui peut ainsi contrôler librement la décision attaquée conformément
+à la jurisprudence fédérale résumée au considérant 2c ci-dessus.
+e)              Pour le reste, le recourant
+se prévaut du principe de la proportionnalité. Cette exigence est respectée eu égard
+au rapport entre la durée de la détention provisoire déjà subie, respectivement à
+subir jusqu’au 4 avril 2014, et la quotité de la peine privative de liberté dont le prévenu
+paraît passible. En effet, l’intéressé paraît s’exposer à une condamnation
+pour lésions corporelles graves à tout le moins, comme l’a indiqué la Procureure
+dans sa requête du 13 décembre 2013. Or l’art. 122 CP (Code pénal; RS 311.0) réprime
+cette infraction d’une peine de 180 jours-amende au moins, abstraction faite même de l’éventuel
+concours avec l’infraction de rixe, réprimée par l’art. 133 CP.
+f)              Enfin, il apparaît
+qu’aucune mesure de substitution n'offre de garanties suffisantes.
+4.
+Il résulte de ce qui précède que c’est à bon droit que le Tribunal des mesures
+de contrainte a ordonné la prolongation de la détention provisoire du prévenu dans la
+mesure requise par le Parquet.
+Partant, le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l'émolument
+d'arrêt (art. 422 al. 1 CPP), par 880 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux;
+RSV 312.03.1]), et des frais imputables à la défense d’office (art. 422 al. 1 et 2 let.
+a CPP), fixés à 540 fr. plus la TVA, par 43 fr. 20, soit 583 fr. 20, seront mis à la charge
+du recourant qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 27 décembre 2013 est confirmée.
+III.
+L'indemnité allouée au défenseur
+d'office de N.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes).
+IV.
+Les frais du présent arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité
+due au défenseur d’office du recourant selon le chiffre III ci-dessus, sont mis à la
+charge de N.________.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera exigible
+pour autant que la situation économique de N.________ se soit améliorée.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Katia Pezuela, avocate (pour N.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l'arrondissement
+de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
