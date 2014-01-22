@@ -1,0 +1,167 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2014___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2014 / 1"
+decided: "2014-01-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4201420"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-049.md"]
+---
+
+# VD Findinfo Réc-administrative / 2014 / 1
+
+## Regeste
+
+RÉCUSATION | 10 al. 2 LPA-VD, 11 al. 3 LPA-VD, 9 let. e LPA-VD
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 22.01.2014 Réc-administrative / 2014 / 1
+Vaud Tribunal cantonal Cour administrative 22.01.2014 Réc-administrative / 2014 / 1
+Vaud Tribunal cantonal Cour administrative 22.01.2014 Réc-administrative / 2014 / 1
+
+RÉCUSATION | 10 al. 2 LPA-VD, 11 al. 3 LPA-VD, 9 let. e LPA-VD
+
+TRIBUNAL
+CANTONAL
+4/2014
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 22 janvier 2014
+______________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Gabaz
+*****
+Art.
+10 al. 2, 11 al. 3 LPA-VD; 6 al. 1 let. a ROTC
+Vu le recours déposé auprès de la Cour de droit administratif et public du Tribunal cantonal
+(ci-après: CDAP) le 6 septembre 2013 par T.________ contre la décision sur réclamation
+rendue le 21 août 2013 par
+l'Administration
+cantonale des impôts
+(ci-après: ACI),
+vu le dossier de cette cause ([...]), instruit par le Juge cantonal W.________,
+vu le courrier du 15 décembre 2013 d'T.________,
+vu les déterminations du magistrat intimé, adressées pour informations aux parties,
+vu la cause [...] opposant les mêmes parties et instruite par le juge intimé,
+vu en particulier l'arrêt de la Cour de céans du 25 juillet 2013 rejetant la demande de récusation
+présentée par T.________ à l'encontre du Juge W.________ dans la cause [...],
+vu les autres pièces au dossier;
+attendu que le recours déposé le 6 septembre 2013 par T.________
+est pendant devant la CDAP,
+que les art. 9 à 12 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative; RSV 173.36)
+sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007; RSV 173.31.1), la Cour administrative est compétente pour statuer sur les demandes
+de récusation visant un juge cantonal,
+que le courrier du 15 décembre 2013 d'T.________ doit être compris comme une demande implicite
+de récusation du Juge W.________ dans la cause [...],
+que ce courrier contient en effet la requête de "confirmer que sont réunies, au sens de
+la jurisprudence de la CEDH, les conditions suffisantes qui permettent de conclure au manque d'impartialité
+du Juge W.________, qui a agi de façon ouvertement favorable à l'ACI",
+qu'au surplus, la demande apparaît déposée en temps utile au sens de l'art. 10 al. 2 LPA-VD;
+attendu que selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 Ia 172 c. 3),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (ATF 131 I 24 c. 1.1; ATF 124 I 121 c.
+3a, JT 1999 I 159 ; ATF 115 Ia 172 c. 3),
+que les impressions purement individuelles d'une des parties au procès ne sont en revanche pas décisives
+(TF 5D_61/2008 du 20 août 2008 c. 5.3; ATF 131 I 24 c. 1.1),
+que l'art. 6 §1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et
+des libertés fondamentales; RS 0.101), garantit le droit à être jugé par un tribunal
+indépendant et impartial, établi par la loi (ATF 127 I 44 c. 2),
+que l'art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999; RS 101) n'a, de ce point de vue, pas une portée différente de
+l'art.
+6 § 1 CEDH, toute personne dont la cause doit être jugée dans une procédure judiciaire
+ayant droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent,
+indépendant et impartial (TF 1C_235/2008 du 13 mai 2009 c. 3.1),
+qu'en particulier, la garantie du juge impartial s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (TF 1B_35/2010 du 18 mars 2010 c. 2.1; ATF 131 I 24 c. 1.1),
+qu'en l'espèce, on ne voit pas sur quelle base le requérant fonde sa requête,
+qu'il n'allègue pas d'autres éléments que ceux déjà soulevés dans sa demande
+de récusation rejetée par arrêt de la Cour de céans du 25 juillet 2013, confirmé
+par arrêt du Tribunal fédéral du 11 septembre 2013,
+qu'au surplus, aucune des mesures d'instruction auxquelles le Juge W.________ a procédé dans
+la cause [...] ne laisse entrevoir un motif de prévention à l'encontre d'T.________,
+qu'en définitive, il n'existe aucune raison de douter de l'impartialité du magistrat intimé,
+que la requête, mal fondée, doit ainsi être rejetée;
+attendu que lorsqu'une demande de récusation se révèle d'emblée mal fondée,
+il n'y a pas lieu de recueillir les déterminations des autres parties, mais de rejeter la demande
+au seul vu de la requête déposée au greffe ou de la dictée faite au procès verbal,
+que l'art. 49 CPC (Code de procédure civile du 19 décembre 2008; RS 272), applicable par renvoi
+de l'art. 32 al. 1 LPA-VD, ne prévoit d'ailleurs pas d'interpellation autre que celle du magistrat
+ou fonctionnaire concerné,
+que cette manière de procéder ne viole pas le droit d'être entendu du requérant,
+celui-ci devant présenter tous ses moyens dans sa requête ou dans sa dictée au procès-verbal,
+sous peine d'irrecevabilité des motifs soulevés ultérieurement (TF 5A_194/2010 du 13 septembre
+2010 c. 2.2 et 2.3),
+qu’en l’espèce, comme déjà vu, la demande de récusation se révèle
+manifestement mal fondée,
+qu’il n’y a donc pas lieu de recueillir les déterminations des autres parties, mais
+de rejeter la requête;
+attendu que la présente décision peut être rendue sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation du Juge cantonal W.________, présentée par T.________ le 15 décembre
+2013 est rejetée.
+II.
+L'arrêt est rendu sans frais.
+III.
+Il n'est pas alloué de dépens.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- T.________, personnellement,
+- M. le Juge cantonal W.________,
+et communiqué par l'envoi de photocopies à :
+- Administration cantonale des impôts,
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
