@@ -1,0 +1,287 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___74"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 74"
+decided: "2014-01-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4194295"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2014 / 74
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.01.2014 Décision / 2014 / 74
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+72
+PE11.009657-SDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Séance
+du 30 janvier 2014
+__________________
+Présidence
+de               M.
+A B R E C H T, président
+Juges
+:              MM.
+Meylan et Perrot
+Greffier
+:              M.
+Ritter
+*****
+Art.
+212 al. 3, 221 al. 1 CPP
+La Chambre des recours pénale prend séance à huis clos pour statuer sur le recours formé
+par
+H.________
+contre
+l'ordonnance de détention provisoire rendue le 17 janvier 2014 par le Tribunal des mesures de contrainte
+dans la cause le concernant (
+enquête
+n° PE11.009657-JON
+).
+Elle considère:
+E n  f a i t :
+A.
+H.________, né en 1992, a été appréhendé le 15 janvier 2014, à 11 h 45,
+à Lausanne.
+Le prévenu fait l’objet de trois instructions pénales (art. 309 CPP [Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0]), successivement ouvertes dès le 19 juin 2011 par
+le Ministère public de l'arrondissement de l’Est vaudois, pour diverses infractions contre
+le patrimoine (vol, dommages à la propriété et escroquerie d’importance mineure),
+ainsi que pour tentative de contrainte, violation de domicile, infraction à la loi fédérale
+sur les armes et infraction à la loi fédérale sur les stupéfiants.
+Des infractions postérieures au dernier fait incriminé dans ces causes sont à l’origine
+d’une nouvelle instruction, ouverte le 23 octobre 2013 par le Procureur du Ministère public
+de l'arrondissement de Lausanne pour vol, brigandage et tentative de brigandage. Par ordonnance du 31
+octobre 2013, les causes placées sous l’autorité du Ministère public de l'arrondissement
+de l’Est vaudois ont été jointes, avant d’être confiées au Ministère
+public de l'arrondissement de Lausanne par avis de reprise de cause du 7 janvier 2014, motif pris de
+ce que l’infraction la plus grave avait été commise dans l’arrondissement de Lausanne
+(enquête n° PE11.009657-JON).
+Les faits incriminés sont les suivants :
+-
+en juin 2011, à Lausanne, le prévenu aurait conclu plusieurs abonnements de téléphonie
+mobile dans le seul dessein d’obtenir des téléphones portables gratuits et de les revendre
+sans payer l’abonnement;
+-
+dans la nuit du 14 au 15 juin 2001, il aurait fait le guet pour permettre à deux comparses de dérober
+des consoles de jeux et des DVD dans un local sis à la route d’Echallens à Goumoëns-la-Ville;
+-
+le 15 juin 2011, il aurait fait le guet pour permettre aux deux mêmes acolytes de dérober des
+consoles de jeux et des DVD dans une ferme sise à Goumoëns-la-Ville;
+-
+entre le 20 juillet et le 2 août 2012, il aurait pénétré par effraction dans une
+buvette à Echichens et emporté de l’argent;
+-
+entre la fin de l’année 2012 et le mois de février 2013, à Echallens, il aurait
+vendu environ 60 g de marijuana pour la somme de 1'160 francs :
+-
+entre le 12 et le 13 janvier 2013, il aurait dérobé à un tiers une somme de 600 fr., ainsi
+qu’un bon d’achat d’une valeur de 100 fr. à faire valoir dans un commerce
+à grande surface;
+-
+le 21 janvier 2013, à Assens, il se serait introduit dans l’école du village et aurait
+dérobé divers objets;
+-
+en mai 2013, il aurait vendu environ 20 g de marijuana à divers écoliers pour le prix de quelque
+30 fr. le sachet de 2,7 g;
+-
+le 13 octobre 2013, il aurait dérobé sa bourse de sommelière à une employée
+d’un établissement public d’Epalinges;
+-
+le 14 octobre 2013, il aurait sprayé le visage d’une sommelière d’un établissement
+lausannois et lui aurait dérobé sa bourse qui contenait environ 800 francs;
+-
+le même jour, il aurait sprayé le visage d’une sommelière d’un établissement
+d’Epalinges et aurait tenté de dérober sa bourse.
+Le prévenu a reconnu en particulier les actes incriminés commis les 13 et 14 octobre 2013.
+Les investigations sont en cours.
+Le prévenu est incarcéré depuis son interpellation.
+B.
+Le 16 janvier 2014, le Procureur de l'arrondissement de Lausanne a saisi le Tribunal des mesures de contrainte
+d'une requête tendant à la mise en détention provisoire du prévenu pour une durée
+de trois mois. Le Parquet a invoqué les risques de fuite et de réitération que présenterait
+le prévenu. Il a ajouté que l’intéressé avait longtemps vécu sans domicile
+fixe.
+Entendu le 17 janvier 2014 par le Tribunal des mesures de contrainte, le prévenu, comparaissant
+à sa demande assisté de son défenseur d’office, a exprimé des regrets pour
+les actes incriminés, qu’il a tenté de justifier par le motif qu’il vivait alors
+dans la rue après qu’il eut abandonné le domicile familial. Il a toutefois affirmé
+que sa situation avait dorénavant changé en ce sens qu’il travaillait désormais,
+qu’il était retourné chez ses parents adoptifs au début du mois de décembre
+2013 et que le contact avec ces derniers était aujourd’hui bon (PV aud, lignes 26-28 et 47-49).
+Par ordonnance du 17 janvier 2014, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire de H.________ (I), a fixé la durée maximale de la détention provisoire à
+trois mois, soit au plus tard jusqu'au 15 avril 2014 (II), et a dit que les frais de la décision,
+par 525 fr., suivaient le sort de la cause (III). Tenant les soupçons pesant sur le prévenu
+pour suffisants, l'autorité a retenu qu’il existait un risque concret de réitération,
+voire de fuite. Elle a en outre estimé qu'aucune mesure de substitution n'offrait de garanties suffisantes.
+C.
+Le 27 janvier 2014, H.________, représenté par son défenseur d'office, a recouru auprès
+de la Chambre des recours pénale contre cette ordonnance, en concluant principalement à sa
+réforme en ce sens que sa libération immédiate soit ordonnée et subsidiairement à
+son annulation, la cause étant renvoyée au Tribunal des mesures de contrainte pour nouvelle
+décision dans le sens des considérants.
+E n  d r o i t :
+1.
+Aux termes de l’art. 393 al. 1 let. c CPP, le recours est recevable contre les décisions du
+tribunal des mesures de contrainte dans les cas prévus par le code. L’art. 222 CPP prévoit
+que le détenu peut attaquer devant l’autorité de recours les décisions ordonnant
+une mise en détention provisoire ou une mise en détention pour des motifs de sûreté
+ou encore la prolongation ou le terme de cette détention. Le recours doit être adressé
+par écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP), qui dans le
+canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire;
+RSV 173.01]).
+En l’espèce, il y a lieu d’entrer en matière sur le recours, qui a été
+interjeté en temps utile par le détenu devant l’autorité compétente et satisfait
+aux conditions de forme posées par l’art. 385 al. 1 CPP.
+2.
+a)
+Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d’avoir commis un crime ou un délit et qu’il y a sérieusement lieu de craindre
+(a) qu’il se soustraie à la procédure pénale ou à la sanction prévisible
+en prenant la fuite, (b) qu’il compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuve ou (c) qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre.
+Selon l’art. 212 al. 3 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne doivent pas durer plus longtemps que la peine privative de liberté prévisible.
+b)              Le maintien en détention
+avant jugement ne peut se justifier en raison d’un risque de réitération que si le pronostic
+est très défavorable et si les délits dont l'autorité redoute la réitération
+sont graves (ATF 137 IV 84 c. 4.5, JT 2011 IV 325; ATF 135 I 71 c. 2.3; ATF 133 I 270 c. 2.2 et les arrêts
+cités, JT 2011 IV 3; TF 1B_39/2013 du 14 février 2013 c. 2.1). Le risque de réitération
+peut également se fonder sur les infractions faisant l'objet de la procédure pénale en
+cours, si le prévenu est fortement soupçonné – avec une probabilité confinant
+à la certitude – de les avoir commises (ATF 137 IV 84 c. 3.2 et les références citées,
+JT 2011 IV 325; TF 1B_39/2013 ibidem). Pour établir son pronostic, le juge doit s'attacher à
+la situation personnelle du prévenu, en tenant compte notamment de ses antécédents judiciaires,
+de sa fragilité psychique, de la nature des infractions commises, ainsi que du nombre et de la fréquence
+des infractions en cause (Schmocker,
+in
+:
+Kuhn/ Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 20 ad art. 221 CPP). La prévention du risque de récidive doit permettre de faire prévaloir
+l'intérêt à la sécurité publique sur la liberté personnelle du prévenu
+(ATF 137 IV 13 c. 4.5)
+.
+3.
+a)              En l’espèce,
+le recourant ne conteste pas les soupçons retenus à son encontre, à juste titre; bien
+plutôt, il admet dans leur grande majorité les faits incriminés. Il conteste en revanche
+d’abord le risque de réitération. Il fait valoir que son casier judiciaire est vierge
+et que les actes incriminés auraient été commis durant des périodes bien définies,
+durant lesquelles il était à la rue, sans ressources économiques ni encadrement; a contrario,
+il n’aurait pas perpétré d’infraction depuis son retour au domicile de ses parents
+vers la fin de l’année 2013. Il soutient ainsi que, dans ce nouveau contexte, le pronostic
+à poser à son égard ne saurait être considéré comme très défavorable
+et que le risque de réitération ne serait que faible et théorique.
+b)              Le prévenu fait
+l’objet d’investigations pénales depuis 2011. Les faits incriminés sont réputés
+avoir été commis jusqu’au 14 octobre 2013. La chronologie des infractions retenues révèle
+une aggravation dans le mode opératoire, que le Parquet qualifie de «montée en puissance
+dans la délinquance» (requête du 16 janvier 2014, p. 3). En effet, les actes incriminés
+les plus récents, perpétrés les 13 et 14 octobre 2013, comportent des atteintes à
+l’intégrité physique des victimes, par l’usage d’un spray, d’où
+les qualifications de brigandage, respectivement de tentative de brigandage, retenues pour ces infractions.
+Ces actes menacent l’ordre public. La durée séparant le retour du prévenu au domicile
+de ses parents et son interpellation est trop brève pour en tirer argument en sa faveur. Partant,
+le comportement de l’intéressé doit, dans une certaine mesure au moins, être tenu
+pour imprévisible. A ceci s’ajoute, comme le relève le Procureur, que le prévenu
+n’a pas tenu compte des mises en garde qui lui avaient été adressées par le magistrat
+lors de la phase initiale de l’instruction quant aux conséquences d’une éventuelle
+réitération. Il y a donc lieu de craindre que le prévenu compromette sérieusement
+la sécurité d’autrui par des crimes ou des délits graves au sens de la loi.
+c)              Les conditions légales
+étant alternatives, et non cumulatives, point n’est besoin d’examiner les autres motifs
+légaux de la détention provisoire, s’agissant en particulier du risque de fuite (TF 1B_249/2011
+du 7 juin 2011 c. 2.4; Forster, op. cit., n. 4 ad art. 221 CPP, p. 1460). Il peut cependant être
+relevé, par surabondance, que ce risque paraît également réalisé, vu le fait
+que le prévenu, qui a longtemps vécu à la rue, a l’habitude de la clandestinité.
+d)              Pour le reste, le recourant
+se prévaut du principe de la proportionnalité. Cette exigence est cependant respectée
+eu égard au rapport entre la durée de la détention provisoire déjà subie, respectivement
+à subir jusqu’au 15 avril 2014, et la quotité de la peine privative de liberté dont
+le prévenu paraît passible, s’agissant d’une enquête ouverte notamment pour
+brigandage (ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1; TF 1B_411/2011 du 31 août 2011 c. 4.1).
+e)              Enfin, il apparaît
+qu’aucune mesure de substitution n'offre de garanties suffisantes, au regard notamment du risque
+de réitération mentionné ci-dessus.
+4.
+Il résulte de ce qui précède que c’est à bon droit que le Tribunal des mesures
+de contrainte a ordonné la détention provisoire du prévenu. Au surplus, le terme prévu
+ne prête pas le flanc à la critique au vu de l’avancement de l’enquête.
+Partant, le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l'émolument
+d'arrêt (art. 422 al. 1 CPP), par 880 fr. (art. 20 al. 1 TFJP [tarif des frais judiciaires pénaux;
+RSV 312.03.1]), et des frais imputables à la défense d’office (art. 422 al. 1 et 2 let.
+a CPP), fixés à 540 fr. plus la TVA, par 43 fr. 20, soit 583 fr. 20, seront mis à la charge
+du recourant qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale,
+statuant
+à huis clos,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 17 janvier 2014 est confirmée.
+III.
+L'indemnité allouée au défenseur
+d'office de H.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes).
+IV.
+Les frais du présent arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité
+due au défenseur d’office du recourant selon le chiffre III ci-dessus, sont mis à la
+charge de H.________.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus sera exigible
+pour autant que la situation économique de H.________ se soit améliorée.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Me Fabien Hohenauer, avocat (pour H.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+M. le Procureur de l'arrondissement
+de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
