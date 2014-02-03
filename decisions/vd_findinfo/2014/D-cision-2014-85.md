@@ -1,0 +1,186 @@
+---
+decision_id: "vd_findinfo_D_cision___2014___85"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2014 / 85"
+decided: "2014-02-03"
+published: "2014-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4194023"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-233.md"]
+---
+
+# VD Findinfo Décision / 2014 / 85
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH), 233 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 03.02.2014 Décision / 2014 / 85
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH), 233 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+46
+PE10.022622-MYO//PBR
+la
+presidente
+de
+la COUR D’APPEL PENALE
+______________________________
+Séance
+du 3 février 2014
+__________________
+Présidence
+de               Mme
+Rouleau
+,
+présidente
+Greffière
+:              Mme
+Choukroun
+*****
+Parties
+à la présente cause :
+T.________
+,
+prévenu, représenté par Me Mathias Burnand, avocat de choix à Lausanne, requérant,
+et
+Ministère
+public
+, représenté par M. le Procureur
+général du canton de Vaud, intimé,
+D.________,
+plaignante, représentée par Me Nicole
+Wiebach, avocate de choix, à Vevey, intimée,
+L.________
+,
+plaignante et intimée,
+C.________
+,
+plaignante et intimée.
+Vu le jugement du 19 décembre 2013 par lequel le Tribunal correctionnel de l’arrondissement
+de Lausanne a condamné T.________ pour remise à des enfants de substances pouvant mettre en
+danger leur santé, actes d’ordre sexuel avec des enfants, actes d’ordre sexuel avec
+des personnes dépendantes et contrainte sexuelle, à cinq ans de privation de liberté,
+sous déduction de 370 jours de détention avant jugement, et ordonné un traitement psychiatrique
+ambulatoire en détention (I), pris acte pour valoir jugements civils définitifs et exécutoires
+des conventions passées entre T.________ et, respectivement, D.________, L.________ et C.________,
+respectivement, les 13/16 décembre 2013 et au procès-verbal de l’audience du 16 décembre
+2013 (II), dit que T.________ est débiteur de D.________ de 30'000 fr. à titre de juste indemnité
+pour les dépenses occasionnées par la procédure (III), ordonné la confiscation des
+objets séquestrés sous fiche 22 et le maintien au dossier à titre de pièces à
+conviction des DVD et objets inventoriés sous fiches 1909, 104, 23 et 404 (IV) et mis les frais,
+par 42'112 fr. 45, à la charge de T.________ (V),
+vu la décision du même jour du tribunal correctionnel, ordonnant la mise en détention
+de T.________,
+vu l’annonce d'appel et la requête de mise en liberté immédiate déposées
+le 20 décembre 2013 par T.________,
+vu la décision rendue par la Présidente de la Cour de céans le
+23
+décembre 2013, rejetant la demande de mise en liberté présentée par T.________,
+vu la déclaration d’appel motivée déposée le 30 janvier 2014 par T.________
+contre ce jugement, concluant au prononcé d’une peine privative de liberté compatible
+avec le sursis partiel,
+vu la requête de mise en liberté immédiate contenue dans son appel, adressée à
+la Cour d’appel pénale,
+vu les déterminations du Procureur général du canton de Vaud datées du 3 février
+2014,
+vu les pièces du dossier;
+attendu
+qu'aux termes de l'art. 233 CPP, la direction de la procédure de la juridiction d'appel statue dans
+les cinq jours sur les demandes de libération,
+qu'en vertu de la disposition précitée, le prévenu peut déposer une demande de libération
+en tout temps (Logos, in : Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 5 ad art. 233 CPP),
+que la requête de T.________ est recevable,
+qu’elle est toutefois de la compétence de la Présidente de la Cour d’appel ;
+attendu qu'en vertu de l'art. 221 CPP, la détention provisoire et la détention pour motifs
+de sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d'avoir commis un crime ou un délit et qu'il y a sérieusement lieu de craindre: qu'il se soustraie
+à la procédure pénale ou à la sanction prévisible en prenant la fuite (a); qu'il
+compromette la recherche de la vérité en exerçant une influence sur des personnes ou en
+altérant des moyens de preuve (b); qu'il compromette sérieusement la sécurité d'autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (c),
+qu’en l’occurrence, le prévenu n’a contesté ni la décision du tribunal
+correctionnel ordonnant sa mise en détention, ni la décision de la Présidente de la Cour
+de céans rejetant sa précédente demande de libération,
+que la situation n’a pas évolué depuis lors,
+qu’on peut ainsi constater, comme précédemment, ce qui suit ;
+attendu que le Tribunal correctionnel de l'arrondissement de Lausanne a condamné T.________ pour
+les actes qui lui étaient reprochés,
+que le prévenu ne conteste au demeurant pas les faits,
+qu'il existe donc des soupçons suffisants au sens de l'art. 221 CPP;
+attendu que le tribunal correctionnel a estimé qu’il existait une situation de danger eu égard
+à la pathologie psychiatrique du prévenu (jgt., pp. 48, 51),
+qu’en effet le risque de récidive existe au vu de la durée des faits reprochés au
+prévenu, ce dernier ayant agi durant dix ans,
+que le risque de récidive est également qualifié d’élevé par l’expert
+psychiatre en raison des troubles psychiques dont souffre le prévenu et de sa tendance à banaliser
+ses actes,
+que le traitement actuellement suivi par le prévenu ne modifie pas ce constat,
+que ce traitement ne consiste en effet pas en la prise de médicaments, qui auraient un effet immédiat,
+mais en un suivi psychique à long terme qui ne peut dès lors pas supprimer immédiatement
+le risque de récidive,
+qu’on doit ainsi admettre qu’il existe bel et bien un risque de récidive au sens de
+l'art. 221 al. 1 lit. c CPP ;
+attendu que l’art. 212 al. 2 CPP dispose notamment que le prévenu doit être libéré
+des mesures de contrainte entraînant une privation de liberté si des mesures de substitution
+permettent d’atteindre le même but,
+qu’en l’occurrence, les mesures de substitutions envisagées comprennent l’absence
+de toute activité, professionnelle ou autre, impliquant des relations suivies avec des jeunes filles,
+qu’il est concrètement impossible de contrôler que, dans toutes ses activités, le
+prévenu n’ait aucune relation avec des jeunes filles,
+qu’au vu de ce qui précède, aucune mesure de substitution n’apparaît suffisante
+pour pallier le risque de récidive ;
+attendu, pour le surplus, que le principe de la proportionnalité des intérêts en présence
+est encore respecté, l’audience d’appel étant d’ores et déjà fixée
+au 31 mars 2014 et compte tenu de la gravité des infractions reprochées au requérant et
+de la durée de la peine qu'il encourt (ATF 133 I 168),
+qu'en définitive, le maintien en détention pour des motifs de sûreté se justifie,
+qu'il convient donc de rejeter la requête de mise en liberté formée par T.________ ;
+attendu qu'il sera statué sur les frais de la présente décision à l'issue de la cause
+au fond.
+Par
+ces motifs,
+la
+Présidente de la Cour d’appel pénale,
+en
+application des articles 221 al. 1 let. c et 233 CPP
+statuant
+à huis clos :
+I.
+Rejette la requête de mise en liberté présentée par T.________.
+II.
+Dit que les frais suivent le sort de la cause.
+III.
+Déclare la présente décision exécutoire.
+La
+présidente :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Mathias Burnand, avocat (pour T.________),
+-
+M. le Procureur général du canton de Vaud,
+et communiquée à :
+-
+M. le Président du Tribunal correctionnel de l’arrondissement de Lausanne,
+-
+Office d’exécution des peines,
+-
+Prison du Bois-Mermet,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
