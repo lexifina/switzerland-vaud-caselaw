@@ -1,0 +1,272 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2014___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2014 / 2"
+decided: "2014-03-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4364688"
+cites_law: ["switzerland/bund/acts/220/art-053.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-124.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/311.0/art-158.md", "switzerland/bund/acts/311.0/art-164.md"]
+---
+
+# VD Findinfo Jug-inc / 2014 / 2
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE, PROCÉDURE PÉNALE | 123 al. 2 CPC, 123 CPC, 124 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 05.03.2014 Jug-inc / 2014 / 2
+
+SUSPENSION DE LA PROCÉDURE, PROCÉDURE PÉNALE | 123 al. 2 CPC, 123 CPC, 124 CPC
+
+é
+TRIBUNAL
+CANTONAL
+CO11.029336
+17/2014/DCA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+Y.________
+et
+K.________
+,
+tous deux au Mont-sur-Lausanne, d'avec
+A.A.________
+,
+à Dubaï (Emirats Arabes Unis),
+B.A.________
+,
+à Meyrin, et
+T.________
+,
+à Londres (Royaume-Uni).
+___________________________________________________________________
+Du
+5 mars 2014
+____________
+Présidence
+de               Mme
+Carlsson
+,
+juge instructeur
+Greffier
+:              Mme
+Esteve
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès ouvert devant le Juge de Paix du district de Morges par l'administration de la masse
+en faillite de [...] à l'encontre d'A.A.________ et B.A.________, selon requête de conciliation
+du 29 janvier 2010,
+vu le procès ouvert devant le Juge de Paix du district de Morges par l'administration de la masse
+en faillite de [...] à l'encontre de T.________, selon requête de conciliation du même
+jour,
+vu l'avis du 8 juillet 2010 du Juge de Paix du district de Morges prenant acte de la cession des droits
+de l'administration de la masse en faillite de [...] en faveur de Y.________ et K.________,
+vu le procès ouvert devant le Juge de Paix du district de Morges par Y.________ et K.________ à
+l'encontre d'A.A.________ et B.A.________, selon requête de conciliation du 30 décembre 2010,
+vu les actes de non-conciliation délivrés dans ces trois procédures par le Juge de paix
+du district de Morges,
+vu la demande déposée le 20 janvier 2011 devant la Cour civile du Tribunal cantonal par Y.________
+et K.________ à l'encontre de T.________,
+vu les deux demandes déposées le 5 août 2011 devant la Cour civile du Tribunal cantonal
+par Y.________ et K.________ à l'encontre d'A.A.________ et B.A.________,
+vu la jonction de ces trois causes intervenue par décision du juge instructeur du 10 juin 2013,
+vu la requête en suspension de cause déposée le 18 octobre 2013 par les défendeurs
+au fond et requérants A.A.________, B.A.________ et T.________, qui ont pris, sous suite de frais
+et dépens, les conclusions suivantes :
+"
+I.-
+La requête de suspension est admise.
+II.-
+En conséquence, l'instance actuellement pendante devant la Cour civile du Tribunal cantonal, et
+divisant M. A.A.________, M. B.A.________ et T.________ d'une part à M. Y.________ et Mme K.________
+d'autre part, sous N° CO11.029336 est suspendue jusqu'à droit connu sur l'instance pénale
+diligentée par le Procureur de l'arrondissement de La Côte, dans la cause PE09.015049-CDT.
+III.-
+Un nouveau délai de Duplique sera imparti aux requérants A.A.________, B.A.________ et T.________
+dans un délai d'un mois suivant décision définitive et exécutoire au sujet de l'instance
+pénale PE09.015049-CDT.",
+vu l'avis du 22 octobre 2013, par lequel le juge instructeur a notifié la requête aux demandeurs
+au fond et intimés Y.________ et K.________ et leur a imparti un délai au 11 novembre 2013
+pour faire la déclaration prévue par l'art. 148 CPC-VD (Code de procédure civile
+vaudois du 14 décembre 1966 dans sa teneur en vigueur au 31 décembre 2010; RSV 270.11)
+ou indiquer les mesures d'instruction demandées, dit avis valant interpellation au sens de l'art.
+149 al. 4 CPC-VD pour toutes les parties,
+vu l'avis du juge instructeur du 2 décembre 2013, impartissant aux parties requérantes et intimées
+un délai, respectivement aux 6 et 21 janvier 2014, pour déposer un mémoire incident et
+les informant qu'à l'échéance de ce dernier délai, il serait statué sans plus
+ample instruction, en application de l'art. 149
+al.
+4 CPC-VD,
+vu le mémoire incident déposé le 12 février 2014 par les requérants, dans le
+délai prolongé à cet effet,
+vu les déterminations déposées le 3 mars 2014 par les intimés, dans le délai
+prolongé à cet effet, par lesquelles ils ont conclu, avec suite de frais et dépens, au
+rejet des conclusions incidentes,
+vu les pièces au dossier,
+vu les art. 19, 123 al. 2, 124 et 146 ss CPC-VD;
+attendu qu'à teneur de l'art. 404 al. 1 CPC (Code de procédure civile suisse du 19 décembre
+2008, RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau droit demeurent
+régies par l'ancien droit de procédure cantonal jusqu'à la clôture de l'instance,
+que le jugement incident rendu dans le cadre d'une procédure au fond soumise à l'ancien droit
+de procédure cantonal est également régi par cet ancien droit (CREC II 20 juillet 2011/66
+c. 1a; Haldy, La nouvelle procédure civile suisse, p. 3, n. 7; Tappy, Le droit transitoire
+applicable lors de l'introduction de la nouvelle procédure civile unifiée,
+in
+JT 2010 III 11, spéc. pp. 36 à 38),
+que la procédure au fond était en cours lors de l'entrée en vigueur du CPC le 1
+er
+janvier 2011,
+qu'elle demeure donc régie par l'ancien droit de procédure, soit notamment le CPC-VD,
+qu'il en va de même de la présente procédure incidente;
+attendu qu'en vertu de l'art. 123 al. 2 CPC-VD, le juge instructeur saisi d'une requête en suspension
+de cause statue en la forme incidente (Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+e
+éd., n. 3 ad art. 124 CPC-VD),
+qu'en l'espèce, la requête en suspension de cause satisfait aux exigences des art. 19 et 147
+al. 1
+CPC-VD,
+qu'elle est ainsi recevable en la forme;
+attendu que le juge peut suspendre l'instruction du procès pour un temps déterminé en
+cas de nécessité (art. 123 CPC-VD),
+que la suspension est un acte grave et exceptionnel, qui exige la réalisation effective d'un état
+de nécessité dont il appartient au juge d'apprécier l'existence (JT 2002 III 186 c. 2;
+JT 1993 III 113 c. 3a; Poudret/Haldy/Tappy, op. cit., n. 4 ad art. 123 CPC-VD),
+que la suspension se justifie lorsque le sort du procès peut dépendre de l'issue d'une autre
+procédure civile, pénale ou administrative afin d'éviter des jugements même indirectement
+contradictoires, sans pour autant qu'il y ait litispendance (Poudret/Haldy/ Tappy, op. cit., n. 3 ad
+art. 123 CPC-VD),
+que lorsqu'une partie fonde ses prétentions sur un fait qui est l'objet d'une procédure pénale,
+la suspension de l'instance civile n'est ordonnée que si le fait est de nature à influer sur
+le résultat de la contestation et que cette mesure apparaisse indispensable (art. 124 al. 1 CPC-VD),
+que la cause ainsi suspendue est reprise dès la décision définitive sur la poursuite pénale
+(art. 124 al. 2 CPC),
+que la suspension prévue par cette disposition répond à l'idée que la preuve de certains
+faits sera facilitée par la procédure pénale, au cours de laquelle des faits peuvent être
+précisés ou des éléments nouveaux révélés (JT 1999 III 66;
+JT
+1974 III 78),
+qu'en précisant qu'elle doit apparaître indispensable, le législateur a voulu confirmer
+la jurisprudence rendue sous l'empire du code de 1911 (BGC 1966, p. 710; JT 1999 III 66; JT 1977 III
+28), selon laquelle la suspension en raison d'un procès pénal devait être opportune au
+regard des prescriptions des art. 53 CO (loi fédérale du 30 mars 1911 complétant le code
+civil suisse, RS 220) et 1 al. 3 CPC-VD, et justifiée par des circonstances impérieuses (JT
+1999 III 66; JT 1964 III 128;
+JT 1956 III
+29),
+qu'il n'est pas nécessaire que la condamnation du prévenu semble probable, ni même souhaitable
+que le juge civil se livre à un pronostic au sujet de l'issue du procès pénal, la plainte
+devant tout au plus ne pas apparaître d'emblée téméraire (JT 1977 III 28; JT 1975
+III 7;
+contra
+JT 1979 III 12, critiqué par Poudret dans une note publiée au JT 1979 III 16);
+attendu que selon la jurisprudence, quatre conditions doivent être réunies pour que la suspension
+à raison d'un procès pénal puisse être accordée, le défaut d'une seule
+d'entre elles suffisant à exclure cette mesure (JT 1999 III 66
+c.
+3a),
+qu'en premier lieu, il faut que le procès pénal porte sur un fait pertinent allégué
+en procédure civile ou susceptible de l'être une fois connue la solution du procès pénal,
+que ce fait doit ensuite constituer un fondement de l'action civile,
+que le fait invoqué doit en outre être de nature à influer sur le résultat de celle-ci,
+qu'en dernier lieu, la suspension doit se révéler indispensable, le juge devant tenir compte
+de la nature de la contestation, de l'état d'avancement de l'instance civile et de la procédure
+pénale, ainsi que des avantages et inconvénients de la suspension, respectivement de son refus
+(JT 1999 III 66 c. 3a et les références citées; Poudret/Haldy/Tappy, op. cit., n. 2 ad
+art. 124 CPC),
+que le juge doit donc apprécier dans chaque cas l'opportunité de la suspension en partant du
+principe que la suspension est une mesure grave qui doit être justifiée par des raisons impérieuses
+(JT 1956 III 29; Poudret/Haldy/Tappy,
+op.
+cit., n. 2 ad art. 124 CPC-VD),
+que les trois premières conditions susmentionnées constituent la variation d'une seule et même
+condition (CREC I 26 janvier 2009/47),
+qu'en effet, pour qualifier un fait de pertinent, il faut nécessairement entendre un fait sur lequel
+repose l'action civile et qui est par conséquent de nature à influer sur son résultat
+(CREC I 26 janvier 2009/47);
+attendu qu'en l'espèce, les demandeurs ont introduit une action révocatoire et une action en
+responsabilité contre les défendeurs A.A.________ et B.A.________, ainsi qu'une action révocatoire
+à l'encontre de la défenderesse T.________,
+qu'ils reprochent notamment aux défendeurs A.A.________ et B.A.________ d'avoir prélevé
+les sommes de 150'000 fr. et 230'000 fr. des comptes bancaires de [...] à titre de remboursement
+partiel d'un prêt d'actionnaire, alors qu'ils ne pouvaient ignorer la situation de surendettement
+de cette société,
+qu'ils allèguent notamment à cet égard qu'entre le 31 décembre 2006 et le 28 juillet
+2007, un montant de 409'024 fr. 80 a été remboursé aux actionnaires par [...],
+que ce fait est contesté,
+que l'action pénale concerne notamment ces prélèvements, les demandeurs soutenant que
+les défendeurs se seraient ainsi rendus coupables de diminution effective de l'actif au préjudice
+des créanciers (art. 164 CP [Code pénal suisse du 21 décembre 1937, RS 311.0]) et de gestion
+déloyale (art. 158 CP),
+qu'à l'évidence, l'enquête pénale porte ainsi sur des faits pertinents, allégués
+en procédure civile et constituant le fondement d'une partie des prétentions civiles des demandeurs,
+que l'issue de la procédure pénale pourrait donc influencer le procès civil,
+que compte tenu de l'état d'avancement tant de la procédure civile que de la procédure
+pénale, la condition de l'existence de raisons impérieuses de suspendre le procès civil
+est également remplie,
+qu'en conséquence, la requête incidente en suspension de cause doit être admise;
+attendu que les frais de la procédure incidente, arrêtés à 1'500 fr., sont mis à
+la charge des requérants, conformément aux art. 4 al. 1, 5 al. 1, 10 al. 1 et 170a al.
+1 aTFJC (tarif du 4 décembre 1984 des frais judiciaires en matière civile, abrogé par
+l'entrée en vigueur, le 1
+er
+janvier 2011, du tarif des frais judiciaires civils du 28 septembre 2010 [TFJC, RSV 270.11.5] et
+applicable en vertu de l'art. 99 al. 1 TFJC),
+qu'en matière incidente, le juge statue sur les dépens comme en matière de jugement au
+fond (art. 150 al. 2 CPC-VD),
+que les dépens sont alloués à la partie qui a obtenu l'adjudication de ses conclusions
+(art. 92 al. 1 CPC-VD),
+qu'ils comprennent principalement les frais de justice, les honoraires et les débours d'avocat (art.
+91 let. a et c CPC-VD),
+que les honoraires d'avocat sont fixés selon le tarif des honoraires d'avocat dus à titre de
+dépens du 17 juin 1986 (aTAv, RSV 177.11.3, tarif abrogé par l'entrée en vigueur, le 1
+er
+janvier 2011, du tarif des dépens en matière civile du 23 novembre 2010 [TDC, RSV 270.11.6]
+et applicable en vertu de l'art. 26 al. 2 TDC),
+que les intimés, qui succombent, verseront aux requérants, solidairement entre eux, la somme
+de 2'700 fr. à titre de dépens de l'incident (art. 2 al. 1 ch. 11 et 4 al. 2 TAv), soit 1'500 fr.
+à titre de remboursement de leur coupon de justice et 1'200 fr. à titre de participation aux
+honoraires de leur conseil.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête incidente déposée le 18 octobre 2013 par les requérants A.A.________,
+B.A.________ et T.________ est admise.
+II.
+La cause est suspendue jusqu'à droit connu sur l'instance pénale diligentée par le Procureur
+de l'arrondissement de La Côte dans la cause PE09.015049-CDT.
+III.
+Les frais de la procédure incidente sont arrêtés à 1'500 fr. (mille cinq cents
+francs) pour les requérants, solidairement entre eux.
+IV.
+Les intimés Y.________ et K.________, solidairement
+entre eux, verseront aux requérants, solidairement entre eux, la somme de 2'700 fr. (deux mille
+sept cents francs) à titre de dépens de l'incident.
+Le
+juge instructeur :
+Le greffier :
+D.
+Carlsson              I. Esteve
+Du
+Le jugement qui précède, dont le dispositif a été expédié pour notification
+le 13 mars 2014, lu et approuvé à huis clos, est notifié, par l'envoi de photocopies,
+aux conseils des parties
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+I. Esteve
