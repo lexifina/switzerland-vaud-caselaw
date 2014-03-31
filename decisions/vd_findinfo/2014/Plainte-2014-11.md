@@ -1,0 +1,352 @@
+---
+decision_id: "vd_findinfo_Plainte___2014___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2014 / 11"
+decided: "2014-03-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4285068"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-034.md", "switzerland/bund/acts/220/art-394.md", "switzerland/bund/acts/220/art-396.md", "switzerland/bund/acts/220/art-404.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-027.md"]
+---
+
+# VD Findinfo Plainte / 2014 / 11
+
+## Regeste
+
+PLAINTE{LP}, POUVOIR DE REPRÉSENTATION, REPRÉSENTATION, REPRÉSENTATION EN PROCÉDURE | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 31.03.2014 Plainte / 2014 / 11
+
+PLAINTE{LP}, POUVOIR DE REPRÉSENTATION, REPRÉSENTATION, REPRÉSENTATION EN PROCÉDURE | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA13.048496-140004
+11
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+31 mars 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Carlsson et M. Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.Q.________
+,
+à Epalinges, contre la décision rendue le 18 décembre 2013, à la suite de l’audience
+du 5 décembre 2013, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, dans la cause qui l'oppose à l'
+OFFICE
+DES POURSUITES DU DISTRICT DE LAUSANNE
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 1
+er
+décembre 2013, A.Q.________, par l’intermédiaire de son conseil, Me R.________, a déposé
+une réquisition de poursuite auprès de l’Office des poursuites du district de Lausanne
+(ci-après: l'office) à l’encontre de B.Q.________, pour un montant de 4'000 fr., à
+titre de contribution d’entretien des enfants. Le mandataire a également produit une procuration
+signée le 29 novembre 2012 par A.Q.________ l’autorisant à le représenter dans l’affaire
+"divorce, contribution à l’entretien, poursuite B.Q.________". La requête a
+été enregistrée auprès de l’office sous la référence n° 6'442'644.
+b)
+Le 14 août 2013, B.Q.________ s’est
+acquittée de la totalité de la créance en poursuite en versant à l’office un
+montant de 5'445 fr. 25.
+c)
+Par courrier du 30 septembre 2013, Me R.________
+a rappelé à l’office que les paiements en relation avec la poursuite n° 6'442'644,
+notamment, devaient se faire sur le compte indiqué sur la réquisition de poursuite, à
+savoir le compte [...] au nom de R.________ [...]. Il a par ailleurs joint à son envoi une procuration
+signée par A.Q.________ le 17 septembre 2013 l’autorisant à le représenter dans
+l’affaire "B.Q.________". Ce document stipule notamment ce qui suit :
+"Le mandataire
+est autorisé à représenter le mandant dans toutes les procédures extrajudiciaires
+ainsi que devant toute juridiction ou autorité administrative cantonale ou fédérale et
+de prendre toutes les mesures prévues par la Loi fédérale sur la poursuite pour dettes
+et la faillite. Cette procuration comprend également la représentation en matière pénale,
+plus particulièrement le dépôt et le retrait de plaintes et conclusions. Le mandataire
+est autorisé à conclure une convention d’arbitrage et de représenter le mandant
+devant les tribunaux d’arbitrage. Le mandataire peut en outre déposer et retirer des conclusions,
+des recours, conclure des transactions, se désister, d’encaisser des avoirs et des créances
+de remboursement, et de recevoir et remettre des espèces, papiers-valeurs ou autres objets, ainsi
+que prendre toute les mesures, pour lesquelles le droit cantonal ou fédéral requiert une procuration
+spéciale.
+Le mandataire
+est autorisé à représenter le mandant dans la conclusion d’actes authentiques, pour
+les opérations concernant le registre foncier et dans les relations bancaires.
+Cette procuration
+a caractère générale [sic] dans les limites de son objet…".
+d)
+En date du 9 octobre 2013, l’office a
+versé sur le compte désigné par Me R.________ la somme de 5'458 fr. 45, correspondant
+au produit la poursuite n° 6'442'644.
+e)
+Par courrier du 23 octobre 2013, Me R.________
+a informé A.Q.________ qu’il compensait le montant perçu de l’office avec des honoraires
+dus au titre de son mandat.
+2.
+a)
+Par courrier du 7 novembre 2013, adressé
+au Président du Tribunal d’arrondissement de Lausanne, A.Q.________ a déposé plainte
+en soutenant, en substance, que le montant payé par B.Q.________ n’aurait pas dû être
+versé sur le compte de Me R.________. Il a par ailleurs conclu à ce que le montant payé
+par B.Q.________ à titre de pension alimentaire lui soit transféré.
+A l’appui de sa plainte, A.Q.________ a produit les documents suivants :
+-
+un procès-verbal de saisie établi le 23 octobre 2013 par l’office dans le cadre d’une
+poursuite dirigée contre A.Q.________ dont il ressort, notamment, que Me R.________ a informé
+l’office, le 16 août 2013, qu’il ne représentait plus les intérêts d’A.Q.________,
+avant de lui indiquer, le 1
+er
+octobre 2013, qu’il était à nouveau son conseil;
+-
+un extrait du compte bancaire de Me R.________, daté du 24 octobre 2013, attestant que la somme
+de 5'458 fr. 45 versée par l’office des poursuites en règlement de la poursuite n°
+6'442'644 a été créditée le 14 octobre 2013.
+b)
+Dans ses déterminations du 29 novembre
+2013, l’office a conclu au rejet de la plainte.
+B.Q.________ a fait de même par déterminations du 2 décembre 2013.
+c)
+Une audience s’est tenue le 5 décembre
+2013 en présence du plaignant, du représentant de B.Q.________ et de l’huissier chef
+de l’office des poursuites du district de Lausanne.
+A cette occasion, A.Q.________ a déposé une écriture complémentaire et produit les
+pièces suivantes :
+-
+une copie d’un courrier adressé le 13 décembre 2011 au Tribunal d’arrondissement
+de Lausanne par Me Habib Tabet, mandataire d’office d’A.Q.________, dans le cadre de la procédure
+de divorce opposant ce dernier à B.Q.________;
+-
+une copie d’un extrait du journal de poste de la police municipale d’Epalinges du 28 juin
+2008;
+-
+une copie de la décision motivée du 22 mai 2013 du Juge de paix du district de Lausanne prononçant
+la mainlevée définitive de l’opposition formée par B.Q.________ au commandement
+de payer qui lui avait été notifié dans la poursuite ordinaire n° 6'442'644 à
+la réquisition d'A.Q.________, représenté par Me R.________;
+-
+une copie d’un courrier adressé le 31 janvier 2012 au Tribunal d’arrondissement de Lausanne
+par Me Habib Tabet, mandataire d’office d’A.Q.________, dans le cadre de la procédure
+de divorce opposant ce dernier à B.Q.________;
+-
+l’extrait bancaire concernant Me R.________ déjà produit à l’appui de sa plainte;
+-
+un extrait du registre foncier relatif au bien-fonds [...] sis [...] à Lausanne;
+-
+une copie du courrier adressé au Président du Tribunal d’arrondissement de Lausanne le
+22 novembre 2013 pour obtenir un renvoi la séance fixée le 5 décembre 2013;
+-
+une copie d’un courrier électronique adressé le 22 novembre 2013 par A.Q.________ à
+Me R.________ faisant état du fait que ses mandats avaient été révoqués en août
+2013, confirmant l’annulation de tous les mandats et le priant de lui restituer tous les documents
+et argent perçu dans les meilleurs délais;
+-
+une copie d’un courrier électronique adressé le 28 septembre 2013 par A.Q.________ à
+Me R.________ lui demandant de virer  "la somme perçu", dans le cadre de "la
+mainlevée de la PA" sur le compte postal [...].
+3.
+Par décision du 18
+décembre 2013 rendue sans frais ni dépens, l’autorité inférieure de surveillance
+a rejeté la plainte déposée par A.Q.________. Après avoir considéré, "au
+bénéfice du doute", que la voie de la plainte était ouverte à l'encontre du
+versement opéré par l'office et qu’A.Q.________ avait agi en temps utile, le premier
+juge a retenu que rien ne démontrait qu'A.Q.________ avait résilié le mandat qui le liait
+à Me R.________ et que dès lors l’office s’était à juste titre fié
+aux indications et à la procuration transmise par l’avocat le 30 septembre 2013 pour lui transférer
+la somme de 5'458 fr. 45.
+La décision a été adressée aux parties le 18 décembre 2013 et notifiée
+au plaignant le 19 décembre 2013.
+4.
+a)
+Par acte daté du 20 décembre 2013 et posté le 22 décembre 2013, A.Q.________ a recouru
+contre ce prononcé. Il a notamment conclu à "la réunification de la procédure
+de divorce et la procédure LP" ainsi qu’au remboursement de "la pension alimentaire
+séquestrée par Me R.________". Il a par ailleurs produit, en plus de documents déjà
+versés au dossier de première instance, les pièces suivantes:
+-
+une copie d’un courrier électronique qui lui a été adressé le 25 novembre 2013
+par l’huissier chef de l’office des poursuites du district de Lausanne pour lui faire part
+de la position de l’office dans le cadre du présent litige;
+-
+une copie d’un courrier électronique adressé le 21 décembre 2013 par A.Q.________
+à l’huissier chef de l’office lui demandant de lui envoyer une copie d’un document
+qui aurait été signé lors de son passage dans les bureaux de l’office aux fins d’éviter
+le paiement des pensions alimentaires à son avocat.
+b)
+Par décision du 14 janvier 2014, le président
+de la cour de céans a rejeté la requête d’effet suspensif contenue dans le recours.
+c)
+Par acte du 23 janvier 2014, l’office,
+se référant à ses déterminations de première instance, a conclu au rejet du
+recours.
+En droit :
+I.
+Le recours
+est
+dirigé contre une décision de l'autorité inférieure de surveillance. Il est régi
+par l'art. 18 LP (loi sur la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1), qui stipule
+que toute décision de l’autorité inférieure peut être déférée
+à l’autorité cantonale supérieure de surveillance dans les dix jours à compter
+de sa notification, et les art. 28 à 33 LVLP (loi d'application dans le Canton de Vaud de la loi
+fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955; RS 280.05).
+Déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP) et comportant l'énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable formellement à tout le moins
+dans la mesure où il tend à obtenir le versement de la somme payée par B.Q.________ en
+règlement de la poursuite n° 6'442'644. En effet, si selon l’art 28 al. 4 LVLP les allégations
+de faits nouveaux ainsi que la production de nouvelles pièces sont licites en procédure de
+recours, il n’en va pas de même des conclusions nouvelles. La plainte LP et le recours contre
+la décision sur plainte doivent porter sur les mêmes objets, sous peine d’irrecevabilité
+(CPF, 26 juin 2003/52). Ainsi, la conclusion tendant à "la réunification de la procédure
+de divorce et la procédure LP", qui n’a pas été prise en première instance,
+est irrecevable.
+Les pièces nouvelles produites avec le recours sont quant à elle recevables (art. 28 al. 4
+LVLP).
+Les déterminations de l'office sont également recevables (art. 31 al. 1 LVLP).
+II.
+En préambule, on peut se demander si le premier juge a eu raison de considérer, dans le doute,
+que la voie de la plainte était bien ouverte au recourant et que ce dernier avait par ailleurs procédé
+en temps utile. Cette question peut toutefois rester ouverte, le recours devant de toute manière
+être rejeté pour les motifs exposés ci-dessous.
+III.
+Sur le fond, le recourant développe toute une série d’arguments en lien avec son divorce
+et sa situation financière qui sont toutefois sans incidence sur l’issue de la présente
+cause. La seule véritable question consiste à déterminer si l’office était
+légitimé à verser le montant payé en ses mains par la débitrice directement
+sur le compte de Me R.________, ce que le recourant conteste au motif que le mandat de cet avocat aurait
+été résilié en août 2013.
+a)
+L'art. 27 al. 1 LP autorise les cantons à
+réglementer la représentation professionnelle des intéressés à la procédure
+d'exécution forcée. Selon l’art 44b al.1 LVLP, en matière de poursuites pour dettes,
+une partie peut être représentée exclusivement par son représentant légal, son
+fondé de pouvoir spécial, un avocat, un agent d'affaires breveté ainsi que par tout autre
+représentant professionnel autorisé conformément à l'art. 27 al. 2 LP.
+Dans sa conception traditionnelle, le contrat d’avocat est soumis aux règles du mandat (art.
+394 ss CO) (Bohnet/Martenet, Droit de la profession d’avocat, Berne 2009, n° 2527-2528).
+Sauf exception, l’avocat intervient comme représentant direct (art. 32 al. 1 et 2 CO [Code
+des obligations, loi fédérale du 30 mars 1911 complétant le Code civil suisse; RS 220]).
+Le pouvoir de représentation directe de l’avocat découle d’une procuration qui
+lui est accordée par son client ; elle constitue un acte juridique unilatéral sujet à
+réception (Bohnet/Martenet, op. cit., n° 2646). L’art. 396 al. 2 CO pose une présomption
+selon laquelle le mandat comprend pour le mandataire le pouvoir de faire tous les actes juridiques nécessités
+par son exécution. La présomption vaut tant dans les rapports internes que dans les rapports
+externes :
+le tiers ayant connaissance de
+l'existence du mandat peut partir de l'idée que le mandataire a les pouvoirs nécessaires pour
+l'exécution du contrat (Werro, Commentaire rommand, n. 9 ad art. 396 CO ;
+Bohnet/Martenet,
+op. cit., n
+os
+2649 et 2651
+). Pour certains actes toutefois,
+une procuration spéciale est exigée : l'art. 396 al. 3 CO requiert ainsi un pouvoir spécial
+pour intenter un procès, transiger, compromettre, souscrire des engagements de change, aliéner
+ou grever des immeubles, faire des donations (
+Bohnet/Martenet,
+op. cit.,n° 2652)
+L'art. 404 al. 1 CO confère tant au mandant qu'au mandataire le droit de résilier le contrat
+en tout temps, c'est-à-dire, pour reprendre les termes de la loi, de révoquer ou répudier
+unilatéralement le mandat. Selon l'art. 34 al. 3 CO, lorsque le représenté a
+fait connaître, soit en termes exprès, soit par ses actes, les pouvoirs qu'il a conférés,
+il ne peut en opposer au tiers de bonne foi la révocation totale ou partielle que s'il a fait connaître
+également cette révocation. Ainsi, le représenté est engagé par les actes du
+représentant à qui il a retiré la procuration sans avertir le tiers auquel il avait communiqué
+les pouvoirs du représentant (CACI, 29 mars 2012/157).
+b)
+En l’espèce, la poursuite dirigée
+contre B.Q.________ a été engagée par Me R.________ qui agissait pour le compte du recourant
+sur la base d’une procuration que ce dernier lui avait délivrée le 29 novembre 2012.
+Quand bien même le procès-verbal de saisie du 23 octobre 2013 ne concerne pas la poursuite
+dirigée contre B.Q.________, on peut admettre, au vu des observations qui y figurent, que l’office
+a bien été informé du fait que Me R.________ n’était plus le conseil du recourant
+le 16 août 2013. Ce même procès-verbal mentionne toutefois que cet avocat a indiqué
+à l’office qu’il était à nouveau le conseil du recourant à compter du
+1
+er
+octobre 2013. Il ressort en outre du dossier que l’avocat R.________ a effectivement écrit
+à l’office le 30 septembre 2013 pour lui rappeler que toute correspondance en lien avec la
+poursuite n° 6'442'644, notamment, devait être adressée à son étude et que les
+paiements devaient se faire sur son compte. Pour justifier ses pouvoirs, il a par ailleurs produit une
+procuration dûment datée et signée par le recourant le 17 septembre 2013. Cette procuration
+autorise expressément Me R.________ à représenter le recourant dans le cadre de l’affaire
+qui l’oppose à B.Q.________. Elle précise que le mandataire est notamment autorisé
+à prendre toutes les mesures prévues par la loi fédérale sur la poursuite pour dettes
+et la faillite et à encaisser des avoirs et des créances de remboursement. De son côté,
+le recourant n’a pas établi qu’il aurait, entre le 17 septembre 2013, date de signature
+de la procuration, et le 9 octobre 2013, date du paiement effectué par l’office des poursuites
+en mains de Me R.________, résilié le mandat confié à cet avocat ni, a fortiori,
+qu’il aurait communiqué l’existence de cette révocation à l’office des
+poursuites. Le courrier électronique adressé à l’office le 21 décembre 2013,
+invoqué comme moyen de preuve par le recourant, est à cet égard tout à fait insuffisant.
+C’est donc à bon droit que l’office, se fiant à la procuration signée le 17
+septembre 2013, a transféré la somme de 5'458 fr. 45 sur le compte dont est titulaire Me R.________.
+Comme l’a pour le reste à juste titre relevé le premier juge, c’est par la voie
+civile ordinaire que le recourant devra agir s’il entend contester la compensation opérée
+par Me R.________.
+IV.
+En conclusion, le recours,
+mal fondé, doit être entièrement rejeté et le prononcé confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [Ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la loi fédérale sur la poursuite pour dettes et la faillite; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+31 mars 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. A.Q.________,
+‑
+Me R.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
