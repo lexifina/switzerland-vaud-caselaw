@@ -1,0 +1,212 @@
+---
+decision_id: "vd_findinfo_S_questre___2014___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2014 / 3"
+decided: "2014-04-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4309489"
+cites_law: ["switzerland/bund/acts/172.021/art-024.md", "switzerland/bund/acts/173.110/art-035.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-101.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md"]
+---
+
+# VD Findinfo Séquestre / 2014 / 3
+
+## Regeste
+
+RESTITUTION DU DÉLAI, AVANCE DE FRAIS | 148 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.04.2014 Séquestre / 2014 / 3
+
+RESTITUTION DU DÉLAI, AVANCE DE FRAIS | 148 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+KE13.026615 -
+132368
+149
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 avril 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et Byrde
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+148 al. 1 CPC
+Vu le prononcé rendu le 19 septembre 2013, à la suite de l’audience du 12 septembre 2013,
+par le Juge de paix du district de Morges rejetant l’opposition au séquestre formée par
+U.________
+,
+à Porrentruy, à Lonay, contre l’ordonnance de séquestre scellée le 17 juin
+2013 à l’instance de
+M.________
+,
+à Chaponost (France),
+vu le recours exercé le 22 novembre 2013 par U.________ contre le prononcé précité,
+vu la lettre du 3 décembre 2013, par laquelle le recourant a été invité à effectuer
+jusqu'au 6 janvier 2014 l'avance des frais de recours,
+vu le courrier recommandé du 6 janvier 2014 du conseil du recourant sollicitant une prolongation
+de délai de dix jours pour le dépôt de l’avance de frais,
+vu la lettre recommandée du 8 janvier 2014, réceptionnée le 9 janvier 2014 par le
+conseil du recourant, par laquelle le président de la cour de céans a refusé la demande
+de prolongation de délai au vu du motif invoqué, et précisé que le délai pour
+verser l’avance de frais était prolongé de cinq jours dès réception dudit courrier,
+et qu’à défaut de versement dans cet ultime délai, le recours serait considéré
+comme non avenu,
+vu le courrier recommandé du 14 janvier 2014 du conseil du recourant sollicitant une seconde prolongation
+de délai de quinze jours pour le dépôt de l’avance de frais,
+vu la lettre prioritaire du 16 janvier 2014 du président de la cour de céans, refusant la demande
+de prolongation de délai, un ultime délai ayant déjà été imparti le 8 janvier
+2014,
+vu le paiement de l'avance de frais intervenu le 15 janvier 2014,
+vu le courrier recommandé du 17 janvier 2014, réceptionné le 20 janvier 2014 par le conseil
+du recourant, par lequel le président de la cour de céans, constatant que le versement de l'avance
+de frais requise paraissait tardive, a imparti au recourant un délai de cinq jours pour fournir
+toutes explications utiles sur les raisons pour lesquelles le délai fixé au 14 janvier 2014
+pour effectuer l'avance de frais n'avait pas été respecté,
+vu le courrier recommandé du 24 janvier 2014, par lequel le conseil du recourant a indiqué
+que son retard dans le paiement de l'avance de frais était dû au fait que son client était
+demeuré plus longtemps que prévu à l'étranger pour des raisons professionnelles et
+ne pouvait procéder à l'avance de frais,
+vu le courrier recommandé du 28 janvier 2014 du président de la cour de céans, impartissant
+à l'intimée un délai de dix jours pour se déterminer sur la requête de restitution
+de délai déposée par le recourant,
+vu le courrier recommandé du conseil de l'intimée s'opposant à ce que la restitution de
+délai soit accordée,
+vu les art. 98 et 101 al. 3 CPC (Code de procédure civile du
+19
+décembre 2008; RS 272);
+attendu qu'aux termes de l'art. 148 al. 1 CPC, le tribunal peut accorder un délai supplémentaire
+ou citer les parties à une nouvelle audience lorsque la partie défaillante en fait la requête
+et rend vraisemblable que le défaut ne lui est pas imputable ou n'est imputable qu'à une faute
+légère,
+que cette disposition s'applique notamment au délai fixé pour effectuer l'avance de frais (art.
+101 al. 1 CPC), lequel ne constitue pas un délai prévu par la LP (loi sur la poursuite pour
+dettes et la faillite du 11 avril 1889; RS 281.1),
+que l'avance de frais a été effectuée le 15 janvier 2014, soit un jour après l'échéance
+de la prolongation requise, et est ainsi tardive;
+attendu que la requête de restitution doit être présentée dans les dix jours qui
+suivent celui où la cause du défaut a disparu (art. 148 al. 2 CPC),
+que selon la demande de son conseil du 24 janvier 2014, le motif invoqué par le recourant tient
+au fait que celui-ci est "demeuré à l'étranger plus longtemps que prévu",
+que la demande de restitution de délai ne précise pas à quelle date le recourant est revenu
+de l'étranger, de sorte que l'on ignore quand la cause du défaut a disparu,
+que si l'on décompte dix jours dès l'échéance du délai prolongé, on arrive
+au 24 janvier 2014, date de la demande de restitution de délai,
+qu'ainsi, dans l'hypothèse la plus défavorable au recourant, selon laquelle l'empêchement
+allégué aurait cessé le 14 janvier 2014, le délai de dix jours prévu par l'art.
+148 al. 2 CPC est respecté;
+attendu qu'au surplus, pour que le tribunal accorde une restitution de délai, il incombe à
+la partie qui en fait la demande de rendre vraisemblable que le défaut ne lui est pas imputable
+ou n'est imputable qu'à une faute légère,
+que le législateur n'a pas explicité la notion de "faute légère",
+que selon Tappy, une erreur de lieu ou d'agenda, devrait constituer un cas de faute légère,
+alors que le cas de celui qui était au courrant du délai et qui l'a sciemment ignoré ne
+serait pas visé (Tappy, Code de procédure civile commenté, n. 15 ad art. 148 CPC),
+que l'absence de faute a donné lieu à une jurisprudence dans le cadre de l'art. 35 aOJ (ancienne
+loi fédérale d'organisation judiciaire du 16 décembre 1943) (TF 5P.376/2002 du 21 novembre
+2002; ATF 123 V 107 c. 2a; ATF 96 II 262) ou des art. 24 PA (loi fédérale sur la procédure
+administrative du 20 décembre 1968; RS 172.021) (TF 2C_982/2012 du 8 octobre 2012; TF 5C_152/00
+du 18 décembre 2000) et 50 LTF (loi du 17 juin 2005 sur le Tribunal fédéral; RS 173.110)
+(TF 9F_8/2009 du 7 janvier 2010; TF 9C_480/2007 du 27 novembre 2007; TF 1C_334/2007 du 8 octobre
+2007),
+que n'est pas exempt de faute celui qui aurait pu ou dû prendre les dispositions nécessaires
+au respect d'un délai légal, comme celui qui, absent durablement, devait s'attendre à
+une communication judiciaire,
+qu'en effet, il appartient à la partie ou à son avocat de s'organiser pour faire face à
+ses obligations (Tappy, op. cit., n. 14-16 ad art. 148 CPC et les réf. citées),
+que de plus, le motif invoqué doit être rendu vraisemblable, le juge pouvant statuer simplement
+sur la base des pièces et des explications du requérant si elles paraissent plausibles (Tappy,
+op. cit., n. 6 ad art. 149 CPC),
+qu'en l'espèce, le recourant invoque à l'appui de sa requête de restitution de délai
+un séjour prolongé à l'étranger, sans préciser les dates de son absence ou le
+lieu où il se trouvait,
+que le recourant n'a produit aucun document à l'appui de ses dires,
+qu'en se réservant de produire une attestation d'un avocat étranger, le recourant perd de vue
+qu'il lui appartient de rendre ses motifs plausibles déjà dans sa requête,
+qu'à supposer que le recourant ait réellement séjourné à l'étranger durant
+la période considérée, il n'allègue pas qu'il ne pouvait pas communiquer avec son
+avocat, ni qu'il était dans l'incapacité de faire verser depuis l'étranger les 1'500 francs
+requis,
+qu'enfin, ayant déposé un recours contre une ordonnance de séquestre le 22 novembre 2013,
+le recourant devant s'attendre à effectuer une avance de frais dans les jours, voire les semaines
+qui suivaient,
+qu'il devait donc prendre des dispositions à cet effet,
+qu'en définitive, le recourant ne rend pas vraisemblable ni même plausible que l'irrespect
+du délai serait dû à l'existence d'une faute légère;
+attendu que le recourant fait valoir les graves conséquences du rejet de sa requête de restitution
+de délai,
+que la gravité des conséquences peut être un élément d'appréciation du
+juge appelé à statuer sur une requête de restitution de délai (TF 5P_376/2002 susmentionné),
+qu'ainsi le refus d'une requête de restitution de délai est plus facile si les conséquences
+de ce refus sont peu graves (Tappy, op. cit., n. 19 ad art. 148 CPC),
+qu'en l'espèce, les conséquences du refus de la requête de restitution de délai sont
+graves puisqu'il a pour effet de rendre le recours exercé par U.________ irrecevable,
+que toutefois, dans ces circonstances, on pouvait attendre du recourant qu'il se montre d'autant plus
+vigilant et en particulier qu'il expose et étaye avec plus de soin le prétendu motif l'ayant
+empêché d'effectuer l'avance de frais requise dans le délai;
+attendu que la requête de restitution de délai déposée le 24 janvier 2014 par le
+recourant doit être rejetée,
+que l'avance de frais opérée par le recourant le 15 janvier 2014, après l'échéance
+du délai supplémentaire, est tardive,
+qu'il n'est pas entré en matière sur le recours (art. 101 al. 3 CPC),
+que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+La requête de restitution de délai déposée le 24 janvier 2014 par U.________ est
+rejetée.
+II.
+Il n'est pas entré en matière sur le recours.
+III.
+La cause est rayée du rôle
+IV.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+14 avril 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Albert J. Graf, avocat (pour U.________),
+‑
+Me Didier Kvicinsky, avocat (pour M.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 940'666 fr. 80.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de Morges.
+La greffière :
