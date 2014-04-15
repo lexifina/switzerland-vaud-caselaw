@@ -1,0 +1,288 @@
+---
+decision_id: "vd_findinfo_Faillite___2014___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2014 / 14"
+decided: "2014-04-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4311413"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-164.md", "switzerland/bund/acts/220/art-166.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-116.md", "switzerland/bund/acts/281.1/art-131.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md", "switzerland/bund/acts/281.1/art-260.md"]
+---
+
+# VD Findinfo Faillite / 2014 / 14
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, CRÉANCIER, QUALITÉ POUR POURSUIVRE, RECOUVREMENT | 131 al. 2 LP, 174 al. 1 LP, 190 al. 1 ch. 2 LP, 194 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 15.04.2014 Faillite / 2014 / 14
+
+FAILLITE SANS POURSUITE PRÉALABLE, CRÉANCIER, QUALITÉ POUR POURSUIVRE, RECOUVREMENT | 131 al. 2 LP, 174 al. 1 LP, 190 al. 1 ch. 2 LP, 194 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FW13.038091-132373
+150
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 avril 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Carlsson et M. Maillard
+Greffier
+:
+Mme              Joye
+*****
+Art.
+131 al. 2, 174 al. 1, 190 al. 1 ch. 2 et 194 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par l’
+ETAT
+DE VAUD
+, représenté par le Bureau de
+recouvrement et d’avances de pensions alimentaires (ci-après : BRAPA), contre le jugement
+rendu le 14 novembre 2013, à la suite de l’audience du 7 octobre 2013, par le Président
+du Tribunal d’arrondissement de la Côte, dans la cause opposant le recourant à
+A.________
+Sàrl
+, à St-Prex.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 3 septembre 2013, l’Etat de Vaud, représenté par le BRAPA, a requis du Tribunal d’arrondissement
+de la Côte la faillite sans poursuite préalable de la société A.________ Sàrl,
+à St-Prex.
+L’intimée s’est déterminée le 4 octobre 2013 sur cette requête, conclu-ant
+à son rejet.
+Une audience de faillite s’est tenue le 7 octobre 2013.
+2.
+Les faits pertinents résultant des pièces produites en première instance par les parties
+sont les suivants :
+a)
+La société A.________ Sàrl, dont le but est l’exploitation d’une entreprise
+de plâtrerie-peinture, a pour associé gérant, avec signature individuelle, le nommé
+N.________.
+b)
+Par prononcé de mesures protectrices de l’union conjugale du
+21
+septembre 2007, le Président du Tribunal d’arrondissement de Lausanne a autorisé les
+époux N.________ à vivre séparés pour une durée indéterminée. Par
+convention passée à l’audience du 26 septembre 2007, ratifiée séance tenante
+pour valoir prononcé de mesures protectrices de l’union conjugale, N.________ s’est
+engagé à contribuer à l’entretien de son épouse par le régulier versement
+d’une pension de 800 fr. par mois, dès et y compris le 1
+er
+août 2007.
+Par décision du 19 décembre 2007, le Président du Tribunal d’arron-dissement de
+Lausanne a confirmé un prononcé d’extrême urgence du 23 octobre 2007, ordonnant
+à A.________ Sàrl de prélever chaque mois, dès et y compris octobre 2007, sur le
+salaire d’N.________, le montant de 800 fr. et de le verser à l’épouse.
+Le 8  novembre 2007, [...] a déclaré céder au BRAPA ses droits sur les pensions alimentaires
+futures et les pensions échues dans les six mois antérieurs à l’intervention dudit
+service, aux fins de permettre à celui-ci de suivre à leur recouvrement, la cession donnant
+« pouvoir à l’Etat de Vaud de procéder en son propre nom par voie amiable ou
+judiciaire en faveur du cédant ».
+Par jugement du 27 mai 2008, le Tribunal du district de Pristina a prononcé le divorce des époux
+N.________. Ce tribunal n’a pas statué sur la question de la pension de l’épouse.
+c)
+Le 23 septembre 2010, l’Office des poursuites du district de Lausanne-Est, agissant sur requête
+de l’Etat de Vaud, représenté par le BRAPA,  a notifié à N.________ un
+commandement de payer n° 5'397'732 en paiement de 18'400 fr. plus intérêt à 5% dès
+le 15 juillet 2009, au titre de pensions alimentaires dues à [...], pour la période du 1
+er
+juillet 2008 au 31 mai 2010, soit
+23 mois
+à 800 francs.
+Par prononcé du 25 janvier 2011, définitif et exécutoire dès le 15 février 2011,
+le Juge de paix du district de Lausanne a prononcé la mainlevée définitive de l’opposition
+formée par le poursuivi au commandement de payer susmentionné.
+Au bénéfice de ce prononcé, l’Etat de Vaud a participé à la saisie en
+mains d’A.________ Sàrl, imposée sur les salaires et revenus du débiteur, à
+concurrence d’un montant mensuel de 600 fr. dès le 13 juillet 2011.
+Le 22 août 2012, l’Office des poursuites du district de Lausanne a délivré à
+l’Etat de Vaud, contre A.________ Sàrl, un avis de remise à l’encaissement d’une
+créance saisie (art.131 al. 2 LP) d’un montant de 6'135 fr. 50, plus accessoires, dans le
+cadre de la poursuite n° 5'397'732.
+Le 8 novembre 2012, l’Office des poursuites du district de Morges a notifié à A.________
+Sàrl, à la requête de l’Etat de Vaud, un commandement de payer
+n°
+6'412’259 portant sur le montant de 6'135 fr. 50, sans intérêt, auquel il a été
+fait opposition totale.
+d)
+Il ressort de l’extrait du registre des poursuites au 7 octobre 2013 qu’A.________ Sàrl
+faisait, à cette date, l’objet de vingt-huit poursuites, introduites entre le
+11
+janvier 2012 et le 6 juin 2013, pour un montant total de 52’978 fr. 35.
+3.
+Par jugement du 14 novembre 2013, rendu à la suite de l’audience tenue le 7 octobre 2013,
+le Président du Tribunal d’arrondissement de La Côte a rejeté la requête de
+faillite sans poursuite préalable présentée par l’Etat de Vaud (I), mis les frais
+judiciaires, par 300 fr., à la charge du requérant (II) et dit que ce dernier devait verser
+à A.________ Sàrl la somme de 800 fr. à titre de dépens (III).
+En bref, le premier juge
+a considéré que le requérant, au bénéfice d’une remise à l’encaissement
+au sens de l’art. 131 al. 2 LP (
+loi
+fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite; RS 281.1)
+,
+était autorisé à agir pour faire valoir ses droits mais n’était pas titulaire
+de la créance contre A.________ Sàrl, si bien qu’il n’avait pas la qualité
+de créancier au sens de l’art.190 al. 1 LP.
+4.
+L’Etat de Vaud a recouru par acte du 25 novembre 2013 concluant, avec suite de frais et dépens,
+à l’annulation du jugement du 14 novembre 2013 et au renvoi de la cause au premier juge pour
+nouvelle instruction et nouvelle décision.
+L’intimée a répondu dans une écriture du 10 janvier 2014 concluant, avec suite de
+frais et dépens, au rejet du recours.
+En droit
+:
+I.
+Le recours a été déposé dans le délai de dix jours de l’art. 174 al. 1
+LP (applicable en vertu de l’art. 194 al. 1 LP). Ecrit et motivé, il est recevable à
+la forme (art. 321 al. 1 CPC [Code de procédure civile; RS 272]).
+II.
+Le recourant soutient qu’il a qualité pour requérir la faillite sans poursuite préalable
+de la société A.________ Sàrl, la remise à l’encaissement de l’art. 131
+al. 2 LP l’autorisant à agir en son propre nom et pour son propre compte.
+a)
+La réalisation des biens saisis est régie
+par les art. 116 ss LP. L’art. 131 LP, qui s’applique à la réalisation des créances,
+prévoit deux modes de réalisation extraordinaires des créances non cotées à
+la bourse ou sur un marché : la dation en paiement (art. 131 al. 1 LP) et la remise à l’encaissement
+(art. 131 al. 2 LP). En vertu de l’art. 131 al. 2 LP, si tous les créanciers saisissants sont
+d’accord, tous ou certains d’entre eux peuvent, sans préjudice de leurs droits contre
+le débiteur poursuivi, faire valoir des prétentions saisies en leur nom, à leur compte
+et à leurs risques et périls. Ils doivent y être autorisés par l’office des
+poursuites. La somme qu’ils pourront obtenir servira, dans ce cas, à couvrir leurs propres
+créances et les frais. Le solde est remis à l’office des poursuites.
+La notion de remise à l’encaissement ressort notamment de l’extrait suivant d’un
+arrêt du Tribunal fédéral (TF 4A_215/2009 du 6 août 2009, c. 3.2) :
+"La
+remise à l'encaissement de l'art. 131 al. 2 LP est un mode de réalisation extraordinaire des
+créances saisies non cotées à la bourse ou sur un marché. Elle n'implique aucune
+cession de créance, conventionnelle (art. 164 CO) ou même légale au sens de l'art. 166
+CO (arrêt 4C.170/2002 du 12 novembre 2002 consid. 2.1, in: SJ 2003 I p. 333). Il s'agit d'une institution
+sui generis du droit des poursuites et de l'exécution forcée, qui correspond à un mandat
+d'encaissement délivré par l'office des poursuites permettant aux poursuivants, avec l'accord
+préalable de tous les créanciers qui participent à la saisie de la créance du poursuivi,
+de faire valoir en leur propre nom, à leur compte et à leurs risques et périls ladite
+créance. La somme que les poursuivants obtiennent sert à couvrir en premier lieu leurs créances
+en poursuite et leurs frais, alors que l'excédent éventuel doit être remis à l'office
+des poursuites (cf. Magdalena Rutz, in Kommentar zum Bundesgesetz über Schuldbetreibung und Konkurs,
+1998, n° 15 ad art. 131 LP; Kurt Amonn/Fridolin Walther, Grundriss des Schuldbetreibungs und Konkursrechts,
+8e éd, Berne 2008, § 27 ch. 57 p. 261; Carl Jäger et al., Bundesgesetz über
+Schuldbetreibung und Konkurs, 5e éd, Zurich 2006,
+n°
+20 ad art. 131 LP).
+La
+remise à l'encaissement d'une créance, échue ou non échue, est autorisée par
+l'office des poursuites singulièrement lorsque la créance détenue par le poursuivi est
+contestée ou fait l'objet d'un procès pendant (ATF 109 III 102 consid. 5 in fine p. 106/107;
+Sébastien Bettschart, in Commentaire romand, Poursuite et faillite, Bâle 2005, n° 5 ad
+art. 131 LP) ou encore lorsque la solvabilité du tiers débiteur est douteuse ou l'encaissement
+rendu plus difficile du fait que ce dernier est domicilié à l'étranger (Amonn/Walther,
+op. cit., § 27, ch. 63 p. 262).
+Selon
+la jurisprudence, le mandat de recouvrement accordé à un créancier ou à un groupe
+de créanciers en vertu de l'art. 131 al. 2 LP, avec l'accord de tous les créanciers saisissants,
+est une institution qui s'apparente dans ses effets à la cession des droits de la masse de l'art.
+260 LP dans la procédure de faillite (ATF 116 III 91 consid. 2b/bb p. 95; 93 III 45 consid. 1 p.
+49). Cette analogie avec l'art. 260 LP soulignée par la jurisprudence a également été
+relevée par la doctrine moderne (Amonn/Walther, op. cit., § 27, ch. 58 ss p. 261/262; Rutz,
+op. cit., n° 15 ad art. 131 LP; Bettschart, op. cit., n° 19 ad art. 131 LP)."
+b)
+En l’espèce, par la remise à l’encaissement du 22 août 2012, l’Office
+des poursuites du district de Lausanne a autorisé l’Etat de Vaud à faire valoir la créance
+de salaire du poursuivi N.________ à l’encontre de son employeur, la société intimée
+A.________ Sàrl, à concurrence de 6'135 fr. 50. Se fondant sur cet acte, le recourant a requis,
+le 3 septembre 2013, la faillite sans poursuite préalable d’A.________ Sàrl, en invoquant
+l’art. 190 al. 1 ch. 2 LP.
+En vertu de l’art. 190 al. 1 ch. 2 LP, le créancier peut requérir la faillite sans poursuite
+préalable du débiteur sujet à la poursuite par voie de faillite qui a suspendu ses paiements.
+La légitimation pour requérir la faillite sans poursuite préalable appartient à celui
+qui prétend être créancier et le rend vraisemblable au degré de la vraisemblance
+qualifiée.
+Doctrine et jurisprudence s’accordent à dire que la titularité de la créance n’est
+pas reconnue au cessionnaire des droits de la masse au sens de l’art. 260 LP, parce que la cession
+revêt seulement le caractère d’un mandat procédural (droit d’ester en justice
+à la place de la masse, en son propre nom et à ses risques et périls), si bien que le
+cessionnaire ne devient pas titulaire du droit cédé et ne saurait être reconnu comme créancier
+au sens de l’art. 190 al. 1 LP (ATF 122 III 488 c. 3, rés. JT 1999 II 94 et les réf.
+citées ; arrêt TF du 27 février 2001 non publié, in BlSchK 2002, pp. 134 ss ;
+Gilliéron, op. cit., n. 9 ad art. 190 LP ; Brunner/Boller BSchK II n. 19 ad art. 190 LP). Comme
+le cessionnaire de l’art. 260 LP, celui de l’art. 131 al. 2 LP, bien qu’étant
+au bénéfice d’un mandat d’encaissement qui l’autorise à agir en son
+propre nom et pour son propre compte, n’est pas titulaire de la créance cédée au
+sens des art. 164 ou 166 CO (Code des obligations du 30 mars 1911 ; RS 220). Il en découle que le
+cessionnaire de l’art. 131 al. 2 LP n’a pas non plus la qualité de créancier au
+sens de l’art. 190 LP.
+La décision de première instance était donc bien fondée.
+III.
+Le recours doit ainsi être rejeté et le jugement attaqué confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant. L’intimée, assistée d’un avocat, a droit à
+des dépens de deuxième instance, fixés à 500 fr. (art. 8 TDC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+Le recourant Etat de Vaud, représenté par le Bureau de recouvrement et d’avances de pensions
+alimentaires, doit verser à l’intimée A.________ Sàrl un montant de 500 fr. (cinq
+cents francs) à titre de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+15 avril 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Youri Diserens, agent d’affaires breveté (pour Etat de Vaud, Bureau de recouvrement et
+d’avances de pensions alimentaires),
+‑
+Me Olivier Boschetti, avocat (pour A.________ Sàrl),
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de la Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Morges,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme le Président du Tribunal d'arrondissement de La Côte.
+La greffière :
