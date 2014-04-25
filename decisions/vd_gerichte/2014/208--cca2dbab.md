@@ -1,0 +1,887 @@
+---
+decision_id: "vd_gerichte_6b1afcc9-2e19-4569-9828-4b81770ccfb4"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CACI"
+docket: "208"
+decided: "2014-04-25"
+published: "2014-06-27"
+language: "fr"
+legal_area: "Modification de jugement de divorce"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/6b1afcc9-2e19-4569-9828-4b81770ccfb4"
+cites_decisions: ["4A_383/2013", "5A_186/2012", "5A_271/2012", "5A_324/2009", "5A_352/2010", "5A_562/2011", "5A_621/2012", "5A_713/2012", "5A_855/2012", "5A_94/2013", "5C.284/2005", "5C.78/2001", "5C_214/2004", "BGE 118 II 228", "BGE 119 II 9", "BGE 120 II 177", "BGE 120 II 285", "BGE 127 III 503", "BGE 128 III 305", "BGE 131 III 189", "BGE 134 III 337", "BGE 137 III 604", "BGE 137 III 617"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-125.md", "switzerland/bund/acts/210/art-129.md", "switzerland/bund/acts/210/art-134.md", "switzerland/bund/acts/210/art-176.md", "switzerland/bund/acts/210/art-285.md", "switzerland/bund/acts/210/art-286.md", "switzerland/bund/acts/210/art-287.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-308.md", "switzerland/bund/acts/210/art-310.md", "switzerland/bund/acts/210/art-311.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-057.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-239.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-261.md", "switzerland/bund/acts/272/art-271.md", "switzerland/bund/acts/272/art-276.md", "switzerland/bund/acts/272/art-284.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-310.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-312.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/311.0/art-292.md"]
+---
+
+# Modification de jugement de divorce
+
+## Text
+
+TRIBUNAL CANTONAL
+PD13.024741-140152
+208
+JUGE DE L EGUÉ E D E LA COU R D’APPE L CIVILE
+_______________________________________________________________
+Arrêt du 25 avril 2014
+__________________
+Présidence de Mme CHARIF FELLER, juge déléguée
+Greffier : Mme Logoz
+*****
+Art. 284 al. 3, 308 al. 1 let. b CPC ; 134, 286 al. 2, 311 al. 1, 315b
+ch. 2 CC
+Statuant à huis clos sur l’appel interjeté par H.________, à
+Servion, intimée, contre l’ordonnance de mesures provisionnelles rendue
+le 14 janvier 2014 par la Présidente du Tribunal civil d’arrondissement de
+l’Est vaudois dans la cause divisant l’appelante d’avec A.V.________, à
+Moudon, requérant, la juge déléguée de la Cour d'appel civile du Tribunal
+cantonal voit :
+1105
+
+- 2 -
+En fait :
+A. Par ordonnance de mesures provisionnelles du 14 janvier
+2014, adressée aux parties pour notification le même jour, la Présidente
+du Tribunal civil d’arrondissement de l’Est vaudois a admis les requêtes de
+mesures provisionnelles déposées par A.V.________ les 20 et 27 septembre
+2013 (I), rejeté les requêtes de mesures provisionnelles déposées par
+H.________ les 30 juin et 15 octobre 2013 (II), confirmé l’ordonnance de
+mesures superprovisionnelles du 30 septembre 2013 (III), révoqué
+l’ordonnance de mesures superprovisionnelles du 7 octobre 2013 (IV),
+maintenu le chiffre III de l’ordonnance de mesures provisionnelles du 8
+août 2013, en ce sens qu’un mandat d’évaluation sur la situation des
+enfants B.V.________, née le [...] 1998, C.V.________, née le [...] 2000 et
+D.V.________, née le [...] 2005, reste confié au Service de protection de la
+jeunesse (ci-après : SPJ), afin de faire toutes propositions utiles sur
+l’attribution de la garde, de l’autorité parentale et les modalités du droit
+de visite (V), dit que l’autorité parentale sur les enfants B.V.________,
+C.V.________ et D.V.________ est provisoirement retirée à H.________ (VI), dit
+que l’autorité parentale sur les trois enfants est provisoirement attribuée à
+leur père A.V.________ (VII), dit que la garde des enfants reste
+provisoirement confiée à leur père, l’ordonnance de mesures
+provisionnelles rendue le 8 août 2013 étant ainsi confirmée en son chiffre
+II (VIII), suspendu provisoirement le droit de visite de H.________ sur ses
+enfants (IX), interdit à H.________ de s’approcher à moins de 500 mètres
+des lieux où se tiennent les enfants, notamment leur résidence, école, lieu
+de villégiature, lieu de sortie, de vacances et sur leur chemin, sous la
+commination de la peine d’amende prévue par l’art. 292 CP (Code pénal
+suisse du 21 décembre 1937, RS 311.0) (X), dit que, dès le 1er novembre
+2013, H.________ contribuera à l’entretien de ses trois filles par le régulier
+versement, d’avance le premier de chaque mois, en mains de A.V.________,
+d’une contribution d’entretien mensuelle de 900 fr., allocations familiales
+en sus (XI), dit que les frais judiciaires de la procédure provisionnelle,
+arrêtés à 800 fr., sont mis à la charge de H.________ (XII), dit que H.________
+est la débitrice de A.V.________ et lui doit immédiat paiement de la somme
+
+- 3 -
+de 1'500 fr., à titre de dépens (XIII), et rejeté toutes autres et plus amples
+conclusions (XIV).
+En droit, le premier juge a considéré, s’agissant de la garde
+des enfants qui avait été provisoirement confiée au père par ordonnance
+de mesures provisionnelles du 8 août 2013, qu’il n’y avait en l’état aucun
+motif commandant de modifier le cadre de vie des enfants et que la
+situation actuelle devait être maintenue, à tout le moins jusqu’au dépôt du
+rapport de l’Unité évaluation et missions spécifiques (ci-après : UEMS) du
+SPJ. Constatant que les parents ne communiquaient pas, qu’il existait de
+fortes tensions entre eux et que l’entente nécessaire sur les décisions
+importantes à prendre concernant les enfants faisait défaut, donnant à
+chaque fois lieu à des discordes au préjudice de leurs intérêts, le juge de
+première instance a retenu que les parents n’étaient pas à même
+d’exercer l’autorité parentale conjointement et que le père, à qui le droit
+de garde avait été provisoirement confiée, devait être en mesure de
+prendre les décisions importantes concernant les enfants. L’autorité
+parentale sur les trois enfants a dès lors provisoirement été retirée à leur
+mère et attribuée au père, à tout le moins jusqu’au dépôt du rapport
+précité, la situation pouvant être revue à ce moment-là. En ce qui
+concerne la contribution d’entretien, le premier juge a considéré qu’il se
+justifiait de revoir la situation, dès lors que la garde des enfants avait été
+confiée provisoirement au père. Il a retenu que l’intimée réalisait
+actuellement un revenu mensuel net de 3'230 fr. et qu’elle assumait,
+selon le jugement de divorce des parties, des charges de logement de
+1'350 fr., sa prime d’assurance-maladie étant subsidiée. Considérant qu’il
+y avait lieu de retenir un montant de 850 fr. à titre de base mensuelle
+d’entretien de l’intimée, dans la mesure où son compagnon participait aux
+frais et dépenses courantes du ménage, il a constaté que la mère
+disposait d’un disponible de 1'030 fr. et qu’elle devait dès lors s’acquitter,
+en application de la pratique vaudoise, d’une pension mensuelle de 900
+fr., correspondant au 30% arrondi de son revenu mensuel net, le père
+disposant pour sa part d’un revenu d’insertion à hauteur de 4'945 fr. par
+mois. Les frais de la procédure provisionnelle, par 800 fr., ont été mis à la
+
+- 4 -
+charge de l’intimée, qui succombait entièrement, celle-ci devant verser au
+requérant de pleins dépens arrêtés à 1500 francs.
+B. Par acte du 23 janvier 2014, expédié le lendemain, H.________
+a interjeté appel auprès de la Cour d’appel civile du Tribunal cantonal en
+concluant implicitement à la réforme des chiffres VI et VII du dispositif de
+l’ordonnance concernant l’autorité parentale, du chiffre IX concernant le
+droit de visite, du chiffre X concernant la mesure d’éloignement, du chiffre
+XI concernant la contribution d’entretien et des chiffres XII et XIII
+concernant les frais judiciaires et les dépens de première instance.
+L’appelante a produit un bordereau de pièces.
+Par décision du 4 février 2014, la Juge de céans a rejeté la
+requête d’effet suspensif contenue dans l’appel.
+L’intimé n’a pas été invité à se déterminer.
+C. La juge déléguée retient les faits suivants, sur la base de
+l’ordonnance complétée par les pièces du dossier :
+1. A.V.________ et H.________, née [...], se sont mariés le [...]
+1998 devant l’Officier d’état civil de [...] (VD).
+Trois enfants sont issus de cette union :
+- B.V.________, née le [...] 1998 ;
+- C.V.________, née le [...] 2000 ;
+- D.V.________, née le [...] 2005.
+2. Par jugement du 4 février 2011, le Tribunal civil
+d’arrondissement de l’Est vaudois a notamment prononcé le divorce des
+époux A.V.________ (I), ratifié la convention partielle signée le 17 août 2010
+
+- 5 -
+- à teneur de laquelle l’autorité parentale et la garde sur les enfants
+B.V.________, C.V.________ et D.V.________ sont attribuées à leur mère, le
+père bénéficiant d’un libre et large droit de visite sur ses enfants,
+réglementé à défaut d’entente, et le régime matrimonial est dissous et
+liquidé, chaque partie étant reconnue propriétaire des immeubles,
+meubles et objets en sa possession - (II) et dit qu’en l’état A.V.________ est
+dispensé de contribuer à l’entretien de ses enfants, mais que s’il perçoit
+des prestations de l’AI, il versera en faveur de ses enfants les rentes
+complémentaires qui leur sont destinées et que s’il travaille à nouveau, la
+contribution en faveur de ses trois enfants équivaudra à 30% de son
+salaire net (III).
+Par arrêt du 18 juillet 2011, devenu définitif et exécutoire le 15
+septembre 2011, la Cour d’appel civile du Tribunal cantonal a réformé le
+chiffre III du dispositif de ce jugement en ce sens qu’aucune contribution
+d’entretien au sens de l’art. 285 CC (Code civil suisse du 10 décembre
+1907 ; RS 210) n’est allouée et complété le dispositif par l’adjonction d’un
+chiffre III bis nouveau disposant qu’aucune contribution d’entretien au
+sens de l’art. 125 CC n’est allouée.
+3. Par requête de mesures superprovisionnelles et
+provisionnelles adressée le 10 juin 2013 au Tribunal civil d’arrondissement
+de l’Est vaudois, A.V.________ a conclu à ce que la garde sur les enfants
+B.V.________, C.V.________ et D.V.________ soit provisoirement attribuée à
+leur père (I), à ce que le SPJ soit chargé de surveiller et de rendre un
+rapport sur leur situation selon les modalités fixées par le Tribunal (Il), et à
+ce qu’il soit prononcé d’urgence le maintien du séjour des enfants sous la
+garde de leur père jusqu’à droit jugé sur la requête (III).
+En substance, le requérant a allégué que H.________ s’était
+mise en ménage avec son compagnon S.________ dans le logement familial
+sis à [...], qu’ils avaient basculé progressivement dans une addiction à
+l’alcool et aux substances hallucinogènes, que les enfants se sentaient si
+mal et si menacés à la maison qu’ils avaient fini soit par fuguer, soit par
+
+- 6 -
+demander la protection de leurs maîtres d’école et que, dans l’urgence, ils
+étaient partis vivre chez leur père, le SPJ ayant été avisé.
+Par ordonnance de mesures superprovisionnelles du 11 juin
+2013, le Président du Tribunal civil d’arrondissement de l’Est vaudois (ci-
+après : le Président) a notamment ordonné le maintien du séjour des
+enfants B.V.________, C.V.________ et D.V.________ sous la garde de leur
+père (I), déclaré l’ordonnance immédiatement exécutoire et dit qu’elle
+restera en vigueur jusqu’à décision sur les mesures provisionnelles (II) et
+ordonné l’assignation des parties à une audience de mesures
+provisionnelles par citations séparées (III).
+Dans ses déterminations du 30 juin 2013, H.________ a conclu
+au rejet de la requête de mesures provisionnelles du 10 juin 2013, à ce
+qu’elle conserve l’autorité parentale et la garde sur ses trois filles,
+conformément au jugement de divorce intervenu, à ce que A.V.________
+soit astreint au paiement de pensions dans la mesure où il travaille et que
+le montant de dites pensions soit déterminé de manière fixe et non sous
+forme de pourcentage de son salaire comme cela avait été décidé dans le
+jugement de divorce du 4 février 2011, et à ce que des mesures
+éducatives pour B.V.________ et C.V.________ soient mises en place de suite
+et confiées au SPJ, ainsi qu’un suivi pédopsychiatrique pour les trois
+enfants.
+4. Dans son rapport d’évaluation sur la situation des enfants
+B.V.________, C.V.________ et D.V.________ du 21 juin 2013, le SPJ a estimé,
+en substance, qu’il était difficile actuellement de définir si la prise en
+charge chez la mère était plus adéquate que chez le père. Il a considéré
+qu’un mandat devait être attribué à l’UEMS, afin d’aider le SPJ à identifier
+chez lequel des parents les enfants pourraient évoluer de manière la plus
+adéquate.
+5. H.________ A.V.________, assisté de son conseil, ont été
+entendus à l’audience de mesures provisionnelles du 11 juillet 2013.
+
+- 7 -
+[...], assistante sociale à I’Office régional de protection des
+mineurs de l’Est vaudois, a comparu en qualité de témoin.
+6. Par ordonnance de mesures provisionnelles du 8 août 2013,
+le Président a admis la requête de mesures provisionnelles déposée le 10
+juin 2013 par A.V.________ (I), attribué provisoirement la garde sur les
+enfants B.V.________, C.V.________ et D.V.________ à leur père (Il) chargé le
+SPJ (Unité d’évaluation et missions spécifiques) d’un mandat d’évaluation
+sur la situation des trois enfants, afin de faire toutes propositions utiles sur
+l’attribution de la garde, de l’autorité parentale et les modalités du droit
+de visite (III), fixé un délai au 8 novembre 2013 à A.V.________ pour ouvrir
+action au fond (IV), dit que les dépens suivront le sort de la cause au fond
+(V), et rejeté toutes autres ou plus amples conclusions (VI).
+7. H.________ et son compagnon S.________ ont été
+appréhendés le 22 août 2013 à [...] (GE) en possession d’un sachet
+d’héroïne de 5 grammes environ. S.________ a notamment déclaré qu’il
+consommait de l’héroïne depuis les années 90, qu’il avait connu de
+longues périodes de sevrage et qu’il n’avait rien pris pendant quinze ans.
+Il avait ainsi cessé la consommation jusqu’à mi-juin de l’année en cours,
+date à laquelle il avait repris de l’héroïne à raison d’un sachet par
+semaine. H.________ a déclaré qu’elle ne consommait pas de stupéfiants et
+qu’elle ignorait que son compagnon avait repris la consommation.
+S.________ avait été condamné le 2 février 2004 à une peine
+d’emprisonnement de 30 jours et une amende de 500 fr. pour infraction à
+la LStup (loi fédérale sur les stupéfiants et les substances psychotropes du
+3 octobre 1951 ; RS 812.121).
+8. Par courrier du 9 septembre 2013, H.________ a requis que
+son droit de visite sur ses trois filles soit respecté, en particulier sur
+D.V.________, sa fille cadette.
+9. En date du 18 septembre 2013, les enfants B.V.________ et
+C.V.________ ont été entendues par une juge déléguée du Tribunal
+
+- 8 -
+d’arrondissement de l’Est vaudois. En substance, elles ont expliqué que
+leur mère avait changé depuis que son compagnon était venu vivre auprès
+d’elles, qu’elle était devenue agressive et violente et que la situation
+s’était à ce point dégradée qu’elles avaient quitté le logement familial
+pour aller vivre chez leur père. Elles ont indiqué qu’elles s’y sentaient bien
+et qu’elles n’éprouvaient en l’état pas le besoin de voir leur mère.
+10. Dans ses déterminations du 20 septembre 2013,
+A.V.________ a conclu à la suspension provisoire du droit de visite de la
+mère sur ses trois filles, respectivement son aménagement strict, à
+l’interdiction pour celle-ci de s’approcher à moins de 500 mètres des lieux
+où se tiennent les enfants, notamment leur résidence, école, lieu de
+villégiature, lieu de sortie, de vacances et sur leur chemin, à la suspension
+provisoire de l’autorité parentale de H.________ jusqu’à la réorganisation et
+la prise en charge des relations parents-enfants par le SPJ en collaboration
+avec le SUPEA (Service Universitaire de Psychiatrie de l'Enfant et de
+l'Adolescent), à ce qu’ordre soit donné à la mère de remettre
+immédiatement à A.V.________ les effets personnels des enfants ainsi que
+les pièces d’identité de D.V.________, et à ce que les mesures prises pour le
+surplus à titre superprovisionnel soient confirmées.
+11. Par requête de mesures superprovisionnelles du 27
+septembre 2013, A.V.________ a conclu à ce qu’interdiction soit faite à
+H.________ de s’approcher à moins de 500 mètres des lieux où se tiennent
+les enfants, notamment leur résidence, école, lieu de villégiature, lieu de
+sortie, de vacances et sur leur chemin, sous la commination de la peine
+d’amende prévue par l’art. 292 CP.
+A l’appui de cette requête, A.V.________ a allégué que
+H.________ s’était présentée dans la cour de l’école avec pour objectif clair
+de s’en prendre à sa fille B.V.________ notamment. Il a expliqué qu’alerté
+par la Direction de l’école, il s’était immédiatement rendu sur place pour
+mettre fin aux provocations de l’intimée et que le Directeur avait appelé la
+Gendarmerie, qui lui avait répondu qu’à défaut d’une ordonnance précise
+du juge fixant un périmètre, elle ne pouvait pas intervenir. Le requérant a
+
+- 9 -
+indiqué que B.V.________ avait été très affectée par le comportement de sa
+mère, qui lui imputait la responsabilité de la situation actuelle, à tel point
+qu’elle avait été mise en congé de l’école du 23 au 26 septembre 2013.
+Par ordonnance de mesures superprovisionnelles du 30
+septembre 2013, le Président a prononcé l’interdiction de périmètre
+requise par A.V.________ (I), dit que les frais suivaient le sort de la cause
+des mesures provisionnelles (II), déclaré l’ordonnance immédiatement
+exécutoire et dit qu’elle restera en vigueur jusqu’à décision sur la requête
+de mesures provisionnelles (III), et ordonné l’assignation des parties à
+l’audience de mesures provisionnelles appointée au 30 octobre 2013 (IV).
+Par courrier du 8 octobre 2013, H.________ a déclaré qu’elle ne
+s’était jamais rendue à l’école de B.V.________, à [...], les derniers mois, et
+que le matin en question, elle avait quitté son domicile à 07h00 pour
+commencer le travail à 07h32.
+12. A la suite d’une requête de mesures urgentes déposée le 4
+octobre 2013 par A.V.________, le Président a rendu le 7 octobre 2013 une
+ordonnance de mesures superprovisionnelles autorisant A.V.________, père
+de D.V.________, à faire toutes démarches seul et sans l’autorisation de la
+mère, H.________ pour l’obtention des passeport et carte d’identité.
+13. Le 9 octobre 2013, l’enfant D.V.________ a été entendue par
+une juge déléguée du Tribunal d’arrondissement de l’Est vaudois. En bref,
+elle a expliqué qu’elle s’ennuyait beaucoup chez sa maman, qu’elle n’avait
+aucune activité, et que sa maman et son compagnon fumaient, buvaient,
+regardaient la télévision et l’ordinateur. Elle s’est déclarée très contente
+chez son père, ne souhaitant plus voir sa maman.
+14. Par décision rendue le 17 octobre 2013, le Président a
+rejeté la requête de mesures superprovisionnelles déposée le 15 octobre
+2013 par H.________ tendant à ce que la mesure d’éloignement prononcée
+par l’ordonnance de mesures superprovisionnelles du 7 octobre 2013 soit
+levée.
+
+- 10 -
+15. A l’audience de mesures provisionnelles du 30 octobre
+2013, A.V.________ a conclu, à titre provisionnel, à l’attribution de l’autorité
+parentale et à la suspension provisoire de l’autorité parentale de [...].
+Celle-ci a conclu au rejet.
+A.V.________ a en outre retiré la conclusion qu’il avait prise à
+titre superprovisionnel le 4 octobre 2013, tendant à ce qu’il puisse
+effectuer seul et sans autorisation de la mère les démarches pour
+l’obtention des passeport et carte d’identité de D.V.________, et celle du 20
+septembre 2013, tendant à ce que H.________ remette immédiatement les
+effets personnels des enfants.
+Le prénommé a enfin renoncé provisoirement au versement
+d’une contribution d’entretien en faveur des enfants et requis que les
+allocations familiales actuellement perçues par H.________ lui soient
+versées.
+[...], assistante sociale auprès de l’UEMS, a été entendue en
+qualité de témoin. Elle a déclaré ce qui suit :
+«S’agissant de la garde sur les trois filles, je ne vois pas en
+l’état comment celle-ci pourrait actuellement être confiée à leur mère,
+compte tenu du fait qu’elles ne veulent déjà pas la rencontrer. En outre,
+les filles refusent de voir leur mère en présence de son ami, S.________, qui
+a une emprise sur celle-ci. J’ai rencontré les trois filles au domicile de leur
+père et j’ai pu constater que la situation était «normale». Le père et son
+amie, qui ont ensemble un bébé, sont conscients des limites qu’il faudra
+poser aux trois filles en fonction de leurs âges respectifs. Le couple a
+aménagé l’appartement pour que les conditions soient bonnes pour
+chacun.
+Pour ce qui est de la consommation de stupéfiants,
+notamment de la part de S.________, il est clair que cet environnement est
+préjudiciable aux enfants.
+Il ressort d’un entretien téléphonique que j’ai eu avec la
+doyenne Mme [...], de l’école de B.V.________, que celle-ci fréquentait très
+régulièrement l’infirmerie l’année passée mais que ce n’est plus le cas
+actuellement et qu’elle semblerait même épanouie.
+
+- 11 -
+Pour ce qui est du droit de visite, les deux aînées refusent de
+voir leur mère et elles ont appris que celle-ci était enceinte. Elles ont
+besoin de digérer toute cette situation. Elles ont été très affirmatives à ce
+sujet, même si leur père, en ma présence, a plutôt essayé de leur
+expliquer qu’il ne fallait pas tenir un discours figé à ce sujet. A l’heure
+actuelle, je ne vois pas quelle autre solution proposer s’agissant du droit
+de visite que sa suspension. Pour ce qui est de la cadette D.V.________, qui
+est suivie par Mme [...] du SUPPEA, j’attends de rencontrer cette personne
+pour pouvoir discuter de l’éventualité de rencontres entre D.V.________ et
+sa mère et également des modalités. En l’état, je propose également de
+suspendre le droit de visite de la mère sur sa fille cadette, au moins
+jusqu’au dépôt de mon rapport.
+Pour ce qui est de l’interdiction d’approcher à moins de 500
+mètres, notifiée à H.________, je n’ai pas eu la confirmation des
+établissements scolaires que cette dernière ait été présente sur les lieux
+comme le soutient B.V.________. Mais je n’ai aucune raison de croire ou de
+ne pas croire l’une ou l’autre en précisant que Mme [...] a récupéré
+B.V.________ dans un état catastrophique.
+En soi, il n’y a, à mon avis, pas d’urgence à instaurer des
+mesures de protection en faveur des enfants, dans la mesure où chacun
+des parents peut faire appel au SPJ en cas de besoin.
+Je précise qu’en l’état, c’est H.________ qui dispose de l’autorité
+parentale sur ses filles et que A.V.________ n’a pas démérité dans ses
+compétences parentales. Il n’est pas en mesure actuellement d’effectuer
+certaines démarches administratives notamment, en raison du fait qu’il ne
+détient pas l’autorité parentale. »
+[...], assistante sociale à I’Office régional de protection des
+mineurs de l’Est vaudois, a également été entendue. Elle a déclaré ce qui
+suit :
+« S’agissant de la garde, j’ai pu constater en date du 15 août
+2013 en présence de H.________ et des deux filles aînées que celle-ci leur a
+déclaré qu’elle désirait être destituée de son autorité parentale et refusait
+leur garde.
+Pour ce qui est du droit de visite, je rejoins les propos de Mme
+[...].
+Je précise également qu’en date du 15 août 2013, H.________ a
+déclaré devant ses filles qu’elle cesserait de prendre en charge les
+assurances maladie des trois filles et qu’elle allait déménager en Valais
+car sa maison était mise en vente. »
+Le Tribunal a enfin recueilli le témoignage de S.________,
+compagnon de H.________, dont la teneur est la suivante :
+
+- 12 -
+« Je fréquente H.________ depuis environ 5 ans et j’habite avec
+elle depuis environ 4 ans. J’ai ainsi vécu pratiquement 4 ans avec les trois
+filles de H.________. Je m’entendais très bien avec les trois filles jusqu’au
+mois de juin 2013 et je ne comprends pas ce qui m’est reproché. Je ne leur
+ai jamais manqué de respect. Les filles n’ont pas vu leur père pendant une
+certaine période et par la force des choses, j’ai un peu pris ce rôle, sans
+pour autant dénigrer le père et revendiquer ce rôle. Il s’agit juste d’une
+famille recomposée normale.
+Je précise que je ne consommais pas de stupéfiants lorsque les
+filles vivaient chez nous.
+Actuellement, je ne consomme plus rien.
+A partir de mai 2013, l’attitude de B.V.________ a changé.
+Je suis au courant des démarches qu’effectue H.________
+auprès du SPJ.
+Je serai prêt à accueillir les trois filles au domicile de [...],
+même si elles m’ont blessé, mais je considère que ce sont des enfants. »
+16. Par courrier du 5 novembre 2013, le Conseil de la Direction
+de l’Etablissement primaire et secondaire de [...], par l’intermédiaire de
+Mme [...], doyenne, a rectifié les allégations contenues dans la requête de
+mesures superprovisionnelles du 27 septembre 2013 de A.V.________, en
+précisant qu’aucun membre de la direction n’avait pu confirmer la
+présence de la mère à l’école et que rien n’indiquait non plus que celle-ci
+ait voulu s’en prendre à sa fille [...]. Il a indiqué que cette dernière avait
+demandé à pouvoir parler à son père et que la secrétaire de l’école l’avait
+alors contacté ; le père avait ensuite décidé de venir chercher
+B.V.________. Les doyens présents ce jour-là, à savoir Mme [...], MM. [...] et
+[...], avaient conseillé à A.V.________ d’aviser la Gendarmerie ; M. [...] avait
+appelé la Gendarmerie pour demander conseil et il avait ensuite transféré
+l’appel à l’intéressé pour que celui-ci puisse expliquer la situation.
+17. Selon une attestation du 7 novembre 2013 délivrée par
+[...], à [...], employeur de H.________, celle-ci était présente le vendredi 20
+septembre 2013 à son travail et avait fait l’horaire «A» qui commençait à
+07h32 et se terminait à 16h20.
+
+- 13 -
+18. Par demande en modification de jugement de divorce
+déposée le 13 décembre 2013, A.V.________ a conclu à ce que l’autorité
+parentale et la garde attribués à H.________ sur ses enfants B.V.________,
+C.V.________ et D.V.________ lui soient retirés et attribués au père
+A.V.________ (I), à ce que l’exercice du droit de visite soit fixé dans la
+mesure et selon les modalités qui seront arrêtés par le tribunal, l’accord
+de l’enfant capable de discernement demeurant réservé (II), à ce que
+H.________ soit débitrice d’une somme de 100 fr. au moins à titre de
+contribution à l’entretien de chacun des enfants jusqu’à l’âge de 16 ans,
+puis de 200 fr. au moins, dès lors jusqu’à leur majorité ou au-delà s’ils
+poursuivent des études suivies et sérieuses (III), les contributions visées
+sous chiffre III pouvant être révisées à la hausse dans le cas où les
+revenus de la débitrice s’amélioreraient de plus de 20% ou dans le cas où
+elle vendrait ou louerait l’un ou l’autre des appartements dont elle est
+actuellement propriétaire et qu’elle occupe à [...] (IV).
+19. H.________ et S.________ se sont mariés le 18 décembre
+2013 devant l’Officier d’état-civil de Sion. H.________ porte désormais le
+nom de son époux.
+Selon un certificat médical délivré le 21 janvier 2014 par
+l’Hôpital du Valais, H.________ s’est trouvée en incapacité de travail du 21
+janvier au 21 février 2014.
+En d roit :
+1. L'appel est recevable contre les décisions de première
+instance sur les mesures provisionnelles (art. 308 al. 1 let. b CPC [Code de
+procédure civile du 19 décembre 2008 ; RS 272]), dans les causes
+patrimoniales dont la valeur litigieuse, au dernier état des conclusions, est
+de 10'000 fr. au moins (art. 308 al. 2 CPC). Les causes portant sur le droit
+de la famille qui, comme en l'espèce, ne concernent pas uniquement les
+
+- 14 -
+aspects financiers du divorce ou de sa modification ne sont pas
+patrimoniales (Jeandin, CPC commenté, Bâle 2011, n. 12 ad art. 308 CPC,
+p. 1243). Partant, la voie de l'appel est ouverte.
+Les ordonnances de mesures provisionnelles sont régies par la
+procédure sommaire, selon l'art. 248 let. d CPC et selon l'art. 271 CPC par
+renvoi de l'art. 276 CPC pour les procédures matrimoniales. L’appel, écrit
+et motivé, doit ainsi être introduit auprès de l’instance d’appel dans les dix
+jours (art. 311 CPC) à compter de la notification de la motivation (art. 239
+CPC). L’appel relève de la compétence d’un juge unique (art. 84 al. 2 LOJV
+[loi d’organisation judiciaire du 12 décembre 1979 ; RSV 173.01]).
+Formé en temps utile par une partie qui y a intérêt (art. 59 al.
+2 let. a CPC), le présent appel est recevable à la forme.
+2.
+2.1 L’appel peut être formé pour violation du droit ou pour
+constatation inexacte des faits (art. 310 CPC). L’autorité d’appel peut
+revoir l’ensemble du droit applicable, y compris les questions
+d’opportunité ou d’appréciation laissées par la loi à la décision du juge et
+doit, le cas échéant, appliquer le droit d’office conformément au principe
+général de l’art. 57 CPC (Jeandin, op. cit., nn. 2 ss ad art. 310 CPC, p.
+1249). Elle peut revoir librement l’appréciation des faits sur la base des
+preuves administrées en première instance (Jeandin, op. cit., n. 6 ad art.
+310 CPC, p. 1249 s.). Le large pouvoir d’examen en fait et en droit ainsi
+défini s’applique même si la décision attaquée est de nature provisionnelle
+(JT 2011 III 43).
+2.2 Les faits et moyens de preuve nouveaux ne sont pris en
+compte que s'ils sont invoqués ou produits sans retard et ne pouvaient
+être invoqués ou produits devant la première instance, bien que la partie
+qui s'en prévaut ait fait preuve de la diligence requise, ces deux conditions
+étant cumulatives (art. 317 al. 1 CPC; Jeandin, op. cit., n. 6 ad art. 317
+CPC, p. 1265). Il appartient à l’appelant de démontrer que ces conditions
+
+- 15 -
+sont réalisées, de sorte que l’appel doit indiquer spécialement de tels faits
+et preuves nouveaux et motiver spécialement les raisons qui les rendent
+admissibles selon lui (JT 2011 III 43 et les références citées). La
+jurisprudence de la Cour de céans considère que ces exigences
+s'appliquent aux litiges soumis à la maxime inquisitoire, mais pas à ceux
+relevant de la maxime d'office, par exemple ceux portant sur la situation
+d'enfants mineurs en droit matrimonial, à tout le moins lorsque le juge de
+première instance a violé la maxime inquisitoire illimitée (JT 2011 III 43).
+Dès lors que la cause porte sur la situation d'enfants mineurs,
+la maxime d’office et la maxime inquisitoire illimitée sont applicables
+(Hohl, Procédure civile, Tome II, 2e éd., Berne 2010, nn. 2099 et 2161, pp.
+383 et 395). Les pièces produites par l’appelante sont dès lors recevables,
+dans la mesure où elles ne figuraient pas déjà au dossier de première
+instance.
+3.
+3.1 Dans un premier grief, l’appelante s’oppose à la suspension de
+son droit de visite sur ses trois enfants. Elle indique ne pas contester que
+la garde des enfants ait été provisoirement confiée à l’intimé et conclu à
+ce son droit de visite soit rétabli provisoirement, précisant qu’elle n’entend
+pas exiger directement ce droit de visite, vu la situation délétère actuelle,
+mais laisser la porte ouverte pour le futur.
+L’appelante reproche en outre au premier juge de lui avoir
+provisoirement retiré l’autorité parentale pour l’attribuer exclusivement à
+l’intimé. Soutenant que ce dernier souffre d’un alcoolisme chronique,
+l’appelante l’estime incapable de gérer les affaires courantes et d’utiliser
+la contribution d’entretien dans l’intérêt des enfants. Elle fait valoir que
+l’intimé aurait fait preuve d’insolvabilité constante tout au long de son
+parcours, qu’il n’aurait par le passé pas payé les pensions dues pour
+l’entretien de ses enfants et qu’il aurait refusé de renseigner le BRAPA
+(Bureau de recouvrement et d'avances de pensions alimentaires) sur sa
+situation matérielle.
+
+- 16 -
+L’appelante revient enfin sur la mesure d’éloignement prise à
+son encontre et soutient que celle-ci a été prononcée sur la base d’un fait
+mensonger.
+3.2.1 La modification d'un jugement de divorce sur la question du
+sort des enfants est régie par l'art. 134 CC (art. 284 al. 1 CPC). Aux termes
+de l'art. 284 al. 3 CPC, la procédure de divorce sur requête unilatérale
+s’applique par analogie à la procédure contentieuse de modification. Le
+Code de procédure civile ne règle pas expressément la question des
+mesures provisionnelles dans le cadre d'une telle procédure. Toutefois, en
+tant que disposition générale de la procédure de divorce (art. 271 ss CPC),
+l'art. 276 CPC relatif aux mesures provisionnelles devrait également
+s'appliquer par analogie dans le cadre d'une procédure en modification de
+jugement de divorce (Sutter-Somm/Seiler, in Sutter-
+Somm/Hasenböhler/Leuenberger, Kommentar zur Schweizerischen
+Zivilprozessordnung, Zurich 2010, n. 32 ad art. 284 CPC, p. 1671 s. ; van
+der Graaf, in Kurzkommentar ZPO, Bâle 2010, n. 6 ad art. 284 CPC, p.
+1099 ; Siehr, in Basler Kommentar, Bâle 2010, n. 8 ad art. 284 CPC, p.
+1384; Schwenzer, FamKomm Scheidung, Band I: ZGB, Berne 2011, n. 52
+ad art. 129 CC, p. 318 ; contra Tappy, CPC commenté, Bâle 2011, n. 8 ad
+art. 276 CPC, p. 1088, qui considère que les procédures en divorce et en
+modification de divorce présentent des différences telles qu'il serait plus
+satisfaisant de soumettre les mesures provisionnelles requises en cas de
+modification du jugement de divorce aux règles ordinaires concernant la
+protection provisionnelle, notamment les art. 261 ss CPC). Quoi qu'il en
+soit, la jurisprudence antérieure à l'entrée en vigueur du Code de
+procédure civile reste inchangée. Selon celle-ci, les mesures
+provisionnelles requises dans le cadre d'un procès en modification du
+jugement de divorce ne sont admises qu'en cas d'urgence et en présence
+de circonstances particulières (ATF 118 II 228 c. 3b et les arrêts cités;
+Tappy, op. cit., n. 8 ad art. 276 CPC, p. 1088).
+Aux termes des art. 134 al. 3 2e phrase et 315b al. 1 ch. 2 CC,
+le juge matrimonial est compétent pour statuer sur une modification
+
+- 17 -
+litigieuse de l'attribution de l'autorité parentale (Meier, in Commentaire
+romand, Bâle 2010, n. 28 ad art. 315 à 315b CC, p. 1956). Par attraction
+de compétence, il est également compétent pour statuer sur le prononcé
+ou la modification de mesures de protection (Meier, op. cit., n. 31 ad art.
+315 à 315b CC, p. 1958).
+3.2.2 Selon l'art. 311 al. 1 CC, lorsque d'autres mesures de
+protection de l'enfant sont demeurées sans résultat ou paraissent
+d'emblée insuffisantes, le retrait de l'autorité parentale est prononcé,
+lorsque, pour cause d'inexpérience, de maladie, d'infirmité, d'absence ou
+d'autres motifs analogues, les père et mère ne sont pas en mesure
+d'exercer correctement l'autorité parentale (ch. 1) ou lorsque les père et
+mère ne se sont pas souciés sérieusement de l'enfant ou qu'ils ont
+manqué gravement à leurs devoirs envers lui (ch. 2). Selon la
+jurisprudence, il faut se montrer particulièrement rigoureux dans
+l'appréciation des circonstances, puisque le retrait de l'autorité parentale,
+qui équivaut à la perte d'un droit élémentaire de la personnalité, n'est
+admissible que si d'autres mesures pour prévenir le danger que court
+l'enfant – à savoir les mesures protectrices (art. 307 CC), la curatelle
+d'assistance (art. 308 CC) et le retrait du droit de garde (art. 310 CC) –
+sont d'emblée insuffisantes. Le principe de la proportionnalité de
+l'intervention commande une attention particulière (TF 5C.284/2005 du 31
+janvier 2006 c. 3.1 ; ATF 119 II 9 c. 4a et les références citées). Lorsque
+les parents n'arrivent pas à remplir leurs devoirs découlant des art. 301 à
+306 CC, il suffit de leur retirer la garde de l'enfant ; pour le retrait de
+l'autorité parentale, il faut en revanche un motif supplémentaire, tel une
+maladie psychique, une infirmité, une faiblesse intellectuelle ou
+l'incapacité de participer à l'éducation donnée à l'enfant par des tiers en
+raison d'absence sans possibilités de contacts réguliers (TF 5C.284/2005
+du 31 janvier 2006 c. 3.1).
+3.3 En l’espèce, les parties sont convenues par convention du 17
+août 2010, ratifiée le 4 février 2011 par le Tribunal civil d’arrondissement
+de l’Est vaudois, d’attribuer l’autorité parentale et la garde des enfants à
+
+- 18 -
+la mère, le père bénéficiant d’un libre et large droit de visite, réglementé à
+défaut d’entente.
+Entendue à l’audience de mesures provisionnelles du 30
+octobre 2013, [...], assistante sociale pour la protection des mineurs
+auprès de l’UEMS, a expliqué, en ce qui concerne le droit de visite de
+l’appelante, que les deux aînées refusaient de voir leur mère, qu’elle
+avaient appris que celle-ci était enceinte et qu’elles avaient besoin de
+digérer cette situation. Elle a déclaré qu’elles étaient très affirmatives à ce
+sujet et qu’en l’état, elle ne voyait pas quelle autre solution proposer que
+la suspension du droit de visite. Concernant la fille cadette, elle a indiqué
+qu’elle était suivie par Mme [...], du SUPEA, qu’elle devait discuter avec
+cette personne de l’éventualité de rencontres entre l’enfant et sa mère et
+de leurs modalités et qu’en l’état, elle préconisait également la suspension
+du droit de visite, du moins jusqu’au dépôt du rapport demandé au SPJ.
+[...], assistante sociale auprès de l’Office régional de protection des
+mineurs de l’Est vaudois, a également recommandé la suspension du droit
+de visite.
+Les trois enfants ont en outre été entendus par un juge
+délégué du Tribunal civil d’arrondissement de l’Est vaudois. B.V.________ et
+C.V.________, âgées respectivement de 15 et 13 ans, ont en substance
+expliqué que la situation s’était dégradée lorsque le compagnon de leur
+mère était venu vivre auprès d’elles et que celle-ci était devenue
+agressive et violente. Elles ont indiqué ne pas éprouver le besoin de voir
+leur mère, tant que celle-ci n’aurait pas changé. D.V.________, âgée de 8
+ans, a également expliqué qu’elle s’ennuyait beaucoup auprès de sa
+maman, qui ne s’occupait pas d’elle. Elle a déclaré être très contente de
+vivre avec son père, sa compagne, leur enfant et ses deux sœurs et ne
+pas vouloir retourner chez sa mère.
+Au vu de ce qui précède, c’est à bon droit que le premier juge
+a considéré qu’il n’existait, à ce stade, aucun motif commandant de
+modifier le cadre de vie des enfants et qu’il convenait de leur garantir une
+certaine stabilité en confirmant l’attribution provisoire de leur garde à
+
+- 19 -
+l’intimé, à tout le moins jusqu’au dépôt du rapport du SPJ. Compte tenu de
+la situation éminemment conflictuelle et des fortes tensions existant entre
+les parents, il s’imposait d’attribuer provisoirement l’autorité parentale à
+l’intimé, afin que celui-ci puisse dans l’intérêt des enfants prendre les
+décisions importantes les concernant. En ce qui concerne la suspension du
+droit de visite, la décision du tribunal de première instance ne prête pas
+davantage le flanc à la critique, dès lors que les enfants ont exprimé
+clairement qu’ils ne souhaitaient pas revoir leur mère en l’état et qu’ils
+avaient besoin de temps pour se reconstruire. Enfin c’est à juste titre que
+le premier juge a prononcé, pour le bien des enfants, la mesure
+d’éloignement contestée, dès lors que l’état de santé psychique des
+enfants était fragile, qu’ils ne demandaient pas à voir leur mère et qu’ils
+souhaitaient garder une certaine distance ; à cet égard, peu importe que
+l’appelante se soit effectivement rendue ou non dans la cour d’école de
+B.V.________ le 20 septembre 2013, l’intérêt des enfants commandant quoi
+qu’il en soit la mesure d’éloignement.
+Compte tenu de l’urgence et des circonstances particulières
+ayant amené le premier juge à statuer par voie de mesures
+provisionnelles, notamment les conflits opposant les deux filles aînées
+adolescentes à leur mère, leur fragilité et leur souhait de vivre chez leur
+père, les griefs de l’appelante relatifs à l’attribution provisoire de l’autorité
+parentale à l’intimé, à la suspension provisoire de son droit de visite et à
+la mesure d’éloignement prononcée à son encontre sont infondés et
+doivent être rejetés. Ces circonstances particulières ne sont du reste pas
+contestées par l’appelante qui qualifie elle-même la situation actuelle de
+délétère, relevant l’état de santé particulièrement fragile de son aînée
+(anorexie mentale), et qui n’entend d’ailleurs pas remettre en cause
+l’attribution provisoire de la garde au père des enfants.
+Cela étant, les mesures litigieuses, prononcées provisoirement,
+devront être revues lorsque le rapport de l’Unité évaluation et missions
+spécifiques du SPJ aura été rendu, en particulier s’agissant du retrait
+provisoire de l’autorité parentale ainsi que de la mesure d’éloignement
+ordonnée. En effet, ces mesures ont été ordonnées sur la base du rapport
+
+- 20 -
+d’évaluation du SPJ du 21 juin 2013, qui laissait ouverte la question de
+savoir auprès de quel parent la prise en charge des enfants était la plus
+adéquate. Par ailleurs, le retrait définitif de l’autorité parentale ne serait
+admissible que si d'autres mesures pour prévenir le danger que courent
+les enfants – à savoir les mesures protectrices, la curatelle d'assistance et
+le retrait du droit de garde – étaient d'emblée insuffisantes, et à condition
+de respecter le principe de proportionnalité.
+En définitive, il y a lieu, à ce stade de la procédure, de
+confirmer l’attribution provisoire de l’autorité parentale à l’intimé, dans
+l’attente du rapport de l’Unité évaluation et missions spécifiques du SPJ,
+qui se prononcera sur l’adéquation des mesures ordonnées par le premier
+juge s’agissant de l’attribution de la garde, de l’autorité parentale ainsi
+que des modalités du droit de visite. En l’état, le conflit qui oppose les
+parents est trop important pour qu'il soit possible d'envisager l’exercice en
+commun de l'autorité parentale, qui pourrait en l’occurrence menacer le
+bien des enfants (TF 5A_271/2012 du 12 novembre 2012 c. 2.1, in
+FamPra.ch 2013 p. 181; Meier/Stettler, Droit de la filiation, 4è éd., n. 520-
+521; Vetterli, FamKommentar Scheidung, 2e éd., 2011, vol. I, n. 1 ad art.
+176 CC et les références). Au surplus, l’appelante ne remet pas en cause
+l’attribution provisoire de la garde des enfants à l’intimé. Enfin, compte
+tenu de la fragilité psychique des enfants et du caractère éminemment
+conflictuel de la cause, la réintroduction du droit de visite de l’appelante
+ne paraît guère envisageable sans mesures d’accompagnement qu’il
+appartiendra, cas échéant, à l’Unité évaluation et missions spécifiques du
+SPJ de préciser.
+4. L’appelante conteste la contribution d’entretien mise à sa
+charge. Elle allègue que sa situation financière et personnelle a changé et
+que le budget sur lequel est fondé le calcul de la pension litigieuse ne
+correspond pas à la réalité. Elle indique qu’elle s’est mariée le 18
+décembre 2013 et qu’elle attend la naissance d’un enfant pour mai 2014.
+Selon l’appelante, son mari se chargera d’élever l’enfant à plein temps et
+le couple ne pourra plus compter sur certaines ressources dont l’époux
+
+- 21 -
+était bénéficiaire jusqu’à l’automne passé. L’appelante fait valoir que son
+salaire sera singulièrement réduit et que la participation de son époux aux
+frais et dépenses courants du ménage n’aura plus lieu d’être. Enfin, elle
+considère que les allocations familiales devraient lui revenir, dès lors
+qu’elle assume la totalité des factures des enfants.
+4.1 Selon l'art. 286 al. 2 CC, applicable par le renvoi de l'art. 134
+al. 2 CC, si la situation change notablement, le père, la mère ou l'enfant
+peuvent demander au juge de modifier ou supprimer la contribution
+d'entretien. Cette modification ou suppression n'est possible que si les
+circonstances ayant prévalu à la fixation originaire de la contribution ont
+subi un changement notable et, en principe, durable ; elle doit a fortiori
+n'être envisagée que dans la perspective du bien de l'enfant (Breitschmid,
+Basler Kommentar, 4ème éd., 2010, n. 3 et 4 ad art. 134 CC, pp. 904-905;
+TF 5A_324/2009 du 25 mars 2010 c. 2.1.; ATF 120 II 177 c. 3a) ; elle peut
+intervenir sans qu'il soit besoin d'examiner si les faits nouveaux invoqués
+pour la justifier étaient ou non prévisibles au jour du premier jugement
+(ATF 131 III 189 c. 2.7.4, JT 2005 I 324 ; ATF 128 III 305 c. 5b, JT 2003 I 50 ;
+TF 5C_214/2004 du 16 mars 2005 c. 2.1 ; Hegnauer, Berner Kommentar,
+1997, n. 67 ad art. 286 CC, p. 385 ; Breitschmid, op. cit., n. 11 ad art. 286
+CC, p. 1545). La procédure de modification ne doit pas viser à réexaminer
+ou corriger le jugement de divorce, mais à l'adapter aux circonstances
+nouvelles survenues chez les parents ou chez l'enfant (ATF 131 III 189 c.
+2.7.4; ATF 120 II 177 c. 3a).
+La survenance d'un fait nouveau - important et durable -
+n'entraîne toutefois pas automatiquement une modification de la
+contribution d'entretien. Ce n'est que si la charge d'entretien devient
+déséquilibrée entre les deux parents, au vu des circonstances prises en
+compte dans le jugement précédent, en particulier si cette charge devient
+excessivement lourde pour le parent débirentier qui aurait une condition
+modeste, qu'une modification de la contribution peut entrer en
+considération (ATF 134 III 337 c. 2.2.2). Le juge ne peut donc pas se limiter
+à constater une modification dans la situation d'un des parents pour
+admettre la demande; il doit procéder à une pesée des intérêts respectifs
+
+- 22 -
+de l'enfant et de chacun des parents pour juger de la nécessité de modifier
+la contribution d'entretien dans le cas concret (ATF 137 III 604 c. 4.1.1.; TF
+5A_562/2011 du 21 février 2012 c. 4.3, rés. in RMA 2012 p. 300).
+Une modification de la situation familiale peut répondre aux
+conditions posées par l'art. 286 al. 2 CC, par exemple la naissance de
+demi-frères ou de demi-soeurs, dont le débiteur doit aussi assumer
+l’entretien (Meier/Stettler, op. cit., 4ème éd., 2009, note infrapaginale 2178,
+p. 584, et note 2060, p. 557, qui cite FamPra.ch 2000, p. 552, no 44, et RSJ
+2000, p. 327; Bühler/Spühler, Berner Kommentar, 1980, n. 106 ad art.
+a157 CC, p. 709). Entrent en considération à titre de changement de
+circonstances notamment la maladie ou l'invalidité du débiteur de la
+contribution. De simples diminutions passagères dans la capacité de gain
+du débiteur ne suffisent en principe pas à justifier une modification de la
+contribution (Hegnauer, Droit suisse de la filiation, 4è éd., Berne 1998, pp.
+146-147; Breitschmid, op. cit., n. 12ss ad art. 286 CC, pp. 1536-1537 et n.
+17 ad art. 287 CC, p. 1541).
+Des éléments concrets relatifs à une modification prochaine
+des circonstances peuvent être pris en considération, afin d'éviter autant
+que possible une nouvelle procédure ultérieure en modification (ATF 120 II
+285 c. 4b; arrêts 5A_186/2012 du 28 juin 2012 c. 5.2.1 ; 5C.78/2001 du 24
+août 2001 c. 2a, non publié dans l'ATF 127 III 503; 5A_352/2010 du 29
+octobre 2010 c. 5.2, publié in: FamPra.ch 2011 p. 230). Le moment
+déterminant pour apprécier si des circonstances nouvelles se sont
+produites est ainsi la date du dépôt de la demande de modification du
+jugement de divorce. C'est donc à ce moment-là qu'il y a lieu de se placer
+pour déterminer le revenu et son évolution prévisible (ATF 137 III 604 c.
+4.1.1; ATF 120 II 285 c. 4b).
+4.2 L’appelante déclare s’opposer à la contribution mensuelle de
+900 fr. mise à sa charge pour l’entretien des ses trois enfants. Elle se
+borne à alléguer la modification de sa situation personnelle et financière
+en relation avec son mariage le 18 décembre 2013 et la naissance d’un
+
+- 23 -
+enfant au mois de mai 2014, sans toutefois avancer le moindre chiffre à
+cet égard.
+4.2.1 Même lorsque la maxime d'office est applicable, l'appel doit
+contenir des conclusions chiffrées, s'agissant de conclusions pécuniaires
+(ici en contributions d'entretien pour les enfants), sous peine
+d'irrecevabilité. Il ne saurait être remédié à ce vice par la fixation d'un
+délai de l'art. 132 CPC (ATF 137 III 617 c. 4 et 5) ou de l'art. 56 CPC (TF
+5A_855/2012 du 13 février 2013 c. 5, RSPC 2013 p. 257).
+Exceptionnellement, il doit être entré en matière sur des conclusions
+formellement déficientes, lorsqu'on comprend à la lecture de la motivation
+ce que demande l'appelant, respectivement à quel montant il prétend. Les
+conclusions doivent en effet être interprétées à la lumière de la motivation
+de l'appel (ATF 137 III 617 c. 6.2; TF 5A_855/2012 du 13 février 2013 c.
+3.3.2; TF 5A_713/2012 du 15 février 2013 c. 4.1; TF 5A_621/2012 du 20
+mars 2013, liquidation du régime matrimonial; TF 4A_383/2013 du 2
+décembre 2013 c. 3.2.1). Cette jurisprudence s'applique non seulement en
+mesures provisionnelles ou protectrices, mais également s'agissant d'un
+appel contre un jugement (de divorce) au fond (TF 5A_94/2013 du 6 mars
+2013 c. 3.3.2).
+La question de la recevabilité de l’appel, en tant qu’il porte sur
+la contribution d’entretien mise à la charge de l’appelante, peut en
+l’espèce rester indécise, les griefs de l’appelante s’avérant quoi qu’il en
+soit mal fondés et devant être écartés pour les motifs exposés ci-après.
+4.2.2 Le moment déterminant pour apprécier si des circonstances
+nouvelles se sont produites remonte en l’occurrence au 10 juin 2013, date
+à laquelle l’intimé a déposé sa requête de mesures provisionnelles et
+superprovisionnelles en modification du jugement de divorce. A cette
+époque, l’appelante, qui situe le terme de sa grossesse en mai 2014,
+n’était pas encore enceinte. A l’audience de mesures provisionnelles du 30
+octobre 2013, sa grossesse n’a été évoquée que brièvement dans le cadre
+du témoignage d’ [...]. Quant à son mariage, il n’a eu lieu que le 18
+décembre 2013, soit après l’audience de mesures provisionnelles du 30
+
+- 24 -
+octobre 2013 et après l’échéance des délais fixés au 13 novembre 2013 et
+au 20 novembre 2013 respectivement pour la production de pièces
+attestant des revenus de chaque partie et pour se déterminer sur les
+pièces produites. Dans ces conditions, le premier juge ne pouvait tenir
+compte d’un projet dont l’appelante n’a pas fait état avant la clôture de
+l’instruction et, qui plus est, dont elle n’a pas rendu vraisemblable les
+éventuelles répercussions sur la situation personnelle et financière du
+couple.
+Au demeurant, l’appelante ne démontre pas que les
+changements liés à son mariage et à la prochaine naissance de son enfant
+ne lui permettront plus d’assumer la contribution d’entretien mise à sa
+charge, celle-ci se bornant à déclarer, de manière quelque peu
+contradictoire et sans fournir le moindre élément concret à cet égard,
+qu’elle continuera à travailler après la naissance de son enfant. Quant à
+l’incapacité de travail alléguée, survenue dans le cadre de sa grossesse,
+elle ne saurait justifier une modification de la contribution d’entretien dans
+la mesure où il ne s’agit que d’une diminution passagère de la capacité de
+gain de l’appelante. Au surplus, l’appelante indique que l’intimé n’a pas
+débuté l’activité de concierge qu’il annonçait dans sa requête du 20
+septembre 2013. A ce stade, on tiendra donc pour constants les éléments
+matériels retenus par le premier juge pour chacune des parties.
+L’appel doit ainsi être rejeté sur ce point, étant précisé que la
+question de la contribution d’entretien mise à la charge de l’appelante
+devra être revue lors de l’examen des autres éléments litigieux, une fois
+que le SPJ aura rendu son rapport d’évaluation. Il appartiendra à
+l’appelante, qui n’est nullement dispensée de collaborer activement à
+l’établissement des faits (ATF 128 II c. 3.2.1 p. 413), de fournir des
+indications concrètes et suffisamment étayées quant à sa nouvelle
+situation.
+L’appel sera également rejeté en ce qui concerne le versement
+des allocations familiales à l’intimé, l’appelante n’ayant ni démontré ni
+établi qu’elle prendrait en charge la totalité des factures des enfants. En
+
+- 25 -
+outre, elle ne saurait se prévaloir à titre personnel d’éventuelles
+prestations effectuées par d’autres membres de sa famille en faveur de
+ses enfants. Enfin, l’argument tiré du fait que l’intimé ne lui aurait pas
+restitué des allocations familiales touchées pendant plusieurs mois en
+2008 et 2009 est irrelevant, dès lors que ce fait est antérieur au jugement
+de divorce de 2011, l’appelante n’ayant au demeurant pas établi, à tout le
+moins au stade de la vraisemblance, ses allégations.
+5. Dans un dernier grief, l’appelante conteste les frais et dépens
+de première instance mis à sa charge, à savoir 800 fr. à titre de frais
+judiciaires et 1'500 fr. à titre de dépens.
+L’appelante ayant entièrement succombé, c’est à bon droit
+que le premier juge a mis les frais judiciaires et dépens de première
+instance à sa charge (art. 106 al. 1 CPC). En ce qui concerne la quotité des
+frais, les art. 60 al. 1 (émolument de 200 fr. pour la décision de mesures
+superprovisionnelles), 61 al. 1 (émolument de 400 fr. pour la décision de
+mesures provisionnelles), 87 al. 1 (émolument de 100 fr. pour l’audition de
+chaque témoin) et 87 al. 2 en relation avec l’art 88 al. 1 (frais
+d’indemnisation du témoin) du Tarif des frais judiciaires civils du 28
+septembre 2010 (TFJC, RSV 270.11.5) ont été correctement appliqués.
+Compte tenu de l’importance de la cause, de ses difficultés et
+du travail effectué, le montant de 1'500 fr. pour les dépens de première
+instance est correct, celui-ci se situant au demeurant dans la fourchette de
+600 à 50'000 fr. prévue par l’art. 9 al. 1 TDC (tarif des dépens en matière
+civile du 23 novembre 2010 ; RSV 270.11.6).
+Mal fondé, l’appel sera rejeté sur ce point.
+6. En conclusion, l’appel doit être rejeté dans la procédure de
+l’art. 312 al. 1 CPC et l’ordonnance confirmée.
+
+- 26 -
+Les frais judiciaires de deuxième instance, arrêtés à 600 fr.
+(art. 65 al. 2 TFJC), sont mis à la charge de l’appelante qui succombe.
+Il n’y a pas lieu à l’allocation de dépens de deuxième instance,
+l’intimé n’ayant pas été invité à se déterminer.
+Par ces motifs,
+la juge déléguée de la Cour d’appel civile du Tribunal cantonal,
+statuant à huis clos,
+en application de l'art. 312 al. 1 CPC,
+prononce :
+I. L’appel est rejeté.
+II. L’ordonnance est confirmée.
+III. Les frais judiciaires de deuxième instance, arrêtés à 600 fr. (six
+cents francs), sont mis à la charge de l’appelante.
+
+- 27 -
+IV. L’arrêt motivé est exécutoire.
+La juge déléguée : Le greffier :
+Du 28 avril 2014
+Le dispositif de l'arrêt qui précède est communiqué par écrit
+aux intéressés.
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+- Mme H.________,
+- Me Jean-René Mermoud (pour A.V.________).
+La juge déléguée de la Cour d’appel civile considère que la
+valeur litigieuse est supérieure à 30’000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+
+- 28 -
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Mme la Présidente du Tribunal civil d’arrondissement de l’Est vaudois.
+Le greffier :
