@@ -1,0 +1,277 @@
+---
+decision_id: "vd_findinfo_S_questre___2014___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2014 / 8"
+decided: "2014-05-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4368219"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2014 / 8
+
+## Regeste
+
+SÉQUESTRE{LP} | 271 al. 1 ch. 4 LP, 272 LP, 278 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.05.2014 Séquestre / 2014 / 8
+
+SÉQUESTRE{LP} | 271 al. 1 ch. 4 LP, 272 LP, 278 LP
+
+TRIBUNAL
+CANTONAL
+KE13.017110-132461
+172
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 mai 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              M.
+Hack et Mme Rouleau
+Greffier
+:
+M.              Berthoud, greffier ad
+hoc
+*****
+Art.
+271 al. 1 ch. 4, 272 et 278 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+A.M.________
+,
+à Commugny, contre le prononcé rendu le 4 juillet 2013, à la suite de l’audience
+du 27 juin 2013, par le Juge de paix du district de Nyon dans la cause opposant le recourant à
+B.M.________
+,
+à Neuilly-sur-Seine (France).
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 7 mars 2013, invoquant le cas de séquestre
+de l'art. 271 al. 1 ch. 1 LP, subsidiairement de l'art. 271 al. 1 ch. 4 LP, A.M.________ a requis du
+Juge de paix du district de Nyon qu'il ordonne contre B.M.________ le séquestre d'une créance
+de B.M.________ à l’encontre de A.M.________ d'un montant de 72'174 fr. 40 plus intérêts
+à 5 % l’an dès le 23 octobre 2012, créance faisant l'objet d'une poursuite
+n° 6'398’138 de l'Office des poursuites du district de Nyon. Il invoquait une créance
+de 200'000 fr. avec intérêts à 5 % l’an dès le 19 juillet 2012 correspondant
+à des prétendus prélèvements indus effectués par B.M.________ sur ses comptes
+bancaires. A l'appui de sa requête, il a produit notamment les pièces suivantes :
+-
+une copie d'un livret de récépissés
+postaux pour l'année 2008 ;
+-
+des justificatifs de retraits et relevés
+relatifs à divers comptes bancaires auprès de la BCV et de l'UBS. Le requérant présente
+ces pièces comme des justificatifs des retraits effectués par B.M.________ sur ses comptes,
+mais certains comptes sont au nom des deux époux. On trouve sur les justificatifs de la BCV deux
+types de signature, les uns commençant par « […] », les autres par « […] »,
+les relevés de l'UBS n’étant pas signés ;
+-
+un tableau récapitulatif non signé,
+dont l'auteur n'est pas indiqué ;
+-
+une requête de mesures protectrices de l'union
+conjugale formée le 28 mai 2009 par le requérant contre B.M.________ ;
+-
+un prononcé de mesures protectrices rendu
+le 16 juillet 2009 par le Président du Tribunal d'arrondissement de La Côte, astreignant le
+requérant au paiement d'une pension alimentaire ;
+-
+une demande de divorce formée le 19 juillet
+2012 par le requérant, concluant notamment à ce que B.M.________ soit condamnée à
+lui payer la somme de 200'000 francs ;
+-
+le commandement de payer de la poursuite n°
+6'398’138 de l'Office des poursuites du district de Nyon, notifié le 17 novembre 2012 au requérant ;
+-
+la requête du 10 décembre 2012 de mainlevée
+définitive de l'opposition à la poursuite précitée ;
+-
+une « fiche famille » du contrôle
+des habitants de la commune de Crans-près-Céligny établie le 12 février 2013, indiquant
+que B.M.________ a quitté la commune pour Neuilly-sur-Seine le 31 décembre 2011.
+b)
+Par ordonnance du
+25
+mars 2013
+, le Juge de paix du district
+de Nyon a scellé une ordonnance de séquestre pour le montant de 200'000 fr. plus intérêt
+à 5 % l'an dès le 19 juillet 2012 contre B.M.________, la cause de l’obligation
+étant « Prélèvements indus, enrichissement illégitime, acte illicite »,
+le cas de séquestre retenu étant celui visé par l'art. 271 al. 1 ch. 4 LP et les objets
+à séquestrer étant « Créance de B.M.________ à rencontre de A.M.________,
+selon arrêt rendu le 9 août 2012 par la Cour d'appel civile du Tribunal cantonal et poursuite
+n° 6'398’138 de l'Office des poursuites du district de Nyon, pour un montant de Fr. 72'174.40,
++ intérêts dès le 23 octobre 2012, respectivement tous montants qui pourront être
+payés en règlement de cette créance auprès dudit Office. ». Le créancier
+a été astreint à fournir des sûretés à hauteur de 20’000 francs.
+Par acte du 22 avril 2013, la séquestrée
+a fait opposition au séquestre. Elle a produit notamment un prononcé de mainlevée rendu
+le 11 avril 2013 dans le cadre de la poursuite n° 6'398’138, la réponse à la demande
+de divorce et la déclaration d'impôt 2008 des parties.
+2.
+Par prononcé du 4 juillet 2013, rendu à
+la suite d'une audience tenue le 27 juin 2013, en présence des parties, le Juge de paix du district
+de Nyon a admis l'opposition au séquestre (I), révoqué l'ordonnance de séquestre
+du 25 mars 2013 (II), arrêté les frais judiciaires à 660 fr. (III), mis
+ces frais à la charge de la partie intimée (IV) et dit que cette dernière devait rembourser
+à la partie requérante son avance de frais de 660 fr. et lui verser en outre 3’000
+fr. à titre de dépens (V).
+Cette décision a été notifiée sous forme de dispositif le 5 juillet 2013 au séquestrant
+et, celui-ci ayant requis la motivation par courrier du 15 juillet 2013, avec ses motifs le 28 novembre
+2013. En substance, le juge de paix a considéré que si le cas de séquestre de l'art. 271
+al. 1 ch. 4 LP était réalisé, le séquestrant n'avait pas rendu la créance alléguée
+vraisemblable.
+3.
+Par acte du 9 décembre 2013, le séquestrant a recouru contre cette décision, concluant
+au rejet de l'opposition au séquestre et à la confirmation de l'ordonnance de séquestre.
+Il a produit un onglet de pièces pour partie nouvelles sous bordereau.
+Préalablement, il a requis la tenue de débats et l'audition des parties, requête rejetée
+le 21 janvier 2014 par le Président de la cour de céans.
+Dans le délai qui lui a été imparti, la séquestrée a conclu au rejet du recours.
+Elle a également produit une pièce nouvelle.
+En droit
+:
+I.
+Le
+recours a été formé en temps utile, dans le délai de dix jours de l'art. 321
+al. 2 CPC (Code de procédure civile du 19 décembre 2008, entré en vigueur le 1
+er
+janvier 2011, RS 272), applicable par le renvoi de l'art. 278 al. 3 LP (loi fédérale du 11
+avril 1889 sur la poursuite pour dettes et la faillite, RS 281.1). Il est écrit et motivé,
+de sorte qu'il est recevable à la forme (art. 321 al. 1 CPC).
+En principe, en procédure de recours, les
+conclusions, les allégations de faits et les preuves nouvelles sont irrecevables (art. 326 al. 1
+CPC). Cependant, l'art. 326 al. 2 CPC réserve les dispositions spéciales de la loi, dont l'art. 278 al. 3 deuxième
+phrase LP, aux termes duquel les parties peuvent, dans le cadre de la procédure de recours en matière
+d'opposition au séquestre, alléguer des faits nouveaux (Jeandin, Code de procédure civile
+commenté, n. 4 ad art. 326 CPC). Seuls les « vrais nova » peuvent être
+invoqués (Reiser, Basler Kommentar, n. 46 ad art. 278 LP). Les pseudo-nova ne peuvent, au mieux,
+être recevables qu'en tant que celui qui les produit établirait qu'ils ne pouvaient être
+invoqués ou produits devant la première instance bien qu'il ait fait preuve de la diligence
+requise. La doctrine précitée réserve, en ce sens, la possibilité d'invoquer des
+faits antérieurs à la décision de première instance, lorsque ceux-ci n'ont pu être
+invoqués au stade de l'opposition et que cette omission est excusable (Reiser, op. cit., nn. 47
+et 49 ad art. 278 LP).
+En l'espèce, le procès-verbal de l’audience du 28 novembre 2013 (pièce 5) et les
+extraits du compte bancaire espagnol de l’intimée pour la période allant de janvier 2012
+à août 2013 (pièce 8) produits par le recourant sont relatifs à des faits postérieurs
+au prononcé entrepris et donc admissibles. Les autres pièces produites par le recourant ainsi
+que les pièces nouvelles produites par l'intimée sont relatives à des faits antérieurs
+et auraient pu être produites plus tôt ; elles doivent par conséquent être écartées.
+Quoi qu’il en soit, elles ne sont pas déterminantes pour le sort du recours.
+II.
+Selon l'art. 271 al. 1 ch. 4 LP, le créancier d'une prétention échue non garantie par
+gage peut requérir le séquestre des biens du débiteur lorsque ce dernier n'habite pas
+en Suisse, s'il n'y a pas d'autre cas de séquestre, pour autant que la créance ait un lien
+suffisant avec la Suisse ou qu'elle se fonde sur un jugement exécutoire ou sur une reconnaissance
+de dette au sens de l'art. 82 al. 1 LP. Le séquestre, mesure conservatoire urgente, doit être
+autorisé par le juge compétent, lorsque le créancier rend vraisemblable, outre la réalisation
+du cas de séquestre invoqué, l'existence et l'exigibilité de la créance et l'existence
+de biens appartenant au débiteur (art. 272 al. 1 LP).
+Le degré de preuve requis est celui de la vraisemblance. Il suffit que le juge, dans son libre examen,
+aboutisse à la conviction que le fait invoqué correspond, avec une probabilité suffisante,
+aux allégations de la partie, sans qu'il doive nécessairement être convaincu de son exactitude
+ou que toute autre solution paraisse exclue (ATF 120 II 393, JT 1995 I 571 ; Hohl, Procédure
+civile, tome II, nn. 2758 ss, p. 225 ; Reeb, Les mesures provisoires dans la procédure
+de poursuite, in RDS 1997 II, pp. 465-466).
+En l'espèce, le seul point litigieux est celui de savoir si la créance a été rendue
+suffisamment vraisemblable. Les parties sont mariées et en instance de divorce. La créance
+invoquée est une créance en règlement des rapports patrimoniaux entre conjoints soumis
+au régime matrimonial de la séparation de biens. Le recourant prétend qu'entre 2008 et
+avril 2009, l'intimée a effectué des prélèvements indus sur ses comptes bancaires,
+en ce sens qu'elle aurait abusé d'une procuration qu'il lui aurait donnée, parce qu'il ne l'aurait
+autorisée qu'à retirer de quoi assumer les paiements et besoins courants du ménage. Il
+se prévaut du fait que le montant des retraits dépasserait nettement celui des paiements. Il
+relève qu'il a réclamé la différence dans le cadre de la procédure de divorce
+et qu'il appartiendra à l'expert de déterminer la quotité exacte de sa créance, 200'000
+fr. constituant selon lui un « minimum ».
+Le relevé d'un compte UBS au nom du recourant
+mentionne un retrait d'espèce expressément attribué à l'intimée ; il faut
+entendre par là le libellé de l'opération et non les annotations manuscrites portées
+en regard de certains « retraits d'espèces » sans autre spécification,
+annotations qui n'ont aucune force probante. Le relevé d'un autre compte n'en comporte pas, mais
+seulement des annotations manuscrites à côté de retraits d'espèces. Le troisième
+compte UBS est au nom des deux époux. Tous les justificatifs de retraits signés par l’intimée
+concernent un compte BCV au nom des deux parties. Enfin, on ne dispose pas de pièces relatives au
+deuxième compte BCV mentionné par le recourant. Son « tableau récapitulatif »
+n'a pour le surplus aucune force probante.
+Cela étant, il semble résulter de la décision entreprise que l'intimée ne conteste
+pas vraiment avoir fait des retraits importants sur les divers comptes du couple mais affirme avoir tout
+consacré aux dépenses du couple, dont le train de vie était confortable. Pour le surplus,
+toutes les allégations du recourant sont contestées par l'intimée. Or, aucune des deux
+versions n'est plus plausible que l'autre. Rien ne permet de penser que l'intimée aurait mis de
+l'argent de côté ou aurait tout dépensé pour elle-même, ou encore pour le couple
+mais contre l'avis du recourant. Dans cette mesure, la créance alléguée n'est pas « vraisemblable »
+ou « probable », elle est seulement « possible ». Il ne faut
+pas non plus perdre de vue que la créance ne doit pas seulement être rendue vraisemblable dans
+son principe, mais aussi dans sa quotité.
+III.
+En conclusion, le recours doit être rejeté,
+le prononcé attaqué étant confirmé.
+Les frais de deuxième instance, arrêtés à 690 fr., sont mis à la charge du recourant.
+Ce dernier doit verser à l’intimée la somme de 2’500 fr. à titre de dépens
+de deuxième instance
+.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième
+instance, arrêtés à 690 fr. (six cent nonante francs), sont mis à la charge du recourant.
+IV.
+Le recourant A.M.________ doit verser à l'intimée
+B.M.________ la somme de 2'500 fr. (deux mille cinq cents francs) à titre de dépens de deuxième
+instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+8 mai 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié à :
+‑
+Me Jacques Barillon, avocat (pour A.M.________),
+-
+Me Alain-Valéry Poitry,
+avocat (pour B.M.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 72'174 fr. 40.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+Le greffier :
