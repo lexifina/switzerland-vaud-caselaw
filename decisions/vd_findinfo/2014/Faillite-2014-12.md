@@ -1,0 +1,300 @@
+---
+decision_id: "vd_findinfo_Faillite___2014___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2014 / 12"
+decided: "2014-06-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4395364"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-192.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2014 / 12
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ | 174 LP, 190 al. 1 ch. 2 LP, 194 al. 1 LP, 322 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.06.2014 Faillite / 2014 / 12
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ | 174 LP, 190 al. 1 ch. 2 LP, 194 al. 1 LP, 322 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FW13.045262-132468
+218
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 juin 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Byrde et M.Maillard
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174, 190 al. 1 ch. 2 et 194 al. 1 LP ; 322 al. 1 CPC
+Vu la requête du 17 octobre 2013 déposée par la
+CONFEDERATION
+SUISSE
+, représentée par l’Administration
+fédérale des contributions AFC/TVA, demandant, en application de l’art. 190 al. 1 ch.
+2 LP, la faillite sans poursuite préalable de
+D.________
+,
+à Bex,
+vu le jugement rendu le 3 décembre 2013, à la suite de l'audience du 27 novembre 2013, par
+le Président du Tribunal d'arrondissement de l’Est vaudois, prononçant la faillite sans
+poursuite préalable, le 27 novembre 2013, à 9 heures 20, de D.________,
+vu le recours, accompagné de six pièces, déposé le 12 décembre 2013 contre ce
+jugement par D.________, concluant, avec suite de frais et dépens, principalement à son annulation
+et, subsidiairement, à sa réforme en ce sens que la faillite est révoquée,
+vu le courrier du 12 décembre 2013 par lequel l’Administration fédérale des contributions
+AFC/TVA a informé le Président de la cour de céans avoir trouvé un arrangement avec
+la débitrice et déclaré retirer sa requête de faillite du 17 octobre 2013,
+vu la décision du Président de la cour de céans du 12 décembre 2013, admettant la
+requête d'effet suspensif contenue dans le recours et ordonnant, comme mesures conservatoires, l'inventaire
+et l'audition du failli,
+vu l'avis du 27 janvier 2014 du Président de la cour de céans transmettant à la recourante
+un extrait du registre des poursuites au 16 décembre 2013 la concernant, requis d'office, et lui
+impartissant un délai de dix jours pour se déterminer, s'il le souhaitait, au sujet de cette
+pièce,
+vu le courrier du 7 février 2014 de la recourante, qui indique avoir payé l’intégralité
+d’une des poursuites (au stade de la commination de faillite) figurant sur l’extrait des
+poursuites précité, par 5'672 fr. 40,
+vu l’extrait du registre des poursuites et l'extrait du registre des actes de défaut de biens,
+au 20 février 2014, requis d’office,
+vu l’écriture déposée spontanément par la recourante le 20 mars 2012, accompagnée
+de quatre pièces,
+vu les pièces du dossier;
+attendu que, s'agissant d'une société à responsabilité limitée, la faillite
+sans poursuite préalable pouvait être prononcée aux conditions fixées par l'art.
+192 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite, RS 281.1;
+CPF, 11 octobre 2012/418),
+que, selon l’art. 174 al. 1 LP, applicable
+par renvoi de l’art. 194 al. 1 LP à la faillite sans poursuite préalable, la décision
+du juge de la faillite peut faire l’objet d’un recours au sens du CPC (Code de procédure
+civile du 19 décembre 2008, RS 272), dans les dix jours,
+que, déposé le 12 décembre 2013 à l’encontre d’un jugement rendu le 3
+décembre 2013, et reçu par la recourante le 9 décembre 2013, le recours a été
+formé en temps utile,
+qu’il est en outre suffisamment motivé, de sorte qu’il est recevable formellement (art.
+321 al. 1 CPC);
+attendu que dans la procédure de recours contre une décision du juge de la faillite, selon
+l’art. 174 al. 1 in fine LP, les parties peuvent faire valoir des faits nouveaux lorsqu’ils
+se sont produits avant le jugement de première instance (pseudo-nova),
+qu’en vertu de l’art. 174 al. 2 LP, les pièces se rapportant à des faits intervenus
+depuis l’audience de faillite (vrais nova) peuvent être produites, pour autant qu’elles
+tendent à rendre vraisemblable la solvabilité du débiteur et à établir que celui-ci
+a payé sa dette en totalité (ch. 1) ou consigné les montants nécessaires auprès
+de l’autorité compétente (ch. 2) ou que le créancier a retiré sa réquisition
+de faillite (ch. 3),
+que seul le débiteur peut produire, dans le délai de recours, des titres pour établir
+les faits énumérés limitativement à l’art. 174 al. 2 ch. 1 à 3 LP (CPF,
+5 août 2013/310),
+qu’il s’ensuit que, pour juger de l’existence d’une suspension de paiement justifiant
+une faillite sans poursuite préalable, l’autorité judiciaire supérieure doit tenir
+compte des faits nouveaux (vrais nova) et donc de la situation financière du débiteur à
+l'échéance du délai de recours cantonal (ATF 136 III 294, c. 3;
+TF
+5A_439/2010 du 11 novembre 2010, c. 4),
+que, dans un arrêt récent, le Tribunal fédéral a jugé que cette juris-prudence
+demeurait valable depuis le 1
+er
+janvier 2011, date de l’entrée en vigueur de la LP révisée, et qu’il incombait
+donc toujours au débiteur de rendre vraisemblable sa solvabilité en déposant le recours
+et de produire à l'appui de celui-ci les pièces qui établissent les motifs d'annulation
+de la faillite au sens des chiffres 1 à 3 précités (ATF 139 III 491, c. 4 pp. 492 ss),
+qu’il s’agit en outre d’examiner si les conditions de la déclaration de faillite
+étaient remplies à la date du jugement de première instance (TF 5A_711/2012 du 17 décembre
+2012; Brönnimann, Novenrecht und Weiterziehung des Entscheides des Konkursgerichtes gemäss
+Art. 174 SchKG, in Festschrift Walder, p. 444),
+qu’en l’espèce, au vu de ce qui précède, seules les pièces produites
+par la recourante à l’appui de son recours sont recevables, à l’exclusion de celles
+produites ultérieurement le 20 mars 2014,
+que, durant le délai de recours, la cour de céans a d’office requis et versé au
+dossier un extrait du registre des poursuites au 16 décembre 2013, et invité par la suite la
+recourante à se déterminer sur cet extrait, ce que celle-ci a fait le
+7
+février 2014,
+que la bonne foi qui prévaut en procédure (art. 5 al. 3 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101) et 52 CPC) commande d’admettre la
+recevabilité de cette détermination, même si celle-ci a été déposée
+après l’échéance du délai de recours,
+qu’en revanche, il n’est pas possible de considérer que l’écriture déposée
+spontanément par la recourante le 20 mars 2014, après l’échéance du délai
+de recours et de celui imparti par avis du 27 janvier 2014, est recevable ;
+attendu qu’à l’appui de sa requête de faillite, l’Administration fédérale
+des contributions AFC/TVA avait produit notamment les pièces suivantes :
+-
+un extrait du registre du commerce concernant la société D.________, dont [...] est associé
+gérant unique, avec signature individuelle,
+-
+un extrait des poursuites
+dirigées contre D.________ au 14 octobre 2013, faisant état de cinquante et une poursuites,
+dont deux au stade de la commination de faillite, sept au stade du commandement de payer (dont une frappée
+d'opposition), et dont quarante-deux ont abouti à des actes des actes de défaut de biens pour
+un montant total de 87'963 fr. 90, les autres poursuites totalisant 15'195 fr.,
+-
+huit actes de défaut de biens après saisie délivrés entre le 31 janvier 2012 et le
+14 août 2013 par l’Office des
+poursuites du district d’Aigle à la Confédération suisse pour un montant total de
+39'034 fr. 65,
+qu’à l’appui de son recours, D.________ a produit notamment :
+-
+un courrier qu’elle a adressé à l’Administration fédérale des contributions
+AFC/TVA le 12 décembre 2013, l’informant du paiement, le jour même, en sa faveur, d’un
+montant de 32'768 fr. 60,
+-
+un courrier de l’Administration fédérale des contributions AFC/TVA à D.________,
+du 12 décembre 2013, acceptant le montant susmentionné, indiquant qu’une fois la preuve
+de paiement validée par ses services, la réquisition de faillite serait retirée et précisant
+que le solde de la dette ferait l’objet d’un plan de paiement sur vingt-quatre mois,
+-
+un récépissé postal attestant du paiement, effectué le 12 décembre 2013, du
+montant de 32'768 fr. 60 en faveur de l’intimée,
+-
+un extrait du registre des poursuites au 10 décembre 2014, faisant état de cinquante-cinq poursuites,
+dont quarante-deux ont abouti à des actes de défaut de biens pour un montant total de 87'963
+fr. 90, les autres poursuites totalisant 30'886 fr. 45, dont six au stade de la commination de faillite ;
+attendu que la recourante fait valoir que les conditions de l’art. 190 al. 1 ch. 2 LP ne sont pas
+remplies,
+qu’aux termes de cette disposition, le créancier peut requérir la faillite sans poursuite
+préalable si le débiteur sujet à la poursuite par voie de faillite a suspendu ses paiements,
+que la suspension de paiements est une notion imprécise qui confère au juge de la faillite
+un ample pouvoir d'appréciation (ATF 137 III 460, c. 3.4.1;
+TF
+5A_439/2010 du 11 novembre 2010, in SJ 2011 I 175; 5P.312/2002 du 13 février 2003 c. 3.3; Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, 1999-2003, n. 30
+ad art. 190 LP; Cometta, Commentaire romand, n. 10 ad art. 190 LP; Peter, Edition annotée de
+la loi fédérale sur la poursuite pour dettes et la faillite, 2010, p. 851; Huber, Kurzkommentar
+SchKG, 2009, n. 8 ad art. 190 LP),
+qu’elle est la manifestation extérieure de l’insolvabilité, qu’il ne faut
+pas confondre avec l’insuffisance d’actifs, c’est-à-dire la situation dans laquelle
+les passifs excèdent les actifs, soit l’endettement ou le surendettement, encore qu’une
+situation prolongée d’insolvabilité aboutit au surendettement, comme un surendettement
+prolongé aboutit à une situation d’insolvabilité (Gilliéron, op. cit.,
+n.
+28 ad art. 190 LP),
+que cette notion été préférée par le législateur à celle d’insolvabilité
+parce qu’elle est perceptible extérieurement et par conséquent plus aisée à
+rendre vraisemblable,
+que lorsque l’insolvabilité est rendue vraisemblable, la faillite sans poursuite préalable
+doit toutefois a fortiori être déclarée (ibid. n. 29 ad art. 190 LP ; TF 5A_367/2008
+du 11 juillet 2008 c. 4.1),
+que, pour qu’il y ait suspension de paiements, il faut que le débiteur ne paie pas des dettes
+incontestées et exigibles, laisse les poursuites se multiplier contre lui, tout en faisant systématiquement
+opposition, ou omette de s’acquitter même des dettes minimes, laissant démontrer par
+ce comportement qu’il ne dispose pas de liquidités suffisantes pour honorer ses engagements
+(ATF 137 III 460, c. 3.4.1 p. 468),
+qu’il n’est pas nécessaire que le débiteur interrompe tous ses paiements,
+qu’il suffit que le refus de payer porte sur une partie essentielle de ses activités commerciales
+(ATF 137 III 460 c. 3.4.1, p. 468; ATF 85 III 146, c. 4b p. 155),
+que, même une dette unique n’empêche pas, si elle est importante et que le refus de payer
+est durable, d’admettre une suspension de paiements, tel pouvant être le cas lorsque le débiteur
+refuse de désintéresser son principal créancier (TF 5A_439/2010 du 11 novembre 2010, précité;
+TF 5A_367/2008 du
+11 juillet 2008 précité
+c. 4.1; SJ 2000 I 248, p. 250 et réf. cit.),
+que le non-paiement de créances de droit public peut constituer un indice de suspension de paiements
+(SJ 2000 I 248 précité et réf. cit.) ;
+considérant qu'en l'espèce, la recourante établit avoir trouvé un accord avec la
+requérante, qui a retiré sa requête de faillite,
+que cet élément ne constitue pas une condition de l'annulation de la décision de faillite
+sans poursuite préalable, mais peut être pris en considération en tant qu'indice de la
+solvabilité retrouvée de la recourante (CPF, 13 novembre 2012/424),
+qu’à cet égard, on constate que s’il est vrai que la recourante a payé un
+montant de 32'768 fr. 60 à l’intimée le 12 décembre 2013, ainsi qu’un montant
+de 5'672 fr. 40 à un autre créancier, l'extrait du registre des poursuites au 20 février
+2014 la concernant fait toujours état de neuf poursuites, introduites entre le
+4
+novembre 2011 et le 27 novembre 2013, totalisant 17’345 fr. 80, dont cinq au stade du commandement
+de payer (pour 11'743 fr. 10) et quatre au stade de la commina-tion de faillite (pour 5'602 fr. 70),
+que l'extrait du registre des actes de défaut de biens, à la même date, mentionne quant
+à lui trente-neuf poursuites introduites entre le 23 septembre 2011 et le 4 décembre 2013,
+pour un montant total de 72'821 fr. 70, et donc trente-neuf actes de défaut de biens pour le même
+montant, dont vingt-cinq d’Hotela Caisse de compensation AVS et huit de la Confédération
+ou de l’Etat de Vaud pour des contributions,
+qu’il s’ensuit que la recourante ne paie durablement pas les cotisations sociales de ses
+employés ni ses dettes de droit public,
+que la recourante ne produit aucune pièce relative à sa situation financière (avoirs en
+banque, compte récents, etc.) susceptible de démontrer qu’elle est solvable ou, à
+tout le moins, qu’elle n’est pas en état de suspension de paiement,
+qu’il ressort des déterminations déposées par l’office des poursuites le 25
+novembre 2013 que D.________ ne possède que des actifs mobiliers sans valeur de réalisation
+(tables, tabourets de bar, etc.) et aucune créance,
+que par ailleurs, même si cet élément n’est pas à lui seul déterminant,
+il appert que la situation financière de l’associé gérant de la société,
+[...], est largement obérée,
+qu’il ressort en effet de l’arrêt de la cour de céans du 25 septembre 2013 confirmant
+la faillite personnelle de l’intéressé, que celui-ci faisait l’objet de septante-deux
+poursuites pour 200'123 fr. 80, dont douze au stade du commande-ment de payer en cours (pour 23'312 fr.
+85), sept ayant abouti à la délivrance de comminations de faillite (pour 32'440 fr. 30) et
+quarante au stade de la saisie (pour 144'370 fr. 65),
+que dans ces circonstances, il est illusoire de penser que [...], unique associé gérant de
+la recourante, pourra contribuer à la solvabilité de la société,
+qu’au vu de l’ensemble de ces éléments, la cessation de paiements est clairement
+établie,
+que le recours, manifestement infondé au sens de l’art. 322 al. 1 CPC, doit par conséquent
+être rejeté et le jugement confirmé, la faillite sans poursuite préalable de D.________
+prenant effet, vu l'effet suspensif accordé, le 13 juin 2014, à 16 heures 15 ;
+considérant que les frais judiciaires de deuxième instance, arrêtés à 300 fr.,
+sont mis à la charge de la recourante.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite sans poursuite préalable de D.________ prenant effet
+le 13 juin 2014, à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+Le
+président :               La greffière
+:
+Du
+13 juin 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Hüsnü Yilmaz, avocat (pour D.________),
+‑
+Confédération suisse, Administration fédérale des contributions AFC/TVA ,
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office des districts d’Aigle et de la Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
