@@ -1,0 +1,397 @@
+---
+decision_id: "vd_findinfo_Plainte___2014___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2014 / 27"
+decided: "2014-07-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4429464"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-097.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-110.md", "switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-085.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-089.md"]
+---
+
+# VD Findinfo Plainte / 2014 / 27
+
+## Regeste
+
+PLAINTE{LP}, AVIS DE SAISIE, PROCÉDÉ TÉMÉRAIRE | 17 al. 2 LP, 89 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.07.2014 Plainte / 2014 / 27
+
+PLAINTE{LP}, AVIS DE SAISIE, PROCÉDÉ TÉMÉRAIRE | 17 al. 2 LP, 89 LP
+
+TRIBUNAL
+CANTONAL
+FA13.043452-140304
+30
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 juillet 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mmes
+Carlsson et  Byrde
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17 al. 2 et 89 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+K.________
+,
+à Chevilly, contre la décision rendue le 30 janvier 2014, à la suite de l’audience
+du 25 novembre 2013, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant les plaintes déposées par le recourant contre douze
+avis de saisie établis par l'
+Office
+des poursuites du district de Morges
+dans le cadre
+de poursuites exercées contre lui à l'instance de la
+Confédération
+suisse
+et de l'
+Etat
+de Vaud
+, représentés par l'
+Office
+d'impôt du district de Morges
+.
+Vu les pièces du
+dossier, la cour considère :
+En fait :
+1.
+a)
+K.________ fait l'objet de douze poursuites
+de l'Office des poursuites du district de Morges (ci-après : l'Office), huit exercées à
+l'instance de l'Etat de Vaud et quatre à l'instance de la Confédération suisse, auxquelles
+il a formé opposition. Toutes les oppositions ont été définitivement levées
+par des prononcés devenus définitifs et exécutoires à la suite du rejet, par arrêts
+du Tribunal fédéral du 16 juillet 2003, des douze recours constitutionnels subsidiaires interjetés
+par le poursuivi. Le détail des poursuites en cause est le suivant :
+-
+n° 6'021'723; "amende d'ordre défaut DI ICC 2002 (Etat de Vaud) selon décision de
+taxation du 14.01.2004 et du décompte final du 14.01.2004; sommation adressée le 04.03.2004";
+commandement de payer notifié le 2 février 2012; prononcé de mainlevée définitive
+du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_92/2013;
+-
+n° 6'021'727; "impôt sur le revenu et la fortune 2002 (Etat de Vaud, Commune de Chevilly)
+selon décision de taxation du 03.10.2002 et du décompte final du 11.02.2003; sommation adressée
+le 07.04.2003"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_93/2013;
+-
+n° 6'021'804; "amende d'ordre défaut DI ICC 2004 (Etat de Vaud) selon décision de
+taxation du 19.03.2007 et du décompte final du 19.03.2007; sommation adressée le 10.05.2007";
+commandement de payer notifié le 2 février 2012; prononcé de mainlevée définitive
+du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_87/2013;
+-
+n° 6'021'811; "impôt sur le revenu et la fortune 2004 (Etat de Vaud, Commune de Chevilly)
+selon décision de taxation du 19.03.2007 et du décompte final du 19.03.2007; sommation adressée
+le 10.05.2007"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_91/2013;
+-
+n° 6'021'817; "impôt sur le revenu et la fortune 2003 (Etat de Vaud, Commune de Chevilly)
+selon décision de taxation du 02.05.2005 et du décompte final du 11.05.2005; sommation adressée
+le 30.06.2005"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_88/2013;
+-
+n° 6'021'828; "impôt sur le revenu et la fortune 2001 (Etat de Vaud, Commune de Chevilly)
+selon décision de taxation du 18.02.2002 et du décompte final du 27.02.2002; sommation adressée
+le 02.05.2002"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_90/2013;
+-
+n° 6'025'009; "amende d'ordre défaut DI ICC 2001 (Etat de Vaud) selon décision de
+taxation du 27.02.2002 et du décompte final du 27.02.2002; sommation adressée le 02.05.2002";
+commandement de payer notifié le 12 décembre 2011; prononcé de mainlevée définitive
+du 17 octobre 2012, motivation du 15 décembre 2012; arrêt du TF 5D_89/2013;
+-
+n° 6'021'797; "impôt sur les gains immobiliers 2004 (Etat de Vaud, Commune de Chevilly)
+selon décision de taxation du 30.04.2007 et du décompte final du 30.04.2007; sommation adressée
+le 21.06.2007"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 26 novembre 2012; arrêt du TF 5D_117/2013;
+-
+n° 6'021'832; "impôt fédéral direct 2004 (Confédération suisse) selon
+décision de taxation du 19.03.2007 et du décompte final du 19.03.2007; sommation adressée
+le 10.05.2007"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 3 décembre 2012; arrêt du TF 5D_95/2013;
+-
+n° 6'021'846; "impôt fédéral direct 2003 (Confédération suisse) selon
+décision de taxation du 02.05.2005 et du décompte final du 11.05.2005; sommation adressée
+le 30.06.2005"; commandement de payer notifié le 2 février 2012; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 3 décembre 2012; arrêt du TF 5D_94/2013;
+-
+n° 6'021'856; "impôt fédéral direct 2002 (Confédération suisse) selon
+décision de taxation du 20.02.2003 et du décompte final du 20.02.2003; sommation adressée
+le 21.06.2010; décompte d'intérêts du 31.08.2006"; commandement de payer notifié
+le 2 février 2012; prononcé de mainlevée définitive du 17 octobre 2012, motivation
+du 3 décembre 2012; arrêt du TF 5D_96/2013;
+-
+n° 6'024'913; "amende d'ordre défaut DI IFD 2004 (Confédération suisse) selon
+décision de taxation du 19.03.2007 et du décompte final du 19.03.2007; sommation adressée
+le 10.05.2007"; commandement de payer notifié le 12 décembre 2011; prononcé de mainlevée
+définitive du 17 octobre 2012, motivation du 26 novembre 2012; arrêt du TF 5D_116/2013.
+b)
+L'Office
+d'impôt du district de Morges, représentant les poursuivants, a requis la continuation des
+poursuites, les 6 et 9 septembre 2013, et l'Office a établi, le 12 septembre 2013, les avis de saisie
+suivants :
+-
+n° 6'021'723; pour un montant de 2'125 fr. 90, frais et intérêts compris; l'avis mentionne
+que la saisie est prévue le 12 septembre 2013 le matin à l'Office, que la présence du
+débiteur n'est indispensable que si des modifications sont intervenues dans sa situation et que,
+pour le montant indiqué, il sera adressé à son créancier un acte de défaut de
+biens;
+-
+n° 6'021'727; pour un montant de 17'710 fr. 45, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'804; pour un montant de 640 fr. 55, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'811; pour un montant de 5'835 fr. 50, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'817; pour un montant de 5'223 fr. 05, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'828; pour un montant de 12'874 fr. 85, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'025'009; pour un montant de 1'996 fr. 15, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'797; pour un montant de 3'249 fr. 25, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'832; pour un montant de 391 fr. 55, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'846; pour un montant de 295 fr. 40, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'021'856; pour un montant de 2'065 fr. 80, frais et intérêts compris; l'avis comporte
+la même mention que le précédent;
+-
+n° 6'024'913; pour un montant de 386 fr. 80, frais et intérêts compris; l'avis comporte
+la même mention que le précédent.
+c)
+Le
+8 octobre 2013, K.________ a déposé une plainte au sens de l'art. 17 LP [loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1] contre chacun des avis de saisie précités,
+concluant à leur annulation. Il a invoqué la prescription des créances fiscales concernées.
+Le 10 octobre 2013, la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure
+de surveillance, a joint les douze plaintes.
+L'Office s'est déterminé le 11 octobre 2013, préavisant pour le constat de l’irrecevabilité
+des plaintes pour tardiveté, subsidiairement pour leur rejet. Il a fait valoir en particulier que
+les douze poursuites en cause avaient abouti à des décisions de mainlevée définitive,
+que les recours constitutionnels subsidiaires interjetés par le poursuivi avaient tous été
+rejetés par le Tribunal fédéral et que, dès lors que les pièces produites avec
+les réquisitions de continuer les poursuites démontraient que les oppositions avaient été
+levées définitivement, il devait donner suite à ces réquisitions, conformément
+aux art. 88 ss LP, sans avoir la qualité pour trancher la question de la prescription des créances
+concernées.
+L’Office d’impôt du district de Morges s’est déterminé le 29 octobre
+2013, concluant au rejet des plaintes, dans la mesure où elles étaient recevables. Il a soutenu
+que, même si certaines jurisprudences posaient que le moyen tiré de la prescription des créances
+de droit public devait être "soulevé" d’office, ce moyen ne pouvait plus être
+soulevé à ce stade de la procédure dès lors que, dans toutes les poursuites concernées,
+les oppositions avaient été définitivement levées.
+Le 23 novembre 2013, K.________ a répliqué. Il a relevé que l’Office d’impôt
+reconnaissait que le moyen tiré de la prescription des créances de droit public devait être
+"soulevé" d’office en matière de mainlevée définitive; il s’est
+en outre prévalu de l’art. 81 al. 2 LP, en soutenant qu’il ressortait immédiatement
+des commandements de payer ayant donné lieu aux avis de saisie contestés que la prescription,
+voire la péremption, était acquise.
+2.
+Par décision rendue le 30 janvier 2014, à la suite de l'audience du 25 novembre 2013 à
+laquelle le plaignant ne s'était pas présenté, l'autorité inférieure de surveillance,
+statuant sans frais ni dépens, a rejeté les plaintes.
+3.
+Par acte déposé le 17 février 2014 par son conseil, Me Aba Neeman, K.________ a recouru
+contre cette décision, concluant à sa réforme en ce sens que les avis de saisie litigieux
+sont annulés. Au surplus, il a requis l’octroi de l’effet suspensif et du bénéfice
+de l’assistance judiciaire, Me Neeman étant désigné comme son avocat d’office.
+Par décision du 25 février 2014, le Président de la cour de céans a rejeté la
+requête d’effet suspensif. Le 26 février 2014, il a avisé le conseil du recourant
+que la décision sur l’octroi de l’assistance judiciaire serait prise dans l’arrêt
+à intervenir et lui a imparti un délai pour déposer une liste de ses opérations,
+faute de quoi son indemnité serait fixée, le cas échéant, au vu du dossier.
+L'Office et l'Office d'impôt du district de Morges se sont déterminés respectivement le
+28 février et le 5 mars 2014, dans le délai qui leur avait été fixé pour ce
+faire. Le premier a déclaré s'en tenir à ses déterminations du 11 octobre 2013 et
+le second a conclu implicitement au rejet du recours; il a en outre informé la cour de céans
+qu'à la suite du rejet de la requête d’effet suspensif, des actes de défaut de biens
+lui avaient été délivrés dans les poursuites en cause.
+En droit :
+I.
+Formé contre une décision de l'autorité inférieure de surveillance dans les dix jours
+suivant sa notification (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RS 281.1]),
+soit en temps utile, et comportant des conclusions et l'énoncé des moyens invoqués (art.
+28 al. 3 LVLP), le recours est recevable.
+Les déterminations de l'Office et du représentant des intimés sont également recevables
+(art. 31 al. 1 LVLP).
+II.
+Selon l’art. 17 LP, il peut être porté plainte à l’autorité de surveillance
+lorsqu’une mesure de l’office est contraire à la loi ou ne paraît pas justifiée
+en fait (al. 1). La plainte doit être déposée dans les dix jours de celui où
+le plaignant a eu connaissance de la mesure (al. 2).
+L’office des poursuites a fait valoir en première instance que les plaintes étaient tardives,
+argument qu’il a repris en deuxième instance. Les avis de saisie litigieux ont été
+adressés le 13 septembre 2013 en courrier B au recourant. Celui-ci prétend qu’il ne les
+a reçus que le 28 septembre 2013. Même si ce délai paraît anormalement long, c’est
+à l’autorité d’établir la date de réception de ses actes; faute d’accusé
+de réception, le recourant doit être cru dans ses allégations sur ce point. Ainsi, le
+délai de plainte a commencé à courir le dimanche 29 septembre et il est échu le 8
+octobre 2013. Postées ce jour-là, les plaintes ont été déposées à
+temps.
+III.
+a)
+Lorsque la poursuite n’est pas suspendue par l’opposition ou par un jugement, le créancier
+peut requérir la continuation de la poursuite à l’expiration d’un délai de
+vingt jours à compter de la notification du commandement de payer (art. 88 al. 1 LP). En vertu de
+l’art. 89 LP, lorsque le débiteur est sujet à la poursuite par voie de saisie, l’office,
+après réception de la réquisition de continuer la poursuite, procède sans retard
+à la saisie ou y fait procéder par l’office du lieu où se trouvent les biens à
+saisir. Le bien-fondé de la créance en poursuite ne peut être examiné ni par l'office
+de poursuite qui notifie l’avis de saisie ni par les autorités de surveillance. Lorsque l'opposition
+à la poursuite a été définitivement levée, il n'y a plus d'obstacle à la
+continuation de la poursuite. Le poursuivi ne peut remettre en cause l'existence ou l'exigibilité
+de la créance reconnue dans la décision portant condamnation à payer une somme d'argent
+– décision sur laquelle le juge de la mainlevée s'est fondé – que dans le
+cadre de l'action de l'art. 85 LP ou celle de l'art. 85a LP, en invoquant l'extinction de la créance
+ou son inexigibilité, temporaire (sursis) ou définitive (prescription), postérieures à
+la décision, ou en prouvant l'existence matérielle et le contenu d'une nouvelle décision
+définitive annulant ou révoquant la décision condamnatoire (CPF, 15 août 2013/25;
+CPF, 21 septembre 2012/42 et la référence à Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite, n. 28 ad art. 85a LP).
+b)
+Le recourant fait valoir que, selon deux arrêts
+rendus par le Tribunal fédéral (ATF 73 I 128 et 86 I 60), cette autorité examine d’office
+la prescription et la péremption des créances de droit public, de sorte que cette obligation
+incomberait également aux autorités qui lui sont subordonnées; selon lui, le moyen tiré
+de la prescription des créances aurait dû par conséquent être examiné d’office
+par l’Office et par l’autorité inférieure de surveillance, et devrait l’être
+par la cour de céans, autorité supérieure de surveillance. Quant à la jurisprudence
+de la cour de céans "dont il résulte que ni l’office des poursuites ni le juge de
+la mainlevée ou l'autorité de recours, ni les autorités inférieure ou supérieure
+de surveillance n’ont le pouvoir de réexaminer au fond le jugement invoqué comme titre
+de la créance et, le cas échéant, comme titre de mainlevée de l'opposition formée
+à la poursuite", le recourant soutient qu’elle ne vaudrait pas pour les créances
+de droit public. Les saisies devraient ainsi être annulées.
+c)
+Les arrêts du Tribunal fédéral
+cités par le recourant n’ont pas été rendus en matière de poursuite et ne concernent
+en particulier pas l’art. 89 LP. L’ATF 73 I 128 concerne la recevabilité de nouveaux
+moyens de droit dans le cadre du recours de droit administratif au Tribunal fédéral (art. 97
+al. 1 aOJ [loi fédérale d'organisation judiciaire abrogée le 1
+er
+janvier 2007]) contre une décision cantonale statuant sur le droit de timbre fédéral.
+L’ATF 86 I 60 concerne une action en responsabilité contre la Confédération en tant
+que responsable des actes d’un de ses fonctionnaires, portée devant le Tribunal fédéral
+en vertu de l’art. 110 aOJ, dans le cadre de laquelle la Confédération avait requis que
+la question de la péremption et de la prescription de l’action soit examinée préalablement
+et séparément du fond. Manifestement, aucune de ces décisions n’a de portée
+en l’espèce. Si elles concernent en effet des créances de droit public, elles examinent
+et statuent sur le bien-fondé de celles-ci, de sorte que le moyen tiré de la prescription a
+pu être invoqué, aucune décision n’ayant encore été rendue sur le fond.
+Le présent cas d'espèce est différent, en ce sens que, dès lors que la Confédération
+et l’Etat de Vaud sont au bénéfice de douze titres de mainlevée définitive,
+jugés comme tels, il n’est plus question, au stade des avis de saisie, d’examiner le
+bien-fondé des créances en poursuite, comme dit plus haut (cf. supra, cons. III.a), en tout
+cas pas dans le cadre d'une procédure de plainte contre lesdits avis.
+Quant au second argument, selon lequel la jurisprudence de la cour de céans n'aurait pas été
+rendue "dans des causes de droit public" et ne serait donc pas applicable en l'espèce,
+il tombe à faux, dès lors que l'arrêt cité (CPF, 15 août 2013/25), de même
+que l'arrêt auquel il se réfère (CPF, 21 septembre 2012/42), concernait une poursuite
+de l'Etat de Vaud en remboursement de frais pénaux, d'enquête et de jugement contre le poursuivi,
+soit une créance de droit public.
+d)
+Mal
+fondé, le recours doit être rejeté et la décision de l'autorité inférieure
+rejetant les plaintes du recourant contre les douze avis de saisie litigieux confirmée.
+IV.
+a)
+Aux termes de l'art. 20a al. 2 ch. 5 LP, les
+procédures devant les autorités cantonales de surveillance sont gratuites. La partie ou son
+représentant qui use de procédés téméraires ou de mauvaise foi peut être
+condamné à une amende de 1'500 fr. au plus ainsi qu'au paiement des émoluments et des
+débours.
+Se verra reprocher un comportement téméraire ou de mauvaise foi celui qui – en violation
+du devoir d'agir selon la bonne foi, principe aussi applicable en procédure (cf. art. 52 CPC [Code
+de procédure civile; RS 272]) – forme un recours sans avoir d'intérêt concret digne
+de protection et bien que la situation en fait et en droit soit claire, avant tout pour ralentir la procédure
+de poursuite (ATF 127 III 178, JT 2001 II 50 et les références citées), ou recourt alors
+que tout plaideur de bonne foi s’en abstiendrait (TF 5A_494/2010 du 12 novembre 2010, c. 5; ATF
+120 III 107, c. 4). L'idée est de sanctionner les procédés qui troublent le cours ordinaire
+et bien réglé de l'exécution forcée et les procédés dilatoires (Gilliéron,
+op. cit., n. 19 ad art. 20a LP). La cour de céans a ainsi jugé téméraire le fait
+pour une recourante de contester sys­tématiquement tous les actes de l'office des poursuites,
+dans un but manifestement dilatoire, et d’ailleurs de ne jamais se présenter pour défendre
+sa position aux audiences fixées par l'autorité inférieure de surveillance (CPF, 8 août
+2003/58).
+En l'espèce, l’argumentation du recours – comme du reste celle des plaintes –
+est dénuée de tout fondement et, conjuguée avec la requête d'effet suspensif, manifestement
+destinée à ralentir la procédure. Un plaideur raisonnable n'aurait pas déposé
+un tel recours. Cet acte fait partie de la stratégie de contestation systématique du recourant,
+qui dépose des plaintes LP contre tous les actes de l’office. Il se justifie en conséquence
+de mettre à sa charge les frais du présent arrêt, arrêtés à 630 fr., ainsi
+qu'une amende de 500 francs.
+b)
+Vu ce qui précède, le bénéfice de l’assistance judiciaire doit être refusé
+au recourant (art. 117 let. b CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+La requête d'assistance judiciaire du recourant est rejetée.
+IV.
+Les frais du présent arrêt, par 630
+fr. (six cent trente francs), et une amende de 500 fr. (cinq cents francs) sont mis à la charge
+du recourant K.________.
+V.
+L'arrêt est exécutoire.
+Le
+président :              La greffière
+:
+Du
+4 juillet 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Aba Neeman, avocat (pour K.________),
+‑
+Office d'impôt du district de Morges (pour la Confédération suisse et l'Etat de Vaud),
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
