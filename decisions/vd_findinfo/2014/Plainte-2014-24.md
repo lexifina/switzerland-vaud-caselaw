@@ -1,0 +1,614 @@
+---
+decision_id: "vd_findinfo_Plainte___2014___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2014 / 24"
+decided: "2014-07-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4430203"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-110.md", "switzerland/bund/acts/281.1/art-115.md", "switzerland/bund/acts/281.1/art-132.md", "switzerland/bund/acts/281.1/art-145.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-285.md", "switzerland/bund/acts/281.41/art-003.md"]
+---
+
+# VD Findinfo Plainte / 2014 / 24
+
+## Regeste
+
+ORDRE DE SAISIE, SAISIE COMPLÉMENTAIRE, EXTENSION DE LA SAISIE, COMMUNAUTÉ HÉRÉDITAIRE, PART DE COMMUNAUTÉ | 110 LP, 115 al. 3 LP, 17 LP, 95 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.07.2014 Plainte / 2014 / 24
+
+ORDRE DE SAISIE, SAISIE COMPLÉMENTAIRE, EXTENSION DE LA SAISIE, COMMUNAUTÉ HÉRÉDITAIRE, PART DE COMMUNAUTÉ | 110 LP, 115 al. 3 LP, 17 LP, 95 LP
+
+TRIBUNAL
+CANTONAL
+FA13.035942-140599
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 juillet 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              M.
+Hack et Mme Rouleau
+Greffier
+:
+Mme              Nüssli
+*****
+Art.
+17, 95, 110, 115 al. 3, 145 LP ; 30 OPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.U.________
+,
+à Bex, contre la décision rendue le 13 mars 2014, à la suite de l’audience du 28
+novembre 2013, par le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, admettant la plainte de
+B.U.________
+,
+à Villeneuve, contre le procès-verbal d’une séance de conciliation tenue le 11
+juillet 2013 par l’
+OFFICE
+DES POURSUITES DU DISTRICT D’AIGLE
+dans
+le cadre de la saisie à l’encontre du recourant de sa part de communauté héréditaire
+de feu J.U.________.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+B.U.________ et ses enfants A.U.________, C.U.________, I.U.________ et E.U. T.________ forment la communauté
+héréditaire de feu J.U.________, dont les actifs comprennent la parcelle n° [...] de la
+commune de Villeneuve. A.U.________ est en outre propriétaire  d’une maison sise sur
+la parcelle n° [...] de la commune de Bex, dans laquelle il vit.
+A.U.________, sous curatelle de portée générale, fait l’objet de nombreuses poursuites
+et il a été délivré en 2013 un certain nombre d’actes de défaut de biens
+à son encontre. Il fait aussi l'objet de saisies de l'Office des poursuites du district d'Aigle
+(ci-après : l'Office), portant notamment sur sa part de communauté, pour des créances
+d'environ 57'000 fr. au 31 juillet 2013.
+Le 11 juillet 2013, l’Office a tenu une séance de conciliation à laquelle les membres
+de la communauté héréditaire ainsi que les créanciers ont été convoqués.
+On peut lire dans le procès-verbal de cette séance ce qui suit :
+« Il
+est rappelé que cette séance a pour but d’amener les créanciers saisissants, le
+débiteur et les autres membres de la communauté à une entente amiable à l’effet
+de désintéresser les créanciers saisissants, soit de dissoudre la communauté et de
+déterminer la part du produit de la liquidation qui revient au débiteur.
+(…)
+L’actif
+de la communauté héréditaire est composé de l’immeuble sis sur la commune de
+Villeneuve, parcelle RF [...], au lieu dit «  [...]». Estimation fiscale 1998 : Fr.
+471'000.00. Dette hypothécaire auprès de la Banque Cantonale Vaudoise, solde redû au 16.09.2012 :
+Fr. 60'709.15.
+L’immeuble
+est grevé d’une servitude d’usufruit en faveur de Mme B.U.________, née le 15 mai
+1937 ; cette servitude est inscrite au registre foncier. Le calcul de la valeur de la servitude
+n’a pas été effectué à ce jour.
+Le montant
+dû aux créanciers bénéficiant de la saisie de part de communauté, valeur 31
+juillet 2013, s’élève à env. Fr. 57'000.00.
+La parole est
+donnée aux membres de l’assemblée.
+Me Oulevay
+(réd. : conseil d’I.U.________ et de E.U. T.________) pose la question de l’opportunité
+de la saisie de l’immeuble sis sur la commune de Bex, propriété du débiteur, en
+lieu et place des droits dans la communauté. Le préposé répond qu’au vu des
+engagements hypothécaires, l’office avait renoncé à sa saisie. Il précise qu’ensuite
+de l’envoi des avis aux communistes, la saisie des droits du débiteur n’a pas été
+contestée par la voie de la plainte 17 LP et qu’elle est donc définitive.
+Les communistes
+à l’exception du débiteur (par sa curatrice) demandent la suspension de la procédure
+de réalisation de la part de communauté en attendant d’être fixé sur une éventuelle
+saisie possible de l’immeuble propriété du justiciable à Bex. A ce jour, le préposé
+indique qu’aucune saisie n’a été effectuée sur cet immeuble. Par voie de conséquence,
+aucune expertise n’a été demandée et que ce n’est pas l’objet de la
+présente séance.
+M. Nicaty (réd. :
+représentant B.U.________) et Me Oulevay demandent des informations en relation avec l’application
+de l’art. 95 LP, à savoir que la part de communauté doit être saisie en dernier
+lieu. L’office prend position en ce sens qu’il doit concilier aussi bien les intérêts
+du débiteur que des créanciers. Par la saisie des droits du débiteur, il a répondu
+à une demande expresse de la curatrice ainsi qu’à la requête expresse du créancier
+D.________ SA. Le préposé relève qu’aucune plainte au sens de l’art. 17 LP
+n’a été déposée contre le procès-verbal de saisie.
+M. Nicaty indique
+que selon l’art. 5 al. 3 de l’OPC, lorsque la valeur de la part saisie ne peut pas être
+déterminée sans des recherches approfondies, il suffit que l’office mentionne que les
+créanciers paraissent couverts ou non. Il ressort du procès-verbal de saisie que ce dernier
+tient lieu d’acte de défaut de biens provisoire. Dès lors, un créancier pourrait
+demander une saisie complémentaire sur l’immeuble de Bex. La question est formulée en
+ce sens aux créanciers présents. Il est précisé que la saisie complémentaire
+peut être requise dans le délai d’une année de la validité du commandement
+de payer.
+Le préposé
+indique qu’une avance de frais de Fr. 3'000.00 sera exigée du créancier requérant
+de la saisie complémentaire sur l’immeuble de Bex. Il prévient les tiers intéressés
+qu’en cas de saisie immobilière le délai pour requérir à la vente est de six
+mois.
+M. I.U.________,
+architecte, prétend que l’immeuble de Bex a une valeur supérieure à l’engagement
+hypothécaire (Fr. 457'000.00). Le préposé précise qu’en cas de réalisation
+forcée tous les créanciers antérieurs à la saisie devront être couverts (principe
+de couverture) et qu’en plus, du fait que le débiteur réside dans l’immeuble, l’acquéreur
+pourrait se voir obliger d’intenter une action possessoire ; ce qui constitue une moins-value
+de l’immeuble.
+M. C.U.________
+informe qu’il exploite le domaine viticole, à savoir l’immeuble faisant partie des actifs
+de la communauté ; selon les renseignements qu’il a obtenus de Prométerre, il y
+aurait une contrainte liée au droit foncier rural et ce en plus de la servitude d’usufruit.
+Mme
+Q.________, curatrice du débiteur, souhaite la liquidation de la part du débiteur notamment
+par le fait que ce dernier touche actuellement le RI (réd. : revenu d’insertion) et qu’il
+va être prochainement au bénéfice de l’AI. L’immeuble de Bex constitue son
+logement et il serait préférable de liquider la part du débiteur dans la succession afin
+que celui-ci puisse garder son habitation.
+M. K.________
+représentant D.________ SA, principal créancier, attend de recevoir le présent procès-verbal
+avant de se déterminer sur la saisie complémentaire à savoir l’immeuble de Bex.
+Le préposé
+informe qu’une éventuelle saisie complémentaire de l’immeuble de Bex ne profiterait
+qu’au(x) créancier(s) qu’il la demandée et que la procédure de réalisation
+de part de communauté ne serait suspendue qu’avec l’accord de tous les tiers intéressés.
+La parole n’est
+plus demandée.
+Aucune entente
+n’étant possible pour le moment, les intéressés sont informés que le dossier
+complet sera transmis à Monsieur le Président du Tribunal d’arrondissement de l’Est
+Vaudois en sa qualité d’Autorité inférieure de surveillance.
+Préalablement
+et conformément à l’art. 10 de l’OTF concernant la saisie et la réalisation
+de parts de communauté, l’office assignera un délai de
+dix
+jours
+aux créanciers saisissants, au débiteur
+et aux autres membres de la communauté héréditaire pour lui soumettre des propositions
+en vue des mesures ultérieures de réalisation ».
+Le procès-verbal précité a été envoyé aux parties le 5 août 2013.
+Par lettre adressée le 16 août 2013 à l’Office, le conseil de B.U.________ a écrit
+ce qui suit :
+« Je
+rappelle encore une fois que le procès-verbal de saisie dressé par votre office vaut acte de
+défaut de biens provisoire et que la question de la saisie de l’immeuble du débiteur
+s’est sérieusement posée lors des débats du 11 juillet dernier.
+De plus, je
+vous confirme mes diverses informations selon lesquelles l’intéressé serait détendeur
+de diverses armes d’un prix certain.
+Dans ces conditions,
+indépendamment du fait qu’un créancier pourrait requérir une saisie complémentaire,
+il m’apparaît qu’il appartient à votre office d’ordonner – d’office
+–
+un
+complément de saisie
+mobilière dans
+un premier temps, immobilière dans un second temps ; j’observe en particulier qu’un
+membre de la communauté héréditaire était prêt à effectuer une avance de
+frais s’agissant de procéder à une expertise de l’immeuble du débiteur.
+Compte tenu
+des circonstances, je suis d’avis que le délai de dix jours imparti par votre avis du 5 ct
+doit être prolongé et la procédure de pourparlers de conciliation
+suspendue
+jusqu’à droit connu sur les éléments relatifs à l’exécution du complément
+de saisie.
+Je pars de
+l’idée que vous admettrez cette manière d’agir,
+étant
+bien entendu que si tel n’est pas le cas, la présente vaut plainte au sens de l’art.
+17 LP
+».
+L'Office a transmis cette plainte au Président du Tribunal d'arrondissement de l'Est vaudois, autorité
+inférieure de surveillance.
+2.
+Le 12 septembre 2013, conformément à l’art. 132 LP, l’Office a demandé au
+Président du Tribunal d’arrondissement de l’Est vaudois de fixer le mode de réalisation
+de la part de communauté du débiteur. Il a sollicité que les audiences dans les deux dossiers
+(plainte LP et fixation du mode de réalisation) soient fixées le même jour.
+Dans ses déterminations du 4 octobre 2013, l’Office a préavisé pour le rejet de
+la plainte, faisant valoir que B.U.________ n’avait pas qualité pour agir, n’étant
+ni débitrice ni créancière.
+Par courrier du 26 novembre 2013, la plaignante a produit un échange de correspondances avec l’Office,
+parmi lesquelles :
+-
+un courrier adressé le 19 septembre 2013 à la plaignante dans lequel l’Office indiquait
+que le créancier D.________ SA ne voulait pas d’une saisie complémentaire sur l’immeuble
+(réd. : l’immeuble de Bex) et que, le cas échéant, il s’opposerait à
+toute suspension de la réalisation de la part de communauté, précisant en outre qu’aucun
+créancier n’avait demandé la saisie complémentaire et que personne ne s’était
+engagé à couvrir les frais d’une expertise de l’immeuble ;
+-
+une lettre adressée par l’Office le 20 novembre 2013 au conseil de la plaignante, où
+l’on peut lire ce qui suit :
+« Le
+24 octobre 2013, M. V.________, nous a communiqué une estimation totale de Fr. 9'450.00. Contacté
+par téléphone, il précise que faute d’avoir pu constater les armes de ses propres
+yeux, il s’agit d’une estimation optimiste (armes en parfait état). Dès lors, s’il
+s’avère qu’elles ont un peu vécu ; ce qui semble être le cas, nous pouvons
+sans autre diminuer ses estimations de 30 %.
+Par ailleurs,
+si le débiteur souhaite récupérer les armes encore en mains du bureau des armes de la
+Gendarmerie Vaudoise, il devra s’acquitter d’une caution de Fr. 200.00 par arme soit
+un total de Fr. 1'400.00 (pour 7 pièces).
+Dès lors,
+vu de ce qui précède, si l’on considère que l’office doit encore réduire
+de 30 % à 50 % les estimations de l’expert (produit espéré dans le cadre d’une
+vente juridique forcée) et qu’il faille encore prendre possession des armes consignées,
+il paraît plus qu’évident que le produit de la vente des objets en question ne suffira
+pas à désintéresser tous les créanciers. Fort de constat, nous renonçons à
+leur saisie dans l’immédiat ».
+Le Président du Tribunal d’arrondissement de l’Est vaudois a tenu audience le 28 novembre
+2013 pour les deux dossiers. Dans le cadre de la procédure de plainte, un délai a été
+imparti à la plaignante pour présenter ses moyens de droit. Dans ce délai, B.U.________
+a déposé une écriture complémentaire. Le 4 décembre 2013, l’Office a encore
+produit des pièces par courriel, soit des procès-verbaux de vente d’armes aux enchères
+publiques. Le 7 janvier 2014, le conseil de la plaignante a déclaré maintenir la plainte
+et a indiqué s’être adressé à un armurier à Lausanne, qui aurait estimé
+que la valeur totale des armes devait en tous les cas se situer au-dessus de 5'000 fr., en précisant
+qu’il lui était difficile de se prononcer « à l’aveugle »,
+l’estimation de certains articles pouvant varier de un à dix suivant le modèle et l’équipement
+intégré.
+3.
+Par décision du 13 mars 2013, le Président
+du Tribunal d’arrondissement, autorité inférieure de surveillance, a admis la plainte
+(I), ordonné une saisie complémentaire portant sur les armes appartenant à A.U.________
+selon liste établie par l’Office le 17 octobre 2013 (II) et rendu sa décision sans frais
+(III).
+Le premier juge a considéré notamment que la plaignante, usufruitière dans la succession
+de J.U.________, avait un intérêt à agir, que, conformément à l’art. 145
+LP, l’Office devrait exécuter une saisie complémentaire lorsque le produit de la réalisation
+ne suffisait pas à désintéresser les créanciers, qu’en outre tout poursuivant
+saisissant au bénéfice d’un acte de défaut de biens provisoire pouvait requérir
+une saisie complémentaire, qu’en l’occurrence la valeur des armes du débiteur n’était
+pas négligeable, qu’il convenait donc d’ordonner une saisie complémentaire portant
+sur ces objets. Il a en outre constaté qu’il n’était « plus question
+en l’état » de la réalisation de la part de communauté du débiteur.
+Par acte du 24 mars 2013, A.U.________, par sa curatrice O.________, a recouru contre ce prononcé,
+qui lui avait été notifié le 14 mars 2014, concluant à ce qu’il soit renoncé
+à procéder à une saisie complémentaire portant sur les armes. Il a requis l’assistance
+judiciaire et a produit des pièces nouvelles, parmi lesquelles :
+-
+le procès-verbal de l’audience du 28 novembre 2013  du Président du Tribunal d’arrondissement
+dans le cadre de la demande de fixation du mode de résiliation (art. 132 LP), où l’on
+peut lire que la cause est suspendue jusqu’au 31 mars 2014 pour permettre la poursuite des pourparlers
+transactionnels et l’estimation de l’immeuble par les experts, les parties acceptant qu’il
+soit statué, cas échéant sans nouvelle audience, après qu’un délai leur
+aura été imparti pour faire valoir leurs moyens de droit ;
+-
+un courriel adressé le 27 novembre 2013 à l’Office des curatelles et tutelles professionnelles
+dans lequel le conseil d’I.U.________ et de J.U.________ indiquait que ses mandants ainsi que C.U.________
+allaient solliciter une estimation de l’immeuble de la commune de Villeneuve ;
+-
+un courrier adressé le 20 mars 2014 par l’Office à l’Office des curatelles et tutelles
+exposant que, dans l’hypothèse où il devrait être procédé à une saisie
+sur les armes litigieuses, une caution de 1'400 fr., devrait alors être versée à la gendarmerie
+vaudoise pour libérer les armes consignées, qu’en outre, un armurier professionnel serait
+mandaté pour évaluer la valeur de ces armes, ce qui engendrerait des frais de 500 francs environ,
+qu’enfin les frais de saisie et de vente seraient comptabilisés à double dès lors
+que la procédure concernerait deux offices distincts et que les frais totaux devraient être
+légèrement supérieurs à 4'000 francs.
+Par courrier du 3 avril 2014, le Président de la cour de céans a informé le recourant
+que la procédure de plainte était gratuite et a constaté que, le recourant procédant
+sans mandataire professionnel, sa requête d’assistance judiciaire n’avait pas d’objet.
+Par décision du 4 avril 2013, le Président de la cour de céans a admis la requête
+d’effet suspensif contenue dans le recours.
+Le 8 avril 2014, l’Office s’est référé à ses déterminations de première
+instance et a conclu à l’admission du recours.
+Le 22 avril 2014, B.U.________ a conclu au rejet du recours.
+Par courrier du 29 avril 2013, le Président de la cour de céans a invité l’Office
+à produire l’entier des dossiers relatifs aux poursuites dirigées contre A.U.________.
+L’Office a produit, le 5 mai 2014, les pièces demandées, parmi lesquelles :
+-
+une réquisition de continuer la poursuite du 31 janvier 2013 de la créancière D.________
+SA à l’encontre de A.U.________ demandant la saisie des droits du débiteur dans la succession
+de son père J.U.________ et en particulier de l’immeuble no [...] de Villeneuve dont le débiteur
+est copropriétaire ainsi que des actions de la société R.________ SA à Bussigny ou
+du produit de leur vente ;
+-
+un procès-verbal des opérations de la saisie du 21 janvier 2013, dans lequel la valeur estimative
+de l’immeuble de Bex, non saisi, a été fixée à un franc et le minimum d’existence
+du débiteur à 2'771 fr. 50 ; la situation du débiteur y est décrite de la manière
+suivante :
+« Séparé,
+vit seul. Il est dispensé de payer une pension alimentaire en faveur de son épouse et ce jusqu’à
+fin mars 2013. Dès avril, il sera astreint à lui verser Fr. 700.00 par mois, à justifier
+le moment venu. Est propriétaire de l’immeuble qu’il occupe (1
+er
+étage). Le montant des intérêts hypothécaires se montent à Fr. 1'271.50 par
+mois. Créancier gagiste Crédit Suisse, Lausanne solde redû env. Fr. 475'000.00. La maison
+compte 2 appartements. Celui du rez est occupé par l’épouse et sa fille. L’immeuble
+devrait valoir entre Fr. 550'000.00 et Fr. 600'000.00. La curatrice va se renseigner auprès d’un
+professionnel de l’immobilier et nous communique une estimation au plus juste. Il reçoit un
+loyer de Fr. 1'000.00 (dont Fr. 200.00 par mois de charges) versé par les services sociaux. Il n’est
+pas en mesure de supporter toutes les charges de l’immeuble. Il s’acquitte du plus important
+(chauffage et électricité) pour env. Fr. 300.00 par mois. Les cotisations d’assurances
+maladie/acc. restent impayées. Une demande de subside total vient d’être déposée.
+Garde-faune, sans activité lucrative depuis le 03 août 2012. Il ne perçoit aucun revenu
+sous quelque forme que ce soit, ni chômage (inapte au placement). Une demande AI est en cours, sans
+succès pour le moment. En fait, il touche une rente de la CPEV de Fr. 1'288.15 par mois + le montant
+du loyer. Il s’est vu refuser le RI. Le débiteur par sa curatrice est tenu de justifier les
+charges courantes mensuelles dont notamment une éventuelle participation aux cotisations d’assurances
+maladie/acc., justifier les charges relatives à l’immeuble (taxes, assurances, chauffage,
+entretien etc.) confirmer son obligation d’entretien (PA en faveur de l’épouse) et ceci
+dans les meilleurs délais. Faute d’un revenu suffisant, l’office se voit contraint de
+suspendre la saisie de salaire imposée à son préjudice. Dès lors, une saisie immobilière
+sera imposée sur l’immeuble qu’il possède sur le territoire de la Commune de Bex,
+soit Parcelle RF [...] (sous réserve d’une expertise insuffisante) ou alors sur ses droits
+dans la communauté héréditaire dont l’actif est constitué d’un immeuble
+Parcelle RF [...], sur la Commune de Villeneuve. Usufruit en faveur de la mère B.U.________ du 15.05.1937
+(…) » ;
+-
+un extrait du registre foncier relatif à l’immeuble n° [...] de Bex qui mentionne une
+restriction du droit d’aliéner LPP en faveur de la Caisse de Pensions de l’Etat de Vaud ;
+-
+un procès-verbal de saisie du 30 avril 2013 qui indique que la saisie porte sur la part de communauté
+du débiteur, valeur estimative un franc, et qui mentionne qu’il tient lieu d’acte de
+défaut de biens provisoire et confère au créancier le droit de requérir le séquestre
+des biens du débiteur (art. 271 al. 1 ch. 5 LP), d’intenter une action en révocation
+(art. 285 al. 2 ch. 1 LP) et d’exiger dans le délai d’une année la saisie de biens
+nouvellement découverts (art. 115 al. 3 LP) ; dans la rubrique « observations »,
+l’Office a indiqué : « En l’absence d’un rapport d’expertise,
+il n’est pas possible d’estimer précisément la valeur de l’immeuble. Les
+droits du débiteur dans la communauté héréditaire ne peuvent être déterminés
+dans l’immédiat » ;
+-
+une décision du 2 septembre 2013 de l’Assurance-vieillesse, survivants et invalidité
+fédérale octroyant à A.U.________ une rente ordinaire mensuelle de 2'097 fr. par mois
+dès le 1
+er
+octobre 2013 et indiquant qu’une décision pour la période du 1
+er
+août 2012 au 30 septembre 2013 sera notifiée ultérieurement ;
+-
+un autre procès-verbal pour les opérations relatives à la saisie, du 26 septembre 2013,
+dans lequel l’Office constate l’existence de deux fusils et d'une carabine, le solde des
+armes du débiteur étant séquestré au bureau des armes à Lausanne, et indique
+que le débiteur est au bénéfice du RI et qu’il va percevoir une rente d’assurance-invalidité
+dès le 1
+er
+octobre 2013 ;
+-
+un décompte débiteur établi le 1
+er
+mai 2014 par l’Office indiquant que le total des poursuites à l’encontre de A.U.________
+s’élève à 78'156 fr. 50 ;
+-
+une plainte LP déposée le 10 mai 2013 par D.________ SA contre le procès-verbal de saisie
+du 30 avril 2013 dans la mesure où la part du débiteur dans la communauté héréditaire
+propriétaire de l’immeuble [...] de Villeneuve est estimée à un franc ;
+-
+une lettre adressée le 20 mai 2013 par D.________ SA à l’Office retirant la plainte LP
+précitée et demandant la vente de la part de communauté héréditaire du débiteur ;
+-
+une lettre adressée le 14 août 2013 à l’Office, dans laquelle D.________ SA déclare
+qu’elle ne voit pas l’intérêt de demander une saisie complémentaire sur l’immeuble
+de Bex du débiteur et qu’elle s’oppose à tout suspension de la réalisation
+de la part de communauté saisie ;
+-
+un échange de courriels entre le Bureau des Armes de la Police cantonale vaudoise et l’Office,
+d’où il ressort en particulier que sept armes propriété de A.U.________ ont été
+séquestrées et qu’un émolument de 200 fr. par arme sera exigé en cas de vente
+forcée.
+En droit :
+I.
+Déposé en temps utile (art. 18 al. 1 LP, loi fédérale sur la poursuite pour dettes
+et la faillite du 11 avril 1889, RS 281.1, et 28 al. 1 LVLP, loi d'application dans le canton de Vaud
+de la loi fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05)
+et comportant l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable.
+Les pièces nouvelles sont également recevables (art. 28 al. 4 LVLP).
+En l’espèce, le recourant, débiteur poursuivi, a qualité pour recourir.
+II.
+a)
+Le
+recourant rappelle qu’en matière de saisie, l’office doit prendre en compte les intérêts
+du poursuivi, que la saisie doit porter sur les biens les plus faciles à réaliser d’une
+manière avantageuse pour désintéresser les saisissants. Il invoque l’art. 92 al.
+2 LP qui concrétise le principe de la proportionnalité en prévoyant que sont insaisissables
+les objets pour lesquels il y a lieu d’admettre que le produit de leur réalisation excéderait
+de si peu le montant des frais que leur saisie ne se justifie pas. Il fait valoir qu’en l’espèce
+ses armes ont une faible valeur eu égard aux poursuites en cours, que leur réalisation engendrerait
+des frais importants, qu’une telle saisie n’atteindrait donc pas le but visé, que les
+objets litigieux ont une valeur sentimentale importante pour lui, qu’il n’est pas du tout
+certain que la procédure de réalisation de sa part de communauté ne permettra pas de désintéresser
+les créanciers parce que des pourparlers sont en cours en vue de la reprise de celle-ci par son
+frère C.U.________, et que si les pourparlers durent, c’est parce qu’il convient de
+déterminer la valeur de l’immeuble auquel la LDFR s’applique.
+b)
+L'ordre
+dans lequel les différents biens doivent être saisis est défini à l'art. 95 LP. Cette
+disposition prévoit en particulier que la saisie doit porter au premier chef sur les biens meubles,
+y compris les créances et les droits relativement saisissables au sens de l'art. 93 LP (art. 95
+al. 1 LP). Ce n'est qu'à défaut de biens meubles suffisants pour couvrir la créance que
+la saisie portera sur les immeubles (art. 95 al. 2 LP) et, finalement, sur les biens frappés de
+séquestre ou revendiqués par des tiers (art. 95 al. 3 LP). L’art. 95 LP est complété
+par diverses normes dont plusieurs désignent des biens ne devant être saisis qu’en dernière
+ligne. En particulier, l’art. 3 OPC (Ordonnance du 17 janvier 1923 du Tribunal fédéral
+concernant la saisie et la réalisation de parts de communautés ; RS 281.41) prévoit
+que la part du débiteur dans la communauté doit être saisie avant les biens qui sont revendiqués
+par des tiers, mais que pour le reste elle n’est saisie qu’en dernière ligne et si la
+saisie des revenus ne suffit pas pour couvrir la créance faisant l’objet de la poursuite.
+L'art. 95 LP se contente toutefois de définir les grandes lignes de l'ordre de la saisie, l'autorité
+de poursuite disposant dans de nombreux cas d'une certaine marge de manœuvre et d'appréciation.
+Il en va notamment ainsi lorsqu'il s'agit d'établir un ordre à l'intérieur d'une même
+catégorie, d'un même rang. Dans le cadre de son activité, le fonctionnaire qui procède
+à la saisie doit néanmoins respecter certains principes cardinaux. En particulier, il doit
+concilier autant que possible les intérêts du créancier et ceux du débiteur (art.
+95 al. 5 LP). Il découle de ce principe que, d'une part, l'office des poursuites doit saisir en
+premier les droits de propriété sur des objets mobiliers de valeur courante dont le poursuivi
+peut se passer plus aisément, de préférence aux droits de propriété mobilière
+sur des choses dont il pourrait difficilement se priver (art. 95 al. 1
+in
+fine
+LP) et, d'autre part, que l'office des poursuites
+doit saisir en premier lieu les droits patrimoniaux dont la réalisation procurera une prompte satisfaction
+au poursuivant de préférence à ceux dont la réalisation est soumise à de plus
+longs délais ou plus compliquée (ATF 115 III 45 c. 3a et les réf. ; TF 7B.244/2005
+du 11 janvier 2006 c. 3 ; ATF 32 I 388 c. VI ; Gilliéron, op. cit
+.
+,
+n. 17 et 26 ad art. 95 LP). Lorsque les intérêts du créancier et du débiteur sont
+opposés, la priorité devra en principe être donnée à ceux du premier (Jaeger/Walder/Kull/Kottmann,
+Das Bundesgesetz über Schuldbetreibung und Konkurs, 5
+ème
+éd., Zurich 2006, n. 24 ad art. 95 SchKG [LP] ; de Gottrau, Commentaire romand, n. 38 ad art. 95
+LP).
+Le préposé peut s’écarter des principes régissant l’ordre des saisies
+lorsque les circonstances le justifient ou que le créancier et le débiteur le demandent conjointement
+(art. 95 al. 4bis LP).
+Dans ce processus, il incombe également au fonctionnaire de faire l'estimation des objets qu'il
+saisit ; à cet effet, il peut s’adjoindre un expert (art. 97 al. 1 LP). Il doit
+toutefois veiller à ne saisir que les biens nécessaires pour satisfaire les créanciers
+saisissants en capital, intérêts et frais (art. 97 al. 2 LP). Le recours à un expert s'impose
+lorsque le préposé – ou son substitut – ne dispose pas des connaissances particulières
+nécessaires à l'estimation des biens saisis (ATF 93 III 20 c. 4, JT 1967 II 44). Dans certaines
+circonstances, une expertise peut toutefois s'avérer inutile, voire déraisonnable, par exemple
+si elle coûte proportionnellement trop chère, ou encore si elle impose un délai trop long
+(ATF 110 III 65 ; Foëx, in Staehelin et alii (éd.), op. cit., nn. 14 et 15 ad art. 97 SchKG
+[LP] ; Gilliéron,
+op.
+cit
+.
+,
+n. 21 ad art. 97 LP).
+Il peut être procédé à une saisie complémentaire d’office, soit parce
+qu’il y a de nouveaux créanciers saisissants dans la série (art. 110 LP), soit, ultérieurement,
+lorsque le produit de la réalisation ne suffit pas à désintéresser les créanciers
+(art. 145 LP ; Gilliéron, Poursuite pour dettes, faillite et concordat, n. 1075, p. 269).
+Par ailleurs, un poursuivant saisissant au bénéfice d’un acte de défaut de biens
+provisoire peut, s’il apprend plus tard que le débiteur possède d’autres biens,
+solliciter une saisie complémentaire (art. 115 al. 3 LP ; Gilliéron, op. cit., nn. 1076-1077,
+p. 269 ; ATF 120 III 86, JT 1996 II 78 ; ATF 88 III 59, JT 1962 II 73).
+c)
+En
+l’espèce, il n’est pas allégué, encore moins établi, qu’il y aurait
+de nouveaux créanciers saisissants participant à la série, de sorte qu’il n’y
+avait pas lieu de procéder à une saisie complémentaire d’office selon l’art.
+110 LP.
+Quant à la reprise de saisie selon l’art. 145 LP, également ordonnée d’office,
+elle ne se justifie que pour autant que le produit de la réalisation ne suffise pas à désintéresser
+les créanciers. Il faut qu’il apparaisse, après la réalisation des biens, que les
+saisissants ne pourront pas être entièrement désintéressés, contrairement à
+l’estimation de l’office lors de l’exécution de la saisie. L’art. 145 LP
+présuppose donc, d’une part, que la réalisation des biens saisis a déjà eu
+lieu (Gilliéron, op. cit. n. 1079, p. 270 ; ATF 114 III 98, JT 1990 II 113), d’autre
+part, que la saisie précédente a paru offrir une garantie suffisante d’après l’estimation
+des biens (Peter, Edition annotée de la loi fédérale sur la poursuite pour dettes et la
+faillite, ad art. 145 LP, p. 725 et la jurisprudence citée). Visant à effacer aussi rapidement
+que possible la conséquence d’une estimation erronée commise par l’office lors
+de la saisie initiale, la saisie  complémentaire présente un caractère exceptionnel
+(Rey-Mermet, Commentaire romand, n. 4 ad art. 145 LP).
+En l’espèce, ces conditions ne sont pas remplies. Le procès-verbal de saisie du 30 avril
+2013 attribue à la part de communauté du recourant une valeur symbolique d’un franc et
+la réalisation de cette part n’a pas encore eu lieu. Dans ces conditions, l’Office ne
+pouvait ordonner d’office une reprise de la saisie.
+Il reste la possibilité de solliciter une saisie complémentaire, selon l’art. 115
+al. 3 LP. Un refus de l’office d’y donner suite ouvre la voie de la plainte (Jeandin, Commentaire
+romand, n. 14 ad art. 115 LP). Cette faculté n’est toutefois ouverte qu’au créancier
+saisissant, titulaire d’un acte de défaut de biens provisoire. La plaignante n’est pas
+créancière et ne peut donc pas solliciter une saisie complémentaire selon cette disposition.
+En définitive, la plainte de B.U.________ devait être rejetée, l’Office n’étant
+pas tenu de procéder à un complément de saisie d’office et la plaignante n’étant
+pas habilitée à requérir une saisie complémentaire.
+Pour ce premier motif déjà, le recours doit être admis.
+d)
+Les
+armes sur lesquelles la plaignante entendait faire porter la saisie n’ont pas fait l’objet
+d’une expertise. L’Office les a fait estimer par un armurier qui, sans pouvoir les examiner,
+a avancé le chiffre de 9'450 fr. en précisant que cette valeur se rapportait à des armes
+en parfait état. L’Office a dès lors considéré qu’il fallait réduire
+d’au moins 30 % cette estimation pour parvenir au produit espéré dans le cadre d’une
+vente forcée, compte tenu en particulier de l’état probable des armes du recourant, ce
+qui ramènerait l’estimation à 6'615 fr. au mieux. L’armurier consulté par
+le conseil de la plaignante situe cette valeur au-dessus de 5'000 francs. Une partie de ces armes étant
+consignée au Bureau des armes de la Police cantonale, une caution de 1'400 fr. doit être versée
+pour les récupérer. A cela s’ajoute des frais de saisie pour les deux offices des poursuites
+concernés, des frais d’expertise de l’ordre de 500 fr.  et des frais de vente qui
+peuvent se situer entre 1'000 et 1'500 francs. En retenant une valeur de 6'615 fr., il resterait dans
+le meilleur des cas un solde disponible de 3'715 fr. et en partant d’une valeur de 5'000 fr., il
+resterait dans l’hypothèse la moins favorable un solde disponible de 1'600 francs.
+Dans ces conditions, la saisie des armes se justifie d’autant moins qu’elle ne pourrait en
+aucun cas éviter la réalisation de la part de la communauté, objectif auquel tend en réalité
+la requête valant plainte lorsqu’elle demande que la procédure de réalisation de
+la part de communauté soit suspendue jusqu’à complément de saisie. C’est donc
+avec raison que l’Office a refusé de saisir les armes du recourant.
+Pour ce second motif également, la plainte devait être rejetée.
+e)
+Cela
+étant, on peut s’étonner du choix opéré par l’Office dans le cadre de
+la saisie des biens du recourant.
+En premier lieu, il n’est pas certain que le statut de ce dernier (assisté social, rentier
+AI, assuré, bailleur) ainsi que ses gains (aides publiques, rentes, prestations d’assurance,
+loyers) aient été déterminés avec suffisamment de précision lors de la saisie.
+A titre d’exemple, il ressort du procès-verbal de la séance de conciliation du 11 juillet
+2013 que le recourant percevait le RI alors que le procès-verbal des opérations de la saisie
+du 21 janvier 2013 indique qu’il s’était vu refuser cette prestation. Ce point ne paraît
+pas avoir été réexaminé lors de l’établissement du procès-verbal
+de saisie du 30 avril 2013 qui ne fait pas mention des revenus du débiteur.
+Il est également surprenant que l’Office ait choisi de saisir, contrairement aux principes
+régissant l’ordre de la saisie exposés précédemment (cf. supra let. b) la part
+de communauté du recourant, grevée d’un usufruit, plutôt que l’immeuble dont
+il est seul propriétaire. Ce choix, discutable en référence à l’art. 3 OPC
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 26 ad art. 95 LP), porte sur un bien dont la réalisation est manifestement plus compliquée
+que celle de l’immeuble de Bex. L’estimation de ce dernier immeuble apparaît par ailleurs
+peu cohérente dès lors que l’Office a retenu, ici aussi, une valeur estimative d’un
+franc, tout en constatant qu’il devrait valoir entre 550'000 et 600'000 fr. et que le montant de
+la dette hypothécaire s’élève à 457'000 francs. Il est vrai toutefois qu’il
+ressort des pièces du dossier que le créancier D.________ SA et le recourant, débiteur,
+ont tous deux demandé la saisie de la part de communauté, ce qui permettait à l’Office
+de s’écarter des principes régissant l’ordre de saisie (art. 95 al. 4bis LP). En
+tout état de cause, ces questions ne font pas l’objet de la présente procédure et
+il n’y a dès lors pas lieu de les examiner plus avant, ni de faire application de l’art.
+22 LP.
+III.
+En conclusion, le recours doit être admis
+et la décision réformée en ce sens que la plainte est rejetée. L’arrêt
+est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP, ordonnance
+du 23 septembre 1996 sur les émoluments perçus en application de la loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que la plainte déposée le 16 août 2013
+par B.U.________ est rejetée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+4 juillet 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mme Anne-Marie Moser, curatrice (pour A.U.________),
+‑
+M. Jean-Daniel Nicaty, agent d’affaires breveté (pour B.U.________),
+-
+M. le Préposé à l’Office des poursuites du district d’Aigle.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
