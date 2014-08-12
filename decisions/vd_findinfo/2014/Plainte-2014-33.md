@@ -1,0 +1,464 @@
+---
+decision_id: "vd_findinfo_Plainte___2014___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2014 / 33"
+decided: "2014-08-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4484752"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-089.md"]
+---
+
+# VD Findinfo Plainte / 2014 / 33
+
+## Regeste
+
+PLAINTE{LP}, PROCÈS-VERBAL DE SAISIE, SAISIE INFRUCTUEUSE, INSAISISSABILITÉ | 17 LP, 89 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 12.08.2014 Plainte / 2014 / 33
+
+PLAINTE{LP}, PROCÈS-VERBAL DE SAISIE, SAISIE INFRUCTUEUSE, INSAISISSABILITÉ | 17 LP, 89 LP
+
+TRIBUNAL
+CANTONAL
+FA13.018452-140427
+36
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 août 2014
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Carlsson et M. Hack
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+17 et 89 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.Z.________
+,
+à Villars-Sainte-Croix, contre la décision rendue le 21 février 2014, à la suite
+de l’audience du 10 juin 2013, par le Président du Tribunal d’arrondissement de la Côte,
+autorité inférieure de surveillance, rejetant la plainte intentée par le recourant à
+l'encontre du procès-verbal de saisie tenu le 18 avril 2013 par l'
+OFFICE
+DES POURSUITES DU DISTRICT DE MORGES
+dans le cadre
+de la poursuite n° 6'019'527 exercée contre
+A.R.________
+,
+à Bussy-Chardonney.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+30 juillet 1996, B.Z.________, alors épouse de A.Z.________, a déposé auprès de l'Office
+des poursuites de Morges une réquisition de poursuite à l'encontre d'A.R.________ portant sur
+une créance de 300'000 fr. avec intérêt à 5 % l'an dès le 27 mars 1996, mentionnant
+comme titre de la créance ou cause de l'obligation "Transaction judiciaire du 27 mars 1996".
+Cette poursuite, n° 396'893, s'est soldée par un acte de défaut de biens délivré
+au mois de juin 1997, sur la base duquel, le 18 novembre 1997, la poursuivante a déposé une
+nouvelle réquisition de continuer la poursuite, ce qui a été fait sous n° 423'720,
+pour le montant de 321'899 francs 05. Elle a en outre intenté une nouvelle poursuite à l'encontre
+du poursuivi, n° 423'767, pour le montant de 1'027 fr. 70.
+Dans le cadre de ces deux poursuites, l'office a procédé, le 5 novembre 1997, à une saisie
+portant sur deux objets du poursuivi et en a fait le procès-verbal suivant:
+"La saisie
+est imposée sur:
+1. Une part
+de communauté de 22,5% de (5'521,50 ft2 et 643,50 ft2) que possède le débiteur dans la
+société simple composée des associés suivants:
+[…] tous
+domiciliés à [...] – […] INDIA ainsi que
+M. [...], […]
+Neuchâtel
+M. [...], […]
+USA
+M. [...], […]
+Sullens
+M. [...], […]
+Neuchâtel
+M. A.R.________,
+[...].
+L'actif de
+la société simple susmentionnée est composé d'un immeuble commercial sis à [...]
+ainsi que son produit locatif.
+Estimation
+de la part de 22,5% propriété du débiteur: 50'000.-
+2. Les droits
+litigieux et entièrement contestés que le débiteur posséderaient (sic) à l'encontre
+d'une société simple composée des membres suivants:
+M. [...]
+M. [...]
+M. [...]
+M. [...]
+M. A.R.________
+[…] Ces
+membres sont tous considérés comme des codébiteurs solidaires présumés.
+L'actif de
+la société simple susmentionnée est composée d'un immeuble sis à Hyderabad en
+Inde à l'adresse [...]
+Estimation
+des droits litigieux: 1.-".
+Par arrêt du 26 avril 2004, la cour de céans a notamment dit que la part de communauté
+saisie au chiffre 1 du procès-verbal de saisie du 5 novembre 1997 devait être vendue aux enchères
+comme telle. Le 10 septembre 2004, l'Office des poursuites et faillites de l'arrondissement de Morges
+– Aubonne a procédé à la vente des deux objets saisis. Le procès-verbal de
+vente relatif au premier d'entre eux contient l'indication suivante:
+"1. […]
+L'actif de la société simple susmentionnée est composée d'un immeuble commercial
+sis à Hyderabad en Inde à l'adresse [...] ainsi que les droits et les charges faisant parties
+de ces immeubles, notamment le produit locatif".
+Les adjudications ont été faites en faveur de B.Z.________. Des actes de défaut de biens
+lui ont été délivrés le 8 octobre 2004, pour le montant de 247'693 francs 45.
+Il ressort de l'état de collocation et tableau de distribution du 27 septembre 2004 produit par
+l'office que les poursuites n
+os
+423'720 et 423'767 présentaient un découvert de 247'693 fr. 45 et de 982 fr. 50, soit, au total,
+248'675 fr. 95. Le 27 septembre 2004, l'office a remis à l'adjudicataire des certificats dont
+le contenu indique en particulier que sitôt après la réalisation forcée, tous les
+droits, principaux ou accessoires, passaient sous le contrôle absolu de l'acquéreur et que
+l'office n'avait plus de pouvoir quelconque.
+Le 5 décembre 2004, A.Z.________, agissant pour le compte de B.Z.________, a déposé une
+plainte, exigeant de l'office l'établissement d'un nouveau procès-verbal de vente et l'obtention
+du document original de propriété du débiteur. Par arrêt du 11 octobre 2005, la cour
+de céans a déclaré cette plainte irrecevable.
+Les actes de défaut de biens délivrés le 8 octobre 2004 ont donné lieu à une
+poursuite n°3'039'691 le 3 novembre 2004; l'absence de biens saisissables a abouti le 14 décembre
+2004 à un nouvel acte de défaut de biens en faveur de B.Z.________. Cet acte de défaut
+de biens a donné lieu à une poursuite n° 3'056'743 le 18 avril 2005.
+Aux termes d'un "act of transfer" signé le 10 février 2005 par B.Z.________, celle-ci
+a déclaré céder à A.Z.________ les actes de défauts de biens dans les poursuites
+n
+os
+431'720 et 423'767, et toutes ses créances contre A.R.________.
+Dans le cadre de la poursuite n° 3'056'743 et de la poursuite n° 3'105'017 intentée
+par un autre créancier, l'office a procédé, les 7 juillet, 9 août et 10 août
+2006, à une saisie et en a fait le procès-verbal suivant:
+"1. Les
+droits, soit la part que possède le débiteur dans la société simple qu'il forme avec
+M.S.________ […]
+Actif de la
+société simple:
+Parcelle RF
+no [...] sise sur la Commune de Vufflens-le-Château, PPE de 2/30 de parcelle RF no [...], soit:
+Sous-sol: place
+de parc constituant le lot no [...] des plans.
+[…]
+Cette place
+de parc n'est pas louée, elle et occupée par M. et Mme E.________ […] le couple […]
+en assume les charges.
+[…]
+2. Une créance
+litigieuse, savoir tout montant pouvant revenir au débiteur sur le compte ouvert auprès de
+la [...], […]".
+Le 17 septembre 2009, l'Office des poursuites de l'arrondissement de Morges – Aubonne a adressé
+à A.R.________ un avis d'un changement de créancier, l'informant qu'A.Z.________ avait pris
+la place de B.Z.________ comme nouveau créancier dans la poursuite n° 1'003'056'743 et lui
+remettant en annexe copie de l'acte de cession du 10 février 2005, un délai de dix jours lui
+étant imparti pour former opposition, devant le juge du for de la poursuite.
+Par lettre du 23 février 2011 adressée à l'office, S.________ a proposé 7'000 fr.
+pour reprendre la part du débiteur sur la place de parc qui leur appartenait. Le 5 avril 2011, l'office
+a tenu un procès-verbal de vente de gré à gré de la part d'A.R.________ sur la parcelle
+n° [...] de la Commune de Vufflens-le-Château.
+Le 8 juin 2011, l'Office des poursuites du district de Morges – Aubonne a délivré à
+A.Z.________, dans la poursuite n° 1'003'056'743 intentée à l'encontre d'A.R.________,
+un acte de défaut de biens après saisie, portant sur le montant de 249'961 fr. 40.
+b)
+Le 18 novembre 2011, A.Z.________ a déposé auprès de l'office une réquisition de
+continuer la poursuite fondée sur l'acte de défaut de biens après saisie du 8 juin 2011,
+dans la poursuite n° 1'003'056'743. Il requérait que la saisie soit opérée sur les
+biens suivant:
+"1)
+Créance d'A.R.________
+contre sa femme B.R.________ en paiement de l'entretien, créance fondée sur l'art. 163 du Code
+civil, respectivement les prestations individualisées découlant de cette prétention.
+2)
+Créance d'A.R.________
+contre sa femme B.R.________ en paiement du montant à libre disposition de l'époux qui aide
+l'autre dans sa profession ou son entreprise, créance fondée sur l'art. 164 du Code civil,
+respectivement les prestations individualisées découlant de cette prétention.
+3)
+Indemnités, dues
+à A.R.________ par Monsieur et Madame E.________ pour occupation illicite de la place de parc constituant
+le lot n° [...], à savoir la parcelle n° [...] du cadastre de la commune de Vufflens-le-Château,
+part de propriété par étages de la parcelle [...] du même cadastre.
+J'expose que, avant la réalisation de la part de communauté, société simple, Monsieur
+et Madame E.________ ont déjà utilisé la place de parc. Ils doivent une indemnité
+y relative.
+4)
+Créance, à savoir
+tout montant pouvant revenir à A.R.________ sur le compte ouvert auprès de [...].
+5)
+Fortune mobilière
+d'A.R.________. Pour mémoire, la déclaration d'impôt 2006 d'A.R.________ et de sa femme
+faisait état d'une fortune de Frs 81'431.- sous forme de titres.
+6)
+Elements de fortune composée des objets mobiliers indiqués dans la déclaration d'impôt
+2006 d'A.R.________ et de sa femme, pour Frs 180'000.-. […]".
+Cette réquisition a donné lieu à la poursuite n° 6'019'527 de l'office.
+Selon le procès-verbal des opérations de saisie du 6 décembre 2011, A.R.________ a déclaré
+avoir un immeuble en Inde et que le montant des revenus locatifs de cet immeuble étaient utilisés
+en Inde pour le paiement des charges relatives à cet immeuble, son entretien, les impôts et
+les taxes, ainsi que pour le paiement de frais d'avocat engendrés par une procédure relative
+à cet immeuble. Le solde serait versé sur un compte ouvert auprès de la [...]. Il ressort
+en outre de ce procès-verbal que le poursuivi possédait en société simple avec S.________
+la parcelle n° [...] de la Commune de Vufflens-le-Château, savoir une place de parc, occupée
+par les époux E.________.
+Le 13 août 2012, le débiteur a communiqué les coordonnées de son compte en Inde.
+Il s'agissait du compte n° [...] ouvert auprès de la [...].
+c)
+Le 18 avril 2013, l'office a établi un procès-verbal de saisie, valant acte de défaut
+de biens, dans la poursuite n° 6'019'527. En définitive, après diverses recherches, l'office
+n'avait pas constaté la présence de biens saisissables chez le débiteur et n'avait pas
+non plus pu procéder à une saisie de salaire. Il était précisé qu'un avis de
+saisie pour tout montant jusqu'à 253'000 fr. revenant à A.R.________ avait été adressé
+à la [...], puis – l'avis ayant été retourné à l'office – expédié
+à nouveau le 13 juin 2012, et qu'aucune suite n'avait été donné à cet envoi.
+2.
+Le 29 avril 2013, le poursuivant a déposé plainte LP contre ce procès-verbal de saisie,
+en concluant à la saisie de nombreux biens, soit:
+"a)
+Le compte bancaire ouvert auprès de [...] sous numéro [...].
+b)
+La créance d'A.R.________ contre B.R.________ fondée sur l'article 163 CO.
+c)
+La créance d'A.R.________ contre E.________, 1134 Vufflens-le-Château.
+d)
+Le compte bancaire ouvert
+auprès de [...] (Inde) d'A.R.________".
+Le 21 mai 2013, l'office s'est déterminé et a conclu au rejet de la plainte.
+Le 31 mai 2013, A.R.________ s'est déterminé et a conclu au rejet de la plainte.
+Le 10 juin 2013, le Président du Tribunal d'arrondissement de la Côte, autorité inférieure
+de surveillance, a tenu audience. L'instruction a été suspendue afin de permettre à A.R.________
+de produire un extrait du compte n° [...] ouvert auprès de la [...] ainsi que les noms
+et adresses des héritiers de feu X.________, lequel aurait été chargé de la gestion
+de ce compte.
+Le 28 juin 2013, l'office a déposé des déterminations complémentaires.
+Par acte du 29 juillet 2013, le débiteur a produit un extrait peu lisible du compte n° [...]
+de la [...] sur lequel on ne parvient notamment pas à distinguer le nom du titulaire. Il a également
+communiqué les noms des héritiers de feu X.________, précisant qu'ils étaient domiciliés
+en Inde, mais qu'il ne connaissait pas leurs adresses.
+Le 13 octobre 2013, le plaignant a requis la production par le débiteur de l'acte d'ouverture du
+compte, de la justification des frais d'entretien, charges, impôts et taxes de l'immeuble, d'un
+récapitulatif des dépenses relatives à cet immeuble, d'un exemplaire lisible et non caviardé
+de l'extrait de compte produit, et des adresses exactes des héritiers de feu X.________. Par acte
+du 16 février 2014, il a encore requis du premier juge qu'il ordonne au débiteur de produire
+une liste de personnes qui ont procédé à des retraits sur le compte, ou bénéficié
+de versements, d'indiquer la provenance des fonds, de fournir toutes factures provenant de son avocat
+en Inde, d'indiquer le rôle des héritiers figurant sur la lettre du 29 juillet 2013 du conseil
+du poursuivi. La président n'a pas fait droit à ces réquisitions.
+3.
+Par prononcé du 21 février 2014, le Président du Tribunal d'arrondissement de la Côte
+a partiellement admis la plainte déposée le 29 avril 2013 par A.Z.________ et dit que l'Office
+des poursuites du district de Morges était requis de saisir au titre de créances contestées
+les droits d'A.R.________ contre B.R.________ fondés sur les art. 163 et 164 CC (Code civil suisse
+du 10 décembre 1907; RS 210), ainsi que ceux contre E.________.
+Concernant le compte bancaire dont le plaignant réclame la saisie, le premier juge a considéré
+que la vente opérée par l'office le 10 septembre 2004 portait sur l'immeuble saisi ainsi que
+sur les droits et les charges relatifs à celui-ci, notamment le produit locatif, que le compte dont
+le plaignant demande la saisie reçoit précisément les loyers de cet immeuble et que dès
+lors le plaignant est déjà titulaire des droits dont il demande la saisie. Il a ajouté
+que des biens situés à l'étranger ne pouvaient être saisis et qu'enfin l'office avait
+fait tout ce qui était en son pouvoir afin d'entrer en contact avec la [...] et de lui adresser
+un avis de saisie. Considérant que l'existence ou l'exigibilité d'une créance relève
+de la compétence du juge du fond et que l'office ne peut refuser de saisir une créance que
+dans la mesure où celle-ci n'existe manifestement pas, le premier juge a retenu que l'office devait
+saisir les créances alléguées contre B.R.________ et les époux E.________, leur existence
+ne pouvant pas être exclue d'emblée.
+4.
+Par acte du 6 mars 2014, A.Z.________ a recouru contre cette décision, concluant à ce que l'office
+doive aussi saisir le compte bancaire ouvert à la [...] sous numéro [...] et tout compte ouvert
+par le poursuivi auprès de cette banque. Subsidiairement, il a conclu à ce que l'office doive
+saisir la part du poursuivi sur ledit compte bancaire, et sur tout compte bancaire qu'il aurait ouvert
+auprès de cette banque, et encore plus subsidiairement à l'annulation du prononcé. A l'appui
+de son recours, il a produit un onglet de pièces sous bordereau.
+Le 26 mars 2014, l'office s'est déterminé, concluant principalement au rejet du recours et,
+subsidiairement, à la réforme du prononcé en ce sens qu'il n'y a pas lieu de saisir les
+droits d'A.R.________ contre son épouse, ni ceux contre les époux E.________. Il a produit
+une pièce, soit un échange de courriel dont notamment un courriel du plaignant à son avocat
+du 5 août 2013 adressé en copie à l'office dans lequel le plaignant affirme en substance
+que l'allégation de son débiteur selon laquelle il serait propriétaire d'un immeuble de
+rendement est fausse et qu'il parlait de l'immeuble vendu par l'office le 10 septembre 2004 dont il s'attribuerait
+le loyer sans droit.
+Le 3 avril 2014, A.R.________ s'est déterminé, concluant au rejet du recours.
+En droit :
+I.
+a)
+Formé
+contre une décision de l'autorité inférieure de surveillance dans les dix jours suivant
+sa notification (art. 18 al. 1 LP et 28 al. 1 LVLP [loi d'application dans le Canton de Vaud de la loi
+fédérale sur la poursuite pour dettes et la faillite du 18 mai 1955; RSV 280.05]), soit en
+temps utile, et comportant des conclusions et l'énoncé des moyens invoqués (art. 28 al.
+3 LVLP), le recours est recevable. Les pièces nouvelles produites avec le recours sont également
+recevables (art. 28 al. 4 LVLP).
+Les déterminations de l'Office et du représentant de l'intimé sont recevables (art. 31
+al. 1 LVLP).
+b)
+L'office a pris une conclusion subsidiaire en réforme du prononcé.
+L'art. 18 LP prévoit seulement la possibilité de recourir devant l'autorité cantonale
+supérieure contre toute décision sur plainte. La LVLP ne mentionne pas de conclusions prises
+par l'office. En principe, les préposés n'ont pas le droit de recourir, à moins que la
+décision de l'autorité inférieure de surveillance ne touche directement leurs propres
+intérêts ou les intérêts du canton qu'ils représentent (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 40 ad art. 18 LP). Ainsi,
+le titulaire de la fonction n'a pas le droit de recourir pour essayer de faire valoir son opinion sur
+celle de l'autorité de surveillance (ibidem).
+L'office n'a donc pas qualité pour prendre des conclusions reconventionnelles en modification du
+prononcé. D'ailleurs ni la LP ni la LVLP ne prévoient la possibilité d'un recours joint,
+de sorte que ces conclusions seraient tardives.
+II.
+a)
+Lorsque la poursuite se continue par voie de saisie, il appartient à l'office des poursuites de
+déterminer le ou les droits patrimoniaux saisissables du poursuivi qui doivent être réalisés
+pour désintéresser le ou les poursuivants au bénéfice de la saisie (Gilliéron,
+op. cit., n. 1 ad Remarques introductives: art. 89 – 115 LP). Il s'agit de garantir l'expropriation
+effective du poursuivi dans l'intérêt des poursuivants en dessaisissant le poursuivi (Gilliéron,
+op. cit., n. 3 ad Remarques introductives: art. 89 – 115 LP).
+aa) En l'espèce, concernant le compte bancaire n° [...] de la [...], le premier juge a retenu
+que la part de communauté du poursuivi sur les revenus versés sur ce compte en banque avait
+déjà été saisie puis vendue aux enchères; il a considéré que le plaignant
+demandait ainsi la saisie de quelque chose qui lui appartenait.
+Le recourant fait valoir que rien dans le dossier ne permet de penser qu'il aurait pu obtenir la dissolution
+et la liquidation de la communauté. Par ailleurs, rien ne permettrait de penser que le compte bancaire
+serait uniquement alimenté par le produit locatif de l'immeuble. A cet égard, le recourant
+reproche à l'autorité de première instance d'avoir posé une pétition de principe.
+Depuis 1996, les autorités de poursuite ont considéré que le poursuivi possédait
+une part de communauté sur un immeuble sis à [...] et donc sur son rendement locatif. Cette
+part a été saisie et réalisée le 10 septembre 2004, de sorte qu'elle n'appartient
+plus au poursuivi, mais à l'adjudicataire, B.Z.________, ou au recourant si elle la lui a cédée.
+On ne peut saisir et réaliser cette part de communauté une deuxième fois.
+Le recourant fait valoir qu'il n'aurait pu obtenir la dissolution de la communauté en Inde, ce qui
+laisse entendre que B.Z.________ lui aurait cédé la part de communauté. Même en admettant
+ce fait, qui n'est d'ailleurs pas établi, cela n'est pas du ressort des autorités de plainte
+en Suisse, et ne justifierait pas de saisir la part une seconde fois, ce qui d'ailleurs ne servirait
+à rien. Les éventuelles difficultés rencontrées par le recourant à obtenir quelque
+chose en Inde sur la base de la saisie et de la réalisation opérée en Suisse ne sont d'aucune
+pertinence quant à une nouvelle saisie.
+bb) A l'appui de son recours, le plaignant indique qu' "il ne faut pas confondre l'acquisition d'une
+part de l'immeuble et d'une part du produit locatif […] avec l'immeuble en tant que tel et le produit
+locatif en tant que tel". Dans la mesure où, sans véritablement l'affirmer, le recourant
+soutiendrait qu'en réalité, le poursuivi aurait été propriétaire non d'une part
+de 22,5 %, mais de tout l'immeuble, et donc de l'entier des revenus locatifs, son argumentation est contradictoire,
+puisque, comme on l'a vu, il se plaint par ailleurs de n'avoir pu obtenir la liquidation de la communauté.
+Il est vrai qu'il ressort du procès-verbal des opérations de saisie du 6 décembre 2011
+que le poursuivi a lui-même déclaré à l'office qu'il possédait un immeuble en
+Inde dont les revenus locatifs servaient à payer les charges et les impôts y afférant
+ainsi que des frais d'avocat. Cependant, dans son courriel du 5 août 2013, le recourant affirme
+lui-même que le poursuivi ne possède pas d'immeuble et parlait en réalité de la part
+qui avait précédemment été saisie et réalisée.
+cc) L'argument du recourant – selon lequel le compte bancaire pourrait être alimenté
+par d'autres sources que l'immeuble ou la part d'immeuble en Inde – n'est pas davantage fondé.
+Il n'y a aucune raison de penser que le poursuivi aurait d'autres revenus qui seraient versés sur
+le compte en question. Il n'y a pas davantage de raisons de penser que le poursuivi serait titulaire
+d'autres comptes auprès de la même banque. A cet égard, le recourant procède par
+suppositions.
+dd) Le recourant n'a énoncé aucun grief quant au fait, relevé par le premier juge, que
+les biens situés à l'étranger ne peuvent être saisis, et cela à juste titre.
+En effet, les biens situés à l'étranger ne peuvent pas être saisis (Foëx, Commentaire
+romand, n. 13 ad art. 89 LP). Les autorités d'exécution forcée suisses ne disposent d'aucune
+autorité en Inde.
+b)
+Le recourant invoque également une violation de son droit d'être entendu du fait que le premier
+juge n'a pas fait droit à certaines de ses réquisitions.
+En vertu de l'art. 27
+LVLP, le prononcé mentionne brièvement les opérations de l'instruction, les déclarations
+importantes des parties, les faits de la cause et les motifs.
+S
+elon
+la jurisprudence, le droit d’être entendu, tel qu’il est garanti par l’art. 29
+al. 2 Cst.
+[Constitution fédérale; RS
+101], implique notamment l’obligation pour le juge de motiver ses décisions, afin que le justiciable
+puisse comprendre et exercer ses droits de recours à bon escient. Le juge doit ainsi mentionner,
+au moins brièvement, les motifs qui l’ont guidé et sur lesquels il a fondé sa décision,
+de manière à ce que l’intéressé puisse se rendre compte de la portée de
+celle-ci et l’attaquer en connaissance de cause, mais aussi à ce que l’autorité
+de recours puisse contrôler l’application du droit ; il n’a toutefois pas l’obligation
+d’exposer et de discuter tous les faits, moyens de preuve et griefs invoqués par les parties,
+mais peut au contraire se limiter à ceux qui, sans arbitraire, apparaissent pertinents (ATF 134
+I 83 c. 4.1; 134 I 140 c. 5.3, JT 2009 I 303; TF 4A_265/2008 du 26 août 2008 c. 2.1.1). Des
+motifs concis et même partiellement implicites suffisent pour exclure le grief de violation du droit
+d'être entendu (CPF, 11 juillet 2012/222). Savoir si la motivation présentée est
+convaincante est une question distincte de celle du droit à une décision motivée. Dès
+lors que l'on peut discerner les motifs qui ont guidé la décision des juges, le droit à
+une décision motivée est respecté, même si la motivation présentée est
+erronée (TF 4A_454/2008 du 1
+er
+décembre 2008 c. 3.1).
+En l’espèce,
+il était manifestement inutile de procéder aux recherches requises par le plaignant. Celui-ci
+avait requis la production par le débiteur de l'acte d'ouverture du compte dont il réclame
+la saisie, de la justification des frais d'entretien de l'immeuble et un récapitulatif des dépenses
+relatives à cet immeuble, d'un exemplaire lisible et non caviardé de l'extrait de compte produit
+et des adresses des héritiers d'X.________; il a encore requis que l'on ordonne au débiteur
+de produire une liste des personnes qui auraient procédé à des retraits sur le compte
+ou bénéficié de versements, d'indiquer la provenance des fonds, de fournir toutes les
+factures provenant de son avocat en Inde et d'indiquer le rôle des héritiers figurant sur la
+lettre de son conseil du 29 juillet 2013.
+Le recourant fait valoir que le premier juge n'a pas motivé sa décision. En réalité,
+ce magistrat a indiqué que l'on ne pouvait saisir de compte en Inde et a ajouté que pour cette
+raison, les réquisitions du plaignant étaient sans pertinence. On ne peut que confirmer ce
+point de vue.
+Le grief tiré d'une prétendue violation du droit d'être entendu n'est donc pas fondé.
+III.
+Au vu de ce qui précède, le recours
+doit être rejeté et le prononcé confirmé.
+L’arrêt est
+rendu sans frais ni dépens (art. 61 al. 2 let. a et 62 al. 2 OELP [Ordonnance du 23 septembre 1996
+sur les émoluments perçus en application de la loi fédérale sur la poursuite pour
+dettes et la faillite; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+12 août 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Me Stephen Gintzburger, avocat (pour A.Z.________),
+‑
+Me François Besse, avocat (pour A.R.________),
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Côte, autorité inférieure de
+surveillance.
+La greffière :
