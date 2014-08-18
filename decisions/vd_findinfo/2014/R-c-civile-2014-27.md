@@ -1,0 +1,176 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2014___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2014 / 27"
+decided: "2014-08-18"
+published: "2014-08-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20140724143458551_e.html"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2014 / 27
+
+## Regeste
+
+RÉCUSATION, INTÉRÊT PERSONNEL, PLAINTE PÉNALE, ADMISSION DE LA DEMANDE | 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 18.08.2014 Réc-civile / 2014 / 27
+
+RÉCUSATION, INTÉRÊT PERSONNEL, PLAINTE PÉNALE, ADMISSION DE LA DEMANDE | 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+L114.025819
+32
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 18 août 2014
+____________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Schwab Eggs
+*****
+Art.
+47 al. 1 let. f et 48 CPC ; art. 8a al. 3 et 8b al. 4 CDPJ ; art. 6 al. 1
+let. a ROTC
+Vu la décision du 6 mars 2009 par laquelle la Cour de céans a admis la demande de
+récusation de la Justice de paix du district d’Aigle présentée par cette dernière
+dans le cadre d’une requête déposée par L.________ portant sur le droit de visite
+de son fils B.Q.________, né le 12 février 2000, dont la mère est A.Q.________,
+vu la requête déposée le 12 juin 2014 par
+L.________
+à l’encontre de
+A.Q.________
+devant la Justice de paix du district de la Riviera –Pays d'Enhaut tendant à ce qu’elle
+réponde à la lettre qu’il lui avait adressée le 18 juin 2013 et à ce qu’elle
+lui donne des informations au sujet de leur fils B.Q.________, en particulier en ce qui concerne les
+consultations de médecins auprès de qui elle aurait emmené leur fils depuis le 1
+er
+janvier 2010
+jusqu’à ce jour,
+vu la demande du 24 juin 2014 du Premier juge de paix de la Justice de paix du district d’Aigle
+tendant à la récusation en corps de son office,
+vu les déterminations des 14 juillet et 1
+er
+août 2014 de L.________,
+vu les déterminations des 7 et 22 juillet 2014 de A.Q.________,
+vu les déterminations du 18 juillet 2014 du Premier juge de paix de la Justice de paix du district
+d’Aigle,
+vu les pièces au dossier ;
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+du 24 juin 2014 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12 janvier
+2010, RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal du 13 novembre
+2007, RSV 173.31.1),
+que la demande, qui satisfait aux exigences de fond et de forme, est ainsi recevable;
+attendu que le Premier juge de paix fonde sa demande de récusation sur la décision de récusation
+rendue le 6 mars 2009,
+qu’il semble considérer que les motifs retenus à l’appui de cette décision
+pourraient faire apparaître un risque de prévention ou faire redouter une attitude partiale
+du ou des magistrats appelés à statuer sur la requête déposée le 12 juin 2014
+par L.________ à l’encontre de A.Q.________,
+qu'il attire l'attention de l'autorité de céans sur le fait que le comportement reproché
+à l'époque à L.________ s'est répété à maintes reprises et sur plusieurs
+mois,
+qu'il ne faut dès lors pas minimiser la portée de ces faits sur les collaborateurs et magistrats
+de la Justice de paix du district d'Aigle,
+que L.________ semble être d'avis que cette autorité ne peut pas gérer sa requête,
+tout en se référant à la précédente récusation,
+qu'il a d'ailleurs adressé sa requête à deux autres autorités,
+qu'au contraire, A.Q.________ s'oppose à la récusation et considère qu'il convient que
+la cause soit traitée par un magistrat connaissant le dossier depuis le début;
+attendu qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008, RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+qu’à teneur de l’art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné
+fait état en temps utile d’un motif de récusation possible et se récuse lorsqu’il
+considère que ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1
+er
+de la Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101)
+et 6 §1 de la Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 c. 2.1 ;
+ATF 138 I 1 c. 2.2 et les réf. citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1 ;
+TF 4A_151/2012 du 4 juin 2012 c. 2.1 ; ATF 138 I 1 c. 2.2),
+qu’en l’espèce, la décision invoquée par la Justice de paix à l’appui
+de sa demande de récusation a été rendue dans le cadre d’une procédure distincte
+et indépendante de la présente procédure,
+que, bien que la récusation doive rester exceptionnelle, cette décision a été rendue
+sur la base de griefs susceptibles de laisser paraître des ressentiments personnels de la part des
+magistrats, ces derniers ayant déposé plainte au courant de l’année 2008 contre
+L.________ pour dommage à la propriété et pour injure,
+que les griefs invoqués à l’appui de la décision rendue le 6 mars 2009
+constituent par conséquents des motifs d’apparence de prévention aux yeux des parties
+et des tiers,
+qu'au demeurant, L.________ a d'ailleurs adressé sa requête à une autre autorité,
+qu'afin de garantir l'impartialité de l'autorité appelée à traiter la requête
+déposée par L.________, la demande de récusation présentée par le Premier juge
+de paix du district d'Aigle doit être admise,
+que dans un tel cas, la cause doit être transmise dans l'état où elle se trouve à
+une autre juridiction ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'elle sera en l'espèce transmise à la Justice de paix du district de Lavaux – Oron;
+attendu que la présente décision est rendue sans frais, ni dépens (Tappy, Code de procédure
+civile commenté, Bâle 2011, n. 28 ad art. 48 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 24 juin 2014 par la Justice de paix du district
+d’Aigle est admise.
+II.
+La cause est transmise dans l'état où elle se trouve à la Justice de paix de Lavaux –
+Oron.
+III.
+L’arrêt est rendu sans frais, ni dépens.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. L.________, personnellement,
+-
+Me Kathrin Gruber (pour A.Q.________),
+-
+M. Robert Gay, Premier juge de paix de la Justice de paix du district d’Aigle.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet
+arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme Magali Gabaz, Première juge de paix du district de Lavaux – Oron, avec le dossier.
+La greffière :
