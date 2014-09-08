@@ -1,0 +1,322 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2014___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2014 / 30"
+decided: "2014-09-08"
+published: "2014-09-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4618491"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2014 / 30
+
+## Regeste
+
+RÉCUSATION, ADMINISTRATION DES PREUVES, EXCÈS ET ABUS DU POUVOIR D'APPRÉCIATION, ERREUR DE DROIT{EN GÉNÉRAL}, TÉMOIN, AUDITION OU INTERROGATOIRE | 106 al. 1 CPC (CH), 47 al. 1 let. f CPC (CH), 8a al. 5 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 08.09.2014 Réc-civile / 2014 / 30
+Vaud Tribunal cantonal Cour administrative 08.09.2014 Réc-civile / 2014 / 30
+Vaud Tribunal cantonal Cour administrative 08.09.2014 Réc-civile / 2014 / 30
+
+RÉCUSATION, ADMINISTRATION DES PREUVES, EXCÈS ET ABUS DU POUVOIR D'APPRÉCIATION, ERREUR DE DROIT{EN GÉNÉRAL}, TÉMOIN, AUDITION OU INTERROGATOIRE | 106 al. 1 CPC (CH), 47 al. 1 let. f CPC (CH), 8a al. 5 CDPJ
+
+TRIBUNAL
+CANTONAL
+CO12.017824
+37/2014
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 8 septembre 2014
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Egger Rochat
+*****
+Art.
+47 let. f et 106 al. 1 CPC ; art. 8a al. 5 CDPJ
+Vu la procédure ouverte devant la Cour civile du Tribunal cantonal opposant la société
+A.________ SA, demanderesse, à la société E.________ S.A.S. et H.________, défenderesses,
+par demande du 7 mai 2012,
+vu l’ordonnance du 28 mars 2014 par laquelle le Juge délégué T.________
+a ordonné l’audition de cinq témoins, dont un par commission rogatoire,
+vu le questionnaire et le résumé du litige déposés le 22 avril 2014 par
+la société A.________ SA dans le cadre de cette commission rogatoire,
+vu les déterminations sur les écritures d’A.________ SA et le contre-questionnaire déposés
+le 9 mai 2014 par la société E.________ S.A.S.,
+vu les déterminations sur les écritures d’A.________ SA et sur le contre-questionnaire
+d’E.________ S.A.S. déposées le 27 mai 2014 par H.________,
+vu les déterminations sur les observations d’E.________ S.A.S. et de H.________, ainsi que
+sur le contre-questionnaire d’E.________ S.A.S., déposées le 3 juin 2014 par A.________
+SA,
+vu la décision du 12 juin 2014, par laquelle le juge délégué a supprimé
+trois des seize questions d’A.________ SA et en a modifié deux autres et par laquelle il a
+admis le contre-questionnaire d’E.________ S.A.S.,
+vu le courrier du 19 juin 2014 par lequel A.________ SA a requis du juge délégué
+qu’il reconsidère l’ordonnance précitée en admettant l’ensemble des
+questions soumises par les parties au témoin devant être entendu par commission rogatoire et,
+à défaut, qu’il applique les mêmes standards à toutes les parties pour écarter
+ou maintenir leurs questions,
+vu la décision du 20 juin 2014, par laquelle le juge délégué a refusé
+de reconsidérer sa décision du 12 juin 2014,
+vu le questionnaire déposé le 23 juin 2014 par A.________ SA dans le cadre de la commission
+rogatoire,
+vu les procès-verbaux des audiences des 10 juin et 24 juin 2014 tenues par le Juge
+délégué T.________ aux fins d’entendre quatre témoins,
+vu les procès-verbaux d’auditions de ces témoins,
+vu le courrier du 16 juin 2014 de la société A.________ SA adressé au juge délégué,
+par lequel cette société contestait la manière du juge délégué d’interroger
+les témoins au vu des allégués soumis à cette preuve et rappelait ses droits en vue
+du déroulement de la prochaine audience,
+vu la décision du 23 juin 2014 par laquelle le juge délégué a rejeté la requête
+du même jour d’A.________ SA tendant à ce que l’audience du 24 juin 2014
+soit enregistrée sur bandes magnétiques, vidéo ou par tout autre moyen technique approprié,
+vu le courrier du 26 juin 2014 d’A.________ SA par lequel cette société a demandé
+au juge délégué des explications sur l’utilisation du terme « paranoïa »
+lors de l’audition du témoin le 24 juin 2014,
+vu la lettre du 30 juin 2014 par laquelle le juge délégué a déclaré n’avoir
+« aucun parti pris contre la demanderesse ou son conseil, ni une opinion préconçue
+sur la cause alors que l’instruction n’est pas terminée » et affirmé
+« En ce qui me concerne, l’audience n’a été émaillée que de
+désaccords procéduraux entre juge et avocat »,
+vu la décision du 8 juillet 2014 rendue par le juge délégué à la suite de la
+requête d’A.________ SA, par laquelle il a refusé d’entendre à nouveau les
+témoins et n’a pas souhaité « épiloguer » davantage au sujet
+de l’utilisation du terme « paranoïa »,
+vu la demande de récusation, accompagnée d’un lot de pièces sous bordereau, déposée
+le 14 juillet 2014 par A.________ SA à l’encontre du Juge délégué
+T.________, instruisant la cause pendante entre la demanderesse A.________ SA et les défenderesses
+E.________ S.A.S. et H.________,
+vu les déterminations déposées respectivement le 25 juillet 2014 par H.________
+et le 31 juillet 2014 par E.________ S.A.S., par lesquelles les intimées ont conclu, avec
+suite de frais et dépens, au rejet de la demande de récusation,
+vu les déterminations déposées le 15 août 2014 par le Juge délégué
+T.________,
+vu les pièces au dossier ;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 14 juillet 2014 en vertu des art. 8a al. 5 CDPJ (Code de droit privé judiciaire vaudois du 12
+janvier 2010, RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal
+du 13 novembre 2007, RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu qu’à l’appui de sa demande de récusation, A.________ SA soutient qu’elle
+fait l’objet d’une prévention de la part du juge délégué intimé,
+que cette prévention s’illustrerait, d’une part, dans la manière du juge délégué
+d’interroger les témoins sur les allégués soumis à cette preuve et son refus
+répété d’autoriser le conseil d’A.________ SA à poser certaines questions
+complémentaires lors des audiences des 10 juin et 24 juin 2014,
+que cette prévention apparaîtrait dans les motifs du juge délégué invoqués
+à l’appui d’un tel refus, selon lesquels les questions rejetées sortaient du cadre
+des allégués ou, plus simplement, que le conseil d’A.________ SA ne mentionnait pas un
+numéro d’allégué en relation avec sa question,
+que cette prévention s’illustrerait, d’autre part, dans l’appréciation faite
+par le juge délégué des questions posées par les parties au témoin à entendre
+par commission rogatoire, lorsqu’il a refusé le maintien intégral du questionnaire préparé
+par A.________ SA et admis l’intégralité du contre-questionnaire déposé par
+E.________ S.A.S.,
+que cette prévention serait concrétisée par une violation de l’égalité
+de traitement entre les parties, le juge délégué n’appliquant pas le même standard
+pour écarter les questions d’A.________ SA que celui utilisé pour admettre celles d’E.________
+S.A.S.,
+que cette prévention découlerait des décisions du juge délégué rejetant
+sommairement les requêtes d’A.________ SA sans donner l’impression d’y avoir prêté
+l’attention nécessaire,
+que cette prévention serait encore révélée par l’attitude du juge délégué
+lors de l’audience du 24 juin 2014, lorsqu’il aurait laissé paraître des signes
+d’agacement et déclaré que la justification fournie par le conseil d’A.________
+SA au sujet d’une question complémentaire à poser au témoin relevait de la « paranoïa »
+dudit conseil, terme de nature à porter atteinte au lien de confiance unissant A.________ SA et
+son conseil et, partant, à affaiblir une partie au profit des deux autres,
+que cette prévention se serait manifestée dans l’utilisation de ce terme, dans la mesure
+où le terme « paranoïa » n’aurait pas exprimé un simple désaccord
+procédural, mais une appréciation personnelle a priori irréversible de la position défendue
+par A.________ SA,
+que cette prévention serait avérée par le refus du juge d’entendre à nouveau
+les témoins et de retirer le terme « paranoïa » de ses propos,
+qu’ainsi les motifs invoqués par le juge délégué lors des audiences des 10
+et 24 juin 2014, l’appréciation des questionnaires des parties de la part de ce dernier dans
+le cadre de la commission rogatoire et l’attitude adoptée par celui-ci lors de la deuxième
+audience laisseraient apparaître de manière évidente que le juge délégué
+aurait préjugé du fond ;
+attendu que E.________ S.A.S. et H.________ considèrent que les griefs d’A.________ SA tirés
+de la conduite de la procédure et de son attitude en cours d’audience ne constituent pas des
+indices de prévention du juge délégué ;
+attendu que le juge délégué déclare que les reproches d’A.________ SA à
+son égard lors du déroulement des audiences trouvent leur source dans un désaccord de
+nature juridique entre le conseil de celle-ci et lui-même, concernant la latitude dont dispose une
+partie pour poser des questions complémentaires aux témoins dans le cadre d’une procédure
+ordinaire, sa position étant plus stricte que celle du conseil,
+que le juge délégué expose avoir appliqué les règles de procédure de manière
+à assurer l’égalité des parties, tant lors de l’audition des témoins
+et l’admission des questions complémentaires à leur poser que lors de l’établissement
+des questionnaires à établir dans le cadre de la commission rogatoire,
+que le juge délégué explique avoir utilisé le terme « paranoïa »
+pour essayer de convaincre, par une boutade, plutôt que de refuser de but en blanc une fois de plus,
+le conseil d’A.________ SA de renoncer à la question complémentaire portant sur ce que
+la société estimait sous-entendu dans un allégué d’une partie adverse,
+que si une certaine impatience a pu transparaître chez lui lors de l’audience du 24 juin 2014,
+elle s’explique par le contexte tendu, le conseil d’A.________ SA contestant chacune de ses
+décisions,
+que ses décisions n’ont pas été prises sans réflexion préalable ;
+attendu que la requérante invoque la partialité du magistrat intimé en vertu de l'art.
+47 al. 1 let. f CPC, clause générale d’apparence de prévention,
+qu'à teneur de cette disposition, les magistrats et les fonctionnaires judiciaires se récusent
+lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment en raison d'un
+rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 de la Constitution fédérale
+de la Confédération suisse du 18 avril 1999 (RS 101) et 6 §1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l'homme et des libertés fondamentales (RS 0.101), s'oppose à
+ce que des circonstances extérieures au procès puissent influencer le jugement d'une manière
+qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012 du 17 octobre
+2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés, les impressions purement individuelles n'étant pas décisives
+(TF 5A_286/2013 du 12 juin 2013 c. 2.1 ; TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1;
+TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références citées),
+qu'il n'appartient pas au juge de la récusation d'examiner la conduite du procès à la
+façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+que les arguments appellatoires n’ont pas lieu d’être devant l’autorité de
+récusation (CA 32/2013 du 18 novembre 2013),
+que dans un arrêt récent (TF 5A_722/2012 du 17 décembre 2012 c. 3.2 ; confirmé
+in TF 5A_286/2013 du 12 juin 2013 c. 2.1), le Tribunal fédéral a rappelé que :
+"(…) des décisions ou des actes de procédure viciés, voire arbitraires, ne
+fondent pas en soi une apparence objective de prévention. En effet, en raison de son activité,
+le juge est tenu de se prononcer sur des éléments contestés et délicats; même
+si elles se révèlent ensuite erronées, des mesures inhérentes à l'exercice normal
+de sa charge ne permettent pas encore de le suspecter de parti pris; en décider autrement, reviendrait
+à affirmer que tout jugement erroné, voire arbitraire, serait le fruit de sa partialité."
+qu'ainsi les erreurs de procédure ou d'appréciation commises par un juge ne suffisent pas à
+fonder objectivement un soupçon de prévention; seules des erreurs particulièrement lourdes
+et répétées, qui doivent être considérées comme des violations des devoirs
+du magistrat, peuvent avoir cette conséquence (TF 5A_286/2013 du 12 juin 2013 c. 2.1 ;
+ATF 125 I 119 c. 3e; ATF 116 Ia 135 c. 3a; ATF 114 Ia 153 c. 3b; Bohnet, Code de procédure civile
+commenté, n. 43 ad art. 47 CPC) ;
+attendu que, selon le Tribunal fédéral, on ne peut empêcher qu’un juge manifeste
+des signes d’impatience en audience (RSPC 2006 p. 121 c. 7.2),
+que le Tribunal fédéral a non seulement nié l’existence de prévention s’agissant
+de termes relevant du langage courant utilisés par le juge à l’égard de l’une
+des parties (RSPC 2008 p. 119 c. 2.4) mais aussi admis que, s’agissant du Tribunal arbitral
+qui s’était laissé aller dans sa façon de décrire l’attitude d’une
+partie, que «
+il est vrai que certaines
+expressions métaphoriques utilisées dans le texte controversé pour qualifier le comportement
+de l’un des responsables de la recourante ne sont pas loin de comporter une pointe d’ironie
+et qu’elles ont pu susciter chez cette partie un sentiment d’incompréhension. De fait,
+il eût été préférable de renoncer à ce langage imagé et un peu trop
+personnalisé, de manière à éviter que le destinataire des reproches formulés
+dans ce style inutilement incisif en prît ombrage. Cela étant, si on le replace dans le contexte
+procédural – à savoir celui d’une sentence arbitrale rendue par une formation plurilingue
+à majorité non francophone -, le manque de retenue dont a fait montre le Tribunal arbitral
+dans l’expression écrite de ses opinions n’est pas d’une gravité telle qu’elle
+justifierait l’admission du moyen pris de la composition irrégulière de cette juridiction
+arbitrale
+» (TF 4P.4/2007 du 26 septembre 2007
+c. 3.3.2),
+qu’en outre, des commentaires humoristiques ou déplacés ne suffisent pas à justifier
+un soupçon de partialité (ATF 115 Ib 216, JT 1991 IV 157 c. 4 ; cf. S. Wullschleger,
+in : Sutter-Somm/Hasenböhler/Leuenberger, ZPO Komm., ad art. 47 CPC n. 33),
+que des jugements de valeurs à l’égard d’une partie ne sont problématiques
+que s’ils revêtent une certaine intensité (BK ZPO-Rüetschi, ad art. 47 CPC
+n. 49), le fait pour un juge d’avoir qualifié une plainte de « chicanière »
+n’ayant pas été jugé suffisant pour constituer un motif de récusation (RSPC
+2006 p. 236 c. 2.3) ;
+attendu que, en l’espèce, les décisions par lesquelles le juge délégué
+intimé a admis ou rejeté les questions complémentaires de la requérante lors de l’audition
+des témoins, sont des décisions de nature procédurale,
+que sont également de nature procédurale les décisions prises par le juge intimé
+lors de l’établissement des questionnaires à soumettre par les parties au témoin
+à entendre par commission rogatoire,
+que le juge intimé a dès lors pris des décisions inhérentes à la conduite de
+l’instruction de la cause, lesquelles relèvent de son pouvoir d’appréciation,
+que la question de la latitude dont dispose une partie pour poser des questions complémentaires
+aux témoins dans le cadre d’une procédure ordinaire n’a pas encore été
+tranchée par la juriprudence,
+qu’il n’est ainsi pas démontré que le juge délégué aurait commis
+à cet égard une erreur dans l’application du Code de procédure civile suisse, étant
+rappelé que l’autorité de récusation n’a pas à examiner la conduite du
+procès à la manière d’une autorité de surveillance,
+que, de toute manière, seules des erreurs de procédure ou d’appréciation particulièrement
+lourdes et répétées peuvent, par exception, justifier la récusation du magistrat
+considéré,
+que cette hypothèse n’est – de loin – pas réalisée dans le cas d’espèce,
+qu’au regard de la jurisprudence citée précédemment, la seule manifestation de signes
+d’impatience de la part du juge délégué ne saurait constituer une prévention
+à l’égard de l’une des parties,
+qu’il ressort du contexte procédural que l’utilisation du terme « paranoïa »
+par le juge délégué laissait essentiellement percevoir une pointe d’ironie,
+que, si l’utilisation de ce terme peut certes apparaître malheureuse, il ne suffit pas à
+constituer une prévention du juge délégué à l’égard de la requérante,
+que l’approche adoptée par le juge intimé ne permet pas de douter de son impartialité
+dans cette affaire,
+qu’ainsi les éléments mis en exergue par la demanderesse, pris isolément ou ensemble,
+ne constituent pas de motif de récusation,
+qu’ il y a dès lors lieu de rejeter la demande ;
+attendu que les frais de la présente décision sont arrêtés à 500 fr. (art. 28
+TFJC [tarif des frais judiciaires civils du 28 septembre 2010, RSV 270.11.5], applicable par renvoi
+de l’art. 51 TFJC) à la charge de la demanderesse, qui succombe (art. 106 al. 1 CPC),
+qu’une indemnité de dépens à hauteur de 1’050 fr. est allouée à
+H.________ et de 1'400 fr. à E.________ S.A.S. pour la présente procédure (art. 9
+TDC [Tarif des dépens en matière civile; RSV 270.11.6];
+attendu que le présent arrêt peut faire l’objet d’un recours auprès de la
+Chambre des recours civile du Tribunal cantonal (ATF 137 III 424).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation déposée le 14 juillet 2014 par A.________ SA à l’encontre
+du Juge délégué T.________est rejetée.
+II.
+Les frais judiciaires pour la demande de récusation, arrêtés à 500 fr. (cinq
+cents francs), sont mis à la charge d’A.________ SA.
+III.
+A.________ SA doit verser la somme de 1’400 fr. (mille quatre cents francs) à E.________
+S.A.S. à titre de dépens.
+IV.
+A.________ SA doit verser la somme de 1’050 fr. (mille cinquante francs) à H.________
+à titre de dépens.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Boris Vittoz (pour A.________ SA),
+-
+Me Ralph Schlosser (pour H.________) et
+-
+Me Philippe Ducor (pour E.________ S.A.S.).
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme T.________, Juge délégué de la Cour civile.
+La greffière :
