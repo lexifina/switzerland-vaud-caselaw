@@ -1,0 +1,146 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2014___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2014 / 32"
+decided: "2014-09-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20140915110055759_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-221.md", "switzerland/bund/acts/272/art-311.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Réc-civile / 2014 / 32
+
+## Regeste
+
+AUTORITÉ DE RECOURS, DÉCISION D'IRRECEVABILITÉ, FORME ET CONTENU, SIGNATURE | 132 al. 1 CPC (CH), 321 al. 1 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 17.09.2014 Réc-civile / 2014 / 32
+
+AUTORITÉ DE RECOURS, DÉCISION D'IRRECEVABILITÉ, FORME ET CONTENU, SIGNATURE | 132 al. 1 CPC (CH), 321 al. 1 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+JS12.017411
+38
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 17 septembre 2014
+________________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Battistolo et Muller
+Greffier
+:              Mme
+Schwab Eggs
+*****
+Art.
+50 al. 2, 132 al. 1, 321 al. 1 CPC ; art. 8a al. 7 CDPJ
+Vu procédure de mesures protectrices de l’union conjugale pendante entre C.________ et J.________
+devant le Tribunal d’arrondissement de Lausanne,
+vu la lettre du 25 juillet 2014 d’J.________ demandant la récusation d’W.________, magistrat
+en charge du dossier,
+vu le jugement rendu le 13 août 2014 par le Tribunal civil de l’arrondissement de Lausanne
+rejetant la requête de récusation,
+vu le courrier non signé du 16 août 2014 d’J.________ adressé au Tribunal d’arrondissement
+de Lausanne et indiquant en préambule :
+"(…), je ne peux faire appel de cette décision tout simplement parce que le motif que
+j’ai évoqué pour demander sa récusation n’apparaît nulle part dans votre
+décision.
+Dès lors, un appel sera sans fondement s’il apporte des éléments qui n’apparaissent
+nulle part dans la décision qui fait l’objet de l’appel.",
+vu la transmission de ce courrier à la Cour administrative du Tribunal cantonal,
+vu la lettre recommandée du 28 août 2014 de l’autorité de céans impartissant
+un délai échéant le 5 septembre 2014 à J.________ pour indiquer s’il entendait
+soumettre un recours à la Cour administrative et, si tel était le cas, pour le signer, étant
+précisé qu’"à défaut l’acte ne [serait] pas pris en considération
+(art. 132 al. 1 CPC)",
+vu l’absence de réaction d’J.________ dans le délai imparti,
+vu les pièces au dossier ;
+attendu que l'art. 50 al. 2 CPC (Code de procédure civile du 19 décembre 2008, RS 272)
+prévoit que la décision sur récusation peut faire l'objet d'un recours au sens des art.
+319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010, RSV 211.02] et 6 al. 1 let. a ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007, RSV 173.31.1]),
+que même si le recours a été déposé en temps utile, il doit encore satisfaire
+aux exigences de l'art. 321 al. 1 CPC pour être recevable (Jeandin, Bohnet/Haldy/Jeandin/Schweizer/Tappy
+(édit.), Code de procédure civile commenté, Bâle 2011, n. 1 ad art. 321 CPC),
+qu’à teneur de cette disposition, le recours doit se faire par écrit, ce qui renvoie
+implicitement aux exigences des art. 130 à 132 CPC (Jeandin, op. cit., n. 2 ad art. 311 CPC et n.
+3 ad art. 321 CPC),
+que selon l’art. 321 al. 1 CPC également, le recours doit être motivé, ce qui signifie
+que le recourant a le fardeau d'expliquer les motifs pour lesquels le jugement attaqué doit être
+annulé et modifié (Jeandin, op. cit., n. 3 ad art. 311 CPC et n. 4 ad art. 321 CPC),
+qu'en tout état de cause, l'instance supérieure doit pouvoir comprendre ce qui est reproché
+au premier juge sans avoir à rechercher des griefs par elle-même, ce qui exige une certaine
+précision quant à l'énoncé et à la discussion des griefs (Jeandin, op. cit.,
+n. 3 ad art. 311 CPC),
+que le recours doit en outre contenir, sous peine d'irrecevabilité, des conclusions, en annulation
+ou au fond, soit ce que la partie veut que le tribunal lui alloue dans sa décision (CREC 24 août
+2012/295; Tappy, Bohnet/Haldy/Jeandin/Schweizer/Tappy (édit.), Code de procédure civile commenté,
+Bâle 2011, n. 11 ad art. 221 CPC; Jeandin, op. cit., n. 4 ad art. 311 CPC et n. 5 ad art. 321 CPC),
+qu'il ne saurait être remédié à un défaut de motivation ou à des conclusions
+déficientes, de tels vices n'étant pas d'ordre purement formel et affectant le recours de façon
+irréparable (CREC 15 octobre 2012/363; Jeandin, op. cit., n. 5 ad art. 311 CPC et n. 6 ad art. 321
+CPC),
+que, sur la base de l’art. 132 al. 1 CPC, l’autorité de recours peut impartir un délai
+pour rectifier des vices de forme, telle que l’absence de signature,
+qu’en l’espèce, l'indication des voies de droit figurant au pied de la décision
+attaquée mentionne expressément l'exigence d'un mémoire de recours écrit et motivé,
+que la lettre du 16 août 2014 d’J.________ n’est pas signée, ni motivée de
+façon suffisamment précise pour qu'elle puisse être considérée comme un recours
+recevable,
+qu'en outre, elle ne contient pas de conclusions et ne permet pas de déterminer dans quelle mesure
+J.________ entend voir modifier la décision attaquée,
+qu’enfin, J.________ n’a pas donné suite à la possibilité qui lui avait été
+donnée par lettre du 28 août 2014 de signer et préciser son écriture,
+que le courrier du 16 août 2014 d’J.________ ne remplit par conséquent pas les exigences
+de motivation de l'art. 321 al. 1 CPC et doit être déclaré irrecevable ;
+attendu, en définitive, que le recours est irrecevable, le jugement rendu le 13 août 2014 par
+le Tribunal civil de l’arrondissement de Lausanne étant confirmé,
+que l'arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+L'acte déposé le 16 août 2014 par J.________ est irrecevable.
+II.
+La décision sur récusation rendue le 13 août 2014 par le Tribunal civil de l’arrondissement
+de Lausanne est confirmée.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. J.________, personnellement,
+-
+Mme C.________, par son conseil,
+-
+[...]W.________, Président du Tribunal d’arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
