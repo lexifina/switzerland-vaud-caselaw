@@ -1,0 +1,141 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2014___35"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2014 / 35"
+decided: "2014-10-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20141008100427959_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2014 / 35
+
+## Regeste
+
+RÉCUSATION, ADMISSION DE LA DEMANDE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 08.10.2014 Réc-civile / 2014 / 35
+
+RÉCUSATION, ADMISSION DE LA DEMANDE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+41
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 8 octobre 2014
+____________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Boryszewski
+*****
+Art.
+47 al. 1 let. f CPC; art. 8a al. 3 et 8b al. 4 CDPJ
+Vu la requête en institution de l'autorité parentale conjointe et de mesures superprovisionnelles
+déposée le 3 octobre 2014 par-devant la Justice de paix du district de Lavaux-Oron par F.________
+contre A.C.________ concernant l'enfant B.C.________,
+vu le courrier du 8 octobre 2014 de la Première juge de paix du district de Lavaux-Oron demandant
+spontanément la récusation en corps dudit office,
+vu les pièces au dossier;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+spontanée du 2 octobre 2014 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé
+vaudois du 12 janvier 2010, RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal
+cantonal du 13 novembre 2007, RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008, RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 Ia 172 c. 3),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101) et 6 §1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l’homme et des libertés fondamentales (RS 0.101), s'oppose
+à ce que des circonstances extérieures au procès puissent influencer le jugement d'une
+manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 1B_35/2010
+du 18 mars 2010 c. 2.1;
+ATF 131 I 24 c.
+1.1),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (ATF 131 I 24 c. 1.1; ATF 124 I 121 c.
+3a, JT 1999 I 159; ATF 115 Ia 172 c. 3),
+qu'en l'espèce, la Justice de paix du district de Lavaux-Oron compte deux magistrats, [...] et [...],
+que la juge [...] connaît personnellement F.________,
+qu'elle l'a côtoyé à plusieurs reprises à titre privé,
+que de ce fait, elle a également fait la connaissance de son ex-compagne, A.C.________, et de leur
+fille,
+que de son côté, la juge [...] a également rencontré F.________, hors du cadre professionnel,
+qu'à cette occasion, ce dernier lui a expliqué de manière assez détaillée l'objet
+de sa requête, sans mentionner son lieu de domicile,
+que dans les deux cas, les circonstances sont de nature à créer une apparence de prévention,
+du moins aux yeux des parties et des tiers,
+qu'en effet, un rapport d'amitié ou d'inimité a pu naître lors de ces rencontres,
+qu'il pourrait influer sur l'impartialité des magistrats de l'office, lesquels sont investis d'un
+pouvoir décisionnel,
+que de plus, la prise de connaissance d'éléments de l'affaire hors du cadre de la procédure
+est de nature à influencer le jugement, en faveur ou au préjudice d'une partie,
+qu'il y a dès lors
+lieu d'admettre la demande,
+que, dans un tel cas, la cause doit être déléguée à une autre juridiction ayant
+les mêmes compétences (art. 8b al. 4 CDPJ),
+qu’il convient dès lors de désigner la Justice de paix du district de la Riviera - Pays-d'Enhaut;
+attendu que le présent arrêt doit être rendu sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation spontanée de la Justice de paix du district de Lavaux-Oron en corps,
+déposée le 8 octobre 2014, est admise.
+II.
+La cause est transmise, dans l'état où elle se trouve, à la Justice de paix du district
+de la Riviera - Pays-d'Enhaut.
+III.
+L'arrêt est rendu sans frais ni dépens.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, sera notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Laurent Savoy (pour F.________),
+-
+Mme A.C.________.
+par
+la Justice de paix du district de la Riviera - Pays-d'Enhaut au même moment que la notification
+de l'ordonnance de mesures superprovisionnelles à intervenir.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme [...], Première juge de paix du district de Lavaux-Oron;
+-
+Mme [...], Première juge de paix du district de la Riviera - Pays-d'Enhaut, avec le dossier.
+La greffière :
