@@ -1,0 +1,263 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___54"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 54"
+decided: "2014-10-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4768383"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-014.md", "switzerland/bund/acts/311.0/art-032.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2015 / 54
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE | 14 CP, 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.10.2014 Décision / 2015 / 54
+
+CLASSEMENT DE LA PROCÉDURE | 14 CP, 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+743
+PE13.001861-CDT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+10 octobre 2014
+____________________
+Composition
+:               M.
+Abrecht
+,
+président
+M.
+Meylan et Mme Epard, juge suppléante
+Greffière
+:              Mme
+Matile
+*****
+Art.
+14 CP; 319, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 25 août 2014 par
+T.________
+contre l'ordonnance de classement rendue le 30 juillet 2014 par le Ministère public de l'arrondissement
+de La Côte dans la cause
+n° PE13.001861-CDT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 30 décembre 2012, le Groupe d'intervention de la police de Lausanne, composé du Sgm B.________,
+des Brg C.________ et Q.________ ainsi que des App O.________ et S.________, tous en tenue de protection
+complète, ont forcé la porte d'entrée d'un appartement sis rue [...], à Lausanne,
+afin d'interpeller T.________ contre lequel une plainte avait été déposée et qui
+était soupçonné de détenir une arme à feu.
+A la suite de son audition dans les locaux de la police, T.________ a été conduit aux urgences
+du CHUV pour un contrôle, car il se plaignait de douleurs aux côtes. Du rapport de sortie établi
+le même jour par le Dr  D.________, médecin-assistant, il ressort que le patient souffrait
+d'une probable fracture des côtes antérieures droites, sans que celle-ci ait néanmoins
+pu être objectivée à la radiographie. En outre, des dermabrasions en regard des épaules
+gauche et droite, au visage en regard de l'os malaire droit superficiel, ainsi qu'au niveau du tibia
+droit ont été constatées. Un traitement antalgique lui a été prescrit (P. 5/2).
+Le 3 janvier 2013, T.________ a également été examiné par le Dr P.________, médecin-assistant
+auprès de l'Unité de médecine des violences du CHUV. Le rapport médical établi
+le même jour décrit en détail les diverses lésions constatées lors de l'examen
+physique du patient, soit des ecchymoses, croûtes et abrasions cutanées diverses (P. 8/2).
+Le 16 janvier 2013, T.________ a déposé plainte contre les agents du Groupe d'intervention,
+indiquant que ceux-ci l'auraient immobilisé, l'auraient roué de coups de poing et de pied sur
+tout le corps et lui auraient donné un coup de matraque aux côtes droites, sans raison.
+Le 28 janvier 2013, la Procureure de l'arrondissement de La Côte a décidé de l'ouverture
+d'une instruction pénale pour lésions corporelles simples et abus d'autorité à la
+suite des faits intervenus lors de l'interpellation de T.________ le 30 décembre 2012.
+Par ordonnance du 11 mars 2013, la procureure a octroyé partiellement l'assistance judiciaire à
+T.________, celle-ci étant limitée à l'exonération d'avances de frais et de sûretés
+et à l'exonération des frais de procédure. En revanche, la désignation d'un conseil
+juridique gratuit à T.________ a été rejetée.
+B.
+Par ordonnance du 30 juillet 2014, la Procureure
+de l'arrondissement de La Côte a ordonné le classement des procédures pénales dirigées
+contre Q.________, B.________, C.________, S.________ et O.________ pour lésions corporelles simples
+et abus d'autorité (I à V), et a laissé les frais de procédure à la charge de
+l'Etat (VI).
+Soulignant que les versions des prévenus et du plaignant étaient irrémédiablement
+contradictoires, la procureure a considéré que rien, dans le cas particulier, ne permettait
+de retenir que les prévenus auraient volontairement frappé T.________ et auraient dépassé
+leurs prérogatives de policiers. De plus, l'élément subjectif de l'infraction de lésions
+corporelles simples, soit l'intention, faisait défaut.
+C.
+Par acte du 25 août  2014, T.________ a recouru contre cette ordonnance, concluant à son
+annulation et au renvoi de la cause au Ministère public pour nouvelle décision dans le sens
+des considérants. Préalablement, le recourant a sollicité la désignation de Me Laurent
+Maire comme conseil juridique gratuit, la décision d'octroi de l'assistance judiciaire du 11 mars
+2013 étant étendue dans cette mesure.
+Par avis du 8 septembre 2014, la procureure a indiqué qu'elle n'entendait pas déposer de déterminations.
+Le 3 octobre 2014, l'avocat Olivier Boschetti, agissant pour Q.________, B.________, C.________, S.________
+et O.________, a conclu, avec suite de frais et dépens, au rejet du recours.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de classement rendue par le ministère public en application
+des art. 319 ss CPP (Code de procédure pénale suisse du 5 octobre 2007, RS 312.0) dans les
+dix jours devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1
+let. b CPP), qui est dans le canton de Vaud la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse; RSV 312.01];
+art. 80 LOJV [loi vaudoise d’organisation judiciaire; RSV 173.01]).
+1.2
+Interjeté dans le délai légal auprès de l’autorité compétente par
+T.________, partie plaignante qui a qualité pour recourir (cf. art. 382 al. 1 CPP), le recours est
+recevable.
+2.
+Selon l'art. 319 al. 1 CPP, le ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+De manière générale, les motifs de classement sont ceux "qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement" (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. 1255).
+Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance confinant
+à la certitude. La possibilité de classer la procédure ne saurait toutefois être
+limitée à ce seul cas, car une interprétation aussi restrictive imposerait un renvoi en
+jugement, même en présence d'une très faible probabilité de condamnation (ATF 138
+IV 86 c. 4.1.1; TF 1B_272/2011 du 22 mars 2012 c. 3.1.1). Le principe "in dubio pro duriore"
+exige donc simplement qu'en cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation
+s'impose lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement (ATF 137 IV 219
+c. 7; ATF 138 IV 86 c. 4.1.1; ATF 138 IV 186 c. 4.1; TF 1B_272/2011 du 22 mars 2012 c. 3.1.1).
+3.
+3.1
+Conformément à l'art. 14 CP (Code pénal suisse du 21 décembre 1937, RS 311.0), quiconque
+agit comme la loi l'ordonne ou l'autorise se comporte de manière licite, même si l'acte est
+punissable en vertu de ce même code. Cette disposition reprend en substance l'art. 32 aCP, de sorte
+que la jurisprudence y relative conserve sa pertinence.
+La licéité de l'acte est, en tous les cas, subordonnée à la condition qu'il soit
+proportionné à son but (ATF 107 IV 84 c. 4). Il faut donc se demander si le préjudice
+porté aux droits de tiers n'excède pas ce qui est nécessaire pour atteindre le but qui
+le justifie (ATF 107 IV 84, précité, c. 4 et 4a; ATF 94 IV 5 c. 1 et 2a), en tenant compte
+des circonstances du cas d'espèce, soit de la justification et du type de la mesure prise, ainsi
+que des moyens et du temps dont disposait l'intéressé, selon la représentation qu'il avait
+des faits au moment où il a agi (TF 6B_930/2008 du 15 janvier 2009 c. 3.1 et la référence
+citée). Le respect de la proportionnalité est une question de droit, qui relève avant
+tout de l'appréciation, laquelle doit intervenir en se replaçant dans les circonstances concrètes
+du cas, en tenant compte de la réalité du terrain – notamment en matière d'intervention
+policière –, de l'urgence ou encore de l'état de tension dans lequel l'auteur pouvait
+être légitimement plongé. Ainsi, les autorités judiciaires ne doivent pas se livrer
+à des raisonnements a posteriori trop subtils pour établir si l'auteur n'aurait pas pu ou dû
+se contenter d'avoir recours à des moyens moins dommageables (Monnier, Commentaire romand, Code
+pénal I, Bâle 2009, n. 5 ad art. 14-18 CP, p. 172 et les références citées).
+Il était déjà acquis, aux termes de la jurisprudence et de la doctrine relatives à
+l'art. 32 aCP, que le devoir de fonction et le devoir de profession, tels qu'expressément prévus
+à l'art. 32 aCP, ne constituaient pas des justifications autonomes découlant directement de
+cette norme pénale, mais devaient également, conformément au principe de base, reposer
+sur une (autre) norme juridique écrite ou non écrite. L'art. 14 CP, à l'instar de l'art.
+32 aCP, ne renferme en lui-même aucun motif justificatif et ne constitue qu'une norme de renvoi,
+par exemple au droit public cantonal, s'agissant de déterminer l'existence et l'étendue d'un
+devoir de fonction (Monnier, op. cit., n. 21 ad art. 14-18 CP, p. 174 et la référence citée).
+En droit cantonal, l'art. 24 LPol (loi cantonale vaudoise du 17 novembre 1975 sur la police cantonale;
+RSV 133.11) interdit au fonctionnaire de police de faire subir à quiconque un outrage ou des mauvais
+traitements, mais prévoit que la police peut, pour l'accomplissement de son service, utiliser la
+force, dans une mesure proportionnée aux circonstances, lorsqu'il n'existe pas d'autre moyen d'agir.
+S'agissant de la Police Municipale de Lausanne, le Règlement général de la police de la
+commune de Lausanne, du 27 novembre 2001, dispose à son art. 7 al. 1 que la police locale
+ressortit à la Municipalité qui assure l'exécution du Règlement et veille à
+son application, par l'entremise du corps de police et des fonctionnaires qu'elle désigne à
+cet effet et précise à son art. 8 que l'usage de la force devra être proportionné
+aux circonstances et devra être l'ultime moyen de contrainte.
+3.2
+En l'espèce, le Groupe d'intervention de la Police de Lausanne est intervenu à la demande de
+ses collègues de la police de sûreté, car T.________ était soupçonné de
+détenir une arme à feu. Les inspecteurs de la police judiciaire sont restés sur le palier
+de l'appartement lorsque l'intervention a eu lieu. Des déclarations concordantes des prévenus
+et de K.________, inspectrice, il résulte que le Groupe d'intervention a procédé aux injonctions
+d'usage. Mis à part cela, K.________ a expliqué ne pas avoir entendu de bruits de coups ou
+des cris (PV aud. n°7, l. 51s.). Elle a également confirmé l'appréciation de ses
+collègues selon laquelle l'intervention avait duré environ 30 secondes, voire une minute au
+maximum et non 4 ou 5 minutes comme l'affirme le recourant. Ces diverses déclarations laissent peu
+de place à la version du recourant selon laquelle 4 ou 5 personnes se seraient jetées sur lui
+alors qu'il se trouvait encore au lit, l'auraient roué de coups jusqu'à ce qu'il s'évanouisse
+avant de le jeter à terre et à nouveau le rouer de coups et lui infliger un coup de matraque.
+En outre, si le recourant avait, comme il le prétend, réellement reçu de nombreux coups
+de pieds et de poings de la part d'hommes suréquipés, les lésions, telles qu'elles ont
+été objectivées dans le cadre du rapport médical à la suite du contrôle
+effectué au CHUV, auraient été bien plus graves. A cet égard, il n'est pas inutile
+de rappeler que, si le rapport des urgences du CHUV a fait état d'une suspicion de fracture des
+côtes, il ne mentionne pour l'essentiel que des dermabrasions. Ce constat, de même que celui
+résultant du rapport établi le 3 janvier 2013 par l'Unité des violences du CHUV, n'est
+pas compatible avec un passage à tabac de l'ampleur de celui décrit par le recourant, les rapports
+médicaux allant au contraire dans le sens de la version donnée par les policiers.
+Cela étant brièvement exposé, c'est à juste titre que la procureure a considéré
+que la version des prévenus, selon laquelle T.________ n'ayant pas obtempéré, il avait
+été plaqué au sol afin d'être entravé – ce qui avait pu lui occasionner
+les diverses dermabrasions constatées, voire la trace sur le visage si sa tête avait heurté
+le sol – était la plus plausible et, partant, qu'aucun abus d'abus d'autorité ne pouvait
+être reproché aux policiers, les lésions corporelles constatées restant dans les
+limites de l'art. 14 CP. Dans ces circonstances, la décision de classement ne prête pas le
+flanc à la critique.
+4.
+En définitive, le recours doit être rejeté et l'ordonnance de classement confirmée.
+Les frais de la procédure d'appel, constitués en l'espèce du seul émolument d'arrêt
+(art. 422 al. 1 CPP et 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; RSV 312.03.1]), par 880 fr. (sept cent septante francs), seront supportés
+par le recourant, qui succombe (art. 428 al. 1 CP). A cet égard, il convient encore de préciser
+qu'il n'y a pas lieu de statuer sur la demande de recourant de désigner son avocat comme conseil
+juridique gratuit, dès lors que la procureure avait déjà rejeté cette désignation
+par ordonnance du 11 mars 2013.
+Les intimés, qui, devant la Cour de céans,
+ont
+procédé avec l'assistance d'un conseil professionnel, ont droit à une indemnité pour
+les dépenses occasionnées par l'exercice raisonnable de leurs droits dans le cadre de la présente
+procédure de recours, conformément à l'art. 429 al. 1 let. a CPP (cf. CREP 22 septembre
+2011/435). Au vu du mémoire produit et des caractéristiques de la cause, l'indemnité allouée
+doit être arrêtée à 1'209 fr. 60 pour toutes choses.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 30 juillet 2014 est confirmée.
+III
+.
+Une indemnité de 1'209 fr. 60 est allouée aux intimés au titre de dépenses occasionnées
+par l’exercice de leurs droits de procédure, à la charge de l'Etat.
+IV.
+Les frais d'arrêt, par 880 fr. (huit cent huitante francs), sont mis à la charge du recourant.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Laurent Maire, avocat (pour T.________),
+-
+M. Olivier Boschetti, avocat (pour Q.________, B.________, C.________, S.________ et O.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
