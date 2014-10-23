@@ -1,0 +1,717 @@
+---
+decision_id: "vd_findinfo_AVS_59_12_ap._TF_-_42_2014"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+chamber: "AVS"
+docket: "AVS 59/12 ap. TF - 42/2014"
+decided: "2014-10-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CASSO/Arr%EAt/20140923084806259_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/642.11/art-027.md", "switzerland/bund/acts/642.11/art-034.md", "switzerland/bund/acts/830.1/art-061.md", "switzerland/bund/acts/831.10/art-005.md", "switzerland/bund/acts/831.10/art-068.md", "switzerland/bund/acts/831.101/art-009.md"]
+---
+
+# VD Findinfo AVS 59/12 ap. TF - 42/2014
+
+## Regeste
+
+SALAIRE DÉTERMINANT, FRAIS GÉNÉRAUX, REPRISE, COTISATION AVS/AI/APG, MOYEN DE PREUVE | 5 al. 2 LAVS, 9 al. 1 RAVS, 9 al. 2 RAVS
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 23.10.2014 AVS 59/12 ap. TF - 42/2014
+
+SALAIRE DÉTERMINANT, FRAIS GÉNÉRAUX, REPRISE, COTISATION AVS/AI/APG, MOYEN DE PREUVE | 5 al. 2 LAVS, 9 al. 1 RAVS, 9 al. 2 RAVS
+
+TRIBUNAL
+CANTONAL
+AVS
+59/12 ap. TF - 42/2014
+ZC12.045950
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Arrêt du
+23 octobre 2014
+__________________
+Présidence
+de               Mme
+Di
+Ferro Demierre
+Juges
+:              Mme
+Röthenbacher et M. Neu
+Greffière
+:              Mme
+Barman Ionta
+*****
+Cause
+pendante entre :
+V.________
+SA
+, à […], recourante, représentée
+par Me Christophe Piguet, avocat à Lausanne,
+Caisse
+K.________
+, à […], intimée,
+et
+A.P.________
+,
+à [...], et
+A.________
+,
+à [...], appelés en cause.
+_______________
+Art.
+5 al. 2 LAVS ; 9 al. 1 et 2 RAVS
+E n  f a i t  :
+A.
+La société V.________ SA (ci-après : V.________ SA) est affiliée en qualité
+d’employeur auprès de la Caisse K.________ (ci-après : la Caisse) depuis le 17 novembre 2000.
+Le 4 décembre 2000, V.________ SA a signé son bulletin d’adhésion par lequel elle
+a déclaré se soumettre aux statuts, règlements, lois et directives régissant l’AVS,
+l’AI et l’APG.
+En janvier 2010, la Caisse a procédé au contrôle d’employeur de la société
+au sens des art. 68 LAVS (loi fédérale sur l’assurance-vieillesse et survivants) et 163
+RAVS (règlement sur l’assurance-vieillesse et survivants). Le réviseur de la Caisse s’est
+rendu dans l’entreprise V.________ SA aux fins de vérifier le respect des dispositions d’employeur
+pour la période 2005 à 2008.
+Par courrier du 7 septembre 2010, la Caisse a imparti à V.________ SA un dernier délai échéant
+au 20 septembre 2010 pour prendre contact avec son réviseur afin de mettre un terme à la vérification,
+soulignant que ce dernier avait fait parvenir à la société, à plusieurs reprises,
+des demandes de renseignements complémentaires restées sans réponse et plusieurs dates
+de rendez-vous additionnels avaient été reportées, voire annulées. La Caisse a également
+rappelé à V.________ SA que, selon la loi fédérale sur l’assurance-vieillesse
+et survivants, « les employeurs affiliés aux caisses de compensation font l’objet
+d’un contrôle périodique visant à établir s’ils se conforment aux dispositions
+légales » et « celui qui s’oppose à un contrôle ordonné
+par l’autorité compétente ou le rend impossible de toute manière, sera puni d’une
+amende, assortie du dépôt d’une plainte pénale ».
+Le 16 septembre 2010, O.________, mandataire de la société V.________ SA, a fait savoir à
+la Caisse que ses clients étaient très étonnés du courrier du 7 septembre 2010,
+dans la mesure où un contrôle AVS avait déjà eu lieu dans les locaux de la société
+et une facture avait été établie, de surcroît réglée. La fiduciaire précisait
+par ailleurs que les rendez-vous avaient dû être annulés en raison de l’absence
+de ses clients.
+Le 21 septembre 2010, la Caisse a rappelé que son réviseur se devait de faire un complément
+de contrôle périodique de l’entreprise pour les années 2005 à 2008 comme indiqué
+dans la correspondance du 7 septembre 2010 ainsi que dans les divers courriels envoyés. Le complément
+de contrôle portait principalement sur les frais de représentation, les indemnités forfaitaires
+et les frais de véhicules. La Caisse demandait également que soit mis à sa disposition
+le règlement fiscal en matière de remboursement de frais professionnels du personnel approuvé
+par l’administration cantonale des impôts. Elle lui impartissait un ultime délai pour
+fixer un rendez-vous avec son réviseur et rappelait que sans réponse de la part de l’affiliée,
+elle facturerait d’office les reprises concernant les différents postes énumérés
+ci-dessus en fonction des quelques éléments en sa possession. Elle soulignait finalement que
+les factures dont la fiduciaire avait fait mention concernaient uniquement les différences constatées
+pour l’année 2004.
+Par la suite, des rendez-vous ont été fixés entre O.________ et le réviseur. Par
+courrier du 4 novembre 2010, la Caisse a fait savoir qu’elle renonçait à l’ultime
+entrevue prévue le 10 novembre 2010 dans la mesure où lors de l’entretien du 6 octobre
+2010, aucun élément susceptible de modifier les positions prises par son réviseur n’avait
+été fourni, à l’exception du règlement concernant les frais et indemnités
+forfaitaires agréés par l’administration cantonale des impôts. Elle constatait,
+de plus, que le directeur commercial de la société, A.P.________, ne souhaitait pas rechercher
+des justificatifs probants supplémentaires, de sorte que le rendez-vous lui paraissait superflu.
+La Caisse concluait que son réviseur s’en tiendrait aux constatations faites lors de son contrôle
+d’employeur initial et en fonction des seuls éléments en sa possession.
+Le réviseur a établi son rapport de contrôle le 10 décembre 2010, sur la base des
+renseignements donnés par B.P.________, A.P.________ et W.________, représentant O.________.
+Une liste des différences constatées lors du contrôle de l’entreprise était
+dressée, aux termes de laquelle le réviseur préconisait une série de reprises et
+conversions en salaire déterminant d’indemnités forfaitaires pour frais de véhicule
+et de déplacement. Particulièrement, il mentionnait, s’agissant du directeur commercial
+A.P.________, une reprise par 16'800 fr. sur la somme des indemnités forfaitaires pour frais de
+véhicule totalisant 30'000 fr. pour les années 2005 et 2006, et une reprise par 11'800 fr.
+sur un total de 25'000 fr. pour l’année 2007, avec la précision que ce dernier ne souhaitait
+pas rechercher puis produire les justificatifs probants demandés. Il était également question
+d’une reprise de 79'800 fr. en 2005 et 2006, et de 66'500 fr. en 2007, figurant sous le poste
+intitulé « divers » selon l’historique individuel d’A.P.________.
+S’agissant de A.________, collaborateur d’exploitation, il était préconisé
+une reprise – et conversion en salaire déterminant – par 17'314 fr. nets sur les indemnités
+pour frais de déplacement et de véhicule totalisant respectivement 19'332 fr. et 18'952 fr.
+en 2005, par 15'771 fr. nets pour frais de déplacement et de véhicule totalisant respectivement
+19'000 fr. et 18'278 fr. 50 en 2006, par 12'831 fr. nets pour frais de déplacement et de véhicule
+totalisant respectivement 18'550 fr. et 15'173 fr. en 2007, et par 4’544 fr. nets pour frais de
+déplacement et de véhicule totalisant respectivement 16'400 fr. et 7’089 fr. en 2008.
+S’agissant de B.________, collaborateur d’exploitation également, le réviseur préconisait
+une reprise – et conversion en salaire déterminant – par 2'574 fr. nets en 2006 sur
+les indemnités pour frais de déplacement et de véhicule totalisant respectivement 8'000
+fr. et 625 fr., et par 531 fr. nets en 2007 sur les indemnités pour frais de déplacement totalisant
+2'100 francs. Il résultait du rapport de contrôle des reprises et conversions en salaire déterminant
+d’un montant de 138'470 fr. en 2005, 129'649 fr. en 2006, 113'073 fr. en 2007 et 12'611 fr. en
+2008.
+Le 21 décembre 2010, la Caisse a rendu une décision d’assujettissement pour les années
+2005 à 2008 de 57'163 fr. 70 ainsi qu’une décision portant sur les intérêts
+moratoires sur cotisations arriérées pour la même période de 11'319 fr. 50 ;
+une facture d’un montant de 68'483 fr. 20 a été envoyée à l’entreprise
+V.________ SA. En outre, la Fédération vaudoise des entrepreneurs a rendu une décision
+d’assujettissement pour les années 2005 à 2008 de 3'780 fr. 95 relative aux indemnités
+journalières de l’assurance M.________.
+Le 18 janvier 2011, V.________ SA, par O.________, a formé opposition contre les décisions
+d’assujettissement AVS pour les années 2005 à 2008, contestant une partie des reprises
+du contrôle d’employeur, spécifiquement les frais de déplacement des salariés
+de l’entreprise, et la facture de 68'483 fr. 20 qui en découlait. Elle faisait valoir que
+tous les frais de déplacement des ouvriers de la société étaient prouvés par
+des pièces justificatives et que le réviseur n’avait jamais demandé à pouvoir
+contrôler ces pièces. Quant aux frais de déplacement d’A.P.________, ils étaient
+conformes aux accords passés avec l’administration cantonale des contributions.
+Par décision sur opposition du 27 avril 2011, la Caisse a rejeté l’opposition et confirmé
+sa décision d’assujettissement AVS du 21 décembre 2010, par 57'163 fr. 70, seule litigieuse
+au vu des griefs soulevés par l’opposante. Elle exposait notamment ce qui suit :
+«
+Nos
+investigations nous ont permis de décider ce qui suit :
+a.
+Les directives sur le salaire déterminant (DSD), édictées par l’OFAS, stipulent :
+«
+Les déductions
+de frais admises lors de la taxation fiscale n’ont pas force obligatoire pour la caisse de compensation
+»,
+chiffre 3005 et «
+Là
+où les paiements de l’employeur désignés comme indemnités pour frais encourus
+paraissent exagérés, la caisse de compensation doit examiner s’ils correspondent aux
+dépenses effectives. Dans le cas contraire, il y a lieu de les reprendre
+»,
+chiffre 3009.
+b.
+Les frais forfaitaires de déplacement et de représentation de Monsieur A.P.________ concernant
+les années 2005 à 2007 ont été acceptés à raison de CHF 6'000.- pour les
+années 2005 et 2006 et CHF 5'000.- pour l’année 2007, conformément au règlement
+de frais admis par l’administration cantonale des impôts.
+Les
+indemnités de véhicules allouées à M. A.P.________ à raison de CHF 30'000.-
+pour 2005 et 2006 et CHF 25'000.- pour 2007 paraissent exagérées et ne peuvent être admises
+en l’absence de justificatifs. Suite aux refus systématiques de produire des documents y afférents,
+notre réviseur a admis un montant annuel de CHF 13'200.- ; les différences font l’objet
+des reprises notifiées.
+c.
+Les importants montants alloués à titre de frais de déplacement et d’indemnités
+de véhicule n’ont pas été admis dans leur intégralité pour Messieurs A.________
+et B.________, salariés. En l’absence de justificatifs et du refus de renseigner, notre réviseur
+a admis un taux de 20% à titre de déduction du salaire brut, ce dernier comprenant le salaire
+ainsi que les frais.
+»
+La société V.________ SA a recouru le 23 mai 2011 auprès de la Cour des assurances sociales
+du Tribunal cantonal, concluant à l’annulation de la décision sur opposition. Elle faisait
+valoir que la Caisse n’aurait pas dû exiger la preuve littérale, sous la forme de justificatifs,
+des frais de déplacement, mais aurait dû se contenter de la preuve testimoniale ou mettre en
+œuvre une expertise comptable. Elle soutenait notamment que les montants forfaitaires et des reprises
+étaient arbitraires.
+Après interpellation et à titre de motivation complémentaire de son recours, V.________
+SA s’est référée à l’opposition que sa fiduciaire avait formée le
+18 janvier 2011 et selon laquelle tous les frais de déplacements des ouvriers avaient été
+prouvés par des pièces justificatives. A titre de mesure d’instruction, elle souhaitait
+qu’O.________ produise l’ensemble des pièces justificatives qui se rapportaient à
+la reprise des cotisations retenues par la décision dont est recours, soit celles relatives aux
+frais de déplacement, de représentation et d’indemnités de véhicule d’A.P.________
+concernant les années 2005 à 2007 ainsi que de A.________ et B.________. Elle demandait également
+l’audition du président de son conseil d’administration ainsi que de W.________ afin
+de comprendre les chiffres annoncés et d’obtenir une solution sauvegardant les intérêts
+légitimes de l’intimée.
+Le 20 juillet 2011, la Caisse a conclu au rejet du recours. Elle a estimé que les frais forfaitaires
+de déplacement ainsi que les montants des indemnités véhicules pour les années 2005
+à 2007 concernant A.P.________ paraissaient exagérés et ne pouvaient être admis en
+totalité en l’absence de justificatifs et en présence d’un refus systématique
+de renseigner et de produire les documents afférents. Elle a relevé que les montants alloués
+à titre d’indemnités de véhicules pour A.________ et B.________ n’avaient
+pas été admis dans leur intégralité, toujours en l’absence de justificatifs
+et en présence d’un refus systématique de renseigner et de produire les documents afférents ;
+elle se ralliait à l’avis de son réviseur, lequel avait admis un taux de 20% à titre
+de déduction du salaire brut.
+Par arrêt du 16 avril 2012 (AVS 16/11 – 18/2012), la Cour des assurances sociales du Tribunal
+cantonal a rejeté le recours formé par V.________ SA le 23 mai 2011 et confirmé la décision
+sur opposition rendue par la Caisse le 27 avril 2011. En substance, la Cour a considéré
+que la Caisse était en droit de se prononcer en l’état du dossier vu le manque de collaboration
+de la recourante.
+V.________ SA a déféré l’affaire au Tribunal fédéral, concluant au renvoi
+de la cause à la juridiction cantonale pour nouvelle décision.
+Par arrêt du 24 octobre 2012 (TF 9C_461/2012), la II
+e
+Cour de droit social du Tribunal fédéral a admis partiellement le recours, annulé le jugement
+cantonal du 16 avril 2012 et renvoyé la cause à l’instance précédente pour
+complément d’instruction au sens des considérants et nouvelle décision. Il exposait
+en substance ce qui suit :
+«
+[…]
+il ne ressort pas du dossier que la caisse aurait notifié ses décisions des 21 décembre
+2010 et 27 avril 2011 au titre de cotisations paritaires à A.P.________, directeur commercial, ainsi
+qu’à A.________ et B.________, salariés. Ces derniers n’ont pas non plus été
+invités par la juridiction cantonale à se déterminer sur le recours formé par la
+société recourante.
+Compte
+tenu de l’importance du montant réclamé, la caisse ne pouvait renoncer à communiquer
+ses décisions à A.P.________, A.________ et B.________. De leur côté, les premiers
+juges, en rejetant le recours et en exposant les prénommés à devoir rembourser la part
+de leurs cotisations à la recourante, sans les avoir au préalable invités à se déterminer,
+n’ont pas respecter les principes jurisprudentiels exposés ci-dessus.
+3.3
+Sans discuter le fond du litige, il se justifie dès lors d’annuler le jugement entrepris et
+de renvoyer l’affaire à la Cour des assurances sociales du Tribunal cantonal du canton de
+Vaud, afin qu’elle donne l’occasion à A.P.________, A.________ et B.________ de se déterminer
+et rende un nouveau jugement.
+»
+B.
+La cause a été reprise par la Cour des assurances sociales du Tribunal cantonal. Le 14 novembre
+2012, la juge instructeur a invité la Caisse à lui indiquer si les décisions des 21 décembre
+2010 et 27 avril 2011 avaient été notifiées à A.P.________, A.________ et B.________,
+à produire toutes pièces utiles et à déposer d’éventuelles déterminations.
+La juge instructeur a également interpellé le mandataire de V.________ SA afin qu’il
+lui transmette les adresses des trois personnes précitées et dépose ses déterminations.
+Le 3 décembre 2012, la Caisse a informé la Cour de céans qu’aucune décision
+n’avait été notifiée à A.P.________, A.________ et B.________, et qu’en
+conséquence, aucune pièce ne sera produite et aucune autre détermination ne sera prise.
+Pour le surplus, elle maintenait les conclusions prises le 20 juillet 2011.
+Le 4 décembre 2012, la recourante a remis céans les adresses d’A.P.________ et A.________,
+précisant que B.________ résidait actuellement au Kosovo et que son adresse exacte était
+inconnue.
+La recourante s’est déterminée le 8 janvier 2013. Elle fait grief à l’intimée
+d’avoir refusé à tort de rencontrer les administrateurs de la société ainsi
+que le représentant d’O.________, la privant de ce fait de son droit à prouver la quotité
+des frais allégués, et invoque une violation de l’art. 9 al. 1 RAVS, de la maxime inquisitoire
+et de l’interdiction de l’arbitraire. Elle fait par ailleurs valoir un défaut de motivation
+de la décision litigieuse, alléguant ne pas comprendre la mesure de la reprise et de la conversion
+effectuée par l’intimée. Finalement, elle conclut, sous suite de frais et dépens,
+à l’annulation de la décision litigieuse et au renvoi de la cause à l’intimée
+afin qu’elle corrige la décision d’assujettissement du 21 décembre 2010
+en admettant, dans leur intégralité, les indemnités forfaitaires pour frais de véhicules
+et de déplacement alloués aux salariés.
+Interpellé par la juge instructeur, A.P.________ s’est exprimé par écrit le 12 février
+2013, en ces termes :
+«
+J’ai
+travaill[é] dans la société V.________ SA depuis sa fondation, étant donné que
+la société V.________ SA n’av[ait] aucune clientèle nous avons contracté un
+forfait par mois pour l’utilisation de mon propre véhicule pour la recherche de la clientèle
+à un montant de Fr. 2'500.00 par mois.
+Ce
+montant était justifié, car il comprenait :
+-
+le kilométrage illimité ;
+-
+l’entretien du véhicule ;
+-
+l’usure des pneus ;
+-
+l’assurance et autres taxes ;
+-
+les repas de midi journaliers ;
+-
+les déplacements à l’étranger.
+A
+titre d’exemple, je pouvais parcourir jusqu’à 250 km par jour pour rencontrer des clients.
+De
+plus, il n’était pas rare que je me rende en Italie, notamment à la société
+[...], et la société [...] à Milan, soit à une distance d’environ 370 km de
+mon domicile.
+Par
+conséquent, je me joins au recours formé par V.________ SA contre les décisions de la
+Caisse de compensation des entrepreneurs, car les indemnités que j’ai indiquées étaient
+entièrement justifiées.
+»
+Par écrit du 18 février 2013, A.________ s’est exprimé comme suit :
+«
+A
+la suite de votre courrier du 21.01.2013 je vous confirme d’avoir travaillé pour V.________
+SA. Pendant toute ma période de travail j’ai toujours utilisé mon véhicule privé.
+Car tous les jours je me suis déplacé (pour montages, dépannages et réparations)
+avec ma voiture privée, et V.________ SA m’a remboursé les frais de kilomètres et
+de déplacements.
+»
+Dans ses déterminations du 8 mars 2013, la Caisse relève que les déclarations d’A.P.________
+et A.________ n’apportent aucun élément nouveau concernant les frais de déplacement
+et d’indemnités de véhicule, ces personnes n’ayant produit aucun justificatif probant
+permettant de leur donner raison. Elle confirme les conclusions prises le 20 juillet 2011.
+Par écrit du 15 avril 2013, la recourante se réfère au règlement concernant les frais
+et indemnités forfaitaires agréés par l’administration cantonale des impôts
+et aux déclarations d’A.P.________ pour critiquer le montant forfaitaire annuel de 13'200
+fr. retenu par l’intimée. Elle relève que les déclarations de A.________ confirment
+le fait qu’il utilisait un véhicule privé pendant toute sa période de travail. La
+recourante produit céans un courrier du 10 novembre 2003 de l’administration cantonale des
+impôts et ses annexes, ainsi que les décomptes d’heures effectuées par A.________
+et B.________ entre janvier 2005 et juin 2009, indiquant notamment les frais de déplacement et le
+nombre de kilomètres effectués avec leur véhicule privé. La recourante conclut qu’en
+l’absence d’éléments explicatifs, la décision du 21 décembre 2010 est
+arbitraire et ne peut être justifiée par « le seul et prétendu manque de collaboration »
+de la société.
+L’intimée s’est déterminée le 8 mai 2013, soulignant l’absence de pièces
+justificatives en lien avec les documents remis céans.
+E n  d r o i t  :
+1.
+La présente cause procède du renvoi ordonné par le Tribunal fédéral à la
+juridiction de céans.
+2.
+Selon la jurisprudence, les décisions des
+caisses de compensation relatives à des cotisations paritaires doivent en principe être notifiées
+non seulement à l’employeur, mais également aux salariés concernés. Des exceptions
+doivent toutefois être admises à ce principe, quoique de façon restrictive. Au nombre
+de ces exceptions, le Tribunal fédéral des assurances a envisagé le cas où le nombre
+des salariés est élevé, celui dans lequel le domicile des salariés se trouve à
+l’étranger ou n’est pas connu, ainsi que celui où il s’agit de montants de
+cotisations de minime importance. Le Tribunal fédéral a en outre établi que, lorsque l’administration
+a omis de notifier la décision aux travailleurs intéressés, le juge de première instance
+doit, lors de la procédure de recours, inviter ces derniers à intervenir, sous réserve
+des exceptions mentionnées ci-dessus (ATF 113 V 1 consid. 2 et les références).
+En l’occurrence, A.P.________ et A.________ ont été invités à se déterminer
+dans la présente procédure, conformément à l’arrêt de renvoi du Tribunal
+fédéral, ce qui remédie à la violation de leur droit d’être entendu en
+procédure administrative.
+Dans la mesure où B.________ a quitté la Suisse pour le Kosovo, la recourante ignorant par
+ailleurs l’adresse de ce dernier, il se justifie de renoncer à l’interpeller dans le
+cadre de la présente procédure.
+3.
+Sur le fond, est litigieuse la question de savoir si la Caisse était en droit de procéder à
+la reprise en tant que salaire déterminant de frais de déplacement, de représentation
+et de véhicules des salariés de l’entreprise recourante pour les années 2005 à
+2008.
+a)
+Le salaire déterminant pour le calcul des cotisations comprend toute rémunération pour
+un travail dépendant, fourni pour un temps déterminé ou indéterminé (art. 5
+al. 2 LAVS). Font partie de ce salaire déterminant, par définition, toutes les sommes touchées
+par le salarié, si leur versement est économiquement lié au contrat de travail ;
+peu importe, à ce propos, que les rapports de service soient maintenus ou aient été résiliés,
+que les prestations soient versées en vertu d’une obligation ou à titre bénévole
+(ATF 128 V 176 consid. 3c ; 126 V 221 consid. 4a ; 124 V 100 consid. 2, et la jurisprudence
+citée). On considère donc comme revenu d’une activité salariée, soumis à
+cotisations, non seulement les rétributions versées pour un travail effectué, mais en
+principe toute indemnité ou prestation ayant une relation quelconque avec les rapports de service,
+dans la mesure où ces prestations ne sont pas franches de cotisations en vertu de prescriptions
+légales expressément formulées. Selon cette description du salaire déterminant, sont
+en principe soumis à l’obligation de payer les cotisations paritaires tous les revenus liés
+à des rapports de travail ou de service qui n’auraient pas été perçus sans
+ces rapports. Inversement, l’obligation de payer des cotisations ne concerne en principe que les
+revenus qui ont été effectivement perçus par le travailleur (ATF 131 V 444 consid. 1.1
+et les références).
+b)
+D’après l’art. 9 al. 1 RAVS (règlement du 31 octobre 1947 sur l’assurance-vieillesse
+et survivants ; RS 831.101), les frais généraux sont les dépenses résultant
+pour le salarié de l’exécution de ses travaux ; le dédommagement pour frais
+encourus n’est pas compris dans le salaire déterminant. Plus précisément, les frais
+généraux représentent les dépenses qui, dans la période de calcul, sont directement
+nécessaires à l’acquisition du gain de l’activité lucrative (art. 27 LIFD
+[loi fédérale du 14 décembre 1990 sur l’impôt fédéral direct ;
+RS 642.11]). Ceux-ci n’incluent pas les dépenses qui servent à l’acquisition
+ou au développement de la source du revenu : entreprise, commerce ou exploitation (art. 34
+let. d LIFD), ni les indemnités accordées régulièrement pour le déplacement
+du domicile au lieu de travail habituel et pour les repas courants pris au domicile ou au lieu de travail
+habituel ; ces indemnités font en principe partie du salaire déterminant (art. 9 al. 2
+RAVS).
+Pour admettre le caractère de frais généraux de dépenses données, il faut, en
+plus du lien de causalité avec l’activité professionnelle, d’une part qu’il
+s’agisse de dépenses strictement nécessaires en vue de l’acquisition du salaire
+et, d’autre part, qu’elles ne représentent pas une utilisation du salaire pour couvrir
+le coût de la vie en général (VSI 2001 p. 214 ; Michel Valterio, Droit de l’assurance-vieillesse
+et survivants [AVS] et de l’assurance-invalidité [AI] : commentaire thématique,
+Genève 2011, p. 125 ss). A moins que la situation ne soit d’emblée claire pour qualifier
+les dépenses de frais non soumis à cotisations, il y a lieu d’examiner au cas par cas
+si la condition de la nécessité pour acquérir le salaire est réalisée. Cette
+condition doit être dûment établie en raison de la formulation plutôt restrictive
+de l’art. 9 al. 1 RAVS. Au sens de la jurisprudence et de la pratique administrative présentent
+notamment le caractère de frais généraux, les frais de voyage de service (frais de transport,
+de nourriture et de logement) sous réserve de l’art. 9 al. 2 RAVS, les frais de représentation
+et les dépenses pour la clientèle, les frais de matériels et de vêtements de travail,
+les frais d’utilisation de locaux affectés à l’exercice de l’activité
+lucrative, les frais de déménagement pour raisons professionnelles.
+Les frais généraux sont en principe déduits à concurrence de leur montant effectif.
+Selon la jurisprudence, l’employeur ou le salarié doit prouver ou du moins rendre vraisemblable
+que ces frais ont effectivement été encourus. En vertu de la maxime inquisitoire, l’administration
+ne peut toutefois pas se contenter de constater que la personne n’a pas réussi à prouver
+les faits qu’elle invoque ou du moins à les rendre suffisamment vraisemblables. Il lui incombe
+également de se procurer les documents nécessaires pour autant que cela n’implique pas
+des démarches administrative disproportionnées (arrêt TF H 81/89 du 19 octobre 1989 consid.
+4, in RCC 1990 p. 41). S’il est établi que ces frais ont été encourus et que des
+circonstances spéciales empêchent leur preuve stricte, ceux-ci doivent être estimés
+par les caisses de compensation en tenant compte d’indications crédibles (arrêt H 1/93
+du 2 décembre 1993 consid. 3b, in RCC 1994 p. 170).
+Les déductions de frais admises par les autorités fiscales ne lient en principe pas les caisses
+de compensation (arrêt TF H 135/05 du 5 avril 2007). Selon la pratique administrative, les caisses
+de compensation admettent toutefois les règlements de remboursement des frais au moyen d’indemnités
+forfaitaires approuvés par les autorités fiscales, lorsqu’ils sont conformes au droit
+de l’AVS et que les frais approuvés ne sont pas manifestement exagérés. Le forfait
+doit néanmoins correspondre pour le moins dans son ensemble aux frais effectifs, c’est-à-dire
+qu’il doit refléter les circonstances effectives du cas (TF 9C_841/2012 du 10 mai 2013).
+En l’absence d’une déclaration de frais pour les impôts ou lorsque l’employeur
+ne décompte pas les frais sur la base de justificatifs, ni au moyen d’indemnités forfaitaires,
+à l’intention des autorités fiscales, mais qu’il est établi que ces frais
+ont été encourus et que des circonstances spéciales empêchent leur preuve stricte,
+ceux-ci doivent être estimés par la caisse de compensation (RCC 1990 p. 41).
+A
+cet égard, le ch. 3013 des directives sur le salaire déterminant dans l’AVS, AI et APG,
+édictées par l’Office fédéral des assurances sociales [OFAS] valables dès
+le 1
+er
+janvier 2008 (ci-après : DSD), prévoit :
+«
+Lorsqu'il
+n'est pas possible de prouver le montant des frais effectifs et en l'absence d'un règlement de remboursement
+des frais approuvés par l'autorité fiscale compétente, le montant forfaitaire indiqué
+dans le certificat de salaire à l'intention des autorités fiscales […] sera admis à
+titre d'indemnité pour frais encourus, à moins qu'il soit manifestement exagéré.
+Il peut notamment permettre d'analyser les frais de voiture, de représentation, les frais divers
+ou encore d'autres frais.
+»
+Le forfait doit correspondre pour le moins dans son ensemble aux frais effectifs, c'est-à-dire qu'ils
+doivent refléter les circonstances effectives du cas. Ce point est tranché en se fondant sur
+les circonstances de la situation concrète. Le montant forfaitaire peut notamment être établi
+lors d'un contrôle d'employeur (ch. 3014 DSD).
+Là où les paiements de l’employeur désignés comme indemnités pour les
+frais encourus paraissent exagérés, la caisse de compensation doit examiner s’ils correspondent
+aux dépenses effectives. Dans le cas contraire, il y a lieu de les réexaminer (ch. 3015 DSD).
+4.
+La procédure dans le domaine des assurances sociales est régie par le principe inquisitoire,
+selon lequel les faits pertinents de la cause doivent être constatés d'office par le juge.
+Ce principe n'est cependant pas absolu. Sa portée est restreinte par le devoir des parties de collaborer
+à l’instruction de l'affaire. Celui-ci comprend en particulier l’obligation des parties
+d'apporter, dans la mesure où cela peut raisonnablement être exigé d'elles, les preuves
+commandées par la nature du litige et des faits invoqués, faute de quoi elles risquent de devoir
+supporter les conséquences de l’absence de preuves (ATF 125 V 193 consid. 2 ; arrêt
+TF I 90/04 du 6 mai 2004 consid. 2 et les références citées in : REAS 2004 p.
+242 ; voir aussi Alfred Bühler, Die Prozessarmut in : Frais de justice, frais d'avocats,
+cautions/sûretés, assistance juridique, Berne 2001, pp. 186 ss).
+Selon la jurisprudence et la doctrine, l'autorité administrative ou le juge ne doivent considérer
+un fait comme prouvé que lorsqu'ils sont convaincus de sa réalité (Max Kummer, Grundriss
+des Zivilprozessrechts, 4
+e
+éd., Berne 1984, p. 136 ; Fritz Gygi, Bundesverwaltungsrechtspflege, 2
+e
+éd., Berne 1983, p. 278 ch. 5). Dans le domaine des assurances sociales, le juge fonde sa décision,
+sauf dispositions contraires de la loi, sur les faits qui, faute d’être établis de manière
+irréfutable, apparaissent comme les plus vraisemblables, c'est-à-dire qui présentent un
+degré de vraisemblance prépondérante. Il ne suffit donc pas qu'un fait puisse être
+considéré seulement comme une hypothèse possible. Parmi tous les éléments de
+fait allégués ou envisageables, le juge doit, le cas échéant, retenir ceux qui lui
+paraissent les plus probables (ATF 126 V 353 consid. 5b, 125 V 193 consid. 2 ; ATF 130 III 321 consid.
+3.2 et 3.3). Aussi n'existe-t-il pas, en droit des assurances sociales, un principe selon lequel l'administration
+ou le juge devrait statuer, dans le doute, en faveur de l'assuré (ATF 126 V 319 consid. 5a).
+5.
+En l’espèce, la caisse intimée a, dans le cadre d’une reprise fondée sur un
+contrôle d’employeur effectué par son service de révision, qualifié de salaires
+déterminants des sommes versées par la société recourante à ses salariés,
+alors que ladite société a fait valoir qu’il s’agissait de frais forfaitaires de
+déplacement, de représentation et d’indemnités de véhicule, de surcroît
+prouvés par des pièces justificatives.
+Dans le cadre de la procédure ouverte en 2011 devant l’autorité de céans, il a été
+constaté un manque de collaboration de la recourante à l’instruction de la cause, cette
+dernière n’ayant pas produit, en dépit des requêtes de l’intimée, les
+justificatifs relatifs aux frais de déplacements, représentations et véhicules, son directeur
+commercial ayant de surcroît déclaré qu’il n’entendait pas rechercher puis
+produire les justificatifs probants demandés. A la suite de l’arrêt du Tribunal fédéral,
+A.P.________ et A.________ ont été interpellés et des pièces ont été produites,
+notamment les décomptes d’heures effectuées par A.________ et B.________ entre janvier
+2005 et juin 2009.
+a)
+D’après le rapport de contrôle du 10 décembre 2010, les montants alloués à
+titre de frais de déplacement et d’indemnités de véhicule n’ont pas été
+admis dans leur intégralité pour les salariés A.________ et B.________. S’il a certes
+reconnu que de tels frais ont été encourus, le réviseur a procédé à une
+estimation, en l’absence de justificatifs et eu égard au refus de renseigner de la société
+recourante, retenant ainsi un taux de 20% à titre de déduction du salaire brut, ce dernier
+comprenant le salaire ainsi que les frais.
+aa)
+Le réviseur a admis, s’agissant de A.________, des frais de déplacement et de véhicule
+à hauteur de 20'970 fr. en 2005 (19'332 fr. + 18'952 fr. – 17'314 fr.), de 21'504 fr. 50 en
+2006 (19'000 fr. + 18'278 fr. 50 – 15'771 fr.), de 20'892 fr. en 2007 (18'550 fr. + 15'173
+fr. – 12'831 fr.) et de 18'945 fr. en 2008 (16'400 fr. + 7'089 fr. – 4'544 fr.).
+En examinant les décomptes d’heures de A.________, on constate que les indemnités pour
+frais de véhicule et de déplacement correspondent peu ou prou aux montants retenus par le réviseur
+dans son rapport de contrôle. Cela étant, l’indemnisation des frais de déplacements
+professionnels effectués au moyen d’un véhicule privé s’élève, selon
+les décomptes produits, à 1 fr. par kilomètre, alors que le règlement fiscal en matière
+de remboursement de frais professionnels du personnel prévoit que « les frais découlant
+de l’utilisation à des fins professionnelles d’un véhicule privé aux conditions
+fixées par l’entreprise sont réglés sur la base d’une indemnité kilométrique
+raisonnable, de fr. 0.70 ». Ainsi, en admettant les kilomètres tels que mentionnés
+dans les décomptes horaires de A.________, bien que ces kilomètres varient entre zéro
+et trois mille sans réelles explications, des frais de véhicule seraient pris en compte à
+hauteur de 13'266 fr. 40 en 2005 (18'952 fr. x 0.70), de 11'912 fr. 95 en 2006 (17'018 fr. 50 x
+0.70), de 9'975 fr. 70 en 2007 (14'251 fr. x 0.70) et de 4'962 fr. 30 en 2008 (7'089 fr. x
+0.70).
+Entre janvier 2005 et décembre 2008, soit en l’espace de quarante-huit mois, on constate que
+des frais de déplacement quotidien, d’un montant de 100 fr., ont été alloués
+au cours de trente-quatre mois, et que des frais de déplacement ont été alloués pour
+un montant de 50 fr. ou plus, au cours de huit mois ; le forfait pour les six mois restant variait
+entre 16 fr. et 40 francs. Il sied de préciser qu’au cours d’un mois, l’indemnité
+de déplacement était accordée au même tarif chaque jour. En outre, des frais de déplacement
+d’un montant de 100 fr. étaient alloués tant lorsque A.________ parcourait près
+de trois mille kilomètres par mois, mille kilomètre par mois, ou lorsqu’il n’en
+effectuait aucun (p. ex. décembre 2005, décembre 2007, juin, juillet et août 2008). A
+cet égard, on constate que A.________ n’a parcouru aucun kilomètre avec son véhicule
+privé pendant sept mois (non consécutifs), alors que dans son écrit du 18 février
+2013 adressé céans, il a confirmé avoir toujours utilisé son véhicule privé
+et s’être déplacé tous les jours ; il n’a pas mentionné avoir emprunté
+les transports publics ou utilisé un véhicule d’entreprise. Il n’a par ailleurs
+pas allégué avoir dû effectué des voyages, engageant de ce fait d’autres frais
+que ceux liés à l’utilisation quotidienne de son véhicule, étant au demeurant
+relevé que tous les décomptes produits indiquent « 7 heures » comme heure
+d’arrivée et « 16 heures 50 » comme heure de départ. On peine
+dès lors à comprendre, en l’absence de pièces justificatives, la nature des frais
+de déplacement de A.________, ce d’autant plus que le règlement concernant les frais
+et indemnités forfaitaires agréés par l’administration cantonale des impôts
+prévoit qu’« à chaque retour de mission, le collaborateur établira une
+formule de décompte de frais. En principe, toute somme qui excède une certaine limite (par
+exemple : fr. 20.--) devra être appuyée par un justificatif (par exemple : repas,
+titres de transports, note d’hôtels). […] L’entreprise tient à disposition
+de l’autorité fiscale, en tout temps, les pièces justifiant les dépenses professionnels
+de ses employés ». Partant, si l’on peut raisonnablement admettre que des frais
+de déplacement ont été encourus, on peut tout au plus retenir l’indemnité forfaitaire
+de 25 fr. par jour, pour les repas de midi, telle que figurant dans le règlement précité,
+et au demeurant évoquée par A.P.________ dans son écrit du 12 février 2013. Il s’ensuit
+qu’un montant annuel d’environ 6'000 fr. (48 semaines de travail x 5 jours de travail
+x 25 fr.) peut être retenu à titre de frais de déplacement.
+Sur la base de ce qui précède, on constate que les montants ainsi estimés par la Cour
+sont inférieurs aux montants admis par le réviseur de l’intimée :
+année
+contrôlée
+frais
+estimés par la Cour
+frais
+admis par le réviseur
+2005
+19'266
+fr.
+20'970
+fr.
+2006
+17'912 fr. 95
+21'504 fr. 50
+2007
+15'975 fr. 70
+20'892
+fr.
+2008
+10'962 fr. 30
+18'945
+fr.
+bb)
+S’agissant de B.________, en l’absence de déterminations de ce dernier, seuls les décomptes
+d’heures produits céans permettent de se prononcer sur l’estimation effectuée par
+le réviseur.
+B.________ a œuvré, semble-t-il, pour l’entreprise V.________ SA de septembre 2006 à
+janvier 2007 et de mars à juin 2007, aucun décompte d’heures pour le mois de février
+2007 n’ayant été produit. Cela étant, on constate que le salarié n’a
+parcouru que 625 km en septembre 2006, indemnisés selon le barème kilométrique de 1 fr. ;
+selon le forfait de 70 centimes par kilomètres (cf. consid. 5a/aa
+supra
+),
+l’indemnité pour frais de véhicule se chiffre à 437 fr. 50. S’agissant des
+frais de déplacement, il a été retenu le forfait de 100 fr. par jour pour les cinq premiers
+mois, puis de 18 fr. pour les mois de mars et mai, de 40 fr. pour le mois d’avril et de 30 fr.
+pour le mois de juin. Aucun élément ne justifie ces différences.
+Partant, dans la continuité de ce qui a été retenu précédemment pour A.________,
+on peut estimer l’indemnité de déplacement à 4'500 fr. (36 semaines de travail
+x 5 jours de travail x 25 fr.) à laquelle s’ajoute l’indemnité pour frais de véhicule
+de 437 fr. 50. Le total de 4'937 fr. 50, couvrant la période de septembre 2006 à juin 2007,
+est ainsi inférieur au montant de 7'620 fr. (6'051 fr. en 2006 et 1'569 fr. en 2007) admis par le
+réviseur ; son estimation n’est dès lors pas critiquable.
+b)
+Les indemnités de véhicule allouées à A.P.________ à raison de 30'000 fr. pour
+2005 et 2006, et de 25'000 fr. en 2007 n’ont pas été admises dans leur intégralité.
+A la suite de refus systématiques de produire les documents y afférents, le réviseur a
+finalement admis un montant annuel de 13'200 fr. ; les différences ont fait l’objet de
+reprises et conversions en salaires déterminants.
+A.P.________ a persisté dans son refus de produire les justificatifs probants demandés. Les
+éléments versés au dossier ne permettent pas de dire si les dépenses couvertes par
+le montant forfaitaire de 30'000 fr. – puis 25'000 fr. – correspondent réellement aux
+frais nécessités par l’exercice de la profession et, pour le moins dans leur ensemble,
+aux frais effectivement encourus. La société recourante, et particulièrement A.P.________,
+n’ont fait état d’aucune circonstance objective les empêchant d’en apporter
+la preuve stricte. Devant l’autorité de céans, l’intéressé a allégué
+avoir « contracté » un forfait mensuel de 2'500 fr. pour l’utilisation
+de son propre véhicule pour la recherche de la clientèle, qu’il justifiait par le kilométrage
+illimité, l’entretien du véhicule, l’usure des pneus, l’assurance et autres
+taxes, les repas de midi journaliers et les déplacements à l’étranger. Si une indemnité
+forfaitaire peut être versée à un salarié, celle-ci doit correspondre approximativement
+au nombre de kilomètres parcourus annuellement, multiplié par le montant de l’indemnité
+kilométrique. Le barème a été fixé à 70 centimes par kilomètre par
+l’administration cantonale des impôts ; il prend en compte l’ensemble des frais
+du véhicule (amortissement, assurance, réparations, carburant, etc.). Partant, l’entretien
+du véhicule, l’usure des pneus et l’assurance et autres taxes allégués par
+l’intéressé se recoupent dans l’indemnité telle que fixée. Cela étant,
+les explications sommaires d’A.P.________ relatives aux déplacements qu’il effectuerait
+dans le cadre de son activité professionnelle ne sauraient emporter la conviction de la Cour. Aucune
+pièce justificative n’étaye ses allégations, alors que le règlement fiscal
+en matière de remboursement de frais professionnels du personnel prévoit qu’à chaque
+retour de mission, une formule de décompte de frais sera établie, appuyée par des justificatifs.
+Partant, en l’absence de justificatifs et eu égard au refus systématique de produire
+les documents y afférents, la Cour se rallie à l’estimation du réviseur, lequel
+a admis une indemnité forfaitaire pour frais de véhicule d’un montant annuel de 13'200
+francs.
+S’agissant de la reprise de 79'800 fr. en 2005 et 2006, 66'500 fr. en 2007, figurant sous le poste
+« divers », elle n’apparaît pas critiquable, la recourante ne rendant
+pas vraisemblable que ces reprises seraient fausses. Par ailleurs, dans les annexes du règlement
+fiscal en matière de remboursement de frais professionnels du personnel, l’administration
+cantonale des impôts a approuvé le montant annuel de 6'000 fr., à titre d’indemnité
+pour frais de représentation en faveur du directeur commercial A.P.________. Si le réviseur
+a retenu le montant de 5'000 fr. en 2007 – en lieu et place des 6'000 fr. retenus en 2005 et 2006
+–, on constate qu’A.P.________ a annoncé un montant de 25'000 fr. en 2007, alors que
+le montant de 30'000 fr. était annoncé pour les années précédentes ;
+il appert ainsi une réduction proportionnelle des frais de représentation (1/6) à l’encontre
+de laquelle l’intéressé ne fait valoir aucun argument objectif de nature à remettre
+en cause le montant retenu par le réviseur. Partant, il n’y a pas lieu de s’écarter
+de ces chiffres, de sorte que les reprises et conversions en salaires déterminants telles que figurant
+dans le rapport de contrôle peuvent être admises.
+c)
+A l’aune de ce qui précède, force est d’admettre qu’en l’absence de
+justifications sur la nature de certains versements, ceux-ci ne peuvent être qualifiés, dans
+leur intégralité, de remboursement de frais ne faisant pas partie du salaire déterminant.
+Ni l’existence des frais allégués ni leur importance n’apparaissent vraisemblables
+au degré requis par la jurisprudence, les pièces versées au dossier par la recourante
+ne fournissant pas de renseignements suffisants pour en apprécier la portée. Partant, il convient
+de suivre l’intimée quant aux reprises et conversions en salaire déterminant d’indemnités
+pour frais de véhicule, de déplacement et de représentation, telles que résultant
+du contrôle d’employeur effectué par son service de révision. Les estimations n’apparaissent
+pas critiquables, la recourante se contentant au demeurant de les déclarer arbitraires sans rendre
+vraisemblable leur fausseté.
+Pour le surplus, le calcul des arriérés de cotisations par 57'163 fr. 70 est clairement explicité
+par l’intimée, tant dans le rapport de contrôle d’employeur, dans le résultat
+de la révision que dans la facture. La caisse y indique à quel titre les montants sont dus
+(AVS/AI/APG, AC, frais administratifs, allocations familiales), le taux applicable et les périodes
+auxquelles ils se rapportent. Un simple calcul permet de vérifier l’exactitude de la somme
+litigieuse. Quant aux intérêts moratoires réclamés, ils ne sont ni contestés,
+ni contestables.
+d)
+En définitive, le recours, mal fondé, doit être rejeté, ce qui entraîne la confirmation
+de la décision querellée.
+6.
+Il n’y a pas lieu de percevoir de frais judiciaires, dès lors que la procédure est gratuite
+(art. 61 let. a LPGA), ni d’allouer de dépens à la recourante, qui voit ses conclusions
+rejetées (art. 61 let. g LPGA et 55 LPA-VD).
+Les appelés en cause A.P.________ et A.________ n’ont pas droit à des dépens (art.
+61 let. g LPGA).
+Par
+ces motifs,
+la
+Cour des assurances sociales
+prononce :
+I.
+Le recours est rejeté.
+II.
+Les conclusions des appelés en cause A.P.________ et A.________ sont rejetées.
+III.
+La décision sur opposition rendue le 27 avril 2011 par la Caisse K.________ est confirmée.
+IV.
+Il n’est pas perçu de frais judiciaires ni alloué de dépens.
+La
+présidente :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+‑
+Me Christophe Piguet (pour V.________ SA)
+‑
+Caisse K.________
+-
+A.P.________
+-
+A.________
+-
+Office fédéral des assurances sociales
+par
+l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
