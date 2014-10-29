@@ -1,0 +1,194 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___86"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 86"
+decided: "2014-10-29"
+published: "2014-10-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4768822"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-386.md"]
+---
+
+# VD Findinfo Décision / 2015 / 86
+
+## Regeste
+
+APPEL{CPP}, RETRAIT{VOIE DE DROIT}, INDEMNITÉ{EN GÉNÉRAL}, DÉFENSE D'OFFICE | 135 CPP (CH), 386 al. 2 let. a CPP (CH), 428 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 29.10.2014 Décision / 2015 / 86
+
+APPEL{CPP}, RETRAIT{VOIE DE DROIT}, INDEMNITÉ{EN GÉNÉRAL}, DÉFENSE D'OFFICE | 135 CPP (CH), 386 al. 2 let. a CPP (CH), 428 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+327
+PE13.009767-PBR
+COUR
+D’APPEL PENALE
+______________________________
+Séance
+du 29 octobre 2014
+__________________
+Présidence
+de               Mme
+Favrod
+,
+présidente
+Juges
+:              MM.
+Battistolo et Pellet
+Greffier
+:              M.
+Quach
+*****
+Parties
+à la présente cause :
+N.________
+,
+prévenu, représenté par Me Julien Lanfranconi, défenseur d'office à Lausanne,
+appelant,
+et
+Ministère
+public
+, représenté par la Procureure
+de l'arrondissement de Lausanne, intimé,
+B.________
+,
+plaignant, représenté par Me Charlotte Iselin, conseil d'office à Lausanne, intimé.
+Vu le jugement du 2 septembre 2014 par lequel le Tribunal correctionnel de l’arrondissement de
+Lausanne a constaté que N.________ s'était rendu coupable de lésions corporelles graves
+(I), condamné N.________ à une peine privative de liberté de 14 mois, dont 7 mois à
+titre ferme, sous déduction de 215 jours de détention avant jugement, et le solde, par 7 mois,
+avec sursis pendant
+3 ans (II), dit que
+N.________ était débiteur de B.________ de 15'000 fr., avec intérêts à 5 % l'an
+dès le 16 mai 2013, à titre d'indemnité pour tort moral, ainsi que de 358 fr. 10 et 350
+fr. à titre de dommages et intérêts (III), arrêté à 4'787 fr. 25 l'indemnité
+allouée à Me Charlotte Iselin, à la charge de l'Etat (IV) et mis les frais de la cause,
+par 22'956 fr. 90, à la charge de N.________, y compris l'indemnité allouée à son
+défenseur d'office, par 8'220 fr., dont le remboursement à l'Etat n'était exigible que
+si la situation financière du débiteur le permettait (V).
+vu l’annonce du 11 septembre 2014 et la déclaration du 8 octobre suivant, par lesquelles N.________
+a formé appel contre ce jugement,
+vu le courrier du 21 octobre 2014, par lequel N.________ a déclaré retirer l'appel déposé,
+vu la liste des opérations déposée le 27 octobre 2014 par l'avocat Julien Lanfranconi,
+défenseur d'office de N.________,
+vu les pièces du dossier;
+attendu
+qu'aux termes de l'art. 386 al. 2 let.
+a CPP, quiconque a interjeté un recours peut le retirer, s'agissant d'une procédure orale,
+avant la clôture des débats,
+qu'en l’espèce, N.________ a déclaré retirer son appel,
+qu’il y a lieu de prendre acte de ce retrait, les conditions de l'art. 386 al. 2
+let. a CPP étant réalisées, et de rayer la cause du rôle,
+que le jugement entrepris est dès lors exécutoire;
+attendu qu'il y a lieu de fixer l’indemnité du défenseur d'office de N.________ pour
+la procédure d’appel,
+qu'aux termes de l'art. 135 al. 1 CPP, le défenseur d'office est indemnisé conformément
+au tarif des avocats de la Confédération ou du canton du for du procès,
+que d'après la jurisprudence fédérale, le tarif horaire de l'avocat d'office  vaudois
+est de 180 fr. pour l'avocat breveté et 110 fr. pour l'avocat stagiaire, plus TVA à 8% et débours
+(ATF 132 I 201 c. 8.7; TF 6B_810/2010 du 25 mai 2011 c. 2.4),
+qu'en l'espèce, l'avocat Julien Lanfranconi allègue avoir consacré huit heures et trente
+minutes à l'accomplissement de son mandat en procédure d'appel (P. 84/2),
+qu'au regard de la nature et de la complexité de l'affaire, le nombre d'heures allégué
+s’avère excessif,
+qu'en particulier, il n'y a pas lieu d'indemniser la transmission d’une copie de courrier à
+la partie adverse, ni la transmission en copie d’une lettre ou d’un acte de l’autorité,
+dans la mesure où il ne s'agit pas d’une activité qui serait le propre de l’avocat,
+mais de pur travail de secrétariat (Juge unique CREP 25 sept­embre 2014/699 c. 2b; Juge unique
+CREP 2 juin 2014/379 c. 2b),
+qu'une demi-heure doit être retranchée pour ce motif,
+qu'en outre, le temps consacré à la rédaction de l'appel à proprement parler, de
+six heures, est excessif au regard du fait que le défenseur d'office, dont la désignation est
+intervenue la semaine qui a suivi l'ouverture de l'instruction pénale, avait nécessairement
+une complète connaissance du dossier,
+que deux heures doivent être retranchées pour ce motif,
+qu'au vu de ce qui précède, l'indemnité d'office à allouer à l'avocat Julien
+Lanfranconi sera arrêtée au montant de 1'080 fr., plus la TVA, par 86 fr. 40, soit 1'166 fr.
+40, selon le calcul suivant :
+- rédaction de l'appel (4 heures)
+720 fr.
+- établissement d'un bordereau (10 minutes)
+30 fr.
+- un courrier au Tribunal correctionnel (10 minutes)
+30 fr.
+- trois courriers à la Cour de céans (30 minutes)
+90 fr.
+- un entretien avec le prévenu (1 heure)
+180 fr.
+- deux téléphones au prévenu (10 minutes)
+30
+fr.
+1'080 fr.
+- TVA
+86
+fr. 40
+Total
+1'166 fr. 40
+que l’indemnité allouée au défenseur d'office de N.________, par 1'166 fr. 40, sera
+mise à la charge de ce dernier, la partie qui retire l'appel étant considérée avoir
+succombé (art. 428 al. 1 in fine CPP),
+que N.________ ne sera tenu de rembourser le montant de l’indemnité allouée à son
+défenseur d'office que lorsque sa situation financière le permettra (art. 135 al. 4 CPP),
+que le présent prononcé sera rendu sans frais.
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+en
+application des art. 135 al. 1, 386 al. 2, 398 ss CPP,
+statuant
+à huis clos :
+I.
+Prend acte du retrait de l'appel interjeté par N.________.
+II.
+Raye la cause du rôle.
+III.
+Constate que le jugement rendu le 2 septembre
+2014 par le Tribunal correctionnel de l'arrondissement de Lausanne est exécutoire.
+IV.
+Alloue à Me Julien Lanfranconi une indemnité de défenseur d'office pour la procédure
+d'appel d'un montant de 1'166 fr. 40, TVA comprise.
+V.
+Met l’indemnité prévue au chiffre
+IV ci-dessus à la charge de N.________.
+VI.
+Dit que N.________ ne sera tenu de rembourser
+le montant de l’indemnité prévue au chiffre IV ci-dessus que lorsque sa situation financière
+le permettra.
+VII.
+Dit
+que la présente décision est rendue sans frais.
+VIII.
+Déclare la présente décision exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Julien Lanfranconi (pour N.________),
+-
+Me Charlotte Iselin (pour B.________),
+-
+Ministère public central,
+et communiquée à :
+-
+M. le Président du Tribunal correctionnel de l'arrondissement de Lausanne,
+-
+Mme la Procureure de l'arrondissement de Lausanne,
+-
+[...],
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
