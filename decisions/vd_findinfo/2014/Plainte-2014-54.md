@@ -1,0 +1,396 @@
+---
+decision_id: "vd_findinfo_Plainte___2014___54"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2014 / 54"
+decided: "2014-11-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4619296"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-034.md", "switzerland/bund/acts/281.1/art-090.md", "switzerland/bund/acts/281.1/art-114.md"]
+---
+
+# VD Findinfo Plainte / 2014 / 54
+
+## Regeste
+
+PLAINTE{LP}, EXÉCUTION DE LA SAISIE, PARTICIPATION À LA SAISIE, CALCUL DU DÉLAI, DÉLAI, DÉLAI POUR INTENTER ACTION, OBSERVATION DU DÉLAI, FICTION DE LA NOTIFICATION | 17 LP, 34 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.11.2014 Plainte / 2014 / 54
+
+PLAINTE{LP}, EXÉCUTION DE LA SAISIE, PARTICIPATION À LA SAISIE, CALCUL DU DÉLAI, DÉLAI, DÉLAI POUR INTENTER ACTION, OBSERVATION DU DÉLAI, FICTION DE LA NOTIFICATION | 17 LP, 34 LP
+
+TRIBUNAL
+CANTONAL
+FA14.006366-141363
+53
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 novembre 2014
+____________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Rouleau et M. Maillard
+Greffier
+:
+Mme              van Ouwenaller
+*****
+Art.
+17, 34 et 114 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+T.________
+,
+à Gimel, contre la décision rendue le 16 juillet 2014, à la suite de l’audience
+du 7 juillet 2014, par la Présidente du Tribunal d’arrondissement de la Côte, autorité
+inférieure de surveillance, déclarant irrecevable la plainte déposée le 13 février
+2014 par la recourante à l'encontre du procès-verbal de saisie établi le 16 janvier 2013
+par l'
+OFFICE DES POURSUITES
+DU DISTRICT DE MORGES
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 16 janvier 2013, l'Office des poursuites du district de Morges (ci-après: l'office) a établi
+un procès-verbal de saisie à l'encontre de T.________ dans le cadre des poursuites n
+os
+5'724'746 et 5'938'096 diligentées à son encontre à l’instance de [...]. Le procès-verbal
+indique que l'époux de la débitrice gagne 1'100 fr. par mois, que cette dernière n'exerce
+aucune activité lucrative et ne dispose d'aucun revenu, que les charges communes du couple s'élèvent
+à 300 fr. par mois et que, compte tenu d'une base mensuelle de 1'700 fr. et donc d'un minimum d'existence
+de 2'000 fr. pour le couple, la poursuivie ne dispose d'aucune quotité saisissable. La saisie a
+en conséquence été imposée sur un immeuble sis sur la parcelle n° [...] de la
+Commune de Gimel, plan n° [...], propriété individuelle de la débitrice, dont la
+valeur estimative a par ailleurs été arrêtée à 400’000 francs. Le procès-verbal
+mentionne que la saisie a été exécutée le 29 novembre 2011 à 15 heures
+45.
+2.
+a)
+Le
+13 février 2014, se prévalant du fait qu’elle n’aurait eu connaissance du procès-verbal
+du 16 janvier 2013 qu’à l’occasion d’une audience tenue devant le Tribunal d’arrondissement
+de la Côte le 10 février 2014, la débitrice a déposé une plainte à l'encontre
+de ce procès-verbal, concluant avec suite de frais et dépens à son annulation au motif
+que l’office ne l’avait pas avisée de la saisie et qu’elle n’y avait dès
+lors pas assisté ni pu s’y faire représenter.
+Par prononcé du 14 février 2014, la Présidente du Tribunal d'arrondissement de la Côte,
+en sa qualité d'autorité inférieure de surveillance, a refusé d’accorder l'effet
+suspensif requis dans la plainte.
+L'office s'est déterminé le 20 février 2014, concluant à l'irrecevabilité de
+la plainte, pour tardiveté, subsidiairement à son rejet. Il a par ailleurs produit, outre le
+procès-verbal de saisie du 16 janvier 2013, les documents suivants :
+-
+la liste des codes à barres pour lettre avec suivi électronique des envois du 16 juin 2013
+dont il ressort que le pli destiné à la plaignante portait le n° de dépôt 265047;
+-
+une copie de l’enveloppe ayant contenu l’envoi recommandé n° 98.33.124874.00265047
+affranchie le 16 janvier 2013 et portant la mention "non réclamé". Le dos de l’enveloppe
+comporte en outre la mention manuscrite suivante " T.________ procès-verbal de saisie retourné
+le 4. 2. 13  B";
+-
+un résumé des opérations relatives à la poursuite n° 5'724'746 de l'office;
+-
+un procès-verbal des opérations de la saisie daté du 25 novembre 2011. Ce document mentionne
+l’identité de la plaignante sous la rubrique débiteur. Il précise qu’il a
+été établi le 25 novembre 2011 entre 15 heures 45 et 16 heures 05 à l’office
+des poursuites en présence du débiteur lui-même. Il est en outre relevé, sous la
+rubrique observations, que le débiteur déclare que la situation n’a pas changé et
+qu’il est à la recherche d’un emploi, qu’il possède un compte à la BCV
+sur lequel ne figure aucun disponible, qu’il n’a pas de biens valeur ni d’intérêts
+dans une succession et pas de véhicule. Il est encore précisé que le débiteur est
+propriétaire, à titre individuel, de l’immeuble sis [...] Gimel, qu’il n’a
+pas de locataire, qu’il ne connaît pas le montant exact encore dû à la BCV, créancier
+hypothécaire, qu’il ne sait pas s’il est en possession des cédules (une mention
+manuscrite précise que le débiteur doit aviser l’office et lui amener la cédule
+si elle est en sa possession) qu’il n’a pas d’expertise récente, qu’il a
+repris la maison de ses parents suite de la succession, qu’il n’a pas effectué de travaux
+récents et ne connaît pas la valeur de sa maison. Le document précise enfin, toujours
+sous la rubrique observations, que selon le solde dû, une expertise sera requise et qu’une
+saisie est exécutée ce jour sur l’immeuble avec avis aux créanciers hypothécaires,
+à l’ECA et annotations au registre foncier. Ce document a été daté et signé
+par la débitrice le 25 novembre 2011. Il contient en outre une annexe relative à la détermination
+du minimum d’existence dont il ressort qu’aucun montant mensuel n’est saisissable;
+-
+un résumé des opérations relatives à la poursuite n° 5'938'096 de l'office.
+La plaignante s'est déterminée dans une écriture du 25 février 2014, dans laquelle
+elle a confirmé ses conclusions.
+b)
+Le 22 février 2014, la plaignante a recouru à l'encontre de la décision du 14 février
+2014 de la Présidente du Tribunal d'arrondissement de la Côte refusant d'accorder l'effet suspensif
+à la plainte. Par arrêt du 20 mars 2014, la Cour des poursuites et faillites du Tribunal cantonal
+a déclaré ce recours irrecevable.
+c)
+L’autorité
+de première instance a finalement tenu audience le 7 juillet 2014 en présence du seul préposé
+de l’office des poursuites, la plaignante ne s’étant pas présentée, ni personne
+en son nom.
+3.
+Par décision motivée du 16 juillet 2014 notifiée à la plaignante le lendemain, la
+Présidente du Tribunal d'arrondissement de la Côte, statuant en qualité d'autorité
+inférieure de surveillance en matière de poursuite pour dettes et de faillite, a déclaré
+irrecevable la plainte déposée le 13 février 2014 par T.________ et rendu sa décision
+sans frais ni dépens.
+Le premier juge a considéré que la plainte avait été déposée tardivement.
+Elle a au surplus relevé que même si la plainte avait été recevable, elle aurait
+du être rejetée, la plaignante ayant été entendue lors de l’exécution
+de la saisie le 25 novembre 2011.
+4.
+La plaignante a recouru contre la décision
+qui précède par acte du 23 juillet 2014, concluant avec suite de frais et dépens
+à l'admission de la plainte et à l'annulation de la décision de l’autorité
+inférieure de surveillance datée du 16 juillet 2014.
+Par prononcé du 29 juillet 2014, le président de la cour de céans a rejeté la requête
+d'effet suspensif contenue dans le recours.
+Par avis du même jour, un délai échéant le 13 août 2014 a été fixé
+à l’office pour produire ses déterminations écrites et, le cas échéant,
+alléguer des faits nouveaux et produire toutes pièces utiles.
+L'office s'est déterminé sur le recours le 8 août 2014, concluant à son rejet. Il
+a par ailleurs produit les pièces nouvelles suivantes :
+-
+une copie d’un avis de saisie adressé à la recourante le 2 mai 2011 dans la poursuite
+n° 5'724'746 de l'office;
+-
+une copie d’un courrier recommandé adressé à la recourante le 17 janvier 2012 faisant
+référence à la saisie opérée sur son immeuble et lui impartissant un dernier
+délai au 27 janvier 2012 pour remettre à l’office la cédule hypothécaire au
+porteur de 60’000 fr. en 2
+ème
+rang ou les coordonnées complètes de son détenteur;
+-
+une copie d’un décompte débiteur adressé à la recourante le 17 janvier 2012;
+-
+une copie d’un courrier recommandé adressé à la recourante 9 février 2012 faisant
+référence à l’entretien qui s’est déroulé à l’office
+25 novembre 2011 et l’informant que l’expertise de l’immeuble aura lieu le jeudi 1
+er
+mars 2012 à 14 heures;
+-
+une copie du courrier adressé par la recourante à l’office le 28 février 2012 faisant
+référence à la lettre du 9 février 2012 et demandant le report du rendez-vous fixé
+pour l’expertise à une date ultérieure;
+-
+une copie d’un courrier adressé par la recourante à l’office 15 mars 2012 relevant
+qu’elle avait payé un certain nombre des poursuites en cours à son encontre et demandant
+par ailleurs à connaître les motifs pour lesquels son immeuble devait être expertisé;
+-
+un résumé des opérations relatives à la poursuite n° 5'798'952 de l'office dont
+il ressort qu’elle a été réglée;
+-
+un résumé des opérations relatives à la poursuite n° 5'815'232 de l'office dont
+il ressort qu’elle a été réglée;
+-
+un résumé des opérations relatives à la poursuite n° 5'864'559 de l'office dont
+il ressort qu’elle a été réglée;
+-
+une copie d’un courrier recommandé adressé par l’office à la recourante le
+16 mars 2012 relevant qu’il subsistait, à ce jour, deux poursuites au stade de la continuation
+(poursuites n
+os
+5'724'746
+et 5'938'096) et l’invitant à les régler dans un délai échéant au 30 mars
+2012 tout en précisant que l’expertise immobilière prévue le 20 mars 2012 était
+reportée à la mi-avril 2012 dans l’hypothèse où le règlement des poursuites
+susmentionnées ne serait pas effectué;
+-
+une copie d’un courrier adressé par l’office à la recourante le 8 août 2012
+faisant référence au courrier du 16 mars 2012, constatant, notamment, que les poursuites n
+os
+5'724'746 et 5'938'096 n’avaient pas été réglées, que plusieurs autres demandes
+de saisie avaient dans l’intervalle été déposées et invitant la recourante
+à prendre contact avec l’office dans un délai au 20 août 2012 pour un examen de
+la situation tout en précisant que passé ce délai, l’office devrait impérativement
+aller de l’avant dans la procédure et fixer, dans un premier temps, l’expertise immobilière
+relative à l’immeuble;
+-
+une copie de la correspondance adressée par la recourante à l’office le 10 août
+2012 faisant référence au courrier du 8 août 2012 et demandant, notamment, la radiation
+des annotations mentionnées au registre foncier;
+-
+une copie de la correspondance adressée par la recourante à l’office le 15 mars 2012
+sollicitant, ensuite du paiement de diverses poursuites, la radiation des annotations mentionnées
+au registre foncier;
+-
+une copie de la correspondance adressée par la recourante à l’office le 24 février
+2012 demandant la suspension de la saisie jusqu’à droit connu sur l’issue de différents
+recours déposés auprès de la cour de céans;
+-
+divers documents relatifs à des recours déposés par la recourante auprès de la cour
+de céans.
+En date du 19 août 2014, l’office a versé au dossier le justificatif de distribution
+concernant l’envoi recommandé 98.33.124874.00265047 dont il ressort qu’il a été
+adressé à la plaignante le 16 janvier 2013, avisé pour retrait le 17 janvier 2013 à
+11 heures 15 avant d’être retourné à l’expéditeur le 28 janvier 2013,
+faute d’avoir été réclamé.
+La recourante a encore déposé, le 26 août 2014, une réponse sur les déterminations
+de l'office ainsi que deux pièces.
+En droit :
+I.
+Déposé contre une décision de l’autorité inférieure de surveillance, dans
+le délai de dix jours dès sa notification, et auprès de l’autorité cantonale
+supérieure de surveillance, le recours est recevable (art. 18 al. 1 LP [loi fédérale sur
+la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1] ; art. 28 al. 1 LVLP [loi du
+18 mai 1955 d’application dans le Canton de Vaud de la loi fédérale sur la poursuite
+pour dettes et la faillite ; RSV 280.05]).
+Les déterminations de l'office du 8 août 2014 sont également recevables (art. 31 al. 1
+LVLP). Il en va de même des pièces nouvelles produites par l’office à l’appui
+de cette écriture (art. 28 al. 4 LVLP).
+Le courrier de l’office du 19 août 2014 ainsi que la pièce qui était jointe ont
+été déposées après l’échéance du délai qui lui avait été
+imparti pour procéder.
+En
+matière de plainte, la cour de céans ordonne toutefois librement les mesures d'instructions
+qui lui paraissent nécessaires (art. 23 LVLP, applicable par renvoi de l'art. 33 LVLP). Elle est
+donc libre de considérer comme recevable une pièce dont l’importance est manifeste pour
+l’instruction et cela même si elle a été produite hors délai. En l’espèce,
+la pièce produite par l’office le 19 août 2014, soit le justificatif de distribution
+du pli du 16 janvier 2013, est une pièce décisive dont la production aurait été requise
+si l’office ne l’avait pas produite spontanément. Elle est dès lors recevable.
+La réponse déposée par la recourante le 26 août 2014 constitue une détermination
+sur les écritures de l’office. Elle est donc recevable en vertu du droit de réplique
+garanti aux parties que le Tribunal fédéral déduit de l'art. 29 al. 2 Cst (Constitution
+fédérale de la Confédération suisse du 18 avril 1999; RS 101) (ATF 138 I 484,
+c. 2.1 p. 485; ATF 137 I 195, c. 2.3.1 p. 197; TF 9C_193/2013 du 22 juillet 2013, c. 2.1.2; TF 5A_155/2013
+du 17 avril 2013, c. 1.4; TF 1B_407/2012 du 21 septembre 2012, c.2.2). Les pièces produites
+en annexe à cette écriture ne sont quant à elles pas nouvelles.
+II.
+La recourante conteste la décision de l’autorité inférieure de surveillance qui
+a rejeté sa plainte pour tardiveté. Elle soutient n’avoir eu connaissance du procès-verbal
+de saisie contesté qu’à l’occasion d’une audience qui s’est tenue devant
+le Tribunal d’arrondissement de la Côte le 10 février 2014.
+a)
+Aux termes de l’art. 17 al. 2 LP,
+la plainte doit être déposée dans les dix jours de celui où le plaignant a eu connaissance
+de la mesure.
+Le délai de plainte est un délai péremptoire et son observation une condition de recevabilité
+qui doit être vérifiée d’office par l’autorité de surveillance (ATF 102
+III 127, rés. in JT 1978 II 44 ; Gilliéron, op. cit., nn. 222-223 ad art. 17 LP). Si le
+délai n’est pas observé, la décision ou mesure en cause entre en force, sous réserve
+d’une éventuelle constatation de nullité, hors délai de plainte, selon l’art.
+22 al. 1 LP (Jeandin, Poursuite pour dettes et faillite, La plainte, FJS 679 ; TF 7B.233/2004 du
+24 décembre 2004 c. 1.1).
+Aux termes de l’art. 114 LP, à l’expiration du délai de participation de trente
+jours, l’office notifie
+sans retard une copie du procès-verbal de
+saisie aux créanciers et au débiteur. La communication du procès-verbal de saisie emporte
+pour le créancier, comme pour le débiteur, l’ouverture du délai de plainte prévu
+à l’art. 17 al. 2 LP (Jeandin/Sabeti, Commentaire romand, n° 5 ad 114 LP). Elle s’opère
+conformément à l’art. 34 LP (Gilliéron, Poursuite pour dettes, faillite et concordat,
+5
+e
+édition,
+n° 1050 ; CPF 13 juin 2014/26).
+En vertu de l’art. 34 LP, les communications, les mesures et les décisions des offices et
+des autorités de surveillance sont notifiées par lettre recommandée ou d’une autre
+manière contre reçu, à moins que la loi n’en dispose autrement. Lorsque le destinataire
+d’une notification n’est pas atteint et qu’un avis de retrait est déposé
+dans sa boîte aux lettres ou dans sa case postale, l’envoi est, selon la jurisprudence du
+tribunal fédéral, considéré comme notifié au moment où il est retiré.
+Si le retrait n’a pas lieu dans le délai de garde de sept jours, l’envoi est réputé
+notifié le dernier jour de ce délai pour autant que le destinataire devait s’attendre
+à cette notification. Cette jurisprudence n’est cependant applicable que lorsque la notification
+d’un acte officiel doit être attendue avec une certaine vraisemblance (ATF 130 III 396 c.
+1.2.3, JT 2005 II 87, et les réf. citées). Ces principes valent également en droit des
+poursuites et des faillites (ATF 123 III 492 c. 1. JT 1999 II 109, et les réf. citées ;
+Nordmann, Basler Kommentar, n° 8 ad 34 LP).
+La preuve de la notification ou de la communication et de sa date, même lorsqu’elle est fictive,
+de l’acte de poursuite contesté incombe à l’autorité de poursuite ou à
+l’organe de poursuite (Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 195 ad art. 17 LP ; Lorandi, Betreibungsrechtliche Beschwerde und
+Nichtigkeit, Kommentar zu den Artikeln 13-30 SchKG, n. 270 ad art. 17 LP ; ATF 114 III 51 c. 3c,
+JT 1990 II 166).
+b)
+En l’espèce, il ressort des pièces produites que le pli contenant le procès-verbal
+de saisie contesté a été adressé à la recourante, sous pli recommandé,
+le 16 janvier 2013. Il a été avisé pour retrait le 17 janvier 2013. Faute d’avoir
+été réclamé, le pli a été retourné à l’office à l’issue
+du délai de garde, soit le 28 janvier 2013. Il n’a donc pas été effectivement remis
+à la recourante. On doit par conséquent se demander si les conditions d’une communication
+fictive sont réalisées, ce qui revient à déterminer si la recourante devait s’attendre,
+avec une certaine vraisemblance, à une communication de l’office le 16 janvier 2013. A cet
+égard, il est incontestable que la recourante a bien assisté à la saisie réalisée
+le 25 novembre 2011 : la signature apposée par ses soins sur le procès-verbal des opérations
+de saisie établi à cette occasion en atteste sans équivoque. Elle ne le conteste du reste
+pas. Elle a par ailleurs, à ce moment, été informée du fait qu’une saisie était
+opérée sur son immeuble et qu’une expertise pourrait ultérieurement être mise
+en œuvre. La recourante et l’office ont par la suite, soit durant l’année 2012,
+échangé plusieurs correspondances au sujet de l’expertise de l’immeuble notamment.
+Cette dernière a ainsi été à plusieurs reprises agendée avant d’être
+reportée tantôt à la demande de la recourante tantôt à l’initiative de
+l’office qui souhaitait permettre à cette dernière de régler les poursuites arrivées
+au stade de la continuation. Dans son envoi du 8 août 2012, dont on sait qu’il a été
+reçu par la recourante puisqu’elle y fait référence dans son propre courrier du
+10 août 2012, l’office lui a encore proposé de prendre contact avec lui dans un délai
+échéant le 20 août 2012 pour faire un point de situation. Il a cependant précisé
+que passé ce délai, la procédure irait de l’avant. Par conséquent, la recourante
+devait dès lors et à tout moment s’attendre à recevoir des communications ultérieures
+de l’office et veiller à ce qu’elles lui soient remises. Ce constat était toujours
+valable au début de l’année 2013, un délai de cinq mois s’inscrivant encore
+dans le laps de temps jugé admissible par
+la jurisprudence (cf. TF 2P.120/2005 du 23 mars 2006 in ZBl 108/2007 p. 46 c. 4.2). En d’autres
+termes, il faut considérer que le pli recommandé avisé à l’attention de la
+recourante le 17 janvier 2013 est réputé avoir été notifié sept jours plus tard,
+soit le 24 janvier 2013, de sorte que la plainte déposée le 13 février 2014 est effectivement
+manifestement tardive.
+Pour le reste, aucune cause de nullité au sens de l’art. 22 LP ne paraît en l’espèce
+réalisée, l’éventuelle absence d’avis de saisie au sens de l’art. 90
+LP, invoquée par la recourante, n’étant en particulier susceptible que de constituer
+une cause d’annulabilité et non de nullité (Foex, Commentaire romand, n° 19 ad.
+90 LP et les réf. citées).
+En conséquence, c’est à juste titre que l’autorité inférieure a considéré
+que la plainte déposée par la recourante était irrecevable.
+III.
+Le recours doit donc être rejeté, sans
+qu’il y ait lieu d’entrer en matière sur les arguments de fond soulevés par les
+parties.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+5 novembre 2014
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+Mme T.________,
+‑
+[...],
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Côte, autorité inférieure de
+surveillance.
+La greffière :
