@@ -1,0 +1,208 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2014___40"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2014 / 40"
+decided: "2014-12-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20141125120459612_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-101.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2014 / 40
+
+## Regeste
+
+RÉCUSATION, AUTORITÉ DE RECOURS | 47 al. 1 let. f CPC (CH), 49 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 01.12.2014 Réc-civile / 2014 / 40
+
+RÉCUSATION, AUTORITÉ DE RECOURS | 47 al. 1 let. f CPC (CH), 49 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+KC14.027823
+48
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 1
+er
+décembre 2014
+________________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffier
+:              Mme
+Schwab Eggs
+*****
+Art.
+47 al. 1 let. f, 49, 50 al. 2 CPC ; art. 8a al. 7 CDPJ
+Vu la requête de mainlevée du 3 juillet 2014, adressée au Juge de paix du district [...]
+(ci-après : juge de paix), par
+E.________
+à l'encontre de
+D.________
+,
+vu l'avance de frais fixée à 480 fr. et demandée à E.________ le 8 juillet 2014,
+vu la demande de prolongation de délai requise par celui-ci pour procéder à l'avance de
+frais,
+vu la prolongation de délai accordée au 12 septembre 2014 pour effectuer l'avance de frais,
+vu le dernier délai supplémentaire non prolongeable de cinq jours accordé le 17 septembre
+2014 à E.________, mentionnant qu'à défaut de versement dans le délai fixé,
+il ne serait pas entré en matière sur sa requête,
+vu le retrait du pli recommandé octroyant ce délai par E.________ le 18 septembre 2014,
+vu la décision notifiée le 2 octobre 2014 à E.________ par W.________, juge de paix, dont
+la teneur est notamment la suivante :
+"Me référant à la demande d'avance de frais du 8 juillet 2014 et aux deux délais
+supplémentaires accordés, je constate qu'aucune avance n'a été effectuée.
+En conséquence, je n'entre pas en matière (art. 101 al. 3 CPC).
+La cause est rayée du rôle, sans frais.
+Un recours au sens des articles 319 ss CPC peut être formé dans un délai de 10 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe."
+vu le versement de 480 fr. effectué le 2 octobre 2014 par E.________,
+vu la requête de récusation du juge de paix W.________ déposée le 8 octobre 2014
+au Tribunal cantonal par E.________,
+vu que ce magistrat a renoncé à se déterminer après avoir été interpellé
+par le Tribunal cantonal,
+vu la transmission de la cause à la Justice de paix du district de [...] (ci-après : justice
+de paix), comme objet de sa compétence,
+vu la décision sur récusation rendue par la justice de paix le 13 novembre 2014 rejetant
+la demande de récusation du 8 octobre 2014,
+vu l'acte du 14 novembre 2014, par lequel E.________ (ci-après : le recourant) a recouru contre
+cette décision,
+vu les pièces au dossier ;
+attendu que la cour de céans fait sien l'état de fait tel qu'il ressort de la décision
+attaquée, complété par les pièces du dossier,
+que le recourant reproche au juge de paix W.________ (ci-après : le magistrat intimé)
+d'avoir classé sa requête de mainlevée alors qu'une collaboratrice du greffe de la justice
+de paix lui aurait octroyé un ultime délai échéant le 8 octobre 2014 dans lequel
+il aurait versé le montant de l'avance de frais requise,
+qu'il soutient notamment que la lettre du 2 octobre 2014 de ce magistrat est « empreinte d'arbitraire
+dans un ton "agacé" et injustifiée à [son] égard » et que celui-ci
+n'est pas capable de maîtriser ses émotions,
+que le recourant considère que le magistrat intimé aurait commis un abus de pouvoir pour protéger
+le « riche contribuable »,
+que le recourant se plaint également de la composition de l'autorité de première instance
+ayant statué sur sa requête de récusation,
+qu'il fait valoir que le président de l'autorité de première instance, le juge de paix
+T.________, aurait été récusé par le Président du Tribunal cantonal depuis plusieurs
+mois,
+qu'il lui reproche un certain nombre de comportements qui démontreraient sa partialité à
+son encontre,
+que les premiers juges ont relevé que la décision du 2 octobre 2014 est une lettre type utilisée
+de manière identique pour chaque dossier dont l'avance de frais n'a pas été versée
+par le requérant dans le délai imparti,
+qu'on ne saurait dès lors considérer que le magistrat intimé a fait preuve d'arbitraire
+à l'égard du recourant,
+que les premiers juges ont dès lors estimé que la demande était mal fondée et devait
+être rejetée ;
+attendu que le recours est dirigé contre une décision statuant sur la récusation d'un
+magistrat de première instance,
+que l'art. 50 al. 2 CPC (Code de procédure civile du 19 décembre 2008, RS 272) prévoit
+que la décision sur récusation peut faire l'objet d'un recours au sens des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010, RSV 211.02] et 6 al. 1 let. a ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007, RSV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC ; Tappy,
+Code de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+qu'en l'espèce, le recours a été déposé en temps utile par une partie qui a
+qualité pour recourir,
+que le recours est recevable à la forme ;
+attendu que, sur le fond, bien que le recourant ne précise pas de quelle disposition il se prévaut,
+on comprend qu'il invoque la partialité du magistrat intimé pour des motifs autres que ceux
+énumérés aux lettres a à e de l'art. 47 al. 1 CPC, de sorte que c'est à
+la lumière de l'art. 47 al. 1 let. f CPC qu'il faut examiner le recours,
+qu'à teneur de cette dernière disposition, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101) et 6 §1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l’homme et des libertés fondamentales (RS 0.101), s'oppose
+à ce que des circonstances extérieures au procès puissent influencer le jugement d'une
+manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012
+du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références
+citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin
+2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références citées),
+que la partie qui entend obtenir la récusation d'un magistrat doit rendre vraisemblable les faits
+qui motivent sa demande (art. 49 al. 1 CPC),
+qu'il faut plus que de simples affirmations de la partie demandant la récusation, qui devra au moins
+apporter des indices de la véracité de ses affirmations (Tappy, op. cit., n. 25 ad art. 49
+CPC),
+qu'en l'espèce, le recourant se plaint du caractère injustifié et arbitraire de la lettre
+du 2 octobre 2014 du magistrat intimé,
+qu'on constate à sa lecture qu'il s'agit manifestement d'une lettre type qui se contente de relever
+les conséquences procédurales du non-paiement de l'avance de frais dans le délai fixé,
+que la conséquence de la non-entrée en matière avait déjà été portée
+à la connaissance du recourant dans la lettre du 17 septembre 2014 lui fixant un ultime délai
+pour procéder à l'avance requise,
+qu'ainsi, contrairement aux affirmations du recourant, la forme de la lettre ne fait naître aucun
+doute sur l'impartialité du magistrat,
+qu'au demeurant, il n'appartient pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+qu'on relève toutefois que, si le recourant a certes procédé à l'avance requise le
+2 octobre 2014, il n'a pas établi son affirmation selon laquelle un employé du greffe lui aurait
+octroyé un nouveau délai,
+que l'avance de frais est donc intervenue après le 23 septembre 2014, date de l'échéance
+du dernier délai supplémentaire non prolongeable de cinq jours accordé le 17 septembre
+2014,
+que ce grief doit être rejeté,
+que le recourant se plaint également du fait que le président de l'autorité de première
+instance ayant statué sur sa demande de récusation aurait été récusé depuis
+plusieurs mois par le Président du Tribunal cantonal,
+qu'il n'apporte toutefois aucune preuve, ni même aucun indice de ce qu'il allègue,
+que ce grief doit également être rejeté ;
+attendu qu'en définitive, aucun motif de récusation n'étant réalisé, il y a
+lieu de rejeter le recours,
+que le présent arrêt doit être rendu sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 14 novembre 2014 par E.________ est rejeté.
+II.
+L'arrêt est rendu sans frais.
+III.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. E.________, personnellement,
+-
+M. W.________, Juge de paix du district de [...].
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+La greffière :
