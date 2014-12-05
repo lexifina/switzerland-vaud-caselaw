@@ -1,0 +1,217 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___45"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 45"
+decided: "2014-12-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4748103"
+cites_law: ["switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2015 / 45
+
+## Regeste
+
+DÉFENSE D'OFFICE, INDEMNITÉ{EN GÉNÉRAL}, DÉCISION PARTIELLE | 135 al. 3 let. a CPP (CH), 135 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 05.12.2014 Décision / 2015 / 45
+
+DÉFENSE D'OFFICE, INDEMNITÉ{EN GÉNÉRAL}, DÉCISION PARTIELLE | 135 al. 3 let. a CPP (CH), 135 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+868
+PE14.019672-MLV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+5 décembre 2014
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Maillard, juges
+Greffier
+:              M.
+Quach
+*****
+Art.
+135 et 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 6 novembre 2014 par l'avocate
+J.________
+contre l'ordonnance rendue le 28 octobre 2014 par le Ministère public de l'arrondissement du Nord
+vaudois dans la cause
+n° PE14.019672-MLV
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le Ministère public de l'arrondissement du Nord vaudois a ouvert une instruction pénale contre
+H.________.
+Par ordonnance du 15 mai 2014, le Ministère public a désigné l'avocate J.________ en qualité
+de défenseur d'office de H.________.
+b)
+Le 15 octobre 2014, à la suite d'une demande téléphonique du Ministère public, l'avocate
+J.________ a déposé une liste des opérations, selon laquelle le montant de l'indemnité
+due à ce jour s'élevait à 8'477 fr. 15, débours et TVA compris.
+B.
+Par ordonnance du 28 octobre 2014, le Ministère
+public a arrêté l'indemnité de défenseur d'office de l'avocate J.________ à
+6'394 fr., débours et TVA compris.
+C.
+Par acte du 6 novembre 2014, l'avocate J.________
+a recouru auprès de la Cour de céans contre cette ordonnance, en concluant, avec suite de frais
+et dépens, à sa réforme en ce sens que le montant de l'indemnité allouée soit
+arrêté à 8'477 fr. 15, TVA comprise.
+Par déterminations du 2 décembre 2014, le Ministère public a conclu au rejet du recours.
+Il a toutefois indiqué que c'était un montant de 7'506 fr. qui aurait dû être alloué,
+le montant de 6'394 fr. résultant d'erreurs de plume et de calcul.
+En droit
+:
+1.
+1.1
+Le défenseur d’office peut recourir
+devant l’autorité de recours (cf. art. 20 CPP) contre la décision du ministère
+public ou du tribunal de première instance fixant son indemnité (art. 135 al. 3 let. a CPP;
+ATF 139 IV 199 c. 5.2). La voie du recours est ouverte non seulement lorsque l'indemnité est fixée
+à la fin de la procédure par le Ministère public ou par le Tribunal qui statue au fond
+(art. 135 al. 2 CPP), mais également lorsqu'un prononcé d'indemnisation partielle
+est rendu, hypothèse qui doit être distinguée de celle du versement d'une simple avance
+sur l'indemnité à fixer en fin de procédure, cas dans lequel la voie du recours n'est
+pas ouverte (cf. CREP 30 janvier 2012/37 c.1b; cf. ég. c. 2.1 infra). Le recours doit être
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP),
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art.
+13 LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure pénale suisse;
+RSV 312.01]; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation judiciaire; RSV
+173.01]).
+1.2
+En l'espèce, l'acte attaqué constitue une ordonnance d'indemnisation partielle. Il est en effet
+intervenu avant la fin de la procédure et il ressort clairement du contenu de l'acte, ainsi que
+de l'indication d'une voie de droit, que le Ministère public entendait fixer définitivement
+le montant dû au défenseur d'office pour l'activité déployée jusqu'à la
+date de l'acte. Interjeté dans le délai légal auprès de l’autorité compétente
+par le défenseur d'office, qui a qualité pour recourir contre un prononcé fixant son indemnité
+d'office, et satisfaisant aux conditions de forme posées par
+l’art.
+385 al. 1 CPP, le recours est recevable.
+1.3
+Dans la mesure où l'allocation d'une indemnité
+de défenseur d'office constitue l'objet unique du prononcé attaqué, le recours ne porte
+pas sur les conséquences économiques accessoires d'une décision et c'est la Cour de céans
+dans sa composition ordinaire qui est compétente, non un juge de celle-ci statuant comme juge unique
+(cf. art. 395 let. b CPP a contrario et 13 al. 2 LVCPP).
+2.
+2.1
+Selon l'art. 135 al. 2 CPP, le ministère
+public ou le tribunal qui statue au fond fixent l'indemnité de défenseur d'office à la
+fin de la procédure. Le ministère public est ainsi compétent pour statuer sur le montant
+de l'indemnité lorsqu'il rend une ordonnance de classement ou une ordonnance pénale (Ruckstuhl,
+in : Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozess­ordnung,
+Jugend­strafprozessordnung, 2
+e
+éd., Bâle 2014, n. 9 ad art. 135 CPP; Harari/Aliberti, in : Kuhn/Jeanneret [éd.], Commentaire
+romand, Code de procédure pénale suisse, Bâle 2011, n. 1 ad art. 135 CPP). En revanche,
+lorsque l'accusation est engagée devant un tribunal, c'est à cette autorité qu'il appartient
+de se prononcer sur l'indemnité dans le jugement au fond (cf. ATF 139 IV 199 c. 5). Il découle
+de ce qui précède que l'autorité qui statue au fond doit avoir la possibilité de
+se prononcer sur l'ensemble de l'activité déployée par le défenseur d'office, si
+bien que le ministère public ne peut en principe pas arrêter définitivement une indemnité
+intermédiaire en cours de procédure, même si cette pratique a par le passé pu être
+tolérée par la Cour de céans (cf. CREP 30 janvier 2012/37 précité). Il convient
+cependant de réserver le cas où, en cours de procédure, un défenseur d'office est
+relevé de son mandat; pour des raisons pratiques, il se justifie alors d'arrêter l'indemnité
+qui est due à celui-ci sans attendre la fin de la procédure (cf. Moreillon/Parein-Reymond,
+Petit Commentaire du Code de procédure pénale, Bâle 2013, n. 6 ad art. 135 CPP; Harari/Aliberti,
+op. cit., n. 1 ad art. 135 CPP; cf. ég. Note 6.6 du Procureur général sur la fixation
+et le calcul des indemnités des conseils d'office du 15 mars 2013).
+Cela étant, la doctrine admet la possibilité de verser des avances sur indemnité au défenseur
+d'office (Lieber, in : Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozessordnung,
+2
+e
+éd., Zurich/Bâle/Genève 2014, n. 11 ad art. 135 CPP). Dans ce cas, il convient de procéder
+conformément à la marche à suivre prévue dans la Note 6.5 du Procureur général
+sur le paiement d'avances sur les indemnités des conseils d'office du 17 janvier 2012.
+En substance, le ministère public peut évaluer sommairement le montant d'une avance sur la
+base d'un état intermédiaire d'opérations fourni par le défenseur d'office, puis
+informer ce dernier du montant retenu par simple lettre, laquelle ne constitue pas une décision
+et n'est pas susceptible de recours, à la différence de celle rendue ultérieurement, à
+la fin de la procédure, par l'autorité compétente au sens de l'art. 135 al. 2 CPP, dont
+l'examen pourra alors porter sur l'ensemble de l'activité du défenseur d'office.
+2.2
+En l'espèce, on ne se trouve pas dans l'hypothèse,
+réservée ci-dessus (c. 2.1 supra), d'une relève de mandat en cours de procédure.
+Le Ministère public ne pouvait donc pas rendre une ordonnance d'indemnisation intermédiaire,
+de sorte que l'ordonnance attaquée doit être annulée.
+Comme cela a été exposé ci-dessus, le Ministère public pourra cependant procéder
+au versement d'une avance selon les modalités décrites dans la Note 6.5 du Procureur général,
+qui apparaissent conformes à l'art. 135 al. 2 CPP.
+3.
+En définitive, le recours doit être
+admis. L’ordonnance attaquée sera annulée et le dossier de la cause renvoyé au Ministère
+public pour qu’il procède dans le sens des considérants (c. 2.2 supra).
+Le défenseur d'office qui recourt en son nom propre – ou qui mandate un de ses confrères
+pour recourir en son nom (Juge unique CREP 7 mars 2012/112 c. 3) – a droit à des honoraires,
+calculés sur la base du tarif horaire prévu pour l’activité déployée dans
+le cadre d’un mandat d’office (Ruckstuhl, op. cit., n. 16 ad art. 135 CPP; Juge unique CREP
+9 novembre 2011/477 c. 3). L'indemnité qu'il convient d'allouer à ce titre à la recourante
+doit être fixée à 450 fr., plus la TVA, par 36 fr., ce qui porte le montant alloué
+à 486 francs.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 550 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; RSV 312.03.1]), ainsi que l'indemnité due pour la procédure
+de recours, par 486 fr., seront laissés à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance du 28 octobre 2014 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l'arrondissement du Nord vaudois pour qu’il procède dans le sens des considérants.
+IV.
+L’indemnité due à Me J.________
+pour la procédure de recours est fixée à 486 fr. (quatre cent huitante-six francs).
+V.
+L'émolument
+d’arrêt, par 550 fr. (cinq cent cinquante francs), ainsi que l’indemnité due à
+Me J.________ pour la procédure de recours, par 486 fr. (quatre cent huitante-six francs), sont
+laissés à la charge de l'Etat.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme J.________, avocate,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut faire l’objet d’un
+recours au sens des art. 393 ss CPP devant le Tribunal pénal fédéral (art. 37
+al.
+1 et 39 al. 1 LOAP [Loi fédérale du 19 mars 2010 sur l’organisation des autorités
+fédérales; RS 173.71]. Ce recours doit être déposé devant le Tribunal pénal
+fédéral dans un délai de dix jours dès la notification de l’arrêt attaqué
+(art. 396 al. 1 CPP).
+Le greffier :
