@@ -1,0 +1,395 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___47"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 47"
+decided: "2014-12-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4756647"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-030.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/311.0/art-127.md", "switzerland/bund/acts/311.0/art-231.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-080.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-105.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-320.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2015 / 47
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, DÉCISION NON FORMELLE, DÉCISION D'IRRECEVABILITÉ, PLAIGNANT, EXPOSITION À UN DANGER, PROPAGATION D'UNE MALADIE DE L'HOMME, MÉNAGE COMMUN, INFRACTIONS CONTRE LE PATRIMOINE, PLAINTE PÉNALE, DÉLAI LÉGAL, BIEN PROTÉGÉ | 110 ch. 2 CP, 127 CP, 137 ch. 2 CP, 138 ch. 1 al. 4 CP, 139 ch. 4 CP, 146 al. 3 CP, 231 al. 1 CP, 310 CPP (CH), 319 CPP (CH), 322 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.12.2014 Décision / 2015 / 47
+
+CLASSEMENT DE LA PROCÉDURE, DÉCISION NON FORMELLE, DÉCISION D'IRRECEVABILITÉ, PLAIGNANT, EXPOSITION À UN DANGER, PROPAGATION D'UNE MALADIE DE L'HOMME, MÉNAGE COMMUN, INFRACTIONS CONTRE LE PATRIMOINE, PLAINTE PÉNALE, DÉLAI LÉGAL, BIEN PROTÉGÉ | 110 ch. 2 CP, 127 CP, 137 ch. 2 CP, 138 ch. 1 al. 4 CP, 139 ch. 4 CP, 146 al. 3 CP, 231 al. 1 CP, 310 CPP (CH), 319 CPP (CH), 322 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+883
+PE10.020802-KBE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+11 décembre 2014
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Maillard, juges
+Greffier
+:              M.
+Quach
+*****
+Art.
+110 al. 2, 127, 137 ch. 2, 138 ch. 1, 139 ch. 4, 146 al. 3 et 231 CP; 310, 319, 322 al. 2 et 393 al.
+1 let. a CPP
+Statuant sur le recours interjeté le 23 septembre 2014 par
+V.________
+contre l'ordonnance de classement rendue en faveur de F.________ le 1
+er
+septembre 2014 par le Ministère public de l'arrondissement de l'Est vaudois dans la cause
+n° PE10.020802-KBE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 19 août 2010, F.________ a déposé une plainte pénale contre son ancien compagnon
+V.________ (P. 4) en lui reprochant les faits suivants. Après une séparation, les parties avaient
+repris la vie commune en février 2010
+(cf.
+PV aud. 3, p. 5, et P. 4). Dans les mois qui ont suivi, V.________ aurait à plusieurs reprises contraint
+F.________ à subir des relations sexuelles qu'elle ne souhaitait pas. Le 27 mai 2010, V.________
+aurait en outre agressé physique­ment F.________, notamment en la poussant, en la saisissant
+à la gorge et en la mordant à la main. A la suite de ces faits, les parties se sont séparées
+et F.________ a quitté le domicile des parties. A une date ultérieure, V.________ aurait contacté
+plusieurs tiers par téléphone pour les avertir que F.________ était atteinte du Sida.
+Il aurait en outre dit, en tout cas à l'un d'eux, que celle-ci se prostituait.
+Le 18 septembre 2010, V.________ a déposé une plainte pénale contre F.________ (P. 7)
+en lui reprochant les faits suivants. Au printemps 2010, V.________ aurait versé un montant de 49'300
+fr. à F.________, versement qui devait lui permettre de rembourser des dettes qu'elle avait contractées.
+Au cours d'un voyage de V.________ au Sénégal, du 6 au 27 avril 2010, F.________ aurait en
+outre contacté celui-ci pour lui demander un montant de 10'000 fr. censé être destiné
+à aider une tierce personne en détresse; V.________ lui aurait alors indiqué où se
+trouvait l'argent dans le domicile commun. A son retour, V.________ aurait appris que F.________ n'aurait
+que partiellement remboursé ses dettes, qu'elle aurait conservé pour elle le montant de 10'000
+fr. précité et qu'elle lui aurait caché qu'elle était séropositive de naissance
+alors qu'ils avaient toujours entretenu des rapports sexuels non protégés. Enfin, lorsque F.________
+a quitté le domicile commun, à fin mai 2010, elle aurait emporté divers éléments
+de mobilier et divers documents appartenant à V.________.
+Le 8 mars 2012,  V.________ a déposé une nouvelle plainte pénale contre F.________
+(dossier B, P. 4/1) en lui reprochant les faits suivants. Celle-ci serait allée retirer à la
+poste un colis destiné à V.________, qui contenait notamment un routeur. Au vu du contenu du
+colis, F.________ aurait finalement décidé de rendre celui-ci à V.________, en chargeant
+un tiers de le lui transmettre. V.________ a indiqué soupçonner F.________ d'avoir également
+volé d'autres courriers.
+Dans plusieurs écrits adressés au Ministère public, V.________ s'est en outre plaint du
+fait que F.________ négligerait l'éducation de leur enfant commun, prénommé [...],
+né le [...] 2002.
+b)
+A la suite de la jonction des enquêtes pénales ordonnée le 10 juillet 2013, l'ensemble
+de la cause a été instruite par le Ministère public de l'arrondissement de l'Est vaudois.
+L'instruction pénale a été dirigée contre V.________ pour lésions corporelles
+simples qualifiées, contrainte sexuelle, viol, diffamation et propagation d'une maladie de l'homme,
+ainsi que contre F.________ pour appropriation illégitime entre familiers, abus de confiance entre
+familiers, vol entre familiers, escroquerie entre familiers, violation de secrets privés, violation
+du devoir d'assistance ou d'éducation et propagation d'une maladie de l'homme.
+c)
+Dans
+des déterminations adressées au Ministère public le 1
+er
+mai 2014 (P. 45), V.________ a expressément requis que F.________ soit poursuivie également
+pour dénonciation calomnieuse, en se référant aux accusations de contrainte sexuelle que
+comportait la plainte du 19 août 2010.
+Dans de nouvelles déterminations adressées au Ministère public le
+21
+juillet 2014, V.________ a dénoncé des infractions que F.________ aurait commises au préjudice
+de tiers et a requis que les dossiers des affaires judiciaires y relatives soient versés au dossier
+de la cause pénale.
+B.
+A l'issue de l'instruction, le Ministère
+public a rendu trois ordonnances.
+Par ordonnance du 1
+er
+septembre 2014, qui fait l'objet de la présente procédure de recours, il a ordonné le
+classement de la procédure pénale dirigée contre F.________ pour appropriation illégitime
+entre familiers, abus de confiance entre familiers, vol entre familiers, escroquerie entre familiers,
+violation de secrets privés, violation du devoir d'assistance ou d'éducation et propagation
+d'une maladie de l'homme (I), a dit qu'il n'était pas alloué d'indemnité au sens de l'art.
+429 CPP à F.________ (II) et a laissé les frais de procédure à la charge de l'Etat
+(III).
+Par ordonnance du même jour, il a ordonné le classement de la procédure pénale dirigée
+contre V.________ pour contrainte sexuelle, viol, diffamation et propagation d'une maladie de l'homme.
+Par ordonnance pénale du 11 septembre 2014, il a condamné V.________ pour lésions corporelles
+simples qualifiées à 10 jours-amende avec sursis pendant 2 ans, le montant du jour étant
+fixé à 50 fr., et a dit que cette peine était complémentaire à celle prononcée
+le 28 janvier 2011 par le Ministère public de l'arrondissement de l'Est vaudois. V.________ a déclaré
+faire opposition à cette ordonnance.
+C.
+Par acte du 23 septembre 2014, V.________ a recouru
+auprès de la Cour de céans contre l'ordonnance de classement rendue en faveur de F.________
+le 1
+er
+septembre 2014, en concluant, avec suite de frais et dépens, à l'annulation de celle-ci et
+au renvoi du dossier au Ministère public, celui-ci étant invité à poursuivre l'accusation
+ouverte contre F.________ notamment pour appropriation illégitime, abus de confiance, vol, escroquerie,
+propagation d'une maladie de l'homme, mise en danger de la vie ou de la santé d'autrui, dénonciation
+calomnieuse et toute autre disposition paraissant applicable.
+Par déterminations du 8 décembre 2014, F.________ a conclu, avec suite de dépens, au rejet
+du recours.
+Par courrier du même jour, le Ministère public a déclaré renoncer à déposer
+des déterminations.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la
+Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du 19 mai 2009
+d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise
+du 12 décembre 1979 d’organisation judiciaire; RSV 173.01]). La voie du recours est également
+ouverte contre un prononcé en tant qu'il comporte un classement ou une non-entrée en matière
+implicite (ATF 138 IV 241 c. 2.6; CREP 15 juillet 2013/446; cf. c. 5 infra).
+Interjeté dans le délai légal (art. 322 al. 2 CPP et art. 396 al. 1 CPP) par la partie
+plaignante, qui a qualité pour recourir (art. 382 al. 1 CPP) dans la mesure où elle est lésée,
+le recours est recevable dans cette mesure (cf. c. 3.3.3 et 4.2 infra).
+2.
+Selon l'art. 319 al. 1 CPP, le ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels, à savoir l’intérêt de la victime ou le
+consen­tement de celle-ci.
+De manière générale, les motifs de classement sont ceux "qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement" (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance
+confinant à la certitude. La possibilité de classer la procédure ne saurait toutefois
+être limitée à ce seul cas, car une interprétation aussi restrictive imposerait un
+renvoi en jugement, même en présence d'une très faible probabilité de condamnation
+(ATF 138 IV 86 c. 4.1.1). Le principe "in dubio pro duriore" exige donc simplement qu'en cas
+de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une condamnation
+apparaît plus vraisemblable qu'un acquittement. En effet, en cas de doute, ce n'est pas à l'autorité
+d'instruction ou d'accusation mais au juge matériellement compétent qu'il appartient de se
+prononcer (ATF 138 IV 86 c. 4.1.1; cf. ég. ATF 138 IV 186 c. 4).
+3.
+3.1
+Le recourant conteste tout d'abord le classement en tant qu'il concerne sa présumée exposition
+au virus de l'immunodéficience humaine (ci-après : VIH). S'il n'explique pas de manière
+étayée quelle infraction serait selon lui réalisée, il mentionne cependant l'infraction
+de mise en danger de la vie ou de la santé d'autrui, ainsi que, dans les conclusions du recours,
+celle de propagation d'une maladie de l'homme.
+3.2
+Selon l'art. 127 CP (Code pénal suisse du
+21 décembre 1937;
+RS 311.0), se rend
+coupable d'exposition celui qui, ayant la garde d'une personne hors d'état de se protéger elle-même
+ou le devoir de veiller sur elle, l'aura exposée à un danger de mort ou à un danger grave
+et imminent pour la santé, ou l'aura abandonnée en un tel danger.
+La réalisation de cette infraction suppose que son auteur ait eu la garde de la victime ou le devoir
+de veiller sur elle, soit qu'il ait assumé une position de garant vis-à-vis de celle-ci (Dupuis
+et al., Code pénal, Petit commentaire du Code pénal, Bâle 2012, n. 3 ad art. 127 CP et
+les références citées). En pratique, le devoir de garant concerne avant tout les parents
+à l'égard de leurs enfants, le personnel soignant à l'égard des patients, les enseignants
+par rapport aux élèves ou encore les guides de montagne face à leurs clients (Dupuis et
+al., op. cit., n. 5 ad art. 127 CP et les références citées).
+En l'espèce, on ne saurait considérer que F.________ assumait une position analogue vis-à-vis
+du recourant, de sorte qu'une condamnation de celle-ci pour cette infraction apparaît exclue. Le
+recours doit par conséquent être rejeté sur ce point.
+3.3
+3.3.1
+Selon l'art. 231 ch. 1 CP, se rend l'auteur de
+propagation d'une maladie de l'homme celui qui, intentionnellement, aura propagé une maladie de
+l'homme dangereuse et transmissible.
+3.3.2
+Aux termes de l’art.
+382
+al. 1 CPP, toute partie qui a un intérêt juridiquement protégé à l’annulation
+ou à la modification d’une décision a qualité pour recourir contre celle-ci. La
+notion de partie visée à cette disposition doit être comprise au sens des art. 104 et
+105 CPP. L'art. 104 al. 1 let. b CPP reconnaît notamment cette qualité à la partie plaignante,
+soit, selon l'art. 118 al. 1 CPP, au "lésé qui déclare expressément vouloir
+participer à la procédure pénale comme demandeur au pénal ou au civil". L'art.
+105 CPP reconnaît également la qualité de partie aux autres participants à la procédure,
+tels que le lésé (al. 1 let. a), lorsqu'ils sont directement touchés dans leurs droits
+et dans la mesure nécessaire à la sauvegarde de leurs intérêts (al. 2).
+La notion de lésé est définie à l'art. 115 CPP. Il s'agit de toute personne dont
+les droits ont été touchés directement par une infraction. En règle générale,
+seul peut se prévaloir d'une atteinte directe le titulaire du bien juridique protégé par
+la disposition pénale qui a été enfreinte (ATF 138 IV 258 c. 2.3; ATF 129 IV 95 c. 3.1;
+TF 6B_261/2014 du 4 décembre 2014, destiné à publication, c. 3.1). Les droits touchés
+sont les biens juridiques individuels tels que la vie et l'intégrité corporelle, la propriété,
+l'honneur, etc. (TF 6B_261/2014 précité c. 3.1). Dans le cadre des normes pénales qui
+ne protègent pas en première ligne des biens juridiques individuels, sont seuls considérés
+comme lésés ceux qui sont atteints dans leurs droits par l’infraction décrite dans
+la mesure où cette atteinte est la conséquence directe du comportement répréhensible
+(ATF 138 IV 258 c. 2.3; ATF 129 IV 95 c. 3.1 et les références citées).
+Le bien juridiquement protégé par l'art. 231 CP est en première ligne la santé publique
+et non l'individu atteint (Dupuis et al., op. cit., n. 2 ad art. 231 CP et les références citées).
+3.3.3
+En l'espèce, étant précisé
+que l'instruction a établi que le recourant n'avait pas été infecté par le VIH, celui-ci
+ne peut prétendre à la qualité de lésé pour ce qui est de l’infraction
+en question, dont il n’est dès lors que le dénonciateur. Il n’a par conséquent
+pas la qualité pour contester l’ordonnance attaquée à cet égard et le recours
+est dès lors irrecevable sur ce point.
+4.
+4.1
+Le recourant conteste également le classement
+en tant qu'il porte sur les infractions contre le patrimoine dont il reproche la commission à F.________.
+4.2
+S'agissant tout d'abord des infractions contre
+le patrimoine que F.________ aurait commises au préjudice de tiers, dont le recourant a fait état
+dans des déterminations adressées au Ministère public le 21 juillet 2014 (cf. ch. 19 ss
+de l'acte de recours), le recourant ne peut prétendre à la qualité de lésé (cf. c. 3.3.2
+supra). Il n'a par conséquent pas la qualité pour contester l'ordonnance attaquée à
+cet égard et le recours est irrecevable sur ce point.
+Le recourant fait également valoir que l'instruction de ces infractions permettrait de mettre en
+évidence des indices à charge de F.________ en relation avec les infractions contre le patrimoine
+qu'elle aurait commises au préjudice du recourant (ch. 21 de l'acte de recours). Il peut être
+renvoyé à l'examen du classement de la procédure sur ce point (cf. c. 4.3 infra).
+4.3
+En ce qui concerne les faits dénoncés
+dans la plainte du 18 septembre 2010, qui seraient constitutifs d'infractions contre le patrimoine du
+recourant, les infractions en cause se poursuivent toutes sur plainte lorsqu'elles ont été
+commises au préjudice de familiers (cf. art. 137 ch. 2, 138 ch. 1, 139 ch. 4 et 146 al. 3 CP). Selon
+l'art. 110 al. 2 CP, les familiers d'une personne sont ceux qui font ménage commun avec elle.
+Si une infraction n'est punie que sur plainte, toute personne lésée peut porter plainte contre
+l'auteur (art. 30 al. 1 CP). Selon l'art. 31 CP, le droit de porter plainte se prescrit par trois mois
+(1
+re
+phrase). Le délai court du jour où l'ayant droit a connu l'auteur de l'infraction (2
+e
+phrase).
+En l'espèce, il est constant que les faits
+en relation avec les montants que le recourant aurait remis à F.________ seraient survenus au printemps
+2010, au plus tard en mai. Il ressort en outre du dossier qu'à l'époque des faits, les parties
+étaient des familiers au sens de la loi, de sorte que la poursuite des infractions présumées
+n'est possible que si celles-ci ont fait l'objet d'une plainte pénale déposée dans le
+délai légal. Or tel n'est pas le cas en l'espèce, le recourant n'ayant déposé
+plainte pénale que le 18 septembre 2010, soit après l'expiration du délai de trois mois.
+C'est dès lors à raison que le Ministère public a classé la procédure pénale
+à cet égard et le recours doit être rejeté sur ce point.
+4.4
+Le classement pour le vol de colis présumé
+qui a fait l'objet de la plainte du recourant du 8 mars 2012 peut également être confirmé
+pour les motifs retenus par le Ministère public. En effet, outre que les explications données
+par F.________, qui évoque une confusion des noms avec celui de l'enfant des parties, sont plausibles,
+on ne voit pas pourquoi F.________ aurait par la suite remis le colis en question, qu'elle n'avait pas
+ouvert, à un tiers pour qu'il le transmette au recourant si elle avait eu l'intention de le dérober.
+Le recours doit donc également être rejeté sur ce point.
+5.
+5.1
+Le recourant reproche enfin au Ministère public de ne pas avoir poursuivi F.________ pour dénonciation
+calomnieuse.
+5.2
+Dans les déterminations que le recourant
+a adressées au Ministère public le 1
+er
+mai 2014, celui-ci a expressément requis la poursuite de F.________ pour cette infraction en raison
+des accusations de contrainte sexuelle qu'elle avait portées à son encontre dans sa plainte
+pénale du 19 août 2010.
+Le Ministère public n'a cependant pas ouvert d'instruction pour ces faits et aucune indication à
+ce sujet ne figure dans l'ordonnance de classement rendue en faveur de F.________. De manière peu
+compréhensible, le Ministère public a en revanche évoqué cette question dans les
+considérants de l'ordonnance de classement qu'il a rendue en faveur de V.________, en exposant en
+substance qu'il n'entendait pas entrer en matière.
+5.3
+La forme et le contenu de l’ordonnance de
+classement sont régis par les art. 80 et 81 CPP (art. 320 al. 1 CPP). L’ordonnance de classement
+doit être motivée et rendue par écrit (art. 80 al. 2 CPP). Comme elle ne constitue pas
+une ordonnance simple d’instruction, elle doit nécessairement être rédigée
+séparément (art. 80 al. 3 1
+re
+phrase CPP a contrario). En tant que prononcé de clôture de la procédure, elle contient
+une introduction, un exposé des motifs, un dispositif et l’indication des voies de droit (art.
+81 CPP). Ainsi, selon la jurisprudence, l’abandon de la poursuite pénale est subordonné
+au prononcé d’une ordonnance formelle de classement, mentionnant expressément les faits
+que le ministère public renonce à poursuivre. Dès lors que le classement doit faire l’objet
+d’un prononcé séparé, écrit et motivé, il ne peut être glissé
+et mélangé au contenu d’une autre décision (ATF 138 IV 241 c. 2.5). Il doit en aller
+de même d’une non-entrée en matière, à laquelle les dispositions sur le classement
+de la procédure sont applicables (art. 310 al. 2 CPP; CREP 15 juillet 2013/446). Sous réserve
+de circonstances particulières, l’annulation doit frapper uniquement la décision implicite
+elle-même, mais non pas l’ordonnance attaquée en tant que telle (CREP 20 février
+2014/143 c. 2.2).
+5.4
+En l'espèce, la façon de procéder
+du Ministère public est un cas de non-entrée en matière implicite. Dans la mesure où
+l'infraction en question n'est nullement évoquée dans la motivation de l'ordonnance attaquée
+(comp.
+CREP 29 octobre 2014/788 c. 6.3),
+une éventuelle rectification de celle-ci est exclue. La non-entrée en matière implicite
+devra par conséquent être annulée et il appartiendra au Ministère public de rendre
+un prononcé de clôture conforme aux exigences légales rappelées ci-dessus. Il n’y
+a pas lieu de se prononcer de façon anticipée sur la question de savoir si les conditions d’un
+classement ou d’une non-entrée en matière sont réalisées.
+6.
+En définitive, le recours doit être
+partiellement admis dans la mesure où il est recevable (cf. c. 3.3.3 et 4.2 supra). L'ordonnance
+attaquée sera confirmée en tant qu'elle constitue une ordonnance de classement; en revanche,
+la non-entrée en matière prononcée implicitement par le Ministère public sera annulée
+et le dossier de la cause renvoyé à cette autorité pour qu'elle procède dans le sens
+des considérants (cf. c. 5.4 supra).
+Au vu du sort de la procédure de recours, les frais de celle-ci, constitués en l'espèce
+uniquement de l'émolument d’arrêt (art. 422 al. 1 CPP), par 1'210 fr. (art. 20 al. 1
+TFIP  [Tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010; RSV 312.03.1]), seront mis par trois quarts, soit
+907
+fr. 50, à la charge du recourant et par un quart, soit 302 fr. 50, à la charge de F.________,
+qui a conclu au rejet intégral du recours (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis dans la mesure où il est recevable.
+II.
+L'ordonnance de classement du 1
+er
+septembre 2014 est confirmée.
+III.
+La non-entrée en matière prononcée
+implicitement par le Ministère public de l’arrondissement de l'Est vaudois le 1
+er
+septembre 2014 au sujet de l'infraction de dénonciation calomnieuse est annulée et le dossier
+de la cause est renvoyé à cette autorité pour qu'elle procède dans le sens des considérants.
+IV.
+Les frais de la procédure de recours, par
+1'210 fr. (mille deux cent dix francs), sont mis par trois quarts, soit 907 fr. 50 (neuf cent sept francs
+et cinquante centimes), à la charge de V.________ et par un quart, soit 302 fr. 50 (trois cent deux
+francs et cinquante centimes), à la charge de F.________.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Mirko Giorgini, avocat (pour V.________),
+-
+Mme Claire Charton, avocate (pour F.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
