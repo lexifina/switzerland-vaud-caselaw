@@ -1,0 +1,142 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 2"
+decided: "2014-12-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4737898"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-031.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 2
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉLAI DE RECOURS, OBSERVATION DU DÉLAI, PLAINTE{LP} | 18 al. 1 LP, 28 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.12.2014 Plainte / 2015 / 2
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉLAI DE RECOURS, OBSERVATION DU DÉLAI, PLAINTE{LP} | 18 al. 1 LP, 28 al. 1 LVLP
+
+TRIBUNAL
+CANTONAL
+FA14.020152-142047
+61
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 décembre 2014
+______________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Juges
+:              Mme
+Byrde et M. Maillard
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 LP et 28 al. 1 LVLP
+Vu la décision rendue le 20 octobre 2014, à la suite de l'audience du 7 août 2014,
+par le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance, rejetant la plainte déposée le 16 mai 2014 par
+Y.________
+,
+à Corseaux, contre la commination de faillite qui lui avait été notifiée le 7 mai
+2014 par l'
+Office
+des poursuites du district de La Riviera - Pays-d'Enhaut
+,
+dans le cadre de la poursuite n° 7'013'435 exercée à l'instance de la
+Banque
+M.________
+, à Lausanne,
+vu la notification au plaignant de cette décision sous pli recommandé le 27 octobre 2014, par
+distribution au guichet de la poste,
+vu le recours formé par Y.________ auprès de la cour de céans, autorité supérieure
+de surveillance, par acte posté le 7 novembre 2014, concluant en substance à l'annulation de
+la commination de faillite,
+vu l'avis du président de la cour de céans du 25 novembre 2014, adressé au recourant sous
+pli recommandé, l'informant que son acte paraissait tardif, le délai de recours étant
+arrivé à échéance le 6 novembre 2014, et lui impartissant un délai de dix jours
+dès réception de cet avis pour fournir toutes explications utiles sur les raisons pour lesquelles
+il n'aurait pas respecté le délai légal de recours, sous peine d'irrecevabilité,
+vu le renvoi du pli contenant cet avis au greffe de la cour de céans par la poste à l'échéance
+du délai de garde, avec la mention "non réclamé";
+attendu que le délai pour recourir contre une décision de l'autorité inférieure de
+surveillance est de dix jours dès la notification de cette décision (art. 18 al. 1 LP [loi
+fédérale sur la poursuite pour dettes et la faillites; RS 281.1] et 28 al. 1 LVLP [loi vaudoise
+d'application de la LP]),
+qu'en l'espèce, le délai de recours de dix jours contre la décision du Président
+du Tribunal d'arrondissement de l'Est vaudois notifiée le 27 octobre 2014 est arrivé à
+échéance le 6 novembre 2014,
+que le recours remis à la poste le lendemain, 7 novembre 2014, a ainsi été déposé
+tardivement,
+qu'il est par conséquent irrecevable;
+attendu que le recourant a été invité à s'expliquer sur son inobservation du délai
+légal de recours, par avis présidentiel du 25 novembre 2014, envoyé sous pli recommandé,
+qu'il est censé avoir reçu cet avis au plus tard à l'échéance du délai
+de garde de sept jours du pli, soit le 3 décembre 2014,
+qu'un acte est en effet réputé notifié, en cas d'envoi recommandé, lorsque celui-ci
+n'a pas été retiré à l'expiration d'un délai de sept jours à compter de
+l'échec de la remise, si le destinataire devait s'attendre à recevoir la notification (art. 138
+al. 3 let. a CPC [Code de procédure civile; RS 272], applicable conformément à l'art.
+31 LP),
+que cette fiction de notification
+à l'échéance du délai de sept jours n'intervient ainsi que si le destinataire devait
+s'attendre à recevoir une communication,
+qu'en l'espèce, ayant
+déposé un acte de recours auprès de la cour de céans, Y.________ devait  s'attendre
+à en recevoir des communications,
+qu'il est ainsi censé avoir eu l'occasion de s'expliquer sur la tardiveté du dépôt
+de son recours,
+que son absence d'explications ne permet pas de considérer que cette tardiveté ne lui est pas
+imputable ou résulte d'un empêchement excusable,
+que le recours doit par conséquent être déclaré irrecevable;
+attendu que le présent arrêt est rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+20 janvier 2015
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, à :
+‑
+M. Y.________,
+-
+Banque M.________,
+‑
+M. le Préposé à l'Office des poursuites du district de La Riviera - Pays-d'Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
