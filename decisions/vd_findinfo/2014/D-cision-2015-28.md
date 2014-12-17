@@ -1,0 +1,210 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 28"
+decided: "2014-12-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4746273"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-127.md", "switzerland/bund/acts/741.01/art-034.md"]
+---
+
+# VD Findinfo Décision / 2015 / 28
+
+## Regeste
+
+RÉCUSATION, PRÉFET, ADMISSION DE LA DEMANDE | 56 let. f CPP (CH), 59 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.12.2014 Décision / 2015 / 28
+
+RÉCUSATION, PRÉFET, ADMISSION DE LA DEMANDE | 56 let. f CPP (CH), 59 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+904
+PE14.026141
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 17 décembre 2014
+_________________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Perrot et Maillard, juges
+Greffière
+:              Mme
+Matile
+*****
+Art.
+56 let. f, 58, 59, 393 al. 1 let. a CPP
+Statuant sur la demande de récusation déposée le 10 décembre 2014 par
+F.________
+à l'encontre de Sylviane Klein, Préfète du district de Lausanne, dans la cause
+n°
+LAU/01/14/0008877
+, la Chambre des recours pénale
+considère :
+En fait :
+A.
+F.________ a été impliqué dans un accident de la circulation le 26 octobre 2014 en ville
+de Lausanne. Il a été dénoncé à la Préfecture pour violation de l'art.
+34 al. 4 LCR (Loi fédérale du 19 septembre 1958 sur la circulation routière, RS 741.01),
+faute d'avoir laissé une distance suffisante pour circuler dans une file de véhicules.
+Par ordonnance pénale du 14 novembre 2014, la Préfète du district de Lausanne a condamné
+F.________ pour violation simple des règles de la circulation à une amende de 100 fr., la peine
+privative de liberté en cas de non-paiement de l'amende étant de un jour, et a mis les frais,
+par 150 fr., à la charge du condamné.
+Le 25 novembre 2014, F.________ a fait opposition à cette ordonnance.
+Par avis du 27 novembre 2014, la préfète a cité F.________ à comparaître personnellement
+à une audience le 10 décembre 2014 à 16 heures, afin d'être entendu comme prévenu.
+Le 5 décembre 2014, la Préfète du district de Lausanne a notifié une nouvelle ordonnance
+pénale à F.________, ramenant l'amende prononcée à 50 fr., plus frais.
+Par courrier du 9 décembre 2014 de son assurance de protection juridique, F.________ a d'emblée
+fait opposition à l'ordonnance précitée, indiquant que, contrairement à ce qui était
+indiqué dans ce document, il n'avait pas encore été entendu, et que son audition était
+précisément prévue le lendemain, 10 décembre 2014.
+B.
+Entendu lors de l'audience du 10 décembre 2014, F.________ a d'emblée requis la récusation
+de la Préfète Sylviane Klein pour avoir préjugé par ordonnance pénale du 5 décembre
+2014.
+La préfète s'est déterminée le 12 décembre 2014 sur cette demande. Elle a relevé
+que c'était à la suite d'une erreur de traitement et d'un mélange de dossiers qu'une nouvelle
+ordonnance pénale avait été adressée à F.________. La magistrate a précisé
+qu'elle entendait corriger les conséquences de cette méprise en audience et rédiger une
+nouvelle ordonnance pénale, qui aurait annulé la précédente, de sorte que la demande
+de récusation formulée était à ses yeux sans fondement.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 59 al. 1 let. b CPP (Code
+de procédure pénale suisse du 5 octobre 2007; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant une
+fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l'occurrence, la Chambre des recours pénale du Tribunal cantonal est compétente pour statuer
+sur la demande de récusation présentée par F.________ à l’encontre de la Préfète
+Sylviane Klein (art. 13 de la loi d’introduction du code de procédure pénale suisse [LVCPP];
+RSV 312.01).
+1.2
+La défense des prévenus est réservée aux avocats qui, en vertu de la LLCA (loi fédérale
+sur la libre circulation des avocats du 23 juin 2000; RS 935.61), sont habilités à représenter
+les parties devant les tribunaux, les dispositions contraires du droit cantonal sur la représentation
+dans le cadre de procédures portant sur des contraventions étant réservées (art.
+127 al. 5 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]).
+L’art. 21 LVCPP (loi cantonale d'introduction du Code de procédure pénale suisse; RSV
+312.01) prévoit que les prévenus peuvent se faire représenter devant les autorités
+administratives compétentes en matière de contraventions par un mandataire qui n'est pas inscrit
+au registre cantonal des avocats ni au tableau public des avocats des Etats membres de l'Union européenne.
+La ratio legis de cette norme est de permettre notamment aux agents d’affaires ou aux assurances
+de protection juridique d’assister des prévenus devant les préfets (EMPL 116, Septembre
+2008, p. 55 ad art. 20 du projet de loi). L’art. 21 LVCPP passe sous silence les autorités
+judiciaires. Ce silence est qualifié. Le monopole de représentation dévolu aux avocats
+inscrits prévaut donc devant les tribunaux pour tous types d’infractions. Un assureur de protection
+juridique ne peut pas représenter un prévenu dans le cadre d'un recours devant la Chambre des
+recours pénale contre une ordonnance préféctorale (cf. Juge unique CREP 14 juillet 2014/277).
+En l'occurrence, la requête de récusation a été formée devant le préfet,
+conformément à l'art. 58 al. 1 CPP, de sorte qu'il y a lieu d'entrer en matière sur celle-ci.
+En revanche, il faut considérer que F.________ agit seul, son assurance de protection juridique
+n'étant pas autorisée, au vu des principes rappelés ci-dessus, à le représenter
+dans le cadre de la requête de récusation qu'il a déposée à l'encontre de la
+préfète et sur laquelle il incombe à la Cour de céans de statuer.
+2.
+2.1
+L'art. 56 let. a à f CPP énonce divers motifs de récusation qualifiés à l'égard
+de toute personne exerçant une fonction au sein d’une autorité pénale; pour sa part,
+sa lettre f impose la récusation du fonctionnaire ou magistrat concerné lorsque d'autres motifs,
+notamment un rapport d'amitié étroit ou d'inimitié avec une partie ou son conseil, sont
+de nature à le rendre suspect de prévention. L'art. 56 let. f CPP a la portée d'une clause
+générale recouvrant tous les motifs de récusation non expressément prévus aux
+lettres précédentes (TF 1B_202/2013 du 23 juillet 2013 c. 2.1.2 ; TF 6B_621/2011 du 19 décembre
+2011 c. 2.2).
+La garantie d'un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999; RS 101) et 6 par. 1 CEDH (Convention
+du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales; RS 0.101)
+permet d'exiger la récusation d'un juge – respectivement d'un procureur (cf. ATF 138 IV 142)
+ou encore d'un membre d'une autorité pénale compétente en matière de contravention
+– dont la situation ou le comportement est de nature à faire naître un doute sur son
+impartialité (TF 1B_629/2011 ibid., c. 2.1 et la référence citée; ATF 126 I 68 c.
+3a). La récusation ne s'impose pas seulement lorsqu'une prévention effective du magistrat est
+établie, car une disposition interne de sa part ne peut guère être prouvée. Il suffit
+que les circonstances donnent l'apparence de la prévention et fassent redouter une activité
+partiale du magistrat. Seules les circonstances constatées objectivement doivent être prises
+en considération; les impressions purement individuelles d'une des parties au procès ne sont
+pas décisives (TF du 19 décembre 2011 précité c. 2.1 et la référence citée;
+ATF 136 III 605 c. 3.2.1; ATF 134 I 20 c. 4.2), et des erreurs de procédure ou d’appréciation
+ne suffisent pas (TF 1B_305/2010 du 25 octobre 2010; ATF 116 Ia 135).
+2.2
+En l'espèce, F.________ sollicite la récusation de la préfète en faisant valoir que
+la magistrate a préjugé en rendant l'ordonnance du 5 décembre 2014.
+Dans ses déterminations écrites du 12 décembre 2014, la préfète a indiqué
+que c'était à la suite d'une erreur de traitement et d'un mélange de deux dossiers que
+cette ordonnance avait été adressée au prévenu. Cela est pourtant difficile à
+concevoir dès lors que la référence du dossier, l'identité du prévenu, le lieu
+et la date de l'événement ainsi que la faute reprochée sont rigoureusement identiques
+dans les deux ordonnances. Celle du 5 décembre 2014 mentionne en outre que le prévenu a été
+cité à l'audience du 10 décembre 2014 et entendu, ce qui correspond à la date pour
+laquelle il avait effectivement été convoqué. L'ordonnance litigieuse peut, dans ces circonstances,
+effectivement donner l'impression qu'avant même d'avoir entendu le recourant, la préfète
+avait déjà pris sa décision. Cette manière de voir est au demeurant confortée
+par le fait que, dans ses déterminations, la magistrate précise qu'elle entendait corriger
+les conséquences de la méprise invoquée en audience et rédiger une nouvelle ordonnance
+pénale, qui aurait annulé la précédente, donnant ainsi à penser qu'elle excluait
+d'emblée toute autre issue qu'une condamnation dans le cas particulier.
+3.
+Au vu de ce qui précède, la demande de récusation formée par F.________ doit être
+admise et la cause transmise à l'autre Préfet du district de Lausanne, Serge Terribilini, pour
+nouvelle décision.
+Les frais de la présente procédure, constitués en l'espèce du seul émolument
+de décision, par 660 fr. (art. 20 du Tarif des frais judiciaires pénaux [RSV 312.03.1]), seront
+laissés à la charge de l'Etat (art. 59 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation formée par F.________ à l'encontre de la Préfète Sylviane
+Klein est admise.
+II.
+Le dossier de la cause est renvoyé au Préfet du district de Lausanne Serge Terribilini pour
+nouvelle décision.
+III.
+Les frais de la présente décision, par
+660 fr. (six cent soixante francs), sont laissés à la charge de l'Etat.
+IV.
+La présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+M. F.________,
+et communiquée à :
+-
+Mme la Préfète du district de Lausanne,
+-
+Assista protection juridique
+SA (pour F.________),
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
