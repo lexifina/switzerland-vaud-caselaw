@@ -1,0 +1,204 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___48"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 48"
+decided: "2014-12-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4763358"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 48
+
+## Regeste
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE CONDAMNATION, DÉLAI DE RECOURS | 356 al. 2 CPP (CH), 85 al. 4 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.12.2014 Décision / 2015 / 48
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE CONDAMNATION, DÉLAI DE RECOURS | 356 al. 2 CPP (CH), 85 al. 4 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+913
+PE14.006988-TDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 décembre 2014
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Maillard, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+356 al. 2, 393 al. 1 let. b CPP
+Statuant sur le recours interjeté le 4 décembre 2014 par
+X.________
+contre le prononcé rendu le 28 novembre 2014 par le Tribunal de police de l’arrondissement
+de Lausanne dans la cause
+n° PE14.006988-TDE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par ordonnance pénale du 5 septembre 2014
+– adressée le même jour par pli recommandé à X.________ –, le Ministère
+public de l’arrondissement de Lausanne l’a condamnée, pour injure et menaces, à
+20 jours-amende à 30 fr. le jour, et a mis à sa charge les frais de procédure, par 200
+francs.
+L’intéressée a été avisée le 8 septembre 2014 de l’arrivée
+d’un envoi recommandé qui, n’ayant pas été retiré, a été retourné
+au Ministère public avec la mention « non réclamé ».
+Le 6 novembre 2014, X.________ a adressé au Ministère public une lettre (P. 15) que, sur interpellation
+de celui-ci, elle a confirmé être une opposition à l’ordonnance pénale (P.
+18).
+B.
+Par prononcé du 28
+novembre 2014, le Tribunal de police de l’arrondissement de Lausanne a déclaré irrecevable
+l’opposition formée par X.________ à l’ordonnance pénale du 5 septembre 2014
+et a dit que cette ordonnance pénale était exécutoire.
+C.
+Le 4 décembre 2014, la prévenue a adressé au Tribunal cantonal une lettre dans laquelle
+elle discute le fond de l’affaire en revenant sur la querelle de buanderie qui l’oppose à
+N.________.
+Interpellée par le Président de la Chambre des recours pénale, X.________ a précisé,
+le 10 décembre 2014, qu’elle entendait bien recourir contre le prononcé du 28 novembre
+2014.
+Il n’a pas été ordonné d’échanges d’écritures.
+En droit
+:
+1.
+Le prononcé par lequel un tribunal de première instance statue sur la validité de l'opposition
+formée par le prévenu contre une ordonnance pénale rendue par le Ministère public
+(cf. art. 356 al. 2 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312])
+est susceptible de recours selon les art. 393 ss CPP (Gilliéron/Killias,
+in
+:
+Kuhn/Jeanneret (éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+n. 5 ad art. 356 CPP; Riklin,
+in
+:
+Niggli/Heer/Wiprächtiger (éd.), Basler Kommentar, Schweizerische Strafprozess-ordnung, Jugendstrafprozessordnung,
+2
+e
+éd., Bâle 2014, n. 2 ad art. 356 CPP ; CREP 3 septembre 2014/650 ; CREP 21 août
+2014/593 ; CREP 14 août 2014/580).
+Le recours doit être adressé par écrit,
+dans un délai de dix jours dès la notification de la décision attaquée (art. 384
+let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP) qui est, dans le canton
+de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du
+19 mai 2009 d’introduction du code de procédure pénale suisse ; RSV 312.01] ;
+art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation judiciaire ; RSV 173.01]).
+En l’espèce, le recours a été interjeté en temps utile devant l’autorité
+compétente par la prévenue qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les
+formes prescrites (art. 385 al. 1 CPP). Il est donc recevable.
+2.
+2.1
+L’ordonnance pénale est notifiée
+par écrit aux personnes et aux autorités qui ont qualité pour former opposition (art.
+353 al. 3 CPP). Peuvent former opposition contre l’ordonnance pénale, par écrit et dans
+les dix jours, le prévenu, les autres personnes concernées et, si cela est prévu, le premier
+procureur ou le procureur général de la Confédération ou du canton, dans le cadre
+de la procédure pénale pertinente (art. 354 al. 1 CPP). Si aucune opposition n’est valablement
+formée, l’ordonnance pénale est assimilée à un jugement entré en force
+(art. 354 al. 3 CPP). En application de l'art. 356 al. 2 CPP, le tribunal de première instance statue
+sur la validité de l'ordonnance pénale et de l'opposition. Si l'opposition a été
+formée tardivement, le tribunal la déclare irrecevable. Elle est tardive si elle a été
+adressée à l’autorité après le délai de dix jours prévu par l'art.
+354 al. 1 CPP.
+Aux termes de l’art. 85 CPP, sauf disposition contraire du CPP, les communications des autorités
+pénales sont notifiées en la forme écrite (al. 1). La notification se fait en principe
+par lettre signature ou par tout autre mode de communication impliquant un accusé de réception,
+notamment par l’entremise de la police (al. 2). Le prononcé est réputé notifié
+lorsqu’il a été remis au destinataire, à l’un de ses employés ou à
+toute personne de plus de seize ans vivant dans le même ménage (al. 3). L’alinéa
+4 de cette disposition prévoit que le prononcé est également réputé notifié
+lorsque, expédié par lettre signature, il n’a pas été retiré dans les
+sept jours à compter de la tentative infructueuse de remise du pli, si la personne concernée
+devait s’attendre à une telle remise (let. a), ou lorsque, notifié personnellement, il
+a été refusé et que ce refus a été dûment constaté le jour même
+par la personne chargée de remettre ce pli (let. b).
+Une personne ne doit s'attendre à la remise d'un prononcé que lorsqu'il y a une procédure
+en cours, la concernant, qui impose aux parties de se comporter conformément aux règles de
+la bonne foi, à savoir de faire en sorte, entre autres, que les décisions relatives à
+la procédure puissent leur être notifiées. Le devoir procédural d'avoir à s'attendre
+avec une certaine vraisemblance à recevoir la notification d'un acte officiel naît avec l'ouverture
+d'un procès et vaut pendant toute la durée de la procédure (TF 6B_463/2014 du 18 septembre
+2014 c. 1.1 ; ATF 130 III 396 c. 1.2.3).
+2.2
+En l’espèce, la recourante savait qu’une instruction pénale était ouverte
+contre elle pour injure et menaces depuis le 8 avril 2014, le Ministère public l’en ayant
+informé par lettre du 15 juillet 2014 (P. 10). Celle-ci est bien parvenue à sa destinataire
+puisqu’elle y a répondu le 18 juillet 2014 (P. 11). Certes, la recourante a indiqué dans
+sa lettre du 18 juillet 2014 qu’elle serai[t] à l’étranger pendant les trois prochaines
+semaines ». L’ordonnance pénale a toutefois été notifiée le 5 septembre
+2014, soit un mois après la fin de l’absence à l’étranger annoncée par
+la recourante, si bien que la recourante ne saurait soutenir qu’elle ne devait pas s’attendre
+à la remise d’un prononcé à cette date.
+La fiction de l’art. 85 al. 4 let. a CPP étant opérante, l’ordonnance pénale
+a été valablement notifiée à l’issue du délai de garde le mercredi 17 septembre
+2014. Le délai de dix jours pour former opposition est donc arrivé à échéance
+le lundi 29 septembre 2014 (cf. art. 90 al. 2 CPP). Mise à la poste le 6 novembre 2014, l’opposition
+est manifestement tardive au regard de l’art. 354 al. 1 CPP. C’est donc à bon droit
+que le tribunal de police l’a déclarée irrecevable.
+3.
+En définitive, le recours doit être
+rejeté sans autre échange d’écritures (art. 390 al. 2 CPP) et le prononcé du
+28 novembre  2014 confirmé.
+Les frais de la procédure de recours, constitués uniquement des frais d’arrêt, par
+550 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge de la recourante, qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 28 novembre 2014 est confirmé.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont mis à la charge de X.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme X.________,
+-
+MmeN.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Présidente du Tribunal d’arrondissement
+de Lausanne,
+-
+Mme la Procureure de l’arrondissement de
+Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier : [...]
