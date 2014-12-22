@@ -1,0 +1,388 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 30"
+decided: "2014-12-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4774297"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-104.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-210.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2015 / 30
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE, IN DUBIO PRO DURIORE | 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 22.12.2014 Décision / 2015 / 30
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE, IN DUBIO PRO DURIORE | 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+918
+PE08.027142-CDT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+22 décembre 2014
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+319 al. 1, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 23 juin 2014 par
+A.________
+SA
+contre l’ordonnance de suspension et
+de classement rendue le 28 mai 2014 par le Ministère public de l’arrondissement de La Côte
+dans la cause
+n° PE08.027142-CDT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+A
+mi-novembre 2008, la société N.________ SA, sise à Préverenges, a décidé
+de retirer l’ensemble des avoirs qu’elle détenait auprès de l’établissement
+bancaire A.________ SA. Dans ce but, elle a établi, le 14 novembre 2008, par son administrateur
+M.________, un courrier à l’intention de l’agence A.________ SA de Morges dans lequel
+figurait notamment l’ordre de transférer la somme de 2 millions de francs de son compte [...]
+sur le compte N.________ SA ouvert auprès de la Banque H.________, agence d’Echallens. V.________,
+J.________ et O.________, agissant de concert, auraient toutefois intercepté et falsifié cet
+ordre de virement en indiquant que la somme de 2 millions de francs devait être créditée
+sur un compte de la B.________ (ci-après : B.________) appartenant à la société C.________
+AG, basée dans le canton de Schwyz et dont l’administrateur unique était V.________.
+L’ordre a été exécuté le 20 novembre 2008. Le 4 décembre 2008, après
+avoir conservé la somme d’environ 300'000 fr., V.________, agissant selon les instructions
+données par J.________ sur ordre d’O.________, a transféré le solde, soit 1’697'863
+fr., sur un compte de la société R.________ AG ouvert auprès de la S.________ AG, au Liechtenstein.
+Cette somme était destinée à la création d’autres sociétés au Liechtenstein
+pour l’exploitation de brevets mis au point par C.________ AG.
+La quasi-totalité de la somme détournée, soit 1’971'020 fr. 20, a pu être séquestrée
+sur les comptes de C.________ AG et R.________ AG et restituée à N.________ SA.
+N.________ SA, par son représentant qualifié M.________, a déposé plainte le 5 décembre
+2008 et s’est constituée partie civile par courrier du 9 janvier 2009. A.________ SA, par
+ses représentants qualifiés [...] et [...], a également déposé plainte par courrier
+du 29 janvier 2009.
+b)
+Par
+courrier du 16 juin 2009, un ou des inconnus ont fait parvenir à la Banque H.________ d’Echallens
+un faux ordre de virement, établi sur du papier à l’en-tête de la société
+N.________ SA et comportant la signature de M.________, portant sur la somme de 1 million de francs à
+verser à partir du compte N.________ SA, en faveur de [...], avec la mention [...] Sàrl. Par
+ailleurs, ce document indiquait faussement que la secrétaire de N.________ SA pouvait être
+contactée au numéro [...]. Le faux ordre n’a toutefois pas été exécuté.
+N.________ SA, par son représentant qualifié M.________, a complété sa plainte le
+18 juin 2009.
+c)
+En
+raison des faits ci-dessus, le Juge d’instruction, puis le Ministère public de l’arrondissement
+de La Côte, ont instruit une enquête contre V.________, J.________ et O.________ pour escroquerie
+et faux dans les titres.
+B.
+Par ordonnance du 28 mai 2014, approuvée
+par le Procureur général le 4 juin 2014, le Ministère public de l’arrondissement
+de La Côte, faisant application de l’art. 319 al. 1 let. a CPP (Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0), a ordonné le classement de la procédure pénale dirigée
+contre V.________, J.________ et O.________ pour escroquerie, tentative d’escroquerie et faux dans
+les titres (I à III) et a dit que, les investigations se poursuivant par ailleurs, la procédure
+était suspendue (IV) et que les frais suivaient le sort de la cause (V).
+A l’appui de son ordonnance de classement, le Procureur a retenu que l’instruction n’avait
+pas permis d’établir, s’agissant du premier cas (let. A.a
+supra
+),
+que les trois prévenus étaient les auteurs de la falsification de l’ordre de virement
+adressé à A.________ SA et donc du détournement des 2 millions de francs, ni, dans le
+second cas (let. A.b
+supra
+),
+qu’ils avaient joué un rôle dans l’envoi du faux ordre de virement adressé
+à la Banque H.________ d’Echallens.
+C.
+Par acte du 23 juin 2014, remis à la poste
+le même jour, A.________ SA, qui conteste uniquement le classement pour ce qui est du premier cas
+(let. A.a
+supra
+),
+a recouru contre cette ordonnance, en concluant, avec dépens, à son annulation et au renvoi
+du dossier de la cause au Ministère public pour nouvelle décision dans le sens des considérants
+et à ce que, dans la mesure où le domicile du prévenu O.________ est pour l’heure
+inconnu, des recherches conformes à l’art. 210 CPP soient ordonnées.
+Par déterminations du 29 juillet 2014, O.________ a conclu au rejet du recours.
+Les autres intimés ne se sont pas déterminés dans le délai qui leur avait été
+imparti à cet effet.
+Dans sa réplique du 12 août 2014, A.________ SA a confirmé les conclusions prises dans
+son recours.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP),
+qui est dans le canton de Vaud la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi vaudoise d’introduction du Code de procédure pénale suisse; RSV 312.01]; art. 80
+LOJV [loi vaudoise d’organisation judiciaire; RSV 173.01]).
+1.2
+Selon l’art. 104 al. 1 CPP, ont la qualité
+de partie le prévenu (let. a), la partie plaignante (let. b) et le ministère public, lors des
+débats ou dans la procédure de recours (let. c).
+On entend par partie plaignante (cf. art. 104 al. 1 let. b CPP) le lésé qui déclare expressément
+vouloir participer à la procédure pénale comme demandeur au pénal ou au civil (art.
+118 al. 1 CPP) et par lésé celui qui est personnellement et immédiatement touché,
+c’est-à-dire celui qui est titulaire du bien juridiquement protégé touché par
+l’infraction (CREP 20 octobre 2014/760 c. 2.1 et les références citées).
+S’agissant tout d’abord de l’infraction de faux dans les titres, l’art. 251 CP
+(Code pénal suisse du 21 décembre 1937, RS 311.0) protège, en tant que bien juridique,
+la confiance accordée dans la vie juridique à un titre comme moyen de preuve (Dupuis et al.,
+Petit Commentaire du Code pénal, Bâle 2012, n. 2 ad remarques préliminaires aux art. 251
+à 257 CP). Quant à l’art. 146 CP réprimant l’escroquerie, le bien juridique
+protégé par cette disposition est le patrimoine (ATF 122 IV 197 c. 2c p. 203; Markus Boog,
+Die Rechtsprechung des Bundesgerichts zum Begriff des Vermögensschadens beim Betrug, 1991, pp. 7
+s. et les auteurs cités). La personne aux dépens de laquelle est commise l'escroquerie, soit
+le titulaire du bien juridique protégé, est ainsi celle dont les intérêts pécuniaires
+sont lésés, non l'éventuel dupé (TF 6B_525/2012 du 5 novembre 2012 c. 3.3).
+Toutefois, en l’espèce, le montant détourné était déposé sur un compte
+d'A.________ SA et celle-ci avait la responsabilité de conserver l’argent déposé
+(TF 1P.448/2004 du 4 octobre 2004 c. 2.2). Ainsi, trompée par un ordre de virement falsifié
+qui l’a déterminée à verser de l’argent déposé sur un de ses comptes
+à un tiers, A.________ SA a un intérêt juridiquement protégé au sens défini
+ci-dessus et, partant, la qualité pour recourir, ce qui n’est d’ailleurs pas contesté.
+1.3
+Par conséquent, interjeté dans le délai
+légal auprès de l’autorité compétente par la partie plaignante qui a qualité
+pour recourir (art. 382 al. 1 CPP), et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable.
+2.
+2.1
+Aux termes de l'art. 319 al. 1 CPP, le Ministère
+public ordonne le classement de tout ou partie de la procédure notamment lorsqu'aucun soupçon
+justifiant une mise en accusation n’est établi (let. a), à savoir lorsque les soupçons
+initiaux qui ont conduit le ministère public à ouvrir une instruction n’ont pas été
+confirmés (Grädel/Heiniger,
+in
+:
+Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Bâle 2011, n. 8 ad art. 319 CPP, p. 2208), ou lorsque les éléments constitutifs d’une
+infraction ne sont pas réunis (let. b), à savoir lorsque le comportement incriminé, quand
+bien même il serait établi, ne réalise les éléments constitutifs objectifs et
+subjectifs d’aucune infraction pénale (Grädel/Heiniger, op. cit., n. 9 ad art. 319 CPP).
+De manière générale, les motifs de classement sont ceux "qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement" (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose lorsqu’il apparaît clairement que les faits ne sont pas punissables
+(TF 6B_797/2013 du 27 mars 2014 c. 2.1). La possibilité de classer la procédure ne saurait
+toutefois être limitée à ce seul cas, car une interprétation aussi restrictive imposerait
+un renvoi en jugement, même en présence d'une très faible probabilité de condamnation.
+Le principe "
+in dubio
+pro duriore
+" exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement. En effet, en cas de doute, ce n'est
+pas à l'autorité d'instruction ou d'accusation mais au juge matériellement compétent
+qu'il appartient de se prononcer (ATF 138 IV 86 c. 4.1.1). Lorsque les probabilités d'un acquittement
+et d'une condamnation apparaissent équivalentes et pour autant qu'une ordonnance pénale n'entre
+pas en considération, le ministère public est en principe tenu de mettre le prévenu en
+accusation, ce d'autant plus lorsque les infractions sont graves (TF 6B_797/2013 précité
+c. 2.1; ATF 138 IV 86 précité c. 4.1.2).
+2.2
+En l’espèce, il n’est pas contesté
+qu’un ordre de virement falsifié a été remis à A.________ SA, que celle-ci
+l’a exécuté, versant la somme de 2 millions de francs appartenant à N.________ SA
+sur le compte d’un tiers auquel l’argent n’était pas destiné, et que ces
+faits sont constitutifs de faux dans les titres et d’escroquerie.
+Le débat porte sur l’implication des prévenus dans ces faits. V.________ et J.________
+soutiennent en bref avoir agi comme intermédiaires sans savoir qu’il participaient à
+une escroquerie, alors qu’O.________ se dit totalement étranger à cette affaire.
+S’agissant tout d’abord du prévenu
+V.________, on relèvera, sur la base des indications – non contestées – fournies
+par la Procureure (ordonnance attaquée, p. 2), que le prénommé était l’administrateur
+unique de la société C.________ AG sur le compte de laquelle a été versé le
+montant détourné. Ainsi que la Procureure l’a indiqué, le prévenu a, dans un
+premier temps, donné une version fantaisiste aux enquêteurs quant à la provenance des
+2 millions de francs versés sur le compte de sa société en novembre 2008, en expliquant
+avoir, au printemps 2008, lors d’une exposition de produits recyclés à Munich, fait la
+connaissance de deux individus qui, intéressées à ses projets d’amélioration
+de procédés de compostage, l’auraient par la suite contacté en disant vouloir investir
+dans son projet pour le compte d’un tiers. Le prévenu aurait accepté que 2 millions de
+francs transitent par le compte de sa société ; il aurait alors conservé pour ce
+service une commission de 300'000 fr. et aurait transféré le solde sur le compte qui lui aurait
+été communiqué, soit celui de R.________ AG, société de courtage d’assurance
+au Liechtenstein, dont l’administrateur était [...]. Il a affirmé ignorer l’origine
+délictueuse des 2 millions de francs et, partant, les raisons du blocage du compte de sa société
+à la B.________ sur ordre du Juge d’instruction vaudois (PV aud. 1, R. 5). Le prévenu
+aurait donné la même version à [...], dont la société faisait l’objet
+d’une procédure ouverte au Liechtenstein (PV aud. 6/2, p. 4). Lors de son audition le 10 septembre
+2009, V.________, assisté, a admis avoir menti pour protéger J.________, qui lui aurait trouvé
+une société prête à investir 2 millions de francs dans son projet, soit N.________
+SA, et qui, dans ce but, lui aurait soumis pour signature un contrat entre cette dernière et C.________
+AG, par la suite faussement signé par M.________ (PV aud. 10, R. 2 ; cf. ég. PV aud. 11,
+R. 24). Une fois ces 2 millions de francs reçus sur le compte de C.________ AG, il aurait fait exécuter,
+le 4 décembre 2008, l’ordre de virement remis par J.________, conservant sur son compte environ
+300'000 francs. Il est significatif de relever à ce propos que V.________ a dit, au terme de cette
+audition, que "la répartition des 2 millions de francs s’était décidée
+avant que cette somme arrive sur son compte", qu’il n’aurait "jamais eu d’explication
+sur les raisons de cette répartition" et qu’il aurait accepté la proposition de
+J.________ sans même que ce dernier lui présente un plan d’investissement (PV aud. 10,
+R. 20).
+J.________ se serait, quant à lui, chargé des démarches pour constituer C.________ AG,
+comme il l’a lui-même expliqué lors de son audition le 23 septembre 2009 (PV aud. 11,
+R. 5). Il a admis que c’est lui qui aurait fait signer à V.________ le contrat liant cette
+société à N.________ SA, ensuite faussement signé par M.________, confirmant ainsi
+les déclarations de V.________ à cet égard ; il a toutefois ajouté l’avoir
+fait sur demande d’O.________, lequel lui aurait pour la première fois parlé de N.________
+SA comme potentiel investisseur dans les activités de C.________ AG. Il a confirmé avoir remis
+l’ordre de virement au Liechtenstein de la somme de près de 1'700'000 fr., tout en affirmant
+être incapable de dire qui, entre V.________ et O.________, aurait décidé du montant de
+l’investissement de 2 millions de francs (R. 6). Par ailleurs, il ressort du témoignage
+de [...] que J.________ lui aurait indiqué faussement qu’un des clients de la B.________ souhaitait
+vendre des brevets relatifs au compostage (PV aud. 6/2, p. 3). Il est intéressant de remarquer sur
+ce point que [...] a dit s’être contenté, à l’époque, de ces explications
+et qu’il ne lui était "pas nécessaire de connaître le client personnellement
+dans la mesure où il y a[vait] un lien par le biais d’une banque suisse" et où,
+pour la S.________ AG, la seule condition à remplir en vue du transfert de fonds "était
+de connaître le but de l’utilisation de ces fonds", ce qui était le cas. Or, ces
+conditions étaient connues de J.________ (PV aud. 11, R. 12; P. 79/2, R. 20), qui avait d’ailleurs
+auparavant travaillé pour la B.________ (PV aud. 11, R. 2); il lui suffisait ainsi de produire le
+contrat entre C.________ AG et N.________ SA pour que la S.________ AG accepte le transfert, ce qui aurait
+été vraisemblablement le cas si le juge d’instruction en charge de l’affaire n’avait
+pas bloqué le compte de C.________ AG auprès de la B.________. Enfin, il est significatif de
+constater que [...], un des anciens clients de J.________, a, dans sa déposition du 17 décembre
+2012, dit que ce dernier aurait pris contact avec lui peu avant son audition pour lui indiquer ce qu’il
+avait dit aux enquêteurs à leur sujet (PV aud. 14/2, R. 28).
+Concernant O.________, on relèvera tout d’abord qu’il a déjà été
+mis en cause dans une affaire d’escroquerie, d’abus de confiance et de faux dans les titres
+pour des faits survenus entre 2006 et 2007 (P. 87/1, p. 20) et qu’interrogé à ce propos
+par les enquêteurs vaudois le 26 octobre 2012, il a donné des explications évasives, prétextant
+avoir des problèmes de mémoire ensuite d’un burn-out (PV aud. 13, R. 5). Lors de cette
+audition, le prénommé, qui a fourni des informations tout aussi vagues sur sa situation personnelle,
+en particulier sur ses sociétés (P. 116, p. 4
+in
+initio
+), et a prétendu n’avoir pas
+de véritable domicile, a nié toute implication dans la présente affaire, indiquant n’avoir
+jamais vu les documents litigieux ni entendu parler de V.________, de J.________ ou des sociétés
+C.________ AG et N.________ SA (PV aud. 13, R. 5 à 11). Ses déclarations se heurtent toutefois
+à celles de [...], qui a expliqué qu’O.________ était son fiduciaire de l’époque
+et qu’il avait dû faire la connaissance de J.________ (PV aud. 14/2, R. 30 et 31). O.________
+est d’autant moins crédible que J.________ a été en mesure de le décrire et
+de fournir aux enquêteurs un de ses numéros de téléphone (P. 116, pp. 4 et 5), ainsi
+que des informations précises quant au contexte dans lequel ils se seraient rencontrés (PV
+aud. 11, R. 6). Enfin, comme on l’a indiqué ci-dessus, O.________ est mis en cause par J.________
+pour avoir, par son intermédiaire, fait signer à V.________ le contrat entre C.________ AG
+et N.________ SA (
+ibidem
+).
+Au vu de ce qui précède, comme la recourante le soutient à juste titre, il existe des
+éléments suffisants pour retenir l’implication des trois prévenus dans les faits
+dénoncés dans sa plainte et, partant, pour les mettre en accusation, en vertu du principe
+in
+dubio pro duriore
+. En particulier, V.________
+n’avait aucune raison valable de mentir à [...], puis aux enquêteurs, à propos de
+l’implication de J.________ dans cette affaire, s’il n’avait rien à se reprocher.
+On relèvera d’ailleurs à ce propos que dans sa première audition, V.________ a lui-même
+admis avoir "pensé qu’il y avait peut-être quelque chose de pas correct dans cette
+affaire" (PV aud. 1, R. 6). A cela s’ajoute, comme on l’a vu, que l’intéressé
+a affirmé avoir accepté le deal sans même qu’un plan d’investissement lui
+soit présenté, ce qui laisse songeur, et qu’il a perçu une commission d’environ
+300'000 fr. pour ses services, ce qui, selon ses dires, lui aurait permis de relancer ses affaires, en
+proie à des difficultés financières (
+ibidem
+).
+L’explication de J.________ selon laquelle il ignorait participer au montage et à l’exécution
+d’une opération frauduleuse n’est, à ce stade, pas non plus crédible, si l’on
+considère que le prévenu, qui avait travaillé, dans le passé, pour la B.________,
+a admis s’être occupé de la création du compte au Liechtenstein, avoir rédigé
+le contrat ayant servi de faux et avoir remis l’ordre de virement de la somme de près de 1'700'000 francs.
+Enfin et surtout, les dénégations d’O.________, qui s’est dit totalement étranger
+à cette affaire, ne sont pas convaincantes, au vu en particulier de sa mise en cause par ses co-prévenus
+et par [...].
+Ainsi, si les versions des divers protagonistes de cette affaire divergent sur certains points, les éléments
+à charge sont toutefois suffisamment importants pour que les chances d’une condamnation soient
+au moins égales à celles d’un acquittement (cf. c. 2.1
+supra
+).
+Il s’ensuit que le Procureur est tenu de dresser un acte d’accusation dirigé contre
+les prévenus. Il n’est pas utile de subordonner la mise en accusation aux résultats d’une
+audience de confrontation – telle que requise par la recourante –, au risque de retarder
+encore le jugement de cette affaire, dont l’instruction a été ouverte en 2008. Il appartiendra
+le cas échéant au tribunal de mettre en œuvre cette confrontation.
+3.
+Il résulte de ce qui précède que
+le recours doit être admis, l’ordonnance de classement du 28 mai 2014 annulée et le dossier
+de la cause renvoyé au Ministère public de l’arrondissement de La Côte pour qu’il
+procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1'100 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge de l’intimé
+O.________, qui, ayant conclu au rejet du recours (P. 143/1), succombe (art. 428 al. 1 CPP).
+S’agissant des dépens
+réclamés par la recourante, il appartiendra le cas échéant à cette dernière
+d’adresser à la fin de la procédure – pour autant que les conditions d’une
+indemnité selon l’art. 433 al. 1 CPP soient alors remplies – ses prétentions
+à l’autorité pénale compétente selon l’art. 433 al. 2 CPP (CREP 16 avril
+2013/279 c. 4 et les références citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 28 mai 2014 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d'arrêt, par 1'100 fr. (mille cent
+francs), sont mis à la charge d’O.________.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+‑
+M. Nicolas Gillard, avocat (pour A.________ SA),
+-
+M. J.________,
+-
+M. Pierre-Dominique Schupp, avocat (pour O.________),
+-
+M. Josef Dettling, avocat (pour V.________),
+-
+N.________ SA,
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
