@@ -1,0 +1,214 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___26"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 26"
+decided: "2014-12-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4761892"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/311.0/art-217.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 26
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, VIOLATION D'UNE OBLIGATION D'ENTRETIEN | 217 CP, 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 29.12.2014 Décision / 2015 / 26
+
+CLASSEMENT DE LA PROCÉDURE, VIOLATION D'UNE OBLIGATION D'ENTRETIEN | 217 CP, 319 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+-
+TRIBUNAL
+CANTONAL
+921
+PE14-003742-NPE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+29 décembre 2014
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Maillard, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+217 CP; 319, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 6 novembre 2014 par
+S.L.________
+contre l’ordonnance de classement rendue le 28 octobre 2014 par le Ministère public de l’arrondissement
+de l’Est vaudois dans la cause
+n° PE14-003742-NPE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Ensuite de la plainte pénale déposée le 15 janvier 2014 par S.L.________, le Ministère
+public de l’arrondissement de l’Est vaudois a ouvert une instruction pénale contre B.L.________,
+ex-époux de la plaignante, pour violation d’une obligation d’entretien. Il est reproché
+à ce dernier, depuis 2003, de ne pas avoir versé régulièrement la pension alimentaire
+mensuelle prévue par la convention de divorce, de ne pas avoir participé aux frais d’orthodontie
+des deux enfants du couple, ainsi que de ne pas avoir versé les allocations familiales perçues
+de la part de son employeur.
+B.
+Par ordonnance du 28 octobre 2014, le Ministère
+public a ordonné le classement de la procédure pénale dirigée contre B.L.________
+pour l’infraction précitée (I) et a laissé les frais de procédure à la
+charge de l’Etat (II).
+Se fondant sur les déclarations du prévenu, le procureur a retenu que celui-ci payait régulièrement
+la pension alimentaire, qu’il lui arrivait toutefois certains mois de ne pas s’en acquitter
+complètement en raison de sa situation financière, qu’il n’avait jamais été
+consulté par son ex-épouse s’agissant des frais d’orthodontie de leurs deux enfants
+et qu’il percevait des allocations familiales uniquement en faveur de son troisième enfant
+issu d’une autre liaison. Dans ces circonstances et dans la mesure où l’enquête
+n’avait pas permis d’infirmer les déclarations du prévenu, les éléments
+constitutifs de la violation d’une obligation d’entretien n’étaient pas réalisés.
+C.
+Par acte du 6 novembre 2014, S.L.________ a recouru
+auprès de la Chambre des recours pénale contre cette ordonnance. En substance, elle reproche
+au procureur de s’être contenté des seules déclarations du prévenu pour rendre
+son ordonnance, sans en vérifier la teneur, alors qu’elle-même avait fourni tous les
+documents bancaires établissant ses griefs.
+Par acte du 10 décembre 2014, le Ministère public a indiqué qu’il n’entendait
+pas déposer de déterminations sur le recours déposé par la prénommée.
+B.L.________ a renoncé à se déterminer dans le délai qui lui avait été
+imparti à cet effet.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la
+Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du 19 mai 2009
+d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise
+du 12 décembre 1979 d’organisation judiciaire; RSV 173.01]).
+Interjeté dans le délai légal auprès de l’autorité compétente par
+la partie plaignante, qui a la qualité pour recourir (cf. art. 382 al. 1 CPP), et satisfaisant aux
+conditions de forme posées par la loi (cf. art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Selon l'art. 319 al. 1 CPP, le ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels, à savoir l’intérêt de la victime ou le
+consentement de celle-ci.
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance
+confinant à la certitude. La possibilité de classer la procédure ne saurait toutefois
+être limitée à ce seul cas, car une interprétation aussi restrictive imposerait un
+renvoi en jugement, même en présence d'une très faible probabilité de condamnation
+(ATF 138 IV 86 c. 4.1.1). Le principe « in dubio pro duriore » exige donc simplement
+qu'en cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement. En effet, en cas de doute, ce n'est
+pas à l'autorité d'instruction ou d'accusation mais au juge matériellement compétent
+qu'il appartient de se prononcer (ATF 138 IV 86 c. 4.1.1; cf. ég. ATF 138 IV 186 c. 4).
+3.
+3.1
+Aux termes de l’art. 217 CP, se rend coupable
+de violation d’une obligation d’entretien celui qui n’aura pas fourni les aliments
+ou les subsides qu’il doit en vertu du droit de la famille, quoi qu’il en eût les moyens
+ou pût les avoir.
+D’un point de vue objectif, l’obligation d’entretien est violée lorsque le débiteur
+ne fournit pas intégralement, à temps et à disposition de la personne habilitée à
+la recevoir, la prestation d’entretien qu’il doit en vertu du droit de la famille (Corboz,
+Les infractions en droit suisse, vol. II, 3
+e
+éd., Berne 2010, n. 14 ad art. 217 CP). En revanche, on ne peut reprocher à l’auteur
+d’avoir violé son obligation d’entretien que s’il avait les moyens de la remplir
+ou aurait pu les avoir (Corboz, op. cit., n. 20 ad art. 217 CP). L’art. 217 CP exige
+du débiteur qu’il entreprenne tout ce que l’on peut raisonnablement attendre de lui
+pour se procurer des revenus suffisants (ATF 126 IV 131 c. 3).
+La capacité économique du débiteur de verser la contribution d’entretien se détermine
+par analogie avec le droit des poursuites relatif au minimum vital (art. 93 LP [loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et faillite, RS 281.1]; ATF 121 IV 272 c. 3c). Le juge
+pénal est lié par la contribution d’entretien fixée par le juge civil (ATF 106 IV
+36; TF 6B_264/2011 du 19 juillet 2011 c. 2.1.3). En revanche, la question de savoir quelles sont les
+ressources qu’aurait pu avoir le débiteur d’entretien doit être tranchée par
+le juge pénal s’agissant d’une condition objective de punissabilité au regard de
+l’art. 217 CP. Le juge pénal peut certes se référer à des éléments
+pris en compte par le juge civil; il doit cependant concrètement établir la situation financière
+du débiteur, respectivement celle qui aurait pu être la sienne en faisant les efforts pouvant
+raisonnablement être exigés de lui (TF 6B_573/2013 du 1
+er
+octobre 2013 c. 1.1).
+3.2
+En l’espèce, on doit admettre avec la recourante que le Ministère public ne pouvait se
+fonder sur les seules déclarations du prévenu pour exclure l’infraction précitée,
+sans procéder à aucune vérification. L’instruction devra donc être complétée.
+S’agissant en particulier des pensions alimentaires, il appartiendra au procureur, sur la base
+des pièces pertinentes, de calculer le manco éventuel subi par la plaignante et, le cas échéant,
+pour autant que la prescription ne soit pas atteinte, de requérir du prévenu les pièces
+permettant d’établir sa capacité économique, en particulier les charges qu’il
+supportait effectivement, en s’inspirant des règles du droit des poursuites relatives au minimum
+vital. Selon les résultats obtenus, il conviendra de déterminer si le prévenu disposait
+ou non de moyens suffisants, ou aurait pu les avoir, pour acquitter la contribution alimentaire.
+4.
+Il résulte de ce qui précède que
+le recours doit être admis, l’ordonnance attaquée annulée et le dossier de la cause
+renvoyé au Ministère public de l’arrondissement de l’Est vaudois pour qu’il
+procède dans le sens des considérants (cf. c. 3.3 supra).
+Les frais de la procédure de recours, constitués du seul émolument d'arrêt, par 550
+fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010, RSV 312.03.1]), seront laissés à la charge de l'Etat (art. 428 al. 4
+CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 28 octobre 2014 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de l’Est vaudois pour qu’il procède dans le sens des
+considérants.
+IV.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont laissés à la charge de l’Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme S.L.________,
+-
+M. B.L.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
