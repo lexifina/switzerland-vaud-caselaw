@@ -1,0 +1,232 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 5"
+decided: "2014-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4725326"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-088.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 5
+
+## Regeste
+
+OPPOSITION TARDIVE, FICTION DE LA NOTIFICATION, ORDONNANCE DE CONDAMNATION | 354 CPP (CH), 393 al. 1 let. b CPP (CH), 88 al. 1 let. c CPP (CH), 88 al. 4 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.12.2014 Décision / 2015 / 5
+
+OPPOSITION TARDIVE, FICTION DE LA NOTIFICATION, ORDONNANCE DE CONDAMNATION | 354 CPP (CH), 393 al. 1 let. b CPP (CH), 88 al. 1 let. c CPP (CH), 88 al. 4 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+925
+PE12.012864-TDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+30 décembre 2014
+__________________
+Composition
+:               M.
+Maillard
+,
+vice-président
+M.
+Meylan et Mme Rouleau, juges
+Greffière
+:              Mme
+Jordan
+*****
+Art.
+88 al. 1 et 4, 354 al. 1 et 3, 393 al. 1 let. b CPP
+Statuant sur le recours interjeté le 22 décembre 2014 par
+H.________
+contre le prononcé rendu le 17 décembre 2014 par le Président du Tribunal de l’arrondissement
+de Lausanne dans la cause
+n° PE12.012864-TDE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 16 août 2012, H.________, sans domicile fixe et séjournant illégalement en Suisse,
+a été interpellé alors qu’il faisait l’objet d’un signalement et qu’il
+était suspecté, entre autres, d’avoir participé à une rixe muni d’une
+arme blanche.
+Entendu le lendemain par le Procureur de l’arrondissement de Lausanne en qualité de prévenu,
+H.________ a signé un document relatif à ses droits et ses obligations lui indiquant qu’il
+était tenu de désigner une personne en Suisse pour recevoir à sa place toutes les correspondances
+liées à l’enquête et le rendant attentif aux dispositions légales régissant
+la notification d’une décision aux personnes domiciliées à l’étranger
+ou sans domicile fixe en particulier (PV d’audition 11).
+Le prévenu a signé le même type de formulaire lors de son audition par la police municipale
+de Lausanne le 21 août 2012 (PV d’audition 13).
+H.________ ne s’est pas manifesté par la suite pour communiquer un domicile de notification
+en Suisse.
+B.
+a)
+Par ordonnance pénale du 27 août
+2013, H.________ a été condamné pour rixe, vol, infraction à la Loi fédérale
+sur les armes, séjour illégal et contravention à la Loi fédérale sur les stupéfiants
+à 180 jours de peine privative de liberté, sous déduction de 7 jours de détention
+provisoire, et à une amende de 150 fr., convertible en un jour de peine privative de liberté
+de substitution en cas de non-paiement fautif.
+Cette condamnation a été notifiée le jour même à H.________ à la Prison
+Centrale de Fribourg. Le pli a toutefois été renvoyé au Ministère public le 30 août
+2013 avec la mention « le destinataire est introuvable à l’adresse indiquée ».
+b)
+Entre le 12 et le 13 août 2014, l’ordonnance pénale du 27 août 2013 a été
+communiquée à H.________, alors qu’il entrait en détention sous l’autorité
+de l’Office d’exécution des peines (P. 41).
+Par acte daté du 9 décembre 2014 et posté le 11 décembre suivant, H.________ a formé
+opposition à l’encontre de cette ordonnance pénale.
+c)
+Par prononcé du 17 décembre 2014,
+considérant que l’opposition formée par H.________ était tardive, le Président
+du Tribunal de l’arrondissement de Lausanne a déclaré qu’elle était irrecevable
+(I), a constaté que l’ordonnance pénale du 27 août 2013 était exécutoire
+(II) et a rendu sa décision sans frais (III).
+C.
+Par acte daté du 19 décembre 2014 et
+posté le 22 décembre suivant, H.________ a recouru auprès de la Chambre des recours pénale
+contre ce prononcé. Il a également requis qu’un défenseur d’office lui soit
+désigné.
+Il n'a pas été ordonné d'échange
+d'écritures
+.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. b CPP
+(Code de procédure pénale suisse du 5 octobre 2007; RS 312.0), le recours est recevable contre
+les ordonnances, les décisions et les actes de procédure des tribunaux de première instance,
+sauf contre ceux de la direction de la procédure. Le prononcé par lequel un tribunal de première
+instance déclare irrecevable une opposition formée contre une ordonnance pénale rendue
+par le Ministère public (cf. art. 356 al. 2 CPP) est ainsi susceptible de recours selon les art.
+393 ss CPP (Gilliéron/Killias, in : Kuhn/ Jeanneret [éd.], Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 5 ad art. 356 CPP; Riklin, in : Niggli/Heer/Wiprächtiger
+[éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 2 ad art. 356 CPP ; CREP 24 septembre 2014/695 ; CREP 27 janvier 2014/63).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art. 396
+al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure pénale suisse ;
+RSV 312.01] ; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation judiciaire ;
+RSV 173.01]).
+En l’espèce, le recours a été interjeté en temps utile devant l’autorité
+compétente par le condamné qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les
+formes prescrites (art. 385 al. 1 CPP). Il est donc recevable.
+2.
+2.1
+L’ordonnance pénale est notifiée par écrit aux personnes et aux autorités qui
+ont qualité pour former opposition (art. 353 al. 3 CPP). Aux termes de l’art. 354 al.
+1 let. a CPP, le prévenu peut former opposition contre l’ordonnance pénale devant le
+ministère public, par écrit et dans les dix jours. Si aucune opposition n’est valablement
+formée, l’ordonnance pénale est assimilée à un jugement entré en force
+(art. 354 al. 3 CPP).
+En application de l'art. 356 al. 2 CPP, le tribunal de première instance statue sur la validité
+de l'ordonnance pénale et de l'opposition. Si l'opposition a été formée tardivement,
+le tribunal la déclare irrecevable (CREP 11 août 2014/499, CREP 24 septembre 2014/695).
+Elle est tardive si elle a été adressée au Ministère public après le délai
+de dix jours prévu par l'art. 354 al. 1 CPP.
+2.2
+Selon l’art. 85 al. 2 CPP, la notification
+se fait en principe par lettre signature ou par tout autre mode de communication impliquant un accusé
+de réception, notamment par l’entremise de la police. Toutefois, l’art. 88 al. 1 CPP
+prévoit que la notification a lieu dans la Feuille officielle désignée par le canton ou
+la Confédération lorsque le lieu de séjour du destinataire est inconnu et n’a pas
+pu être déterminé en dépit des recherches qui peuvent raisonnablement être exigées
+(let. a), lorsqu’une notification est impossible ou ne serait possible que moyennant des démarches
+disproportionnées (let. b) ou lorsqu’une partie ou son conseil n’a pas désigné
+un domicile de notification en Suisse, alors qu’ils ont leur domicile, leur résidence habituelle
+ou leur siège à l’étranger (let. c). Ces conditions sont alternatives. La notification
+est alors réputée avoir eu lieu le jour de la publication (art. 88 al. 2 CPP).
+En dérogation à l’art. 88 al. 1 et 2 CPP, l’art. 88 al. 4 CPP prévoit que
+les ordonnances de classement et les ordonnances pénales sont réputées notifiées
+même en l’absence d’une publication. Cette fiction n’est toutefois valable que
+si l’une des conditions exigées par l’art. 88 al. 1 let. a à c CPP est remplie
+(TF 6B_738/2011 du 20 mars 2012 c. 3.1; JT 2011 III 199 ; CREP 13 juin 2014/407). Elle a pour
+effet que les délais de recours et d’opposition commencent à courir même en l’absence
+de notification, respectivement de publication, et que l’ordonnance entre en force au terme du
+délai de recours (cf. art. 322 CPP), respectivement d’opposition (cf. art. 354 CPP) (Brüschweiler,
+in : Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozessordnung, 2
+e
+éd., 2014, n. 8 ad art. 88 CPP ; CREP 24 juillet 2014/512).
+2.3
+Dans le cas d’espèce, H.________, sans domicile fixe et séjournant illégalement
+en Suisse, n'a pas désigné une personne de confiance en Suisse pour recevoir à sa place
+toutes les correspondances relatives à l’enquête ouverte à son encontre. D’une
+part, il savait qu’il faisait l’objet d’une procédure pénale et devait s’attendre
+de ce fait à ce qu’une décision lui soit communiquée, puisqu’il a été
+auditionné tant par la police que par le procureur et qu’il a été détenu provisoirement
+durant sept jours. D’autre part, les formulaires qu’il a signés les 17 et 21 août
+2012 ont expressément attiré son attention sur le fait qu’à défaut de domicile
+de notification en Suisse, une ordonnance pénale pouvait lui être valablement notifiée,
+même en l’absence de publication. La condition de l’art. 88 al. 1 let. c CPP est donc
+remplie, de sorte que la fiction de l'art. 88 al. 4 CPP s'applique dans le cas d’espèce. Partant,
+l'ordonnance pénale du 27 août 2013 a été valablement notifiée à H.________
+et son opposition est tardive. Par surabondance, l’Office d’exécution des peines a communiqué
+à H.________ qu’il faisait l’objet de dite ordonnance pénale entre le 12 et le
+13 août 2014 (P. 41). Son opposition postée le 11 décembre 2014 est ainsi dans tous les
+cas manifestement tardive. En dernier lieu, on relèvera que le recourant ne soulève aucun moyen
+relatif à la tardiveté de son opposition, mais plaide le fond. Dans la mesure où son opposition
+n'est pas valable, il ne peut pas remettre en cause l'ordonnance pénale à ce stade de la procédure.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d’écritures (art. 390 al. 2 CPP).
+La requête tendant à la désignation d'un défenseur d'office pour la procédure
+de recours sera rejetée, car le recours était d’emblée dénué de chances
+de succès (CREP 28 janvier 2013/37 ; CREP 4 juillet 2014/445).
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis
+à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 17 décembre 2014 est confirmé.
+III.
+La requête de désignation d'un défenseur d'office pour la procédure de recours est
+rejetée.
+IV.
+Les frais de la procédure de recours, par
+660 fr. (six cent soixante francs), sont mis à la charge de H.________.
+V.
+Le présent arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. H.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal de l’arrondissement de Lausanne,
+‑
+M. le Procureur de l’arrondissement de Lausanne,
+-
+Office d’exécution des peines,
+-
+Prison de la Croisée,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
