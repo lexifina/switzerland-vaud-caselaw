@@ -1,0 +1,267 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 5"
+decided: "2015-01-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4754943"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-560.md", "switzerland/bund/acts/210/art-562.md", "switzerland/bund/acts/210/art-609.md", "switzerland/bund/acts/220/art-545.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-132.md", "switzerland/bund/acts/281.41/art-009.md", "switzerland/bund/acts/281.41/art-012.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 5
+
+## Regeste
+
+PART DE COMMUNAUTÉ, COMMUNAUTÉ HÉRÉDITAIRE, RÉALISATION{LP}, PARTAGE SUCCESSORAL, OPC | 132 LP, 18 al. 1 LP, 12 OPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 06.01.2015 Plainte / 2015 / 5
+
+PART DE COMMUNAUTÉ, COMMUNAUTÉ HÉRÉDITAIRE, RÉALISATION{LP}, PARTAGE SUCCESSORAL, OPC | 132 LP, 18 al. 1 LP, 12 OPC
+
+TRIBUNAL
+CANTONAL
+FA14.009763-142074
+1
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 janvier 2015
+___________________
+Présidence
+de               Mme
+Rouleau
+,
+présidente
+Juges
+:              Mmes
+Carlsson et Byrde
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 132 LP; 12 OPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.R.________
+,
+au Mont-Pèlerin, contre la décision rendue le 10 novembre 2014, à la suite de l’audience
+du 7 octobre 2014, par la Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+autorité inférieure de surveillance, statuant sur la requête de l'
+Office
+des poursuites du district du Jura-Nord vaudois
+tendant à la réalisation des droits saisis de
+G.________
+,
+à Sainte-Croix, dans la succession de feue
+B.R.________
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+B.R.________ est décédée le 25 mai 2012, laissant pour héritiers son époux A.R.________
+et ses deux filles S.________ et G.________. Les actifs de la succession comprennent la parcelle n°
+[...] de la commune de Lutry ainsi que des avoirs en banque.
+G.________ fait l'objet de diverses poursuites. Sa part dans la succession de sa mère a été
+saisie par l'Office des poursuites du district du Jura-Nord vaudois (ci-après : l'Office), selon
+décisions rendues entre le 11 septembre 2012 et le 26 novembre 2013. Les créanciers saisissants
+ont requis la réalisation de cette part de communauté héréditaire.
+Parallèlement, le 27 mars 2013, à la requête de l'un de ces créanciers, Me Alexa
+Landert, avocate, a été désignée pour intervenir en lieu et place de G.________ au
+partage de la succession de B.R.________ (art. 609 CC [Code civil; RS 210]).
+Le 19 février 2014, l'Office a tenté la conciliation entre les différents intéressés
+(créanciers, débitrice et autres membres de la communauté héréditaire), conformément
+à l'art. 9 OPC [Ordonnance du Tribunal fédéral concernant la saisie et la réalisation
+de parts de communauté; RS 28141], en vain. Il leur a ensuite fixé un délai de dix jours
+pour présenter leurs propositions, ce qu'aucun d'eux n'a fait.
+Par requête du 6 mars 2014, conformément à l'art. 132 LP [loi fédérale sur la
+poursuite pour dettes et la faillite; RS 281.1], l'Office a invité le Président du Tribunal
+d'arrondissement de La Broye et du Nord vaudois, en sa qualité d'autorité inférieure de
+surveillance, à fixer le mode de réalisation de la part de G.________ dans la succession de
+B.R.________.
+Ladite autorité a tenu audience les 1
+er
+avril, 1
+er
+juillet et 7 octobre 2014.
+2.
+Par décision rendue le 10 novembre 2014, la Présidente du Tribunal d'arrondissement de La Broye
+et du Nord vaudois a ordonné la dissolution de la communauté héréditaire formée
+par A.R.________, S.________ et G.________ dans la succession de B.R.________ (I), chargé l'Office
+de prendre toutes mesures utiles pour procéder au partage de la communauté héréditaire
+(II) et rendu le prononcé sans frais (III). Elle a considéré qu'une vente aux enchères
+de la part de succession indivise n'était pas possible, faute de pouvoir en déterminer la valeur.
+Cette décision a été notifiée le 11 novembre 2014 à A.R.________, par l'intermédiaire
+de son conseil.
+3.
+Par acte du 21 novembre
+2014, A.R.________ a formé un recours tendant à la réforme en ce sens que, tout en confirmant
+la dissolution et la liquidation de la communauté héréditaire ordonnées par l'autorité
+précédente, la cour de céans constate "la dissolution, à forme de l'art. 545
+al. 1 ch. 3 CO, de la communauté des légataires (société simple) formée par
+A.R.________, S.________ et G.________, propriétaire de l'immeuble [...], parcelle n° [...]
+de la commune de Lutry" et ordonne "la liquidation du patrimoine de cette communauté,
+le cas échéant par vente de gré à gré ou par vente aux enchères publiques"
+et qu'elle désigne "en qualité de liquidateur des deux communautés tel notaire exerçant
+sur le territoire du canton de Vaud, qu'il [lui] plaira de désigner".
+S.________ et G.________, sous la plume de leur conseil commun, et G.________ seule, sous la plume de
+Me Alexa Landert, se sont déterminées sur le recours, par actes du 15 décembre 2014, concluant
+au rejet du recours, respectivement s'en remettant à justice "quant à la qualification
+de la part revenant à la communauté héréditaire ou à la société simple,
+ainsi que leur dissolution respective" et concluant pour le surplus au maintien de la décision
+de l'autorité inférieure de surveillance.
+Par lettre du 15 décembre 2014, l'Office a déclaré s'en remettre à justice sur le
+sort du recours.
+Le recourant a déposé le 19 décembre 2014 une réplique spontanée, sur laquelle
+le conseil des intimées s'est brièvement déterminé dans une lettre du 24 décembre
+2014.
+En droit :
+I.
+a)
+Formé
+contre une décision de l'autorité inférieure de surveillance prise en application de l'art.
+132 LP dans les dix jours suivant la notification de cette décision, le recours a été
+déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application de la
+LP]). Il comporte en outre des conclusions et l'énoncé des moyens invoqués (art. 28 al.
+3 LVLP). Il est ainsi recevable.
+Il en va de même des déterminations des intimées et de l'Office sur le recours (art. 31
+LVLP).
+b)
+Les
+réplique et duplique déposées spontanément par les parties sont également recevables,
+conformément à la jurisprudence du Tribunal fédéral déduite du droit d'être
+entendu. Ce dernier garantit notamment le droit pour une partie à un procès de prendre connaissance
+de toute argumentation présentée au tribunal et de se déterminer à son propos, que
+celle-ci contienne ou non des éléments nouveaux de fait ou de droit, et qu'elle soit ou non
+concrètement susceptible d'influer sur le jugement à rendre. Il appartient en effet aux parties,
+et non au juge, de décider si une prise de position ou une pièce nouvellement versée au
+dossier contient des éléments déterminants qui appellent des observations de leur part.
+Ainsi, toute prise de position ou pièce nouvelle versée au dossier doit être communiquée
+aux parties pour leur permettre de décider si elles veulent ou non faire usage de leur faculté
+de se déterminer (TF 2C_156/2011 du 14 avril 2011, c. 2.2; ATF 133 I 100 c. 4.5, JT 2008 I 368;
+ATF 133 I 98 c. 2.2, JT 2007 I 379; ATF 132 I 42 c. 3.3, JT 2008 I 110). Cette jurisprudence est également
+applicable en matière de poursuite pour dettes et faillite (ATF 137 I 195 c. 2.3; TF 5A_42/2011
+du 21 mars 2011, c. 2).
+II.
+a)
+Comme
+devant l'autorité précédente, le recourant fait valoir que, par disposition à cause
+de mort, B.R.________ a légué à son mari et à ses filles, respectivement, l'usufruit
+et la nue-propriété, pour une demie chacune, de son immeuble et que ce legs a été
+fait "hors part", pour les filles, ce qui signifierait que cette parcelle est soustraite des
+actifs de la communauté héréditaire et constitue l'actif d'une société simple
+de légataires; il faudrait donc, selon lui, ordonner la liquidation de cette communauté, qui
+aurait été dissoute par la saisie de la part de la débitrice (art. 545 al. 1 ch. 3 CO
+[Code des obligations; RS 220]).
+b)
+L'autorité inférieure a été saisie par l'Office d'une requête tendant à
+déterminer le mode de réalisation d'une part de succession indivise qui a été saisie
+par divers créanciers, conformément à l'art. 132 LP. Il ne ressort pas du dossier qu'une
+saisie aurait été ordonnée sur une "part de communauté dans une société
+simple de légataires". Il n'y a donc pas matière à fixer un mode de réalisation
+pour un tel objet, encore moins à constater la dissolution d'une société simple de légataires
+et d'en ordonner la liquidation. Dans cette mesure, cette conclusion paraît irrecevable, car hors
+du cadre de la procédure d'exécution forcée.
+c)
+Sur le fond, et bien qu'il importe peu, à ce stade, de savoir de quoi se compose la succession à
+partager et que ni l'Office ni les autorités de surveillance n'aient la compétence de statuer
+sur cette composition (ATF 113 III 38, JT 1989 II 152), l'argumentation du recourant est erronée.
+Les héritiers acquièrent de plein droit l'universalité de la succession dès que celle-ci
+est ouverte (art. 560 al. 1 CC [Code civil; RS 210]), d'où l'expression "le mort saisit le
+vif". Cela inclut, du côté actif, tous les biens et droits du défunt (art. 560 al.
+2 CC). Les légataires n'ont qu'une action personnelle contre les débiteurs des legs ou, faute
+de débiteurs spécialement désignés, contre les héritiers légaux ou institués
+(art. 562 al. 1 CC). Il appartient aux héritiers, une fois qu'ils ont accepté la succession,
+de délivrer les legs.
+C'est pourquoi, en l'espèce, la communauté formée par les héritiers a été
+inscrite au registre foncier comme propriétaire de l'immeuble; il ne s'agit nullement d'une erreur.
+Il ressort du pacte successoral que les filles ont reçu, hors part, la nue-propriété de
+l'immeuble, chacune pour une demie. "Hors part" signifie "hors part successorale",
+soit "en plus de la part", et non pas "hors succession". Délivrer les legs signifie
+donc, pour les héritiers, propriétaires en main commune, de faire inscrire au registre foncier
+les filles comme co-propriétaires, chacune pour une demie, et l'époux comme usufruitier. Au
+demeurant, en ce qui concerne ces trois legs, on ne voit pas pourquoi les légataires devraient être
+considérés comme formant une société simple. A supposer qu'elle soit recevable, la
+conclusion en cause devrait donc être rejetée.
+III.
+a)
+Le recourant conteste le chiffre II du dispositif de la décision attaquée. Il est d'avis que
+la phrase litigieuse signifie que c'est l'Office lui-même qui est chargé de procéder au
+partage successoral, mission qui dépasserait ses compétences et le cadre de la procédure
+d'exécution forcée.
+b)
+Le recourant interprète de manière erronée la décision sur ce point. Il faut comprendre,
+comme cela ressort d'ailleurs des motifs, que l'Office est chargé de faire en sorte que ce partage
+ait lieu, c'est-à-dire de le demander conformément à l'art. 12 OPC.
+c)
+Pour le reste et vu les motifs qui précèdent (cf. supra ch. II), il n'y a pas lieu de désigner
+un notaire comme liquidateur.
+IV.
+En conclusion, le recours doit être rejeté et le prononcé de l'autorité inférieure
+confirmé.
+L'arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Serge Maret, agent d'affaires breveté (pour A.R.________),
+-
+Me Christophe Mistelli, avocat (pour S.________)
+‑
+Me Alexa Landert, avocate (pour G.________),
+-
+M. le Préposé à l’Office des poursuites du district du Jura-Nord vaudois,
+-
+[...],
+-
+[...],
+-
+M. Alexandre Landry, agent d'affaires breveté (pour [...] et pour [...]),
+-
+[...],
+-
+[...],
+-
+Ville de Lausanne, Service financier-contentieux,
+-
+Office d'impôt du district du Jura-Nord vaudois (pour l'Etat de Vaud),
+-
+Office d'impôt du district de Lavaux-Oron (pour l'Etat de Vaud),
+-
+Administration cantonale des impôts (pour les communes de Belmont-sur-Lausanne et Crissier, la Confédération
+suisse et l'Etat de Vaud).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
