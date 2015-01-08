@@ -1,0 +1,206 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 23"
+decided: "2015-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4735733"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2015 / 23
+
+## Regeste
+
+EXÉCUTION DES PEINES ET DES MESURES, PROCÉDURE ADMINISTRATIVE, AVANCE DE FRAIS | 38 LEP, 47 LPA-VD, 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.01.2015 Décision / 2015 / 23
+
+EXÉCUTION DES PEINES ET DES MESURES, PROCÉDURE ADMINISTRATIVE, AVANCE DE FRAIS | 38 LEP, 47 LPA-VD, 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+17
+AP14.017998-GRV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 janvier 2015
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Maillard, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+393 ss CPP; 38 LEP; 47 LPA-VD
+Statuant sur le recours interjeté le 30 décembre 2014 par
+T.________
+contre le prononcé sur recours administratif rendu le 22 décembre 2014 par le Juge d’application
+des peines dans la cause
+n° AP14.017998-GRV
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+jugement du 26 novembre 2007, le Tribunal correctionnel de l’arrondissement de Lausanne a notamment
+ordonné que T.________ soit soumis à un traitement thérapeutique institutionnel au sens
+de l’art. 59 CP (Code pénal suisse du 21 décembre 1937; RS 311.0).
+b)
+Par
+ordonnance du 18 mars 2014, le Juge d’application des peines a libéré conditionnellement
+le prénommé de la mesure précitée et a fixé le délai d’épreuve
+à cinq ans. Il a ordonné plusieurs règles de conduite, en particulier la poursuite par
+l’intéressé de son suivi psychiatrique et de son traitement contre l’addiction
+aux produits stupéfiants et à l’alcool, ainsi que l’obligation de continuer à
+résider à l’EMS [...] ou dans tout autre institut que l’Office d’exécution
+des peines (ci-après: OEP) désignerait et de se conformer aux règlements de ce foyer.
+B.
+a)
+Par
+décision du 7 août 2014, l’OEP a ordonné la mise en oeuvre des règles de conduite
+susmentionnées, confiant un mandat médico-légal à I’EMS [...] et à la
+[...] de Lausanne.
+b)
+Par
+acte du 28 août 2014, T.________ a recouru auprès du Juge d’application des peines contre
+cette décision, concluant en substance à sa réforme en ce sens qu’il lui soit octroyé
+davantage de liberté, notamment la faculté de résider en appartement protégé
+et d’effectuer davantage d’activités au sein d’ateliers spécialisés,
+invoquant la violation de l’interdiction de l’arbitraire. Au surplus, le prénommé
+a sollicité l’octroi de l’assistance judiciaire et la désignation d’un avocat
+d’office.
+c)
+Par ordonnance du 29 août 2014, le Juge
+d’application des peines a levé l’effet suspensif au recours interjeté par T.________
+contre la décision de l’OEP du 7 août 2014 et a rejeté la requête du prénommé
+tendant à l’octroi de l’assistance judiciaire et à la désignation d’un
+avocat.
+Cette ordonnance a été confirmée
+par arrêt du 10 septembre 2014/660 de la Chambre des recours pénale. Le recours déposé
+par T.________ contre cet arrêt a été déclaré irrecevable par arrêt du
+20 octobre 2014 de la Cour de droit pénal du Tribunal fédéral (TF 6B_956/2014 du 20 octobre
+2014).
+d)
+Par
+courrier du 29 août 2014, le Juge d’application des peines a imparti à T.________ un
+délai au 8 septembre 2014, prolongé au 29 septembre 2014, pour le versement d’une avance
+de frais de 300 francs. Il a en outre informé le prénommé qu’à défaut
+de paiement dans le délai imparti, il ne serait pas entré en matière sur son recours interjeté
+le 28 août 2014.
+L’intéressé n’a pas effectué le paiement de l’avance de frais dans le
+délai qui lui a été imparti à cet effet. Un rappel de paiement lui a été
+adressé le 5 novembre 2014 avec un délai au 25 novembre pour s’exécuter. T.________
+n’y a pas donné suite.
+e)
+Par
+prononcé sur recours administratif du 22 décembre 2014, le Juge d’application des peines
+a déclaré irrecevable le recours déposé par T.________ contre la décision de
+l’OEP du 7 août 2014, faute d’avance de frais versée dans les délais impartis
+(I), a rayé la cause du rôle (II) et a dit que les frais de la cause étaient laissés
+à la charge de l’Etat (III).
+C.
+Par acte du 30 décembre 2014, T.________
+a recouru auprès de la Chambre des recours pénale contre ce prononcé.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 38 al. 1 LEP (loi cantonale
+du 4 juillet 2006 sur l’exécution des condamnations pénales; RSV 340.01), les décisions
+rendues par le Juge d'application des peines peuvent faire l'objet d'un recours auprès de la Chambre
+des recours pénale. Selon l'art. 38 al. 2 LEP, la procédure est régie par les dispositions
+prévues aux art. 393 ss CPP (Code de procédure pénale suisse du
+5
+octobre 2007; RS 312.0).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP).
+1.2
+En l’espèce, le recours a été
+interjeté en temps utile devant l’autorité compétente. On peut cependant se demander
+s’il est conforme aux conditions de motivation posées par l’art. 385 al. 1 CPP. En effet,
+T.________ ne conteste pas ne pas avoir versé l’avance de frais requise en application de
+l’art. 47 al. 2 LPA-VD (loi cantonale du 28 octobre 2008 sur la procédure administrative;
+RSV 173.36). Il se plaint en effet des différents EMS dans lesquels il a résidé et de
+leur administration, motifs qui sont hors de propos avec le prononcé attaqué. En outre, à
+l’appui de son recours, T.________ sollicite l’assistance judiciaire gratuite. Or cette question
+a déjà été tranchée par arrêt de la cour de céans du 10 septembre
+2014 et par arrêt de la Cour pénale du Tribunal fédéral du 20 octobre 2014.
+Il n’y donc pas lieu d’y revenir et on peut se référer aux arrêts précités.
+Cela étant, la question de la recevabilité du recours peut rester indécise, dès lors
+que, supposé recevable, celui-ci devrait de toute manière être rejeté pour les motifs
+exposés ci-après.
+2.
+2.1
+Aux termes de l’art. 47 al. 2 et 3 LPA-VD,
+en procédure de recours administratif et de recours de droit administratif, le recourant est en
+principe tenu de fournir une avance de frais. L'autorité peut y renoncer si des circonstances particulières
+l'exigent. L'autorité impartit un délai à la partie pour fournir l'avance de frais et
+l'avertit qu'en cas de défaut de paiement dans le délai, elle n'entrera pas en matière
+sur la requête ou le recours.
+2.2
+Il s’ensuit qu’en l’espèce,
+l’avance de frais demandée par le Juge d’application des peines est conforme à
+la loi. En outre, le recourant n’explique pas pour quel motif il n’aurait pas pu verser cette
+avance de frais. En application de l’art. 47 al. 3 LPA-VD, c’est donc à bon droit
+que le premier juge a déclaré irrecevable le recours déposé par T.________ contre
+la décision de l’OEP du 7 août 2014, le prénommé n’ayant pas versé
+l’avance de frais dans le délai qui lui avait été imparti à cet effet.
+3.
+Il résulte de ce qui précède que
+le recours doit être rejeté dans la mesure où il est recevable et le prononcé attaqué
+confirmé.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 550 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale; RSV 312.03.1]), seront mis à la charge du recourant qui succombe (art.
+428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 22 décembre 2014 est confirmé.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont mis à la charge de T.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. T.________,
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Juge d’application des peines,
+-
+Office d’exécution des peines (réf. : OEP/MEP/11161/AVI/NJ),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
