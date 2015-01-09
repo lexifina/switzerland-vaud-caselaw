@@ -1,0 +1,252 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___39"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 39"
+decided: "2015-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4763989"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-195.md", "switzerland/bund/acts/312.0/art-235.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-389.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 39
+
+## Regeste
+
+SURVEILLANCE{EN GÉNÉRAL}, VISITE, DÉTENTION PROVISOIRE | 235 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.01.2015 Décision / 2015 / 39
+
+SURVEILLANCE{EN GÉNÉRAL}, VISITE, DÉTENTION PROVISOIRE | 235 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+14
+PE14.019145-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+9 janvier 2015
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+235 CPP
+Statuant sur le recours interjeté le 18 décembre 2014 par
+X.________
+contre l'ordonnance de refus d'autorisation de visite rendue le 16 décembre 2014 par le Ministère
+public de l'arrondissement de La Côte dans la cause
+n° PE14.019145-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+X.________ a été appréhendé
+par la police le 15 septembre 2014.
+Il lui est reproché de s'être rendu, le même jour, avec son comparse W.________, au domicile
+de B.________, à Morges, de s'être fait passer, respectivement, pour une personne travaillant
+pour la gérance [...] et pour un policier, d'avoir distrait B.________, d'avoir fouillé son
+appartement et d'avoir emporté 460 fr. provenant de son porte-monnaie, ainsi qu’une enveloppe
+et un verre dans lesquels la prénommée dissimulait de l'argent. B.________ a déposé
+plainte pénale.
+Le même jour, le Ministère public de l’arrondissement de La Côte a ouvert une instruction
+contre X.________ et W.________ pour escroquerie, subsidiairement vol.
+Le prévenu, qui a reconnu ces faits, est incarcéré depuis le 15 septembre 2014 en raison
+des risques de fuite et de collusion révélés par l’enquête.
+b)
+Le prévenu, qui fait partie de la communauté
+des forains, est également mis en cause dans plus d’une douzaine de cas commis, avec le même
+mode opératoire, sur l'arc lémanique. Une instruction a été ouverte à Genève.
+B.
+Par courrier du 9 décembre 2014, X.________,
+agissant par son défenseur, a requis formellement auprès du Ministère public du canton
+de Genève et de la Procureure de l’arrondissement de La Côte qu'une autorisation de visite
+soit délivrée à son père, [...], pour le mois de décembre 2014, "même
+si la visite devait être surveillée" (P. 49/1).
+Par courrier du 10 décembre 2014, le Ministère public du canton de Genève a refusé
+de statuer sur cette requête au motif que le prévenu n'était pas détenu sous sa responsabilité
+(P. 53/2.5).
+Par ordonnance du 16 décembre 2014, la Procureure de l’arrondissement de La Côte, se
+fondant sur le risque de collusion, a rejeté la demande d'autorisation de visite (I) et a dit que
+les frais suivaient le sort de la cause (II).
+C.
+Par acte du 18 décembre 2014, remis à la poste le même jour, X.________ a recouru contre
+cette ordonnance, en concluant, avec suite de frais et dépens, à sa réforme en ce sens
+qu'il soit autorisé à recevoir la visite de son père, subsidiairement en ce sens que cette
+visite soit surveillée. Plus subsidiairement, il a conclu à l'annulation de l'ordonnance et
+au renvoi du dossier de la cause au Ministère public de l'arrondissement de La Côte pour nouvelle
+décision dans le sens des considérants à intervenir.
+Dans cette même écriture, le recourant a requis la désignation de Me Loïc Parein
+comme défenseur d'office pour la procédure de recours.
+Le Ministère public a renoncé à déposer des déterminations.
+Par écriture du 5 janvier 2015, le Ministère public du canton de Genève a, quant à
+lui, conclu au rejet du recours, relevant que l'instruction était encore peu avancée, s'agissant
+des faits survenus dans ce canton, et qu'il y avait un risque de collusion, dans la mesure où d'autres
+personnes pourraient être mises en cause en relation avec ces cas.
+Par courrier du 8 janvier 2015, le recourant a indiqué que les déterminations du Ministère
+public du canton de Genève étaient irrecevables, dès lors que celui-ci n'était pas
+partie à la présente procédure, et que, dans la mesure où de très nombreuses
+opérations avaient été effectuées par les enquêteurs et où il avait lui-même
+déjà été entendu par la police genevoise, il n'existait aucun risque concret de collusion.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]) contre une ordonnance
+du ministère public (art. 393 al. 1 let. a CPP) rejetant une demande d'autorisation de visite du
+prévenu en détention provisoire en faveur de son père, par le prévenu, qui a qualité
+pour recourir (art. 382 al. 1 CPP), et dans les formes prescrites (art. 385 al. 1 CPP), le
+recours est recevable (cf. CREP 15 décembre 2014/891 c. 1; CREP 6 août 2014/662 c. 1 et les
+arrêts cités).
+2.
+2.1
+Selon l'art. 235 CPP, la liberté des prévenus
+en détention ne peut être restreinte que dans la mesure requise par le but de la détention
+et par le respect de l'ordre et de la sécurité dans l'établissement (al. 1). Tout contact
+entre le prévenu en détention et des tiers est soumis à l'autorisation de la direction
+de la procédure. Les visites sont surveillées si nécessaire (al. 2). Les cantons règlent
+les droits et les obligations des prévenus en détention, leurs droits de recours, les mesures
+disciplinaires ainsi que la surveillance des établissements de détention (al. 5). Dans le canton
+de Vaud, les détenus placés dans un établissement de détention avant jugement peuvent
+recevoir une visite d'une heure par semaine, aux jours et heures fixés par la direction de chaque
+établissement (art. 52 al. 1 RSDAJ [règlement du 16 janvier 2008 sur le statut des détenus
+avant jugement et des condamnés placés dans un établissement de détention avant jugement
+et les régimes de détention applicables; RSV 340.02.5]).
+La garantie de la liberté personnelle (art. 10 al. 1 Cst. [Constitution fédérale de la
+Confédération suisse du 18 avril 1999; RS 101]) et le droit au respect de la vie privée
+et familiale (art. 8 CEDH [Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés
+fondamentales; RS 0.101] et 13 Cst.) permettent aux personnes détenues d'entretenir des contacts
+avec les membres de leur famille, dans les limites découlant de la mesure de contrainte qui leur
+est imposée et du rapport de sujétion spécial qui les lie à l'Etat (TF 1B_74/2014
+du 7 avril 2014 c. 3.2; TF 1B_382/2013 du 18 décembre 2013 c. 2.1).
+Conformément aux exigences de l'art. 36 Cst., les restrictions à ce droit doivent reposer sur
+une base légale et ne pas aller au-delà de ce qui est nécessaire au but de l'incarcération
+(ATF 119 Ia 505 c. 3b; ATF 118 Ia 64 c. 2d; TF 1B_74/2014 du 7 avril 2014 c. 3.2; TF 1B_382/2013
+du 18 décembre 2013 c. 2.1). Les exigences inhérentes au but de la détention doivent être
+examinées dans chaque cas, les restrictions imposées pouvant être d'autant plus sévères
+que le risque, notamment de collusion, apparaît élevé (ATF 118 Ia 64 c. 2d; TF 1B_74/2014
+du 7 avril 2014 c. 3.2; TF 1B_382/2013 du 18 décembre 2013 c. 2.1). Par analogie avec
+la détention provisoire, le risque de collusion doit, pour faire échec au droit de visite des
+proches, présenter une certaine vraisemblance (ATF 123 I 31 c. 3c; ATF 117 Ia 257 c. 4c; TF 1B_74/2014
+du 7 avril 2014 c. 3.2; TF 1B_382/2013 du 18 décembre 2013 c. 2.1), et l'autorité
+doit indiquer, au moins dans les grandes lignes, en quoi l'exercice de ce droit pourrait compromettre
+les résultats de l'enquête (cf. ATF 123 I 31 c. 2b; ATF 116 Ia 149 c. 5; TF 1B_74/2014
+du 7 avril 2014 c. 3.2; TF 1B_382/2013 du 18 décembre 2013 c. 2.1).
+2.2
+En l’espèce, la Procureure a motivé
+son refus d'autorisation de visite par la nécessité de ne pas voir des preuves altérées
+dans la procédure genevoise ouverte notamment contre X.________ pour des faits similaires à
+ceux survenus le 15 septembre 2014 à Morges (let. A.a
+supra
+).
+Elle a retenu qu'il n'était pas exclu que les comparses – à ce jour non identifiés
+– avec lesquels le prévenu aurait agi dans le canton de Genève fassent partie de la communauté
+de forains de ce dernier et/ou de sa famille et que, dans ces conditions, il existait un risque de collusion.
+Il y avait donc lieu d'élucider la question de l'état de l'instruction genevoise, d’autant
+plus que le Ministère public du canton de Genève a déclaré vouloir reprendre toutes
+les procédures, en invoquant la prépondérance de l’activité délictuelle
+dans ce canton (P. 38). Le Procureur genevois s'est déterminé par courrier du 5 janvier 2015.
+Contrairement à ce que prétend le recourant (P. 63), ces déterminations doivent être
+prises en considération. On relèvera sur ce point que la requête d'autorisation de visite
+a également été adressée au Ministère public du canton de Genève (P. 49/1)
+et que le recourant s’est lui-même prévalu, dans le cadre de la procédure parallèle
+de désignation d’un défenseur d’office, de "la reprise des deux enquêtes
+par le Procureur [genevois]" (P. 51), puis, dans son recours, de la réponse de ce dernier du
+10 décembre 2014, pour soutenir qu'il n'y aurait aucun risque de collusion dans l’enquête
+genevoise, de sorte qu'il est malvenu prétendre aujourd’hui que les déterminations de
+ce Procureur seraient irrecevables au motif que ce dernier ne serait pas partie à la présente
+procédure. La Chambre des recours pénale, qui peut administrer d’office les preuves nécessaires
+au traitement du recours (art. 389 al. 3 CPP), était fondée à solliciter du Ministère
+public du canton de Genève tous les renseignements nécessaires (cf. art. 195 CPP) dans une
+affaire pénale qui comporte un volet dans le canton de Genève et qui pourrait être reprise
+par le Ministère public de ce canton.
+Dans ses déterminations, le Procureur genevois a expliqué que l'instruction était encore
+peu avancée, s'agissant des faits survenus dans ce canton, et que d'autres personnes pourraient
+être impliquées dans l’activité délictueuse du prévenu, soit au total
+dans plus d’une douzaine de cas (P. 38). Dans ces circonstances et quand bien même le Ministère
+public n’indique pas dans les détails quelles mesures d'instruction doivent encore être
+menées, des contacts directs entre le recourant et son père, qui travailleraient du reste ensemble
+dans les brocantes (PV aud. 1, R. 3), seraient susceptibles, à ce stade de l’enquête,
+de compromettre la recherche de la vérité. Il existe donc un risque que, dans ce cas, le prévenu,
+dont W.________ serait d’ailleurs le petit-cousin (PV aud. 7, lignes 58 et 59), puisse faire passer
+des informations et ainsi compliquer l’instruction, d’autant plus que le recourant, qui a
+admis – non sans avoir tergiversé – s’être rendu à Genève à
+plusieurs reprises dans le cadre de son travail (PV aud. 15, lignes 30 et 31), a nié toute implication
+dans les cas recensés dans ce canton (PV aud. 15, lignes 29 et 30), contrairement à ce qu’auraient
+indiqué plusieurs plaignants, qui l’auraient clairement mis en cause (P. 62). Il existe,
+dans ces conditions, un risque de collusion suffisamment vraisemblable pour fonder la limitation de contacts
+ordonnée par le Ministère public de l’arrondissement de La Côte.
+3.
+En définitive, le recours doit être
+rejeté et l’ordonnance attaquée confirmée.
+Il convient de faire droit à la requête de X.________ tendant à la désignation de
+Me Loïc Parein comme défenseur d’office pour la procédure de recours.
+Vu l’issue de la cause, les frais de la procédure de recours, constitués de l'émolument
+d'arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), ainsi que des frais
+imputables à la défense d’office (art. 422 al. 1 et al. 2 let. a CPP), fixés à
+450 fr., plus la TVA, par 36 fr., soit 486 fr. au total, seront mis à la charge de X.________, qui
+succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 16 décembre 2014 est confirmée.
+III.
+Me Loïc Parein est désigné comme
+défenseur d’office de X.________
+pour la procédure de recours.
+IV.
+L’indemnité
+allouée à Me Loïc Parein est fixée à 486 fr. (quatre cent huitante-six francs).
+V.
+Les
+frais de la procédure de recours, par 770 fr. (sept cent septante francs), ainsi que l’indemnité
+due au défenseur d’office de X.________, par 486 fr. (quatre cent huitante-six francs), sont
+mis à la charge de ce dernier.
+VI.
+X.________ est tenu de rembourser à l’Etat le montant de l’indemnité allouée
+au chiffre IV ci-dessus dès que sa situation financière le permettra.
+VII.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Loïc Parein, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
