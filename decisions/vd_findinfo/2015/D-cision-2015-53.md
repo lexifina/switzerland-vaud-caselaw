@@ -1,0 +1,227 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___53"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 53"
+decided: "2015-01-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4753512"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/830.1/art-053.md", "switzerland/bund/acts/830.1/art-061.md"]
+---
+
+# VD Findinfo Décision / 2015 / 53
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE, RECONSIDÉRATION | 53 al. 3 LPGA, 94 al. 1 let. c LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 14.01.2015 Décision / 2015 / 53
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE, RECONSIDÉRATION | 53 al. 3 LPGA, 94 al. 1 let. c LPA-VD
+
+TRIBUNAL
+CANTONAL
+AVS
+47/13 - 1/2015
+ZC13.055482
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Arrêt du
+14 janvier 2015
+_____________________
+Présidence
+de               M.
+Métral
+,
+juge unique
+Greffière
+:              Mme
+Rossi
+*****
+Cause
+pendante entre :
+Z.________
+,
+à [...], recourante, représentée par Me Jean-David Pelot, avocat à Lausanne,
+et
+Caisse
+cantonale vaudoise de compensation AVS
+, à
+Clarens, intimée.
+_______________
+Art.
+53 al. 3 LPGA ; 94 al. 1 let. c LPA-VD
+C o n s i d é r a n t  e n  f a i t  e t  e n  d r o i t  :
+que Z.________ (ci-après : l’assurée ou la recourante) est domiciliée en Suisse
+depuis le 1
+er
+juillet
+2010,
+que le 2 juillet 2010, puis les 3 août et 2 septembre 2010, l’Agence d’assurances
+sociales de [...] (ci-après : l’agence d’assurances sociales) lui a demandé
+de produire les justificatifs relatifs au paiement de ses cotisations à l’assurance-vieillesse
+et survivants (AVS),
+que le 6 septembre 2010, Z.________, agissant par son avocat, a informé l’agence d’assurances
+sociales du fait qu’elle avait une activité économique à Singapour et qu’elle
+était affiliée d’office à une caisse de pension de ce pays, ce qui la dispensait
+en principe d’être affiliée à une caisse AVS en Suisse,
+que le 7 septembre 2010, puis le 16 décembre 2010, l’agence d’assurances sociales
+a demandé à Z.________ de produire un justificatif attestant le paiement des charges sociales
+pour l’année en cours, dans un autre pays que la Suisse,
+qu’à défaut d’obtenir l’attestation requise, l’agence d’assurances
+sociales a transmis le dossier à la Caisse cantonale vaudoise de compensation AVS (ci-après :
+la CCVD ou l’intimée),
+que cette dernière a adressé à Z.________, le 24 janvier 2011, un questionnaire d’affiliation
+à remplir et à lui retourner jusqu’au 11 février 2011,
+que le 14 février 2011, Z.________, par l’intermédiaire de son mandataire, a retourné
+le questionnaire d’affiliation rempli et signé, en indiquant qu’elle était employée
+par la société U.________ Ltd, à Singapour, et que la totalité de son revenu était
+soumise à cotisation dans ce pays,
+que le 9 mars 2011, la CCVD a demandé à Z.________ de lui remettre une copie de son contrat
+de travail et de préciser la date exacte du début de son activité,
+que le 7 avril 2011, le mandataire de l’assurée a écrit que cette dernière
+ne travaillait pas en Suisse et qu’elle était donc dans l’incapacité de produire
+un contrat de travail et d’indiquer le début exact de son activité,
+que le 9 septembre 2011, la CCVD a demandé à l’assurée de produire une copie
+du contrat de travail conclu avec U.________ Ltd, à Singapour, dans un délai échéant
+le 10 octobre 2011,
+que le 10 octobre 2011, l’assurée, par son mandataire, a produit le document requis,
+que le 21 octobre 2011, puis par rappel du 13 janvier 2012, la CCVD a demandé des précisions
+complémentaires à Z.________,
+que le 10 février 2012, la CCVD a adressé à Z.________ un questionnaire d’affiliation
+« en tant que salariée d’un employeur étranger qui n’est pas soumis à
+l’AVS en Suisse »,
+que le 19 novembre 2012, la CCVD a rendu trois décisions provisoires de cotisations personnelles,
+par lesquelles elle a fixé à 11’146 fr. 80 les cotisations sociales dues par
+Z.________ pour l’année 2012, à 10'279 fr. 20 les cotisations dues pour l’année
+2011 et à 3'830 fr. 70 les cotisations dues pour l’année 2010,
+qu’elle a également arrêté à 816 fr. 70 le montant des intérêts
+dus par l’assurée,
+que le 20 décembre 2012, l’assurée, par son mandataire, s’est opposée
+à ces décisions, au motif qu’elle réalisait l’intégralité de ses
+revenus à Singapour, où les impôts et cotisations sociales étaient prélevés
+à la source,
+qu’elle a demandé à pouvoir compléter son opposition ultérieurement,
+que le 9 janvier 2013, la CCVD a exposé à l’avocat de l’assurée qu’il
+n’existait pas de convention de sécurité sociale entre la Suisse et Singapour, de sorte
+que l’affiliation au régime de sécurité sociale dans ce pays n’exemptait pas
+sa mandante de s’affilier en Suisse, où elle était domiciliée,
+qu’elle a néanmoins précisé qu’elle restait dans l’attente d’un
+complément ou d’un retrait d’opposition au vu de ce qui précédait,
+que le 10 juin 2013, le mandataire de l’assurée a complété son opposition en
+précisant le montant des revenus et des cotisations prélevées à la source par les
+autorités de Singapour, pour le paiement des impôts et cotisations sociales, en 2011 et 2012,
+qu’il a demandé l’exemption de l’obligation de s’affilier en raison d’un
+cumul de charges trop lourdes, compte tenu de l’affiliation de sa mandante à une institution
+étrangère d’assurance-vieillesse et survivants,
+que le 18 juin 2013, la CCVD a exposé qu’effectivement, l’exemption de l’obligation
+de s’affilier en raison d’un cumul de charges trop lourdes était envisageable, mais
+devait faire l’objet d’une demande formelle accompagnée de diverses pièces justificatives
+traduites,
+qu’elle a ainsi invité l’avocat de l’assurée à déposer, jusqu’au
+30 septembre 2013, une demande d’exemption indiquant notamment la désignation de l’assurance
+officielle étrangère (étant précisé qu’il devait s’agir d’une
+institution régie par le droit public à laquelle l’assurée était rattachée
+de manière obligatoire), ainsi que la date de l’affiliation à l’assurance étrangère,
+que la CCVD a précisé qu’il appartenait à l’assurée de prouver son affiliation
+à une institution officielle étrangère d’assurance-vieillesse et survivants,
+que le 2 septembre 2013, elle a adressé un rappel invitant l’assurée à déposer
+la demande d’exemption, dans un délai échéant le 2 octobre 2013,
+que par décision sur opposition du 20 novembre 2013, la CCVD a constaté que la demande
+d’exemption n’avait pas été déposée dans le délai imparti à
+cet effet et a maintenu, sans changement, le montant des cotisations sociales exigées précédemment
+pour les années 2010 à 2012,
+que le 23 décembre 2013, Z.________, par son mandataire, a recouru auprès de la Cour des
+assurances sociales du Tribunal cantonal contre la décision sur opposition du 20 novembre 2013
+en demandant que le tribunal constate, sous suite de frais et dépens, qu’elle n’est
+pas affiliée à l’intimée pour la période du 1
+er
+juillet 2010 au 31 décembre 2012 et qu’elle n’est pas la débitrice des cotisations
+sociales et intérêts exigés par l’intimée pour la période en question,
+qu’elle a exposé, à l’appui de ses conclusions, qu’elle avait été
+assurée auprès de «  [...] », à Singapour, dès le 18 avril
+2010, et qu’elle était affiliée d’office au « G.________ »
+en raison de son travail à Singapour,
+que selon les indications de la recourante, il s’agit d’un système d’épargne
+et de sécurité sociale regroupant une pension de retraite, un système de soins pour la
+santé, un programme d’accession facilitée à la propriété, une protection
+de la famille et un encouragement à l’épargne,
+qu’elle a donné d’autres explications plus détaillées sur l’organisation
+du G.________ et a produit des pièces justificatives en vue de prouver ses allégations, notamment
+un certificat d’assurance et des attestations salariales établissant le paiement de cotisations
+au G.________ par son employeur et par elle-même, sa part étant prélevée à la
+source,
+que le 6 février 2014, l’intimée a répondu qu’elle statuerait prochainement
+sur une éventuelle exemption de l’obligation d’affiliation en Suisse, au regard des
+nouveaux documents produits à l’appui du recours,
+que le 9 décembre 2014, elle a rendu, en faveur de la recourante, une décision d’exemption
+du paiement des cotisations à l’assurance-vieillesse et survivants, à l’assurance-invalidité
+et aux allocations pour perte de gain, pour la période du 1
+er
+juillet
+2010 au 31 décembre 2012,
+que le même jour, l’intimée a produit cette décision d’exemption dans la présente
+procédure, en proposant que le recours soit déclaré sans objet,
+que le 12 janvier 2015, la recourante a constaté que le recours était effectivement sans
+objet, mais a requis l’octroi de dépens,
+qu’aux termes de l’art. 53 al. 3 LPGA (loi fédérale du 6 octobre 2000
+sur la partie générale du droit des assurances sociales ; RS 830.1), jusqu'à
+l'envoi de son préavis à l'autorité de recours, l'assureur peut reconsidérer une
+décision ou une décision sur opposition contre laquelle un recours a été formé,
+que lorsque cette reconsidération fait entièrement droit aux conclusions du recourant, elle
+rend le recours sans objet, ce qui entraîne la radiation de la cause du rôle,
+que l’autorité statue sur les frais et dépens,
+que si la décision de reconsidération ne fait pas entièrement droit aux conclusions du
+recourant, elle est assimilée à une simple proposition en procédure, le tribunal devant
+alors poursuivre l’instruction et statuer sur le recours dans la mesure où il n’est
+pas devenu sans objet (cf. art. 83 al. 2 LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la
+procédure administrative ; RSV 173.36]),
+qu’en l’espèce, la décision d’exemption pour cumul de charges trop lourdes,
+du 9 décembre 2014, rend le recours sans objet,
+que la recourante demande l’octroi de dépens, au motif que la décision en question fait
+droit à ses conclusions,
+qu’il convient toutefois de prendre en considération le fait que l’intimée n’a
+pu rendre sa décision d’exemption, le 9 décembre 2014, que sur la base des explications
+fournies dans le recours et des documents produits à l’appui de cette écriture, soit
+sur la base d’éléments nouveaux par rapport à ceux dont elle disposait lorsqu’elle
+a statué sur opposition,
+que la recourante aurait pu éviter une procédure de recours en donnant ces explications et
+en produisant les pièces justificatives dans le délai que l’intimée lui avait imparti
+le 18 juin 2013, jusqu’au 30 septembre 2013, puis prolongé jusqu’au 2 octobre
+2013 par lettre de rappel du 2 septembre 2013, ces deux courriers étant toutefois restés
+sans réponse,
+que dans cette mesure, il n’y a pas lieu d’allouer de dépens à la recourante, la
+procédure étant par ailleurs gratuite (art. 61 let. a LPGA),
+que la procédure relève de la compétence d’un juge unique (art. 94 al. 1 let.
+c LPA-VD) statuant en procédure simplifiée (art. 82 LPA-VD).
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+La cause est rayée du rôle.
+II.
+Il n’est pas alloué de dépens ni perçu de frais judiciaires.
+Le
+juge unique :               La
+greffière :
+Du
+L’arrêt qui précède est notifié à :
+‑
+Me Jean-David Pelot, avocat (pour Z.________),
+‑
+Caisse cantonale vaudoise de compensation AVS,
+-
+Office fédéral des assurances sociales,
+par
+l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
