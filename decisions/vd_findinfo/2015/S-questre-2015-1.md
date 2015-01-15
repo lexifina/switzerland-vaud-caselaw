@@ -1,0 +1,358 @@
+---
+decision_id: "vd_findinfo_S_questre___2015___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2015 / 1"
+decided: "2015-01-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4740068"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-023.md", "switzerland/bund/acts/210/art-024.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/291/art-020.md"]
+---
+
+# VD Findinfo Séquestre / 2015 / 1
+
+## Regeste
+
+CAS DE SÉQUESTRE, DOMICILE EN SUISSE, DOMICILE À L'ÉTRANGER, PREUVE FACILITÉE, DROIT D'ÊTRE ENTENDU | 271 al. 1 ch. 4 LP, 53 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 15.01.2015 Séquestre / 2015 / 1
+
+CAS DE SÉQUESTRE, DOMICILE EN SUISSE, DOMICILE À L'ÉTRANGER, PREUVE FACILITÉE, DROIT D'ÊTRE ENTENDU | 271 al. 1 ch. 4 LP, 53 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KH14.047323-142232
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 janvier 2015
+___________________
+Présidence
+de               Mme
+Rouleau
+,
+présidente
+Juges
+:              Mmes
+Carlsson et Byrde
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 4 LP et 53 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+O.________Sàrl
+,
+à [...], contre le prononcé rendu le 28 novembre 2014 par le Juge de paix du district
+de Nyon, rejetant la requête de séquestre déposée le 25 novembre 2014 par la recourante
+contre
+M.________
+.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 25 novembre 2014, O.________Sàrl a déposé auprès du Juge de paix du district de
+Nyon une requête dirigée contre M.________, tendant au séquestre du bien-fonds n°
+[...] du Registre foncier de Nyon et d’une part de copropriété simple de ½ du bien-fonds
+n° [...] du même registre foncier, en garantie de deux créances de 3'240 fr. chacune,
+avec intérêt à 5 % dès le 16 août 2013, représentant le montant dû,
+respectivement, à titre de premier forfait de tonte d'une propriété à [...] pour
+la saison 2013, selon facture n° 20130260 du 16 juillet 2013, et de second forfait de tonte de la
+même propriété pour la saison 2013, selon facture n° 20130282. Le cas de séquestre
+invoqué était celui de l’art. 271 ch. 4 LP [loi fédérale sur la poursuite
+pour dettes et la faillite; RS 281.1], soit l'absence de domicile en Suisse de la débitrice. A l’appui
+de sa requête, O.________Sàrl a produit, en photocopies :
+-
+un extrait du registre du commerce la concernant;
+-
+la facture n° 20130260, de 3'000 fr. plus TVA, soit  3'240 fr., payable à trente jours,
+adressée à M.________ le 16 juillet 2013, relative au premier ½ forfait de tonte pour
+l’année 2013;
+- la facture n° 20130282, de 3'000 fr. plus TVA, soit  3'240 fr., payable à trente jours,
+adressée à M.________ le 16 juillet 2013, relative au second ½ forfait de tonte pour l’année
+2013;
+-
+trois rappels des deux factures précitées, le premier du 19 septembre 2013, le deuxième
+du 7 novembre 2013 et le troisième du 10 décembre 2013;
+-
+une sommation du 31 mars 2014 de payer les deux montants précités jusqu'au 10 avril 2014;
+-
+un extrait du registre foncier relatif au bien-fonds n° [...] de la commune d’[...], dont
+M.________ était copropriétaire pour une demie jusqu’au 17 décembre 2013, date
+de la vente de la totalité du bien-fonds à des tiers;
+-
+une lettre de sa part  à M.________ du 30 mars 2007, lui proposant un forfait annuel de 6'000
+fr. hors taxe pour les tontes, fauchage et attachage, soit 3'000 fr. facturés dans le courant du
+mois de juillet et 3'000 fr. dans le courant du mois d’octobre;
+-
+une lettre de sa part à M.________ du 19 avril 2010, lui proposant un forfait de 6'000 fr. hors
+taxe pour les tontes, fauchage, attachage et détachage des arbustes pour la saison d’été
+2010, soit 3'000 fr. facturés dans le courant du mois de juillet et 3'000 fr. dans le courant du
+mois d’octobre;
+-
+six factures de 3'000 fr. plus TVA, adressées à M.________ pour les années 2010, 2011
+et 2012, portant toutes la mention de leur acquittement;
+-
+une "déclaration de domicile" du bureau du Contrôle des habitants de la commune de
+[...], du 10 novembre 2014, confirmant que M.________ est inscrite dans la commune depuis le 1
+er
+septembre 1996, à l’adresse [...];
+-
+un avis de rejet d’une réquisition de poursuite à l'encontre de M.________, "[...]",
+à [...], adressé le 1
+er
+septembre 2014 à O.________Sàrl par l’Office des poursuites du district de Nyon, indiquant
+que le "débiteur [est] parti sans laisser d’adresse selon l’agent notificateur
+de la Commune de [...] et un huissier de l’Office selon constatation sur place (maison vide)";
+-
+une lettre du 21 novembre 2014 de l’office précité à un agent d'affaires breveté
+à Vevey, l’informant qu'il considère que M.________ n'est pas domiciliée dans son
+arrondissement, que selon ses investigations, cette personne ne réside plus à l'adresse [...],
+à [...], que la maison est inoccupée et que le fait que cette personne soit toujours inscrite
+au Contrôle des habitants de la commune de [...] ne crée pas un for de poursuite;
+-
+un extrait des registres (art. 8a  LP) du même office au 21 novembre 2014, faisant état
+de poursuites contre M.________ pour un montant total de 850'941 fr. 65, dont un séquestre validé
+en faveur d’une entreprise d’électricité de Nyon;
+-
+un extrait du registre foncier relatif au bien-fonds n° [...] de la commune de [...], sis [...],
+propriété de M.________;
+-
+un dito relatif au bien-fonds n° [...] de la commune de [...], copropriété simple pour
+une demie de M.________ et pour l’autre demie d'un tiers.
+2.
+Par prononcé d'emblée motivé du 28 novembre 2014, notifié au conseil de la requérante
+le 1
+er
+décembre 2014, le Juge de paix du district de Nyon a rejeté la requête de séquestre,
+arrêté à 180 fr. les frais judiciaires mis à la charge de la requérante et rayé
+la cause du rôle.
+En bref, le premier juge a retenu qu’il ressortait de la déclaration du bureau du Contrôle
+des habitants de la commune de [...], de même que de "la correspondance officielle reçue
+par la partie intimée de l’établissement scolaire de [...] en novembre 2014 – pièce
+ressortant de la procédure de séquestre KH[...] ouverte entre les mêmes parties et pour
+la même créance – que l’intimée était toujours domiciliée
+à [...]" et que la requérante ne démontrait pas qu’elle n’avait pas constitué
+le centre de ses intérêts dans cette commune.
+3.
+La requérante a recouru par acte motivé
+du 11 décembre 2014, concluant avec suite de frais et dépens de seconde instance à l’admission
+du recours et, principalement, à l’annulation du prononcé entrepris en ce sens que le
+séquestre requis est ordonné, subsidiairement, au renvoi de la cause au premier juge pour qu’il
+statue conformément aux conclusions de la requête de séquestre. A l’appui de son
+recours, elle a produit de nouvelles pièces.
+En droit
+:
+I.
+a)
+Un recours au sens des art. 319 ss CPC [Code
+de procédure civile; RS 272] est ouvert contre les décisions rendues en matière de séquestre,
+en vertu des art. 309 let. b ch. 6 et 319 let. a CPC (Blickenstorfer, ZPO Kommentar, nn. 4 et 23-24 ad
+art. 309 CPC). Le recours s'exerce par le dépôt d'un acte écrit et motivé auprès
+de l'instance de recours (art. 321 al. 1 CPC), dans les dix jours suivant la notification de la décision,
+si elle a été prise en procédure sommaire (art. 321 al. 2 CPC), ce qui est le cas des
+décisions rendues en matière de séquestre (art. 251 let. a CPC).
+Le recours motivé déposé le 11 décembre 2014 par O.________Sàrl est ainsi
+recevable matériellement et formellement.
+b)
+En vertu de l’art. 326 al. 1 CPC, les pièces nouvelles sont irrecevables en deuxième
+instance. L'art. 326 al. 2 CPC réserve cependant les dispositions spéciales de la loi. La LP
+contient certes une disposition spéciale à l’art. 278 al. 3 en ce qui concerne le
+recours contre les décisions d’opposition au séquestre, mais aucune disposition relative
+au recours contre un refus du séquestre.
+Il en découle que l’art. 326 al. 1 CPC est applicable et que les pièces nouvelles déposées
+par la recourante en deuxième instance sont irrecevables, à l'exception des pièces de
+procédure relatives au paiement des sûretés en première instance et de l'extrait
+du registre du commerce, qui constitue un fait notoire dont il peut être tenu compte d'office (ATF
+98 II 211).
+II.
+a)
+Aux termes de l’art. 272 al. 1 LP, le
+créancier qui veut obtenir le séquestre de biens appartenant à un débiteur doit rendre
+vraisemblable que sa créance existe (ch. 1), qu’on est en présence d’un cas de
+séquestre (ch. 2) et qu’il existe des biens appartenant au débiteur (ch. 3).
+b)
+Le créancier d’une dette échue et non garantie par gage peut requérir le séquestre
+des biens du débiteur qui se trouvent en Suisse dans divers cas, énumérés à
+l’art. 271 al. 1 LP, notamment "lorsque le débiteur n’habite pas en Suisse et qu’il
+n’y a pas d’autre cas de séquestre, pour autant que la créance ait un lien suffisant
+avec la Suisse ou qu’elle se fonde sur une reconnaissance de dette au sens de l’art. 82 al.
+1 LP" (art. 271 al. 1 ch. 4 LP).
+Il incombe au créancier qui invoque ce dernier cas de séquestre de rendre vraisemblable que
+sa créance, qui ne doit pas être garantie par gage, existe et est exigible, que son prétendu
+débiteur n’habite pas en Suisse, qu’il fonde sa prétention sur un titre de mainlevée
+provisoire ou, à défaut, que sa créance a un lien suffisant avec la Suisse et qu’il
+n’y a pas d’autre cas de séquestre, respectivement qu’il n’en invoque aucun
+autre, et qu'il existe des droits patrimoniaux saisissables localisés dans le ressort judiciaire
+du juge du séquestre, dont le prétendu débiteur est le titulaire apparent (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 54 ad art. 271
+LP).
+c)
+Le
+cas de séquestre de l'art. 271 al. 1 ch. 4 LP concerne les situations où le débiteur,
+quelle que soit sa nationalité, n'a pas de domicile en Suisse tout en y détenant des biens.
+La notion "d’habiter en Suisse"
+se définit en rapport avec l’existence d’un for de poursuite ordinaire en Suisse (art.
+46 LP), réel et effectif, de sorte que, pour que le cas de séquestre en question soit réalisé,
+il ne doit pas y avoir en Suisse de for ordinaire de poursuite (Gilliéron, op. cit., n. 56 ad art.
+271 LP), inclus les fors des art. 50 à 52 LP (Schüpbach, Commentaire romand de la LP, n. 10
+ad art. 46 LP; Stoffel/Chabloz, ibid., n. 64 ad art. 271 LP). Le Tribunal fédéral n’a
+pas formellement tranché la question de savoir si le "domicile" au sens de l’art.
+271 al. 1 ch. 4 LP est défini par l’art. 23 al. 1 CC [Code civil; RS 210] ou par l’art.
+20 al. 1 let. a LDIP [loi fédérale sur la droit international privé; RS 291], comme le
+préconisent deux auteurs précités (Stoffel/Chabloz, op. cit., n. 65 ad art. 271 LP). La
+notion de domicile est de toute manière la même quelle que soit la norme considérée
+(TF 5P.291/2004 du 22 septembre 2004, c. 4.1; CPF, 15 avril 2010/166). Une personne physique a son domicile
+au lieu ou dans l'Etat dans lequel elle réside avec l'intention de s'y établir, ce qui suppose
+qu'elle fasse du lieu en question le centre de ses intérêts personnels et professionnels. Cette
+définition du domicile comporte deux éléments: l'un objectif, la présence physique
+en un lieu donné; l'autre subjectif, l'intention d'y demeurer durablement. L'élément objectif
+n'implique pas nécessairement que le séjour ait déjà duré un certain temps;
+si la condition subjective est remplie par ailleurs, la constitution d'un domicile peut se produire dès
+l'arrivée dans un nouveau pays de séjour. Aussi, pour déterminer si une personne réside
+en un lieu donné avec l'intention de s'y établir - en d'autres termes, pour déterminer
+si elle s'y est créé un domicile - ce n'est pas seulement la durée de son séjour
+à cet endroit qui est décisive, mais aussi la perspective d'une telle durée. Cependant,
+l'intention d'une personne de s'établir durablement en un lieu déterminé ne doit pas être
+examinée de façon subjective, au regard de sa volonté interne, mais à la lumière
+des circonstances objectives, reconnaissables pour les tiers, permettant de conclure à l'existence
+d'une telle intention (TF 5A_432/2009 du 23 décembre 2009, c. 5.2.1; ATF 127 V 237 c. 1; CPF, 15
+avril 2010/166; CPF, 27 mai 2014/192).
+L'absence de domicile en Suisse de l’art. 271 al. 1 ch. 4 LP implique un domicile à l'étranger.
+Dans l'hypothèse où on ignore où est domicilié le débiteur, c'est le cas de
+séquestre de l'art. 271 al. 1 ch. 1 LP qui doit être invoqué par le créancier. Le
+cas de l'art. 271 al. 1 ch. 4 LP doit être invoqué lorsque l'on sait que le débiteur habite
+l'étranger et ce domicile à l'étranger doit être rendu vraisemblable (CPF, 26 janvier
+2012/90).
+Le moment décisif pour fixer le domicile est celui du dépôt de la requête de séquestre
+(TF 5A_870/2010 du 15 mars 2011, c. 3.1 et les réf citées). La fiction du maintien de l’ancien
+domicile tant qu’un nouveau domicile n’est pas créé (art. 24 al. 2 CC) n’est
+pas applicable en matière de LP (ATF 119 III 51, JT 1996 II 35; ATF 119 III 54, JT 1995 I 18; CPF,
+26 janvier 2012/90 précité).
+C’est au requérant qu’il appartient de rendre vraisemblable l'absence de domicile en
+Suisse du débiteur et le domicile à l’étranger de celui-ci. Le fait que le débiteur
+soit atteignable en un lieu ne signifie pas qu’il y est domicilié, ni le refus de l’office
+de donner suite à une réquisition pour le motif que débiteur n'est pas atteignable en
+un lieu, que ce dernier n'y soit pas domicilié (Schüpbach, op. cit., n. 12 ad art. 46
+LP).
+d)
+En l’espèce – en relation
+avec l’absence de domicile en Suisse de la prétendue débitrice – le recourant a
+produit en première instance une déclaration de domicile de la Commune de [...], un avis de
+rejet d’une réquisition de poursuite au for de [...], pour le motif que la débitrice
+n’y habite plus, et une lettre de l’Office des poursuites du district de Nyon indiquant que,
+selon les constatations de l’agent notificateur et d'un huissier de l’office, la débitrice
+ne réside plus à [...], la maison dont elle est propriétaire étant inoccupée.
+Le premier juge n’a pas tenu compte de ces deux derniers documents, considérant implicitement
+qu’ils n’étaient pas propres à rendre vraisemblable l’absence de domicile
+en Suisse de l’intéressée et son domicile à l'étranger. En effet, ces deux
+pièces ne font que confirmer le refus de l’office de donner suite à une réquisition
+de poursuite. Simultanément, il est établi que l’intéressée est toujours inscrite
+au Contrôle des habitants de la commune de [...], circonstance qui, à l’inverse, n’est
+pas suffisante à elle seule pour établir un domicile. Quant à l’extrait du registre
+du commerce produit en deuxième instance, dont on a vu qu'il peut être tenu compte d'office
+(cf. supra consid. Ib), s’il indique que M.________ n’est plus inscrite en qualité d’organe
+de quatre sociétés dans lesquelles elle était active, il atteste qu’elle est encore
+inscrite comme présidente du conseil d’administration avec signature individuelle d'une fondation
+à [...]. Dans ces circonstances, il est en effet douteux d’admettre que les deux pièces
+mentionnées plus haut suffisent, compte tenu des autres pièces produites par la recourante
+en première instance, à rendre vraisemblable que l’intimée n’habite plus en
+Suisse, mais  à l'étranger.
+La question peut cependant demeurer indécise, car le prononcé attaqué doit de toute manière
+être annulé pour un autre motif.
+III.
+a)
+L’art. 53 CPC consacre le droit des parties
+d’être entendues, qui est une garantie constitutionnelle (art. 29 al. 2 Cst. [Constitution
+fédérale; RS 101]). Le droit d’être entendu comprend le droit d’être
+informé et de s’exprimer sur les éléments de la procédure. Ce droit de s’exprimer
+a une portée générale : il doit permettre à la partie de se prononcer sur tous
+les éléments en cause (Haldy, in Bohnet et al. (éd.), Code de procédure civile commenté,
+n. 6 ad art. 53 CPC). Le droit d’être entendu oblige en particulier l’autorité,
+lorsqu’elle envisage de prendre en compte dans sa décision de nouveaux arguments, d’interpeller
+les parties à ce sujet (ATF 130 III 35; Haldy, op. cit., n. 7 ad art. 53 CPC). Il comprend aussi
+le droit de consulter le dossier (art. 53 al. 2 CPC).
+Le droit d’être entendu est de nature formelle. Sa violation entraîne en principe l’annulation
+de la décision, sans égard à la question de savoir si son respect aurait conduit à
+une solution différente. Cette règle rigoureuse connaît toutefois des exceptions lorsque
+le vice peut être réparé par l’autorité de recours qui dispose du même
+pouvoir de cognition que l’autorité de première instance ou lorsque l’informalité
+n’est pas de nature à influer sur le jugement (Haldy, op. cit., n. 20 ad art. 53 CPC
+et les références citées).
+b)
+En l’espèce premier juge a rejeté la requête de séquestre en se fondant sur
+la déclaration du Contrôle des habitants de [...] produite par la recourante et sur une "correspondance
+officielle reçue par la partie intimée de l’établissement scolaire de [...] en novembre
+2014", qui avait été produite dans une autre procédure divisant les mêmes parties.
+Ce faisant, le juge a violé le droit d’être entendue de la recourante. Il ne pouvait
+en effet fonder sa décision sur une pièce qu’il a tirée d’un autre dossier,
+sans en informer au préalable la recourante et sans lui fixer un délai pour s’exprimer
+le cas échéant sur cette pièce. Peu importe que la recourante ait pu avoir connaissance
+de la pièce en cause dans le cadre d'une autre procédure. Ce vice est irréparable. La
+recourante tente bien dans son recours de s’exprimer sur le contenu de cette lettre et d’en
+contester la portée. Ses arguments ne peuvent toutefois être appréciés dès lors
+que la lettre en question ne figure pas au dossier et que la recourante – conformément à
+l’art. 326 al. 1 CPC – ne pouvait produire en deuxième instance ni cette lettre
+ni d'autres pièces nouvelles susceptibles d'en infirmer le contenu ou la portée.
+Cela étant, il y a lieu d’annuler la décision attaquée et de renvoyer la cause au
+premier juge afin qu’il adresse une copie de la pièce en question à la recourante en
+lui fixant un délai pour s’exprimer à son sujet et, le cas échéant, produire
+des pièces de nature à en infirmer le contenu ou la portée, avant de statuer à nouveau.
+IV.
+Les frais judiciaires de deuxième instance, arrêtés à 405 fr., sont laissés
+à la charge de l’Etat (art. 107 al. 2 CPC). L'avance de frais du même montant effectuée
+par la recourante doit par conséquent lui être restituée.
+La procédure n’étant pas contradictoire, il n’y a pas lieu à l’allocation
+de dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé est annulé, la cause étant renvoyée au Juge de paix du district de Nyon
+pour qu’il procède selon les considérants et rende une nouvelle décision.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 405 fr. (quatre cent cinq francs),
+sont laissés à la charge de l'Etat.
+L’avance de frais
+du même montant effectuée par la recourante lui est restituée.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Philippe Chiocchetti, agent d'affaires breveté (pour O.________Sàrl).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 6'480 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+La greffière :
