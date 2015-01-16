@@ -1,0 +1,130 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___60"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 60"
+decided: "2015-01-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4751603"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-143.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2015 / 60
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, SÛRETÉS, AVANCE DE FRAIS | 383 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.01.2015 Décision / 2015 / 60
+
+DÉCISION D'IRRECEVABILITÉ, SÛRETÉS, AVANCE DE FRAIS | 383 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+33
+PE14.019045-MOP
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+16 janvier 2015
+__________________
+Composition
+:               M.
+A B R E C H T, président
+MM.
+Krieger et Maillard, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+383 al. 1 et 2 CPP
+Statuant sur le recours interjeté par
+D.________
+contre l’ordonnance de non-entrée en matière rendue le 21 novembre 2014 par le Ministère
+public de l'arrondissement de Lausanne dans la cause
+n° PE14.019045-MOP
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+La direction de la procédure de l’autorité de recours peut astreindre la partie plaignante
+à fournir des sûretés dans un délai déterminé pour couvrir les frais et
+indemnités éventuels (art. 383 al. 1 CPP [Code de procédure pénale suisse du 5 octobre
+2007; RS 312.0]). Si les sûretés ne sont pas fournies dans le délai imparti, l’autorité
+de recours n’entre pas en matière sur le recours (art. 383 al. 2 CPP).
+Les sûretés sont réputées fournies dans le délai lorsqu’elles sont remises
+à l’autorité de recours, versées en sa faveur à la poste suisse, ou encore
+débitées d’un compte bancaire ou postal suisse le dernier jour du délai au plus
+tard (Richard Calame,
+in
+: Kuhn/Jeanneret [éd.], Code de procédure pénale suisse, Commentaire romand, Bâle
+2011, n. 6 ad art. 383 CPP; cf. art. 143 al. 3 CPC [Code de procédure civile du 19 décembre
+2008; RS 272.0]).
+2.
+D.________ a interjeté recours contre l'ordonnance de non-entrée en matière rendue le
+21 novembre 2014 par le Ministère public de l’arrondissement de Lausanne, ensuite de différentes
+plaintes déposées par la recourante entre le 26 août 2014 et le 18 novembre 2014.
+Par avis du 9 décembre 2014, la direction de la procédure a imparti à la recourante un
+délai au 29 décembre 2014 pour effectuer un dépôt de 550 fr. à titre de sûretés,
+avec l’indication qu’à défaut de paiement en temps utile, il ne serait pas entré
+en matière sur son recours.
+Par acte du 19 décembre 2014, la plaignante a sollicité un report du délai imparti pour
+effectuer le dépôt requis à titre de sûretés. Elle a précisé qu’elle
+contestait par ailleurs «(…) le délai d’attente de réponse concernant les
+affaires mentionnées par Maître [...] (…)».
+Par avis du 31 décembre 2014, la direction de la procédure a imparti à la recourante un
+ultime délai au 12 janvier 2015 pour effectuer le dépôt requis à titre de sûretés.
+Elle l’a au surplus invitée à préciser si elle entendait recourir également
+pour déni de justice dans le cadre des autres dossiers évoqués dans son écriture
+du 19 décembre 2014, tout en précisant qu’à défaut de précision de sa
+part dans le délai imparti, elle considérerait que tel n’était pas le cas.
+3.
+En l’occurrence, l’intéressée
+n’a pas effectué l’avance de frais requise dans le délai imparti. Son recours est
+donc irrecevable. Pour le reste, elle n’a pas davantage donné suite à la réquisition
+de la direction de la procédure portant sur l’objet de sa contestation. Ce faisant, elle a
+implicitement confirmé qu’elle entendait uniquement recourir contre l'ordonnance de non-entrée
+en matière rendue le 21 novembre 2014.
+4.
+Les frais de la procédure de recours, constitués
+en l'espèce du seul émolument d'arrêt, par 330 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP
+[Tarif des frais de procédure et indemnités en matière pénale du 28 septembre 2010;
+RSV 312.03.1]), seront laissés à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais de la procédure, par 330 fr. (trois
+cent trente francs), sont laissés à la charge de l'Etat.
+III.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme D.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
