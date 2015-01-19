@@ -1,0 +1,386 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___68"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 68"
+decided: "2015-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4770418"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-025.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-163.md", "switzerland/bund/acts/311.0/art-164.md", "switzerland/bund/acts/311.0/art-165.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2015 / 68
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, ABUS DE CONFIANCE, ESCROQUERIE, BANQUEROUTE FRAUDULEUSE, SOUPÇON, ADMISSION DE LA DEMANDE | 138 ch. 1 CP, 146 al. 1 CP, 163 ch. 1 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2015 Décision / 2015 / 68
+
+DÉCISION D'IRRECEVABILITÉ, ABUS DE CONFIANCE, ESCROQUERIE, BANQUEROUTE FRAUDULEUSE, SOUPÇON, ADMISSION DE LA DEMANDE | 138 ch. 1 CP, 146 al. 1 CP, 163 ch. 1 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+37
+PE14.008274-KBE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 janvier 2015
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+138 ch. 1, 146 al. 1, 163 ss CP ; 310, 393 ss CPP
+Statuant sur les recours interjetés le 8 septembre 2014 par
+R.________
+et
+Z.________
+,
+par
+B.________
+,
+et par l’Hoirie
+V.________
+contre l’ordonnance de non-entrée en matière rendue le 22 août 2014 par le Ministère
+public de l’arrondissement de l’Est Vaudois dans la cause
+n° PE14.008274-KBE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a) Le 24 avril 2014, B.________ a déposé plainte pénale à l’encontre de X.________
+et de sa compagne H.________ pour escroquerie et infractions aux art. 163 ss CP (P. 4). Il allègue
+en substance avoir, le 18 avril 2007, conclu avec X.________ une convention de participation selon laquelle
+il versait à celui-ci un montant de 290'000 fr. destiné à la mise en œuvre de la
+vente de tableaux de l’artiste [...] comprenant 90 tableaux. X.________ devait lui assurer un intérêt
+annuel de 10%. Celui-ci a indiqué que le montant de 290'000 fr. était garanti par le stock
+d’œuvres d’art de ses galeries à Vevey et Genève. X.________ n’a versé
+que le premier intérêt conventionnel et n’a jamais remboursé le montant de 290'000
+francs. Dans le cadre de la procédure de faillite de X.________, B.________ a constaté que
+la majorité des biens appartenait à sa compagne, H.________. Il estime dès lors avoir
+été trompé.
+b) Le 26 mai 2014, R.________ et Z.________ ont également déposé plainte pénale à
+l’encontre de X.________ pour escroquerie et infractions aux art. 163 ss CP (P. 7). A l’appui
+de leur plainte, ils ont allégués que le 15 mai 2006, ils avaient conclu une convention
+de participation selon laquelle ils versaient à X.________ 315'000 fr., respectivement 215'000 francs.
+Les sommes prêtées faisaient l’objet d’une rémunération de 63'000 fr.
+par an pour R.________ et de 43'000 fr. pour Z.________. La durée du prêt était de deux
+ans et il était garanti par le stock d’œuvres d’art des galeries de Vevey et de
+Genève. X.________ a versé la rémunération à R.________ pour l’exercice
+2006/2007 et pour l’année 2007/2008 et le capital a fait l’objet d’un remboursement
+de 60'000 fr. (P. 8/2). Il a également versé la rémunération à Z.________
+pour l’exercice 2006/2007 et partiellement pour l’exercice 2007/2008 (P. 8/2). Dans le cadre
+de la procédure de faillite de X.________, R.________ et Z.________ ont constaté que la majorité
+des biens appartenaient à sa compagne H.________. Ils estiment dès lors avoir été
+trompés.
+c) Le 7 juillet 2014, Me [...], agissant en tant qu’exécuteur testamentaire de feu V.________
+et en sa qualité de représentant de ses héritiers, a déposé plainte pénale
+à l’encontre de X.________ et de sa compagne H.________ pour escroquerie, subsidiairement
+abus de confiance, et infraction aux art. 163 ss CP (P. 17). A l’appui de sa plainte,
+il a allégué que le 5 juin 2008, V.________ avait conclu avec X.________ une convention de
+participation dans laquelle il s’était engagé à participer financièrement à
+la réalisation de huit bronzes « tirés » d’un plâtre original
+de [...], en voie d’authentification. La participation de V.________ consistait en un prêt
+d’un montant de 200'000 francs. La somme devait être totalement remboursée au 31 août
+2008. X.________ s’était engagé à verser à V.________ une prime de 70'000 fr.
+en cas d’obtention du certificat d’authentification de l’œuvre ou une prime de
+30'000 fr. si le certificat ne devait pas être délivré. Le montant dû, y compris
+la prime, était garanti par un lot d’œuvres mentionnées sur une liste annexée
+à la convention d’une valeur de 710'000 fr. et dont X.________ avait confirmé être
+propriétaire. X.________ n’a pas remboursé la somme prêtée ni versé la
+prime fixée dans le délai convenu au 31 août 2013. Après plusieurs relances, il s’est
+acquitté d’un montant de 60'500 francs. V.________ est décédé le 4 mars
+2013. Dans le cadre de la faillite de X.________, il est apparu que celui-ci avait vendu la plupart des
+œuvres censées garantir le prêt de V.________ en 2003, 2006 et 2007.
+d)
+Le 27 mars 2013, X.________ a vendu un moule original d’une sculpture de [...] à sa compagne
+pour la somme de 28'000 francs. Les plaignants estiment qu’il s’agit d’une soustraction
+de bien au détriment des créanciers et que X.________ a agi avec la complicité de H.________.
+Les plaignants ont requis le séquestre des biens figurant à l’inventaire des biens du
+failli. Ils ont en outre requis la production du dossier de faillite et la production d’un rapport
+de police du 15 avril 2013 établi dans le cadre d’une procédure pénale relative
+à l’authenticité d’un moule attribué à [...]. Les pièces essentielles
+du dossier de faillite ainsi que le rapport de police ont été versés au dossier.
+B.
+Le 22 août 2014, le Procureur a rendu une
+ordonnance de non-entrée en matière. S’agissant de l’escroquerie, il a considéré
+que l’astuce n’était pas réalisée, les plaignants, rompus aux affaires, n’ayant
+pas procédé à la moindre démarche pour vérifier si les œuvres d’art
+appartenaient effectivement à X.________, se basant uniquement sur les déclarations de ce dernier,
+plutôt que d’exiger une remise en gage des objets proposés à titre de garantie.
+Il a également considéré qu’il n’était pas établi que X.________
+n’avait d’emblée pas l’intention de payer les intérêts ou de rembourser
+les sommes avancées. S’agissant de l’abus de confiance, il a constaté que les plaignants
+n’avaient pas démontré ou allégué que les valeurs patrimoniales avaient été
+utilisées contrairement aux instructions reçues. Enfin, quant à d'éventuelles infractions
+commises dans le cadre des procédures de faillite et de poursuite, il a estimé que les revendications
+de H.________ étaient justifiées par des documents et que le moule attribué à [...]
+vendu par X.________ à cette dernière était vraisemblablement sans valeur car il s'agirait
+d'un faux. Pour le surplus, l'office des faillites n'aurait pas fait état d'éléments permettant
+de conclure à la commission d'infractions réprimées par les art. 163 ss CP.
+C.
+a) Par acte du 8 septembre 2014, B.________ a
+recouru contre cette ordonnance en concluant notamment à son annulation et à ce qu’il
+soit ordonné au Ministère public de l’arrondissement de l’Est vaudois d’ouvrir
+une instruction, en particulier sur la base des art. 146, 163, 164 et 165 CP ainsi que pour complicité,
+au sens de l’art. 25 CP, d’escroquerie (II) et à ce que la requête de séquestre
+des biens figurant à l’inventaire du failli soit admise (III).
+b) Par acte du 8 septembre 2014, R.________ et Z.________ ont recouru contre cette ordonnance en concluant
+notamment à son annulation et à ce qu’il soit ordonné au Ministère public de
+l’arrondissement de l’Est vaudois d’ouvrir une instruction, en particulier sur les
+articles 146, 163, 164 et 165 CP ainsi que sur la complicité, au sens de l’art. 25 CP, d’escroquerie
+(II) et à ce que la requête de séquestre des biens figurant à l’inventaire
+du failli soit admise (III).
+c) Par acte du 8 septembre 2014, l’hoirie V.________ a recouru contre cette ordonnance en concluant
+à son annulation et au renvoi de la cause au Ministère public de l’arrondissement de
+l’Est Vaudois pour ouverture d’une instruction.
+d) Par courrier du 26 novembre 2014, R.________, Z.________ et B.________ ont indiqué adhérer
+aux moyens soulevés et aux conclusions prises par les hoirs de feu V.________.
+Le 26 novembre 2014, les hoirs de feu V.________ ont indiqué adhérer aux moyens soulevés
+et aux conclusions prises par R.________, Z.________ et B.________.
+Le 2 décembre 2014, X.________ a déposé des déterminations et a conclu, sous suite
+de frais et de dépens, au rejet des recours et à la confirmation de l’ordonnance de non-entrée
+en matière du 22 août 2014.
+Le 3 décembre 2014, le Ministère public de l’arrondissement de l’Est Vaudois a
+informé la cour de céans qu’il n’entendait pas déposer de déterminations.
+Le 8 janvier 2015, H.________ a conclu, sous suite de frais et de dépens, au rejet des recours déposés
+le 8 septembre 2014 par B.________, R.________ et Z.________, et V.________.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (cf. art. 310 CPP) dans les dix jours
+devant l’autorité de recours (art. 310 al. 2 et 322 al. 2 CPP; cf. art. 20 al. 1 let. b CPP),
+qui dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi
+d’organisation judiciaire; RSV 173.01]).
+Interjetés dans le
+délai légal (art. 322 al. 2 CPP, par renvoi de l'art. 310 al. 2 et art. 396 al. 1 CPP) contre
+une ordonnance de non-entrée en matière (art. 393 al. 1 let. a CPP), par des parties plaignantes
+qui ont qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1
+CPP), les recours sont recevables.
+2.
+Aux termes de l'art. 310 al. 1 let. a CPP, une ordonnance de non-entrée en matière est rendue
+immédiatement – c’est-à-dire sans qu’une instruction soit ouverte (art. 309
+al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 c. 2.1; Cornu, in: Kuhn/Jeanneret [éd.], op. cit.,
+n. 2 ad art. 310 CPP) – par le ministère public lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 s. CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310 CPP)
+ou après une procédure préliminaire limitée aux investigations de la police (art.
+300 al. 1 et 306 s. CPP), que les éléments constitutifs de l'infraction ou les conditions à
+l'ouverture de l'action pénale ne sont manifestement pas réunis (let. a), qu’il existe
+des empêchements de procéder (let. b) ou que les conditions mentionnées à l’art.
+8 CPP imposent de renoncer à l’ouverture d’une poursuite pénale (let. c) (TF 1B_111/2012
+du 5 avril 2012 c. 2.1; TF 1B_67/2012 du 29 mai 2012 c. 2.2).
+Des motifs de fait peuvent
+également justifier la non-entrée en matière selon l’art. 310 al. 1 let. a CPP;
+il s’agit des cas où la preuve d’une infraction, soit de la réalisation en fait
+de ses éléments constitutifs, n’est pas apportée par les pièces dont dispose
+le ministère public (Cornu, op. cit., n. 9 ad art. 310 CPP; CREP 23 novembre 2011/517 c. 2a), ou
+encore des cas où l'identité de l'auteur de l'infraction ne peut vraisemblablement pas être
+établie (TF 1B_67/2012 du 29 mai 2012 c. 3.2). Dans de tels cas, le procureur doit examiner si une
+enquête, sous une forme ou sous une autre, serait en mesure d’apporter des éléments
+susceptibles de renforcer les charges contre la personne visée ou d’établir l’identité
+de l’auteur de l’infraction; ce n’est que si aucun acte d’enquête raisonnable
+ne paraît pouvoir amener des éléments utiles qu’il peut rendre une ordonnance de
+non-entrée en matière (Cornu, op. cit., n. 9 ad art. 310 CPP; TF 1B_67/2012 du 29 mai 2012
+c. 3.2; CREP 23 novembre 2011/517 c. 2a). En cas de doute sur la possibilité d’apporter ultérieurement
+la preuve des faits en question, la non-entrée en matière est exclue (Cornu, op. cit., n. 9
+ad art. 310 CPP; Nathan Landshut, in : Donatsch/Hansjakob/ Lieber [éd.], Kommentar zur Schweizerischen
+Strafprozessordnung, 2010, n. 5 ad art. 310 CPP; Message du Conseil fédéral relatif à
+l’unification du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057
+ss, spéc. 1248; CREP 23 novembre 2011/517 c. 2a). En revanche, le ministère public doit pouvoir
+rendre une ordonnance de non-entrée en matière dans les cas où il apparaît d’emblée
+qu’aucun acte d’enquête ne pourra apporter la preuve d’une infraction à la
+charge d’une personne déterminée (cf. TF 1B_67/2012 du 29 mai 2012 c. 3.2). En effet,
+il ne se justifie pas d’ouvrir une instruction pénale (art. 309 CPP) qui devra être close
+par une ordonnance de classement dans la mesure où une condamnation apparaît très vraisemblablement
+exclue (cf. ATF 138 IV 86 c. 4.1.1; TF 1B_272/2011 du 22 mars 2012 c. 3.1.1).
+3.
+Les recourants soutiennent que le procureur aurait
+dû instruire afin d’éclaircir les circonstances dans lesquelles ils ont été
+amenés à prêter des fonds à X.________ Ils soutiennent également que les éléments
+constitutifs de l’escroquerie et des art. 163 ss CP seraient réunis.
+3.1
+De l’escroquerie
+Réprimant l’escroquerie, l’art. 146 CP dispose que celui qui, dans le dessein de se
+procurer ou de procurer à un tiers un enrichissement illégitime, aura astucieusement induit
+en erreur une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou l'aura
+astucieusement confortée dans son erreur et aura de la sorte déterminé la victime à
+des actes préjudiciables à ses intérêts pécuniaires ou à ceux d'un tiers
+sera puni d'une peine privative de liberté de cinq ans au plus ou d'une peine pécuniaire (al.
+1).
+L'escroquerie suppose
+en particulier que l'auteur ait usé de tromperie et que celle-ci ait été astucieuse (ATF 128
+IV 18 c. 3a; ATF 122 II 422 c. 3a; ATF 122 IV 246 c. 3a et les arrêts cités). L'astuce est
+réalisée lorsque l'auteur recourt à un édifice de mensonges, à des manœuvres
+frauduleuses ou à une mise en scène, mais aussi lorsqu'il donne simplement de fausses informations,
+si leur vérification n'est pas possible, ne l'est que difficilement ou ne peut raisonnablement être
+exigée, de même que si l'auteur dissuade la dupe de vérifier ou prévoit, en fonction
+des circonstances, qu'elle renoncera à le faire en raison d'un rapport de confiance particulier
+(ibid.). L'astuce n'est toutefois pas réalisée si la dupe pouvait se protéger avec un
+minimum d'attention ou éviter l'erreur avec le minimum de prudence que l'on pouvait attendre d'elle
+(ATF 128 IV 18 c. 3a; ATF 126 IV 165 c. 2a). U
+n
+édifice de mensonges, pour être astucieux, ne résulte ainsi pas nécessairement de
+l'accumulation de plusieurs mensonges. Il n'est bien plutôt réalisé que si les mensonges
+sont l'expression d'une rouerie particulière et se recoupent de manière si subtile que même
+une victime faisant preuve d'esprit critique se laisse tromper (ATF 119 IV 28 c. 3c; Dupuis et alii,
+op. cit., n. 12 ad art. 146 CP). Lorsqu’il existe une longue relation commerciale entre deux partenaires
+contractuels économiquement puissants, qui traitent ensemble de grosses affaires, le rapport de
+confiance les unissant se caractérise par une certaine ambivalence, chacun cherchant à réaliser
+des opérations profitables. Dans un tel cas de figure, la démarcation peut être mince
+entre légèreté non protégée de la victime et confiance digne de protection.
+Il faut déterminer de quel côté de la barrière on se trouve. Suivant les circonstances,
+l’escroquerie doit être retenue (TF 6S.438/1999 du 24 février 2000 c. 3c/cc).
+3.2
+En l’espèce, le procureur a considéré
+d’entrée de cause que l’élément astucieux de la tromperie faisait défaut.
+Cependant, sur la base des faits tels qu’allégués par les recourants, on ne saurait suivre
+cette appréciation et exclure d’emblée toute infraction. Certes, les recourants n’ont
+pas procédé aux vérifications élémentaires lorsqu’ils ont conclu leurs
+contrats avec X.________. Force est toutefois de constater à cet égard qu’on ignore le
+contexte précis dans lequel les différents plaignants auraient été mis en confiance
+par le prévenu. Il semble que les parties aient été liées par des liens assez étroits,
+certains plaignants ayant de plus déjà conclu quelques transactions dans le passé avec
+le prévenu; ils auraient pu, à ces occasions, constater qu’il était fiable. Les
+recourants allèguent encore la fréquence et la similitude du mode opératoire de X.________
+et ses déclarations mensongères quant à la propriété des œuvres qui devaient
+servir de garanties ainsi que les multiples transactions douteuses avec sa compagne H.________. En l’état,
+il appert qu’il existe des indices suffisants pour procéder à l’ouverture d’une
+instruction pénale, laquelle permettra en particulier de déterminer s’il faut retenir
+une légèreté, non protégée, des recourants ou une confiance digne de protection.
+Le principe de coresponsabilité des victimes ne saurait être utilisé pour nier trop aisément
+le caractère astucieux de la tromperie.
+Partant, ce grief doit être admis.
+4.
+Des infractions réprimées par les art. 163 ss CP
+4.1
+Les recourants soutiennent que le Procureur aurait
+écarté, à tort, l’existence de comportements tombant sous le coup des art. 163 ss
+CP, soit les crimes ou délits dans la faillite et la poursuite pour dettes, la banqueroute frauduleuse
+et la fraude dans la saisie.
+4.2
+L’art. 163 CP vise les cas de diminution fictive du patrimoine du débiteur. S’il est
+poursuivi par voie de faillite et qu’il réalise les éléments constitutifs de l’infraction,
+il commet une banqueroute frauduleuse. L’art. 164 CP se distingue de l’art. 163 CP notamment
+en ce sens qu’il ne s’agit pas d’une diminution fictive, mais d’une diminution
+effective du patrimoine. Quant à l’art. 165 CP, il est subsidiaire à l’art. 164
+CP et envisage toute autre faute de gestion qui cause ou aggrave le surendettement du débiteur,
+cause sa propre insolvabilité ou aggrave sa situation alors qu’il se savait insolvable (cf.
+Dupuis
+et alii
+,
+Petit commentaire du Code pénal, Bâle 2012, n. 2 ad Rem prél. aux art. 163 à 171bis
+CP, p. 963).
+4.3
+En l’espèce, il faut considérer avec les recourants que les méthodes de X.________
+au profit de sa compagne H.________ sont pour le moins suspectes. A ce stade, même s’il est
+difficile de se faire une idée précise, force est de constater que l’essentiel du patrimoine
+du prévenu a été transféré à H.________ à des conditions qui pourraient
+apparaître comme sous-évaluées. A cela s’ajoute que X.________ a déjà
+été condamné le 17 avril 2014 pour violation de l’obligation de tenir une comptabilité.
+De plus, la Cour des poursuites et faillites du Tribunal cantonal a relevé, dans son arrêt
+du 13 novembre 2013, un manque de sérieux et des incohérences de X.________ dans le cadre de
+la procédure de faillite (P. 5/7). A ce stade, il existe des indices suffisants d’infractions.
+Il apparaît dès lors qu’une instruction doit être ouverte pour tenter de savoir
+si les agissements de X.________ pourraient tomber sous le coup des art. 163ss CP.
+Partant, ce grief doit également être admis.
+5.
+Pour le surplus, la Chambre des recours pénale
+constate que le Ministère public de l’arrondissement de l’Est Vaudois a d’ores
+et déjà procédé à certaines opérations d’enquête, notamment
+à des échanges de correspondances avec l’Office des poursuites et faillite ainsi qu’à
+des auditions de deux des plaignants. Ces actes d’instruction n’entrent pas dans le cadre
+des investigations admissibles avant la reddition d'une ordonnance de non-entrée en matière.
+Partant, une telle ordonnance n’était pas envisageable dans le cas particulier (CREP 22 mai
+2013/381).
+6.
+Au vu de l’ensemble
+de ces éléments, le Procureur doit ouvrir formellement une instruction (art. 309 CPP) et, s’il
+entend classer la procédure, rendre une ordonnance de classement (art. 319 CPP), qui suppose un
+avis de prochaine clôture (art. 318 al. 1 CPP).
+7.
+Les recourants R.________, Z.________ et B.________
+ont demandé la mise sous séquestre selon les art. 263 ss CPP des biens figurant à l’inventaire
+établi le 23 mai 2014 par l’Office des faillites ainsi que de toutes œuvres d’art
+qui pourraient être découvertes au domicile du failli et de sa compagne H.________ au chemin
+de [...] à [...] ou à la galerie [...] à la rue [...] à [...]. Dès lors que
+le dossier est renvoyé au Procureur de l’arrondissement de l’Est vaudois pour l’ouverture
+d’une instruction, il lui appartiendra de se déterminer sur l’opportunité d’une
+telle mesure de contrainte.
+8.
+Il résulte de ce qui précède que le recours doit être admis, l’ordonnance attaquée
+annulée et le dossier de la cause renvoyé au Ministère public de l’arrondissement
+de l’Est Vaudois pour qu’il procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 1’100 fr. (art. 20 al. 1 TFJP [Tarif des frais judiciaires
+pénaux; RSV 312.03.1]), seront mis à la charge de X.________ et de H.________, à parts
+égales, soit 550 fr. chacun, et solidairement entre eux, ceux-ci ayant conclu au rejet des recours
+(art. 428 al. 1 CPP).
+S’agissant des dépens réclamés par les recourants, il appartiendra à ces derniers
+d’adresser à la fin de la procédure leurs prétentions à l’autorité
+pénale compétente selon l’art. 433 al. 2 CPP (CREP 16 avril 2013/279 c. 4 et les références
+citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Les recours de B.________, R.________ et Z.________ ainsi que celui de l’Hoirie  V.________
+sont admis.
+II.
+L’ordonnance de non-entrée en matière du 22 août 2014 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de l’Est Vaudois pour qu’il procède dans le sens des
+considérants.
+IV.
+Les frais d’arrêt, par 1'100 fr. (mille cent francs), sont mis à la charge de X.________
+et de H.________, à parts égales, soit 550 fr. (cinq cent cinquante francs) chacun, et solidairement
+entre eux.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme Estelle Chanson, avocate (pour l’Hoirie
+V.________),
+-
+M. Marcel Heider, avocat (pour R.________, Z.________
+et B.________),
+-
+M. Laurent Savoy, avocat (pour H.________),
+-
+M. Gaspard Couchepin, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de l’Est
+Vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
