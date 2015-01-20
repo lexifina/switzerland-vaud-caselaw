@@ -1,0 +1,299 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___72"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 72"
+decided: "2015-01-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4764433"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-268.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 72
+
+## Regeste
+
+SÉQUESTRE{MESURE PROVISIONNELLE}, PRINCIPE DE LA COUVERTURE DES FRAIS | 263 al. 1 let. b CPP (CH), 268 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 20.01.2015 Décision / 2015 / 72
+
+SÉQUESTRE{MESURE PROVISIONNELLE}, PRINCIPE DE LA COUVERTURE DES FRAIS | 263 al. 1 let. b CPP (CH), 268 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+55
+PE13.011429-OJO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+20 janvier 2015
+__________________
+Composition
+:               M.
+Maillard
+,
+vice-président
+MM.
+Meylan et Sauterel, juges
+Greffier
+:              M.
+Quach
+*****
+Art.
+263 al. 1 let. b, 268 et 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 8 décembre 2014 par
+U.________
+contre l'ordonnance de séquestre rendue le 25 novembre 2014 par le Ministère public de l'arrondissement
+de l'Est vaudois dans la cause
+n° PE13.011429-OJO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Une instruction pénale est ouverte devant le Ministère public de l’arrondissement de
+l’Est vaudois contre U.________ pour tentative d’assassinat, lésions corporelles simples
+qualifiées, voies de fait qualifiées, mise en danger de la vie d’autrui, dommages à
+la propriété, calomnie, subsidiairement diffamation, injure, utilisation abusive d’une
+installation de télécommunication, menaces, violation de domicile, incendie intentionnel et
+insoumission à une décision de l’autorité.
+Il est notamment reproché à U.________ d'avoir menacé son épouse, au domicile de
+celle-ci, avec une arme à feu et d'avoir tiré sur elle, l'atteignant à la cuisse. Il aurait
+ensuite défoncé la porte de la salle de bains où s'étaient réfugiés son
+épouse, sa fille et ses beaux-parents, et aurait fait feu, blessant sa belle-mère à l'abdomen
+et son beau-père à la main.
+b)
+Par
+ordonnance du 31 janvier 2014, le Ministère public a séquestré un montant de 18'000 fr.
+appartenant à U.________ (séquestre no 6'001) afin de couvrir une partie des frais d'enquête,
+évalués à quelque 25'000 fr. au 21 février 2014.
+Par arrêt du 27 février 2014, la Cour de céans a rejeté le recours déposé
+par U.________ contre cette ordonnance et a confirmé cette dernière.
+Par arrêt du 14 mai 2014 (TF 1B_136/2014), la Ire Cour de droit public du Tribunal fédéral
+a partiellement admis le recours déposé par U.________ contre l'arrêt de la Cour de céans
+du 27 février 2014, a annulé ce dernier et a renvoyé le dossier de la cause à la
+Cour de céans pour nouvelle décision dans le sens des considérants. Le Tribunal fédéral
+a en bref considéré que pour déterminer si le séquestre ordonné était conforme
+au principe de la proportionnalité, il fallait examiner si le minimum vital de la personne concernée
+était préservé. Or cet examen n'était pas possible en l'espèce, car le dossier
+ne comportait pas assez d'éléments sur la situation financière du prévenu.
+Par nouvel arrêt du 18 juin 2014, la Cour de céans a annulé l'ordonnance de séquestre
+du 31 janvier 2014 et a renvoyé le dossier de la cause au Ministère public pour que celui-ci
+procède dans le sens des considérants, puis rende une nouvelle décision. Le Ministère
+public a en bref été invité à établir avec précision la situation économique
+de U.________ et à examiner si, sous l'angle de la proportionnalité, la mesure litigieuse était
+ou non compatible avec la garantie du minimum vital. La Cour de céans a également ordonné
+le maintien du séquestre sur la somme de 18'000 fr. ordonné le 31 janvier 2014 jusqu’à
+droit connu sur la décision à rendre par le Ministère public.
+c)
+Par
+courrier du 2 septembre 2014 rédigé sans le concours de son défenseur, U.________ a requis
+qu'un montant de 2'000 fr. soit immédiatement libéré du séquestre.
+Par ordonnance du 8 septembre 2014, le Ministère public a fait droit à cette requête.
+Par courrier du 16 septembre 2014 rédigé sans le concours de son défenseur, U.________
+a requis que l'intégralité du montant séquestré soit immédiatement libérée.
+Par courrier du 24 septembre 2014, le Ministère public a rejeté cette requête, en expliquant
+qu'il demeurait dans l'attente de documents que U.________ devait lui transmettre en vue de l'établissement
+de sa situation financière.
+d)
+S'agissant
+de la situation financière de U.________, celui-ci a rempli, à la demande du Ministère
+public (cf. P. 240), un "Questionnaire sur la situation personnelle du prévenu" et a fourni
+divers documents justificatifs à l'appui de ses déclarations (P. 244 et 267). U.________ allègue
+en substance n'avoir ni revenu ni fortune en dehors des avoirs objets du séquestre. Il allègue
+également l'existence de dettes d'impôts et de dettes privées, pour un total de plusieurs
+milliers de francs. Le dossier ne comporte pas d'éléments qui donneraient à penser que
+ces indications seraient inexactes.
+Cela étant, U.________ est actuellement détenu sous le régime de l'exécution anticipée
+de peine.
+B.
+a)
+Par courrier du 24 novembre 2014 rédigé
+sans le concours de son défenseur, U.________ a derechef requis la libération du solde de 16'000
+fr. toujours en mains du Ministère public.
+b)
+Par ordonnance du 25 novembre 2014, le Ministère
+public a ordonné la levée d'une partie du séquestre no 6'001 prononcé le 31 janvier
+2014 (I), a ordonné la restitution de 7'000 fr. séquestrés sous fiche no 6'001 à
+U.________ (II) et a dit que les frais suivaient le sort de la cause (III).
+C.
+Par acte du 8 décembre 2014, U.________ a
+recouru auprès de la Cour de céans contre cette ordonnance en concluant, avec suite de frais
+et dépens, à son annulation et à la restitution du solde intégral du montant de 16'000
+fr. sous séquestre no 6'001.
+Par déterminations du 16 janvier 2015, le Ministère public a indiqué avoir appris de l'épouse
+de U.________ que des créanciers des époux réclamaient à celle-ci divers montants
+correspondant notamment à des arriérés de loyer et à d'autres frais en relation avec
+un appartement occupé par U.________ après la séparation des époux, pour un total
+de l'ordre de 19'500 fr., lequel dépassait les avoirs encore aux mains du Ministère public.
+Celui-ci s'est déclaré disposé à, avec l'accord des parties, immédiatement lever
+l'entier du séquestre afin que ces montants puissent être réglés.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse; RS 312.0), le recours est recevable contre les décisions
+et actes de procédure du ministère public. Une ordonnance de séquestre (art. 263 CPP)
+rendue par le ministère public dans le cadre de la procédure préliminaire est ainsi susceptible
+de recours selon les art. 393 ss CPP (Moreillon/Parein-Reymond, Petit Commentaire du Code de procédure
+pénale, Bâle 2013, n. 24 ad art. 263 CPP; Lembo/Julen Berthod, in : Kuhn/Jeanneret [éd.],
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 4 ad art. 267 CPP;
+CREP 14 mai 2012/272). Ce recours s’exerce dans les dix jours devant l’autorité de recours
+(art. 396
+al. 1 CPP; cf. art. 20 al. 1 let.
+b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure pénale suisse;
+RSV 312.01]; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation judiciaire; RSV
+173.01]).
+En l'espèce, il ressort du déroulement de la procédure que contrairement à ce que
+l'intitulé de l'ordonnance attaquée et le libellé de son dispositif pourraient laisser
+penser, celle-ci constitue matériellement non pas une ordonnance de levée partielle de séquestre,
+mais bien une ordonnance de séquestre en tant que telle pour le montant de 9'000 fr. demeurant en
+mains du Ministère public après restitution des montants de 2'000 et 7'000 francs. Il est rappelé
+que par arrêt du
+18 juin 2014, la Cour
+de céans a annulé l'ordonnance de séquestre du 31 janvier 2014, le séquestre n'étant
+maintenu qu'à titre provisoire jusqu'à droit connu sur la décision à rendre du Ministère
+public. Interjeté dans le délai légal auprès de l’autorité compétente,
+par l'ayant droit des biens objets du séquestre, qui a qualité pour recourir (art. 382 al.
+1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant soutient que la mesure de séquestre
+ordonnée porterait atteinte au principe de la proportionnalité.
+2.2
+Selon l'art. 263 al. 1 let. b CPP, des objets et des valeurs patrimoniales appartenant au prévenu
+ou à des tiers peuvent être mis sous séquestre notamment lorsqu'il est probable qu'ils
+seront utilisés pour garantir le paiement des frais de procédure, des peines pécuniaires,
+des amendes et des indemnités. L'art. 268 CPP précise que le patrimoine d'un prévenu peut
+être séquestré dans la mesure qui paraît nécessaire pour couvrir les frais de
+procédure et les indemnités à verser (al. 1 let. a), ainsi que les peines pécuniaires
+et les amendes (al. 1 let. b). Lors du séquestre, l'autorité pénale tient compte du revenu
+et de la fortune du prévenu et de sa famille (al. 2). Les valeurs patrimoniales insaisissables selon
+les art. 92 à 94 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite; RS 281.1) sont exclues du séquestre (al. 3).
+Comme toute autre mesure de séquestre, celui en couverture des frais est fondé sur la vraisemblance.
+Tant que l'instruction n'est pas achevée, une simple probabilité suffit car la saisie se rapporte
+à des prétentions encore incertaines. L'autorité pénale doit pouvoir décider
+rapidement du séquestre provisoire (cf. art. 263 al. 2 CPP), ce qui exclut qu'elle résolve
+des questions juridiques complexes ou qu'elle attende d'être renseignée de manière exacte
+et complète sur les faits avant d'agir (ATF 116 Ib 96 c. 3a; TF 1B_136/2014 du 14 mai 2014 c. 2.1).
+Le séquestre en couverture des frais peut porter sur tous les biens et valeurs du prévenu,
+même ceux qui n'ont pas de lien de connexité avec l'infraction. Pour ce type de saisie, comme
+pour toutes les mesures de contrainte, le principe de la proportionnalité doit être respecté
+(TF 1B_136/2014 précité c. 2.1; TF 1B_274/2012 du 11 juillet 2012 c. 3.1)
+Le principe de proportionnalité doit d'abord être pris en considération lorsqu'il s'agit
+de décider de l'opportunité du séquestre en couverture de frais. L'autorité pénale
+doit disposer d'indices lui permettant de douter du futur recouvrement des frais auxquels le prévenu
+sera condamné. Cela peut être le cas si le prévenu procède à des transferts
+de biens aux fins d'empêcher une soustraction ultérieure ou si le prévenu tente de se
+soustraire à la procédure par la fuite, sans avoir fourni aucune garantie (TF 1B_136/2014 précité
+c. 2.1 et les références citées). Le principe de proportionnalité entre aussi en
+ligne de compte lorsqu'il s'agit de déterminer la valeur des biens à mettre sous séquestre;
+sous cet angle, le respect de ce principe se limite pour l'essentiel à la garantie du minimum vital
+(ibidem). Quant au montant définitif des frais judiciaires, il ne sera connu qu'à l'issue de
+la procédure et le principe de proportionnalité n'est violé que si le montant saisi en
+garantie des coûts de procédure est manifestement disproportionné par rapport aux coûts
+estimés (ibidem).
+2.3
+2.3.1
+S'agissant du rapport entre le montant séquestré
+et les possibles frais de la procédure judiciaire, le Tribunal fédéral avait déjà
+retenu dans son arrêt du
+14 mai 2014
+que le principe de la proportionnalité apparaissait respecté à cet égard. Le recourant
+ne soulevant aucun grief sur ce point, on peut se borner à constater que la situation n'a pas évolué
+depuis l'arrêt du Tribunal fédéral.
+2.3.2
+S'agissant de l'opportunité du séquestre,
+le recourant soutient qu'il n'existerait pas d'indices concrets donnant à penser qu'il entendrait
+se soustraire à ses obligations de paiement envers l'Etat, que ce soit en prenant la fuite ou en
+dissimulant des biens. Dans son arrêt du 14 mai 2014, le Tribunal fédéral avait cependant
+considéré que le principe de la proportionnalité était à cet égard respecté,
+en mentionnant notamment l'existence d'un risque de fuite. La situation n'ayant pas évolué
+sur ce point depuis lors, le grief apparaît mal fondé. La position du recourant est du reste
+contradictoire puisque celui-ci semble laisser entendre qu'il aurait pour projet de conserver le montant
+qui lui serait rendu en vue d'assumer ses obligations envers l'Etat, alors qu'il soutient simultanément
+que ce montant serait destiné à couvrir des besoins vitaux (cf. c. 2.3.3 infra).
+2.3.3
+Sur le point de savoir si le séquestre est
+proportionné au regard de la situation financière du recourant, le recourant fait valoir le
+fait que les avoirs en cause sont ses uniques biens et que lorsqu'il retrouvera la liberté, il sera
+indigent, sans perspectives professionnelles et sans ressources.
+Le Tribunal fédéral avait considéré que comme le dossier ne comportait aucune indication
+sur la situation financière de l'intéressé, il n'était pas possible de déterminer
+si le principe de la proportionnalité était respecté à ce égard. L'instruction
+a confirmé les allégations du recourant, selon lesquelles celui-ci n'a pas d'autre fortune
+que le montant visé par le séquestre. Cela étant, s'il est vrai que le recourant, en prison,
+n'a actuellement pas de revenus, il n'a cependant pas non plus de charges, dès lors que son entretien
+courant est entièrement assumé par le canton de Vaud. Etant rappelé qu'un premier montant
+de 2'000 fr. a déjà été restitué au recourant et que l'ordonnance attaquée
+prévoit la restitution d'un second montant de 7'000 fr., le recourant n'explique nullement quelles
+charges effectives justifieraient la restitution de sommes supplémentaires. En bref, aucun indice
+ne donne à penser que le séquestre du solde de 9'000 fr. porterait atteinte au principe de
+la proportionnalité, qui est dès lors également respecté à cet égard.
+2.3.4
+Au vu de ce qui précède, la mesure de
+séquestre litigieuse est conforme au principe de la proportionnalité et peut être confirmée.
+3.
+En définitive, le recours doit être
+rejeté et l’ordonnance du 25 novembre 2014 confirmée.
+L’indemnité due au défenseur d’office du recourant sera fixée à 540 fr.,
+plus la TVA, par 43 fr. 20, ce qui porte le montant alloué à 583 fr. 20.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument d’arrêt,
+par 880 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; RSV 312.03.1]), et des frais imputables à la défense
+d’office (art. 422 al. 1 et al. 2 let. a CPP), par 583 fr. 20, seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 25 novembre 2014 est confirmée.
+III.
+L’indemnité due au défenseur d’office
+de U.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes).
+IV.
+L'émolument d’arrêt, par 880 fr.
+(huit cent huitante francs), ainsi que l’indemnité due au défenseur d’office de
+U.________, par 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes), sont mis à la charge
+de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité
+allouée au chiffre III ci-dessus sera exigible pour autant que la situation économique de U.________
+se soit améliorée.
+VI.
+Le présent arrêt est exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Robert Ayrton, avocat (pour U.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+-
+Prison du Bois-Mermet,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
