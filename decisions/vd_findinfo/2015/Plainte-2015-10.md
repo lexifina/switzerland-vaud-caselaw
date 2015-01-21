@@ -1,0 +1,383 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 10"
+decided: "2015-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4805306"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-325.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-085.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-159.md", "switzerland/bund/acts/281.1/art-160.md", "switzerland/bund/acts/281.1/art-161.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 10
+
+## Regeste
+
+PLAINTE À L'AUTORITÉ DE SURVEILLANCE, COMMINATION DE FAILLITE, DROIT D'OBTENIR UNE DÉCISION | 29 Cst., 159 LP, 160 LP, 17 LP, 18 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 21.01.2015 Plainte / 2015 / 10
+
+PLAINTE À L'AUTORITÉ DE SURVEILLANCE, COMMINATION DE FAILLITE, DROIT D'OBTENIR UNE DÉCISION | 29 Cst., 159 LP, 160 LP, 17 LP, 18 LP
+
+TRIBUNAL
+CANTONAL
+FA14.030825-142027
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+21 janvier 2015
+__________________
+Présidence
+de               Mme
+Rouleau
+,
+présidente
+Juges
+:              Mme
+Byrde et M. Maillard
+Greffière
+:              Mme
+Berger
+*****
+Art.
+17, 18, 159 et 160 LP; art. 29 Cst
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+P.________SA
+,
+à Lausanne, contre la décision rendue le 30 octobre 2014, à la suite de l’audience
+du 18 octobre 2014, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte formée par la recourante contre la commination
+de faillite qui lui a été notifiée le 17 juillet 2014 par l'
+Office
+des poursuites du district de Lausanne
+, à
+la requête de
+X.________
+,
+à Crans-Montana.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 11 février 2014, l’Office des poursuites
+du district de Lausanne a notifié à P.________SA, dans la poursuite n° 6'915'010 exercée
+à l'instance de X.________, un commandement de payer la somme de 17'500 fr., plus intérêt
+à 5 % l'an dès le 24 novembre 2009, indiquant comme titre de la créance ou cause
+de l'obligation : "Solde du montant dû en vertu de la convention passée lors de l’audience
+du 24.11.2009 par devant le Tribunal de police de l’arrondissement de Lausanne; ladite convention
+n’ayant pas été respectée par la débitrice."
+La
+poursuivie ayant formé opposition totale, le poursuivant, par acte du 12 mars 2014, a requis du
+Juge de paix du district de Lausanne la mainlevée définitive de l’opposition, avec suite
+de frais et dépens.
+Par
+décision du 7 mai 2014, dont le dispositif a été adressé aux parties le 21 mai 2014
+et notifié à la poursuivie le lendemain, le Juge de paix du district de Lausanne a prononcé
+la mainlevée définitive de l’opposition à concurrence de  16'900 fr., plus
+intérêt au taux de 5 % l'an dès le 24 novembre 2009, sous déduction de 600 fr. valeur
+au 31 décembre 2013 (I), arrêté les frais judiciaires à 360 fr., compensés avec
+l'avance de frais du poursuivant (II), les a mis à la charge de la poursuivie (III) et dit que cette
+dernière devait verser au poursuivant la somme de 1'860 fr. à titre de remboursement de son
+avance de frais et de défraiement de son représentant professionnel (IV). A la suite de la
+demande de motivation de la poursuivie, les motifs du prononcé ont été adressés aux
+parties le 19 juin 2014 et notifiés à la poursuivie le 20 juin 2014.
+La
+poursuivie a recouru auprès de la Cour des poursuites et faillites par acte du 28 juin 2014, concluant,
+avec suite de frais, à la "mise à néant" de la décision du Juge de paix,
+à la constatation que le solde dû au 1
+er
+mai 2014 s’élevait à
+14'600
+fr., au rejet de la requête de mainlevée et à la condamnation de l'intimé à
+lui verser une "équitable indemnité de partie".
+Le
+recours contenait une requête d'effet suspensif, qui a été rejetée par décision
+du Président de la Cour du 2 juillet 2014.
+2.
+Le 3 juillet 2014, le poursuivant a requis la
+continuation de la poursuite n° 6'915'010 dirigée contre la poursuivie.
+Le
+9 juillet 2014, l’Office des poursuites du district de Lausanne a établi une commination de
+faillite mentionnant la somme de 16’900 fr. plus intérêt à 5 % l’an dès
+le 24 novembre 2009 sous déduction d’un acompte de 600 fr., valeur au
+31
+décembre 2013 et indiquant, sous la rubrique titre de la créance ou cause de l’obligation,
+«Solde du montant dû en vertu de la convention passée lors de l’audience du 24.
+11. 2009 par devant le Tribunal de police de l’arrondissement de Lausanne; ladite convention n’ayant
+pas été respecté par la débitrice.». La commination mentionne encore la somme
+de 206 fr. 60 à titre de frais du commandement de payer et de la commination de faillite et celle
+de 1'860 fr. à titre de frais de procédure de mainlevée. Elle a été notifiée
+à la poursuivie le 17 juillet 2014.
+Par
+acte du 24 juillet 2014, la poursuivie a déposé une plainte contre la commination de faillite
+auprès du Président du Tribunal d’arrondissement de Lausanne, en sa qualité d’autorité
+inférieure de surveillance. Elle a conclu à la révocation de la commination de faillite
+(I), à ce que l'effet suspensif soit prononcé (II), à ce que le montant figurant dans
+la commination de faillite soit corrigé (III), à ce qu'il soit constaté que le montant
+encore dû est de 14'400 fr. et non de 16'900 fr. (IV), et à ce que les frais de justice soient
+mis à la charge de l'intimé (V).
+Elle
+a notamment produit les pièces suivantes :
+-
+une copie d’un courrier adressé le 15 février 2014 par la poursuivie à l’Office
+des poursuites de Lausanne dans lequel elle déclare, notamment, faire opposition totale au commandement
+de payer notifié le 11 février 2014 et précise que le montant réclamé dans cette
+poursuite est erroné,
+-
+une copie d'un courrier adressé le 30 mai 2014 par la poursuivie à la Justice de Paix du district
+de Lausanne, requérant la motivation du dispositif du 7 mai 2014,
+-
+une copie de la décision motivée et du recours déposé par la poursuivie,
+-
+une copie de la décision du 2 juillet 2014 du Président de la Cour des poursuites et faillites,
+rejetant la requête d'effet suspensif contenue dans le recours,
+-
+une copie de la commination de faillite qui lui a été notifiée le 17 juillet 2014,
+-
+une copie d’un tableau récapitulatif établi par la poursuivie le 27 juin 2014 indiquant
+les paiements effectués, selon elle, entre le 1
+er
+janvier 2011 et le 1
+er
+mai 2014, accompagné de 34 justificatifs comptables de PostFinance, et dont il ressortirait que
+le solde dû au 1
+er
+mai 2014 serait de 14’600 fr.,
+-
+une copie d’un autre tableau récapitulatif non daté ni signé dont il ressort que
+le solde dû au 1
+er
+janvier 2015 serait de 16’530 fr. 24.
+Par
+décision du 29 juillet 2014, le Président du Tribunal d'arrondissement de Lausanne a prononcé
+l’effet suspensif requis jusqu’à droit connu sur la plainte.
+Les
+parties ont été citées à comparaître à une audience le jeudi
+18
+septembre 2014.
+Par
+écriture du 11 septembre 2014, le poursuivant a conclu au rejet de la plainte et à l’allocation
+de dépens.
+Par
+écriture du 12 septembre 2014, l’Office des poursuites du district de Lausanne a également
+conclu au rejet de la plainte.
+3.
+Par prononcé du 18 septembre 2014, rendu
+à la suite de l’audience qui a eu lieu le même jour en présence de la plaignante,
+de représentants de l’Office des poursuites du district de Lausanne et du conseil du poursuivant,
+communiqué aux parties le 30 octobre 2014, l’autorité inférieure de surveillance
+en matière de poursuites pour dettes et de faillites a rejeté la plainte déposée
+le 24 juillet 2014 par P.________SA (I) et rendu sa décision sans frais ni dépens (II). En
+substance, le premier juge a considéré que dans la mesure où le tribunal cantonal avait
+rejeté la requête d’effet suspensif contenue dans le recours dirigé contre le prononcé
+de mainlevée, celui-ci était exécutoire et qu’ainsi l’office avait à
+juste titre donné suite à la réquisition de continuer la poursuite déposée par
+le créancier en notifiant la commination de faillite attaquée. Il a par ailleurs relevé
+que la voie de la plainte ne permettait en aucun cas de contester le bien-fondé d’une créance
+de sorte que les griefs soulevés par la recourante à ce titre étaient irrecevables.
+4.
+Par arrêt du 30 octobre 2014, la Cour des
+poursuites et faillites a rejeté le recours déposé par la poursuivie contre le prononcé
+de mainlevée rendu par le Juge de paix du district de Lausanne le 7 mai 2014.
+5.
+Par acte du 14 novembre 2014, la plaignante a
+recouru contre le prononcé de l'autorité inférieure de surveillance et a conclu, avec
+suite de frais, à l'annulation et à la réforme de la décision du 18 septembre 2014
+(I), à ce que le montant figurant dans la commination de faillite soit ramené à 14'400
+fr. (II), à ce qu'ordre soit donné à l'intimé d'introduire une nouvelle requête
+auprès de l'Office des poursuites pour le montant de 14'400 fr. (III), à ce qu'ordre soit donné
+à l'Office d'établir une nouvelle commination de faillite mentionnant un montant de 14'400
+fr. (IV), et à ce que les frais de justice soient mis à la charge de l'intimé (V).
+Elle
+a produit des documents figurant déjà au dossier de première instance.
+L’Office
+des poursuites du district de Lausanne s’est déterminé par écriture du 25 novembre
+2014 et a conclu au rejet du recours.
+Le
+poursuivant a déposé des déterminations le 5 décembre 2014, concluant au rejet du
+recours et à la confirmation de la décision du 18 septembre 2014. Il a par ailleurs produit,
+outre des pièces figurant au dossier de première instance, une copie de l’arrêt
+rendu par la Cour des poursuites et faillites le
+30
+octobre 2014 et une copie de la transaction conclue par le poursuivant et la poursuivie devant le Tribunal
+de police de l'arrondissement de Lausanne le
+24
+novembre 2009.
+En droit :
+I.
+Le recours est dirigé contre une décision
+de l'autorité inférieure de surveillance. Il est régi par l'art. 18 LP (loi fédérale
+sur la poursuite pour dettes et la faillite du 11 avril 1889, RS 281.1), qui stipule que toute décision
+de l’autorité inférieure peut être déférée à l’autorité
+cantonale supérieure de surveillance dans les dix jours à compter de sa notification, et les
+art. 28 à 33 LVLP (loi d'application dans le canton de Vaud de la loi fédérale sur la
+poursuite pour dettes et la faillite du 18 mai 1955, RSV 280.05).
+Déposé
+en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP) et comportant l'énoncé des moyens invoqués
+(art. 28 al. 3 LVLP), le recours est recevable formellement sous réserve des conclusions III et
+IV, tendant à l'introduction d'une nouvelle réquisition de poursuites auprès de l'office
+pour un montant de 14'400 fr. et à ce qu'ordre soit donné à l'office d'établir une
+nouvelle commination de faillite pour un montant de 14'400 fr., qui n’ont pas été prises
+devant l’autorité de première instance et sont donc nouvelles. En effet, si, selon l’art.
+28 al. 4 LVLP, les allégations de faits nouveaux ainsi que la production de nouvelles pièces
+sont licites en procédure de recours, il n’en va pas de même des conclusions nouvelles.
+La plainte LP et le recours contre la décision sur plainte doivent porter sur les mêmes objets,
+sous peine d’irrecevabilité (CPF, 31 mars 2014/11; CPF, 26 juin 2003/52). Les conclusions
+III et IV sont ainsi irrecevables.
+Les
+déterminations de l'office sont recevables (art. 31 al. 1 LVLP).
+Il
+en va de même des déterminations de l’intimé et des pièces nouvelles qui y
+étaient jointes (art. 31 al. 1 LVLP).
+II.
+La recourante reproche tout d'abord au premier juge d’avoir omis de se prononcer sur la question
+du montant de la créance effectivement due alors même que sa plainte comportait des conclusions
+dans ce sens. Elle y voit un déni de justice formel qui justifierait l’annulation de la décision.
+a)
+Selon l’art. 29 al. 1 Cst, toute personne a droit, dans une procédure judiciaire ou administrative,
+à ce que sa cause soit traitée équitablement et jugée dans un délai raisonnable.
+Selon la jurisprudence du Tribunal fédéral, il y a déni de justice formel lorsqu’une
+autorité omet de statuer sur une requête qui lui est présentée dans les délais
+et en bonne et due forme alors qu’elle était tenue de statuer (ATF 135 I 6 c. 2.1, JT 2011
+IV 17; ATF 117 Ia 116 c. 3a; SJ 2007 I 472). L’interdiction du déni de justice est un
+droit de nature formelle dont la violation entraîne l’annulation de la décision attaquée,
+indépendamment du sort du recours sur le fond (ATF 121 I 230 c. 2a; SJ 2007 I 472).
+b)
+En l’espèce, le premier juge a rejeté la plainte déposée par la recourante
+le 24 juillet 2014. Ce faisant, il a rejeté l’intégralité des conclusions prises,
+soit également celles qui tendaient à ce que l’autorité de première instance
+se prononce sur le montant de la créance encore due. Il a motivé cette décision en rappelant
+que la voie de la plainte n’était en aucun cas ouverte pour contester le bien-fondé d’une
+créance. L’autorité de première instance a donc bel et bien statué sur les
+conclusions litigieuses de sorte que tout déni de justice peut être exclu.
+Ce
+grief de la recourante doit par conséquent être rejeté.
+III.
+La recourante ne soutient plus, à juste titre,
+que la commination de faillite aurait été établie prématurément compte tenu
+du recours qu’elle avait déposé contre le prononcé de mainlevée du 7 mai 2014.
+En effet, selon la jurisprudence, rien ne s’oppose à ce qu’une commination de faillite
+soit notifiée nonobstant un recours pendant contre la décision de mainlevée pour autant
+que le recours n’ait pas d’effet suspensif (ATF 130 III 657 c. 2.1, JT 2005 II 138; ATF 126
+III 479 c. 2, JT 2000 II 84; ATF 101 III 40 c. 2, JT 1977 II 7). En l'espèce, une commination de
+faillite pouvait être notifiée, dans la mesure où le recours déposé n’a
+pas suspendu la force de chose jugée et le caractère exécutoire de la décision attaquée
+(art. 325 al. 1 CPC), et que la requête d’effet suspensif contenue dans le recours a été
+rejetée par décision du 2 juillet 2014.
+La
+recourante conteste toutefois le montant de la créance invoquée par le poursuivant : elle soutient
+avoir démontré que le solde dû s’élèverait à 14’400 fr. et
+non pas à 16’900 fr., que le prononcé du juge la mainlevée serait dès lors
+inique et que le montant de la prétention indiquée dans la commination de faillite devrait
+être corrigé en conséquence.
+a)
+Selon l'art. 159 LP, dès réception de la réquisition de continuer la poursuite, l'office
+adresse sans retard la commination de faillite au débiteur sujet à la poursuite par voie de
+faillite. Conformément à l’art. 160 al.1 LP, la commination de faillite énonce les
+indications prescrites pour la réquisition de poursuite (ch.1), la date du commandement de payer
+(ch.2), l’avertissement que le créancier pourra requérir la faillite à l’expiration
+d’un délai de 20 jours (ch.3) et l’avis que le débiteur peut, dans les 10 jours,
+recourir devant l’autorité de surveillance (art. 17), s’il estime n’être
+pas sujet à la poursuite par voie de faillite (ch.4). Selon l’art. 160 al. 2 LP, il est en
+outre rappelé au débiteur que la loi lui permet de proposer un concordat.
+Ainsi,
+la commination de faillite énonce en particulier, en monnaie légale suisse, le montant de la
+prétention déduite en poursuite et, s’il y a lieu, l’intérêt réclamé
+(taux et dies a quo), ainsi que les frais du commandement de payer - éventuellement les frais et
+les dépens non recouvrés d’une procédure de mainlevée, à l’exclusion
+des frais et dépens d’une procédure au fond (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n° 12 ad 160 LP). L’office ne peut toutefois
+y faire figurer un montant supérieur à celui pour lequel la mainlevée a été
+octroyée (dans ce sens, Ottomann/R.Markus, Basler Kommentar, n° 2 ad
+160
+LP).
+La
+voie de la plainte est ouverte contre une commination de faillite, qui est un acte de poursuite (Cometta,
+Commentaire romand, n. 1 ad art. 161 LP), par exemple lorsque le poursuivi excipe de l’ouverture
+d’une action en libération de dette (Gilliéron, op. cit., n. 19 ad art. 159 LP), s’il
+estime qu’il n’est pas sujet à la poursuite par voie de faillite ou que la poursuite
+par voie de faillite est exclue (RVJ 2007 p. 204; Gilliéron, op. cit., n. 18 ad art. 160 LP) ou
+encore s’il considère que la commination de faillite émane d’un office des poursuites
+incompétent à raison du lieu (ATF 96 III 31 c. 2, rés.
+in
+JT 1973 II 27; Gilliéron, Poursuite pour dettes, faillite et concordat, 5
+ème
+éd., n. 1434, p. 341).
+En
+revanche, la procédure de plainte et de recours des art. 17 et ss LP ne permet pas de soulever des
+griefs relatifs à l’existence matérielle de la créance (Ottomann/R.Markus, op. cit.,
+n° 6 ad 160 LP). Il n’appartient en effet ni à l’office des poursuites ni aux autorités
+de surveillance d'examiner le bien-fondé de la créance en poursuite (ATF 113 III 2, JT 1989
+II 120; CPF, 2 décembre 2010/33). Le poursuivi ne peut remettre en cause l'existence ou l'exigibilité
+de la créance reconnue dans la décision portant condamnation à payer une somme d'argent
+– décision sur laquelle le juge de la mainlevée s'est fondé – que dans le
+cadre de l'action de l'art. 85 LP ou celle de l'art. 85a LP, en invoquant l'extinction de la créance
+ou son inexigibilité, temporaire (sursis) ou définitive (prescription), postérieures à
+la décision, ou en prouvant l'existence matérielle et le contenu d'une nouvelle décision
+définitive annulant ou révoquant la décision condamnatoire (CPF, 15 août 2013/25;
+CPF, 21 septembre 2012/42; Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 28 ad art. 85a LP).
+b)
+En l’espèce, le montant de la prétention mentionné sur la commination de faillite
+correspond, en capital et intérêts, à celui pour lequel la mainlevée définitive
+a été octroyée par prononcé du Juge de paix du 7 mai 2014, décision confirmée
+par arrêt de la Cour des poursuites et faillites du 30 octobre 2014. Selon la poursuivie, le montant
+dont elle serait encore débitrice en vertu de la transaction judiciaire du 24 novembre 2009 serait
+de 14'400 fr. et non de
+16'900 francs, à
+la suite de versements qu'elle aurait effectués. Comme cela a été exposé ci-dessus,
+les autorités de surveillance ne sont pas compétentes pour se prononcer sur le bien-fondé
+de la créance en poursuite. Partant, la commination de faillite échappe à toute critique
+en relation avec le montant indiqué.
+Le
+grief de la recourante doit par conséquent être rejeté.
+IV.
+En conclusion, le recours,
+mal fondé, doit être rejeté dans la mesure de sa recevabilité et le prononcé
+confirmé.
+L’arrêt
+est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP [ordonnance
+sur les émoluments perçus en application de la loi fédérale sur la poursuite pour
+dettes et la faillite du 23 septembre 1996, RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté, dans la mesure de sa recevabilité.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+P.________SA,
+‑
+Me Christian Favre (pour X.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
