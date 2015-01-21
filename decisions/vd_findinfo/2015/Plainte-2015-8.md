@@ -1,0 +1,369 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 8"
+decided: "2015-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4793081"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-010.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-021.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-093.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 8
+
+## Regeste
+
+PLAINTE{LP}, RÉCUSATION, MINIMUM VITAL, CALCUL, SAISIE DE SALAIRE | 10 LP, 17 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 21.01.2015 Plainte / 2015 / 8
+
+PLAINTE{LP}, RÉCUSATION, MINIMUM VITAL, CALCUL, SAISIE DE SALAIRE | 10 LP, 17 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+FA14.032806-142258
+6
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+21 janvier 2015
+__________________
+Présidence
+de               Mme
+Rouleau
+,
+présidente
+Juges
+:              Mmes
+Carlsson et Byrde
+Greffier
+:
+Mme              Joye
+*****
+Art.
+10, 17 et 93 LP ;
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________
+,
+à Apples, contre la décision rendue le 12 décembre 2014, à la suite de l’audience
+du 27 octobre 2014, par le Président du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte formée par le recourant le 7 août 2014
+contre l’avis de saisie de l’
+OFFICE
+DES POURSUITES DU DISTRICT DE MORGES
+du même
+jour.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 27 mars 2014, H.________
+s’est vu notifier par l’Office des poursuites du district de Morges (ci-après :
+l’office) deux commandements de payer, soit :
+-
+un commandement de payer
+n° 6'993’360, à l’instance de la Confédération suisse, en paiement de
+251 fr. 95 à titre d’impôt fédéral direct 2012;
+-
+un commandement de payer n° 6'993’384, à l’instance de l’Etat de Vaud, en
+paiement de 6'271 fr. plus intérêts à 3% dès le 19 janvier 2014 et de 21 fr. 70 sans
+intérêt, à titre d’impôt cantonal et communal revenu/fortune 2012 et d’intérêts
+compensatoires.
+Le poursuivi a formé opposition totale aux deux commandements de payer. Le 27 mars 2014 également,
+le poursuivi a signé deux retraits d’opposition sur formules préimprimées de l’Office
+d’impôt du district de Morges, reconnaissant expressément être débiteur des
+montants figurant sur les commandements de payer précités.
+Le 24 juillet 2014, la Confédération suisse et l’Etat de Vaud ont requis la continuation
+des poursuites n° 6'993’360 et 6'993’384.
+Le 4 août 2014, deux avis de saisie – soit un avis de saisie pour chaque poursuite –
+ont été adressés au poursuivi.
+La saisie a été exécutée le 7 août 2014 entre 9h45 et 10h45, à l’office,
+en présence du débiteur. Il résulte ce qui suit du procès-verbal de saisie établi
+le même jour : Né en 1991, célibataire, le débiteur vit chez ses parents auxquels
+il verse une pension de 1'000 fr. par mois, qui inclut la nourriture et le blanchissage. Employé
+de banque, il est au chômage depuis le mois de juillet 2014. Il déclare n’avoir aucune
+fortune, mobilière ou immobilière ; il n’a notamment pas de voiture. Il a mentionné
+une assurance risque pur Axa. Il perçoit de la caisse de chômage des indemnités journalières
+de 179 fr. 70 brut, sous déduction des primes AVS-AI-APG-LAA et assurance perte de gain, par 9,78%,
+et de la prime risque LPP, par 12 fr. 80.
+Par décision du 7 août 2014, portant la signature du débiteur avec la mention « toutes
+voies de recours réservées », l’office a fixé la saisie à 1'450 fr.
+par mois dès et y compris le mois d’août 2014, sur la base du décompte suivant :
+Revenu mensuel
+3'505 fr. 32
+A déduire :
+Loyer
+1'000 fr.
+Base mensuelle
+800 fr.
+Recherche d’emploi
+200 fr.
+----------------
+Montant mensuel
+saisissable
+1'505 fr. 30
+----------------
+Il ressort du procès-verbal de saisie que la base mensuelle a été réduite à
+800 fr. par mois pour tenir compte du fait que le débiteur est nourri et logé par ses parents.
+Il n’a pas été tenu compte dans les charges de la prime d’assurance maladie, par
+330 fr., impayée, avis étant donné au débiteur qu’il en sera tenu compte sur
+présentation d’un justificatif à produire avant le 10 du mois suivant.
+Le 7 août 2014, un avis concernant la saisie du montant de 1'450 fr. par mois a été adressé
+à la Caisse publique cantonale vaudoise de chômage.
+2.
+Par lettre du 7 août 2014, le débiteur a déclaré en substance au préposé
+qu’il n’était pas d’accord avec le montant de la saisie. Il réclame à
+l’office le remboursement du montant de 14 fr. représentant ses frais de déplacement
+et 150 fr. pour l’heure passée à l’office pour la saisie, alors qu’il avait
+« d’autres choses à faire de bien plus intéressantes, comme trouver du travail
+».
+L’office a transmis cette lettre au Président du Tribunal d’arrondisse-ment de La Côte,
+en sa qualité d’autorité de surveillance.
+Le 19 août 2014, le débiteur a adressé une facture à l’office, réclamant
+paiement de 6'150 fr., soit  14 fr. au titre de frais de déplacement, 125 fr. pour une heure
+perdue à l’office, 6'000 fr. pour l’annulation de ses vacances d’été
+2014, 10 fr. de frais administratifs et 1 fr. de frais d’envoi postal.
+Le 20 août 2014, l’office s’est déterminé sur la plainte, préavisant
+pour son rejet.
+Par lettre du 22 août 2014 à l’autorité inférieure de surveillance, le débiteur
+a contesté les décisions de l’autorité fiscale à l’origine des poursuites
+et déclaré avoir signé sous la contrainte les deux déclarations de retrait des oppositions,
+assorties d’une « sorte de reconnaissance de dette », qu’il conteste.
+A l’audience de plainte du 27 octobre 2014, le plaignant a produit la copie d’une lettre
+qu’il a adressée le 18 août 2014 au fisc, dans laquelle il conteste avoir retiré
+son opposition aux poursuites litigieuses.
+3.
+Par décision du 12 décembre 2014, notifiée au plaignant le
+15
+décembre suivant, l’autorité inférieure de surveillance a rejeté la plainte,
+sans frais ni dépens.
+En bref, le premier juge a retenu que les critiques du plaignant dirigées contre l’autorité
+fiscale n’avaient pas leur place dans la procédure de plainte LP, tout comme ses conclusions
+relatives au remboursement de frais ou de dommages-intérêts. Il a retenu que l’office
+– dont aucun élément du cas d’espèce ne mettait en cause l’impartialité
+et la neutralité – avait agi conformément à la loi en fixant le montant de la saisie
+à 1'450 fr. par mois.
+4.
+Le plaignant a recouru contre cette décision, par acte du 20 décembre 2014. Il maintient que
+les retraits d’opposition lui ont été présentés comme devant lui permettre
+de trouver un arrangement avec le fisc et les avoir signés sous contrainte. Il déclare déposer
+plainte contre le préposé de l’office qui, employé par l’Etat de Vaud, ne
+pourrait faire preuve de la neutralité nécessaire. Il invoque une violation des droits de la
+personnalité et de sa liberté de culte, ayant été exclu de son groupement religieux
+car il ne pouvait plus payer les frais et participer aux séminaires. Il estime son dommage à
+65'562 fr., soit 100 fr. pour les frais d’audience à Nyon, 5'462 fr. de pertes financières
+subies au 19 décembre 2014, 10'000 fr. pour violation de sa personnalité et 50'000 fr. de tort
+moral.
+L’Office d’impôt du district de Morges s’est déterminé sur le recours
+le
+9 janvier 2015. Il a produit six pièces,
+soit un échange de correspondance entre le recourant et l’autorité fiscale.
+L’office s’est déterminé le 13 janvier 2015, en se référant à son
+écriture de première instance.
+En droit :
+I.
+Le recours a été déposé dans le délai de dix jours des art. 18 al. 1 LP (loi
+fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite; RS 281.1) et
+28
+al. 1 LVLP (loi d’application dans le Canton de Vaud de la loi fédérale sur la poursuite
+pour dettes et la faillite; RSV 280.05). Le recourant reprend les arguments de sa plainte et conteste
+le principe même de la saisie. Son recours est recevable (art. 28 al. 3 LVLP).
+Les déterminations des parties intimées et les pièces nouvelles produites par l’autorité
+fiscale sont également recevables (art. 31 al. 1 LVLP).
+II.
+En vertu de l’art. 17 al. 1 LP, sauf dans les cas où la loi prescrit la voie judiciaire, il
+peut être porté plainte à l’autorité de surveillance lorsqu’une mesure
+de l’office est contraire à la loi ou ne paraît pas justifiée en fait.
+La plainte à l’autorité de surveillance est la voie de recours contre les décisions
+des offices des poursuites et faillites, dans les cas où une action judiciaire n’est pas expressément
+prévue. Par « mesure » au sens de l’art. 17 LP, il faut entendre toute
+décision ou mesure prise unilatéralement ou d’office, de nature à créer, modifier
+ou supprimer une situation du droit de l’exécution forcée dans une procédure d’exécution
+forcée en cours, voire close, mais concrète (Erard, Commentaire romand, nn. 1 et 10 art. 17
+LP). Il y a violation de la loi lorsque celle-ci n’a pas été appliquée du tout ou
+lorsqu’elle n’a pas été appliquée correctement. Quant au moyen tiré de
+l’inopportunité d’une mesure, il n’existe que si l’autorité de poursuite
+dispose d’un pouvoir d’appréciation (Erard, op. cit., nn. 16 et 19 ad art.
+17
+LP). Tel est le cas, en particulier, lorsque l’office procède à la saisie de biens du
+débiteur (art. 93 al. 1 et 97 al. 1 LP).
+La voie de la plainte est ouverte lorsque l’office a mal apprécié la situation au moment
+de l’exécution de la saisie, en particulier en cas d’atteinte au minimum vital (ATF124
+III 170, JT 1999 II 28; Ochsner, Commentaire romand de la LP, n. 209 ad art. 93 LP).
+La plainte a un effet dévolutif, c’est-à-dire que la mesure attaquée devient de
+la compétence de l’autorité de surveillance, qui peut soit annuler une décision,
+soit la corriger, soit encore astreindre l’office à accomplir l’acte refusé (art.
+21 LP).
+III.
+Il résulte du considérant qui précède que seules les décisions et mesures de
+l’office peuvent faire l’objet d’une plainte. Dès lors, les critiques du recourant
+qui s’adressent à l’autorité fiscale – tant en ce qui concerne les décisions
+relatives à l’impôt 2012 que les circonstances dans lesquelles le recourant a retiré
+ses oppositions – sont irrecevables dans le cadre de la plainte et du recours. Ni l’office,
+ni l’autorité de surveillance n’a le pouvoir de revoir des décisions de taxation
+fiscales entrées en force.
+De même, les conclusions du recourant qui tendent à autre chose qu’à l’annulation
+ou à la correction de la décision attaquée, par exemple au versement de prestations
+financières, sont également irrecevables. De telles conclusions n’ont pas leur place
+dans une procédure de plainte LP.
+Seuls les griefs dirigés contre la décision du 7 août 2014 de l’office intimé
+d’arrêter à 1'450 fr. par mois le montant de la saisie sont dès lors recevables.
+IV.
+a)
+L’art. 10 LP énumère les motifs de récusation du préposé et des employés
+des offices. La
+ratio legis
+de la récusation est la nécessaire impartialité
+des autorités administratives et judiciaires. Les décisions et les mesures qu’elles prennent
+ne doivent pas paraître avoir été influencées par des éléments personnels
+tenant à leur auteur, d’où l’obligation de se récuser le cas échéant.
+Les dispositions relatives à la récusation ont pour but d’exclure un agent public des
+actes de son office lorsque les circonstances sont de nature à faire naître un doute sur son
+impartialité (ATF 99 III 48, JT 1974 III 114, c. 3; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 6 ad art. 10 LP). Les motifs de récusation énumérés
+à l’art. 10 LP résident tous dans un intérêt personnel que l’agent public
+peut avoir dans un acte de son office ou dans une relation personnelle qu’il peut entretenir avec
+une personne intéressée à l’acte en question. En aucun cas, le fait d’être
+un salarié de l’Etat – ce qui est la caractéristique de tous les agents publics
+– ne constitue un tel motif.
+b)
+En l’espèce, le recourant n’invoque aucun des motifs de récusation de l’art.
+10 LP ni aucun motif concret qui serait de nature à mettre en doute l’impartialité du
+préposé. Le seul motif invoqué – savoir le fait que le préposé est un
+employé de l’Etat et que son office est un service de l’Etat  – est quant
+à lui infondé.
+V.
+Il reste à examiner si l’office a correctement agi en fixant la saisie de revenu  à
+1'450 fr. par mois à compter du 1
+er
+août 2014.
+a)
+En vertu de l’art. 89 LP, lorsque le
+débiteur est sujet à la poursuite par voie de saisie, l’office, après réception
+de la réquisition de continuer la poursuite, procède sans retard à la saisie ou y fait
+procéder par l’office du lieu où se trouvent les biens. La saisie doit être exécutée
+conformément aux art. 91 ss LP.
+b)
+Selon l'art. 93 al. 1 LP, le salaire et les autres revenus du débiteur sont saisissables, déduction
+faite de ce qui est indispensable au poursuivi et à sa famille.
+Les faits déterminant le revenu saisissable doivent être établis d'office, compte tenu
+des circonstances existant au moment de l'exécution de la saisie (ATF 112 III 79 c. 2, rés.
+in JT 1988 II 63 et les arrêts cités). Le poursuivi est tenu envers l'office de collaborer
+(ATF 119 III 70 c. 1, JT 1995 II 133); il a le même devoir à l'égard de l'autorité
+cantonale de surveillance en vertu de l'art. 20a al. 2 ch. 2 LP, disposition qui prévoit même
+que l'autorité de surveillance peut déclarer irrecevables les conclusions des parties lorsqu'elles
+refusent de prêter le concours que l'on peut attendre d'elles (TF 5A_16/2011 du 2 mai 2011).
+Pour fixer le montant saisissable, l'office doit d'abord tenir compte de toutes les ressources du débiteur;
+puis, après avoir déterminé le revenu global brut, il évalue le revenu net en opérant
+les déductions correspondant aux charges sociales et aux frais d'acquisition du revenu; enfin il
+déduit du revenu net les dépenses nécessaires à l'entretien du débiteur et de
+sa famille, en s'appuyant généralement sur les Lignes directrices pour le calcul du minimum
+vital du droit des poursuites selon l'art. 93 LP établies par la Conférence des préposés
+aux poursuites et faillites de Suisse.
+Les indemnités de l'assurance chômage, en tant que revenu de substitution, sont des prestations
+saisissables (Gilliéron, op. cit., n. 74 ad art. 93 LP; Mathey, La saisie de salaire et de revenu,
+thèse Lausanne 1989, p. 36; Ochsner, Commentaire romand, n. 60 ad art. 93 LP).
+Les
+Lignes directrices pour le calcul du minimum vital (édition actuelle-ment en vigueur du 1
+er
+juillet 2009; BlSchK 2009, pp. 192 ss), traitent des charges à prendre en considération
+dans le cadre d'une saisie de revenus. Elles comportent une liste des charges fixes, regroupées
+sous la dénomination "montant de base mensuel", avec des montants identiques pour tous
+les débiteurs, qui couvrent les frais pour l'alimentation, les vêtements et le linge y compris
+leur entretien, les soins corporels et de santé, l'entretien du logement, les assurances privées,
+les frais culturels ainsi que les dépenses pour le courant électrique et le gaz. Les Directives
+énumèrent par ailleurs sous la rubrique "suppléments au montant de base mensuel"
+les autres charges, qui varient en fonction de la situation particulière du débiteur (frais
+de logement et de chauffage, cotisations sociales, dépenses liées à l'exercice d'une profession,
+pensions alimentaires, formation des enfants, paiements par acomptes pour des objets de stricte nécessité
+et dépenses diverses) et indiquent si et dans quelle mesure ces dépenses doivent être
+prises en compte.
+En principe, les cotisations et primes d'assurances sociales ne sont prises en considération que
+lorsque le débiteur est tenu de les verser de par la loi (Mathey, op. cit., p. 57). Ainsi, dans
+le domaine de l'assurance maladie, seules les primes de l'assurance obligatoire, soit pour une couverture
+de base, peuvent être prises en compte dans le minimum vital (Ochsner, op. cit., n. 122 ad art.
+93 LP). Pour être prise en considération, il faut en outre que la prime soit effectivement
+payée. A cet égard, l'office ne doit pas se contenter de se fier aux déclarations du poursuivi
+mais, dans le cadre du comportement actif qu'il doit adopter pour l'exécution de la saisie de revenus,
+il doit exiger du débiteur la production des justificatifs de paiement (Ochsner, op. cit., n. 82
+ad art. 93 LP et les arrêts cités).
+La détermination du minimum vital n'a pas pour but de permettre au débiteur de conserver le
+train de vie qui était le sien avant la saisie, mais de déterminer quelles sont les dépenses
+indispensables et absolument nécessaires à son entretien. La loi garantit au débiteur
+la possibilité de mener une existence décente, mais elle ne le protège pas contre la perte
+des commodités de la vie (Gilliéron, op. cit., n. 83 ad art. 93 LP; ATF 106 III 104, rés.
+in JT 1982 II 139).
+c)
+En l’espèce, saisi d’une réquisition de continuer la poursuite émanant d’un
+créancier au bénéfice de poursuites non frappées d’oppositions (art. 88 al.
+1 LP), l’office devait procéder à la saisie (art. 89 LP).
+L’office a procédé à la saisie avec la collaboration du recourant. Il a exposé
+dans le procès-verbal de saisie les éléments de calcul de la quotitié saisissable.
+Il a retenu au titre de revenu mensuel les indemnités de chômage perçues par le recourant,
+soit 179 fr. 70 par jour avec une moyenne de 21,7 jours par mois, soit un montant brut de 3'899 fr. 49
+par mois, dont il a déduit  12 fr. 80 au titre de LPP et 381 fr. 37 (9,78 %) au titre des autres
+cotisations légales, arrivant à un montant net de  3'505 fr. 32.
+Au titre de charges, l’office a retenu un loyer de 1'000 fr. par mois, qui est le montant que le
+recourant verse à ses parents auprès desquels il est logé, nourri et blanchi. Il a ensuite
+retenu un montant de 800 fr. comme base mensuelle fixe au lieu du forfait de 1'200 fr. prévu par
+les lignes directrices. Une partie importante des charges normalement comprises dans le forfait sont
+en l’espèce déjà incluses dans le loyer que le recourant paie à ses parents
+(alimentation, entretien du linge et des vêtements, dépenses d’énergie) et dont
+il est tenu compte intégralement. Il était donc juste que le préposé déduise
+un montant de ce chef et le montant de 800 francs retenu au titre de base mensuelle est tout à fait
+justifié. C’est à juste titre également qu’il n’a pas pris en considération
+une prime d’assurance risque pur Axa qui, à supposer qu’elle soit établie et réellement
+payée, est déjà prise en compte dans la base mensuelle au titre de prime d’assurance
+privée. C’est à juste titre encore qu’il n’a pas pris en compte la prime
+d’assurance maladie impayée ; elle le sera si le recourant établit l’avoir
+payée. L’office a retenu, en revanche, un montant de 200 fr. pour les frais de recherche d’emploi
+du recourant, qui sont des dépenses spéciales auxquelles le recourant doit en effet actuellement
+faire face.
+Le calcul du minimum vital auquel a procédé l’office est en définitive exempt de
+critiques. Il est parfaitement conforme aux dispositions légales et il est opportun.
+Cela étant, le recours doit être rejeté.
+VI.
+Le présent arrêt peut être rendu sans frais ni dépens (art. 61 al. 2 let. a et 62
+al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. H.________,
+‑
+Etat de Vaud, Office d’impôt du district de Morges,
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Président du Tribunal d'arrondissement de la Côte, autorité inférieure de
+surveillance.
+La greffière :
