@@ -1,0 +1,221 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2015___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2015 / 1"
+decided: "2015-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20150116111232744_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2015 / 1
+
+## Regeste
+
+RÉCUSATION, AUTORITÉ DE RECOURS, CONFLIT D'INTÉRÊTS | 47 al. 1 let. a CPC (CH), 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 21.01.2015 Réc-civile / 2015 / 1
+
+RÉCUSATION, AUTORITÉ DE RECOURS, CONFLIT D'INTÉRÊTS | 47 al. 1 let. a CPC (CH), 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+LL12.045632
+1
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 21 janvier 2015
+_____________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Schwab Eggs
+*****
+Art.
+47 al. 1 let. a et f, 49 al. 1 et 50 al. 2 CPC; art. 8a al. 7 CDPJ
+Vu le dossier de la mesure de curatelle de représentation et de gestion au sens des art. 394 al.
+1 et 395 al. 1 CC, instituée en faveur de
+L.________
+,
+née le [...] 1922,
+vu la requête déposée le 27 novembre 2014 par L.________ demandant la récusation
+de Z.________, Juge de paix du district de Lausanne (ci-après : juge de paix) en charge du
+dossier susmentionné,
+vu les déterminations du juge de paix du 2 décembre 2014, contestant la demande de récusation,
+vu la lettre de L.________ datée du 2 décembre 2014 et reçue le 4 décembre 2014 par
+la Justice de paix du district de Lausanne (ci-après : justice de paix),
+vu la décision sur récusation rendue par la justice de paix le 3 décembre 2014 et
+adressée pour notification le 10 décembre 2014 rejetant la demande de récusation du 27
+novembre 2014,
+vu l'acte du 20 décembre 2014, par lequel L.________ (ci-après : la recourante) a recouru
+contre cette décision,
+vu les déterminations du 29 décembre 2014 du magistrat intimé, lequel conteste formellement
+la demande de récusation,
+vu les pièces au dossier ;
+attendu que la Cour de céans fait sien l'état de fait tel qu'il ressort de la décision
+attaquée, complété par les pièces du dossier,
+que la recourante soutient que la décision doit être annulée car la justice de paix n'aurait
+pas pu lire sa demande de récusation complète, n'ayant reçu sa lettre datée du 2
+décembre 2014 qu'après s'être prononcée sur la récusation,
+qu'elle met en doute la participation des magistrats indiqués dans l'en-tête de la décision
+du 3 décembre 2014 à la prise de dite décision, ceux-ci n'ayant pas signé dite décision,
+qu'elle reproche au juge de paix d'avoir mis en place un système pour protéger les intérêts
+pécuniaires de la dénonciatrice ainsi que ses propres intérêts et ceux du curateur,
+que le magistrat intimé aurait en particulier "couvert le comportement du curateur", se
+rendant coupable de diverses infractions pénales à son encontre,
+que la recourante fait valoir que les dénonciations pénales qu'elle aurait déposées
+attestent des motifs de récusation du magistrat intimé,
+qu'elle énumère  de nombreux griefs qu'elle aurait soulevés tout au long de la procédure,
+qu'enfin, le juge intimé n'aurait pas répondu aux questions qu'elle lui aurait posées
+par courriers des 2 août et 31 octobre 2014,
+qu'il l'aurait au contraire contrainte à venir à l'audience du 4 novembre 2014 alors qu'elle
+était malade et que son appareil auditif était cassé, ce dont elle l'avait informé
+par courrier du 31 octobre 2014,
+que la lettre du 7 novembre 2014 de ce magistrat constituerait un abus d'autorité, dans la mesure
+où il l'aurait menacée d'un grave préjudice si elle ne se présentait pas à la
+nouvelle audience,
+qu'en définitive, le magistrat intimé serait "odieux" et "dénué de
+tout sens moral et de dignité humaine" ;
+attendu que le recours est dirigé contre une décision statuant sur la récusation d'un
+magistrat de première instance,
+que l'art. 50 al. 2 CPC (Code de procédure civile du 19 décembre 2008, RS 272) prévoit
+que la décision sur récusation peut faire l'objet d'un recours au sens des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010, RSV 211.02] et 6 al. 1 let. a ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007, RSV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC ; Tappy,
+Code de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+qu'en l'espèce, le recours a été déposé en temps utile par une partie qui a
+qualité pour recourir,
+que le recours est recevable à la forme ;
+attendu que la recourante soulève des griefs quant à la forme de la décision de la justice
+de paix du 3 décembre 2014 statuant sur sa requête de récusation,
+que la recourante a développé longuement ses griefs dans sa requête de récusation
+du 27 novembre 2014,
+que les magistrats de première instance ont pu statuer en connaissance de cause sur ces griefs,
+le complément de la recourante du 2 décembre 2014 n'apportant pas d'éléments
+nouveaux,
+que ce moyen de la recourante doit donc être rejeté, celle-ci ayant au demeurant pu faire entendre
+ses arguments au stade du recours,
+que la recourante reproche également le mode de prise de décision en première instance,
+que l'art. 78 al. 3 ROTC, applicable par analogie, prévoit qu'après approbation de sa rédaction,
+le jugement est signé par le président, voire par le greffier,
+que le fait que la décision de première instance ait été signée "uniquement"
+par le président et le greffier ne constitue dès lors pas un vice formel,
+que ce grief de la recourante doit également être rejeté ;
+attendu que, sur le fond, bien que la recourante ne précise pas de quelle disposition elle se prévaut,
+on comprend qu'elle invoque principalement la partialité du magistrat intimé pour des motifs
+autres que ceux énumérés aux lettres a à e de l'art. 47 al. 1 CPC, de sorte
+que c'est à la lumière de l'art. 47 al. 1 let. f CPC qu'il faut examiner le recours,
+qu'à teneur de cette dernière disposition, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101) et 6 §1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l’homme et des libertés fondamentales (RS 0.101), s'oppose
+à ce que des circonstances extérieures au procès puissent influencer le jugement d'une
+manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012
+du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références
+citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin
+2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références citées),
+que la partie qui entend obtenir la récusation d'un magistrat doit rendre vraisemblable les faits
+qui motivent sa demande et les soulever aussitôt qu'elle en a connaissance (art. 49 al. 1 CPC),
+qu'il faut plus que de simples affirmations de la partie demandant la récusation, qui devra au moins
+apporter des indices de la véracité de ses affirmations (Tappy, op. cit., n. 25 ad art. 49
+CPC),
+qu'en l'espèce, la recourante soulève plusieurs faits à l'appui de sa demande de récusation,
+qu'elle n'a jamais fait état auparavant d'une prévention de la part du juge de paix, qui est
+en charge de son dossier depuis 2010,
+qu'on peut dès lors douter de la recevabilité de sa requête, apparemment tardive,
+que cette question peut cependant demeurer indécise, dans la mesure où elle doit être
+rejetée pour les motifs qui suivent,
+que la recourante se plaint du fait que le magistrat intimé n'aurait pas répondu à ses
+questions, de même que de son comportement en relation avec l'audience fixée initialement le
+4 novembre 2014,
+qu'on relève que le magistrat intimé n'a été avisé par la recourante de son
+impossibilité de venir à cette audience par un courrier du 31 octobre 2014 qui ne lui
+est parvenu que la veille de dite audience,
+que le courrier de la recourante du 31 octobre 2014 soulevait justement une quinzaine de questions auxquelles
+le magistrat était prié de répondre,
+que par lettre du 3 novembre 2014, le magistrat intimé a indiqué à la recourante maintenir
+l'audience qui avait été précisément fixée afin de répondre à ses
+questions et a précisé qu'un traducteur avait été convoqué,
+que la recourante ne s'étant pas présenté à l'audience du 4 novembre 2014, le juge
+de paix lui a écrit le 7 novembre 2014 afin de l'informer qu'elle était convoquée à
+une nouvelle audience et que son absence serait considérée comme une adhésion au compte
+établi par le curateur,
+que, contrairement aux affirmations de la recourante, ces faits ne démontrent aucunement que le
+juge de paix aurait fait montre de partialité à son encontre,
+que, c'est justement l'absence de la recourante à l'audience du 4 novembre 2014 qui a empêché
+le magistrat de répondre à ses questions, ce qu'on ne saurait lui reprocher,
+qu'en outre, la recourante mentionne que le juge de paix aurait notamment couvert des infractions pénales
+que le curateur aurait commises à son encontre,
+qu'elle n'apporte toutefois aucune preuve, ni même aucun indice de ce qu'elle allègue,
+qu'au demeurant, il n'appartient pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+que la recours doit être rejeté pour ces motifs, dans la mesure de sa recevabilité ;
+attendu que la recourante invoque également le fait qu'un conflit d'intérêts existerait
+entre ses intérêts personnels et ceux du juge de paix,
+que ce grief tombe sous le coup de l'art. 47 al. 1 let. a CPC qui prévoit que les magistrats se
+récusent lorsqu'ils ont un intérêt personnel dans la cause,
+que la recourante n'étaye son allégation par aucun élément concret permettant d'établir
+l'existence d'intérêts propres du magistrat intimé,
+que ce grief doit donc également être rejeté ;
+attendu qu'en définitive, aucun motif de récusation n'étant réalisé, il y a
+lieu de rejeter le recours,
+que le présent arrêt doit être rendu sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 20 décembre 2014 par L.________ est rejeté.
+II.
+L'arrêt est rendu sans frais.
+III.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Mme L.________, personnellement,
+-
+Me François Roux (curateur de L.________),
+-
+Z.________, Juge de paix du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+La greffière :
