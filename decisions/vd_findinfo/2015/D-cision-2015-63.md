@@ -1,0 +1,248 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___63"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 63"
+decided: "2015-01-22"
+published: "2015-01-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4748703"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/311.0/art-051.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-233.md", "switzerland/bund/acts/312.0/art-237.md"]
+---
+
+# VD Findinfo Décision / 2015 / 63
+
+## Regeste
+
+DÉTENTION POUR DES MOTIFS DE SÛRETÉ, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH), 233 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 22.01.2015 Décision / 2015 / 63
+
+DÉTENTION POUR DES MOTIFS DE SÛRETÉ, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH), 233 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+49
+PE13.021833-STO
+LE
+PRESIDENT DE LA
+COUR
+D’APPEL PENALE
+________________________________
+Séance
+du 22 janvier 2015
+______________________
+Présidence
+de               M.
+Sauterel
+Greffière
+:              Mme
+Matile
+*****
+Parties
+à la présente cause :
+H.________
+,
+prévenu, représenté par Me Nicolas Marthe, défenseur d'office à Neuchâtel,
+requérant,
+et
+Ministère
+public
+, représenté par le Procureur
+de l'arrondissement du Nord vaudois, intimé.
+Le président de la Cour d’appel pénale prend séance à huis clos pour statuer
+sur la demande de mise en liberté présentée le 20 janvier 2015 par H.________ à la
+suite du jugement rendu le 7 octobre 2014 par le Tribunal criminel de l’arrondissement de La Broye
+et du Nord vaudois dans la cause le concernant.
+Il considère :
+En fait :
+A.
+Par jugement du 7 octobre 2014, le Tribunal criminel de l’arrondissement de La Broye et du Nord
+vaudois a, notamment, libéré H.________ des chefs d'accusation de vol, lésions corporelles
+simples qualifiées, contrainte et violation de domicile (II), a constaté que H.________ s'était
+rendu coupable de tentative de lésions corporelles graves, abus de confiance, tentative d'extorsion
+et chantage qualifiés, escroquerie, tentative de contrainte, violation simple des règles de
+la circulation routière, conduite d'un véhicule défectueux, conduite d'un véhicule
+malgré le retrait du permis de conduire, accompagnement d'un élève-conducteur sans remplir
+les conditions exigées, défaut de restitution de plaques de contrôle retirées, délit
+contre la Loi fédérale sur la protection des eaux et délit contre la Loi fédérale
+sur les armes (III), a condamné H.________ à une peine privative de liberté de 5 ans,
+sous déduction de 357 jours de détention préventive subie au jour du jugement (IV), a
+dit que cette peine était partiellement complémentaire à celles prononcées le 6 novembre
+2006 par le Juge d'instruction I du Jura bernois-Seeland, le 18 février 2011 par la Cour d'appel
+pénale de Fribourg, et le 21 juin 2012 par l'Amtsgerichtspräsident Bucheggberg-Wasseramt (V),
+a ordonné le maintien en détention pour des motifs de sûreté de H.________ (VI),
+a révoqué le sursis accordé à H.________ le 18 février 2011 par la Cour d'appel
+pénale de Fribourg et ordonné l'exécution de la peine privative de liberté de 15
+mois (VII), a révoqué le sursis accordé à H.________ le 30 septembre 2011 par le
+Ministère public du canton Fribourg et ordonné l'exécution de la peine pécuniaire
+de 30 jours-amende à 10 fr. le jour (VIII), a révoqué le sursis accordé à H.________
+le 4 avril 2012 par le Tribunal de police de la Broye et du Nord vaudois et ordonné l'exécution
+de la peine pécuniaire de 100 jours-amende à 30 fr. le jour (IX),a révoqué le sursis
+accordé à H.________ le 21 juin 2012 par l'Amtsgerichtspräsident Bucheggberg-Wasseramt
+et ordonné l'exécution de la peine privative de liberté de 10 mois (X).
+B.
+Le 9 octobre 2014, H.________ a formé appel contre ce jugement. Il a déposé une déclaration
+d'appel motivée le 20 novembre 2014, qu'il a dûment complétée le 5 décembre
+2014, en concluant, notamment, à la libération des accusations de tentative de lésions
+corporelles graves, d'abus de confiance, de tentative d'extorsion et chantage qualifiés, d'escroquerie,
+de tentative de contrainte, d'accompagnement d'un élève-conducteur sans remplir les conditions
+exigées et de délit à la loi fédérale sur les eaux, la peine privative de liberté
+prononcée à son encontre ne dépassant pas 18 mois, sous déduction de la détention
+préventive subie.
+Par lettre du 20 janvier 2015 adressée au Tribunal des mesures de contrainte, H.________, agissant
+seul, a sollicité sa libération provisoire, indiquant qu'il disposait désormais d'une
+pièce nouvelle contenant des éléments allant à l'encontre de son maintien en détention.
+A la demande de la direction de la procédure, le Ministère public s'est déterminé
+le 22 janvier 2015 sur la demande de mise en liberté formée par H.________. Le procureur a
+conclu à son rejet, au vu des risques de réitération et de passage à l'acte, qui,
+à lire le jugement rendu le 7 octobre 2014 par le Tribunal criminel, demeuraient concrets et élevés.
+Il a estimé qu'à ceux-ci, il convenait aussi d'ajouter un risque de fuite en raison de l'importance
+de la peine prononcée à l'encontre du prévenu.
+En droit
+:
+1.
+Aux termes de l'art. 233 CPP (Code de procédure
+pénale suisse du 5 octobre 2007, RS 312.0), la direction de la procédure de la juridiction
+d'appel statue dans les cinq jours sur les demandes de libération et sa décision n'est pas
+sujette à recours.
+Cette disposition garantit que le prévenu (acquitté ou condamné en première instance)
+puisse requérir en tout temps sa mise en liberté puisque la demande peut même être
+formulée auprès de la juridiction d'appel (Logos, in: Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 5 ad art. 233 CPP; Moreillon/Parein-Reymond, Petit commentaire
+du CPP, Bâle 2013, n. 4 ad. art. 233).
+Déposée à la suite de l'annonce d'appel, la requête de H.________ est recevable.
+2.
+2.1
+En vertu de l'art. 221 CPP, la détention
+provisoire et la détention pour motifs de sûreté ne peuvent être ordonnées que
+lorsque le prévenu est fortement soupçonné d'avoir commis un crime ou un délit et
+qu'il y a sérieusement lieu de craindre: qu'il se soustraie à la procédure pénale
+ou à la sanction prévisible en prenant la fuite (a); qu'il compromette la recherche de la vérité
+en exerçant une influence sur des personnes ou en altérant des moyens de preuve (b); qu'il
+compromette sérieusement la sécurité d'autrui par des crimes ou des délits graves
+après avoir déjà commis des infractions du même genre (c).
+Le juge peut maintenir la détention préventive aussi longtemps qu'elle n'est pas très
+proche de la durée de la peine privative de liberté à laquelle il faut s'attendre concrètement
+en cas de condamnation (ATF 133 I 168 c. 4.1 p. 170 et les références). Il convient d'accorder
+une attention particulière à cette limite, car le juge de l'action pénale pourrait être
+enclin à prendre en considération dans la fixation de la peine la durée de la détention
+préventive à imputer selon l'art. 51 CP (ATF 133 I 168 c. 4.1 p. 170 et les arrêts cités).
+Lorsque le détenu a déjà été jugé en première instance, ce prononcé
+constitue un indice important quant à la peine susceptible de devoir être finalement exécutée
+(TF 1B_43/2013 du 1
+er
+mars 2013 c. 4.1 et les références citées). Selon la jurisprudence, le juge de la détention
+- afin d'éviter qu'il n'empiète sur les compétences du juge du fond - ne tient pas compte
+de la possibilité éventuelle de l'octroi d'un sursis par l'autorité de jugement (ATF 133
+I 270 c. 3.4.3 p. 282) ou d'une libération conditionnelle (ATF 124 I 208 c. 6 p. 215).
+2.2
+En l'occurrence, le Tribunal criminel de l'arrondissement de La Broye et du Nord vaudois a condamné
+H.________ pour l'essentiel des infractions qui lui étaient reprochées, qualifiant au demeurant
+sa culpabilité d'extrêmement lourde, l'intéressé étant incapable d'introspection
+et persistant à se croire victime de l'injustice des autorités, des fonctionnaires ou de ses
+relations d'affaires pour justifier ses actes. H.________ a d'ailleurs admis une partie des faits retenus
+à sa charge.
+Il existe donc des soupçons suffisants au sens de l'art. 221 CPP.
+2.3
+En l'espèce, le tribunal criminel a maintenu H.________ en détention pour des motifs de sûreté,
+en raison du risque de réitération.
+Une détention provisoire ou pour des motifs
+de sûreté fondée sur un risque de réitération exige que le prévenu ait
+déjà commis des infractions du même genre que celles qu'il y a sérieusement lieu
+de redouter (Message du Conseil fédéral relatif à l'unification du droit de la procédure
+pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. pp. 1210-1211). Le terme "infraction
+du même genre" indique que les infractions précédentes doivent être des crimes
+ou des délits et que l'infraction redoutée doit être similaire, sans pour autant être
+identique (Schmocker, op. cit., n. 18 ad. art. 221 CPP; ATF 137 IV 13 c. 3 et 4). Le maintien en détention
+provisoire respectivement pour des motifs de sûreté se justifie si le pronostic est très
+défavorable et si les infractions dont l'autorité redoute la réitération sont graves
+(ATF 137 IV 84 c. 4.5, JT 2011 IV 325; ATF 135 I 71 c. 2.3; ATF 133 I 270 c. 2.2 et les arrêts cités,
+JT 2011 IV 3; TF 1B_39/2013 du 14 février 2013 c. 2.1). Pour établir son pronostic, le juge
+doit s'attacher à la situation personnelle du prévenu, en tenant compte notamment de ses antécédents
+judiciaires, de sa fragilité psychique, de la nature des infractions commises, ainsi que du nombre
+et de la fréquence des infractions en cause (Schmocker, op. cit., n. 20 ad art. 221 CPP). La prévention
+du risque de récidive doit permettre de faire prévaloir l'intérêt à la sécurité
+publique sur la liberté personnelle du prévenu (ATF 137 IV 13 c. 4.5).
+En l'occurrence, l'appréciation portée par les premiers juges sur ce point est pertinente et
+doit être confirmée : le risque de réitération est concret au vu des antécédents
+de H.________, du diagnostic psychiatrique résultant de l'expertise à laquelle a été
+soumise le prévenu – laquelle a conclu à l'existence d'un risque de récidive élevé
+pour des infractions concernant le droit des personnes, de la circulation routière, dans le cadre
+de son activité professionnelle, ou encore de la protection de l'environnement (cf. P. 63, ch. 3.
+2) – et des échecs des sursis précédemment accordés, de sorte que le maintien
+en détention de H.________ se justifie.
+Aucune mesure de substitution (art. 237 CPP) ne présente en l'état de garanties suffisantes
+pour pallier le risque de réitération, étant au demeurant précisé que l'on doit
+se montrer particulièrement exigeant lorsque, comme en l'espèce, la sécurité publique
+est en jeu.
+La détention provisoire étant justifiée par le risque de réitération, il n'est
+pas nécessaire de trancher la question de l'existence du risque de fuite évoqué par le
+procureur. En effet, les conditions fixées à l'art. 221 al. 1 let. a à c CPP sont des
+conditions alternatives et, partant, la réalisation d'une seule cause suffit (TF 1B_249/2011 du
+7 juin 2011 c. 2.4).
+2.4
+La détention provisoire doit encore être conforme au principe de la proportionnalité (art.
+212 al. 3 CPP), dont le respect doit être examiné au regard de l’ensemble des circonstances
+concrètes du cas d’espèce (ATF 133 I 168 c. 4.1 et les arrêts cités). A cet
+égard, il est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle
+n’est pas très proche de la durée de la peine privative de liberté à laquelle
+il faut s’attendre concrètement en cas de condamnation (TF 1B_411/2011 du 31 août 2011
+c. 4.1; ATF 133 I 168 c. 4.1; ATF 132 I 21 c. 4.1).
+En l’espèce, compte tenu des infractions faisant l'objet de l'instruction, les quelque quinze
+mois de détention subis à ce jour par H.________ demeurent proportionnés à la peine
+concrètement encourue en cas de condamnation. Quoi qu'il en soit, la détention provisoire infligée
+au vu des faits admis (violences) ne sera vraisemblablement pas réduite au point d'atteindre une
+quotité inférieure à la durée de la privation de liberté déjà subie
+(ATF 139 IV 270). Il y a lieu de relever à cet égard que H.________ sera très prochainement
+fixé sur l'issue de la procédure, dès lors que les débats d'appel sont d'ores et
+déjà fixés au 19 février 2015.
+3.
+En définitive, le maintien en détention de H.________ pour des motifs de sûreté se
+justifie et sa requête tendant à sa mise en liberté doit être rejetée.
+Il sera statué sur les frais de la présente décision à l'issue de la cause au fond.
+Par
+ces motifs,
+le
+président de la Cour d’appel pénale,
+en
+application des art. 221 al. 1 let. c et 233 CPP,
+statuant
+à huis clos :
+I.
+Rejette la requête de mise en liberté formée par H.________.
+II.
+Dit que les frais de la présente décision suivent le sort de la cause.
+III.
+Déclare la présente décision exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Nicolas Marthe, avocat (pour H.________),
+-
+M. H.________,
+-
+Ministère public central,
+et communiquée à :
+-
+M. le Président du Tribunal criminel de l'arrondissement de La Broye et du Nord vaudois,
+-
+M. le Procureur de l'arrondissement du Nord vaudois,
+-
+Office d'exécution des peines,
+-
+Prison du Bois-Mermet,
+par l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
