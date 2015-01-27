@@ -1,0 +1,213 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___79"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 79"
+decided: "2015-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4767262"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-106.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 79
+
+## Regeste
+
+NON-LIEU | 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2015 Décision / 2015 / 79
+
+NON-LIEU | 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+58
+PE12.003744-XCR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2015
+__________________
+Composition
+:               M.
+A B R E C H T, président
+MM.
+Meylan et Maillard, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+319 CPP
+Statuant sur le recours interjeté le 13 novembre 2014 par
+E.________
+contre l’ordonnance de classement rendue le 22 octobre 2014 par le Ministère public de l’arrondissement
+de La Côte dans la cause
+n° PE12.003744-XCR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+31 janvier 2012, E.________ a déposé plainte pénale contre inconnu pour vol (P. 4). Il
+a exposé avoir été l’exploitant (sous raison individuelle) du magasin à l’enseigne
+«  [...] » sis au Centre commercial de [...], à [...]. Ayant dû cesser son activité
+en juin 2009 pour des raisons de santé, il aurait fait mettre de côté, dans une dépendance
+du centre commercial, sa propre marchandise, les articles en dépôt-vente et le matériel
+de vente, ainsi que sa comptabilité. Ayant voulu reprendre son matériel au mois de novembre
+2011 après que la régie l’y eut invité, il aurait constaté que les biens précédemment
+entreposés avaient disparu dans leur quasi-totalité. Complétant sa plainte par courrier
+du 31 janvier 2014, il a précisé, sur la base d’une liste produite en annexe accompagnée
+de photocopies de photographies, que la valeur des biens tenus pour volés s’élevait,
+selon lui, à quelque 38'080 fr. et qu’une partie de la marchandise, d’une valeur de
+11'130 fr., avait en outre été endommagée (P. 15/1, 15/2 et 15/3).
+b)
+D’office
+et ensuite de cette plainte, le Ministère public de l’arrondissement de La Côte a ouvert
+une instruction pénale contre inconnu pour vol.
+c)
+Un litige de droit du bail, portant sur des arriérés de loyer, a opposé le plaignant à
+la communauté des copropriétaires du centre commercial. A l’audience du Tribunal des
+baux du 20 septembre 2011, le plaignant s’est reconnu débiteur envers eux de la somme de 8'125
+fr., valeur échue (P. 8/2).
+d)
+Lors de son audition par le Procureur le 23 avril
+2014, le témoin [...] a déclaré qu’une partie de la marchandise laissée sur
+place par le plaignant se trouvait dans un local fermé à clé et que l’autre était
+entreposée dans des chariots se trouvant dans un couloir du centre commercial, ainsi qu’il
+l’avait constaté lorsqu’il était venu récupérer la marchandise avec le
+plaignant, qui lui avait alors dit qu’il manquait des objets (PV aud. 2, lignes 31-35). Le témoin
+a précisé que, sauf erreur, des employés avaient accès au commerce du plaignant,
+ajoutant qu’il ignorait qui avait déplacé la marchandise (PV aud. 2, lignes 81 et 82-84).
+Egalement entendu le 23 avril 2014, le plaignant a indiqué qu’il tenait, avec ses employés,
+des inventaires de la marchandise dont il disposait dans son local, mais que ceux-ci avaient disparu
+(PV aud. 3, lignes 49-52). Il a précisé qu’il s’était rendu dans son magasin
+en septembre 2009, alors que le commerce était fermé, pour vendre une partie de la marchandise
+à deux commerçants, qui ont pris ce qui avait été convenu (PV aud. 3, lignes 62-64).
+Il a ajouté qu’il avait laissé une clé de son magasin dans le commerce situé
+en face (PV aud. 3, lignes 71-72).
+B.
+Par ordonnance du 22 octobre 2014, le Ministère
+public a ordonné le classement de la procédure pénale ouverte contre inconnu, d’office
+et sur plainte de E.________ (I), et a laissé les frais de cette ordonnance à la charge de
+l’Etat (II).
+Le procureur a retenu qu’il n’était en l’état pas possible d’établir
+qui aurait dérobé les biens du plaignant, compte tenu du fait qu’un nombre important
+de personnes avait pu avoir accès à cette marchandise pendant plus de deux ans. Au surplus,
+aucune mesure d’instruction complémentaire ne permettrait d’établir les faits plus
+avant, s’agissant notamment de l’audition de l’administratrice de la PPE du centre
+commercial, requise par le plaignant.
+C.
+Le 13 novembre 2014, E.________, agissant personnellement,
+a recouru auprès de la Chambre des recours pénale contre cette ordonnance, en concluant implicitement
+à son annulation, la cause étant renvoyée au Ministère public pour qu’il en
+poursuive l’instruction.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la
+Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du 19 mai 2009
+d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise
+du 12 décembre 1979 d’organisation judiciaire; RSV 173.01]).
+Le recourant fait l’objet d’une mesure de curatelle (cf. notamment P. 13). Selon l’ancien
+curateur, il s’agit d’une « curatelle de gestion » (PV aud. 1, lignes
+18-19). A défaut de tout élément au dossier permettant de considérer que le recourant
+serait privé de la capacité de discernement, il pouvait agir seul, s’agissant de surcroît
+de droits procéduraux de nature strictement personnelle (art. 106 al. 3 CPP).
+Interjeté dans le délai légal auprès de l’autorité compétente par
+la partie plaignante, qui a la qualité pour recourir (cf. art. 382 al. 1 CPP; CREP 19 novembre 2014/828),
+et satisfaisant aux conditions de forme posées par la loi (cf. art. 385 al. 1 CPP), le recours est
+recevable.
+2.
+2.1
+Selon l'art. 319 al. 1 CPP, le ministère public ordonne le classement de tout ou partie de la procédure
+lorsqu'aucun soupçon justifiant une mise en accusation n'est établi (let. a), lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent
+de retenir une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions
+à l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements
+de procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+Lorsque l’instruction a permis d’établir qu’une infraction a été commise,
+le Ministère public ne rend une ordonnance de classement au motif que l’identité de l’auteur
+de l’infraction n’a pas été découverte que si aucun autre acte d’enquête
+ne paraît pouvoir amener des éléments qui pourraient déboucher sur la mise en accusation
+d’une personne déterminée (cf. TF 1B_67/2012 du 29 mai 2012, c. 3.2, s’agissant
+d’une ordonnance de non-entrée en matière; CREP 16 décembre 2014/898 c. 2.1).
+2.2
+En l’espèce, on ne dispose pas d’un
+inventaire précis des articles que contenait le magasin lorsque le recourant a cessé son activité
+en 2009. A cet égard, les photographies produites par le recourant, non datées, ne sont pas
+probantes (P. 15/3). Aucun inventaire ne pourra par ailleurs être produit, puisque le recourant
+relève lui-même que ce document avait disparu (PV aud. 3, lignes 51-52). On ignore également,
+faute de tout relevé encore, quelle partie du stock a par la suite été vendue par le recourant
+(PV aud. 3, lignes 63-64). On ignore enfin quels articles le recourant a effectivement pu récupérer
+en 2011, aucun inventaire précis n’ayant été établi à ce moment. En d’autres
+termes, il ne paraît tout simplement pas possible d’établir avec certitude si des objets
+appartenant au recourant ont effectivement disparu et, si oui, lesquels.
+Par ailleurs, le recourant a indiqué qu’il avait laissé une clé de son magasin dans
+le commerce situé en face (PV aud. 3, lignes 71-72) et qu’il avait des employés (PV aud.
+3, ligne 81). Il ressort en outre du dossier qu’une partie de la marchandise laissée sur place
+par le plaignant a été stockée dans un local fermé à clé, alors que l’autre
+était entreposée dans des chariots se trouvant dans un couloir du centre commercial (PV aud.
+2, lignes 31-35), lesquels étaient donc accessibles à tout un chacun. Il s’ensuit que,
+même si l’on parvenait à déterminer si de la marchandise a été dérobée,
+on ne saurait pour autant identifier le ou les auteurs de l’infraction, vu le nombre de personnes
+susceptibles d’avoir eu accès au stock depuis l’arrêt de l’exploitation du
+magasin par le recourant en 2009.
+L’ordonnance de classement rendue le 22 octobre 2014 échappe ainsi à la critique.
+3.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans autre échange d'écritures
+(art. 390 al. 2 CPP) et l'ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués du seul émolument d'arrêt (art.
+422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais judiciaires pénaux du 28 septembre
+2010, RSV 312.03.1]), seront mis à la charge du recourant qui succombe (art. 428 al. 1 CPP).
+Le montant de 550 fr. déjà versé par le recourant à titre de sûretés (art.
+383 al. 1 CPP) sera imputé sur les frais mis à sa charge (art. 7 TFIP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 22 octobre 2014 est confirmée.
+III.
+Les frais d’arrêt, par 660 fr. (six
+cent soixante francs), sont mis à la charge de E.________.
+IV.
+Le montant de 550 fr. (cinq cent cinquante francs) déjà versé par le recourant à
+titre de sûretés est imputé sur les frais mis à sa charge au chiffre III ci-dessus.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Samir Djaziri, avocat (pour E.________),
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
