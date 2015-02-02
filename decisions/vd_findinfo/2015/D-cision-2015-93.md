@@ -1,0 +1,330 @@
+---
+decision_id: "vd_findinfo_D_cision___2015___93"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2015 / 93"
+decided: "2015-02-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4773020"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-426.md", "switzerland/bund/acts/311.0/art-066.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-226.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2015 / 93
+
+## Regeste
+
+DANGER{EN GÉNÉRAL}, DÉTENTION PROVISOIRE | 221 al. 2 CPP (CH), 393 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 02.02.2015 Décision / 2015 / 93
+
+DANGER{EN GÉNÉRAL}, DÉTENTION PROVISOIRE | 221 al. 2 CPP (CH), 393 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+81
+PE15.001216-GRV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+2 février 2015
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+221 al. 2, 393 al. 1 let. c CPP
+Statuant sur le recours interjeté le 28 janvier 2015 par
+V.________
+contre l’ordonnance rendue le 23 janvier 2015 par le Tribunal des mesures de contrainte dans la
+cause
+n° PE15.001216-GRV
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Une
+instruction pénale est actuellement ouverte contre V.________ notamment pour violence ou menace
+contre les autorités et les fonctionnaires et infraction à la loi fédérale sur les
+armes (LArm ; RS 514.54). Appréhendé le 20 janvier 2015 à son domicile, ce dernier
+est mis en cause pour avoir été virulent et menaçant au téléphone le 6 janvier
+2015 envers des employés du Service des automobiles et de la navigation (ci-après: SAN) en
+raison d’un litige concernant son permis de conduire qu’il devait déposer auprès
+de ce service ensuite d’une décision. V.________ aurait notamment déclaré à
+deux employés du SAN: « un jour, ça va péter, faut bien vous en rendre compte »,
+« si je viens sur place rendre mon permis, il faudra appeler la gendarmerie, parce que cela
+ne se passera pas comme ça », « je vais descendre au SAN pour flinguer certains
+d’entre eux » et « quand la police se déplace pour moi, ils ne viennent
+pas qu’à deux ». Il est également reproché au prénommé d’avoir,
+le 19 janvier 2015, traité une employée du SAN de « sale pute » et
+« d’emmerdeuse », alors qu’il était en ligne avec une autre collaboratrice
+de ce service, laquelle lui avait indiqué que la juriste insultée avait refusé de prendre
+l’appel en raison de son attitude du 6 janvier 2015. V.________ aurait ensuite menacé de passer
+au SAN dans les cinq minutes suivant son appel, ce qu’il n’a finalement pas fait.
+Lors de la perquisition du domicile de V.________, la police a découvert, cachés sous le matelas
+du lit, une réplique soft air du fusil d’assaut FASS 90 et un pistolet Smith & Wesson,
+calibre 38. Les agents ont également trouvé un poing américain, un couteau marocain, ainsi
+qu’un sac contenant des munitions (deux boîtes pour revolver de calibre 38 et trois boîtes
+de calibre 12 pour fusil de chasse, une boîte de type SLUG et une boîte de type chevrotine),
+des cartouches de gaz, des billes pour soft air et des engins pyrotechniques.
+b)
+V.________
+a déjà été condamné par
+ordonnance pénale du 30 septembre 2013 du Ministère public central, division affaires
+spéciales et mineurs à 180 jours-amende à 20 fr. le jour, avec sursis pendant 4 ans, sous
+déduction de 36 jours de détention provisoire subis, ainsi qu’à une amende
+de 1'000 fr. convertible en 50 jours de peine privative de liberté en cas de non-paiement fautif,
+pour injure, violence ou menace contre les autorités ou les fonctionnaires, violation grave des
+règles de la circulation routière, conduite en état d’incapacité, infraction
+à la loi fédérale sur les armes et contravention à la loi fédérale sur
+les stupéfiants. Dans le cadre de cette procédure, il avait effectué 36 jours de détention
+provisoire.
+Il résulte en substance de cette ordonnance pénale que V.________ avait menacé des policiers
+en déclarant notamment qu’il trancherait la carotide d’un des gendarmes, qu’il
+allait tous les retrouver et les tuer et que s’il n’avait pas de menottes, il aurait déjà
+tué un des gendarmes. Il avait notamment ajouté qu’il pouvait être très rapidement
+en possession d’armes et qu’un jour, ils allaient tous exploser dans leur voiture grâce
+à une grenade, précisant qu’il allait « faire péter » le Centre
+de police de la Blécherette à l’aide de grenades et d’explosifs. L’intéressé
+avait également menacé de mort le personnel soignant de l’Hôpital de Cery. Lors
+de la perquisition du domicile et de la voiture de V.________, la police avait découvert notamment
+un bâton tactique, un spray au poivre et trois fusils soft air.
+Dans le cadre de cette procédure, une expertise psychiatrique avait été ordonnée.
+Selon le rapport établi le 28 novembre 2012 par la Fondation de Nant, V.________ présentait
+un trouble de la personnalité mixte à traits antisociaux et émotionnellement labile type
+impulsif qui pouvait être considéré comme grave, puisqu’il influençait son
+comportement. L’intéressé présentait ainsi une grande intolérance à la
+frustration et une forte impulsivité. Il n’avait que peu conscience de la gravité et
+des conséquences de ses actes, surtout dans les moments de frustration ou de confrontation à
+l’autorité. Ce trouble s’était développé au fil de son enfance et de
+son adolescence. S’agissant du risque de récidive, les experts avaient estimé qu’il
+pouvait être considéré comme important si l’expertisé se trouvait à nouveau
+dans une situation similaire.
+B.
+a)
+Le 22 janvier 2015, le Ministère public
+de l’arrondissement du Nord vaudois a requis la mise en détention provisoire de V.________
+pour une durée de trois mois, en invoquant les risques de réitération et de passage à
+l’acte.
+b)
+Par
+ordonnance du 23 janvier 2015, le Tribunal des mesures de contrainte, retenant notamment l’existence
+d’un risque de passage à l’acte, a ordonné la détention provisoire de V.________
+(I), a fixé la durée maximale de la détention provisoire à trois mois, soit au plus
+tard jusqu’au 20 avril 2015 (II), et a dit que les frais de cette ordonnance suivaient le sort
+de la cause (III).
+C.
+Par acte du 28 janvier 2015, V.________ a recouru
+auprès de la Chambre des recours pénale contre cette ordonnance, en concluant avec suite de
+frais et dépens, principalement à l’annulation de celle-ci et à sa libération
+immédiate, subsidiairement à sa réforme en ce sens que sa libération soit ordonnée,
+qu’il lui soit fait interdiction d’approcher les bâtiments du SAN à moins de 100
+mètres, qu’il lui soit fait interdiction de contacter personnellement les collaborateurs du
+SAN, qu’il lui soit ordonné de se soumettre à un traitement médical ou à des
+contrôles dans la mesure utile à dire de justice et que soit ordonnée toute mesure utile
+à la surveillance des mesures précitées, et plus subsidiairement, à l’annulation
+de l’ordonnance, la cause étant renvoyée à l’autorité inférieure
+pour nouvelle décision dans le sens des considérants à intervenir. En tout état,
+il a conclu à l’allocation d’une indemnité en faveur de son défenseur d’office
+d’un montant fixé à dire de justice mais non inférieur à 1'800 fr. (hors TVA).
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) contre une
+décision du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 222 et 393
+al. 1 let. c CPP), par le détenu qui a qualité pour recourir (art. 222 et 382 al.
+1 CPP), et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+L’ordonnance attaquée se fonde notamment
+sur le risque de passage à l’acte (art. 221 al. 2 CPP).
+2.2
+Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d’avoir commis un crime ou un délit et qu’il y a sérieusement lieu de craindre
+qu’il se soustraie à la procédure pénale ou à la sanction prévisible en
+prenant la fuite (let. a), qu’il compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuve (let. b) ou qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre (let. c). En outre, selon l’art. 221
+al. 2 CPP, la détention peut être ordonnée s’il y a sérieusement lieu de craindre
+qu’une personne passe à l’acte après avoir menacé de commettre un crime grave.
+Selon la jurisprudence, une détention ordonnée en application de l’art. 221 al.
+2 CPP a pour objectif d'éviter la concrétisation d'un crime, mais non d'un délit (ATF
+137 IV 122 c. 5.2, JT 2012 IV 79). Dans ce cas, la condition du grave soupçon est inopérante
+et doit être remplacée par un risque concret de passage à l'acte (Message du Conseil fédéral
+relatif à l'unification du droit de la procédure pénale du 21 décembre 2005, FF 2006
+pp. 1057 ss, spéc. p. 1211; Moreillon/Parein-Reymond, Petit Commentaire du Code de procédure
+pénale, Bâle 2013, n. 48 ad art. 221 CPP). La jurisprudence fédérale exige que
+le pronostic soit très défavorable. Il n’est toutefois pas nécessaire que la personne
+soupçonnée se soit déjà livrée à des préparatifs concrets en vue de
+commettre les faits redoutés. Il suffit que, sur la base d’une évaluation globale de
+la situation personnelle de la personne soupçonnée et des circonstances d'espèce, la probabilité
+d’un passage à l'acte puisse être considérée comme très élevée
+(ATF 140 IV 19 c. 2.1.1; ATF 137 IV 122 c. 5.2, JT 2012 IV 79; Schmocker, op. cit., n. 22
+ad art. 221 CPP et les références citées). En particulier en cas de menace de crime de
+violence, il y a lieu de prendre en compte l’état psychique de la personne soupçonnée,
+respectivement son imprévisibilité ou son agressivité (ATF 140 IV 19 c. 2.1.1; ATF 137
+IV 122 c. 5.2, JT 2012 IV 79). Plus l’acte délictueux dont on craint la commission est
+grave, plus une mise en détention se justifie si les faits à disposition ne permettent pas
+d’estimation précise du risque de passage à l’acte (ATF 140 IV 19 c. 2.1.1 et les
+références citées).
+2.3
+En l’espèce, s’il est vrai que
+le recourant n’a pas d’antécédents de violence physique et qu’il prétend
+ne pas vouloir mettre ses menaces à exécution, il n’en demeure pas moins que l’arsenal
+découvert à son domicile lors de la perquisition est particulièrement inquiétant.
+En effet, le recourant avait bel et bien réuni les moyens de mettre ses menaces à exécution,
+ce qu’il pourrait facilement faire à nouveau s’il venait à être libéré.
+Dans ces circonstances, eu égard au trouble de la personnalité du recourant mis en évidence
+dans le rapport d’expertise du 28 novembre 2012, qui relève une intolérance à
+la frustration et une impulsivité qui peut se traduire par des actes de violence, et eu égard
+au caractère répété du comportement agressif et menaçant du recourant, il existe
+un risque de passage à l’acte suffisamment concret en l'état pour justifier la détention
+provisoire de ce dernier.
+Quoi qu'il en soit, seuls les résultats d’une nouvelle expertise psychiatrique, qui va être
+ordonnée par la procureure, permettront d'évaluer la dangerosité et le risque de passage
+à l’acte du recourant. Aucune mesure de substitution ne saurait dès lors entrer en considération
+à ce stade, d’autant moins que le recourant n’a pas tiré les leçons de sa
+première condamnation.
+3.
+3.1
+Concernant le respect du principe de la proportionnalité,
+l’art. 212 al. 3 CPP prévoit que la détention provisoire ne doit pas durer plus longtemps
+que la peine privative de liberté prévisible. La proportionnalité de la détention
+provisoire doit être examinée au regard de l’ensemble des circonstances concrètes
+du cas d’espèce (ATF 133 I 168 c. 4.1 et les arrêts cités). A cet égard, il
+est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle n’est
+pas très proche de la durée de la peine privative de liberté à laquelle il faut s’attendre
+concrètement en cas de condamnation (TF 1B_411/2011 du 31 août 2011 c. 4.1; ATF 133 I 168 c.
+4.1; ATF 132 I 21 c. 4.1). Toutefois, le fait que la peine encourue puisse être assortie du sursis,
+total ou partiel, n'est pas déterminant sous l'angle de la proportionnalité (ATF 133 I
+270 c. 3.4.2).
+Se pose la question de savoir si l’art. 212 al. 3 CPP est applicable dans le cas particulier de
+la détention provisoire fondée sur le risque de passage à l’acte. En effet, une
+telle détention ne présuppose pas nécessairement qu’une instruction pénale
+soit en cours contre la personne détenue. Par conséquent, la durée de la peine privative
+de liberté à laquelle il faut s’attendre concrètement en cas de condamnation ne
+saurait être un critère adéquat pour limiter la durée de la détention provisoire
+fondée sur le risque de passage à l’acte, si une instruction pénale n’est
+pas ouverte contre le détenu. Dans un tel cas, se basant sur une application analogique des conditions
+qui prévalent en cas de cautionnement préventif (art. 66 CP), une partie de la doctrine estime
+que la durée maximale de la détention provisoire ne saurait dépasser deux mois (Hug/Scheidegger,
+in: Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozessordnung, 2
+e
+éd., Zurich/Bâle 2014, n. 46 ad art. 221 CPP; Schmid, Schweizerische Strafprozessordnung, Praxiskommentar,
+2
+e
+éd., Zürich/Saint-Gall 2013, n. 8 ad art. 226 CPP). Le Tribunal fédéral a laissé
+indécise la question de savoir si, respectivement à quelles conditions, l’art. 212 al.
+3 CPP limitait la détention provisoire fondée sur le risque de passage à l’acte,
+lorsqu’une instruction pénale était ouverte contre la personne détenue en raison
+des menaces proférées par cette dernière (TF 1B_345/2013 du 28 octobre 2013 c. 5.2).
+Quoi qu’il en soit, si la détention provisoire fondée sur le risque de passage à
+l’acte est justifiée tant que subsiste le danger (Schmid, op. cit., n. 8 ad art. 226
+CPP; Hug/Scheidegger, op. cit., n. 45 ad art. 221 CPP), le principe de la célérité (art.
+5 CPP) commande toutefois une clarification particulièrement rapide de la dangerosité de la
+personne détenue, respectivement du sérieux de la menace, et dans les cas de menaces pénalement
+répréhensibles, une instruction menée avec particulièrement de diligence (Forster,
+in : Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung,
+Jugendstrafprozessordnung, 2
+e
+éd.,
+Bâle 2014, n. 18 ad art. 221 CPP et les réf. cit.). La détention provisoire fondée
+sur le risque de passage à l’acte constitue en effet une mesure d’urgence qui, aussitôt
+que possible, devra être levée au profit de mesures moins radicales, telles que le cautionnement
+préventif au sens de l’art. 66 CP ou le placement à des fins d’assistance au sens
+des art. 426 ss CC (Schmid, op. cit., n. 8 ad art. 226 CPP ; Hug/Scheidegger, op. cit., n. 46 ad
+art. 221 CPP; Schmocker, in: Kuhn/Jeanneret [éd.], Code de procédure pénale suisse, Commentaire
+romand, Bâle 2011, n. 24 ad art. 221 CPP et les réf. cit.; Moreillon/Parein-Reymond, op. cit.,
+n. 52 ad art. 221 CPP).
+3.2
+En l’espèce, comme déjà mentionné
+ci-dessus (cf. c. 2.3 supra), une expertise psychiatrique est nécessaire pour évaluer concrètement
+le risque de passage à l’acte du recourant. La procureure a annoncé que celle-ci serait
+ordonnée prochainement. L’instruction pénale ouverte contre le recourant se poursuit
+donc sans désemparer, de sorte qu’en l’état, le principe de la célérité
+est respecté. Quant aux mesures de substitution, elles ne sauraient entrer en considération
+à ce stade.
+Par ailleurs, le recourant est détenu depuis
+le 20 janvier 2015, soit depuis environ deux semaines. Compte tenu de ses antécédents –
+il a déjà été condamné à 180 jours-amende pour des faits similaires –
+et des charges qui pèsent sur lui, il s'expose à une peine d’une durée supérieure
+à celle de la détention provisoire ordonnée, étant précisé que l’art.
+180 CP (menaces) prévoit une peine privative de liberté de 3 ans au plus. Par conséquent,
+le principe de la proportionnalité est également respecté sous l’angle de l’art.
+212 al. 3 CPP.
+4.
+Il résulte de ce
+qui précède que le recours doit être rejeté et l'ordonnance entreprise confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt (art. 422 al. 1 CPP), par 880 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), et des frais
+imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à
+900 fr., plus la TVA par 72 fr., soit 972 fr. au total, seront mis à la charge du recourant, qui
+succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de V.________ ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 23 janvier 2015 est confirmée.
+III.
+L'indemnité
+allouée au défenseur d'office de V.________ est fixée à 972 fr. (neuf cent septante-deux
+francs).
+IV.
+Les
+frais d’arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité due
+au défenseur d’office de V.________, par
+972
+fr. (neuf cent septante-deux francs), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique de V.________ se soit améliorée.
+VI
+.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Guillaume Vionnet, avocat (pour V.________),
+-
+Ministère public central;
+et communiqué à :
+‑
+M. le Président du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement du Nord vaudois,
+-
+Service des automobiles et de la navigation,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
