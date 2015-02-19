@@ -1,0 +1,481 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2015___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2015 / 3"
+decided: "2015-02-19"
+published: "2015-02-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4809855"
+cites_law: ["switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-157.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2015 / 3
+
+## Regeste
+
+INCIDENT, NOUVEAU MOYEN DE FAIT, NOUVEAU MOYEN DE PREUVE, DÉPENS | 153 CPC, 154 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 16.02.2015 Jug-inc / 2015 / 3
+
+INCIDENT, NOUVEAU MOYEN DE FAIT, NOUVEAU MOYEN DE PREUVE, DÉPENS | 153 CPC, 154 CPC
+
+TRIBUNAL
+CANTONAL
+CO09.040145
+12/2015/XMD
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+A.Z.________
+,
+à [...],
+A.R.________
+et
+D.________
+,
+d'avec
+B.Z.________
+,
+toutes trois à [...].
+___________________________________________________________________
+Du
+19 février 2015
+__________________
+Composition
+:               M.
+Michellod
+,
+juge instructeur
+Greffier
+:              M.
+Glauser
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès ouvert devant la Cour civile
+par les demandeurs A.Z.________, A.R.________ et D.________ contre la défenderesse B.Z.________,
+selon demande du 2 décembre 2009, dont les conclusions, avec suite de frais et  dépens,
+sont les suivantes :
+"
+Principalement
+I.-
+La part réservataire des demandeurs est atteinte par les libéralités octroyées dans
+les dispositions de dernière volonté de feu C.Z.________, selon les termes du testament du
+8 novembre 1977, notamment l’octroi d’une rente mensuelle de Fr. 1'500.- indexée, prévue
+par l’article troisième lettre d) du testament ci-dessus et la jouissance gratuite d’un
+appartement sis au quatrième étage de l’immeuble de [...] à Nyon, prévue par
+l’article troisième lettre c) du testament ci-dessus, et lesdites libéralités sont
+réduites dans la mesure nécessaire à reconstituer la part réservataire des demandeurs
+(1/8 pour A.Z.________; 1/24 pour D.________ et 1/24 pour A.R.________), toutes précisions quant
+aux sommes lésant la part réservataire des demandeurs étant réservées pour la
+suite de la procédure.
+II.
+B.Z.________ est la débitrice des demandeurs
+et doit immédiat paiement à ceux-ci de la somme de Fr. 400'000.-, plus intérêt à
+5 % l’an dès le 2 décembre 2009, toute augmentation de conclusions étant expressément
+réservée.
+III.
+Principalement
+:
+Les demandeurs sont en outre libérés, dès le 1
+er
+décembre
+2009, de la charge instituée par feu C.Z.________ à l’article troisième, lettre
+d) du testament du 8 novembre 1977, selon lequel une rente viagère de mille cinq cents francs par
+mois, indexée chaque fin d’année pour l’année suivante à l’indice
+des prix à la consommation, doit être versée à B.Z.________.
+Subsidiairement
+:
+La charge instituée par feu C.Z.________ à l’article troisième, lettre d), du testament
+du 8 novembre 1977, selon lequel une rente viagère de mille cinq cents francs par mois, indexée
+chaque fin d’année pour l’année suivante à l’indice des prix à
+la consommation, doit être versée à B.Z.________, est caduque.
+IV.
+Les demandeurs sont en outre libérés,
+dès le 1
+er
+décembre 2009, de la charge instituée par feu C.Z.________ à l’article troisième,
+lettre c) du testament du 8 novembre 1977, selon lequel B.Z.________ jouit gratuitement, sa vie durant,
+de l’appartement sis au quatrième étage de l’immeuble de [...] à Nyon, qui
+appartenait à C.Z.________ de son vivant, et dont elle n’a à supporter que les abonnements
+à l’électricité et au téléphone.
+V.
+B.Z.________ est condamnée à régler
+un loyer usuel ou une indemnité d’occupation, fixé à dires d’expert, mais
+d’au moins Fr. 2'700.- par mois, dès le 1
+er
+décembre 2009, pour l’appartement qu’elle occupe dans l’immeuble de [...] à
+Nyon, qui était la propriété d’C.Z.________.",
+vu la réponse déposée le 18 février
+2010 par la défenderesse, qui conclut, avec suite de frais et dépens, au rejet des conclusions
+prises par les demandeurs,
+vu le second échange d’écriture,
+vu les déterminations des demandeurs du 8 septembre 2010,
+vu les novas déposés le 27 janvier 2011 par les demandeurs, qui complètent leurs conclusions,
+avec suite de frais et dépens, comme suit :
+"
+VI.-
+Les demandeurs ne sont pas les débiteurs de B.Z.________ des sommes suivantes :
+-
+Fr. 2'984.85, plus intérêt à 5
+% l’an dès le 1
+er
+janvier 2010;
+-
+Fr. 2'990.60, plus intérêt à 5
+% l’an dès le 1
+er
+février 2010;
+-
+Fr. 2'990.60, plus intérêt à 5
+% l’an dès le 1
+er
+mars 2010;
+-
+Fr. 610.- à titre de dépens, plus intérêt
+et frais.
+VII.-
+Ordre est donné à M. le Préposé de l’Office des poursuites du district de Nyon
+de radier la poursuite no [...].",
+vu l’audience préliminaire du 28 janvier
+2011,
+vu le chiffre IV de l’ordonnance sur preuves du 28 octobre 2011 nommant en qualité d’expert,
+l’un à défaut de l’autre, [...] et [...], et le chargeant de se prononcer sur les
+allégués nos 42, 45, 47 à 50, 52, 93 et 154 à 164,
+vu le rapport d’expertise de l’expert [...] du 26 juillet 2012,
+vu l’avis du juge instructeur du 10 décembre 2012 ordonnant un complément d’expertise,
+vu le prononcé du juge instructeur du 3 juillet 2013,
+vu la triplique après réforme du 4 septembre 2013 introduisant les allégués nos 185
+à 231 nouveaux et augmentant la conclusion I principale de la demande du 2 décembre 2009 comme
+suit :
+"
+I.              La part réservataire
+des demandeurs est atteinte par les libéralités octroyées dans les dispositions de dernière
+volonté de feu C.Z.________, selon les termes du testament du 8 novembre 1977, notamment l'octroi
+d'une rente mensuelle de Fr. 1'500.- indexée, prévue par l'article troisième lettre d)
+du testament ci-dessus et la jouissance gratuite d'un appartement sis au quatrième étage de
+l'immeuble de [...] à Nyon, prévue par l'article troisième lettre c) du testament ci-dessus,
+et lesdites libéralités sont réduites dans la mesure nécessaire à reconstituer
+la part réservataire des demandeurs (3/16 pour A.Z.________ ; 1/16 pour D.________ et 1/16 pour
+A.R.________), toutes précisions quant aux sommes lésant la part réservataire des demandeurs
+étant réservées pour la suite de la procédure.",
+vu les déterminations sur triplique du 30 septembre 2013,
+vu l'audience préliminaire du 14 novembre 2013,
+vu le chiffre IV de l’ordonnance sur preuves du même jour nommant [...] en qualité d’expert
+et le chargeant de se prononcer sur les allégués nos 194 et 227,
+vu le rapport complémentaire et après réforme de l'expert [...], déposé le 25
+mars 2015,
+vu la requête de réforme du 10 novembre 2014 déposée par les demandeurs et requérants
+A.Z.________, A.R.________ et D.________, dont les conclusions, avec suite de frais et dépens, sont
+les suivantes:
+"
+I.-
+La requête de réforme est admise;
+II.-
+Les requérants sont autorisés à se réformer à la veille du délai de triplique,
+aux fins de compléter cette écriture, par l'introduction des allégués suivants et
+des pièces 50 et 51 ci-jointes :
+232.-
+Selon l'inventaire successoral du 1
+er
+mai 1978, les trois immeubles de la succession figurent pour une valeur globale de Fr. 588'000.-, correspondant
+à 80% de leur valeur fiscale.
+Preuve
+: pièce 102
+233.-
+Il s'agit des immeubles suivants :
+·
+parcelle [...] : restée en indivision
+·
+parcelle [...] : restée en indivision
+·
+parcelle de [...] : vendue lors du partage
+Preuve
+: pièce 38, pages 1, 9 et 10
+234.-
+En 1985, les trois héritiers A.Z.________
+,
+B.R.________ et D.Z.________ ont décidé
+d'édifier une construction sur la parcelle d'[...].
+Preuve
+: pièce 50
+235.-
+L'architecte a établi les différentes
+valeurs d'une part du terrain et du garage existants et d'autre part du coût des constructions projetées,
+de la manière suivante :
+Terrain :               Fr. 240'000.-
+Garage existant :              Fr. 50'750.-
+Construction
+projetée :              Fr. 348'000.-
+Pavillon de jardin :               38'000.-
+Aménagements extérieurs, taxes, parking,
+clôtures etc.              Fr.
+14'000.-
+Frais, notaire…              Fr.
+35'000.-
+Valeur de la propriété :
+Fr. 725'750.-
+Preuve
+: pièce 50
+236.-
+En 1985, avant la construction projetée,
+la valeur vénale de la propriété d'[...] était de Fr. 290750.-.
+Preuve
+: pièce 50
+237.-
+En 1988, la Commission d'estimation fiscale des
+immeubles a avisé l'hoirie C.Z.________ qu'ensuite d'agrandissement, la parcelle 100 d'[...] avait
+une nouvelle valeur de Fr. 440'000.-, l'ancienne valeur, avant travaux étant de Fr. 40'000.-.
+Preuve
+: pièce 51
+III.-
+Un délai est fixé aux requérants pour verser les dépens frustraires qui seront fixés
+à dires de justice.",
+vu le bordereau de deux pièces accompagnant cette requête,
+vu l'avis du 28 novembre 2014 par lequel le juge instructeur a notifié à l’intimée
+une copie de la requête incidente, lui fixant un délai au 17 décembre 2014 pour faire
+la déclaration prévue à l'art. 148 CPC-VD (Code de procédure civile du 14 décembre
+1966, dans sa teneur au 31 décembre 2010) ou indiquer les mesures d'instruction demandées,
+dit avis valant interpellation au sens de l'art.
+149
+al. 4 CPC-VD pour toutes les parties,
+vu le courrier du 4 décembre 2014, par lequel le conseil de la défenderesse et intimée
+B.Z.________ déclare ne pas s'opposer, sous réserve de la fixation des dépens frustraires,
+à la réforme requise et, partant, à ce qu'il soit statué sans audience,
+vu le courrier du 17 décembre 2014, par lequel les requérants déclarent ne pas s'opposer
+à ce qu'il soit statué sans audience,
+vu l'avis du juge instructeur du 19 décembre 2014, par lequel celui-ci invite les parties à
+se déterminer sur la question des dépens d'ici au 19 janvier 2015,
+vu les courriers respectifs des parties se déterminant, dans le délai fixé, sur la question
+des dépens,
+vu les autres pièces du dossier,
+vu les art. 19, 146 ss, 153 ss, 317b CPC-VD ainsi que 404 al. 1 CPC (Code de procédure civile suisse
+du 19 décembre 2008, RS 272);
+attendu qu'à teneur de l'art. 404 al. 1 CPC, les procédures pendantes avant l'entrée en
+vigueur du nouveau droit demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance,
+que
+le jugement incident rendu dans le cadre d'une procédure au fond soumise à l'ancien droit de
+procédure est également régi par cet ancien droit
+(CREC
+II 20 juillet 2011/66 c. 1a; Haldy, La nouvelle procédure civile suisse, p. 3, n. 7; Tappy,
+Le droit transitoire applicable lors de l'introduction de la nouvelle procédure civile unifiée,
+in
+JT 2010 III 11, spéc. pp. 36 à 38),
+qu'en
+l'espèce, la procédure au fond était en cours lors de l'entrée en vigueur du CPC
+le 1er janvier 2011, de sorte qu'elle demeure régie par l'ancien droit, soit notamment le CPC-VD,
+de même que le présent jugement incident;
+attendu
+qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un délai,
+corriger ou compléter sa procédure, peut, jusqu'à l'expiration du délai fixé
+pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et
+317b
+CPC-VD),
+que
+la demande de réforme doit indiquer les motifs et l'étendue de la réforme demandée
+(art. 154 al. 2 CPC-VD),
+qu'en d'autres termes, la partie qui sollicite la réforme doit préciser dans sa requête
+les opérations nouvelles qu'elle se propose de faire dans le délai dont elle demande restitution
+et les points sur lesquels elle entend corriger ou compléter sa procédure, en particulier les
+faits qu'elle veut alléguer et les preuves qu'elle entend administrer (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+ème
+éd., n. 1 ad art. 154 CPC-VD),
+qu'elle doit en outre exposer les motifs qui feraient apparaître la réforme sollicitée
+comme nécessaire ou utile à la solution du litige (
+ibidem
+),
+qu'en outre, la même partie ne peut se réformer que deux fois au plus dans la même instance
+(art. 157 CPC-VD),
+qu'en l'espèce, la requête de réforme a été déposée avant l'expiration
+du délai fixé pour le dépôt des mémoires de droit,
+que les motifs et l'étendue de la réforme sollicitée résultent de la requête,
+conformément à l'art. 154 al. 1 CPC-VD,
+que celle-ci est au surplus conforme aux exigences des art. 19 et
+147
+al. 1 CPC-VD, applicables en vertu de l'art. 154 al. 2 CPC-VD,
+qu'elle contient six allégués nouveaux que les requérants entendent introduire dans la
+procédure et les offres de preuve y afférentes,
+que les requérants ne se sont réformés qu'une fois au cours de la procédure,
+qu'elle est, dès lors, recevable en la forme;
+attendu
+que le juge peut statuer sur les conclusions incidentes sans plus ample instruction et sans tenir d'audience,
+dès lors que l'intimée a déclaré ne pas s'y opposer (art. 148 CPC-VD);
+attendu que la réforme n'est accordée que si la partie requérante y a un intérêt
+réel et si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et
+3 CPC-VD),
+que la partie requérante doit établir d'une part, son intérêt réel à la
+preuve des faits allégués, c'est-à-dire leur pertinence, et d'autre part, son intérêt
+réel à l'administration des preuves offertes, c'est-à-dire l'utilité que présente
+la preuve offerte pour établir les faits allégués (JT 1988 III 70 c. 4),
+que l'intérêt réel doit être apprécié au regard de l'ensemble des circonstances,
+notamment de la pertinence des faits allégués, de leur vraisemblance, de la force et de l'utilité
+des preuves offertes, ainsi que de la durée probable de la procédure probatoire consécutive
+à la réforme (JT 2002 III 190 et les réf. cit.; Poudret/Haldy/Tappy, op. cit., n. 7 ad
+art. 153 CPC-VD),
+que la réforme doit être refusée lorsque les faits qui font l'objet de la requête
+sont dénués de pertinence ou ont déjà été allégués sous une autre
+forme en procédure (JT 2003 III 114 c. 4; Poudret/Haldy/Tappy, loc. cit.),
+que la pertinence des faits allégués (art. 163 al. 2 CPC-VD) et la nécessité des
+preuves offertes (art. 5 al. 2 CPC-VD) doivent être appréciées plus strictement que dans
+l'ordonnance sur preuves (JT 1988 III 70 c. 4),
+qu'en revanche, le droit à la réforme n'est pas subordonné à l'absence de faute de
+la partie, car il a été précisément institué pour permettre au plaideur négligent
+de rattraper un délai ou rectifier une erreur, le jugement reposant ainsi sur un état de fait
+complet et autant que possible conforme à la réalité (BGC automne 1966, p. 719; Poudret/Haldy/Tappy,
+op. cit., n. 2 ad art. 153 CPC-VD);
+attendu qu’en l’espèce, dans le cadre de la procédure au fond, les requérants
+font valoir que leurs parts réservataires dans la succession de feu leur père, respectivement
+grand-père, C.Z.________, ont été lésées par les libéralités octroyées
+dans le testament du
+de cujus
+en faveur de l’intimée, sa dernière épouse, savoir une rente mensuelle et la jouissance
+gratuite de l’appartement conjugal,
+qu’ils entendent en substance introduire, par le biais de la réforme, six allégués
+et deux moyens de preuve destinés à établir la valeur vénale de l'un des trois immeubles
+de la succession de feu C.Z.________, de manière plus précise que ne l'a fait l'expert dans
+son rapport complémentaire et après réforme,
+que
+ces allégués et les moyens de preuve qui s'y rapportent ne semblent pas dénués de
+pertinence pour juger du litige, de sorte que les requérants ont un intérêt à leur
+introduction en procédure,
+que,
+pour le surplus, la requête n'apparaît pas dilatoire, d'autant que les requérants n'ont
+aucun intérêt à faire traîner le procès et que des mesures d'instruction complémentaires
+ne seront en principe pas nécessaires,
+que
+l'intimée ne s'est, du reste, pas opposée au principe de la réforme,
+qu'il se justifie, ainsi, d'admettre
+la requête et d'autoriser les requérants à se réformer
+à
+la veille du délai pour le dépôt des mémoires de droit – qui a d'ores et déjà
+été reporté
+sine
+die
+–
+pour
+compléter la procédure par l'introduction des allégués
+nos
+232 à 237 figurant dans leur requête de réforme, ainsi que par la production des pièces
+50 et 51 jointes à cette requête
+,
+qu'un délai de vingt jours dès la réception du présent jugement sera imparti aux
+requérants pour déposer une écriture complémentaire contenant les allégués
+nouveaux 232 à 237 et les offres de preuve y afférentes tels que figurant dans leur requête
+de réforme,
+qu’après le dépôt de dite écriture, un délai sera imparti à l’intimée
+pour se déterminer sur ces allégués et, le cas échéant, introduire des allégations
+et des preuves connexes
+à
+celles autorisées par la réforme (JT 1981 III 133; Poudret/Haldy/Tappy, op. cit., n. 1 ad art.
+155 CPC-VD);
+que
+tous les actes du procès peuvent et doivent être maintenus (art. 155 al. 1 CPC-VD);
+attendu
+que la partie qui obtient la réforme est chargée des dépens frustraires, à moins
+qu'elle n'établisse n'avoir pu connaître en temps utile le fait qui l'incite à corriger
+la procédure (art. 156 al. 2 CPC-VD),
+qu'en
+l'espèce, l'échange d'écritures s'est terminé le 1
+er
+octobre 2013, par le dépôt des déterminations sur triplique de l'intimée,
+que les requérants soutiennent que c'est le rapport complémentaire et après réforme
+de l'expert, déposé le 25 mars 2015, qui a suscité la rédaction des  allégués
+nos 232 à 237,
+qu'ils n'ont, cependant, pas fait valoir qu’ils n’ont pas pu connaître en temps utile
+les faits et moyens de preuve qu’ils entendent introduire par la réforme,
+que s'ils avaient fait preuve de la diligence requise, les faits et moyens de preuve dont ils se prévalent
+auraient pu être allégués et déposés lors de l'échange des écritures,
+que peu importe, à cet égard, qu'aucune opération ne doive être annulée par
+la réforme,
+qu'en effet, l'opinion des requérants selon laquelle des dépens frustraires ne sont octroyés
+que dans l'hypothèse où des opérations seraient devenues inutiles ne saurait être
+suivie,
+que la réforme impliquera pour l'intimée de se déterminer sur l'écriture complémentaire
+de la requérante, mais ne devrait pas engendrer d'autres opérations d'instruction, les offres
+de preuves se limitant à des pièces,
+que, bien que l'intimée soutienne avoir commencé à rédiger son mémoire de droit,
+elle n'établi pas qu'elle devrait le refaire complètement étant donné qu'il n'a pas
+été déposé et qu'
+a
+priori
+la réforme n'impliquera que des modifications
+minimes,
+que, par conséquent, les requérants doivent verser à l'intimée, solidairement entre
+eux, des dépens frustraires qui peuvent raisonnablement être arrêtés à 1'000
+francs;
+attendu que les frais de la procédure incidente, arrêtés à 900 fr., sont mis à
+la charge des requérants, solidairement entre eux, en application des
+art.
+4 al. 1, 5 al. 1 et 170a al. 1 aTFJC (ancien tarif des frais judiciaires en matière civile
+du 4 décembre 1984, dans sa version au 31 décembre 2010, applicable en vertu de l’art.
+99 al. 1 TFJC [tarif des frais judiciaires civils du 28 septembre 2010 – TFJC, RSV 270.11.5]);
+attendu que le juge statue librement sur l’adjudication des dépens de l’incident soulevés
+par la requête de réforme (art. 156 al. 3 CPC-VD),
+que les dépens sont alloués à la partie qui a obtenu l'adjudication de ses conclusions
+(art. 92 al. 1 CPC-VD),
+qu'en
+l'espèce, l'intimée ne s'est pas opposée à la réforme requise,
+qu'il n'y a, dès lors, pas lieu de lui faire supporter des dépens de l'incident.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 11 novembre 2014 par les requérants A.Z.________,
+A.R.________ et D.________ dans la cause qui les oppose à l'intimée B.Z.________ est admise.
+II.
+Les requérants sont autorisés à se réformer pour introduire en procédure les
+allégués nouveaux 232 à 237 figurant dans leur requête, avec les offres de preuve
+qu'ils comportent.
+III.
+Un délai de
+vingt
+jours
+dès réception du présent
+jugement est imparti aux requérants pour déposer une écriture complémentaire conforme
+au chiffre II ci-dessus.
+IV.
+Un délai sera fixé ultérieurement
+à l'intimée pour se déterminer sur cette écriture et, au besoin, introduire des allégations
+strictement connexes.
+V.
+Tous les actes du procès sont maintenus.
+VI.
+Les
+requérants A.Z.________, A.R.________ et D.________ verseront à l'intimée B.Z.________,
+solidairement, la somme de
+1'000 fr. (mille
+francs) à titre de dépens frustraires.
+VII.
+Les frais de la procédure incidente, arrêtés à 900 fr. (neuf cents francs), sont
+mis à la charge des requérants.
+VIII.
+Il n'est pas alloué de dépens de l'incident.
+Le
+juge instructeur :              Le greffier :
+X.
+Michellod              Y. Glauser
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils des parties.
+Un
+recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision, en tant qu'elle concerne les frais et les dépens,
+en déposant au greffe du Tribunal cantonal un mémoire motivé. La décision objet du
+recours doit être jointe.
+Le greffier :
+Y. Glauser
