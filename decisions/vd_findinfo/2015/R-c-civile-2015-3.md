@@ -1,0 +1,183 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2015___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2015 / 3"
+decided: "2015-03-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20150302101556189_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2015 / 3
+
+## Regeste
+
+RÉCUSATION, CHOSE JUGÉE, OFFRE DE PREUVE, INDICE | 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 59 al. 2 let. b CPC (CH), 8a al. 3 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 03.03.2015 Réc-civile / 2015 / 3
+
+RÉCUSATION, CHOSE JUGÉE, OFFRE DE PREUVE, INDICE | 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 59 al. 2 let. b CPC (CH), 8a al. 3 CDPJ
+
+TRIBUNAL
+CANTONAL
+D114.015915 /
+KC14.051680
+4
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 3 mars 2015
+___________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Schwab Eggs
+*****
+Art.
+47 al. 1 let. f, 49 al. 1, 59 al. 2 let. e CPC; art. 8a al. 3 CDPJ
+Vu la requête de récusation déposée le 23 février 2015 par
+I.________
+(ci-après : le requérant) concernant
+A.________
+et
+S.________
+,
+Juges de paix du district de la Riviera – Pays-d'Enhaut (ci après : juge de paix),
+vu le prononcé le 19 février 2015 par le juge de paix S.________ de la mainlevée définitive
+d'une opposition formée par le requérant,
+vu le dossier en institution d'une mesure de curatelle en faveur du requérant, instruit par le juge
+de paix A.________,
+vu l'ordonnance de mesures d'extrême urgence rendue par ce magistrat le 26 février 2015 et
+ordonnant provisoirement le placement à des fins d'assistance du requérant,
+vu les pièces au dossier ;
+attendu qu'il s'agit de déterminer l'autorité compétente pour traiter la demande de récusation
+visant les juges de paix intimés,
+que l'art. 8a al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010, RSV 211.02)
+dispose que lorsque la demande de récusation vise un magistrat professionnel ou un vice-président,
+trois autres magistrats du même office judiciaire statuent sur ladite demande,
+que la Cour administrative est compétente pour statuer sur les demandes de récusation visant
+l'ensemble d'une autorité judiciaire de première instance ou la majorité de ses membres
+(art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC [règlement organique du Tribunal cantonal du 13 novembre
+2007, RSV 173.31.1]),
+qu'en l'espèce, la Justice de paix du district la Riviera – Pays-d'Enhaut comporte quatre
+magistrats professionnels,
+que le requérant demande la récusation de deux magistrats de cette autorité,
+qu'il convient dès lors d'appliquer l'art. 8a al. 3 CDPJ par analogie,
+que la cour de céans est ainsi compétente pour statuer comme autorité de première
+instance sur la demande de récusation du 23 février 2015,
+que la demande satisfait aux exigences de forme prévues par l'art. 49 al. 1 CPC (Code de procédure
+civile du 19 décembre 2008, RS 272),
+qu'elle est dès lors recevable quant à la forme ;
+attendu que le requérant reproche en substance au juge de paix A.________ de ne pas répondre
+à ses questions, de livrer ses données personnelles à ses adversaires directs et d'avoir
+ordonné une expertise psychiatrique complémentaire,
+que ses autres griefs contre ce magistrat sont inintelligibles,
+que, sur le fond, bien que le requérant ne précise pas de quelle disposition il se prévaut,
+on comprend qu'il invoque la partialité du magistrat intimé pour des motifs autres que ceux
+énumérés aux lettres a à e de l'art. 47 al. 1 CPC, de sorte que c'est à
+la lumière de l'art. 47 al. 1 let. f CPC qu'il faut examiner sa demande,
+qu'à teneur de cette dernière disposition, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101) et 6 §1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l’homme et des libertés fondamentales (RS 0.101), s'oppose
+à ce que des circonstances extérieures au procès puissent influencer le jugement d'une
+manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012
+du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références
+citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du 4 juin
+2012 c. 2.1; ATF 138 I 1 c. 2.2 et les références citées),
+que la partie qui entend obtenir la récusation d'un magistrat doit rendre vraisemblable les faits
+qui motivent sa demande (art. 49 al. 1 CPC),
+qu'il faut plus que de simples affirmations de la partie demandant la récusation, qui devra au moins
+apporter des indices de la véracité de ses affirmations (Tappy, Code de procédure civile
+commenté, Bâle 2011, n. 25 ad art. 49 CPC),
+qu'en l'espèce, par courrier du 13 février 2015, le magistrat intimé s'est adressé
+à l'expert psychiatre afin de lui soumettre des éléments complémentaires et de lui
+demander de lui indiquer si ceux-ci étaient de nature à modifier les réponses apportées
+dans son expertise du 29 décembre 2014,
+que cela n'est pas propre à démontrer une quelconque prévention du magistrat intimé,
+celui-ci ayant au contraire veillé à bénéficier d'une expertise psychiatrique prenant
+en compte tous les éléments du dossier,
+que, s'agissant des autres griefs du requérant, celui-ci n'apporte aucune preuve, ni même aucun
+indice de ce qu'il allègue,
+qu'au demeurant, il n'appartient pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+que les griefs concernant le juge de paix A.________ doivent dès lors être rejetés ;
+attendu que le requérant demande également la récusation du juge de paix S.________, en
+particulier concernant le prononcé de mainlevée du 19 février 2015 dans la cause
+KC14.051680,
+qu'en outre, le requérant articule divers reproches en lien avec une mesure de curatelle instituée
+en faveur de [...],
+que selon l’art. 59 al. 1 CPC, le tribunal n’entre en matière que sur les demandes et
+requêtes qui satisfont aux conditions de recevabilité de l’action,
+qu'il faut notamment que le litige n’ait pas fait l’objet d’une décision entrée
+en force (art. 59 al. 2 let. e CPC),
+qu'en l'espèce, la Cour administrative a déjà eu l'occasion de rejeter les griefs du requérant
+contre ce magistrat dans un arrêt du 27 janvier 2015/2,
+que la demande du requérant ne semble dès lors pas recevable,
+que cette question peut toutefois demeurer indécise, compte tenu du fait que le requérant se
+contente de soulever des accusations sans apporter le moindre indice à même de les étayer,
+que les griefs concernant le juge de paix S.________ doivent également être rejetés, dans
+la faible mesure de leur recevabilité ;
+attendu qu'en définitive, aucun motif de récusation n'étant réalisé, il y a
+lieu de rejeter la demande du requérant, dans la mesure où elle est recevable,
+que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La requête de récusation déposée le 23 février 2015 par I.________ est rejetée,
+dans la mesure où elle est recevable.
+II.
+L'arrêt est rendu sans frais.
+III.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. I.________, personnellement,
+-
+A.________, Juge de paix du district de la Riviera – Pays-d'Enhaut,
+-
+S.________, Juge de paix du district de la Riviera – Pays-d'Enhaut.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Me [...],
+-
+Mme et M. [...],
+-
+Mme et M. [...].
+La greffière :
