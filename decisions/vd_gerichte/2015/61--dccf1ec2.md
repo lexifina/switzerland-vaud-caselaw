@@ -1,0 +1,696 @@
+---
+decision_id: "vd_gerichte_f202b27e-44db-4d31-a75f-5a65b75c00fc"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CCUR"
+docket: "61"
+decided: "2015-03-09"
+published: "2015-04-24"
+language: "fr"
+legal_area: "Limitation de l'autorité parentale"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/f202b27e-44db-4d31-a75f-5a65b75c00fc"
+cites_decisions: ["4P.263/2004", "5A_261/2013", "5A_321/2014", "5A_448/2008", "5A_520/2008", "5A_586/2012", "5A_716/2010", "5C.194/2004", "5P.131/2006", "BGE 118 II 21", "BGE 123 III 445", "BGE 127 III 295", "BGE 130 III 585", "BGE 131 III 209", "BGE 140 III 385"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-273.md", "switzerland/bund/acts/210/art-274.md", "switzerland/bund/acts/210/art-306.md", "switzerland/bund/acts/210/art-307.md", "switzerland/bund/acts/210/art-314.md", "switzerland/bund/acts/210/art-445.md", "switzerland/bund/acts/210/art-446.md", "switzerland/bund/acts/210/art-450.md", "switzerland/bund/acts/210/art-450a.md", "switzerland/bund/acts/210/art-450d.md", "switzerland/bund/acts/210/art-450f.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-229.md", "switzerland/bund/acts/272/art-261.md", "switzerland/bund/acts/272/art-317.md"]
+---
+
+# Limitation de l'autorité parentale
+
+## Text
+
+TRIBUNAL CANTONAL
+LN11.017045-141128
+61
+CHAMBRE DE S CURATELLE S
+___________________________________
+Arrêt du 9 mars 2015
+__________________
+Composition : Mme KÜHNLEIN, présidente
+M. Colombini et Mme Courbat, juges
+Greffier : Mme Villars
+*****
+Art. 273, 274 al. 2, 445, 450 ss CC
+La Chambre des curatelles du Tribunal cantonal prend séance
+pour statuer sur le recours interjeté par A.T.________, à [...], contre
+l’ordonnance de mesures provisionnelles rendue le 5 juin 2014 par le Juge
+de paix du district de Nyon dans la cause concernant l’enfant B.T.________.
+Délibérant à huis clos, la cour voit :
+251
+
+- 2 -
+En fait :
+A. Par ordonnance de mesures provisionnelles du 5 juin 2014, le
+Juge de paix du district de Nyon (ci-après : juge de paix) a dit que
+G.________ exercera son droit de visite sur sa fille B.T.________ par
+l’intermédiaire du Point Rencontre, deux fois par mois, pour une durée de
+deux heures, sans autorisation de sortir des locaux, en fonction du
+calendrier d’ouverture et conformément au règlement et aux principes de
+fonctionnement du Point Rencontre, qui sont obligatoires pour les deux
+parents (I), dit que le Point Rencontre reçoit copie de la décision,
+détermine le lieu des visites et en informe les parents par courrier, avec
+copie aux autorités compétentes (Ibis), mis les frais de la décision, par 300
+fr., par moitié à la charge de chacune des parties (II) et déclaré
+l’ordonnance immédiatement exécutoire nonobstant recours (III).
+En droit, le premier juge a considéré qu’il se justifiait de
+maintenir le droit de visite de G.________ sur sa fille et de limiter l’exercice
+de ce droit au Point Rencontre pour une durée de deux heures à l’intérieur
+des locaux. Il a retenu en substance qu’un risque d’attouchement pour
+B.T.________ avait été rendu vraisemblable par le rapport de la Brigade des
+mineurs et des mœurs de la Police cantonale vaudoise, qu’une enquête
+pénale était en cours, qu’une expertise pédopsychiatrique d’B.T.________
+avait été mise en oeuvre, que le contact entre G.________ et sa fille avait
+été difficile à établir, que la mineure avait mis de longs mois avant de
+pouvoir nouer une relation avec son père, qu’en décembre 2013, les
+parents avaient dit que les visites au Point Rencontre se passaient bien et
+que l’enfant y trouvait du plaisir, qu’il ne fallait pas rompre ce contact, que
+la mise en place de visites surveillées garantirait la complète sécurité
+d’B.T.________ et que l’expert mis en œuvre devait lui faire part de tout
+élément qui nécessiterait une modification de ce droit de visite surveillé et
+fermé.
+
+- 3 -
+B. Par acte motivé du 19 juin 2014, A.T.________ a recouru contre
+cette ordonnance en concluant, avec dépens, à la suspension du droit de
+visite de G.________ sur sa fille B.T.________ et à ce que les frais de
+première instance soient mis à la charge du prénommé. Elle a requis
+l’effet suspensif et l’octroi de l’assistance judiciaire. A l’appui de son
+écriture, elle a produit un bordereau de pièces.
+Par courrier du 20 juin 2014, A.T.________ a encore transmis
+deux pièces à l’appui de son recours.
+Par décision du 20 juin 2014, le Juge délégué de la Chambre
+des curatelle (ci-après : juge délégué) a refusé d’accorder l’effet suspensif
+au recours.
+Par courrier du 4 juillet 2014, A.T.________ a déposé une copie
+du certificat médical établi le 20 juin 2014 par la Dresse [...],
+pédopsychiatre FMH à [...].
+Par ordonnance du 7 juillet 2014, le Tribunal fédéral a accordé
+l’effet suspensif au recours et suspendu le droit de visite accordé à
+G.________ par la décision litigieuse pour la durée de la procédure fédérale.
+Par arrêt du 27 novembre 2014, le Tribunal fédéral a déclaré le
+recours interjeté par A.T.________ et B.T.________ contre la décision du juge
+délégué du 20 juin 2014 irrecevable.
+Le 19 décembre 2014, A.T.________ a déposé un bordereau de
+pièces contenant notamment un certificat médical établi le 11 décembre
+2014 par la Dresse [...], pédopsychiatre FMH à [...] et un certificat médical
+établi le 10 décembre 2014 par le Dr [...], pédiatre FMH à [...].
+A.T.________ a développé ses moyens dans un courrier du 13
+janvier 2015.
+
+- 4 -
+Par courrier du 12 janvier 2015, G.________ a conclu à la
+confirmation de la reprise de son droit de visite sur sa fille. Il a produit
+deux pièces, dont l’avis de prochaine clôture de l’enquête pénale ouverte
+contre lui pour actes d’ordre sexuel avec des enfants rendu le 21 août
+2014 par le Ministère public de l’arrondissement de Lausanne (ci-après :
+Ministère public).
+Interpellée, l’autorité de protection a, par courrier du 19
+janvier 2015, déclaré s’en remettre à justice.
+Dans sa réponse du 29 janvier 2015, G.________ a conclu, avec
+dépens, au rejet du recours.
+Dans ses déterminations du 20 février 2015, le Service de
+protection de la jeunesse (ci-après : SPJ) a conclu à l’admission partielle du
+recours et à la suspension du droit de visite de G.________ jusqu’à droit
+connu sur le résultat de l’enquête pénale. Il a notamment exposé que les
+parents d’B.T.________ s’étaient séparés alors qu’elle était âgée de trois
+mois, que le père n’avait jamais exercé de droit de visite usuel seul avec
+sa fille, qu’B.T.________ présentait des troubles du sommeil et des troubles
+alimentaires qui seraient, selon la Dresse [...] et sa pédopsychiatre et la
+Dresse [...], des manifestations de stress en rapport avec les visites du
+père, que les visites médiatisées avaient débuté le 5 janvier 2013 au Point
+Rencontre, que même si l’enfant connaissait encore quelques blocages
+significatifs dans son développement, les liens père-fille se consolidaient
+par petites étapes, qu’au vu de ces améliorations, le droit de visite du père
+avait été élargi à partir du 24 décembre 2013 et fixé à trois heures au
+Point Rencontre avec autorisation de sortir des locaux, et que le droit de
+visite, suspendu le 10 avril 2014, n’avait plus été exercé depuis. Il a ajouté
+que le Ministère public avait décidé, le 5 novembre 2014, de soumettre
+B.T.________ à une expertise de crédibilité dans le cadre de l’enquête
+pénale en cours contre son père pour actes d’ordre sexuel avec des
+enfants, que la suspension du droit de visite du père, qui durait depuis
+plus de dix mois, rendait désormais son rétablissement difficile, que le
+contexte actuel, savoir la procédure pénale et l’expertise de crédibilité en
+
+- 5 -
+cours, ne semblait pas opportun pour une reprise immédiate et sereine du
+droit de visite du père et que la situation devrait être revue une fois l’issue
+de la procédure pénale connue.
+C. La cour retient les faits suivants :
+B.T.________, née hors mariage le 17 août 2010, est la fille
+d’A.T.________ et de G.________, qui l’a reconnue le 5 août 2010.
+Par requête du 6 avril 2011, G.________ a saisi la Justice de paix
+du district de Nyon (ci-après : justice de paix) d’une requête en fixation de
+son droit de visite sur sa fille B.T.________.
+Par décision du 16 janvier 2012, le juge de paix a ratifié, pour
+valoir ordonnance de mesures provisionnelles, l’accord passé devant lui
+par G.________ et A.T.________ fixant le droit de visite du père sur sa fille à
+1 heure 30 un samedi sur deux, les deux parents s’engageant à mettre en
+œuvre une thérapie familiale aux [...] et à en informer les thérapeutes de
+[...].
+Dans un rapport d’évaluation établi le 20 mars 2012, le SPJ a
+proposé au juge de paix que le lieu de visite soit défini en accord avec les
+parents jusqu’à ce qu’B.T.________ ait atteint l’âge de deux ans, que le
+droit de visite de G.________ soit fixé à une journée à la quinzaine, de 11
+heures à 17 heures, le jeudi ou le samedi, d’entente avec la mère, qu’une
+curatelle de surveillance au sens de l’art. 307 CC soit instaurée et que les
+parents continuent le suivi psychiatrique mis en place.
+Par ordonnance de mesures provisionnelles du 19 juin 2012, le
+juge de paix a ordonné à A.T.________ et à G.________ de se soumettre à
+une thérapie familiale systémique auprès de l’Hôpital de [...],
+respectivement au Centre de consultation [...], à Lausanne.
+
+- 6 -
+Lors de son audience du 5 novembre 2012, le juge de paix a
+procédé à l’audition des père et mère d’B.T.________ et ordonné l’ouverture
+d’une enquête en limitation de l’autorité parentale d’A.T.________ sur sa
+fille.
+Par ordonnance de mesures provisionnelles du 15 novembre
+2012, le juge de paix a dit que le droit de visite de G.________ sur sa fille
+B.T.________ s’exercerait par l’intermédiaire du Point Rencontre à raison de
+deux fois par mois pour une durée de deux heures sans autorisation de
+sortir des locaux durant les trois premières rencontres, puis avec
+autorisation de sortir des locaux dès la quatrième semaine.
+Par courrier du 1er février 2013, le juge de paix a chargé le SPJ
+de procéder à une enquête sociale dans le cadre de l’enquête en limitation
+de l’autorité parentale ouverte.
+Dans un rapport d’évaluation établi le 12 août 2013, le SPJ a
+suggéré la poursuite du droit de visite de G.________ par le biais du Point
+Rencontre avec un élargissement progressif, la poursuite du suivi
+thérapeutique des parents, la mise en place d’un soutien
+pédopsychiatrique auquel le père serait largement associé et l’instauration
+d’une curatelle éducative.
+Par ordonnance de mesures provisionnelles du 17 septembre
+2013, complétée le 1er octobre suivant, le juge de paix a institué une
+curatelle de surveillance des relations personnelles à forme de l’art. 308
+al. 1 et 2 CC en faveur d’B.T.________ et désigné R.________, assistante
+sociale auprès du SPJ, en qualité de curatrice.
+Par décision du 24 décembre 2013, le juge de paix a modifié
+son ordonnance du 15 novembre 2012 en ce sens que le droit de visite de
+G.________ sur sa fille B.T.________ s’exercerait désormais par
+l’intermédiaire du Point Rencontre à raison de deux fois par mois, pour
+une durée de trois heures avec autorisation de sortir des locaux.
+
+- 7 -
+Par requête du 4 avril 2014, A.T.________ a requis la suspension
+du droit de visite du père sur sa fille, estimant ne plus pouvoir assumer la
+responsabilité de présenter B.T.________ pour l’exercice du droit de visite
+de son père.
+Par ordonnance de mesures superprovisionnelles du 10 avril
+2014, le juge de paix a suspendu le droit de visite de G.________ sur sa fille
+B.T.________.
+Lors de son audience du 29 avril 2014, le juge de paix a
+procédé à l’audition des père et mère d’B.T.________, tous deux assistés de
+leur conseil respectif. A.T.________ a déclaré qu’elle sollicitait la suspension
+du droit de visite de G.________ sur sa fille, qu’elle était opposée à tout
+droit de visite, qu’elle avait fait auditionner sa fille par la Brigade des
+mineurs de la Police cantonale vaudoise avant de porter plainte contre
+G.________, que le juge de paix devrait prendre connaissance des
+déclarations faites par sa fille à la Brigade des mineurs et du rapport de
+celle-ci, que sa fille commençait à aller mieux, qu’elle avait retrouvé la joie
+de vivre, qu’elle arrivait mieux à dormir et que le centre d’aide aux
+victimes d’infractions de la Fondation PROFA et la Dresse [...] lui avaient
+conseillé que sa fille ne voie pas son père pour le moment. G.________ a
+indiqué qu’il réfutait toutes les accusations portées contre lui, qu’il était
+opposé à la suspension de son droit de visite et qu’il était prêt à se servir
+de ses économies pour payer l’expertise. Egalement entendue, S.________,
+assistante sociale auprès du SPJ, a expliqué que la directrice de la crèche
+d’B.T.________ n’avait pas d’inquiétude particulière quant au
+comportement de celle-ci, que la directrice du Point Rencontre ferait
+attention à ce que G.________ ne se rende pas seul aux toilettes avec sa
+fille, qu’elle était favorable à un droit de visite surveillé dans le cadre du
+Point Rencontre, qu’une suspension du droit de visite durant plusieurs
+mois serait très dommageable pour le lien père et fille déjà très fragile,
+que le Point Rencontre n’avait pas d’inquiétude particulière s’agissant du
+déroulement des visites et qu’un droit de visite au Point Rencontre dans
+
+- 8 -
+les locaux sous la surveillance de personnel qualifié était suffisant pour
+assurer la protection d’B.T.________ durant l’expertise et la procédure
+pénale.
+Le 30 avril 2014, le juge de paix a mis en œuvre l’expert [...],
+psychologue au sein de l’Unité de pédopsychiatrie de l’Institut de
+psychiatrie légale (ci-après : IPL) du Centre hospitalier universitaire
+vaudois (ci-après : CHUV).
+Le 3 juin 2014, la Brigade des mineurs a transmis au juge de
+paix une copie du rapport de l’audition d’B.T.________ intervenue le 13 avril
+2014 à la suite de la plainte pénale déposée par A.T.________ contre
+G.________ en raison de soupçons d’abus sexuels faisant état du résumé de
+l’audition d’B.T.________ dans les termes suivants :
+« Questionnée sur la raison de sa présence dans nos locaux, B.T.________ a
+dit "Parce que…. Parce que ma maman, ne m’a pas dit ". Puis,
+spontanément, elle a expliqué : "parce que mon papa me touche ma
+zizouille".
+Il est demandé à B.T.________ d’expliquer cet événement du début à la fin.
+Elle a répondu directement :" pleins de fois ".
+Interrogée sur la signification de la "zizouille", B.T.________ a montré avec
+sa main son entre-jambre, au niveau de son sexe.
+Questionnée comment il faisait quand il touchait la "zizouille", B.T.________
+a montré avec sa main droite son sexe et un mouvement bref de bas en
+haut.
+Les faits se sont passés à la "Maison des enfants" et à l’extérieur.
+B.T.________ a expliqué qu’ils jouaient à cache-cache quand son papa
+l’avait touchée.
+Quand il est demandé à B.T.________ comment cela s’est passé pour
+obtenir des détails plus précis, elle répondait : "bien".
+Les attouchements ont été commis par-dessous les pantalons, lesquels
+étaient descendus jusqu’aux genoux. B.T.________ a montré en glissant sa
+main sous son leggins. »
+Dans une attestation établie le 20 juin 2014, la Dresse [...],
+pédopsychiatre, a certifié que les visites de G.________ étaient préjudi-
+
+- 9 -
+ciables pour la santé émotionnelle d’B.T.________, que celles-ci menaçaient
+le développement psychique de l’enfant, ceci même dans le cadre du
+Point Rencontre, que cette enfant était trop jeune pour avoir la capacité de
+se sentir protégée par les personnes présentes au Point Rencontre et pour
+leur demander de l’aide si nécessaire, que depuis le début du suivi le 26
+août 2012, les visites avaient systématiquement occasionné des
+symptômes importants de stress émotionnel se manifestant à la fois sur le
+plan psychique, émotionnel et physique, durant plusieurs jours et
+disparaissant dès que les visites étaient suspendues, et que, dans l’intérêt
+de la santé d’B.T.________, cette situation ne devait pas perdurer.
+Par courrier du 14 juillet 2014, le Ministère public a informé le
+juge de paix de l’ouverture d’une enquête pénale à l’encontre de
+G.________ pour des actes d’ordre sexuel avec des enfants au détriment de
+sa fille B.T.________ et d’une enquête pénale à l’encontre d’A.T.________
+pour calomnie, subsidiairement diffamation et dénonciation calomnieuse.
+Par décision du 28 juillet 2014, la justice de paix a institué une
+curatelle de représentation au sens de l’art. 306 al. 2 CC en faveur
+d’B.T.________ et désigné Me Coralie Devaud, avocate à Lausanne, en
+qualité de curatrice avec mission de représenter la mineure prénommée
+dans le cadre des enquêtes pénales ouvertes par le Ministère public de
+l’arrondissement de Lausanne à l’encontre de G.________ et d’A.T.________.
+Par courrier du 14 novembre 2014, le juge de paix a autorisé
+l’expert [...] à suspendre les opérations d’expertise, le temps que soit
+menée l’expertise de crédibilité sur B.T.________.
+Dans un courrier daté du 10 décembre 2014, le Dr [...],
+pédiatre FMH, a affirmé qu’il accompagnait A.T.________ et sa fille depuis
+plusieurs années, qu’en tant que professionnel de la santé, il devait proté-
+ger B.T.________ de tout ce qui pouvait lui nuire, tant au niveau somatique,
+physique que psychologique et qu’il était capital d’essayer de comprendre
+et d’analyser les réactions d’une enfant de quatre ans face à un monsieur
+
+- 10 -
+qu’elle ne connaissait pas, sans parler des suspicions en cours
+d’investigation.
+Le 11 décembre 2014, la Dresse [...] a confirmé qu’elle était la
+pédopsychiatre d’B.T.________ depuis le 26 août 2011, qu’elle la suivait
+régulièrement une à deux fois par semaine, que toutes les consultations
+avaient un rapport avec ses troubles émotionnels consécutifs aux visites
+de son père ou avec le stress occasionné par les exigences de la justice
+concernant dites visites, qu’elle avait décrit l’évolution de cette enfant,
+l’inadaptation des visites à ses besoins émotionnels, ses symptômes et la
+menace grave que cette situation faisait peser sur son développement
+psycho-affectif dans deux rapports par année, mais qu’il n’en avait pas été
+tenu compte, qu’elle avait adressé un rapport au SPJ le 2 avril 2014 à la
+suite d’une dégradation brutale de l’état d’B.T.________, accompagné de
+propos suggérant qu’elle avait subi des agressions sexuelles de la part de
+son père et que son état s’était amélioré quelque temps après la
+suspension du droit de visite et qu’elle avait repris son processus évolutif.
+Elle a encore précisé qu’elle avait revu B.T.________ le 4 décembre 2014,
+qu’elle ne présentait plus de troubles du sommeil, que son appétit s’était
+normalisé, qu’elle arrivait à fréquenter normalement le jardin d’enfants,
+qu’elle présentait une angoisse de séparation qui paraissait clairement
+être une séquelle de ce qu’elle avait subi et que l’exposer à une reprise
+des visites avec son père alors qu’elle avait ce vécu de danger et de
+terreur était gravement maltraitant pour elle, même si une éducatrice
+assistait à toute la durée de la visite au Point Rencontre à pas plus loin de
+deux mètres de l’enfant.
+En d roit :
+1. Le recours est dirigé contre une ordonnance de mesures
+provisionnelles du juge de paix fixant les modalités de l’exercice du droit
+
+- 11 -
+de visite d’un père sur sa fille mineure (art. 273 ss CC [Code civil suisse du
+10 décembre 1907 ; RS 210]) et mettant les frais de la décision par moitié
+à la charge de chacun des parents de l’enfant.
+a)Le recours de l'art. 450 CC est ouvert à la Chambre des
+curatelles (art. 8 LVPAE [Loi du 29 mai 2012 d'application du droit fédéral
+de la protection de l'adulte et de l'enfant, RSV 211.255] et 76 al. 2 LOJV
+[Loi d'organisation judiciaire du 12 décembre 1979, RSV 173.01]), contre
+toute décision relative aux mesures provisionnelles (Steck, Basler
+Kommentar, Zivilgesetzbuch I, Art. 1-456 CC, 5e éd., Bâle 2014, n. 21 ad
+art. 450 CC, p. 2619), dans les dix jours dès la notification de la décision
+(art. 445 al. 3 CC). Les personnes parties à la procédure, les proches de la
+personne concernée et les personnes qui ont un intérêt juridique à
+l'annulation ou à la modification de la décision attaquée ont qualité pour
+recourir (art. 450 al. 2 CC). Le recours doit être dûment motivé et interjeté
+par écrit (art. 450 al. 3 CC), les exigences de motivation ne devant
+cependant pas être trop élevées (Steck, op. cit., n. 42 ad art. 450 CC, p.
+2624).
+Conformément à l'art. 450d CC, la Chambre des curatelles
+donne à la justice de paix (art. 4 al. 1 LVPAE) l'occasion de prendre
+position (al. 1), cette autorité pouvant, au lieu de prendre position,
+reconsidérer sa décision (al. 2).
+L’art. 446 al. 1 CC prévoit que l'autorité de protection établit
+les faits d'office. Compte tenu du renvoi de l’art. 450f CC aux règles du
+CPC (Code de procédure civile suisse du 19 décembre 2008, RS 272), l’art.
+229 al. 3 CPC est applicable devant cette autorité, de sorte que les faits et
+moyens de preuve nouveaux sont admis jusqu’aux délibérations. Cela vaut
+aussi en deuxième instance (Steck, op. cit., n. 7 ad 450a CC, p. 2626, et
+les auteurs cités). En matière de protection de l'adulte et de l'enfant, la
+maxime inquisitoire illimitée est applicable, de sorte que les restrictions
+posées par l'art. 317 CPC pour l'introduction de faits ou moyens de preuve
+nouveaux sont inapplicables (cf. JT 2011 III 43 ; CCUR 28 février 2013/56).
+
+- 12 -
+b)Interjeté en temps utile par la mère de la mineure concernée,
+partie à la procédure, le présent recours est recevable. Il en va de même
+des déterminations de l’intimé et de la curatrice de l’enfant, ainsi que des
+pièces produites en deuxième instance, si tant est qu’elles ne figurent pas
+déjà au dossier. Le juge de paix a été consulté conformément à l’art. 450d
+al. 1 CC.
+La recourante sollicite la production du dossier de l’enquête
+pénale dirigée contre G.________, ainsi que son audition et celle de sa fille.
+Il n’y a toutefois pas lieu de faire droit à ces requêtes, le dossier de la
+cause étant suffisamment complet pour permettre à la cour de céans de
+statuer en toute connaissance de cause sur la base des pièces au dossier
+et les témoignages des prénommées n’étant pas susceptibles de modifier
+l’appréciation de la cour de céans développée ci-dessous.
+2. La Chambre des curatelles doit procéder à un examen complet
+de la décision attaquée, en fait, en droit et en opportunité (art. 450a CC),
+conformément à la maxime d’office et à la maxime inquisitoire, puisque
+ces principes de la procédure de première instance s’appliquent aussi
+devant l’instance judiciaire de recours (Droit de la protection de l’adulte,
+Guide pratique COPMA, 2012, n. 12.34, p. 289). Elle peut confirmer ou
+modifier la décision attaquée devant elle. Dans des circonstances
+exceptionnelles, elle peut aussi l’annuler et renvoyer l’affaire à l’autorité
+de protection, par exemple pour compléter l’état de fait sur des points
+essentiels (art. 450f CC et 318 al. 1 let. c ch. 2 CPC). Selon les situations,
+le recours sera par conséquent réformatoire ou cassatoire (Guide pratique
+COPMA, n. 12.39, p. 290). Conformément à l'art. 450d CC, la Chambre des
+curatelles donne à la justice de paix (art. 4 al. 1 LVPAE) l'occasion de
+prendre position (al. 1), cette autorité pouvant, au lieu de prendre
+position, reconsidérer sa décision (al. 2).
+
+- 13 -
+3. La recourante sollicite la suspension du droit de visite du père
+sur sa fille. Elle fait valoir qu’B.T.________ aurait été victime
+d’attouchements de la part de son père, qu’une procédure pénale est en
+cours, que sa fille a exprimé la volonté de ne plus voir son père, qu’au vu
+du contexte, son refus est suffisamment conscient, que, de l’avis du
+pédopsychiatre, continuer à imposer à sa fille de voir son père est de la
+maltraitance, qu’il n’est pas opportun que sa fille voie son père durant la
+procédure pénale en cours, que le témoignage d’B.T.________ pourrait être
+affecté et que l’expert mandaté par le juge de paix n’a pas commencé son
+travail.
+L’intimé allègue que sa fille a mis de nombreux mois avant de
+pouvoir nouer des liens avec lui, qu’il s’est plié à toutes les limitations de
+son droit de visite requises par la recourante, qu’il a passé les premières
+heures seul avec sa fille en automne 2013 au Point Rencontre et que lors
+de son audition par le juge de paix le 29 avril 2014, l’assistante sociale du
+SPJ S.________ a déclaré qu’elle n’était pas favorable à la suspension du
+droit de visite et qu’il ne fallait pas rompre le contact père-fille.
+a)Les art. 273 ss CC relatifs aux relations personnelles d'un
+enfant avec ses père et mère ou des tiers n'ont pas été modifiés par
+l'entrée en vigueur du nouveau droit, de sorte que la doctrine et la
+jurisprudence rendues avant le 1er janvier 2013 conservent toute leur
+pertinence.
+L'art. 273 al. 1 CC prévoit que le père ou la mère qui ne détient
+pas l'autorité parentale ou la garde ainsi que l'enfant mineur ont
+réciproquement le droit d'entretenir les relations personnelles indiquées
+par les circonstances. Autrefois considéré comme un droit naturel des
+parents, le droit aux relations personnelles est désormais conçu à la fois
+comme un droit et un devoir de ceux-ci (cf. art. 273 al. 2 CC) ; il est
+cependant également considéré comme un droit de la personnalité de
+l'enfant qui doit servir en premier lieu l'intérêt de celui-ci (TF 5A_716/2010
+du 23 février 2011 c. 4 et les réf., in La pratique du droit de la famille
+
+- 14 -
+[FamPra.ch] 2011 p. 491 ; ATF 131 III 209 c. 5, JT 2005 I 201 ; ATF 123 III
+445 c. 3b, JT 1998 I 354).
+Le droit aux relations personnelles vise à sauvegarder le lien
+existant entre parents et enfants (Hegnauer, Droit suisse de la filiation, 4e
+éd., Berne 1998, adaptation française par Meier, n. 19.20, p. 116). Le
+Tribunal fédéral relève à cet égard qu'il est unanimement reconnu que le
+rapport de l'enfant avec ses deux parents est essentiel et qu'il peut jouer
+un rôle décisif dans le processus de recherche d'identité de l'enfant (TF
+5A_586/2012 du 12 décembre 2012 c. 4.2 ; ATF 127 III 295 c. 4a, 123 III
+445 c. 3c ; JT 1998 I 354). Le maintien et le développement de ce lien
+étant évidemment bénéfiques pour l'enfant, les relations personnelles
+doivent donc être privilégiées, sauf si le bien de l'enfant est mis en
+danger.
+L'importance et le mode d'exercice des relations personnelles
+doivent être appropriés à la situation, autrement dit tenir équitablement
+compte des circonstances particulières du cas. Le bien de l'enfant est le
+facteur d'appréciation le plus important (ATF 127 III 295 c. 4a) et les
+éventuels intérêts des parents sont à cet égard d’importance secondaire
+(ATF 130 III 585 c. 2.1, JT 2005 I 206).
+b)Le droit aux relations personnelles n'est pas absolu. Si les
+relations personnelles compromettent le développement de l'enfant, si les
+père et mère qui les entretiennent violent leurs obligations, s'ils ne se sont
+pas souciés sérieusement de l'enfant ou s'il existe d'autres justes motifs,
+le droit d'entretenir ces relations peut leur être refusé ou retiré (art. 274
+al. 2 CC). Selon la jurisprudence du Tribunal fédéral, le refus ou le retrait
+des relations personnelles ne peut être demandé que si le bien de l'enfant
+est mis en danger par ces mêmes relations : la disposition a pour objet de
+protéger l'enfant et non de punir les parents. Il y a danger pour le bien de
+l'enfant, susceptible d'entraîner la suppression ou la limitation du droit de
+visite, si son développement physique, moral ou psychique est menacé
+par la présence, même limitée, du parent concerné. Conformément au
+
+- 15 -
+principe de proportionnalité, il importe en outre que cette menace ne
+puisse être écartée par d'autres mesures appropriées (ATF 131 III 209
+précité ; ATF 118 II 21 c. 3c, JT 1995 I 548 ; TF 5A_448/2008 du 2 octobre
+2008 c. 4.1 ; TF 5P.131/2006 du 25 août 2006, in FamPra.ch 2007, p. 167).
+Les conflits entre les parents ne constituent pas un motif de
+restreindre le droit de visite. Une telle limitation n'est justifiée que s'il y a
+lieu d'admettre, au regard des circonstances, que l'octroi d'un droit de
+visite usuel compromet le bien de l'enfant (ATF 131 III 209 c. 5 précité ;
+CREC II 23 mars 2009/50). Une bonne entente des parents ne permet pas
+non plus de considérer automatiquement qu'un droit de visite usuel est
+indiqué dans le cas d'espèce. Il convient bien plutôt de s'assurer
+systématiquement que le droit est, au regard des circonstances concrètes,
+dans l'intérêt de l'enfant (TF 5C.194/2004 du 19 janvier 2005).
+c)L’art. 445 al. 1 CC – applicable par analogie en vertu de l’art.
+314 al. 1 CC – dispose que l’autorité de protection prend, d’office ou à la
+demande d’une personne partie à la procédure, toutes les mesures
+provisionnelles nécessaires pendant la durée de la procédure ; elle peut
+notamment ordonner une mesure de protection à titre provisoire, en
+particulier la fixation provisoire des relations personnelles (Guide pratique
+COPMA, 2012, n. 1.184, p. 74). De par leur nature même, les mesures
+provisionnelles sont en règle générale fondées sur un examen sommaire
+des faits et de la situation juridique; elles doivent être à la fois nécessaires
+et proportionnées et ne peuvent être prises que pour autant qu’il ne soit
+pas possible de sauvegarder autrement les intérêts en jeu et que
+l’omission de prendre ces mesures risque de créer un préjudice
+difficilement réparable (Guide pratique COPMA, n. 1.186, p. 75, avec
+référence à l’arrêt TF 5A_520/2008 du 1er septembre 2008 c. 3 ; cf. art.
+261 al. 1 CPC).
+Toute mesure provisionnelle implique qu’il y ait urgence. Il faut
+donc qu’il y ait nécessité d’une protection immédiate en raison d’un
+danger imminent menaçant les droits de l’intéressé (Hohl, Procédure
+
+- 16 -
+civile, Tome II, 2e éd., Berne 2010, n. 1758 p. 322). La notion d’urgence
+comporte des degrés et s’apprécie moins selon des critères objectifs qu’au
+regard des circonstances ; ainsi, l’urgence apparaît comme une notion
+juridique indéterminée, dont le contenu ne peut être fixé une fois pour
+toutes. Il appartient au juge d’examiner de cas en cas si cette condition
+est réalisée, ce qui explique qu’il puisse se montrer plus ou moins
+exigeant suivant les circonstances sans s’exposer pour autant au grief
+d’arbitraire (TF 4P.263/2004 du 1er février 2005 c. 2.2).
+d)En l’espèce, les parents d’B.T.________ vivent séparés depuis
+que leur fille a l’âge de trois mois. L’intimé n’a jamais exercé de droit de
+visite usuel seul avec sa fille. A la suite d’un accord passé par les deux
+parents devant le juge de paix le 16 janvier 2012, l’intimé a pu voir sa fille
+1 heure 30 un samedi sur deux. Par ordonnance de mesures
+provisionnelles du 15 novembre 2012, le juge de paix a fixé le droit de
+visite de l’intimé à deux fois deux heures par mois au Point Rencontre,
+d’abord sans autorisation de sortir des locaux, puis avec autorisation de
+sortir des locaux dès la quatrième semaine. Le 17 septembre 2013, le juge
+de paix a institué une curatelle d’assistance éducative en faveur
+d’B.T.________ et désigné une assistante sociale du SPJ en qualité de
+curatrice. Le juge de paix a provisoirement suspendu le droit de visite de
+l’intimé sur sa fille le 10 avril 2014 en raison des soupçons d’at-
+touchements qui pesaient sur ce dernier, avant de fixer provisoirement ce
+droit par ordonnance du 5 juin 2014 à deux heures deux fois par mois au
+Point Rencontre sans autorisation de sortir des locaux, estimant alors qu’il
+ne fallait pas rompre le contact père-fille et que la mise en place de visites
+surveillées garantirait la complète sécurité d’B.T.________.
+Le 14 juillet 2014, le Ministère public a informé le juge de paix
+de l’ouverture d’une enquête pénale à l’encontre de l’intimé pour des
+actes d’ordre sexuel avec des enfants au détriment de sa fille, ainsi que
+contre la recourante pour calomnie, subsidiairement diffamation et
+dénonciation calomnieuse. Le 5 novembre 2014, le Ministère public a
+décidé de soumettre B.T.________ à une expertise de crédibilité dans le
+
+- 17 -
+cadre de l’enquête pénale ouverte contre son père. Or, il résulte des
+rapports médicaux établis les 20 juin et 11 décembre 2014 par la Dresse
+[...], pédopsychiatre d’B.T.________ depuis août 2011, que toutes les
+consultations ont un rapport avec ses troubles émotionnels consécutifs
+aux visites de son père ou avec le stress occasionné par ces visites,
+qu’B.T.________ présente une angoisse de séparation clairement liée à ce
+qu’elle aurait subi, qu’elle est trop jeune pour avoir la capacité de se sentir
+protégée par les personnes présentes au Point Rencontre et pour
+demander de l’aide en cas de besoin, que les visites mises en place sont
+inadaptées à ses besoins émotionnels, que cette situation menace
+gravement son développement psycho-affectif et que son état s’améliore
+dès que les visites sont suspendues. La Dresse [...] estime qu’il est
+gravement maltraitant pour B.T.________ de l’exposer à une reprise des
+visites, ceci même en présence d’une éducatrice. Selon le Dr [...], pédiatre
+FMH suivant l’enfant depuis plusieurs années, B.T.________ doit être
+protégée au niveau somatique, physique que psychologique et il convient
+de comprendre et d’analyser ses réactions face à son père. Le SPJ
+considère pour sa part qu’il n’est pas opportun que le droit de visite de
+l’intimé reprenne, une procédure pénale et une expertise de crédibilité
+étant en cours.
+Il s’ensuit que le principe de l’octroi d’un droit de visite
+surveillé à l’intimé doit être réexaminé au regard des nouveaux éléments
+résultant des deux courriers de la Dresse [...] et de celui du Dr [...]
+produits par la recourante, selon lesquels le bien-être d’B.T.________
+semble manifestement mis en danger par l’exercice d’un droit de visite,
+même surveillé au Point Rencontre. Au stade des mesures provisionnelles,
+les inquiétudes exprimées par la recourante justifient une suspension
+provisoire des relations personnelles du père avec sa fille, un droit de
+visite, même surveillé, étant en l’état susceptible de porter atteinte au
+développement de l’enfant. Ainsi, dans l’intérêt d’B.T.________, il y a lieu
+de suspendre provisoirement le droit de visite de l’intimé.
+
+- 18 -
+Au demeurant, l’expertise pédopsychiatrique de l’enfant
+confiée à [...] doit reprendre immédiatement, sans attendre l’issue de
+l’enquête pénale. A réception de l’expertise effectuée par [...], il
+appartiendra à l’autorité de protection de rendre une décision finale sur le
+droit de visite de l’intimé. Si l’enquête devait se prolonger après le dépôt
+du rapport d’expertise, l’intimé pourra, le cas échéant, saisir le juge de
+paix d’une nouvelle requête de mesures provisionnelles.
+4. La recourante requiert que les frais de première instance
+soient mis entièrement à la charge de l’intimé.
+a)La réglementation des frais et dépens relève de la compétence
+cantonale (ATF 140 III 385 c. 2.3). Selon l’art. 450f CC, si les cantons n’en
+disposent pas autrement, les dispositions de la procédure civile
+s’appliquent par analogie. Si la LVPAE règle la question des frais en
+matière de mesures limitant l’exercice de l’autorité parentale (art. 38
+LVPAE), elle est muette en ce qui concerne les frais des procédures
+relatives à la fixation des relations personnelles. Il convient ainsi de se
+référer aux art. 106 ss CPC.
+Selon l’art. 106 al. 1 CPC, les frais sont mis à la charge de la
+partie succombante. Lorsqu’aucune des parties n’obtient entièrement gain
+de cause, les frais sont répartis selon le sort de la cause (art. 106 al. 2
+CPC). Le tribunal peut s’écarter des règles générales et répartir les frais
+selon sa libre appréciation notamment lorsque le litige relève du droit de
+la famille (art. 107 al. 1 let. c CPC). L’art. 107 al. 1 let. c CPC est de nature
+potestative. Le tribunal dispose d’un large pouvoir d’appréciation non
+seulement quant à la manière dont les frais sont répartis, mais également
+quant aux dérogations à la règle générale de l’art. 106 CPC. La libre
+appréciation prévue par l’art. 107 al. 1 CPC se confond, en pratique, avec
+une répartition en équité laissant une grande marge d’appréciation au
+juge : il peut notamment retenir des solutions différenciées en fonction de
+la nature des frais en question, par exemple en renonçant à l’allocation de
+
+- 19 -
+dépens tout en répartissant les frais judiciaires (CREC 5 mai 2014/161 c.
+4). Le Tribunal fédéral a considéré qu’en matière de droit de famille,
+aucune règle n’imposait à l’autorité cantonale de répartir les frais
+judiciaires en fonction de la prétendue importance des griefs sur lesquels
+chaque partie a obtenu gain de cause (TF 5A_261/2013 du 19 septembre
+2013 c. 3.5). Il a par ailleurs considéré qu’il n’était pas arbitraire de
+répartir les frais par moitié et de ne pas allouer de dépens dans un litige
+relatif pour l’essentiel au sort et à l’attribution des enfants,
+indépendamment du gain du procès (TF 5A_321/2014 du 20 août 2014 c.
+2.3).
+b)En l’espèce, la procédure est particulièrement conflictuelle.
+Compte tenu des éléments au dossier et du fait qu’il s’agit d’un litige du
+droit de la famille relatif à l’exercice du droit de visite, la répartition des
+frais par moitié décidée par le premier juge ne prête pas le flanc à la
+critique et peut être confirmée.
+5. a)En définitive, le recours interjeté par A.T.________ doit être
+admis et l’ordonnance de mesure provisionnelles entreprise réformée en
+ce sens que le droit de visite de G.________ sur sa fille B.T.________ est
+suspendu.
+Compte tenu des circonstances, le présent arrêt peut être
+rendu sans frais judiciaires (art. 74a a l. 4 TFJC [Tarif du 28 septembre
+2010 des frais judiciaires civils, RSV 270.11.5]).
+Quand bien même elle a procédé par l’intermédiaire d’un
+avocat et obtenu gain de cause, il n’y a pas lieu d’allouer des dépens à la
+recourante. En effet, l’admission du recours se fonde sur des éléments
+postérieurs à la décision querellée et il s’agit de droit de la famille,
+domaine dans lequel il est admissible de s’écarter de la règle usuelle de
+répartition des frais et des dépens (TF 5A_321/2014 du 20 août 2014 c.
+
+- 20 -
+2.3). Dans ces conditions, les dépens de deuxième instance peuvent être
+compensés (art. 107 al. 1 let. c CPC).
+b)Selon l’art. 117 CPC, applicable par renvoi de l’art. 450f CC,
+une personne a droit à l’assistance judiciaire aux conditions cumulatives
+qu’elle ne dispose pas de ressources suffisantes et que sa cause ne
+paraisse pas dépourvue de toute chance de succès. La requête
+d’assistance judiciaire peut être présentée avant ou pendant la
+litispendance (art. 119 al. 1 CPC). L’assistance judiciaire doit faire l’objet
+d’une nouvelle requête pour la procédure de recours (art. 119 al. 5 CPC).
+Il y a lieu d’accorder à A.T.________ le bénéfice de l’assistance
+judiciaire pour la procédure de recours avec effet au 19 juin 2014, date à
+laquelle elle a formulé sa demande d’assistance judiciaire, les conditions
+précitées étant remplies, et de désigner Me Bertrand Demierre en qualité
+de conseil d’office de la prénommée. Me Demierre n’ayant pas produit la
+liste de ses opérations dans le délai imparti, il est procédé à sa taxation
+d’office.
+Il résulte de l’examen du dossier que l’avocat de la recourante
+a procédé à la rédaction d’un recours, que la motivation du recours et les
+conclusions de celui-ci tiennent sur quatre pages, qu’il a établi deux
+bordereaux de pièces et qu’il a rédigé cinq courriers. Compte tenu de la
+nature et des difficultés en fait et en droit de la cause, ainsi que des
+opérations précitées, une indemnité correspondant à 6 heures de travail
+d’avocat, au tarif horaire de 180 fr. hors TVA (art. 2 al. 1 RAJ, Règlement
+sur l'assistance judiciaire en matière civile, RSV 211.02.3), ainsi qu’un
+montant de 50 fr., TVA en sus, à titre de débours (art. 3 al. 2 RAJ), doivent
+lui être alloués. L’indemnité d’office due au conseil de la recourante pour
+la procédure de recours doit ainsi être arrêtée à 1'220 fr. 40, TVA et
+débours compris.
+La bénéficiaire de l'assistance judiciaire est, dans la mesure de
+l'art. 123 CPC, tenue au remboursement de l’indemnité à son conseil
+
+- 21 -
+d’office mise à la charge de l'Etat.
+Par ces motifs,
+la Chambre des curatelles du Tribunal cantonal,
+statuant à huis clos,
+prononce :
+I. Le recours est admis.
+II. La décision du 5 juin 2014 est réformée comme suit :
+I.- dit que le droit de visite de G.________ sur l’enfant
+B.T.________, née le [...] 2010, est suspendu.
+Ibis.- supprimé.
+L’ordonnance est confirmée pour le surplus.
+III. La requête d’assistance judiciaire de la recourante A.T.________
+est accordée.
+IV. L’indemnité d’office de Me Bertrand Demierre, conseil de la
+recourante, est arrêtée à 1'220 fr. 40 (mille deux cent vingt
+francs et quarante centimes), TVA et débours compris, pour la
+procédure de recours.
+V. La bénéficiaire de l’assistance judiciaire est, dans la mesure de
+l’art. 123 CPC, tenue au remboursement de l’indemnité du
+conseil d’office mise à la charge de l’Etat.
+VI. L'arrêt est rendu sans frais judiciaires ni dépens de deuxième
+instance.
+
+- 22 -
+VII. L'arrêt motivé est exécutoire.
+La présidente : La greffière :
+Du 9 mars 2015
+Le dispositif de l'arrêt qui précède est communiqué par écrit
+aux intéressés.
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Me Bertrand Demierre (pour A.T.________),
+- Me Patricia Michellod (pour G.________),
+- Me Coralie Devaud,
+- Service de protection de la jeunesse, ORPM de l’Ouest,
+et communiqué à :
+- Service de protection de la jeunesse, Unité d’appui juridique,
+- Point Rencontre [...],
+- Juge de paix du district de Nyon,
+par l'envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière
+
+- 23 -
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100 al. 1 LTF).
+La greffière :
