@@ -1,0 +1,343 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 18"
+decided: "2015-03-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4963865"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-257e.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-037.md", "switzerland/bund/acts/281.1/art-041.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 18
+
+## Regeste
+
+PLAINTE{LP}, BENEFICIUM EXCUSSIONIS REALIS, COMPENSATION DE CRÉANCES | 257e CO, 17 al. 1 LP, 41 al. 1bis LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.03.2015 Plainte / 2015 / 18
+
+PLAINTE{LP}, BENEFICIUM EXCUSSIONIS REALIS, COMPENSATION DE CRÉANCES | 257e CO, 17 al. 1 LP, 41 al. 1bis LP
+
+TRIBUNAL
+CANTONAL
+FA14.046591-150116
+15
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 mars 2015
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+M.              Pfeiffer
+*****
+Art.
+17 al. 1, 41 al. 1bis LP, 257e CO
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par [...]
+G.________
+et
+F.________
+,
+à Lausanne, contre la décision rendue le 5 janvier 2015, à la suite de l’audience
+du 3 décembre 2014, par le Président du Tribunal d’arrondissement de l’Est vaudois,
+autorité inférieure de surveillance, admettant la plainte déposée contre l’
+Office
+des poursuites du district de Lavaux-Oron
+par
+H.________
+,
+à Grandvaux.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Par contrat de bail à loyer signé le 26 juin 2009 par D.________ SA, en tant que représentant
+du bailleur, d’une part, et [...] et H.________, d’autre part, ces derniers sont locataires
+d’un appartement sis au chemin du [...] à 1091 Grandvaux. Le contrat est entré en vigueur
+le 1
+er
+juillet 2009. Il mentionne, comme faisant partie intégrante du contrat, les dispositions paritaires
+romandes et règles et usages locatifs du canton de Vaud et dispositions générales pour
+habitation, garage et places de parc, édition 2008.
+Le contrat prévoit la constitution d’une garantie de loyer d’un montant de 8’550
+francs. Il ressort d’un certificat délivré le 7 juillet 2009 par la Banque Cantonale
+de Genève que cette dernière a ouvert un compte de dépôt n° [...] pour un montant
+de 8’550 fr. au nom de [...] et H.________ pour garantir le paiement de toutes les obligations
+découlant du contrat susmentionné.
+b)
+Par courrier du 23 août 2013, D.________ SA a requis de [...] et H.________ le paiement d’une
+somme de 3'301 fr. 65 en remboursement de leur consommation d’électricité pour la période
+de décembre 2009 à juillet 2013.
+Par courrier du 20 septembre 2013, un délai échéant au 10 octobre 2013 leur a été
+imparti pour s’acquitter de la somme de 3'301 fr. 65.
+Par courrier du 19 juin 2014, D.________ SA leur a, notamment, imparti un nouveau délai au 31 juillet
+2014 pour s’acquitter du montant de 3'301 fr. 65. Un délai échéant à la même
+date leur a par ailleurs été imparti pour verser la somme de 664 fr. 75 réclamée
+à titre de solde de frais de chauffage pour la période 2012/2013.
+Par courrier du 9 septembre 2014, un agent d’affaires breveté, mandaté par F.________
+et G.________, propriétaires de l’immeuble occupé par [...] et H.________, leur a imparti
+un délai de 10 jours pour s’acquitter de la somme de 3'966 fr. 50, soit 3'301 fr. 75 à
+titre de factures d’électricité des années 2009 à 2013 et 664.75 fr. à
+titre de solde du décompte de chauffage 2012/2013.
+2.
+En date du 24 septembre 2014, F.________ et G.________, représentées par des agents d’affaires
+brevetés, ont requis l’introduction d’une poursuite ordinaire à l’encontre
+de H.________ pour les sommes de (1) 3'301 fr. 75 avec intérêt à 5 % dès
+le 23 août 2013, (2) 664 fr. 75 avec intérêt à 5 % dès le 29 novembre 2013 et
+(3) 300 fr. sans intérêt en indiquant, sous la rubrique titre et date de la créance ou
+cause de l’obligation, (1) facture d’électricité payée par erreur par la créancière,
+selon mise en demeure de GERANCE
+D.________
+SA
+du 23 août 2013, (2) décompte chauffage
+2012/2013 du 29 novembre 2013 et (3) indemnité selon les articles 97 alinéa 1,103 et 106 CO,
+frais du créancier.
+Sur la base de cette réquisition, l’Office des poursuites du district de Lavaux – Oron
+a établi un commandement de payer poursuite n° 7’194’636 qui a été notifié
+au poursuivi le 6 octobre 2014.
+Par acte adressé le 16 octobre 2014 au Président du Tribunal d’arrondissement de l’Est
+vaudois, le poursuivi a déposé une plainte au sens de l’art. 17 LP. Invoquant le bénéfice
+de discussion réelle, il a conclu à l’admission de sa plainte et à l’annulation
+du commandement de payer qui lui avait été notifié par l’Office des poursuites du
+district de Lavaux-Oron.
+Le commandement de payer a été retourné, libre d’opposition, aux poursuivantes en
+date du 23 octobre 2014. Par réquisition reçue par l’office le 28 octobre 2014, les créancières
+ont requis la continuation de la poursuite. Un avis de saisie a dès lors été adressé
+au poursuivi le 28 octobre 2014.
+3.
+Par avis du 20 novembre 2014, le Président du Tribunal d’arrondissement de l’Est vaudois,
+en sa qualité d’autorité inférieure de surveillance en matière de poursuites
+pour dettes et faillite, a convoqué les parties à une audience fixée le mercredi 3 décembre
+2014.
+Par déterminations du 25 novembre 2014, l’Office des poursuites du district de Lavaux Oron
+a conclu à l’admission de la plainte, le commandement de payer notifié au plaignant étant
+annulé.
+Par déterminations du 1
+er
+décembre 2014, les poursuivantes ont conclu, avec suite de frais et dépens, au rejet de la
+plainte, le commandement de payer, libre de toute opposition, étant maintenu dans tous ses effets.
+Elles ont notamment produit une copie d’un arrêt rendu le 21 juin 2013 par la Chambre des
+poursuites et faillites du Tribunal cantonal fribourgeois qui considère, en substance, que le locataire
+ne peut se prévaloir, en cours de bail, du bénéfice de discussion réelle, les bailleurs
+ne pouvant être contraint à « puiser dans la garantie » pour le paiement
+des loyers courants.
+Par décision du 3 décembre 2014, le Président du Tribunal d’arrondissement de l’Est
+vaudois a accordé l’effet suspensif à la plainte.
+4.
+Par prononcé du 5
+janvier 2015, statuant à la suite de l’audience du 3 décembre 2014 qui s’est tenue
+en présence du poursuivi et d’un représentant de l’office, le Président du
+Tribunal d’arrondissement de l’Est vaudois a admis la plainte présentée le 16 octobre
+2014 par H.________ et annulé le commandement de payer. Il a en substance considéré que
+les créances en poursuite étaient couvertes par la garantie de loyer fournie par les locataires,
+que les sûretés avaient fait naître un droit de gage au sens de l’art. 37 LP et
+que le plaignant pouvait dès lors, par la voie de la plainte, se prévaloir du bénéfice
+de discussion réelle et contraindre le bailleur à requérir une poursuite en réalisation
+de gage mobilier ce qui devait conduire à l’annulation de la poursuite ordinaire engagée
+à son encontre.
+5.
+Par acte du 15 janvier
+2015, G.________ et F.________ ont recouru contre ce prononcé, concluant, avec suite de frais judiciaires
+et dépens de première et de seconde instances, à sa réforme en ce sens que la plainte
+est purement, simplement et définitivement rejetée, le commandement de payer notifié le
+6 octobre 2014 par l’Office des poursuites de Lavaux–Oron, libre d’opposition, étant
+maintenu dans tous ses états.
+Par acte du 4 février 2015, l’Office des poursuites du district de Lavaux–Oron a conclu
+au rejet du recours.
+Par acte du 9 février 2015, le plaignant a conclu au rejet du recours.
+En droit :
+I.
+Déposé contre une décision de l’autorité inférieure de surveillance, dans
+le délai de dix jours dès sa notification, et auprès de l’autorité cantonale
+supérieure de surveillance, le recours est recevable (art. 18 al. 1 LP [loi fédérale sur
+la poursuite pour dettes et la faillite du 11 avril 1889; RS 281.1] ; art. 28 al. 1 LVLP [loi du
+18 mai 1955 d’application dans le Canton de Vaud de la loi fédérale sur la poursuite
+pour dettes et la faillite ; RSV 280.05]).
+Les déterminations de l'office et du plaignant sont également recevables (art. 31 al. 1 LVLP).
+II.
+En vertu de l’art. 17 al. 1 LP, sauf dans les cas où la loi prescrit la voie judiciaire, il
+peut être porté plainte à l’autorité de surveillance lorsqu’une mesure
+de l’office est contraire à la loi ou ne paraît pas justifiée en fait. La plainte
+doit être déposée dans les dix jours de celui où le plaignant a eu connaissance de
+la mesure (art. 17 al. 2 LP).
+En l’espèce, le plaignant se prévaut de l’exception du bénéfice de discussion
+réelle. Il peut l’invoquer par la voie de la plainte contre la notification du commandement
+de payer dans la poursuite ordinaire, par voie de saisie ou de faillite (art 41 al. 1bis LP ; ATF
+140 III 180 c. 5.1.4 ; ATF 120 III 105 c. 1). Le commandement de payer litigieux lui a été
+notifié le 6 octobre 2014. Sa plainte du 16 octobre 2014 est donc recevable.
+III.
+Sur le fond, le recourant soutient tout d’abord qu’en raison de la nature dispositive de
+l’art. 41 al.1bis LP, le créancier a la faculté de choisir entre la poursuite ordinaire
+par voie de saisie ou de la faillite et la poursuite en réalisation de gage. Il semble en outre
+considérer que dans la mesure où le locataire ne peut pas compenser le montant qu’il
+a déposé en garantie avec les sommes qu’il doit au bailleur et que la libération
+des sûretés n’est possible qu’avec l’accord de la partie bailleresse, le
+locataire ne pourrait exciper du bénéfice de discussion réelle. Il relève encore
+qu’une libération, à ce jour, d’une partie de la garantie nuirait gravement aux
+intérêts du bailleur qui risquerait de ne plus disposer de sûretés suffisantes au
+moment du départ des locataires. Il invoque enfin une jurisprudence du Tribunal fédéral
+dont il résulterait qu’on ne pourrait contraindre les bailleurs à puiser dans la garantie
+pour le paiement des loyers courants (ATF 104 III 8).
+a)
+Selon l'art. 41 al. 1 LP, lorsque la poursuite a pour objet une créance garantie par gage, elle
+se continue par la réalisation du gage (art. 151 à 158), même contre les débiteurs
+sujets à la poursuite par voie de faillite.
+Aux termes de l'art. 41 al. 1bis LP, lorsqu'une poursuite par voie de saisie ou de faillite est introduite
+pour une créance garantie par gage, le débiteur peut demander, par le biais d'une plainte (art.
+17 LP), que le créancier exerce d'abord son droit sur l'objet du gage (exception du
+beneficium
+excussionis realis
+) (ATF 140 III 180 c. 5.1.4 ;
+ATF 129 III 360 c. 1).
+L’art. 41 al. 1bis LP est de droit dispositif (ATF 140 III 180 c. 5.1.4). Il en résulte que
+si le créancier poursuit le débiteur par la voie de la poursuite ordinaire et non par le moyen
+de la poursuite en réalisation de gage, la poursuite n’est pas nulle ; le débiteur
+a simplement la faculté de porter plainte dans les 10 jours dès la notifications du commandement
+de payer (Gilliéron, Poursuite pour dettes, faillite et concordat, n° 520  et les réf.
+citées ; Acocella, Basler Kommentar, n° 17 ad 41 LP et les réf. citées ; Rigot, Commentaire
+romand, n° 15 ad 41 LP). Il peut en outre être valablement renoncé au
+beneficium
+excussionis realis
+soit par convention entre les
+parties, soit par décision unilatérale du débiteur qui ne porte pas plainte sciemment
+contre la poursuite ordinaire (Gilliéron, op. cit., n° 520  et les réf. citées
+; Acocella, op. cit., n° 17 ad 41 LP et les réf. citées).
+Le poursuivi qui conclut par la voie de la plainte à l'annulation de la poursuite ordinaire introduite
+contre lui en excipant du
+beneficium
+excussionis realis
+doit démontrer, de façon claire, que la créance en poursuite est garantie par un gage
+défini par l'art. 37 LP (ATF 129 III 360 c. 1 ; ATF 106 III 5 consid. 1 et les arrêts
+cités). Les sûretés fournies par le locataire en vertu de l’art. 257e CO sont une
+forme de consignation à titre de sûreté qui fait naître un droit de gage au sens
+de l’art. 37 LP au bénéfice du bailleur (ATF 129 III 360 c. 2). Le locataire
+qui a constitué des sûretés peut ainsi contraindre le bailleur à agir par la poursuite
+en réalisation de gage en invoquant le bénéfice de discussion réelle (ATF 129 III
+360 c. 2 ; Lachat, Le bail à loyer, chapitre 15, note 64, page 361 ; Marchand, Commentaire
+pratique, droit du bail à loyer, n° 27 ad 257e CO ; Gilliéron, op. cit., n°
+519). Sauf clauses particulières, les sûretés fournies en application de l’art 257e
+CO couvrent toutes les prétentions que le bailleur peut émettre en vertu du bail (Lachat, Commentaire
+romand, n° 2 ad 257e CO ; Higi, Zurcher Kommentar, n°7 ad 257e CO ; SVIT- Kommentar, n°
+11 ad 257e CO).
+b)
+En l’espèce, il n’est pas contesté que les poursuivantes font valoir des prétentions
+qui découlent du contrat de bail signé le 26 juin 2009. Elles sont donc garanties par les sûretés
+constituées par l’intimé le 7 juillet 2009 dont le montant excède du reste celui
+des créances en poursuite.
+Il ne ressort par ailleurs pas du contrat de bail signé 26 juin 2009, que le droit du locataire
+de se prévaloir du bénéfice de discussion réelle aurait été conventionnellement
+exclu. Les RULV, intégrées au contrat, ne l’excluent pas non plus.
+Au vu des principes exposés ci-dessus, on doit dès lors admettre que si les poursuivantes pouvaient
+effectivement tenter d’introduire une poursuite ordinaire pour faire valoir des prétentions
+découlant du contrat de bail, l’intimé était quant à lui fondé à
+exiger, par la voie la plainte, que le bailleur exerce d’abord son droit sur l’objet du gage
+que représentent les sûretés qu’il a fournies le 7 juillet 2009.
+L’absence d’accord du bailleur à la libération des sûretés n’y
+change rien. L’art. 41 al. 1 bis LP a précisément pour but de permettre au locataire
+de contraindre le bailleur qui a choisi la voie de la poursuite ordinaire à exercer d’abord
+son droit sur l’objet du gage. Son invocation ne saurait donc être conditionnée à
+un quelconque accord du bailleur.
+Le fait que la réalisation des sûretés en cours de bail soit de nature à priver le
+créancier de garantie pour des créances futures ne constitue pas plus un obstacle à l’invocation
+de l’art. 41 al. 1 bis LP, ce d’autant moins que le bailleur pourra, dans cette hypothèse,
+exiger que les sûretés soient reconstituées (Lachat, Le bail à loyer, chapitre 15,
+n° 2.3.2).
+Il est vrai que le locataire ne peut pas, tant que dure le bail, compenser sa dette et le montant des
+sûretés (Lachat, Commentaire romand, n° 9 ad 257 e CO). Le Tribunal cantonal fribourgeois,
+dans un arrêt du 21 juin 2013 (publié in Mietrechtpraxis 2014, p. 304) en a déduit qu’
+a
+fortiori
+, on ne saurait contraindre le bailleur
+à puiser dans la garantie pour le paiement des loyers courants, autrement dit contraindre le bailleur
+à réaliser les sûretés fournies en cours de bail. Cette décision ne saurait
+être suivie. En effet, l’impossibilité de compenser tient au fait que les sûretés
+demeurent la propriété du locataire et qu’il ne lui est dès lors naturellement pas
+possible de compenser sa dette avec ses propres biens (Lachat, le bail à loyer, chapitre 15, note
+55, page 361 ; SVIT Kommentar, n° 18 ad 257 e CO ; Higi, n° 33 ad 257 e CO). La compensation
+n’est du reste pas exclue dans les cas ou les sûretés remises par le locataire ne sont
+pas déposées en banque par le bailleur (Lachat, Commentaire romand, n° 9 ad 257 e CO et
+les références citées). On ne saurait donc voir dans cette interdiction un argument susceptible
+de faire obstacle à la possibilité pour le locataire de se prévaloir de l’article
+41 al. 1 bis LP en cours de bail.
+c)
+Il reste à examiner la portée de l’ATF 104 III 8 invoqué par les recourantes et
+également évoqué par le Tribunal cantonal fribourgeois. Dans cet arrêt, les juges
+fédéraux ont considéré que si le créancier a contre le débiteur plusieurs
+créances qui sont garanties par un seul gage, il est en principe libre de choisir pour laquelle
+de ces créances il demande la garantie et pour laquelle il entend en revanche y renoncer en s’en
+prenant en lieu et place à l’ensemble du patrimoine du débiteur (ATF 104 III 8 c.3).
+Dès lors que les sûretés fournies par le locataire sont destinées à couvrir
+l’intégralité des prétentions que le bailleur peut émettre en vertu du contrat
+de bail, soit potentiellement plusieurs créances, on pourrait considérer, au vu de cette jurisprudence,
+que le bailleur peut librement décider de procéder par la voie ordinaire en renonçant
+à son droit de gage en ce qui concerne la créance déduite en poursuite, sans préjudice
+quant à la garantie de ses autres prétentions, actuelles ou futures (dans ce sens, Charles
+Jacques, La libération des garanties locatives de l’art. 257 e CO, JT 2007 II 90, spec. p.
+104). Il résulte toutefois d’une jurisprudence constante que si le poursuivant peut effectivement
+introduire une poursuite ordinaire en renonçant à son droit de gage, il faut que sa renonciation
+au droit de gage figure, au plus tard, dans la réquisition de poursuite et que, mentionnée
+dans le commandement de payer pour la poursuite ordinaire par voie de saisie ou de faillite, elle soit
+communiquée au poursuivi lors de la notification de cet acte de poursuite au plus tard (Gilliéron,
+n° 40 ad art 41 LP et les nombreuses références citées.) Une renonciation au droit
+de gage est sans effet sur la poursuite si elle n’intervient qu’après la notification
+du commandement de payer (voir notamment ATF 87 III 50, JT 1961 II 107 et les réf. citées).
+Or, force est de constater qu’en l’espèce, les poursuivantes n’ont pas, au moment
+du dépôt la réquisition de poursuite, renoncé à leur droit de gage pour les
+créances en poursuite. Le poursuivi était donc fondé à exiger qu’elles exercent
+d’abord leur droit sur l’objet du gage, en application de l’art. 41 al. 1 bis LP.
+III.
+Vu ce qui précède, le recours doit être rejeté et le prononcé confirmé.
+L’arrêt peut être rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; art. 61
+al. 2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+MM Julien et Jean-François Pfeiffer, agents d’affaires brevetés (pour G.________ et F.________),
+‑
+H.________,
+-
+Mme la Préposée à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
