@@ -1,0 +1,302 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2015___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2015 / 12"
+decided: "2015-04-30"
+published: "2015-04-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20150427152011226_e.html"
+cites_law: ["switzerland/bund/acts/0.101/art-006.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-051.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2015 / 12
+
+## Regeste
+
+RÉCUSATION, ADMISSION DE LA DEMANDE, ACTE DE RECOURS, DROIT D'ÊTRE ENTENDU | 319 let. b ch. 1 CPC (CH), 49 al. 2 CPC (CH), 50 al. 2 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 30.04.2015 Réc-civile / 2015 / 12
+
+RÉCUSATION, ADMISSION DE LA DEMANDE, ACTE DE RECOURS, DROIT D'ÊTRE ENTENDU | 319 let. b ch. 1 CPC (CH), 49 al. 2 CPC (CH), 50 al. 2 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+TD15.000420
+13
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 30 avril 2015
+____________________
+Composition
+:               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Boryszewski
+*****
+Art.
+50 al. 2 et 319 let. b ch. 1 CPC; 29 al. 2 Cst
+Vu la procédure en divorce opposant le demandeur
+C.________
+à la défenderesse
+W.________
+devant le Tribunal civil de l'arrondissement de Lausanne (ci-après : tribunal d'arrondissement),
+vu le dossier de cette cause instruite par le juge L.________,
+vu l'ordonnance de mesures superprovisionnelles rendue le 2 mars 2015,
+vu l'ordonnance complémentaire de mesures superprovisionnelles rendue le 10 mars 2015,
+vu la demande déposée le 19 mars 2015 par C.________ tendant à la récusation du juge
+L.________, ce à titre provisionnel et au fond,
+vu les déterminations du 23 mars 2015 du juge intimé s'en remettant à justice,
+vu la télécopie du 24 mars 2015 du conseil de C.________ requérant, à titre superprovisionnel,
+la récusation du juge intimé,
+vu les déterminations du même jour du conseil de W.________, avec copie à son confrère,
+vu la décision du 25 mars 2015, envoyée pour notification le même jour, par laquelle le
+tribunal d'arrondissement a rejeté la demande de récusation de C.________,
+vu le courrier du 26 mars 2015 du conseil de C.________ informant le tribunal d'arrondissement ne pas
+avoir reçu les déterminations du juge intimé du 23 mars 2015 ni celles de W.________ du
+24 mars 2015,
+vu l'acte du 27 mars 2015, par lequel C.________ a interjeté recours contre la décision précitée
+concluant, avec suite de frais et dépens, comme suit :
+"
+Par
+voie de mesures superprovisionnelles
+I.
+Injonction est faite au
+Tribunal civil de l'arrondissement de Lausanne de confier à un autre magistrat que L.________ l'instruction
+et le jugement               de la cause
+opposant C.________ d'avec W.________, née [...], (référence TD15.000420), notamment pour
+ce qu concerne le sort des mesures provisionnelles dont l'audience est d'ores et déjà appointée
+au 30 mars 2015;
+Au
+fond
+II.
+Réformer le jugement
+attaqué, en ce sens que la récusation du magistrat L.________ dans la cause divisant C.________
+d'avec W.________, née [...], (référence TD15.000420), est prononcée, la cause étant
+confiée dorénavant à un autre Président du Tribunal d'arrondissement de Lausanne;
+III.
+Dire en conséquence
+que l'ordonnance de mesures superprovisionnelles du 2 mars 2015 et l'ordonnance de mesures superprovisionnelles
+complémentaires du 10 mars 2015 rendues par le magistrat L.________ dans la cause TD15.000420 sont
+purement et simplement annulées en application de l'art. 51 al. 1 CPC.
+Subsidiairement
+IV.
+Le jugement attaqué
+est annulé et le dossier de la cause est renvoyé au Tribunal civil de l'arrondissement de Lausanne
+pour une nouvelle instruction et nouveau jugement dans le sens des considérants à intervenir."
+vu la convention partielle sur les effets accessoires du divorce des époux ratifiée séance
+tenante par le juge intimé lors de l'audience du 30 mars 2015,
+vu les déterminations du conseil de l'intimée du 10 avril 2015 concluant, avec suite de frais
+et dépens, au rejet du recours,
+vu le courrier du 13 avril 2015 du conseil du recourant,
+vu la convention de mesures provisionnelles conclue par les époux lors de l'audience du 14 avril
+2015 par devant le juge intimé,
+vu la demande de récusation déposée le 15 avril 2015 par C.________ auprès du tribunal
+d'arrondissement à l'encontre de L.________, portant sur le déroulement de l'audience du 14
+avril 2015 et l'accès au procès-verbal de ladite audience,
+vu les déterminations du 21 avril 2015 du juge intimé s'en remettant à justice,
+vu le courrier du 24 avril 2015 du conseil du recourant requérant qu'un nouveau délai soit
+imparti au juge intimé afin qu'il se détermine "clairement et exhaustivement" sur
+le recours,
+vu les pièces au dossier;
+attendu que l'acte du recourant contient une requête de mesures superprovisionnelles tendant à
+ce que l'instruction et le jugement de la cause TD15.000420, notamment en ce qui concerne le sort des
+mesures provisionnelles, soit confiés à un autre magistrat que L.________,
+que les mesures ordonnées par la juridiction supérieure saisie d’un appel ou d’un
+recours sont des mesures conservatoires au sens strict, soit des mesures destinées à geler
+la situation (SJ 2015 II 1, p. 31),
+que le pouvoir d’ordonner des mesures conservatoires doit, comme celui de suspendre l’exécution,
+être exercé avec retenue, du fait que le premier juge a refusé une protection provisionnelle
+en première instance (SJ 2015 II 1, p. 30),
+que la décision de ce dernier a autorité de chose jugée et la conservera tant qu’elle
+n’aura pas été annulée (ibidem),
+qu'ainsi pour obtenir de l’autorité d’appel ou de recours une mesure conservatoire qui
+aura, pratiquement, un effet identique à la mesure provisionnelle refusée, le recourant devra
+démontrer l'existence d'un intérêt supérieur (ibidem),
+que selon une partie de la doctrine, seuls les cas où le refus du premier juge d’ordonner
+des mesures provisionnelles pourrait causer à la partie recourante une atteinte irréversible
+à ses intérêts peuvent justifier le prononcé d’une telle mesure conservatoire
+(SJ 2015 II 1, p. 31),
+qu'en l'espèce, les conclusions prises à titre superprovisionnel par le recourant ont déjà
+été rejetées par les premiers juges par décision du 25 mars 2015,
+que ces conclusions ont, de plus, le même contenu que celles du recours,
+que pour justifier ses conclusions, le recourant s'est contenté d'invoquer l'appointement de l'audience
+de conciliation et de mesures provisionnelles du 30 mars 2015,
+que l'on ne saurait considérer cet élément comme un intérêt supérieur et
+encore moins une atteinte irréversible, la loi prévoyant expressément que les actes de
+procédure auxquels a participé une personne tenue de se récuser doivent, le cas échéant,
+être annulés et renouvelés si une partie le demande dans les dix jours après la connaissance
+du motif de récusation (art. 51 al. 1 CPC [Code de procédure civile du 19 décembre
+2008, RS 272]),
+qu'ainsi, il se justifiait de recueillir les déterminations des autres parties avant que la cour
+de céans ne statue sur dite requête;
+attendu que le recours est dirigé contre une décision statuant sur la récusation d'un
+magistrat de première instance,
+que l'art. 50 al. 2 CPC prévoit que la décision sur récusation peut faire l'objet d'un
+recours au sens des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010, RSV 211.02] et 6 al. 1 let. a ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007, RSV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC; Tappy, Code
+de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+qu'en l'espèce, le recours a été déposé en temps utile par une partie qui a
+qualité pour recourir,
+que le recours est recevable à la forme;
+attendu que le recourant soutient qu'en se remettant à justice par déterminations du 23 mars
+2015, le juge intimé a implicitement adhéré à la demande de récusation et que,
+dès lors, les premiers juges auraient dû en prendre acte sans rendre de décision formelle,
+que l'art. 50 al. 1 CPC dispose que si le motif de récusation invoqué est contesté, le
+tribunal statue,
+qu'a contrario, lorsque le motif invoqué n'est pas contesté, la demande de récusation
+doit être admise sans décision formelle,
+qu'il en va de même lorsqu'une partie s'en remet à justice si tant la partie adverse que la
+personne récusée ne s'y oppose pas (Tappy, Code de procédure civile commenté, nn.
+3 s. ad art. 50 CPC),
+que tel n'est pas le cas en l'espèce, l'intimée ayant clairement conclu, par déterminations
+du 24 mars 2015, au rejet de la demande de récusation,
+que ce grief doit dès lors être rejeté;
+attendu que le recourant invoque également la violation de son droit d’être entendu,
+du fait que ni les déterminations du juge intimé du 23 mars 2015 ni celles de l'intimée
+du 24 mars 2015 ne lui ont été communiquées par les premiers juges,
+que le droit d’être entendu garantit le droit pour une partie à un procès de prendre
+connaissance de toute argumentation présentée au tribunal et de se déterminer à son
+propos (art. 29 al. 2 Cst. [Constitution fédérale du 18 avril 1999, RS 1001])
+(TF 1B_16/2013 du 5 mars 2013 c. 2.1; ATF 137 I 195 c. 2.3.1 et les réf. cit.),
+qu'il inclut pour les parties le droit de s’exprimer sur les éléments pertinents avant
+qu’une décision ne soit prise qui touche sa situation juridique (TF 1P_820/2006 du 6
+mars 2007 c. 4 et réf. cit.),
+que le Tribunal fédéral a déduit de ce principe que l’auteur d’une demande
+de récusation a le droit de prendre connaissance des observations du magistrat visé par celle-ci
+et, le cas échéant, du Ministère public, ainsi que de se déterminer à leur sujet
+avant que l’autorité compétente ne statue (TF 1P_820/2006 précité c. 4
+et réf. cit.),
+que, dans ce sens, l’art. 29 al. 2 Cst confère un véritable droit de réplique,
+même dans les domaines qui n’entrent pas dans le champ d’application de l’art. 6 CEDH
+(Convention de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre
+1950, RS 0.101), y compris dans le cadre d’une procédure de récusation (TF 1B_16/2013
+précité c. 2.1),
+qu’il appartient aux parties, et non au juge, de décider si une prise de position ou une pièce
+nouvellement versée au dossier contient des éléments déterminants qui appellent des
+observations de leur part (TF 1B_16/2013 précité c. 2.1; ATF 137 I 195 c. 2.3.1 et
+les réf. cit.),
+qu’en matière civile, cette règle est absolue (
+unbedingtes
+Replikrecht
+) et s’applique, que la détermination
+ou l’écriture fasse état ou non de faits nouveaux ou arguments et soit susceptible ou
+non d’influencer la décision du tribunal (TF 1B_16/2013 précité c. 2.1;
+Bohnet, Le droit de réplique en procédure civile, n. 9 p. 154,
+in
+Le droit de réplique, éd. F. Bohnet,
+CEMAJ, 2013),
+que, selon les principes jurisprudentiels désormais établis, la violation de ce droit inconditionnel
+est grave (Jeannerat/Mahon, Le droit de répliquer en droit public et en procédure administrative
+en général, n. 80 p. 78
+in
+Le droit de réplique, éd. F. Bohnet,
+CEMAJ, 2013) et n’est pas réparable devant l’autorité de recours (Jeannerat/Mahon,
+op. cit., n. 81 p. 79),
+que le droit d'être entendu étant de nature formelle, sa violation implique l'annulation de
+la décision attaquée, sans égard à la question de savoir si son respect aurait conduit
+à une autre décision, sauf si le vice peut être réparé lorsque l'autorité
+de recours dispose du même pouvoir d'examen que l'autorité de première instance (Haldy,
+CPC commenté, nn. 19 et 20 ad art. 53 CPC, p. 147; CREC 4 octobre 2011/179).
+qu’en l’espèce, il ne ressort pas des éléments au dossier que les déterminations
+du juge intimé du 23 mars 2015 ou celles de l'intimée du 24 mars 2015 ont été transmises
+au recourant avant que la décision du 25 mars 2015 ne soit rendue,
+que si celles du juge intimé ne contiennent pas d'élément de nature à influencer
+la décision entreprise, ce dernier se contentant de s'en remettre à justice, il n'en va pas
+de même pour celles de l'intimée,
+qu'en effet, les déterminations de l'intimée du 24 mars 2015 comptent deux pages et concluent
+au rejet de la demande de récusation,
+que, par ailleurs, lorsque le droit de procédure prévoit, comme en l'espèce, un seul échange
+d'écritures, l'autorité - qui peut se limiter à transmettre pour information les écritures
+des parties sans renvoyer formellement le destinataire à son droit de réplique - doit laisser
+un délai approprié à la partie afin qu'elle réagisse (ATF 133 I 98, JT 2007
+I 379; ATF 132 I 42, JT 2008 I 110),
+que le recourant, qui a pris connaissance des déterminations de l'intimée au plus tôt
+par télécopie du conseil de cette dernière le 24 mars 2015, n'a pas disposé d'un
+laps de temps suffisant pour réagir avant que la décision du 25 mars 2015 ne soit rendue,
+que par ailleurs, la jurisprudence dispose expressément que le droit de réplique n’est
+pas respecté par le seul fait qu’une partie a adressé par confraternité une copie
+de son acte à l’autre (TF 4A_660/2012 du 18 avril 2013 c. 2.2, in RSPC 2013 p. 291
+note Bohnet),
+que, par conséquent, les premiers juges ont violé la garantie du droit d’être entendu
+de C.________,
+que cela entraîne l'admission du recours, sans qu'il y ait lieu d'examiner, dans le cadre du présent
+arrêt, les autres griefs figurant dans l'acte du 27 mars 2015,
+que la décision entreprise doit par conséquent être annulée et la cause renvoyée
+à l'autorité inférieure pour nouvelle décision dans le sens des considérants
+qui précèdent,
+que, compte tenu de l'étroite connexité entre la demande de récusation du 19 mars 2015
+et celle du 15 avril 2015, qui concerne la même procédure aux stades superprovisionnel puis
+provisionnel, cette nouvelle décision devrait statuer sur ces deux demandes, après administration
+des éventuelles mesures d'instruction qui pourraient s'imposer,
+qu'à cet égard, il apparaît douteux qu'il soit suffisant, au regard de l'art. 49
+al. 2 CPC, que le magistrat visé par une requête de récusation s'en remette à justice
+à tout le moins lorsque les griefs ont trait à des éléments relevant du déroulement
+d'une audience ou du contenu du procès-verbal de l'audience;
+attendu que la décision est rendue sans frais,
+qu’obtenant gain de cause, le recourant a droit à des dépens qu’il convient d’arrêter
+à 500 fr. (art. 9 al. 2 TDC [tarif des dépens en matière civile du
+23 novembre 2010, RSV 270.11.6]) et de mettre à la charge de l’intimée (art. 106
+al. 1 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours est admis.
+II.
+La décision rendue le 25 mars 2015 par le Tribunal civil de l’arrondissement de Lausanne est
+annulée, la cause étant renvoyée à l’autorité inférieure pour nouvelle
+décision dans le sens des considérants.
+III.
+L’arrêt est rendu sans frais.
+IV.
+W.________ versera à C.________ la somme de 500 fr.
+(cinq cents francs) à
+titre de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Robert Lei Ravello (pour C.________),
+-
+Me Jean-Marc Reymond (pour W.________),
+-
+M. L.________, Président
+du Tribunal civil de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral,
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Tribunal civil de l’arrondissement de Lausanne.
+La greffière :
