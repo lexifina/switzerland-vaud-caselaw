@@ -1,0 +1,307 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2015___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2015 / 13"
+decided: "2015-05-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20150504155725336_e.html"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2015 / 13
+
+## Regeste
+
+RÉCUSATION, JUGE UNIQUE, AVOCAT, STAGE, RENCONTRE, RESTAURANT | 47 al. 1 let. f CPC (CH), 8a al. 5 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 07.05.2015 Réc-civile / 2015 / 13
+
+RÉCUSATION, JUGE UNIQUE, AVOCAT, STAGE, RENCONTRE, RESTAURANT | 47 al. 1 let. f CPC (CH), 8a al. 5 CDPJ
+
+TRIBUNAL
+CANTONAL
+TD13.055770-142282
+TD13.055770-142283
+TD13.055770-150435
+TD13.055770-150436
+14
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 7 mai 2015
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Michellod
+Greffière
+:              Mme
+Boryszewski
+*****
+Art.
+47 al. 1 let. f CPC et 8a al. 5 CDPJ
+Vu le dossier en instance de divorce des époux
+A.C.________
+,
+née
+[...]
+et
+B.C.________
+pendant devant le Tribunal d'arrondissement de l'Est vaudois (ci-après : tribunal d'arrondissement),
+vu l'ordonnance de mesures provisionnelles du président du tribunal d'arrondissement du 29 décembre
+2014,
+vu les appels interjetés par les parties auprès de la Cour d'appel civile du Tribunal cantonal
+contre ladite ordonnance (cause TD13.055770-142282 et TD13.055770-142283, ci-après : cause I),
+vu l'avis de la Juge déléguée de la Cour d'appel civile M.________ du 30 décembre
+2014 rejetant la requête d'effet suspensif déposée par B.C.________,
+vu le procès-verbal de l'audience du 20 février 2015 de la juge déléguée, lors
+de laquelle B.C.________ assisté de ses conseils Me [...] et Me [...], d'une part, et A.C.________
+assistée notamment de son conseil Me [...] de l'étude [...], anciennement [...], d'autre part,
+étaient présents,
+vu l'arrêt du même jour de la juge déléguée,
+vu le recours interjeté le 19 mars 2015 auprès de la Chambre des recours civile du Tribunal
+cantonal par A.C.________ contre les décisions des 6 et 9 mars 2015 de la présidente du
+tribunal d'arrondissement (causes TD13.055770-150435 et 36, ci-après : causes II et III),
+vu les avis du 24 mars 2015 de la juge déléguée, dans les causes II et III, impartissant
+un délai à A.C.________ pour le dépôt de l'avance de frais,
+vu le courrier du 30 mars 20015 de A.C.________ interpellant la juge déléguée sur la question
+du montant de l'avance des frais,
+vu l'avis du 1
+er
+avril 2015 de la juge déléguée dans les causes II et III,
+vu la demande de récusation déposée le 10 avril 2015 par A.C.________ (ci-après :
+la requérante) à l'encontre de la juge cantonale M.________ (ci-après : juge intimée),
+dont les conclusions sont les suivantes :
+"1.
+que Mme la Juge M.________
+soit récusée pour tous les dossiers opposant
+les époux [...];
+2.
+que toutes les décisions
+prises par Mme M.________ dans les causes
+TD13.055770-150435 et 36, en particulier celles des 24 mars et 1
+er
+avril               susvisées soient
+annulées;
+3.
+que l'arrêt du 20
+mars 2015 de Mme M.________ (cause TD13.055770-
+142282 et 83136) soit annulé, la procédure n'étant pas terminée vu le
+recours pendant le Tribunal fédéral;
+4.
+que Mme M.________ soit
+suspendue d'agir dans les dites affaires jusqu'à
+droit connu sur la présente demande de récusation;
+5.
+que l'Etat de Vaud soit
+condamné en tous les frais engendrés par le
+présente procédure de récusation."
+vu l'onglet de pièces produit sous bordereau avec la demande,
+vu l'ordonnance du 10 avril 2015 de la II
+ème
+Cour de droit civil du Tribunal fédéral rejetant, dans la cause I, le recours de A.C.________
+contre l'arrêt de la juge intimée du 20 février 2015,
+vu l'avis de la cour de céans du 21 avril 2015 impartissant un délai au 1
+er
+mai 2015 à la juge intimée ainsi qu'au conseil de l'intimé, afin de se déterminer
+sur la demande de récusation,
+vu le courrier du conseil de la requérante du 22 avril 2015 alléguant que la juge intimée
+avait été aperçue le 31 mars 2015 au restaurant [...] de l'Hôtel [...] à [...]
+avec le conseil de l'intimé ainsi que deux autres avocats,
+vu les déterminations de la juge intimée du 24 avril 2015 concluant au rejet de la demande
+de récusation,
+vu les déterminations du conseil de l'intimé du 27 avril 2015 concluant comme suit :
+"(I)
+constater l'irrecevabilité de la demande de récusation déposée le 10 avril 2015 par
+Mme A.C.________ et (II) mettre à la charge de la partie instante de pleins dépens pour témérité."
+vu l'onglet de pièces produit sous bordereau avec les déterminations, soit notamment un document
+intitulé "autorisation de levée du secret professionnel" signé par l'intimé
+le 22 avril 2015 en faveur des avocats de l'étude [...], anciennement [...],
+vu le courrier de la juge intimée du même jour,
+vu le courrier du conseil de l'intimé du 28 avril 2015,
+vu les déterminations spontanées du second conseil de la requérante du même jour,
+vu le courrier du conseil de l'intimé du 29 avril 2015,
+vu les déterminations spontanées du second conseil de la requérante du même jour,
+vu les déterminations du conseil de la requérante du 2 mai 2015,
+vu les pièces au dossier;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+du 10 avril 2015 en vertu des art. 8a al. 5 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier
+2010, RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal du
+13 novembre 2007, RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable;
+attendu que la requérante demande notamment la récusation de la juge intimée dans tous
+les dossiers opposant les époux [...] et l'annulation de l'arrêt du 20 mars 2015 (recte : 20
+février 2015) dans la cause I et de toutes les décisions prises dans les causes II et III,
+qu'elle soutient en premier lieu qu’elle fait l’objet d’une prévention de la part
+de la juge intimée du fait qu'en 2006-2007 celle-ci aurait fait son stage d'avocat dans l'étude
+[...], alors que l'intimé y était justement client,
+que par le passé, la juge intimée aurait ainsi été amenée à avoir B.C.________
+comme client,
+qu'interpellés sur cette question à l'audience du 20 février 2015 par le conseil de la
+requérante, le conseil de l'intimé se serait prévalu du secret professionnel pour ne pas
+répondre et la juge intimée se serait contentée de sourire en baissant la tête,
+qu'aucune mention n'aurait été de plus portée au procès-verbal,
+que, selon elle, le fait que la juge intimée ait, le 24 mars 2015, requis dans les causes II et
+III le versement d'avances de frais contraire au TFJC (tarif des frais judiciaires civils du 28 septembre
+2010, RSV 270.11.5) et été aperçue le 31 mars 2015 dans un restaurant en compagnie
+notamment du conseil de l'intimé, confirmerait sa partialité,
+que de son côté, la juge intimée conteste les griefs invoqués par la requérante,
+déclarant en substance qu'elle a effectivement effectué son stage d'avocat dans l'étude
+[...], mais qu'elle l'a quittée après l'obtention de son brevet d'avocat en 2007 pour intégrer
+l'étude [...],
+qu'elle n'a jamais été mandatée
+par l'une des parties au procès, ni travaillé sur le dossier de l'une des parties ni pendant
+son stage, ni ultérieurement, ni été mandaté par la société [...], ni une
+société du groupe, ni travaillé pendant son stage pour un avocat mandaté par l'un
+des époux [...] ou une société et qu'avant cette affaire, elle ne connaissait pas les
+parties et qu'elle ne les a jamais rencontrées,
+que la juge intimée expose qu'à l'audience du 20 février 2015, elle a confirmé l'information
+relative à l'étude dans laquelle elle avait effectué son stage d'avocat et que la requérante
+n'aurait pas, contrairement à ses dires, sollicité d'inscription au procès-verbal ni demandé
+sa récusation,
+que s'agissant du déjeuner du 31 mars 2015, celui-ci faisait suite à un week-end de formation
+des avocats-stagiaires organisé par Me [...] auquel elle avait participé, et que l'idée
+avait été lancée au mois de novembre 2014 par Me [...], soit avant même qu'elle ne
+soit saisie de l'affaire,
+qu'enfin, la demande de récusation serait, selon elle, tardive,
+que l'intimé soutient également que la demande est tardive, dans la mesure où la requérante
+connaissait le nom du juge en charge de l'affaire dès le lendemain de l'envoi de la décision
+du 30 décembre 2014, laquelle était signée par la juge intimée,
+que de plus, l'instance devant le magistrat concerné étant terminée, une demande de récusation
+ne plus être déposée selon lui,
+que, déliés du secret professionnel par l'intimé, le conseil de ce dernier ainsi que son
+confrère Me [...] ont indiqué que l'intimé n'avait pas été client de l'étude
+[...] avant l'automne 2013 et qu'à ce moment-là, M.________ avait quitté cette étude
+depuis six ans;
+attendu que la requérante invoque la partialité de la magistrate intimée en vertu de l'art.
+47 al. 1 let. f CPC (Code de procédure civile du 19 décembre 2008, RS 272), clause
+générale d’apparence de prévention,
+qu'à teneur de cette disposition, les magistrats et les fonctionnaires judiciaires se récusent
+lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment en raison d'un
+rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 de la Constitution fédérale
+du 18 avril 1999 (RS 101) et 6 § 1 de la Convention du 4 novembre 1950 de sauvegarde des droits
+de l'homme et des libertés fondamentales (RS 0.101), s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012 du
+4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les réf. cit.),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés, les impressions purement individuelles n'étant pas décisives
+(TF 5A_286/2013 du 12 juin 2013 c. 2.1; TF 5A_316/2012 du 17 octobre 2012 c. 6.2.1; TF 4A_151/2012
+du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les réf. cit.),
+que celui qui entend récuser un magistrat doit rendre vraisemblable les faits qui justifient sa
+demande (art. 49 al. 1 CPC),
+qu'en l'espèce, la requérante se contente d'alléguer le fait que l'intimé aurait
+été client de l'étude dénommée à l'époque [...] au même moment
+où la juge intimée était en stage d'avocat, soit entre 2006 et 2007,
+qu'elle n'a cependant pas apporté le moindre indice de la véracité de ses affirmations,
+ne serait-ce qu'en alléguant la période à laquelle l'intimé aurait vraisemblablement
+commencé à consulter ladite étude,
+que, délié du secret professionnel, le confrère du conseil de l'intimé a déclaré
+que B.C.________ avait mandaté son étude la première fois à l'automne 2013, soit
+6 ans après que la juge intimée ait quitté cette étude,
+qu'ainsi, ce premier grief doit être rejeté,
+que la requérante soutient ensuite que le fait que la juge intimée ait été aperçue
+le 31 mars 2015 déjeunant notamment avec le conseil de l'intimé, alors que le 24 mars et le
+1
+er
+avril 2015, elle rendait des décisions dans les causes II et III, mettrait sérieusement en
+cause son impartialité,
+qu'il résulte des déterminations de la juge intimée que ce déjeuner faisait suite
+à un week-end de formation des avocats-stagiaires organisé par Me [...] auquel elle avait participé,
+qu'il a été jugé que le fait qu'un juge appartienne à la même société
+d'anciens compagnons que l'avocat de la partie adverse, qu'ils se rencontrent dans ce cadre chaque semaine
+et qu'ils échangent à cette occasion sur des questions juridiques, n'était pas en soi
+un motif de récusation (RSPC 2010 351),
+que le simple fait qu'un magistrat soit amené à partager un repas avec un avocat représentant
+un client dans une cause dont s'occupe le magistrat n'est pas de nature à jeter sur celui-ci une
+apparence de prévention,
+que le fait d'invoquer ce seul élément, même compte tenu du contexte procédural dans
+lequel il s'insère, confine à la témérité de la part de la requérante,
+qu'au demeurant, l'arrêt du 20 février 2015 rendu dans la cause I a été adressé
+pour notification aux parties le 23 mars 2015, de sorte que la voie de la récusation n'est plus
+ouverte (Tappy, CPC commenté, Bâle 2011, n. 5 ad art. 49 CPC),
+que ce grief est infondé,
+qu'enfin, les autres griefs de la requérante ont trait notamment à l'attribution du droit de
+déterminer le lieu de résidence de l'enfant et aux montants des avances de frais requises dans
+les causes II et III, lesquels seraient telles qu'ils confirmeraient l'apparence de prévention de
+la juge intimée,
+qu'il n'appartient pas au juge de la récusation d'examiner la conduite du procès à la
+façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2),
+que les arguments appellatoires n’ont pas lieu d’être devant l’autorité de
+récusation (CA 32/2013 du 18 novembre 2013),
+qu'ainsi, ces griefs doivent également être rejetés;
+qu'au vu des éléments qui précèdent, la demande de récusation déposée
+par la requérante à l'encontre de la juge intimée doit être rejetée;
+attendu que la requérante a également demandé l'ouverture d'une enquête à l'encontre
+de la juge intimée,
+que l'autorité compétente pour ordonner l'ouverture d'une enquête administrative à
+l'égard d'un juge cantonal est le bureau du Grand Conseil (art. 37 al. 1 let. a LOJV [loi du
+12 décembre 1979 d'organisation judiciaire, RSV 173.01),
+que le code de procédure civile ne prévoit pas la transmission d'office de l'acte à l'autorité
+compétente,
+qu'il y a sur ce point un silence qualifié du législateur (CREC 2 juin 2014/188 et réf.
+cit.),
+que la sanction de l'incompétence ratione loci et materiae est donc l'irrecevabilité (CACI
+7 mai 2013/242; CACI 5 septembre 2011/236),
+qu'ainsi, cette demande est irrecevable;
+attendu que les frais de la présente décision sont arrêtés à 500 fr. (art. 28
+TFJC [tarif des frais judiciaires civils du 28 septembre 2010, RSV 270.11.5], applicable par renvoi
+de l’art. 51 TFJC) à la charge de la requérante, qui succombe (art. 106 al. 1 CPC),
+qu'une indemnité de 800 fr. est allouée à titre de dépens à B.C.________ pour
+la présente procédure (art. 9 TDC [tarif des dépens en matière civile; RSV 270.11.6].
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation déposée par A.C.________ est rejetée.
+II.
+La demande d'enquête administrative déposée par A.C.________ est irrecevable.
+III.
+Les frais judiciaires sont arrêtés à 500 fr. (cinq cents francs) et mis à la charge
+de la requérante A.C.________.
+IV.
+A.C.________ doit verser
+à B.C.________ la somme de 800 fr. (huit cents francs) à titre de dépens.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Henri-Philippe Sambuc (pour A.C.________),
+-
+Me Estelle Chanson (pour B.C.________).
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme M.________, juge cantonale,
+-
+Tribunal d'arrondissement de l'Est vaudois.
+La greffière :
