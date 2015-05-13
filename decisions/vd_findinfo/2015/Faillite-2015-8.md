@@ -1,0 +1,437 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 8"
+decided: "2015-05-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4933794"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-295c.md", "switzerland/bund/acts/281.1/art-306.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 8
+
+## Regeste
+
+RÉVOCATION DU SURSIS CONCORDATAIRE, PROVISOIRE | 294 al. 3 LP, 294 LP, 306 al. 2 ch. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.05.2015 Faillite / 2015 / 8
+
+RÉVOCATION DU SURSIS CONCORDATAIRE, PROVISOIRE | 294 al. 3 LP, 294 LP, 306 al. 2 ch. 2 LP
+
+TRIBUNAL
+CANTONAL
+FV14.040154-150268
+131
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 mai 2015
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+294, 306 al. 1 ch. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+S.________
+SA
+, à [...], contre la décision rendue
+le 30 janvier 2015, à la suite de l’audience du 20 janvier 2015, par le Président du
+Tribunal d’arrondissement de la Broye et du Nord vaudois révoquant le sursis provisoire accordé
+à la recourante.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+2 octobre 2014, la recourante S.________ SA, ayant comme but social la « construction, achat,
+vente, transformation, location, gérance et exploitation de biens immobiliers », a déposé
+une requête de sursis provisoire et définitif auprès du Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois.
+Dans cette requête, la recourante établissait notamment être propriétaire de deux
+appartements en PPE à O.________ et d’un immeuble à R.________, en propriété
+individuelle, de plusieurs autres biens immobiliers à R.________ et H.________ en main commune avec
+une société tierce, et d’un immeuble en main commune avec deux sociétés tierces
+à Q.________. Selon rapports d’expertise produits avec la requête, la valeur de ces biens
+s’élevait en 2011 à 21'655'000 francs. La recourante exposait que des travaux importants
+de rénovation destinés à conférer à ces biens un statut d’exception avaient
+été effectués, mais qu’en raison d’un retournement important du marché
+de l’immobilier de luxe, et malgré la conclusion de contrats de courtage auprès de diverses
+agences, ces biens n’avaient pas encore trouvé d’acquéreurs. A cela s’ajoutait
+le fait qu’elle avait dû ouvrir action contre un client pour le paiement d’une somme
+de 541'603 fr. 20, montant pour lequel elle avait obtenu l’inscription provisoire d’une hypothèque
+légale, le procès au fond étant toujours en cours. Ces circonstances avaient eu pour conséquence
+qu’elle avait subi un manque aigu de liquidités ayant provoqué l’impossibilité
+de rembourser ses créanciers à partir du mois d’août 2013. Elle faisait valoir que
+l’ouverture d’une faillite engendrerait la réalisation forcée des immeubles à
+des conditions nettement moins intéressantes que celles possibles par une recherche fine d’acquéreurs
+et comporterait des complications importantes vu l’existence de parts de communauté, alors
+que l’octroi d’un sursis concordataire permettrait de réaliser tout ou partie du parc
+immobilier dans des meilleures conditions, de nature à permettre le règlement intégral
+des créances privilégiées et chirographaires.
+b)
+Par
+décision du 10 octobre 2014, le Président du Tribunal d’arrondissement de la Broye et
+du Nord vaudois a accordé à la recourante un sursis provisoire jusqu’au 10 février
+2015 (I), désigné K.________ en qualité de commissaire au sursis provisoire, avec pour
+mission de préparer les mesures d’assainissement, voire en surveiller la mise en œuvre
+ou d’examiner si un concordat est possible et quelles pourraient être ses caractéristiques,
+et de surveiller la requérante, ainsi que de garantir de la sorte les intérêts de tiers
+en s’assurant en particulier que le substrat disponible de la société ne diminue pas
+(II), dit qu’il appartiendrait à la requérante de provisionner directement le commissaire
+au sursis pour ses honoraires (III), invité le commissaire au sursis provisoire à déposer
+un rapport écrit pour le 12 janvier 2015 au plus tard (IV), dit qu’une audience était
+d’ores et déjà fixée au 20 janvier 2015 à 9 heures, l’envoi de la décision
+valant convocation à cette audience (V), dit que la décision ne serait pas publiée (VI)
+et mis les frais judiciaires, fixés à 200 fr. à la charge de S.________ SA (VII).
+A la date de la requête de sursis, S.________ SA faisait l’objet de deux requêtes de
+faillite pour lesquelles des audiences avaient été fixées au 7 octobre 2014. Ces audiences
+ont été annulées en raison de la présente procédure.
+c)
+Le
+18 novembre 2014, W.________ et G.________, par leur conseil, ont informé le Président du Tribunal
+d’arrondissement de la Broye et du Nord vaudois qu’ils participeraient à l’audience
+du 20 janvier 2015, qu’ils étaient en litige avec la requérante devant la Chambre patrimoniale
+cantonale et qu’ils avaient invoqué la compensation pour un montant de plus de 96'000 francs.
+Le 15 décembre 2014, L.________ s’est plainte auprès du Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois du fait que le véhicule de l’entreprise n’ait pas été
+réalisé pour payer l’arriéré des salaires dus.
+Le 23 décembre 2014, X.________ ont demandé au Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois si la recourante avait déposé une requête de sursis concordataire
+afin de pouvoir produire les créances résultant de l’inscription sur leur parcelle à
+O.________ d’une hypothèque légale des artisans et entrepreneurs à la suite du défaut
+de paiement par la recourante des entreprises ayant œuvré sur l’immeuble.
+2.
+Dans son rapport du 10 janvier 2015, le commissaire
+au sursis provisoire a établi un inventaire sommaire des actifs de la société. Selon cet
+inventaire, ceux-ci comprenaient les immeubles sis sur les communes d’O.________ et de R.________
+pour une valeur de 9'064'000 fr., des objets mobiliers pour une valeur de 2'750 fr. et des papiers-valeurs,
+créances et droits divers comprenant les parts de la recourante sur les immeubles de R.________,
+de H.________ et de Q.________ (déduction faite des créances garanties par gage immobilier),
+ainsi que notamment les créances découlant de l’inscription provisoire d’une hypothèque
+légale des artisans et entrepreneurs, pour une valeur de 563'002 francs. La valeur des actifs s’élevait
+en conséquence à 9'629'752 francs. Le commissaire a précisé que cette estimation
+était prudente et correspondait à une valeur de liquidation dans le cadre d’une faillite.
+Le commissaire au sursis provisoire a également établi les passifs de la société,
+comprenant environ septante créanciers, soit des créanciers garantis par gages immobiliers
+pour un montant de 8'551'000 fr. environ, des créanciers privilégiés (salaires, AVS, LPP)
+pour un montant de 122'000 fr. environ et des créanciers chirographaires pour un montant de 2'786'000
+fr., soit un passif total de 11'459'000 francs. La liste de créanciers révèle en particulier
+que la recourante doit 17'437 fr. 29 de salaire à une employée et 28'807 fr. à une autre,
+qu’elle doit 30'189 francs 10 à la Caisse AVS, plus de 18'000 fr. de contributions publiques,
+près de 10'000 fr. à l’ECA et 13'900 fr. à Swisscaution. La recourante doit en outre
+des frais de PPE pour environ 50'000 fr. et a aussi de petites dettes d’électricité,
+de gaz et d’essence.
+Le commissaire au sursis provisoire a indiqué qu’à la suite du défaut de paiement
+par la recourante du loyers de ses locaux commerciaux, elle avait reçu du Juge de paix du district
+du Jura-Nord vaudois l’ordre de rendre ces locaux pour le 3 février 2015, que les derniers
+salaires des employés n’avait pas été versés, de même que les charges
+hypothécaires courantes.
+Dans l’hypothèse d’une liquidation par voie de faillite, le commissaire au sursis provisoire
+a estimé à 30 % environ le dividende pour les créances en troisième classe. Il a
+relevé que dans ce cas, les immeubles propriétés de la recourante seraient réalisés
+par enchères publiques et à tout prix et que ceux dont elle détenait des parts devraient
+faire l’objet d’une procédure à l’issue et aux frais incertains.
+En ce qui concerne l’hypothèse concordataire, le commissaire au sursis provisoire a relevé
+que les immeubles mis en vente étaient de haut standing et ne correspondaient pas nécessairement
+aux besoins actuels du marché, ne convenant qu’à une minorité d’amateurs.
+De plus, leur prix très élevé dissuadait certainement des intéressés. Toutefois,
+et malgré le fait que les intérêts hypothécaires soient impayés, un atermoiement
+de six mois devait permettre à la recourante de trouver un ou des amateurs sérieux formulant
+une offre ferme et chiffrée pour l’achat de l’un ou l’autre immeuble dont la recourante
+est propriétaire, ces offres, après paiement des créances garanties par gage immobilier,
+devant laisser un reliquat substantiel permettant non seulement de régler les créanciers privilégiés,
+mais aussi de couvrir partiellement les créanciers chirographaires.
+En définitive, le commissaire au sursis provisoire proposait notamment l’octroi à la
+recourante d’un sursis concordataire de six mois, à ce qu’il soit désigné
+commissaire au sursis et à ce qu’une somme de 14'000 fr. soit versée par la recourante
+à titre d’avance de frais.
+3.
+Le 14 janvier 2015, C.________ a transmis au commissaire au sursis provisoire un courrier signé
+le 20 novembre 2014 par l’administrateur de la recourante fixant la reprise du travail après
+son congé maternité au 23 janvier 2015 et rappelant l’assurance de celui-ci que la recourante
+serait en mesure de lui verser les salaires du mois de décembre, ainsi que le treizième salaire.
+Elle indiquait que ces salaires n’avaient pas été versés et qu’elle avait
+été contrainte d’initier une procédure de mise en demeure pour ces salaires, de
+même que pour celui du mois d’août 2014.
+Le 19 janvier 2015, X.________ ont transmis au commissaire au sursis provisoire l’ordonnance de
+mesures provisionnelles rendue le 17 juillet 2014 par le Président du Tribunal civil de l’arrondissement
+de La Côte, dont la motivation avait été envoyée le 5 janvier 2015 pour notification,
+confirmant l’ordonnance de mesures superprovisonnelles du 4 avril 2014 ordonnant au Conservateur
+du Registre foncier de l’Office de Morges d’inscrire sur leur part d’immeuble ainsi
+que sur celles de la recourante une hypothèque légale de respectivement 6'658 fr., avec intérêts
+et accessoire légaux, de 15'106 fr. 40 avec intérêts et accessoires légaux et de
+11'165 fr. 60 avec intérêts et accessoires légaux en faveur de l’entreprise ayant
+installé les ascenseurs. Ils lui ont également transmis une attestation du 5 janvier 2015 d’ouverture
+de l’action au fond ainsi que copie de la demande au fond du 14 novembre 2014.
+A l’audience du 20 janvier 2015, la recourante a maintenu ses conclusions en octroi d’un
+sursis définitif de six mois. Elle a produit un contrat de bail à loyer relatif à l’immeuble
+de H.________ dans lequel figure une clause prévoyant un « droit de préemption »
+en faveur du locataire pour un prix d’ores et déjà fixé à 3'800'000 francs.
+Elle a expliqué que dorénavant, elle n’avait plus de charge de loyer, puisque son administrateur
+avait prévu de travailler à son domicile privé, et qu’elle n’avait plus de
+charge de salaires, étant précisé que l’une des employées n’avait pu
+être licenciée plus tôt en raison d’un congé-maternité.
+Le commissaire au sursis provisoire a modifié les conclusions de son rapport en ce sens qu’il
+s’en est remis à justice sur la suite de la procédure. Il a relevé à cet égard
+que la recourante ne s’était plus acquittée d’aucune charge courante depuis l’octroi
+du sursis provisoire, laissant ainsi impayés charges hypothécaires, salaires et loyers, de
+même que les primes d’assurance-bâtiment et les charges sociales. Le commissaire au sursis
+provisoire a en outre expliqué que la recourante lui avait indiqué que la personne occupant
+comme locataire l’immeuble de H.________ avait l’intention d’acquérir l’immeuble,
+mais qu’elle ne lui avait fourni aucun document attestant de cette intention, et que les parts
+de copropriété d’O.________ étaient en vente depuis deux ans, sans offre concrète
+en vue. Dans ces conditions, le commissaire au sursis provisoire a déclaré douter que l’un
+ou l’autre des immeubles de la recourante trouve rapidement preneur et que les charges courantes
+puissent être payées dans les mois suivants.
+4.
+Par décision du 30 janvier 2015, notifiée
+à la recourante le 2 février 2015, le Président du Tribunal d’arrondissement de
+la Broye et du Nord vaudois a révoqué le sursis provisoire accordé à la recourante
+par décision du 10 octobre 2014 (I), relevé le commissaire au sursis provisoire de sa mission
+(II), fixé à 3'000 fr. l’indemnité due par la recourante au commissaire au sursis
+provisoire (III) et fixé à 800 fr. les frais judiciaires de la décision à la charge
+de la recourante (IV).
+En bref, le premier juge a considéré que l’assainissement de la recourante était
+exclu, vu les constatations du commissaire au sursis provisoire basées sur un inventaire précis
+des biens de celle-ci et sur la liste provisoire de ses créanciers, un concordat dividende étant
+tout au plus envisageable. Toutefois, la recourante n’avait apporté aucun élément
+permettant d’envisager la vente de l’un de ses immeubles dans un délai raisonnable et,
+vu le marché des immeubles de luxe, il apparaissait très improbable qu’elle puisse en
+réaliser une partie dans les prochains mois, même en ajustant les prix à la baisse. Le
+premier juge a en outre relevé que la recourante ne parvenait plus à s’acquitter de ses
+charges courantes et qu’il n’y avait pas d’élément tangible permettant de
+croire à une amélioration prochaine de sa capacité à payer ces charges, même
+réduites. Les conditions de l’octroi d’un sursis concordataire n’étaient
+en conséquence pas réalisées. Le juge a indiqué qu’au vu de ces considérations,
+la faillite de la recourante serait prononcée d’office dès la décision définitive
+et exécutoire.
+5.
+S.________ SA a recouru le 11 février 2015 contre cette décision en concluant, avec dépens,
+principalement à son annulation et au renvoi de la cause au premier juge et, subsidiairement, à
+sa réforme en ce sens qu’un sursis concordataire définitif de six mois, éventuellement
+d’une durée inférieure lui est accordé, le commissaire au sursis provisoire étant
+désigné commissaire au sursis définitif. Elle a produit un bordereau de pièces et
+requis que l’effet suspensif soit accordé au recours.
+Par décision du 19 février 2015, la présidente de la cour de céans a admis la requête
+d’effet suspensif.
+Le recours a été communiqué aux intimés le 9 mars 2015, avec délai de déterminations
+de dix jours.
+Le 10 mars 2015, l’Office des faillites de l’arrondissement de la Broye et du Nord vaudois
+a renoncé à déposer des déterminations.
+Le même jour, l’Office de poursuites du district du Jura-Nord vaudois a également renoncé
+à se déterminer sur le recours.
+Dans ses déterminations du 16 mars 2015, L.________ a conclu au rejet du recours.
+Le 16 mars 2015, W.________ et G.________ ont conclu au rejet du recours, ainsi qu’à la fourniture
+par la recourante de sûretés d’un montant de 2'000 francs.
+Dans ses déterminations du 17 mars 2015, le commissaire au sursis provisoire a conclu au rejet du
+recours. Il a produit un bordereau de pièces.
+Le 17 mars 2015, C.________ a exposé sa situation et relevé que la recourante n’avait
+tenu aucune des promesses qu’elle lui avait faites.
+Le 19 mars 2015, X.________ s’en sont remis à justice.
+Le 9 avril 2015, la recourante a déposé des déterminations spontanées sur les réponses
+des intimés et a produit deux pièces.
+Le 15 avril 2015, W.________ et G.________ ont confirmé leurs conclusions.
+Par décision du 20 avril 2015, la présidente de la cour de céans a rejeté la requête
+en fourniture de sûretés déposée par W.________ et G.________.
+Le même jour, la recourante a produit une pièce.
+Le 28 avril 2015, W.________ et G.________ se sont déterminés sur la pièce produite par
+la recourante le 20 avril 2015. Ces déterminations ont été communiquées aux parties
+le 29 avril 2015.
+En droit
+:
+I.
+L’art. 295c al. 1 LP (loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1), dans sa teneur en vigueur
+depuis le 1
+er
+janvier 2014, ouvre la voie du recours des art. 319 ss CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272) au débiteur et aux créanciers contre la décision du juge en matière
+de sursis concordataire (Feuille fédérale [FF] 2010, p. 5900).
+Interjeté dans le délai de l’art. 321 al. 2 CPC, écrit est motivé (art. 321
+al. 1 CPC), le recours est recevable. Il en est de même des réponses des intimés (art.
+322 al. 1 CPC) et des déterminations spontanées sur réponse de la recourante et sur réplique
+des intimés W.________ et G.________ (ATF 138 I 484 c. 2.2 ; ATF 137 I 195 c. 2.3.1 ;
+ATF 133 I 98 c. 2.1 ; ATF 132 I 142).
+En revanche, les pièces nouvelles produites par les parties en deuxième instance sont irrecevables
+dans la mesure où elles ne figurent pas au dossier de première instance (art. 326 al. 1 CPC).
+La LP n’a en effet pas, à la différence du recours en matière de jugement de faillite
+(art. 174 al. 1 LP) et du recours en matière de sursis extraordinaire (art. 348 al. 2 LP), prévu
+de régime dérogatoire réservé par l’art. 326 al. 2 CPC en matière de concordat
+(CPF, 15 janvier 2015/2).
+II.
+a)
+Selon l’art. 294 al. 1 LP, dans sa teneur
+en vigueur dès le 1
+er
+janvier 2014, si, durant le sursis provisoire, des perspectives d'assainissement ou d'homologation d'un
+concordat apparaissent, le juge du concordat octroie définitivement un sursis de quatre à six
+mois; il statue d'office avant l'expiration du sursis provisoire. Le message a précisé que
+cette condition doit être évaluée à la lumière de critères objectifs. Si
+l’objectif est de conclure un concordat par abandon d’actifs, il faut que les intérêts
+des créanciers soient mieux garantis par la procédure concordataire que par une faillite (FF
+2010, p. 5898). Comme en matière d’ajournement de faillite de l’art. 173a LP, dans le
+cadre de la procédure sommaire, le tribunal examine, en matière de concordat, s’il est
+rendu vraisemblable qu’un concordat est possible. A cet égard, la doctrine a précisé
+qu’il ne suffit pas au débiteur d’alléguer l’existence d’une telle
+possibilité ; encore faut-il que celle-ci ressorte du dossier, ou des éléments de
+preuve apportés par le débiteur, le créancier ou des tiers (Giroud, Basler Kommentar,
+nn 7 à 9 ad art. 173a LP et les références)
+S'il n'existe aucune perspective d'assainissement ou d'homologation d'un concordat, le juge prononce
+d'office la faillite (art. 294 al. 3 LP).
+b)
+Selon
+l’art. 306 al. 1 ch. 2 LP, dans sa teneur en vigueur au 1
+er
+janvier 2014, l’homologation du concordat est soumise notamment à la condition que le paiement
+intégral des créanciers privilégiés reconnus et l'exécution des obligations
+contractées pendant le sursis avec le consentement du commissaire doivent faire l'objet d'une garantie
+suffisante, à moins que chaque créancier n'ait expressément renoncé à en exiger
+une pour sa propre créance.
+Le Message a précisé qu’à la différence du droit antérieur, le nouveau
+droit restreint l’obligation de garantie, qui ne s’étend plus à l’exécution
+du concordat et par là au désintéressement des créanciers de troisième classe.
+En revanche, aucune modification n’est apportée à l’obligation de garantie portant
+sur les autres dettes de la masse. Sinon il deviendrait probablement trop difficile de trouver les investisseurs
+souvent nécessaires pour mener à bien un assainissement, et il serait presque impossible de
+poursuivre l’activité commerciale de l’entreprise pendant le sursis. La garantie des
+créances privilégiées est aussi maintenue (FF 2010 pp. 5904-5905).
+c)
+En
+l’espèce, il est apparu que, dans la période du sursis provisoire aucune charge courante
+n’a été payée. La recourante le conteste dans son recours en faisant valoir que
+certaines des charges hypothécaires auraient été payées et que le salaire de l’une
+des employées n’aurait pas eu à être payé si elle n’avait pas bénéficié
+d’un congé-maternité ayant prolongé son contrat de travail. En ce qui concerne les
+charges de loyer de ses locaux professionnels, qui doivent être qualifiés d’indemnités
+d’occupation illicite vu la résiliation antérieure de ce bail, la recourante soutient
+qu’elles ne constitueraient pas une charge courante et que la bailleresse sera colloquée en
+troisième classe le moment venu. Ce faisant, la recourante conteste en vain les constatation du
+prononcé attaqué, prétendant que le commissaire au sursis provisoire aurait été
+insuffisamment renseigné : il lui appartenait, si elle entendait faire valoir qu’elle
+avait payé ne serait-ce qu’une partie des charges, de l’établir. Or elle n’a
+fourni aucun élément sur ce point. Au demeurant, même si on devait la suivre sur les faits
+qu’elle allègue, il n’en demeurerait pas moins qu’une bonne partie des charges
+courantes n’a pas été payée. A cet égard, les considérations de la recourante
+sur l’indemnité d’occupation ou sur les raisons pour lesquelles le salaire d’une
+des employées serait dû ne sont d’aucune pertinence.
+En réalité, il y a bien lieu de retenir que la recourante, pendant toute la période du
+sursis provisoire, n’a réglé aucune charge courante. Dans ces conditions, on ne peut
+considérer que les obligations contractées pendant le sursis feraient l’objet d’une
+garantie quelconque – la recourante ne prétend rien à cet égard – et l’homologation
+d’un concordat paraît exclue.
+Par ailleurs, il y a plus de deux ans que les immeubles de la recourante sont en vente, sans qu’aucune
+n’ait abouti, et la recourante n’a pas été en mesure de fournir de pièces
+relatives à un éventuel client. Cette situation n’a aucunement évolué durant
+le sursis provisoire, la situation sur le marché des appartements de luxe étant, comme le reconnaît
+la recourante, difficile. Au surplus, le défaut de paiement durant une longue période des charges
+de PPE est un obstacle supplémentaire à la vente des part de cette PPE.
+En définitive, il ressort de la liste des dettes établie par le commissaire qu’en réalité,
+la recourante est en situation de cessation de paiement depuis plusieurs mois avant la demande de sursis.
+Elle ne paie ni les contributions publiques, ni les cotisations d’assurances sociales, ni les salaires,
+et cela depuis longtemps au vu des montant concernés. Elle ne paie pas davantage les charges hypothécaires,
+de PPE ou les primes d’assurance-incendie. On constate d’après la liste établie
+par le commissaire au sursis provisoire que même les plus petites dettes demeurent impayées.
+Dans de telles conditions, il aurait été justifié de prononcer une faillite sans poursuite
+préalable et l’on est très loin des conditions nécessaires à un concordat.
+Le sursis ne saurait avoir pour effet que l’augmentation du passif. La recourante ne saurait à
+cet égard faire valoir que la situation est due à la prétendue défaillance de W.________
+et G.________ avec lesquels elle est en procès pour quelques 500'000 francs. Cet élément
+est un aléa ordinaire de la vie des affaires et ne justifie pas une cessation de paiement.
+A cela s’ajoute que le concordat dividende suppose que l’activité du débiteur se
+poursuive, alors que le concordat par abandon d’actifs est quant à lui plus proche de la faillite
+dans la mesure où il aboutit à une liquidation (totale ou partielle) du patrimoine du concordataire
+(Gilliéron, Poursuite pour dettes, faillite et concordat, 5
+e
+éd., n° 3202, p. 630). Or, dans le présent cas, un concordat dividende est exclu, dès
+lors que la continuation des activités de la recourante est inimaginable : celle-ci n’a
+plus de locaux commerciaux et plus d’employés. Elle n’a de fait, déjà, plus
+aucune activité. En première comme en deuxième instance, elle fait valoir que les immeubles
+qu’elle possède pourraient être vendus à meilleur compte de gré à gré,
+par elle-même, que dans le cadre d’une procédure de faillite. Mais à aucun moment,
+elle ne soutient qu’elle entendrait ou serait à même de poursuivre des activités
+dans l’immobilier, d’acheter ou de faire construire d’autres immeubles, etc. Dans ces
+conditions, un concordat dividende n’aurait aucun sens.
+C’est donc à juste titre que le premier juge a révoqué le sursis provisoire et considéré
+que la faillite devrait être prononcée dès que sa décision serait définitive
+et exécutoire.
+III.
+En conclusion, le recours doit être rejeté
+et le prononcé confirmée.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. sont, vu le rejet du
+recours, mis à la charge de la recourante (art. 106 al. 1 CPC).
+Les intimés W.________ et G.________, qui ont conclu au rejet du recours et étaient assistés
+d’un avocat, ont droit à des dépens de deuxième instance, fixés à 700
+francs. Il n’y a pas lieu d’allouer de dépens aux autres intimés, qui ont agi sans
+l’assistance d’un mandataire professionnel ou s’en sont remis à justice.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante S.________ SA versera aux intimés W.________ et G.________, solidairement entre eux,
+la somme de 700 fr. (sept cents francs) à titre de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Christophe Savoy, agent d’affaires breveté, (pour S.________ SA),
+‑
+M. K.________,
+-
+Me Jean-Noël Jaton, avocat, (pour X.________)
+-
+Me Michel Dupuis, avocat, (pour W.________ et G.________),
+-
+Mme C.________,
+-
+Mme L.________,
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d’Yverdon-les-Bains,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
