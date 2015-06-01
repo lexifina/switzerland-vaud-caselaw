@@ -1,0 +1,222 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 23"
+decided: "2015-06-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4973514"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 23
+
+## Regeste
+
+QUALITÉ POUR RECOURIR, PLAINTE{LP} | 18 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 01.06.2015 Plainte / 2015 / 23
+
+QUALITÉ POUR RECOURIR, PLAINTE{LP} | 18 LP
+
+TRIBUNAL
+CANTONAL
+FA15.003409-150703
+20
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+1er juin 2015
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.P.________
+,
+à Morat, contre la décision rendue le 22 avril 2015, à la suite de l’audience du
+17 mars 2015, par le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+autorité inférieure de surveillance, admettant la plainte déposée contre l'
+Office
+des poursuites du district de La Broye-Vully
+,
+à Payerne, par
+A.K.________
+et
+B.K.________
+,
+à [...], dans le cadre de poursuites exercées à leur encontre.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Par jugement rendu le 13 mars 2001 par le Tribunal
+correctionnel d'arrondissement de La Broye et du Nord vaudois, A.P.________ a été condamné
+pour calomnie à la peine d'un mois d'emprisonnement avec sursis, reconnu coupable d'avoir, en s'adressant
+à des tiers, faussement accusé A.K.________ de lui avoir volé tout le matériel d'exploitation
+du café-restaurant situé dans un immeuble dont il était propriétaire et qui, vendu
+aux enchères dans le cadre de sa faillite, avait été adjugé à A.K.________.
+Ce jugement a été confirmé par arrêt de la Cour de cassation pénale du Tribunal
+cantonal du 5 juillet 2001, contre lequel A.P.________ a recouru en vain, le Tribunal fédéral
+ayant rejeté son recours par arrêt du 6 février 2002.
+b)
+Le
+30 décembre 2014, A.P.________, agissant comme représentant de ses deux fils C.P.________ et
+B.P.________, a requis de l'Office des poursuites du district de La Broye-Vully (ci-après : l'Office)
+la poursuite en paiement de la somme de 192'900 fr. 80, plus intérêt à 5 % l'an dès
+le 1
+er
+janvier 1996, à l'encontre de A.K.________ et de son épouse, B.K.________, en invoquant comme
+titre de la créance ou cause de l'obligation :
+"Poursuite
+interruptive de prescription.
+Poursuite
+conjointe et solidaire avec B.K.________/A.K.________, [...], [...].
+Disparition
+de mobilier dans l'immeuble [...] du Registre foncier d'Avenches dès le 01.01.1996. Responsabilité
+en tant que gérant de ces biens prêtés avec suite de carambouille."
+L'Office a donné suite à cette réquisition en établissant le 14 janvier 2015 deux
+commandements de payer, dans les poursuites n
+os
+7'303'800 et 7'303'801, qu'il a notifiés aux poursuivis le 15 janvier 2015. Ces actes ont été
+frappés d'opposition totale.
+c)
+Le
+26 janvier 2015, A.K.________ et B.K.________ ont déposé auprès du Tribunal d'arrondissement
+de La Broye et du Nord vaudois une plainte au sens de l'art. 17 LP [loi fédérale sur la poursuite
+pour dette et la faillite; RS 281.1] contre ces poursuites, qu'ils ont qualifiées d'abusives et
+dont ils ont demandé qu'elles soient déclarées nulles.
+Les poursuivants, représentés par A.P.________, ainsi que ce dernier ont tous trois été
+convoqués à l'audience de plainte du 10 mars 2015, ultérieurement reportée au 17
+mars 2015,  par avis du Président du tribunal indiquant que la partie intimée pouvait
+se déterminer verbalement à l'audience ou déposer une détermination écrite dans
+un délai échéant le 25 février 2015.
+L'Office s'est déterminé le 24 février 2015, concluant à ce que soit constatée
+et prononcée la nullité des poursuites en cause.
+Par lettre du 27 février 2015,  A.P.________, indiquant agir "en tant que mandataire"
+de ses deux fils, a demandé au Président du tribunal à quel titre ils étaient tous
+trois convoqués et a en outre requis l'assistance judiciaire.
+Par lettre du 2 mars 2015, le magistrat a répondu que les intervenants n'étaient pas dispensés
+de comparaître personnellement à l'audience et qu'ils n'avaient pas droit à l'assistance
+judiciaire dans le cadre d'une plainte 17 LP.
+2.
+A.P.________ et son fils C.P.________ se sont présentés à l'audience de plainte du 17
+mars 2015, dont le procès-verbal les désigne comme "intervenants". C'est en cette
+qualité que la décision rendue le 22 avril 2015 par le Président du Tribunal d'arrondissement
+de La Broye et du Nord vaudois, autorité inférieure de surveillance en matière de poursuites
+pour dettes et de faillites, leur a été notifiée, de même qu'à B.P.________.
+Par cette décision, rendue sans frais ni dépens, le Président du tribunal a admis la plainte
+de A.K.________ et B.K.________ et constaté la nullité des poursuites dirigées contre
+eux. La décision mentionne notamment qu'interrogé sur la qualité de créanciers de
+ses deux fils, A.P.________ a déclaré qu'ils seraient devenus créanciers en vertu d'un
+testament, daté de 1981, émanant de sa mère.
+3.
+A.P.________ a recouru en temps utile, par acte
+du 4 mai 2015, contre la décision qui lui avait été notifiée le 24 avril 2015. Il
+a conclu à son annulation.
+Par lettre du 11 mai 2015, la Vice-présidente de la cour de céans, autorité cantonale
+supérieure de surveillance, a invité A.P.________ à préciser s'il recourait pour
+lui-même ou en qualité de représentant de ses deux fils, ou de l'un deux, et à justifier,
+le cas échéant, de son pouvoir de procuration.
+Par lettre du 22 mai 2015, A.P.________ a précisé ne recourir que pour lui-même, en défense
+de ses intérêts dans une affaire pénale en sa qualité de prévenu "dont
+les sentences déterminantes seront influencées par la véracité ou non de [son] recours".
+En droit :
+I.
+a)
+La qualité pour recourir – qui est
+une condition de recevabilité du recours et qui doit être examinée d'office – doit
+être reconnue à toute personne qui avait, devant l'autorité inférieure, qualité
+à la plainte et à toute personne ou autorité de poursuite qui fait valoir un intérêt
+digne de protection, direct, actuel et réel à la suite de la décision de l'autorité
+inférieure, tout "tiers" à la procédure de plainte dont la situation est modifiée
+et à qui d'ailleurs la décision de l'autorité inférieure doit être communiquée
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 26
+ad
+art. 18 LP). La légitimation pour déposer plainte et recourir est subordonnée, quant aux
+personnes concernées par une procédure d'exécution forcée en cours, voire close,
+à l'existence d'une lésion ou d'une menace des intérêts juridiquement protégés
+ou d'une atteinte grave aux intérêts personnels, le recourant devant justifier d'un intérêt
+actuel, réel et concret à saisir l'autorité cantonale supérieure de surveillance
+(CPF, 13 janvier 2015/4; Gilliéron,
+op.
+cit.
+, nn. 32 et 33
+ad
+art. 18 LP).
+b)
+En
+l'espèce, le recourant – quand bien même il a été qualifié d'intervenant
+par l'autorité inférieure de surveillance – n'est pas personnellement partie à la
+procédure de plainte. Jusqu'au stade du recours, il est intervenu dans la procédure d'exécution
+forcée uniquement en qualité de représentant de ses fils, au nom de qui il agit et qu'il
+présente comme étant les créanciers de la somme réclamée en poursuite. Dans
+son acte de recours, et plus particulièrement dans sa lettre du 22 mai 2015, il expose que
+l'issue de la procédure d'exécution forcée est de nature à rétablir la vérité
+au sujet des faits à l'origine de la procédure pénale ayant abouti à sa condamnation
+pour calomnie. Il remet ainsi en question les faits contenus dans un jugement pénal définitif
+et exécutoire. Cela ne constitue évidemment pas un intérêt actuel, concret et réel
+à saisir la cour de céans d'un recours contre la décision de l'autorité inférieure
+de surveillance déclarant nulles les poursuites qu'il a requises plus de dix ans après les
+faits en question, au surplus non comme poursuivant mais comme représentant des poursuivants. Même
+en considérant l'hypothèse que les poursuites en cause aboutissent, on constate que cela ne
+changerait concrètement rien à la situation du recourant, qui n'est pas propriétaire des
+biens invoqués dans ces poursuites et dont la condamnation pénale subsisterait. Ainsi, A.P.________,
+qui n'est pas partie à la procédure, n'établit aucun intérêt concret et direct
+digne de protection à recourir.
+II.
+Vu ce qui précède, le recours doit être déclaré irrecevable.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. A.P.________,
+‑
+Me Olivier Burnet, avocat (pour A.K.________ et B.K.________),
+-
+M. le Préposé à l’Office des poursuites du district de La Broye-Vully.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
