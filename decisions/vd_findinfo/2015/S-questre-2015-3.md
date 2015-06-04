@@ -1,0 +1,762 @@
+---
+decision_id: "vd_findinfo_S_questre___2015___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2015 / 3"
+decided: "2015-06-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/4999350"
+cites_law: ["switzerland/bund/acts/0.275.12/art-001.md", "switzerland/bund/acts/0.275.12/art-031.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/291/art-001.md", "switzerland/bund/acts/291/art-010.md", "switzerland/bund/acts/291/art-016.md", "switzerland/bund/acts/291/art-116.md", "switzerland/bund/acts/291/art-118.md"]
+---
+
+# VD Findinfo Séquestre / 2015 / 3
+
+## Regeste
+
+SÉQUESTRE{LP}, OPPOSITION{LP}, CONSTATATION DU DROIT ÉTRANGER | 116 LDIP, 16 LDIP, 278 al. 3 LP, 326 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.06.2015 Séquestre / 2015 / 3
+
+SÉQUESTRE{LP}, OPPOSITION{LP}, CONSTATATION DU DROIT ÉTRANGER | 116 LDIP, 16 LDIP, 278 al. 3 LP, 326 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KE13.048104-141008
+155
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 juin 2015
+________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+278 al. 3 LP; 326 CPC; 16 et 116 LDIP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+T.________AG
+,
+à Cham (ZG), contre le prononcé rendu le 14 février 2014, à la suite de l’audience
+du 4 février 2014, par le Juge de paix du district de Lausanne, admettant partiellement l'opposition
+formée par
+W.________Ltd
+,
+à Londres (Royaume-Uni), au séquestre ordonné contre elle le 21 octobre 2013 à
+la requête de la recourante.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 21 octobre 2013, T.________AG, société
+anonyme de droit suisse, active dans le domaine du commerce de matières premières, notamment
+l'acier et le fer, a déposé auprès du Juge de paix du district de Lausanne une requête
+de séquestre dirigée contre W.________Ltd, société anglaise dont le siège est
+à Londres, active également dans le commerce des métaux. Invoquant le cas de séquestre
+de l'art. 271 al. 1 ch. 4 LP [loi fédérale sur la poursuite pour dettes et la faillite; RS
+281.1], la requérante a pris les conclusions suivantes :
+"1.
+Ordonner le séquestre à concurrence de CHF 503'125.00 (USD 558'221.58) portant intérêt
+de 5 % depuis ce jour, au profit de T.________AG, et à l'encontre de W.________Ltd, de tous les
+avoirs et biens, valeurs, papiers-valeurs, titres, certificats, titres représentatifs de marchandises,
+documents, cessions, créances actuelles, droits réels ou personnels, participations et autres
+biens, métaux précieux, valeurs et droits patrimoniaux de quelque nature que ce soit, en compte
+courant ou autres, dépôt, coffre-fort, dossiers ou autres, sous nom propre ou pseudonyme, désignation
+conventionnelle ou numérique, ou au nom de tiers, notamment de personnes morales, trusts, trustees,
+société offshore ou autres entités similaires, mais appartenant en réalité à
+W.________Ltd, en mains de l'établissement bancaire suivant : Banque Cantonal[e] Vaudoise, Place
+Saint-François 14, 1003 Lausanne.
+2.
+Dire que le séquestre sera validé par le fait de l'action au fond préalable engagée
+par-devant le tribunal arbitral en date du 21 octobre 2013.
+3.
+Dire que le séquestre est ordonné sans fourniture de sûretés."
+A l’appui de sa requête, T.________AG a notamment produit un contrat de vente du 15 avril
+2013 (n° [...]), signé  par les deux parties, par lequel elle a vendu à W.________Ltd
+50'000 tonnes métriques (+/- 10 % à la discrétion du vendeur) de fer briqueté à
+chaud [
+hot briquetted iron]
+de Russie au prix de USD 360 par tonne métrique, représentant un montant total de USD
+18'000'000 (+/-10 %), la marchandise devant être acheminée en Inde par bateau. Selon l’article
+4 du contrat, W.________Ltd était libre de choisir deux ports de livraison en Inde. La date d’expédition
+était fixée au début du mois de mai 2013. Les articles 6, 8 et 17 du contrat ont notamment
+la teneur suivante :
+"6)
+PAYMENT TERMS
+Buyer
+shall open an irrevocable, without sanction clause and unrestricted Letter Of Credit (L/C) for 100% of
+Good's value plus / minus 10%, by a bank acceptable to Seller, payable 100% at sight at the counters
+of Seller's bank in Switzerland, in favour of T.________AG.
+The
+Name of L/C advising bank will be given upon receipt of the name of L/C issuing bank.
+The
+draft of Letter of Credit shall be previously agreed by the Parties before issuance but in any event
+it shall be to the Seller's full satisfaction.
+Fully
+workable L/C shall be received by Seller latest 30/04/2013.
+Loading
+and shipment are NOT allowed without fully workable LC.
+Should
+the Buyer fail to open L/C by the indicated time or amendment to the already opened L/C are not made
+by the Buyer upon the Seller's request, the Seller may suspend the production and/or delivery of the
+Goods until such time when L/C is opened or amended, without any liabilities to the Buyer.
+[…]
+Should
+prolongation or renewal of the L/C be required through the Buyer's breach of any obligation hereunder,
+all costs and charges caused by prolongation and renewal of the L/C shall be at the Buyer's expense.
+[…]
+TITLE
+TO THE GOODS AND RISKS OF LOSS AND DAMAGE :
+Title
+to the Goods shall pass to the Buyer upon the Seller's receipt of 100% payment for the Goods delivered.
+Risks of loss and damage shall pass to the Buyer upon delivery of the Goods as defined in INCOTERMS [
+International
+Commercial Terms]
+2010 CFR [
+Cost
+and Freight
+] basis.
+[…]
+8)
+SHIPPING TERMS AND CONDITIONS
+Shipment
+shall be made from port of loading in vessel arranged by Seller. The Seller shall provide or arrange
+for transport of all HBI (hot briquetted iron) (DRI-A) sold and delivered under this Contract from loading
+port to the discharge port in a single-deck bulk carrier.
+The
+Seller shall give all the vessel particulars to the Buyer for written confirmation at least five 5 days
+before vessel's ETA [
+estimated
+time of arrival]
+at loading port. The Buyer is
+to guarantee one safe anchorage or one safe berth where vessel can safely discharge, remaining always
+safely afloat at all times, with discharge place (berth/anchorage) being fully accessible at all times
+for the performing vessel.
+[…]
+Demurrage
+rate at discharge port to be as per Charter Party and to be advised to the Buyer at the time of vessel
+nomination. Dispatch half demurrage rate of working time saved. However demmurage (sic) rate to be agreed
+between Seller and Buyer upon vessel nomination.
+[…]
+Settlement
+of demurrage/dispatch to be made within 15 days form the completion of discharge and on the basis of
+Statement of Facts duly signed provided all documentation for settlement is at hand by this time, failing
+which is as soon as possible thereafter. Fax copies is acceptable.
+[…]
+The
+ship-owner may discharge the Goods without original Bill of Lading in order to avoid the demurrage and
+detention at the discharging port, this will be against the Buyer's LOI [
+Letter
+Of Intention]
+or Marine Guarantee countersigned
+by their bank. […]
+[…]
+17)
+VARIATION
+No
+amendments to this Contract shall be made unless mutually agreed by the Parties and made in writing.",
+dont
+la traduction libre est :
+"6
+)
+Modalités de
+paiement
+L'acheteur
+ouvrira une lettre de crédit (LC) irrévocable, sans clause de sanction et sans restriction
+pour 100 % de la valeur des produits plus/moins 10 % auprès d'une banque acceptable pour le vendeur,
+intégralement payable à vue au guichet de la banque du vendeur en suisse, à l'ordre de
+T.________AG.
+Le
+nom de la banque notificatrice de la L/C sera communiqué dès réception du nom de la banque
+émettrice.
+Le
+libellé de la lettre de crédit devra être préalablement approuvé par les parties
+avant son émission et devra en tout cas satisfaire pleinement aux exigences du vendeur.
+La
+L/C dûment établie devra parvenir au vendeur au plus tard le 30 avril 2013. Le chargement et
+l'expédition ne sont PAS autorisés en l'absence de L/C dûment établie.
+A
+défaut d'ouverture de la L/C à la date indiquée ou de modification par l'acheteur à
+la demande du vendeur de la L/C déjà ouverte, le vendeur pourra suspendre la production et/ou
+la livraison des produits jusqu'à ce que la L/C soit dûment ouverte ou modifiée, sans
+encourir une quelconque responsabilité envers l'acheteur.
+[…]
+Dans
+l'hypothèse où une prorogation ou un renouvellement de la L/C devrait être demandé
+en raison d'un manquement de l'acheteur à l'une des obligations découlant du présent contrat,
+tous les frais et coûts y afférents seront à la charge de l'acheteur.
+[…]
+Propriété
+des produits et risques de perte et de dommage
+Le
+transfert de propriété des produits à l'acheteur s'opérera dès réception
+par le vendeur du paiement intégral des produits livrés. Le transfert des risques à l'acheteur
+s'opérera à la livraison des produits telle que définie dans les INCOTERMS 2010 CFR.
+[…]
+8)
+Modalités et conditions
+d'expédition
+L'expédition
+sera effectuée depuis le port de chargement dans le navire prévu par le vendeur. Ce dernier
+devra assurer ou faire le nécessaire pour que soit assuré le transport de tout le fer briqueté
+à chaud vendu et livré en vertu du présent contrat du port de chargement jusqu'au port
+de déchargement dans un vraquier à pont unique.
+Le
+vendeur devra communiquer toutes les caractéristiques du navire à l'acheteur, pour confirmation
+écrite, au moins 5 jours avant la date d'arrivée prévue du navire au port de chargement.
+L'acheteur est tenu de garantir un point de mouillage ou d'accostage sûr où le navire pourra
+être déchargé en toute sécurité, en restant à flot à tout moment,
+avec une place de déchargement (accostage/mouillage) pleinement accessible au navire à tout
+moment.
+[…]
+Le
+tarif des surestaries [
+réd.
+: dépassement du temps prévu pour charger ou décharger un bateau; indemnité due à
+l’armateur
+]
+au port de déchargement sera conforme à
+la charte-partie [
+réd.
+: contrat d'affrètement
+] et communiqué
+à l'acheteur lors de la désignation du navire. Prime de célérité, temps de travail
+gagné rémunéré à la moitié du tarif des surestaries. Le tarif des surestaries
+doit toutefois être fixé d'un commun accord entre le vendeur et l'acheteur au moment de la
+désignation du navire.
+[…]
+Le
+règlement des surestaries/de la prime de célérité doit intervenir dans les quinze
+jours suivant l'achèvement du déchargement sur la base du rapport d'escale dûment signé,
+pour autant que tous les documents pour le règlement soient disponibles à ce moment-là
+ou, à défaut, dès que possible. Des télécopies sont recevables.
+[…]
+Le
+propriétaire du navire pourra décharger les produits en l'absence de connaissement original
+afin d'éviter des surestaries et tout blocage au port de déchargement, ceci sur présentation
+d'une lettre d'intention ou d'une garantie maritime de l'acheteur contresignée par sa banque.
+[…]
+17)
+MODIFICATION
+Toute
+modification du présent contrat doit résulter de l'accord mutuel des parties et revêtir
+la forme écrite."
+L’article 10, relatif aux motifs de résiliation anticipée du contrat, a la teneur suivante
+:
+"10)
+EARLY TERMINATION
+1.
+In addition to statutory termination rights, either Party shall be entitled to terminate this Contract
+in the event of (i) the other Party generally not paying its debts as such debts become due, or admitting
+in writing its inability to pay its debts, or filing by the other Party of a petition in bankruptcy or
+comparable proceedings, or any form of reorganization; or (ii) a breach by the other Party of any of
+the material terms or conditions of this Contract, which breach is not cured within 20 (twenty) days
+of notice of such breach by the non-breaching Party, or 15 (fifteen) days of notice of breach where the
+breach is the Buyer's failure to pay the Seller for the Goods on time; or (iii) the substantial change
+in the ownership structure of the Buyer; or (iv) in the circumstances set forth in Clause 9 "Force
+Majeure; Sanctions" herein.
+2.
+The rights to terminate this Contract shall not prejudice any other right or remedy of either Party in
+respect of the breach concerned (if any) or any other breach in connection with this Contract.
+3.
+Upon termination of this Contract for any reason, unless it is otherwise provided herein and subject
+to any rights or obligations which have accrued prior to such termination, neither Party shall have any
+further obligation to the other Party under this Contract."
+dont
+la traduction libre est :
+"10)
+Résiliation anticipée
+1.
+Outre les causes de résiliation prévues par la législation, les parties seront en droit
+de résilier le présent contrat (i) si l'autre partie ne procède plus au paiement de ses
+dettes à mesure que celles-ci deviennent exigibles, si elle reconnaît par écrit son incapacité
+à faire face à ses dettes ou dépose une requête de faillite ou d'ouverture d'une
+quelconque procédure analogue ou de restructuration; (ii) en cas d'inexécution par l'autre
+partie de l'un des termes ou conditions essentiels du présent contrat et à défaut de remède
+à cette inexécution dans les 20 (vingt) jours suivant la notification d'inexécution par
+la partie non défaillante ou dans les 15 (quinze) jours suivant la notification d'inexécution
+lorsque cette inexécution résulte du défaut de paiement des produits par l'acheteur au
+vendeur dans le délai convenu; (iii) en cas de changement significatif dans la structure du capital
+de l'acheteur; (iv) dans les cas prévus à l'article 9 "Force majeure – sanctions"
+du présent contrat.
+2.
+La faculté pour les parties de résilier le présent contrat ne pourra s'exercer au détriment
+d'un quelconque autre droit ou recours de l'une des parties relativement à l'inexécution concernée
+(le cas échéant) ou à tout autre inexécution dans le cadre du présent contrat.
+3.
+Sauf disposition contraire du présent contrat et sous réserve de tout droit ou obligation né
+antérieurement à l'extinction du présent contrat, les parties n'auront plus aucune obligation
+l'une envers l'autre en vertu du présent contrat après son extinction pour quelque motif que
+ce soit."
+Quant à l’article 11, il prévoit que tout litige, controverse ou réclamation, fondé
+sur le contrat doit faire l’objet dans un premier temps d’une négociation amiable et,
+en cas d’échec, être soumis à l’arbitrage de la London Court of International
+Arbitration (LCIA); il précise en outre que le tribunal arbitral siègera à Londres et
+sera composé de trois arbitres et que le procès se déroulera en anglais et sera régi
+par le droit anglais; il stipule également que le contrat est régi par les lois d’Angleterre
+et du Pays de Galles.
+Ce contrat, dont le texte a fait l’objet de modifications qui résultent d’un échange
+de courriels intervenu entre les parties dès le 19 avril 2013, a été envoyé signé
+par T.________AG à W.________Ltd, par courriel du 25 avril 2013.
+Une première lettre de crédit a été émise le 14 mai 2013 par la Bank of London
+and the Middle East pour le compte de W.________Ltd et remise à T.________AG, pour un  montant
+de USD 9'000'000 (soit la moitié du prix de la marchandise).
+Le 16 mai 2013, T.________AG a passé un contrat avec l’une des sociétés de son groupe,
+[...], pour l’affrètement du navire "MV [
+motor
+vessel
+] [...]". Un contrat a été
+conclu le même jour avec [...], propriétaire du bateau. Il prévoit notamment un taux de
+surestaries de USD 21'000 par jour ouvrable. Le même jour, T.________AG a communiqué à
+W.________Ltd les spécificités du navire et le taux de surestaries de USD 21'000 par jour ouvrable,
+ainsi que la durée du chargement prévue du 18 au 21 mai 2013. Le même jour, elle lui a
+réclamé la seconde lettre de crédit.
+Il ressort du rapport d'escale (
+Statement
+of Facts
+) émis par le capitaine du port d’embarquement
+de Novorossiysk (Russie) que le navire est arrivé au port le 17 mai 2013 à 19 heures 45. Le
+chargement s’est déroulé du 18 mai à 8 heures 20 au 21 mai 2013 à 21 heures
+00. Entre-temps, par courriels du 20 mai 2013, T.________AG a informé W.________Ltd que le chargement
+était en cours et lui a par deux fois réclamé l’envoi au plus tôt de la seconde
+lettre de crédit. Elle a réitéré cette demande à plusieurs reprises le lendemain.
+Le 22 mai 2013, elle a informé W.________Ltd que le chargement avait pris fin la veille. Elle l’a
+ensuite relancée par courriels successifs au sujet de l’envoi de la seconde lettre de crédit.
+Par courriel du 28 mai 2013, W.________Ltd a indiqué que ce document serait émis la semaine
+suivante.
+La seconde lettre de crédit a été émise le 10 juin 2013 par la Banque Cantonale Vaudoise
+(BCV) pour le compte de W.________Ltd et remise à T.________AG, pour le montant de USD 9'000'000
+(soit la moitié restant du prix total de la marchandise).
+Le bateau est resté à quai jusqu’au 8 juin 2013 à 5 heures 35, soit jusqu’à
+la confirmation orale que la deuxième lettre de crédit allait être émise. Selon la
+feuille de présence [
+Time
+Sheet
+] du navire au port d’embarquement,
+le temps de chargement autorisé du bateau était de cinq jours deux heures et vingt-neuf minutes,
+tandis que le temps utilisé a été de vingt jours seize heures et vingt-cinq minutes, soit
+un dépassement de quinze jours treize heures et cinquante-six minutes, représentant –
+au tarif de 21'000 USD par jour pro rata -  le montant de USD 327'185.60.
+Par lettre du 28 août 2013, T.________AG - invoquant également des retards imputables à
+W.________Ltd lors du débarquement dans deux ports en Inde - a réclamé à cette société
+le paiement, dans un délai au 6 septembre 2013, des montants de USD 327'185.60 correspondant
+aux surestaries au port d’embarquement et de USD 231'035.98 correspondant aux surestaries lors
+du débarquement, selon factures jointes en copie, et l’a informée qu’à défaut
+de paiement, une procédure d’arbitrage serait introduite.
+b)
+Le 21 octobre 2013, en l’absence de paiement, T.________AG a déposé une demande d’arbitrage
+auprès de la LCIA tendant au règlement du montant de USD 558'221.58.
+2.
+Le 21 octobre 2013, le Juge de paix du district de Lausanne a ordonné le séquestre, en faveur
+de T.________AG, à concurrence de 503'125 fr. plus intérêt à 5 % dès le 21 octobre
+2013, des avoirs de W.________Ltd sur "compte en banque auprès de la Banque Cantonale Vaudoise",
+à Lausanne. Le cas de séquestre mentionné est celui de l’art. 271 al. 1 ch. 4 LP.
+L’ordonnance indique comme titre de la créance ou cause de l’obligation : "dommage
+pour rupture de contrat". Le juge a astreint la requérante au paiement de sûretés
+à hauteur de 50'000 francs.
+Cette ordonnance a été notifiée à la requérante par avis du 21 octobre 2013
+et transmise à l’Office des poursuites du district de Lausanne le 23 octobre 2013, après
+paiement des sûretés.
+Le 24 octobre 2013, l’office précité a adressé à la BCV l’avis concernant
+le séquestre. La banque a répondu le même jour que, conformément aux règles
+régissant le secret bancaire et à la jurisprudence du Tribunal fédéral (ATF 125 III
+391), son obligation de renseigner ne prenait naissance qu’une fois le séquestre entré
+en force; elle demandait que lui soit adressée une attestation du juge compétent indiquant
+que le séquestre était définitif et exécutoire. Le procès-verbal de séquestre
+a été dressé par l’office le 28 octobre 2013.
+3.
+Par acte du 4 novembre 2013, W.________Ltd s’est opposée à l’ordonnance de séquestre,
+concluant avec suite de frais et dépens au rejet de la requête de séquestre du 21 octobre
+2013, à la révocation de l’ordonnance du même jour, ordre étant donné
+à l’Office des poursuites du district de Lausanne de lever le séquestre, et au rejet
+de toutes autres ou plus amples conclusions de T.________AG. A l’appui de son opposition, elle
+a produit des pièces, en particulier des échanges de mails entre les parties.
+Celles-ci – représentées par leur conseil respectif – ont comparu à l’audience
+du 4 février 2014.
+Par prononcé du 14 février 2014, adressé aux parties le 19 et notifié le 20 février
+2014 à T.________AG, le Juge de paix du district de Lausanne a admis partiellement l’opposition
+au séquestre (I), modifié l’ordonnance du 21 octobre 2013 en ce sens que le séquestre
+est ordonné à concurrence de 208'232 fr. 70 avec intérêt à 5 % l'an dès
+le 21 octobre 2013, l’ordonnance – y compris sur la question des sûretés –
+étant maintenue pour le surplus (II), arrêté à 990 fr. les frais judiciaires (III),
+mis par moitié à la charge de chacune des parties (IV), et dit que l’intimée rembourserait
+à l'opposante la moitié de son avance de frais, à concurrence de 495 francs, les dépens
+étant compensés pour le surplus (V).
+Le 28 février 2014, T.________AG a requis la motivation du prononcé. Adressés aux parties
+le 21 mai 2014, les motifs leur ont été notifiés le 22. En bref, le premier juge a retenu
+que le droit suisse était applicable au cas d’espèce, qu'il était vraisemblable
+que la BCV disposât de biens appartenant à W.________Ltd, vu la lettre de crédit de USD
+9'000'000 émise par cette banque, que la société intimée au séquestre était
+domiciliée à l’étranger, en Angleterre, et que la créance invoquée avait
+un lien suffisant avec la Suisse, tant en raison du domicile en Suisse de la société séquestrante
+qu’en raison de l’intervention d’une banque suisse dans l’opération de crédit
+documentaire, ce qui laissait supposer que l’intimée développait une activité commerciale
+en Suisse. Il a également retenu que seule la vraisemblance de la créance était contestée
+par l’opposante. Sur ce dernier point, il a considéré que l’article 6 du contrat
+ne justifiait pas la prétention de T.________AG en paiement de surestaries au port de chargement;
+en revanche, cette société avait rendu vraisemblable sa créance correspondant aux surestaries
+aux ports de déchargement réclamées sur la base de l’article 8. Il a ainsi retenu
+que la créance était rendue vraisemblable à concurrence de 208'232 fr. 70, montant pour
+lequel il a ordonné le séquestre et qui correspond à USD 231'035.98 au taux de CHF 0.90130
+au 21 octobre 2013.
+4.
+T.________AG a recouru par acte du 2 juin 2014, concluant avec suite de frais et dépens à l’annulation
+de la décision du 14 février 2014 et à la confirmation de l’ordonnance de séquestre.
+A l'appui de son recours, elle a produit, outre la décision attaquée, une copie du contrat
+entre les parties du 15 avril 2013 déjà produit en première instance et une pièce
+nouvelle.
+La requête d’effet suspensif contenue dans le recours a été rejetée par décision
+du Président de la cour de céans du 11 juin 2014, fondée sur l’art. 278 al. 4 LP,
+qui dispose que l’opposition et le recours n’empêchent pas le séquestre de déployer
+ses effets.
+L’intimée a déposé une réponse le 14 juillet 2014, concluant avec suite de
+frais et dépens, principalement, à la suspension de la procédure de recours au motif qu’une
+sentence arbitrale avait été rendue le 3 juin 2014, subsidiairement, au rejet du recours et
+à la confirmation de la décision attaquée. Elle a produit une pièce nouvelle.
+Par courrier du même jour, la recourante a déposé une copie de la sentence arbitrale rendue
+le 3 juin 2014. Elle a également requis la suspension de la procédure de recours afin de permettre
+aux parties de trouver un accord sur le recouvrement de la créance et sur la répartition des
+frais et dépens découlant de la sentence arbitrale.
+Par ordonnance du 21 juillet 2014, la cour de céans a suspendu la procédure de recours et dit
+que celle-ci serait reprise à la requête de la partie la plus diligente.
+Par lettre du 4 mai 2015, la recourante, sous la plume de son nouveau conseil, a requis la reprise de
+la procédure.
+Les parties ont été informées de la reprise de cause par avis de la Vice-présidente
+de la cour de céans du 7 mai 2015.
+En droit
+:
+I.
+a)
+La décision sur opposition au séquestre
+peut faire l’objet d’un recours au sens des art. 319 ss du CPC [Code de procédure civile;
+RS 272] (art. 278 al. 3 LP). La requête de motivation et le recours ont été déposés
+dans les délais des art. 239 al. 2 et 321 al. 2 CPC. Le recours, qui est motivé et contient
+des conclusions (art. 321 al. 1 CPC), est recevable.
+La réponse de l'intimée, déposée dans le délai de l’art. 322 al. 2 CPC,
+est également recevable.
+b)
+L’art.
+326 al. 1 CPC prohibe l’allégation de faits nouveaux et la production de preuves nouvelles
+dans la procédure de recours. L’art. 326 al. 2 CPC réserve cependant les dispositions
+spéciales de la loi, parmi lesquelles les dispositions de la LP (Jeandin, Code de procédure
+civile commenté, n. 4
+ad
+art. 326 CPC). L’art. 278 al. 3 LP, en particulier, dispose que dans la procédure de recours
+contre la décision d’opposition au séquestre, les parties peuvent alléguer des faits
+nouveaux. Seuls les "vrais nova" peuvent toutefois être invoqués (Reiser, Basler
+Kommentar, n. 46
+ad
+art.
+278 SchKG [LP]). Les pseudo-nova, soit les faits qui se sont produits avant la décision attaquée,
+ne sont recevables qu'en tant que celui qui les produit établit qu'ils ne pouvaient être invoqués
+ou produits devant la première instance bien qu'il ait fait preuve de la diligence requise. La doctrine
+précitée réserve, en ce sens, la possibilité d'invoquer des faits antérieurs
+à la décision de première instance, lorsque ceux-ci n'ont pu être invoqués au
+stade de l'opposition et que cette omission est excusable (Reiser,
+op.
+cit.
+, nn. 47 et 49
+ad
+art. 278 SchKG [LP]).
+En l’espèce,  la recourante a produit une pièce nouvelle à l’appui de
+son recours, soit un extrait d’un ouvrage de doctrine anglais ("Chitty on contracts").
+Il s'agit d'une preuve au sens des art. 150 al. 2 et 326 CPC, laquelle, étant nouvelle en ce qu'elle
+n'a pas été produite en première instance et ne visant à prouver ni des vrais nova
+ni des pseudo-nova qui n'auraient pu être invoqués en première instance (CPF, 30 septembre
+2013/397), est irrecevable.
+De son côté, l’intimée a produit dans le délai de réponse une ordonnance
+du 3 juin 2014 du Tribunal de première instance de Genève, qui est postérieure à
+la décision entreprise et, partant, recevable, mais qui n’avait de pertinence que par rapport
+à la requête de suspension de la procédure de recours.
+La recourante a encore produit le 14 juillet 2014 une copie de la sentence arbitrale rendue le 3 juin
+2014, dans une procédure distincte. Cette pièce, produite après l’échéance
+du délai de recours, est irrecevable.
+II.
+a)
+Le séquestre, mesure conservatoire urgente, doit être autorisé par le juge compétent,
+notamment lorsque le créancier rend vraisemblable l’existence de la créance qu’il
+allègue (art. 272 al. 1 ch. 1) et, dans le cas de l’art. 271 al. 1 ch. 4 LP, son exigibilité
+(art. 271 al. 2 LP) (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes
+et la faillite, n. 11
+ad
+art.
+271 LP et n. 27
+ad
+art.
+272 LP). La vraisemblance de la créance doit résulter des pièces, à l'exclusion de
+tout autre moyen de preuve (CPF, 30 septembre 2013/397 précité; CPF, 17 avril 2008/156; CPF,
+19 décembre 2001/566). Pour rendre sa créance vraisemblable, la partie requérante
+doit produire une pièce ou un ensemble de pièces permettant au juge du séquestre d'acquérir,
+au stade de la simple vraisemblance, la conviction que la prétention existe pour le montant énoncé
+et qu'elle est exigible, même si le document n'est pas signé (Gilliéron,
+op.
+cit.
+, n. 29
+ad
+art. 272 LP).
+Sous l'empire de l'ancien droit, l'autorité saisie d'un recours contre la décision sur opposition
+ne disposait pas d'un pouvoir d'examen plus large que celui du juge de l'opposition; elle statuait pareillement
+sous l'angle de la vraisemblance de la réalisation des conditions du séquestre (von Gunten,
+Die Arresteinsprache, 2001, p. 146; Reeb, Les mesures provisoires dans la procédure de poursuite,
+in
+RDS 116/1997 II 421, p. 482). Il suffisait
+ainsi que le juge, se fondant sur des éléments objectifs, acquière l'impression que les
+faits pertinents s'étaient produits, mais sans qu'il doive exclure pour autant la possibilité
+qu'ils se soient déroulés autrement (Stoffel, Basler Kommentar, n. 3
+ad
+art. 272 SchKG [LP] et la doctrine citée).
+On ne pouvait poser à cet égard des exigences plus strictes pour l'opposant que pour le requérant,
+celui-là pouvant aussi se contenter de rendre crédibles ses moyens libératoires (Reiser,
+op. cit.
+,
+n. 5
+ad
+art.
+278 LP). Le jugement devait reposer sur les faits établis au degré de la vraisemblance et sur
+un examen sommaire du point de droit.
+Ces principes demeurent inchangés en ce qui concerne la première instance. Au stade du recours,
+en revanche, l'autorité de deuxième instance est désormais liée par l'état de
+fait établi par le juge de l'opposition au séquestre, sous réserve de la constatation
+manifestement inexacte des faits (art. 320 let. b CPC) - grief qui se confond avec celui d'arbitraire
+dans l'appréciation des preuves - et des nova, voire des pseudo-nova recevables.
+b)
+En l’espèce, le recours porte exclusivement sur la vraisemblance de la créance invoquée
+au titre de surestaries au port de chargement. Le premier juge a en effet nié la vraisemblance de
+cette créance, invoquée par la séquestrante à hauteur de USD 327'185. 60, respectivement
+de 294'892 fr. 30. Il a considéré que l’article 6 du contrat de vente ne pouvait être
+invoqué, cette disposition ne concernant pas l’émission de la lettre de crédit,
+mais uniquement sa prorogation ou son renouvellement, que le cas envisagé par cette disposition
+– savoir la prorogation ou le renouvellement de la lettre de crédit – n’était
+pas réalisé en l’espèce, que l’article 6 du contrat disposait expressément
+que le chargement et l’expédition n’étaient pas autorisés en l’absence
+de lettre de crédit dûment établie, que T.________AG avait la possibilité de
+suspendre l’exécution du contrat jusqu’à l’émission de la lettre de
+crédit pour la totalité de la valeur de la marchandise, qu’elle n’avait aucune
+obligation d’affréter un bateau avant cette échéance et qu’elle devait supporter
+les conséquences de son choix de commencer l’exécution du contrat avant la réception
+de la lettre de crédit.
+Dans le cadre du recours, la recourante fait valoir que l’article 6 du contrat avait pour but de
+protéger le vendeur contre la carence de l’acheteur qui ne fournirait pas la lettre de crédit
+en temps utile et que cette disposition donnait au vendeur les moyens lui permettant de faire supporter
+à l’acheteur les coûts qui résulteraient de ce retard. A tout le moins doit-on admettre,
+selon la recourante, qu’elle a rendu vraisemblable l’application de l’article 6 du
+contrat également dans le cas d’espèce. Elle conteste en outre avoir accepté tacitement
+une modification du terme convenu pour l’émission de la lettre de crédit.
+L’intimée se réfère pour sa part aux considérants de la décision attaquée,
+qu’elle estime bien fondée. Elle fait valoir que l’article 6 du contrat avait aussi
+pour but de protéger l’acheteur contre un chargement du navire avant qu'il soit en mesure
+de fournir une lettre de crédit conforme au contrat. En faisant le choix d’affréter le
+bateau et de procéder à son chargement avant que cette condition soit remplie, la recourante
+a fait également le choix d’engager sa propre responsabilité.
+c)
+Le premier juge a déclaré le droit suisse applicable, en raison des exigences de rapidité
+de la procédure de séquestre. Les parties ne remettent pas en cause sa décision sur ce
+point. La question du droit applicable, tout comme celle de la compétence du premier juge et de
+la cour de céans, doivent cependant être examinées d’office.
+La Convention du 30 octobre 2007 concernant la compétence judiciaire, la reconnaissance et l'exécution
+des décisions en matière civile et commerciale, dite Convention de Lugano (ci-après :
+CL/2007), à laquelle tant la Suisse que l’Angleterre sont parties, ne s’applique pas
+aux arbitrages (art. 1 par. 2 let. d CL/2007, applicable en vertu de la disposition transitoire de l’art.
+63 par. 1  CL/2007). Cette exclusion vaut pour l’arbitrage lui-même, de même que
+pour toutes les procédures qui servent à la mise en œuvre d’une procédure d’arbitrage,
+telles que les procédures de désignation ou de détermination du siège de l’arbitrage,
+ainsi que pour l’annulation, la reconnaissance et l’exécution de sentences arbitrales.
+En revanche, les mesures provisoires ou conservatoires qui n’ont pas pour objet la mise en œuvre
+d’une procédure arbitrale, mais sont destinées à la sauvegarde temporaire des droits
+litigieux (relevant du champ d’application matériel de la CL), sont régies par la CL
+et susceptibles de fonder la compétence du juge étatique en vertu de l’art. 31 CL/2007
+(Bucher, Commentaire romand LDIP/CL, n. 22
+ad
+art. 1 CL). Cette dernière disposition couvre
+toutes les décisions qui répondent à la définition de mesures provisoires ou conservatoires,
+en particulier le séquestre des art. 271 ss LP (Bucher, op. cit., n. 7
+ad
+art. 31 CL).  La compétence du juge
+de première instance et de la cour de céans, qui est donnée par les art. 272 al. 1 et
+278 LP, est également conforme à l’art. 31 CL/2007, qui est applicable dès lors
+que les mesures relèvent d’une matière commerciale, soit du champ d'application matériel
+de la CL.
+En ce qui concerne le droit applicable, la loi du for régit toutes les questions indépendantes
+du droit matériel, en particulier toutes les questions qui relèvent de la procédure. La
+lex causae
+est
+pertinente pour toutes les questions relevant du fond. Celle-ci est déterminée par la LDIP
+[loi fédérale sur le droit international privé; RS 291], qui réserve toutefois les
+traités internationaux (art. 1 al. 2 LDIP). La Convention des Nations Unies sur les contrats
+de vente internationale de marchandises conclue à Vienne le 11 avril 1980 (RS 0.221.211.1), à
+laquelle la Suisse est partie, s’applique aux contrats de vente de marchandises entre des parties
+ayant leur établissement dans des Etats différents (art. 1 al. 1 de la Convention) lorsque
+ces Etats sont des Etats contractants (let. a) ou lorsque les règles du droit international privé
+mènent à l’application de la loi d’un Etat contractant (let. b). L’Angleterre
+n’est toutefois pas partie à cette convention. Elle n’est pas non plus partie à
+la Convention de La Haye du 15 juin 1955 sur la loi applicable aux ventes à caractère international
+d’objets mobiliers corporels (RS 0.221.211.4), à laquelle renvoie l’art. 118 LDIP (Bonomi,
+Commentaire romand LDIP/CL, n. 1
+ad
+art. 118 LDIP). Le contrat litigieux est
+ainsi régi par le droit choisi par les parties, applicable en vertu de l’art. 116 al. 1 LDIP,
+soit le droit d’Angleterre et du Pays de Galles (article 11 du contrat).
+L’art. 16 al. 1 LDIP consacre l’obligation pour le juge d’établir d’office
+le droit étranger, sans s‘en remettre au bon vouloir des parties, auxquelles il doit toutefois
+donner la possibilité de s’exprimer quant au droit applicable à un stade de la procédure
+qui précède l’application de ce droit. Le droit d’être entendu doit en effet
+être respecté de manière à éviter qu’une partie ne soit surprise par l’application
+du droit étranger (ATF 121 III 436 c. 5 a, JT 1996 I 190, SJ 1996, p. 206). Ce n’est que lorsque
+les efforts entrepris n’aboutissent pas à un résultat fiable, ou qu’il existe de
+sérieux doutes quant au résultat obtenu, que le droit suisse peut être appliqué en
+lieu et place du droit étranger normalement applicable (art. 16 al. 2 LDIP) (ATF 140 III 456 c.
+2.3 et les arrêts cités). Le point de savoir si le droit suisse peut être appliqué
+à titre supplétif lorsque les exigences de rapidité de la décision à prendre,
+notamment dans les procédures de mesures provisionnelles et de séquestre soumises à la
+procédure sommaire, empêchent d’obtenir une connaissance suffisante du droit étranger
+est controversé (ATF 140 III 456 précité c. 2.4; Bucher,
+op.
+cit.
+, n. 11
+ad
+art. 10 LDIP). Le Tribunal fédéral,
+dans un arrêt du 8 novembre 2006 (TF 5P.355/2006) – confirmé notamment par un arrêt
+du 31 octobre 2011 (TF  5A_268/2011, c. 3.1) – rendu dans une procédure d’opposition
+au séquestre, a précisé que la question de l’exigibilité de la créance
+ne se juge pas simplement d’après le droit suisse, mais par les dispositions du droit étranger
+applicable; l’exigibilité de la prétention doit être rendue vraisemblable par le
+créancier et peut être disputée dans la procédure d’opposition (c. 4.1 et les
+réf. citées). Dans le récent arrêt cité plus haut (ATF 140 III 456 c. 2.4),
+relatif à une procédure de mainlevée qui, même si elle ne revêt pas le degré
+d’urgence du séquestre, ne requiert pas moins une certaine célérité, le Tribunal
+fédéral a jugé que, s’il n’incombait pas au juge de constater de son propre
+chef le contenu du droit étranger, cela ne dispensait pas pour autant le poursuivant d’établir
+ce droit, dans la mesure où l’on pouvait raisonnablement l’exiger de lui.
+d)
+En l’espèce, les questions relatives à l’existence et à l’exigibilité
+de la créance invoquée relèvent au premier chef de l’interprétation du contrat
+de vente conclu entre les parties. Ce contrat étant soumis au droit anglais, c’est donc la
+règle d’interprétation des contrats du droit anglais qui est applicable. La recourante
+a produit en deuxième instance seulement un extrait d’un ouvrage de doctrine anglais relatif
+au droit du cocontractant qui poursuit l’exécution du contrat malgré sa violation par
+la partie adverse de réclamer des dommages-intérêts, mais cette pièce est irrecevable
+et, de toute façon, n'établit pas la ou les règles d’interprétation des contrats
+en droit anglais. Comme indiqué ci-dessus, la cour de céans ne saurait d’office rechercher
+ce droit sans violer le droit d’être entendu des parties. Dès lors qu'on pouvait raisonnablement
+exiger de la recourante qu'elle établisse le droit anglais de l’interprétation des contrats,
+si l'on considère qu'elle ne l'a pas fait, on doit en conclure qu'elle n’a pas rendu sa créance
+vraisemblable et, par conséquent, rejeter son recours. Il faut toutefois examiner d'abord si la
+créance et son exigibilité apparaissent suffisamment vraisemblables à la seule lecture
+du contrat, ce qui ne laisserait pas de place à une interprétation.
+L'article 6 du contrat en cause stipule que l’acheteur doit fournir au vendeur une lettre de crédit
+pour le prix total de la marchandise dans le délai au 30 avril 2013. Il précise que le
+chargement et l’expédition ne sont pas autorisés en l’absence d’une lettre
+de crédit dûment établie. Si l’acheteur ne fournit pas la lettre de crédit
+à la date indiquée ou si les modifications exigées par le vendeur ne sont pas apportées
+à la lettre de crédit par l’acheteur, le vendeur est autorisé à suspendre la
+production et/ou la livraison de la marchandise jusqu’à ce que la lettre de crédit soit
+dûment établie ou modifiée, sans aucune responsabilité envers l'acheteur. Le même
+article 6 prévoit encore que, dans l’hypothèse où une prorogation ou un renouvellement
+de la lettre de crédit est demandé en raison d’un manquement à ses obligations imputable
+à l’acheteur, tous les frais et coûts y afférents doivent être supportés
+par ce dernier.
+La clause de l’article 6 du contrat selon laquelle "Loading and shipment are NOT allowed without
+fully workable LC", rédigée en gras, pourrait certes avoir pour but – comme le soutient
+l’intimée – de protéger non seulement le vendeur, qui n’est ainsi pas tenu
+de charger le bateau aussi longtemps qu’il ne reçoit pas la lettre de crédit, mais aussi
+l’acheteur, qui ne voudrait pas s’exposer à devoir répondre du dommage résultant
+du chargement inutile du navire, dans l’hypothèse où il ne fournirait pas la lettre de
+crédit, de sorte que, si le vendeur charge le bateau dans ces circonstances, il le fait à ses
+risques et périls. Cette interprétation, par l’utilisation notamment des termes "not
+allowed", apparaît en effet vraisemblable. Il n'est toutefois pas certain qu’elle suffise
+à elle seule à déterminer l’issue du recours, notamment lorsque l’on constate
+que, d’entente entre les parties, l’exécution du contrat s’est poursuivie malgré
+le retard dans l’émission de la lettre de crédit. En effet, l’intimée a remis
+à la recourante une première lettre de crédit le 14 mai 2013, pour la moitié du prix
+de la marchandise, manifestant ainsi vouloir exécuter le contrat. De son côté, deux jours
+plus tard, soit le 16 mai 2013, la recourante a affrété un bateau et a transmis les coordonnées
+de celui-ci à l’intimée, manifestant également par là sa volonté d’exécuter
+le contrat malgré le retard dans l’émission de la lettre de crédit. Il y a eu ensuite
+plusieurs échanges de mails entre les parties, le vendeur pressant l’acheteur de lui fournir
+la deuxième lettre de crédit et l’informant de la progression du chargement du bateau
+et l’acheteur demandant des précisions sur le navire et confirmant le 7 juin 2013 l’émission
+de la deuxième lettre de crédit la semaine suivante. Il résulte de ces faits que l’acheteur
+a tacitement accepté le chargement anticipé du bateau et qu’il est seul responsable du
+retard à l’embarquement.
+Il est exact que, comme l’a relevé le premier juge, l’article 6 du contrat ne règle
+pas expressément les conséquences du retard dans l’émission et la remise d’une
+lettre de crédit conforme aux exigences du vendeur, comme elle le fait des conséquences de
+la prorogation et du renouvellement de la lettre de crédit. Toutefois, si le vendeur est –
+en vertu de cette disposition – autorisé à ne pas exécuter sa prestation jusqu’à
+la délivrance d’une lettre de crédit dûment établie, sans encourir de responsabilité
+vis-à-vis de l’acheteur pour le retard dans la livraison ou l’inexécution du contrat,
+cela ne signifie pas qu’il ne puisse pas réclamer des dommages-intérêts pour le
+retard dans l’exécution dû à l’émission tardive de la lettre de crédit.
+L’article 6 du contrat ne le dit cependant pas et, pour savoir comment le droit anglais règle
+cette question, de même que pour interpréter l’article 10 du contrat, la recourante devait
+établir ce droit, ce qu’elle n’a pas fait. A cet égard, l’extrait de doctrine
+produit, outre qu'il est irrecevable, paraît insuffisant.
+Au surplus, on peut s'interroger sur le lien avec la Suisse de la créance invoquée, cette prétention
+étant fondée sur un contrat soumis au droit anglais, exécuté entre la Russie et l'Inde,
+entre deux sociétés dont l'une, la venderesse, est certes de droit suisse et a son siège
+en Suisse, mais l'autre, l'acquéresse, est anglaise et a son siège à Londres.
+III.
+Vu ce qui  précède, le recours doit en définitive être rejeté, faute pour
+la recourante d’avoir rendu vraisemblable sa créance et l’exigibilité de celle-ci,
+et le prononcé attaqué confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 1'050 fr., sont mis à
+la charge de la recourante (art. 106 al. 1 CPC). Celle-ci doit verser à l'intimée le montant
+de 3'000 fr. à titre de dépens de deuxième instance (art. 8 TDC [tarif des dépens
+en matière civile]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'050 fr. (mille cinquante
+francs), sont mis à la charge de la recourante.
+IV.
+La recourante T.________AG doit verser à l'intimée W.________Ltd le montant de 3'000 fr. (trois
+mille francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Fabien Hohenauer, avocat (pour T.________AG),
+‑
+Me Laurent Isenegger, avocat (pour W.________Ltd).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 294'892 fr. 30.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Lausanne.
+La greffière :
