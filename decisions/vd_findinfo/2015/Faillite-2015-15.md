@@ -1,0 +1,164 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 15"
+decided: "2015-06-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5011995"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 15
+
+## Regeste
+
+DÉLAI DE RECOURS, OUVERTURE DE LA FAILLITE, CONDITION DE RECEVABILITÉ, OBSERVATION DU DÉLAI, FICTION DE LA NOTIFICATION | 174 al. 1 LP, 138 al. 3 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.06.2015 Faillite / 2015 / 15
+
+DÉLAI DE RECOURS, OUVERTURE DE LA FAILLITE, CONDITION DE RECEVABILITÉ, OBSERVATION DU DÉLAI, FICTION DE LA NOTIFICATION | 174 al. 1 LP, 138 al. 3 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF14.047901-150637
+160
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 juin 2015
+__________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+Mmes
+Carlsson et Byrde, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 LP et 138 al. 3 let. a CPC
+Vu le jugement rendu par le Président du Tribunal d'arrondissement de l'Est vaudois, statuant par
+défaut des parties à la suite de l'audience du 26 mars 2015, prononçant la faillite, le
+même jour à 16 heures, de
+I.________
+,
+à Corseaux, à la réquisition de
+B.________AG
+,
+à Berne, et mettant les frais du jugement, avancés par la requérante, par 200 fr., à
+la charge du failli,
+vu l'acte déposé le 24 avril 2015 par lequel I.________ a formé simultanément un
+recours contre le jugement précité et une requête de restitution au sens de l'art. 148
+CPC [Code de procédure civile; RS 272], tendant à la fixation d'une nouvelle audience de faillite,
+vu la décision de la Présidente de la cour de céans du 27 avril 2015 de traiter le recours
+dès droit connu sur la requête de restitution, transmise au Président du Tribunal d'arrondissement
+de l'Est vaudois comme objet de sa compétence,
+vu la décision du Président du tribunal précité du 4 juin 2015, rejetant la requête
+de restitution de I.________;
+attendu qu'en vertu de l'art. 174 al. 1 LP [loi sur la poursuite pour dettes et la faillite; RS 281.1],
+la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens
+du CPC,
+que, sauf disposition contraire de la LP, les règles du CPC s'appliquent à la computation et
+à l'observation des délais (art. 31 LP),
+que les délais déclenchés par la communication d'un événement – telle
+que la notification d'une décision – courent dès le lendemain de celle-ci (art. 142 al.
+1 CPC),
+que, selon l'art. 138 al. 3 let. a CPC, une décision est réputée notifiée, en cas
+d'envoi recommandé, lorsque celui-ci n'a pas été retiré : à l'expiration d'un
+délai de sept jours à compter de l'échec de la remise, si le destinataire devait s'attendre
+à recevoir la notification,
+qu'en cas de demande de garde du courrier, le pli est considéré comme communiqué le dernier
+jour d'un délai de sept jours dès la réception du pli à l'office de poste du domicile
+du destinataire et ce délai n'est pas prolongé lorsque la Poste permet de retirer le courrier
+dans un délai plus long (Bohnet,
+in
+Bohnet
+et al.
+(éd.), Code de procédure civile commenté, n. 23
+ad
+art. 138 CPC),
+que la notification est réputée accomplie au terme du délai de sept jours, quel que soit
+le dernier jour, ouvrable, samedi ou jour férié (ibid., n. 25 ad art. 138 CPC),
+qu'en l'espèce, le jugement de faillite du 26 mars 2015, contre lequel I.________ a déposé
+un recours le 24 avril 2015, a été envoyé pour notification aux parties le 27 mars 2015,
+que, selon le suivi des envois postaux au dossier, l'avis de retrait du pli destiné au failli a
+été distribué au destinataire le 30 mars 2015, l'échéance du délai de garde
+de la poste étant le 7 avril 2015 - le délai de garde postal tenant compte, contrairement au
+délai de l'art. 138 al. 3 let. a CPC, des jours fériés, en l'occurrence, du lundi de Pâques
+6 avril 2015 -  et le pli lui a été remis au guichet le 14 avril 2015, l'intéressé
+ayant apparemment donné pour instruction à la poste de garder son courrier,
+qu'on se trouve toutefois dans un cas où le destinataire devait s'attendre à la notification
+en cause,
+qu'en effet, I.________, dûment convoqué à l'audience du faillite du 26 mars 2015, en
+avait demandé le report, par télécopie du 18 mars 2015,
+que sa demande a été rejetée et l'audience maintenue au 26 mars 2015, ce dont il a été
+informé par télécopie du 19 mars 2015,
+qu'il savait ainsi que l'audience de faillite aurait lieu le 26 mars 2015 et devait par conséquent
+s'attendre à recevoir une décision du juge de la faillite dans les jours suivants et prendre
+toute disposition nécessaire pour sauvegarder son droit de recours,
+que la fiction de la notification à l'échéance du délai de sept jours de l'art. 138
+al. 3 let. a CPC s'applique, le jugement de faillite étant réputé avoir été
+notifié le 6 avril 2015,
+que le recours déposé le 24 avril 2015 est en conséquence tardif et doit être déclaré
+irrecevable,
+qu'une éventuelle requête de restitution du délai de recours, au demeurant non formulée
+dans l'acte en cause, ne pourrait qu'être rejetée,
+qu'en effet, l'art. 33 al. 4 LP, exclusivement applicable à la restitution des délais fixés
+dans la LP, tel que le délai de recours de l'art. 174 al. 1 LP (CPF, 24 juin 2015/158), exige
+que l'empêchement de respecter le délai fixé soit non fautif,
+qu'en l'espèce, I.________, n'invoque aucun empêchement, a fortiori aucun empêchement
+pouvant être qualifié de non fautif, expliquant simplement ne plus résider à Corseaux
+et ne se rendre "qu'une fois pas mois environ à l'office de poste de Corsier sur Vevey pour
+récupérer le courrier",
+qu'il lui appartenait de prendre ses dispositions pour pouvoir retirer à temps les actes qui lui
+seraient notifiés, en communiquant l'adresse où il se trouvait ou en se rendant plus fréquemment
+au bureau de poste ou encore en donnant procuration à quelqu'un pour recevoir son courrier;
+attendu que le présent arrêt peut être rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt est rendu sans frais judiciaires ni dépens.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. I.________,
+‑
+B.________AG,
+-
+M. le Préposé à l'Office des poursuites du district de La Riviera-Pays-d'Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l'Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d'Aigle-Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois.
+La greffière :
