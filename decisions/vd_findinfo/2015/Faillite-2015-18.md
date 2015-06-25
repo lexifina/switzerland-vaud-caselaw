@@ -1,0 +1,439 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 18"
+decided: "2015-06-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5046109"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-192.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 18
+
+## Regeste
+
+AJOURNEMENT DE LA FAILLITE, SURENDETTEMENT, SOCIÉTÉ ANONYME | 725a al. 1 CO
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 25.06.2015 Faillite / 2015 / 18
+
+AJOURNEMENT DE LA FAILLITE, SURENDETTEMENT, SOCIÉTÉ ANONYME | 725a al. 1 CO
+
+TRIBUNAL
+CANTONAL
+FU15.004149-150542
+181
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+25 juin 2015
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+725a al. 1 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+E.________
+SA
+, au [...], contre la décision de refus
+d’ajournement de la faillite rendue le 27 mars 2015, à la suite de l’audience du 12
+mars 2015, par le Président du Tribunal d’arrondissement de Lausanne dans la cause la divisant
+d’avec l’
+Office
+des poursuites du district de Lausanne
+, à
+Lausanne, l’
+Office
+des poursuites du district de l'Ouest lausannois
+,
+à Renens, l’
+Office
+des faillites de l'arrondissement de Lausanne
+,
+à Lausanne,
+F.________
+GmbH
+, à [...], et
+Q.________
+GmbH
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 14 mai 2014, à la réquisition
+de F.________ GmbH, l’Office des poursuites du district de Lausanne a notifié à E.________
+SA, dans la poursuite n° 7'024'807, un commandement de payer portant sur les montants de 299'961
+fr. 41, avec intérêt à 7,.87 % l’an dès le 1er mai 2014, et de 90'093 fr. 27
+sans intérêt, et indiquant comme titre de la créance ou cause de l’obligation respectivement :
+«  jugement rendu le 9 juillet 2013 par le Handelsgericht du Canton de Zurich, exécutoire
+depuis le 07.03.2014. Taux de change EUR/CHF : 1.2198 » et « intérêts
+du 17 mai 2010 au 30 avril 2014 ».
+La poursuivie a formé opposition totale.
+Par décision du 18 septembre 2014, le Juge de paix du district de Lausanne a prononcé la mainlevée
+définitive de l’opposition de la débitrice dans la poursuite n° 7'024'807.
+Une commination de faillite a été notifiée à cette dernière le 21 novembre
+2014. Par acte daté du 12 décembre 2014, la poursuivante a requis la faillite.
+Par jugement rendu à l’issue d’une audience du 22 janvier 2015, à laquelle les
+parties ont comparu, respectivement ont été représentées, la Présidente du Tribunal
+d’arrondissement de Lausanne a déclaré la faillite de E.________ SA le 22 janvier 2015
+à 11h19 (I) et mis les frais, par 200 fr., à la charge de la faillie (II). La décision
+a été notifiée à celle-ci le 28 janvier 2015.
+Par acte du 2 février 2015, la faillie a recouru devant l’autorité de céans contre
+le jugement de faillite du 22 janvier 2015, concluant avec suite de dépens à l’admission
+du recours (I) et, principalement, à la réforme du jugement attaqué en ce sens qu’il
+est pris acte de la requête de surendettement de la recourante (II.I) et que l’ajournement
+de la faillite est prononcé sur une période de six mois (II.II) ; subsidiairement, elle
+a conclu à l’annulation du prononcé de faillite et au renvoi de la cause à l’autorité
+de première instance pour nouvelle décision (III).
+b)
+Par requête adressée au Président du Tribunal d’arrondissement de Lausanne le même
+jour, soit le 2 février 2015, la faillie a conclu à ce que sa situation de surendettement soit
+constatée (I) et que l’ajournement de la faillite pour une durée de six mois soit prononcé
+(II).
+A l’appui de son écriture, elle a notamment produit :
+-
+un extrait du registre du commerce la concernant lequel mentionne P.________ en qualité d’administrateur
+avec signature individuelle et D.________ AG en tant qu’organe de révision ;
+-
+un extrait partiel du rapport de l’organe de révision du 23 septembre 2014 la concernant ;
+-
+une copie du commandement de payer notifié à la faillie le 14 mai 2014 à l’instance
+de F.________ GmbH ;
+-
+une copie du jugement déclarant la faillite de E.________ SA le 22 janvier 2015 à 11h19 ;
+-
+une copie du recours adressé à la cour de céans le 2 février 2015 ;
+-
+une copie du bordereau des pièces produites à l’appui du recours, lequel contient notamment
+une copie d’un contrat de distribution exclusif conclu le 7 avril 2014 entre E.________ SA, d’une
+part, et L.________ Ltd., d’autre part, portant sur la mise à disposition par E.________ SA
+d’un brevet. Le § 4 dudit contrat stipule ce qui suit : « The purchase price
+is EUR 750'000.00. For the purchase price the party 1) (i.e. E.________ SA) takes over open accounts
+payable (according to the assignment contract) as soon as the patent is put on the market and first revenues
+are received. In return Party 1) shall not be invoiced for any costs whatsoever in respect of marketing
+or other costs in conjunction with the marketing. In the event of unsuccessful marketing of the patent,
+the purchase price shall fall due for payment in monthly instalments the latest on 01.01.2021 as follows :
+EUR 12'000.00 (60 instalments) Party 2) (i.e. L.________ Ltd.) waives objecting to the period of limitations
+in respect of the payable monthly purchase price instalments » ;
+-
+une copie d’un rapport de l’organe de révision du 9 octobre 2014 concernant la société
+R.________ AG, à [...], dont il ressort que selon le bilan au 31 mars 2014 elle détient une
+participation de 678'542 fr. dans la société faillie et a consenti à cette dernière
+deux prêts de 300'000 fr. et 80'481 fr. 65 ;
+-
+une copie d’un contrat de vente conclu le 23 décembre 2014 entre R.________ AG, d’une
+part, et L.________ Ltd., à [...], d’autre part, portant sur l’achat par la seconde
+de 20'040'000 actions au porteur d’une valeur nominale de 0 fr. 01 par action. Selon le préambule
+de cette convention, l’acheteur serait intéressé à acquérir une participation
+majoritaire de R.________ AG; le chiffre 7 de la convention mentionne les actions de la société
+faillie détenues par la société venderesse. Selon le § 2, le transfert des actions
+devait avoir lieu le 31 mars 2015. Le prix de vente n’est pas fixé, le § 3 du contrat
+précisant « The purchase price for the shares referred to under paragraph I, which are
+sold to the Buyer, shall be comprised of a variable purchase price dependent upon the Company’s
+operating results at the end of the financial year. A further element shall result from the sale of the
+bearer shares at the market price at the relevant time, less any payables accounted for. The definitive
+purchase price shall be calculated on the basis of these figures and settled in accordance with a payment
+plan ». Ce contrat a été signé, pour la venderesse, au nom de la recourante
+E.________ SA ;
+-
+une copie d’un document signé par P.________ qui atteste être propriétaire de 80 %
+des actions de la société R.________ AG et s’engage à payer les créanciers
+de la société E.________ SA au moyen du bénéfice réalisé sur la vente des
+actions de R.________ AG à L.________ Ltd. dès réception du prix de vente ; cet engagement
+est conditionné à l’octroi d’un ajournement de faillite en faveur de E.________
+SA et à la réalisation de la vente des actions ;
+-
+une copie d’un extrait des registres 8a LP au 2 février 2015 de E.________ SA faisant état
+de neuf poursuites pour un montant de 1'575'327 fr. 25, dont une périmée pour un montant de
+817'860 fr. 80, quatre au stade du commandement de payer avec opposition pour un montant global 297'671
+francs 40, deux au stade du commandement de payer sans opposition pour un montant total de 586 fr. 35
+et deux au stade de la commination de faillite, soit celle de F.________ GmbH pour un montant de 412'965
+fr. 30 et celle de Q.________ GmbH pour un montant de 46'243 fr. 40.
+c)
+Par avis du 17 février 2015, le président a cité la requérante, l’Office des
+poursuites du district de Lausanne, l’Office des poursuites du district de l’Ouest lausannois
+ainsi que l’Office des faillites de l’arrondissement de Lausanne à comparaître
+à son audience du 12 mars 2015.
+Par courrier du 5 mars 2015, F.________ GmbH a demandé à être également entendue
+lors de cette audience.
+Par courrier du 10 mars 2015, la société Q.________ GmbH a fait savoir qu’elle avait
+demandé la faillite de la requérante le 3 mars 2015. Elle a requis qu’une copie de la
+requête d’ajournement et des pièces produites lui soit notifiée. Par courrier du
+11 mars 2015, elle a indiqué qu’elle ne s’opposait pas à l’ajournement de
+faillite sollicité en requérant toutefois que les modalités de l’ajournement de
+faillite précisent les échéances de paiement des créances immédiatement exigibles
+et imposent un devoir d’informer l’instance judiciaire à chaque démarche de vente
+des actions de la société R.________ AG. Elle a en outre demandé à être dispensée
+de comparaître à l’audience du 12 mars 2015.
+Le président a tenu audience le 12 mars 2015 en présence de représentants de la requérante,
+d’un représentant de F.________ GmbH et de représentants de l’Office des poursuites
+de l’Ouest lausannois.
+A cette occasion, la requérante a produit une copie complète du rapport de l’organe de
+révision du 23 septembre 2014 la concernant. Il en ressort  que selon le bilan au 31 mars 2014,
+l’actif social s’élève à 2’234'594 fr. 64 : il se compose notamment
+de créances à hauteur de 1’209'699 fr. 86 lesquelles sont toutefois contestées à
+raison de 1’189'658 fr. 81, l’organe de révision précisant ne pas être en
+mesure de se prononcer sur les perspectives d’encaissement au vu des procédures en cours et
+des pièces qui lui ont été transmises. La perte au bilan s’élève quant
+à elle à 577'567 fr. 68, à savoir 422'727 fr. 25 de pertes reportées et 154'840 fr.
+43 de perte annuelle. Le bilan au 31 mars 2014 révèle en outre l’existence de passif,
+sous forme de fonds étrangers, à hauteur de 2’412'162 fr. 32. Les fonds propres sont
+comptabilisés à hauteur de 400'000 fr. (capital actions). L’organe de révision relève
+expressément que la société est surendettée au sens de l’art. 725 al. 2 CO.
+Il ressort du procès-verbal des opérations que, lors de l’audience, le représentant
+de F.________ GmbH a donné son accord pour un ajournement de faillite d’une durée de
+trois mois à la condition que la requérante produise, d’ici au 22 avril 2015, une copie
+d’un « rapport d’expertise sur la valeur des actions » et « le
+compte rendu de la séance tenue le 26 mars 2015 ».
+d)
+Par décision du 27 mars 2015, notifiée à la requérante le 30 mars 2015, le Président
+du Tribunal d’arrondissement de Lausanne a rejeté la requête en ajournement de faillite
+déposée le 2 février 2015 par E.________ SA dans la mesure où elle est recevable
+(I) et mis les frais de la décision, arrêtés à 400 fr., à la charge de la requérante
+(II). En substance, le président a considéré qu’une requête d’ajournement
+postérieure à la faillite ne pouvait intervenir que dans le cadre d’un recours contre
+le jugement prononçant celle-ci, soit dans le délai de l’article 174 al. 1 LP et que
+dans la mesure où un recours était pendant devant le Tribunal cantonal et concluait notamment
+à un ajournement de faillite, la requête en ajournement qui lui était présentée
+devait être rejetée dans la mesure où elle était recevable.
+2.
+Par acte du 2 avril 2015, la requérante a recouru contre la décision précitée. Elle
+a conclu, principalement, à sa réforme en ce sens qu’il est pris acte de la requête
+de surendettement de la recourante (I) et que l’ajournement de la faillite est prononcé pour
+une période de 6 mois (II). Subsidiairement, elle a conclu à l’annulation de la décision
+du 27 mars 1015, la cause étant renvoyée à l’autorité de première instance
+pour nouvelle décision. A l’appui de son recours, elle a produit des documents figurant déjà
+au dossier de première instance ainsi qu’une copie du prononcé rendu par la Présidente
+de la Cour des poursuites et faillites le 11 février 2015 admettant la requête d’effet
+suspensif contenue dans le recours déposé le 2 février 2015 contre le jugement de faillite
+du 22 janvier 2015.
+Un extrait des registres 8a LP au 9 avril 2015 a été versé au dossier. Il atteste de sept
+poursuites pour un montant total de 1’479'305 fr. 75, dont cinq poursuites au stade du commandement
+de payer en cours pour la somme de 1'015'277 fr. 35, toutes frappées d’une opposition totale
+ou partielle, et deux comminations de faillite délivrées pour la somme de 464'028 fr. 40.
+La recourante s’est déterminé au sujet de cet extrait par acte du 8 mai 2015.
+La société Q.________ GmbH a fait savoir, par courrier du 15 mai 2015, qu’elle renonçait
+à déposer une réponse.
+L’Office des faillites de l’arrondissement de Lausanne en a fait de même par courrier
+du 15 mai 2015.
+Par lettre du 19 mai 2015, l’Office des poursuites du district de Lausanne a formulé quelques
+observations sur l’extrait des poursuites et indiqué ne pas avoir, pour le reste, d’éléments
+à faire valoir dans le cadre du recours.
+F.________ GmbH s'est déterminée par acte du 22 mai 2015, concluant, avec suite de frais et
+dépens, au rejet du recours. Cet acte a été communiqué à la recourante par envoi
+du 10 juin 2015.
+Par décision du 9 juin 2015, la présidente de la cour de céans rejeté la requête
+d’effet suspensif présentée par la recourante le 2 juin 2015.
+La recourante a déposé une écriture complémentaire en date du 16 juin 2015. Elle
+a par ailleurs produit une copie de l’arrêt rendu par la cour de céans le 26 février
+2015, lequel rejette le recours déposé le 2 février 2015 (I), confirme le jugement, la
+faillite de E.________ SA prenant effet le 20 mai 2015 à 16h15 (II) met les frais judiciaires de
+deuxième instance, arrêtés à 300 fr., à la charge de la recourante (III)
+sans allouer de dépens de deuxième instance (IV).
+En droit
+:
+I.
+La décision d’octroi ou de refus de
+l’ajournement de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens du CPC
+(Peter, Commentaire romand, n° 21, ad 725a
+CO ; art. 174 al. 1 1
+ère
+phrase LP).
+Déposé en temps utile (art. 174 al. 1 LP) et dans les formes requises (art. 321 al. 1 CPC),
+le recours est recevable formellement.
+Les déterminations de la société Q.________ GmbH, de l’Office des faillites de l’arrondissement
+de Lausanne, de l’Office des poursuites du district de Lausanne et de F.________ GmbH sont recevables
+(art. 322 al. 1 CPC).
+L’écriture de la recourante du 16 juin 2015 est également recevable en vertu de son droit
+à la réplique spontanée (
+ATF
+137 I 195 c. 2.3 et les réf. cit. ; TF 5A_42/2011 du 21 mars 2011, c. 2).
+Les pièces nouvelles produites par les parties, à savoir le prononcé rendu par la Présidente
+de la Cour des poursuites et faillites le 11 février 2015 ainsi que l’arrêt rendu par
+la cour de céans le 26 février 2015 sont recevables dès lors qu’il s’agit
+de faits connus du juge qui pouvaient de toute manière être pris en compte à titre de
+faits notoires (TF 5A_663/2013 du 5 novembre 2013 c. 4.2.1).
+II.
+La recourante soutient qu’un
+ajournement peut être prononcé même après l’ouverture de la faillite tant que
+la déclaration de faillite n’est pas entrée en force, que les parties présentes
+lors de l’audience avaient trouvé un accord pour ajourner la faillite pour une durée
+de trois mois, que l’ajournement était ainsi tant dans l’intérêt de la recourante
+que du créancier et que dès lors la requête aurait dû être admise. De son côté,
+F.________ GmbH soutient que le recours est devenu
+sans objet, celui déposé contre le jugement de faillite du 22 janvier 2015 ayant été
+rejeté et la faillite prononcée avec effet au 20 mai 2015 par la cour de céans. Il souligne
+en outre que la recourante n’a pas été en mesure de rendre vraisemblable sa solvabilité
+ou des perspectives d’assainissement sérieuses dans un délai raisonnable.
+a)
+La
+requête d’ajournement de la recourante est fondée sur l’art. 725a al.1 CO [Code
+des obligations du 30 mars 1911; RS 220].
+Il est certes cohérent de se demander en premier lieu si une requête d’ajournement peut
+encore être déposée, respectivement si un ajournement peut encore être prononcé
+sur la base de cette disposition après que la faillite a été déclarée. Un auteur
+semble l’admettre à certaines conditions, à tout le moins lorsque la faillite a été
+prononcée suite à un avis de surendettement (Peter Böckli, Schweizer Aktienrecht, 4
+ème
+édition, n° 831, p. 1887-1888). La question peut toutefois rester ouverte, le recours devant
+de toute manière être rejeté pour les raisons qui suivent.
+b)
+L'art. 725a al. 1 CO, applicable à la société anonyme, permet au juge qui reçoit
+l'avis obligatoire de l'art. 725 al. 2 CO en cas de surendettement d'ajourner la faillite, à la
+requête du conseil d'administration ou d'un créancier, si l'assainissement de la société
+paraît possible. L'ajournement de la faillite au sens de l'art. 725a CO, auquel renvoie l'art. 192
+LP, a pour but de permettre la continuation de l'activité de la société. A la différence
+des cas d'ajournement prévus par le droit des poursuites (art. 173 et 173a LP), il ne s'agit pas
+d'une mesure relevant de l'exécution forcée, mais d'un simple moratoire (Böckli, Schweizer
+Aktienrecht, 4
+e
+,
+n. 830 p. 1887 ; Hardmeier, Zürcher Kommentar, 1997, n. 1315 ad art. 725a CO), dont la
+finalité est de redresser la société en évitant toute procédure d'exécution
+forcée, y compris concordataire (Gilliéron, Commentaire de la loi fédérale sur la
+poursuite pour dettes et la faillite, n. 15 ad art. 192 LP ; TF 5P.263/2003 du 25 août 2003
+c. 3.2).
+L'ajournement aux fins d'assainissement doit tendre à empêcher l'ouverture de la faillite dans
+l'intérêt de la société et avant tout des créanciers (CPF, 25 mai 2000/210,
+c. 3.c et réf. cit. ; CPF, 25 janvier 2012/85 ; CPF, 21 octobre 2014/359). Il a pour but
+de permettre la continuation de l'activité de la société, mais non sa liquidation en dehors
+de la procédure de faillite et cela même si une telle liquidation devait s'avérer plus
+favorable pour les créanciers (TF 5P.466/1999 du 11 avril 2000, c. 3.b).
+Le requérant doit présenter au juge un plan d'assainissement exposant les mesures propres à
+redresser la société, telles qu'une postposition par les créanciers, la conversion des
+créances en actions, des cautionnements ou garanties bancaires etc., et indiquer le délai dans
+lequel le surendettement sera éliminé (TF 5P.466/1999 précité, c. 3.b et réf.
+cit. ; TF 5P.263/2003 précité c. 3.2 ; CPF 25, janvier 2012/85 ; CPF, 21 octobre
+2014/359). Sur la base de ces éléments, le juge doit estimer les chances d'un assainissement
+réussi et durable (ATF 120 II 425 c. 2b p. 426/427 ; TF 5P.263/2003 précité c. 3.2).
+L'assainissement paraît possible quand les mesures proposées permettront, selon toute vraisemblance,
+d'éliminer le surendettement dans le délai prévu et de restaurer à moyen terme la
+capacité de gain, qui seule laisse entrevoir des perspectives d'avenir (ATF 99 II 283 c. II/3; TF
+5P.263/2003 précité c. 3.2 ; Tercier/Stoffel, Le droit des sociétés 1999/2000,
+résumés de jurisprudence, in RSDA 2000 p. 299, r86-r88 ; CPF, 25 janvier 2012/85 ;
+CPF, 21 octobre 2014/359).
+c)
+En l’espèce, il est manifeste que la recourante est surendettée : il ressort en
+effet du rapport établi par son organe de révision le 23 septembre 2014 qu’au 31 mars
+2014, l’actif social (Fr. 2’234’594.64) était insuffisant pour couvrir les fonds
+étrangers (Fr. 2’412’162.32), respectivement que les pertes (Fr. 577’567.68) étaient
+supérieures aux fonds propres de l’entreprise (Fr. 400’000), à hauteur d’un
+montant de fr. 177'567 fr. 68. La situation est d’autant plus alarmante qu’au rang de l’actif
+social figurent des créances contestées pour un montant total de 1’189'658 francs 81
+et qu’au passif existant au 31 mars 2014 est encore venu se greffer, de l’aveu même
+de la recourante (allégué 5 de la requête d’ajournement), une dette supplémentaire
+de l’ordre de 450'000 francs.
+Cela étant, la recourante estime qu’un assainissement est possible.
+Elle n’a toutefois pas produit de plan d’assainissement précis à l’appui
+de sa requête d’ajournement.
+Elle s’est contentée de se prévaloir, comme mesure d’assainissement, de la vente
+par P.________, propriétaire à 80% d’une société tierce R.________ AG, des
+actions de la recourante que dite société détient, à une société chinoise,
+L.________ Ltd., P.________ s’engageant ensuite à rembourser les dettes de la recourante au
+moyen des bénéfices réalisés sur la vente des actions de la recourante. A cet égard,
+on peut se référer aux considérations déjà émises par la cour dans son
+arrêt du 26 février 2015 qui soulignait que la vente des actions de la recourante par une société
+tierce à une société chinoise ne concerne pas la recourante en premier lieu. A supposer
+que dite transaction arrive à chef et que P.________ paie les dettes de la recourante, celui-ci
+garderait une créance contre la recourante, de sorte que cette dernière n’assainirait
+aucunement sa situation financière. Au demeurant, même si P.________ comptait faire donation
+de son bénéfice à la recourante, force est de constater que le contrat produit est remarquablement
+peu clair, voire contradictoire. Il est établi au nom de R.________ AG, mais signé au nom de
+la recourante. L’objet même de la vente n’est pas évident : il apparaît,
+d’une part que l’acheteur souhaiterait acquérir une part majoritaire dans les actions
+de R.________ AG - qui vendrait ainsi ses propres actions - mais que d’autre part les actions de
+la recourante sont mentionnées, comme s’il s’agissait de l’actif vendu. Il est
+en revanche clair que P.________, qui s’engage par ailleurs à payer les dettes de la recourante
+avec le bénéfice de l’opération, n’est pas partie à cette convention.
+Enfin, le prix de vente n’est pas fixé, ni même déterminable aux termes du contrat.
+On ne saurait ainsi admettre l’existence d’une quelconque perspective d’assainissement
+sur la base de ce seul contrat et de l’engagement pris par P.________.
+Il est vrai que la recourante a également produit un contrat de distribution exclusif portant sur
+la mise à disposition d’un brevet. Elle n’a toutefois pas démontré de
+quelle manière la vente de l’un de ses brevets, qui n’a apparemment pas encore été
+commercialisé, à L.________ Ltd., serait susceptible d’assainir sa situation financière
+à long terme. Elle n’a du reste même pas mentionné ce contrat dans sa requête
+d’ajournement. Au demeurant et comme l’a déjà relevé la cour dans son arrêt
+du 26 février 2015, le contrat produit est de toute manière très  vague au sujet
+du paiement du prix de ce brevet. Rien n’indique par ailleurs qu’il ait une véritable
+valeur commerciale. Enfin, aucun élément ne permet de considérer que ce contrat aurait,
+depuis sa signature, généré de quelconques revenus. Ce document est donc lui aussi manifestement
+insuffisant.
+En définitive, il faut admettre que la recourante n’a pas présenté d’éléments
+concrets suffisants pour considérer qu’un assainissement durable de la société est
+envisageable. L’accord, au demeurant conditionnel, d’un seul des créancier de la recourante
+ne saurait suffire à combler cette lacune. C’est donc à juste titre que la demande d’ajournement
+présentée par la recourante a été rejetée.
+III.
+Le recours doit par conséquent être
+rejeté et la décision confirmée.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à la
+charge de la recourante (art. 106 al. 1 CPC).
+L’intimée F.________ GmbH, ayant conclu au rejet du recours, a droit à des dépens
+de deuxième instance, fixés à 700 francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante E.________ SA.
+IV.
+La recourante E.________ SA doit verser à l’intimée F.________ GmbH la somme de 700 fr.
+(sept cents francs) à titre de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Laurent Schuler, avocat, (pour E.________ SA,
+‑
+Me Alexandre Guyaz, avocat, (pour F.________ GmbH)
+-
+Me Jacques Piller, avocat (pour Q.________ GmbH),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne
+-
+M. le Préposé à l’Offices des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+Le greffier :
