@@ -1,0 +1,133 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 13"
+decided: "2015-07-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5007176"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-129.md", "switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 13
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, SIGNATURE | 174 al. 1 LP, 130 al. 1 CPC (CH), 132 al. 1 CPC (CH), 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.07.2015 Faillite / 2015 / 13
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, SIGNATURE | 174 al. 1 LP, 130 al. 1 CPC (CH), 132 al. 1 CPC (CH), 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF15.016990-150932
+176
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 juillet 2015
+_________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 LP; 130 al. 1, 132 al. 1 et 321 al. 1 CPC
+Vu le jugement rendu par la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois,
+statuant par défaut des parties à la suite de l'audience du 26 mai 2015, prononçant la
+faillite, le même jour à 11 heures 30, de
+J.________
+,
+à Echallens, à la réquisition de
+Q.________SA
+,
+à Berne, ordonnant la liquidation sommaire de cette faillite et mettant les frais du jugement, par
+200 fr., à la charge du failli,
+vu le recours formé contre ce jugement par J.________, par acte non signé déposé
+le 4 juin 2015, concluant en substance à l'annulation de sa faillite,
+vu la lettre recommandée du 12 juin 2015 par laquelle la Présidente de la cour de céans,
+en application de l'art. 132 al. 1 CPC [Code de procédure civile; RS 272], constatant que l'acte
+de recours n'était pas signé et comportait ainsi un vice de forme au sens des art. 129 ss CPC,
+l'a renvoyé à J.________ en invitant ce dernier à le signer dans un délai de cinq
+jours dès réception, à défaut de quoi cet acte ne serait pas pris en considération,
+vu la réception de cette lettre le 15 juin 2015 par son destinataire, qui n'y a donné aucune
+suite dans le délai imparti,
+vu la décision de la Présidente de la cour de céans du 12 juin 2015, accordant d'office
+l'effet suspensif et ordonnant, à titre de mesures conservatoires, l'inventaire et l'audition du
+failli;
+attendu qu'en vertu de l'art. 174 al. 1 LP [loi sur la poursuite pour dettes et la faillite; RS 281.1],
+la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens
+du CPC,
+que le recours s'exerce par acte écrit et motivé introduit auprès de l'instance de recours
+(art. 321 al. 1 CPC),
+que l'acte doit être signé (art. 130 al. 1 CPC),
+que l'absence de signature est un vice de forme qui peut être rectifié dans le délai que
+le tribunal fixe à cet effet, en application de l'art. 132 al. 1 CPC,
+qu'à défaut de rectification dans le délai fixé, l'acte entaché du vice de forme
+n'est pas pris en considération (art. 132 al. 1 2
+ème
+phrase CPC),
+qu'en l'espèce, J.________ n'a pas rectifié le vice affectant son acte de recours en signant
+cet acte et en le renvoyant à la cour de céans dans le délai de cinq jours dont il disposait
+après réception de la lettre de la présidente du 12 juin 2015,
+que cet acte ne peut dès lors pas être pris en considération et doit être déclaré
+irrecevable,
+que le jugement de faillite doit être confirmé, la faillite de J.________ prenant effet, vu
+l'effet suspensif accordé, à la date du présent arrêt;
+attendu que le présent arrêt est rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Le jugement est confirmé, la faillite de J.________ prenant effet le 2 juillet 2015, à
+16 heures 15.
+III.
+L’arrêt est rendu sans frais judiciaires ni dépens.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. J.________,
+‑
+Q.________SA,
+-
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office du Jura-Nord vaudois : Districts du Gros-de-Vaud et du
+Jura-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
