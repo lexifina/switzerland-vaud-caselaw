@@ -1,0 +1,403 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 17"
+decided: "2015-07-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5032074"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-043.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 17
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ | 190 al. 1 ch. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.07.2015 Faillite / 2015 / 17
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ | 190 al. 1 ch. 2 LP
+
+TRIBUNAL
+CANTONAL
+FW15.003487-150738
+182
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 juillet 2015
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+190 al. 1 ch. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Confédération
+Suisse
+, représentée par
+l’Administration
+fédérale des contributions (AFC), division principale de la TVA,
+à Berne, contre le jugement rendu le 21 avril 2015, à la suite de l’audience du 19 février
+2015, par le Président du Tribunal d’arrondissement de l’Est vaudois, refusant de prononcer
+la faillite sans poursuite préalable de
+L.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+L.________ exploite en raison individuelle
+une entreprise inscrite au registre du commerce depuis le 15 octobre 2009. Cette entreprise, qui a son
+siège à [...], [...], a pour but : « conciergerie, nettoyage, entretien et réparation
+de bâtiments ; organisation de manifestations et de banquets ; service traiteur ».
+L’extrait des registres 8a LP, à la date du 13 janvier 2015, indique que L.________ fait l’objet
+de poursuites depuis 2010 pour un montant total de 96'574 fr. 10 et que, depuis 2011, 85 actes de défaut
+de biens pour un total 205'003 fr. 55 ont été délivrés à ses créanciers,
+essentiellement des caisses d’assurance maladie, la caisse AVS, la Confédération suisse
+(administration fédérale des contributions) et l’Etat de Vaud (office d’impôt).
+La Confédération suisse, Administration fédérale des contributions, division principale
+de la TVA, en particulier, s’est vu délivrer depuis le 29 juin 2011, 27 actes de défaut
+de biens pour un montant total de 77'514 fr. 80. Quant aux poursuites, sept d’entre elles en étaient
+au stade de la commination de faillite.
+Par lettre du 29 juillet 2013 à L.________, faisant référence à un entretien téléphonique
+du 23 juillet précédent, l’Administration fédérale des contributions a accepté
+un plan de paiement comprenant le versement d’acomptes mensuels de 750 fr. chacun à compter
+du 30 août 2013. Par lettre du 13 janvier 2014, l’Administration fédérale des contributions
+a écrit au débiteur que l’arrangement exceptionnel du 29 juillet 2013 n’ayant pas
+été respecté, il était annulé.
+b)
+L.________ a produit les comptes 2012 et 2013 de son entreprise établis par la C.________ SA, à
+Lausanne. Selon le compte de profits et pertes au 31 décembre 2012, le chiffre d’affaires
+total (secteur entretien et secteur traiteur) avait été de 362'392 fr. 55 en 2011 et de 288'364
+fr. 05 en 2012 et le bénéfice d’exploitation de 64'809 fr. 49 en 2011 et de 58'217 fr.
+61 en 2012. En 2013, le chiffres d’affaires total a été de 221'171 fr. 55 et le bénéfice
+de 62'859 fr. 07, grâce notamment à une réduction de la charge salariale, qui a passé
+de 98'737 fr. 40 en 2012 à 33'453 fr. 40 en 2013. Les comptes 2014 de l’entreprise n’ont
+pas été produits.
+L.________ a produit une liste des contrats d’entretien (conciergerie et déneigement d’immeubles)
+qu’il dit être en cours en 2015, représentant un chiffre d’affaires de 12'650 fr.
+par mois. Il a également produit dix-huit demandes d’offres et offres pour des prestations
+de traiteur de mars à octobre 2015.
+L.________ a également produit en première instance un classeur de paiements effectués
+à ses créanciers depuis 2010, dont plusieurs sont intervenus alors même qu’une audience
+de faillite était déjà fixée. Il a encore produit une liste des arrangements en cours
+avec certains créanciers, prévoyant des paiements de 500 fr. par mois à la Banque M.________
+(solde de dette de 17'000 fr.), de 500 fr. par mois à U.________ (solde 2'500 fr.), de 500 fr. à
+la Caisse AVS (solde 2010-2012 de 8'500 fr.). L.________ fait en outre l’objet d’une saisie
+de revenu de 700 fr. par mois fixée par l’Office des poursuites de Lavaux-Oron, en vigueur
+depuis le 15 janvier 2015. Au 20 février 2015, la saisie de revenu du mois de janvier 2015 avait
+été payée.
+c)
+Selon l’extrait des registres 8a LP au 18 février 2015, L.________ faisait à cette date
+l’objet de 22 poursuites en cours, introduites depuis le mois de février 2014, sous réserve
+d’une poursuite frappée d’opposition introduite en 2009, pour un total de 88'503 fr.
+55. Sept poursuites en étaient au stade de la commination de faillite. Neuf poursuites, émanant
+de la Confédération suisse (Administration fédérale des contributions), de la SUVA,
+ou de l’Office d’impôt du district de La Riviera-Pays-d’Enhaut en étaient
+au stade de la saisie fructueuse, l’intimé faisant l’objet d’une saisie en cours
+de 700 fr. par mois. Cinq commandements de payer ont été notifiés à l’intimé
+depuis le 1er janvier 2015, pour un total de 4'294 fr. 30. Ces poursuites, non frappées d’opposition,
+émanent toutes (sauf une), de collectivités publiques. Plusieurs poursuites ne portent que
+sur quelques centaines de francs.
+Selon l’extrait à la même date du registre des actes de défaut de biens, 87 actes
+de défaut de biens avaient été délivrés à des créanciers de l’intimé
+depuis 2010, pour un total de 268'414 fr. 30. Les créanciers de ces poursuites sont des compagnies
+d’assurance, la Caisse AVS et les administrations fiscales fédérales, cantonales et communales.
+Plusieurs de ces actes de défaut de biens ne portent que sur quelques centaines de francs.
+2.
+Le 15 janvier 2015, la Confédération suisse a requis avec suite de frais et dépens la
+faillite sans poursuite préalable de L.________, fondée sur l’art. 190 al. 1 ch. 2 LP
+(loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite, RS 281.1).
+Dans sa réponse du 19 février 2015, L.________ a conclu avec suite de frais et dépens
+au rejet de la requête.
+Une audience s’est tenue le 19 février 2015 en présence de L.________ et de son conseil.
+Par décision notifiée à la requérante le 23 avril 2015, le Président du Tribunal
+d’arrondissement de l’Est vaudois a rejeté la requête de faillite, arrêté
+à 300 francs les frais judiciaires mis à la charge de la requérante et rejeté toutes
+autres ou plus amples conclusions. Il a retenu que L.________ avait eu un chiffre d’affaires en
+hausse en 2013, qu’il avait des contrats en cours en 2015, qu’il avait obtenu des arrangements
+avec plusieurs créanciers, qu’il avait payé des dettes à l’office, qu’il
+supportait une saisie de salaire mensuelle de 700 fr. , qu’il déclarait avoir diminué
+ses charges, notamment salariales, et payer ses dettes courantes, qu’il n’était dès
+lors pas en cessation de paiement et qu’il avait, selon ses dires, proposé à la requérante
+une reprise du plan de paiement qui a été refusée.
+3.
+La Confédération suisse, Administration fédérale des contributions, division principale
+de la TVA a recouru par acte du 29 avril 2015, concluant avec suite de frais et dépens à l’admission
+du recours et de la requête de faillite sans poursuite préalable.
+L’intimé L.________ a répondu par acte de son conseil du 8 juin 2015, concluant avec
+suite de frais et dépens au rejet du recours, dans la mesure où il est recevable, et à
+la confirmation de la décision attaquée.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP, auquel renvoie
+l'art. 194 al. 1 LP, le jugement statuant sur une requête de faillite sans poursuite préalable
+peut faire l'objet d'un recours au sens du CPC (Code de procédure civile du 19 décembre 2008;
+RS 272). La rédaction de l’art. 174 al. 1 LP, en tant que cette disposition fait référence
+aux parties, permet de conclure que le créancier requérant qui n’a pas obtenu gain de
+cause en première instance est en droit de recourir.
+Le recours au sens des art. 319 ss CPC doit être introduit auprès de l'instance de recours
+par acte écrit et motivé (art. 321 al. 1 CPC), dans les dix jours à compter de la notification
+de la décision motivée (art. 321 al. 2 CPC). En l’espèce, le recours a été
+déposé en temps utile ; il est motivé et, partant, recevable formellement (art 321
+al. 1 CPC).
+La réponse de l'intimé est également recevable (art. 322 CPC).
+b)
+Dans la procédure de recours contre une décision du juge de la faillite, selon l’art. 174
+al. 1 in fine LP, les parties peuvent faire valoir des faits nouveaux lorsqu’ils se sont produits
+avant le jugement de première instance (pseudo-nova). En vertu de l’art. 174 al. 2 LP, les
+pièces se rapportant à des faits intervenus depuis l’audience de faillite (vrais nova)
+peuvent être produites, pour autant qu’elles tendent à rendre vraisemblable la solvabilité
+du débiteur et à établir que celui-ci a payé sa dette en totalité (ch. 1) ou
+consigné les montants nécessaires auprès de l’autorité compétente (ch.
+2) ou que le créancier a retiré sa réquisition de faillite (ch. 3). Seul le débiteur
+peut produire, dans le délai de recours, des titres pour établir les faits énumérés
+limitativement à l’art. 174 al. 2 ch. 1 à 3 LP (CPF, 5 août 2013/310). Il s’ensuit
+que, pour juger de l’existence d’une suspension de paiement justifiant une faillite sans
+poursuite préalable, l’autorité judiciaire supérieure doit tenir compte des faits
+nouveaux (vrais nova) et donc de la situation financière du débiteur à l'échéance
+du délai de recours cantonal (ATF 136 III 294, c. 3 ; TF 5A_439/2010 du 11 novembre 2010, c. 4).
+Il s’agit en outre d’examiner si les conditions de la déclaration de faillite étaient
+remplies à la date du jugement de première instance (TF 5A_711/2012 du 17 décembre 2012;
+Brönnimann, Novenrecht und Weiterziehung des Entscheides des Konkursgerichtes gemäss Art. 174
+SchKG, in Festschrift Walder, p. 444).
+En l’espèce, aucune pièce nouvelle n’a été produite en deuxième
+instance. Les pièces produites par la recourante figuraient déjà au dossier de première
+instance. Quant à l’intimé, il n’a produit aucune pièce à l’appui
+de sa réponse.
+II.
+Aux termes de l’art. 190 al. 1 ch. 2 LP, le créancier peut requérir la faillite sans
+poursuite préalable si le débiteur sujet à la poursuite par voie de faillite a suspendu
+ses paiements.
+La légitimation pour requérir la faillite sans poursuite préalable appartient à celui
+qui prétend être créancier et le rend vraisemblable au degré de la vraisemblance
+qualifiée (Cometta, Commentaire romand, n. 3 ad 190 LP). Si le prétendu débiteur conteste
+l’existence de la créance alléguée par le requérant et, en particulier, prouve
+par titre qu’elle a été acquittée, le juge de la faillite doit rejeter la requête
+(Gillieron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n°50,
+ad 190 LP). Jurisprudence et doctrine admettent qu’un créancier de droit public, qui
+ne pourrait pas requérir la faillite, vu l’art. 43 ch. 1 LP, peut requérir la faillite
+sans poursuite préalable de l’art. 190 al. 1 ch. 2 LP (TF 5P.378/1990 ; SJ 1995 I 496 ;
+Acocella, Basler Kommentar, n. 12 ad art. 43 LP et références).
+En l’espèce, l’intimé ne conteste pas l’existence des créances invoquées
+par la recourante, qui résultent au demeurant des actes de défaut de biens produits.
+Il ne prétend pas avoir réglé les montants dus. Il reproche certes à la recourante
+d’avoir refusé un nouveau plan de paiement. Il ne fournit cependant aucune indication relative
+aux propositions qu’il a faites et ne rend pas vraisemblable avoir présenté une offre
+acceptable. La recourante a donc établi sa qualité de créancière.
+Quant à l’intimé, il n’est pas contesté qu’il est sujet à la poursuite
+par voie de faillite, de par son inscription au registre du commerce.
+III.
+a)
+Le système du droit suisse de la poursuite
+pour dettes et la faillite prévoit fondamentalement qu’une procédure de faillite est
+précédée d’une poursuite préalable ordinaire (Fritschi, Verfahrensfragen bei
+der Konkurseröffnung, thèse Zurich 2010, p. 151; Gilliéron, Poursuite pour dettes, faillite
+et concordat, n. 564, p. 114). Ce n’est qu’exceptionnellement, dans un certain nombre
+de cas, que la loi permet à un soi-disant créancier de requérir l’ouverture de la
+faillite de son prétendu débiteur sans commandement de payer exécutoire (Gilliéron,
+Commentaire, n. 2 ad art. 190 à 194 LP). Vu les lourdes conséquences de la déclaration
+de faillite sans poursuite préalable et le fait qu’elle constitue une exception dans le système
+de l’exécution forcée, elle doit être appliquée et interprétée restrictivement.
+La cour de céans, suivant l'avis de plusieurs auteurs, considère qu'il faut, quant au degré
+de preuve requis, faire une distinction, en ce sens que pour les causes matérielles de la faillite,
+on exige en principe la preuve stricte – quand bien même les moyens de preuve consentis en
+procédure sommaire sont limités – alors que pour les autres conditions la vraisemblance
+qualifiée est suffisante (Cometta, Commentaire romand, n. 2 ad art. 190 LP ; Fritschi, op. cit.,
+pp. 153-154). Sur ce dernier point, elle a jugé que, même si elle s’était parfois
+contentée de la simple vraisemblance (CPF, 29 novembre 2007/455, qui se réfère à
+CPF, 10 décembre 1998/683), il y avait lieu de suivre l'auteur précité (Cometta, op. cit.,
+n. 3 ad art. 190, qui cite l'arrêt paru aux ATF 120 III 88, JT 1996 II 77, notamment), le degré
+de la vraisemblance qualifiée tenant adéquatement compte des intérêts du créancier
+requérant et du débiteur dont la faillite est demandée (CFP, 12 mars 2012/8; CPF, 19 août
+2011/323; CPF, 7 juillet 2011/239; CPF, 13 novembre 2008/549; CPF, 18 septembre 2008/439). La jurisprudence
+de la cour de céans sur ce point (CPF, 12 mars 2012/8, CPF, 19 août 2011/323 et CPF, 7 juillet
+2011/239 précités) n'est pas contredite par le Tribunal fédéral, qui a laissé
+ouverte la question du degré de la preuve, même en ce qui concerne le cas de faillite invoqué
+(TF 5A_719/2010 du 6 décembre 2010 c. 5.5).
+Parmi les causes matérielles de la faillite, soumises aux exigences d’une preuve stricte,
+figure celle de la suspension des paiements (Cometta, op. cit., nn. 5 et 10 ad art. 190 LP). Cette preuve
+peut être rapportée sous la forme d’indices et résulter d’actes du débiteur
+permettant de conclure à une suspension ou cessation des paiements (CPF, 29 novembre 2007/455).
+La suspension de paiements au sens de l’art. 190 al. 1 ch. 2 LP est une notion imprécise qui
+confère au juge de la faillite un ample pouvoir d'appréciation (ATF 137 III 460 c. 3.4.1 ;
+TF 5A_439/2010 du 11 novembre 2010, in SJ 2011 I 175 ; TF 5P.312/2002 du 13 février 2003 c. 3.3;
+Gilliéron, op. cit., n. 30 ad art. 190 LP ; Cometta, op. cit., n. 10 ad art. 190 LP ; Peter, Edition
+annotée de la loi fédérale sur la poursuite pour dettes et la faillite, p. 851; Huber,
+Kurzkommentar SchKG, n. 8 ad art. 190 LP). Elle est la manifestation extérieure de l’insolvabilité,
+qu’il ne faut pas confondre avec l’insuffisance d’actifs, c’est-à-dire la
+situation dans laquelle les passifs excèdent les actifs, soit l’endettement ou le surendettement,
+encore qu’une situation prolongée d’insolvabilité aboutit au surendettement, comme
+un surendettement prolongé aboutit à une situation d’insolvabilité (Gilliéron,
+op. cit., n. 28 ad art. 190 LP). Cette notion a été préférée par le législateur
+à celle d’insolvabilité parce qu’elle est perceptible extérieurement et par
+conséquent plus aisée à rendre vraisemblable. Lorsque l’insolvabilité est rendue
+vraisemblable, la faillite sans poursuite préalable doit toutefois a fortiori être déclarée
+(ibid. n. 29 ad art. 190 LP ; TF 5A_367/2008 du 11 juillet 2008 c. 4.1). Pour qu’il y ait
+suspension de paiements, il faut que le débiteur ne paie pas des dettes incontestées et exigibles,
+laisse les poursuites se multiplier contre lui, tout en faisant systématiquement opposition, ou
+omette de s’acquitter même des dettes minimes, laissant démontrer par ce comportement
+qu’il ne dispose pas de liquidités suffisantes pour honorer ses engagements (ATF 137 III 460,
+c. 3.4.1 p. 468). Il n’est pas nécessaire que le débiteur interrompe tous ses paiements ;
+il suffit que le refus de payer porte sur une partie essentielle de ses activités commerciales (ATF
+137 III 460 c. 3.4.1, p. 468; ATF 85 III 146, c. 4b p. 155). Même une dette unique n’empêche
+pas, si elle est importante et que le refus de payer est durable, d’admettre une suspension de
+paiements, tel pouvant être le cas lorsque le débiteur refuse de désintéresser son
+principal créancier (TF 5A_439/2010 précité ; TF 5A_367/2008 précité c.
+4.1 ; TF 5P.412/1999, SJ 2000 I 248). Le non-paiement de créances de droit public peut constituer
+un indice de suspension de paiements (TF 5P.412/1999, SJ 2000 I 248 ; TF 5P.114/1999, SJ 1999 I
+496 ; Acocella, Basler Kommentar, n. 12 ad art. 43 LP et références). La suspension des
+paiements ne doit pas être de nature simplement temporaire, mais doit avoir un horizon indéterminé
+(ATF 137 III 460, JT 2012 II 178, c. 3.4.1).
+b)
+En l’espèce, l’intimé a débuté son entreprise en 2009. Il établit
+certes le paiement de nombreuses factures depuis 2010. Cependant, nombre d’entre elles ont été
+payées alors qu’une audience de faillite était déjà fixée. Il résulte
+du dernier extrait du registre des poursuites produit en première instance, du 18 février 2015,
+que l’intimé faisait l’objet de 22 poursuites en cours, introduites depuis le mois de
+février 2014, sous réserve d’une poursuite frappée d’opposition introduite
+en 2009,  pour un total de 88'503 fr. 55. Sept de ces poursuites en étaient au stade de la
+commination de faillite. Neuf poursuites, émanant de la Confédération suisse (Administration
+fédérale des contributions), de la SUVA  ou de l’Office d’impôt du district
+de La Riviera-Pays-d’Enhaut en étaient au stade de la saisie fructueuse, l’intimé
+faisant l’objet d’une saisie en cours de 700 fr. par mois. Cinq commandements de payer avaient
+été notifiés à l’intimé depuis le 1er janvier 2015, pour un total de 4'294
+fr. 30. Ces poursuites, non frappées d’opposition, émanaient toutes (sauf une), de collectivités
+publiques, et plusieurs d’entre elles ne portent que sur quelques centaines de francs.
+Selon l’extrait à la même date du registre des actes de défaut de biens, 87 actes
+de défaut de biens avaient été délivrés à des créanciers de l’intimé
+depuis 2010, pour un total de 268'414 fr. 30. Les créanciers de ces poursuites sont des compagnies
+d’assurance, la Caisse AVS et les administrations fiscales fédérales, cantonales et communales.
+Plusieurs de ces actes de défaut de biens ne portent que sur quelques centaines de francs. A elle
+seule, la recourante s’est vu délivrer 27 actes de défaut de biens, pour un total de
+77'514 fr. 80 pour des créances impayées de TVA.
+Il résulte des documents produits que l’intimé a, depuis 2010 en tout cas, effectué
+ses paiements en favorisant ses créanciers privés, au détriment des créanciers de
+droit public qui, conformément à l’art. 43 LP, ne peuvent requérir sa faillite.
+Cette différence de traitement se vérifie également au niveau des plans de paiement conclus
+avec certains créanciers, puisque ces arrangements ne concernent que des créanciers de droit
+privé. L’intimé n’établit au surplus pas que ces arrangements sont respectés.
+Depuis 2009, il a laissé systématiquement impayées les dettes de droit public, accumulant
+les actes de défaut de biens pour un total de 205'003 fr. 55, en ne payant ni ses impôts, ni
+la TVA, ni l’AVS, ni des primes d’assurance maladie. Cette situation concrétise une
+cessation de paiements, un état d’insolvabilité, qui n’est pas que passager. Les
+pièces produites démontrent que l’intimé n’a pu se maintenir qu’en cessant
+de payer ses dettes de droit public, en particulier grâce à la TVA encaissée et non reversée
+à l’administration fédérale des impôts.
+Les éléments invoqués en première instance par l’intimé ne conduisent
+pas à une conclusion différente. L’intimé a fait valoir une augmentation de son
+bénéfice entre 2012 et 2013. S’il y a certes eu entre ces deux années une augmentation
+de bénéfice de l’ordre de 4'600 fr., on constate qu’il y a eu à la même
+période une baisse du chiffre d’affaires de 67'193 francs. L’augmentation de bénéfice
+ne saurait dès lors être interprétée comme un signe positif, d’autant que dans
+le même temps les actes de défaut de biens ont continué à s’accumuler. De surcroît,
+on ignore tout des comptes de l’entreprise en 2014. Quant aux contrats d’entretien et de
+traiteurs pour 2015, l’intimé n’a produit que des propositions d’offres et des
+offres, de sorte qu’il n’est pas possible de se faire une idée réelle de la situation
+actuelle. Enfin, il a déclaré en première instance payer ses charges courantes, mais sans
+fournir aucun document propre à étayer son affirmation.
+Cela étant, force est de constater que la recourante a établi la cessation de paiement au sens
+de l’art. 190 al. 1 ch. 2 LP.
+IV.
+Selon l’art. 173a al. 2 LP, applicable en vertu du renvoi de l’art. 194 al. 1 LP, le tribunal
+peut ajourner d’office le jugement de faillite lorsqu’un concordat paraît possible ;
+il transmet dans ce cas le dossier au juge du concordat.
+L'art. 173a LP est une mesure d'exécution forcée permettant d'éviter l'ouverture de la
+faillite quand sont réalisées les conditions d'un assainissement financier, notamment sous
+la forme d'un sursis concordataire. Dans le cadre de la procédure sommaire (art. 251 let. a CPC),
+le tribunal examine s’il est rendu vraisemblable qu’un concordat est possible. A cet égard,
+il ne suffit pas au débiteur d’alléguer l’existence d’une telle possibilité;
+encore faut-il que celle-ci ressorte du dossier, ou des éléments de preuve amenés par
+le débiteur, le créancier ou des tiers (Giroud, Basler Kommentar SchKG II, n. 7 à 9 ad
+art. 173a LP).
+En l’espèce,
+l’intimé n’a pas allégué qu’un concordat serait possible. Une telle
+possibilité n’est pas non plus rendue vraisemblable sur la base du dossier.
+V.
+En conclusion, le recours doit être admis
+et la faillite de L.________ prononcée avec effet à la date du présent arrêt, les
+frais judiciaires de première instance étant, vu l’issue du recours, mis à la charge
+de l’intimé, qui devra les rembourser à la recourante (art. 106 al. 1 CPC). Il n’y
+a pas lieu d’allouer de dépens de première instance, la recourante ayant agi sans l’assistance
+d’un mandataire professionnel.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont, vu le rejet
+du recours, mis à la charge de l’intimé, qui les remboursera à la recourante (art.
+106 al. 2 CPC). Il n’y a pas lieu d’allouer de dépens de deuxième instance, la
+recourante ayant agi sans l’assistance d’un mandataire professionnel.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+La faillite de L.________, à [...], est prononcée, à la requête de la Confédération
+suisse, Administration fédérale des contributions, division principale de la TVA, 3003 Berne
+pour avoir lieu le 16 juillet 2015 à 16 heures 15.
+Les frais judiciaires
+de première instance, par 300 fr. (trois cents francs) sont mis à la charge du failli.
+Le failli L.________ versera
+à la requérante Confédération suisse, Administration fédérale des contributions,
+division principale de la TVA, le montant de 300 fr. (trois cents francs) en remboursement de son avance
+de frais de première instance.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de l’intimé.
+IV.
+L’intimé L.________ versera à la recourante Confédération suisse, Administration
+fédérale des contributions, division principale de la TVA, le montant de 300 fr. (trois cents
+francs) en remboursement de son avance de frais de deuxième instance.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Confédération suisse, Administration fédérale des contributions, division principale
+de la TVA,
+‑
+M. Jean-Marc Schlaeppi, agent d’affaire breveté (pour L.________),
+-
+Mme la Préposée à l'Office des poursuites du district de Lavaux-Oron,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Lavaux-Oron,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
