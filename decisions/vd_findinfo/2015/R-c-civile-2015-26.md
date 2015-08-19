@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2015___26"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2015 / 26"
+decided: "2015-08-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20150810133818602_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2015 / 26
+
+## Regeste
+
+ADMISSION DE LA DEMANDE, RÉCUSATION | 6 ROTC, 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8a al. 4 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 19.08.2015 Réc-civile / 2015 / 26
+
+ADMISSION DE LA DEMANDE, RÉCUSATION | 6 ROTC, 47 al. 1 let. f CPC (CH), 48 CPC (CH), 8a al. 3 CDPJ, 8a al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+26
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 19 août 2015
+_____________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              M.
+Muller et Michellod
+Greffier
+:              M.
+Tinguely
+*****
+Art.
+47 al. 1 let. f et 48 CPC ; art. 8a al. 3 et 8b al. 4 CDPJ ; art. 6 al. 1 ROTC
+Vu la requête commune en divorce déposée le 4 août 2015 par les époux
+C.________
+,
+auprès du Tribunal civil de l’arrondissement de La Côte,
+vu le courrier du 6 août 2015 par lequel la suppléante du Premier président du Tribunal
+d’arrondissement de La Côte a requis la récusation en corps de son office,
+vu les pièces au dossier ;
+attendu que la suppléante du Premier président a exposé dans sa requête du 6 août
+2015 que H.________ exerce la fonction de juge assesseur (représentant les employeurs) auprès
+du Tribunal de prud’hommes de l’arrondissement de La Côte,
+qu’il lui apparaît que cette situation serait de nature à créer une apparence de
+prévention et justifierait la récusation spontanée de l’ensemble du Tribunal d’arrondissement,
+attendu que la Cour de céans est compétente
+pour statuer sur la demande de récusation spontanée du 6 août 2015 en vertu des art. 8a
+al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12 janvier 2010, RSV 211.02) et 6 al. 1 let. a
+ROTC (règlement organique du Tribunal cantonal du 13 novembre 2007, RSV 173.31.1),
+que
+la demande satisfait aux exigences de fond et de forme,
+qu'elle
+est ainsi recevable;
+attendu
+qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile suisse du 19 décembre
+2008, RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+qu’à
+teneur de l’art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d’un motif de récusation possible et se récuse lorsqu’il considère
+que ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1; ATF 116 Ia 14 c. 4, JT 1991 IV 157),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst (Constitution fédérale
+de la Confédération suisse du 18 avril 1999, RS 101) et 6 § 1 de la Convention du 4 novembre
+1950 de sauvegarde des droits de l'homme et des libertés fondamentales (RS 0.101), s'oppose à
+ce que des circonstances extérieures au procès puissent influencer le jugement d'une manière
+qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012 du 17 octobre
+2012 c. 6.2.1; TF 4A_151/2012 du 4 juin 2012 c. 2.1; ATF 138 I 1 c. 2.2 et les réf.
+citées, SJ 2012 I 351),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (TF 5A_316/2012 du 17 octobre 2012
+c. 6.2.1; ATF 138 I 1 c. 2.2 et les références citées; ATF 131 I 24 c. 1.1, JT 2006 II
+186),
+qu’en l’espèce,
+la requête commune en divorce déposée le 4 août 2015 par les époux H.________
+semble être de la compétence du Tribunal civil d’arrondissement de La Côte,
+qu’une
+des parties à la requête commune en divorce, à savoir H.________, exerce la fonction de
+juge assesseur auprès du Tribunal de prud’hommes de l’arrondissement de La Côte,
+que
+cette fonction n'implique cependant pas qu'il ait des contacts réguliers et professionnels avec
+l’ensemble des membres du Tribunal d'arrondissement,
+qu'il a tout au plus des contacts avec les magistrats exerçant la présidence du Tribunal de
+prud'hommes,
+que, sur les cinq présidents du Tribunal d’arrondissement de La Côte, seuls deux d’entre
+eux exercent également la fonction de président du Tribunal de prud’hommes,
+qu’au demeurant, les parties ont d’ores et déjà conclu et produit une convention
+sur les effets accessoires du divorce, de sorte que la cause ne s’annonce pas conflictuelle,
+que, pour ces motifs,
+il convient de rejeter la requête de récusation déposée par la suppléante du
+Premier président du Tribunal d’arrondissement de La Côte,
+attendu
+que le présent arrêt doit être rendu sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 6 août 2015 par le Tribunal d’arrondissement
+de La Côte est rejetée.
+II.
+L’arrêt est rendu sans frais ni dépens.
+III.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Mme Patricia Cornaz, suppléante du Premier président du Tribunal d’arrondissement de
+La Côte,
+-
+M. H.________,
+-
+Mme C.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Le greffier :
