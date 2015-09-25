@@ -1,0 +1,223 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2015___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2015 / 3"
+decided: "2015-09-25"
+published: "2015-09-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5157450"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-049.md"]
+---
+
+# VD Findinfo Réc-administrative / 2015 / 3
+
+## Regeste
+
+RÉCUSATION, REJET DE LA DEMANDE | 6 al. 1 let. a ROTC, 6 ROTC, 10 al. 2 LPA-VD, 11 al. 3 LPA-VD, 9 let. b LPA-VD, 9 let. e LPA-VD, 9 LPA-VD
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 25.09.2015 Réc-administrative / 2015 / 3
+Vaud Tribunal cantonal Cour administrative 25.09.2015 Réc-administrative / 2015 / 3
+Vaud Tribunal cantonal Cour administrative 25.09.2015 Réc-administrative / 2015 / 3
+
+RÉCUSATION, REJET DE LA DEMANDE | 6 al. 1 let. a ROTC, 6 ROTC, 10 al. 2 LPA-VD, 11 al. 3 LPA-VD, 9 let. b LPA-VD, 9 let. e LPA-VD, 9 LPA-VD
+
+TRIBUNAL
+CANTONAL
+GE.2015.0171
+30/2015
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 25 septembre 2015
+________________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Battistolo et Muller
+Greffière
+:              Mme
+Berger
+*****
+Art.
+9, 10 al. 2, 11 al. 3 LPA-VD; art. 6 al. 1 let. a ROTC
+Vu la décision du vétérinaire cantonal du 19 juillet 2012, ordonnant le séquestre
+définitif et l'euthanasie du chien [...], dont D.________ est le propriétaire et le détenteur,
+vu la décision du Département de la santé et de l'environnement (ci-après : DSE)
+du 28 mars 2013, rejetant le recours formé par D.________ et confirmant la décision du vétérinaire
+cantonal,
+vu l'arrêt du 29 avril 2014 de la Cour de droit administratif et public du Tribunal cantonal (ci-après
+: CDAP), composée d' [...] et [...], juges, et L.________, président, rejetant le recours formé
+par D.________ à l'encontre de la décision du DSE,
+vu l'arrêt du Tribunal fédéral du 9 janvier 2015 rejetant le recours formé par D.________,
+vu la demande de grâce déposée par D.________ le 27 février 2015 auprès du Grand
+Conseil vaudois,
+vu la décision du chef du [...] (ci-après : [...]) du 29 juillet 2015, déclarant dite
+demande irrecevable,
+vu le recours formé à l'encontre de dite décision auprès de la CDAP par D.________
+le 14 septembre 2015,
+vu l'avis du 15 septembre 2015 aux parties, duquel il ressort que le juge L.________ est chargé
+d'instruire cette cause,
+vu la requête de récusation de ce magistrat déposée le 22 septembre 2015 par D.________
+auprès de la CDAP,
+vu le courrier du 23 septembre 2015 par lequel le juge intimé a transmis la requête de récusation
+à la Cour administrative comme objet de sa compétence,
+vu les pièces au dossier;
+attendu que le recours déposé par D.________ à l'encontre de la décision d'irrecevabilité
+du chef du [...] est pendant devant la CDAP,
+que les art. 9 à 12 LPA-VD (loi sur la procédure administrative du
+28
+octobre 2008, RSV 173.36) sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 ROTC (règlement organique du Tribunal cantonal du
+13 novembre 2007, RSV 173.31.1), la Cour administrative est compétente pour statuer sur la demande
+de récusation présentée le 22 septembre 2015 à l'encontre d'L.________,
+que la requête a en outre été déposée en temps utile (art. 10 al. 1 LPA-VD);
+attendu que le requérant soutient que l'impartialité du magistrat intimé n'est pas garantie,
+dès lors que celui-ci a déjà statué en sa défaveur sur la question de savoir
+si le chien [...] devait ou non être euthanasié,
+que
+selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer une décision
+ou un jugement doit se récuser si elle a un intérêt personnel dans la cause (let. a),
+si elle a agi dans la même cause à un autre titre, notamment comme membre d'une autorité,
+comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée par les
+liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec une partie,
+son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité précédente,
+la dissolution du mariage ou du partenariat enregistré ne supprimant pas le motif de récusation
+(let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième degré
+inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi dans la même
+cause comme membre de l'autorité précédente (let. d) ou si elle pourrait apparaître
+comme prévenue de toute autre manière, notamment en raison d'une amitié étroite ou
+d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+que
+la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 c. 2.1; ATF 116 Ia 14 c. 4, trad. et rés. au JT 1991 IV 157; ATF 115 Ia 172 c. 3),
+qu'en
+la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 c. 4.2), qu'elles soient
+objectives et résultent de faits déterminés (ATF 138 I 1 c. 2.2; ATF 131 I 24 c.
+1.1; ATF 124 I 121 c. 3a, JT 1999 I 159; ATF 115 Ia 172 c. 3),
+que
+les impressions purement individuelles d'une des parties au procès ne sont en revanche pas décisives
+(TF 5D_61/2008 du 20 août 2008 c. 5.3; ATF 131 I 24 c. 1.1),
+que
+l'art. 6 §1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des
+libertés fondamentales, RS 0.101), garantit le droit à être jugé par un tribunal
+indépendant et impartial, établi par la loi (ATF 127 I 44 c. 2),
+que
+l'art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril
+1999; RS 101) n'a, de ce point de vue, pas une portée différente de
+l'art.
+6 § 1 CEDH, toute personne dont la cause doit être jugée dans une procédure judiciaire
+ayant droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent,
+indépendant et impartial (TF 1C_235/2008 du 13 mai 2009 c. 3.1),
+qu'en
+particulier, la garantie du juge impartial s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (ATF 138 I 1 c. 2.2; ATF 131 I 24 c. 1.1; TF 1B_35/2010 du 18 mars
+2010 c. 2.1; ),
+que
+la connaissance approfondie du dossier par le juge n'implique pas un préjugé empêchant
+de le considérer comme impartial au moment du jugement sur le fond, du moment que son appréciation
+intervient avec le jugement et s'appuie sur les éléments produits et débattus à l'audience
+(CEDH 65411/01 du 9 novembre 2006, Affaire Sacilor Lormines c. France, § 61),
+que
+la cour de céans a déjà eu l'occasion de juger qu'il n'est pas judicieux de déroger
+à la pratique installée au sein de la CDAP d'attribuer au même juge deux dossiers dont
+le complexe de faits et semblable, du moment que son appréciation intervient avec le jugement et
+s'appuie sur les éléments produits et débattus en procédure, la garantie du juge
+impartial étant de la sorte respectée (CA du 21 septembre 2011/20, confirmé in TF 1C_477/2011
+du 16 janvier 2012 c. 2.2),
+qu’il n'appartient en outre pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 c. 2.2);
+attendu
+qu'en l'espèce, la CDAP, présidée par le juge intimé, a statué en défaveur
+du requérant par arrêt du 29 avril 2014, considérant en substance que le chien [...] devait
+être considéré comme dangereux, que l'enfermement, seule mesure envisageable permettant
+de préserver la vie du chien tout en étant suffisante sur le plan de la sécurité
+publique, n'était pas compatible avec la dignité de l'animal, l'euthanasie étant la seule
+autre mesure propre à écarter le danger que représentait l'animal,
+que
+le fait pour le juge intimé d'avoir présidé la cour ayant statué en  défaveur
+du requérant par le passé ne signifie pas pour autant qu'il soit mû par un sentiment d'inimitié
+à l'égard ce celui-ci (CA 3/2015 du 25 février 2015; CA 17/2012 du 2 mai 2012),
+qu'en
+outre, dans la présente cause, le magistrat intimé n'aura pas à statuer sur la question
+de savoir si le chien [...] est dangereux,
+que
+la CDAP a été saisie d'un recours contre une décision d'irrecevabilité du chef du
+[...], de laquelle il résulte en substance que l'ordre d'euthanasier un animal n'a pas les caractéristiques
+d'une sanction pénale pouvant faire l'objet d'une demande de grâce,
+que le magistrat intimé
+devra ainsi se prononcer sur des éléments de fait et de droit différents de ceux ayant
+fait l'objet de l'arrêt du 29 avril 2014,
+qu'il n'y a dès lors
+pas lieu de remettre en cause son impartialité,
+que,
+de plus, la CDAP est une autorité collégiale, de sorte que le juge intimé ne sera pas
+appelé à statuer seul sur le fond de la cause qu'il instruit actuellement,
+que, compte tenu de ce
+qui précède, la requête de récusation du juge cantonal L.________, manifestement
+mal fondée, doit être rejetée;
+attendu que lorsqu'une demande de récusation se révèle d'emblée mal fondée,
+il n'y a pas lieu de recueillir les déterminations des autres parties, mais de rejeter la demande
+au seul vu de la requête déposée au greffe ou de la dictée faite au procès verbal,
+que l'art. 49 CPC (Code de procédure civile du 19 décembre 2008; RS 272), applicable par renvoi
+de l'art. 32 al. 1 LPA-VD, ne prévoit d'ailleurs pas d'interpellation autre que celle du magistrat
+ou fonctionnaire concerné,
+que cette manière de procéder ne viole pas le droit d'être entendu du requérant,
+celui-ci devant présenter tous ses moyens dans sa requête ou dans sa dictée au procès-verbal,
+sous peine d'irrecevabilité des motifs soulevés ultérieurement (TF 5A_194/2010 du 13 septembre
+2010 c. 2.2 et 2.3),
+qu’en l’espèce, comme déjà vu, la demande de récusation se révèle
+manifestement mal fondée,
+qu’il n’y a donc pas lieu de recueillir les déterminations des autres parties mais de
+rejeter la requête;
+attendu que les frais du présent arrêt, par 500 fr., seront mis à la charge de (art.
+4 al. 1 TFJAP [Tarif du 11 décembre 2007 des frais judiciaires en matière de droit administratif
+et public; RSV 173.36.5.1]).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation du juge cantonal L.________, présentée par D.________ le 22 septembre
+2015, est rejetée.
+II.
+Les frais du présent arrêt, par 500 fr. (cinq cents francs), sont mis à la charge de D.________.
+III.
+Il n'est pas alloué de dépens.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- D.________, par l'intermédiaire de son conseil, Me Alix de Courten, avocate à Lausanne,
+- M. le juge L.________, Cour de droit administratif et public du Tribunal cantonal;
+- [...],
+et communiqué par l'envoie de photocopies à :
+- Mme [...], Présidente de la Cour de droit administratif et public III.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
