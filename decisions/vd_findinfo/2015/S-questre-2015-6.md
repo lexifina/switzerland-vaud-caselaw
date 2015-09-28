@@ -1,0 +1,895 @@
+---
+decision_id: "vd_findinfo_S_questre___2015___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2015 / 6"
+decided: "2015-09-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5204490"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/210/art-023.md", "switzerland/bund/acts/210/art-024.md", "switzerland/bund/acts/220/art-023.md", "switzerland/bund/acts/220/art-028.md", "switzerland/bund/acts/220/art-031.md", "switzerland/bund/acts/220/art-197.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-270.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-274.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/291/art-020.md"]
+---
+
+# VD Findinfo Séquestre / 2015 / 6
+
+## Regeste
+
+CAS DE SÉQUESTRE, SÉQUESTRE{LP}, SÛRETÉS, FOR DU SÉQUESTRE, DOL{VICE DU CONSENTEMENT} | 28 CO, 31 CO, 271 al. 1 ch. 2 LP, 271 al. 1 ch. 4 LP, 272 al. 1 ch. 1 LP, 272 al. 1 ch. 2 LP, 272 al. 1 ch. 3 LP, 272 al. 1 LP, 273 al. 1 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.09.2015 Séquestre / 2015 / 6
+
+CAS DE SÉQUESTRE, SÉQUESTRE{LP}, SÛRETÉS, FOR DU SÉQUESTRE, DOL{VICE DU CONSENTEMENT} | 28 CO, 31 CO, 271 al. 1 ch. 2 LP, 271 al. 1 ch. 4 LP, 272 al. 1 ch. 1 LP, 272 al. 1 ch. 2 LP, 272 al. 1 ch. 3 LP, 272 al. 1 LP, 273 al. 1 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE15.008708-151247
+276
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 septembre 2015
+______________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+271 al. 1 ch. 2 et 4, 272 al. 1 ch. 1, 2 et 3, 273 al. 1, 278 al. 3 LP ; 28, 31 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+U.________
+AG
+, à [...], contre le prononcé rendu
+le 2 juin 2015, à la suite de l’audience du même jour, par le Juge de paix du district
+de Lausanne, admettant l’opposition formée par
+A.M.________
+,
+à N.________, au séquestre ordonné contre lui le 17 février 2015 à la requête
+de la recourante.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par acte du 16 février 2015, U.________ AG, représentée par Me Julien Fivaz, invoquant
+les cas de séquestre de l’art. 271 al. 1 ch. 2 et 4 LP, a requis du Juge de paix du district
+de Lausanne qu’il ordonne le séquestre du compte [...] que A.M.________ détient auprès
+de la succursale de Lausanne de la P.________ SA, [...] à Lausanne, à concurrence d’un
+montant de 500'000 fr. avec intérêt à 5 % l’an dès le 30 septembre 2014 (I),
+qu’il ordonne au préposé de l’Office des poursuites du district de Lausanne de
+procéder immédiatement au séquestre susmentionné (II), qu’il communique sans
+délai la décision à la succursale de la P.________ SA, [...] à Lausanne (III), qu’il
+la dispense de fournir des sûretés au sens de l’article 273 LP (IV) et qu’il condamne
+A.M.________ en tous frais et dépens de l’instance (V).
+A l’appui de ses conclusions, la requérante a exposé en substance qu’elle avait
+conclu un contrat de vente de mobilier et de logiciels de gestion d’entreprise avec l’intimé,
+qu’elle s’était acquittée de la somme de 500’000 fr. en exécution de
+ce contrat, qu’elle avait résolu ce contrat et mis en demeure l’intimé de lui restituer
+le montant versé, sans succès, et que l’intimé s’était empressé
+de déménager en France après avoir reçu la lettre de résolution du contrat et
+de mise en demeure.
+Elle a produit les pièces suivantes :
+•
+une procuration ;
+•
+une copie d’un extrait du registre du commerce la concernant ;
+•
+une copie d’un contrat de vente/remise de fonds de commerce signé le 30 septembre 2014 par
+A.M.________ en tant que titulaire de l’entreprise individuelle Carosserie G.________, [...],N.________,
+vendeur, et la société I.________ SA, acheteur, aux termes duquel le vendeur s’oblige
+à livrer le fonds de commerce de l’entreprise susmentionnée, soit l’ensemble de
+sa clientèle et de ses contrats commerciaux en cours lors de la signature du contrat selon bilan,
+état au 30 septembre 2014, à l’acheteur et à lui en transférer la propriété/la
+titularité, les éventuelles dettes et créances du vendeur et/ou découlant de l’exploitation
+de son entreprise étant reprises par l’acheteur. Le préambule du contrat précise
+qu’il porte sur la remise du fonds de commerce à l’exclusion du mobilier et des logiciels
+d’exploitation. Le prix de vente a été arrêté à 200'000 francs ;
+•
+une copie d’un contrat de vente non daté passé entre A.M.________, vendeur et la requérante
+dont le contenu est le suivant :
+« ARTICLE
+PREMIER — OBJET DU CONTRAT
+Le vendeur s’oblige à livrer l’ensemble du mobilier et des logiciels de gestion d’entreprise
+entreposés dans les locaux sis [...] à N.________, selon inventaire annexé pour faire
+partie intégrante du présent contrat, à l’acheteur et à lui en transférer
+la propriété.
+ARTICLE 2 — PRIX DE VENTE
+L’acheteur s’oblige à payer au vendeur le montant de CHF 500000.- (cinq cents (sic)
+mille francs) pour l’acquisition du mobilier et des logiciels précités.
+Plus 65k SFR bonus (ndlr manuscrit)
+ARTICLE 3 — EXIGIBILITE DU PRIX DE VENTE
+Le prix de vente est exigible au jour de la signature du présent contrat.
+ARTICLE 4 — MISE EN POSSESSION
+L’acheteur est mis en possession du mobilier et des logiciels (livraison) au lieu où ceux-ci
+sont entreposés lors de la signature du présent contrat.
+ARTICLE 5 — DEMEURE DU VENDEUR
+En cas de demeure du vendeur, il y a lieu de présumer que l’acheteur renonce à la livraison
+et réclame des dommages-intérêts pour cause d’inexécution.
+Si l’acheteur entend demander la délivrance, il doit en informer le vendeur immédiatement
+après l’échéance du terme.
+ARTICLE 6 — DOMMAGES ET INTERETS
+Si le vendeur n’exécute pas son obligation, il répond du dommage causé de ce chef
+à l’acheteur.
+ARTICLE 7 — DEMEURE DE L’ACHETEUR
+L’acheteur est mis en demeure par l’interpellation du vendeur et non par la seule exigibilité
+du prix de vente convenu.
+En cas de demeure de l’acheteur, le vendeur est en droit de se départir du contrat, sans qu’il
+n’y ait lieu au paiement de dommages et intérêts.
+ARTICLE 8 — GARANTIE EN CAS D’EVICTION ET GARANTIE EN RAISON DES DEFAUTS
+Le vendeur certifie que l’ensemble du mobilier et des logiciels visés à l’article
+premier sont sa propriété et libres et de tout engagement.
+La garantie en cas d’éviction est pour le surplus régie par les articles 192ss CO et
+celle en raison des défauts par les art. 197ss CO, à l’exclusion de l’article 205
+alinéa 3 CO.
+S’agissant cependant en particulier de la garantie en raison des défauts, l’acheteur
+dispose d’un délai d’un an (ndlr: biffé à la main et remplacé par: mois)
+à partir de la conclusion des actes notariés visés à l’article 2 pour vérifier
+l’état du mobilier et des logiciels vendus.
+ARTICLE 11 (sic) — DROIT APPLICABLE
+Le présent contrat est soumis au droit suisse.
+ARTICLE 12 — FOR
+Les tribunaux suisses et les tribunaux du lieu de situation des immeubles mentionnés à l’article
+2 ci-dessus sont exclusivement compétents pour tous litiges pouvant résulter de l’interprétation
+et/ou de l’application du présent contrat. » ;
+•
+une copie d’un avis de débit du compte UBS de la requérante à hauteur de 500'000
+francs, valeur au 30 septembre 2014, en faveur de A.M.________ ;
+•
+une copie d’un courrier du 14 août 2014 adressé par la requérante à l’intimé
+et son épouse précisant avoir compris « that the accounting value of the electronic,
+software and other equipment is represented in excess of SFR 500'000 on a depreciated basis audited by
+your fiduciary » ;
+•
+une copie d’un courrier du 12 septembre 2014 adressé par la requérante à l’intimé
+et son épouse soulignant ne pas encore avoir obtenu un rapport de révision détaillée,
+se réservant le droit de nommer un réviseur pour vérifier l’évaluation de l’équipement
+acheté et que «  The payment of SFR 500'000 is the subject to audit and will be held upon
+your request at the P.________ SA (Att. Mr. [...]) until final audit » ;
+•
+une copie d’un extrait du registre du commerce concernant la banque P.________ SA ;
+•
+une copie d’un document intitulé « confirmation de transmission », établi le
+13 octobre 2014 par l’entreprise R.________ SA, aux termes duquel l’entreprise Carosserie
+G.________, M. A.M.________, confirme la transmission des licences et la convention des services pour
+les programmes [...], [...] et interface [...] à l’entreprise I.________ SA, M. V.________.
+Ce document est signé par l’intimé et le dénommé V.________. Il porte la date
+du 21 octobre 2014 ;
+•
+une copie d’un extrait du registre du commerce concernant l’entreprise R.________ SA ;
+•
+une copie d’un courrier recommandé adressé le 22 janvier 2015 à l’intimé
+et son épouse, à la [...],Z.________, par le conseil de la requérante dans lequel ce dernier
+déclare résoudre le contrat portant sur le mobilier et les logiciels de gestion d’entreprise
+au motif que le matériel informatique vendu était non seulement défectueux mais surtout
+qu’il n’appartenait pas à l’intimé et son épouse mais bien à la
+société R.________ SA et que dès lors les conditions d’application des articles
+23 et suivants CO (dol respectivement erreur), étaient manifestement remplies. Le conseil a par
+ailleurs formellement mis en demeure l’intimé et son épouse de restituer la somme de
+500'000 fr. versée dans un délai de dix jours dès réception de son courrier ;
+•
+une copie d’un courrier adressé le 2 février 2015 par le conseil de l’intimé
+et de son épouse à celui de la requérante accusant réception de la lettre du 22 janvier
+2015, intégralement contestée, et précisant qu’il ne pourrait rencontrer ses clients
+que courant février ;
+•
+une copie d’un rapport d’enquête établi le 8 février 2015 par J.________,
+détective privé et agent de renseignements commerciaux, indiquant qu’il s’est rendu
+à [...],Z.________ le 6 février 2015, que personne n’a répondu au domicile de la
+famille M.________, que les voisins lui ont indiqué que cette famille ne résidait plus à
+cette adresse depuis trois semaines environ et qu’elle avait déménagé pour une adresse
+inconnue en France voisine ;
+•
+une copie d’un document émanant du ministère de l’économie et des finances
+français selon lequel A.M.________ serait propriétaire d’une parcelle sise [...] de la
+Commune de F.________.
+b)
+Le
+17 février 2015, retenant les cas de séquestre de l’art. 271 al. 1 ch. 2 et/ou 4 LP,
+le Juge de paix du district de Lausanne a prononcé le séquestre requis. Le titre de la créance
+mentionnée est : « Résolution du contrat de vente du 5 septembre 2014 conclu entre U.________
+AG et A.M.________ ». Il a fixé l’émolument à 660 fr. et dispensé
+le créancier de fournir des sûretés.
+2.
+a)
+Par acte du 27 février 2015, A.M.________
+et son épouse ont formé opposition au séquestre auprès de l’Office des poursuites
+du district de Lausanne qui a transmis l’opposition au juge de paix du même district. Par
+acte du 2 mars 2015, A.M.________, par son conseil, s’est opposé au séquestre. Il a conclu,
+avec suite de frais et dépens, principalement à l’admission de l’opposition formée
+au séquestre n° 7'359’774 (I), à l’annulation de l’ordonnance de
+séquestre n° 7'359’774 (II), à la levée du séquestre n° 7'359’774
+(III) et au rejet de toutes autres, plus amples ou contraires conclusions de la requérante (IV).
+Subsidiairement, il a conclu à ce que U.________ AG soit astreinte à fournir, à bref délai
+fixé à dire de justice et non prolongeable, des sûretés d’un montant minimum
+de 450'000 fr. (V).
+L’opposant a en substance fait valoir que le cas de séquestre de l’article 271 al. 1
+ch. 2 n’était pas réalisé dans la mesure où il n’était ni allégué
+ni prouvé qu’il ferait disparaître ses biens, s’enfuirait ou préparerait sa
+fuite. Il a également contesté la réalisation du cas de séquestre prévu à
+l’article 271 al. 1 ch. 4 LP au motif que la requérante n’avait nullement rendu vraisemblable
+l’existence de la créance qu’elle invoquait. Il a à cet égard souligné
+que le contrat avait été rédigé par le conseil de la requérante, qu’il
+était notoire que l’on était jamais propriétaire de logiciels mais simplement bénéficiaire
+d’une licence, que l’opposant n’avait pour sa part jamais prétendu en être
+propriétaire, que les logiciels n’étaient pas défectueux et qu’en tout état
+de cause la requérante avait obtenu, en plus des logiciels, du mobilier de très grande valeur.
+A l’appui de son opposition, il a produit :
+•
+une copie de l’ordonnance de séquestre/procès-verbal de séquestre adressée
+le 23 février 2015 à A.M.________, [...],F.________, France ;
+•
+une copie de la page 2 du contrat de vente passé avec la requérante ;
+•
+une copie du courrier adressé le 19 février 2015 par le conseil de l’intimé à
+celui de la requérante contestant intégralement le contenu du courrier du 22 janvier 2015,
+mettant en demeure la requérante de payer dans les dix jours la somme de 65'000 fr. due en application
+de l’article 2 du contrat, rappelant que le mobilier et les installations acquises étaient
+de grande valeur et soulignant que « l’irrelevant prétexte invoqué des logiciels
+R.________ SA n’est pas crédible puisque les licences étaient payées » ;
+•
+un lot de factures adressées à Carosserie G.________ I.________ SA entre le 14 janvier 2009
+et le 19 février 2010 et divers extraits de compte en lien avec les logiciels concernés, la
+confirmation de transmission de licence du 13 octobre 2014 déjà produite par la requérante
+ainsi que des copies désordonnées de trois contrats de licence n
+os
+[...], [...] et [...] conclus entre R.________ SA et Carosserie G.________, les 18 et 20 mars 2009, 12
+et 18 août 2009 et 18 et 20 janvier 2010 ;
+•
+une copie d’un avis de départ établi par le contrôle des habitants de Z.________
+le 17 février 2015 selon lequel l’opposant a quitté la commune le 31 janvier 2015 pour
+le [...] à 1162 N.________ ;
+•
+un dito concernant son épouse ;
+•
+une attestation de résidence du contrôle des habitants de la ville de N.________ du 19 février
+2015 selon laquelle l’opposant est régulièrement domicilié à [...] à N.________
+depuis le 1er février 2015 ;
+•
+une procuration.
+L’opposant a par ailleurs produit un bordereau d’une pièce requise n° 50.
+b)
+Par
+courrier du 6 mars 2015, le Juge de paix du district de Lausanne a requis de l’opposant la production
+d’un exemplaire supplémentaire de son bordereau et la précision de la désignation
+de la pièce requise n° 50, ainsi que l’indication de la personne en mains de qui cette
+pièce devait être requise.
+Le 9 mars 2015, l’opposant a produit un exemplaire supplémentaire de son bordereau de pièces,
+indiqué que la pièce n° 50 était requise en mains de la requérante et précisé
+le contenu de cette pièce comme il suit : « Toute preuve de griefs quelconques soulevés
+par I.________ SA à l’encontre d’U.________ AG vis-à-vis des programmes informatiques
+cédés ».
+Le 13 mai 2015, le juge de paix a ordonné au conseil de la requérante la production de la pièce
+n° 50 susmentionnée. Le 27 mai 2015, la requérante a déclaré ne pas détenir
+cette pièce.
+c)
+Déférant
+à la demande du juge de paix, l’Office des poursuites du même district lui a, le 9 mars
+2015, transmis une copie de l’ordonnance de séquestre/procès-verbal de séquestre
+établi le 23 février 2015 en précisant que ce document avait été notifié
+aux parties, sous pli recommandé, le même jour.
+d)
+Par avis du 12 mai 2015, le juge de paix a cité les parties à comparaître à
+son audience du mardi 2 juin 2015 et a fixé un délai au 26 mai 2015 à la requérante
+pour se déterminer.
+e)
+Le
+19 mai 2015, la requérante a requis la production en mains de l’opposant de deux pièces
+relatives au domicile prétendu de N.________ et à l’immeuble de F.________.
+Le 21 mai 2015, le juge de paix a ordonné au conseil de l’opposant la production des pièces
+susmentionnées.
+Le 22 mai 2015, l’opposant a produit des pièces suivantes :
+•
+une attestation de résidence du contrôle des habitants de la ville de N.________ du 21 mai
+2015 selon laquelle l’opposant est régulièrement domicilié à [...] à N.________
+depuis le 1
+er
+février 2015 ;
+•
+une copie d’un contrat de bail à loyer signé le 21 avril 2010 par l’opposant et
+son épouse, entré en vigueur le 16 mai 2010 pour se terminer le 31 mai 2011 et se renouveler
+aux mêmes conditions d’année en année sauf avis de résiliation donné au
+moins quatre mois avant l’échéance, portant sur un appartement duplex de 2 pièces
+d’environ 57 m
+2
+comprenant un hall d’entrée, une cuisine entièrement équipée, une salle de
+douche – WC, un séjour, un balcon, ainsi qu’une chambre à coucher et réduit,
+sis [...] à N.________ ;
+•
+une attestation signée le 20 avril 2015 par Q.________, maire de la Ville de F.________, certifiant
+que l’opposant et son épouse sont en résidence secondaire à l’adresse suivante
+: [...]F.________.
+f)
+Le 26 mai 2015, la requérante s’est
+déterminée sur l’opposition au séquestre. Elle a produit les pièces suivantes :
+•
+une copie d’une lettre adressée le 17 novembre 2014 par T.________ Sàrl au W.________
+SA ;
+•
+une copie d’un courrier adressé le 25 novembre 2014 par la société I.________ SA
+à la T.________ Sàrl ;
+•
+un rapport établi le 20 mars 2015 par D.________, agence de défense des intérêts
+économiques, dont il ressort en substance qu’un agent municipal de la Commune de F.________,
+la tenancière et plusieurs clients d’un restaurant, ainsi que la factrice du village lui ont
+indiqué que l’opposant et son épouse habitaient depuis quelques mois dans la commune,
+plus précisément au [...], certaines de ces personnes précisant même que l’opposant
+devait être marchand de camping-cars. Le détective a effectivement constaté que le nom
+de l’opposant et de son épouse figuraient sur la boîte aux lettres de l’immeuble,
+qui était cossu, et que des véhicules non immatriculés, dont des camping-cars, se trouvaient
+dans la cour de la maison. Une voisine lui a indiqué que l’opposant et son épouse avaient
+emménagé six à huit mois auparavant.
+g)
+Le
+juge de paix a tenu audience le 2 juin 2015, en présence du représentant de la requérante,
+de l'intimé et de son conseil.
+La requérante a produit les pièces suivantes :
+•
+une copie de la plainte pénale déposée le 26 mai 2015 à l’encontre de l’opposant ;
+•
+une copie d’un rapport d’enquête établi le 27 mai 2015 par J.________, détective
+privé et agent de renseignements commerciaux, dont il ressort en substance que l’opposant
+a été vu par le détective dans un box à usage de bureau, d’industrie et d’artisanat
+sis [...] à N.________, aménagé pour la vente de véhicules, où il a un boite
+aux lettres au nom de sa raison sociale et où il vend apparemment des véhicules et que les
+noms de l’opposant et de son épouse ne figurent sur aucune boîte aux lettres ni porte
+de l’immeuble sis [...] à N.________, seuls les noms de [...] et [...]M.________ apparaissant
+sur une boîte aux lettres ;
+•
+une copie d’un rapport établi le 27 mai 2015 par D.________, agence de défense des intérêts
+économiques, dont il ressort en substance que le maire de F.________ a indiqué au détective
+que l’opposant et son épouse étaient considérés comme résidants dans cette
+commune, ajoutant qu’il ne vérifiait pas s’il y avait quelqu’un en permanence
+à l’adresse indiquée et qu’aucune enquête n’avait été effectuée
+à la signature de l’attestation de résidence secondaire du 20 avril 2015. Le rapport
+mentionne en outre qu’une voisine a indiqué que l’opposant et son épouse étaient
+la plupart du temps présent dans l’habitation de F.________ et que le 27 mai 2015, les volets
+de l’immeuble en cause étaient ouverts, une poubelle sortie devant le portail d’entrée,
+et qu’un animal domestique dormait devant l’entrée.
+•
+une copie d’un avenant au rapport du 27 mai 2015 établi par D.________, agence de défense
+des intérêts économiques, faisant état d’un entretien du 30 mai 2015 avec le
+maire de F.________, qui lui a précisé les circonstances de la signature de l’attestation
+du 20 avril 2015 : le secrétariat de la mairie lui avait donné plusieurs documents à
+signer, dont l’attestation en cause ; le maire avait signé cette attestation sans en
+vérifier le contenu ; l’attestation avait été délivrée à la
+demande de l’opposant. Le maire a indiqué que rien n’indiquait légalement que l’opposant
+résidait dans la commune à titre principal ou secondaire ;
+•
+une copie d’un courrier du 29 mai 2015 signé par Q.________, maire de la ville de F.________,
+précisant que l’attestation de résidence délivrée à A.M.________ le 24
+avril 2015 a été délivrée en toute bonne foi et à la demande de l’intéressé
+qui a déclaré avoir sa résidence principale en Suisse et relevant qu’aucun document
+administratif ne permet d’affirmer que la résidence sise [...] constitue une résidence
+secondaire ou non ;
+•
+une copie d’un rapport d’enquête établi le 19 mars 2015 par J.________, détective
+privé et agents de renseignements commerciaux, faisant état d’un entretien avec l’ancienne
+maire de F.________, dont il est ressorti qu’elle connaissait l’opposant et son épouse,
+que ceux-ci s’étaient établis dans la commune à la rentrée 2014, qu’elle
+les avait croisés régulièrement et qu’ils résidaient à F.________ à
+titre principal.
+L’opposant a quant à lui produit les documents suivants :
+•
+une copie d’un « accord préalable » concernant la « Vente Carosserie G.________
+à N.________ », rédigé le 27 août 2014 mais non signé ;
+•
+une copie d’un document non daté ni signé intitulé « aux intéressés
+concernés » relatifs à un entretien du 29 octobre 2014 entre Madame B.________, Messieurs
+A.M.________, V.________ et S.________ ;
+3.
+Par décision du 2 juin 2015, le Juge de paix
+du district de Lausanne a admis l’opposition au séquestre (I), révoqué l’ordonnance
+de séquestre du 17 février 2015 (II), arrêté à 660 fr. les frais judiciaires
+(III), mis ces frais à la charge de l’intimée (IV) et dit qu’en conséquence
+l’intimée devait rembourser à l’opposant son avance de frais à concurrence
+de 660 fr. et lui verser en outre la somme de 4’800 fr. à titre de dépens, à savoir
+800 fr. en remboursement de ses débours nécessaires et 4000 fr. à titre de défraiement
+de son représentant professionnel (V).
+Le dispositif a été notifié le 10 juin 2015 à l’intimée, qui en a requis
+la motivation le même jour. Le 10 juillet 2015, les motifs lui ont été notifiés.
+Le premier juge a en substance considéré qu’il n’apparaissait pas que A.M.________
+ait tenté de se soustraire à ses obligations en faisant disparaître ses biens de sorte
+que le cas de séquestre visé à l’art. 271 al. 1 ch. 2 LP n’était pas
+réalisé, qu’il était par ailleurs vraisemblable qu’au moment du dépôt
+de la requête de séquestre, A.M.________ n’était pas domicilié en France si
+bien que le cas de séquestre de l’art. 271 al. 1 ch. 4 LP n’était pas non plus
+réalisé et qu’en tout état de cause l’existence de la créance invoquée
+n’était pas rendue suffisamment vraisemblable.
+4.
+Par acte du 23 juillet 2015, U.________ AG a recouru contre cette décision. Elle a conclu, avec
+suite de frais et dépens, principalement à la réforme du prononcé rendu le 2 juin
+2015 en ce sens que l’opposition du 2 mars 2015 est rejetée et le séquestre prononcé
+le 17 février 2015 confirmé. À titre subsidiaire, elle a conclu à l’annulation
+du prononcé et au renvoi la cause au premier juge pour qu’il rende une nouvelle décision.
+Par décision du 24 juillet 2015, la présidente de la cour de céans a admis la requête
+d’effet suspensif contenue dans le recours.
+A.M.________
+s’est déterminé par acte du 31 août 2015 et a conclu, avec suite de frais et dépens,
+au rejet du recours. Il a par ailleurs produit un onglet de huit pièces nouvelles sous bordereau.
+En droit
+:
+I.
+a)
+Le recours, introduit par acte écrit et
+motivé dans les dix jours suivant la notification de la décision attaquée, a été
+déposé dans les formes requises et en temps utile (art. 321 al. 1, 2 et 3 CPC [Code de procédure
+civile du 19 décembre 2008; RS 272], par renvoi de l'art. 278 al. 3 LP [loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1]).
+Il
+est recevable.
+b)
+La
+réponse déposée dans le délai de l’art. 322 al. 2 CPC est également recevable.
+c)
+En
+principe, en procédure de recours, les conclusions, les allégations de faits et les preuves
+nouvelles sont irrecevables (art. 326 al. 1 CPC). L'art. 326 al. 2 CPC réserve cependant les dispositions
+spéciales de la loi, ce qui vise toute norme de droit fédéral. La LP contient précisément
+une règle spéciale relative au recours contre une décision sur opposition au séquestre,
+consacrée à l'art. 278 aI. 3, 2
+ème
+phrase LP, qui prévoit que les parties peuvent alléguer des faits nouveaux. Selon la doctrine
+et la jurisprudence de la cour de céans, ces faits nouveaux doivent s’être produits depuis
+la décision du premier juge. En d'autres termes, seuls les « vrais nova » sont
+admissibles (Reiser, Basler Kommentar, n. 46 ad art. 278 LP et les références citées;
+Bovey, La révision de la Convention de Lugano et le séquestre, in JT 2012 lI 80 ss, p. 97 et
+les réf. cit. à la note infrapaginale n. 99; CPF, 30 septembre 2013/397 et les réf.
+cit., CPF, 3 avril 2013/143). Les pseudo-nova ne pourraient, au mieux, être recevables qu'en tant
+que celui qui les produit établirait qu'ils ne pouvaient être invoqués ou produits devant
+la première instance bien qu'il ait fait preuve de la diligence requise. La doctrine précitée
+réserve, en ce sens, la possibilité d'invoquer des faits antérieurs à la décision
+de première instance, lorsque ceux-ci n'ont pu être invoqués au stade de l'opposition
+et que cette omission est excusable (“entschuldbar”; Reiser, op. cit., nn. 47 et 49 ad art.
+278 LP; CPF, 30 septembre 2013/397 précité). Ainsi, en principe, l’autorité
+de recours revoit la question posée au premier juge sur la base des mêmes faits. L’art.
+278 al. 3 LP permet de tenir compte de faits qui se seraient produits depuis la décision du premier
+juge, mais il n’y a pas de raison de considérer que les parties pourraient de manière
+générale faire juger la cause à nouveau sur la base d’autres faits, en invoquant
+des pseudo-nova en deuxième instance (CPF, 15 juillet 2015/191).
+En l'espèce, les pièces produites par l’intimé sont toutes nouvelles. Pour déterminer
+si elles concernent des vrais ou des pseudo-nova, il faut se reporter à la date du premier prononcé
+sur opposition, soit au 2 juin 2015. Les pièces 3, 4 et 7 portent sur des faits antérieurs
+à cette date et l’intimé ne démontre pas qu’il aurait été empêché
+de les produire devant le premier juge. Elles doivent donc être déclarées irrecevables.
+Il en va de même pour les pièces 1, 5 et 6 : bien que portant une date postérieure à
+la décision du 2 juin 2015, les attestations en question concernent des faits antérieurs et
+l’intimé ne démontre pas qu’il aurait été empêché de les obtenir
+plus rapidement de manière à pouvoir les produire devant le premier juge. Ainsi, sont seules
+recevables la pièce 2, soit une décision de taxation et de calcul de l’impôt sur
+les chiens 2015 concernant B.M.________, ainsi que la pièce 3, soit une facture d’eau adressée
+le 19 juin 2015 aux époux M.________ au [...] à F.________ pour la somme de 29,94 Euro, relevant
+que, la consommation moyenne étant faible, la facture ne comporte pas d’estimation.
+II.
+Aux termes de l'art. 272 al. 1 LP, le séquestre
+est autorisé par le juge compétent lorsque le créancier rend vraisemblable que sa créance
+existe (ch. 1), qu'on est en présence d'un cas de séquestre (ch. 2) et qu'il existe des biens
+appartenant au débiteur (ch. 3).
+Lorsque la loi n'exige que la simple vraisemblance, il suffit que le juge, dans son libre examen, aboutisse
+à la conviction que le fait invoqué correspond, avec une probabilité suffisante, aux allégations
+de la partie, sans qu'il doive nécessairement être convaincu de son exactitude ou que toute
+autre solution paraisse exclue (ATF 120 II 393, JT 1995 I 571 ; Hohl, Procédure civile, tome II,
+nn. 2758 ss, p. 225 ; Reeb, Les mesures provisoires dans la procédure de poursuite, in RDS 1997
+II, pp. 465-466).
+Alors que le juge du séquestre rend son ordonnance sans avoir entendu la partie adverse, l'opposition
+a pour but l'examen ultérieur, en contradictoire, de toutes les conditions du séquestre. Le
+pouvoir d'examen du juge n'est pas plus étendu que celui qu'il avait lorsqu'il a statué unilatéralement
+sur la requête de séquestre, mais le point de vue défendu par l'opposant et les preuves
+déposées devant lui doivent lui permettre de reconsidérer tout ou partie de sa décision
+après une information plus complète (Reeb, op. cit., p. 478; Gilliéron, Commentaire de
+la loi fédérale sur la poursuite pour dettes et la faillite, n. 70 ad art. 278 LP).
+L’autorité saisie d’un recours contre l’admission de l’opposition au séquestre
+(art. 278 LP) ne dispose pas d’un pouvoir d’examen plus large que celui du juge de l’opposition ;
+elle statue pareillement sous l’angle de la vraisemblance de la réalisation des conditions
+du séquestre. Il suffit ainsi que le juge, se fondant sur les éléments objectifs, acquière
+l’impression que les faits pertinents se sont produits, mais sans qu’il doive exclure pour
+autant qu’ils se soient déroulés autrement (TF 5A_870/2010 du 15 mars 2011 c. 3.2 et
+les réf. citées).
+III.
+La recourante soutient que le cas de séquestre
+prévu par l’art. 271 al. 1 ch. 2 LP serait réalisé. Elle affirme en substance que
+l’intimé aurait quitté la Suisse pour habiter en France où il aurait déjà
+transféré une partie de son patrimoine dans l’intention de se soustraire à ses obligations
+légales à son égard.
+a)
+Selon l’art. 271 al. 1 ch. 2 LP, le créancier d'une prétention échue non garantie
+par gage peut requérir le séquestre des biens du débiteur notamment lorsque ce dernier,
+dans l'intention de se soustraire à ses obligations, fait disparaître ses biens, s'enfuit ou
+prépare sa fuite. La réalisation de ce cas de séquestre repose sur un élément
+objectif et un élément subjectif (Stoffel/Chabloz, Commentaire romand de la LP, n. 53 ad art.
+271 LP). L’élément objectif consiste en premier lieu à faire disparaître des
+biens. Il recouvre aussi bien le fait de cacher, d’emporter ou de se débarrasser de biens
+que celui de les vendre, de les grever, voire même de les détruire ou de les endommager. La
+loi vise le résultat du comportement : le débiteur soustrait des biens auxquels son créancier
+aurait accès dans une procédure d’exécution forcée (CPF, 21 février 2008/46).
+Le cas de séquestre est réalisé lorsque le débiteur cèle les objets de son patrimoine
+du fait qu'il les cache, en fait donation, les vend à vil prix, les emporte à l'étranger ou
+les met en gage sans explication plausible (TF 5P.95/2004 du 20 août 2004; ATF 119 III 92 c. 3b,
+p. 93; TF 5P.403/1999 du 13 janvier 2000 c. 2c; TF 5P.303/1993 du 6 décembre 1993 c. 2; CPF, 27
+mai 2004/215). Gilliéron donne comme autres exemples les cas des avantages donnés à d'autres
+créanciers, le transfert d'une raison de commerce à un conjoint, un concubin ou un homme de
+paille, l'institution d'une société unipersonnelle ou la création d'une société
+de droit étranger, dont les activités sont exercées en Suisse ou à partir de la Suisse,
+et auxquelles les actifs sont transférés. L’élément objectif peut, en second
+lieu, être réalisé par la fuite ou la préparation de la fuite du débiteur. Un
+tel comportement peut précéder l’abandon de domicile prévu par l'art. 271 al. 1
+ch. 1 LP. Un simple départ ne suffit pas; c’est l’abandon pur et simple du domicile
+et donc du for de la poursuite sans en créer un nouveau qui est nécessaire. Un tel abandon
+sera notamment démontré par une manière d’agir précipitée ou anormalement
+discrète (Stoffel/Chabloz, op. cit., n. 55 ad art. 271 LP). Dans tous les cas il s'agit de machinations
+visant à faire échec à une procédure d'exécution forcée au for suisse de
+la poursuite (Gilliéron, op. cit., n. 43 ad art. 271 LP et les réf. citées). L’élément
+subjectif tient ainsi dans l’intention du débiteur de se soustraire à ses obligations.
+Les éléments objectifs précités constituent des indices d’une telle intention.
+D’autres circonstances suspectes peuvent la corroborer, telles qu’un nombre considérable
+d’obligations non exécutées, une relation disproportionnée entre les obligations
+et les moyens à disposition, les retards provoqués par le débiteur et son comportement
+non coopératif, d’autres poursuites en cours (Stoffel/Chabloz, op. cit., n. 56 ad art. 271
+LP).
+b)
+En l’espèce, la recourante estime que les différents rapports de détective versés
+au dossier suffisent à établir le départ à l’étranger de l’intimé.
+A la lecture de ces documents, on constate que l’intimé et son épouse auraient déménagé
+en France entre l’été – automne 2014 et le tout début du mois de janvier 2015.
+Il ressort toutefois du dossier que la recourante n’a déclaré invalider le contrat de
+vente passé avec l’intimé que par courrier du 22 janvier 2015. C’est à cette
+date également qu’elle a mis en demeure l’intimé de lui restituer la somme de 500'000
+fr. dans un délai de dix jours. Il n’est donc pas possible de considérer que le départ
+à l’étranger de l’intimé résulterait d’une volonté de se soustraire
+à d’éventuelles obligations envers la recourante dans la mesure où cette dernière
+n’a vraisemblablement formulé ses prétentions qu’après le déménagement
+invoqué.
+Le cas de séquestre de l’art. 270 al. 1 ch. 2 LP n’est ainsi pas rendu vraisemblable.
+IV.
+La recourante soutient que le cas de séquestre
+prévu par l’art. 271 al. 1 ch. 4 LP serait réalisé, le domicile de l’intimé
+se trouvant désormais en France. L’intimé le conteste au motif qu’il serait domicilié
+à N.________, sa maison de F.________ n’étant qu’une résidence secondaire.
+a)
+Le
+créancier d’une dette échue et non garantie par gage peut requérir le séquestre
+des biens du débiteur qui se trouvent en Suisse lorsque le débiteur n’habite pas en Suisse
+et qu’il n’y a pas d’autre cas de séquestre, pour autant que la créance ait
+un lien suffisant avec la Suisse ou qu’elle se fonde sur une reconnaissance de dette au sens de
+l’art. 82 al. 1 LP (art. 271 al. 1 ch. 4 LP).
+Le cas de séquestre de l'art. 271 al. 1 ch. 4 LP concerne les situations où le débiteur,
+quelle que soit sa nationalité, n'a pas de domicile en Suisse tout en y détenant des biens.
+La notion "d’habiter en Suisse"
+se définit en rapport avec l’existence d’un for de poursuite ordinaire en Suisse (art.
+46 LP), réel et effectif, de sorte que, pour que le cas de séquestre en question soit réalisé,
+il ne doit pas y avoir en Suisse de for ordinaire de poursuite (Gilliéron, op. cit., n. 56 ad art.
+271 LP), inclus les fors des art. 50 à 52 LP (Schüpbach, Commentaire romand de la LP, n. 10
+ad art. 46 LP; Stoffel/Chabloz, ibid., n. 64 ad art. 271 LP). Le Tribunal fédéral n’a
+pas formellement tranché la question de savoir si le "domicile" au sens de l’art.
+271 al. 1 ch. 4 LP est défini par l’art. 23 al. 1 CC [Code civil du 10 décembre 1907;
+RS 210] ou par l’art. 20 al. 1 let. a LDIP [loi fédérale sur la droit international privé
+du 18 décembre 1987; RS 291], comme le préconisent deux auteurs précités (Stoffel/Chabloz,
+op. cit., n. 65 ad art. 271 LP). La notion de domicile est de toute manière la même quelle
+que soit la norme considérée (TF 5P.291/2004 du 22 septembre 2004, c. 4.1; CPF, 15 avril 2010/166).
+Une personne physique a son domicile au lieu ou dans l'Etat dans lequel elle réside avec l'intention
+de s'y établir, ce qui suppose qu'elle fasse du lieu en question le centre de ses intérêts
+personnels et professionnels. Cette définition du domicile comporte deux éléments: l'un
+objectif, la présence physique en un lieu donné; l'autre subjectif, l'intention d'y demeurer
+durablement. L'élément objectif n'implique pas nécessairement que le séjour ait déjà
+duré un certain temps; si la condition subjective est remplie par ailleurs, la constitution d'un
+domicile peut se produire dès l'arrivée dans un nouveau pays de séjour. Aussi, pour déterminer
+si une personne réside en un lieu donné avec l'intention de s'y établir - en d'autres
+termes, pour déterminer si elle s'y est créé un domicile - ce n'est pas seulement la durée
+de son séjour à cet endroit qui est décisive, mais aussi la perspective d'une telle durée.
+Cependant, l'intention d'une personne de s'établir durablement en un lieu déterminé ne
+doit pas être examinée de façon subjective, au regard de sa volonté interne, mais
+à la lumière des circonstances objectives, reconnaissables pour les tiers, permettant de conclure
+à l'existence d'une telle intention (TF 5A_432/2009 du 23 décembre 2009, c. 5.2.1; ATF 127
+V 237 c. 1; CPF, 15 avril 2010/166; CPF, 27 mai 2014/192).
+L'absence de domicile en Suisse de l’art. 271 al. 1 ch. 4 LP implique un domicile à l'étranger.
+Dans l'hypothèse où on ignore où est domicilié le débiteur, c'est le cas de
+séquestre de l'art. 271 al. 1 ch. 1 LP qui doit être invoqué par le créancier. Le
+cas de l'art. 271 al. 1 ch. 4 LP doit être invoqué lorsque l'on sait que le débiteur habite
+l'étranger et ce domicile à l'étranger doit être rendu vraisemblable (CPF, 26 janvier
+2012/90).
+Le moment décisif pour fixer le domicile est celui du dépôt de la requête de séquestre
+(TF 5A_870/2010 du 15 mars 2011, c. 3.1 et les réf citées). La fiction du maintien de l’ancien
+domicile tant qu’un nouveau domicile n’est pas créé (art. 24 al. 2 CC) n’est
+pas applicable en matière de LP (ATF 119 III 51, JT 1996 II 35; ATF 119 III 54, JT 1995 I 18; CPF,
+26 janvier 2012/90 précité).
+C’est au prétendu créancier qu’il appartient de rendre vraisemblable l'absence
+de domicile en Suisse du débiteur et le domicile à l’étranger de celui-ci. Le fait
+que le débiteur soit atteignable en un lieu ne signifie pas qu’il y est domicilié, ni
+le refus de l’office de donner suite à une réquisition pour le motif que débiteur
+n'est pas atteignable en un lieu, que ce dernier n'y est pas domicilié (Schüpbach, op. cit.,
+n. 12 ad art. 46 LP).
+b)
+En l’espèce, il n’est pas contesté que l’intimé était initialement
+domicilié à [...] à Z.________. Il résulte toutefois du rapport d’enquête
+établi par le détective J.________ le 8 février 2015 que les voisins de l’intimé
+à cette adresse ont déclaré, le 6 février 2015, que ce dernier et son épouse
+ne résidaient plus à cet endroit depuis trois semaines et qu’ils avaient déménagé
+pour une adresse inconnue en France voisine. Ce même détective a par ailleurs précisé,
+dans un rapport daté du 19 mai 2015 qu’il s’était rendu le 18 mars 2015 à
+F.________, en France et s’était entretenu avec l’ancienne maire de la ville laquelle
+lui a indiqué que l’intimé et son époux avaient emménagé, à la rentrée
+2014, dans une villa sise au [...] à F.________, qu’elle les croisait régulièrement
+et que, selon elle, il s’agissait de leur résidence principale. Il ressort en outre d’un
+rapport établi le 20 mars 2015 par D.________, qui s’est rendu à F.________ en France
+le même jour, qu’un agent municipal de la commune, la tenancière et plusieurs clients
+d’un restaurant ainsi que la factrice du village lui ont indiqué que l’intimé et
+son épouse habitaient, depuis quelques mois dans cette commune, plus précisément au [...],
+certaines de ces personnes précisant même que l’intimé devait être marchand
+de camping-cars. Le détective a par ailleurs pu constater que les noms de l’intimé et
+de son épouse figuraient bien sur la boîte aux lettres de la demeure cossue sise à cet
+endroit. Il a également relevé la présence de véhicules non immatriculés, dont
+des camping-cars, dans la cour de cette maison. Le détective rapporte en outre qu’une voisine
+lui a confirmé que les époux M.________ avaient emménagé à cet endroit environ
+six ou huit mois auparavant. Il ressort par ailleurs d’un rapport complémentaire établi
+par ce même détective le 27 mai 2015 qu’à l’occasion d’un entretien
+du 26 mai avec le maire de la commune, celui-ci lui a indiqué que les époux M.________ avaient
+bien acheté une maison de la commune et qu’il les considérait comme résidents quand
+bien même il ne vérifiait pas s’il y avait quelqu’un en permanence à cette
+adresse. Le même jour, le détective a constaté que les volets de la maison en question
+étaient ouverts, que les poubelles étaient sorties ainsi que la présence d’un animal
+domestique sur le pas de porte.
+A la lecture de ces différents documents, il parait à tout le moins vraisemblable que l’intimé
+et son épouse ont bien déménagé en France dans l’intention de s’y établir
+et qu’ils y avaient leur domicile lors du dépôt de la requête de séquestre
+le 16 février 2015.
+L’intimé soutient toutefois que la maison de F.________ ne constitue qu’une résidence
+secondaire et que depuis le 1
+er
+février 2015, leur domicile est en réalité à N.________, plus précisément
+à la rue de [...]. Il se prévaut à cet égard d’une attestation de résidence
+de la commune de N.________.
+Selon la jurisprudence
+(TF 7B.207/2003 (c. 3)), une telle attestation, basée sur les seuls dires de l’intéressé,
+ne revêt toutefois pas une force probante particulière; au demeurant, l’art. 22 al. 4
+LCH [loi vaudoise du 9 mai 1983 sur le contrôle des habitants; RSV 142.01] précise bien que
+les registres du contrôle des habitants ne font pas foi de leur exactitude.
+Il
+invoque également le contrat de bail signé par lui-même et son épouse le 21 avril
+2010 qui porte sur un appartement sis à cette adresse. Selon les déclarations de l’intimé
+à l’audience de première instance, ce bail avait été signé à l’époque
+pour le compte de leur fils. L’intimé et son épouse se seraient désormais installés
+avec leur fils cadet dans cet appartement. Il ressort toutefois du contrat de bail que l’appartement
+question est un deux pièces de 57 m² doté d’une seule chambre à coucher. Une
+cohabitation à trois adultes dans un tel appartement, si elle n’est pas impossible, reste
+tout de même peu probable. Elle l’est d’autant moins qu’il résulte du rapport
+établi par J.________ le 27 mai 2015 que le nom de l’intimé et de son épouse ne
+figure sur aucune boîte à lettres ni porte à l’adresse de [...] à N.________.
+L’intimé a par ailleurs déclaré travailler quotidiennement dans un box se trouvant
+au [...] à N.________. Il n’a toutefois produit aucun document susceptible d’établir
+la réalité et l’étendue de cette activité. Il résulte certes du rapport
+du 27 mai 2015 susmentionné que ce box existe et que l’intimé a pu y être rencontré.
+Cela n’est toutefois pas suffisant pour considérer que l’intimé y exerce une activité
+professionnelle régulière. L’intimé se prévaut encore d’une attestation
+signée le 20 avril 2015 par le maire de F.________ selon laquelle lui et son épouse serait
+en résidence secondaire dans cette ville. Le maire en question a toutefois précisé, dans
+une attestation ultérieure, avoir délivré la précédente à la demande de
+l’intimé qui avait déclaré avoir sa résidence principale en Suisse. Elle n’a
+donc en définitive aucune valeur probante. Enfin, le fait que l’épouse de l’intimé
+doive payer un impôt sur les chiens à l’Etat de Vaud en 2015 n’exclut pas que les
+époux M.________ aient désormais choisi de s’établir durablement en France.
+En définitive, il apparaît plus vraisemblable que l’intimé avait bien, au moment
+de la requête de séquestre, son domicile au [...] à F.________ en France. Le fait que
+l’ordonnance de séquestre, qui lui a été envoyée à cette adresse, ait
+pu lui être notifiée tend également à le confirmer. L’intimé ne soutient
+par ailleurs pas qu’il existerait un autre for de poursuite en Suisse. Il n’est enfin pas
+contesté que la créance invoquée - qui résulte de la résolution d’un contrat
+passé et exécuté en Suisse, entre deux parties alors domiciliées en Suisse et donc
+fondée sur un enrichissement illégitime qui s’est produit en Suisse - présente un
+lien suffisant avec ce pays. La réalisation du cas de séquestre de l’art 271 al. 1 ch.
+4 LP est dès lors vraisemblable.
+V.
+La recourante soutient ensuite détenir une créance de 500'000 fr. à l’encontre de
+l’intimé à la suite de la résolution, pour vice du consentement, du contrat de vente
+passé avec lui.
+a)
+Le séquestrant doit rendre vraisemblable l'existence de la créance qu'il allègue (Gilliéron,
+op. cit., n. 11 ad art. 271 LP). La vraisemblance de la créance doit résulter des pièces,
+à l'exclusion de tout autre moyen de preuve (CPF, 17 avril 2008/156; CPF, 19 décembre 2001/566).
+Pour rendre sa créance vraisemblable, la partie requérante doit produire une pièce ou
+un ensemble de pièces permettant au juge du séquestre d'acquérir, au stade de la simple
+vraisemblance, la conviction que la prétention existe pour le montant énoncé et qu'elle
+est exigible, même si le document n'est pas signé (Gilliéron, op. cit., n. 29 ad art.
+272 LP; CPF, 10 avril 2013/159).
+Aux termes de l’art. 23 CO (Code des obligations du 30 mars 1911 ; RS 220), le contrat n’oblige
+pas celle des parties qui, au moment de le conclure, était dans une erreur essentielle. L'erreur
+consiste en une fausse représentation de la réalité. Ainsi, il y a notamment erreur lorsque
+des éléments de faits importants sur lesquels s'est fondé l'auteur pour former sa volonté
+ne correspondent pas à la réalité. L'erreur peut provenir d'une représentation des
+faits qui diffère de la réalité (représentation erronée de la réalité)
+ou de l'ignorance de faits (représentation lacunaire de la réalité). Dans l'un ou l'autre
+cas, la victime n'en est pas consciente, faute de quoi elle n'est précisément plus dans l'erreur
+(Tercier, Le droit des obligations, 4
+e
+éd., nn. 782 et 799, pp. 169 et 172 ; Schmidlin, Commentaire romand du CO, n. 1 ad art. 23-24 CO).
+Selon l’art. 28 al. 1 CO, la partie induite à contracter par le dol de l’autre n’est
+pas obligée, même si son erreur n’est pas essentielle. Le dol est une tromperie intentionnelle
+qui détermine la dupe, dans l'erreur, à accomplir un acte juridique. Il n'est pas nécessaire
+que la tromperie provoque une erreur essentielle ; il suffit que, sans l'erreur, la dupe n'eût pas
+conclu le contrat ou ne l'eût pas conclu aux mêmes conditions (ATF 136 III 528 c. 3.4.2 p.
+532, rés. in SJ 2011 I 267 ; ATF 132 II 161 c. 4.1 p. 165 ; ATF 129 III 320 c. 6.3 p. 326,
+JT 2003 I 331). La tromperie peut résulter aussi bien d'une affirmation inexacte de la partie malhonnête
+que de son silence sur un fait qu'elle avait l'obligation juridique de révéler. La dissimulation
+de faits ne constitue toutefois une tromperie que s'il existe un devoir de renseigner, qui peut découler
+de la loi, du contrat ou de la bonne foi (TF 4C.226/2002 du 27 septembre 2002, c. 4). Dans le cadre
+de pourparlers contractuels, il existe un rapport de confiance qui oblige les parties à se renseigner
+l'une l'autre de bonne foi dans une certaine mesure sur les faits qui sont de nature à influencer
+la décision de l'autre partie de conclure le contrat ou de le conclure à certaines conditions
+(ATF 106 II 346 c. 3a, JT 1982 I 77 ; ATF 105 II 75 c. 2a, JT 1980 I 66). L'étendue du devoir d'information
+des parties ne peut être déterminée de façon générale, mais dépend
+des circonstances du cas particulier, notamment de la nature du contrat, de la manière dont les
+pourparlers se sont déroulés, de même que des intentions et des connaissances des participants
+(TF 4C.226/2002 précité, c. 4).
+Conformément à l’art. 31 al. 1 CO, le contrat entaché d’erreur ou de dol est
+tenu pour ratifié lorsque la partie qu’il n’oblige point a laissé s’écouler
+une année sans déclarer à l’autre sa résolution de ne pas le maintenir, ou
+sans répéter ce qu’elle a payé. En outre, en tant que déclaration de volonté
+formatrice, la déclaration d’invalidation ne peut être conditionnelle (TF, 4C 53.2002,
+c. 3.1 ; ATF 98 Il 15, spéc. 22; ATF 79 II 144, spéc. 145 ; Schmidlin, Berner Kommentar, n.
+74 ad art. 31 CO,
+p. 315) ; autrement dit,
+le cocontractant ne dispose que du droit d’invalider le contrat, mais pas de le faire en imposant
+certaines conditions (Schmidlin, Berner Kommentar, loc. cit.). Enfin, la déclaration d’invalidation
+est sujette à réception, ce qui signifie qu’elle n’a d’effet qui si elle
+est arrivée dans la sphère d’influence du cocontractant (Schmidlin, op. cit., n. 68 ad
+art. 31 CO, p. 314). C’est à celui qui prétend avoir invalidé le contrat en temps
+utile de le prouver (art. 8 CC). Lorsqu’un contrat est invalidé en raison d’un vice
+de la volonté et que cette invalidation est fondée, le contrat est résolu avec un effet
+« ex tunc » (ATF 128 III 70, JT 2003 I 4). La partie dont le consentement est vicié peut
+alors, pour le cas où elle se serait exécutée, demander la restitution de la prestation
+selon les règles sur l’enrichissement illégitime ou la revendication (Tercier/Pichonnaz,
+Le droit des obligations, 5
+e
+édition, § 15, n° 777).
+b)
+En l’espèce, il n’est pas contesté que les parties ont passé un contrat de
+vente portant sur du mobilier et des logiciels de gestion d’entreprise en septembre 2014. Il ressort
+en outre de ce contrat et plus particulièrement de son article 8 que l’intimé a certifié
+que l’ensemble du mobilier et des logiciels vendus étaient sa propriété et libre
+de tout engagement. Il n’est pas contesté non plus que la somme de 500'000 fr. a été
+versée à l’intimé en exécution du contrat. Il ressort cependant des pièces
+versées au dossier, et l’intimé l’admet du reste expressément, que ce dernier
+n’était en réalité pas propriétaire des logiciels vendus mais uniquement détenteur
+d’une licence. Au vu des garanties contenues à l’article 8 du contrat, il est possible
+que l’intimé ait voulu induire en erreur son cocontractant. Ce dernier a par ailleurs résolu
+le contrat par courrier du 22 janvier 2015, soit moins d’une année après sa signature.
+Il est ainsi vraisemblable qu’il dispose à l’encontre de l’intimé d’une
+créance en enrichissement illégitime d’un montant équivalent à la prestation
+effectuée, soit 500'000 francs. La créance apparaît ainsi suffisamment rendue vraisemblable.
+Les arguments invoqués par l’intimé devront être examinés par le juge du fond.
+VI.
+L’existence de biens appartenant au débiteur n’étant pas litigieuse, il résulte
+de ce qui précède que l’opposition aurait dû être rejetée et le séquestre
+confirmé.
+Il convient maintenant de déterminer si le créancier séquestrant doit fournir des sûretés,
+comme l'a requis le séquestré à titre subsidiaire dans son opposition au séquestre.
+a)
+En vertu de l'art. 273 al. 1 LP, le créancier répond du dommage qu'un séquestre injustifié
+peut causer tant au débiteur qu'aux tiers; le juge peut l'astreindre à fournir des sûretés.
+Le juge du séquestre astreindra le créancier à fournir des sûretés lorsque la
+créance ou le cas de séquestre sont douteux (TF 5A_165/2010 du 10 mai 2010 ; ATF 112 III
+112 c. 2a), autrement dit lorsqu'il ne peut pas exclure que les faits qu'il a retenus au stade de la
+vraisemblance soient autres ou qu'un examen approfondi conduise à une autre solution juridique que
+celle dictée par un examen sommaire (Gilliéron, op. cit., nn. 27 et 37 ad art. 273).
+Le montant des sûretés dépend du dommage éventuel dont est menacé le débiteur
+en cas de séquestre injustifié (ATF 113 III 94 c. 12 ; ATF 93 I 278 c. 5b ; Gilliéron,
+op. cit., n. 36 ad art. 273).
+Le dommage découle de l'indisponibilité frappant les biens séquestrés (TF 5A_165/2010
+c. 2.3.2 précité). Il dépend ainsi de l’importance de la créance à la
+base du séquestre et de l’importance qu’ont les biens séquestrés pour le débiteur
+ou le tiers. Parmi les éléments pertinents pour apprécier ce dommage éventuel figurent
+la durée prévisible du procès en validation de séquestre ainsi que les intérêts
+des emprunts que le débiteur peut devoir contracter pour pallier la privation de ses avoirs (ATF
+113 III 94 c. 11a et 11b précité). Selon la doctrine, un montant équivalent à deux
+années d'intérêt (10%) devrait souvent se révéler justifié (Stoffel/Chabloz,
+op. cit., n. 24 ad 273 LP).
+Le dommage comprend en outre les frais exposés dans les procédures de validation du séquestre
+et d'opposition à l'ordonnance de séquestre; en revanche, les frais de séquestre et de
+la poursuite en validation du séquestre ne font pas partie du dommage, et ne peuvent donc pas être
+pris en considération dans les sûretés (ATF 113 III 94 c. 10 précité ; Gilliéron,
+op. cit., n. 36 ad art. 273 LP ; Jeandin, Mainlevée sommaire de l'opposition : développements
+récents et perspectives, in JT 2006 II p. 51 ss, p. 73).
+Les intérêts du créancier doivent également être pris en compte dans l’évaluation
+générale, au même titre que ceux du débiteur. Lorsque les conditions du séquestre
+sont remplies, le créancier a droit à obtenir cette mesure. Ce droit ne doit pas être
+rendu illusoire par l’astreinte à fournir des sûretés excessives.
+Le séquestrant peut être astreint aux sûretés tant par l'ordonnance elle-même
+(art. 274 al. 2 ch. 5 LP) qu'à un stade ultérieur (TF 5A_757/2010 c. 2 ; Stoffel, in:
+Basler Kommentar, SchKG II, nn. 18, 24 et 30 ad art. 273 LP). Les parties peuvent demander au juge du
+séquestre de reconsidérer sa décision relative aux sûretés en le saisissant
+d’une requête. Elles peuvent alléguer des faits nouveaux (Gilliéron, op. cit., n.
+34 ad art. 273).
+b)
+En l’espèce, l’existence d’un cas de séquestre doit certes être admise
+au stade de la vraisemblance mais reste toutefois douteuse compte tenu des incertitudes relatives notamment
+au domicile de l’intimé. La créance reste par ailleurs à établir. Il se justifie
+donc d’astreindre la séquestrante à fournir des sûretés.
+S’agissant du montant, l’intimé a évoqué un risque de dommage important sous
+forme de manque de liquidités. Faute d’éléments plus concrets,  il est justifié
+de s’en tenir au montant préconisé par la doctrine, soit l’équivalent de 10 %
+de la somme séquestrée, ce qui représente une somme de 50'000 fr., à laquelle on
+peut encore ajouter 5'000 fr. pour les frais exposés dans les procédures de validation du séquestre
+et d'opposition à l'ordonnance de séquestre.
+En conclusion, il convient d'astreindre le recourant, créancier séquestrant, à fournir
+des sûretés d'un montant de 55'000 francs.
+VII.
+En définitive, le recours doit être admis et le prononcé entrepris réformé en
+ce sens que l'opposition au séquestre est rejetée et le séquestre maintenu, le créancier
+séquestrant étant astreint au paiement de sûretés, à hauteur de 55'000 francs.
+Les frais judiciaires de première instance, arrêtés à 660 fr., sont mis à la
+charge de l’opposant qui succombe (art. 106 al. 1 CPC). Celui-ci doit en outre verser à l'intimé
+la somme de 4’000 fr. à titre de dépens de première instance (art. 3 et 6 TDC).
+Les frais judiciaires de deuxième instance, arrêtés à 1’200 fr., sont mis à
+la charge de l'intimé qui succombe (art. 106 al. 1 CPC). Celui-ci doit en outre verser au recourant
+la somme de 2’500 fr. à titre de dépens de deuxième instance (art. 8 TDC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le prononcé est réformé en ce sens que l’opposition formée par A.M.________
+à l’encontre de l’ordonnance de séquestre rendue le 17 février 2015 par le
+Juge de paix du district de Lausanne, à la réquisition d’U.________ AG, est rejetée.
+Le séquestre ordonné
+le 17 février 2015 à concurrence de 500'000 fr. (cinq cent mille francs), avec intérêt
+à 5 % l’an dès le 30 septembre 2014, sur le compte [...] dont A.M.________ est titulaire
+auprès de la succursale lausannoise de la P.________ SA, [...] à Lausanne, est maintenu.
+La séquestrante U.________
+AG est astreinte à verser, dans un délai de quinze jours dès la notification du présent
+arrêt, en mains de l’Office des poursuites du district de Lausanne, le montant de 55'000 fr.
+(cinquante-cinq mille francs) à titre de sûretés en vue de garantir tout dommage causé
+au séquestré A.M.________ par l’exécution du séquestre ordonné le 17 février
+2015, sous peine de caducité du séquestre.
+Les frais judiciaires
+de première instance, arrêtés à 660 fr. (six cent soixante francs), sont mis à
+la charge de l’opposant.
+L’opposant A.M.________
+doit verser à l’intimée U.________ AG la somme de 4'000 fr. (quatre mille francs) à
+titre de dépens de première instance.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'200 fr. (mille deux cents
+francs), sont mis à la charge de l’intimé.
+IV.
+L’intimé A.M.________ doit verser à la recourante U.________ AG la somme de 3'700 fr.
+(trois mille sept cents francs) à titre de dépens et de restitution d’avance de frais
+de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Julien Fivaz, avocat, (pour U.________ AG),
+‑
+Me Albert J. Graf, avocat, (pour A.M.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 500’000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de Lausanne.
+Le greffier :
