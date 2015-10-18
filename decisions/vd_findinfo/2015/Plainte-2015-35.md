@@ -1,0 +1,478 @@
+---
+decision_id: "vd_findinfo_Plainte___2015___35"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2015 / 35"
+decided: "2015-10-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5238931"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-164.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-260.md", "switzerland/bund/acts/312.0/art-118.md"]
+---
+
+# VD Findinfo Plainte / 2015 / 35
+
+## Regeste
+
+PLAINTE{LP}, CESSION DES DROITS DE LA MASSE, NULLITÉ, RÉVOCATION{EN GÉNÉRAL}, PLAINTE PÉNALE, RESTITUTION DU DÉLAI, DROIT D'ÊTRE ENTENDU | 29 al. 2 Cst., 17 al. 1 LP, 17 al. 2 LP, 22 al. 1 LP, 260 LP, 33 al. 4 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.10.2015 Plainte / 2015 / 35
+
+PLAINTE{LP}, CESSION DES DROITS DE LA MASSE, NULLITÉ, RÉVOCATION{EN GÉNÉRAL}, PLAINTE PÉNALE, RESTITUTION DU DÉLAI, DROIT D'ÊTRE ENTENDU | 29 al. 2 Cst., 17 al. 1 LP, 17 al. 2 LP, 22 al. 1 LP, 260 LP, 33 al. 4 LP
+
+TRIBUNAL
+CANTONAL
+FA15.006409-151235
+33
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 octobre 2015
+____________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17 al. 1 et 2, 22 al. 1, 33 al. 4, 260 LP ; 29 al. 2 Cst.
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+E.________
+Ltd
+, à [...], contre la décision rendue
+le 7 juillet 2015, à la suite de l’audience du 12 mars 2015, par le Président du Tribunal
+d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant la plainte
+de la recourante contre l’
+Office
+des faillites de l'arrondissement de Lausanne
+,
+à Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+A l’inventaire de la faillite de la société L.________ & Cie, à Lausanne, traitée
+par l’Office des faillites de l’arrondissement de Lausanne (ci-après l’office),
+figurent notamment les droits suivants, sous nos 16 et 17 :
+-
+les droits que la société faillie possède, à titre contractuel et également
+à titre de responsabilité délictuelle pour acte illicite, contre K.________ et les sociétés
+de ce dernier au [...], notamment F.________ ainsi que toute personne associée à ses actes ;
+-
+les droits que la société faillie possède, à titre contractuel et également
+au titre de responsabilité délictuelle pour acte illicite, contre V.________ et les sociétés
+de ce dernier au [...], notamment N.________, ainsi que toute personne associée à ses actes.
+Par circulaire du 24 octobre 2013, l’administration de la faillite a offert aux créanciers
+qui en faisaient la demande dans le délai au 14 novembre 2013 la cession des droits mentionnés
+ci-dessus.
+Par lettre du 13 novembre 2013, la société E.________ Ltd, représentée par M.________,
+a requis la cession des droits de la masse.
+Par acte du 18 novembre 2013, l’office a cédé conformément à l’art.
+260 LP les droits de la masse mentionnés ci-dessus aux créanciers qui en avaient fait la demande,
+parmi lesquels figure la société E.________ Ltd, représentée par M.________. L’acte
+mentionne que les créanciers cessionnaires sont autorisés à poursuivre la réalisation
+en lieu et place de la masse, aux conditions fixées en page 2 de l’acte. Y figurent
+notamment les conditions suivantes :
+«
+6.
+L’administration de la faillite se réserve le droit d’annuler la présente
+cession,
+si
+le créancier cessionnaire n’agit pas en justice dans le délai qui lui sera fixé ».
+(…)
+8.
+Un
+délai au 30 septembre 2014
+est assigné aux créanciers cessionnaires pour agir à l’égard des tiers-débiteurs.
+Ils devront démontrer avoir procédé dans le délai indiqué en remettant à
+l’office des pièces justificatives ;
+à
+défaut, la cession pourra être annulée.
+9.
+En
+cas de demande de prolongation, l’Office facturera un émolument. »
+2.
+Par acte du 26 août 2014, E.________ Ltd a déposé plainte pénale auprès du Procureur
+général de Genève à l’encontre de «
+L.________
+et contre les associés (co-auteurs et/ou complices) de ce dernier, respectivement contre toutes
+les personnes qui ont participé au détournement de nos fonds et/ou qui se sont enrichies à
+nos dépens, du chef d’abus de confiance, d’escroquerie et de gestion déloyale avec
+dessein d’enrichissement illégitime ».
+Elle
+précisait notamment ce qui suit dans sa plainte: «
+Nous
+nous portons d’ores et déjà partie plaignante contre les auteurs, co-auteurs et complices
+des infractions susmentionnées, et nous demandons à pouvoir être considérés
+comme partie plaignante au pénal et au civil, dans la procédure N° [...] ».
+Cette dernière référence concernait, selon la plainte, une procédure pénale
+déjà pendante à Genève contre L.________.
+3.
+Par lettre recommandée du 6 janvier 2015 à M.________, expédiée le 12 janvier selon
+l’office, constatant que la créancière E.________ Ltd n’avait pas agi dans le délai
+au 30 septembre 2014, l’office a révoqué la cession en ce qui concerne cette société.
+Par lettre du 13 janvier 2015, l’avocat Julien Blanc, à Genève,  indiquant être
+consulté par M.________, a requis de l’office qu’il reconsidère sa décision
+de révocation du 6 janvier 2015. L’office lui a répondu le 21 janvier 2015 qu’il
+maintenait sa décision.
+Par lettre du 2 février 2015 à l’office, l’avocat Blanc a indiqué –
+procuration à l’appui – être consulté par E.________ Ltd et requérir
+la prolongation de la validité de la cession accordée à sa cliente.
+L’office lui a répondu le 5 février 2015, sous pli recommandé, que la révocation
+de la cession était intervenue le 12 janvier 2015, sa cliente n’ayant pas demandé la
+prolongation de la cession dans le délai imparti. Il confirmait pour le surplus sa décision
+du 21 janvier précédent. Ce courrier a été notifié au conseil de E.________
+Ltd le lendemain.
+4.
+Il résulte de la détermination du 5 mars 2015 de l’office que, dans l’intervalle,
+en raison de productions tardives incluant de nouvelles demandes de cession des droits de la masse, l’office
+a déposé un nouvel état de collocation le 5 décembre 2014. Le 12 janvier 2015, il
+a délivré de nouvelles cessions et prolongé les cessions existantes.
+5.
+Par acte du 17 février 2015, E.________ Ltd a déposé plainte contre la décision de
+l’office du 5 février 2015. Elle a conclu principalement à la prolongation de la cession
+des droits de la masse à son profit jusqu’au 31 janvier 2015. Subsidiairement, elle a conclu
+à l’octroi d’un délai supplémentaire pour requérir ladite cession.
+L’office s’est déterminé le 5 mars 2015, concluant à l’irrecevabilité
+de la plainte, pour tardiveté, et à son rejet, la décision du 5 février 2015 refusant
+de réexaminer la révocation de la cession étant confirmée.
+A l’audience du 12 mars 2015, la plaignante a modifié ses conclusions, en ce sens que la prolongation
+de la cession est requise jusqu’au 31 janvier 2016. A cette même audience, les parties ont
+convenu que l’intimée déposerait des déterminations complémentaires dans le
+délai au 13 avril 2015 et qu’un délai serait ensuite fixé à la plaignante pour
+faire part de ses observations.
+Dans ses déterminations complémentaires du 31 mars 2015, l’office a contesté que
+la plainte pénale déposée le 26 août 2014 par la plaignante puisse valoir ouverture
+d’action au sens de l’art. 260 LP.
+Par acte du 5 mai 2015, déposé dans le délai prolongé à cet effet, la plaignante
+a présenté ses observations et a conclu, avec suite de frais et dépens, principalement
+à la nullité de la décision de l’office du 12 janvier 2015 et subsidiairement à
+la prolongation de la cession jusqu’au 31 janvier 2016.
+6.
+Par décision du 7 juillet 2015, notifiée à la plaignante le 8 juillet 2015, le Président
+du Tribunal d’arrondissement de Lausanne, en sa qualité d’autorité inférieure
+de surveillance, a rejeté la plainte dans la mesure où elle est recevable et rendu sa décision
+sans frais ni dépens.
+En bref, l’autorité inférieure de surveillance a tout d’abord constaté que
+la plainte était tardive, la décision attaquée du 5 février 2015 ayant été
+notifiée au conseil de la plaignante le lendemain, de sorte que la plainte déposée le
+17 février 2015 ne respectait pas le délai de dix jours de l’art. 17 LP. Par surabondance,
+elle a considéré que la plainte pénale déposée par la plaignante l’avait
+été contre L.________ et non contre les tiers-débiteurs de la société faillie,
+de sorte que l’on ne pouvait soutenir que la plaignante avait agi contre ces derniers comme l’exigeait
+l’acte de cession. Elle a nié que l’office ait eu l’obligation d’interpeller
+la cessionnaire avant de révoquer la cession. Elle a conclu que l’office était dans son
+droit de révoquer la cession. Pour le surplus, s’agissant de la conclusion relative à
+la prolongation de délai requise au 31 janvier 2016, elle a considéré que toutes les conditions
+pour une restitution du délai conformément à l’art. 33 al. 4 LP n’étaient
+pas réunies, la plaignante n’ayant en particulier pas établi qu’elle aurait été
+victime d’un empêchement quelconque à agir dans le délai fixé.
+7.
+La plaignante a recouru par acte du 20 juillet 2015, concluant avec suite de frais et dépens à
+la nullité de la décision du 12 janvier 2015 et à la prolongation de la durée de
+la cession jusqu’au 31 janvier 2016. Elle a produit un onglet de pièces sous bordereau.
+Par lettre du 11 août 2013, l’office s’est référé à ses déterminations
+de première instance.
+En droit :
+I.
+Le recours a été déposé dans le délai de dix jours des art. 18 al. 1 LP (loi
+fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) et 28
+al. 1 LVLP (loi du 18 mai 1955 d’application dans le canton de Vaud de la LP ; RSV 280.05).
+Il est motivé et conforme aux exigences de l’art. 28 LVLP. Il est recevable. Les pièces
+produites avec le recours sont également recevables (art. 28 al. 4 LVLP).
+II.
+La recourante invoque une violation de son droit d’être entendue en ce sens que le premier
+juge ne lui aurait pas donné la possibilité de se déterminer sur le fait, au demeurant
+contesté, qu’elle n’aurait pas agi contre les tiers-débiteurs.
+Le grief de violation du droit d’être entendu étant de nature formelle et susceptible
+d’entraîner à lui seul l’annulation d’une décision prise en violation
+de ce droit, il doit être examiné en premier lieu.
+a)
+Selon
+la jurisprudence, le droit d’être entendu garanti par l’art. 29 al. 2 Cst. (Constitution
+fédérale du 18 avril 1999, RS 101) n’exige pas que les parties puissent s’exprimer
+sur chaque solution que l’autorité a en vue. Celle-ci n’a en conséquence pas à
+présenter à l’avance aux parties les motifs de sa décision afin que celles-ci se
+déterminent. Il suffit que les parties aient pu se déterminer et faire valoir leurs moyens
+sur les points déterminants pour le jugement, en particulier l’état de fait et les normes
+applicables (ATF 132 II 485 consid. 3.4 ; ATF 132 II 257 consid. 4.2).
+b)
+En
+l’espèce, après le dépôt de la plainte, les deux parties ont eu l’occasion
+de s’exprimer, par écrit et par oral, et encore à l’occasion d’un second
+échange d’écritures sur l’état de fait et les normes applicables au litige.
+Le moyen doit en conséquence être rejeté.
+III.
+a)
+En vertu de l’art. 17 al. 2 LP, le délai
+de plainte est de dix jours dès celui où le plaignant a eu connaissance de la mesure attaquée.
+Il s’agit d’un délai de péremption dont le juge doit vérifier d’office
+le respect (Erard, Commentaire romand LP, nn. 42 ss ad art. 17 LP).
+En l’espèce, la recourante a pris connaissance de la mesure attaquée – le refus
+de l’office de revenir sur sa décision de révocation de la cession – le 6 février
+2015. Elle a déposé plainte le 17 février 2015. Elle a ensuite modifié ses conclusions
+à l’audience, puis dans son acte du 5 mai 2015. A vrai dire, on devrait se demander si la
+recourante n’aurait pas déjà dû déposer plainte dans le délai de dix jours
+dès la notification de la lettre de l’office du 6 janvier 2015, envoyée le 12 janvier,
+lui signifiant la révocation de la cession. Cette question peut cependant demeurer indécise,
+tout comme celle de savoir si la recourante pouvait modifier ses conclusions après le dépôt
+de sa plainte. En effet, dans son recours, la recourante déclare expressément ne pas contester
+la tardiveté de sa plainte. Elle fait cependant valoir que la décision attaquée serait
+nulle au sens de l’art. 22 LP et se prévaut du fait que les autorités de surveillance
+doivent constater la nullité d’un acte de poursuite d’office, indépendamment de
+toute plainte.
+b)
+En vertu de l’art. 22 al. 1 LP, sont nulles les mesures contraires à des dispositions édictées
+dans l’intérêt public ou dans l’intérêt de personnes qui ne sont pas
+parties à la procédure. Un acte de poursuite nul au sens de cette disposition ne peut à
+aucun moment déployer d’effet, le vice qui lui est inhérent ne pouvant être réparé
+par des circonstances ultérieures (ATF 112 III 65, JdT 1989 II 35 ; ATF 17 III 39, JdT 1994
+II 12 ; Erard, op. cit., n. 9 ad art. 22 LP).
+Les « mesures » dont la nullité peut être constatée sont les mesures
+au sens de l’art. 17 LP, émanant d’autorités de poursuite ou d’autorités
+judiciaires (Erard, op. cit., n. 2 ad art. 22 LP). Constitue une « mesure » au sens
+de cette disposition tout acte de poursuite, pris unilatéralement ou d’office, de nature à
+créer ou à modifier une situation du droit de l’exécution forcée (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 11 ad art. 17
+LP et la jurisprudence citée).
+Toute mesure contraire à une disposition légale n’est pas nulle. Pour être qualifiée
+de nulle au sens de l’art. 22 LP, la mesure doit apparaître contraire à une disposition
+édictée dans l’intérêt public ou dans l’intérêt d’un
+cercle indéterminé de tiers qui ne sont pas parties à la procédure en question (Erard,
+op. cit., n. 6 ad art. 22 LP ; Cometta, Commentaire bâlois, SchKG I, nn. 10 et 11 ad art. 22
+LP). L’inopportunité, le déni de justice ou le retard injustifié ne sont pas des
+motifs de nullité. Le terme de « disposition » recouvre celui de loi de l’art.
+17 LP. Il s’agit de la Constitution fédérale, des lois fédérales, des principes
+généraux du droit, de la bonne foi et de l’abus de droit, du contenu obligatoire des
+formules édictées par le Tribunal fédéral et le droit cantonal, notamment les lois
+et règlements édictés en application de la LP (Erard, op. cit., n. 17 ad art. 17 LP).
+Pour qu’il y ait nullité, il faut qu’il s’agisse d’une disposition impérative
+(Erard, op. cit., nn. 4 et 6). Toutefois, même une règle impérative peut ne pas être
+d’intérêt public (ATF 87 I 191, consid. 1). La question de savoir si une règle a
+été édictée dans un intérêt public ou parce qu’elle touche aux intérêts
+de tiers est sujette à interprétation. C’est en principe le cas des dispositions de procédure
+et de celles traitant de la compétence matérielle des autorités (Erard, op. cit., n. 7
+ad art. 22 LP). Selon la jurisprudence, est en particulier considérée comme d’intérêt
+public la règle de principe selon laquelle une cession au sens de l’art. 260 LP ne peut intervenir
+qu’après une renonciation de la masse à faire valoir elle-même les droits et qu’après
+que l’occasion a été donnée à tous les créanciers de requérir la
+cession. La raison en est que la violation de cette règle ne lèse pas seulement les droits
+des créanciers de la faillite ; elle expose les tiers au danger d’être poursuivis
+à plusieurs reprises et les tribunaux à celui d’être saisis inutilement, ce qui
+est susceptible d’engendrer le désordre dans le déroulement de la procédure de faillite
+(ATF 120 III 36 spéc. p. 38, JdT 1996 II 141 ; Cometta, op. cit., n. 13 ad art. 22 LP, p. 164).
+c)
+En vertu des conditions imposées par le Tribunal fédéral aux cessionnaires et contenues
+dans la Formule F7 utilisées par les offices (Jeanneret/Carron, Commentaire romand, nn. 27 ss ad
+art. 260 LP), l’administration de la faillite peut fixer au cessionnaire un délai pour qu’il
+exerce son droit. L’administration peut révoquer la cession si le créancier n’agit
+pas à temps. Elle peut également prolonger le délai pour agir. Lorsqu’il y a plusieurs
+créanciers cessionnaires, l’administration doit fixer un délai unique à tous les
+créanciers. Lorsqu’elle prolonge ce délai, elle doit le faire pour tous les créanciers
+cessionnaires, non au profit d’un seul (ATF 40 III 431). Cette jurisprudence s’inspire du
+principe d’égalité entre tous les créanciers : selon la jurisprudence, tous
+ceux qui ont demandé la cession doivent être traités sur un pied d’égalité
+et l’administration de la faillite est tenue de ne rien entreprendre qui viendrait troubler cette
+égalité (ATF 121 III 291 consid. 3b).
+d)
+En l’espèce, la décision qualifiée de nulle par la recourante est la décision
+de l’office de révoquer la cession, respectivement le refus de l’office de revenir sur
+cette révocation. Il s’agit bien d’une mesure au sens de l’art. 22 LP.
+aa)
+La recourante, qui se prévaut de la plainte pénale qu’elle a déposée le 26
+août 2014, fait valoir que les dispositions d’intérêt public violées par l’office
+sont les dispositions du CPP (Code de procédure pénale du 5 octobre 2007 ; RS 312.0) relatives
+à la qualité de plaignant et aux conséquences pénales et civiles attachées au
+dépôt de la plainte (art. 118 et 119 CPP). Elle considère qu’en déposant plainte
+contre L.________ et en indiquant expressément dans sa plainte que celle-ci était dirigée
+aussi contre les co-auteurs et/ou complices, de même qu’en demandant à être plaignante
+au pénal et au civil dans une procédure déjà dirigée notamment contre les sieurs
+K.________ et V.________, elle a valablement exercé les droits cédés.
+La qualité de plaignante de la recourante n’est pas en cause ici. On ne voit pas en quoi la
+décision de l’office de révoquer la cession au sens de l’art. 260 LP violerait
+les règles du CPP relatives à la qualité de lésé et de plaignant. La décision
+de l’office est en effet sans incidence sur la capacité de la recourante à déposer
+plainte dans le cadre de l’affaire dirigée contre L.________ et d’autres prévenus
+(art. 118 CPP).
+bb)
+En revanche, compte tenu de la jurisprudence du TF exposée plus haut (ATF 120 III 36 cité par
+Cometta ; ATF 121 III 291 consid. 3b), on peut en effet se demander si les décisions de l’office
+qui violeraient les règles de procédure édictées par le Tribunal fédéral
+sur la révocation des cessions et la prolongation des délais pour agir, déduites de l’art.
+260 LP et du principe d’égalité entre tous les créanciers, ne sont pas susceptibles
+d’être annulées indépendamment de toute plainte. Ces règles ne paraissent pas
+avoir été édictées uniquement dans l’intérêt des parties à la
+procédure de faillite mais pourraient également intéresser aussi les tiers et, comme indiqué
+dans l’arrêt cité plus haut, les tribunaux et le déroulement de toute la procédure
+de faillite. Une violation de ces règles, par exemple dans l’hypothèse où l’office
+aurait à tort révoqué la cession ou exclu à tort la recourante de la prolongation
+de délai accordée le 12 janvier 2015 à d’autres créanciers, serait donc susceptible
+d’entraîner la nullité de la mesure.
+Cette question peut toutefois demeurer indécise, dès lors que, comme on le verra, sous chiffres
+IV à V ci-dessous, aucune violation des règles régissant la cession n’est établie
+en l’espèce.
+IV.
+La recourante fait valoir que l’expiration
+du délai pour agir contre les tiers n’emporte pas péremption du droit d’agir. Elle
+soutient qu’elle a de toute manière agi dans le délai en déposant plainte le 26
+août 2014 contre L.________ & Cie et L.________, ainsi que contre toute autre personne impliquée,
+ce qui comprendrait V.________ et K.________.
+a)
+Selon la jurisprudence, la cession selon l’art. 260 LP n’est pas une cession au sens des
+art. 164 ss CO. Il s’agit d’une notion du droit de la faillite et du droit de procédure
+sui generis
+qui peut être considérée comme une sorte de « Prozessstandschaft »,
+permettant au cessionnaire d’entamer un procès en son propre nom et pour son propre compte
+ou de reprendre celui-ci dans les mêmes conditions, sans qu’il devienne pour autant, par la
+cession, le titulaire, l’ayant droit de la prétention litigieuse; ne lui est cédé
+que le droit d’agir à la place de la masse (TF 6B_236/2014, ATF 140 IV 155, JdT 2015 IV 107,
+consid. 3.4.4 et les arrêts cités ; Jeanneret/Carron, Commentaire romand, n. 4 ad art.
+260 LP et les réf. citées ; Berti, Basler Kommentar SchKG, n. 56 ad art. 260 LP).
+Pour faire valoir ses droits, le cessionnaire doit prendre des conclusions. Il peut définir ou chiffrer
+celles-ci librement dans la mesure de la cession. Il peut limiter ses conclusions à la hauteur de
+sa propre créance dans la faillite, conclure au paiement d’un montant inférieur, ou faire
+valoir la prétention entière (Jeanneret/Carron, op. cit., n. 40 ad art. 260 LP ; Berti
+op. cit., n. 55 ad art. 260 LP). Lorsque la cession intervient en faveur de plusieurs créanciers,
+ceux-ci doivent agir comme consorts (Jeanneret/Carron, op. cit., nn. 33 et 43 ss ad art. 260 LP). La
+nature de cette consorité est discutée en doctrine. Une consorité nécessaire n’existerait
+toutefois qu’entre les créanciers qui ont décidé de faire usage de la cession (ATF
+121 III 291, c. 3a).
+La formule 7F utilisée par les offices, relative à la cession des droits de la masse à
+teneur de l’art. 260 LP, prévoit notamment que l’administration de la faillite se réserve
+le droit d’annuler la cession si le créancier cessionnaire n’agit pas en justice dans
+le délai qui lui aura été fixé. L’inaction du créancier cessionnaire durant
+le délai fixé est sanctionnée de possible révocation, mais non de péremption
+ipso jure
+(ATF
+121 III 291, consid. 2a ; Jeanneret/Carron, Commentaire romand, n. 36 ad art. 260 LP ; Tschumy,
+Quelques réflexions à propos de la cession des droits de la masse au sens de l’art. 260
+LP, in JdT 1999 II 34, p. 40).
+b)
+En
+l’espèce, le délai pour agir était fixé au 30 septembre 2014. Ce droit ne se
+périmant pas aussi longtemps qu’il n’est pas révoqué, la recourante était
+en droit d’agir même au-delà de cette date, jusqu’à la révocation.
+La recourante ne peut toutefois se prévaloir de la plainte pénale qu’elle a déposée
+le 26 août 2014.
+En premier lieu, en déposant cette plainte, elle n’a fait que dénoncer des infractions
+qu’elle estime avoir été commises à son détriment et pas au détriment
+de la société faillie. Or, ce sont bien les droits de cette dernière que la recourante
+devait faire valoir dans le délai imparti. On ne peut donc considérer le dépôt de
+cette plainte comme une façon d’exercer les prétentions qui lui avait été cédées.
+En outre, s’il est certes exact que l’enquête pénale à laquelle elle a demandé
+à être partie, citée en référence dans sa plainte, est apparemment également
+dirigée contre les tiers débiteurs, il y a lieu de relever cependant qu’en indiquant
+vouloir participer à la procédure pénale comme demandeur au pénal et au civil, la
+recourante n’a fait qu’une déclaration au sens de l’art. 118 CPP, lui donnant
+le cas échéant la qualité de plaignante. Quand bien même elle aurait pu le faire
+à ce stade (art. 119 et 123 al. 1 CPP), la recourante n’a en revanche pas pris de conclusions
+civiles dans sa plainte, ni contre L.________, ni surtout contre les tiers débiteurs. Pour ce motif
+également, elle ne saurait soutenir avoir fait valoir les droits cédés.
+Par surabondance, la cession donne au créancier cessionnaire le droit d’exercer en son nom
+propre les droits de la masse. Il est certes exact que l’arrêt publié aux ATF 140 IV
+155 (JdT 2015 IV 107, consid. 3.4.4), cité par les deux parties, a pour objet la notion de lésé
+selon le CPP, donc un problème
+a
+priori
+différent de celui en cause. Il n’en
+demeure pas moins que dans cet arrêt, le Tribunal fédéral a dit que la société
+faillie, jusqu’au moment de sa radiation du registre du commerce, conservait la qualité de
+lésée dans la procédure pénale dirigée contre les auteurs d’un dommage
+causé à la société et que, de son côté, le cessionnaire au sens de l’art.
+260 LP ne pouvait agir dans la procédure pénale en question que dans la mesure où il était
+lui-même directement touché dans ses droits. Il y a lieu de déduire de cette jurisprudence
+que le créancier cessionnaire au sens de l’art. 260 LP ne peut agir dans le cadre de la procédure
+pénale pour exercer le droit cédé dont il n’est pas devenu titulaire.
+Il découle de ce qui précède qu’effectivement, à la date de la révocation
+de la cession, la recourante n’avait ni exercé le droit cédé ni requis de prolongation
+du délai pour agir.
+V.
+La recourante reproche également à l’office
+d’avoir fait preuve de formalisme excessif en refusant de revenir sur sa décision de révocation,
+alors même qu’à la suite de productions tardives, il venait de déposer un nouvel
+état de collocation, auquel elle ne s’était pas opposée, et de prolonger la validité
+des cessions d’autres créanciers cessionnaires. Elle considère que dans ces circonstances,
+l’office aurait à tout le moins dû l’interpeller avant de révoquer la cession.
+a)
+Selon la jurisprudence (ATF 121 III 291, consid. 3b), le principe d’égalité entre tous
+les créanciers cessionnaires commande en effet que tous ceux qui ont demandé la cession soient
+traités sur un pied d’égalité. Il ne commande toutefois de traiter également
+que les situations semblables. Se trouvent dans une même situation exigeant un traitement égal
+tous les créanciers qui ont requis la cession, respectivement tous ceux qui ont sollicité une
+prolongation du délai pour agir.
+b)
+En l’espèce, la recourante qui n’avait pas requis la prolongation du délai pour
+agir à réception de l’avis du 6 janvier 2015 expédié le 12 janvier 2015 (manifestement
+reçu le 13, dès lors que la lettre de l’avocat du 13 janvier y fait allusion) par lequel
+l’office lui a notifié la révocation de la cession, ne peut revendiquer de se voir accorder
+la prolongation octroyée aux créanciers cessionnaires qui avaient requis la prolongation.
+Pour le surplus, l’office n’avait aucune obligation ni même aucun motif d’interpeller
+la recourante, qui avait laissé s’écouler plus de trois mois depuis la fin du délai
+fixé pour agir, sans démontrer avoir agi en justice et sans avoir requis la prolongation du
+délai pour agir.
+C’est également à tort que la recourante reproche encore à l’office de n’avoir
+pas motivé sa décision de révocation, ce qui serait selon elle un autre motif de nullité.
+L’office a en effet motivé la révocation par le non-respect du délai pour agir.
+VI.
+La recourante conclut à la prolongation de
+la cession jusqu’au 31 janvier 2016.
+Dans la mesure où ce délai est valablement échu, seule la procédure de restitution
+de délai de l’art. 33 al. 4 LP entre en ligne de compte.
+Cette disposition exige la réunion cumulative de trois conditions : un empêchement non
+fautif de l’intéressé ou de son représentant, le dépôt d’une requête
+motivée dans un délai égal au délai échu et l’accomplissement de l’acte
+omis dans le même délai.
+En l’espèce, c’est à bon droit que l’autorité inférieure de surveillance
+a constaté que la recourante n’avait justifié d’aucune manière qu’elle
+aurait été victime d’un empêchement à agir. Dans la plainte du 17 février
+2015, le conseil de la recourante a lui-même déclaré que c’était par une inadvertance
+manifeste que sa cliente n’avait pas agi dans le délai.
+VII.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+61 al. 2 let. a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Julien Blanc, avocat, (pour E.________ Ltd),
+-
+M. le Préposé à l’Office des faillites de l’arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+Le greffier :
