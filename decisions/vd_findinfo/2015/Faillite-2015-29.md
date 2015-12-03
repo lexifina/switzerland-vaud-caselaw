@@ -1,0 +1,308 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 29"
+decided: "2015-12-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5255444"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 29
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 1 LP, 174 al. 2 LP, 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.12.2015 Faillite / 2015 / 29
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 1 LP, 174 al. 2 LP, 174 LP
+
+TRIBUNAL
+CANTONAL
+FF15.017641-151495
+307
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 décembre 2015
+_____________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+T.________
+SA
+, à [...], contre le jugement rendu le
+27 août 2015, à la suite de l’audience du 4 juin 2015, par la Présidente du Tribunal
+d’arrondissement de Lausanne, dans la cause opposant la recourante à
+U.________
+SA
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 3 février 2014, l'Office des poursuites du district de L'Ouest Lausannois, sur requête de
+la société U.________ SA, a notifié à la société T.________ SA un commandement
+de payer n° 6'910'459 requérant paiement des montants suivants :
+1)
+11'283 fr. 40 plus intérêt à 5% dès le 1
+er
+septembre 2013 ;
+2)
+13'587 fr. 20 plus intérêt à 5% dès le 1
+er
+janvier 2014 ;
+3)
+2'373 fr. 35 plus intérêt à 5% dès le 1
+er
+janvier 2014 ;
+4)
+1'942 fr. 95 plus intérêt à 5% dès le 1
+er
+janvier 2014 ;
+5)
+500 fr. sans intérêt.
+Ce commandement de payer n'a pas été frappé d'opposition.
+Le 25 février 2014, U.________ SA a requis la continuation de la poursuite. Une commination de faillite
+a été notifiée le 28 février 2014 à T.________ SA.
+Le 30 avril 2015, U.________ SA a requis la faillite de T.________ SA à concurrence des montants
+en poursuite, sous déduction de trois acomptes totalisant 15'000 fr., plus les frais de commandement
+de payer et de commination de faillite.
+T.________ SA a été citée à l'audience de faillite du 4 juin 2015, à laquelle
+elle a comparu.
+2.
+Par jugement envoyé pour notification le
+27 août 2015, le Président du Tribunal d'arrondissement de Lausanne, après avoir constaté
+que T.________ SA ne s’était pas acquitté de la créance, en capital, intérêts
+et frais dans le délai au 25 août 2015 qui lui avait été accordé à l'audience
+du 4 juin précédent, a prononcé la faillite de cette société pour avoir lieu
+le 27 août 2015, à 14 heures. Ce jugement a été notifié à la société
+faillie le 31 août 2015.
+3.
+La faillie a recouru par acte du 10 septembre
+2015, concluant à l'annulation du jugement de faillite.
+La requête d'effet suspensif contenue dans le recours a été admise par prononcé de
+la présidente de la cour de céans du 14 septembre 2015.
+A l'appui de son recours du 10 septembre 2015, T.________ SA a produit :
+-
+un ordre de paiement du montant de 5'000 fr. du compte UBS de la faillie sur le compte bancaire de l'intimée,
+valeur 2 juin 2015 ;
+-
+un extrait de son compte UBS, faisant état du versement sur celui-ci du montant de 8'881 fr. 80,
+valeur 8 septembre 2015 ;
+-
+un décompte débiteur délivré le 4 septembre 2015 par l'Office des poursuites de l'Ouest
+lausannois, faisant état à cette date de poursuites pour un total de 131'803 fr. 65, intérêts
+et frais compris ; la poursuite n° 6'910'459 y figure pour un montant de 32'729 fr. 10 ;
+-
+la photocopie d'une offre du 29 janvier 2015, adressée par T.________ SA à [...] pour la rénovation
+du restaurant [...] du Centre [...] de [...], pour un montant forfaitaire de 427’523 fr. 40 TTC
+avec des acomptes payables en septembre, octobre et novembre 2015; le document porte le timbre humide
+et des signatures manuscrites pour [...] et Restaurant [...] ainsi que la mention « En accord avec
+la présente offre et pour mandat d'exécution » à la date du 17.01.2014 ;
+-
+la photocopie d'une offre acceptée adressée par T.________ SA le 18 juin 2015 à [...],
+portant sur l'équipement de chambres d'hôtel pour un total de 121'962 fr. 25, payable en 36
+mensualités dès le mois de juillet 2015.
+L’extrait des poursuites au 14 septembre 2009 indique seize poursuites introduites entre le 9 janvier
+2014 et le 7 septembre 2015, pour un total de 181'556 fr. 30. Douze poursuites en sont au stade du commandement
+de payer, dont sept sont frappées d’opposition ; deux poursuites en sont au stade de
+la commination de faillite, une au stade de la saisie et une au stade de la réalisation. La poursuite
+à l’origine du présent arrêt n’y figure plus. La recourante s’est déterminée
+sur cet extrait par lettre de son conseil du 28 septembre 2015.
+Le 29 septembre 2015, la recourante a produit la photocopie du récépissé postal attestant
+de son versement, le même jour, du montant de 9'893 francs 55 en faveur de l’intimée.
+Par courrier du 5 octobre 2015, l’intimée a confirmé avoir reçu le montant de 9'893
+fr. 55 représentant le solde de sa créance et retirer en conséquence sa requête de
+faillite du 30 avril 2015, ainsi que la poursuite n° 6'910'459.
+Par courriers des 16 octobre et 26 novembre 2015, la recourante a encore produit des pièces destinées
+à rendre sa solvabilité vraisemblable.
+En droit
+:
+I.
+Le recours a été formé conformément
+à l’art. 321 CPC (Code de procédure civile du 19 décembre 2008, RS 272). Il a été
+déposé en temps utile, dans le délai de dix jours suivant la notification du jugement
+de faillite (art. 174 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes
+et la faillite, RS 281.1]). Motivé, il est recevable formellement (art. 174 al. 2 LP et 321 al.
+1 CPC).
+II.
+a)
+En vertu des art. 171 et 172 LP, le juge saisi
+d’une réquisition de faillite doit prononcer celle-ci, sauf dans les cas mentionnés aux
+art. 172 à 173a LP qui ne sont pas réalisés en l’espèce.
+C’est donc à bon droit que le premier juge a prononcé la faillite et le jugement attaqué
+n’est entaché d’aucune irrégularité, les délais des art. 166 et 168 LP
+ayant été respectés et les parties régulièrement convoquées à l’audience.
+III.
+a)
+En vertu de l'art. 174 al. 1 2ème phrase
+LP, la décision du juge de la faillite – qui rejette ou qui admet la réquisition de faillite
+(TF 5A_728/2007 du 23 janvier 2008 consid. 3.1) – peut, dans les dix jours, faire l'objet d'un
+recours au sens du CPC; les parties peuvent faire valoir devant l'instance de recours des faits nouveaux
+lorsque ceux-ci se sont produits avant le jugement de première instance. La loi vise ici les faits
+nouveaux improprement dits (faux nova ou pseudo-nova ), à savoir qui existaient déjà au
+moment de l'ouverture de la faillite et dont le premier juge n'a pas eu connaissance pour quelque raison
+que ce soit; ces faits peuvent être invoqués sans restriction devant la juridiction de recours
+(TF 5A_571/2010 du 2 février 2011 consid. 2, SJ 2011 I p. 149; Amonn/Walther, Grundriss des Schuldbetreibungs-
+und Konkursrechts, 9
+e
+éd., 2013, p. 339), pour autant qu'ils le soient dans le délai de recours (TF 5A_899/2014 du
+15 janvier 2015 consid. 3.1 ; ATF 139 III 491 consid. 4.4; TF 5A_427/2013 du 14 août 2013 consid.
+5.2.1.2; Eugen Fritschi, Verfahrensfragen bei der Konkurseröffnung, Zurich 2010, p. 293).
+Selon la jurisprudence, les vrais nova – à savoir les faits qui sont intervenus après
+l'ouverture de la faillite en première instance (art. 174 al. 2 ch. 1-3 LP) – doivent également
+être invoqués avant l'expiration du délai de recours (TF 5A_899/2014 du 15 janvier 2015
+consid. 3.1 ; ATF 139 III 491 consid. 4; ATF 136 III 294 consid. 3; TF 5A_606/2014 du 19 novembre 2014
+consid. 4.2 et les références). L'admission des vrais  nova – soumise à une
+double condition très stricte (cf. Stoffel/Chabloz, Voies d'exécution, 2
+e
+éd. 2010, p. 274) – est destinée à éviter, et non à permettre, l'ouverture
+de la faillite, de sorte qu'il apparaît conforme à la volonté du législateur de ne
+reconnaître qu'au seul débiteur poursuivi la faculté d'invoquer de tels faits nouveaux
+(cf. TF 5A_899/2014 précité consid. 3.1 et 5A_711/2012 précité consid. 5.2; Giroud,
+Basler Kommentar, SchKG II, 2e éd., 2010, n° 20 ad art. 174 LP; cf. ég. s'agissant de
+l'art. 174 al. 2 LP dans sa teneur antérieure au 1er janvier 2011: TF 5A_728/2007 précité
+consid. 3.1 et 3.2).
+b)
+En l’espèce, le délai de recours venait à échéance le jeudi 10 septembre
+2015. Or, c’est par acte du 29 septembre 2015 que la recourante a établi un paiement de 9'893
+fr. 55, dont il n’était pas encore établi qu’il soldait l’entier de la créance,
+intérêts et frais compris (art. 174 al. 2 ch. 1 LP), et par lettre du 5 octobre 2015 que l’intimée
+a déclaré retirer sa requête de faillite et la poursuite (art. 174 al. 2 ch. 1 LP). Ces
+preuves ont dès lors été rapportées tardivement, de même que les pièces
+produites les 16 octobre et 26 novembre 2015.
+c)
+Au demeurant, et par surabondance, il y a lieu de constater que la recourante n’a pas non plus
+rendu sa solvabilité vraisemblable.
+aa)
+La solvabilité au sens de l'art. 174 al. 2 LP se définit par opposition à l'insolvabilité
+au sens de l'art. 191 LP (Giroud, op. cit., n. 25 ad art. 174 LP; TF 5P.399/1999 du 14 janvier 2000 consid.
+2b). Cette dernière n'équivaut pas au surendettement mais consiste en l'incapacité du
+débiteur, en raison d'un manque de liquidités qui n'apparaît pas seulement temporaire,
+de payer ses dettes échues. La loi se contente d'une simple vraisemblance. Un fait est rendu vraisemblable
+si le juge, en se basant sur des éléments objectifs, a l'impression que le fait invoqué
+s'est produit, sans pour autant devoir exclure la possibilité qu'il ait pu se dérouler autrement
+(ATF 132 III 715, consid. 3.1 et les réf. citées, JdT 2009 I 183; TF 5A_413/2014 du 20 juin
+2014, consid. 4.1). Ainsi, la solvabilité du débiteur doit au moins être plus probable
+que son insolvabilité. Il ne faut donc pas poser d'exigences trop sévères quant à
+la solvabilité : celle-ci est rendue vraisemblable lorsqu'elle apparaît plus vraisemblable
+que l'insolvabilité, en particulier lorsque la viabilité de l'entreprise ne saurait être
+déniée d'emblée (TF 5A_413/2014 du 20 juin 2014, consid. 4.1; TF 5A_230/2011 du 12 mai
+2011 consid. 3; TF 5A_529/2008 du 25 septembre 2008 consid. 3.1; Giroud, op. cit., n. 26 ad art. 174
+LP; Cometta, Commentaire romand, n. 9 ad art. 174 LP; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 45 ad art. 174 LP).
+S'il ne doit pas prouver sa solvabilité de manière stricte, il incombe au débiteur d'offrir
+les moyens de preuve propres à rendre vraisemblable sa solvabilité (TF 5A_469/2012 du 22 août
+2012 consid. 4.1.1; TF 5A_328/2011 du 11 août 2011 consid. 2, publié in SJ 2012 I p. 25; Message
+du Conseil fédéral, du 8 mai 1991, concernant la révision de la loi fédérale
+sur la poursuite pour dettes et la faillite, FF 1991 III p. 130 s.). Le débiteur doit fournir des
+indices tels que les récépissés de paiements, des justificatifs de moyens financiers à
+sa disposition (avoirs en banque, crédits bancaires), des listes de ses débiteurs, un extrait
+du registre des poursuites, des comptes annuels récents avec bilan intermédiaire, cette liste
+n'étant pas exhaustive. L'extrait du registre des poursuites concernant le failli est en règle
+générale décisif (Cometta, op. cit., n. 10 ad art. 174 LP). Il faut examiner concrètement
+la situation du débiteur, par comparaison entre ses actifs et ses passifs. En principe, s'avère
+insolvable le débiteur qui, par exemple, laisse des comminations de faillite s'accumuler, fait systématiquement
+opposition et ne paie pas même des montants peu élevés. Des difficultés momentanées
+de trésorerie, même si elles amènent un retard dans le paiement des dettes, ne sont pas
+à elles seules un indice d'insolvabilité, à moins qu'il n'y ait aucun indice important
+permettant d'admettre une amélioration de sa situation financière et qu'il semble manquer de
+liquidités pour une période indéterminée. A l'inverse, l'absence de poursuite en
+cours n'est pas une preuve absolue de solvabilité; elle constitue toutefois un indice sérieux
+de la capacité du débiteur de s'acquitter de ses engagements échus (TF 5A_413/2014 du
+20 juin 2014, consid. 4.1; TF 5A_469/2012 du 22 août 2012 consid. 4.1.1; CPF, 9 décembre 2010/474;
+CPF, 2 octobre 2008/483; CPF, 13 juin 2002/229). Le Tribunal fédéral a rappelé que la
+ratio legis consiste à éviter la faillite lorsque le manque de liquidités suffisantes
+n'apparaît que passager et que l'entreprise du débiteur semble en mesure de survivre économiquement
+(TF 5A_328/2011 du 11 août 2011, consid. 2, publié in SJ 2012 I p. 25). L'appréciation
+de la solvabilité repose sur une impression générale fondée sur les habitudes de
+paiement du failli (TF 5A_413/2014 du 20 juin 2014, consid. 4.1; TF 5A_642/2010 du 7 décembre 2010,
+consid. 2.4; TF 5A_350/2007 du 19 septembre 2007, consid. 4.3).
+bb)
+En l’espèce, après paiement de la poursuite n° 6'910'459, la recourante fait encore
+l’objet de seize poursuites en cours, pour un total de 181'556 francs 30. Deux poursuites en sont
+au stade de la commination de faillite et deux autres au stade de la saisie, respectivement de la réalisation.
+Cinq poursuites ne sont pas frappées d’opposition. Trois poursuites, pour un total de 143'075
+fr. 30, concernent l’Administration fédérale des contributions, Division principale de
+la TVA, et deux autres poursuites l’Office d’impôt des personnes morales, ce qui démontre
+que la recourante ne parvient pas à faire face à ses obligations courantes. Certes, la recourante
+affirme amortir l’arriéré de TVA par des versements mensuels de 4'000 francs, mais sans
+qu’on sache depuis quand et avec quelle régularité. La requérante n’a pas
+produit ses comptes, ni son bilan, de sorte que l’on ne sait rien de ses charges et de ses revenus.
+Quant aux photocopies d’offres produites, elles ne suffisent pas à rendre sa solvabilité
+vraisemblable. L’une des offres a été acceptée à une date qui ne correspond
+pas à celle à laquelle elle a été formulée et on ignore en outre si les travaux
+en question sont en cours d’exécution.
+IV.
+En définitive, il convient de retenir que les conditions de l’art. 174 al. 2 LP ne sont pas
+remplies. Le recours doit en conséquence être rejeté. Vu l’effet suspensif accordé
+au recours, la faillite prendra effet à la date du présent arrêt.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Il n’y a pas lieu d’allouer de dépens de deuxième instance, l’intimée
+U.________ SA ne s’étant pas déterminée sur le recours.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de T.________ SA prenant effet au 3 décembre 2015 à
+16 h 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Basile Schwab, avocat, (pour T.________ SA),
+‑
+U.________ SA,
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
