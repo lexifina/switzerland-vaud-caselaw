@@ -1,0 +1,262 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___31"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 31"
+decided: "2015-12-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5347219"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2016 / 31
+
+## Regeste
+
+FRAIS DE LA PROCÉDURE | 426 al. 2 CPP (CH), 433 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.12.2015 Décision / 2016 / 31
+
+FRAIS DE LA PROCÉDURE | 426 al. 2 CPP (CH), 433 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+855
+PE14.025875-KBE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 décembre 2015
+__________________
+Composition
+:               M.
+M A I L L A R D, juge unique
+Greffier
+:              M
+Ritter
+*****
+Art.
+426 al. 2, 429, 433 CPP
+Statuant sur le recours interjeté le 17 septembre 2015 par
+H.________
+contre l’ordonnance de classement rendue le 4 septembre 2015 par le Ministère public de l’arrondissement
+de l’Est vaudois dans la cause
+n° PE14.025875-KBE
+,
+le juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+a) Le 10 décembre 2014, N.________ a déposé plainte pénale contre H.________. Elle
+lui reprochait d’avoir déposé une plainte pénale contre elle le 21 juin 2014 pour
+empoisonnement, respectivement pour tentative d’empoisonnement, alors même qu’il savait
+qu’elle était innocente et de l’avoir harcelée au moyen de nombreux SMS dans le
+dessein de l’amener à renouer avec lui (P. 4).
+D’office et ensuite de cette plainte, le Ministère public de l'arrondissement de l’Est
+vaudois a ouvert une instruction pénale contre H.________ pour utilisation abusive d'une installation
+de télécommunication et dénonciation calomnieuse.
+b) N.________ a retiré sa plainte le 25 juin 2015 (P. 14).
+B.
+Par ordonnance du 4 septembre 2015, le Ministère
+public a ordonné le classement de la procédure pénale dirigée contre H.________ pour
+utilisation abusive d'une installation de télécommunication et dénonciation calomnieuse
+(I), a alloué à N.________ une indemnité de 1'000 fr. (II) et a mis la moitié des
+frais de procédure, par 912 fr. 50, y compris l’indemnité due à N.________, à
+la charge de H.________, le solde restant à la charge de l’Etat (III).
+Quant au sort de l’action pénale, le Procureur a considéré que le retrait de plainte
+mettait fin à celle-ci pour ce qui était de l’infraction d’utilisation abusive
+d'une installation de télécommunication. S’agissant de l’infraction de dénonciation
+calomnieuse, il s’est référé à l’ordonnance de classement rendue le 10
+juin 2015 suite à la plainte du prévenu du 21 juin 2014 et en a déduit qu’aucun
+fait n’étayait les versions contradictoires des parties quant au poison qui aurait été
+administré au prévenu.
+S’agissant des effets accessoires du classement, le Procureur a estimé qu’en faisant
+un usage abusif d'une installation de télécommunication, le prévenu avait eu un comportement
+illicite et fautif qui avait donné lieu à l’ouverture de l’action pénale,
+ce qui justifiait la mise à sa charge de la moitié des frais de procédure et de la moitié
+de l’indemnité allouée à la plaignante pour les dépenses occasionnées
+par l'exercice raisonnable de ses droits de procédure.
+C.
+Par acte du 17 septembre 2015, H.________ a recouru
+contre cette ordonnance, en concluant implicitement à la modification du chiffre III de son dispositif
+en ce sens qu’aucun frais de procédure ou indemnité n’est mis à sa charge.
+Dans ses déterminations du 15 décembre 2015, N.________, intimée au recours, a conclu,
+sous suite de frais et dépens, principalement à l’irrecevabilité du recours, subsidiairement
+à son rejet.
+Le Procureur a renoncé à procéder.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la
+Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du 19 mai
+2009 d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi
+vaudoise du 12 décembre 1979 d’organisation judiciaire; RSV 173.01]).
+Interjeté dans le délai légal, auprès de l’autorité compétente, par
+une partie (partiellement) astreinte au paiement des frais qui a donc la qualité pour recourir (art.
+382 al. 1 CPP), et satisfaisant aux conditions de forme posées par la loi (art. 385 al. 1 CPP),
+le recours est recevable.
+1.2
+Le recours porte uniquement sur les frais mis
+à la charge du recourant, par 912 fr. 50, y compris la moitié de l’indemnité
+due en faveur de l’intimée. Il s’agit de conséquences économiques accessoires
+de la décision (cf. Stephenson/Thiriet,
+in
+:
+Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozess-ordnung, Jugendstrafprozessordnung,
+2
+e
+éd., Bâle 2014, n. 5 ad art. 395 CPP; Juge unique CREP 23 octobre 2013/643). Dès lors,
+l’art. 395 al. 1 let. b CPP entre en considération. La valeur litigieuse n’excédant
+en l’occurrence pas 5'000 fr., le recours relève de la compétence d’un juge unique
+de la Chambre des recours pénale (cf. art. 395 al. 1 let. b CPP et art. 13 al. 2 LVCPP; cf., not.,
+Juge unique CREP 30 juillet 2015/509 consid. 1.2).
+2
+2.1
+L'art. 423 CPP prévoit que les frais de procédure sont mis à la charge de la Confédération
+ou du canton qui a conduit la procédure, sauf disposition contraire. Selon l'art. 426 al. 2 CPP,
+lorsque la procédure fait l'objet d'une ordonnance de classement ou que le prévenu est acquitté,
+tout ou partie des frais de procédure peuvent être mis à sa charge s'il a, de manière
+illicite et fautive, provoqué l'ouverture de la procédure ou rendu plus difficile la conduite
+de celle-ci.
+Selon la jurisprudence, la condamnation d'un prévenu acquitté à supporter tout ou partie
+des frais doit respecter la présomption d'innocence, consacrée par les art. 32 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999; RS 101) et 6 par. 2 CEDH (Convention
+du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales; RS 0.101).
+Celle-ci interdit de rendre une décision défavorable au prévenu libéré en laissant
+entendre que ce dernier serait néanmoins coupable des infractions qui lui étaient reprochées.
+Une condamnation aux frais n'est ainsi admissible que si le prévenu a provoqué l'ouverture
+de la procédure pénale dirigée contre lui ou s'il en a entravé le cours. A cet égard,
+seul un comportement fautif et contraire à une règle juridique, qui soit en relation de causalité
+avec les frais imputés, entre en ligne de compte (ATF 119 Ia 332 consid. 1b; ATF 116 Ia 162).
+Pour déterminer si le comportement en cause est propre à justifier l'imputation des frais,
+le juge peut prendre en considération toute norme de comportement écrite ou non écrite
+résultant de l'ordre juridique suisse pris dans son ensemble, dans le sens d'une application par
+analogie des principes découlant de l'art. 41 CO (Code des obligations [RS 220]; ATF 119 Ia 332
+consid. 1b; ATF 116 Ia 162 consid. 2c). Le fait reproché doit constituer une violation claire de
+la norme de comportement (ATF 119 Ia 332 consid. 1b; ATF 116 Ia 162 consid. 2d). L'acte répréhensible
+n'a pas à être commis intentionnellement. La négligence suffit, sans qu'il soit besoin
+qu'elle soit grossière (ATF 109 Ia 160 consid. 4a). L'acte répréhensible doit en outre
+se trouver dans une relation de causalité adéquate avec l'ouverture de l'enquête ou les
+obstacles mis à celle-ci (ATF 116 Ia 162 consid. 2c).
+La condamnation d'un prévenu acquitté à supporter tout ou partie des frais peut en principe
+se fonder sur l'art. 28 CC (Code civil; RS 210) (TF 6B_832/2014 du 24 avril 2015 consid. 1.3; TF
+6B_150/2014 du 23 septembre 2014 consid. 1.2). Selon cette disposition, celui qui subit une atteinte
+illicite à sa personnalité peut agir en justice pour sa protection contre toute personne qui
+y participe (al. 1). Une atteinte est illicite, à moins qu'elle ne soit justifiée par le consentement
+de la victime, par un intérêt prépondérant privé ou public ou par la loi (al.
+2).
+2.2
+En l'espèce, le Procureur a considéré
+qu’il convenait de mettre la moitié des frais de procédure à la charge du prévenu,
+dès lors qu'il avait provoqué l'ouverture de l'instruction par son comportement illicite et
+fautif.
+L’appréciation du Procureur doit être suivie. En effet, le prévenu a manifestement
+importuné la plaignante en particulier par un nombre considérable de SMS à contenu polémique
+récurrent. Il lui a ainsi adressé pas moins de 73 messages entre le 18 et le 23 octobre 2014
+(P. 5/2) pour l’appeler à renouer contact avec lui en dépit du refus réitéré
+de l’intéressée. Il a repris ses assiduités en décembre 2014 par l’envoi
+de plusieurs messages sur la boîte vocale de la plaignante durant la seule journée du 5 (P.
+11) et d’une douzaine d’autres messages du 8 au 15 du mois (P. 9/2). Dans leur majorité,
+ces communications ont un contenu vainement polémique, même si une minorité concerne les
+modalités du divorce des parties. Un tel comportement constitue une atteinte illicite à la
+personnalité de la plaignante au sens de l’art. 28 CC. Il s’ensuit que le recourant
+a, de manière illicite et fautive, provoqué l'ouverture de la procédure au sens de l’art.
+426 al. 2 CPP. La mise à sa charge d’une partie des frais de procédure se justifie dès
+lors en application de cette disposition. La proportion retenue apparaît adéquate, sinon même
+favorable au recourant.
+3.
+3.1
+Aux termes de l’art. 433 al. 1 CPP, la partie
+plaignante peut demander au prévenu une juste indemnité pour les dépenses obligatoires
+occasionnées par la procédure lorsqu’elle obtient gain de cause (let. a) ou si le prévenu
+est astreint au paiement des frais conformément à l’art. 426 al. 2 CPP (let. b). Les
+hypothèses envisagées à l’art. 433 al. 1 CPP sont alternatives (Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, Bâle 2013, n. 2 ad art. 433 CPP). La partie
+plaignante a obtenu gain de cause au sens de l’art. 433 al. 1 let. a CPP lorsque le prévenu
+a été condamné et/ou si les prétentions civiles ont été admises (Mizel/
+Rétornaz,
+in
+: Kuhn/Jeanneret, [éd], [éd], Commentaire romand, Code de procédure pénale suisse,
+Bâle 2011, n. 2 ad. art. 433 CPP).
+La juste indemnité, notion qui laisse un large pouvoir d’appréciation au juge, couvre
+les dépenses et les frais nécessaires pour faire valoir le point de vue de la partie plaignante,
+à l’exclusion de toutes démarches inutiles ou superflues
+(TF
+6B_965/2013 du 3 décembre 2013 consid. 3.1.1; TF 6B_159/2012 du 22 juin 2012 consid. 2.2 et les
+références citées). Il s'agit en premier lieu des frais d'avocat de la partie plaignante.
+En d’autres termes, les démarches doivent apparaître nécessaires et adéquates
+pour la défense du point de vue de la partie plaignante raisonnable (TF 6B_495/2014 du 6 octobre
+2014 consid. 2.1 et les références citées).
+3.2
+En l’espèce, le procureur fait référence
+à l’art. 429 CPP lequel ne saurait toutefois justifier l’octroi d’une indemnité
+à la partie plaignante. Il n’en demeure pas moins que le recourant a été astreint
+au paiement des frais conformément à l’art. 426 al. 2 CPP. L’hypothèse prévue
+à l’art. 433 al. 1 let. b CPP est ainsi réalisée. C’est donc à juste
+titre que le procureur a mis une partie de l’indemnité allouée à la partie plaignante
+à la charge du recourant qui ne conteste par ailleurs pas le montant de l’indemnité fixée.
+4.
+Il résulte de ce qui précède que le recours doit être rejeté et le chiffre III
+du dispositif de l'ordonnance de classement du 4 septembre 2015 confirmé.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d’arrêt (art. 422 al. 1 CPP), par 630 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Enfin, l’intimée, qui obtient entièrement gain de cause en ayant procédé avec
+l'assistance d'un mandataire professionnel conseil de choix, a droit à une indemnité pour les
+dépenses occasionnées par l'exercice raisonnable de ses droits dans la présente procédure
+de recours (art. 433 al. 1 CPP), dès lors qu’elle a chiffré et justifié ses prétentions
+conformément à l’art. 433 al. 2 CPP. Le montant de cette indemnité sera fixé
+à 330 fr. 50 pour toutes choses (une heure à 300 fr., plus 6 fr. de débours et un montant
+de 24 fr. 50 correspondant à la TVA; art. 26a al. 3 TFIP). Cette indemnité sera mise à
+la charge du recourant.
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le chiffre III du dispositif de l'ordonnance du 4 septembre 2015 est confirmé.
+III.
+L’ordonnance est maintenue pour le surplus.
+IV.
+Un
+montant de 330 fr. 50 (trois cent trente francs et cinquante centimes) est alloué à N.________
+à titre d’indemnité au sens de l’art. 433 CPP, pour la procédure de recours,
+à la charge de H.________.
+V.
+Les frais d'arrêt, par 630 fr. (six cent
+trente francs), sont mis à la charge du recourant.
+VI.
+Le présent arrêt est exécutoire.
+Le
+juge unique :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jérôme Magnin, avocat (pour N.________),
+-
+M. H.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
