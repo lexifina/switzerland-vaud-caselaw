@@ -1,0 +1,199 @@
+---
+decision_id: "vd_findinfo_Faillite___2015___28"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2015 / 28"
+decided: "2015-12-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5290079"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2015 / 28
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.12.2015 Faillite / 2015 / 28
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF15.031039-151502
+301
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 décembre 2015
+______________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+174 al. 2 LP
+Vu le jugement rendu le 7 septembre 2015, à la suite de l’audience du même jour, par
+la Présidente du Tribunal d’arrondissement de La Côte, prononçant la faillite de
+R.________
+SA
+, à [...], le 7 septembre 2015 à 12
+heures, à la réquisition de
+Banque
+V.________
+, à [...], et mettant les frais
+judiciaires, fixés à 200 fr. à la charge de la faillie,
+vu le recours, accompagné de pièces nouvelles, déposé le 12 septembre 2015 par
+R.________ SA et concluant à l’annulation du jugement de faillite,
+vu la décision de la présidente de la cour de céans du 22 septembre 2015 accordant d’office
+l’effet suspensif au recours et ordonnant l’inventaire et l’audition de la faillie,
+vu l'extrait des registres de l'Office des poursuites du district de Lausanne du 15 septembre 2015 concernant
+la recourante, dont la production a été ordonnée d'office et qui a été transmis
+par courrier du 23 septembre 2015 à la recourante pour détermination éventuelle,
+vu les autres pièces du dossier ;
+attendu qu'en vertu de l'art. 174 al. 1 LP (loi sur la poursuite pour dettes et la faillite du 11 avril
+1889; RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un
+recours au sens du CPC (Code de procédure civile du 19 décembre 2008 ; RS 272),
+que, selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours,
+que toutefois, le principe selon lequel est réputé observé un délai si le mémoire
+a été adressé à l'autorité précédente doit être également
+appliqué dans la procédure de recours régie par le CPC (ATF 140 III 636),
+qu’en l’espèce, le recours, adressé à la Présidente du Tribunal d’arrondissement
+de La Côte le 12 septembre 2015, a été déposé en temps utile,
+que le recours respecte par ailleurs les formes requises, de sorte qu'il est recevable formellement,
+que la production de pièces nouvelles en deuxième instance est autorisée en matière
+de faillite pour faire valoir des faits nouveaux (nova) sous certaines conditions,
+que la loi différencie deux types de nova : ceux qui se sont produits avant le jugement de
+première instance (pseudo-nova – art. 174 al. 1, 2ème phrase LP) et ceux qui se sont
+produits après (vrais nova – art. 174 al. 2 LP ; TF 5A_899/2014 du 5 janvier 2015, consid.
+3.1 et les réf. citées),
+qu'il est possible de faire valoir les pseudo-nova sans aucune restriction devant l'instance de recours,
+pour autant que cela soit dans le délai de recours (ATF 139 III 491 consid. 4.4; TF 5A_899/2014
+précité),
+qu'en revanche, seul le débiteur peut apporter de vrais nova et il doit le faire dans le délai
+de motivation du recours ou en tout cas avant l'échéance du délai de recours (ibidem),
+qu'en l'espèce, les pièces produites par la faillie avec le recours (une lettre à l'office
+des faillites du 11 septembre 2015 et une copie d'une attestation de la Commission de police de Yaoundé,
+non datée) tendent à établir des faits antérieurs et postérieurs au jugement
+de faillite,
+que, vu la jurisprudence précitée, elles sont recevables ;
+attendu que, selon l'art. 171 LP, le juge saisi d'une réquisition de faillite doit prononcer celle-ci
+sauf dans les cas mentionnés aux art. 172 à 173a LP, notamment lorsque le débiteur justifie
+par titre que la créance a été acquittée en capital, intérêts et frais
+(art. 172 ch. 3 LP),
+qu’en l’espèce, la recourante ne prétend pas que les conditions de la faillite
+n’étaient pas remplies en première instance,
+que la dette n’ayant pas été acquittée au moment du jugement et les autres hypothèses
+visées par les art. 172 à 173a LP n’étant pas réalisées, c'est à
+bon droit que le premier juge a prononcé la faillite de la recourante ;
+attendu qu'en vertu de l'art. 174 al. 2 LP, l'autorité de recours peut annuler le jugement de faillite
+lorsque le débiteur rend vraisemblable sa solvabilité et qu'il établit par titre que la
+dette à l'origine de la faillite, intérêts et frais compris, a été payée
+(ch. 1), ou que la totalité du montant à rembourser a été déposée auprès
+de l'autorité de recours à l'intention du créancier (ch. 2), ou encore que celui-ci a
+retiré sa réquisition de faillite (ch. 3),
+que ces deux conditions, remboursement – ou dépôt ou retrait – et solvabilité,
+sont cumulatives (TF 5A_516/2015 du 3 septembre 2015, consid. 3.1 et les réf. citées),
+qu'ainsi, le débiteur ne doit pas seulement prouver le paiement de la dette à l'origine de
+la faillite, mais également rendre vraisemblable sa solvabilité (ibidem),
+que l'appréciation de la solvabilité repose sur une impression générale fondée
+sur les habitudes de paiement du failli (ibid.),
+que le débiteur doit établir qu'aucune requête de faillite dans une poursuite ordinaire,
+ou dans une poursuite pour effets de change, n'est pendante contre lui et qu'aucune poursuite exécutoire
+n'est en cours (ibid.),
+qu’en l’espèce, la recourante ne prétend ni n’établit s’être
+acquittée de la dette ayant donné lieu à la réquisition de faillite,
+que la première condition pour annuler la faillite n'est ainsi pas remplie,
+que la recourante ne prétend pas, ni a fortiori ne rend vraisemblable qu'elle serait solvable,
+qu’il ressort au contraire de l’extrait des poursuites la concernant qu'elle fait l’objet
+de dix-neuf poursuites en cours pour un montant de 39'218 fr. 30 ainsi que de deux actes de défaut
+de biens pour un montant total de 3'509 fr. 20,
+qu’elle ne paie plus ses impôts, ce qui démontre qu’elle n’assume plus ses
+charges courantes,
+que la seconde condition pour annuler la faillite en cause n’est pas non plus réalisée ;
+attendu que, pour seul motif de recours, la recourante prétend que la convocation à l'audience
+de faillite est tombée pendant que son administrateur, M.________, était à l'étranger,
+que ce dernier serait rentré de son séjour à l'étranger un dimanche et n'aurait pas
+pris connaissance de suite de son courrier,
+que la recourante ne précise cependant pas quand son représentant a reçu la convocation,
+ni du reste quand celui-ci a séjourné à l'étranger,
+que, quoi qu'il en soit, il ressort des pièces au dossier que le représentant de la recourante
+a reçu un avis de la poste le 24 juillet 2015,
+que le délai de garde a été prolongé par le destinataire, apparemment le 25 juillet
+2015,
+que, le 19 août 2015, le pli contenant la convocation a été distribué à M.________,
+que l'audience étant fixée au 7 septembre 2015, la recourante disposait du temps nécessaire
+pour prendre connaissance du dossier et produire des preuves, et ce même sans appliquer la fiction
+de notification,
+qu'on ne voit ainsi pas en quoi le droit d'être entendu de la recourante, tel qu'il est garanti
+par l'art. 29 al. 2 Cst. (Constitution fédérale ; RS 101), pourrait avoir été violé
+(cf. ATF 140 I 285 consid. 6.3.1 ; ATF 139 II 489 consid. 3.3),
+que la recourante ne fait au demeurant pas expressément valoir que tel aurait été le cas,
+qu'en outre, elle n'allègue pas ni n'établit que son représentant était à l'étranger
+du 19 août au 7 septembre 2015, ni, a fortiori, qu'il était dans l'incapacité de demander
+un renvoi d'audience,
+que la recourante ne sollicite pas non plus de restitution de délai ;
+attendu qu’en définitive, le recours, manifestement mal fondé au sens de l’art.
+322 al. 1 CPC, doit être rejeté et le prononcé confirmé, la faillite prenant effet
+à la date du présent arrêt, vu l’effet suspensif accordé au recours,
+que, vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à
+300 fr., doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de R.________ SA prenant effet le  23 décembre
+2015 à 16 h 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+R.________ SA,
+‑
+Banque V.________,
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Nyon,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+Le greffier :
