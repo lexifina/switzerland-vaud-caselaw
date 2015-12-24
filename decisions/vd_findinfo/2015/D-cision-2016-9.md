@@ -1,0 +1,248 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 9"
+decided: "2015-12-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5317228"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-265.md"]
+---
+
+# VD Findinfo Décision / 2016 / 9
+
+## Regeste
+
+RÉCUSATION, MAGISTRAT | 56 CPP (CH), 56 let. f CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.12.2015 Décision / 2016 / 9
+
+RÉCUSATION, MAGISTRAT | 56 CPP (CH), 56 let. f CPP (CH)
+
+TRIBUNAL
+CANTONAL
+870
+PE14.021198-CPU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 24 décembre 2015
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Molango
+*****
+Art.
+56 let. f CPP
+Statuant sur la demande de récusation déposée le 10 décembre 2015 par
+N.________
+à l'encontre de B.________, Présidente du Tribunal de police de l’arrondissement de l’Est
+vaudois, dans la cause
+n° PE14.021198-CPU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 14 octobre 2014, le Ministère public de l’arrondissement de l’Est vaudois a décidé
+d’ouvrir une instruction pénale notamment contre N.________ pour vol. En substance, il est
+reproché à cette dernière de s’être emparée du chat dénommé
+«  [...] » qu’elle aurait donné au plaignant, S.________, ainsi que d’un
+stylo Caran d’Ache appartenant à ce dernier.
+Le 12 février 2015, l’instruction a été étendue contre la prénommée
+pour dénonciation calomnieuse.
+b)
+Dans le cadre de son enquête, le Ministère public a, par ordonnance du 19 décembre 2014,
+ordonné le séquestre du chat «  [...] », celui-ci devant demeurer en Suisse
+en possession de la prévenue.
+c)
+Le 22 mai 2015, l’accusation a été engagée contre N.________ devant le Tribunal
+de police de l’arrondissement de l’Est vaudois pour les faits précités.
+d)
+Dans le cadre de la procédure de première instance, S.________ a présenté plusieurs
+réquisitions de preuves. En particulier, il a requis la production de divers documents relatifs
+à la situation financière de la prévenue, requête à laquelle la Présidente
+B.________ a accédé (P. 33 et 35).
+Invoquant un séjour à l’étranger, par courrier du 14 octobre 2015, N.________ a
+demandé la prolongation du délai imparti pour produire les documents précités (P.
+38).
+Le 16 novembre 2015, sur demande de la partie adverse, la Présidente a également ordonné
+la production par la prévenue de tout document attestant la présence du chat «  [...] »
+en Suisse ainsi que de toute pièce prouvant son voyage à l’étranger (P. 40, 41 et
+43).
+S.________ ayant maintenu sa réquisition, le 23 novembre 2015, la Présidente a renouvelé
+son injonction (P. 43 et 44).
+Par écriture du même jour, N.________ a requis la protection de sa personnalité et de
+sa vie privée, faisant valoir qu’elle n’avait pas à justifier tous ses déplacements
+et leur fréquence, les requêtes du plaignant étant au demeurant selon elle purement chicanières
+(P. 45).
+Par avis du 27 novembre 2015, la prénommée a été informée du maintien de l’ordonnance
+de production de pièces (P. 47).
+Le même jour, N.________ a produit divers documents relatifs à sa situation financière
+et a donné quelques indications quant à la situation du chat «  [...] »
+(P. 49).
+Le 30 novembre 2015, considérant que les explications complémentaires de la prévenue étaient
+insuffisantes, la Présidente a décidé de maintenir son ordonnance de production de pièces
+(P. 51).
+Le 3 décembre 2015, N.________ a produit divers documents tendant à établir la présence
+de l’animal en Suisse. Le lendemain, elle a une nouvelle fois prié la Présidente de protéger
+sa personnalité (P. 54 et 55).
+e)
+Par avis du 8 décembre 2015, la Présidente a réitéré l’ordre de production
+de pièces pour l’ensemble des pièces requises, en l’assortissant cette fois-ci
+de la menace de sanction pénale prévue à l’art. 292 CP, et a invité la prévenue
+à lui indiquer si elle avait fait un séjour à l’étranger entre octobre et novembre
+2015 et où se trouvait le chat «  [...] » à cette période (P. 57).
+B.
+a)
+Par acte du 10 décembre 2015 adressé
+à la Chambre des recours pénale du Tribunal cantonal, N.________ a requis la récusation
+de la Présidente B.________.
+Invitée à prendre position sur la demande de récusation, par courrier du 14 décembre
+2015, la magistrate prénommée s’en est remise à justice.
+Le 15 décembre 2015,
+S.________ a déposé spontanément des déterminations.
+b)
+Le 22 décembre 2015, S.________ a demandé le séquestre du chat «  [...] »
+en ses mains jusqu’à droit connu sur sa plainte pénale.
+Par prononcé du 23 décembre 2015, la Présidente du Tribunal de police de l’arrondissement
+de l’Est vaudois a notamment rejeté cette requête.
+En droit
+:
+1.
+Aux termes de l'art. 59 al. 1 let. b CPP (Code de procédure pénale suisse du 5 octobre 2007;
+RS 312.0), lorsqu’un motif de récusation au sens de l’art. 56 let. a ou f CPP est invoqué
+ou qu’une personne exerçant une fonction au sein d’une autorité pénale s’oppose
+à la demande de récusation d’une partie qui se fonde sur l’un des motifs énumérés
+à l’art. 56 let. b à e CPP, le litige est tranché sans administration supplémentaire
+de preuves et définitivement par l’autorité de recours, lorsque le ministère public,
+les autorités pénales compétentes en matière de contraventions et les tribunaux de
+première instance sont concernés.
+En l'espèce, la Chambre des recours pénale du Tribunal cantonal est compétente pour statuer
+sur la demande de récusation présentée par N.________ à l’encontre de la Présidente
+B.________ (art. 13 LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure
+pénale suisse; RSV 312.01]).
+2.
+2.1
+La requérante invoque tout d’abord une violation, par la Présidente B.________, de son
+droit de refuser de collaborer prévu aux art. 113 et 265 CPP; à cet égard, elle soutient
+que dans la mesure où le prévenu n’est pas soumis à l’obligation de dépôt
+en vertu de l’art. 265 al. 2 CPP, l’ordre réitéré de production de pièces,
+même assorti de la menace de l’art. 292 CP, serait dénué de fondement juridique.
+Les décisions litigieuses dénoteraient ainsi une marque d’hostilité et de mépris
+de sa personnalité ainsi que de sa vie privée de la part de la Présidente, qui laisseraient
+apparaître un préjugé de la cause en sa défaveur. Enfin, la requérante fait
+valoir que l’ordre de production de pièces litigieux serait illicite non seulement en raison
+de la menace légale dont il est assorti, mais également du fait que les moyens de preuve requis
+ne seraient pas pertinents selon l’art. 139 CPP.
+2.2
+L'art. 56 let. a à f CPP énonce divers motifs de récusation qualifiés à l'égard
+de toute personne exerçant une fonction au sein d’une autorité pénale; pour sa part,
+sa lettre f impose la récusation du fonctionnaire ou magistrat concerné « lorsque
+d'autres motifs, notamment un rapport d'amitié étroit ou d'inimitié avec une partie ou
+son conseil, sont de nature à le rendre suspect de prévention ». L'art. 56 let. f
+CPP a la portée d'une clause générale recouvrant tous les motifs de récusation non
+expressément prévus aux lettres précédentes (TF 1B_202/2013 du 23 juillet 2013 consid.
+2.1.2; TF 6B_621/2011 du 19 décembre 2011 consid. 2.2).
+La garantie d'un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999; RS 101) et 6
+par. 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales; RS 0.101) permet d'exiger la récusation d'un juge dont la situation ou le comportement
+est de nature à faire naître un doute sur son impartialité (TF 1B_629/2011 précité
+consid. 2.1 et la référence citée; ATF 126 I 68 consid. 3a). La récusation ne
+s'impose pas seulement lorsqu'une prévention effective du magistrat est établie, car une disposition
+interne de sa part ne peut guère être prouvée. Il suffit que les circonstances donnent
+l'apparence de la prévention et fassent redouter une activité partiale du magistrat. Seules
+les circonstances constatées objectivement doivent être prises en considération; les impressions
+purement individuelles d'une des parties au procès ne sont pas décisives (ATF 136 III
+605 consid. 3.2.1; ATF 134 I 20 consid. 4.2; TF 1B_105/2013 du 21 mai 2013 consid. 2.1).
+Même si elles sont établies, des erreurs de procédure ou d'appréciation commises
+par un magistrat ne suffisent pas à fonder objectivement un soupçon de prévention; seules
+des erreurs particulièrement lourdes ou répétées, constitutives de violations graves
+des devoirs du magistrat, peuvent fonder une suspicion de partialité, pour autant que les circonstances
+dénotent que le juge est prévenu ou justifient à tout le moins objectivement l'apparence
+de prévention (ATF 141 IV 178 consid. 3.2.3; ATF 138 IV 142 consid. 2.3; ATF 116 Ia 135 consid.
+3a;). En effet, la fonction judiciaire oblige à se déterminer rapidement sur des éléments
+souvent contestés et délicats. Il appartient en outre aux juridictions de recours normalement
+compétentes de constater et de redresser les erreurs éventuellement commises dans ce cadre.
+La procédure de récusation n'a donc pas pour objet de permettre aux parties de contester la
+manière dont est menée l'instruction et de remettre en cause les différentes décisions
+incidentes prises par la direction de la procédure (ATF
+138
+IV 142 consid. 2.3; ATF 116 Ia 135 consid. 3a; ATF 114 Ia 153 consid. 3b/bb; ATF 111 Ia 259 consid. 3b/aa
+et les références citées). En particulier, n'emportent pas prévention une décision
+défavorable à une partie (TF 1B_365/2009 du 22 mars 2010 consid. 3.3) ou un refus d'administrer
+une preuve (ATF 116 Ia 135; Verniory, in: Kuhn/Jeanneret (éd.), Code de procédure pénale
+suisse, Commentaire romand, Bâle 2011, n. 35 ad art. 56 CPP, p. 196).
+2.3
+En l’espèce, le comportement de la
+Présidente B.________ dénoncé par la requérante est certes discutable. Cela étant,
+conformément à la jurisprudence précitée, seule une faute de procédure ou d’appréciation
+grave peut fonder une suspicion de partialité. Or, la contrainte exercée par cette magistrate
+– certes en violation du droit fondamental du prévenu de ne pas collaborer à la procédure,
+en particulier de ne pas produire de pièces (art. 113 et 265 al. 2 CPP) – ne constitue pas
+encore une erreur particulièrement lourde laissant apparaître une prévention de sa part
+ou un préjugé défavorable à l’égard de la défense. Au demeurant,
+l’injonction comminatoire de l’art. 292 CP, bien qu’injustifiée, pouvait être
+attaquée par la voie du recours, dès lors qu’elle était susceptible de causer un
+préjudice irréparable à la requérante. Pour le reste, la question de la pertinence
+de l’ordre de production de pièces selon l’art. 139 CPP ne constitue pas un motif pertinent
+pour mettre en doute l’impartialité de la magistrate.
+Par conséquent, en l'absence de fautes graves de la Présidente B.________ et de tout autre
+motif permettant d'admettre que cette dernière aurait fait preuve de partialité envers la défense,
+il y a lieu de retenir que les conditions d’une récusation ne sont pas réalisées.
+3.
+Sur le vu de ce qui précède, la demande de récusation présentée par N.________
+à l'encontre de la Présidente B.________ doit être rejetée.
+Les frais de la procédure, constitués en l’espèce du seul émolument de décision,
+par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge de la requérante,
+qui succombe (art. 59 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation est rejetée.
+II.
+Les frais de la présente décision, par 770 fr. (sept cent septante francs), sont mis à
+la charge de N.________.
+III.
+La présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Cornelia Seeger Tappy, avocate (pour N.________),
+-
+Ministère public central,
+et communiquée à :
+-
+Me Julie Laurenczy, avocate (pour S.________),
+-
+Mme la Présidente du Tribunal de police de l’arrondissement de l’Est vaudois,
+-
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
