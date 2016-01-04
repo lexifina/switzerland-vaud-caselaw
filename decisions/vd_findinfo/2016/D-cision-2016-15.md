@@ -1,0 +1,168 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 15"
+decided: "2016-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5315902"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-422.md"]
+---
+
+# VD Findinfo Décision / 2016 / 15
+
+## Regeste
+
+RESTITUTION DU DÉLAI, AVANCE DE FRAIS | 94 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.01.2016 Décision / 2016 / 15
+
+RESTITUTION DU DÉLAI, AVANCE DE FRAIS | 94 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+18
+PE15.016030-NPE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+94 al. 1 CPP
+Statuant sur la requête en restitution du délai de recours déposée par
+A.________
+dans la cause
+n° PE15.016030-NPE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 8 août 2015, A.________ a déposé plainte pénale contre ses voisins et contre des
+policiers, leur reprochant d’avoir maltraité ses chats et ses lapins.
+B.
+a)
+Par
+ordonnance du 19 août 2015, le Ministère public de l’arrondissement de l’Est vaudois
+a refusé d’entrer en matière (I) et a laissé les frais de cette décision à
+la charge de l’Etat (II).
+Par acte du 28 août 2015, confirmé par courrier du 6 septembre 2015, A.________ a recouru auprès
+de la Chambre des recours pénale contre cette ordonnance.
+Par avis du 10 septembre 2015, la direction de la procédure a imparti à la recourante un délai
+au 30 septembre 2015 pour effectuer un dépôt de 550 fr. à titre de sûretés,
+avec l'indication qu'à défaut de paiement des sûretés en temps utile, il ne serait
+pas entré en matière sur son recours.
+Ce pli recommandé est revenu en retour avec la mention « non réclamé ».
+b)
+Par
+arrêt du 2 novembre 2015/681, la Cour de céans a déclaré irrecevable le recours déposé
+par A.________. Elle a en effet considéré que le pli du 10 septembre 2015 était réputé
+avoir été notifié à l’issue du délai de garde de sept jours à compter
+de sa remise infructueuse. La recourante devait s’attendre à recevoir, à l’adresse
+indiquée dans son recours, des communications de l’autorité en rapport avec l’affaire
+en cours (cf. art. 85 al. 4 let. a CPP). Or la recourante n’avait pas fourni les sûretés
+requises dans le délai imparti, ni n’avait demandé de prolongation ou de restitution
+du délai.
+c)
+A.________
+a recouru auprès du Tribunal fédéral contre cet arrêt. Par arrêt du 14 décembre
+2015, la Cour de droit pénal du Tribunal fédéral a déclaré ce recours irrecevable.
+Elle a considéré que les exigences minimales de motivation en cas de recours n’étaient
+pas respectées et que la démarche de la recourante s’apparentait à une demande de
+restitution de délai au sens de l’art. 94 CPP. Or une telle demande ne pouvait être présentée
+pour la première fois devant le Tribunal fédéral, faute d’épuisement des instances
+cantonales, étant précisé que la recourante n’indiquait pas, ni n’établissait
+que les conditions posées par l’art. 94 al. 2 2
+e
+phrase CPP étaient réalisées.
+d)
+Par lettre adressée le 21 décembre
+2015 à la Cour de céans, A.________ a demandé que son dossier soit repris, afin qu’elle
+puisse effectuer un dépôt de 550 fr. à titre de sûretés. Elle a précisé
+qu’elle n’avait pas reçu l’avis du 10 septembre 2015.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 94 al. 1 CPP (Code de procédure
+pénale suisse du 5 octobre 2007, RS 312.0), une partie peut demander la restitution du délai
+si elle a été empêchée de l'observer et qu'elle est de ce fait exposée à
+un préjudice important et irréparable; elle doit toutefois rendre vraisemblable que le défaut
+n'est imputable à aucune faute de sa part.
+Cette disposition subordonne donc la restitution de délai à trois conditions, à savoir
+que la partie qui requiert la restitution ait été empêchée d'observer le délai
+en question (I), qu'elle s'expose de ce fait à un préjudice important et irréparable (II)
+et qu'elle rende vraisemblable que l'empêchement n'est pas de sa faute (III) (Stoll, in : Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 5 ad art.
+94 CPP).
+Selon la jurisprudence et la doctrine, on entend par empêchement non fautif toute circonstance qui
+aurait empêché une partie consciencieuse d’agir dans le délai fixé. Il s’agit
+non seulement de l’impossibilité objective, comme la force majeure, mais aussi de l’impossibilité
+subjective due à des circonstances personnelles ou à l’erreur. Suivant les circonstances,
+une maladie grave ou un accident pourra constituer une cause légitime d’empêchement (Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, Bâle 2013, nn. 5 ss ad art. 94 CPP et les
+références citées; CREP 17 mars 2014/204 consid. 3b).
+1.2
+En l’espèce, comme déjà indiqué
+dans l’arrêt du 2 novembre 2015/681 de la Cour de céans, A.________ est réputée
+avoir reçu l’avis du 10 septembre 2015 lui impartissant un délai pour effectuer un dépôt
+de 550 fr. à titre de sûretés, puisque cet avis, envoyé à son adresse, n’a
+pas été retiré dans le délai de garde. La requérante ne démontre nullement
+avoir été empêchée, sans sa faute, d’observer ce délai, se bornant à
+dire que l’avis du 10 septembre 2015 ne lui est jamais arrivé. Il s’ensuit qu’A.________
+ne peut se prévaloir d’aucun empêchement non fautif au sens de l'art. 94 al. 1 CPP.
+2.
+Il résulte de ce qui précède que
+la demande de restitution de délai doit être rejetée.
+Les frais de procédure, constitués en l’espèce du seul émolument de décision
+(art. 422 al. 1 CPP), par 440 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront exceptionnellement laissés
+à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de restitution de délai est rejetée.
+II.
+Les frais de la présente décision, par 440 fr. (quatre cent quarante francs), sont laissés
+à la charge de l’Etat.
+III.
+La présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Mme A.________,
+-
+Ministère public central ;
+et communiquée à :
+‑
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
