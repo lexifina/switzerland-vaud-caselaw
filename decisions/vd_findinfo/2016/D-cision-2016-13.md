@@ -1,0 +1,147 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 13"
+decided: "2016-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5311222"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 13
+
+## Regeste
+
+DÉLAI DE RECOURS | 396 al. 1 CPP (CH), 90 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.01.2016 Décision / 2016 / 13
+
+DÉLAI DE RECOURS | 396 al. 1 CPP (CH), 90 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+2
+PE15.005790-SOO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Maillard, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+90, 396 al. 1 CPP
+Statuant sur le recours interjeté le 17 novembre 2015 par l’
+ASSOCIATION
+Z.________
+contre l’ordonnance de non-entrée
+en matière rendue le 3 novembre 2015 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE15.005790-SOO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 18 mars 2015, l’Association Z.________ (ci-après : Z.________) a déposé
+plainte pénale contre la société L.________ (ci-après : L.________) pour délit
+contre la LCD (Loi fédérale contre la concurrence déloyale du 19 décembre 1986 ;
+RS 241), lui reprochant en substance d’avoir usé de méthodes déloyales et illicites
+de publicité dans le cadre de sa nouvelle campagne publicitaire.
+B.
+Par ordonnance du 3 novembre 2015, considérant
+que l’Association Z.________ n’avait pas la qualité pour déposer plainte pénale,
+le Ministère public de l’arrondissement de Lausanne a refusé d’entrer en matière
+(I) et a laissé les frais de cette ordonnance à la charge de l’Etat (II).
+C.
+Par acte daté du 16 novembre 2015, remis
+à la poste le 17 novembre 2015 (selon le sceau postal de l’enveloppe l’ayant contenu),
+l’Association Z.________ a recouru auprès de la Chambre des recours pénale contre cette
+ordonnance, en concluant avec suite de frais et dépens à son annulation, étant constaté
+que la société L.________ a vi
+olé
+les règles de la loyauté en matière de publicité, subsidiairement le dossier de la
+cause étant renvoyé au Ministère public pour nouvelle décision dans le sens des considérants.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public en application de l’art. 310
+CPP dans les dix jours devant l’autorité de recours (art. 322 al. 2 CPP, applicable par renvoi
+de l’art. 310 al. 2 CPP, et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est dans le
+canton de Vaud la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise
+d’introduction du Code de procédure pénale suisse ; RSV 312.01] ; art. 80 LOJV
+[loi vaudoise d’organisation judiciaire ; RSV 173.01]).
+1.2
+Le délai de recours de dix jours –
+qui ne peut être prolongé (art. 89 al. 1 CPP) – commence à courir le jour qui suit
+la notification de l’ordonnance entreprise (art. 90 al. 1 et 384 let. b CPP; Calame, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 3 ad art.
+384 CPP). Si le dernier jour du délai est un samedi, un dimanche ou un jour férié selon
+le droit fédéral ou cantonal, le délai expire le premier jour ouvrable qui suit (art.
+90 al. 2 CPP). Le recours doit être remis au plus tard le dernier jour du délai à
+l’autorité pénale, à la Poste suisse, à une représentation consulaire
+ou diplomatique suisse ou, s’agissant de personnes détenues, à la direction de l’établissement
+carcéral (art. 91 al. 2 CPP).
+1.3
+En l’espèce, l’ordonnance attaquée
+a été notifiée à la recourante, selon ses dires, le 4 novembre 2015 (cf. recours,
+ch. I). Le délai de dix jours pour former recours au sens de l’art. 396 al. 1 CPP
+a donc commencé à courir le lendemain, soit le 5 novembre 2015, et a expiré le samedi
+14 novembre 2015, terme reporté d’office au premier jour utile suivant, soit au lundi 16 novembre
+2015 (art. 90 al. 2 CPP). Ainsi, force est de constater que l’acte de recours, remis à la
+poste le 17 novembre 2015 (selon le sceau postal de l’enveloppe l’ayant contenu), a été
+déposé tardivement.
+2.
+Il résulte de ce qui précède que le recours doit être déclaré irrecevable,
+sans autre échange d’écritures (art. 390 al. 2 CPP).
+Les frais de la procédure de recours, constitués du seul émolument d'arrêt, par 330
+fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010, RSV 312.03.1]), seront mis à la charge de la recourante, qui succombe (art.
+428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 330 fr. (trois cent trente francs), sont mis à la charge de la
+recourante.
+III.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Association Z.________,
+-
+Ministère public central ;
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
