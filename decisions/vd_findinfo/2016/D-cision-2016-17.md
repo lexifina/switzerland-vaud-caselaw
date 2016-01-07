@@ -1,0 +1,215 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 17"
+decided: "2016-01-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5321123"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 17
+
+## Regeste
+
+OPPOSITION TARDIVE | 352 CPP (CH), 393 al. 1 let. b CPP (CH), 85 CPP (CH), 90 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 07.01.2016 Décision / 2016 / 17
+
+OPPOSITION TARDIVE | 352 CPP (CH), 393 al. 1 let. b CPP (CH), 85 CPP (CH), 90 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+15
+PE15.018756-TDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+7 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Perrot et Maillard, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+85, 91, 352 ss et 393 ss CPP
+Statuant sur le recours interjeté le 14 décembre 2015 par
+W.________
+contre le prononcé rendu le 7 décembre 2015 par le Tribunal de police de l’arrondissement
+de Lausanne dans la cause
+n° PE15.018756-TDE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par ordonnance pénale du 2 novembre 2015, le Ministère public de l’arrondissement de
+Lausanne a condamné W.________ à 80 jours de peine privative de liberté et à une
+amende de 400 fr., peine convertible en 4 jours de peine privative de liberté de substitution en
+cas de non-paiement dans le délai qui serait imparti, pour violation simple des règles de la
+circulation routière, conduite en état d’incapacité de conduire, conduite d’un
+véhicule défectueux et conduite d’un véhicule automobile malgré le refus, le
+retrait ou l’interdiction de l’usage du permis.
+Cette ordonnance a été adressée à W.________ le même jour, par pli recommandé.
+Selon l’extrait de suivi des envois de la Poste suisse, le pli a été distribué le
+3 novembre 2015 (cf. P. 7).
+B.
+a)
+Par
+courrier du 15 novembre 2015, remis à la poste le 16 novembre 2015, W.________ a fait opposition
+à cette ordonnance pénale (P. 6).
+Par avis du 24 novembre 2015, le Ministère public a informé W.________ que son opposition devait
+être considérée comme tardive et lui a imparti un délai de cinq jours pour indiquer
+s’il entendait maintenir son opposition (P. 8).
+b)
+W.________
+ayant déclaré maintenir son opposition (P. 9), le Ministère public a transmis le courrier
+au Tribunal de police de l’arrondissement de Lausanne (P. 10).
+c)
+Par prononcé du 7 décembre 2015,
+considérant que l'opposition était manifestement tardive, le Tribunal de police de l’arrondissement
+de Lausanne a déclaré celle-ci irrecevable (I), a dit que l'ordonnance pénale rendue le
+2 novembre 2015 était exécutoire (II) et a dit que ce prononcé était rendu sans frais
+(III).
+C.
+Par acte daté du 12 décembre 2015, déposé
+au greffe du Tribunal cantonal le 14 décembre 2015, W.________ a recouru contre « l’ordonnance
+pénale du 2 novembre 2015 ».
+En droit
+:
+1.
+1.1
+L’acte déposé le 14 décembre
+2015 par W.________ est libellé comme étant un recours contre « l’ordonnance
+pénale du 2 novembre 2015 ». La voie du recours selon les art. 393 ss CPP ne permet cependant
+pas de contester une ordonnance pénale. Cela étant, dans la mesure où l’acte précité
+a été déposé au greffe du Tribunal cantonal et qu’il fait suite au prononcé
+rendu le 7 décembre 2015 par le Tribunal de police de l’arrondissement de Lausanne, on peut
+considérer qu’il s’agit d’un recours contre ce prononcé.
+1.2
+Le prononcé par lequel un tribunal de première
+instance, statuant sur la validité de l'opposition formée par le prévenu contre une ordonnance
+pénale rendue par le Ministère public (cf. art. 356 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0]), déclare l'opposition irrecevable, par exemple pour cause
+de tardiveté, est susceptible de recours selon les art. 393 ss CPP (Gilliéron/Killias,
+in : Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 5 ad art. 356 CPP ; Riklin, in : Niggli/Heer/Wiprächtiger [éd.], Basler
+Kommentar, Schweizerische Strafprozess-ordnung, Jugendstrafprozessordnung, 2
+e
+éd.,
+Bâle 2014, n. 2 ad art. 356 CPP ; CREP 30 décembre 2014/925 ; CREP 24 septembre
+2014/695). Le recours doit être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de
+procédure pénale suisse ; RSV 312.01] ; art. 80 LOJV [loi vaudoise du 12 décembre
+1979 d’organisation judiciaire ; RSV 173.01]).
+1.3
+En l’espèce, le recours a été interjeté en temps utile devant l’autorité
+compétente par le condamné qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les
+formes prescrites (art. 385 al. 1 CPP), de sorte qu’il est recevable.
+2.
+2.1
+Le recourant conteste, d’une part, les faits
+retenus dans l’ordonnance pénale et explique, d’autre part, qu’effectuant son
+service militaire, il ne pouvait prendre connaissance des courriers qui lui étaient adressés
+que le samedi.
+2.2
+L’ordonnance pénale est notifiée par écrit aux personnes et aux autorités qui
+ont qualité pour former opposition (art. 353 al. 3 CPP). Peuvent former opposition contre l’ordonnance
+pénale devant le Ministère public, par écrit et dans les dix jours, le prévenu, les
+autres personnes concernées et, si cela est prévu, le premier procureur ou le procureur général
+de la Confédération ou du canton, dans le cadre de la procédure pénale pertinente
+(art. 354 al. 1 CPP). Si aucune opposition n’est valablement formée, l’ordonnance pénale
+est assimilée à un jugement entré en force (art. 354 al. 3 CPP). En application de l'art.
+356 al. 2 CPP, le tribunal de première instance statue sur la validité de l'ordonnance pénale
+et de l'opposition. Si l'opposition a été formée tardivement, le tribunal la déclare
+irrecevable. Elle est tardive si elle a été adressée au Ministère public après
+le délai de dix jours prévu par l'art. 354 al. 1 CPP.
+Aux termes de l’art. 85 CPP, sauf disposition contraire du CPP, les communications des autorités
+pénales sont notifiées en la forme écrite (al. 1). La notification se fait en principe
+par lettre signature ou par tout autre mode de communication impliquant un accusé de réception,
+notamment par l’entremise de la police (al. 2). Le prononcé est réputé notifié
+lorsqu’il a été remis au destinataire, à l’un de ses employés ou à
+toute personne de plus de seize ans vivant dans le même ménage (al. 3). Concrètement la
+notification est réputée parfaite dès l’instant où le destinataire en a pris
+connaissance ou que l’acte entre dans sa sphère de puissance (Moreillon/Parein-Reymond, op.
+cit., n. 13 ad art. 85 CPP).
+Le délai de dix jours pour former opposition – qui ne peut être prolongé (cf. art.
+89 al. 1 CPP) – commence à courir le jour qui suit la notification de l’ordonnance entreprise
+(art. 90 al. 1 CPP). L’opposition doit être remise au plus tard le dernier jour du délai
+à l’autorité pénale, à la Poste suisse, à une représentation consulaire
+ou diplomatique suisse ou, s’agissant de personnes détenues, à la direction de l’établissement
+carcéral (cf. art. 91 al. 2 CPP).
+2.3
+En l’espèce, il ressort du dossier que l’ordonnance pénale du 2 novembre 2015
+a été adressée à W.________ par pli recommandé du même jour et qui a été
+distribué le 3 novembre 2015, de sorte que le prénommé est réputé avoir reçu
+cette ordonnance pénale. A cet égard, le moyen soulevé par le recourant, selon lequel
+il ne pouvait prendre connaissance de ses courriers que le samedi, n’est pas pertinent. Partant,
+le délai pour former opposition en vertu de l’art. 354 al. 1 CPP, qui a commencé
+à courir le lendemain de la notification, soit le 4 novembre 2015, est arrivé à échéance
+le vendredi 13 novembre 2015. Datée du 15 novembre 2015 et remise à la poste le 16 novembre
+2015 seulement, l’opposition doit dès lors être considérée comme tardive. C’est
+donc à bon droit que le Tribunal de police de l’arrondissement de Lausanne l’a déclarée
+irrecevable.
+Pour le surplus, le recourant n’invoque que des circonstances étrangères à la seule
+question à juger dans la présente procédure, soit le caractère tardif ou non de son
+opposition à l’ordonnance pénale.
+Enfin, l'opposition tardive de W.________ ne saurait être considérée comme une requête
+de restitution de délai au sens de l'art. 94 CPP, étant donné que ce dernier ne l'a pas
+demandée.
+3.
+Il résulte de ce qui précède que
+le recours doit être rejeté et le prononcé attaqué confirmé.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 550 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge de W.________,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 7 décembre 2015 est confirmé.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont mis à la charge de W.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. W.________,
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Président du Tribunal de police de l’arrondissement de Lausanne,
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
