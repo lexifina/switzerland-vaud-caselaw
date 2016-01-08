@@ -1,0 +1,420 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 3"
+decided: "2016-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5327245"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-034.md", "switzerland/bund/acts/281.1/art-035.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/281.1/art-065.md", "switzerland/bund/acts/281.1/art-072.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 3
+
+## Regeste
+
+COMMANDEMENT DE PAYER, NOTIFICATION DE LA DÉCISION, NOTIFICATION IRRÉGULIÈRE, PLAINTE{LP}, PERSONNE MORALE, TRAVAILLEUR | 17 LP, 64 LP, 65 al. 2 LP, 65 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.01.2016 Plainte / 2016 / 3
+
+COMMANDEMENT DE PAYER, NOTIFICATION DE LA DÉCISION, NOTIFICATION IRRÉGULIÈRE, PLAINTE{LP}, PERSONNE MORALE, TRAVAILLEUR | 17 LP, 64 LP, 65 al. 2 LP, 65 LP
+
+TRIBUNAL
+CANTONAL
+FA15.032181-151844
+2
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 janvier 2016
+___________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 64, 65 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+G.________
+Fiduciaire SA
+, à Lausanne, contre la décision
+rendue le 29 octobre 2015, à la suite de l’audience du 10 septembre 2015, par la Présidente
+du Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant
+la plainte de la recourante contre l’
+Office
+des poursuites du district de l'Ouest lausannois
+,
+à Renens, dans la cause qui l’oppose à la
+Caisse
+Z.________
+, à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Sur réquisition de la Caisse Z.________, l’Office des poursuites du district de l’Ouest
+lausannois a établi, le 16 janvier 2015, dans la poursuite n° 7'306’876, un commandement
+de payer destiné à G.________ Fiduciaire SA, H.________, [...], 1020 Renens, portant sur les
+sommes de 1’363 fr. 05 plus intérêts à 5 % l’an dès le 14 janvier
+2015 (1), 40 fr. (2) et 13 fr. 80 (3).
+Ce commandement de payer a été notifié le 19 janvier 2015 à H.________ qui a formé
+opposition totale.
+Par décision du 11 février 2015, la poursuivante a levé l’opposition à concurrence
+du montant de 1’416 fr. 85 plus intérêts au taux de 5 % sur 1’363 fr. 05 dès
+le 14 janvier 2015. Cette décision a été adressée le même jour à la poursuivie
+à son adresse de Renens, qui l’a reçue le 12 février 2015.
+En date du 16 avril 2015, la poursuivante a déposé une réquisition de continuer la poursuite.
+Le 21 avril 2015, un avis de saisie a été adressé à G.________ Fiduciaire SA, H.________,
+[...], 1020 Renens. L’avis original précisait qu’il serait procédé à
+la saisie le 1
+er
+mai 2015 le matin à l’office des poursuites. L’avis produit comporte une modification
+manuscrite fixant la date de la saisie au 13 mai 2015.
+b)
+Sur réquisition de la Caisse Z.________, l’Office des poursuites du district de l’Ouest
+lausannois a établi, le 25 février 2015, dans la poursuite n° 7'370’456, un commandement
+de payer destiné à G.________ Fiduciaire SA, H.________, [...], 1020 Renens, portant sur les
+sommes de 1’363 fr. 05 plus intérêts à 5 % l’an dès le 25 février
+2015 (1), 40 fr. (2) et 15 fr. 90 (3).
+Toujours sur réquisition de la Caisse Z.________, l’Office des poursuites du district de l’Ouest
+lausannois a établi, le 5 mars 2015, dans la poursuite n° 7'379’907, un commandement
+de payer destiné à G.________ Fiduciaire SA, H.________, [...], 1020 Renens, portant sur les
+sommes de 1’363 fr. 05 plus intérêts à 5 % l’an dès le 4 mars 2015 (1)
+et 35 fr. 65 (2).
+Enfin, sur réquisition de la Caisse Z.________ encore, l’Office des poursuites du district
+de l’Ouest lausannois a établi, le 5 mars 2015 également, dans la poursuite n° 7'379’883,
+un commandement de payer destiné à G.________ Fiduciaire SA, H.________, [...], 1020 Renens,
+portant sur les sommes de 4'088 fr. 95 plus intérêts à 5 % l’an dès le 4 mars
+2015 (1) et 163 fr. 35 (2).
+Les procès-verbaux de notification indiquent que ces trois commandements de payer ont été
+notifiés le 25 juin 2015 par la police de l’Ouest lausannois à « M. D.________ (Employé)
+». Ils n’ont pas été frappés d’opposition.
+2.
+a)
+Par acte du 13 juillet 2015 rédigé sur le papier à en-tête de la poursuivie lequel
+mentionne, comme adresse, [...], [...] Lausanne, cette dernière a déposé plainte en soutenant
+que les commandements de payer notifiés dans les poursuites n° 7'379’907 et n° 7'379’883
+n’avaient « pas été transmis au créancier ou à l’un de ses
+mandataires ».
+En date du 11 août 2015, la poursuivie a confirmé sa plainte initiale en mentionnant également
+les poursuites n° 7'370’456 et n° 7'306’876. Elle a fait valoir qu’elle avait
+appris, lors de son passage à l’office le 6 août 2015, que ces différentes poursuites
+avaient été notifiées à son insu à son ancienne adresse de Renens où elle
+n’avait plus ni activités ni collaborateurs, qu’elle avait d’ailleurs annoncé
+sa nouvelle adresse à tout le monde et que les changements nécessaires étaient en cours
+auprès du registre du commerce. Elle a par ailleurs produit un décompte débiteur de l’office
+daté 6 août 2015 ainsi que :
+-
+un avis de saisie établi le 3 août 2015 à l’adresse G.________ Fiduciaire SA, H.________,
+[...], 1020 Renens, dans le cadre de la poursuite n° 7'379'907 ;
+-
+un avis de saisie établi le 3 août 2015 à l’adresse G.________ Fiduciaire SA, [...],
+[...] Lausanne, dans le cadre de la poursuite n° 7'379'883 ;
+-
+un avis de saisie établi le 3 août 2015 à l’adresse G.________ Fiduciaire SA, H.________,
+[...], 1020 Renens, dans le cadre de la poursuite n° 7'370'456 ;
+-
+l’avis de saisie établi le 21 avril 2015 dans la poursuite n° 7'306’876 mentionné
+au ch. 1 ci-dessus.
+b)
+Par avis du 18 août 2015, la Présidente du Tribunal d’arrondissement de Lausanne, en
+sa qualité d’autorité inférieure de surveillance en matière de poursuite pour
+dettes et faillite, a cité les parties à comparaître à son audience le jeudi 10 septembre
+2015.
+La poursuivante s’est déterminée par acte du 3 septembre 2015 et a conclu à l’irrecevabilité
+de la plainte en ce qui concerne la poursuite n° 7'306’876 et au paiement d’une amende
+de 300 fr. pour plainte abusive en application de l’article 20a LP. Elle s’en est remise
+à justice s’agissant des poursuites n° 7'370’456, n° 7'379’907
+et n° 7'379’883. Elle a par ailleurs produit, outre des pièces déjà évoquées
+ci-dessus, un extrait du registre du commerce concernant la poursuivie du 27 août 2015 lequel mentionne,
+comme administrateur avec signature individuelle, H.________ ainsi que l’adresse [...] à 1020
+Renens.
+L’office s’est déterminé sur la plainte dans une écriture datée du 4
+septembre 2015 et a conclu à son rejet pur et simple en ce qui concerne la poursuite n° 7'306’876.
+Il s’en est remis à justice s’agissant des poursuites n° 7'370’456, n° 7'379’907
+et n° 7'379’883. Il a par ailleurs produit, outre des pièces déjà évoquées
+ci-dessus, le document suivant :
+-
+une copie d’une correspondance adressée par la poursuivante à l’office le 12 mai
+2015 dans le cadre d’une poursuite n° 7'275’914 également dirigée contre G.________
+Fiduciaire SA. Dans ce courrier, la poursuivante indique que les envois concernant la poursuivie sont
+adressés à [...] à [...] Lausanne quand bien même l’adresse du siège de
+la poursuivie inscrite au registre du commerce est bien celle du [...] à Renens.
+Ont également été versés au dossier, à une date et par une partie indéterminées,
+les documents suivants :
+–
+un extrait du registre du commerce concernant la poursuivie du 21 octobre 2015 lequel comporte les mêmes
+indications que celui produit précédemment ;
+–
+un extrait du registre du commerce concernant la société G.________ SA dont le siège est
+à [...], mentionnant pour adresse le [...], à [...] et L.________ comme administrateur unique
+avec signature individuelle ;
+–
+un extrait du site Internet «www. G.________ SA.ch» lequel mentionne la [...] à [...]
+Lausanne comme adresse de contact de G.________ Fiduciaire SA et [...] à [...] Lausanne comme adresse
+de contact de G.________ SA.
+c)
+La Présidente a tenu audience le 10 septembre 2015 en présence des parties, respectivement
+de leur représentant. À cette occasion, l’office a produit une fiche de jurisprudence
+du Tribunal cantonal relative à l’art. 38 al. 1 LVLP datée du 2 décembre 1971.
+3.
+Par décision prise
+à l’issue de l’audience, envoyée pour notification aux parties le 29 octobre 2015,
+à l’adresse de [...] à Lausanne s’agissant de la plaignante qui l’a reçue
+le lendemain, l’autorité inférieure de surveillance a rejeté la plainte et rendu
+sa décision sans frais ni dépens.
+Elle a en substance considéré que le commandement de payer de la poursuite n° 7'306’876
+avait été valablement notifié à l’administrateur unique de la recourante. S’agissant
+des trois autres commandements de payer, elle a retenu que leur notification à un employé,
+au siège social de la recourante, était valable et cela même si l’intéressé
+n’était pas un employé de la poursuivie mais de G.________ SA dans la mesure où
+cette dernière exerçait son activité dans les mêmes locaux que la plaignante. Elle
+a par ailleurs souligné que la plaignante et G.________ SA entretenaient vraisemblablement une confusion
+volontaire entre elles, notamment en ce qui concerne les locaux où elles exercent leurs activités
+respectives.
+4.
+La plaignante a recouru contre ce prononcé par acte du 7 novembre 2015. Elle a par ailleurs produit
+les documents suivants :
+–
+une copie d’un contrat de bail à loyer pour locaux commerciaux signé le 7 janvier 2015
+par G.________ Fiduciaire SA et H.________, locataires solidairement responsables, et P.________ SA,
+bailleur, portant sur des locaux sis [...] à Lausanne, destinés à l’usage de bureaux
+à l’enseigne de G.________ Fiduciaire SA, pour un loyer mensuel total de 2'875 francs. Le
+bail prévoit une entrée en vigueur le 15 février 2015, une échéance le 31 mars
+2020 et un renouvellement de cinq ans en cinq ans sauf avis de résiliation donné et reçu
+au moins une année à l’avance pour la prochaine échéance ;
+–
+une copie d’un récépissé postal attestant du versement, par G.________ Fiduciaire
+SA, le 17 septembre 2015, du loyer dû pour le mois de septembre 2015 ;
+–
+une copie d’un contrat de bail à loyer pour locaux commerciaux signés le 21 septembre
+2011 par G.________ SA, locataire, et M.________, bailleur, portant sur des bureaux sis [...] à
+1020 Renens pour un loyer mensuel total de 550 francs ;
+–
+une copie d’un récépissé postal attestant du versement, par G.________ SA, le 19
+octobre 2015, d’une somme de 550 fr. en faveur d’M.________ et N.________ ;
+–
+une copie du document intitulé « déclaration des salaires versés par l’employeur
+à son personnel » rempli, daté, et signé par G.________ SA le 15 février
+2015. Ce document contient une liste des membres du personnel de G.________ SA durant l’année
+2014 au rang desquels figure un certain « D.________ » ;
+–
+un extrait du registre du commerce concernant G.________ Fiduciaire SA qui mentionne, à la suite
+d’une inscription au journal du 22 octobre 2015, que le siège de la société est
+à Lausanne et son domicile [...], [...] Lausanne ;
+–
+une copie d’un courrier recommandé adressé au registre du commerce le 10 février
+2015 par G.________ Fiduciaire SA pour indiquer que, dès le 15 février 2015, sa nouvelle adresse
+sera [...] à [...] Lausanne.
+L’office s’est déterminé sur le recours par acte du 20 novembre 2015 en se référant
+à ses déterminations de première instance.
+La poursuivante s’est déterminée par écriture du 3 décembre 2015 et a conclu
+au rejet du recours. Elle a par ailleurs produit les documents suivants :
+–
+une copie d’un « questionnaire d’affiliation pour les employeurs » remplis pour
+le compte de G.________ Fiduciaire SA le 28 juillet 2014 ;
+–
+une copie d’un extrait du registre du commerce concernant la poursuivie du 27 juillet 2014 ;
+–
+un extrait du registre du commerce concernant la société G.________ SA à [...] ;
+–
+une copie d’un « questionnaire d’affiliation pour les employeurs » remplis pour
+le compte de G.________ Fiduciaire SA le 21 août 2015 ;
+-
+une capture d’écran du site internet de l’office fédéral du registre du commerce
+contenant le résultat de la recherche effectuée pour la raison «G.________ SA ».
+En droit :
+I.
+Dirigé contre une décision de l'autorité inférieure de surveillance et déposé
+dans le délai de dix jours prévu par les art. 18 al. 1 LP (loi fédérale du 11 avril
+1889 sur la poursuite pour dettes et la faillite ; RS 281.1) et 28 al. 1 LVLP (loi du 18 mai 1955
+d’application dans le canton de Vaud de la LP ; RSV 280.05), le recours du 7 novembre 2015,
+qui indique suffisamment les moyens invoqués (art. 28 al. 3 LVLP), est recevable. Il en va de même
+des pièces nouvelles qui y étaient jointes (art. 28 al. 4 LVLP).
+Les déterminations de l'office du 20 novembre 2015 sont également recevables (art. 31 al. 1
+LVLP).
+Il en va de même des déterminations et des pièces nouvelles produites par la Caisse Z.________
+le 3 décembre 2015 (art. 31 al. 1 LVLP).
+II.
+La recourante soutient que la notification des quatre commandements de payer serait irrégulière
+dans la mesure où elle serait intervenue à son ancienne adresse et auprès d’une
+personne qui n’était pas son employé.
+a)
+La
+LP distingue trois moyens de communication à disposition des offices des poursuites et faillites
+selon la nature de l’acte à communiquer, à savoir la communication écrite (art.
+34 LP), la publication (art. 35 LP) et la notification formelle (art. 64 à 66 LP) (Jeanneret/Lembo,
+Commentaire romand, n. 2 ad art. 64 LP).
+La notification formelle est une forme qualifiée de communication destinée à s’assurer
+qu’un acte produisant des effets juridiques a effectivement été porté à la
+connaissance de son destinataire ou d’une personne habilitée, tels que définis aux art.
+64 à 66 LP. Elle suppose la rédaction d’un bref procès-verbal attestant essentiellement
+de la date de la notification, de l’identité de la personne physique à laquelle l’acte
+a été remis et, si ce n’est pas le débiteur lui-même, la mention du lien –
+parents, concubins, employés, etc. – existant entre le tiers et le débiteur (Jeanneret/Lembo,
+op. cit., n. 3 ss ad art. 64 LP). Elle concerne les actes de poursuite, parmi lesquels le commandement
+de payer, lequel est en outre soumis aux règles spéciales de l’art 72 LP (Jeanneret/Lembo,
+op. cit., n. 8 ad art. 64 LP et les réf. citées). Sont ainsi compétents pour notifier
+un commandement de payer, principalement les préposés, les employés de l’office
+dûment autorisés ou la poste (art. 72 al. 1 LP), subsidiairement, les agents de police et les
+fonctionnaires communaux (art. 64 al. 2 LP ; Ruedin, Commentaire romand, nn. 10 ss ad art. 72 LP). Celui
+qui procède à la notification atteste sur chaque exemplaire le jour où elle a eu lieu
+et la personne à laquelle l’acte a été remis (art. 72 al. 2 LP).
+Lorsque la poursuite est dirigée contre une personne morale ou une société, les actes
+de poursuite sont notifiés à son représentant, savoir, s'il s'agit d'une société
+anonyme, à un membre de l'administration ou du comité, à un directeur ou à un fondé
+de procuration (art. 65 al. 1 ch. 2 LP). Lorsque les personnes précitées ne sont pas rencontrées
+à leur bureau, la notification peut être faite à un autre employé (art. 65 al. 2
+LP). Par bureau au sens de l’art. 65 al. 2 LP, il faut entendre le local dans lequel la débitrice
+déploie son activité ou plus spécialement l’endroit où les représentants
+autorisés de la société accomplissent leur tâche ; ce lieu ne correspond pas
+nécessairement au siège statutaire de la personne morale ou de la société (Jeanneret/Lembo,
+op. cit., n. 6 ad art. 65 LP et les réf. citées ; Angst, Basler Kommentar, 2
+e
+éd., n° 9 ad art. 65 LP).
+Le but de l’art. 65 LP est de permettre que des actes de poursuite destinés à une personne
+juridique ou à une société poursuivie parviennent entre les mains des personnes physiques
+qui agissent pour elle en matière de poursuite et peuvent en particulier former opposition. Pour
+ne pas compliquer à l’excès la tâche des autorités qui doivent procéder
+à la notification, l’art. 65 al. 2 LP prévoit exceptionnellement la notification à
+un (autre) employé qui, dans la défense des intérêts de la poursuivie, n’exerce
+cependant qu’une fonction auxiliaire, c’est-à-dire qu’il peut transmettre l’acte
+à la personne autorisée à procéder. Cet employé doit travailler dans les mêmes
+lieux que le représentant de la personne juridique ou de la société ; ce n’est
+qu’ainsi qu’il pourra vraisemblablement remettre sans délai l’acte de poursuite
+à celui-ci (ATF 117 III 10 consid. 5a, JdT 1993 II 130). L’agent notificateur doit d’abord
+tenter de remettre l’acte de poursuite à un représentant désigné à l’art.
+65 al. 1 LP et ce n’est que si l’un de ces représentants n’est pas rencontré
+dans le bureau ou le local d’affaires où il exerce habituellement son activité pour le
+compte de la poursuivie que la notification peut être faite à un employé travaillant dans
+ce local (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la
+faillite, n. 56 ad art. 65 LP et les réf. citées; Jeanneret/Lembo, op. cit., n. 17 ad art.
+65 LP et les réf. citées). La jurisprudence a admis que la notion d’employé
+pouvait également englober les employés d’une autre société qui partage ses
+locaux avec la débitrice (ATF 96 III 4 consid. 1, JdT 1971 II 34).
+En cas de contestation, c’est l’office des poursuites qui supporte le fardeau de la preuve
+de la notification correcte des actes de poursuite (ATF 120 III 117 consid. 2, JdT 1997 II 54).
+b/ba)
+En l’espèce, le commandement de payer établi dans la poursuite n° 7'306’876
+a été notifié le 19 janvier 2015 à H.________. Il ressort des extraits du registre
+du commerce figurant au dossier que ce dernier est administrateur avec signature individuelle de la recourante.
+Ce commandement de payer a donc été notifié conformément à ce que prévoit
+l’art. 65 al. 1 ch. 2 LP. Cette notification est ainsi régulière.
+bb)
+Les commandements de payer établis dans les poursuites n° 7'370’456, n° 7'379’907,
+et n° 7'379’883 ont quant à eux été notifiés le 25 juin 2015 par la police
+de l’Ouest lausannois à un dénommé D.________. Aucun élément du dossier
+ne permet de considérer que cette personne est un représentant de la recourante au sens de
+l’art. 65 al. 1 LP, de sorte que cette disposition n’entre pas en ligne de compte. Il n’est
+pour le reste pas contesté que l’intéressé a été rencontré à
+l’adresse figurant sur les commandements de payer, soit [...] à Renens. Il s’agit donc
+de déterminer si cette adresse correspondait à celle où la recourante exerçait habituellement
+son activité au moment où les commandements de payer litigieux ont été notifiés,
+préalable nécessaire pour envisager une notification valable sur la base de l’art. 65
+al. 2 LP.
+A cet égard, la recourante ne conteste pas avoir eu des bureaux à Renens mais soutient les
+avoir déménagés à [...], [...] Lausanne, à compter du 15 février 2015.
+A l’appui de cette affirmation, elle a produit un contrat de bail qui atteste qu’elle est
+bien locataire de locaux commerciaux sis à cette adresse depuis le 15 février 2015. Ce déménagement
+a par ailleurs été dûment annoncé au registre du commerce par lettre du 10 février
+2015. Il résulte en outre du courrier que la poursuivante a adressé à l’office le
+12 mai 2015, soit avant la notification des commandements de payer, que c’est bien à cette
+nouvelle adresse qu’elle lui adressait toute sa correspondance. On peut également relever
+que c’est aussi l’adresse de Lausanne qui figure sur le papier à en-tête utilisé
+par la recourante. Enfin, il ressort du dernier extrait du registre du commerce produit que ce changement
+a depuis lors été officialisé auprès de ce registre qui indique désormais également
+[...] à Lausanne comme adresse de la recourante. En définitive, aucun élément ne
+permet de considérer que la recourante exerçait encore une activité dans les locaux de
+Renens le jour où les trois commandements litigieux ont été notifiés. Il n’est
+ainsi pas établi que le dénommé D.________ a bien été rencontré dans les
+bureaux de la recourante ce qui conduit à exclure une notification valable sur la base de l’art.
+65 al. 2 LP.
+Il découle de ce qui précède que la notification des commandements de payer établis
+dans les poursuites n° 7'370’456, n° 7'379’907 et n° 7'379’883 est irrégulière.
+c)
+La notification qui n’a pas été effectuée selon les règles des art. 64 à
+66 LP est nulle, dans la mesure où l’acte n’est pas parvenu à la connaissance du
+débiteur. La nullité doit être constatée d’office et en tout temps par l’autorité
+de surveillance (Gilliéron, op. cit., n. 35 ad art. 64-66 LP; Jeanneret/Lembo, op. cit., n. 33 ad
+art. 64 LP et les réf. citées).
+En revanche, lorsque l’acte de poursuite qui doit être notifié parvient au poursuivi
+ou que ce dernier a une connaissance effective et exacte de son contenu, l’irrégularité
+de la notification n’entraîne ni la nullité de la notification, en tant qu’acte
+de poursuite, ni la nullité de l’acte de poursuite (commandement de payer ou commination de
+faillite) dont la notification est viciée. La notification irrégulière est alors seulement
+annulable sur plainte et le vice est couvert par l’inaction du poursuivi (Gilliéron, op. cit.,
+n. 28 ad art. 64-66 LP; Jeanneret/Lembo, op. cit., nn. 34 et 35 ad art. 64 LP et les réf. citées).
+En l’espèce, il n’est pas établi que la recourante aurait eu une connaissance effective
+et exacte des commandements de payer établis dans les poursuites n° 7'370’456, n°
+7'379’907, et n° 7'379’883 plus de dix jours avant le dépôt de sa plainte.
+Le vice lié à la notification n’est donc pas couvert par une éventuelle inaction
+de sa part. Les commandements de payer concernés doivent ainsi être annulés. Il en va
+de même des avis de saisie établis par la suite dans le cadre des poursuites en cause. L’irrégularité
+de la notification des commandements de payer entraîne en effet l’annulation de tous les actes
+de la poursuite concernée (CPF, 21 mars 2003/15). Il appartiendra à l’office de procéder
+à une nouvelle notification desdits commandements de payer.
+III.
+Au vu de ce qui précède, le recours
+doit être partiellement admis et le prononcé de l'autorité inférieure de surveillance
+réformé en ce sens que les commandements de payer et les actes subséquents dans les poursuites
+n° 7'370’456, n° 7'379’907, et n° 7'379’883 sont annulés,
+l’Office des poursuites du district de l’Ouest lausannois étant invité à procéder
+à une nouvelle notification des commandements de payer.
+L’arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2
+let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est partiellement admis.
+II.
+Le prononcé est réformé en ce sens que la plainte de G.________ Fiduciaire SA est partiellement
+admise, les commandements de payer et les actes subséquents dans les poursuites n° 7'370’456,
+n° 7'379’907, et n° 7'379’883 étant annulés et l’Office des
+poursuites du district de l’Ouest lausannois invité à procéder à une nouvelle
+notification des commandements de payer.
+Il est confirmé pour
+le surplus.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+G.________ Fiduciaire SA,
+‑
+Caisse Z.________,
+-
+M. le Préposé à l’Office des poursuites du district de l’Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+Le greffier :
