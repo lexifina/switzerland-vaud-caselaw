@@ -1,0 +1,264 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 37"
+decided: "2016-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5335478"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-306.md", "switzerland/bund/acts/311.0/art-183.md", "switzerland/bund/acts/311.0/art-219.md", "switzerland/bund/acts/311.0/art-220.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-115.md", "switzerland/bund/acts/312.0/art-116.md", "switzerland/bund/acts/312.0/art-117.md", "switzerland/bund/acts/312.0/art-119.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 37
+
+## Regeste
+
+ENLÈVEMENT DE MINEUR{INFRACTION}, ENLÈVEMENT{INFRACTION}, QUALITÉ POUR RECOURIR, CONFLIT D'INTÉRÊTS, MAUVAIS TRAITEMENTS ENVERS LES ENFANTS, CLASSEMENT DE LA PROCÉDURE | 306 al. 3 CC, 183 CP, 219 CP, 220 CP, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.01.2016 Décision / 2016 / 37
+
+ENLÈVEMENT DE MINEUR{INFRACTION}, ENLÈVEMENT{INFRACTION}, QUALITÉ POUR RECOURIR, CONFLIT D'INTÉRÊTS, MAUVAIS TRAITEMENTS ENVERS LES ENFANTS, CLASSEMENT DE LA PROCÉDURE | 306 al. 3 CC, 183 CP, 219 CP, 220 CP, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+22
+PE14.019854-SOO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Maillard, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+319, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 6 octobre 2015 par
+E.________
+contre l’ordonnance de classement rendue le 17 septembre 2015 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE14.019854-SOO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 18 septembre 2014, E.________, en sa qualité de détentrice de l’autorité parentale,
+a déposé plainte pénale pour enlèvement de mineur contre son ex-mari A.F.________.
+Elle lui reprochait en substance de ne pas avoir, le 2 septembre 2014, à l’issue d’une
+promenade autorisée dans le cadre de l’exercice du droit de visite, reconduit leur fils B.F.________,
+né le 12 juillet 2001, à l’Unité d’Hospitalisation Psychiatrique pour Adolescents
+(UHPA), où celui-ci était hospitalisé dans la cadre d’une mesure de placement à
+des fins d’assistance (PLAFA) ordonnée le 8 août 2014 et de l’avoir amené
+à Paris puis en Algérie, où ils étaient restés plusieurs jours avant de rentrer
+en Suisse (P. 4/1).
+En raison de ces faits, le Ministère public de l’arrondissement de Lausanne a décidé,
+le 23 septembre 2014, de l’ouverture d’une instruction pénale contre A.F.________.
+B.
+Par ordonnance du 17 septembre 2015, approuvée
+le 21 septembre 2015 par le Procureur général et notifiée le surlendemain aux
+parties, le Ministère public de l’arrondissement de Lausanne, après avoir rejeté
+les réquisitions des parties, a notamment ordonné le classement de la procédure pénale
+dirigée contre A.F.________ pour enlèvement de mineur, violation du devoir d’assistance
+ou d’éducation, subsidiairement séquestration et enlèvement (I), a mis les frais
+de procédure, par 8'462 fr. 65, à la charge d’A.F.________ (V) et a dit que les frais
+imputables à la défense d’office, par 2'947 fr. 90, et à l’assistance judiciaire
+gratuite, par 2'739 fr. 85, seraient supportés par A.F.________ pour autant que sa situation financière
+le permette (VI).
+La procureure a considéré, s’agissant de l’infraction d’enlèvement de
+mineur, que E.________ n’avait pas qualité pour déposer plainte de ce chef, car le droit
+de déterminer le lieu de résidence de son fils lui avait été expressément retiré,
+au profit du Service de protection de la jeunesse (SPJ), selon décision de la Justice de paix du
+district d’Aigle du 27 août 2014 (cf. P. 20). L’intéressée n’avait ainsi
+pas été lésée directement par l’infraction en question. En ce qui concernait
+l’infraction de violation du devoir d’assistance ou d’éducation, la procureure
+a jugé que si le prévenu avait bel et bien violé son devoir d’assistance en ne ramenant
+pas B.F.________ à l’UHPA, le voyage de quatre jours de l’enfant n’avait pas provoqué
+de séquelle physique ou psychique. Il n’y avait pas non plus eu de mise en danger concrète
+de son développement vu la brièveté du séjour dans une grande ville où les structures
+médicales ne manquaient pas. Enfin, l’infraction d’enlèvement, au sens de l’art.
+183 al. 1 ch. 2 CP (Code pénal suisse du 21 décembre 1937, RS 311), n’était pas
+non plus réalisée, car le déplacement décidé par le prévenu ne contrevenait
+pas de manière massive aux intérêts de son fils.
+C.
+Par acte du 6 octobre 2015, E.________ a interjeté recours contre cette ordonnance, en concluant,
+sous suite de frais et de dépens, à son annulation, le dossier de la cause étant renvoyé
+au Ministère public pour qu’il rende, après complément d’instruction, une
+nouvelle décision dans le sens des considérants.
+Par avis du 22 décembre 2015, un délai au 4 janvier 2015 a été imparti à E.________
+pour se déterminer sur l’éventuelle irrecevabilité du recours faute de qualité
+pour recourir en tant que représentante légale de son fils (CREP 14 septembre 2015/600).
+Le 28 décembre 2015, E.________ a déclaré maintenir son recours, estimant qu’elle
+était habilitée à recourir en qualité de représentante légale de son fils
+B.F.________.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+322 al. 2 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0] et 396 al.
+1 CPP) contre une ordonnance de classement du Ministère public (art. 393 al. 1 let. a CPP) devant
+l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui
+est dans le canton de Vaud la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi vaudoise d’introduction du Code de procédure pénale suisse; RSV 312.01]; art. 80
+LOJV [loi vaudoise d’organisation judiciaire; RSV 173.01]), le recours est déposé en
+temps utile; il satisfait en outre aux autres conditions légales (art. 385 al. 1 CPP), de sorte
+qu’il est recevable en la forme.
+2.
+La procureure a classé
+la procédure ouverte contre A.F.________ pour enlèvement de mineur, violation du devoir d’assistance
+ou d’éducation, subsidiairement séquestration et enlèvement. Il ressort du recours
+et de ses déterminations que la recourante ne conteste pas le classement ordonné pour enlèvement
+de mineur (art. 220 CP). Il convient d’en prendre acte. E.________ reproche en revanche à
+la procureure de ne pas avoir retenu les infractions de violation du devoir d’assistance ou d’éducation
+(art. 219 CP) et de séquestration et enlèvement (art. 183 CP), respectivement de ne pas avoir
+ordonné des mesures d’instruction propres à établir ces infractions. La question
+de la qualité pour recourir de E.________ se pose.
+2.1.
+Aux termes de l'art. 382 al. 1 CPP, toute partie
+qui a un intérêt juridiquement protégé à l’annulation ou à la modification
+d’une décision a qualité pour recourir contre celle-ci. Le recourant n’est au bénéfice
+d’un intérêt juridiquement protégé que s’il est directement atteint,
+c’est-à-dire lésé, dans ses droits par la décision attaquée. Lorsque la
+norme protège un bien juridique individuel, la qualité de lésé appartient au titulaire
+de ce bien (ATF 138 IV 256 consid. 2.3; ATF 129 IV 95 consid. 3.1; ATF 126 IV 42 consid. 2a;
+ATF 117 la 135 consid. 2a; Perrier, in : Kuhn/ Jeanneret [éd.], Commentaire romand, Code de
+procédure pénale suisse, Bâle 2011, nn. 6 et 8 ad art. 115 CPP). Pour déterminer
+si une personne est lésée par une infraction, il convient d’interpréter le texte
+de la disposition pour savoir qui est le titulaire du bien juridique que celle-ci protège (Perrier,
+op. cit., nn. 8 et 11 ad art. 115 CPP; TF 6B_252/2013 du 14 mai 2013 consid. 2.1).
+2.2
+L’art. 183 CP, classé parmi les crimes et les délits contre la liberté, protège
+la liberté de mouvement, à savoir la possibilité de chacun de décider du lieu où
+il veut se rendre et d’exécuter librement cette décision (Dupuis et alii, Petit Commentaire
+du Code pénal, Bâle 2012, n. 2 ad 183 CP, p. 1099, et les réf. cit.). Le bien juridique
+protégé par l’art. 219 CP est le développement physique et psychique du mineur,
+soit d’une personne âgée de moins de 18 ans (Dupuis et alii, op. cit., n. 2 ad art. 219
+CP, p. 1245 ; ATF 126 IV 136 consid. 1b). E.________ n’a ainsi pas été elle-même
+lésée par les infractions en question. Elle n’a donc pas personnellement un intérêt
+juridiquement protégé au recours au sens défini par la jurisprudence (CREP 14 septembre
+2015/600, consid. 2.2 et les réf. cit.).
+2.3
+L’art. 117 al. 3 CPP prévoit toutefois
+que lorsque les proches de la victime se portent parties civiles contre les prévenus, ils jouissent
+des mêmes droits que la victime. Le proche de la victime est défini à l'art. 116 al. 2
+CPP ; il s’agit notamment des père et mère de la victime.
+Selon la jurisprudence fédérale, les termes « se portent partie civile »
+de la version française doivent s'interpréter dans le sens de faire valoir des prétentions
+civiles, comme l’attestent les versions allemande et italienne (« Machen die Angehörigen
+des Opfers Zivilansprüche geltend »; « se fanno valere pretese civili »).
+Par « mêmes droits », il faut entendre notamment le droit pour le proche de
+se constituer partie plaignante comme demandeur au civil, le cas échéant aussi au pénal.
+Toutefois, le droit du proche de se constituer partie plaignante implique, ce que confirme la combinaison
+des art. 117 al. 3 et 122 al. 2 CPP, qu'il fasse valoir des prétentions civiles propres dans la
+procédure pénale. Autrement dit, le proche de la victime ne peut se constituer partie plaignante
+que s'il fait valoir des prétentions civiles propres dans la procédure pénale. Cette exigence
+est spécifique au proche de la victime et ne vaut pas pour le lésé ou la victime, lesquels
+peuvent en effet se constituer partie plaignante au pénal indépendamment de conclusions civiles
+(cf. art. 119 al. 2 CPP ; ATF 139 IV 89 consid. 2.2).
+En l’espèce, le fils de E.________
+est une victime présumée au sens de l’art. 116 al. 1 CPP, de sorte que la recourante
+est une proche selon l’art. 116 al. 2 CPP. Cependant, la prénommée n’a
+pas pris de conclusions civiles propres dans la procédure pénale en cours. N’ayant pas
+personnellement la qualité de partie plaignante, elle ne saurait fonder sa qualité pour recourir
+sur ce statut particulier.
+2.4
+Il reste à déterminer si la recourante,
+qui a déposé la plainte du 18 septembre 2014 en qualité de représentante légale
+de son fils B.F.________ (P. 4/1), pouvait recourir à ce titre. Tel semble être le cas a priori,
+dès lors qu’il ressort du dossier que l’intéressée est toujours titulaire
+de l’autorité parentale (cf. P. 46/2). L’art. 306 al. 3 CC prévoit
+toutefois que l’existence d’un conflit d’intérêts entraîne de plein
+droit la fin des pouvoirs des père et mère pour l’affaire en cause. L’existence
+d’un conflit d’intérêts s’examine de manière abstraite (Schwenzer/Cottier,
+in : Honsell, Vogt, Geiser [éd.], Basler Kommentar, Zivilgesetzbuch I, 5
+e
+éd., Bâle 2014, n. 4 ad art. 306 CC, p. 1690, et les réf. cit.). En d’autres termes,
+une mise en danger abstraite des intérêts de l’enfant suffit. Pour une partie de la doctrine,
+la mère ne serait en particulier pas habilitée à représenter l’enfant dans
+le cadre d’une procédure pénale introduite contre le père, et cela même après
+le divorce (Hegnauer, Kann die Mutter das Kind im Strafverfahren gegen den Vater vertreten ?, in :
+ZVW/RDT 1994, pp. 152 ss, spéc. pp. 153-154). En présence d’un conflit d’intérêts,
+le parent concerné n’a plus le pouvoir de représenter l’enfant, même si un
+curateur
+ad litem
+n’a pas encore été désigné (TF 6B_707/2014 du 18 décembre 2014 consid. 1.3.2
+et les réf. cit.).
+En l’espèce, il ressort du dossier que la recourante s’est vu retirer le droit de déterminer
+le lieu de résidence de l’enfant (P. 46/2, et les décisions citées). On comprend
+en outre, à la lecture de la décision de la Justice de paix du 19 février 2015, que le
+père de l’enfant a déposé le 16 septembre 2014 une requête en modification
+du jugement de divorce tendant à ce que l’autorité parentale sur son fils ainsi que le
+droit de déterminer son lieu de résidence lui soient attribués, et qu’une expertise
+pédopsychiatrique a été ordonnée en vue de déterminer les compétences parentales
+des père et mère ainsi que les modalités des relations personnelles du parent non gardien
+(P. 46/2, pp. 2-3). Dans ces circonstances, la recourante aurait un intérêt, pour conserver
+l’autorité parentale sur son fils, à obtenir la condamnation pénale du père
+de l’enfant. On ne peut dès lors pas exclure que les démarches de E.________ ne servent
+pas uniquement les intérêts de l’enfant dans la procédure pénale en cours.
+Force est de constater, dans ces conditions, l’existence d’un conflit d’intérêts,
+à tout le moins abstrait. Contrairement à ce qu’avance la recourante dans ses déterminations,
+la jurisprudence fédérale ne fait pas dépendre l’existence d’un conflit d’intérêts
+de la nature des infractions en cause ni du degré de certitude quant à leur réalisation
+(TF 6B_707/2014 du 18 décembre 2014). Ce qui est problématique, c’est uniquement le fait,
+pour un parent, de représenter l’enfant dans le cadre d’une procédure pénale
+dirigée contre l’autre parent. Cela est d’autant plus vrai dans le cas présent,
+où un procès civil est pendant entre les parents au sujet du sort de l’enfant. Enfin,
+on relève que le SPJ, n’ayant pas de mandat de représentation, n’aurait pas pu
+agir au nom de l’enfant. Une telle circonstance ne permet toutefois pas au parent qui, comme la
+recourante, se trouve dans une situation de conflit d’intérêts, même abstrait, de
+continuer à représenter son enfant dans la procédure pénale dirigée contre l’autre
+parent (TF 6B_707/2014 du 18 décembre 2014 consid. 1.3.2).
+Ainsi, on doit admettre qu’en raison d’un conflit d’intérêts, la recourante
+n’a désormais plus le pouvoir de représenter son enfant dans le cadre de la présente
+procédure ni, par conséquent, de déposer un recours en son nom (CREP 14 septembre
+2015/600 consid. 2.4).
+3.
+Il résulte de ce qui précède que le recours doit être déclaré irrecevable.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront
+mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), sont mis à la charge de E.________.
+III.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Michel Dupuis, avocat (pour E.________),
+-
+Me Annik Nicod, avocate (pour A.F.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
