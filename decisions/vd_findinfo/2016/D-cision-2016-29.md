@@ -1,0 +1,583 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 29"
+decided: "2016-01-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5329711"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-062.md", "switzerland/bund/acts/311.0/art-062c.md", "switzerland/bund/acts/311.0/art-062d.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/818.101/art-026.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2016 / 29
+
+## Regeste
+
+MESURE THÉRAPEUTIQUE INSTITUTIONNELLE, LIBÉRATION CONDITIONNELLE | 59 al. 3 CP, 62 al. 1 CP, 62d CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.01.2016 Décision / 2016 / 29
+
+MESURE THÉRAPEUTIQUE INSTITUTIONNELLE, LIBÉRATION CONDITIONNELLE | 59 al. 3 CP, 62 al. 1 CP, 62d CP
+
+TRIBUNAL
+CANTONAL
+25
+AP14.027090-PAE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+11 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Magnin
+*****
+Art.
+59, 62, 62d CP ; 393 ss CPP ; 38 LEP
+Statuant sur le recours interjeté le 15 décembre 2015 par
+G.________
+contre l’ordonnance rendue le 4 décembre 2015 par la Juge d’application des peines dans
+la cause
+n° AP14.027090-PAE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 27 octobre 2005, le Tribunal correctionnel de l’arrondissement de la Broye et du
+Nord vaudois a constaté que G.________ s’était rendu coupable de séquestration,
+tentative de lésions corporelles simples avec un objet dangereux et tentative de contrainte et l’a
+condamné à une peine privative de liberté de 10 mois, sous déduction de 155 jours
+de détention préventive. Le tribunal a suspendu cette peine et a ordonné l’internement
+du prénommé ainsi qu’un traitement psychothérapeutique.
+Par jugement du 13 décembre 2007, ce même tribunal a levé l’internement prononcé
+à l’encontre de G.________ et a ordonné qu’il soit soumis à un traitement
+institutionnel dans un établissement fermé au sens de l’art. 59 al. 3 CP.
+b)
+G.________, après avoir été incarcéré aux Etablissements de la Plaine de l’Orbe
+(EPO), a rapidement été transféré en secteur ouvert de la Colonie le 17 avril
+2008.
+Dans un « bilan de phase 3 et proposition de la suite du plan d’exécution de sanctions »
+avalisé le 2 octobre 2012 par l’Office d’exécution des peines (OEP), il est en
+substance relevé qu’à défaut d’avoir exprimé des regrets et de l’empathie,
+aucune progression de réflexion n’avait été constatée chez le condamné
+depuis les précédents rapports de bilan. Ce document fait également mention du fait que
+G.________ n’avait pas pris conscience de ses fragilités, notamment s’agissant de ses
+problèmes de consommation d’alcool, mais qu’il était conscient qu’un écart
+pouvait le ramener en détention, étant précisé qu’il avait toujours respecté
+le cadre des EPO. Les intervenants ont également indiqué à cette occasion qu’un
+cadre plus ouvert en institution amènerait des stimulations et des opportunités supplémentaires,
+face auxquelles il était impossible de prétendre que le condamné saurait se conduire de
+manière irréprochable. G.________ gérait à cette époque adéquatement ses
+frustrations et son impulsivité, étant certainement aidé en cela par le cadre structuré
+de la Colonie. Il était enfin constaté que le risque de récidive était toujours présent
+à court terme et serait augmenté par une consommation d’alcool. En outre, l’intolérance
+à la frustration de l’intéressé, dont il avait témoigné par le passé,
+et son impulsivité pourraient être des facteurs le conduisant à consommer de l’alcool
+dans un milieu moins cadrant. Les intervenants déclaraient néanmoins qu’un encadrement
+tel qu’un établissement médico-social serait en mesure de réduire le risque de récidive.
+c)
+Durant l’incarcération du prénommé, plusieurs expertises psychiatriques ont été
+mises en œuvre. A l’issue de la dernière en date, faisant l’objet du rapport établi
+le 14 mai 2013 par le Centre Universitaire Romand de Médecine Légale, les experts ont posé
+le diagnostic de syndrome amnésique lié à l’alcool et de syndrome de dépendance
+à l’alcool, actuellement abstinent dans un environnement protégé. Ils ont en outre
+considéré que G.________ présentait un faible risque de récidive, étant précisé
+que ce risque allait dépendre de la qualité de l’encadrement et de l’alliance thérapeutique
+que les intervenants auraient par la suite avec l’expertisé. Selon les experts, les deux pathologies
+psychiatriques principales précitées n’étaient pas les seuls facteurs influençant
+le comportement et la dangerosité de l’expertisé, ceux-ci étant également des
+traits de personnalité impulsive et émotionnellement labile, avec une grande difficulté
+à gérer les frustrations. Le cadre de la mesure en place avait permis une amélioration
+de l’état psychique de l’expertisé, notamment sur le plan cognitif, grâce
+à l’arrêt de sa consommation d’alcool, mais aussi une évolution favorable
+de son caractère impulsif, grâce cette fois aux relations rassurantes qu’il entretenait
+avec les intervenants du milieu carcéral et au traitement pharmacologique. Les médecins n’ont
+pas exclu une libération conditionnelle mais ont précisé que si le cadre de vie n’était
+pas suffisamment structuré et rassurant pour l’expertisé, elle s’accompagnerait
+d’un risque de rechute dans la consommation d’alcool, laquelle pourrait amener une recrudescence
+de l’impulsivité et de l’agressivité. Les experts ont cependant ajouté que
+ce risque était limité au regard de l’évolution favorable du condamné sur les
+dernières années, et à plus forte raison si la libération conditionnelle était
+assortie d’un suivi ambulatoire, avec respect des règles de vie, de contrôles médicaux
+de la prise de traitements psychotropes et de l’abstinence d’alcool et de toxiques et d’un
+suivi rapproché du Service de probation.
+d)
+Par ordonnances des 14 juillet 2010, 6 janvier 2012 et 28 janvier 2014, le Juge d’application des
+peines a refusé d’accorder au prénommé la libération conditionnelle de la mesure
+thérapeutique institutionnelle.
+Dans son ordonnance du 28 janvier 2014, le Juge d’application des peines, se fondant notamment
+sur l’expertise précitée, a en substance considéré qu’une libération
+conditionnelle apparaissait comme prématurée et qu’elle devait être refusée
+tant que le maintien de la stabilité psychique de l’intéressé et sa capacité
+à contrôler sa frustration n’étaient pas assurés. Il a ajouté qu’une
+libération sans transition réduirait à néant les améliorations obtenues jusqu’ici
+et risquerait concrètement de placer le condamné dans une situation d’échec favorable
+à une rechute alcoolique et à une décompensation, tout en préconisant une ouverture
+du cadre par un placement en EMS, lequel permettrait d’évaluer la gestion des facteurs de
+risque de récidive dans un cadre médicalisé structurant et apparaissait comme une condition
+nécessaire et préalable à une libération conditionnelle.
+e)
+Les éléments survenus depuis le dernier examen de la libération conditionnelle peuvent
+être résumés comme il suit :
+Faisant suite à une demande de rapport de l’OEP dans le cadre d’une prochaine rencontre
+de la Commission interdisciplinaire consultative (CIC), le Service médical de psychiatrie pénitentiaire
+(SMPP), par courrier du 5 novembre 2014, a en substance constaté que G.________ était moins
+révolté que par le passé contre l’institution médicale, se montrant globalement
+respectueux, agréable et adéquat avec le personnel soignant et acceptant le plus souvent les
+rencontres avec son psychiatre. Le SMPP a en outre relevé que l’unique objectif du traitement
+était le maintien de la stabilité observée durant l’année écoulée
+en poursuivant l’étayage actuel et en l’accompagnant dans la recherche d’une institution
+susceptible de l’accueillir. Par ailleurs, les médecins ont indiqué que la chronicité
+du tableau clinique en l’absence de troubles comportementaux permettait de présager d’une
+bonne stabilité dès lors que le condamné bénéficiait d’un cadre adapté
+à ses fragilités. L’humeur du condamné était toutefois plus triste et les inquiétudes
+sur sa santé physique, mais aussi les difficultés rencontrées pour faire évoluer
+sa situation pénale, apparaissaient être à l’origine du mal-être observé
+chez lui. En dernier lieu, le SMPP a relevé qu’il n’était pas possible d’exclure
+que les éléments dépressifs s’accentuent si aucune alternative à l’incarcération
+ne devait être trouvée.
+Par courrier du 7 novembre 2014, la curatrice de G.________ a indiqué que, selon le Dr [...], le
+prénommé avait toujours besoin d’un suivi thérapeutique et qu’un cadre était
+indispensable, de sorte que la perspective d’une libération conditionnelle était prématurée.
+Par ailleurs, il n’était en l’état pas envisageable qu’il se retrouve seul
+dans un logement privé ou encore dans la rue, pour des questions de sécurité pour lui-même
+comme pour des tiers.
+Dans son rapport du 12 novembre 2014, la direction des EPO a préavisé négativement à
+la libération conditionnelle de l’intéressé, estimant que celle-ci était prématurée
+et que le condamné devait continuer à travailler sur un placement au sein d’un foyer.
+Lors de sa séance des 17 et 18 novembre 2014, la CIC a, en se basant sur les derniers éléments
+au dossier et en particulier sur l’expertise psychiatrique dont il est fait état ci-dessus,
+relevé que G.________ paraissait disposé à intégrer l’EMS [...] et estimé
+que cette perspective permettait d’ouvrir une sortie de détention telle qu’elle était
+souhaitée depuis longtemps par les intervenants, tout en contrôlant la dangerosité éventuelle
+de l’intéressé et en satisfaisant aux recommandations des experts. La CIC a toutefois
+précisé que l’admission de G.________ en EMS était en soi un progrès considérable,
+à conduire de manière progressive et prudente.
+B.
+a)
+Le 23 décembre 2014, l’OEP a saisi
+le Juge d’application des peines d’une proposition tendant à refuser à G.________
+la libération conditionnelle de la mesure thérapeutique institutionnelle. Se référant
+à l’ordonnance du Juge d’application des peines du 28 janvier 2014, il a notamment
+exposé qu’au vu de l’absence de capacité d’introspection du condamné
+et du suivi comportemental dont il devait faire l’objet, la transition entre le milieu carcéral
+et un EMS était un défi dans cette situation. L’office a ajouté qu’au vu des
+précédents échecs de placement en foyer, il avait paru nécessaire de procéder
+avec prudence s’agissant de son intégration dans un potentiel nouveau lieu de vie, soit l’EMS
+[...]. L’autorité d’exécution a précisé à cet égard que les
+derniers mois écoulés lui avaient permis, par le biais d’une conduite, d’un congé
+institutionnel, puis de stages, de se familiariser avec l’établissement et de tisser des liens
+avec les personnes qui interviendraient dans sa prise en charge future, élément jugé central
+notamment par les experts psychiatres dans leur rapport du 14 mai 2013. Dès lors que l’intéressé
+était dans l’attente d’une place au sein de l’établissement précité
+et se référant aux éléments qu’il avait exposés, l’OEP a considéré
+qu’une libération conditionnelle ne saurait être accordée avant le passage effectif
+dans l’institution, suivi d’une période de stabilisation puis de stabilité.
+b)
+Par décision du 12 février 2015, l’OEP a ordonné, au terme d’un congé
+institutionnel de quinze jours, le placement institutionnel de G.________ à la Fondation [...] à
+[...], dès le 16 février 2015, avec une prise en charge thérapeutique auprès
+de la Dresse [...], psychiatre et psychothérapeute. Dans sa décision, l’OEP a notamment
+sommé le prénommé de maintenir une stricte abstinence à l’alcool et aux produits
+stupéfiants, laquelle serait contrôlée par les intervenants de la fondation, et l’a
+informé qu’aucune sortie en dehors du cadre institutionnel ne pourrait se faire sans accompagnement.
+c)
+Par courrier du 11 mai 2015, l’OEP a rappelé le cadre de sa décision de placement au
+condamné, lequel s’était rendu à plusieurs reprises seul au village de [...], alors
+que le 10 avril 2015, il s’était engagé à ne plus sortir de l’institution
+sans accompagnement.
+d)
+Le 21 juillet 2015, l’OEP, statuant sur la requête formulée le 8 juillet 2015 par G.________,
+lui a accordé six sorties de trente minutes maximum jusqu’au 31 octobre 2015, afin qu’il
+puisse se rendre au village de [...]. L’office s’est référé aux intervenants
+en charge de l’intéressé, lesquels ont indiqué que ce dernier s’était
+bien intégré à l’institution, qu’il respectait les règles et ne posait
+pas de problème particulier, qu’il allait aux ateliers en fonction de sa santé et que
+les tests d’alcoolémie pratiqués étaient négatifs. Les intervenants ont également
+relevé que le condamné avait tendance, en cas de frustration ou de problème avec les autres
+résidents, à s’isoler et à refuser sa médication, étant précisé
+qu’il la prenait après négociation. A cet égard, l’OEP a considéré
+que ces éléments devaient être travaillés, et ce notamment avant de pouvoir penser
+à discuter d’un appartement protégé, et a invité le condamné à faire
+appel aux intervenants en cas de problème, en particulier afin d’améliorer la communication,
+ainsi qu’à ne plus négocier sa médication.
+e)
+Entendu le 3 août 2015 par le Juge d’application des peines, G.________ a expliqué son
+changement de position quant à un placement en institution, déclarant que l’EMS [...]
+était différent de ceux dans lesquels il avait séjourné auparavant et qu’il
+avait pu progressivement s’acclimater à cet établissement, qui lui plaisait bien. Il
+a également précisé avoir compris qu’aucune ouverture n’était possible
+en prison. Mis à part deux résidents qu’il côtoyait régulièrement au sein
+de l’établissement, il adoptait plutôt un comportement solitaire. S’agissant des
+sorties qu’il avait effectuées seul et sans autorisation au début de son séjour,
+le condamné a expliqué qu’il n’avait à l’époque pas compris qu’il
+n’avait pas le droit de sortir. Par ailleurs, concernant l’épisode du 6 mai 2015, où
+il se serait énervé contre sa psychiatre et aurait quitté l’établissement pour
+se promener, G.________ a indiqué ne pas se souvenir être sorti, mais a admis s’être
+« pris de bec » avec sa psychiatre, car il n’aimait pas son attitude, que celle-ci
+lui aurait parlé comme à un bébé, et bien qu’elle ait « l’air
+toute gentille », elle aurait raconté « des bêtises par derrière ».
+Il a enfin considéré que les entretiens avec elle n’avaient aucun intérêt.
+f)
+Dans son rapport du 18 août 2015, la direction de la Fondation [...] a indiqué qu’il
+lui semblait prématuré de se prononcer sur une éventuelle libération conditionnelle
+de G.________, dès lors qu’il lui serait nécessaire de reporter cette évaluation
+au moment où le prénommé bénéficierait de sorties, où il serait significativement
+confronté à sa consommation d’alcool et à la reprise ou non de ses habitudes passées
+de consommations et aux diverses tentations. Dans son rapport, la direction a observé que l’intégration
+sociale de G.________ s’était révélée problématique dans un premier temps,
+le condamné se plaignant des autres résidents et ayant un comportement oppositionnel et revendicateur
+envers le personnel soignant de l’établissement en refusant régulièrement sa médication
+et certaines consultations. Cette intégration s’était toutefois progressivement améliorée
+durant l’été 2015, l’intéressé paraissant s’être détendu
+avec le personnel soignant de l’institution, se montrant moins revendicateur et agressif dans le
+ton.
+g)
+Le 22 septembre 2015, l’OEP a saisi le Juge d’application des peines d’une proposition
+complémentaire tendant à la prolongation de la mesure thérapeutique institutionnelle pour
+une durée de trois ans. Selon lui, la prolongation de cette mesure visait à permettre au condamné
+de trouver ses marques dans son nouveau foyer et de démontrer progressivement qu’il était
+digne de la confiance requise pour se voir octroyer divers élargissements de régime, puis une
+libération conditionnelle proprement dite.
+h)
+Par courrier du 9 octobre 2015, l’OEP a une nouvelle fois rappelé le cadre de sa décision
+de placement du 12 février 2015 à G.________, après que celui-ci était sorti du périmètre
+de l’établissement à trois reprises entre les 1
+er
+et 4 septembre 2015, sans respecter les règles mises en place.
+i)
+Dans
+ses déterminations, le condamné, par l’intermédiaire de son défenseur, a conclu
+à sa libération conditionnelle.
+j)
+Dans son rapport du 6 octobre 2015, la Dresse [...] a notamment constaté que, depuis son entrée
+dans l’EMS [...],G.________ s’était progressivement adapté à son nouveau cadre
+de vie et que son état psychique était stable. A cet égard, elle a relevé qu’il
+ne présentait pas de symptomatologie dépressive ni de signe floride de la ligne psychotique
+et qu’il tolérait mieux les frustrations. Dans la vie quotidienne, il palliait ses troubles
+de mémoire à l’aide de différentes stratégies et en notant ce qu’il devait
+faire, oubliant en revanche souvent le contenu des entretiens psychiatriques précédents. La
+psychiatre a encore indiqué que le condamné ne voyait pas l’intérêt de tels
+entretiens mais avait finalement accepté de s’exprimer. Il était également fixé
+sur son souhait d’intégrer un appartement protégé et de voir la levée de sa
+mesure, semblant ne pas avoir compris le fait qu’il s’agissait de buts à moyen ou à
+long terme.
+k)
+Dans
+sa séance des 12 et 13 octobre 2015,
+la CIC a constaté, en se fondant notamment
+sur le rapport précité, que depuis son admission à l’EMS [...], l’intégration,
+les soins et le comportement de G.________ étaient restés dans les limites de l’acceptable,
+ce qui compte tenu de sa pathologie neuropsychique, de sa réactivité caractérielle et
+de son opposition au changement pouvait être considéré comme un résultat très
+appréciable. Elle a en outre estimé qu’une ouverture plus importante de son cadre de
+prise en charge était prématurée et appelait à une prudente progressivité, précisant
+que la phase actuelle dans le foyer était encore dans une dynamique d’accueil et devait être
+consolidée.
+l)
+Par courrier du 26 novembre 2015, le Ministère public s’est référé à la
+proposition de l’OEP et à son complément et a préavisé négativement à
+la libération conditionnelle de G.________.
+m)
+Par ordonnance du 4 décembre 2015, la Juge d’application des peines a refusé d’accorder
+à G.________ la libération conditionnelle de la mesure thérapeutique institutionnelle
+ordonnée le 13 décembre 2007 par jugement du Tribunal correctionnel de l’arrondissement
+de la Broye et du Nord vaudois (I), a prolongé cette mesure pour une durée de trois ans à
+compter du 13 décembre 2015 (II) et a statué sur l’indemnité allouée au défenseur
+d’office ainsi que sur les frais, lesquels ont été laissés à la charge de l’Etat
+(III et IV).
+Dans son ordonnance, la Juge d’application des peines a observé les progrès accomplis
+par le condamné, relevant en particulier le défi que constituait son placement en EMS et l’importance
+d’un tel placement, lequel permettait d’ouvrir le cadre, tout en contrôlant sa dangerosité
+éventuelle et en satisfaisant aux recommandations des experts. Elle a néanmoins considéré
+que l’intérêt personnel de G.________ ne devait pas primer sur celui de la collectivité
+à être préservée d’une éventuelle récidive, relevant à cet égard
+la gravité des infractions qui étaient à l’origine de son incarcération. La
+Juge d’application des peines s’est en outre référé aux avis de l’OEP
+et de la CIC et a relevé que l’admission en EMS du condamné était un projet considérable,
+qu’il fallait conduire de manière progressive et prudente sans brûler les étapes
+de sa réinsertion. La juge a enfin estimé que la libération conditionnelle était
+prématurée, dès lors que les quelques mois de recul à la suite de son placement n’étaient
+pas suffisants pour juger si l’intéressé était apte à conserver une certaine
+stabilité psychique et une abstinence à l’alcool.
+C.
+a)
+Par acte de son défenseur du 15 décembre 2015, G.________ a recouru contre cette ordonnance,
+en concluant, avec suite de frais et dépens, à son annulation et à ce qu’il soit
+libéré conditionnellement de la mesure thérapeutique institutionnelle prononcée à
+son encontre. Il a également requis la désignation de son défenseur en qualité de
+défenseur d’office pour la procédure de recours.
+b)
+Dans le délai imparti en application de l’art. 390 al. 2 CPP, le Juge d’application
+des peines a renoncé à déposer des déterminations et a renvoyé à sa motivation,
+fondée sur la proposition de l’OEP, le préavis du Ministère public et le dernier
+avis de la CIC.
+Le Ministère public et l’OEP ne se sont pas déterminés.
+En droit
+:
+1.
+1.1
+L’art. 26 al. 1 LEP (Loi cantonale du 4 juillet 2006 sur l’exécution des condamnations
+pénales ; RSV 340.01) dispose que, sous réserve des compé­tences que le droit
+fédéral attribue expressément au juge qui connaît de la commission d'une nouvelle
+infraction, le juge d'application des peines prend toutes les décisions relatives à la libération
+conditionnelle et statue dès lors notamment sur l’octroi ou le refus de la libération
+conditionnelle.
+En vertu de l’art. 38 al. 1 LEP, les décisions rendues par le juge d'application des peines
+et par le collège des juges d'application des peines peuvent faire l'objet d'un recours auprès
+de la Chambre des recours pénale du Tribunal cantonal. La procédure est régie par les
+dispositions prévues aux art. 393 ss CPP (Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0), par renvoi de l’art. 38 al. 2 LEP.
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP).
+1.2
+En l’espèce, le recours a été interjeté en temps utile, devant l’autorité
+compétente, par le condamné qui a qualité pour recourir (art. 382 al. 1 CPP). Conforme
+aux exigences de motivation prévues par l’art. 385 al. 1 CPP, il est ainsi recevable.
+2.
+2.1
+Le recourant reproche à la Juge d’application des peines de lui avoir refusé la libération
+conditionnelle et d’avoir violé le principe de la proportionnalité en ordonnant la prolongation
+de la mesure pour une durée de trois ans. Il soutient qu’il ne présenterait pas un grave
+trouble mental justifiant le maintien de la mesure thérapeutique et que, compte tenu du cadre actuellement
+en place, plus rien de s’opposerait à un élargissement anticipé, étant précisé
+qu’il serait prêt à rester dans l’établissement dans lequel il se trouve actuellement,
+à poursuivre le traitement ambulatoire dont il fait l’objet et à se soumettre à
+des contrôles afin de vérifier son abstinence à l’alcool et aux psychotropes. Le
+recourant fait également valoir que dans leur rapport du 14 mai 2013, les experts se seraient déjà,
+en raison notamment d’un risque de récidive qualifié de faible, prononcés en faveur
+d’une libération conditionnelle, assortie des règles de conduites adéquates.
+2.2
+Aux termes de l'art. 62d al. 1 CP, qui s'applique lorsque le juge a ordonné une mesure thérapeutique
+institutionnelle, l'autorité compétente examine, d'office ou sur demande, si l'auteur peut
+être libéré conditionnellement ou si la mesure doit être levée. Elle prend une
+décision à ce sujet au moins une fois par année. Au préalable, elle entend l'auteur
+et demande un rapport à la direction de l'établissement chargé de l'exécution de
+la mesure. Comme sous l'empire de l'art. 45 ch. 1 al. 3 aCP (cf. ATF 128 IV 241 consid. 3.2), le rapport
+exigé par l'art. 62d al. 1 CP doit émaner du médecin traitant, dresser un bilan du traitement,
+comporter les éléments d'appréciation médicaux utiles à l'évaluation de
+la dangerosité actuelle de l'auteur et se prononcer sur l'évolution probable de ces éléments
+en cas de poursuite du traitement selon les modalités les plus indiquées (ATF 137 IV 201 consid.
+1.1 et la jurisprudence citée).
+2.3
+Conformément à l'art. 62 al. 1 CP, l'auteur doit être libéré conditionnellement
+de l'exécution institutionnelle de la mesure dès que son état justifie qu'on lui donne
+l'occasion de faire ses preuves en liberté. La loi ne définit pas cette notion. Elle n'exige
+pas la guérison de l'auteur, mais une évolution ayant eu pour effet d'éliminer ou de réduire
+dans une mesure suffisante le risque de nouvelles infractions. Il n'est donc pas nécessaire que
+l'auteur soit mentalement normal, mais il suffit qu'il ait appris à vivre avec ses déficits,
+de manière que l'on puisse poser un pronostic favorable quant à son comportement futur, étant
+rappelé que s'agissant de la décision sur le pronostic, le principe
+in
+dubio pro reo
+n'est pas applicable
+(ATF
+137 IV 201 consid. 1.2 et la jurisprudence citée).
+Ce pronostic doit être posé en tenant compte du principe de la proportionnalité (art.
+5 al. 2 Cst. [Constitution fédérale de la Confédération suisse du 18 avril 1999 ;
+RS 101] et 56 al. 2 CP), selon lequel l'atteinte aux droits de la personnalité qui résulte
+pour l'auteur d'une mesure ne doit pas être disproportionnée au regard de la vraisemblance
+qu'il commette de nouvelles infractions et de leur gravité. Cette disposition postule ainsi la pesée
+à effectuer entre l'atteinte aux droits inhérente à la mesure ordonnée et la dangerosité
+de l'auteur. Présente un caractère de dangerosité le délinquant dont l'état
+mental est si gravement atteint qu'il est fortement à craindre qu'il commette de nouvelles infractions.
+Lors de l'examen du risque de récidive, il convient de tenir compte de l'imminence et de la gravité
+du danger, ainsi que de la nature et de l'importance du bien juridique menacé. Lorsque des biens
+juridiques importants, tels que la vie ou l'intégrité corporelle, sont mis en péril, il
+faut se montrer moins exigeant quant à l'imminence et à la gravité du danger que lorsque
+des biens de moindre valeur, tels que la propriété ou le patrimoine, sont menacés (ATF
+137 IV 201 consid. 1.2 et les arrêts cités). Le pronostic doit également tenir compte
+de la durée de la privation de liberté déjà subie par l'auteur.
+2.4
+Conformément à l'art. 56 al. 6 CP, une mesure dont les conditions ne sont plus remplies doit
+être levée. Comme son prononcé suppose qu'elle soit propre à détourner l'auteur
+de la commission de nouvelles infractions en relation avec son grave trouble mental (cf. art. 59 al.
+1 let. b CP), une mesure thérapeutique institutionnelle ne peut être maintenue que si elle
+conserve une chance de succès, ainsi que le prévoit du reste l'art. 62c al. 1 let. a CP. Au
+contraire de l'internement, qui consiste principalement à neutraliser l'auteur, la mesure thérapeutique
+institutionnelle cherche à réduire le risque de récidive par une amélioration des
+facteurs inhérents à l'intéressé. Il s'ensuit que, pour qu'une mesure thérapeutique
+institutionnelle puisse être maintenue, c'est le traitement médical, non la privation de liberté
+qui lui est associée, qui doit conserver une chance de succès du point de vue de la prévention
+spéciale. Une mesure thérapeutique institutionnelle ne saurait être maintenue au seul
+motif que la privation de liberté qu'elle comporte a pour effet d'empêcher l'auteur de commettre
+de nouvelles infractions. Sinon, ne cherchant plus à réduire le risque de récidive par
+le traitement de l'auteur, mais uniquement par la neutralisation de celui-ci, elle ne se différencierait
+plus de l'internement, mesure qui n'est admissible qu'aux conditions prévues à l'art. 64 CP.
+Certes, la notion de traitement médical doit être entendue largement. Même la simple prise
+en charge de l'auteur dans un milieu structuré et surveillé accompagnée d'un suivi psychothérapeutique
+relativement lointain constitue un traitement, si elle a pour effet prévisible d'améliorer
+l'état de l'intéressé de manière à permettre, à terme, sa réinsertion
+dans la société. Mais, lorsqu'il n'y a plus lieu de s'attendre à une amélioration
+de l'état de l'auteur, l'autorité compétente doit lever la mesure, en prenant au besoin
+une ou plusieurs des dispositions prévues à l'art. 62c al. 3 à 6 CP (ATF 137 IV 201 consid.
+1.3 et les références citées).
+2.5
+Le traitement thérapeutique institutionnel peut se poursuivre au-delà du délai de cinq
+ans, mais non sans un examen. Après l'écoulement de ce délai, la mesure nécessite
+un examen judiciaire. Si elle se révèle toujours nécessaire et appropriée, notamment
+au vu de l'état psychique de l'intéressé et des risques de récidive, elle peut être
+prolongée de cinq ans au plus à chaque fois, conformément à l'art. 59 al. 4 CP (TF
+6B_517/2013 du 19 juillet 2013 consid. 1.1). Cette possibilité existe parce que les mesures thérapeutiques
+appliquées à des malades mentaux chroniques n'agissent souvent que très lentement (ATF
+134 IV 315 consid. 3.4.1 et les références citées).
+Lors de cet examen, le juge doit donner une importance accrue au respect du principe de la proportionnalité,
+d'autant plus que la prolongation revêt un caractère exceptionnel et qu'elle doit être
+particulièrement motivée (ATF 137 IV 201 consid. 1.4 ; ATF 135 IV 139 c. 2.1 ; TF 6B_517/2013
+du 19 juillet 2013 consid. 1.1 ; Heer, in : Niggli/Wiprächtiger [éd.], Basler
+Kommentar, Strafrecht I, 3e éd., Bâle 2013, n. 126 ad art. 59 CP).
+La mesure prononcée doit respecter le principe de la proportionnalité, c'est-à-dire que
+l'atteinte aux droits de la personnalité qui en résulte pour l'auteur ne doit pas être
+disproportionnée au regard de la vraisemblance qu'il commette de nouvelles infractions et de leur
+gravité (art. 56 al. 2 CP). La pesée des intérêts doit s'effectuer entre, d'une part,
+le danger que la mesure veut prévenir et, d'autre part, la gravité de l'atteinte aux droits
+de la personne concernée. L'importance de l'intérêt public à la prévention d'infractions
+futures doit se déterminer d'après la vraisemblance que l'auteur commette de nouvelles infractions
+et la gravité des infractions en question. Plus les infractions que l'auteur pourrait commettre
+sont graves, plus le risque qui justifie le prononcé d'une mesure peut être faible, et inversément.
+Quant à l'atteinte aux droits de la personnalité de l'auteur, elle dépend non seulement
+de la durée de la mesure, mais également des modalités de l'exécution. Il convient
+également de tenir compte des effets positifs de la mesure dans l'intérêt de l'auteur
+(Dupuis et alii, Petit commentaire du Code pénal, Bâle 2012, nn. 7 ss ad art. 56 CP ;
+TF 6B_517/2013 du 19 juillet 2013 consid. 1.4.3).
+2.6
+En l’espèce, à l’instar
+de la Juge d’application des peines et des différents intervenants, il y a lieu de souligner
+les progrès accomplis par le recourant, lequel a désormais atteint les objectif fixés
+dans son dernier plan d’exécution de sanctions. Il s’est bien acclimaté à
+la Fondation [...] dans laquelle il réside depuis près d’un an, et ce malgré un
+changement de référent en cours d’année, qui ne paraît pas l’avoir affecté.
+Une amélioration progressive de son comportement a été constatée durant l’été
+2015. Quelques fausses notes ont cependant été relevées, telles qu’un comportement
+oppositionnel et revendicateur, quelques sorties sans autorisations et des plaintes formulées au
+sujet d’autres résidents, du personnel soignant et de sa psychiatre. Malgré ces difficultés,
+la CIC avait considéré dans sa dernière séance que, compte tenu de la pathologie
+psychique du condamné, de sa réactivité caractérielle et de son opposition au changement,
+il s’agissait là d’un résultat très appréciable. Les intervenants ont
+en outre indiqué que le recourant faisait montre d’une certaine impatience, lorsqu’il
+soutenait notamment vouloir intégrer un appartement protégé rapidement.
+La psychiatre du condamné a déclaré que son état psychique était stable et a
+notamment relevé qu’il ne présentait pas de symptomatologie dépressive et tolérait
+mieux les frustrations. Malgré quelques événements ponctuels où il a fallu négocier
+avec le condamné, celui-ci a toujours accepté de prendre sa médication. S’agissant
+de sa dépendance liée à l’alcool, G.________ est toujours abstinent et ne paraît
+pas avoir cherché à se procurer une telle substance, que ce soit lors d’une de ses sorties
+non autorisées ou par le biais d’un autre résident. Par ailleurs, bien qu’étant
+toujours présents, les troubles de mémoire dont il fait l’objet ne paraissent pas le
+gêner outre mesure dans sa vie quotidienne.
+S’agissant du risque de récidive, les experts, dans leur rapport du 14 mai 2013, l’avait
+qualifié de faible en précisant que ce risque serait dépendant de la qualité de l’encadrement
+du recourant et de l’alliance thérapeutique qu’il pourrait avoir avec les intervenants.
+Le cadre suffisamment structurant préconisé par les experts à cette époque afin de
+contenir ledit risque a désormais été mis en place. Par ailleurs, on dispose aujourd’hui
+du recul suffisant. Depuis son placement à l’EMS [...], aucune rechute dans la consommation
+d’alcool, élément fortement lié à un éventuel acte de récidive, n’a
+en outre été constatée, et ceci malgré quelques événements qui semblent
+avoir mis à l’épreuve l’impulsivité et la frustration du condamné.
+La Cour de céans prend en compte les différents préavis des intervenants, lesquels appellent
+à une prudente progressivité et estiment qu’une libération conditionnelle de la
+mesure est à ce stade prématurée, dès lors que le condamné est toujours dans
+une dynamique d’accueil et que la phase actuelle doit être consolidée. Cependant, sur
+la base des éléments qui précèdent, mais aussi du rapport d’expertise précité
+– les experts n’avaient à l’époque déjà pas exclu l’octroi
+d’une libération conditionnelle si elle était assortie des mesures adéquates –,
+on ne voit pas aujourd’hui quel motif pourrait justifier de retarder davantage la libération
+conditionnelle du recourant. En effet, le cadre préconisé par les experts est maintenant en
+place depuis de nombreux mois et, à ce jour, on ne décèle pas ce qui peut encore être
+attendu du condamné, ni ce qui peut encore être entrepris sur le plan thérapeutique. De
+plus, celui-ci apparaît avoir désormais appris à gérer ses troubles. Il a de plus
+accepté de rester dans l’EMS [...] en visant un appartement protégé et a indiqué
+être prêt à poursuivre le traitement ambulatoire et à se soumettre à des prises
+de sang afin de contrôler son abstinence à l’alcool et aux psychotropes. Le risque de
+récidive, considéré comme faible, pourra ainsi être contenu par des mesures d’accompagnement
+strictes prévues par les art. 62 al. 3, 93 et 94 CP et la libération conditionnelle n’entraînera
+pas un changement drastique du cadre actuel autour du recourant, ce qui pourra lui permettre de progresser
+adéquatement dans sa situation.
+A ces conditions, le pronostic quant au comportement futur du condamné peut être considéré
+comme favorable et la libération conditionnelle de la mesure thérapeutique institutionnelle
+doit être accordée à G.________. Celle-ci sera cependant assortie d’une obligation
+de se soumettre à un traitement ambulatoire durant le délai d’épreuve, de contrôles
+de l’abstinence à l’alcool et aux psychotropes au moyen de prises de sang, ainsi que
+d’une assistance de probation et de règles de conduite qu’il appartiendra à la
+Juge d’application des peines de définir dans la détail (art. 26 al. 1 let. b LEP). Il
+s’agira en particulier d’une obligation de rester au sein de la Fondation [...], institution
+qu’il ne pourra le cas échéant quitter que pour un lieu de résidence agréé
+par l’autorité en charge du suivi des règles de conduite. Enfin, un délai d’épreuve
+d’une durée conséquente devra être ordonné afin de permettre un encadrement
+approprié du condamné.
+3.
+Il résulte de ce qui précède que le recours de G.________ doit être admis et l’ordonnance
+attaquée annulée. Le dossier de la cause sera renvoyé à la Juge d’application
+des peines pour qu’elle rende une nouvelle décision dans le sens des considérants qui
+précèdent.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d’arrêt, par 1’760 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), et des frais imputables à
+la défense d’office (art. 422 al. 1 et 2 let. a CPP), arrêtés à 630 fr., plus
+la TVA par 50 fr. 40, soit au total 680 fr. 40, seront laissés la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 4 décembre 2015 est annulée et le dossier de la cause est renvoyé
+à la Juge d’application des peines pour nouvelle décision dans le sens des considérants.
+III.
+L’indemnité allouée au défenseur
+d’office de G.________ est fixée à 680 fr. 40 (six cent huitante francs et quarante centimes).
+IV.
+Les frais d’arrêt, par 1’760 fr. (mille sept cent soixante francs), ainsi que l’indemnité
+due au défenseur d’office de G.________ selon chiffre III ci-dessus, sont laissés à
+la charge de l’Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Stefan Graf, avocat (pour G.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Juge d’application des peines,
+-
+M. le Procureur du Ministère public central, division affaires spéciales contrôle et mineurs,
+-
+Office d’exécution des peines (réf. OEP/MES/52171/CGY/NJ),
+-
+Direction de la Fondation [...],
+-
+Mme [...], Office de tutelles et curatelles professionnelles
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
