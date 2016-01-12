@@ -1,0 +1,217 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___69"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 69"
+decided: "2016-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5348630"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2016 / 69
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE | 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2016 Décision / 2016 / 69
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE | 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+34
+PE14.011071-GMT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Maillard, juges
+Greffière
+:              Mme
+Molango
+*****
+Art.
+319 al. 1 et 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 4 novembre 2015 par
+C.________
+contre l’ordonnance de classement rendue le 2 novembre 2015 par le Ministère public de l’arrondissement
+du Nord vaudois dans la cause
+n° PE14.011071-GMT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 25 mai 2014, C.________ a déposé plainte contre G.________. Il reproche à ce dernier
+de l’avoir, à cette même date alors que tous deux se trouvaient au centre culturel [...]
+à [...], menacé de mort, puis frappé au-dessus du front au moyen d’une bouteille
+ou d’un verre.
+b)
+Le
+13 juin 2014, C.________ a déclaré maintenir sa plainte et a produit un certificat médical
+daté du 10 juin 2014.
+c)
+Ensuite de l’audience de conciliation du 30 octobre 2014, qui n’a pas abouti favorablement,
+le plaignant a requis, par lettre du 31 octobre 2014, l’audition de trois témoins, à
+savoir F.________, [...] et [...].
+Le procureur a finalement procédé à l’audition d’un seul témoin, soit
+de F.________, en date du 12 octobre 2015.
+B.
+Par ordonnance du 2 novembre 2015, le Ministère
+public de l’arrondissement du Nord vaudois a ordonné le classement de la procédure pénale
+dirigée contre G.________ pour voies de fait et menaces (I) et a laissé les frais de procédure
+à la charge de l’Etat (II). En substance, le procureur a considéré qu’un classement
+de la procédure se justifiait au vu des dénégations du prévenu, des déclarations
+du témoin F.________ qui ne corroboraient pas la version du plaignant et du certificat médical
+faisant état d’une lésion qui, selon lui, pouvait difficilement être causée
+par une bouteille ou un verre.
+C.
+a)
+Par acte du 4 novembre 2015, C.________ a recouru auprès de la Chambre des recours pénale du
+Tribunal cantonal contre cette ordonnance.
+b)
+Par avis du 10 novembre 2015, la Cour de céans a imparti au recourant un délai au 30 novembre
+2015 pour effectuer un dépôt de 550 fr. à titre de sûretés (art. 383 al. 1
+CPP).
+Par courrier du 20 novembre 2015, C.________ a indiqué ne pas être en mesure de s’acquitter
+du montant précité compte tenu de sa situation financière.
+Par avis du 30 novembre suivant, le Président de la Cour de céans a dispensé le recourant
+du versement des sûretés requises et a indiqué qu’une décision sur l’octroi
+de l’assistance judiciaire gratuite pour les frais de procédure serait rendue ultérieurement
+s’il y avait lieu.
+c)
+Dans ses déterminations du 7 janvier 2016, le Ministère public a indiqué qu’il se
+référait à son ordonnance de classement.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) dans les dix jours devant l’autorité
+de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui, dans le canton de Vaud,
+est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction
+du Code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire; RSV 173.01]).
+En l'espèce, interjeté en temps utile, devant l’autorité compétente, par la
+partie plaignante, qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant aux conditions
+de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant soutient que ce serait à tort
+que le procureur a classé la procédure pénale dirigée contre G.________, le certificat
+médical produit attestant des lésions subies. Il relève en outre que seul un des trois
+témoins dont il a requis l’audition a été entendu par le Ministère public.
+2.2
+Selon l'art. 319 al. 1 CPP, le Ministère public ordonne le classement de tout ou partie de la procédure
+lorsqu'aucun soupçon justifiant une mise en accusation n'est établi (let. a), lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent
+de retenir une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions
+à l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements
+de procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance
+confinant à la certitude. La possibilité de classer la procédure ne saurait toutefois
+être limitée à ce seul cas, car une interprétation aussi restrictive imposerait un
+renvoi en jugement, même en présence d'une très faible probabilité de condamnation
+(ATF 138 IV 86 consid. 4.1.1; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe
+in
+dubio pro duriore
+exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement (ATF 137 IV 219 consid. 7; ATF 138 IV
+86 consid. 4.1.1; ATF
+138 IV 186 consid.
+4.1; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1).
+Enfin, le constat selon lequel aucun soupçon justifiant une mise en accusation n’est établi
+(art. 319 al. 1 let. a CPP) suppose que le Ministère public ait préalablement procédé
+à toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 24 novembre 2014/846 consid. 2.1;
+CREP 11 avril 2014/280 consid. 2a et les références citées).
+2.3
+En l’espèce, il ressort du certificat médical du 10 juin 2014 que le plaignant a consulté
+un médecin le lendemain de l’altercation; selon ce document, l’intéressé,
+qui ressentait des douleurs au niveau frontal, présentait sur le cuir chevelu une plaie de 9 mm
+ainsi qu’un hématome d’une dimension de 1 x 1,5 cm (P. 6). A défaut d’être
+médecin ou expert, le procureur ne pouvait d’emblée exclure que ces lésions aient
+pu être causées par un objet contondant tel qu’une bouteille ou un verre. Par ailleurs,
+le magistrat instructeur
+n’a pas jugé utile de citer à comparaître [...]; or ce témoin, bien que domicilié
+à [...] (VS), aurait pu faire des déclarations utiles à l’instruction. Enfin, si
+[...] n’a pas pu être entendu en début d’année 2015 en raison de problèmes
+de santé (cf. P. 8 et 10), son audition aurait pu être envisagée à une date ultérieure.
+En l’état, force est de constater que des mesures d’instruction complémentaires,
+notamment l’audition des témoins précités et l’obtention d’un avis médical
+sur la compatibilité des lésions constatées avec la version du plaignant, apparaissent
+opportunes. Le classement de la procédure ordonné par le Ministère public est dès
+lors, à ce stade, prématuré.
+3.
+Il résulte de ce qui précède que le recours doit être admis, l’ordonnance attaquée
+annulée et le dossier de la cause renvoyé au Ministère public de l’arrondissement
+du Nord vaudois pour qu’il procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 550 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront laissés à la charge
+de l’Etat (art. 423 al. 1 CPP).
+Vu l’issue de cause, la requête d’assistance judiciaire gratuite pour la procédure
+de recours est sans objet.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance de classement du 2 novembre 2015 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement du Nord vaudois pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 550 fr. (cinq cent cinquante francs), sont laissés à la charge
+de l’Etat.
+V.
+La requête d’assistance judiciaire gratuite pour la procédure de recours est sans objet.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. C.________,
+-
+M. G.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement du Nord
+vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
