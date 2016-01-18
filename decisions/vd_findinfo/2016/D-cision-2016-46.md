@@ -1,0 +1,315 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___46"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 46"
+decided: "2016-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5336952"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-076.md", "switzerland/bund/acts/311.0/art-090.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-019.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2016 / 46
+
+## Regeste
+
+ARBITRAIRE DANS L'APPLICATION DU DROIT, LIBÉRATION CONDITIONNELLE | 75a CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2016 Décision / 2016 / 46
+
+ARBITRAIRE DANS L'APPLICATION DU DROIT, LIBÉRATION CONDITIONNELLE | 75a CP
+
+TRIBUNAL
+CANTONAL
+40
+OEP/MES/58762/AVI/NJ
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+9 Cst., 38 LEP, 393 ss CPP
+Statuant sur le recours interjeté le 21 décembre 2015 par
+B.________
+contre la décision rendue le 7 décembre 2015 par l’Office d’exécution des
+peines dans la cause
+n° OEP/MES/58762/AVI/NJ
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 6 février 2009, le Tribunal criminel de l’arrondissement de l’Est vaudois
+a notamment condamné B.________, pour assassinat, brigandage qualifié, incendie intentionnel
+qualifié, atteinte à la paix des morts et contravention à la Loi fédérale sur
+les stupéfiants, à une peine privative de liberté de 20 ans, sous déduction de 980
+jours de détention préventive, et a ordonné qu’B.________ soit soumis à un
+traitement institutionnel à effectuer en milieu carcéral. Ce jugement a été confirmé
+par la Cour de cassation pénale du Tribunal cantonal le 8 mai 2009 puis par le Tribunal fédéral
+le 4 décembre 2009. Il était reproché au prénommé, né le 20 septembre 1984,
+d’avoir pris part, avec d’autres jeunes gens, à l’assassinat d’un sexagénaire
+à [...]. Les actes se signalaient par leur cruauté et par l’absence de scrupules des
+auteurs.
+Le 6 janvier 2010, l’Office d’exécution des peines (OEP) a ordonné, avec effet
+rétroactif au 3 juin 2009, le placement institutionnel d’B.________ aux Etablissements de
+la plaine de l’Orbe (EPO), avec la poursuite du traitement thérapeutique auprès du Service
+de médecine et psychiatrie pénitentiaires (SMPP).
+Le 14 décembre 2011, l’OEP a rejeté une requête d’B.________ tendant à
+son passage à la Colonie des EPO, au motif que cette ouverture de régime, non prévue par
+le plan d’exécution de la sanction (PES) avalisé le 6 janvier 2010, n’était
+pas envisagée par la Commission interdisciplinaire consultative concernant les délinquants
+nécessitant un prise en charge psychiatrique (CIC). Le 28 septembre 2012, l’OEP a ordonné
+le placement institutionnel d’B.________ au Centre de sociothérapie « la Pâquerette »,
+à Puplinge, dès le 3 octobre 2012, avec la poursuite du traitement thérapeutique entrepris
+auprès de l’Unité de psychiatrie pénitentiaire. Le 10 janvier 2014, l’OEP
+a ordonné le transfert temporaire du prévenu au sein de la prison de Champ-Dollon dans l’attente
+d’une éventuelle place disponible au sein de l’établissement « Curabilis ».
+Ce projet n’a pas pu se concrétiser, l’établissement précité ayant tardé
+à ouvrir ses portes. Le 29 juillet 2014, l’OEP a ordonné le placement d’B.________
+à la prison de la Croisée, à Orbe, dès le 30 juillet 2014, avec la poursuite du traitement
+thérapeutique auprès du SMPP, et le placement du prénommé à l’Etablissement
+de mesures Curabilis, Unité de sociothérapie, à Puplinge, dès son ouverture, à
+une date précise qui sera déterminée par la Direction de cet établissement, avec
+la poursuite du traitement thérapeutique auprès du service médical de l’Etablissement
+de mesures Curabilis.
+b)
+Par décision du 30 janvier 2014, le Collège des Juges d’application des peines a prolongé
+la mesure thérapeutique institutionnelle ordonnée à l’endroit d’B.________
+pour une durée de 5 ans dès le 6 février 2014.
+Par jugement du 23 janvier 2015, cette autorité a refusé, une quatrième fois depuis 2010,
+d’accorder la libération conditionnelle à B.________. Elle a considéré en bref
+que le condamné s’investissait dans sa thérapie et qu’il progressait, mais qu’il
+minimisait les progrès qui lui restaient à faire pour diminuer le risque de récidive au
+point de le rendre supportable pour la société. De plus, le condamné, qui peinait toujours
+à éprouver de l’empathie pour sa victime et à exprimer de l’émotion par
+rapport à ses actes, n’avait pas pris la pleine mesure de leur gravité. Un risque de
+récidive en découlait.
+c)
+Le 1
+er
+octobre 2015, l’OEP a proposé au Collège des Juges d’application des peines de
+refuser une nouvelle fois la libération conditionnelle de la mesure thérapeutique institutionnelle
+à B.________. L’OEP relevait que les intervenants s’accordaient sur une évolution
+favorable de l’intéressé, à l’exception toutefois du SMPP, qui ne pouvait
+encore se prononcer, car le suivi, qui débutait, en était au stade de l’alliance thérapeutique.
+Il estimait que, malgré les progrès de l’intéressé, celui-ci devait encore
+évoluer « quant aux facteurs d’une éventuelle  récidive, soit le
+cadre familial, la capacité d’adaptation, l’autonomie, la motivation au travail, l’investissement
+dans le suivi psychothérapeutique, les projets professionnels et les objectifs de vie ».
+L’Office précisait qu’B.________ « devait prochainement obtenir un élargissement
+de régime, soit un passage en secteur ouvert de la Colonie des EPO, sous réserve de l’avis
+de la CIC devant intervenir le mois prochain, lequel permettra de le tester dans un autre cadre et d’analyser
+son évolution ».
+Le 4 novembre 2015, le Juge d’application des peines a ordonné une expertise psychiatrique,
+chargeant le Dr M.________ de se prononcer sur le diagnostic, sur l’influence du trouble diagnostiqué
+sur le comportement du condamné, sur le risque de récidive, sur l’évolution du condamné
+et sur le changement de cadre. Un délai au 28 février 2016 a été fixé à
+l’expert pour déposer son rapport.
+d)
+Une rencontre interdisciplinaire s’est tenue le 1
+er
+septembre 2015 aux EPO. Il résulte du procès-verbal établi le 17 septembre 2015 par la
+direction de cet établissement à l’intention de la CIC qu’B.________ présente
+un risque de récidive général élevé, que le risque de fuite est faible mais
+pas exclu au vu de l’impulsivité dont l’intéressé peut faire preuve, que son
+évolution est favorable en détention et que les différents intervenants préconisent
+une ouverture de régime avec un passage au secteur ouvert de la Colonie, sous réserve de l’avis
+de la CIC.
+B.
+a)
+Le 16 octobre 2015, B.________ a requis de
+l’OEP qu’il puisse passer à la Colonie des EPO, secteur ouvert.
+b)
+Dans son avis du 20 octobre 2015, la CIC a relevé que l’option sociothérapeutique décidée
+initialement n’avait pas pu être poursuivie et qu’il en résultait une « relative
+indétermination dans l’organisation » à mettre en œuvre pour la suite
+de la prise en charge d’B.________. Sur le plan psychiatrique, le processus de soin en était
+au stade de la création d’une alliance thérapeutique. Le comportement en détention
+et l’adaptation au cadre carcéral ont été jugés adéquats. Malgré
+cela, la commission ne pouvait affirmer avec certitude que l’intéressé avait réellement
+intégré, dans sa manière de fonctionner, les évolutions positives dans son discours
+rapportées par l’évaluation criminologique du 11 août 2015. Il était opportun,
+dans ces circonstances, d’attendre un nouvel avis d’expert, de préciser l’orientation
+à prendre et les étapes à déterminer dans le cadre du plan d’exécution
+de la sanction. D’ici là, aucun élargissement n’était envisageable.
+c)
+Par décision du 7 décembre 2015, l’OEP a refusé de faire droit à la requête
+présentée par B.________ le 16 octobre 2015. Se fondant principalement sur l’avis de
+la CIC du 20 octobre 2015, il a considéré en substance que le transfert du condamné en
+secteur ouvert s’avérait prématuré, car le rapport d’expertise psychiatrique
+était attendu pour la fin du mois de février 2016 et une rencontre interdisciplinaire devait
+se tenir le 10 avril 2016. La situation devait par conséquent être réexaminée en
+mai 2016 par la CIC.
+C.
+Par acte du 21 décembre 2015, B.________
+a interjeté recours contre cette décision devant la Chambre des recours pénale, en concluant
+à son annulation et à ce qu’il soit transféré à la Colonie des Etablissements
+de la plaine de l’Orbe en secteur ouvert.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Le choix du lieu d’exécution constitue
+une modalité d’exécution de la mesure, qui relève de la compétence de l’autorité
+d’exécution (TF 6B_629/2009 du 21 décembre 2009 consid. 1.2.2.2). Aux termes de l’art.
+19 al. 1 let. c LEP (loi sur l'exécution des condamnations pénales du 4 juillet 2006 ;
+RSV 340.01), l’Office d’exécution des peines est notamment compétent pour désigner
+l’établissement dans lequel la personne condamnée sera incarcérée (cf. CREP
+2 décembre 2015/793).
+En vertu de l’art. 38 al. 1 LEP, les décisions rendues par l’Office d’exécution
+des peines peuvent faire l'objet d'un recours auprès de la Chambre des recours pénale. Selon
+l’art. 38 al. 2 LEP, la procédure est régie par les dispositions du Code de procédure
+pénale suisse (CPP du 5 octobre 2007 ; RS 312.0). Le recours doit être adressé
+par écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP).
+En l’espèce, le recours, qui a été interjeté en temps utile devant l’autorité
+compétente et qui satisfait aux conditions de forme posées par
+l’art.
+385 al. 1 CPP, est recevable.
+2.
+2.1
+Invoquant l’interdiction de l’arbitraire (art. 9 Cst [Constitution fédérale de
+la Confédération suisse du 18 avril 1999 ; RS 101]), le recourant reproche à l’autorité
+d’exécution d’avoir refusé son transfert en secteur ouvert en se fondant uniquement
+sur l’avis de la CIC du 20 octobre 2015, sans tenir aucun compte des conclusions du réseau
+interdisciplinaire du 1
+er
+septembre 2015.
+2.2
+Selon la jurisprudence, l'arbitraire, prohibé par l'art. 9 Cst., ne résulte pas du seul fait
+qu'une autre solution pourrait entrer en considération ou même qu'elle serait préférable;
+une décision n’est arbitraire que lorsque elle est manifestement insoutenable, qu'elle se
+trouve en contradiction claire avec la situation de fait, qu'elle viole gravement une norme ou un principe
+juridique indiscuté, ou encore lorsqu'elle heurte de manière choquante le sentiment de la justice
+et de l'équité (ATF 131 I 57 consid. 2 ; ATF 128 I 273 consid. 2.1 les arrêts cités).
+2.3
+Aux termes de l’art. 59 al. 3 CP, le traitement s'effectue dans un établissement fermé
+tant qu'il y a lieu de craindre que l'auteur ne s'enfuie ou ne commette de nouvelles infractions. Il
+peut aussi être effectué dans un établissement pénitentiaire au sens de l'art. 76
+al. 2 CP, dans la mesure où le traitement thérapeutique nécessaire est assuré par
+du personnel qualifié.
+Le risque de récidive doit être concret et hautement probable, c'est-à-dire résulter
+de l'appréciation d'une série de circonstances. Au regard du principe de la proportionnalité,
+le placement dans un établissement fermé ne peut être ordonné que lorsque le comportement
+ou l'état du condamné représente une grave mise en danger pour la sécurité publique
+(TF 6B_1045/2013 consid. 2.1.1).
+2.4
+En l’espèce, la libération conditionnelle
+a été refusée à quatre reprises au recourant, qui a d’ores et déjà
+exécuté la période initiale de cinq ans de la mesure thérapeutique institutionnelle
+(art. 59 al. 4 CP).
+Le complément d’expertise psychiatrique établi le 24 avril 2007 par le professeur P.________
+souligne la nécessité d’un traitement de très longue durée, soit « au
+moins six ans et vraisemblablement huit à dix ans ». Quant à l’expert G.________,
+qui s’est prononcé dans un rapport du 1
+er
+décembre 2011 dans le cadre de l’examen de la libération conditionnelle, il a relevé
+que le risque de voir le recourant commettre un homicide était moindre qu’avant la commission
+des faits pour lesquels il avait été condamné, en raison du caractère aversif, « viscéral »,
+de la confrontation à la décomposition de la victime (p. 29). Il a précisé que le
+risque de récidive portant sur des actes de violence de moindre gravité et le risque lié
+à un comportement irresponsable demeuraient inchangés. De manière générale,
+l’expert a jugé le risque de récidive « moyennement important à important »
+(p. 30). Il a également relevé que le recourant devrait démontrer, dans la perspective
+d’une éventuelle ouverture du cadre, une plus grande disponibilité à un programme
+de sociothérapie réaliste (p. 31). Or, l’exécution de ce projet de sociothérapie
+a pris du retard. La CIC en a conclu qu’il convenait, dans ces circonstances, d’attendre
+le nouvel avis de l’expert mandaté, de préciser l’orientation à prendre et
+les étapes à déterminer dans le cadre du plan d’exécution de la sanction, aucun
+élargissement n’étant envisageable dans l’intervalle.
+Contrairement à ce que soutient le recourant, les opinions exprimées lors de la rencontre interdisciplinaire
+du 1
+er
+septembre 2015 ne sauraient lier la CIC, une réserve en ce sens ayant d’ailleurs été
+expressément formulée (p. 8 du rapport du 17 septembre 2015). Au reste, la CIC devait être
+consultée avant toute décision relative à l’allègement dans l’exécution
+de la mesure (cf. art. 90 al. 4bis CP, 75a CP, 62d al. 2 CP). Compte tenu de son caractère pluridisciplinaire,
+le préavis de cette commission est en outre déterminant et l’autorité d’exécution
+ne peut que difficilement s’en écarter (TF 6B_27/2011 du 5 août 2011 consid. 3.1 ;
+CREP 24 août 2015/534).
+Il résulte de ce qui précède qu’un élargissement du cadre n’est pas envisageable
+avant un nouveau bilan psychiatrique complet. L’élargissement ne peut en effet être ordonné
+à la légère, eu égard à la gravité des faits pour lesquels le recourant
+a été condamné et à l’existence, à dire d’expert, d’un risque
+de récidive non négligeable portant sur des actes de violence. Le grief du recourant est ainsi
+mal fondé.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autres échange d’écritures, et la décision de l’OEP du 7 décembre
+2015 confirmée.
+Par ordonnance du 6 octobre 2015, le Juge d’application des peines a désigné Me Yaël
+Hayat en qualité de défenseur d’office d’B.________ dans le cadre de la procédure
+de libération conditionnelle. Cette décision ne couvre pas les opérations effectuées
+devant l’OEP dans la perspective d’un transfert d’établissement. Il s’agit
+d’une procédure distincte. Me Hayat aurait pu demander à être désignée
+en qualité de défenseur d’office dans la procédure de recours (art. 132 al. 1 let.
+b CPP, applicable mutatis mutandis en vertu de l’art. 38 al. 2 LEP [cf. CREP 2 décembre 2015/793
+consid. 4]). Elle ne l’a toutefois pas fait. Une telle demande aurait de toute manière dû
+être rejetée, car le recours, manifestement mal fondé, était dénué de chances
+de succès (CREP 2 décembre 2015/793 consid. 5, et les références citées). Il
+n’y a dès lors pas lieu de statuer sur le montant d’une indemnité d’office
+en faveur de Me Hayat.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 880 fr. (art. 20 al. 1 TFIP [tarif des frais judiciaires de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision de l’Office d’exécution des peines du 7 décembre 2015 est confirmée.
+III.
+Les frais d’arrêt, par 880 fr. (huit
+cent huitante francs), sont mis à la charge d’B.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Yaël Hayat, avocate (pour B.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Office d’exécution des peines (réf. : [...]),
+-
+Direction des Etablissements pénitentiaires de la plaine de l’Orbe,
+-
+Service médical des Etablissements de la Plaine de l’Orbe,
+-
+M. le Juge d’application des peines (réf. : [...]),
+-
+Dr M.________,
+-
+Direction du Service de médecine et psychiatrie pénitentiaires,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
