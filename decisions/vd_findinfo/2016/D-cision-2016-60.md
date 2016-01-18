@@ -1,0 +1,159 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___60"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 60"
+decided: "2016-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5358335"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 60
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, DÉLAI DE RECOURS | 310 CPP (CH), 322 al. 1 CPP (CH), 322 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2016 Décision / 2016 / 60
+
+DÉCISION D'IRRECEVABILITÉ, DÉLAI DE RECOURS | 310 CPP (CH), 322 al. 1 CPP (CH), 322 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+38
+PE15.002341-HNI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Perrot et Maillard, juges
+Greffier
+:
+M.              Tinguely
+*****
+Art.
+310 et 322 al. 2 CPP
+Statuant sur le recours interjeté le 5 octobre 2015 par
+S.________
+contre l’ordonnance de non-entrée en matière rendue le 10 juin 2015 par le Ministère
+public de l’arrondissement de l’Est vaudois dans la cause
+n° PE15.002341-HNI
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Les 3 février et 18 mai 2015, S.________ a déposé plainte pénale contre Y.________SA,
+X.________, B.________, Q.________, R.________, P.________, O.________SA, L.________SA et G.________SA,
+leur reprochant en particulier de lui avoir caché la valeur réelle des biens qu’elle
+aurait dû percevoir ensuite du décès de son beau-père [...], survenu le 5 juin 2003,
+d’avoir induit la justice en erreur et d’avoir fait de faux témoignages ; elle
+s’estimait victime d’escroquerie et d’abus de confiance, entre autres infractions.
+B.
+Par ordonnance du 10 juin 2015, le Ministère
+public de l’arrondissement de l’Est vaudois a refusé d’entrer en matière
+sur les plaintes (I) et a mis les frais, par 200 fr., à la charge de S.________ (II).
+Le procureur a, pour l’essentiel, considéré que les faits exposés dans les plaintes
+avaient déjà fait l’objet de plusieurs refus de suivre et ordonnances de non-entrée
+en matière, dont la dernière, rendue le 28 février 2014, avait été confirmée
+par la Cour de céans dans son arrêt du 10 avril 2014 et par le Tribunal fédéral dans
+son arrêt du 20 octobre 2014.
+Cette ordonnance, approuvée par le Procureur général le 12 juin 2015, a été
+adressée à S.________ le 16 juin 2015 par pli simple et déposée le 17 juin 2015,
+en poste restante, à l’Office de poste de [...].
+C.
+Par
+acte du 5 octobre 2015, confirmé le 20 octobre 2015 comme valant recours, S.___
+_____
+a recouru contre l’ordonnance du 10 juin 2015, en concluant implicitement à son annulation.
+Par avis du 9 novembre 2015, le Président de la Cour de céans a dispensé la recourante
+du versement de sûretés.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public en application de l’art. 310
+CPP dans les dix jours devant l’autorité de recours (art. 322 al. 2 CPP, applicable par renvoi
+de l’art. 310 al. 2 CPP, et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est dans le
+canton de Vaud la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction
+du Code de procédure pénale suisse ; RSV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire ; RSV 173.01]).
+1.2
+Le délai de recours de dix jours –
+qui ne peut être prolongé (art. 89 al. 1 CPP) – commence à courir le jour qui suit
+la notification de l’ordonnance entreprise (art. 90 al. 1 et 384 let. b CPP; Calame, in: Kuhn/Jeanneret
+(éd.), Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 3 ad art.
+384 CPP).
+En cas d’envoi recommandé, l’acte est réputé notifié le dernier jour
+du délai de garde de sept jours (cf. art. 85 al. 4 let. a CPP). Cette présomption trouve également
+application en cas de demande de garde de courrier (poste restante) (TF 1P.369/2000 du 24 juillet
+2000 consid. 1b). On considère en d’autres termes que l’avis de retrait, qui mentionne
+l’existence du délai de garde de sept jours, parvient dans la sphère d’influence
+au moment où il est déposé à l’office de poste chargé de garder le courrier.
+En cas d’envoi par pli simple (en poste restante), c’est l’acte lui-même qui parvient
+dans la sphère d’influence du destinataire lorsqu’il est déposé à l’office
+chargé de garder le courrier. Le délai de recours commence dès lors à courir dès
+le jour qui suit le dépôt (cf., par analogie, s’agissant d’un dépôt dans
+une case postale : TF 2C_926/2014 du 17 octobre 2014 consid. 3.3).
+1.3
+En l’espèce, l’ordonnance du
+10 juin 2015, adressée le 16 juin 2015 par pli simple en poste restante, a été notifiée
+le 17 juin 2015, jour de son dépôt en poste restante à l’Office de poste de [...].
+Le délai de recours de dix jours a dès lors commencé à courir le 18 juin 2015 et
+il est arrivé à échéance le 29 juin 2015, le 27 juin 2015 étant un
+samedi (cf. art. 90 al. 2 CPP).
+Force est ainsi de constater que l’acte de recours, remis à la Poste le 5 octobre 2015,
+a été déposé tardivement.
+2.
+Il résulte de ce qui précède que le recours doit être déclaré irrecevable,
+sans autre échange d’écritures (art. 390 al. 2 CPP).
+Les
+frais de la procédure de recours, constitués du seul émolument d'arrêt, par 440 fr.
+(art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010, RSV 312.03.1]), seront mis à la charge de la recourante, qui succombe (art.
+428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 440 fr. (quatre cent quarante francs), sont mis à la charge de
+la recourante.
+III.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme S.________,
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de l’Est
+vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
