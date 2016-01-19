@@ -1,0 +1,279 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___45"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 45"
+decided: "2016-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5341989"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-026.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2016 / 45
+
+## Regeste
+
+LIBÉRATION CONDITIONNELLE, PRONOSTIC, DÉCISION DE RENVOI, APATRIDE | 86 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2016 Décision / 2016 / 45
+
+LIBÉRATION CONDITIONNELLE, PRONOSTIC, DÉCISION DE RENVOI, APATRIDE | 86 CP
+
+TRIBUNAL
+CANTONAL
+44
+AP15.025765-PHK
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 janvier 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+86 CP ; 26 al. 1, 38 LEP ; 393 CPP
+Statuant sur le recours interjeté le 13 janvier 2016 par
+X.________
+contre l’ordonnance rendue le 5 janvier 2016 par le Juge d’application des peines dans la
+cause
+n° AP15.025765-PHK
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+ordonnance du 2 décembre 2015, le Ministère public de l'arrondissement de La Côte a condamné
+X.________ à la peine de six mois de privation de liberté, sous déduction de 92 jours
+de détention avant jugement, pour vol, tentative de vol, dommages à la propriété
+et violation de domicile, peine complémentaire à celles prononcées le 5 janvier 2015 par
+le Ministère public du Canton de Genève et le 19 août 2015 par le Ministère public
+de l'arrondissement du Nord vaudois.
+X.________ exécute cette peine depuis le 14 décembre 2015 à la prison de La Croisée,
+à Orbe. Il a atteint les deux tiers de sa peine le 12 janvier 2016, le terme de celle-ci étant
+fixé au 13 mars 2016.
+b)
+Le
+casier judiciaire du prénommé fait état de quatre condamnations, en sus de celle qu’il
+exécute actuellement, prononcées en 2006, par le Tribunal des mineurs, en 2013 par le Ministère
+public de Berne puis à deux reprises en 2015 par le Ministère public de Genève et le Ministère
+public de l’arrondissement de La Côte, essentiellement pour des infractions contre le patrimoine.
+B.
+a)
+Selon le rapport établi par la Direction
+de la prison de La Croisée le 21 décembre 2015, le comportement de l’intéressé
+en détention pouvait être qualifié de bon, à l’exception d’une altercation
+avec un codétenu et d’une grève de la faim effectuée par le détenu du 25 au
+29 octobre 2015 pour manifester son mécontentement après que le procureur lui avait refusé
+le droit de téléphoner.
+Pour le surplus, la direction de l’établissement de détention a indiqué que le condamné
+était dans le déni de ses actes mais qu’il semblait accepter sa condamnation. Elle a
+ajouté que X.________ manifestait son intention de quitter la Suisse, tout en précisant que
+la Serbie – pays vers lequel il devrait être refoulé – n’était qu’un
+pays de transit, l’intéressé faisant partie de la communauté des gens du voyage
+et vivant dans un camping-car. L’établissement de détention a préavisé favorablement
+à la libération conditionnelle du condamné, à la condition qu’il quitte le
+territoire suisse et réintègre la Serbie.
+b)
+Selon
+les informations fournies le 22 décembre 2015 par le Service de la population du Canton de Vaud
+(SPOP), X.________ a fait l’objet d’une décision de non-entrée en matière
+et de renvoi rendue le 28 octobre 2014 par le Secrétariat d’Etat aux migrations (SEM) et entrée
+en force le 3 mars 2015. Il n’est donc au bénéfice d’aucune autorisation de séjour
+et devra quitter le territoire suisse dès sa sortie de prison. Toutefois, le SPOP a indiqué
+que l’intéressé ne collaborait nullement avec les autorités compétentes en
+vue de son renvoi et qu’il n’avait en particulier fourni aucun document susceptible de prouver
+son identité. Des démarches étaient en cours auprès du SEM en vue d’obtenir
+un document de voyage, mais, selon le SPOP, celles-ci pouvaient s’avérer longues en l’absence
+de collaboration active de l’intéressé, étant relevé qu’il demeurait
+un doute sur sa nationalité.
+c)
+Dans
+sa saisine du 24 décembre 2015, l’Office d’exécution des peines (OEP) a proposé
+de refuser la libération conditionnelle à X.________. A l’appui de ce préavis, l’office
+a notamment relevé les antécédents pénaux du condamné, l’absence de perspectives
+de réinsertion de celui-ci, l’impossibilité de procéder à un renvoi immédiat
+ainsi que la probable précarité inhérente à sa situation.
+d)
+X.________ a été entendu par le Juge d’application des peines le 5 janvier 2016. Il a
+indiqué que l’identité sous laquelle il avait été condamné, soit X.________,
+né le [...] 1989, était en fait un alias qu’il avait donné aux autorités lorsqu’il
+était mineur ; il se nommerait en réalité [...], né le [...] 1987, et serait
+apatride. Il a soutenu n’avoir aucune attache avec la Serbie, dès lors qu’il serait
+né en Italie, pays qu’il aurait quitté il y a une dizaine d’années pour voyager
+avec sa communauté – les Roms – entre la France et la Belgique. Interrogé sur les
+délits qui ont conduit à sa présente incarcération, il les a attribués à
+une importante alcoolisation, précisant qu’il se trouvait également sous l’effet
+de l’alcool pour les délits réprimés en 2015 par le Ministère public du Canton
+de Genève. Il a déclaré regretter d’avoir fait « des choses qui ne se
+font pas », privant ainsi sa femme et ses sept enfants de sa présence alors que sa famille
+avait besoin de lui. S’agissant de ses projets en cas de libération conditionnelle, il a indiqué
+qu’il souhaitait rejoindre sa famille et quitter la Suisse. Il a toutefois précisé que
+l’un de ses enfants devait subir une opération cardiaque dans le courant du mois de janvier
+2016 et que cette intervention nécessiterait un suivi médical durant plusieurs mois. Dans la
+mesure où il obtiendrait une libération conditionnelle avant l’opération, il a exposé
+que la famille se rendrait immédiatement en Belgique où l’enfant serait hospitalisé.
+Dans le cas où un tel élargissement devrait lui être refusé, il a toutefois indiqué
+que l’opération aurait lieu au CHUV et que toute la famille resterait alors en Suisse jusqu’à
+la fin des soins nécessaires. Enfin, X.________ a produit un certificat médical selon lequel
+son épouse souffre de dépression et indiquant que si la famille devait quitter l’appartement
+qu’elle occupe actuellement à Lausanne, son avenir serait gravement compromis.
+e)
+Par
+ordonnance du 5 janvier 2016, le Juge d’application des peines a refusé d’accorder la
+libération conditionnelle à X.________ (I) et a laissé les frais de cette ordonnance à
+la charge de l’Etat (II).
+C.
+Par acte du 12 janvier 2016, X.________ a recouru
+auprès de la Chambre des recours pénale contre cette ordonnance, indiquant qu’il était
+important pour lui de pouvoir sortir de prison le plus tôt possible pour être auprès de
+sa famille dans une période compliquée où son fils devait se faire opérer du cœur
+alors que sa femme souffrait de dépression.
+En droit
+:
+1.
+1.1
+L’art. 26 al. 1 let. a LEP (Loi cantonale
+du 4 juillet 2006 sur l’exécution des condamnations pénales ; RSV 340.01) dispose
+que, sous réserve des compé­tences que le droit fédéral attribue expressément
+au juge qui connaît de la commission d'une nouvelle infraction, le juge d'application des peines
+prend toutes les décisions relatives à la libération conditionnelle et statue dès
+lors notamment sur l’octroi ou le refus de la libération conditionnelle.
+En vertu de l’art. 38 al. 1 LEP, les décisions rendues par le juge d'application des peines
+et par le collège des juges d'application des peines peuvent faire l'objet d'un recours auprès
+de la Chambre des recours pénale du Tribunal cantonal. La procédure est régie par les
+dispositions prévues aux art. 393 ss CPP (Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0), par renvoi de
+l’art.
+38 al. 2 LEP.
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP).
+1.2
+En l’espèce, le recours a été
+interjeté en temps utile devant l’autorité compétente par le condamné qui a
+qualité pour recourir au sens de l’art. 382 al. 1 CPP. Répondant de manière suffisante
+aux exigences de forme et de motivation posées par l’art. 385 al. 1 CPP, il est recevable,
+de sorte qu’il y a lieu d’entrer en matière.
+2.
+2.1
+Selon l'art. 86 al. 1 CP (Code pénal suisse
+du 21 décembre 1937 ; RS 311.0), l'autorité compétente libère conditionnellement
+le détenu qui a subi les deux tiers de sa peine, mais au moins trois mois de détention, si
+son comportement durant l'exécution de la peine ne s'y oppose pas et s'il n'y a pas lieu de craindre
+qu'il ne commette de nouveaux crimes ou de nouveaux délits.
+Cette disposition renforce le principe selon lequel la libération conditionnelle est la règle
+et son refus l'exception, dans la mesure où il n'est plus exigé qu'il soit à prévoir
+que le condamné se conduira bien en liberté (cf. art. 38 ch. 1 al. 1 aCP), mais qu'il ne soit
+pas à craindre qu'il commette de nouveaux crimes ou délits. Autrement dit, il n'est plus nécessaire
+qu'un pronostic favorable puisse être posé ; il suffit que le pronostic ne soit pas défavorable
+(TF 6B_521/2011 du 12 septembre 2011 consid. 2.3 ; ATF 133 IV 201 consid. 2.2).
+Le pronostic requis doit être posé sur la base d'une appréciation globale, prenant en
+considération les antécédents de l'intéressé, sa personnalité, son comportement
+en général et dans le cadre des délits qui sont à l'origine de sa condamnation, son
+comportement au travail ou en semi-liberté et, surtout, le degré de son éventuel amendement
+ainsi que les conditions dans lesquelles il est à prévoir qu'il vivra (TF 6B_521/2011 précité
+consid. 2.3 ; ATF 133 IV 201 précité consid. 2.3 ; Maire, La libération conditionnelle,
+in: Kuhn/Moreillon/Viredaz/Bichovsky, La nouvelle partie générale du Code pénal suisse,
+Berne 2006, p. 361 et les références citées). Tout pronostic constitue une prévision
+au sujet de laquelle on ne peut exiger une certitude absolue ; il faut donc se contenter d'une certaine
+probabilité, un risque de récidive ne pouvant être complètement exclu (Maire, op.
+cit., pp. 361 s. ; ATF 119 IV 5 consid. 1b).
+2.2
+En l'espèce, la condition objective des deux
+tiers de la peine prévue par l'art. 86 al. 1 CP est réalisée. La condition du bon comportement
+du recourant en détention doit également être considérée comme réalisée.
+Seule est donc litigieuse la question relative au pronostic.
+A cet égard, on relèvera, à l’instar du Juge d’application des peines, que
+l’identité réelle du condamné n’est à ce jour pas établie, X.________
+ayant indiqué que ce nom n’était en fait qu’un alias. On ignore donc également
+tout de son éventuelle nationalité, le prénommé se disant apatride. Cette situation
+ne permet pas d’envisager l’exécution de la décision de renvoi de Suisse dont il
+fait l’objet et son absence de collaboration est susceptible de rendre la procédure permettant
+l’obtention de documents nécessaires longue et fastidieuse. Au surplus, le recourant est récidiviste
+et ses antécédents judiciaires, de même nature, ne sauraient être ignorés au
+moment d’établir le pronostic quant à son comportement futur. Son degré d'introspection
+et d'amendement est par ailleurs insuffisant pour espérer un changement de comportement et les regrets
+exprimés apparaissent principalement motivés par les conséquences de son incarcération
+pour sa famille. S’agissant des projets d’avenir du recourant, qui consistent à réintégrer
+la communauté des gens du voyage et à poursuivre ses voyages en Europe de l’Ouest, ils
+ne sont pas compatibles avec son absence de documents d’identité. Enfin, le condamné
+a indiqué qu’il resterait en Suisse pour le cas où son fils devrait être opéré
+avant sa sortie de détention. En faisant de sa libération conditionnelle une condition à
+son départ immédiat de Suisse, le condamné semble vouloir reporter sur les épaules
+des autorités pénales la responsabilité d’une éventuelle insoumission de sa
+part à la décision de renvoi dont il fait l’objet. A cet égard, on relèvera
+toutefois que le recourant a parallèlement produit un certificat médical indiquant qu’en
+raison de l’état de santé de son épouse, le départ de la famille de l’appartement
+qu’elle occupe actuellement à Lausanne grèverait la situation de celle-ci, ce qui laisse
+supposer que la perspective d’un départ n’est de toute manière pas concrètement
+envisagée, même en cas de libération conditionnelle. En restant en Suisse à sa sortie
+de détention, X.________ se retrouvera donc immanquablement dans les mêmes conditions que celles
+qui prévalaient lors de la commission des infractions qui ont fait l’objet de ses dernières
+condamnations.
+Au vu de ces éléments, le pronostic quant au comportement futur du recourant est clairement
+défavorable et c’est à juste titre que le Juge d’application des peines a refusé
+de lui octroyer la libération conditionnelle.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autres échanges d’écritures (art. 390 al. 2 CPP) et l’ordonnance
+attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 5 janvier 2016 est confirmée.
+III.
+Les frais du présent arrêt, par 770
+fr. (sept cent septante francs), sont mis à la charge de X.________.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. X.________,
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Juge d’application des peines,
+-
+M. le Procureur de l’arrondissement de La Côte,
+-
+Office d’exécution des peines (réf. : OEP/PPL/147336/VRI/SMS),
+-
+Direction de la prison de la Croisée,
+-
+SPOP, secteur étrangers,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
