@@ -1,0 +1,304 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___42"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 42"
+decided: "2016-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5332586"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-228.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2016 / 42
+
+## Regeste
+
+DÉTENTION PROVISOIRE, MESURE DE SUBSTITUTION À LA DÉTENTION, COMPLÉMENT | 221 CPP (CH), 237 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2016 Décision / 2016 / 42
+
+DÉTENTION PROVISOIRE, MESURE DE SUBSTITUTION À LA DÉTENTION, COMPLÉMENT | 221 CPP (CH), 237 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+42
+PE15.013553-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 janvier 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+221, 237, 393 al. 1 let. c CPP
+Statuant sur le recours interjeté le 11 janvier 2016 par
+H.________
+contre l’ordonnance de prolongation et de refus de libération de la détention provisoire
+rendue le 30 décembre 2015 par le Tribunal des mesures de contrainte dans la cause
+n° PE15.013553-CPB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+La Procureure de l’arrondissement du Nord vaudois est en charge depuis le 28 juillet 2015 d’une
+instruction pénale dirigée contre H.________.
+La prévenue est mise en cause pour avoir, le 13 février 2015 à [...], frappé son
+compagnon D.________ à la tête ainsi que pour l’avoir, le 21 février 2015, insulté
+et menacé avant de l’asperger d’essence. Toujours au mois de février 2015, elle
+aurait injurié et frappé à deux reprises U.________ et G.________. Il lui est également
+reproché d’avoir, le 11 juillet 2015, lors d’une dispute avec D.________ à leur
+domicile, menacé, s’il la touchait, de le blesser avec un couteau à beurre dont elle
+s’était saisie. Par la suite, à la cuisine, elle se serait emparée d’un couteau
+à pain et aurait planté la lame dans le dos de la main de son compagnon. Celui-ci a souffert
+d’une plaie ouverte d’environ 3 cm entre le pouce et l’index.
+b)
+Par ordonnance du 15 juillet 2015, le Tribunal des mesures de contrainte a ordonné, en raison du
+risque de réitération, la détention provisoire de H.________ pour une durée de trois
+mois, soit jusqu’au 11 octobre 2015. Il a prolongé la détention jusqu’au 11 janvier
+2016 par ordonnance du 29 septembre 2015, que la Chambre des recours pénale a confirmée par
+arrêt du 14 octobre 2015 (n° 665), en relevant, après avoir constaté l’existence
+de présomptions de culpabilité suffisantes, qu’il importait, pour évaluer précisément
+le caractère potentiellement dangereux de la prévenue et se prononcer sur un éventuel
+risque de réitération, de connaître les conclusions de l’expertise psychiatrique
+mise en oeuvre.
+L’expert psychiatre a déposé son rapport le 29 octobre 2015 (P. 50).
+c)
+Par ordonnance du 20 novembre 2015, le Tribunal des mesures de contrainte, faisant partiellement droit
+à la requête de H.________, a constaté que les conditions de sa détention provisoire
+étaient toujours réalisées (I), a ordonné, en lieu et place de la détention
+provisoire, des mesures de substitution consistant en l’obligation pour la prévenue de se
+soumettre à un traitement psychothérapeutique ambulatoire, assorti d’une médication
+neuroleptique sous forme de dépôt, auprès d’Appartenances (II), a fixé la durée
+maximale des mesures de substitution à trois mois, à compter de la libération de la prévenue
+(III), a donné injonction à Appartenances d’informer le Ministère public de toute
+absence de la prévenue aux rendez-vous fixés et de tout manquement dans le suivi (IV), a dit
+que la prévenue devrait être libérée sur ordre du Ministère public donné
+à la prison de la Tuilière lorsqu’elle pourrait attester auprès du procureur un
+premier rendez-vous auprès d’Appartenances (V).
+Par arrêt du 2 décembre 2015 (n° 791), la Chambre des recours pénale a admis le recours
+interjeté par le Ministère public de l’arrondissement du Nord vaudois contre l’ordonnance
+précitée, qu’il a réformée en ce sens que la demande de mise en liberté
+provisoire présentée le 11 novembre 2015 par H.________ a été rejetée. Elle
+a considéré qu’il subsistait des doutes quant aux points de savoir si l’état
+de santé de la prévenue était suffisamment stabilisé et si elle répondait de
+manière adéquate au traitement médicamenteux. A ce stade, le traitement ambulatoire ordonné
+par le Tribunal des mesures de contrainte ne paraissait pas apte à prévenir le risque de réitération
+lié au trouble psychique dont souffrait l’intéressée, laquelle devait par conséquent
+être maintenue en détention tant que les points susmentionnés ne seraient pas éclaircis.
+B.
+a)
+Le 18 décembre 2015, le Ministère
+public a sollicité la prolongation de la détention provisoire de la prévenue, exposant
+que les risques de réitération et de passage à l’acte ne pourraient être évalués
+qu’une fois connus les résultats du premier et du deuxième complément de l’expertise
+du 29 octobre 2015.
+b)
+Par lettre du 21 décembre 2015, la prévenue a requis du Ministère public qu’il ordonne
+sa mise en liberté immédiate. A l’appui de cette requête, elle a produit deux rapports
+du CHUV des 19 août et 13 novembre 2015, une copie d’un courriel de la Dresse Y.________ du
+14 décembre 2015 ainsi qu’une copie d’un courriel émanant du CMS du Nord vaudois.
+Le Ministère public a pris position sur cette demande le 23 décembre 2015.
+Le même jour, dans le délai de l’art. 228 al. 3 CPP, la prévenue, se référant
+aux motifs exposés dans sa demande de libération, a conclu au rejet de la demande de prolongation
+de la détention provisoire et à sa mise en liberté immédiate, assortie de différentes
+mesures de substitution.
+c)
+Par ordonnance du 30 décembre 2015, le Tribunal des mesures de contrainte a rejeté la demande
+de libération de la détention provisoire de H.________ (I) et a ordonné la prolongation
+de sa détention provisoire pour une durée maximale de deux mois, soit au plus tard jusqu’au
+11 mars 2016 (II et III).
+C.
+Par acte du 11 janvier 2016, H.________ a interjeté recours contre cette ordonnance, en concluant,
+sous suite de frais et de dépens, principalement à sa réforme dans le sens de sa mise
+en liberté provisoire moyennant les mesures de substitution suivantes : l’obligation
+de se soumettre à un traitement psychothérapeutique ambulatoire assorti d’une médication
+neuroleptique sous forme dépôt, auprès d’Appartenances, l’injonction donnée
+aux intervenants du CMS du Nord vaudois ainsi qu’à ceux d’Appartenances d’informer
+immédiatement le Ministère public de toute absence de la prévenue aux rendez-vous fixés
+et de tout manquement dans le suivi , l’obligation d’aller vivre chez sa mère jusqu’à
+ce qu’un retour à domicile soit possible, selon avis médical, ainsi que l’obligation
+d’exercer son droit de visite en présence d’un tiers, aussi longtemps que cela serait
+jugé nécessaire à dire de spécialiste.
+A l’appui de son recours, la prévenue a produit un rapport de complément d’expertise
+établi le 7 janvier 2016 par le Dr K.________, de l’Institut de psychiatrie légale du
+CHUV.
+Le Tribunal des mesures de contrainte et le Ministère public ont été invités à
+se déterminer sur le recours.
+Le 15 janvier 2016, le Tribunal des mesures de contrainte a indiqué qu’il renonçait à
+se déterminer, se référant aux considérants de son ordonnance. Quant au Ministère
+public, il a conclu le même jour au rejet du recours.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. c CPP,
+le recours est recevable contre les décisions du tribunal des mesures de contrainte dans les cas
+prévus par le code (art. 222 CPP). Le recours doit être adressé par écrit, dans un
+délai de dix jours dès la notification de la décision attaquée (cf. art. 384 let.
+b CPP), à l’autorité de recours (art. 396 al. 1 CPP), qui, dans le canton de Vaud, est
+la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du code
+de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire;
+RSV 173.01]).
+En
+l’espèce, il y a lieu d’entrer en matière sur le recours, qui a été interjeté
+en temps utile devant l’autorité compétente et qui satisfait aux conditions de forme
+posées par l’art. 385 al. 1 CPP.
+1.2
+Le rapport de complément d’expertise
+du 7 janvier 2016 produit à l’appui du recours est recevable et peut être pris en considération
+au vu de la jurisprudence fédérale en la matière (TF 1B_422/2014 du 20 janvier 2015 consid.
+3.1 et la référence citée).
+2.
+2.1
+La recourante ne conteste ni l’existence
+de présomptions de culpabilité suffisantes (art. 221 al. 1 CPP), ni le motif de détention
+(risque de réitération) retenu par l’autorité précédentes. On se réfèrera
+sur ces points notamment à l’arrêt de la Chambre des recours pénale du 2 décembre
+2015. Seule est litigieuse la question de savoir si les mesures de substitution proposées sont aptes
+à prévenir le risque de réitération.
+2.2
+Conformément au principe de la proportionnalité
+(cf. art. 36 al. 3 Cst. [Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101] ; pour la procédure pénale, cf. art. 197 al. 1 let. c CPP),
+il convient d'examiner les possibilités de mettre en oeuvre d'autres solutions moins dommageables
+que la détention (règle de la nécessité), qui représente l'
+ultima
+ratio
+. Cette exigence est concrétisée
+par l'art. 237 al. 1 CPP, qui prévoit que le tribunal compétent ordonne une ou plusieurs
+mesures moins sévères en lieu et place de la détention provisoire ou de la détention
+pour des motifs de sûreté si ces mesures permettent d'atteindre le même but que la détention.
+Du fait que les mesures de substitution – énumérées de manière non exhaustive
+à l'art. 237 al. 2 CPP (cf. Moreillon/Parein-Reymond, Petit commentaire du Code de procédure
+pénale, Bâle 2013, n. 12 ad art. 237 CPP) – sont un succédané à la
+détention provisoire, le tribunal doit les prononcer à la place de la détention provisoire
+ou pour des motifs de sûreté si elles permettent d'empêcher la concrétisation du
+risque (Schmocker, in : Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 2 ad art. 237 CPP).
+L’obligation de se soumettre à un traitement médical ou à des contrôles (art.
+237 al. 2 let. f CPP) vise surtout les prévenus souffrant de troubles psychiques ou de dépendance
+à une substance. Cette mesure tend non seulement à des objectifs de guérison et de réinsertion,
+mais également à limiter le risque de récidive (Moreillon/Parein-Reymond, op. cit., n.
+32 ad art. 237 CPP et les références citées).
+3.3
+En l’espèce, l’expert psychiatre considère qu’il est approprié, pour
+prévenir de nouvelles décompensations psychotiques susceptibles d’entraîner des
+actes de violence, d’ordonner un traitement ambulatoire comprenant la poursuite de la médication
+neuroleptique sous forme de dépôt et la reprise des entretiens thérapeutiques. Il estime
+que ce suivi peut être repris auprès de l’association Appartenances où la prévenue
+pourrait bénéficier d’entretiens individuels réguliers avec la psychologue qui la
+prenait en charge avant son arrestation, ainsi qu’avec le médecin psychiatre de l’association
+qui pourrait également faire des prescriptions médicamenteuses du neuroleptique qu’elle
+recevait sous forme de dépôt depuis le mois de juin 2015 (P. 50, p. 19). L’expert rapporte
+que, d’une manière générale, les taux plasmatiques du traitement neuroleptique prescrit
+montent lentement et progressivement au fil des injections, étant précisé qu’ils
+mettent quatre à six mois pour atteindre l’équilibre (P. 50, p. 12). A ce sujet, il résulte
+des rapports du CHUV des 19 août et 13 novembre 2015, produits à l’appui de la demande
+de libération provisoire, que les taux plasmatiques du neuroleptique administré ont augmenté
+de manière significative entre août et novembre 2015, passant de 196 ng/ml à 303 ng/ml.
+Comme la recourante répondait bien au médicament, la possibilité de diminuer la dose a
+été envisagée, compte tenu des effets secondaires (cf. compte-rendu final du 13 novembre
+2015). On peut dès alors retenir que les taux plasmatiques du traitement neuroleptique ont aujourd’hui
+atteint l’équilibre.
+Dans son rapport du 29 octobre 2015, l’expert relève la volonté de la recourante d’adhérer
+au projet thérapeutique mis en place, tout en signalant la possibilité qu’elle décide
+de ne plus s’y soumettre à l’avenir (P. 50, p. 20). Il préconise, pour éviter
+de nouvelles décompensations psychotiques, un traitement ambulatoire comprenant la poursuite de
+la médication neuroleptique sous forme dépôt et la reprise des entretiens psychothérapeutiques
+(P. 50, p. 19). L’expert, dans son complément du 7 janvier 2016, précise que l’état
+psychique de la recourante ne nécessite pas un traitement institutionnel, lequel ne serait ni proportionné
+ni adéquat et n’apporterait rien de plus sur le plan thérapeutique (p. 2). L’expert
+ne s’est pas prononcé sur la fréquence des entretiens, estimant qu’il appartenait
+aux thérapeutes de la recourante d’évaluer ce point en fonction de l’évolution
+de l’état de santé de la patiente.
+Enfin, un courriel du CMS du Nord vaudois confirme que la recourante peut y être reçue en consultation
+si elle conserve ses papiers dans la commune d’ [...] et qu’el
+le
+se déplace au CMS.
+3.4
+Cela étant, la Chambre des recours pénale considère qu’au vu des différents
+éléments figurant désormais au dossier, les conditions de la libération provisoire
+moyennant la mise en place de mesures de substitution devraient pouvoir être réalisées.
+La nature et les modalités de mise en œuvre des mesures nécessaires doivent toutefois
+faire l’objet d’une instruction minutieuse. Il s’agit notamment de s’assurer
+que les divers intervenants concernés (mère de la recourante, Appartenances, CMS, notamment)
+sont prêts à collaborer et que le Ministère public pourra être averti rapidement
+en cas de non-respect des injonctions données à la recourante.
+4.
+En définitive, le recours doit être admis et l’ordonnance du 30 décembre 2015 annulée,
+le dossier de la cause étant renvoyé au Tribunal des mesures de contrainte pour qu’il
+instruise la question des mesures de substitution et de leurs modalités d’exécution.
+Dans l’intervalle, la recourante doit être maintenue en détention provisoire.
+Les
+frais de la procédure de recours, constitués en l'espèce de l'émolument d'arrêt,
+par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; RSV 312.03.1]), et des frais imputables à la défense
+d'office (art. 422 al. 1 et 2 let. a CPP), fixés à 720 fr., plus la TVA par 57 fr. 60,
+soit 777 fr. 60, seront laissés à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 30 décembre 2015 est annulée et le dossier de la cause est renvoyé
+au Tribunal des mesures de contrainte pour qu’il procède dans le sens des considérants,
+puis rende une nouvelle décision.
+III.
+H.________ est maintenue en détention provisoire
+jusqu’à droit connu sur la nouvelle décision du Tribunal des mesures de contrainte.
+IV.
+L’indemnité
+allouée au défenseur d’office de H.________ est fixée à 777 fr. 60 (sept cent
+septante-sept francs et soixante centimes).
+V.
+Les frais du présent arrêt, par 880 fr. (huit cent huitante francs), ainsi que l'indemnité
+due au défenseur d'office de H.________, par 777 fr. 60 (sept cent septante-sept francs et soixante
+centimes), sont laissés à la charge de l’Etat.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Miriam Mazou, avocate (pour H.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
