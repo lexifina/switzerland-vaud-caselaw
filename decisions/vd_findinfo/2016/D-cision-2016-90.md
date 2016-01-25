@@ -1,0 +1,162 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___90"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 90"
+decided: "2016-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5365750"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-434.md"]
+---
+
+# VD Findinfo Décision / 2016 / 90
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE, MOTIVATION DE LA DÉCISION | 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2016 Décision / 2016 / 90
+
+ORDONNANCE DE SÉQUESTRE, MOTIVATION DE LA DÉCISION | 263 CPP (CH), 393 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+14
+PE13.017627-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+25 janvier 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+263, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 24 décembre 2015 par
+P.________
+contre l’ordonnance de séquestre rendue le 7 décembre 2015 par le Ministère public
+de l’arrondissement de La Côte dans la cause
+n° PE13.017627-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Une instruction pénale est ouverte devant le Ministère public de l’arrondissement de
+La Côte notamment contre E.________ pour abus de confiance et escroquerie. Il est reproché
+à ce dernier d’avoir disposé de véhicules qui ne lui appartenaient pas.
+B.
+Par ordonnance du 7 décembre 2015, le Ministère
+public, se fondant sur l’art. 263 al. 1 let. c et d CPP, a ordonné le séquestre du véhicule
+Ford Mustang GT (2010) de couleur noire, n° de châssis [...], en possession de P.________.
+C.
+Par acte du 24 décembre 2015, P.________
+a recouru auprès de la Chambre des recours pénale contre cette ordonnance, en concluant sous
+suite de frais et dépens à son annulation.
+Invitée à se déterminer, la procureure a renoncé à procéder dans le délai
+qui lui avait été imparti à cet effet.
+En droit
+:
+1.
+Interjeté en temps utile (art. 396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0]) contre une ordonnance de séquestre du Ministère public (art. 263 al. 1 et
+393 al. 1 let. a CPP), par un tiers, qui soutient être le propriétaire du véhicule séquestré
+et qui a ainsi un intérêt juridique à l’annulation ou à la modification de
+l’ordonnance, et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+En vertu de l'art. 263 al. 1 CPP, des objets et des valeurs patrimoniales appartenant au prévenu
+ou à des tiers peuvent être mis sous séquestre, lorsqu'il est probable qu'ils seront utilisés
+comme moyens de preuve (let. a), qu’ils seront utilisés pour garantir le paiement des frais
+de procédure, des peines pécuniaires, des amendes et des indemnités (let. b), qu’ils
+devront être restitués au lésé (let. c) ou qu'ils devront être confisqués
+(let. d).
+L’art. 263 al. 2 CPP précise que le séquestre est ordonné par voie d'ordonnance
+écrite, brièvement motivée. Cette disposition prévoit expressément l'obligation
+de motiver une ordonnance de séquestre aux fins de respecter le droit d'être entendu des personnes
+dont les biens sont saisis, de manière à ce qu’elles puissent se rendre compte de la
+portée de celle-ci, l'attaquer en connaissance de cause et afin que l'autorité de recours puisse
+exercer son contrôle (Lembo/Julen Berthod, in: Kuhn/Jeanneret [éd.], Commentaire romand, Code
+de procédure pénale suisse, Bâle 2011, n. 35 ad art. 263 CPP). En principe, le défaut
+de motivation conduit à l'annulation de l'ordonnance et au renvoi du dossier à l'autorité
+saisie de la cause pour nouvelle décision.
+2.2
+En l’espèce, le Ministère public s’est contenté, pour toute motivation, de
+se référer dans l’ordonnance attaquée aux dispositions légales relatives au
+séquestre, à savoir l'art. 263 al. 1 let. c et d CPP, sans toutefois indiquer en quoi les conditions
+légales de ces cas de séquestre seraient réunies, si bien que l’on ne voit pas le
+lien entre ce qui est précisément reproché aux prévenus et le véhicule saisi.
+La seule référence à la norme légale, insuffisante sous l'angle des exigences de
+motivation de la décision (TF 1A.95/2002 du 16 juillet 2002 consid. 3.3 ; CREP 10 décembre
+2014/876 ; CREP 10 octobre 2014/744 ; CREP 18 juillet 2013/442), viole le droit d'être
+entendu du recourant et prive l’autorité de recours de la possibilité d’exercer
+correctement son contrôle.
+3.
+Il résulte de ce qui précède que
+le recours doit être admis, l’ordonnance du 7 décembre 2015 annulée et le dossier
+de la cause renvoyé au Ministère public de l'arrondissement de La Côte, afin qu'il rende
+une nouvelle décision motivée. Le séquestre sera maintenu jusqu'à droit connu sur
+la nouvelle décision du Ministère public (cf., entre autres, CREP 10 décembre 2014/876).
+Les frais de la procédure de recours, constitués du seul émolument d'arrêt, par 440
+fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière
+pénal du 28 septembre 2010; RSV 312.03.1]), seront laissés à la charge de l’Etat
+(art. 428 al. 4 CPP).
+S’agissant des dépens réclamés par le recourant, il appartiendra le cas échéant
+à ce dernier d’adresser à la fin de la procédure ses prétentions à l’autorité
+pénale compétente selon l’art. 434 al. 2 CPP (CREP 21 mars 2013/155 consid. 3 et les
+références citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance de séquestre du 7 décembre 2015 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère public de l’arrondissement de La Côte
+pour qu’il rende une nouvelle décision dans le sens des considérants dans un délai
+de 15 jours dès la notification du présent arrêt.
+IV.
+Le séquestre est maintenu jusqu’à droit connu sur la décision à rendre par
+le Ministère public de l’arrondissement de La Côte conformément au chiffre III ci-dessus,
+à la condition que cette décision intervienne dans le délai imparti.
+V.
+Les frais d’arrêt, par 440 fr. (quatre cent quarante francs), sont laissés à la
+charge de l’Etat.
+VI.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Didier Elsig, avocat (pour P.________),
+-
+Ministère public central ;
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
