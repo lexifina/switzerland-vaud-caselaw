@@ -1,0 +1,243 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___77"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 77"
+decided: "2016-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5356695"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-013.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-182.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-394.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 77
+
+## Regeste
+
+EXPERTISE, EXPERTISE PSYCHIATRIQUE, VÉRIFICATION D'ÉCRITURE, CRÉDIBILITÉ, DOMMAGE IRRÉPARABLE | 20 CP, 394 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2016 Décision / 2016 / 77
+
+EXPERTISE, EXPERTISE PSYCHIATRIQUE, VÉRIFICATION D'ÉCRITURE, CRÉDIBILITÉ, DOMMAGE IRRÉPARABLE | 20 CP, 394 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+67
+PE13.023521-BEB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffier
+:              M.
+Tinguely
+*****
+Art.
+182 et 394 let. b CPP
+Statuant sur le recours interjeté le 14 décembre 2015 par
+A.________
+contre l’ordonnance de refus de mise en œuvre d’une expertise rendue le 26 novembre
+2015 par le Procureur du Ministère public de l’arrondissement de Lausanne dans la cause
+n° PE13.023
+521-BEB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 7 novembre 2013, à la suite d’une plainte déposée par A.________, le Ministère
+public de l’arrondissement de Lausanne a ouvert une instruction pénale contre V.________ pour
+voies de fait qualifiées, appropriation illégitime, vol, contrainte sexuelle et viol, et contre
+C.________ pour vol.
+Il est reproché à V.________ d’avoir contraint la plaignante à entretenir des actes
+d’ordre sexuel non consentis, ainsi que de l’avoir frappée à de multiples reprises
+lors de leur vie commune entre 2008 et 2011. Il est en outre reproché tant à V.________ qu’à
+C.________ d’avoir dérobé des meubles à la plaignante en septembre 2012.
+b)
+Le 17 septembre 2014, l’instruction pénale a été étendue à A.________
+pour enregistrement non autorisé de conversations, contrainte et faux dans les titres. A la suite
+de plaintes déposées le 5 septembre 2014 par V.________ et le 24 novembre 2014 par C.________,
+l’instruction pénale a encore été étendue aux préventions de dénonciation
+calomnieuse, de diffamation et de calomnie.
+Il est reproché à A.________ d’avoir enregistré entre 2008 et 2011 des conversations
+entre elle et V.________ à l’insu de ce dernier, d’avoir établi une fausse reconnaissance
+de dette, datée du 5 novembre 2010, en imitant la signature de V.________ et d’avoir fait
+notifier deux commandements de payer, portant sur un montant de 500'000 fr., de manière injustifiée,
+à V.________ et à C.________. Il lui est en outre reproché d’avoir déposé
+plainte de façon calomnieuse contre V.________ et C.________.
+B.
+a)
+Par acte du 23 avril 2015, A.________ a requis
+la mise en œuvre d’une expertise « graphologique » destinée à
+authentifier la signature de V.________ figurant sur la prétendue reconnaissance de dette du 5 novembre
+2010.
+Par acte du 24 novembre 2015, A.________ a notamment demandé à être soumise à une
+expertise de crédibilité.
+b)
+Par
+ordonnance du 26 novembre 2015, le Procureur a rejeté les demandes d’expertise formées
+par A.________.
+S’agissant de l’expertise de crédibilité, le magistrat a estimé, se référant
+à la jurisprudence du Tribunal fédéral (TF 1P.8/2002 du 5 mars 2002), qu’une telle
+expertise était susceptible de contrevenir au principe de la libre appréciation des preuves
+et que c’était en définitive à l’autorité judiciaire, et non à l’expert,
+de trancher la question de la crédibilité de l’auteur d’une déclaration.
+Quant à l’expertise « graphologique », le Procureur a considéré
+que celle-ci était inutile, dès lors qu’un examen préalable de la signature litigieuse
+avait déjà été effectué par le Dr [...], chef de projet de recherche à
+l'Institut de police scientifique de l'Université de Lausanne, et qu’il en ressortait que
+l’hypothèse d’une imitation de la signature de V.________ était tout aussi probable
+que celle d’une signature émanant effectivement de la main de ce dernier, le Dr  [...]
+précisant que ce fait n’était pas rare s’agissant d’une signature très
+simple et qu’un examen plus approfondi n’apporterait aucun élément supplémentaire.
+C.
+Par acte du 14 décembre 2015, A.________
+a interjeté recours contre cette ordonnance, en concluant, sous suite de frais et dépens, principalement
+à sa réforme en ce sens que l’expertise de crédibilité et l’expertise
+« graphologique » requises soient ordonnées. Subsidiairement, elle a conclu
+à l’annulation de l’ordonnance, le dossier de la cause étant renvoyé à
+l’autorité inférieure pour nouvelle instruction et nouvelle décision dans le sens
+des considérants à intervenir.
+Il n’a pas été ordonné d’échanges d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP,
+le recours est recevable contre les décisions et les actes de procédure du Ministère public.
+Ainsi, la décision du Ministère public d'administrer ou de refuser d'administrer une preuve
+au sens des art. 139 ss CPP peut en principe faire l’objet d’un recours selon les art.
+393 ss CPP (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure pénale, Bâle
+2013, n. 12 ad art. 393 CPP ; Keller, in Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen
+Strafprozessordnung, Zurich/Bâle/Genève 2014, n. 16 ad art. 393 CPP ; CREP 27 juillet
+2015/500 ; CREP 30 mai 2014/376). Par souci d’économie, l'art. 394 let. b CPP déroge
+toutefois à ce principe (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure pénale,
+Bâle 2013, n. 7 ad art. 394 CPP), en disposant que le recours est irrecevable lorsque le Ministère
+public ou l'autorité pénale compétente en matière de contraventions rejette une réquisition
+de preuves qui peut être réitérée sans préjudice juridique devant le tribunal
+de première instance.
+Les décisions relatives à l'administration des preuves ne sont en principe pas de nature à
+causer un dommage juridique irréparable (ATF 136 IV 92 consid. 4.1 ; ATF 134 III 188 consid.
+2.3 ; ATF 133 IV 139 consid. 4 ; TF 1B_688/2011 du 14 mars 2012). Cette règle comporte
+toutefois des exceptions, notamment lorsque le refus porte sur des moyens de preuve qui risquent de disparaître
+et qui visent des faits décisifs non encore élucidés (ATF 133 IV 335 consid. 4 ;
+ATF 101 Ia 161 ; ATF 98 Ib 282 consid. 4 ; TF 1B_688/2011 du 14 mars 2012 et les références
+citées).
+1.2
+Aux termes de l’art. 182 CPP, le ministère
+public et les tribunaux ont recours à un ou plusieurs experts lorsqu'ils ne disposent pas des connaissances
+et des capacités nécessaires pour constater ou juger un état de fait.
+L’examen de la crédibilité des déclarations d’une personne appartient en premier
+lieu au juge. Une expertise de crédibilité ne peut être ordonnée qu’en présence
+de circonstances particulières (ATF 128 I 81 consid. 2 ; TF 1B_36/2010 du 19 avril 2010
+consid. 3.1). Selon la jurisprudence, ce type d’expertise s’impose surtout lorsqu’il
+s’agit de déclarations d’un petit enfant qui sont fragmentaires ou difficilement interprétables,
+lorsqu’il existe des indices sérieux de troubles psychiques ou lorsque des éléments
+concrets font penser que la personne interrogée a été influencée par un tiers (ATF
+129 IV 179 consid. 2.4). Entre autres indices, la jurisprudence rendue en application des art. 13 aCP
+et 20 CP, auquel il peut être fait référence, cite le comportement aberrant de l’intéressé,
+un séjour antérieur dans un hôpital psychiatrique, une interdiction prononcée en
+vertu du Code civil, une attestation médicale, l’alcoolisme chronique, la dépendance
+aux stupéfiants, la possibilité que le dépôt de plainte ait été influencé
+par un état affectif particulier, ou encore l’existence de signes d’une faiblesse d’esprit
+ou d’un retard mental (ATF 116 IV 273).
+1.3
+1.3.1
+En l’espèce, à l’appui de
+son argumentation contre le refus du Procureur d’ordonner une expertise de crédibilité,
+la recourante fait valoir qu’elle souffre d’affections psychiatriques, relevant d’une
+problématique dépressive, qui sont actuellement en train d’évoluer dans le sens
+d’une récupération progressive. Elle expose à cet égard que, pour apprécier
+la crédibilité de ses déclarations en cours d’enquête et son état psychiatrique
+au moment des faits incriminés, il s’impose de procéder à une expertise dans les
+meilleurs délais, au risque de voir l’analyse se compliquer de jour en jour.
+La recourante n’établit toutefois pas que l’évolution de ses affections psychiatriques
+puisse avoir des conséquences sur sa mémoire et sa capacité de se souvenir des faits incriminés,
+de ses déclarations en cours d’enquête ainsi que de leur contexte. Le risque pour la
+recourante, née en 1967, de ne plus pouvoir répondre ultérieurement aux questions d’un
+expert paraît dès lors bien peu probable. On ne saurait dans ces circonstances retenir l’existence
+d’un préjudice juridique irréparable au sens de l’art. 394 let. b CPP.
+1.3.2
+S’agissant de l’expertise « graphologique », la recourante soutient que
+celle-ci, si elle était ordonnée par le tribunal de première instance, engendrerait une
+perte de temps considérable.
+L’argument n’est pas pertinent, puisqu’il est susceptible de mettre à néant
+la portée de l’art. 394 let. b CPP et de la jurisprudence y relative, qui exigent l’existence
+d’un préjudice juridique irréparable, de simples inconvénients d’ordre temporel
+n’étant à cet égard pas suffisants.
+2.
+Il résulte de ce qui précède que
+le recours doit être déclaré irrecevable, sans autres échanges d’écritures.
+Les
+frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; RSV 312.03.1]), et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 640 fr. (cinq heures
+d’activité d’avocat-stagiaire à 110 fr. l’heure et une demi-heure d’avocat
+breveté à 180 fr. l’heure), plus la TVA, par 51 fr. 20, soit un total de 691 fr. 20,
+seront mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Le
+remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+de la recourante ne sera toutefois exigible que pour autant que la situation économique de cette
+dernière se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’indemnité allouée au défenseur d'office d’A.________ est fixée à
+691 fr. 20 (six cent nonante et un francs et vingt centimes).
+III.
+Les frais du présent arrêt, par 660
+fr. (six cent soixante francs), ainsi que l’indemnité due au défenseur d’office
+d’A.________, par 691 fr. 20 (six cent nonante et un francs et vingt centimes), sont mis à
+la charge de cette dernière.
+IV.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre II ci-dessus ne sera exigible
+que pour autant que la situation économique d’A.________ se soit améliorée.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Virginie Rodigari, avocate (pour Mme A.________),
+-
+Me Jean-Emmannuel Rossel (pour M. V.________),
+-
+Me Amédée Kasser, avocat (pour M. C.________),
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
