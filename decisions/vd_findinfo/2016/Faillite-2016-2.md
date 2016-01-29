@@ -1,0 +1,984 @@
+---
+decision_id: "vd_findinfo_Faillite___2016___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2016 / 2"
+decided: "2016-01-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5346130"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-327.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-295.md", "switzerland/bund/acts/281.1/art-295c.md", "switzerland/bund/acts/281.1/art-304.md", "switzerland/bund/acts/281.1/art-305.md", "switzerland/bund/acts/281.1/art-314.md", "switzerland/bund/acts/281.1/art-317.md", "switzerland/bund/acts/281.1/art-319.md", "switzerland/bund/acts/281.1/art-348.md", "switzerland/bund/acts/281.35/art-061.md"]
+---
+
+# VD Findinfo Faillite / 2016 / 2
+
+## Regeste
+
+SURSIS CONCORDATAIRE | 294 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 29.01.2016 Faillite / 2016 / 2
+
+SURSIS CONCORDATAIRE | 294 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FV15.016756-151685
+33
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+29 janvier 2016
+____________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+294 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+W.________AG
+,
+à [...], contre le jugement rendu le 22 septembre 2015, à la suite de l’audience du 3
+septembre 2015, par le Président du Tribunal d’arrondissement de l’Est vaudois, accordant
+à
+K.________SA
+,
+à [...], un sursis concordataire définitif de six mois.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+La
+société K.________SA a pour but l'exploitation viticole et vinicole. Le 24 avril 2015, sous
+la plume de son conseil, l’agent d’affaires breveté Jacques Lauber (ci-après :
+l’agent d’affaires Lauber), elle a déposé devant le Président du Tribunal
+d’arrondissement de l’Est vaudois (ci-après : le Président) une demande d'octroi
+d'un sursis concordataire provisoire et définitif, prenant les conclusions suivantes :
+«
+I. Accorder, sans fixation d'une audience, à K.________SA, [...], à [...], un sursis concordataire
+provisoire de quatre mois.
+II.
+Suspendre avec effet immédiat jusqu'à la date de l'audience qui sera fixée, toutes les
+poursuites actuelle et futures de quelque nature que ce soit, les requêtes de faillite ordinaire,
+de change ou sans poursuite préalable et dès lors surseoir à toute mesures de prise d'inventaire,
+d'exécution forcée ou de mise en faillite qui pourrait être prononcée à l'égard
+de la requérante.
+III.
+Ordonner, avec effet immédiat, la suspension de l'avis de prise d'inventaire au sens des articles
+83, 162 et 170 LP ordonné dans le cadre de la poursuite n° 720093 [recte : 7'200’913]
+de l'Office des poursuites de Lavaux-Oron requise à la requête de W.________AG ce en référence
+à la décision rendue par M. le Président du Tribunal de l'arrondissement de l'Est vaudois
+le 16 avril 2015.
+L'inventaire
+d'ores et déjà appointé le mardi 28 avril 2015 à 14h dans les locaux de la requérante
+sis [...], à [...] est suspendu et/ou annulé ce jusqu'à droit connu sur la présente
+requête.
+IV.
+Renoncer à publier la demande de sursis concordataire provisoire de quatre mois de la requérante
+K.________SA.
+V.
+Désigner en qualité de commissaire au sursis provisoire en la personne de M. F.________
+de la société [...] SA, [...] Lausanne avec pour mission :
+-
+d'établir un inventaire des biens mobiliers et immobiliers de la requérante ;
+-
+d'examiner si un concordat est possible et quelles pourront être ses caractéristiques ;
+-
+de surveiller la requérante et de garantir de la sorte les intérêts des tiers, en s'assurant
+en particulier que le substrat disponible de la société ne diminue pas.
+VI.
+Inviter K.________SA à provisionner directement le commissaire au sursis provisoire de ses honoraires.
+VII.
+Inviter le commissaire au sursis provisoire à déposer un rapport écrit dans le délai
+que justice dira.
+VIII.
+Fixer d'ores et déjà une audience en vue de l'octroi du sursis concordataire définitif.
+IX.
+Accorder à K.________SA un sursis définitif de six mois. »
+b)
+Par
+décision du 28 avril 2015, le Président a suspendu les poursuites actuellement pendantes et
+celles qui pourraient être introduites. Il a ajourné toute décision devant être rendue
+à la suite de requêtes de faillites ordinaires, de change ou sans poursuite préalable,
+jusqu'à droit connu sur la demande de sursis concordataire. En revanche, il a maintenu la procédure
+d'inventaire.
+c)
+L'audience relative à la requête d'octroi du sursis concordataire provisoire s'est tenue le
+21 mai 2015.
+Par décision rendue sous forme de dispositif le 26 mai 2015, motivée le 5 juin 2015, le Président
+a prononcé ce qui suit :
+« I.
+accorde
+à la société K.________SA,
+dont le siège est
+à [...], un
+sursis provisoire jusqu'au 20 septembre 2015 ;
+II.
+désigne
+en qualité de commissaire provisoire
+au sursis M. F.________, [...] SA, [...] Lausanne, avec pour mission d'analyser de manière approfondie
+les perspectives d'assainissement ou d'homologation d'un concordat, d'élaborer si nécessaire
+le projet de concordat et de surveiller l'activité de la société K.________SA, conformément
+aux articles 293b et 295 LP ;
+III.
+invite
+le commissaire provisoire à signaler
+sans délai au juge du concordat tout défaut de paiement des charges courantes ou toute diminution
+de l'actif de la société sursitaire et à procéder de même si ses honoraires
+ne sont pas couverts ;
+IV.
+invite
+le commissaire provisoire à déposer
+le 15 juillet 2015 au plus tard un rapport intermédiaire décrivant notamment l'évolution
+de la société sursitaire ;
+V.
+invite
+de surcroît le commissaire provisoire
+à déposer, dix jours avant l'audience qui sera fixée au chiffre VI ci-dessous, un rapport
+détaillé sur la situation de la société sursitaire ;
+VI.
+fixe
+d'ores et déjà une nouvelle audience,
+consacrée à l'examen de l'octroi d'un sursis définitif, qui se tiendra Rue du Musée
+6, 3
+ème
+étage, 1800 Vevey,
+le
+jeudi 3 septembre 2015 à 14h30,
+la présente
+valant convocation ;
+VII.
+prend
+acte de ce que la société sursitaire
+s'est portée fort du paiement des honoraires du commissaire provisoire, qui feront cas échéant
+l'objet d'une décision ultérieure ;
+VIII.
+confirme
+que la société sursitaire pourra
+faire l'objet de poursuites mais non de continuation de poursuites ;
+IX.
+suspend
+avec effet immédiat toute procédure
+de faillite ordinaire, de change ou sans poursuite préalable, ainsi que toute mesure d'exécution
+forcée ou de prise d'inventaire jusqu'à l'issue de la procédure de sursis provisoire en
+tout cas ;
+X.
+renonce
+à publier
+la présente décision ;
+XI.
+met
+les frais de la présente décision,
+par 1'400 fr. (mille quatre cents francs) à la charge de K.________SA ;
+XII.
+rejette
+toutes autres
+ou plus amples conclusions. »
+2.
+Par courrier du 2 juillet 2015, le commissaire
+provisoire, F.________, a requis qu'une audience soit fixée dans les meilleurs délais afin
+que le Président puisse statuer sur la cession des actifs de K.________SA nécessaires à
+la continuation de l'activité de cette société. Il a également produit un rapport
+sur la situation de la sursitaire. Il a ainsi été renoncé à la production d'un rapport
+conformément au chiffre IV de la décision du 26 mai 2015, motivée le 5 juin 2015.
+L'audience a eu lieu le 9 juillet 2015. L'agent d'affaires Lauber a produit une convention de cession
+de certains actifs de K.________SA conclue le 8 juillet 2015 entre cette dernière et H.________Holding
+SA, à [...], avec faculté de substitution par toutes sociétés qu'elle détient
+majoritairement. Ce contrat prévoit la vente des stocks de vins en vrac et en bouteille et du matériel
+sec, des parcelles [...] et [...] de [...], à [...], le transfert des marques, des logos et des
+noms de domaine, la reprise des contrats des vignerons-tâcherons, l'achat de vignes appartenant
+en propre au vendeur et le transfert des contrats de bail concernant les vignes et d'autres contrats.
+Toutefois, selon chiffre 4 de cet accord, l'exécution de la cession des actifs susmentionnés
+ne pouvait être réalisée qu'à la condition que le commissaire au sursis concordataire
+provisoire et le Président donnent leur accord dans un délai échéant au 31 juillet
+2015. L’agent d’affaires Lauber a déposé également une « side-letter
+» conclue entre les mêmes parties le 8 juillet 2015.
+Par décision du 29 juillet 2015, le Président a notamment autorisé la cession d’actifs
+de K.________SA à H.________Holding SA, avec faculté de substitution par toutes les sociétés
+qu'elle détient majoritairement, prévue dans la convention signée le 8 juillet 2015, complétée
+par la « side-letter » du même jour (I) à la double condition que le produit de la
+vente soit consigné en mains du commissaire jusqu'à décision contraire du Président
+et que le produit de la vente ne soit pas utilisé pour payer les charges courantes de la sursitaire
+(II).
+3.
+Le 27 août 2015, le commissaire au sursis
+a adressé un rapport de situation au Président. Il en ressort que, valeur au 20 août 2015,
+K.________SA possédait des actifs pour un montant de 11'094'561 fr. 90 et des passifs pour 22'510'547
+fr. 07, soit un écart négatif de 11'415'985 fr. 17. Pour rappel, valeur au 26 mai 2015,
+les actifs s'élevaient à 12'006'403 fr. 33 et les passifs à 21'060'120 francs 60, soit
+un écart de 9'053'717 fr. 27. Au 20 août 2015, les actifs se déterminaient comme suit
+:
+- Credit
+Suisse
+c/c
+vrac
+CHF
+510'565.00
+c/c
+vrac H.________
+CHF
+1’305’006.30
+CHF              1'815'571.30
+- Credit
+Suisse
+c/c
+vente marques
+CHF                 600'000.00
+c/c
+avance tâcherons
+CHF
+768’832.60
+CHF              1'368'832.60
+- Credit
+Suisse
+c/c
+normal
+CHF                 271'158.00
+- Avoirs bloqués
+c/o Me Monod
+revendiqués
+par la BCV
+CHF
+289'000.00
+- Vente du
+stock bouteilles à H.________
+Estimation
+voir protocole d’accord du 12.08.2015 (Annnexe II)
+CHF              1'400'000.00
+- Débiteurs
+au 20.08.2015 à encaisser
+Selon
+estimation
+CHF
+700'000.00
+- Vignes selon
+convention
+CHF
+3'500'000.00
+- Bâtiment
+selon convention
+CHF              1'750'000.00
+________________
+Total
+CHF
+11'094'561.90
+Le rapport mentionne également qu'au moment de son établissement, huit personnes travaillaient
+encore pour le compte de K.________SA, mais qu’il n'en resterait qu'une seule au 1
+er
+octobre 2015. Il fait également état, sans plus de détails, de discussions en cours tant
+avec les créanciers gagistes qu’avec les créanciers privilégiés ou chirographaires.
+L’auteur du rapport conclut qu'il « parait impératif que la société K.________SA
+obtienne un sursis définitif de 6 mois, cela pour lui permettre de finaliser la convention de vente
+de certains actifs avec le groupe H.__-Y.__ et réaliser dans de bonnes conditions les actifs restants
+(1), de mener à bien les négociations avec les créanciers gagistes, privilégiés
+et chirographaires (2), de formuler aux créanciers une proposition concordataire, soit par abandon
+d’actifs ou dividende (3) ». La liste des productions dans le sursis concordataire, remise
+en annexe du rapport, mentionne des sommes dues de 13'561'734 fr. 16 aux créanciers gagistes (12'856'859
+fr. 16 à la Banque Cantonale Vaudoise (BCV) et 704'875 fr. à Prométerre), de 393'650 fr.
+45 aux créanciers privilégiés et de 8'555'162 fr. 46 aux créanciers de troisième
+classe. Le procès-verbal d'exécution partielle du 12 août 2015, également joint en
+annexe du rapport concernant la convention de vente d’actifs conclue entre K.________SA et Y.________SA
+fait, en substance, état de ce qui suit :
+-
+le vin en vrac selon inventaire établi en contradictoire a été vendu pour la somme de
+1'305'006 fr. 30, versée sur un compte de K.________SA auprès du Credit Suisse (ci-après :
+CS);
+-
+l'inventaire des vins en bouteille sera effectué au plus tard d'ici au 31 août 2015, la valeur
+définie selon la méthode de valorisation déterminée par l'acheteur devant être
+acquittée dans le délai de dix jours sur un compte K.________SA auprès du CS ;
+-
+la vente des immeubles et des vignes propres n'a pas encore pu avoir lieu en raison des vacances du notaire
+choisi. Elle sera effectuée dès son retour et l'obtention de l'accord formel de la BCV ;
+-
+le transfert des marques a été préparé par l’entreprise [...] et signé
+par le vendeur. Le montant de 600'000 fr. sera versé sur un compte auprès du CS ;
+-
+le décompte des frais engagés pour l'année vinicole en cours s'élève à
+768'832 francs 60 (701'380 fr. d'avance aux vignerons-tâcherons et 67'452 fr. 60 de frais d'entretien
+des vignes). Cette somme sera payée dans les deux jours ouvrables sur le compte ouvert auprès
+du CS ;
+-
+la maison Y.________SA doit encore prendre contact avec les différents bailleurs de vignes.
+Par lettre du 2 septembre 2015, l'agent d’affaires Lauber a indiqué se rallier aux conclusions
+prises par le commissaire au sursis et a requis l'octroi d'un sursis concordataire définitif de
+six mois.
+4.
+Conformément au chiffre VI de la décision
+précitée du 26 mai 2015, une audience s'est tenue le 3 septembre 2015. S'y sont présentés
+:
+-
+le directeur ad interim de K.________SA, assisté de l’avocat François Roux et de l’agent
+d’affaires Lauber ;
+-
+le commissaire au sursis concordataire provisoire F.________ ;
+-
+le Préposé à l'Office des faillites de l'arrondissement de l'Est vaudois et le Préposé
+substitut à l'Office des poursuites du district de Lavaux-Oron ;
+-
+les créanciers suivants :
+- W.________AG, représentée son conseil ;
+- la société [...] SA, la Commune de [...], l' [...], [...], ainsi que [...], [...] et [...],
+tous représentés par leur conseil commun, l’agent d’affaires breveté Jean-Marc
+Schlaeppi ;
+- l'Etat de Vaud, représenté par le Chef du Service Juridique et Législatif (SJL) ;
+- [...], actionnaire minoritaire de [...] SA, assistée de son conseil, qui représentait également
+ladite société ;
+- [...] et [...] et [...], créanciers à titre personnel et représentants la société
+[...] SA, assistés de leur conseil ;
+- [...] SA, par un représentant ;
+- [...] SA, représentée par son conseil.
+G.________, administrateur président de K.________SA a été dispensé de comparution
+selon lettre du 25 août 2015.
+Par lettre du 31 août 2015, la société [...], créancière, a informé le
+Président qu'elle ne se présenterait pas à l'audience et s'en remettait à décision
+de justice.
+A l'occasion de cette audience, le commissaire au sursis F.________ a déclaré que les charges
+courantes de la société étaient acquittées et que la différence à la hausse
+des passifs au 26 mai (21'060'120 fr. 60) et ceux au 20 août 2015 (22'510'547 fr. 07) s'expliquait
+par le fait que la prétention de l'actionnaire minoritaire [...] était encore inconnue au printemps.
+Il a relevé qu'au vu de la situation financière au 20 août 2015 de K.________SA, seuls
+les créanciers gagistes seraient couverts en cas de faillite, lésant ainsi tous les autres
+créanciers subséquents. Confirmé par l'agent d’affaires Lauber, il a aussi expliqué
+que des négociations étaient actuellement en cours, entre autres avec la BCV, portant sur un
+arrangement quant à la réduction ou à l'abandon de certaines créances. Selon lui,
+les sommes ainsi économisées permettraient d'augmenter le pourcentage des dividendes qui pourraient
+être octroyés aux différents créanciers, ce qui aurait pour corollaire de favoriser
+l'homologation d'un concordat par ceux-ci. Il a encore argumenté que, si une faillite était
+prononcée, aucune de ces démarches ne pourrait aboutir, ce qui défavoriserait surtout
+les créanciers privilégiés et de troisième classe.
+Interpellé par différentes parties sur l'absence, dans son rapport, sous la rubrique des actifs
+de K.________SA, de participations qu'elle possèderait dans deux différentes sociétés
+dont [...] SA et [...] AG, le commissaire a expliqué avoir vu les comptes de ces deux entreprises
+et estimé ne pas avoir besoin de mentionner leur existence puisqu'elles « ne valent rien ».
+De même, il certifie qu'aucune « vente sous le manteau » n'a été effectuée,
+la vente des biens non concernés par la convention du 8 juillet 2015 n'ayant pas encore été
+planifiée. Selon lui, il reste des meubles de bureau, des cuves et d'autres matériels à
+liquider. Le préposé à l'office des faillites a informé les personnes présentes
+que l'inventaire des biens de la société avait effectivement été réalisé
+mais qu'il n'était pas encore formellement établi. Le commissaire au sursis a dit estimer le
+montant actuel des actifs libres à environ 3'200'000 fr., dont débiteurs à encaisser,
+stock de cave, meubles de bureau, bouteilles, etc. Egalement appuyé par l'agent d’affaires
+Lauber, il a répété la nécessité de pouvoir effectuer les vendanges 2015 afin
+de diminuer les pertes.
+Les parties présentes ont renoncé à plaider. Elles se sont toutefois déterminées
+comme suit sur les conclusions de la requête :
+-
+K.________SA a confirmé la requête tendant à l'octroi d'un sursis concordataire de six
+mois. Le commissaire au sursis a adhéré à cette conclusion, de même que l’Etat
+de Vaud ;
+-
+W.________AG a conclu à ce que la faillite soit prononcée. [...] et [...] SA en ont fait
+de même ;
+-
+[...] SA, la commune de [...], l' [...], [...], [...], [...] et [...] ont conclu à ce que la faillite
+soit prononcée, subsidiairement à l'octroi d'un sursis concordataire de trois mois ;
+-
+l'Office des faillites de l'arrondissement de l'Est vaudois et l'Office des poursuites du district de
+Lavaux-Oron, de même que [...] SA et [...] SA ne se sont pas prononcés.
+5.
+Par jugement du 22 septembre 2015, le Président
+du Tribunal d’arrondissement de l’Est vaudois a accordé à K.________SA un sursis
+concordataire définitif de six mois dès et y compris le jour de la notification de la décision
+(I), a désigné F.________, [...] SA, en qualité de commissaire, avec pour missions celles
+prévues par l’art. 295 LP dont celle d’élaborer si nécessaire un projet de
+concordat, de surveiller K.________SA en s’assurant en particulier de la conservation des actifs
+de la société et du paiement des charges courantes (II), a dit qu’il appartenait à
+K.________SA de provisionner le commissaire pour ses honoraires (III), a invité le commissaire à
+déposer le 14 décembre 2015 au plus tard un rapport intermédiaire décrivant notamment
+l’évolution de la société sursitaire (IV), a invité le commissaire à déposer
+son rapport conformément à l’art. 304 LP ou, en cas de demande de prolongation de sursis,
+un rapport intermédiaire avant l’échéance du sursis, soit au plus tard le 4 mars
+2016 (V), a invité le commissaire à informer sans délai et en tout temps le président
+si les conditions à l’octroi du sursis ne devaient plus être réunies et le sursis
+être révoqué (VI), a dit que la décision serait publiée dans la FAO et dans
+la FOSC (VII), a ordonné au conservateur du registre foncier d’indiquer la mention « sursis »
+sur l’ensemble des propriétés de K.________SA, notamment les parcelles [...] et [...]
+de la commune de [...] (VIII), a mis les frais judiciaires, arrêtés à 1'500 fr., frais
+de publication en sus, à la charge de K.________SA (IX), a fixé une nouvelle audience au 17
+mars 2016 à 14h00 (X) et a rejeté toutes autres ou plus amples conclusions (XI).
+En bref, le premier juge a rappelé qu’aux termes de l’art. 294 al. 1 LP, si, durant
+le sursis provisoire, des perspectives d’assainissement ou d’homologation d’un concordat
+apparaissent, le juge du concordat octroie définitivement un sursis de quatre à six mois. En
+l’espèce, il a nié l’existence de toute perspective d’assainissement, disant
+qu’il était « indéniable » que celles-ci « sembl[ai]ent
+nulles » au vu de la situation comptable déficitaire de la société et de la
+vente de l’ensemble de ses biens ; s’agissant de la perspective d’homologation
+d’un concordat, il a considéré qu’un concordat dividende « sembl[ait]
+exclu » puisque la continuation des activités de la société serait impossible
+une fois la convention du 8 juillet 2015 entièrement exécutée et la vente des biens non
+concernés par celle-ci effectuée, qu’il ne lui resterait ni vignes, ni locaux, ni matériel,
+et que, dès le 1
+er
+octobre 2015, la société ne compterait plus qu’un seul employé ; il en a déduit
+que la seule option qui paraissait être envisageable était un concordat par abandon d’actifs ;
+à cet égard, il s’est référé au rapport du commissaire provisoire qui
+mentionne des négociations avec la BCV, avec les créanciers gagistes, mais aussi avec les créanciers
+chirographaires ; il a conclu de « l’ensemble de ces faits » qu’il
+« sembl[ait] démontré » que les intérêts des créanciers
+étaient pris en compte et que des démarches étaient entreprises pour tenter de les favoriser
+et qu’une faillite mettrait au contraire un terme aux négociations au désavantage de
+certains créanciers. Pour ces raisons, il a admis l’octroi d’un sursis définitif,
+arrêtant sa durée à six mois « afin de permettre que les négociations avec
+les créanciers actuellement en cours ainsi que l’ensemble des opérations de liquidation
+qui doivent encore être effectuées puissent l’être au mieux de l’intérêt
+des créanciers sans une pression trop forte dans le temps ». Enfin, il a rappelé
+à la sursitaire la teneur des art. 296b et 298 al. 4 LP, savoir que la faillite serait prononcée
+d’office avant l’expiration du sursis s’il apparaissait, notamment, qu’il n’y
+avait plus de perspective d’homologation d’un concordat ou si elle contrevenait aux injonctions
+du commissaire.
+6.
+Le 5 octobre 2015, W.________AG a déposé
+un acte de recours contre le jugement, qu’elle avait reçu le 23 septembre 2015, concluant,
+avec suite de frais et dépens, à son annulation et au prononcé de la faillite de K.________SA.
+Elle a produit un onglet de pièces sous bordereau n° IV (numérotées 130 à 135)
+et quatre pièces hors onglet, désignées par les lettres A, B, C et D.
+Le 2 novembre 2015, le recours a été communiqué aux intimés, avec un délai de
+déterminations de dix jours.
+Le 3 novembre 2015, [...] a déclaré s’en remettre à justice sur le recours.
+Le même jour, l’agent d’affaires Schlaeppi a déclaré que ses mandants renonçaient
+à déposer une réponse.
+Le 6 novembre 2015, [...] a déclaré s’en remettre à justice, n’entendant pas
+formuler de conclusions, ni s’exposer à des dépens.
+Le 10 novembre 2015, [...], [...], [...] et [...] SA ont déclaré s’en remettre à
+justice.
+Le 13 novembre 2015, [...] et [...] SA ont déclaré s’en remettre à justice.
+Le même jour, l’Etat de Vaud a conclu, avec suite de frais, au rejet du recours.
+Le même jour encore, K.________SA a conclu, avec suite de frais et dépens, au rejet du recours.
+Les autres intimés ne se sont pas déterminés.
+Le 19 novembre 2015, une copie de toutes les écritures a été communiquée aux parties.
+Le 14 décembre 2015, la recourante a déposé des déterminations spontanées, confirmant
+les conclusions prises dans son recours
+Le 17 décembre 2015, le président du tribunal d’arrondissement a transmis à la cour
+de céans le rapport intermédiaire établi le 14 décembre 2015 par le commissaire
+au sursis.
+En droit
+:
+I.
+a)
+Le recours est dirigé contre une décision
+du juge du concordat octroyant un sursis définitif, nommant un commissaire et définissant les
+tâches de celui-ci, prise en application des art. 294 ss LP (loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1), dans leur teneur en vigueur depuis le 1er janvier 2014.
+Alors que la décision relative au sursis provisoire n’est pas susceptible d’un recours
+(ATF 141 III 188 consid. 4), l’art. 295c LP ouvre contre la décision relative au sursis définitif
+la voie du recours des art. 319 ss CPC (Code de procédure civile ; RS 272) au débiteur et aux
+créanciers (cf. Message du CF du 8 septembre 2010 relatif à la modification de la LP (droit
+de l’assainissement) [ci-après : Message], in FF 2010 pp. 5871 ss, spéc. ch. 2.7,
+p. 5898 et n. ad art. 295c LP, p. 5900;) et ce, indépendamment du fait qu’ils ont ou pas introduit
+la procédure concordataire (Hunkeler, Kurzkommentar SchKG (ci-après : KuKo SchKG), Bâle
+2014, n. 1 et 2 ad art. 295c LP).
+b)
+Exercé
+par acte écrit et motivé, déposé dans le délai légal de dix jours, par
+une partie dont la qualité de créancière n’est pas contestée, le recours est
+formellement et matériellement recevable (art. 321 CPC). Il en est de même des réponses
+des intimés (art. 322 al. 1 CPC) et des déterminations spontanées sur réponses de
+la recourante, le droit de réplique s’appliquant aussi bien dans le cadre du recours que de
+l’appel (TF 5A_553/2015 du 16 décembre 2015 consid. 4.1.1 ; ATF 138 I 484 consid. 2.2 ;
+137 I 195 consid. 2.3.1 ; 133 I 98 consid. 2.1 ; ATF 132 I 142).
+c)
+Selon
+l’art. 326 al. 1 CPC, les conclusions, allégations de fait et preuves nouvelles sont irrecevables
+dans le cadre du recours ; les dispositions spéciales de la loi sont cependant réservées
+(art. 326 al. 2 CPC). En matière de concordat, la LP n’a pas prévu de régime dérogatoire
+réservé par l’art. 326 al. 2 CPC, à la différence du recours en matière
+de jugement de faillite (art. 174 al. 1 LP) et du recours en matière de sursis extraordinaire (art.
+348 al. 2 LP ; CPF, 13 mai 2015/131 ; CPF, 15 janvier 2015/2). Il s’ensuit en l’espèce
+que la cour de céans ne peut pas se fonder sur d’autres faits que ceux figurant dans le jugement
+attaqué, ni sur des pièces nouvelles. Elle ne peut donc pas prendre en compte le rapport intermédiaire
+du 14 décembre 2015 du commissaire au sursis, transmis par le Président le 17 décembre
+2015. Pour le même motif, les pièces produites par la recourante en deuxième instance
+sont irrecevables dans la mesure où elles ne figurent pas au dossier de première instance et
+ne constituent pas des faits notoires ; il en va de même des faits sur lesquels la recourante
+se fonde, qui ne seraient pas contenus dans le jugement attaqué (cf. infra consid. II. c)).
+II.
+a)
+Aux termes de l’art. 320 CPC, le recours
+est recevable pour violation du droit (let. a) et constatation manifestement inexacte des faits (let.
+b).
+b)
+En l’espèce, dans la partie IV de son recours intitulée « Moyens »,
+la recourante prétend exclusivement que le sursis concordataire définitif octroyé est
+« inopportun » et « illégal », les conditions posées
+par l’art. 294 al. 1 LP n’étant pas remplies, d’une part, et la faillite étant
+préférable au concordat définitif pour des motifs tenant à d’éventuelles
+suites pénales à l’encontre de l’administrateur G.________, à d’éventuelles
+actions révocatoires – en particulier en relation avec la vente d’une usine d’embouteillage
+et aux « actifs bradés au groupe H.__-Y.__ » - ou en responsabilité contre
+les organes de la société, notamment G.________, et, finalement, à des honoraires que
+ce dernier a facturés à la société, d’autre part.
+Ce faisant, elle se prévaut d’une violation de la loi - plus précisément de l’art.
+294 al. 1 LP – et non d’une constatation manifestement inexacte des faits. En particulier,
+la recourante ne critique pas de manière explicite ou reconnaissable tel ou tel passage de l’état
+de fait, ce qu’elle aurait dû faire si elle souhaitait que la cour de céans s’écarte
+des faits établis par le premier juge (TF 5A_488/2015 du 21 août 2015 consid. 3.2). Il s’ensuit
+que la cour de céans se fondera sur cet état de fait, qui a été repris ci-dessus
+tel quel.
+c)
+Il est vrai que, dans la partie III de son
+recours intitulée « Faits», la recourante expose des éléments factuels
+qui ne ressortent pas de la décision attaquée, et qu’elle offre d’établir
+par des pièces du dossier, des pièces hors dossier (en particulier des procédures judiciaires)
+et les pièces nouvelles qu’elle a produites en seconde instance. Toutefois, pour les motifs
+exposés plus haut, le pouvoir d’examen de la cour de céans est limité en l’occurrence
+à la fausse application du droit. Il s’ensuit que la cour de céans non seulement ne saurait
+s’écarter de l’état de fait du jugement, mais encore moins ne saurait compléter
+celui-ci sur la base des offres de preuve précitées. Ainsi, tous les griefs qui reposent sur
+le « Contexte » en cause (disparition d’investissements, fausses promesses,
+procédures contre les dirigeants du groupe K.________, bradage des actifs au groupe H.________,
+etc.), de nature appellatoire, doivent être écartés.
+d)
+Il s’agit donc uniquement d’examiner
+si les conditions d’octroi d’un sursis définitif de six mois étaient remplies.
+III.
+a)
+Selon l’art. 294 al. 1 LP, si, durant
+le sursis provisoire, des perspectives d'assainissement ou d'homologation d'un concordat apparaissent,
+le juge du concordat octroie définitivement un sursis de quatre à six mois ; il statue
+d'office avant l'expiration du sursis provisoire.
+b)
+En l’occurrence, il faut relever d’emblée, à la suite du premier juge et de la
+recourante, qu’il n’existe absolument plus aucune perspective d’assainissement de la
+société débitrice. Celle-ci ne dispose plus des moyens matériels permettant de continuer
+son activité, puisque, par décision du 29 juillet 2015, le premier juge a autorisé la
+cession de ses principaux actifs – dont des vignes, des bâtiments et des stocks de vin en
+vrac et en bouteilles - prévue dans une convention du 8 juillet 2015, que, selon le rapport du commissaire
+au sursis concordataire provisoire du 27 août 2015, cette cession était en cours d’exécution
+et que, selon les déclarations du commissaire à l’audience du 3 septembre 2015, il restait
+à « liquider » à cette date « des meubles de bureau, des cuves
+et d’autres matériels ». La débitrice ne dispose pas non plus des moyens humains
+lui permettant de continuer son activité, le nombre de ses employés étant passé de
+huit à un entre le mois d’août et le 1
+er
+octobre
+2015. Le commissaire a mentionné du reste expressément dans son rapport que l’octroi
+d’un sursis définitif d’une durée de six mois aurait d’abord pour but « de
+finaliser la convention de vente de certains actifs avec le groupe H.__-Y.__ et réaliser dans de
+bonnes conditions les actifs restants ». Il admettait ainsi que le sursis définitif aurait
+pour but de réaliser l’ensemble des actifs sociaux, ce qui s’apparente à une liquidation.
+Toute perspective d’assainissement est donc exclue.
+c)
+Il reste à déterminer s’il
+existe des perspectives d’homologation d’un concordat.
+aa)
+Le premier juge a estimé qu’il
+n’y avait pas de perspective de concordat-dividende, mais uniquement de concordat par abandon d’actifs.
+Il s’est fondé sur le rapport du commissaire au sursis provisoire, qui conclut à l’octroi
+d’un sursis définitif de six mois pour « mener à bien les négociations
+avec les créanciers gagistes, privilégiés et chirographaires » et pour « formuler
+aux créanciers une proposition concordataire, soit par abandon d’actifs ou dividende ».
+Il s’est également appuyé sur les déclarations du commissaire à l’audience,
+confirmées par l’un des conseils de la débitrice, selon lesquelles des négociations
+étaient en cours, notamment avec la BCV, portant sur un arrangement quant à la réduction
+ou l’abandon de certaines créances ; d’après lui, « les sommes ainsi
+économisées permettraient d’augmenter le pourcentage des dividendes qui pourraient être
+octroyés aux différents créanciers, ce qui aurait pour corollaire de favoriser l’homologation
+d’un concordat par ceux-ci » ; enfin, toujours selon le commissaire, « si
+une faillite était prononcée, aucune de ces démarches ne pourraient aboutir ce qui défavoriserait
+surtout les créanciers privilégies et de 3
+ème
+classe ». Le premier juge a estimé qu’au vu des négociations en suppression
+ou en diminution des créances actuellement en cours avec, notamment, la BCV (dont la créance
+représente 12'856'859 fr. 16, sur les 13'561'734 fr. 16 de créances garanties par gage), des
+perspectives d’homologation d’un concordat étaient envisageables « puisque
+l’ensemble des créanciers concernés peuvent espérer, en cas d’aboutissement
+des tractations, être financièrement désintéressés dans une plus grande mesure »
+et que « selon la potentielle réduction de dette à intervenir, les chances que
+les créanciers subséquents voient leur créances couvertes dans une plus grande proportion
+augmentent, rendant éventuellement possible l’acceptation d’un concordat par un plus
+grand nombre de créanciers ». Essayant de qualifier le type de concordat à intervenir,
+le premier juge a considéré qu’il ne pouvait s’agit d’un concordat-dividende,
+qui supposait la poursuite de l’activité du débiteur. Il en a déduit que la seule
+option qui paraissait envisageable était un concordat par abandon d’actifs.
+La recourante conteste cette appréciation, au motif qu’ « il n’existe
+aucune pièce ni aucun élément tangible au dossier de nature à prouver que des pourparlers
+existeraient avec certains créanciers » et qu’une issue favorable d’éventuels
+pourparlers apparaît au demeurant peu crédible. En particulier, la recourante fait valoir que
+la BCV, qui a accordé d’importants crédits hypothécaires à la débitrice,
+n’a jamais comparu à aucune audience, ni n’a procédé, ni a fortiori n’a
+produit de pièce démontrant qu’elle aurait accepté un dialogue sur un abandon partiel
+de ses prétentions, et qu’on ne voit d’ailleurs pas pour quelles raisons elle ferait
+le moindre rabais sur des créances solidement garanties par des gages immobiliers. Quant à
+l’Etat de Vaud, qui revendiquerait une hypothèque mobilière de droit cantonal sur les
+vins, il n’aurait pas fait mine de vouloir abandonner quoi que ce soit, mais au contraire aurait
+écrit à l’office des poursuites pour s’assurer du respect de son privilège.
+bb)
+L’objet du concordat dit ordinaire (concordat-dividende)
+est, pour le débiteur commun, d’obtenir, moyennant le paiement d’un dividende, versé
+en une fois ou par acomptes, une remise de dette (en tout ou en partie) ou la transformation de la partie
+de la créance non éteinte par le dividende en une obligation imparfaite, ce que doit indiquer
+le concordat (art. 314 LP ; Spühler/Dolge, Schuldbetreibungs- und Konkursrecht II, 6
+e
+éd. Zurich 2014, n. 437 p. 145 et les réf. ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, t. IV, n. 6 ad Remarques introductives art. 314-316 LP et
+nn. 6 ss ad art. 314 LP). Le concordat doit aussi indiquer comment le débiteur exécutera ses
+obligations et, au besoin, les sûretés qu’il fournira ou que des tiers fourniront pour
+obtenir l’homologation (ibid.). En principe, le concordat ordinaire a pour objectif principal l’assainissement
+du patrimoine du débiteur par un allégement de son passif ; il évite un démantèlement
+de ce patrimoine et permet la continuation de l’exploitation sur une base plus saine, grâce
+à un apurement du passif (Junod/Gaillard, in Dallèves/Foëx/Jeandin (éd.), Commentaire
+romand LP, nn. 1 et 10 ad art. 314 LP).
+Le concordat par abandon d’actifs est le concordat consistant dans l’abandon de tout ou partie
+de ses droits patrimoniaux par le débiteur commun à ses créanciers, en vue de les réaliser
+pour qu’ils soient désintéressés (art. 317 ss LP ; Spühler/Dolge, op.
+cit., n. 442 p. 146 ; Gilliéron, op. cit., n. 1 ad Remarques introductives art. 317-331). Il
+a pour objet la liquidation de l’ensemble ou de tout ou partie des actifs du débiteur pour
+satisfaire les créanciers (Junod/Gaillard, op. cit., n. 6 ad art. 317 LP). Il peut prendre
+deux formes : soit la cession aux créanciers du droit de disposer des biens du débiteur
+(art. 317 al. 1, 1
+re
+phrase, LP ; « Liquidationsvergleich ») ; dans ce cas, le concordat prévoit
+l’abandon direct de l’actif en faveur des créanciers en vue de la liquidation et de
+la répartition du produit de réalisation entre ces derniers, et les créanciers procèdent
+eux-mêmes (par l’intermédiaire du liquidateur) à la réalisation des actifs
+(Junod/Gaillard, op. et loc. cit.) ; soit le transfert de la propriété de tout ou partie
+de cet actif à un tiers (art. 317 al. 1, 2
+e
+phrase, LP ; « Vermögensabtretung an einen Dritten »), qui peut être
+un des créanciers ; dans ce cas, le prix payé par le tiers forme la masse de liquidation
+et est partagé entre les créanciers ; le contrat par lequel le tiers s’engage à
+acquérir les actifs du débiteur peut être qualifié de contrat de vente (Junod/Gaillard,
+op. cit., nn. 7 et 8 ad art. 317 LP).
+Le concordat par abandon d’actifs est une forme atténuée de faillite. Les art. 317 ss
+LP renvoient du reste en partie aux dispositions sur la procédure de faillite (Spühler/Dolge,
+op. cit., n. 412 p. 146). Cependant, au contraire de l’administration de la masse en faillite,
+qui représente en premier lieu les intérêts du débiteur, les liquidateurs agissent
+aussi dans l’intérêt des créanciers, auquel les biens doivent être cédés
+(art. 319 al. 3 LP ; Spühler/Dolge, op. et loc. cit.). Ce concordat se distingue essentiellement
+de la faillite par le fait que les créanciers se satisfont du produit de la réalisation des
+biens abandonnés par le débiteur. D’après la doctrine, ce concordat présente
+en principe certains avantages par rapport à la faillite : tout d’abord, une phase de
+sursis prépare la liquidation ; ensuite, les travailleurs sont encore opérationnels pendant
+le délai de résiliation de leur contrat de travail et peuvent terminer le travail, livrer les
+commandes, etc. ; en règle générale, le résultat de la liquidation par ce biais
+est meilleur que la solution de la faillite (Junod/Gaillard, op. cit., n. 1 et 2 ad art. 317 LP
+; Hardmeier, Sanierung aus der Optik des reviedierten SchKG, L’expert-comptable suisse, 1997, pp.
+1033 ss, spéc. 1037 s. ; Jeanneret/Cavadini-Birchler, Quelques aspects pratiques du nouveau
+droit de la procédure concordataire, SJ 1999 II 195 ss, p. 213).
+Dans la pratique, les concordats peuvent être combinés et comprendre des éléments
+de plusieurs types de concordat, par exemple abandon de l’actif combiné avec un dividende
+minimal (Hunkeler, KuKo SchKG, n. 8 ad art. 314 et les réf. ; Junod/Gaillard, op. cit., n.
+10 ad art. 317 LP).
+cc)
+Pour juger si les conditions de l’homologation
+d’un concordat sont remplies, au sens où l’entend l’art. 294 al. 1 LP précité
+(cf. consid. III. a)), le juge du concordat, qui statue en procédure sommaire, doit se fonder sur
+les documents mentionnés à l’art. 293 LP (requête, bilan, comptes etc.) ainsi que
+sur l’avis du commissaire au sursis provisoire, qui peut être entendu par écrit
+ou par oral ; le rapport du commissaire doit avant tout renseigner sur le point de savoir s’il
+existe des perspectives d’assainissement ou de concordat ; comme la procédure est soumise
+à la maxime d’office, le juge peut demander la production d’autres pièces (art.
+251 let. a et 255 let. a CPC ; Spühler/Dolge, op. cit., n. 399 p. 136 ; Meier, Strafrechtliche
+Risiken in Sanierungssituationen, Konkursverschleppung und Gläubiger-bevorzugung, Zurich 2015, nn.
+1677 et 1678 p. 441 ; Vollmar, in Staehelin/Bauer/Staehelin (éd.), Basler Kommentar SchKG II,
+n. 10 ad art. 294 LP).
+D’après le Message et la doctrine, la condition posée à l’art. 294 al. 1 LP
+doit être évaluée à la lumière de critères objectifs ; si l’objectif
+est de conclure un concordat par abandon d’actifs, il faut que les intérêts des créanciers
+soient mieux garantis par la procédure concordataire que par une faillite (Message, FF 2010, p. 5898 ;
+Vollmar, op. cit., nn. 1 et 1a ad art. 295 LP).
+Le juge doit également se livrer à un pronostic général quant à la réalisation
+des conditions posées à la future homologation du concordat, notamment en relation avec le
+quorum, la proportionnalité des prestations offertes et la garantie du paiement des créanciers
+privilégiés (cf. art. 305 ss LP ; Vollmar, op. cit., n. 1a ad art. 295 LP).
+Lorsqu’il fait un pronostic sur la perspective de l’homologation d’un concordat, au
+sens de l’art. 294 al. 1 LP, le juge applique les mêmes principes juridiques que lorsque,
+sous l’empire de l’ancien droit, il devait estimer s’il y avait des « perspectives
+de concordat » (cf. art. 294 al. 2 aLP) ou s’il « appar(aiss)ait qu’un
+concordat sera(it) octroyé » (cf. art. 295 al. 2 aLP ; Hunkeler, KuKo SchKG, n. 8
+ad art. 294 LP). Le juge doit faire preuve de retenue, car c’est au commissaire au sursis de procéder
+à un examen approfondi et, au besoin, s’il arrive à la conclusion qu’aucun concordat
+ne pourra manifestement être homologué, de recommander au juge le refus du concordat (art.
+304 al. 1 LP ; Vollmar, op. et loc. cit., par analogie, dans le cadre du nouveau droit). Au stade
+de l’octroi du sursis, ce n’est que s’il n’y a clairement aucune perspective
+d’homologation que le juge doit rejeter la requête de sursis concordataire définitif
+et prononcer d'office la faillite (art. 294 al. 3 LP ; Vollmar, op. cit., n. 15 ad art. 294 LP et
+n. 1a ad art. 295 LP ; Hunkeler, KuKo, n. 12 et 15 ad art. 294 LP).
+d) aa)
+Dans sa requête d’octroi d’un
+sursis concordataire du 24 avril 2015, la débitrice a exposé que G.________ était son
+actionnaire unique, qu’elle employait trente-sept salariés, que les récoltes 2013 et
+2014 avaient été mauvaises, qu’elle avait pâti d’une mauvaise publicité
+liée à une affaire de coupage de vins due à un employé condamné au pénal,
+qu’elle avait licencié son directeur et sa sous-directrice avec effet immédiat, qu’elle
+avait mis en place d’importantes restructurations, qu’elle faisait l’objet au 22 avril
+2015 de trente-cinq poursuites pour un montant total de 1'915'242 fr. 90, que W.________AG avait requis
+et obtenu une prise d’inventaire avant faillite à laquelle il convenait de surseoir, que son
+plus important créancier était la BCV, que des négociations étaient actuellement
+en cours avec celle-ci, que, par convention du 19 mai 2014, la BCV lui avait accordé un crédit
+de 2'930'000 fr. sur remise d’un billet à ordre qu’elle avait souscrit et qui avait
+été avalisé par l’Etat de Vaud, lequel avait en garantie une hypothèque légale
+mobilière sur son vin, que, par avenant à cette convention du 4 février 2015, elle
+s’était engagée à rembourser à la BCV un montant de 2'344'000 francs avant
+le 15 avril 2015, G.________ se portant caution simple envers la BCV pour le solde du prêt, et qu’enfin,
+elle avait entrepris des pourparlers avec de potentiels repreneurs, dont l’identité ne pouvait
+être révélée à ce stade ; elle concluait que « l’hypothèse
+d’une vente d’une partie des actifs ou du capital-actions devrait permettre d’assainir
+la situation (…) ce dans l’intérêt de ses créanciers ». Elle a invoqué
+le fait qu’un dépôt de bilan serait catastrophique et, en particulier, mettrait à
+néant les très nombreuses démarches en cours quant à la reprise de la société,
+qu’en tout cas, elle ne disposait pas d’actifs suffisants permettant d’acquitter ses
+dettes en cas de réalisation forcée et qu’en particulier, les créanciers chirographaire
+ne percevraient aucun dividende ou un dividende extrêmement faible. Elle a demandé qu’un
+commissaire au sursis provisoire soit désigné en la personne de F.________, avec notamment
+pour mission – puisque la requête avait pour objectif de déboucher sur un concordat –
+« d’examiner si ce dernier est possible et quelles pourront être ses caractéristiques ».
+A l’appui de sa requête, elle a produit un bilan non audité, une liste des créanciers,
+une liste des débiteurs et une liste de ses actifs immobiliers.
+Le 19 mai 2015, W.________AG a déposé des déterminations, dans lesquelles elle a déclaré
+s’opposer à l’octroi d’un sursis concordataire et s’est réservée
+subsidiairement de conclure à la désignation d’un autre commissaire. A l’appui
+de son opposition, elle a fait exclusivement valoir que la procédure concordataire postulait une
+parfaite transparence et bonne foi du débiteur et qu’en l’occurrence, cette condition
+n’était pas remplie, dès lors que la requérante au sursis n’avait pas mentionné
+« les actifs que représentent les sociétés B.________SA, branche suisse et branche
+espagnole » et qu’elle s’était comportée de manière déloyale
+envers elle en lui laissant faussement entendre que sa créance serait payée par le produit
+de la vente d’un immeuble qui avait été en définitive aliéné en catimini.
+Le 21 mai 2015, elle a proposé à titre subsidiaire trois noms de commissaires au sursis.
+Par décision du 26 mai 2015, le Président a accordé à la société débitrice
+un sursis concordataire provisoire jusqu'au 20 septembre 2015 et, par décision du 29 juillet 2015,
+il a autorisé la cession d’actifs.
+Dans son rapport du 27 août 2015, le commissaire au sursis concordataire provisoire a conclu qu’il
+paraissait «
+impératif
+» que la société obtienne un sursis définitif de six mois pour finaliser la convention
+de vente de certains actifs et réaliser dans de bonnes conditions les actifs restant et pour mener
+à bien les négociations avec ses créanciers et leur formuler une proposition de concordat
+par abandon d’actifs ou de concordat-dividende.
+Entendu lors de l’audience du 3 septembre 2015, le commissaire au sursis
+a
+relevé qu'au vu de la situation financière au 20 août 2015, seuls les créanciers
+gagistes seraient couverts en cas de faillite, lésant ainsi tous les autres créanciers subséquents,
+et il a exposé, ce que l’agent d’affaires Lauber a confirmé, que des négociations
+étaient en cours, notamment avec la BCV, portant sur un arrangement quant à la réduction
+ou à l'abandon de certaines créances ; selon lui, les sommes ainsi économisées
+permettraient d'augmenter le pourcentage des dividendes qui pourraient être octroyés aux différents
+créanciers, ce qui aurait pour corollaire de favoriser l'homologation d'un concordat par ceux-ci ;
+il a encore argumenté que, si une faillite était prononcée, aucune de ces démarches
+ne pourraient aboutir ce qui défavoriseraient surtout les créanciers privilégiés
+et de troisième classe.
+C’est sur la foi de ces éléments que le Président a octroyé un sursis définitif,
+pour les motifs exposés plus haut (cf. supra consid. III. c) aa)).
+bb)
+Pour l’essentiel, la
+recourante conteste le bien-fondé de la déclaration du commissaire au sursis, que le Président
+a fait sienne, selon laquelle des négociations étaient en cours portant sur le fait que la
+BCV, ainsi que d’autres créanciers, seraient susceptibles de réduire, voire de renoncer,
+à leur créance. Elle qualifie cette éventualité de « pure chimère ».
+Par cet argument, la recourante tente en réalité de remettre en cause l’état de
+fait, ce qu’elle ne saurait faire (cf. supra consid. II. b)). Au demeurant, on ne saurait faire
+grief au Président de s’être fondé sur les déclarations écrites et orales
+du commissaire au sursis provisoire, puisque la loi et la jurisprudence lui prescrivent de le faire dans
+le cadre de l’examen auquel il doit se livrer dans l’application de l’art. 294 al.
+1 LP (cf. consid. III. c) cc)). Au surplus, il convient de relever que le commissaire n’est pas
+un mandataire du débiteur, ni un mandataire des créanciers, mais un agent public occasionnel
+nommé par le juge du concordat pour remplir des tâches définies par la loi qui, à
+ce titre, est soumis à la surveillance de l’autorité cantonale (Gilliéron, op. cit.,
+n. 28 ss ad art. 295 LP).
+cc)
+Autre est la question de savoir
+si les déclarations du commissaire au sursis dans son rapport, confirmées oralement par lui
+lors de l’audience, au sujet de négociations avec des créanciers, dont la BCV, et l’existence
+d’une incidence sur le pourcentage d’éventuels dividendes sont, à elles seules,
+suffisantes pour se convaincre qu’il existe une perspective d’homologation d’un concordat.
+Force est de reconnaître que ces déclarations ne sont ni précises ni documentées,
+notamment quant aux montants des réductions de créances en cause, quant à leur incidence
+sur les dividendes, quant aux créanciers susceptibles d’être touchés et donc d’accepter
+le concordat et quant aux garanties qui seront fournies pour l’exécution de ses obligations
+par la débitrice. Il faut également constater que le commissaire au sursis, s’il a mentionné
+dans son rapport l’éventualité de l’homologation d’un concordat-dividende
+ou d’un concordat par abandon d’actifs, n’a pas précisé lors de l’audience
+laquelle de ces deux formes de concordat était en définitive envisagée. Certes, la mention,
+lors de l’audience, de « dividendes » laisse penser à un concordat-dividende,
+mais le fait que la société ne puisse pas être assainie, pour les motifs exposés
+plus haut (cf. consid. II. a)), ne plaide pas en faveur de l’homologation d’un tel concordat,
+comme l’a du reste reconnu le premier juge. Par ailleurs, un concordat par abandon d’actifs
+supposerait que des biens appartenant à la société soient cédés à des tiers,
+en particulier à des créanciers, en vue d’être réalisés. Or, il apparaît
+qu’une grande partie, pour ne pas dire l’essentiel des actifs de la débitrice (immeubles,
+stocks, vins, etc.) a déjà fait l’objet d’une cession à un ou des tiers, en
+application d’une convention conclue le 8 juillet 2015, que le Président a entérinée
+le 29 juillet 2015, dont la teneur exacte ne ressort pas du jugement attaqué et dont il est donc
+difficile d’appréhender la portée. En outre, d’autres actifs – mobiliers
+et de moindre valeur (cuves, meubles, etc.) - semblent également être en vente. Dans ces conditions,
+puisqu’il apparaît que le commissaire au sursis a procédé à une liquidation
+des biens de la société pendant la durée du sursis provisoire et a conclu dans son rapport
+à l’octroi d’un sursis définitif, en premier lieu,
+pour
+« finaliser la convention de vente de certains actifs avec le groupe H.__-Y.__ et réaliser
+dans de bonnes conditions les actifs restants », il paraît douteux que des actifs autres
+que la contre-valeur des biens cédés puissent exister aux fins d’être abandonnés
+dans le cadre d’un concordat par abandon d’actifs. Il reste l’éventualité
+d’une combinaison entre les deux formes de concordats (cf. consid. III. b) bb)). Mais aucun
+élément de l’état de fait ne permet d’envisager et a fortiori d’analyser
+cette hypothèse.
+Dans ces conditions, au vu du caractère éminemment flou des déclarations du commissaire
+au sursis, couplées avec le fait que, depuis le dépôt de la requête de sursis définitif,
+d’importants actifs de la société sursitaire ont été cédés à
+des tiers en application d’une convention dont le détail ne ressort pas du jugement, il est
+difficile de se convaincre et de vérifier qu’il existerait une perspective de concordat (art.
+294 al. 1 LP) et, a fortiori, une perspective d’homologation d’un tel concordat (art. 305
+ss LP). On ne peut toutefois faire abstraction des déclarations du commissaire au sursis quant à
+l’existence d’une telle perspective et au fait que les créanciers y trouveraient leur
+avantage par rapport à une faillite.
+En conclusion, la cour de céans constate qu’elle ne peut pas vérifier que les conditions
+d’un sursis concordataire définitif sont remplies, mais qu’au vu des déclarations
+du commissaire au sursis, elle ne peut pas non plus clairement exclure qu’elles le soient. Elle
+se trouve dès lors face à l’alternative suivante : soit elle considère qu’elle
+doit vérifier l’objectivité des déclarations du commissaire et ne peut qu’admettre
+le recours, annuler le jugement et renvoyer le dossier au premier juge pour qu’il instruise les
+questions soulevées ci-dessus et, le cas échéant, notamment à défaut d’éclaircissements
+suffisants de la part du commissaire, prononce la faillite (art. 327 al. 3 let. a CPC) ; soit elle
+rejette le recours, tout en indiquant formellement que, d’ici à la prochaine audience, le
+commissaire, s’il entend conclure à la prolongation du sursis plutôt qu’à
+la faillite, devra absolument apporter au juge du concordat toutes les précisions lui permettant
+d’appréhender dans le détail la perspective d’homologation d’un concordat.
+Etant donné qu’une grande partie de la durée de six mois du sursis définitif a déjà
+couru, la cour de céans estime peu opportun d’annuler la décision, ce qui risquerait
+au surplus d’invalider toutes les opérations accomplies entre-temps par le commissaire. Il
+convient ainsi plutôt de rejeter le recours, en attirant expressément l’attention du
+Président sur le fait que, lors de la prochaine audience, toutes les précisions utiles et documentées
+devront lui être fournies par le commissaire quant à l’éventuelle perspective de
+l’homologation d’un concordat et ses prétendus avantages pour les créanciers.
+dd)
+Il faut encore signaler que la recourante
+fait valoir que la faillite serait plus dans l’intérêt des créanciers, au vu des
+suites pénales à envisager contre G.________, d’éventuelles actions révocatoires
+en lien avec la vente d’une usine d’embouteillages, la société B.________SA et
+des « rabais mirobolants, pour plusieurs millions, offerts au groupe H.________ »,
+et d’éventuelles actions en responsabilité contre les organes de la débitrice, notamment
+contre G.________. Ces arguments, qui reposent pour l’essentiel sur des faits non contenus dans
+le jugement, ne sont pas déterminants sous l’angle du droit de l’assainissement et,
+en particulier, de l’art. 294 al. 1 LP. Au demeurant, les créanciers – dans la mesure
+où ils seraient bien titulaires des prétentions en cause – ne vont pas être déchus
+de les faire valoir en raison de l’octroi d’un sursis de six mois.
+La recourante invoque en outre le caractère douteux de la créance d’honoraires de 200'000
+fr. de G.________. Là aussi, le moyen repose sur des faits qui ne ressortent pas du dossier. On
+ne voit du reste pas en quoi une éventuelle contestation de cette créance ne serait plus possible
+en raison de l’écoulement dudit délai de six mois.
+IV.
+En conclusion, le recours doit être rejeté
+et le jugement confirmé.
+Les frais judiciaires, mis à la charge de la recourante (art. 106 al. 1 CPC), sont arrêtés
+à 2'250 fr., en application de l’art. 61 OELP (ordonnance sur les émoluments perçus
+en application de la LP ; RS 281.35).
+L’intimée K.________SA, qui a conclu au rejet du recours, avec suite de frais et dépens,
+et a procédé avec l’assistance d’un conseil professionnel, a droit à des dépens,
+arrêtés à 2'000 francs (art. 3 et 8 TDC [tarif des dépens en matière civile ;
+RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'250 fr. (deux mille deux
+cent cinquante francs), sont mis à la charge de la recourante.
+IV.
+La recourante W.________AG doit verser à l’intimée K.________SA la somme de 2'000 fr.
+(deux mille francs) à titre de dépens de deuxième instance.
+V.
+L’arrêt est
+exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Carré, avocat (pour W.________AG),
+‑
+Me François Roux, avocat (pour K.________SA),
+-
+Me Marc-Antoine Aubert, avocat (pour [...], [...], [...] et [...] SA),
+-
+Me Olivier Freymond, avocat
+(pour [...]),
+-
+Me Philippe Reymond, avocat (pour [...]),
+-
+M. Jean-Marc Schlaeppi, agent d’affaires breveté (pour [...] SA, la Commune de [...], l' [...],
+[...] et communauté héréditaire [...]),
+-
+M. Thierry Zumbach, agent
+d’affaires breveté (pour [...] et [...] SA),
+-
+Etat de Vaud, Service
+juridique et législatif,
+-
+Hoirie [...],
+-
+[...] SA,
+-
+Etat de Vaud – D.E.S.,
+-
+[...],
+-
+M. [...],
+-
+M. [...],
+-
+[...] SA,
+-
+[...],
+-
+M. [...],
+-
+[...], Société coopérative,
+-
+M. [...],
+-
+Mme [...],
+-
+Office [...],
+-
+M. [...],
+-
+Banque Cantonale Vaudoise,
+-
+[...] SA,
+-
+M. F.________, [...] SA, commissaire au sursis,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’arrondissement de
+l’Est vaudois,
+-
+M. le Préposé à l'Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Lavaux-Oron,
+-
+M. le Conservateur du Registre foncier, Office d’Aigle-Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
