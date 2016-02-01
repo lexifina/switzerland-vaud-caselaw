@@ -1,0 +1,164 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___84"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 84"
+decided: "2016-02-01"
+published: "2016-02-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5358054"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-401.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 84
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, INDEMNITÉ{EN GÉNÉRAL} | 135 CPP (CH), 386 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 01.02.2016 Décision / 2016 / 84
+
+RETRAIT{VOIE DE DROIT}, INDEMNITÉ{EN GÉNÉRAL} | 135 CPP (CH), 386 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+92
+PE13.005654-SOO/PCL
+COUR
+D’APPEL PENALE
+______________________________
+Séance
+du 1er février 2016
+__________________
+Présidence
+de               M.
+Winzap
+,
+président
+M.
+Battistolo et Mme Rouleau, juges
+Greffière
+:              Mme
+Aellen
+*****
+Parties
+à la présente cause :
+X.________
+,
+prévenu, représenté par Me Raphaël Brochellaz, défenseur d’office à
+Lausanne, appelant,
+et
+Ministère
+public,
+représenté par le Procureur
+de l'arrondissement de Lausanne, appelant par voie de jonction et intimé.
+Vu le jugement du 29 octobre 2015, par lequel le Tribunal correctionnel de l'arrondissement de Lausanne
+a notamment constaté qu’X.________ s’était rendu coupable de délit à
+la loi fédérale sur les étrangers, de contravention et de crime à la loi fédérale
+sur les stupéfiants (I), l’a condamné à une peine privative de liberté de vingt-deux
+mois, sous déduction de 29 jours de détention avant jugement, ainsi qu’à une amende
+de deux cents francs (II), a suspendu l’exécution d’une partie de la peine privative
+de liberté portant sur seize mois et a imparti à X.________ un délai d’épreuve
+de cinq ans (III), a dit qu’en cas de non-paiement fautif de l’amende fixée sous chiffre
+II ci-dessus, la peine privative de liberté de substitution sera de deux jours (IV), a constaté
+qu’X.________ a subi quatorze jours de détention dans des conditions provisoires illicites
+et ordonné que sept jours de détention soient en outre déduits de la partie ferme de la
+peine fixée sous chiffre II ci-dessus, à titre de réparation du tort moral (V), a statué
+sur le cas de son co-prévenu, [...], (VI à VIII), et a statué sur les séquestres,
+les frais et les indemnités (IX à XII),
+vu l’annonce du 9 novembre 2015 et la déclaration motivée du
+1
+er
+décembre suivant, par lesquelles X.________ a formé appel contre ce jugement,
+vu l’appel joint déposé le 22 décembre 2015 par le Ministère public,
+vu l’audience appointée au 23 mars 2016,
+vu la déclaration de retrait d’appel signée le 27 janvier 2016 par X.________ et transmise
+à la Cour de céans par courrier du défenseur d’office de l’appelant du 28
+janvier 2016 avec une liste d’opérations,
+vu les pièces au dossier ;
+attendu qu'aux termes de l'art. 386 al. 2 let. a CPP (Code de procédure pénale suisse du 5
+octobre 2007 ; RS 312.0), quiconque a interjeté un recours peut le retirer, s'agissant d'une
+procédure orale, avant la clôture des débats,
+qu'en l’espèce, par déclaration du 27 janvier 2016, X.________ a déclaré retirer
+son appel,
+qu'il y a lieu de prendre acte de ce retrait, les conditions de l'art. 386 al. 2 let. a CPP étant
+réalisées,
+que le retrait de l’appel principal rend caduc l’appel joint (art. 401 al. 3 CPP),
+que le jugement entrepris est en conséquence
+exécutoire en ce qui concerne X.________ ;
+attendu qu’il y a lieu de fixer l’indemnité du défenseur d’office de l’appelant,
+qu'aux termes de l'art. 135 al. 1 CPP, le défenseur d’office est indemnisé conformément
+au tarif des avocats de la Confédération ou du canton du for du procès,
+qu’en l'espèce, la liste des opérations produite par le défenseur du prévenu,
+qui fait état d’une activité de 7h et de 23 fr. 20 de débours, ne prête pas
+le flanc à la critique,
+qu'une indemnité de 1’385 fr. 85, TVA et débours compris, sera ainsi allouée à
+Me Raphaël Brochellaz, défenseur d'office d’X.________, pour la procédure d’appel,
+que les frais de la procédure d'appel, constitués de l’émolument d’arrêt,
+par 330 fr., et de l’indemnité allouée au défenseur d’office ci-dessus, doivent
+être mis à la charge de l’appelant principal, la partie qui retire l'appel étant
+considérée avoir succombé (art. 428 al. 1 CPP),
+qu’X.________ ne sera tenu de rembourser à l’Etat l’indemnité allouée
+à son défenseur d’office que lorsque sa situation financière le permettra (art.
+135 al. 4 CPP).
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+en
+application des art. 135, 386 et 398 ss CPP,
+statuant
+à huis clos,
+prononce :
+I.
+Il est pris acte du retrait de l'appel interjeté par X.________.
+II.
+L’appel joint déposé par le Ministère public est caduc.
+III.
+Le jugement rendu le 29 octobre 2015 par le Tribunal correctionnel de l’arrondissement de Lausanne
+est déclaré exécutoire en ce qui concerne X.________.
+IV.
+Une indemnité de défenseur d’office d’un montant de 1'385 fr. 85, débours
+et TVA compris, est allouée à Me Raphaël Brochellaz pour la procédure d’appel.
+V.
+Les frais d’appel, par 1’715 fr. 85,
+y compris l’indemnité prévue au chiffre IV ci-dessus, sont mis à la charge d’X.________.
+VI.
+X.________ ne sera tenu de rembourser à l’Etat le montant de l’indemnité allouée
+à son défenseur d’office que lorsque sa situation financière le permettra.
+VII.
+La présente décision est exécutoire.
+Le
+président :              La greffière
+:
+Du
+La décision qui précède est notifiée à :
+-
+Me Raphaël Brochellaz (pour X.________),
+-
+Ministère public central,
+et communiquée à :
+-
+M. le Président du Tribunal correctionnel de l'arrondissement de Lausanne,
+-
+Mme la Procureure de l'arrondissement de Lausanne,
+-
+Office d’exécution des peines,
+-
+Service de la population, secteur Etrangers (X.________, né le 15.08.1982),
+par l'envoi de photocopies. Elle prend date de ce jour.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent jugement peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales ; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
