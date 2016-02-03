@@ -1,0 +1,250 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___89"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 89"
+decided: "2016-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5366709"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2016 / 89
+
+## Regeste
+
+FAUX INTELLECTUEL DANS LES TITRES, FAUX MATÉRIEL DANS LES TITRES, CLASSEMENT DE LA PROCÉDURE | 251 ch. 1 CP, 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.02.2016 Décision / 2016 / 89
+
+FAUX INTELLECTUEL DANS LES TITRES, FAUX MATÉRIEL DANS LES TITRES, CLASSEMENT DE LA PROCÉDURE | 251 ch. 1 CP, 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+81
+PE14.000496-JON
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+3 février 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Maillard, juges
+Greffier
+:
+M.              Tinguely
+*****
+Art.
+319 let. b CPP
+Statuant sur le recours interjeté le 14 décembre 2015 par
+F.________
+contre l’ordonnance de classement rendue le 2 décembre 2015 par le Ministère public de
+l’arrondissement de Lausanne dans la cause
+n° PE14.000496-JON
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Entre 2010 et 2011, dans les locaux de la société [...], à Lausanne, une personne non
+identifiée aurait modifié le document d’évaluation intitulé «  [...]
+– évaluation intermédiaire effectuée le 4.8.2010 » concernant F.________,
+employée de la société précitée, en y ajoutant des phrases à l’insu
+de cette dernière dans les rubriques « Objectifs/activités supplémentaires ».
+Les phrases prétendument ajoutées avaient notamment la teneur suivante :
+« Gestion
+des priorités, savoir gérer et tenir les délais. Travail de fond : les dossiers sont
+traités de A à Z afin de les boucler définitivement dans un laps de temps raisonnable
+(par exemple : conclusion, résiliation, etc.). »
+« Utilisation
+des différentes plateformes de manière optimale. Rester à l’essentiel des informations
+et garder ce qui est vraiment utile. »
+Dans les mêmes circonstances, L.________, cheffe d’équipe auprès [...], aurait rempli
+un document intitulé « Performance Mangement Form 2010 » concernant F.________
+à l’insu de cette dernière. L.________ aurait par ailleurs relevé dans ce document
+que F.________ l’avait confirmé électroniquement le 11 avril 2011, ce qui serait
+contraire à la réalité.
+b)
+Le 8 janvier 2014, F.________ a dénoncé
+ces faits au Ministère public central, exposant en outre avoir été licenciée abusivement
+par son employeur, [...], avec effet au 31 mars 2012, et avoir subi un harcèlement moral de
+la part de certains de ses collègues. Elle a expliqué avoir déposé en date du 15
+juillet 2013 une demande auprès de la Chambre patrimoniale cantonale à l’encontre de
+la société [...] tendant au paiement d’un montant de 228'382 francs. Parmi les pièces
+produites par [...] dans le cadre de cette procédure figuraient des copies des documents prétendument
+falsifiés.
+A la suite de cette dénonciation, une instruction a été ouverte par le Ministère
+public de l’arrondissement de Lausanne contre inconnu pour faux dans les titres.
+B.
+a)
+Le 1
+er
+avril 2015, F.________ a requis du Procureur qu’il ordonne en mains d’ [...] la production
+de toutes directives concernant la mise en œuvre des entretiens d’évaluation, la production
+de tous les
+logs
+de connexions effectués par elle-même sur le système [...] pour la période allant
+du mois de janvier 2010 au mois de mars 2011 et la production de tous les
+logs
+de connexions informatiques attestant des accès à ses fiches d’évaluation sur le
+système informatique [...] par toutes personnes ayant œuvré pour [...] pendant la période
+précitée et permettant d’établir les connexions effectuées lors de ces opérations
+(lectur
+e, écriture,
+modification, suppression, etc.).
+b)
+Par
+ordonnance du 2 décembre 2015, le Procureur a rejeté les réquisitions de preuve de F.________
+(I) et a ordonné le classement de la procédure pénale dirigée contre inconnu pour
+faux dans les titres (II), les frais de procédure étant laissés à la charge de l’Etat
+(III).
+Le Procureur a estimé que le classement de la procédure pénale se justifiait dès
+lors qu’on ne pouvait pas discerner l’existence d’un dessein de nuire ou d’obtenir
+un avantage illicite, de sorte que les éléments constitutifs de l’infraction de faux
+dans les titres au sens de l’art. 251 ch. 1 CP faisaient défaut pour les deux documents litigieux.
+C.
+Par acte du 14 décembre 2015, F.________,
+représentée par son conseil de choix, a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre l’ordonnance de classement du 2 décembre 2015, en concluant, avec
+suite de dépens, à son annulation, le dossier de la cause étant retourné au Ministère
+public pour complément d’instruction et nouvelle décision dans le sens des considérants.
+Le 29 janvier 2016, le Ministère public s’est déterminé sur le recours, en concluant
+à son rejet.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) dans les dix jours devant l’autorité
+de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui, dans le canton de Vaud,
+est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction
+du Code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire; RSV 173.01]).
+En l'espèce, interjeté en temps utile, devant l’autorité compétente, par la
+partie plaignante, qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant aux conditions
+de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+La recourante soutient que la réalisation
+du dessein spécial de l’art. 251 ch. 1 CP ne pouvait pas être écartée à
+ce stade, les circonstances démontrant au contraire que la falsification des documents litigieux
+aurait pu permettre à [...] d’obtenir un avantage illicite, en lui donnant le moyen de prouver,
+dans le cadre de la procédure civile en cours, que le licenciement de la recourante n’était
+pas abusif et qu’elle ne s’était pas rendue coupable de
+mobbing
+à son égard.
+2.2
+2.2.1
+Selon l'art. 319 al. 1 CPP, le Ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+De
+manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance
+confinant à la certitude. La possibilité de classer la procédure ne saurait toutefois
+être limitée à ce seul cas, car une interprétation aussi restrictive imposerait un
+renvoi en jugement, même en présence d'une très faible probabilité de condamnation
+(ATF 138 IV 86 consid. 4.1.1 ; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe
+in
+dubio pro duriore
+exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement (ATF 137 IV 219 consid. 7 ; ATF
+138 IV 86 consid. 4.1.1 ; ATF 138 IV 186 consid. 4.1 ; TF 1B_272/2011 du 22 mars 2012
+consid. 3.1.1).
+Enfin,
+le constat selon lequel aucun soupçon justifiant une mise en accusation n’est établi
+(art. 319 al. 1 let. a CPP) suppose que le Ministère public ait préalablement procédé
+à toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 24 novembre 2014/846 consid. 2.1 ;
+CREP 11 avril 2014/280 consid. 2a et les références citées).
+2.2.2
+Le dessein d’obtenir
+un avantage illicite au sens de l’art. 251 ch. 1 CP doit notamment être retenu lorsque l’auteur
+crée un titre faux pour compléter ou améliorer des preuves (ATF 106 IV 41 ; Dupuis
+et al., Petit Commentaire du Code pénal, Bâle 2012, n. 56 ad art. 251 CP).
+2.3
+En l’espèce, les adjonctions incriminées
+pourraient être interprétées en ce sens que la recourante ne donnait pas entière
+satisfaction du point de vue de la gestion des délais, qu’elle n’utilisait pas les différentes
+« plateformes » de manière optimale et qu’elle ne parvenait pas à
+s’en tenir à l’essentiel des informations auxquelles elle avait accès.
+Force est de constater que de telles assertions sont susceptibles de servir favorablement à [...]
+dans le cadre de la procédure judiciaire introduite à son encontre par F.________ pour licenciement
+abusif. L’existence d’un dessein visant à obtenir un avantage illicite, au sens de la
+jurisprudence précitée (ATF 106 IV 41), ne peut dans ces circonstances pas être exclue
+à ce stade.
+Au reste, il ressort de l’audition de L.________, entendue le 25 mars 2015 par le Procureur en
+qualité de personne à fournir des renseignements (cf. PV d’audition 2, lignes 62 ss),
+que la modification des documents litigieux était techniquement possible. On ne peut dès lors
+pas exclure que les mesures d’instruction requises permettent de reconstituer l’historique
+de modification de ces documents et de constater ainsi l’existence d’un faux.
+Il convient en conséquence de renvoyer le dossier de la cause au Ministère public pour qu’il
+procède à un complément d’instruction en ce sens.
+3.
+Il résulte de ce qui précède que le recours doit être admis, l’ordonnance attaquée
+annulée et le dossier de la cause renvoyé au Ministère public de l’arrondissement
+de Lausanne pour qu’il procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront laissés à la charge
+de l’Etat (art. 423 al. 1 CPP).
+S’agissant des dépens réclamés par la recourante, il appartiendra, le cas échéant,
+à cette dernière d’adresser à la fin de la procédure ses prétentions à
+l’autorité pénale compétente selon l’art. 433 al. 2 CPP (CREP 16 avril 2013/279
+consid. 4 et les références citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 2 décembre 2015 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de Lausanne pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 660 fr. (six cent soixante francs), sont laissés à la charge
+de l’Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Ludovic Turelli (pour Mme F.________),
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
