@@ -1,0 +1,514 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___82"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 82"
+decided: "2016-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5360320"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-060.md", "switzerland/bund/acts/311.0/art-062.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-064a.md", "switzerland/bund/acts/311.0/art-064b.md", "switzerland/bund/acts/311.0/art-065.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-363.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2016 / 82
+
+## Regeste
+
+INTERNEMENT{DROIT PÉNAL}, EXPERTISE PSYCHIATRIQUE, ÉTAT DE FAIT DÉTERMINANT DANS LE TEMPS | 64a CP, 64b CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.02.2016 Décision / 2016 / 82
+
+INTERNEMENT{DROIT PÉNAL}, EXPERTISE PSYCHIATRIQUE, ÉTAT DE FAIT DÉTERMINANT DANS LE TEMPS | 64a CP, 64b CP
+
+TRIBUNAL
+CANTONAL
+82
+AP15.006051-CMD
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+3 février 2016
+__________________
+Composition
+:               M.
+M A I L L A R D, président
+MM.
+Krieger et Abrecht, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+64a, 64b CP; 38 al. 1 LEP
+Statuant sur le recours interjeté le 11 janvier 2016 par
+V.________
+contre la décision rendue le 29 décembre 2015 par le Collège des juges d’application
+des peines dans la cause
+n° AP15.006051-CMD
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par arrêt du 7 septembre 1987, la Cour de cassation pénale du Tribunal cantonal a constaté
+que V.________, né en 1961, s'était rendu coupable de brigandage qualifié, lésions
+corporelles simples intentionnelles, lésions corporelles simples avec usage d'un instrument dangereux,
+voies de fait, vol et contravention à la loi fédérale sur les stupéfiants et l'a
+condamné à quatre ans de réclusion. L'exécution de cette peine a été suspendue
+au profit d'un internement.
+V.________ a en outre fait l’objet d’autres condamnations pénales. Par jugement du 8
+février 1994, le Tribunal correctionnel du district de Lausanne l’a condamné à deux
+ans d’emprisonnement pour brigandage qualifié, lésions corporelles simples et contravention
+à la loi fédérale sur les stupéfiants. Par jugement du 15 mars 1996, le Tribunal
+correctionnel du district de Grandson l’a condamné à six ans de réclusion pour délit
+manqué de meurtre, délit manqué de viol, lésions corporelles simples, voies de fait,
+brigandage, violation de domicile et contravention à la loi fédérale sur les stupéfiants.
+Par jugement du 20 février 2002, le Tribunal correctionnel du district de la Broye et du Nord vaudois
+l’a condamné à cinq mois d’emprisonnement pour incendie intentionnel. L’exécution
+de ces trois peines a également été suspendue au profit de l’internement.
+b)
+Le 1
+er
+octobre 2007, lors du réexamen des internements imposé par l'entrée en vigueur de la nouvelle
+partie générale du Code pénal (CP; RS 311.0) le 1
+er
+janvier 2007, le Tribunal correctionnel de l'arrondissement de Lausanne a ordonné la poursuite de
+l'internement conformément au nouveau droit (art. 64 CP).
+c)
+Le condamné s'est évadé le 14 juillet 2013 de la Fondation Bartimée, au sein de laquelle
+il était placé depuis le 5 décembre 2012. Le 15 juillet 2013, l'Office d'exécution
+des peines (OEP) a procédé à son signalement RIPOL et ordonné la poursuite de son
+internement au sein d'un établissement pénitentiaire, avec la poursuite de la prise en charge
+psychothérapeutique auprès du Service de médecine et de psychiatrie pénitentiaires
+(SMPP). Le prénommé a été interpellé en France le 25 juillet 2013 et a été
+détenu à titre extraditionnel jusqu'au 30 décembre 2014, date à laquelle il a été
+transféré à la Prison de la Croisée, à Orbe. Depuis le 6 janvier 2015, il est
+détenu aux Etablissements de la plaine de l'Orbe (EPO).
+d)
+Le condamné a fait l'objet de plusieurs expertises psychiatriques depuis 1985. La dernière
+d'entre elles, réalisée dans le cadre d'un précédent examen de la libération
+conditionnelle, a donné lieu à un rapport du 15 mai 2012 du Dr Philippe Vuille, spécialiste
+FMH en psychiatrie et psychothérapie, à Neuchâtel. L'expert a posé le diagnostic
+de personnalité immature, intellectuellement limitée, avec prédominance de traits psychopathiques
+et passifs-agressifs (trouble mixte de la personnalité) et de syndrome de dépendance à
+des substances toxiques (principalement l'alcool et le cannabis, plus récemment aussi les opiacés).
+Il a considéré que la situation de l'expertisé comportait encore un risque de le voir
+commettre de nouveaux actes punissables du même genre que ceux pour lesquels il a été
+jugé par le passé, ce risque ne paraissant pas important à court terme, mais pouvant le
+devenir assez rapidement (quelques semaines) en cas d'engagement dans un processus de rechute dans la
+consommation d'alcool ou de toxiques illicites. Quant à la l'opportunité de remplacer l'internement
+par une mesure thérapeutique institutionnelle, en vue d'améliorer le pronostic légal,
+l'expert a indiqué manquer d'arguments pour affirmer que l'intéressé pourrait en tirer
+bénéfice. Il a précisé que l’expertisé ne paraissait pas accessible à
+des mesures psychothérapeutiques           « cla
+ssiques
+» fondées sur le dialogue et que le traitement devrait reposer essentiellement sur une structuration
+du cadre propre à lui permettre de se confronter de façon lente et progressive à des situations
+plus compliquées et difficiles. Ainsi, seule une évolution favorable pourrait apporter l'argument
+qui manquait actuellement pour dire que l’expertisé pourrait réellement bénéficier
+d'une mesure thérapeutique et que celle-ci serait de nature à diminuer le risque de nouveau
+passage à l'acte potentiellement dangereux qu'il présente.
+B.
+a)
+Le 24 mars 2015, l'OEP a saisi le Collège des Juges d'application des peines de l'examen annuel
+de la libération conditionnelle du condamné, en émettant un préavis défavorable.
+L'office estimait en outre qu'il n'y avait pas lieu de saisir l'autorité de jugement afin qu'elle
+examine si les conditions d'une mesure thérapeutique institutionnelle étaient réunies.
+b)
+Dans
+un rapport établi le 5 février 2015 en vue de la présente procédure, la Direction
+des EPO a exposé que le condamné souhaitait bénéficier de l'AI ainsi que d'une retraite
+anticipée avant de quitter le pays. Le prénommé déclarerait par ailleurs ne pas souhaiter
+évoluer au sein des EPO, attendant de pouvoir sortir et se disant lassé de ce contexte carcéral
+qu'il ne connaissait que trop bien. Au sein du secteur « évaluation » du pénitencier,
+le comportement du condamné n'appellait pas de remarques particulières, même si le personnel
+de surveillance le trouvait passablement déprimé et épuisé. En raison de la récente
+entrée de l’intéressé aux EPO, la direction a déclaré ne pas être
+en mesure de se prononcer quant à son évolution ou d'émettre un préavis quant à
+sa libération conditionnelle.
+c)
+Le
+9 février 2015, la Direction des EPO a exposé avoir procédé à l'évaluation
+du condamné, dont le placement en secteur « responsabilisation » du pénitencier des
+EPO était envisageable. Elle s'interrogeait en revanche sur l'opportunité d'un transfert de
+l'intéressé en secteur fermé de la Colonie, au vu de son profil.
+d)
+Dans
+un rapport du 25 mars 2015, le Dr Marcot, du SMPP, a exposé avoir vu le condamné à trois
+reprises en consultation depuis janvier 2015. Un suivi à un rythme mensuel avait été convenu
+avec le patient, lequel bénéficiait d'un traitement à visée anxiolytique ainsi que
+d'un traitement de substitution aux opioïdes. Il témoignait d'une certaine tension intérieure
+liée à sa situation pénale, à la suite de sa réintégration dans le système
+carcéral suisse, mais acceptait le cadre thérapeutique proposé, malgré une certaine
+méfiance initiale. Le suivi de son traitement médicamenteux était à l'ordre du jour,
+ainsi que la construction d'un cadre thérapeutique qu'il puisse investir. Enfin, le Dr Marcot ne
+signalait pas d'élément psychopathologique aigu.
+e)
+Le 22 avril 2015, le condamné a fait l'objet d'une sanction disciplinaire pour fraude et trafic,
+une fouille de sa cellule, le 13 avril 2015, ayant révélé la présence d'un yo-yo,
+de diverses boîtes de médicaments et d'une lame de rasoir modifiée. Le 27 mai 2015, il
+a une nouvelle fois été sanctionné, pour inobservation des règlements et directives.
+Il lui était reproché d'avoir fait usage d'un yo-yo, le 13 mai 2015, afin de passer ou de recevoir
+de la marchandise.
+f)
+Entendu le 5 mai 2015 par la Présidente du Collège des juges d'application des peines, en présence
+de son défenseur, le condamné a relevé qu'il souhaitait bénéficier de la libération
+conditionnelle afin préparer son retour au Maroc, où sa famille pourrait l'accueillir et l'encadrer
+et où il pourrait travailler dans le tourisme ou vendre des oranges. Dans l'intervalle, il s’est
+dit prêt à respecter toutes les règles que l'on pourrait lui imposer, telles que la prise
+d'Antabus, un patronage où une obligation de suivi psychiatrique. Enfin, il a assuré qu'à
+50 ans, il n'était « plus comme avant » et qu'il avait « tout fait pour éviter
+de refaire ce qui [s'était] passé ». A l'issue de l'audience, la défense a requis
+la mise en œuvre d'une nouvelle expertise psychiatrique ou, à défaut, la réactualisation
+du rapport déposé par le Dr Vuille en 2012, ainsi que la production du casier judiciaire marocain
+du condamné.
+g)
+La requête tendant à la production du casier judiciaire marocain du condamné n'a fait
+l'objet d'aucune réponse des instances marocaines concernées, malgré plusieurs rappels.
+h)
+Un Bilan de phases et proposition de la suite du plan d'exécution de sanctions (PES) a été
+élaboré en juin 2015 par les EPO et avalisé le 9 juin 2015 par l'OEP. De l'évaluation
+criminologique comprise dans ce document, il ressort notamment que le condamné s'était montré
+adéquat lors de ses entretiens avec la chargée d'évaluation, certaines séances se
+révélant toutefois laborieuses dès lors qu’il éludait des questions, probablement
+pour dissimuler certaines de ses limites. L'intéressé se situe dans le déni total des
+infractions sexuelles qui lui ont été reprochées; il banalise et minimise les actes qu'il
+admet avoir commis. Il se compare souvent à d'autres condamnés, clamant par exemple n'avoir
+jamais tué quiconque, ni vendu de la drogue. Selon l'évaluatrice, le condamné se comporte
+en spectateur de sa sanction et ne s'identifie pas aux personnes sous le coup de mesures, ce qui laisse
+penser qu'il n'a pas conscience de la gravité des actes qu'il a pu commettre, ni du motif pour lequel
+il est actuellement interné. Il cite immédiatement l'alcool comme déclencheur de ses passages
+à l'acte et affirme que personne ne l'a jamais aidé à s'en sortir, tout en ajoutant que
+son addiction appartient désormais au passé, puisqu'il ne s'est plus alcoolisé depuis
+2013. Il consomme en revanche du cannabis, auquel il lui serait plus difficile de résister en détention.
+L'évaluatrice observe une tendance à la victimisation à plusieurs niveaux dans le discours
+de l'intéressé, qui remet en cause tout le travail des intervenants durant son parcours carcéral
+mais ne questionne nullement son propre fonctionnement et ne semble pas percevoir sa responsabilité
+dans sa situation actuelle. Le condamné fait au demeurant preuve de peu d'empathie vis-à-vis
+de ses victimes. En outre, il témoigne d'un manque d'introspection et d'une absence de remise en
+question flagrants. Son risque de récidive générale doit être qualifié d'élevé,
+ce résultat étant fortement influencé par ses antécédents, son absence de formation
+et d'expériences professionnelles stables, un réseau de connaissances pro-sociales relativement
+restreint, la problématique de dépendance et une tendance généralisée à
+vivre des problèmes. Néanmoins, il n'est pas plus dangereux aujourd'hui que lorsqu'il était
+placé à la Fondation Bartimée et aucun acte hétéro-agressif n'a été
+déploré depuis plusieurs années. Il n'en est, toujours selon l’évaluatrice,
+pas moins nécessaire de conserver un cadre institutionnel ou carcéral qui contienne la potentielle
+consommation d'alcool du condamné, un risque de récidive étant toujours présent.
+Le préavis pour un passage à une phase ultérieure est ainsi favorable.
+Le PES prévoit dès lors, en premier lieu, le passage du condamné en secteur fermé
+de la Colonie des EPO, avec pour objectif de lui permettre de continuer à faire la preuve de son
+bon comportement dans un cadre différent, de l'amener à se confronter à sa composante
+délictuelle et de le tester par rapport à d'éventuelles consommations d'alcool ou de stupéfiants.
+L'accès à cette phase est notamment subordonné à l'absence de sanctions disciplinaires
+durant un mois depuis celle prononcée le 27 mai 2015, ainsi qu’à une stricte abstinence
+en matière d'alcool et de stupéfiants, vérifiée par des prises d'urine régulières.
+i)
+Le 3 juin 2015, le condamné a fait l'objet d'une sanction disciplinaire pour atteinte à la
+liberté. Il lui était reproché d'avoir proféré des menaces envers le personnel
+de surveillance, le 28 mai 2015. Il a encore fait l'objet d'une sanction disciplinaire, le 12 août
+2015, pour avoir insulté un agent de détention.
+Par décision du 8 juillet 2015, l'OEP a autorisé le transfert du condamné en secteur fermé
+de la Colonie des EPO, à une date à déterminer en fonction des places disponibles au sein
+dudit secteur. Cette décision était notamment subordonnée au maintien d'une stricte abstinence
+en matière d'alcool et de stupéfiants, ainsi que d'une collaboration avec le SMPP.
+j)
+Par avis du 16 juillet 2015, le Président et Juge instructeur du Collège des Juges d'application
+des peines a informé la défense du fait qu'il n'entendait pas donner suite à sa requête
+tendant à la mise en œuvre d'une nouvelle expertise psychiatrique du condamné. Il relevait
+à cet égard ne pas distinguer d'éléments tendant à démontrer que les conclusions
+du dernier rapport d'expertise en date ne seraient plus d'actualité et ajoutait que l'évolution
+du condamné depuis son départ de la Fondation Bartimée consacrait manifestement un retour
+en arrière, au regard duquel il paraissait vain d'interpeller un expert quant à l'opportunité
+d'un changement de mesure, le condamné semblant au demeurant persister dans une attitude peu constructive,
+incompatible avec un assouplissement de ses conditions de détention formelles ou factuelles.
+Le 22 juillet 2015, la défense a fait valoir qu'il convenait de s'interroger sur la pertinence de
+la mesure d'internement, devenue, avec le temps, totalement disproportionnée. Elle a requis la tenue
+d'une « audience de jugement » lors de laquelle il conviendrait d'entendre, en qualité
+de témoins, le Dr Philippe Vuille, le Dr Ivan Moldovan, médecin disposé à assurer
+le suivi du prénommé en cas de libération, ainsi, éventuellement, que la mère
+et l'un des frères du condamné.
+k)
+Par courrier du 20 août 2015, le Ministère public a renoncé à déposer un préavis,
+déclarant qu’il se ralliait à la proposition de l'OEP du 24 mars 2015 tendant au refus
+de la libération conditionnelle.
+l)
+La défense a confirmé et étayé sa position par mémoire du 24 septembre 2015,
+puis par procédé du 4 novembre 2015. Elle a par ailleurs conclu, « [d]ans tous les
+cas », à ce que soit constatée l’illicéité de la mesure d’internement
+du 10 avril 1996 au 13 mars 2002, l’Etat de Vaud étant tenu d’indemniser le condamné
+à hauteur de 146'000 francs. Elle a en outre conclu à ce que soit constaté l’échec
+de la mesure d’internement, « l’ensemble des éventuelles peines privatives
+de liberté étant absorbées par la durée de privation de liberté occasionnée
+par la mesure ». Subsidiairement, le condamné a conclu à sa libération conditionnelle
+de la mesure d’internement, moyennent des éventuelles règles de conduite et/ou une assistance
+de probation pour la durée de la mise à l’épreuve. Plus subsidiairement, il a conclu
+à ce que soit prononcé, en lieu et place de la mesure d’internement, un traitement ambulatoire
+au sens de l’art. 63 CP, plus subsidiairement encore, que soit prononcée une mesure de traitement
+des addictions au sens de l’art. 60 CP. Il a fait valoir pour l’essentiel que sa bonne motivation,
+ses ressources personnelles et sa dangerosité, selon lui somme toute limitée, dicteraient un
+pronostic favorable quant à son comportent ne liberté.
+m)
+Par décision du 29 décembre 2015,
+le Collège des juges d'application des peines a refusé d’accorder au condamné la
+libération conditionnelle de l’internement ordonné le 7 septembre 1987 par la Cour de
+cassation pénale du Tribunal cantonal (I), a dit qu’il n’y avait pas lieu de saisir
+le juge compétent au sens de l’art. 65 al. 1 CP, les conditions d’une mesure thérapeutique
+institutionnelle ne paraissant en l’état pas réunies (II), a rejeté, pour autant
+qu'elle soit recevable, la conclusion du condamné tendant à une indemnisation du fait de la
+prétendue illicéité de son internement entre le 10 avril 1996 et le 13 mars 2002 (III)
+et a laissé les frais de la décision à la charge de l'Etat (IV).
+C.
+Par acte du 11 janvier 2016, V.________, agissant par son défenseur d’office, a recouru contre
+cette décision, en concluant, avec suite de frais et dépens, préalablement, soit « [d]ans
+tous les cas », à ce que soit constatée l’illégalité de la mesure
+d’internement à compter du 10 avril 1996 jusqu’au 13 mars 2002 et à ce qu’il
+soit dit que l’état de Vaud indemnisera le recourant à hauteur de 146'000 francs. Au
+titre de mesure d’instruction, il a requis notamment la « [m]ise en œuvre d’une expertise
+récente » sur sa personne.
+Principalement, le recourant a conclu à la réforme de la décision en ce sens que l’illégalité,
+respectivement l’échec, de la mesure d’internement soit constatée et cette mesure
+immédiatement levée, l’ensemble des éventuelles peines privatives de liberté
+suspendues étant absorbées par la durée de privation de liberté occasionnée
+par la mesure. Subsidiairement, il a conclu à ce que la libération conditionnelle de la mesure
+d’internement soit prononcée, le cas échéant en étant assortie de règles
+de conduite et/ou d’une assistance de probation pour la durée de la mise à l’épreuve.
+Plus subsidiairement, il a conclu au renvoi de la cause à l’autorité compétente
+au sens de l’art. 65 al. 1 CP afin que les conditions d’une mesure thérapeutique institutionnelle,
+voire d’une mesure thérapeutique de traitement des addictions ou d’un traitement ambulatoire
+soient examinées. Plus subsidiairement encore, il a conclu à l’annulation de la décision,
+la cause étant renvoyée à l’autorité de première instance pour nouvelle
+décision dans le sens des considérants, « éventuellement également pour
+nouvelle instruction (mise en œuvre d’une expertise récente/demande d’un avis récent
+de la CIC) ».
+Dans ses déterminations du 20 janvier 2016, le Ministère public a conclu au rejet du recours.
+Le recourant a déposé une détermination spontanée le 21 janvier 2016.
+La Présidente du Collège des Juges d'application des peines a renoncé à se déterminer,
+se référant intégralement à la décision entreprise.
+En droit
+:
+1.
+1.1
+En vertu de l’art. 38 al. 1 de la loi cantonale
+du 4 juillet 2006 sur l’exécution des condamnations pénales (LEP; RSV 340.01), les décisions
+rendues par le juge d'application des peines et par le Collège des juges d'application des peines
+peuvent faire l'objet d'un recours auprès de la Chambre des recours pénale du Tribunal cantonal.
+La procédure est régie par les dispositions du CPP (Code de procédure pénale suisse
+du 5 octobre 2007; RS 312.0) relatives au recours
+(art.
+38 al. 2 LEP). Le recours doit être adressé par écrit, dans un délai de dix jours
+dès la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP).
+1.2
+En l’espèce, le recours a été interjeté en temps utile devant l’autorité
+compétente et satisfait aux conditions de forme posées par l’art. 385 al. 1 CPP, de sorte
+qu’il y a lieu d’entrer en matière.
+2.
+2.1
+Statuant en l’état du dossier, les
+premiers juges ont refusé la libération conditionnelle motif pris du risque de réitération.
+Ils ont ajouté que « la situation [du condamné] depuis son départ de la Fondation
+Bartimée témoign[ait], si ce n’est d’un retour en arrière, à tout le
+moins d’une stagnation au regard de laquelle une réévaluation psychiatrique du prénommé
+ne s’impose nullement » (consid. E.2,        p. 10). Les premiers
+juges ont considéré que l'échec du placement du condamné à la Fondation Bartimée,
+le « fiasco » constitué par sa fuite à l'étranger et les diverses sanctions
+disciplinaires qu'il avait encourues depuis son retour en prison ne semblaient pas l’avoir conduit
+à opérer la moindre remise en question, d’où le pronostic défavorable posé.
+Pour sa part, le condamné fait valoir en particulier que « [l]’expertise du Dr Vuille
+de 2012 sur laquelle se fonde l’Autorité intimée [serait] (…) dépassée
+et ne saurait suffire à l’examen de la dangerosité actuelle du recourant »
+(recours, p. 13 in medio).
+2.2
+Selon l’art. 64a CP, l’auteur est libéré conditionnellement de l’internement
+au sens de l’art. 64 al. 1 CP, dès qu’il est à prévoir qu’il se conduira
+correctement en liberté. Aux termes de l'art. 64b al. 1 let. a CP, l'autorité compétente
+examine, d'office ou sur demande, au moins une fois par an, si l'auteur peut être libéré
+conditionnellement de l'internement et, si tel est le cas, quand il peut l'être.
+L’auteur peut être libéré conditionnellement à la condition qu’il existe
+une forte probabilité qu’il se conduira bien en liberté. La libération conditionnelle
+de l’internement dépend dès lors d’un pronostic favorable (Dupuis et alii, Petit
+commentaire du code pénal, Bâle 2012, n. 2 ad art. 64a CP). L’examen de ce pronostic
+est effectué de manière plus stricte que lors de l’examen de la même question concernant
+une mesure thérapeutique institutionnelle (cf. art. 62 CP). La garantie de la sécurité
+publique doit être assurée avec une probabilité aussi élevée que les enjeux
+soulevés par la libération conditionnelle, sans qu’une sécurité absolue ne
+puisse jamais être tout à fait garantie. Le pronostic doit être posé en tenant compte
+du comportement de intéressé dans son ensemble et plus particulièrement de sa collaboration
+face aux traitements prescrits par les médecins, de la prise de conscience des actes à la base
+de son internement, de ses aptitudes sociales et, notamment de ses capacités à vivre en communauté
+et à résoudre des conflits potentiels (ATF 136 IV 165 consid. 2.1.1 et 2.1.2).
+2.3
+Avant tout examen du fond des conditions de la
+libération conditionnelle, i
+l
+doit être déterminé s’il peut être statué au vu du dossier.
+2.3.1
+L’expertise du Dr Vuille date du 15 mai 2012. Il s’agit de la dernière expertise (au
+sens strict) à laquelle a été soumis le condamné.
+Statuant en application de l’art. 56 al. 3 aCP, le Tribunal fédéral a considéré
+que, pour trancher la question de savoir si une ancienne expertise est suffisamment actuelle, il ne faut
+pas se fonder avant tout sur le critère formel de son ancienneté. Est bien plutôt déterminante
+la question matérielle de savoir s’il y a des motifs de considérer que la situation ne
+s’est pas modifiée depuis l’avis précédent. Dès qu’il apparaît
+qu’une expertise antérieure a perdu de son actualité («
+an
+Aktualität eingebüsst hat
+»)
+au cours du temps et du fait d’une modification des circonstances, alors de nouvelles déterminations
+sont indispensables (ATF 134 IV 246 consid. 4.3 p. 255, avec référence à ATF 128 IV 241
+consid. 3.4). Cette jurisprudence a été confirmée, le Tribunal fédéral précisant
+qu’une expertise ancienne est suffisante lorsqu'elle appréhende tous les aspects nécessaires
+et n'a rien perdu de son actualité (TF 6B_778/2013 du 10 février 2014 consid. 2.1; cf. aussi
+TF 6B_377/2013 du 19 juillet 2013 consid. 1.2.3).
+2.3.2
+Dans le cas particulier, l’expertise du Dr Vuille est antérieure au traitement entamé
+par le condamné auprès Dr Marcot dès janvier 2015, soit peu près sa réintégration
+aux EPO. Malgré les difficultés dans la relation thérapeutique mentionnées par ce
+praticien, on ne saurait présumer que les soins dispensés restent sans effet, singulièrement
+pour ce qui est du risque de réitération présenté par le condamné. Or la thérapie
+a précisément pour objet de juguler ce péril. Le traitement entamé en 2015 constitue
+dès lors un élément objectif nouveau, de nature à mettre en cause l’actualité
+de l’expertise de 2012, l’écoulement du temps n’étant pas déterminant
+en lui-même. A cela s’ajoute qu’un autre événement significatif est survenu
+depuis 2012, à savoir l’évasion du condamné, le 14 juillet 2013, de la Fondation
+Bartimée, au sein de laquelle il était placé depuis le 5 décembre 2012. Comme on
+le verra également ci-dessous (consid. 2.5), il s’agit d’un comportement qui doit être
+apprécié au regard de la dangerosité du condamné, abstraction faite même des
+diverses sanctions disciplinaires
+encourues par l’intéressé depuis son retour en prison.
+Force est dès lors de constater que le dossier doit être complété par un nouvel avis
+psychiatrique, qu’il appartiendra au juge d’application des peines de requérir.
+L’admission de ce moyen du
+recours ne dispense pas de statuer d’ores et déjà sur ses autres conclusions.
+2.4
+Le recourant demande d’abord que soit constatée l’illégalité de la mesure
+d’internement pour la période du 10 avril 1996 au 13 mars 2002, avec suite d’indemnisation
+à hauteur de 146'000 fr. (cf., à cet égard, consid. 2.7 ci-dessous). L’autorité
+d’exécution des peines ne saurait pourtant revoir la licéité d’une condamnation
+(cf. p. ex. TF 6B_1193/2013 du 11 février 2014 consid. 6.3.3.; CREP 5 mai 2015/306).
+2.5
+Le recourant conteste ensuite le pronostic des premiers juges quant à son comportement futur. Cette
+appréciation repose toutefois sur des motifs convaincants sous l’angle de l’art. 64a
+CP. En effet, l'échec du placement du condamné à la Fondation Bartimée, sa fuite
+à l'étranger et les diverses sanctions disciplinaires qu'il a encourues depuis son retour aux
+EPO témoignent d’une propension à la transgression. En outre, il n'a guère conscience
+de la gravité des actes qu'il a pu commettre et du motif pour lequel il est interné. Ainsi,
+il montre peu d’empathie pour ses victimes et persiste à se tenir pour l’objet de mesures
+arbitraires de l’autorité. Enfin, il consomme de manière récurrente de l’alcool
+et des stupéfiants lorsqu’il en a la faculté. Il apparaît ainsi peu impliqué
+dans le but poursuivi par l’internement. Ces éléments permettent d’exclure, au
+degré de vraisemblance requis, que l’intéressé se conduira correctement en liberté.
+Partant, ils commandent le refus de la libération conditionnelle en l’état.
+2.6
+Le recourant demande le prononcé
+d’une mesure thérapeutique institutionnelle, voire de traitement des addictions ou de traitement
+ambulatoire. Modifier un internement au profit d’une mesure
+thérapeutique institutionnelle,
+prononcée en application de l’art. 59 CP, implique la saisine du juge compétent selon
+l’art. 65 al. 1 CP, soit celui qui a prononcé la peine ou ordonné l'internement. Les
+décisions ordonnant ou renonçant à ordonner un changement de sanction au sens de l’art.
+65 CP constituent des décisions judiciaires ultérieures indépendantes au sens des art.
+363 ss CPP (Message du Conseil fédéral relatif à l'unification du droit de la procédure
+pénale, FF 2006 pp. 1057 ss, spéc. 1282; CREP 5 juin 2015/363; CREP 5 janvier 2015/2 et les
+références citées). C’est le Juge d’application des peines qui peut être
+amené, le cas échéant sur proposition de l’OEP, à saisir le tribunal compétent
+pour se prononcer sur un éventuel changement de la sanction (CREP 5 juin 2015/363 consid. 3.2.3).
+Ces principes s’appliquent par analogie à la mesure
+thérapeutique institutionnelle
+de
+traitement des addictions (art. 60 CP) ou au traitement ambulatoire (art. 63 CP).
+Or, en l’état, aucun élément du dossier ne justifie la saisine du tribunal, faute
+de tout avis allant dans le sens d’une modification de la mesure. Quoi qu’il en soit, une
+telle saisine devrait se fonder sur un avis psychiatrique. Il y a donc lieu de réserver à cet
+égard la nouvelle expertise à mettre en œuvre conformément au considérant 2.3
+ci-dessus.
+2.7
+Le recourant demande enfin à
+être indemnisé
+à raison
+de
+son internement, selon lui illégal, du 10 avril 1996 au 13 mars 2002. Cette conclusion est irrecevable.
+En effet, le juge de l’exécution n’est pas compétent pour statuer sur cet objet,
+qui relève du juge civil par la voie d’une action en responsabilité contre l’Etat
+de Vaud.
+3.
+En définitive, le recours doit être partiellement admis et les chiffres I, II et IV du dispositif
+de la décision du 29 décembre 2015 annulés. La décision sera maintenue pour le surplus.
+Le dossier de la cause sera renvoyé au Collège des juges d’application des peines pour
+complément d’instruction au sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1’540 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]), et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 900 fr., plus la TVA,
+par 72 fr., soit un total de 972 fr., seront mis par moitié à la charge du recourant, qui succombe
+partiellement (art. 428 al. 1 CPP), le solde étant laissé à la charge de l’Etat
+(art. 423 al. 1 CPP).
+Le remboursement à l’Etat de la part de l’indemnité allouée au défenseur
+d’office du recourant mise à la charge de celui-ci ne sera toutefois exigible que pour autant
+que la situation économique de ce dernier se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+Les chiffres I, II et IV du dispositif de la décision du 29 décembre 2015 sont annulés.
+La
+décision est maintenue pour le surplus.
+III.
+Le
+dossier de la cause est renvoyé au Collège des juges d’application des peines pour complément
+d’instruction au sens des considérants.
+IV.
+L’indemnité allouée au défenseur
+d’office du recourant est fixée à 972 fr. (neuf cent septante-deux francs).
+V.
+Les frais d’arrêt, par 1’540 fr. (mille cinq cent quarante francs), ainsi que l’indemnité
+due au défenseur d’office du recourant, par 972 fr. (neuf cent septante-deux francs), sont
+mis à la charge de ce dernier à raison de la moitié, soit de 1’256 fr. (mille deux
+cent cinquante-six francs), le solde étant laissé à la charge de l’Etat.
+VI.
+Le remboursement à l’Etat de la part de l’indemnité allouée au chiffre IV
+ci-dessus mise à la charge de V.________ sera exigible pour autant que la situation économique
+du recourant se soit améliorée.
+VII.
+Le présent arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Samuel Pahud, avocat (pour V.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Collège des juges d’application des peines,
+-
+M. le Procureur du Ministère public central, division affaires spéciales, contrôle et
+mineurs,
+-
+Office d’exécution des peines (réf. OEP/MES/958/CGY/BD),
+-
+Direction des Etablissements de la Plaine de l’Orbe,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
