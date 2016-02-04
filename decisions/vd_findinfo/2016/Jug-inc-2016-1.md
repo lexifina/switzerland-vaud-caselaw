@@ -1,0 +1,422 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2016___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2016 / 1"
+decided: "2016-02-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5367662"
+cites_law: ["switzerland/bund/acts/210/art-522.md", "switzerland/bund/acts/210/art-533.md", "switzerland/bund/acts/210/art-626.md", "switzerland/bund/acts/272/art-036.md", "switzerland/bund/acts/272/art-091.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2016 / 1
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE | 123 CPC, 123a CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 04.02.2016 Jug-inc / 2016 / 1
+
+SUSPENSION DE LA PROCÉDURE | 123 CPC, 123a CPC
+
+TRIBUNAL
+CANTONAL
+CO10.037814
+2/2016/PHC
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+R.W.________
+,
+à Prince’s Risborough (Royaume-Uni) mais ayant élu domicile à Lausanne, d'avec
+G.N.________
+et
+U.N.________
+,
+tous deux à Prangins.
+___________________________________________________________________
+Du
+4 février 2016
+________________
+Composition
+:               M.
+Hack
+,
+juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu l’action ouverte le 15 novembre
+2010 par le demandeur R.W.________, qui a pris les conclusions suivantes, avec suite de frais et dépens :
+"I.
+L’action en réduction dirigée contre U.N.________ et l’action en réduction
+dirigée contre G.N.________ concernant l’acte de donation et la charge du 15 octobre 1998,
+minute no [...] du notaire [...], sont admises et ces derniers sont condamnés à reconstituer
+la part réservataire de R.W.________ dans la succession de S.W.________ décédée le
+16 novembre 2009 à [...].
+Principalement
+:
+II.
+La charge contenue à l’art. 6 de l’acte de donation de S.W.________ à U.N.________
+du 15 octobre 1998, minute no [...] du notaire [...], portant sur la constitution par U.N.________ en
+faveur de son père G.N.________, d’un usufruit viager grevant la part de copropriété
+d’un quart donnée de la parcelle no [...] de [...] est nulle, annulée, invalide, sans
+effet et subsidiairement, l’usufruit contesté est rapporté par G.N.________ dans la succession
+de feue S.W.________.
+III.
+La libéralité correspondant à la donation de feue S.W.________ à U.N.________ d’une
+part de copropriété d’un quart de la parcelle [...] de [...], selon minute no [...] du
+15 octobre 1998, du notaire [...], est réduite pour reconstituer la réserve de R.W.________,
+de telle sorte qu’U.N.________ est condamnée à verser à R.W.________, une somme
+de CHF 5'500'000.- (…) plus intérêts à 5 % l’an dès le 16 novembre
+2009.
+Subsidiairement
+à II et III :
+IV.
+La libéralité correspondant à la donation de feue S.W.________ à U.N.________ d’une
+part de copropriété d’un quart de la parcelle [...] de [...], selon acte minute no [...]
+du 15 octobre 1998 du notaire [...], est réduite pour reconstituer la réserve de R.W.________,
+de telle sorte qu’U.N.________ est condamnée à verser à R.W.________ une somme de
+CHF 3’000'000.- (…) au moins plus intérêts à 5 % l’an dès le 16 novembre
+2009, et la charge (contestée) de l’usufruit, respectivement l’usufruit (contesté)
+sur la part précitée est réduite, respectivement réduit jusqu’à concurrence
+de la quotité disponible de la masse successorale laissée par S.W.________, respectivement
+la durée de l’usufruit est réduite pour respecter la réserve de R.W.________, et
+subsidiairement, le montant de la réduction de la donation faite à U.N.________ et la réduction
+de la charge d’usufruit prétendue par G.N.________, soit en durée, soit en valeur capitalisée,
+seront déterminés selon les proportions que Justice dira.",
+vu la réponse et demande reconventionnelle déposée le 17 novembre 2014 par le défendeur,
+qui a pris les conclusions suivantes, sous suite de frais et dépens :
+I.
+Rejeter les conclusions prises par R.W.________ au pied de sa Demande datée du 15 novembre
+2010.
+A
+titre reconventionnel
+:
+I.
+Admettre la présente demande en rapport, subsidiairement en réduction.
+Principalement :
+II.
+Constater que la donation de feue S.W.________, décédée le 16 novembre 2009 à
+[...], à R.W.________ de CHF 20'000'000.-
+au
+moins
+dans l’année 1973 est soumise
+au rapport, qu’elle doit être réintégrée à la masse successorale par R.W.________
+ou, au besoin, imputée à la part successorale du précité.
+III.
+Constater que G.N.________ a droit à sa part successorale ainsi majorée de la valeur rapportable
+au détriment de R.W.________.
+Subsidiairement :
+II.
+Dire et constater que l’état et la valeur de la succession de feue S.W.________, décédée
+le 16 novembre 2009 à [...], après l’addition des libéralités soumises
+à réduction, sur la base des alléguées et des preuves administrées est de CHF 20'135'327.56
+au moins.
+III.
+Constater que la réserve de G.N.________ est d’1/4 de la valeur fixée en application
+du chiffre II ci-dessus.
+IV.
+Dire et constater que R.W.________ a bénéficié à titre de libéralité visée
+par l’exception de réduction de l’art. 533 al. 3 CC de G.N.________ d’un
+montant dont la quotité sera précisée en cours d’instance, mais qui ne saurait être
+inférieure à CHF 20'000'000.- plus intérêts à 5% l’an dès le
+16 novembre 2009.
+V.
+Fixer la valeur de la réserve de ¼ de G.N.________ à un montant qui ne saurait être
+inférieur à CHF 5'033'831.90, ainsi que la quotité disponible de la succession.
+VI.
+Dire que G.N.________ a droit, dans le cadre de la succession de feue S.W.________, à une part qui
+ne saurait être inférieure à sa réserve successorale, soit à un montant de CHF 5'033'831.90
+au moins
+.
+VII.
+Réduire la libéralité reçue par R.W.________, d’un montant qui ne saurait être
+inférieur à CHF 20'000'000.- plus intérêts à 5% l’an dès le
+16 novembre 2009, à une hauteur dont la quotité sera précisée en cours d’instance,
+mais qui ne saurait être inférieure à 4'988'722.70.
+VIII.
+Partant, dire que R.W.________ est le débiteur de G.N.________ et lui doit immédiat paiement
+d’un montant qui sera précisé en cours d’instance, mais qui ne saurait être
+inférieur à CHF 4'988'722.70, avec intérêts à 5% l’an dès le
+17 novembre 2014.",
+vu la réponse du 19 mars 2015 de la défenderesse U.N.________, qui s’en est remise
+à la justice en ce qui concernait les conclusions reconventionnelles du défendeur et a pour
+le surplus pris les conclusions suivantes, avec suite de frais et dépens :
+"I.
+Les conclusions I, III et IV prises par R.W.________ au pied de sa Demande du 15.11.2010 sont rejetées.
+II.
+La conclusion II prise par R.W.________ au pied de sa Demande du 15.11.2010 est admise en ce sens seulement
+que la charge contenue à l’article 6 de l’acte de donation de S.W.________ à
+U.N.________ du 15.10.1998, minute no  [...] du notaire [...], portant sur la constitution par U.N.________
+en faveur de son père G.N.________, d’un usufruit viager grevant la part de copropriété
+de ¼ donnée de la parcelle 604 de [...] est nulle ou annulée ou invalide ou sans effet.",
+vu la réplique du demandeur du 11 juin 2015,
+vu le délai imparti au défendeur pour déposer une duplique, d’abord fixé au
+7 juillet 2015 puis prolongé à deux reprises jusqu’au 18 septembre 2015,
+vu la requête incidente du défendeur (et requérant) G.N.________ du 18 septembre
+2015, tendant à la suspension de la procédure jusqu’à droit connu dans le cadre
+de la cause PT13. [...] pendante devant la Chambre patrimoniale cantonale, le requérant sollicitant
+en outre une nouvelle  prolongation du délai pour déposer une duplique et réplique
+conventionnelle,
+vu la réquisition de pièce accompagnant la requête de suspension, portant sur le dossier
+de la cause précitée ouverte devant le Chambre patrimoniale, ainsi que la pièce produite,
+savoir la demande déposée dans ce cadre le 23 janvier 2013 par la succession de feue S.W.________
+– agissant par l’entremise de [...] – à l’encontre du requérant, contre
+lequel elle a pris la conclusion suivante :
+"I.
+G.N.________ est le débiteur de la succession de feue S.W.________, soit pour elle de [...], en
+sa qualité de liquidateur officiel de dite succession, et lui doit paiement immédiat de la
+somme de Frs 601'014.00 (…), plus intérêt à 5% l’an dès le 16 novembre
+2009."
+vu la détermination spontanée du demandeur (et intimé) R.W.________ du 22 septembre
+2015, qui s’est opposé à la requête de suspension et à la nouvelle requête
+de suspension de délai, l’intimé admettant par ailleurs qu’il soit statué
+sans plus ample instruction et sans tenir d’audience,
+vu l’envoi de la requête aux intimés pour notification le 23 septembre 2015, un
+délai au 13 octobre 2015 leur étant imparti pour déclarer ne pas s’opposer
+aux conclusions incidentes ou pour indiquer les mesures d’instruction demandées, cet avis
+valant interpellation pour toutes les parties tendant au remplacement de l’audience par un échange
+d’écritures unique et à bref délai,
+vu la détermination de la défenderesse (et intimée) U.N.________, du 13 octobre 2015,
+qui a déclaré ne pas s’opposer à la requête incidente et privilégier un
+échange d’écritures,
+vu les mémoires incidents déposés le 11 novembre 2015 par le requérant, le 18 novembre
+2015 par l’intimé – qui a requis la production du dossier de la cause pendante devant
+la Chambre patrimoniale –, puis le 26 novembre 2015 par l’intimée, les deux premiers
+confirmant leurs conclusions incidentes et la dernière s’en remettant à la justice,
+vu la production le 2 décembre 2015 par la Chambre patrimoniale du dossier requis par le requérant
+et l’intimé,
+vu l’avis du juge instructeur du 4 décembre 2015 impartissant aux parties un délai
+au 4 décembre 2015 pour consulter ce dossier et lui indiquer les pièces qu’elles
+entendaient invoquer,
+vu la production le 14 décembre 2015 par l’intimé des copies de deux pièces
+extraites du dossier de la Chambre patrimoniale,
+vu l’écriture du requérant du même jour énumérant les pièces qu’il
+souhaitait invoquer à l’appui de sa requête,
+vu les deux avis du juge instructeur du 16 décembre 2015, prolongeant d’une part au 4 janvier
+2016 le délai imparti à l’intimée pour indiquer les pièces dont elle entendait
+se prévaloir, et impartissant d’autre part le même délai au requérant pour
+produire copie des pièces invoquées,
+vu la production de ces documents le 4 janvier 2016 par le requérant, sous bordereau de 19 pièces,
+vu la détermination du même jour de l’intimée, qui a indiqué n’avoir
+pas de pièces particulières à invoquer et a confirmé s’en remettre à la
+justice quant à la requête de suspension,
+vu l’avis du juge instructeur du 8 janvier 2016 impartissant aux parties un délai au
+18 janvier 2016 pour produire des déterminations complémentaires si elles le désiraient,
+vu la détermination de l’intimé du 18 janvier 2016,
+vu la lettre du requérant du même jour, par laquelle il a renoncé à compléter
+son mémoire incident,
+vu les autres pièces du dossier;
+attendu qu'à la teneur de l'art. 404 al. 1 CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau droit, savoir
+le 1
+er
+janvier
+2011, demeurent régies par l'ancien droit de procédure cantonal jusqu'à la clôture
+de l'instance,
+que la procédure au fond, ouverte par demande du 15 novembre 2010, est dès lors soumise
+à l'ancien droit de procédure et notamment au CPC-VD (Code de procédure civile vaudoise
+du 14 décembre 1966; RSV 270.11),
+que le juge statue sur la suspension du procès en la forme incidente (cf. art. 123 al. 2
+CPC-VD), également soumise aux règles de l'ancien droit (CREC II, 20 juillet 2011/66 consid. 1/a;
+Haldy, La nouvelle procédure suisse, Bâle 2009, p. 3 n. 7; Tappy, Le droit transitoire
+applicable lors de l'introduction de la nouvelle procédure civile unifiée
+in
+JdT 2010 III 11 spéc. pp 36
+ss),
+que le présent incident suit ainsi les règles du CPC-VD;
+attendu que la requête de suspension a été déposée en la forme écrite (art. 147
+al. 1
+in initio
+CPC-VD)
+en conformité avec les exigences de contenu et de représentation de l’art. 19 al. 1
+et 2 CPC-VD, et qu’elle est ainsi recevable en la forme;
+attendu qu’après interpellation des parties, le juge peut remplacer l'audience par un échange
+d'écritures unique et à bref délai (art. 149 al. 3 CPC-VD),
+que les parties ont en l’espèce été interpellées le 23 septembre 2015
+et qu’elles ont procédé par écrit, de sorte qu’il peut être statué
+sans tenir d’audience;
+attendu qu’a l’appui de sa requête, le requérant soutient que l’issue de
+la procédure devant la Chambre patrimoniale aura une incidence sur l’état de la succession
+de feu S.W.________, et par corollaire sur la masse déterminante pour le calcul de sa réserve
+et celle de l’intimé, savoir l’un des paramètres fondant le jugement à venir
+de la Cour civile,
+que l’intimé y oppose que le requérant invoque dans sa requête une dette dont il
+conteste l’existence devant la Chambre patrimoniale et agit ainsi de façon dilatoire, les
+deux procédures ne présentant en outre aucune connexité dès lors que la cause pendante
+devant la Cour civile concerne une libéralité faite à l’intimée par la défunte,
+qui l’a assortie d’une charge en faveur du requérant, alors que le "second"
+procès porte sur une créance de l’hoirie – soit une autre partie – relative
+à des montants indûment prélevés par le requérant sur les avoirs sa mère
+du vivant de celle-ci,
+qu’il fait valoir que ces prétentions, qui ne sont pas importantes à la lumière
+des montants litigieux devant la Cour civile, ne sont ainsi pas de nature successorale –, la "seconde"
+procédure étant par ailleurs très avancée, ce qui exclurait également toute
+suspension du "premier" procès,
+que l’intimée relève enfin que le sort de la cause pendante devant la Chambre patrimoniale
+aura manifestement des effets sur l’issue du procès ouvert devant la Cour civile, mais s’en
+remet à la justice quant à la requête de suspension;
+attendu que selon l’art. 123 al. 1 CPC-VD, le juge peut suspendre l'instruction du procès
+pour un temps déterminé en cas de nécessité,
+que selon la jurisprudence, la condition de nécessité doit être interprétée
+de manière restrictive, la suspension étant un acte grave et exceptionnel, qui exige la réalisation
+effective d'un état de nécessité dont il appartient au juge d'apprécier l'existence
+(JdT 2002 III 1986 consid. 2; JdT 1993 III 113 consid. 3a; JdT 1984 III 11 consid. 2a),
+que lorsque la nécessité résulte
+de
+la connexité d’actions
+ouvertes à des fors différents avec le risque de jugements contradictoires, c’est l'art. 123a
+CPC-VD qui s’applique (Poudret
+et
+alii
+, op. cit., n. 3
+in
+fine
+ad art. 123 CPC-VD),
+qu’à son al. 1, cette disposition prévoit que
+lorsque
+plusieurs tribunaux sont saisis d'actions connexes, le tribunal saisi ultérieurement peut suspendre
+la procédure jusqu'à ce que le tribunal saisi en premier lieu ait statué,
+que la condition de connexité est réalisée
+lorsque des mêmes circonstances de fait ou des questions juridiques analogues sont à la base
+des différentes actions, qui sont liées entre elles par un rapport si étroit qu'il en
+découle un risque de jugements contradictoires
+(Donzallaz,
+Commentaire de la loi fédérale sur les fors en matière civile, Berne 2001, n. 49 ad art. 36
+LFors [loi fédérale sur les fors en matière civile du 24 mars 2000, abrogée
+au 31 décembre 2000; RS 291]; cf. ég. Poudret
+et
+alii,
+op. cit., n. 1
+ad art. 123 CPC-VD et n. 3 ad art. 123 CPC-VD),
+que deux jugements sont contradictoires
+lorsqu'ils conduisent à des résultats qui s'excluent l'un l'autre (Ruggle/Tenchio-Kuzmic
+in
+Basler Kommentar Bundesgesetz über
+den Gerichtsstand in Zivilsachen, 2001, n. 17 ad art. 36 LFors; Dasser
+in
+Müller/Wirth (éd.), Kommentar
+zum Bundesgesetz über den Gerichtsstand in Zivilsachen, Zurich 2001, n. 4 ad art. 36 LFors),
+que la connexité entre deux
+procédures ne suffit cependant pas, le juge devant toujours procéder à une pesée
+des intérêts en cause avant de trancher la question de la suspension (cf.
+Donzallaz,
+op. cit., n. 22 ad art. 36 LFors),
+qu’en l’espèce, le procès ouvert devant la Cour civile comprend une action en réduction
+(art. 522 ss CC [Code civil suisse du 10 décembre 1907; RS 210]) ouverte par l’intimé
+(et demandeur) contre l’intimée et le requérant (tous deux défendeurs), ainsi qu’une
+action reconventionnelle en rapport (art. 626 ss CC), subsidiairement en réduction, ouverte
+par le requérant contre l’intimé,
+que dans la "seconde" procédure, la succession de feu S.W.________, représentée
+par [...], fait valoir devant la Chambre patrimoniale des prétentions en paiement d’une dette
+de 601'014 fr. dont le requérant serait débiteur,
+que l’action en réduction nécessite l’établissement précis de la masse
+de calcul des réserves, dans sa valeur (vénale) au moment du décès (cf. Bohnet,
+Actions civiles, Conditions et conclusions, Bâle 2014, §33 n. 35 p. 391
+in
+initio
+),
+qu’il faudra donc déterminer, dans l’examen des prétentions en réduction prises
+devant la Cour civile, si la masse successorale comprend bien une créance à l’encontre
+du requérant, ce qui fait précisément l’objet de la cause ouverte devant la Chambre
+patrimoniale,
+qu’il importe peu à cet égard que la créance en question paraisse peu importante
+au regard des montants litigieux devant la Cour civile,
+que les deux procédures sont ainsi connexes au sens décrit ci-dessus, quand bien même
+elles opposent des adversaires différents, toutes les parties au procès devant la Cour civile
+étant cependant membres de l’hoirie de feu S.W.________ et pouvant à ce titre se voir
+opposer le jugement de la Chambre patrimoniale;
+qu’il est toutefois douteux qu’une suspension du procès devant la Cour civile soit justifiée
+à l’aune de l’art. 123a al. 1 CPC-VD – qui s’applique lorsqu’il
+existe un risque de jugements contradictoires –, cette disposition semblant permettre la suspension
+du seul procès ouvert
+ultérieurement
+,
+alors que la procédure ici concernée est pendante depuis le 15 novembre 2010, avant que
+celle devant la Chambre patrimoniale ne soit initiée le 23 janvier 2013,
+qu’on pourrait en outre se demander si la suspension peut être admise en vertu de l’art. 123
+al. 1 CPC-VD lorsque l’art. 123a CPC-VD est applicable mais que ses conditions ne sont
+pas réalisées, ou si un tel cas de figure doit entraîner le rejet de la requête,
+que ces questions peuvent toutefois rester indécises en l’espèce, puisque les conditions
+d’une suspension ne sont pas remplies, en vertu tant de l’art. 123 CPC que de l’art. 123a
+CPC,
+qu’en effet, comme exposé ci-dessus, la suspension ne se justifie qu’en cas de réalisation
+effective d’un état de nécessité (en vertu du principe général de l’art. 123
+CPC-VD) ou, lorsqu’il existe un risque de jugements contradictoires, à l’issue d’une
+pesée des intérêts (selon la règle spécifique de l’art. 123a CPC-VD),
+qu’en l’occurrence, il ressort des pièces produites, tirées du dossier de la Chambre
+patrimoniale, que la procédure devant celle-ci est déjà avancée, une grande partie
+des témoins ayant déjà entendue et les deux auditions par commissions rogatoires prévues
+conduites, un ultime délai au 16 janvier 2016 ayant par ailleurs été imparti à
+la partie demanderesse pour effectuer l’avance des frais d’expertise (cf. les pièces
+51.3 à 51.6 du bordereau du requérant, en lien avec l’Ordonnance de preuve du 13 mai
+2014 produite sous pièce 51.1),
+qu’à l’inverse, la procédure devant la Cour civile n’en est encore qu’au
+stade de l’échange d’écritures, dans le cadre duquel les trois parties ont d’ores
+et déjà proposé la preuve par témoignage et par expertise, ce qui implique une procédure
+probatoire d’une certaine durée,
+qu’en l’état, tout laisse ainsi penser que la procédure devant la Cour civile perdurera
+au-delà de la date du jugement à venir de la Chambre patrimoniale, ce qui exclut l’existence
+tant d’un état de nécessité effectif au sens de l’art. 123 CPC-VD que
+d’un intérêt prépondérant à la suspension tel que l’exige l’art. 123a
+CPC-VD,
+qu’il appartiendra le moment venu aux parties d’alléguer le sort de l’action pendante
+devant la Chambre patrimoniale,
+qu’elles auront la possibilité de le faire en déposant des nova jusqu’à l’audience
+préliminaire,
+qu’elle pourront en outre se réformer jusqu’à l’échéance du délai
+imparti pour le dépôt du mémoire de droit (art. 317b al. 1 CPC-VD),
+qu’en cas de faits nouveaux, cette possibilité leur sera ouverte jusqu’à la clôture
+de l’audience de jugement de la Cour civile (art. 317b al. 2 CPC-VD),
+qu’au vu de ce qui précède, une suspension n’apparaît pas nécessaire,
+qu’il s’ensuit le rejet de la requête;
+attendu que les frais de l’incident, arrêtés à 900 fr. (art. 170a
+al. 1 aTFJC [Tarif des frais judiciaires en matière civile du 4 décembre 1984, dans sa
+version en vigueur jusqu’au 31 décembre 2010; RSV 270.11.5]), sont mis à la charge
+du requérant, qui succombe,
+attendu que l’intimé R.W.________, qui s’est opposé avec succès à la
+suspension requise, a droit à des dépens à la charge du requérant (art. 150
+al. 2
+cum
+art. 91 ss CPC-VD), qu’il convient d’arrêter en l’espèce à 3'500 francs;
+qu’en revanche, l’intimée U.N.________ s’en est remise à la justice et n’a
+donc pas droit à des dépens.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de suspension de cause déposée le 18 septembre 2015 par le requérant
+G.N.________ est rejetée.
+II.
+Les frais de la procédure incidente, arrêtés à 900 fr. (neuf cents francs),
+sont mis à la charge du requérant.
+III.
+Le requérant versera à l’intimé R.W.________ le montant de 3'500 fr. (trois
+mille cinq cents francs) à titre  de dépens de l’incident.
+IV.
+Toutes autres ou plus amples conclusions sont rejetées.
+Le
+juge instructeur :              Le greffier :
+P.
+Hack              L. Cloux
+Du
+Le jugement motivé qui précède, lu et approuvé à huis clos, est notifié,
+par l'envoi de photocopies, aux conseils du requérant et de l’intimé, ainsi qu’au
+curateur et conseil de l’intimée U.N.________.
+Le greffier :
+L. Cloux
