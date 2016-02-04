@@ -1,0 +1,109 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2016___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2016 / 4"
+decided: "2016-02-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5374607"
+cites_law: ["switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-242.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2016 / 4
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE, RÉCUSATION, RETRAIT{VOIE DE DROIT} | 242 CPC (CH), 8a al. 3 CDPJ, 8a al. 4 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 04.02.2016 Réc-civile / 2016 / 4
+Vaud Tribunal cantonal Cour administrative 04.02.2016 Réc-civile / 2016 / 4
+Vaud Tribunal cantonal Cour administrative 04.02.2016 Réc-civile / 2016 / 4
+
+PROCÈS DEVENU SANS OBJET, RADIATION DU RÔLE, RÉCUSATION, RETRAIT{VOIE DE DROIT} | 242 CPC (CH), 8a al. 3 CDPJ, 8a al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+2016/5
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 4 février 2016
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et  Kaltenrieder
+Greffière
+:              Mme
+Egger Rochat
+*****
+Art.
+242 CPC ; art. 8a al. 3 et 4 et 8b al. 4 CDPJ ; art. 6 al. 1 ROTC
+Vu la requête de conciliation déposée le 25 novembre 2015 auprès de la Commission
+de conciliation en matière de baux à loyer du district de Nyon par les locataires A.G.________
+et B.G.________ à l’encontre des bailleurs A.B.________ et B.B.________, dont le bail porte
+sur un appartement sis à [...],
+vu la demande de récusation en corps de son office déposée spontanément le 22 janvier
+2016 par X.________, Présidente de la Commission de conciliation précitée, en raison de
+l’activité de juge assesseur de A.G.________ au sein de cette commission,
+vu la lettre du 27 janvier 2016 par laquelle C.________, Président de la Commission de conciliation
+précitée, a déclaré que A.G.________ et B.G.________ avaient retiré leur requête,
+vu les pièces au dossier ;
+attendu que la cour de céans est compétente pour statuer sur la demande de récusation
+spontanée du 22 janvier 2016 en vertu des art. 8a al. 3 et 4 CDPJ (Code de droit
+judiciaire privé vaudois du 12 janvier 2010 ; RSV 211.02) et 6 al. 1 let. a ROTC (règlement
+organique du Tribunal cantonal du 13 novembre 2007 ; RSV 173.31.1),
+que selon l’art. 242 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272), si la procédure prend fin pour une raison autre qu’une transaction, un acquiescement
+ou un désistement d’action consignés au procès-verbal, sans avoir fait l’objet
+d’une décision, elle est rayée du rôle,
+qu’en l’espèce, A.G.________ et B.G.________ ont retiré leur requête déposée
+le 25 novembre 2015 auprès de la Commission de conciliation en matière de baux à
+loyer du district de Nyon,
+que la demande de récusation est dès lors devenue sans objet,
+qu’il convient ainsi de rayer la présente cause du rôle de la Cour administrative ;
+attendu que le présent arrêt doit être rendu sans frais, ni dépens (Tappy, Code de
+procédure civile commenté, Bâle 2011, n. 28 ad art. 48 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation en corps déposée le 22 janvier 2016 par la Présidente
+de la Commission de conciliation en matière de baux à loyer du district de Nyon est sans objet.
+II.
+La cause est rayée du rôle.
+III.
+L’arrêt est rendu sans frais ni dépens.
+IV.
+L'arrêt est exécutoire.
+Le
+président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+-
+M. et Mme B.G.________ et A.G.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme [...], Présidente de la Commission de conciliation en matière de baux à loyer du district
+de Nyon.
+La greffière :
