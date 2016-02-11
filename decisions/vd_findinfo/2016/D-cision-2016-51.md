@@ -1,0 +1,136 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___51"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 51"
+decided: "2016-02-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5379260"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# VD Findinfo Décision / 2016 / 51
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 386 al. 2 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.02.2016 Décision / 2016 / 51
+
+RETRAIT{VOIE DE DROIT} | 386 al. 2 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+33
+PM15.020301-VBK
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+11 février 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+386 al. 2 let. b CPP
+Statuant sur le recours interjeté le 8 janvier 2016 par
+D.________
+contre l’ordonnance de placement à titre provisionnel rendue le 29 décembre 2015
+par la Présidente du Tribunal des mineurs dans la cause
+n° PM15.020301-VBK
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par ordonnance du 29 décembre 2015, la Présidente du Tribunal des mineurs a mis fin au placement
+de D.________ au Centre communal de Valmont avec effet au 5 janvier 2016 et ordonné son placement
+au Foyer d’éducation de Prêles dès cette date, à charge pour le Service de
+protection de la jeunesse de conduire le prévenu à Prêles (I) et a dit que les frais de
+cette ordonnance suivaient le sort de la cause (II).
+2.
+Par écriture du 4 février 2016, D.________,
+par l’intermédiaire de son défenseur d’office, a déclaré retirer son
+recours interjeté le 8 janvier 2016 contre l’ordonnance du 29 décembre 2015. Il convient
+d’en prendre acte et de rayer la cause du rôle.
+3.
+Selon l'art. 428 al. 1, 2
+e
+phrase CPP (Code de procédure pénale du 5 octobre 2007; RS 312.0), la partie qui
+retire son recours est considérée comme ayant succombé, de sorte que les frais de la procédure
+de recours doivent en principe être mis à sa charge (art. 428 al. 1, 1
+re
+phrase CPP).
+En
+l’occurrence, au vu de l’ensemble des circonstances, les frais de la procédure de recours,
+constitués de l'émolument d'arrêt, par 220 fr. (art. 20 al. 1 TFIP [tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]),
+et des frais imputables à la défense d'office (art. 422 al. 1 et al. 2 let. a CPP), fixés
+à 1’215 fr., plus la TVA par 97 fr. 20, soit 1'312 fr. 20 au total, seront exceptionnellement
+laissés à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Il est pris acte du retrait du recours.
+II.
+La cause est rayée du rôle.
+III.
+L’indemnité allouée au défenseur
+d’office de D.________ est fixée à 1'312 fr. 20 (mille trois cent douze francs et vingt
+centimes).
+IV.
+Les frais d’arrêt, par 220 fr. (deux
+cent vingt francs), ainsi que l’indemnité allouée au défenseur d’office de
+D.________, par 1'312 fr. 20 (mille trois cent douze francs et vingt centimes), sont laissés à
+la charge de l’Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Julien Lanfranconi, avocat (pour D.________),
+-
+Mme [...],
+-
+Ministère public central;
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mineurs,
+-
+Office régional de protection des mineurs, à l’att. de M. [...],
+-
+Centre communal pour adolescents de Valmont,
+-
+Foyer d’éducation de Prêles,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
