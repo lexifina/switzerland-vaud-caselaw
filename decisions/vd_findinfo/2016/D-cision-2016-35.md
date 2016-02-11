@@ -1,0 +1,261 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___35"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 35"
+decided: "2016-02-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5375574"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2016 / 35
+
+## Regeste
+
+DÉNONCIATION CALOMNIEUSE, ENQUÊTE PÉNALE | 303 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.02.2016 Décision / 2016 / 35
+
+DÉNONCIATION CALOMNIEUSE, ENQUÊTE PÉNALE | 303 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+26
+PE14.015424-LAE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+11 février 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Rouiller
+*****
+Art.
+310 CPP; 303 CP
+Statuant sur le recours interjeté le 30 octobre 2015 par
+U.________
+contre l'ordonnance de non-entrée en matière rendue le 6 octobre 2015 par le Ministère
+public de l'arrondissement du Nord vaudois dans la cause
+n° PE14.015424-LAE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+V.________
+qui exécutait une peine de réclusion à vie pour l'assassinat de son épouse, a été
+libéré conditionnellement le 6 mai 2011. Le 11 décembre 2013, il a été auditionné
+par le Collège des Juges d'application des peines dans le cadre de la révocation de sa libération
+conditionnelle. Entendue avec une voisine nommée [...] sa fille U.________ a précisé que
+V.________ lui apparaissait tantôt comme un père, tantôt comme un criminel, soit comme
+un individu imprévisible dont elle voulait rester à distance pour se protéger elle et
+sa famille.
+Le 12 décembre 2013, V.________ a déposé une plainte pour diffamation et faux témoignage
+contre la voisine prénommée et contre sa fille U.________. Il leur a reproché d'avoir
+tenu des propos mensongers et attentatoires à son honneur lors de l'audience de la veille (cause
+PE14.000168-ECO).
+Par ordonnance du 8 janvier 2014, le Procureur général a décidé de ne pas entrer
+en matière. Par arrêt du 21 janvier 2014 (CREP 21 janvier 2014/67), la cour de céans a,
+notamment, considéré qu'un éventuel faux témoignage n'était pas d'emblée
+exclu et a renvoyé la cause au Ministère public pour qu'il ouvre une instruction sur la base
+des faits dénoncés par V.________
+Entendue le 20 juin 2014 (PV aud. 1) au sujet de son témoignage devant le Collège des Juges
+d'application des peines, U.________ a précisé :
+"[…]
+Si j'emploie le mot "criminel" c'est parce que mon père a tué ma mère. Il a
+d'ailleurs été condamné de ce fait. Par cette phrase, je voulais indiquer que mon père
+peut avoir deux visages ; par moment, il est aimable et détendu et souriant, à d'autres, il
+a un regard méchant […]".
+Par ordonnance du 10 novembre 2014 à ce jour exécutoire, le Ministère public de l'arrondissement
+du Nord vaudois a ordonné le classement de la procédure dirigée contre U.________ et[...]
+pour diffamation et faux témoignage. Il a considéré qu'aucun élément au dossier
+ne permettait de retenir à l'encontre des prévenues une quelconque intention délictueuse.
+Rien n'indiquait qu'elles auraient donné des informations fausses durant leurs auditions respectives
+et au vu des explications fournies par U.________, le terme "criminel" n'était pas attentatoire
+à l'honneur du plaignant.
+b)
+La présente cause (PE14.015424-LAE) a
+été ouverte par la plainte déposée le 15 juillet 2014 par [...] et U.________ contre
+V.________ pour dénonciation calomnieuse. Elles lui ont reproché d'avoir, dans sa plainte du
+12 décembre 2013, proféré de fausses accusations destinées à leur nuire.
+B.
+Par ordonnance du 6 octobre 2015, notifiée
+le 20 octobre 2015, le Ministère public de l'arrondissement du Nord vaudois a décidé de
+ne pas entrer en matière. Il a considéré qu'aucun élément ne permettait d'établir
+que V.________ n'avait pas ressenti les déclarations des plaignantes devant le Juge d'application
+des peines comme attentatoires à son honneur ou mensongères à son égard, de sorte
+que l'infraction de dénonciation calomnieuse ne pouvait pas être retenue, l'intention faisant
+défaut.
+C.
+Par acte mis à la poste le 30 octobre 2015,
+U.________ a recouru contre cette ordonnance, en concluant, sous suite de frais et dépens, à
+son annulation et au renvoi de la cause au procureur pour qu'il poursuive l'instruction.
+Par détermination du 5 février 2016, V.________ a conclu au rejet du recours.
+Par courrier du 9 février 2016, l'autorité de céans a communiqué cette écriture
+au Ministère public.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (cf. art. 310 CPP) dans les dix jours
+devant l’autorité de recours (art. 310 al. 2 et 322 al. 2 CPP; cf. art. 20 al. 1 let. b CPP),
+qui dans le canton de Vaud est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi
+d’organisation judiciaire; RSV 173.01]).
+Interjeté dans le délai légal (art. 322 al. 2 CPP, par renvoi de
+l'art.
+310 al. 2 et art. 396 al. 1 CPP) contre une ordonnance de non-entrée en matière (art. 393 al.
+1 let. a CPP), par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours
+est recevable.
+2.
+2.1
+Aux termes de l'art. 310 al. 1 let. a CPP, une
+ordonnance de non-entrée en matière est rendue immédiatement – c’est-à-dire
+sans qu’une instruction soit ouverte (art. 309 al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 consid.
+2.1; Cornu, in: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse,
+Bâle 2011, n. 2 ad art. 310 CPP) – par le ministère public lorsqu'il apparaît, à
+réception de la dénonciation (cf. art. 301 s. CPP) ou de la plainte (Cornu, op. cit., n. 1
+ad art. 310 CPP) ou après une procédure préliminaire limitée aux investigations de
+la police (art. 300 al. 1 et 306 s. CPP), que les éléments constitutifs de l'infraction ou
+les conditions à l'ouverture de l'action pénale ne sont manifestement pas réunis (let.
+a), qu’il existe des empêchements de procéder (let. b) ou que les conditions mentionnées
+à l’art. 8 CPP imposent de renoncer à l’ouverture d’une poursuite pénale
+(let. c) (TF 1B_111/2012 du 5 avril 2012 consid. 2.1; TF 1B_67/2012 du 29 mai 2012 consid. 2.2).
+Des motifs de fait peuvent également justifier la non-entrée en matière selon l’art.
+310 al. 1 let. a CPP; il s’agit des cas où la preuve d’une infraction, soit de la réalisation
+en fait de ses éléments constitutifs, n’est pas apportée par les pièces dont
+dispose le ministère public (Cornu, op. cit., n. 9 ad art. 310 CPP; CREP 23 novembre 2011/517
+consid. 2a), ou encore des cas où l'identité de l'auteur de l'infraction ne peut vraisemblablement
+pas être établie (TF 1B_67/2012 du 29 mai 2012 consid. 3.2). Dans de tels cas, le procureur
+doit examiner si une enquête, sous une forme ou sous une autre, serait en mesure d’apporter
+des éléments susceptibles de renforcer les charges contre la personne visée ou d’établir
+l’identité de l’auteur de l’infraction; ce n’est que si aucun acte d’enquête
+raisonnable ne paraît pouvoir amener des éléments utiles qu’il peut rendre une ordonnance
+de non-entrée en matière (Cornu, op. cit., n. 9 ad art. 310 CPP; TF 1B_67/2012 du 29 mai 2012
+consid. 3.2; CREP 23 novembre 2011/517 consid. 2a). En cas de doute sur la possibilité d’apporter
+ultérieurement la preuve des faits en question, la non-entrée en matière est exclue (Cornu,
+op. cit., n. 9 ad art. 310 CPP; Nathan Landshut, in : Donatsch/Hansjakob/ Lieber [éd.], Kommentar
+zur Schweizerischen Strafprozessordnung, 2010, n. 5 ad art. 310 CPP; Message du Conseil fédéral
+relatif à l’unification du droit de la procédure pénale du 21 décembre 2005,
+FF 2006 pp. 1057 ss, spéc. 1248; CREP 23 novembre 2011/517 consid. 2a). En revanche, le
+ministère public doit pouvoir rendre une ordonnance de non-entrée en matière dans les
+cas où il apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter
+la preuve d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2). En effet, il ne se justifie pas d’ouvrir une instruction pénale
+(art. 309 CPP) qui devra être close par une ordonnance de classement dans la mesure où une
+condamnation apparaît très vraisemblablement exclue (cf. ATF 138 IV 86 consid. 4.1.1; TF 1B_272/2011
+du 22 mars 2012 consid. 3.1.1).
+2.2
+L'art. 303 ch. 1 al. 1 CP prévoit que celui
+qui aura dénoncé à l'autorité, comme auteur d'un crime ou d'un délit, une personne
+qu'il savait innocente, en vue de faire ouvrir contre elle une poursuite pénale, sera puni d'une
+peine privative de liberté ou d'une peine pécuniaire. Sur le plan objectif, une dénonciation
+n'est calomnieuse que si la personne mise en cause est innocente, en ce sens qu'elle n'a pas commis les
+faits qui lui sont faussement imputés, soit parce que ceux-ci ne se sont pas produits, soit parce
+qu'elle n'en est pas l'auteur (TF 6B_591/2009 du 1
+er
+février
+2010 consid. 3.1.1). La dénonciation doit porter sur la commission d’une infraction pénale
+(Dupuis et alii, op. cit., n. 7 ad art. 303 CP et les réf. cit.).
+Sur le plan subjectif, l'auteur doit savoir que la personne qu'il dénonce est innocente. Il s'agit
+d'une connaissance au sens strict. Le dol éventuel ne suffit pas (Corboz, Les infractions en droit
+suisse, vol. II, 3
+e
+éd., Berne 2010, n. 17 ad art. 303 CP, p. 591 ; ATF 136 IV 170 consid. 2.1, JdT 2011 IV
+102), de sorte que l'auteur peut objecter n'avoir pas su le dénoncé innocent en invoquant sa
+bonne foi (ATF 72 IV 74 consid. 1).
+2.3
+En l'espèce,V.________ ne mentait pas lorsque,
+le 11 décembre 2013, elle a soutenu avoir peur des réactions du prévenu, qu'elle voyait
+tantôt comme un père et tantôt comme un criminel. Elle savait que son père avait
+tué sa mère, qu'il avait été jugé et condamné pour cela. Le terme "criminel"
+qu'elle avait employé dans ce contexte n'était donc pas attentatoire à l'honneur de V.________.
+Cela ressort de l'ordonnance de classement rendue par le Ministère public de l'arrondissement du
+Nord vaudois le 10 novembre 2014, après avoir entendu les précisions données par U.________
+(cf. supra, p. 2). Il semble ainsi que V.________ savait que sa fille était innocente lorsqu'elle
+a prononcé ces mots devant le Juge d'application des peines, mais il en a pris ombrage, tenant le
+qualificatif de criminel pour
+"déplacé"
+dès lors qu'il estimait avoir
+"payé"
+sa dette (cf. son recours du 9 janvier 2013 [recte
+: 2014] auprès de la cour de céans, où il dénonce également le fait que la justice
+aurait fait preuve de partialité en privilégiant la version des faits de [...] plutôt
+que la sienne en considérant son passé judiciaire). Sa détermination du 5 février
+2016 va dans le même sens, le prévenu se référant cette fois au fait que les événements
+"auxquels U.________ fait
+sans doute allusion datent de plus de 30 ans"
+.
+C'est dans cet esprit que le prévenu paraît avoir déposé la plainte litigieuse.
+Au vu de ces circonstances, on ne pouvait pas d'emblée considérer que les éléments
+constitutifs d'u
+ne infraction
+à l'art. 303 CP ou les conditions à l'ouverture d'une action pénale n'étaient manifestement
+pas réunis.
+Les conditions de l'art. 310 al. 1 let. a CPP n'étant pas remplies, c'est à tort que le Ministère
+public a refusé d'entrer en matière.
+3.
+Il résulte de ce qui précède que
+le recours doit être admis, l'ordonnance de non-entrée en matière du 6 octobre 2015 annulée
+et la cause renvoyée au Ministère public de l'arrondissement du Nord vaudois pour qu'il instruise
+la plainte déposée le 15 juillet 2014.
+U.________ obtenant gain de cause, les frais de la procédure de recours, constitués en l'espèce,
+du seul émolument d’arrêt, par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010, RSV 312.03.1]), seront laissés
+à la charge de l'Etat (art. 423 al. 1 CPP).
+S'agissant des dépens réclamés par la recourante, il appartiendra, le cas échéant,
+à cette dernière d'adresser à la fin de la procédure ses prétentions à
+l'autorité pénale compétente selon l'art. 433 al. 2 CPP (CREP 16 avril 2013/279 consid.
+4 et les références citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance du 6 octobre 2015 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l'arrondissement du Nord vaudois pour qu'il procède dans le sens des considérants.
+IV.
+Les frais de la procédure de recours, par 770 fr. (sept cent septante francs), sont laissés
+à la charge de l'Etat.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Véronique Fontana, avocate (pourU.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Ministère public de l'arrondissement du Nord vaudois,
+-
+Me Jean Lob, avocat (pour
+V.________,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
