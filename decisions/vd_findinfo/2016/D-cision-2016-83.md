@@ -1,0 +1,192 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___83"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 83"
+decided: "2016-02-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5369354"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2016 / 83
+
+## Regeste
+
+TRIBUNAL FÉDÉRAL, RÉCUSATION, ADMISSION DE LA DEMANDE | 56 let. f CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.02.2016 Décision / 2016 / 83
+
+TRIBUNAL FÉDÉRAL, RÉCUSATION, ADMISSION DE LA DEMANDE | 56 let. f CPP (CH)
+
+TRIBUNAL
+CANTONAL
+75
+PE14.008024-BEB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 12 février 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+56 let. f CPP
+Statuant sur la demande de récusation déposée le 24 septembre 2015 par
+U.________
+à l’encontre de G.________,
+Procureur du Ministère public de l’arrondissement de Lausanne, dans la cause
+n° PE14.008024-BEB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Depuis le 3 novembre 2014,
+le Procureur G.________, du Ministère public de l’arrondissement de Lausanne, instruit une
+enquête contre U.________ pour « avoir déposé une plainte mensongère à
+l’encontre d’ [...] afin de s’approprier un vase d’une grande valeur de manière
+astucieuse ».
+B.
+Le 24 septembre 2015, U.________ a été entendu par le Procureur G.________. Au cours de cette
+audience, le prévenu a demandé la récusation de ce magistrat au motif que celui-ci aurait
+déclaré qu’il était un « menteur patenté ». Le Procureur
+a conclu au rejet de cette demande, observations sur lesquelles le prévenu s’est déterminé
+le 10 octobre 2015.
+Par décision du 19
+octobre 2015, la Cour de céans a rejeté la demande de récusation et a mis les frais de
+cette décision ainsi que l’indemnité due au défenseur d’office de U.________
+à la charge de ce dernier (CREP 19 octobre 2015/635).
+C.
+a)
+Par arrêt du 5 janvier 2016 (TF1B_430/2015),
+la 1
+re
+Cour de droit public du Tribunal fédéral a admis le recours de U.________ contre la décision
+cantonale précitée, annulé celle-ci, admis la demande de récusation du Procureur
+G.________ et renvoyé la cause à la Cour de céans afin qu’un autre procureur soit
+désigné pour la suite de la procédure et pour nouvelle décision sur les frais et
+indemnités de la procédure.
+b) Dans ses déterminations
+du 28 janvier 2016, le Procureur général du Canton de Vaud a pris acte de la récusation
+du Procureur G.________ et a demandé que le dossier de la cause soit retourné au Ministère
+public pour désignation d’un nouveau procureur (art. 6 al. 2 LMPu). Il s’en est remis
+à justice s’agissant de l’indemnité (P. 59).
+c) Par courrier de son
+défenseur d’office du 28 janvier 2016, U.________ a réclamé une indemnité à
+hauteur de 4'594 fr. 90, correspondant selon lui aux opérations effectuées dans le cadre de
+la procédure (P. 60).
+Le 29 janvier 2016, U.________
+a précisé, concernant le montant des dépens réclamés, que dès la transmission
+de son dossier à un autre procureur, il solliciterait le retranchement de toutes les opérations
+menées par le Procureur jusqu’ici en charge du dossier.
+Le 2 février 2016,
+U.________ a une nouvelle fois requis de la Cour de céans qu’elle statue sur les frais et
+dépens de la procédure cantonale de récusation.
+En droit
+:
+1.
+Lorsque
+le Tribunal fédéral admet un recours, il statue lui-même sur le fond ou renvoie l'affaire
+à l'autorité précédente pour qu'elle prenne une nouvelle décision. Il peut également
+renvoyer l'affaire à l'autorité qui a statué en première instance (art. 107 al. 2
+LTF [loi fédérale du 17 juin 2005 sur le Tribunal fédéral; RS 173.110]). L'autorité
+à laquelle l'affaire est renvoyée doit fonder sa nouvelle décision sur les considérants
+de droit contenus dans l'arrêt de renvoi. Elle ne peut en aucun cas s'écarter de l'argumentation
+juridique du Tribunal fédéral, aussi bien en ce qui concerne les points sur lesquels il a approuvé
+la motivation précédente que ceux sur lesquels il l'a désapprouvée. Il n'est pas
+possible de remettre en cause ce qui a été admis – même implicitement – par
+le Tribunal fédéral (Corboz, in : Commentaire de la LTF, 2
+e
+éd., Berne 2014, n. 27 ad art. 107 LTF).
+2.
+Dans
+son arrêt du 5 janvier 2016, le Tribunal fédéral a admis la demande de récusation,
+si bien qu’il n’y a plus lieu de statuer sur ce point.
+S’agissant
+de la désignation d’un autre procureur, l’art. 6 al. 2 LMPu (Loi vaudoise sur le Ministère
+public du 19 mai 2009 ; RSV 173.21) prévoit que lorsque la récusation d’un
+procureur est prononcée, le Procureur général peut soit se saisir de l’affaire,
+soit désigner un autre procureur.
+Partant,
+le dossier de la cause sera transmis au Procureur général en vue de la nomination d’un
+autre procureur.
+3.
+Les frais de la décision
+de la Cour de céans du 19 octobre 2015, annulée par le Tribunal fédéral, ainsi que
+l’indemnité d’office allouée au défenseur de U.________, par 777 fr. 60, TVA
+et débours inclus, seront laissés à la charge de l’Etat (art. 59 al. 4 CPP).
+4.
+Les frais de la présente
+décision (art. 422 al. 1 CPP), par 440 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), ainsi que l’indemnité
+complémentaire allouée au défenseur d’office de U.________, par 97 fr. 20, TVA et
+débours inclus, seront laissés à la charge de l'Etat (art. 423 al. 1 CPP).
+S’agissant de l’indemnité
+réclamée par U.________, selon la pratique constante de la Cour de céans, la partie qui
+obtient gain de cause est toujours renvoyée à agir à la fin de la procédure si celle-ci
+se poursuit (cf. CREP 23 décembre 2015/865). Cette façon de procéder est conforme
+au droit fédéral (cf. TF 1B_291/2013 du 17 septembre 2013 consid. 4.3).
+Toutefois, dans le cas
+d’espèce, dès lors que l’avocat Stephen Gintzburger intervient en qualité
+de défenseur d’office, son client U.________ ne peut prétendre à l’allocation
+d’une indemnité au sens de l’art. 429 CPP (ATF 138 IV 205). Il ne lui sera donc rien
+alloué à ce titre.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Les frais de la décision de la Cour de céans du 19 octobre 2015, par 770 fr. (sept cent septante
+francs), l’indemnité allouée au défenseur d’office de U.________, par 777
+fr. 60 (sept cent septante-sept francs et soixante centimes), les frais de la présente décision,
+par 440 fr. (quatre cent quarante francs), et l’indemnité complémentaire allouée
+au défenseur d’office de U.________, par 97 fr. 20 (nonante-sept francs et vingt centimes),
+sont laissés à la charge de l’Etat.
+II.
+Le dossier de la cause est transmis au Procureur général du Canton de Vaud pour désignation
+d’un autre procureur.
+III.
+La présente décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Stephen Gintzburger, avocat (pour U.________),
+-
+Ministère public central,
+et communiquée à :
+‑
+M. le Procureur de l’arrondissement de Lausanne,
+-
+M. le Procureur général du Canton de Vaud,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, la présente décision peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
