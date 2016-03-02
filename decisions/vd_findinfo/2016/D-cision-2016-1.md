@@ -1,0 +1,346 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 1"
+decided: "2016-03-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5408133"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/231.1/art-067.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/312.0/art-265.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2016 / 1
+
+## Regeste
+
+INTERNET, FOURNISSEUR DE SERVICES DE TÉLÉCOMMUNICATION, LÉGITIMATION ACTIVE ET PASSIVE | 265 al. 3 CPP (CH), 265 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 02.03.2016 Décision / 2016 / 1
+
+INTERNET, FOURNISSEUR DE SERVICES DE TÉLÉCOMMUNICATION, LÉGITIMATION ACTIVE ET PASSIVE | 265 al. 3 CPP (CH), 265 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+156
+PE15.012513-LML
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+2 mars 2016
+__________________
+Composition
+:               M.
+A B R E C H T, président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+265 al. 1 et 3 CPP
+Statuant sur le recours interjeté le 11 septembre 2015 par
+N.________
+[...]
+,
+K.________
+et
+X.________
+contre l’ordonnance de production de pièces avec menaces en cas d’insoumission rendue
+le 31 août 2015 par le Ministère public central, Division affaires spéciales, contrôle
+et mineurs, dans la cause
+n° PE15.012513-LML
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 18 mai 2015, la F.________, sise à [...] (France), a déposé plainte pénale contre
+l’administrateur du site [...], respectivement l’a dénoncé, pour violation des
+normes pénales de la loi fédérale sur le droit d'auteur et les droits voisins (loi sur
+le droit d'auteur, LDA; RS 231.1). Soutenant être seule titulaire de la qualité pour autoriser
+ou interdire l’exécution ou la représentation publique des œuvres de ses membres
+régis par le droit français de la propriété intellectuelle (propriété incorporelle
+selon la terminologie juridique française), elle fait grief à l’administrateur du site
+en question, opérant sous l’identité de «  [...]» sous l’adresse
+électronique [...] et tenu pour étant un résident suisse, d’avoir permis la diffusion,
+sur une large échelle, d’œuvres musicales sur Internet entre particuliers en mettant
+à la disposition de ses usagers des liens informatiques permettant de télécharger les
+œuvres en question. Elle lui reprochait ainsi d’offrir à un nombre indéterminé
+d’internautes la faculté de télécharger illicitement des œuvres protégées.
+Elle évaluait son préjudice à 97'269,9 euros hors taxes, selon une méthode statistique.
+Elle a précisé que l’administrateur en question opérerait à partir de diverses
+plateformes informatiques installées outre-mer, la dénomination de domaine « pw »
+étant, en particulier, celle des Iles Palaos (P. 4).
+b)
+Considérant cette plainte comme une dénonciation, le Ministère public central, Division
+affaires spéciales, contrôle et mineurs, a, le 16 juillet 2015, décidé de l’ouverture
+d’office d’une instruction pénale contre inconnu pour, « [à] Lausanne
+ou autre part en Suisse, à tout le moins depuis février 2014, au travers du site internet [...],
+avoir mis à disposition de tiers la possibilité d’obtenir massivement des œuvres
+musicales couvertes par le droit d’auteur notamment, dans le but de profiter des rentrées
+financières que procure la publicité visible sur le site » (PV des opérations,
+p. 2). Il est constant que l’administrateur du site opérait, notamment sinon exclusivement,
+par la messagerie [...].
+c)
+Par ordonnance de production de pièces du 11 août 2015, le Ministère public a requis de
+la société N.________ la production de la documentation ci-après, mentionnée dans
+les considérants de l’ordonnance : l’identité du détenteur du compte
+[...] dont l’adresse électronique est [...]; les adresses IP utilisées pour créer
+le compte précité; le log de connexions et les adresses IP en relations (sic) avec ces logs
+pour la période courant de 2008 à ce jour; le contenu privé du compte (y compris photos,
+posts, conversations, etc.) pour la même période (I), a imparti à N.________ un délai
+échéant le 24 août 2015 pour produire la documentation requise (II) et a interdit à
+N.________, à ses gérants, à son personnel ainsi qu’à tout intervenant d’informer
+qui que ce soit de la présente mesure jusqu’au 31 décembre 2015, sous commination de
+la peine prévue à l’art. 292 CP (Code pénal; RS 311.0) (III).
+B.
+Par ordonnance de production de pièces du
+31 août 2015, le Ministère public a requis de la société N.________, de K.________
+personnellement et de X.________ personnellement la production de la documentation visée par l’ordonnance
+du 11 août 2015 déjà citée et mentionnée dans les considérants de la nouvelle
+décision, sous commination de la peine prévue à l’art. 292 CP (I), leur a imparti
+un délai échéant le 10 septembre 2015 pour produire la documentation requise (II) et leur
+a interdit ainsi qu’à tout intervenant, d’informer qui que ce soit de la présente
+mesure jusqu’au 31 décembre 2015, sous commination de la peine prévue à l’art.
+292 CP (III).
+Par lettre adressée au Procureur le 7 septembre 2015, N.________ a fait savoir que les informations
+demandées concerneraient « des services fournis par la société de droit américain
+[...]», laquelle serait « organisée, exploitée et gouvernée par le droit
+américain ». Partant, les informations en question ne seraient « pas sous le
+contrôle ou la supervision de la société N.________ » (P. 11).
+C.
+Par acte du 11 septembre 2015, N.________, K.________
+et X.________, agissant conjointement sous la plume de leurs conseils de choix communs, ont recouru auprès
+de la Chambre des recours pénale du Tribunal cantonal contre l’ordonnance du 31 août
+2015, en concluant, avec suite de dépens, à titre préalable, à l’octroi de
+l’effet suspensif et, au surplus, à son annulation, la cause étant renvoyée au Ministère
+public. Elle a produit diverses pièces.
+Par ordonnance du 14 septembre 2015, le Président de la Chambre des recours pénale a suspendu
+l’exécution des chiffres I et II du dispositif de l’ordonnance du 31 août 2015
+jusqu’à ce que la Cour de céans ait statué sur le recours.
+Il n’a pas été ordonné d’échanges d’écritures.
+En droit
+:
+1.
+1.1
+Le détenteur d’objets ou de valeurs
+patrimoniales qui doivent être séquestrés est soumis à l’obligation de dépôt
+(art. 265 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]). L'art.
+265 al. 2 CPP pose les limites à ce principe. Selon l'art. 265 al. 3 CPP, l’autorité
+pénale peut sommer les personnes tenues d’opérer un dépôt de s’exécuter
+dans un certain délai, sous commination de la peine prévue à l’art. 292 CP ou d’une
+amende d’ordre.
+1.2
+En l'espèce, la décision attaquée constitue une sommation de production de pièces
+au sens de l'art. 265 al. 3 CPP.
+Lorsque la sommation de production de pièces est, comme en l’espèce, assortie de la menace
+des peines prévues à l'art. 292 CP (cf. Bommer/ Goldschmid,
+in
+: Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozess-ordnung, Jugendstrafprozessordnung,
+Art. 196-457 StPO – Art. 1-54 JStPO, 2
+e
+éd., Bâle 2014, n. 30 ad art. 265 CPP), un recours au sens des art. 393 ss CPP est ouvert à
+son encontre au sens de l'art. 265 al. 3 CPP (CREP 10 juillet 2013/423 consid. 1.a et les réf. cit.).
+1.3
+Interjeté dans le délai légal (art. 396 al. 1 CPP) contre une décision du Ministère
+public (art. 393 al. 1 let. a CPP), le recours satisfait en outre aux autres conditions légales
+(art. 385 al. 1 CPP), de sorte qu’il est recevable à la forme. La qualité pour recourir
+de K.________ et de X.________ découle du fait qu’ils sont directement touchés par l’ordonnance
+entreprise à l’instar de la personne morale utilisant leurs services (N.________, respectivement
+la maison mère sise aux Etats-Unis).
+2.
+2.1
+L’art. 265 CPP est applicable aux données
+informatiques, notamment aux courriels, assimilés à des titres (ATF 138 IV 209 consid. 5.3
+et 5.4).
+Les
+recourants affirment ne pas être en mesure d’exécuter les injonctions qui leur ont été
+signifiées, dès lors que la messagerie électronique [...] ne serait pas exploitée
+par N.________, mais par la société [...]c., sise en Californie. Ils ajoutent qu’un cas
+concernant la recourante, précédent tranché par la Cour de céans (CREP 18 juin 2014/250
+spéc. consid. 3, publié au JdT 2014 III 168, dont il sera fait état ci-après), ne
+concernerait pas la messagerie en question, cette jurisprudence devant, selon eux, de toute manière
+être « corrigée ».
+2.2
+La jurisprudence susmentionnée procède
+de l’application analogique des principes d’un arrêt rendu le 13 mai 2014 par la Cour
+de justice de l’Union européenne dans la cause C-131/2012, divisant [...] et [...], d’une
+part, d’avec l’agence nationale espagnole de protection des données (
+Agencia
+Española de Proteccíon de Datos
+), d’autre
+part. Cet arrêt se fonde sur la Directive 95/46/CE du Parlement européen et du Conseil, du
+24 octobre 1995, relative à la protection des personnes physiques lors du traitement des données
+à caractère personnel et à la libre circulation de ces données.
+La Cour de justice a observé que [...] constituait une filiale de [...] sur le territoire espagnol
+et, partant, un « établissement » au sens de la directive. Elle a rejeté
+l’argument selon lequel le traitement de données à caractère personnel par [...]
+n’était pas effectué dans le cadre des activités de cet établissement en Espagne.
+La Cour a considéré, à ce propos, que lorsque de telles données étaient traitées
+pour les besoins d’un moteur de recherche exploité par une entreprise qui, quoique située
+dans un Etat tiers, disposait d’un établissement dans un Etat membre, le traitement était
+effectué « dans le cadre des activités » de cet établissement, au
+sens de la directive, dès lors que celui-ci était destiné à assurer, dans l’Etat
+membre en question, la promotion et la vente des espaces publicitaires proposés sur le moteur de
+recherche en vue de rentabiliser le service offert par ce dernier (cf. consid. 45 à 60).
+L’arrêt de la Cour de justice retient l’existence de liens indissociables entre les
+activités de [...] et sa filiale espagnole, dès lors que les activités relatives aux espaces
+publicitaires constituent le moyen pour rendre le moteur de recherche en cause économiquement rentable
+et que ce moteur est, en même temps, le moyen permettant l’accomplissement de ces activités
+(consid. 56). La Cour a observé que l’affichage de données à caractère personnel
+sur une page de résultats d’une recherche, constitutif d’un traitement de telles données,
+était accompagné, sur la même page, de l’affichage de publicités liées
+aux termes de la requête. Il fallait donc constater que le traitement de données à caractère
+personnel en question était effectué dans le cadre de l’activité publicitaire et
+commerciale de l’établissement du responsable du traitement sur le territoire d’un Etat
+membre, en l’occurrence le territoire espagnol (consid. 57).
+2.3
+La Cour de céans a considéré que ce raisonnement valait également,
+mutatis
+mutandis
+, pour N.________, précisément
+en raison des liens indissociables entre les activités de [...] et de ses différentes filiales
+nationales, dont celle sise en Suisse. La Cour a ajouté que la recourante, d’une certaine
+manière, représentait en Suisse la maison mère sise en Californie, comme l’a jugé
+le Tribunal fédéral dans un arrêt du 31 mai 2012 rendu dans l’affaire «
+[...]» (TF 1C_230/2011, publié en partie aux ATF 138 II 346). Cet arrêt tranche non seulement
+la question de l’anonymisation des données personnelles apparaissant sur les photos présentées
+par l’outil [...] proposé par [...], telle que requise par le Préposé fédéral
+à la protection des données et à la transparence (PFPDT), mais encore la question relative
+à la légitimation passive de N.________ s’agissant des injonctions données par les
+autorités suisses. Sur ce point, le Tribunal fédéral a confirmé la décision
+rendue par le Tribunal administratif fédéral le 31 mars 2011, en ce sens que N.________ et
+[...] pouvaient être destinataires des recommandations du PFPDT. Il a considéré que N.________
+représentait en Suisse la maison mère et qu’à ce titre, une demande d’effacement
+devait être adressée à l’entité suisse. Le Tribunal fédéral a fondé
+la légitimation passive de N.________ sur l’activité que celle-ci avait déployée
+en prenant les photos nécessaires au développement du produit [...] (mise à disposition
+des véhicules de la société, traitement de demandes d’effacement et participation
+aux recherches nécessaires à l’élaboration du programme informatique, notamment)
+(consid. 4, non publié à l’ATF 138 II 346). La Cour de céans a ainsi, en d’autres
+termes, considéré que les liens indissociables unissant la maison mère à ses filiales
+nationales, faisaient de celles-ci en quelque sorte des « représentantes » de
+celle-là.
+Enfin, la Cour de céans a considéré que l’un des domaines d’activité
+de la recourante consistait à examiner la compatibilité avec la loi suisse du contenu des blogs
+hébergés par le biais d’un site dont elle était administratrice. Le département
+juridique de N.________ a en effet pour mission d’examiner la compatibilité des contenus avec
+les législations suisse et autrichienne. La recourante déploie ainsi une activité concrète
+en Suisse en lien avec l’outil d’hébergement de blogs en question et peut être
+amenée dans ce contexte à traiter de demandes d’effacement. Elle est donc habilitée
+à recevoir des injonctions des autorités suisses en la matière. Elle ne saurait dès
+lors, pour s’opposer à l’exécution d’une mesure prévue par le droit
+suisse, se retrancher derrière une prétendue indépendance totale entre la maison mère
+exploitant le moteur de recherche et les filiales nationales du groupe, ni invoquer la loi américaine
+ou encore alléguer des impossibilités d’ordre technique. Au surplus, on ne voit pas pourquoi
+l’injonction d’exécuter une mesure de suppression sur un blog ne pourrait pas être
+adressée à N.________ comme « représentante » de [...] en Suisse,
+et, à ce titre, interlocutrice privilégiée des autorités suisses, pour être
+mise en œuvre le cas échéant par [...] Pour le surplus, il y a lieu de se référer
+intégralement à l’arrêt du 18 juin 2014 de la Cour de céans, expressément
+mentionné par la recourante et rendu à son égard.
+2.4
+Cela étant, le recours soulève deux questions spécifiques.
+D’abord, il n’y aucun motif de revenir sur l’arrêt susmentionné, qui est
+un arrêt de principe rendu à cinq juges en application des art. 67 al. 1 let. i LOJV (loi d’organisation
+judiciaire; RSV 173.01) et 12 al. 3 ROTC (règlement organique du Tribunal cantonal; RSV 173.31.1).
+Il aurait du reste été loisible à la recourante de contester devant le Tribunal fédéral
+la jurisprudence même dont elle demande à présent l’abandon. Les arrêts rendus
+par l’Obergericht de Zurich et par des tribunaux étrangers qu’elle produit et dont elle
+se prévaut n’y changent rien.
+Ensuite, quant à savoir si les principes posés par l’arrêt du 18 juin 2014 sont
+transposables à l’exploitation d’une messagerie en ligne, la ratio decidendi de l’arrêt
+de principe précité repose sur le fait que les serveurs (DNS et proxy) en cause n’étaient
+pas dangereux en soi, mais qu’ils rendaient possible la réalisation de l’infraction
+(in casu contre l’honneur) de manière durable et continue, et qu’à ce titre, comme
+« instruments perpétuant l’infraction », ils devaient être assimilés à
+des
+instrumenta sceleris
+.
+Cet arrêt se référait à une décision du Tribunal pénal fédéral
+du 16 février 2005 (BV.2004/24) confirmant le blocage de sites Internet ayant servi à la publicité
+et à la vente illicite de produits thérapeutiques et médicaux.
+De même, une messagerie électronique n’est pas dangereuse en soi, mais elle n’en
+rend pas moins possible la réalisation de l’infraction (in casu contre le droit d’auteur
+au sens de l’art. 67 LDA) de manière durable et continue, en offrant à un nombre indéterminé
+d’internautes la faculté de télécharger illicitement des œuvres protégées.
+L’atteinte au droit d’auteur ne pourrait être perpétrée sans un tel moyen.
+Elle constitue donc l’instrument perpétuant l’infraction au sens de la jurisprudence.
+Vu la ratio decidendi de l’arrêt de principe précité, aucun élément d’appréciation
+ne commande dès lors d’opérer une distinction entre les différents supports, instruments
+et programmes informatiques à cet égard. Les principes posés par l’arrêt du
+18 juin 2014 sont donc intégralement applicables à l’exploitation d’une messagerie
+électronique.
+Compte tenu de ce qui précède, la recourante doit se voir reconnaître la légitimation
+passive. Il en va de même des recourants en leur qualité de gérants de N.________. En
+effet, c’est bien par ses organes que la recourante peut être amenée à s’exécuter.
+Il est ainsi usuel d’adresser l’injonction comminatoire de l’art. 292 CP aux dirigeants
+d’une personne morale, dès lors que l’idée est d’exercer une pression sur
+le destinataire afin qu’il obtempère à l’injonction qui lui est adressée (Corboz,
+Les infractions en droit suisse, vol. II, 3
+e
+éd., Berne 2010, n. 6 ad art. 292 CP). Enfin, la commination de la peine prévue par l’art.
+292 CP n’est pas contestée séparément, à juste titre.
+2.5
+Le délai imparti aux recourants pour produire
+la documentation requise par l’ordonnance doit être prolongé d’office au 31 mars
+2016, la Cour de céans n’ayant pas statué avant l’échéance fixée
+par le Procureur au 10 septembre 2015, antérieure du reste au terme du délai de recours. De
+même, l’interdiction faite aux recourants, ainsi qu’à tout intervenant, d’informer
+qui que ce soit de la mesure en question doit être prolongée jusqu’au 31 mars 2016.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autre échange d'écritures (art. 390 al. 2 CPP) et les chiffres II et III de
+l’ordonnance du 31 août 2015 modifiés d’office en ce sens que les délais impartis
+sont prolongés au 31 mars 2016; l’ordonnance est confirmée pour le surplus.
+Les
+frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge des recourants,
+qui succombent (art. 428 al. 1 CPP), à parts égales et solidairement entre eux (art. 418 al.
+1 et 2 CPP)
+.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Les chiffres II et III de l’ordonnance du 31 août 2015 sont modifiés d’office en
+ce sens que les délais impartis sont prolongés au 31 mars 2016.
+III.
+L’ordonnance du 31 août 2015 est confirmée pour le surplus.
+IV.
+Les frais du présent arrêt, par 990
+fr. (neuf cent nonante francs), sont mis à la charge de N.________, K.________ et X.________ à
+parts égales et solidairement entre eux.
+V.
+Le présent arrêt est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi d'une copie complète, à :
+-
+Mes Ralph Schlosser et Maud Fragnière, avocats (pour N.________, K.________ et X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur du Ministère public central, Division affaires spéciales, contrôle et
+mineurs,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
