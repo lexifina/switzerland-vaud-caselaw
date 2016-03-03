@@ -1,0 +1,284 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 11"
+decided: "2016-03-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5463548"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-068a.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 11
+
+## Regeste
+
+OPPOSITION{LP}, RÉQUISITION DE CONTINUER LA POURSUITE, CONJOINT, COMMANDEMENT DE PAYER | 18 al. 1 LP, 68a LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.03.2016 Plainte / 2016 / 11
+
+OPPOSITION{LP}, RÉQUISITION DE CONTINUER LA POURSUITE, CONJOINT, COMMANDEMENT DE PAYER | 18 al. 1 LP, 68a LP
+
+TRIBUNAL
+CANTONAL
+FA15.040948-152140
+11
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 mars 2016
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 LP et 68a LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Banque
+M.________
+, à Paris (France), contre la décision
+rendue le 9 décembre 2015, à la suite de l’audience du 29 octobre 2015, par la Présidente
+du Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant
+la plainte déposée par la recourante contre l’
+Office
+des poursuites du district de Lausanne
+, dans le
+cadre de la poursuite n° 6’809’944 exercée à son instance contre
+N.________
+,
+à Lausanne, dont un exemplaire du commandement de payer a été notifié à
+Z.________
+,
+à Lausanne, en sa qualité de conjoint du débiteur.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 26 octobre 2013, à la réquisition
+de Banque M.________, l’Office des poursuites du district de Lausanne (ci-après : l’Office)
+a notifié à N.________, dans la poursuite ordinaire n° 6'809'944, un commandement de payer
+la somme de 960'714 fr., plus intérêt à 6% l’an dès le 24 août 2011, indiquant
+comme titre de la créance : « Solde non remboursé du prêt personnel selon
+contrat de prêt du 21 juillet 2008 (…) ». Le poursuivi a formé opposition totale.
+Par prononcé du 14 août 2014, le Juge de paix du district de Lausanne, statuant à la requête
+de la poursuivante, a prononcé la mainlevée provisoire de l’opposition. Une action en
+libération de dette a été introduite puis retirée le 10 juillet 2015, de sorte que
+la mainlevée est devenue définitive.
+Par lettre du 2 avril 2015, indiquant qu’il était marié sous un régime de communauté,
+le poursuivi a requis de l’Office qu’un exemplaire du commandement de payer soit notifié
+à son épouse, Z.________, en application de l’art. 68a LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1).
+Le 22 avril 2015, un exemplaire du commandement de payer a été notifié à l’épouse,
+qui a formé opposition en ces termes : « Opposition totale concernant la créance
+en poursuite et opposition quant aux biens soumis à l’exécution forcée, à limiter
+dans tous les cas aux biens propres de M. N.________, mon époux. ».
+Par prononcé du 1
+er
+juillet 2015, le Juge de paix du district de Lausanne a rejeté la requête déposée
+par la poursuivante tendant à la mainlevée de cette opposition. La poursuivante a recouru contre
+ce prononcé, le 12 octobre 2015.
+b)
+Le
+16 septembre 2015, la poursuivante a requis de l’Office la continuation de la poursuite n°
+6’809'944. Dans la lettre accompagnant la réquisition, elle a précisé qu’en
+raison de la procédure de mainlevée en cours contre Z.________, elle ne requérait la continuation
+de la poursuite qu’à l’encontre des biens propres de l’époux et de sa part
+aux biens communs.
+Le 17 septembre 2015, l’Office a rejeté cette réquisition.
+c)
+Par acte du 28 septembre 2015, la poursuivante a formé une plainte LP, concluant à ce qu’il
+plaise au Président du Tribunal d’arrondissement de Lausanne, autorité inférieure
+de surveillance, « ordonner la continuation de la poursuite seulement à l’encontre
+des biens propres de M. N.________ (…) ». Elle a produit un onglet de quinze pièces
+sous bordereau.
+L’Office s’est déterminé le 20 octobre 2015, concluant au rejet de la plainte.
+Il a produit des pièces.
+Les intimés N.________ et Z.________ ont également produit des pièces le 26 octobre 2015.
+A l’audience tenue le 29 octobre 2015, les intimés ont conclu au rejet de la plainte « dans
+la mesure où elle est recevable ».
+2.
+Par décision adressée pour notification aux parties le 9 décembre 2015, l’autorité
+inférieure de surveillance a rejeté la plainte (I), sans frais ni dépens (II). En résumé,
+elle a considéré que l’opposition de l’épouse portait aussi sur la créance
+et n’était pas limitée aux biens soumis à l’exécution forcée, de
+sorte que la continuation de la poursuite n’était possible qu’à la condition que
+la poursuivante ait obtenu la mainlevée des deux oppositions, et a estimé qu’il appartenait
+au juge de la mainlevée d’examiner les arguments soulevés par la plaignante.
+3.
+Par acte du 18 décembre 2015, la plaignante a recouru contre cette décision, concluant principalement
+à sa réforme en ce sens que « la continuation de la poursuite est ordonnée seulement
+à l’encontre des biens propres de M. N.________ (…) », subsidiairement à
+l’annulation du commandement de payer notifié à Z.________. Elle a produit une pièce
+nouvelle.
+L’Office s’est déterminé le 5 janvier 2016, concluant implicitement au rejet du
+recours et déclarant maintenir intégralement sa détermination du 20 octobre 2015.
+Les intimés se sont déterminés le 12 janvier 2016, concluant au rejet de la plainte par
+l’autorité de recours et à l’irrecevabilité de la conclusion nouvelle.
+En droit :
+I.
+a)
+Le recours est dirigé contre une décision
+de l’autorité inférieure de surveillance. Il est régi par l’art. 18 LP, qui
+dispose que toute décision de l’autorité inférieure peut être déférée
+à l’autorité cantonale supérieure de surveillance dans les dix jours à compter
+de sa notification, et les art. 28 à 33 LVLP (loi vaudoise d’application de la LP ; RSV
+280.05).
+b)
+Déposé
+en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP) et comportant l’énoncé des moyens
+invoqués (art. 28 al. 3 LVLP), le recours est recevable dans la mesure de sa conclusion principale
+qui reprend la conclusion de la plainte.
+En revanche, la conclusion subsidiaire du recours tendant à l’annulation du commandement de
+payer, nouvelle, est irrecevable. En effet, si les allégations de faits nouveaux et la production
+de nouvelles pièces sont licites en vertu de l’art. 28 al. 4 LVLP, il n’en va pas
+de même des conclusions nouvelles. La plainte au sens des art. 17 ss LP et le recours contre la
+décision sur plainte doivent porter sur les mêmes objets, sous peine d’irrecevabilité
+(CPF, 26 juin 2003/52 ; CPF, 19 novembre 2013/38 ; CPF, 31 mars 2014/11 ; CPF, 9 décembre
+2014/57).
+La pièce nouvelle jointe au recours est recevable (art. 28 al. 4 LVLP).
+Les déterminations de l’Office et des intimés le sont également (art. 31 al. 1 LVLP).
+II.
+a)
+En vertu de l’art. 22 al. 1 LP, sont nulles les mesures contraires à des dispositions édictées
+dans l’intérêt public ou dans l’intérêt de personnes qui ne sont pas
+parties à la procédure. Un acte de poursuite nul au sens de cette disposition ne peut à
+aucun moment déployer d’effet, le vice qui lui est inhérent ne pouvant être réparé
+par des circonstances ultérieures (ATF 112 III 65, JdT 1989 II 35 ; ATF 117 III 39, JdT 1994
+II 12).
+Les « mesures » dont la nullité peut être constatée sont les mesures
+ou décisions au sens de l’art. 17 LP émanant d’autorités de poursuite ou d’autorités
+de surveillance (Erard, Commentaire romand Poursuite et faillite, n. 2 ad art. 22 LP). Constitue une
+« mesure » au sens de cette disposition tout acte de poursuite, pris unilatéralement
+ou d’office, de nature à créer ou à modifier une situation du droit de l’exécution
+forcée (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et
+la faillite, n. 11 ad art. 17 LP).
+Toute mesure contraire à une disposition légale n’est pas nulle. Pour être qualifiée
+de nulle au sens de l’art. 22 LP, la mesure doit apparaître contraire à une disposition
+édictée dans l’intérêt public ou dans l’intérêt d’un
+cercle indéterminé de tiers qui ne sont pas parties à la procédure en question (Erard,
+op. cit., nn. 4 et 6 ad art. 22 LP). L’inopportunité, le déni de justice ou le retard
+injustifié ne sont pas des motifs de nullité. Le terme de « disposition »
+recouvre celui de « loi » de l’art. 17 LP. Il s’agit de la Constitution
+fédérale, des lois fédérales, des principes généraux du droit, tels que
+la bonne foi et l’interdiction de l’abus de droit, du contenu obligatoire des formules édictées
+par le Tribunal fédéral et du droit cantonal, notamment les lois et règlements édictés
+en application de la LP (ibid., n. 17 ad art. 17 LP). Pour qu’il y ait nullité, il faut qu’il
+s’agisse d’une disposition impérative (ibid., nn. 4 et 6 ad art. 22 LP). Toutefois,
+même une règle impérative peut ne pas être d’intérêt public (ATF
+87 I 191, consid. 1). La question de savoir si une règle a été édictée dans
+un intérêt public ou parce qu’elle touche aux intérêts de tiers est sujet à
+interprétation. C’est en principe le cas des dispositions de procédure et de celles traitant
+de la compétence matérielle des autorités  (Erard, op. cit., n. 7 ad art. 22 LP) .
+b)
+En l’espèce, la recourante reproche à l’Office et à l’autorité
+inférieure de surveillance de ne pas avoir examiné quelle était la portée de l’art.
+68a LP lorsque les époux sont soumis à un régime matrimonial de droit étranger. Elle
+est d’avis que si la cour de céans devait juger que l’Office « n’a pas
+à appliquer le droit français, il y a lieu de considérer la notification du commandement
+de payer à Mme Z.________ (…) comme nulle ».
+La recourante ne va pas jusqu’à affirmer que l’art. 68a LP ne s’appliquerait pas
+dans le cas présent, soit que le commandement de payer n’aurait pas dû être notifié
+à l’épouse du poursuivi. Elle n’a pas formé de plainte LP contre cet acte
+de l’Office dans le délai de dix jours dès qu’elle a eu connaissance de son existence.
+Ses griefs contre ce commandement de payer sont tardifs. Rien ne permet de considérer que cet acte
+de l’Office serait absolument nul. Il n’y a donc pas lieu d’en constater la nullité.
+III.
+a)
+La recourante soutient que la portée de l’opposition du conjoint qui reçoit un exemplaire
+du commandement de payer en application de l’art. 68a LP ne s’étend pas au-delà
+de ce qui est nécessaire à la protection des biens communs du couple. En l’occurrence,
+le poursuivi étant soumis à un régime matrimonial de droit français qui prévoit
+notamment qu’un époux qui contracte un emprunt sans le consentement de son conjoint n’engage
+que ses biens propres et ses revenus, les biens communs ne seraient pas menacés « tant
+qu’il n’a pas été établi que l’épouse a valablement consenti ».
+Les biens propres du poursuivi répondant dans tous les cas de l’emprunt contracté en
+l’espèce, l’opposition de l’épouse ne devrait pas bloquer leur saisie.
+b)
+Aux termes de l’art. 68a LP, lorsque la poursuite est dirigée contre un époux placé
+sous un régime de communauté, le commandement de payer et tous les autres actes de poursuites
+doivent être notifiés aussi au conjoint du débiteur ; s’il n’apparaît
+qu’au cours de la procédure que le débiteur est placé sous un régime de communauté,
+l’Office procède sans délai à cette notification. Chaque époux peut faire opposition
+au commandement de payer (art. 68a al. 2 LP).
+L’art. 68a al. 1 LP s’applique également aux époux mariés sous un régime
+de communauté en vertu du droit étranger (Daniel Staehelin, Das internationale Betreibungsrecht,
+in BlSchK 2015, pp. 125 ss, p. 140).
+Le droit du conjoint du débiteur de former opposition au commandement de payer se justifie par son
+intérêt à sauvegarder ses propres droits sur les biens communs (Ruedin, Commentaire romand
+Poursuite et faillite, n. 9 ad art. 68a LP).
+c)
+La recourante a intenté contre N.________ une poursuite ordinaire, et non une poursuite en réalisation
+d’un gage qui aurait pu être un bien propre du poursuivi. Jusqu’au dépôt de
+la réquisition de continuer la poursuite, elle entendait saisir également la part du poursuivi
+aux biens communs du couple. Ce n’est que dans sa plainte qu’elle a réduit la portée
+de sa réquisition. Elle ne saurait prétendre, a posteriori, que le patrimoine commun n’était
+pas menacé parce que le consentement de l’épouse n’a pas été reconnu
+judiciairement. De façon logique, vu ce qui précède, elle n’a pas fait valoir, jusqu’à
+présent, que l’art. 68a al. 1 LP ne s’appliquait pas, c’est-à-dire que l’Office
+n’aurait pas dû notifier un exemplaire du commandement de payer à l’épouse.
+De même, puisque les biens communs étaient menacés, c’est à bon droit qu’il
+a été considéré que l’épouse pouvait faire opposition, y compris sur le
+principe de la créance. C’est en vain que la recourante tente de dénier à l’épouse
+du poursuivi tout intérêt à l’opposition en prétendant limiter désormais
+sa poursuite aux biens propres du poursuivi. C’est dans le cadre de la procédure de mainlevée
+d’opposition que le juge doit examiner dans quelle mesure l’opposition de l’épouse
+contestant la créance doit être levée. Tant qu’elle n’a pas été
+levée ou retirée, cette opposition de l’épouse reste un obstacle dirimant à
+la continuation de la poursuite.
+IV.
+En conclusion, dans la
+mesure où il est recevable, le recours, mal fondé, doit être rejeté et le prononcé
+confirmé.
+La procédure de plainte étant gratuite (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al.
+2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]), le
+présent arrêt est rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté, dans la mesure où il est recevable.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Gilles Favre, avocat (pour Banque M.________),
+‑
+Me Olivier Righetti, avocat (pour N.________ et Z.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
