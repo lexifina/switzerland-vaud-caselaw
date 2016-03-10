@@ -1,0 +1,377 @@
+---
+decision_id: "vd_findinfo_D_cision___2016___87"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2016 / 87"
+decided: "2016-03-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5415377"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2016 / 87
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE, PARTIE CIVILE, CONCOURS RÉEL | 319 al. 1 CPP (CH), 8 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.03.2016 Décision / 2016 / 87
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE, PARTIE CIVILE, CONCOURS RÉEL | 319 al. 1 CPP (CH), 8 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+173
+PE14.003231-MNR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+10 mars 2016
+__________________
+Composition
+:               M.
+Abrecht
+,
+président
+MM.
+Perrot et Maillard, juges
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+177 CP ; 8 al. 2 let b, 320 et 393 ss CPP
+Statuant sur le recours interjeté le 14 décembre 2015 par
+X.________
+contre l’ordonnance de classement rendue le 26 novembre 2015 par le Ministère public de l'arrondissement
+de Lausanne dans la cause
+n° PE14.003231-MNR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par courriers des 29 janvier, 10 et 14 octobre 2014, X.________ a déposé plainte pénale
+contre L.________. Les faits qui lui sont reprochés ont été résumés comme suit
+par le Ministère public de l'arrondissement de Lausanne qui a ouvert l’instruction :
+1.
+avoir, le 29 octobre 2013, projeté en arrière
+la main de X.________ au cours d’une altercation ;
+2.
+l’avoir, entre le 29 octobre 2013 et le
+10 décembre 2013, injurié en lui disant qu’il était inutile et en le traitant notamment
+de "parasite", "invalide", "imbécile et "débile" ;
+3.
+avoir, les 24 et 25 novembre 2013, menacé
+de le tuer ;
+4.
+avoir, le 5 ou 6 décembre 2013, à Prilly,
+porté atteinte à son honneur en s'adressant à la responsable de l'office postal ;
+5.
+l’avoir, le 5 ou 6 décembre 2013, à
+Prilly, menacé en faisant mine de lui donner un coup de poing et en lui disant qu'il faisait du
+Taekwondo ;
+6.
+avoir, à Lausanne, le 11 juillet 2014, lors
+de son audition devant le Ministère public dans le cadre de la présente procédure pénale,
+déclaré faussement que X.________ l'injuriait et le menaçait régulièrement (PV
+aud. 2) ;
+7.
+avoir, à Lausanne, le 11 juillet 2014, lors
+de son audition devant le Ministère public dans le cadre de la présente procédure pénale,
+déclaré qu'il était certain que X.________ était capable d'aller jusqu'à un
+acte physique irrémédiable (PV aud. 2) ;
+8.
+l’avoir, à Lausanne, le 11 juillet
+2014, lors de son audition devant le Ministère public dans le cadre de la présente procédure
+pénale, menacé en disant "si on était en Sicile les choses ne se seraient pas passées
+comme ça" (PV aud. 2 l. 130-131) ;
+9.
+avoir, depuis Auvernier, le 31 août 2014,
+dans le cadre de la présente procédure pénale, adressé un courrier au Ministère
+public où il portait atteinte à son honneur en écrivant : "Dans cette affaire, je
+vous demanderai de vraiment vous rendre compte de la folie de ce Monsieur X.________ qui tente par tous
+les moyens de me discréditer de toutes part comme il l'a fait avec mes partenaire d'assurance et
+qu'il essaie par tous les moyens de me faire peser le poids de la séparation qu'il a eu avec Mme
+[...]" (P. 31) ;
+10.
+avoir, à Prilly, le 25 novembre 2013, endommagé
+le véhicule Alfa Romeo régulièrement utilisée par X.________.
+B.
+a)
+Par ordonnance du 26 novembre 2015, le Ministère
+public de l'arrondissement de Lausanne a arrêté l’indemnité servie à Me Rolf
+Ditesheim pour son mandat de conseil juridique gratuit de X.________ à 1'789 fr. 80 (TVA et débours
+compris) (I), a ordonné le classement de la procédure pénale dirigée contre L.________
+pour voies de fait, dommages à la propriété, diffamation, calomnie, injure et menaces
+(II), a mis une partie des frais de procédure, part fixée à 225 fr., à la charge
+de L.________ (III) et a laissé à la charge de l’Etat le solde des frais de procédure,
+part fixée à 3'739 fr. 90 qui comprenait également l'indemnité servie à Me Rolf
+Ditesheim pour son mandat de conseil juridique gratuit de X.________ (IV).
+Les considérations suivantes ressortent en particulier de la motivation de cette ordonnance:
+« Ad n° 2 et
+6 :
+Le prévenu a reconnu avoir injurié X.________ (PV aud. 2). Il a, néanmoins, ajouté
+que les injures étaient échangées entre lui et le plaignant
+(PV
+aud 2). Il a également déclaré avoir été menacé par le plaignant (PV aud.
+2). Aucune mesure d'enquête ne permettrait d'infirmer les dires du prévenu. Les versions des
+parties sont donc irrémédiablement contradictoires. »
+« Ad n° 10 :
+Le prévenu a formellement contesté avoir endommagé la voiture de X.________ (PV aud. 2).
+Il a expliqué que cette voiture était stationnée de manière à bloquer une voiture
+Audi qu'il devait récupérer, et que pour récupérer ce véhicule, il avait eu
+recours à un cric qui lui avait été mis à disposition de [...] (PV aud. 2). [...]
+n'a pas confirmé les dires du prévenu (P 33). De plus, le témoignage de [...] a permis
+d'établir que le prévenu n'avait pas eu recours à un cric pour déplacer la voiture
+Audi et qu'il avait au contraire heurté à plusieurs reprises la voiture Alfa Romeo pour ce
+faire (PV aud. 3). Cela étant, le 8 mai 2015, le prévenu a été condamné par
+le Tribunal correctionnel de l'arrondissement de Lausanne pour abus de confiance, escroquerie, tentative
+d'escroquerie, faux dans les titres et conduite d'un véhicule automobile malgré le refus, le
+retrait ou l'interdiction de l'usage du permis à une peine privative de liberté de 12 mois,
+dont 6 mois fermes, le solde de la peine de 6 mois étant assorti du sursis avec délai d'épreuve
+de 4 ans, peine partiellement additionnelle à celle prononcée par le Ministère public,
+Parquet région Neuchâtel, le 5 juillet 2012 et totalement additionnelle à celle prononcée
+par la même autorité le 18 février 2015. Si le Tribunal correctionnel de l'arrondissement
+de Lausanne avait également eu à juger des dommages à la propriété commis sur
+la voiture Alfa Romeo le 25 novembre 2013, la peine prononcée par cette autorité n'aurait vraisemblablement
+pas été plus importante que celle qu'elle a infligée au prévenu. Par conséquent,
+en application des art. 8 al. 2 let. b et 319 al. 1 let. e CPP [Code de procédure pénale suisse
+du 5 octobre 2007 ; RS 312.0], un classement doit également être prononcé sur ce point
+de l'instruction. »
+b)
+Par
+ordonnance rectificative du 10 décembre 2015, le Ministère public de l'arrondissement de Lausanne
+a corrigé l’ordonnance de classement rendue le 26 novembre 2015 en ordonnant le maintien au
+dossier des pièces à conviction (I), a confirmé cette décision pour le surplus (II)
+et a dit que le prononcé rectificatif était rendu sans frais (III).
+C.
+a)
+Par acte du 14 décembre 2015, X.________
+a recouru contre cette ordonnance, contestant en particulier le classement des cas n° 2 et 10 et
+s’en remettant à justice pour les autres faits.
+Il a principalement conclu, avec suite de frais et dépens, à la réforme de l’ordonnance
+en ce sens que L.________ soit reconnu coupable d’injure et de dommages à la propriété,
+condamné à une peine fixée à dire de justice et reconnu son débiteur, lui devant
+immédiatement paiement d’un montant de
+2'423
+fr. 50 à titre de réparation du dommage. Subsidiairement, il a conclu à l’annulation
+de l’ordonnance attaquée et au renvoi de la cause au Ministère public pour nouvelle décision
+dans le sens des considérants.
+b)
+Par courrier du 15 février 2015, le Ministère public a indiqué qu’il renonçait
+à déposer des déterminations. L.________ ne s’est pas manifesté dans le délai
+qui lui avait été imparti pour se déterminer.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui, dans le canton de Vaud, est la
+Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction
+du Code de procédure pénale suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire; RSV 173.01]).
+En l'espèce, interjeté en temps utile, devant l’autorité compétente, par la
+partie plaignante, qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant aux conditions
+de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+Le recourant conteste le classement de la procédure
+rendu en application des art. 319 al. 1 let. e CPP et 8 al. 2 let. b CPP s’agissant des dommages
+causés par le prévenu sur sa voiture (lettre A, cas n° 10 ci-dessus).
+2.1
+Aux termes de l’art. 319 al. 1 let. e CPP,
+le ministère public ordonne le classement de tout ou partie de la procédure lorsqu’on
+peut renoncer à toute poursuite ou à toute sanction en vertu de dispositions légales.
+En vertu de l'art. 8 al. 2 let. b CPP, le ministère
+public renonce à engager une poursuite pénale si aucun intérêt prépondérant
+de la partie plaignante ne s'y oppose et que la peine qui devrait être prononcée en complément
+d'une peine entrée en force serait vraisemblablement insignifiante.
+Par intérêt de la partie plaignante, on entend notamment celui qu'elle a à ce que ses
+prétentions civiles, ou encore, dans les cas particulièrement graves, à ce que sa plainte
+pénale soit traitée (Message relatif à l'unification du droit de la procédure pénale
+du 21 décembre 2005, FF 2006 1107 ad art. 8). Les prétentions civiles constituent ainsi typiquement
+un intérêt de la partie plaignante à la poursuite pénale. L'intérêt public
+au classement l'emporte cependant lorsque, dans un cas « bagatelle » sur le plan pénal,
+le caractère minime de l'intérêt privé à la poursuite est patent (TF 6B_431/2013
+du 18 décembre 2013 consid. 3.1 ; TF 6B_282/2013 du 10 mai 2013 consid. 3.4 et les références
+citées).
+2.2
+En l’espèce, le Ministère public
+a retenu dans son ordonnance que le prévenu avait endommagé la voiture du plaignant. Toutefois,
+il a relevé que la peine qu’il conviendrait de prononcer était entièrement additionnelle
+à la condamnation prononcée le 8 mai 2015 par le Tribunal correctionnel de l'arrondissement
+de Lausanne et que si cette autorité avait également eu à juger des dommages à la
+propriété commis sur la voiture Alfa Romeo le 25 novembre 2013, la peine prononcée par
+cette autorité n'aurait vraisemblablement pas été plus importante.
+En premier lieu, il convient de constater qu’il
+ressort du dossier qu’en cours de procédure, X.________ a fait valoir des prétentions
+civiles en réparation des dommages causés par le prévenu à sa voiture, qu’il
+a chiffrés à 2'423 fr. 50
+(P.
+48). Au vu de ces conclusions civiles, le Ministère public aurait dû constater l'existence
+d'un intérêt prépondérant de la partie plaignante, ce qui excluait la possibilité
+de classer de la procédure sur la base de l'art. 8 al. 2 let. b CPP. C'est donc en violation de
+cette disposition que l'ordonnance de classement a été rendue. Le recours doit ainsi être
+admis sur ce point et le dossier de la cause renvoyé au Ministère public.
+Par surabondance, la Cour de céans ne partage pas l’avis du Ministère public selon laquelle
+la peine prononcée le 8 mai 2015 n'aurait vraisemblablement pas été plus importante si
+le Tribunal correctionnel de l'arrondissement de Lausanne avait également eu à juger des dommages
+à la propriété commis sur la voiture Alfa Romeo le 25 novembre 2013. En effet, la condamnation
+du 8 mai 2015 réprime des infractions différentes. Les dommages à la propriété
+représentent dès lors une nouvelle infraction qui entre en concours avec celles retenues dans
+le jugement du 8 mai 2015. Au surplus, les faits ne sont pas de peu de gravité en ce sens que le
+prévenu n’a pas hésité à « heurter à plusieurs reprises »
+le véhicule du recourant, ne pouvant ignorer les dégâts qu’il s’exposait à
+commettre. Il a au surplus nié les faits durant toute l’instruction. Enfin, si ces faits devaient
+être jugés à eux seuls, ils conduiraient immanquablement à une condamnation du prévenu.
+Il serait dès lors choquant que le fait que L.________ ait déjà fait l’objet d’une
+condamnation pour d’autres motifs lui permette d’échapper à une nouvelle condamnation.
+Pour ce motif également, le recours doit être admis.
+3.
+Le
+recourant conteste également le classement de la procédure en ce qui concerne les injures qui
+auraient été proférées par le prévenu entre le 29 octobre 2013 et le 10 décembre
+2013 (lettre A, cas n° 2 ci-dessus).
+3.1
+Selon l'art. 319 al. 1 CPP, le Ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. 1255).
+Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance confinant
+à la certitude. La possibilité de classer la procédure ne saurait toutefois être
+limitée à ce seul cas, car une interprétation aussi restrictive imposerait un renvoi en
+jugement, même en présence d'une très faible probabilité de condamnation (ATF 138
+IV 86 consid. 4.1.1; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe in dubio pro duriore
+exige donc simplement qu'en cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation
+s'impose lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement (ATF 137 IV 219
+consid. 7; ATF 138 IV 86 consid. 4.1.1; ATF 138 IV 186 consid. 4.1; TF 1B_272/2011 du 22 mars 2012 consid.
+3.1.1).
+3.2
+Aux termes de l’art. 177 CP, se rend coupable
+d’injure celui qui aura, par la parole, l’écriture, l’image, le geste ou par des
+voies de fait, attaqué autrui dans son honneur (al. 1). Le juge pourra exempter le délinquant
+de toute peine si l’injurié a directement provoqué l’injure par une conduite répréhensible
+(al. 2). Si l’injurié a riposté immédiatement par une injure ou par des voies de
+fait, le juge pourra exempter de toute peine les deux délinquants ou l’un d’eux (al.
+3).
+L’honneur que protège l’art. 177 CP est le sentiment et la réputation d’être
+une personne honnête et respectable, c'est-à-dire le droit de ne pas être méprisé
+en tant qu’être humain ou entité juridique (ATF 132 IV 112 consid. 2.1 p. 115; ATF 128
+IV 53 consid. 1a p. 58).
+Selon la jurisprudence, l’art. 177 al. 2 CP s'applique lorsque l'injure consiste en une réaction
+immédiate à un comportement répréhensible qui a provoqué chez l'auteur un sentiment
+de révolte. Il peut s'agir d'une provocation ou d'un autre comportement blâmable. Celui-ci
+ne doit pas nécessairement viser l'auteur de l'injure; une conduite grossière en public peut
+suffire (ATF 117 IV 270 consid. 2c ; ATF 83 IV 151). La notion d'immédiateté doit être
+comprise comme une notion de temps dans le sens que l'auteur doit avoir agi sous le coup de l'émotion
+provoquée par la conduite répréhensible de l'injurié, sans avoir eu le temps de réfléchir
+tranquillement (ATF 83 IV 151).
+3.3
+En l’espèce, le recourant a dénoncé
+des injures verbales, mais il a également produit des copies de plusieurs courriels échangés
+avec L.________ (cf. notamment P. 4/3). En particulier, il ressort de ce document que, dans un courriel
+du 25 novembre 2013, le prévenu a notamment traité le recourant de « p’tit
+con », de « grosse merde » et d’ « immense trou du
+cul ». Ces termes n’ont pas été repris dans l’ordonnance de classement
+du 26 novembre 2015, alors qu’ils constituent assurément des injures au sens de l’art.
+177 CP. Au surplus, le document produit comprend également le texte envoyé par le recourant
+deux heures avant, dans lequel on ne décèle aucune injure. Ainsi, on ne saurait retenir que
+les injures proférées par L.________ – à tout le moins dans ce courriel –
+l’ont été en réaction immédiate à un comportement répréhensible
+de X.________. Le prévenu pourrait donc s’être rendu coupable d’injure, sans qu’il
+puisse se prévaloir d’une preuve libératoire ou d’un fait justificatif. Le recours
+doit donc être admis sur ce point également.
+4.
+Pour
+le surplus, le recourant s’en est remis à justice s’agissant des autres faits reprochés
+au prévenu. La  décision du Procureur ne prêtant pas le flanc à la critique
+s’agissant du classement des faits décrits sous chiffres 1, 3, 4, 5, 6, 7, 8 et 9 de l’ordonnance
+de classement du 26 novembre 2015, celle-ci doit être confirmée sur ces points.
+5.
+En définitive, le recours doit être
+admis. Le chiffre II du dispositif de l'ordonnance attaquée sera annulé en tant qu’il
+ordonne le classement des faits décrits sous chiffres 2 et 10 de cette ordonnance et confirmé
+pour le surplus. Le chiffre III du dispositif de l’ordonnance attaquée sera également
+annulé, le dossier de la cause étant renvoyé au Ministère public de l'arrondissement
+de Lausanne pour nouvelle décision dans le sens des considérants (cf. consid. 2 et 3 supra).
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1’100 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]), et des frais imputables à l’assistance
+judiciaire gratuite pour la partie plaignante, fixés à 1'080 fr., plus la TVA, par 86 fr. 40,
+soit un total de 1’166 fr. 40, seront laissés à la charge de l’Etat (art. 423 al.
+1 CPP).
+S’agissant des dépens réclamés par le recourant, il appartiendra à ce dernier
+d’adresser à la fin de la procédure ses prétentions à l’autorité
+pénale compétente selon l’art. 433 al. 2 CPP (CREP 16 avril 2013/279 consid. 4 et les
+références citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le chiffre II du dispositif de l’ordonnance du 26 novembre 2015 est annulé en tant qu’il
+ordonne le classement des faits décrits sous chiffres 2 et 10 ; il est confirmée pour
+le surplus.
+III.
+Le chiffre III de l’ordonnance du 26 novembre
+2015 est annulé.
+IV.
+Le dossier de la cause est renvoyé au Ministère
+public de l'arrondissement de Lausanne pour nouvelle décision dans le sens des considérants.
+V.
+L’indemnité allouée à Me Rolf Ditesheim, conseil juridique gratuit de X.________,
+est fixée à 1’166 fr. 40 (mille cent soixante-six francs et soixante centimes).
+VI.
+Les frais d’arrêt, par 1’100
+fr. (mille cent francs), ainsi que l’indemnité allouée au conseil juridique gratuit de
+X.________, par 1’166 fr. 40 (mille cent soixante-six francs et soixante centimes), sont laissés
+à la charge
+de l’Etat.
+VII.
+Le
+présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Rolf Ditesheim, avocat (pour X.________),
+-
+M. L.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
