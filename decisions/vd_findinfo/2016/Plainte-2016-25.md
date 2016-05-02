@@ -1,0 +1,310 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 25"
+decided: "2016-05-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5582654"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-132.md", "switzerland/bund/acts/281.41/art-009.md", "switzerland/bund/acts/281.41/art-010.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 25
+
+## Regeste
+
+OPC, RÉALISATION{LP}, PART DE COMMUNAUTÉ, COMMUNAUTÉ HÉRÉDITAIRE, FIN, LIQUIDATION{EN GÉNÉRAL} | 132 LP, 18 al. 1 LP, 10 OPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.05.2016 Plainte / 2016 / 25
+
+OPC, RÉALISATION{LP}, PART DE COMMUNAUTÉ, COMMUNAUTÉ HÉRÉDITAIRE, FIN, LIQUIDATION{EN GÉNÉRAL} | 132 LP, 18 al. 1 LP, 10 OPC
+
+TRIBUNAL
+CANTONAL
+FA15.045771-160028
+23
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 mai 2016
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 132 LP ; 10 OPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+P.________SA
+,
+à Berne, contre la décision rendue le 16
+décembre
+2015, à la suite de l’audience du 3 décembre 2015, par la Présidente du Tribunal
+d’arrondissement de Lausanne, autorité inférieure de surveillance, statuant sur la requête
+en fixation du mode de réalisation de parts de communauté déposée le 16 octobre 2015
+par l’
+Office
+des poursuites du district de Lausanne
+, tendant
+à la réalisation des droits saisis de
+A.K.________
+,
+à Lausanne, dans la succession de feu
+B.K.________
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+B.K.________ est décédé le 12
+janvier 2013, laissant pour seuls héritiers légaux et institués son épouse, C.K.________,
+et ses trois enfants majeurs, A.K.________, D.K.________, et E.K.________. Les héritiers forment
+une communauté héréditaire, la succession n'étant pas partagée. P.________SA
+est exécuteur testamentaire.
+La masse successorale est composée notamment de deux parts de copropriété à raison
+d’une demie de deux appartements en PPE à [...], actuellement occupés par C.K.________,
+et d’avoirs sous forme de comptes et dépôts-actions auprès de P.________SA. Selon
+la déclaration d’impôt des époux B.K.________ et C.K.________ concernant l’année
+2012, leur fortune imposable au 31 décembre s’élevait à 815'344 francs. Les
+dernières estimations fiscales des deux parts de PPE, de 80'000 fr. et 86'000 fr., respectivement,
+datent de 2002 et 2005. Les parts sont grevées d’une cédule hypothécaire de 75'000
+fr. en premier rang et d’une autre de 125'000 fr. en deuxième rang, nanties auprès du
+créancier P.________SA.
+Le testament de B.K.________ dispose que son épouse recevra un quart de ses biens en pleine propriété
+et jouira en sus de l’usufruit de trois quarts de ses biens, qui seront attribués à parts
+égales à leurs trois enfants.
+b)
+A.K.________
+fait l'objet de nombreuses poursuites au stade de la saisie, pour un montant total de 106'254 fr., plus
+accessoires légaux. Dans ce cadre, l’Office des poursuites du district de Lausanne (ci-après
+l'Office) a saisi les droits de la poursuivie dans la succession non partagée de son père,
+soit sa part de propriété en main commune de cette succession.
+Le 21 mai 2015, à la suite de diverses réquisitions de vente, l’Office a tenu une séance
+de conciliation au sens de l’art. 9 OPC [ordonnance du Tribunal fédéral concernant les
+saisies et la réalisation de parts de communauté; RS 281.41], à laquelle ont assisté
+l’exécuteur testamentaire et certains créanciers saisissants. Selon le procès-verbal
+de cette séance, adressé aux parties le 31 août 2015, le président de la séance
+a constaté que tous les intéressés n’étaient pas présents ou représentés,
+plusieurs créanciers saisissants étant absents, de même que la débitrice et tous
+les autres membres de la communauté héréditaire, de sorte que la conciliation ne pouvait
+pas être valablement tentée. En application de l’art. 10 OPC, un délai de dix jours
+a été fixé aux intéressés pour soumettre à l’Office des propositions
+en vue des mesures ultérieures de réalisation. Par la suite, ce délai a été
+prolongé au 30 septembre 2015.
+Par lettre du 23 septembre 2015, l’exécuteur testamentaire a informé l’Office qu’une
+« solution en famille a[vait] été trouvée » et qu’à titre
+de « liquidation de la succession », le cohéritier D.K.________ verserait à
+l’Office la somme (acompte) de 60'000 fr., jusqu’au 30 septembre 2015. Par le même courrier,
+l’exécuteur a transmis à l’Office « le premier projet de l’inventaire
+successoral », du 22 septembre 2015, en précisant qu’il allait être établi
+définitivement par un notaire « dans les prochains jours ». Selon ce document,
+l’actif brut successoral est de 463'911 fr. 83, comprenant la moitié des deux parts de PPE
+estimées à 132'800 fr., soit 66'400 fr., et des titres et liquidités de 397'511 fr. 83 ;
+le passif matrimonial du défunt est constitué de la moitié de la dette hypothécaire
+(dette d’acquêt), soit de 100'000 fr., et le passif successoral est estimé à 19'030
+fr., dont 15'030 fr. de provision pour honoraires et débours de l’exécuteur testamentaire.
+c)
+Le 16 octobre 2015, l’Office a transmis le dossier à la Présidente du Tribunal d’arrondissement
+de Lausanne, en sa qualité d'autorité inférieure de surveillance, en requérant la
+fixation du mode de réalisation des droits saisis. Il a indiqué avoir encaissé le montant
+de 60'000 fr. le 14 octobre précédent, mais ignorer s’il correspondait à une avance
+sur la liquidation de la succession ou au rachat de la part revenant à la débitrice A.K.________,
+de sorte qu’il n’avait pas distribué cette somme aux créanciers. Il a conclu à
+ce que la liquidation de la communauté héréditaire soit ordonnée conformément
+à l’art. 10 al. 2 OPC, à ce qu’il soit autorisé à prélever ses frais
+sur le produit de liquidation avant répartition et à ce que la part de A.K.________ soit répartie
+parmi les créanciers, un solde éventuel revenant à la débitrice.
+Le 30 octobre 2015, la présidente du tribunal a convoqué toutes les parties intéressées
+à son audience du 3 décembre 2015. Le pli contenant la citation à comparaître destiné
+à la débitrice est revenu à son expéditeur avec la mention « non réclamé »
+et a été renvoyé à sa destinataire, le 24 novembre 2015, en courrier prioritaire.
+Le 26 novembre 2015, P.________SA a produit une « détermination écrite »
+consistant en la production de trois pièces, savoir sa lettre à l’Office du 23 septembre
+2015, le projet d’inventaire successoral du 22 septembre 2015 et deux exemplaires du certificat
+d’héritiers du 5 novembre 2013, en copies, dont celui transmis au Registre foncier de Nyon.
+2.
+L’audience du 3 décembre 2015 a eu lieu en présence de deux représentants de l’Office
+et des représentants de quatre créanciers. Ni la débitrice, ni les autres héritiers,
+ni l’exécuteur testamentaire ne se sont présentés ou fait représenter. Tous
+les comparants ont adhéré à la proposition formulée par l’Office dans les conclusions
+de sa requête du 16 octobre 2015.
+Par décision du 16 décembre 2015, rendue sans frais, la Présidente du Tribunal d’arrondissement
+de Lausanne, autorité inférieure de surveillance, a prononcé la dissolution et ordonné
+la liquidation de la communauté héréditaire de feu B.K.________, et a autorisé l’Office
+à prélever ses frais sur le produit de liquidation avant distribution aux ayants droit et,
+« une fois la vente effectuée », à procéder à la répartition
+de la part revenant à A.K.________ aux créanciers saisissants, un solde éventuel devant
+être versé à la débitrice.
+En résumé, l’autorité précédente a considéré qu’une vente
+aux enchères était exclue, dès lors que la valeur de la part de la poursuivie ne pouvait
+être déterminée, même approximativement, et qu’il serait prématuré
+d’ordonner une expertise pour déterminer la valeur des immeubles. Elle a souligné en
+outre que ni la débitrice intimée, ni les autres membres de la communauté héréditaire,
+ni l’exécuteur testamentaire n’avaient formulé de propositions.
+3.
+Par acte daté du 21 et déposé le 22 décembre 2015, P.________SA a recouru contre
+cette décision, concluant implicitement à ce que la liquidation ne soit pas ordonnée.
+L’Office s’est déterminé le 22 janvier 2016, dans le délai qui lui avait été
+imparti pour ce faire, préavisant pour le rejet du recours.
+La recourante a déposé une écriture supplémentaire le 27 janvier 2016, accompagnée
+d’actes de procédure et de pièces figurant déjà au dossier.
+Les autres intervenants ne se sont pas déterminés, à l’exception de [...] SA, qui
+a déclaré s’en remettre à justice.
+Le 15 mars 2016, la recourante a déposé une nouvelle écriture, datée du 11 mars 2016.
+L’Office s’est déterminé sur cette écriture le 23 mars 2016. La recourante
+a encore envoyé une lettre à la cour de céans le 15 avril 2016.
+En droit :
+I.
+Formé contre une décision de l'autorité inférieure de surveillance prise en application
+de l'art. 132 LP [loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1], le recours
+a été déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d'application
+de la LP; RSV 280.05]) et comporte des conclusions et l'énoncé de moyens invoqués (art.
+28 al. 3 LVLP), de sorte qu'il est recevable.
+Les déterminations de l’Office sont également recevables (art. 31 al. 1 LVLP).
+L’écriture de la recourante du 27 janvier 2016 peut être considérée comme une
+réplique spontanée aux déterminations de l’Office, recevable (ATF 138 I 154 ;
+CPF, 8 avril 2016/17 et les références citées).
+En revanche, l’écriture supplémentaire de la recourante du 11 mars 2016 ne constitue
+pas une détermination sur une prise de position d’une autre partie postérieure à
+sa dernière écriture. Elle est par conséquent irrecevable, de même que les écritures
+subséquentes de l’Office et de la recourante.
+II.
+a)
+Lorsqu'il s'agit de réaliser une part
+de communauté, il appartient à l'autorité de surveillance de fixer le mode de réalisation
+(art. 132 al. 1 LP). Après avoir consulté les intéressés, l'autorité peut ordonner
+la vente aux enchères, confier la réalisation à un gérant ou prendre toute autre
+mesure (art. 132 al. 3 LP). L'OPC prévoit toutefois des mesures plus précises qui restreignent
+le pouvoir attribué à l'autorité de surveillance par l'art. 132 al. 3 LP (ATF 96 III 10
+consid. 2). Ainsi, en vertu de l'art. 10 al. 2 OPC, l'autorité de surveillance doit décider,
+en tenant compte autant que possible des propositions des intéressés, si la part de communauté
+saisie doit être vendue aux enchères comme telle ou s'il y a lieu de procéder à la
+dissolution de la communauté et à la liquidation du patrimoine commun conformément aux
+dispositions qui régissent la communauté dont il s'agit. Dans la règle, la vente aux enchères
+ne doit être ordonnée que si la valeur de la part saisie peut être déterminée
+approximativement au moyen des renseignements obtenus lors de la saisie ou au cours des pourparlers amiables
+(art. 10 al. 3 OPC). Le choix entre les deux modes de réalisation relève de l'opportunité
+(ATF 135 III 179 ; 96 III 10 consid. 2 précité). L’avis émis le cas échéant
+par les membres d’une communauté quant au mode de réalisation ne lie pas l’autorité
+de surveillance (Peter, Edition annotée de la loi fédérale sur la poursuite pour dettes
+et la faillite, Berne 2010,
+ad
+art. 132 LP, p. 663).
+Le rôle de l’autorité de surveillance, dans le cadre d’une procédure de fixation
+du mode de réalisation d'une part de communauté se limite au choix de ce mode; si elle ordonne
+la dissolution et la liquidation d'une hoirie, c’est à l’office des poursuites qu’il
+appartient ensuite de requérir le partage auprès du juge compétent (JdT 2003 II 69 consid. 2c ;
+CPF, 3 avril 2014/12). Ce sera également à l’Office de requérir des créanciers,
+conformément à l’art. 10 al. 4 OPC, l’avance des frais, après que ceux-ci
+lui auront été demandés par le juge du partage (JdT précité, consid. 2e ;
+CPF, 3 avril 2014/12). Cette solution avait déjà été jugée conforme au droit
+fédéral par le Tribunal fédéral (arrêt du TF 7B.76/2002 du 1
+er
+juillet 2002).
+b)
+En l’espèce, si l’on se réfère au projet d’inventaire successoral établi
+par un notaire, l’actif net successoral s’élève à (463'911 fr. 83 –
+119'030 fr. =) 344'881 fr. 83 et la part de A.K.________ au minimum à 86'220 fr. 45. Ce montant
+ne tient toutefois pas compte de la valeur de l’usufruit de C.K.________. D’un autre côté,
+l’actif successoral est composé de la moitié de chaque part de PPE, dont la valeur retenue
+dans le projet d’inventaire, correspondant à 80% des estimations fiscales qui datent d’une
+dizaine d’années, est excessivement basse. Si l’on admettait, par hypothèse, que
+la valeur de la nue-propriété des deux appartements est, respectivement, de 200'000 fr. et
+215'000 fr., soit 415'000 fr., dont la moitié revient dans l’actif successoral, le montant
+de l’actif net serait porté à 485'981 fr. 83 et la part de l’intimée à
+121'495 fr. 45.
+Le montant total des dettes de l’intimée retenu dans la décision attaquée est de
+106'500 fr. plus accessoires légaux. Selon toutes apparences, la part de l’intimée dans
+la succession dépasse ce montant. Il faut toutefois prendre en compte que cette part, telle qu’elle
+a été déterminée ci-dessus, comprend une part de nue-propriété d’un
+quart de deux appartements grevés d’un usufruit. Une telle part serait dès lors très
+difficilement vendable, en tout cas pour un prix correct, de sorte qu’une vente aux enchères
+paraît effectivement inopportune. Pour ce motif, la décision de l’autorité précédente
+doit en définitive être confirmée.
+La recourante a indiqué que la succession était disposée à verser l’équivalent
+de la part de A.K.________, par 86'220 fr. 45, afin de clore le litige. Toutefois, comme on vient de
+le voir, la valeur de cette part, que l’on n’arrive pas à déterminer, dépasse
+certainement ce montant et même, très probablement, les montants en poursuite. Si, réellement,
+la succession entend clore le litige sans qu’il soit suivi à la procédure de réalisation,
+il lui appartiendra de verser l’entier des montants en poursuite.
+III.
+Vu ce qui précède, le recours doit être rejeté et le prononcé de l'autorité
+précédente confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+P.________SA,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne,
+‑
+Mme A.K.________,
+‑
+Mme C.K.________,
+‑
+M. D.K.________,
+‑
+M. E.K.________,
+‑
+Administration cantonale des impôts,
+‑
+[...] SA,
+‑
+[...] Caisse-maladie,
+‑
+[...] SA,
+‑
+Office d’impôt des districts de Lausanne et Ouest lausannois (pour l’Etat de Vaud et
+la Confédération suisse),
+‑
+Etat de Vaud, DIS, Service juridique et législatif, Recouvrement et assistance judiciaire,
+‑
+M. Thierry Zumbach, agent d’affaires breveté (pour [...]),
+‑
+[...] SA,
+‑
+[...] AG,
+‑
+Ville de Lausanne, Service financier - contentieux.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
