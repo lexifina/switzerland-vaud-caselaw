@@ -1,0 +1,410 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2016___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2016 / 4"
+decided: "2016-05-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5637930"
+cites_law: ["switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-220.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2016 / 4
+
+## Regeste
+
+DÉCISION INCIDENTE, MODIFICATION DES CIRCONSTANCES, NOUVEAU MOYEN DE FAIT | 153 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 04.05.2016 Jug-inc / 2016 / 4
+
+DÉCISION INCIDENTE, MODIFICATION DES CIRCONSTANCES, NOUVEAU MOYEN DE FAIT | 153 CPC
+
+TRIBUNAL
+CANTONAL
+CT06.009056
+17/2016/DCA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+Y.________
+,
+à Lausanne, d'avec
+U.________SA
+(anciennement [...]), à Plan-les-Ouates.
+___________________________________________________________________
+Du
+4 mai 2016
+_____________
+Composition
+:               Mme
+Carlsson
+,
+juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès ouvert devant le Tribunal d’arrondissement
+de Lausanne par le demandeur Y.________, contre la défenderesse U.________SA, anciennement [...],
+selon demande du 27 mars 2006, dont les conclusions, avec dépens, sont les suivantes :
+«
+I
+U.________SA est la débitrice de Y.________ et lui doit immédiat paiement de la somme de 100'000
+fr., avec intérêt à 5% l’an dès le 30 octobre 2005, sous déduction
+de la part de charges sociales dues légalement.
+II
+L’opposition au commandement de payer n° 05 [...] R de l’Office des poursuites
+de [...] est définitivement levée à due concurrence. »,
+vu la réponse déposée le 16 juin 2006 par la défenderesse, qui a conclu, avec suite
+de frais et dépens, au rejet des conclusions prises par le demandeur et a pris la conclusion reconventionnelle
+suivante :
+« Y.________ est le débiteur de U.________SA et lui doit immédiat paiement de la
+somme de fr. 175'000.- (…) avec intérêt à 5% l’an dès le 23 juillet 2005. »
+vu le jugement incident du 12 juillet 2006, admettant la requête de déclinatoire déposée
+le 16 juin 2006 par la défenderesse et reportant la cause, dans l’état où elle se
+trouvait, devant la Cour civile du Tribunal cantonal,
+vu la réplique déposée le 11 octobre 2006 par le demandeur, qui a pris les conclusions
+suivantes, avec dépens :
+« I.
+[...]
+est la débitrice de Y.________ et lui doit immédiat paiement de la somme de 146'787 fr. 30
+(…), avec intérêts à 5% l’an dès le 30 octobre 2005, sous déduction
+de la part des charges sociales dues légalement.
+II.              L’opposition
+au commandement de payer n° 05 [...] R de l’Office des poursuites de [...] est définitivement
+levée à due concurrence.
+III.              [...] est la débitrice
+de Y.________ et lui doit immédiat paiement de la somme de Fr. 50'000 fr. (…), avec intérêts
+à 7% l’an, dès le 1
+er
+janvier 2005.
+IV.              L’opposition
+au commandement de payer n° 06 [...] K de l’Office des poursuites de [...] est définitivement
+levée à due concurrence. »
+vu la duplique du 15 décembre 2006 par laquelle la défenderesse a conclu, avec suite de frais
+et dépens, au rejet des conclusions prises dans la réplique,
+vu les opérations d’instruction accomplies, en particulier l’audition de dix témoins
+et le rapport d’expertise déposé le 27 août 2008 par l’expert [...],
+vu la décision du juge instructeur du 21 janvier 2009, ratifiant la convention de réforme
+conclue par les parties et impartissant à la défenderesse un délai non prolongeable au
+29 janvier 2009 pour déposer une écriture complémentaire contenant les allégués
+nouveaux 215 à 304, avec les offres de preuve indiquées,
+vu l’échange d’écritures complémentaire après réforme et les opérations
+d’instruction accomplies, en particulier l’audition de six témoins,
+vu le jugement incident du 5 février 2010, admettant la requête en suspension de cause déposée
+par la défenderesse et suspendant le procès jusqu’à droit connu sur l’ordonnance
+de clôture définitive de l’enquête instruite par le Juge d’instruction de
+l’arrondissement de Lausanne à la suite de la plainte pénale déposée par la
+défenderesse à l’encontre de [...],
+vu la reprise de cause ordonnée le 10 septembre 2015 par le juge instructeur,
+vu l’avis du 23 septembre 2015, par lequel le juge instructeur a imparti aux parties un délai
+au 15 décembre 2015, ultérieurement prolongé au 15 janvier 2016, pour déposer un
+mémoire de droit au sens de l’art. 317a CPC-VD (Code de procédure civile vaudoise du
+14 décembre 1966, dans sa version au 31 décembre 2010; RSV 270.1),
+vu la requête de réforme déposée le 15 janvier 2016 par la défenderesse, qui
+a conclu, avec suite de frais et dépens, à l’admission de sa requête et à l’autorisation
+d’introduire les allégués nouveaux 387 à 498, ainsi que les offres de preuve y relatives,
+vu l’avis du 23 février 2006 par lequel le juge instructeur a notifié la requête
+de réforme au demandeur et intimé Y.________, lui impartissant un délai au 14 mars 2016
+pour faire la déclaration prévue par l’art. 148 CPC-VD ou indiquer les mesures d’instruction
+demandées, cet avis valant interpellation au sens de l’art. 149 al. 4 CPC-VD pour toutes
+les parties,
+vu la lettre du 1
+er
+mars 2006, par laquelle la requérante a déclaré accepter que l’audience incidente
+soit remplacée par un échange d’écritures,
+vu le courrier du 8 mars 2006, par lequel l’intimé a déclaré s’opposer à
+une partie de la réforme demandée et a accepté que l’audience incidente soit remplacée
+par un échange d’écritures,
+vu l’avis du juge instructeur du 10 mars 2016, impartissant à la requérante et à
+l’intimé un délai au 11 avril, respectivement au 26 avril 2016 pour déposer un mémoire
+incident et les informant qu’à l’échéance de ce dernier délai, il serait
+statué sans plus ample instruction, en application de l’art. 149 al. 4 CPC-VD,
+vu la lettre de la requérante du 11 avril 2016, qui a renoncé à déposer un mémoire
+incident,
+vu le mémoire incident déposé le 26 avril 2016 par l’intimé, qui a conclu à
+l’admission de la réforme, moyennant le paiement de dépens frustraires, pour les allégués
+387 à 405, 421 à 431 et 498 ainsi que, éventuellement, pour les allégués 450
+à 455 (cf. mémoire incident p. 4, dont il ressort que la conclusion I mentionnant
+les allégués 450
+et
+455 comprend manifestement une erreur de rédaction), et au rejet de la requête de réforme
+pour le surplus, dans la mesure de sa recevabilité,
+vu les pièces au dossier,
+vu les art. 19, 144 ss, 153 ss, 220, 317a et 317b CPC-VD ainsi que 404 al. 1 CPC (Code de procédure
+civile suisse du 19 décembre 2008; RS 272);
+attendu
+qu'à teneur de l'art. 404 al. 1 CPC, les procédures pendantes avant l'entrée en vigueur
+du nouveau droit demeurent régies par l'ancien droit de procédure cantonal jusqu'à la
+clôture de l'instance,
+que
+le jugement incident rendu dans le cadre d'une procédure au fond soumise à l'ancien droit de
+procédure cantonal est également régi par cet ancien droit (CREC II 20 juillet 2011/66
+consid. 1a; Haldy, La nouvelle procédure civile suisse, p. 3, n. 7; Tappy, Le droit transitoire
+applicable lors de l'introduction de la nouvelle procédure civile unifiée,
+in
+JdT 2010 III 11, spéc. pp. 36 à 38),
+que
+la procédure au fond était en cours lors de l'entrée en vigueur du CPC le 1
+er
+janvier 2011, de sorte qu’elle
+demeure donc régie par l'ancien droit de
+procédure, soit notamment le CPC-VD,
+qu'il en va de même de la présente procédure incidente;
+attendu qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un
+délai, corriger ou compléter sa procédure, peut, jusqu'à l'expiration du délai
+fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+que la demande de réforme doit indiquer les motifs et l'étendue de la réforme requise
+(art. 154 al. 1 CPC-VD),
+qu'en d'autres termes, la partie qui sollicite la réforme doit préciser dans sa requête
+les opérations nouvelles qu'elle se propose de faire dans le délai dont elle demande la restitution
+et les points sur lesquels elle entend corriger ou compléter sa procédure, en particulier les
+faits qu'elle veut alléguer et les preuves qu'elle entend administrer (Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+e
+éd., n. 1 ad art. 154 CPC-VD),
+qu'en l'espèce, la requête de réforme a été déposée dans le délai
+fixé pour le dépôt des mémoires de droit,
+que les motifs et l'étendue de la réforme sollicitée résultent de la requête,
+conformément à l'art. 154 al. 1 CPC-VD,
+que celle-ci est au surplus conforme aux exigences des art. 19 et 147 al. 1 CPC-VD, applicables
+en vertu de l'art. 154 al. 2 CPC-VD,
+qu'elle est dès lors recevable en la forme;
+attendu que la réforme n'est accordée que si la partie requérante y a un intérêt
+réel et si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et
+3 CPC-VD),
+que la partie requérante doit établir d'une part, son intérêt réel à la
+preuve des faits allégués, c'est-à-dire leur pertinence, et d'autre part, son intérêt
+réel à l'administration des preuves offertes, c'est-à-dire l'utilité que présente
+la preuve offerte pour établir les faits allégués (JdT 1988 III 70 consid. 4),
+que l'intérêt réel doit être apprécié au regard de l'ensemble des circonstances,
+notamment de la pertinence des faits allégués, de leur vraisemblance, de la force et de l'utilité
+des preuves offertes, ainsi que de la durée probable de la procédure probatoire consécutive
+à la réforme (JdT 2002 III 190 et les réf. cit.; Poudret/Haldy/Tappy, op. cit., n. 7 ad
+art. 153 CPC-VD),
+que la réforme doit être refusée
+lorsque les faits qui font l'objet de la requête sont dénués de pertinence ou ont déjà
+été allégués sous une autre forme en procédure (JdT 2003 III 114 consid. 4;
+Poudret/Haldy/Tappy, loc. cit.),
+que la pertinence des faits allégués
+(art. 163 al. 2 CPC-VD) et la nécessité des preuves offertes (art. 5 al. 2 CPC-VD) doivent
+être appréciées plus strictement que dans l'ordonnance sur preuves (JdT 1988 III 70 consid.
+4),
+qu’en particulier, l'expertise judiciaire
+est admise pour certifier une circonstance ou un état de fait, allégué avec précision,
+dont la vérification et l'appréciation exigent des connaissances spéciales, scientifiques,
+techniques ou professionnelles (art. 220 CPC-VD),
+que cela étant, le droit à la réforme
+n'est pas subordonné à l'absence de faute de la partie, car il a été précisément
+institué pour permettre au plaideur négligent de rattraper un délai ou rectifier une erreur,
+le jugement reposant ainsi sur un état de fait complet et autant que possible conforme à la
+réalité (BGC automne 1966, p. 719; Poudret/Haldy/Tappy, op. cit., n. 2 ad art. 153 CPC-VD);
+attendu qu’en l’espèce, l’intimé admet – et cela n’est pas contestable
+– que les conditions de la réforme sont remplies pour les allégués n° 387
+à 405 et 421 à 431, relatifs à une affaire pénale ouverte contre l’intimé,
+de sorte que la requête doit dans cette mesure être admise;
+attendu que dans le cadre du litige au fond, la requérante (et demanderesse reconventionnelle) reproche
+en substance à l’intimé – qui a été son administrateur– des actes
+selon elle constitutifs de concurrence déloyale, savoir en résumé de s’être
+substitué à elle dans les relations contractuelles avec la société [...] SA, dont
+elle était la sous-traitante (cf. all. 124-131), et d’avoir ce faisant été
+rémunéré à sa place,
+qu’à cet égard, l’expert [...] a confirmé dans son rapport du 27 août
+2008 que dans le cadre du projet [...], la requérante n’avait perçu de [...] SA, selon
+les termes d’un accord conclu avec cette société, que la somme de 65'517 fr. 50
+au lieu d’un montant facturé de 99'397 fr. 50, ce qui représente une différence
+de 33'880 fr. (cf. ad all. 128-130),
+que l’expert n’a en revanche pas pu confirmer que le montant de cette différence aurait
+bénéficié à l’intimé (cf. ad all. 131),
+que dans sa requête de réforme, la requérante entend introduire des nouveaux allégués
+se rapportant aux montants facturés par l’intimé à [...] SA (cf. all. 456-460
+et 463-467), et des montants qu’elle-même aurait pu obtenir en cas de continuation des relations
+contractuelles avec celle-ci (cf. all. 472-474),
+que ces allégués se rapportent ainsi aux montants dont l’intimé aurait selon elle
+bénéficié à sa place, savoir des faits sur lesquels l’expert judiciaire s’est
+déjà prononcé,
+qu’en outre, le fait que l’intimé aurait facturé ses prestations de sous-traitant
+à [...] SA à un tarif horaire supérieur à celui facturé par cette société
+n’apparaît pas pertinent pour déterminer un éventuel dommage subi par la requérante,
+que la requête doit donc être rejetée en tant qu’elle concerne les allégués
+456 à 460, 463 à 467 et 472 à 474;
+attendu que la requérante entend en outre introduire en procédure des allégués nouveaux
+selon lesquels elle a informé les autorités pénales des comportements qu’elle reproche
+à l’intimé (cf. all. 451 et 453-455), ce qui aurait conduit à l’ouverture
+d’une enquête pénale ouverte contre celui-ci (cf. all. 452) par la suite close
+par le prononcé d’une ordonnance de classement (cf. all. 450),
+qu’il s’agit de faits pertinents dans le cadre du présent procès, de sorte que
+la réforme doit dans cette mesure être autorisée;
+attendu qu’au vu de l’admission de l’allégué 450, la requérante n’a
+plus d’intérêt à introduire l’allégué 441 ayant également trait
+au prononcé de l’ordonnance de classement précitée,
+qu’en tant que les allégués 451 et 453 ss traitent des allégations de la requérante
+devant les autorités pénales, celle-ci n’a en en outre plus aucun intérêt à
+introduire les allégués 406 à 420, 432 à 440, 442 à 449, 461 et 462, qui relatent
+aussi sa version des faits tels qu’elle l’a développée dans quatre courriers
+aux autorités pénales des 7 mai et 6 octobre 2010, puis des 25 avril 2012 et
+22 avril 2013 (cf. pièces offertes n° 129, 134, 136 et 137),
+qu’en outre, les allégués 410
+bis
+,
+411
+bis
+,
+418
+bis
+et 419
+bis
+,
+434
+bis
+,
+435
+bis
+,
+436
+bis
+,
+437
+bis
+et 438
+bis
+,
+selon lesquels les écrits de la requérante seraient "exacts" à dire d’expert,
+tendent à qualifier les allégations de celle-ci dans le cadre de la procédure pénale,
+mais ne sont pas des allégués de fait pouvant faire l’objet d’une requête
+de réforme,
+qu’au demeurant, même si l’on devait admettre qu’il s’agit d’allégués
+de fait, l’expertise requise tend davantage à conduire une nouvelle enquête postérieure
+à l’instruction pénale, qu’à prouver des faits allégués précisément
+au moyen de connaissances spéciales ou techniques (cf. all. 220 CPC-VD),
+que la pertinence des allégués que la requérante offre de prouver par l’expertise
+doit ainsi être niée, en particulier à l’aune des exigences accrues dans le cadre
+de la réforme (art. 5 et 163 CPC-VD; JdT 1988 III 70 consid. 4 précité),
+qu’il s’ensuit le rejet de la requête dans la mesure où elle concerne les allégués
+406 à 420, 432 à 449
+bis
+,
+461 et 462;
+attendu qu’on autorisera en revanche l’introduction de l’allégué 477 se référant
+à la révocation du mandat de l’intimé en tant qu’administrateur de la requérante,
+de l’allégué 482 ayant trait à la publication de cette radiation dans la FOSC, et
+des allégués 493-495 et 497 se rapportant au licenciement de l’intimé, tous ces
+faits étant pertinents pour l’issue du litige;
+attendu que la requérante n’a dès lors plus d’intérêt à introduire
+l’allégué 481, qui recouvre l’allégué 477;
+attendu que la requérante entend encore se réformer pour compenser les "prétendues
+créances" de l’intimé à son encontre avec ses prétentions reconventionnelles
+(cf. allégué 498),
+que si la requérante a certes déjà invoqué la compensation dans le cadre de sa réponse
+(cf. all. 136), l’intimé a ensuite augmenté ses conclusions dans sa réplique,
+de sorte qu’une nouvelle invocation de cette exception est justifiée et que la réforme
+doit être admise également à cet égard;
+attendu qu’en revanche, l’allégué 496 a pour objet un fait déjà allégué
+par l’intimé (cf. all. 39), de sorte qu’il n’y a pas lieu d’autoriser
+la réforme à cet égard;
+attendu que les allégués 468 à 471 et 478 ne relèvent pas du fait, mais de l’appréciation,
+leur introduction en procédure ne pouvant par conséquent pas être admise;
+attendu que les allégués 475 et 576 (relatifs à une procédure parallèle ouverte
+par l’intimé contre un ancien administrateur de la requérante), 479 et 480 (ayant trait
+à la contestation par l’intimé de la révocation de son mandat d’administrateur)
+et 483-492 (relatifs à diverses procédures de poursuite ouvertes par le demandeur contre deux
+administrateurs de la requérante) sont sans pertinence pour l’issue du litige ici en cause,
+la requête devant dès lors être rejetée dans la mesure où elle les concerne;
+attendu qu’en définitive, la requête de réforme est admise en tant qu’elle
+concerne les allégués 387 à 405, 421 à 431, 450 à 455, 477, 482, 493 à
+495, 497 et 498,
+que
+la requérante disposera d’un délai de 20 jours dès la notification du présent
+jugement pour déposer une écriture contenant ces allégués et les offres de preuves
+y afférentes,
+qu’un
+délai sera ensuite fixé à l’intimé pour déposer des déterminations
+et alléguer d’éventuels faits connexes,
+que
+la requête de réforme doit pour le surplus être rejetée;
+attendu
+que l’intimé a droit à des dépens frustraires, à la charge de la requérante,
+qu’il convient de fixer à 1'500 francs;
+attendu
+que les frais de procédure incidente, arrêtés à 450 fr. (art. 170a
+al. 1 et 175 aTFJC [tarif des frais judiciaires en matière civile du 4 décembre 1984,
+en vigueur jusqu’au 31 décembre 2010], applicable en vertu de l’art. 99 al. 1
+TFJC [tarif des frais judiciaires civiles du 28 septembre 2010, en vigueur depuis le 1
+er
+janvier
+2011; RSV 270.11.5]), sont mis à la charge de la requérante,
+attendu
+que les dépens, qui comprennent principalement les frais de justice, les honoraires et les débours
+de l’avocat (art. 91 let. a et c CPC-VD), sont en principe alloués à la partie
+qui a obtenu l’adjudication de ses conclusions,
+qu’en
+matière de réforme, le juge statue librement sur l’adjudication des dépens de l’incident
+(art. 156 al. 3 CPC-VD),
+qu’en
+l’espèce, la requérante versera à l’intimé, qui a admis le principe de
+la réforme et l’introduction de la plupart des allégués pour lesquels celle-ci était
+bien fondée, des dépens de l’incident qu’il convient de fixer 1'500 fr. (art. 2
+al. 1 ch. 1 aTAv [tarif des honoraires d’avocat dus à titre de dépens du 17 juin
+1986, en vigueur jusqu’au 31 décembre 2010; RSV 177.11.3], applicable en vertu de l’art. 26
+al. 2 TDC [tarif des dépens en matière civile du 23 novembre 2010, en vigueur depuis
+le 1
+er
+juillet
+2011; RSV 270-11-6]).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 15 janvier 2016 par la requérante U.________SA
+est partiellement admise.
+II.
+La requérante est autorisée à se réformer à la veille du délai de duplique
+et à déposer, dans un délai de
+20
+jours
+dès la notification du présent jugement incident, une écriture contenant les allégués
+387 à 405, 421 à 431, 450 à 455, 477, 482, 493 à 495, 497 et 498, ainsi que les offres
+de preuve y afférentes.
+III.
+Un délai sera ultérieurement fixé à l’intimé Y.________ pour se déterminer
+sur les allégués introduits par la réforme et introduire d’éventuels allégués
+connexes.
+IV.
+Tous les actes du procès sont maintenus.
+V.
+La requérante versera à l’intimé Y.________ la somme de 1'500 fr. (mille
+cinq cent francs), à titre de dépens frustraires.
+VI.
+Les frais de la procédure incidente, arrêtés à 450 fr. (quatre cent cinquante
+francs), sont mis à la charge de la requérante.
+VII.
+La requérante versera à l’intimé la somme de 1'500 fr. (mille cinq cent
+francs), à titre de dépens de l’incident.
+VIII.
+Toutes autres ou plus amples conclusions sont rejetées.
+Le
+juge instructeur :              Le greffier :
+D.
+Carlsson              L. Cloux
+Du
+Le jugement qui précède, directement motivé, lu et approuvé à huis clos, est
+notifié, par l'envoi de photocopies, aux conseils des parties.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+L. Cloux
