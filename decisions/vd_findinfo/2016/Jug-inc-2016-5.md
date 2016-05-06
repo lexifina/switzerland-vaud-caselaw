@@ -1,0 +1,355 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2016___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2016 / 5"
+decided: "2016-05-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5631142"
+cites_law: ["switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-019.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-147.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-237.md", "switzerland/bund/acts/272/art-238.md", "switzerland/bund/acts/272/art-291.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# VD Findinfo Jug-inc / 2016 / 5
+
+## Regeste
+
+DÉCISION INCIDENTE, PRINCIPE D'ALLÉGATION, PREUVE DE L'INTÉRÊT, REJET DE LA DEMANDE | 153 CPC, 154 al. 1 CPC, 155 CPC, 238 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 06.05.2016 Jug-inc / 2016 / 5
+
+DÉCISION INCIDENTE, PRINCIPE D'ALLÉGATION, PREUVE DE L'INTÉRÊT, REJET DE LA DEMANDE | 153 CPC, 154 al. 1 CPC, 155 CPC, 238 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+CO10.042797
+18/2016/DCA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+S.________
+,
+à Rolle, d'avec
+A.B.________
+,
+à Genève.
+___________________________________________________________________
+Du
+6 mai 2016
+____________
+Composition
+:               Mme
+Carlsson
+,
+juge instructeur
+Greffier
+:              M.
+Petit
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu l’action ouverte par le demandeur S.________ contre le défendeur B.B.________, selon demande
+du 29 décembre 2010, dont les conclusions prises avec suite de dépens sont les suivantes :
+«
+I.
+B.B.________ doit prompt et immédiat paiement à S.________ de Fr. 190'438.40 (cent nonante
+mille quatre cent trente-huit francs suisses et quarante centimes) avec intérêt à 5% l’an
+dès le 1
+er
+janvier 2005.
+II.
+L’opposition formée par B.B.________ à l’encontre du commandement de payer no [...]
+de l’Office des poursuites du district de Nyon le 22 avril 2010 est définitivement levée,
+libre cours étant laissé à dite poursuite. »,
+vu la réponse déposée le 2 mai 2011 par le défendeur, qui a conclu, avec dépens,
+au rejet des conclusions prises à son encontre et a pris la conclusion reconventionnelle suivante :
+«
+III.
+S.________ doit prompt et immédiat paiement à B.B.________ d’une somme dont le montant
+sera défini en cours d’instance après prise en considération des conclusions de
+l’expertise à ordonner. »,
+vu la suspension du procès ordonnée par le juge instructeur le 8 juillet 2011 à la suite
+du décès de B.B.________ survenu le 28 juin 2011,
+vu la reprise du procès le 13 décembre 2011 entre le demandeur et le défendeur A.B.________,
+seul héritier légal de feu B.B.________,
+vu l’échange d’écritures qui s’est achevé par les déterminations
+du demandeur du 29 novembre 2012 sur les allégués de la duplique du 21 novembre 2011,
+vu l’audience préliminaire du 6 juin 2013 et l’ordonnance sur preuves du même jour,
+vu le rapport d’expertise déposé le 4 mai 2015, dans le délai prolongé, par
+l’expert [...],
+vu l’avis du 4 mai 2015 du juge instructeur communiquant aux parties le rapport d’expertise,
+et leur impartissant un délai au 26 mai 2015 pour procéder conformément à l’art.
+237 CPC-VD (Code de procédure civil vaudois du 14 décembre 1966 dans sa teneur en vigueur au
+31 décembre 2010 ; RSV 270.11),
+vu les courriers des parties des 17 août 2015 et 17 septembre 2015 qui ont renoncé, dans le
+délai prolongé, à requérir un complément d’expertise,
+vu le délai fixé au 8 janvier 2016 aux parties par le juge instructeur, prolongé au 8
+février 2016, pour déposer un mémoire de droit au sens de l’art. 317a CPC-VD,
+vu la requête de réforme déposée le 8 février 2016 par le défendeur au
+fond et requérant à l’incident A.B.________, qui a pris, sous suite de frais et dépens,
+les conclusions suivantes :
+«
+I.
+La requête en réforme est admise et un nouveau délai est imparti au défendeur A.B.________
+pour déposer des déterminations complémentaires sous allégués, le cas échéant,
+requérir un complément d’expertise.
+II.
+Le requérant est également autorisé à se réformer en ce sens qu’il est
+autorisé à déposer des pièces complémentaires évoquées dans la requête
+en réforme, soit les factures concernant les travaux de réparation de l’objet immobilier
+considéré, une facture émanant du demandeur concernant le dallage des terrasses de la
+villa, ainsi qu’une attestation de la division principale de la taxe sur la valeur ajoutée. »,
+vu l’avis du 23 février 2016 du juge instructeur, qui a imparti au demandeur au fond et intimé
+à l’incident S.________ un délai au 14 mars 2016 pour faire la déclaration prévue
+par l’art. 148 CPC-VD, ou indiquer les mesures d’instruction demandées, dit avis valant
+interpellation pour toutes les parties au sens de l’art. 149 al. 4 CPC-VD,
+vu le courrier du 3 mars 2016 de l’intimé, qui a déclaré en substance s’en
+remettre à justice et a requis des dépens frustraires,
+vu le courrier du 18 mars 2016 du requérant, qui a accepté, dans le délai prolongé,
+le remplacement de l’audience par un échange d’écritures unique à bref délai,
+vu l’avis du 21 mars 2016 du juge instructeur, qui a fixé un délai au 18 avril 2016 pour
+le requérant, respectivement au 3 mai 2016 pour l’intimé, pour produire un mémoire
+incident,
+vu le mémoire incident déposé le 18 avril 2016 par le requérant, qui a reformulé
+ses conclusions, sous suite de frais et dépens, de la manière suivante :
+«
+I.
+La requête en réforme est admise et un nouveau délai est imparti au défendeur A.B.________
+pour déposer des déterminations complémentaires sous allégués, par le biais
+d’un nouveau mémoire-duplique.
+II.
+La mise en œuvre d’un complément d’expertise auprès de l’architecte
+[...] portant sur l’évaluation et l’avis de l’expert sur l’adéquation
+des factures émises par le demandeur S.________ à l’endroit de feu B.B.________ et payées
+par l’intéressé au regard des travaux effectivement entrepris sur la villa considérée,
+ainsi que l’établissement des défauts ou malfaçons constatés notamment sur
+le dallage des terrasses de la villa considérée facturés par le demandeur.
+III.
+Le requérant est également autorisé à se réformer en ce sens qu’il est
+autorisé à déposer des pièces complémentaires évoquées dans la requête
+en réforme, soit les factures concernant les travaux de réparation de l’objet immobilier
+considéré, une facture émanant du demandeur concernant le dallage des terrasses de la
+villa, ainsi qu’une attestation de la division principale de la taxe sur la valeur ajoutée,
+figurant d’ores et déjà sous bordereau du 8 février 2016. »,
+vu le mémoire incident déposé le 2 mai 2016 par l’intimé, qui a conclu, avec
+suite de frais et dépens, au rejet de la requête de réforme (II), subsidiairement à
+l’admission partielle de celle-ci limitée à l’introduction d’allégués
+prouvés par pièces (III), à la condamnation du requérant aux dépens frustraires
+fixés à dire de justice (IV),
+vu les pièces au dossier,
+vu
+les art. 19, 146 ss, 153 ss et 317b CPC-VD (applicables par le renvoi de l'art. 404 al. 1 CPC [Code
+de procédure civile du 19 décembre 2008, RS 272]; Tappy, Le droit transitoire applicable lors
+de l'introduction de la nouvelle procédure civile unifiée, in JdT 2010 III 11 ss, spéc.
+p. 26) ;
+attendu
+que, selon l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un délai,
+corriger ou compléter sa procédure, peut, jusqu'à la clôture de l'audience de jugement
+demander l'autorisation de se réformer, l'art. 317b CPC-VD étant réservé,
+que
+selon l'art. 154 CPC-VD, la demande de réforme indique les motifs et l'étendue de la réforme
+demandée (al. 1) et est instruite et jugée en la forme incidente (al. 2),
+que
+celui qui procède en la forme incidente prend des conclusions écrites, hors audience par une
+requête (art. 147 al. 1 CPC-VD),
+que
+l'art. 147 al. 2 CPC-VD impose au juge saisi d’une requête incidente d'assigner les parties
+à comparaître à bref délai avant de statuer sur la requête,
+que
+l'art. 149 al. 4 CPC-VD prévoit toutefois qu'après interpellation, le juge peut remplacer l'audience
+par un échange d'écritures unique et à bref délai,
+qu'en
+l'occurrence, les parties ont été interpellées par avis du juge instructeur du 23 février
+2016 et aucune d'elles ne s'est opposée à l'application de cette dernière disposition ;
+attendu
+qu'en vertu du renvoi des art. 147 al. 1 et 154 al. 2 CPC-VD, la requête doit également être
+conforme aux exigences de l'art. 19 CPC-VD,
+qu'en
+l'espèce, la requête de réforme, déposée en temps utile, répond à
+l'ensemble de ces conditions et doit être considérée comme recevable à la forme ;
+attendu
+que la requête de réforme doit exposer les opérations nouvelles que la partie requérante
+se propose de faire dans le délai dont elle demande la restitution et les points sur lesquels celle-ci
+entend corriger ou compléter sa procédure, en particulier les faits qu'elle veut alléguer
+et les preuves qu'elle entend administrer (Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+ème
+éd., 2002, n. 1 ad art. 154 CPC-VD et les réf. citées),
+que
+les exigences formulées au sujet du contenu et de la précision de la réforme doivent permettre
+au juge d’indiquer exactement quelles sont les allégations, preuves ou opérations autorisées
+par la réforme (Poudret/Haldy/Tappy, op. cit., n. 1 ad art. 155 CPC-VD),
+que
+le juge ne saurait en principe autoriser le dépôt d’une nouvelle écriture sans préciser
+quel peut être l’objet et le contenu, cela à moins que le requérant n’ait
+pas encore procédé et requière par la réforme la restitution du délai omis (Poudret/Haldy/Tappy,
+op. cit., n. 1 ad art. 155 CPC-VD et la réf. citée),
+qu'en
+outre, la requête doit contenir les motifs qui feraient apparaître la réforme sollicitée
+comme nécessaire ou utile à la solution du litige (Poudret/Haldy/Tappy, op. cit., n. 1 ad art.
+154 CPC-VD et les réf. citées),
+qu’en
+effet la réforme n'est accordée que si la partie requérante y a un intérêt réel
+et si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et 3 CPC-VD),
+que
+la partie requérante doit établir d'une part son intérêt réel à la preuve
+des faits allégués, c'est-à-dire leur pertinence, et d'autre part son intérêt
+réel à l'administration des preuves offertes, c'est-à-dire l'utilité que présente
+la preuve offerte pour établir les faits allégués (JdT 1988 III 70 consid. 4),
+que
+l'intérêt réel doit être apprécié au regard de l'ensemble des circonstances,
+en particulier de la pertinence du fait allégué, de sa vraisemblance, de la force probante
+de la preuve offerte et de la durée probable de la procédure probatoire complémentaire
+(JdT 2002 III 190 et les réf. citées),
+que
+le bien-fondé d'une requête de réforme s'apprécie sur la base des indications qui
+y sont contenues, notamment pour juger de la pertinence des faits allégués,
+qu'en
+outre, si les faits invoqués à l'appui de la requête de réforme sont dénués
+de pertinence ou déjà invoqués sous une autre forme en procédure, celle-là devra
+être refusée (JdT 2003 III 114 c. 4; Poudret/Haldy/Tappy, op. cit., n. 7 ad art. 153 CPC-VD),
+que,
+de surcroît, la pertinence des faits allégués (art. 163 al. 2 CPC-VD) et la nécessité
+des preuves offertes (art. 5 al. 2 CPC-VD) doivent être appréciées plus strictement que
+dans l'ordonnance sur preuves (JdT 1988 III 70 consid. 4),
+que
+la réforme ne permet pas de remettre en cause des décisions en matière de preuve résultant
+d'une ordonnance sur preuves, principale ou complémentaire, contre lesquelles seule la requête
+en complément d'instruction de l'art. 291 CPC-VD est ouverte aux parties (JdT 2003 III 114) ;
+attendu
+qu’en l’espèce, le demandeur au fond et intimé à l’incident S.________
+réclame le paiement du solde du prix des travaux de béton armé et de maçonnerie effectués
+entre septembre 2004 et juillet 2005 sur la villa construite sur un bien-fonds dont feu B.B.________
+était propriétaire, à hauteur de 190'438
+fr.
+40,
+que
+le défendeur et requérant à l’incident conclut à libération, contestant
+la qualité pour agir du demandeur et mettant également en doute sa qualité pour défendre,
+qu’il
+soutient avoir payé les travaux commandés et conteste devoir payer des travaux qui ont le cas
+échéant été réalisés en sus sans qu’il les ait commandés,
+qu’il
+invoque pour le surplus des défauts et une moins-value qui sera chiffrée à dire d’expert
+et qu’il se réserve de réclamer à titre reconventionnel ;
+attendu
+que par sa requête de réforme, le requérant entend notamment pouvoir déposer « des
+déterminations supplémentaires sous allégués », le cas échéant
+requérir un complément d’expertise (concl. I),
+que
+le requérant, qui n’est pas dans la situation du plaideur qui a laissé passer le délai
+de réponse ou de duplique, n’indique pas précisément dans ses conclusions quels
+nouveaux allégués il entend introduire,
+que
+les explications vagues contenues dans les motifs sont insuffisantes pour apprécier l’intérêt
+réel,
+qu’on
+ne saurait dès lors l’autoriser à déposer une écriture complémentaire
+contenant des allégués, alors qu’on ignore quel peut en être l’objet et le
+contenu,
+qu’en
+définitive sa requête est insuffisamment précise,
+qu’elle
+ne respecte dès lors pas l’art. 154 al. 1 CPC-VD,
+qu’au
+vu de ce qui précède, l’intérêt réel du requérant à introduire
+de nouveaux allégués doit être nié, faute d’avoir été rendu vraisemblable ;
+attendu
+que dans son mémoire incident, le requérant a requis la mise en œuvre d’un complément
+d’expertise (concl. II),
+qu’il
+s’agirait pour l’expert, comme le requérant l’indique dans son mémoire incident,
+de « constater les malfaçons » d’un dallage réalisé par l’intimé
+et de « se déterminer également sur les travaux facturés et payés par feu
+le défendeur pour près de 220'000 fr. au regard des travaux réellement exécutés »,
+que
+ces questions portent sur des travaux qui ne font pas partie du litige,
+qu’elles
+ne sauraient dès lors faire l’objet d’un complément d’expertise, dont le
+but est de clarifier ou de compléter les constatations de l’expert
+(art.
+238 al. 1 CPC -VD),
+qu’au
+demeurant, dans la mesure où la requête tendrait à faire clarifier des constatations déjà
+émises par l’expert, la requête est insuffisamment précise,
+qu’au
+vu de ce qui précède, l’intérêt réel du requérant à la mise
+en œuvre d’un complément d’expertise doit être nié, faute d’avoir
+été rendu vraisemblable ;
+attendu
+que par sa requête de réforme, le requérant entend pour le surplus produire les trois
+pièces produites sous bordereau accompagnant sa requête (concl. II),
+que
+ces pièces complémentaires tendent à établir que le requérant a dû entreprendre
+en 2015 sur l’objet immobilier des travaux de rénovation à hauteur de 38'600 fr. pour
+corriger des malfaçons et défauts (pièce 1), que l’intimé a réalisé
+des travaux de dallage des terrasses qui se seraient révélés défectueux (pièce
+2), enfin, que ce dernier n’était plus assujetti à la TVA depuis le 31 mars 2008 (pièce
+3),
+que
+ces pièces ne correspondent à aucun des faits allégués en procédure,
+que l’intérêt réel du requérant à produire ces pièces doit par conséquent
+être nié,
+qu’en définitive, la requête de réforme doit être entièrement rejetée ;
+attendu qu’il n’y a pas lieu d’allouer des dépens frustraires à l'intimé
+(art. 156 CPC-VD),
+que le dépôt de 2'000 fr., exigé du requérant en couverture des dépens frustraires,
+doit lui être restitué ;
+attendu que le requérant doit en outre supporter les frais de la procédure incidente, arrêtés
+à 900 fr. [art. 4 al. 1 et 170a al. 1 aTFJC (tarif des frais judiciaires en matière civile
+du 4 décembre 1984) applicable par envoi de l'art. 99 al. 1 TFJC (tarif des frais
+judiciaires civils du 28 septembre 2010, RSV 270.11.5)],
+qu'en matière de réforme, le juge statue librement sur l'adjudication des dépens de l'incident
+soulevés par la requête de réforme (art. 156 al. 3 CPC-VD),
+que les dépens sont alloués à la partie qui a obtenu l'adjudication de ses conclusions
+(art. 92 al. 1 CPC-VD),
+que les dépens comprennent principalement les frais de justice, les honoraires et les débours
+d'avocat (art. 91 let. a et c CPC-VD),
+que les honoraires d'avocat sont fixés selon l'art. 2 al. 1 ch. 10 TAv (tarif des honoraires d'avocats
+dus à titre de dépens du 17 juin 1986 applicable par renvoi de l'art. 26 al. 2 du tarif des
+dépens en matière civile, RSV 270.11.6),
+qu’en l’espèce, ayant obtenu gain de cause, l’intimé a droit, à charge
+du requérant, à des dépens de l’incident qu’il convient d’arrêter
+à 1'200 francs ;
+attendu,
+enfin, que les voies de droit ouvertes contre le présent jugement incident sont régies par
+le Code de procédure civile fédéral (art. 405 al. 1 CPC ; ATF III 424 consid. 2.3.2).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 8 février 2016 par A.B.________ est rejetée.
+II.
+Il n’est pas alloué de dépens frustraires, le dépôt de 2'000 fr. (deux mille
+francs) opéré par le requérant en couverture de ces dépens lui étant restitué.
+III.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs) à
+charge du requérant.
+IV.
+Le requérant versera à l’intimé S.________ la somme de
+1'200
+fr. (mille deux cents francs) à titre de dépens.
+V.
+Toutes autres ou plus amples conclusions incidentes sont rejetées.
+Le juge instructeur :              Le
+greffier :
+D.
+Carlsson              R. Petit
+Du
+Le jugement qui précède, lu et approuvé à huis clos, prend date de ce jour. Il est
+notifié, par l’envoi de photocopies, aux conseils des parties.
+Un
+recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+R. Petit
