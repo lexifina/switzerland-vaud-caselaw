@@ -1,0 +1,218 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2016___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2016 / 10"
+decided: "2016-05-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/2016050408571683_e.html"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2016 / 10
+
+## Regeste
+
+RÉCUSATION, DEMANDE ADRESSÉE À L'AUTORITÉ, PROTECTION DE L'ENFANT, AUTORITÉ DE PROTECTION DE L'ADULTE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8a CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 09.05.2016 Réc-civile / 2016 / 10
+
+RÉCUSATION, DEMANDE ADRESSÉE À L'AUTORITÉ, PROTECTION DE L'ENFANT, AUTORITÉ DE PROTECTION DE L'ADULTE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8a CDPJ
+
+TRIBUNAL
+CANTONAL
+LR16.022183
+11
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 9 mai 2016
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              MM.
+Muller et Kaltenrieder
+Greffier
+:              M.
+Tinguely
+*****
+Art.
+8a al. 1 et 3 CDPJ ; art. 47 al. 1 let. f CPC
+Vu la procédure en modification du droit de déterminer le lieu de résidence des enfants
+E.W.________ et F.W.________, opposant leurs parents
+B.W.________
+,
+à [...], et
+N.________
+,
+à [...], devant la Juge de paix du district de l’Ouest lausannois (ci-après : la
+Juge de paix),
+vu le courrier du 15 mars 2016 par lequel B.W.________ a requis de la Juge de paix la modification de
+la convention du 31 mars 2015, qui prévoyait en particulier que le droit de déterminer le lieu
+de résidence des enfants E.W.________ et F.W.________ s’exercerait de façon partagée
+entre les deux parents,
+vu le procès-verbal de l’audience qui s’est tenue le 19 avril 2016 devant [...], en
+remplacement de la Juge de paix [...], lors de laquelle les parties ont soulevé différentes
+problématiques non seulement relatives à la mise en œuvre de la garde partagée des
+enfants, mais également en rapport avec leurs frais d’entretien,
+vu l’avis du 25 avril 2016 adressé aux parties par la Juge de paix [...],
+vu le courrier adressé le 28 avril 2016 B.W.________ à la Juge de paix [...], par lequel elle
+a demandé sa récusation,
+vu l’avis du 2 mai 2016 par lequel la Juge de paix [...] a transmis cette demande à la Cour
+de céans, comme objet de sa compétence,
+vu les pièces au dossier ;
+attendu
+qu'il s'agit dans un premier temps de déterminer l'autorité compétente pour traiter de
+la demande de récusation,
+que
+l'art. 8a al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010, RSV 211.02)
+dispose que lorsque la demande de récusation vise un magistrat professionnel ou un vice-président,
+trois autres magistrats du même office judiciaire statuent sur ladite demande,
+que
+la Cour de céans est compétente pour statuer sur les demandes de récusation visant l'ensemble
+d'une autorité judiciaire de première instance ou la majorité de ses membres (art. 8a
+al. 3 CDPJ et 6 al. 1 let. a ROTC [règlement organique du Tribunal cantonal du 13 novembre 2007,
+RSV 173.31.1]),
+que dans le cas d’un
+office judiciaire composé de moins de quatre magistrats professionnels, il revient à la Cour
+de céans de statuer sur la demande de récusation d’un magistrat professionnel, en application
+analogique des art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC (CA 16 décembre 2014/50),
+qu'en
+l'espèce, il est relevé que la Justice de paix du district de l'Ouest lausannois n’est
+composée que de trois magistrats professionnels,
+que
+la Cour de céans est ainsi compétente pour statuer comme autorité de première instance
+sur la demande du 28 avril 2016 portant sur la récusation de [...], Juge de paix du district de
+l’Ouest lausannois,
+qu’au
+surplus, la demande satisfait aux exigences de forme prévues par l'art. 49 al. 1 CPC (Code
+de procédure civile du 19 décembre 2008, RS 272),
+qu'elle
+est dès lors recevable ;
+attendu qu'à teneur de l’art. 47 al. 1 let. f CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 de la Constitution
+fédérale de la Confédération suisse du 18 avril 1999 (RS 101) et 6 §1 de la
+Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales
+(RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent influencer
+le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie
+(TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid. 2.1; ATF
+138 I 1 consid. 2.2 et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1, ATF 138 IV 142 consid. 2.1),
+que des décisions ou des actes de procédure prétendument viciés, voire arbitraires,
+ne fondent pas en soi une apparence objective de prévention (TF 5A_171/2015 du 20 avril 2015
+consid. 6.1 ; TF 4A_377/2014 du 25 novembre 2014 consid. 6.1 et les références citées),
+qu’en particulier, même lorsqu'elles sont établies, des erreurs de procédure ou
+d'appréciation commises par un juge ne suffisent pas à fonder objectivement un soupçon
+de partialité, seules des erreurs particulièrement lourdes ou répétées, constitutives
+de violations graves des devoirs du magistrat, pouvant justifier une suspicion de partialité, pour
+autant que les circonstances corroborent à tout le moins objectivement l'apparence de prévention
+(TF 5A_749/2015 du 27 novembre 2015 consid. 4.1 ; ATF 138 IV 142 consid. 2.3 et les références
+citées),
+que c'est aux juridictions de recours normalement compétentes qu'il appartient de constater et de
+redresser les erreurs éventuellement commises, le juge de la récusation ne pouvant pas examiner
+la conduite du procès à la façon d'une instance d'appel (TF 5A_749/2015 du 27 novembre
+2015 consid. 4.1 ; ATF 116 Ia 135 consid. 3a), ni d'un organe de surveillance (TF 4A_323/2010 du
+3 août 2010 consid. 2.2),
+qu’en l’espèce, B.W.________ fait valoir qu’en se déclarant à tort incompétente
+pour traiter des questions relatives à la garde et aux relations personnelles de ses enfants, la
+Juge de paix [...] aurait laissé entendre à l’avance, dans son avis du 25 avril 2016,
+quelle serait l’issue d’une éventuelle décision à prendre,
+qu’en outre, selon la requérante, cette écriture « confine à exacerber
+[un] litige déjà virulent »,
+que la requérante soutient que ces circonstances seraient propres à fonder l’existence
+d’un motif de récusation au sens de l’art. 47 al. 1 let. f CPC,
+que ce moyen est infondé,
+qu’en effet, l’avis du 25 avril 2016 visait avant tout à préciser, à l’attention
+des parties, les limites de la compétence du juge de paix pour traiter des différentes problématiques
+soulevées par celles-ci lors de l’audience du 19 avril 2016,
+que la Juge de paix y invitait en outre les parties à mieux communiquer entre elles, suggérant
+à cette fin la mise en œuvre d’une médiation,
+que la magistrate intimée a par ailleurs expressément laissé aux parties la possibilité
+de se déterminer dans un délai fixé au 25 mai 2016,
+qu’on ne relève pas dans les lignes adressées aux parties le 25 avril 2016, des termes
+ou des circonstances propres à fonder un motif de prévention concernant l’une ou l’autre
+partie,
+que si la requérante entend contester la prétendue incompétence de la Juge de paix pour
+traiter des conclusions de sa requête du 15 mars 2016, il lui appartiendra de faire valoir ses droits
+dans le cadre d’un recours contre la décision susceptible d’être prochainement
+rendue,
+qu’il ne revient en effet pas à la Cour de céans de se prononcer, à la façon
+d’une autorité d’appel ou d’un organe de surveillance, sur des erreurs de procédure
+prétendument commises dans le cadre d’une procédure relative au droit de déterminer
+le lieu de résidence d’enfants mineurs ou sur la manière de mener cette procédure,
+qu’au demeurant, la requérante ne démontre manifestement pas, ni ne rend vraisemblable,
+l’existence d’erreurs particulièrement lourdes ou répétées, qui pourraient
+être constitutives de violations graves des devoirs de la magistrate intimée,
+que les allégations de la requérante ne suffisent dès lors nullement à fonder un
+soupçon de partialité de la magistrate intimée,
+que la requérante échoue ainsi à démontrer l’existence d’un motif de
+récusation au sens de l’art. 47 al. 1 CPC,
+que sa requête tendant à la récusation de la Juge de paix [...], manifestement mal fondée,
+doit dès lors être rejetée ;
+attendu que lorsqu'une demande de récusation se révèle d'emblée mal fondée,
+il n'y a pas lieu de recueillir les déterminations des autres parties, mais de rejeter la demande
+au seul vu de la requête déposée au greffe ou de la dictée faite au procès-verbal,
+que l'art. 49 CPC, ne prévoit d'ailleurs pas d'interpellation autre que celle du magistrat ou fonctionnaire
+concerné,
+que cette manière de procéder ne viole pas le droit d'être entendu du requérant,
+celui-ci devant présenter tous ses moyens dans sa requête ou dans sa dictée au procès-verbal,
+sous peine d'irrecevabilité des motifs soulevés ultérieurement (TF 5A_194/2010 du 13 septembre
+2010 consid. 2.2 et 2.3),
+qu’en l’espèce, comme déjà relevé, la demande de récusation se révèle
+manifestement mal fondée,
+qu’il n’y a donc pas lieu de recueillir les déterminations des autres parties mais de
+rejeter la requête ;
+attendu que le présent arrêt sera rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 28 avril 2016 par B.W.________ à l’encontre
+de la Juge de paix […]
+est rejetée.
+II.
+L’arrêt est rendu sans frais ni dépens.
+III.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+-
+Mme [...], Juge de paix du district de l’Ouest lausannois,
+-
+Mme B.W.________,
+-
+M. N.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à la :
+-
+Justice de paix du district de l’Ouest lausannois,
+Le greffier :
