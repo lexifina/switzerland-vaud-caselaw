@@ -1,0 +1,538 @@
+---
+decision_id: "vd_findinfo_Faillite___2016___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2016 / 20"
+decided: "2016-06-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5648895"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-405.md", "switzerland/bund/acts/281.1/art-207.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-307.md", "switzerland/bund/acts/281.1/art-309.md", "switzerland/bund/acts/281.1/art-312.md", "switzerland/bund/acts/281.1/art-313.md", "switzerland/bund/acts/281.1/art-316.md", "switzerland/bund/acts/281.35/art-062.md", "switzerland/bund/acts/311.0/art-168.md", "switzerland/bund/acts/311.0/art-170.md"]
+---
+
+# VD Findinfo Faillite / 2016 / 20
+
+## Regeste
+
+RÉVOCATION DU CONCORDAT | 313 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 06.06.2016 Faillite / 2016 / 20
+
+RÉVOCATION DU CONCORDAT | 313 LP
+
+TRIBUNAL
+CANTONAL
+FZ11.023056-151829
+172
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 juin 2016
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+313 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+A.N.________
+,
+à [...], contre le prononcé rendu le 22 octobre 2015, à la suite de l’audience du
+2 octobre 2014, par le Président du Tribunal d’arrondissement de l’Est vaudois, dans
+la cause opposant le recourant à
+X.________SA
+en liquidation, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+La société G.________SA, dont le but est la production et le commerce de légumes et l’exploitation
+de tous domaines agricoles et cultures maraîchères, a été inscrite au registre du
+commerce le 25 février 2000. Elle a été fondée par A.N.________, son épouse
+B.N.________ et une tierce personne. B.N.________ en a été l’administratrice unique dès
+sa création et jusqu’au 30 juin 2006.
+Le 13 avril 2005, Jean-Daniel Nicaty, agent d’affaires breveté, agissant au nom de la société
+G.________SA a déposé une requête de sursis concordataire.
+Par décision du 29 mai 2006, le Président du Tribunal d’arrondissement de l’Est
+vaudois a homologué le concordat dividende proposé par G.________SA, qui prévoyait le
+paiement aux créanciers chirographaires d’un dividende de 25%. Cette décision est définitive
+et exécutoire depuis le 20 juin 2006.
+b)
+Par inscription au registre du commerce du 11 mai 2007, la raison sociale de G.________SA a été
+modifiée pour devenir X.________SA
+.
+c)
+Par acte du 7 octobre 2009, une société créancière de G.________SA/X.________SA ayant
+adhéré au concordat a cédé à A.N.________ « le reste » de
+sa créance, soit 75%, « pour qu’il puisse la faire valoir à ses risques et
+périls pour l’annulation du sursis concordataire du G.________SA ».
+d)
+Par requête du 21 janvier 2010, A.N.________ et Z.________ – à qui d’autres créanciers
+concordataires de G.________SA/X.________SA avaient également cédé 75% de leurs créances
+– ont conclu, avec dépens, à la révocation du concordat dividende homologué
+le 29 mai 2006.
+e)
+Dans
+le cadre d’une procédure pénale ouverte contre B.N.________, le Tribunal correctionnel
+de l’arrondissement de l’Est vaudois, par jugement rendu le 1
+er
+février 2012, a reconnu celle-ci coupable notamment d’abus de confiance, d’escroquerie,
+de gestion déloyale qualifiée et de faux dans les titres, a dit qu’elle était débitrice
+de la société X.________SA du montant de 449'996 francs, a alloué à cette société
+une créance compensatrice du même montant, à hauteur duquel il a maintenu le séquestre
+ordonné sur un immeuble propriété de la débitrice, subsidiairement sur le produit
+de sa vente, afin de garantir le paiement de la créance compensatrice, et a ordonné sa dévolution
+à la société créancière.
+Il ressort en particulier de ce jugement que, du mois de janvier 2004 au mois d’août 2006,
+B.N.________ a falsifié la comptabilité de la société en faisant inscrire sur les
+comptes des salaires fictifs d’ouvriers correspondant à de prétendues prestations de
+travail accompli par des ouvriers « fantômes ». À l’époque,
+G.________SA recrutait du personnel surnuméraire auprès de la société [...] SA. Des
+noms d’employés fictifs étaient ajoutés à la fin du mois sur le décompte
+de salaire d’[...] SA qui était remis à la personne responsable de préparer les
+enveloppes contenant le salaire de chaque employé. Un employé du domaine distribuait ensuite
+les enveloppes à ses collègues et remettait celles des travailleurs fictifs à B.N.________.
+Ces faits ont valu à cette dernière d’être reconnue coupable de gestion déloyale
+qualifiée et de faux dans les titres. Le tribunal correctionnel a estimé que la valeur des
+prestations mensuelles fictives représentait une somme de 10’000 fr. par mois, valeur la plus
+faible résultant de l’instruction, sur une durée de vingt mois, pour tenir compte de
+la « basse saison » dans l’agriculture. Le dommage résultant de ces agissements
+a ainsi été estimé à 200'000 francs.
+f)
+Par
+prononcé préjudiciel du 24 mai 2012, rendu à la suite d’une audience tenue le 8
+décembre 2011, le Président du Tribunal d’arrondissement de l’Est vaudois, considérant
+que A.N.________ et Z.________ n’avaient pas qualité pour agir, a rejeté, dans la mesure
+où elle était recevable, la requête en révocation du concordat qu’ils avaient
+déposées le 21 janvier 2010.
+Par arrêt du 12 novembre 2012, la cour de céans a admis les recours déposés par les
+deux requérants contre ce prononcé, qu’elle a réformé en ce sens que ceux-ci
+avaient la légitimation active dans l’action en cause. Elle a renvoyé le dossier au premier
+juge, qui a tenu une nouvelle audience le 2 octobre 2014.
+2.
+Par prononcé du 22 octobre 2015, le Président du Tribunal d’arrondissement de l’Est
+vaudois a rejeté, dans la mesure où elle était recevable, la requête déposée
+par Z.________ et A.N.________ le 21 janvier 2010 (I), a mis les frais de procédure à la charge
+de Z.________, par 997 fr. 25, frais des dernières publications en sus, et de A.N.________, par
+997 fr. 25, frais des dernières publications en sus (II), a dit que Z.________ et A.N.________ étaient
+débiteurs, solidairement entre eux, de la société X.________SA de la somme de 20'000 fr.,
+TVA et débours compris, à titre de dépens (III), a fixé l’indemnité du
+conseil d’office de A.N.________, Me Jean-Philippe Heim, à 5'453 francs 30, TVA, débours
+et vacations inclus, pour la période du 17 janvier 2013 au 2 octobre 2014 (IV), a dit que A.N.________,
+bénéficiaire de l’assistance judiciaire, était, dans la mesure de l’art. 123
+CPC, tenu au remboursement des frais judiciaires arrêtés sous chiffre II ci-dessus, ainsi que
+de l’indemnité de son conseil d’office fixée sous chiffre IV ci-dessus, laissés
+provisoirement à la charge de l’État (V) et a rejeté toutes autres ou plus amples
+conclusions (VI).
+Le premier juge a examiné chacun des griefs allégués par les requérants contre le
+concordat litigieux. Il a rejeté l’allégation selon laquelle des créanciers auraient
+été favorisés au détriment d’autres pendant la durée du sursis pour le
+motif que les créances payées constituaient des dettes périodiques découlant de la
+continuation des activités de la sursitaire et devant être considérées comme contractées
+avec l’accord du commissaire au sursis ; quant à celles qui constituaient effectivement
+des créances concordataires soumises au dividende et ne pouvaient pas être payées pendant
+la durée du sursis, il a considéré que le procédé déloyal était réalisé,
+mais que les faits pouvaient être connus des créanciers avant l’homologation du concordat.
+Il a rejeté l’allégation de malversations comptables, pour le motif qu’il n’était
+pas établi que les créanciers, s’ils avaient eu connaissance des prélèvements
+indus de B.N.________ en 2003 (établis par l’instruction) et des salaires fictifs, n’auraient
+pas accepté le concordat. Il a rejeté l’allégation d’omissions du commissaire,
+pour le motif que de telles omissions, soit n’étaient pas établies, soit pouvaient être
+connues des créanciers, soit encore ne constituaient pas un comportement déloyal. Il a déclaré
+irrecevables les allégations relatives au vote du concordat, pour le motif que la voie de la contestation
+de l’homologation, n’étant pas ouverte aux titulaires des créances cédées
+aux requérants, puisqu’ils avaient tous adhéré au concordat, n’était
+pas ouverte non plus aux cessionnaires des droits de ces créanciers. Enfin, il a rejeté les
+allégations selon lesquelles B.N.________ aurait imaginé un « plan » pour
+« éjecter » A.N.________ de « sa qualité de créancier principal »
+de G.________SA/X.________SA, aucun élément du dossier ne permettant de conclure à l’existence
+d’un tel plan.
+3.
+a)
+Par acte du 9 novembre 2015, A.N.________ a recouru contre ce prononcé, qui lui avait été
+notifié le 29 octobre 2015, en concluant, avec dépens, principalement, à sa réforme
+en ce sens que le concordat dividende est révoqué, ce sous suite de frais et dépens, subsidiairement,
+à son annulation et au renvoi de la cause au premier juge pour nouvelle décision dans le sens
+des considérants, plus subsidiairement, à sa réforme en ce sens que les dépens de
+première instance sont réduits à 1'200 francs.
+b)
+Par prononcé du 11 décembre 2015, la présidente de la cour de céans a accordé
+au recourant le bénéfice de l’assistance judiciaire pour la procédure de recours
+avec effet au 9 novembre 2015, sous la forme de l’exonération d’avances, l’exonération
+des frais judiciaires et l’assistance d’office d’un avocat en la personne de Me Jean-Philippe
+Heim.
+c)
+Par jugement du 19 novembre 2015, définitif et exécutoire depuis le 7 décembre 2015, le
+Président du Tribunal d’arrondissement de l’Est vaudois, sur requête d’une
+société créancière ordinaire, [...] SA, a prononcé la faillite de la société
+X.________SA.
+Par avis du 30 décembre 2015, la présidente de la cour de céans a informé le recourant
+que, sauf objections motivées dans un délai au 20 janvier 2016, elle constaterait que le recours
+était sans objet et rayerait la cause du rôle sans autre formalité.
+Par écriture du 20 janvier 2016, le recourant s’est opposé à ce qu’il soit
+constaté que le recours était sans objet et à ce que la cause soit rayée du rôle.
+Z.________ s’y est également opposé, par lettre postée le 31 janvier 2016.
+d)
+Par avis du 4 février 2016, un délai non prolongeable de dix jours dès réception
+a été imparti à l’intimée X.________SA, à Z.________, à l’Office
+des poursuites du district d’Aigle et à l’Office des faillites de l’arrondissement
+de l’Est vaudois, pour déposer une réponse.
+Par lettre du 11 février 2016, l’Office des faillites de l’arrondissement de l’Est
+vaudois a confirmé être en charge de la liquidation de la faillite de la société
+X.________SA et s’en est remis à justice s’agissant du sort du recours. Par lettre du
+12 février 2016, l’Office des poursuites du district d’Aigle s’en est également
+remis à justice quant au sort du recours. Z.________ en a fait de même par lettre du 17 février
+2016.
+e)
+La faillite de l’intimée a été suspendue faute d’actif par décision du
+29 février 2016, publiée dans la FAO et dans la FOSC du 11 mars 2016, le délai pour effectuer
+l’avance de frais (de 5'000 fr.) étant fixé au 21 mars 2016.
+f)
+Par
+avis du 29 mars 2016, un délai au 15 avril 2016 a été imparti par la présidente de
+la cour de céans au recourant, à l’intimée (par l’Office des faillites de
+l’arrondissement de l’Est vaudois) et à Z.________ pour se déterminer sur la nécessité
+d’une suspension de la cause par application directe ou analogique de l’art. 207 LP (loi
+fédérale sur la poursuite pour dettes et la faillite ; RS 281.1).
+Par écriture déposée le 26 avril 2016, soit dans le délai prolongé à cet
+effet, le recourant s’est opposé à ce que la cause soit suspendue en application de l’art.
+207 LP.
+Par lettre du 6 mai 2016, l’Office des faillites de l’arrondissement de l’Est vaudois
+a indiqué qu’aucune avance de frais n’avait été versée dans le délai
+imparti lors des publications du 11 mars 2016, mais que la liquidation n’était pas terminée,
+l’administration de la faillite devant encore procéder à la réalisation des biens
+gagés ; il a en outre relevé que les conditions de l’art. 207 LP semblaient réunies,
+notamment en ce qui concernait le montant des dépens alloués en première instance.
+En droit
+:
+I.
+Le droit du concordat, régi par les art.
+293 ss LP, a été modifié par la loi fédérale du 21 juin 2013, entrée en
+vigueur le 1
+er
+janvier 2014 (RO 2013 4111 ; Message relatif à la modification de la LP (droit de l'assainissement)
+du 8 septembre 2010,
+in
+FF 2010 VI pp. 5871 ss). Selon la disposition transitoire de cette modification, la procédure concordataire
+est réglée par le droit antérieur lorsque la requête de sursis a été déposée
+avant le 1
+er
+janvier 2014.
+En l’espèce, la requête de sursis a été déposée le 13 avril 2005,
+soit bien avant l’entrée en vigueur du nouveau droit. Il en va de même du reste de la
+requête de révocation du concordat qui date du 21 janvier 2010. C’est donc à la
+lumière de l’ancien droit que le présent litige doit être examiné.
+II.
+La demande de révocation est fondée
+sur l’art. 313 LP. Conformément à l’art. 313 al. 2 LP, les art. 307 à 309
+sont applicables par analogie. Les décisions du juge de la révocation peuvent ainsi faire l’objet
+d’un recours au sens du CPC [Code de procédure civile ; RS 272] (art. 307 LP ; Hardmeier,
+in
+Staehelin/Bauer/ Staehelin (éd.), Basler Kommentar (BK), Bundesgesetz über Schuldbetreibung
+und Konkurs II, 2
+e
+éd., 2010, n. 9
+ad
+art. 313 SchKG [LP]).
+En application de l’art. 405 al. 1 CPC, les recours sont régis par le droit de procédure
+en vigueur au moment de la communication de la décision aux parties.
+En l’espèce, le recours a été déposé dans les formes requises, par acte
+écrit et motivé (art. 321 al. 1 CPC), et en temps utile, dans le délai de dix jours suivant
+la notification du prononcé attaqué (art. 321 al. 2 CPC) - l'échéance de ce
+délai, qui tombait le dimanche 8 novembre 2015, étant reportée au premier jour ouvrable
+suivant (art. 142 al. 3 CPC) -, de sorte qu’il est recevable.
+Les réponses des autres parties le sont également (art. 322 CPC).
+Les autres écritures déposées par les parties à la suite d’interpellations
+de la cour de céans ont été accomplies dans les délais impartis, respectivement prolongés
+à cet effet et sont donc recevables.
+III.
+a)
+Le recours déposé tend à obtenir
+la révocation du concordat homologué le 29 mai 2006. La révocation de ce concordat ferait
+revivre l’intégralité des créances initiales soumises au concordat (Hunkeler, Kurzkommentar
+SchKG (KUKO), 2
+e
+éd.,
+2014, n. 10
+ad
+313 SchKG [LP]) et permettrait en particulier au recourant de faire valoir la créance qui lui a
+été cédée dans le cadre de la faillite de l’intimée. La faillite prononcée
+le 19 novembre 2015 n’a donc pas pour effet de rendre le recours sans objet.
+b)
+L’art.
+207 al. 1 LP dispose que, sauf dans les cas d’urgence, les procès civils auxquels le failli
+est partie et qui influent sur l’état de la masse en faillite sont suspendus. Ils ne peuvent
+être continués, en cas de liquidation ordinaire, qu’après les dix jours qui suivent
+la seconde assemblée des créanciers et, en cas de liquidation sommaire, qu’après
+les vingt jours qui suivent le dépôt de l’état de collocation. Cette disposition
+s’applique également aux procédures de recours qui sont en rapport avec un procès
+civil auxquels le failli est partie, pour autant qu’elles affectent les droits appartenant à
+la masse et que l’admission du recours puisse modifier la situation juridique matérielle existant
+depuis l’ouverture de la faillite (Romy,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand (CR), Poursuite et faillite, 2005, n. 9
+ad
+art. 207 LP et la référence citée).
+Le litige portant sur la révocation du concordat ressortit uniquement au droit de la poursuite et
+n’est donc pas un procès civil ayant pour objet une contestation de droit matériel. Il
+n’y a dès lors pas lieu, en l’espèce, de suspendre la procédure.
+IV.
+Sur le fond, le recourant reproche tout d’abord au premier juge d’avoir examiné individuellement
+les différents griefs soulevés pour les exclure l’un après l’autre, au lieu
+de les considérer comme un tout. Il soutient ensuite que des créanciers ont été favorisés
+pour au moins 51'824 fr. 25, que les comptes étaient si mal tenus que des créances manquaient
+pour 223'328 fr., que l’ancienne administratrice, toujours en fonction durant la procédure
+concordataire, avait détourné à son profit 92'242 fr. couverts par des écritures
+comptables et environ 200'000 fr. « maquillés » en salaires fictifs, que les
+stocks étaient sous-évalués de 178'601 fr. et que le résultat de l’entreprise
+avait été diminué fictivement d’au moins 791'332 fr. 80. Il affirme en outre que
+le concordat a été obtenu grâce au vote de l’actionnaire majoritaire et administrateur
+de fait de la société sursitaire, qui avait racheté pour 150'000 fr. une créance
+postposée escomptée à 600'991 fr. pour voter à l’assemblée des créanciers
+et faire passer un concordat prévoyant que ces derniers ne recevraient que le quart de leur créance
+et se retrouver, après cet assainissement forcé ou plutôt imposé aux créanciers,
+seul actionnaire et créancier principal de la société. Le recourant en conclut qu’aucun
+créancier n’aurait accepté le concordat s’il avait été informé de
+ces différents éléments.
+a)
+Aux termes de l’art. 313 al. 1 LP, tout créancier peut demander la révocation d’un
+concordat entaché de mauvaise foi (art. 20, 28, 29 CO [Code des obligations ; RS 220]). Le
+renvoi aux art. 20, 28 et 29 CO n’est pas limitatif (Marchand,
+in
+CR, n. 8
+ad
+art. 313 LP). En réalité, tout comportement contraire aux règles de la bonne foi ayant
+permis au débiteur d’obtenir un concordat constitue un motif de révocation (Hardmeier,
+in
+BK, n. 3
+ad
+art. 313 LP et les réf. citées : Hunkeler, KUKO, n. 2
+ad
+art. 313 LP et les réf. citées).
+La condition de la mauvaise foi est notamment réalisée lorsqu’un concordat a été
+accepté alors que le sursitaire a suborné des intervenants en leur promettant des avantages
+en sus des stipulations du concordat (art. 312 LP ; art. 168 CP [Code pénal ; RS 311.0]),
+ou alors que le concordataire avait diminué fictivement son actif (art. 163 ch. 1 et 171 al. 1 CP),
+avait diminué effectivement son actif (art. 164 ch. 1 et 171 al. 1 CP) ou avait accordé des
+avantages à certains créanciers au détriment des autres (art. 167 et 171 al 1 CP), ou
+encore alors que le concordataire avait produit un bilan et/ou des livres comptables falsifiés (art.
+170 CP) (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la
+faillite, Art. 271-357, 2003, n. 7
+ad
+art. 313 LP). Une condamnation pénale du débiteur n’est toutefois pas nécessaire
+(Hunkeler,
+loc. cit.
+).
+L’acte ou l’omission contraire à la bonne foi ne doit du reste pas nécessairement
+être de nature pénale (Marchand,
+op.
+cit.
+, n. 11
+ad
+art. 313 LP). Il peut en outre être le fait d’un tiers (
+ibid.
+,
+n. 10 ad art. 313 LP). L’acte ou l’omission contraire à la bonne foi doit en revanche
+être dans une relation de causalité avec l’adhésion des créanciers au concordat
+ou son homologation par le juge (
+ibid.
+,
+n. 12
+ad
+art.
+313 LP ; Hardmeier,
+in
+BK, n. 4
+ad
+art.
+313 LP ; Hunkeler,
+op.
+cit.
+, n. 4
+ad
+art. 313 LP).
+La révocation du concordat selon l’art. 313 LP a un effet de nullité globale du concordat.
+Elle implique que les effets de l’homologation cessent à l’égard de tous les créanciers,
+contrairement à la révocation de l’art. 316 LP qui ne concerne que le créancier
+requérant. Le texte allemand fait d’ailleurs la distinction entre
+Aufhebung
+/révocation
+(art. 313 LP) et
+Widerruf
+/résolution
+(art. 316 LP) (Marchand,
+op.
+cit.
+, n. 15
+ad
+art. 313 LP ; CPF 12 novembre 2012/448/449).
+La révocation du concordat permet aux créanciers de requérir la faillite sans poursuite
+préalable du débiteur (art. 309 LP, auquel renvoie l’art. 313 al. 2 LP). Ils doivent
+alors être colloqués dans cette faillite en raison de leur créance totale (et non de leur
+créance modifiée par l’effet du concordat), sous déduction des paiements déjà
+effectués par le débiteur (Marchand,
+op.
+cit.
+, n. 16
+ad
+art. 313 LP). Le droit des créanciers
+aux intérêts renaît depuis la publication du sursis et s’ajoutent aux créances
+produites dans la faillite (
+ibid.
+,
+n. 17
+ad
+art.
+313 LP). Les prestations déjà exécutées par le débiteur en exécution du
+concordat ordinaire ne sont pas susceptibles de restitution : leur cause n’est pas dans le concordat
+révoqué, qui n’a eu pour effet qu’une modification des créances mais pas une
+novation. Les créances soumises au concordat gardent ainsi leur cause initiale et le paiement partiel
+qui en est fait conformément au concordat n’est donc pas un paiement sans cause (
+ibid.
+,
+n. 19
+ad
+art.
+313 LP).
+b)
+En l’espèce, il résulte du jugement rendu le 1
+er
+février 2012 par le Tribunal correctionnel de l’arrondissement de l’Est vaudois que
+B.N.________, administratrice de la société en fonction depuis la création de celle-ci
+et jusqu’à la fin de la procédure concordataire, a détourné à son profit
+près de 200'000 fr. durant les années 2003 à 2006 en dissimulant ses opérations par
+l’inscription, dans les comptes de la société, de salaires fictifs. La situation financière
+de la société présentée aux créanciers lors de la procédure concordataire
+reposait donc sur une comptabilité falsifiée par et au profit de l’administratrice qui
+leur demandait d’abandonner une partie conséquente de leur créance. Les actifs de la
+société auraient en outre dû inclure une créance d’au moins 200'000 fr. contre
+B.N.________, créance dont les perspectives d’encaissement n’auraient pas été
+jugées inexistantes, la débitrice étant propriétaire d’un bien immobilier,
+sur lequel un séquestre a été d’ailleurs ordonné dans le cadre de la procédure
+pénale. Ces différents éléments, alors inconnus des créanciers, auraient à
+l’évidence été de nature à influencer leur décision au moment de se déterminer
+sur la proposition de concordat qui leur était soumise. Il faut donc admettre que, pour ce seul
+motif déjà, le concordat est manifestement entaché de mauvaise foi au sens de l’art.
+313 LP et qu’il doit par conséquent être révoqué.
+Vu ce qui précède, il n’y a pas lieu d’examiner les autres griefs invoqués
+par le recourant.
+V.
+En conclusion, le recours doit être admis et la décision du premier juge réformée
+en ce sens que le concordat litigieux est révoqué, les frais de première instance, arrêtés
+à 1’994 fr. 50, frais des dernières publications en sus, mis à la charge de l’intimée
+X.________SA en liquidation et des dépens alloués au requérant A.N.________. L’action
+ayant été ouverte avant le 1
+er
+janvier 2011, l’ancien droit de procédure est applicable (art. 26 al. 2 TDC [tarif des dépens
+en matière civile ; RSV 270.11.6] ; CPF, 12 novembre 2012/448/449). Selon l'ancien
+art. 62 al. 1 OELP [ordonnance sur les émoluments perçus en application de la LP ;
+RS 281.35], dans les procédures sommaires en matière de poursuite (art. 25 ch. 2 LP), le juge
+pouvait, sur demande de la partie qui obtenait gain de cause, condamner la partie qui succombait au paiement
+d'une indemnité équitable à titre de dépens; il en fixait le montant dans le jugement
+(CPF, 2 février 2006/21 ; CPF, 25 septembre 2003/337 ; CPF, 27 novembre 1997/632). Les
+dépens accordés à la partie obtenant gain de cause devaient être appréciés
+en fonction du temps consacré à l’affaire, de la complexité des questions qu’elle
+soulevait, ainsi que de la valeur litigieuse (ATF 119 III 68, JT 1995 II 124). Les tarifs cantonaux n’étant
+pas directement applicables, le juge pouvait seulement s’en inspirer (TF 5P.458/1999 du 29 février
+2000 ; CPF, 22 février 2007/54). Pour les procédures soumises à l'ancien droit
+de procédure cantonal, on pouvait de se référer au tarif des honoraires d'avocat dus à
+titre de dépens du 17 juin 1986 (TAv ; RSV 177.11.3) et au tarif des honoraires d'agent d'affaires
+breveté dus à titre de dépens du 22 février 1972 (TAg ; RSV 179.11.3).
+En l’espèce, la procédure de première instance a été particulièrement
+longue et a suscité de nombreuses écritures du conseil du recourant. Le dossier est en outre
+volumineux. On peut ainsi considérer que des dépens globaux de 15'000 fr. seraient justifiés.
+Les opérations de Me Heim ont toutefois également été effectuées pour le compte
+de Z.________, lequel n’a cependant pas recouru. Le montant des dépens de première instance
+doit être fixé à 7'500 fr., TVA et débours compris, pour tenir compte de cet élément.
+Les frais de deuxième instance, arrêtés à 2'500 fr. (art. 54 et 61 OELP), frais de
+publication (art. 308 et 313 al. 2 LP) en sus, doivent être mis à la charge de l’intimée
+X.________SA en liquidation.
+Le conseil du recourant demande une indemnité d’office correspondant à trente-deux heures
+et cinq minutes de travail pour la procédure de recours. Il a produit une liste détaillée
+de ses opérations. L’indemnité demandée est justifiée et peut être allouée
+à concurrence de 6'288 fr. 30, TVA et débours compris.
+En outre, l’intimée doit verser au recourant des dépens de deuxième instance, arrêtés
+à 12'700 fr. 80, TVA et débours compris (art. 3 al. 3 et 19 al. 2 TDC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le dispositif du prononcé rendu le 22 octobre 2015 est réformé comme suit:
+I.              Le concordat dividende
+présenté par G.________SA, homologué le 29 mai 2006 par le Président du Tribunal
+d’arrondissement de l’Est vaudois, est révoqué.
+II.              Les frais de procédure,
+arrêtés à 1’994 fr. 50 (mille neuf cent nonante-quatre francs et cinquante centimes),
+frais des dernières publications en sus, sont mis à la charge de X.________SA en liquidation.
+III.              X.________SA en liquidation
+est débitrice de A.N.________ de la somme de 7'500 fr. (sept mille cinq cents francs), TVA et débours
+compris, à titre de dépens.
+IV.              Maintenu
+V.              A.N.________, bénéficiaire
+de l’assistance judiciaire est, dans la mesure de l’art. 123 CPC, tenu au remboursement de
+l’indemnité de son conseil d’office fixée sous chiffre IV ci-dessus, laissée
+provisoirement la charge de l’Etat.
+VI.              Maintenu.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2'500 fr. (deux mille cinq
+cents francs), frais de publication en sus, sont mis à la charge de l’intimée.
+IV.
+L’indemnité d’office de Me Jean-Philippe Heim, conseil du recourant, est arrêtée
+à 6'288 fr. 30 (six mille deux cent huitante-huit francs et trente centimes).
+V.
+Le bénéficiaire de l’assistance judiciaire A.N.________ est, dans la mesure de l’art. 123 CPC,
+tenu au remboursement de l’indemnité du conseil d’office mise à la charge de l’Etat.
+VI.
+L’intimée X.________SA en liquidation doit verser au recourant A.N.________ la somme de 12'700
+fr. 80, TVA et débours compris, à titre de dépens de deuxième instance.
+VII.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Jean-Philippe Heim (pour A.N.________),
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois (pour
+X.________SA en liquidation),
+‑
+M. Z.________,
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office des districts d’Aigle et de la Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
