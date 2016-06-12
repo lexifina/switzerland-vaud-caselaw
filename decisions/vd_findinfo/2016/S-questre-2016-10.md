@@ -1,0 +1,331 @@
+---
+decision_id: "vd_findinfo_S_questre___2016___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2016 / 10"
+decided: "2016-06-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/2016072115403088_e.html"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-070.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2016 / 10
+
+## Regeste
+
+SÉQUESTRE{LP}, PREUVE FACILITÉE | 271 al. 1 ch. 4 LP, 272 al. 1 LP, 272 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des curatelles 12.06.2016 Séquestre / 2016 / 10
+
+SÉQUESTRE{LP}, PREUVE FACILITÉE | 271 al. 1 ch. 4 LP, 272 al. 1 LP, 272 LP
+
+TRIBUNAL
+CANTONAL
+KE15.041250-160613
+190
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 juin 2016
+_________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+271 al. 1 ch. 4, 272 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+L.________
+,
+à [...], contre le prononcé rendu le 10 mars 2016, à la suite de l’audience du même
+jour, par la Juge de paix du district de Nyon, dans la cause opposant le recourant à
+D.________
+,
+à [...] [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 27 février 2015, L.________ a déposé devant le Juge de paix du district de Nyon une
+requête de séquestre dirigée contre D.________. Invoquant le cas de séquestre de
+l’art. 271 al. 1 ch. 4 LP, il a requis le séquestre de toutes créances présentes
+ou futures que D.________ pourrait avoir envers l’UEFA, à concurrence de 225'666 fr., plus
+intérêt à 5 % l’an dès le 26 juillet 2013.
+A l’appui de sa requête, L.________ a produit notamment les pièces suivantes :
+-
+une procuration de H.________, à [...], autorisant à l’avance toute démarche judiciaire
+ou extra-judiciaire entreprise par le requérant pour recouvrer la commission de 210'000 euros due
+pour le transfert au C.________ de A.________; l’auteur de cette procuration précise qu’en
+autorisant L.________ à entreprendre de telles actions, il déclare respecter et se soumettre
+à tout jugement rendu par les instances compétentes suisses ;
+-
+une liste Internet dont il ressort que le requérant est enregistré comme agent de joueurs par
+la fédération de football [...] ;
+-
+une autre liste dont il ressort que H.________ est enregistré comme tel par la fédération
+[...] ;
+-
+une série de retranscriptions de sms qui auraient été échangés entre R.________),
+le requérant et H.________, avec des traductions en anglais et une traduction en français de
+ces textes ;
+-
+un acte signé par R.________, Secrétaire général du D.________, autorisant le requérant
+et H.________ à négocier pour le club des possibilités de transfert pour A.________ au
+C.________, le texte précisant que l’autorisation est valable jusqu’au 15 juin 2013
+;
+-
+deux articles de presse du 8 août 2013 et du 5 septembre 2013 dont il ressort que le joueur A.________
+a été transféré au C.________ ;
+-
+un article tiré d’Internet dont il ressort que la valeur du marché d’A.________
+serait de 2'250'000 euros et qui précise aussi que le transfert au C.________ aurait eu lieu le
+8 août 2013 ;
+-
+une déclaration de H.________ et une lettre de l’avocat commun de ce denier et du requérant
+au D.________.
+Le 25 mars 2015, le Juge de paix du district de Nyon a ordonné le séquestre, en mains de l’UEFA,
+en faveur d’L.________, à concurrence du montant réclamé dans la requête, de
+toutes créances présentes ou futures que D.________ pourrait avoir envers l’UEFA. Le
+cas de séquestre mentionné est celui de l’article 271 alinéa 1er chiffre 4 LP et
+le titre de la créance est « Contrat d’agence conclu oralement le 21 mai 2013 ».
+Le juge de paix a fixé l’émolument de justice à 1'800 fr., et a astreint le séquestrant
+à verser 22'500 fr. à titre de sûretés.
+2.
+Le 5 août 2015, L.________ a déposé
+devant le Juge de paix du district de Nyon une nouvelle requête de séquestre dirigée contre
+D.________. Invoquant le cas de séquestre de l’art. 271 al. 1 ch. 4 LP, il a requis le séquestre
+de toutes créances présentes ou futures du D.________ contre l’UEFA à concurrence
+de 131'437 fr. plus intérêt à 5 % l’an dès le 26 juillet 2013. L’état
+de fait invoqué est le même. Cette seconde requête s’explique par le fait que l’Office
+avait entretemps informé le requérant qu’un montant de 86'325 euros avait été
+séquestré et que selon le requérant, le D.________ disposait de nouvelles créances
+contre l’UEFA à la suite de sa qualification pour le deuxième tour de la Champion’s
+League.
+A l’appui de sa requête, L.________ a produit pour l’essentiel les mêmes pièces
+que celles produites à l’appui de sa première requête.
+Le 25 mars 2015, le Juge de paix du district de Nyon a ordonné le séquestre, en mains de l’UEFA,
+en faveur d’L.________, à concurrence du montant réclamé dans la requête, de
+toutes créances présentes ou futures que D.________ pourrait avoir envers l’UEFA.
+Le juge de paix a joint les causes par décision du 6 août 2015.
+3.
+Le 28 septembre 2015, D.________ s’est opposé
+aux séquestres. Il a ensuite produit notamment une offre du C.________ au D.________, datée
+du 10 juillet 2013, portant sur la somme de 1,2 millions d’euros pour A.________ et le contrat
+de transfert du 2 août 2013. Le montant de la transaction a été caviardé ; on sait
+seulement qu’il se situait entre un et deux millions d’euros. L’opposant a fait valoir
+que le transfert avait été négocié par un autre agent, O.________, et qu’au
+15 juin 2013, il n’avait eu aucun contact avec le C.________. Il a aussi produit des règlements
+de la FIFA concernant les agents de joueurs et la collaboration avec les intermédiaires.
+4.
+Par prononcé rendu sous forme de dispositif
+le 10 mars 2016, notifié au conseil du séquestrant le 16 mars 2016, le Juge de paix du district
+de Nyon, statuant à la suite de l’audience du 10 mars 2016, a admis les oppositions aux séquestres
+(I), révoqué les ordonnances de séquestre des 25 mars et 6 août 2015 (II), arrêté
+à 1’800 fr. les frais judiciaires, compensés avec l’avance de frais de la partie
+requérante (III), mis les frais à la charge de la partie intimée (IV) et dit qu’en
+conséquence celle-ci remboursera à la partie requérante son avance de frais à concurrence
+de 1'800 fr. et lui versera la somme de 4’000 francs à titre de dépens (V).
+Le 16 mars 2016, le séquestrant a requis la motivation de prononcé.
+Les motifs du prononcé ont été adressés aux parties le 7 avril 2016 et notifiés
+au séquestrant le lendemain.
+Le premier juge a, en substance, considéré que le séquestrant ne rendait pas vraisemblable
+l’existence de créances en sa faveur, que son domicile en Suisse ne constituait pas un lien
+suffisant avec la Suisse et, enfin, que la compétence des tribunaux suisses apparaissait douteuse.
+5.
+Le séquestrant a recouru le 18 avril 2016
+contre ce prononcé, concluant avec dépens, en substance, à sa réforme en ce sens
+que les oppositions aux séquestres sont rejetées et les ordonnances de séquestre confirmées.
+Le 20 avril 2016, la présidente de la cour de céans a admis la requête d’effet suspensif
+contenue dans le recours.
+Dans sa réponse du 20 mai 2016, l’intimé D.________ a conclu, avec dépens, au rejet
+du recours.
+Le recourant a déposé une réplique le 2 juin 2016, reçue au greffe le lendemain.
+En droit
+:
+I.
+Le recours introduit par acte écrit et motivé
+dans les dix jours suivant la notification de la décision attaquée, a été déposé
+dans les formes requises et en temps utile (art. 321 al. 1, 2 et 3 CPC [Code de procédure civile
+du 19 décembre 2008 ; RS 272] par renvoi de l’art. 278 al. 2 LP [loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1]). Il est recevable.
+La réponse de l’intimé est également recevable (art. 322 al. 2 CPC), de même
+que la réplique du recourant en vertu de son droit d’être entendu (art. 29 al. 2 Cst. ;
+ATF 138 I 154 c. 2.3.35D_153/2011 du 21 novembre 2011 consid. 2; TF 5A_42/2011 du 21 mars 2011 consid.
+2 ; CPF, 18 mars 2013/10; CPF, 6 août 2015/216; CPF, 25 juin 2015/181).
+II.
+a)
+Selon l'art. 271 al. 1 ch. 4 LP, le créancier
+d'une prétention échue non garantie par gage peut requérir le séquestre des biens
+du débiteur lorsque ce dernier n'habite pas en Suisse, s'il n'y a pas d'autre cas de séquestre,
+pour autant que la créance ait un lien suffisant avec la Suisse ou qu'elle se fonde sur un jugement
+exécutoire ou sur une reconnaissance de dette au sens de l'art. 82 al. 1 LP. Le séquestre,
+mesure conservatoire urgente, doit être autorisé par le juge compétent, lorsque le créancier
+rend vraisemblable, outre la réalisation du cas de séquestre invoqué, l'existence et l'exigibilité
+de la créance et l'existence de biens appartenant au débiteur (art. 272 al. 1 LP).
+b)
+La première question litigieuse est celle de savoir si la créance prétendue a un lien
+suffisant avec la Suisse. Le recourant prétend que lui-même, domicilié en Suisse, et un
+autre agent, domicilié en [...], auraient passé un contrat d’agence avec l’intimé
+afin de négocier le transfert d’un joueur au C.________.
+Sur cette question, le Tribunal fédéral a considéré que la notion de « lien
+suffisant  avec la Suisse » ne doit pas être interprétée restrictivement. Il
+y a un lien suffisant lorsque le débiteur exerce une activité commerciale en Suisse ayant un
+lien avec la créance litigieuse (TF 5A_222/2012 du 2 novembre 2012, SJ 2013 I p. 361). Dans les
+contrats bilatéraux, en sus du lieu de l'exécution de la prestation du débiteur, le lieu
+de l'exécution de la seule prestation du créancier crée un lien suffisant, même s'il
+ne permet de retenir ni la compétence du juge suisse, ni l'application du droit suisse, la prestation
+en cause n'étant pas celle caractéristique du contrat au sens des articles 113 et 117 al. 3
+LDIP (ATF 123 III 494 consid. 3a: in casu le lieu d'exécution de l'obligation du prêteur).
+La question n’est pas de déterminer quel est, cas échéant, le lien prépondérant.
+Le Tribunal fédéral a ainsi admis l’existence d’un lien suffisant quand un avocat
+exerçant à Bruxelles et s’occupant d’affaires concernant la Belgique fait des voyages
+en Suisse pour rencontrer son client – lequel s’est depuis installé à Bruxelles
+(TF 4C_581/2012, du 9 avril 2013).
+En l’espèce, le recourant exerce apparemment une activité commerciale en Suisse. Le contrat
+invoqué concerne un transfert à un club suisse. Il y a donc lieu de retenir l’existence
+d’un lien suffisant de la créance prétendue avec la Suisse.
+c)
+L’intimé fait valoir que le recourant n’aurait pas la légitimation active. A cet
+égard, les deux parties admettent que – pour peu que la créance existe, ce que conteste
+l’intimé – le recourant et H.________ en seraient créanciers communs, et consorts
+nécessaires. La question est donc de savoir comment on doit interpréter l’acte par lequel
+H.________ a confié au recourant les pouvoirs de procéder.
+A première vue, il ne s’agit pas d’une cession des droits de l’auteur de cet acte
+– cela n’est pas prétendu – mais simplement d’une procuration. On peut donc
+se demander si le recourant n’aurait pas dû agir également au nom de H.________. A cet
+égard, le recourant se fonde sur une phrase figurant dans le texte de l’acte, selon lequel
+son auteur déclare se soumettre à toute décision rendue par la justice suisse. Selon Jeandin
+(Code de procédure civile annoté, n. 10 ad art. 70 CPC) une telle mention serait suffisante.
+Cet auteur se fonde sur l’ATF 112 II 308, dans lequel on trouve en effet cette phrase en obiter
+dictum (en l’espèce, la légitimation des demandeurs avait été niée). Ce
+raisonnement apparaît douteux. En effet, si des consorts sont titulaires en commun d’une créance,
+on ne voit guère comment, même avec une telle déclaration de la partie qui ne procède
+pas, le tribunal devrait agir. Il ne pourrait, en cas d’admission de l’action, rien allouer
+à la partie qui ne procède pas. Il n’est pas certain non plus qu’en cas d’admission
+de l’action, il se justifierait d’allouer le tout à celui qui procède. Cette question
+peut toutefois demeurer indécise au vu des considérations qui suivent.
+d)
+En
+ce qui concerne la qualité de créancier du séquestrant, le degré de preuve requis
+est celui de la vraisemblance. Il suffit que le juge, dans son libre examen, aboutisse à la conviction
+que le fait invoqué correspond, avec une probabilité suffisante, aux allégations de la
+partie, sans qu'il doive nécessairement être convaincu de son exactitude ou que toute autre
+solution paraisse exclue (ATF 120 II 393, JdT 1995 I 571 ; Hohl, Procédure civile, tome II, nn.
+2758 ss, p. 225 ; Reeb, Les mesures provisoires dans la procédure de poursuite, in RDS 1997 II,
+pp. 465-466). Le degré requis de la vraisemblance de l'existence de la créance n'est que simple,
+mais cela ne signifie pas qu'il suffise que l'existence de la créance invoquée ne soit pas
+exclue ou qu'elle soit possible, voire plausible (CPF, 7 septembre 2012/361). Dans le cas traité
+dans l’arrêt cité, il ressortait des pièces que deux sociétés avaient
+été condamnées par une sentence arbitrale à payer des sommes d'argent aux séquestrants,
+que ces sociétés avaient ensuite été déclarées en faillite, que le prétendu
+débiteur était gérant de la première société et administrateur de la seconde
+et que les droits de la masse de cette dernière société contre les administrateurs pour
+les dommages qu'ils auraient pu causer avaient été cédés aux séquestrants. Il
+n'y avait toutefois aucun indice que la responsabilité de l’ancien administrateur était
+réellement engagée et la cour de céans avait admis pour cette raison l’opposition
+au séquestre.
+En l’espèce, il figure au dossier une autorisation donnée au recourant et à H.________
+par l’intimé, de négocier avec le C.________ la possibilité d’un transfert
+de A.________. Cette autorisation est stipulée valide jusqu’au 15 juin 2013. Aucune commission
+n’est mentionnée. On sait par ailleurs qu’il y a bien eu un transfert, mais celui-ci
+est intervenu le 2 août 2013.
+Selon le recourant, les parties auraient passé un contrat oral. Il n’y en a aucune trace au
+dossier, excepté les retranscriptions de sms supposés échangés entre le recourant,
+H.________ et R.________. Ces sms sont supposés dater, pour la plupart, du 2 juillet 2013. Dans
+le seul sms qui aurait été envoyé par le recourant, celui-ci expose que lui-même
+et H.________ auraient été les seuls à avoir négocié le transfert. Les autres
+textes retranscrits sont des protestations de H.________ selon lesquelles d’autres agents s’occuperaient
+du transfert, ce qui serait injuste. A été également produite une retranscription d’un
+sms supposé émaner de R.________, selon lequel le joueur ne serait pas transféré.
+Toutefois, ces transcriptions de sms n’ont aucune valeur probante. Il ne suffit d’ailleurs
+pas d’envoyer un sms pour rendre vraisemblable l’existence d’un contrat, et le sms
+du recourant, par exemple, pourrait tout aussi bien se référer à l’autorisation
+précitée.
+Pour le surplus, le recourant n’a produit aucun écrit quelconque qui aurait été
+échangé avec le C.________. Il n’y a au dossier, en dépit des affirmations du recourant,
+strictement aucune trace d’une activité quelconque.
+Ainsi, aucun accord n’est établi concernant une rémunération. L’accord qui
+a été prétendument passé prenait fin au 15 juin 2013, alors que le transfert a eu
+lieu un mois et demi plus tard. Aucune activité quelconque n’a été démontrée,
+ni même rendue vraisemblable. Que l’on considère l’autorisation précitée
+comme valant contrat de mandat, ou d’agence comme le prétend le recourant, aucune créance
+n’est rendue vraisemblable. Une créance est possible, mais cela n’est pas suffisant.
+On ne voit guère par ailleurs comment on pourrait envisager l’application de l’article
+418u CO, comme le soutient le recourant, cette disposition posant comme condition que l’agent a
+augmenté sensiblement par son activité le nombre des clients du mandant, condition qui n’est
+pas établie en l’espèce.
+e)
+Il
+n’est enfin pas certain que le droit suisse s’applique au contrat prétendu. La prestation
+caractéristique serait la négociation avec le C.________. Le recourant fait valoir qu’il
+est établi en Suisse, ce qui déterminerait l’application du droit suisse en application
+de l’article 117 alinéa 2 LDIP. L’intéressé semble bien avoir son domicile
+en Suisse, mais on ignore ce qu’il en était au moment du prétendu contrat, en 2013. Quoi
+qu’il en soit, dans l’hypothèse ou un autre droit serait applicable, il appartenait
+au recourant de l’établir en première instance. L’article 16 alinéa 1er LDIP
+n’est en effet pas applicable en matière de séquestre et il appartenait au poursuivant
+d’établir le droit étranger (ATF 140 III 456 consid. 2.3, et les références).
+III.
+En conclusion, le recours doit être rejeté
+et le prononcé confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 1'050
+fr., doivent être mis à la charge du recourant (art. 106 al. 1 CPC).
+Obtenant gain de cause, l’intimé a droit à des dépens de deuxième instance,
+fixés à 3'000 fr. (art. 8 TDC [tarif du 23 novembre 2010 des dépens en matière civile ;
+RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 1'050 fr. (mille cinquante
+francs), sont mis à la charge du recourant.
+IV.
+Le recourant L.________ versera à l’intimé D.________ la somme de 3'000 fr. (trois mille
+francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Philippe Cottier, avocat, (pour L.________),
+‑
+Me Luc Pittet, avocat, (pour D.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 349’341 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de Nyon.
+Le greffier :
