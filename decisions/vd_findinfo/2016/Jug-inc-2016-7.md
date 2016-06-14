@@ -1,0 +1,528 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2016___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2016 / 7"
+decided: "2016-06-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5572928"
+cites_law: ["switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-754.md", "switzerland/bund/acts/272/art-146.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-290.md", "switzerland/bund/acts/272/art-291.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/272/art-405.md"]
+---
+
+# VD Findinfo Jug-inc / 2016 / 7
+
+## Regeste
+
+ADMINISTRATION DES PREUVES | 8 CC, 163 CPC, 291 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 14.06.2016 Jug-inc / 2016 / 7
+
+ADMINISTRATION DES PREUVES | 8 CC, 163 CPC, 291 CPC
+
+TRIBUNAL
+CANTONAL
+CO09.000806
+21/2016/PMR
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+N.________
+,
+à Blonay,
+S.________
+,
+à Blonay,
+A.X.________
+,
+à Blonay,
+B.X.________
+,
+à Léchelles, et
+C.X.________
+,
+à Biembach, d'avec
+C.________
+,
+à Pully, et
+V.________SA
+,
+à Lausanne.
+___________________________________________________________________
+Séance
+du 14 juin 2016
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM. Muller et Hack, juges
+Greffier
+:              M.
+Glauser
+*****
+Statuant à huis clos, la Cour civile considère :
+En fait :
+1.
+Par demande du 9 janvier 2009, les demandeurs
+N.________, S.________, A.X.________, B.X.________ et C.X.________ ont conclu, avec suite de frais et
+dépens, au paiement par C.________ d’un montant de 12'678'922 fr. 27 et par ce dernier et
+V.________SA, solidairement entre eux, d’un montant de 183'843 fr. 90, tous deux avec intérêt
+à 5 % l’an dès
+9 janvier
+2009.
+Par réponse du 30 avril 2009, les défendeurs ont conclu, avec suite de frais et dépens,
+au rejet des conclusions de la demande (I) et, reconventionnellement, au constat que C.X.________ a porté
+une atteinte illicite à la personnalité de C.________ et V.________SA (II), au paiement par
+C.X.________ d’un montant de 20'000 fr. avec intérêt à 5 % l’an dès le
+30 avril 2009 à la [...] (III), au paiement par C.X.________ du même montant à la même
+fondation (IV), au paiement par N.________, S.________, A.X.________, B.X.________ et C.X.________ d’un
+montant de 33'000 fr. avec intérêt à 5 % l’an à C.________ (V), à la communication
+du jugement à la [...] (VI) et à ce qu’autorisation soit donnée à C.________
+et V.________SA de faire publier le jugement dans divers journaux aux frais de C.X.________ (VII).
+Dans leur réplique du 17 novembre 2010, les demandeurs ont conclu au rejet des conclusions reconventionnelles
+et ont augmenté leurs conclusions en ce sens que C.________ est leur débiteur, solidairement
+entre eux, d’un montant de 12'893'526 fr. 31, et que C.________ et V.________SA, solidairement
+entre eux, sont leur débiteurs, solidairement entre eux, d’un montant de 214'604 fr. 04, tous
+deux avec intérêt à 5 % l’an dès le 9 janvier 2009. Par duplique du
+28
+février 2011, les défendeurs ont confirmé leurs conclusions et conclu au rejet des conclusions
+augmentées des demandeurs.
+a)
+En substance, à l’appui de leurs
+conclusions, les demandeurs, qui sont les héritiers de B.________ (son épouse et ses quatre
+enfants), font valoir que le défendeur, qui a été nommé tuteur provisoire de B.________
+par décision de la Justice de paix du district de Vevey le 2 août 2007 et qui a été
+relevé de sa mission par cette autorité par décisions préprovisionnelle et provisionnelle
+des 10 et 24 juillet 2008, aurait non seulement géré les avoirs bancaires ou en titres de son
+pupille en violation fautive des dispositions légales en vigueur et en particulier des art. 5 ss
+RATu – notamment en transférant en partie ceux-ci à des établissements bancaires
+ou à V.________SA avant d’avoir dressé l’inventaire des biens du pupille, et en
+les investissant dans des placements soi-disant à haut risque, en particulier par le biais de V.________SA,
+etc. – mais également d’avoir lui-même, respectivement par V.________SA, perçu
+prétendument indûment des honoraires de gestion, des commissions d’apport et autres rétrocessions
+de la part desdits établissements bancaires. Ils allèguent en outre que les autorités
+tutélaires inférieure et supérieure ont refusé d’approuver les comptes de C.________
+concernant la tutelle provisoire (all. 1106 ss), que l’enquête pénale dirigée contre
+celui-ci a conclu à une perte de 9'307'037 fr. 34 concernant les avoirs bancaires gérés
+par ce dernier et V.________SA entre le 30 septembre 2007 et le 10 juillet 2008 (all. 1278) et que, dans
+le cadre de cette enquête, C.________ a admis n’avoir jamais demandé à l’autorité
+tutélaire l’autorisation de déléguer la gestion des comptes du pupille à V.________SA
+(all. 1095). Ils réclament à C.________ la réparation du préjudice prétendument
+subi par les avoirs du pupille du fait de la violation de ses obligations de tuteur (all. 1285 à
+1288, 1291), à hauteur d’un montant de 12'893'526 fr. 31 (all. 1338) et à C.________
+et V.________SA le remboursement des montants soi-disant indûment perçus à hauteur d’un
+montant de 214’604 fr. 04 (all. 1337).
+b)
+Les défendeurs contestent toute violation
+d'un devoir de gestion par  C.________ et/ou par V.________SA (all. 975 et 976). Ils font valoir
+en substance que C.________, dès sa nomination, a agi sur trois plans : réintégrer
+B.X.________, au vu de sa longue expérience, dans la gestion de la société familiale W.________AG
+– société dont le pupille était l’unique actionnaire – avec inscription
+au registre du commerce au 7 septembre 2007 (all. 405), payer les factures mensuelles (all. 406) et gérer
+le portefeuille de titres du pupille (all. 407). Sur ce dernier point, ils allèguent notamment avoir
+géré les avoirs du pupille dans l’intérêt de ce dernier, et ce en accord avec
+les demandeurs et l’autorité tutélaire, auxquels il aurait exposé une "stratégie
+de placements" (cf. par ex. all. 554 ss ; all. 1344 ss); en particulier, ils font valoir qu'au
+vu de l’urgence, il n’aurait pas été raisonnable d’attendre une autorisation
+écrite de l’autorité tutélaire pour prendre des mesures en vue du transfert du dossier
+de la Banque [...] – 8'900'000 fr. d’obligations de caisse de cette banque et 3'250'000 fr.
+de comptes à termes (all. 575 admis) – au [...] (all. 561 à 563), que l’achat de
+produits structurés ("reverse convertibles" et "goals") a offert plus de sécurité
+que les obligations de caisse de cette banque (all. 584 et 584), que la gestion du portefeuille financier
+du pupille assurée par V.________SA a répondu à une nécessité économique
+raisonnable (all. 592), a permis de générer des intérêts suffisants pour couvrir
+les dépenses du pupille sans entamer irréversiblement le capital (all. 698 et 1398), a été
+approuvée oralement, implicitement et par actes concluants par l’autorité tutélaire,
+qui a reçu une série de communications de la part de C.________ (all. 1403 et 1541 ss), et
+a été bénéficiaire par rapport à la situation où V.________SA n’aurait
+pris aucune décision (all. 960) ou aurait suivi strictement les recommandations du RATu (all. 1485).
+Par ailleurs, les défendeurs allèguent que le RATu, qui date de 1982, n’a jamais été
+révisé et n’est plus adapté à la gestion
+(all.
+627), que l’autorité tutélaire n’a jamais attiré l’attention de C.________
+sur ce règlement (all. 1357), et que les prescriptions sur le placement des capitaux des fondations
+– qui permet les investissements en produits dérivés, et dont les défendeurs se
+sont inspirés – correspond beaucoup mieux aux exigences d’une gestion de fortune conforme
+aux règles de l’art (all. 628 à 635). S’agissant des commissions d’apporteur
+d’affaires et des rétrocessions, ils font valoir qu’elles sont usuelles, et qu’elles
+n’ont au demeurant pas été débitées sur le patrimoine du pupille, mais été
+payées par les banques (all. 962 à 969, 1499), et qu’en particulier les rétrocessions
+sont la contrepartie d’un travail effectif (all. 1520 ss); au surplus, la délégation
+par C.________ à un autre gestionnaire tiers que V.________SA aurait engendré les mêmes
+commissions d’apporteur, les mêmes commissions de courtage et les mêmes rétrocessions
+que celles générées par la gestion de V.________SA (all. 970); les taux d’honoraires
+de gestion pratiqués par C.________, respectivement V.________SA, dans le cas du pupille, auraient
+été largement plus bas que la moyenne du marché (all. 1505, 1533).
+A
+l’appui de leurs conclusions reconventionnelles, les défendeurs font valoir que les allégations
+de C.X.________ faisant l'objet de la plainte pénale que C.________ a déposée à l’encontre
+des demandeurs le 12 septembre 2008, et qui ont été reprises dans la demande du 9 janvier 2009,
+sont infondées et illicites, et portent une grave atteinte à leur personnalité et à
+leur réputation professionnelle, notamment auprès des établissements bancaires de la place
+(all. 977 à 988). Il en résulterait pour C.________, respectivement V.________SA, un tort moral
+justifiant l’allocation à l’un et l’autre d’une indemnité de 20'000
+francs. Enfin, C.________ aurait dû assumer un montant de 33'000 fr. à titre d’honoraires
+d’avocat.
+c)
+Se prononçant, dans leur réplique, au
+sujet de la prétention en réparation du tort moral émise par les défendeurs dans
+leur réponse, les demandeurs ont allégué que les sévères critiques adressées
+par [...] et A.X.________ à l’égard du comportement observé par C.________ dans
+le cadre de la tutelle provisoire n’ont été adressées qu’à des autorités,
+dans le cadre de leurs compétences respectives (all. 1097), et que les autorités concernées
+ont d’ailleurs repris à leur compte les griefs en cause (all. 1098); ils ajoutent que C.________
+a été inculpé de gestion déloyale et de faux dans les titres pour les agissements
+qu’il a commis dans le cadre de la gestion des avoirs de son pupille (all. 1099) et qu’à
+aucun moment, C.X.________ ou A.X.________ n’ont relayé ces griefs envers des tiers et notamment
+des banques en relation d’affaires avec V.________SA (all. 1100).
+d)
+Se prononçant à ce sujet dans leur duplique,
+les défendeurs objectent que les allégations de C.X.________ auprès des autorités
+sont en elles-mêmes constitutives d’une atteinte à leur réputation (all. 1561) et
+que l’enquête pénale résultant des allégations de C.X.________ a débouché
+sur diverses mesures (infondées) conservatrices, tels que des avis du Juge d’instruction de
+2009 à l’attention de l’autorité tutélaire et des banques ainsi que d’une
+ordonnance de séquestre portant sur un compte bancaire de V.________SA (all. 1564).
+e)
+Dans son ordonnance sur preuves du 1
+er
+décembre 2011 (PV des opérations, p. 20), le Juge instructeur de la Cour civile a admis les
+offres de preuve des parties, à l’exception de celles, notamment, relatives à des allégués
+non pertinents ou pour lesquels l’offre de preuve n’était pas adéquate; parmi les
+105 allégués jugés sans pertinence
+figurent les allégués 410 à 423.
+2.
+Après un jugement incident du 15 septembre
+2015 admettant une requête de réforme introduite par les demandeurs, ceux-ci ont déposé
+une réplique complémentaire contenant des allégués relatifs à la procédure
+pénale dirigée contre C.________, notamment le dispositif et des passages du jugement rendu
+le
+7 novembre 2013 par le Tribunal correctionnel
+de l’arrondissement de Lausanne, de l’arrêt de la Cour d’appel pénale du
+Tribunal cantonal du 3 juillet 2014, et de l’arrêt du Tribunal fédéral du 18 mars
+2015. Il ressort de ces allégués que les demandeurs font valoir que, au terme de la procédure
+pénale, C.________ a été définitivement libéré du chef d’accusation
+de faux dans les titres et condamné pour gestion déloyale aggravée à une peine privative
+de liberté d’un an avec sursis pendant deux ans, ainsi qu’à 90 jours-amende à
+150 fr. le jour; une créance compensatrice de 109’268 fr. 60 à l’encontre de V.________SA
+et en faveur de la succession du pupille a été prononcée et le séquestre levé
+à concurrence de ce montant en faveur de la succession (all. 1578 à 1597).
+3.
+La cause étant en état d’être
+jugée, toutes les mesures probatoires ayant été administrées, un délai au 12
+février 2016, prolongé d’un commun accord au 30 avril 2016, a été imparti aux
+parties pour déposer un mémoire de droit en application de l’art. 317a CPC-VD. Les deux
+parties ont déposé un tel mémoire en temps utile. L’audience de jugement a été
+fixée au lundi 26 septembre 2016.
+4.
+Par requête incidente déposée auprès
+de la Cour civile le 14 avril 2016, les défendeurs C.________ et V.________SA ont pris, avec suite
+de frais et dépens, les conclusions suivantes :
+"I.
+La présente requête est admise.
+II.
+Les offres de preuves par titres à l’appui des allégués 411 à 413 sont admises,
+les dits allégués étant retenus comme pertinents."
+Les allégués 411 (détermination de la partie adverse : rapport aux pièces, contesté
+la pertinence), 412 (détermination : aveu indivisible ; contesté la pertinence),
+413 (idem), 427 (idem), 428 (détermination : admis) et 429 (détermination : admis)
+de la réponse et les allégués 1329 (détermination : contesté) et 1330 (détermination :
+contesté) de la réplique ont la teneur suivante :
+"
+(…)
+411.
+M. C.X.________ avait été nommé par B.________ président du conseil d’administration
+de W.________AG avec effet au
+19 juillet
+2007.
+Preuve
+:
+pièces 302 à 305 et 551 et 557 à 559
+412.
+Depuis sa révocation par son père en 1996, M. C.X.________ avait été tenu entièrement
+à l’écart des activités et de la direction de W.________AG.
+Preuve
+:
+pièces 302, 318, 455 et témoins
+413.
+M. B.X.________ avait brillament fait ses preuves à la tête de W.________AG comme directeur
+depuis près de 35 ans.
+Preuve
+:
+pièces 315, 361bis, 357 et témoins
+(…)
+427.
+Pour que M. B.X.________ accepte d’être élu au conseil d’administration de W.________AG
+et d’être réintégré à la tête de W.________AG, M. C.________ a assumé
+la présidence du conseil d’administration à titre provisoire dès le 7 septembre
+2007.
+Preuve
+:
+pièce 302, 551, témoin
+428.
+M. B.X.________ n’aurait pas accepté d’être élu au conseil d’administration
+de W.________AG sous la présidence de M. C.X.________.
+Preuve
+:
+témoin
+429.
+MM. B.X.________ et C.X.________ ont ainsi accepté d’être membres du conseil d’administration
+de W.________AG dès le
+7 septembre
+2007, sous la présidence de M. C.________.
+Preuve
+:
+pièces 302 à 304, 351, 403, 404 et témoins
+(…)"
+"(…)
+1329.-
+C.________ avait cependant un intérêt personnel à faire gérer activement le portefeuille
+de M. B.________ …
+Preuve
+:
+Par la procédure, appréciation du Tribunal
+1330.-
+… et se trouvait dès lors dans une situation de grave conflit d’intérêts.
+Preuve
+:
+Pièce 704 (chiffre 3.3)
+(…)"
+Dans la partie "Faits" de leur requête incidente, les défendeurs et requérants
+ont invoqué ce qui suit :
+"(…)
+10
+L’objet des allégués 411 à 413 explique les raisons des faits exposés à
+l’allégué 427 (retenu comme pertinent par M. le Juge instructeur), soit les raisons pour
+lesquelles, en sa qualité de curateur provisoire de l’actionnaire unique, C.________ a jugé
+nécessaire de rétablir B.X.________ dans ses fonctions et de l’élire au conseil
+d’administration, pourquoi ce n’était pas possible pour ce dernier que si C.X.________
+n’était plus président et pourquoi, ainsi, C.________ a assumé provisoirement la
+présidence de W.________AG dès le 7 septembre 2007.
+Preuve
+:
+par la procédure
+(…)"
+Par avis du 15 avril 2016, un délai au 6 mai 2016 a été imparti aux parties par le Juge
+instructeur de la Cour civile en application des
+art.
+148 et 149 al. 4 CPC-VD. Le 26 avril 2016, les demandeurs et intimés ont déclaré ne pas
+s’opposer à la requête incidente. Au vu de cette détermination, les requérants
+ont déclaré, le 3 mai 2016, qu’ils considéraient que leur interpellation au sens
+de l’art. 149 al. 4 CPC-VD était désormais sans objet.
+En droit :
+I.
+A
+teneur de l'art. 404 al. 1 CPC (Code de procédure civile du
+19
+décembre 2008; RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau
+droit demeurent régies par l'ancien droit de procédure cantonal jusqu'à la clôture
+de l'instance. Le jugement incident rendu dans le cadre d'une procédure au fond soumise à l'ancien
+droit de procédure cantonal est également régi par cet ancien droit (CREC II 20 juillet
+2011/66 consid. 1a; Haldy, La nouvelle procédure civile suisse, p. 3, n. 7; Tappy, Le droit
+transitoire applicable lors de l'introduction de la nouvelle procédure civile unifiée,
+in
+JdT 2010 III 11, spéc. pp. 36 à 38).
+En l'occurrence, la procédure au fond était en cours lors de l'entrée en vigueur du CPC
+le 1
+er
+janvier 2011. Elle demeure donc régie par l'ancien droit de procédure, soit notamment le CPC-VD
+(Code de procédure civile vaudoise du
+14
+décembre 1966, dans sa version au 31 décembre 2010), de même que la présente
+procédure incidente.
+II.
+Aux termes de l'art. 291 CPC-VD, le tribunal peut,
+avant et pendant les débats, ordonner l'administration de preuves régulièrement offertes,
+que le juge instructeur avait refusé d'administrer, et l'audition de témoins entendus hors
+procès ou en cours d'instruction. Le complément d'instruction au sens de cette disposition
+peut être ordonné d'office ou sur réquisition (Poudret/Haldy/Tappy, Procédure civile
+vaudoise, 3
+e
+éd., n. 1 ad art. 291 CPC-VD). Dans ce second cas, la partie doit procéder en la forme incidente
+au sens des art. 146 et suivants
+CPC-VD
+et non par une simple réquisition (Poudret/Haldy/Tappy, loc. cit.; Moser, Le complément d'instruction
+de l'art. 291 CPC, in JdT 1978 III 2 ss, pp. 3 s.; Poudret, Remarques sur l'art. 291 CPC, JdT 1978 III
+9 ss, p. 10). Selon l'art. 146 CPC-VD, le juge compétent en matière incidente est le juge instructeur
+(al. 1), les conclusions prises en la forme incidente moins de dix jours avant l'audience de jugement
+étant jugées par le tribunal à cette audience (al. 2). La jurisprudence considère
+que c’est la Cour civile, et non plus le juge instructeur, qui est compétente pour connaître
+d’une requête incidente en complément d’instruction lorsque les mémoires de
+droit ont été déposés ou lorsque le délai fixé à cet effet est échu
+(CCIV, 18 juin 2007/90 ;
+CCIV 7 mai
+2007/57; Poudret/Haldy/Tappy, op. cit., n. 1 ad art. 290 CPC-VD).
+En
+l'espèce, la requête incidente a pour objet un
+complément d'instruction, dans la mesure où elle tend à ce que les pièces offertes
+comme preuve aux allégués 411 à 413 puissent être prises en compte. Elle a été
+formée après l’échéance du délai fixé pour le dépôt des
+mémoires de droit, et après la fixation de l’audience de jugement. La Cour civile est
+donc compétente pour en connaître.
+Satisfaisant
+aux exigences des articles 19 et 147 al. 1
+er
+CPC-VD, et déposée auprès de l’autorité compétente, la requête est
+recevable.
+La Cour civile est en mesure de statuer sur le vu de la requête et des déterminations des parties.
+Au demeurant, les parties ont renoncé à la tenue d’une audience, à des mesures d’instruction
+ou au dépôt d’un bref mémoire écrit.
+III.
+a)
+A l’appui de la partie "droit"
+de leur requête incidente, les requérants ont invoqué ce qui suit :
+"(…)
+L’ordonnance
+sur preuve a écarté les allégués 411 à 413 qui sont indissociables de l’allégué
+427. D’une part, les intimés ont cherché à dresser de C.________ le portrait d’un
+homme cupide qui, en quelque sorte et si on le comprend bien, aurait tenté d’abuser de ses
+prérogatives de tuteur provisoire pour assurer une sorte de mainmise sur le patrimoine de B.________.
+Ce procès d’intention apparaît néanmoins aux allégués 1329 et 1330 de
+la réplique. L’allégation par les intimés de la prétendue favorisation de C.________
+de son intérêt personnel est totalement infirmée par les éléments contextuels,
+partant par les raisons et objectifs de la gestion assurée par C.________ respectivement par V.________SA,
+en faveur de B.________. L’objet des allégués 411 à 413 démontre en particulier
+les raisons pour lesquelles C.________ a assumé la présidence de W.________AG et l’esprit
+général dans lequel il a agi comme tuteur provisoire de B.________ (requête, p. 5).
+(…)"
+Ils
+considèrent que l’ordonnance sur preuve du 1
+er
+décembre 2011 viole l’art. 8 CC et l’art. 163 CPC-VD, qui concrétise l’art.
+8 CC en procédure vaudoise, pour la raison suivante :
+"(…)
+Dès lors que les faits objets des allégués retenus comme prétendument non pertinents
+sont bel et bien susceptibles d’exercer une influence sur le sort de la cause, ils sont couverts
+par le droit à la preuve au sens de l’art. 8 CC (Denis Piotet, Code civil I, Commentaire romand,
+n. 71 ad art. 8 CC. Il s’agit bien des faits litigieux dont peuvent être déduites des
+conséquences sur les conclusions formées par les parties et le droit matériel qui les
+sous-tend (même référence). L’ordonnance sur preuve du 1
+er
+décembre 2011 viole également le droit à une contre-preuve des requérants qui contestent
+l’allégation des intimés selon laquelle C.________ aurait privilégié ses intérêts
+propres (requête p. 6).
+(…)"
+b)
+L'art. 8 CC règle, pour tout le domaine du
+droit civil fédéral, la répartition du fardeau de la preuve et détermine quelle partie
+doit assumer les conséquences de l'échec de la preuve. Il confère en outre le droit à
+la preuve et à la contre-preuve (ATF 129 III 18 consid. 2.6). Le juge viole l'art. 8 CC notamment
+lorsqu'il omet ou refuse d'administrer des preuves sur des faits pertinents et régulièrement
+allégués, ou lorsqu'il tient pour exactes les allégations non prouvées d'une partie
+nonobstant leur contestation par la partie adverse (ATF 114 II 289 consid. 2a). Les faits pertinents
+sont ceux de nature à influer sur le sort du litige
+(TF
+4A_362/2015 du 1
+er
+décembre 2015 consid. 2.2 et les références citées;
+TF
+4A_502/2012 du 22 janvier 2013 consid. 3.1).
+c)
+En
+l’espèce, les requérants se contentent d’affirmer que les faits contenus aux allégués
+411 à 413 sont "bel et bien susceptibles d’exercer une influence sur le sort de la cause".
+Ils ne fournissent cependant pas un début de démonstration permettant de s’en convaincre.
+En particulier, ils ne prétendent pas, ni ne rendent d'ailleurs vraisemblable comment, à supposer
+que les faits allégués sous numéros 411 à 413 soient établis, ils pourraient
+d’une quelconque manière contribuer à empêcher, même dans une infime mesure,
+l’admission des conclusions des demandeurs en réparation d’un prétendu dommage
+de 12'893'526 fr. 31, d’une part, ou d’empêcher l’admission de leurs conclusions
+en restitution de prétendus honoraires de gestion, commissions et de rétrocessions de 214'604
+fr. 04, d’autre part. Les requérants ne prétendent pas non plus que ces faits, à
+supposer établis, pourraient avoir une quelconque influence sur le sort de leurs conclusions reconventionnelles
+fondées sur une atteinte à leur personnalité.
+Les
+requérants ne démontrent ainsi pas suffisamment que les trois faits en cause pourraient être
+pertinents pour juger les prétentions actives et reconventionnelles des parties.
+En
+effet, il faut bien avoir à l’esprit que le litige ne concerne pas une action en responsabilité
+intentée par la société W.________AG ou un créancier social contre le requérant
+C.________ pour les actes de gestion que celui-ci a accomplis comme administrateur de W.________AG (art.
+754 CO), ni ne concerne la gestion du patrimoine industriel du pupille (les actions de W.________AG ou
+l’entreprise elle-même ; cf. all. 576), mais exclusivement la gestion de son portefeuille
+de titres auprès d’établissements bancaires. Ainsi, le fait que C.X.________ aurait été
+tenu à l’écart des activités de la société depuis 1996 (cf. all. 412)
+puis aurait été nommé par son père au conseil d’administration en juillet 2007
+(cf. all. 411) ainsi que le fait que B.X.________ aurait fait ses preuves à la tête de W.________AG
+pendant 35 ans (all. 413), paraissent, à ce stade, sans influence possible sur le sort de la cause.
+Il en va de même des circonstances qui ont conduit le requérant à assumer la présidence
+de W.________AG, alléguées sous numéro 427.
+De
+toute manière, l’allégué 427 se comprend à lui tout seul, ou à tout le
+moins au moyen des allégués 428 et 429 qui ont été admis, sans qu’il soit nécessaire
+d’introduire à cet effet les allégués 411 à 413. L’argument des requérants
+sur ce point est ainsi mal fondé. Du reste, les éléments de fait en cause sont mentionnés
+ailleurs dans la réponse (cf. all. 814 et 877).
+Les
+requérants font certes valoir que les allégués 411 à 413 seraient utiles pour "la
+contre-preuve (…) de l’allégation des intimés selon laquelle C.________ aurait
+privilégié ses intérêts". Ce dernier n’est toutefois pas mentionné
+dans ces allégués, et ceux-ci ne concernent pas ses intérêts. Cet argument est ainsi
+dénué de fondement.
+Pour
+reprendre leurs propres termes (cf.
+supra
+consid. II a)), les requérants font valoir que ces allégués auraient un caractère
+"contextuel", ou seraient relatifs à un "esprit général" sur les "raisons
+et objectifs de la gestion assurée par C.________, respectivement par V.________SA en faveur de
+B.________". Or,
+stricto
+sensu
+, ces allégués ne concernent pas
+la gestion des biens du pupille, ni a fortiori les intentions du tuteur provisoire à cet égard,
+de sorte que l’argument des requérant est à nouveau dépourvu de consistance. Quoi
+qu'il en soit, à supposer même que ces allégués aient trait aux "raisons et
+objectifs" qui auraient guidé les requérants dans la gestion des biens du pupille, ce
+qui n’est pas le cas, il faudrait constater que, dans la réponse et la duplique qu’ils
+ont déposées, ils ont exposé leur argumentation à cet égard dans de très
+nombreux allégués, sans qu’il soit nécessaire ni utile d’en rajouter.
+En conclusion, les faits contenus dans les trois allégués litigieux doivent être considérés
+comme étant dénués de toute pertinence pour le sort des prétentions litigieuses,
+voire déjà allégués sous une autre forme. Il s'ensuit que le droit à la preuve
+des requérants, tiré de l'art. 8 CC, n’a pas été violé.
+IV.
+La requête en complément d’instruction,
+manifestement mal fondée, doit être rejetée, aux frais de ses auteurs. Les intimés,
+qui ne se sont pas opposés aux conclusions incidentes, n’ont pas droit à des dépens
+(art. 92 et
+150 al. 2 CPC-VD).
+V.
+Selon l'art. 405 al. 1 CPC, les recours sont régis
+par le droit en vigueur au moment de la communication de la décision aux parties. Dans la mesure
+où il constitue une décision statuant sur l'admission de faits ou de moyens de preuves nouveaux
+ne causant pas de préjudice irréparable aux requérants
+(CREC
+6 juin 2016/194 et les références citées), le présent jugement incident n’est
+susceptible d’aucun appel ni recours direct (art. 319 let. b ch. 2 CPC). Par conséquent, aucune
+voie de droit ne sera indiquée au pied de celui-ci.
+Par
+ces motifs,
+la
+Cour civile,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête incidente est rejetée.
+II.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs) pour
+les requérants, solidairement entre eux.
+III.
+Il n'est pas alloué de dépens.
+La
+Présidente :              Le greffier :
+F.
+Byrde              Y. Glauser
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié par l'envoi
+de photocopies aux conseils des parties.
+Le greffier :
+Y. Glauser
