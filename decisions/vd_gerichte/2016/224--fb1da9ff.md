@@ -1,0 +1,118 @@
+---
+decision_id: "vd_gerichte_821182e7-6792-47e1-b679-6c8a16dbdc73"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREC"
+docket: "224"
+decided: "2016-06-20"
+published: "2016-07-22"
+language: "fr"
+legal_area: "Affaire pécuniaire"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/821182e7-6792-47e1-b679-6c8a16dbdc73"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-308.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md"]
+---
+
+# Affaire pécuniaire
+
+## Text
+
+TRIBUNAL CANTONAL
+JJ11.048410-161008
+224
+CHAMBRE D E S RECOURS CIVIL E
+_________________________________________
+Arrêt du 20 juin 2016
+__________________
+Composition : M. WINZAP, président
+M. Pellet et Mme Courbat, juges
+Greffier : M. Valentino
+*****
+Art. 321 CPC
+Statuant à huis clos sur le recours interjeté par Z.________, à
+Villars-Ste-Croix, contre la décision finale rendue le 29 janvier 2016 par la
+Juge de paix du district de l’Ouest vaudois dans la cause divisant le
+recourant d’avec N.________, à Lausanne, la Chambre des recours civile du
+Tribunal cantonal considère :
+855
+
+- 2 -
+En fait et e n droi t :
+1. Par décision finale du 29 janvier 2016, notifiée aux parties le
+10 mai 2016, la Juge de paix du district de l’Ouest lausannois a dit que la
+partie défenderesse Z.________ doit verser à la partie demanderesse
+N.________ la somme de 6'861 fr. 05, plus intérêt à 5% l'an dès le 11 mai
+2010 (I), que l'opposition formée au commandement de payer no 5448643
+de l'Office des poursuites du district de Morges est définitivement levée
+dans la mesure indiquée sous chiffre I ci-dessus (II) et que les poursuites
+nos 5768287 et 5841105 de l’Office des poursuites de Lavaux-Oron
+notifiées à la défenderesse [...] sur réquisition du demandeur sont sans
+fondement, ordre étant donné à l’Office des poursuites précité de ne pas
+les porter à la connaissance de tiers (III), arrêté les frais et dépens (IV à
+VIII) et rejeté toutes autres ou plus amples conclusions (IX).
+2. Par acte daté du 10 juin 2016, Z.________ a interjeté recours
+contre cette décision, en concluant à l’annulation des chiffres I, II, IV, V et
+VII à IX de son dispositif, à ce qu’il lui soit donné acte qu’il ne conteste pas
+les chiffres III et VI dudit dispositif, à ce que N.________ soit débouté des
+fins de toutes ses conclusions contre le recourant, selon demande en
+procédure simplifiée du 9 décembre 2011, à ce qu’il soit constaté le bien-
+fondé de l’opposition formée à la poursuite 5448643 de l’Office des
+poursuites de Morges, à la radiation de cette poursuite et subsidiairement
+au renvoi de la cause au premier juge pour complément d’instruction et
+nouvelle décision dans le sens des considérants.
+3.
+3.1 A teneur de l’art. 319 let. a CPC (Code de procédure civile
+suisse du 19 décembre 2008 ; RS 272), le recours est recevable contre les
+décisions finales de première instance qui ne peuvent faire l’objet d’un
+appel. Selon l’art. 308 al. 2 CPC, dans les affaires patrimoniales, l’appel est
+recevable si la valeur litigieuse au dernier état des conclusions est de
+10'000 fr. au moins.
+
+- 3 -
+En l’espèce, la valeur litigieuse étant inférieure à ce montant,
+c’est bien la voie du recours qui est ouverte.
+3.2 Le recours, écrit et motivé, est introduit auprès de l'instance
+de recours, soit la Chambre des recours civile du canton de Vaud (art. 73
+al. 1 LOJV [loi d'organisation judiciaire du 12 décembre 1979; RSV 173.01),
+dans les trente jours à compter de la notification de la décision motivée ou
+de la notification postérieure de la motivation (art. 321 al. 1 CPC), la
+décision attaquée indiquant par erreur un délai de dix jours.
+En l’occurrence, la décision attaquée a été notifiée au
+recourant le mercredi 11 mai 2016, de sorte que le délai pour recourir
+arrivait à échéance le vendredi 10 juin 2016. Remis à un office postal le
+dimanche 12 juin 2016, selon le sceau postal figurant sur l’enveloppe
+contenant l’acte de recours, celui-ci s’avère tardif, si bien qu'il doit être
+déclaré irrecevable selon le mode procédural de l’art. 322 al. 1 CPC.
+4. En application de l’art. 10 TFJC (tarif des frais judiciaires civils
+du
+28 septembre 2010 ; RSV 270.11.5), le présent arrêt peut être rendu sans
+frais.
+Par ces motifs,
+la Chambre des recours civile du Tribunal cantonal,
+en application de l'art. 322 al. 1 CPC,
+prononce :
+I. Le recours est irrecevable.
+II. L’arrêt, rendu sans frais, est exécutoire.
+Le président : Le greffier :
+
+- 4 -
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- Me Olivier Carré (pour Z.________),
+- M. N.________.
+La Chambre des recours civile considère que la valeur
+litigieuse est inférieure à 30’000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Mme la Juge de paix du district de l’Ouest lausannois.
+Le greffier :
