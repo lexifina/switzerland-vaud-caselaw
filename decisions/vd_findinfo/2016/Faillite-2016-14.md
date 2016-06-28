@@ -1,0 +1,624 @@
+---
+decision_id: "vd_findinfo_Faillite___2016___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2016 / 14"
+decided: "2016-06-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5583439"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-032.md", "switzerland/bund/acts/220/art-034.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-043.md", "switzerland/bund/acts/281.1/art-077.md", "switzerland/bund/acts/281.1/art-162.md", "switzerland/bund/acts/281.1/art-170.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md", "switzerland/bund/acts/281.1/art-197.md"]
+---
+
+# VD Findinfo Faillite / 2016 / 14
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ, PREUVE, FORCE PROBANTE, TITRE{DOCUMENT}, PREUVE FACILITÉE | 32 CO, 172 ch. 3 LP, 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.06.2016 Faillite / 2016 / 14
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ, PREUVE, FORCE PROBANTE, TITRE{DOCUMENT}, PREUVE FACILITÉE | 32 CO, 172 ch. 3 LP, 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF16.004500-160494
+155
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 juin 2016
+__________________
+Composition
+:               Mme
+Byrde
+,
+vice-présidente
+Mme
+Carlsson et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+172 ch. 3 et 174 al. 2 LP ; 32 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+U.________Sàrl
+,
+à Nyon, contre le jugement rendu à la suite de l’audience du 7 mars 2016 par la Présidente
+du Tribunal d’arrondissement de La Côte, prononçant la faillite de la recourante, le
+11 mars 2016, à 9 heures, à la réquisition de
+C.________
+,
+à Chêne-Bougeries.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 29 janvier 2016, C.________ a requis du Président du Tribunal d’arrondissement de La Côte
+qu’il prononce la faillite de la société U.________Sàrl, à Nyon. A l’appui
+de sa requête, elle a produit :
+-
+l’original du commandement de payer n° 7'532'366 de l’Office des poursuites du district
+de Nyon, libre d’opposition, notifié à sa requête le 20 août 2015 à U.________Sàrl,
+pour le montant de 27'500 fr. plus intérêts, représentant des loyers impayés durant
+la période du 15 mars au 31 août 2014 d’un appartement situé au [...], à
+Genève ;
+-
+l’original de la commination de faillite notifiée le 7 octobre 2015 à la débitrice
+dans la poursuite n° 7'532'366.
+Les parties ont été citées à comparaître à l’audience de faillite
+du 7 mars 2016, par avis recommandé du 4 février 2016.
+Par acte du 4 mars 2016, l’intimée a conclu au rejet de la requête de faillite. A l’appui
+de cette conclusion, elle a déposé dix-sept pièces sous bordereau, parmi lesquelles les
+pièces suivantes, en photocopies :
+-
+un contrat de bail à loyer conclu le 13 septembre 2013 entre C.________, en qualité de propriétaire,
+d’une part, et B.________ et U.________Sàrl, en qualité de locataires agissant solidairement
+entre eux, d’autre part, portant sur la location d’un appartement de cinq pièces et
+demie au 2
+e
+étage de l’immeuble sis [...], à Genève, du 16 septembre 2013 au 15 septembre 2014,
+pour un loyer brut de 5'000 fr. par mois ;
+-
+un contrat de gérance conclu le 25 novembre 2013 entre L.________SA et C.________, pour une période
+d’une année, du 1
+er
+décembre 2013 au 30 novembre 2014, renouvelable, la première acceptant d’assumer la gérance
+de l’appartement objet du contrat de bail précité et s’engageant en particulier
+à vérifier le paiement mensuel des loyers, à assister le locataire en cas de problèmes
+techniques, à assurer les états des lieux d’entrée et de sortie et à traiter
+les problèmes liés à l’appartement ;
+-
+une lettre du 25 septembre « 2013 » [recte : 2014] de L.________SA à la
+Banque privée [...] SA, lui rappelant qu’elle s’était portée caution simple
+en garantie du loyer envers C.________ à concurrence du montant de 13'800 fr., que le loyer n’était
+plus payé depuis le 15 mars 2014 et que B.________ avait quitté l’appartement le 26 août
+2014 en étant redevable du montant de 27'500 fr., et lui demandant de libérer la caution de
+13'800 francs ;
+-
+un commandement de payer n° 7'070'118 de l’Office des poursuites du district de Nyon, frappé
+d’opposition totale, notifié le 14 octobre 2014 à U.________Sàrl, à l’instance
+de C.________, représentée par L.________SA, en paiement du montant de 15'000 fr. plus intérêts
+à 5% dès le 15 mars 2014, au titre de loyers impayés pour la période du 15 mars au
+15 juin 2014 de l’appartement [...], à Genève ;
+-
+une lettre du 17 novembre 2014 de L.________SA à la Banque privée [...] SA, réclamant
+à nouveau la libération de la garantie ;
+-
+le commandement de payé libre d’opposition notifié le 20 août 2015 à U.________Sàrl
+dans la poursuite n° 7'532'366 à l’origine de la faillite en cause ;
+-
+une facture et reconnaissance de dette du 24 septembre 2015 de L.________SA, adressée à « Monsieur
+B.________ Représenté par Monsieur [...] de la société U.________Sàrl »,
+qui se réfère notamment à la poursuite « N° 7'070'118/Nyon »
+et dont la teneur est la suivante (extrait) :
+«
+Facture
+Loyers
+impayés du 15 mars 2015 (sic) au 15 septembre 2015 (sic)
+- Mars 2014 / Avril 2014 / Mai 2015 (sic)
+3 x 5'000.-
+Frs 15'000.-
+- Juin 2014 / Juillet 2014 / Août 2014
+3 x 5'000.-
+Compensés avec
+la garantie bancaire
+Total
+dû
+Frs 15'000.-
+Il
+a été convenu de l’arrangement suivant :
+- Frs 5'000.- ce jour
+- Frs 5'000.- le 30 octobre 2015
+- Frs 5'000.- le 30 novembre 2015
+Monsieur
+[...], U.________Sàrl, agissant pour le compte de Mr B.________, pour la reconnaissance de dette
+de Frs 10'000.- (sic) à régler comme convenu.
+Bon
+pour accord, Genève le
+Signature :
+(signature
+manuscrite illisible) (timbre de la filiale genevoise d’U.________Sàrl
+) » ;
+-
+une quittance et reconnaissance de dette manuscrite du même jour, 24 septembre 2015, établie
+par L.________SA, dont il ressort qu’un montant de 15'000 fr. représentant trois loyers est
+dû par U.________Sàrl, qu’un montant de 5'000 fr. a été payé le même
+jour, que deux versements de 5'000 fr. chacun sont reconnus et stipulés payables aux 30 octobre
+et 30 novembre 2015 ; le document porte en outre la mention qu’un montant de 5'000 fr. a encore
+été payé le 16 novembre 2015 ;
+-
+une quittance établie par L.________SA le 24 septembre 2015 relative au paiement par U.________Sàrl
+du montant de 1'500 fr. pour les frais de poursuite et les intérêts ;
+-
+une lettre du 24 septembre 2015 de L.________SA à l’Office des poursuites du district de Nyon,
+déclarant annuler la poursuite n° 201’425’667 du 31 octobre 2014 à l’encontre
+d’U.________Sàrl ;
+-
+une lettre du 24 septembre 2015 de L.________SA à « B.________ (sic) Représenté
+par Monsieur [...] de la société U.________Sàrl », confirmant avoir « reçu
+le solde de tout compte » relatif aux poursuites « N 7070118/Nyon » et
+« N 14177320U/Genève », soit 15'000 fr. pour les loyers de mars à
+mai 2014 et 15'000 fr. pour les loyers de juin à août 2014, compensés avec la garantie
+bancaire de 13'800 francs.
+2.
+Par jugement rendu le 11 mars 2016, à la suite de l’audience du 7, et notifié aux parties
+le 14 mars 2016, la Présidente du Tribunal d’arrondissement de La Côte a prononcé,
+contradictoirement, la faillite d’U.________Sàrl, le 11 mars 2016, à 9 heures,
+mis les frais, par 200 fr., à la charge de la faillie et dit que celle-ci verserait à C.________
+des dépens arrêtés à 300 francs.
+En bref, le premier juge a retenu que l’intimée devait apporter la preuve stricte que la créance
+avait été acquittée en capital, intérêts et frais, que selon l’arrangement
+conclu avec L.________SA, la dette à l’origine de la requête de faillite devait être
+acquittée à concurrence de 15'000 fr. par compensation avec la garantie bancaire délivrée
+par la Banque [...] SA et à concurrence de 15'000 fr. par trois versements de 5'000 fr. chacun échus,
+respectivement, les 24 septembre, 30 octobre et 30 novembre 2015, que l’intimée avait
+produit deux quittances attestant l’une de deux versements de 5'000 fr. effectués respectivement
+les 24 septembre et 16 novembre 2015 et d’un versement de 1'500 fr. à titre de frais et d’intérêts,
+effectué le 24 septembre 2015, qu’elle n’avait en revanche pas établi par titre
+le versement de l’acompte de 5'000 fr. échu le 30 octobre 2015, ni la libération de la
+caution à hauteur de 13'800 fr., que l’on pouvait déduire de la lettre adressée
+par L.________SA à la Banque [...] le 17 novembre 2014 qu’à cette date, la banque n’avait
+encore effectué aucun versement, que la requérante affirmait de son côté n’avoir
+reçu aucun montant de l’intimée ou de L.________SA, que l’intimée n’établissait
+dès lors pas avec certitude s’être acquittée du montant de la poursuite n°
+7'532'366 en capital, intérêts et frais, de sorte que la faillite de cette société
+devait être prononcée.
+3.
+a)
+Par acte du 24 mars 2016, la faillie a recouru contre le jugement qui précède, concluant, avec
+suite de frais et dépens, principalement, à l’admission du recours, à l’annulation
+du jugement du 11 mars 2016 et à la restitution du montant de 30'711 fr. 95 déposé par
+elle sur le compte de la Cour des poursuites et faillites du Tribunal cantonal, subsidiairement, à
+la restitution du solde du montant déposé, après libération en faveur de C.________
+« du montant dû dont la quotité est arrêtée à dire de justice ».
+A l’appui de son recours, elle a produit en photocopies, outre le jugement attaqué et
+une procuration en faveur de son conseil :
+-
+un avis de débit de la Banque Edmond de Rotschild SA relatif au transfert du montant de 13'800 fr.,
+valeur au 24 novembre 2014, sur un compte bancaire auprès de la Banque Raiffeisen du Salève,
+en faveur de L.________SA, portant la mention : « Paiement effectué en complète
+annulation de notre cautionnement simple GE 14-61 – Mme C.________ » (pièce 101)
+;
+-
+une quittance établie le 30 octobre 2015 par L.________SA, attestant du paiement « ce
+jour » par U.________Sàrl de 5'000 fr. et mentionnant « reconnaissance de dette
+2015 – 30 Novembre 5'000.- » (pièce 102) ;
+-
+un récépissé postal du 18 mars 2016, relatif au versement pour le compte d’U.________Sàrl
+d’un montant de 30'711 fr. 95 à la Cour des poursuites et faillites du Tribunal cantonal (pièce
+104).
+La recourante a requis l’effet suspensif, qui a été accordé, par décision de
+la présidente de la cour de céans du 29 mars 2016, ordonnant, à titre de mesures conservatoires,
+l’inventaire et l’audition de la faillie.
+b)
+La
+liste des poursuites pendantes contre la recourante au 29 mars 2016, extraite des registres de l’Office
+des poursuites du district de Nyon, fait état de six poursuites introduites du 30 mai 2013 au 25
+février 2015 pour la somme totale de 170'069 fr. 55, dont la poursuite n° 7'532'366 à
+l’origine de la faillite, qui figure pour un solde de 30'103 fr. 65. Deux autres poursuites en
+sont au stade de la commination de faillite (n° 7'408’362), respectivement de la continuation
+de poursuite (n° 7'673'391), pour la somme totale de 29'611 fr. 05. La première poursuite,
+introduite en 2013 (n° 6'653'384), de 99'799 fr., en est encore au stade du commandement de payer
+frappé d’opposition. Quant aux deux dernières poursuites, les commandements de payer,
+notifiés en février et mars 2016, pour la somme totale de 10'555 fr. 85 relative à la
+TVA, n’ont pas été frappés d’opposition.
+La recourante s’est déterminée sur ces poursuites, en bref, comme suit, dans une écriture
+du 11 avril 2016 : la poursuite n° 6'653'384 est contestée et fait l’objet d’un
+procès pendant ; la poursuite n° 7'408'362 a été payée, sous réserve
+d’un montant de 1'127 fr. 75 ; elle attend des explications de la créancière, une
+compagnie d’assurances, au sujet du montant de la poursuite n° 7'673'391 ; s’agissant
+des deux poursuites pour la TVA, les créances sont contestées et des discussions sont en cours
+avec l’Administration fédérale des contributions – dont elle  produit une
+lettre du 7 avril 2016 –, qui a corrigé en faveur de la recourante des taxations provisoires.
+c)
+L’intimée
+a déposé une réponse le 25 avril 2016, concluant, avec suite de frais et dépens,
+au rejet du recours. Elle a produit, outre une procuration :
+-
+deux réquisitions de poursuite déposées par l’intimée, représentée
+par L.________SA, respectivement le 2 juin 2014 contre B.________, à Genève, et le 3 juin
+2014 contre la recourante, à Nyon ;
+-
+un échange de courriels du 31 juillet 2014 entre U.________Sàrl et L.________SA ;
+-
+une lettre du 29 juillet 2014 de L.________SA à B.________, lui réclamant le paiement immédiat
+des loyers du 15 mars au 15 août 2015, par 25'000 fr., à défaut de quoi le bail serait
+résilié ;
+-
+un extrait de la FOSC du 14 décembre 2015 relatif à L.________SA, en liquidation, indiquant
+que la société a été dissoute par décision du juge du Tribunal de première
+instance du 29 octobre 2015, sa liquidation étant ordonnée.
+L’intimée a par ailleurs requis la production de pièces.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), la décision du juge de la faillite
+peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile ;
+RS 272).
+En l’espèce, le recours a été déposé en temps utile et dans les formes
+requises, par acte écrit et motivé, auprès de l'instance de recours (art. 321 al. 1 CPC).
+Il est ainsi recevable.
+La réponse de l’intimée, déposée dans le délai de l’art. 322 al.
+2 CPC, est également recevable.
+b)
+Les deux parties ont produit des pièces en deuxième instance.
+Aux termes de l’art. 326 al. 1 CPC, les conclusions, les allégations de faits et les preuves
+nouvelles sont irrecevables en procédure de recours. Toutefois, l’art. 326 al. 2 CPC réserve
+les dispositions spéciales de la loi, par quoi il faut entendre non seulement les règles de
+procédure mais toute norme de droit fédéral (Spühler,
+in
+Spühler/Tenchio/Infanger (éd.), Basler Kommentar, ZPO, 2
+e
+éd., 2013, n. 3
+ad
+art. 326 ZPO [CPC]). En particulier, cette réserve vise les règles spécifiques de la LP,
+dont l’art. 174 LP qui régit le recours contre le jugement de faillite (Jeandin, Code de procédure
+civile commenté, n. 4
+ad
+art. 326 CPC ; TF 5A_230/2011 du 12 mai 2011 consid. 3.2.1). La production de pièces nouvelles
+en deuxième instance est ainsi autorisée en matière de faillite pour faire valoir des
+faits nouveaux lorsqu’ils se sont produits avant le jugement de première instance (art. 174
+al. 1 LP) ou, si les pièces se rapportent à des faits intervenus depuis l’audience de
+faillite, pour rendre vraisemblable la solvabilité du débiteur et établir que celui-ci
+a payé sa dette, intérêts et frais compris, ou qu’il a déposé la totalité
+du montant à rembourser auprès de l’autorité judiciaire supérieure à l’intention
+du créancier, ou que ce dernier a retiré sa réquisition de faillite (art. 174 al. 2 ch.
+1 à 3 LP ; TF 5A_899/2014 du 5 janvier 2015 consid. 3.1 et les références citées ;
+CPF, 4 décembre 2013/479). Les deux parties peuvent alléguer des faits qui se sont produits
+avant le prononcé de faillite et produire des titres aux fins d’établir ces faits. En
+revanche, seul le débiteur peut produire des titres pour établir les faits énumérés
+limitativement à l’art. 174 al. 2 ch. 1 à 3 LP.
+En l’espèce, les pièces produites par la recourante sont antérieures au jugement
+de faillite du 11 mars 2016 (pièces 101 et 102), respectivement relative à la consignation
+des montants nécessaires – selon l’art. 174 al. 2 ch. 2 LP - auprès de la Cour
+des poursuites et faillites (pièce 104). Elles sont donc recevables. Quant aux pièces produites
+par l’intimée avec sa réponse, elles sont également antérieures au jugement
+de faillite ou, s’agissant de la dissolution de L.________SA, qui peut être vérifiée
+sur le site internet du registre du commerce, constituent des faits notoires. Elles sont donc également
+recevables. Il n’y a revanche pas lieu de donner suite à sa réquisition de production
+de pièces, laquelle sort du cadre de l’administration des preuves autorisée par l’art.
+174 LP.
+II.
+a)
+Selon les art. 171 et 172 LP, le juge saisi d’une réquisition de faillite prononce celle-ci,
+à moins que l’autorité de surveillance n’ait annulé la commination (art. 172
+ch. 1 LP), que le débiteur ne se trouve au bénéfice de l’opposition tardive de l’art.
+77 LP ou qu’il ait obtenu la restitution d’un délai en application de l’art. 33
+al. 4 LP (art. 172 ch. 2 LP), ou encore que le débiteur ne justifie par titre que la créance
+a été acquittée en capital, intérêts et frais ou que le créancier lui a
+accordé un sursis (art. 172 ch. 3 LP).
+La preuve par titre du paiement étant exigée par l’art. 172 ch. 3 LP, l’extinction
+de la dette à l’origine de la faillite doit être établie au degré de la certitude,
+à l’instar de ce que requièrent les art. 81 al. 1 et 85 LP (Cometta,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, n. 6
+ad
+art. 172 LP ; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour
+dettes et la faillite, nn. 20-22
+ad
+art. 172 LP). Peu importe que le paiement ait été opéré en mains de l’office
+ou du poursuivant (Gilliéron,
+op.
+cit.
+, n. 23
+ad
+art. 172 LP).
+Pour pouvoir résister avec succès à la faillite, le failli doit établir qu’il
+a payé non seulement la dette, mais aussi les intérêts de la dette et les frais. Par frais,
+on entend ceux relatifs au commandement de payer et à la commination de faillite, les éventuels
+frais d’inventaire (art. 162 LP) et de mesures conservatoires (art. 170 LP), outre l’émolument
+et les dépens de l’éventuelle procédure sommaire de mainlevée d’opposition ;
+s’y ajoute l’émolument de justice pour la décision sur la requête de faillite.
+Il appartient au poursuivi de se renseigner, dans la mesure où les frais qu’il doit payer
+ne sont pas indiqués dans le commandement de payer (Gilliéron,
+op.
+cit.
+, n. 25
+ad
+art. 172 LP).
+b)
+En l’espèce, la faillite a été prononcée le 11 mars 2016. Il résulte des
+pièces produites en première instance – comme l’a relevé le premier juge –
+que la recourante s’était acquittée avant cette date, en exécution de la transaction
+et reconnaissance de dette du 24 septembre 2015, de deux versements de 5'000 fr. chacun, mais qu’en
+revanche elle n’avait pas établi s’être acquittée du troisième acompte
+de 5'000 fr. et qu’elle n’avait pas non plus établi le versement du montant de 13'800
+fr. par la Banque [...] SA. Or, il résulte des pièces produites en deuxième instance,
+que la recourante a payé un troisième acompte de 5'000 fr. le 30 octobre 2015 (pièce 102)
+et que la Banque [...] a versé le montant de 13'800 fr. à L.________SA le 24 novembre 2014
+(pièce 101), soit avant l’audience de faillite.
+L’intimée met certes en doute la crédibilité de la pièce 102, compte tenu du
+fait qu’elle n’a été produite qu’en deuxième instance. Cet élément
+est insuffisant à faire douter de la crédibilité de cette pièce, qui est libellée
+de la même manière que les deux quittances produites en première instance et porte, outre
+le timbre de L.________SA, la même signature que, notamment, le contrat de gérance conclu le
+25 novembre 2013 entre cette société et l’intimée.
+Le premier juge a indiqué dans son jugement
+que la recourante avait établi avoir payé le 24 septembre 2015 le montant de 1'500 fr., soit
+750 fr. à titre d’intérêts et 750 fr. à titre de frais de poursuite. Si l’on
+peut admettre que les intérêts concernaient tout ou partie de la dette litigieuse, il n’est
+en revanche pas établi que les frais payés concernaient la poursuite n° 7'531'366 à
+l’origine de la requête de faillite. Il résulte au contraire du dossier que les frais
+payés concernaient les poursuites n° 7’070'118/Nyon et n° 14‘177’320U/Genève
+mentionnées dans la reconnaissance de dette du même jour. Or, il appartenait à la recourante
+d’établir, à l’audience de faillite du 11 mars 2016, qu’elle avait payé
+tous les frais de la poursuite n° 7'531'366, soit en l’espèce, le montant de 310 fr.
+60, et cela n’est pas établi.
+Il s’ensuit que le juge de la faillite devait, dans ces conditions, prononcer la faillite.
+III.
+Vu ce qui précède,
+il n’est pas nécessaire d’examiner le moyen soulevé par l’intimée selon
+lequel la recourante ne se serait pas valablement libérée en mains de L.________SA. On relève
+toutefois les points suivants :
+L'art. 32 al. 1 CO dispose que les droits et les obligations dérivant d'un contrat fait au nom d'une
+autre personne par un représentant autorisé passent au représenté, ce dernier étant
+seul lié au tiers, dont il devient directement créancier ou débiteur (Chappuis,
+in
+Thévenoz/Werro (éd.), Code des obligations I, 2
+e
+éd., 2012, n. 20
+ad
+art.
+32 CO). La représentation suppose ainsi la manifestation de la volonté du représentant
+d'agir au nom d'autrui et l'existence du pouvoir de représenter (ATF 126 III 59 consid. 1b,
+JdT 2001 I 144 ; ATF 88 II 191 consid. 4, JdT 1962 I 612 ; Watter,
+in
+Basler Kommentar, OR I, 5
+e
+éd., 2011, n. 12
+ad
+Art.
+32 OR [CO]). La communication externe des pouvoirs peut intervenir de manière expresse ou par actes
+concluants ; comme sur le plan interne, elle peut résulter d'un comportement passif du représenté,
+pour autant que le tiers puisse comprendre cette attitude comme la communication de pouvoirs de représentation
+(TF 4A_313/2010 du 3 septembre 2010 consid. 3.4.2.3 ; Watter,
+op. cit.
+,
+n. 31
+ad
+Art.
+33 OR [CO]). Lorsque le représenté a fait connaître, soit en termes exprès, soit
+par ses actes, les pouvoirs qu’il a conférés, il ne peut en opposer aux tiers de bonne
+foi la révocation totale ou partielle que s’il a fait connaître également cette
+révocation (art. 34 al. 3 CO).
+En l’espèce, L.________SA a agi en vue d’encaisser les loyers impayés, notamment
+auprès de la Banque [...], au su de la propriétaire C.________, qui a reçu copie de ses
+courriers des 25 septembre et 17 novembre 2014. L’intimée ne saurait dès lors prétendre
+qu’elle n’a pas conféré à la gérante le pouvoir de recouvrer les loyers
+impayés. L.________SA figure en qualité de représentante de la propriétaire dans
+le commandement de payer n° 7'070’118 notifié à la recourante le 14 octobre 2014.
+Dès lors, la recourante pouvait de bonne foi se fier aux pouvoirs de représentation de L.________SA
+lorsqu’elle a signé la reconnaissance de dette du 24 septembre 2015, puis lorsqu’elle
+a payé les différents acomptes, même si - le cas échéant - elle avait versé
+les loyers initiaux directement en mains de la propriétaire et même si la poursuite n°
+7'532'366 notifiée le 20 août 2015 mentionnait un autre représentant. Conformément
+à l’art. 34 al. 3 CO, si l’intimée avait entretemps révoqué le mandat
+et les pouvoirs de représentation de la gérante, il lui incombait d’en informer la recourante.
+Quant au jugement du 29 octobre 2015, prononçant la dissolution et l’entrée en liquidation
+de L.________SA, antérieur aux derniers versements de la recourante et à la libération
+de la garantie bancaire, il n’a été publié dans la FOSC que le 14 décembre
+2015, soit après les derniers versements, de sorte que l’intimée invoque en vain cette
+circonstance.
+IV.
+a)
+En vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler le jugement lorsque le débiteur, en déposant
+le recours, rend vraisemblable sa solvabilité et établit par titre que depuis lors la dette,
+intérêts et frais compris, a été payée (ch. 1) ou que la totalité de la
+somme à rembourser a été déposée auprès de l'autorité de recours à
+l'intention du créancier (ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite
+(ch. 3). Ces deux conditions, soit le paiement de la dette à l'origine de la faillite, le dépôt
+de la totalité de la somme à rembourser ou le retrait de la requête de faillite et la
+vraisemblance de la solvabilité, sont cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid.
+6.1 ; Bosshard, Le recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127).
+b)
+La solvabilité au sens de l'art. 174 al. 2 LP se définit par opposition à l'insolvabilité
+au sens de l'art. 191 LP (Giroud,
+in
+Staehelin/Bauer/Staehelin (éd.), Basler Kommentar, SchKG I, 2
+e
+éd., 2010, n. 25
+ad
+art.
+174 LP ; TF 5P.399/1999 du 14 janvier 2000 consid. 2b). Cette dernière n'équivaut pas
+au surendettement mais consiste en l'incapacité du débiteur, en raison d'un manque de liquidités
+qui n'apparaît pas seulement temporaire, de payer ses dettes échues. La loi se contente d'une
+simple vraisemblance. Un fait est rendu vraisemblable si le juge, en se basant sur des éléments
+objectifs, a l'impression que le fait invoqué s'est produit, sans pour autant devoir exclure la
+possibilité qu'il ait pu se dérouler autrement (ATF 132 III 715, consid. 3.1 et les réf.
+cit.). Ainsi, la solvabilité du débiteur doit au moins être plus probable que son insolvabilité
+(TF 5A_230/2011 du 12 mai 2011 consid. 3 ; TF 5A_350/2007 du 19 septembre 2007 consid. 4 ;
+TF 5P.80/2005 du 15 avril 2005 consid. 3.2 ; TF 5P.456/2005 du 17 février 2006, consid. 2.2).
+Il ne faut donc pas poser d'exigences trop sévères quant à la solvabilité : celle-ci
+est rendue vraisemblable lorsqu'elle apparaît plus vraisemblable que l'insolvabilité, en particulier
+lorsque la viabilité de l'entreprise ne saurait être déniée d'emblée (Giroud,
+op. cit.
+,
+n. 26
+ad
+art.
+174 LP ; Cometta,
+op.
+cit.
+, n. 9
+ad
+art. 174 LP ; Gilliéron,
+op.
+cit.
+, n. 45
+ad
+art. 174 LP ; TF 5A_529/2008 du 25 septembre
+2008 et les réf. cit. ; TF 5P.129/2006 du 30 juin 2006 ; TF 5P.80/2005 du 15 avril
+2005 précité).
+S'il ne doit pas prouver sa solvabilité de manière stricte, il incombe au débiteur d'offrir
+les moyens de preuve propres à rendre vraisemblable sa solvabilité (TF 5A_810/2015 consid.
+3.2.1 ; TF 5A_469/2012 du 22 août 2012 consid. 3.2 ; TF 5A_328/2011 du 11 août 2011
+consid. 2 et les réf. cit., publié
+in
+SJ 2012 I p. 25 ; Message du Conseil fédéral,
+du 8 mai 1991, concernant la révision de la loi fédérale sur la poursuite pour dettes
+et la faillite, FF 1991 III p. 130 s.). Le débiteur doit fournir des indices tels que les récépissés
+de paiements, des justificatifs de moyens financiers à sa disposition (avoirs en banque, crédits
+bancaires), des listes de ses débiteurs, un extrait du registre des poursuites, des comptes annuels
+récents avec bilan intermédiaire, cette liste n'étant pas exhaustive (TF 5P.399/1999 consid.
+2b précité). L'extrait du registre des poursuites concernant le failli est en règle générale
+décisif (Cometta,
+op.
+cit.
+, n. 10
+ad
+art. 174 LP). Il faut examiner concrètement
+la situation du débiteur, par comparaison entre ses actifs et ses passifs. En principe, s'avère
+insolvable le débiteur qui, par exemple, laisse des comminations de faillite s'accumuler, fait systématiquement
+opposition et ne paie pas même des montants peu élevés. Pour rendre sa solvabilité
+vraisemblable, c’est-à-dire l’état dans lequel il dispose des moyens liquides suffisants
+pour acquitter ses dettes exigibles, le débiteur doit établir qu’aucune requête
+de faillite dans une poursuite ordinaire ou dans une poursuite pour effets de change n’est pendante
+contre lui et qu’aucune poursuite exécutoire n’est en cours (TF 5A_810/2015 consid.
+3.2.1 précité ; TF 5A_640/2011 du 4 janvier 2012 consid. 3.1). S’il y a des poursuites
+ayant atteint le stade de la commination de faillite ou des avis de saisie dans les cas de l’art.
+43 LP, le débiteur doit en principe prouver par titre qu’une des hypothèses de l’art.
+174 al. 2 ch. 1 à 3 s’est réalisée, à moins qu’il ne résulte du
+dossier la vraisemblance qualifiée de l’existence de disponibilités en liquidité
+objectivement suffisantes non seulement pour payer ces créances, mais aussi pour faire face aux
+autres prétentions créancières déjà exigibles (Cometta,
+op.
+cit.
+, n. 13
+ad
+art. 174 LP). Des difficultés momentanées
+de trésorerie, même si elles amènent un retard dans le paiement des dettes, ne sont pas
+à elles seules un indice d'insolvabilité du débiteur, à moins qu'il n'y ait aucun
+indice important permettant d'admettre une amélioration de sa situation financière et qu'il
+semble manquer de liquidités pour une période indéterminée. A l'inverse, l'absence
+de poursuite en cours n'est pas une preuve absolue de solvabilité ; elle constitue toutefois
+un indice sérieux de la capacité du débiteur de s'acquitter de ses engagements échus
+(CPF, 9 décembre 2010/474 ; CPF, 2 octobre 2008/483 ; CPF, 13 juin 2002/229). Le
+Tribunal fédéral a rappelé que la ratio legis consiste à éviter la faillite
+lorsque le manque de liquidités suffisantes n'apparaît que passager et que l'entreprise du
+débiteur semble en mesure de survivre économiquement (TF 5A_328/2011 du 11 août 2011,
+SJ 2012 I p. 25). L'appréciation de la solvabilité repose sur une impression générale
+fondée sur les habitudes de paiement du failli (TF 5A_328/2011 du 11 août 2011 consid. 2, publié
+in
+SJ 2012 I p. 25 ; TF 5A_642/2010
+du 7 décembre 2010 consid. 2.4 ; TF 5A_350/2007 du 19
+septembre
+2007 consid. 4.3). La cour de céans a par ailleurs admis que le recourant pouvait être considéré
+comme suffisamment solvable, même si des poursuites (parfois nombreuses) sont en cours, lorsqu'un
+concordat paraît possible au sens de l'art. 173a al. 2 LP (Bosshard,
+op.
+cit.
+, pp. 127-128 ; SJ 2012 I 25 ; CPF,
+12 mars 2009/82 et les réf. cit. ; CPF, 3 avril 2008/138 et les réf. cit.).
+c)
+En l’espèce, il est établi que la recourante a rempli la première des deux conditions
+pour faire annuler sa faillite en déposant au greffe de la cour de céans un montant de 30'711
+fr. 95, sur la base du décompte figurant en page 5 de son recours, qui apparaît suffisant pour
+couvrir la totalité du montant à rembourser, l’extrait des registres au 29 mars 2016
+faisant état d’un montant à cette date de 30'103 fr. 65.
+En revanche, force est d’admettre que la recourante n’a rien fait pour rendre sa solvabilité
+vraisemblable. Elle n’a produit ni bilan ni comptes, ni aucune autre pièce susceptible de
+montrer l’état de sa situation financière. De l’extrait des registres 8a LP, il
+ressort que la recourante fait l’objet, outre de la poursuite à l’origine de la faillite,
+de cinq poursuites pour une somme totale de 139'965 fr. 90. Deux poursuites sont exécutoires, sans
+que la recourante ait établi avoir les moyens de les régler. Les pièces produites ne permettent
+pas de faire quelque pronostic que ce soit sur l’issue du procès pendant (poursuite n°
+6'563'384). Elles n’établissent pas non plus que la recourante a payé le solde de la
+poursuite n° 7'408'362 par 8'127 francs 75, ni que plus rien ne serait dû sur les poursuites
+relatives à la TVA, aucun lien ne pouvant être établi entre les poursuites de la Confédération
+et la lettre de l’Administration fédérale des contributions du 7 avril 2016. Il n’est
+pas possible non plus d’envisager qu’un concordat soit possible, la recourante n’ayant
+rien allégué à cet égard.
+Il s’ensuit que la deuxième condition légale pour annuler la faillite de la recourante
+n’est pas remplie.
+V.
+Vu ce qui précède, le recours doit être rejeté et le jugement confirmé, la faillite
+d’U.________Sàrl prenant effet, vu l’effet suspensif accordé, à la date du
+présent arrêt.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge de la recourante, qui en a déjà fait l’avance. Par ailleurs, la
+recourante doit verser à l’intimée la somme de 500 fr. à titre de dépens de
+deuxième instance.
+La faillie étant dessaisie de ses biens (art. 197 LP), le montant de 30'711 fr. 95 déposé
+par la recourante devra être versé à l’Office des faillites de l’arrondissement
+de La Côte, une fois le présent arrêt devenu définitif et exécutoire.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite d’U.________Sàrl prenant effet le 28 juin 2016,
+à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante U.________Sàrl doit verser à l’intimée C.________ la somme de 500
+fr. (cinq cents francs) à titre de dépens de deuxième instance.
+V.
+Le montant de 30'711 fr. 95 (trente mille sept cent onze francs et nonante-cinq centimes) déposé
+par la recourante sera versé à l’Office des faillites de l’arrondissement de La
+Côte lorsque la faillite de la recourante sera définitive et exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+28 juin 2016
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Nicod, avocat (pour U.________Sàrl),
+‑
+Me Frédéric Serra, avocat (pour C.________),
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Nyon,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
