@@ -1,0 +1,252 @@
+---
+decision_id: "vd_findinfo_Faillite___2016___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2016 / 17"
+decided: "2016-07-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5599862"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2016 / 17
+
+## Regeste
+
+RÉQUISITION DE FAILLITE, OUVERTURE DE LA FAILLITE, MOTIF DU RECOURS | 166 al. 1 LP, 171 LP, 174 al. 1 LP, 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 07.07.2016 Faillite / 2016 / 17
+
+RÉQUISITION DE FAILLITE, OUVERTURE DE LA FAILLITE, MOTIF DU RECOURS | 166 al. 1 LP, 171 LP, 174 al. 1 LP, 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF16.013209-160673
+199
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+7 juillet 2016
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz PonnazJoye
+*****
+Art.
+166 al. 1, 171, 174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+V.________
+,
+à Aigle, contre le jugement rendu à la suite de l’audience du 19 avril 2016 par le Président
+du Tribunal d’arrondissement de l'Est vaudois, prononçant la faillite du recourant, le même
+jour à 17 heures, à la réquisition d'
+Y.________SA
+,
+à Martigny.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 18 mars 2016, Y.________SA a requis du Président du Tribunal d’arrondissement de l'Est
+vaudois qu’il prononce la faillite de V.________. A l’appui de sa requête, elle a produit :
+-
+l’original du commandement de payer n° 7'670'219 de l’Office des poursuites du district
+d'Aigle, notifié à sa requête à V.________, le 17 novembre 2015, et frappé d’opposition,
+portant sur les montants de 468 fr. 40, plus intérêt à 5% l'an dès le 12 novembre
+2015, et 2'117 fr. 75, sans intérêt, de « Primes et part. LAMal 07.2012-08.2015 »,
+390 fr., sans intérêt, de « frais administratifs » et 17 fr. 80, sans intérêt,
+d’ « intérêts échus » ;
+-
+l’original de la commination de faillite notifiée le 9 février 2016 au débiteur
+dans la même poursuite.
+Par avis recommandé du 22 mars 2016, les parties ont été citées à comparaître
+à l’audience de faillite du 19 avril 2016. Cette audience s’est tenue par défaut
+de la requérante. L’intimé s’est présenté et a été entendu.
+Le jugement retient qu’il a déclaré ne pas pouvoir payer.
+2.
+Par jugement rendu à la suite de cette audience et notifié aux parties le 22 avril 2016, le
+Président du Tribunal d’arrondissement de l’Est vaudois a prononcé la faillite
+de V.________, le 19 avril 2016, à 17 heures, et mis les frais, par 200 fr., à la charge
+du failli. En bref, il a considéré que la requête de faillite et les pièces produites
+étaient conformes aux réquisits légaux et que l’intimé n’avait pas justifié
+par titre l’acquittement de la dette ou l’obtention d’un sursis.
+3.
+a)
+V.________ a recouru contre le jugement qui précède par acte du 23 avril 2016, contestant la
+créance réclamée et concluant, implicitement, à l’annulation de sa faillite.
+A l’appui de son recours, il a produit en photocopies une lettre de sa part à [...],
+datée du 1
+er
+septembre 2014, demandant, pour 2015, pour lui-même et pour sa famille, une diminution de la franchise
+à 300 fr. et une modification des assurances complémentaires, ainsi que deux lettres de sa
+part au Tribunal d’arrondissement de l’Est vaudois, des 7 et 17 mars 2016, dans une autre
+affaire (FZ16.008535).
+Par décision du 2 mai 2016, la présidente de la cour de céans a accordé d’office
+l’effet suspensif et ordonné, à titre de mesures conservatoires, l’inventaire et
+l’audition du failli.
+b)
+La
+liste des poursuites pendantes contre le recourant au 28 avril 2016, extraite des registres de l’Office
+des poursuites du district d’Aigle, fait état de six poursuites introduites du 9 septembre
+2015 au 11 mars 2016 pour la somme totale de 22'541 fr., dont la poursuite n° 7'670'219 à l’origine
+de la faillite, qui figure pour un solde de 3'151 fr. 35. Les cinq autres poursuites en sont au stade
+du commandement de payer notifié, dont l’un sans opposition.
+Le recourant s’est déterminé sur ces poursuites par lettre du 9 mai 2016.
+c)
+L’intimée
+s’est déterminée sur le recours par lettre du 13 juin 2016, s’en remettant à
+justice et indiquant en outre ce qui suit :
+«
+Au sujet de la contestation relative au changement de franchise demandée par M. V.________,
+nous vous transmettons ci-joint le jugement de la Cour des assurances sociales du Tribunal cantonal vaudois
+du 7 juin 2016, déclarant que la décision sur opposition de l’assureur du 24 mars 2016
+est entrée en force. »
+Elle a produit le jugement en question.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), la décision du juge de la faillite
+peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile ;
+RS 272).
+En l’espèce, le recours a été déposé en temps utile et dans les formes
+requises, par acte écrit et motivé, auprès de l'instance de recours (art. 321 al. 1 CPC).
+Il est ainsi recevable.
+La réponse de l’intimée, déposée dans le délai de l’art. 322 al.
+2 CPC, est également recevable.
+b)
+Les deux parties ont produit des pièces en deuxième instance.
+La production de pièces nouvelles en deuxième instance est autorisée en matière de
+faillite pour faire valoir des faits nouveaux lorsqu’ils se sont produits avant le jugement de
+première instance (art. 174 al. 1 LP) ou, si les pièces se rapportent à des faits intervenus
+depuis l’audience de faillite, pour rendre vraisemblable la solvabilité du débiteur et
+établir que celui-ci a payé sa dette, intérêts et frais compris, ou qu’il a
+déposé la totalité du montant à rembourser auprès de l’autorité judiciaire
+supérieure à l’intention du créancier, ou que ce dernier a retiré sa réquisition
+de faillite (art. 174 al. 2 ch. 1 à 3 LP ; TF 5A_899/2014 du 5 janvier 2015 consid. 3.1 et
+les références citées, SJ 2015 I 437; CPF, 4 décembre 2013/479). Les deux parties
+peuvent alléguer des faits qui se sont produits avant le prononcé de faillite et produire des
+titres aux fins d’établir ces faits. En revanche, seul le débiteur peut produire des
+titres pour établir les faits énumérés limitativement à l’art. 174 al.
+2 ch. 1 à 3 LP (TF 5A_899/2014 du 5 janvier 2015 consid. 3.1 et les références citées,
+SJ 2015 I 437). Dans cet arrêt, le Tribunal fédéral a toutefois précisé qu’il
+découlait du droit d'être entendu que le créancier intimé pouvait produire à
+l'appui de sa réponse au recours des
+nova
+propres
+à réfuter ceux - vrais ou faux - invoqués par le débiteur recourant (consid. 3.2).
+En l’espèce, les pièces produites par le recourant sont antérieures au jugement
+de faillite du 19 avril 2016. Elles sont donc recevables. La pièce produite par l’intimée
+avec sa réponse, postérieure au jugement de faillite, est un vrai novum ; toutefois, dans
+la mesure où elle a été produite afin de contrecarrer les (faux) nova du recourant relatifs
+à sa demande de modification de franchise, elle doit être considérée, au vu de la
+jurisprudence précitée, comme recevable.
+II.
+a)
+Selon l’art. 166 al. 1 LP, à l’expiration
+du délai de vingt jours dès la notification de la commination, le créancier peut requérir
+du juge la déclaration de faillite, en joignant à sa demande le commandement de payer et l’acte
+de commination. Le juge saisi d’une réquisition de faillite doit prononcer celle-ci, sauf
+dans les cas mentionnés aux art. 172 à 173a LP (art. 171 LP).
+En l’espèce, le délai de vingt jours a été respecté et, comme l’a
+considéré à raison le premier juge, la requête de faillite et les pièces produites
+étaient conformes aux réquisits légaux. Par ailleurs, aucun des cas de rejet de la réquisition
+de faillite ou d’ajournement de la faillite n’était réalisé. C’est ainsi
+à juste titre que le premier juge a prononcé la faillite du recourant.
+III.
+a)
+En vertu de l'art. 174 al. 2 LP, la décision
+du juge de la faillite peut être déférée à l'autorité de recours, qui peut
+annuler l'ouverture de la faillite lorsque le débiteur, en déposant le recours, rend vraisemblable
+sa solvabilité et établit par titre que depuis lors la dette, intérêts et frais compris,
+a été payée (ch. 1) ou que la totalité de la somme à rembourser a été
+déposée auprès de l'autorité judiciaire supérieure à l'intention du créancier
+(ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions,
+soit le paiement de la dette à l'origine de la faillite, le dépôt de la totalité
+de la somme à rembourser ou le retrait de la requête de faillite et la vraisemblance de la
+solvabilité, sont cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid. 6.1 ; Bosshard,
+Le recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127).
+b)
+En
+l’espèce, le recourant n’allègue ni, a fortiori, ne prouve avoir réglé
+la créance faisant l’objet de la poursuite n° 7’670'219 qui a donné lieu à
+la faillite. Il conteste cette créance, du moins son montant, en expliquant avoir requis une réduction
+de sa franchise de 1'500 fr. à 300 fr. pour 2015 et avoir informé l’intimée qu’il
+ne paierait aucune facture jusqu’à ce que ce problème soit réglé. De tels moyens
+sont inopérants à ce stade, l’autorité de recours en matière de faillite n’ayant
+pas la compétence d’examiner le bien-fondé de la créance à l’origine
+de la faillite. Au demeurant, il ressort de l’arrêt de la Cour des assurances sociales du
+7 juin 2016 produit par l’intimée que celle-ci a rendu, le 24 février 2016, une décision
+de refus de modification de la franchise du recourant au 1
+er
+janvier 2015, que, sur opposition de l’assuré, elle a confirmé ce refus par décision
+du 24 mars 2016 et que le recours de l’assuré contre cette décision a été déclaré
+irrecevable.
+IV.
+Vu ce qui précède, le recours doit être rejeté et le jugement confirmé, la faillite
+de V.________ prenant effet, vu l’effet suspensif accordé, à la date du présent
+arrêt.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant, qui en a déjà fait l’avance. L’intimée,
+qui a procédé seule, sans l’assistance d’un conseil professionnel, n’a pas
+droit à des dépens de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de V.________ prenant effet le
+7
+juillet 2016, à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+Il n'est pas alloué de dépens de deuxième instance.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. V.________,
+‑
+Y.________SA,
+-
+M. le Préposé à l'Office des poursuites du district d'Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l'Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d'Aigle-Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois.
+La greffière :
