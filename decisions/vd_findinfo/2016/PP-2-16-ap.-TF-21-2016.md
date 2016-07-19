@@ -1,0 +1,1108 @@
+---
+decision_id: "vd_findinfo_PP_2_16_ap._TF_-_21_2016"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+chamber: "PP"
+docket: "PP 2/16 ap. TF - 21/2016"
+decided: "2016-07-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CASSO/Jug/20160712112923849_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-066.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-097.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/831.40/art-034a.md", "switzerland/bund/acts/831.40/art-036.md", "switzerland/bund/acts/831.40/art-073.md", "switzerland/bund/acts/831.40/art-086b.md", "switzerland/bund/acts/831.42/art-002.md", "switzerland/bund/acts/831.441.1/art-015.md", "switzerland/bund/acts/831.441.1/art-024.md"]
+---
+
+# VD Findinfo PP 2/16 ap. TF - 21/2016
+
+## Regeste
+
+PRÉVOYANCE PROFESSIONNELLE, PRÉVOYANCE PROFESSIONNELLE SELON LA LPP, RENTE D'INVALIDITÉ, SURASSURANCE, CERTIFICAT D'ASSURANCE | 34a LPP, 36 LPP, 48 LPP, 73 LPP, 86b LPP, 24 OPP2
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 19.07.2016 PP 2/16 ap. TF - 21/2016
+
+PRÉVOYANCE PROFESSIONNELLE, PRÉVOYANCE PROFESSIONNELLE SELON LA LPP, RENTE D'INVALIDITÉ, SURASSURANCE, CERTIFICAT D'ASSURANCE | 34a LPP, 36 LPP, 48 LPP, 73 LPP, 86b LPP, 24 OPP2
+
+TRIBUNAL
+CANTONAL
+PP
+2/16 ap. TF - 21/2016
+ZI16.006675
+COUR
+DES ASSURANCES SOCIALES
+_____________________________________________
+Jugement du
+19 juillet 2016
+__________________
+Composition :
+M.
+Dépraz
+,
+président
+Mmes
+Röthenbacher, juge, et Rossier, assesseure
+Greffière :
+Mme              Monod
+*****
+Cause
+pendante entre :
+A.O.________
+,
+à [...], demandeur, représenté par Me Philippe Nordmann, avocat, à Lausanne,
+et
+Fonds
+de garantie LPP
+, à Berne, défendeur.
+_______________
+Art.
+34a, 36 et 86b LPP ; art. 15 et 24 OPP 2.
+E n  f a i t  :
+A.
+A.O.________ (ci-après : l’assuré ou le demandeur), né en 1961, d’origine
+espagnole, en Suisse depuis 1971, est monteur-électricien de formation. Il est le père de trois
+enfants, à savoir B.O.________, née en juin 1989, C.O.________, née en mars 1992, et D.O.________,
+née en août 1994.
+L’assuré a travaillé de 1989 à 1995 pour l’entreprise S.________Sàrl
+et était assuré à ce titre en matière de prévoyance professionnelle vieillesse,
+survivants et invalidité (2
+ème
+pilier) auprès de K.________ (ci-après : K.________).
+Par décision du 6 octobre 1997, l’Office de l’assurance-invalidité pour le canton
+de Vaud (ci-après : l’OAI) a alloué à l’assuré une demi-rente d’invalidité
+depuis le 1
+er
+octobre 1995, fondée sur un degré d’invalidité de 50% en raison de lombalgies sur
+troubles statiques et discopathie. Cette prestation a été assortie de rentes pour enfants.
+De son côté, K.________ a mis l’assuré au bénéfice d’une rente minimale
+LPP, fondée sur un degré d’invalidité de 50% dès le 26 octobre 1996, soit annuellement
+6'020 fr. pour l’assuré et 1'204 fr. pour chacun de ses trois enfants.
+Le Fonds de garantie LPP (ci-après : le Fonds ou le défendeur) a repris au 1
+er
+janvier 1998 la gestion des rentiers de K.________ à la suite de son insolvabilité.
+Par décision du 16 janvier 2012, l’OAI a alloué à l’assuré trois quarts
+de rente dès le 1
+er
+septembre 2008, le taux d’invalidité ayant été porté à 68% motif pris
+de l’aggravation de son état de santé, consécutive à plusieurs infarctus.
+Etant donné cette dernière décision, l’assuré a demandé au Fonds d’adapter
+la rente de la prévoyance professionnelle avec effet dès le
+1
+er
+septembre 2008 au plus tard.
+Le Fonds a rejeté la demande précitée, mais a procédé à un examen de la
+surindemnisation pour les années 2008 à 2012, ainsi qu’à partir de 2017. Il a considéré
+que l’allocation de trois quarts de rente conduisait à une situation de surindemnisation dès
+le 1
+er
+septembre 2008 et a indiqué que les rentes ne seraient plus versées du 1
+er
+août 2012 à fin février 2018, sous réserve d’une éventuelle suppression
+des rentes pour enfants avant l’âge terme.
+B.
+Le 18 juin 2013, A.O.________, représenté par Me Philippe Nordmann, a saisi la Cour des assurances
+sociales du Tribunal cantonal d’une demande tendant à ce que le Fonds soit condamné à
+lui verser 110'685 fr. jusqu’en 2019, en sus d’autres prétentions devant être précisées
+en cours d’instance (indexation des rentes, rentes dues pour les années 2020 et suivantes,
+intérêts moratoires). Il a également conclu à ce que le défendeur soit condamné
+à lui fournir les certificats annuels pour la « part passive » depuis 1994,
+conclusion qu’il a ultérieurement retirée.
+Le 19 novembre 2014, la Cour des assurances sociales a rendu un jugement dont le dispositif est le suivant :
+« I.
+La demande formulée le 18 juin 2013 est partiellement admise, dans la mesure où elle est recevable,
+en ce sens que le Fonds de garantie LPP est condamné à verser à A.O.________ 6'566.33
+fr. (six mille cinq cent soixante-six francs et trente-trois centimes) au titre de rente d’invalidité
+LPP pour l’année 2013 et, dès le 1
+er
+janvier 2014, une rente d’invalidité LPP mensuelle de 566 fr. (cinq cent soixante-six francs),
+montant qui sera adapté à l’évolution des prix pour les années suivantes conformément
+à l’art. 36 LPP et aux prescriptions du Conseil fédéral. La demande est rejetée
+pour le surplus.
+II.
+Il n’est pas perçu de frais judiciaires.
+III.
+Le Fonds de garantie LPP versera à A.O.________ 2'000 fr (deux mille francs) à titre de dépens. »
+Pour le surplus, on se référera aux faits à l’origine de la présente cause
+tels qu’ils ont été définitivement établis par le jugement précité
+(cf. art. 97 LTF [loi fédérale du 17 juin 2005 sur le Tribunal fédéral ; RS
+173.110). Seuls les faits pertinents pour trancher les questions restant litigieuses sont en conséquence
+développés ci-après.
+C.
+Par l’intermédiaire de son conseil, en date du 8 janvier 2015, A.O.________ a formé un
+recours en matière de droit public auprès du Tribunal fédéral contre ce jugement.
+Il a conclu à sa réforme en ce sens que le Fonds de garantie LPP soit condamné, en sus
+de ce qui lui avait été octroyé par le jugement cantonal, à lui verser un solde de
+74'758 fr. pour les années 2008 à 2013, ainsi qu’une rente mensuelle de 566 fr. dès
+le 1
+er
+janvier 2014, avec indexation selon les prescriptions légales.
+Statuant le 29 janvier 2016, le Tribunal fédéral a rendu un arrêt (en la cause 9C_15/2015),
+publié dans le Recueil officiel (ATF 142 V 75) et qui a donc valeur d’arrêt de principe,
+dont le dispositif (chiffre 1) a la teneur suivante :
+« 1.
+Le recours est partiellement admis. Le jugement du Tribunal cantonal du canton de Vaud, Cour des assurances
+sociales, du 19 novembre 2014 est annulé dans la mesure où il porte sur le calcul des rentes
+d’invalidité à servir jusqu’à fin 2013, la cause lui étant renvoyée
+pour instruction complémentaire et nouveau jugement dans le sens des considérants. […] »
+S’agissant de l’objet du litige, le Tribunal fédéral a constaté qu’il
+concernait uniquement la réduction des prestations versées par le défendeur au demandeur
+pour cause de surindemnisation à partir du 1
+er
+septembre 2008 et jusqu’au 31 décembre 2013. La rente mensuelle de 566 fr. dès le 1
+er
+janvier 2013, avec indexation selon les prescriptions légales, n’était plus contestée.
+N’étaient plus non plus litigieux la prise en compte du gain sans invalidité, ni le montant
+de ce dernier, ni davantage l’inclusion des allocations familiales dans le calcul de coordination.
+En substance, la Haute Cour a considéré que le jugement cantonal avait admis à tort que
+le défendeur pouvait tenir compte de l’augmentation des rentes de l’assurance-invalidité
+dès le 1
+er
+septembre 2008 dans son calcul de surindemnisation. En effet, l’aggravation de l’état
+de santé du demandeur ayant donné lieu à l’augmentation desdites rentes était
+due à une cause qui n’était pas couverte par le défendeur. Le Tribunal fédéral
+a donc renvoyé la cause à la Cour de céans afin qu’elle procède à un nouveau
+calcul de surindemnisation selon ses considérants.
+Pour le surplus, le Tribunal fédéral a laissé indécise la question de la prise en
+compte d’un revenu hypothétique d’invalide dans le calcul de la surindemnisation et
+a renoncé à examiner le grief de la violation des règles relatives au splitting dans le
+calcul de coordination. Il a renvoyé l’analyse de ces deux questions à la juridiction
+cantonale dans le cadre du nouvel examen de la demande.
+D.
+Par avis du 16 février 2016, le magistrat instructeur a avisé les parties de la reprise de
+la cause et les a invitées à faire valoir leurs moyens.
+Par mémoire complémentaire du 17 mars 2016, le défendeur expose qu’est encore litigieux
+le montant des prestations afférent à la période pendant laquelle il subsiste une situation
+de surindemnisation, soit du 1
+er
+septembre 2008 au 31 juillet 2011, la surindemnisation prenant fin dès le terme du mois d’août
+2011 en raison de la suppression du droit à la rente pour l’enfant B.O.________. Selon le
+défendeur, il n’y a pas lieu de tenir compte d’un revenu hypothétique d’invalide
+dans le calcul de surindemnisation. Le montant des allocations familiales à inclure ne doit pas
+tenir compte de l’augmentation intervenue dès le 1
+er
+janvier 2013.
+Le défendeur propose le calcul de coordination suivant du
+1
+er
+septembre 2008 au 31 juillet 2011 :
+Annuel
+Mensuel
+Revenu
+sans invalidité
+74'965.45
+6'247.12
+Allocations familiales B.O.________
+3'000.00
+250.00
+Allocations
+familiales C.O.________
+3'000.00
+250.00
+Allocations familiales D.O.________
+4’400.00
+250.00
+90% du revenu sans invalidité
+76'864.92
+6'405.41
+50%
+de 90% du revenu sans invalidité
+38'432.46
+3'202.70
+Prestations
+d’invalidité (50%)
+Rente AI
+13'056.00
+1'088.00
+Rente AI pour
+B.O.________
+5'220.00
+435.00
+Rente AI pour
+C.O.________
+5'220.00
+435.00
+Rente AI pour
+D.O.________
+5'220.00
+435.00
+Total
+des prestations AI
+28'716.00
+2'393.00
+Prestations
+du Fonds LPP indexées
+Rente LPP
+6'548.00
+545.67
+Rente LPP pour
+B.O.________
+1'310.00
+109.17
+Rente LPP pour
+C.O.________
+1'310.00
+109.17
+Rente LPP pour
+D.O.________
+1'310.00
+109.17
+Total
+des prestations du Fonds LPP
+10'478.00
+873.17
+Calcul
+de surindemnisation
+50% du 90%
+du revenu sans invalidité
+38'432.46
+3'202.70
+./. Prestations
+de l’AI
+-
+28'716.00
+-
+2'393.00
+./. Prestations
+du Fonds LPP non indexés
+- 10'356.00
+-
+863.00
+Surindemnisation
+-
+639.54
+-
+53.30
+Montant de
+la rente LPP mensuelle réduite selon le calcul de surindemnisation : 873.17 – 53.50 =
+819.87.
+Total des rentes
+LPP réduites pendant la période de surindemnisation soit du
+1
+er
+septembre 2008 au 31 juillet 2011 : 819.87 x 35 = 28'695.45.
+Montant versé
+en exécution du jugement du 19 novembre 2014 de la Cour des assurances sociales : 30'205 –
+2'444.70 = 27'760.30
+Solde dû
+au demandeur : 28'695.45 – 27'760.30 = 935.15. »
+Enfin, le défendeur relève que les règles relatives au splitting déterminent le montant
+des prestations dans l’hypothèse où l’assuré perçoit déjà –
+ou a déjà perçu – une rente d’invalidité à la survenance du cas
+d’assurance, mais qu’elles ne jouent aucun rôle dans le cadre du calcul de coordination,
+lequel est régi exclusivement par les art. 34a LPP (loi fédérale du 25 juin 1982 sur la
+prévoyance professionnelle vieillesse, survivants et invalidité ; RS 831.40) et 24 OPP
+2 (ordonnance du 18 avril 1984 sur la prévoyance professionnelle vieillesse, survivants et invalidité ;
+RS 831.441.1). Il conclut à l’irrecevabilité de ce grief. En conclusion, le défendeur
+reconnaît devoir au demandeur le paiement d’un montant de 935 fr. 15 à titre de différence
+entre les montants déjà versés et les montants dus à titre de rétroactif pour
+les rentes de la prévoyance professionnelle pour la période du
+1
+er
+septembre 2008 au 31 juillet 2011. Il conclut au rejet de plus amples conclusions.
+Le 6 avril 2016, le défendeur a produit un extrait de sa comptabilité du
+4
+avril 2016 selon lequel un montant de 1’335 fr. 15 avait été versé en faveur du
+demandeur en main de l’Office de poursuite du district [...] et un montant de 166 fr. directement
+au demandeur. Par courrier du même jour, le défendeur a exposé que ces versements correspondaient
+au montant de 935 fr. 15 dû à titre de rétroactif, ainsi qu’au paiement de la rente
+mensuelle de 566 fr., cette dernière rente faisant l’objet d’une saisie du 18 juin 2015
+à hauteur de 400 francs.
+Le 20 avril 2016, le demandeur a produit un document intitulé « calcul des rentes dues
+par le Fonds de garantie LPP au demandeur, pour la période du
+1
+er
+septembre 2008 au 31 décembre 2013, suite à l’ATF 9C 15/2015 du
+29
+janvier 2016 » dans lequel il expose ses arguments.
+Tout d’abord, le demandeur expose qu’il n’y a pas lieu de tenir compte d’un revenu
+hypothétique d’invalide. En substance, il considère qu’en cas d’invalidité
+partielle, un revenu hypothétique ne doit être pris en compte que lorsque le taux de la rente
+est égal ou supérieur au degré d’invalidité et de surcroît seulement si
+l’assuré, pour cette différence, obtient effectivement un revenu. On devrait de toute
+manière renoncer à toute imputation lorsque, comme en l’espèce, le taux d’invalidité
+est proche de ou supérieur à 70%. En outre, le demandeur étant au bénéfice de
+trois quarts de rente (soit un taux de 75%) pour un taux d’invalidité de 68%, on ne saurait
+lui imputer un revenu hypothétique pour la différence de 7% dès lors qu’aucun revenu
+n’est susceptible d’être réalisé. On ne peut en outre lui imputer un revenu
+hypothétique pour la part valide de 32%, ce revenu n’étant pas en concordance avec le
+revenu dont l’assuré est privé en tant qu’invalide. Il ne peut y avoir d’exception,
+pour la part d’invalide, que si, dans le cadre d’une invalidité reconnue inférieure
+au taux de la rente allouée, l’assuré réalise effectivement un revenu, ce qui n’est
+pas le cas du demandeur. S’agissant du calcul de surindemnisation, le demandeur ne formule pas
+d’observations sur le solde de 935 fr. 15 lui restant dû par le défendeur pour la période
+du 1
+er
+septembre 2008 au 31 juillet 2011. Même s’il admet qu’il n’y a plus de surindemnisation
+pour la période courant du 31 juillet 2011 au
+31
+décembre 2013, il fait valoir qu’un solde lui est dû pour cette période par le défendeur
+selon le calcul suivant :
+« Rentes
+payées le 7 décembre 2015 par le défendeur pour l’année 2013 selon attestation
+du 24 février 2016 :
+6'566 fr. 35 (arrondi à 6'566 fr.).
+Montant
+dû pour la période du 1
+er
+août 2011 au 31 décembre 2013 selon jugement du 19 novembre 2014 de la Cour des assurances
+sociales : 9'011 fr.
+Montant
+dû au demandeur :
+9'011 – 6'566 = 2'445 fr.
+A
+déduire montant versé le 4 avril 2016 :
+935 fr.
+Solde
+en faveur du demandeur :
+1'510 fr. »
+Le demandeur renonce par ailleurs expressément au paiement d’intérêts moratoires.
+Quant au splitting, le demandeur indique qu’il convient d’y procéder dans la mesure
+où le défendeur n’intervient que pour l’affection dorsale entraînant une invalidité
+de 50%. Dès lors qu’il avait précédemment reçu une attestation pour la « part
+passive », le demandeur a un intérêt de savoir quelle a été l’évolution
+de cette part après splitting.
+Enfin, le demandeur allègue que, compte tenu du fait que le Tribunal fédéral a renvoyé
+la cause à la Cour de céans pour procéder à un nouveau calcul de surindemnisation,
+ainsi que pour revoir la question du splitting, les dépens doivent être fixés à nouveau
+pour l’ensemble de la procédure cantonale, sous déduction de la somme de 2'000 fr. allouée
+par le jugement du 19 novembre 2014. Il fait valoir l’allocation de pleins dépens ou, à
+tout le moins, de dépens légèrement réduits, dans la mesure où il a obtenu largement
+gain de cause. Il produit à cet effet une liste des opérations de son conseil pour la seule
+procédure devant la Cour de céans totalisant un total de 59,9 heures pour un montant d’honoraires
+de 20'965 francs.
+En conclusion, le demandeur requiert le paiement par le défendeur d’un montant de 1'510 fr,
+à ce que le défendeur lui fournisse des certificats concernant l’avoir de prévoyance
+pour la « part active » après splitting pour les années 2014, 2015 et 2016
+ainsi qu’à l’allocation d’un montant de 18'965 fr. à titre de dépens
+pour l’ensemble de la procédure devant la Cour de céans.
+Le 3 mai 2016, le défendeur s’est déterminé spontanément sur l’écriture
+du demandeur. Il relève que, suite au jugement de la Cour des assurances sociales du 19 novembre
+2014, il a versé au demandeur le montant de 14'490 fr. 33, soit 6'566 fr. 33 + [14 x 566 fr.] (valeur
+5 février 2015). Sur ce montant, la somme de
+9'011
+fr. 03 couvre la période du 1
+er
+septembre 2008 au 31 décembre 2013, cette somme ayant été compensée avec le montant
+des rentes LPP versées à tort pendant cette période (soit 2'444 fr. 70) pour aboutir au
+solde dû de 6'566 fr. 33. Aucune prestation supplémentaire ne serait dès lors due au demandeur
+pour cette période.
+Quant au splitting, le défendeur fait valoir que la conclusion tendant à la remise de certificats
+concernant l’avoir de prévoyance pour la part active après splitting serait nouvelle
+et donc irrecevable à ce stade de la procédure. Même si elle était recevable, elle
+devrait être rejetée car sans fondement.
+S’agissant enfin des dépens, il expose que le droit cantonal pertinent ne prévoit pas
+l’allocation de pleins dépens mais d’une indemnité, qui selon le TFJDA (tarif du
+28 avril 2015 des frais judiciaires et des dépens en matière administrative ; RSV 173.36.5.1),
+est comprise entre 500 et 10'000 fr. Il conclut à ce que celle-ci soit fixée au maximum à
+1'000 fr., le demandeur n’obtenant que très partiellement gain de cause au vu des conclusions
+prises dans la demande initiale.
+L’écriture du défendeur a été transmise au demandeur pour information.
+Les parties ne se sont plus exprimées de sorte que le dossier a été gardé à
+juger.
+E n  d r o i t  :
+1.
+a)
+Lorsque le Tribunal fédéral admet un recours, il statue lui-même sur le fond ou renvoie
+l'affaire à l'autorité précédente pour qu'elle prenne une nouvelle décision.
+Il peut également renvoyer l'affaire à l'autorité qui a statué en première instance
+(art. 107 al. 2 LTF). Le renvoi a pour effet de reporter la cause devant l’autorité cantonale
+dans l’état où elle se trouvait immédiatement avant que celle-ci ne statue. Cela
+ne signifie toutefois pas que l’autorité cantonale soit dans la même situation et jouisse
+de la même liberté qu’avant de rendre son premier jugement, car elle est liée par
+les considérants de l’arrêt de renvoi.
+La LTF ne connaît pas de disposition équivalente à l'art. 66 al. 1 aOJ (loi fédérale
+d'organisation judiciaire du 16 décembre 1943, abrogée au
+1
+er
+janvier 2007 ; RS 3 521), qui prévoyait que l'autorité cantonale était tenue de fonder
+sa nouvelle décision sur les considérants de droit de l'arrêt du Tribunal fédéral
+(cf. art. 107 al. 2 LTF).
+Cette règle demeure toutefois valable sous le nouveau droit (Message concernant la révision
+totale de l'organisation judiciaire fédérale du 28 février 2001, in : FF 2001, p.
+4143 ; TF [Tribunal fédéral] 5A_336/2008 du 28 août 2008 consid. 1.3 et références
+citées ; 4A_71/2007 du 19 octobre 2007 consid. 2.2 ; 4A_138/2007 du 19 juin 2007 consid.
+1.5).
+L’autorité cantonale à laquelle une affaire est renvoyée est ainsi tenue de fonder
+sa nouvelle décision sur les considérants de droit de l’arrêt du Tribunal fédéral ;
+sa cognition est limitée par les motifs de l’arrêt de renvoi, en ce sens qu’elle
+est liée par ce qui a été déjà jugé définitivement par le Tribunal
+fédéral et par les constatations de fait qui n'ont pas été attaquées devant
+lui ; des faits nouveaux ne peuvent être pris en considération que sur les points qui
+ont fait l’objet du renvoi, lesquels ne peuvent être étendus, ni fixés sur une base
+juridique nouvelle. La portée de l’arrêt de renvoi dépend donc du contenu de cet
+arrêt (TF 5A_488/2013 du
+4 avril 2014
+consid. 3.1 ; ATF 135 III 334 consid. 2 et les arrêts cités ; ATF 131 III 91 consid.
+5.2 et les références citéees ; Jean-François Poudret, Commentaire de la loi
+fédérale d'organisation judiciaire, vol. Il, Berne 1990, nn. 1.2 et 1.3 ad art. 66 aOJ).
+Il n'est pas possible de remettre en cause ce qui a été admis – même implicitement
+– par le Tribunal fédéral (Bernard Corboz, in : Commentaire de la LTF, 2
+ème
+éd., Berne 2014, ch. 27 ad art. 107 LTF ; TC [Tribunal cantonal vaudois] / Chambre des recours
+pénale du 30 mars 2016, 2016/209, consid. 1 ; TC / Cour des poursuites et faillites du 12 avril
+2016, 2016/18, consid. 1).
+b)
+En l’espèce, par son arrêt du 29 janvier 2016 (en la cause 9C_15/2015), le Tribunal fédéral
+a admis partiellement le recours dirigé contre le jugement de la Cour des assurances sociales du
+19 novembre 2014 et l’a annulé dans la mesure où il porte sur le calcul des rentes d’invalidité
+à servir jusqu’à fin 2013. Il a par ailleurs renvoyé l’affaire à la Cour
+de céans afin qu’elle instruise complémentairement et statue à nouveau dans le sens
+des considérants sur le calcul desdites rentes.
+Il résulte de ce qui précède que la rente d’invalidité LPP mensuelle de 566
+fr., avec indexation selon les prescriptions légales, qui doit être versée par le défendeur
+dès le 1
+er
+janvier 2014 selon le considérant I in fine du jugement du
+19
+novembre 2014 n’est plus litigieuse.
+Fait en revanche partie de l’objet du litige le montant dû par le défendeur au titre
+de rente d’invalidité pendant la période courant jusqu’au
+31
+décembre 2013, lequel doit être recalculé conformément aux art. 34a LPP et
+24
+al. 2 OPP 2, tels qu’ils ont été appliqués par le Tribunal fédéral.
+Conformément au considérant 7 de l’arrêt du Tribunal fédéral du
+29
+janvier 2016, qui lie la Cour de céans sur ce point, le grief du demandeur relatif à l’application
+des règles du splitting pour la « part active » est recevable dans la mesure
+où il constitue un nouvel argument juridique dans les limites de l’objet du litige (ATF 136
+V 362 consid. 4.1). Il conviendra donc de statuer sur la conclusion prise à cet égard par le
+demandeur dans son mémoire du 20 avril 2016.
+c)
+La Cour de céans est liée par les constatations de fait du jugement du 19 novembre 2014 qui
+n’ont pas été attaquées devant le Tribunal fédéral.
+Il n’y a donc pas lieu de s’écarter des faits retenus par le précédent jugement
+de la Cour de céans, en particulier des montants retenus dans le calcul de surindemnisation, dans
+la mesure où le Tribunal fédéral n’a pas considéré qu’ils avaient
+été constatés de manière manifestement incomplète.
+2.
+Il y a ainsi lieu de procéder à nouveau au calcul de surindemnisation, conformément aux
+principes posés par le Tribunal fédéral dans son arrêt 9C_15/2015 pour la période
+comprise entre le 1
+er
+septembre 2008 et le
+31 décembre 2013.
+a)
+A teneur de l’art. 34a al. 1 LPP, le Conseil fédéral édicte des dispositions afin
+d'empêcher que le cumul de prestations ne procure un avantage injustifié à l'assuré
+ou à ses survivants.
+L’art. 24 al 1 OPP 2 prévoit ainsi que l'institution de prévoyance peut réduire
+les prestations d'invalidité et de survivants dans la mesure où, ajoutées à d'autres
+revenus à prendre en compte, elles dépassent 90 % du gain annuel dont on peut présumer
+que l'intéressé est privé.
+Selon l’al. 2 de cette disposition, sont considérées comme des revenus à prendre
+en compte les prestations d'un type et d'un but analogues qui sont accordées à l'ayant droit
+en raison de l'événement dommageable, telles que les rentes ou les prestations en capital prises
+à leur valeur de rentes provenant d'assurances sociales ou d'institutions de prévoyance suisses
+et étrangères, à l'exception des allocations pour impotents, des indemnités pour
+atteinte à l'intégrité et de toutes autres prestations semblables. Est aussi pris en compte
+le revenu provenant d'une activité lucrative exercée par un assuré invalide ou le revenu
+de remplacement ainsi que le revenu ou le revenu de remplacement que celui-ci pourrait encore raisonnablement
+réaliser, à l'exception du revenu supplémentaire réalisé pendant l'exécution
+d'une mesure de nouvelle réadaptation au sens de l'art. 8a de la loi fédérale du 19 juin
+1959 sur l'assurance-invalidité.
+b)
+Il convient d’abord d’établir le montant du gain annuel dont on peut présumer que
+l’intéressé est privé conformément à l’art. 24 al. 1 OPP 2. A cet
+égard, il s’agit de considérer comme établis les montants retenus par le jugement
+du
+19 novembre 2014, non contestés
+sur ce point devant le Tribunal fédéral.
+Conformément au consid. 3.1. du jugement du 19 novembre 2014 de la Cour de céans, le revenu
+sans invalidité doit ainsi être fixé à 74'965 fr. 45 en 2008, 76'464 fr. 80 en 2009,
+77'000 fr. en 2010, 77'770 fr. en 2011, 78'314 fr. 40 en 2012 et 79'097 fr. 55 en 2013.
+Il faut ajouter à ce montant celui des allocations familiales tel qu’il a été retenu
+pour chaque année prise en considération par le précédent jugement de la Cour de
+céans (consid. 3.7 et 4).
+C’est sur l’addition de ces deux montants que doit être calculée la proportion
+de 90% fixée par l’art. 24 al. 1 OPP 2 pour déterminer s’il y a ou non surindemnisation.
+Ce montant doit être calculé pour chaque année considérée.
+Contrairement à ce que soutient le défendeur dans sa proposition de calcul produite en procédure,
+il n’y a pas lieu de diminuer ce montant de moitié (50%) pour déterminer si les prestations
+de l’institution de prévoyance doivent être réduites du fait d’une surindemnisation.
+Le principe de la concordance événementielle (« Kongruenzgrundsatz ») n’implique
+en effet pas que l’on doive tenir compte de la part pour laquelle l’institution de prévoyance
+intervient dans la détermination du gain annuel présumé mais uniquement dans la prise
+en compte des revenus. En cas d’invalidité partielle, lorsque l’institution de prévoyance
+n’intervient que pour la part du revenu perdue en raison de cette invalidité partielle, on
+ne prendra pas en considération dans le cadre de la surindemnisation une partie seulement du gain
+présumé. Bien au contraire, on doit tenir compte de l’entier du gain présumé
+et, cas échéant, du revenu réalisé à temps partiel ou qui pourrait être
+réalisé par l’assuré
+(TF
+9C_40/2008 du 4 septembre 2008 consid. 6 et références citées ; Isabelle Vetter-Schreiber,
+BVG FZG Kommentar, 3
+ème
+éd. 2013, n. 28 ad art. 24 OPP 2).
+b)
+Il s’agit ensuite d’établir les revenus à prendre en compte pour cette même
+période au sens de l’art. 24 al. 2 OPP 2 tel qu’appliqué par le Tribunal fédéral.
+aa)
+S’agissant d’abord des rentes versées par l’assurance-invalidité
+(ci-après :
+AI), il convient, conformément à ce qu’a exposé le Tribunal fédéral
+(TF
+9C_15/2015 consid. 6), de ne pas tenir compte de l’augmentation à trois quarts de rente intervenue
+rétroactivement au 1
+er
+septembre 2008.
+Les montants précédemment retenus par la Cour de céans doivent dès lors être
+réduits dès le 1
+er
+septembre 2008 pour correspondre aux montants auxquels aurait eu droit le demandeur dès cette date
+s’il avait continué à bénéficier d’une demi-rente.
+On ne peut donc ni s’en tenir, pour l’entier de la période, au montant des rentes AI
+avant le 1
+er
+septembre 2008 comme le soutient le demandeur, ni réduire proportionnellement par une règle
+de trois, les montants retenus dans le précédent jugement, qui correspondaient aux prestations
+versées pour deux tiers de rente, comme le propose le défendeur.
+Le demandeur n’ayant été mis au bénéfice de trois quarts de rente AI que par
+décision du 16 janvier 2012 avec effet rétroactif au 1
+er
+septembre 2008, il a bénéficié jusqu’au 31 décembre 2012 des prestations sur
+la base d’un droit à une demi-rente AI. On peut dès lors se fonder sur les prestations
+qui lui ont été effectivement versées, lesquelles ressortent du décompte figurant
+en page 2 de la décision du 16 janvier 2012 de l’OAI, fixant le montant des prestations dues
+rétroactivement au 1
+er
+septembre 2008 et permettant le calcul des arrérages (pièce 6 du bordereau du demandeur), soit :
+·
+du 1
+er
+septembre 2008 au 31 décembre 2008 :
+2'393 fr. par mois
+·
+du 1
+er
+janvier 2009 au 31 décembre 2010 :
+2'469 fr. par mois
+·
+du 1
+er
+janvier 2011 au 31 juillet 2011 :
+457 fr. par mois (pour
+l’enfant B.O.________)
+·
+du 1
+er
+janvier 2011 au 31 décembre 2011 :
+2'056 fr. par mois
+Il résulte de ce même décompte que le montant versé par l’OAI le
+1
+er
+janvier 2012 pour des prestations correspondant à une demi-rente AI était de 2'056 fr. par
+mois. Ce chiffre doit donc également être retenu pour les rentes AI à prendre en compte
+pour le calcul de surindemnisation en 2012.
+Quant à l’année 2013, il convient de se référer à la Table des rentes
+complètes mensuelles, édictée par l’Office fédéral des assurances sociales
+(OFAS), échelle 44, valable dès le 1
+er
+janvier 2013, cette table pouvant au besoin également permettre de retrouver les chiffres établis
+plus hauts. La demi-rente correspondant à trois quarts de rente d’invalidité de 1'713
+fr. est de 1'142 francs. Les prestations mensuelles de 685 fr. pour les enfants C.O.________ et D.O.________
+doivent quant à elles être ramenées à 457 fr., le montant total acquitté étant
+donc toujours de 2'056 fr. par mois.
+bb)
+Dans son calcul de surindemnisation (consid. 3.6. du jugement du 19 novembre 2014), la Cour de céans
+avait également pris en considération un revenu hypothétique d’invalide correspondant
+au revenu retenu par l’OAI dans sa décision de révision de rente, soit un montant de
+23'991 fr. 55. Dans son arrêt
+(TF 9C_15/2015
+consid. 5.2.), le Tribunal fédéral a laissé indécises les questions relatives au
+montant du revenu hypothétique pris en compte ainsi qu’au principe même de l’imputation
+d’un revenu hypothétique lorsque le taux d’invalidité est important, invitant la
+juridiction cantonale à les trancher dans son jugement à intervenir. Il convient dès lors
+de les examiner.
+Tant le demandeur que le défendeur considèrent dans leurs écritures qu’il n’y
+a pas lieu de retenir un revenu hypothétique d’invalide, dans la mesure où une capacité
+de gain ne serait pas exigible de l’assuré au vu de son taux d’invalidité.
+Avant, cas échéant, d’examiner le montant du revenu hypothétique déterminant,
+ainsi que notamment la question de savoir s’il y a lieu de s’écarter en l’espèce
+de la présomption que le revenu d’invalide déterminé par l’OAI correspond
+au revenu raisonnablement exigible, il convient d’examiner la question de principe de l’imputation
+d’un tel revenu hypothétique.
+Dans ce cadre, il s’agit de prendre en considération les données subjectives, en particulier
+la question de savoir si la situation individuelle de l’assuré et les circonstances régnant
+sur le marché du travail permettent réellement à ce dernier, dans le cas particulier,
+de réaliser un revenu sur la base d’une activité lucrative résiduelle. En présence
+d’un taux d’invalidité important se pose dès lors la question de savoir si le revenu
+d’invalide retenu par l’assurance-invalidité peut être réalisé (cf. Felix
+Schmid/Martin Würmli, Das mutmassliche Erwerbseinkommen nach Art. 24 BVV2, PJA 2008, p. 719 ss).
+En référence à une jurisprudence cantonale (arrêt du Tribunal des assurances sociales
+du canton de Saint-Gall du 20 décembre 2006, BV 2005/33) ainsi qu’à un arrêt du
+Tribunal fédéral (ATF 134 V 64), les auteurs susmentionnés estiment qu’il convient
+en général de renoncer à une imputation pour des taux d’invalidité supérieurs
+à 70%.
+Cela étant, la jurisprudence du Tribunal fédéral la plus récente se montre plus stricte.
+Ainsi, le Tribunal fédéral a autorisé la prise en compte d’un revenu hypothétique
+pour un assuré dont le taux d’invalidité était de 79%, estimant que celui-ci n’avait
+pas démontré avoir tout entrepris ce que l’on pouvait attendre de lui pour mettre en
+valeur sa capacité de gain (TF 9C_275/2013 du 5 novembre 2013, cité par le Tribunal fédéral
+dans son arrêt en la cause 9C_15/2015 consid. 5.2.). Il en est allé de même s’agissant
+d’un assuré dont le taux d’invalidité était de 72%, une capacité de travail
+résiduelle de 28% pouvant là aussi être valorisée
+(TF
+9C_913/2013 du 24 mars 2014, également cité dans l’arrêt rendu en la cause 9C_15/2015).
+La jurisprudence la plus récente du Tribunal fédéral a été critiquée par
+Georges Pestalozzi-Seger (Rentes d’invalidité de la prévoyance professionnelle :
+réduction pour cause de surindemnisation, in : Droit et handicap 1/15, p. 6 ss, spéc.
+p. 8) qui considère, d’une part, qu’elle a l’inconvénient de confronter le
+marché du travail à des candidatures qui, dans la pratique, n’ont aucune chance d’être
+retenues et, d’autre part, que la réduction des prestations opérée en raison de
+ce revenu hypothétique renvoie souvent les assurés vers les prestations complémentaires,
+à charge de l’ensemble des contribuables.
+En l’espèce, il conviendrait dès lors, conformément à la jurisprudence, d’examiner
+si l’on peut raisonnablement exiger de l’assuré qu’il réalise un revenu pour
+sa part valide qui est de 32%. Contrairement à ce que soutient le demandeur, il n’y a en effet
+pas lieu d’opérer, en cas d’invalidité partielle une réduction sur le revenu
+hypothétique, en tenant compte de la seule « part d’invalidité »
+soit, de la différence entre le degré d’invalidité reconnu, de 68%, et le taux de
+la rente AI (trois quarts). Comme pour la détermination du degré d’invalidité, c’est
+bien l’entier de la capacité de gain restante, soit en l’espèce 32%, qui doit être
+prise en considération pour déterminer si l’on peut raisonnablement exiger de l’assuré,
+vu les circonstances concrètes, qu’il réalise un revenu. Ce revenu hypothétique
+est ensuite ajouté aux autres revenus pour être comparé au 90% du gain annuel présumé.
+Pour le surplus, le demandeur se contente d’affirmer qu’aucun employeur potentiel n’emploierait
+un salarié ayant ses limitations fonctionnelles, sans alléguer, ni a fortiori démontrer,
+qu’il aurait effectivement cherché à mettre à profit sa capacité de gain restante.
+Il est donc douteux que
+les conditions permettant de s’écarter de la présomption selon laquelle le revenu d’invalide
+établi par l’OAI correspond au revenu raisonnablement exigible de l’assuré soient
+en l’occurrence remplies.
+Toutefois, la prise en compte d’un revenu hypothétique ainsi que son montant peuvent rester
+indécis. Même si on le comptabilise dans les revenus de l’assuré, une surindemnisation
+doit en effet de toute manière être exclue in casu, au vu de ce qui suit.
+cc)
+Pour établir s’il y a surindemnisation au sens de l’art. 24 OPP 2, il convient encore
+d’ajouter à ces montants les prestations versées par le défendeur au titre de la
+prévoyance professionnelle (rentes LPP).
+Sur ce point, il y a lieu de se fonder sur les chiffres du précédent jugement cantonal, y compris
+en ce qui concerne l’indexation, dans la mesure où ils n’ont pas fait l’objet
+de contestations devant le Tribunal fédéral.
+Le jugement cantonal doit toutefois être complété dans la mesure où il ne fait pas
+état de l’indexation des rentes, non opérée par le défendeur pour les années
+où une surindemnisation avait été constatée.
+Conformément à ce qui est exposé au consid. 3.8.2. du jugement du
+19
+novembre 2014 précité, il convient à cet égard de tenir compte des chiffres fournis
+par le défendeur dans ses calculs du 23 septembre 2013 (pièces 111 et 113). Le montant des
+prestations dues par le défendeur, y compris l’indexation, peut ainsi être détaillé
+comme suit :
+·
+du 1
+er
+septembre 2008 au 31 décembre 2008 :
+873 fr. 17 par mois
+·
+du 1
+er
+janvier 2009 au 31 décembre 2009 :
+905 fr. 50 par mois
+·
+du 1
+er
+janvier 2010 au 31 décembre 2010 :
+905 fr. 50 par mois
+·
+du 1
+er
+janvier 2011 au 31 juillet 2011 :
+905 fr. 50 par mois
+·
+du 1
+er
+août 2011 au 31 décembre 2011 :
+792 fr. 33 par mois
+·
+du 1
+er
+janvier 2012 au 31 décembre 2012 :
+792 fr. 33 par mois
+·
+du 1er janvier 2013 au 31 décembre 2013 :
+793 fr. 33 par mois.
+3.
+Sur la base des chiffres ci-dessus, on peut donc procéder aux calculs de surindemnisation suivants
+pour les différentes années concernées, étant précisé qu’à ce
+stade on ne tiendra pas compte des montants versés par le défendeur en cours de procédure
+qui ont valeur d’acomptes.
+2008
+(01.09 – 31.12)
+Gain présumé
+(24 I OPP 2)
+Revenus (24
+II OPP 2)
+Revenu présumé
+24'988.48
+Part des rentes
+AI
+9'572.00
+Allocations
+familiales
+3'480.00
+Rentes LPP
+indexées
+3'492.68
+Total
+28'468.48
+90%
+25'621.63
+Total
+13'064.68
+Différence
+12'556.95
+Revenu hypothétique
+7'977.18
+Pas de surindemnisation
+2009
+Gain présumé
+(24 I OPP 2)
+Revenus (24
+II OPP 2)
+Revenu présumé
+76'464.80
+Part des rentes
+AI
+29'628.00
+Allocations
+familiales
+10'440.00
+Rentes LPP
+indexées
+10'866.00
+Total
+86'904.80
+90%
+78'214.32
+Total
+40’494.00
+Différence
+37'720.32
+Revenu hypothétique
+24'471.38
+Pas de surindemnisation
+2010
+Gain présumé
+(24 I OPP 2)
+Revenus (24
+II OPP 2)
+Revenu présumé
+77'000.00
+Part des rentes
+AI
+29'628.00
+Allocations
+familiales
+10'490.00
+Rentes LPP
+indexées
+10'866.00
+Total
+87'490.00
+90%
+78'741.00
+Total
+40’494.00
+Différence
+38'247.00
+Revenu hypothétique
+24'642.37
+Pas de surindemnisation
+2011
+Gain présumé
+(24 I OPP 2)
+Revenus (24
+II OPP 2)
+Revenu présumé
+77'770.00
+Part des rentes
+AI
+30'156.00
+Allocations
+familiales
+9'790.00
+Rentes LPP
+indexées
+10'300.15
+Total
+87'560.00
+90%
+78'804.00
+Total
+40'456.15
+Différence
+38'347.85
+Revenu hypothétique
+24'889.09
+Pas de surindemnisation
+2012
+Gain présumé
+(24 I OPP 2)
+Revenus (24
+II OPP 2)
+Revenu présumé
+78'314.40
+Part des rentes
+AI
+24'672.00
+Allocations
+familiales
+8'040.00
+Rentes LPP
+indexées
+9'508.00
+Total
+86'354.40
+90%
+77'719.00
+Total
+34'180.00
+Différence
+43'539.00
+Revenu hypothétique
+25'063.31
+Pas de surindemnisation
+2013
+Gain présumé
+(24 I OPP 2)
+Revenus (24
+II OPP 2)
+Revenu présumé
+79'097.55
+Part des rentes
+AI
+24'672.00
+Allocations
+familiales
+4'851.00
+Rentes LPP
+indexées
+8'376.38
+Total
+83'948.55
+90%
+75'553.69
+Total
+33'048.38
+Différence
+42'505.31
+Revenu hypothétique
+25'313.94
+Pas de surindemnisation
+Il n’y a donc aucune surindemnisation de l’assuré pendant la période concernée,
+y compris si l’on tient compte d’un revenu hypothétique d’un montant égal
+au revenu d’invalide retenu par l’OAI.
+Il en irait différemment si l’on prenait en considération l’entier des prestations
+AI. En effet, comme l’a relevé la doctrine (Isabelle Vetter-Schreiber, op. cit., n. 34 ad
+art. 24 OPP 2), la prise en compte d’une partie seulement des prestations de l’AI dans le
+calcul de surindemnisation peut aboutir à une surindemnisation de l’assuré compte tenu
+des prestations versées par le 1
+er
+pilier. Le Tribunal fédéral a toutefois tenu compte de ces conséquences potentielles en
+rendant son arrêt du 29 janvier 2016. Il s’ensuit que le défendeur ne peut donc réduire
+ses prestations en application de l’art. 24 al. 1 OPP 2.
+Partant, le demandeur a droit au paiement par le défendeur de la différence entre les montants
+versés au titre des rentes LPP pendant la période considérée et le montant des rentes
+indexées, soit :
+·
+du 1
+er
+septembre 2008 au 31 décembre 2008 :
+10 fr. 17 par mois soit un total de 40 fr. 68 ;
+·
+du 1
+er
+janvier 2009 au 31 décembre 2009 :
+42 fr. 50 par mois soit un total de 510 fr. ;
+·
+du 1
+er
+janvier 2010 au 31 décembre 2010 :
+42 fr. 50 par mois soit un total de 510 fr. ;
+·
+du 1
+er
+janvier 2011 au 31 juillet 2011 :
+42 fr. 50 par mois soit un total de 297 fr. 50 ;
+·
+du 1
+er
+août 2011 au 31 décembre 2011 :
+37 fr. 35 par mois soit un total de 186 fr. 75 ;
+·
+du 1
+er
+janvier 2012 au 31 décembre 2012 :
+37 fr. 33 par mois soit un total de 448 fr. ;
+·
+du 1
+er
+janvier 2013 au 31 décembre 2013 :
+8'376 fr. 38.
+Le demandeur ayant expressément renoncé à demander le paiement d’intérêts
+moratoires, point n’est besoin de les calculer.
+En définitive, le défendeur doit, en relation avec les rentes LPP dues du 1
+er
+septembre 2008 au 31 décembre 2013, paiement au demandeur de la somme de 10'369 fr. 30. Il conviendra
+de déduire de ce montant les versements déjà effectués par le défendeur suite
+au jugement de la Cour de céans du 19 novembre 2014
+(6'566
+fr. 35, valeur échue le 5 février 2015) et en cours de procédure suite à l’arrêt
+de renvoi du Tribunal fédéral (935 fr 15, valeur échue le 4 avril 2016). Il reste donc
+un solde dû de 2'867 fr. 50.
+4.
+En se référant aux règles du splitting, le demandeur conclut devant la Cour de céans
+à ce que le défendeur lui fournisse des certificats concernant l’avoir de prévoyance
+pour la « part active » après splitting pour les années 2014, 2015 et 2016.
+Il ne reprend en revanche pas la conclusion en paiement de la somme de 65'748 fr. en raison du revenu
+raisonnablement exigible qui aurait été comptabilisé à tort. Le défendeur invoque
+pour sa part l’irrecevabilité de ce grief.
+Ainsi qu’il a été exposé supra au considérant 1a et b, il s’agit d’examiner
+ce grief dès lors que le Tribunal fédéral a estimé, d’une manière qui
+lie la Cour de céans, qu’il était recevable (TF 9C_14/2015 consid. 7).
+a)
+Selon l’art. 15 al. 1 OPP 2, si l'assuré est mis au bénéfice d'une rente d'invalidité
+partielle, l'institution de prévoyance partage l'avoir de vieillesse en une partie correspondant
+au droit à la rente et en une partie active. Pour un droit à une demi-rente, comme en l’espèce,
+le partage se fait à raison d’½ pour l’avoir de vieillesse fondé sur l’invalidité
+partielle (« part passive ») et ½ pour l’avoir de vieillesse actif (« part
+active »). L'avoir de vieillesse actif est assimilé à celui d'un assuré valide
+et traité, à la fin des rapports de travail, selon les art. 3 à 5 LFLP ([loi fédérale
+du 17 décembre 1993 sur le libre passage dans la prévoyance professionnelle vieillesse, survivants
+et invalidité ; RS 831.42] ; art. 15 al. 2 OPP 2).
+b)
+En l’espèce, aux termes de sa demande initiale, l’assuré avait pris une conclusion
+tendant à la production par le défendeur de certificats annuels pour la part active. Le Fonds
+de garantie LPP a établi, en date du 18 février 2013, à l’attention du conseil du
+demandeur, dans le cadre de sa procédure en divorce, une attestation selon laquelle l’avoir
+de prévoyance professionnelle, soit la prestation de sortie (art. 2 LFLP), au 28 février 2013
+s’élevait à 60'083 fr. 60, intérêts LPP inclus. Etant donné ce certificat,
+le demandeur avait en conséquence retiré la conclusion susmentionnée à l’issue
+de son écriture du 10 mars 2014.
+Contrairement à ce que soutient le demandeur, le partage de l’avoir de vieillesse selon l’art.
+15 OPP 2 n’a aucune incidence sur le calcul de surindemnisation fondé sur l’art. 24
+OPP 2. Comme on l’a vu supra au considérant 3b/bb, pour déterminer s’il y a surindemnisation
+au sens de cette disposition, il convient toujours de prendre en compte, y compris en cas d’invalidité
+partielle, l’entier du gain présumé, ainsi que le revenu que peut réaliser l’assuré,
+y compris pour la part pour laquelle il est considéré comme « valide ».
+On ne peut donc imputer la « part active » de l’avoir de vieillesse à
+la capacité de gain restante de l’assuré. Pour autant qu’elles soient maintenues,
+les conclusions en paiement de la somme de 65'748 fr. prises par le demandeur devant le Tribunal fédéral
+doivent donc être rejetées.
+5.
+Reste à examiner la conclusion tendant à la délivrance de certificats pour la « part
+active », soit celle qui n’a pas donné lieu à l’invalidité partielle.
+a)
+Selon l’art. 86b LPP, l’institution de prévoyance renseigne chaque année ses assurés
+de manière adéquate sur leurs droits aux prestations, le salaire coordonné, le taux de
+cotisation et l’avoir de vieillesse.
+Le devoir d'information consacré par cette disposition concerne la situation personnelle concrète
+de la personne assurée en matière de prévoyance, afin, d'une part, de lui permettre de
+vérifier en tout temps l'état et l'évolution de sa situation individuelle de prévoyance
+et, d'autre part, de pouvoir se faire une idée de l'ensemble des activités de son institution
+de prévoyance (Message du Conseil fédéral relatif à la révision de la loi fédérale
+sur la prévoyance professionnelle vieillesse, survivants et invalidité du 1
+er
+mars 2001 ; FF 2000 2495, 2536 ; voir également ATF 136 V 331 consid. 4.2).
+b)
+En l’espèce, il est constant que le demandeur est au bénéfice d’une rente
+minimale d’invalidité versée par l’institution de prévoyance fondée sur
+un degré d’invalidité de 50% dès le 26 octobre 1996.
+Dès cette date, l’avoir de vieillesse du recourant a donc été partagé par moitié,
+conformément à la teneur de l’art. 15 OPP 2 qui était alors en vigueur (RO 1984
+543 ; RO 1996 3952), entre une « part passive » et une « part active ».
+On ne voit dès lors pas quel motif empêcherait l’assuré d’obtenir des renseignements
+de la part de prévoyance sur l’état de sa « part active ». On relève
+d’ailleurs que, dans le cadre de la procédure de divorce de l’assuré, le défendeur
+a été en mesure de fournir au conseil du demandeur des renseignements sur l’état
+de cette « part active », intitulée « compte d’épargne »
+(cf. pièce 128 du dossier du défendeur).
+c)
+Il convient dès lors de faire droit à la conclusion du demandeur en ce qui concerne la « part
+active » et de contraindre le défendeur à lui fournir les renseignements auxquels
+il a droit en application de l’art. 86b LPP.
+6.
+Le demandeur conclut à l’allocation d’une indemnité de 18'965 fr. à la charge
+du défendeur à titre de dépens pour l’intégralité de la procédure
+conduite devant la Cour des assurances sociales, soit celle ayant abouti au jugement du
+19
+novembre 2014, ainsi que la présente. Au vu des considérants de l’arrêt du Tribunal
+fédéral, il se justifier de revoir également l’allocation des dépens pour la
+procédure cantonale.
+a)
+Selon l’art. 55 LPA-VD (loi vaudoise du 28 octobre 2008 sur la procédure administrative ;
+RSV 173.36), l'autorité alloue une indemnité à la partie qui obtient totalement ou partiellement
+gain de cause, en remboursement des frais qu'elle a engagés pour défendre ses intérêts.
+La partie qui n’obtient que partiellement gain de cause a droit à des dépens réduits.
+A teneur de l’art. 11 TFJDA (Tarif du 28 avril 2015 des frais judiciaires et des dépens en
+matière administrative, RSV 173.36.5.1), les honoraires sont fixés d’après l’importance
+et la complexité du litige, sans égard à la valeur litigieuse, et sont en règle générale
+compris entre 500 et 10'000 francs.
+b)
+In casu, le jugement du 19 novembre 2014 avait alloué au demandeur un montant de 2'000 fr. correspondant
+à des dépens réduits, celui-ci n’ayant obtenu que partiellement gain de cause. Il
+convient toutefois de tenir compte du fait que, suite au renvoi de l’affaire par le Tribunal fédéral,
+le demandeur obtient entièrement gain de cause sur la question principale de la surindemnisation.
+Il n’obtient toutefois que toujours partiellement l’allocation des conclusions prises dans
+sa demande initiale déposée le 18 juin 2013.
+c)
+En définitive, compte tenu de l’ampleur et de la complexité de la procédure, une
+indemnité de 4'000 fr. paraît appropriée pour indemniser le demandeur pour l’intégralité
+de la procédure menée devant la Cour de céans, montant dont il conviendra de déduire
+celui de 2'000 fr déjà alloué par le jugement du 19 novembre 2014.
+d)
+Quant au défendeur, il n’a pas droit à des dépens en sa qualité d’assureur
+de la prévoyance professionnelle et ne prétend du reste pas à une telle indemnité
+(ATF 126 V 143).
+7.
+La procédure étant en principe gratuite en matière de litiges concernant la prévoyance
+professionnelle (art. 73 al. 2 LPP), il n’est pas perçu de frais judiciaires.
+Par
+ces motifs,
+la
+Cour des assurances sociales
+prononce :
+I.
+La demande formulée le 18 juin 2013 est partiellement admise.
+II.
+Le Fonds de garantie LPP est condamné à verser à A.O.________ au titre des rentes d’invalidité
+LPP, pour la période du
+1
+er
+septembre 2008 au 31 décembre 2013, la somme de 10'369 fr. 30 (dix mille trois cent soixante-neuf
+francs et trente centimes), sous déduction du montant de 6’566 fr. 35 (six mille cinq cent
+soixante-six francs et trente-cinq centimes) versé le 5 février 2015 au demandeur et du montant
+de 935 fr. 15 (neuf cent trente-cinq francs et quinze centimes) versé le 4 avril 2016 en mains de
+l’Office des poursuites du district [...], soit un solde de 2'867 fr. 50 (deux mille huit cent
+soixante-sept francs et cinquante centimes).
+III.
+Le Fonds de garantie LPP doit délivrer à A.O.________ dans un délai de trente jours des
+certificats concernant l’avoir de prévoyance pour la part active après splitting pour
+les années 2014, 2015 et 2016.
+IV.
+Le Fonds de garantie LPP versera à A.O.________ une indemnité de 4'000 fr. (quatre mille francs)
+à titre de dépens, sous déduction du montant de 2'000 fr. (deux mille francs) alloué
+par le ch. III du dispositif du jugement de la Cour des assurances sociales du
+19
+novembre 2014.
+V.
+Le jugement de la Cour des assurances sociales du 19 novembre 2014 est confirmé pour le surplus.
+VI.
+Le présent jugement est rendu sans frais.
+Le
+président :
+La greffière :
+Du
+Le jugement qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Philippe Nordmann, à Lausanne (pour A.O.________),
+‑
+Fonds de garantie LPP, à Berne,
+-
+Office fédéral des assurances sociales, à Berne.
+Le présent jugement peut faire l'objet d'un recours en matière de droit public devant le Tribunal
+fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral (Schweizerhofquai
+6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+La greffière :
