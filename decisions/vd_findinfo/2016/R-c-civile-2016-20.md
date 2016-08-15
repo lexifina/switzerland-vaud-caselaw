@@ -1,0 +1,443 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2016___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2016 / 20"
+decided: "2016-08-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5666165"
+cites_law: ["switzerland/bund/acts/173.110/art-036.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-125.md", "switzerland/bund/acts/272/art-126.md", "switzerland/bund/acts/272/art-128.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2016 / 20
+
+## Regeste
+
+RÉCUSATION, CONDITION DE RECEVABILITÉ, CONNEXITÉ MATÉRIELLE, DROIT D'ÊTRE ENTENDU, PROCÉDÉ TÉMÉRAIRE | 125 let. c CPC (CH), 128 al. 1 CPC (CH), 47 al. 1 let. f CPC (CH), 49 CPC (CH), 8a al. 3 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 15.08.2016 Réc-civile / 2016 / 20
+Vaud Tribunal cantonal Cour administrative 15.08.2016 Réc-civile / 2016 / 20
+Vaud Tribunal cantonal Cour administrative 15.08.2016 Réc-civile / 2016 / 20
+
+RÉCUSATION, CONDITION DE RECEVABILITÉ, CONNEXITÉ MATÉRIELLE, DROIT D'ÊTRE ENTENDU, PROCÉDÉ TÉMÉRAIRE | 125 let. c CPC (CH), 128 al. 1 CPC (CH), 47 al. 1 let. f CPC (CH), 49 CPC (CH), 8a al. 3 CDPJ
+
+TRIBUNAL
+CANTONAL
+B716.006075 et
+D516.026480
+2016 / 22
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 15 août 2016
+____________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              Mme
+Revey et M. Kaltenrieder
+Greffière
+:              Mme
+Egger Rochat
+*****
+Art.
+47 al. 1 let. f, 49, 125 let. c et 128 CPC ; 8a al. 3 CDPJ
+Vu la procédure, référencée B716.006075 ou LQ16.006075, en modification du lieu de
+résidence de l’enfant B.D.________, né le [...] 2013, opposant sa mère
+P.________
+à son père
+A.D.________
+,
+tous deux domiciliés à [...] lors du dépôt de la requête de mesures provisionnelles
+du 9 février 2016 auprès du Juge de paix de l’Ouest lausannois, U.________,
+Vu l’enquête en institution d’une curatelle et en placement à des fins d’assistance,
+référencée D516.026480, ouverte à l’égard de A.D.________ le 22 juin 2016
+auprès du Juge de paix de l’Ouest lausannois, H.________,
+vu l’ordonnance de mesures provisionnelles du 10 mars 2016, par laquelle le Juge de paix,
+U.________, a notamment ouvert une enquête en attribution du droit de déterminer le lieu de
+résidence de l’enfant B.D.________ (I), confié un mandat d’évaluation au Service
+de protection de la jeunesse (ci-après : SPJ) (II), interdit provisoirement le changement du
+lieu de résidence de l’enfant vers la France (III), dit que la mère est provisoirement
+détentrice de la garde de l’enfant (IV) et dit que A.D.________ exercera provisoirement son
+droit de visite envers l’enfant par l’intermédiaire de Point Rencontre, à Ecublens,
+deux fois par mois, pour une durée de deux heures (V),
+vu l’arrêt du 12 avril 2016 par lequel la Chambre des curatelles du Tribunal cantonal
+a réformé les chiffres III et V du dispositif de l’ordonnance susmentionnée, en
+ce sens que la mère est autorisée provisoirement à déplacer le lieu de résidence
+de l’enfant à Paris et que le père exercera son droit de visite par l’intermédiaire
+du Point Rencontre de cette ville,
+vu la requête de mesures provisionnelles et superprovisionnelles de P.________ du 23 mai 2016
+en suspension du droit de visite de A.D.________, motivée par le dépôt d’une plainte
+pénale contre celui-ci à la suite du comportement violent et des propos agressifs qu’il
+avait adoptés à son égard, en présence de leur fils,
+vu l’ordonnance de mesures superprovisionnelles du 25 mai 2016 par laquelle le juge de
+paix a notamment interdit à A.D.________ tout contact avec son fils, à l’exception des
+visites à l’intérieur des locaux de Point Rencontre, et convoqué les parties à
+une audience, le 14 juin 2016, pour instruire et statuer sur la requête de mesures provisionnelles
+précitée, ainsi que sur les requêtes des 16, 19 et 25 mai 2016 de A.D.________,
+vu le rapport d’évaluation du 2 juin 2016 par lequel le SPJ a conclu à ce que
+le droit de déterminer le lieu de résidence de l’enfant soit retiré à A.D.________,
+à ce que P.________ conserve la garde de fait de l’enfant, à ce que les visites du père
+au Point Rencontre soient suspendues et à ce qu’une expertise psychiatrique en faveur de A.D.________
+soit ordonnée,
+vu le courrier du 9 juin 2016 de P.________ soulevant la problématique de la mise en place
+d’une mesure de protection de l’adulte en faveur de A.D.________,
+vu l’ordonnance de mesures superprovisionnelles du 17 juin 2016 par laquelle le juge
+de paix a suspendu le droit de visite de A.D.________ à l’égard de son fils,
+vu le courrier du 17 juin 2016 à l’attention du Dr [...], spécialisé au
+sein du Centre de psychiatrie et psychothérapie [...] à Lausanne (réf. D516.026480),
+par lequel le Juge de paix, U.________, l’a prié de se faire délier du secret médical
+par le médecin cantonal, en vue de la remise d’un rapport, d’ici au 24 juin 2016,
+sur la situation de A.D.________, dont les courriels étaient annexés,
+vu le procès-verbal de l’audience du 22 juin 2016 tenue par le Juge de paix, H.________
+(réf. D516.026480), duquel il ressort notamment que A.D.________ a délié le Dr [...]
+du secret médical à son égard,
+vu la requête d’un rapport d’expertise adressée le 23 juin 2016 par le
+Juge de paix H.________ au Centre d’expertises psychiatriques à Prilly dans le cadre de l’enquête
+en institution d’une curatelle et placement à des fins d’assistance envers A.D.________
+(réf. D516.026480), requête remise en copie à celui-ci,
+vu le procès-verbal de l’audience du 29 juin 2016 (réf. B716.006075),
+lors de laquelle ont été entendus Me Julie André, A.D.________ et P.________ pour
+statuer sur la requête de mesures provisionnelles du 23 mai 2016 de cette dernière, les
+requêtes susmentionnées et celle du 26 mai 2016 du deuxième cité, ainsi que
+sur l’institution d’une curatelle de l’enfant B.D.________,
+vu l’accord des comparants lors de cette audience à ce que Me Julie André poursuive
+son mandat de curatrice de l’enfant, qui lui avait été confié provisoirement par
+décision du 10 juin 2016 dans le cadre de l’enquête en détermination du
+lieu de résidence,
+vu l’ordonnance de mesures provisionnelles du 5 juillet 2016, en vertu de laquelle P.________
+et A.D.________ sont respectivement autorisés à inscrire leur enfant dans une école à
+Paris et dans une crèche en Suisse,
+vu l’arrêt du 7 juillet 2016 par lequel la IIe Cour civile du Tribunal fédéral
+a rejeté le recours déposé par A.D.________ contre l’arrêt rendu le 12 avril 2016
+par la Chambre des curatelles,
+vu le rapport médical concernant A.D.________, déposé le 7 juillet 2016 par
+le Dr [...], dans le cadre de la procédure D516.026480, et transmis au premier pour déterminations
+d’ici le 29 juillet 2016,
+vu le courrier du curateur de l’enfant du 8 juillet 2016, qui soulève la problématique
+de la compétence judiciaire
+ratione
+loci
+à la suite du déménagement
+de P.________ avec l’enfant en territoire français,
+vu les écritures de 22 pages du 11 juillet 2016, accompagnées de 38 pièces
+sous bordereau, des 12 et 13 juillet 2016 adressées au Juge de paix U.________, par lesquelles
+A.D.________ requiert notamment le maintien du for en Suisse, le déplacement du domicile de son
+fils à son propre domicile à Renens, l’attribution de la garde de l’enfant en sa
+faveur, ainsi qu’une expertise psychiatrique à l’égard de P.________,
+vu le courrier du 22 juillet 2016, par lequel P.________ invite le Juge de paix, H.________,
+à prendre toute mesure urgente de protection de l’adulte en faveur de A.D.________, compte
+tenu du rapport médical du 7 juillet 2016 précité,
+vu l’écriture du 25 juillet 2016 de P.________ tendant au rejet des conclusions
+prises par A.D.________ dans les écritures susmentionnées,
+vu le courrier du 25 juillet 2016 adressé au Juge de paix, H.________, par lequel A.D.________
+a requis la récusation du Juge de paix, U.________, dans le cadre de la procédure référencée
+LQ16.006075,
+vu la décision du 26 juillet 2016 par laquelle le Juge de paix, H.________, a rejeté,
+en l’état, la requête de mesures de protection de l’adulte d’extrême
+urgence (réf. D516.026480),
+vu le courrier du 26 juillet 2016 du Juge de paix, H.________, adressé à A.D.________
+(réf. D516.026480),
+vu l’avis du 26 juillet 2016 par lequel le Juge de paix, U.________, a transmis la demande de récusation
+à la Cour de céans, comme objet de sa compétence,
+vu le courrier du 28 juillet 2016 du Juge de paix, H.________, à l’attention de
+A.D.________ (réf. D516.026480),
+vu le courrier du 2 août 2016 de A.D.________ à l’attention de la Cour de céans,
+par lequel il dénonce les manquements à leurs devoirs des juges de paix du district de l’Ouest
+lausannois, U.________ et H.________, dans les procédures référencées sous B716.006075
+et D516.026480, en produisant à l’appui le courrier que lui avait adressé le second le
+26 juillet 2016 et les écritures qu’il leur a adressées le 29 juillet 2016,
+vu les divers courriers du père de P.________, du conseil de celle-ci, Me Mathieu Genillod,
+et de cette dernière, relatant les propos irrespectueux, virulents et injurieux de A.D.________
+à leurs égards,
+vu les pièces au dossier ;
+attendu que le courrier du 2 août 2016 peut être interprété comme une demande
+de récusation des Juges de paix, U.________ et H.________,
+que le requérant est partie aux deux procédures référencées sous B7/LQ16.006075
+et D516.026480,
+que si la procédure référencée B7/LQ16.006075 concerne A.D.________ et son fils et
+celle référencée D516.026480 concerne seulement le premier, ces procédures présentent
+néanmoins des éléments de connexité,
+qu’afin de simplifier la procédure au sens de l’art. 125 let. c CPC (Code
+de procédure civile du 19 décembre 2008, RS 272), il se justifie de joindre les deux demandes
+de récusation (cf. Haldy, CPC commenté, 2011, n. 6 ad art. 126 CPC),
+que l'autorité compétente pour traiter ces demandes de récusation visant les juges de
+paix intimés doit être déterminée,
+que l'art. 8a al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010 ;
+RSV 211.02) dispose que lorsque la demande de récusation vise un magistrat professionnel ou un vice-président,
+trois autres magistrats du même office judiciaire statuent sur ladite demande,
+que la Cour de céans est compétente pour statuer sur les demandes de récusation visant
+l'ensemble d'une autorité judiciaire de première instance ou la majorité de ses membres
+(art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC [règlement organique du Tribunal cantonal du 13 novembre
+2007 ; RSV 173.31.1]),
+que dans le cas d’un office judiciaire composé de moins de quatre magistrats professionnels,
+il revient à la Cour de céans de statuer sur la demande de récusation d’un magistrat
+professionnel, en application analogique des art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC
+(CA 16 décembre 2014/50),
+qu'en l’occurrence, la Justice de paix du district de l'Ouest lausannois n’est composée
+que de trois magistrats professionnels,
+que la Cour de céans est ainsi compétente pour statuer comme autorité de première
+instance sur la demande du 25 juillet 2016 portant sur la récusation de U.________, Juge
+de paix du district de l’Ouest lausannois, et sur la demande du 2 août 2016 portant
+sur la récusation de ce magistrat et sur celle du juge de paix du même district H.________ ;
+attendu qu’aux termes de l’art. 49 al. 1 CPC, la partie qui entend obtenir
+la récusation d’un magistrat ou d’un fonctionnaire judiciaire la demande au tribunal
+aussitôt qu’elle a eu connaissance du motif de récusation,
+que le droit de soulever un motif de récusation se périme s’il n’est pas invoqué
+immédiatement (Tappy, CPC commenté, 2011, n. 19 ad art. 49 CPC),
+que la diligence de la partie qui demande la récusation doit être appréciée en fonction
+du principe de la bonne foi (Aubry Girardin, Commentaire LTF, 2014, n. 11 ad art. 36 LTF),
+que, selon la pratique constante, celui qui omet de se plaindre immédiatement de la prévention
+d’un magistrat et laisse le procès se dérouler sans intervenir, agit contrairement aux
+règles de la bonne foi et voit son droit se périmer (ATF 138 I 1 consid. 2.2 ; TF
+1B_321/2013 du 30 octobre 2013 consid. 2.1 ; Aubry Girardin, op. cit., n. 11 ad art. 36
+LTF),
+que, si la loi ne prévoit aucun délai particulier, il y a lieu d’admettre que la récusation
+doit être formée dans les jours qui suivent la connaissance de la cause de la récusation
+(TF 1B_277/2008 du 13 novembre 2008 consid. 2.3
+in
+fine
+; Aubry Girardin, op. cit., n. 11
+ad art. 36 LTF),
+que, dans tous les cas, attendre près d’un mois avant de former une demande de récusation
+est trop long (TF 8F_4/2011 du 18 octobre 2011 consid. 6.1 ; Aubry Girardin, op. cit., n. 11
+ad art. 36 LTF),
+que la prévention ou l’apparence de prévention résulte parfois de l’accumulation
+progressive d’attitudes ou de propos en eux-mêmes anodins mais qui, cumulés, peuvent
+finir par donner une impression de partialité,
+que, dans une telle hypothèse, l’on ne saurait exiger que la demande de récusation soit
+présentée aussitôt à chacun de ces faits,
+qu’il est dès lors légitime de les invoquer tous comme indices de la prévention
+alléguée, dans une demande consécutive au plus récent d’entre eux (Tappy, CPC
+commenté, 2011, n. 13 ad art. 49 CPC et réf. cit.),
+qu’en l’espèce, le requérant invoque divers manquements procéduraux de la
+part du juge de paix U.________ dans le cadre de la procédure référencée sous B7/LQ16.006075,
+qu’il invoque notamment l’irrespect de son droit d’être entendu, en particulier
+lors de l’audience du 2 mars 2016 tenue par et devant le magistrat intimé, ainsi
+qu’une mauvaise appréciation des faits et des preuves allégués et offerts dans la
+requête du 23 mai 2016 sur laquelle il est statué dans l’ordonnance de mesures superprovisionnelles
+du 25 mai 2016,
+qu’il ressort de sa demande du 25 juillet 2016 que le requérant reproche au magistrat
+intimé un comportement susceptible de révéler un motif éventuel de récusation
+tout au long de la procédure référencée B7/LQ16.006075, soit également lors
+de la reddition de l’ordonnance de mesures superprovisionnelles du 17 juin 2016, puis
+lors de l’audience du 29 juin 2016 ainsi que lors de la reddition de l’ordonnance de
+mesures provisionnelles du 5 juillet 2016, et enfin à la réception de ses écritures
+des 11, 12 et 13 juillet 2016,
+que, s’agissant de la demande de récusation du Juge de paix, H.________, le requérant
+la motive implicitement en se fondant sur le courrier de celle-ci à son attention du 26 juillet 2016,
+dans le cadre de la procédure référencée D516.026480,
+que l’on peut ainsi considérer, qu’en ayant requis la récusation du Juge de paix
+U.________ par courrier du 25 juillet 2016, et celle du Juge de paix H.________ par courrier
+du 2 août 2016, le requérant a fait valoir ses motifs de récusation éventuelle
+aussitôt qu’il en a eu connaissance,
+que, par conséquent, les demandes de récusation sont recevables ;
+attendu qu'à teneur de l’art. 47 al. 1 let. f CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 de la
+Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101) et 6 §1
+de la Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales
+(RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent influencer
+le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie
+(TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid.
+2.1; ATF 138 I 1 consid. 2.2 et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1, ATF 138 IV 142 consid. 2.1) ;
+attendu que des décisions ou des actes de procédure prétendument viciés, voire arbitraires,
+ne fondent pas en soi une apparence objective de prévention (TF 5A_171/2015 du 20 avril 2015
+consid. 6.1 ; TF 4A_377/2014 du 25 novembre 2014 consid. 6.1 et les références citées),
+qu’en particulier, même lorsqu'elles sont établies, des erreurs de procédure ou
+d'appréciation commises par un juge ne suffisent pas à fonder objectivement un soupçon
+de partialité, seules des erreurs particulièrement lourdes ou répétées, constitutives
+de violations graves des devoirs du magistrat, pouvant justifier une suspicion de partialité, pour
+autant que les circonstances corroborent à tout le moins objectivement l'apparence de prévention
+(TF 5A_749/2015 du 27 novembre 2015 consid. 4.1 ; ATF 138 IV 142 consid. 2.3 et les références
+citées),
+qu’en l’espèce, le requérant motive le « dessaisissement urgent »
+du magistrat U.________ de la procédure B716.006075, aux motifs qu’il aurait manqué à
+« ses devoirs de juge », tels qu’assurer des débats équitables, examiner
+la bonne ou mauvaise foi des parties, admettre ou réfuter des faits douteux sur la base de preuves
+valables, respecter le droit d’être entendu et tenir compte des droits fondamentaux d’un
+enfant de trois ans,
+qu’il ressort de l’arrêt rendu par la Chambre des curatelles que le droit d’être
+entendu du requérant a été respecté lors de l’audience du 2 mars 2016,
+ce que le Tribunal fédéral a confirmé dans son arrêt du 7 juillet 2016,
+qu’il s’avère que lors de la reddition des ordonnances de mesures superprovisionnelles
+relatives à l’exercice du droit de visite du requérant, le magistrat intimé a simultanément
+convoqué les parties à une audience, initialement fixée au 14 juin 2016 puis
+reportée au 29 juin 2016, pour statuer sur les requêtes de mesures provisionnelles
+et sur la reprise de l’exercice du droit de visite,
+qu’il ressort du procès-verbal de l’audience du 29 juin 2016 que les parties
+ont été entendues au sujet du déroulement de l’exercice du droit de visite envers
+l’enfant et du comportement de celui-ci, de même que la représentante du SPJ à cet
+égard et le curateur de l’enfant,
+que, selon ce procès-verbal, le juge de paix a informé les parties que la procédure en
+cours serait suspendue jusqu’à droit connu sur le recours pendant au Tribunal fédéral
+et qu’il serait statué sur les diverses requêtes déposées par A.D.________
+ainsi que par P.________, à savoir notamment la question du droit de visite, après déterminations
+des parties suite au recours au Tribunal fédéral et la consultation du dossier de mesure de
+protection de l’adulte ouvert en faveur de A.D.________,
+qu’il résulte de ce procès-verbal que le requérant s’est engagé à
+ne plus tenir de propos agressifs et peu respectueux à l’égard de P.________, de sorte
+qu’il a été entendu à ce sujet,
+que, selon ce procès-verbal, le requérant a adhéré aux propositions faites par le
+juge concernant le dossier, notamment sur l’ordonnance provisionnelle qui a été rendue
+le 5 juillet 2016, ayant d’ailleurs signé le procès-verbal,
+que, par avis du 12 juillet 2016, les écritures du requérant des 11 et 12 juillet
+2016 ont été transmises à P.________ et Me Julie André,
+que, tel que cela ressort du procès-verbal d’audience du 22 juin 2016, le Juge de
+paix, U.________, s’est dessaisie du dossier en protection de l’adulte ouvert à l’égard
+de A.D.________ sous la référence D516.026480,
+qu’au demeurant, dans le courrier du 17 juin 2016, cette dernière avait requis du
+Dr [...] qu’il demande à être délié du secret médical par le médecin
+cantonal en vue de la remise d’un rapport sur la situation de A.D.________,
+que le requérant ne démontre pas, ni ne rend vraisemblable, que le Juge de paix, U.________,
+aurait commis des erreurs particulièrement lourdes ou répétées, susceptibles de constituer
+des violations graves de ses devoirs de magistrat et ainsi réaliser un soupçon de partialité,
+que le requérant n’apporte dès lors aucun élément de nature à démontrer
+que le comportement adopté par le Juge de paix, U.________, au cours de la procédure référencées
+B7/LQ16.006075, serait de nature à fonder un motif de prévention,
+qu’ainsi aucun motif de récusation n’est réalisé ;
+attendu qu’en vertu de l’art. 128 al. 1 CPC, le magistrat bénéficie d’un
+large pouvoir d’appréciation pour prendre les mesures nécessaires à assurer le déroulement
+normal des débats et de la procédure pour autant que le principe de proportionnalité soit
+respecté (Haldy, CPC commenté, 2011, n. 3 ad art. 128 CPC),
+qu’il n’est certes pas toujours aisé de distinguer la critique de propos inconvenants
+ou attentatoires à l’honneur pouvant justifier l’intervention du juge au sens de cette
+disposition (Haldy, op. cit., n. 3 ad art. 128 CPC),
+que, pour démontrer qu’un juge a une idée préconçue dans une affaire déterminée,
+peuvent être prises en compte les déclarations avant ou pendant la procédure qui démontrent
+que le juge a déjà acquis une opinion sur l’issue à donner au litige (Bohnet, CPC
+commenté, 2011, n. 41 ad art. 47 CPC et réf. cit.),
+que selon le Tribunal fédéral, on ne peut empêcher qu’un juge manifeste des signes
+d’impatience en audience (RSPC 2006 p. 121 c. 7.2),
+qu’en outre, des commentaires déplacés ne suffisent pas à justifier un soupçon
+de partialité (ATF 115 Ib 216, JT 1991 IV 157 c. 4 ; cf. S. Wullschleger, in : Sutter-Somm/Hasenböhler/Leuenberger,
+ZPO Komm., n. 33 ad art. 47 CPC),
+que des jugements de valeurs à l’égard d’une partie ne sont problématiques
+que s’ils revêtent une certaine intensité (BK ZPO-Rüetschi, n. 49 ad art. 47
+CPC) ;
+qu’en l’espèce, le requérant s’indigne de la complaisance du Juge de paix,
+H.________, à son égard lorsque, le 22 juillet 2016, celui-ci écrit :
+«
+…,
+ainsi que je vous l’ai indiqué lors de notre audience du 22 juin dernier, votre attitude
+et vos mails incessants vous desservent et ne permettent plus de vous écouter.
+Il
+vous appartient de faire preuve de retenue et de respect si vous souhaitez la réciproque. Ainsi,
+sans que ce courrier n’ait une quelconque portée juridique, je ne peux que vous encourager
+à faire preuve de mesure et à ne plus partager toutes vos pensées avec l’ensemble
+des intervenants dans les procédures qui vous concernent
+»,
+que, contrairement à ce qu’allègue le requérant, l’on ne saurait déduire
+de tels propos qu’il n’aurait pas respecté, jusqu’à ce jour, toutes les décisions
+de justice prises à son égard et à celui de son fils,
+que, selon le procès-verbal d’audience du 22 juin 2016, il ne renie pas les courriels
+qu’il a envoyés et reconnaît que ceux-ci le desservent « peut-être »,
+mais sont « consécutifs d’une souffrance »,
+que, selon les déclarations du requérant à cette audience, le Dr [...] lui a indiqué
+dès la première séance penser qu’il était bipolaire, diagnostic qu’il
+souhaiterait voir reconsidéré,
+que, selon ce procès-verbal, le requérant a indiqué avoir porté plainte contre son
+ex conjointe et contre le juge U.________, afin de faire examiner également ce qu’il estime
+être des incuries de la part de Point Rencontre et du SPJ, et vouloir porter plainte aussi contre
+Me Genillod pour complicité et facilitation d’enlèvement international,
+qu’il est en outre relevé dans le rapport médical du 7 juillet 2016 relatif
+à l’état de santé du requérant qu’« un fonctionnement marqué
+par la méfiance s’installe et une logique procédurière et processive se met en place
+avec une avalanche de plaintes contre des intervenants divers », susceptible de « devenir
+incontrôlable »
+,
+que, selon ce rapport, « il est à craindre qu’au-delà de la dimension de terrain
+de troubles de l’humeur […], une problématique de revendication pathologique soit en
+train de s’installer », pathologie qui « rassemble les éléments habituellement
+rencontrés dans les délires paranoïaques de revendication (quérulents processifs) »,
+qu’il apparaît ainsi que les propos du magistrat intimé ne contiennent pas d’insultes,
+ni de jugement de valeur à son égard, ni d’atteinte à son honneur, mais relèvent
+de la police d’audience au sens de l’art. 128 CPC,
+qu’au vu des déclarations du requérant, du rapport médical et de ses nombreuses
+écritures contenant des propos agressifs à l’égard de P.________, du conseil de
+cette dernière et de tiers intervenants, les propos du magistrat intimé ne paraissent pas disproportionnés,
+qu’en outre, le fait, que le magistrat intimé ait refusé la requête de P.________
+du 22 juillet 2016 tendant à une mesure de protection d’extrême urgence, au
+motif que le dossier ne comportait pas les éléments nécessaires pour prononcer une telle
+mesure en faveur du requérant, démontre son impartialité dans le cadre de la procédure
+référencée D516.026480,
+que, dès lors, les propos tenus par le juge de paix intimé dans son courrier du 26 juillet 2016
+ne suffisent pas à constituer une prévention de sa part à l’égard du requérant
+dans le cadre de la procédure D516.026480,
+qu’ainsi, aucun motif de récusation n’est réalisé ;
+attendu que c'est aux juridictions de recours normalement compétentes qu'il appartient de constater
+et de redresser les erreurs éventuellement commises, le juge de la récusation ne pouvant pas
+examiner la conduite du procès à la façon d'une instance d'appel (TF 5A_749/2015 du 27 novembre
+2015 consid. 4.1 ; ATF 116 Ia 135 consid. 3a), ni d'un organe de surveillance (TF 4A_323/2010 du
+3 août 2010 consid. 2.2),
+qu’ainsi, la Cour de céans n’a pas à se prononcer sur des erreurs de procédure
+prétendument commises dans le cadre d’une procédure relative au droit de déterminer
+le lieu de résidence d’enfants mineurs et d’une procédure en mesure de protection
+de l’adulte, ou sur la manière de mener ces procédures,
+qu’au demeurant, la Cour de céans n’est pas compétente pour statuer sur les griefs
+de fond soulevés par le requérant quant à la prétendue violation de ses droits en
+lien avec le rapport médical précité, l’attitude de P.________ quant aux relations
+de celui-ci avec son fils et l’exercice de son droit de visite, ni pour statuer sur les mesures
+requises et ses demandes d’enquêtes pénales ou de versement d’indemnité mentionnées
+dans ses requêtes de récusation,
+que ces griefs, au sujet desquels il n’apporte aucune preuve ni même aucun indice, sont dès
+lors irrecevables ;
+attendu que, au vu de ce qui précède, les demandes de récusation des Juges de paix U.________
+et H.________, sont manifestement infondées,
+que ces demandes doivent dès lors être rejetées, sans qu’il soit nécessaire
+de recueillir les déterminations des autres parties (TF 5A_194/2010 du 13 septembre 2010 consid.
+2.2 et 2.3) ;
+attendu que le présent arrêt sera rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Les demandes de récusation présentées les 25 juillet et 2 août 2016
+à l’encontre des Juges de paix U.________ et H.________ sont rejetées, dans la mesure
+de leur recevabilité.
+II.
+L’arrêt est rendu sans frais ni dépens.
+III.
+L’arrêt est exécutoire.
+Le
+président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. A.D.________,
+-
+Mme le Juge de paix U.________,
+-
+Mme le Juge de paix H.________,
+-
+Me Matthieu Genillod (pour P.________)
+-
+Me Julie André (pour B.D.________).
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+La greffière :
