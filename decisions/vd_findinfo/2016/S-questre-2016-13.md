@@ -1,0 +1,396 @@
+---
+decision_id: "vd_findinfo_S_questre___2016___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2016 / 13"
+decided: "2016-08-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20160923162928292_e.html"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-097.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-176.md", "switzerland/bund/acts/272/art-193.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-256.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-275.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/291/art-190.md"]
+---
+
+# VD Findinfo Séquestre / 2016 / 13
+
+## Regeste
+
+SÉQUESTRE{LP}, MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, SENTENCE ARBITRALE, CRÉANCE, AYANT DROIT | 271 al. 1 ch. 6 LP, 272 al. 1 ch. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.08.2016 Séquestre / 2016 / 13
+
+SÉQUESTRE{LP}, MAINLEVÉE DÉFINITIVE, TITRE DE MAINLEVÉE, SENTENCE ARBITRALE, CRÉANCE, AYANT DROIT | 271 al. 1 ch. 6 LP, 272 al. 1 ch. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE16.011800-161045
+254
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 août 2016
+__________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 6 et 272 al. 1 ch. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+B.________SAD
+[Sociedade Anonima Desportiva], à [...] (Portugal), contre le prononcé rendu le 25 avril 2016,
+à la suite de l’audience du 22
+avril
+2016, par le Juge de paix du district de Nyon, rejetant l’opposition formée par la recourante
+au séquestre ordonné contre elle le 8 janvier 2016 à la réquisition de
+X.________Ltd
+,
+à [...] (Malte).
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par requête du 7 janvier 2016, invoquant le cas de séquestre prévu l’art. 271
+al. 1 ch. 6 LP (loi sur la poursuite pour dettes et la faillite ; RS 281.1), X.________Ltd a requis
+du Juge de paix du district de Nyon, avec suite de frais et dépens, qu’il ordonne le séquestre,
+au profit de la requérante, de toute créance dont est titulaire B.________SAD contre l’Union
+des Associations Européennes de Football (ci-après : UEFA), à concurrence de
+5'477'180 fr. (contrevaleur de 5'050'000 euros au taux de EUR 1 = CHF 1.08459), avec intérêts
+à 5% l’an dès le 23 août 2014, de 5'422'950 fr. (contrevaleur de  5'000'000
+euros au taux de EUR 1 = CHF 1.08459), avec intérêts à 5% l’an dès le 4 décembre
+2014, de 2'118'500 fr. (contrevaleur de 1'433'596.15 British pounds au taux de « EUR »
+(sic) [recte : GPB] 1 = CHF 1.47775), avec intérêts à 5% l’an dès le 23
+août 2014, et de 40'000 fr., sans intérêt, soit un montant total de 13'058'630 fr., intérêts
+non compris, et qu’il autorise le séquestre sans caution ni sûretés. Elle a produit
+onze pièces sous bordereau, parmi lesquelles, notamment :
+-
+une copie d’une sentence arbitrale du Tribunal arbitral du sport rendue le 21 décembre
+2015 dans deux causes opposant réciproquement les parties ([...] et [...]), condamnant B.________SAD
+à payer à X.________Ltd les montants de 5'050'000 euros, plus intérêts à 5%
+l’an dès le 23 août 2014, 5'000'000 euros, plus intérêts à 5% l’an
+dès le 4 décembre 2014, 1'433'596.15 British pounds, plus intérêts à 5%
+l’an dès le 23 août 2014, ainsi que 40'000 fr. de dépens (ch. 2, 3, 4 et 7
+du dispositif de la sentence) ;
+-
+des extraits internet d’un site de conversion de devises ;
+-
+une copie de la lettre du Tribunal arbitral du sport du 21 décembre 2015, transmettant aux parties,
+par télécopie et par courriel, la sentence arbitrale précitée ;
+-
+un extrait internet du registre du commerce concernant l’UEFA, dont le siège est à Nyon ;
+-
+une copie d’un extrait (pp. 50-51) du règlement de l’UEFA Europa League, cycle 2015-2018,
+saison 2015/16 ;
+-
+deux extraits du site internet de l’UEFA, l’un concernant le système de distribution
+aux clubs participant aux compétitions (Champions League et Europa League) du cycle 2015-2018 [« UEFA
+details club competitions distribution system »], l’autre concernant le résultat
+de matchs joués par B.________SAD durant la saison 2015-2016 (phase de groupes et 32
+èmes
+de finale).
+b)
+Le 8 janvier 2016, retenant le cas de séquestre de l’art. 271 al. 1 ch. 6 LP, le Juge
+de paix du district de Nyon a ordonné le séquestre requis. L’ordonnance mentionne comme
+titre de la créance ou cause de l’obligation : « Sentence arbitrale dans la
+cause [...] et [...] ». Le juge a fixé l’émolument à 2’000 fr. et dispensé
+la créancière de fournir des sûretés.
+2.
+a)
+Par acte du 11 mars 2016, B.________SAD a formé opposition au séquestre en concluant, avec
+suite de frais et dépens, principalement, à ce que la nullité de l’ordonnance de
+séquestre du 8 janvier 2016 soit constatée et les biens séquestrés libérés,
+subsidiairement, à ce que cette ordonnance soit annulée et les biens séquestrés libérés.
+Elle a fait valoir des moyens tirés de l’inexistence de biens appartenant au débiteur,
+en soutenant qu’elle n’était pas créancière de l’UEFA, et de l’absence
+de cas de séquestre, en soutenant que la séquestrante n’était pas au bénéfice
+d’un titre de mainlevée définitive, dès lors que la sentence arbitrale ne revêtait
+pas de caractère exécutoire et qu’au surplus, elle-même avait saisi le Tribunal
+fédéral d’un recours contre cette sentence, assorti d’une demande d’effet
+suspensif. Elle a produit un onglet de huit pièces sous bordereau, parmi lesquelles, notamment :
+-
+une copie de son recours en matière civile contre la sentence arbitrale du Tribunal arbitral du
+sport du 21 décembre 2015, déposé le 22 février 2016 auprès du Tribunal fédéral,
+contenant une requête d’effet suspensif ;
+-
+une copie d’un extrait (table des matières et pp. 1-6 et 21-23) des statuts de l’UEFA,
+édition 2014 ;
+-
+une copie d’un extrait (table des matières et pp. 7-17 et 55-57) du règlement de l’UEFA
+Europa League, cycle 2015-2018, saison 2015/16.
+b)
+Par avis du 15 mars 2016, le juge de paix a cité les parties à comparaître à son
+audience du 22 avril 2016.
+c)
+Le 20 avril 2016, X.________Ltd a déposé des déterminations, concluant à la confirmation
+de l’ordonnance de séquestre et au rejet des conclusions de l’opposante, avec suite
+de frais et dépens. Elle a produit neuf pièces sous bordereau, parmi lesquelles, notamment
+:
+-
+un extrait du site internet de l’ECA (European Club Association), dressant la liste de ses membres
+2015-2016 ;
+-
+des copies d’extraits (pp.15-16, 45 et 52-54) du règlement de l’UEFA Europa League,
+cycle 2015-2018, saison 2015/16 ;
+-
+une copie de sa réponse du 4 avril 2016, avec détermination sur l’effet suspensif, au
+recours en matière civile déposé le 22 février 2016 par B.________SAD auprès
+du Tribunal fédéral ;
+-
+une copie certifiée conforme de la sentence arbitrale du Tribunal arbitral du sport du 21 décembre
+2015.
+d)
+Le juge de paix a tenu audience le 22 avril 2016 en présence, d’une part, d’un représentant
+de l’opposante, assisté du conseil de cette dernière, et, d’autre part, du conseil
+de l’intimée. Ce dernier a produit une pièce complémentaire, soit un extrait du
+site internet de l’ECA dressant la liste de ses membres 2015-2016, avec la désignation détaillée
+des clubs membres portugais, dont l’opposante. Le procès-verbal de l’audience mentionne
+que «  le requérant [réd. : i.e. le représentant de l’opposante]
+est entendu sur les allégués 22 à 25 de son opposition ».
+3.
+Par prononcé du 25 avril 2016, adressé pour notification aux parties le même jour, le
+Juge de paix du district de Nyon a rejeté l’opposition au séquestre (I), confirmé
+l’ordonnance de séquestre du 8 janvier 2016 (II), arrêté à 2’000 fr.
+les frais judiciaires, compensés avec l’avance de frais de la partie requérante - soit
+l’opposante - (III), les a mis à la charge de cette dernière (IV) et a dit qu’elle
+verserait à l’intimée la somme de 6'000 fr. à titre dépens (V).
+Les deux parties ont reçu le prononcé le 26 avril 2016 et chacune en a requis la motivation,
+respectivement, le 4 et le 6 mai 2016. Les motifs leur ont été adressés le 6 juin 2016.
+Elles les ont reçus le lendemain. Sur la question de l’existence du cas de séquestre,
+le premier juge a notamment considéré qu’une sentence rendue en matière d’arbitrage
+international était définitive dès sa communication (art. 190 al. 1 LDIP) et entrait en
+force exécutoire indépendamment de l’existence d’un certificat de force exécutoire,
+qu’en outre, le recours devant le Tribunal fédéral n’avait en général
+pas d’effet suspensif, sauf décision contraire du juge instructeur rendue d’office ou
+sur requête, et qu’en l’espèce, l’opposante ne contestait pas avoir reçu
+la sentence arbitrale et ne produisait aucune décision du Tribunal fédéral octroyant l’effet
+suspensif requis dans son recours de sorte que le caractère exécutoire de la sentence arbitrale
+était suffisamment établi, que cette sentence valait titre de mainlevée définitive
+et que l’existence du cas de séquestre de l’art. 271 al.1 ch. 6 LP était ainsi
+rendue vraisemblable. Sur la question de l’identité des créanciers du paiement par l’UEFA
+des gains obtenus à l’occasion de l’Europa League, le juge de paix a considéré
+qu’il s’agissait bien des clubs participant à cette compétition et non pas de leurs
+fédérations nationales respectives.
+4.
+a)
+Par acte du 17 juin 2016, B.________SAD a formé un recours et a conclu, avec suite de frais et dépens
+des deux instances, à l’annulation du prononcé du 25 avril 2016, à l’annulation
+de l’ordonnance de séquestre du 8 janvier 2016 et à la libération des biens séquestrés.
+b)
+Le
+25 juillet 2016, l’intimée X.________Ltd a déposé une réponse, dans laquelle
+elle a conclu, avec suite de frais et dépens, au rejet du recours.
+En droit
+:
+I.
+Le recours, introduit par acte écrit et motivé
+dans les dix jours suivant la notification de la décision attaquée, a été déposé
+dans les formes requises et en temps utile (art. 321 al. 1, 2 et 3 CPC (Code de procédure civile ;
+RS 272) par renvoi de l'art. 278 al. 3 LP).
+Il
+est recevable.
+La réponse de l’intimée déposée dans le délai de l’art. 322 al.
+2 CPC est également recevable.
+II.
+La recourante se prévaut d’une constatation manifestement inexacte des faits. Elle reproche
+au premier juge de ne pas avoir tenu compte du fait qu’elle n’avait jamais reçu de versement
+de primes de l’UEFA et n’en était pas la créancière. Ces éléments
+auraient été confirmés par son représentant lors de l’audience du 22 avril
+2016. Le procès-verbal établi à cette occasion serait sur ce point lacunaire et contreviendrait
+aux exigences de l’art. 176 CPC, applicable par renvoi de l’art. 193 CPC.
+a)
+L’art. 320 CPC dispose que le recours est recevable pour violation du droit (let. a) et constatation
+manifestement inexacte des faits (let. b). Le grief de la constatation manifestement inexacte des faits,
+comme pour l'art. 97 al. 1 LTF (loi sur le Tribunal fédéral ; RS 173.110), se recoupe
+avec celui de l'arbitraire (art. 9 Cst. [Constitution fédérale ; RS 101]) dans l’appréciation
+des preuves ou dans l’établissement des faits (Jeandin, in Bohnet et al. (éd.),
+Code de procédure civile commenté, n. 5 ad art. 320 CPC ; Corboz et al., Commentaire de
+la LTF, 2
+e
+éd., 2014, nn. 27-29 ad art. 97 LTF). Selon la jurisprudence, l'arbitraire ne résulte
+pas du seul fait que la version retenue par le juge ne coïncide pas avec celle du recourant ou qu'une
+autre solution pourrait entrer en considération ou même qu'elle serait préférable ;
+la décision attaquée ne sera annulée que si elle est manifestement insoutenable, lorsqu’elle
+se trouve en contradiction claire avec la situation de fait, qu’elle repose sur une inadvertance
+manifeste ou un abus du pouvoir d'appréciation, par exemple si l'autorité s'est laissée
+guider par des considérations aberrantes ou a refusé de tenir compte de faits ou de preuves
+manifestement décisifs, lorsqu’elle viole gravement une norme ou un principe juridique indiscuté,
+ou encore lorsqu'elle heurte de manière choquante le sentiment de la justice et de l'équité ;
+il ne suffit pas que la motivation formulée soit insoutenable, il faut encore que la décision
+apparaisse arbitraire dans son résultat (ATF 129 I 8 consid. 2.1 et les références citées).
+Ce grief ne peut toutefois être invoqué que dans la mesure où ladite appréciation
+est susceptible d'avoir une incidence déterminante sur le sort de la cause (Jeandin, op. et loc.
+cit.).
+L’opposition au séquestre est soumise à la procédure sommaire en vertu de l'art.
+251 let. a CPC ; il s’agit d’une procédure sommaire au sens propre, présentant
+les trois caractéristiques de simple vraisemblance des faits, d’examen sommaire du droit et
+de décision provisoire
+(ATF 138 III 636 consid. 4.3.2, SJ 2013 I p. 45). Aux termes de l'art. 254 CPC, la preuve est rapportée
+par titres (al. 1). D'autres moyens de preuve sont admissibles (al. 2) lorsque leur administration ne
+retarde pas sensiblement la procédure (let. a) lorsque le but de la procédure l'exige (let.
+b) ou lorsque le tribunal établit les faits d'office (let. c). En tant que procédure spécifique
+de la LP, la procédure d'opposition au séquestre est toutefois une procédure sur pièces
+(
+Aktenprozess; procedura in
+base agli atti;
+art. 256 al. 1 CPC). En conséquence,
+seule la production de titres, au sens de l'art. 254 al. 1 CPC, doit être admise dans la procédure
+d'opposition au séquestre (ATF 138 III 636 consid. 4.3.2 précité).
+b)
+En l’espèce, la question de savoir si le représentant de la recourante a effectivement
+confirmé, lors de l’audience, que la recourante n’avait jamais reçu de versement
+de primes de la part de l’UEFA et n’en était pas la créancière, tout comme
+celle de savoir si ces propos auraient dû être verbalisés peut rester ouverte. Dans la
+mesure où la production de titres est le seul moyen de preuve admissible dans le cadre d’une
+procédure d’opposition au séquestre, on ne saurait en effet reprocher au premier juge
+de ne pas avoir tenu pour établi un fait résultant de la seule déclaration d’un
+représentant d’une partie à l’audience, une déclaration de partie n’ayant
+de toute façon aucune valeur probante.
+Le grief tiré d’une prétendue constatation manifestement inexacte des faits doit dès
+lors être rejeté.
+III.
+En deuxième instance, la recourante ne reprend qu’un seul des arguments qu’elle a soulevés
+devant le premier juge. En substance, elle soutient n’être titulaire d’aucune créance
+envers l’UEFA, seules les associations nationales, à l’exclusion des clubs, pouvant
+être considérées, aux termes des statuts de l’UEFA et de ses règlements, comme
+créancières des primes de participation à l’Europa League 2015-2016. Elle en conclut
+que l’intimée n’a pas rendu vraisemblable l’existence de biens lui appartenant.
+a)
+Aux termes de l'art. 272 al. 1 ch. 3 LP, le séquestre est autorisé à condition que le
+créancier rende vraisemblable qu'il existe des biens appartenant au débiteur.
+Le séquestre est une mesure conservatoire urgente, d’un caractère éminemment provisoire,
+qui a pour but d'éviter que le débiteur ne dispose de ses biens pour les soustraire à
+la poursuite pendante ou future de son créancier (ATF 116 III 111 consid. 3a ; 107 III 33 consid.
+2). Le juge du séquestre statue en se basant sur la simple vraisemblance des faits. Les faits à
+l'origine du séquestre sont rendus vraisemblables lorsque, se fondant sur des éléments
+objectifs, le juge acquiert l'impression que les faits pertinents se sont produits, mais sans qu'il doive
+exclure pour autant la possibilité qu'ils se soient déroulés autrement (ATF 138 III 232
+consid. 4.1.1 ; en général: cf. ATF 130 III 321 consid. 3.3). De son côté, le poursuivi
+doit s'efforcer de démontrer, en s'appuyant sur les moyens de preuve à sa disposition, que
+son point de vue est plus vraisemblable que celui du créancier séquestrant (TF 5A_482/2010
+du 16 septembre 2010 consid. 2.1 et la réf. cit.). S'agissant de l'application du droit, le juge
+procède à un examen sommaire du bien-fondé juridique, c'est-à-dire un examen qui
+n'est ni définitif, ni complet, au terme duquel il rend une décision provisoire (ATF 138 III
+232 consid. 4.1.1 ; TF 5A_925/2012 du 5 avril 2013 consid. 9.2 et les réf. cit.).
+Seuls des biens patrimoniaux qui pourront par la suite être saisis peuvent faire l'objet d'un séquestre,
+les art. 91 à 109 LP s'appliquant par analogie à l'exécution du séquestre (art. 275
+LP). Les biens séquestrés doivent donc être saisissables au sens des art. 92 ss LP. Tel
+est le cas des créances (art. 95 LP) – qui sont saisies en priorité, même si elles
+sont relativement saisissables au sens de l'article 93 LP – qui présentent une valeur patrimoniale
+(Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite,
+n. 32 ad art. 95 LP ; Stoffel/Chabloz, in Commentaire romand, Poursuite et faillite, 2005, n. 36
+ad art. 271 LP). Le séquestre peut porter sur une créance non encore exigible, voire contestée
+ou soumise à une condition suspensive (de Gottrau, in Commentaire romand, n. 12 ad art. 95 LP ;
+Foëx, in Basler Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs I, 2
+e
+éd., 2010, n. 17 ad art. 95 [SchKG] LP). En revanche, de simples expectatives ne peuvent être
+saisies, pas plus que des créances éventuelles et non déterminables (Stoffel/Chabloz,
+op. cit., nn. 25-26 ad art. 275 LP ; de Gottrau, op. cit., nn. 11 ss ad art. 95 LP). La créance
+doit être désignée avec suffisamment de précision ; un séquestre générique
+est toutefois possible (Stoffel/Chabloz, op. cit., n. 29 ad art. 272 LP).
+b)
+En l’espèce, il n’est pas contesté qu’en vertu de l’art. 5 des statuts
+de l’UEFA, seules les associations nationales peuvent devenir membres de l’UEFA, à l’exclusion
+des clubs.
+Il résulte cependant de l’art. 49 al. 1 des statuts que « des associations et/ou
+des clubs de celles-ci » participent aux compétitions internationales que l’UEFA
+décide d’organiser en Europe. Il s’agit notamment, pour les clubs, de l’UEFA Europa
+League (art. 49 al. 2 let. b des statuts). En application de l’art. 50 al. 1 des statuts, le comité
+exécutif édicte des règlements établissant les conditions de participation et l’organisation
+des compétitions de l’UEFA. Selon l’art. 50 al. 2, les associations et leurs clubs s’engagent
+par leur inscription à respecter les statuts, les règlements et les autres décisions des
+organes compétents. Dans ce cadre, l’UEFA a édicté un « Règlement
+de l’UEFA Europa League, cycle 2015-2018, saison 2015/16 », dont l’art. 1.01 précise
+qu’il régit les droits, tâches et responsabilité de toutes les parties participantes
+et impliquées dans la préparation et l’organisation de l’UEFA Europa League 2015/16
+(phase de qualification et matches de barrage inclus). Il découle de ces différentes dispositions
+que l’inscription de la recourante à l’UEFA Europa League – qui n’est pas
+contestée - a fait naître entre cette dernière et l’UEFA un rapport de droit et
+d’obligations, lequel est régi en particulier par le règlement susmentionné.
+S’agissant des aspects financiers, l’art. 57.03 du règlement prévoit qu’une
+partie des recettes de l’UEFA est distribuée notamment aux clubs éliminés lors des
+tours de qualification, respectivement affectée aux clubs qui participent à l’UEFA Europa
+League à partir de la phase de groupe. L’art. 57.02 précise que les montants exacts que
+l’UEFA verse aux clubs conformément à l’art. 57.03 sont fixés par le Comité
+exécutif avant le début de la compétition. Il résulte enfin de l’art. 56.03
+que, sauf autorisation écrite de l’UEFA, aucun club n’est autorisé à attribuer
+à un tiers les bénéfices de sa participation à la compétition. On comprend donc,
+à la lecture de ces différentes dispositions, que les primes de participation à la compétition
+sont dues aux clubs, qui sont dès lors bien créanciers de l’UEFA.
+Il est vrai que l’art. 56.02 du règlement prévoit que les versements sont effectués
+en euros sur le compte des associations nationales. Cette disposition désigne toutefois expressément
+les versements comme étant « destinés aux clubs ». Elle précise en
+outre qu’il appartient à chaque club de coordonner le transfert des sommes en question depuis
+le compte de l’association sur son propre compte. Cet article se comprend donc comme une simple
+modalité de paiement (cf. art. 70 al. 1 et 84 al.1 CO [Codes des obligations ; RS 220]). Il
+ne remet en revanche nullement en cause la qualité de créanciers des clubs.
+Il s’ensuit que, comme la cour de céans l’a déjà jugé dans plusieurs
+arrêts (CPF, 15 juillet 2015/191 ; CPF, 3 avril 2013/143, notamment), les clubs qui participent
+à l’UEFA Europa League disposent bien de créances contre l’UEFA.
+Le grief de la recourante est donc infondé.
+IV.
+Dans la mesure où la recourante ne soulève pas d’autres moyens contre le prononcé
+du 25 avril 2016, le recours doit être rejeté et la décision attaquée confirmée.
+Les frais de deuxième instance, arrêtés à 3’000 fr., sont mis à la charge
+de la recourante.
+L’intimée, qui obtient gain de cause et qui est assistée d’un avocat, a droit à
+des dépens, qui sont arrêtés, considérant la valeur litigieuse, d’une part,
+et la brièveté de la réponse, d’autre part, à 2’500 fr. (art. 3 et 8
+TDC [tarif des dépens en matière civile ; RSV 270.11.5]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 3'000 fr. (trois mille francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante B.________SAD doit verser à l’intimée X.________Ltd la somme de 2'500 fr.
+(deux mille cinq cents francs) à titre dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mes Daniel Tunik et Téo Genecand, avocats (pour B.________SAD),
+‑
+Me Boris Vittoz, avocat (pour X.________Ltd).
+Il est communiqué, par l’envoi d’une photocopie, à :
+-
+M. le Préposé à l’Office des poursuites du district de Nyon.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 13'058’630 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de Nyon.
+La greffière :
