@@ -1,0 +1,297 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 33"
+decided: "2016-08-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5758998"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-169.md", "switzerland/bund/acts/281.1/art-230.md", "switzerland/bund/acts/281.1/art-262.md", "switzerland/bund/acts/281.1/art-268.md", "switzerland/bund/acts/281.32/art-035.md", "switzerland/bund/acts/281.35/art-001.md", "switzerland/bund/acts/281.35/art-011.md", "switzerland/bund/acts/281.35/art-013.md", "switzerland/bund/acts/281.35/art-044.md", "switzerland/bund/acts/281.35/art-047.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 33
+
+## Regeste
+
+DÉCISION SUR FRAIS, ADMINISTRATION DE LA FAILLITE, PLAINTE{LP} | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 25.08.2016 Plainte / 2016 / 33
+
+DÉCISION SUR FRAIS, ADMINISTRATION DE LA FAILLITE, PLAINTE{LP} | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA16.021059-161229
+29
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+25 août 2016
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+M.
+Colombini et Mme Byrde, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Z.________
+,
+à Signy, contre la décision rendue le
+7
+juillet 2016, à la suite de l’audience du 9 juin 2016, par la Présidente du Tribunal
+d’arrondissement de Lausanne, autorité inférieure de surveillance, rejetant la plainte
+déposée par la recourante contre la décision rendue par l'
+Office
+des faillites de l'arrondissement de Lausanne
+le
+27 avril 2016, dans le cadre de la faillite d'Y.________, à Chavannes-près-Renens.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Par décision du 9 janvier 2015, à la réquisition de Z.________, la Présidente du
+Tribunal d’arrondissement de Lausanne a prononcé la faillite d'Y.________, avec effet au 5
+janvier 2015 à 11h00. La procédure a été suspendue faute d'actif et un délai
+au 7 septembre 2015 a été fixé aux créanciers pour demander la liquidation moyennant
+une avance de frais de 20'000 francs. Aucun créancier n'ayant fait usage de cette possibilité,
+la clôture de la faillite a été prononcée le 5 janvier 2016.
+Par courrier du 27 avril 2016, l'Office des faillites de l'arrondissement de Lausanne a informé
+Z.________ que les frais de dossier de la faillite s'élevaient à 7'853 fr. 20 et l'a invitée,
+en application de l'art. 169 LP, à s'acquitter de ce montant dans un délai de dix jours. A
+ce courrier était annexée une liste détaillant les opérations facturées, faisant
+apparaître un montant de 4'604 fr. 60 au titre d'émolu-ments et débours et un montant
+de 3'411 fr. 20 au titre des "dettes de la masse", soit 8'015 fr. 80 au total, dont l'office
+avait déduit 162 fr. 60 correspondant au disponible en compte, pour arriver à un solde de 7'853
+fr. 20. Le montant de 4'604 fr. 60 correspondait principalement à l'envoi de très nombreux
+avis et courriers et les 3'411 fr. 20 à des frais de publication (d'ouverture et de suspension de
+la faillite) et à des honoraires d'avocat, par 2'754 francs.
+b)
+Le 2 mai 2016, Z.________ a déposé plainte contre cette décision, faisant valoir, en substance,
+que le montant mis à sa charge était disproportionné, en particulier compte tenu du fait
+que l'administration de la masse en faillite n'était qu'au stade de la formation de la masse et
+de la détermination de la procédure, et que la consultation d'un avocat, à ce stade, n'était
+pas justifié.
+L'office des faillites s'est déterminé le 6 juin 2016. S'agissant du montant de 4'604 fr. 60,
+il a expliqué qu'après avoir constaté que la société faillie fonctionnait comme
+entreprise générale de construction pour deux promotions immobilières, il avait dû
+adresser un avis à chacun des septante-cinq copropriétaires connus, dès lors que d'importantes
+créances étaient susceptibles d'être encaissées, ainsi que de nombreuses correspondances
+aux divers artisans et avocats qui étaient intervenus pour le compte des copropriétaires. L'office
+a relevé que le montant de 4'604 fr. 60 avait été établi en application de l'art.
+44 OELP et a précisé que les correspondances, à raison de 8 fr. la page, et les frais
+de ports en recommandé, à raison de 5 fr. 30 par pli, alourdissaient la facture en présence
+d'intervenants très nombreux. En ce qui concernait les honoraires d'avocat, par 2'754 fr., figurant
+sous rubrique "dettes de la masse", l'office a expliqué que l'administration de la masse
+ayant été appelée à participer à la signature d'un acte de vente auprès
+d'un notaire, elle avait décidé de consulter avocat pour connaître les risques liés
+à une telle opération, ainsi que pour prendre les décisions et les mesures nécessaires
+pour conserver la masse active.
+2.
+Par prononcé adressé pour notification aux parties le 7 juillet 2016, la Présidente du
+Tribunal d’arrondissement de Lausanne a rejeté la plainte déposée le 2 mai 2016
+par Z.________.
+Par acte du 18 juillet 2016, Z.________ a recouru contre ce prononcé concluant, avec suite de frais
+et dépens, principalement à sa réforme en ce sens que les frais mis à sa charge par
+l'office sont réduits à concurrence des "opérations nécessaires", et, subsidiairement,
+à son annulation. Elle a requis production, par l'office, de tout le dossier de la faillite d’Y.________.
+Le 8 août 2016, l’Office des faillites de l’arrondissement de Lausanne a conclu au rejet
+du recours, en se référant à ses déterminations du 6 juin 2016.
+Par décision du 22 juillet 2016, la présidente de la cour de céans a admis la requête
+d’effet suspensif contenue dans le recours.
+En droit :
+I.
+a)
+Selon l’art. 17 al.1 LP, la voie de la plainte est ouverte lorsqu’une mesure de l’office
+est contraire à la loi ou ne paraît pas justifiée en fait. La plainte doit être déposée
+dans le délai de dix jours de celui où le plaignant a eu connaissance de la mesure (art. 17
+al. 2 LP). Par mesure au sens de cette disposition, il faut entendre tout acte d’autorité
+accompli par l’office ou un organe de la poursuite en exécution d’une mission officielle
+dans une affaire concrète. L’acte de poursuite doit être de nature à créer,
+modifier ou supprimer une situation de droit de l’exécution forcée dans l’affaire
+en question et il peut se manifester de toutes sortes de façons (ATF 129 III 400 consid. 1.1, JdT
+2004 II 51; ATF 128 III 156 consid. 1c; Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, n. 12 ad art. 17-21 LP). A qualité pour porter plainte
+toute personne lésée ou exposée à l'être dans ses intérêts juridiquement
+protégés, ou tout au moins touchée dans ses intérêts de fait, par la décision
+ou la mesure de l'office (Erard, Commentaire romand, n. 24 ad art. 17 LP).
+En
+l’espèce, la plainte est dirigée contre la décision de l’office des faillites
+du 27 avril 2016 mettant à la charge de Z.________ les frais de la faillite au sens de l'art. 169
+LP, par 7'853 fr. 20. S’agissant d’une mesure au sens de l’art. 17 al. 1 LP, cette
+décision peut faire l’objet d’une plainte. Z.________ a agi en temps utile, le 2 mai
+2016, dans le délai de dix jours de l’art. 17 al. 2 LP. Etant directement touchée par
+cette décision, elle a qualité pour déposer plainte et recourir.
+b)
+Déposé en temps utile (art. 18 al. 1 LP et 28 al. 1 LVLP [loi d'applica-tion dans le canton
+de Vaud de la loi fédérale sur la poursuite pour dettes et la faillite; RSV 280.05]) et comportant
+des conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), le recours
+contre le rejet de la plainte est recevable. Il en va de même des déterminations de l'office
+(art. 31 al. 1 LVLP).
+c)
+La recourante requiert production de tout le dossier de la faillite d’Y.________. Il y a lieu de
+rejeter cette réquisition, les éléments au dossier étant suffisants pour statuer
+sur le recours.
+II.
+a)
+Selon l'art. 169 LP, celui qui requiert la faillite répond des frais jusqu'à et y compris la
+suspension des opérations faute d'actif ou jusqu'à l'appel aux créanciers (al. 1); le
+juge peut exiger qu'il en fasse l'avance (al. 2).
+Lorsque le juge de la faillite n’a pas exigé d’avance de frais du poursuivant qui a
+obtenu l’ouverture de la faillite, l’office a le droit d’exiger le paiement des frais
+des personnes légalement responsables des frais à teneur de l’art. 169 LP (art. 35 al.1
+OAOF [ordonnance du Tribunal fédéral sur l’administration des offices de faillite; RS
+281.32]). La responsabilité pour les frais est engagée jusqu'à et y compris la suspension
+des "opérations" faute d'actif et non pas, comme le retient la décision attaquée,
+jusqu'au jugement prononçant la suspension faute d'actif. Cela signifie que le créancier ayant
+requis la faillite doit continuer à supporter tous les frais jusqu'à et y compris la clôture
+de la faillite faute d'actif, soit jusqu'à l'ordonnance de clôture prévue par l'art. 268
+al. 2 LP (ATF 134 III 136; TF 7B.87/2006 du 21 septembre 2006, consid. 2; Gilliéron, op. cit., n.
+39 ad art. 230 LP), étant précisé que cette ordonnance n'a pas nécessairement à
+être publiée (art. 93, 2
+ème
+phrase, OAOF). Si la liquidation de la faillite est suspendue et que la faillite est close faute d’avance
+des frais de liquidation (art. 230 al. 1 et 2 LP), l’office des faillites doit établir une
+liste des débours et émoluments et, par une décision susceptible de plainte et de recours
+aux autorités de surveillance, les mettre à la charge du ou des poursuivants qui ont obtenu
+l’ouverture de la faillite (Gilliéron, op. cit., n. 19 ad art. 169 LP).
+b)
+Par frais de la faillite au sens de l'art. 169 LP, on entend, de manière générale, les
+émoluments, qui sont perçus en contrepartie d'une certaine activité de l'office, d'autorités
+ou d'organes de l'exécution forcée (art. 1 al. 1 OELP [ordonnance sur les émoluments perçus
+en application de la LP; RS 280.05]), tels que, par exemple, l'émolument de l'art. 11 OELP pour
+les publications et les émoluments des art. 44 à 47 OELP pour les opérations de liquidation
+de la faillite. Les frais de la faillite incluent également les débours, qui recouvrent les
+frais effectivement encourus par l'administration dans le cadre de ses démarches rendues nécessaires
+par l'ouverture de la faillite et les opérations de liquidation. Les débours comprennent notamment,
+selon l'art. 13 al. 1 OELP dont l'énumération n'est pas exhaustive, les taxes de télécommunication,
+les taxes postales, les frais bancaires, les factures émises par les feuilles d'avis officielles
+pour les publications, etc. (ATF 134 III 136 consid. 2.2; Cometta, Commentaire romand, n. 2 ad art. 169
+LP; Jeandin/Casonato, Commentaire romand, n. 3 ss ad art. 262 LP).
+Plus particulièrement, il s’agit des frais perçus en contrepartie des activités
+de l’office liées à la formation de la masse et à la détermination de la procédure
+(art. 221 à 230 LP et 25 à 29 OAOF), soit l’établissement de l’inventaire
+et les opérations tarifées par l’art. 44 OELP, soit les mesures de sûretés,
+l’interrogatoire du failli ou d’autres personnes, l’établissement et l’estimation
+des actifs, la mise au net de l’inventaire et l’éventuel établissement d’une
+liste provisoire des créanciers (Gilliéron, op. cit, n. 19 ad art. 169 LP et n. 5 ad art. 221-270
+LP).
+L’art.
+44 OELP règle l’émolument pour toutes les mesures nécessaires à la formation
+et à la mise en sécurité de tous les actifs ainsi qu’à la clarification précise
+de la situation globale, surtout dans les premières semaines de la procédure de faillite. La
+règlementation de l’art. 44 OELP vise l’établissement et la clarification des actifs
+et des passifs. Des mises au point ultérieures et des ajouts aux listes sont possibles et sont également
+compris dans l’art. 44 OELP (Commentaire LP/OELP, n. 1 ad art. 44 OELP). Les actifs au sens de
+cette disposition ne sont pas uniquement les immeubles et les meubles, mais tous les types d’actifs,
+y compris les créances, participations à des entreprises, présentations en revendication
+et aux droits du même genre. La clarification de tels actifs peut conduire à une charge temporelle
+considérable pour l’administration de la faillite (Commentaire LP/OELP, n. 17 ad art. 44 OELP).
+c)
+La recourante soutient
+que les nombreuses correspondances adressées par l'office aux créanciers et aux artisans n’étaient
+pas justifiées et qu’il n'était pas nécessaire, à ce stade, que l'administration
+de la masse consulte un avocat. Elle fait par ailleurs grief à l'office de ne pas avoir appliqué
+"par analogie" l'art. 47 OELP et de ne pas l'avoir consulté avant de faire appel à
+un mandataire professionnel.
+On constate que l'office des faillites a établi une liste très complète et détaillée
+de chacune des opérations facturées. Il a donné des explications claires et convaincantes
+tant pour ce qui est du montant de 4'604 fr. 60 concernant les émoluments et débours que celui
+de 3'411 fr. 20 correspondant aux "dettes de la masse", en particulier les honoraires de l'avocat
+[...], par 2'754 francs.
+S'agissant des opérations soumises à débours et émolument, tarifées en application
+de l’art. 44 OELP, l'office a dû adresser un avis aux septante-cinq copropriétaires connus
+– dès lors que d’importantes créances étaient susceptibles d’être
+encaissées, même si tous les tiers débiteurs ont finalement contesté le montant qui
+leur était réclamé – ainsi que de nombreuses correspondances aux divers artisans
+et avocats qui étaient intervenus pour le compte des copropriétaires. Il appartenait à
+la recourante d'indiquer quelles correspondances auraient été inutiles ou auraient été
+tarifées de manière non conforme à l’OELP. Or, elle se contente d’alléguer
+que les nombreuses lettres adressées aux artisans n’étaient « à l’évidence »
+pas justifiées, sans s’expliquer plus avant, ni motiver sa contestation par rapport aux explications
+de l’office. Dans la mesure où elle semble considérer que les correspondances avec les
+créanciers auraient été inutiles, il y a lieu de souligner que les contacts avec ces derniers
+en vue de l’établissement d’une éventuelle liste provisoire des créanciers
+font partie des opérations de l’office prévues aux art. 221 à 230 LP. On relèvera
+au demeurant que l’intérêt des créanciers devait être respecté et qu’il
+n’était pas possible d’exiger la clôture immédiate de la faillite.
+S’agissant des « dettes de la masse », la recourante conteste unique-ment les
+honoraires de Me [...], par 2'754 francs. L’office a expliqué à ce propos que l’administration
+de la faillite avait décidé de consulter cet avocat car elle avait été appelée
+à participer à la signature d’un acte de vente auprès d’un notaire et avait
+voulu connaître les risques d’une telle signature, pour, en définitive, refuser de signer
+ledit acte. La consultation d'un avocat avait donc pour but de connaître les risques d'une opération
+pour laquelle elle était sollicitée et de s'assurer qu'elle prenne les bonnes décisions
+ainsi que toutes les mesures nécessaires pour conserver la masse active. L'utilité de cette
+démarche relève de l'appréciation de la complexité de l'affaire, appréciation
+pour laquelle on doit laisser une certaine marge de manœuvre à l'office. Si celui-ci, sollicité
+par un notaire auquel il devait répondre, estimait que les questions posées justifiaient un
+éclaircissement juridique, il était approprié qu'il consulte un avocat avant de prendre
+une décision susceptible d'engager sa responsabilité. On relève que la modicité du
+montant des honoraires de l'avocat consulté démontre que le mandat est resté très
+limité (environ 7 heures de travail à un tarif horaire usuel de 360 fr., plus TVA). Enfin,
+l'argument de la recourante consistant à dire que l'office aurait dû appliquer "par analogie"
+l'art. 47 OELP et la consulter avant de mandater un avocat est sans pertinence. En effet, cette disposition
+– qui concerne la fixation par l'autorité de surveillance de la rémunération d'une
+administration ordinaire ou spéciale dans le cadre de procédures complexes qui requièrent
+des enquêtes particulières – ne fixe pas de procédure à suivre pour mandater
+un tiers, en particulier un avocat. Il n'était de toute manière pas opportun de consulter le
+mandataire du créancier qui avait requis la faillite plutôt qu'un avocat tiers, dès lors
+que l'office devait sauvegarder les intérêts de l'ensemble des créanciers et non du seul
+créancier ayant requis la faillite.
+Au vu de l'ensemble de ces éléments, c'est à juste titre que le premier juge a rejeté
+la plainte déposée par Z.________.
+III.
+Le recours doit donc être rejeté et le prononcé attaqué confirmé.
+Le présent arrêt
+est rendu sans frais judiciaires ni dépens, la procédure de plainte étant gratuite et
+excluant l'allocation de dépens (art. 20 a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP; Erard,
+Commentaire romand, n. 42 ad
+art. 20a LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Thierry Zumbach, agent d'affaires breveté (pour Z.________),
+-
+M. le Préposé à l’Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
