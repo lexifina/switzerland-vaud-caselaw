@@ -1,0 +1,184 @@
+---
+decision_id: "vd_findinfo_Faillite___2016___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2016 / 27"
+decided: "2016-09-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5758889"
+cites_law: ["switzerland/bund/acts/173.110/art-048.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-101.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Faillite / 2016 / 27
+
+## Regeste
+
+PROCÉDURE DE FAILLITE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIF DU RECOURS, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.09.2016 Faillite / 2016 / 27
+
+PROCÉDURE DE FAILLITE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIF DU RECOURS, MOTIVATION DE LA DEMANDE | 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF16.019914-161550
+302
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 septembre 2016
+_______________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+321 al. 1 CPC
+Vu le jugement rendu le 7 juin 2016, adressé pour notification aux parties le lendemain, par lequel
+le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois (ci-après :
+le Président) a prononcé, par défaut des parties, la faillite de
+C.________
+,
+aux [...], le 7 juin 2016, à 11 heures 45, à la réquisition d’
+O.________SA
+,
+à Pully, ordonné la liquidation sommaire de cette faillite et mis les frais, par 200 fr., à
+la charge du failli,
+vu la requête de restitution de délai déposée par C.________ le 24 juin 2016,
+vu l’avis du Président du 28 juin 2016, notifiant la requête de restitution de délai
+à la partie intimée O.________SA, citant les parties à comparaître à son audience
+du 30 août 2016 et impartissant au requérant un délai au 15 août 2016 pour effectuer
+une avance de frais de 400 fr., ainsi que pour produire la quittance de l’office des poursuites
+du paiement intégral de la poursuite en cause,
+vu la décision rendue le même jour par le même magistrat, prononçant l’effet
+suspensif en ce sens que les effets de la faillite sont suspendus jusqu’à droit connu sur
+la demande de restitution de délai,
+vu la lettre du Président adressée le 18 août 2016 au failli, constatant que ce dernier
+n’avait pas donné suite à l’avis du 28 juin 2016, lui impartissant d’office
+un nouveau délai au 25 août 2016 pour s’exécuter et l’avisant expressément
+qu’à défaut de paiement dans ce délai, le tribunal n’entrerait pas en matière
+(art. 101 al. 3 CPC [Code de procédure civile ; RS 272]), la requête serait irrecevable
+et la cause rayée du rôle,
+vu la décision du Président du Tribunal d’arrondissement de La Broye et du Nord vaudois
+du 30 août 2016, notifiée au failli le lendemain, constatant qu’aucune avance n’avait
+été effectuée à l’échéance du délai supplémentaire au 25 août
+2016, disant qu’en conséquence, le tribunal n’entrait pas en matière, la cause
+étant rayée du rôle, sans frais, et que la faillite, compte tenu de l’effet suspensif
+accordé, prenait effet le mardi 30 août 2016, à 9 heures, et indiquant les voies de recours
+contre cette décision (art. 319 ss CPC),
+vu la lettre datée du 6 et adressée le 7 septembre 2016 par C.________ au Président, l’informant
+de son passage à l’Office des poursuites d’Yverdon le 22 juillet 2016 et du règlement
+de « la totalité de la poursuite en question », et ajoutant qu’il était
+conscient que « les frais du Tribunal d’arrondissement » n’étaient
+pas encore payés et qu’ils le seraient dans les meilleurs délais,
+vu la lettre du Président du 8 septembre 2016, demandant au failli si sa lettre du 6 septembre 2016
+devait être interprétée comme un recours contre la décision du 30 août 2016,
+vu la réponse du failli, postée le 13 septembre 2016, disant en substance que sa lettre constituait
+bien un recours contre la décision du 30 août 2016, fondé sur le fait que « [ses]
+poursuites ont été régularisé[es] »,
+vu la transmission du dossier par le Président à la cour de céans, autorité de recours,
+le 13 septembre 2016 ;
+attendu que le recours au sens des art. 319 ss CPC (Code de procédure civile ; RS 272) doit
+être introduit auprès de l'instance de recours par acte écrit et motivé (art. 321
+al. 1 CPC), dans les dix jours à compter de la notification de la décision motivée (art.
+321 al. 2 CPC),
+que le principe selon lequel un délai est réputé observé si le mémoire a été
+adressé à l'autorité précédente, qui vaut pour les recours au Tribunal fédéral
+(art. 48 al. 3 LTF [loi sur le Tribunal fédéral ; RS 173.110]), doit être également
+appliqué dans la procédure de recours régie par le CPC (Tappy, Les voies de droit du nouveau
+Code de procédure civile, in JdT 2010 III 115, spéc. p. 131),
+qu’en l’espèce, le délai de recours dont disposait le failli pour recourir contre
+la décision du 30 août 2016, qu’il avait reçue le 31 août 2016, se terminait
+le 10 septembre 2016, échéance reportée au lundi 12 septembre 2016 (art. 142 al. 3 CPC),
+que la lettre datée du 6 et adressée par le failli au Président le 7 septembre 2016
+a ainsi été déposée en temps utile ;
+attendu que la partie qui entend user d'une voie de droit a la charge de se conformer à certaines
+règles de forme, à défaut de quoi sa démarche sera frappée d'irrecevabilité
+(Jeandin,
+in
+Bohnet/Haldy/Jeandin/Schweizer/Tappy (éd.), Code de procédure civile commenté, Bâle
+2011, n. 1
+ad
+art. 321 CPC),
+qu'en particulier, selon l'art. 321 al. 1 CPC, le recours doit être motivé,
+que si la motivation du recours fait défaut, l’instance de recours n’entre pas en matière,
+que, selon la jurisprudence du Tribunal fédéral, la motivation du recours doit à tout
+le moins satisfaire aux exigences qui sont posées pour un acte d’appel (TF 5A_488/2015 du
+21 août 2015 consid. 3.2.1, publié
+in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation
+de la décision attaquée et que son argumentation doit être suffisamment explicite pour
+que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (ibid.),
+que la motivation du recours doit être entièrement contenue dans le mémoire de recours
+lui-même et ne saurait être complétée ou corrigée ultérieurement (ibid.),
+que ni l’art. 132 al. 1 et 2, ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (ibid.),
+qu’en l’espèce, dans sa lettre du 6 septembre 2016, le recourant n’a formulé
+aucun grief, motif ou moyen de recours reconnaissable contre la décision du Président constatant
+qu’aucune avance de frais n’avait été effectuée dans le délai imparti
+pour ce faire et disant qu’en conséquence, le tribunal n’entrait pas en matière
+sur la requête de restitution de délai,
+qu’en d’autres termes, il ne dit pas en quoi cette décision serait erronée,
+qu’au contraire, il se dit conscient que l’avance de frais n’a toujours pas été
+versée et annonce son paiement dans les meilleurs délais,
+que le moyen tiré du fait qu’il aurait réglé « toutes ses poursuites »,
+invoqué dans sa lettre du 13 septembre 2016, ne peut pas pallier l’absence de motivation
+de sa lettre du 6 septembre 2016, dès lors que ce moyen est soulevé tardivement, dans une lettre
+postée après l’échéance du délai de recours,
+que ce moyen ne vise pas, au demeurant, la décision qui fait l'objet du recours,
+qu’en conclusion, le recours de C.________ doit être déclaré irrecevable ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. C.________,
+‑
+O.________SA,
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de la Broye-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
