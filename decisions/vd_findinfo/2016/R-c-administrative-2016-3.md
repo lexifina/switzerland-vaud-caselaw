@@ -1,0 +1,194 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2016___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2016 / 3"
+decided: "2016-09-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5893626"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2016 / 3
+
+## Regeste
+
+AI{ASSURANCE}, RESTITUTION DE L'EFFET SUSPENSIF, MESURE PROVISIONNELLE, MESURE PRÉPROVISIONNELLE, RÉCUSATION, PROCÉDURE ADMINISTRATIVE | 6 al. 1 let. a ROTC, 11 al. 3 LPA-VD, 9 let. e LPA-VD
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 29.09.2016 Réc-administrative / 2016 / 3
+Vaud Tribunal cantonal Cour administrative 29.09.2016 Réc-administrative / 2016 / 3
+Vaud Tribunal cantonal Cour administrative 29.09.2016 Réc-administrative / 2016 / 3
+
+AI{ASSURANCE}, RESTITUTION DE L'EFFET SUSPENSIF, MESURE PROVISIONNELLE, MESURE PRÉPROVISIONNELLE, RÉCUSATION, PROCÉDURE ADMINISTRATIVE | 6 al. 1 let. a ROTC, 11 al. 3 LPA-VD, 9 let. e LPA-VD
+
+TRIBUNAL
+CANTONAL
+ZD16.038756
+2016/26
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 29 septembre 2016
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              Mme
+Revey et M. Kaltenrieder
+Greffière
+:              Mme
+Egger Rochat
+*****
+Art.
+9 à 12 LPA-VD ; art. 4 al. 1 TFJDA
+Vu le recours déposé auprès de la Cour des assurances sociales du Tribunal cantonal (ci-après :
+la Cour des assurances sociales) le 1
+er
+septembre 2016
+par
+P.________
+contre la décision rendue le 7 juillet 2016 par
+l’Office
+de l’Assurance-Invalidité du Canton de Vaud
+(ci-après:
+l’Office d’Assurance-Invalidité), qui a supprimé sa rente dès le premier jour
+du 2
+ème
+mois
+qui suit la notification de la décision,
+vu la requête de restitution de l’effet suspensif déposée simultanément au
+recours et motivée dans celui-ci,
+vu la lettre du 6 septembre 2016, par laquelle P.________ a insisté sur le caractère urgent
+de la requête de restitution de l’effet suspensif précitée,
+vu la décision du 7 septembre 2016, par laquelle le juge cantonal J.________ a refusé la restitution
+de l’effet suspensif à titre de mesure superprovisionnelle,
+vu la demande de récusation de ce magistrat, présentée par P.________, le 12 septembre
+2016,
+vu la lettre du 13 septembre 2016, par laquelle le juge cantonal J.________ a réfuté tout motif
+de récusation,
+vu les pièces au dossier;
+attendu que le recours déposé par P.________
+le 1
+er
+septembre 2016
+est pendant devant la Cour des assurances sociales,
+que les art. 9 à 12 LPA-VD (loi du 28 octobre 2008 sur la procédure administrative ; RSV
+173.36) sont ainsi applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007 ; RSV 173.31.1), la Cour administrative est compétente pour statuer sur
+la demande de récusation présentée le 12 septembre 2016 à l'encontre de
+J.________,
+qu'en outre, la demande est déposée en temps utile au sens de l'art. 10 al. 2
+LPA-VD ;
+attendu que, selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle pourrait apparaître comme prévenue
+de toute autre manière, notamment en raison d'une amitié étroite ou d'une inimitié
+personnelle avec une partie ou son mandataire (let. e),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 de la
+Constitution fédérale de la Confédération suisse du 18 avril 1999 (RS 101) et 6 §1
+de la Convention du 4 novembre 1950 de sauvegarde des droits de l'homme et des libertés fondamentales
+(RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent influencer
+le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie
+(TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid.
+2.1; ATF 138 I 1 consid. 2.2 et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid.
+2.1),
+que des décisions ou des actes de procédure prétendument viciés, voire arbitraires,
+ne fondent pas en soi une apparence objective de prévention (TF 5A_171/2015 du 20 avril 2015
+consid. 6.1 ; TF 4A_377/2014 du 25 novembre 2014 consid. 6.1 et les références citées),
+qu’en particulier, même lorsqu'elles sont établies, des erreurs de procédure ou
+d'appréciation commises par un juge ne suffisent pas à fonder objectivement un soupçon
+de partialité, seules des erreurs particulièrement lourdes ou répétées, constitutives
+de violations graves des devoirs du magistrat, pouvant justifier une suspicion de partialité, pour
+autant que les circonstances corroborent à tout le moins objectivement l'apparence de prévention
+(TF 5A_749/2015 du 27 novembre 2015 consid. 4.1 ; ATF 138 IV 142 consid. 2.3 et les références
+citées),
+qu’en l’espèce, la requérante demande la récusation du juge intimé au
+motif qu’il aurait rendu la décision du 7 septembre 2016 sans avoir pris connaissance
+de l’argumentation, susceptible de justifier la restitution de l’effet suspensif, contenue
+dans l’acte de recours,
+qu’il ressort de la décision précitée que le juge intimé a interprété
+le courrier du 6 septembre 2016 de la requérante, en ce sens que la restitution de l’effet
+suspensif devait être traitée comme une mesure d’extrême urgence,
+que, selon cette décision, il a rejeté la requête de restitution de l’effet suspensif
+à titre superprovisionnel, après avoir examiné sommairement le recours et les pièces
+produites à son appui, ceci conformément aux art. 86, 87 et 99 LPA-VD,
+que, pour rendre cette décision, il a tenu compte de la jurisprudence rendue par le Tribunal fédéral
+à ce sujet,
+que le juge intimé a d’ailleurs précisé que la requête de restitution de l’effet
+suspensif, à titre de mesure provisoire, ferait l’objet d’un examen et d’une décision
+à réception du dossier de l’intimée,
+que la requérante ne démontre pas, ni ne rend vraisemblable, que le juge intimé aurait
+commis des erreurs particulièrement lourdes ou répétées, susceptibles de constituer
+des violations graves de ses devoirs de magistrat et ainsi réaliser un soupçon de partialité,
+que la requérante n’apporte dès lors aucun élément de nature à démontrer
+que le comportement adopté par celui-ci, au cours de la procédure de recours, serait de nature
+à fonder un motif de prévention,
+qu’ainsi aucun motif de récusation n’est réalisé ;
+attendu que c'est aux juridictions de recours normalement compétentes qu'il appartient de constater
+et de redresser les erreurs éventuellement commises, le juge de la récusation ne pouvant pas
+examiner la conduite du procès à la façon d'une instance d'appel (TF 5A_749/2015 du 27 novembre
+2015 consid. 4.1 ; ATF 116 Ia 135 consid. 3a), ni d'un organe de surveillance (TF 4A_323/2010 du
+3 août 2010 consid. 2.2),
+qu’ainsi la Cour de céans n’a pas à se prononcer sur un éventuel défaut
+de motivation de la décision du 7 septembre 2016 et, partant, une éventuelle violation
+du droit d’être entendue de la requérante, ni sur l’interprétation par le
+juge intimé de la jurisprudence concernant la restitution de l’effet suspensif,
+que ces griefs sont dès lors irrecevables ;
+attendu que, au vu de ce qui précède, la demande de récusation du juge cantonal J.________
+est manifestement infondée,
+que cette demande doit dès lors être rejetée, sans qu’il soit nécessaire de
+recueillir les déterminations de la partie adverse (TF 5A_194/2010 du 13 septembre 2010
+consid. 2.2 et 2.3) ;
+attendu que les frais du présent arrêt, par 500 fr., seront mis à la charge de la requérante
+P.________ (art. 4 al. 1 TFJDA [tarif des frais judiciaires et des dépens en matière administrative
+du 28 avril 2015 ; RSV 173.36.5.1]).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 12 septembre 2016 à l’encontre
+du juge cantonal J.________ est rejetée, dans la mesure de sa recevabilité.
+II.
+Les frais du présent arrêt, par 500 fr. (cinq cents francs), sont mis à la charge de P.________.
+III.
+Il n'est pas alloué de dépens.
+IV.
+Le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- Me Flore Primault (pour P.________),
+- M. le Juge cantonal J.________, et
+et communiqué par l'envoi de photocopies à :
+- l’Office d’Assurance-Invalidité pour le canton de Vaud.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
