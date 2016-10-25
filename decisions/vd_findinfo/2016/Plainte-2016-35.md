@@ -1,0 +1,138 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___35"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 35"
+decided: "2016-10-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5807394"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 35
+
+## Regeste
+
+PLAINTE{LP}, MOTIVATION DE LA DEMANDE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 28 al. 3 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 25.10.2016 Plainte / 2016 / 35
+
+PLAINTE{LP}, MOTIVATION DE LA DEMANDE, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 28 al. 3 LVLP
+
+TRIBUNAL
+CANTONAL
+FA16.039338-161818
+35
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+25 octobre 2016
+____________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+28 al. 3 LVLP
+Vu la décision rendue le 7 octobre 2016, à la suite de l’audience du 4 octobre 2016,
+par le Président du Tribunal d’arrondissement de l’Est vaudois, statuant en qualité
+d'autorité inférieure de surveillance, notifiée au plaignant le 11 octobre 2016,
+rejetant, dans la mesure où elle était recevable, la plainte formée par
+R.________
+,
+à [...], contre l’avis de saisie délivré le 29 août 2016 par l’
+Office
+des poursuites du district de la Riviera-Pays-d'Enhaut
+,
+à Vevey, dans la cause opposant le recourant à
+Caisse-maladie
+V.________
+, à [...],
+vu le recours interjeté le 14 octobre 2016 contre cette décision par R.________,
+vu les pièces du dossier ;
+attendu que le délai pour recourir contre la décision de l'autorité inférieure de
+surveillance est de dix jours (art. 18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]),
+que le recours déposé le 14 octobre 2011 contre la décision notifiée au plaignant
+le 11 octobre 2016 a ainsi été formé en temps utile ;
+attendu que l'art. 28 al. 3 LVLP, selon une jurisprudence constante, impose aux parties de motiver leur
+recours, soit d'indiquer leurs moyens, faute de quoi le recours est irrecevable (CPF, 23 novembre 2011/43 ;
+CPF, 27 mai 2011/17; CPF, 8 mai 2009/19; CPF, 19 avril 2006/7; CPF, 23 décembre 2003/66 et les arrêts
+cités),
+que le prononcé notifié aux parties comportait l'indication de la voie du recours de l'art.
+18 al. 1 LP et mentionnait que "l'acte de recours doit préciser les points sur lesquels une
+modification du prononcé est demandée et indiquer brièvement les moyens invoqués",
+que la jurisprudence du Tribunal fédéral en matière de recours selon les art. 319 ss CPC
+(Code de procédure civile du 19 décembre 2008 ; RS 272) exige que le recourant démontre
+le caractère erroné de la motivation de la décision attaquée et que son argumentation
+soit suffisamment explicite pour que l’instance de recours puisse la comprendre, ce qui suppose
+une désignation précise des passages de la décision qu’il attaque et des pièces
+du dossier sur lesquelles il fonde sa critique (TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, Revue
+suisse de procédure civile [RSPC] 2015, p. 512),
+qu’un vice dans la motivation n’est pas réparable (ATF 126 III 30, JdT 2000 II 11),
+qu’en l’espèce, le recourant reprend en recours l’argumentation développée
+devant le premier juge, sans indiquer les passages de la décision qu’il attaque,
+que son recours est donc insuffisamment motivé au sens de l’art. 28 al 3 LVLP et de la jurisprudence
+du Tribunal fédéral, applicable par analogie, et, partant irrecevable ;
+attendu qu’au demeurant, à supposer recevable, le recours aurait dû être rejeté,
+qu’en effet, la caisse-maladie intimée pouvait elle-même lever l’opposition formée
+par le recourant au commandement de payer qui lui avait été notifié le 8 mai 2016 (ATF
+128 III 246 consid. 2 ; ATF 119 V 329 consid. 2b ; TF 5A_547/2015 du 4 juillet 2016 consid.
+2.1, destiné à la publication),
+qu’il appartenait au recourant de faire valoir ses arguments relatifs à l’inexistence
+de la dette en cause en faisant opposition auprès de la caisse intimée contre la décision
+de cette dernière du 10 juin 2016, conformément à l’indication des voies de droit
+figurant dans cette décision,
+que ne l’ayant pas fait, il ne peut plus remettre en question cette décision dans le cadre
+d’une plainte LP contre l’avis de saisie,
+que c’est ainsi à juste titre que le premier juge a considéré que la contestation
+du recourant n’entrait pas dans sa compétence ;
+attendu que le présent arrêt peut être rendu sans frais (art. 20a al. 2 ch. 5 LP, 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. R.________,
+‑
+Caisse-maladie V.________,
+‑
+M. le Préposé à l'Office des poursuites du district de la Riviera-Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
