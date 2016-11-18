@@ -1,0 +1,503 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 37"
+decided: "2016-11-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5825614"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-034.md", "switzerland/bund/acts/281.1/art-035.md", "switzerland/bund/acts/281.1/art-066.md", "switzerland/bund/acts/281.1/art-232.md", "switzerland/bund/acts/281.1/art-260.md", "switzerland/bund/acts/281.32/art-048.md", "switzerland/bund/acts/281.32/art-049.md", "switzerland/bund/acts/281.32/art-050.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 37
+
+## Regeste
+
+CESSION DES DROITS DE LA MASSE, PÉREMPTION, OBSERVATION DU DÉLAI, RESTITUTION DU DÉLAI, FORMALISME EXCESSIF, DOMICILE À L'ÉTRANGER, COMMUNICATION | 29 al. 1 Cst., 232 al. 1 LP, 232 al. 2 ch. 6 LP, 260 LP, 33 al. 2 LP, 33 al. 4 LP, 34 LP, 48 OAOF, 49 OAOF
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.11.2016 Plainte / 2016 / 37
+
+CESSION DES DROITS DE LA MASSE, PÉREMPTION, OBSERVATION DU DÉLAI, RESTITUTION DU DÉLAI, FORMALISME EXCESSIF, DOMICILE À L'ÉTRANGER, COMMUNICATION | 29 al. 1 Cst., 232 al. 1 LP, 232 al. 2 ch. 6 LP, 260 LP, 33 al. 2 LP, 33 al. 4 LP, 34 LP, 48 OAOF, 49 OAOF
+
+TRIBUNAL
+CANTONAL
+FA16.028688-161639
+36
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 novembre 2016
+______________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+29 al. 1 Cst.; 33 al. 2 et 4, 34, 232 al. 1 et 2 ch. 6 et 260 LP ; 48 et 49 OAOF
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+S._________
+,
+à [...] (Syrie), contre la décision rendue le 12 septembre 2016, à la suite de l’audience
+du 18 août 2016, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée le 23 juin 2016 par le recourant
+contre l’
+Office
+des faillites de l'arrondissement de Lausanne
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+La faillite de la société D.____& Cie a été prononcée le 1
+er
+décembre 2011, pour être liquidée en la forme sommaire. Le 1
+er
+juin 2012, l’Office des faillites de l’arrondissement de Lausanne (ci-après : l’Office)
+a fait publier dans la Feuille officielle suisse du commerce (FOSC) l’annonce de déclaration
+de faillite et d’appel aux créanciers, le délai de production étant fixé au
+2 juillet 2012. Sous la rubrique « Faillites », en introduction aux annonces publiées
+par les différents cantons, figurait un avis d’informations générales contenant
+notamment le passage suivant : « Les notifications destinées aux intéressés
+demeurant à l’étranger leur seront adressées à l’office, tant qu’ils
+n’auront pas élu un autre domicile de notification en Suisse ».
+b)
+S.________, domicilié à [...], en Syrie, est un créancier colloqué de la faillie
+D.________& Cie. Le 8 mai 2015, l’Office a écrit à Me [...], avocate à Genève
+et précédent conseil de S.________, pour réclamer le règlement de l’émolument
+de prolongation s’élevant à 163 fr. 30 dans un délai au 22 mai 2015. Le 11
+mai 2015, Me [...] a répondu qu’elle n’était plus constituée pour la défense
+des intérêts de S.________, à qui elle remerciait l’Office d’adresser désormais
+toute correspondance directement en Syrie, tout en précisant qu’elle transmettait à l’intéressé
+une copie du courrier de l’Office afin qu’il y donne suite. Le 12 mai 2015, l’Office
+a adressé à S.________, en Syrie, en courrier recommandé, une lettre dont la teneur est
+notamment la suivante :
+« (…)
+Me
+[...] nous a informés ne plus s’occuper de la défense de vos intérêts par courriers
+des 10 mars 2015 et 11 mai 2015.
+Dès
+lors nous vous invitons à nous faire parvenir le montant de CHF 163.30 dans un délai échéant
+le 1
+er
+juin 2015 sur notre compte no IBAN CH(…) auprès de la Banque cantonale vaudoise à Lausanne.
+Par
+ailleurs, nous vous conseillons de vous désigner un représentant professionnel en Suisse (agent
+d’affaires breveté ou avocat par exemple), faute de quoi les communications qui vous sont
+destinées ne vous seront pas envoyées. Elles resteront déposées au bureau de l’office
+tant que vous n’aurez pas élu un domicile de notification en Suisse (art. 232 LP).
+(…)»
+Le 28 mai 2015, S.________ a reçu de l’étude de Me [...] un courriel dont le contenu
+n’a pas été produit, auquel il a répondu par un courriel du 24 juin 2015, indiquant
+que son frère avait transféré de son compte sur celui de Me [...] un montant de 400 fr.
+et que l’avocate pouvait utiliser ces fonds pour payer les 160 fr. de « frais de justice »
+(
+court fee
+)
+et régler son solde (
+to
+settle your balance
+). Me [...] a accusé réception
+de ces instructions le 25 juin 2015 et a viré le montant de 163 fr. 30 sur le compte de l’Office
+le 29 juin 2015.
+c)
+Par
+circulaire du 3 mai 2016, destinée notamment à S.________ et notifiée à l’Office,
+l’administration de la faillite de D.________& Cie a indiqué avoir porté à l’inventaire,
+à la requête de divers créanciers, les nouveaux droits suivants :
+•
+inventaire n° 21 : les droits que la société faillie possède contre A.________ en
+relation avec les versements effectués en faveur du compte détenu par celui-ci auprès
+de la Banque [...] à Tel-Aviv, Israël, à partir du compte ouvert auprès d’UBS
+SA, à savoir USD 1’128’000, le 31 janvier 2007, et EUR 830'000, le 27 avril 2007 ;
+•
+inventaire n° 22 : les droits que la société faillie possède contre F.________SA
+s’agissant d’une créance de CHF 649'262.47 due au 31 décembre 2006 selon informations
+de la fiduciaire [...] Sàrl.
+L’administration de la faillite a indiqué ne pas pouvoir engager de procédure elle-même,
+eu égard aux frais et à l’issue incertaine des procès éventuels, a proposé
+de renoncer à agir et d’offrir la cession des droits de la masse en vertu de l’art.
+260 LP et a imparti aux créanciers un délai péremptoire au 24 mai 2016 pour se prononcer
+sur cette proposition et, le cas échéant, demander la cession des droits de la masse.
+Par lettre envoyée le même jour en courrier recommandé à son adresse en Syrie, l’Office
+a signalé à S.________ avoir du courrier déposé le concernant, relatif à la
+cession des nouveaux droits portés à l’inventaire. Il lui a par ailleurs conseillé
+de désigner un représentant professionnel en Suisse ou de communiquer à l’Office
+une adresse en Suisse faisant élection de domicile, faute de quoi les communications qui lui seraient
+destinées ne lui seraient pas envoyées et resteraient déposées au bureau de l’Office
+en application de l’art. 232 LP. Il n’est pas contesté que S.________ a reçu cette
+lettre le 25 mai 2016.
+Par lettre du 6 juin 2016, Me Julien Blanc a informé l’Office qu’il avait été
+consulté par S.________ et que ce dernier demandait notamment la cession des droits de la masse
+inventoriés sous n
+os
+21 et 22.
+d)
+Par décision du 10 juin 2016, l’Office
+a rejeté la demande de cession des droits de la masse au motif qu’elle était tardive.
+e)
+Par acte du 23 juin 2016, S.________ a déposé une plainte contre la décision de l’Office,
+accompagnée d’une demande d’effet suspensif, auprès du Tribunal d’arrondissement
+de Lausanne. Il a conclu, principalement, à la cession des droits de la masse contre A.________
+et F.________SA inventoriés sous n
+os
+21 et 22 dans le cadre de la faillite de D.________& Cie, subsidiairement, à l’octroi
+d’un délai supplémentaire pour requérir la cession de ces droits. Il a produit,
+outre une procuration en faveur de son conseil, la décision attaquée, la lettre de l’Office
+à son adresse en Syrie du 3 mai 2016 et la lettre de son conseil à l’Office du 6 juin
+2016.
+Le 24 juin 2016, la Présidente du Tribunal d’arrondissement de Lausanne (ci-après :
+la Présidente) a prononcé l’effet suspensif requis jusqu’à droit connu sur
+la plainte.
+L’Office a déposé des déterminations le 30 juin 2016, concluant au rejet de la plainte.
+Il a produit, outre les pièces déjà versées au dossier avec la plainte, la circulaire
+du 3 mai 2016 destinée notamment au plaignant et notifiée à l’Office ainsi que la
+lettre de Me [...] du 11 mai 2015.
+f)
+La Présidente a tenu audience le 18 août 2016 en présence du conseil du plaignant et de
+deux représentants de l’Office. A cette occasion, le conseil du plaignant a conclu, subsidiairement,
+à la restitution du délai pour requérir la cession des droits de la masse inventoriés
+sous n
+os
+21 et 22. L’Office a conclu au rejet de cette conclusion, pour tardiveté.
+2.
+Par prononcé rendu le 12 septembre 2016, la Présidente du Tribunal d’arrondissement de
+Lausanne, en sa qualité d’autorité inférieure de surveillance, a rejeté la
+plainte déposée le 23 juin 2016 par S.________ (I) et rendu la décision sans frais ni
+dépens (II). En bref, elle a suivi l’argumentation de l’Office, considéré
+que la lettre de ce dernier du 3 mai 2016 avait été envoyée à l’adresse du
+plaignant en Syrie à bien plaire et qu’il appartenait au plaignant de mandater un représentant
+en Suisse afin de défendre ses intérêts dans les délais impartis, le délai échéant
+le 24
+mai 2016 étant
+péremptoire.
+Ce prononcé a été notifié au plaignant le 13 septembre 2016.
+3.
+Par acte du 23 septembre 2016, S.________ a recouru contre le prononcé de l’autorité
+inférieure de surveillance, concluant à son annulation et à ce que le bénéfice
+de la cession des droits de la masse portés à l’inventaire de la faillite de D.________&
+Cie sous n
+os
+21 et 22 lui soit accordé.
+Le 29 septembre 2016, l’Office a confirmé l’ensemble de la détermination produite
+le 30 juin 2016 devant l’autorité inférieure de surveillance.
+Le 25 octobre 2016, la cour de céans, autorité cantonale supérieure de surveillance, a
+ordonné, comme mesure d’instruction, la production par l’Office d’une copie du
+courrier qu’il avait adressé au plaignant le 12 mai 2015, avec son accusé de réception,
+et de l’appel aux créanciers au sens de l’art. 232 LP publié dans la FOSC.
+Le 31 octobre 2016, l’Office a produit une copie du courrier du 12 mai 2015 et de ses annexes (sa
+lettre du 8 mai 2015 à Me [...] et la réponse de celle-ci du 11 mai 2015), une copie d’un
+extrait de son compte au 30 juin 2015 montrant le crédit du montant de 163 fr. 30 viré par
+Me [...], une copie de son annonce dans la FOSC du 1
+er
+juin 2012 et un avis d’ouverture de la faillite de D.________& Cie, « adressé
+aux créanciers selon liste provisoire » le 24 mai 2012.
+Invité par avis de la cour de céans du 4 novembre 2016 à se déterminer au sujet de
+ces pièces dans un délai de sept jours dès réception, s’il le souhaitait, le
+recourant, par courrier du 14 novembre 2016, a produit l’échange de courriels qu’il
+avait eu les 24 et 25 juin 2015 avec Me [...] et une traduction libre de ces courriels rédigés
+en anglais. Sur ces pièces apparaît en outre le début d’un courriel envoyé
+le 28 mai 2015 par l’étude de Me [...] au recourant. Ce dernier a indiqué n’avoir
+jamais reçu le courrier du 12 mai 2015 ni aucun autre document de l’Office en 2015, et avoir
+payé la somme de 160 fr. à son ancienne avocate à la demande de celle-ci, qui avait ensuite
+payé les frais demandés par l’Office.
+En droit :
+I.
+a)
+Déposé en temps utile (art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes
+et la faillite ; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de la LP ; RSV 280.05])
+et comportant des conclusions et l'énoncé de moyens (art. 28 al. 3 LVLP), le recours est recevable.
+b)
+Il en va de même des déterminations de l’Office (art. 31 al. 1 LVLP).
+c)
+Les déterminations produites par le recourant dans le délai qui lui avait été imparti
+pour ce faire, sur des pièces dont la production par l’Office avait été ordonnée
+par la cour de céans, sont recevables.
+II.
+L’Office soutient en substance que le recourant, domicilié à l’étranger, a
+été informé par courrier du 12 mai 2015 de la nécessité de désigner un
+représentant professionnel en Suisse, faute de quoi les communications qui lui étaient destinées
+ne lui seraient pas envoyées, mais uniquement déposées au bureau de l’office conformément
+à ce que prévoit l’art. 232 al. 2 ch. 6 LP, que le recourant n’a pas désigné
+de domicile de notification en Suisse, que la circulaire du 3 mai 2016 fixant un délai péremptoire
+au 24 mai 2016 pour demander la cession des droits, conformément à ce que prévoit l’art.
+48 OAOF (ordonnance sur l’administration des offices de faillites ; RS 281.32), lui a dès
+lors été valablement notifiée à l’office, que le fait que le recourant ait
+été, à titre exceptionnel, informé du dépôt de cette circulaire par une
+lettre envoyée à son adresse en Syrie n’y change rien, que la requête de cession
+des droits de la masse formulée le 6 juin 2016 était donc tardive et que seule la voie de la
+restitution de délai aurait pu être envisagée.
+L’autorité inférieure a fait sienne l’argumentation de l’Office. Elle a par
+ailleurs relevé que la voie de la restitution de délai, au sens de l’art. 33 al. 4 LP,
+était effectivement ouverte au plaignant, mais que celui-ci ne s’en était pas servi.
+Le recourant soutient quant à lui en substance que la fixation d’un délai péremptoire
+pour requérir la cession ne se justifiait pas en application de l’art. 48 OAOF, lequel ne
+serait pas applicable en l’espèce, que la lettre qui lui a été adressée le
+3 mai 2016 ne contenait qu’une simple mise en garde et ne mentionnait pas le délai imparti
+dans la circulaire adressée aux autres créanciers, qu’il n’a de toute manière
+reçu ce courrier qu’après l’échéance fixée au 24 mai 2016 de sorte
+qu’il lui était impossible d’agir à temps, qu’en tout état de cause,
+l’Office aurait dû lui accorder un délai plus long, en application de l’art. 33
+al. 2 LP, dans la mesure où il est domicilié en Syrie, soit dans un pays en guerre et sur un
+autre continent, et que de manière générale, le refus de l’Office de lui accorder
+la cession des droits de la masse relève du formalisme excessif.
+a) aa)
+Aux termes de l'art. 260 LP, si l'ensemble des créanciers renonce à faire valoir une prétention,
+chacun d'eux peut en demander la cession à la masse (al. 1). Le produit, déduction faite des
+frais, sert à couvrir les créances des cessionnaires dans l'ordre de leur rang et l'excédent
+est versé à la masse (al. 2).
+Le créancier a le droit d'exiger la cession si les conditions en sont remplies. Il faut donc, objectivement,
+que l'inventaire ait été dressé et l'état de collocation déposé, que les
+créanciers aient renoncé à faire valoir la créance dont la cession a été
+offerte et que la faillite n'ait pas été révoquée ou suspendue ; subjectivement,
+il faut que le requérant ait qualité pour devenir cessionnaire, c'est-à-dire qu'il soit
+créancier colloqué et qu'il requière la cession (TF 5A_ 324/2015 du 21 août
+2015 consid. 4.2.1.2 et les réf. citées ; SJ 2016 I 13 ; BlSchK 2016 Heft 4 p. 152).
+La procédure d’autorisation comporte une communication de l’administration assignant
+aux créanciers un délai de déchéance pour requérir l’autorisation de faire
+valoir en lieu et place de la masse un droit patrimonial inventorié du failli ou de la masse (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 45
+ad
+260 LP).
+Ainsi, dans la liquidation ordinaire, les créanciers
+qui entendent obtenir la cession doivent, sous peine de péremption, la demander au plus tard dans
+les dix jours suivant la seconde assemblée des créanciers (art. 48 al. 1 OAOF), sauf circonstances
+spéciales justifiant le dépôt des demandes avant ladite assemblée (art. 48 al. 2
+OAOF ; ATF 134 III 75 consid. 2.2). En cas de liquidation sommaire, le même délai est
+imparti aux créanciers dans les cas importants, cette communication leur étant faite en même
+temps que celle du dépôt de l'état de collocation (art. 49 OAOF ; ATF 134 III 75
+consid. 2.2 et la réf. cit.).
+En
+cas de revendication tardive (et, par analogie, de production tardive), une telle communication peut
+avoir lieu par publication officielle ou par circulaire (art. 50 OAOF) ; en procédure
+sommaire, elle intervient en principe en même temps que le dépôt de l'état de collocation
+ou de l'état de collocation rectifié (TF 7B.94/2003 du 24 juin 2003 consid. 4.2). Le délai
+imparti pour requérir l’autorisation d’ester en justice est un délai pour agir,
+prolongeable et restituable (art. 33 al. 2 et 4 LP), dont l’observation est réglée
+par l’article 32 LP (Gilliéron,
+op. cit.
+,
+n. 48
+ad
+260
+LP).
+Selon l’art. 33 al. 2 LP, il est possible d'accorder un délai plus long ou de prolonger un
+délai lorsqu'une partie à la procédure habite à l'étranger ou qu'elle est assignée
+par publication. La loi ne prévoit ainsi que deux cas de prolongation de délai (Gilliéron,
+op. cit.
+,
+n. 19
+ad
+art.
+33 LP). L'autorité ne doit – et ne peut – accorder un délai plus long ou prolonger
+un délai légal ou fixé par elle que si les conditions légales sont réalisées,
+car une autorité de poursuite, un organe de l'exécution forcée, une autorité de surveillance,
+une autorité judiciaire ne peut accorder un délai plus long ou prolonger un délai que
+dans les cas fixés par la loi (
+ibidem
+,
+n. 18
+ad
+art.
+33 LP et les réf. cit.). La demande de prolongation du délai doit être formée avant
+l’expiration du délai et doit être sommairement motivé (Erard, Commentaire romand,
+n. 8
+ad
+33
+LP). Le créancier domicilié à l’étranger qui a été informé qu’en
+vertu de l’art. 232 al. 2 ch. 6 LP, les notifications le concernant seront adressées à
+l’office tant qu’il n’aura pas élu un autre domicile de notification en Suisse,
+ne peut prétendre à l’octroi de délais plus long en application de l’art.
+33 al. 2 LP (Nordmann, Basler Kommentar, n. 4
+ad
+art. 33 SchKG [LP]).
+Selon l'art. 33 al. 4 LP, quiconque a été empêché sans sa faute d'agir dans le délai
+fixé peut demander à l'autorité de surveillance ou à l'autorité judiciaire compétente
+qu'elle lui restitue ce délai. L'intéressé doit, à compter de la fin de l'empêchement,
+déposer une requête motivée dans un délai égal au délai échu et accomplir
+auprès de l'autorité compétente l'acte juridique omis. Il faut entendre par empêchement
+non fautif, non seulement l'impossibilité objective d'agir dans le délai ou de se faire représenter
+à cette fin, mais aussi l'impossibilité subjective due à des circonstances personnelles
+ou à une erreur excusable (TF 5A_149/2013 du 10 juin 2013 consid. 5.1.1 ;
+TF 5A_896/2012 du 10 janvier 2013 consid. 3.2
+et les réf. cit. ; TF 5A_30/2010 du 23 mars 2010 consid. 4.1 ; TF 2C_319/2009 du 26 janvier
+2010 consid. 4.1, non publié
+in
+ATF
+136 II 241). En d'autres termes, est non fautive toute circonstance qui aurait empêché un plaideur
+consciencieux d'agir dans le délai fixé (TF 2C_734/2012 du 25 mars 2013 consid. 3.3 et les
+réf. cit.).
+De
+manière générale, constituent un empêchement non fautif une incapacité passagère
+de discernement, un accident, une maladie subite et grave, le service militaire, un renseignement erroné
+donné par l'autorité (Erard,
+op.
+cit.
+, n. 22
+ad
+art. 33 LP ; ATF 119 II 86 consid. 2a ; CPF, 24 juin 2015/158).
+bb)
+Conformément à l’art. 232 al. 1 LP, l’office publie l’ouverture de la faillite,
+dès qu’il a été décidé si la liquidation a lieu en la forme ordinaire
+ou sommaire. La publication contient notamment l’avis que les notifications destinées aux
+intéressés demeurant à l’étranger leur seront adressées à l’office,
+tant qu’ils n’auront pas élu un autre domicile de notification en Suisse (art. 232 al.
+2 ch. 6 LP). Le législateur a utilisé à tort le substantif « notifications » ;
+il s’agit de « communications » dans le sens de l’art. 34 LP (Gilliéron,
+op. cit.
+,
+n. 20
+ad
+art. 232 LP). Entrent notamment en ligne de compte une circulaire de l’administration de la faillite
+soumettant une proposition aux intervenants pour provoquer une décision de leur part (ibid.).
+Les publications sont insérées dans la Feuille officielle suisse du commerce et dans la feuille
+cantonale. L’insertion dans la Feuille officielle suisse du commerce fait règle pour la supputation
+des délais et pour les conséquences de la publication (art. 35 al. 1 LP).
+En vertu de l’art. 34 LP, les communications, les mesures et les décisions des offices et
+des autorités de surveillance sont notifiées par lettre recommandée ou d’une autre
+manière contre reçu, à moins que la loi n’en dispose autrement. Lorsque le destinataire
+d’une communication écrite demeure à l’étranger, l’art. 66 al. 3 LP
+- qui stipule que lorsque le débiteur demeure à l’étranger, il est procédé
+à la notification par l’intermédiaire des autorités de sa résidence, la notification
+pouvant aussi avoir lieu par la poste si un traité le prévoit ou si l’État sur le
+territoire duquel la notification doit être faite y consent - s’applique par analogie (Nordmann,
+op. cit.
+,
+n. 9
+ad
+art.
+34 LP ; Erard,
+op. cit.
+,
+n. 11
+ad
+art.
+34 LP). L’art. 34 LP est une prescription d’ordre, dont la violation n’entraîne
+pas l’invalidité de la communication. Il appartient toutefois à l’autorité
+de prouver que la communication est parvenue en mains du destinataire, faute de quoi la communication
+ne sera pas considérée comme accomplie (Nordmann,
+op.
+cit.
+, n. 7
+ad
+art. 34 LP et les réf. cit.; Erard,
+op. cit., n. 2
+ad
+art.
+34 LP et les réf. cit.).
+cc)
+Le
+formalisme excessif est un aspect particulier du déni de justice prohibé par l'art. 29 al.
+1 Cst. (Constitution fédérale ; RS 101). Il est réalisé lorsque la stricte application
+des règles de procédure ne se justifie par aucun intérêt digne de protection, devient
+une fin en soi, complique de manière insoutenable la réalisation du droit matériel ou
+entrave de manière inadmissible l'accès aux tribunaux (ATF 135 I 6 consid. 2.1 ; 132 I
+249 consid. 5 ; 130 V 177 consid. 5.4.1 ; 128 II 139 consid. 2a). De manière générale,
+la sanction du non-respect d'un délai de procédure n'est pas constitutive d'un formalisme excessif,
+une stricte application des règles relatives aux délais étant justifiée par des motifs
+d'égalité de traitement et par un intérêt public lié à une bonne administration
+de la justice et à la sécurité du droit (TF 9C_923/2009 du 10 mai 2010 consid. 4.1.1
+in
+fine
+et les réf. cit.).
+b) aa)
+En
+l’espèce, le recourant conteste avoir reçu la lettre de l’Office du 12 mai 2015,
+ou toute autre communication de l’Office en 2015, d’ailleurs. Force est de constater que
+la preuve de la réception de cette lettre n’a pas été apportée. Le fait que
+le recourant ait versé l’émolument de prolongation de 163 fr. 30 ne constitue pas un
+indice déterminant de la réception de cette lettre, dans la mesure où il apparaît
+plus vraisemblable que le recourant ait été informé de l’existence et du montant
+de l’émolument à régler par son (ancienne) avocate, Me [...], qui lui aura transmis
+le contenu de la lettre de l’Office du 8 mai 2015 et qui s’est encore chargée du virement
+à l’Office après avoir reçu de l’argent de la part de son (ancien) client.
+En revanche, il est établi que l’Office a fait publier l’annonce de l’ouverture
+de la faillite de D.________& Cie et de l’appel aux créanciers, le 1
+er
+juin 2012, dans la FOSC, sous la rubrique « faillites » qui regroupe les annonces
+émanant de tous les cantons et contient, en introduction à ces annonces, notamment l’avis
+prescrit par l’art. 232 al. 2 ch. 6 LP, selon lequel : « Les notifications destinées
+aux intéressés demeurant à l’étranger leur seront adressées à l’office,
+tant qu’ils n’auront pas élu un autre domicile de notification en Suisse ».
+On peut considérer que le recourant a ainsi été valablement informé de la nécessité
+de se constituer un domicile de notification en Suisse. Il a d’ailleurs eu un représentant
+en Suisse, en tout cas jusqu’au mois de mars 2015, en la personne de Me [...], avocate à Genève.
+Dès le moment où celle-ci n’était plus constituée pour la défense de ses
+intérêts, il appartenait au recourant de mandater un nouveau conseil en Suisse ou, à tout
+le moins, d’élire un domicile de notification en Suisse. On peut considérer qu’en
+ne le faisant pas, il a accepté que les actes le concernant lui soient valablement notifiés
+à l’Office en application de l’art. 232 al. 2 ch. 6 LP. La circulaire du 3 mai 2016
+ainsi que le délai péremptoire fixé au 24 mai 2016 pour requérir la cession des droits
+de la masse lui ont ainsi été valablement communiqués. La lettre d’information qui
+lui a été adressée le même jour par l’Office n’a quant à elle pas
+eu pour effet de prolonger le délai imparti. En outre, ayant été informé que les
+notifications le concernant seraient adressées à l’Office tant qu’il n’aurait
+pas élu un autre domicile de notification en Suisse, le recourant ne pouvait prétendre à
+l’octroi de délais plus long en application de l’art. 33 al. 2 LP. Il s’ensuit
+que, comme l’ont constaté l’Office et l’autorité inférieure, la demande
+de cession des droits de la masse formulée le 6 juin 2016 était tardive.
+bb)
+Contrairement à ce qu’a retenu le premier juge, le recourant a expressément requis la
+restitution du délai imparti, par dictée au procès-verbal de l’audience du 18 août
+2016. La demande de restitution devant toutefois être formulée auprès de l’autorité
+de surveillance dans un délai identique à celui omis, soit en l’occurrence dans un délai
+de dix jours (art. 48 et 49 OAOF), dès la fin de l’empêchement, intervenue en l’espèce
+au plus tard le 6 juin 2016, date à laquelle le recourant a requis la cession des droits de la masse,
+on doit considérer que la requête formulée le 18 août 2016, soit plus de deux mois
+après la fin de l’empêchement, était manifestement tardive.
+cc)
+La sanction du non-respect des délais n’étant de manière générale pas
+constitutive d’un formalisme excessif, il n’y a pas lieu de voir dans la décision de
+l’Office refusant au recourant la cession des droits de la masse l’expression d’un
+déni de justice prohibé par l’art. 29 al. 1 Cst.
+III.
+Vu ce qui précède, le recours doit être rejeté et le prononcé confirmé.
+Le présent arrêt doit être rendu sans frais ni dépens (art. 20a al. 2 ch. 5
+LP ; 61 al. 2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application
+de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Julien Blanc, avocat (pour S.________),
+-
+M. le Préposé à l’Office des faillites de l’arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
