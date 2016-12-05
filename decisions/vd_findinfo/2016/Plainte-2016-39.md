@@ -1,0 +1,152 @@
+---
+decision_id: "vd_findinfo_Plainte___2016___39"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2016 / 39"
+decided: "2016-12-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5912434"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-034.md"]
+---
+
+# VD Findinfo Plainte / 2016 / 39
+
+## Regeste
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, OBSERVATION DU DÉLAI, DÉLAI DE RECOURS, FICTION DE LA NOTIFICATION, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP, 18 LP, 34 al. 1 LP, 34 LP, 28 al. 3 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.12.2016 Plainte / 2016 / 39
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, OBSERVATION DU DÉLAI, DÉLAI DE RECOURS, FICTION DE LA NOTIFICATION, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP, 18 LP, 34 al. 1 LP, 34 LP, 28 al. 3 LVLP
+
+TRIBUNAL
+CANTONAL
+FA16.029571-162038
+37
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 décembre 2016
+_____________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+18 al. 1, 34 al. 1 LP ; 28 al. 3 LVLP
+Vu le prononcé rendu le 18 octobre 2016, à la suite de l’audience du 23 août
+2016, par le Président du Tribunal d’arrondissement de l’Est vaudois, statuant en tant
+qu’autorité inférieure de surveillance en matière de poursuites pour dettes et faillites,
+rejetant la requête de restitution de délai déposée le 28 juin 2016 par
+F.________
+,
+à [...], dans le cadre de la poursuite n° 7'876'382 de l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut exercée par
+I.________
+SA
+, à [...], et rendant le prononcé
+sans frais,
+vu le pli ayant contenu ce prononcé adressé à F.________ retourné par la poste avec
+la mention « non réclamé »,
+vu l’extrait Track-and-Trace attestant que le pli contenant le prononcé susmentionné
+adressé à F.________ avait été reçu à l’office de retrait le 19 octobre
+2016,
+vu l’envoi du prononcé à F.________ par courrier A du 7 novembre 2016, indiquant que
+cet envoi ne faisait pas courir un nouveau délai de recours,
+vu l’écriture de F.________ datée du 10 novembre 2016 et déposée au greffe
+du tribunal d’arrondissement le 17 novembre 2016,
+vu le courrier daté du 27 novembre 2016 et remis au greffe du tribunal d’arrondissement le
+lendemain, par lequel F.________ confirme, sur demande du président, que son écriture du 10
+novembre 2016 pouvait être considérée comme un recours,
+vu les pièces du dossier ;
+attendu que selon l’art. 18 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite ; RS 281.1), toute décision de l’autorité inférieure
+peut être déférée à l’autorité cantonale supérieure de surveillance
+dans les dix jours à compter de la notification,
+que l’art. 34 al. 1 LP précise que les décisions des autorités de surveillance sont
+notifiées par lettre recommandée ou d’une autre manière contre reçu, à
+moins que la loi n’en dispose autrement,
+que la jurisprudence considère qu’en cas d’absence de retrait dans le délai de
+garde postal d’un envoi recommandé, le pli est réputé notifié le dernier jour
+du délai de garde postal, pour autant que le destinataire dût s’attendre avec une certaine
+vraisemblance à cette communication (ATF 130 III 396 consid. 1.2.3, JdT 2005 II 87, et les réf.
+citées ; ATF 123 III 492 consid. 1 et références, JdT 1999 II 109 ; CPF 8 avril
+2016/15 consid. Vb ; CPF 5 novembre 2014/53 consid. IIa),
+que tel est le cas lorsque le destinataire est partie à une procédure ayant cours (ATF 130
+III 396 précité),
+attendu qu’en l’espèce, le recourant avait requis une restitution de délai,
+qu’il a assisté à l’audience du 23 août 2016,
+qu’il devait ainsi s’attendre à recevoir le prononcé en cause,
+que le pli contenant le prononcé est donc réputé avoir été notifié à
+l’échéance du délai de garde postal le 26 octobre 2016,
+que le délai de recours, arrivé à échéance le samedi 5 novembre 2016, a été
+reporté au lundi 7 novembre 2016 en application de l’art. 142 al. 3 CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272), applicable par renvoi de l’art. 31 LP,
+que l’envoi sous pli simple du prononcé le 7 novembre 2016 n’a pas fait partir un nouveau
+délai de recours, ce que ce courrier mentionne expressément,
+que le recours, déposé le 17 novembre 2016, est ainsi tardif,
+qu’au vu du caractère manifeste de la tardiveté, il n’est pas nécessaire de
+l’interpeller sur ce point (TF 5A_28/2015 du 22 mai 2015 consid. 3.1.1 et les références
+citées) ;
+attendu qu’à supposer déposé à temps, le recours devrait être déclaré
+irrecevable pour un second motif,
+qu’en effet, l'art. 28 al. 3 LVLP (loi du 18 mai 1955 d’application dans le canton de Vaud
+de la LP ; RSV 280.05), selon une jurisprudence constante, impose aux parties de motiver leur recours,
+soit d'indiquer leurs moyens, faute de quoi le recours est irrecevable (CPF, 23 novembre 2011/43 ;
+CPF, 27 mai 2011/17; CPF, 8 mai 2009/19; CPF, 19 avril 2006/7; CPF, 23 décembre 2003/66 et les arrêts
+cités),
+qu’en l’espèce, le recourant expose dans son recours le litige qui le divise avec l’intimée,
+mais ne formule aucun grief au sujet du refus de restitution du délai, objet de la procédure
+de première instance,
+que le recours est donc irrecevable, faute de motivation conforme à l’art. 28 al. 3 LVLP,
+ce vice n’étant pas réparable (ATF 126 III 30, JdT 2000 II 11) ;
+attendu qu’en conclusion, le recours est irrecevable,
+que le présent arrêt doit être rendu sans frais (art. 20a al. 2 ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. F.________,
+‑
+I.________ SA,
+‑
+M. le Préposé à l'Office des poursuites du district de la Riviera-Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
