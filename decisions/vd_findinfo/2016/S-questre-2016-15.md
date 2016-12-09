@@ -1,0 +1,755 @@
+---
+decision_id: "vd_findinfo_S_questre___2016___15"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2016 / 15"
+decided: "2016-12-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20170120151452740_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-160.md", "switzerland/bund/acts/220/art-163.md", "switzerland/bund/acts/220/art-340.md", "switzerland/bund/acts/220/art-340a.md", "switzerland/bund/acts/220/art-340b.md", "switzerland/bund/acts/241/art-004.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-320.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-082.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/823.11/art-002.md"]
+---
+
+# VD Findinfo Séquestre / 2016 / 15
+
+## Regeste
+
+SÉQUESTRE{LP}, ORDONNANCE DE SÉQUESTRE, CONTRAT DE TRAVAIL, PROHIBITION DE CONCURRENCE, NOUVEAU MOYEN DE PREUVE, RECONNAISSANCE DE DETTE | 340 al. 2 CO, 340a al. 1 CO, 271 al. 1 ch. 4 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des curatelles 09.12.2016 Séquestre / 2016 / 15
+
+SÉQUESTRE{LP}, ORDONNANCE DE SÉQUESTRE, CONTRAT DE TRAVAIL, PROHIBITION DE CONCURRENCE, NOUVEAU MOYEN DE PREUVE, RECONNAISSANCE DE DETTE | 340 al. 2 CO, 340a al. 1 CO, 271 al. 1 ch. 4 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE16.028872-161745
+374
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+9 décembre 2016
+_____________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+Mme
+Byrde et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+271 al. 1 ch. 4, 278 al. 3 LP ; 340 al. 2, 340a al. 1 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+E.________
+SA
+, à [...], contre le prononcé rendu
+le 8 août 2016, à la suite de l’audience du même jour, par la Juge de paix
+du district de l’Ouest lausannois, dans la cause opposant la recourante à
+J.________
+,
+à [...] (France).
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 7 juin 2016, se fondant sur l'art. 271 al. 1 ch. 4 LP (loi sur la poursuite pour dettes et la faillite
+du 11 avril 1889; RS 281.1), E.________ SA, à [...], a requis du Juge de paix du district de l’Ouest
+lausannois, avec suite de frais et dépens, qu'il ordonne contre J.________, à [...] (France),
+le séquestre de la quotité saisissable de son salaire, en mains de son employeur S.________
+SA, à [...], à concurrence d’un montant de 28'132 fr. 50 (I), sans la fourniture de sûretés
+(II). A l'appui de sa requête, elle a produit les pièces suivantes :
+-
+un extrait du Registre du commerce relatif à la requérante du 6 juin 2016, ayant pour but social
+la « conception, réalisation, supervision et entretien de réseaux informatique ; conception
+et réalisation de logiciels ; commerce de logiciels et de matériel informatique ; formation,
+conseil et délégation de personnel informatique » ; C.________ en est administrateur président
+;
+-
+un contrat de travail conclu le 29 octobre 2010 entre la requérante, en qualité d’employeur,
+d'une part, et J.________, en qualité d’employé, d'autre part, conclu pour une durée
+indéterminée, prévoyant que celui-ci est engagé comme « technicien système
+avec statut d’employé » à un taux de 100 % moyennant un salaire annuel brut de 60'000
+francs (soit 5'000 fr. brut servis douze fois), son lieu de travail principal étant [...] ; ce contrat
+contient, sous chiffre 22, une clause d’interdiction de concurrence qui a la teneur suivante :
+«
+L’employé s’engage, à l’issue des rapports de travail, à ne concurrencer
+d’aucune manière l’entreprise pendant 1 année dans un rayon de (100) km autour
+de son poste de travail. Relèvent notamment de l’interdiction de faire concurrence les clients
+actuels de l’entreprise. Il s’engage notamment à n’exploiter, ni pour lui-même
+ni pour le compte de tiers, aucune affaire qui se trouverait en concurrence avec l’entreprise ou
+dont les buts correspondraient à ceux de l’entreprise, d’y exercer une activité
+quelconque ou de prendre part directement ou indirectement dans une telle entreprise.
+Pour chaque infraction à cette interdiction de concurrence, l’employé doit à l’entreprise
+une amende conventionnelle d’un montant de 5 fois le salaire mensuel brut (y compris le revenu
+variable et d’éventuelles bonifications particulières) comme cela existe lors de l’expiration
+des rapports de travail. Le versement de l’amende conventionnelle ne libère pas l’employé
+de son obligation de continuer à respecter l’interdiction de faire concurrence. Lorsque le
+dommage causé dépasse l’amende conventionnelle, la préservation de l’ensemble
+du dommage reste réservée.
+L’entreprise est autorisée, outre la fourniture de l’amende conventionnelle et au remplacement
+du dommage complémentaire, à exiger la suppression immédiate de l’objet s’opposant
+au contrat (exécution réelle). »
+-
+un lot de douze factures adressées par la requérante à O.________ pour le support technique
+fourni par J.________ seul, du 1
+er
+janvier
+au 31 juillet, pour des montants mensuels compris entre 14'288 fr. et 19’673 fr. 28, puis par ce
+dernier et MM. M.________ et P.________ en août 2013, pour 18'912 fr. 96, puis encore par J.________
+et P.________ durant la fin de l’année 2013 pour des montants mensuels compris entre 32'344
+fr. 92 et 38'636 fr. 46 ;
+-
+un courrier du 21 novembre 2013 à son employeur par lequel J.________ déclare résilier
+son contrat de travail pour le 31 janvier 2014, « ayant une opportunité de travailler dans
+une entreprise avec un salaire plus intéressant » ;
+-
+un extrait du Registre de commerce du 6 juin 2016 concernant S.________ SA, à [...], inscrite le
+16 janvier 2014, ayant notamment pour but l’assistance et le conseil en matière informatique,
+et dont l’administrateur unique est X.________ ;
+-
+un contrat de travail conclu le 10 décembre 2013 entre A.________ SA (sic), sur papier à en-tête
+de S.________ SA et avec le timbre humide de cette même société, à [...], en qualité
+d’employeur, d'une part, et J.________, en qualité d’employé, d'autre part, conclu
+pour une durée indéterminée, prévoyant que celui-ci est engagé comme «
+technicien système avec statut d’employé » à un taux de 100 % moyennant un
+salaire brut mensuel de 6'000 fr., et de 6'500 fr. dès le 1er août 2014, son lieu de travail
+principal étant [...] ;
+-
+des fiches de salaire de février 2014 à avril 2015, qui correspondent à ce contrat ;
+-
+un « profil » de J.________ établi par la requérante, dont il ressort les compétences
+professionnelles suivantes :
+«
+Systèmes
+d’exploitation côté serveurs
+:
+Microsoft Windows 2000, NT
+- Administration, gestion
+des utilisateurs et des ressources partagées, sauvegardes restauration TSM, etc.
+- Maintenance, dépannage
+et résolution de problèmes
+Formations spécifiques :
+- Formation Active Directory
+- Formation Microsoft
+Windows XP
+. Microsoft Windows 2000
+pro et serveurs
+Systèmes d’exploitation
+côté clients
+:
+Microsoft Windows 8, seven, XP, 2000, NT, 98, 95
+- Installation, configuration,
+maintenance
+- Dépannage, résolution
+de problèmes
+Réseaux
+:
+- Connaissance et gestion
+des réseaux TCP/IP
+- Réseaux physiques :
+Hubs, switch, baies de brassage
+Bureautique
+:
+Installation, configuration, utilisation et support utilisateurs
+- Microsoft Office 2010
+- Microsoft Access 2000
+- Lotus Notes 6.5, Outlook
+2010
+- SAP, BAAN (ERP)
+Logiciels d’administration
+:
+- Intel LANDesk (prise
+de main à distance)
+- Networker (gestion de
+sauvegardes) TSM Tivoli
+- Hyena (administration)
+- SCCM » ;
+-
+un profil de J.________ établi par S.________ SA dont il ressort que sa fonction est celle de technicien ;
+-
+le profil Linkedin de J.________, qui mentionne que, pour son ancien et son nouvel employeur, il est
+« Support technique boutique [...] » pour les activités identiques suivantes :
+« Support
+Service Desk niveau 1
+- remote assistance
+- ticketing Service Now
+- réception téléphonique
+- rédaction modes opératoires
+- contact avec différents fournisseurs pour le retour matériel en panne
+Support Service Desk niveau 2
+- déplacement sur le site [...]
+- installation configuration génération dépannage postes clients, smartphone, PC, Laptop
+moniteurs, printers.
+- Support soft, installation et dépannage.
+- Patchs réseaux, installation provider internet, installation switchs. »
+-
+une lettre du 14 mars 2014 adressée par le conseil de la requérante à J.________, déclarant
+que celle-ci avait appris son récent engagement par S.________ SA, une concurrente directe, et que
+dès lors l’amende conventionnelle d’un montant correspondant à cinq salaires bruts
+prévue à l’art. 22 du contrat qui les avait liés était exigible ; le conseil
+proposait la tenue d’un rendez-vous, à défaut de quoi il agirait par toutes voies utiles
+;
+-
+une plainte pénale déposée par la requérante auprès du Procureur général
+du canton de Genève contre X.________, pour gestion déloyale, abus de confiance, faux dans
+les titres et concurrence déloyale (art. 23 en relation avec l’art. 4 let. a LCD) ; la requérante
+y fait valoir que X.________ a été son employé jusqu’en 2005, a rempli postérieurement
+pour elle des mandats à titre de consultant, puis au courant de l’année 2013 a nourri
+le projet de créer une société concurrente à même de débaucher certains
+de ses clients, dont en particulier O.________ ; il a informé la requérante qu’O.________
+souhaitait que J.________, qui était détaché auprès d’O.________, soit remplacé
+par un autre technicien, en la personne de P.________ ; la requérante aurait alors demandé
+à X.________ d’enquêter au sujet des raisons de cette demande, ce que ce dernier n’aurait
+pas fait, ayant déjà l’intention d’embaucher J.________ au sein de la société
+qu’il créerait, et qu’il a créée en janvier 2014, juste avant que J.________
+commence à travailler pour elle, le 1
+er
+février 2014; s’agissant de l’infraction à la LCD, la requérante fait reproche
+à X.________ d’avoir incité J.________ à enfreindre l’obligation de non-concurrence
+contenue dans son contrat pour l’engager au sein de S.________ SA ; elle dit que cette incitation
+est d’autant plus grave que l’intéressé était détaché auprès
+de l’O.________ lorsqu’il l’a informée de sa démission et qu’il a poursuivi
+ses activités pour O.________ postérieurement à son engagement par S.________ SA ; elle
+relève en conclusion le rôle manifeste joué par le débauchage de J.________ par X.________
+dans la perte de son client O.________, qui mandate désormais S.________ SA ;
+-
+un procès-verbal d’audition en qualité de témoin de J.________, du 7 avril
+2016, par le Ministère public de Lausanne, qui contient ce qui suit (ll. 30 ss) :
+«
+J’étais technicien informatique auprès de O.________. J’ai commencé le 1er
+décembre 2010. J’ai terminé le 31 janvier 2014 avec E.________ SA. Après j’ai
+été embauché par M. X.________ auprès de S.________ SA. J’ai été
+détaché de (recte : à) O.________. J’occupe toujours cette fonction actuellement.
+(...) J’ai reçu une meilleure proposition de salaire de S.________ SA. (…) En effet,
+je n’étais pas sûr de rester auprès d’E.________ SA. Je ne sais plus pourquoi.
+Vous me demandez d’être plus précis. Je ne sais pas. (...) M. X.________ m’a simplement
+demandé si je voulais travailler avec lui. Je ne suis pas au courant des tractations entre l’O.________
+et M. X.________. Pour moi, c’est simplement un changement d’employeur. Pour vous répondre,
+M. X.________ a voulu créer S.________ SA car il n’était plus bien chez E.________ SA.
+(…) C’était (ndr : P.________) mon ancien collègue de travail auprès d’E.________
+SA. Il a été détaché à l’O.________. Je ne me rappelle pas les dates exactes.
+Selon mon souvenir, il n’y était plus quand j’ai quitté E.________ SA. Pour vous
+répondre, je ne sais pas s’il y a eu des discussions entre O.________ et E.________ SA sur
+la question de savoir si P.________ ou moi aurait pu être détaché auprès de l’O.________.
+(…) S’agissant de la proposition de P.________, il devait rester à l’aéroport
+et moi je devais partir ailleurs. La proposition a été inversée par M. C.________. Je
+suis resté auprès de l’O.________ (…) ».
+-
+une lettre sur papier à en-tête de S.________ SA à J.________, signée par X.________
+en tant qu’administrateur et datée du 20 novembre 2014, dans laquelle il le remercie d’avoir
+fait le choix de poursuivre son activité auprès de A.________ SA (sic), dont il est le premier
+collaborateur ; l’auteur de ce courrier précise ce qui suit :
+«
+concernant ton départ de chez E.________ SA et ton engagement auprès de la société
+A.________ SA, je te confirme que si E.________ SA porte plainte à ton encontre au sujet de l’article
+22 de ton contrat de travail – Interdiction de faire concurrence – la société A.________
+SA (sic) prendra en charge les frais d’avocat et les éventuelles amendes associées. »
+-
+une série de factures mensuelles de S.________ SA à la Division informatique de O.________
+pour « Support technique du (…) au (…)J.________ », pour des montants mensuels,
+TVA comprise, compris entre 17'107 fr. 20 et 13'996 fr. 80, couvrant la période de février
+2014 à février 2015.
+b)
+Le 10 juin 2016, le juge de paix a imparti à la requérante un délai au 17 juin 2016 pour
+effectuer une avance de frais de 360 francs.
+c)
+Le
+17 juin 2016, le juge de paix a rendu une ordonnance prononçant le séquestre à concurrence
+de 28'132 fr. 50, en faveur d’E.________ SA, de « la quotité saisissable du salaire versé
+par S.________ SA à M. J.________ », le créancier étant dispensé de verser des
+sûretés. Cette ordonnance mentionnait, sous titre et date de la créance et cause de l’obligation
+: « Violation de l’interdiction de faire concurrence figurant dans le contrat de travail du
+29 octobre 2010 » et comme cas de séquestre celui de l’art. 271 al. 1 ch. 4 LP. Cette
+ordonnance a été notifiée à la requérante et communiquée à l’office
+des poursuites le même jour.
+2.
+Par acte du 24 juin 2016, J.________, non assisté,
+a déclaré former opposition au séquestre, précisant avoir eu connaissance de l’ordonnance
+mais pas de son contenu par l’office le 20 juin 2016. A l'appui de son opposition, il a produit
+deux pièces, dont une lettre du 1
+er
+avril 2014 du conseil de X.________ et de S.________ SA au conseil d’E.________ SA, aux termes
+de laquelle il déclare que ses clients contestent devoir quoi que ce soit ; cette lettre invoque,
+entre autres arguments, le fait que compte tenu des services offerts par la requérante, celle-ci
+devrait être au bénéfice d’une autorisation conformément à l’art.
+2 de la loi sur le service de l’emploi (LSE) ; elle contient le passage suivant :
+«
+Votre cliente accuse également mes clients d’actes de concurrence déloyale et de comportement
+contraire à la bonne foi en se fondant sur le fait que O.________ a aujourd’hui recours aux
+services de S.________ SA. Vous semblez notamment ignorer que Monsieur C.________ a indiqué à
+mon client, peu avant son départ d’E.________ SA, qu’il ne souhaitait plus collaborer
+avec O.________. Les accusations de votre cliente sont donc aussi incohérentes qu’infondées.
+En effet, le fait que O.________ ait décidé d’avoir recours aux services de S.________
+SA ne serait pas non plus constitutif d’un acte de concurrence déloyale même si E.________
+SA souhaitait poursuivre sa collaboration avec cet organisme. »
+Le 20 juillet 2016, le conseil de J.________ a produit la même pièce, et a sollicité la
+production par E.________ SA de deux pièces, à savoir tout document en relation avec l’art.
+2 LSE, et tout document démontrant les diverses interventions de son client durant sa période
+de collaboration pour E.________ SA. Le 25 juillet 2016, le juge de paix a donné suite à ces
+réquisitions de production de pièces. Le conseil d’E.________ SA a répondu que la
+première pièce n’existait pas et, pour la seconde, s’est contenté de renvoyer
+aux pièces déjà produites relatives au « profil » de l’employé.
+Lors de l’audience du 8 août 2016, J.________ a confirmé ses conclusions tendant à
+l’admission de son opposition au séquestre, et complété celles-ci en ce sens que,
+subsidiairement, il a requis la fourniture de sûretés. Entendu en qualité de partie, il
+a déclaré avoir pris la décision de quitter son employeur en raison du fait que celui-ci
+ne détenait pas l’autorisation prévue par l’art. 2 LSE, ce dont X.________ l’avait
+informé deux ou trois mois avant. Il a admis ne pas en avoir parlé lors de sa démission,
+car il ne voulait pas d’histoires. Lorsque, entendu par le Procureur, il a exprimé avoir peur
+pour son emploi, il faisait allusion à cela. Il a ajouté ce qui suit :
+«
+Lorsque je travaillais pour E.________ SA, j’étais mandaté pour travailler en qualité
+de technicien sur le site de O.________ à plein temps. Aujourd’hui, j’effectue exactement
+les mêmes activités sur le fond, également sur le site de O.________. Je précise
+qu’E.________ SA ne m’a jamais formé pour l’exécution de mes activités,
+j’ai toujours appris par moi-même.
+J’imagine qu’au vu de la configuration actuelle, j’aurais pu directement être
+employé par O.________.
+A l’époque, nous étions deux d’E.________ SA à travailler sur le site de O.________,
+il s’’agissait de M. P.________. Nous répondions tous deux au téléphone. Aujourd’hui,
+je suis le seul sur place et je suis plus sur le terrain.
+Lorsque j’ai décidé de quitter E.________ SA, il était évident, au vu des discussions
+que j’avais eues avec M. X.________, que je travaillerais pour O.________.
+C’est uniquement parce que M. X.________ m’a assuré qu’E.________ SA était
+soumise à autorisation que j’en ai été convaincu.
+J’ai souvenir que M. P.________ a travaillé durant trois ans auprès de O.________ par
+le biais de placements de longue durée à chaque fois prolongés.
+Je n’ai reçu aucune formation particulière de S.________ SA. »
+Quant au conseil d’E.________ SA, il a déclaré
+qu’à sa connaissance, l’autorité concernée n’avait jamais requis d’autorisation
+de sa cliente.
+3.
+Par prononcé du 8 août 2016, la Juge de paix du district de l’Ouest lausannois a admis
+l'opposition au séquestre (I), révoqué l'ordonnance de séquestre du 17 juin 2016
+(II), arrêté à 360 fr. les frais judiciaires (III), mis ces frais à la charge de
+l’intimée (IV) et dit que celle-ci devait rembourser à l’opposant son avance de
+frais à concurrence de 360 fr. et lui verser en outre la somme de 1'000 fr. à titre de dépens
+(V). Cette décision a été notifiée le 10 août 2016 à E.________ SA qui
+en a requis la motivation le 22 août 2016. Les motifs lui ont été notifiés le 27
+septembre 2016.
+La première juge a considéré que la condition posée par l’art. 271 al. 1 ch.
+4 LP de l’existence d’une reconnaissance de dette au sens de l’art. 82 LP ou d’une
+créance en lien avec la Suisse n’était pas remplie. Elle a examiné la validité
+de la clause de prohibition de concurrence dont se prévaut la séquestrante conformément
+à l’art. 340 al. 2 CO, constaté que l’employé avait bien eu connaissance de
+la clientèle de son employeur, mais que, par contre, il n’avait pas été rendu vraisemblable
+que l’utilisation de ce renseignement était de nature à causer à son employeur un
+préjudice sensible ; sur ce point, elle est partie du principe que les douze factures produites
+par la séquestrante à l’appui de son argumentation (pour un total de 278'894 fr. 34 pour
+l’année 2013) n’étaient à elles seules pas probantes dès lors que le
+montant global du chiffre d’affaires de la séquestrante n’était pas connu. Elle
+en a conclu qu’il était vraisemblable que la clause de prohibition de concurrence était
+dépourvue de validité. Subsidiairement, elle a relevé que la fonction exercée par
+l’opposant n’était pas élevée, mais plutôt basique, vu le montant de
+son salaire, et que dans ces circonstances, la restriction à son avenir économique qui découlait
+de la clause litigieuse aurait dû être compensée par une indemnité de carence, inexistante
+en l’occurrence. Pour ces motifs, elle a considéré que la séquestrante ne rendait
+pas vraisemblable l’existence d’une créance en lien avec la Suisse, respectivement d’une
+reconnaissance de dette au sens de l’art. 82 LP.
+4.
+Par acte du 7 octobre 2016, E.________ SA a recouru contre cette décision, concluant avec suite
+de frais et dépens de la procédure de deuxième instance à ce que l'opposition au
+séquestre soit rejetée. A l'appui de son recours, elle a produit un onglet de pièces sous
+bordereau contenant des pièces nouvelles.
+Par mémoire du 8 novembre 2016, l'intimé a conclu, avec suite de frais et dépens des deux
+instances, au rejet du recours et à la confirmation du prononcé.
+En droit
+:
+I.
+a)
+Un recours au sens des art. 319 ss CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272) est ouvert contre la décision rendue sur opposition au séquestre (art. 278 al. 2 LP).
+Le recours s'exerce par le dépôt d'un acte écrit et motivé auprès de l'instance
+de recours (art. 321 al. 1 CPC), dans les dix jours suivant la notification de la décision, si elle
+a été prise en procédure sommaire (art. 321 al. 2 CPC), ce qui est le cas des décisions
+rendues en matière de séquestre (art. 251 let. a CPC).
+Le recours a été formé en temps utile et est motivé. Il est donc recevable.
+Déposée dans le délai de l'art. 322 al. 2 CPC, la réponse de l'intimé est également
+recevable.
+b)
+En matière d'opposition au séquestre,
+les parties peuvent alléguer des faits nouveaux (art. 278 al. 3 LP); les pièces nouvelles sont
+également recevables. Cette disposition déroge à l'art. 326 al. 1 CPC et permet aux parties
+à un recours contre une décision sur opposition au séquestre d'alléguer des faits
+nouveaux. Toutefois, contrairement à ce que semble dire Jeandin (Code de procédure civile commenté,
+n. 4 ad art. 326 CPC) lorsqu'il précise que "l'art. 278 al. 3 LP admet tout fait nouveau",
+la portée de cette disposition, dont la lettre n'a pas changé, est selon la Cour de céans
+la même que sous l'ancien droit, en ce sens que seuls les "vrais nova" peuvent être
+invoqués (Reiser, in Staehelin/Bauer/Staehelin (éd.), Basler Kommentar LP II, n. 46 ad art.
+278 LP; CPF 24 mars 2016/103 ; CPF, 30 septembre 2013/397 et les réf. cit. ; CPF,
+3 mai 2013/185). Les pseudo-novas ne sont quant à eux recevables qu'en tant que celui qui les allègue
+établit qu'ils ne pouvaient être invoqués ou produits devant la première instance
+bien qu'il ait fait preuve de la diligence requise. En effet, en procédure de recours, les moyens
+nouveaux, admis par exception en application de l'art. 278 al. 3 LP, ne doivent en tout cas pas être
+admis plus largement que dans l'appel (CPF, 3 mai 2013/185). Dans un arrêt récent, le Tribunal
+fédéral a laissé la question ouverte, tout en précisant qu’en cas de pseudo-novas,
+il ne fallait pas omettre de statuer sur leur recevabilité, sous peine d’arbitraire (ATF 140
+III 466).
+En l'espèce, les pièces nouvelles produites par la recourante à l’appui de son recours
+sont des « statistiques » d’E.________ SA pour les années 2010 à 2013, datées
+du 6 octobre 2016, mentionnant sous forme de colonnes le chiffre d’affaires brut et net réalisé
+par elle durant cette période, mis en relation avec le chiffre d’affaires réalisé
+par elle avec le seul client O.________. Même si ces quatre pièces sont datées du 6 octobre
+2016, les faits qu’elles énoncent ne sont pas de vrais novas, mais des données internes
+la concernant qui sont censées établir des faits antérieurs à la décision attaquée.
+Le chiffre d’affaires total de l’entreprise, respectivement celui réalisé avec
+le client O.________, pour 2010 à 2013, sont donc des pseudo-novas. La recourante ne fait pas valoir
+ni a fortiori n’établit qu’elle ne pouvait pas produire ces pièces auparavant,
+mais seulement que l’art. 278 al. 3 LP autorise l’allégation de faits nouveaux. Au vu
+de ce qui précède, il était loisible à la recourante de produire les pièces
+en question devant la première instance. Celles-ci sont donc irrecevables. De toute manière,
+comme on va le voir, les éléments de fait qu’elles sont censé prouver ne sont pas
+déterminants.
+II.
+a)
+Selon l'art. 271 al. 1 ch. 4 LP, le créancier
+d'une dette échue et non garantie par gage peut requérir le séquestre des biens du débiteur
+qui se trouvent en Suisse lorsque ce dernier n'habite pas dans ce pays et qu'il n'y a pas d'autre cas
+de séquestre, pour autant que la créance ait un lien suffisant avec la Suisse ou qu'elle se
+fonde sur une reconnaissance de dette au sens de l'art. 82 al. 1 LP. Le séquestre, mesure conservatoire
+urgente, doit être autorisé par le juge compétent, lorsque le créancier rend vraisemblable
+l'existence de la créance qu'il allègue et, dans le cas de l'art. 271 al. 1 ch. 4 LP, son exigibilité
+(art. 271 al. 2 LP), la réalisation du cas de séquestre invoqué et l'existence de biens
+appartenant au débiteur (art. 272 al. 1 LP).
+Sous l'empire de l'ancien droit, l'autorité saisie d'un recours contre la décision sur opposition
+ne disposait pas d'un pouvoir d'examen plus large que celui du juge de l'opposition; elle statuait pareillement
+sous l'angle de la vraisemblance de la réalisation des conditions du séquestre (von Gunten,
+Die Arresteinsprache, 2001, p. 146; Reeb, Les mesures provisoires dans la procédure de poursuites,
+in RDS 226/1997 II 421). Il suffisait ainsi que le juge, se fondant sur des éléments objectifs,
+acquière l'impression que les faits pertinents s'étaient produits, mais sans qu'il doive exclure
+pour autant la possibilité qu'ils se soient déroulés autrement (Stoffel, Basler Kommentar
+LP II, n. 3 ad art. 272 LP et la doctrine citée). On ne pouvait poser à cet égard des
+exigences plus strictes pour l'opposant que pour le requérant, celui-là pouvant aussi se contenter
+de rendre crédibles ses moyens libératoires (Reiser, op. cit., n. 5 ad art. 278 LP). Le jugement
+devait reposer sur les faits établis au degré de la vraisemblance et sur un examen sommaire
+du point de droit.
+Ces principes demeurent inchangés en ce qui concerne la première instance. Au stade du recours,
+en revanche, l'autorité de deuxième instance est désormais liée par l'état de
+fait établi par le juge de l'opposition au séquestre, sous réserve de la constatation
+manifestement inexacte des faits (art. 320 let. b CPC) – grief qui se confond avec celui d'arbitraire
+dans l'appréciation des preuves (CPF 16 août 2016/254) – et des novas, voire des pseudo-novas
+recevables (CPF, 24 mars 2016/103 ; CPF, 3 mai 2013/185).
+b)
+En l'espèce, il n’est pas contesté que l’opposant est domicilié à l’étranger.
+La question litigieuse est celle de la vraisemblance de la créance et son exigibilité. Le séquestrant
+doit rendre vraisemblable l'existence de la créance qu'il allègue (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 11 ad art. 271 LP). La vraisemblance
+de la créance doit résulter des pièces, à l'exclusion de tout autre moyen de preuve
+(ATF 138 III 636 consid. 4.3.2 ; CPF 16 août 2016/254). Pour rendre sa créance vraisemblable,
+la partie requérante doit produire une pièce ou un ensemble de pièces permettant au juge
+du séquestre d'acquérir, au stade de la simple vraisemblance, la conviction que la prétention
+existe pour le montant énoncé et qu'elle est exigible, même si le document n'est pas signé
+(Gilliéron, op. cit., n. 29 ad art. 272 LP; CPF, 10 avril 2013/159). Lorsque le juge doit statuer
+selon la simple vraisemblance, il doit, en se basant sur des éléments objectifs, avoir l'impression
+que le fait invoqué s'est produit, sans pour autant devoir exclure la possibilité qu'il ait
+pu se dérouler autrement (ATF 132 III 140 consid. 4.1.2 et les réf. cit. ; ATF 130 III 321
+consid. 3.3 p. 325; ATF 120 II 393).
+La recourante fait d’abord grief au juge de paix d’avoir refusé d’admettre que
+la condition du dommage sensible de l’art. 340 al. 2 CO (Code des obligations du 30 mars 1911 ;
+RS 220) était donnée. D’après elle, il suffit d’après la jurisprudence
+que la possibilité d’un tel dommage existe – ce qui peut se produire même en cas
+de perte d’un seul client -, l’employeur n’ayant pas à prouver le dommage effectif
+; au surplus, il n’a pas besoin de fournir une preuve « liquide » des faits qu’il
+expose. Or, en l’occurrence, elle aurait non seulement rendu vraisemblable, mais également
+démontré qu’elle avait subi un dommage effectif important. Suite au départ de l’opposant
+auprès de S.________ SA, elle relève que lO.________ n’a plus généré aucun
+chiffre d’affaires pour elle, alors qu’en 2013, celui-ci était de 278'894 fr. 14. Elle
+en conclut que ce manque à gagner constitue assurément un préjudice sensible. Au demeurant,
+elle observe que l’O.________ constituait son troisième client en 2013 en termes de volume.
+S’agissant de l’atteinte à l’avenir économique au sens de l’art. 340a
+CO, retenue par la première juge, la recourante observe que cette atteinte n’existe pas dès
+lors que le nouvel employeur de l’opposant au séquestre a promis de prendre à sa charge
+les éventuelles « amendes » auxquelles celui-ci pourrait être condamné en raison
+de l’infraction à la clause pénale. Au demeurant, elle soutient que l’interprétation
+de cette disposition légale qu’a faite la première juge est contraire à la loi,
+car elle aboutit à ériger en condition stricte l’existence d’une indemnité
+de carence, alors que la loi prévoit que l’éventuelle contre-prestation de l’employeur
+doit entrer en considération uniquement dans le cadre de l’examen du caractère excessif
+du montant de la clause pénale. Il s’ensuit que, à tout le moins, elle aurait dû
+procéder à une réduction du montant dû selon la clause pénale, et non conclure
+à son invalidité.
+Quant à l’intimé, il se réfère aux arguments du premier juge, en ajoutant qu’il
+peine à comprendre les « statistiques » produites ; il leur dénie toute force probante,
+car seule la production de comptes de pertes et profits dûment révisés pourraient selon
+lui donner une information précise sur l’importance du client eu égard au montant global
+du chiffres d’affaires.
+c)
+En l’occurrence, le contrat de travail conclu entre les parties était assorti d'une clause
+de prohibition de concurrence au sens des art. 340 à 340c CO ; en cas de violation de cette clause,
+une peine conventionnelle a été prévue (art. 160 à 163 CO; cf. également :
+art. 340b al. 2 CO). Le premier juge a conclu que la clause de prohibition de concurrence et en conséquence
+la clause pénale qui lui est liée n'étaient pas valables. Il s'agit là de la première
+question juridique qu'il convient de résoudre.
+aa)
+Selon l'art. 340 al. 1 CO, le travailleur qui a l’exercice des droits civils peut s’engager
+par écrit envers l’employeur à s’abstenir après la fin du contrat de lui faire
+concurrence de quelque manière que ce soit, notamment d’exploiter pour son propre compte une
+entreprise concurrente, d’y travailler ou de s’y intéresser. Selon l’art. 340
+al. 2 CO, la prohibition de faire concurrence n'est valable que si les rapports de travail permettent
+au travailleur d'avoir connaissance de la clientèle ou de secrets de fabrication ou d'affaires de
+l'employeur et si l'utilisation de ces renseignements est de nature à causer à l'employeur
+un préjudice sensible.
+La connaissance de la clientèle, ou les secrets de fabrication ou d’affaires, ne doivent pas
+être des informations connues de tous. Ainsi, par secret d’affaires, il faut entendre les
+connaissances qui touchent à des questions techniques, organisationnelles ou financières, qui
+sont spécifiques et que l’employeur veut garder secrètes. En revanche, les connaissances
+qui peuvent être obtenues dans toutes les entreprises de la branche ressortissent à l’expérience
+professionnelle du travailleur et n’ont rien à voir avec des secrets (TF 4A_31/2010 du 16
+mars 2010, consid. 2.1 ; TF 4A_417/2008 du 3 décembre 2008 consid. 4.1 ; Aubry Girardin, in Dunant/Mahon
+(éd.), Commentaire du contrat de travail, nn. 24 ss ad art. 340 CO, pp. 836 ss et les réf.
+cit.).
+Dans une jurisprudence ancienne, le Tribunal fédéral a considéré que l'employé
+ne pouvait tirer profit de sa connaissance de la clientèle lorsque les rapports entre la clientèle
+et l'employeur ont essentiellement un caractère personnel, fondé sur la compétence de
+cet employeur, par exemple s'il s'agit d'un avocat célèbre ou d'un chirurgien réputé;
+dans ce cas, en effet, la connaissance que l'employé possède de la clientèle ne lui procure
+pas, à elle seule, le moyen de rompre ou de distendre le lien existant entre l'employeur et sa clientèle
+(ATF 78 II 39 consid. 1 p. 40 s. et les arrêts cités). Ultérieurement, la jurisprudence
+a eu l'occasion de se pencher sur la situation inverse, à savoir le cas où une relation personnelle
+était établie entre le client et l'employé lui-même, en l'occurrence un dentiste;
+il a été conclu que dans ce cas également, la clause de prohibition de concurrence n'était
+pas valable, parce que la personnalité de l'employé revêtait pour le client une importance
+prépondérante et interrompait le rapport de causalité qui doit exister entre la simple
+connaissance de la clientèle et la possibilité de causer un dommage sensible à l'employeur
+(TF 4C.100/2006 du 13 juillet 2007 consid. 2.6). Cette jurisprudence a été approuvée par
+la doctrine unanime pour les cas où la relation entre la clientèle et l'employé repose
+essentiellement sur les capacités personnelles de ce dernier et relègue à l'arrière-plan
+l'identité de l'employeur (Aubert, in Commentaire romand, Code des obligations, vol. I, 2
+e
+éd., 2012, n° 9 ad art. 340 CO; Tercier/Bieri/Carron, Les contrats spéciaux, 5
+e
+éd. 2016, n. 3174 pp. 426/427; Engel, Contrats de droit suisse, 2
+e
+éd. 2000, p. 391; Streiff/von Kaenel/Rudolph, Arbeitsvertrag, 7
+e
+éd. 2012, n°s 10, 11 et 15 ad art. 340 CO; Staehelin, Commentaire zurichois, 2014, n°
+16 ad art. 340 CO; Brühwiler, Kommentar zum Einzelarbeitsvertrag, 3
+e
+éd. 2014, n° 12 ad art. 340 CO; Rehbinder/Stöckli, Commentaire bernois, 2014, n°
+12 ad art. 340 CO; Carruzzo, Le contrat individuel de travail, 2009, n° 4 ad art. 340 CO p. 595;
+Wyler/Heinzer, Droit du travail, 3
+e
+éd. 2014, p. 722; Favre et alii, Le contrat de travail, Code annoté, 2010, n° 2.3 ad
+art. 340 CO; Brunner et alii,
+Commentaire
+du contrat de travail, 3e éd. 2004, p. 309 s.; Neeracher, Das arbeitsvertragliche Konkurrenzverbot,
+2001, p. 39).
+Récemment, le Tribunal fédéral a déclaré à nouveau que, lorsque l'employé
+noue un rapport personnel avec le client en lui fournissant des prestations qui dépendent essentiellement
+des capacités propres à l'employé, la situation était particulière, car dans
+ce cas le client attache de l'importance à la personne de l'employé dont il apprécie les
+capacités personnelles et pour qui il éprouve de la confiance et de la sympathie ; une
+telle situation suppose que le travailleur fournisse une prestation qui se caractérise surtout par
+ses capacités personnelles, de telle sorte que le client attache plus d'importance aux capacités
+personnelles de l'employé qu'à l'identité de l'employeur ; si, dans une telle situation,
+le client se détourne de l'employeur pour suivre l'employé, ce préjudice pour l'employeur
+résulte des capacités personnelles de l'employé et non pas simplement du fait que celui-ci
+a eu connaissance du nom des clients (ATF 138 III 67 consid. 2.2).
+Il appartient à l’employeur d’établir – en l’occurrence sous l’angle
+de la vraisemblance - que les conditions de validité de la clause de prohibition de concurrence,
+posées à l’art. 340 CO, sont remplies. Le défaut de l'une de ces conditions cumulatives
+entraîne la nullité complète de la clause de prohibition de concurrence (TF 4A_31/2010
+du 16 mars 2010 consid. 2.1 et les réf. cit. ; Aubry Girardin, op. cit., n. 33 ad art. 340
+CO, p. 839).
+bb)
+En l’occurrence, il ressort des pièces au dossier, et en particulier des « profils »
+produits par la recourante, que l’intimé au recours est un informaticien maîtrisant les
+systèmes d’exploitation Microsoft Windows 2000, Windows XP, Windows 8, 98, 95, en particulier
+la maintenance, le dépannage et la résolution de problèmes y relatifs, ainsi que la connaissance
+et la gestion de réseaux, de la bureautique (Microsoft Office 2010, Microsoft Access, Lotus Notes
+6.5, Outlook 2010, etc.) et de logiciels d’administration. Sans dévaluer ces compétences,
+il apparaît qu’elles sont celles d’un informaticien de base. Il n’est pas démontré
+au stade de la vraisemblance, ni même allégué, qu’il aurait des connaissances techniques
+particulières, et encore moins que ces connaissances seraient objectivement secrètes et que
+la recourante entendraient qu’elles ne soient pas divulguées à l’extérieur
+de l’entreprise. Il apparaît du reste que la recourante ne fait pas valoir, ni a fortiori
+ne rend vraisemblable, que l’intimé pouvait avoir connaissance, dans le cadre de son travail,
+de secrets d’affaires ou de fabrication.
+Il reste la question de savoir si les rapports de travail permettaient à l’intimé d’avoir
+connaissance de la clientèle de la recourante, et si l’utilisation de ce renseignement était
+de nature à causer à celle-ci un préjudice sensible. Dans le cadre des rapports de travail,
+l’intimé avait des relations avec O.________ qui était un client de la recourante. Plus
+précisément, l’intimé remplissait ses obligations contractuelles sur le site de
+O.________, en qualité de « support technique » pour les boutiques sises dans
+l’enceinte de celui-ci. Comme deux autres de ses collègues à la même époque,
+il était « détaché » de l’entreprise recourante aux fins d’œuvrer
+sur ce site. C’est dans ce cadre qu’il a noué des relations particulières avec
+un client de la recourante, O.________. Après sa démission, l’intimé n’a pas
+été engagé par ce client directement, mais par une entreprise concurrente créée
+par X.________, un autre employé de la recourante. Et c’est dans le cadre de cette autre relation
+de travail qu’il a été amené à œuvrer sur le même site, apparemment
+pour faire le même support technique. Dans ces conditions, il faut conclure que, pour le client
+O.________ il était indifférent de traiter avec S.________ SA ou avec la recourante, pourvu
+que l’intimé, qui œuvrait pour lui depuis un certain temps, continue à le faire.
+Ce sont donc les compétences personnelles de l’intimé qui étaient primordiales,
+et non l’entreprise qui l’employait. Assurément, comme déjà dit, ces compétences
+ne supposaient pas la connaissance de secrets techniques qu’il aurait appris au sein de la recourante,
+mais la maîtrise de tout un environnement propre au client lui-même, pour lequel il travaillait
+dans les faits depuis plusieurs années. Il apparaît que, en application de la jurisprudence
+précitée, et à supposer qu’il y ait en l’espèce une prise de connaissance
+de la clientèle au sens de l’art. 340 al. 2 CO, celle-ci serait reléguée à
+l’arrière-plan par rapport aux compétences personnelles de l’intimé, ce qui
+aurait pour conséquence d’empêcher tout lien de causalité avec la possibilité
+de causer un dommage sensible à l’employeur.
+Du reste, même si ce n’est pas forcément déterminant puisqu’un dommage virtuel
+suffit, il convient de relever que la recourante prétend avoir subi un dommage en raison de la concurrence
+de S.________ SA, mais elle ne précise pas, ni a fortiori ne rend plausible qu’O.________
+a mis fin au contrat qui les liait, ni au demeurant que cette fin était prématurée ou
+en lien avec l’intimé; or, ces faits auraient aisément pu ressortir de pièces et
+auraient permis de soutenir l’assertion de la recourante selon laquelle c’est le départ
+de l’intimé qui aurait eu pour conséquence la perte de la clientèle de O.________.
+Pour ce premier motif, il apparaît plus vraisemblable que la clause de prohibition de concurrence
+ne soit pas valable que l’inverse.
+En outre, il n’est pas invoqué par la recourante, et par voie de conséquence pas rendu
+vraisemblable, que l’expérience acquise par l’intimé dans le cadre de ses rapports
+de travail pour la recourante, plus particulièrement lorsque l’intimé a rempli les tâches
+que O.________ avaient sous-traitées à son employeur, était différente de celle acquise
+dans toutes les entreprises de la branche informatique mandatées pour effectuer un support technique.
+Comme déjà dit, les qualifications de l’intimé apparaissent celles d’un informaticien
+de base, et, au vu des « profils » au dossier, elles n’ont pas évolué
+d’un emploi à l’autre. Il s’ensuit qu’il n’est pas possible de conclure
+que l’expérience en cause relevait de secrets d’affaires, mais au contraire qu’elle
+ressortissait de la simple expérience professionnelle. Sous cet angle également, il n’apparaît
+pas vraisemblable que les conditions posées à la validité de la clause de prohibition
+de concurrence par l’art. 340 al. 2 CO soient remplies.
+d)
+La seconde question juridique qui doit, à titre subsidiaire, être résolue, tient à
+la limitation de la clause de prohibition de concurrence.
+A teneur de l'art. 340a al. 1, première phrase, CO, la prohibition doit être limitée convenablement
+quant au lieu, au temps et au genre d'affaires, de façon à ne pas compromettre l'avenir économique
+du travailleur contrairement à l'équité. Quant au lieu, l'interdiction de concurrence
+ne saurait s'étendre au-delà du territoire sur lequel l'employeur déploie son activité
+(principe du marché). En dehors de ce territoire, l'employeur ne dispose d'aucun intérêt
+digne de protection à interdire au travailleur d'exercer une activité, qui ne peut lui causer
+de préjudice. L'interdiction de concurrence ne doit pas non plus compromettre l'avenir économique
+du travailleur contrairement à l'équité. A cet égard, il sied de comparer les intérêts
+du salarié et ceux de l'employeur. La clause est valable si les intérêts des deux parties
+sont d'égale valeur ou si ceux de l'employeur l'emportent (TF 4A_466/2012 du 12 novembre 2012 consid.
+4 et les réf. cit.). Le juge peut réduire selon sa libre appréciation une prohibition
+excessive, en tenant compte de toutes les circonstances ; il aura égard, d’une manière
+équitable, à une éventuelle contre-prestation de l’employeur (art. 340a al. 2 CO).
+Quant au lieu (100 km, qui englobe [...]) et au temps (un an), la clause pourrait à première
+vue ne pas être considérée comme excessive. Toutefois, elle apparaît plus problématique
+sous l’angle du genre d’affaire. En effet, comme déjà relevé, l’intimé
+est un informaticien qui n’œuvre pas à un niveau élevé ; son salaire auprès
+de la recourante se montait du reste à 5'000 fr. brut par mois. Lui interdire d’exercer une
+activité similaire au sein d’une entreprise qui a le même but que la recourante conduirait,
+en pratique, à l’empêcher de retrouver un travail dans la branche de l’informatique,
+que ce soit dans la création de logiciels, la formation, le conseil ou la vente, tous domaines couverts
+par le but social de la recourante. L’avenir professionnel de l’intimé s’en trouverait
+indubitablement compromis, surtout au vu du très large champ d’application territorial de
+la clause, et ce d’une manière qui n’apparaît pas justifiée par les intérêts
+de l’employeur. Dans ces conditions, il est vraisemblable que le juge du fond serait amené
+à réduire le champ d’application matériel de la clause, jusqu’à ce que
+l’avenir économique du salarié ne soit pas compromis d’une manière inéquitable.
+e)
+La troisième question juridique qui se
+pose est celle, subsidiaire, de la limitation de la peine conventionnelle.
+La clause pénale est soumise aux dispositions des art. 160 ss CO (TF 4A_466/2012 du 12 novembre
+2012 consid. 5 ; Aubert, op. cit., n. 3 ad art. 340b CO). En application de l'art. 163 al. 3 CO, le juge
+doit réduire le montant de la peine conventionnelle dont la quotité est excessive (ATF 133
+III 43 consid. 3.3 p. 48, 201 consid. 5.2 p. 209 et les références). Pour des motifs tenant
+à la fidélité contractuelle et à la liberté de contracter, il convient de faire
+preuve de réserve dans le processus de réduction, car les parties sont libres de fixer le montant
+de la peine (art. 163 al. 1 CO). L'intervention du juge dans le contrat n'est nécessaire que dans
+la mesure où le montant fixé est si élevé qu'il dépasse toute mesure raisonnable,
+au point de n'être plus compatible avec le droit et l'équité (ATF 133 III 43 consid. 3.3.1
+p. 48, 201 consid. 5.2 p. 509). Une réduction de la peine conventionnelle se justifie en particulier
+lorsqu'il existe une disproportion crasse entre le montant convenu et l'intérêt du créancier
+à maintenir la totalité de sa prétention, mesuré concrètement au moment où
+la violation contractuelle est survenue. Pour juger du caractère excessif de la peine conventionnelle,
+il ne faut pas raisonner abstraitement, mais, au contraire, prendre en considération toutes les
+circonstances concrètes de l'espèce. Il y a ainsi lieu de tenir compte notamment de la nature
+et de la durée du contrat, de la gravité de la faute du travailleur, du montant de sa rémunération,
+de sa position hiérarchique et de l'absence de preuve par l'employeur d'un dommage (ATF 133 III
+43 consid. 3.3.2 p. 48 s., 201 consid 5.2 p. 509). La doctrine admet que le salaire annuel du travailleur
+constitue la limite supérieure de la clause pénale (cf. les auteurs cités par TF 4A_466/2012
+du 12 novembre 2012 consid. 5 ).
+En l’occurrence, les éléments à prendre en compte selon la jurisprudence ne ressortent
+pour la plupart pas des pièces au dossier. Seul le montant du salaire et la position hiérarchique,
+relativement peu élevés, et le fait qu’à la date de sa démission, l’intimé
+savait qu’il travaillerait pour une entreprise qui avait les mêmes activités que son
+employeur sont établis. Quant à l’existence d’un dommage en lien de causalité
+avec le départ de l’employé et son engagement auprès d’une entreprise tierce,
+il n’est pas rendu vraisemblable, surtout parce qu’aucune pièce n’a été
+produite permettant de savoir si le contrat qui liait la recourante à O.________ a pris fin, et
+dans l’affirmative pour quels motifs. Il n’est ainsi pas possible d’établir un
+lien de causalité entre la prétendue violation de la clause et une prétendue non augmentation
+de l’actif de la recourante ; à cet égard, comme le relève l’intimé dans
+sa réponse, les pièces produites, internes à la partie, et non auditées, ne sont
+pas probantes ; et comme le souligne le premier juge, une perte de chiffre d’affaires ne suffit
+pas à établir ni même rendre plausible l’existence d’un dommage au sens juridique
+du terme.
+Au vu de ce qui précède, une peine conventionnelle équivalente à cinq fois le salaire
+mensuel brut (soit 25'000 fr.) doit vraisemblablement être considérée comme excessive.
+f)
+Pour tous ces motifs, et en conclusion, il n’apparaît pas possible de se convaincre au stade
+de la vraisemblance que la recourante est titulaire d’une créance d’un montant de 28'132
+fr. 50 à l’encontre de l’intimé, fondée sur la clause de prohibition de concurrence
+contenue dans le contrat de travail qui les a liés. Il est douteux que cette clause soit valable
+(cf. supra consid. IIc), et si jamais elle l’est, elle devrait vraisemblablement être réduite
+en application de l’art. 340a al. 2 CO (cf. supra consid. IId); il en va de même de la peine
+conventionnelle prévue (cf. supra consid. IIe). Contrairement à ce que pense la recourante,
+il n’appartient pas au juge de l’opposition au séquestre de procéder, en cas de
+clause valable, à une éventuelle réduction du montant dû.
+III.
+Le recours doit ainsi être rejeté, et le prononcé confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 570
+fr., sont mis à la charge de la recourante (art. 106 al. 1 CPC).
+L’intimé, qui obtient gain de cause et était assisté d’un agent d’affaires
+breveté, a droit à des dépens qui sont arrêtés, considérant la valeur litigieuse,
+d’une part, et la brièveté de la réponse, d’autre part, à 500 fr. (art.
+3 et 13 TDC [Tarif des dépens en matière civile du 23 novembre 2010; RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 570 fr. (cinq cent septante
+francs), sont mis à la charge de la recourante.
+IV.
+La recourante E.________ SA doit verser à l’intimé J.________ la somme de 500 fr. (cinq
+cents francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Pierre Ducret, avocat (pour E.________ SA),
+‑
+M. Jean-Daniel Nicaty, agent d’affaires breveté (pour J.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 28’132 fr.
+50.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme le Juge de paix du district de l’Ouest lausannois.
+Le greffier :
