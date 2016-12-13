@@ -1,0 +1,551 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 5"
+decided: "2016-12-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5926758"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/210/art-023.md", "switzerland/bund/acts/220/art-055.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/281.1/art-072.md", "switzerland/bund/acts/291/art-020.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 5
+
+## Regeste
+
+RESTITUTION DU DÉLAI, COMMANDEMENT DE PAYER, NOTIFICATION DE LA DÉCISION, OPPOSITION{LP}, EMPÊCHEMENT NON FAUTIF, DOMICILE, MÉNAGE COMMUN | 33 al. 4 LP, 46 al. 1 LP, 64 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.12.2016 Plainte / 2017 / 5
+
+RESTITUTION DU DÉLAI, COMMANDEMENT DE PAYER, NOTIFICATION DE LA DÉCISION, OPPOSITION{LP}, EMPÊCHEMENT NON FAUTIF, DOMICILE, MÉNAGE COMMUN | 33 al. 4 LP, 46 al. 1 LP, 64 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA16.026824-161962
+38
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 décembre 2016
+______________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+33 al. 4, 46 al. 1 et 64 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+C.________
+,
+à S[...], contre la décision rendue à la suite de l’audience du 13 septembre 2016
+et adressée pour notification aux parties le 3 novembre 2016 par le Président du Tribunal
+d’arrondissement de l’Est vaudois, autorité inférieure de surveillance, rejetant
+la requête formée par le recourant en restitution du délai pour faire opposition à
+la poursuite n° 7’886’245 de l’
+Office
+des poursuites du district de Lavaux-Oron
+exercée
+contre lui à l’instance d’
+U.________
+,
+au Mont-sur-Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 20 mai 2016, dans la poursuite n° 7'886'245 de l’Office des poursuites du district de Lavaux-Oron
+(ci-après : l’Office) exercée à l’instance d’U.________ contre
+C.________ « c/o A.J.________, Chemin [...] 7, [...] S[...] », un commandement de
+payer la somme de 24'722 fr. 60, plus intérêt à 5% l’an dès le 22 avril
+2016, a été notifié à B.J.________ « une amie ».
+b)
+Par déclaration du 8 juin 2016 signée au pied du commandement de payer, C.________ a formé
+opposition partielle, en indiquant contester le montant de 16'722 fr. 60.
+Par requête du 10 juin 2016, il a demandé au Président du Tribunal d’arrondissement
+de l’Est vaudois, autorité inférieure de surveillance, la restitution du délai d’opposition,
+invoquant son absence à l’étranger du 18 mai au 10 juin 2016. Il a précisé
+qu’il acceptait « la responsabilité de 8'268 fr. 10 des 24'990 fr. 70 ».
+Le 28 juin 2016, l’intimée U.________ s’est déterminée sur la requête,
+concluant à son rejet. Elle a produit une fiche de renseignements établie à sa demande
+par l’Office de la population de la commune de S[...], indiquant que C.________ est domicilié chemin
+[...] 7 à S[...], « en résidence principale », et un extrait du site
+internet local.ch, indiquant qu’A.J.________ est inscrit à l’adresse chemin [...] 7
+à S[...].
+Le 1
+er
+juillet 2016, le requérant a demandé la suspension de la poursuite en cause.
+Par décision du 8 juillet 2016, le président du tribunal a prononcé l’effet suspensif
+requis et ordonné à l’Office de surseoir à toute opération dans la poursuite
+n° 7’886'252. Par lettre du 13 juillet 2016, il a précisé, à la requête
+de l’intimée, que l’effet suspensif n’était accordé que dans la mesure
+où le commandement de payer était frappé d’opposition.
+c)
+A l’audience du 13 septembre 2016, l’intimée a produit une attestation manuscrite de
+l’administration de la commune de V[…] reçue le 29 mars 2016, selon laquelle le
+requérant a quitté cette commune le 30 juin 2006 pour Pully, et une lettre de son conseil
+adressée le 11 avril 2016 en courrier simple et recommandé au requérant, à l’adresse
+chemin [...] 7 à S[...] et à l’adresse chemin de [...] 30 à V[...], ainsi qu’à
+son épouse (pièce 5). La teneur de cette lettre, rédigée en anglais, est notamment
+la suivante :
+«
+According to the above, the present letter is sent to you as a formal notice of default (“mise
+en demeure”) in order to invite you to pay CHF 24’722.60 by no later than 10 days running
+form the service on you of the present notice. (…)
+Should
+any amount remain overdue after the above-mentioned 10 days’ deadline expiry, ISL would have no
+alternative but to instigate all appropriate proceedings including enforcement requests with no other
+notice to you
+»
+.
+Entendu lors de cette audience, avec l’aide d’un interprète, le requérant a fait
+la déclaration suivante :
+« J’habite
+en Suisse depuis 2001. C’est la première fois que j’ai des poursuites pour dettes. Ce
+n’est pas la première fois que je reçois un courrier recommandé. C’est la
+première que je reçois un courrier recommandé à cette adresse. Je suis indépendant,
+consultant pour des sociétés américaines. A l’époque de la notification du
+commandement de payer, je partageais mon temps entre S[...], V[...]. Au moment précis de la notification
+j’étais en voyage d’affaires au Moyen Orient pour quinze jours. A S[...], je vis chez
+une famille d’amis. Pour mon activité indépendante, je donne l’adresse de V[...].
+Pour les autorités, je donne l’adresse de S[...]. Avec la famille qui me (sic) héberge
+à S[...], il est convenu qu’ils conservent mon courrier jusqu’à mon retour. Je
+ne m’attendais à pas à recevoir un courrier recommandé.
+Vous
+me présentez la pièce 5. Je l’ai reçue à V[...] parce qu’elle était
+adressée aussi à V[...]. Vous me demandez si ayant reçu cette lettre je n’ai pas
+pris des dispositions auprès de mes logeurs pour le cas où un commandement de payer me serez
+(sic) notifié. Je vous réponds que je ne m’attendais pas à recevoir un courrier
+recommandé mais qu’en tout état de cause, s’il devait en avoir un, je m’attendais
+à le recevoir à V[...]. Vous me faites remarquer que je donne aux autorités comme lieu
+de domicile S[...]. J’en conviens. Lorsque j’ai mes enfants auprès de moi, je ne peux
+pas les prendre à S[...]. Je les prends à V[...] où j’ai la place pour les accueillir.
+Je
+confirme avoir reçu des avis judiciaires concernant une procédure en mesures protectrices de
+l’union conjugale. J’en ai reçu avant et après la procédure de poursuite.
+Je précise que je les reçois par l’intermédiaire de mon avocat et par courriel. »
+Par ailleurs, il a produit un courriel du 19 avril 2016 de sa part au conseil de l’intimée,
+accusant réception de la lettre précitée du 11 avril 2016 et se déterminant à
+son sujet, ainsi que des pièces destinées à prouver son absence à l’étranger
+du 20 mai au 3 juin 2016.
+Le Préposé à l’Office a préavisé pour le rejet de la requête.
+2.
+Par décision rendue sans frais à la suite de l’audience précitée et adressée
+aux parties le 3 novembre 2016, le Président du Tribunal d’arrondissement de l’Est vaudois,
+autorité inférieure de surveillance, a rejeté la requête de restitution de délai.
+Il a considéré en résumé que la notification du commandement de payer litigieux par
+remise à une personne adulte du ménage du requérant, au domicile de celui-ci, était
+régulière et que le requérant n’avait pas pris les dispositions nécessaires
+pour que son courrier soit correctement traité en son absence, la seule instruction donnée
+à ses logeurs de conserver son courrier jusqu’à son retour étant manifestement insuffisante,
+alors qu’il devait s’attendre, vu la teneur claire et précise de la lettre du conseil
+de l’intimée du 11 avril 2016 qu’il admettait avoir reçue, à ce qu’une
+procédure de recouvrement soit introduite contre lui.
+3.
+Par acte déposé le 14 novembre 2016
+par l’intermédiaire de son conseil, C.________ a recouru contre cette décision, concluant,
+avec suite de frais et dépens, principalement à ce qu’il soit constaté que l’opposition
+à la poursuite en cause est intervenue en temps utile et qu’ordre soit donné à l’Office
+d’enregistrer cette opposition, subsidiairement, à la restitution du délai d’opposition,
+le même ordre étant donné à l’Office. Il a fait valoir principalement que la
+notification du commandement de payer litigieux était irrégulière, subsidiairement qu’il
+avait été sans sa faute empêché de former opposition à temps. A l’appui
+de son recours, il a produit, outre le prononcé attaqué et une procuration en faveur de son
+conseil, les pièces suivantes, en copie :
+-
+deux ordonnances de mesures protectrices de l’union conjugale rendues par la Présidente du
+Tribunal civil de l’arrondissement de l’Est vaudois, respectivement le 21 mai 2015 et le
+15 janvier 2016, dans la cause l’opposant à son épouse ;
+-
+une attestation d’établissement délivrée par l’Office de la population de
+S[...] le 14
+novembre
+2016 le concernant ;
+-
+la lettre du conseil de l’intimée du 11 avril 2016 et sa propre réponse par courriel
+du 19 avril 2016 ;
+-
+le commandement de payer litigieux ;
+-
+des documents de voyage ;
+-
+une extrait du registre des poursuites de l’Office le concernant.
+Par décision du 18 novembre 2016, la Présidente de la cour de céans, autorité cantonale
+supérieure de surveillance, a admis la requête d’effet suspensif contenue dans le recours,
+en ce sens que les effets de la poursuite en cause sont suspendus à concurrence du montant de l’opposition
+partielle.
+L’intimée s’est déterminée le 6 décembre 2016, dans le délai imparti
+pour ce faire, concluant, avec suite de frais et dépens, au rejet du recours.
+En droit :
+I.
+Au vu de la décision attaquée, la cour
+de céans n'est pas saisie, en dépit des moyens soulevés et des conclusions prises par
+le recourant, d'un recours dirigé principalement contre le rejet d'une plainte portant sur la notification
+du commandement de payer litigieux et subsidiairement contre le refus de restituer le délai d'opposition,
+mais uniquement d'un recours en matière de restitution de délai impliquant de vérifier
+préalablement la validité de la notification du commandement de payer en cause.
+II.
+a)
+Aux termes de l’art. 33 al. 4 LP (loi fédérale sur la poursuite pour dettes et la faillite;
+RS 281.1), quiconque a été empêché sans sa faute d’agir dans le délai
+fixé peut demander à l’autorité de surveillance ou à l’autorité
+judiciaire compétente qu’elle lui restitue ce délai. En dehors des cas où une autorité
+judiciaire est déjà saisie, c’est l’autorité de surveillance qui est compétente
+pour statuer sur la restitution d’un délai (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, t. I, n. 54 ad art. 33 LP ; Erard,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand LP, n. 26
+ad
+art. 33 LP ; Nordmann,
+in
+Staehelin/Bauer/ Staehelin (éd.), Basler Kommentar, SchKG I, n. 15
+ad
+art. 33 SchKG [LP]). Dans le canton de Vaud, il s'agit du président du tribunal d'arrondissement,
+autorité inférieure de surveillance (art. 15 al. 1 et 2 LVLP [loi vaudoise d'application de
+la LP; RSV 280.05]). La cour de céans, autorité cantonale supérieure de surveillance,
+est compétente pour connaître du recours contre toute décision de l'autorité inférieure
+(art. 18 al. 1 LP et 14 al. 1 LVLP ; Nordmann,
+op.
+cit.
+, n. 16
+ad
+art. 33 LP ; JdT 2003 II 64).
+b)
+La procédure qui s'applique à une requête en restitution de délai n'est pas définie
+par l'art. 33 al. 4 LP. Selon la jurisprudence, elle est soumise aux art. 17 ss LVLP en première
+instance et aux art. 28 ss LVLP en deuxième instance (JdT 2003 II 64 précité ; CPF 26
+novembre 2010/31 ; CPF 23 septembre 2010/24 ; CPF 10 juin 2010/12). Cette solution a été
+maintenue après l'entrée en vigueur du Code de procédure civile (CPC; RS 272), le 1
+er
+janvier 2011, et l'abrogation de l'art. 38 al. 2 LVLP et du titre II de cette loi qui traitait des
+dispositions de procédure (CPF 29 janvier 2014/3; CPF 19 août 2011/25). Le CPC n'a en effet
+pas vocation à s'appliquer à ce type de requête (cf. art. 251 CPC a contrario) et il ne
+régit pas la procédure de plainte au sens de l'art. 17 LP, qui reste soumise à cette loi
+et à la LVLP. Le recours contre la décision de l'autorité inférieure statuant sur
+une restitution de délai est donc celui de l'art. 18 LP, dont la procédure est essentiellement
+réglée par les art. 28 ss LVLP (art. 20a al. 3 LP). Cela ne signifie toutefois pas que toutes
+les règles qui régissent la plainte et le recours sur plainte soient automatiquement applicables.
+En particulier, l'art. 20a al. 2 ch. 2 LP concernant la constatation des faits d'office ne s'applique
+pas dans la procédure en restitution de délai (Nordmann,
+op.
+cit.
+, n. 16
+ad
+art. 33 LP). Les faits et moyens de preuve nouveaux sont cependant admissibles (art. 28 al. 4 et 31 al.
+1 LVLP ; CPF 4 juillet 2014/32).
+c)
+En
+l’espèce, le recours a été formé en temps utile, dans le délai de dix
+jours des art. 18 al. 1 LP et 28 al. 1 LVLP. Il comporte des conclusions et l’énoncé
+des moyens invoqués (art. 28 al. 3 LVLP), de sorte qu’il est recevable. Il en va de même
+des pièces nouvelles produites avec le recours (art. 28 al. 4 LVLP).
+Les déterminations de l’intimée sont également recevables (art. 31 al. 1 LVLP).
+III.
+a)
+Objectivement, l'art. 33 al. 4 LP ne s'applique que si le délai à restituer est échu,
+ce qui implique qu'il a valablement couru. Tel n'est pas le cas si la communication de l'acte, à
+compter de laquelle le délai court, est irrégulière. Autrement dit, la restitution d'un
+délai suppose un empêchement d'agir autre qu'une communication irrégulière (Gilliéron,
+op. cit.
+,
+n. 37
+ad
+art. 33 LP ; Erard,
+op.
+cit.
+, n. 19
+ad
+art. 33 LP ; CPF 4 juillet 2014/32 ; CPF 29 janvier 2014/3 ; CPF 16 octobre 2012/44).
+b) ba)
+Forme qualifiée de communication, la notification est destinée à s’assurer qu’un
+acte produisant des effets juridiques a effectivement été porté à la connaissance
+de son destinataire ou d’une personne habilitée, tels que définis aux art. 64 à
+66 LP. Selon ces dispositions, la notification concerne les actes de poursuite, parmi lesquels le commandement
+de payer, dont la communication obéit en outre à des règles particulières (art. 72
+LP ; Jeanneret/Lembo,
+in
+Commentaire romand LP, nn. 3 ss ad art. 64 LP). Selon l’art. 64 al. 1 LP, qui régit la notification
+aux personnes physiques, les actes de poursuites sont notifiés au débiteur dans sa demeure
+ou à l'endroit où il exerce habituellement sa profession. S’il est absent, l’acte
+peut être remis à une personne adulte de son ménage ou à un employé. Celui qui
+procède à la notification d’un commandement de payer atteste sur chaque exemplaire de
+celui-ci le jour où elle a eu lieu et la personne à qui l’acte a été remis
+(art. 72 al. 2 LP).
+bb)
+La demeure du débiteur correspond en principe à la notion de domicile (ATF 110 III 9 consid.
+2, JdT 1987 II 28), qui est le for de la poursuite (art. 46 al. 1 LP).
+Ce domicile est déterminé selon les critères prévus par l'art. 23 al. 1 CC (Code
+civil ; RS 210) et, le cas échéant, par l'art. 20 al. 1 let. a LDIP (loi fédérale
+sur le droit international privé ; RS 291], qui contient la même notion de domicile :
+une personne physique a son domicile au lieu ou dans l'Etat où elle réside avec l'intention
+de s'y établir, ce qui suppose qu'elle fasse du lieu en question le centre de ses intérêts
+personnels et professionnels (TF 5A_335/2013 du 26 septembre 2013 consid. 4.1 ; Gilliéron,
+Poursuite pour dettes, faillite et concordat, 5
+e
+éd., 2012, n° 375 et la jurisprudence citée ; TF 5A_870/2010 du 15 mars 2011
+consid. 3.1 ; TF 5A_161/2009 du 23 avril 2009 consid. 4.3 ; TF 7B.241/2003 du 8 janvier 2004
+consid. 4 ; TF 7B.207/2003 du 25 septembre 2003 consid. 3). Pour savoir quel est le domicile d'une
+personne, il faut tenir compte de l'ensemble de ses conditions de vie, le centre de son existence se
+trouvant à l'endroit, lieu ou pays, où se focalisent un maximum d'éléments concernant
+sa vie personnelle, sociale et professionnelle, de sorte que l'intensité des liens avec ce centre
+l'emporte sur les liens existant avec d'autres endroits (TF 7B.207/2003 précité ; ATF
+125 III 100 consid. 3).
+Le lieu où la personne réside et son intention de s'établir constituent des questions
+de fait, étant rappelé que la jurisprudence ne se fonde pas sur la volonté intime de l'intéressé,
+mais sur l'intention manifestée objectivement et reconnaissable pour les tiers (ATF 120 III 7 consid.
+2a ; 119 II 64 consid. 2b/bb ; TF 7B.241/2003 précité ; TF 7B.207/2003 précité).
+Lorsqu'il s'agit de déterminer le domicile d'une personne, le lieu indiqué par celle-ci n'est
+pas toujours décisif. Il faut, au contraire, se fonder sur l'endroit que sa conduite effective désigne
+comme le centre de ses intérêts personnels et professionnels. Une personne qui séjourne
+à l'étranger peut avoir un domicile en Suisse lorsqu'elle a dans ce pays le centre de son existence,
+de ses relations, de ses intérêts idéaux et matériels, et de sa vie domestique, l'établissement
+de la famille jouant à cet égard un rôle important. En revanche, les permis d'établissement
+ou de séjour, le dépôt des papiers et l'exercice des droits politiques ne sont pas déterminants
+à eux seuls. Lorsqu'une personne séjourne en deux endroits différents et qu'elle a des
+relations avec ces deux endroits, le domicile se trouve au lieu avec lequel elle a les relations les
+plus étroites, compte tenu de l'ensemble des circonstances (TF 7B.241/2003 précité ;
+ATF 125 III 100 consid. 3 précité ; 120 III 7 précité, consid. 2b et les références
+citées ; TF 2A.393/1999 du 28 janvier 2000 consid. 3 ; TF 2A.118/1993 du 13 février
+1995, publié in Archives 64 p. 401, consid. 3 p. 405 s.). Dans ce dernier arrêt, le Tribunal
+fédéral a qualifié de secondaire la location d'un appartement à l'étranger,
+même associée à un dépôt des papiers, au vu de la poursuite de l'activité
+professionnelle de l'intéressé en Suisse, telle qu'elle ressortait du dossier. Dans l’arrêt
+7B.207/2003 (consid. 3), le Tribunal fédéral a confirmé l’appréciation de l’instance
+cantonale selon laquelle la constitution d'un nouveau domicile ne pouvait résulter de la seule déclaration
+faite à l'Office cantonal de la population. Il a jugé en effet qu’il s’agissait
+d'un simple indice qui devait encore être conforté par des faits manifestant de façon
+objective et reconnaissable pour les tiers la volonté du débiteur de rester momentanément
+dans une ville étrangère et de faire de cette ville, même pour un temps limité, le
+centre de ses relations et de ses intérêts, le centre de gravité de son existence.
+Enfin, le fardeau de la preuve d’un changement de domicile incombe à la partie qui s’en
+prévaut soit, en matière de poursuite, au débiteur poursuivi qui invoque qu’il s’est
+constitué un nouveau domicile (art. 8 CC ; TF 7B.207/2003 précité, consid. 3.3 et
+les réf. cit.).
+bc)
+Fondamentalement, l’acte de poursuite
+doit donc être remis personnellement au débiteur, dont il faut s’assurer qu’il
+est, à tout le moins, placé en situation de pouvoir prendre connaissance de l’acte (Jeanneret/Lembo,
+op. cit.
+,
+n. 18
+ad
+art. 64 LP).
+L’acte de poursuite peut aussi être notifié à un représentant conventionnel
+du débiteur, pour autant que celui-ci ait été expressément habilité à recevoir
+des actes de poursuite pour le compte du débiteur : une procuration ayant pour but de permettre
+de retirer les courriers, y compris recommandés, adressés au poursuivi pendant son absence
+est à cet égard insuffisante (TF 5A_777/2011 du 7 février 2012 consid. 3.2.3 et les
+réf. cit. ; dans cette affaire, le commandement de payer avait été remis au guichet
+de la poste à un cousin du poursuivi, au bénéfice d'une procuration pour retirer le courrier).
+Si le débiteur est absent, et qu'il s'agit d'une absence provisoire, c'est-à-dire que le destinataire
+a quitté sa demeure ou son lieu de travail avec l'intention d'y revenir (Gilliéron, Commentaire
+précité, n. 20
+ad
+art. 64 LP), l'acte peut être notifié à une personne adulte de son ménage ou à
+un employé (art. 64 al. 1, 2e phrase, LP). Par personne adulte du ménage du destinataire, il
+faut entendre toute personne qui vit avec le destinataire et qui, peu importe à quel titre, fait
+partie de son économie domestique (Gilliéron,
+op.
+cit.
+, n. 22
+ad
+art. 64 LP). Une personne fait partie du ménage du débiteur lorsqu’elle forme avec lui
+une communauté domestique (TF 5A_777/2011 précité, consid. 3.2.1). La personne adulte
+du ménage du poursuivi, à qui l’acte peut être remis selon l’art. 64 al. 2
+LP peut, mais ne doit pas nécessairement être un membre de la famille. Dans tous les cas, il
+est exigé que cette personne habite dans le même ménage que le poursuivi (TF 5A_48/2016
+du 15 mars 2016 consid. 3.1 et 3.2 ; TF 5A_777/2011,
+loc.
+cit.
+). Est ainsi une personne appartenant au ménage
+du débiteur le logeur de celui qui y prend chambre et pension (ATF 117 II 5 consid. 1, JdT 1992
+II 31). En revanche, le sous-locataire, le bailleur, respectivement le locataire d’une chambre
+- qui n'est pas pensionnaire -, le membre de la famille de passage pour quelques jours de vacances ou
+le conjoint séparé ne sont pas des personnes appartenant au ménage du débiteur (Jeanneret/Lembo,
+op. cit.
+,
+n. 24
+ad
+art. 64 LP et les réf. cit., not. ATF 117 III 5, JdT 1992 II 31; TF 5A_48/2016,
+loc.
+cit.
+; TF 5A_777/2011,
+loc.
+cit.
+).
+La preuve de la notification est rapportée par le procès-verbal instrumenté par l'agent
+notificateur qui constitue un titre public. Le débiteur dispose cependant de la faculté de
+rapporter la preuve du contraire. Si le procès-verbal est lacunaire ou en cas de contestation, c’est
+l’office des poursuites concerné qui supporte en première ligne le fardeau de la preuve
+de la notification régulière (Jeanneret/Lembo,
+op.
+cit.
+, n. 16
+ad
+art. 64 LP et les réf. cit., not. ATF 117 III 10, JdT 1993 II 130).
+c)
+Dans son recours, le recourant allègue qu’il vit séparé de son épouse depuis
+le 26 mai 2015, le domicile conjugal chemin [...] 10 à S[...] ayant été attribué
+à cette dernière. Il soutient qu’il séjournerait depuis lors dans l’un de
+ses studios à V[...], chemin [...] 30, et qu’il aurait élu domicile chez des amis, au
+chemin [...] 7 à S[...] uniquement pour y recevoir son courrier et ce depuis le 21 septembre 2015,
+mais qu’il ne résiderait pas à cette adresse.
+Il se prévaut essentiellement d’un passage de l’ordonnance de mesures protectrices du
+15 janvier 2016, qui mentionne, en page 2, que « bien qu’il n’ait pas annoncé
+son changement d’adresse, C.________ habite à V[...] dans l’un des appartements dont
+il est propriétaire ».
+L’attestation d’établissement de l’Office de la population de S[...] qu’il
+produit par ailleurs mentionne qu’il est inscrit en statut de domicile principal dans cette commune
+depuis le 27 novembre 2012, avec comme adresse actuelle « c/o A.J.________, chemin [...] 7 »,
+et qu’il « a résidé du 27.11.2012 au 21.09.2015 à chemin [...] 10 ».
+Interrogé à l’audience du 13 septembre 2016, l’intéressé a déclaré
+qu’à l’époque de la notification du commandement de payer, il partageait son temps
+entre S[...] et V[...], qu’à S[...], il vivait chez une famille d’amis, que, pour les
+autorités il donnait l’adresse de S[...] et qu’il était convenu avec la famille
+qui l’hébergeait qu’elle conserve son courrier jusqu’à son retour ;
+il a admis qu’il donnait aux autorités comme lieu de domicile S[...].
+Dès lors qu’au moment de la notification du commandement de payer, le recourant partageait
+son temps entre V[...] et S[...], tout en donnant aux autorités comme lieu de domicile S[...], commune
+dans laquelle il avait administrativement déposé ses papiers, on doit retenir qu’il avait
+bien son domicile dans cette commune, le passage de l’ordonnance de mesures protectrices dont il
+se prévaut n’apparaissant pas décisif au regard des autres éléments du dossier.
+De même, le fait que l’avocat de l’intimée lui ait envoyé sa lettre du 11 avril
+2016 à l’adresse de V[...] n’est pas pertinent, étant observé que cette lettre
+lui a été également adressée à S[...]. Le commandement de payer a dès lors
+bien été notifié dans la demeure du débiteur.
+d)
+Le recourant conteste former une communauté domestique avec la famille J.________. Il doit cependant
+se laisser opposer ses déclarations spontanées en première instance, selon lesquelles
+il vivait chez une famille d’amis qui l’hébergeait et à qui il avait demandé
+de recevoir son courrier. Sa situation se distingue ainsi de manière décisive de celle d’un
+sous-locataire ou du locataire d’une chambre sans pension. Il apparaît au contraire qu’en
+tout cas à l’époque de la notification du commandement de payer et, plus tard encore,
+de l’audience de première instance, il vivait en ménage commun durable avec la famille
+J.________ en raison des liens d’amitié qui les lient et faisait ainsi partie de la même
+économie domestique, étant par ailleurs relevé qu’il n’est pas allégué
+qu’il aurait payé un loyer pour son hébergement.
+La notification à B.J.________, qui faisait partie du ménage du destinataire, était ainsi
+régulière, sans qu’il soit nécessaire d’examiner plus avant si cette personne
+était également conventionnellement habilitée à recevoir la notification du commandement
+de payer.
+IV.
+a)
+Selon l'art. 33 al. 4 LP, quiconque a été empêché sans sa faute d'agir dans le délai
+fixé peut demander à l'autorité de surveillance ou à l'autorité judiciaire compétente
+qu'elle lui restitue ce délai. L'intéressé doit, à compter de la fin de l'empêchement,
+déposer une requête motivée dans un délai égal au délai échu et accomplir
+auprès de l'autorité compétente l'acte juridique omis.
+La restitution de délai ne peut être accordée que si l’empêchement n’est
+entaché d’aucune faute (TF 5A_30/2010 du 23 mars 2010 consid. 2.1). Il faut entendre par empêchement
+non fautif, non seulement l'impossibilité objective d'agir dans le délai ou de se faire représenter
+à cette fin, mais aussi l'impossibilité subjective due à des circonstances personnelles
+ou à une erreur excusable (TF 5A_149/2013 du 10 juin 2013 consid. 5.1.1 ; TF 5A_896/2012 du
+10 janvier 2013 consid. 3.2 et les réf. cit. ; TF 5A_30/2010 précité, consid. 4.1 ;
+TF 2C_319/2009 du 26 janvier 2010 consid. 4.1, non publié
+in
+ATF 136 II 241). En d'autres termes, est non fautive toute circonstance qui aurait empêché
+un plaideur consciencieux d'agir dans le délai fixé (ATF 119 II 86 consid. 2a ; TF 2C_734/2012
+du 25 mars 2013 consid. 3.3 et les réf. cit.). De manière générale, constituent un
+empêchement non fautif une incapacité passagère de discernement, un accident, une maladie
+subite et grave, le service militaire, un renseignement erroné donné par l'autorité (Erard,
+op. cit.
+,
+nn. 21 et 22
+a
+d
+art. 33 LP ; CPF 11 juillet 2016/156).
+En outre, il n'y a pas de restitution du délai lorsque l'inobservation de celui-ci est due à
+une faute d'un employé ou d'un auxiliaire de la partie ou de son mandataire, quand bien même
+cet employé ou auxiliaire aurait reçu des instructions claires et que la partie ou le mandataire
+aurait satisfait à son devoir de diligence. Une pratique plus souple pourrait pousser les parties
+à multiplier les auxiliaires afin de s'exonérer de leur responsabilité quant à l'observation
+des délais judiciaires. Par ailleurs, l'application des motifs exonérant la responsabilité
+de l'employeur selon l'art. 55 CO est exclue (TF 5A_30/2010 du 23 mars 2010 consid. 4.1).
+Il y a faute du débiteur lorsqu’il n’informe pas les personnes de son entourage qu’il
+est susceptible de faire l’objet de poursuites et ne les instruit pas sur la conduite à tenir
+en cas de notification d’un commandement de payer (Peter, Edition annotée de la loi fédérale
+sur la poursuite pour dettes et la faillite, ch. IV let. C
+ad
+art. 33 LP ; BlSchK 2004 p. 93).
+b)
+En
+l’espèce, le premier juge a considéré que, sachant qu’en raison de son travail
+il était appelé à s’absenter fréquemment de son domicile, le requérant
+devait donner des instructions à la famille qui l’hébergeait concernant le traitement
+de son courrier, l’instruction donnée de « conserver son courrier jusqu’à
+son retour » n’étant manifestement pas suffisante. En outre, compte tenu des termes
+clairs et précis de la lettre de l’intimée du 11 avril 2016 qu’il admettait avoir
+reçue, le requérant ne pouvait ignorer qu’une procédure de recouvrement allait être
+introduite contre lui. Ces considérations sont pertinentes et peuvent être confirmées.
+Le recourant devait instruire la famille J.________ sur le comportement à adopter en cas de notification
+d’un commandement de payer, notification à laquelle il devait s’attendre au vu du contenu
+de la lettre du 11 avril 2016 (
+«
+Should any amount remain overdue after the above-mentioned
+10 days’ deadline expiry, ISL would have no alternative but to instigate all appropriate proceedings
+including enforcement requests with no other notice to you
+»
+).
+Il fait valoir qu’il s’attendait plutôt à une réponse à son courriel
+du 19 avril 2016. Toutefois, ne recevant aucune réponse après plus de dix jours, il devait
+bien se rendre compte que l’intimée maintenait sa position et qu’elle allait agir comme
+elle l’en avait averti en intentant une poursuite contre lui. Il importe peu à cet égard
+que le recourant n’ait jusqu’alors jamais reçu un commandement de payer. Par ailleurs,
+il ne prétend pas que B.J.________ n’aurait pas été en mesure de l’informer
+de la notification de cet acte, par exemple par téléphone ou par courriel. L’empêchement
+invoqué est dès lors fautif et le rejet de la requête de restitution de délai justifié.
+V.
+Vu ce qui précède, le recours doit être rejeté et le prononcé de l’autorité
+inférieure de surveillance confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS
+281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Jean-Marc Reymond, avocat (pour C.________),
+‑
+Me Florian Chaudet, avocat (pour U.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
