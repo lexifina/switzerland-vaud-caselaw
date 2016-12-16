@@ -1,0 +1,138 @@
+---
+decision_id: "vd_findinfo_Faillite___2016___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2016 / 37"
+decided: "2016-12-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5869432"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-118.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-121.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Faillite / 2016 / 37
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE, DÉFENSE D'OFFICE | 118 CPC (CH), 121 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.12.2016 Faillite / 2016 / 37
+
+ASSISTANCE JUDICIAIRE, DÉFENSE D'OFFICE | 118 CPC (CH), 121 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FV16.040747/AJ16.003175-162135
+383
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 décembre 2016
+______________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+M.
+Colombini et Mme Byrde, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+118 et 121 CPC
+Vu la requête déposée le 15 septembre 2016 par
+R.________
+,
+à Lausanne, sous la plume de son conseil de choix, l’agent d’affaires breveté X.________,
+concluant à l’octroi d’un sursis concordataire provisoire de quatre mois et à la
+nomination de l’agent d’affaires breveté S.________ comme commissaire provisoire au
+sursis,
+vu la décision rendue le 15 septembre 2016 par la Présidente du Tribunal d’arrondissement
+de Lausanne, accordant à R.________ un sursis provisoire de quatre mois et désignant S.________
+en qualité de commissaire provisoire,
+vu la demande de récusation du commissaire provisoire au sursis et la demande d’assistance
+judiciaire déposées le 21 octobre 2016 par R.________, agissant seule,
+vu la résiliation du mandat de son conseil X.________, par R.________, le 24 octobre 2016,
+vu la décision rendue le 25 novembre 2016 par la Présidente du Tribunal d’arrondissement
+de Lausanne, accordant à R.________, dans la cause en sursis concordataire, le bénéfice
+de l’ass
+istance judiciaire
+comprenant l’exonération d’avances et de frais judiciaires, avec effet au 15 septembre
+2016, la bénéficiaire étant astreinte au paiement d’une franchise mensuelle de 50
+fr.,
+vu le recours formé le 13 décembre 2016 contre cette décision par R.________, sous la
+plume de son nouveau conseil, concluant, avec suite de frais et dépens, à l’annulation
+de la décision et à ce qu’il soit dit que la recourante a droit à l’assistance
+juridique d’un mandataire dans le cadre de la procédure de sursis concordataire, ainsi qu’à
+l’octroi de l’assistance judiciaire dans la présente procédure de recours ;
+attendu que les décisions refusant ou retirant totalement ou partiellement l’assistance judiciaire
+peuvent faire l’objet d’un recours (art. 121 CPC [Code de procédure civile ; RS
+272]),
+que la décision attaquée, adressée pour notification à la recourante en courrier
+recommandé le 25 novembre 2016, est censée lui avoir été notifiée à
+l’échéance du délai de garde de sept jours (art. 138 al. 3 let. a CPC), soit le
+3 décembre 2016,
+que le recours, posté le 13 décembre 2016, a été déposé en temps utile
+(art. 321 al. 2 CPC),
+qu’il répond en outre aux exigences formelles de l’art. 321 al. 1 CPC,
+qu’il est ainsi recevable ;
+attendu qu’une personne a droit à l’assistance judiciaire si elle ne dispose pas de
+ressources suffisantes et si sa cause ne paraît pas dépourvue de chance de succès (art.
+117 CPC),
+que l’assistance judiciaire comprend l’exonération d’avances et de sûretés,
+l’exonération des frais judiciaires et la commission d’un conseil juridique par le tribunal
+lorsque la défense des droits du requérant l’exige, en particulier, lorsque la partie
+adverse est assistée d’un avocat (art. 118 al. 1 CPC),
+que l’assistance judiciaire peut être accordée totalement ou partiellement (art. 118
+al. 2 CPC),
+qu’en l’espèce, le premier juge n’a pas accordé à la recourante la commission
+d’un conseil d’office, considérant qu’elle avait eu un conseil, dont elle avait
+résilié le mandat en invoquant l’existence d’un conflit d’intérêt,
+mais sans donner plus de justification, et qu’elle paraissait en outre capable de procéder
+seule à la défense de ses intérêts,
+que ces motifs sont convaincants et peuvent être confirmés,
+qu’au demeurant, la cause de la recourante était vouée à l’échec, pour
+les motifs exposés dans l’arrêt rendu sur le fond le 9 décembre 2016,
+que le recours doit par conséquent être rejeté,
+que, vu le sort du recours, qui paraissait d’emblée dépourvu de toute chance de succès,
+la recourante n’a pas droit à l’assistance judiciaire pour la procédure de deuxième
+instance (art. 117 let. b CPC),
+que le présent arrêt est rendu sans frais (art. 119 al. 6 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La requête d’assistance judiciaire est rejetée.
+III.
+La décision est confirmée.
+IV.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me David Métille, avocat (pour R.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
