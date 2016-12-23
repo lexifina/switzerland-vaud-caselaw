@@ -1,0 +1,480 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 1"
+decided: "2016-12-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5890134"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/311.0/art-093.md", "switzerland/bund/acts/311.0/art-095.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-026.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2017 / 1
+
+## Regeste
+
+DIRECTIVE{INJONCTION}, MODIFICATION{EN GÉNÉRAL}, LIBÉRATION CONDITIONNELLE, EXÉCUTION DES PEINES ET DES MESURES | 95 al. 4 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 23.12.2016 Décision / 2017 / 1
+
+DIRECTIVE{INJONCTION}, MODIFICATION{EN GÉNÉRAL}, LIBÉRATION CONDITIONNELLE, EXÉCUTION DES PEINES ET DES MESURES | 95 al. 4 CP
+
+TRIBUNAL
+CANTONAL
+880
+AP16.020657-GRV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+23 décembre 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+26 al. 1 let. d et 38 LEP ; 393 al. 1 let. c CPP ; 95 CP
+Statuant sur le recours interjeté le 28 novembre 2016 par
+L.________
+contre l’ordonnance rendue le 14 novembre 2016 par le Juge d’application des peines dans
+la cause
+n° AP16.020657-GRV
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 28 mai 2008, le Tribunal correctionnel de l’arrondissement de Lausanne a condamné
+L.________, pour tentative de meurtre, à une peine privative de liberté de deux ans, sous déduction
+de 386 jours de détention avant jugement, et a révoqué le sursis à la peine de 20
+jours d’emprisonnement prononcée le 2 mars 2006 par le Juge d’instruction de l’arrondissement
+de Lausanne pour contravention à la LStup (Loi fédérale sur les stupéfiants ;
+RS 812.121). Le Tribunal correctionnel a, par ailleurs, ordonné que le condamné soit soumis
+à une mesure thérapeutique institutionnelle au sens de l’art. 59 CP.
+b)
+L’intéressé a exécuté sa mesure aux Etablissements de la plaine de l’Orbe
+avant d’être transféré au sein de l’EMS K.________, à [...], le 10 avril
+2013. Depuis le 1
+er
+mai 2015, il a bénéficié du régime de travail externe. Dès le 1
+er
+mars
+2016, le régime du travail et du logement externe lui a été concédé et il a
+été transféré dans un appartement protégé supervisé par la Direction
+de l’EMS K.________.
+c)
+L.________ a fait l’objet de plusieurs expertises psychiatriques.
+Dans un rapport du 1
+er
+novembre 2007, les Dr D.________ et R.________ ont diagnostiqué chez le prénommé un retard
+mental léger à moyen (QI = 49), associé à une schizophrénie paranoïde continue.
+Selon les experts, la comorbidité de ces deux troubles, d’une gravité sévère,
+compromettait la compréhension des événements et des circonstances et altérait la
+perception de soi et d’autrui avec, pour conséquence, une gestion défaillante des émotions
+et des pulsions. Le risque de récidive était non négligeable et l’intéressé
+était susceptible de commettre de nouvelles infractions. Ce risque reposait sur des antécédents
+d’agressivité, sur la gravité des gestes commis ainsi que sur la reconnaissance spontanée
+des difficultés liée à la gestion de la violence et des débordements émotionnels
+par le condamné.
+Les experts ont actualisé leur rapport le 5 février 2010. Ils ont modifié le diagnostic
+dans le sens d’une schizophrénie paranoïde en rémission partielle et d’un
+retard mental léger. Ils ont estimé que la critique du condamné à l’égard
+de ses actes hétéro-agressifs demeurait partielle, si bien que le risque de récidive,
+même s’il était diminué par rapport au passé, ne pouvait être exclu formellement,
+particulièrement en cas d’une nouvelle décompensation symptomatique.
+Dans son rapport du 18 novembre 2014, le Dr M.________ a diagnostiqué chez le condamné une
+schizophrénie paranoïde en rémission partielle ainsi qu’un retard mental léger.
+S’agissant de la schizophrénie, il a observé une bonne évolution avec une faible
+dose de traitement. Il a précisé que la comorbidité représentée par le retard
+mental léger et la pathologie psychotique avait représenté un facteur de risque certain
+s’agissant de la récidive. Le facteur de risque principal paraissait toutefois résider
+dans l’environnement social – alors favorable – du condamné, en raison de la présence
+d’une famille qui le soutenait et de l’accompagnement thérapeutique et socio-éducatif
+dont il bénéficiait. L’expert a estimé que le condamné avait bien intégré
+le caractère inacceptable des comportements violents ainsi que son besoin d’aide et d’encadrement,
+de telle sorte que le risque de récidive était faible dans l’immédiat et qu’il
+devait le rester moyennant la mise en place d’un « accompagnement psycho-éducatif
+soutenant ».
+d)
+Par ordonnance du 6 juin 2016, le Juge d’application des peines, donnant suite à la proposition
+de l’Office d’exécution des peines (OEP) du 14 avril 2016, a libéré conditionnellement
+L.________ de la mesure thérapeutique institutionnelle ordonnée par jugement du Tribunal correctionnel
+de l’arrondissement de Lausanne du 28 mai 2008, a fixé le délai d’épreuve
+à deux ans et a ordonné, à titre de règle de conduite, que L.________ poursuive une
+prise en charge thérapeutique comprenant une prise régulière de la médication prescrite,
+pendant la durée du délai d’épreuve, qu’il continue à résider en
+appartements protégés pour une durée de six mois, ensuite de quoi son placement pourrait
+avoir lieu sur un mode volontaire en concertation avec la Direction des appartements protégés
+où il aurait résidé et qu’il respecte les directives de ses thérapeutes et
+de sa curatrice, également pendant le délai d’épreuve.
+Le Juge d’application des peines a retenu en substance, en se fondant en particulier sur le rapport
+des rencontres interdisciplinaires du 17 février 2016, que les objectifs qui avaient été
+fixés à L.________, même s’il les avait atteints, étaient pour lui une source
+de stress et risquaient, partant, de provoquer une certaine irritabilité ainsi que des difficultés
+à gérer ses frustrations, ce qui pouvait favoriser la récidive. Il convenait ainsi de
+maintenir une surveillance thérapeutique. Par ailleurs, la Direction de l’EMS K.________ avait
+constaté des signes de décompensation à la fin de l’année 2015, auxquels il
+fallait rester attentif. Quant à la curatrice du condamné, elle avait également préconisé
+le maintien du cadre thérapeutique.
+e)
+Par
+décision d’application du 9 août 2016, l’Office d’exécution des peines
+(OEP) a confié les mandats médico-légaux liés à l’ordonnance du Juge d’application
+des peines du 6 juin 2016 à la Fondation K.________, à [...], concernant le maintien du lieu
+de vie de L.________, ainsi qu’à la Dresse H.________, médecin psychiatre, s’agissant
+du suivi ambulatoire.
+f)
+Dans leur rapport du 3 octobre 2016, la Dresse H.________ et S.________, Directeur de la Fondation K.________,
+ont relevé que le condamné, même s’il avait montré sa volonté de progresser,
+n’avait que très peu conscience de sa maladie, avait des capacités d’élaboration
+très restreintes qui le freinaient dans sa possibilité d’apprentissage de mesures préventives
+et que ses capacités à prévenir la rechute existaient actuellement grâce au traitement
+intégré qui était ordonné, où médecin psychiatre, équipe éducative,
+infirmière et curatrice le soutenaient et l’encadraient. Ils ont estimé que ce suivi,
+pour donner une chance au condamné de s’insérer sans rechute ni risque de récidive,
+devait être fait par paliers, en garantissant ainsi une certaine sécurité par une vérification
+régulière et une consolidation des acquis. Ainsi, compte tenu des capacités d’adaptation
+limitées de L.________, les étapes nécessaires avant l’élargissement du cadre
+en milieu non-protégé devraient se succéder progressivement et couvrir les deux ans de
+mise à l’épreuve.
+En conséquence, la Dresse H.________ et S.________ ont proposé d’étendre l’ordonnance
+de suivi en appartements protégés à l’EMS K.________ jusqu’à la fin de
+la mesure thérapeutique institutionnelle.
+B.
+a)
+Le 17 octobre 2016, l’OEP a saisi le
+Juge d’application des peines d’une proposition tendant à la modification de la règle
+de conduite assortissant la libération conditionnelle accordée à L.________, dans le sens
+d’une poursuite de l’obligation faite à ce dernier de résider en appartements protégés
+ou dans tout autre logement agréé par l’OEP jusqu’au terme du délai d’épreuve.
+L’OEP a relevé qu’au cours d’une rencontre interdisciplinaire, le 28 septembre
+2016, l’ensemble des intervenants avaient souligné la nécessité pour le condamné
+de maintenir son lieu de vie à l’EMS K.________ durant toute la durée du délai d’épreuve.
+Il s’est également référé au rapport établi le 3 octobre 2016 par la Dresse
+H.________ et S.________.
+b)
+Lors de son audition, le 25 octobre 2016, par le Juge d’application des peines, L.________ a expliqué
+que le fait de résider dans un appartement protégé ne lui permettait pas de faire tout
+ce qu’il voulait, qu’il devait faire des demandes chaque fois qu’il avait l’intention
+de sortir et qu’il ne pouvait pas partir à l’étranger, ce qui l’empêchait
+de refaire en France son passeport sénégalais. Il ne comprenait pas pourquoi il devait rester
+dans ce foyer, alors que tout se passait bien depuis sa libération conditionnelle et qu’il
+avait évolué dans le bon sens. Il a indiqué qu’il avait la possibilité d’aller
+vivre chez son frère, qui occupait un appartement de trois pièces avec son épouse, en
+attendant de trouver son propre appartement. S’agissant de sa situation financière, le condamné
+a précisé qu’il avait des dettes et qu’il savait que, dans ces conditions, il était
+difficile de trouver un logement.
+Quant à sa maladie, L.________ a déclaré qu’il parvenait à la gérer sans
+mettre en danger la vie d’autrui et qu’il avait compris qu’il devait scrupuleusement
+suivre son traitement.
+Sur le plan professionnel, L.________ a indiqué qu’il était actuellement au chômage,
+mais qu’il effectuait tous les jours des recherches d’emploi, précisant qu’il
+allait être prochainement engagé à l’essai pendant trois mois par la société
+[...] SA.
+c)
+Par ordonnance du 14 novembre 2016, le Juge d’application des peines a modifié la règle
+de conduite assortissant la libération conditionnelle accordée à L.________ le 6 juin
+2016, en ce sens qu’il est ordonné que le condamné continue de résider en appartements
+protégés ou dans tout autre logement agréé par l’Office d’exécution
+des peines jusqu’au terme du délai d’épreuve (I) et a laissé les frais à
+la charge de l’Etat (II).
+Le Juge d’application des peines a considéré qu’en raison de la gravité des
+faits pour lesquels L.________ avait été condamné, il convenait de se montrer particulièrement
+prudent quant à un éventuel élargissement du cadre. Par ailleurs, l’intéressé
+n’avait, malgré ses dires, pas entièrement pris conscience de sa maladie et des difficultés
+qu’il pouvait éprouver dans la vie quotidienne. En raison de sa situation financière,
+le succès de ses projets d’avenir était compromis. Dans de telles conditions, ses chances
+de trouver un logement sur le marché de la location étaient pour ainsi dire nulles. Suivant
+en cela la proposition formulée par l’OEP, la Dresse H.________ et la Direction de l’EMS
+K.________, le Juge d’application des peines a estimé qu’il était nécessaire
+que les allègements dans le suivi du condamné aient lieu de manière progressive, afin
+que sa réinsertion puisse s’opérer dans les meilleures conditions possibles, sans rechute
+ni risque de récidive. Dans ces circonstances, l’intérêt à la sécurité
+publique devait l’emporter sur la liberté personnelle du condamné.
+C.
+Le 28 novembre 2016, L.________ a recouru contre cette ordonnance devant le Chambre des recours pénale
+en concluant, avec suite de frais et dépens, principalement à sa réforme en ce sens que
+les règles de conduite assortissant la libération conditionnelle accordée le 6 juin 2016
+ne soient pas modifiées, subsidiairement à son annulation, le dossier de la cause étant
+renvoyé à l’autorité compétente pour nouvelle instruction et nouvel examen
+dans le sens des considérants.
+Le recourant a également requis que l’avocate Adrienne Favre lui soit désignée en
+qualité de défenseur d’office, à compter du 22 novembre 2016.
+Par avis du 9 décembre 2016, un délai au 19 décembre 2016 a été imparti au Juge
+d’application des peines, au Ministère public central et à l’Office d’exécution
+des peines pour déposer d’éventuelles déterminations.
+Seuls le Juge d’application des peines et le Ministère public central ont répondu à
+cet avis en indiquant qu’ils renonçaient à faire usage de la faculté qui leur était
+offerte.
+En droit
+:
+1.
+1.1
+L'art. 26 al. 1 let. d LEP (loi sur l'exécution
+des condamnations pénales du 4 juillet 2006 ; RSV 340.01) dispose que, en tant que juge de
+la libération conditionnelle, le juge d’application des peines est notamment compétent
+pour se prononcer sur la prolongation du délai d’épreuve, la levée de l’assistance
+de probation ou la nécessité d’en ordonner une nouvelle, la modification les règles
+de conduite imposées, leur révocation ou la nécessité d’en imposer de nouvelles
+(art. 95 al. 4 CP).
+En vertu de l’art. 38 al. 1 LEP, les décisions rendues par le juge d'application des peines
+et par le collège des juges d'application des peines peuvent faire l'objet d'un recours auprès
+du Tribunal cantonal. La procédure est régie par les dispositions du CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours, par renvoi de l’art.
+38 al. 2 LEP.
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale (art. 13 LVCPP
+[Loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009 ;
+RSV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12 décembre 1979 ; RSV
+173.01]).
+1.2
+Interjeté en temps utile par le condamné qui a qualité pour recourir au sens de l’art.
+382 al. 1 CPP et dans les formes prescrites par la loi, le recours est recevable.
+2.
+2.1
+Invoquant une violation de l’art. 95 al.
+3 et 4 CP, le recourant fait valoir que l’écrit de la Direction de l’EMS K.________
+du 3 octobre 2016 à l’OEP ne fait état d’aucune violation des règles de conduite
+ordonnées le 6 juin 2016 et qu’il n’apporte en outre aucun élément nouveau
+par rapport à ceux que le Juge d’application des peines avait pris en considération dans
+son ordonnance du 6 juin 2016. Le recourant soutient qu’il n’y avait par conséquent
+aucune circonstance nouvelle qui pouvait justifier la modification des règles de conduite à
+son détriment.
+2.2
+2.2.1
+Selon l'art. 95 al. 3 CP, si le condamné viole les règles de conduite ou si l'assistance de
+probation ou les règles de conduite ne peuvent plus être exécutées ou ne sont plus
+nécessaires, l'autorité compétente présente un rapport au juge ou à l'autorité
+d'exécution. Dans les cas prévus à l'al. 3, le juge ou l'autorité d'exécution
+peut prolonger le délai d'épreuve jusqu'à concurrence de la moitié de sa durée,
+lever l'assistance de probation ou en ordonner une nouvelle, ou encore modifier les règles de conduite,
+les révoquer ou en imposer de nouvelles (art. 95 al. 4 let. a à c CP). Le juge peut aussi révoquer
+le sursis ou ordonner la réintégration dans l'exécution de la peine ou de la mesure s'il
+est sérieusement à craindre que le condamné ne commette de nouvelles infractions (art.
+95 al. 5 CP).
+Le comportement adopté qui consiste à se soustraire à l'assistance de probation ou à
+violer les règles de conduite doit être de nature à remettre en question le pronostic
+favorable posé au moment du prononcé de la mesure d'accompagnement. Il convient dès lors
+d'examiner d'une part les agissements de l'intéressé d'un point de vue objectif et d'autre
+part d'en mesurer la portée à la lumière de la finalité de la mesure ambulatoire
+d'accompagnement. Au plan des faits, l'inobservation peut être retenue en présence d'un refus
+répété de rencontrer l'agent de probation, d'une rupture inexpliquée et unilatérale
+d'un suivi thérapeutique, de l'abandon sans raison d'un emploi sans recherche d'un nouveau travail,
+d'un mépris affiché des avertissements de l'autorité d'application de la mesure, de la
+violation à réitérées reprises d'une règle de conduite malgré des rappels
+à l'ordre. Tout écart de conduite ne s'analyse cependant pas comme une insoumission. Il convient
+de considérer l'attitude du condamné consécutive à son manquement : l'analyse sera
+différente selon qu'il reconnaît sa faute ou en tire des enseignements, ou qu'il nie ou minimise
+les faits. A lui seul le comportement du condamné ne suffit cependant pas à conclure à
+une insoumission. Encore faut-il que la finalité de la mesure ambulatoire d'accompagnement apparaisse
+compromise, par exemple parce que le risque de récidive persiste ou s'aggrave (Perrin, Commentaire
+romand, Code pénal I, 2009, n. 16 ad art. 95 CP ; TF 6B_425/2013 du 25 juillet 2013, consid.
+2.1).
+En cas d'échec de la mesure, le principe de proportionnalité commande d'envisager prioritairement
+son réaménagement au sens de l'art. 95 al. 4 CP et seulement subsidiairement la révocation
+du sursis, respectivement la réintégration dans l'exécution de la peine ou de la mesure
+selon l'art. 95 al. 5 CP qui subordonne son application à la réalisation d'un risque sérieux
+de récidive (cf. Perrin, op. cit., nn. 18-20 ad art. 95 CP). Le juge doit faire preuve de retenue
+dans le prononcé de la réintégration. L'insoumission constitue, au plus, un indice de
+récidive. En se fondant sur le rapport social (art. 95 al. 3 CP), le juge doit d'office instruire
+la question de savoir si, au delà d'une insoumission à une mesure ambulatoire d'accompagnement,
+l'intéressé se trouve dans une situation dont on doit inférer qu'elle le conduira, très
+vraisemblablement, à retomber dans la délinquance (Perrin, op. cit, n. 21 art. 95 CP n°
+21 ; Trechsel/Aebsersold, Schweizerisches Strafgesetzbuch, Praxiskommentar, 2013, n. 10 art. 95 CP; Andrea
+Baechtold, Basler Kommentar, Strafrecht I, 2007, art. nn. 8-9 ad 95 CP). De l'avis du Conseil fédéral
+cette
+ultima ratio
+ne
+se conçoit qu'en dernière extrémité lorsque, pour une raison quelconque, la situation
+du condamné s'est détériorée au point que seule l'exécution de la peine semble,
+selon toute probabilité, la sanction la plus efficace (Message du 21 septembre 1998 concernant la
+modification du code pénal suisse, FF 1999 1938 ; TF 6B_425/2013 du 25 juillet 2013, consid.
+2.1).
+2.2.2
+Le Tribunal fédéral a précisé ce qu’il fallait entendre par assistance de probation
+ou règles de conduite « qui ne peuvent plus être exécutées »
+selon l’art. 95 al. 3 CP (ATF 138 IV 65 consid. 4.3). Selon une interprétation téléologique
+et systématique, l’assistance de probation et les règles de conduite sont des mesures
+d’accompagnement qui tendent non seulement à permettre la réinsertion du condamné
+mais qui visent aussi à réduire le risque de récidive pendant la période du délai
+d’épreuve. Ce dernier objectif ressort expressément à l’art. 93 al. 1 CP.
+L’assistance de probation et les règles de conduite impliquent donc de tenir compte de la
+sécurité publique, qui a déjà été lésée par l’infraction
+ayant donné lieu à la privation de liberté, objet de la libération conditionnelle
+(Message du 21 septembre 1998 concernant la modification du code pénal suisse, FF 1999 1932 ch.
+215 ; ATF 138 IV 65 consid. 4.3.2).
+Le Tribunal fédéral a ainsi jugé que l’exécutabilité de l’assistance
+de probation ou des règles de conduite, en tant que mesure d’accompagnement de la décision
+de libération conditionnelle, ne doit pas être examinée uniquement sous l’angle
+du respect par le condamné des modalités de la mesure en question, mais aussi en tenant compte
+du but de sécurité publique poursuivi. Si la mesure ne peut plus atteindre ce but, elle doit
+être considérée comme n’étant plus exécutable au sens de l’art.
+95 al. 3 CP. En pareil cas, l’autorité a alors la possibilité de réaménager
+la mesure selon l’art. 94 al. 4 ou de prononcer la réintégration au sens de l’art.
+95 al. 5 CP (dans ce sens, Perrin, op. cit., n. 17 in fine ad art. 95 CP, qui ne préconise toutefois
+dans ces circonstances qu’un réaménagement au sens de l’art. 95 al. 4 CP, sans
+envisager une révocation au sens de l’art. 95 al. 5 CP ; cf. aussi Stratenwerth/Wohlers,
+Schweizerisches Strafgesetzbuch, Handkommentar, 3
+e
+éd., Berne 2013, n. 3 ad art. 95 CP qui stigmatisent la formulation de la loi qui ne prévoit
+pas la possibilité, pourtant souhaitable, d’adapter la situation, lorsque la mesure ordonnée
+ne peut atteindre son but ; Trechsel et al., Schweizerisches Strafgesetzbuch, Praxiskommentar, 2008,
+n. 6 ad art. 95 CP, qui relève uniquement que la possibilité qu’une mesure n’est
+plus appropriée n’est pas prévue par la loi ; ATF 138 IV 65 consid. 4.3.2).
+2.3
+En l’espèce, il est vrai qu’aucune circonstance défavorable n’est survenue
+depuis la libération conditionnelle du recourant le 6 juin 2016. Le seul élément nouveau,
+sur lequel se fonde la décision entreprise, est le rapport établi le 3 octobre 2016 par
+la Direction de l’EMS K.________ et qui a conduit l’OEP à saisir le Juge d’application
+des peines d’une proposition tendant à la modification de la règle de conduite. Or, ce
+rapport ne fait état d’aucune violation de règles de conduite à proprement parler.
+Il résulte toutefois de la jurisprudence mentionnée plus haut (consid. 2.2.2) que ce qui prévaut,
+c’est l’adéquation de la mesure d’accompagnement, en l’occurrence de la
+règle de conduite, au but de sécurité publique qui lui est assigné, à savoir
+la prévention du risque de récidive.
+A cet égard, il ne faut pas perdre de vue la gravité des faits pour lesquels le recourant a
+été condamné. Il ressort en effet du jugement du 28 mai 2008, que le recourant s’est
+servi d’un couteau muni d’une lame de 14 cm pour frapper [...] à sept reprises, atteignant
+par deux fois la victime dans des parties vitales, à l’abdomen et à l’omoplate.
+C’est pour cette raison, entre autres, que le Tribunal correctionnel a retenu l’intention
+homicide du recourant, relevant également l’importance de sa détermination délictueuse,
+ses antécédents et les mauvais renseignements de police réunis sur son compte.
+Dans ces circonstances, il convient, comme l’a relevé l’autorité précédente,
+de se montrer particulièrement prudent lorsqu’il s’agit d’envisager un élargissement
+du cadre.
+Dans la lettre du 3 octobre 2016, co-signée par le directeur de l’EMS K.________ et la Dresse
+H.________, il est rapporté que, malgré sa volonté d’avancer, le recourant n’avait
+que très peu pris conscience de sa maladie et que ses capacités d’élaboration restreintes
+le freinaient dans sa possibilité d’apprentissage de mesures préventives. Il est précisé
+que ses capacités à prévenir la rechute existaient actuellement grâce au traitement
+intégré dont il bénéficiait à l’EMS, où le personnel – médecin
+psychiatre, équipe éducative, infirmière et curatrice – l’entourait de soins
+adéquats et lui apportait le soutien dont il avait besoin. Le directeur de l’EMS et la Dresse
+H.________ ont indiqué que ce traitement, pour être apte à prévenir le risque de
+récidive, devait garantir une certaine sécurité, laquelle supposait une vérification
+régulière et une consolidation des acquis du recourant. Ils ont ainsi jugé prématurée
+la levée de l’obligation d’un suivi complémentaire à celui d’un médecin
+psychiatre et ont insisté sur le caractère progressif des étapes nécessaires qui
+devraient permettre au recourant de vivre en milieu non-protégé.
+On ne saurait ignorer l’avis exprimé par les intervenants précités, même si
+les réserves émises ne font pas référence à des circonstances précises.
+Cet avis se fonde en effet sur une observation prolongée du comportement du recourant et émane
+de professionnels qui, de par la mission qui leur avait été confiée, étaient les
+mieux à même d’apprécier sa conduite et son évolution au cours de son séjour
+en appartement protégé. Ce n’est en tout cas pas sans raison qu’ils ont avisé
+l’OEP que, selon eux, un élargissement en milieu non-protégé, avec un suivi moins
+étroit, n’offrait pas encore de garanties suffisantes s’agissant du risque de récidive.
+Il convient également de mettre en relation les points faibles qui subsistent chez le recourant
+selon l’avis du 3 octobre 2016, avec les facteurs susceptibles de favoriser le risque de récidive
+tels que relevés par les experts psychiatres. Ainsi, le fait qu’il n’ait que très
+peu conscience de sa maladie, pourrait l’amener, s’il se trouve dans un environnement moins
+protégé, à ne plus se soumettre à son traitement de manière aussi scrupuleuse
+que dans le cadre de l’EMS où il séjourne actuellement. En quittant l’appartement
+protégé, il perdrait une partie du soutien et de la protection que l’EMS lui apporte.
+Or, une décompensation symptomatique autant qu’un environnement social insuffisant constituent,
+à dire d’experts, des facteurs de risque du point de vue de la récidive. Ce risque paraît
+encore accru du fait de la difficulté du recourant à apprendre et à mettre en œuvre,
+hors milieu protégé, des mesures préventives.
+Par surabondance, si l’on peut comprendre le désir d’indépendance du recourant,
+son projet de trouver un appartement se heurte, en raison de sa situation économique, à des
+obstacles difficiles à surmonter en l’état.
+2.4
+Compte tenu de l’ensemble de ces circonstances, il importe de veiller à ce que le suivi du
+recourant ne soit allégé que de manière progressive, de manière à assurer une
+réinsertion qui offre des garanties suffisantes du point de vue de la sécurité publique.
+C’est par conséquent à juste titre que, faisant prévaloir la sécurité
+publique sur la liberté personnelle du recourant, le Juge d’application des peines a ordonné
+la poursuite de son séjour en appartements protégés ou dans tout autre logement agréé
+par l’OEP jusqu’au terme du délai d’épreuve assortissant la libération
+conditionnelle.
+3.
+En définitive, le recours doit être rejeté et l’ordonnance du 14 novembre 2016 confirmée.
+Compte
+tenu de la relative complexité de la procédure et de son enjeu pour le recourant, qui est au
+surplus indigent, il y a lieu de faire droit à sa requête tendant à ce que Me Adrienne
+Favre lui soit désignée en qualité de défenseur d’office pour la procédure
+de recours avec effet au 22 novembre (art. 132 al. 1 let. b CPP, applicable
+mutatis
+mutandis
+vu le renvoi de l’art. 38 al. 2
+LEP ; cf. également JdT 2016 III 33 consid. 5). A ce titre, une indemnité de 540 fr.,
+plus la TVA, par 43 fr. 20, soit 583 fr. 20, sera allouée à cette dernière.
+Les frais de la procédure de recours, constitués en l’espèce de l'émolument
+d'arrêt (art. 422 al. 1 CPP), par 1'430 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), et des frais
+imputables à la défense d'office du recourant (art. 422 al. 1 et 2 let. a CPP), par
+583 fr. 20, seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le
+remboursement à l'Etat de l'indemnité allouée au défenseur d'office du recourant
+ne sera toutefois exigible que pour autant que la situation économique de ce dernier se soit améliorée
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 14 novembre 2016 est confirmée.
+III.
+L’avocate Adrienne Favre est désignée
+en qualité de défenseur d’office de L.________ pour la procédure de recours et son
+indemnité est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes).
+IV.
+Les frais d’arrêt, par 1'430 fr. (mille quatre cent trente francs) ainsi que l’indemnité
+due au défenseur d’office de L.________, par 583 fr. 20 (cinq cent huitante-trois francs et
+vingt centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+sera exigible pour autant que la situation économique de L.________ se soit améliorée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Adrienne Favre, avocate (pour L.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Juge d’application des peines,
+-
+Mme la Procureure du Ministère public central,
+-
+Office d’exécution des peines (réf. : [...]),
+-
+Direction de la Fondation K.________,
+-
+Service de la population, secteur étrangers (L.________, [...]),
+-
+Office des curatelles et tutelles professionnelles, à l’att. de Mme [...]),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
