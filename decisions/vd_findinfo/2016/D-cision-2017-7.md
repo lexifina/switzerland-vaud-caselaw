@@ -1,0 +1,179 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 7"
+decided: "2016-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5897363"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 7
+
+## Regeste
+
+NON-LIEU | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.12.2016 Décision / 2017 / 7
+
+NON-LIEU | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+901
+PE16.020985-ECO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+30 décembre 2016
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+310 CPP
+Statuant sur le recours interjeté le 1
+er
+décembre 2016 par
+X.________
+contre l’ordonnance de non-entrée en matière rendue le 30 novembre 2016 par le Procureur
+général du canton de Vaud dans la cause
+n° PE16.020985-ECO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 21 octobre 2016, X.________ a déposé une plainte contre les procureurs D.________ et G.________,
+contre C.________, contre les conseillers fédéraux F.________ et J.________ et contre « tout
+les politiciens du pays ». Elle semble reprocher à la justice de ne pas avoir donné
+suite à ses diverses plaintes qu’elle a déposées concernant notamment la surveillance
+ou la mise sur écoute qu’elle subirait par les Etats-Unis à son domicile. Elle demande
+que quelque chose soit fait pour « faire partir les monsieurs qui son la avec l’énergie
+et le douleur corporelle ». Elle reproche en particulier à C.________ d’être
+une « ordure cruel qui est toujour prêt a provoqué les gens avec beaucoup d’agressivité
+et la magie noire ».
+B.
+Par ordonnance du 30 novembre 2016, le Procureur
+général du canton de Vaud a refusé d’entrer en matière (I) et a laissé
+les frais à la charge de l’Etat (II).
+Le Procureur général a relevé à titre préliminaire que la recevabilité
+de la plainte de X.________ était douteuse au vu des propos grossiers et insultants tenus à
+l’égard des différentes personnes visées. Il a ajouté que les écrits de
+la plaignante étaient confus et difficilement compréhensibles, et qu’il ne ressortait
+de la plainte aucun élément permettant de soupçonner la commission d’une quelconque
+infraction pénale.
+C.
+Par acte du 1
+er
+décembre 2016, X.________ a recouru contre cette ordonnance en concluant à son annulation.
+Par avis du 7 décembre 2016, la direction de la procédure a imparti à la recourante un
+délai au 28 décembre 2016 pour effectuer un dépôt de 550 fr. à titre de sûretés.
+Par courrier du 27 décembre 2016, X.________ a sollicité d’être dispensée du
+versement des suretés requises, ce qui lui a été accordé le 30 décembre
+2016.
+Il n’a pas été ordonné d’échanges d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0]) dans les dix jours devant l’autorité
+de recours (art. 310 al. 2, 322 al. 2 CPP ; cf. art. 20 al. 1 let. b CPP) qui, dans le canton
+de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; RSV 312.01] ; art. 80 LOJV [Loi
+d’organisation judiciaire du 12 décembre 1979 ; RSV 173.01]).
+1.2
+Interjeté dans le délai légal auprès de l’autorité compétente par
+la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable
+malgré les propos confus tenus par X.________.
+2.
+2.1
+Conformément à l'art. 310 al. 1 let.
+a CPP, le ministère public rend immédiatement une ordonnance de non-entrée en matière
+s'il ressort de la dénonciation ou du rapport de police que les éléments constitutifs
+de l'infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement pas
+réunis. L'entrée en matière peut encore être refusée au terme des investigations
+policières (art. 306 et 307 CPP) – même diligentées à l'initiative du procureur
+–, si les conditions de l'art. 310 al. 1 let. a CPP sont réunies (TF 1B_183/2012 du 20 novembre
+2012 consid. 3). Selon la jurisprudence, cette disposition doit être appliquée conformément
+à l'adage
+in dubio pro
+duriore
+(TF 6B_127/2013 du 3 septembre 2013
+consid. 4.1). Celui-ci découle du principe de la légalité (art. 5 al. 1 Cst. et 2 al.
+2 CPP en relation avec les art. 319 al. 1 et 324 CPP; ATF 138 IV 86 consid. 4.2) et signifie qu'en principe,
+un classement ou une non-entrée en matière ne peuvent être prononcés par le ministère
+public que lorsqu'il apparaît clairement que les faits ne sont pas punissables ou que les conditions
+à la poursuite pénale ne sont pas remplies. Le ministère public et l'autorité de
+recours disposent, dans ce cadre, d'un pouvoir d'appréciation que le Tribunal fédéral
+revoit avec retenue. La procédure doit se poursuivre lorsqu'une condamnation apparaît plus
+vraisemblable qu'un acquittement ou lorsque les probabilités d'acquittement et de condamnation apparaissent
+équivalentes, en particulier en présence d'une infraction grave (ATF 138 IV 86 consid.
+4.1.2 ; ATF 138 IV 186 consid. 4.1 ; ATF 137 IV 285 consid. 2.5).
+2.2
+En l’espèce, il apparait tant à la lecture de la plainte que du recours que X.________
+énumère les faits en vrac, de manière assez confuse et sans les exposer de manière
+clairement compréhensible. La recourante explique notamment qu’elle ferait l’objet de
+surveillance à son domicile par C.________, son voisin de palier, par les Etats-Unis et par d’autres
+personnes. Elle demande également à faire appel au Président Obama, s’en prend aux
+politiciens suisses et au Président de la Sicile et évoque un vol de terrain à l’Ile
+Maurice. Au vu des propos confus et peu réalistes tenus par la recourante, aucun des comportements
+reprochés par celle-ci n'a de caractère pénal et aucune mesure d'instruction n'apparaît
+de nature à mener à une autre appréciation.
+Il résulte de ce qui précède que c'est à juste titre que le Procureur général
+a refusé d'entrer en matière sur la plainte pénale de X.________.
+3.
+Il résulte de ce qui précède que le recours doit être rejeté et l’ordonnance
+attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 440 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront
+mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 30 novembre 2016 est confirmée.
+III.
+Les frais d'arrêt, par 440 fr. (quatre cent
+quarante francs), sont mis à la charge de X.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme X.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur général du canton de Vaud,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
