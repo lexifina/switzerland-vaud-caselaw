@@ -1,0 +1,278 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 10"
+decided: "2017-01-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5880545"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 10
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH), 222 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 05.01.2017 Décision / 2017 / 10
+
+DÉTENTION PROVISOIRE, RISQUE DE RÉCIDIVE | 221 al. 1 let. c CPP (CH), 222 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+4
+PE16.017157-VCR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+5 janvier 2017
+__________________
+Composition
+:               M.
+Meylan
+,
+vice-président
+MM.
+Sauterel et Perrot, juges
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+221 al. 1 let. c, 222, 393 al. 1 let. c CPP
+Statuant sur le recours interjeté le 30 décembre 2016 par
+Q.________
+contre l’ordonnance de refus de libération et de prolongation de la détention provisoire
+rendue le 27 décembre 2016 par le Tribunal des mesures de contrainte dans la cause
+n° PE16.017157-VCR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le Ministère public de l’arrondissement du Nord vaudois a ouvert une instruction pénale
+à l’encontre de Q.________ pour tentative d’escroquerie et incendie intentionnel.
+Il lui est reproché d'avoir, à [...], le 19 juin 2016 vers 23h45, de concert avec S.________,
+bouté le feu au véhicule Ford Focus immatriculé [...] – détenu en leasing par
+U.________, mais conduit usuellement par la compagne de S.________, Z.________, – afin d'éviter
+à cette dernière de débourser une somme trop importante pour la valeur résiduelle
+du véhicule et une indemnité non négligeable en raison d'un kilométrage largement
+dépassé. La voiture a été entièrement calcinée, trois places de parc bitumées
+endommagées et un talus herbeux noirci.
+Q.________ a été appréhendé par la police le 12 octobre 2016 et placé en détention
+provisoire par ordonnance du 14 octobre 2016 par le Tribunal des mesures de contrainte pour une durée
+de trois mois en raison d'un risque de réitération. Cette ordonnance a été confirmée
+par la Chambre des recours pénale du Tribunal cantonal par arrêt du 25 octobre 2016.
+B.
+a)
+Le 16 décembre 2016, Q.________ a requis
+sa mise en liberté immédiate. A l'appui de sa requête, il a exposé que son rôle
+dans la commission de l’infraction était secondaire, n’ayant que prêté main
+forte à S.________, qu’il bénéficiait d’un encadrement familial solide et
+était sur le point de débuter une formation, de sorte que le pronostic le concernant n’était
+pas très défavorable, et qu’il ne présentait pas de risque de réitération.
+b)
+Dans sa prise de position du 19 décembre 2016, le Ministère public a conclu au rejet de la
+demande de libération. Dans la même écriture, il a requis la prolongation de la détention
+provisoire de Q.________ pour une durée de trois mois.
+c)
+Par ordonnance du 27 décembre 2016, le Tribunal des mesures de contrainte a rejeté la demande
+de libération de la détention provisoire de Q.________ (I), a ordonné la prolongation
+de la détention provisoire de Q.________ pour une durée de deux mois, soit jusqu’au 12
+mars 2017 (II), et a dit que les frais de l'ordonnance suivaient le sort de la cause (III).
+C.
+Par acte du 30 décembre 2016, Q.________ a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant, avec suite de frais et dépens, à
+sa mise en liberté immédiate.
+Il n'a pas été ordonné d'échanges d'écritures.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) contre une
+décision du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 393 al. 1
+let. c CPP), par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans
+les formes prescrites (art. 385 al. 1 CPP), le recours de Q.________ est recevable.
+2.
+2.1
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c). En outre, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave (art. 221 al. 2 CPP). La détention provisoire et la détention pour des motifs
+de sûreté ne doivent pas durer plus longtemps que la peine privative de liberté prévisible
+(art. 212 al. 3 CPP).
+La mise en détention provisoire n’est
+possible que s’il existe à l’égard de l’auteur présumé, et préalablement
+à toute autre cause, de graves soupçons de culpabilité d’avoir commis un crime ou
+un délit (ATF 139 IV 186 consid. 2 ; Schmocker, in : Kuhn/Jeanneret [éd.], Commentaire
+romand, Code de procédure pénale suisse, Bâle 2011, nn. 7 ss ad art. 221 CPP).
+2.2
+En l’espèce, le recourant ne conteste pas, à juste titre, l’existence d'indices
+de culpabilité suffisants.
+3.
+3.1
+Le recourant conteste l’existence d’un risque de réitération (art. 221 al. 1
+let. c CPP).
+3.2
+Aux termes de l'art. 221 al. 1 let. c CPP, la détention provisoire peut être ordonnée
+lorsqu'il y a lieu de craindre que le prévenu compromette sérieusement la sécurité
+d'autrui par des crimes ou des délits graves après avoir déjà commis des infractions
+du même genre. Selon la jurisprudence, la détention provisoire en raison d'un risque de récidive
+peut être ordonnée, respectivement prolongée, d'une part, lorsqu'il s'agit d'éviter
+que le prévenu retarde, voire empêche, la clôture de la poursuite en commettant de nouvelles
+infractions et, d'autre part, pour éviter la réalisation d'un danger (ATF 137 IV 84 consid.
+3.2 ; TF 1B_249/2014 du 6 août 2014 consid. 3.2). Cependant, il convient de faire preuve
+de retenue dans l'appréciation du risque de récidive: le maintien en détention ne peut
+ainsi se justifier pour ce motif que si le pronostic est très défavorable et si les délits
+dont l'autorité redoute la réitération sont graves (ATF 137 IV 84 consid. 3.2). Ainsi,
+une possibilité hypothétique de réitération, ainsi que la probabilité que des
+infractions de peu d'importance soient à nouveau perpétrées ne suffisent pas pour justifier
+la détention provisoire (ATF 135 I 71 consid. 2.3).
+Un risque de récidive existe non seulement lorsqu'il y a sérieusement à craindre pour
+la vie et l'intégrité corporelle, mais également en cas d'infractions graves contre le
+patrimoine, telle l'escroquerie par métier (TF 1B_193/2015 du 17 juin 2015 consid. 2.1 et les
+arrêts cités). Un tel risque peut aussi se fonder sur les infractions faisant l'objet de la
+procédure pénale en cours, si le prévenu est fortement soupçonné – avec
+une probabilité confinant à la certitude – de les avoir commises (ATF 137 IV 84 consid.
+3.2 et les références citées).
+3.2
+En l’espèce, la Cour de céans se réfère dans leur intégralité aux
+considérants qu'elle a développés dans son arrêt du 25 octobre 2016, qui conservent
+leur pertinence en l’absence d’éléments nouveaux. Ce procédé est admissible
+au regard des exigences du droit d’être entendu (TF 1B_149/2010 du 1
+er
+juin 2010 consid. 1.3 ; CREP 23 octobre 2012/634).
+Le risque de récidive est donc manifestement réalisé et justifie le maintien du recourant
+en détention provisoire.
+3.3
+La détention pour des motifs de sûreté étant justifiée par le seul risque de
+réitération, il n'est pas nécessaire d’examiner l'existence d’autres risques
+(TF 1B_249/2011 du 7 juin 2011 consid. 2.4), contestés brièvement par le recourant à
+l’appui de son recours, mais pas examinés par le Tribunal des mesures de contrainte.
+4
+4.1
+Le recourant fait valoir que des mesures de substitution
+seraient propres à pallier l’existence du risque de récidive.
+4.2
+En vertu de l'art. 237 al. 1 CPP, le tribunal
+compétent ordonne une ou plusieurs mesures moins sévères en lieu et place de la détention
+provisoire ou de la détention pour des motifs de sûreté si ces mesures permettent d'atteindre
+le même but que la détention. Les mesures de substitution énumérées de manière
+non exhaustive à l'art. 237 CPP sont un succédané à la détention provisoire,
+poursuivant le même objectif tout en étant moins sévères (Schmocker, op. cit., n.
+2 ad art. 237 CPP). Le tribunal doit les prononcer à la place de la détention provisoire
+ou pour des motifs de sûreté si elles permettent d'empêcher la concrétisation du
+risque (ibid.). Ces mesures sont donc l'émanation directe du principe de la proportionnalité,
+consacré par l'art. 197 al. 1 let. c CPP, en vertu duquel le maintien en détention pour les
+besoins de l'instruction présente l'ultima ratio.
+La liste des mesures de substitution énoncée
+à l'art. 237 al. 2 CPP n'est pas exhaustive. En vertu du principe constitutionnel de la proportionnalité,
+l'autorité est tenue de substituer à la détention provisoire toute mesure moins incisive
+qui permettrait d'atteindre le même but (TF 1B_654/2011 du 7 décembre 2011). Elle peut, à
+cet effet, assortir cette mesure de toute condition propre à en garantir l'efficacité (TF 1B_165/2012
+du 12 avril 2012 consid. 2.3).
+4.3
+En l’espèce, les mesures de substitution proposées par le recourant, à savoir l’obligation
+de se présenter régulièrement à un service administratif et le versement d’un
+montant de 20'000 fr. à titre de sûretés, ne sont pas de nature à l’empêcher
+de commettre de nouvelles infractions et sont donc insuffisantes pour parer au risque de récidive
+au vu des intérêts juridiques à protéger. Force est en effet de constater que malgré
+une précédente période de détention provisoire de plus de deux mois, le recourant
+a persisté avec une réelle désinvolture dans son activité délictueuse, laquelle
+est montée en puissance de manière préoccupante.
+5.
+5.1
+Concernant le respect du principe de la proportionnalité,
+l’art. 212
+al. 3 CPP
+prévoit que la détention provisoire ne doit pas durer plus longtemps que la peine privative
+de liberté prévisible. La proportionnalité de la détention provisoire doit être
+examinée au regard de l’ensemble des circonstances concrètes du cas d’espèce
+(ATF 133 I 168 consid. 4.1 et les arrêts cités). A cet égard, il est admis que le juge
+peut maintenir la détention provisoire aussi longtemps qu’elle n’est pas très proche
+de la durée de la peine privative de liberté à laquelle il faut s’attendre concrètement
+en cas de condamnation (TF 1B_411/2011 du 31 août 2011 consid. 4.1; ATF 133 I 168 consid. 4.1; ATF
+132 I 21 consid. 4.1). Toutefois, le fait que la peine encourue puisse être assortie du sursis,
+total ou partiel, n'est pas déterminant sous l'angle de la proportionnalité (ATF 133 I
+270 consid. 3.4.2).
+5.2
+En l’espèce, le recourant est détenu depuis le 12 octobre 2016, soit depuis plus de deux
+mois et demi. Compte tenu de la gravité des infractions qui lui sont reprochées et de ses antécédents,
+il s'expose à une peine d’une durée supérieure à celle de la détention
+provisoire subie à ce jour. Le principe de la proportionnalité demeure donc respecté.
+6.
+Par conséquent, le maintien en détention
+provisoire de Q.________ est justifié. Il en résulte que le recours doit être rejeté
+et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 770 fr. (art. 20 al. 1 TFIP [tarif des frais judiciaires de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]) et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr., plus la TVA par
+43 fr. 20, soit à 583 fr. 20 au total, seront mis à la charge de Q.________, qui succombe (art.
+428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 27 décembre 2016 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de Q.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et
+vingt centimes).
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), ainsi que l’indemnité
+due au défenseur d’office de Q.________, par 583 fr. 20 (cinq cent huitante-trois
+francs et vingt centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique de Q.________ se soit améliorée.
+VI.
+L’arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Véronique Fontana, avocate (pour Q.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal des mesures de
+contrainte,
+-
+M. le Procureur de l'arrondissement du Nord vaudois,
+,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
