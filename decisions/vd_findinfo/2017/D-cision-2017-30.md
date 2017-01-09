@@ -1,0 +1,543 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 30"
+decided: "2017-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5928020"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/935.61/art-001.md", "switzerland/bund/acts/935.61/art-012.md"]
+---
+
+# VD Findinfo Décision / 2017 / 30
+
+## Regeste
+
+AVOCAT, STAGE, RÉPRIMANDE | 12 let. a LLCA
+
+## Text
+
+Vaud Tribunal cantonal Chambre des avocats 09.01.2017 Décision / 2017 / 30
+
+AVOCAT, STAGE, RÉPRIMANDE | 12 let. a LLCA
+
+TRIBUNAL
+CANTONAL
+CHAMBRE
+DES AVOCATS
+_______________________________
+Décision
+du 9 janvier 2017
+_______________________
+Composition
+:              Mme
+COURBAT, présidente
+Mes              Journot, Henny et Jornod,
+membres, ainsi que Me Wellauer, membre suppléant
+Greffière
+:              Mme
+Robyr
+*****
+La Chambre des avocats prend séance au Palais de justice de l'Hermitage, à Lausanne, pour statuer
+dans le cadre de l'enquête disciplinaire dirigée contre l’avocat stagiaire
+D.________
+,
+à [...].
+Délibérant à huis clos, la Chambre des avocats retient ce qui suit :
+En fait :
+1.
+D.________, né en [...], a travaillé au sein de la police vaudoise puis, durant plus de cinq
+ans, à la Police judiciaire fédérale à Berne, à la lutte contre le blanchiment
+d’argent et le crime organisé. Il a ensuite été engagé par le Département
+de la formation et de la culture, où il a dispensé des cours de droit et d’économie
+auprès d’élèves en maturité fédérale professionnelle et à l’école
+d’ingénieurs.
+Me D.________ a été engagé en qualité d’avocat stagiaire par Me S.________
+dès le 1
+er
+septembre 2015. Il a été inscrit au Registre cantonal des avocats stagiaires dès cette
+date et jusqu’au 30 avril 2016. Il est à nouveau inscrit à ce registre depuis le 2 août
+2016, en qualité de stagiaire de Me M.________
+.
+2.
+A la suite de difficultés rencontrées
+avec son maître de stage S.________, D.________ s’est adressé à Me Y.________, membre
+du Conseil de l’Ordre des avocats et interlocuteur privilégié des stagiaires, et lui
+a fait part d’un certain nombre de problèmes. Celui-ci lui a conseillé d’en parler
+à la Bâtonnière de l’Ordre des avocats vaudois, ce que Me D.________ a fait.
+Le 1
+er
+avril 2016, Me S.________ a informé Me D.________ avoir reçu un courrier de l’Ordre des
+avocats et résilier avec effet immédiat pour justes motifs son contrat de travail, « les
+accusations portées à [son] encontre étant totalement diffamatoires et calomnieuses ».
+Par courrier du 3 avril 2016, envoyé en copie à Mme la Bâtonnière et à Me Y.________,
+Me D.________ a informé son maître de stage qu’il s’opposait à son courrier
+du 1
+er
+avril. Il a contesté toute diffamation et calomnie dans l’ensemble de ses accusations, « certains
+faits [lui] ayant été directement rapportés par [lui] et d’autres constatés
+personnellement ». Il a requis le versement des salaires dus jusqu’à la fin de son
+contrat de travail, soit jusqu’au 1
+er
+septembre 2017, d’une indemnité de 500 fr. pour ses frais de déplacements non encore
+réglés et d’une indemnité de 7'000 fr., faisant valoir que c’était « sans
+aucune considération [qu’il n’avait] eu de cesse de porter odieusement atteinte à
+[son] intégrité en violation flagrante de l’article 328 CO ».
+Le 5 avril 2016, Me D.________ a adressé à la Bâtonnière de l’Ordre des avocats
+vaudois un courrier faisant référence à son licenciement avec effet immédiat le 1
+er
+avril précédent et à la volonté de Me S.________ de déposer plainte pénale
+à son encontre. Me D.________ a invoqué un mode de pression pour l’empêcher de témoigner
+à son encontre et fait valoir que le ton des messages de Me S.________ lui laissait penser qu’il
+n’entendait pas entrer en matière sur les sommes qui lui étaient dues et qu’il
+mettrait tout en œuvre pour compliquer sa réinsertion dans le milieu du Barreau. Il a dès
+lors interpellé Mme la Bâtonnière pour savoir comment réagir face à ce comportement
+et s’il devait prévoir d’être défendu par un confrère.
+3.
+Par courrier du 13 avril 2016, Mme la Bâtonnière Antonella Cereghetti Zwahlen a informé
+la Chambre des avocats que le Conseil de l’ordre souhaitait porter à sa connaissance le litige
+divisant Mes S.________ et D.________. Elle a exposé que Me D.________ reprochait à son maître
+de stage d’avoir violé les règles éthiques, déontologiques et légales
+de la profession d’avocat, soit en particulier d’avoir aidé un client à dissimuler
+un montant important sur son compte de consignation dans le cadre d’une procédure en divorce,
+d’avoir pour habitude de faire signer les procédures en imitant sa signature, d’avoir
+demandé à l’un de ses mandants d’établir de fausses pièces et des pièces
+antidatées afin de les produire en procédure, d’avoir demandé de manière insistante
+à sa stagiaire de faire un faux témoignage dans le cadre de la dénonciation déposée
+par une présidente de tribunal auprès de l’Ordre des avocats vaudois, d’avoir effectué
+des transactions financières en liquide douteuses depuis son Etude et d’avoir fait preuve
+de comportements inadéquats avec ses stagiaires. Me Cereghetti Zwahlen a précisé que Me
+[...] contestait vigoureusement les accusations portées à son encontre, « ajoutant
+que Maître D.________ rencontrerait des problèmes psychiques, qui le conduisent à inventer
+de toute pièce les faits dénoncés ».
+Le 27 avril 2016, Me S.________ a déposé auprès du Ministère public une plainte pénale
+contre Me D.________ pour diffamation et calomnie.
+Me D.________ a alors déposé une plainte pénale contre Me S.________ pour contrainte et
+dénonciation calomnieuse. Il a également adressé au tribunal des prud’hommes une
+demande en paiement des salaires et indemnités encore dus.
+4.
+Le 17 mai 2016, la Présidente de la Chambre des avocats a ouvert une enquête disciplinaire
+à l'encontre de Me D.________ à la suite de la plainte pénale déposée par Me
+S.________ et confié l'instruction préliminaire de l'art. 55 al. 3 LPAv (loi sur la profession
+d’avocat du 9 juin 2015 ; RSV 177.11) à Me Jean-Michel Henny.
+Me Henny a entendu Me D.________ le 14 juin 2016 et Me S.________ le 15 juin suivant.
+5.
+Par courriel du 16 juin 2016, Me D.________ a envoyé à Me M.________ une postulation spontanée
+en vue de trouver une place pour terminer son stage. Il a expliqué avoir commencé son stage
+auprès de Me S.________, tout en précisant que « des aléas administratifs avec
+l’OAV » avaient rendu la poursuite de cette formation chez Me S.________ impossible.
+6.
+Les 6 et 7 juillet 2016, D.________ et S.________ ont signé une convention afin de régler à
+l’amiable le litige les opposant, dont la teneur est la suivante :
+«
+I.
+D.________ admet expressément avoir donné à tort, crédit à des propos émis
+par des tiers qui sont pas ou n’ont jamais été collaborateurs de l’Etude, et dont
+on peut affirmer qu’ils n’ont aucun fondement.
+II.
+S.________ versera à D.________ le montant de CHF 3'000.00 pour solde de tout compte et toute prétention,
+dans les 10 jours, suivant la signature de la présente convention.
+III.
+Au bénéfice de ce qui précède, D.________ retire purement et simplement sa requête
+de conciliation adressée au Tribunal de prud’hommes de l’arrondissement de Lausanne
+à l’encontre de S.________.
+IV.
+S.________ retire purement et simplement sa plainte pénale du 27 avril 2016 déposée à
+l’encontre de D.________.
+V.
+D.________ retire purement et simplement sa plainte pénale du 7 juin 2016 déposée à
+l’encontre de S.________
+VI.
+Par gain de paix, S.________ accepte de prendre en charge les éventuels frais de justice de l’affaire
+pénale pendante devant le Ministère public central, division des affaires spéciales.
+VII.
+Dès signature de la présente convention, S.________ informera la Chambre des avocats que le
+litige est désormais réglé à l’entière satisfaction des parties et invitera
+cette autorité à renoncer à prendre toute sanction à l’encontre de D.________. »
+Par courrier du 7 juillet 2016, D.________ a transmis à Me Henny une copie de cette convention.
+Il a en outre indiqué ce qui suit :
+«
+Lors d’un entretien avec mon
+ancien maître de stage en son Etude, le 20 juin écoulé, celui-ci m’a expliqué
+quelle réalité des faits, il fallait comprendre les éléments parvenus à ma connaissance
+(sic). A l’appui de ses explications, il m’a notamment indiqué que l’ensemble
+des collaborateurs, dont il était fait mention dans cette affaire, avaient attesté ne jamais
+avoir effectué d’actes contraires à l’éthique ou à la loi et n’avaient
+jamais vu ou connu des comportements répréhensibles de la part de Me S.________.
+Ainsi, je pars du principe que la version de Me S.________ est le reflet de la vérité et que
+la vision que j’ai eue de ces événements a été induite par un manque de bonne
+communication avec lui et le fruit d’une réputation construite, contre lui, par des personnes
+mal intentionnées. (…) »
+Me D.________ a été réinscrit au Registre cantonal des avocats stagiaires le 2 août
+2016.
+Me Henny a déposé un rapport le 2 septembre 2016. Il a exposé que les accusations portées
+par Me D.________ à l’encontre de Me S.________, même si elles avaient été
+formellement retirées, étaient d’une gravité certaine et de nature à porter
+préjudice à celui qui en était victime. Un tel comportement semblant tomber sous le coup
+de l’art. 12 al. 1 LLCA, il a suggéré que Me D.________ soit entendu par la Chambre des
+avocats.
+Ce rapport a été transmis le même jour à Me D.________ pour détermination. Celui-ci
+ne s’est pas déterminé par écrit dans le délai imparti au 8 septembre
+suivant.
+Me D.________ a été entendu par la Chambre des avocats le 12 septembre 2016. Il a déclaré
+ce qui suit :
+« J’ai eu une engueulade avec Me S.________ au sujet d’un recours au Tribunal fédéral.
+Mon stage ne se passait pas dans de bonnes conditions. J’en ai parlé à Me Y.________
+qui m’a dit d’aller voir avant toutes choses Mme la Bâtonnière. Lors de cet entretien,
+j’ai expliqué les raisons de ma mésentente avec mon maître de stage et mes doutes
+quant à son comportement. Ces éléments sont repris dans le courrier qu’elle vous
+a adressé. Elle m’a averti à la fin de cette séance qu’elle entendait porter
+l’affaire plus loin, mais je ne m’attendais pas à ces conséquences.
+S’agissant de la convention que j’ai signée en juillet 2016 avec Me S.________, je lui
+avais soumis un premier projet qu’il a écarté. Il m’a alors soumis un autre projet,
+que j’ai signé le 6 juillet 2016. Toutefois, je ne suis pas en accord avec le chiffre I de
+cette convention. Je l’ai néanmoins signée car j’étais dans une situation
+financière difficile et je voulais que cette affaire se termine, aussi sur le plan pénal. J’avais
+en effet senti que l’enquête pénale n’allait pas dans mon sens. »
+Il a en outre spontanément produit deux documents sur lesquels sont imprimés des messages qu’il
+aurait échangés les 19 février et 14 mars 2016 sur la messagerie WhatsApp avec [...],
+secrétaire en l’étude de Me S.________.
+Après qu’un nouveau délai lui fut imparti pour se déterminer, Me D.________ a déposé
+des déterminations le 21 septembre 2016, concluant à ce qu’aucune sanction ne soit prononcée
+à son égard. Il a contesté avoir dénoncé Me S.________ à l’ordre
+des avocats : il a invoqué avoir expliqué à Mme la Bâtonnière les griefs
+qu’il avait contre son maître de stage, des faits plus sensibles ayant ensuite été
+abordés au terme de la discussion. Il a évoqué le récit « d’une suite
+de comportements maladroits de la part d’un avocat inscrit au Barreau » et précisé
+qu’il ne saurait être interprété autre chose « qu’un signalement
+de certaines pratiques surprenantes ». Il a contesté avoir eu l’intention de malmener
+la réputation de Me S.________, précisant qu’il « s’agissait uniquement
+de dépeindre une ambiance de travail où des irrégularités auraient pu [le] mettre
+en danger si elles avaient été pénalement ou éthiquement reconnues comme contraires
+à la profession d’avocat. Auquel cas, il [lui] aurait été reproché de ne pas
+avoir pris les précautions nécessaires afin d’éviter toute implication de [sa] part,
+même par omission.» Me D.________ a fait valoir que l’enquête de Me Henny était
+parcellaire et qu’il était « difficilement concevable que des attestations, provenant
+de personnes ayant toutes un intérêt indiscutable à nier la connaissance de certaines
+pratiques (stagiaire, secrétaire, associé), aient une valeur probante ». Il s’est
+fondé sur la liste de messages électroniques produite durant l’enquête et a fait
+valoir que l’audition de « ces personnes » aurait permis d’entendre des
+explications libératoires à son égard. Me D.________ a critiqué le fait qu’il
+n’y ait eu aucune mesure d’investigation propre à confirmer ou infirmer les soupçons
+portés contre Me S.________ et soutenu qu’il ne lui était « pas loisible de
+déterminer si les faits relayés étaient graves ou non », la gravité dépendant
+de savoir s’ils étaient avérés ou non.
+Requis de se déterminer sur l’audition par la Chambre des avocats de son nouveau maître
+de stage, Me M.________, Me D.________ a déclaré, par courrier du 3 novembre 2016, ne pas s’y
+opposer. Il a confirmé l’avoir informée de son litige avec Me S.________ lors de son
+engagement et l’avoir également tenue au courant de la procédure disciplinaire dont il
+était question.
+Me M.________ a été entendue le 17 novembre 2016. Ses propos sont notamment les suivants :
+« (…)
+Me D.________ m’a d’emblée dit qu’il était en rupture de stage et qu’il
+avait un litige avec son ancien maître de stage. Je lui ai posé des questions à ce propos.
+Ce qu’il m’a dit m’a semblé cohérent. Il également déclaré
+que le litige était en passe d’être réglé avec Me S.________.
+Plus précisément, il m’a envoyé un mail le 16 juin 2016 pour expliquer qu’il
+cherchait à poursuivre son stage. Il y parlait de problèmes administratifs avec l’OAV
+qui ne lui permettaient pas de poursuivre son stage chez Me S.________. Il est venu pour travailler quelques
+jours le 24 juin 2016, pour que je puisse voir comment il fonctionnait. Je l’ai ensuite engagé
+au 1
+er
+juillet 2016. Au début de son stage, il m’a dit devoir s’absenter un après-midi
+pour régler son litige avec Me S.________. Ensuite, il m’a dit avoir signé une convention
+qui y mettait fin.
+Le stage se passe bien. (…)
+Je n’ai pas eu de contact avec Me S.________ pour savoir ce qui s’est passé. Au début
+de son stage, Me D.________ m’a dit que les choses étaient réglées et qu’il
+avait signé une convention. Je ne voulais donc pas mettre de l’huile sur le feu. Me D.________
+m’a dit qu’il n’aimait pas la manière de procéder de Me S.________, que des
+choses l’avaient heurté et il m’a donné des exemples qui lui déplaisaient.
+Je me suis dit que si c’était vrai, c’était grave. C’était toutefois
+le problème de Me S.________.
+Quand je lui ai demandé, en septembre, lorsqu’il a reçu sa convocation à la Chambre
+des avocats, s’il savait pourquoi et s’il était convoqué à titre personnel,
+il m’a dit qu’il l’ignorait. Je lui ai demandé s’il savait qu’il y
+avait une enquête disciplinaire ouverte contre lui, il m’a dit non. J’ai été
+étonnée d’apprendre l’existence de cette procédure disciplinaire.
+Cet après-midi, il m’a remis un exemplaire de la convention qu’il a signée. Il
+m’a dit que Me S.________ l’a rédigée et qu’il l’a signée par
+gain de paix, pour mettre un terme définitif à leur litige.
+Je suis étonnée et interpellée lorsque vous m’informez que l’enquête
+disciplinaire a été ouverte en mai 2016 et que le membre instructeur l’a entendu le 14 juin
+2016, dès lors qu’il ne m’en avait pas parlé.
+(…) »
+Le 30 novembre 2016, Me Henny a déposé un rapport complémentaire.
+Ce rapport a été communiqué à Me D.________, par le biais de son conseil, nouvellement
+constitué, le 1
+er
+décembre 2016.
+Me D.________ a déposé des déterminations le 12 décembre 2016, par le biais de son
+conseil. Il a requis des mesures d’instruction complémentaires, soit l’audition de Me
+Y.________ et de Mme la Bâtonnière, la production des procès-verbaux d’audition
+de Me D.________ et de Me S.________ par Me Henny, la production du dossier d’enquête contre
+Me S.________ et une nouvelle audition par la Chambre des avocats, assisté de son conseil. Il a
+pour le surplus conclu à ce qu’aucune sanction ne soit prise à son égard. Il a produit
+à l’appui de son écriture le courriel qu’il a adressé à Me M.________
+le 16 juin 2016.
+En droit
+:
+1.
+La LLCA fixe les principes applicables à l'exercice de la profession d'avocat en Suisse (art. 1
+LLCA [loi fédérale sur la libre circulation des avocats du 23 juin 2000 ; RS 935.61])
+et, en particulier, les règles professionnelles auxquelles l'avocat est soumis (art. 12 LLCA). L’avocat
+stagiaire doit respecter les obligations professionnelles prévues par la loi, comme il s’y
+engage avant d’être inscrit au registre cantonal des avocats stagiaires (art. 24 LPAv). L’avocat
+stagiaire qui, soit intentionnellement soit par négligence, commet une infraction à la LPAv
+ou à ses dispositions d’applications, viole ses devoirs professionnels ou la promesse qu’il
+a solennisée, est passible d’une peine disciplinaire (art. 54 al. 1 LPAv).
+Dans le canton de Vaud, la Chambre des avocats est l’autorité cantonale chargée de la
+surveillance des avocats (art. 11 al. 1 LPAv). Elle est également l’autorité disciplinaire
+des avocats stagiaires (art. 11 al. 3 LPAv).
+2.
+Me D.________ requiert la mise en œuvre de
+plusieurs mesures d’instruction complémentaires.
+Il sollicite en premier lieu l’audition de Me Y.________ et de Mme la Bâtonnière « pour
+qu’ils confirment la manière dont les faits se sont déroulés ». Une telle
+audition n’est toutefois pas nécessaire dès lors qu’il n’est nullement contesté
+que Me D.________ s’est adressé à Me Y.________, puis sur conseil de celui-ci à
+Mme la Bâtonnière, et qu’il n’a pas personnellement dénoncé Me S.________
+à la Chambre des avocats.
+Me D.________ requiert ensuite la production des procès-verbaux d’audition de Me S.________
+et de lui-même par Me Henny, membre instructeur. Me Henny n’a toutefois pas tenu de procès-verbal
+de ces auditions, comme Me D.________ a pu s’en rendre compte lors de sa propre audition. Il a
+uniquement pris quelques notes manuscrites qui ne sauraient en aucun cas tenir lieu de procès-verbal.
+Me D.________ ne s’est d’ailleurs pas opposé à cette manière de faire et n’a
+pas requis que ses propos soient verbalisés formellement. Pour le surplus, il convient de relever
+que le rapport de Me Henny du 30 novembre 2016 se fonde sur des documents figurant au dossier et sur
+les déclarations de Me D.________ et de Me M.________ protocolées aux procès-verbaux des
+séances de la Chambre des avocats des 12 septembre et 17 novembre 2016.
+La production du dossier d’enquête contre Me S.________ est également requise. Me D.________
+n’a toutefois aucun droit à consulter ce dossier. Le dénonciateur ne peut, s'agissant
+d'une procédure disciplinaire, être considéré comme une partie et la décision
+disciplinaire ne peut, pour ce motif, lui être communiquée (CREC 14 avril 2008, n° 66/II).
+Me D.________, qui n’est au demeurant même pas dénonciateur comme il l’invoque
+lui-même, n’a donc aucun droit à accéder à la décision – ni
+a
+fortiori
+au dossier – concernant Me S.________.
+Il ne peut pour le surplus faire valoir aucun intérêt digne de protection à la production
+de ce dossier dès lors qu’aucun élément retenu à l’encontre de Me D.________
+ne ressort de pièces qui ne lui auraient pas été communiquées et qui ressortiraient
+de ce dossier. Partant, cette requête doit également être rejetée.
+On notera que le conseil de Me D.________ fait valoir que le courrier que son client a adressé à
+Me Henny le 7 juillet 2016 ne se trouve pas dans le dossier qui lui a été adressé le 1
+er
+décembre 2016, pas plus que les échanges de SMS qu’il a produit lors de son audition
+le 12 septembre 2016. On ne saurait toutefois faire grief à la Chambre des avocats de ne pas les
+lui avoir renvoyés en copie, s’agissant de pièces dont son client doit être en possession
+puisqu’il les a lui-même transmis au membre instructeur et à la Chambre des avocats.
+Enfin, Me D.________ demande à être entendu une nouvelle fois en présence de son conseil.
+Me [...] a été dûment entendu par la Chambre des avocats. Le fait qu’il attende
+la fin de la procédure pour consulter un avocat ne lui donne pas un droit à être entendu
+une nouvelle fois assisté de ce conseil. Il a en outre pu se déterminer par écrit après
+l’audition de Me M.________ et le dépôt par Me Henny de son rapport du 30 novembre 2016.
+Son droit d’être entendu a ainsi été respecté. En effet, l'art. 29 al. 2 Cst.
+ne confère pas aux parties le droit d'être entendu oralement par l'autorité (TF 5A_107/2016
+du 9 août 2016, consid. 2.2 ; TF 8C_239/2010 du 9 mai 2011 ; ATF 134 I 540 consid.
+5.3).
+Au vu de ce qui précède, la Chambre des avocats décide de ne pas donner suite aux mesures
+d’instruction requises par le dénoncé.
+3.
+3.1
+La clause générale de l'art. 12 let.
+a LLCA dispose que l'avocat est tenu d'exercer sa profession avec soin et diligence. Il doit observer
+certaines règles non seulement dans ses rapports avec ses clients, mais aussi à l’égard
+des autorités, de ses confrères et du public en général (ATF 130 II 270 consid. 3.2;
+TF 2C_652/2014 du 24 décembre 2014 consid. 3.2 ; TF 2C_177/2007 du 19 octobre 2007).
+Selon la jurisprudence, l’avocat est tenu, de manière toute générale, d’assurer
+et de maintenir la dignité de la profession, en s’abstenant notamment de tout ce qui pourrait
+porter atteinte à la considération et à la confiance dont il doit jouir pour remplir sa
+mission (TF 2A.151/2003 du 31 juillet 2003; ATF 108 Ia 316 consid. 2b/bb, JdT 1984 I 183 ; ATF 106
+Ia 100 consid. 6b, JdT 1982 I 579; Valticos, Commentaire Romand de la LLCA, n. 6  ad art. 12 LLCA,
+p. 94). L'art. 12 let. a LLCA sanctionne les comportements de l'avocat qui remettent en cause la bonne
+administration de la justice ainsi que la confiance en sa personne et en la profession d'avocat en général
+(Bohnet/Martenet, Droit de la profession d'avocat, Berne 2009, n. 1165 p. 502).
+Selon la jurisprudence du Tribunal fédéral, l'avocat dispose d'une grande liberté pour
+critiquer l'administration de la justice – que ce soit en s'en prenant à un magistrat ou à
+un confrère (arrêt 2P.212/2000 du 5 janvier 2001, RDAT 2001 II no 10 p. 44 consid. 3b) –
+tant qu'il le fait dans le cadre de la procédure, dans un mémoire ou à l'occasion de débats
+oraux (ATF 130 II 270 consid. 3.2 ; TF 2C_1180/2013 du 24 octobre 2014 consid. 4.1.1). Dans
+ce cas, l'avocat n'agit contrairement à ses devoirs professionnels et, partant, de façon inadmissible,
+que s'il formule des critiques en étant conscient de la fausseté de ses affirmations ou dans
+une forme attentatoire à l'honneur, au lieu de se limiter à des allégations de fait et
+à des appréciations. Les déclarations faites en dehors de toute procédure sont quant
+à elles soumises à des exigences plus strictes (TF 2C_782/2015 du 19 janvier 2016 consid. 5.2 ;
+TF 2A.191/2003 du 22 janvier 2004 consid. 7.3). Le Tribunal fédéral a notamment considéré
+qu’avait violé son devoir de diligence l’avocate qui avait reproché à des
+confrères de violer leurs devoirs professionnels dans une lettre ouverte adressée à la
+commission du barreau, à divers magistrats et à des particuliers impliqués dans plusieurs
+procédures ayant donné lieu au comportement répréhensible de ces avocats selon l’auteur
+du courrier (TF 2A.191/2003 précité, consid. 7.4).
+3.2
+En l’espèce, il n’est nullement
+contesté que Me D.________ n’a pas dénoncé personnellement son ancien maître
+de stage auprès de la Chambre des avocats. C’est à Me Y.________ qu’il a communiqué
+les comportements lui paraissant contraires à la loi et aux règles professionnelles puis, sur
+conseil de celui-ci, à Mme la Bâtonnière.
+Les 6 et 7 juillet 2016, Me D.________ et Me S.________ ont signé une convention réglant tous
+les éléments litigieux (plaintes pénales, procédure devant le tribunal des prud’hommes,
+prétentions en paiement, frais). Selon le chiffre I de cette convention, Me D.________ a admis « expressément
+avoir donné à tort, crédit à des propos émis par des tiers qui sont pas ou n’ont
+jamais été collaborateurs de l’Etude, et dont on peut affirmer qu’ils n’ont
+aucun fondement ». Il a ensuite écrit à Me Henny pour lui communiquer la convention
+précitée. Il a précisé qu’il partait du principe « que la version
+de Me S.________ [était] le reflet de la vérité et que la vision [qu’il avait] eu
+de ces événements [avait] été induite par un manque de bonne communication avec lui
+et le fruit d’une réputation construite, contre lui, par des personnes mal intentionnées ».
+Me D.________ a ainsi tenu contre son ancien maître de stage des propos qui, à défaut
+d’être prouvés, pouvaient être diffamants. Ce conflit entre un stagiaire et son
+maître de stage a toutefois été résolu par la signature d’une convention et,
+à ce stade, la Chambre des avocats aurait pu renoncer à prononcer une sanction contre Me D.________.
+Son comportement durant la procédure disciplinaire a toutefois démontré qu’il n’avait
+pas compris qu’il ne pouvait pas porter sans preuve de telles accusations sans violer ses obligations
+professionnelles.
+Lors de son audition par la Chambre de céans le 2 septembre 2016, Me D.________ a expliqué
+qu’il avait signé la convention par gain de paix. Il a déclaré qu’il n’était
+pas d’accord avec le chiffre I de la convention, réitérant ainsi les accusations portées
+contre Me S.________. Dans ses déterminations du 21 septembre 2016, il a en outre reproché
+à la Chambre des avocats qu’il n’y ait eu aucune mesure d’investigation propre
+à confirmer ou infirmer les soupçons portés contre Me S.________, il a critiqué la
+valeur probante des attestations provenant de personnes « ayant toutes un intérêt
+indiscutable à nier la connaissance de certaines pratiques » et il a fait valoir qu’il
+ne lui était « pas loisible de déterminer si les faits relayés étaient
+graves ou non », la gravité dépendant de savoir s’ils étaient avérés
+ou non. Il ressort également de l’audition de Me M.________ qu’il lui a donné des
+exemples de faits qu’il reprochait à Me S.________.
+Ainsi, non seulement Me D.________ a formulé contre son ancien maître de stage dans le cadre
+d’un litige privé des critiques dépassant déjà le cadre de ce qui est admissible,
+mais il a ensuite porté ces griefs à la connaissance de son nouveau maître de stage, puis
+il a réitéré ses critiques auprès des membres de la Chambre des avocats alors qu’il
+avait signé une convention et un courrier déclarant qu’elles étaient infondées.
+Il a même été jusqu’à reprocher à la Chambre de céans de ne pas avoir
+instruit sur les faits reprochés à Me S.________.
+Le fait d’avoir signé une convention avec son maître de stage par gain de paix n’autorisait
+pas Me D.________ à renouveler ses critiques, d’autant qu’il n’a jamais fourni
+aucune preuve des comportements qu’il lui reprochait. A cet égard, les échanges de messages
+avec la secrétaire de l’étude ne permettent pas de déterminer précisément
+de quoi il s’agit : le premier échange parle d’un versement d’argent dont
+on ignore absolument tout (provenance, montant, destination) et le deuxième échange contient
+une plaisanterie de la secrétaire sur le fait qu’elle pourrait signer «  [...]».
+Ces documents n’ont absolument aucune force probante. Par ailleurs, Me D.________ a déclaré
+qu’il ne pouvait pas savoir si les faits dont il accusait Me S.________ étaient graves puisque
+cela dépendait de savoir si ces faits étaient avérés. Me D.________ admet ainsi lui-même
+avoir propagé des faits pour lesquels il n’avait aucune preuve, ce qui apparaît particulièrement
+grave de la part d’un avocat-stagiaire qui doit connaître la nécessité de pouvoir
+prouver ce qu’on allègue à charge de quelqu’un, qui plus est un confrère,
+lorsque des propos, qui à défaut d’être prouvés pourraient être diffamants,
+sont tenus.
+Au reste, Me D.________ reproche à la Chambre des avocats de ne pas avoir instruit sur ses griefs
+tout en contestant la force probante d’attestations qui proviendraient de personnes ayant toutes
+un « intérêt indiscutable à nier la connaissance de certaines pratiques »,
+soit les associés, stagiaires et secrétaires de Me S.________. Me D.________ n’indique
+cependant pas quelles autres mesures d’instruction auraient été propres à étayer
+ses dires. Il ne paraît d’ailleurs pas le savoir lui-même puisqu’il déclare
+que la gravité des faits allégués dépendait de savoir s’ils étaient avérés
+ou non. Sur ce point, on peut relever que Me D.________ aurait eu tout loisir de faire la preuve de la
+vérité de ses accusations dans le cadre de l’enquête pénale déposée
+contre Me S.________. Or, il a lui-même renoncé à ce que la lumière soit faite sur
+ses allégations en retirant sa plainte pénale.
+Le fait d’accuser un maître de stage – ou un confrère – de comportements
+contraires à la loi et aux obligations professionnelles sans aucune preuve auprès d’un
+confrère et d’une autorité en dépit de l’accord intervenu constitue, de la
+part d’un avocat stagiaire qui aspire à devenir avocat, une violation crasse de l’obligation
+de soin et diligence prévue à l’art. 12 let. a LLCA.
+On peut au demeurant relever qu’il est particulièrement inquiétant de lire sous la plume
+de son conseil que Me D.________ n’avait pas retiré ses accusations au chiffre I de la convention
+signée avec Me S.________. Cela est contredit non seulement par le texte clair de la convention
+mais également par la lettre que Me D.________ a écrite à Me Henny le 7 juillet 2016.
+Quant à la distinction entre « accusations » et « signalement »
+(déterminations p. 6), elle ne change rien au fait que Me D.________ imputait à Me S.________
+des actes contraires à la loi et aux règles professionnelles.
+4.
+4.1
+A teneur de l’art. 54 al. 2 LPAv, les peines
+disciplinaires qui peuvent être prononcées contre l’avocat stagiaire qui a violé
+ses devoirs professionnels sont l’avertissement, une amende de 5'000 fr. au plus, l'interdiction
+temporaire d’effectuer un stage dans le Canton de Vaud pour une durée maximale de deux ans
+ou l’interdiction définitive d’effectuer un stage dans le Canton de Vaud.
+Le droit disciplinaire a principalement pour but de maintenir l’ordre dans la profession, d’en
+assurer le fonctionnement correct, d’en sauvegarder le bon renom et la confiance des citoyens envers
+cette profession, ainsi que de protéger le public contre ceux de ses représentants qui pourraient
+manquer des qualités nécessaires. Les mesures disciplinaires ne visent pas, au premier plan,
+à punir le destinataire, mais à l’amener à adopter à l’avenir un comportement
+conforme aux exigences de la profession et à rétablir le fonctionnement correct de celle-ci
+(TF 2C_448/2014 du 5 novembre 2014, c. 4.2).
+Le droit disciplinaire est soumis au principe de proportionnalité (ATF 108 Ia 230, JT 1984 I 21 ;
+Bohnet/Martenet, op. cit., n. 2178 p. 888 et les références citées; Montani/Barde, La
+jurisprudence du Tribunal administratif relative au droit disciplinaire, in RDAF 1996 p. 345, spéc.
+p. 347, pp. 363 ss ; Grisel, Traité de droit administratif, vol. I, p. 354 ; Muller, Le
+principe de la proportionnalité, in RDS 1978 II 197, spéc. p. 229) et à celui de l’opportunité
+(Montani/Barde, ibid.). La mesure prononcée doit tenir compte, de manière appropriée,
+de la nature et de la gravité de la violation des règles professionnelles. Elle doit se limiter
+à ce qui est nécessaire pour garantir la protection des justiciables et empêcher les atteintes
+au bon fonctionnement de l'administration de la justice. Il y a lieu de déterminer le but que la
+sanction disciplinaire doit atteindre dans le cas particulier et de choisir la mesure qui est apte, nécessaire
+et proportionnée à cette fin (Bohnet/Martenet, op. cit., nn. 2183-2184 p. 890).
+L'autorité de surveillance doit tenir compte du comportement passé de l'avocat en cause, mais
+également du comportement de l'avocat dans la procédure (Bohnet/Martenet, op. cit., n. 2187
+p. 891). Ainsi, la violation du devoir de diligence a été jugée d’autant plus grave
+que l’avocat a confirmé sa position dans ses observations à l’autorité de
+surveillance et semblé ne pas se rendre compte du caractère incorrect de ses déclarations
+(Commissione di disciplina TI 28 avril 2008/354, In Bolletino 36/2008 71, cité in Bohnet/Martenet,
+op. cit., p. 891, note infrapaginale n° 403).
+4.2
+En
+l'espèce, Me D.________ a failli à son devoir de diligence dans ses rapports avec son maître
+de stage, ainsi qu’avec l’autorité disciplinaire. Son comportement a porté atteinte
+à la considération et à la confiance dont doit pouvoir jouir un avocat dans l'exercice
+de sa profession.
+Il revêt une certaine
+gravité, dans la mesure où Me D.________ ne paraît toujours pas avoir reconnu et compris
+ce que son comportement avait de contraire à ses obligations professionnelles. En effet, alors qu’une
+enquête disciplinaire avait été ouverte contre lui à raison des propos qu’il
+avait tenus au sujet de son ancien maître de stage, qu’il avait reçu un rapport du membre
+instructeur qui citait expressément l’art. 12 al. 1 LLCA, il a renouvelé lors de
+son audition par la Chambre des avocats et dans ses déterminations du 21 septembre 2016 les griefs
+qu’il avait contre Me S.________, toujours sans aucune preuve de leur véracité.
+Un autre fait aggravant
+qui interpelle la Chambre de céans réside dans l’âge et l’expérience
+professionnelle du dénoncé. Me D.________ n’est pas un novice qui vient de terminer ses
+études. Par son âge et son passé de policier, il devait savoir qu’on ne peut accuser
+une personne d’infractions pénales sans détenir aucune preuve de ses allégations.
+Même sous le coup d’une enquête disciplinaire, il a persisté dans son attitude accusatrice.
+La Chambre des avocats est dès lors inquiète de constater que l’expérience et l’âge
+de Me D.________ ne l’ont pas empêché d’agir de la sorte.
+A sa décharge, il
+sera toutefois tenu compte du fait que Me D.________ n’a pas dénoncé personnellement
+Me S.________ à la Chambre des avocats et que ses griefs ont été invoqués initialement
+dans le cadre de son stage, auprès du référent des stagiaires, Me Y.________, puis de
+Mme la Bâtonnière. On retiendra également que Me D.________ n’est pas un avocat
+breveté mais un stagiaire encore en formation.
+Ainsi, au regard de l'ensemble
+des circonstances, mais non sans hésitation, la Chambre des avocats décide de ne prononcer
+à l’encontre de Me D.________ qu’un avertissement pour sanctionner son comportement.
+5.
+Les frais de la cause, comprenant un émolument
+ainsi que les frais d'enquête, par 742 fr., sont arrêtés à 1’200 francs. Ils
+sont mis à la charge de D.________ (art. 59 al. 1
+er
+LPAv).
+Par
+ces motifs,
+la
+Chambre des avocats,
+statuant
+à huis clos :
+I.
+Prononce contre l'avocat stagiaire D.________ la peine disciplinaire de l'avertissement.
+II.
+Dit que les frais d’enquête et de décision, par 1’200 fr. (mille deux cents francs),
+sont mis à la charge de D.________.
+La
+présidente :               La greffière
+:
+Du
+La décision qui précède, lue et approuvée à huis clos, est notifiée à
+:
+‑
+Me Colette Lasserre Rouiller (pour D.________).
+Toute décision de la Chambre des avocats peut faire l'objet d'un recours au Tribunal cantonal dans
+les trente jours dès sa communication ou sa notification. Le recours est exercé conformément
+à la loi sur la procédure administrative (art. 65 LPAv).
+La greffière :
