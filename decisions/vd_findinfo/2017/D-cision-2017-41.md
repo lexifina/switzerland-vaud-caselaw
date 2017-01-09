@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 41"
+decided: "2017-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5899514"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-386.md"]
+---
+
+# VD Findinfo Décision / 2017 / 41
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 386 al. 1 CPP (CH), 386 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.01.2017 Décision / 2017 / 41
+
+RETRAIT{VOIE DE DROIT} | 386 al. 1 CPP (CH), 386 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+8
+AM16.001657-PBR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+9 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Krieger et Abrecht, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+386 al. 2 CPP
+Statuant sur le recours interjeté le 24 octobre 2016 par
+X.________
+contre le prononcé rendu le 30 septembre 2016 par le Tribunal de police de l’arrondissement
+de Lausanne dans la cause
+n° AM16.001657-PBR
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par ordonnance pénale du 4 mai 2016, le Ministère public de l'arrondissement de Lausanne a
+condamné X.________, pour emploi répété d'étrangers sans autorisation, à
+une peine privative de liberté de 120 jours ainsi qu’à une peine pécuniaire de 30
+jours-amende, le montant du jour-amende étant fixé à 50 francs.
+2.
+Par acte du 26 mai 2016, le prévenu a demandé la restitution du délai d'opposition à
+l'ordonnance pénale du 4 mai 2016 et a déclaré former opposition contre celle-ci.
+3.
+Par ordonnance du 27 juin 2016, le Ministère
+public de l'arrondissement de Lausanne a rejeté la demande de restitution de délai formée
+par X.________.
+4.
+Par arrêt du 16 août 2016/539, la Chambre des recours pénale a rejeté le recours
+interjeté par X.________ contre l’ordonnance du 27 juin 2016.
+5.
+L’intéressé a recouru contre cet arrêt auprès du Tribunal fédéral
+(6B_1177/2016).
+6.
+Par prononcé du 30 septembre 2016, le Tribunal de police de l’arrondissement de Lausanne a
+déclaré irrecevable l’opposition formée par X.________ contre l’ordonnance
+pénale rendue le 4 mai 2016 par le Ministère public de l’arrondissement de Lausanne et
+a constaté que cette ordonnance pénale était exécutoire.
+7.
+Le 24 octobre 2016, X.________ a recouru contre ce prononcé auprès de la Chambre des recours
+pénale.
+8.
+Le 16 décembre 2016, le Président de la Chambre des recours pénale a informé les
+parties que la procédure de recours cantonale était suspendue jusqu’à droit connu
+sur le sort du recours déposé par le prévenu auprès du Tribunal fédéral
+(6B_1177/2016).
+9.
+Par arrêt du 20 décembre 2016, le Tribunal fédéral a déclaré irrecevable
+le recours interjeté par X.________ contre l’arrêt de la Chambre des recours pénale
+du 16 août 2016.
+10.
+Le 27 décembre 2016, le Président de la Chambre des recours pénale a informé les
+parties que la procédure de recours cantonale était reprise et a imparti à X.________
+un délai au 6 janvier 2017 pour indiquer s’il entendait maintenir son recours contre le prononcé
+du 30 septembre 2016.
+11.
+Le 3 janvier 2017, X.________ a déclaré retirer le recours qu’il avait déposé
+le 24 octobre 2016 contre le prononcé précité.
+Il convient d’en prendre acte et de rayer la cause du rôle.
+12.
+La partie qui retire son recours étant considérée comme ayant succombé (art. 428
+al. 1, 2
+e
+phrase CPP [Code de procédure pénale du 5 octobre 2007; RS 312.0]), les frais de la procédure
+de recours, constitués en l'espèce du seul émolument d'arrêt, par 330 fr. (art. 20
+al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010; RSV 312.03.1]), seront mis à la charge de X.________.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Il est pris acte du retrait du recours.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d’arrêt, par 330 fr. (trois
+cent trente francs), sont mis à la charge de X.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Lionel Zeiter, avocat (pour X
+.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal d’arrondissement de Lausanne,
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
