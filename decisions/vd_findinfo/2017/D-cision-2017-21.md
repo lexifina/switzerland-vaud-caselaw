@@ -1,0 +1,272 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___21"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 21"
+decided: "2017-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5898896"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-087.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 21
+
+## Regeste
+
+OPPOSITION TARDIVE, FICTION DE LA NOTIFICATION, NOTIFICATION DE LA DÉCISION, ORDONNANCE PÉNALE | 356 al. 2 CPP (CH), 85 al. 4 CPP (CH), 85 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.01.2017 Décision / 2017 / 21
+
+OPPOSITION TARDIVE, FICTION DE LA NOTIFICATION, NOTIFICATION DE LA DÉCISION, ORDONNANCE PÉNALE | 356 al. 2 CPP (CH), 85 al. 4 CPP (CH), 85 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+6
+PE14.022169-AFE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+9 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+85, 356 al. 2, 393 al. 1 let. b CPP
+Statuant sur le recours interjeté le 22 décembre 2016 par
+P.________
+contre le prononcé rendu le 12 décembre 2016 par le Tribunal de police de l’arrondissement
+de La Côte dans la cause
+n° PE14.022169-AFE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par ordonnance pénale du 13 mai 2015, expédiée par pli recommandé le même jour
+à P.________, le Ministère public de l’arrondissement de La Côte l’a condamné,
+pour faux dans les certificats, séjour illégal, activité lucrative sans autorisation,
+violation simple des règles de la circulation, violation grave des règles de la circulation
+et contravention à l’OACP (Ordonnance réglant l’admission des chauffeurs ;
+RS 741.521), à la peine ferme de 160 jours de peine privative de liberté, ainsi qu’à
+une amende de 1'000 fr., peine convertible en 10 jours de peine privative de liberté de substitution
+en cas de non-paiement fautif, a renoncé à révoquer les sursis accordés par le Ministère
+public de l’arrondissement de La Côte le 13 mai 2013 et le 6 septembre 2013 et a mis les frais
+de procédure à sa charge à raison d’un quart, soit de 1'068 fr. 75.
+Il était notamment reproché au prévenu, d’avoir séjourné épisodiquement
+sur le territoire suisse alors que son permis de séjour de type B était échu depuis le
+22 juillet 2014.
+L’envoi contenant cette ordonnance pénale est revenu en retour avec la mention « Non
+réclamé ».
+b)
+Par lettre du 24 novembre 2016, P.________ a indiqué au Ministère public que l’ordonnance
+pénale ne lui avait pas été notifiée.
+Le 2 décembre 2016, le Ministère public lui a répondu que l’ordonnance pénale
+était définitive et exécutoire depuis le 13 juin 2015 et lui a demandé s’il
+entendait néanmoins faire opposition.
+Par lettre du 7 décembre 2016, P.________, par son conseil, l’avocat Matthieu Genillod, a
+confirmé qu’il formait opposition à l’ordonnance pénale du 13 mai 2015, exposant
+que celle-ci ne lui avait toujours pas été notifiée et qu’il avait été
+domicilié plus d’une année, jusqu’au 1
+er
+juillet 2015, dans son pays d’origine, le Portugal.
+c)
+Le 9 décembre 2016, le Ministère public a indiqué qu’il maintenait son ordonnance
+pénale et que la cause était transmise au Tribunal de police de l’arrondissement de La
+Côte.
+B.
+Par prononcé du 12 décembre 2016, le
+Tribunal de police de l’arrondissement de La Côte a déclaré irrecevable l’opposition
+formée par P.________ contre l’ordonnance pénale rendue le 13 mai 2015 par le Ministère
+public de l’arrondissement de La Côte (I) et a constaté que cette ordonnance pénale
+était exécutoire (II).
+C.
+Le 22 décembre 2016, P.________ a recouru
+auprès de la Chambre des recours pénale contre ce prononcé, en concluant, avec suite de
+frais et de dépens à son annulation, l’opposition étant déclarée recevable
+et le dossier de la cause étant renvoyé au Ministère public pour instruction et nouvelle
+décision.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Le prononcé par lequel un tribunal de première
+instance, statuant sur la validité de l'opposition formée par le prévenu contre une ordonnance
+pénale rendue par le ministère public (cf. art. 356 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0]), déclare l'opposition irrecevable, par exemple pour
+cause de tardiveté, est susceptible de recours selon les art. 393 ss CPP (Gilliéron/Killias,
+in : Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 5 ad art. 356 CPP ; Riklin, in : Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar,
+Schweizerische Strafprozessordnung, Jugend-strafprozessordnung, 2
+e
+éd., Bâle 2014, n. 2 ad art. 356 CPP ; CREP 9 septembre 2016/605 ; CREP 30 décembre
+2014/925). Ce recours s’exerce auprès de l’autorité de recours (cf. art. 20 al.
+1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi d'introduction du Code de procédure pénale suisse du 19 mai 2009 ;
+RSV 312.01] ; art. 80 LOJV [loi d'organisation judiciaire du 12 décembre 1979 ; RSV 173.01]).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP).
+En
+l’espèce, interjeté en temps utile devant l’autorité compétente par le
+prévenu qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art.
+385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Invoquant une violation de l’art. 85 al. 4 let. a CPP, le recourant soutient que la fiction de
+notification prévue par cette disposition ne lui serait pas opposable. Il affirme en effet n’avoir
+à aucun moment désigné, comme adresse de notification, celle à laquelle l’ordonnance
+pénale a été notifiée, soit avenue de [...], à [...], qui est celle de ses parents.
+Il explique qu’une notification à cette adresse n’avait pas de sens, dès lors que
+sa mère avait déposé plainte contre lui (cf. ch. 1 de l’ordonnance pénale).
+2.2
+A teneur de l'art. 353 al. 3 CPP, l'ordonnance pénale est immédiatement notifiée par écrit
+aux personnes et aux autorités qui ont qualité pour former opposition. Le prévenu peut
+faire opposition à l'ordonnance pénale devant le ministère public, par écrit, dans
+les 10 jours (art. 354 al. 1 let. a CPP). Si aucune opposition n'est valablement formée, l'ordonnance
+pénale est assimilée à un jugement entré en force (art. 354 al. 3 CPP).
+Les autorités pénales notifient leurs prononcés par lettre signature ou par tout autre
+mode de communication impliquant un accusé de réception, notamment par l'entremise de la police
+(art. 85 al. 2 CPP). Selon l'art. 85 al. 4 let. a CPP, un prononcé est réputé notifié
+lorsque, expédié par lettre signature, il n'a pas été retiré dans les sept jours
+à compter de la tentative infructueuse de remise du pli, si la personne concernée devait s'attendre
+à une telle remise. Cette disposition reprend les principes développés par la jurisprudence
+et qui prévalaient avant l'entrée en vigueur du code de procédure pénale suisse le
+1
+er
+janvier
+2011 (TF 6B_1088/2013 du 12 mai 2014 consid. 1.2; TF 6B_314/2012 du 18 février 2013 consid. 1.2;
+cf. ATF 130 III 396 consid. 1.2.3). La personne concernée ne doit s'attendre à la remise d'un
+prononcé que lorsqu'il y a une procédure en cours qui impose aux parties de se comporter conformément
+aux règles de la bonne foi, à savoir de faire en sorte, entre autres, que les décisions
+relatives à la procédure puissent leur être notifiées. Le devoir procédural
+d'avoir à s'attendre avec une certaine vraisemblance à recevoir la notification d'un acte officiel
+naît avec l'ouverture d'un procès et vaut pendant toute la durée de la procédure
+(ATF 130 III 396 consid. 1.2; TF 6B_314/2012 du 18 février 2013 consid. 1.3.1).
+Un simple interrogatoire par la police en qualité de témoin, voire de suspect, ne suffit en
+général pas à créer un rapport juridique de procédure pénale avec la personne
+entendue. Il ne peut donc être considéré qu'à la suite d'un tel interrogatoire, celle-ci
+doit prévoir que des actes judiciaires lui seront notifiés (cf ATF 116 Ia 90 consid. 2c/aa;
+ATF 101 Ia 7 consid. 2). Il est admis en revanche que la personne concernée doit s'attendre à
+la remise d'un prononcé lorsqu'elle est au courant qu'elle fait l'objet d'une instruction pénale
+au sens de l'art. 309 CPP (TF 6B_281/2012 du 9 octobre 2012 consid. 1.1; TF 6B_158/2012 du 27 juillet
+2012 consid 2.1; Schmid, Schweizerische Strafprozessordnung [StPO], Praxiskommentar, 2
+e
+éd., 2013, n° 9 ad art. 85 CPP; Moreillon/Parein-Reymond, Petit Commentaire du Code de procédure
+pénale, 2
+e
+éd., 2016, n. 17 ad art. 85 CPP). Ainsi, un prévenu informé par la police d'une procédure
+préliminaire le concernant, de sa qualité de prévenu et des infractions reprochées,
+doit se rendre compte qu'il est partie à une procédure pénale et donc s'attendre à
+recevoir, dans ce cadre-là, des communications de la part des autorités, y compris un prononcé
+(TF 6B_1032/2015 du 25 mai 2016 consid. 1.1 ; TF 6B_314/2012 du 18 février 2013 consid. 1.3.2;
+TF 6B_281/2012 du 9 octobre 2012 consid. 1.1; TF 6B_158/2012 du 27 juillet 2012 consid. 2.1).
+De jurisprudence constante, celui qui se sait partie à une procédure judiciaire et qui doit
+dès lors s'attendre à recevoir notification d'actes du juge, est tenu de relever son courrier
+ou, s'il s'absente de son domicile, de prendre des dispositions pour que celui-ci lui parvienne néanmoins.
+À ce défaut, il est réputé avoir eu, à l'échéance du délai de
+garde, connaissance du contenu des plis recommandés que le juge lui adresse. Une telle obligation
+signifie que le destinataire doit, le cas échéant, désigner un représentant, faire
+suivre son courrier, informer les autorités de son absence ou leur indiquer une adresse de notification
+(ATF 139 IV 228 consid. 1.1 et les références citées; cf. TF 6B_1032/2015 du 25 mai 2016
+consid. 1.1 ; TF 6B_704/2015 du 16 février 2016 consid. 2.3).
+2.3
+En l’espèce, le recourant a été entendu en qualité de prévenu par la Police
+cantonale le 9 octobre 2014 ainsi que par la Police de Morges le 27 octobre 2014 dans le cadre de l’examen
+de sa situation en matière de police des étrangers.
+Lors de son audition du 9 octobre 2014, l’intéressé a expliqué qu’il dormait
+parfois chez ses parents, avenue de [...] à [...], qu’il allait parfois chez une amie prénommée
+[...] à [...] ou chez son copain [...] à [...]. Il a fourni, lors de cette audition, l’adresse
+de son amie [...] à [...], qui figure sur le procès-verbal aux côtés de celle de
+ses parents.
+En revanche, lors de son audition du 27 octobre 2014, il a indiqué l’adresse de ses parents
+à Morges, qui figure seule sur le procès-verbal et sur le document annexé. Ces documents
+ont été signés par le recourant.
+Au début de ses auditions de police, le recourant a expressément été avisé que,
+s’il avait son domicile ou sa résidence habituels à l’étranger, ou qu’il
+n’avait pas de domicile fixe, il devait désigner une personne en Suisse pour recevoir toutes
+correspondances ou décisions en lien avec la procédure pénale en cours, conformément
+à l’art. 87 al. 2 CPP. L’intéressé a déclaré avoir compris le document
+l’informant de ses droits et obligations relatif au statut de prévenu, qu’il a signé.
+Il ressort par ailleurs du procès-verbal de son audition du 9 octobre 2014, que le recourant a pris
+note qu’il était entendu en qualité de prévenu au sens des art. 142 ss et 157 ss
+CPP dans le cadre d’une procédure pénale instruite contre lui.
+Le recourant, qui avait été informé par la police qu’une procédure pénale
+était instruite contre lui et avait pris connaissance de ses droits et obligations, devait donc
+s’attendre à ce que des actes de procédure, y compris une ordonnance pénale, lui
+soient communiqués et que l’adresse qu’il avait fournie à la police le 27 octobre
+2014 soit utilisée à cette fin. Le rappel de ses obligations lui imposait de prendre des mesures
+appropriées pour que toute suite utile puisse être donnée, en son absence, à un envoi
+judiciaire le concernant. Il lui appartenait, en particulier, en cas de modification de sa situation
+ou de ses rapports avec ses parents, de le faire savoir au Ministère public. Celui-ci, en vertu
+de l’obligation de bonne foi que le recourant avait contractée en signant notamment les documents
+relatifs au statut de prévenu, n’avait aucune raison de mettre en doute la fiabilité
+des informations communiquées par l’intéressé au sujet de l’adresse de notification
+à [...].
+Il s’ensuit que la notification de l’ordonnance pénale à l’adresse indiquée
+par le recourant le 27 octobre 2014 est régulière.
+Le pli recommandé contenant l’ordonnance pénale, envoyé au recourant le 13 mai 2015,
+n’a pas été retiré au guichet postal dans le délai de garde de sept jours,
+de sorte qu’à l’échéance de celui-ci, le 22 mai 2015, le recourant disposait
+d’un délai au 1
+er
+juin 2015 pour former opposition conformément à l’art. 354 al. 1 CPP. Formée le
+24 novembre 2016 seulement, l’opposition est clairement tardive, comme l’a retenu à
+juste titre l’autorité précédente. Elle est donc irrecevable.
+3.
+En définitive, le
+recours, manifestement mal fondé, doit être rejeté, sans autre échange d’écritures
+(art. 390 al. 2 CPP), et le prononcé du 12 décembre 2016 confirmé.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d’arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis
+à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 12 décembre 2016 est confirmé.
+III.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont mis à la charge de P.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Matthieu Genillod, avocat (pour P.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Président du Tribunal d’arrondissement de La Côte,
+-
+M. le Procureur de l’arrondissement de La Côte,
+-
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
