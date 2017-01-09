@@ -1,0 +1,232 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 25"
+decided: "2017-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5897850"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/311.0/art-312.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-322.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 25
+
+## Regeste
+
+NON-LIEU | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.01.2017 Décision / 2017 / 25
+
+NON-LIEU | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+14
+PE16.023827-CMI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+9 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Rouiller
+*****
+Art.
+310 CPP ; 312 CP
+Statuant sur le recours interjeté le 21 décembre 2016 par
+S.________
+contre l'ordonnance de non-entrée en matière rendue 8 décembre 2016 par le Ministère
+public de l'arrondissement du Nord vaudois dans la cause
+n° PE16.023827-CMI
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 1
+er
+décembre 2016, S.________, actuellement détenu aux Etablissement de la Plaine de l'Orbe (EPO)
+a déposé plainte pénale contre R.________, agent de détention, pour abus d'autorité.
+Dans sa plainte, S.________ a reproché au prévenu de l'avoir provoqué à plusieurs
+reprises en lui
+"venant
+contre",
+ce que le plaignant aurait pris
+sur le ton de la rigolade pour ne pas envenimer la situation. A une autre occasion, alors que S.________
+était aux arrêts et qu'il discutait avec une gardienne de
+"choses
+personnelles"
+, le prévenu se serait
+permis
+"sans y être
+invité, de couper court à la conversation"
+.
+Il aurait ensuite refusé de fournir au plaignant les excuses qu'il lui demandait et lui aurait répondu
+:
+"Vous pouvez toujours
+attendre".
+Cette attitude aurait fâché
+le plaignant qui a traité le prévenu de
+"gros
+connard"
+et de
+"gros
+salopard",
+propos sanctionnés par deux
+jours de cachot.
+En définitive, S.________ a estimé avoir été victime d'un
+"abus
+de pouvoir/ Abus de situation dominante"
+de la part de R.________ lequel ne serait d'ailleurs ni cordial, ni souriant et devrait, cela étant,
+travailler
+"dans un établissement
+comme Bochu, la Croisée ou encore le Bois-Mermet
+(sic)
+".
+Au vu des faits dénoncés, S.________
+a requis que R.________ soit condamné à lui faire des excuses écrites, ainsi qu'à
+lui verser un
+"dédommagement
+financier"
+de 800 fr. pour s'être mêlé
+à une conversation
+"qui
+ne le regardait en rien"
+et pour
+"les
+deux jours de cachot fait suite à sa plainte
+(sic)."
+Il ajouté vouloir aller
+"jusqu'à gagner",
+quitte à
+ce que le prévenu
+"en
+perde son emploi… !!!!!
+(sic)
+".
+B.
+Par ordonnance du 8 décembre 2016, notifiée
+le 13 décembre suivant, le Ministère public a décidé de ne pas entrer en matière
+(I) et de laisser les frais à la charge de l'Etat (II). Il a considéré qu'une plaisanterie
+ne pouvait pas être considérée comme un abus d'autorité et qu'en tant qu'agent de
+détention, le prévenu était en droit d'interrompre une discussion.
+C.
+Par acte du 21 décembre 2016, S.________ a recouru contre cette ordonnance. Il a conclu implicitement
+à son annulation.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (cf. art. 310 CPP) dans les dix jours
+devant l’autorité de recours (art. 310 al. 2 et 322 al. 2 CPP; cf. art. 20 al. 1 let. b CPP)
+qui, dans le canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal
+(art.
+13 LVCPP [loi d’introduction du code de procédure pénale suisse; RSV 312.01]; art. 80
+LOJV [loi d’organisation judiciaire; RSV 173.01]).
+Interjeté dans le délai légal (art. 322 al. 2 CPP, par renvoi de
+l'art.
+310 al. 2 et art. 396 al. 1 CPP) par une partie plaignante qui a qualité pour recourir (art. 382
+al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Aux termes de l'art. 310 al. 1 let. a CPP, une
+ordonnance de non-entrée en matière est rendue immédiatement – c’est-à-dire
+sans qu’une instruction soit ouverte (art. 309 al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 consid.
+2.1; Cornu, in: Kuhn/Jeanneret [éd.], op. cit., n. 2 ad art. 310 CPP) – par le ministère
+public lorsqu'il apparaît, à réception de la dénonciation (cf. art. 301 s. CPP) ou
+de la plainte (Cornu, op. cit., n. 1 ad art. 310 CPP) ou après une procédure préliminaire
+limitée aux investigations de la police (art. 300 al. 1 et 306 s. CPP), que les éléments
+constitutifs de l'infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement
+pas réunis (let. a), qu’il existe des empêchements de procéder (let. b) ou que les
+conditions mentionnées à l’art. 8 CPP imposent de renoncer à l’ouverture d’une
+poursuite pénale (let. c) (TF 1B_111/2012 du 5 avril 2012 consid. 2.1; TF 1B_67/2012 du 29 mai 2012
+consid. 2.2).
+2.2
+L'art. 312 CP réprime le fait pour un membre d'une autorité ou un fonctionnaire d'abuser des
+pouvoirs de sa charge dans le dessein de se procurer ou de procurer à un tiers un avantage illicite
+ou de nuire à autrui. L'abus d'autorité est l'emploi de pouvoirs officiels dans un but contraire
+à celui recherché. Cette disposition protège, d'une part, l'intérêt de l'Etat
+à disposer de fonctionnaires loyaux qui utilisent les pouvoirs qui leur ont été conférés
+en ayant conscience de leur devoir et, d'autre part, l'intérêt des citoyens à ne pas être
+exposés à un déploiement de puissance étatique incontrôlé et arbitraire
+(ATF 127 IV 209 consid. 1b p. 212).
+Sur le plan objectif, l'infraction réprimée par cette disposition suppose que l'auteur, soit
+un membre d'une autorité ou un fonctionnaire au sens de
+l'art.
+110 al. 3 CP, qu'il ait agi dans l'accomplissement de sa tâche officielle et qu'il ait abusé
+des pouvoirs inhérents à cette tâche. Cette dernière condition est réalisée
+lorsque l'auteur use illicitement des pouvoirs qu'il détient de sa charge, c'est-à-dire lorsqu'il
+décide ou contraint en vertu de sa charge officielle dans un cas où il ne lui était pas
+permis de le faire (ATF 127 IV 209 consid. 1a/aa p. 211; ATF 114 IV 41 consid. 2 p. 43; ATF 113 IV 29
+consid. 1 p. 30). Cet abus doit être davantage qu'une simple violation des devoirs de service (ATF
+114 IV 41 consid. 2).
+Du point de vue subjectif, l'infraction suppose un comportement intentionnel, au moins sous la forme
+du dol éventuel, ainsi qu'un dessein spécial, qui peut se présenter sous deux formes alternatives,
+soit le dessein de se procurer ou de procurer à un tiers un avantage illicite, soit le dessein de
+nuire à autrui (TF 6B_831/2011 du 14 février 2012 consid. 1.2
+in fine
+). L'existence par dol éventuel de
+l'un ou l'autre de ces desseins suffit (TF 6B_1169/2014 du 6 octobre 2015 consid. 2.1 et réf., ainsi
+que, sur tous ces points, CREP 22 juin 2016/414 consid. 4.2).
+2.3
+En l'espèce, le recourant ne dit pas en quoi
+la position du Ministère public serait critiquable. Reprenant les termes de sa plainte, il allègue
+que le gardien l'aurait provoqué sur le ton de la rigolade et qu'il aurait interrompu une conversation
+avec un tiers. Il ne démontre pas et on ne voit pas en quoi le comportement du prévenu réunirait
+les éléments constitutifs d'une infraction à l'art. 312 CP.
+2.4
+A défaut d'infraction, c'est à bon droit que le Ministère public a décidé de
+ne pas entrer en matière.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée
+confirmée.
+Les frais de la procédure de recours, constitués en l'espèce du seul l'émolument
+d'arrêt, par 550 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 8 décembre 2016 est confirmée.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont mis à la charge de S.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+S.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Monsieur le Procureur de l'arrondissement du Nord vaudois.
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
