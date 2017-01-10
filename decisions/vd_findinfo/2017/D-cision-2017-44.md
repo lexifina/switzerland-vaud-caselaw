@@ -1,0 +1,220 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___44"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 44"
+decided: "2017-01-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5902513"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-036.md", "switzerland/bund/acts/312.0/art-017.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-357.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 44
+
+## Regeste
+
+DÉFENSE D'OFFICE, REJET DE LA DEMANDE, CAS BÉNIN, JUGE UNIQUE | 132 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.01.2017 Décision / 2017 / 44
+
+DÉFENSE D'OFFICE, REJET DE LA DEMANDE, CAS BÉNIN, JUGE UNIQUE | 132 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+16
+LAU/01/15/0000760
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+10 janvier 2017
+__________________
+Composition
+:               M.
+Meylan
+,
+juge unique
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+132 al. 1 let. b, 393 al. 1 let. a, 395 let. a CPP
+Statuant sur le recours interjeté le 22 décembre 2016 par
+F.________
+contre l’ordonnance de refus de désignation d’un défenseur d’office rendue
+le 12 décembre 2016 par le Préfet du district de Lausanne dans la cause
+n° LAU/01/15/0000760
+,
+le juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par ordonnance pénale du 11 mars 2015, le Préfet du district de Lausanne a constaté que
+F.________ s’était rendue coupable d’infraction à la LEO (Loi sur l’enseignement
+obligatoire du 7 juin 2011 ; RSV 400.02) (I), l’a condamnée à une amende de 100
+fr. (II), a dit qu’à défaut de paiement de l’amende, la peine privative de liberté
+de substitution serait d’un jour (III), et a laissé les frais à la charge de l’Etat
+(IV).
+Entre 2014 et 2016, F.________ a en outre été condamnée par la Commission de police de
+Lausanne à des amendes d’ordre.
+b)
+Faute de paiement, les amendes précitées ont été converties en des peines privatives
+de liberté de substitution et un ordre d'exécution de peine a été notifié le
+7 octobre 2016 à F.________, rectifié le 28 octobre 2016, la sommant de se présenter le
+18 novembre 2016 à la Prison de la Tuilière pour exécuter 37 jours de peine privative
+de liberté de substitution résultant de la conversion de huit amendes totalisant 5'760 francs.
+Par requête du 2 novembre 2016, F.________ a demandé à la Préfecture du district
+de Lausanne d’obtenir un délai de paiement supplémentaire en vertu de l’art. 36
+al. 3 CP. Elle a en outre sollicité la désignation de l’avocat César Montalto en
+qualité de défenseur d’office.
+B.
+Par ordonnance du 12 décembre 2016, le Préfet
+du district de Lausanne a rejeté la requête de désignation d’un défenseur d’office
+à F.________ (I) et a dit que les frais suivaient le sort de la cause (II).
+Le Préfet a considéré que les faits reprochés à F.________ étaient de peu
+de gravité au vu de la peine susceptible d’être prononcée, de sorte que l’assistance
+d’un défenseur n’apparaissait pas justifiée pour sauvegarder ses intérêts.
+C.
+Par acte du 22 décembre 2016, F.________ a recouru contre cette ordonnance auprès de la Chambre
+des recours pénale du Tribunal cantonal en concluant, avec suite de frais et dépens, à
+la modification de son chiffre I en ce sens que la requête de désignation d’un défenseur
+d’office lui est accordée. Subsidiairement, elle a conclu à son annulation. Elle a en
+outre requis l’effet suspensif au recours ainsi que la désignation d’office de Me César
+Montalto pour la procédure de recours.
+Par ordonnance du 23 décembre 2016, le Président de la Chambre des recours pénale a rejeté
+la requête tendant à l’effet suspensif du recours.
+En droit
+:
+1.
+1.1
+Sont notamment compétents pour poursuivre
+et juger les contraventions de droit fédéral et cantonal le Ministère public et le préfet
+(art. 3 al. 2 LVCPP [Loi d’introduction du Code de procédure pénale suisse, RSV 312.01] ;
+cf. art. 17 al. 1 CPP). En pareil cas, le préfet a les attributions du ministère public
+(art. 357 al. 1 CPP). Une décision refusant d'ordonner une défense d'office (art. 132
+CPP) est ainsi susceptible de recours selon les art. 393 ss CPP (Moreillon/Parein-Reymond, Code de procédure
+pénale, Petit commentaire, 2
+e
+éd., Bâle 2016, n. 18 ad art. 132 CPP; CREP 12 août 2016/527; CREP 14 mars 2016/189).
+Ce recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui dans le canton de Vaud est la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP ; art. 80 LOJV [Loi d’organisation judiciaire;
+RSV 173.01]).
+En l'espèce, interjeté en temps utile devant l’autorité compétente par la prévenue
+qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+1.2
+En vertu de l’art. 395 al. 1 let. a CPP,
+si l’autorité de recours est un tribunal collégial, sa direction de la procédure
+statue seule sur le recours lorsqu’il porte exclusivement sur des contraventions. Tel est le cas
+en l’espèce, de sorte qu'un juge de la Chambre des recours pénale est compétent
+pour statuer en tant que juge unique dans la présente procédure (art. 13 al. 2 LVCPP ;
+CREP 11 janvier 2016/21).
+2.
+2.1
+En dehors des cas de défense obligatoire
+au sens de l’art. 130 CPP, la direction de la procédure ordonne une défense d’office
+si le prévenu ne dispose pas des moyens nécessaires et que l’assistance d’un défenseur
+est justifiée pour sauvegarder ses intérêts (art. 132 al. 1 let. b CPP), ces deux conditions
+étant cumulatives (Harari/Aliberti, in : Kuhn/Jeanneret [éd.], Commentaire romand, Code de
+procédure pénale suisse, Bâle 2011, n. 55 ad art. 132 CPP).
+L’art. 132 al. 1 let. b CPP codifie la jurisprudence rendue par le Tribunal fédéral avant
+l'entrée en vigueur du Code de procédure pénale suisse en matière de défense
+d'office (Harari/Aliberti, op. cit., nn. 60 ss ad art. 132 CPP). En ce qui concerne la notion d'indigence,
+une personne ne dispose pas des moyens nécessaires lorsqu'elle n'est pas en mesure d'acquitter les
+frais du procès sans avoir recours à des moyens qui lui sont nécessaires pour subvenir
+à ses besoins élémentaires et à ceux de sa famille (ATF 128 I 225 consid. 2.5.1 ;
+Harari/Aliberti, op. cit., n. 33 ad art. 132 CPP). La deuxième condition s'interprète
+à l'aune des critères mentionnés à l'art. 132 al. 2 et 3 CPP (Harari/Aliberti, op.
+cit., nn. 60 ss ad art. 132 CPP).
+Aux termes de l’art. 132 al. 2 CPP, une défense d’office aux fins de protéger les
+intérêts du prévenu indigent se justifie notamment lorsque l’affaire n’est
+pas de peu de gravité et – condition cumulative (Moreillon/Parein-Reymond, Petit Commentaire
+du Code de procédure pénale, Bâle 2016, n. 23 ad art. 132 CPP; Harari/Aliberti, op. cit.,
+n. 61 ad art. 132 CPP ; TF 1B_359/2010 du 13 décembre 2010 consid. 3.2) – qu’elle
+présente, sur le plan des faits ou du droit, des difficultés que le prévenu seul ne pourrait
+pas surmonter. En tout état de cause, une affaire n’est pas de peu de gravité lorsque
+le prévenu est passible d’une peine privative de liberté de plus de quatre mois, d’une
+peine pécuniaire de plus de 120 jours-amende ou d’un travail d’intérêt général
+de plus de 480 heures (art. 132 al. 3 CPP).
+Selon la jurisprudence du Tribunal fédéral, le point décisif est toujours de savoir si
+la désignation d'un avocat d'office est objectivement nécessaire dans le cas d'espèce
+(TF 1B_195/2011 du 28 juin 2011 consid. 3.2). A cet égard, il faut tenir compte des circonstances
+concrètes de l'affaire, de la complexité des questions de fait et de droit, des particularités
+que présentent les règles de procédure applicables, des connaissances juridiques du requérant
+ou de son représentant, du fait que la partie adverse est assistée d'un avocat et de la portée
+qu'a pour le requérant la décision à prendre, avec une certaine réserve lorsque sont
+en cause principalement ses intérêts financiers (TF 1B_359/2010 du 13 décembre 2010 consid.
+3.2 ; ATF 128 I 225 consid. 2.5.2). En revanche, dans les « cas bagatelle »
+– soit, selon le Tribunal fédéral, ceux dans lesquels il ne risque qu'une peine de courte
+durée ou une amende –, le prévenu n'a pas, même s'il est indigent, de droit constitutionnel
+à la désignation d'un défenseur d'office gratuit (Harari/Aliberti, op. cit., n. 67 ad
+art. 132 CPP ; TF 1B_24/2015 du 19 février 2015 consid. 3.3 et les références
+citées).
+2.2
+En l’espèce, l’indigence de la
+recourante doit être admise au vu de sa situation financière obérée. Toutefois, la
+deuxième condition de l’art. 132 al. 1
+let.
+b CPP n’est pas réalisée. Comme l'a relevé à juste titre le Préfet, l'affaire
+peut être qualifiée de peu de gravité (art. 132 al. 3 CPP). Il s’agit en effet d’un
+cas bagatelle au sens de la jurisprudence. Au surplus, la cause ne présente aucune difficulté
+en fait ou en droit que la recourante ne pourrait pas surmonter seule, dès lors qu’il s’agira
+uniquement pour le Préfet d’accepter ou non un délai supplémentaire de paiement
+afin d’éviter que F.________ ne doive exécuter les peines privatives de liberté
+de substitution, de faible durée, prononcées à son encontre.
+Au vu de ces éléments, la désignation d'un défenseur d'office n’apparaît
+pas objectivement nécessaire dans le cas d'espèce et c’est à juste titre que le
+Préfet a rejeté la requête de l’intéressée en ce sens.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté, sans échange d’écritures (art. 390 al. 2 CPP), et l’ordonnance du
+12 décembre 2016 confirmée.
+La requête tendant à la désignation de Me César Montalto en qualité de défenseur
+d’office pour la procédure devant le juge de céans doit également être rejetée,
+le recours apparaissant d’emblée dénué de chances de succès (cf. CREP 20 novembre
+2014/833 ; CREP 2 mai 2014/316 consid. 4b).
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d’arrêt,
+par 540 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge de la recourante,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 12 décembre 2016 est confirmée.
+III.
+La requête tendant à la désignation
+d’un défenseur d’office pour la procédure de recours est rejetée.
+IV.
+Les frais d’arrêt, par 540 fr. (cinq cent quarante francs), sont mis à la charge de F.________.
+V.
+L’arrêt est exécutoire.
+Le
+juge unique :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me César Montalto, avocat (pour F.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Préfet du district de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
