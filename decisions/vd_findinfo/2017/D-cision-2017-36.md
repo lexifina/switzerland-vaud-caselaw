@@ -1,0 +1,323 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 36"
+decided: "2017-01-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5911331"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-247.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 36
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE, MOYEN DE PREUVE, CONFISCATION{DROIT PÉNAL} | 263 al. 1 let. a CPP (CH), 263 al. 1 let. d CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.01.2017 Décision / 2017 / 36
+
+ORDONNANCE DE SÉQUESTRE, MOYEN DE PREUVE, CONFISCATION{DROIT PÉNAL} | 263 al. 1 let. a CPP (CH), 263 al. 1 let. d CPP (CH)
+
+TRIBUNAL
+CANTONAL
+22
+PE15.024855-JON
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+11 janvier 2017
+__________________
+Composition :
+M.
+Maillard
+,
+président
+MM.
+Krieger et Abrecht, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+263 al. 1 let. a et d CPP
+Statuant sur le recours interjeté le 19 décembre 2016 par
+A.________
+contre les ordonnances de séquestre rendues les 6 et 7 décembre 2016 par le Ministère
+public de l'arrondissement de Lausanne dans la cause
+n° PE15.024855-JON
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+A.________, née le [...] 1967, a été
+arrêtée le 12 décembre 2015. Une instruction a été ouverte contre elle
+par le Ministère public de l'arrondissement de Lausanne pour infraction grave à la Loi fédérale
+sur les stupéfiants.
+En substance, A.________ a admis qu'elle avait, depuis la mi-octobre 2015, effectué une dizaine
+de voyages entre la Suisse et l'Espagne et transporté au total plusieurs dizaines de kilos de cannabis.
+La marchandise était destinée à au moins trois personnes.
+Le 11 novembre 2016, A.________ a demandé la levée du séquestre sur son téléphone
+cellulaire et sur son ordinateur. Le 18 novembre 2016, le Procureur de l'arrondissement de Lausanne l'a
+informée que ces pièces étaient toujours en mains de la police.
+La Police de sûreté a rendu son rapport d'investigation le 30 novembre 2016.
+B.
+Par ordonnance du 6 décembre 2016, le Procureur
+de l'arrondissement de Lausanne a séquestré plusieurs objets appartenant à A.________,
+dont un téléphone cellulaire iPhone blanc – IMEI 013351000868119 (séquestre n
+o
+64532),
+au motif que celui-ci pourrait être utilisé comme moyen de preuve compte tenu des faits reprochés
+à la prévenue.
+Par ordonnance du 7 décembre 2016, le Procureur de l'arrondissement de Lausanne a séquestré
+un ordinateur portable iMac n
+o
+de
+série CO2QJEFM6940 appartenant à A.________ (séquestre n
+o
+64563),
+au motif que la prévenue avait utilisé cet objet dans le cadre de son activité délictueuse
+et qu'il était probable qu'il devrait être confisqué.
+C.
+Par acte du 19 décembre 2016, A.________
+a recouru auprès de la Chambre des recours pénale du Tribunal cantonal contre les deux ordonnances
+de séquestre des 6 et 7 décembre 2016, en concluant, avec suite de frais et dépens, principalement
+à leur annulation, subsidiairement à leur réforme en ce sens que le séquestre soit
+levé sur le téléphone cellulaire iPhone blanc – IMEI 01351000868119 et sur l'ordinateur
+portable iMac n
+o
+de
+série CO2QJEFM6940, ces objets lui étant immédiatement restitués.
+Le 30 décembre 2016, le Procureur de l'arrondissement de Lausanne a déclaré qu’il
+n’entendait pas déposer de déterminations, qu’il se référait aux considérants
+des ordonnances attaquées et qu’il concluait au rejet du recours.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable
+contre les décisions et actes de procédure du Ministère public. Une ordonnance de séquestre
+(art. 263 CPP) rendue par le Ministère public dans le cadre de la procédure préliminaire
+est ainsi susceptible de recours selon les art. 393 ss CPP (Moreillon/
+Parein-Reymond,
+Petit Commentaire du Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 24 ad art. 263 CPP ; Lembo/Julen Berthod, Commentaire romand, Code
+de procédure pénale suisse, Bâle 2011, n. 4 ad art. 267 CPP ; CREP 13 mars 2015/188 ;
+CREP 19 février 2015/51 et les réf. citées).
+Ce recours s’exerce par écrit dans les dix jours devant l’autorité de recours (art.
+396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui, dans le canton de Vaud, est la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du code de procédure pénale
+suisse du 19 mai 2009 ; RSV 312.01)] ; art. 80 LOJV [loi d'organisation judiciaire du
+12 septembre 1979 ; RSV 173.01]).
+1.2
+En l'espèce, interjeté en temps utile contre les deux ordonnances de séquestre par la
+prévenue qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art.
+385 al. 1 CPP), le recours est recevable.
+2.
+Téléphone
+cellulaire iPhone blanc – IMEI 013351000868119
+2.1
+La recourante soutient qu’elle a admis les faits qui lui étaient reprochés, que son téléphone
+cellulaire, qui est entre les mains de la Justice depuis près d'une année, a déjà
+été analysé et que les parties attendent actuellement le dépôt du rapport final
+d'enquête de la police. Dès lors qu'il n'y aurait plus aucune opération de recherche à
+effectuer sur son téléphone cellulaire, la recourante considère que celui-ci devrait lui
+être rendu.
+2.2
+En vertu de l'art. 263 al. 1 CPP, des objets et des valeurs patrimoniales appartenant au prévenu
+ou à des tiers peuvent être mis sous séquestre, lorsqu'il est probable qu'ils seront utilisés
+comme moyens de preuve (let. a), qu’ils seront utilisés pour garantir le paiement des frais
+de procédure, des peines pécuniaires, des amendes et des indemnités (let. b), qu’ils
+devront être restitués au lésé (let. c) ou qu'ils devront être confisqués
+(let. d).
+L'art. 263 al. 1 let. a CPP concerne le séquestre probatoire, qui garantit la protection et la conservation,
+à la disposition des autorités pénales, de tous les éléments de preuve découverts
+lors d'une perquisition ou au cours de l'enquête, susceptibles de servir à la manifestation
+de la vérité au cours du procès pénal et à la conviction du juge en rapport
+avec l'infraction poursuivie (Lembo/Julen Berthod, op. cit., n. 5 ad art. 263 CPP ; Bommer/Goldschmid,
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 5 ante art. 263-268 CPP et n. 9 ad art. 263 CPP). Les objets visés
+peuvent appartenir ou être en possession du prévenu, mais également de tiers, même
+étrangers à l’infraction (Lembo/Julen Berthod, op. cit., n. 19 ad art. 263 CPP ;
+Bommer/Goldschmid, op. cit., nn. 21 et 31 ad art. 263 CPP).
+Conformément à l'art. 197 al. 1 CPP, le séquestre ne peut être ordonné qu'aux
+conditions suivantes : la mesure est prévue par la loi (let. a) ; des soupçons suffisants
+laissent présumer une infraction (let. b) ; les buts poursuivis ne peuvent pas être atteints
+par des mesures moins sévères (let. c) et la mesure apparaît justifiée au regard
+de la gravité de l'infraction (let. d) (Lembo/Julen Berthod, op. cit., n. 17 ad art. 263 CPP ;
+Bommer/Goldschmid, op. cit., nn. 11 à 15 ante art. 263-268 CPP).
+Pour que le séquestre soit conforme au principe de la proportionnalité (cf. art. 197 al.
+1 let. c et d CPP et art. 36 al. 3 Cst.), il doit être apte à produire les résultats escomptés
+(règle de l’aptitude), ces derniers ne pouvant pas être atteints par une mesure moins
+incisive (règle de la nécessité) ; il faut, en outre, que la mesure n’emporte
+pas de limitation allant au-delà du but visé ; enfin, il doit exister un rapport raisonnable
+entre le séquestre et les intérêts privés compromis, eu égard à la gravité
+de l’infraction et des charges qui pèsent sur le prévenu (principe de la proportionnalité
+au sens étroit) (Lembo/Julen Berthod, op. cit., n. 23 ad art. 263 CPP ; Bommer/Goldschmid,
+op. cit., n. 23 ad art. 263 CPP).
+Le principe de la proportionnalité implique en particulier que l’autorité pénale
+doit, lorsqu’un objet est susceptible d’être utilisé comme moyen de preuve (cf. art.
+263 al. 1 let. a CPP) en raison des informations qui y sont contenues, se contenter de tirer une copie
+de ces informations si cela suffit aux besoins de la procédure (cf. art. 247 al. 3 CPP sur la perquisition
+de documents et enregistrements ; Bommer/Goldschmid, op. cit., n. 23 ad art. 263 CPP) et restituer
+l’objet lui-même à son titulaire si celui-ci en a besoin (sur le tout : CREP 8 novembre
+2011/508 consid. 2).
+2.3
+En l'espèce, le téléphone cellulaire de la recourante a été séquestré
+au motif qu'il pourrait être utilisé comme moyen de preuve (art. 263 al. 1 let. a CPP) dans
+l’enquête en cours. Or, dans la mesure où il est manifeste que seules les informations
+contenues dans la mémoire du téléphone cellulaire ou dans la carte SIM sont susceptibles
+d’être utilisées comme moyens de preuve, le principe de la proportionnalité commande
+de tirer une copie des informations en question – ce qui a probablement déjà été
+fait depuis longtemps – avant de restituer à la recourante son téléphone cellulaire.
+3.
+Ordinateur portable
+iMac n
+o
+de
+série CO2QJEFM6940
+3.1
+La recourante admet qu'elle a utilisé son ordinateur portable dans le cadre de son activité
+délictueuse, mais soutient qu'elle aurait acquis cet objet bien avant son implication dans l'affaire
+pénale en cours et non pas dans le seul but de commettre les faits reprochés. L'analyse de
+l'ordinateur aurait par ailleurs démontré qu'elle l'utilisait pour d'autres activités,
+tout à fait licites. La recourante considère qu'il ne serait pas proportionné de séquestrer,
+respectivement de confisquer son ordinateur portable, puisque celui-ci lui a principalement servi pour
+des activités licites.
+3.2
+L’ordonnance attaquée se fonde sur l'art. 263 al. 1 let. d CPP, au terme duquel des objets
+et des valeurs patrimoniales appartenant au prévenu ou à des tiers peuvent être mis sous
+séquestre, lorsqu'il est probable qu'ils devront être confisqués. Il s’agit du séquestre
+dit conservatoire, qui suppose que l’on puisse admettre prima facie avec une certaine probabilité
+que les objets et valeurs patrimoniales en question seront confisqués en application du droit fédéral
+(Lembo/Julen Berthod, op.cit., nn. 7 et 27 ad art. 263 CPP ; cf. TF 1P.31/2000 du 14 février
+2000 consid. 2b). Il doit en outre exister un rapport de connexité entre l'objet séquestré
+et l'infraction poursuivie (principe de la spécialité) (Lembo/Julen Berthod, op. cit., n. 17
+ad art. 263 CPP). Ce lien de connexité existe lorsque l'objet séquestré est en relation
+directe avec l'infraction, qu'il ait servi à la commettre ou en soit le produit (Lembo/Julen Berthod,
+op. cit., n. 24 ad art. 263 CPP ; CREP 4 août 2011/292).
+Selon l'art. 69 al. 1 CP, alors même qu'aucune personne déterminée n'est punissable, le
+juge prononcera la confiscation d'objets qui ont servi ou devaient servir à commettre une infraction
+ou qui sont le produit d'une infraction, si ces objets compromettent la sécurité des personnes,
+la morale ou l'ordre public.
+Il ne suffit cependant pas qu'un objet ait servi à commettre un crime ou un délit pour en justifier
+la confiscation ; encore faut-il qu'il compromette la sécurité des personnes, la morale
+ou l'ordre public (ATF 116 IV 117 consid. 2a). Le danger créé ou révélé par
+l'infraction doit ainsi subsister ; il peut être inhérent à l'objet lui-même
+ou ressortir de l'usage que son détenteur est susceptible d'en faire. On ne saurait émettre
+des exigences élevées en ce qui concerne ce danger ; il suffit qu’il soit vraisemblable
+qu’il y ait un danger si l’objet n’est pas confisqué en mains de l’ayant
+droit (ATF 127 IV 203 consid. 7b ; ATF 124 IV 121 consid. 2a et c ; ATF 117 IV 345 consid.
+2a ; ATF 116 IV 117 consid. 2a et les arrêts cités). Tel est notamment le cas lorsque
+l'objet a été acquis spécialement pour commettre des infractions (ATF 114 IV 98), lorsqu'il
+a été utilisé à plusieurs reprises à des fins délictueuses (cf. ATF 81
+IV 217 ; Hans Schultz, Einziehung und Verfall, RJB 114/1978 p. 320) ou encore lorsqu'il ne peut
+être utilisé autrement que d'une manière dangereuse (ATF 116 IV 117 consid. 2a ;
+TF 1P.31/2000 du 14 février 2000 consid. 2b).
+3.3
+Dans le cas particulier, au cours de son audition du 13 janvier 2016, la recourante a admis que c'était
+par courriel et au moyen de son ordinateur qu'elle recevait les confirmations de billets d'avion pour
+ses voyages en Espagne (PV aud. 13, R. 3). Elle a aussi admis qu'elle avait fait la mule une dizaine
+de fois (PV aud. 13, R. 9). On peut par conséquent retenir que cet ordinateur a été utilisé
+à de nombreuses reprises à des fins délictueuses et qu’il compromet ainsi la sécurité
+des personnes, la morale ou l'ordre public en raison de l'usage que sa détentrice est susceptible
+de continuer d'en faire. Il importe peu à cet égard que l’ordinateur ait été
+utilisé également ou même principalement pour des activités licites. Le séquestre
+de l'ordinateur de la recourante en vue de sa confiscation apparaît ainsi pleinement justifié
+en application des art. 263 al. 1 let. d CPP et 69 al. 1 CP.
+4.
+Il résulte de ce qui précède que le recours doit être partiellement admis.
+L'ordonnance du 6 décembre 2016 doit être annulée en tant qu'elle ordonne le séquestre
+du téléphone cellulaire iPhone blanc – IMEI 013351000868119 (séquestre n
+o
+64532),
+cet objet devant être restitué à la recourante après qu'une copie des informations
+qui y sont enregistrées aura pu être effectuée (cf. consid. 2 supra). L'ordonnance sera
+maintenue pour le surplus.
+L'ordonnance du 7 décembre 2016 ordonnant le séquestre de l'ordinateur portable iMac n
+o
+de
+série CO2QJEFM6940 appartenant à la recourante (séquestre n
+o
+64563)
+doit été confirmée (cf. consid. 3 supra).
+5.
+L'indemnité due au défenseur d'office de la recourante (art. 135 CPP) sera fixée à
+583 fr. 20 (540 fr., plus la TVA par 43 fr. 20).
+Les frais de la procédure de recours, par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais
+de procédure et indemnités en matière pénale du 28 septembre 2010 ; RSV
+312.03.1]), ainsi que les frais imputables à la défense d’office (art. 422 al. 1 et al.
+2 let. a CPP) par 583 fr. 20, seront mis pour moitié, soit par 731 fr. 60, à la charge de la
+recourante (art. 428 al. 1 CPP), l'autre moitié, par 731 fr. 60, étant laissée à
+la charge de l'Etat.
+Le remboursement à l’Etat de la moitié de l’indemnité allouée au défenseur
+d’office sera exigible pour autant que la situation économique de la recourante se soit améliorée
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+L'ordonnance du 6 décembre 2016 (séquestre n
+o
+64532)
+est annulée en tant qu'elle ordonne le séquestre du téléphone cellulaire iPhone blanc
+– IMEI 013351000868119 et cet objet est restitué à A.________ après qu'une copie
+des informations qui y sont enregistrées aura pu être effectuée ; l'ordonnance est
+maintenue pour le surplus.
+III.
+L'ordonnance du 7 décembre 2016 (séquestre
+n
+o
+64563)
+est confirmée.
+IV.
+L'indemnité
+allouée au défenseur d'office de la recourante est fixée à 583 fr. 20 (cinq cent
+huitante-trois francs et vingt centimes).
+V.
+Les frais d'arrêt, par 880 fr. (huit cent huitante francs), ainsi que l'indemnité due au défenseur
+d'office de la recourante, par 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes), sont mis
+pour moitié, soit par 731 fr. 60 (sept cent trente et un francs et soixante centimes), à la
+charge de la recourante, l'autre moitié, par 731 fr. 60 (sept cent trente et un francs et soixante
+centimes), étant laissée à la charge de l'Etat.
+VI.
+Le remboursement à l'Etat de la moitié de l'indemnité allouée au chiffre IV ci-dessus
+sera exigible pour autant que la situation économique de la recourante se soit améliorée.
+VII.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Raphaël Tatti, avocat (pour A.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
