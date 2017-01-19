@@ -1,0 +1,320 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___59"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 59"
+decided: "2017-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5913945"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-047.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 59
+
+## Regeste
+
+RISQUE DE RÉCIDIVE, RISQUE DE COLLUSION | 221 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2017 Décision / 2017 / 59
+
+RISQUE DE RÉCIDIVE, RISQUE DE COLLUSION | 221 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+46
+PE16.025682-GRV
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              Mme
+Umulisa Musaby
+*****
+Art.
+221 CPP
+Statuant sur le recours interjeté le 16 janvier 2017 par
+G.________
+contre l’ordonnance de détention provisoire rendue le 6 janvier 2017 par le Tribunal des mesures
+de contrainte dans la cause
+n° PE16.025682-GRV
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le Ministère public de l’arrondissement de Lausanne a ouvert une enquête à l’encontre
+de G.________ en raison des faits suivants.
+Le 28 décembre 2016, vers 21h20, à Lausanne, [...], le prévenu ainsi que M.________ seraient
+entrés dans un magasin d’alimentation, armés d’un revolver de type « Airsoft »,
+vêtus de lunettes de soleil, d’un casque de vélo et de gants, et auraient pointé
+l’arme en direction d’P.________ et X.________ en les menaçant de les tuer s’ils
+ne leur donnaient pas la caisse. Ils auraient ensuite quitté les lieux en emportant un montant de
+2'500 fr., des bouteilles d’alcool et des cigarettes.
+Arrêté le 3 janvier 2017, G.________ est prévenu de brigandage qualifié.
+B.
+Par demande du 5 janvier 2017, le Ministère
+public a requis la détention provisoire de G.________ pour une durée de trois mois.
+Par ordonnance du 6 janvier 2017, le Tribunal des mesures de contrainte, constatant l’existence
+d’un risque de collusion et d’un risque de réitération, a ordonné la détention
+provisoire de G.________ pour une durée maximale de trois mois, soit au plus tard jusqu’au
+3 avril 2017.
+C.
+Par
+acte du 16 janvier 2017, G.________ a recouru auprès de la Cour de céans contre cette ordonnance,
+en concluant, avec suite de frais et dépens, principalement à sa réforme en ce sens qu’il
+soit immédiatement libéré, le cas échéant moyennant l’instauration de
+mesures de substitution à forme d’une interdiction de contact, de quelque façon que ce
+soit, notamment avec M.________, I.________, P.________, X.________, B.________, C.________ ou avec tout
+employé et/ou responsable du commerce où l’arme factice a été acquise, d’une
+interdiction de s’approcher à moins de cent mètres de tout lieu que la direction de la
+procédure indiquera ainsi que d’une obligation de se soumettre à des contrôles inopinés
+d’abstinence de produits stupéfiants. Subsidiairement, il a conclu à l’annulation
+de l’ordonnance, la cause étant renvoyée au Tribunal des mesures de contrainte pour nouvelle
+décision dans le sens des considérants.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) contre une décision
+du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 222 et 393 al. 1 let. c
+CPP), par le prévenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans les formes
+prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire ne peut être ordonnée que lorsque le prévenu est fortement soupçonné
+d’avoir commis un crime ou un délit et qu’il y a sérieusement lieu de craindre
+qu’il se soustraie à la procédure pénale ou à la sanction prévisible en
+prenant la fuite (let. a), qu’il compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuves (let. b) ou qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre (let. c).
+La
+mise en détention provisoire n’est possible que s’il existe, préalablement à
+toute autre cause, de graves soupçons de culpabilité d’avoir commis un crime ou un délit
+à l’égard de l’auteur présumé (ATF 139 IV 186 consid. 2; Schmocker, in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 7 ss ad art. 221 CPP, pp. 1024 ss).
+2.2
+En l’occurrence, le recourant, qui admet
+les faits, ne remet à juste titre pas en cause l’existence d’indices suffisants de culpabilité
+à son encontre.
+3.
+3.1
+Le recourant conteste en revanche l’existence
+des risques de collusion et de réitération retenus par l’ordonnance attaquée.
+S’agissant du risque de collusion, il fait valoir que les éléments constitutifs de l’infraction
+commise le 28 décembre 2016 seraient élucidés à la suite de ses aveux et des auditions
+menées lors de l’enquête. Il ne resterait aucun élément sur lequel l’enquête
+devrait encore porter et susceptible d’être compromis par la libération du recourant.
+Quant au risque de réitération, le recourant soutient qu’il n’aurait pas d’antécédent
+judiciaire suffisant permettant de retenir ce risque. Le fait qu’il ait été condamné
+par une ordonnance pénale du 16 septembre 2016 à une peine pécuniaire de 140 jours-amende
+pour vol, tentative de vol, dommages à la propriété, violation de domicile et contravention
+à la Loi fédérale sur les stupéfiants ne devrait pas entrer en ligne de compte. Au
+vu de son jeune âge, on ne se trouverait pas dans une criminalité enracinée et figée.
+Enfin, la détention provisoire déjà endurée aurait annihilé toute éventualité
+de réitération.
+En tout état de cause, toujours selon le recourant, les mesures de substitution qu’il propose
+seraient propres à remplacer, avec la même efficacité, la détention litigieuse. Des
+interdictions de contact et de périmètre, contrôlées par une surveillance électronique,
+élimineraient toute forme de risque de collusion. Aussi, une obligation de se soumettre à des
+contrôles inopinés d’abstinence de produits psychotropes, par le truchement de la Fondation
+du Levant, supprimerait l’éventualité d’une consommation de cannabis, laquelle
+serait à l’origine de la commission des infractions en cause. Sans la consommation des produits
+psychotropes, l’activité délictuelle du recourant diminuerait drastiquement et disparaîtrait.
+3.2
+3.2.1
+Le maintien en détention provisoire se justifie
+notamment lorsqu’il y a sérieusement lieu de craindre que le prévenu compromette la recherche
+de la vérité en exerçant une influence sur des personnes ou en altérant des moyens
+de preuve (art. 221 al. 1 let. b CPP). Ce motif de détention avant jugement, souvent appelé
+« risque de collusion » – expression trop étroite puisque les personnes
+sur lesquelles le prévenu pourrait exercer une influence pour empêcher ou compromettre la recherche
+de la vérité (par exemple par la menace, la séduction ou la mise en commun d’intérêts
+identiques) peuvent être non seulement des coaccusés ou des complices, mais aussi la partie
+plaignante, les témoins, les experts ou toute autre personne amenée à participer à
+la procédure –, vise à garantir la constatation exacte et complète des faits (Schmocker,
+op. cit., nn. 14 et 15 ad art. 221 CPP ; cf. ATF 137 IV 122 consid. 6.2 et 6.4).
+3.2.2
+En l’espèce, dans sa demande du 5 janvier
+2017, le Ministère public a exposé que certaines mesures d’investigation étaient
+toujours en cours afin de déterminer l’ampleur de l’activité délictueuse des
+deux prévenus. A cet égard, il envisageait de transmettre leurs chaussures à l’Identité
+judiciaire et de procéder à une analyse, y compris rétrospective, des données contenues
+dans leurs téléphones portables. Des recherches en cours devraient également déterminer
+le véritable détenteur de l’arme utilisée par les prévenus le 28 décembre
+2016.
+Nonobstant l’argumentation du recourant, le risque de collusion est concret et s’oppose à
+sa libération. En effet, il a déjà été condamné, en septembre 2016, notamment
+pour vol, dommages à la propriété et violation de domicile et les mesures d’investigation
+en cours doivent permettre d’examiner l’ampleur de son activité délictueuse. Même
+si le recourant a déjà avoué certains faits, il est à craindre qu’il empêche
+le bon déroulement de l’instruction, laquelle ne se limite pas aux actes commis le 28 décembre
+2016. Dans ces circonstances, ainsi que le relève à juste titre le Tribunal des mesures de
+contrainte, il y a lieu d’éviter, en cas de libération du prévenu, qu’il ne
+compromette la recherche de la vérité, notamment en faisant disparaître des éléments
+de preuve ou en alertant d’éventuels participants ou encore en exerçant des pressions
+sur des personnes susceptibles d’orienter les enquêteurs.
+3.3
+3.3.1
+Aux termes de l'art. 221 al. 1 let. c CPP, la
+détention provisoire peut être ordonnée lorsqu'il y a lieu de craindre que le prévenu
+compromette sérieusement la sécurité d'autrui par des crimes ou des délits graves
+après avoir déjà commis des infractions du même genre. Selon la jurisprudence, la
+détention provisoire en raison d'un risque de réitération peut être ordonnée,
+respectivement prolongée, d'une part, lorsqu'il s'agit d'éviter que le prévenu retarde,
+voire empêche, la clôture de la poursuite en commettant de nouvelles infractions et, d'autre
+part, pour éviter la réalisation d'un danger (ATF 137 IV 13, JdT 2011 IV 95; ATF 137 IV
+84 consid. 3.2, JdT 2011 IV 325; TF 1B_249/2014 du 6 août 2014 consid. 3.2). Le maintien
+en détention ne peut se justifier pour ce motif que si le pronostic est défavorable et si les
+délits dont l'autorité redoute la réitération sont graves (TF 1B_373/2016 du 23 novembre
+2016 consid. 2.2 et 2.3, destiné à la publication). Ainsi, une possibilité hypothétique
+de réitération, ainsi que la probabilité que des infractions de peu d'importance soient
+à nouveau perpétrées ne suffisent pas pour justifier la détention provisoire (ATF
+135 I 71 consid. 2.3).
+S’agissant des infractions antérieures, il doit s’agir de crimes ou de délits graves
+contre le même bien juridique ou contre des biens juridiques analogues, voire de tous types. Ces
+infractions peuvent résulter d’anciennes procédures clôturées ou passées
+en force (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure pénale, 2
+ème
+éd., nn. 42-43 ad art. 221 CPP). Le risque de récidive peut aussi se fonder sur les infractions
+faisant l'objet de la procédure pénale en cours, si le prévenu est fortement soupçonné
+– avec une probabilité confinant à la certitude – de les avoir commises (ATF 137
+IV 84 consid. 3.2 et les références citées).
+3.3.2
+En
+l’espèce, on ne saurait minimiser la gravité de l’infraction que le recourant admet
+avoir commise le 28 décembre 2016. Ces agissements revêtent déjà de l’importance
+dans l’évaluation du risque de réitération. S’y ajoute la condamnation du
+recourant, le 16 septembre 2016, à une peine pécuniaire de 140 jours-amende notamment pour
+vol, tentative de vol et dommages à la propriété. Le recourant plaide que cet antécédent
+n’en est pas un, puisque l’élément typique de l’infraction commise le 28
+décembre 2016, à savoir l’usage de violence, ferait défaut dans les infractions
+précédentes. Il perd toutefois de vue que la notion d’antécédent vise l’ensemble
+des éléments qui forment l’histoire de l’auteur au moment de l’infraction
+et qu’elle ne se limite ainsi pas aux antécédents judiciaires (cf. Dupuis et alii, Petit
+commentaire du Code pénal, nn. 4 et 5 ad art. 47 CP et de nombreux arrêts cités). Il importe
+peu qu’il n’y ait pas eu de violence, puisque la condamnation intervenue en septembre 2016
+concerne des crimes ou des délits, d’une certaine gravité – au vu du nombre des
+jours-amende infligé – et a pour objet des infractions contre le patrimoine, à l’instar
+de l’enquête en cours pour brigandage qualifié (cf. Titre 2 du Code pénal). Cette
+condamnation passée revêt d’autant plus d’importance qu’elle date de trois
+mois seulement avant l’infraction commise en décembre 2016. Aussi, contrairement à la
+thèse du recourant, il est sans incidence qu’il s’agisse d’une condamnation par
+une ordonnance pénale, et non par un jugement d’un tribunal.
+En définitive, compte
+tenu de la récidive intervenue très rapidement en matière d’infractions du même
+genre et de la gravité de l’infraction commise en décembre 2016, on doit constater que,
+malgré son jeune âge, le pronostic quant au comportement futur du recourant est défavorable.
+Le
+risque de réitération est donc concret et justifie également le maintien du recourant
+en détention provisoire.
+4.
+Compte
+tenu des faits qui lui sont reprochés, le recourant est poursuivi pour brigandage en bande (art.
+140 ch. 3 al. 2 CP). Il s'expose dès lors à une peine d’une durée à l’évidence
+supérieure à celle de la détention provisoire subie à ce jour, respectivement à
+subir jusqu’au 3 avril 2017. Le principe de la proportionnalité est donc largement respecté
+(art. 212 al. 3 CPP ; TF 1B_411/2011 du 31 août 2011 consid. 4.1; ATF 133 I 168 consid. 4.1;
+ATF 132 I 21 consid. 4.1).
+5.
+Les
+mesures de substitution, en particulier celles proposées par le recourant, ne sont manifestement
+pas de nature à pallier l’existence des risques de collusion et de réitération.
+6.
+Le
+recourant se plaint de la violation de son droit d’être entendu, faisant valoir que c’est
+à tort que le Tribunal des mesures de contrainte a refusé de requérir en main du Centre
+social régional de Lausanne la production du dossier le concernant, tendant à établir
+sa situation socio-économique.
+Le Tribunal des mesures
+de contrainte a refusé l’administration de la preuve requise pour le motif que le dossier
+en cause n’apparaissait pas essentiel et que les mesures prises par le Service social n’étaient
+pas susceptibles de remettre en question les soupçons existants contre le prévenu ainsi que
+les motifs de détention provisoire.
+Cette motivation doit
+être approuvée. En effet, à ce stade de la procédure, la situation personnelle du
+recourant n’influence en rien les motifs de collusion et de réitération retenus à
+son encontre. Le grief du recourant doit donc être rejeté.
+7.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autres échanges d’écritures (art. 390 al. 2 CPP).
+Les
+frais imputables à la défense d’office seront fixés à 720 fr. pour toutes choses,
+plus la TVA par 57 fr. 60, soit à 777 fr. 60 au total. Les frais de la procédure
+de recours, constitués en l’espèce de l’émolument d'arrêt, par 880 fr.
+(art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010; RSV 312.03.1]) et des frais imputables à la défense d’office (art.
+422 al. 1 et 2 let. a CPP), seront mis à la charge du recourant, qui succombe (art. 428
+al. 1 CPP).
+Le
+remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera exigible que pour autant que la situation économique de ce dernier se soit
+améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 6 janvier 2017 est confirmée.
+III.
+L'indemnité allouée au défenseur
+d'office de G.________ est fixée à 777 fr. 60 (sept cent septante-sept francs et soixante centimes).
+IV.
+Les frais d’arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité
+due au défenseur d’office du recourant, par 777 fr. 60 (sept cent septante-sept francs et
+soixante centimes), sont mis à la charge de ce dernier.
+V.
+Le
+remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus sera
+exigible pour autant que la situation économique du prévenu se soit améliorée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Stephen Gintzburger, avocat (pour G.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+X.________,
+‑
+P.________,
+‑
+M. le Président du Tribunal des mesures de contrainte,
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
