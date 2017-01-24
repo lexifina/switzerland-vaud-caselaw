@@ -1,0 +1,414 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___72"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 72"
+decided: "2017-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5923149"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-060.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-157.md", "switzerland/bund/acts/312.0/art-306.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-387.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 72
+
+## Regeste
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, ORDONNANCE PÉNALE, FICTION DE LA NOTIFICATION, OPPOSITION TARDIVE | 58 CPP (CH), 85 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2017 Décision / 2017 / 72
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, ORDONNANCE PÉNALE, FICTION DE LA NOTIFICATION, OPPOSITION TARDIVE | 58 CPP (CH), 85 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+55
+PE16.014890-ACO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+24 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffier
+:              M.
+Graa
+*****
+Art.
+58 al. 1, 85 CPP
+Statuant sur le recours interjeté le 30 décembre 2016 par
+A.________
+contre le prononcé rendu le 22 décembre 2016 par le Tribunal de police de l’arrondissement
+de La Côte, ainsi que sur la demande de récusation déposée le 30 décembre
+2016 contre le gendarme F.________ et contre K.________, Procureur de l'arrondissement de La Côte,
+dans la cause
+n° PE16.014890-ACO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 29 juin 2016, le gendarme F.________ circulait sur l'autoroute A1 en direction de Genève, au
+volant de son véhicule privé Mercedes-Benz, pour prendre son service au centre de la gendarmerie
+de Bursins. Arrivé à la hauteur de l'aire de repos de la Taillaz, il s'est déplacé
+sur la voie de gauche afin de faciliter l'entrée sur l'autoroute des usagers quittant celle-ci.
+Selon le rapport de police dressé par la suite par le gendarme F.________ (P. 4), alors que ce dernier
+circulait sur la voie de gauche, une voiture de livraison blanche serait arrivée derrière lui
+à vive allure et se serait approchée à une distance de deux à cinq mètres tout
+en lui lançant des appels de phares. Ce véhicule l'aurait suivi ainsi sur quelque 500 mètres,
+sans observer un espace suffisant entre les deux véhicules et en lui adressant des signaux optiques.
+Le gendarme F.________ se serait ensuite légitimé au moyen de son uniforme et aurait fait signe
+au conducteur de la voiture blanche de s'arrêter, mais ce dernier aurait poursuivi sa route.
+Grâce aux plaques de contrôle du véhicule en question, le conducteur a par la suite été
+identifié comme étant A.________.
+b)
+Le 11 juillet 2016, A.________ a été auditionné au centre de la gendarmerie de Bursins,
+en qualité de prévenu, au sujet des événements du 29 juin précédent.
+L'audition a été conduite par le gendarme F.________, assisté de l'un de ses collègues
+fonctionnant comme greffier.
+Avant d'être entendu, A.________ a pris connaissance et signé le formulaire intitulé « Audition
+en qualité de prévenu (art. 157 CPP) droits et obligations » et a renoncé à
+faire appel à un avocat.
+Au terme de l'audition, lorsque le gendarme F.________ lui a demandé s'il avait quelque chose à
+ajouter, A.________ a déclaré ce qui suit : « Le gendarme qui s'est avéré
+être au volant de la Mercedes, est présent lors de mon audition. Tout ceci prend d'énormes
+proportions alors que de simples excuses de la part du gendarme auraient été plus qu'appréciées.
+Je pense avoir fait tout ce qui est de mon ressort pour garder la maîtrise de mon véhicule
+et ainsi éviter une collision sur l'autoroute » (PV aud. 1, R. 11).
+c)
+Le 27 juillet 2016, l'enquête dirigée contre A.________ a été attribuée au Procureur
+de l'arrondissement de La Côte K.________.
+Par ordonnance pénale du 7 septembre 2016, le Procureur a condamné A.________, pour violation
+simple et grave des règles de la circulation routière, à 30 jours-amende, le jour-amende
+étant fixé à 60 fr., avec sursis pendant deux ans, ainsi qu'à une amende de 540 fr.,
+convertible en neuf jours de peine privative de liberté de substitution en cas de non-paiement fautif.
+Il a par ailleurs mis les frais de la cause, par 200 fr., à la charge de A.________. Dans l'ordonnance,
+le gendarme F.________ était désigné comme le dénonciateur des infractions.
+Cette ordonnance pénale a été adressée à A.________ le 7 septembre 2016,
+par lettre signature avec accusé de réception. Le 8 septembre 2016, l'intéressé a
+reçu un avis de retrait de la Poste suisse (P. 9).
+Le 21 septembre 2016, le pli a été retourné à l’expéditeur avec la mention
+« non réclamé » apposée par la Poste suisse.
+B.
+a)
+Par acte du 21 novembre 2016 adressé au
+Ministère public, A.________ a expliqué qu'il était parti en vacances à l'étranger
+entre le 5 et le 21 septembre 2016 et n'aurait ainsi pu réceptionner l'ordonnance pénale
+du 7 septembre 2016. Il aurait ensuite cherché en vain à obtenir le courrier en question
+ou à connaître son expéditeur. A.________ a ainsi indiqué n'avoir appris l'existence
+de l'ordonnance pénale qu'à la lecture d'un courrier du Service des automobiles et de la navigation
+(SAN) du 7 novembre 2016.
+Dans son courrier du 21 novembre 2016, A.________ a indiqué qu'il souhaitait « formuler
+un recours » contre l'ordonnance pénale du 7 septembre 2016 et a notamment précisé :
+« Lors de mon audition, je n'ai pas trouvé "normal" que le dénonciateur
+participe activement à l'audition n'ayant pas apporté la preuve que son rapport n'ayant [sic]
+pas été déjà rédigé » (P. 7, p. 1).
+b)
+Le 16 décembre 2016, le Procureur a transmis le dossier de la cause au Tribunal de police de l’arrondissement
+de La Côte afin que ce dernier statue sur la recevabilité de l’opposition à l'ordonnance
+pénale. Il a conclu, à défaut de retrait de l’opposition, à l'irrecevabilité
+de celle-ci, les frais devant être mis à la charge de A.________.
+c)
+Par prononcé du 22 décembre 2016, le Tribunal de police de l’arrondissement de La Côte
+a déclaré irrecevable l’opposition à l'ordonnance pénale du 7 septembre 2016
+formée le 21 novembre 2016 (I), a constaté que cette ordonnance pénale était exécutoire
+(II) et a dit que le prononcé était rendu sans frais (III).
+C.
+a)
+Par requête de récusation du 30 décembre
+2016, A.________ a demandé à la Chambre des recours pénale, avec suite de dépens,
+de constater la nullité des actes de procédure – en particulier de l'ordonnance pénale
+du 7 septembre 2016 – auxquels avait participé le Procureur K.________. Subsidiairement,
+il a conclu à l'annulation de ces actes. Il lui a également demandé de constater la nullité
+des actes de procédure – en particulier de l'audition du 11 juillet 2016 et du rapport
+établi le 15 juillet 2016 – auxquels avait participé le gendarme F.________. Subsidiairement,
+il a conclu à l'annulation de ces actes. A.________ a enfin demandé la répétition
+des actes de procédure en question.
+A l'appui de sa requête, A.________ a soutenu que le gendarme F.________ avait, par son attitude,
+donné une apparence de prévention à son égard, et que l'intéressé avait
+de surcroît un intérêt personnel à le voir condamné, dès lors qu'il avait
+été impliqué directement dans les événements du 29 juin 2016 et se trouvait
+à l'origine de l'ouverture de l'instruction pénale. Il a par ailleurs soutenu que le Procureur
+K.________ avait lui aussi fait montre de signes de prévention à son égard en acceptant
+de conduire son instruction sur la base de la dénonciation du gendarme F.________ et en fondant
+son ordonnance pénale sur les actes d'enquête de ce dernier.
+b)
+Le 5 janvier 2016, le Procureur K.________ a pris position sur la requête de récusation de
+A.________ et a conclu au rejet de celle-ci. Il a notamment indiqué que, selon lui, le gendarme
+F.________ avait agi conformément à ses prérogatives et qu'il n'existait, dès lors,
+aucun motif pour le récuser, de sorte qu'il n'avait lui-même aucunement agi de manière
+partiale en conduisant l'instruction comme il l'avait fait.
+c)
+Par acte du 30 décembre 2016, A.________ a par ailleurs interjeté recours contre le prononcé
+du Tribunal de police de l'arrondissement de La Côte du 22 décembre 2016, en concluant, avec
+suite de dépens, à sa réforme en ce sens que son opposition à l'ordonnance pénale
+du 7 septembre 2016 soit déclarée recevable. Subsidiairement, il a conclu à l'annulation
+du prononcé du 22 décembre 2016.
+A.________ a en outre requis l'octroi de l'effet suspensif concernant l'exécution de l'ordonnance
+pénale du 7 septembre 2016.
+Il n'a pas été ordonné d'échange d'écritures.
+En droit
+:
+Demande de récusation contre le gendarme F.________ et le Procureur K.________
+1.
+1.1
+Aux termes
+de l'art. 59 al. 1 CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0), lorsqu'un motif de récusation au sens de
+l'art. 56, let. a ou f CPP, est invoqué ou qu'une personne exerçant une fonction au sein
+d'une autorité pénale s'oppose à la demande de récusation d'une partie qui se fonde
+sur l'un des motifs énumérés à l'art. 56, let. b à e, le litige est tranché
+sans administration supplémentaire de preuves et définitivement par le ministère public,
+lorsque la police est concernée (let. a) et par l'autorité de recours, lorsque le ministère
+public, les autorités pénales compétentes en matière de contraventions et les tribunaux
+de première instance sont concernés (let. b).
+1.2
+En l'espèce, adressée à la Chambre des recours pénale, la requête de récusation
+est irrecevable dans la mesure où elle concerne le gendarme F.________, conformément à
+l'art. 59 al. 1 let. a CPP.
+La Chambre des recours pénale du Tribunal cantonal est en revanche compétente pour statuer
+sur la demande de récusation dirigée contre le Procureur K.________ (art. 13 al. 1 LVCPP [loi
+vaudoise d’introduction du code de procédure pénale suisse du 19 mai 2009 ; RSV 312.01]).
+2.
+2.1
+Un magistrat est récusable pour l'un des
+motifs prévus aux art. 56 let. a à e CPP. Il l'est également, selon l'art. 56 let. f CPP,
+lorsque d'autres motifs, notamment un rapport d'amitié étroit ou d'inimitié avec une partie
+ou son conseil, sont de nature à le rendre suspect de prévention. Cette dernière disposition
+a la portée d'une clause générale recouvrant tous les motifs de récusation non expressément
+prévus aux lettres précédentes. Elle correspond à la garantie d'un tribunal indépendant
+et impartial instituée par les art. 30 al. 1 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101) et 6 § 1 CEDH (Convention du 4 novembre 1950 de sauvegarde
+des droits de l’homme et des libertés fondamentales ; RS 0.101). Cette disposition n'impose
+pas la récusation seulement lorsqu'une prévention effective du magistrat est établie,
+car une disposition interne de sa part ne peut guère être prouvée. Il suffit que les circonstances
+donnent l'apparence de la prévention et fassent redouter une activité partiale du magistrat.
+Seules les circonstances constatées objectivement doivent être prises en considération.
+Les impressions purement individuelles d'une des parties au procès ne sont pas décisives (ATF
+141 IV 178 consid. 3.2.1 ; TF 1B_150/2016 du 19 mai 2016 consid. 2.1 et les références citées).
+Dans le cadre de l'instruction, le ministère public est tenu à une certaine impartialité
+même s'il peut être amené, provisoirement du moins, à adopter une attitude plus orientée
+à l'égard du prévenu ou à faire état de ses convictions à un moment donné
+de l'enquête. Cela est en particulier le cas lorsqu'il décide de l'ouverture d'une instruction
+(qui suppose l'existence de soupçons suffisants au sens de l'art. 309 al. 1 CPP) ou lorsqu'il ordonne
+des mesures de contrainte. Tout en disposant, dans le cadre de ses investigations, d'une certaine liberté,
+le magistrat reste tenu à un devoir de réserve. Il doit s'abstenir de tout procédé
+déloyal, instruire tant à charge qu'à décharge et ne point avantager une partie au
+détriment d'une autre (ATF 141 IV 178 consid. 3.2.2 ; TF 1B_46/2016 du 29 avril 2016 consid. 3.1
+et les références citées).
+Par ailleurs, des décisions ou des actes de procédure qui se révèlent par la suite
+erronés ne fondent pas en soi une apparence objective de prévention ; seules des erreurs
+particulièrement lourdes ou répétées, constitutives de violations graves des devoirs
+du magistrat, peuvent fonder une suspicion de partialité, pour autant que les circonstances dénotent
+que le magistrat est prévenu ou justifient à tout le moins objectivement l'apparence de prévention.
+En effet, la fonction judiciaire oblige à se déterminer rapidement sur des éléments
+souvent contestés et délicats. Il appartient en outre aux juridictions de recours normalement
+compétentes de constater et de redresser les erreurs éventuellement commises dans ce cadre
+(TF 1B_150/2016 précité consid. 2.1 et les références citées). La procédure
+de récusation n'a donc pas pour objet de permettre aux parties de contester la manière dont
+est menée l'instruction (TF 1B_46/2016 précité consid. 3.2 et les références
+citées).
+2.2
+Aux termes de l’art. 58 al. 1 CPP, lorsqu’une partie entend demander la récusation d’une
+personne qui exerce une fonction au sein d’une autorité pénale, elle doit présenter
+sans délai à la direction de la procédure une demande en ce sens, dès qu’elle
+a connaissance du motif de récusation ; les faits sur lesquels elle fonde sa demande doivent être
+rendus plausibles. Selon la jurisprudence, même si la loi ne prévoit aucun délai particulier,
+il y a lieu d’admettre que la récusation doit être formée aussitôt, c’est-à-dire
+dans les jours qui suivent la connaissance de la cause de récusation (TF 1B_321/2013 du 30 octobre
+2013 consid. 2.1 et les références citées). Cette disposition reprend une pratique constante,
+selon laquelle la partie qui omet de se plaindre immédiatement de la prévention du magistrat
+et laisse le procès se dérouler sans intervenir agit de manière contraire à la bonne
+foi et voit ainsi son droit se périmer (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure
+pénale, 2
+e
+éd., Bâle 2016, n. 3 ad art. 58 CPP et les arrêts cités). La jurisprudence admet
+une requête de récusation déposée six à sept jours après la connaissance
+des motifs (Moreillon/Parein-Reymond, op. cit., n. 3 ad art. 58 CPP et la référence citée).
+2.3
+En l'espèce, le requérant a demandé pour la première fois la récusation du gendarme
+F.________ et du Procureur K.________ dans sa requête du 30 décembre 2016. Il soutient
+qu'il aurait eu connaissance du motif de récusation – qui aurait fait partir le délai
+pour demander la récusation du gendarme F.________ et du Procureur K.________ ainsi que le délai
+de cinq jours pour demander l'annulation des actes de procédure auxquels ils ont participé,
+conformément à l'art. 60 al. 1 CPP – le 26 décembre 2016 seulement, soit lorsqu'il
+a consulté un avocat et que celui-ci a pu lui expliquer les principes régissant la récusation.
+Cette explication ne peut être suivie. On ne saurait en effet privilégier la partie non assistée
+en considérant que celui qui a connaissance d'un motif de récusation sans nécessairement
+connaître les cas de récusation admis par la loi n'en aurait effectivement connaissance qu'au
+moment où un avocat lui explique les règles applicables en la matière.
+Il convient ainsi de constater que le requérant a eu connaissance du motif pour lequel il demande
+aujourd'hui la récusation du gendarme F.________ – à savoir que celui-ci a mené
+une investigation policière (art. 306 CPP) alors qu'il était lui-même impliqué dans
+les faits dénoncés en tant que conducteur de la Mercedes-Benz que le requérant a talonnée
+le 29 juin 2016 – au moment où il a été entendu le 11 juillet 2016 par la police.
+En effet, à la fin de son audition, A.________ a relevé que le gendarme qui se trouvait au
+volant de la Mercedes-Benz le jour des faits participait à son audition. Il n'a cependant pas demandé
+la récusation du gendarme F.________ dans un délai approprié et a ainsi vu se périmer
+son droit de demander la récusation de l'intéressé pour ce motif.
+S'agissant de la récusation du Procureur K.________, force est de constater que le requérant
+a eu connaissance du motif pour lequel il demande aujourd'hui la récusation de ce magistrat –
+à savoir que celui-ci a rendu une ordonnance pénale à son encontre sans considérer
+qu'un motif de récusation entachait les actes accomplis par le gendarme F.________ – au plus
+tard le 21 novembre 2016, lorsque, après avoir consulté son dossier auprès du SAN et pris
+connaissance de l'ordonnance pénale du 7 septembre 2016, il a adressé au Procureur un
+courrier dans lequel il indiquait vouloir « formuler un recours ». Il n'a toutefois nullement
+demandé la récusation du Procureur K.________ dans un délai approprié et a ainsi
+vu se périmer son droit de demander la récusation de ce magistrat pour ce motif.
+On relèvera de surcroît que même si la requête de récusation dirigée contre
+le Procureur K.________ avait été présentée en temps utile, celle-ci aurait dû
+être rejetée, dès lors qu'elle se fonde sur le fait que ce magistrat aurait prétendument
+dû constater d'office qu'un motif de récusation entachait les actes de procédure accomplis
+par le gendarme F.________. Or, comme on l'a vu, A.________ a renoncé à demander la récusation
+du gendarme alors qu'il avait connaissance du motif de récusation invoqué aujourd'hui, ce que
+le Procureur a pu constater en lisant le procès-verbal d'audition du 11 juillet 2016. Force est
+donc de constater que le Procureur K.________ n'a aucunement donné l'apparence d'une quelconque
+prévention à l'encontre du prévenu en se fondant sur les actes de procédure auxquels
+avait participé le gendarme F.________ pour rendre l'ordonnance pénale du 7 septembre
+2016.
+Il découle de ce qui précède que la demande de récusation déposée le 30
+décembre 2016 par A.________ à l'encontre du Procureur K.________ est tardive et, partant,
+irrecevable.
+Recours contre le prononcé rendu le 22 décembre 2016 par le Tribunal de police de l’arrondissement
+de La Côte
+3.
+Le recourant reproche au Tribunal de police d'avoir retenu que l'ordonnance pénale du 7 septembre
+2016 lui avait été valablement notifiée le 15 septembre 2016, soit à l'échéance
+du délai de garde.
+Il soutient qu'eu égard aux circonstances de l'affaire, en particulier au fait que le gendarme F.________
+avait dénoncé les infractions mises à sa charge avant d'intervenir dans les investigations
+policière et au fait que le Procureur avait rendu une ordonnance pénale sans préalablement
+ouvrir une instruction pénale ni l'informer de son intention, il ne devait pas s'attendre à
+recevoir l'ordonnance pénale en question.
+3.1
+L’ordonnance pénale est notifiée par écrit aux personnes et aux autorités qui
+ont qualité pour former opposition (art. 353 al. 3 CPP). Peuvent former opposition contre l’ordonnance
+pénale devant le ministère public, par écrit et dans les dix jours, le prévenu, les
+autres personnes concernées et, si cela est prévu, le premier procureur ou le procureur général
+de la Confédération ou du canton, dans le cadre de la procédure pénale pertinente
+(art. 354 al. 1 CPP). Si aucune opposition n’est valablement formée, l’ordonnance pénale
+est assimilée à un jugement entré en force (art. 354 al. 3 CPP).
+Selon l’art. 85 al. 2 CPP, la notification se fait en principe par lettre signature ou par tout
+autre mode de communication impliquant un accusé de réception, notamment par l’entremise
+de la police. Un prononcé est réputé notifié lorsqu’il a été remis
+au destinataire, à l’un de ses employés ou à toute personne de plus de 16 ans vivant
+dans le même ménage (art. 85 al. 3 CPP). Le prononcé est également réputé
+notifié (fiction de notification) lorsque, expédié par lettre signature, il n’a
+pas été retiré dans les sept jours à compter de la tentative infructueuse de remise
+du pli, si la personne concernée devait s’attendre à une telle remise (art. 85 al. 4
+let. a CPP).
+Le destinataire doit s'attendre à la remise d'un pli dès l'ouverture de la procédure.
+Il s'agit d'un devoir procédural qui vaut pour toute la durée de la procédure et qui impose
+aux parties de se comporter conformément aux règles de la bonne foi (Macaluso/Toffel, in :
+Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+n. 33 ad art. 85 CPP ; ATF 130 III 396 consid. 1.2.3 ; TF 6B_1170/2013 du 8 septembre
+2014 consid. 2.2 ; TF 6B_314/2012 du 18 février 2013 consid. 1.3.1 ; TF 6B_70/2011 du
+1
+er
+juillet 2011 consid. 2.2.3). Selon la jurisprudence, celui qui a été informé par la police
+de l'ouverture d'une procédure préliminaire à son encontre, a été entendu en
+qualité de prévenu et a signé un formulaire précisant les droits et obligations du
+prévenu, doit se rendre compte qu'il est partie à une procédure pénale et doit donc
+s'attendre à recevoir des communications de la part des autorités (TF 6B_314/2012 du 18 février
+2013 consid. 1.3.2 et les arrêts cités).
+3.2
+En l'espèce, le recourant a été auditionné par la police le 11 juillet 2016. A cette
+occasion, il lui a expressément été précisé qu'il était entendu en qualité
+de prévenu et qu'une procédure préliminaire était instruite à son encontre pour
+des infractions à la Loi fédérale sur la circulation routière (PV aud. 1, D. 2).
+Il a par ailleurs signé le formulaire intitulé « Audition en qualité de prévenu
+(art. 157 CPP) droits et obligations », indiquant au destinataire qu'il allait être entendu
+en qualité de prévenu dans le cadre d'une procédure pénale et comprenant un paragraphe
+consacré notamment à la notification des décisions, en particulier des ordonnances pénales.
+Dès lors, A.________ devait se rendre compte qu'il était partie à une procédure pénale
+et devait en conséquence s'attendre à recevoir, dans ce cadre, des correspondances de la part
+des autorités, y compris une ordonnance pénale. Une communication de la part du Ministère
+public, l'informant qu'une instruction avait été ouverte à son encontre, n'était
+nullement nécessaire à cet égard (cf. art. 309 al. 3, 2
+e
+phrase
+CPP).
+Il ressort du dossier que l'ordonnance pénale du 7 septembre 2016 a été, le même
+jour, adressée à A.________ par courrier recommandé, à l'adresse donnée par
+ce dernier à la police, soit à [...]. Le lendemain, l'intéressé a reçu un avis
+de retrait de la Poste suisse. Il n’a pas retiré le pli dans le délai postal de garde,
+qui venait à échéance le 15 septembre 2016. L’ordonnance pénale est ainsi réputée
+avoir été notifiée à cette date, conformément à l’art. 85 al. 4 let.
+a CPP. Le délai pour former opposition selon l’art. 354 al. 1 CPP a donc commencé à
+courir le 16 septembre 2016 (art. 90 al. 1 CPP), pour expirer le lundi 26 septembre 2016 (art. 90 al.
+2 CPP).
+Formée par A.________ le 21 novembre 2016, l'opposition à l'ordonnance pénale du 7 septembre
+2016 est ainsi manifestement tardive. Partant, c’est à bon droit que le Tribunal de police
+de l’arrondissement de La Côte l’a déclarée irrecevable.
+4.
+Au vu de ce qui précède, la requête de récusation formée le 30 décembre
+2016 par A.________ à l'encontre du Procureur K.________ et du gendarme F.________, matricule [...],
+doit être déclarée irrecevable.
+Le recours interjeté contre le prononcé du 22 décembre 2016, manifestement mal fondé,
+doit quant à lui être rejeté sans autre échange d'écritures (art. 390 al. 2
+CPP). Le prononcé du 22 décembre 2016 doit être confirmé. En conséquence, la
+requête d'effet suspensif (art. 387 CPP), formée par le recourant et tendant à sursoir
+à l'exécution de l'ordonnance pénale du 7 septembre 2016, est sans objet.
+Les frais de la procédure, constitués en l'espèce de l'émolument d'arrêt, par
+1'320 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge de A.________ (art. 59 al. 4 CPP ;
+art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation déposée le 30 décembre 2016 par A.________ à l'encontre
+du Procureur K.________ et du gendarme F.________ est irrecevable.
+II.
+Le recours est rejeté.
+III.
+Le prononcé du 22 décembre 2016 est
+confirmé.
+IV.
+La requête d'effet suspensif est sans objet.
+V.
+Les frais de la procédure, par 1'320 fr. (mille trois cent vingt francs), sont mis à la charge
+de A.________.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Charles Fragnière, avocat (pour A.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal de police de l’arrondissement de La Côte,
+-
+M. le Procureur de l'arrondissement de La Côte,
+-
+M. le gendarme F.________,
+-
+Service de la population, Division étrangers (prévenu né le [...]),
+-
+Service des automobiles et de la navigation (n
+o
+00291387),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
