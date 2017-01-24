@@ -1,0 +1,318 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___71"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 71"
+decided: "2017-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5972302"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/172.220.1/art-003.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-061.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 71
+
+## Regeste
+
+SUICIDE, LÉSION CORPORELLE GRAVE, LÉSION CORPORELLE PAR NÉGLIGENCE, ASSISTANCE JUDICIAIRE, HOMICIDE PAR NÉGLIGENCE | 2 al. 1 LPers-VD, 5 LPers-VD, 136 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2017 Décision / 2017 / 71
+
+SUICIDE, LÉSION CORPORELLE GRAVE, LÉSION CORPORELLE PAR NÉGLIGENCE, ASSISTANCE JUDICIAIRE, HOMICIDE PAR NÉGLIGENCE | 2 al. 1 LPers-VD, 5 LPers-VD, 136 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+58
+PE16.023814-EMM
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+24 janvier 2017
+__________________
+Composition
+:               M
+Maillard
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:
+M.              Tinguely
+*****
+Art.
+136 al. 1 CPP
+Statuant sur le recours interjeté le 16 décembre 2016 par
+A.N.________
+,
+C.F.________
+et
+B.N.________
+contre l'ordonnance de refus d'assistance judiciaire gratuite pour la partie plaignante rendue le 5 décembre
+2016 par le Ministère public central, Division affaires spéciales, dans la cause
+n° PE16.023814-EMM
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 12 septembre 2015, à [...], [...], le corps sans vie de B.F.________ a été découvert
+au bas de l'immeuble où elle était domiciliée.
+Quelques mois avant son décès, B.F.________ avait été hospitalisée au CHUV pour
+une infection à streptocoque compliquée d'une défaillance multiviscérale qui avait
+imposé l'amputation des membres inférieurs et de l'extrémité distale du membre supérieur.
+Elle se déplaçait depuis lors avec des prothèses de jambe. Sa situation l'avait amenée
+à se déclarer fatiguée de vivre à son mari C.F.________.
+Le jour des faits, B.F.________ aurait insisté auprès de son mari pour ne pas dormir dans la
+même chambre que lui, fait inhabituel, et lui aurait demandé de lui mettre ses prothèses
+pour le cas où elle aurait besoin de se rendre aux toilettes. Les époux se sont couchés
+vers 1 heure 30. Vers 7 heures, C.F.________ a constaté que son épouse était absente du
+logement et a remarqué la présence d'une chaise disposée de façon à pouvoir
+grimper sur la table sise à côté de la fenêtre. C'est en regardant par cette fenêtre
+qu'il a aperçu le corps de son épouse au bas de l'immeuble.
+b)
+A la suite du décès de B.F.________, une enquête – portant le numéro de dossier
+PE15.018272 – a été ouverte par le Ministère public central, Division affaires spéciales.
+c)
+Le 30 octobre 2015, le Procureur a rendu une
+ordonnance de classement.
+Pour le Ministère public, tout portait à croire que B.F.________ s'était donné la
+mort en se défenestrant. Il a relevé qu'aucun élément plaidant en faveur d'une autre
+éventualité, en particulier de l'intervention d'une tierce personne, n'avait été
+mis en évidence par la police et le médecin légiste.
+B.
+a)
+Le 30 août 2016, C.F.________, agissant
+en son nom et au nom des enfants mineurs des époux, B.N.________ et A.N.________, a déposé
+plainte contre inconnu pour lésions corporelles graves par négligence, homicide par négligence
+et toute autre infraction ou qualification qui apparaitraient. Les plaignants ont en outre présenté
+une demande d'assistance judiciaire gratuite.
+Le 12 septembre 2016, C.F.________, en son nom et au nom de ses enfants, a pris des conclusions civiles
+à l'encontre de [...] à hauteur de 1'500'000 fr. à titre de dommages-intérêts
+et de 300'000 fr. à titre de réparation morale.
+b)
+Par
+ordonnance du 5 décembre 2016, rendue dans la cause n° PE15.018272, le Ministère
+public a refusé de reprendre la procédure préliminaire.
+Le Procureur a toutefois précisé qu'une procédure séparée, portant le numéro
+de dossier PE16.023814, avait été ouverte pour « investiguer sur les soupçons »
+de lésions corporelles simples par négligence dont B.F.________ aurait souffert.
+c)
+Par ordonnance du même jour, rendue dans la cause n° PE16.023814, le Ministère public
+a refusé l'octroi de l'assistance judiciaire gratuite et la désignation d'un conseil juridique
+à C.F.________ et à ses enfants.
+C.
+Par acte du 16 décembre 2016, adressé
+par télécopie au greffe de la Cour de céans le même jour à 23 heures 51 et déposé
+le même jour à 23 heures 57 dans une boîte postale, C.F.________, A.N.________ et B.N.________
+ont interjeté recours contre l'ordonnance du 5 décembre 2016 leur refusant l'octroi de l'assistance
+judiciaire gratuite, en concluant principalement à sa réforme en ce sens que l'assistance judiciaire
+gratuite pour la partie plaignante leur soit accordée. Subsidiairement, ils ont conclu à la
+réforme de l'ordonnance en ce sens que la direction de la procédure doive leur accorder l'assistance
+judiciaire gratuite. Plus subsidiairement, ils ont conclu à l'annulation de l'ordonnance et au renvoi
+de la cause au Ministère public pour nouvelle décision dans le sens des considérants.
+Ils ont en outre requis l'octroi de l'assistance judiciaire gratuite pour la procédure de recours.
+Il n'a pas été ordonné d'échange d'écritures.
+En droit
+:
+1.
+Une décision de refus ou de refus partiel
+de l'assistance judiciaire peut faire l'objet d'un recours aux conditions des art. 393 ss CPP (Code de
+procédure pénale suisse du 5 octobre 2007 [RS 312.0] ; Harari/Corminboeuf, in : Kuhn/ Jeanneret
+[éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 16 ad art.
+136 CPP ; CREP 4 novembre 2016/745).
+Interjeté en temps utile (art. 396 al. 1
+CPP) par les parties plaignantes qui ont qualité pour recourir (art. 382 al. 1 CPP), le recours
+est recevable.
+2.
+2.1
+Les recourants font valoir que le refus de leur
+octroyer l'assistance judiciaire gratuite constituerait une violation de l'art. 29 al. 3 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999, RS 101) ainsi que de l'art.
+136 al. 1 CPP.
+2.2
+2.2.1
+Aux termes de l'art. 29 al. 3 Cst., toute personne
+qui ne dispose pas de ressources suffisantes a droit, à moins que sa cause paraisse dépourvue
+de toute chance de succès, à l'assistance gratuite d'un défenseur, dans la mesure où
+la sauvegarde de ses droits le requiert. Cette disposition vise à assurer à chacun, indépendamment
+de sa situation financière, l'accès à un tribunal ainsi que la sauvegarde effective de
+ses droits (ATF 131 I 350 consid. 3.1).
+L'art. 136 CPP concrétise les conditions d'octroi de l'assistance judiciaire pour la partie plaignante
+dans un procès pénal. Selon l'art. 136 al. 1 CPP, la direction de la procédure accorde
+entièrement ou partiellement l'assistance judiciaire à la partie plaignante indigente (let.
+a) pour lui permettre de faire valoir ses prétentions civiles si l'action civile ne paraît
+pas vouée à l'échec (let. b). L'assistance judiciaire comprend l'exonération d'avances
+de frais et de sûretés (art. 136 al. 2 let. a CPP), l'exonération des frais de procédure
+(let. b) et/ou la désignation d'un conseil juridique gratuit, lorsque la défense des intérêts
+de la partie plaignante l'exige (let. c). Cette norme reprend ainsi les trois conditions cumulatives
+découlant de l'art. 29 al. 3 Cst., à savoir l'indigence, les chances de succès et le besoin
+d'être assisté (TF 1B_151/2016 du 1
+er
+juin 2016 consid. 2.2).
+2.2.2
+Selon les critères déduits de l'art. 29 al. 3 Cst. par la jurisprudence pour juger de la nécessité
+de la désignation d'un conseil juridique au lésé, il est considéré en principe
+que la procédure pénale ne nécessite que des connaissances juridiques modestes pour la
+sauvegarde des droits du lésé ; il s'agit essentiellement d'annoncer ses éventuelles
+prétentions en réparation de son dommage et de son tort moral ainsi que de participer aux auditions
+des prévenus, des témoins et de poser, cas échéant, des questions complémentaires;
+un citoyen ordinaire devrait ainsi être en mesure de défendre lui-même ses intérêts
+de lésé dans une enquête pénale. Cela vaut également pour la procédure
+de recours contre une décision de classement (ATF 123 I 145 consid. 2b/bb ; TF 6B_122/2013
+du 11 juillet 2013 consid. 4.1.2 ; TF 1B_26/2013 du 28 mai 2013 consid. 2.3 et les références
+citées).
+Pour évaluer si l'affaire présente des difficultés que la partie plaignante ne pourrait
+pas surmonter sans l'aide d'un avocat, il y a lieu d'apprécier l'ensemble des circonstances concrètes.
+Il faut tenir compte notamment des intérêts en jeu, de la complexité de la cause en fait
+et en droit, des circonstances personnelles du demandeur, de ses connaissances linguistiques, de son
+âge, de sa situation sociale et de son état de santé (sur le tout : TF 1B_151/2016
+du 1
+er
+juin 2016 consid. 2.2 et 2.3 ; ATF 123 I 145 consid. 2b/cc p. 147 et 3a/bb ; TF 1B_173/2014
+du 17 juillet 2014 consid. 3.1.2 ; TF 6B_122/2013 du 11 juillet 2013 consid. 4.1.2).
+2.2.3
+Le législateur a sciemment limité l'octroi
+de l'assistance judiciaire aux cas où le plaignant peut faire valoir des prétentions civiles.
+Il a ainsi tenu compte du fait que le monopole de la justice répressive est par principe exercé
+par l'Etat, de sorte que l'assistance judiciaire de la partie plaignante se justifie en priorité
+pour défendre ses conclusions civiles (cf. Message du 21 décembre 2005 relatif à l'unification
+du droit de la procédure pénale, FF 2006 p. 1160 ; TF 6B_458/2015 du 16 décembre
+2015 consid. 4.3.3 et les références citées). L'art. 136 al. 1 CPP n'exclut cependant
+pas que le conseil juridique assistant le plaignant au bénéfice de l'assistance judiciaire
+puisse intervenir, déjà au stade de l'instruction préliminaire, également sur les
+aspects pénaux, qui peuvent avoir une influence sur le principe et la quotité des prétentions
+civiles (TF 6B_458/2015 du 16 décembre 2015 consid. 4.3.3 et les références citées).
+2.2.4
+Aux termes de l'art. 3a al. 1 de la loi du 16
+novembre 1993 sur les hospices cantonaux (LHC ; RSV 810.11), le personnel du CHUV est soumis à la
+loi du 12 novembre 2001 sur le personnel de l'Etat de Vaud (LPers-VD ; RSV 172.31). Selon la loi du 16
+mai 1961 sur la responsabilité de l'Etat, des communes et de leurs agents (LRECA ; RSV 170.11),
+qui s'applique notamment aux collaborateurs de l'Etat au sens de l'art. 3 al. 1 ch. 9 LPers-VD, l'Etat
+et les communes répondent directement du dommage que leurs agents causent à des tiers d'une
+manière illicite (art. 4 LRECA). L'agent n'est pas personnellement tenu envers le lésé
+de réparer le dommage (art. 5 LRECA). Le canton de Vaud ayant ainsi fait usage de la faculté
+réservée à l'art. 61 al. 1 CO (Code des obligations du 30 mars 1911 ; RS 220), la personne
+lésée par un acte commis par un agent de l'Etat ne dispose que d'une prétention de droit
+public à faire valoir non pas contre l'auteur présumé, mais contre l'Etat (TF 6B_776/2015
+du 29 janvier 2016 consid. 2.1 ; ATF 128 IV 188 consid. 2.2).
+Selon la jurisprudence constante, de telles prétentions
+ne peuvent être invoquées dans le procès pénal par voie d'adhésion et ne constituent,
+dès lors, pas des prétentions civiles au sens des art. 122 al. 1 et 136 al. 1 CPP (TF 6B_776/2015
+du 29 janvier 2016 consid. 2.1 ; ATF 138 IV 86 consid. 3.1 ; ATF 133 IV 228 consid. 2.3.3 ; ATF
+128 IV 188 consid. 2).
+2.2.5
+La jurisprudence reconnaît toutefois dans
+certaines hypothèses un droit d'obtenir l'assistance judiciaire gratuite fondé directement
+sur l'art. 29 al. 3 Cst. (ATF 138 IV 86 consid. 3.1.1, TF 1B_729/2012 du 28 mai 2013 consid. 2.1). Tel
+est le cas lorsque les actes dénoncés sont susceptibles de tomber sous le coup des dispositions
+prohibant les actes de torture et autres peines ou traitements cruels ou dégradants (art. 3 et 13
+CEDH, art. 7 Pacte ONU Il [Pacte international relatif aux droits civils et politiques du 16 décembre
+1966 ; RS 0.103.2], art. 10. al. 3 Cst. et 13 de la Convention des Nations Unies du 10 décembre
+1984 contre la torture et les autres peines et traitements cruels, inhumains ou dégradants [Convention
+contre la torture ; RS 0.105] ; ATF 138 IV 86 consid. 3.1.1, TF 1B_729/2012 du 28 mai 2013 consid. 2.1
+et les références citées).
+Pour tomber sous le coup de ces dispositions,
+un mauvais traitement doit en principe être intentionnel et atteindre un minimum de gravité.
+L'appréciation de ce minimum dépend de l'ensemble des données de la cause, notamment de
+la durée du traitement et de ses effets physiques ou mentaux, ainsi que, parfois, du sexe, de l'âge
+et de l'état de santé de la victime. Un traitement atteint le seuil requis et doit être
+qualifié de dégradant s'il est de nature à créer des sentiments de peur, d'angoisse
+et d'infériorité propres à humilier ou avilir la victime, de façon à briser
+sa résistance physique ou morale ou à la conduire à agir contre sa volonté ou sa
+conscience. Il y a également traitement dégradant, au sens large, si l'humiliation ou l'avilissement
+a pour but non d'amener la victime à agir d'une certaine manière, mais de la punir. Lorsqu'un
+individu se trouve privé de sa liberté, l'utilisation à son égard de la force physique
+alors qu'elle n'est pas rendue strictement nécessaire par son comportement porte atteinte à
+la dignité humaine et constitue, en principe, une violation de la convention de New York et des
+art. 7 Pacte ONU II, 3 CEDH et 10 al. 3 Cst. (TF 1B_729/2012 du 28 mai 2013 consid. 2.1 ; TF 6B_364/2011
+du 24 octobre 2011 consid. 2.2; TF 6B_274/2009 du 16 février 2010 consid. 3.1.2.2 et les références
+citées).
+2.3
+En l'espèce, les recourants tentent d'établir
+qu'en omettant de prendre des précautions face aux envies de suicide manifestées par la victime,
+les divers médecins auraient commis un homicide par négligence, voire des lésions corporelles
+graves par négligence.
+Même s'il est exact que B.F.________ était gravement malade et qu'elle avait évoqué
+aux médecins, lors de son hospitalisation au CHUV, son souhait de mourir après s'être
+fait amputer de plusieurs membres, il apparaît en réalité que l'enquête portant sur
+l'existence d'un homicide par négligence a déjà fait l'objet d'un classement et d'un refus
+de reprise de la procédure préliminaire. Dans ce contexte, une plainte pour lésions corporelles
+graves par négligence paraît également vouée à l'échec.
+Les éléments recueillis dans le cadre de l'enquête ne permettent du reste aucunement de
+suspecter l'existence d'une erreur médicale ou de traitements inhumains. On rappellera à cet
+égard que ces mauvais traitements doivent atteindre un minimum de gravité et doivent pouvoir
+être qualifiés de dégradants, ce qui est loin d'être établi en l'espèce
+au vu des contours restrictifs tracés par la jurisprudence eu égard à cette notion (cf.
+consid. 2.2.5,
+supra
+).
+Il apparaît bien plutôt que les recourants cherchent à utiliser la voie pénale et
+tirer ainsi bénéfice de la maxime de l'instruction (cf. art. 6 CPP) en vue de servir leurs
+intérêts dans le cadre de dédommagements civils qu'ils entendent réclamer à
+l'Etat. Or, aucun fait pénalement répréhensible ne peut être décelé et
+la plainte paraît vouée à l'échec.
+La condition contenue à l'art. 136 al. 1 let. b CPP n'étant pas remplie, c'est à bon droit
+que le Procureur a refusé l'assistance judiciaire gratuite aux plaignants.
+Au demeurant, on relève que, selon la jurisprudence citée ci-dessus (cf. consid. 2.2.4),
+à défaut de prétentions civiles, l'assistance judiciaire ne saurait être accordée
+s'agissant d'une enquête dirigée contre des agents de l'Etat. En l'occurrence, dès lors
+que les recourants font valoir des prétentions à l'égard de médecins du CHUV et que
+leurs prétentions relèvent par conséquent du droit public, ils ne sauraient se voir octroyer
+le bénéfice de l'assistance judiciaire gratuite au sens des art. 136 ss CPP.
+Certes, la problématique n'est pas la même s'agissant des conclusions que les recourants tentent
+de faire valoir à l'égard de la Dresse [...], médecin traitant de la victime. Les
+recourants
+n'expliquent cependant pas en quoi la responsabilité de la Dresse [...] serait engagée dans
+le cadre du suivi médical de la victime lors de son hospitalisation au CHUV.
+3.
+Il résulte de ce qui précède que le recours doit être rejeté, sans autre échange
+d'écritures (art. 390 al. 2 CPP), et l’ordonnance attaquée confirmée.
+La requête tendant à l’octroi de l’assistance judiciaire pour la procédure
+de recours doit également être rejetée, dès lors que le recours apparaissait d’emblée
+dénué de chances de succès (CREP 11 août 2016/524 ; CREP 21 décembre 2015/852
+consid. 6 et les arrêts cités).
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt, par 990 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge des recourants,
+qui succombent (art. 428 al. 1 CPP), à parts égales et solidairement entre eux.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 5 décembre 2016 est confirmée.
+III.
+La requête d'assistance judiciaire gratuite
+pour la procédure de recours est rejetée.
+IV.
+Les frais d'arrêt, par 990 fr. (neuf cent nonante francs), sont mis à la charge des recourants
+C.F.________, B.N.________ et A.N.________, à parts égales et solidairement entre eux.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Stephen Gintzburger, avocat (pour MM. C.F.________, B.N.________ et A.N.________),
+-
+Ministère public central ;
+et communiqué à :
+-
+M. le Procureur du Ministère public central, Division affaires spéciales ;
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
