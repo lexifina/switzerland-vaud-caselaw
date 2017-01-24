@@ -1,0 +1,218 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___64"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 64"
+decided: "2017-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5921580"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-001.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-012.md", "switzerland/bund/acts/312.0/art-016.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-422.md"]
+---
+
+# VD Findinfo Décision / 2017 / 64
+
+## Regeste
+
+RÉCUSATION, MINISTÈRE PUBLIC | 56 CPP (CH), 58 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2017 Décision / 2017 / 64
+
+RÉCUSATION, MINISTÈRE PUBLIC | 56 CPP (CH), 58 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+54
+PE16.009624-FMO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 24 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Abrecht, juges
+Greffier
+:              M.
+Graa
+*****
+Art.
+56 ss, 58 al. 1 CPP
+Statuant sur la demande de récusation déposée le 17 janvier 2017 par
+Q.________
+à l'encontre de V.________
+,
+Procureur général adjoint du canton de Vaud, dans la cause
+n° PE16.009624-FMO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 13 mai 2016, H.________ a déposé plainte pénale contre Q.________ pour injure, diffamation,
+subsidiairement calomnie et tentative de contrainte. Il reprochait à l'intéressé, détenu
+aux Etablissements de la Plaine de l'Orbe, de lui avoir fait notifier un commandement de payer infondé
+et pour des motifs attentatoires à l'honneur.
+Le 24 mai 2016, la Municipalité d' [...] ainsi que son syndic J.________ ont également déposé
+plainte pénale contre Q.________ pour des faits similaires.
+Le 8 juin 2016, le Procureur de l'arrondissement du Nord vaudois, N.________, a ouvert une instruction
+pénale contre Q.________ concernant les faits dénoncés.
+b)
+Par courrier du 29 août 2016, Q.________ a requis la récusation du Procureur N.________.
+Par arrêt du 27 septembre 2016/590, la Chambre des recours pénale a rejeté cette demande
+de récusation dans la mesure où elle était recevable.
+c)
+Par acte du 24 novembre 2016, le Procureur N.________ a demandé au Procureur général du
+canton de Vaud de lui retirer la conduite de l'instruction dirigée contre Q.________. A l'appui
+de cette requête, il a indiqué que ce dernier lui avait fait notifier un commandement de payer
+infondé, pour des motifs attentatoires à l'honneur, et lui avait en outre adressé, à
+son domicile, une lettre injurieuse et menaçante.
+Le 1
+er
+décembre 2016, l'instruction a été confiée au Procureur général adjoint
+V.________.
+Le 6 décembre 2016, le Procureur général adjoint V.________ a étendu l'instruction
+pénale dirigée contre Q.________ pour les faits rapportés par son prédécesseur
+dans son courrier du 24 novembre 2016.
+B.
+a)
+Lors de son audition par le Procureur général adjoint V.________, le 17 janvier 2017, Q.________
+a requis la récusation du prénommé en déclarant ce qui suit : « Je
+n'entends pas refuser de m'exprimer parce que je ne suis pas assisté d'un défenseur aujourd'hui,
+mais il y a à mon avis un problème de fond bien plus important. L'Etat ayant des intérêts
+dans des sociétés de traitement des déchets et dans la mesure où j'étais moi-même
+actif dans ce domaine et que mes problèmes viennent de là, je considère que tout représentant
+de l'Etat est juge et partie, si bien que j'estime devoir dès lors demander votre récusation.
+Vous m'informez que ma demande de récusation sera transmise à l'autorité compétente
+pour qu'elle statue à ce sujet, mais que vous estimez en l'état qu'il n'y a pas de motifs de
+récusation et que vous entendez poursuivre la présente audition qui serait retirée du
+dossier si la demande de récusation devait être acceptée par la suite » (PV
+aud. 1, ll. 39 ss).
+b)
+Par acte du 17 janvier 2017, le Procureur général adjoint V.________ a transmis cette demande
+de récusation à la Chambre des recours pénale et s'est déterminé en faveur de
+son rejet.
+En droit
+:
+1.
+Aux termes de l'art. 59 al. 1 let. b CPP (Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant
+une fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l'occurrence, la Chambre des recours pénale du Tribunal cantonal est compétente pour statuer
+sur la demande de récusation présentée par Q.________ à l’encontre du Procureur
+général adjoint V.________ (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009 ; RSV 312.01]), déposée en temps utile (art. 58 al. 1 CPP).
+2.
+2.1
+Un magistrat est récusable pour l'un des motifs prévus aux art. 56 let. a à e CPP. Il
+l'est également, selon l'art. 56 let. f CPP, « lorsque d'autres motifs, notamment un rapport
+d'amitié étroit ou d'inimitié avec une partie ou son conseil, sont de nature à le
+rendre suspect de prévention ». Cette disposition a la portée d'une clause générale
+recouvrant tous les motifs de récusation non expressément prévus aux lettres précédentes.
+Elle correspond à la garantie d'un tribunal indépendant et impartial instituée par les
+art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101) et 6 § 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme
+et des libertés fondamentales ; RS 0.101). Elle n'impose pas la récusation seulement lorsqu'une
+prévention effective du magistrat est établie, car une disposition interne de sa part ne peut
+guère être prouvée. Il suffit que les circonstances donnent l'apparence de la prévention
+et fassent redouter une activité partiale du magistrat. Seules les circonstances constatées
+objectivement doivent être prises en considération. Les impressions purement individuelles
+d'une des parties au procès ne sont pas décisives (TF 1B_150/2016 du 19 mai 2016 consid. 2.1
+et les références citées).
+Dans le cadre de l'instruction, le ministère public est tenu à une certaine impartialité
+même s'il peut être amené, provisoirement du moins, à adopter une attitude plus orientée
+à l'égard du prévenu ou à faire état de ses convictions à un moment donné
+de l'enquête. Cela est en particulier le cas lorsqu'il décide de l'ouverture d'une instruction
+(qui suppose l'existence de soupçons suffisants au sens de l'art. 309 al. 1 CPP) ou lorsqu'il ordonne
+des mesures de contrainte. Tout en disposant, dans le cadre de ses investigations, d'une certaine liberté,
+le magistrat reste tenu à un devoir de réserve. Il doit s'abstenir de tout procédé
+déloyal, instruire tant à charge qu'à décharge et ne point avantager une partie au
+détriment d'une autre (TF 1B_46/2016 du 29 avril 2016 consid. 3.1 et les références citées).
+Aux termes de l’art. 58 al. 1 CPP, lorsqu’une partie entend demander la récusation d’une
+personne qui exerce une fonction au sein d’une autorité pénale, elle doit présenter
+sans délai à la direction de la procédure une demande en ce sens, dès qu’elle
+a connaissance du motif de récusation ; les faits sur lesquels elle fonde sa demande doivent être
+rendus plausibles. Selon la jurisprudence, même si la loi ne prévoit aucun délai particulier,
+il y a lieu d’admettre que la récusation doit être formée aussitôt, c’est-à-dire
+dans les jours qui suivent la connaissance de la cause de récusation (TF 1B_321/2013 du 30 octobre
+2013 consid. 2.1 et les références citées).
+2.2
+En l'espèce, Q.________ a motivé sa demande de récusation par le fait que l'Etat de Vaud
+aurait des intérêts dans des sociétés de traitement des déchets, domaine dans
+lequel il a lui-même été actif et d'où proviendraient ses problèmes judiciaires.
+En conséquence, face à lui, « tout représentant de l'Etat [serait] juge et partie »
+(PV aud. 1, ll. 42 s.).
+On ne discerne toutefois, dans cette explication, aucun élément de nature à remettre en
+question l'impartialité du Procureur général adjoint V.________. En effet, un procureur
+n'agit nullement en qualité de « représentant de l'Etat » comme le ferait
+un membre du pouvoir exécutif ou un fonctionnaire. Il agit, dans le cadre de la poursuite et du
+jugement par les autorités pénales des infractions prévues par le droit fédéral
+(cf. art. 1 al. 1 CPP), en tant qu'autorité de poursuite pénale (art. 12 let. b CPP), responsable
+de l'exercice uniforme de l'action publique (art. 16 al. 1 CPP). Il lui incombe de rechercher d'office
+tous les faits pertinents pour la qualification de l'acte et le jugement du prévenu (art. 6 al.
+1 CPP) et d'instruire avec un soin égal les circonstances qui peuvent être à la charge
+et à la décharge du prévenu (art. 6 al. 2 CPP). L'activité du Ministère public
+dans des cas d'espèce n'est pas soumise à la surveillance du Conseil d'Etat ; celui-ci ne peut
+pas donner d'instructions relatives à l'ouverture, au déroulement ou à la clôture
+de la procédure, à la représentation de l'accusation devant le tribunal ni au dépôt
+de recours (art. 21 al. 4 LMPu [loi sur le Ministère public ; RSV 173.21]). Dans les cas d'espèce,
+le Ministère public agit ainsi en toute indépendance par rapport au pouvoir exécutif.
+Un procureur ne saurait dès lors être récusé au seul motif qu'il est payé par
+l'Etat et que les problèmes du prévenu trouveraient leur origine dans un conflit avec celui-ci.
+En conséquence, le motif invoqué par le requérant tombe à faux. Q.________ ne présente,
+pour le reste, aucun élément permettant de suspecter une prévention du Procureur général
+adjoint V.________ à son égard.
+3.
+Il résulte de ce qui précède que
+la demande de récusation déposée le 17 janvier 2017 par Q.________ à l'encontre du
+Procureur général adjoint V.________ doit être rejetée.
+Les frais de la présente procédure, constitués en l’espèce du seul émolument
+de décision (art. 422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à
+la charge du requérant, conformément à l'art. 59 al. 4 CPP.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation déposée le 17 janvier 2017 par Q.________ à l'encontre du
+Procureur général adjoint V.________ est rejetée.
+II.
+Les frais de décision, par 660 fr. (six cent soixante francs), sont mis à la charge du requérant.
+III.
+La décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Q.________,
+-
+Ministère public central,
+et communiquée à :
+-
+M. le Procureur général adjoint du canton de Vaud,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
