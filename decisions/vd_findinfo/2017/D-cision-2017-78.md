@@ -1,0 +1,217 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___78"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 78"
+decided: "2017-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5922958"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-019.md", "switzerland/bund/acts/311.0/art-020.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-060.md"]
+---
+
+# VD Findinfo Décision / 2017 / 78
+
+## Regeste
+
+RÉCUSATION | 56 CPP (CH), 56 let. f CPP (CH), 59 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2017 Décision / 2017 / 78
+
+RÉCUSATION | 56 CPP (CH), 56 let. f CPP (CH), 59 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+52
+PE13.006394-
+[...]
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 24 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Krieger et Abrecht, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+56 ss CPP
+Statuant sur la demande de récusation déposée le 18 janvier 2017 par
+R.________
+à l'encontre des membres du Tribunal correctionnel de l’arrondissement de l’Est vaudois
+appelé à le juger, dans la cause
+n° PE13.006394-SOS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par acte du 30 octobre 2015, le Ministère public de l’arrondissement de Lausanne a engagé
+l’accusation devant le Tribunal correctionnel de l’arrondissement de l’Est vaudois
+contre R.________ pour actes d’ordre sexuel avec des enfants, contrainte sexuelle et viol. En substance,
+il est reproché à ce dernier d’avoir forcé son épouse à entretenir des
+relations sexuelles à réitérées reprises entre le début des années 2000
+et 2011. De plus, entre 2003 et 2012, le prévenu aurait également eu des comportements sexuels
+en présence de ses enfants, tout particulièrement à l’égard de sa fille [...],
+née en 1996.
+b)
+Lors de l’audience du 9 janvier 2017, le Tribunal correctionnel de l’arrondissement de l’Est
+vaudois, faisant droit à la requête du Ministère public – requête à laquelle
+le prévenu avait adhéré (procès-verbal, p. 33) –, a ordonné que celui-ci
+soit soumis à une expertise psychiatrique et a suspendu l’audience jusqu’à droit
+connu sur l’expertise.
+c)
+Par prononcé du 16 janvier 2017, la direction de la procédure du Tribunal correctionnel, mettant
+en œuvre la décision prise le 9 janvier 2017, a désigné en qualité d’expert
+le Docteur [...] et lui a imparti un délai au 15 mai 2017 pour accomplir sa mission. L’expert
+était invité à se prononcer sur l’existence d’un éventuel trouble mental
+du prévenu, sur sa responsabilité et sur un éventuel risque de récidive, ainsi qu’à
+évaluer l’adéquation de diverses mesures thérapeutiques.
+B.
+Le 18 janvier 2017, R.________ a demandé
+la récusation des membres du Tribunal correctionnel de l’arrondissement de l’Est vaudois
+chargé de le juger. Il soutient en substance que les questions soumises à l’expert, telles
+que formulées dans le prononcé du 16 janvier 2017, dénoteraient une apparence de prévention
+de la part du tribunal. A l’appui de sa critique, le prévenu cite les expressions suivantes :
+« apprécier le caractère illicite de son (ses) acte(s) », « nouvelles
+infractions », « autres infractions ».
+Dans sa prise de position du 19 janvier 2017, la Présidente du Tribunal correctionnel a estimé
+qu’il n’existait aucun motif de récusation et que le grief relatif à une prétendue
+violation du principe de la présomption d’innocence était mal fondé.
+En droit
+:
+1.
+Aux termes de l'art. 59 al. 1 let. b CPP (Code
+de procédure pénale suisse du 5 octobre 2007, RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant
+une fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l'occurrence, la Chambre des recours pénale du Tribunal cantonal est compétente pour statuer
+sur la demande de récusation présentée par R.________ à l’encontre du Tribunal
+correctionnel de l’arrondissement de l’Est vaudois composé de la Présidente [...]
+et des Juges [...] et [...] (art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009, RSV 312.01]) (CREP 6 octobre 2015/652).
+2.
+2.1
+L'art. 56 let. a à f CPP énonce divers
+motifs de récusation qualifiés à l'égard de toute personne exerçant une fonction
+au sein d’une autorité pénale ; pour sa part, sa lettre f impose la récusation
+du fonctionnaire ou magistrat concerné « lorsque d'autres motifs, notamment un rapport
+d'amitié étroit ou d'inimitié avec une partie ou son conseil, sont de nature à le
+rendre suspect de prévention ». L'art. 56 let. f CPP a la portée d'une clause générale
+recouvrant tous les motifs de récusation non expressément prévus aux lettres précédentes
+(TF 1B_202/2013 du 23 juillet 2013 consid. 2.1.2 ; TF 6B_621/2011 du 19 décembre 2011
+consid. 2.2).
+La garantie d'un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999 ; RS 101)
+et 6 par. 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales ; RS 0.101) permet d'exiger la récusation d'un juge – respectivement d'un
+procureur (cf. ATF 138 IV 142) – dont la situation ou le comportement est de nature à faire
+naître un doute sur son impartialité (TF 1B_629/2011 précité consid. 2.1 et la référence
+citée ; ATF 126 I 68 consid. 3a). La récusation ne s'impose pas seulement lorsqu'une
+prévention effective du magistrat est établie, car une disposition interne de sa part ne peut
+guère être prouvée. Il suffit que les circonstances donnent l'apparence de la prévention
+et fassent redouter une activité partiale du magistrat. Seules les circonstances constatées
+objectivement doivent être prises en considération ; les impressions purement individuelles
+d'une des parties au procès ne sont pas décisives (ATF 136 III 605 consid. 3.2.1 ;
+ATF 134 I 20 consid. 4.2 ; TF 1B_311/2014 du 31 octobre 2014 ; TF 1B_105/2013 du
+21 mai 2013 consid. 2.1). Des décisions ou des actes de procédure qui se révèlent
+par la suite erronés ne fondent pas en soi une apparence objective de prévention; seules des
+erreurs particulièrement lourdes ou répétées, constitutives de violations graves
+des devoirs du magistrat, peuvent fonder une suspicion de partialité, pour autant que les circonstances
+dénotent que le juge est prévenu ou justifient à tout le moins objectivement l'apparence
+de prévention. En effet, la fonction judiciaire oblige à se déterminer rapidement sur
+des éléments souvent contestés et délicats. Il appartient en outre aux juridictions
+de recours normalement compétentes de constater et de redresser les erreurs éventuellement
+commises dans ce cadre. La procédure de récusation n'a donc pas pour objet de permettre aux
+parties de contester la manière dont est menée l'instruction et de remettre en cause les différentes
+décisions incidentes prises par la direction de la procédure (ATF 138 IV 142 consid. 2.3 ;
+ATF 116 Ia 135 consid. 3a ; ATF 114 Ia 153 consid. 3b/bb ; ATF 111 Ia 259 consid. 3b/aa et
+les références citées ; TF 1B_311/2014 du 31 octobre 2014).
+2.2
+En l’espèce, le fait d’ordonner une expertise psychiatrique ne dénote aucune espèce
+de prévention contre la personne qui en est l’objet (cf. art. 20 CP [Code pénal ;
+RS 311]). Il va de soi que l’expert ne se prononce pas sur le caractère illicite ou non des
+actes commis, mais sur la faculté du prévenu d’apprécier le caractère illicite
+d’un acte et de se déterminer d’après cette appréciation (art. 19 CP). Lorsque
+le tribunal formule les questions qu’il entend soumettre à l’expert et que celui-ci
+y répond, la culpabilité du prévenu n’est pas tenue pour établie, mais constitue
+une simple hypothèse de travail. Le tribunal ne fait d’ailleurs que reprendre le questionnaire
+type conçu avec le concours des médecins psychiatres responsables des expertises. A cet égard,
+l’expression litigieuse de « caractère illicite de ses actes » se contente
+de reprendre le texte légal de l’art. 19 CP. Il en va de même des autres termes critiqués
+(« nouvelles infractions », « autres infractions »), qui font
+référence à des dispositions légales (art. 59, 60, 63 et 64 CP), dont le tribunal
+pourrait être amené à envisager l’application. Ainsi, les expressions en cause ne
+sauraient constituer un signe de prévention contre le prévenu. Enfin, pour qu’une expertise
+psychiatrique puisse être utilement exploitée par un tribunal, il importe qu’elle précède
+un éventuel prononcé de culpabilité, et non qu’elle intervienne après celui-ci.
+Une telle manière de procéder, usuelle, ne viole pas le présomption d’innocence
+et se justifie au regard des principes de la célérité et de d’économie de la
+procédure.
+Pour le surplus, le requérant discute les buts de l’expertise psychiatrique et les questions
+auxquelles celle-ci devait répondre, conteste avoir exercé un moyen de contrainte au préjudice
+de la victime et semble s’en prendre à la manière dont les débats se sont déroulés.
+Il ne s’agit toutefois pas là de motifs de récusation, de tels griefs relevant exclusivement
+des voies de recours ou d’appel.
+3.
+Il résulte de ce qui précède que la demande de récusation présentée le
+18 janvier 2017 par R.________ doit être rejetée. Il n’y a dès lors pas lieu d’annuler
+les actes de procédure auxquels ont participé les membres du Tribunal correctionnel (art. 60
+CPP).
+Les frais de procédure, constitués en l’espèce du seul émolument de décision,
+par 550 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge du requérant
+(art. 59 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation présentée le 18 janvier 2017 par R.________ est rejetée.
+II.
+Les frais de procédure, par 550 fr. (cinq cent cinquante francs), sont mis à la charge de R.________.
+III.
+La décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Cédric Aguet, avocat (pour R.________),
+-
+Me François Chanson, avocat (pour M.________),
+-
+Me Carole Wahlen, avocate (pour [...]),
+-
+Ministère public central,
+et communiquée à :
+-
+Mme la Présidente du Tribunal d’arrondissement de l’Est vaudois,
+-
+Mme la Procureure du Ministère public central, Division affaires spéciales,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF)
+Le greffier :
