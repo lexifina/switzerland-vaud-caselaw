@@ -1,0 +1,129 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___84"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 84"
+decided: "2017-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5940113"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-083.md"]
+---
+
+# VD Findinfo Décision / 2017 / 84
+
+## Regeste
+
+RECTIFICATION DE LA DÉCISION | 83 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2017 Décision / 2017 / 84
+
+RECTIFICATION DE LA DÉCISION | 83 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+73
+PE13.002014-BUF
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+25 janvier 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffier
+:              M.
+Graa
+*****
+Art.
+83 al. 1 CPP
+Statuant sur la rectification de l’arrêt rendu le 30 décembre 2016 (n
+o
+899)
+dans la cause
+n° PE13.002014-BUF
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par arrêt du 30 décembre 2016, la Chambre des recours pénale du Tribunal cantonal a rejeté
+le recours interjeté le 11 novembre 2016 par J.________ (I), a confirmé l'ordonnance de classement
+rendue le 31 octobre 2016 par le Ministère public central, division affaires spéciales (II),
+a fixé à 972 fr. l'indemnité allouée au conseil juridique gratuit d'J.________, l'avocat
+Loïc Parein (III), a provisoirement laissé les frais d'arrêt, par 1'650 fr., ainsi que
+l'indemnité due au conseil juridique gratuit d'J.________, par 972 fr., à la charge de
+l'Etat (IV), a dit qu'J.________ serait tenu de rembourser à l'Etat l'indemnité allouée
+au chiffre III ainsi que les frais fixés au chiffre IV dès que sa situation financière
+le permettrait (V) et a dit que l'arrêt était exécutoire (VI).
+2.
+Le 24 janvier 2017, l'avocat Loïc Parein a indiqué que si J.________ avait bénéficié
+de l'assistance judiciaire au début de la procédure préliminaire, ce dernier y avait par
+la suite renoncé, de sorte qu'il était intervenu dans la procédure de recours en qualité
+de conseil de choix de l'intéressé.
+3.
+Selon l'art. 83 al. 1 CPP, l'autorité pénale
+qui a rendu un prononcé dont le dispositif est peu clair, contradictoire ou incomplet ou qui est
+en contradiction avec l'exposé des motifs l'explique ou le rectifie à la demande d'une partie
+ou d'office.
+4.
+En l'espèce, dans son arrêt du 30 décembre
+2016, la Chambre des recours pénale a retenu, par erreur, que l’avocat Loïc Parein agissait
+en qualité de conseil juridique gratuit d'J.________. Partant, il y a lieu, en application de l'art.
+83 al. 1 CPP (cf. CREP 27 avril 2016/273 ; CREP 15 mars 2012/126), de rectifier l’arrêt
+concerné aux chiffres III, IV et V de son dispositif de manière à tenir compte du fait
+qu’aucune indemnité d’office ne doit être allouée.
+5.
+Le présent arrêt rectificatif sera rendu sans frais.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+L’arrêt rendu le 30 décembre 2016 par la Chambre des recours pénale du Tribunal
+cantonal est modifié comme il suit aux chiffres III, IV et V de son dispositif :
+"III.
+Supprimé ;
+IV.
+Les frais d'arrêt, par 1'650 fr. (mille six cent cinquante francs), sont mis à la charge d'J.________ ;
+V.
+Supprimé ;"
+L'arrêt est confirmé
+pour le surplus.
+II.
+Le présent arrêt rectificatif, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Loïc Parein, avocat (pour J.________),
+-
+Me Jacques Michod, avocat (pour Z.________),
+-
+Office des curatelles et tutelles professionnelles,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur du Ministère public central, division affaires spéciales,
+-
+L.________,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
