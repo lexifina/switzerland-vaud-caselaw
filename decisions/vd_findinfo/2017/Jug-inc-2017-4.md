@@ -1,0 +1,401 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2017___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2017 / 4"
+decided: "2017-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5939514"
+cites_law: ["switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-222.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2017 / 4
+
+## Regeste
+
+EXPERT, RÉCUSATION | 222 al. 1 CPC, 222 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 25.01.2017 Jug-inc / 2017 / 4
+
+EXPERT, RÉCUSATION | 222 al. 1 CPC, 222 CPC
+
+TRIBUNAL
+CANTONAL
+CO08.032910
+7/2017/EKA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+C.________
+et
+I.________
+SA
+, toutes deux aux îles Vierges britanniques,
+et
+V.________
+,
+à Moscou, d'avec
+A.________
+SA
+, à Lausanne.
+___________________________________________________________________
+Du
+25 janvier 2017
+_______________
+Présidence
+de :               M.
+KALTENRIEDER, juge instructeur
+Greffier
+:
+M.              Petit
+*****
+Statuant à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès ouvert par les demanderesses
+C.________, I.________ SA et V.________ contre la défenderesse A.________ SA, selon demande du 29
+avril 2009,
+vu les écritures des parties,
+vu les courriers du 17 avril 2014 et 25 septembre 2014 par lesquels les demanderesses ont proposé,
+s’agissant de l’expertise financière à diligenter dans la présente cause,
+l’expert I.________,
+vu le courrier du 2 octobre 2014 par lequel la défenderesse a relevé l’importance que
+l’expert désigné dispose de compétences spéciales en matière de technique
+bancaire et boursière, et proposé l’expert J.________, de W.________,
+vu le procès-verbal de l’audience préliminaire du 15 octobre 2014, au cours de laquelle
+les demanderesses se sont opposées à l’expert proposé par la défenderesse,
+et où il a été convenu de réexaminer la question lors de la reprise d’audience
+le 3 novembre 2014,
+vu le procès-verbal de l’audience préliminaire du 3 novembre 2014, au cours de laquelle
+les parties, à nouveau entendues sur la personne ou les personnes à mettre en œuvre dans
+le cadre de l’expertise financière, ont persisté dans leur position déjà exprimée,
+un délai au 21 novembre 2014 étant fixé à la défenderesse pour faire d’autres
+propositions, les demanderesses se réservant également d’en faire,
+vu le courrier de l’expert I.________ du 17 novembre 2014 aux parties, par lequel celui-ci s’est
+déclaré indisponible, et a suggéré les experts L.________ et K.________, de Q.________
+SA,
+vu le courrier du 12 janvier 2015 par lequel les demanderesses ont proposé les experts L.________
+et K.________, de Q.________ SA, l’un à défaut de l’autre,
+vu le courrier du 3 février 2015 par lequel la défenderesse a proposé les experts G.________
+et H.________, de C.________ SA, ou J.________, de W.________, les uns à défaut de l’autre,
+vu le courrier du 17 février 2015 par lequel les demanderesses se sont opposées aux propositions
+d’experts de la défenderesse, réitérant leur proposition du 12 janvier 2015,
+vu le courrier du 18 février 2015 par lequel la défenderesse a retiré sa proposition de
+désignation de l’expert J.________, et a maintenu sa proposition s’agissant des experts
+de C.________ SA, réfutant les motifs d’opposition élevés à leur encontre par
+les demanderesses,
+vu l’avis du 19 février 2015 par lequel le juge instructeur a indiqué être en mesure
+de rendre l’ordonnance sur preuves, sous réserve d’une réplique spontanée
+de la défenderesse dans un délai au 2 mars 2015,
+vu le courrier du 2 mars 2015 par lequel la défenderesse a réitéré que rien ne s’opposait
+à la désignation des experts de C.________ SA,
+vu l’ordonnance sur preuves du 3 mars 2015, qui a notamment nommé un expert en police scientifique,
+avec pour mission de répondre aux allégués répertoriés sous chiffre IV a), ordonné
+une expertise financière portant sur les allégués répertoriés sous chiffre V
+a), déclaré que l’expert financier serait désigné par une ordonnance sur preuves
+complémentaire (chiffre V b)), ceci lorsque l’expert en police scientifique aura achevé
+sa mission (chiffre VI), déclaré que les frais présumés de la procédure probatoire
+seraient fixés et requis ultérieurement, étant précisé que les frais d’expertise
+financière seraient avancés à raison de trois quarts par les demanderesses, solidairement
+entre elles, et de un quart par la défenderesse (chiffre VII),
+vu le dépôt du rapport de l’expert en police scientifique le 10 juin 2016,
+vu l’audience de conciliation du 27 septembre 2016, au cours de laquelle les parties ont été
+notamment entendues sur l’identité de l’expert financier à désigner, et lors
+de laquelle le juge instructeur a informé avoir interpellé, d’entente avec les parties,
+S.________ de S.________ SA – lequel a fait savoir qu’il refusait tout mandat d’expertise
+judiciaire –, et annoncé que, toujours d’entente avec les parties, il prendrait contact
+téléphoniquement avec les sociétés – proposées par les parties –
+V.________ SA, Q.________ SA et R.________ SA,
+vu le courrier du 30 septembre 2016, par lequel le juge instructeur a informé que les experts contactés
+au sein des trois sociétés précitées avaient décliné le mandat envisagé,
+étant tous en relation d’affaires à titre personnel ou professionnel avec la défenderesse,
+et fixé aux parties un délai au 14 octobre 2016 pour formuler des nouveaux noms d’expert,
+vu le courrier du 14 octobre 2016 par lequel les demanderesses ont proposé l’expert P.________,
+de O.________ SA,
+vu les courriers du 14 et 27 octobre 2016 par lesquels la défenderesse a maintenu sa proposition
+tendant à la désignation des experts G.________ et H.________ de C.________ SA,
+vu l’avis du 2 novembre 2016 par lequel le juge instructeur a informé les parties s’être
+entretenu téléphoniquement avec les experts proposés par celles-ci, en premier lieu P.________
+de O.________ SA – laquelle a indiqué avoir réalisé à une reprise une expertise
+judiciaire en matière de curatelle, et que sa société était en relation d’affaires
+avec la défenderesse –, en second lieu G.________ de C.________ SA – lequel a indiqué
+avoir l’habitude de réaliser des expertises judiciaires, et qu’il n’était
+pas personnellement en relation d’affaires avec la défenderesse, ni sa société,
+celle-ci étant uniquement locataire de locaux propriétés du Fonds de pension de la défenderesse
+–, et annoncé avoir décidé, au vu des renseignements recueillis, de désigner
+G.________ en qualité d’expert financier, charge pour lui de s’adjoindre les compétences
+d’un sous-expert qui ne serait pas non plus en relation d’affaires directe, à titre
+privé ou professionnel, avec la défenderesse,
+vu l’ordonnance sur preuves complémentaire du 2 novembre 2016, qui a notamment désigné
+en qualité d’expert financier G.________, C.________ SA, avec pour mission de répondre
+aux allégués répertoriés sous chiffre I a),
+vu l’avis du 2 novembre 2016 par lequel le juge instructeur a informé G.________, C.________
+SA, de sa désignation en qualité d’expert financier, l’autorisant à s’assurer
+si nécessaire les services d’un sous-expert compte tenu de la complexité de la cause,
+et l’invitant à signaler, le cas échéant, tout lien présent ou passé de
+nature privée ou professionnelle entretenu par lui ou l’éventuel sous-expert avec l’une
+ou l’autre des parties au procès,
+vu la requête en récusation de l’expert formée par les demanderesses au fond et
+requérantes à l’incident le 10 novembre 2016,
+vu le courrier du 29 novembre 2016 par lequel les requérantes ont encore proposé deux experts
+financiers, soit Z.________ SA, par son directeur D.________, et Q.________, professeur à [...],
+vu le courrier de l’expert G.________ du 1
+er
+décembre 2016 par lequel celui-ci a accepté sa mission, évalué les coûts de
+celle-ci à 420'000 fr. TVA comprise, indiqué envisager travailler avec son associé H.________
+en qualité de sous-expert, et mentionné les liens entretenus avec la défenderesse,
+vu l’avis du 5 décembre 2016 par lequel le juge instructeur a informé C.________ SA de
+la requête de récusation formée par les demanderesses, lui impartissant un délai
+de 10 jours pour se déterminer,
+vu le courrier de l’expert G.________ du 19 décembre 2016,
+vu l’avis du 21 décembre 2016 par lequel le juge instructeur a imparti aux requérantes
+un délai au 9 janvier 2017 pour se déterminer sur le courrier du 19 décembre 2016 de l’expert
+G.________,
+vu les déterminations des requérantes du 5 janvier 2017, accompagnées de dix-huit pièces
+sous bordereau,
+vu les déterminations des requérantes du 9 janvier 2017, accompagnées de deux pièces,
+vu le courrier de l’expert G.________ du 12 janvier 2017, accompagné d’une pièce,
+vu les déterminations de la défenderesse au fond et intimée à l’incident du
+19 janvier 2017,
+vu le courrier du 1
+er
+février 2017 des requérantes,
+vu le courrier du 7 février 2017 de l’intimée,
+vu les pièces du dossier,
+vu les art. 150 et 222 CPC-VD (Code de procédure civile vaudois du 14 décembre 1966, RSV
+270.11), ainsi que 404 CPC (Code de procédure civile suisse du 19 décembre 2008, RS 272);
+attendu qu'à teneur de l'art. 404 al. 1 CPC, les procédures pendantes avant l'entrée en
+vigueur du nouveau droit demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance,
+que la présente procédure était en cours lors de l'entrée en vigueur du CPC le 1
+er
+janvier 2011,
+qu'elle demeure ainsi régie par l'ancien droit de procédure, soit notamment le CPC-VD;
+attendu que selon l'art. 222 al. 1 CPC-VD, lorsqu'il existe des circonstances de nature à compromettre
+leur impartialité, les experts peuvent être récusés par demande écrite déposée
+dans les dix jours dès que la partie ou son mandataire ont eu connaissance de la nomination ou de
+la cause de récusation,
+qu'en l'espèce, les requérantes tirent leur motif de récusation de l’ordonnance
+sur preuves complémentaire du 2 novembre 2016, expédiée par courrier B et notifiée
+le 5 novembre 2016,
+qu’elles ont formulé leur requête de récusation par courrier du 10 novembre 2016,
+que dite requête est ainsi intervenue en temps utile;
+attendu que selon la jurisprudence, le motif de récusation de l'art. 222 al. 1 CPC-VD
+est plus large que pour les magistrats, puisqu'il suffit qu'il existe des circonstances quelconques de
+nature à compromettre l'impartialité de l'expert (JdT 1984 III 81; Poudret/Haldy/Tappy, Procédure
+civile vaudoise, 3
+e
+éd.,
+Lausanne 2002, n. 1 ad art. 222 CPC),
+que selon les standards minimaux consacrés par la jurisprudence fédérale, les parties
+à une procédure ont le droit d'exiger la récusation d'un expert dont la situation ou le
+comportement sont de nature à faire naître un doute sur son impartialité (TF 5A_981/2015
+du 12 avril 2016 consid. 3.2.1 et 3.2.2 et les références citées; 5A_485/2015 du 2 octobre
+2015 consid. 2.3.2; 4A_6/2011 du 22 mars 2011 consid. 2; 5A_435/2010 du 28 juillet 2010 consid. 3.2;
+ATF 125 II 541 consid. 4a),
+que cette garantie impose la récusation non seulement lorsqu'une prévention effective est établie,
+mais aussi lorsque les circonstances donnent l'apparence de la prévention et font redouter une activité
+partiale (
+ibid
+.),
+que seules des circonstances constatées objectivement doivent être prises en considération,
+les impressions individuelles d'une des parties n'étant pas décisives (ATF 138 I 1 consid 2.2;
+137 I 227 consid. 2.1; 136 III 605 consid. 3.2.1; 136 I 207 consid. 3.1; 134 I 20 consid. 4.2; Bettex,
+L'expertise judiciaire, thèse Lausanne 2006, p. 133),
+que peuvent notamment constituer des motifs de récusation le fait d'avoir un intérêt personnel
+dans l'affaire, d'être intervenu antérieurement dans la même cause, ou d'avoir un lien
+de parenté ou assimilé à de la parenté avec une partie (Bettex, op. cit., pp. 125
+ss),
+que la jurisprudence a ainsi considéré qu'une prévention de l'expert pouvait être
+admise en raison de déclarations antérieures, de faits ou de comportements prêtant un
+doute sur l'impartialité de celui-ci, comme notamment lorsque l'expert a préalablement établi
+un rapport privé à la demande de l'une des deux parties dans la même affaire (JdT 1996
+III 46 consid. 4),
+qu’en l’espèce, il existerait pour les requérantes une suspicion légitime
+de prévention à l’égard de l’expert G.________ et C.________ SA, en raison
+des faits suivants :
+-
+la société C.________ SA a ses bureaux
+dans un immeuble sis avenue [...] à [...] qui appartient à la défenderesse, où la
+société A.________ AG détenue par la défenderesse occupe également des locaux,
+et où un restaurant est exploité sous le nom «  [...] »;
+-
+C.________ SA est liée à la défenderesse
+par un contrat de bail conclu pour une durée de 10 ans (du 1
+er
+janvier 2012 au 31 mars 2022); ce contrat porte sur une surface administrative pour un loyer annuel avoisinant
+les 290'000 fr., sur une surface de dépôt pour un loyer annuel avoisinant les 34'000 fr., et
+sur 15 places de parking intérieur au loyer annuel initial de 27'000 fr. et 10 places extérieures
+au loyer annuel de 12'000 fr.,
+que les requérantes déduisent de ces éléments « qu’il y a ainsi nécessairement
+des contacts suivis avec des cadres et d’autres membres du personnel de la défenderesse »,
+que les requérantes font en outre valoir que G.________ est « administrateur délégué
+des sociétés C.________ SA et B.________ SA ayant leur siège à [...] »,
+qu’il est aussi « administrateur des sociétés E.________ SA et D.________ SA,
+ayant chacune son siège à [...] ainsi que des succursales à [...] et à [...] »,
+que D.________ SA publie sur internet sa propre présentation, où elle indique que la défenderesse
+est sa banque,
+que G.________ « est encore actuellement organe de sociétés ou d’autres entités
+dont il paraît exclu que la plupart n’aient pas des rapports étroits avec A.________
+SA/ A.________ AG, savoir :
+-
+Président de M.________;
+-
+administrateur secrétaire avec signature
+individuelle de X.________ SA, qui a son siège à l’avenue [...], c/o C.________ SA, et
+qui a pour but la gestion de créances, l’administration, l’achat et la vente et la gestion
+de toutes participations à toutes entreprises suisses et étrangères ainsi que toutes opérations
+de recouvrement;
+-
+administrateur président de Y.________ » ;
+que C.________ SA est « le réviseur d’autres entités dont la banque est [la
+défenderesse] », par exemple de Z.________, à Lausanne,
+que C.________ SA est « bien liée à [la défenderesse] par une relation de longue
+durée et l’une et l’autre sont liées par des arrangements financiers conclus en
+relation avec leur bail »,
+qu’il en résulte pour les requérantes que « l’expert désigné
+et son équipe sont beaucoup trop proches du personnel des sociétés du groupe [de la défenderesse]
+non seulement à [...] mais aussi à [...] », que « l’apparence d’une
+très grande proximité est évidente », et qu’on ne peut enfin imposer à
+une partie « de comparaître le cas échéant, pour les besoins de l’expertise,
+dans des locaux appartenant à la partie adverse »,
+que les requérantes ont encore requis la production, par l’expert, des « bilans
+des sociétés dont il est administrateur délégué ou administrateur, avec la liste
+des engagement bancaires et cas échéant de leasing de chacune d’elles envers [la défenderesse]
+et/ou toute autre société de son groupe »,
+que, dans son courrier du 1
+er
+décembre 2016, l’expert a expliqué que C.________ SA collaborait régulièrement
+avec de nombreux établissements bancaires, dont ceux de la défenderesse, pour la recherche
+de solutions financières pour ses mandants,
+qu’elle était locataire de la défenderesse à Renens de surfaces qui étaient
+gérées par U.________ SA et faisaient partie d’une aile séparée du bâtiment
+occupée exclusivement par des locataires tiers,
+que le groupe de sociétés B.________ détenait sept comptes créanciers, sans ligne
+de crédit, auprès de la défenderesse, savoir :
+-               à [...], un compte
+garantie de loyer pour les locaux précités;
+-              à [...], cinq comptes
+dont les soldes, selon détail annexé, étaient respectivement de 5'012 fr. 60, 324 fr.
+69, 14'284 fr. 15, 0 fr. et 2'795 fr.;
+-              à [...], un compte
+dont le solde était de 1'697 fr.;
+que l’expert a précisé pour le surplus que H.________ avait également deux comptes
+privés ouverts auprès de la défenderesse,
+que l’expert a certifié que lui-même et H.________ n’avaient ainsi « aucun
+conflit d’intérêt, ni lien professionnel ou privé avec l’une ou l’autre
+des parties, de nature à influencer l’indépendance et l’impartialité qui sont
+de mise dans l’exécution de [cette] expertise »,
+que, dans son courrier du 19 décembre 2016, l’expert s’est encore déterminé
+comme suit sur les points évoqués dans la requête de récusation :
+"[…] Comme mentionné dans ma lettre
+du 1
+er
+décembre 2016, notre société est locataire de A.________ SA. Ces locaux font partie d’une
+aile séparée du bâtiment, occupée exclusivement par des locataires tiers.
+Les locaux sont gérés par la société U.________ SA avec qui sont traitées toutes
+les interventions relatives à cette location. Nos loyers sont payés mensuellement et aucun
+avantage ou crédit ne nous a été concédé sur ces locaux.
+Le restaurant, situé dans le complexe, est également accessible au public et en particulier
+aux employés des entreprises travaillant dans les environs. Il est donc nullement réservé
+aux employés de A.________ SA ou à ses locataires.
+Bien que nos locaux soient bien séparés de ceux occupés par A.________ SA, nous pourrons
+recevoir Mme V.________ et le représentant des parties dans nos locaux d’Yverdon-les-Bains,
+[…].
+Mon dernier courrier mentionne également les relations que le groupe B.________, M. H.________ et
+moi-même avons avec A.________ SA.
+Les sociétés Y.________ » à Morges, et « X.________ SA »
+n’ont aucune relation avec A.________ SA.
+En ce qui concerne mon mandat de Président de M.________, la gestion courante avec les banques n’est
+pas du ressort du conseil d’administration.
+Il ne m’est pas possible de communiquer les bilans des sociétés dont je suis administrateur
+pour des raisons évidentes de secret des affaires et pour ne pas violer mon devoir de discrétion
+et de confidentialité envers les sociétés concernées. […]",
+que, dans leur courrier du 19 janvier 2017, les conseils de l’intimée ont confirmé n’entretenir
+aucune relation particulière avec l’expert désigné, ni avec H.________ ou C.________
+SA,
+qu’ils ont aussi confirmé dans leur courrier du 7 février 2017, que certains associés
+de l’étude croisaient depuis longtemps l’expert désigné dans le cadre de leurs
+activités professionnelles, comme bien d’autres responsables fiduciaires, raison pour laquelle
+ils le connaissaient de longue date;
+attendu, à titre liminaire, qu'il est dans la présente cause particulièrement compliqué
+de trouver un expert financier, compte tenu de la complexité et de la technicité des questions
+qui doivent lui être soumises d'une part, de la personnalité de la défenderesse d'autre
+part,
+que plusieurs experts ont déjà été approchés, qui ont tous décliné
+le mandat;
+considérant que les explications de l'expert ne permettent pas de retenir qu’il serait prévenu
+ou qu'il présenterait une apparence de prévention,
+que le simple fait pour la société C.________ SA d'être locataire de la défenderesse
+ne la met pas encore en soi dans un lien de dépendance tel qu'un mandat confié à l'un
+de ses administrateurs ferait naître objectivement une apparence de prévention de l'expert,
+qu'il en va de même du moyen tiré du partage du restaurant d'entreprise, lequel est d'ailleurs
+ouvert au public,
+que l'existence de sept comptes créanciers, sans ligne de crédit, auprès de l'intimée
+n'est pas non plus une circonstance de nature à faire naître un doute sur l'impartialité
+de l'expert,
+que s'agissant de ses autres mandats, l'expert a de façon convaincante exposé en quoi ils n'étaient
+pas non plus de nature à susciter un doute sur son impartialité,
+qu’en définitive, rien ne permet de redouter une activité partiale de sa part,
+que l’on ne peut conclure des circonstances objectives que l’expert et son équipe seraient
+beaucoup trop proches du personnel des sociétés du groupe de la défenderesse, comme le
+soutiennent les requérantes,
+que l'expert présente ainsi toutes les garanties d'impartialité indispensables à une expertise
+judiciaire,
+qu’il n’y a dès lors pas lieu à prononcer sa récusation;
+attendu que les frais de la procédure incidente doivent être arrêtés à 900 fr.
+à la charge des requérantes, en application des art. 4 al. 1 et 170a al. 1 aTFJC
+(tarif du 4 décembre 1984 des frais judiciaires en matière civile, abrogé par l'entrée
+en vigueur, le 1
+er
+janvier 2011, du tarif des frais judiciaires civils du 28 septembre 2010 [TFJC, RSV 270.11.5] et
+applicable en vertu de l'art. 99 al. 1 TFJC);
+attendu qu'en procédure incidente, le jugement statue sur les dépens comme en matière
+de jugement au fond (art. 150 al. 2 CPC-VD),
+que les dépens sont alloués à la
+partie qui a obtenu l'adjudication de ses conclusions (art. 92 al. 1 CPC-VD),
+qu'ils comprennent principalement les frais de justice, les honoraires et les débours d'avocat (art.
+91 let. a et c CPC-VD),
+que les honoraires d'avocat sont fixés selon le tarif des honoraires d'avocat dus à titre de
+dépens du 17 juin 1986 (aTAv, RSV 177.11.3, tarif abrogé par l'entrée en vigueur, le 1
+er
+janvier 2011, du tarif des dépens en matière civile du 23 novembre 2010 [TDC, RSV 270.11.6]
+et applicable en vertu de l'art. 26 al. 2 TDC),
+qu'en l'espèce l’intimée, qui s’est opposée à la requête incidente
+et l’emporte, a procédé avec le concours d'un avocat,
+qu'elle a ainsi droit à de pleins dépens,
+arrêtés à 900 fr., à la charge des requérantes, solidairement entre elles.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête incidente en récusation d’expert déposée le 10 novembre 2016 par
+les requérantes C.________, I.________ SA et V.________ est rejetée.
+II.
+Les frais de la procédure incidente, à la charge des requérantes, sont arrêtés
+à 900 fr. (neuf cent francs).
+III.
+Les requérantes, solidairement entre elles, verseront à l’intimée A.________ AG,
+le montant de 900 fr. (neuf cents francs) à titre de dépens de l’incident.
+Le
+juge instructeur :              Le greffier :
+E.
+Kaltenrieder              R. Petit
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils des parties et à l’expert.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+R. Petit
