@@ -1,0 +1,231 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2017___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2017 / 3"
+decided: "2017-01-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5943590"
+cites_law: ["switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/272/art-099.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/272/art-404.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-333.md"]
+---
+
+# VD Findinfo Jug-inc / 2017 / 3
+
+## Regeste
+
+SÛRETÉS | 99 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 30.01.2017 Jug-inc / 2017 / 3
+
+SÛRETÉS | 99 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+CO16.045949
+6/2017/PHC
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+F.________
+SA
+, à [...], d'avec
+O.________
+AG
+, à [...].
+___________________________________________________________________
+Du
+30 janvier 2017
+_______________
+Composition
+:               M.
+HACK, juge délégué
+Greffier
+:              M.
+Petit
+*****
+Statuant immédiatement à huis clos, le juge délégué considère :
+En fait et en droit :
+Vu le procès ouvert au fond par la demanderesse
+F.________ SA contre la défenderesse O.________ AG, selon demande du 17 octobre 2016, dont les conclusions
+sont les suivantes :
+"
+En
+la forme
+1.              Déclarer recevable
+la présente requête.
+Au
+fond
+2.              Condamner O.________
+AG à payer à F.________ SA la somme de CHF 1'324'567.- avec intérêts à 5 % l’an
+dès le 17 octobre 2016 ;
+3.              Autoriser F.________
+SA à amplifier ses conclusions en cours de procédure ;
+4.              Débouter O.________
+AG de toutes autres ou contraires conclusions."
+vu
+l’avis du 4 novembre 2016, par lequel le juge délégué a fixé à la défenderesse
+un délai au 9 décembre 2016 pour déposer la réponse,
+vu
+l’avis du 29 novembre 2016, par lequel le juge délégué a prolongé au 3 janvier
+2017 le délai pour déposer la réponse,
+vu
+la requête déposée par la défenderesse le 16 décembre 2016, tendant à ce
+que la demanderesse et intimée soit astreinte à fournir des sûretés en garantie du
+paiement des dépens à hauteur de 84’000 fr. au moins,
+vu
+l’avis du 20 décembre 2016, par lequel le juge délégué a annulé le délai
+de réponse,
+vu
+les déterminations du 22 décembre 2016 de l’intimée, qui a conclu au rejet des conclusions
+de la requête,
+vu
+les déterminations du 19 janvier 2017 de l’intimée, accompagnées de ses comptes
+annuels au 31 décembre 2016,
+vu
+les déterminations spontanées de la requérante, du 27 janvier 2017,
+vu
+les pièces au dossier,
+vu
+les art. 99 ss, 130 et 404 CPC (Code de procédure civile du 19 décembre 2008, RS 272);
+attendu
+que la présente procédure a été introduite après l’entrée en vigueur,
+le 1
+er
+janvier 2011, du CPC,
+qu’elle
+est par conséquent régie par le CPC (art. 404 al. 1 CPC);
+attendu
+que le défendeur qui veut contraindre le demandeur à fournir des sûretés doit déposer
+une requête conforme à l’art. 130 CPC (art. 99 CPC; Tappy, Code de procédure civile
+commenté, Bâle 2011, n. 11 ad art. 99 CPC),
+qu’une
+telle requête peut être déposée en tout temps (Tappy, op. cit., n. 13 ad art.
+99 CPC),
+qu’en
+l’espèce, la requête en fourniture de sûretés déposée par la requérante
+répond aux exigences de l’art. 130 CPC,
+qu’elle
+est donc recevable en la forme;
+attendu qu’aux termes de l’art. 99 al. 1 CPC, le demandeur doit, sur requête du défendeur,
+fournir des sûretés en garantie du paiement des dépens dans les cas suivants: il n’a
+pas de domicile ou de siège en Suisse (let. a); il paraît insolvable, notamment en raison d’une
+mise en faillite, d’une procédure concordataire en cours ou de la délivrance d’actes
+de défaut de biens (let. b); il est débiteur de frais d’une procédure antérieure
+(let. c); d’autres raisons font apparaître un risque considérable que les dépens
+ne soient pas versés (let. d);
+attendu que la requérante fonde en premier lieu sa requête sur l’art. 99 al. 1 let. b
+CPC,
+que selon la jurisprudence, il y a insolvabilité lorsque la partie concernée ne dispose pas
+des liquidités nécessaires pour faire face à ses dettes exigibles ni du crédit lui
+permettant de se procurer les moyens nécessaires (ATF 111 II 206 c. 1; CREC 27 novembre 2015/416,
+JdT 2016 III 49 c. 4.2),
+que, selon le texte légal, l’insolvabilité résulte notamment de l’existence
+d’une déclaration de faillite, d’une procédure concordataire en cours ou d’actes
+d’actes de défaut de biens délivrés contre elle,
+que, comme le démontre l’emploi du verbe "notamment", cette liste n’est pas
+exhaustive (Tappy, op. cit., nn. 29 et 39 ad art. 99 CPC; Suter/von Holzen, Kommentar zur Schweizerischen
+Zivilprozessordnung, Sutter-Somm/Hasenböhler/ Leuenberger Hrsg, 2
+e
+éd., 2013, n. 27 ad art. 99 CPC; Rüegg, Basler Kommentar, Schweizerische Zivilprozessordnung,
+2
+e
+éd., 2013, n. 12 ad art. 99 CPC; Sterchi, Berner Kommentar, 2012, n. 23 ad art. 99 CPC),
+qu’il suffit que l'insolvabilité soit vraisemblable, la vraisemblance pouvant s'appuyer sur
+des indices (Tappy, op. cit., n. 29 ad art. 99 CPC; Suter/von Holzen, op. cit., n. 29 ad art.
+99 CPC),
+que des indices d’insolvabilité peuvent résulter par exemple, selon les circonstances,
+d’une procédure de règlement amiable des dettes (art. 333 ss LP), d’un avis de
+surendettement (art. 725 al. 2 CO) ou d’une suspension de paiement (art. 190 al. 1 ch. 2 LP) (Tappy,
+op. cit., n. 29 ad art. 99 CPC);
+attendu qu’en l’espèce, il n’est pas allégué qu’il y aurait mise
+en faillite, procédure de sursis concordataire en cours, ou délivrance d’actes de défaut
+de biens,
+que la requérante allègue que l’intimée n’a qu’un seul client et qu’un
+seul employé (cf. all. 118 et 120 demanderesse) et qu’elle est dépourvue de la moindre
+valeur (cf. all. 122 demanderesse),
+que cela ne suffit à vrai dire pas à considérer que l’intimée serait insolvable,
+qu’il ressort des comptes annuels au 31 décembre 2015 de l’intimée (pièce
+10 demanderesse) que celle-ci aurait été surendettée à raison de 46'000 fr.,
+que la couverture du capital était suffisante en raison de la participation d’une créance
+de 130'000 fr. de l’actionnaire principal de l’intimée, Y.________ SA,
+qu’il figure dans les comptes au 31 décembre 2015 de l’intimée une provision de
+160'000 fr. qui constituait une réserve latente,
+que ces éléments ne suffisent pas, au vu des définitions de l’insolvabilité
+dégagées de la jurisprudence, pour qualifier l’intimée d’insolvable,
+qu’il ressort des comptes annuels au 31 décembre 2016 de l’intimée que la participation
+d’Y.________ SA a crû de 550'000 fr., pour s’élever à 640'000 fr.,
+que cet élément ne suffit toutefois pas davantage pour qualifier l’intimée d’insolvable,
+qu’il ressort en outre des comptes annuels au 31 décembre 2016 de l’intimée que
+celle-ci aurait dégagé un bénéfice de 209'267 fr., duquel il faut soustraire 167'036
+fr. de pertes reportées, ce qui conduit à un résultat positif de 42'231 fr. au bilan,
+qu’il n’est pour le surplus pas allégué que l’intimée serait en cessation
+de paiement, ni même qu’il y aurait une seule poursuite dirigée contre elle,
+qu’ainsi la requérante n’établit pas, fût-ce au degré de la vraisemblance,
+que l’intimée serait insolvable au sens de l’art. 99 al. 1 let. b CPC;
+attendu que la requérante fonde également sa requête l’art. 99 al. 1 let. d
+CPC,
+que par "d’autres raisons" au sens de cette disposition, il faut comprendre toute circonstance
+propre à accroître sensiblement le risque que les dépens restent impayés,
+que des indices de difficultés financières, insuffisants pour conclure à l’insolvabilité,
+peuvent parfois remplir les conditions de cette dernière disposition, par exemple si la partie se
+trouve en liquidation ou brade ses actifs (Tappy, op. cit., n. 39 ad art. 99 CPC; CREC 11 janvier
+2013/5, 14 juillet 2014/239, 2 septembre 2014/308),
+que si une entreprise a réduit considérablement son chiffre d’affaires, subit des pertes
+depuis plusieurs années, et ne verse pas les salaires, il n’est pas arbitraire de l’astreindre
+à des sûretés (CREC du 11 janvier 2013/5),
+qu’en revanche, le seul fait qu’une entreprise a subi des pertes pendant plusieurs années,
+et que son chiffre d’affaires a diminué, n’est pas suffisant pour l’astreindre
+à des sûretés, en particulier lorsque celle-ci continue à exercer une activité
+commerciale (CREC du 21 juin 2016/231);
+attendu qu’en l’espèce, il ressort des comptes annuels de l’intimée au 31
+décembre 2016 qu’il y a bien eu une perte en 2015,
+que ce n’est pas le cas en 2016, comme déjà mentionné,
+qu’il n’est au demeurant pas prétendu que l’intimée ne verserait pas les
+salaires,
+que, dans ces conditions, la requérante n’établit pas, fût-ce au degré de la
+vraisemblance, qu’il existe un risque considérable au sens de l’art. 99 al. 1 let. d
+CPC que l’intimée ne s’acquitte pas des dépens qui pourraient être mis à
+sa charge à l’issue du présent procès,
+qu’il ne se justifie donc pas d’astreindre l’intimée à fournir des sûretés,
+ce qui entraîne le rejet de la requête;
+attendu que les frais judiciaires du présent prononcé, arrêtés à 600 fr. (art.
+28 et 29 al. 3 TFJC [tarif des frais judiciaires civils du 28 septembre 2010 ; RSV 270.11.5] par
+renvoi de l’art. 51 TFJC), doivent être mis à la charge de la requérante, qui succombe
+(art. 106 al. 1 CPC),
+que l’intimée, qui obtient gain de cause, a droit à des dépens (art. 3, 6, 19, 20
+al. 2 TDC [tarif des dépens en matière civile du 23 novembre 2010; RSV 270.11.6]).
+Par
+ces motifs,
+le
+juge délégué,
+statuant
+à huis clos
+prononce
+:
+I.
+La requête en fourniture de sûretés déposée le 16 décembre 2016 par O.________
+AG est rejetée.
+II.
+Les frais judiciaires du présent prononcé, arrêtés à 600 fr. (six cents francs),
+sont mis à la charge de la requérante.
+III.
+La requérante versera à l’intimée
+F.________ SA le montant de 1’200 fr. (mille deux cents francs), à titre de dépens.
+Le
+juge instructeur :              Le greffier :
+P.
+Hack              R. Petit
+Du
+Le prononcé qui précède, lu et approuvé à huis clos, prend date de ce jour.
+Il est notifié, par l'envoi de photocopies, aux conseils des parties.
+Le présent prononcé peut faire l’objet d’un recours en matière civile devant
+le Tribunal fédéral au sens des art. 72 ss et 90 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral, RS 173.110), cas échéant d’un recours constitutionnel subsidiaire
+au sens des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
+R. Petit
