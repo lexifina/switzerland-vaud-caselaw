@@ -1,0 +1,255 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___89"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 89"
+decided: "2017-02-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5931977"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 89
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE COLLUSION, SOUPÇON | 221 al. 1 let. b CPP (CH), 222 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 01.02.2017 Décision / 2017 / 89
+
+DÉTENTION PROVISOIRE, RISQUE DE COLLUSION, SOUPÇON | 221 al. 1 let. b CPP (CH), 222 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+79
+PE17.000952-CMD
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+1er février 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+221 al. 1 let. b, 222, 393 al. 1 let. c CPP
+Statuant sur le recours interjeté le 27 janvier 2017 par
+P.________
+contre l’ordonnance de détention provisoire rendue le 20 janvier 2017 par le Tribunal des
+mesures de contrainte dans la cause
+n° PE17.000952-CMD
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le Ministère public de l’arrondissement de Lausanne a ouvert une instruction pénale à
+l’encontre de P.________ pour homicide, subsidiairement homicide par négligence, en raison
+des faits suivants.
+Le 16 janvier 2017 vers 17h45, le prévenu a contacté les services de santé après
+avoir constaté que son fils B.H.________, né le 3 février 2016, était inconscient
+et hypotonique, avec une salivation et des mouvements saccadés des quatre membres. Sur place, les
+ambulanciers ont constaté un arrêt cardio-respiratoire, débuté un massage cardiaque
+et pratiqué, après intubation, une ventilation assistée. L’enfant a été
+admis au Service des soins intensifs de pédiatrie du CHUV où les divers examens pratiqués
+ont révélé la présence d’hémorragies bilatérales des enveloppes du
+cerveau, dont l’âge pourrait être différent, ainsi que des hémorragies rétiniennes
+bilatérales étendues, dont l’âge pourrait être différent. Le 18 janvier
+2017, l’enfant a été placé sous neuroréanimation. En état de mort cérébrale,
+B.H.________ est décédé le 20 janvier 2017 peu avant 15h30.
+P.________ a été appréhendé le 17 janvier 2017.
+B.
+Par ordonnance du 20 janvier 2017, le Tribunal
+des mesures de contrainte a ordonné la détention provisoire de P.________ pour une durée
+maximale d’un mois, soit jusqu’au 17 février 2017 au plus tard.
+C.
+Par acte du 27 janvier 2017, P.________ a recouru auprès de la Chambre des recours pénale du
+Tribunal cantonal contre cette ordonnance en concluant, avec suite de frais et dépens, à sa
+libération immédiate.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) contre une
+décision du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 393 al. 1
+let. c CPP), par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans
+les formes prescrites (art. 385 al. 1 CPP), le recours de P.________ est recevable.
+2.
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c). En outre, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave (art. 221 al. 2 CPP). La détention provisoire et la détention pour des motifs
+de sûreté ne doivent pas durer plus longtemps que la peine privative de liberté prévisible
+(art. 212 al. 3 CPP).
+La mise en détention provisoire n’est
+possible que s’il existe à l’égard de l’auteur présumé, et préalablement
+à toute autre cause, de graves soupçons de culpabilité d’avoir commis un crime ou
+un délit (ATF 139 IV 186 consid. 2 ; Schmocker, in : Kuhn/Jeanneret [éd.], Commentaire
+romand, Code de procédure pénale suisse, Bâle 2011, nn. 7 ss ad art. 221 CPP).
+2.2
+En l’espèce, le recourant conteste les faits qui lui sont reprochés. Or, il ressort du
+rapport préliminaire du CAN (
+C
+hild
+A
+buse
+and
+N
+eglect)
+Team du Département femme-mère-enfant du CHUV du 18 janvier 2017 que l’enfant présentait
+des lésions d’origine traumatique caractéristiques du syndrome du bébé secoué
+et que l’intervention d’une tierce personne devait être retenue au vu de son âge
+et en l’absence de la notion d’un accident. Le médecin relève également que
+les hémorragies cérébrales et rétiniennes constatées laissaient penser que l’enfant
+avait pu être secoué à plusieurs reprises. Enfin, B.H.________ a été admis plusieurs
+fois à l’Hôpital de l’Enfance, notamment pour une fracture de l’humérus
+survenue probablement à mi-décembre 2016 mais pour laquelle les parents n’avaient consulté
+que le 1
+er
+janvier 2017 (P. 6). Selon les déclarations de A.H.________, mère de la victime, celle-ci
+s’occupe principalement seule du nourrisson mais reçoit de l’aide de P.________ (PV
+aud. du 17 janvier 2017, p. 3). Le jour précédent l’appel aux urgences, elle avait effectivement
+reçu la visite de son beau-frère [...], mais celui-ci n’était pas resté seul
+avec l’enfant (PV aud. du 18 janvier 2017, p. 4), contrairement au prévenu qui s’est
+occupé seul de B.H.________ le 16 janvier 2017 dès 14h00 lorsque A.H.________ a quitté
+le domicile familial.
+Au vu de ce qui précède, il apparaît que P.________ pourrait être à l’origine
+des lésions ayant causé la mort de son enfant. Il existe ainsi, à ce stade de l’enquête,
+une présomption suffisamment sérieuse de culpabilité à son encontre.
+3.
+3.1
+Le recourant conteste l’existence d’un risque de collusion (art. 221 al. 1 let. b CPP).
+3.2
+Le maintien en détention provisoire se justifie notamment lorsqu’il y a sérieusement
+lieu de craindre que le prévenu compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuve (art. 221 al. 1 let. b CPP).
+Ce motif de détention avant jugement, souvent appelé « risque de collusion »
+– expression trop étroite puisque les personnes sur lesquelles le prévenu pourrait exercer
+une influence pour empêcher ou compromettre la recherche de la vérité (par exemple par
+la menace, la séduction ou la mise en commun d’intérêts identiques) peuvent être
+non seulement des coaccusés ou des complices, mais aussi la partie plaignante, les témoins,
+les experts ou toute autre personne amenée à participer à la procédure –, vise
+à garantir la constatation exacte et complète des faits (Schmocker, op. cit., nn. 14 et 15
+ad art. 221 CPP ; cf. ATF 137 IV 122 consid. 6.2 et 6.4).
+3.3
+En l’espèce, l’enquête en étant à ces débuts, de nombreuses mesures
+d’investigation sont en cours afin d’établir le rôle joué par chacun des parents
+dans le décès de leur enfant. Le contenu des téléphones portables saisis doit être
+analysé, une perquisition au domicile familial doit être effectuée et de nombreuses auditions
+de l’entourage familial et géographique doivent encore être menées. Il ne fait aucun
+doute que le recourant est durement affecté par le décès de son fils. Toutefois, les constatations
+des médecins du CAN Team ne sont pas compatibles avec les déclarations de P.________ quant
+au déroulement des faits qui ont conduit au décès de B.H.________. A ce stade de l’enquête
+et au vu de l’état psychologique de P.________, il ne peut être exclu qu’en cas
+de libération, celui-ci tente d’entraver l’instruction en faisant disparaître des
+preuves et en prenant contact avec son amie A.H.________, dont la détention provisoire a pris fin
+le 20 janvier 2017, et les membres de sa famille. Il ne peut également être exclu qu’il
+interfère en sa faveur auprès de ses voisins quand bien même ceux-ci ne sont que des témoins
+indirects. En outre, le fait que les prévenus ont déjà été entendus à trois
+reprises n’y change rien. Le comportement de chacun des parents après un tel drame ne peut
+en effet être anticipé, ceux-ci pouvant essayer de surmonter cette épreuve en s’unissant
+et en se protégeant l’un l’autre. Le caractère familial du drame rend dès
+lors le risque de collusion concret.
+4.
+4.1
+Concernant le respect du principe de la proportionnalité,
+l’art. 212 al. 3 CPP prévoit que la détention provisoire ne doit pas durer plus longtemps
+que la peine privative de liberté prévisible. La proportionnalité de la détention
+provisoire doit être examinée au regard de l’ensemble des circonstances concrètes
+du cas d’espèce (ATF 133 I 168 consid. 4.1 et les arrêts cités). A cet égard,
+il est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle n’est
+pas très proche de la durée de la peine privative de liberté à laquelle il faut s’attendre
+concrètement en cas de condamnation (TF 1B_411/2011 du 31 août 2011 consid. 4.1; ATF 133 I
+168 consid. 4.1; ATF 132 I 21 consid. 4.1). Toutefois, le fait que la peine encourue puisse être
+assortie du sursis, total ou partiel, n'est pas déterminant sous l'angle de la proportionnalité
+(ATF 133 I 270 consid. 3.4.2).
+4.2
+En l’espèce, le recourant est détenu
+depuis le 17 janvier 2017, soit depuis deux semaines. Compte tenu de la gravité des faits qui lui
+sont reprochés, le recourant s'expose à une peine d’une durée supérieure à
+celle de la détention provisoire subie à ce jour. Le principe de la proportionnalité de
+la détention provisoire demeure dès lors respecté.
+5.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autres échanges d’écritures (art. 390 al. 2 CPP).
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 660 fr. (art. 20 al. 1 TFIP [tarif des frais judiciaires de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]) et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr., plus la TVA
+par 43 fr. 20, soit à 583 fr. 20 au total, seront mis à la charge de P.________, qui succombe
+(art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+se soit améliorée (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 20 janvier 2017 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de P.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt
+centimes).
+IV.
+Les frais d’arrêt, par 660 fr. (six cent soixante francs), ainsi que l’indemnité
+due au défenseur d’office de P.________, par 583 fr. 20 (cinq cent huitante-trois francs et
+vingt centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité
+allouée au chiffre III ci-dessus ne sera exigible que pour autant que la situation économique
+de P.________ se soit améliorée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Sarah Riat, avocate (pour P.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure du Ministère public de l’arrondissement de Lausanne,
+-
+Service de la population (P.________, [...]
+1985),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
