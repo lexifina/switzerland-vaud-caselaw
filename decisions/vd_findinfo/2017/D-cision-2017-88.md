@@ -1,0 +1,475 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___88"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 88"
+decided: "2017-02-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5932602"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 88
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE FUITE, RISQUE DE RÉCIDIVE | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 01.02.2017 Décision / 2017 / 88
+
+DÉTENTION PROVISOIRE, RISQUE DE FUITE, RISQUE DE RÉCIDIVE | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+78
+PE14.023436-PAE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+1er février 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Graa
+*****
+Art.
+221 al. 1 let. a et c CPP
+Statuant sur le recours interjeté le 27 janvier 2017 par
+A.E.________
+contre l’ordonnance de refus de libération de la détention provisoire rendue le 17 janvier
+2017 par le Tribunal des mesures de contrainte dans la cause
+n° PE14.023436-PAE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Entre le mois d'octobre 2011 et le mois de juin 2012, A.E.________ aurait cessé d'honorer ses engagements
+envers son employeur, la société
+F.________SA, à Aigle, pour laquelle il exerçait
+la fonction de
+Chief Business
+Development Officer
+depuis le 1
+er
+juillet 2011. Pour néanmoins continuer à percevoir son salaire ainsi que des primes et le remboursement
+de notes de frais, il aurait proféré divers mensonges, usurpé l'identité de tiers
+et se serait fait passer, lors de conversations téléphoniques, pour des clients fictifs. Dans
+ce cadre, A.E.________ aurait notamment établi de faux documents, datés respectivement du 26
+novembre 2011 et du mois de juin 2012, émanant de prétendus investisseurs.
+En raison des agissements du prévenu, F.________SA lui aurait versé son salaire ainsi que des
+primes pour un montant de 20'000 fr., lui aurait remboursé des notes de frais frauduleuses, aurait
+accepté diverses absences pour des motifs fallacieux et pris un certain nombre de décisions
+qui lui auraient été préjudiciables. Le préjudice total s'élèverait à
+151'755 fr. 90.
+b)
+En 2012 et 2013, A.E.________ aurait utilisé à son profit un montant d'au moins 177'725 fr.
+provenant des comptes bancaires de sa sœur O.________, qui faisait l'objet d'une mesure de curatelle
+de portée générale à la suite de divers problèmes psychiques. A.E.________ aurait
+à cette fin instrumentalisé leur père, B.E.________, qui détenait une procuration
+générale sur les comptes bancaires de sa fille, souffrait également de problèmes
+de santé et que l'âge et la faiblesse rendaient influençable.
+c)
+En 2012 et 2013, A.E.________ aurait utilisé abusivement la carte Visa de sa sœur O.________,
+notamment lors d'un séjour en Espagne, pour un montant indéterminé.
+d)
+En 2012, A.E.________, qui faisait alors l'objet d'une précédente procédure pénale
+(PE11.016298-OJO) pour abus de confiance et faux dans les titres, aurait confectionné et montré
+à son père, pour le convaincre de son innocence, des documents datés des 15 septembre
+et 12 octobre 2012, intitulés « Prononcé de non-lieu général » et
+« Levée d'instruction », prétendument signés par les magistrats [...] et [...].
+e)
+Le 11 septembre 2014, une instruction pénale a été ouverte contre A.E.________ par le
+Ministère public de l'arrondissement de l'Est vaudois, pour abus de confiance au préjudice
+de proches, escroquerie par métier, subsidiairement gestion déloyale qualifiée, escroquerie
+au préjudice de proches, utilisation frauduleuse d'un ordinateur au préjudice de proches et
+faux dans les titres.
+f)
+Le 9 septembre 2016, A.E.________ a été interpellé au terme des obsèques de son père,
+décédé quelques jours plus tôt, qui se sont tenues à [...].
+g)
+Par ordonnance du 12 septembre 2016, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire de A.E.________, fixant la durée maximale de la détention provisoire à un mois,
+soit au plus tard jusqu'au 9 octobre 2016.
+h)
+Le 5 octobre 2016, le Ministère public, invoquant l'existence d'un risque de fuite, dans la mesure
+où A.E.________ n'avait pas de domicile connu, ainsi que d'un risque de réitération, a
+sollicité la prolongation de la détention provisoire de A.E.________ pour une durée de
+trois mois.
+Par ordonnance du 12 octobre 2016, le Tribunal des mesures de contrainte a refusé d'accorder cette
+prolongation et a ordonné sa mise en liberté immédiate.
+Par arrêt du 25 octobre 2016 (n
+o
+704), la Chambre des recours pénale a réformé cette ordonnance en ce sens que la détention
+provisoire de A.E.________ était ordonnée pour une durée maximale de trois mois, soit
+jusqu’au 9 janvier 2017. Cette autorité a retenu l'existence d'un risque de fuite, dès
+lors que A.E.________ avait quitté la Suisse en été 2015 sans laisser d'adresse.
+i)
+Le 6 décembre 2016, A.E.________ a requis sa libération de la détention provisoire en
+soutenant que, sa femme et ses enfants étant désormais domiciliés en Suisse, le risque
+de le voir quitter le pays n'existait plus.
+Par ordonnance du 20 décembre 2016, le Tribunal des mesures de contrainte a rejeté cette demande
+de libération de la détention provisoire, en retenant l'existence d'un risque de fuite et de
+réitération.
+j)
+Par demande du 23 décembre 2016, le Ministère public, invoquant toujours l'existence d'un risque
+de fuite et de réitération, a sollicité la prolongation de la détention provisoire
+de A.E.________ pour une durée de trois mois.
+Par ordonnance du 3 janvier 2017, le Tribunal des mesures de contrainte, retenant la persistance d'un
+risque de fuite et de réitération, a prolongé la détention provisoire de A.E.________
+pour une durée maximale de trois mois, soit au plus tard jusqu'au 9 avril 2017.
+k)
+Par courrier daté du 22 décembre 2016 et posté le 27 décembre suivant, A.E.________
+a derechef requis sa mise en liberté immédiate.
+Par ordonnance du 5 janvier 2017, le Tribunal des mesures de contrainte a rejeté cette demande de
+libération de la détention provisoire, en retenant l'existence d'un risque de fuite et de réitération.
+B.
+a)
+Par courrier daté du 6 janvier 2017 et
+posté le lendemain, A.E.________ a requis sa mise en liberté immédiate.
+Dans ses déterminations du 10 janvier 2017, le Ministère public a conclu au rejet de cette
+demande.
+A.E.________ a répliqué le 13 janvier 2017.
+Le 17 janvier 2017, A.E.________ a été entendu par le Tribunal des mesures de contrainte, en
+présence de son défenseur d’office. Il a soutenu qu'il ne présentait aucun risque
+de fuite ni de réitération.
+b)
+Par ordonnance du 17 janvier 2017, le Tribunal
+des mesures de contrainte a rejeté la demande de libération de la détention provisoire
+de A.E.________ (I) et a dit que les frais de la décision, par 975 fr., suivaient le sort de la
+cause.
+Le juge de la détention a considéré que les diverses mises en cause dont A.E.________
+faisait l'objet permettaient de considérer comme vraisemblable la commission d'infractions, l'enquête
+n'ayant pas encore permis de déterminer l'ampleur de l'activité délictueuse reprochée
+au prévenu. Il a en outre retenu l'existence d'un risque de fuite, dès lors que A.E.________
+avait par le passé quitté la Suisse afin de s'installer en France, ainsi que d'un risque de
+réitération.
+C.
+Par acte du 27 janvier 2017, A.E.________ a interjeté recours contre l'ordonnance du 17 janvier
+précédent en concluant, avec suite de frais et dépens, à sa réforme en ce sens
+que sa demande de libération de la détention provisoire est admise et qu'il est libéré
+immédiatement.
+Il n'a pas été ordonné d'échange d'écritures.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. c CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable
+contre les décisions du Tribunal des mesures de contrainte dans les cas prévus par le code.
+L’art. 222 CPP, qui prévoit que le détenu peut attaquer devant l’autorité
+de recours les décisions ordonnant une mise en détention provisoire ou une mise en détention
+pour des motifs de sûreté, ou encore la prolongation ou le terme de la détention, autorise
+également le détenu, malgré une formulation peu claire, à attaquer devant l’autorité
+de recours une décision refusant la libération de la détention (CREP 12 février 2015/111 ;
+CREP 7 février 2011/14 et les références citées). Le recours doit être adressé
+par écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP) qui est, dans
+le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; RSV 312.01] ; art. 80 LOJV [loi
+d’organisation judiciaire du 12 décembre 1979 ; RSV 173.01]).
+Le présent recours a été interjeté en temps utile, devant l’autorité compétente
+et dans les formes prescrites (cf. art. 385 al. 1 CPP) par le détenu qui a qualité pour recourir
+(art. 382 CPP), de sorte qu’il est recevable.
+2.
+Le recourant soutient en premier lieu que les
+soupçons de culpabilité le concernant ne suffiraient plus à justifier son maintien en
+détention provisoire.
+2.1
+Selon l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs de
+sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d’avoir commis un crime ou un délit et qu’il y a sérieusement lieu de craindre
+qu’il se soustraie à la procédure pénale ou à la sanction prévisible en
+prenant la fuite (let. a), qu’il compromette la recherche de la vérité en exerçant
+une influence sur des personnes ou en altérant des moyens de preuve (let. b) ou qu’il compromette
+sérieusement la sécurité d’autrui par des crimes ou des délits graves après
+avoir déjà commis des infractions du même genre (let. c). En outre, la détention
+peut être ordonnée s’il y a sérieusement lieu de craindre qu’une personne
+passe à l’acte après avoir menacé de commettre un crime grave (art. 221 al. 2 CPP).
+La détention provisoire et la détention pour des motifs de sûreté ne doivent pas
+durer plus longtemps que la peine privative de liberté prévisible (art. 212 al. 3 CPP).
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (ATF 139 IV 186 consid. 2 ; Schmocker,
+in: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 7 ss ad art. 221 CPP). L'intensité des charges propres à motiver un maintien en détention
+provisoire n'est pas la même aux divers stades de l'instruction pénale. Si des soupçons,
+même encore peu précis, peuvent être suffisants dans les premiers temps de l'enquête,
+la perspective d'une condamnation doit apparaître vraisemblable après l'accomplissement des
+actes d'instruction envisageables (ATF 116 Ia 143 consid. 3c ; TF 1B_423/2010 du 17 janvier 2011
+consid. 4.1 ; Schmocker, op. cit., n. 8 ad art. 221 CPP ; Forster, in : Niggli/Heer/ Wiprächtiger
+[éd.], Basler Kommentar, Schweizerische Strafprozessordnung, 2
+e
+éd., Bâle 2014, n. 3 ad art. 221 CPP). Les autorités de recours appelées à se
+prononcer sur la légalité d'une décision de maintien en détention provisoire ou pour
+des motifs de sûreté ne doivent pas procéder à une pesée complète des éléments
+à charge et à décharge, ni apprécier la crédibilité des personnes qui mettent
+en cause le prévenu. Bien plutôt, elles doivent uniquement examiner s'il existe des indices
+sérieux de culpabilité justifiant une telle mesure (ATF 137 IV 122 consid. 3.2 ; ATF 124
+I 208 consid. 3 ; ATF 116 Ia 413 consid. 3c ; TF 1B_423/2010 du 17 janvier 2011 consid. 4.1 ;
+TF 1B_410/2010 du 23 décembre 2010 consid. 4.1 ; Forster, op. cit., n. 3 ad art. 221 CPP).
+2.2
+2.2.1
+En l'espèce, dans son arrêt du 25 octobre 2016, la Chambre des recours pénale a retenu
+qu'il existait, à l'encontre du prévenu, de sévères soupçons de culpabilité.
+Elle a considéré que ces soupçons se fondaient essentiellement sur le rapport d'investigation
+établi par la Police cantonale le 22 mars 2016, à la suite notamment des auditions d'B.E.________,
+de O.________ et du curateur de celle-ci, qui avaient décrit de manière précise les agissements
+reprochés au prévenu. Quant à J.________, administrateur de F.________SA, ancien employeur
+de A.E.________, qui n'a pas de lien familial avec les précités, il avait exposé de manière
+circonstanciée le mode de procéder du prévenu lors de son audition du 7 avril 2016. Les
+déclarations détaillées des différents lésés constituaient ainsi des indices
+concrets de l'implication du prévenu dans les importants détournements de fonds qui lui sont
+reprochés. La Chambre des recours pénale a en outre relevé que les dénégations
+de A.E.________, qui se fondaient sur de prétendus arrangements familiaux et de supposées compensations,
+étaient peu étayées et ne ressortaient pas du dossier en l'état, le prévenu
+ayant en revanche admis avoir confectionné trois faux actes judiciaires. Enfin, elle a tenu compte
+des antécédents pénaux du prévenu, en particulier de sa condamnation du 2 septembre
+2013 par le Tribunal correctionnel de l'Est vaudois, pour abus de confiance et faux dans les titres.
+Il convient donc d'examiner si de nouveaux éléments seraient propres à modifier l'appréciation
+des soupçons de culpabilité faite par la Chambre des recours pénale dans son arrêt
+du 25 octobre 2016.
+2.2.2
+Concernant l'utilisation sans droit de la carte de crédit de sa sœur, le recourant soutient
+que celle-ci aurait admis que cet usage avait servi à payer un billet d'avion avec son accord. Il
+reproche en outre au Ministère public de n'avoir mené aucune investigation sur ce point depuis
+le mois d'octobre 2016.
+Auditionnée par la police le 27 octobre 2016, O.________ a notamment indiqué que son frère
+l'avait, en août 2013, invitée à passer des vacances en Espagne. A ce propos, elle a expliqué
+ce qui suit : « Il m'a dit qu'il me prenait mon billet d'avion et que je le rembourserais
+sur place, ce que j'ai fait en cash. […] Par la suite, lorsque j'ai reçu le décompte
+de ma carte VISA, j'ai constaté des dépenses que je n'avais pas effectuées, notamment
+à [...] ainsi que l'achat de mon billet d'avion, soi-disant payé par mon frère »
+(PV aud. du 27 octobre 2016, p. 4). O.________ a également déclaré avoir fait part à
+son curateur de ses soupçons relatifs à une utilisation abusive de sa carte de crédit,
+mais que l'Office des curatelles et tutelles professionnelles n'aurait entrepris aucune démarche
+à cet égard. L'intéressée a enfin accusé son frère d'avoir abusé leur
+père et de s'être fait passer auprès d'elle, par le biais d'appels téléphoniques
+répétés, pour d'autres personnes.
+Ainsi, loin d'avoir disculpé A.E.________ concernant l'utilisation abusive de sa carte de crédit,
+O.________ a, lors de l'audition du 27 octobre 2016, confirmé avoir constaté que des sommes
+avaient été prélevées sur son compte depuis l'Espagne sans qu'elle en eût alors
+connaissance. Elle a en outre indiqué que son frère, tout en prétendant lui avancer le
+financement d'un billet d'avion, aurait débité le montant correspondant grâce à sa
+carte de crédit, avant d'en obtenir le prix en liquide auprès de sa sœur. Les soupçons
+pesant sur le prévenu à cet égard se trouvent ainsi renforcés par ces déclarations.
+2.2.3
+S'agissant des montants prélevés sur des comptes bancaires de sa sœur grâce à
+la procuration générale que détenait B.E.________ à l'époque des faits, le recourant
+soutient en substance qu'il s'agissait de prêts accordés par son père, lequel aurait alors
+été en pleine possession de ses moyens.
+Il convient à cet égard de relever que les explications et démonstrations du prévenu,
+qui font appel à de nombreuses pièces et reposent sur l'interprétation de certains éléments
+du dossier, n'ont pas à être examinées dans le détail par le Tribunal des mesures
+de contrainte ni par l'autorité de recours. La Cour de céans doit ainsi se contenter de chercher
+s'il existe des indices sérieux de culpabilité à l'encontre de A.E.________. A cet égard,
+force est de constater que les indices de culpabilité détaillés dans le rapport de police
+du 22 mars 2016, de même notamment que la mise en cause du prévenu par B.E.________, n'ont
+pas été affaiblis par les explications de A.E.________, qui évoluent constamment en fonction
+des questions soulevées par le Ministère public. Au regard de ces divers éléments,
+les soupçons pesant sur le prévenu restent très concrets.
+Concernant les informations mises à jour par l'instruction au cours des derniers mois, il apparaît
+que, à l'exception de quelques précisions concernant les montants soustraits à O.________
+et qui s'expliquent par le fait que la police avait procédé à des estimations générales
+au début de l'enquête, les auditions auxquelles le Ministère public a procédé
+postérieurement à l'arrêt du 25 octobre 2016 n'ont pas affaibli les soupçons pesant
+sur le prévenu. En effet, le témoin K.________ n'a pas été en mesure de confirmer
+ni d'infirmer la thèse soutenue par le prévenu. Il a simplement déclaré que, de son
+point de vue, B.E.________ était en pleine possession de ses moyens lorsqu'il a souhaité procéder
+à un retrait de 85'000 fr. sur le compte bancaire de sa fille O.________. De telles déclarations,
+qui ne concernent qu'une partie des prélèvements litigieux et émanent du banquier d'B.E.________,
+ne sauraient être considérées comme déterminantes s'agissant de l'état de santé
+psychique de l'intéressé ou des manipulations et pressions dont il aurait pu être victime.
+On relèvera enfin que, contrairement à ce que prétend le recourant, le fait que son père
+l'aurait déshérité peu avant son décès ne le disculpe nullement, mais tend à
+renforcer les soupçons qui pèsent sur lui relativement à son attitude à l'égard
+de son père.
+Il existe ainsi toujours de sérieuses raisons de soupçonner A.E.________ d'avoir instrumentalisé
+son père afin de détourner, à son profit, d'importantes sommes appartenant à O.________.
+2.2.4
+Pour ce qui concerne ses agissements à l'égard de son ancien employeur, le recourant met en
+cause la crédibilité du témoignage de J.________ et fait grief au Ministère public
+de ne pas avoir donné suite à ses réquisitions de preuves.
+S'agissant des mesures d'investigation, le Ministère public a indiqué qu'il restait dans l'attente
+du rapport final de la police, qui devrait être rendu prochainement. Si le Tribunal des mesures
+de contrainte a reconnu que l'ampleur de l'activité délictueuse du prévenu restait à
+préciser et que certaines investigations devraient être conduites concernant la situation financière
+de l'entreprise F.________SA à l'époque des faits, les indices de culpabilité ressortant
+du dossier restent sérieux. Les explications de A.E.________, selon lesquelles il aurait été
+contraint par son employeur de signer une reconnaissance de dette visant à masquer artificiellement
+la situation financière alarmante de la société, ne sont en effet corroborées par
+aucun élément au dossier. On relèvera à cet égard que le recourant, face aux
+accusations portées à son encontre par F.________SA, comme face à celles émanant
+d'B.E.________ ou de O.________, cherche invariablement à mettre en cause l'honnêteté
+des plaignants et à se présenter comme la victime de machinations. Pour l'heure, force est
+de constater que des indices sérieux de culpabilité existent à l'encontre du recourant
+s'agissant des faits dénoncés par son ancien employeur.
+Il découle de ce qui précède que l'instruction n'a pas, depuis l'arrêt du 25 octobre
+2016, dissipé les graves soupçons de culpabilité pesant sur le recourant. Ceux-ci subsistent
+au contraire à l'heure actuelle, plusieurs infractions paraissant avoir été commises par
+A.E.________. Ces indices restent ainsi suffisants pour justifier la détention provisoire du prévenu.
+3.
+Le recourant conteste l'existence d'un risque de fuite. Il soutient à cet égard que, ses filles
+étant désormais scolarisées en Suisse, il n'a plus de raison de quitter le territoire
+de la Confédération.
+3.1
+Selon la jurisprudence, le risque de fuite (art. 221 al. 1 let. a CPP) doit s'analyser en fonction d'un
+ensemble de critères tels que le caractère de l'intéressé, sa moralité, ses
+ressources, ses liens avec l'Etat qui le poursuit ainsi que ses contacts à l'étranger, qui
+font apparaître le risque de fuite non seulement possible, mais également probable (ATF 138
+IV 81 consid. 3.1 non publié). La gravité de l'infraction ne peut pas, à elle seule, justifier
+la prolongation de la détention, même si elle permet souvent de présumer un danger de
+fuite en raison de l'importance de la peine dont le prévenu est menacé (ATF 138 IV 81 précité ;
+TF 1B_145/2012 du 19 avril 2012 consid. 3.1 et les références citées).
+3.2
+En l'espèce, on retiendra que le recourant vivait en France avant d'être interpellé le
+9 septembre 2016 suite aux obsèques de son père tenues à [...]. Son épouse et ses
+deux filles mineures ne se sont installées à Montreux, depuis quelques mois, que pour vivre
+à proximité de A.E.________ après son placement en détention. En cas de mise en liberté,
+rien n'empêcherait le prévenu de quitter à nouveau la Suisse accompagné de sa famille.
+Celui-ci n'a en effet aucune attache significative avec le pays, hormis la récente scolarisation
+de ses filles dans la région montreusienne. A.E.________, comme son épouse, n'a en particulier
+pas de travail en Suisse. En cas de libération, il est ainsi probable que le recourant cherchera
+à se soustraire à la procédure en cours, eu égard à l'importante peine à
+laquelle il s'expose.
+Ainsi, le risque de fuite présenté par le prévenu justifie son maintien en détention
+provisoire.
+4.
+Les conditions de l’art. 221 al. 1 CPP étant alternatives (TF 1B_249/2011 du 7 juin 2011 consid.
+2.4), l’existence d’un risque de fuite dispense la Cour de céans d’examiner si
+la détention provisoire s’impose également en raison d’un autre motif.
+Par surabondance et à l'instar du Tribunal des mesures de contrainte, la Cour de céans examinera
+cependant également l'existence d'un risque de réitération.
+4.1
+Selon l'art. 221 al. 1 let. c CPP, la détention provisoire peut être ordonnée lorsqu'il
+y a sérieusement lieu de craindre que le prévenu compromette sérieusement la sécurité
+d'autrui par des crimes ou des délits graves après avoir déjà commis des infractions
+du même genre.
+Selon la jurisprudence, il convient de faire preuve de retenue dans l'appréciation du risque de
+récidive : le maintien en détention ne peut se justifier pour ce motif que si le pronostic
+est défavorable et si les délits dont l'autorité redoute la réitération sont
+graves (ATF 135 I 71 consid. 2.3 ; TF 1B_373/2016 du 23 novembre 2016 consid. 2.2 et 2.3, destiné
+à la publication), à savoir en présence de crimes et délits graves et d'un danger
+sérieux et concret pour les victimes potentielles (ATF 137 IV 13 consid. 4.5). Bien qu'une application
+littérale de l'art. 221 al. 1 let. c CPP suppose l'existence d'antécédents, le risque
+de réitération peut être également admis dans des cas particuliers alors qu'il n'existe
+qu'un antécédent, voire aucun dans les cas les plus graves. La prévention du risque de
+récidive doit en effet permettre de faire prévaloir l'intérêt à la sécurité
+publique sur la liberté personnelle du prévenu (ATF 137 IV 13 consid. 3 et 4 ; TF 1B_373/2016
+du 23 novembre 2016 consid. 2.3.1, destiné à la publication). Le risque de récidive peut
+également se fonder sur les infractions faisant l'objet de la procédure pénale en cours,
+si le prévenu est fortement soupçonné – avec une probabilité confinant à
+la certitude – de les avoir commises (ATF 137 IV 84 consid. 3.2 et les références citées,
+JdT 2011 IV 325 ; TF 1B_373/2016 du 23 novembre 2016, destiné à la publication).
+4.2
+En l'espèce, le recourant présente des antécédents pénaux récents, puisqu'il
+a été condamné le 2 septembre 2013 par le Tribunal correctionnel de l'Est vaudois, pour
+abus de confiance et faux dans les titres. Il fait actuellement l'objet d'une instruction, pour des faits
+de même nature, ouverte ensuite de mises en cause émanant de plusieurs personnes. Les actes
+qui lui sont reprochés sont par ailleurs multiples et auraient été commis durant plusieurs
+années. En outre, si certains aspects des accusations portées à son encontre doivent encore
+être éclaircis par l'enquête, le prévenu a d'ores et déjà admis avoir créé
+de faux documents afin d'abuser son père (PV aud. du 10 septembre 2016, ll. 100 ss). Vu sa situation
+financière précaire et sa propension à la manipulation, il y a ainsi sérieusement
+lieu de craindre que le prévenu tente derechef, en cas de remise en liberté, de s'enrichir
+illicitement au détriment d'autrui. La Cour de céans ne peut en définitive que formuler
+un pronostic défavorable à cet égard. Le fait que le prévenu n'aurait commis aucune
+infraction entre l'époque des actes qui lui sont reprochés et son arrestation n’est pas
+déterminant et ne modifie en rien cette appréciation.
+En conséquence, le risque de réitération que présente A.E.________ justifie également
+son maintien en détention provisoire.
+5.
+Le recourant ne propose aucune mesure de substitution. On ne voit pas, au demeurant, quelle mesure permettrait
+de parer aux risques de réitération et de fuite à l'étranger.
+6.
+Il y a encore lieu d'examiner la licéité de la détention sous l'angle du respect du principe
+de la proportionnalité.
+6.1
+La proportionnalité de la détention provisoire doit être examinée au regard de l’ensemble
+des circonstances concrètes du cas d’espèce (ATF 133 I 168 consid. 4.1 et les arrêts
+cités). A cet égard, il est admis que le juge peut maintenir la détention provisoire aussi
+longtemps qu’elle n’est pas très proche de la durée de la peine privative de liberté
+à laquelle il faut s’attendre concrètement en cas de condamnation (TF 1B_411/2011 du
+31 août 2011 consid. 4.1 ; ATF 133 I 168 consid. 4.1 ; ATF 132 I 21 consid. 4.1). Toutefois,
+le fait que la peine encourue puisse être assortie du sursis, total ou partiel, n'est pas déterminant
+sous l'angle de la proportionnalité (ATF 133 I 270 consid. 3.4.2).
+6.2
+En l'espèce, la durée de la détention provisoire, qui atteint presque cinq mois, demeure
+proportionnée à la peine encourue par le recourant en cas de condamnation. En effet, au vu
+des antécédents pénaux du prévenu et de la gravité des infractions envisagées,
+celle-ci demeure largement inférieure à la durée de la peine privative de liberté
+qui pourrait lui être infligée.
+7.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autre échange d’écritures (art. 390 al. 2 CPP).
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d’arrêt (art. 422 al. 1 CPP), par 1'540 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), et des frais
+imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à
+540 fr., plus la TVA par 43 fr. 20, soit à 583 fr. 20 au total, seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l'Etat de l'indemnité allouée au défenseur d'office de A.E.________
+ne sera toutefois exigible que pour autant que la situation économique de ce dernier se soit améliorée
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 17 janvier 2017 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de A.E.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt
+centimes).
+IV.
+Les frais d’arrêt, par 1'540 fr. (mille cinq cent quarante francs), ainsi que l’indemnité
+due au défenseur d’office de A.E.________, par 583 fr. 20 (cinq cent huitante-trois francs
+et vingt centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique de A.E.________ se soit améliorée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Patrick Sutter (pour A.E.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+M. le Procureur de l'arrondissement de l'Est vaudois,
+-
+Prison de la Croisée,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
