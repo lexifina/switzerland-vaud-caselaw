@@ -1,0 +1,343 @@
+---
+decision_id: "vd_findinfo_D_cision___2017___93"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2017 / 93"
+decided: "2017-02-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5935665"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2017 / 93
+
+## Regeste
+
+DÉTENTION PROVISOIRE, RISQUE DE COLLUSION | 221 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.02.2017 Décision / 2017 / 93
+
+DÉTENTION PROVISOIRE, RISQUE DE COLLUSION | 221 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+84
+PE16.025459-LAL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+3 février 2017
+__________________
+Composition :
+M.
+Maillard
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+221 al. 1 let. b CPP
+Statuant sur le recours interjeté le 27 janvier 2017 par
+X.________
+contre l'ordonnance rendue le 24 janvier 2017 par le Tribunal des mesures de contrainte dans la cause
+n
+o
+PE16.025459-LAL
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Au moment des faits litigieux, X.________, né le [...] 1995, de nationalité [...], célibataire,
+effectuait un stage auprès de la garderie R.________, à Lausanne. Son casier judiciaire suisse
+est vierge.
+Le lundi 12, le mardi 13 ou le mercredi 14 décembre 2016, au retour de la crèche, l'enfant
+A.F.________, née le [...] 2011, aurait spontanément déclaré à son père :
+« papa, X.________ m'a léché le zizi ». Le père lui aurait demandé
+si elle en était sûre et l'enfant lui aurait répondu « oui ». Ne sachant
+pas s'il devait prendre cette déclaration au sérieux, le père n'aurait plus évoqué
+le sujet, mais en aurait fait part le soir à son épouse. Le dimanche 18 décembre 2016,
+A.F.________ aurait fait les mêmes déclarations directement à sa mère. Elle les aurait
+ensuite confirmées devant ses deux parents. La mère aurait alors demandé à B.F.________,
+sœur jumelle de A.F.________, si elle avait vu quelque chose. B.F.________ aurait déclaré
+qu'alors qu'elle était en train d'aller aux toilettes, elle avait vu X.________ qui léchait
+les fesses de sa sœur dans la salle de dînette, sur un coussin doux. Le père en a parlé
+le lundi 19 décembre 2016 à la directrice de la crèche, qui a suspendu X.________
+le jour même. Les jumelles ont réintégré la structure d'accueil le mardi 20 décembre
+2016 et, lorsque la mère est allée chercher ses filles, A.F.________ lui aurait déclaré :
+« maman c'est bien car X.________ n'est pas là aujourd'hui ».
+Au cours de son audition par la police le 23 décembre 2016, l'enfant A.F.________ a dit que X.________
+lui aurait « léché le zizi ». Elle a précisé que X.________ lui
+aurait dit : « couche-toi pour lécher le zizi », qu'il lui aurait baissé
+un petit peu son pantalon, qu'il se serait positionné à quatre pattes devant elle tandis qu'elle
+était couchée et qu'il aurait sorti sa langue. Elle a ajouté que X.________ lui aurait
+également dit : « touche mon zizi à moi », qu'il l'aurait forcée
+à le faire à cinq reprises, qu'elle ne voulait pas, mais que finalement elle l'aurait fait
+à deux reprises et qu'elle aurait senti la forme de son zizi. Après les faits, qui se seraient
+déroulés à une seule occasion, l'enfant A.F.________ se serait rendue aux toilettes pour
+s'essuyer l'entrejambe avec du papier.
+X.________ a été arrêté le 24 décembre 2016 à 7h25. Au cours de son audition
+du même jour par la police, il a contesté les accusations portées à son encontre.
+Il a spontanément expliqué que, lors d'un précédent stage effectué de mars 2015
+à juin/juillet 2016 au sein de la garderie S.________, il avait déjà été accusé
+par une collègue d'avoir embrassé un enfant, tout en contestant la véracité de ces
+accusations.
+Au cours de la perquisition effectuée au domicile de X.________, la police a découvert un sac
+rempli de lingerie féminine. L'intéressé a déclaré qu'il s'agissait de trophées
+lui rappelant ses meilleurs rapports sexuels. Interrogé quant au fait que quatre culottes semblaient
+appartenir à des enfants ou à des adolescents, il a expliqué que ces pièces appartenaient
+à une fille de plus de vingt ans dont il ne se souvenait plus du nom.
+b)
+Une instruction pénale a été ouverte contre X.________ pour actes d'ordre sexuel avec
+des enfants, au préjudice de l'enfant A.F.________, éventuellement de l'enfant B.F.________.
+Au cours de son audition par le Procureur, le prévenu a nié les faits reprochés. Le Ministère
+public de l'arrondissement de Lausanne a requis auprès du Tribunal des mesures de contrainte la
+mise en détention provisoire de l'intéressé pour une durée d'un mois, en invoquant
+des risques de fuite et de collusion.
+c)
+Par ordonnance du 26 décembre 2016, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire de X.________ pour une durée d'un mois, soit au plus tard jusqu'au 24 janvier 2017, au
+motif qu'il existait des indices de culpabilité suffisants contre lui, ainsi qu'un risque de collusion.
+d)
+T1.________, co-directrice de la garderie S.________, a été entendue le 11 janvier 2017. Elle
+a déclaré qu'elle n'avait pas directement travaillé avec le prévenu, que l'employée
+T3.________ lui avait rapporté qu'il caressait la joue des enfants pour qu'ils s'endorment, alors
+qu'il n'était pas censé agir ainsi, que l'employée [...] lui avait rapporté qu'il
+s'était une fois couché à côté d'un enfant pour l'endormir, qu'on ne lui avait
+jamais rapporté qu'il aurait embrassé un enfant, mais que c'était probablement la co-directrice
+T4.________ qui avait entendu le prévenu à ce sujet.
+T2.________, directrice de la garderie R.________, a été entendue le 11 janvier 2017. Elle
+a déclaré le prévenu prenait les enfants sur ses genoux de sa propre initiative et les
+serrait bien contre lui pour faire un câlin, qu'il avait un peu de mal à entendre qu'il ne
+fallait pas agir ainsi, que les jumelles A.F.________ et B.F.________ étaient souvent dans ses bras,
+que l'éducatrice remplaçante T5.________, ne sachant pas qu'il était interdit de mettre
+les écoliers à la sieste, avait autorisé le prévenu à mettre les jumelles à
+la sieste et qu'il avait agi ainsi tous les mercredis d'octobre et novembre 2016, en restant le temps
+de la sieste avec elles, la porte fermée. Le témoin a ajouté que le prévenu lui avait
+dit qu'il faisait aussi du baby-sitting.
+B.
+a)
+Le 19 janvier 2017, le Ministère public
+de l'arrondissement de Lausanne a requis la prolongation de la détention provisoire de X.________
+pour une durée d'un mois.
+La Procureure a exposé que la police avait prévu d'auditionner T4.________, T5.________, ainsi
+que les collègues du prévenu qui avaient pu observer son comportement parfois déplacé,
+selon ce que les deux directrices avaient déclaré au cours de leur audition. La police devait
+aussi éclaircir le nouvel élément selon lequel le prévenu aurait aussi fait du baby-sitting.
+La Procureure a en outre mentionné que l'exploitation du matériel informatique saisi au domicile
+du prévenu s'était révélée plus compliquée qu'il paraissait, dès lors
+que les appareils étaient bloqués par des codes d'accès et que le code d'accès du
+deuxième téléphone n'avait pu être trouvé que le 18 janvier 2017 lors d'une
+nouvelle perquisition. Elle a précisé qu'une recherche sommaire avait déjà permis
+de tracer des liens avec des sites scatologiques et urologiques. Il y avait donc lieu d'empêcher
+le prévenu d'effacer les éléments de preuve sur les réseaux sociaux et/ou sur les
+serveurs de stockage externes et de clarifier le contenu des appareils concernés avant une éventuelle
+mise en liberté. La Procureure a ajouté qu'il existait un risque de fuite, dès lors que
+le prévenu n'avait aucune attache familiale ou affective en Suisse, que les faits reprochés
+étaient graves et que certains éléments recueillis contredisaient ses déclarations.
+Dans ses déterminations du 23 janvier 2017, X.________ a fait valoir que les risques de fuite et
+de collusion étaient abstraits et a conclu au rejet de la demande de prolongation de détention.
+b)
+T4.________ et T5.________ ont été entendues le 25 janvier 2017.
+c)
+Par ordonnance du 24 janvier 2017, le Tribunal
+des mesures de contrainte a ordonné la prolongation de la détention provisoire de X.________
+(I), a fixé la durée maximale de la prolongation à un mois, soit au plus tard jusqu'au
+24 février 2017 (II), et a dit que les frais, par 150 fr., suivaient le sort de la cause (III).
+Le Tribunal a retenu, à l'instar de la Procureure, que l'audition de deux témoins avait mis
+à jour des contradictions, sur certains points, avec les déclarations du prévenu s'agissant
+de ses relations avec les victimes, que le risque de collusion était concret et qu'une prolongation
+de détention provisoire d'un mois paraissait nécessaire pour déterminer l'ampleur de l'activité
+délictueuse de l'intéressé.
+C.
+Par acte du 27 janvier 2017, X.________ a recouru contre cette ordonnance, en concluant, sous suite de
+frais et dépens, principalement à sa réforme en ce sens que son élargissement soit
+immédiatement ordonné, subsidiairement à son annulation, le dossier étant renvoyé
+au Tribunal des mesures de contrainte afin qu'il statue dans le sens des considérants à intervenir.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) contre une
+décision du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 393 al. 1
+let. c CPP), par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans
+les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant soutient qu'aucun des éléments
+soumis par la Procureure au Tribunal des mesures des contraintes ne démontrerait qu'il peut sérieusement
+et concrètement mettre en danger un quelconque acte de procédure à intervenir, si bien
+que la prolongation de sa détention provisoire n'aurait dû être ordonnée que jusqu'au
+25 janvier 2017, dates des auditions de T4.________ et de T5.________.
+2.2
+Aux termes de l’art. 221 al. 1 CPP, la détention provisoire et la détention pour des
+motifs de sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement
+soupçonné d’avoir commis un crime ou un délit et qu’il y a sérieusement
+lieu de craindre qu’il se soustraie à la procédure pénale ou à la sanction
+prévisible en prenant la fuite (let. a), qu’il compromette la recherche de la vérité
+en exerçant une influence sur des personnes ou en altérant des moyens de preuve (let. b) ou
+qu’il compromette sérieusement la sécurité d’autrui par des crimes ou des
+délits graves après avoir déjà commis des infractions du même genre (let. c).
+Selon l'art. 212 al. 3 CPP, la détention provisoire et la détention pour des motifs de sûreté
+ne doivent pas durer plus longtemps que la peine privative de liberté prévisible.
+Le maintien en détention provisoire peut être justifié par l’intérêt public
+lié aux besoins de l’instruction en cours, par exemple lorsqu’il est à craindre
+que l’intéressé ne mette sa liberté à profit pour faire disparaître ou
+altérer les preuves, ou qu’il prenne contact avec des témoins ou d’autres prévenus
+pour tenter d’influencer leurs déclarations. Ce motif de détention avant jugement vise
+ainsi à garantir la constatation exacte et complète des faits ; il concerne toutes les
+personnes sur lesquelles le prévenu pourrait exercer une influence pour empêcher ou compromettre
+la recherche de la vérité (par exemple par la menace, la séduction ou la mise en commun
+d’intérêts identiques), soit non seulement des coaccusés ou des complices, mais
+aussi la partie plaignante, les témoins, les experts ou toute autre personne amenée à
+participer à la procédure (Schmocker, Commentaire romand, Code de procédure pénale
+suisse, Bâle 2011, nn. 14 et 15 ad art. 221 CPP ; cf. ATF 137 IV 122 consid. 6.2 et 6.4). Selon
+la jurisprudence, on ne saurait toutefois se contenter d’un risque de collusion abstrait, car ce
+risque est inhérent à toute procédure pénale en cours et doit, pour permettre à
+lui seul le maintien en détention provisoire, présenter une certaine vraisemblance. L’autorité
+doit démontrer que les circonstances particulières de l’espèce font apparaître
+un danger concret et sérieux de telles manœuvres, propres à entraver la manifestation
+de la vérité, en indiquant, au moins dans les grandes lignes et sous réserve des opérations
+à conserver secrètes, quels actes d’instruction elle doit encore effectuer et en quoi
+la libération du prévenu en compromettrait l’accomplissement (ATF 132 I 21 consid. 3.2 ;
+TF 1B_79/2012 du 22 février 2012 consid. 5.1 ; TF 1B_55/2010 du 11 mars 2010 consid. 3.1 et
+les réf. citées).
+2.3
+En l’espèce, la co-directrice de la garderie S.________, T4.________, et l'éducatrice
+remplaçante de la garderie R.________, T5.________, ont été entendues le 25 janvier 2017,
+comme la Procureure a déclaré qu'elle avait l'intention de le faire dans sa requête de
+prolongation de détention provisoire du 19 janvier 2017. Le recourant omet toutefois de relever
+que la Procureure voulait également auditionner les employés dont le nom ressortait des auditions
+du 11 janvier 2017 des deux directrices et qui avaient pu observer un comportement parfois déplacé
+du prévenu envers les enfants. Il existe donc bel et bien un risque de collusion à cet égard.
+Le fait que tous les employés de la garderie R.________ auraient été « briefés »
+par la directrice ou le fait que le recourant aurait eu l’occasion de prendre contact avec les
+témoins potentiels de l'affaire entre la date de la connaissance des faits reprochés (19 décembre)
+et la date de son arrestation (24 décembre) ne supprime nullement ce risque de collusion.
+En outre, dès lors que les appareils téléphoniques et informatiques du prévenu étaient
+bloqués par des codes d’accès et que ce n’est que le 18 janvier 2017 que le
+code d’accès du second téléphone a pu être trouvé lors d’une nouvelle
+perquisition, il y a lieu d'accorder encore un peu de temps à la police pour qu'elle achève
+l'examen du contenu des appareils, étant précisé qu’une première recherche
+sommaire a déjà donné des résultats et qu’il est essentiel d’empêcher
+le prévenu d'avoir un accès à Internet afin d’éviter qu’il puisse effacer
+les éléments de preuve qui s'y trouveraient. Les arguments du recourant selon lesquels il ne
+dispose plus de son matériel informatique et que, n'étant pas doué dans ce domaine, il
+ne pourrait pas intervenir de manière significative sur les réseaux sociaux qu'il aurait fréquentés,
+n'y changent rien. Celui-ci peut en effet facilement accéder à Internet chez des amis ou dans
+un café Internet pour faire disparaître les éléments de preuve compromettants.
+Enfin, la Procureure a indiqué que la police devait aussi investiguer sur les heures de baby-sitting
+que le prévenu affirme avoir effectuées.
+Il résulte de ce qui précède que l'ordonnance attaquée échappe à toute
+critique en tant qu’elle retient un risque de collusion concret.
+3.
+Dans la mesure où la détention provisoire est justifiée par le risque de collusion, c'est
+à juste titre que le premier juge n'a pas estimé nécessaire d'examiner le risque de fuite,
+condition alternative de l'art. 221 CPP (Moreillon/Parein-Reymond, Code de procédure pénale,
+2
+e
+éd., Bâle 2016, n. 7 ad art. 221 CPP et la réf. citée). Les griefs du recourant à
+ce sujet sont donc vains.
+4.
+4.1
+Le recourant soutient que le Tribunal des mesures de contrainte n'aurait pas examiné les arguments
+avancés dans ses déterminations du 23 janvier 2017 et que l'ordonnance attaquée présenterait
+ainsi un défaut de motivation qui contreviendrait au droit d'être entendu de l'art. 29 Cst.
+4.2
+Le droit d'être entendu, garanti par l'art.
+29 al. 2 Cst. et par l'art. 3 al. 2 let. c CPP, implique notamment pour l'autorité l'obligation
+de motiver sa décision, afin que le destinataire puisse la comprendre, l'attaquer utilement s'il
+y a lieu et que l'autorité de recours puisse exercer son contrôle. Pour répondre à
+ces exigences, il suffit que l'autorité mentionne, au moins brièvement, les motifs qui l'ont
+guidée et sur lesquels elle a fondé sa décision de manière à ce que l'intéressé
+puisse se rendre compte de la portée de celle-ci et l'attaquer en connaissance de cause (ATF 134
+I 83 consid. 4.1 ; ATF 133 III 439 consid. 3.3).
+Le droit d'être entendu est une garantie constitutionnelle de caractère formel, dont la violation
+doit entraîner l'annulation de la décision, indépendamment des chances de succès
+du recours sur le fond (ATF 135 I 187 consid. 2.2). Une violation du droit d'être entendu peut toutefois
+être réparée dans le cadre de la procédure de recours lorsque l'irrégularité
+n'est pas particulièrement grave et pour autant que la partie concernée ait la possibilité
+de s'exprimer et de recevoir une décision motivée de la part de l'autorité de recours
+disposant d'un pouvoir d'examen complet en fait et en droit (ATF 137 I 195 consid. 2.3.2 ; TF 1B_524/2012
+du 15 novembre 2012 consid. 2.1).
+4.3
+En l'espèce, la motivation du premier juge est certes lapidaire, mais elle se réfère explicitement
+à la motivation détaillée de la Procureure dans sa requête de prolongation de détention
+provisoire du 19 janvier 2017, dont une copie a été transmise au recourant. Cela étant,
+à supposer que l'on doive y voir une violation du droit d'être entendu, celle-ci serait réparée
+dans le cadre de la procédure de recours, puisque le prévenu fait valoir, s'agissant du risque
+de collusion, les mêmes griefs tant dans ses déterminations du 23 janvier 2017 que dans son
+mémoire de recours du 27 janvier 2017, qui ont été examinés (cf. supra, consid.
+2).
+5.
+Il s'ensuit que le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d'écritures (art. 390 al. 2 CPP) et l'ordonnance entreprise confirmée.
+Les frais de la procédure de recours, soit l'émolument d'arrêt par 990 fr. (art.
+20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; RSV 312.03.1]), ainsi que les frais imputables à la défense d’office (art.
+422 al. 1 et al. 2 let. a CPP), fixés à 583 fr. 20 (soit 540 fr., plus la TVA par 43 fr. 20),
+seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+sera exigible pour autant que la situation économique du recourant se soit améliorée (art.
+135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 24 janvier 2017 est confirmée.
+III.
+L'indemnité allouée au défenseur d'office de X.________ est fixée à 583 fr.
+20 (cinq cent huitante-trois francs et vingt centimes).
+IV.
+Les frais d'arrêt, par 990 fr. (neuf cent nonante francs), ainsi que l'indemnité due au défenseur
+d'office du recourant, par 583 fr. 20 (cinq cent huitante-trois francs et vingt centimes), sont mis à
+la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité
+allouée au chiffre III ci-dessus sera exigible pour autant que la situation économique du recourant
+se soit améliorée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Gaëtan-Charles Barraud, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l'arrondissement de Lausanne,
+-
+M. C.F.________,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
