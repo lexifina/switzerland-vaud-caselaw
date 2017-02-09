@@ -1,0 +1,223 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2017___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2017 / 7"
+decided: "2017-02-09"
+published: "2017-02-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20170130153151234_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-051.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-124.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md"]
+---
+
+# VD Findinfo Réc-civile / 2017 / 7
+
+## Regeste
+
+RÉCUSATION, REJET DE LA DEMANDE | 47 al. 1 let. b CPC (CH), 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 50 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 09.02.2017 Réc-civile / 2017 / 7
+
+RÉCUSATION, REJET DE LA DEMANDE | 47 al. 1 let. b CPC (CH), 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 50 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+TD15.054838
+10
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 9 février 2017
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              Mme
+Revey et M. Kaltenrieder
+Greffière
+:              Mme
+Paschoud-Wiedler
+*****
+Art.
+47 al. 1 let. b et f, 49 al.1, 50 CPC, 8a al. 7 CDPJ
+Vu le procès en modification du jugement de divorce pendant entre
+M.________
+et
+A.________
+,
+ouvert par requête du 14 décembre 2015,
+vu l’audience de plaidoiries finales et de jugement du 17 novembre 2016 tenue par W.________,
+Président du Tribunal civil de l’arrondissement de Lausanne,
+vu le procès-verbal de cette audience qui mentionne «
+avec
+l’accord des parties, il est renoncé aux plaidoiries orales au bénéfice de plaidoiries
+écrites, à remettre au Tribunal dans au plus tard le 28 novembre 2016, sans aucune prolongation
+(sic)
+»,
+vu le courrier du 18 novembre 2016 par lequel A.________, par son conseil, a requis la récusation
+du Président W.________,
+vu les déterminations du Président W.________ du 21 novembre 2016,
+vu les déterminations déposées les 22 et 30 novembre 2016 par M.________,
+vu le jugement rendu le 6 décembre 2016 par le Tribunal civil d’arrondissement de Lausanne
+rejetant la requête de récusation présentée le 17 novembre 2016,
+vu le recours déposé 19 décembre 2016 par A.________, par son conseil, contre ce jugement,
+vu les pièces au dossier ;
+attendu que le recours est dirigé contre
+une décision statuant sur la récusation d'un magistrat de première instance,
+que l'art. 50 al. 2 CPC (Code de procédure civile du 19 décembre 2008 ; RS 272) prévoit
+que la décision sur récusation peut faire l'objet d'un recours au sens des art. 319 ss CPC,
+que la Cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010 ; RSV 211.02] et 6 al. 1 let. a ROTC
+[règlement organique du Tribunal cantonal du 13 novembre 2007 ; RSV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC ; Tappy,
+Code de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+que le recours doit être écrit et motivé, sous peine d’irrecevabilité (art. 321
+al. 1 CPC ; Jeandin, Code de procédure civile commenté, op. cit., n. 4 ad art. 321 CPC),
+qu'en l'espèce, le
+recours a été déposé en temps utile par une partie qui a qualité pour recourir,
+que le recours est recevable à la forme ;
+attendu que la recourante reproche au magistrat concerné d’avoir évoqué, à
+la fin de l’audience du 17 novembre 2016, le fait qu’elle l’ait « rattrapé »
+à Ouchy pour lui parler de la présente cause,
+qu’elle fait valoir qu’elle ressent une grande défiance et de l’exaspération
+du magistrat à son endroit et qu’elle soupçonne fortement celui-ci de faire preuve de
+partialité,
+qu'à teneur de l’art. 47 al. 1 let. f CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 §1 CEDH (Convention du 4 novembre
+1950 de sauvegarde des droits de l'homme et des libertés fondamentales ; RS 0.101), s'oppose
+à ce que des circonstances extérieures au procès puissent influencer le jugement d'une
+manière qui ne serait pas objective, en faveur ou au préjudice d'une partie (TF 5A_316/2012
+du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid. 2.1 ; ATF 138 I 1 consid. 2.2
+et les références citées),
+qu'en la matière, même les apparences
+peuvent revêtir de l'importance, pour autant qu'elles fassent redouter une attitude partiale du
+ou des magistrats, qu'elles soient objectives et résultent de faits déterminés, (TF 5A_316/2012
+du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid. 2.1 ; ATF 138 I 1 consid.
+2.2 et les références citées),
+que les impressions purement individuelles ne sont pas décisives (ATF 140 III 221 consid. 4.1
+; ATF 139 III 120 consid. 3.2.1 ; ATF 139 I 121 consid. 5.1 ; ATF 138 I 1 consid. 2.2 ; ATF
+138 IV 142 consid. 2.1).
+qu’en l’espèce, la recourante se prévaut uniquement de son ressenti propre et ne
+soulève aucun élément objectif tendant à démontrer un chef de prévention
+à son égard,
+que le fait que le Président W.________ lui ait expliqué qu’elle ne devait pas l’interpeller
+en dehors du contexte judiciaire pour lui parler du procès ne met pas en cause l’impartialité
+du magistrat, cela même si les autres parties étaient présentes ;
+attendu que la recourante invoque également que le Président W.________ a refusé de lui
+accorder une prolongation de délai pour déposer sa plaidoirie écrite,
+que selon l’art. 124 al. 1 CPC, le tribunal conduit le procès et prend les décisions
+d’instruction nécessaires à une préparation et à une conduite rapides de la
+procédure,
+qu’il en découle que le tribunal reste maître du déroulement du procès et que
+son avancement ne dépend pas de la volonté des parties (Haldy, op. cit., n. 2 ad art. 124 CPC),
+qu’en l’espèce le fait que le Président W.________ ait refusé à la recourante
+une prolongation de délai pour déposer sa plaidoirie n’est pas constitutif d’un
+motif de récusation,
+qu’il appartient en effet au magistrat de mener la conduite du procès et prendre les décisions
+qu’il estime nécessaires et adéquates,
+que par ailleurs, il ressort du procès-verbal du 17 novembre 2016 que les parties avaient convenu
+d’un délai au 28 novembre 2016 pour déposer des plaidoiries écrites, sans aucune
+prolongation possible,
+qu’on ne saurait donc voir dans le refus du Président W.________ un quelconque esprit partisan ;
+attendu que la recourante fait valoir l’art. 47 al. 1 let. b CPC, dans la mesure où elle estime
+que le juge traitant d’une modification de jugement de divorce ne devrait pas avoir participé
+à la procédure de divorce,
+qu’à teneur de cet article, les magistrats se récusent lorsqu’ils ont agi dans
+la même cause à un autre titre, notamment comme membre d’une autorité, comme conseil
+juridique d’une partie, comme expert, comme témoin ou comme médiateur,
+que le cumul des fonctions n’est admissible que si le magistrat, en participant à des décisions
+antérieures relatives à la même affaire, n’a pas déjà pris position au
+sujet de certaines questions de manière telle qu’il ne semble plus à l’avenir exempt
+de préjugés et que par conséquent le sort du procès paraît déjà scellé
+(Bohnet, op. cit., n. 19 ad art. 47 CPC),
+que selon l’art. 49 al. 1 CPC, la partie qui entend obtenir la récusation d’un magistrat
+ou d’un fonctionnaire judiciaire la demande aussitôt qu’elle a eu connaissance du motif
+de récusation,
+que cette règle découle du principe de la bonne foi (Tappy, op. cit., n. 11 ad art.
+49 CPC),
+qu’en l’espèce, la recourante aurait dû invoquer ce motif au début de la procédure,
+qu’il est donc tardif de s’en prévaloir ensuite de l’audience de jugement,
+qu’au demeurant, la procédure en modification du jugement de divorce est une procédure
+distincte de la procédure de divorce dans la mesure où elle tend à réévaluer
+la situation du débiteur ou du créancier en raison de changements notables,
+que l’art. 47 al. 1 let. b CPC ne trouve donc pas application,
+qu’au surplus, la référence citée par la recourante à ce propos, soit Hoffmann
+et al., Code de procédure civile, 2
+ème
+éd., Berne 2015, pp. 32 à 35, exprime uniquement l’avis des auteurs et n’est basée
+sur aucune jurisprudence ni autre avis de doctrine,
+qu’en définitive, la recourante n’a pas établi une attitude partiale du magistrat
+intimé, même à considérer globalement les éléments qu’elle dénonce,
+qu’aucun
+motif de récusation n’est ainsi réalisé,
+que la récusation du magistrat intimé n’étant pas admise, il n’est pas donné
+droit à la conclusion de la recourante tendant à l’annulation des actes de procédure
+auxquels il a participé (cf. art. 51 al. 1 CPC) ;
+attendu qu'en définitive,
+les griefs soulevés par A.________ s'avèrent manifestement infondés, de sorte que son
+recours peut être écarté sans autres échanges d'écritures, en application de
+l'art. 322 al. 1 in fine CPC,
+que son recours doit être rejeté,
+que
+vu le sort de l’appel, il y a lieu de considérer que celui-ci était dépourvu de
+toutes chances de succès (art. 117 al. 1 let. b CPC), de sorte que la requête d’assistance
+judiciaire formée par A.________ doit être rejetée,
+que les frais judiciaires de deuxième instance sont arrêtés à 500 fr. (art. 72
+al. 1 TFJC [tarif des frais judiciaires en matière civile du 28 septembre 2010 ; RSV 270.11.5])
+à la charge de la recourante qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 19 décembre 2016 par A.________ est rejeté.
+II.
+Le jugement rendu le 6 décembre 2016 par le Tribunal civil d’arrondissement de Lausanne est
+confirmé.
+III.
+La requête d’assistance judiciaire de la recourante est rejetée.
+IV.
+Les frais judiciaires, par 500 fr. (cinq cents francs), sont mis à la charge d’A.________.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+-
+Me Franck-Olivier Karlen, av. (pour A.________),
+-
+Me Philippe Chaulmontet, av. (pour M.________).
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. [...], Président du Tribunal d’arrondissement
+de Lausanne.
+La greffière :
