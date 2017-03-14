@@ -1,0 +1,275 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2017___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2017 / 5"
+decided: "2017-03-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/5987438"
+cites_law: ["switzerland/bund/acts/220/art-053.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-124.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2017 / 5
+
+## Regeste
+
+SUSPENSION DE LA PROCÉDURE | 123 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 14.03.2017 Jug-inc / 2017 / 5
+
+SUSPENSION DE LA PROCÉDURE | 123 CPC
+
+TRIBUNAL
+CANTONAL
+CO06.008869
+12/2017/EKA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+Z.________
+,
+à Brescia (Italie), d'avec
+V.________
+,
+à Mont-sur-Rolle.
+___________________________________________________________________
+Du
+14 mars 2017
+__________________
+Composition
+:               M.
+Kaltenrieder
+,
+juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu l'action ouverte le 27 mars 2006 par le
+demandeur Z.________, qui a pris contre le défendeur V.________ la conclusion suivante, sous suite
+de frais et dépens:
+"
+V.________ est débiteur d'Z.________ et lui doit paiement immédiat de la somme de 215'000 €
+(…) avec intérêt à 5% l'an dès et y compris le 1
+er
+juillet
+2003",
+vu la réponse déposée le 15 août 2006 par le défendeur, qui a conclu au
+rejet de la demande et a pris la conclusion reconventionnelle suivante sous suite de frais et dépens:
+"
+Z.________ est débiteur et doit immédiat paiement à V.________ de la somme de 111'039 fr. (…)
+avec intérêts à 5% (…) l'an à compter du 25 juillet 2004",
+vu la réplique du demandeur du 5 novembre 2007, par laquelle il a confirmé sa conclusion
+principale et conclu au rejet de la conclusion reconventionnelle du défendeur, avec suite de frais
+et dépens,
+vu l'échange d'écritures ultérieur des parties,
+vu l'ordonnance sur preuves du 4 juin 2006, par laquelle le juge instructeur a en particulier admis
+les offres de preuves des parties pour les allégués encore contestés (ch. I) et nommé
+un expert chargé de répondre à vingt allégués (ch. IV),
+vu le courrier du juge instructeur du 28 février 2013 valant ordonnance sur preuves complémentaire,
+où il est pris note de la renonciation du défendeur à la preuve par expertise pour quatorze
+allégués, et dit que l'expertise serait mise en œuvre pour les allégués 20,
+22 à 24 et 144 du demandeur et pour l'allégué 129 du défendeur,
+vu l'ordonnance sur preuves complémentaire du 28 mai 2013 confiant en dernier lieu cette tâche
+à F.________,
+vu le rapport de l'expert F.________ du 28 novembre 2014 et ses rapports de complément d'expertise
+successifs des 5 février 2015 et 29 avril 2016,
+vu l'avis du juge instructeur du 22 août 2016 impartissant aux parties un délai au 28 octobre
+2016 pour déposer un mémoire de droit, et son courrier du 19 octobre 2016 prolongeant
+ce délai au 30 novembre 2016,
+vu la requête de réforme et la requête de suspension déposées par le défendeur
+(et requérant) le 21 octobre 2016, où il est en particulier allégué que le requérant
+a déposé plainte pénale contre le défendeur,
+vu le courriel du Ministère public de l'arrondissement de Lausanne du 23 novembre 2016, demandant
+à ce que le dossier de la cause lui soit transmis pour consultation,
+vu le courrier du juge instructeur du 16 décembre 2016, par lequel il a imparti au requérant
+un délai au 16 janvier 2017 pour s'acquitter d'une avance de frais pour les dépens frustraires,
+sous peine de caducité de la requête de réforme,
+vu la prolongation de délai requise le 16 janvier 2017 par le requérant, qui a renouvelé
+ses requêtes de réforme et de suspension de cause,
+vu la lettre du juge instructeur prolongeant le délai imparti au 17 février 2017 et informant
+le requérant que la requête de suspension de cause serait examinée une fois l'avance de
+frais payée,
+vu la seconde prolongation de délai au 20 février 2017, octroyée le 17 février
+2017 par le juge instructeur,
+vu l'avis du juge instructeur du 27 février 2017 informant le défendeur (et intimé)
+que l'avance de frais pour les dépens frustraires avait été payée, et lui impartissant
+un délai au 9 mars 2017 pour se déterminer sur la requête de suspension de cause,
+vu la détermination déposée le 6 mars 2017 par l'intimé, qui a déclaré
+s'en remettre à justice s'agissant de la requête de suspension,
+vu les autres pièces au dossier;
+attendu qu'à la teneur de l'art. 404 CPC (Code de procédure civile suisse du 19 décembre
+2008; RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau droit, savoir
+le 1
+er
+janvier
+2011, demeurent régies par l'ancien droit de procédure cantonal jusqu'à la clôture
+de l'instance,
+que la procédure au fond, ouverte par demande du 27 mars 2006, est dès lors soumise à
+l'ancien droit de procédure et notamment au CPC-VD (Code de procédure civile vaudoise du 14 décembre
+1966; RSV 270.11),
+que le juge statue sur la suspension du procès en la forme incidente, également soumise aux
+règles de l'ancien droit (CREC II, 20 juillet 2011/66 consid. 1/a; Haldy, La nouvelle
+procédure suisse, Bâle 2009, p. 3 n: 7; Tappy, Le droit transitoire applicable lors
+de l'introduction de la nouvelle procédure civile suisse unifiée
+in
+JdT 2010 III 11 spéc. 36 ss),
+que le présent incident suit ainsi les règles du CPC-VD;
+attendu que la requête a été déposée en la forme écrite (art. 147
+al. 1
+in initio
+CPC-VD), en conformité avec les exigences de contenu et de représentation de l'art. 19
+al. 1 et 2 CPC-VD, et qu'elle est ainsi recevable en la forme;
+attendu qu'après interpellation des parties, le juge peut remplacer l'audience par un échange
+d'écritures unique et à bref délai (art. 149 al. 3 CPC-VD),
+qu'en l'occurrence, l'intimé a seulement déclaré s'en remettre à justice, de sorte
+qu'il n'y a pas lieu d'inviter le requérant, qui a déjà fait valoir ses propres moyens
+dans sa requête, à répliquer,
+qu'il peut dans ces circonstances être statué sur l'incident sans nouvelle interpellation ni
+fixation d'audience;
+attendu qu'à l'appui de sa requête, V.________ allègue avoir déposé le jour
+même plainte pénale contre l'expert F.________, pour des faits selon lui constitutifs de violation
+des art. 146 et 307 CP (Code pénal suisse du 21 décembre 1937; RS 311.0) par le dépôt,
+dans le cadre de la présente procédure, d'un rapport d'expertise qui selon le requérant
+serait faux,
+que la mission de l'expert avait en particulier consisté à déterminer si un châssis
+vendu par le requérant à l'intimé était une pièce de collection – comme
+cela avait été prétendu lors de la vente – ou une pièce de série, l'expert
+s'étant pour ce faire rendu chez le prétendu détenteur actuel du châssis litigieux,
+[...], résident à [...] (République tchèque),
+qu'aux termes de la requête de suspension – qui renvoie à ce sujet à la requête
+de réforme du même jour et au bordereau annexé à celle-ci –, d'une part les
+constatations de l'expert sont directement contredites par le détenteur actuel du châssis,
+et d'autre part l'expert, lors de son séjour en République tchèque, aurait partagé
+son hôtel avec l'intimé;
+attendu que le juge peut suspendre l'instruction du procès pour un temps déterminé en
+cas de nécessité (art. 123 CPC-VD),
+que la suspension est un acte grave et exceptionnel, qui exige la réalisation effective d'un état
+de nécessité dont il appartient au juge d'apprécier l'existence (JdT 2002 III 186 consid.
+2; JdT 1993 III 113 consid. 3a; Poudret
+et
+alii
+, Procédure civile vaudoise, 3e éd.,
+Lausanne 2002, n. 4 ad art. 123 CPC-VD),
+qu'elle se justifie notamment lorsque le sort du procès peut dépendre de l'issue d'une autre
+procédure civile, pénale ou administrative, sans pour autant qu'il y ait litispendance, afin
+d'éviter des jugements même indirectement contradictoires (Poudret
+et
+alii
+, op. cit., n. 3 ad art. 123 CPC-VD),
+que lorsqu'une partie fonde ses prétentions sur un fait qui est l'objet d'une procédure pénale,
+la suspension de l'instance civile n'est ordonnée que si ce fait est de nature à influer sur
+le résultat de la contestation et que cette mesure apparaisse indispensable (art. 124 al. 1 CPC-VD),
+que la suspension prévue par l'art. 124 al. 1 CPC répond à l'idée que la preuve de
+certains faits sera facilitée par la procédure pénale, au cours de laquelle des faits
+peuvent être précisés ou des éléments nouveaux révélés (JdT 1999
+III 66;  JdT 1974 III 78),
+qu'elle permettrait ainsi au juge civil de profiter, mais sans être tenu d'y souscrire, des résultats
+de l'instruction pénale (Scyboz, L'effet de la chose jugée au pénal sur le sort de l'action
+civile, Fribourg, 1976, p. 52),
+qu'en précisant que la suspension doit apparaître indispensable, le législateur a voulu
+confirmer la jurisprudence rendue sous l'empire du code de 1911 (BGC 1966, p. 710; JdT 1999 III 66; JT
+1977 III 28), selon laquelle la suspension en raison d'un procès pénal devait être opportune
+au regard des prescriptions des art. 53 CO [loi fédérale complétant le Code civil
+suisse – Livre cinquième: Droit des obligations – du 30 mars 1911; RS 220] et 1
+al. 3 CPC-VD, et justifiée par des circonstances impérieuses (JdT 1999 III 66; JdT 1964 III
+128; JdT 1956 III 29),
+qu'il n'est pas nécessaire que la condamnation du prévenu semble probable, ni même souhaitable
+que le juge civil se livre à un pronostic au sujet de l'issue du procès pénal (JdT 1977
+III 28; JdT 1975 III 7;
+contra
+JdT 1979 III 12, critiqué par Poudret
+in
+JdT 1979 III 16),
+que quatre conditions doivent être réunies pour que la suspension en raison d'un procès
+pénal puisse être ordonnée, le défaut d'une seule d'entre elles suffisant à
+exclure cette mesure (JdT 1999 III 66 c. 3a),
+qu'il faut ainsi en premier lieu que le procès pénal porte sur un fait pertinent allégué
+en procédure civile ou susceptible de l'être une fois connue la solution du procès pénal,
+ce fait devant ensuite constituer un fondement de l'action civile, qu'il doit en outre être de nature
+à influer sur le résultat de celle-ci (ces trois conditions étant en réalité
+la variation d'une seule condition, un fait ne pouvant être pertinent que s'il fonde l'action civile
+et influe sur son résultat [CREC I 26 janvier 2009/47]),
+que la suspension doit finalement se révéler indispensable, le juge devant tenir compte de
+la nature de la contestation, de l'état d'avancement de l'instance civile et de la procédure
+pénale, ainsi que des avantages et inconvénients de la suspension, respectivement de son refus
+(JdT 1999 III 66 consid. 3a et les références citées; Poudret
+et
+alii
+, op. cit., n. 2 ad art. 124 CPC),
+que le juge doit donc apprécier dans chaque cas l'opportunité de la suspension en partant du
+principe qu'il s'agit d'une mesure grave qui doit être justifiée par des raisons impérieuses
+(JdT 1956 III 29; Poudret
+et
+alii
+, op. cit., n. 2 ad art. 124 CPC-VD),
+qu'en l'occurrence les faits allégués par le requérant – s'ils sont confirmés
+par l'enquête pénale – sont propres à remettre en cause la valeur probante des constatations
+de l'expert F.________,
+que ces constatations, en particulier celles relatives au châssis ici en cause, portent sur des
+faits techniques qui sont au cœur du litige, de sorte que la condition de la pertinence des faits
+portés devant les autorités pénales est remplie, sous les trois aspects détaillés
+ci-dessus,
+qu'au vu de la nature des reproches faits à l'expert F.________ par le requérant, la condition
+du caractère impérieux de la suspension est également remplie,
+qu'il faut dès lors admettre la requête et suspendre la cause, cette suspension s'étendant
+à la procédure de réforme ouverte par requête du 21 octobre 2016 parallèlement
+à la requête de suspension ici en cause;
+attendu que la cause ainsi suspendue sera reprise dès la décision définitive sur la poursuite
+pénale (art. 124 al. 2 CPC);
+attendu que les frais de la procédure incidente, arrêtés à 900 fr., sont mis à
+la charge du requérant, conformément aux art. 4 al. 1 et 170a al. 1 aTFJC (tarif du 4 décembre
+1984 des frais judiciaires en matière civile, par le renvoi de l'art. 99 al. 1 TFJC [tarif
+des frais judiciaires civils du 28 septembre 2010; RSV 270.11.5]);
+attendu qu'en matière incidente, le juge statue sur les dépens comme en matière de jugement
+au fond (art. 150 al. 2 CPC-VD), les dépens étant alloués à la partie qui a obtenu
+l'adjudication de ses conclusions (art. 92 al. 1 CPC-VD),
+qu'ils comprennent principalement les frais de justice, les honoraires et les débours d'avocat (art.
+91 let. a et c CPC-VD),
+qu'en l'occurrence le requérant, qui obtient gain de cause sur la requête de suspension, a
+droit à des dépens de l'incident, à la charge de l'intimé, qu'il convient d'arrêter
+à 1'425 fr., savoir 900 fr. à titre de remboursement des frais de la procédure
+incidente, 500 fr. à titre d'honoraires et 25 fr. à titre de débours.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de suspension de procédure du 21 octobre 2016 déposée par le requérant
+V.________ est admise.
+II.
+La cause est suspendue jusqu'à droit connu sur le sort de la plainte pénale déposée
+le 21 octobre 2016 par le requérant contre l'intimé Z.________ devant le Ministère
+public de l'arrondissement de Lausanne.
+III.
+Les frais de la procédure incidente, arrêtés à 900 fr. (neuf cents francs),
+sont mis à la charge du requérant.
+IV.
+L'intimé versera au requérant la somme
+de 1'425 fr. (mille quatre cent vingt-cinq francs), à titre de dépens de l'incident.
+Le
+juge instructeur :              Le greffier
+:
+E. Kaltenrieder
+L. Cloux
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est directement motivé
+et notifié, par l'envoi de photocopies, aux conseils des parties.
+Un recours au sens des art. 126 al. 2 et 319 ss CPC peut être formé dans un délai
+de 10 jours dès la notification de la présente décision en déposant au greffe
+du Tribunal cantonal un mémoire écrit et motivé. La décision objet du recours doit
+être jointe.
+Le greffier :
+L. Cloux
