@@ -1,0 +1,335 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 11"
+decided: "2017-04-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6020461"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-004.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-098.md", "switzerland/bund/acts/281.1/art-106.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-275.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 11
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE, PROCÈS-VERBAL DE SÉQUESTRE, EXÉCUTION DU SÉQUESTRE, PLAINTE{LP}, VALEUR, OBJET SÉQUESTRÉ, DILIGENCE, ENQUÊTE{EN GÉNÉRAL} | 17 al. 1 LP, 18 al. 1 LP, 275 LP, 92 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.04.2017 Plainte / 2017 / 11
+
+ORDONNANCE DE SÉQUESTRE, PROCÈS-VERBAL DE SÉQUESTRE, EXÉCUTION DU SÉQUESTRE, PLAINTE{LP}, VALEUR, OBJET SÉQUESTRÉ, DILIGENCE, ENQUÊTE{EN GÉNÉRAL} | 17 al. 1 LP, 18 al. 1 LP, 275 LP, 92 LP
+
+TRIBUNAL
+CANTONAL
+FA16.046535-170168
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 avril 2017
+________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+M.
+Colombini et Mme Byrde, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+17 al. 1, 18 al. 1, 92 et 275 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________SA
+,
+au [...] (GE), contre la décision rendue le 13 janvier 2017, à la suite de l’audience
+du 24 novembre 2016, par la Présidente du Tribunal d’arrondissement de Lausanne, en sa qualité
+d’autorité inférieure de surveillance, rejetant la plainte déposée le 20 octobre
+2016 par la recourante contre le procès-verbal de séquestre n° 8’016’281 établi
+par l’
+Office
+des poursuites du district de l'Ouest lausannois
+contre
+W.________
+,
+à [...] (France).
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+La société A.________Sàrl, à
+[...], fait l’objet depuis 2013 de poursuites et d’actes de défaut de biens pour des
+montants totaux de 32'607 francs 30 et 203'010 fr. 20, selon la liste des affaires en cours établie
+le 18 novembre 2016 par l’Office des poursuites du district de l’Ouest lausannois (ci-après :
+l’Office).
+Son associé gérant, W.________, a été entendu par l’Office lors de diverses
+procédures de saisie, la dernière fois le 29 juillet 2014. A cette époque, selon ses déclarations,
+la société n’avait déjà plus d’activité, ni de salariés, ni
+de locaux et plus aucun actif mobilier ou immobilier.
+b)
+Par ordonnance du 20 septembre 2016, à la requête de H.________SA qui invoquait une créance
+de loyers et frais accessoires de 18'630 fr. 05 contre W.________ et le cas de séquestre de l’art.
+271 al. 1 ch. 4 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1),
+le Juge de paix du district de l’Ouest lausannois a ordonné le séquestre des parts sociales
+détenues par le débiteur auprès de la société A.________Sàrl.
+Le même jour, l’Office a reçu cette ordonnance et s’est rendu au siège de
+la société, où il a constaté que celle-ci n’avait plus de locaux. Le 29 septembre
+2016, il a adressé une convocation à « A.________Sàrl M. W.________ »
+à une adresse à [...], en France, invitant le destinataire à se présenter à
+l’Office le 6 octobre 2016 et indiquant comme motif : « Une révision de la
+situation de votre société est nécessaire ».
+W.________ n’ayant pas donné suite à cette convocation, l’Office a délivré
+le 7 octobre 2016 un procès-verbal de séquestre n° 8'016'281 dont la teneur est la suivante :
+« Des
+procédures de poursuites ont été diligentées par l’office soussigné contre
+la société A.________Sàrl pour un montant de fr. 155'804.60 valeur au 7 octobre 2016 (y.c.
+actes de défauts de biens). Ladite société n’a plus de locaux sis ch. [...] à
+[...], selon constatation sur place le 20.09.2016 et selon les procédés d’exécution
+forcée antérieurs. Lors de la dernière audition de M. W.________, ce dernier a déclaré
+que la société A.________Sàrl n’avait plus d’activité depuis le début
+de l’année 2013, plus aucun salarié ni de locaux, plus aucun actif mobilier ou immobilier.
+En conséquence, l’office déclare que les parts sociales de la société A.________Sàrl
+sont insaisissables car sans valeur de réalisation au sens de l’art. 92 al. 2 LP.
+Au
+vu de ce qui précède, l’office soussigné déclare que le présent séquestre
+n’a pas porté. »
+c)
+Le 20 octobre 2016, H.________SA a déposé
+une plainte auprès du Président du Tribunal d’arrondissement de Lausanne contre le procès-verbal
+de séquestre précité, qu’elle avait reçu le 10 octobre 2016. Elle a conclu,
+avec suite de frais et dépens, à l’annulation de ce procès-verbal et, principalement,
+à ce qu’il soit constaté que l’exécution du séquestre a porté à
+hauteur de 18'630 fr. 05, subsidiairement, au renvoi de la cause à l’Office pour nouvelle
+exécution du séquestre.
+A l’appui de sa plainte, elle a produit un onglet de quinze pièces sous bordereau, contenant
+des pièces relatives à la créance invoquée, un extrait du registre du commerce concernant
+la société A.________Sàrl, un rapport du 30 mai 2016 établi par une agence d’enquêtes
+commerciales et privées au sujet de W.________ et des pièces de procédure, soit la requête,
+l’ordonnance et le procès-verbal de séquestre.
+d)
+L’Office s’est déterminé le 18 novembre 2016, concluant au rejet de la plainte.
+Il a produit l’ordonnance de séquestre, la convocation adressée à W.________, le
+procès-verbal litigieux, la liste des affaires en cours contre A.________Sàrl au 18 novembre
+2016 et l’enveloppe contenant le procès-verbal de séquestre adressé à W.________,
+à [...], le 7 octobre 2016 et venu en retour avec la mention « destinataire inconnu à
+l’adresse ».
+e)
+La présidente du tribunal a convoqué la plaignante, l’Office et W.________ à l’audience
+de plainte du 24 novembre 2016. Tous trois s’y sont présentés et ont été entendus.
+W.________ a déclaré que les parts sociales n’avaient plus aucune valeur.
+2.
+Par décision rendue le 13 janvier 2017, la
+Présidente du Tribunal d’arrondissement de Lausanne, en sa qualité d’autorité
+inférieure de surveillance en matière de poursuites pour dettes et de faillite, a rejeté
+la plainte (I), confirmé la décision de l’Office de délivrer un procès-verbal
+de séquestre infructueux (II) et rendu sa décision sans frais ni dépens (III). Elle a
+constaté que l’Office avait procédé de manière régulière et conforme
+à la loi à l’exécution du séquestre ordonné, considérant que l’office
+des poursuites devait estimer les biens qu’il saisissait en fonction du produit probable des enchères,
+qu’en l’espèce, l’Office avait déclaré que les parts sociales sur lesquelles
+le séquestre devait porter n’étaient pas saisissables pour le motif qu’elles n’avaient
+pas de valeur de réalisation, la société A.________Sàrl n’ayant plus ni locaux,
+ni activité depuis le début de l’année 2013 et plus aucun actif mobilier ou immobilier,
+et qu’il n’avait pas manqué à son devoir de diligence puisqu’il était
+parvenu à ce résultat après avoir mené son enquête sur la société
+et vérifié son extrait de poursuites, W.________ ayant de surcroît déclaré à
+l’audience que les parts sociales n’avaient plus aucune valeur.
+3.
+La plaignante a recouru contre cette décision
+par acte du 27 janvier 2017, concluant, avec suite de frais et dépens, à l’annulation
+de la décision attaquée et, principalement, à ce qu’il soit constaté que l’exécution
+du séquestre a porté à hauteur de 18'630 fr. 05, subsidiairement, au renvoi de la cause
+à l’Office pour nouvelle exécution du séquestre.
+Invité à se déterminer sur le recours, l’Office a indiqué, dans une lettre
+du 17 février 2017, n’avoir pas de détermination complémentaire à déposer
+par rapport à celle produite en première instance.
+En droit :
+I.
+a)
+Le recours est dirigé contre le rejet d’une plainte portant sur la saisissabilité de
+parts sociales appartenant au débiteur dans le cadre de l’exécution d’un séquestre.
+Selon la jurisprudence, l'ordonnance de séquestre est rendue sur la base de la seule requête
+du créancier (art. 272 LP). Elle doit être entreprise par la voie de l'opposition (art. 278
+al. 1 LP), dont le but est de permettre au juge de vérifier le bien-fondé du séquestre
+après avoir entendu le débiteur. De son côté, l'office des poursuites exécute
+l'ordonnance de séquestre (art. 275 LP). Sa décision doit être entreprise par la voie
+de la plainte (art. 17 LP) auprès de l'autorité de surveillance. Les griefs concernant les
+conditions de fond du séquestre doivent donc être soulevés dans la procédure d'opposition
+et ceux concernant l'exécution du séquestre dans la procédure de plainte (ATF 142 III
+291 consid. 2.1 ; 129 III 203 consid. 2.2 et 2.3 et les références citées ;
+TF 5A_898/2016 du 27 janvier 2017 consid. 6 ; TF 5A_730/2016 du 20 décembre 2016 consid. 3.1 ;
+TF 5A_947/2012 du 14 mai 2013 consid. 4.1 in SJ 2014 I p. 86 ; TF 5A_883/2012 du 18 janvier
+2013 consid. 6.1.2 in SJ 2013 I p. 270 ; TF 5A_812/2010 du 24 novembre 2011 consid. 3.2.2 in Pra
+2012 (78) p. 531).
+Plus singulièrement, les compétences des offices et des autorités de poursuite portent
+notamment, en vertu du renvoi de l'art. 275 LP, sur les mesures proprement dites d'exécution, soit
+celles concernant la saisissabilité des biens (art. 92 ss LP), l'ordre de la saisie (art. 95
+ss LP), la sauvegarde des biens saisis (art. 98 ss LP) et la procédure de revendication (art.
+106 ss LP). Elles visent aussi le contrôle de la régularité formelle de l'ordonnance de
+séquestre (ATF 142 III 291 consid. 2.1 ; TF 5A_898/2016 consid. 6 précité ;
+SJ 2014 I p. 86 précité ; TF 5A_925/2012 du 5 avril 2013 consid. 4.3 in SJ 2013 I p. 463;
+SJ 2013 I p. 270 précité).
+Le présent litige relatif à la saisissabilité des biens séquestrés relève
+donc de la procédure de plainte, ce qui n’est pas contesté.
+b)
+La plainte déposée le 20 octobre 2016 contre le procès-verbal de séquestre infructueux
+délivré par l’Office le 7 et reçu par la plaignante le 10 octobre 2016, a été
+formée en temps utile (art. 17 al. 1 LP). Elle est recevable.
+Le recours a été également formé en temps utile, dans le délai de dix jours
+des art. 18 al. 1 LP et 28 al. 1 LVLP (loi vaudoise d’application de la LP ; RSV 280.05).
+Il comporte des conclusions et l’énoncé des moyens invoqués (art. 28 al. 3 LVLP),
+de sorte qu’il est recevable.
+Les déterminations de l’Office, qui se réfère en substance aux déterminations
+qu’il a produites devant le premier juge, sont également recevables (art. 31 al. 1 LVLP).
+II.
+La recourante fait valoir que l’art. 92 al. 2 LP était inapplicable en l’espèce.
+Elle soutient par ailleurs que l’Office aurait violé son devoir d’investigation.
+a)
+Les articles 91 à 109 LP relatifs à la saisie s’appliquent par analogie à l’exécution
+du séquestre (art. 275 LP).
+Les biens mentionnés à l’art. 92 al. 1 ch. 1 à 5 LP sont absolument insaisissables.
+Entrent notamment dans cette catégorie les outils, appareils, instruments et livres, en tant qu’ils
+sont nécessaires au débiteur et à sa famille pour l’exercice de leur profession
+(art. 92 al. 1 ch. 3 LP). En outre, selon l’art. 92 al. 2 LP, les objets pour lesquels il y a lieu
+d’admettre d’emblée que le produit de leur réalisation excéderait de si peu
+le montant des frais que leur saisie ne se justifie pas ne sont pas non plus saisissables. Cette disposition
+s’applique aux biens mentionnés aux ch. 1 à 5 de l’art. 92 al. 1 LP, notamment
+aux outils, appareils, instruments et livres qui ne sont pas indispensables au poursuivi et à sa
+famille pour l’exercice de leur profession (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 207
+ad
+art. 92 LP ; Ochsner,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, n. 190
+ad
+art. 92 LP). Il n’est pas contesté que les parts sociales ne sont pas des biens mentionnés
+à l’art. 92 al. 1 ch. 3 LP. En effet, l’exploitation d’une entreprise n’est
+pas protégée par cette disposition (ATF 106 III 108 consid. 2 ; 95 III 81, JdT 1971 II
+39 ; Ochsner,
+op. cit.
+,
+n. 89
+ad
+art. 92 LP). En l’occurrence, toutefois, le premier juge ne s’est pas fondé sur l’art.
+92 al. 2 LP pour rejeter la plainte. Le grief de la recourante est donc sans pertinence.
+Le premier juge s’est en réalité fondé sur un principe général du droit
+des poursuites, selon lequel ne doivent être saisis que les droits patrimoniaux qui ont une valeur
+de réalisation selon l’estimation de l’office des poursuites. Lors même que la
+réalisation d’un droit patrimonial serait juridiquement possible, l’office ne doit pas
+le saisir si sa réalisation devait aboutir à un gaspillage insensé (ATF 97 III 23 consid.
+2, JdT 1971 II 103 ; Gilliéron,
+op.
+cit.
+, n. 15
+ad
+art. 92 LP). Compte tenu du but de la saisie, qui est de déterminer les actifs du débiteur
+qui seront réalisés au profit du créancier, il est en effet évident que seuls les
+actifs ayant une valeur de réalisation seront saisis (Ochsner,
+op.
+cit.
+, n. 46
+ad
+art. 92 LP ; Vonder Mühll, in Staehelin/ Bauer/Staehelin (éd.), Basler Kommentar, Bundesgesetz
+über Schuldbetreibung und Konkurs I, 2
+e
+éd., nn. 45-46
+ad
+art. 92 SchKG [LP]). A juste titre, la recourante ne remet pas ce principe en cause.
+b)
+La recourante fait valoir que l’Office aurait violé son devoir d’investigation, en se
+contentant des déclarations du débiteur quant à l’absence de valeur des parts sociales
+litigieuses.
+L’office dispose d’un large pouvoir d’appréciation pour déterminer si un
+bien est insaisissable parce que sa valeur de réalisation est nulle ou que le produit de la réalisation
+ne dépasse que dans une moindre mesure le montant des frais (TF 5A_5/2013 du 18 février 2013
+consid. 3.1 ; TF 5A_330/2011 du 22 septembre 2011 consid. 3.1).
+En vertu de l'art. 91 LP, l'office en charge de l'exécution de la saisie doit adopter un comportement
+actif et une position critique, de sorte qu'il ne peut s'en remettre, sans les vérifier, aux seules
+déclarations du débiteur quant à ses biens et revenus. Afin de pourvoir au meilleur désintéressement
+possible des créanciers, il doit procéder avec diligence, autorité et souci de découvrir
+les droits patrimoniaux du poursuivi. Il est doté à cette fin de pouvoirs d'investigation et
+de coercition étendus, « à l'instar d'un juge chargé d'instruire une enquête
+pénale ou d'un officier de police judiciaire » (TF 5A_267/2009 du 5 juin 2009 consid. 3.1 ;
+Gilliéron,
+op. cit.
+,
+nn. 12 et 19
+ad
+art. 91 LP). Il résulte cependant indirectement de l’art. 4 al. 1 LP que la compétence
+des offices est limitée géographiquement au territoire de leur arrondissement, sous réserve
+d’entraide et, sur le plan international que le principe de territorialité ne permet pas à
+une autorité d’exécuter un acte de contrainte à l’étranger (Dallèves,
+in
+Commentaire romand, n. 1
+ad
+art. 4 LP).
+c)
+En l’espèce, la recourante se plaint de ce que l’Office se serait exclusivement fondé
+sur des déclarations anciennes de W.________, datant du 29 juillet 2014, selon lesquelles la société
+A.________Sàrl n’avait plus d’activités depuis le début de l’année
+2013.
+Il n’y a pas lieu d’examiner plus avant si l’Office aurait dû envoyer une nouvelle
+convocation à W.________, domicilié à l’étranger, dès lors que l’intéressé
+s’est présenté à l’audience de plainte du 24 novembre 2016 et a confirmé
+que les parts sociales n’avaient plus aucune valeur.
+L’Office ne s’est d’ailleurs pas contenté des déclarations du débiteur,
+puisqu’il s’est rendu au siège de la société et a constaté que celle-ci
+n’y avait plus ni locaux, ni activité. Il a aussi tenu compte du fait que cette société
+faisait, depuis 2013, l’objet de poursuites et d’actes de défaut de biens pour un montant
+de 155'804 francs 60, valeur au 7 octobre 2016. Ces éléments sont pertinents et permettent
+de retenir que l’Office n’a pas abusé de son large pouvoir d’appréciation
+en estimant que la valeur de réalisation des parts sociales litigieuses était nulle. Au demeurant,
+la recourante, qui se contente de soutenir que l’Office aurait violé son devoir d’investigation,
+n’indique nullement quelles mesures d’instruction cet office aurait dû encore entreprendre
+et n’a pas requis de telles mesures d’instruction que ce soit en première instance ou
+dans le cadre du présent recours.
+III.
+Vu ce qui précède, le recours doit être rejeté et le prononcé de l’autorité
+inférieure de surveillance confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS
+281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Serge Patek, avocat (pour H.________SA),
+‑
+M. W.________,
+-
+M. le Préposé à l’Office des poursuites du district de l’Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
