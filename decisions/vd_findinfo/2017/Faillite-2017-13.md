@@ -1,0 +1,319 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___13"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 13"
+decided: "2017-06-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6100064"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 13
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.06.2017 Faillite / 2017 / 13
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF17.002886-170410
+105
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 juin 2017
+________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Q.________
+Sàrl
+, à [...], contre le jugement rendu
+le 21 février 2017, à la suite de l’audience du même jour, par le Président
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, prononçant la faillite de la
+recourante à la requête de
+N.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 4 octobre 2016, à la réquisition de N.________, l’Office des poursuites du district
+du Gros-de-Vaud a notifié à Q.________ Sàrl, dans la poursuite n° 8'012'327, un commandement
+de payer les sommes de 1) 1'228 fr. 10 avec intérêt à 5 % l’an dès le 1
+er
+juin 2016, de 2) 1'046 fr. 45 avec intérêt à 5 % l’an dès le 1
+er
+juillet
+2016, de 3) 1'196 fr. 05 avec intérêt à 5 % l’an dès le 1
+er
+août 2016, de 4) 1'196 fr. 05 avec intérêt à 5 % l’an dès le 1
+er
+septembre 2016 et de 5) 170 fr. sans intérêt, indiquant comme titre de la créance ou cause
+de l’obligation :
+« 1.
+Primes LPP mai 2016 (fact. [...]) groupe [...].
+2. Primes LPP juin 2016 (fact. [...]).
+3. Primes LPP juillet 2016 (fact. [...]).
+4. Primes LPP août 2016 (fact. [...]).
+5. Frais de rappels et poursuite. »
+La poursuivie n’a pas formé opposition.
+Le 9 novembre 2016, à la réquisition de la poursuivante, l’Office des poursuites du district
+du Gros-de-Vaud a notifié à la poursuivie une commination de faillite dans la poursuite susmentionnée.
+Par acte du 20 janvier 2017, la poursuivante a requis du Président du Tribunal d’arrondissement
+de la Broye et du Nord vaudois qu’il prononce la faillite de la poursuivie.
+Par courriers recommandés du 23 janvier 2017, le président a notifié la requête à
+la poursuivie et cité les parties à comparaître à l’audience du 21 février
+2017.
+Les parties ont fait défaut à l’audience du 21 février 2017.
+2.
+Par jugement du 21 février 2017, le Président
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, statuant en tant qu’autorité
+de première instance en matière sommaire de poursuites et de faillite, a prononcé la faillite
+de Q.________ Sàrl avec effet au 21 février 2017 à 11 h 50 (I), ordonné la liquidation
+sommaire de la faillite (II) et mis les frais judiciaires, fixés à 200 fr. à la charge
+de la faillie (III). Ce jugement a été notifié à la faillie le 23 février 2017.
+3.
+Par acte du 6 mars 2017, la faillie a recouru
+contre ce jugement en concluant, avec suite de frais et dépens, à son annulation. Elle a requis
+que l’effet suspensif soit accordé au recours et a produit les pièces suivantes :
+-
+une procuration ;
+-
+une copie d’une facture de l’Office des poursuites du district du Gros-de-Vaud du 24 février
+2017 portant sur le solde de la poursuite n° 8'012'327, par 2'331 fr. 30 ;
+-
+une copie d’une quittance de l’Office des poursuites du district du Gros-de-Vaud du 3 mars
+2017 constatant le paiement par la faillie de la somme de 2'331 fr. 95 dans la poursuite n° 8'012'327 ;
+-
+un extrait des registres 8a LP relatif à la faillie faisant état de huit poursuites, dont une
+éteinte, deux payées à l’office et cinq avec la mention faillite pour un montant
+total de 24'295 fr. 70, portant sur des primes d’assurance, des charges sociales et des contributions
+publiques ;
+-
+une copie du bilan et du compte pertes et profits de la faillie au 31 décembre 2015, établis
+par la fiduciaire K.________ SA, mais non signés par celle-ci, faisant état de produits nets
+des ventes de biens et de prestations de services de 378'898 fr. 90, de charges de personnel par 177'776
+fr. 65 et d’une perte de 34'518 fr. 66 ;
+-
+une copie non signée et non certifiée du compte de pertes et profits de la faillie pour la
+période courant du 1
+er
+janvier au 31 décembre 2016, faisant état de produits nets des ventes de biens et de prestations
+de services de 428'284 fr. 10 et de charges de personnels par 115'899 fr. 99 ;
+-
+une copie d’une quittance de déclaration de salaire de [...] Caisse de compensation du 1
+er
+janvier 2017 faisant état d’une masse salariale de la faillie de 135'411 fr. 90 pour l’année
+2016 et quatre employés.
+Le 7 mars 2017, la recourante a produit trois pièces.
+A la réquisition de la cour de céans, l’Office des poursuites du district du Gros-de-Vaud
+a produit le 8 mars 2017 l’extrait des registres 8a LP de la recourante, dont il ressort que celle-ci
+ne faisait plus l’objet que de deux poursuites pour un montant total de 7'615 fr. 20, dont une
+au stade de la requête de continuation et une au stade du commandement de payer.
+Par décision du 8 mars 2017, la Présidente de la cour de céans a admis la requête
+d’effet suspensif et ordonné l’inventaire, ainsi que l’audition de la faillie
+à titre de mesures conservatoires.
+Dans ses déterminations du 4 avril 2017, l’intimée N.________ a relevé que la facture
+en cause avait été réglée le 3 mars 2017.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1), la décision du juge de la faillite peut,
+dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile; RS 272).
+Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours.
+En l’espèce, le recours a été déposé en temps utile, compte tenu du fait
+que le délai de recours, arrivé à échéance le dimanche 5 mars 2017, a été
+reporté au lundi 6 mars 2017 en application de l’art. 142 al. 3 CPC. Motivé dans les
+formes requises, il est ainsi recevable.
+La réponse de l’intimée est également recevable (art. 322 al. 2 CPC).
+b)
+En vertu de l'art. 174 al. 1 2
+ème
+phrase LP, les parties peuvent faire valoir devant l'instance de recours des faits nouveaux lorsque ceux-ci
+se sont produits avant le jugement de première instance. La loi vise ici les faits nouveaux improprement
+dits (faux
+nova
+ou
+pseudo-
+nova
+),
+à savoir qui existaient déjà au moment de l'ouverture de la faillite et dont le premier
+juge n'a pas eu connaissance pour quelque raison que ce soit; ces faits peuvent être invoqués
+sans restriction devant la juridiction de recours pour autant qu'ils le soient dans le délai de
+recours (TF 5A_899/2014 du 5 janvier 2015 consid. 3.1 et les réf. cit., SJ 2015 I 437). Selon la
+jurisprudence, les vrais
+nova
+–
+à savoir les faits qui sont intervenus après l'ouverture de la faillite en première instance
+(art. 174 al. 2 ch. 1-3 LP) – doivent également être produits avant l'expiration du délai
+de recours. L'admission des vrais
+nova
+–
+soumise à une double condition très stricte (cf. Stoffel/Chabloz, Voies d'exécution, 2
+ème
+éd. 2010, p. 274) – est destinée à éviter, et non à permettre, l'ouverture
+de la faillite, de sorte qu'il apparaît conforme à la volonté du législateur de ne
+reconnaître qu'au seul débiteur poursuivi la faculté d'invoquer de tels faits nouveaux
+(TF 5A_899/2014 précité consid. 3.1 et les réf. cit., SJ 2015 I 437). L'octroi d'un délai
+pour se déterminer sur l'extrait du registre des poursuites et des actes de défaut de biens
+requis d'office et versé au dossier n'a pas pour effet de prolonger le délai de recours ni
+d'instituer un délai supplémentaire pour produire des pièces (CPF,
+16
+octobre 2013/409).
+En l’espèce, les pièces produites avec le recours sont recevables. En revanche les trois
+pièces produites le 7 mars 2017, soit hors délai de recours, sont irrecevables, vu les considérations
+qui précèdent, de même que les allégations nouvelles de l’intimée.
+II.
+Selon l’art. 166 al. 1 LP, à l’expiration du délai de vingt jours dès la notification
+de la commination, le créancier peut requérir du juge la déclaration de faillite, en joignant
+à sa demande le commandement de payer et l’acte de commina-tion. Le juge saisi d’une
+réquisition de faillite doit prononcer celle-ci, sauf dans les cas mentionnés aux art. 172
+à 173a LP (art. 171 LP).
+En l’espèce, le délai de l’art. 166 al. 1 LP a été respecté et la
+recourante ne prétend pas que l’un des cas mentionnés aux art. 172 à 173a LP était
+réalisé. C’est donc à juste titre que le premier juge a prononcé la faillite
+de la recourante.
+III.
+Conformément à l'art. 174 al. 2 LP,
+l’autorité de recours peut annuler le jugement de faillite lorsque le débiteur rend vraisemblable
+sa solvabilité et qu'il établit par titre que l'une des conditions suivantes est remplie: la
+dette, intérêts et frais compris, a été payée (ch. 1), la totalité du montant
+à rembourser a été déposée auprès de l'autorité de recours à
+l'intention du créancier (ch. 2) ou le créancier a retiré sa réquisition de faillite
+(ch. 3). Ainsi, le débiteur ne doit pas uniquement prouver le paiement de la dette à l'origine
+de la faillite, mais en outre rendre vraisemblable sa solvabilité (TF 5A_153/2017 du 21 mars 2017
+consid. 3.1 ; 5A_413/2014 du 20 juin 2014 consid. 3 et les arrêts cités). Cette condition ne
+doit pas être soumise à des exigences trop sévères; il suffit que la solvabilité
+apparaisse plus probable que l'insolvabilité (TF 5A_153/2017 précité et les réf.;
+Diggelmann, in Kurzkommentar SchKG, 2e éd., 2014, n° 15 ad art. 174 LP). L'appréciation
+de la solvabilité repose sur une impression générale fondée sur les habitudes de
+paiement du failli (TF 5A_153/2017 précité, consid. 3.1 ; 5A_681/2016 du 24 novembre 2016 consid.
+3.1.1 ; 5A_912/2013 du 18 février 2014 consid. 3; 5A_328/2011 du 11 août 2011 consid. 2, reproduit
+in SJ 2012 I p. 25; 5A_642/2010 du 7 décembre 2010 consid. 2.4; 5A_350/2007 du 19 septembre 2007
+consid. 4.3; Diggelmann, ibid., n° 13); le débiteur doit établir qu'aucune requête
+de faillite dans une poursuite ordinaire, ou dans une poursuite pour effets de change, n'est pendante
+contre lui et qu'aucune poursuite exécutoire n'est en cours (TF 5A_15372017 précité, consid.
+3.1 ; 5A_413/2014 précité consid. 4.1 et les références).
+Dans ce domaine, il ne faut pas poser d'exigences trop sévères, en particulier lorsque la viabilité
+de l'entreprise endettée ne saurait être déniée d'emblée. Il incombe au débiteur
+d'offrir les moyens de preuve propres à rendre vraisemblable sa solvabilité, c'est-à-dire
+qu'il dispose de liquidités suffisantes pour acquitter ses dettes exigibles (TF 5A_328/2011 précité,
+consid. 2 ; Message du Conseil fédéral, du 8 mai 1991, concernant la révision de la loi
+fédérale sur la poursuite pour dettes et la faillite, FF 1991 III p. 130 s.). En principe,
+s'avère insolvable le débiteur qui, par exemple, laisse des comminations de faillite s'accumuler,
+fait systématiquement opposition et ne paie pas même des montants peu élevés. De
+simples difficultés passagères de paiement ne font en revanche pas apparaître insolvable
+le débiteur, à moins qu'il n'y ait aucun indice important permettant d'admettre une amélioration
+de sa situation financière et qu'il semble manquer de liquidités pour une période indéterminée
+(TF 5A_469/2012 du 22 août 2012 consid. 4.1 et les réf. cit.).
+En l’espèce, la recourante fait valoir qu’elle a réduit ses charges salariales,
+ce qui a permis de stabiliser sa situation financière et que le faible montant des poursuites exercées
+contre elle démontre qu’elle n’a laissé sa situation se détériorer que
+durant un bref laps de temps, le manque de liquidités n’apparaissant que passager.
+Il est établi que la recourante a réglé dans le délai de recours l’entier de
+la créance faisant l’objet de la procédure de faillite. La première condition de
+l’art. 174 LP est ainsi réalisée.
+La recourante n’a produit que quatre pièces relatives à sa situation financière.
+II ressort de l’extrait des registre 8a LP qu’à l’échéance du délai
+de recours, la recourante faisait l’objet de poursuite pour un montant de 24'295 fr. 70, portant
+sur des primes d’assurance, des charges sociales et des contributions publiques. Il n’y a
+pas de poursuites de fournisseurs, alors que le produit des ventes de biens atteste que la recourante
+doit en avoir de nombreux. Il n’y a pas davantage de poursuites relatives au loyer des locaux de
+la recourante.
+La recourante a réalisé un chiffre d’affaires de 378'698 fr. 90 en 2015 et de 428'284
+fr. 10 en 2016 et ses charges salariales ont passé de 177'776 fr. 65 en 2015 à 135’341
+fr. 90 en 2016 selon déclaration à la caisse de compensation. Ce dernier chiffre ne ressort
+pas de l’extrait du compte de pertes et profits pour l’année 2016 qui fait état
+d’un montant de 115'899 fr. 99, ce qui laisse penser que le salaire de l’associé gérant
+de la recourante a été déclaré aux organes de l’AVS, mais pas versé. Faute
+de production du bilan au 31 décembre 2016, il n’est pas possible de savoir si l’associé
+gérant fait valoir une telle créance de salaire contre la recourante, s’il y a renoncé
+totalement ou s’il l’a postposée.
+Au vu de ces éléments, même s’il est inquiétant que la recourante ne paie pas,
+ou avec peine, les cotisations sociales et la LPP de ses employés et si la recourante n’a
+produit avec son recours des éléments en définitive assez minces sur sa situation financière
+et ses perspectives, il y a lieu de déduire de l’augmentation de son chiffre d’affaires
+et de la baisse de sa masse salariale que la recourante fait face à des problèmes, mais qu’il
+est possible de considérer qu’avec les efforts de restructuration et d’économies
+de personnel qu’elle a apparemment entrepris, elle soit viable, partant qu’elle ait rendu
+vraisemblable sa solvabilité.
+IV.
+En conclusion, le recours doit être admis et le jugement annulé en ce sens que la faillite
+n’est pas prononcée. Le sort des frais judiciaires de première instance demeure inchangé,
+dès lors qu'au moment où le premier juge a statué, la recourante ne s'était pas acquittée
+de la dette en poursuite, ce qui a entraîné le jugement de faillite.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge de la recourante pour le même motif.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis
+II.
+Le jugement est annulé en ce sens que la faillite de Q.________ Sàrl n’est pas prononcée.
+Il est confirmé pour
+le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante Q.________ Sàrl.
+IV.
+Le jugement est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Astyanax Peca, avocat (pour Q.________ Sàrl),
+‑
+N.________,
+-
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d’Yverdon-les-Bains,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
