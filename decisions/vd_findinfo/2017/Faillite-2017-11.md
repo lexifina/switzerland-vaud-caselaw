@@ -1,0 +1,381 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 11"
+decided: "2017-06-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6100245"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-099.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-170.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 11
+
+## Regeste
+
+NOUVEAU MOYEN DE PREUVE, MESURE PROVISIONNELLE, PROCÉDURE DE FAILLITE | 170 LP, 326 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.06.2017 Faillite / 2017 / 11
+
+NOUVEAU MOYEN DE PREUVE, MESURE PROVISIONNELLE, PROCÉDURE DE FAILLITE | 170 LP, 326 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF12.045568-160773
+84
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 juin 2017
+________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+170 LP ; 326 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+A.________
+SA
+, à [...], et
+E.________
+SA
+, à [...], contre la décision rendue
+le 22 avril 2016 par le Président du Tribunal d’arrondissement de l’Est vaudois, dans
+la cause opposant les recourantes à
+Y.________
+Sàrl
+, devenue
+I.________
+Sàrl
+, à [...], et
+F.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+13 septembre 2012, à la réquisition de F.________, l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut a notifié à A.________ SA, dans la poursuite n° 6'354'717,
+un commandement de payer la somme de 250'000 fr., avec intérêt à 5 % l’an dès
+le 10 septembre 2012, indiquant comme titre de la créance ou cause de l’obligation :
+« Solidairement
+responsable avec A.________ SA, [...],
+Créancier suite : Y.________ Sàrl, [...], [...].
+Remboursement d’un acompte de Fr. 250'000.00 par F.________ à A.________ SA »
+La poursuivie n’a pas formé opposition.
+Le même jour, à la réquisition de F.________, l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut a notifié à A.________ SA, dans la poursuite n° 6'354'707,
+un commandement de payer la somme de 300'000 fr. avec intérêt à 5 % l’an dès
+le 10 septembre 2012, indiquant comme titre de la créance ou cause de l’obligation ;
+« Solidairement
+responsable avec E.________ SA, [...],
+Créancier suite : Y.________ Sàrl, [...], [...].
+Remboursement d’un acompte de Fr. 300'000.00 par Y.________ Sàrl à A.________ SA ».
+La poursuivie n’a pas formé opposition.
+Le même jour, à la réquisition de F.________, l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut a notifié à E.________ SA, dans la poursuite n° 6'354’715,
+un commandement de payer la somme de 250'000 fr., avec intérêt à 5 % l’an dès
+le 10 septembre 2012, indiquant comme titre de la créance ou cause de l’obligation :
+« Solidairement
+responsable avec A.________ SA, [...],
+Créancier suite : Y.________ Sàrl, [...], [...].
+Remboursement d’un acompte de Fr. 250'000.00 par F.________ à E.________ SA »
+La poursuivie n’a pas formée opposition.
+Le même jour, à la réquisition de F.________, l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut a notifié à E.________ SA, dans la poursuite n° 6'354'714,
+un commandement de payer la somme de 300'000 fr. avec intérêt à 5 % l’an dès
+le 10 septembre 2012, indiquant comme titre de la créance ou cause de l’obligation ;
+« Solidairement
+responsable avec A.________ SA, [...],
+Créancier suite : Y.________ Sàrl, [...], [...].
+Remboursement d’un acompte de Fr. 300'000.00 par Y.________ Sàrl à E.________ SA ».
+La poursuivie n’a pas formé opposition.
+b)
+Le
+12 octobre 2012, à la réquisition de F.________, l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut a notifié à A.________ SA et à E.________ SA deux comminations
+de faillite respectivement dans la poursuite n° 6'354'707 et dans la poursuite n° 6'354'715.
+Par requêtes séparées du 6 novembre 2012, F.________ a requis du Président du Tribunal
+d’arrondissement de l’Est vaudois qu’il prononce la faillite respectivement d’A.________
+SA et d’E.________ SA.
+c)
+Sur
+requêtes de mesures provisionnelles et superprovisionnelles déposées le 9 novembre 2012
+par F.________ et Y.________ Sàrl, qui se fondaient sur les poursuites n
+os
+6'354'707 et 6’354'715, le Président du Tribunal d’arrondissement de l’Est vaudois,
+statuant en tant qu’autorité de première instance en matière sommaire de poursuites,
+a, par décisions séparées du 12 novembre 2012 prises en application des art. 162
+ss, 170 LP et 960 al. 1 CC, ordonné au Préposé de l’Office des poursuites du district
+de la Riviera-Pays-d’Enhaut de procéder à l’inventaire des biens respectivement
+d’A.________ SA et d’E.________ SA et ordonné au Conservateur du Registre foncier d’Aigle
+et de la Riviera d’inscrire au registre foncier une restriction d’aliéner des parcelles
+n
+os
+[...] et [...], du cadastre de la Commune de Château-d’Oex, propriété d’A.________
+SA, respectivement n
+os
+[...] et [...] dudit cadastre, propriété d’E.________ SA.
+d)
+Par
+ordonnance rendu le 26 novembre 2012, la Juge déléguée de la Chambre patrimoniale cantonale,
+saisie d’une demande en annulation de poursuite déposée le 31 octobre 2012 par A.________
+SA et E.________ SA contre F.________, a suspendu provisoirement, en application de l’art. 85a
+al. 2 LP, les poursuites n
+os
+6'354'707 et 6'354'715.
+2.
+a)
+Par jugement rendu sous forme de dispositif
+le 25 novembre 2015, la Chambre patrimoniale cantonale a dit qu’E.________ SA doit payer à
+F.________ la somme de 250'000 fr. avec intérêt à 5 % l’an dès le 11 septembre
+2012 (I), qu’A.________ SA doit payer à I.________ Sàrl la somme de 300'000 fr. avec
+intérêt à 5 % l’an dès le 11 septembre 2012 (II), levé définitivement
+les oppositions aux commandements de payer n
+os
+6’607'979 et 6'608'017 à concurrence de ces montants (III-IV) et annulé les poursuites
+n
+os
+6'354'707, 6'354'714, 6'354'715 et 6'354'717 (V). Les parties ont demandé la motivation de ce jugement.
+b)
+Le
+25 janvier 2016, A.________ SA et E.________ SA ont requis du Président du Tribunal d’arrondissement
+de l’Est vaudois la levée des restrictions d’aliéner les parcelles ordonnées
+par les décisions du 12 novembre 2012. Elles ont fait valoir que ces restrictions empêchaient
+la vente prévue de ces parcelles, indiqué qu’elles lui communiqueraient les actes de
+vente et qu’elles se conformeraient à ses instructions pour qu’une sureté/garantie
+équivalente soit consignée.
+Le 11 février 2016, A.________ SA et E.________ SA ont adressé au président quatre projets
+de promesse de vente d’achat conditionnelle portant sur les parcelles n
+os
+[...], [...] et [...] pour un montant de 3'700'000 fr., étant précisé que selon les actes
+précités la parcelle n° [...] serait fractionnée en deux. Il ressort du registre
+foncier que des cédules hypothécaires au porteur d’un capital total de 2'790'000 fr.
+grèvent ces parcelles. L’ampleur des dettes garanties par les gages immobiliers est inconnue.
+Les projets de promesse de vente prévoient comme condition à l’exécution du contrat
+la radiation au 31 mars 2016 des interdictions d’aliéner les immeubles, le notaire conservant
+par devers-lui «
+la
+somme nécessaire à couvrir les prétentions des bénéficiaires de l’annotation,
+ce jusqu’à droit connu de la cause qui les oppose à la promettant venderesse
+».
+Le 15 février 2016, F.________ et Y.________ Sàrl se sont opposés à la levée
+du blocage.
+Le 24 mars 2016, A.________ SA et E.________ SA ont produit une copie certifiée conforme d’un
+acte de vente conditionnelle, au prix de 700'000 fr., de la parcelle n° [...]. Cette parcelle est
+grevée de deux cédules hypothécaires au porteur d’un capital de respectivement 300'000
+fr. et 170'000 francs. Le montant de la dette garantie par ces cédules est inconnu. L’acte
+de vente prévoit que le notaire reçoit mandat de conserver par-devers lui «
+le
+montant nécessaire à garantir les droits du bénéficiaire de l’annotation, ce
+qui permettra la radiation »
+. La vente
+était conditionnée à la radiation de l’interdiction d’aliéner au plus
+tard le 15 avril 2016.
+3.
+Par décision du 22 avril 2016, notifiée
+au conseil d’A.________ SA et d’E.________ SA le 25 avril 2016, le Président du Tribunal
+d’arrondissement de l’Est vaudois, statuant en tant qu’autorité de première
+instance en matière de poursuites, a rejeté en l’état la requête tendant à
+la levée des interdictions d’aliéner les parcelles nos [...], [...] et [...], sises à
+[...] (I), a fixé les frais judiciaires à 200 fr., qu’il a mis à la charge d’A.________
+SA et d’E.________ SA, solidairement entre elles (II) et a dit que celles-ci, solidairement entre
+elles, étaient débitrices de F.________ et d’I.________ Sàrl, créanciers solidaires,
+de la somme de 2'000 fr. à titre de dépens (IIII).
+En bref, le premier juge a considéré que les garanties offertes par A.________ SA et E.________
+SA n’étaient pas suffisantes, faute d’être chiffrées dans les actes de vente
+produits.
+4.
+Par acte du 4 mai 2016, A.________ SA et E.________
+SA ont recouru contre cette décision en concluant, principalement à sa réforme en ce sens
+que leur requête tendant à la levée des interdictions d’aliéner les parcelles
+n
+os
+[...], [...], [...] et [...] est admise (II/1), qu’il est constaté l’annulation des
+poursuites n
+os
+6'354'707 et 6'354'715 (II/2), que la nullité des poursuites n
+os
+6'354'707 et 6'354'715 est constatée (II/3), qu’ordre est donné au Conservateur du Registre
+foncier d’Aigle et de la Riviera de lever et de radier du registre foncier les restrictions du
+droit d’aliéner des parcelles [...], [...], [...] et [...] du cadastre de la Commune de [...]
+(II/4-7), à la mise à la charge des intimés des frais judiciaires (II) et à l’allocation
+de dépens (III). Subsidiairement, les recourantes ont conclu, avec suite de frais et dépens,
+à l’annulation du prononcé.
+Par courrier recommandé du 19 mai 2016, les recourantes ont été invitées à se
+déterminer sur les extraits des registres LP des affaires en cours les concernant, ce qu’elles
+ont fait le 30 mai 2016.
+Par courrier du 10 juin 2016, les recourantes ont requis de la présidente de la cour de céans
+qu’elle garde à juger la cause jusqu’à connaissance de la requête d’attestation
+d’entrée en force partielle du jugement de la Chambre patrimoniale cantonale du 25 novembre
+2015.
+Par courrier du 29 juillet 2016, les recourantes ont produit des attestations de la Juge déléguée
+de la Chambre patrimoniale cantonale des 14 juin et 1
+er
+juillet 2016, confirmant que les chiffres V et VI du jugement de la Chambre patrimoniale cantonale du
+25 novembre 2015 étaient définitifs et exécutoires, dès lors qu’ils n’étaient
+pas concernés par l’appel déposé le 26 mai 2016. Les recourantes ont toutefois indiqué
+que les intimés avaient déposé un appel joint relatif à ces chiffres du dispositif
+et ont estimé qu’il serait opportun d’attendre l’issue que connaîtrait cet
+appel joint pour juger si la présente cause était sans objet.
+Le 27 décembre 2016, la cour de céans a reçu l’arrêt rendu le 27 octobre
+2016 par la Cour d’appel civile du Tribunal cantonal, dont la motivation a été adressée
+aux parties le 30 novembre 2016, rejetant l’appel et l’appel joint interjeté par les
+parties contre le jugement de la Chambre patrimoniale cantonale du 25 novembre 2015, et déclarant
+l’arrêt motivé exécutoire.
+Invitées le 30 décembre 2016 à se déterminer sur la suite à donner à la
+présente procédure au vu de l’arrêt de la Cour d’appel civile susmentionné,
+les recourantes ont répondu le 9 janvier 2017 qu’elles entendaient recourir contre cet arrêt
+et qu’il convenait d’attendre l’éventuel recours des intimés.
+Dans leurs déterminations déposées le 24 février 2017 dans le délai qui leur
+avait été imparti, les intimés F.________ et I.________ Sàrl ont conclu à titre
+préalable à l’irrecevabilité du recours et principalement à son rejet. Ils
+ont fait valoir que la cause n’avait plus d’objet dès lors que les recourantes avaient
+obtenu, par un autre biais, la radiation des restrictions d’aliéner litigieuses. Ils ont produit
+des extraits du registre foncier ne bénéficiant pas de la foi publique relatifs aux parcelles
+en cause, datées du 1
+er
+février 2017.
+En droit
+:
+I.
+a)
+Le recours des art. 319 ss CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272) est ouvert contre les décisions du président
+du tribunal d’arrondissement rendue en application de l’art. 170 LP (loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) (Nordmann, Basler Kommentar,
+vol II, n. 12 ad art. 170 SchKG).
+Interjeté dans le délai de dix jours de l’art. 321 al. 2 CPC et motivé conformément
+à l’art. 321 al. 1 CPC, le recours est formellement recevable.
+b)
+Les
+intimés contestent la recevabilité du recours en soutenant, extraits du registre foncier à
+l’appui, que celui-ci est devenu sans objet de par la radiation des restrictions d’aliéner
+litigieuses.
+Selon l’art. 326 al. 1 CPC, les conclusions, les allégations de faits et les preuves nouvelles
+sont irrecevables. Les dispositions spéciales de la loi sont réservées. Le tribunal de
+deuxième instance doit statuer sur un état de fait identique à celui examiné par
+le premier juge. Cette règle, stricte, s'explique par le fait que l'instance de recours a pour mission
+de contrôler la conformité au droit de la décision entreprise, mais pas de poursuivre
+la procédure de première instance; à l'instar du Tribunal fédéral, l'instance
+de recours doit contrôler la juste application du droit à un état de fait arrêté
+définitivement (Chaix, Introduction au recours de la nouvelle procédure civile fédérale,
+in SJ 2009 II 257 ss, n. 17, p. 267).
+L’art. 326 al. 2 CPC réserve en particulier le recours contre un jugement de faillite pour
+lequel l’art. 174 LP prévoit l’admission sous certaines conditions de preuves nouvelles
+(Jeandin, Code de procédure civile commenté, n. 4 ad art. 326 CPC). Cette exception ne saurait
+cependant s’appliquer aux mesures conservatoires avant faillite de l’art. 170 LP, celles-ci
+n’étant pas de même nature que le prononcé de faillite.
+La jurisprudence réserve en outre le cas prévu par l’art. 99 LTF (loi du 17 juin 2005
+sur le Tribunal fédéral ; RS 173.110) où des faits et des preuves nouvelles résultent
+de la décision de l’autorité précédente (ATF 139 III 466), dans les cas où
+c’est la décision de l’autorité précédente qui, pour la première
+fois, a rendu pertinents ces faits ou moyens de preuve nouveaux, soit notamment ceux qui se rapportent
+à la procédure conduite devant l’autorité précédente, telle une prétendue
+irrégularité affectant la composition de l’autorité ayant rendu la décision
+querellée. En revanche, il ne peut être tenu compte de faits ou de moyens de preuve survenus
+postérieurement au prononcé de la décision entreprise (ATF 139 III 120 consid. 5.1.2).
+Parmi les cas réservés par l’art. 99 LTF se trouve aussi la possibilité d’invoquer
+et de prouver des faits nouveaux qui rendent le recours sans objet (Corboz et alii, Commentaire de la
+LTF, 2
+e
+éd., n. 22 ad art. 99 LTF).
+En l’espèce, les intimés ont produit des extraits du registre foncier attestant que les
+parcelles en cause ne font plus l’objet des restrictions d’aliéner litigieuses. Toutefois,
+l’on ne saurait se fonder sur ces éléments pour considérer que la cause a perdu
+son objet, un recours étant encore possible au Tribunal fédéral.
+Le recours n’est ainsi pas sans objet.
+II.
+a)
+Les recourantes font valoir que les poursuites
+n
+os
+6'354'707 et 6'354'715 ayant donné lieu aux mesures conservatoires litigieuses ont été
+annulées par l’arrêt de la Chambre patrimoniale cantonale du 25 novembre 2015, de sorte
+que ces mesures doivent tomber de par la loi.
+Toutefois, au moment où le premier juge a rendu sa décision, le 22 avril 2016, date déterminante
+pour la prise en compte des faits pertinents (cf. consid. Ib ci-dessus), le jugement de la Chambre patrimoniale
+cantonale n’était pas exécutoire.
+b)
+Les
+recourantes soutiennent que les sûretés offertes en garanties étaient suffisantes.
+Il est exact que les recourantes se sont adressées à plusieurs reprises au premier juge pour
+indiquer que des montants provenant de la vente pouvaient être consignés. Ainsi le 11 février
+2016, le conseil des recourantes a transmis au premier juge des projets d’actes de vente, pour
+que celui-ci puisse constater que le montant de la vente était suffisant pour permettre une consignation
+couvrant la créance des intimés. Le notaire M.________ a également écrit au premier
+juge les 11 et 23 septembre 2015 pour demander quel montant il conviendrait de consigner. Les futurs
+acheteurs ont écrit le 11 janvier 2016, appuyés par le conseil de recourant le 25 janvier 2016.
+Aucune garantie véritable ne résulte toutefois de ces écrits. En particulier, les projets
+d’acte de vente conditionnelle et l’acte de vente conditionnelle ne précisent pas le
+montant qui devait être conservé par le notaire afin de garantir les prétentions des intimés.
+Bien plus, ces projets ne prévoient qu’une instruction donnée au notaire de conserver
+la somme qui serait « nécessaire à garantir les droits du bénéficiaire
+de l’annotation ». Un tel mandat ne constituerait en aucune manière une véritable
+garantie, le vendeur conservant la possibilité de le résilier.
+En définitive, c’est à juste titre que le premier juge a rejeté la requête
+tendant à la levée des mesures litigieuses.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge des recourantes.
+Obtenant gain de cause, les intimés ont droit à des dépens de deuxième instance,
+fixés à 1'500 fr. (art. 3 al. 3 TDC [tarif du 23 novembre 2010 des dépens en matière
+civile ; RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge des recourantes, solidairement entre elles.
+IV.
+Les recourantes A.________ SA et E.________ SA doivent verser, solidairement entre elles, la somme de
+1'500 fr. (mille cinq cents francs) au intimés F.________ et I.________ Sàrl, solidairement
+entre eux.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Christophe Sivilotti, avocat (pour A.________ SA et E.________ SA),
+‑
+Me Bernard Katz, avocat (pour F.________ et I.________ Sàrl),
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
