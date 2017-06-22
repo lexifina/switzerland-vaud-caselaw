@@ -1,0 +1,343 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 17"
+decided: "2017-06-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6131076"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-144.md", "switzerland/bund/acts/281.35/art-026.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 17
+
+## Regeste
+
+PLAINTE{LP}, EXÉCUTION FORCÉE, FRAIS DE POURSUITE, DÉMÉNAGEMENT | 144 LP, 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.06.2017 Plainte / 2017 / 17
+
+PLAINTE{LP}, EXÉCUTION FORCÉE, FRAIS DE POURSUITE, DÉMÉNAGEMENT | 144 LP, 17 LP
+
+TRIBUNAL
+CANTONAL
+FA16.053496-170647
+15
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 juin 2017
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 144 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+M.________
+,
+à [...], et
+D.________
+,
+à [...], contre la décision rendue le 4 avril 2017, à la suite de l’audience du
+23 janvier 2017, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, rejetant la plainte formée par les recourants contre la décision
+du 29 novembre 2016 de l’
+Office
+des poursuites du district de Nyon
+, à Nyon,
+dans la cause opposant les recourants à
+P.________
+,
+à [...],
+Office
+d'impôt du district de Nyon
+, à Nyon,
+I.________
+SA
+, à [...],
+Etat
+de Vaud
+, représenté par le
+Service
+juridique et législatif, Secteur recouvrement, Amendes judiciaires,
+à Lausanne,
+K.________
+Sàrl
+, à [...],
+B.________
+SA
+, à [...], et
+O.________
+AG
+, à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par jugement du 24 mai 2016, le Juge délégué de la Chambre patrimoniale cantonale a notamment
+ordonné à P.________ de libérer d’ici le 29 juillet 2016, de tout bien et de toute
+personne les trois parcelles no [...], [...] et [...] sises à [...], propriété des recourants
+M.________ et D.________.
+Ces derniers ont requis le 29 juillet 2016 l’exécution forcée du jugement. Dans le délai
+imparti par la Chambre patrimoniale cantonale, ils ont effectué une avance de frais présumée
+de 16'000 fr., à raison de 1'200 fr. pour les frais de serrurier et de changement de cylindres,
+14'000 fr. pour les frais de déménagement, d’emballage et de déchetterie et 800
+fr. pour les frais d’huissier, de déplacement et de téléphone.
+L’exécution forcée, intervenue le 3 octobre 2016, a donné lieu à plusieurs
+factures, soit une facture de [...] de 11'810 fr. contenant les indications suivantes « 03.10 :
+emballage vaisselle et divers objets de l’appartement sur site [...] à [...], déplacement
+compris ; 1 camion fournitures avec 3 hommes, 1 jours de travail ; 04.10 et 05.10 : chargement mobilier
+et cartons de l’appartement sis [...], 2è étage à Gland, livraison une partie selon
+instructions au dépôt [...] à [...] pour l’Office des poursuites de Nyon ; suite
+chargement, transport une partie selon instructions au garde-meubles communal de [...] et livraison solde
+pour débarras à la déchetterie de [...], déplacement compris ; 2 camions + monte-meubles
+avec 3 hommes, 2 jours ½ de travail », ainsi que diverses fournitures d’emballages et
+de transport ; une facture d’ [...] serrurerie de 108 fr. pour « forfait intervention journée
+» ; une facture de [...] de 2'000 fr. pour « démontage et livraison d’un billard
+» chez M.________, « équipe de 2 installateurs spécialisés, protection du billard
+par du papier bulle » et des frais d’huissier par 796 francs.
+Par prononcé du 13 décembre 2016, le Juge délégué de la Chambre patrimoniale
+a notamment dit que les frais d’exécution forcée arrêtés à 14'714 fr.
+étaient mis à la charge de P.________ et dit que cette dernière devait rembourser ce montant
+à M.________ et D.________.
+Par arrêt du 6 février 2017, la Chambre des recours civile a rejeté le recours interjeté
+par M.________ et D.________ contre ce prononcé. Elle a notamment considéré que les frais
+d’exécution comprenaient tous les frais nécessaires induits par l’évacuation
+complète du contenu des immeubles dont l’occupation était illicite, ce qui englobait,
+outre les frais d’huissier et de serrurier,  les frais de déménagement et d’entreposage
+ou de dépôt dans trois lieux : garde-meubles, local de l’office des poursuite et surtout
+déchetterie. Si l’Office des poursuites du district de Nyon (ci-après : l’Office)
+en avait profité pour exécuter une saisie sur quelques meubles ayant une valeur de réalisation
+ou le cas échéant, pour déplacer dans ses locaux des meubles déjà saisis mais
+demeurés jusque-là en possession de la débitrice, cela ne réduisait pas véritablement
+les frais forfaitaires de déplacement, soit fixés à la journée, mais le cas échéant,
+cela diminuait au profit des parties les frais d’entreposage en garde-meubles, étant précisé
+que la facturation s’était fondée sur des temps de mise à disposition de main d’œuvre,
+de véhicule et d’engin, ainsi que de fournitures, sans qu’il soit établi ou même
+rendu vraisemblable en l’état du dossier que l’intervention de l’Office ait généré
+un coût supplémentaire. La Chambre des recours civile a dès lors rejeté le moyen
+des recourants, qui faisaient valoir que les frais auraient dû être arrêtés à
+904 fr. dans le cadre de l’exécution forcée et que le solde devait être pris en
+charge ou attribué dans la procédure de saisie ressortant à l’Office.
+2.
+Parallèlement, dans le cadre de la procédure de poursuite n° 7'841’628, l’Office
+a délivré un avis de participation, étant donné que la poursuivie P.________ faisait
+l’objet d’autres poursuites, a procédé à la saisie des biens garnissant le
+domicile de la poursuivie et a invité les recourants à verser une avance de frais de 2'000
+fr. pour prendre sous sa garde les objets saisis.
+Par courrier du 14 septembre 2016, le conseil des recourants a indiqué à l’Office que
+celui-ci n’avait aucune logistique à entreprendre, mais qu’il lui suffisait de se rendre
+sur place le 3 octobre 2016, date fixée par la Chambre patrimoniale cantonale pour l’évacuation
+forcée des locaux, pour s’arranger avec l’huissier de la Chambre patrimoniale cantonale
+pour le déplacement des biens dans les locaux de l’Office et demandait s’il pouvait
+être fait l’économie de l’avance de frais de 2'000 francs.
+Par courriel du 15 septembre 2016, le conseil des recourants a réitéré sa demande et relevé
+que, pour ne pas multiplier les frais, il serait logique de profiter de la logistique mise en place par
+l’autorité judiciaire pour déplacer les biens saisis, faisant valoir qu’il serait
+fâcheux de faire le travail à double, la mise en œuvre de deux entreprises de déménagement
+différentes par des institutions dépendant du Tribunal cantonal et du même département
+(DIS) lui paraissant déraisonnable.
+Par courriel du 21 septembre 2016, l’Office a confirmé avoir organisé le déplacement
+des biens le 3 octobre 2016 avec la collaboration de la Chambre patrimoniale cantonale et confirmé
+qu’aucun versement n’était réclamé à titre d’avance de frais aux
+poursuivants. Il a alors  annulé son mandat de déménagement auprès de la société
+de déménagement [...], qui avait établi un devis le 7 septembre 2016.
+Par courrier du 1
+er
+novembre 2016, le conseil des recourants a demandé à l’Office de répartir les frais
+des opérations susmentionnées à raison de 10 % à la charge de la procédure d’exécution
+forcée pendante devant la Chambre patrimoniale cantonale et à raison de 90 % à la charge
+de la poursuite n° 7'841'628. Il a fait valoir que les 90 % des biens mobiliers avaient été
+déplacés dans les locaux de l’Office. Il a réitéré sa demande par courrier
+du 24 novembre 2016.
+Par courrier du 29 novembre 2016, l’Office lui a répondu que la vente était prévue
+le 16 décembre 2016 et qu’il n’entrerait pas en matière pour les frais d’exécution
+forcée de la Chambre patrimoniale cantonale.
+3.
+Par acte daté du 2 décembre 2016 et
+reçu par le greffe du Tribunal d’arrondissement de la Côte le 5 décembre 2016, les
+recourants ont déposé auprès du président de ce tribunal une plainte contre la décision
+de l’Office du 29 novembre 2016 contenant les conclusions suivantes :
+« I.
+de contraindre l’Office des poursuites du district de Nyon à entrer en matière sur la
+prise en charge des frais d’exécution forcée de la Chambre patrimoniale cantonale.
+II. de calculer, une fois connu le montant précis des frais de déplacement, la part des frais
+à imputer sur les frais de vente de l’Office des poursuites du district de Nyon dans le cadre
+de la poursuite n° 7'841'628.
+III. en conséquence, de rembourser prédits frais aux créanciers M.________ et D.________
+avant la distribution au prorata des dividendes revenant aux créanciers saisissants-participants,
+pour autant que prédits frais soient couverts par le produit de la réalisation. »
+Par prononcé du 7 décembre 2016, la Présidente du Tribunal d’arrondissement de La
+Côte a admis la requête d’effet suspensif déposée par les recourants en ce
+sens qu’ordre est donné à l’Office de ne pas procéder à la distribution
+des dividendes revenant aux créanciers saisissants-participants suite à la vente aux enchères
+fixée au vendredi 16 décembre 2016, jusqu’à droit connu sur la plainte.
+Dans ses déterminations du 13 janvier 2017, l’Office a conclu au rejet de la plainte.
+Dans des déterminations du 18 janvier 2017, les recourants ont conclu à l’admission de
+la plainte et à ce que l’Office soit contraint à prendre en charge les frais d’exécution
+forcée à hauteur de 13'810 fr. sur le produit de la vente brute. Le montant de 13'810 fr. représentait
+les frais de déménagement, par 11'810 fr., et les frais de déplacement d’un billard,
+par 2'000 francs.
+4.
+Par décision dont les considérants écrits
+ont été adressés aux parties le 4 avril 2017, la Présidente du Tribunal d’arrondissement
+de La Côte a rejeté la plainte formée le 2 décembre 2016 par M.________ et D.________.
+En bref, le premier juge a considéré que les opérations ayant donné lieu aux frais
+litigieux avaient été ordonnées par la Chambre patrimoniale cantonale et relevaient de
+la procédure d’exécution forcée ordonnée par cette autorité, que l’Office
+avait profité de cette mise en œuvre pour déplacer quelques meubles afin de les réaliser,
+sans que cela n’entraîne de frais supplémentaires et qu’il ne pouvait être
+déduit du courriel de l’Office du 21 septembre 2016 que l’avance de frais d’exécution
+forcée de l’Office serait couverte par celle de 16'000 fr. réclamée par la Chambre
+patrimoniale cantonale.
+5.
+Par recours du 12 avril 2017, M.________ et D.________
+ont conclu à ce qu’il soit ordonné à l’Office de prendre en charge les frais
+de réalisation qu’il a entrepris à hauteur de 11'259 fr. et de les imputer sur le prix
+de vente (I), de rembourser lesdits frais aux recourants avant distribution au prorata des dividendes
+revenant aux créanciers saisissants-participants (II), et de distinguer les deux procédures
+du 3 octobre 2016 (III). Ils ont produit un bordereau de pièces.
+Par prononcé du 19 avril 2017, la présidente de la cour de céans a admis la requête
+d’effet suspensif contenue dans le recours en ce sens que la distribution des deniers de la poursuite
+n° 7'841'628 est suspendue.
+Dans ses déterminations du 4 mai 2017, l’Office a conclu au rejet du recours.
+En droit :
+I.
+Le recours a été formé en temps utile, dans le délai de dix jours des art. 18 al.
+1 LP (loi du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) et 28 al. 1 LVLP
+(loi du 18 mai 1955 d’application dans la Canton de Vaud de la LP ; RS 280.05). Il comporte
+l’énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte qu’il est recevable.
+Il en va de même des pièces nouvelles produites avec le recours (art. 28 al. 4 LVLP).
+II.
+a)
+Les recourants font valoir que deux procédures distinctes ont été menées au sujet
+de l’immeuble sis [...] à [...], l’une diligentée par l’Office concernant
+le déplacement des biens saisis à l’encontre de P.________ dans le cadre de la réalisation
+forcée, l’autre diligentée par la Chambre patrimoniale cantonale concernant l’expulsion
+forcée de P.________. Les frais de la procédure menée par l’Office s’élèveraient
+à 11'259 fr., ceux de la procédure menée par la Chambre patrimoniale se monteraient à
+1'615 francs. Ils allèguent qu’il était expressément admis aussi bien par la Chambre
+patrimoniale que par l’Office que les frais engendrés seraient imputés proportionnellement
+entre les deux procédures suivant l’affectation des biens mobiliers déplacés.
+b)
+Selon l’art. 144 al. 3 LP, le produit de la réalisation sert en premier lieu à couvrir
+les frais d’administration, de réalisation, de distribution et, le cas échéant,
+d’acquisition d’un objet de remplacement. Font notamment partie des frais d’administration
+les frais liés à la garde des meubles selon l’art. 26 OELP (ordonnance du 23 septembre
+1996 sur les émoluments perçus en application de la LP ; RS 281.35) (Rey-Mermet, Commentaire
+romand, n. 20 ad art. 144 LP) et, de manière générale, tous les frais ayant un lien nécessaire
+avec l’administration des biens saisis, dont l’office des poursuites est responsable (Rey-Mermet,
+op. cit., n. 19 ad art. 144 LP). Les frais de déplacement de biens saisis sont ainsi susceptibles
+de constituer des frais d’administration.
+Il a été jugé que les frais d’une procédure d’expulsion ne constituaient
+pas des frais de poursuite, même si le commandement de payer contenait l’avis comminatoire
+prévu aux art. 265 et 293 aCO (ATF 85 III 54).
+c)
+En
+l’espèce, il résulte de la chronologie des faits que l’exécution forcée
+et le déplacement du mobilier est intervenu sous la responsabilité de la Chambre patrimoniale
+cantonale, qu’en particulier les frais de déménagement ont été requis par cette
+autorité et constituent des débours de la procédure d’exécution forcée
+et non des frais relatifs à la procédure de saisie, comme l’a déjà considéré
+la Chambre des recours civile, dont l’appréciation peut être confirmée. Certes,
+une partie des meubles a été déplacée dans les locaux de l’Office, mais ces
+frais auraient de toute manière dû être assumés si ces biens avaient dû être
+transportés ailleurs et les recourants n’établissent pas que ces frais auraient été
+inférieurs en cas de déplacement dans d’autres locaux, respectivement que l’intervention
+de l’Office aurait engendré des frais supplémentaires. Il en va en particulier ainsi
+des frais de déplacement du billard, dès lors que ce déplacement devait intervenir dans
+tous les cas dans le cadre de la procédure d’expulsion.
+Par ailleurs, cette chronologie ne permet pas de confirmer l’allégation des recourants, selon
+laquelle il serait expressément admis aussi bien par la Chambre patrimoniale cantonale que par l’Office
+que les frais engendrés seraient imputés suivant l’affectation des biens mobiliers déplacés.
+Au contraire, la Chambre patrimoniale cantonale a considéré que l’entier des frais devait
+être imputé à la procédure d’exécution forcée, ce qui a été
+confirmé par la Chambre des recours civile et aucune pièce au dossier ne permet de retenir
+que l’Office aurait admis une répartition suivant l’affectation des biens mobiliers
+déplacés. Le seul fait que l’Office ait indiqué par courriel du 21 septembre 2016
+avoir organisé le déplacement des biens le 3 octobre 2016 avec la collaboration de la Chambre
+patrimoniale cantonale ne signifie pas qu’il aurait admis que les frais devaient être répartis
+entre les deux procédures.  Au contraire, l’Office a annulé la demande d’avance
+de frais, ce qui démontre qu’il considérait que tous les frais seraient pris en charge
+dans le cadre de la procédure d’exécution forcée menée parallèlement.
+Il en résulte que les recourants ne sauraient se prévaloir du principe de la bonne foi, pour
+mettre à la charge de la procédure de saisie tout ou partie des frais de déplacement du
+mobilier. De même, le principe d’égalité de traitement n’est pas violé,
+dès lors que les recourants auraient été amenés à supporter les mêmes frais
+si seule la procédure d’exécution forcée était intervenue. Au contraire, ils
+ont évité de devoir payer l’avance de frais initialement requise par l’Office,
+avance qu’ils auraient dû effectuer si un déménageur avait également dû
+intervenir parallèlement dans le cadre de la procédure de saisie, ce qui aurait engendré
+des frais supplémentaires. Enfin, il importe peu que, si aucune procédure d’exécution
+forcée n’était intervenue, les frais de déplacement auraient été considéré
+comme frais d’administration et auraient été supportés par l’ensemble des
+créanciers, puisque tel n’a précisément pas été le cas. Le grief de violation
+du principe d’égalité de traitement est dès lors infondé.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2
+OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Pierre-Yves Zurcher, agent d’affaires breveté (pour M.________ et D.________),
+‑
+Mme P.________,
+–
+Office d'impôt du district de Nyon,
+–
+I.________ SA,
+–
+Service juridique et législatif, Secteur recouvrement, Amendes judiciaires (pour Etat de Vaud),
+–
+K.________ Sàrl,
+–
+M. Jean-François Pfeiffer, agent d’affaires breveté (pour B.________ SA),
+–
+O.________ AG,
+-
+M. le Préposé à l’Office des poursuites du district de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+Le greffier :
