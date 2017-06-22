@@ -1,0 +1,310 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 16"
+decided: "2017-06-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6131402"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-087.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-077.md", "switzerland/bund/acts/281.1/art-162.md", "switzerland/bund/acts/281.1/art-170.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 16
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, PAIEMENT | 172 ch. 3 LP, 174 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.06.2017 Faillite / 2017 / 16
+
+OUVERTURE DE LA FAILLITE, PAIEMENT | 172 ch. 3 LP, 174 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FF17.009176-170568
+152
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 juin 2017
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+172 ch. 3, 174 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+D.________
+,
+à [...], contre le jugement rendu le 23 mars 2017, à la suite de l’audience du même
+jour, par la Présidente du Tribunal d’arrondissement de Lausanne, prononçant la faillite
+du recourant à la réquisition d’
+A.________
+SA
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 24 novembre 2016, à la réquisition d’A.________ SA, l’Office des poursuites
+du district de Lausanne a notifié à D.________, dans la poursuite n° 8'082'746, un commandement
+de payer les sommes de 1'871 francs 20, avec intérêt à 5 % l’an dès le 7 novembre
+2016, de 240 fr. sans intérêt et de 37 fr. 15 sans intérêt, indiquant comme titre
+de la créance ou cause de l’obligation :
+« 1.
+Primes LAMal 05.2016-08.2016
+2. Frais administratifs
+3. Intérêts échus. »
+Le poursuivi a formé opposition totale.
+Le 26 janvier 2017, à la réquisition de la poursuivante, l’Office des poursuites du district
+de Lausanne a notifié au poursuivi une commination de faillite dans la poursuite susmentionnée.
+Par acte du 28 février 2017, la poursuivante a requis du Président du Tribunal d’arrondissement
+de Lausanne qu’il prononce la faillite du poursuivi.
+Par courriers recommandés du 2 mars 2017, la présidente a notifié la requête au poursuivi
+et cité les parties à comparaître à l’audience du 23 mars 2017.
+2.
+Par jugement rendu par défaut des parties
+le 23 mars 2017, notifié au poursuivi le lendemain, la Présidente du Tribunal d’arrondissement
+de Lausanne a prononcé la faillite du poursuivi avec effet le 23 mars 2017 à 11 h 15 (I) et
+a mis les frais, par 200 fr., à la charge du failli (II).
+3.
+Par acte daté du 1
+er
+avril 2017 et remis à la poste le lendemain, le failli a recouru contre ce jugement en concluant
+à l’annulation de la décision de faillite. Il a requis que l’effet suspensif soit
+accordé au recours et a produit les pièces suivantes :
+-
+une copie de son certificat d’assurance 2016 établi par la poursuivante le 16 octobre 2015
+indiquant une prime mensuelle de 494 fr. 80 pour l’assurance obligatoire des soins ;
+-
+une copie d’une décision de l’Office vaudois de l’assurance maladie du 15 décembre
+2016 accordant au recourant un subside mensuel de 251 fr. pour les périodes courant du 1
+er
+novembre au 31 décembre 2015, du 1
+er
+janvier au 31 décembre 2016 et du 1
+er
+janvier 2017 à la prochaine révision et indiquant que le montant des subsides serait versé
+directement à l’assureur-maladie, qui avait été informé de la décision ;
+-
+une copie du commandement de payer dans la poursuite n° 8'082'746, déjà produit par la
+poursuivante ;
+-
+une copie du commandement de payer les sommes de 1'871 fr. 20 avec intérêt à 5 %
+l’an dès le 4 juillet 2016, de 240 fr. sans intérêt et de 36 fr. 50 sans intérêt,
+notifié au recourant à la réquisition de la poursuivante par l’Office des poursuites
+du district de Lausanne dans la poursuite n° 7'941'468 indiquant comme titre de la créance
+ou cause de l’obligation :
+« 1
+Primes LAMal 01.2016-04.2016
+2. frais administratif
+3. intérêts échus. »
+-
+une copie d’une quittance de l’Office des poursuites du district de Lausanne du 14 décembre
+2016, attestant du versement par le failli de la somme de 2'349 fr. 85 dans la poursuite n° 7'941'468 ;
+-
+une copie du commandement de payer les sommes de 1'811 fr. 20 avec intérêt à 5 %
+l’an dès le 7 mars 2016, de 240 fr. sans intérêt et du 35 fr. 35 sans intérêt,
+notifié le 11 mars 2016 au recourant à la réquisition de la poursuivante par l’Office
+des poursuites du district de Lausanne dans la poursuite n° 7'815’164 indiquant comme titre
+de la créance ou cause de l’obligation :
+« 1
+Primes LAMal 09.2015-12.2015
+2. frais administratif
+3. intérêts échus. » ;
+-
+une copie d’une quittance de l’Office des poursuites du district de Lausanne du 24 août
+2016, attestant du versement par le failli de la somme de 2'338 fr. 80 dans la poursuite n° 7'815'164.
+Par décision du 4 avril 2017, la présidente de la cour de céans a admis la requête
+d’effet suspensif et a ordonné, à titre de mesures conservatoires, l’inventaire
+et l’audition du failli.
+A la réquisition de la cour de céans, l’Office des poursuites du district de Lausanne
+a produit le 3 avril 2017 l’extrait des registres 8a LP du recourant. Celui-ci s’est déterminé
+sur cet extrait le 17 avril 2017.
+L’intimée A.________ SA ne s’est pas déterminée sur le recours dans le délai
+qui lui a été imparti.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1), la décision du juge de la faillite peut,
+dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile; RS 272).
+Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours.
+En l’espèce, le recours, déposé en temps utile et motivé dans les formes requises,
+est recevable.
+b)
+Aux
+termes de l’art. 326 al. 1 CPC, les conclusions, les allégations de faits et les preuves nouvelles
+sont irrecevables en procédure de recours. Toutefois, l’art. 326 al. 2 CPC réserve les
+dispositions spéciales de la loi, par quoi il faut entendre non seulement les règles de procédure
+mais toute norme de droit fédéral (Spühler, in Spühler/Tenchio/Infanger (éd.),
+Basler Kommentar, ZPO, 2
+e
+éd., 2013, n. 3 ad art. 326 ZPO [CPC]). En particulier, cette réserve vise les règles
+spécifiques de la LP, dont l’art. 174 LP qui régit le recours contre le jugement de faillite
+(Jeandin, Code de procédure civile commenté, n. 4 ad art. 326 CPC ; TF 5A_230/2011 du 12 mai
+2011 consid. 3.2.1). La production de pièces nouvelles en deuxième instance est ainsi autorisée
+en matière de faillite pour faire valoir des faits nouveaux lorsqu’ils se sont produits avant
+le jugement de première instance (art. 174 al. 1 LP) ou, si les pièces se rapportent à
+des faits intervenus depuis l’audience de faillite, pour rendre vraisemblable la solvabilité
+du débiteur et établir que celui-ci a payé sa dette, intérêts et frais compris,
+ou qu’il a déposé la totalité du montant à rembourser auprès de l’autorité
+judiciaire supérieure à l’intention du créancier, ou que ce dernier a retiré
+sa réquisition de faillite (art. 174 al. 2 ch. 1 à 3 LP ; TF 5A_899/2014 du 5 janvier 2015
+consid. 3.1 et les références citées ; CPF 4 décembre 2013/479). Ainsi, les
+deux parties peuvent alléguer des faits qui se sont produits avant le prononcé de faillite
+et produire des titres aux fins d’établir ces faits. En revanche, seul le débiteur peut
+produire des titres pour établir les faits énumérés limitativement à l’art.
+174 al. 2 ch. 1 à 3 LP (CPF 28 juin 2016/155).
+Les pièces produites par le recourant débiteur sont antérieures au jugement de première
+instance et sont donc recevables.
+II.
+a)
+Selon les art. 171 et 172 LP, le juge saisi
+d’une réquisition de faillite prononce celle-ci, à moins que l’autorité de
+surveillance n’ait annulé la commination (art. 172 ch. 1 LP), que le débiteur ne se trouve
+au bénéfice de l’opposition tardive de l’art. 77 LP ou qu’il ait obtenu la
+restitution d’un délai en application de l’art. 33 al. 4 LP (art. 172 ch. 2 LP), ou
+encore que le débiteur ne justifie par titre que la créance a été acquittée
+en capital, intérêts et frais ou que le créancier lui a accordé un sursis (art. 172
+ch. 3 LP).
+La preuve par titre du paiement étant exigée par l’art. 172 ch. 3 LP, l’extinction
+de la dette à l’origine de la faillite doit être établie au degré de la certitude,
+à l’instar de ce que requièrent les art. 81 al. 1 et 85 LP (Cometta, in Dallèves/Foëx/Jeandin
+(éd.), Commentaire romand, Poursuite et faillite, n. 6 ad art. 172 LP ; Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, nn. 20-22 ad art. 172 LP).
+Peu importe que le paiement ait été opéré en mains de l’office ou du poursuivant
+(Gilliéron, op. cit., n. 23 ad art. 172 LP).
+Le
+recourant peut fait valoir que le jugement de faillite n’était pas justifié au besoin
+en invoquant des faits existant au moment du jugement de faillite, mais non portés à la connaissance
+du juge de la faillite (pseudo-nova). Il peut ainsi établir que le montant réclamé par
+la poursuivante avait été intégralement payé avant l’audience de faillite et
+le prononcé de faillite. En effet, s’il en avait eu connaissance avant l’audience, le
+premier juge n’aurait pas prononcé la faillite, en vertu de l’art. 172 ch. 3 LP (Bosshard,
+Le recours contre le jugement de faillite, JdT 2010 II 126 ; CPF 7 août 2008/370 ; CPF 12 février
+2013/61).
+Pour pouvoir résister avec succès à la faillite, le failli doit établir qu’il
+a payé non seulement la dette, mais aussi les intérêts de la dette et les frais. Par frais,
+on entend ceux relatifs au commandement de payer et à la commination de faillite, les éventuels
+frais d’inventaire (art. 162 LP) et de mesures conservatoires (art. 170 LP), outre l’émolument
+et les dépens de l’éventuelle procédure sommaire de mainlevée d’opposition
+; s’y ajoute l’émolument de justice pour la décision sur la requête de faillite.
+Il appartient au poursuivi de se renseigner, dans la mesure où les frais qu’il doit payer
+ne sont pas indiqués dans le commandement de payer (Gilliéron, op. cit., n. 25 ad art. 172
+LP ; CPF 28 juin 2016/155).
+b)
+Se prévalant de pièces nouvelles recevables, le recourant soutient que la créance à
+l’origine de la poursuite aurait été réglée avant le prononcé de la faillite.
+La commination de faillite portait sur des primes LAMal de mai à août 2016 pour un montant
+de 1871 fr. 20, plus intérêt à 5% l’an dès le 7 novembre 2016. Il était
+mentionné que les frais administratifs s’élevaient à 240 fr., les intérêts
+échus à 37 fr. 15  et les frais de commandement de payer et de commination de faillite
+à 120 francs 95.
+Il est établi par les pièces produites les éléments suivants :
+-
+le recourant a réglé le 24 août 2016 un montant de 2'338 fr. 80 en règlement de la
+poursuite no 7815164, qui portait sur les primes LAMal de septembre à décembre 2015 ;
+-
+il a réglé le 14 décembre 2016 un montant de 2'349 fr. 85, en règlement de la poursuite
+no 7941468, qui portait sur les primes LAMal de janvier à avril 2016 ;
+-
+par prononcé du 15 décembre 2016, l’Office de l’assurance-maladie a accordé
+à D.________ un subside mensuel de 251 fr. par mois pour les périodes du 1
+er
+novembre 2015 à décembre 2015, ainsi que du 1
+er
+janvier 2016 au 31 décembre 2016 et du 1
+er
+janvier 2017 à la prochaine révision. La décision précisait que le montant des subsides
+serait versé directement à l’assureur-maladie par l’office ;
+-
+selon les commandements de payer, les primes s’élevaient à 452 fr. 80 (1811 fr. 20 :
+4) en 2015 et à 467 fr. 80 (1871 fr. 20 : 4) en 2016.
+On peut retenir que l’Office de l’assurance-maladie a directement réglé les subsides
+rétroactifs à l’assureur maladie, qui n’a pas contesté ce point et a été
+informé de la décision.
+Les subsides rétroactifs versés pour la période de novembre 2015 à août 2016
+représentent un montant de 2'510 fr. (251 fr. x 10).
+A cet égard, l’imputation faite des subsides versés sur les primes litigieuses de mai
+à août 2016 est conforme à la règle de l’art. 87 al. 1 CO, dès lors que
+le paiement des primes antérieures avait été soldé par les règlements antérieurs
+des 24 août 2016 et 14 décembre 2016.
+Cette somme de 2'510 fr. couvre le montant dû pour le capital (1'871 fr. 20), les frais administratifs
+(240 fr.), les intérêts échus (37 fr. 15) et les frais de commandement de payer et de
+commination de faillite (120 fr. 95), voire les frais de faillite (200 fr.) soit 2'469 fr. 30.
+Il y a dès lors lieu de considérer que la preuve du paiement par titre a été apportée,
+de sorte que le recours doit être admis, sans qu'il y ait lieu d'examiner la vraisemblance de la
+solvabilité du recourant (TF 5A_571/2010 du 21 juin 2010 consid. 2.3, publié in SJ 2011 I p.
+149).
+III.
+En conclusion, le recours doit être admis
+et le jugement réformé en ce sens que la faillite n’est pas prononcée. Le sort des
+frais judiciaires de première instance demeure inchangé, dès lors qu'au moment où
+le premier juge a statué, le recourant n’avait pas établi s’être acquitté
+de la dette en poursuite, preuve qui lui incombait en vertu de l’art. 172 ch. 3 LP, ce qui a entraîné
+le jugement de faillite (CPF 12 février 2013/61).
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant pour le même motif.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est réformé en ce sens que la faillite de D.________ n’est pas prononcée.
+Il est confirmé pour
+le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant D.________.
+IV.
+Le jugement est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. D.________,
+‑
+A.________ SA,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 Ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
