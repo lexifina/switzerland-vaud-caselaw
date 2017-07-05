@@ -1,0 +1,422 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 19"
+decided: "2017-07-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6150542"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/272/art-191.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/272/art-256.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-252.md", "switzerland/bund/acts/281.1/art-253.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/281.1/art-293a.md", "switzerland/bund/acts/281.1/art-293d.md", "switzerland/bund/acts/281.1/art-296b.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 19
+
+## Regeste
+
+SURSIS CONCORDATAIRE, DROIT À LA PREUVE, APPRÉCIATION ANTICIPÉE DES PREUVES, REJET DE LA DEMANDE | 29 al. 2 Cst., 293a al. 3 LP, 293d LP, 256 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.07.2017 Faillite / 2017 / 19
+
+SURSIS CONCORDATAIRE, DROIT À LA PREUVE, APPRÉCIATION ANTICIPÉE DES PREUVES, REJET DE LA DEMANDE | 29 al. 2 Cst., 293a al. 3 LP, 293d LP, 256 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FV17.010840-170706
+153
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 juillet 2017
+_________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+293a al. 3, 293d LP ; 29 al. 2 Cst., 256 al. 1 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+X.________
+SA
+, au [...], contre la décision rendue le
+11 avril 2017, par le Président du Tribunal d’arrondissement de la Broye et du Nord vaudois,
+rejetant la requête de sursis de la recourante.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+X.________ SA est une société inscrite au Registre du commerce depuis le [...] 2003, dont le
+but est la vente de produits de luxe de toutes sortes ainsi que la fabrication de [...] et autres produits
+similaires. Son capital-actions, entièrement libéré, s’élève à 588'000
+francs.
+2.
+a)
+Le 15 février 2017, la Banque B.________
+a requis du Président du Tribunal d’arrondissement de la Broye et du Nord vaudois qu’il
+prononce la faillite sans poursuite préalable de X.________ SA.
+Par courriers recommandés du 17 février 2017, le président a notifié la requête
+à X.________ SA et a cité les parties à comparaître à l’audience du 14
+mars 2017.
+b)
+Par
+requête du 14 mars 2017 adressée au Président du Tribunal d’arrondissement de la
+Broye et du Nord vaudois, X.________ SA a pris les conclusions suivantes :
+« I.
+Préalablement, les poursuites en cours contre X.________ SA sont suspendues, avec effet immédiat,
+et toutes les requêtes de faillite pendantes ou à venir contre X.________ SA sont ajournées ;
+II.              Un sursis provisoire
+de quatre mois est octroyé ;
+III.              Un commissaire provisoire
+est nommé en la personne de D.________, agent d’affaires breveté, [...], [...].
+IV              A l’issue du sursis
+provisoire, un sursis définitif de six mois est octroyé ;
+V.              Un commissaire au sursis
+définitif est nommé en la personne de D.________, agent d’affaires breveté, [...],
+[...]. »
+A l’appui de cette requête, X.________ SA a produit les pièces suivantes :
+-
+un extrait du Registre du commerce la concernant ;
+-
+un extrait du Registre du commerce concernant V.________ SA ;
+-
+un dossier relatif à la marque J.________, dont il ressort notamment que le prix moyen des produits
+est de 220'000 fr. l’unité, que le « Break Even » est atteint avec la
+vente de vingt-trois produits, qu’elle propose à la vente quatre produits, et qu’un
+nouveau produit doit être lancé au mois de septembre 2017 ;
+-
+un bilan au 31 décembre 2013 et 2014, ainsi qu’un compte de profits et pertes « résumé »
+pour les exercices 2013 et 2014 de X.________ SA, établis par la C.________ SA, laissant apparaitre
+une perte  de 108'925 fr. 84 en 2013 et un bénéfice 60'686 fr. 20 en 2014, la perte à
+reporter pour cette dernière année étant de 48'239 fr. 64 ;
+-
+un bilan au 31 décembre 2015 et un compte de profits et pertes pour l’année 2015 faisant
+état d’une perte de 154'351 fr. 75 ;
+-
+un extrait des registres 8a LP relatif à X.________ SA, faisant état de poursuites pour un
+montant total de 1'541'708 fr. 80 et d’actes de défaut de biens pour un montant total de 100'248
+fr. 80 pour des créances de la Caisse AVS de la Fédération Patronale Vaudoise d’un
+montant de 68'619 fr. 85, de l’Administration fédérale des contributions et de l’Office
+cantonal d’impôt pour les personnes morales ;
+-
+un projet provisionnel de bilan au 31 décembre 2016 établi le 14 mars 2017 par X.________ SA,
+faisant état d’actifs pour un montant de 3'802'309 fr. 77 dont 2'364'347 francs 43 de « Stocks
+et travaux en cours » et 1'292'000 fr. de « frais développement activité »
+à titre d’immobilisations incorporelles. Sous la rubrique « Passifs »,
+le projet de bilan comporte une sous-rubrique « dettes à court terme » libellée
+comme il suit :
+« Créanciers
+115'747.71
+Créanciers collectifs-fourniss
+338.58
+Salaires net à payer
+165'042.94
+Allocations familiales
+(8'500.00)
+Caisse AVS
+(44'537.00)
+LAA
+11'009.15
+LIM
+10'811.30
+LPP
+139'121.80
+Impôt source
+2'656.25
+Dettes organismes sociaux
+102'719.75
+Total Dettes à court termes
+494'410.48 »
+-
+un projet provisionnel de compte Pertes et profits pour l’année 2016 établi par X.________
+SA le 14 mars 2017, faisant état d’une perte de 32'214 fr. 36 ;
+-
+une copie de la citation à comparaître du 17 février 2017 à l’audience du 14
+mars 2017 ;
+-
+un budget prévisionnel et plan de trésorerie 2017 indiquant une dette totale de 1'432'338 fr.
+11 et l’amortissement de celle-ci sur 21 mois à raison de 204'619 fr. 73 par trimestre ;
+-
+une procuration.
+Dans sa requête, X.________ SA a allégué, avec comme mode de preuve son interrogatoire,
+qu’elle avait rencontré dès l’année 2014 d’importants problèmes
+de qualité, entraînant le retour de produits vendus, qu’elle avait été contrainte
+de mettre en place des mesures urgentes de correction, dès le début de l’année 2015,
+entraînant d’importants coûts supplémentaires et empêchant l’ouverture
+de nouveaux marchés, que les problèmes de qualité avaient néanmoins perduré
+en 2015 et durant le premier semestre 2016, avec comme impact un ralentissement des ventes et des problèmes
+de trésorerie, particulièrement en 2016, et qu’elle avait alors, à titre de mesures
+de redressement, décidé le changement de l’équipe de production et de développement,
+sans qu’il soit possible de résorber l’ensemble des problèmes de trésorerie
+(allégués 10 à 17).
+X.________ SA a en outre allégué ce qui suit :
+« 26)
+S’agissant des comptes débiteurs actionnaires, portés au passif pour
+fr.
+2'533'622.37
+, ceux-ci feront l’objet très
+prochainement de convention de postposition. Preuve : interrogatoire de la requérante. »
+« 29)
+Pour l’assainissement de la société, X.________ SA est en discussions avec des sociétés
+tierces, en vue d’une recapitalisation, respectivement notamment d’une cession d’actifs,
+soit le poste « recherche et développement » porté au bilan pour
+fr.
+1'292'000.--
+. Ces démarches de refinancement
+seront effectives d’ici à fin juin prochain. Preuve : interrogatoire de la requérante.
+30) Celles-ci permettront le cas échéant le règlement intégral des créanciers
+admis (à l’exception des créances contestées). Preuve : interrogatoire de la
+requérante + pièce no 11)
+31) Pour la suite, X.________ SA entrevoit une activité en cours de relance, permettant le maintien
+de l’emploi de onze salariés, avec des résultats de croissance qui se feront sentir dans
+le courant de l’année 2017. Preuve : interrogatoire de la requérante.
+32) Depuis le lancement d’un nouveau site internet en mai 2014, 14 [...] ont été livrées,
+et une seule est revenue pour un défaut de qualité. Le lancement d’un nouveau produit
+est également prévu pour le mois de septembre 2017. Preuve : interrogatoire de la requérante. »
+c)
+Les
+parties ont comparu à l’audience de faillite sans poursuite préalable du 14 mars 2017.
+Le président a, d’entente avec les parties, renvoyé l’audience au vu du dépôt
+de la requête de sursis provisoire.
+3.
+Par décision du 11 avril 2017, notifiée
+à X.________ SA le lendemain, le Président du Tribunal d’arrondissement de la Broye et
+du Nord vaudois, statuant en tant qu’autorité de première instance en matière sommaire
+de poursuites et de faillite, a rejeté la requête de sursis provisoire-définitif du 14
+mars 2017 de X.________ SA (I), a dit que la reprise de l’audience de faillite sans poursuite préalable
+serait fixée dès la présente décision définitive et exécutoire (II) et
+a fixé les frais judiciaires à 400 fr. à la charge de X.________ SA (III). En résumé,
+le premier juge a considéré que, si la requérante avait fourni les documents énumérés
+à l’art. 293 let. a LP, il n’y avait pas d’élément tangible permettant
+de croire que des perspectives d’assainissement ou d’homologation d’un concordat n’étaient
+pas exclues. En effet, la requérante n’avait apporté aucune indication concrète
+relative au projet de recapitalisation, respectivement de cession d’actifs à hauteur de 1'292'000
+fr., à savoir des transactions formelles confirmant cette information ou une éventuelle déclaration
+d’intention d’un acquéreur et qu’il en était de même de l’éventuelle
+postposition des comptes débiteurs actionnaires. Au demeurant, aucune comptabilité concluante
+ni budget établi ne permettait de prévoir un plan d’assainissement, le budget prévisionnel
+et plan de trésorerie 2017 produit ne contenant aucune indication sur la manière dont les dettes
+mentionnées seraient amorties, ni sur la mise en place d’éventuelles mesures d’économie.
+En outre la requérante n’avait pas entrepris de démarches auprès de ses créanciers
+et n’avait produit aucune déclaration d’abandon de créance. Par ailleurs, aucun
+élément concret comme des bons de commandes n’attestait d’une reprise d’activité..
+En l’absence de documents attestant d’un plan d’assainissement, il était impossible
+de vérifier les déclarations de la requérante et, partant de statuer en connaissance de
+cause, l’octroi du sursis ne pouvant se fonder que sur des allégations, étant précisé
+que la situation financière de la requérante apparaissait particulièrement obérée,
+au vu de montant total des poursuites dirigées contre elle.
+4.
+Par recours du 24 avril 2017, X.________ SA a
+conclu avec suite de dépens à la réforme de la décision en ce sens qu’un sursis
+provisoire de quatre mois est octroyé à X.________ SA et qu’un commissaire provisoire
+est nommé en la personne de l’agent d’affaires breveté D.________, subsidiairement
+à son annulation.
+En droit
+:
+I.
+a)
+La
+procédure sommaire s'applique aux décisions rendues en matière de concordat (art. 251
+let. a CPC [Code de procédure civile du 19 décembre 2008; RS 272]). La voie du recours des
+art. 319 ss CPC est ouverte, à l'exclusion de celle de l'appel, contre ces décisions (art.
+309 let. b ch. 7 et 319 let. a CPC).
+En vertu de l'art. 293d LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite ; RS 281.1), l'octroi du sursis provisoire et la désignation d'un commissaire provisoire
+ne peuvent pas faire l'objet d'un recours. Cela signifie que les créanciers n'ont aucune voie de
+recours dans le cadre du sursis provisoire. Cela est dû au fait que la procédure est unilatérale;
+les créanciers ne sont pas auditionnés (Message, in FF 2010 VI p. 5898). On déduit cependant
+a contrario de la même disposition que le refus de sursis provisoire peut faire l'objet d'un recours
+du débiteur - voire du créancier (art. 293 let. b LP) - dont la requête a été
+rejetée (Hunkeler, Kurzkommentar SchKG, 2
+e
+éd., n. 5 ad art. 293d LP ; CPF 9 juillet 2015/187)
+La procédure de sursis provisoire sur requête du débiteur est une procédure unilatérale
+(Stoffel/Chabloz, Voies d’exécution, 3
+e
+éd., §12 nn. 83 et 88 pp. 414-415), de sorte que le créancier requérant à la
+faillite sans poursuite préalable n’a pas qualité de partie, contrairement au cas où
+le créancier requiert le sursis provisoire (Hunkeler, op. cit., n. 3 ad art. 293d LP). Il n’y
+dès lors pas lieu d’impartir un délai à la Banque B.________ pour se déterminer.
+II.
+La recourante fait valoir qu’en ne fixant pas d’audience, alors qu’elle avait offert
+la preuve par interrogatoire de la partie, le premier juge aurait violé son droit d’être
+entendu.
+a)
+Le droit d'être entendu est une garantie constitutionnelle de caractère formel, dont la violation
+doit en principe entraîner l'annulation de la décision, indépendamment des chances de
+succès du recours sur le fond (ATF 135 I 187 consid. 2.2 ; TF 5A_741/2016 du 6 décembre 2016
+consid. 3.1.2 ; TF 4A_453/2016 du 16 février 2017 consid. 4.2.2). Le grief doit dès lors être
+examiné en premier lieu.
+b)
+La requête de sursis provisoire est soumise à la procédure sommaire (art. 251 let. a CPC
+; Stoffel/Chabloz, op. cit., § 12 n. 88 p. 415). Elle  est introduite par une requête
+(art. 252 LP).  Dès lors qu’il s’agit d’une procédure unilatérale,
+il n’y a pas lieu de donner au créancier ayant requis la faillite l’occasion de se déterminer
+selon l’art. 253 LP. La preuve est en principe rapportée par titres (art. 254 al. 1 CPC),
+d’autres moyens de preuve étant admissibles si leur administration ne retarde pas sensiblement
+la procédure, si le but de la procédure l’exige ou si le tribunal établit les faits
+d’office (art. 254 al. 2 CPC).  Tel est notamment le cas en matière de concordat (art.
+255 let. a CPC), le code visant dans cette disposition toutes les affaires énoncées à
+l’art. 251 let. a CPC, parmi lesquelles celles relatives au sursis (Mazan, Basler Kommentar, 2
+e
+éd., n. 3 ad art. 255 CPC et n. 9 ad art. 251 CPC). Selon l’art. 256 al. 1 CPC, le tribunal
+peut renoncer aux débats et statuer sur pièces, à moins que la loi n’en dispose
+autrement. Il y a lieu de tenir compte du fait que le sursis concordataire doit intervenir « sans
+délai », soit le plus rapidement possible, de sorte que la décision doit être prise,
+dans la mesure du possible, sans audience (Hunkeler, op. cit.,12 ad art. 293a LP).
+c)
+Le droit à la preuve n'existe que s'il s'agit d'établir un fait pertinent, qui n'est pas déjà
+prouvé, par une mesure probatoire adéquate, laquelle a été régulièrement
+offerte en temps utile selon les règles de la procédure (ATF 138 V 125 consid. 2.1; ATF 135
+I 187 consid. 2.2 ; TF 4A_381/2016 du 29 septembre 2016 consid. 3.1.2).
+Le droit à la preuve ne s'oppose pas à ce que l'autorité mette un terme à l'instruction
+lorsque les preuves administrées lui ont permis de forger sa conviction et que, procédant d'une
+manière non arbitraire à une appréciation anticipée des preuves qui lui sont encore
+proposées, elle a la certitude que ces dernières ne pourraient l'amener à modifier son
+opinion (ATF 140 I 285 consid. 6.3; ATF 138 III 374 consid. 4.3.2; ATF 136 I 229 consid. 5.3; ATF 134
+I 140 consid. 5.3). Il n’en va pas autrement sous l’angle du droit à la preuve selon
+l’art. 8 CC (ATF 138 III 374 consid. 4.3.2 ; TF 5A_369/2016 du 27 janvier 2017 consid. 4.1).
+Ces principes sont également applicables lorsque le procès est soumis à la maxime inquisitoire
+(TF 5A_470/2016 du 13 décembre 2016 consid. 4.1.1).
+d)
+Au vu des règles rappelées plus haut, le tribunal était en principe en droit de renoncer
+aux débats. Une telle audience de débats n’aurait dû être fixée que si
+l’interrogatoire de la partie – qui est un moyen de preuve prévu par le CPC, art. 191
+CPC – aurait dû être envisagé. Il s’agit dès lors de savoir si le premier
+juge pouvait, par appréciation anticipée des preuves, estimer que l’audition de la partie
+– régulièrement offerte dans la requête -  ne pourrait l’amener à
+modifier son opinion.
+La recourante avait requis son audition notamment sur les allégués 26 et 29 à 32 de sa
+requête, savoir que les comptes débiteurs actionnaires feraient l’objet à bref délai
+de conventions de postposition, qu’elle était en discussion avec des sociétés tierces
+en vue d’une recapitalisation, respectivement d’une cession d’actifs, démarches
+qui devaient être effectives à la fin juin 2017 permettant le règlement intégral
+des créanciers admis, qu’elle entrevoyait une activité en cours de relance avec des résultats
+de croissance qui se feraient sentir dans le courant de l’année 2017, qu’elle avait
+vendu quatorze objets depuis le lancement d’un nouveau site internet et que le lancement d’un
+nouveau produit était prévu pour le mois de septembre 2017.
+e)
+Lorsque
+la procédure est introduite à la requête du débiteur, l'art. 293 let. a LP, contrairement
+à l'ancien art. 293 al. 1 LP, n'exige pas du requérant qu'il produise un projet de concordat.
+Il doit toutefois motiver sa requête en fournissant autant de détails qu'il le peut, afin que
+le juge puisse statuer en toute connaissance de cause. Selon le Message (FF 2010 VI p. 5896), le juge
+du concordat statue – en procédure sommaire (art. 251 let. a CPC) – sur l'octroi du
+sursis provisoire immédiatement après l'introduction de la requête ou après le transfert
+du dossier par la juge de la faillite (art. 293a al. 1 LP). Il vérifie d'office l'existence des
+conditions d'un sursis concordataire. Il n'est pas tenu d'auditionner les créanciers. Les conditions
+posées à l'octroi du sursis ne doivent pas être trop strictes. C'est uniquement lorsqu'il
+constate qu'il n'existe manifestement aucune perspective d'assainissement ou d'homologation d'un concordat
+que le juge du concordat ouvre la faillite (art. 293a al. 3 LP). Il fait de même dans les cas énumérés
+à l'art. 296b LP (sursis définitif). Dans les deux cas, le juge du concordat ouvre d'office
+la procédure de faillite; cette solution présente l'avantage d'avoir supprimé l'obligation
+qui était faite aux créanciers dans l'ancien droit de requérir la faillite (Message, op.
+et loc. cit. et p. 5901 ; CPF 9 juillet 2015/187).
+Sous l’empire du nouvel art. 293a LP, les conditions d’octroi d’un sursis provisoire
+sont ainsi nettement amoindries et le sursis ne doit être refusé que dans les cas où il
+serait inutile, car il n’existe manifestement aucune perspective d’assainissement (Hunkeler,
+op. cit., n. 4 ad art. 293a LP). Pour le surplus, c’est dans la période de sursis provisoire,
+de quatre mois au maximum, que les perspectives (positives) d’assainissement doivent être
+éclaircies (Hunkeler, op. cit. , n. 25 ad 293-336 LP). Ainsi le débiteur ne doit plus rendre
+vraisemblable les perspectives d’assainissement, mais seulement – dans le sens d’une
+condition négative – qu’il n’existe pas manifestement aucune perspective d’assainissement
+(Hunkeler, op. cit., n. 18 ad art. 293 LP). Il doit ainsi seulement démontrer qu’il peut être
+compté de manière réaliste avec quelques chances d’assainissement, même si
+la vraisemblance d’un tel assainissement est clairement moindre que la vraisemblance d’un
+échec (Hunkeler, op. cit., n. 19 ad art. 293 LP). Il doit exposer dans les grandes lignes la manière
+dont le financement de la phase de sursis sera assurée (Hunkeler, op. cit., n. 22 ad art. 293 LP).
+f)
+En
+l’espèce, il ressort de l’extrait des registre 8a LP que la recourante fait l’objet
+de poursuites pour un montant total de 1'541'708 fr. 80 et d’actes de défaut de biens pour
+un montant total de 100'248 fr. 80. Il ressort en particulier de cet extrait que la recourante ne paie
+ni la TVA ni l’AVS de ses employés. Même si l’on déduisait le second montant
+du premier, comme le préconise la recourante, le montant total des poursuites demeurerait très
+élevé. Ces éléments donnent à penser que des mesures d’assainissement
+très importantes seraient nécessaires.
+Le bilan provisionnel au 31 décembre 2016 n’est accompagné d’aucune pièce
+justificative. L’actif de 3'802'309 fr. 77 comprend essentiellement des stocks et « travaux
+en cours » pour 2'364'347 fr. 43, et des « immobilisations incorporelles »,
+soit des « frais de développement d’activité » pour 1'292'000 francs.
+Les travaux en cours résultent nécessairement d’une estimation approximative ; ils
+ne sont justifiés par aucune commande qui aurait été produite. Quant aux « immobilisations
+incorporelles », elles ne peuvent figurer dans les actifs que si elles ont de la valeur, c’est-à-dire
+s’il résulte quelque chose de concret des frais de développement d’activités,
+ce qui resterait à démontrer.
+Au sujet des passifs, on constate que dans le poste « dettes à court terme »
+du bilan provisionnel au 31 décembre 2016 des montants de 44'537 fr. d’AVS et de 8'500 fr.
+d’allocations familiales viennent en déduction des dettes, ce qui signifie qu’ils seraient
+dus par ces organismes, alors que la même Caisse AVS de la Fédération patronale vaudoise
+détient des actes de défaut de biens à hauteur de 68'619 fr. 95, que l’on ne retrouve
+pas dans la comptabilité. En ne tenant pas compte de ces montants, les dettes à court terme
+de la recourant atteignent 547'447 fr. 48 au lieu de 494'410 fr. 48 et 600’484 fr. 48 si on les
+additionne aux autres dettes.
+Ainsi, il y a lieu de considérer que le bilan provisionnel au 31 décembre 2016 n’est
+pas fiable, dès lors que des passifs sont omis et que les actifs apparaissent surévalués.
+En ce qui concerne les plans d’assainissement, la postposition des créances des actionnaires
+aurait un effet sur le surendettement, mais ne permettrait pas de payer les montants en poursuite, ni
+de payer les actes de défaut de biens. Comme le souligne le premier juge, aucune pièce, lettre
+d’intention ou accord n’a d’ailleurs été produit à cet égard et
+la recourante n’a pas indiqué qu’elle aurait encore entendu en produire. Quant à
+la recapitalisation, respectivement notamment la cession d’actifs, soit le poste « recherche
+et développement », par 1'292'000 fr. au mois de juin 2017 et au lancement d’un
+nouveau produit au mois de septembre 2017, il y a lieu de relever qu’ils sont contradictoires en
+ce sens que l’on ne peut d’une part vendre comme actif ses recherches et peu de temps après
+mettre à la vente sur le marché un produit résultant de celles-ci. En outre, rien n’indique
+que ce nouveau produit puisse apporter rapidement des revenus importants.
+Au vu de ces éléments, il y a lieu de considérer qu’il n’existe manifestement
+aucune perspective d’assainissement. Le premier juge pouvait donc, par une appréciation anticipée
+des preuves, renoncer à l’audition de la recourante sur les allégués litigieux.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr. doivent être mis à la charge de la recourante.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante X.________ SA.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Christophe Savoy, agent d’affaires breveté (pour X.________ SA),
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+Le greffier :
