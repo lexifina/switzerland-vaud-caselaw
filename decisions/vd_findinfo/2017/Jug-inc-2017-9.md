@@ -1,0 +1,561 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2017___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2017 / 9"
+decided: "2017-07-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6190722"
+cites_law: ["switzerland/bund/acts/272/art-004.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-163.md", "switzerland/bund/acts/272/art-239.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2017 / 9
+
+## Regeste
+
+DÉCISION INCIDENTE, PREUVE DE L'INTÉRÊT, EXPERTISE | 153 al. 1 CPC, 153 al. 2 CPC, 153 al. 3 CPC, 154 CPC, 156 CPC, 239 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 05.07.2017 Jug-inc / 2017 / 9
+
+DÉCISION INCIDENTE, PREUVE DE L'INTÉRÊT, EXPERTISE | 153 al. 1 CPC, 153 al. 2 CPC, 153 al. 3 CPC, 154 CPC, 156 CPC, 239 CPC
+
+TRIBUNAL
+CANTONAL
+CO10.023930
+51/2017/PHC
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+R.________
+,
+à Borno (Italie), d'avec
+C.________
+AG
+, à Bâle, et
+V.________
+,
+à Corseaux.
+___________________________________________________________________
+Audience
+du 5 juillet 2017
+__________________
+Composition
+:               M.
+Hack
+,
+juge instructeur
+Greffier
+:              M.
+Vinçani
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait :
+1.
+Par demande du 23 juillet 2010, R.________ a ouvert
+action contre C.________ AG et V.________ en paiement de 14'101'480 fr., plus intérêt à
+5% l’an dès le 24 septembre 2008, solidairement entre eux, subsidiairement chacun pour une
+part de ce montant fixée à dire de justice.
+Dans leur réponse du 17 décembre 2010, les défendeurs ont conclu à libération.
+Les parties ont confirmé leurs conclusions dans leurs réplique et duplique, respectivement
+le 1
+er
+décembre 2011 et le 1
+er
+mai 2012. Les défendeurs ont introduit des nova le 13 février 2013 et le demandeur des allégués
+connexes le 15 avril 2013. Chaque partie a déposé une écriture complémentaire après
+réforme, soit le 24 juillet 2014 pour les défendeurs et le 23 septembre suivant pour le demandeur.
+Un délai, échéant le 24 avril 2017, a été imparti aux deux parties pour déposer
+un mémoire de droit.
+2.
+Il ressort notamment ce qui suit des faits allégués par les parties et des pièces au dossier :
+a)
+La société T.________ SA, à
+Libreville, Gabon (ci-après : T.________ SA Gabon), détient la concession d’exploitation
+du Port minéralier d’ [...], au Gabon. Les conditions de construction et d’exploitation
+de ce port ont été définies dans une convention conclue le 9 décembre 1986 entre
+la Compagnie [...] (ci-après : L.________), société de droit gabonais qui exploite
+la mine de manganèse de [...], et l’Etat Gabonais. Accordée pour une durée de vingt
+ans dès la réception définitive du port, la concession arrivait à échéance
+le 31 décembre 2009. Bénéficiaire de cette concession, T.________ SA Gabon perçoit
+deux redevances, l’une portuaire, à la charge de L.________, et l’autre ferroviaire,
+à la charge de l’Etat du Gabon.
+b)
+N.________ Trust a été constitué par déclaration signée le 29 août 1989
+par [...], en qualité de trustee, et la défenderesse, alors [...], en tant que « protector ».
+Cette déclaration est soumise au droit de l’Île de Guernesey. Depuis novembre 1999, le
+trustee est Q.________, à Guernesey.
+Le demandeur est l’un des bénéficiaires de N.________ Trust.
+Le 14 septembre 1989, N.________ Trust et T.________ SA, à Lausanne, ont conclu une convention de
+fiducie par laquelle cette dernière acceptait de détenir, à titre fiduciaire, 1204 actions
+nominatives de T.________ SA Gabon, propriété de la première. Par la suite, le nombre
+d’actions détenues à titre fiduciaire a été porté progressivement à
+8'544.
+Le 12 septembre 1995, N.________ Trust a transféré
+cette relation de fiducie à K.________ SA, société de droit suisse avec siège à
+Pully. Une nouvelle convention de fiducie portant sur les 8'544 actions appartenant à N.________
+Trust a été conclue le 14 mai 1997. Le nombre des actions a été ensuite augmenté
+par des avenants successifs. Le 24 septembre 2008, K.________ SA était ainsi propriétaire fiduciaire
+de 11'446 actions de T.________ SA Gabon, pour le compte de N.________ Trust.
+c)
+L.________ a souhaité acquérir les actions de T.________ SA Gabon détenues à titre
+fiduciaire par K.________ SA, notamment pour le compte de N.________ Trust. Pour K.________ SA, les négociations
+ont été menées par P.________, alors administrateur délégué. Ce dernier
+a cherché à obtenir auprès des bénéficiaires du trust l’accord de principe
+sur la négociation de la vente. Le demandeur a donné cet accord en date du 24 septembre 2008.
+Par convention du même jour, K.________ SA a vendu à L.________ 14'210 actions de T.________
+SA Gabon. Le prix a été fixé à 7'815'500’000 XAF, sous réserve d’un
+complément en faveur du vendeur en fonction du règlement, par l’Etat du Gabon, des redevances
+dues à T.________ SA Gabon du chef des péages. Après exécution de la vente, le prix
+a été distribué aux bénéficiaires de N.________ Trust, dont le demandeur, au
+pro rata valoris
+.
+d)
+En
+date du 13 décembre 2011, le demandeur a ouvert action devant les tribunaux de Guernesey contre
+Q.________, en concluant que celle-ci soit astreinte à reconstituer les actifs de N.________ Trust
+à hauteur de près de 30 millions d’euros.
+e)
+Le 22 mars 2012, K.________ SA et L.________ ont soumis à l’arbitrage la question de savoir
+si la seconde devait à la première un complément de prix en vertu de la convention de
+vente des actions de T.________ SA Gabon. Par sentence du 20 juin 2013, le Tribunal arbitral a condamné
+L.________ à payer à K.________ SA un montant de l’ordre de 4,5 millions de francs. Après
+déduction des frais, K.________ SA a versé à Q.________ un peu plus de 3 millions de francs.
+f)
+Dans la présente action, le demandeur fait valoir que le prix de vente de T.________ SA Gabon était
+largement inférieur à la valeur réelle de la société. En particulier, ce prix
+ne tiendrait pas compte du renouvellement de la concession, lequel aurait été acquis depuis
+le 18 juin 2007, soit plus d’une année avant la vente du 24 septembre 2008. Se référant
+notamment à un rapport d’expertise privé établi en 2010 par F.________ et B.________,
+qui estiment la valeur de T.________ SA Gabon, au 31 décembre 2008, entre 33,8 (valeur basse) et
+40,57 milliards XAF (valeur haute) selon que l’Etat du Gabon honore ou non sa dette, le demandeur
+soutient que la valorisation de sa part dans N.________ Trust représentait à cette date 12'220'270
+€, soit 9'216'897 € de plus que ce qu’il a obtenu à l’issue de la vente.
+En tant que « prote
+ctor »
+de N.________ Trust, la défenderesse aurait manqué à son obligation de veiller à
+ce que le but du trust soit respecté et les intérêts des bénéficiaires garantis.
+Selon le demandeur, tant elle que le défendeur savaient au moment de la vente que T.________ SA
+Gabon disposait d’un droit au renouvellement de la concession et que celle-ci serait effectivement
+renouvelée. En ne tenant pas compte de la valeur de ce renouvellement dans le prix de vente, ils
+lui auraient causé un dommage qu’ils seraient tenus de réparer.
+3.
+En vertu de l’ordonnance sur preuves rendue le 23 août 2013, une expertise a été
+confiée à KPMG, à Genève, soit pour elle à Michel Faggion, expert-comptable
+diplômé. En sus des pièces du dossier, l’expert a reçu certaines pièces
+directement des parties, dont un « Avenant N° 1 à la Convention pour la construction
+du Port minéralier d’ [...] », remis par le conseil des défendeurs, et une
+« Note no 2 dans l’intérêt de K.________ SA » établie par D.________,
+expert financier, remise par le conseil du demandeur.
+La mission de l’expert consistait notamment à évaluer le prix de cession des actions
+de T.________ SA Gabon. L’expert a considéré que selon toute vraisemblance, ce prix a
+été déterminé sur la base de la situation financière de la société
+au moment de la transaction, sans prise en considération d’une perspective de renouvellement
+de la concession. Si les discussions en vue de ce renouvellement semblent avoir débuté en 2007,
+rien n’indique d’après lui que le renouvellement et ses conditions étaient décidés
+ou connus au moment de la vente. Ce n’est qu’en 2010 qu’un Avenant N° 1 à
+la Convention pour la construction du Port minéralier a été conclu entre l’Etat
+du Gabon, L.________ et T.________ SA Gabon, prolongeant la validité de la concession jusqu’au
+31 décembre 2032. L’examen de cet avenant fait dire à l’expert que la concession
+a été renouvelée à des conditions sensiblement différentes de celles qui prévalaient
+au moment de son octroi, en 1986.
+Selon l’expert, les éléments au dossier ne permettent pas de démontrer que la valeur
+de T.________ SA Gabon est largement supérieure à celle du prix obtenu dans la transaction
+de 2008, comme le soutient le demandeur. L’évaluation établie pour le compte de ce dernier
+par F.________ et B.________ tient compte des projections de cash-flows sur une durée de vingt-cinq
+ans dès 2008, soit jusqu’au au 31 décembre 2032, date d’expiration de la concession
+renouvelée. Au vu de la situation particulière de T.________ SA Gabon et du contexte d’incertitude
+qui prévalait au moment de la transaction de 2008 au sujet du renouvellement, une telle évaluation
+ne peut pas être retenue selon l’expert. La valorisation de la société en 2008 portait
+principalement sur la substance résiduelle et les revenus qui pouvaient encore être générés
+jusqu’à l’échéance de la concession, en 2009, ainsi que sur la possibilité
+d’obtenir le remboursement de la dette par l’Etat de Gabon.
+4.
+Par requête incidente du 20 avril 2017, R.________ a conclu, sous suite de frais et dépens,
+à ce qu’il soit autorisé à se réformer pour introduire en procédure les
+allégués et offres de preuve suivants :
+« 440.
+M. le Président O. BONGO avait autorisé le 18 juin 2007 le renouvellement de la concession
+pour l’exploitation du Port Minéralier d’ [...] au bénéfice de laquelle T.________
+SA était placée.
+Preuve
+:
+par la pièce 67 et par les témoins M. P.________ et M. [...]
+441.              Dite concession au
+bénéfice de laquelle T.________ SA était placée a été renouvelée en
+sa faveur jusqu’au 31 décembre 2032.
+Preuve
+:
+par la pièce 77 et par les témoins M. [...] et M. [...]
+442.              La décision de
+renouvellement de la concession était connue des intimés à compter du 18 juin 2007, soit
+avant la Cession par K.________ SA de ses Titres du Port Minéralier d’ [...] du 24 septembre
+2008.
+Preuve
+:
+par les pièces 67 et 77 et par les témoins M. [...] et M. [...]
+443.              Les défendeurs
+et K.________ SA ont participé à toutes les négociations qui ont mené à la signature
+de l’avenant n° 1 de la Convention pour la construction du Port Minéralier d’ [...]
+portant sur le renouvellement de la concession.
+Preuve : par les
+pièces 67 et 77 et par les témoins M. P.________, M. [...], M. [...] et M. [...]
+444.              L’expertise
+de KPMG du 12 février 2016 n’a retenu
+à
+tort
+que l’hypothèse suivant laquelle
+la concession au bénéfice de laquelle T.________ SA était placée ne serait pas renouvelée
+…
+Preuve
+:
+par la procédure, par la pièce 76 et par expertise
+445.              … en sorte qu’
+à
+tort
+l’expertise de KPMG du 12 février
+2016 n’a pas retenu une valeur de continuité de l’exploitation de T.________ SA par
+le renouvellement de la concession pour l’exploitation du Port Minéralier d’ [...] en
+sa faveur.
+Preuve
+:
+par la procédure, par la pièce 76 et par expertise
+446.              La note n° 3
+de l’expert polytechnicien M. D.________ du
+28
+février 2013 retient que le prix du renouvellement de la concession fondé sur le complément
+de prix tel que prévu au chiffre 3.4 de la Convention portant Cession par K.________ SA de ses Titres
+du Port Minéralier d’ [...] s’élève à 20,3 milliards de francs CFA (CHF
+45,9 M.).
+Preuve
+:
+par la procédure, par la pièce 76 et par expertise
+447.              Ce montant de 20,3
+milliards de francs CFA (CHF 45,9 M.)
+–
+calculé sur le complément de prix tel que prévu au chiffre 3.4 de la Convention portant
+Cession par K.________ SA de ses Titres du Port Minéralier d’ [...] du 24 septembre 2008 –
+auquel s’ajoute le prix de T.________ SA convenu dans cette même Convention correspond à
+la valeur de T.________ SA au jour de sa cession.
+Preuve
+:
+par la procédure, par la pièce 76 et par expertise »
+A l’appui de sa requête, le requérant a produit une copie non signée de l’
+« Avenant N° 1 à la Convention pour la construction du Port minéralier d’
+[...] » (pièce 76), ainsi qu’une « Note no 3 dans l’intérêt
+de K.________ SA » (pièce 77), établie le 28 février 2013 par D.________ sur
+demande de K.________ SA dans le cadre de la procédure d’arbitrage opposant celle-ci à
+L.________.
+Par lettre du 31 mai 2017 de leur conseil, les intimés et défendeurs au fond et se sont opposés
+à la réforme, avec dépens.
+Une audience incidente s’est tenue le 5 juillet 2017.
+En droit :
+I.
+Aux termes de l’art. 404 al. 1 CPC (Code
+suisse de procédure civile du 19 décembre 2008, en vigueur depuis le 1
+er
+janvier 2011 ; RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau
+droit demeurent régies par l'ancien droit de procédure jusqu'à la clôture de l'instance.
+Cette règle s’applique également aux jugements incidents rendus dans le cadre de telles
+procédures (CREC 20 juillet 2011/66 consid 1a ; Haldy, La nouvelle procédure civile suisse,
+p. 3, n. 7 ; Tappy, Le droit transitoire applicable lors de l'introduction de la nouvelle procédure
+civile unifiée,
+in
+JdT 2010 III 11, spéc. pp. 36 à 38).
+Le procès au fond ayant été ouvert avant l’entrée en vigueur du CPC, le présent
+jugement incident reste soumis à l’ancien droit de procédure, en particulier au Code
+de procédure civile vaudoise (ci-après : CPC-VD, dans sa teneur en vigueur au 31 décembre
+2010 ; RSV 270.11).
+II.
+a)
+Selon l'art. 153 al. 1 CPC-VD,
+la partie qui désire obtenir la restitution d'un délai, corriger ou compléter sa procédure,
+peut, jusqu'à la clôture de l'audience de jugement, demander l'autorisation de se réformer,
+sous réserve de l'art. 317b CPC-VD. La requête de réforme est instruite et jugée
+en la forme incidente (art. 154 al. 2 CPC-VD).
+b)
+L’art. 154 al. 1 CPC-VD exige
+que la demande de réforme indique les motifs et l’étendue de la réforme demandée.
+La partie qui sollicite la réforme doit préciser dans sa requête les opérations nouvelles
+qu’elle se propose de faire dans le délai dont elle demande la restitution et les points sur
+lesquels elle entend corriger ou compléter sa procédure, en particulier les faits qu'elle veut
+alléguer et les preuves qu'elle entend faire administrer. Elle doit en outre exposer les motifs
+qui feraient apparaître la réforme demandée comme nécessaire ou utile à la solution
+du litige (Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+e
+éd., n. 1 ad art. 154 CPC-VD et les réf. cit.).
+En l’espèce, la requête incidente énumère toutes les allégations visées
+par la réforme ainsi que les moyens de preuve correspondant. Le requérant y expose en outre
+les motifs qui l’incitent à se réformer. L'art. 154 al. 1 CPC-VD est ainsi respecté.
+Au surplus, la requête de réforme observe les exigences des art. 19 et 147 al. 1 CPC-VD
+(applicables
+par
+renvoi de l’art. 154
+al. 2 CPC-VD
+) ; e
+lle
+est donc recevable à la forme. Déposée avant l’échéance du délai
+des mémoires de droit (art. 317a al. 1 CPC-VD), elle intervient en outre en temps utile (art. 153
+al. 1 et 317b al. 1 CPC-VD).
+III.
+a)
+La
+réforme n'est accordée que si la partie y a un intérêt réel et si la requête
+n'est pas présentée à des fins dilatoires (art. 153 al. 2 et 3 CPC-VD). La partie requérante
+doit établir, d'une part, son intérêt réel à la preuve des faits allégués,
+c'est-à-dire leur pertinence, et, d'autre part, son intérêt réel à l'administration
+des preuves offertes, soit l'utilité que présente la preuve offerte pour établir les faits
+allégués (JdT 1988 III 70 consid. 4). Cet intérêt réel doit être apprécié
+au regard de l'ensemble des circonstances, en particulier de la pertinence du fait allégué,
+de sa vraisemblance, de la force de la preuve offerte et de la durée probable de la procédure
+probatoire après réforme (JdT 2002 III 190 et les réf. cit.). Le bien-fondé d'une
+requête de réforme s'apprécie sur la base des indications qui y sont contenues, notamment
+pour juger de la pertinence des faits allégués (
+ibid.
+).
+En outre, si les faits invoqués à l'appui de la requête sont dénués de pertinence
+ou déjà invoqués sous une autre forme en procédure, la réforme devra être
+refusée (JdT 2003 III 114 consid. 4).
+La pertinence des faits allégués (art. 163 al. 2 CPC-VD) et la nécessité des preuves
+offertes (art. 5 al. 2 CPC-VD) doivent être appréciées plus strictement que dans l'ordonnance
+sur preuves (JdT 1988 III 70 consid. 4 précité). Le droit à la réforme n’est
+en revanche pas subordonné à l’absence de faute de la partie, car il a été
+précisément institué pour permettre au plaideur négligent de rattraper un délai
+ou rectifier une erreur, le jugement reposant ainsi sur un état de fait complet et autant que possible
+conforme à la réalité (BCG automne 1966, p. 719).
+b)
+Dans le cas présent, le requérant demande l’autorisation d’introduire en procédure
+les allégués 440 à 447 et les offres de preuve correspondantes, qu’il y a lieu d’examiner
+successivement.
+Sous no 440, il est allégué que le renouvellement de la concession dont bénéficiait
+T.________ SA Gabon avait été autorisé le 18 juin 2007 par le Président du Gabon.
+Cette allégation ne contient pas vraiment de fait nouveau. Il s’agit pour le requérant
+de démontrer que ce renouvellement était acquis depuis cette date. Le fait a déjà
+été exposé à l’allégué 292 de la réplique, sous une formulation
+légèrement différente. La pièce (no 67) offerte à l’appui des deux allégués
+est au demeurant la même.
+L’allégué 441 tend à démontrer que la concession a effectivement été
+renouvelée en faveur de T.________ SA Gabon, jusqu’au 31 décembre 2032. En dehors de
+la date d’échéance, laquelle ressort toutefois du rapport d’expertise et peut être
+retenue en vertu de l’art. 4 al. 2 CPC-VD, l’allégué reprend le contenu de l’allégué
+295. Le renouvellement de la concession a en outre été allégué par les intimés
+dans leurs nova (all. 430). Il n’y a donc pas là de fait nouveau.
+Sous no 442, le requérant allègue que la décision de renouvellement était connue
+des intimés depuis le 18 juin 2007, soit avant la vente du 24 septembre 2008. Ce fait aussi a déjà
+été allégué dans la réplique (all. 293 et 294, en lien avec l’all. 292).
+A l’allégué 443, le requérant
+tend à démontrer que les intimés auraient participé à toutes les négociations
+qui ont conduit à la signature de l’avenant ayant porté au renouvellement. Ce fait prétendu
+est nouveau. En effet, si le requérant a toujours soutenu que les intimés savaient que la concession
+allait être renouvelée, c’est la première fois qu’il soutient qu’ils
+auraient directement participé aux négociations y afférentes. Au fond, les intimés
+sont recherchés en responsabilité pour avoir permis la vente de T.________ SA Gabon, nonobstant
+les devoirs que leur imposait leur qualité de « protector » de N.________ Trust.
+En particulier, le requérant leur reproche d’avoir accepté de vendre les actions à
+un prix inférieur à leur valeur réelle, qui ne tenait pas compte du renouvellement de
+la concession, pourtant acquis selon lui dès 2007. Pour leur part, les intimés prétendent
+que rien ne permettait d’affirmer en 2008 que la concession allait être renouvelée, les
+négociations y relatives n’ayant démarré que postérieurement au transfert des
+actions à L.________. Au vu de ce qui précède, une prétendue implication directe
+des intimés dans ces négociations n’apparaît pas d’emblée sans pertinence
+pour la question de la responsabilité. Vu le fondement des prétentions litigieuses, on ne saurait
+dénier au requérant un intérêt à pouvoir alléguer et établir le fait
+invoqué.
+S’agissant des moyens de preuve, le requérant propose la preuve par témoin et par les
+titres 67 et 77. Le fait dont il s’agit est susceptible d’être prouvé par témoignage.
+La pertinence de la pièce 67 est en revanche plus douteuse, mais celle-ci figure déjà
+au dossier. Quant au rapport d’expertise privé produite sous no 77, son auteur ne fait qu’estimer
+la valeur de T.________ SA Gabon en tenant compte de la concession renouvelée. Etabli en février
+2013, ce document n’est pas de nature à établir que les intimés auraient participé
+aux négociations ayant porté à l’avenant de 2010. On doit dès lors se demander
+s’il ne s’agit pas en réalité d’une inadvertance dans l’indication
+de la pièce et si le requérant n’entendait pas plutôt offrir comme preuve la pièce
+76, soit l’avenant qui a conduit au renouvellement auquel se réfère l’allégué.
+C’est le même document que celui remis à l’expert, à cela près qu’il
+s’agit d’une version non-signée. Dans le doute, il y a lieu de considérer d’office
+que cette pièce est également offerte par le requérant à l’appui de son allégué
+443, en plus de la pièce 77.
+Les allégués 444 et 445 tendent à remettre en cause les conclusions de l’expertise
+au sujet de la valeur de T.________ SA Gabon, le requérant alléguant que c’est à
+tort que l’expert n’aurait pas tenu compte de l’hypothèse du renouvellement. Ces
+allégations ne contiennent aucun fait nouveau, mais visent clairement à soumettre à nouveau
+cette question à un expert. Or, la réforme ne peut être utilisée pour obtenir un
+complément d'expertise ou une nouvelle expertise que le juge aurait refusé, car cette institution
+ne permet pas de remettre en cause des décisions en matière de preuve résultant matériellement
+d'une ordonnance sur preuves (JdT 2003 III 114). En l’occurrence, le requérant a déjà
+sollicité le 18 mai 2016 un complément d’expertise, requête qui a été
+rejetée par le juge instructeur au motif qu’elle visait essentiellement à amener l’expert
+à revenir sur les conclusions de son rapport. On ne voit d’ailleurs pas quel élément
+de fait nouveau pourrait conduire l’expert
+Faggion
+à modifier son appréciation, l’Avenant
+produit
+sous pièce 76 ayant déjà été pris en compte dans le cadre de l’expertise.
+Ce que souhaite obtenir en réalité le requérant par la réforme, c’est une nouvelle
+expertise sur la valorisation de T.________ SA Gabon, et ce, en éludant les règles sur la seconde
+expertise (art. 239 CPC-VD). En effet, une seconde expertise ne peut être ordonnée que si la
+première n'est pas suffisante ou claire, si elle est peu convaincante ou contraire aux autres preuves
+au dossier ou encore lorsque l’expert paraît avoir été prévenu (JdT 1982 III
+75 consid. 1c ; Poudret/Haldy/Tappy, op. cit., n. 1 ad art. 239 CPC-VD ; Bettex, L’expertise
+judiciaire, Etude de droit fédéral et de procédure civile vaudoise, thèse, Lausanne
+2006, p. 187). Or, il n’y a rien de tel en l’espèce. Le requérant n’a d’ailleurs
+pas sollicité formellement de seconde expertise, alors qu'il lui était loisible de le faire
+(art. 239 CPC-VD).
+Sous no 446, le requérant allègue que le prix du renouvellement de la concession a été
+estimé à 45,9 millions de francs par D.________ dans son rapport du 28 février 2013, é
+tant
+précisé que
+l’indication
+de la pièce 76 à l’appui de l’allégué résulte manifestement d’une
+inadvertance, ledit rapport étant produite sous no 77 du bordereau de pièces. Cette estimation
+est nouvelle. Le requérant a un intérêt à tenter d’établir la valeur du
+renouvellement.
+L’expertise offerte à
+l’appui de l’allégué doit en revanche être refusée dès lors que,
+d’une part, ce moyen de preuve n’est clairement pas adéquat pour établir le fait
+invoqué et que, d’autre part, son admission reviendrait à contourner les règles
+sur la seconde expertise.
+Ce dernier motif conduit également à refuser
+l’introduction
+de l’allégué 447, par lequel le requérant tend à obtenir une nouvelle expertise
+sur la valeur des actions de T.________ SA Gabon, en tenant compte cette fois du renouvellement de la
+concession.
+Au vu de ce qui précède,
+il
+faut reconnaître au requérant un intérêt réel à compléter sa procédure
+par les allégués 443 et 446 et les offres de preuves qui s’y rapportent, à l’exclusion
+de la preuve par expertise. En tant qu'elle tend à introduire ces éléments, la requête
+n’apparaît pas présentée à des fins
+dilatoires
+,
+ce d’autant que le requérant, demandeur au fond dans une réclamation pécuniaire,
+est peu suspect de vouloir prolonger la procédure. S’il est vrai qu’il aurait pu invoquer
+plus tôt les faits qui l’incitent à se réformer, la réforme n’est pas
+subordonnée à l’absence de faute. En définitive, il y a lieu d’autoriser la
+réforme dans la mesure indiquée, un délai de dix jours dès la notification du présent
+jugement incident étant fixé au requérant pour déposer une écriture complémentaire
+renfermant ses allégués 443 et 446 (à ranger sous les numéros d’ordre 440 et
+441).
+Les intimés disposeront ultérieurement d’un délai pour se déterminer sur l’allégué
+introduit par la réforme
+et, au besoin,
+indiquer
+des faits nouveaux et des preuves connexes (JdT 1981 III 133).
+IV.
+Tous les actes du procès peuvent et doivent être maintenus (art. 155 CPC-VD).
+V.
+La partie qui obtient la réforme est chargée des dépens frustraires, fixés par le
+jugement de réforme, à moins qu'elle n'établisse n'avoir pu connaître en temps utile
+le fait qui l'incite à corriger sa procédure (art. 156 al. 2 CPC-VD).
+Le requérant n’apporte pas cette preuve libératoire. En effet, il ne prétend pas
+avoir découvert postérieurement à l’échange d’écritures que les
+intimés auraient participé aux négociations portant sur le renouvellement de la concession.
+Le rapport d’expertise du 28 février 2013 est également antérieur à sa dernière
+écriture (23 septembre 2014). I
+l
+y a donc lieu de mettre à la charge du requérant des dépens frustraires.
+P
+our en fixer le montant, il ne
+faut pas prendre en considération toutes les dépenses liées aux opérations consécutives
+à la
+réforme - elles entreront dans
+les dépens du fond -, mais seulement la part des opérations que la réforme
+imposera aux intimés de refaire ou de reconsidérer, alors que cela aurait pu être évité
+dans le cours ordinaire de la procédure.
+La requête de réforme est intervenue quatre jour avant l’échéance du délai
+de l’art. 317a CPC-VD. Très probablement, le conseil des intimés avait déjà
+préparé son mémoire de droit, qu’il devra à tout le moins revoir et compléter,
+voire corriger en fonction du résultat de la procédure probatoire consécutive à la
+réforme. Il sera sans doute amené à se plonger une nouvelle fois dans le dossier, ce d’autant
+que quatre témoins devront être entendus et un rapport d’expertise privé examiné.
+Ainsi, quand bien même la réforme n’est autorisée que sur deux allégués,
+le travail supplémentaire qu’elle occasionnera aux parties adverses apparaît conséquent.
+Il se justifie dès lors de fixer à 3’500 fr. le montant des dépens frustraires que
+le requérant devra verser aux intimés, solidairement entre eux.
+VI.
+Les frais du présent jugement
+incident sont arrêtés à 900 fr., à la charge du requérant
+(art.
+170a al. 1 du tarif des frais judiciaires en matière civile du 4 décembre 1984 [aTFJC], applicable
+en vertu de l'art. 99 al. 1 du tarif des frais judiciaires civils du 28 septembre 2010
+[TFJC ; RSV 270.11.5], en vigueur depuis le 1
+er
+janvier
+2011)
+.
+Le
+juge statue librement sur l'adjudication des dépens de l'incident soulevé par la requête
+de réforme (art. 156 al. 3 CPC-VD). En l’espèce, l
+a
+réforme visait principalement à remettre en cause les conclusions de l’expert Faggion
+et à obtenir une nouvelle expertise. Elle est refusée sur ces points. Elle n’est admise
+que pour deux allégués, dont l’importance apparaît cependant secondaire par rapport
+au but et à l’étendue de la réforme demandée. Il se justifie par conséquent
+d’allouer aux intimés, solidairement entre eux, des dépens de l’incident réduits
+d’un dixième (art. 92 al. 1 et 2 et art. 150 al. 2 CPC-VD) et fixés à 1'800 fr.
+(art. 2, 3 et 7 du
+tarif des honoraires d'avocat
+dus à titre de dépens du 17 juin 1986
+[
+Tav], applicable en vertu de l'art. 26 al. 2
+du tarif des dépens en matière civile du 23 novembre 2010 [TDC ; RSV 270.11.6], en
+vigueur depuis le 1
+er
+janvier 2011).
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 20 avril 2017 par le requérant R.________ contre
+les intimés C.________ AG et V.________ est partiellement admise.
+II.
+Le requérant est autorisé à se réformer jusqu’à la veille du délai
+de réplique pour introduire en procédure les allégués 443 et 446 de sa requête
+de réforme
+(à ranger
+sous les numéros d’ordre 440 et 441)
+et
+les offres de preuve correspondantes,
+à
+l’exclusion de la preuve par expertise.
+III.
+Un
+délai de
+dix
+jours
+dès la notification
+du présent jugement lui est fixé pour déposer une écriture complémentaire en
+ce sens.
+IV.
+Un délai sera imparti ultérieurement aux intimés pour se déterminer sur l’allégué
+nouveau et, le cas échéant, introduire des allégations et des preuves connexes.
+V.
+Tous les actes du procès sont maintenus.
+VI.
+Le requérant versera aux intimés, solidairement entre eux, la somme de 3'500 fr. (trois mille
+cinq cents francs) à titre de dépens frustraires.
+VII.
+Les frais de la procédure incidente, arrêtés à 900 fr. (neuf cents francs), sont
+mis à la charge du requérant.
+VIII.
+Le requérant versera aux intimés, solidairement entre eux, la somme de 1’800 fr. (mille
+huit cents francs) à titre de dépens de la procédure incidente.
+Le
+juge instructeur :              Le greffier :
+P.
+Hack              E. Vinçani
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils respectifs des parties.
+Le greffier :
+E. Vinçani
