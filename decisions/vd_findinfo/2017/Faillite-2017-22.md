@@ -1,0 +1,152 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 22"
+decided: "2017-07-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6166362"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-068.md", "switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 22
+
+## Regeste
+
+PROCÉDURE DE FAILLITE, TÉLÉCOPIE, SIGNATURE, ORIGINAL, ACTE DE RECOURS | 174 al. 1 LP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.07.2017 Faillite / 2017 / 22
+
+PROCÉDURE DE FAILLITE, TÉLÉCOPIE, SIGNATURE, ORIGINAL, ACTE DE RECOURS | 174 al. 1 LP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF17.014249-170968
+167
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 juillet 2017
+__________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 1 LP; 321 al. 1 CPC
+Vu la décision rendue
+le 8 mai 2017 par laquelle la Présidente du Tribunal d'arrondissement de La Côte a déclaré
+la faillite d’
+O.________
+,
+à Etoy, le même jour à 12 heures, à la requête de
+R.________
+,
+à Saint-Jean-de-Gonville (France), mis les frais, par 200 fr., à la charge de la faillie et
+dit que celle-ci devait verser au requérant un montant de 300 fr. à titre de dépens,
+vu l'extrait postal de
+suivi des envois selon lequel cette décision a été notifiée à la société
+faillie le 11 mai 2017,
+vu l’acte de recours,
+daté du 19 mai 2017 et adressé à la justice de paix, par  télécopie, le
+22 mai 2017, déposé par O.________, sous la plume de son conseil [...], avocat à Lyon
+(France), concluant implicitement à l’annulation de la faillite,
+vu les pièces au
+dossier ;
+attendu qu'en vertu de l'art. 174 al. 1 LP (loi sur la poursuite pour dettes et la faillite du 11 avril
+1889; RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un
+recours au sens du CPC (Code de procédure civile du 19 décembre 2008; RS 272),
+que l'acte de recours doit être écrit et motivé (art. 321 al. 1 CPC),
+qu'il doit en outre être
+signé, comme tous les actes adressés au tribunal (art. 130 al. 1 in fine CPC),
+que la signature de l'auteur
+d'un acte, ou celle de son représentant, doit y figurer en original (ATF 121 II 252),
+qu'un acte ne peut dès
+lors pas être transmis valablement par télécopie (ATF 121 II 252 précité ; Bohnet,
+Code de procédure civile commenté, n.10 ad art. 130 CPC),
+que, selon l'art. 132
+al. 1 CPC, le tribunal fixe un délai pour la rectifica-tion des vices de forme telle l'absence de
+signature (art. 130 al. 1 CPC) ou de procuration (art. 68 al. 3 CPC), à défaut de quelle rectification,
+l'acte n'est pas pris en considération,
+que le Tribunal fédéral
+a toutefois jugé que l'acte envoyé par télécopie était entaché d'un vice
+entraînant l'irrecevabilité, sans qu'il doive être donné l'occasion à l'intéressé
+de remédier à cette informalité, à tout le moins lorsque le recourant utilisait le
+télécopieur à la fin du délai de recours de sorte qu'il ne pouvait plus régulariser
+son acte avant l'échéance de ce délai (ATF 121 II 252 précité),
+qu'en l'espèce, l’acte
+de recours a été transmis par télécopie et ne comporte donc pas la signature originale
+de la recourante ou de son représentant,
+que l’acte ayant été déposé le dernier jour du délai de recours –
+arrivé à échéance le dimanche 21 mai et reporté au lundi 22 mai 2017 (art. 142
+al. 3 CPC) – le vice de forme dont il est entaché ne peut pas être rectifié,
+qu’ainsi, ne satisfaisant pas aux exigences de forme posées par la loi, le recours doit être
+déclaré irrecevable ;
+attendu que même s’il avait été recevable, le recours aurait de toute manière
+dû être rejeté,
+qu’en effet, en
+vertu de l'art. 174 al. 2 LP, le jugement de faillite ne peut être annulé que lorsque le débiteur,
+en déposant le recours, rend vraisemblable sa solvabilité – d’une part –
+et établit par titre que depuis lors la dette, intérêts et frais compris, a été
+payée (ch. 1) ou que la totalité de la somme à rembourser a été déposée
+auprès de l'autorité judiciaire supérieure à l'intention du créancier (ch. 2),
+ou encore que celui-ci a retiré sa réquisition de faillite (ch. 3) – d’autre part
+–, ces deux conditions étant cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid. 6.1;
+Bosshard, Le recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127),
+qu’en l’espèce,
+aucune de ces deux conditions n’est réalisée, ni même invoquée, la recourante
+se bornant à contester le bien-fondé des créances à l’origine de la faillite,
+question que l’autorité de recours en matière de faillite n’a pas la compétence
+d’examiner ;
+attendu que le présent arrêt peut être rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Mehdi Mahnane (pour O.________),
+‑
+Me Sylvie Saint-Marc, avocate (pour R.________),
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
