@@ -1,0 +1,259 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 23"
+decided: "2017-08-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6221183"
+cites_law: ["switzerland/bund/acts/101/art-112.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/831.10/art-020.md", "switzerland/bund/acts/831.20/art-042.md", "switzerland/bund/acts/831.20/art-050.md", "switzerland/bund/acts/831.30/art-020.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 23
+
+## Regeste
+
+PLAINTE{LP}, PRÉVOYANCE PROFESSIONNELLE SELON LA LPP, SAISIE DE SALAIRE, RENTE{EN GÉNÉRAL} | 17 LP, 92 al. 1 ch. 9a LP, 93 al. 1 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.08.2017 Plainte / 2017 / 23
+
+PLAINTE{LP}, PRÉVOYANCE PROFESSIONNELLE SELON LA LPP, SAISIE DE SALAIRE, RENTE{EN GÉNÉRAL} | 17 LP, 92 al. 1 ch. 9a LP, 93 al. 1 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+FA17.016428-170961
+22
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 août 2017
+__________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 92 al. 1 ch. 9a, 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+L.________
+,
+à [...], contre la décision rendue le 24 mai 2017, à la suite de l’audience du 16
+mai 2017, par le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte formée le 13 avril 2017 contre la décision
+de l’
+Office
+des poursuites du district de la Riviera-Pays-d'Enhaut
+,
+à Vevey.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Les 15 et 21 mars 2017, l’Office des poursuites du district de la Riviera-Pays-d'Enhaut (ci-après :
+l’Office) a adressé à L.________ trois avis de saisie dans les poursuites n
+os
+8'179'013, 8'154'062 et 8'154'063 ouvertes contre elle.
+Le 31 mars 2017, l’Office a, sur la base des documents fournis par L.________, adressé à
+la Caisse T.________, ainsi qu’à celle-là un avis de retenue de salaire de 278 fr. sur
+sa rente LPP. En annexe à l’avis envoyé à L.________ le calcul de la quotité
+saisissable était effectué comme il suit :
+-
+Base mensuelle de la débitrice
+Fr. 1'200.—
+-
+Loyer
+Fr. 1'077.—
+Total
+Fr. 2'277.—
+-
+Rente AVS
+Fr. 1'960.—
+-
+Prestations complémentaires
+Fr.    447.—
+-
+Rente LPP
+Fr.    278.—
+Total
+Fr. 2'685.—
+Quotité
+saisissable
+2'685
+fr. – 2'227 fr. =
+Fr.
+408.—
+2.
+Par acte du 13 avril 2017, L.________ a saisi le Président du Tribunal d’arrondissement de
+l’Est vaudois d’une plainte contre l’avis de retenue de salaire susmentionné en
+concluant, avec suite de frais et dépens, à l’annulation de la saisie, respectivement
+de la poursuite.
+Par décision du 21 avril 2017, le Président du Tribunal d’arrondissement de l’Est
+vaudois a accordé l’effet suspensif à la plainte.
+Dans ses déterminations du 10 mai 2017, l’Office a conclu au rejet de la plainte.
+Les parties ont été entendues à l’audience du 16 mai 2017.
+3.
+Par décision dont les considérants écrits ont été adressés aux parties
+le 24 mai 2017, le Président du Tribunal d’arrondissement de l’Est vaudois, statuant
+en qualité d’autorité inférieure de surveillance, a rejeté la plainte déposée
+le 13 avril 2017 par L.________ (I), révoqué l’effet suspensif accordé par décision
+du 21 avril 2017 et dit que la saisie mensuelle de la rente LPP de la plaignante, d’un montant
+de 278 fr., reprendrait effet dès le 1
+er
+juin 2017 pour une durée d’une année (II) et rendu la décision sans frais ni dépens
+(III). En substance, le premier juge a considéré que, si les rentes AVS et les prestations
+complémentaires allouées à la plaignante n’étaient pas saisissables, il en
+allait différemment de sa rente LPP qui pouvait être saisie, dans la mesure où son minimum
+vital n’était pas atteint.
+4.
+Par recours du 2 juin 2017, qu’elle a signé
+dans le délai qui lui a été imparti, L.________ a conclu à l’annulation de
+la décision, de la saisie et de la poursuite. Elle a requis la gratuité de la procédure
+et la désignation d’un avocat d’office.
+Par décision du 15 juin 2017, la présidente
+de la cour de céans a admis la requête d’effet suspensif en ce sens que les montants
+saisis ne sont pas distribués jusqu’à droit connu sur le recours.
+Par décision du 16 juin 2017, la présidente de la cour de céans a refusé à la
+recourante le bénéfice de l’assistance judiciaire, pour le motif que l’assistance
+d’un mandataire professionnel ne se justifiait pas, le recours ayant déjà été
+déposé et ne pouvant être complété, le délai de recours étant échu,
+et que la procédure était gratuite.
+Le 26 juin 2017, l’Office a confirmé ses déterminations de première instance. Il
+a produit des pièces.
+En droit :
+I.
+Le recours ayant été exercé en temps utile (art. 18 al. 1 LP [loi du 11 avril 1889 sur
+la poursuite pour dettes et la faillite ; RS 281.1] et 28 al. 1 LVLP [loi du 18 mai 1955 d’application
+dans le canton de Vaud de la LP ; RS 280.05]) par une partie qui y a intérêt et comportant
+des conclusions et moyens suffisants (art. 28 al. 3 LVLP), il est recevable, en tant qu’il conclut
+à l’annulation de la décision attaquée et de la saisie. Il est irrecevable en tant
+qu’il conclut à l’annulation de la poursuite, qui ne concerne pas l’objet de la
+plainte.
+Les déterminations de l’Office et les pièces produites par celui-ci sont également
+recevables (art. 31 al. 1 LVLP).
+II.
+a)
+La recourante fait valoir qu’elle est
+au bénéfice de prestations complémentaires et d’une rente d’impotent, qui
+ont pour but d’établir un minimum vital et décent, de sorte que le fait de saisir des
+sommes ayant été prises en compte pour le calcul des prestations complémentaires serait
+intolérable.
+b)
+L’art. 93 al. 1 LP prévoit que tous les revenus du travail, les pensions et prestations de
+toutes sortes destinées notamment à couvrir une perte de gain, en particulier les rentes qui
+ne sont pas insaisissables en vertu de l’art. 92 LP, peuvent être saisis, déduction faite
+de ce que le préposé estime indispensable au débiteur et à sa famille (minimum vital).
+Cette disposition garantit à ces derniers la possibilité de mener une existence décente,
+sans toutefois les protéger contre la perte des commodités de la vie; elle vise à empêcher
+que l'exécution forcée ne porte atteinte à leurs intérêts fondamentaux, les
+menace dans leur vie ou leur santé ou leur interdise tout contact avec le monde extérieur.
+Les besoins du poursuivi et de sa famille reconnus par la jurisprudence sont ceux d'un poursuivi moyen
+et des membres d'une famille moyenne, c'est-à-dire du type le plus courant. Ils doivent toutefois
+tenir compte des circonstances objectives, et non subjectives, particulières au poursuivi (ATF 134
+III 323 consid. 2 ; TF 5A_252/2011 du 14 juillet 2011 consid. 2.2 ; TF 5A_712/2007 du 11 mars 2008 consid.
+3 et les références citées).
+Sont insaisissables au sens de l'art. 92 al. 1 ch. 9a LP les rentes au sens de l’art. 20 LAVS (loi
+fédérale du 20 décembre 1946 sur l’assurance-vieillesse et survivants ; RS
+831.10) ou de l’art. 50 LAI (loi fédérale du 19 juin 1959 sur l’assurance-invalidité;
+RS 831.20), de même que les prestations au sens de l'art. 20 LPC (loi fédérale du 6 octobre
+2006 sur les prestations complémentaires à l'assurance-vieillesse, survivants et invalidité;
+RS 831.30). Il en va de même des rentes AVS, AI, des prestations versées par des caisses de
+compensation pour allocations familiales ainsi que des allocations pour impotents au sens des art. 42
+ss LAI, que la loi n'énumère pas (Jaeger/Walder/Kull, Bundesgesetz über Schuldbetreibung
+und Konkurs, 5
+e
+éd. 2006, n. 57b ad art. 92 LP; Gilliéron, Commentaire de la loi fédérale sur la
+poursuite pour dettes et la faillite, n. 186 ad art. 92 LP). S'il en est ainsi, c'est parce que l’art.
+112 al. 2 let. b Cst. (Constitution fédérale de la Confédération suisse du 18 avril
+1999; RS 101) dispose que ces prestations doivent couvrir les besoins vitaux de manière appropriée
+(ATF 130 III 400 consid. 3.3.4 et les références). Ainsi, les rentes servies sur la base de
+la LAVS, de la LAI et de la LPC, de même que les allocations familiales, constituent des exceptions
+au principe selon lequel des prestations destinées à remplacer un revenu sont relativement
+saisissables en application de l'art. 93 LP. Le législateur a considéré, suivant en cela
+le Conseil fédéral, qu'aussi longtemps que les prestations du premier pilier n'atteindraient
+pas leur but, c'est-à-dire couvrir les besoins vitaux dans une mesure appropriée, elles devaient
+être déclarées absolument insaisissables (Message du Conseil fédéral du 8 mars
+1991 relatif à la révision de la LP, FF 1991 III 87 ss, p. 88 et 89; Ochsner, Commentaire romand,
+n. 156-157 ad. art. 92 LP; Gilliéron, op. cit., n. 186 ad art. 92 LP).
+A l’exception des rentes précitées servies sur la base de la LAVS, de la LAI, de la LPC
+ainsi que des allocations familiales, toutes les prestations qui sont destinées à combler une
+perte de revenus sont relativement saisissables au sens de l’art. 93 al. 1 LP (Ochsner, op. cit.,
+n. 148 ad art. 92 LP).  Tel est en particulier le cas des prestations versées dans le cadre
+de la prévoyance professionnelle, une fois l’événement assuré survenu (art.
+92 ch. 10 LP a contrario ; ATF 121 III 285 consid. 1b, JdT 1998 II 15 ; ATF 120 III 71, JdT 1997 II 18
+; Ochsner, op. cit., n. 165  ad art. 92 LP).
+Le Tribunal fédéral a rappelé qu'il existait des limites à l'insaisissabilité
+absolue lorsque le débiteur dispose d'autres ressources que les rentes, prestations et allocations
+rendues insaisissables par l'art. 92 LP. Ces autres ressources peuvent alors entrer en ligne de compte
+dans le calcul d'une saisie de revenus; en pareil cas, les prestations absolument insaisissables s'ajoutent
+au revenu relativement saisissable au sens de l'art. 93 al. 1 LP, ce qui permet d'augmenter la part saisissable
+du revenu (ATF 135 III 20 ; ATF 134 III 182, c. 5; ATF 104 III 38 c. 1; TF 5A_14/2007 du 14 mai 2007,
+consid. 3.1). Il faut en effet tenir compte de ce que le débiteur peut subvenir à une partie
+de son entretien au moyen de la rente insaisissable, si bien que pour couvrir la part restante de son
+minimum vital, il n’a le cas échéant plus besoin de tout son revenu relativement saisissable
+(ATF 135 III 20 consid. 5.1 ; ATF 104 III 38 consid. 1). La protection légale de l’insaisissabilité
+des rentes de l’art. 92 LP s’épuise donc dans le fait que ces rentes elles-mêmes
+ne peuvent être saisies (TF 5A_605/2016 du 14 septembre 2016 consid. 2).
+c)
+En l’espèce, la saisie contestée respecte ces principes. Les revenus pris en considération
+pour le calcul de la quotité saisissable étaient de 1'960 fr. à titre de rente AVS, de
+447 fr. à titre de prestations complémentaires et de 278 fr. à titre de rente LPP. Dès
+lors que la rente LPP est relativement saisissable, c’est à juste titre que les prestations
+absolument saisissables ont été ajoutées au revenu relativement saisissable, pour le calcul
+de la saisie. Compte tenu d’un minimum vital non contesté de 2'277 fr., la quotité saisissable
+était de 408 francs. Comme il y avait lieu de tenir compte de la protection de l’insaisissabilité
+des rentes de l’art. 92 LP, qui s’épuise cependant dans le fait que ces rentes elles-mêmes
+ne peuvent être saisies, c’est à juste titre que l’office a fixé la saisie
+au montant de 278 fr. correspondant au montant de la rente LPP de la recourante.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+L’arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al. 2 let.
+a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en application
+de la LP ; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme L.________,
+–
+M. le Préposé à l’Office des poursuites du district de la Riviera-Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
