@@ -1,0 +1,330 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2017___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2017 / 33"
+decided: "2017-09-25"
+published: "2017-09-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20170913144606567_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-036.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-235.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2017 / 33
+
+## Regeste
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 25.09.2017 Réc-civile / 2017 / 33
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH)
+
+TRIBUNAL
+CANTONAL
+LR16.024640
+35
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 25 septembre 2017
+__________________
+Présidence
+de               M.
+Meylan
+,
+président
+Juges
+:              M.
+Kaltenrieder et Mme Revey
+Greffier
+:              M.
+Magnin
+*****
+Art.
+8a al. 3 CDPJ ; 47 al. 1 let. f CPC ;
+Vu la procédure d’enquête en fixation du droit de visite (parents non mariés) ouverte
+le 1
+er
+juin 2016 en faveur de L.________, né le [...], auprès de la Justice de paix [...],
+vu le procès-verbal de l’audience tenue le même jour devant la Juge de paix en charge
+du dossier, G.________, qui vaut ordonnance de mesures provisionnelles fixant le droit de visite de W.________
+sur son fils [...],
+vu l’ordonnance de mesures superprovisionnelles du 13 septembre 2016, par laquelle le Juge de paix
+[...] a suspendu provisoirement le droit de visite de W.________ sur son fils,
+vu le procès-verbal de l’audience tenue le 22 septembre 2016 devant le magistrat prénommé
+valant ordonnance de mesures provisionnelles, fixant le droit de visite de W.________ sur son fils,
+vu le procès-verbal de l’audience tenue le 15 mars 2017 devant la Juge de paix G.________,
+vu la décision du 21 mars 2017, par laquelle la Justice de paix, présidée par G.________,
+a mis un terme à l’enquête en fixation du droit de visite et fixé ce dernier à
+raison d’un week-end sur deux du vendredi à la sortie de l’école au dimanche à
+18 heures, de la moitié des vacances scolaires, ainsi qu’alternativement à Noël
+et Nouvel-An, à Pâques et Pentecôte, à l’Ascension et au Jeûne fédéral,
+étant précisé que, s’agissant des vacances scolaires, W.________ aura son fils [...]
+auprès de lui deux semaines consécutives au maximum,
+vu la requête déposée le 13 avril 2017 par W.________ tendant à la modification du
+procès-verbal du 15 mars 2017,
+vu la lettre du 30 mai 2017, par laquelle P.________, mère de [...], a requis de la Juge de paix
+qu’elle se prononce sur la fixation des dates des vacances 2017,
+vu l’ordonnance d’instruction rendue le 9 juin 2017 par la Juge de paix G.________,
+vu la requête de mesures superprovisionnelles et provisionnelles déposée le 14 juin 2017
+par P.________ et l’ordonnance de mesures superprovisionnelles du même jour suspendant le
+droit de visite de W.________ sur son fils [...],
+vu la lettre du 30 juin 2017 de W.________,
+vu le procès-verbal de l’audience tenue le 14 juillet 2017 devant la Juge de paix G.________,
+en présence de P.________, assistée de son conseil, et de Me [...], avocat, représentant
+W.________, dispensé de comparution,
+vu l’ordonnance de mesures provisionnelles du 27 juillet 2017, par laquelle la Juge de paix G.________
+a notamment fixé provisoirement le droit de visite de W.________ sur son fils [...] à raison
+d’un week-end sur deux, du vendredi soir à la sortie de l’école, ou dès 16
+heures en période de vacances scolaires, jusqu’au dimanche à 18 heures, a maintenu la
+suspension du droit de visite durant les vacances scolaires et les jours fériés en alternance,
+a invité W.________ et P.________ à établir, par l’intermédiaire de leurs conseils,
+un calendrier des visites et à fixer les modalités de passage de [...], a ordonné à
+W.________ d’initier un suivi thérapeutique et a dit que les parties seraient convoquées
+au début de l’année 2018 pour faire le point de la situation,
+vu le courrier du 28 juillet 2017, par lequel Me [...], ancien conseil de W.________, a requis la modification
+du procès-verbal du 14 juillet 2017 en ce sens que les termes « son client (…) a
+des traits à caractère psychotiques » soient supprimés,
+vu la lettre du 3 août 2017, par laquelle W.________ a requis la rectification du procès-verbal
+du 14 juillet 2017,
+vu le recours déposé le 7 août 2017 par W.________ contre l’ordonnance de mesures
+provisionnelles rendue le 27 juillet 2017,
+vu le courrier du 22 août 2017 de W.________ et la réponse du 24 août 2017 de la Juge
+de paix G.________,
+vu la demande déposée le 8 septembre 2017 par W.________, transmise, avec le dossier de la
+cause, à l’autorité de céans comme objet de sa compétence par la Chambre des
+curatelles du Tribunal cantonal, tendant à la récusation de la Juge de paix G.________, ainsi
+que le bordereau de pièces produit à l’appui de celle-ci,
+vu la lettre du 19 septembre 2017, par laquelle la Juge de paix G.________ s’en est remise à
+justice quant au sort à réserver à cette demande de récusation,
+vu les pièces au dossier ;
+attendu qu'il s'agit en premier lieu de déterminer l'autorité compétente pour traiter
+la demande de récusation,
+que l'art. 8a al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010 ;
+RSV 211.02) dispose que lorsque la demande de récusation vise un magistrat professionnel ou un vice-président,
+trois autres magistrats du même office judiciaire statuent sur ladite demande,
+que la Cour de céans est compétente pour statuer sur les demandes de récusation visant
+l'ensemble d'une autorité judiciaire de première instance ou la majorité de ses membres
+(art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC [Règlement organique du Tribunal cantonal du 13 novembre
+2007 ; RSV 173.31.1]),
+que dans le cas d’un office judiciaire composé de moins de quatre magistrats professionnels,
+il revient à la Cour de céans de statuer sur la demande de récusation d’un magistrat
+professionnel, en application analogique des art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC (CA 20 octobre
+2016/29),
+qu’en l’occurrence, la Justice de paix du district [...] n’est composée que de
+trois magistrates professionnelles,
+que la Cour de céans est ainsi compétente pour statuer comme autorité de première
+instance sur la demande du 8 septembre 2017 portant sur la récusation de la Juge de paix G.________ ;
+attendu qu’aux termes de l’art. 49 al. 1 CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), la partie qui entend obtenir la récusation d’un magistrat ou d’un
+fonctionnaire judiciaire la demande au tribunal aussitôt qu’elle a eu connaissance du motif
+de récusation,
+que le droit de soulever un motif de récusation se périme s’il n’est pas invoqué
+immédiatement (Tappy, CPC commenté, 2011, n. 19 ad art. 49 CPC),
+que la diligence de la partie qui demande la récusation doit être appréciée en fonction
+du principe de la bonne foi (Aubry Girardin, Commentaire LTF, 2014, n. 11 ad art. 36 LTF),
+que, selon la pratique constante, celui qui omet de se plaindre immédiatement de la prévention
+d’un magistrat et laisse le procès se dérouler sans intervenir, agit contrairement aux
+règles de la bonne foi et voit son droit se périmer (ATF 138 I 1 consid. 2.2 ; TF 1B_321/2013
+du 30 octobre 2013 consid. 2.1 ; Aubry Girardin, op. cit., n. 11 ad art. 36
+LTF),
+que, si la loi ne prévoit aucun délai particulier, il y a lieu d’admettre que la récusation
+doit être formée dans les jours qui suivent la connaissance de la cause de la récusation
+(TF 1B_277/2008 du 13 novembre 2008 consid. 2.3
+in
+fine
+; Aubry Girardin, op. cit., n. 11
+ad art. 36 LTF),
+que, dans tous les cas, attendre près d’un mois avant de former une demande de récusation
+est trop long (TF 8F_4/2011 du 18 octobre 2011 consid. 6.1 ; Aubry Girardin, op. cit., n. 11
+ad art. 36 LTF),
+que la prévention ou l’apparence de prévention résulte parfois de l’accumulation
+progressive d’attitudes ou de propos en eux-mêmes anodins mais qui, cumulés, peuvent
+finir par donner une impression de partialité,
+que, dans une telle hypothèse, l’on ne saurait exiger que la demande de récusation soit
+présentée aussitôt à chacun de ces faits,
+qu’il est dès lors légitime de les invoquer tous comme indices de la prévention
+alléguée, dans une demande consécutive au plus récent d’entre eux (Tappy, CPC
+commenté, 2011, n. 13 ad art. 49 CPC et les références citées),
+qu’en l’espèce, à l’appui de sa demande de récusation, le requérant
+fait valoir divers prétendus manquements de la Juge de paix G.________, dont il a eu connaissance,
+pour certains d’entre eux, à compter de la notification de l’ordonnance de mesures provisionnelles
+du 27 juillet 2017, de l’envoi du courrier du 24 août 2017 et du week-end du 26 et 27
+août dernier,
+que la demande de récusation, déposée le 8 septembre 2017, paraît ainsi avoir été
+adressée plus d’une dizaine de jours après la réception du courrier précité,
+si bien qu’elle apparaît tardive,
+que la question de la recevabilité de la requête de récusation peut toutefois rester indécise,
+dès lors qu’elle doit être rejetée pour les motifs suivants ;
+attendu qu'à teneur de l’art. 47 al. 1 let. f CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils pourraient être prévenus d'une quelconque manière, notamment
+en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 § 1
+CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre
+1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin
+2012 consid. 2.1 ; ATF 138 I 1 consid. 2.2 et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid.
+2.1),
+que la garantie du juge impartial ne commande pas, en principe, la récusation d’un juge aux
+motifs qu’il aurait, lors d’un procès précédent, rendu une décision défavorable
+à l’intéressé (Bohnet, CPC commenté, 2010, n. 23 ad art. 47 CPC
+et les références citées),
+que des décisions ou des actes de procédure prétendument viciés, voire arbitraires,
+ne fondent pas en soi une apparence objective de prévention (TF 5A_171/2015 du 20 avril 2015
+consid. 6.1 ; TF 4A_377/2014 du 25 novembre 2014 consid. 6.1 et les références citées),
+qu’en particulier, même lorsqu'elles sont établies, des erreurs de procédure ou
+d'appréciation commises par un juge ne suffisent pas à fonder objectivement un soupçon
+de partialité, seules des erreurs particulièrement lourdes ou répétées, constitutives
+de violations graves des devoirs du magistrat, pouvant justifier une suspicion de partialité, pour
+autant que les circonstances corroborent à tout le moins objectivement l'apparence de prévention
+(TF 5A_749/2015 du 27 novembre 2015 consid. 4.1 ; ATF 138 IV 142 consid. 2.3 et les références
+citées),
+que c'est aux juridictions de recours normalement compétentes qu'il appartient de constater et de
+redresser les erreurs éventuellement commises, le juge de la récusation ne pouvant pas examiner
+la conduite du procès à la façon d'une instance d'appel (TF 5A_749/2015 du 27 novembre
+2015 consid. 4.1 ; ATF 116 Ia 135 consid. 3a), ni d'un organe de surveillance (TF 4A_323/2010 du
+3 août 2010 consid. 2.2),
+que le requérant soutient d’abord, à l’appui de sa demande récusation, que
+G.________ aurait protocolé, dans le procès-verbal du 14 juillet 2017, des propos que son conseil
+n’aurait jamais tenus, à savoir que W.________ aurait des « traits à caractère
+psychotiques », et qui seraient, au regard des attestations médicales produites (cf. bordereau,
+P. 5, 7 et 8), contraires à la réalité,
+qu’il reproche également à la magistrate d’avoir mentionné des faits de manière
+incomplète voire tronqués dans le procès-verbal du 14 juillet 2017, de n’avoir pas
+retranscrit dans celui-ci un certain nombre des déclarations de son conseil, notamment celles faisant
+partie de la plaidoirie de ce dernier, et de n’avoir pas donné suite à sa demande de
+rectification du 3 août 2017,
+qu’il considère qu’un tel comportement, selon lui attentatoire à son honneur et
+visant à le nuire, laisserait dès lors apparaître un manque d’impartialité
+et d’objectivité de la magistrate intimée à son égard, les décisions rendues
+par celles-ci étant par conséquent « biaisées »,
+qu’en l’espèce, on relève en premier lieu que W.________ n’était pas
+présent lors de l’audience du 14 juillet 2017, de sorte qu’il fait pour l’essentiel
+état de propos rapportés,
+qu’au demeurant, la demande de rectification déposée par le conseil le 28 juillet 2017
+ne porte que sur un seul point,
+que, par ailleurs, le courriel du 31 juillet 2017, retranscrit par le requérant (cf. demande de
+récusation, p. 5), ne permet pas d’établir, comme il le prétend, qu’un certain
+nombre des déclarations de son conseil n’auraient pas été reportées au procès-verbal,
+puisque, dans son e-mail, ce dernier informe simplement son mandant qu’il avait dit tout ce qu’il
+pouvait dire pour convaincre la juge, précisant qu’il ne se souvenait plus des termes exacts
+qu’il avait pu utiliser,
+qu’en outre, on rappelle que, selon l’art. 235 al. 2 CPC, lors de la tenue d’un procès-verbal,
+seuls les allégués ne figurant pas dans les actes écrits sont consignés dans leur
+substance,
+que, de toute manière, les griefs dont il est question ci-dessus, visant à la rectification
+d’un procès-verbal ayant conduit à l’ordonnance de mesures provisionnelles du 27
+juillet 2017, sont susceptibles de faire l’objet, pour autant qu’il soient fondés, non
+pas d’une demande de récusation à l’encontre du magistrat concerné, mais d’un
+recours ou d’un appel contre la décision précitée,
+qu’au demeurant, il apparaît que ces griefs ont pour l’essentiel été soulevés
+par le requérant dans son recours du 7 août 2017,
+qu’on relève encore, à toutes fins utiles, que l’absence de réponse de la
+Juge de paix G.________ à la demande de rectification du 3 août 2017 s’explique selon
+toute vraisemblance par le fait que W.________ a déposé son recours contre l’ordonnance
+du 27 juillet 2017 seulement quelques jours après,
+que, pour le reste, s’agissant du procès-verbal de l’audience du 15 mars 2017, et pour
+autant que le grief y relatif ne soit pas tardif, la juge intimée a, dans son ordonnance d’instruction
+du 9 juin 2017, du reste non contestée, déjà expliqué de manière complète
+et convaincante au requérant pourquoi elle n’avait pas procédé à l’ensemble
+des rectifications demandées,
+que le requérant reproche dans un deuxième temps à G.________ d’avoir occulté,
+tout au long de la procédure, différentes correspondances rédigées de sa main ou
+par l’intermédiaire de ses précédents conseils, notamment une lettre du 5 mars 2017
+et des déterminations du 30 juin 2017,
+qu’à cet égard, il apparaît, à la lecture de la décision de la Justice
+de paix du 21 mars 2017 et de l’ordonnance de mesures provisionnelles du 27 juillet 2017, que la
+Juge de paix G.________ a, quoi qu’en dise le requérant, pris en considération les nombreux
+courriers adressés par ce dernier et par sa mère,
+qu’il n’appartient au demeurant pas au magistrat concerné de répondre à chaque
+correspondance qui lui est adressée au cours de la procédure, ce d’autant moins lorsqu’il
+s’agit d’un très grand nombre de courriers, avec un contenu parfois similaire, comme
+c’est le cas ici,
+qu’ainsi, ce grief, pour autant qu’il ne soit pas tardif, n’est en tout état de
+cause pas de nature à faire apparaître un quelconque indice de partialité de la magistrate
+concernée,
+que, par ailleurs, le requérant reproche encore à celle-ci d’avoir tenu des affirmations
+mensongères en disant que son fils [...] ne voulait pas que son procès-verbal soit transmis
+à son père et à sa mère et d’instrumentaliser ce dernier en ce sens qu’il
+ne voudrait plus passer les vacances scolaires avec son père,
+que de telles allégations, outre qu’elles apparaissent invraisemblables, ne sont corroborées
+par aucune preuve tangible,
+que W.________, se prévalant d’un courriel retranscrit du pédiatre de son fils du 27
+juin 2017 (cf. demande de récusation, p. 6), considère enfin que les décisions de la Juge
+de paix G.________ auraient des conséquences néfastes sur l’état de santé psychologique
+et physique de son fils,
+qu’en l’occurrence, le courriel précité mentionne tout au plus que, selon l’avis
+du pédiatre, c’est en réalité la situation familiale actuelle et les graves dysfonctionnements
+de celle-ci qui peuvent être néfastes pour [...],
+qu’en définitive, il découle de ce qui précède que, de manière générale,
+W.________ se borne à critiquer, par le biais de moyens appellatoires, les décisions défavorables
+rendues à son encon
+tre
+au cours de la procédure et à exprimer son ressenti émotionnel à l’égard
+de la juge en charge de son dossier, sans parvenir à faire apparaître des indices concrets
+de prévention,
+que, dans ces circonstances, le requérant ne parvient pas à établir une attitude partiale
+de la Juge de paix G.________, même à considérer globalement les éléments qu’il
+a dénoncés, ni à démontrer l’existence d’un motif de récusation
+au sens de l’art. 47 al. 1 let. f CPC,
+qu’en particulier, on ne discerne pas, dans la conduite de l’enquête en fixation du
+droit de visite ouverte en faveur de L.________, d’erreurs de procédure lourdes ou répétées
+ou des actes de harcèlement commis par la juge intimée, susceptibles de constituer des violations
+graves de ses devoirs de magistrat,
+qu’ainsi, aucun motif de récusation n’est réalisé ;
+attendu que, compte tenu de ce qui précède, la demande de récusation de la Juge de paix
+G.________ est manifestement infondée,
+que cette demande doit être rejetée sans qu’il soit nécessaire de recueillir les
+déterminations des autres parties (TF 5A_194/2010 du 13 septembre 2010 consid. 2.2 et 2.3) ;
+attendu que la Cour de céans renonce en principe à prélever des frais judiciaires lorsque
+la demande de récusation se révèle manifestement mal fondée et qu'elle ne nécessite
+dès lors pas de recueillir les déterminations des autres parties concernées (cf. not.
+CA 9 mai 2016/11),
+que le présent arrêt pourra donc être rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 8 septembre 2017 par W.________ est rejetée,
+dans la mesure où elle est recevable.
+II.
+L’arrêt est rendu sans frais ni dépens.
+III.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. W.________,
+-
+Mme G.________, juge de paix du [...],
+-
+Me Jean-Pierre Wavre, avocat (pour P.________),
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Le greffier :
