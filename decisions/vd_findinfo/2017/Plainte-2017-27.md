@@ -1,0 +1,406 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 27"
+decided: "2017-09-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6270092"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-178.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-095.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.42/art-013.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 27
+
+## Regeste
+
+EXPERTISE, ORDRE DE SAISIE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, PLAINTE{LP}, USUFRUIT | 29 al. 2 Cst., 17 LP, 95 al. 1 LP, 95 al. 2 LP, 95 LP, 97 al. 1 LP, 97 al. 2 LP, 97 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 26.09.2017 Plainte / 2017 / 27
+
+EXPERTISE, ORDRE DE SAISIE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, PLAINTE{LP}, USUFRUIT | 29 al. 2 Cst., 17 LP, 95 al. 1 LP, 95 al. 2 LP, 95 LP, 97 al. 1 LP, 97 al. 2 LP, 97 LP
+
+TRIBUNAL
+CANTONAL
+FA.17.014001-171204
+24
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+26 septembre 2017
+______________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 95 al. 1et 2, 97 al. 1 et 2 LP ; 29 Cst.
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.X.________
+,
+à [...], contre la décision rendue le 29 juin 2017, à la suite de l’audience
+du 9 mai 2017, par le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, admettant la plainte formée contre une décision de l’
+Office
+des poursuites du district de Lavaux-Oron
+, à
+Pully, par
+B.X.________
+,
+au [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 24 mars 2015, à la réquisition de B.X.________, l’Office des poursuites du district
+de Lavaux-Oron (ci-après : l’Office) a notifié à A.X.________, dans la poursuite
+n° 7'374'273, un commandement de payer la somme de 136'725 francs 92. Le poursuivi a formé
+opposition totale.
+Le 14 décembre 2015, à la réquisition de B.X.________, l’Office a notifié à
+A.X.________, dans la poursuite n° 7'698'404, un commandement de payer la somme de 174'730 francs.
+Le poursuivi a formé opposition totale.
+Le 22 septembre 2016, la poursuivante a déposé auprès de l’Office deux réquisitions
+de continuer la poursuite contre le poursuivi, respectivement pour un montant de 136'725 fr. 92 avec
+intérêt à 5 % l’an dès le 1
+er
+décembre 2014 et pour la somme de 174'730 fr. avec intérêt à 5 % l’an dès
+le 1
+er
+août 2015.
+2.
+Le 10 octobre 2016, l’Office a constaté, après l’interrogatoire du poursuivi, qu’il
+n’était pas possible de saisir les salaires de celui-ci dès lors qu’il suivait
+une formation non rémunérée et que les charges du ménage étaient assumées
+par sa compagne.
+Le 12 janvier 2017, la poursuivante a informé l’Office que le poursuivi était nu-propriétaire
+de 17'646 actions de la société Z.________ SA, la mère de ce dernier en étant l’usufruitière.
+Dans un courrier du 16 janvier 2017, le poursuivi s’est plaint auprès de l’Office d’une
+violation de sa sphère privée par la production par la poursuivante des titres établissant
+qu’il était nu-propriétaire des actions susmentionnées et a soutenu que ces actions
+étaient insaisissables en raison de l’usufruit les grevant.
+Lors d’un nouvel interrogatoire du poursuivi du 20 janvier 2017, celui-ci a indiqué qu’il
+était propriétaire unique de la parcelle n° [...] du Registre foncier de la Commune de
+[...] estimée à 1'700'000 fr., et libre de gage dès lors que les cédules hypothécaires
+de 1'000'000 fr. et de 300'000 fr. étaient en sa possession. Le poursuivi a confirmé qu’il
+était nu-propriétaire de 17'646 actions de la société Z.________ SA d’une valeur
+nominale de 612 fr. 50, sa mère en étant l’usufruitière.
+A la suite de cet interrogatoire, l’Office a sommé le poursuivi de lui remettre, à titre
+conservatoire, les deux cédules hypothécaires en sa possession, ce que le poursuivi a fait
+le 1
+er
+février 2017.
+Le 25 janvier 2017, la poursuivante s’est déterminée sur le courrier du poursuivi du
+16 janvier 2017 et a contesté tant l’atteinte à la sphère privée de ce dernier
+que l’insaisissabilité des actions susmentionnées.
+Par courrier du 3 février 2017, le poursuivi a répondu au courrier précité en rappelant
+à l’Office qu’il devait rester maître de la saisie, que celle-ci ne devait pas
+se faire ni à la carte ni sur l’ordre du créancier. Il a en outre mis en exergue ses
+droits de la manière suivante :
+« L’article
+755 CC fixe les droits de l’usufruitier, bénéficiaire d’une servitude et titulaire
+de droits réels.
+Les droits réels de l’usufruitier priment les droits de créanciers nu-propriétaire.
+Partant  l’usufruitier est protégé, ce qui empêche la saisie des objets sur
+lesquels porte son droit d’usufruit. »
+3.
+Le 23 février 2017, l’Office a adressé
+deux délégations à forme des art. 89 LP et 24 ORFI à l’Office des poursuites
+du district de Nyon pour que celui-ci procède à la saisie de la parcelle n° [...] du Registre
+foncier de la Commune de [...].
+Par courrier du 13 mars 2017, la poursuivante a demandé à l’Office de respecter strictement
+l’ordre de saisie prévu par l’art. 95 LP en faisant valoir qu’elle et sa fille
+occupaient l’immeuble sis sur la parcelle n° [...] susmentionnée, dont la jouissance
+leur avait été attribuée, et en contestant l’insaisissabilité des actions de
+Z.________ SA. Elle a en outre informé l’Office qu’elle était au bénéfice
+d’une nouvelle décision de mainlevée définitive du 27 février 2017 pour un
+arriéré de pensions de 86'000 francs.
+Par courrier du 16 mars 2017, l’Office a informé les parties que la saisie porterait sur la
+parcelle n° [...] du Registre foncier de la Commune de [...].
+4.
+Par acte du 27 mars 2017, la poursuivante a déposé
+une plainte LP contre la décision de l’Office du 16 mars 2017 en concluant, avec suite de
+frais et dépens, à son annulation, la cause étant renvoyée à l’Office
+afin que celui-ci procède à la réalisation des biens mobiliers du débiteur, en particulier
+des actions de la société Z.________ SA dont il est nu-propriétaire. Elle a requis que
+l’effet suspensif soit accordé à la plainte. Elle a fait valoir que l’immeuble
+en cause lui avait été attribué par prononcé de mesures protectrices de l’union
+conjugale du Président du Tribunal civil de l’arrondissement de la Côte du 29 novembre
+2013, confirmé par arrêt du Juge délégué de la Cour d’appel civile du
+14 février 2014 et arrêt du la IIe Cour de droit civil du Tribunal fédéral du 20
+novembre 2014, et qu’elle avait obtenu par prononcé du Président du Tribunal civil de
+l’arrondissement de la Côte du 29 juin 2015 qu’interdiction soit faite au poursuivi
+de disposer de l’immeuble en cause, celui-ci faisant en outre l’objet d’une restriction
+du droit d’aliéner inscrite au registre foncier.
+Par décision du 4 avril 2017, le Président du Tribunal d’arrondissement de l’Est
+vaudois a accordé l’effet suspensif à la plainte jusqu’à droit connu sur celle-ci.
+Dans ses déterminations du 2 mai 2017, l’Office a conclu au rejet de la plainte.
+Dans ses déterminations du 4 mai 2017, le poursuivi a conclu, avec suite de frais et dépens,
+au rejet de la plainte.
+La plaignante et l’Office ont été entendus à l’audience du 9 mai 2017. L’Office
+s’en est remis à justice sur la plainte.
+5.
+Par décision du 29 juin 2017, le Président
+du Tribunal d’arrondissement de l’Est vaudois, statuant en tant qu’autorité inférieure
+de surveillance, a admis la plainte (I), annulé la décision de l’Office du 16 mars 2017,
+ordonné à celui-ci de procéder dans le cadre des poursuites en cause, à la saisie
+des 17'646 actions d’une valeur nominale de 612 fr. 50 de la société Z.________ SA dont
+le poursuivi est nu-propriétaire (II) et rendu la décision sans frais judiciaires ni dépens
+(III). En substance, le premier juge a considéré que l’intérêt de la plaignante
+à pouvoir habiter dans l’immeuble en cause devait prévaloir sur celui de l’intimé
+à disposer librement de ses actions, la prérogative de pouvoir habiter dans cette villa ayant
+ici un caractère de stricte nécessité.
+6.
+Par recours du 10 juillet 2017, A.X.________ a
+conclu avec suite de frais et dépens principalement à l’annulation de la décision,
+en vue d’une instruction complémentaire, subsidiairement à ce que la décision de
+saisie de l’Office soit déclarée en force, à ce que la décision de saisie de
+l’Office du 6 juillet 2017 soit mise à néant et à ce que la cédule hypothécaire
+de 1'300'000 fr. lui soit immédiatement remise libre en cas de refus d’effet suspensif. Il
+a requis que l’effet suspensif soit accordé au recours et a produit un bordereau de pièces
+dont une copie de la décision de l’Office du 6 juillet 2017 saisissant les 17'646 actions
+d’une valeur nominale par action de 564 fr. 50 de la société Z.________ SA.
+Par décision du 13 juillet 2017, la présidente de la cour de céans a rejeté la requête
+d’effet suspensif.
+Dans ses déterminations du 19 juillet 2017, l’Office s’en est remis à justice sur
+le recours.
+Dans ses déterminations du 7 août 2017, l’intimée B.X.________ a conclu au rejet
+du recours. Elle a produit un bordereau de pièces.
+En droit :
+I.
+Le recours a été formé en temps utile, dans le délai de dix jours des art. 18 al.
+1 LP (loi du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) et 28 al. 1 LVLP
+(loi du 18 mai 1955 d’application dans la Canton de Vaud de la LP ; RS 280.05). Il comporte
+l’énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte qu’il est recevable.
+Il en va de même des pièces produites par les parties (art. 28 al. 4 LVLP).
+II.
+Le litige porte sur l’ordre et l’étendue de la saisie. Le recourant soutient que la
+saisie devrait porter sur l’immeuble et non sur les actions dont il est nu-propriétaire. Il
+considère par ailleurs que l’étendue de la saisie est disproportionnée, vu les montants
+en poursuite et que la saisie n’aurait dû porter que sur 750 actions et non sur 17'646 actions
+de Z.________ SA. Il soutient enfin que le premier juge n’aurait pas examiné ses courriers
+du 16 janvier 2017 et du 3 février 2017, ce qui constituerait un déni de justice.
+Il n’est pas contesté que l’avis de saisie figure parmi les actes de l’office
+ouvrant la voie de la plainte, car il s’agit d’un acte matériel ayant pour objet la
+continuation de la procédure forcée et produisant des effets externes (CPF 23 septembre 2013/29
+; CPF 5 septembre 2012/37; CPF 21 juin 2010/14) ; en particulier, le saisi peut contester l’objet
+saisi ou l’ordre des saisies (Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 59 ad art. 95 LP; Ochsner, in : Dallèves/Foëx/Jeandin (éd.),
+Commentaire romand, Poursuite et faillite, Bâle 2005, n. 209 ad art. 93 LP et de Gottrau, ibidem,
+n. 39 ad art. 95 LP).
+III.
+Dans la mesure où le recourant invoque un déni de justice, grief d’ordre formel, il y
+a lieu de l’examiner en premier.
+a)
+La jurisprudence a déduit du droit d'être entendu garanti par l'art. 29 al. 2 Cst. (Constitution
+fédérale du 18 avril 1999 ; RS 101) l'obligation pour les autorités de motiver leurs
+décisions. Le droit d'être entendu, en tant que droit rattaché à la personnalité
+permettant de participer à la procédure, exige que l'autorité entende effectivement les
+arguments de la personne touchée dans sa situation juridique par la décision, qu'elle examine
+ses arguments avec soin et sérieux, et qu'elle en tienne compte dans la prise de décision.
+De là découle l'obligation fondamentale des autorités de motiver leurs décisions.
+Le citoyen doit savoir pourquoi l'autorité a rendu une décision à l'encontre de ses arguments.
+La motivation d'une décision doit dès lors se présenter de telle manière que l'intéressé
+puisse le cas échéant la contester de manière adéquate. Cela n'est possible que lorsque
+tant le citoyen que l'autorité de recours peuvent se faire une idée de la portée d'une
+décision. Dans ce sens, il faut que les considérations qui ont guidé l'autorité et
+sur lesquelles elle a fondé sa décision soient à tout le moins brièvement exposées
+(ATF 129 I 235 consid. 3.2 et références, JdT 2004 I 588). Toutefois, l'autorité n'a pas
+l'obligation d'exposer et de discuter tous les faits, moyens de preuve et griefs invoqués par les
+parties, mais elle peut au contraire se limiter à ceux qui, sans arbitraire, lui paraissent pertinents
+(ATF 138 I 232 consid. 5.1; ATF 133 III 439 consid. 3.3, JdT 2008 I 4; ATF 130 II 530 consid. 4.3 ; TF
+5A_344/2015 du 29 février 2016 consid. 5.3). Une motivation implicite, résultant des différents
+considérants de la décision, suffit à respecter le droit d’être entendu (TF
+5A_278/2012 du 14 juin 2012 consid. 4.1 ; TF 6B_726/2010 du 17 mai 2011 consid. 1.3 ; ATF 141 V 557 consid.
+3.2.1 ). Dès lors que l’on peut discerner les motifs qui ont guidé la décision de
+l’autorité, le droit à une décision motivée est respecté même si
+la motivation présentée est erronée (TF 5A_741/2016 du 6 décembre 2016 consid. 3.3.1).
+En revanche, une autorité se rend coupable d’un déni de justice formel si elle omet de
+se prononcer sur des griefs qui présentent une certaine pertinence ou de prendre en considération
+des allégués et arguments importants pour la décision à prendre (ATF 141 V 557 consid.
+3.2.1 ; TF 5A_306/2016 du 7 juillet 2016 consid. 3.2 ; TF 5A_359/2016 du 7 septembre 2016 consid. 4.1
+; TF 5A_982/2015 du 9 décembre 2016 consid. 3.1 ; TF 5A_282/2016 du 17 janvier 2017 consid. 3.1.1,
+RSPC 2017 p. 221 ; TF 5A_506/2016 du 6 février 2017 consid. 2 ; TF 5A_902/2016 du 21 mars 2017 consid.
+4.1 ; TF 5A_766/2016 du 5 avril 2017 consid. 3.1.1).
+b)
+En l’espèce, le premier juge n’a pas méconnu les deux courriers du 16 janvier 2017
+et du 3 février 2017, dont il cite au contraire la teneur essentielle dans son état de fait.
+Il a ainsi apprécié ces pièces. Il pouvait, sans violer son devoir de motivation, se limiter
+à examiner les griefs qui lui paraissaient pertinents, celui de la prétendue insaisissabilité
+de la nue-propriété étant, comme on le verra, sans consistance. Au demeurant, le recourant,
+qui reprend la teneur de ces courriers, a pu faire valoir ses griefs en recours. Le moyen est infondé.
+IV.
+Le
+recourant fait valoir que les droits réels de l’usufruitier primeraient ceux du nu-propriétaire,
+de sorte que la saisie d’objets sur lesquels porte un droit d’usufruit serait exclue.
+Pour qu’un bien soit saisissable, il suffit qu’il soit propriété (même à
+titre fiduciaire, ATF 113 III 26, JdT 1989 II 79) du débiteur (de Gottrau, op. cit., n. 8 ad art.
+95 LP ; Foëx, Basler Kommentar, 2
+e
+éd , n. 10 ad art. 95 LP). Le fait que le recourant soit seulement nu-propriétaire des actions
+litigieuses n’exclut dès lors pas la saisie de ce bien. Le débiteur est tenu d’indiquer
+tous les biens qui lui appartiennent, y compris ceux qui ne sont pas en possession, comme ceux qui sont
+en possession de l’usufruitier (Gilliéron, op. cit., n. 34 ad art 91 LP). A cet égard,
+si l’usufruitier a la possession, l’usage et la jouissance de la chose, ainsi que sa gestion
+(art. 755 al. 1 et 2 CC), l’usufruit ne comporte pas le pouvoir de disposer de l’objet grevé,
+ni en fait, ni en droit (Steinauer, Les droits réels, 4
+e
+éd., tome II n. 2405 p. 54), pouvoir qui appartient toujours au nu-propriétaire. La saisie
+portera dès lors sur la nue-propriété.  Le moyen est infondé.
+V.
+a)
+Selon l’art. 95 al. 1 LP, la saisie porte au premier chef sur les biens meubles, y compris les
+créances et les droits relativement saisissables ; les objets de valeur courante doivent être
+saisis les premiers, ceux dont le débiteur peut se passer plus aisément, de préférence
+à ceux dont il pourrait difficilement se priver. Selon l’art. 95 al. 2 LP, les immeubles ne
+sont saisis qu’à défaut de biens meubles suffisants pour couvrir la créance. En
+vertu de l’art. 95 al. 4bis LP, le préposé peut s’écarter de cet ordre lorsque
+les circonstances le justifient ou que le créancier et le débiteur le demandent conjointement.
+Selon l’art. 95 al. 5 LP, en général, le fonctionnaire qui procède à la saisie
+doit concilier autant que possible les intérêts du créancier et ceux du débiteur.
+L'art. 95 LP se contente toutefois de définir les grandes lignes de l'ordre de la saisie, l'autorité
+de poursuite disposant dans de nombreux cas d'une certaine marge de manœuvre et d'appréciation.
+Il en va notamment ainsi lorsqu'il s'agit d'établir un ordre à l'intérieur d'une même
+catégorie, d'un même rang. Dans le cadre de son activité, le fonctionnaire qui procède
+à la saisie doit néanmoins respecter certains principes cardinaux. En particulier, il doit
+concilier autant que possible les intérêts du créancier et ceux du débiteur (art.
+95 al. 5 LP). Il découle de ce principe que, d'une part, l'office des poursuites doit saisir en
+premier les droits de propriété sur des objets mobiliers de valeur courante dont le poursuivi
+peut se passer plus aisément, de préférence aux droits de propriété mobilière
+sur des choses dont il pourrait difficilement se priver (art. 95 al. 1 in fine LP) et, d'autre part,
+que l'office des poursuites doit saisir en premier lieu les droits patrimoniaux dont la réalisation
+procurera une prompte satisfaction au poursuivant de préférence à ceux dont la réalisation
+est soumise à de plus longs délais ou plus compliquée (ATF 115 III 45 consid. 3a et les
+réf.; ATF 32 I 388 consid. VI ; TF 7B.244/2005 du 11 janvier 2006 consid. 3 ; Gilliéron,
+op. cit., n. 17 et 26 ad art. 95 LP). Lorsque les intérêts du créancier et du débiteur
+sont opposés, la priorité devra en principe être donnée à ceux du premier, la
+solution retenue par le préposé devant, en toute hypothèse, préserver de manière
+suffisante les intérêts du créancier, qui prévalent sur ceux du débiteur (TF
+5A_887/2014 du 14 juillet 2015 consid. 2.1, SJ 2016 I 23 ; Jaeger/Walder/Kull/Kottmann, Das Bundesgesetz
+über Schuldbetreibung und Konkurs, 5
+e
+éd., Zurich 2006, n. 24 ad art. 95 SchKG [LP]; de Gottrau, op. cit., n. 38 ad art. 95 LP).
+L’office dispose ainsi d’un certain pouvoir d’appréciation qui peut l’amener
+à s’écarter de l’ordre légal prescrit, dans les limites de l’art. 95
+al. 4bis LP. En tout état de cause, l’office ne devra faire qu’un usage prudent de cette
+possibilité de s’écarter de l’ordre légal de la saisie (de Gottrau, op. cit.,
+n. 35 ad art. 95 LP ; Foëx, op. cit., n. 61 ad art. 95 LP).
+b)
+Le premier juge a considéré qu’il n’y avait pas lieu en l’espèce de
+s’écarter de l’ordre légal de l’art. 95 LP. Il a tenu compte du fait que
+la jouissance de la propriété du [...] avait été attribuée à la poursuivante
+par prononcé de mesures protectrices du 29 novembre 2013, qu’une restriction provisoire du
+droit d’aliéner l’immeuble avait été ordonnée par prononcé de mesures
+protectrices du 29 juin 2015, fondée sur l’art. 178 CC, que la poursuivante vivait dans
+cette maison avec C.X.________, âgée de quatorze ans et dont elle avait obtenu la garde, de
+sorte que la saisie de l’immeuble lui porterait gravement préjudice, puisqu’elle serait
+susceptible, en cas de réalisation forcée, de la priver d’un toit.
+Le recourant se contente de faire valoir que la cédule hypothécaire serait plus facilement
+réalisable que des actions en nue-propriété, grevées d’usufruit, « qui
+ne pourraient qu’être bradées sur la base d’une spéculation aussi immorale
+que malsaine liée à la durée de l’usufruit ». Ce faisant, il méconnaît
+tout d’abord que la saisie du 16 mars 2017 dont il demande expressément confirmation porte
+sur l’immeuble lui-même. Il n’apparaît pas que la réalisation forcée
+d’actions grevées d’usufruit serait plus complexe que celle d’un immeuble. Au
+contraire, l’intérêt de la poursuivante, lié à la poursuite de l’occupation
+de cet immeuble, l’emporte sur celui du poursuivi et commande de ne pas s’écarter de
+l’ordre légal, aucune circonstance particulière, qui doit être appréciée
+avec prudence, n’étant établie.
+c)
+Par ailleurs, lorsque le recourant se plaint qu’il serait l’objet d’une double saisie,
+soit celle de ses actions ainsi que de la cédule hypothécaire, son grief est manifestement
+infondé. D’une part, la remise de la cédule à l’Office n’est intervenue
+le 20 janvier 2017 qu’à titre conservatoire (art. 13 ORFI [ordonnance du 23 avril 1920 sur
+la réalisation forcée des immeubles ; RS 281.42]), en vue de garantir la saisie de l’immeuble
+intervenue le 16 mars 2017. D’autre part, la saisie de l’immeuble a été annulée
+par la décision attaquée et remplacée par la saisie des actions. Le grief de double saisie
+est infondé.
+VI.
+a)
+Dans le processus de la saisie, il incombe
+également au fonctionnaire de faire l'estimation des objets qu'il saisit; à cet effet, il peut
+s’adjoindre un expert (art. 97 al. 1 LP). Il doit veiller à ne saisir que les biens nécessaires
+pour satisfaire les créanciers saisissants en capital, intérêts et frais (art. 97 al.
+2 LP). Le recours à un expert peut s’imposer  lorsque le préposé – ou
+son substitut – ne dispose pas des connaissances particulières nécessaires à l'estimation
+des biens saisis (ATF 93 III 20 c. 4, JT 1967 II 44). Dans certaines circonstances, une expertise peut
+toutefois s'avérer inutile, voire déraisonnable, par exemple si elle coûte proportionnellement
+trop chère, ou encore si elle impose un délai trop long (ATF 110 III 65; Foëx, Basler
+Kommentar, 2
+e
+éd., nn. 14 et 15 ad art. 97 LP ; Gilliéron, op. cit., n. 21 ad art. 97 LP ; CPF 14 juillet
+2014/31).
+b)
+A cet égard, le recourant fait valoir que la saisie de l’ensemble des actions serait disproportionnée,
+dès lors que la saisie de 17'646 actions de Z.________ SA de 612 fr. 50 représenterait une
+valeur en capital de 10'808'175 fr., alors que le cours boursier serait plus élevé du double,
+les créances objets de la procédure s’élevant pour leur part à 136'725 fr.
+et 174'730 fr., plus intérêts.
+Lorsqu’il se prévaut d’un cours boursier, qu’il n’établit nullement,
+le recourant se contredit avec ses propres allégations, selon lesquelles la réalisation forcée
+des actions ne pourrait entraîner que leur « bradage ».  Lorsqu’il se prévaut
+de la valeur nominale des actions, il méconnaît qu’il n’est pas titulaire de la
+pleine propriété, mais uniquement de la nue-propriété de ces actions grevées
+d’un droit d’usufruit, ce qui est de nature à influer de manière importante sur
+le prix de réalisation forcée.  L’incertitude quant au résultat d’une
+vente forcée de ces titres qui, d’une part, ne sont pas cotés en bourse et, d’autre
+part, sont grevés d’usufruit est telle que l’Office, dans ses déterminations à
+la plainte du 2 mai 2017,  a indiqué (ch. 26 des déterminations) que, s’il avait
+procédé à la saisie des actions, il aurait également saisi l’immeuble, au vu
+de ces incertitudes. On ne voit pas qu’une telle incertitude aurait pu être levée par
+le biais d’une expertise, en l’absence d’une valeur de marché, et le recourant
+ne le prétend même pas. Il n’a d’ailleurs jamais requis une telle expertise, ce
+qu’il lui aurait incombé de faire. Le grief est infondé.
+VII.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP,
+61 al. 2 let. a et 62 al. 2 OELP (ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Albert J Graf, avocat (pour A.X.________),
+‑
+Me Elie Elkaim, avocat (pour B.X.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
