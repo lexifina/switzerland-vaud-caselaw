@@ -1,0 +1,160 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 33"
+decided: "2017-10-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6279702"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 33
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, MOTIF DU RECOURS, OUVERTURE DE LA FAILLITE, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.10.2017 Faillite / 2017 / 33
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, MOTIF DU RECOURS, OUVERTURE DE LA FAILLITE, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF17.032523-171673
+257
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 octobre 2017
+___________________
+Composition
+:              Mme
+Byrde
+,
+vice-présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 et 2 LP; 321 al. 1 CPC
+Vu le jugement rendu par la Présidente du Tribunal d’arrondissement de Lausanne le 20 septembre
+2017, à la suite de l’audience du 17 août 2017 à laquelle la partie requérante
+avait fait défaut, prononçant la faillite d’
+Y.________SA
+,
+à [...], le 20 septembre 2017 à 14 heures 45, à la réquisition de l’
+Université
+de X.________
+, à [...], et mettant les frais,
+par 200 fr., à la charge de la faillie,
+vu le recours formé contre ce jugement par Y.________SA par lettre du 25 septembre 2017 adressée
+à la cour de céans, faisant valoir qu’elle a concrétisé des accords commerciaux
+et financiers qui vont lui permettre d’honorer sa dette et de sortir de la situation de surendettement
+dans laquelle elle se trouve, et indiquant avoir déposé une demande d’ajournement de
+faillite le 14 septembre 2017 auprès du Tribunal d’arrondissement de Lausanne, qui l’a
+citée à comparaître le 12 octobre 2017 à une audience au cours de laquelle elle
+présentera « les documents concrets qui matérialisent les perspectives de redéploiement
+de la société sur des bases saines et pérennes »,
+vu les autres pièces du dossier ;
+attendu qu'aux termes de l'art. 174 al. 1 LP (loi fédérale sur la poursuite pour dettes et
+la faillite; RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet
+d'un recours au sens du CPC (Code de procédure civile; RS 272),
+qu'en l'espèce, le recours formé par lettre Y.________SA adressée le 25 septembre 2017
+à la cour de céans, autorité de recours en matière de faillite, l'a été
+en temps utile;
+attendu que la partie qui entend user d'une voie de droit a la charge de se conformer à certaines
+règles de forme, à défaut de quoi sa démarche sera frappée d'irrecevabilité
+(Jeandin,
+in
+Bohnet
+et al.
+(éd.), Code de procédure civile commenté, Bâle 2011, n. 1
+ad
+art. 321 CPC),
+que le recours au sens des art. 319 ss CPC doit s'exercer par acte écrit et motivé (art. 321
+al. 1 CPC),
+que si la motivation fait défaut, l’instance de recours n’entre pas en matière,
+que selon la jurisprudence du Tribunal fédéral, la motivation du recours doit à tout le
+moins satisfaire aux exigences qui sont posées pour un acte d’appel (TF 5A_488/2015 du 21
+août 2015 consid. 3.2.1 et 3.2.2, publié
+in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation
+de la décision attaquée et que son argumentation doit être suffisamment explicite pour
+que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (ibid.),
+qu’en matière de faillite, les motifs peuvent aussi tendre à démontrer que les conditions
+d’une annulation de la faillite sont réunies (art. 174 al. 2 LP),
+que la motivation d’un acte de recours doit être entièrement contenue dans le mémoire
+de recours lui-même et ne saurait être complétée ou corrigée ultérieurement
+(ibid.),
+que ni l’art. 132 al. 1 et 2, ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (ibid.),
+qu'en l'espèce, la lettre d’Y.________SA ne contient aucun grief contre le jugement de faillite
+ni aucun motif d’annulation de la faillite, mais uniquement des allégations ayant trait à
+une demande d’ajournement de faillite,
+que cet acte de recours est dès lors irrecevable, faute de motivation ;
+attendu qu’au demeurant, même s’il était recevable, le recours devrait être
+considéré comme manifestement infondé et, par conséquent, rejeté,
+qu'en effet, en vertu de l'art. 174 al. 2 LP, l’autorité de recours peut annuler le jugement
+de faillite lorsque le débiteur rend vraisemblable sa solvabilité et prouve par titre le paiement
+de la dette à l’origine de la faillite, intérêts et frais compris, ou le dépôt
+de la totalité du montant à rembourser auprès de l’autorité judiciaire supérieure
+à l’intention du créancier, ou encore le retrait par ce dernier de la réquisition
+de faillite,
+qu’en l’espèce, Y.________SA - à qui pourtant, selon le procès-verbal de l’audience
+de faillite du 17 août 2017, un délai au 18 septembre 2017 avait déjà été
+accordé pour s’acquitter de la poursuite en cause et faire parvenir au tribunal une preuve
+du paiement - n’allègue ni ne prouve avoir payé sa dette dans le délai de recours,
+mais fait seulement valoir que des accords commerciaux et financiers « vont lui permettre d’honorer la
+dette due » ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Y.________SA,
+‑
+Université de X.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
