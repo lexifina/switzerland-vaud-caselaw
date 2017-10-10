@@ -1,0 +1,398 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 30"
+decided: "2017-10-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6292905"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-609.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-132.md", "switzerland/bund/acts/281.41/art-010.md", "switzerland/bund/acts/281.41/art-012.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 30
+
+## Regeste
+
+CONVENTION DE PARTAGE, COMMUNAUTÉ HÉRÉDITAIRE, REPRÉSENTANT, SIGNATURE | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 10.10.2017 Plainte / 2017 / 30
+
+CONVENTION DE PARTAGE, COMMUNAUTÉ HÉRÉDITAIRE, REPRÉSENTANT, SIGNATURE | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA17.016453-171189
+27
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 octobre 2017
+____________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+P.________
+,
+à St-Sulpice, contre la décision rendue le 23 juin 2017, à la suite de l’audience
+du 18 mai 2017, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, dans la cause opposant la recourante à l'
+OFFICE
+DES POURSUITES DU DISTRICT DE L'OUEST LAUSANNOIS
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 23 novembre 2011, l’Office des poursuites du district de l’Ouest lausannois (ci-après
+: l'Office) a notamment procédé à la saisie des droits de P.________ dans la succession
+de feu son père, [...], décédé le
+[...],
+à la requête de la Confédération suisse, l’Etat de Vaud et la Commune de Saint-Sulpice
+(ci-après : les créanciers), représentés par l’Administra-tion cantonale
+des impôts.
+Le 1
+er
+avril 2014, la Présidente du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité
+inférieure de surveillance, a notamment prononcé la dissolution de la communauté héréditaire
+de feu [...] (I), ordonné la liquidation du patrimoine de cette communauté (II), désigné
+l’Office
+en vue de prendre toutes
+les mesures juridiques nécessaires à la liquidation (II
+[recte
+: III]) et autorisé celui-ci à procéder à la répartition entre les créanciers
+du produit net de la réalisation de la part saisie (III [recte : IV]).
+Par requête du 22 mai 2014, modifiée par courrier du 19 août 2014, l’Office a requis
+du Président du Tribunal d’arrondissement de la Broye et du Nord vaudois l’assistance
+de l’autorité compétente en vue de partager les actifs compris dans la succession de
+feu [...]. Le 14 novembre 2014, P.________ a déclaré ne pas s’opposer à la désignation
+du notaire [...] en qualité de « liquidateur ».
+Par décision du 14 janvier 2015, la Présidente du Tribunal d'arrondisse-ment de la Broye et
+du Nord vaudois (ci-après : la Présidente) a notamment désigné le notaire [...] en
+qualité de représentant intervenant au partage en lieu et place de l’héritière-débitrice
+P.________ (I) et dit que la mission du notaire consisterait à évaluer les possibilités
+d’un partage amiable en consultant les parties intéressées et en leur proposant un projet
+de partage, et, à défaut, d’ouvrir action en partage auprès de l’autorité
+compétente et dans les formes prévues à cet effet (II). Cette décision n’a
+pas fait l’objet d’un appel.
+b)
+Le 29 avril 2016, le notaire [...] a adressé à la Présidente un rapport concernant la
+succession de feu [...], dans lequel il avait indiqué qu'aucun accord permettant le partage n'ayant
+pu être trouvé entre les héritiers, il se voyait contraint de demander l'ouverture d'une
+action en partage auprès de l'autorité compétente. Ce rapport a été communiqué
+à P.________ avec un délai pour faire d'éventuelles observations.
+Le 20 mai 2016, l'Office s'est déterminé sur ce rapport et a informé la Présidente
+que le décès récent de [...], usufruitière de tous les biens de feu [...], rendait
+nécessaire un nouveau calcul de la répartition des parts entre les différents héritiers.
+Une copie de ce courrier a été adressée à P.________.
+Par lettre du 16 décembre 2016, le notaire a fait savoir à l’Office et à la Présidente
+qu'une réunion entre la majorité des héritiers de la succession de feu [...] avait eu
+lieu en son étude le 17 novembre 2016 et qu'un accord avait pu être trouvé pour permettre
+le partage de la succession. Il a joint à sa lettre un nouveau rapport, modifiant le précédent
+et tenant compte des éléments intervenus entretemps. P.________ n’a pas reçu copie
+de cette correspon-dances, ni du rapport annexé.
+Le 30 mars 2017, le notaire a informé la Présidente que le rapport établi le 16 décembre
+2016 avait été « agréé par toutes les parties concernées, en particu-lier
+par l’Office des poursuites du district de l’Ouest lausannois et l’Office des poursuites
+du district de Lausanne ». Il a annexé à son courrier un projet de convention de
+partage dont le contenu correspondait exactement au rapport du
+16
+décembre 2016. Il précisait adresser copie de son courrier et de son annexe à tous les
+héritiers.
+Le 3 avril 2017, l’Office, par [...], substitut, a signé la déclara-tion d’adhésion
+à la convention du 30 mars 2017 qui lui avait été adressée par le notaire [...].
+Le même jour, l’Office a adressé à P.________, pour information, une copie de ladite
+convention et de la déclaration d’adhésion signée par ses soins.
+Le 24 avril 2017, la Présidente a invité notamment P.________ et l’Office à lui
+indiquer s’ils consentaient à ce que les parcelles faisant partie de la succession soient
+vendues selon les termes et modalités du rapport du notaire [...].
+c)
+Le 13 avril 2017, P.________ a déposé plainte auprès du Président du Tribunal d'arrondissement
+de Lausanne "à l'encontre de la déclaration d’adhésion de l'Office des poursuites
+du district de l'Ouest lausannois à la convention de partage établie le 30 mars 2017 par le
+notaire [...]", concluant à ce qu'il soit "constaté que l'Office des poursuites n'était
+pas habilité à signer la convention de partage du 30 mars 2017 en lieu et place de P.________;
+par voie de conséquence, la déclaration d'adhésion et ladite convention sont invalides".
+Les créanciers se sont déterminés sur la plainte dans une écriture du 10 mai 2017,
+concluant :
+-
+préliminairement
+à ce que P.________ soit convoquée à l'audience du
+18 mai 2017,
+-
+principalement à ce que la plainte soit partiellement admise,
+-
+à ce qu'il soit constaté
+que la déclaration d'adhésion signée par l'Office le 3 avril
+2017 est invalide,
+-
+à ce qu'il soit constaté
+que la convention de partage établie par le notaire [...]
+le 30 mars 2017 est valide et
+-
+à ce que P.________
+et son conseil Me Eric Muster soient solidaire-
+ment condamnés à une amende, ainsi qu’au paiement "des émoluments et des
+débours de la cause", pour des montants fixés à dire de justice.
+Dans ses déterminations du 12 mai 2017, l'Office a conclu au rejet de la plainte et à la condamnation
+de P.________ à une amende de 1'500 fr. pour avoir agi de manière téméraire et de
+mauvaise foi.
+Une audience a été tenue le 18 mai 2017 en présence de Me Eric Muster, conseil de la plaignante,
+[...], substitut, et
+[...], huissière cheffe, pour l'Office, ainsi que [...], responsable du centre contentieux de l'Administration
+cantonale des impôts, pour les créanciers. A également été entendu à cette
+occasion le notaire [...], en qualité de témoin.
+2.
+Par prononcé du 23 juin 2017, la Présidente du Tribunal d’arrondisse-ment de Lausanne,
+statuant en tant qu’autorité inférieure de surveillance en matière de poursuite
+pour dettes et faillite, a partiellement admis la plainte (I), constaté que la déclaration
+d’adhésion signée le 3 avril 2017 par l’Office des poursuites du district de l’Ouest
+lausannois était invalide (II), constaté que le notaire [...], en qualité de représentant
+de l’autorité intervenant au partage, était habilité à signer en lieu et place
+de l’héritière-débitrice P.________ une convention de partage (III), constaté
+que la convention signée le 30 mars 2017 par ce notaire et adressée à la même date
+à la Présidente du Tribunal civil de l’arrondissement de la Broye et du Nord vaudois
+était valide (IV), rendu son prononcé sans frais ni dépens (V) et rejeté toutes autres
+ou plus amples conclusions (VI). Cette décision a été notifiée à P.________
+le 26 juin 2017.
+Par acte déposé le 6 juillet 2017, accompagné de treize pièces sous bordereau, P.________
+a recouru contre le prononcé du 23 juin 2017, concluant, avec suite de frais et dépens, à
+sa réforme, en ce sens que :
+-
+principalement : « le
+notaire [...], en qualité de représentant de
+l’autorité intervenant au partage, n’est pas habilité à signer en lieu et
+place de               l’héritière
+P.________ une convention de partage à l’amiable sans son
+accord et, par voie de conséquence, la convention signée le 30 mars 2017 par le
+notaire [...] est invalide »,
+-
+subsidiairement : « la
+convention de partage signée le 30 mars 2017 par le notaire
+[...] est invalide ».
+Par décision du 10 juillet 2017, le juge présidant de la cour de céans a admis la requête
+d'effet suspensif contenue dans le recours, à laquelle les créanciers, par l'Administration
+cantonale des impôts, se sont opposés dans un courrier du 7 juillet 2017.
+Dans ses déterminations du 25 juillet 2017, l’Office intimé s'est référé
+à celles qu'il avait déposées en première instance, le 12 mai 2017.
+Le 28 juillet 2017, l'Administration cantonale des impôts, agissant pour les créanciers, a
+conclu au rejet du recours et à ce que la recourante et son conseil, Me Eric Muster, soient solidairement
+condamnés à une amende, ainsi qu’au paiement "des émoluments et des débours de
+la cause", pour des montants fixés à dire de justice.
+En droit :
+I.
+Déposé en temps utile, dans les dix jours à compter de la notification de la décision
+de l’autorité inférieure de surveillance, auprès de la cour de céans, autorité
+cantonale supérieure de surveillance (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d’application
+de la LP ; RSV 280.05]), et précisant les points sur lesquels une modification est demandée
+ainsi que les moyens invoqués (art. 28 al. 3 LVLP), le recours est recevable. Il en va de même
+des pièces produites à l'appui du recours, qui figuraient déjà au dossier de première
+instance. Les déterminations du préposé et des intimés sont également recevables
+(art. 28 al. 4 LVLP).
+II.
+Sauf dans les cas où la loi prescrit la voie judiciaire, il peut être porté plainte à
+l’autorité de surveillance lorsqu’une mesure de l’office est contraire à
+la loi ou ne paraît pas justifiée en fait (art. 17 al. 1 LP). Par mesure, il faut entendre
+tout acte d'autorité, accompli par l'office ou par un organe de la poursuite en exécution d'une
+mission officielle dans une affaire concrète (ATF 128 III 156 consid. 1c et les réf.) ;
+l'acte de poursuite doit être de nature à créer, modifier ou supprimer une situation du
+droit de l'exécution forcée dans l'affaire en question et il peut se manifester de toutes sortes
+de façons (ATF 129 III 400 consid. 1.1 ; Cometta/Möckli,
+in
+Staehelin/Bauer/Staehelin (éd.), Basler Kommentar SchKG I, nn. 18-22
+ad
+art. 18 SchKG [LP] et les réf. cit. ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, nn. 12 ss
+ad
+art. 17-21 LP).
+En l’espèce, au vu de son intitulé et des arguments développés, la plainte
+déposée par P.________ le 13 avril 2017 vise la déclaration d’adhésion du 3
+avril 2017 de l'Office à la convention de partage établie par le notaire [...] le 30 mars 2017.
+La conclusion de la plaignante tendant à ce qu'il soit constaté que la convention est invalide
+vise en revanche la convention elle-même.
+La déclaration d'adhésion du 3 avril 2017 constitue clairement une mesure de l'Office au sens
+de l'art. 17 LP pouvant faire l'objet d'une plainte. En revanche, la recevabilité de la plainte
+apparaît discutable en tant qu'elle vise la convention de partage elle-même, qui n'émane
+pas de l'Office. Cette question peut toutefois rester ouverte dans la mesure où le recours doit
+de toute manière être rejeté pour les raisons qui suivent.
+III.
+a)
+Lorsqu'il s'agit de réaliser une part de communauté, il appartient à l'autorité de
+surveillance de fixer le mode de réalisation (art. 132 al. 1 LP). Après avoir consulté
+les intéressés, l'autorité peut ordonner la vente aux enchères, confier la réalisation
+à un gérant ou prendre toute autre mesure (art. 132 al. 3 LP). L'OPC (ordonnance du Tribunal
+fédéral concernant la saisie et la réalisation de parts de communautés ; RS 281.41)
+prévoit toutefois des mesures plus précises qui restreignent le pouvoir attribué à
+l'autorité de surveillance par l'art. 132 al. 3 LP (ATF 135 III 179 consid. 2.1 p. 180 ss ; ATF
+96 III 10 consid. 2 p. 15). Ainsi, en vertu de l'art. 10 al. 2 OPC, l'autorité de surveillance doit
+décider, en tenant compte autant que possible des propositions des intéressés, si la part
+de communauté saisie doit être vendue aux enchères comme telle ou s'il y a lieu de procéder
+à la dissolution de la communauté et à la liquidation du patrimoine commun conformément
+aux dispositions qui régissent la communauté dont il s'agit.
+Lorsqu'elle choisit la
+dissolution et la liquidation de la communauté selon l'art. 10 al. 2 OPC, et qu'il s'agit d'une
+hoirie, l'autorité de surveillance ne peut qu'ordonner celles-ci. Il appartient alors à l'office
+des poursuites, conformément à l'art. 12 OPC, de requérir le partage auprès du juge
+compétent (JdT 2003 III 69 consid. 2c ; CPF 29 mars 2017/4 ; CPF 3 avril 2014/12). Cette
+solution a été jugée conforme au droit fédéral par le Tribunal fédéral
+(TF 7B.76/2002 du 1
+er
+juillet 2002).
+Cette procédure a été suivie en l’espèce. L’autorité inférieure
+de surveillance a, par décision du 1
+er
+avril 2014, prononcé la dissolution de la communauté héréditaire, ordonné la
+liquidation du patrimoine de cette communauté et désigné l’Office en vue de prendre
+toutes les mesures juridiques nécessaires à la liquidation.
+b)
+Selon
+l’art. 12 OPC, si l’autorité de surveillance ordonne la dissolution et la liquidation
+de la communauté, l’office des poursuites ou, en cas de désignation d’un administrateur
+par l’autorité de surveillance, cet administrateur prendra les mesures juridiques nécessaires
+pour procéder à la dissolution et à la liquidation et exercera à cet effet tous les
+droit appartenant au débiteur. S’il s’agit d’une communauté héréditaire,
+l’office requerra le partage avec le concours de l’autorité compétente aux termes
+de l’art. 609 CC.
+Selon le premier alinéa de cette dernière disposition, tout créancier qui acquiert ou
+saisit la part échue à un héritier, ou qui possède contre lui un acte de défaut
+de biens, peut demander que l’autorité intervienne au partage en lieu et place de cet héritier.
+En l’espèce, les 22 mai et 17 août 2014, l’Office a requis du Président du
+Tribunal d’arrondissement de la Broye et du Nord vaudois l’assistance de l’autorité
+compétente en vue de partager les actifs de la succession de feu [...]. Par décision du 14
+janvier 2015, la Présidente a fait droit à cette requête et a désigné le notaire
+[...] "en qualité de représentant intervenant au partage en lieu et place de l'héritière-débitrice
+P.________", avec pour mission "[d']évaluer les possibilités d’un partage amiable
+en consultant les parties intéressées et en leur proposant un projet de partage, et, à
+défaut, d’ouvrir action en partage auprès de l’autorité compétente et
+dans les formes prévues à cet effet". Le notaire ainsi désigné n’est pas
+un administrateur au sens de l’art. 12 OPC. Il représente l’autorité compétente
+pour intervenir au partage conformément à l’art. 609 CC.
+c)
+La tâche de l’autorité compétente au sens de l’art. 609 CC, ou du représentant
+qu’elle a désigné, se limite à intervenir au partage, qu’elle ne peut ni effectuer
+ni diriger elle-même ; son rôle dans la procédure de partage correspond néanmoins
+à celui de l’héritier, car elle ne prend pas la place du créancier, mais celle de
+l’héritier-débiteur (ATF 129 III 316, JdT 2003 I 227). Il lui appartient de représenter
+aux opérations de partage l’héritier dont la part successorale a été saisie,
+de décider si elle veut admettre ou contester les prétentions des cohéritiers et, le cas
+échéant de faire trancher la contestation par les tribunaux (ATF 63 II 231, JdT 1938 I 102) ;
+elle prend la place de l’héritier-débiteur, et à ce titre doit pouvoir introduire
+l’action en partage (ATF 129 III 316 précité) ; une entente amiable peut aussi intervenir
+entre elle et le cohéritiers du débiteur saisi, quitte le cas échéant à engager
+sa responsabilité si la décision d’acceptation ou de refus d’une offre des cohéritiers
+ne répond pas aux circonstances (ATF 96 III 10, JdT 1971 II 19).
+d)
+En l'espèce, tout en admettant qu’une entente amiable peut survenir entre l’autorité
+qui intervient au partage à la place du débiteur et les cohéritiers, la recourante soutient
+qu'il serait « contraire à la loi de considérer qu’il entre dans la compétence
+du notaire de signer pour [elle] une convention de partage établie à titre transactionnel »,
+une telle convention devant, selon elle, trouver l'adhésion de l'héritier-débiteur. Citant
+un arrêt du Tribunal fédéral 5A_760/2015 du 18 mars 2016, la recourante fait valoir qu'elle
+aurait dû participer aux opérations de partage et être tenue informée sur la teneur
+des discussions menées et que, tel n'ayant pas été le cas, son droit d'être entendu
+aurait été violé.
+Il n'en est rien. En effet, le notaire [...], désigné en vertu de l'art. 609 CC en qualité
+de représentant de l'autorité compétente, a pris la place de la recourante dans le cadre
+de la procédure de partage. La décision du 14 janvier 2015 est parfaitement claire sur ce point,
+le notaire y étant désigné "en lieu et place de l'héritière-débitrice
+P.________". Sa mission y est également clairement indiquée : "évaluer les possibilités
+d’un partage amiable en consultant les parties intéressées et en leur proposant un projet
+de partage, et, à défaut, d’ouvrir action en partage auprès de l’autorité
+compétente et dans les formes prévues à cet effet". La recourante n'a pas fait appel
+de cette décision, qui, devenue définitive, ne saurait être remise en cause dans le cadre
+d’une plainte LP. P.________ n'avait ainsi pas à donner son accord à la convention de
+partage, ni à être informée sur le déroulement des discussions menées, le représentant
+de l’autorité ayant eu précisément pour mission, conformément aux principes
+qui ont été énoncés ci-dessus, d'agir à sa place.
+L’arrêt du TF 5A_760/2015 du 18 mars 2016 invoqué par la recourante ne lui est d’aucun
+secours. Il concerne en effet un créancier qui avait formé une plainte LP, après que les
+négociations eurent échoué, et qui demandait à ce que les membres de l’hoirie
+fournissent divers renseignements. Contrairement à ce qu’affirme la recourante, ce n’était
+pas l’héritier-débiteur qui avait refusé le projet d’acte de partage. L’arrêt
+précise que celui-ci n’avait pas été accepté par tous les intéressés
+et que des discussions et échanges de correspondances avaient eu lieu entre le curateur (chargé
+justement d’intervenir en lieu et place de l’héritier-débiteur), l’office,
+les créanciers et les autres héritiers (et non avec l’héritier-débiteur).
+La recourante ne peut pas non plus tirer argument du fait que la Présidente lui a demandé le
+24 avril 2017 si elle consentait à la vente des parcelles concernées. Cette interpellation
+résultait manifestement d’une erreur et n’a pas pu avoir pour effet de changer le régime
+légal, ni de conférer à la recourante des droits qu’elle ne possédait pas.
+e)
+A titre subsidiaire, la recourante fait valoir
+que dans le cadre des opérations de partage, il doit être tenu compte des droits de tous les
+intéressés, y compris ceux de l’héritier-débiteur, et que tel n’aurait
+pas été le cas en l’espèce. Elle n'indique toutefois pas en quoi la convention du
+30 mars 2017 nuirait à ses intérêts. Elle se contente de faire valoir que le notaire n’aurait
+pas pris en compte "les interactions possibles qu’une vente des parcelles n° [...] sises
+à Sainte-Croix pourrait avoir sur la valeur des parcelles sises à [...], dont la recourante
+est propriétaire commune, en société simple, avec [...]". Elle n’explique ni
+en quoi pourraient consister ces "interactions" ni en quoi ces prétendues interactions
+pourraient nuire à ses intérêts.
+f)
+En définitive, la recourante échoue
+à démontrer que son adhésion à la convention de partage du 30 mars 2017 aurait dû
+être recueillie et la convention est pleinement valide.
+IV.
+Le recours doit donc être rejeté et
+le prononcé confirmé.
+Les créanciers intimés ont conclu à l'allocation de dépens et à ce que la recourante
+et son conseil soient solidairement condamnés à une amende.
+La procédure de plainte est en principe gratuite, sauf procédés téméraires ou
+de mauvaise foi (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments
+perçus en application de la LP ; RS 281.35]).
+Vu la complexité des questions soulevées en l’espèce, on ne saurait considérer
+le recours comme un acte téméraire ou de mauvaise foi. Le présent arrêt est par conséquent
+rendu sans frais ni dépens.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Eric Muster, avocat (pour P.________),
+‑
+Administration cantonale des impôts (pour la Confédération suisse, l’Etat de Vaud
+et la commune de St-Sulpice),
+-
+M. le Préposé à l’Office des poursuites du district de l’Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours
+dans la poursuite pour effets de change – qui suivent la présente notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
