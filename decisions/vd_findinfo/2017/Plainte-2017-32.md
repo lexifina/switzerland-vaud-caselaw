@@ -1,0 +1,362 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 32"
+decided: "2017-10-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6313625"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-559.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-066.md", "switzerland/bund/acts/281.1/art-098.md", "switzerland/bund/acts/281.1/art-275.md", "switzerland/bund/acts/281.1/art-277.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 32
+
+## Regeste
+
+SÉQUESTRE{LP}, CERTIFICAT D'HÉRITIER, DEVOIR DE COLLABORER, OBLIGATION DE RENSEIGNER, PART DE COMMUNAUTÉ, OFFICE DES POURSUITES, REMISE{DÉLIVRANCE} | 18 al. 1 LP, 275 LP, 91 al. 1 ch. 2 LP, 98 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 20.10.2017 Plainte / 2017 / 32
+
+SÉQUESTRE{LP}, CERTIFICAT D'HÉRITIER, DEVOIR DE COLLABORER, OBLIGATION DE RENSEIGNER, PART DE COMMUNAUTÉ, OFFICE DES POURSUITES, REMISE{DÉLIVRANCE} | 18 al. 1 LP, 275 LP, 91 al. 1 ch. 2 LP, 98 LP
+
+TRIBUNAL
+CANTONAL
+FA17.016847-171378
+30
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 octobre 2017
+____________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 91 al. 1 ch. 2, 98 et 275 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.R.________
+,
+à [...], contre la décision rendue le 19 juillet 2017, à la suite de l’audience
+du 8 juin 2017, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée le 19 avril 2017 par le recourant
+contre une mesure de sûreté prise par l’
+Office
+des poursuites du district de Lausanne
+dans le
+cadre du séquestre n° 8’203'590 ordonné à la réquisition de l’
+Etat
+de Vaud
+, représenté par l’
+Administration
+cantonale des impôts
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+B.R.________ est décédée le
+1
+er
+octobre 2011, laissant pour seul héritier légal son fils, A.R.________.
+L’impôt successoral n’ayant pas été payé, l’Administration cantonale
+des impôts (ci-après : ACI), représentant l’Etat de Vaud, a, dans un premier
+temps, requis du Juge de paix du district de La Riviera-Pays-d’Enhaut, à titre de mesure conservatoire,
+le report de la délivrance du certificat d’héritier. Elle a par ailleurs requis du Juge
+de paix du district de Lausanne le séquestre de la part de A.R.________ « dans la liquidation
+de la propriété commune/communauté héréditaire qu’il forme avec feue sa
+mère B.R.________ (…) et dont l’actif consiste [en] un immeuble, parcelle RF n°
+[...] de la commune de [...] (…) », pour une créance de 40'762 fr. 15, plus intérêt
+à 3% l’an dès le 26 janvier 2016, dont le titre est le suivant : « Impôt
+sur les successions 2011 (Etat de Vaud et Commune de [...]), selon décision de taxation et décompte
+final du 16.12.2015, sommation du 23.02.2016 ».
+L’ordonnance de séquestre, scellée le 1
+er
+mars 2017, a été enregistrée par l’Office des poursuites du district de Lausanne
+(ci-après : l’Office), sous n° 8’203’590.
+Le 2 mars 2017, l’Office a adressé un avis de séquestre aux tiers intéressés,
+notamment la société O.________AG et la Justice de paix du district de La Riviera-Pays-d’Enhaut,
+et les a invités à lui adresser à l’avenir toutes les communications destinées
+au débiteur et relatives à la communauté. Le même jour, il a enjoint au plaignant
+de se présenter jusqu’au vendredi 10 mars 2017 en ses locaux afin de « fournir tous
+les éléments utiles permettant de compléter les mesures prises ».
+Le 9 mars 2017, le Juge de paix du district de La Riviera-Pays-d’Enhaut a délivré le
+certificat d’héritier à A.R.________ et a adressé ce document à l’Office.
+A.R.________ ne s’est pas présenté à l’Office dans le délai imparti.
+Le 13 mars 2017, l’Office lui a adressé, ainsi qu’à l’ACI, le procès-verbal
+de séquestre indiquant notamment que l’original du certificat d’héritier reçu
+du juge de paix « est placé sous la garde de l’office en regard des dispositions
+de l’art. 98 LP applicable par analogie à l’art. 275 LP ».
+b)
+Le 16 mars 2017, à la réquisition de l’ACI, l’Office a établi un commandement
+de payer dans la poursuite ordinaire n° 8'229’125 exercée contre A.R.________ en validation
+du séquestre n° 8’203'590. Le 25 avril 2017, en application de l’art. 66 al. 4
+ch. 2 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1), il a notifié
+cet acte au poursuivi par voie édictale. Aucune opposition à la poursuite n’a été
+enregistrée dans le délai légal. Le 19 mai 2017, l’ACI a requis la continuation
+de la poursuite. Le 22 mai 2017, l’Office a notifié au plaignant un avis de saisie, l’informant
+qu’il serait procédé à la saisie le 6 juin 2017, à son domicile.
+c)
+Par
+lettre du 21 mars 2017, A.R.________ a requis de l’Office qu’il lui remette le certificat
+d’héritier en sa possession. L’Office a refusé, par lettre du 22 mars 2017,
+relevant que ledit certificat faisait partie de la succession et qu’il était placé sous
+sa garde en application de l’art. 98 al. 1 LP, applicable au séquestre en vertu de l’art.
+275 LP, afin d’interdire tout acte de disposition du séquestré qui pourrait porter préjudice
+au créancier ; il a ajouté que, faute d’avoir été renseigné par la
+banque sur les actifs de la succession, il ne pouvait pas déterminer si la part héréditaire
+en cause était suffisamment couverte par le séquestre. L’Office a confirmé sa position
+dans une décision rendue sous forme de lettre le 7 avril 2017, précisant qu’elle pouvait
+faire l’objet d’une plainte au sens de l’art. 17 LP. A.R.________ a reçu cette
+décision le 10 avril 2017. Le 19 avril 2017, il a adressé à la Présidente du Tribunal
+d’arrondissement de Lausanne, en sa qualité d’autorité inférieure de surveillance
+en matière de poursuites pour dettes et de faillite, une plainte concluant à ce qu’ordre
+soit immédiatement donné au préposé de l’Office de lui restituer son certificat
+d’héritier.
+L’Office s’est déterminé le 1
+er
+juin 2017, préavisant en faveur du rejet de la plainte.
+2.
+a)
+La décision attaquée retient notamment ce qui suit du déroulement de l’audience
+qui s’est tenue le 8 juin 2017 (p. 10) :
+« A
+cette occasion, le représentant de l’Office intimé a à nouveau invité le plaignant
+à le renseigner sur les actifs de la succession et à délier la société O.________AG
+du secret bancaire, relevant qu’une fois le montant des comptes bancaires connus, il serait en
+mesure de bloquer la seule partie nécessaire au recouvrement de la créance déduite en
+poursuite. Le plaignant a contesté qu’un disponible subsiste sur ces comptes et a refusé
+de répondre lorsqu’il lui a été demandé ce qu’il était advenu des
+montants importants qui s’y trouvaient auparavant, selon un extrait datant de 2014 en possession
+de l’Office. Sur insistance de la présidente de céans, il a fini par déclarer que
+cet argent avait servi à régler la dette d’impôt de 25'000 fr., l’entretien
+et les frais en lien avec l’immeuble sis à [...], ainsi que ses diverses charges mensuelles.
+»
+Le représentant de l’Office a produit des pièces. Les représentants de l’ACI
+ont conclu au rejet de la plainte. Ils ont également produit des pièces.
+Après l’audience, le plaignant a adressé plusieurs courriers à la présidente
+du tribunal et a produit notamment une « vue d’ensemble » de ses comptes établie
+le 8 juin 2017 par O.________AG, qui fait état d’un compte personnel présentant un solde
+de 11'007 fr. 89 et d’un compte épargne présentant un solde de 4 fr. 30.
+Par lettre du 16 juin 2017, l’ACI a précisé à l’attention de la présidente
+du tribunal que si le plaignant lui avait effectivement versé un montant de 25'500 fr., comme il
+le soutenait, il s’agissait du règlement du solde des impôts ordinaires sur le revenu
+et la fortune de feue sa mère et non pas de l’impôt successoral, lequel était encore
+ouvert et impayé.
+b)
+Par décision du 19 juillet 2017, rendue
+sans frais ni dépens, la Présidente du Tribunal d’arrondissement de Lausanne, statuant
+en sa qualité d’autorité inférieure de surveillance, a rejeté la plainte déposée
+par A.R.________.
+Ce dernier a reçu le pli contenant la décision le 27 juillet 2017.
+3.
+Le plaignant a recouru par acte posté le
+lundi 7 août 2017, concluant implicitement à ce que le certificat d’héritier lui
+soit restitué, conclusion qu’il a formellement confirmée dans une écriture complémentaire
+du 24 août 2017. Il a produit une lettre du 22 juillet 2017 adressée à l’ACI par
+son « conseiller fiscal », [...], expert-comptable, contestant en substance le montant
+de l’impôt successoral litigieux, et une lettre d’O.________AG du 27 juillet 2017, dénonçant
+deux hypothèques au remboursement intégral pour le 19 octobre 2017.
+L’Office intimé s’est déterminé le 24 août 2017, préavisant en faveur
+du rejet du recours. Il a notamment fait valoir que le recourant continuait de refuser de collaborer
+à la constatation des faits pertinents en le renseignant sur sa situation personnelle et celle de
+la succession de sa mère.
+Par déterminations du 24 août 2017, l’ACI a conclu au rejet du recours. Elle a produit
+une copie de trois « relevés de fortune » du recourant établis par O.________AG
+au 31 décembre des années 2014, 2015 et 2016, concernant trois comptes sous portefeuille, présentant
+un total net de 406'908 fr., puis de 226'893 et enfin de 44'487 francs ; elle a produit également
+une copie d’une lettre de la Banque [...] à l’Office du 21 juillet 2015, relative
+au blocage d’un safe loué auprès de son agence de [...] au nom de feue [...], et sa réponse
+du 28 juillet 2017 à l’expert-comptable [...], faisant notamment valoir que la dette fiscale
+litigieuse avait fait l’objet d’une réclamation de A.R.________, rejetée par décision
+de l’ACI du 12 mars 2014, décision qui avait été confirmée par arrêt de
+la Cour de droit administratif et public du Tribunal cantonal du 23 octobre 2015 et par arrêt de
+la IIe Cour de droit public du Tribunal fédéral du 16 décembre 2015.
+Dans une lettre déposée le 7 septembre 2017, accompagnée de pièces, le recourant
+a conclu à la libération immédiate de son certificat d’héritier, à ce
+que la saisie dont il faisait l’objet de la part de l’Etat de Vaud soit annulée et à
+ce que l’Etat de Vaud soit déclaré son débiteur de 24'500 fr. en liquidation des
+impôts successoraux à la suite du décès de sa mère, subsidiairement à ce
+que soit ordonné un complément d’information auprès de la Banque [...] pour établir
+« la vente de nos titres, à ma mère et à moi, en 1995, rendant caduque donc
+infondée la base de taxation de l’administration cantonale des impôts au titre de mes
+impôts successoraux ». Il a encore déposé une écriture complémentaire
+et des pièces le 8 septembre 2017.
+En droit :
+I.
+Le recours déposé le 7 août 2017, soit le premier jour ouvrable suivant l’échéance,
+un dimanche, du délai légal de dix jours pour recourir contre une décision de l’autorité
+inférieure de surveillance (art. 18 al. 1 et 31 LP ; 142 al. 3 CPC [Code de procédure
+civile ; RS 272] ; 28 al. 1 et 73 al. 3 LVLP [loi vaudoise d’application de la LP]),
+a été formé en temps utile.
+Selon l’art. 28 al. 3 LVLP, le recours doit préciser les points sur lesquels une modification
+du prononcé est demandée et indiquer brièvement les moyens invoqués. En l’espèce,
+on peut considérer que ces conditions sont remplies dans la mesure où le recourant conclut
+à la libération immédiate du certificat d’héritier, conteste son manque de
+collaboration avec l’Office et se plaint des conséquences qu’a pour lui la mesure prise
+par ce dernier et confirmée par la décision attaquée.
+En revanche, les conclusions prises par le recourant dans son écriture du 7 septembre 2017 sont
+irrecevables pour le double motif que, prises après l’échéance du délai de
+recours, elles sont tardives et, en outre, sortent du cadre de la procédure de plainte, qui porte
+sur la question de la restitution du certificat d’héritier et non pas sur la saisie dont le
+recourant fait l’objet, ni sur la détermination de l’impôt successoral litigieux.
+Les déterminations des intimés, l’Office et l’ACI, sont recevables (art. 31al.
+1 LVLP).
+Les pièces nouvelles produites par le recourant à l’appui de son acte de recours et par
+les intimés à l’appui de leurs déterminations sont recevables (art. 28 al.
+4 et 31 al. 1 LVLP).
+II.
+a)
+Le recourant conteste son défaut de collaboration avec les autorités de poursuite. Il fait
+valoir qu’il a transmis des relevés de comptes intégraux depuis 2014. Il soutient que
+l’huissier-chef de l’Office chercherait à le « faire crever ». Il
+se plaint du fait que la banque a désormais dénoncé ses engagements, alors que, selon
+lui, au moyen du certificat d’héritier, une négociation aurait été possible.
+Il souligne que son conseiller fiscal a proposé au créancier une hypothèque légale
+pour préserver ses droits, ce qui, selon lui, aurait dû être suggéré par l’Office.
+b) aa)
+L’autorité inférieure de surveillance a jugé que le certificat d’héritier
+pouvait être mis sous la garde de l’Office en application de l’art. 98 LP. Elle a considéré
+que cette disposition, qui règle les mesures de sûretés visant à conserver les biens
+patrimoniaux du débiteur poursuivi, plus précisément à prévenir des actes de
+disposition illicites du débiteur poursuivi, afin que ses biens puissent servir au désintéressement
+des créanciers poursuivants, était applicable « par analogie » à l’exécution
+d’un séquestre, en vertu de l’art. 275 LP (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, Lausanne 2000, n. 13
+ad
+art. 98 LP), que l’Office était seul compétent pour décider de l’application
+d’une mesure prévue par l’art. 98 LP et disposait à ce sujet d’un large pouvoir
+d’appréciation, que le certificat d’héritier permettait à l’héritier
+d’apporter la preuve de sa qualité lorsqu’il entendait disposer des biens de la succession
+ou en obtenir la remise, notamment pour disposer d’avoirs bancaires (Meier/Reymond-Eniaeva,
+in
+Pichonnaz/Foëx/Piotet (éd.), Commentaire romand, Code civil II, Bâle 2016, n. 1 s
+ad
+art. 559 CC), et qu’en l’espèce, la mesure prise par l’Office de conserver sous
+sa garde le certificat d’héritier était opportune et justifiée par les éléments
+suivants : aucun inventaire civil de la succession n’ayant été établi et en
+l’absence de toute collaboration du plaignant et de l’établissement bancaire requis
+de fournir les informations financières utiles, il n’était pas exclu que la masse successorale
+de feue B.R.________ comprenne d’autres actifs, en particulier bancaires, que ceux identifiés
+dans le procès-verbal de séquestre ; si le certificat d’hériter se trouvait
+en mains du plaignant, héritier unique de la défunte, celui-ci serait en mesure de disposer
+de tels avoirs à l’insu de l’Office et au détriment de son créancier ;
+or, il existait de sérieux motifs de craindre un tel risque, vu la diminution importante du disponible
+sur les comptes bancaires, diminution que n’expliquaient guère les seules allégations
+du plaignant relatives au paiement des charges de l’immeuble et de ses propres charges mensuelles ;
+en outre le plaignant disait être dans une situation financière difficile et en manque de liquidités,
+entretenait des rapports manifestement tendus avec l’Office et contestait au surplus la dette d’impôt
+successoral réclamée. En conclusion, l’autorité inférieure de surveillance
+a considéré que l’Office était légitimé à placer et, en l’état,
+à conserver sous sa garde le certificat d’héritier.
+Si, après l’audience
+de plainte du 8 juin 2017, le recourant a remis à l’Office des extraits de comptes bancaires,
+rien ne permet à ce stade de s’assurer que les pièces transmises sont complètes,
+l’intéressé n’ayant pas délié la banque du secret bancaire. En outre,
+le recourant ne s’est pas présenté à l’Office pour donner des renseignements
+complets sur sa situation, comme il a été une nouvelle fois invité à le faire dans
+une lettre de l’Office du 4 juillet 2017 à la présidente du tribunal, que ce magistrat
+lui a transmise le 5 juillet 2017 en soulignant que « l’Office attend que vous vous présentiez
+en ses locaux afin de le renseigner sur votre situation ». Lors de son passage dans les bureaux
+de l’Office le 31 juillet 2017, le recourant n’a pas voulu répondre aux questions concernant
+ses revenus et a quitté sans excuse le box d’interrogatoire. Les considérations de l’autorité
+inférieure de surveillance selon lesquelles on ne pouvait exclure la possibilité que la défunte
+soit titulaire d’autres actifs, en particulier bancaires, que ceux identifiés dans le procès-verbal
+de séquestre restent d’actualité. Dans ses déterminations, l’ACI relève
+à juste titre que feue B.R.________ disposait d’un safe auprès de la Banque [...], à
+[...], de sorte qu’il n’est pas impossible qu’elle possédait d’autres safes
+ou comptes bancaires inconnus de l’autorité fiscale ou de l’Office auxquels le recourant
+pourrait accéder s’il était en possession du certificat d’héritier. De même,
+les motifs de craindre une distraction de biens par le recourant, qui persiste à ne pas renseigner
+exhaustivement les autorités sur sa situation et sur les actifs de la succession, tout en réclamant
+le déblocage de liquidités pour sa « subsistance », restent d’actualité.
+Par conséquent, les motifs complets et pertinents de l’autorité inférieure de surveillance
+pour rejeter la plainte de A.R.________ contre la mesure prise par l’Office peuvent être adoptés
+et la décision attaquée doit être confirmée.
+bb)
+Dans
+la mesure où le recourant fait valoir que la banque a dénoncé ses engagements, alors qu’au
+moyen du certificat d’héritier, une négociation aurait été possible, il ne
+peut s’en prendre qu’à lui-même. S’il avait fait preuve de la collaboration
+qu’on pouvait exiger de lui (art. 91 al. 1 ch. 2 et 275 LP) et s’il avait fourni les informations
+requises, respectivement délié la banque du secret bancaire en l’invitant à fournir
+à l’Office les renseignements requis, ce dernier aurait pu, le cas échéant, ne bloquer
+que la part des avoirs bancaires nécessaire au recouvrement de la créance réclamée
+et laisser le reste à la disposition du recourant, conformément à l’art. 277 LP.
+Quoi qu’il en soit, comme l’autorité inférieure l’a relevé, la procédure
+de poursuite ayant suivi son cours et les comptes ayant été saisis, il est douteux que l’art.
+277 LP puisse encore trouver application dans le cas d’espèce.
+cc)
+Le recourant soutient que l’Office aurait dû lui suggérer de proposer au créancier
+qu’une hypothèque légale soit inscrite pour garantir le recouvrement de la créance
+d’impôt successoral litigieuse.
+Il appartient au créancier de décider par quelle voie il entend sauvegarder ses intérêts.
+De toute manière, le délai d’une année dès la décision fixant la créance,
+selon l’art. 88 al. 2 CDPJ (Code de droit privé judiciaire vaudois ; RSV 211.02), pour
+obtenir l’inscription d’une hypothèque légale privilégiée de l’art.
+63 LMSD (loi
+concernant le droit
+de mutation sur les transferts immobiliers et l'impôt sur les successions et donations ; RSV
+648.11)
+, est échu. Le moyen, autant qu’il
+soit pertinent, est infondé.
+dd)
+Enfin, le recourant remet en cause le bien-fondé de la créance d’impôt successoral
+litigieuse, ce qu’il ne saurait faire dans le cadre d’une procédure de plainte LP. Au
+demeurant, ladite créance est définitive et exécutoire depuis l’arrêt du Tribunal
+fédéral du 16 décembre 2015 (TF 2C_1121/2015).
+III.
+Vu ce qui précède, le recours doit être
+rejeté et la décision de l’autorité inférieure de surveillance confirmée.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. A.R.________,
+‑
+Administration cantonale des impôts (pour l’Etat de Vaud),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
