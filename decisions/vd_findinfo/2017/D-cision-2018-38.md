@@ -1,0 +1,296 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___38"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 38"
+decided: "2017-10-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6447320"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-144.md", "switzerland/bund/acts/311.0/art-239.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-301.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 38
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, DOMMAGES À LA PROPRIÉTÉ{DROIT PÉNAL}, ENTRAVE AUX SERVICES D'INTÉRÊT GÉNÉRAL | 144 al. 1 CP, 239 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.10.2017 Décision / 2018 / 38
+
+CLASSEMENT DE LA PROCÉDURE, DOMMAGES À LA PROPRIÉTÉ{DROIT PÉNAL}, ENTRAVE AUX SERVICES D'INTÉRÊT GÉNÉRAL | 144 al. 1 CP, 239 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+725
+PE16.020019-MOP
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+24 octobre 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+310, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 28 août 2017 par
+LA DIRECTION DES
+Z.________
+contre l’ordonnance de non-entrée en matière rendue le 14 août 2017 par le Ministère
+public de l’arrondissement de Lausanne dans la cause
+n° PE16.020019-MOP
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 7 octobre 2016, la direction des Z.________ a déposé plainte pénale contre Q.________
+SA pour dommages à la propriété et entrave aux services d’intérêts général.
+La partie plaignante reproche à cette société d’avoir, lors de travaux de fouilles
+dans des zones où passe le réseau souterrain de distribution d’énergie électrique,
+provoqué des dommages aux canalisations et aux câbles du réseau du Service de l’Electricité,
+à savoir :
+-
+dommages par pelle mécanique
+à un câble de télécommande, au chemin du [...], à [...], le 28 janvier 2016 ;
+-
+dommages par pelle mécanique à un câble de basse tension à la route de [...], à
+[...], le 11 février 2016 ;
+-
+dommages par pelle mécanique à un câble de réseau en réserve, à la route
+de [...], à [...], le 23 mars 2016 ;
+-
+dommages d’un câble moyenne tension qui a provoqué une coupure de la fourniture d’énergie
+pour 461 bâtiments, entre 10h08 et 12h00, entre la route de [...] et le chemin de [...], à
+[...], le 26 juillet 2016 ;
+-
+dommages à une conduite moyenne tension qui a provoqué une coupure de la fourniture d’électricité
+pour 38 bâtiments entre 10h08 et 11h32, à la route [...], à [...], le 26 juillet 2016 ;
+-
+dommages à un câble du réseau de distribution qui a provoqué une coupure de la fourniture
+d’électricité pour 22 bâtiments entre 16h45 et 17h50, à la route de [...],
+à [...], le 25 août 2016.
+b)
+Le 13 octobre 2016, la procureure a adressé à la police une demande d’enquête avant
+ouverture d’instruction, la chargeant de procéder à toutes les investigations utiles
+aux fins de clarifier les faits dénoncés par la partie plaignante.
+c)
+Le 30 mai 2017, F.________, ingénieur civil et conducteur de travaux au sein de Q.________ SA, a
+été entendu par la police en qualité de personne appelée à donner des renseignements.
+B.
+Par ordonnance du 14 août 2017, le Ministère
+public de l’arrondissement de Lausanne a décidé de ne pas entrer en matière sur
+la plainte (I) et a laissé les frais à la charge de l’Etat (II). Il a considéré
+en substance que les infractions de dommages à la propriété et d’entrave aux services
+d’intérêt général n’étaient pas réalisées, que ce soit
+intentionnellement ou par négligence. S’agissant en particulier de la négligence, il
+a relevé que les ouvriers qui avaient causé des dommages n’avaient pas dépassé
+le risque admissible et que, partant, aucune violation du devoir de prudence ne pouvait leur être
+imputée.
+C.
+Par acte du 28 août 2017, la direction des Z.________ a interjeté recours devant la Chambre
+des recours pénale contre cette ordonnance, en concluant à son annulation, le dossier de la
+cause étant renvoyé au Ministère public pour qu’il instruise la plainte.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public en application de l’art. 310
+CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant
+l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let.
+b CPP) qui, dans le canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse; RSV 312.01];
+art. 80 LOJV [loi vaudoise d’organisation judiciaire; RSV 173.01]).
+Interjeté dans le délai légal, auprès de l’autorité compétente, par
+la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Conformément à l'art. 310 al. 1 let.
+a CPP, le procureur rend immédiatement – c'est-à-dire sans qu'une instruction soit ouverte
+– une ordonnance de non-entrée en matière lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 ss CPP) ou de la plainte (Cornu,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 1 et 2 ad art. 310 CPP) ou après une procédure préliminaire limitée aux
+investigations de la police (art. 300 al. 1 et 306 ss CPP), que les éléments constitutifs d'une
+infraction ou les conditions d'ouverture de l'action pénale ne sont manifestement pas réunis
+(TF 1B_709/2012 du 21 février 2013 consid. 3.1; TF 1B_67/2012 du 29 mai 2012 consid. 2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2).
+3.
+3.1
+Selon
+l'art. 144 al. 1 CP, se rend coupable de dommages à la propriété celui qui aura endommagé,
+détruit ou mis hors d'usage une chose appartenant à autrui ou frappée d'un droit d'usage
+ou d'usufruit au bénéfice d'autrui. L'infraction n'est réalisée que si elle a été
+commise intentionnellement, ce qui signifie que l'auteur doit avoir eu la conscience et la volonté,
+au moins sous la forme du dol éventuel, de s'en prendre à une chose appartenant à autrui
+ou à l’usage d’autrui, et d’en changer l’état (cf. art. 12 al. 2 CP;
+ATF 116 IV 145; Dupuis et al., Petit commentaire CP, 2
+e
+éd., Bâle 2017, n. 16 ad art. 144 CP et les références citées).
+3.2
+Se rend coupable d’entrave aux services d’intérêt général, au sens de
+l’art. 239 ch. 1 et 2 CP, celui qui, intentionnellement ou par négligence, aura empêché,
+troublé ou mis en danger l’exploitation d’une entreprise publique de transports ou de
+communications, notamment celle des chemins de fer, des postes, du télégraphe ou du téléphone,
+ou celui qui, intentionnellement ou par négigence, aura empêché, troublé ou mis en
+danger l’exploitation d’un établissement ou d’une installation servant à
+distribuer au public l’eau, la lumière, l’énergie ou la chaleur.
+Les éléments constitutifs objectifs de l’infraction sont un service d’intérêt
+général et une entrave à l’exploitation (Corboz, Les infractions en droit suisse,
+vol. II, 3
+e
+éd., Berne 2010, pp. 167 ss). L’installation qui sert à distribuer l’électricité
+est un service d’intérêt général (Corboz, op. cit., n. 9 ad art. 239 CP, p.
+169 ; Dupuis et al., op. cit., n. 9 ad art. 239 CP, p. 1507 ; ATF 102 II 85 consid. 4b). Quant
+au comportement typique, il consiste à paralyser momentanément le service, entraver sa marche
+normale ou créer une situation faisant redouter une paralysie ou une entrave (Corboz, op. cit.,
+p. 169). Il présuppose en outre, pour éviter les cas bagatelles, qui ne devraient pas être
+réprimés par cette disposition, que la perturbation s’étende sur une certaine durée,
+touche plus d’un usager et produise des effets sensibles (ATF 116 IV 44, JdT 1991 IV 137 ;
+Dupuis et al., op. cit., n. 13 ad art. 239 CP, p. 1508).
+D’un point de vue subjectif, l’infraction peut être commise intentionnellement ou par
+négligence.
+Agit par négligence quiconque, par une imprévoyance coupable, commet un crime ou un délit
+sans se rendre compte des conséquences de son acte ou sans en tenir compte. L'imprévoyance
+est coupable quand l'auteur n'a pas usé des précautions commandées par les circonstances
+et par sa situation personnelle  (art. 12 al. 3 CP).
+Deux conditions doivent être remplies pour qu'il y ait négligence. En premier lieu, il faut
+que l'auteur viole les règles de la prudence, c'est-à-dire le devoir général de diligence
+institué par la loi pénale, qui interdit de mettre en danger les biens d'autrui pénalement
+protégés contre les atteintes involontaires. Un comportement dépassant les limites du
+risque admissible viole le devoir de prudence s'il apparaît qu'au moment des faits, son auteur aurait
+dû, compte tenu de ses connaissances et de ses capacités, se rendre compte de la mise en danger
+d'autrui (ATF 136 IV 76 consid. 2.3.1 p. 79). Pour déterminer le contenu du devoir de prudence,
+il faut donc se demander si une personne raisonnable, dans la même situation et avec les mêmes
+aptitudes que l'auteur, aurait pu prévoir, dans les grandes lignes, le déroulement des événements
+et, le cas échéant, quelles mesures elle pouvait prendre pour éviter la survenance du
+résultat dommageable (ATF 134 IV 255 consid. 4.2.3 p. 262 et les références citées).
+Pour dire si l’auteur a violé les règles de prudence, on peut se référer aux
+éventuelles dispositions de sécurité applicables (Corboz, op. cit., n. 17 ad art. 239
+CP, p. 170, et la référence citée). En second lieu, la violation du devoir de prudence
+doit être fautive, c'est-à-dire qu'il faut pouvoir reprocher à l'auteur une inattention
+ou un manque d'effort blâmable (ATF 135 IV 56 consid. 2.1 p. 64; ATF 134 IV 255 consid. 4.2.3 p.
+262 et les références citées).
+3.3
+En
+l’espèce, les travaux exécutés par les ouvriers de Q.________ SA ont occasionné
+la coupure de la fourniture d’énergie électrique à plusieurs reprises. Ces coupures,
+dont l’une a duré près de deux heures, a touché jusqu’à 461 bâtiments.
+Il ne saurait dès lors s’agir de cas bagatelles. En outre, divers câbles et une conduite
+ont été endommagés lors des travaux en cause. Il y a lieu d’admettre, dans ces circonstances,
+que les éléments constitutifs objectifs des infractions envisagées sont réalisés.
+Il reste à examiner si tel est également le cas de l’élément subjectif.
+S’agissant tout d’abord de l’intention, il n’existe aucun indice tendant à
+démontrer que les ouvriers de la société intimée auraient volontairement endommagé,
+fût-ce par dol éventuel (cf. art. 12 al. 2, 2
+e
+phrase CP), le réseau souterrain de distribution d’énergie électrique de la ville.
+La recourante ne semble d’ailleurs pas contester l’ordonnance attaquée sur ce point,
+mais soutient que les dégâts constatés pourraient avoir été commis par négligence,
+ce qui exclut l’infraction de dommages à la propriété (cf. consid. 3.1 supra).
+A cet égard, il résulte du dossier que toute entreprise ou personne qui entend réaliser
+des fouilles doit obtenir un permis et se procurer des plans des canalisations situées dans la zone
+de fouille. Ne doivent pas être utilisés des plans émis plus de dix jours avant les fouilles.
+Il est par ailleurs nécessaire de procéder par sondage pour déterminer l’emplacement
+et la profondeur exacts du réseau.
+Lors de son audition en qualité de personne appelée à donner des renseignements, l’ingénieur
+civil F.________, de Q.________ SA, a expliqué qu’avant le début du chantier, les plans
+du réseau avaient été obtenus sur le site Internet [...]. Il a précisé que ces
+plans n’étaient pas suffisamment précis et que certains d’entre eux, au moment
+des travaux, n’étaient plus à jour. Il a produit une copie d’un plan prélevé
+sur le site précité, plan qui apparaît effectivement assez sommaire. Comme ce plan était
+de peu d’utilité, il avait adressé par oral au [...] une demande tendant à l’obtention
+d’un plan plus précis. Cette demande était toutefois demeurée sans résultat.
+Il a par ailleurs relevé qu’il avait fallu refaire des fouilles pour dévier des câbles
+et des conduites existantes, ajoutant que l’un des câbles qui avait été endommagé
+ne figurait pas au bon endroit sur le plan. L’ingénieur a évoqué un manque de coordination
+générale entre les différents services concernés (eau, gaz, électricité,
+téléphone) (PV aud. 1, pp. 2-3).
+L’ingénieur a également expliqué que tous les ouvriers de Q.________ SA, y compris
+les temporaires, suivaient une journée de formation sur la sécurité sur les chantiers
+(stabilité de fouille, échafaudages, signalisation, circulation, câbles et échelles)
+(PV aud. 1, p. 7).
+Enfin, il a produit des photographies prises sur le chantier, lesquelles démontrent la complexité
+des montages de câbles et l’état de certains d’entre eux.
+La recourante ne discute pas les observations faites par l’ingénieur lors de son audition,
+ne confirme ni n’infirme les allégations quant à la précision des plans et à
+la complexité de certains sites, et ne se détermine pas sur des éventuelles lacunes de
+coordination entre les différents services concernés.
+Au vu de ce qui précède, il n’y a pas suffisamment d’éléments suggérant
+que les ouvriers auraient dépassé les limites du risque admissible et qu’ils auraient
+violé leur devoir de prudence d’une manière qui serait imputable à faute.
+En l’absence de négligence, l’infraction d’entrave aux services d’intérêt
+général n’est pas réalisée. C’est par conséquent à bon droit
+que le Ministère public a rendu une ordonnance de non-entrée en matière.
+4.
+En
+définitive, le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d’écritures (art. 390 al. 2 CPP) et l’ordonnance du
+14 août 2017 confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 880 fr., (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 29 septembre 2010; RSV 312.03.1), seront mis à la charge de la recourante,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté
+II.
+L’ordonnance du 14 août 2017 est confirmée.
+III.
+Les frais d’arrêt, par 880 fr. (hui
+cent huitante francs), sont mis à la charge de la Direction des Z.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Direction des Z.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Q.________ SA,
+-
+Service juridique de la Commune de [...],
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
