@@ -1,0 +1,240 @@
+---
+decision_id: "vd_findinfo_Plainte___2017___35"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2017 / 35"
+decided: "2017-11-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6330079"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-046.md"]
+---
+
+# VD Findinfo Plainte / 2017 / 35
+
+## Regeste
+
+COMMANDEMENT DE PAYER, PLAINTE{LP}, OBSERVATION DU DÉLAI, FOR DE LA POURSUITE, NULLITÉ, DOMICILE À L'ÉTRANGER, INTÉRÊT PUBLIC | 17 LP, 22 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.11.2017 Plainte / 2017 / 35
+
+COMMANDEMENT DE PAYER, PLAINTE{LP}, OBSERVATION DU DÉLAI, FOR DE LA POURSUITE, NULLITÉ, DOMICILE À L'ÉTRANGER, INTÉRÊT PUBLIC | 17 LP, 22 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA17.016187-171515
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 novembre 2017
+__________________
+Composition
+:               Mme
+Byrde
+,
+vice-présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+I.________
+,
+à Chernex, contre la décision rendue le 17 août 2017, à la suite de l’audience
+du 16 mai 2017, par le Président du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, déclarant irrecevable la plainte déposée par le recourant
+contre le commandement de payer n° 8'153'192, établi par l'
+Office
+des poursuites du district de La Riviera – Pays d'Enhaut
+à
+la réquisition de
+D.________
+,
+à Montreux.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 27 janvier 2017, l'Office des poursuites du district de La Riviera – Pays d'Enhaut (ci-après
+: l'office) a reçu une réquisition de poursuite émanant de D.________ à l'encontre
+d'I.________, portant sur une créance de 31'520 fr. plus intérêts à 5% l'an dès
+le 24 août 2016 et sur 2'000 fr. de frais de recouvrement.
+Le 30 janvier 2017, l'office a établi un commandement de payer portant le n° 8'153'192, indiquant
+sous l'identité du débiteur l'adresse suivante : Route de [...]. L'acte a été notifié
+le 3 février 2017. Le débiteur n'a pas formé opposition.
+A réception d'une réquisition de continuer la poursuite déposée par D.________ le
+7 mars 2017, l'office a adressé un avis de saisie au poursuivi, l'informant qu'il serait procédé
+à une saisie le 17 mars 2017.
+Par courrier du 31 mars 2017, I.________ a informé l'office qu'il n'avait jamais été domicilié
+en Suisse et a requis que le commandement de payer n° 8'153'192 soit dès lors annulé,
+précisant que son courrier devait, le cas échéant, être considéré comme
+une plainte au sens de l'art. 17 LP (loi du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1).
+Le 4 avril 2017, l'office a informé le poursuivi qu'un constat d'inexécu-tion de la saisie
+avait été établi le 9 mars 2017, en raison du fait que, le débiteur étant domicilié
+à Moscou (Russie), la saisie ne pouvait pas être exécutée.
+Le 7 avril 2017, I.________ a à nouveau demandé à l'office d'annuler le commandement de
+payer n° 8'153'192, précisant que son courrier devait, en cas de refus, être considéré
+comme une plainte 17 LP.
+Le 11 avril 2017, l'office a transmis ce courrier au Président du Tribunal d’arrondissement
+de l'Est vaudois comme objet de sa compétence.
+b)
+Sur requête du président, I.________ a déposé, le 28 avril 2017, une plainte au sens
+de l'art. 17 LP, régulière en la forme. Le plaignant a conclu à ce que la nullité
+du commandement de payer n° 8'153'192 soit constatée et à ce qu'ordre soit donné
+à l'office de l'annuler de ses registres.
+Dans ses déterminations du 9 mai 2017, l'office s'en est remis à justice.
+Lors d'une audience tenue le 16 mai 2017, le président a entendu :
+-
+l'agente d'affaires brevetée Laura Jaatinen Fernandez, pour I.________,
+-
+[...], substitut de l'office,
+-
+D.________, associé-gérante avec signature individuelle, pour la créancière,
+-
+[...], en qualité de témoin.
+2.
+Par prononcé du 17 août 2017, le Président du Tribunal d’arrondisse-ment de l’Est
+vaudois, statuant en qualité d'autorité inférieure de surveillance, a déclaré
+irrecevable la plainte déposée le 31 mars 2017 par I.________ contre le commandement de payer
+n° 8'153'192 et rendu sa décision sans frais ni dépens. Il a considéré, en substance,
+que la plainte avait été déposée tardivement et qu'au demeurant, la notification
+du commandement de payer litigieux n’était pas absolument nulle, l’inobservation des
+règles sur le for de la poursuite ne violant aucun intérêt public, ni l’intérêt
+de tiers, de sorte que la plainte devait être déclarée irrecevable.
+I.________ a recouru contre ce prononcé par acte du 28 août 2017, concluant, avec suite de
+frais et dépens, principalement à la constatation de la nullité du commandement de payer
+n° 8'153'192 et à ce qu’ordre soit donné à l'office de l'annuler de ses registres
+et, subsidiairement, à l'annulation du prononcé et au renvoi de la cause à l'autorité
+de première instance pour nouvelle instruction et nouvelle décision dans le sens des considérants.
+Le 12 septembre 2017, l'office a conclu au rejet du recours.
+La poursuivante D.________ ne s’est pas déterminée dans le délai imparti.
+En droit :
+I.
+Le recours a été formé en temps utile, dans le délai de dix jours des art. 18 al.
+1 LP et 28 al. 1 LVLP (loi du 18 mai 1955 d’application dans la Canton de Vaud de la LP ;
+RS 280.05). Il comporte l’énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte
+qu’il est recevable.
+II.
+a)
+Le recourant fait tout d'abord grief au premier juge de ne pas l'avoir informé, avant l’audience
+du 16 mai 2017, de l’audition du témoin [...], ordonnée d’office, l'empêchant
+ainsi de se préparer à cette audition. Il y voit une violation de son droit d’être
+entendu. Ce grief est mal fondé. En effet, le recourant, valablement représenté par une
+mandataire professionnelle, qui a assisté à l'audience du 16 mai 2017, ne s’est pas opposé
+à l’audition du témoin lors de ladite audience. Or, le principe de la bonne foi s'oppose
+à ce que des griefs d'ordre formel qui auraient pu être soulevés à un stade antérieur
+soient invoqués plus tard, une fois l'issue défavorable connue (ATF 141 III 210 consid. 5.2 ;
+ATF 138 III 374 consid. 4.3.2 ; ATF 134 I 20 consid. 4.3.1 ; ATF 132 II 485 consid. 4.3 ; ATF 130
+III 66 consid. 4.3). Le recourant ne saurait dès lors invoquer ce moyen en recours, sans violer
+le principe de la bonne foi.
+b)
+Le recourant fait ensuite valoir que lors de l'audience du 16 mai 2017, D.________ aurait fait des déclarations
+importantes dont le premier juge n'aurait pas tenu compte et qui ne figurent pas dans le procès-verbal
+d'audition. Ce moyen est irrecevable. Il incombait en effet au recourant, représenté à
+l'audience par une mandataire professionnelle, de veiller à ce que toutes les déclarations
+qu’il estimait pertinentes soient protocolées au procès-verbal.
+c)
+Le recourant fait également valoir qu’aucun procès-verbal contenant l’audition
+du témoin et des parties n’a été remis aux parties à l’issue de l’audience.
+Ce moyen est également irrecevable, dès lors qu'il appartenait au recourant, respectivement
+à sa mandataire, de requérir la remise d'une copie du procès-verbal immédiatement
+à l’issue de l’audience. Au demeurant, ce document a été transmis à l'intéressé
+dans le cadre de la présente procédure de recours.
+III.
+a)
+Selon l’art. 17 al. 2 LP, la plainte doit être déposée dans les dix jours de celui
+où le plaignant a eu connaissance de la mesure. Il n’est pas contesté que le recourant
+n’a pas respecté ce délai.
+b)
+Si le délai n’est pas observé, la décision ou mesure en cause entre en force, sous
+réserve d’une éventuelle constatation de nullité, hors délai de plainte, selon
+l’art. 22 al. 1 LP (Jeandin, Poursuite pour dettes et faillite, La plainte, FJS 679, pp. 14-15;
+TF 7B.233/2004 du 24 décembre 2004 consid. 1.1). Les autorités de surveillance doivent en effet
+constater la nullité d’une mesure, alors même que le délai de plainte est dépassé
+(art. 22 al. 2 LP ; Erard, Commentaire romand, n. 15 ad art. 22 LP ; ATF 117 III 39, JdT 1994
+II 12).
+Selon l’art. 22 al. 1 LP, sont nulles les mesures contraires à des dispositions édictées
+dans l’intérêt public ou dans l’intérêt de personnes qui ne sont pas
+parties à la procédure.
+L’inobservation des règles sur le for de la poursuite, en l'occurrence de l'art. 46 LP, n'entraîne
+la nullité de plein droit des actes dont il s'agit que dans le cas où elle lèse l'intérêt
+public ou les intérêts de tiers ; la notification d'un commandement de payer par un office
+des poursuites incompétent ne satisfait pas à cette condition (ATF 69 II 162 consid. 2b ; ATF
+82 III 63 consid. 4; ATF 88 III 7 consid. 3 ; ATF 96 III 89 consid. 2 ; TF 5A_362/2013 du 14 octobre
+2013 consid. 3.2). Un commandement de payer délivré par un office incompétent à raison
+du lieu ne peut ainsi qu'être annulé à la suite d'une plainte formée en temps utile
+(TF 5A_333/2017 du 4 août 2017 consid. 3.2).
+c)
+En l'espèce, le recourant plaide en vain que cette jurisprudence ne concernerait pas les actes de
+poursuite dirigés contre des débiteurs ne pouvant être poursuivis en Suisse, faute de
+domicile dans ce pays. A cet égard, il se prévaut d'un arrêt du Tribunal fédéral
+TF 5A_363/2013 du 14 octobre 2013 consid. 3.2. Dans cet arrêt toutefois, notre Haute Cour n’a
+pas eu à examiner si l’opinion de la Cour de justice genevoise, selon laquelle une poursuite
+intentée à l’encontre d’un débiteur domicilié à l’étranger
+est nulle, était justifiée; elle a cependant relevé qu’une réquisition de poursuite
+dans un tel cas de figure n’était pas absolument nulle. En revanche, dans l'arrêt récent
+TF 5A_333/2017 du 4 août 2017 précité, qui concerne précisément le cas d’un
+poursuivi qui prétendait ne pas être domicilié en Suisse, le Tribunal fédéral
+a rappelé et confirmé les principes jurisprudentiels susmentionnés (consid. 3.2). La notification
+d’un commandement de payer par un office incompétent ne saurait par ailleurs léser l’intérêt
+public ou celui de tiers de manière différente selon que le poursuivi est domicilié à
+un autre for en Suisse ou à l’étranger. Le motif pour lequel la jurisprudence considère
+que la notification d’un commandement de payer par un office des poursuites n’est pas nulle
+– savoir qu’à ce stade aucun intérêt de tiers n’est touché (ATF
+91 III 47 consid. 3 ; Staehelin, Die internationale Zuständigkeit in SchKG-Sachen, PJA 1995
+p. 280) – vaut en effet également lorsque le poursuivi est domicilié à l’étranger.
+C'est donc à juste titre que le premier juge a déclaré irrecevable la plainte déposée
+par I.________ le 31 mars 2017 contre le commandement de payer n° 8'153'192.
+IV.
+Le recours doit dès lors être rejeté et le prononcé attaqué confirmé.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP,
+61 al. 2 let. a et 62 al. 2 OELP (ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme Laura Jaatinen Fernandez, agente d'affaires brevetée (pour I.________),
+‑
+D.________,
+-
+M. le Préposé à l’Office des poursuites du district de La Riviera – Pays d'Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l'Est vaudois, autorité inférieure de
+surveillance.
+La greffière :
