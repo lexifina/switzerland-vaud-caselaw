@@ -1,0 +1,198 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___60"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 60"
+decided: "2017-11-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6457961"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-137.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 60
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, APPROPRIATION ILLÉGITIME | 137 ch. 1 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 13.11.2017 Décision / 2018 / 60
+
+CLASSEMENT DE LA PROCÉDURE, APPROPRIATION ILLÉGITIME | 137 ch. 1 CP
+
+TRIBUNAL
+CANTONAL
+767
+PE17.020105-RMG
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+13 novembre 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffière
+:              Mme
+Mirus
+*****
+Art.
+137 ch. 1 CP ; 310 CPP
+Statuant sur le recours interjeté le 6 novembre 2017 par
+H.________
+contre l’ordonnance de non-entrée en matière rendue le 24 octobre 2017 par le Ministère
+public de l’arrondissement de Lausanne dans la cause
+n° PE17.020105-RMG
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 14 octobre 2017, H.________ a déposé plainte pénale contre L.________ pour appropriation
+illégitime.
+Dans sa plainte, H.________ a expliqué qu’il avait mandaté la société A.________Sàrl,
+dont l’associée était L.________, aux fins de déterminer si un compte ouvert auprès
+de la Banque [...] par son grand-père décédé en 1970 était encore ouvert et
+s’il présentait un solde éventuel qu’il pourrait récupérer. Dans ce but,
+il avait remis à A.________Sàrl un certain nombre de documents originaux, dont deux livrets
+de famille, sans en garder copie. Depuis, il était sans nouvelles de L.________, dont il avait résilié
+le mandat et qui ne répondait pas à ses appels téléphoniques et ne donnait aucune
+suite aux courriers qu’il lui envoyait.
+B.
+Par ordonnance du 24 octobre 2017, datée
+par erreur du 24 novembre 2017, le Ministère public de l’arrondissement de Lausanne a refusé
+d’entrer en matière (I) et a laissé les frais à la charge de l’Etat (II).
+La procureure a considéré que les conditions à l'ouverture de l'action pénale n’étaient
+manifestement pas réunies. En effet, le plaignant semblait vouloir recourir à la justice pénale
+pour obtenir la restitution des documents qui avaient été confiés à L.________ en
+vue de l'accomplissement des tâches qui lui incombaient selon le contrat de mandat.
+Le principe de la subsidiarité du droit pénal commandait ainsi de refuser au plaignant le recours
+à la voie pénale eu égard au caractère essentiellement civil de la cause. Les dispositions
+du Code des obligations relatives au mandat et à la responsabilité du mandataire quant à
+la bonne et fidèle exécution de celui-ci étaient à même d'assurer une protection
+suffisante de l'éventuel lésé. Partant, aucune infraction pénale n'était réalisée
+en l'espèce. Il s'agissait d'un litige relevant du droit civil ne ressortissant pas de la compétence
+du Ministère Public.
+C.
+Par acte du 6 novembre 2017, H.________, par son
+conseil, a recouru auprès de la Chambre des recours pénale contre cette ordonnance, en concluant,
+avec suite de frais et dépens, à son annulation, le dossier de la cause étant renvoyé
+au Ministère public de l’arrondissement de Lausanne pour ouverture d’instruction.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code de procédure
+pénale suisse du 5 octobre 2007, RS 312.0]) dans les dix jours devant l’autorité
+de recours (art. 310 al. 2, 322 al. 2 CPP ; cf. art. 20 al. 1 let. b CPP) qui, dans le canton de
+Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du Code de procédure pénale suisse, RSV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire,
+RSV 173.01]).
+En l’espèce, interjeté dans le délai légal auprès de l’autorité
+compétente par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours
+est recevable.
+2.
+Conformément à l'art. 310 al. 1 let.
+a CPP, le ministère public rend immédiatement une ordonnance de non-entrée en matière
+s'il ressort de la dénonciation ou du rapport de police que les éléments constitutifs
+de l'infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement pas
+réunis. Selon la jurisprudence, cette disposition doit être appliquée conformément
+à l'adage in dubio pro duriore (TF 6B_127/2013 du 3 septembre 2013 consid. 4.1), ce qui signifie
+qu'en principe, une non-entrée en matière ne peut être prononcés par le ministère
+public que lorsqu'il apparaît clairement que les faits ne sont pas punissables ou que les conditions
+à la poursuite pénale ne sont pas remplies (ATF 138 IV 86 consid. 4.1.2; ATF 138 IV 186
+consid. 4.1; ATF 137 IV 285 consid. 2.5), ce qui est notamment le cas lorsque le litige est de nature
+purement civile (ATF 137 IV 285 consid. 2.3).
+3.
+3.1
+Le recourant soutient que les éléments
+constitutifs objectifs et subjectifs de l’infraction d'appropriation illégitime, au sens de
+l’art. 137 CP, seraient réalisés. En effet, L.________ serait en possession de documents
+originaux que le recourant lui aurait remis, en particulier deux livrets de famille; en refusant tout
+contact avec le recourant, elle manifesterait ainsi tacitement sa volonté de garder ces documents,
+et ce pour une période indéterminée, de sorte que la condition objective de l'appropriation
+sans droit d’une chose mobilière appartenant à autrui serait remplie. Par ailleurs, après
+que le recourant et son conseil auraient à plusieurs reprises sollicité L.________, on ne pourrait
+plus envisager que celle-ci ne serait pas consciente de détenir des documents appartenant au recourant
+et que ce ne serait que par mégarde ou négligence qu'ils seraient aujourd'hui encore en sa
+possession, de sorte que la condition de l'intention serait également remplie. Enfin, dans la mesure
+où le recourant a porté plainte, la condition subjective du dessein d'enrichissement illégitime
+de l'art. 137 al. 1 CP ne serait pas requise, l'infraction pouvant dans ce cas être réalisée
+aux conditions de l'art. 137 al. 2 CP.
+3.2
+Aux termes de l’art. 137 CP, celui qui,
+pour se procurer ou procurer à un tiers un enrichissement illégitime, se sera approprié
+une chose mobilière appartenant à autrui sera puni d'une peine privative de liberté de
+trois ans au plus ou d'une peine pécuniaire, en tant que les conditions prévues aux art. 138
+à 140 ne seront pas réalisées (ch. 1). Si l'auteur a trouvé la chose ou si celle-ci
+est tombée en son pouvoir indépendamment de sa volonté, s'il a agi sans dessein d'enrichissement
+ou si l'acte a été commis au préjudice des proches ou des familiers, l'infraction ne sera
+poursuivie que sur plainte (ch. 2).
+La clause de subsidiarité prévue par l’art. 137 ch. 1 in fine CP restreint sensiblement
+le champ d’application de cette disposition ; pour la doctrine, celle-ci n’est en pratique
+applicable que pour des hypothèses particulières, par exemple lorsque l’auteur emporte
+une chose mobilière appartenant à autrui sans s’en rendre compte et décide de la
+conserver après s’en être aperçu ; en revanche, si l’appropriation porte sur
+un chose mobilière confiée ou est consécutive à la soustraction de la chose mobilière
+appartenant à autrui, seuls les art. 138 ch. 1 al. 1 CP (abus de confiance) respectivement 139 (vol)
+ou 140 (brigandage) s’appliquent, comme le précise l’art. 137 ch. 1 CP (Dupuis et al.,
+Petit commentaire du Code pénal, 2
+e
+éd. 2017, nn. 9 et 17 ad art. 137 CP et les références citées).
+3.3
+En l’espèce, on se trouve du propre
+aveu du recourant en présence de choses confiées qui n’ont pas de valeur économique,
+de sorte que l’application de l’art. 137 CP est exclue et qu’il apparaît d’emblée
+que la condition subjective du dessein d’enrichissement illégitime posée par l’art.
+138 ch. 1 al. 1 CP n’est pas réalisée. Par conséquent, c’est à bon droit
+que la procureure a refusé d’entrer en matière sur la plainte, le litige étant manifestement
+de nature purement civile.
+4.
+Il résulte de ce qui précède que
+le recours doit être rejeté, sans autre échange d’écritures, et l'ordonnance
+attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 550 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 24 octobre 2017 est confirmée.
+III.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont mis à la charge de H.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Alain Thévenaz, avocat (pour H.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
