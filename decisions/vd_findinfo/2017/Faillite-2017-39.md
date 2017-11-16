@@ -1,0 +1,215 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___39"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 39"
+decided: "2017-11-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6345967"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-098.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-192.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 39
+
+## Regeste
+
+AJOURNEMENT DE LA FAILLITE, QUALITÉ POUR RECOURIR | 725a CO
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.11.2017 Faillite / 2017 / 39
+
+AJOURNEMENT DE LA FAILLITE, QUALITÉ POUR RECOURIR | 725a CO
+
+TRIBUNAL
+CANTONAL
+FU17.030482-171747
+268
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 novembre 2017
+______________________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+725a CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Q.________
+SA
+, à [...], contre le prononcé rendu
+le 28 août 2017, à la suite de l’audience du même jour, par la Présidente du
+Tribunal d’arrondissement de La Côte, prononçant l’ajournement de la faillite de
+T.________
+SA
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 12 juillet 2017, T.________ SA a déposé auprès du Président du Tribunal d’arrondissement
+de La Côte une requête en avis de surendettement et d’ajournement de faillite.
+Par prononcé du même jour, la Présidente du Tribunal d’arrondissement de La Côte
+a suspendu les poursuites pendantes et celles qui pourraient être introduites et ajourné toute
+décision devant être rendue à la suite de requêtes de faillites ordinaires, de change
+ou sans poursuite préalable, jusqu’à droit connu sur la demande d’ajournement de
+faillite.
+Par prononcé du 28 août 2017, adressé aux parties le 4 septembre 2017, la Présidente
+du Tribunal d’arrondissement de La Côte, statuant en tant qu’autorité de première
+instance en matière sommaire de poursuites et de faillite, a ajourné la faillite de T.________
+SA jusqu’au 28 février 2018, sans publication (I), a appointé une audience au 12 février
+2018, le prononcé valant réassignation des parties (II), a dit que pendant l’ajournement
+de faillite, les poursuites contre T.________ SA étaient suspendues (III), a désigné l’agent
+d’affaires breveté K.________ en qualité de curateur (IV) et a mis les frais judiciaires,
+fixés à 500 fr. à la charge de T.________ SA (V). Ce prononcé a été notifié
+à T.________ SA, par son conseil, au curateur, à la P.________ et à M.________ SA. Il
+comportait la mention qu’il pouvait faire l’objet d’un recours dans les dix jours dès
+sa notification.
+2.
+Par avis du 7 septembre 2017, l’Office des
+poursuites du district de Morges a signifié à Q.________ SA que la poursuite n° 8'308'270
+qu’elle exerçait contre T.________ SA était suspendue jusqu’au 28 février
+2017 en raison de l’ajournement de la faillite prononcé le 4 septembre 2017.
+Par courrier recommandé du 27 septembre 2017, l’Office des poursuites du district de Morges
+a répondu à un courrier de Q.________ SA du 26 septembre 2017 que le prononcé d’ajournement
+de faillite était rendu par le président du tribunal d’arrondissement, que l’avis
+de suspension des poursuites avait été adressé à tous les créanciers connus
+de T.________ SA, que le juge de l’ajournement avait prescrit de ne pas publier la décision
+d’ajournement, que le délai de plainte LP contre l’avis de suspension était de
+dix jours dès sa communication et qu’il n’appartenait pas à l’Office de transmettre
+aux créanciers le prononcé d’ajournement.
+3.
+Par acte daté du 6 octobre 2017 et remis
+à la poste le 9 octobre 2017, Q.________ SA a contesté l’ajournement de faillite accordé
+à T.________ SA auprès de la Présidente du Tribunal d’arrondissement de La Côte.
+En droit
+:
+I.
+La décision d’octroi ou de refus de
+l’ajournement de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens du CPC
+(Code de procédure civile du 19 décembre 2008 ; RS 272) (Peter, Commentaire romand, n°
+21, ad 725a CO ; art. 174 al. 1 1ère phrase LP [loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite ; RS 281.1]).
+La recourante n’a pas été partie à la procédure de première instance.
+En principe la qualité pour recourir appartient aux parties à la procédure (Jeandin, Code
+de procédure civile commenté, n. 13 ad Intro art. 308-334 CPC). En matière de jugement
+de faillite sans poursuite préalable sur déclaration du débiteur, le Tribunal fédéral
+a jugé non arbitraire l’exclusion de la qualité pour recourir aux créanciers pour
+le motif qu’ils n’étaient pas parties à la procédure de faillite. Il a relevé
+que l’incertitude quant au point de départ du délai de recours de dix jours était
+un argument en faveur de cette solution et que, dans le cas d’une faillite après poursuite,
+la qualité pour recourir n’était donnée qu’aux créanciers qui avaient
+requis la faillite (ATF 111 III 66, JdT 1988 II 52). Cette jurisprudence a été confirmée
+par la suite (ATF 118 III 33 consid. 3, JdT 1994 II 137), puis sous l’empire du nouveau droit (ATF
+123 III 402, JdT 1999 II 102 ; TF 5A_43/2013 du 25 avril 2013 consid. 2 ; TF 7B.169/2004 du
+15 septembre 2004 consid. 2.1). Dans ce dernier arrêt, le Tribunal fédéral a indiqué
+que « contre le prononcé de faillite, seules les parties à la procédure de première
+instance sont habilitées à recourir ». En particulier, le Tribunal fédéral
+a objecté à la critique de Gilliéron (JdT 1994 II 141) que la publication de la faillite
+à la Feuille officielle suisse du commerce n’était pas un point de départ du délai
+de recours satisfaisant, dès lors qu’un certain temps pouvait s’écouler jusqu’à
+la communication de la faillite par l’office des faillites, ce qui avait pour conséquence
+qu’en cas de révocation de celle-ci, certains actes entrepris dans l’intervalle et en
+partie urgents devraient être considérés comme nuls (ATF 123 III 402 précité
+consid. 3a/bb).
+Cette solution a été critiquée par Gilliéron (Poursuite pour dettes, faillite et
+concordat, 5
+e
+éd. n
+os
+1562 ss, p. 368) et par Flückiger (Droit de recours des créanciers contre un jugement de faillite
+déclaré à la requête du débiteur ?, in RSJ 1999 pp. 293 ss). La Cour de céans
+après avoir relevé que, dans un arrêt ancien (JT 1962 II 126) elle avait dénié
+au créancier non partie à la procédure de première instance la qualité pour
+recourir, a laissé la question indécise, le créancier recourant ayant en l’espèce
+participé à la procédure de première instance (CPF 21 juin 2007/221). Plus récemment,
+elle a précisé que seuls les créanciers ayant participé à la procédure
+de première instance avaient qualité pour recourir (CPF, 25 novembre 2010/455).
+Giroud se réfère à la jurisprudence du Tribunal fédéral susmentionnée,
+mais préconise d’admettre le recours des créanciers indépendamment du fait qu’ils
+aient participé ou non à la procédure de première instance en cas d’ajournement
+de faillite selon l’art. 725a CO (Code des obligations du 30 mars 1911 ; RS 220) (Giroud,
+Basler Kommentar SchKG II, n. 14 ad art. 174 LP). Il se réfère à un arrêt de la Cour
+de Justice de Genève (SJ 1944, p. 362) appliquant par analogie la règle formulée en matière
+de recours contre une décision prorogeant les pouvoirs d’une commission de gestion et se fondant
+sur l’opinion d’un commentaire de la LP relatif à l’art. 192 LP (Jaeger, Commentaire
+LP vol. II) mentionnant que le juge pouvait, à la requête de certains créanciers prononcer
+l’ajournement de la faillite et que cette décision devait être sujette à recours
+de la part des créanciers, sans que le commentaire ne précise s’il devait s’agir
+des créanciers ayant formé la demande d’ajournement.
+Ce dernier arrêt apparaît dépassé. En effet comme on l’a vu, le Tribunal fédéral
+a considéré ultérieurement à plusieurs reprises qu’il n’était pas
+arbitraire, dans l’hypothèse de la faillite sans poursuite préalable sur requête
+du débiteur, qui comprend le cas visé par l’art. 192 LP, de dénier la qualité
+pour recourir au créancier n’ayant pas participé à la procédure de première
+instance. Or, il n’y a aucune raison de traiter différemment le cas d’une procédure
+fondée sur l’art. 725a CO de celui d’une procédure fondée sur l’art.
+192 LP.
+A cela s’ajoute que la décision d’ajournement de faillite est considérée comme
+une mesures provisionnelle (TF 5A_417/2013 du 6 août 2013 consid. 2 ; TF 5A_111/2010 du 12
+janvier 2011 consid. 2.2 ; TF 5A_576/2014 du 30 septembre 2014 ; Corboz, in Commentaire de
+la LTF, 2
+e
+éd., n. 11 ad art. 98 LTF). Tel est le cas également lorsque l’ajournement est prononcé
+sur la base de l’art. 725a CO (TF 5A_902/2016 du 21 mars 2017). Or les mesures provisionnelles
+sont un accessoire de la procédure principale. On voit mal que des créanciers n’ayant
+pas participé à la procédure de première instance puissent recourir contre la décision
+provisionnelle d’ajournement de la faillite, alors qu’ils n’auraient pas la qualité
+pour recourir contre le jugement principal de faillite.
+Au vu des considérations qui précèdent, il y a lieu de considérer que la recourante
+n’a pas la qualité pour recourir dès lors qu’elle n’était pas partie
+à la procédure de première instance et que le recours est en conséquence irrecevable,
+l’arrêt pouvant être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Q.________ SA,
+‑
+M. Alain Vuffray, agent d’affaires breveté (pour T.________ SA),
+–
+M. K.________
+–
+P.________,
+–
+M.________ SA
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+Le greffier :
