@@ -1,0 +1,256 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 9"
+decided: "2017-11-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6426768"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-083.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-420.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-432.md"]
+---
+
+# VD Findinfo Décision / 2018 / 9
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, RECTIFICATION DE LA DÉCISION, ADMISSION DE LA DEMANDE | 319 al. 1 CPP (CH), 83 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.11.2017 Décision / 2018 / 9
+
+DROIT D'ÊTRE ENTENDU, RECTIFICATION DE LA DÉCISION, ADMISSION DE LA DEMANDE | 319 al. 1 CPP (CH), 83 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+796
+PE16.012437-LCT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+16 novembre 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+83, 319 al. 1, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 23 octobre 2017 par
+Z.________
+contre l’ordonnance rectificative rendue
+le 12 octobre 2017 par le Ministère public de l’arrondissement de Lausanne dans la cause
+n° PE16.012437-LCT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 12 mai 2016, Z.________ a déposé plainte pénale contre plusieurs employés d’un
+magasin [...] à Lausanne, dont D.________. Il exposait que ces derniers l’avaient à tort
+accusé de vol et l’avaient, pour ce motif, conduit dans un local exigu, où ils l’auraient
+menacé et forcé à signer une feuille par laquelle il reconnaissait devoir des frais pour
+les vols commis. Ils l’auraient ainsi privé de liberté pendant une vingtaine de minutes
+(PV aud. 1).
+Le 30 juin 2016, le Ministère public de l’arrondissement de Lausanne a ouvert une instruction
+pénale contre D.________ en raison des faits précités.
+b)
+Par ordonnance du 12 septembre 2017, le Ministère public de l’arrondissement de Lausanne a
+ordonné le classement de la procédure pénale dirigée contre D.________ pour menaces,
+contrainte, séquestration et enlèvement (I), a admis la demande d’indemnité au sens
+de l’art. 429 CPP déposée par D.________ et lui a alloué le montant de 9'667 fr.
+10 à la charge de Z.________, celui-ci en étant le débiteur, avec intérêt à
+5 % l’an, dès l’ordonnance définitive et exécutoire (II), et a mis les frais
+de cette ordonnance, par 375 fr., à la charge de Z.________ (III).
+B.
+a)
+Par lettre du 29 septembre 2017, D.________
+a requis la rectification de l’ordonnance en ce sens que l’indemnité au sens de l’art.
+429 CPP qui lui avait été octroyée soit mise à la charge de l’Etat (P. 26).
+b)
+Le 12 octobre 2017, le Ministère public a rendu une ordonnance rectificative dont le dispositif
+est le suivant :
+I.
+corrige l'ordonnance de classement rendue le 12 septembre 2017 en ce sens que :
+Il.
+(nouveau) : Admet la demande d'indemnité au sens de l'article 429 CPP déposée par D.________
+et alloue le montant de 9'667 fr. 10 (neuf mille six cent soixante-sept francs et dix centimes) ;
+IIII.
+(nouveau) : Dit que Z.________ doit rembourser à l’Etat l’indemnité de 9'667 fr
+.10 (neuf mille six cent soixante-sept francs et dix centimes) allouée à D.________ sous chiffre
+III ci-dessus ;
+IV.
+(nouveau) : Met les frais de la présente décision, par 375 fr. (trois cent septante-cinq francs),
+à la charge de Z.________.
+II.
+confirme cette décision pour le surplus ;
+III.
+dit que le prononcé rectificatif est rendu sans frais.
+A l’appui de cette ordonnance, le procureur a considéré que c’était par inadvertance
+manifeste que l’indemnité au sens de l’art. 429 CPP allouée à D.________ avait
+été mise à la charge de Z.________, alors qu’elle aurait dû être mise
+à la charge de l’Etat, à qui il appartenait ensuite de se retourner contre le plaignant
+qui avait provoqué fautivement l’ouverture de la procédure pénale (art. 420
+let. a CPP). Il a précisé que l’art. 432 CPP, appliqué implicitement dans l’ordonnance
+de classement, ne pouvait pas l’être dans le cas présent.
+C.
+Par acte du 23 octobre 2017, adressé au Ministère public de l’arrondissement de Lausanne
+– qui l’a transmis à la Chambre des recours pénale comme valant recours –,Z.________
+a déclaré faire opposition à l’ordonnance rectificative du 12 octobre 2017.
+Invités le 2 novembre 2017 à se déterminer, le Ministère public et la prévenue
+ont l’un et l’autre conclu, en date du 13 novembre 2017, au rejet du recours.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public (art. 310 CPP [Code de procédure pénale suisse
+du 5 octobre 2007 ; RS 312.0]) dans les dix jours devant l’autorité de recours (art.
+310 al. 2, 322 al. 2 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre
+des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du Code de procédure
+pénale suisse ; RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire ; RSV 173.01]).
+Il
+est admis en doctrine que la communication d’un prononcé rectificatif fait, en principe, partir
+un nouveau délai de recours (Macaluso, in : Kuhn/Jeanneret [éd.], Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n.  13 ad art. 83 CPP ;
+Moreillon/Parein-Reymond, Petit commentaire, Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 11 ad art. 83 CPP ; Schmid, Schweizerische Strafprozessordnung, Praxiskommentar,
+2
+e
+éd. 2013, n. 5 ad art. 83 CPP ; Stohner, in : Niggli/Heer/Wiprächtiger [éd.],
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 8 ad art. 83 CPP ; Brüschweiler, in : Donatsch/Hansjakob/Lieber
+[éd.], 2
+e
+éd., 2014, n. 8 ad art. 83 CPP ; ATF 117 II 508 consid. 1a ; CREP 24 octobre 2017/721
+consid. 1).
+En l'espèce, interjeté en temps utile auprès de l’autorité compétente,
+par la partie plaignante qui a qualité pour recourir dans la mesure où, contrairement à
+ce que laissent entendre le Ministère public et la prévenue dans leurs déterminations
+respectives, elle a un intérêt juridiquement protégé à l’annulation ou
+à la modification de l’ordonnance attaquée (art. 382 al. 1 CPP), le recours est recevable.
+2.
+Aux termes de l’art. 83 CPP, l'autorité
+pénale qui a rendu un prononcé dont le dispositif est peu clair, contradictoire ou incomplet,
+ou qui est en contradiction avec l'exposé des motifs, l'explique ou le rectifie à la demande
+d'une partie ou d'office (al. 1). La demande est présentée par écrit et indique les passages
+contestés et, le cas échéant, les modifications souhaitées (al. 2). L'autorité
+pénale donne aux autres parties l'occasion de se prononcer sur la demande (al. 3). Le prononcé
+rectifié ou expliqué est communiqué aux parties (al. 4).
+L'explication et la rectification au sens de l’art. 83 CPP ne visent pas le réexamen matériel
+d'un jugement mais sa clarification, respectivement la correction d'erreurs manifestes. Une telle erreur
+survient lorsqu'il résulte de manière univoque de la lecture du texte d'une décision judiciaire
+que ce que le tribunal voulait prononcer ou ordonner ne correspond pas avec ce qu'il a effectivement
+prononcé ou ordonné (TF 6B_727/2012 du 11 mars 2012 consid. 4.2.1). En d'autres termes, il
+doit s'agir d'une erreur d'expression et non de formation de la volonté du tribunal. Une décision
+qui a été prononcée comme cela avait été voulu mais qui se fonde sur une constatation
+inexacte de l'état de fait ou sur une erreur juridique ne peut pas être rectifiée (ATF
+142 IV 281, JdT 2017 IV 116 consid. 1.3 et les références).
+3.
+3.1
+Invoquant implicitement une violation de son droit d’être entendu, le recourant se plaint
+notamment de ne pas avoir été informé de ce que le défenseur de la prévenue
+avait requis une rectification de l’ordonnance de classement.
+3.2
+Le droit à un procès équitable garanti par l'art. 6 par. 1 CEDH (Convention de sauvegarde
+des droits de l’homme et des libertés fondamentales du 4 novembre 1950 ; RS 0.101), également
+consacré par l'art. 29 al. 1 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101), comporte notamment le droit d'être entendu (art. 29 al.
+2 Cst.), dont l’art. 83 al. 3 CPP est le reflet (Moreillon/Parein-Reymond, Petit Commentaire du
+Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 9 ad art. 83 CPP, p. 268). La jurisprudence a déduit de celui-ci, en
+particulier, le droit pour le justiciable de s'expliquer avant qu'une décision soit prise à
+son détriment, celui de fournir des preuves quant aux faits de nature à influer sur le sort
+de la décision, celui d'avoir accès au dossier, celui de participer à l'administration
+des preuves, d'en prendre connaissance et de se déterminer à leur propos (ATF 142 II 218 consid.
+2.3 ; TF 6B_421/2017 du 3 octobre 2017 consid. 1.1  et les références citées).
+Le droit d’être entendu garantit notamment le droit pour une partie à un procès
+de prendre connaissance de toute l’argumentation présentée au tribunal et de se déterminer
+à son propos, que celle-ci contienne ou non de nouveaux éléments de fait ou de droit,
+et qu’elle soit ou non susceptible d’influer sur le jugement à rendre. Il appartient
+en effet aux parties, et non au juge, de décider si une prise de position ou une pièce nouvellement
+versée au dossier contient des éléments déterminants qui appellent des observations
+de leurs parts (ATF 139 I 189 consid. 3.2 ; TF 1B_168/2017 du 23 mai 2017 consid. 3.1).
+3.3
+En l’espèce, ni le Ministère public ni la prévenue ne se sont déterminés
+sur la question du droit d’être entendu, pourtant expressément soulevée par le recourant.
+Cela étant, il résulte du procès-verbal des opérations et des pièces du dossier
+que la requête de la prévenue tendant à la rectification de l’ordonnance de classement
+du 12 septembre 2017 (P. 26) n’a pas été communiquée au recourant avant que soit
+rendue l’ordonnance rectificative du 12 octobre 2017, alors même qu’il a été
+fait droit à ladite requête et que celle-ci concernait la situation du recourant. Or, conformément
+à la loi et à la jurisprudence, il appartenait au procureur de communiquer ce courrier à
+la partie plaignante, et de lui fixer un délai de détermination, avant de statuer sur la demande
+de rectification. En ne le faisant pas, le procureur a violé le droit d’être entendu
+du recourant (cf., en ce sens, TF 1B_168/2017 du 23 mai 2017 consid. 3.2 ; CREP 15 décembre
+2017/801 ; Juge unique CREP 25 septembre 2017/651 consid. 2.3).
+Quand bien même le droit d'être entendu est une garantie de nature formelle, dont la violation
+peut être réparée lorsque la partie lésée a la possibilité de s'exprimer
+devant une autorité qui, comme la Chambre des recours pénale, jouit d'un plein pouvoir d'examen
+en fait et en droit (ATF 142 II 218 consid. 2.8.1), il n’appartient pas à la cour de céans
+réparer ce vice. En effet, afin que le recourant puisse bénéficier de la garantie de la
+double instance, il convient d’annuler l’ordonnance attaquée et de renvoyer le dossier
+de la cause au Ministère public de l’arrondissement de Lausanne pour qu’il donne au
+recourant l’occasion de se déterminer sur la demande de rectification, puis rende une nouvelle
+décision.
+4.
+En définitive, le recours doit être admis et l’ordonnance du 12 octobre 2017 annulée.
+Le dossier de la cause sera renvoyé au Ministère public de l’arrondissement de Lausanne
+pour qu’il procède dans le sens des considérants, puis rende une nouvelle décision.
+Les
+frais de la procédure de recours, constitués du seul émolument d’arrêt, par
+770 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront laissés à
+la charge de l’Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 12 octobre 2017 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère public de l’arrondissement de Lausanne
+pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont laissés à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Philippe Rossy, avocat (pour D.________),
+-
+M. Z.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de Lausanne,
+-
+Service juridique et législatif,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
