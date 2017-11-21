@@ -1,0 +1,171 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 33"
+decided: "2017-11-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6436221"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-059.md"]
+---
+
+# VD Findinfo Décision / 2018 / 33
+
+## Regeste
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION | 56 let. f CPP (CH), 59 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.11.2017 Décision / 2018 / 33
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION | 56 let. f CPP (CH), 59 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+797
+PE17.022292-ACP
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 21 novembre 2017
+_________________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Perrot, juges
+Greffière
+:              Mme
+Matile
+*****
+Art.
+56 let. f CPP, 59 CPP
+Statuant sur la demande de récusation spontanée déposée le 15 novembre 2017 par le
+Tribunal de l’arrondissement de l’Est vaudois dans la cause
+n° PE17.022292-ACP
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par ordonnance pénale rendue le 5 septembre 2017, la Préfète du district de la Riviera-Pays
+d’Enhaut a constaté que D.________ s’était rendu coupable de violation simple des
+règles de la circulation routière (I), l’a condamné à une amende de 200 fr.
+(II), a dit qu’à défaut de paiement de l’amende, la peine privative de liberté
+de substitution serait de 2 jours (III) et a mis les frais, par 150 fr., à sa charge (IV).
+b)
+Par acte du 7 septembre 2017, D.________ a fait opposition à cette ordonnance.
+c)
+Par avis du 6 novembre 2017, la Préfète du district de la Riviera-Pays d’Enhaut a déclaré
+maintenir son ordonnance pénale. Le dossier de la cause été transmis au Tribunal de police
+de l'arrondissement de l’Est vaudois, en vue des débats.
+B.
+Le 15 novembre 2017, le Tribunal d'arrondissement
+de l’Est vaudois a demandé sa récusation en corps.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 59 al. 1 let. b CPP (Code
+de procédure pénale suisse du 5 octobre 2007; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant
+une fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le Ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+1.2
+En l'occurrence, la Chambre des recours pénale
+du Tribunal cantonal est compétente pour statuer sur la demande de récusation présentée
+par le Tribunal d’arrondissement de l’Est vaudois (art. 59 al. 1 let. b CPP et
+art.
+13 al. 1 LVCPP [loi d’introduction du Code de procédure pénale suisse; RSV 312.01];
+CREP 17 mars 2017/182 consid. 1).
+2.
+2.1
+L'art. 56 let. a à e CPP énonce divers motifs de récusation qualifiés à l'égard
+de toute personne exerçant une fonction au sein d’une autorité pénale; pour sa part,
+sa lettre f impose la récusation du fonctionnaire ou magistrat concerné « lorsque
+d'autres motifs, notamment un rapport d'amitié étroit ou d'inimitié avec une partie ou
+son conseil, sont de nature à le rendre suspect de prévention ».
+L'art.
+56 let. f CPP a la portée d'une clause générale recouvrant tous les motifs de récusation
+non expressément prévus aux lettres précédentes (ATF 143 IV 69
+consid.
+3.2; ATF 138 IV 142 consid. 2.1).
+La garantie d'un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999; RS 101) et 6
+par. 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales; RS 0.101) permet de demander la récusation d'un juge dont la situation ou le comportement
+est de nature à susciter des doutes quant à son impartialité (ATF 142 III 521 consid.
+3.1.1; ATF 139 III 120 consid. 3.2.1; ATF 138 I 425 consid. 4.2.1; ATF 136 III 605 consid. 3.2.1). La
+récusation ne s'impose pas seulement lorsqu'une prévention effective est établie, car
+une disposition interne de la part du juge ne peut guère être prouvée. Il suffit que les
+circonstances donnent l'apparence d'une prévention et fassent redouter une activité partiale
+du magistrat. Seules les circonstances constatées objectivement doivent être prises en considération;
+les impressions purement individuelles d'une des parties au procès ne sont pas décisives (ATF
+143 IV 69 consid. 3.2; ATF 142 III 521
+consid.
+3.1.1; ATF 138 IV 142 consid. 2.1; ATF 136 III 605 consid. 3.2.1).
+2.2
+En l’espèce, le Tribunal de l’arrondissement de l’Est vaudois a demandé sa
+récusation en corps pour le motif que D.________ est [...]. Dans ces circonstances, la tenue d’une
+audience et le jugement de la cause devant le Tribunal d’arrondissement de l’Est vaudois
+serait propre à donner une apparence de prévention, de nature à faire redouter une activité
+partiale du tribunal de police, quel que soit le magistrat qui le composerait. Les collègues du
+prévenu pourraient au demeurant potentiellement avoir accès au dossier de la procédure,
+qui porte sur des faits relevant de sa sphère privée.
+3.
+En conséquence, il convient d'admettre la demande de récusation en corps déposée
+le 15 novembre 2017 par le Tribunal d'arrondissement de l’Est vaudois et de transmettre la cause
+au Tribunal d'arrondissement de Lausanne (art. 4a al. 4 LVCPP).
+Les frais de la présente décision, par 440 fr. (art. 20 al. 1 TFIP [tarif des frais judiciaires
+pénaux; RSV 312.03.1]), seront laissés à la charge de l’Etat (art. 59 al.
+4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation en corps du Tribunal d'arrondissement de l’Est vaudois déposée
+le 15 novembre 2017 est admise.
+II.
+Le dossier de la cause dirigée contre D.________ est transmis au Tribunal d'arrondissement de Lausanne
+pour la suite de la procédure.
+III.
+Les frais de la présente décision, par
+440 fr. (quatre cent quarante francs), sont laissés à la charge de l'Etat.
+IV.
+La décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+M. le Premier Président de l’arrondissement de l’Est vaudois,
+-
+M. D.________,
+-
+Ministère public central,
+et communiquée à :
+‑
+Mme la Préfète du district Riviera-Pays d’Enhaut,
+-
+M. le Premier président du Tribunal d’arrondissement de Lausanne,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
