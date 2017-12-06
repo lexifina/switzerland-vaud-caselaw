@@ -1,0 +1,315 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 37"
+decided: "2017-12-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6439364"
+cites_law: ["switzerland/bund/acts/101/art-032.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-041.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-430.md"]
+---
+
+# VD Findinfo Décision / 2018 / 37
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, FRAIS JUDICIAIRES, INDEMNITÉ{EN GÉNÉRAL} | 319 CPP (CH), 426 al. 2 CPP (CH), 429 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.12.2017 Décision / 2018 / 37
+
+CLASSEMENT DE LA PROCÉDURE, FRAIS JUDICIAIRES, INDEMNITÉ{EN GÉNÉRAL} | 319 CPP (CH), 426 al. 2 CPP (CH), 429 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+840
+AM17.01428-AMLC
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+6 décembre 2017
+__________________
+Composition
+:               M.
+Krieger
+,
+juge unique
+Greffier
+:              M.
+Petit
+*****
+Art.
+319, 426 al. 2, 429 CPP
+Statuant sur le recours interjeté le 18 septembre 2017 par
+V.________
+contre l’ordonnance de classement rendue le 7 septembre 2017 par le Ministère public de l’arrondissement
+de La Côte dans la cause
+n° AM17.01428-AMLC
+,
+le juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+A [...], route de [...], au droit de l’intersection avec le chemin [...], le 23 juin 2017, vers
+22h40, V.________ a fait l’objet d’une interpellation par la police alors qu’il circulait
+au guidon d’un motocycle de marque KTM 690 SMC. Selon le rapport de police du 25 juin 2017 (P.
+4), l’intéressé a démarré de manière rapide au point d’avoir fait
+lever sa roue avant. Il n’était pas porteur de son permis d’élève conducteur,
+et le sigle L faisait défaut.
+Le rapport de police relève encore que l’intéressé présentait, lors de son
+interpellation, des symptômes de consommation de stupéfiants (yeux injectés), et que celui-ci,
+sur lequel a été trouvé une boulette de haschisch de 3 grammes, avait admis avoir consommé
+du cannabis dans le courant de l’après-midi. Soumis à un test rapide de dépistage,
+cette mesure s’était révélée positive, de sorte que V.________ avait été
+examiné par un médecin, puis soumis à une prise de sang et d’urine.
+L’analyse de sang a établi que ce dernier présentait au moment de son interpellation
+un taux de THC dans le sang compris entre 1,1 et 2,3 µg/L (P. 7).
+Le Ministère public a ouvert une instruction pénale contre V.________ pour violations de la
+LCR (Loi sur la circulation routière du 19 décembre 1958; RS 741.01) et de la LStup (Loi sur
+les stupéfiants et les substances psychotropes du 3 octobre 1951; RS 812.121).
+Le 24 juin 2017, lors de son audition par la police, V.________ a déclaré notamment ce qui
+suit : « (…) A 15h00, je me suis rendu à la cérémonie de maturité
+de ma meilleure amie. J’y ai consommé un verre de vin rosé de 2 dl et fumé un joint
+avec des amis, pendant environ 15 minutes, soit entre 15h00 et 15h15. Après la cérémonie
+de maturité de ma meilleure amie, que j’ai quittée aux environs de 20h00, je me suis
+rendu à mon domicile. A 22h00, j’ai pris mon motocylce, afin d’aller faire un tour avec
+un ami. Par la suite, j’ai pris la direction de [...], par la route [...] à [...]. C’est
+sur ce trajet que j’ai été interpellé par la gendarmerie pour un contrôle,
+car la roue avant de mon motocycle s’est levée, car j’avais mis un peu trop les gaz,
+après un démarrage au feu vert. Lors de ma fouille, il a été découvert sur moi
+une boulette de 3 grammes de haschisch (…). De plus, je n’ai pas pu vous présenter mon
+permis d’élève conducteur ainsi que le permis de circulation du motocycle, que j’avais
+oublié à mon domicile. Concernant la plaque L, celle-ci se trouvait sous ma selle, car je n’arrivais
+pas à la fixer correctement. Concernant ma consommation de cannabis, j’en fume depuis l’âge
+de 16 ans, à raison de 5 joints par mois. Je dépense environ 10 fr. pour acheter ce produit,
+mais en général je bénéficie de la générosité de mes amis. (…)
+Je nie tout trafic » (PV aud. 1, p. 2).
+B.
+Par ordonnance du 7 septembre 2017, le Ministère
+public a ordonné le classement de la procédure pénale dirigée contre V.________ pour
+conduite en état d’incapacité (I), a dit qu’il n’y avait pas lieu de lui
+octroyer une indemnité au sens de l’art. 429 CPP (II) et a mis les frais de procédure,
+par 1'198 fr., à sa charge (III).
+Dans son ordonnance, le Procureur a considéré que les éléments constitutifs de la
+conduite en était d’incapacité n’étaient pas réunis, dès lors que
+les analyses de sang et d’urine, prélevés sur l’intéressé respectivement
+à 00h35 et 00h45, avaient révélé une concentration de THC dans le sang de 1,1 µg/L,
+valeur la plus basse au moment critique, inférieure à la valeur limite de 1,5 µg/L définie
+à
+l’art. 34 OOCCR-OFROU (Ordonnance
+de l’OFROU concernant l’ordonnance sur le contrôle de la circulation routière du
+22 mai 2008; RS 741.013.1).
+S’il s’imposait de classer la procédure à l’encontre de V.________ concernant
+le chef d’accusation précité, le Procureur annonçait toutefois qu’une ordonnance
+pénale serait rendue s’agissant des autres contraventions à la LCR et à la LStup.
+En outre, estimant que le prévenu, par son comportement, avait conduit à l’ouverture
+de l’enquête pénale, le Procureur a mis à sa charge les frais de la procédure
+par 1'198 francs. Il a pour le surplus exclu le versement au prévenu d’une indemnité
+au sens de l’art. 429 CPP (Code de procédure pénale suisse du 5 octobre 2007; RS
+312).
+C.
+a)
+Par acte du 18 septembre 2017, V.________ a recouru contre cette ordonnance, en concluant implicitement
+à l’annulation du chiffre III de son dispositif dès lors qu’il mettait à sa
+charge les frais de procédure par 1'198 fr., ainsi qu’à la réforme de son chiffre
+II en ce sens qu’une indemnité selon l’art. 429 CPP lui soit allouée.
+b)
+Invité à se déterminer sur le recours, le Ministère public a, par procédé
+du 5 décembre 2017, conclu à son rejet au frais de son auteur, ainsi qu’à la confirmation
+de l’ordonnance de classement querellée.
+Relevant tout d’abord que l’analyse de sang avait établi que le prévenu présentait,
+au moment de son interpellation, un taux de THC dans le sang compris entre 1,1 et 2,3 µg/L (P. 7),
+le Procureur a retenu que le taux le plus favorable était inférieur au taux minimal de 1.5
+µg/L admis par l’OOCCR-OFROU, cette circonstance conduisant dès lors au classement.
+Retenant ensuite que le prévenu avait consommé du cannabis quelques heures avant son interpellation
+et présentait lors de celle-ci des symptômes de cette consommation (yeux rougis), et considérant
+le cas d’espèce similaire à celui de l’arrêt du Tribunal fédéral
+1B_180/2012 du 24 mai 2012, le Procureur a estimé qu’il devait supporter les frais liés
+au contrôle de son état physique, d’autant plus que, selon le médecin qui l’avait
+ausculté, l’intéressé avait les conjonctives brillantes et présentait une incapacité
+de conduite « légère » (P. 7).
+Dans la mesure où les frais précités devaient être mis à la charge du prévenu,
+le Procureur a pour le surplus considéré qu’il n’y avait pas lieu de lui allouer
+une indemnité au sens de l’art. 429 CPP.
+c)
+Par écritures complémentaires mises à la poste le 15 janvier 2018 (P. 22), le recourant
+a maintenu les conclusions de son recours.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant l’autorité
+de recours (art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de
+Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art.
+13 LVCPP [Loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009];
+art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre 1979;
+RSV
+173.01]).
+Interjeté dans le délai légal auprès de l’autorité compétente par
+le prévenu qui a la qualité pour recourir dans la mesure où il conteste que les frais
+aient été mis à sa charge (cf. art. 382 al. 1 CPP), le recours de V.________ est recevable.
+1.2
+Dès lors que le recours porte uniquement sur les conséquences économiques accessoires
+d'une décision et que le montant litigieux ne dépasse pas 5'000 fr., il relève de la compétence
+du juge unique de la Chambre des recours pénale du Tribunal cantonal (art. 395 let. b CPP et 13
+al. 2 LVCPP; CREP 2 mars 2017/151).
+2.
+Le recourant conteste avoir effectué un « wheeling »
+et soutient qu’il a pleinement collaboré à l’enquête. Il ne saurait dès
+lors assumer les frais de la procédure puisqu’il n’a ni provoqué illicitement et
+fautivement son ouverture, ni ne l’a rendue plus difficile. Il reproche ensuite au Ministère
+public de faire l’application dans son cas de l’arrêt du Tribunal fédéral
+1B_180/2012 du 24 mai 2012, concernant un conducteur ayant admis la consommation de cocaïne la veille
+de son interpellation, alors qu’il n’a pas consommé ce genre de stupéfiant. Il
+fait valoir qu’en tant qu’écolier, il ne dispose d’aucun revenu, et que ses frais
+de matériel et d’écolage, assumés par sa mère, sont importants. Enfin, ses
+cours professionnels d’école de moto qui lui coûtent une bonne partie de son argent de
+poche (cf. P. 11).
+2.1
+2.1.1
+Les
+frais sont en principe mis à la charge de l’Etat (art. 423 al. 1 CPP). Lorsque la procédure
+fait l'objet d'une ordonnance de classement ou que le prévenu est acquitté, tout ou partie
+des frais de procédure peuvent être mis à sa charge s'il a, de manière illicite et
+fautive, provoqué l'ouverture de la procédure ou rendu plus difficile la conduite de celle-ci
+(art. 426 al. 2 CPP).
+Selon la jurisprudence du Tribunal fédéral, la condamnation aux frais d’un prévenu
+acquitté ou mis au bénéfice d’une ordonnance de classement ne résulte pas d’une
+responsabilité pour une faute pénale, mais d’une responsabilité proche du droit
+civil, née d’un comportement fautif. Il est compatible avec les
+art.
+32 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999;
+RS 101) et 6 ch. 2 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des
+libertés fondamentales; RS 0.101) de mettre les frais à la charge d’un prévenu libéré
+qui, d’une manière engageant sa responsabilité civile, a manifestement violé une
+règle de comportement pouvant découler de l’ordre juridique suisse dans son ensemble
+– dans le sens d’une application par analogie des principes découlant de l’art.
+41 CO (Code des obligations, RS 220;
+TF
+6B_439/2013 du 19 juillet 2013 consid. 1.1; Chappuis, in : Kuhn/Jeanneret [éd.], Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 2 ad
+art.
+426 CPP) – et a provoqué ainsi l’ouverture d’une enquête pénale ou compliqué
+celle-ci (TF 6B_87/2012 du 27 avril 2012 consid. 1.2; ATF 116 Ia 162 consid. 2d p. 171 et consid.
+2e p. 175).
+Seul un comportement fautif et contraire à une règle juridique, qui soit en relation de causalité
+avec les frais imputés, peut être déterminant (ATF 119 Ia 332 consid. 1b p. 334; TF 6B_439/2013
+précité consid. 1.1). Pour déterminer si le comportement en cause est propre à justifier
+l'imputation des frais ou le refus d'une indemnité, le juge peut prendre en considération toute
+norme de comportement écrite ou non écrite résultant de l'ordre juridique suisse pris
+dans son ensemble, dans le sens d'une application par analogie des principes découlant de l'art.
+41 CO. Le fait reproché doit constituer une violation claire de la norme de comportement (ATF 119
+Ia 332 consid. 1b p. 334 et les références citées). Il doit en outre se trouver dans une
+relation de causalité adéquate avec l'ouverture de l'enquête ou les obstacles mis à
+celle-ci (ATF 116 Ia 162 consid. 2c p. 170 s. et plus récemment TF 6B_832/2014 du 24 avril 2015
+consid. 1.2). La relation de causalité est réalisée lorsque, selon le cours ordinaire
+des choses et l'expérience de la vie, le comportement de la personne concernée était de
+nature à provoquer l'ouverture de la procédure pénale et le dommage ou les frais que celle-ci
+a entraînés (ATF 116 Ia 162 consid. 2c p. 170; cf. TF 6B_331/2012 du 22 octobre 2012 consid.
+2.5). Une condamnation aux frais ne peut se justifier que si, en raison du comportement illicite du prévenu,
+l'autorité était légitimement en droit d'ouvrir une enquête (TF 6B_67/2016 du 31
+octobre 2016). En outre, le juge doit fonder sa décision sur des faits incontestés ou déjà
+clairement établis (ATF 112 Ia 371 consid. 2a; TF 6B_87/2012 précité consid. 1.2).
+Dans une affaire où le prévenu avait consommé des stupéfiants la veille de son interpellation,
+en l’occurrence de la cocaïne, le Tribunal fédéral a jugé que lorsque la police
+ordonne un test rapide de détection de stupéfiants, sur la personne d’un automobiliste
+au motif pris de ce que ce dernier a les yeux rougis et présente un comportement ralenti, les frais
+de procédure peuvent être mis à sa charge même si, après analyse, la valeur
+limite dans le sang permettant d’établir une incapacité de conduire n’est pas atteinte,
+le conducteur ayant admis avoir consommé de ce stupéfiant dans les heures précédant
+la prise du volant (TF 1B_180/2012 du 24 mai 2012).
+2.1.2
+Selon l'art. 429 al. 1 let. a CPP, le prévenu acquitté totalement ou en partie ou au bénéfice
+d'un classement a droit à une indemnité pour les dépenses occasionnées par l'exercice
+raisonnable de ses droits de procédure.
+En vertu de l'art. 430 al. 1 let. a CPP, l'autorité
+pénale peut réduire ou refuser l'indemnité pour les dépenses occasionnées par
+l'exercice raisonnable de ses droits de procédure (art. 429 al. 1 let. a CPP) lorsque le prévenu
+a provoqué illicitement et fautivement l'ouverture de la procédure ou a rendu plus difficile
+la conduite de celle-ci. La question de l'indemnisation du prévenu (art. 429 CPP) doit être
+traitée en relation avec celle des frais (art. 426 CPP). Si le prévenu supporte les frais en
+application de l'art. 426 al. 1 ou 2 CPP, une indemnité est en règle générale exclue
+(TF 6B_67/2016 du 31 octobre 2016, consid. 1.2; ATF 137 IV 352, JdT 2012 IV 255).
+2.2
+En l’occurrence, le recourant a admis avoir
+consommé du cannabis quelques heures avant son interpellation (cf. PV aud. 1). Il présentait
+en outre des symptômes de consommation (yeux injectés) (P. 4, p. 2). La situation de fait visée
+par l’arrêt du Tribunal fédéral 1B_180/2012 du 24 mai 2012 est similaire à
+celle du recourant, peu importe la nature des stupéfiants en cause. En effet, la présence dans
+le sang d’un stupéfiant est, dans le cas d’espèce, bien établie, et sa quantité,
+comme dans l’arrêt précité, n’atteint ou ne dépasse pas les valeurs selon
+lesquelles un conducteur est réputé incapable de conduire au sens de l’art. 2 al. 2 OCC
+(Ordonnance sur les règles de la circulation routière du 13 novembre 1962; RS 741.11).
+Par ailleurs, dans la présente affaire, comme dans l’arrêt précité, l
+a
+police a ordonné un test rapide de détection de stupéfiants sur le recourant au motif
+que ce dernier avait les yeux injectés. De plus, le médecin qui l’a ausculté peu
+après son interpellation a non seulement confirmé qu’il avait les conjonctives brillantes,
+mais encore qu’il présentait une incapacité de conduite « légère »
+(P. 7). Même si, après analyse, la valeur limite dans le sang permettant d’établir
+une incapacité de conduire n’a pas été atteinte, il se justifie donc, en application
+de l’art. 426 al. 2 CPP et à la lumière de la jurisprudence précitée, de mettre
+à la charge du recourant les frais liés à son interpellation et au contrôle de son
+état physique.
+Il convient à cet égard de relever que le montant des frais mis à la charge du prévenu,
+soit 1'198 fr., correspond à l’addition des frais de l’intervention de la gendarmerie
+du 23 juin 2017 avec dépistage de produits stupéfiants, par 300 fr., des frais de l’examen
+par le médecin dans la nuit du 23 au 24 juin 2017, par
+403
+fr. 90, et des frais d’analyse de sang et d’urine par le laboratoire, par 495 francs. Le
+Procureur a ainsi laissé les frais de l’ordonnance de classement, soit 200 fr., à la
+charge de l’Etat.
+C’est à bon droit également que le Procureur a refusé, en application de l’art.
+430 al. 1 let. a CPP et conformément à la jurisprudence, d’allouer au prévenu une
+indemnité au sens de l’art. 429 CPP, dès lors que ce dernier supporte la quasi-totalité
+des frais en application de l'art. 426 al. 1 ou 2 CPP.
+S’agissant de la situation financière du recourant, il apparaît que celui-ci est majeur
+et qu’il dispose de moyens financiers lui ayant permis d’acquérir un motocycle de marque
+KTM, d’assumer le coût des cours de conduite et d’acheter des stupéfiants. Sa situation
+n’apparaît donc pas défavorable sur le plan financier. Le recourant pourra en outre solliciter
+des modalités de paiement directement auprès des services chargés du recouvrement.
+3.
+Il résulte de ce qui précède que
+le recours, mal fondé, doit être rejeté et l’ordonnance du 7 septembre 2017 confirmée.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 720 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; RSV 312.03.1]), seront mis à la charge du recourant, qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 7 septembre 2017 est confirmée.
+III.
+Les frais d’arrêt, par 720 fr. (sept cent vingt francs), sont mis à la charge de V.________.
+IV.
+L’arrêt est exécutoire.
+Le
+juge unique :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+V.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
