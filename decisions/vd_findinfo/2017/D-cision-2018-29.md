@@ -1,0 +1,293 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 29"
+decided: "2017-12-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6448759"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-143.md", "switzerland/bund/acts/311.0/art-143bis.md", "switzerland/bund/acts/311.0/art-147.md", "switzerland/bund/acts/311.0/art-160.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2018 / 29
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ACCÈS INDU À UN SYSTÈME INFORMATIQUE | 143 CP, 143bis CP, 147 CP, 179novies CP, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.12.2017 Décision / 2018 / 29
+
+CLASSEMENT DE LA PROCÉDURE, ACCÈS INDU À UN SYSTÈME INFORMATIQUE | 143 CP, 143bis CP, 147 CP, 179novies CP, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+856
+PE16.010761-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 décembre 2017
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Cattin
+*****
+Art.
+319 CPP ; art. 143, 143
+bis
+,
+147 et 179
+novies
+CP
+Statuant sur le recours interjeté le 6 octobre 2017 par
+S.________
+contre l’ordonnance de classement rendue le 22 septembre 2017 par le Ministère public de l’arrondissement
+de La Côte dans la cause
+n° PE16.010761-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Les 3 mai et 20 septembre 2016, S.________ a déposé plainte contre L.________ et son fils V.________
+notamment pour accès indu à un système informatique. Il leur reproche en substance d’avoir
+accédé sans droit aux données confidentielles stockées dans l’ordinateur qu’il
+utilisait pour ses affaires privées, ainsi que pour celles de ses entreprises K.________SA et K.________International
+SA. Ces données auraient ensuite été utilisées dans le cadre d’une procédure
+pénale distincte (PE14.017070-MMR) qui oppose L.________ à S.________. Ce dernier a précisé
+que V.________ a été employé de K.________SA jusqu’au 30 novembre 2014 et administrateur
+avec signature individuelle de K.________International SA jusqu’au 27 août 2014.
+Le Ministère public de l’arrondissement de La Côte a ouvert une instruction pénale
+à l’encontre de L.________ le 9 juin 2016, puis à l’encontre de V.________ le 14
+octobre 2016.
+b)
+Par ordonnance du 16 décembre 2016, le Ministère public a ordonné le classement de la
+procédure pénale dirigée contre V.________ et L.________ pour accès indu à un
+système informatique.
+c)
+Par arrêt du 2 février 2017 (n°81), la Chambre des recours pénale du Tribunal cantonal
+a partiellement admis le recours interjeté par S.________, a annulé l’ordonnance de classement
+en tant qu’elle concernait V.________, a confirmé l’ordonnance en tant qu’elle
+concernait L.________, a renvoyé la cause au Ministère public pour qu’il procède
+dans le sens des considérants et a statué sur les frais ainsi que sur les indemnités.
+La Chambre des recours pénale a considéré que même si le prévenu V.________
+avait admis avoir téléchargé sur une clé USB les données litigieuses, la Cour
+ignorait à quelles données informatiques de la société K.________SA, respectivement
+à quels fichiers personnels du plaignant, il avait accès dans le cadre de ses rapports de travail.
+Elle ne connaissait également pas quelles autorisations et instructions avait été données
+au plaignant. La Cour a estimé qu’elle ne pouvait pas, en l’état, présumer
+que le prévenu avait accès en tout temps à l’ensemble des données en question
+sur la base du seul fait qu’il était employé de la société. La date de l’éventuel
+accès indu au système informatique n’était du reste pas davantage connue. Ainsi,
+les faits incriminés devaient faire l’objet de plus amples mesures d’instruction sous
+l’angle de l’ensemble des infractions susceptibles d’entrer en considération,
+à savoir en sus de l’accès indu à un système informatique (art. 143
+bis
+CP), la soustraction de données (art. 143 CP), l’utilisation frauduleuse d’un ordinateur
+(art. 147 CP) et la soustraction de données personnelles (art. 179
+novies
+CP).
+S’agissant de la prévenue L.________, la Cour a estimé que celle-ci ne pouvait pas se
+rendre coupable de recel dans la mesure où l’art. 160 CP n’était pas applicable
+aux données informatiques faute pour elles de constituer des choses.
+B.
+Par ordonnance du 22 septembre 2017, le Ministère
+public a ordonné le classement de la procédure pénale dirigée contre V.________ pour
+accès indu à un système informatique (I), a dit qu’il n’y avait pas lieu d’octroyer
+à V.________ une indemnité au sens de l’art. 429 CPP (II), a ordonné la restitution
+à S.________ de la clé USB produite par V.________ et enregistrée sous forme de pièce
+à conviction sous fiche n° 5879, dès décision définitive et exécutoire
+(III) et a laissé exceptionnellement les frais de procédure à la charge de l’Etat
+(IV).
+La Procureure a indiqué que les accès informatiques accordés au prévenu ne ressortaient
+pas du contrat de travail conclu entre K.________SA et V.________ le 1
+er
+novembre 2011, produit au dossier. Celui-ci étant administrateur et directeur des deux sociétés
+du plaignant, elle était parvenue à la conclusion que les accès du prévenu aux fichiers
+informatiques devaient être étendus, d’autant plus que les parties se fréquentaient
+régulièrement, puisque le plaignant était le compagnon de la mère du prévenu
+et que leurs relations étaient harmonieuses, avant de se détériorer avec le temps. En
+outre, la clé USB contenant les données litigieuses avait été remise à la Procureure
+par le prévenu. L’analyse de celle-ci avait démontré qu’elle ne contenait
+aucun fichier «
+confidentiel
+»
+ou «
+personnel
+»
+et que les téléchargements avaient été effectués sur plusieurs années.
+A cet égard, il avait pu être déterminé que les derniers fichiers avaient été
+téléchargés entre les 2 et 11 juillet 2014 et qu’ils ne contenaient aucune
+mention de confidentialité. Ainsi, la Procureure a estimé qu’on ne saurait considérer
+que le prévenu s’était rendu coupable d’accès indu à un système
+informatique, voire de soustraction de données. L’infraction d’utilisation frauduleuse
+d’un ordinateur, au sens de l’art. 147 CP, ne pouvait également être retenue,
+faute d’enrichissement illégitime. Enfin, l’infraction de soustraction de données
+personnelles
+(art. 179
+novies
+CP) n’était pas réalisée, les données figurant sur la clé USB n’étant
+ni personnelles, ni sensibles. Un classement devait donc être prononcé en faveur de V.________.
+C.
+Par acte du 6 octobre 2017, S.________ a recouru auprès de la Chambre des recours pénale du
+Tribunal cantonal contre cette ordonnance, en concluant à son annulation, au renvoi du dossier de
+la cause au Ministère public pour complément d’instruction, lequel devra procéder
+à la ré-audition du prévenu, respectivement à leur confrontation, à la saisie
+du ou des ordinateurs du prévenu et à l’analyse par les services de police des clés
+USB et ordinateurs, ainsi qu’à l’allocation d’une juste indemnité pour les
+dépenses obligatoires occasionnées par la procédure.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0). Ce recours s’exerce auprès de l’autorité
+de recours (cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; RSV 312.01] ; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre
+1979 ; RSV 173.01]). Le recours doit être adressé par écrit, dans un délai de
+dix jours, à l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP).
+En l'espèce, interjeté en temps utile devant l’autorité compétente, par une
+partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant aux conditions
+de forme prescrites (art. 385 al. 1 CPP), le recours formé par S.________ est recevable.
+2.
+2.1
+Le recourant reproche au Ministère public
+une instruction incomplète. Selon lui, le Ministère public n’aurait pas établi la
+date déterminante où le prévenu aurait tenté d’accéder et/ou accédé
+à ses fichiers et si à cette date le prévenu était ou n’était pas présent
+dans les locaux de son entreprise, ni déterminé quel statut avait le prévenu à ce
+moment-là dans la société, dans la mesure où les autorisations lui auraient été
+d’abord restreintes puis totalement interdites.
+2.2
+Selon l'art. 319 al. 1 CPP, le Ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance
+confinant à la certitude. La possibilité de classer la procédure ne saurait toutefois
+être limitée à ce seul cas, car une interprétation aussi restrictive imposerait un
+renvoi en jugement, même en présence d'une très faible probabilité de condamnation
+(ATF 138 IV 86 consid. 4.1.1 ; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe in dubio
+pro duriore exige donc simplement qu'en cas de doute, la procédure se poursuive. Pratiquement, une
+mise en accusation s'impose lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement.
+En effet, en cas de doute, ce n'est pas à l'autorité d'instruction ou d'accusation mais au
+juge matériellement compétent qu'il appartient de se prononcer (ATF 138 IV 86 consid. 4.1.1
+; ATF 138 IV 186 consid. 4.1 ; ATF 137 IV 219 consid. 7 ; TF 1B_272/2011 du 22 mars 2012 consid.
+3.1.1).
+Enfin, le constat selon lequel aucun soupçon justifiant une mise en accusation n’est établi
+(art. 319 al. 1 let. a CPP) suppose que le Ministère public ait préalablement procédé
+à toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 10 mai 2016/305 et les références
+citées).
+2.3
+En l’espèce, ensuite de l’arrêt rendu par la Cour de céans le 2 février
+2017, la Procureure a sollicité du plaignant la production des contrats de travail qui le liaient
+au prévenu, contrat qui a été produit le 15 mars 2017 (P. 22/2), a procédé à
+l’audition du prévenu en date du 4 mai 2017 (PV aud. 2) et a enregistré comme pièce
+à conviction la clé USB produite par le prévenu le 9 mai 2017 (cf. P. 24 et 25).
+Comme l’a constaté à juste titre le Ministère public, le contrat de travail liant
+le prévenu à K.________SA ne limite pas les accès informatiques du prévenu et aucun
+élément au dossier ne permet de le retenir. L’examen de la clé USB a permis d’établir
+que des fichiers de la société avaient été téléchargés pour la dernière
+fois entre les 2 et 11 juillet 2014, soit un peu plus de deux mois avant le licenciement du prévenu
+intervenu le 23 septembre 2014, lequel a été libéré à cette date de ses obligations
+contractuelles (cf. P. 22/3 et 22/4), et qu’ils ne contenaient aucune mention de confidentialité.
+Le recourant expose que les autorisations du prévenu pour accéder aux données de la société
+lui auraient été d’abord restreintes puis totalement interdites puis se borne à
+soutenir que les téléchargements étaient illicites et que les données téléchargées
+étaient confidentielles et personnelles. Toutefois, il n’apporte aucun élément qui
+permettrait de déterminer à quelles périodes ces restrictions auraient eu lieu, ni si
+les téléchargements étaient effectivement illicites. Au vu des responsabilités qui
+étaient les siennes en tant qu’administrateur de K.________International SA et directeur des
+opérations de K.________SA ainsi qu’au vu des relations personnelles qui existaient entre
+lui et le plaignant, on peut retenir ainsi que le prévenu avait un accès étendu à
+ces données. Certes, V.________ a expliqué avoir tout d’abord téléchargé
+les fichiers de la société car il se déplaçait fréquemment à l’étranger
+et ensuite pour assurer ses «
+arrières
+»
+car il savait qu’il allait bientôt quitter la société (PV aud. 2, p. 2), si
+bien qu’il n’a pas uniquement agi pour des raisons professionnelles. Cela ne change cependant
+rien au fait que les éléments constitutifs des infractions de soustraction de données
+(art. 143 CP), d’accès indu à un système informatique (art. 143
+bis
+CP), d’utilisation frauduleuse d’un ordinateur (art. 147 CP) et de soustraction de données
+personnelles (art. 179
+novies
+CP) ne sont pas réalisés, comme l’a démontré à juste titre le Ministère
+public. Le recourant n’allègue d’ailleurs à aucun moment que tel serait le cas.
+Enfin, le Ministère public a ordonné la restitution de la clé USB au recourant, si bien
+qu’il pourra connaître l’étendue des fichiers téléchargés, ce qu’il
+aurait au demeurant pu faire en consultant le dossier.
+Partant, force est de constater qu’aucune mesure d’instruction complémentaire n’est
+susceptible de mener à une autre appréciation. C’est donc à bon droit que le Ministère
+public a rendu une ordonnance de classement, un acquittement apparaissant plus vraisemblable qu'une condamnation.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autre échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance
+attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt, par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge de S.________,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 22 septembre 2017 est confirmée.
+III.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont mis à la charge de S.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Alexandre Schwab, avocat (pour S.________),
+-
+M. V.________,
+-
+Me Michel Schmidt, avocat (pour L.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
