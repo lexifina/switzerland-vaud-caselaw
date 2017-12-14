@@ -1,0 +1,234 @@
+---
+decision_id: "vd_findinfo_Faillite___2017___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2017 / 43"
+decided: "2017-12-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6401273"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-325.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-331.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2017 / 43
+
+## Regeste
+
+AJOURNEMENT DE LA FAILLITE, REJET DE LA DEMANDE, CHOSE JUGÉE | 725a al. 1 CO
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.12.2017 Faillite / 2017 / 43
+
+AJOURNEMENT DE LA FAILLITE, REJET DE LA DEMANDE, CHOSE JUGÉE | 725a al. 1 CO
+
+TRIBUNAL
+CANTONAL
+FU17.039853-171858
+309
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 décembre 2017
+____________
+__________
+Composition
+:               Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+725a al. 1 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+Y.________
+SA
+en
+liquidation
+, à [...], contre la décision
+rendue le 17 octobre 2017, à la suite de l’audience du 12 octobre 2017, par le Président
+du Tribunal d’arrondissement de Lausanne, rejetant la requête de la recourante en ajournement
+de faillite.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 14 septembre 2017, Y.________ SA a adressé au Président du tribunal d’arrondissement
+de Lausanne un avis de surendettement (art 725 al. 2 CO) et requis l’ajournement de sa faillite
+(art. 725a CO). Le dossier a été ouvert sous la référence FU. 039853/PBR.
+Par jugement du 20 septembre 2017, rendu suite à une audience du 17 août 2017 à laquelle
+la partie requérante avait fait défaut, la Présidente du Tribunal d’arrondissement
+de Lausanne a prononcé la faillite d’Y.________ SA le 20 septembre 2017 à 14h45 dans
+le cadre d’un dossier ouvert sous la référence FF17.032523/MEC suite à une réquisition
+de faillite déposée par l’A.________ le 14 juillet 2017. Par arrêt du 2 octobre
+2017, la Cour des poursuites et faillites du Tribunal cantonal a déclaré irrecevable, faute
+de motivation, le recours déposé en temps utile contre ce jugement. La cour a par ailleurs
+relevé que même s’il avait été recevable, le recours aurait dû être
+considéré comme manifestement mal fondé. Ces faits ne ressortent pas du dossier mais peuvent
+être retenus à titre de faits notoires (faits connus du juge : TF 5A_610/2016 du 3 mai 2017).
+2.
+Par décision rendue 17 octobre 2017, à
+la suite de l’audience du 12 octobre 2017, le Président du Tribunal d’arrondissement
+de Lausanne, statuant en tant qu’autorité de première instance en matière sommaire
+de poursuites et de faillite, a constaté que la cause FU17.039853 n’avait plus d’objet
+au vu de la décision de faillite d’Y.________ SA en liquidation (alors Y.________ SA) entrée
+en force de chose jugée (I), a rejeté en conséquence la requête d’ajournement
+de déclaration de faillite déposée le 14 septembre 2017 par Y.________ SA en liquidation
+(alors Y.________ SA) (II) et a mis les frais de la décision, arrêtés à 500 fr.,
+à la charge d’Y.________ SA en liquidation (alors Y.________ SA) (III). En substance, le premier
+juge a constaté que la demande d’ajournement de faillite ne contenait aucune demande d’effet
+suspensif, qu’il n’y avait pas lieu de reporter la décision de faillite jusqu’à
+droit connu sur la demande d’ajournement et que l’arrêt de la Cour des poursuites et
+faillites du 2 octobre 2017 était exécutoire, de sorte que le jugement de faillite du 20 septembre
+2017 était entré en force. Au vu de ces éléments, il a considéré que la
+requérante ne pouvait plus faire examiner son droit à un ajournement de faillite sur la base
+de l’art. 725a al. 1 CO, ce droit ne pouvant plus être invoqué une fois la faillite prononcée.
+Cette décision a été notifiée à Y.________ SA en liquidation le 19 octobre
+2017.
+3.
+Par acte du 30 octobre 2017, Y.________ SA en
+liquidation a recouru contre cette décision en concluant, principalement à son annulation,
+la cause étant renvoyée au Président du Tribunal d’arrondissement de Lausanne pour
+nouvelle décision, et, subsidiairement à sa réforme en ce sens que sa faillite est révoquée
+avec effet au 20 septembre 2017 à 14 h 45 et qu’un ajournement de faillite pour une durée
+de six mois lui est octroyé, sans nomination de curateur ni publication, une nouvelle audience étant
+fixée pour nouvelle instruction et nouveau jugement. Elle a requis que l’effet suspensif soit
+accordé au recours et a produit un bordereau de pièces.
+Par décision du 1
+er
+novembre 2017, la présidente de la cour de céans a rejeté la requête d’effet
+suspensif.
+En droit
+:
+I.
+La décision d’octroi ou de refus de
+l’ajournement de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens du CPC
+(Code de procédure civile du 19 décembre 2008 ; RS 272) (Peter, Commentaire romand, n°
+21, ad 725a CO ; art. 174 al. 1 1
+ère
+phrase LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1]).
+Déposé en temps utile compte tenu du fait que le délai de recours, arrivé à
+échéance le dimanche 29 octobre 2017, a été reporté au lundi 30 octobre 2017
+en application de l’art. 142 al. 3 CPC (art. 174 al. 1 LP [loi fédérale du 11 avril 1889
+sur la poursuite pour dettes et la faillite ; RS 281.1) et dans les formes requises (art. 321 al.
+1 CPC), le recours est recevable formellement.
+b)
+En
+vertu de l’art. 326 al. 1 CPC, les pièces nouvelles sont irrecevables en procédure de
+recours. L’alinéa 2 de cette disposition réserve les dispositions spéciales de la
+loi. La LP, en matière de concordat, ne contient aucune disposition permettant la production de
+pièces nouvelles en recours (CPF 15 janvier 2015/2).
+En l’espèce, les pièces produites par la recourante ne sont recevables que dans la mesure
+où elles figurent déjà au dossier de première instance. La recevabilité de la
+copie de la demande de révision et de restitution de délai adressée à la Cour des
+poursuites et faillites du Tribunal cantonal ainsi que du bordereau de pièces qui y était joint
+est douteuse. Ces pièces pourraient certes être considérées comme des faits notoires
+car connus du tribunal (TF 5A_610/2016 du 3 mai 2017) ; elles concernent toutefois des faits postérieurs
+à la décision entreprise ce qui paraît contraire à l’art 326 al. 1 CPC. En
+tout état de cause, si ces pièces devaient être recevables, il faudrait alors également
+tenir compte de l’ordonnance rendue le 6 novembre 2017 par la présidente de la Cour des
+poursuites et faillites du Tribunal cantonal qui a rejeté la requête d’effet suspensif
+contenue dans la demande de révision/restitution de délai. La question peut toutefois rester
+ouverte.
+II.
+La recourante soutient en substance que le juge saisi de la requête de faillite déposée
+par l’A.________ aurait dû, compte tenu de la demande d’ajournement déposée
+le 14 septembre 2017, suspendre la procédure de faillite. Il s’agit toutefois d’un moyen
+qui devait être soulevé dans le cadre du recours dirigé contre le jugement de faillite
+du 20 septembre 2017 mais qui n’est pas recevable dans le cadre de la présente procédure.
+Pour le reste, il y a lieu de rappeler que l’ajournement de la faillite (art. 725a al. 1, 2
+ème
+phrase CO) n'est possible que lorsque le jugement de faillite n'est pas encore entré en force (TF
+5A_250/2016 du 31 mai 2016, consid. 2.1 ; TF 5A_3/2009 du 13 février 2009 consid. 2.3).
+Selon l'art. 174 al. 1 LP, la décision du juge de la faillite peut faire l'objet d'un recours au
+sens des art. 319 à 327a CPC. Selon les règles générales régissant cette voie
+de droit, la décision contre laquelle le recours est ouvert acquiert force de chose jugée et
+devient exécutoire (art. 325 al. 1 CPC). Toutefois, l'instance de recours peut en suspendre le caractère
+exécutoire (art. 325 al. 2 CPC). Dès lors, la décision est exécutoire si elle est
+entrée en force et que le tribunal n'en a pas suspendu l'exécution (TF 5A_92/2016 du 17 mars
+2016, consid. 1.3.2.1 ; TF 5A_866/2012 du 1
+er
+février 2013 consid. 4.1, publié  in SJ 2013 I p. 314).
+Parmi les règles spécifiques de la LP, l'art. 174 al. 3 LP prévoit que si l'autorité
+de recours accorde l'effet suspensif, elle ordonne simultanément les mesures provisionnelles propres
+à préserver les intérêts des créanciers. Le Message du Conseil fédéral
+relatif à une modification de la loi fédérale sur la poursuite pour dettes et la faillite
+(droit de l'assainissement), du 8 septembre 2010, souligne que le libellé de cette norme a été
+adapté à celui du CPC (p. 5887). L'art. 174 al. 3 LP constitue toutefois une  lex specialis
+et s'applique en lieu et place de l'art. 325 CPC. Lorsque le juge décide d'ordonner l'effet suspensif,
+il peut non seulement empêcher l'exécution immédiate du jugement de faillite, en ce sens
+que l'office des faillites ne peut procéder à aucun acte d'exécution, mais, contrairement
+à l'art. 325 al. 2 CPC, également suspendre les effets juridiques de l'ouverture de la faillite,
+soit la force de chose jugée formelle de la décision attaquée. Dans ce cas, si l'autorité
+judiciaire supérieure rejette en fin de compte le recours, le moment de l'ouverture de la faillite
+est différé à la date du prononcé de son arrêt, en ce sens que l'autorité
+doit fixer à nouveau ce moment (TF 5A_92/2016 du 17 mars 2016, consid. 1.3.2.1 et les réf.
+citées).
+En l’espèce, la faillite de la recourante a été prononcée le 20 septembre 2017.
+Aucun effet suspensif n’a été ordonné à la suite du recours déposé
+par la recourante qui a en outre été déclaré irrecevable par arrêt du 2 octobre
+2017. Il s’ensuit que la faillite de la recourante était bien entrée en force lorsque
+le premier juge a statué sur la requête d’ajournement de faillite. Un tel ajournement
+n’était donc effectivement plus possible. La décision du premier juge échappe ainsi
+à la critique.
+A supposer que l’on puisse en tenir compte, la demande de révision et de restitution de délai
+déposé par la recourante ne change rien à l’affaire dans la mesure où une demande
+de révision ne suspend pas la force de chose jugée et le caractère exécutoire de
+la décision (art. 331 al. 1 CPC) et que, par ailleurs, la requête d’effet suspensif contenu
+dans cette demande a été rejetée par décision du 6 novembre 2017.
+III.
+En conclusion, le recours, manifestement mal fondé,
+doit être rejeté dans la mesure où il est recevable et la décision confirmée.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr. doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante Y.________ SA en liquidation.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Jacques Lauber, agent d’affaires breveté (pour Y.________ SA en liquidation),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+Le greffier :
