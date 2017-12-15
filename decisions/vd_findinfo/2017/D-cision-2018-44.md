@@ -1,0 +1,342 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___44"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 44"
+decided: "2017-12-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6441699"
+cites_law: ["switzerland/bund/acts/101/art-027.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-389.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-391.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/741.01/art-090.md"]
+---
+
+# VD Findinfo Décision / 2018 / 44
+
+## Regeste
+
+DÉFENSE D'OFFICE, REJET DE LA DEMANDE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 132 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 15.12.2017 Décision / 2018 / 44
+
+DÉFENSE D'OFFICE, REJET DE LA DEMANDE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 132 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+860
+PE17.006373-STO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+15 décembre 2017
+__________________
+Composition
+:               M,
+Perrot
+,
+juge unique
+Greffier
+:              M.
+Petit
+*****
+Art.
+132, 393 al. 1 let. b, 395 let. a CPP
+Statuant sur le recours interjeté le 30 novembre 2017 par
+V.________
+contre le prononcé de refus de désignation d'un défenseur d'office rendu le 10 novembre
+2017 par le Tribunal de police de l’arrondissement de La Broye et du Nord vaudois dans la cause
+n° PE17.006373-STO
+,
+le Juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 24 novembre 2016, vers 11h25, à l’avenue de [...], à [...],V.________ a causé
+un accident de circulation au volant de son véhicule automobile. Il lui est reproché notamment
+d’avoir entrepris un dépassement en franchissant une ligne de sécurité et circulant
+à cheval sur celle-ci, d’avoir effectué un demi-tour en actionnant le frein de stationnement,
+adopté une vitesse inadaptée à la configuration des lieux et perdu la maîtrise du
+véhicule (cf.
+P. 4/2).
+b)
+Pour ces agissements, V.________ a été condamné le 19 janvier 2017 par le Préfet
+du district du Jura-Nord vaudois pour contravention à l’art. 90 ch. 1 LCR (Loi fédérale
+sur la circulation routière du 19 décembre 1958 ; RS 741.01) à une amende de 500
+fr., assortie, en cas de défaut de paiement, d’une peine privative de liberté de substitution
+de 5 jours, et frais à sa charge par 180 francs (P. 4/3).
+Le 26 janvier 2017, V.________ a formé opposition à l’encontre de cette ordonnance (P.
+4/6).
+Le 20 mars 2017 (P. 4/24), le
+Préfet,
+maintenant l’ordonnance pénale du 19 janvier 2017, a fait suivre le dossier de V.________
+au Tribunal de police
+de l’arrondissement
+de La Broye et du Nord vaudois
+(ci-après : le Tribunal de police) comme objet de sa compétence en vue des débats
+(art. 356 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]).
+Interpellé le 5 avril 2017 par le Tribunal de police quant au maintien de son opposition (P. 5),
+le recourant l’a maintenue le 19 avril 2017.
+Une audience devant ce tribunal a été appointée au 17 août 2017.
+Le 16 août 2017, le recourant a déposé
+au
+guichet du greffe de ce tribunal
+un certificat
+médical, établi le même jour par le Dr [...], « Médecine générale
+et Manuelle » (P. 10), et sollicité le renvoi de l’audience précitée.
+La teneur du certificat est la suivante : « Ne peut pas se rendre au Tribunal le 17.08.2017
+pour des raisons médicales ».
+L’audience appointée au 17 août 2017 a été renvoyée.
+Une nouvelle audience devant le Tribunal de police a été appointée au 2 octobre 2017.
+B.
+Par télécopie et pli simple du 2 octobre
+2017 adressés au Tribunal de police, l’avocat X.________ a sollicité le report de l’audience,
+à trois mois au minimum, ainsi que sa désignation en qualité de défenseur d'office
+de V.________ (P. 12). A l’appui de cette requête, il a produit deux certificats médicaux
+établis par le Dr F.________, psychiatre et psychothérapeute, en date du 28 septembre 2017.
+La teneur du premier certificat est la suivante : « Cause : Maladie. Je soussigné,
+atteste que Monsieur V.________ 1975, est suivi dans mon Cabinet Médical depuis 2015. Son état
+de santé ne lui permet pas de se présenter à l’audience du 02.10.2017 et de défendre
+ses intérêts » (P. 14/1 = 18/2). La teneur du second certificat est la suivante :
+« Cause : Maladie. Je soussigné, atteste que Monsieur V.________ 1975, est suivi
+dans mon Cabinet Médical depuis 2015. Actuellement, il ne peux (sic) défendre ses intérêts
+de manière stable et structurée. De ce fait, il nécessite se faire (sic) représenter
+par un avocat pour toute démarche auprès d’un tribunal» (P. 18/1).
+Par prononcé du 10 novembre 2017, le Tribunal de police de l’arrondissement de La Broye et
+du Nord vaudois a refusé de désigner l’avocat X.________ en qualité de défenseur
+d’office de V.________, estimant que les conditions prévues par l’art. 132 CPP
+n’étaient pas remplies compte tenu notamment du peu de gravité de l’affaire.
+C.
+Par acte du 30 novembre 2017, V.________, par l’entremise de son défenseur, a recouru auprès
+de la Chambre des recours pénale du Tribunal cantonal contre ce prononcé, en concluant, avec
+suite de frais et dépens, principalement à son annulation, subsidiairement à sa réforme
+en ce sens qu’il soit mis au bénéfice de l’assistance judiciaire et que Me X.________
+soit désigné comme son défenseur d’office, avec effet au 2 octobre 2017. Il a également
+requis la désignation d’office de cet avocat dans le cadre de la procédure de recours.
+Très subsidiairement, il a conclu au renvoi de la procédure au Tribunal de police pour nouvelle
+décision dans le sens des considérants. Enfin, à titre de mesures d’instruction,
+le recourant a sollicité l’audition du Dr F.________.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. b CPP,
+le recours est recevable contre les ordonnances, les décisions et les actes de procédure des
+tribunaux de première instance, sauf contre ceux de la d
+irection
+de la procédure. Une décision par laquelle un tribunal de première instance refuse, avant
+l’ouverture des débats devant lui, de nommer un défenseur d’office au prévenu
+est cependant susceptible de recours selon les art. 393 ss CPP, dans la mesure où un tel refus
+est de nature à causer un préjudice irréparable à l’intéressé (cf.
+TF 1B_37/2014 du 10 juin 2014 consid. 2.2; CREP 20 août 2014/584; CREP 7 juillet 2014/452).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art. 396
+al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure pénale suisse;
+RSV 312.01]; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation
+judiciaire; RSV 173.01]).
+En l’espèce, interjeté en temps utile devant l’autorité compétente, par
+une partie qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art.
+385 al. 1 CPP), le recours est recevable.
+1.2
+L'art. 395 let. a CPP prévoit que, si l’autorité
+de recours est un tribunal collégial – ce qui est le cas de la Chambre des recours pénale,
+laquelle statue à trois juges (art. 67 al. 1 let. 1 LOJV [Loi vaudoise d’organisation judiciaire du
+12 décembre 1979; RSV 173.01]; art. 12 al. 1 ROTC [Règlement organique du Tribunal cantonal du
+13 novembre 2007; RSV 173.31.1]) –, sa direction de la procédure statue seule sur le recours
+lorsqu’il porte exclusivement sur des contraventions.
+En l’espèce, le prononcé du 10 novembre 2017 concerne exclusivement une contravention,
+de sorte que la cause relève de la compétence d’un membre de la Chambre des recours pénale
+statuant comme juge unique (art. 13 al. 2 LVCPP [Loi d’introduction du Code de procédure
+pénale suisse du 19 mai 2009; RSV 312.01]; CREP 16 juillet 2015/476).
+2.
+2.1
+a)
+V.________ soulève le grief de défaut de motivation. Il fait valoir que le prononcé querellé
+ne contient aucune véritable argumentation. Il reproche encore au premier juge d’avoir versé
+dans l’arbitraire, dès lors que celui-ci n’aurait pas tenu compte du certificat médical
+du Dr F.________ du 28 septembre 2017 (P. 18/1), lequel établirait son incapacité à se
+défendre seul et de manière efficace.
+b)
+L
+e
+droit d'être entendu, garanti tant par l'art. 29 al. 2 Cst. (Constitution fédérale de
+la Confédération suisse du 18 avril 1999; RS 101) que par l'art. 27 al. 2 Cst-VD (Constitution
+du Canton de Vaud du 14 avril 2003; RSV 101.01), comporte celui de recevoir une décision suffisamment
+motivée. L'objet et la précision des indications à fournir dépend de la nature de
+l'affaire et des circonstances particulières du cas; néanmoins, en règle générale,
+il suffit que l'autorité mentionne au moins brièvement les motifs qui l'ont guidée, permettant
+ainsi au justiciable d’apprécier correctement la portée de la décision et de l'attaquer
+à bon escient et à l’autorité de recours d’exercer son contrôle (ATF
+138 I 232 consid. 5.1 et les références citées). Le droit d’être entendu est
+un droit de nature formelle, dont la violation doit entraîner en principe l'annulation de la décision
+attaquée (ATF 122 IV 8; ATF 121 I 230). Toutefois, la jurisprudence du Tribunal fédéral
+admet qu'une telle irrégularité peut être réparée lorsque l'intéressé
+peut s'exprimer librement devant une autorité de recours disposant du même pouvoir d'examen
+que l'autorité de première instance, et qui peut ainsi contrôler librement la décision
+attaquée (ATF 133 I 201 consid. 2.2; ATF 129 I 129 consid. 2.2.3; TF 1B_36/2010 du 19 août
+2010). La Chambre des recours pénale dispose d'un tel pouvoir d'examen, permettant de guérir
+le vice (art. 391 al. 1 CPP; CREP 14 mars 2011/46).
+c)
+En l’espèce, le prononcé attaqué expose les faits déterminants en droit et
+l’appréciation juridique que l’autorité en déduit. Au demeurant, la motivation
+du prononcé a permis au recourant d’en contester tous les points qu’il entendait soumettre
+à la cognition de la chambre de céans. Elle apparaît ainsi suffisante au regard des exigences
+déduites de l’ordre constitutionnel. Par surabondance, même si la motivation du prononcé
+devait être tenue pour insuffisante, la partie a eu la faculté de faire valoir ses moyens devant
+une autorité de recours disposant d’un plein pouvoir d'examen, et qui peut ainsi contrôler
+librement la décision attaquée conformément à la jurisprudence fédérale
+résumée ci-dessus.
+Le moyen doit donc être rejeté.
+2.2
+a)
+V.________ soutient que les conditions d’une
+défense d’office (art. 132 CPP) sont réunies. Il fait d’abord valoir son indigence.
+Il se prévaut ensuite, comme déjà évoqué, d’un certificat médical
+établi en date du 28 septembre 2017 par le Dr F.________ (P. 18/1), dont il sollicite formellement
+l’audition. Enfin, il allègue qu’il ne dispose d’aucune formation juridique.
+b)
+Selon l'art. 389 CPP, la procédure de recours se fonde sur les preuves administrées pendant
+la procédure préliminaire et la procédure de première instance (al. 1); l'administration
+des preuves du tribunal de première instance n'est répétée que si les dispositions
+en matière de preuves ont été enfreintes (al. 2 let. a), si l'administration des preuves
+était incomplète (al. 2 let. b) ou si les pièces relatives à l'administration des
+preuves ne semblent pas fiables (al. 2 let. c); l'autorité de recours administre, d'office ou à
+la demande d'une partie, les preuves complémentaires nécessaires au traitement du recours (al.
+3).
+Conformément à l’art. 139 al. 2 CPP, il n’y a pas lieu d’administrer des
+preuves sur des faits non pertinents, notoires, connus de l’autorité ou déjà suffisamment
+prouvés. Cette disposition codifie, pour la procédure pénale, la règle jurisprudentielle
+déduite de l’art. 29 al. 2 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999; RS 101) en matière d’appréciation anticipée des preuves
+(TF 6B_977/2014 du 17 août 2015 consid. 1.2 et les références citées). Le magistrat
+peut renoncer à l’administration de preuves nouvelles qui se sont pas nécessaires au
+recours, en particulier lorsqu’une administration anticipée non arbitraire de la preuve démontre
+que celle-ci ne sera pas de nature à modifier le résultat de celles administrées (ATF
+non publié 6B_614/2012 du 15 février 2013, consid. 3.2.3).
+c)
+En dehors des cas de défense obligatoire
+au sens de l’art. 130 CPP, la direction de la procédure ordonne une défense d’office
+si le prévenu ne dispose pas des moyens nécessaires et si l’assistance d’un défenseur
+est justifiée pour sauvegarder ses intérêts (art. 132 al. 1 let. b CPP).
+Ces deux conditions sont cumulatives (Harari/Aliberti, in : Kuhn/ Jeanneret [éd.], Commentaire
+romand, Code de procédure pénale suisse, Bâle 2011, n. 55 ad art. 132 CPP). Une personne
+est indigente lorsqu’elle n'est pas en mesure d'acquitter les frais du procès sans avoir recours
+à des moyens qui lui sont nécessaires pour subvenir à ses besoins élémentaires
+et à ceux de sa famille (ATF 128 I 225 consid. 2.5.1). La deuxième condition s'interprète
+à l'aune des critères mentionnés à l'art. 132 al. 2 et 3 CPP. Aux termes de l’art.
+132 al. 2 CPP, une défense d’office aux fins de protéger les intérêts du prévenu
+indigent se justifie notamment lorsque l’affaire n’est pas de peu de gravité et qu’elle
+présente, sur le plan des faits ou du droit, des difficultés que le prévenu seul ne pourrait
+pas surmonter. En tout état de cause, une affaire n’est pas de peu de gravité lorsque
+le prévenu est passible d’une peine privative de liberté de plus de quatre mois, d’une
+peine pécuniaire de plus de 120 jours-amende ou d’un travail d’intérêt
+général de plus de 480 heures (art. 132 al. 3 CPP).
+Selon la jurisprudence du Tribunal fédéral, le point décisif est toujours de savoir si
+la désignation d'un avocat d'office est objectivement nécessaire dans le cas d'espèce.
+A cet égard, il faut tenir compte des circonstances concrètes de l'affaire, de la complexité
+des questions de fait et de droit, des particularités que présentent les règles de procédure
+applicables, des connaissances juridiques du requérant ou de son représentant, du fait que
+la partie adverse est assistée d'un avocat et de la portée qu'a pour le requérant la décision
+à prendre, avec une certaine réserve lorsque sont en cause principalement ses intérêts
+financiers (ATF 128 I 225 consid. 2.5.2; TF 1B_359/2010 du 13 décembre 2010 consid. 3.2). En
+revanche, dans les « cas bagatelle » – soit, selon le Tribunal fédéral,
+ceux dans lesquels il ne risque qu'une peine de courte durée ou une amende –, le prévenu
+n'a pas, même s'il est indigent, de droit constitutionnel à la désignation d'un défenseur
+d'office gratuit (Harari/Aliberti, op. cit., n. 67 ad art. 132 CPP; ATF 128 I 225 consid. 2.5.2).
+d)
+Il y a lieu d’examiner si les conditions
+posées à l’art. 132 al. 1 let. b CPP sont réunies en l’espèce.
+A cet égard, il sied de relever que par ordonnance pénale du 19 janvier 2017 (P. 4/3), V.________
+a été condamné pour infraction simple à la LCR à une amende de 500 francs; il
+lui est reproché d’avoir entrepris au volant de son véhicule un dépassement en franchissant
+une ligne de sécurité et circulant à cheval sur cette dernière, d’avoir effectué
+un demi-tour en actionnant le frein de stationnement, adopté une vitesse inadaptée à la
+configuration des lieux et perdu la maîtrise du véhicule. Force est de constater que la présente
+cause – qui est au stade de l’audience de jugement devant le Tribunal de police ensuite d’une
+opposition – ne présente aucune difficulté particulière en fait et en droit. Cette
+affaire peut être qualifiée de peu de gravité, étant encore souligné que la
+peine infligée au recourant est légère. Celui-ci n’invoque au demeurant aucun élément
+propre à rendre vraisemblable que la cause comporterait des difficultés particulières
+qui justifieraient qu’il soit assisté d’un avocat. Il s’agit tout au plus d’un
+cas bagatelle dans lequel ce dernier n'a pas, indépendamment de la question de son indigence, de
+droit à la désignation d'un défenseur d'office gratuit conformément à la jurisprudence
+exposée ci-avant (cf. supra consid. 2.2 c)).
+L’indigence du recourant, qui émarge à l’assistance publique du canton de Genève
+(cf. P. 17), n’est pas contestée. Les conditions de l’art. 132 al. 1 let. b CPP
+étant cumulatives, cette circonstance ne suffit toutefois pas, à elle seule, pour d’admettre
+que l’intéressé nécessite l’assistance d’un défenseur d'office.
+S’agissant de sa situation de santé, le recourant se prévaut du certificat médical
+établi en date du 28 septembre 2017 par le Dr F.________, dont il ressort notamment qu’il
+« ne peux (sic) défendre ses intérêts de manière stable et structurée.
+De ce fait, il nécessite se faire (sic) représenter par un avocat pour toute démarche
+auprès d’un tribunal » (cf. P. 18/1). Ce document ne mentionne toutefois aucun trouble
+invalidant ou retard mental de nature à empêcher le prévenu d'assurer la défense
+de ses intérêts. De surcroît, celui-ci possède à l’évidence les capacités
+intellectuelles pour faire face à la procédure en cours. Il suffit, pour s’en convaincre,
+de considérer le contenu, certes bref mais circonstancié et surtout documenté, de son
+opposition (cf. P. 4/6), laquelle était accompagnée de plusieurs schémas du déroulement
+des faits et de photographies corroborant les explications fournies (cf. P. 4/6 annexes). On prendra
+aussi en compte les déclarations constantes et précises du recourant devant l’autorité
+préfectorale (cf. P. 4/9 et 4/22), lesquelles indiquent non seulement qu’il comprend les reproches
+qui lui sont adressés, mais encore qu’il peut y répondre avec constance et de manière
+argumentée. Ainsi, avant que n’intervienne son défenseur, le recourant a démontré
+qu’il était apte à se défendre efficacement sans assistance.
+Dans ces circonstances, il peut être renoncé, par appréciation anticipée, à
+l’audition du Dr F.________, celle-ci n’apparaissant pas de nature à modifier le résultat
+des preuves administrées.
+2.3
+Sur le vu de ce qui précède, il y a lieu de constater que l’assistance d’un avocat
+n’est pas nécessaire à la sauvegarde des intérêts de V.________. C’est
+donc à bon droit que le Tribunal de police a rejeté la requête du recourant tendant à
+la désignation d’un défenseur d’office.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d’écritures (art. 390 al. 2 CPP) et le prononcé du 10 novembre 2017 confirmé.
+La requête tendant à la désignation d’un défenseur d’office pour la procédure
+devant la Cour de céans doit également être rejetée, le recours apparaissant d’emblée
+dénué de chances de succès (cf. CREP 20 novembre 2014/833; CREP 2 mai 2014/316 consid.
+4b).
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d’arrêt,
+par 810 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge du recourant, qui
+succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 10 novembre 2017 est confirmé.
+III.
+La requête tendant à la désignation
+d’un défenseur d’office pour la procédure de recours est rejetée.
+IV.
+Les frais de la procédure de recours, par
+810 fr. (huit cent dix francs), sont mis à la charge de V.________.
+V.
+Le présent arrêt est exécutoire.
+Le
+juge unique:               Le greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. Agrippino Renda, avocat (pour V.________),
+-
+Ministère public central;
+et communiqué à :
+-
+M. le Président du Tribunal de police de l’arrondissement de la Broye et du Nord vaudois,
+-
+Préfecture du Jura-Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
