@@ -1,0 +1,445 @@
+---
+decision_id: "vd_findinfo_S_questre___2017___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2017 / 11"
+decided: "2017-12-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/2017121308272620_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/220/art-412.md", "switzerland/bund/acts/220/art-413.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2017 / 11
+
+## Regeste
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE SÉQUESTRE, COURTAGE, CRÉANCE, PREUVE FACILITÉE | 412 al. 1 CO, 413 al. 1 CO, 272 al. 1 ch. 1 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des curatelles 18.12.2017 Séquestre / 2017 / 11
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE SÉQUESTRE, COURTAGE, CRÉANCE, PREUVE FACILITÉE | 412 al. 1 CO, 413 al. 1 CO, 272 al. 1 ch. 1 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE17.020956-171665
+300
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 décembre 2017
+______________________
+Composition
+:              Mme
+Rouleau
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+272 al. 1 ch. 1 et 278 al. 3 LP; 412 al. 1 et 413 al. 1 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+V.________
+,
+à [...], contre le prononcé rendu le 26 juillet 2017, à la suite de l’audience du
+12 juillet 2017, par le Juge de paix du district de La Riviera-Pays-d’Enhaut, dans la cause en
+opposition au séquestre ordonné à la requête de la recourante contre
+A.W.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 11 avril 2017, invoquant implicitement le
+cas de séquestre de l'art. 271 al. 1 ch. 4 LP (loi fédérale sur la poursuite pour
+dettes et la faillite ; RS 281.1), V.________ a requis du Juge de paix du district de La Riviera-Pays-d’Enhaut
+le séquestre à son profit, à concurrence de 54'400 fr., plus intérêt à
+5% l’an dès le 28 mars 2017, de la créance d’une valeur de 54'400 fr. que
+A.W.________ détient envers X.________, notaire à [...]. Elle a fait valoir qu’elle avait
+été chargée par A.W.________ et son épouse de la vente d’un appartement en
+PPE à [...], qu’une commission en sa faveur de 4%, TVA comprise, sur le prix de vente était
+convenue, qu’en qualité d’administratrice de la PPE, elle avait pris contact avec Z.________,
+voisin direct de A.W.________ intéressé à l’achat, que la vente avait été
+instrumentée le 29 mars 2017 en l’étude de Me X.________ et que, lors de cette instrumentation,
+d’une part, elle avait appris que le prix de vente était de 1'360'000 fr. et, d’autre
+part, A.W.________ avait refusé de lui régler sa commission et l’avait insultée.
+Au sujet de la créance à séquestrer, elle a exposé que le notaire avait prélevé
+« 5%, sur le montant de la vente, soit 65'000 fr. » pour assurer le paiement de l’impôt
+sur les gains immobiliers, que cet impôt n’était finalement pas dû et que le notaire
+était tenu de restituer la somme bloquée aux vendeurs à brève échéance.
+A l’appui de sa requête, elle a produit notamment les pièces suivantes :
+-
+deux extraits du Registre foncier du Pays-d’Enhaut, l’un concernant l’immeuble n° [...]
+de [...], « PPE [...]», l’autre concernant l’appartement avec balcon et cave
+constituant le lot [...] (RF n° [...]) de la PPE, propriété commune depuis 2009 de A.W.________
+et B.W.________, en société simple, qui l’ont vendu le 30 mars 2017 à Z.________ et
+U.________ ;
+-
+un échange de courriels des 18, 19 et 21 février 2016 entre C.________, épouse de A.W.________,
+et V.________ rédigés en néerlandais, et leur traduction libre. La teneur de ces courriels
+est en substance la suivante :
+(courriel
+du 18 février 2016 d’C.________)
+« Chère
+V.________,
+Je
+t’écris au nom de A.W.________ concernant une offre éventuelle pour son appartement à
+[...].
+(…)
+A.W.________
+veut vendre l’appartement et est donc intéressé par tout client sérieux. Il confirme
+ici que le prix de vente est de CHF 1.450.000.-. (…)
+Il
+est très important que l’identité du client soit connue, parce que s’il a déjà
+eu des contacts avec le courtier, alors A.W.________ est lié contractuellement au courtier.
+A.W.________
+est évidemment content du client que tu pourrais lui présenter et est d’accord avec une
+commission de 4% TVA inclue pour toi. (…) »
+(courriel
+du 19 février 2016 – réponse de V.________)
+« (…)
+J’ai
+simplement demandé au courtier à titre de renseignement quel était le prix de vente officiel
+pour cet appartement au cas où j’aurais un acheteur.
+Je
+n’arrive pas à joindre la personne avec qui je traite cette affaire, mais je sais qu’ils
+ne sont jamais allés au bureau du courtier et qu’ils offrent CHF 1.300.000.- sans les meubles.
+(…) »
+(courriel
+du 21 février 2016 d’C.________)
+« (…)
+Suite
+à l’offre informelle de 1,3 M € (sic) pour l’appartement [...] K5, A.W.________
+fait une contre-offre de 1.325.000 €, à condition que l’identité de l’acheteur
+soit acceptée.
+(…) ».
+b)
+Le 12 avril 2017, le juge de paix, retenant le cas de séquestre de l’art. 271 al. 1 ch. 4
+LP, a ordonné le séquestre requis, en mentionnant comme titre de la créance ou cause de
+l’obligation une « commission de courtage de 4% due par A.W.________ à V.________ ensuite
+de la vente du feuillet n° [...] de la commune de [...] à Z.________, vente instrumentée
+le 29 mars 2017 en l’étude de Me X.________, notaire à [...] ». La créancière
+séquestrante a été dispensée de fournir des sûretés.
+c)
+Par acte du 11 mai 2017, A.W.________ a formé opposition au séquestre, en concluant notamment,
+avec suite de frais et dépens, à la révocation de l’ordonnance de séquestre
+du 12 avril 2017 et à la condamnation de V.________ à fournir des sûretés à
+hauteur de 7'200 francs. Il a produit notamment les pièces suivantes :
+-
+un contrat de courtage exclusif conclu le 2 janvier 2015 entre A.W.________ et B.W.________, d’une
+part, et [...] SA, d’autre part, afin de trouver un acquéreur pour l’appartement lot
+n° [...], RF [...], à [...] ;
+-
+sa propre traduction libre des courriels des 18, 19 et 21 février 2016 ;
+-
+ses échanges de courriels avec Z.________ en janvier et mars 2017 et leur traduction libre ;
+-
+un courriel du notaire X.________ à C.________ du 1
+er
+mai 2017, l’informant du séquestre opéré et du blocage d’une partie de l’argent
+de la vente de l’appartement.
+A l’audience du juge de paix du 12 juillet 2017, V.________ a produit un courriel que Z.________
+et U.________ lui avaient adressé le 1
+er
+avril 2017, et sa traduction par un traducteur-juré, dont la teneur est la suivante (extrait) :
+«
+(…)
+Lorsqu’en 2016, comme ce fut le cas déjà des années auparavant, nous avions demandé
+quelques informations sur la situation de K5 et quel était maintenant le prix demandé chez
+le courtier, nous t’avons donné pour instruction d’examiner sur le plan technique si
+les appartements pouvaient être joints ensemble. En octobre 2016, nous t’avons dit lors d’une
+rencontre que nous allions probablement acheter quelque chose à Ibiza et que l’achat de K5
+ne nous intéressait pas. Là-dessus, tu as envoyé ta facture pour tes activités et
+fait envoyer pour l’ingénieur une facture, lesquelles nous avons directement payées toutes
+les deux.
+A.W.________
+nous a contacté (sic) en Belgique en janvier 2007 [recte : 2017 ; cf. PV d’audience]
+et nous a fait une proposition pour nous vendre son appartement à laquelle nous avons alors donné
+suite après que nous ayons (sic) abandonné un projet à Ibiza et tout de même décidé
+d’agrandir notre résidence d’habitation en Suisse. J’ai fait cela sous une condition,
+[...] devait tout d’abord étudier notre situation fiscale. Lorsque ceci fut en ordre début
+mars, nous avons donné instruction à A.W.________ de régler la vente en indiquant que
+des obligations devaient être exécutées par lui à l’égard des courtiers
+et/ou de toi-même.
+(…)
+»
+2.
+Par prononcé du 26 juillet 2017, le Juge
+de paix du district de La Riviera-Pays-d’Enhaut a admis l’opposition au séquestre (I),
+a révoqué l’ordonnance de séquestre du 12 avril 2017 (II), a arrêté à
+480 fr. les frais judiciaires, compensés avec l’avance de frais de l’opposant (III),
+les a mis à la charge de l’intimée (IV) et a dit qu’en conséquence, celle-ci
+rembourserait à l’opposant son avance de frais à concurrence de 480 fr. et lui verserait
+la somme de 3'200 fr. à titre de dépens, en défraiement de son représentant professionnel
+(V).
+L’intimée a demandé la motivation en temps utile, par lettre du 27 juillet 2017. Les
+motifs du prononcé ont été adressés aux parties le 14 septembre 2017 et notifiés
+à l’intimée le lendemain. En bref, le premier juge a considéré que l’intervention
+très restreinte de l’intimée, en février 2016, n’était pas dans un rapport
+de causalité avec la conclusion du contrat de vente du 29 mars 2017, que l’intimée ne
+pouvait ainsi pas prétendre au versement d’une commission sur cette vente et que la créance
+invoquée à l’appui de la requête de séquestre n’était par conséquent
+pas rendue vraisemblable.
+3.
+Par acte du 22 septembre 2017, V.________ a recouru contre ce prononcé en concluant, avec dépens,
+à ce que le prononcé du 26 juillet 2017 soit réformé en ce sens que l’opposition
+au séquestre est rejetée et l’ordonnance de séquestre du 12 avril 2017 maintenue.
+Dans sa réponse du 30 octobre 2017, l'intimé A.W.________ a conclu, avec suite de frais et
+dépens, au rejet du recours.
+En droit
+:
+I.
+Selon l’art. 278 al. 3 LP, la décision
+sur opposition au séquestre peut faire l’objet d’un recours au sens des art. 319 ss
+CPC (Code de procédure civile ; RS 272).
+En l’espèce, le recours a été déposé dans les formes requises et le délai
+prescrit par l'art. 321 al. 1 et 2 CPC, de sorte qu’il est recevable. La réponse de l’intimé
+l’est également (art. 322 CPC).
+II.
+a)
+Est litigieuse la question de la vraisemblance
+de la créance de la recourante.
+Le premier juge a retenu que, par courriel du 18 février 2016, l’épouse de A.W.________,
+qui le représentait valablement, avait indiqué que son époux était d’accord
+de verser à V.________ une commission de 4%, TVA comprise, si la vente de l’immeuble se faisait
+avec l’acheteur présenté par celle-ci ; il a cependant considéré que V.________
+ne rendait pas vraisemblable son intervention dans le cadre de la vente postérieurement aux courriels
+échangés au mois de février 2016 et que son intervention très restreinte, en
+février 2016, n’apparaissait pas être dans un rapport de causalité avec la conclusion
+du contrat de vente finalement instrumenté le 29 mars 2017.
+La recourante soutient que son intervention a été déterminante dans la conclusion du contrat
+de vente de la parcelle en cause.
+L’intimé estime douteux qu’un contrat de courtage d’indication ait été
+valablement conclu. Il soutient par ailleurs que si l’existence d’un tel contrat devait être
+admise, il faudrait alors constater que la recourante n’a pas rendu vraisemblable son exécution.
+b) aa)
+Selon l'art. 272 al. 1 ch. 1 LP, le séquestre est autorisé lorsque le requérant rend vraisemblable
+que sa créance existe. A cet égard, le critère de la vraisemblance s'applique non seulement
+à l'existence de la créance en fait, mais aussi à son existence juridique (ATF 138 III
+232 consid. 4.1.1). Ainsi, les faits à l'origine du séquestre doivent être rendus simplement
+vraisemblables. Tel est le cas lorsque, se fondant sur des éléments objectifs, le juge acquiert
+l'impression que les faits pertinents se sont produits, mais sans qu'il doive exclure pour autant la
+possibilité qu'ils se soient déroulés autrement (ATF 138 III 232
+loc.
+cit.
+; en général : cf. ATF 130
+III 321 consid. 3.3). A cet effet, le créancier séquestrant doit alléguer les faits et
+produire un titre (art. 254 al. 1 CPC) qui permette au juge du séquestre d'acquérir, au degré
+de la simple vraisemblance, la conviction que la prétention existe pour le montant énoncé
+et qu'elle est exigible (ATF 138 III 636 consid. 4.3.2 ; TF 5A_877/2011 du 5 mars 2012 consid. 2.1).
+S'agissant de l'application du droit, le juge procède à un examen sommaire du bien-fondé
+juridique, c'est-à-dire un examen qui n'est ni définitif, ni complet, au terme duquel il rend
+une décision provisoire (ATF 138 III 232 consid. 4.1.1 ; TF 5A_925/2012 du 5 avril 2013 consid.
+9.2 et les références, SJ 2013 I p. 463 ; TF 5A_560/2015 du 13 octobre 2015 consid.
+3, SJ 2016 I 117 ; TF 5A_2015/2016 du 7 juin 2016 consid. 7.1).
+De son côté, le poursuivi doit s'efforcer
+de démontrer, en s'appuyant sur les moyens de preuve à sa disposition, que son point de vue
+est plus vraisemblable que celui du créancier séquestrant (TF 5A_205/2016
+loc.
+cit.
+; TF 5A_482/2010 du 16 septembre 2010
+consid. 2.1).
+bb)
+Le courtage est un contrat par lequel le courtier est chargé, moyennant un salaire, soit d'indiquer
+à l'autre partie l'occasion de conclure une convention (courtage d'indication), soit de lui servir
+d'intermédiaire pour la négociation d'un contrat (courtage de négociation) (art. 412 al.
+1 CO [Code des obligations ; RS 220]). Selon l'art. 413 al. 1 CO, le courtier a droit à son
+salaire dès que l'indication qu'il a donnée ou la négociation qu'il a conduite aboutit
+à la conclusion du contrat. La passation du contrat de courtage n'est soumise à aucune exigence
+de forme ; partant, elle peut résulter d'actes concluants (ATF 131 III 268 consid. 5.1.2 ;
+TF 4A_309/2016 du 31 août 2016 consid. 2.2).
+La question de savoir si le contrat de courtage a été valablement conclu par actes concluants
+dépend des circonstances du cas d’espèce. Le juge doit d’abord s’efforcer
+de dégager la commune et réelle intention des parties. Si cette volonté ne peut pas être
+établie ou s’il constate que les volontés réelles de chaque partie divergent, le
+juge recherchera quel sens les parties pouvaient et devaient donner, selon les règles de la bonne
+foi, à leurs manifestations et à leurs comportements (ATF 131 III 268 consid. 5.1.3 ;
+Tercier/Bieri/Carron, Les contrats spéciaux, 5
+e
+éd.,
+n° 4952)
+Le courtage doit présenter les deux éléments essentiels suivants ; il doit être
+conclu à titre onéreux et les services procurés par le courtier, qu'il soit indicateur
+ou négociateur, doivent tendre à la conclusion d'un contrat, quelle qu'en soit la nature (ATF
+131 III 268 consid. 5.1.2 ; 124 III 481 consid. 3a et les références doctrinales). Le
+courtier est en principe appelé à développer une activité factuelle, consistant à
+trouver un amateur qui se portera contractant du mandant et/ou à négocier l'affaire pour le
+compte de celui-ci (ATF 131 III 268 précité
+loc.
+cit.
+). C'est par interprétation de la volonté
+des parties qu'il convient de déterminer quel type de contrat de courtage (courtage d'indication
+et/ou de négociation) a été conclu (TF 4A_75/2016 du 13 septembre 2016 consid. 3.1).
+Pour prétendre à un salaire, le courtier doit prouver, d'une part, qu'il a agi et, d'autre
+part, que son intervention a été couronnée de succès (ATF 131 III 268 consid. 5.1.2
+; 124 III 481 consid. 3a et les arrêts cités). Il faut donc que le contrat que le mandant cherchait
+à obtenir ait été conclu et qu'il existe un lien de causalité entre l'activité
+du courtier et la conclusion du contrat. Il n'est pas nécessaire que la conclusion du contrat principal
+soit la conséquence immédiate de l'activité fournie. Il suffit que celle-ci ait été
+une cause même éloignée de la décision du tiers satisfaisant à l'objectif du
+mandant ; en d'autres termes, la jurisprudence se contente d'un lien psychologique entre les efforts
+du courtier et la décision du tiers, lien qui peut subsister malgré une rupture des pourparlers
+(ATF 84 II 542 consid. 5 ; 76 II 378 consid. 2 ; 72 II 84 consid. 2 ; TF 4A_479/2016 du 21 avril 2017
+consid. 4.1 ; TF 4A_75/2016 du 13 septembre 2016 consid. 4.1 ; TF 4A_337/2011 du 15 novembre
+2011 consid. 2.1). Il importe peu qu'un autre courtier ait également été mis en œuvre.
+En pareil cas, la condition suspensive de l'art. 413 al. 1 CO n'est défaillante que si l'activité
+du courtier n'a abouti à aucun résultat, que les pourparlers consécutifs à cette
+activité ont été définitivement rompus et que l'affaire est finalement conclue, avec
+le tiers que le courtier avait présenté, sur des bases toutes nouvelles (ATF 72 II 84
+loc.
+cit.
+; 62 II 342 consid. 2 ; TF 4A_479/2016
+loc.
+cit.
+; TF 4A_75/2016
+loc.
+cit.
+).
+L'exigence d'un lien psychologique entre les efforts du courtier et la décision du tiers n'a véritablement
+de sens que dans le courtage de négociation, puisque, dans le courtage d'indication, le courtier
+se limite à communiquer au mandant le nom de personnes intéressées à conclure et
+n'exerce pas d'influence sur la volonté de celles-ci (cf. TF 4C.136/2004 du 13 juillet 2004 consid.
+3.3.2, non publié
+in
+ATF
+130 III 633 ; TF 4A_479/2016 consid. 4.1 ; TF 4A_337/2011 consid. 2.1 ; Marquis, Le contrat
+de courtage immobilier et le salaire du courtier, Thèse Lausanne 1993, p. 438). Ainsi, en matière
+de courtage d'indication, la conclusion du contrat principal est dans un rapport de causalité avec
+l'activité de courtage si le courtier prouve qu'il a été le premier à désigner,
+comme s'intéressant à l'affaire, la personne qui a acheté par la suite et que c'est précisément
+sur la base de cette indication que les parties sont entrées en relation et ont conclu le marché
+(ATF 75 II 53 consid. 1a ; 72 II 84 consid. 2 ; TF 4A_479/2016
+loc.
+cit.
+; TF 4A_75/2016 consid. 2.2.1 ;
+TF 4A_337/2011
+loc. cit.
+;
+TF 4C.136/2004
+loc. cit.
+;
+Rayroux,
+in
+Thévenoz/Werro
+(éd.),
+Commentaire
+romand, Code des obligations I, 2
+e
+éd. 2012, n. 22
+ad
+art. 413 CO).
+c)
+En l’espèce, il ressort du dossier que l’intimé et son fils B.W.________ étaient
+propriétaires d’un appartement sis à [...] et que, désireux de le vendre, ils avaient
+confié un mandat de courtage exclusif à une agence immobilière le 2 janvier 2015.
+Il résulte par ailleurs des pièces produites que
+la recourante et C.________, l’épouse
+de l’intimé - dont il n’est pas contesté qu’elle le représentait valablement
+-, ont échangé divers courriels en lien avec la vente de cet appartement dans le courant du
+mois de février 2016. C’est ainsi que le 18 février 2016, après avoir appris que
+la recourante avait sollicité des informations auprès de l’agence immobilière mandatée
+pour la vente, l’épouse de l’intimé lui a confirmé que ce dernier souhaitait
+effectivement vendre son appartement, qu’il était intéressé par tout client sérieux
+et que le prix demandé était de 1’450'000 francs. Elle a également indiqué
+que son mari était « content du client » que la recourante pourrait lui présenter
+et d’accord de lui verser une commission de 4%, TVA comprise. Elle lui a en d’autres termes
+proposé de conclure un contrat de courtage d’indication. Dans sa réponse du 19 février
+2016, la recourante ne s’est certes pas expressément prononcée sur cette proposition ;
+elle a toutefois manifesté son accord en confirmant qu’elle était en contact avec une
+personne intéressée, laquelle offrait la somme de 1’300’000 fr. pour l’acquisition
+de l’appartement, sans les meubles. Il s’ensuit que les parties ont alors vraisemblablement
+conclu, à tout le moins par actes concluants, un contrat de courtage d’indication.
+Cela étant, il est admis par les deux parties que l’intimé et son fils ont finalement
+vendu leur appartement à Z.________ et U.________ le 29 mars 2017 pour le prix de 1’360'000
+francs.
+Il s’agit dès lors d’examiner si c’est bien la recourante qui a, comme elle le
+prétend, communiqué le nom de Z.________ à l’intimé. A cet égard, on comprend
+tout d’abord, à la lecture du courriel que Z.________ et U.________ ont adressé à
+la recourante le 1
+er
+avril 2017, qu’ils l’avaient mandatée en 2016 pour qu’elle se renseigne au sujet
+du prix demandé pour l’appartement ainsi que sur les possibilités techniques de joindre
+cet appartement à celui dont ils étaient eux-mêmes propriétaires au sein du même
+immeuble. On peut donc considérer que les acheteurs potentiels évoqués par la recourante
+dans son mail du 19 février 2016 étaient vraisemblablement Z.________ et U.________. La recourante
+n’a toutefois pas révélé leur identité à l’intimé lors des
+échanges de courriels de février 2016. Le dossier ne comporte par ailleurs aucun document qui
+permettrait de se convaincre que la recourante l’aurait fait par la suite. Certes, dans leur courriel
+précité du 1
+er
+avril
+2017, Z.________ et U.________ indiquent que c’est l’intimé qui les a contactés
+directement au début de l’année 2017 pour leur faire une proposition de vente. On ne
+peut toutefois pas en conclure que cette prise de contact faisait nécessairement suite à des
+informations qui auraient été fournies à l’intimé par la recourante après
+le mois de février 2016. On le peut d’autant moins que l’intimé   connaissait
+manifestement Z.________ et U.________ puisqu’ils étaient ses voisins de palier dans l’immeuble
+de [...]. Le courriel précité indique d’ailleurs que Z.________ et U.________ s’étaient
+déjà intéressés « des années auparavant » à l’achat
+de l’appartement de l’intimé. Rien ne permet donc de considérer que la recourante,
+à un moment ou un autre, a révélé à l’intimé l’identité
+de Z.________ et U.________ et leur intérêt pour l’achat de son appartement, ni, au surplus,
+que c’est sur la base de cette indication que les parties sont entrées en relation et ont
+conclu la vente. Il s’ensuit que la recourante échoue à rendre vraisemblable l’exécution
+du contrat de courtage et, partant, son droit à une commission de 4%.
+III.
+En conclusion, le recours doit être rejeté
+et le prononcé attaqué confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 630 fr., doivent être
+mis à la charge de la recourante (art. 106 al. 1 CPC). Celle-ci doit en outre verser à l'intimé
+la somme de 1'500 fr. à titre de dépens de deuxième instance (art. 8 TDC [tarif des dépens
+en matière civile ; RSV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 630 fr. (six cent trente francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante V.________ doit verser à l’intimé A.W.________ la somme de 1'500 fr. (mille
+cinq cents francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Marc-Aurèle Vollenweider, avocat (pour V.________),
+‑
+Me Christophe Rapin, avocat (pour A.W.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 54’400 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Juge de paix du district de La Riviera-Pays-d’Enhaut.
+La greffière :
