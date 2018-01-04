@@ -1,0 +1,130 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___66"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 66"
+decided: "2018-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6452087"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-383.md"]
+---
+
+# VD Findinfo Décision / 2018 / 66
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, SÛRETÉS | 383 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.01.2018 Décision / 2018 / 66
+
+DÉCISION D'IRRECEVABILITÉ, SÛRETÉS | 383 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+4
+PE17.018868-JON
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 janvier 2018
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+MM.
+Meylan et Abrecht, juges
+Greffier
+:              M.
+Petit
+*****
+Art.
+383 CPP
+Statuant sur le recours interjeté le 11 décembre 2017 par
+T.________
+contre l'ordonnance de non-entrée en matière rendue le 22 novembre 2017 par Ministère
+public de l'arrondissement de Lausanne dans la cause
+n° PE17.018868-JON
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par ordonnance du 22 novembre 2017, le Ministère public de l'arrondissement de Lausanne (ci-après :
+le Ministère public) a décidé de ne pas entrer en matière sur la plainte déposée
+le 15 septembre 2017 par T.________ contre F.________ pour violation du secret professionnel (I) et a
+laissé les frais de procédure à la charge de l'Etat (II).
+2.
+Par acte du 11 décembre 2017, T.________
+a recouru contre cette ordonnance auprès du Ministère public, en concluant implicitement à
+son annulation et à la reprise de l'instruction ouverte ensuite de sa plainte. Cet acte a été
+transmis à la Chambre de recours pénale du Tribunal cantonal comme objet de sa compétence.
+3.
+La direction de la procédure de l’autorité
+de recours peut astreindre la partie plaignante à fournir des sûretés dans un délai
+déterminé pour couvrir les frais et indemnités éventuels (art. 383 al. 1 CPP [Code
+de procédure pénale suisse du 5 octobre 2007; RS 312.0]). Si les sûretés ne sont
+pas fournies dans le délai imparti, l’autorité de recours n’entre pas en matière
+sur le recours (art. 383 al. 2 CPP; TF 6B_547/2015 du 17 août 2015 consid. 2.3; CREP 10 août
+2017/473; CREP 22 décembre 2016/801).
+Les sûretés sont réputées
+fournies dans le délai lorsqu’elles sont remises à l’autorité de recours,
+versées en sa faveur à la poste suisse, ou encore débitées d’un compte bancaire
+ou postal suisse le dernier jour du délai au plus tard (art. 91 al. 1 et 5 CPP; CREP 10 août
+2017/473; CREP 22 décembre 2016/801; Moreillon/Parein-Reymond, Petit Commentaire CPP, 2
+e
+éd., Bâle 2016, n. 9 ad art. 383 CPP; Richard Calame, in: Kuhn/Jeanneret [éd.], Code de
+procédure pénale suisse, Commentaire romand, Bâle 2011, n. 6 ad art. 383 CPP).
+4.
+Par pli recommandé du 19 décembre 2017,
+la Chambre des recours pénale a imparti à T.________ un délai au 8 janvier 2018 pour effectuer
+un dépôt de 550 fr. à titre de sûretés, avec l’indication qu’à
+défaut de paiement en temps utile, il ne serait pas entré en matière sur son recours.
+5.
+Le 3 janvier 2018, ce pli recommandé est
+revenu au Greffe du Tribunal cantonal avec la mention « non réclamé ».
+Il est toutefois réputé avoir été notifié à l'issue du délai de garde
+de sept jours à compter de sa remise infructueuse, la recourante devant en effet s'attendre à
+recevoir, à l'adresse indiquée dans son recours, des communications de l'autorité en rapport
+avec l'affaire en cours (cf. art. 85 al. 4 let. a CPP).
+6.
+La recourante n'a pas procédé à l'avance de frais requise dans le délai imparti.
+Elle n’a pas non plus demandé de prolongation ou de restitution du délai. Le recours
+est dès lors irrecevable (art. 383 al. 2 CPP; CREP 18 juin 2015/394).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais de la procédure de recours, par 330 fr. (trois cent trente francs), sont laissés
+à la charge de l’Etat.
+III.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme T.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l'arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
