@@ -1,0 +1,339 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 8"
+decided: "2018-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6418851"
+cites_law: ["switzerland/bund/acts/142.20/art-075.md", "switzerland/bund/acts/142.20/art-076.md", "switzerland/bund/acts/142.20/art-079.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-010.md"]
+---
+
+# VD Findinfo Décision / 2018 / 8
+
+## Regeste
+
+DÉTENTION AUX FINS D'EXPULSION, DÉCISION DE RENVOI, REJET DE LA DEMANDE, ADÉQUATION, LÉGALITÉ | 75 al. 1 let. g LEtr, 75 al. 1 let. h LEtr, 76 al. 1 LEtr, 80 al. 2 LEtr, 30 al. 1 LVLEtr, 31 LVLEtr
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.01.2018 Décision / 2018 / 8
+
+DÉTENTION AUX FINS D'EXPULSION, DÉCISION DE RENVOI, REJET DE LA DEMANDE, ADÉQUATION, LÉGALITÉ | 75 al. 1 let. g LEtr, 75 al. 1 let. h LEtr, 76 al. 1 LEtr, 80 al. 2 LEtr, 30 al. 1 LVLEtr, 31 LVLEtr
+
+TRIBUNAL
+CANTONAL
+9
+DA17.024728-DBT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 janvier 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Villars
+*****
+Art.
+75 al. 1 let. g et h, 76 al. 1, 80 al. 2 LEtr ; 30 al. 1 et 31 LVLEtr
+Statuant sur le recours interjeté le 22 décembre 2017 par
+K.________
+contre l’ordonnance rendue le 17 décembre 2017 par le Tribunal des mesures de contrainte dans
+la cause
+n° DA17.024728-DBT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+K.________, né en 1989, ressortissant
+de la République Démocratique du Congo, est arrivé en Suisse en 1999 pour y rejoindre
+sa mère et a été mis au bénéfice d’une autorisation de séjour au
+titre du regroupement familial. Il est le père de deux enfants âgés de 7 ans et 2 ans.
+Durant son séjour en Suisse, K.________
+a été condamné à six reprises entre le 10 août 2007 et le 31 octobre 2016, pour
+extorsion et chantage, contrainte sexuelle, viol, lésions corporelles simples, rixe, vol, dommage
+à la propriété, violation de domicile, contravention à la loi fédérale
+sur les stupéfiants, et contravention à la loi fédérale sur le transport public.
+L’extrait du casier judiciaire indique par ailleurs que le 12 octobre 2016, le Ministère public
+de l’arrondissement de La Côte a ouvert une enquête pénale contre K.________ pour
+viol.
+b)
+Le 7 novembre 2008, le Service de la population (ci-après : SPOP) a signalé à K.________
+que son comportement pourrait donner lieu à la révocation de son autorisation de séjour.
+Le 9 juillet 2010, le SPOP a refusé la transformation de l’autorisation de séjour de
+K.________ en autorisation d’établissement en raison de son parcours délictueux.
+c)
+Par décision du 27 décembre 2013, confirmée par arrêt du 11 mars 2015 de la Cour
+de droit administratif et public du Tribunal cantonal, le SPOP a refusé de prolonger l’autorisation
+de séjour de K.________ et a prononcé son renvoi de Suisse, lui impartissant un délai
+de trois mois pour quitter la Suisse.
+Par décision du 6 février 2017, confirmée le 24 février 2017 par la Cour de droit
+administratif et public du Tribunal cantonal et le 6 mars 2017 par le Tribunal fédéral, le
+SPOP a rejeté la demande de reconsidération de K.________, alors en détention pénale,
+et lui a imparti un délai immédiat pour quitter la Suisse.
+Par décision du 22 juin 2017, confirmée par arrêt du 24 juillet 2017 de la Cour de droit
+administratif et public du Tribunal cantonal et par arrêt du 15 août 2017 du Tribunal fédéral,
+le SPOP a rejeté la seconde demande de reconsidération déposée par K.________ et
+lui a imparti une nouvelle fois un délai immédiat, dès sa libération, pour quitter
+la Suisse.
+d)
+Le SPOP a signalé à K.________ à plusieurs reprises, la dernière fois le 12 octobre
+2017, que s’il ne quittait pas la Suisse, il pourrait être placé en détention administrative
+dans le cadre de mesures de contrainte.
+Le SPOP a organisé un vol à destination de [...] pour K.________ pour le 15 décembre 2017,
+date de la fin de sa détention à la Prison de la Croisée, mais celui-ci a refusé
+de prendre l’avion.
+B.
+a)
+Par ordre de détention administrative
+du 15 décembre 2017, le SPOP a ordonné la mise en détention de K.________ pour une durée
+de six mois, sur la base des art. 75 al. 1 let. g et h et 76 al. 1 let. b ch. 1 LEtr (loi fédérale
+sur les étrangers du 16 décembre 2005 ; RS 142.20), au motif qu'il existait de nombreux
+indices concrets qui faisaient craindre que l'intéressé, par son comportement notamment, tente
+de se soustraire à son refoulement, et qu'il avait été condamné pour un crime.
+b)
+Saisi le même jour par le SPOP, le Tribunal
+des mesures de contrainte a procédé à l’audition de K.________ le 16 décembre
+2017. L’intéressé a expliqué qu’il avait refusé d’être conduit
+à l’aéroport de Genève en vue de son renvoi dans son pays d’origine, qu’il
+n’avait jamais été informé qu’il serait renvoyé en République Démocratique
+du Congo et qu’il était au bénéfice d’un titre de séjour français.
+c)
+Par ordonnance du 17 décembre 2017, le
+Tribunal des mesures de contrainte a confirmé que l’ordre de détention notifié le
+15 décembre 2017 par le SPOP à K.________, actuellement détenu à l’Etablissement
+de Fram­bois, était conforme aux principes de la légalité et de l’adéquation
+(I) et a dit que les frais de la cause étaient laissés à la charge de l’Etat (II).
+Par décision du 18 décembre 2017, le Président du Tribunal des mesures de contrainte a
+désigné Me Céline Desscan en qualité de conseil d’office de K.________ dans
+le cadre des mesures de contrainte exercées contre lui.
+C.
+Par acte du 22 décembre 2017, K.________, par son con­seil d’office, a recouru auprès
+de la Chambre des recours pénale contre l’ordon­nance du 17 décembre 2017 confirmant
+sa détention administrative, en concluant, avec suite de frais et de dépens, à son annulation.
+Dans ses déterminations du 28 décembre 2017, le SPOP a conclu au rejet du recours. Il a indiqué
+en substance que l’intéressé avait démontré, tant par ses actes que par ses
+déclarations, qu’il n’avait aucune intention de collaborer à son départ, qu’il
+était resté en Suisse malgré plusieurs décisions de renvoi prononcées à
+son encontre, qu’il avait refusé d’embarquer sur le vol régulier qui lui avait
+été réservé le 15 décembre 2017, qu’il avait ouvertement déclaré
+au Tribunal des mesures de contrainte qu’il était opposé à son retour dans son pays
+d’origine, qu’il existait ainsi un risque réel et concret de soustraction à l’exécution
+de son renvoi et qu’un vol spécial à destination de [...] avait été requis.
+En droit
+:
+1.
+1.1
+Le Tribunal des mesures de contrainte statue sur
+la légalité et l’adéquation de la détention administrative, conformément
+à l’art. 80 al. 2 LEtr (loi fédérale sur les étrangers du 16 décembre
+2005 ; RS 142.20 ; art. 16a al. 1 LVLEtr [loi du 18 décembre 2007 d'application dans le
+canton de Vaud de la législation fédérale sur les étrangers ; RSV 142.11]).
+Les décisions prononcées par le Tribunal des mesures de contrainte peuvent faire l’objet
+d’un recours auprès du Tribunal cantonal (30 al. 1 LVLEtr), soit la Chambre des recours pénale
+(art. 26 al. 1 ROTC [règlement organique du Tribunal cantonal du 13 novembre 2007 ; RSV 173.31.1]),
+dans les 10 jours dès la notification de la décision attaquée. L’acte de recours
+est signé et sommairement motivé (art. 30 al. 2 LVLEtr) et la procédure est régie
+par l'art. 31 LVLEtr, qui renvoie pour le surplus aux dispositions de la LPA-VD (loi cantonale vaudoise
+sur la procédure administrative du 28 octobre 2008; RSV 173.36).
+Déposé en temps utile par le recourant, qui y a un intérêt, le recours est recevable
+(art. 30 al. 2 LVLEtr).
+1.2
+La Chambre des recours pénale revoit librement la décision de première instance ;
+elle établit les faits d'office et peut ordonner à cet effet toutes les mesures d'instruction
+qu'elle juge utiles (art. 31 al. 1 et 2 LVLEtr). Elle peut en particulier tenir compte de faits postérieurs
+à la décision attaquée (cf. CREC 29 juin 2017/232 consid. 1.3 ; CREC 25 septembre
+2015/346). Le Tribunal statue à bref délai (art. 31 al. 4 LVLEtr).
+2.
+2.1
+Le recourant invoque la violation de l’art.
+76 al. 1
+let. b ch. 1, 3 et 4 LEtr.
+Il fait valoir que sa dernière condamnation concernerait des faits survenus il y a plus de six ans,
+qu’il n’aurait plus commis d’infraction depuis lors, que les conditions posées
+par l’art. 75 al. 1 let. g et h LEtr ne seraient pas réalisées, qu’il n’aurait
+pas refusé de quitter la Suisse, mais qu’il souhaiterait le faire par ses propres moyens et
+qu’il voudrait se rendre en France où il disposerait d’un titre de séjour.
+2.2.
+2.2.1
+Selon l’art. 76 al. 1 let. b LEtr, après notification d'une décision de première
+instance de renvoi ou d'expulsion au sens de la LEtr, l'autorité compétente peut, afin d'en
+assurer l'exécution, mettre en détention la personne concernée notamment (ch. 1) pour
+les motifs cités à l'art. 75 al. 1 let. a, b, c, f, g ou h LEtr – à savoir notamment
+lorsqu'elle menace sérieusement
+d'autres personnes ou met gravement en danger leur vie ou leur intégrité corporelle et fait
+l'objet d'une poursuite pénale ou a été condamnée pour ce motif (art. 75 al. 1 let.
+g LEtr) ou
+lorsque la personne a été
+condamnée pour crime (art. 75 al. 1 let. h LEtr) – ou (ch. 3) si des éléments concrets
+font craindre que la personne concernée entende se soustraire au renvoi ou à l'expulsion, en
+particulier parce qu'elle ne se soumet pas à son obligation de collaborer en vertu de l'art. 90
+LEtr ou de l'art. 8 al. 1 let. a, ou al. 4 LAsi (Loi sur l’asile du 26 juin 1998 ; RS 142.31),
+ou encore (ch. 4) si son comportement permet de conclure qu'elle se refuse à obtempérer aux
+instructions des autorités. Ces deux chiffres (ch. 3 et ch. 4) décrivent des comportements
+permettant de conclure à l'existence d'un risque de fuite ou de disparition (Untertauchensgefahr)
+et peuvent donc être envisagés ensemble (Zünd, Kommentar Migrationsrecht, 4
+e
+éd., Zurich 2015, n. 6 ad art. 76 LEtr).
+Selon la jurisprudence, ces motifs sont réalisés lorsque l'étranger a déjà disparu
+une première fois dans la clandestinité (ATF 140 II 1 consid. 5.3), lorsqu'il tente d'entraver
+les démarches en vue de l'exécution du renvoi en donnant des indications manifestement inexactes
+ou contradictoires ou encore s'il laisse clairement apparaître, par ses déclarations ou son
+comportement, qu'il n'est pas disposé à retourner dans son pays d'origine (ATF 130 II 56 consid.
+3.1 ; TF 2C_1139/2012 du 21 décembre 2012 consid. 3.2 ; TF 2C_984/2010 du 20 janvier 2011 consid.
+2 ; TF 2C_206/2009 du 29 avril 2009 consid. 4.1). Il faut qu'il existe des éléments concrets
+en ce sens (TF 2C_256/2013 du 10 avril 2013 consid. 4.2 ; TF 2C_142/2013 du 1
+er
+mars 2013 consid. 4.2 ; CREP 14 novembre 2017/775 consid. 2.2).
+L'art. 80 al. 2 1
+re
+phr. LEtr prévoit que la légalité et l'adéquation de la détention doivent être
+examinées dans un délai de 96 heures par une autorité judiciaire au terme d'une procédure
+orale. Cet examen englobe le contrôle du respect des conditions et termes fixés par la loi,
+de l'excès ou de l'abus du pouvoir d'appréciation, de même que celui de la proportionnalité
+et de l'opportunité (Chatton/ Merz, Code annoté de droit des migrations, vol. Il, Berne 2017,
+nn. 17 et 19 ad art. 80 LEtr).
+2.2.2
+L'art. 80 LEtr dispose notamment que, lorsqu'elle examine la décision de détention, de maintien
+ou de levée de celle-ci, l'autorité judiciaire tient compte de la situation familiale de la
+personne détenue et des conditions d'exécution de la détention (al. 4) ; la détention
+est levée – respectivement la prolongation refusée – notamment lorsque l'exécution
+du renvoi ou de l'expulsion s'avère impossible pour des raisons juridiques ou matérielles (al.
+6 let. a).
+La jurisprudence a rappelé que ces raisons doivent être importantes («
+triftige
+Gründe
+») et que l'exécution
+du renvoi doit être qualifiée d'impossible lorsque le rapatriement est pratiquement exclu,
+même si l'identité et la nationalité de l'étranger sont connues et que les papiers
+voulus peuvent être obtenus (TF 2C_386/2010 du 1
+er
+juin 2010 consid. 4 ; TF 2C_473/2010 du 25 juin 2010 consid. 4.1 et les réf. citées).
+Tel est par exemple le cas si le déplacement de la personne concernée n'est pas concevable
+pour des raisons de santé ou qu'un Etat refuse de reprendre certains de ses ressortissants (ATF
+125 Il 217 consid. 2 ;
+(Göksu,
+Bundesgesetz über die Ausländerinnen und Ausländer, Berne 2010, n. 21 ad art. 80 LEtr).
+D'après la jurisprudence, le juge de la détention
+est lié par la décision de renvoi, en particulier lorsqu'elle a été rendue dans le
+cadre d'une procédure d'asile. Au demeurant, il ne peut revoir la légalité d'une décision
+de renvoi que lorsque celle-ci est manifestement contraire au droit ou clairement insoutenable au point
+d'apparaître nulle. S'il existe des faits nouveaux, postérieurs à la décision de
+renvoi, le juge de la détention peut en tenir compte. Il appartient cependant en priorité à
+l'autorité compétente en matière d'asile de décider si le renvoi est exigible, le
+juge de la détention ne pouvant intervenir que si le caractère inexécutable de la décision
+de renvoi est patent (ATF 130 II 56 consid. 2 ; ATF 128 II 193 consid. 2.2.2 ; TF 2C_256/2013 du 10 avril
+2013 consid. 4.5 ; TF 2C_35/2009 du 13 février 2009 consid. 6.2 ; TF 2C_445/2007 du 30 octobre 2007
+consid. 4.2 ; TF 2A_47/2007 du 18 avril 2007 consid. 2.3). La procédure liée à la détention
+administrative ne permet pas, sauf cas exceptionnels, de remettre en cause le caractère licite de
+la décision de renvoi. Ce n'est que si une décision de renvoi apparaît manifestement inadmissible,
+soit arbitraire ou nulle, qu'il est justifié de lever la détention en application de l'art.
+80 al. 6 let. a LEtr, étant donné que l'exécution d'un tel ordre illicite ne doit pas
+être assurée par les mesures de contrainte (TF 2C_206/2014 du 4 mars 2014 consid. 3 et les
+réf. citées ; CourEDH, 13 décembre 2016, Paposhvili c. Belgique, requête 41738/10).
+2.3
+En l’espèce, le SPOP a refusé de prolonger l’autorisation de séjour du recourant
+le 27 décembre 2013 en raison de ses condamnations pénales et a prononcé son renvoi de
+Suisse. Les recours et les deux demandes de reconsidé­ration de l’intéressé
+ayant été rejetés, la décision de renvoi est désormais entrée en force.
+Alors que le recourant était en détention, le SPOP a imparti au recourant un nouveau délai
+immédiat, dès sa libération, pour quitter la Suisse. Le 15 décembre 2017, date de
+la fin de sa détention pénale, le recourant a refusé d’embarquer sur un vol à
+destination de son pays d’origine et le SPOP a ordonné sa mise en détention adminis­tra­tive
+pour une durée de six mois en application des art. 75 al. 1 let. g et h et 76 al. 1 let. b ch. 1
+LEtr.
+Les faits relatifs à la dernière condamnation du recourant remontent certes à plus de
+six ans. Le recourant omet toutefois de rappeler qu’il a été condam­né à
+six reprises entre 2007 et 2016, notamment pour des crimes au sens de l’art. 10 al. 2 CP (extorsion
+et chantage, contrainte sexuelle et viol) et qu’une nouvelle instruction pénale a été
+ouverte contre lui pour viol en octobre 2016, ce qui suffit à démontrer le danger qu’il
+représente pour les personnes résidant sur le territoire suisse. Les conditions de l’art.
+75 al. 1 let. g et h LEtr sont dès lors manifestement remplies.
+De plus, contrairement à ce que soutient le recourant, l’examen du dossier démontre qu’il
+refuse de collaborer à l’exécution de son renvoi du territoire suisse. En effet, malgré
+plusieurs avertissements et décisions lui enjoignant de quitter la Suisse, le recourant est resté
+sur le territoire helvétique. Compte tenu des nombreux avertissements et des décisions qui
+lui ont été communiqués, le recourant ne pouvait ignorer qu’il devait quitter la
+Suisse. I
+l
+a été averti à plusieurs reprises, la dernière fois le 12 octobre 2017, que s’il
+ne quittait pas la Suisse immédiatement, il pourrait être placé en détention administrative
+dans le cadre des mesures de contrain­te.
+Il
+n’a toutefois effectué aucune démarche pour quitter le territoire et n’a d’ailleurs
+pas profité de sa liberté pour rejoindre un autre pays. Entendu par Tribunal des mesures de
+contrainte le 15 décembre 2017, le recourant a clairement exprimé son refus de quitter la Suisse
+pour la République Démocratique du Congo, indiquant qu’il voulait se rendre en France
+par ses propres moyens. De plus, le recourant n’a jamais produit de docu­ment attestant de
+son droit de séjourner sur territoire français. Le recourant a ainsi démontré qu’il
+n’entendait nullement quitter la Suisse de son plein gré.
+Enfin, la décision querellée est conforme aux principes de la proportionnalité et de la
+célérité, un nouveau vol à destination de [...] étant en cours d'organisation.
+La détention du recourant n’est pas contraire à la loi, elle apparaît appropriée
+et nécessaire, et demeure dans le cadre du délai ordi­naire prévu par la loi (art.
+79 al. 1 LEtr). La mise en détention apparaît comme étant la seule mesure apte à
+assurer l'exécution du renvoi au vu du refus manifeste de collaborer du recourant. L'exécution
+de cette mesure a par ailleurs lieu dans un établissement adéquat. La mise en détention,
+d'une durée fixée au maximum légal, apparaît en définitive comme une mesure
+proportionnée au cas du recourant.
+Partant, la détention administrative du recourant, conforme au droit, ne prête pas le flanc
+à la critique.
+3.
+Il résulte de ce qui précède que le recours doit être rejeté et l'ordonnan­ce
+entreprise confirmée.
+Selon l’art. 25 al. 1 LVLEtr, lorsque la personne détenue est indigente, le conseil d'office
+reçoit une indemnité à la charge de l'Etat, les dispositions relatives à la rémunération
+des défenseurs d'office en matière pénale étant applicables. En sa qualité de
+conseil d’office du recourant, Me Céline Desscan a donc droit à une indemnité pour
+la procédure de recours, qui sera fixée à 540 fr., plus la TVA, par
+43
+fr. 20, ce qui porte le montant alloué à 583 fr. 20, à la charge de l’Etat.
+L’arrêt sera rendu sans frais judiciaires (art. 50 LPA-VD ; CREP 14 novembre 2017/775
+consid. 3).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 17 décembre 2017 est confirmée.
+III.
+L’indemnité allouée à Me
+Céline Desscan, conseil d’office de K.________, est fixée à 583 fr. 20 (cinq cent
+huitante-trois francs et vingt centimes), à la charge de l’Etat.
+IV.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Céline Desscan, avocate (pour K.________),
+-
+Service de la population, Secteur départs et mesures,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Etablissement de Frambois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet
+d'un recours en matière de droit public devant le Tribunal fédéral au sens des art. 82
+ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ; RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans les trente jours qui suivent la présente
+notification (art. 100 al. 1 LTF).
+La greffière :
