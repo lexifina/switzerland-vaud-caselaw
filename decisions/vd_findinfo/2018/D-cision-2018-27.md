@@ -1,0 +1,302 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 27"
+decided: "2018-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6431045"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/311.0/art-158.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-301.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 27
+
+## Regeste
+
+NON-LIEU, FAUX INTELLECTUEL DANS LES TITRES, FAUX MATÉRIEL DANS LES TITRES, USAGE DE FAUX{DROIT PÉNAL}, GESTION DÉLOYALE | 110 al. 4 CP, 158 ch. 1 al. 1 CP, 251 ch. 1 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.01.2018 Décision / 2018 / 27
+
+NON-LIEU, FAUX INTELLECTUEL DANS LES TITRES, FAUX MATÉRIEL DANS LES TITRES, USAGE DE FAUX{DROIT PÉNAL}, GESTION DÉLOYALE | 110 al. 4 CP, 158 ch. 1 al. 1 CP, 251 ch. 1 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+10
+PE17.018720-SOO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 janvier 2018
+__________________
+Composition
+:               M.
+M A I L L A R D, président
+MM.
+Meylan et Krieger, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+310 CPP
+Statuant sur le recours interjeté le 16 octobre 2017 par
+X.________
+contre l'ordonnance de non-entrée en matière rendue le 4 octobre 2017 par le Ministère
+public de l’arrondissement de Lausanne dans la cause
+n° PE17.018720-SOO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Q.________ a, depuis le 11 avril 2013, exercé la fonction de président
+ad
+interim
+de la «  [...]» ( [...]),
+association sise à Zoug (P. 2). Pour sa part, X.________ est membre du conseil d’administration
+de l’association ci-dessus (ibid.).
+Par acte daté du 11 septembre 2017, posté depuis la France et reçu par l’autorité
+suisse le 19 septembre 2017, X.________ a déposé plainte pénale contre Q.________, pour
+des actes paraissant pouvoir, au vu des moyens invoqués, relever du faux dans les titres, respectivement
+de la gestion déloyale.
+Le plaignant a exposé qu’à Lausanne, à une date indéterminée du début
+de l’année 2013, Q.________, agissant en sa qualité de président
+par
+interim
+de la [...], aurait présenté
+une demande de reconnaissance de cette association au [...] ( [...]). A cette demande aurait été
+joint un document intitulé «  [...]» (P. 4), prétendument adopté par le
+conseil d’administration de la [...] le 22 novembre 2011. Or, selon le plaignant, aucune déclaration
+similaire n’aurait été faite par l’organe dirigeant de l’association, lequel
+n’aurait même jamais débattu de la question, ainsi que cela ressortirait notamment du
+procès-verbal du conseil d’administration de la [...] du 22 novembre 2011 (P. 5). Ce ne serait,
+selon le plaignant, que le 12 avril 2013 qu’Q.________ aurait présenté aux responsables
+de l’association le document intitulé « [...] », qu’il aurait établi
+de son propre chef en violation des règles internes de la [...].
+B.
+Par ordonnance du 4 octobre 2017, le Ministère
+public a décidé de ne pas entrer en matière sur la plainte (I) et de laisser les frais
+de procédure à la charge de l'Etat (II).
+A l’appui de son ordonnance, la Procureure a considéré au préalable qu’il
+était douteux que le document intitulé « [...] » constitue un titre au sens légal,
+dès lors qu’il ne serait pas, à lui seul, destiné et suffisant à prouver un
+fait ayant une portée juridique. Pour le surplus, la magistrate a estimé que l’infraction
+de faux dans les titres n’était manifestement pas réalisée, puisque rien ne permettrait
+de retenir qu’Q.________ aurait agi dans le dessein de porter atteinte aux intérêts pécuniaires
+d’autrui, ou de se procurer ou de procurer à un tiers un avantage illicite. Par identité
+de motifs, on ne saurait lui reprocher de gestion déloyale.
+C.
+Par acte mis à la poste le 16 octobre 2017,
+X.________, représenté par son conseil de choix, a recouru contre cette ordonnance, en concluant,
+avec dépens, à son annulation et au renvoi de la cause au Ministère public pour qu’il
+ouvre une enquête pénale contre Q.________ pour faux dans les titres et gestion déloyale,
+la Procureure étant, en particulier, tenue d’entendre le plaignant, le prévenu et divers
+responsables de la [...] et du [...], ainsi que d’ordonner production de la comptabilité commerciale
+de la [...] pour les exercices 2013 à 2016.
+Il n'a pas été ordonné d'échange d'écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public en application de l’art. 310
+CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant
+l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let.
+b CPP) qui, dans le canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse; RSV 312.01];
+art. 80 LOJV [loi vaudoise d’organisation judiciaire; RSV 173.01]).
+Interjeté dans le délai légal, auprès de l’autorité compétente, par
+la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Conformément à l'art. 310 al. 1 let.
+a CPP, le procureur rend immédiatement – c'est-à-dire sans qu'une instruction soit ouverte
+– une ordonnance de non-entrée en matière lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 ss CPP) ou de la plainte (Cornu,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 1 et 2 ad art. 310 CPP) ou après une procédure préliminaire limitée aux
+investigations de la police (art. 300 al. 1 et 306 ss CPP), que les éléments constitutifs d'une
+infraction ou les conditions d'ouverture de l'action pénale ne sont manifestement pas réunis
+(TF 1B_709/2012 du 21 février 2013 consid. 3.1; TF 1B_67/2012 du 29 mai 2012 consid. 2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2).
+2.2
+Se rend coupable de faux
+dans les titres au sens de l'art. 251 ch. 1 CP (Code pénal suisse; RS 311.0) celui qui, dans le
+dessein de porter atteinte aux intérêts pécuniaires ou aux droits d'autrui ou de se procurer
+ou de procurer à un tiers un avantage illicite, aura créé un titre faux, falsifié
+un titre, abusé de la signature ou de la marque à la main réelles d'autrui pour fabriquer
+un titre supposé, constaté ou fait constater faussement, dans un titre, un fait ayant une portée
+juridique, ou, pour tromper autrui, fait usage d'un tel titre. Sont des titres tous les écrits destinés
+et propres à prouver un fait ayant une portée juridique et tous les signes destinés à
+prouver un tel fait (art. 110 ch. 4 CP).
+L'art. 251 CP vise non seulement le faux matériel, qui consiste dans la fabrication d'un titre faux
+ou la falsification d'un titre, mais également le faux intellectuel, soit la constatation d'un fait
+inexact, en ce sens que la déclaration contenue dans le titre ne correspond pas à la réalité.
+Constitue un faux matériel un titre dont l'auteur réel ne coïncide pas avec l'auteur apparent.
+Le faux intellectuel vise quant à lui un titre qui émane de son auteur apparent mais qui est
+mensonger dans la mesure où son contenu ne correspond pas à la réalité. Un document
+dont le contenu est mensonger ne peut toutefois être qualifié de faux intellectuel que s'il
+a une capacité accrue de convaincre, parce qu'il présente des garanties objectives de la véridicité
+de son contenu. Il doit résulter des circonstances concrètes ou de la loi que le document est
+digne de confiance, de telle sorte qu'une vérification par le destinataire n'est pas nécessaire
+et ne saurait être exigée (TF 6B_ 382/2011 du 26 septembre 2011; TF 6B_367/2007 du 10 octobre
+2007 consid. 4.2, non publié
+in ATF
+133 IV 303; TF 6S.156/2006 du 24 novembre 2006 consid. 4.1 non publié
+in
+ATF 133 IV 36; ATF 132 IV 12 consid. 8.1 p. 14 – 15; ATF 129 IV 130 consid. 2.1
+p.
+133 - 134). Le simple mensonge écrit n’est pas répréhensible, contrairement au faux
+intellectuel (Dupuis et al., Petit commentaire du Code pénal, 2
+e
+éd.,
+Bâle 2017, n. 34 ad art. 251 CP).
+La caractéristique essentielle du titre est qu'il doit être objectivement en mesure de prouver
+tout ou partie de ce qu'il exprime; autrement dit, sa lecture doit fonder la conviction. L'aptitude à
+servir de preuve résulte de la loi ou des usages commerciaux (ATF 120 IV 361 consid. 2a). Tout objet,
+par son existence même, peut dans certaines circonstances servir de preuve; le titre doit cependant
+être en mesure d’apporter une preuve de ce qu’il exprime, c’est-à-dire une
+preuve quant à son contenu (Corboz, Les principales infractions, 3
+e
+éd., Berne 2010, n. 16 ss ad art. 251 CP, p. 232).
+Pour le surplus, il faut qu’une valeur probante accrue soit accordée au faux intellectuel
+et que le destinataire de ce document lui manifeste une confiance particulière (ATF 138 IV 209 consid.
+5.3, JdT 2013 IV 179). La doctrine et la jurisprudence admettent de manière unanime qu’un
+écrit ne saurait revêtir une valeur probante du seul fait que quelqu’un le destine subjectivement
+à servir de preuve; il est indispensable que la valeur probante du document réponde également
+à des critères objectifs. En outre, on ne saurait d’emblée attribuer valeur de titre
+à n’importe quel écrit susceptible d’être un jour utilisé par hasard
+comme preuve. Un titre est dès lors uniquement un écrit destiné et propre à prouver
+un fait ayant une portée juridique (Favre/Pellet/Stoudmann, Code pénal annoté, 3
+e
+éd., Lausanne 2007, n. 4.1 ad art. 110 CP).
+2.3
+Réprimant la gestion déloyale, l’art.
+158 CP prévoit que celui qui, en vertu de la loi, d'un mandat officiel ou d'un acte juridique, est
+tenu de gérer les intérêts pécuniaires d'autrui ou de veiller sur leur gestion et
+qui, en violation de ses devoirs, aura porté atteinte à ces intérêts ou aura permis
+qu'ils soient lésés sera puni d'une peine privative de liberté de trois ans au plus ou
+d'une peine pécuniaire (ch. 1 al. 1).
+3.
+3.1
+En
+l’espèce, il n’apparaît pas que le document intitulé « [...]», seul
+mis en cause par le recourant, ait été destiné ou propre à prouver quoi que ce soit.
+Dans cette mesure, il ne s’agirait pas d’un titre au sens légal. En outre, pour être
+qualifié de titre, le document devrait prouver un fait ayant une portée juridique. Tout au
+plus pourrait-on théoriquement concevoir dans ce sens que la production d’un code d’éthique
+était une condition
+sine
+qua non
+pour que la [...] soit reconnue par le
+[...]. Le recourant ne le démontre toutefois pas, ni même ne le rend vraisemblable. Bien plutôt,
+cette condition ne semble pas avérée, puisque, précisément, la [...] n’a pas
+été reconnue par le [...] malgré la production du document en cause (P. 10). La question
+de savoir si le document en cause constitue un titre au sens légal peut cependant rester indécise
+pour les motifs ci-après.
+3.2
+En effet, encore faudrait-il, pour que l’infraction
+de faux dans les titres soit réalisée, que l’auteur ait agi dans le dessein de porter
+atteinte aux intérêts pécuniaires ou aux droits d'autrui ou de se procurer ou de procurer
+à un tiers un avantage illicite. Or, comme on le verra ci-dessous, le dossier ne comporte aucun
+élément étayant un tel dessein dolosif, à savoir celui de nuire ou d’obtenir
+un avantage illicite.
+Le dessein de nuire peut être écarté,
+puisque, à suivre la plainte, le but d’Q.________ était d’obtenir la reconnaissance
+de la [...] par le [...]. Certes, le recourant fait valoir que le document qu’il incrimine porterait
+atteinte à la considération des membres du conseil d’administration de la [...]. Ce moyen
+n’est toutefois étayé par aucun élément du dossier. Q.________ n’a manifestement
+pas agi dans le but d’entacher la réputation de quiconque. Dans cette mesure, l’élément
+constitutif subjectif de l’infraction n’est ainsi pas réalisé.
+Le dessein d’obtenir un avantage illicite n’est pas davantage établi. En effet, l’avantage
+au sens de l’art. 251 CP est défini comme devant avoir une valeur économique, c’est-à-dire
+revêtir la forme d’une augmentation de l’actif, d’une diminution du passif, d’une
+non-augmentation du passif ou d’une non-diminution de l’actif (Dupuis et al., op. cit., n.
+54 ad art. 251 CP et la réf. citée). Or, le dossier ne comporte aucun élément en
+faveur d’un tel dessein lucratif. Le recourant n’allègue du reste pas le contraire.
+En particulier, rien n’établit, ni même ne rend vraisemblable, qu’une éventuelle
+reconnaissance de la [...] par le [...] aurait entraîné des avantages pécuniaires pour
+quiconque, en particulier en faveur d’Q.________. Le fait que l’on peut, d’une manière
+générale, admettre que la reconnaissance d’une [...] par le [...] a pour effet d’augmenter
+le crédit de celle-ci et donc de conforter sa position dans les relations financières n’y
+change rien. L’élément constitutif subjectif de l’infraction n’est ainsi
+pas réalisé à cet égard non plus.
+3.3
+Pour ce qui est de l’infraction de gestion
+déloyale, le seul élément sur lequel se fonde le recourant est constitué par un courriel
+adressé par Q.________ à un certain «  [...]» (P. 9), faisant état de commissions
+en relation avec des prestations d’un commanditaire (« sponsoring »). Le recourant
+soutient que les commissions en cause, qu’il tient pour occultes, seraient supérieures à
+la limite autorisée. Or, on ignore tout de la question et le recourant se borne à des allégations
+qui ne reposent sur aucun élément concret. Il n’y a donc aucun indice étayant une
+violation de ses devoirs de diligence par Q.________, respectivement une atteinte qu’aurait portée
+ce dernier à des intérêts sur lesquels il aurait été tenu de veiller. Les éléments
+constitutifs de l’infraction de gestion déloyale ne sont donc pas davantage réalisés.
+3.4
+Pour le surplus, dans sa plainte, le recourant
+consacre la majeure partie de ses allégations à expliquer les « manœuvres »
+qu’auraient ourdies Q.________ pour garder le pouvoir à son détriment au sein de l’association.
+Ces luttes d’influence n’ont évidemment rien de pénal.
+3.5
+Il apparaît ainsi que, comme l’a considéré
+la Procureure, il n’y a pas lieu d’entrer en matière sur la plainte pénale. On
+peut encore souligner que la plainte déposée par le recourant en France le 10 avril 2015 à
+raison des mêmes faits avait également fait l’objet d’un classement sans suite
+(P. 7 et 8).
+4.
+Il
+résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autres échanges d’écritures (art. 390 al. 2 CPP) et l’ordonnance
+attaquée confirmée.
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt,
+par 880 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière
+pénale; RSV 312.03.1]), seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 4 octobre 2017 est confirmée.
+III.
+Les frais d'arrêt, par 880 fr. (huit cent
+huitante francs), sont mis à la charge du recourant.
+IV.
+L’arrêt
+est exécutoire.
+Le
+président :              Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Michel Mitzicos-Giogios, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure du Ministère public de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
