@@ -1,0 +1,201 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___73"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 73"
+decided: "2018-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6467130"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-398.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-106.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-301.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 73
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, CAPACITÉ D'ESTER EN JUSTICE, CURATELLE | 310 CPP (CH), 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2018 Décision / 2018 / 73
+
+CLASSEMENT DE LA PROCÉDURE, CAPACITÉ D'ESTER EN JUSTICE, CURATELLE | 310 CPP (CH), 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+26
+PE17.019234-FMO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 janvier 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Petit
+*****
+Art.
+310 CPP
+Statuant sur le recours interjeté le 8 janvier 2018 par
+M.________
+contre l’ordonnance de non-entrée en matière rendue le 15 décembre 2017 par le Ministère
+public central, division affaires spéciales, dans la cause
+n° PE17.019234-FMO
+,
+la Chambre des recours pénale considère :
+En fait
+:
+A.
+Par courrier du 22 septembre 2017, M.________ a déposé plainte contre l’Office des curatelles,
+précisant être titulaire d’une créance et requérant l’ouverture d’une
+instruction pénale pour faux dans les titres sans donner plus de précisions. Il a produit en
+annexe un mandat de comparution du Tribunal de police de la République et canton de Genève
+pour une audience appointée au 12 octobre 2017, ainsi qu’un document relatif à sa situation
+financière personnelle.
+Le plaignant fait l’objet d’une curatelle de portée générale instituée
+par décision du 12 mai 2015 de la Justice de paix du district de l’Ouest lausannois.
+B.
+Par ordonnance du 15 décembre 2017, le Ministère
+public central, division affaires spéciales (ci-après : le Ministère public central),
+a refusé d’entrer en matière (I) et a mis les frais, par 300 fr., à la charge de
+M.________ (II).
+Le Procureur a constaté d’abord que M.________ avait été condamné par ordonnance
+pénale du 30 mars 2016 par le Service des contraventions de la République et canton de Genève.
+C’était suite à l’opposition de l’intéressé à cette ordonnance
+que le Tribunal de police de la République et canton de Genève l’avait convoqué
+pour être entendu en qualité de prévenu le 12 octobre 2017. Le Procureur a considéré
+ensuite que la plainte ne comportait aucun élément permettant de soupçonner la commission
+d’une quelconque infraction pénale par l’Office des curatelles. Par ailleurs, le lien
+entre les reproches faits à cette autorité et le mandat de comparution du Tribunal de police
+genevois manquait de clarté. En outre, il a estimé qu’il appartenait à l’intéressé
+d’utiliser les voies de droit à sa disposition dans la procédure genevoise. Enfin, s’agissant
+des frais, il a considéré que la plainte, déposée devant les autorités pénales
+vaudoises après réception d’un mandat de comparution des autorités pénales
+genevoises, était téméraire. Au demeurant, ce n’était pas la première
+fois que l’intéressé déposait plainte de manière infondée contre l’Office
+des curatelles. Il se justifiait dès lors d’astreindre le plaignant au paiement des frais
+de justice.
+C.
+Par acte du 8 janvier 2017, remis en mains propres
+au Greffe du Ministère public central, M.________ a recouru contre cette ordonnance, en concluant
+implicitement à son annulation. Il a en outre sollicité l’assistance judiciaire pour
+la procédure de recours. L’acte précité a été transmis à la Chambre
+des recours pénale du Tribunal cantonal comme objet de sa compétence.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code de procédure
+pénale suisse du 5 octobre 2007, RS 312.0]) dans les dix jours devant l’autorité
+de recours (art. 310 al. 2, 322 al. 2 CPP; cf. art. 20 al. 1 let. b CPP) qui, dans le canton de
+Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du Code de procédure pénale suisse, RSV 312.01]; art. 80 LOJV [loi d’organisation judiciaire,
+RSV 173.01]).
+1.2
+En l’espèce, le recours a été
+interjeté en temps utile devant l’autorité compétente. Cela étant, on peut
+se demander si le recourant a la capacité d’ester en justice, dès lors qu’il est
+placé sous curatelle de portée générale (art. 398 CC [Code civil suisse; RS 210])
+et se trouve ainsi privé de l’exercice des droits civils (art 398 al. 3 CC). M.________
+ne devrait donc pas pouvoir valablement accomplir des actes de procédure en matière pénale
+(cf. art. 106 al. 1 CPP), à moins qu’il soit capable de discernement (art. 106 al. 3 CPP).
+En effet, un acte de recours non ratifié par le curateur est irrecevable si le plaideur ne fournit
+pas la preuve de son discernement (CREP 14 décembre 2015/827 consid. 1.3; CREP 17 août
+2015/547; CREP 11 août 2014/544).
+La question de savoir si le recourant est capable de discernement, respectivement la question de la recevabilité
+du recours, peuvent toutefois rester indécises, dès lors que, supposé recevable, celui-ci
+devrait de toute manière être rejeté pour les motifs exposés ci-après.
+2.
+2.1
+Conformément à l'art. 310 al. 1 let.
+a CPP, le procureur rend immédiatement – c'est-à-dire sans qu'une instruction soit ouverte
+– une ordonnance de non-entrée en matière lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 ss CPP) ou de la plainte (Cornu, in : Kuhn/Jeanneret [éd.],
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, nn. 1 et 2 ad art. 310
+CPP) ou après une procédure préliminaire limitée aux investigations de la police
+(art. 300 al. 1 et 306 ss CPP), que les éléments constitutifs d'une infraction ou les conditions
+d'ouverture de l'action pénale ne sont manifestement pas réunis (TF 1B_709/2012 du 21 février
+2013 consid. 3.1; TF 1B_67/2012 du 29 mai 2012 consid. 2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit ; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2).
+2.2
+En l’espèce, le dossier ne recèle aucun indice d’une quelconque infraction pénale,
+le recourant déclarant simplement être « titulaire d’une créance »
+et sollicitant l’ouverture d’une « enquête contre l’Office des curatelles
+pour Faux dans les Titres art 251 CP (sic) » (cf. P. 4). Le plaignant ne fournit par ailleurs
+aucune indication quant au lien pouvant exister entre les reproches faits à l’autorité
+précitée et le mandat de comparution du Tribunal de police de la République et canton
+de Genève. Par conséquent, à l’instar du Ministère public central dont la motivation
+convaincante peut être adoptée, la Cour de céans considère que la plainte est non
+seulement infondée, mais également téméraire, ce qui justifie d’astreindre
+le plaignant au paiement des frais de justice.
+L’ordonnance de non-entrée en matière échappe ainsi à la critique.
+3.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans autre échange d’écritures
+(art. 390 al. 2 CPP), dans la mesure où il est recevable (cf. consid. 1.2 supra), et l’ordonnance
+attaquée confirmée.
+L’assistance judiciaire gratuite sollicitée pour la procédure de recours ne saurait être
+accordée, le recours étant d'emblée dénué de chance de succès (CREP 8 septembre
+2014/654 et les références citées; Ruckstuhl, in: Niggli/ Heer/Wiprächtiger [éd.],
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 10 ad art. 132 CPP).
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt (art. 422 al. 1 CPP), par 550 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis
+à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 15 décembre 2017 est confirmée.
+III.
+La requête d’assistance judiciaire
+gratuite pour la procédure de recours est rejetée.
+IV.
+Les frais d’arrêt, par 550 fr. (cinq cent cinquante francs), sont mis à la charge de
+M.________.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M.________,
+-
+M. le Procureur général adjoint du canton de Vaud.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
