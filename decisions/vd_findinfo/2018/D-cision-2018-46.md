@@ -1,0 +1,356 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___46"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 46"
+decided: "2018-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6446633"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md", "switzerland/bund/acts/312.0/art-436.md", "switzerland/bund/acts/641.20/art-018.md"]
+---
+
+# VD Findinfo Décision / 2018 / 46
+
+## Regeste
+
+NON-LIEU, INFRACTIONS CONTRE L'HONNEUR, CONTRAINTE{DROIT PÉNAL}, TENTATIVE{DROIT PÉNAL} | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2018 Décision / 2018 / 46
+
+NON-LIEU, INFRACTIONS CONTRE L'HONNEUR, CONTRAINTE{DROIT PÉNAL}, TENTATIVE{DROIT PÉNAL} | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+39
+PE17.018447-VWT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2018
+__________________
+Composition
+:               M.
+M A I L L A R D, président
+MM.
+Meylan et Perrot, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+31 CP; 310 CPP
+Statuant sur le recours interjeté le 19 octobre 2017 par
+J.________
+et la
+T.________
+contre l’ordonnance de non-entrée en matière rendue le 29 septembre 2017 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE17.018447-VWT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par actes du 21 septembre 2017 (P. 4/1 et 5/1, avec annexes), mis à la poste le lendemain, la T.________,
+sise à [...], et J.________ ont chacune déposé plainte pénale contre [...] pour calomnie
+(art. 174 CP [Code pénal suisse du 21 décembre 1937; RS 311.0]), subsidiairement diffamation
+(art. 173 CP), tentative de contrainte (art. 22 al. 1 ad art. 181 CP) et dénonciation calomnieuse
+(art. 303 CP).
+Les plaignantes reprochaient d’abord à [...] d’avoir, contrairement à la vérité,
+prétendu que son fils aurait été, de juin à août 2016, délibérément
+maltraité dans la crèche gérée par elles et au sein de laquelle il avait été
+placé. Elles lui faisaient grief ensuite d’avoir affirmé, lors d’un entretien de
+vive voix le 8 novembre 2016 avec J.________, directrice de la crèche, qu’il déposerait
+plainte pénale contre elles de ce fait si la fondation ne consentait pas à l’abandon
+de mensualités en souffrance dues au titre du placement de son fils du 1
+er
+octobre 2014 au 23 août 2016 (P. 7). Les plaignantes ont précisé que l’intéressé
+aurait confirmé ces propos dans un entretien téléphonique du 11 novembre 2016 (P. 8).
+Elles ont ajouté que l’intéressé aurait réitéré ces fausses accusations
+de maltraitance dans la plainte qu’il avait adressée en fait le 14 octobre 2016 déjà
+au Ministère public de l’arrondissement de La Côte (P. 10), ainsi que dans une dénonciation
+dont il avait saisi le service de [...] de la Commune de [...] en produisant copie de sa plainte pénale
+(P. 9B). Elles ont enfin précisé que ce n’était que par lettre du 23 juin 2017,
+reçue le 26 juin suivant, que la commune les avait informées de l’existence et du contenu
+de la plainte déposée contre elles (P. 9A).
+B.
+Par ordonnance du 29 septembre 2017, notifiée
+aux plaignantes par leur conseil commun et à [...], le Ministère public a refusé d’entrer
+en matière sur les plaintes (I) et a laissé les frais à la charge de l’Etat (II).
+Quant à l’infraction de tentative de contrainte, le Procureur a considéré que [...]
+n’avait pas contraint J.________ à adopter un comportement particulier, pas plus qu’il
+n’avait fait usage d’un moyen illicite à son encontre, le droit de déposer plainte
+pénale étant dévolu à tout un chacun.
+Pour ce qui est des infractions de calomnie et de diffamation, poursuivies sur plainte uniquement, le
+Procureur a considéré que le délai de plainte était échu. Par surabondance,
+le magistrat a estimé que la plainte de [...] ne comportait aucun propos attentatoire à l’honneur
+de la T.________ ou de J.________. En effet, aucune d’elles n’y serait mentionnée, de
+sorte que la qualité de parties plaignantes devrait leur être refusée quant à ces
+infractions. S’agissant enfin de l’infraction de dénonciation calomnieuse, le Procureur
+a considéré qu’aucun élément des dossiers pénaux ne permettait de déduire
+que [...] savait les plaignantes innocentes des faits qu’il leur reprochait et qu’au surplus,
+aucune mesure d’instruction ne permettrait d’établir les éléments constitutifs
+de cette infraction.
+C.
+a)
+Par acte du 19 octobre 2017, J.________ et la T.________, agissant conjointement sous la plume de leur
+conseil de choix, ont recouru auprès de la Chambre des recours pénale du Tribunal cantonal
+contre cette ordonnance, en concluant, avec suite de frais et dépens, à son annulation, le
+dossier de la cause étant renvoyé au Ministère public pour qu’il ouvre une instruction.
+b)
+Invité à se déterminer sur le
+recours, le Ministère public a, par lettre du 12 décembre 2017, indiqué qu’il n’entendait
+pas déposer de déterminations.
+Egalement invité à se déterminer sur le recours, [...] a, par lettre datée du 8 décembre
+2018 (sic;
+recte
+:
+janvier), conclu implicitement au rejet du recours.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0]) dans les dix jours devant l’autorité de recours
+(art. 310 al. 2, 322 al. 2 CPP; cf. art. 20 al. 1 let. b CPP) qui, dans le canton de Vaud, est la Chambre
+des recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code
+de procédure pénale suisse du 19 mai 2009; RSV 312.01]; art. 80 LOJV [Loi d’organisation
+judiciaire du 12 décembre 1979; RSV 173.01]).
+Interjeté dans le délai légal par
+les parties plaignantes qui ont qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Pour l’essentiel, les recourantes font valoir
+d’abord qu’elles n’avaient pas eu connaissance avant le 26 juin 2017 de l’atteinte
+à leur honneur pénalement protégé qui découlerait de la plainte déposée
+par l’intimé contre elles le 14 octobre 2016. Elles soutiennent ensuite que le plaignant avait
+agi dans l’intention de pousser la T.________ à consentir à l’abandon des mensualités
+en souffrance et de frais annexes dus au titre du placement de son fils.
+2.2
+Aux termes de l'art. 310 al. 1 let. a CPP, une ordonnance de non-entrée en matière est rendue
+immédiatement – c’est-à-dire sans qu’une instruction soit ouverte (art. 309
+al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 consid. 2.1; Cornu,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 2 ad art. 310 CPP) – par le Ministère public lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 et 302 CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310
+CPP) ou après une procédure préliminaire limitée aux investigations de la police
+(art. 300 al. 1, 306 et 307 CPP), que les éléments constitutifs de l'infraction ou les conditions
+à l'ouverture de l'action pénale ne sont manifestement pas réunis (TF 1B_111/2012 du 5
+avril 2012 consid. 2.1; TF 1B_67/2012 du 29 mai 2012 consid. 2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2).
+2.3
+A teneur de l’art. 31 CP, le droit de porter
+plainte se prescrit par trois mois; le délai court du jour où l'ayant droit a connu l'auteur
+de l'infraction.
+Le délai institué par l'art. 31 CP étant un délai de péremption, il ne peut
+être ni interrompu ni prolongé (ATF 118 IV 325 consid. 2b). Le point de départ du délai
+de plainte est le jour où le lésé a connaissance non seulement de l'auteur de l'infraction,
+mais aussi des éléments objectifs et subjectifs de celle-ci (ATF 132 IV 49 consid. 3.2 in initio;
+TF 6B_145/2010 du 11 mai 2010 consid. 1.3; Riedo, Der Strafantrag, thèse, Fribourg 2004, pp. 444
+ss).
+2.4
+En l’espèce, la plainte porte sur des infractions contre l’honneur, ainsi que sur celles
+de tentative de contrainte et de dénonciation calomnieuse. S’agissant des infractions contre
+l’honneur, seules poursuivies sur plainte, la question préalable à trancher est celle
+de savoir si la plainte a été déposée en temps utile.
+Il ressort des pièces produites et du silence de l’ordonnance à ce sujet que les recourantes
+n’ont pas eu la qualité de partie dans une procédure qui aurait été ouverte
+contre l’une au moins d’entre elles par suite d’une plainte déposée par l’intimé.
+Il doit en être déduit que la plainte du 14 octobre 2016 n’a pas eu de suite, de sorte
+qu’elle n’a pas été portée à leur connaissance. Bien plutôt, les
+recourantes n’ont appris son existence et son contenu que le 26 juin 2017, ainsi que cela ressort
+des pièces (P. 9A, avec réf. à la P. 9B). L’élément déterminant à
+cet égard est le sceau de réception apposé sur la lettre de la Commune de [...] informant
+les plaignantes du dépôt et de la teneur de la plainte pénale, lequel porte la date du
+26 juin 2017, qui était un lundi. Il ne ressort d’aucune pièce que l’une au moins
+des plaignantes aurait eu connaissance antérieurement déjà de la plainte et du contenu
+de celle-ci.
+Déposées par actes mis à la poste le 22 septembre 2017, les plaintes l’ont donc
+été en temps utile. Il y a donc lieu d’examiner s’il doit être entré
+en matière sur ces plaintes.
+3.
+3.1
+L'honneur protégé par le droit pénal est conçu de façon générale comme
+un droit au respect qui est lésé par toute assertion propre à exposer la personne visée
+au mépris en sa qualité d'homme (ATF 132 IV 112 consid. 2.1; ATF 128 IV 53 consid. 1a). L'atteinte
+à l'honneur pénalement réprimée doit ainsi faire apparaître la personne visée
+comme méprisable (ATF 137 IV 313 consid. 2.1.1; ATF 133 IV 308 consid. 8.5.1). Il ne suffit pas
+d'abaisser une personne dans la bonne opinion qu'elle a d'elle-même ou dans les qualités qu'elle
+croit avoir, notamment dans le cadre de ses activités professionnelles, artistiques, politiques
+ou sportives (ATF 119 IV 47 consid. 2a; ATF 117 IV 27 consid. 2c; ATF 116 IV 205 consid. 2, JdT 1992
+IV 107). Pour apprécier si une déclaration est attentatoire à l'honneur, il faut se fonder
+non pas sur le sens que lui donne la personne visée, mais sur une interprétation objective
+selon la signification qu'un destinataire non prévenu doit, dans les circonstances d'espèce,
+lui attribuer (TF 6B_143/2011 du 16 septembre 2011 consid. 2.1.3; ATF 133 IV 308 consid. 8.5.1 précité;
+CREP 26 mai 2015/361 consid. 2.2).
+3.2
+La recourante T.________ est une fondation de droit privé (cf. P. 1/4). L’honneur des personnes
+morales est pénalement protégé à l’instar de celui des personnes physiques
+(ATF 96 IV 148, JdT 1971 IV 110).
+La T.________ est désignée dans la plainte par son enseigne publique (
+[...]
+), ce qui la rend assurément reconnaissable
+par quiconque. Pour sa part, la recourante J.________ est nommément mentionnée dans la plainte.
+Certes, le plaignant ne lui reproche pas d’avoir personnellement commis d’acte de maltraitance
+au préjudice de son fils. Il ne la traite pas moins de « criminelle » pour avoir
+à tout le moins consenti à de tels actes. Comme directrice de la crèche
+publiquement connue en cette qualité (cf.
+ATF 124 IV 262 consid. 2), J.________ exerce des fonctions de contrôle sur ses subordonnés
+dans la gestion quotidienne du foyer. Partant, elle est incriminée par la plainte pour avoir à
+tout le moins consenti à des actes illicites prétendument commis au détriment d’un
+enfant placé dans son établissement. Les recourantes ont donc qualité pour déposer
+plainte.
+3.3
+Si elle devait s’avérer contraire à la vérité, respectivement à la bonne
+foi, l’assertion selon laquelle une fondation gérant une crèche, agissant par sa directrice,
+aurait délibérément maltraité un enfant confié à ses soins ou consenti
+à de tels actes ne peut que faire apparaître comme méprisables les auteurs et les responsables
+d’un tel comportement. Partant, elle paraît attentatoire à l’honneur pénalement
+protégé des personnes désignées par la plainte, à savoir les recourantes.
+3.4
+Dans ces conditions, le Procureur était tenu d’ouvrir une enquête pour calomnie, respectivement
+pour diffamation, sur la base des plaintes dont il était saisi. Ce qui précède s’applique,
+mutatis mutandis
+,
+à l’infraction de dénonciation calomnieuse, poursuivie d’office, laquelle présuppose
+que l’auteur sait que la personne dénoncée est innocente et qu’il agit en vue de
+faire ouvrir contre elle une poursuite pénale.
+Partant, c’est à tort que le Procureur a rendu une ordonnance de non-entrée en matière
+pour ce qui est des infractions en question.
+4.
+4.1
+Se rend coupable de contrainte au sens de l'art.
+181 CP celui qui, en usant de violence envers une personne ou en la menaçant d'un dommage sérieux
+ou en l'entravant de quelque autre manière dans sa liberté d'action, l'aura obligée à
+faire, à ne pas faire ou à laisser faire un acte.
+Ainsi, l’art. 181 CP prévoit alternativement trois moyens de contrainte : l’usage
+de la violence, la menace d’un dommage sérieux ou tout acte entravant la personne dans sa
+liberté d’action.
+La menace est un moyen de pression psychologique consistant à annoncer un dommage futur dont la
+réalisation est présentée comme dépendante de la volonté de l'auteur, sans toutefois
+qu'il soit nécessaire que cette dépendance soit effective ni que l'auteur ait réellement
+la volonté de réaliser sa menace (TF 6B_447/2014 du 30 octobre 2014 consid. 2.1 et les références
+citées).
+Il peut également y avoir contrainte lorsque l'auteur entrave sa victime « de quelque
+autre manière » dans sa liberté d'action; cette formule générale doit être
+interprétée de manière restrictive; n'importe quelle pression de peu d'importance ne suffit
+pas; il faut que le moyen de contrainte utilisé soit, comme pour la violence ou la menace d'un dommage
+sérieux, propre à impressionner une personne de sensibilité moyenne et à l'entraver
+d'une manière substantielle dans sa liberté de décision ou d'action; il s'agit donc de
+moyens de contrainte qui, par leur intensité et leur effet, sont analogues à ceux qui sont
+cités expressément par la loi (TF 6B_447/2014 précité consid. 2.1 et les références
+citées; ATF 119 IV 301 consid. 2a et les références citées).
+Selon la jurisprudence, la contrainte n'est contraire au droit que si elle est illicite. Tel est notamment
+le cas lorsqu'un moyen conforme au droit utilisé pour atteindre un but légitime constitue,
+au vu des circonstances, un moyen de pression abusif ou contraire aux mœurs (TF 6B_447/2014 précité
+consid. 2.1 et les références citées). Menacer de déposer une plainte pénale
+(lorsque l’on est victime d’une infraction) constituent en principe un acte licite; celui
+qui, étant victime d’une infraction, menace de déposer une plainte pénale afin d’obtenir
+la réparation du préjudice subi ne commet pas une contrainte au sens de l’art. 181 CP;
+l’illicéité n’apparaît que si le moyen utilisé n’est pas dans un
+rapport raisonnable avec le but visé et constitue un moyen de pression abusif; tel est le cas en
+particulier si l’objet de la plainte pénale est sans rapport avec la prestation demandée
+ou si la menace doit permettre d’obtenir un avantage indu (ATF 115 IV 207 consid. 2b/cc; ATF 101
+IV 47 consid. 2b; ATF 96 IV 58 consid. 1; ATF 87 IV 13 consid. 1).
+4.2
+Dans le cas particulier, l’intimé aurait,
+selon les recourantes, vainement requis l’abandon, par la T.________, de mensualités échues
+afférentes au placement de son enfant dans cette institution. Ne parvenant pas à ses fins,
+il aurait, les 8 et 11 novembre 2016, menacé les recourantes de déposer plainte contre elles
+pour obtenir satisfaction. Cela étant, la plainte, déposée le 14 octobre 2016 selon la
+date figurant sur l’acte, est antérieure à la commination incriminée. Il n’en
+reste cependant pas moins que le plaignant disposait de la faculté de déposer une plainte complémentaire.
+Quoi qu’il en soit, à ce stade de la procédure et comme l’exposent les recourantes
+sans être contredites par le moindre élément au dossier, il suffit de relever que, pour
+l’intimé, le dépôt d’une plainte était de nature à faire pression
+à l’appui de ses prétentions pécuniaires. En effet, au vu des pièces produites,
+les deux mensualités en cause (en plus de frais annexes) étaient échues le 1
+er
+août 2016 (P. 6) et l’intéressé avait signé une reconnaissance de dette
+en faveur de la fondation le 14 juin 2016 déjà (P. 5). Dans ces conditions, le Procureur était
+tenu d’ouvrir une enquête pour tentative de contrainte également, la non-entrée
+en matière étant prématurée à cet égard aussi.
+5.
+Il résulte de ce qui précède que le recours doit être admis. L’ordonnance de
+non-entrée en matière du 29 septembre 2017 doit être annulée et le dossier de la
+cause retourné au Ministère public de l’arrondissement de La Côte pour qu’il
+procède dans le sens des considérants qui précèdent.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 1’100 fr. (art. 20 al. 1 TFIP [tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront
+mis à la charge de l’intimé, qui succombe dès lors qu’il a conclu au rejet
+du recours (art. 428 al. 1 CPP).
+Les recourantes consortes, qui ont procédé avec l’assistance d’un conseil de choix
+et qui ont obtenu gain de cause, ont droit, solidairement entre elles, à une indemnité pour
+les dépenses occasionnées par la procédure de recours (art. 433 al. 1 CPP applicable par
+renvoi de l’art. 436 al. 1 CPP). Au vu du mémoire produit, cette indemnité sera fixée
+à 900 fr. (trois heures à 300 fr.), plus un montant correspondant à la TVA, au taux
+de 8 %, s’agissant d’opérations antérieures au 1
+er
+janvier 2018, par 72 fr., soit à 972 fr. au total. Il est rappelé que, si les indemnités
+au sens des art. 429 ss CPP ne sont pas soumises à la TVA (art. 18 al. 2 let. i LTVA [Loi fédérale
+régissant la taxe sur la valeur ajoutée du 12 juin 2009; RS 641.20), il convient de tenir compte
+du fait que les honoraires payés par la partie à son avocat sont quant à eux soumis à
+la TVA (CREP 1
+er
+mars 2017/904). L’indemnité sera mise à la charge de l’intimé, à l’instar
+des frais.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 29 septembre 2017 est annulée.
+III.
+Le dossier de la cause est retourné au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 1’100 fr. (mille cent francs), sont mis à la charge de l’intimé
+[...].
+V.
+L’indemnité allouée à J.________ et à la T.________, solidairement entre elles,
+pour les dépenses occasionnées par la procédure de recours est fixée à 972 fr.
+(neuf cent septante-deux francs), à la charge de l’intimé [...].
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Sara Giardina, avocate (pour la T.________ et J.________),
+-
+M. [...],
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
