@@ -1,0 +1,349 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___75"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 75"
+decided: "2018-01-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6466154"
+cites_law: ["switzerland/bund/acts/142.20/art-075.md", "switzerland/bund/acts/142.20/art-076.md", "switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md"]
+---
+
+# VD Findinfo Décision / 2018 / 75
+
+## Regeste
+
+RENVOI{DROIT DES ÉTRANGERS}, EXÉCUTABILITÉ, DÉTENTION AUX FINS D'EXPULSION | 76 al. 1 LEtr, 80 al. 6 let. a LEtr
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.01.2018 Décision / 2018 / 75
+
+RENVOI{DROIT DES ÉTRANGERS}, EXÉCUTABILITÉ, DÉTENTION AUX FINS D'EXPULSION | 76 al. 1 LEtr, 80 al. 6 let. a LEtr
+
+TRIBUNAL
+CANTONAL
+57
+DA17.025307-SDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 janvier 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+76 al. 1, 80 al. 6 let. a LEtr
+Statuant sur le recours interjeté le 18 janvier 2018 par
+Q.________
+contre l’ordonnance rendue le 3 janvier 2018 par le Tribunal des mesures de contrainte dans la
+cause
+n° DA17.025307-SDE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Ressortissant colombien né le [...] 1972, Q.________ est entré en Suisse à une date indéterminée.
+Il a été condamné par le Ministère public de l’arrondissement de l’Est
+vaudois à deux peines pécuniaires, les 15 janvier 2015 et 26 mai 2016, pour infractions à
+la loi fédérale sur la circulation routière.
+b)
+Le
+3 juin 2016, soupçonné d’infractions à la loi fédérale sur les stupéfiants
+et à la loi fédérale sur les étrangers, Q.________ a été interpellé
+et placé en détention préventive. Par jugement du 13 février 2017, le Tribunal correctionnel
+de l’arrondissement de l’Est vaudois l’a condamné à une peine privative de
+liberté de 30 mois, dont 15 avec sursis pendant 2 ans, pour blanchiment d’argent, crime, délit
+et contravention à la loi fédérale sur les stupéfiants et infraction à la loi
+fédérale sur les étrangers.
+Ensuite de cette condamnation, l’intéressé est resté incarcéré afin de
+purger le solde de sa peine.
+c)
+Le 10 mars 2017, le Service de la population (ci-après : SPOP) a rendu une décision de
+renvoi du territoire suisse à l’encontre d’Q.________ et lui a fixé un délai
+immédiat pour quitter le pays et l’Espace Schengen dès sa sortie de prison, prévue
+pour le 28 octobre 2017. Il a en substance considéré que l’intéressé, qui n’avait
+ni titre de séjour valable, ni moyens financiers, représentait une menace pour l’ordre
+public et la sécurité intérieure, au vu de ses condamnations pénales.
+Le 14 mars 2017, l’intéressé a écrit au SPOP, notamment afin de demander s’il
+était possible qu’il retourne en Espagne, où vivent ses filles. Le
+30
+mars 2017, le SPOP lui a répondu qu’il ne disposait pas d’une autorisation de séjour
+valable dans ce pays et ne pouvait ainsi pas y être réadmis (ce qu’a confirmé ultérieurement
+le Ministère de l’intérieur espagnol dans une décision formelle).
+d)
+Le
+26 juin 2017, le Secrétariat d’Etat aux Migrations a notifié à Q.________ une décision
+d’interdiction d’entrer sur le territoire suisse, valable du 22 juin 2017 au 21 juin 2027.
+e)
+Le SPOP a programmé le renvoi de l’intéressé
+pour le
+26 octobre 2017. Celui-ci a toutefois
+refusé d’embarquer sur le vol de ligne à destination de Bogota, en Colombie. Le lendemain,
+le SPOP a dès lors mandaté la police afin d’organiser à nouveau le renvoi de l’intéressé,
+cette fois-ci de manière accompagnée jusqu’à destination. Une date n’a pas
+encore été fixée à ce jour.
+f)
+Le
+27 octobre 2017, le SPOP a prononcé un ordre de détention administrative à l’encontre
+d’Q.________, dès le 28 octobre 2017 et pour une durée de 6 mois. Il a en substance considéré
+que la décision de renvoi était entrée en force et qu’une interdiction d’entrer
+en Suisse avait été notifiée à l’intéressé. Ses condamnations pénales,
+notamment pour crime, démontraient qu’il représentait une menace pour la sécurité
+publique et justifiaient la détention. En outre, il n’avait pas de domicile et son refus d’embarquer
+pour Bogota faisaient craindre qu’il tente de se soustraire à son refoulement.
+Par ordonnance du 30 octobre 2017, contre laquelle Q.________ n’a pas recouru, le Tribunal des
+mesures de contrainte a confirmé l’ordre de détention précité, pour les mêmes
+motifs. Il a en outre précisé que l’intéressé ne bénéficiait pas
+de l’effet suspensif à l’exécution de son renvoi, qui était exécutable,
+et qu’il avait démontré par son comportement et ses dires qu’il n’entendait
+pas collaborer à son départ.
+g)
+Par ordonnance du 6 décembre 2017, le Tribunal des mesures de contrainte a rejeté la demande
+de levée de la détention administrative formée par Q.________ à la fin du mois de
+novembre précédent, notamment au motif que la situation n’avait pas changé depuis
+sa dernière ordonnance.
+h)
+Par acte du 18 décembre 2017, Q.________ a recouru auprès de la Cour de droit administratif
+et public du Tribunal cantonal (ci-après : CDAP), en faisant valoir que sa lettre au SPOP du
+14 mars 2017 devait être considérée comme un recours contre la décision de renvoi
+de cette autorité du 10 mars précédent. Il a en outre requis l’octroi de l’effet
+suspensif à son renvoi, qui lui a été provisoirement restitué par ordonnance du 20
+décembre 2017.
+B.
+a)
+Le 21 décembre 2017, le conseil d’office
+d’Q.________ a saisi le Tribunal des mesures de contrainte d’une demande de libération.
+Il a en substance fait valoir qu’au vu de l’effet suspensif assortissant provisoirement son
+recours à la CDAP, il apparaissait que sa détention administrative ne reposait plus sur un
+ordre de renvoi exécutoire, ce qui justifiait sa libération immédiate.
+b)
+Dans
+le délai fixé à cet effet, le 22 décembre 2017, le SPOP a conclu au rejet de cette
+demande. Il a en substance exposé que même si sa décision du
+10
+mars 2017 devait ne pas être exécutoire en raison du recours à la CDAP, les conditions
+de la détention administrative demeuraient remplies, dès lors qu’une décision de
+renvoi de première instance avait été valablement notifiée à l’intéressé.
+De plus, les motifs de la détention demeuraient d’actualité. Enfin, l’intéressé
+s’était contenté de recourir contre son renvoi pour des motifs formels, sans prétendre
+à l’octroi d’une autorisation de séjour, de sorte qu’en cas de succès
+du recours, une nouvelle décision de renvoi serait, selon toute vraisemblance, rendue à son
+encontre.
+c)
+Par ordonnance du 3 janvier 2018, le Tribunal des mesures de contrainte rejeté la demande de levée
+de la détention administrative formée par Q.________ (I) et a dit que les frais de la cause
+seraient laissés à la charge de l’Etat et que l’indemnité due à son défenseur
+d’office serait arrêtée à l’issue de la procédure de renvoi (II). Il
+s’est référé à ses ordonnances précédentes, constatant que la situation
+de l’intéressé était identique, dans l’attente d’une décision de
+la CDAP sur son recours. Il a encore relevé qu’il n’était pas de sa compétence
+d’interpréter ou de se prononcer au sujet de l’effet suspensif octroyé par cette
+autorité. Enfin, il a relevé que la régularisation de son statut administratif ne pouvait
+s’entendre que par son renvoi dans son pays d’origine et que s’il était remis
+en liberté, il ne serait plus possible de le refouler.
+C.
+a)
+Par acte du 18 janvier 2018, Q.________ a recouru
+contre cette ordonnance, en concluant principalement à son annulation, à sa libération
+et à l’octroi d’une indemnité en sa faveur pour détention injustifiée
+et, subsidiairement, au renvoi de la cause à l’instance précédente pour nouvelle
+décision dans le sens des considérants.
+b)
+Le
+29 janvier 2018, dans le délai fixé à cet effet, le SPOP a conclu au rejet du recours,
+en se référant à ses déterminations adressées au Tribunal des mesures de contrainte
+le 22 décembre 2017. Il a en outre ajouté que l’octroi de l’effet suspensif à
+un recours dirigé contre une décision de renvoi ne constituait pas une impossibilité d’exécuter
+ledit renvoi au sens de l’art. 80 al. 6 let. a LEtr, se référant notamment à la
+jurisprudence du Tribunal fédéral.
+c)
+Par arrêt du 24 janvier 2018, la Cour de droit administratif et public du Tribunal cantonal a déclaré
+irrecevable le recours formé par Q.________ contre la décision de renvoi du 10 mars 2017, tout
+en retenant dans ses considérants que, recevable, celui-ci aurait été manifestement mal
+fondé.
+En droit
+:
+1.
+1.1
+Le Tribunal des mesures de contrainte statue sur
+la légalité et l’adéquation de la détention administrative, conformément
+à l’art. 80 al. 2 LEtr
+(loi fédérale
+sur les étrangers du 16 décembre 2005; RS 142.20; art. 16a al. 1 LVLEtr [loi du 18 décembre
+2007 d'application dans le canton de Vaud de la législation fédérale sur les étrangers;
+RSV 142.11]).
+Les décisions prononcées par le Tribunal des mesures de contrainte peuvent faire l’objet
+d’un recours auprès du Tribunal cantonal (30 al. 1 LVLEtr), soit la Chambre des recours pénale
+(art. 26 al. 1 ROTC [règlement organique du Tribunal cantonal du 13 novembre 2007; RSV 173.31.1]),
+dans les dix jours dès la notification de la décision attaquée. L’acte de recours
+est signé et sommairement motivé
+(art.
+30 al. 2 LVLEtr).
+1.2
+En l’espèce, déposé en temps
+utile par une personne placée en détention administrative, qui a un intérêt à
+la modification ou à l’annulation de l’ordonnance attaquée, le recours est recevable
+(art. 30 al. 2 LVLEtr).
+2.
+2.1
+Selon l’art. 76 al. 1 LEtr, après notification
+d'une décision de première instance de renvoi ou d'expulsion au sens de la LEtr ou d’une
+décision de première instance d'expulsion au sens des art. 66a ou 66a
+bis
+CP ou 49a ou 49a
+bis
+CPM, l'autorité compétente peut, afin d'en assurer l'exécution, (let. b) mettre en détention
+la personne concernée notamment (ch. 1) pour les motifs cités à l'art. 75, al. 1, let.
+a, b, c, f, g ou h LEtr – à savoir notamment lorsque la personne a été condamnée
+pour crime (art. 75 al. 1 let. h LEtr) – ou (ch. 3) si des éléments concrets font craindre
+que la personne concernée entend se soustraire au renvoi ou à l'expulsion, en particulier parce
+qu'elle ne se soumet pas à son obligation de collaborer en vertu de
+l'art.
+90 LEtr ou de l'art. 8, al. 1, let. a, ou al. 4, LAsi (Loi sur l’asile du 26 juin 1998; RS 142.31),
+ou encore (ch. 4) si son comportement permet de conclure qu'elle se refuse à obtempérer aux
+instructions des autorités. Ces deux chiffres (ch. 3 et ch. 4) décrivent des comportements
+permettant de conclure à l'existence d'un risque de fuite ou de disparition (
+Untertauchensgefahr
+)
+et peuvent donc être envisagés ensemble (Zünd, Kommentar Migrationsrecht, 4
+e
+éd., Zurich 2015, n. 6 ad
+art. 76 LEtr).
+Selon la jurisprudence,
+ces motifs sont réalisés lorsque l'étranger a déjà disparu une première
+fois dans la clandestinité (ATF 140 II 1 consid. 5.3), lorsqu'il tente d'entraver les démarches
+en vue de l'exécution du renvoi en donnant des indications manifestement inexactes ou contradictoires
+ou encore s'il laisse clairement apparaître, par ses déclarations ou son comportement, qu'il
+n'est pas disposé à retourner dans son pays d'origine (ATF 130 II 56 consid. 3.1; TF 2C_1139/2012
+du 21 décembre 2012 consid. 3.2; TF 2C_984/2010 du
+20
+janvier 2011 consid. 2; TF 2C_206/2009 du 29 avril 2009 consid. 4.1). Il faut qu'il existe des éléments
+concrets en ce sens (TF 2C_256/2013 du 10 avril 2013
+consid.
+4.2; TF 2C_142/2013 du 1
+er
+mars
+2013 consid. 4.2).
+2.2
+Selon l’art. 80 al. 6 let. a LEtr, la détention
+est levée lorsque le motif de la détention n'existe plus ou l'exécution du renvoi ou de
+l'expulsion s'avère impossible pour des raisons juridiques ou matérielles.
+Selon la jurisprudence,
+ces raisons doivent être importantes et il ne suffit ainsi pas que l'exécution du renvoi soit
+momentanément impossible, par exemple faute de papiers d'identité, tout en restant envisageable
+dans un délai prévisible. L'exécution du renvoi doit être qualifiée d'impossible
+lorsque le rapatriement est pratiquement exclu, même si l'identité et la nationalité de
+l'étranger sont connues et que les papiers voulus peuvent être obtenus (TF 2C_932/2017 du 27
+novembre 2017 consid. 3.2; TF 2C_105/2016 du 8 mars 2016 consid. 6.2;
+TF
+2C_951/2015 du 17 novembre 2015 consid. 3.1; TF 2C_490/2012 du 11 juin 2012 consid. 5.3.1 et les
+références citées).
+La détention est admissible
+lorsqu'une mesure de renvoi de première instance a été notifiée, sans qu’il
+ne soit nécessaire qu’elle soit entrée en force ou exécutoire (ATF 140 II 409 consid.
+2.3.4; ATF 140 II 74 consid. 2.1; ATF 122 II 148 consid. 1). Il suffit que l’exécution puisse
+être assurée dès que la décision de renvoi entrera en force. Ainsi, si l'étranger
+en détention dépose une demande d'asile, cela empêchera l'exécution de l'ordre d'expulsion
+jusqu'à la fin de cette procédure, sans toutefois que cela ne lève nécessairement
+les conditions de la détention (ATF 140 II 409 consid. 2.3.4).
+Il ne faut toutefois pas perdre de vue que l'objet
+de la procédure porte sur la détention administrative en tant que telle et non pas en principe
+sur les questions relatives à l'asile ou au renvoi; les objections concernant ces domaines doivent
+être invoquées et examinées par les autorités compétentes lors des procédures
+ad hoc
+.
+Ce n'est que si une décision de renvoi apparaît manifestement inadmissible, soit arbitraire
+ou nulle que le juge peut lever la détention administrative pour ce motif, car l'exécution
+d'un tel ordre illicite ne doit pas être assurée par les mesures de contrainte (TF 2C_932/2017
+précité consid. 3.2 et les références citées).
+2.3
+En l’espèce, le recourant soutient
+qu’en raison de la décision de la CDAP octroyant l’effet suspensif à son recours
+contre la décision de renvoi, celle-ci ne serait pas exécutable, de sorte que la détention
+devrait être levée, ledit renvoi s’avérant impossible pour des raisons juridiques.
+Le recourant ne conteste pas, à juste titre, que les conditions matérielles de sa détention
+administrative, ou encore de son renvoi, soient réunies. A cet égard, il y a lieu de se référer
+aux motifs énoncés par le SPOP et le Tribunal des mesures de contrainte dans leurs décisions,
+observations et ordonnances respectives, soit en substance l’absence de titre de séjour valable,
+la mise en danger de la sécurité publique et le risque – avéré – de disparition
+dans la clandestinité.
+S’agissant ensuite des conditions relatives à la levée de la détention au sens de
+l’art. 80 al. 6 let. a LEtr, elles ne sont à l’évidence pas réunies. En effet,
+ensuite de l’arrêt rendu par la CDAP le 24 janvier 2018, déclarant le recours d’Q.________
+contre la décision de renvoi du 10 mars 2017 irrecevable, il appert que son renvoi est parfaitement
+exécutable et il est du reste prévu.
+Cela étant, même si la CDAP n’avait pas statué avant la Cour de céans, le recours
+d’Q.________ aurait dû être rejeté, compte tenu de la jurisprudence fédérale
+développée au considérant qui précède.
+3.
+Il résulte de ce qui précède que
+le recours doit être rejeté et l'ordonnance du 3 janvier 2018 confirmée.
+Selon l’art. 25
+al. 1 LVLEtr, lorsque la personne détenue est indigente, le conseil d'office reçoit une indemnité
+à la charge de l'Etat, les dispositions relatives à la rémunération des défenseurs
+d'office en matière pénale étant applicables. En sa qualité de conseil d’office
+du recourant, Me Matthieu Genillod a donc droit à une indemnité pour la procédure de recours,
+qui sera fixée à 360 fr., plus la TVA, par
+27
+fr. 70, ce qui porte le montant alloué à 387 fr. 70, à la charge de l’Etat.
+Le
+recourant est tenu de rembourser à l’Etat l’indemnité allouée à son conseil
+d’office pour autant que sa situation financière le permette
+(art.
+135 al. 4 CPP, applicable par renvoi de l'art. 25 al. 1 LVLEtr).
+L’arrêt sera
+rendu sans frais judiciaires (art. 50 LPA-VD). Pour le surplus, vu le sort du recours, Q.________ n’a
+pas droit à l’indemnité pour détention illicite qu’il réclame.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 3 janvier 2018 est confirmée.
+III.
+L’indemnité allouée à Me
+Matthieu Genillod, conseil d’office d’Q.________, est fixée à 387 fr. 70 (trois
+cent huitante-sept francs et septante centimes), à la charge de l’Etat.
+IV.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+sera exigible pour autant que la situation financière du recourant le permette.
+V.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Matthieu Genillod, avocat (pour Q.________),
+-
+Service de la population, secteur départs,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Etablissement de Frambois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet
+d'un recours en matière de droit public devant le Tribunal fédéral au sens des art. 82
+ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral; RS 173.110). Ce recours doit être
+déposé devant le Tribunal fédéral dans les trente jours qui suivent la présente
+notification (art. 100 al. 1 LTF).
+Le greffier :
