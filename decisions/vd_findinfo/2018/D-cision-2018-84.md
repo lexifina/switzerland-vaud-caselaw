@@ -1,0 +1,280 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___84"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 84"
+decided: "2018-01-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6479093"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-065.md", "switzerland/bund/acts/312.0/art-134.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 84
+
+## Regeste
+
+DÉFENSE D'OFFICE, RÉVOCATION{EN GÉNÉRAL}, MODIFICATION{EN GÉNÉRAL}, PRINCIPE DE LA BONNE FOI | 134 al. 2 CPP (CH), 3 al. 2 let. a CPP (CH), 393 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.01.2018 Décision / 2018 / 84
+
+DÉFENSE D'OFFICE, RÉVOCATION{EN GÉNÉRAL}, MODIFICATION{EN GÉNÉRAL}, PRINCIPE DE LA BONNE FOI | 134 al. 2 CPP (CH), 3 al. 2 let. a CPP (CH), 393 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+58
+PE17.001616-VPT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 janvier 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffier
+:              M.
+Addor
+*****
+Art.
+134, 393 al. 1 let. b CPP
+Statuant sur le recours interjeté le 22 décembre 2017 par
+E.________
+contre le prononcé rendu le 13 décembre 2017 par le Tribunal de police de l’arrondissement
+de La Broye et du Nord vaudois dans la cause
+n° PE17.001616-VPT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par ordonnance pénale du 24 février 2017, le Ministère public de l’arrondissement
+du Nord vaudois a condamné E.________, pour calomnie, à une peine pécuniaire de 100 jours-amende
+à 30 fr. le jour et a mis les frais de procédure à sa charge.
+Le 13 juin 2017, à la suite de l’opposition formée par E.________, le Ministère
+public a décidé de maintenir son ordonnance pénale et a transmis le dossier au Tribunal
+de police de l’arrondissement de La Broye et du Nord vaudois en vue des débats.
+b)
+Par arrêt du 16 octobre 2017, la Chambre des recours pénale a réformé un prononcé
+rendu le 28 septembre 2017 par le Tribunal de police de l’arrondissement de La Broye et du Nord
+vaudois en ce sens que l’avocat Z.________ est désigné en qualité de défenseur
+d’office de E.________.
+c)
+Lors de l’audience qui s’est tenue le 27 novembre 2017 devant le Tribunal de police de l’arrondissement
+de La Broye et du Nord vaudois, E.________ a demandé à son défenseur d’office de
+remplir « une demande de transparence » établie par ses soins et d’indiquer
+son appartenance ou non à diverses « sociétés secrètes » (P.
+49/4). L’avocat a refusé d’accéder à cette requête.
+d)
+Par jugement du 28 novembre 2017, le Tribunal de police de l’arrondissement de La Boye et du Nord
+vaudois a condamné E.________, pour calomnie, à une peine pécuniaire de 100 jours-amende
+à 30 fr. le jour et a mis les frais de procédure à sa charge.
+E.________ a fait appel de ce jugement.
+B.
+a)
+Le 1
+er
+décembre 2017, l’avocat Z.________ a demandé à être relevé de sa mission
+de défenseur d’office de E.________.
+b)
+Par prononcé du 13 décembre 2017, le Tribunal de police de l’arrondissement de La Boye
+et du Nord vaudois a refusé de faire droit à cette requête, considérant en substance
+que la poursuite du mandat pouvait raisonnablement être exigée du défenseur d’office
+et que la seule la volonté du prévenu de ne plus être défendu par celui-ci ne justifiait
+pas qu’il soit relevé de son mandat.
+C.
+Par acte du 22 décembre 2017, E.________, représenté par son défenseur d’office,
+l’avocat Z.________, a interjeté recours devant la Chambre des recours pénale contre
+ce prononcé, en concluant à sa réforme en ce sens que le mandat de ce dernier soit révoqué.
+Par écriture du 23 décembre 2017 adressée à la Chambre des recours pénale, E.________,
+agissant personnellement, réitéré son recours.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+L’écriture déposée personnellement
+par E.________ le 23 décembre 2017, soit en temps utile, doit être considérée comme
+un complément au recours qu’il a formé par l’intermédiaire de son défenseur
+d’office contre le prononcé du 13 décembre 2017. Il convient ainsi de les traiter ensemble,
+comme ne formant qu’un seul recours.
+1.2
+Aux termes de l'art. 393 al. 1 let. b CPP, le recours est recevable contre les ordonnances, les décisions
+et les actes de procédure des tribunaux de première instance, « sauf contre ceux
+de la direction de la procédure » (en allemand: «
+ausgenommen
+sind verfahrensleitende Entscheide
+» ;
+en italien : «
+sono
+eccettuate le decisioni ordinatorie
+»).
+Cette disposition doit être lue en corrélation avec l'art. 65 al. 1 CPP, aux termes duquel
+« les ordonnances rendues par les tribunaux » (en allemand : «
+verfahrensleitende
+Anordnungen der Gerichte
+» ;
+en italien : «
+le
+disposizioni ordinatorie del giudice
+»)
+ne peuvent être attaquées qu'avec la décision finale. Les décisions contre lesquelles
+un recours immédiat est exclu selon les art. 65 al. 1 et 393 al. 1 let. b in fine CPP concernent,
+malgré la formulation trompeuse de la version française, non pas celles prises par la direction
+de la procédure, mais celles relatives à la marche de la procédure (Piquerez/Macaluso,
+Procédure pénale suisse, 3
+e
+éd., Genève/Zurich/Bâle 2011, n. 1969). Il s'agit en particulier de toutes les décisions
+qu'exigent l'avancement et le déroulement de la procédure avant ou pendant les débats
+(ATF 138 IV 193 consid. 4.3.1 ; CREP 11 mars 2016/172, JdT 2016 III 63 ; CREP 23 décembre
+2015/863 consid. 1.1).
+Selon la jurisprudence, ces décisions peuvent toutefois faire l’objet d’un recours selon
+le CPP lorsqu’elles sont susceptibles de causer un préjudice irréparable (ATF 140 IV
+202 consid. 2.1 in fine, SJ 2015 I 73 ; CREP 11 mars 2016/172, JdT 2016 III 63). Constitue un préjudice
+irréparable un dommage de nature juridique qui ne puisse pas être réparé ultérieurement
+par un jugement final ou une autre décision favorable au recourant (TF_6B 805/2014 du 20 octobre
+2014 ; ATF 137 IV 172 consid. 2.1 ; CREP 31 juillet 2015/513 consid. 2.1 ; CREP
+9 juin 2015/383 consid. 1.1).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art. 396
+al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure pénale suisse ;
+RSV 312.01] ; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation
+judiciaire ; RSV 173.01]).
+1.3
+En l’espèce, on peut tout d’abord se demander si l’autorité intimée
+était habilitée à statuer, après avoir rendu le jugement du 28 novembre 2017, sur
+la requête de l’avocat Z.________ du 1
+er
+décembre 2017 tendant à ce qu’il soit relevé de sa mission de défenseur d’office.
+Quoi qu’il en soit, il est douteux que le refus de la direction de la procédure de relever
+l’avocat de sa mission de défenseur d’office, soit de nature à causer un préjudice
+irréparable au recourant (cf. TF 1B_125/2014 du 4 juin 2014 consid. 1.2 et les arrêts cités ;
+CREP 20 mars 2017/177 consid. 1.2 ; CREP 11 mars 2016/172).
+Cette question peut toutefois être laissée indécise, le recours devant de toute manière
+être rejeté pour les motifs exposés ci-après.
+2.
+2.1
+Invoquant une violation de l’art. 134 al.
+2 CPP, E.________ soutient, sans vraiment argumenter son point de vue, que le refus de son défenseur
+d’office de remplir le formulaire qu’il lui avait remis à l’audience, aurait provoqué
+une rupture du lien de confiance. Sous la plume de son défenseur, il fait valoir en substance qu’il
+ne souhaite plus être représenté par son défenseur d’office, si bien que celui-ci
+ne serait désormais plus en mesure d’assumer la mission qui lui a été confiée.
+2.2
+2.2.1
+Selon l'art. 134 al. 2 CPP, la direction de la
+procédure confie la défense d'office à une autre personne si la relation entre le prévenu
+et son défenseur est gravement perturbée ou si une défense efficace n'est plus assurée
+pour d'autres raisons. Cette disposition permet donc de tenir compte d'une détérioration objective
+du rapport de confiance entre le prévenu et son défenseur (ATF 138 IV 161 consid. 2.4,
+JdT 2013 IV 75). Il y a lieu cependant de rappeler que, d'une manière générale, le fait
+de se trouver dans un cas de défense obligatoire ne permet pas d'utiliser les droits conférés
+à la défense d'une façon constitutive d'un abus de droit (ATF 131 I 185 consid. 3.2.3 ;
+TF 1B_161/2017 du 22 juin 2017 consid. 2.1).
+2.2.2
+Le principe de la bonne
+foi, concrétisé à l'
+art. 3 al.
+2 let. a CPP, ne concerne en procédure pénale pas seulement les autorités pénales,
+mais le cas échéant les différentes parties, y compris le prévenu. On déduit
+en particulier de ce principe l'interdiction des comportements contradictoires (cf. ATF 131 I 85 c. 3.2.4 ;
+TF 6B_214/2011 du 13 septembre 2011 c. 4.1.3) et
+de
+l'abus de droit, qui consiste à utiliser une institution juridique à des fins étrangères
+au but même de la disposition légale qui la consacre de telle sorte que l'écart entre
+le droit exercé et l'intérêt qu'il est censé protégé soit manifeste (ATF 125
+IV 79 et les références citées ; JdT 2015 III 253 consid. 2.2.3).
+2.3
+En l’espèce, la rupture de la relation de confiance résulterait, selon E.________, du
+refus de son défenseur d’office d’attester, en signant le formulaire qu’il lui
+avait remis à l’audience, qu’il n’avait aucun lien avec différentes « sociétés
+secrètes ». Or le défenseur d’office n’avait aucune obligation de donner
+suite à une telle requête et son refus d’y consentir ne permet nullement de considérer
+que la relation de confiance entre lui et le prévenu serait gravement perturbée ou qu’une
+défense efficace ne pourrait plus être assurée pour d’autres motifs. A ce sujet,
+le prévenu n’allègue aucune circonstance qui suggérerait que l’avocat aurait
+gravement manqué aux devoirs imposés par sa fonction (TF 1B_187/2013 du 4 juillet 2013 consid.
+2.2, SJ 2014 I 205). La démarche du prévenu apparaît ainsi clairement comme étant
+contraire au principe de la bonne foi en procédure. Le simple souhait exprimé par le prévenu
+de ne plus être représenté par le défenseur d’office qui lui a été
+désigné ne suffit pas pour exiger son remplacement (ATF 138 IV 161 consid. 2.4, JdT 2013 IV
+75). Cela est d’autant plus vrai lorsque, comme dans le cas présent, le prévenu entrave
+lui-même, par son comportement déraisonnable, l’accomplissement du mandat du défenseur
+d’office.
+Au vu de ce qui précède, c’est à bon droit que l’autorité intimée
+a refusé de relever l’avocat Z.________ de son mandat de défenseur d’office de
+E.________.
+Pour le surplus, et dans la mesure où E.________ dénonce la présidente [...] « et
+ces complices » pour diverses infractions, il lui appartient, le cas échéant, de
+déposer plainte pénale auprès du Procureur général.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté dans la mesure
+où il est recevable (consid. 1.3 supra), sans autre échange d’écritures (art. 390
+al. 2 CPP), et le prononcé attaqué confirmé.
+Les frais de la présente procédure, constitués en l’espèce de l’émolument
+d’arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), et des frais
+imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à
+540 fr., plus la TVA par 43 fr. 20, soit un total de 583 fr. 20, seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité
+allouée au défenseur d’office du recourant ne sera exigible que pour autant que la situation
+économique de ce dernier le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+Le prononcé du 13 décembre 2017 est confirmé.
+III.
+L’indemnité allouée au défenseur
+d’office de E.________ est fixée à 583 fr. 20 (cinq cent huitante-trois francs et vingt
+centimes).
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), ainsi que l’indemnité
+allouée au défenseur d’office de E.________, par 583 fr. 20 (cinq cent huitante-trois
+francs et vingt centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation économique de E.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Z.________, avocat (pour E.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement du Nord vaudois,
+-
+Mme la Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
