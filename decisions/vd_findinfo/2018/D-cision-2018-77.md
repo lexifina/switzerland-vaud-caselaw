@@ -1,0 +1,299 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___77"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 77"
+decided: "2018-01-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6459869"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-222.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 77
+
+## Regeste
+
+RISQUE DE FUITE, RISQUE DE COLLUSION, MESURE DE SUBSTITUTION À LA DÉTENTION | 221 al. 1 let. a CPP (CH), 221 al. 1 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.01.2018 Décision / 2018 / 77
+
+RISQUE DE FUITE, RISQUE DE COLLUSION, MESURE DE SUBSTITUTION À LA DÉTENTION | 221 al. 1 let. a CPP (CH), 221 al. 1 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+59
+PE17.023952-SDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 janvier 2018
+__________________
+Composition
+:               M.
+M E Y L A N, président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+221 al. 1 let. a et b CPP
+Statuant sur le recours interjeté le 24 janvier 2018 par
+Z.________
+contre l’ordonnance rendue le 19 janvier 2018 par le Tribunal des mesures de contrainte dans la
+cause
+n° PE17.023952-SDE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+Procureur cantonal Strada diligente une instruction pénale contre Z.________, ressortissant italien,
+né en 1982, pour infraction grave à la LStup (Loi fédérale sur les stupéfiants;
+RS 812.121).
+b)
+Le
+prévenu a été interpellé le 12 décembre 2017 et il est détenu sans discontinuer
+depuis lors. Il lui est d’abord reproché d’avoir, entre le 12 décembre 2014 (les
+faits antérieurs étant prescrits) et le jour de son interpellation, massivement consommé
+diverses drogues, dont de la cocaïne. Ensuite et surtout, il lui est fait grief de s’être
+livré à un important trafic de cocaïne, tenu pour perpétré à Lausanne entre
+décembre 2016 à tout le moins et le jour de son interpellation. Il aurait ainsi reçu d’un
+tiers surnommé « Salvat » une quantité totale de 1'350 g de cocaïne.
+La drogue aurait été livrée en quatre lots distincts. Une partie en aurait été
+revendue et l’autre aurait été consommée par le prévenu personnellement. Lors
+de la perquisition du domicile du prévenu, ont en particulier été retrouvés un emballage
+entamé de 670 g bruts de cocaïne, en plus de 5,2 g bruts et un « parachute »
+de cette même drogue, ainsi que 110 comprimés d’ « ecstasy »,
+38,7 g de haschisch, 3,4 g de kétamine, une balance électronique, un pistolet d’alarme
+et 28'740 fr. en espèces.
+Le prévenu a reconnu une partie des faits incriminés. Il a en particulier avoué avoir
+commis certains des actes en cause dans l’établissement nocturne qu’il gérait alors,
+ce local servant de point de rencontre à diverses personnes pouvant avoir été impliquées
+dans le trafic incriminé. Les données extraites de son téléphone cellulaire sont
+en cours d’analyse. Il en va de même de divers documents bancaires. Des investigations sont
+aussi en cours auprès de plusieurs instituts de transfert d’argent pouvant avoir été
+impliqués dans les flux financiers de l’intéressé.
+c)
+Par ordonnance du 14 décembre 2017, retenant
+l’existence de risques de fuite et de collusion, le Tribunal des mesures de contrainte a ordonné
+la détention provisoire du prévenu (I), a fixé la durée maximale de la détention
+provisoire à trois mois, soit au plus tard jusqu’au 12 mars 2018 (II), et a dit que les frais
+de la décision suivaient le sort de la cause (III).
+B.
+a)
+Le
+11 janvier 2018, le prévenu a requis du Tribunal des mesures de contrainte la levée immédiate
+de sa détention provisoire. Subsidiairement, il a demandé que son élargissement soit assorti
+de diverses mesures de substitution.
+Le 12 janvier 2018, le Ministère public a conclu au rejet de la demande de libération.
+b)
+Le
+prévenu a été entendu par la Présidente du Tribunal des mesures de contrainte le
+19 janvier 2018. Il a confirmé ses conclusions et étayé plus avant ses moyens.
+c)
+Par ordonnance du 19 janvier 2018, le Tribunal
+des mesures de contrainte a rejeté la demande de libération de la détention provisoire
+du prévenu (I) et a dit que les frais de la décision suivaient le sort de la cause (II).
+C.
+Par acte du 24 janvier 2018, Z.________, représenté
+par son défenseur d’office, a recouru auprès de la Chambre des recours pénale contre
+cette ordonnance, en concluant, sous suite de frais et dépens, à sa réforme, principalement
+en ce sens que sa libération immédiate est ordonnée, subsidiairement en ce sens que la
+levée immédiate de sa détention provisoire est assortie de mesures de substitution sous
+la forme du dépôt de l’ensemble de ses documents de voyage (passeport et permis C) au
+greffe du Ministère public, de l’obligation de se présenter à intervalles réguliers
+auprès d’un poste de police, de l’obligation de porter un instrument de surveillance
+électronique, du dépôt d’une caution sous la forme d’une cession, à l’Etat,
+à titre fiduciaire, du produit de l’exploitation de l’établissement nocturne géré
+par le prévenu et d’une stricte obligation d’abstinence de tous produits stupéfiants
+avec tests urinaires ou sanguins. Plus subsidiairement, il a conclu à l’annulation de l’ordonnance,
+la cause étant retournée au Tribunal des mesures de contrainte pour nouvelle instruction et
+nouvelle décision, dans le sens des considérants.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. c CPP
+(Code de procédure pénale suisse du 5 octobre 2007; RS 312.0), le recours est recevable contre
+les décisions du Tribunal des mesures de contrainte dans les cas prévus par le code. L’art.
+222 CPP, qui prévoit que le détenu peut attaquer devant l’autorité de recours les
+décisions ordonnant une mise en détention provisoire ou une mise en détention pour des
+motifs de sûreté, ou encore la prolongation ou le terme de cette détention, autorise également
+le détenu, malgré une formulation peu claire, à attaquer devant l’autorité
+de recours une décision refusant la libération de la détention (CREP 18 octobre 2017/ 708;
+CREP 12 février 2015/111; CREP 7 février 2011/14 et les références citées).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art.
+396 al. 1 CPP) qui, dans le canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure pénale
+suisse; RSV 312.01]; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation judiciaire;
+RSV 173.01]).
+2.
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c). En outre, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave (art. 221 al. 2 CPP). La détention provisoire et la détention pour des motifs
+de sûreté ne doivent pas durer plus longtemps que la peine privative de liberté prévisible
+(art. 212 al. 3 CPP).
+3.
+3.1
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (ATF 139 IV 186 consid. 2; Schmocker,
+in
+:
+Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+nn. 7 ss ad art. 221 CPP).
+3.2
+Le Tribunal des mesures de contrainte a retenu
+que le dossier comportait des éléments suffisants pour établir de forts soupçons
+que le prévenu aurait commis des infractions pénales.
+Tel est bien le cas au vu des aveux, même partiels, du prévenu, ainsi que du résultat
+de la perquisition au domicile de l’intéressé, qui est, en l’état, suffisamment
+révélateur des activités illégales du recourant. A cela s’ajoute la photographie
+retrouvée dans le téléphone cellulaire du recourant, montrant l’une des employées
+de son établissement nocturne brandissant un « pain » de cocaïne dans un lieu
+qui semble être le débit de boissons en question. Il existe donc à l'encontre du prévenu
+de graves soupçons de culpabilité d’avoir commis des crimes ou des délits à
+la LStup.
+3.3
+Le recourant conteste tout risque de collusion,
+de fuite ou de réitération. L'autorité inférieure retient que l'intéressé
+présente des risques de fuite et de collusion qu’aucune mesure de substitution ne saurait
+juguler en l’état.
+Il apparaît en l’état que le prévenu avait divers fournisseurs et acheteurs. L’enquête
+n’est pas limitée au prévenu. Il s’agit également de déterminer quels
+étaient les autres personnes impliquées dans le réseau en question, s’agissant notamment
+de l’individu surnommé « Salvat ». Ces personnes demeurent inconnues au stade actuel
+des investigations. Nombre d’entre elles fréquentaient apparemment l’établissement
+géré par le recourant et sont donc connues de lui. L’enquête, apparemment complexe,
+nécessite aussi l’analyse des données extraites du téléphone cellulaire du
+prévenu. De même, les flux financiers du réseau devront être mis à jour. Ces
+investigations sont en cours. Dans ces conditions, il est fortement à craindre que l’intéressé
+compromette la recherche de la vérité en exerçant une influence sur des personnes ou en
+altérant des moyens de preuve. Dès lors, le risque de collusion s'oppose, en l’état,
+à la levée de la détention provisoire du recourant.
+3.4
+Les conditions de l’art. 221 al. 1 CPP étant alternatives, l'existence d’un risque de
+collusion dispense d’examiner si, comme le retient le Tribunal des mesures de contrainte, la détention
+provisoire s’impose également en raison d’un risque de fuite (CREP 21 avril 2015/260
+consid. 3.3 et les références citées; CREP 19 décembre 2017/851 consid. 5 et réf.).
+Avec le premier juge, la Cour relèvera néanmoins que le risque de fuite est aussi avéré.
+En effet, le prévenu pourrait être tenté de se soustraire à la procédure pénale
+en regagnant son pays au bénéfice de la non-extradition des nationaux, ce d’autant que
+sa famille réside en Italie.
+3.5
+Enfin, même si le premier juge a expressément renoncé à examiner le risque de réitération,
+la Cour relèvera néanmoins que ce péril est également avéré. En effet,
+le recourant semble présenter une dépendance massive à la cocaïne, drogue dont il
+aurait consommé dix grammes par jour durant l’année précédant son interpellation.
+Il reconnait avoir un « vrai problème » à cet égard (PV aud. du 19
+janvier 2018, ligne 22). Or, une dépendance aussi massive ne peut être financée au moyen
+des seules ressources légales dont semble disposer le prévenu. L’importante proportion
+de la drogue qu’il paraît avoir consommée personnellement plutôt que de la revendre
+est un argument dans ce sens. S’il devait être libéré, l’intéressé
+pourrait donc être tenté de se livrer à de nouvelles infractions pour assouvir ses besoins.
+4.
+4.1
+Le recourant conclut à titre subsidiaire
+à ce que sa libération soit assortie de diverses mesures de substitution.
+4.2
+En présence de facteurs de mauvais pronostic aussi significatifs, des mesures de substitution, s’agissant
+notamment de celles auxquelles conclut le recourant, ne sauraient pallier l’ensemble des risques
+de collusion, de fuite et de réitération présentés par le prévenu.
+5.
+5.1
+Concernant le respect du principe de la proportionnalité,
+l’art. 212 al. 3 CPP prévoit que la détention provisoire ne doit pas durer plus longtemps
+que la peine privative de liberté prévisible. La proportionnalité de la détention
+provisoire doit être examinée au regard de l’ensemble des circonstances concrètes
+du cas d’espèce (ATF 133 I 168 consid. 4.1 et les arrêts cités). A cet égard,
+il est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle n’est
+pas très proche de la durée de la peine privative de liberté à laquelle il faut s’attendre
+concrètement en cas de condamnation (TF 1B_411/2011 du 31 août 2011 consid. 4.1; ATF 133 I
+168 consid. 4.1; ATF 132 I 21 consid. 4.1).
+5.2
+En l’espèce, le recourant est détenu
+depuis le 12 décembre 2017. Compte tenu de la gravité des faits qui lui sont reprochés,
+il s'expose à une peine d’une durée largement supérieure à celle de la détention
+provisoire subie à ce jour, respectivement à subir jusqu’au 12 mars 2018. Le principe
+de la proportionnalité est donc respecté.
+6.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans autres échanges d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 880 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; RSV 312.03.1]) et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr., plus la TVA par
+41 fr. 60, soit à 581 fr. 60 au total, seront mis à la charge du recourant, qui succombe (art.
+428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 19 janvier 2018 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de Z.________ est fixée à 581 fr. 60 (cinq cent huitante et un francs et soixante
+centimes).
+IV.
+Les frais d’arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité
+due au défenseur d’office de Z.________, par 581 fr. 60 (cinq cent huitante et un francs et
+soixante centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique de Z.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Arnaud Thièry, avocat (pour Z.________),
+-
+Ministère public central;
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure du Ministère public cantonal Strada,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
