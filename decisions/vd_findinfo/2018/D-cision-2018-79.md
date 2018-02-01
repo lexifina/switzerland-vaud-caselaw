@@ -1,0 +1,276 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___79"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 79"
+decided: "2018-02-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6484923"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-144bis.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/641.20/art-018.md"]
+---
+
+# VD Findinfo Décision / 2018 / 79
+
+## Regeste
+
+NON-LIEU, DÉTÉRIORATION DE DONNÉES, ADMISSION DE LA DEMANDE | 144bis CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 01.02.2018 Décision / 2018 / 79
+
+NON-LIEU, DÉTÉRIORATION DE DONNÉES, ADMISSION DE LA DEMANDE | 144bis CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+63
+PE17.013292-SRD
+CHAMBRE
+DES RECOURS PENALE
+__________
+________________________________
+Arrêt du
+1er février 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+M.
+Krieger, juge, et Mme Epard, juge suppléante
+Greffier :
+M.
+Magnin
+*****
+Art.
+310 CPP ; 144
+bis
+CP
+Statuant sur le recours interjeté le 13 octobre 2017 par
+R.________SA
+contre l’ordonnance de non-entrée en matière rendue le 4 octobre 2017 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE17.013292-SRD
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 10 juillet 2017, la société R.________SA a déposé plainte contre son ancien employé
+B.________, licencié le 27 avril 2017 pour le 31 mai 2017, pour détérioration de données.
+Elle lui reproche d’avoir, entre le 5 et le 6 mai 2017, en violation des règles internes de
+la société, complétement vidé sa boîte de messagerie professionnelle ( [...]),
+en y supprimant définitivement l’intégralité des éléments qui s’y
+trouvaient, dans le but de lui nuire. R.________SA expose en outre que B.________ se serait vanté
+d’avoir détruit les éléments précités auprès de certains collègues.
+B.
+Par ordonnance du 4 octobre 2017, le Ministère
+public a refusé d’entrer en matière sur la plainte déposée par R.________SA
+(I) et a laissé les frais à la charge de l’Etat (II).
+La Procureure a considéré qu’il n’y avait pas lieu de déduire de la directive
+interne de l’entreprise R.________SA sur l’utilisation des outils informatiques, d’Internet
+et de la messagerie électronique, ni de diverses autres réglementations internes, une quelconque
+obligation pour l’employé de conserver tous les messages envoyés et/ou reçus au
+cours de son activité dans l’entreprise, ni
+a
+contrario
+une quelconque obligation de les supprimer,
+de sorte que B.________ était libre de supprimer tous les courriels contenus dans sa messagerie.
+Dans ces conditions, le Ministère public a retenu que les éléments constitutifs de l’infraction
+de détérioration de données n’étaient pas réunis et a précisé
+qu’aucune autre infraction pénale ne semblait entrer en considération.
+C.
+Par acte du 13 octobre 2017, R.________SA a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant, sous suite de frais et dépens, à
+son annulation, le Ministère public étant invité à instruire la plainte pénale
+déposée le 10 juillet 2017.
+Par déterminations du 25 janvier 2018, le Ministère public a conclu au rejet du recours.
+Le lendemain, R.________SA a déposé une écriture spontanée.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de non-entrée en matière rendue par le Ministère
+public (art. 310 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0])
+dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322 al. 2 CPP ;
+cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; RSV 312.01] ; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre
+1979 ; RSV 173.01]).
+Interjeté dans le délai légal auprès de l’autorité compétente par
+le plaignant qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+La recourante, invoquant une violation de l’art. 310 CPP, reproche au Ministère public d’avoir
+retenu que B.________ avait licitement détruit l’intégralité du contenu de sa boîte
+de messagerie professionnelle et d’avoir considéré que l’acte commis par ce dernier
+ne remplissait pas les conditions prévues par l’art. 144
+bis
+CP (Code pénal suisse du 21 décembre 1937 ; RS 311.0). Elle estime qu’indépendamment
+de la teneur d’un éventuel règlement du personnel, cet article prohiberait de manière
+générale l’effacement de données. Par ailleurs, la recourante relève que son
+règlement du personnel prévoirait clairement que le contenu de la messagerie professionnelle
+de l’employé était archivé dès le départ et que l’annexe 3 de ce
+règlement rappellerait de manière expresse la teneur de l’art. 144
+bis
+CP.
+2.2
+2.2.1
+Conformément à l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions à l'ouverture
+de l'action pénale ne sont manifestement pas réunis. L'entrée en matière peut encore
+être refusée au terme des investigations policières (art. 306 et 307 CPP) – même
+diligentées à l'initiative du Procureur –, si les conditions de l'art. 310 al. 1 let.
+a CPP sont réunies (TF 1B_183/2012 du 20 novembre 2012 consid. 3).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction, ce qui est le cas lors de litiges purement civils. Une ordonnance de
+non-entrée en matière ne peut être rendue que dans les cas clairs du point de vue des
+faits mais également du droit ; s'il est nécessaire de clarifier l'état de fait ou
+de procéder à une appréciation juridique approfondie, le prononcé d'une ordonnance
+de non-entrée en matière n'entre pas en ligne de compte. En règle générale,
+dans le doute, il convient d'ouvrir une enquête pénale (ATF 137 IV 285 consid. 2.3, JdT 2012
+IV 160 et les références citées). En revanche, le Ministère public doit pouvoir rendre
+une ordonnance de non-entrée en matière dans les cas où il apparaît d’emblée
+qu’aucun acte d’enquête ne pourra apporter la preuve d’une infraction à la
+charge d’une personne déterminée (TF 1B_67/2012 du 29 mai 2012 consid. 3.2).
+2.2.2
+Aux termes de l'art. 144
+bis
+ch. 1 CP, se rend coupable de détérioration de données celui qui, sans droit, aura modifié,
+effacé, ou mis hors d'usage des données enregistrées ou transmises électroniquement
+ou selon un mode similaire.
+On entend par données enregistrées ou transmises électroniquement celles qui sont stockées
+ou transférées par un procédé informatique. Il suffit que la donnée ait un support
+informatique et il importe peu qu'elle soit dans l'appareil ou qu'elle soit conservée séparément
+sur une disquette (Corboz, Les infractions en droit suisse, 3
+e
+éd., vol. I, Berne 2010, n. 2 ad art. 144
+bis
+CP). Le comportement punissable au sens de cette disposition, soit la détérioration, consiste
+à modifier, effacer ou mettre hors d'usage ces données. La donnée est effacée dès
+que l'auteur la fait disparaître du support informatique. Peu importe à cet égard que
+le lésé dispose de la même donnée sur un autre support ou qu'il puisse retrouver
+l'information (Corboz, op. cit., n. 5 ad art. 144
+bis
+CP et les références citées). Enfin, selon cette disposition, l'auteur doit agir sans
+droit, c'est-à-dire sans autorisation légale ou contre la volonté expresse ou présumable
+de l'ayant droit à l'égard de données sur lesquelles il n'a pas de droit de disposition.
+Il n'y a évidemment pas d'illicéité lorsque l'auteur est propriétaire ou locataire
+de la machine et qu'il peut librement disposer des données qu'il stocke (Corboz, op. cit., nn. 7-10
+ad art. 144
+bis
+CP). En outre, l'auteur est punissable non seulement s'il détériore les données d'un tiers
+mais également s'il détériore ses propres données sur lesquelles un tiers a un droit
+d'utilisation ou qui lui ont été confiées (Weissenberger, in : Niggli/Wiprächtiger
+[éd.], Basler Kommentar, Strafrecht II, 3
+e
+éd., Bâle 2013, n. 12 ad art. 144
+bis
+CP). En bref, il doit donc s'agir de données soustraites au droit de disposition de l'auteur ou
+dont ce dernier n'a pas le droit de disposer seul (Corboz, op. cit., n. 8 ad art. 144
+bis
+CP).
+Sur le plan subjectif, l'auteur doit avoir agi intentionnellement (Dupuis et al. [éd.], Petit commentaire,
+Code pénal, 2
+e
+éd., Bâle 2017, n. 26 ad art. 144
+bis
+CP).
+2.3
+Le Ministère public s’est exclusivement fondé sur l’annexe 2 du règlement
+du personnel de l’entreprise R.________SA pour en déduire que B.________ était libre
+de supprimer les courriels contenus dans sa messagerie professionnelle, dès lors qu’il ne
+ressortait pas du chiffre 3.2 de cette annexe une obligation pour l’employé de conserver ou
+de supprimer de telles données. Toutefois, un tel raisonnement ne permet pas d’affirmer que
+les conditions de l’infraction de détérioration de données ne seraient en l’espèce
+pas réalisées.
+En l’occurrence, il n’est pas nécessaire que le prévenu ait transgressé une
+disposition interne expresse de son employeur pour se voir reprocher d’avoir détruit sans
+droit des données de sa messagerie professionnelle. L’auteur de l’infraction considérée
+agit sans droit lorsqu’il agit sans autorisation légale ou contre la volonté expresse
+de l’ayant droit, mais aussi lorsqu’il agit contre la volonté présumable de celui-ci.
+Or, il paraît ressortir des règlements internes de la recourante qu’elle souhaitait à
+tout le moins conserver le contenu du poste de travail de ses employés, respectivement de la messagerie
+professionnelle de ceux-ci. En effet, le chiffre 18.12 du règlement du personnel de R.________SA
+prévoit par exemple que le collaborateur est tenu d’enregistrer l’ensemble des documents
+informatiques de son poste de travail sur des supports sauvegardés de manière régulière
+par le système de sauvegarde. En outre, le chiffre 2.2.7 de l’annexe 2 de ce règlement
+précise que le collaborateur stocke ses données sur les serveurs prévus à cet effet.
+Enfin, le chiffre 3.2 de cette annexe indique en substance que les messages professionnels seront archivés
+par l’entreprise lors du départ de l’employé. Dans ces conditions, on ne saurait
+exclure, à ce stade et sans avoir instruit plus avant la plainte déposée contre B.________,
+que celui-ci n’a pas agi illicitement. Au surplus, on relève que l’annexe 3 du règlement
+du personnel de la société fait expressément mention de la disposition légale de
+l’art. 144
+bis
+CP, dont il faudra examiner les conditions d’application.
+Par ailleurs, dans sa plainte, la recourante expose que B.________ se serait vanté auprès de
+certains collègues d’avoir détruit les éléments de sa messagerie professionnelle.
+Ainsi, force est d’admettre qu’il existe des indices permettant de soupçonner le prénommé
+d’avoir sciemment détérioré des données informatiques au préjudice de
+la recourante.
+Partant, c’est à tort que le Ministère public a rendu une ordonnance de non-entrée
+en matière. Il lui appartiendra donc d’ouvrir une instruction pénale afin de déterminer
+si B.________ a pu se rendre coupable d’une infraction pénale.
+3.
+En définitive, le recours doit être admis. L’ordonnance de non-entrée en matière
+du 4 octobre 2017 doit être annulée et le dossier de la cause renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt,
+par 770 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront laissés à la
+charge de l’Etat (art. 423 al. 1 CPP).
+La recourante, qui a procédé avec l’assistance d’un avocat de choix et qui a obtenu
+gain de cause, a droit à une indemnité pour les dépenses occasionnées par la procédure
+de recours (art. 436 al. 1 et 433 al. 1 CPP). Au vu des écritures produites, cette indemnité
+sera fixée à 600 fr. (2 heures à 300 fr.), plus un montant correspondant à la
+TVA – étant rappelé que si les indemnités au sens des art. 429 ss CPP ne sont pas
+soumises à la TVA (art. 18 al. 2 let. i LTVA [Loi fédérale régissant la taxe sur
+la valeur ajoutée du 12 juin 2009 ; RS 641.20), il convient de tenir compte du fait que les
+honoraires payés par la partie à son avocat sont quant à eux soumis à la TVA (CREP
+1
+er
+mars 2017/904) –, par 48 fr., soit à 648 fr. au total. Elle sera laissée à
+la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 4 octobre 2017 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), sont laissés à la charge
+de l’Etat.
+V.
+Une indemnité de 648 fr. (six cent quarante-huit francs) est allouée à R.________SA pour
+les dépenses occasionnées par la procédure de recours, à la charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jean-Yves Schmidhauser, avocat (pour R.________SA),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure itinérante pour l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
