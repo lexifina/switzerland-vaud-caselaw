@@ -1,0 +1,144 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2018___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2018 / 4"
+decided: "2018-02-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20180131101746815_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2018 / 4
+
+## Regeste
+
+RÉCUSATION, ASSESSEUR, ADMISSION DE LA DEMANDE | 47 al. 1 let. a CPC (CH), 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 02.02.2018 Réc-civile / 2018 / 4
+
+RÉCUSATION, ASSESSEUR, ADMISSION DE LA DEMANDE | 47 al. 1 let. a CPC (CH), 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+4
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 2 février 2018
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              Mme
+Revey et M. Hack, juges
+Greffier
+:              M.
+Magnin
+*****
+Art.
+47 al. 1 let. a et f et 48 CPC ; 8a al. 3 et 8b al. 4 CDPJ
+Vu la requête de mainlevée d’opposition déposée le 23 octobre 2017 par
+H.________
+à l’encontre de
+J.________
+,
+vu le courrier du 25 janvier 2018, par lequel le Premier juge de paix du district [...] a requis spontanément
+la récusation en corps de son office, au motif que R.________, unique associé gérant avec
+signature individuelle de la société J.________, exerçait la fonction de juge assesseur
+au sein dudit office,
+vu les pièces au dossier ;
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+du 25 janvier 2018 en vertu des art. 8a al. 3 CDPJ (Code de droit privé judiciaire vaudois du 12
+janvier 2010 ; RSV 211.02) et 6 al. 1 let. a ROTC (Règlement organique du Tribunal cantonal
+du 13 novembre 2007 ; RSV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable ;
+attendu qu’en vertu de l’art. 47 al. 1 let. a et f CPC (Code de procédure civile suisse
+du 19 décembre 2008 ; RS 272), les magistrats et les fonctionnaires judiciaires se récusent
+lorsqu'ils pourraient être prévenus, notamment s’ils ont un intérêt personnel
+dans la cause ou en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que,
+selon l’art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état en
+temps utile d’un motif de récusation possible et se récuse lorsqu’il considère
+que ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 §
+1 CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre
+1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid.
+2.1 ; ATF 138 I 1 consid. 2.2 et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid. 2.1),
+qu’en l’espèce R.________, qui est l’unique associé gérant avec signature
+individuelle de la société intimée à la procédure introduite devant la Justice
+de paix [...], exerce la fonction de juge assesseur au sein de cette autorité,
+que cette fonction implique des contacts réguliers et professionnels avec les autres membres de
+cette juridiction aux côtés desquels il est amené à siéger et à collaborer,
+qu'il est dès lors possible qu'un rapport d'amitié ou d'inimitié ait pu naître des
+relations professionnelles entre R.________ et les autres magistrats composant cet office (CA 27 novembre
+2017/45 ; CA 3 juillet 2015/21),
+qu'il pourrait ainsi résulter de ces relations une apparence de prévention, du moins aux yeux
+de la partie adverse et des tiers,
+que, par ailleurs, R.________ est lui-même investi d'un pouvoir décisionnel dans le cadre de
+sa fonction,
+qu'afin de garantir l'impartialité de l'autorité appelée à traiter la requête
+de mainlevée formée par H.________ contre la société J.________, représentée
+par R.________, la demande de récusation présentée par le Premier juge de paix [...] doit
+être admise,
+que, dans un tel cas, la cause doit être déléguée à une autre juridiction ayant
+les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'il convient dès lors de désigner la Justice de paix du [...] ;
+attendu que le présent arrêt doit être rendu sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 25 janvier 2018 par le Premier juge de paix du [...]
+est admise.
+II.
+La cause est transmise, dans l’état où elle se trouve, à la Justice de paix du district
+[...].
+III.
+L’arrêt est rendu sans frais ni dépens.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+-
+H.________,
+-
+J.________,
+-
+M. le Premier juge de paix du [...].
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Première juge de paix du district de [...], avec le dossier.
+Le greffier :
