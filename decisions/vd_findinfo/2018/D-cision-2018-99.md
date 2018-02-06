@@ -1,0 +1,286 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___99"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 99"
+decided: "2018-02-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6474579"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-076.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-381.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-021.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2018 / 99
+
+## Regeste
+
+TRANSFERT{EN GÉNÉRAL}, EXÉCUTION DES PEINES ET DES MESURES, REJET DE LA DEMANDE | 64 al. 1 CP, 64 al. 4 CP, 21 al. 3 let. a LEP, 38 al. 1 LEP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.02.2018 Décision / 2018 / 99
+
+TRANSFERT{EN GÉNÉRAL}, EXÉCUTION DES PEINES ET DES MESURES, REJET DE LA DEMANDE | 64 al. 1 CP, 64 al. 4 CP, 21 al. 3 let. a LEP, 38 al. 1 LEP
+
+TRIBUNAL
+CANTONAL
+87
+OEP/MES/743779/AVI/SMS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+6 février 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+M.
+Krieger et Mme Byrde, juges
+Greffier
+:              M.
+Petit
+*****
+Art.
+64 al. 4 CP ; 21 al. 3 let. a, 38 al. 1 LEP
+Statuant sur le recours interjeté le 8 janvier 2018 par
+O.________
+contre la décision rendue le 21 décembre 2017 par l’Office d’exécution des
+peines dans la cause
+n° OEP/MES/743779/AVI/SMS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 11 décembre 2006, le Tribunal criminel de l'arrondissement de Lausanne a notamment
+condamné O.________ à une peine de quatorze ans de réclusion, sous déduction de sept
+cent quarante-neuf jours de détention préventive, pour crime manqué d'assassinat, actes
+préparatoires à assassinat, induction de la justice en erreur et infraction à la loi fédérale
+sur les armes, les accessoires d'armes et les munitions, a suspendu l'exécution de la peine et ordonné
+l'internement de l’intéressé au sens de l'art. 43 ch. 1 al. 2 aCP (Code pénal suisse
+du 21 décembre 1937; RS 311.0).
+Par arrêt du 29 mars 2007, la Cour de cassation pénale du Tribunal cantonal a rejeté le
+recours d’O.________ contre le jugement précité et, rectifiant d’office celui-ci,
+a notamment ordonné l’internement de l’intéressé en application de l'art.
+64 al. 1 CP.
+L’internement d’O.________ a été ordonné sur la base d’un rapport d’expertise
+psychiatrique du 8 juillet 2005 et de son complément du 15 novembre 2005. Les experts ont retenu
+le diagnostic de trouble schizotypique chez une personnalité à traits dyssociaux, ce trouble
+n'entravant cependant pas la capacité de l’intéressé d'apprécier le caractère
+illicite de ses actes et de se déterminer par rapport à cette appréciation. Retenant que
+l’expertisé présentait un risque de récidive important, les experts avaient recommandé
+une mesure d'internement.
+b)
+O.________ a d’abord été incarcéré à la Prison du Bois-Mermet à Lausanne
+du 28 août 2006 au 9 octobre 2007. Il a ensuite a intégré l’Unité psychiatrique
+des Etablissements de la plaine de l'Orbe (ci-après : EPO) du 9 octobre 2007 au 11 mai 2016.
+c)
+En décembre 2013, lors de l'examen de la libération conditionnelle, le Tribunal criminel d'arrondissement
+de Lausanne a ordonné une nouvelle expertise psychiatrique d’O.________. Dans son rapport
+du 10 juin 2014, l’expert a préconisé un placement dans un établissement d'exécution
+des mesures présentant des conditions suffisantes de sécurité, donnant l’exemple
+de l’Etablissement pénitentiaire fermé Curabilis (ci-après : Curabilis), à
+Puplinge.
+d)
+Lors de la rencontre interdisciplinaire du 12 janvier 2016 aux EPO, le Service de médecine et psychiatrie
+pénitentiaires (ci-après : SMPP) a indiqué qu'il serait profitable pour O.________
+d'être admis au sein de Curabilis, cet établissement proposant une prise en charge au niveau
+des soins plus intensive que celle possible aux EPO. Le SMPP a par ailleurs relevé que l’intéressé
+n'avait jamais pu être transféré en secteur responsabilisation des EPO, ce changement
+s'étant révélé trop stressant.
+e)
+Par décision du 25 avril 2016, l’Office d’exécution des peines (ci-après :
+OEP) a ordonné le transfert d’O.________ au sein de Curabilis dès le 11 mai 2016. L’intéressé
+y a intégré l’Unité de mesures 1 (ci-après : UM 1).
+f)
+Dans un rapport d’évaluation criminologique adressé le 31 août 2017 à l’OEP,
+le Service de probation et d'insertion a indiqué que la prise en charge d’O.________ à
+Curabilis semblait essentielle et devait se poursuivre, soulignant que la compréhension actuelle
+du mode de fonctionnement de l’intéressé permettait de guider cette prise en charge et
+d'éviter une récidive en détention.
+B.
+a)
+Par courrier du 12 septembre 2017, O.________ a sollicité son transfert au sein des EPO, alléguant
+notamment qu’il rencontrait de « nombreuses difficultés » à Curabilis,
+tant avec le personnel qu’avec ses co-détenus, que cet établissement « ne p[ouvait]
+plus rien [lui] apporter », qu’un retour aux EPO lui semblait « une idée
+pour changer d’air », et enfin que « [s]es nerfs [étaient] mis à
+rude épreuve ».
+Dans un rapport du 30 octobre 2017 adressé à la Commission interdisciplinaire consultative
+concernant les délinquants dangereux (ci-après : CIC), le Service des mesures institutionnelles
+(ci-après : SMI) de Curabilis a notamment relevé que, malgré une évolution considérée
+par O.________ comme favorable, ce dernier souhaitait être transféré aux EPO, la prise
+en charge à Curabilis lui demandant trop d'effort au quotidien. Sur le plan médical, le SMI
+a toutefois préconisé la poursuite à Curabilis d’un travail thérapeutique incluant
+les interventions pharmacologiques mais aussi et surtout l'exposition à la vie communautaire.
+Par courrier du 8 novembre 2017 à l’OEP, la Direction de Curabilis a préavisé favorablement
+à la demande de transfert aux EPO. Elle a relevé cependant qu'il lui semblait évident
+qu’O.________ devrait être ultérieurement admis à nouveau à Curabilis afin
+de poursuivre le travail thérapeutique initié.
+Dans sa séance des 13 et 14 novembre 2017
+retranscrite dans un
+avis
+du 21 novembre 2017, la CIC a considéré qu'au vu du parcours carcéral d’O.________,
+l'aménagement offert à l’intéressé à Curabilis permettait d'entrevoir
+quelques modestes perspectives de réassurance et d'émancipation encou-rageantes. La CIC a dès
+lors souscrit au maintien dans la durée du cadre de prise en charge au sein de l’établissement
+précité.
+b)
+Par décision du 21 décembre 2017,
+l’OEP a refusé le transfert d’O.________ aux EPO.
+Se fondant notamment sur le rapport du 31 août 2017 du Service de probation et d'insertion et sur
+l’avis de la CIC du 21 novembre 2017, l’OEP a considéré que le maintien du cadre
+actuel gardait tout son sens afin de permettre la consolidation de l’évolution de l’intéressé.
+L’OEP a en outre souligné que le dossier de l’intéressé serait transmis au
+début de l'année 2018 au Tribunal criminel d'arrondissement de Lausanne au vu de la fin de
+sa peine privative de liberté le 23 novembre 2018, afin d'apprécier dans quelle mesure l'internement
+ordonné devait être confirmé ou une éventuelle mesure thérapeutique institutionnelle
+prononcée. Un retour aux EPO pouvait dès lors mettre en péril l'évolution encourageante
+de l’intéressé, et cela dans l'attente de l'issue de la prochaine décision judiciaire.
+L’OEP a indiqué pour le surplus qu’une
+nouvelle rencontre interdisciplinaire aurait lieu à Curabilis le 1
+er
+juin 2018 afin d'apprécier l'évolution d’O.________ et la pertinence du maintien de son
+placement à Curabilis.
+C.
+Par acte du 8 janvier 2018, O.________ a recouru
+contre cette décision auprès de la Chambre des recours pénale du Tribunal cantonal, concluant
+à sa réforme en ce sens qu’il soit transféré aux EPO. Subsidiairement, il a
+conclu à son annulation. Il a en outre requis l'octroi de l'assistance judiciaire gratuite pour
+la procédure de recours, et la désignation de Me Gloria Capt comme conseil juridique gratuit.
+Par déterminations du 5 février 2018, l’OEP a conclu au rejet du recours.
+En droit
+:
+1.
+1.1
+En vertu de l’art. 38 al. 1 LEP (Loi sur
+l'exécution des condamnations pénales du 4 juillet 2006 ; RSV 340.01), les décisions
+rendues par l’Office d’exé­cution des peines peuvent faire l'objet d'un recours
+auprès du Tribunal cantonal. Selon l’art. 38 al. 2 LEP, la procédure est régie par
+les dispositions prévues aux
+art. 393
+ss CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0). Le recours doit
+ainsi être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours
+(art. 396 al. 1 CPP) qui, dans le canton de Vaud, est la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; RSV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12
+décembre 1979 ; RSV 173.01]).
+1.2
+En l’espèce, le recours a été interjeté en temps utile, auprès de l’auto­rité
+compétente, par une partie ayant qualité pour recourir (art. 381 al. 1 CPP). Conforme aux exigences
+de forme prescrites par l’art. 385 al. 1 CPP, il est recevable.
+2.
+2.1
+Se fondant en particulier sur le préavis
+du 8 novembre 2017 de la Direction de Curabilis, le recourant sollicite son transfert aux EPO. Il affirme
+que son état psychologique irait en se péjorant depuis la fin de l’année 2016, avec
+une réactivation de la fréquence soutenue de ses fantasmes de violence. Il allègue qu’il
+ne serait pas accessible au traitement consistant à l’exposer à la vie communautaire,
+lequel provoquerait chez lui stress et anxiété. Il préfèrerait dès lors se trouver
+dans un cadre où il serait plus isolé, ce qui serait le cas aux EPO.
+2.2
+Aux termes de l’art. 64 al. 4 CP, l’internement
+est exécuté dans un établissement d’exécution des mesures ou dans un établissement
+prévu à l’art. 76 al. 2 CP. La sécurité publique doit être garantie. L’auteur
+est soumis, si besoin est, à une prise en charge psychiatrique.
+Le choix du lieu d’exécution constitue une modalité d’exécution de la mesure,
+qui relève de la compétence de l’autorité d’exécution (TF 6B_629/2009
+du 21 décembre 2009 consid. 1.2.2.2; CREP 21 juillet 2017/477). Selon l’art. 21 al. 3
+let.
+a LEP, c’est à l’OEP que revient la compétence, lorsqu’un condamné a
+fait l’objet d’un internement, de désigner l'établissement dans lequel la personne
+condamnée sera placée et d’ordonner cas échéant une prise en charge psychiatrique.
+2.3
+En l’occurrence, tant les conclusions du rapport du 31 août 2017 du Service de probation et
+d'insertion, que le réseau interdisciplinaire qui s’est tenu les 13 et 14 novembre 2017, et
+dont les observations ont été retranscrites dans un
+avis
+du 21 novembre 2017,
+préconisent le maintien
+du cadre actuel afin de permettre la consolidation de l’évolution du recourant. Selon la jurisprudence
+du Tribunal fédéral (TF 6B_27/2011 du 5 août 2011 ; ATF 128 IV 241 consid. 3.2),
+les observations d’une commission interdisciplinaire, notamment composée de différents
+spécialistes en psychiatrie, constituent une base de décision sérieuse et objective dont
+l’autorité d’exécution ne s’écartera que difficilement. C’est
+donc à bon droit que l’OEP s’est fondé en particulier sur l’avis de la CIC
+du 21 novembre 2017, et non sur le préavis antérieur de la seule Direction de Curabilis du
+8 novembre 2017, pour estimer que le maintien du cadre actuel gardait tout son sens. A l’instar
+de l’OEP, compte tenu du fait que le dossier du recourant sera transmis prochainement au tribunal
+qui examinera si l'internement ordonné doit être confirmé à l’échéance
+de la peine, ou si une éventuelle mesure thérapeutique institutionnelle doit être prononcée,
+la Cour de céans estime qu’un retour aux EPO est susceptible de mettre en péril l'évolution
+encourageante du recourant constatée par les divers intervenants, même si elle est modeste.
+Il y a lieu également de considérer qu’un nouveau réseau interdisciplinaire se tiendra
+le 1
+er
+juin 2018, soit dans un peu moins de quatre mois, afin d'apprécier l'évolution du recourant
+et la pertinence du maintien du cadre actuel. Au vu des éléments qui précèdent, la
+décision de l’OEP ne prête pas le flanc à la critique.
+3.
+En définitive, le recours interjeté par O.________, manifestement mal fondé, doit être
+rejeté et la décision entreprise confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; RSV 312.03.1]) et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr., plus la TVA par
+41 fr. 60, soit à 581 fr. 60 au total, seront mis à la charge d’O.________, qui succombe
+(art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 21 décembre 2017 est confirmée.
+III.
+La requête d’O.________ tendant à
+l'octroi de l'assistance judiciaire gratuite est admise, Me Gloria Capt étant désignée
+comme conseil juridique gratuit d’O.________ pour la procédure de recours et son indemnité
+étant fixée à 581 fr. 60 (cinq cent huitante et un francs et soixante centimes).
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), ainsi que l'indemnité due
+au conseil juridique gratuit d’O.________, par 581 fr. 60 (cinq cent huitante et un francs et soixante
+centimes), sont mis à la charge du recourant.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique d’O.________ le permette.
+VII.
+L’arrêt est exécutoire.
+Le
+président :               Le greffer :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme Gloria Capt, avocate (pour O.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Office d’exécution des peines (OEP/MES/743779/AVI/SMS),
+-
+Direction des Etablissements de la Plaine de l’Orbe,
+-
+Direction de l’Etablissement de mesures Curabilis,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
