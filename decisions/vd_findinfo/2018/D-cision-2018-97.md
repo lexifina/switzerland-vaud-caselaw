@@ -1,0 +1,401 @@
+---
+decision_id: "vd_findinfo_D_cision___2018___97"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2018 / 97"
+decided: "2018-02-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6467976"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-190.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2018 / 97
+
+## Regeste
+
+RISQUE DE FUITE, RISQUE DE RÉCIDIVE | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH), 221 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.02.2018 Décision / 2018 / 97
+
+RISQUE DE FUITE, RISQUE DE RÉCIDIVE | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH), 221 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+82
+PE18.001716-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+6 février 2018
+__________________
+Composition
+:               M.
+M E Y L A N, président
+M.
+Abrecht et Mme Byrde, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+221 al. 1 let. c et al. 2 CPP
+Statuant sur le recours interjeté le 1
+er
+février 2018 par
+J.________
+contre l’ordonnance rendue le 31 janvier 2018 par le Tribunal des mesures de contrainte dans la
+cause
+n° PE18.001716-CPB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+J.________,
+ressortissant du Kosovo, né en 1982, a été appréhendé le 28 janvier 2018, à
+11h30, à l'Hôtel de police, après s'être présenté à cet office à
+la demande de la Police municipale de Lausanne.
+b)
+Le
+même jour, le Ministère public de l'arrondissement du Nord Vaudois a décidé de l'ouverture
+d'une instruction pénale contre le prénommé, pour menaces (art. 180 al. 2 let. a CP [Code
+pénal suisse; RS 311.0]), contrainte (art. 181 CP) et viol (art. 190 CP).
+Il est d’abord reproché à J.________ d'avoir, à Lausanne, à proximité
+de la Bourdonnette, le 27 janvier 2018, en fin de journée, contraint un automobiliste, [...], à
+s'arrêter en mettant son véhicule en travers de la route en lui faisant une queue de poisson.
+[...] avait alors comme passagère l’épouse du prévenu, [...]. Il a dû freiner
+brusquement pour éviter de percuter le véhicule du prévenu. Ce dernier est alors sorti
+de sa voiture et s'est approché de la vitre du côté conducteur de l'autre véhicule,
+que [...] a baissée pour discuter. Le prévenu s'est d'abord adressé à lui en albanais,
+puis en français, en expliquant que la passagère était sa femme et en montrant des photos
+de leur enfant commun. Il a ensuite dit à son épouse de sortir du véhicule, ce qu'elle
+a fait. Le couple est alors monté dans la voiture du prévenu, avant de s’engager sur
+l'autoroute de contournement de Lausanne
+Il est ensuite fait grief au prévenu d'avoir plusieurs fois menacé de mort son épouse,
+notamment au moyen d'un couteau, et de l'avoir contrainte à entretenir un rapport sexuel malgré
+ses refus répétés. En effet, pendant le trajet de retour immédiatement consécutif
+au premier épisode ci-avant, le prévenu aurait montré un couteau à son épouse
+et lui aurait dit que c'était la fin pour elle. Il aurait quitté l'autoroute à la sortie
+d'Epalinges et aurait arrêté le véhicule à proximité d'une forêt. Il aurait
+alors dit à son épouse qu'il avait tout planifié et qu'il allait la poignarder sur place
+et la jeter dans le fossé qui se trouvait à proximité, avant de se suicider. Il aurait
+pris à nouveau le couteau puis lui aurait dit que, si elle ne voulait pas qu'il la tue, il fallait
+qu'elle reste avec lui. Sous l'effet de la peur, [...] lui aurait répondu qu'elle acceptait. Le
+prévenu se serait alors calmé. Les époux auraient repris la route pour regagner le domicile
+conjugal. Une fois de retour, le prévenu aurait pris le téléphone de son épouse pour
+y supprimer certains contacts masculins et mettre une autre photographie sur le profil Whatsapp de l’intéressée.
+Ensuite, il lui aurait dit qu'elle devait entretenir des rapports intimes avec lui pour qu'il vérifie
+qu'elle n'avait couché avec personne d'autre. Elle aurait refusé à plusieurs reprises
+et lui aurait dit que, s'il passait outre, il s’agirait d’un viol. Il aurait réitéré
+ses menaces. L’épouse se serait déshabillée, se serait étendue sur le dos sur
+le lit et se serait laissée faire. Le prévenu l'aurait pénétrée vaginalement
+puis aurait éjaculé à l'extérieur, selon lui pour éviter une grossesse. Ultérieurement,
+le prévenu ayant quitté le logement, l’épouse a appelé sa mère et lui
+raconter sa version des faits. Puis elle est allée se coucher et le prévenu l'a rejointe plus
+tard dans le lit, alors même que, selon elle, cela faisait cinq mois que le couple ne partageait
+plus la même couche. Ensuite de l'appel de sa fille, le père de l’épouse a dénoncé
+les faits à la police de Lausanne.
+[...] a déposé plainte le 28 janvier 2018.
+c)
+Le prévenu a reconnu avoir contraint l’automobiliste [...] a s’arrêter dans les
+circonstances décrites ci-dessus. Il a contesté les faits incriminés pour le surplus.
+En particulier, il a affirmé que les relations intimes qu’il avait entretenues avec son épouse
+dans la soirée du 27 janvier 2018 auraient été librement consenties (PV aud., p. 5-6).
+d)
+Le casier judiciaire suisse du prévenu
+contient deux condamnations, l'une prononcée le 25 juillet 2010 pour activité lucrative sans
+autorisation et l'autre prononcée le 7 juillet 2010 pour séjour illégal et activité
+lucrative sans autorisation.
+B.
+a)
+Le
+30 janvier 2018, le Ministère public a requis du Tribunal des mesures de contrainte d’ordonner
+la détention provisoire du prévenu pour une durée de trois mois. La procureure a invoqué
+les risques de fuite, de réitération et de passage à l’acte.
+b)
+Le
+prévenu a été entendu par la Présidente du Tribunal des mesures de contrainte le
+31 janvier 2018. Il a nié les faits incriminés, hormis l’épisode impliquant l’automobiliste.
+A cet égard, il a toutefois précisé avoir agi sous l’emprise de la peur (PV aud.,
+lignes 36-38). Il a contesté tout risque de fuite, de réitération et de passage à
+l'acte. Au terme de l'audience, la défense a conclu au rejet de la demande de mise en détention
+provisoire du Ministère public et à ce que des mesures de substitution soient ordonnées
+sous la forme d’un dépôt de ses papiers d'identité et d’une interdiction de
+tout contact avec son épouse.
+c)
+Par ordonnance du 31 janvier 2018, le Tribunal
+des mesures de contrainte a ordonné la détention provisoire du prévenu (I), a fixé
+la durée maximale de la détention provisoire à trois mois, soit au plus tard jusqu'au
+28 avril 2018 (II), et a dit que les frais de l’ordonnance, par 600 fr., suivaient le sort de la
+cause (III).
+C.
+Par acte du 1
+er
+février 2018, J.________, représenté par son défenseur d’office, a recouru
+auprès de la Chambre des recours pénale contre cette ordonnance, en concluant, sous suite de
+frais et dépens, à sa réforme, principalement en ce sens que sa libération immédiate
+soit ordonnée, subsidiairement en ce sens que la levée immédiate de sa détention
+provisoire soit assortie de mesures de substitution prévues à dire de justice.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]) contre une décision
+du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 393 al. 1 let. c CPP),
+par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c).
+2.2
+Bien qu'une application littérale de l'art. 221 al. 1 let. c CPP suppose l'existence d'antécédents,
+le risque de réitération peut être également admis dans des cas particuliers alors
+qu'il n'existe qu'un antécédent, voire aucun dans les cas les plus graves. La prévention
+du risque de récidive doit en effet permettre de faire prévaloir l'intérêt à
+la sécurité publique sur la liberté personnelle du prévenu (ATF 137 IV 13 consid.
+3-4). Le risque de récidive peut également se fonder sur les infractions faisant l'objet de
+la procédure pénale en cours, si le prévenu est fortement soupçonné –
+avec une probabilité confinant à la certitude – de les avoir commises (ATF 137 IV 84
+consid. 3.2 et les références citées; ATF 143 IV 9 consid. 2.3.1).
+En général, la mise en danger de la sécurité d'autrui est d'autant plus grande que
+les actes redoutés sont graves. En revanche, le rapport entre gravité et rigueur des conditions
+pour admettre le danger de récidive est inversement proportionnel. Cela signifie que plus l'infraction
+et la mise en danger sont graves, moins les exigences seront élevées quant au risque de réitération.
+Lorsque la gravité des faits et leurs incidences sur la sécurité sont particulièrement
+élevées, on peut ainsi admettre un risque de réitération à un niveau inférieur.
+Il demeure qu'en principe, le risque de récidive ne doit être admis qu'avec retenue comme motif
+de détention. Dès lors, un pronostic défavorable est nécessaire – et en principe
+également suffisant – pour admettre l'existence d'un tel risque (ATF 143 IV 9 consid. 2.9).
+La jurisprudence se montre moins stricte dans l'exigence de la vraisemblance de récidive lorsqu'il
+s'agit de délits de violence graves ou de délits sexuels, car le risque à faire courir
+aux victimes potentielles est alors considéré comme trop important; en pareil cas, il convient
+de tenir compte de l'état psychique du prévenu, de son imprévisibilité ou de son
+agressivité (ATF 123 I 268 consid. 2e). La simple possibilité, hypothétique, de commission
+de nouvelles infractions ou la vraisemblance que soient commises des infractions mineures ne suffit pas
+(ATF 135 I 71 consid. 2.3).
+2.3
+Selon l’art. 221 al. 2 CPP, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave. Cette détention fondée sur le risque de passage à l’acte se base
+sur la supposition qu’un crime grave pourrait être commis sans toutefois que l’on doive
+se référer à une infraction pénale ayant déjà eu lieu; ainsi, le risque
+de passage à l’acte représente un motif de détention autonome qui ne requiert pas
+un soupçon grave de commission d’une infraction (Moreillon/Parein-Reymond, Petit commentaire
+du CPP, 2
+e
+éd. 2017, n. 48 et 48a ad art. 221 CPP; ATF 140 IV 19 consid. 2.1.1). Pour ce qui est des menaces,
+il suffit que sur la base des circonstances et de la situation personnelle de la personne, la probabilité
+du passage à l’acte soit considérée comme très élevée (Moreillon/Parein-Reymond,
+op. cit., n. 51 ad art. 221 CPP; ATF 140 IV 19 consid. 2.1.1).
+3.
+3.1
+La mise en détention provisoire n’est possible que s’il existe à l’égard
+de l’auteur présumé, et préalablement à toute autre cause, de graves soupçons
+de culpabilité d’avoir commis un crime ou un délit (ATF 139 IV 186 consid. 2; Schmocker,
+in
+:
+Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+nn. 7 ss ad art. 221 CPP).
+3.2
+Le Tribunal des mesures de contrainte a retenu
+que le dossier comportait des éléments suffisants pour établir de forts soupçons
+que le prévenu ait commis les infractions dont il lui est fait grief.
+Si le second épisode des faits incriminés n’a impliqué que le prévenu et la
+plaignante, il n’en va pas de même du premier. Or la déposition de [...] et celle de
+l’épouse du prévenu sont concordantes, s’agissant au surplus de faits admis par
+le prévenu. Cet élément renforce la crédibilité de l’épouse quant
+à l’épisode ultérieur. Certes, les déclarations de la plaignante ne permettent
+pas de considérer avec une probabilité confinant à la certitude que le prévenu a
+commis les infractions qui lui sont reprochées. Néanmoins, ce second épisode a été
+précisément décrit par l’épouse, comme on le verra plus en détail ci-dessous
+sous l’angle des risques de réitération et de passage à l’acte. On ne décèle,
+en l’état, aucune incohérence dans sa déposition. Pour sa part, le prévenu
+se limite à des dénégations d’ordre général, qui apparaissent peu crédibles
+en l’état. On ne discerne en effet pas où résiderait l’intérêt de
+son épouse à l’accuser à tort de crimes graves alors même que, selon lui, l’entente
+conjugale était bonne. Qui plus est, si le dessein de l’épouse avait été de
+faire incriminer son mari à mauvais escient, on ne comprend guère, du moins en l’état
+de la procédure, pourquoi elle aurait appelé ses parents plutôt que de dénoncer personnellement
+les faits. En l’état, ces éléments renforcent la crédibilité de l’épouse
+tout comme ils affaiblissent celle du prévenu. La condition préalable des graves soupçons
+de culpabilité est ainsi donnée à ce stade précoce de l'enquête.
+4.
+4.1
+L'autorité inférieure retient que le prévenu présente des risques de réitération
+et de passage à l’acte qu’aucune mesure de substitution ne saurait juguler en l’état.
+Le recourant conteste tout risque de réitération ou de passage à l’acte, ainsi,
+au surplus, que tout danger de fuite. En particulier, il fait valoir que, si le risque de réitération
+peut également être admis dans des cas particuliers alors qu’il n’existe qu’un
+antécédent voire aucun dans les cas les plus grave, il est exigé que la vraisemblance
+que le prévenu soit bien l’auteur des faits objet de la procédure pénale en cours
+confine à la certitude (recours, p. 1-2). Or le recourant n’aurait aucun antécédent
+de violence, le couple n’ayant, selon les déclarations mêmes de la plaignante, pas connu
+d’épisodes de violence conjugale par le passé. S’agissant du déroulement des
+événements du 27 janvier 2018, le recourant relève que les faits incriminés reposent
+sur la parole de l’une des parties contre celle de l’autre. Partant, on ne pourrait objectivement
+pas considérer avec une vraisemblance confinant à la certitude qu’il serait coupable
+des actes en question (recours, p. 3-4).
+4.2
+Certes, comme déjà relevé sous l’angle de la condition préalable des soupçons,
+les déclarations de la plaignante ne permettent pas de considérer avec une probabilité
+confinant à la certitude que le prévenu a commis les infractions qui lui sont reprochées.
+Toutefois, pour les motifs évoqués par la procureure et retenus par le premier juge, on doit
+retenir l’existence de forts soupçons de menaces de passage à l’acte homicide.
+En effet, [...], collègue de travail de la plaignante, a précisément décrit l’attitude
+de l’intéressé et le fait que son épouse l’avait suivi pour monter dans son
+véhicule. De son propre aveu, le prévenu a fait sortir son épouse de l’automobile
+dans laquelle elle se trouvait légitimement. Il ressort des faits ainsi rapportés, admis par
+le prévenu, que ce dernier désapprouvait qu’elle fréquente son collègue, voire
+même qu’il ne tolérait pas qu’elle le rencontrât. Le comportement décrit
+témoigne de l’emprise exercée par le prévenu dans les relations conjugales. Ces
+éléments concordent, de prime abord et en l’état de la procédure, avec l’attitude
+imputée au prévenu sitôt après cet épisode.
+Les menaces de mort rapportées par l’intéressée sont explicites. Il semble que le
+prévenu se soit doté du moyen qui lui aurait permis de les mettre à exécution, à
+savoir d’un couteau. Il aurait précisément décrit le mode opératoire de l’homicide
+qu’il envisageait de commettre selon la plaignante. La déposition de l’épouse paraît
+mesurée et exempte de dessein de vengeance. En effet, elle précise que son époux ne l'avait
+jamais violentée auparavant, pas plus qu'il ne l'avait contrainte à l'acte sexuel. On ne voit
+d'ailleurs pas ce qui l'aurait poussée à dénoncer faussement le prévenu, si tout
+se passait bien avec lui comme ce dernier l'affirme. De même, une bonne entente conjugale apparaît
+peu compatible avec la suppression, par le prévenu, du numéro de [...] dans le téléphone
+de l’épouse et la radiation d’une image dans le profil Whatsapp de l’intéressée.
+Ce comportement ne peut qu’être qualifié de jaloux et de possessif. Les faits décrits
+témoignent du refus de l’époux d'accepter la séparation du couple. Plus encore,
+ils paraissent dénoter une propension à la violence. Les dénégations de l’intéressé
+témoignent de son imprévisibilité et de son agressivité. Les biens juridiques auxquels
+il est susceptible de porter atteinte, soit l’intégrité sexuelle et même la vie,
+sont particulièrement importants, ce qui diminue les exigences quant à l’appréciation
+du risque de réitération.
+Dans ces circonstances, il est à craindre que le prévenu ne réitère ses agissements
+à l'encontre de sa victime, voire d'autres personnes. Le risque de réitération est donc
+avéré. De même, il est à redouter que l'intéressé mette à exécution
+les menaces qu'il aurait proférées. La probabilité d’un tel passage à l’acte
+doit être considérée comme suffisamment élevée pour qu’il ne soit pas
+possible de prendre le risque d’une atteinte au bien juridique suprême que représente
+la vie de la plaignante. Il apparaît ainsi que la liberté personnelle du prévenu doit
+céder le pas à l’impératif de sécurité publique.
+4.3
+Les conditions de l’art. 221 al. 1 CPP étant
+alternatives, l'existence des risques de réitération et de passage à l’acte dispense
+d’examiner si la détention provisoire s’impose également en raison du risque de
+fuite invoqué par l’accusation et que le premier juge a expressément renoncé à
+examiner (CREP 21 avril 2015/260 consid. 3.3 et les références citées; CREP 19 décembre
+2017/851 consid. 5 et réf.).
+5.
+5.1
+Le recourant conclut à titre subsidiaire
+à ce que sa libération soit assortie de mesures de substitution prévues à dire de
+justice.
+5.2
+En présence de facteurs de mauvais pronostic aussi significatifs, des mesures de substitution, s’agissant
+notamment de celles auxquelles a conclu le recourant à l’audience, ne sauraient pallier les
+risques de réitération et de passage à l’acte présentés par le prévenu.
+En effet, au vu de sa personnalité, telle qu’elle apparaît dans la description que fait
+la plaignante des faits incriminés – et dans la manière dont il s’est déterminé
+sur ces accusations –, on ne saurait considérer qu’une mesure de substitution sous la
+forme d’une interdiction de périmètre et de contact, telle que proposée par la défense,
+serait « pleinement en mesure de juguler le risque » (recours, p. 5-6). Le fait que le recourant
+se soit présenté au poste de police sur appel des inspecteurs ne garantit en rien qu’il
+respecte une interdiction de périmètre. Il lui serait en effet facile de faire fi d’une
+telle interdiction s’il décidait de tuer son épouse avant de mettre fin à ses jours,
+comme il l’avait évoqué selon les déclarations de la plaignante.
+6.
+6.1
+Concernant le respect du principe de la proportionnalité,
+l’art. 212 al. 3 CPP prévoit que la détention provisoire ne doit pas durer plus longtemps
+que la peine privative de liberté prévisible. La proportionnalité de la détention
+provisoire doit être examinée au regard de l’ensemble des circonstances concrètes
+du cas d’espèce (ATF 133 I 168 consid. 4.1 et les arrêts cités). A cet égard,
+il est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle n’est
+pas très proche de la durée de la peine privative de liberté à laquelle il faut s’attendre
+concrètement en cas de condamnation (TF 1B_411/2011 du 31 août 2011 consid. 4.1; ATF 133 I
+168 consid. 4.1; ATF 132 I 21 consid. 4.1).
+6.2
+En l’espèce, le recourant est détenu
+depuis le 28 janvier 2018. Compte tenu de la gravité des faits qui lui sont reprochés, il s'expose
+à une peine d’une durée largement supérieure à celle de la détention provisoire
+subie à ce jour, respectivement à subir jusqu’au 28 avril 2018. Le principe de la proportionnalité
+est donc respecté.
+7.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans autres échanges d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1’100 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; RSV 312.03.1]) et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr., plus la TVA par
+41 fr. 60, soit à 581 fr. 60 au total, seront mis à la charge du recourant, qui succombe (art.
+428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation économique de ce dernier
+le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 31 janvier 2018 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office d’J.________ est fixée à 581 fr. 60 (cinq cent huitante et un francs
+et soixante centimes).
+IV.
+Les f
+rais d’arrêt,
+par 1’100 fr. (mille cent huitante francs), ainsi que l’indemnité due au défenseur
+d’office d’J.________, par 581 fr. 60 (cinq cent huitante et un francs et soixante centimes),
+sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique d’J.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Tiphanie Chappuis, avocate (pour J.________),
+-
+Ministère public central;
+et communiqué à :
+-
+Mme [...],
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure du Ministère public de l’arrondissement du Nord vaudois,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
