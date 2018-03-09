@@ -1,0 +1,249 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 4"
+decided: "2018-03-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6515461"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-075.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-036.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 4
+
+## Regeste
+
+PLAINTE{LP}, ATTRIBUTION DE L'EFFET SUSPENSIF, MOYEN DE DROIT, DOMMAGE IRRÉPARABLE | 36 LP, 93 al. 1 let. a LTF
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 09.03.2018 Plainte / 2018 / 4
+
+PLAINTE{LP}, ATTRIBUTION DE L'EFFET SUSPENSIF, MOYEN DE DROIT, DOMMAGE IRRÉPARABLE | 36 LP, 93 al. 1 let. a LTF
+
+TRIBUNAL
+CANTONAL
+FA18.004879-180345
+6
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+9 mars 2018
+__________________
+Composition
+:               M.
+Maillard
+,
+vice-président
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+36 LP et 93 al. 1 let. a LTF
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par l’étude d’avocats
+W.________
+,
+à [...], en qualité d’administration spéciale ad hoc de la masse en faillite d’
+A.________AG
+en liquidation, contre la décision rendue le 15 février 2018 par le Président du Tribunal
+d’arrondissement de l’Est vaudois, autorité inférieure de surveillance, refusant
+l’effet suspensif requis dans la plainte déposée par la recourante contre la décision
+de révocation d’une cession de droits rendue le 22 janvier 2018 par l’
+Office
+des faillites de l’arrondissement de l’Est vaudois
+,
+représenté par
+Z.________
+,
+préposé ad hoc, dans le cadre de l’administration de la faillite de la
+succession
+répudiée de feu F.________
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par décision de cession de droits de la masse du 1
+er
+septembre 2015, l’administration de la faillite de la succession répudiée de feu F.________,
+l’Office des faillites de l’arrondissement de l’Est vaudois, représenté par
+le préposé ad hoc Z.________, a cédé à la masse en faillite d’A.________AG
+en liquidation, créancière admise à la faillite pour une somme de 68'290'592 francs 60,
+ses prétentions en dommages et intérêts contre I.________AG en relation avec un contrat
+de mandat conclu au sujet de la vente de la Villa [...], propriété de S.________, à [...].
+Un délai au 1
+er
+décembre 2015 était imparti à la créancière cessionnaire pour procéder
+contre le tiers débiteur, à défaut de quoi la cession serait révoquée, sans
+avertissement préalable.
+Par décision du 13 janvier 2016, le Tribunal de district de Zurich a ordonné à I.________AG,
+alors administration spéciale de la masse en faillite d’A.________AG, de se récuser.
+Par la suite, l’étude d’avocats W.________ a été désignée comme
+administration spéciale ad hoc.
+Par lettre du 19 juillet 2017, le préposé ad hoc de l’Office des faillites de l'arrondissement
+de l'Est vaudois Z.________, à la demande de W.________, a prolongé exceptionnellement au 31
+décembre 2017 le délai pour agir contre le débiteur, en précisant que ce nouveau
+délai ne pourrait plus être prolongé.
+W.________ a cédé à son tour les droits à d’éventuelles prétentions
+en dommages et intérêts contre I.________AG à V.________, par lettre adressée le
+21 septembre 2017 au représentant de cette compagnie, en se réservant le droit de révoquer
+cette cession si aucune action judiciaire n’était intentée dans le délai au 31 décembre
+2017. Elle a révoqué la cession pour ce motif, par lettre adressée le 10 janvier
+2018 au représentant de V.________.
+Par décision du 22 janvier 2018 adressée par courriel et en courrier recommandé à
+W.________, le préposé ad hoc de l’Office des faillites de l'arrondissement de l'Est
+vaudois Z.________, agissant au nom de la masse en faillite de la succession F.________, a constaté
+qu’aucune action judiciaire n’avait été ouverte dans le dernier délai fixé
+au 31 décembre 2017 et a révoqué avec effet immédiat la cession de droits du 1
+er
+septembre 2015.
+Par lettre du 26 janvier 2018, en prévision d’une plainte potentielle de V.________ contre
+sa décision de révocation du 10 janvier 2018, W.________ a demandé au préposé
+Z.________ de reconsidérer la décision du 22 janvier 2018. Le préposé a confirmé
+la décision en question, par lettre du 31 janvier 2018.
+Le 1
+er
+février 2018, W.________ a déposé auprès du Tribunal d’arrondissement de l’Est
+vaudois, autorité inférieure de surveillance, une plainte contre la décision du 22 janvier
+2018, concluant à son annulation. Elle a requis l’effet suspensif et la suspension de la procédure
+jusqu’à l’entrée en force de la décision de révocation de la cession
+des droits en faveur de V.________ du 10 janvier 2018. Elle a produit quatorze pièces sous bordereau.
+Le 2 février 2018, la plaignante a produit une copie de la plainte déposée contre sa décision
+du 10 janvier 2018 par V.________, le 29 janvier 2018, auprès du Tribunal de district de Zurich,
+autorité inférieure de surveillance. Le 8 février 2018, elle a produit une décision
+de ce tribunal du 6 février 2018, accordant l’effet suspensif à la plainte déposée
+par V.________.
+2.
+Par décision du 15
+février 2018, le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, « appliquant les articles 36 LP et 21 alinéa 1 LVLP »,
+a refusé l’effet suspensif requis par W.________ jusqu’à droit connu sur la plainte.
+3.
+Par acte du 22 février 2018, W.________ a recouru contre cette décision, concluant principalement
+à sa réforme en ce sens que l’effet suspensif est accordé à la plainte du 1
+er
+février 2018, subsidiairement à son annulation et au renvoi de la cause à l’autorité
+inférieure pour nouvelle décision dans le sens des considérants. Elle a requis l’effet
+suspensif.
+En droit :
+I.
+a)
+Le recours est ouvert contre un refus d’effet suspensif dans le cadre d’une plainte au sens
+de l’art. 17 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1)
+en cas de préjudice irréparable au sens de l’art. 93 al. 1 let. a LTF (loi sur le Tribunal
+fédéral ; RS 173.110) (CPF 1
+er
+décembre 2017/36 ; CPF 14 septembre 2016/31).
+En effet, aux termes de l’art. 36 LP, la plainte, l’appel et le recours ne suspendent la
+décision que s’il en est ordonné ainsi par l’autorité qui est appelée
+à statuer ou par son président. Il faut déduire de l’exigence de la double instance
+cantonale posée par l’art. 75 al. 2 LTF, et qui est applicable aussi aux décisions incidentes
+ou préjudicielles (ATF 138 III 41 consid. 1.1 ; Corboz
+et
+alii
+, Commentaire de la LTF, 2
+e
+éd., nn. 26 à 27b, pp. 673 s.), que la décision - incidente - par laquelle l’autorité
+inférieure de surveillance rejette une demande d’effet suspensif dans le cadre d’une
+plainte au sens de l’art. 17 LP doit pouvoir faire l’objet d’un recours au Tribunal
+cantonal, si elle peut causer à l’intéressé un préjudice irréparable (cf.
+art. 18 LP en relation avec l’art. 93 al. 1 let. a LTF ; Dieth/Wohl,
+in
+Hunkeler (éd.), Kurzkommentar SchKG, 2
+e
+éd., n. 8
+ad
+art. 36 SchKG [LP] ; Cometta/Möckli,
+in
+Staehelin/Bauer/Staehelin (éd.), Basler Kommentar, SchKG I, 2
+e
+éd., n. 13
+ad
+art. 36 SchKG [LP]). Un tel préjudice doit être de nature juridique et ne pas pouvoir
+être réparé ultérieurement par une décision finale favorable au recourant (ATF
+138 III 46 consid. 1.2 ; 137 V 314 consid. 2.2.1 et les arrêts cités). Devant le Tribunal
+fédéral, il appartient au recourant d'expliquer en quoi la décision entreprise remplit
+cette condition, sauf si ce point découle manifestement de la décision attaquée ou de
+la nature de la cause (ATF 138 III 46 précité, et les réf.).
+En revanche, et dès lors que le droit cantonal ne prévoit pas de voie de droit plus large,
+il n’y a pas lieu d’admettre que le recours serait déjà recevable en cas de préjudice
+difficilement réparable au sens de l’art. 319 let. b CPC (Code de procédure civile ;
+RS 272), notion qui est plus large que celle de dommage irréparable de l’art. 93 al. 1 let.
+a LTF, puisqu’elle devrait viser également les désavantages de fait (JdT 2011 III 86
+consid. 3). En effet, le CPC ne s’applique pas à la procédure de plainte (art. 1 let.
+c CPC
+a contrario
+;
+Muster, La nouvelle procédure civile et le droit des poursuites et des faillites,
+in
+JdT 2011 II 75 ss, p. 77, n. 2.2).
+b)
+La recourante fait valoir que la cession des droits de la masse du 1
+er
+septembre
+2015 a eu pour effet de suspendre la procédure de liquidation de la faillite de la succession F.________,
+que la révocation de cette cession entraîne la reprise de la procédure de liquidation
+et que le refus d’accorder l’effet suspensif à sa plainte contre la révocation
+crée « un risque réel que les biens soient réalisés et la masse en faillite
+F.________ liquidée » ; or, selon la recourante, la masse en faillite F.________
+est titulaire de la société S.________, laquelle était propriétaire de la Villa [...],
+de sorte que la liquidation de la masse entraînerait inévitablement la liquidation de la société,
+ce qui aurait pour conséquence de faire disparaître le titulaire de la créance contre
+I.________AG en lien avec la vente de la villa, créance qui ne pourrait par conséquent plus
+être cédée ; dès lors, si le tribunal zurichois devait admettre la plainte de
+V.________, la recourante se trouverait dans l’incapacité de se conformer à sa décision.
+c)
+Au vu de la durée prévisible des procédures concernées, il y a tout lieu de penser
+que la décision au fond sur la plainte pourra être rendue avant que le risque de liquidation
+de la société S.________ soit susceptible de se réaliser, de sorte que le risque de préjudice
+irréparable n’apparaît à ce stade pas concret.
+Le recours doit par conséquent être déclaré irrecevable, ce qui rend la requête
+d’effet suspensif sans objet.
+III.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+La requête d’effet suspensif contenue dans le recours est sans objet.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+vice-président :              La
+greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Sinan Odok et Dr Christian Sager, avocats (pour W.________),
+‑
+Me Jean-Luc Tschumy, avocat (pour la masse en faillite de la succession de F.________),
+-
+M. Z.________, Préposé ad hoc de l’Office des faillites de l’arrondissement de
+l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
