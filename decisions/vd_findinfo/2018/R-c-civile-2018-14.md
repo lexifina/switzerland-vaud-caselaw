@@ -1,0 +1,146 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2018___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2018 / 14"
+decided: "2018-04-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6738902"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2018 / 14
+
+## Regeste
+
+RÉCUSATION, JUGE LAÏC, JUGE DE PAIX, PROTECTION DE L'ADULTE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 03.04.2018 Réc-civile / 2018 / 14
+Vaud Tribunal cantonal Cour administrative 03.04.2018 Réc-civile / 2018 / 14
+Vaud Tribunal cantonal Cour administrative 03.04.2018 Réc-civile / 2018 / 14
+
+RÉCUSATION, JUGE LAÏC, JUGE DE PAIX, PROTECTION DE L'ADULTE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+14/2018
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 3 avril 2018
+______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey, juges
+Greffière
+:              Mme
+Schwab Eggs
+*****
+Art.
+47 al. 1 let. f et 48 CPC; art. 8a al. 3 et 8b al. 4 CDPJ
+Vu le signalement du 21 mars 2018 à la Justice de paix du district de Lausanne de la situation de
+B.Q.________
+effectué par ses enfants
+[...],
+[...] et A.Q.________
+,
+vu le courrier du 23 mars 2018 du Premier juge de paix du district de Lausanne demandant la récusation
+de son office en corps, au motif que A.Q.________ est juge assesseur au sein de l’office,
+vu les pièces au dossier ;
+attendu que la cours de céans est compétente pour statuer sur la demande de récusation
+du 23 mars 2017 en vertu des art. 8a al. 3 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier
+2010 ; RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal du 13 novembre
+2007 ; RSV 173.31.1),
+que la demande est ainsi recevable ;
+attendu qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient être
+prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son
+représentant,
+qu'à teneur de l'art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d'un motif de récusation possible et se récuse lorsqu'il considère que
+ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 §1 CEDH (Convention du
+4 novembre 1950 de sauvegarde des droits de l’homme et des libertés fondamentales ; RS
+0.101), s'oppose à ce que des circonstances extérieures au procès puissent influencer
+le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie
+(TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid. 2.1 ;
+ATF 138 I 1 consid. 2.2 et les références citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012
+du 4 juin 2012 consid. 2.1 ; ATF 138 I 1 consid. 2.2 et les références citées),
+qu’en l’espèce, A.Q.________, fille de la personne signalée et cosignataire du
+signalement, exerce la fonction de juge assesseur au sein de la Justice de paix du district de Lausanne,
+que cette activité implique des contacts réguliers et professionnels avec les autres membres
+de cette autorité, avec lesquels elle est amenée à siéger et à collaborer dans
+le cadre du soutien à apporter aux curateurs privés,
+qu'elle est par ailleurs elle-même investie d'un pouvoir décisionnel dans le cadre de sa fonction,
+qu'il est possible qu'un rapport d'amitié ou d'inimitié ait pu naître des relations professionnelles
+entre A.Q.________ et les autres magistrats composant cet office (CA 14 février 2017/12 ; CA 9 décembre
+2015/39),
+qu'il pourrait ainsi résulter de ces relations une apparence de prévention, du moins aux yeux
+des personnes concernées et des tiers,
+qu'afin de garantir l'impartialité de l’autorité appelée à traiter le signalement,
+la demande de récusation présentée spontanément par le Premier juge de paix du district
+de Lausanne doit être admise, d’autant plus que la situation semble
+a
+priori
+nécessiter une enquête approfondie
+et d’importantes mesures de protection,
+que, dans un tel cas, la cause doit être déléguée à une autre juridiction ayant
+les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'il convient dès lors de désigner la Justice de paix du district de Morges ;
+attendu que la présente décision est rendue sans frais, ni dépens (Tappy, Code de procédure
+civile commenté, Bâle 2011, n. 28 ad art. 48 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 23 mars 2018 par le Premier juge de paix du district
+de Lausanne est admise.
+II.
+La cause est transmise dans l’état où elle se trouve à la Justice de paix du district
+de Morges.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. [...], personnellement,
+-
+M. [...], personnellement,
+-
+Mme A.Q.________, personnellement,
+-
+M. Giovanni Intignagno, Premier juge de paix du district de Lausanne.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme Nicole Diserens, Premier juge de paix du district de Morges, avec le dossier.
+La greffière :
