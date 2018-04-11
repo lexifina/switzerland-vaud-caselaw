@@ -1,0 +1,269 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 9"
+decided: "2018-04-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6566459"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-118.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-121.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.35/art-062.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 9
+
+## Regeste
+
+PLAINTE{LP}, ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.04.2018 Plainte / 2018 / 9
+
+PLAINTE{LP}, ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 17 LP
+
+TRIBUNAL
+CANTONAL
+FA18.003003-180470
+11
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 avril 2018
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+29 al. 3 Cst.; 17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.C.________
+contre la décision rendue le 6 mars 2018 par la Présidente du Tribunal d’arrondissement
+de La Côte, autorité inférieure de surveillance, rejetant sa requête d’assistance
+judiciaire.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par courriers du 3 janvier 2018 envoyés à l’adresse suisse de l’intéressé,
+ainsi qu’en copie à son adresse française, l’Office des poursuites du district
+de Nyon (ci-après : l’Office) a avisé A.C.________, dans le cadre de la poursuite
+n° 8'330'398 exercée par B.C.________, qu’il considérait, au vu des éléments
+en sa possession, son adresse de [...] comme étant le for de la poursuite au sens de l’art.
+46 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite  pour dettes et la faillite ;
+RS 281.1) et que, dès lors qu’il se soustrayait à la notification, il serait procédé
+à la notification par voie édictale. Le courrier mentionnait la possibilité de former
+plainte contre cet avis dans un délai de dix jours et le fait que l’Office accordait à
+A.C.________ un ultime délai au 19 janvier 2018 pour se présenter afin que l’acte puisse
+lui être notifié personnellement.
+2.
+Par acte du 19 janvier 2018, A.C.________ a formé une plainte LP auprès du Président du
+Tribunal d’arrondissement de La Côte contre cet avis, indiquant l’avoir reçu le
+15 janvier 2018 et faisant grief à l’Office de ne pas avoir indiqué quels étaient
+les éléments en sa possession qui justifiaient l’existence d’un for de poursuite
+à son adresse de [...], et d’avoir violé sa sphère privée.
+Par courriers recommandés du 23 janvier 2018, le président a communiqué la plainte à
+l’Office, a cité les parties à comparaître à l’audience du 26 février
+2018, ultérieurement reportée au 23 avril 2018, et a imparti à l’Office un délai
+de déterminations écrites échéant le 14 février 2018.
+Dans ses déterminations du 9 février 2018, l’Office a conclu au rejet de la plainte et
+a indiqué les raisons pour lesquelles il considérait que le for de la poursuite se trouvait
+à [...].
+3
+Par acte du 19 février 2018, le plaignant
+a requis du président le bénéfice de l’assistance judiciaire consistant dans la
+désignation d’un mandataire en faisant valoir sa situation financière précaire.
+Il a produit une décision de taxation pour l’année 2015 constatant qu’il n’avait
+aucun revenu et une fortune de 19'000 francs.
+Par décision du 6 mars 2018, notifiée au requérant le 23 mars 2018, la Présidente
+du Tribunal d’arrondissement de La Côte a rejeté la requête d’assistance judiciaire
+du plaignant. En substance, elle a constaté que la procédure était gratuite et a considéré
+que la cause était simple, l’autorité de surveillance constatant par ailleurs les faits
+d’office.
+4.
+Par acte du 26 mars 2018, A.C.________ a recouru contre cette décision en concluant, avec suite
+de frais et dépens, principalement à sa réforme en ce sens que l’assistance judiciaire
+lui est octroyée « dans le cadre de la plainte »  en cause, subsidiairement
+« pour la préparation du procès dans le cadre de la plainte » en cause.
+Il a requis le bénéfice de l’assistance judiciaire pour la procédure de recours,
+à savoir l’exonération d’avances et de frais judiciaires, ainsi que l’assistance
+d’un conseil juridique dans l’éventualité d’une audience. Il a en outre produit
+des pièces.
+Par décision du 3 avril 2018, la présidente de la cour de céans a rejeté la requête
+d’assistance judiciaire, dans la mesure où celle-ci avait un objet, pour le motif que la procédure
+était gratuite, que le recours était déjà déposé et qu’il n’y
+aurait pas d’audience.
+En droit :
+I.
+a)
+En procédure civile suisse, la requête
+d'assistance judiciaire peut être présentée avant ou pendant la litispendance (art. 119
+al. 1 CPC [Code de procédure civile du 19 décembre 2008 ; RS 272]). Lorsque la procédure
+est pendante, le juge saisi statue sur l'octroi ou le retrait de l'assistance judiciaire (art. 39 al.
+1 CDPJ [Code de droit privé judiciaire vaudois du 12 janvier 2010 ; RSV 211.01]).
+Les décisions qui ne relèvent pas du juge – décisions des organes d'exécution,
+en particulier les offices des poursuites et faillites, et des autorités de surveillance, notamment
+sur plainte au sens de la LP – ne relèvent pas du CPC mais d'une procédure administrative
+spéciale régie par les art. 17 ss LP et pour le surplus par les cantons, soit dans le canton
+de Vaud la loi du 18 mai 1955 d’application dans la canton de Vaud de la LP (LVLP ; RSV 280.05)
+(Haldy, CPC commenté, n. 18 ad art. 1 CPC). La LVLP, qui comprend un certain nombre de dispositions
+de procédure en matière de plainte (art. 17 ss LVLP), ne contient pas de règle sur l'assistance
+judiciaire. Enfin, l'art. 18 LPA-VD prévoit que les autorités administratives sont compétentes
+pour octroyer l'assistance judiciaire pour les procédures qu'elles mènent (al. 3), que le Tribunal
+cantonal est compétent pour les procédures ouvertes devant lui (al. 4) et que, pour le surplus,
+les dispositions régissant l'assistance judiciaire en matière civile sont applicables par analogie
+(al. 5).
+En l'espèce, le recourant a saisi le Président du Tribunal d'arrondissement de La Côte,
+en sa qualité d'autorité inférieure de surveillance, d'une plainte au sens l'art. 17 LP,
+puis, au cours de la procédure, d'une requête d'assistance judiciaire.
+b)
+D'après le CPC, applicable ici par analogie, le juge statue sur la requête d'assistance judiciaire
+en procédure sommaire (art. 119 al. 3 CPC). L'art. 319 let. b ch. 1 CPC ouvre la voie du recours
+contre les décisions et ordonnances d'instruction de première instance pour lesquelles un recours
+est expressément prévu par la loi. Tel est le cas d'une décision refusant l'assistance
+judiciaire (art. 121 CPC). Le recours, écrit et motivé, doit s'exercer dans un délai de
+dix jours auprès de l'instance de recours (art. 321 CPC).
+En l'espèce, déposé en temps utile et dans les formes requises auprès de la cour
+de céans, autorité cantonale supérieure de surveillance, qui est compétente pour
+l'examiner (art. 14 al. 1 LVLP), le recours est recevable.
+II.
+a)
+Quant au principe de son octroi ou de son refus,
+l'assistance judiciaire en procédure de plainte LP n'est pas soumise à l'art. 117 CPC –
+ce code régissant cependant par analogie les questions de procédure en matière d'assistance
+judiciaire –,  mais à l'art. 29 al. 3 Cst. (Constitution fédérale du 18 avril
+1999 ; RS 101). En vertu de cette disposition, toute personne qui ne dispose pas de ressources suffisantes
+a droit, à moins que sa cause paraisse dépourvue de toute chance de succès, à l'assistance
+judiciaire gratuite. Elle a en outre droit à l'assistance gratuite d'un défenseur, dans la
+mesure où la sauvegarde de ses droits le requiert.
+La procédure de plainte étant gratuite (art. 20a al. 2 ch. 5 LP), seule la question de l'assistance
+d'un avocat doit être examinée en l'espèce.
+Le droit à l'assistance judiciaire n'est pas exclu par principe dans la procédure de plainte
+des art. 17 ss LP, mais, dans la mesure où cette procédure est régie par la maxime d'office,
+l'assistance d'un avocat n'est en général pas nécessaire; toutefois, une telle assistance
+peut se révéler indispensable en raison de la complexité de l'affaire ou des questions
+à résoudre, des connaissances juridiques insuffisantes du requérant ou de l'importance
+des intérêts en jeu (ATF 122 III 392, JdT 1998 II 185 et réf. cit.; TF 5A_660/2013 du
+19 mars 2014 consid. 4.2 ; TF 5A_136/2011 du 8 août 2011, consid. 2.5.2, Revue suisse de procédure
+civile [RSPC] 2012, p. 17 ; TF 5A_236/2010 du 21 juillet 2010 consid. 6.1).
+L'assistance judiciaire est en principe accordée sans effet rétroactif, soit dès le moment
+de la requête et pour l'avenir. Sont également inclus les frais d'avocat liés au dépôt
+simultané d'une pièce de procédure (ATF 122 I 203 consid. 2c, JdT 1997 I 604) ou les frais
+déjà occasionnés au moment de la requête, pour autant qu'ils résultent de prestations
+d'avocat fournies en vue du stade de la procédure pour lequel la requête d'assistance judiciaire
+est déposée (ibid., c. 2f).
+b)
+En l'espèce, la procédure de plainte dans laquelle l'assistance judiciaire est requise porte
+exclusivement sur la question de savoir s’il existe un for de poursuite à [...] au sens de
+l’art. 46 al. 1 LP, en d’autres termes si le domicile du plaignant se situe à cet endroit.
+Répondre à cette question suppose d’examiner à quel endroit le plaignant vit effectivement
+avec la volonté d’y demeurer, ce qui peut se déduire notamment du statut de la personne
+du point de vue de la police des étrangers, des autorités fiscales ou des assurances sociales.
+Il s’agira d’instruire des questions factuelles simples relatives au mode de vie du plaignant,
+du type : où le plaignant passe-t-il son temps libre ? où travaille-t-il ? vit-il avec des
+proches, des animaux, et si oui à quel endroit ? où paie-t-il des impôts ? etc. Le juge
+instruit les faits (art. 20a LP) et applique le droit d’office. La plainte étant déjà
+déposée, il s’agirait concrètement pour l’avocat de produire d’éventuelles
+pièces complémentaires et d’assister le plaignant à l’audience de plainte.
+Or l’assistance d’un mandataire n’est à cet égard pas nécessaire au
+plaignant pour la sauvegarde de ses droits.
+aa)
+Le
+recourant soutient que le cas est complexe mais son argumentation porte sur les conséquences de
+la décision de l’autorité inférieure. Il ne démontre pas en quoi répondre
+à la question de savoir où se situe son domicile et la nécessité de produire des
+pièces susceptibles de prouver que son domicile n’est pas à [...] seraient compliqués
+au point de requérir l’intervention d’un avocat.
+bb)
+Le
+recourant invoque le droit à l’égalité des armes et se plaint que l’Office
+est représenté par un avocat ou un juriste. Il requiert la production du curriculum vitae de
+l’employé de l’Office qui interviendra à l’audience de plainte.
+Tel qu’il est ancré aux art. 29 al. 1 Cst. et 6 par. 1 CEDH (Convention du 4 novembre 1950
+de sauvegarde des droits de l’homme et des libertés fondamentale ; RS 0.101), le principe
+de l’égalité des armes requiert que chaque partie se voit offrir une possibilité
+raisonnable de présenter sa cause dans des conditions qui ne la place pas dans une situation de
+net désavantage par rapport à son adversaire. En matière d’assistance judiciaire,
+le respect de ce principe – qui est expressément mentionné à l’art. 118 let.
+c CPC – peut exiger de commettre un conseil d’office lorsque la partie adverse a elle-même
+mandaté un représentant professionnel (Tappy, in Code de procédure civile commenté,
+n. 17 ad art. 118 CPC et les réf. cit. ; TF 5A_244/2914 du 25 juin 2014 consid. 4.2.1 et les
+réf. cit.).
+En l’espèce, l’Office lui-même n’est pas assisté d’un avocat,
+ni d’un autre mandataire professionnel. Si ses employés, et en particulier l’employé
+qui le représente lors de l’audience de plainte, bénéficient d’une expérience
+en matière de LP, cette expérience n’est pas de nature à rompre l’égalité
+des armes, vu l’absence de difficultés de fait ou de droit que présente l’affaire
+en question. Les éventuelles compétences de spécialiste de l’Office ne l’aideront
+pas pour fournir des renseignements sur la situation factuelle du plaignant, que celui-ci connaît
+mieux que quiconque. Au surplus, la procédure de plainte n’est pas formaliste et, en l’occurrence,
+porte sur une question ciblée à laquelle le plaignant – ou tout autre justiciable raisonnable
+et de bonne foi – est capable de frais face seul. Le plaignant, qui, à lire son argumentation,
+paraît d’ailleurs avoir quelques connaissances juridiques, sera tout à fait à même
+de répondre aux arguments figurant dans les déterminations, qui sont d’ordre factuel.
+Le moyen invoqué et la mesure d’instruction requise, mal fondés, doivent ainsi être
+rejetés.
+c)
+En
+définitive, la défense des droits du plaignant ne nécessite pas qu’il soit assisté
+d’un conseil professionnel. L’objet de la plainte est très délimité, et ne
+présente pas de difficultés particulières en fait et/ou en droit.
+d)
+L’audience
+de plainte étant fixée au 23 avril 2018 et la cour de céans ayant pu statuer rapidement,
+la requête d’effet suspensif contenue dans le recours doit être rejetée, si elle
+a encore un objet.
+e)
+Le
+présent arrêt sera notifié au recourant en France et en Suisse, sans préjuger de
+la question de l’existence ou pas d’un domicile à ces adresses.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais (art. 62 al. 2 OELP [ordonnance du 23 septembre 1996
+sur les émoluments perçus en application de la LP ; RS 281.35] et 119 al. 6 CPC par analogie).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+La requête d’effet suspensif est rejetée dans la mesure où elle est recevable.
+IV.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. A.C.________,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+Le greffier :
