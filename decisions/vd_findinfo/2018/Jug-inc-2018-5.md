@@ -1,0 +1,501 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2018___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2018 / 5"
+decided: "2018-04-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6634456"
+cites_law: ["switzerland/bund/acts/272/art-004.md", "switzerland/bund/acts/272/art-005.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-164.md", "switzerland/bund/acts/272/art-178.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2018 / 5
+
+## Regeste
+
+NOUVEAU MOYEN DE FAIT | 153 al. 1 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 16.04.2018 Jug-inc / 2018 / 5
+
+NOUVEAU MOYEN DE FAIT | 153 al. 1 CPC
+
+TRIBUNAL
+CANTONAL
+CO10.035304
+6/2018/CKH
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+P.________
+,
+en France, requérante, d'avec
+O.________
+,
+et
+M.________
+,
+tous les deux à Aigle, intimés.
+___________________________________________________________________
+Du
+16 avril 2018
+______________
+Composition
+:               Mme
+KUHNLEIN, juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès ouvert par la demanderesse (et
+requérante) P.________ contre les défendeurs (et intimés) O.________ et M.________, selon
+demande du 28 octobre 2010 dont les conclusions sont les suivantes, avec suite de frais et dépens:
+"
+A.
+Principalement
+:
+I.
+O.________ et M.________ sont les débiteurs
+solidaires de P.________ des sommes de Fr. 30'544.85 et € 90'704.15, plus intérêt
+à 5% l'an dès le 21 octobre 2003.
+II.
+L'opposition faite au commandement de payer notifié
+à O.________, dans la poursuite no [...]8 de l'Office des poursuites [...] est levée définitivement,
+à concurrence de 171'154 fr. 42, plus intérêt à 5% l'an dès le 21 octobre
+2003.
+III.
+L'opposition faite au commandement de payer notifié
+à M.________, dans la poursuite no [...]9 de l'Office des poursuites [...] est levée définitivement,
+à concurrence de 171'154 fr. 42, plus intérêt à 5% l'an dès le 21 octobre
+2003. (…)"
+B.
+Subsidiairement à la conclusion I
+:
+IV.
+O.________ et M.________ sont les débiteurs
+solidaires de P.________ des sommes de Fr. 171'154.42 (…), plus intérêt à 5% l'an
+dès le 21 octobre 2003.",
+vu la réponse commune des intimés du 17 mars 2011, par laquelle ils ont pris les conclusions
+suivantes, avec dépens:
+"
+I.-
+La demande est rejetée.
+II.-
+Ordre est donné au Préposé de l'Office des poursuites [...] de ne plus communiquer aux
+tiers les poursuites n
+os
+[...]
+et [...]8 requises par P.________ contre O.________ ainsi que les poursuites n
+os
+[...] et [...]9 requises par P.________ contre M.________.
+III.-
+P.________ est la débitrice d'O.________ et de M.________ d'un montant de CHF 50'000.-, plus
+intérêts à 5% l'an dès le 1
+er
+mai
+2004 et leur en doit immédiat paiement.",
+vu les réplique et duplique des parties des 11 septembre puis 3 octobre 2012, par lesquelles
+la demanderesse a confirmé ses conclusions et les intimés ont confirmé leurs conclusions
+reconventionnelles I et II, déclarant réduire la conclusion reconventionnelle III en ce sens
+que le montant en capital exigé est de 43'358 fr., le reste de ce chef de conclusion demeurant
+inchangé,
+vu les opérations d'instruction accomplies, en particulier le procès-verbal de l'audition par
+commission rogatoire du témoin [...] le 14 octobre 2013, et le rapport d'expertise établi
+le 12 décembre 2016 par l'expert [...],
+vu la décision du juge instructeur du 21 juin 2017 refusant la mise en œuvre d'une nouvelle
+expertise,
+vu l'avis du juge instructeur du 22 juin 2017, impartissant aux parties un délai au 13 septembre
+2017 pour déposer un mémoire de droit au sens de l'art. 317a CPC-VD (Code de procédure
+civile vaudoise du 14 décembre 1966; RSV 270.11),
+vu la requête incidente de réforme datée du 12 septembre 2017, reçue le lendemain
+par le Tribunal de céans, par laquelle P.________ a pris les conclusions suivantes, avec suite de
+frais et dépens:
+"
+I.-
+La demanderesse est autorisée à se réformer
+à la veille du délai de réplique pour introduire les allégués et offres de preuves
+suivants:
+258.-
+(…)
+(…)
+267.-
+(…)
+II.-
+La demanderesse est autorisée à se réformer
+à la veille du délai de réplique pour corriger comme suit l'allégué 100:
+267.-
+(sic) (…)
+III.-
+Un délai de 30 jours est imparti à
+la demanderesse pour déposer sa réplique complémentaire.
+IV.-
+Les frais de la procédure de réforme
+suivent le sort des frais de la cause.
+V.-
+Un délai est imparti aux plaideurs, après
+la fin du complétement de la procédure écrite, pour déposer un Mémoire de droit.",
+vu le bordereau annexé à cette requête, comprenant la pièce 33 offerte à titre
+de preuve et requérant la production de la pièce 65 en mains des défendeurs,
+vu l'avis du juge instructeur du 13 septembre 2017 suspendant le délai pour déposer des
+mémoires de droit,
+vu l'avis du juge instructeur du 24 novembre 2017 notifiant la requête de réforme aux
+intimés, leur impartissant un délai au 14 décembre 2017 pour faire la déclaration
+prévue par l'art. 148 CPC-VD ou indiquer les mesures d'instruction demandées, dit avant
+interpellation au sens de l'art. 149 al. 4 CPC-VD pour toutes les parties,
+vu le courrier du 1
+er
+décembre
+2017 des intimés, qui ont déclaré ne pas avoir d'objection à ce qu'il soit fait usage
+de la possibilité réservée à l'art. 149 al. 4 CPC-VD,
+vu les déterminations des intimés du 14 décembre 2017, par lequel ils ont déclaré
+ne pas s'opposer aux conclusions incidentes sous réserve de la question des frais, des dépens
+devant leur être alloués,
+vu le délai imparti aux parties par le juge instructeur pour produire un mémoire incident,
+fixé au 13 février 2018 pour la requérante et au 6 mars 2018 pour les intimés
+(avis 23 janvier 2018), prolongé par la suite au 8 respectivement 22 mars 2018 (avis
+du 15 février 2018), puis au 23 mars respectivement 9 avril 2018 (avis du 13 mars
+2018),
+vu le mémoire incident produit le 23 mars 2018 par la requérante, qui a maintenu ses conclusions
+incidentes,
+vu le mémoire incident des intimés du 9 avril 2018, par lequel ils ont pris les conclusions
+suivantes:
+"
+I.-
+Déclarer ne pas s'opposer à la conclusion
+I prise au pied de la requête de réforme du 12 septembre 2017 et confirmée dans le
+mémoire incident du 23 mars 2018, étant précisé qu'ils s'en remettent à
+la justice quant à la pertinence des allégués et en particulier de l'allégué
+265.
+II.-
+Déclarer ne pas s'opposer aux conclusions
+II, III et V prise au pied de la requête de réforme du 12 septembre 2017 et confirmée
+dans le mémoire incident du 23 mars 2018.
+III.-
+Conclure au rejet de la conclusion IV prise au pied de la requête de réforme du 12 septembre
+2017 et confirmée dans le mémoire incident du 23 mars 2018.
+IV.-
+Conclure à l'allocation aux intimés
+d'un montant fixé à dire de justice à titre de dépens frustraires.
+V.
+Avec suite de frais et dépens pour la procédure
+incidente."
+vu les autres pièces au dossier,
+vu les art. 4 al. 1, 5 al. 3, 19, 146 ss, 153 ss, 164 al. 4, 168, 178 al. 1,
+317a et 317b CPC-VD, ainsi que les art. 404 al. 1 et 405 al. 1 CPC (Code de procédure
+civile du 19 décembre 2008, RS 272);
+attendu que les procédures pendantes avant l'entrée en vigueur du droit fédéral de
+procédure civile, au 1
+er
+janvier
+2011, demeurent régies par l'ancien droit de procédure cantonal jusqu'à la clôture
+de l'instance (art. 404 al. 1 CPC), le jugement incident rendu dans ce cadre étant également
+régi par l'ancien droit de procédure (CREC II, 20 juillet 2011/66 consid. 1/a; Haldy,
+La nouvelle procédure suisse, Bâle 2009, p. 3 n. 7; Tappy, Le droit transitoire applicable
+lors de l'introduction de la nouvelle procédure civile unifiée
+in
+JdT 2010 III 11 spéc. p. 19),
+qu'en l'occurrence, la requérante a ouvert action par demande du 28 octobre 2010, de sorte
+que la cause est soumise à l'ancien droit de procédure (art. 404 al. 1 CPC) et notamment
+au CPC-VD, et il en va dès lors de même pour la présente procédure incidente;
+attendu qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution
+d'un délai, corriger ou compléter sa procédure peut, jusqu'à l'expiration du délai
+fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+que la requête doit indiquer les motifs et l'étendue de la réforme demandée (art. 154
+al. 1 CPC-VD),
+que la partie qui sollicite la réforme doit ainsi préciser les opérations nouvelles qu'elle
+se propose de faire dans le délai dont elle demande la restitution (Poudret
+et
+alii,
+Procédure civile vaudoise, 3
+e
+éd., Lausanne 2002, n. 1 ad art. 154 CPC-VD),
+qu'en l'espèce, la requête du 12 septembre 2017 a été déposée dans
+le délai arrêté au 13 septembre 2017 pour déposer les mémoires de droit,
+soit en temps utile,
+qu'elle indique les onze allégués nouveaux que la requérante entend introduire en procédure,
+ainsi que l'allégué qu'elle entend modifier, à chaque fois en précisant les offres
+de preuves qui s'y rapportent,
+que l'étendue et l'objet de la réforme ressortent ainsi de la requête, conformément
+à l'art. 154 al. 1 CPC-VD,
+que la requête est au surplus conforme aux exigences des art. 19 et 147 al. 1 CPC-VD régissant
+la forme incidente, applicable en l'espèce par le renvoi de l'art. 154 al. 2 CPC-VD,
+qu'elle est dès lors recevable en la forme;
+attendu que la réforme n'est accordée que si la partie y a un intérêt réel et
+si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et 3
+CPC-VD),
+que l'intérêt à la réforme doit être apprécié au regard de l'ensemble
+des circonstances, notamment de la pertinence du fait allégué, de sa vraisemblance, de la forme
+de la preuve offerte et de la durée probable de la procédure consécutive à la réforme
+(JdT 2002 III 190; Poudret
+et
+alii
+, op. cit., n. 4 ad art. 153
+CPC-VD),
+que la réforme doit notamment être refusée lorsqu'elle tend à l'introduction de faits
+dépourvus de pertinence ou déjà invoqués sous une autre forme en procédure (JdT
+2003 III 114),
+que la réforme permet toutefois de compléter les offres de preuve d'un fait déjà
+allégué en procédure,
+que le législateur n'a pas suivi le projet de loi qui prévoyait que la requête de réforme
+présentée avec un retard inexcusable devait être écartée (Bulletin du Grand
+Conseil [BGC], séance du 7 septembre 1966, p. 921; Poudret
+et
+alii
+, op. cit., n. 2 ad art. 153
+CPC-VD),
+qu'il a ainsi voulu prohiber la requête de réforme présentée à des fins exclusivement
+dilatoires et non sanctionner la requête tardive, dont le dépôt n'est pas soumis à
+un délai précis (cf. art. 317b CPC-VD; JdT 2003 III 114 consid. 4; JdT 1985
+III 106 consid. 7 avec note),
+qu'au surplus, il n'incombe pas à la requérante d'établir qu'elle n'a pas déposé
+sa requête dans le but de prolonger la procédure, puisque l'art. 153 al. 3 CPC-VD
+ne pose pas une telle condition négative, mais réserve une exception analogue à l'abus
+de droit (Poudret
+et alii
+,
+op. cit., n. 8 ad art. 153 CPC-VD);
+attendu qu'en l'espèce, les intimés s'en remettent à justice quant au sorte de la requête
+de réforme, mais reprochent à la requérante d'agir de manière purement dilatoire,
+que la réforme requise tend principalement à compléter les moyens de défense de la
+requérante s'agissant des conclusions reconventionnelles prises contre elle, mais pas exclusivement
+(cf.
+infra
+ad correction de l'allégué 100),
+que la requérante n'a du reste pas retiré, ni réduit ses conclusions contre les intimés,
+de sorte que son intérêt à l'issue du litige ne se restreint pas à résister
+aux prétentions soulevées contre elle,
+qu'il ne saurait dans ces conditions être question d'une requête à but purement dilatoire,
+qu'il convient pour le surplus d'examiner l'intérêt réel de la requérante à
+la réforme à la lumière des actes de procédure au dossier et des allégués
+nouveaux dont elle requiert l'introduction, selon ce qui suit;
+attendu que la requérante allègue dans le procès au fond qu'elle a acquis, pour investissement,
+une quote-part du cheval "[...]" (all. 14 ss), selon un montage financier organisé
+par les intimés, et qu'elle s'est acquitté à cette fin d'une somme de 490'775 FF
+(all. 41 et 42), alors que le cheval présentait un défaut (all. 44
+ss),
+qu'elle exige des intimés la réparation d'un dommage qu'elle chiffre à 30'544 fr. 85
+et 90'704,15 euros, subsidiairement 171'154 fr. 42, alors que les intimés font valoir
+contre elle des prétentions par 43'358 fr. à titre reconventionnel;
+attendu que la requérante conclut à ce qu'elle soit autorisée à corriger l'allégué
+100 de sa demande (conclusion n. II, qui mentionne un allégué nouveau 267), en modifiant
+une date, d'une part, et le montant d'un prélèvement sur un compte bancaire, qui découle
+de l'addition de deux factures mentionnées sous allégués 98 et 99, d'autre part,
+qu'en vertu de l'art. 164 al. 4 CPC-VD, les allégués admis ne peuvent être retirés
+qu'aux conditions de l'article 168 CPC-VD, savoir en cas d'erreur de fait,
+que tel n'est pas le cas de l'allégué 100 ici en cause, au sujet duquel les intimés ont
+renvoyé aux pièces en relevant une erreur de calcul dans les montants figurant dans l'allégué
+(cf. leurs déterminations dans la réponse du 17 mars 2011),
+que rien ne s'oppose donc à la réforme sur ce point, aucune offre de preuve nouvelle n'étant
+du reste proposée pour cet allégué, ce qui exclut toute mesure d'instruction supplémentaire,
+que ce qui précède n'a toutefois pas pour but d'introduire un nouvel allégué en procédure
+(la requête comprend d'ailleurs déjà un allégué 267 nouveau sous conclusion
+n. I, ce qui peut prêter à confusion), mais de corriger, et donc remplacer, l'actuel allégué
+100,
+qu'il convient dès lors de faire droit aux conclusions de la requérante en ce sens que celle-ci
+est autorisée à se réformer pour réintroduire l'allégué 100 dans une
+nouvelle teneur;
+attendu que la requête de réforme porte par ailleurs, sous conclusion n. I, sur l'introduction
+des allégués 258 à 267 nouveaux;
+attendu que l'allégué 258 nouveau tend à ce que les pièces produites par la requérante,
+"soit essentiellement les pièces 5, 7, 8, 16, 17, 19 à 24 et 27" soient censées
+alléguées en leur entier,
+que la requérante cherche ainsi à compléter ses offres de preuves, ce qui est en soi admissible,
+qu'au demeurant, les offres de preuves relatives aux pièces précitées ont été
+admises par ordonnance sur preuves du 7 mars 2013, sous réserve de la pièce 27 invoquée
+uniquement en lien avec des allégués admis par les intimés, cette pièce se trouvant
+néanmoins au dossier,
+que la pertinence de ces pièces a dès lors déjà été admise soit au travers
+de l'ordonnance sur preuve précitée, soit par les intimés qui ont admis les faits que
+la pièce 27 était supposée prouver,
+que les pièces concernées figurent en outre déjà au dossier, et qu'on peine dès
+lors à voir les inconvénients que la réforme entraînerait à cet égard,
+de sorte que l'intérêt de la requérante à la réforme est prépondérant;
+attendu que les allégués 259 à 264 nouveaux ont quant à eux trait aux circonstances
+entourant les prétentions soulevées par les intimés contre la requérante, en particulier
+un contrat du 10 octobre 1999 invoqué à ce titre et divers montants réclamés
+par les intimés ou versés par la requérante,
+que les intimés relèvent que ces faits ne semblent pas avoir d'effet sur le sort de la cause
+au fond, et estiment que la pertinence des allégués nouveaux précités est ainsi discutable,
+que ces allégués nouveaux sont cependant à mettre en lien avec l'allégué 265
+nouveau, selon lequel le témoin [...] aurait versé des montants aux défendeurs (cf.
+infra
+),
+qu'il semble dès lors, et l'on ne peut en tout cas pas l'exclure à ce stade, que la requérante
+souhaite introduire en procédure des allégués dont il résulterait qu'elle ne s'est
+pas acquittée personnellement de montants envers les intimés, potentiellement pour en déduire
+l'absence d'une dette de sa part,
+que la pertinence de ces allégués nouveaux, appréciée de manière anticipée,
+ne peut pas être exclue, de sorte que la requérante a dans cette mesure un intérêt
+prépondérant à se réformer;
+attendu que la requérante requiert de pouvoir introduire l'allégué 265 nouveau en procédure,
+selon lequel il résulte de l'audition du témoin [...] qu'il avait versé des montants aux
+défendeurs, devant être établis par réquisition de pièces,
+que les intimés contestent en substance la pertinence de cet allégué nouveau, relevant
+que la facturation de montants au témoin [...] découle de pièces déjà produites
+par la requérante,
+qu'en procédure vaudoise, le juge ne peut fonder son jugement sur d'autres faits que ceux qui ont
+été allégués dans l'instance (art. 4 al. 1
+in
+initio
+CPC-VD),
+qu'en l'espèce les intimés ne prétendent pas que les montants facturés au témoin
+[...] ont été allégués, mais seulement qu'ils ressortent des pièces produites,
+ce qui est insuffisant à la lumière de l'art. 4 CPC-VD,
+qu'au demeurant, la facturation d'un montant et son versement sont deux faits distincts, de sorte que
+l'allégué 265 nouveau garde toute sa pertinence à la lumière des actes de procédure
+et des pièces au dossiers,
+que les intimés soutiennent encore ignorer la teneur de la pièce 65 requise offerte pour prouver
+l'allégué 265 nouveau, que l'objet de la réforme n'est dans cette mesure pas précisée,
+et qu'il ne devrait donc pas y être fait droit,
+que l'art. 178 al. 1 CPC-VD exige de chaque partie qu'elle produise, sitôt qu'elle en
+est requise par le juge, les titres en sa possession ou à sa disposition en les mains d'un tiers,
+pourvu qu'ils soient désignés avec une précision suffisante,
+qu'on ne saurait exiger d'une partie qui n'a jamais possédé les pièces qu'elle requiert,
+une précision rigoureuse dans leur désignation (Poudret
+et
+alii
+, op. cit., n. 1 ad art. 178
+CPC.VD),
+qu'on se trouve ainsi dans le cas de figure précité, de sorte que les exigences de précision
+dans la désignation de la pièce requise ne doivent pas être trop élevées,
+que le bordereau produit à l'appui de sa requête désigne la pièce 65 requise, en
+mains des défendeurs, comme "toutes pièces établissant a) l'ensemble des montants
+facturés à [...], b) les motifs de ces facturations et c) la totalité des montants qui
+leur ont été payés par [...]",
+que cette désignation est suffisante pour permettre aux intimés d'identifier ce qui est requis
+d'eux, malgré qu'ils prétendent le contraire,
+que la réforme doit dès lors être admise également en lien avec l'allégué
+265 nouveau et la pièce 65 requise en mains des intimés;
+attendu que par l'allégué 266 nouveau, la requérante invoque en outre, "à toutes
+fins utiles", les exceptions de prescription et de compensation contre ces prétentions,
+qu'un tel procédé répond aux prescriptions formelles du CPC-VD (cf. Poudret
+et
+alii
+, op. cit., n. 3 ad art. 138
+CPC-VD), sans entraîner de mesures d'instruction supplémentaires, de sorte qu'il doit être
+fait droit à la réforme sur ce point,
+attendu que la conclusion n. I de la requête comprend finalement l'allégué 267 nouveau
+(à ne pas confondre avec l'allégué corrigé dont l'introduction en procédure
+a été requise sous conclusion n. II; cf.
+supra
+),
+selon lequel le Prof. [...] a établi le 17 avril 2017, à la demande du conseil de la requérante,
+un rapport d'expertise privée censé allégué en entier, produit à titre d'offre
+de preuve,
+que les intimés font valoir que la production de cette pièce est une manœuvre de contournement
+de la décision du 21 juin 2017 par laquelle le juge instructeur a refusé de mettre en
+œuvre une seconde expertise,
+qu'il résulte cependant de ce qui précède que la requérante doit être autorisée
+à introduire des allégués nouveaux en procédure, de sorte qu'il n'y a pas lieu de
+se montrer trop sévère lors de l'examen de son intérêt réel à introduire
+l'allégué 267 nouveau et la pièce nouvelle 33 en procédure,
+que le juge apprécie en particulier librement les preuves, selon son intime conviction (art. 5
+al. 3 CPC-VD), et qu'il en ira le cas échéant de même pour la pièce 33 nouvelle,
+qu'il n'y a dès lors pas d'intérêt prépondérant à refuser la réforme
+en ce qui concerne ces allégué et pièce nouveaux,
+que cela résulte également du fait que les intimés déclarent s'en remettre à
+justice, sans contester formellement l'introduction de l'allégué 267 nouveau et de la pièce
+33 nouvelle offerte pour le prouver;
+attendu qu'au vu de tout ce qui précède, il faut admettre intégralement les conclusions
+n. I et II de la requérante;
+attendu qu'un délai de vingt jours dès la réception du présent jugement incident
+sera imparti à la requérante pour déposer une écriture complémentaire contenant
+l'allégué 100 dans sa nouvelle teneur, ainsi que les allégués 258 à 267 nouveaux,
+et les offres de preuve y afférentes,
+qu'un délai sera ensuite imparti aux intimés pour se déterminer sur ces allégués
+et, au besoin, alléguer des faits connexes;
+attendu que tous les actes du procès peuvent, et doivent, être maintenus (cf. art. 155
+al. 21 CPC-VD);
+attendu que la partie qui obtient la réforme est chargée des dépens frustraires, à
+moins qu'elle n'établisse n'avoir pu connaître en temps utile le fait qui l'incite à corriger
+la procédure (art. 156 al. 2 CPC-VD),
+qu'en l'espèce, la requérante invoque la survenance de faits nouveaux,
+qu'il résulte cependant de ce qui précède qu'elle a eu connaissance des faits qu'elle
+entend nouvellement alléguer, ainsi que des déclarations du témoin [...] et du rapport
+d'expertise privée [...] du 19 avril 2017, déjà avant la clôture de l'instruction,
+qu'elle a toutefois choisi de requérir la mise en œuvre d'une seconde expertise, et n'a déposé
+la requête de réforme ici en cause qu'après le rejet de cette première requête,
+qu'il lui appartient d'assumer les conséquences de ses choix procéduraux,
+que la requête de réforme a du reste été déposée le 12 septembre 2017,
+à la veille du délai imparti aux parties pour déposer un mémoire de droit, soit alors
+que le conseil des intimés avait manifestement déjà exécuté la majeure partie
+de la rédaction du mémoire en question,
+qu'il se justifie donc de mettre à sa charge des dépens frustraires, au bénéfice
+des intimés solidairement entre eux,
+que ceux-ci sont fixés en fonction des opérations que les intimés devront refaire ou reconsidérer
+en raison de la réforme, alors qu'elles auraient pu être évitées dans le cours ordinaire
+de la procédure (JICC, 3 mars 2003/53),
+qu'il convient en l'espèce d'arrêter les dépens frustraires à 2'000 francs,
+attendu que la requérante doit supporter les frais de la présente procédure incidente,
+arrêtés à 900 fr. (art. 4 al. 1 et 170a al: 1 aTFJC [Tarif des
+frais judiciaires en matière civile du 4 décembre 1984, abrogé], applicable par le
+renvoi de l'art. 99 al. 1 TFJC [Tarif des frais judiciaires en matière civile du 28 septembre
+2010; RSV 270.11.5]);
+attendu que le juge statue librement sur l'adjudication des dépens de l'incident soulevés par
+la requête de réforme (art. 156 al3 CPC-VD),
+que la partie qui s'oppose à la réforme peut être condamnée aux dépens de l'incident
+(Poudret
+et alii
+,
+op. cit., n. 2 ad art. 156 CPC-VD),
+qu'en l'occurrence, les intimés ont déclaré ne pas s'opposer à la réforme, quand
+bien même ils ont développé divers arguments selon lesquels celle-ci semblait discutable,
+voire injustifiée,
+que même à considérer ces arguments comme une opposition matérielle à la requête,
+il ressort de ce qui précède que la requérante est mal fondée à exiger le versement
+de dépens, compte tenu notamment du moment où cette requête a eu lieu et des dépens
+frustraires alloués aux intimés pour ce motif;
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme déposée le 21 novembre par la requérante P.________
+est admise.
+II.
+La requérante est autorisée à introduire l'allégué 100 dans sa nouvelle teneur,
+telle qu'elle ressort de la conclusion n. II de sa requête, ainsi que les allégués
+nouveaux 258 à 267 figurant sous conclusion n. I de sa requête, à chaque fois avec
+les offres de preuve y relatives.
+III.
+Un délai de
+vingt
+jours
+dès réception du présent jugement est imparti à la requérante pour déposer
+une écriture complémentaire conforme au chiffre II ci-dessus.
+IV.
+Un délai sera fixé ultérieurement aux intimés O.________ et M.________ pour se déterminer
+sur la nouvelle teneur de l'allégué 100 et les allégués nouveaux de la requérante
+et, le cas échéant, introduire des allégations et des offres de preuve connexes à
+celles autorisées par le présent jugement incident.
+V.
+Tous les actes du procès sont maintenus.
+VI.
+Les frais de la procédure incidente, arrêtés à 900 fr. (neuf cents francs),
+sont mis à la charge de la requérante.
+VII.
+La requérante versera aux intimés, solidairement entre eux, un montant de 2'000 fr. (deux
+mille francs), à titre de dépens frustraires.
+VIII.
+Toutes autres ou plus amples conclusions sont rejetées.
+Le
+juge instructeur :              Le greffier :
+C. Kühnlein
+L. Cloux
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils des parties.
+Le greffier :
+L. Cloux
