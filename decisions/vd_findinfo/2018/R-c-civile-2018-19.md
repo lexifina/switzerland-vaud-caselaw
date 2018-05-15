@@ -1,0 +1,224 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2018___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2018 / 19"
+decided: "2018-05-15"
+published: "2018-05-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20180514081411149_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-124.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md"]
+---
+
+# VD Findinfo Réc-civile / 2018 / 19
+
+## Regeste
+
+RÉCUSATION, REJET DE LA DEMANDE | 6 al. 1 let. a ROTC, 47 al. 1 let. f CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 15.05.2018 Réc-civile / 2018 / 19
+
+RÉCUSATION, REJET DE LA DEMANDE | 6 al. 1 let. a ROTC, 47 al. 1 let. f CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+TD13.053567/SOS
+19
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 15 mai 2018
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              Mmes
+Revey et Di Ferro Demierre
+Greffière
+:              Mme
+Paschoud-Wiedler
+*****
+Art.
+47 al. 1 let. f et 50 al. 2 CPC ; 8a al. 7 CDPJ ; 6 al. 1 let. a ROTC
+Vu la demande unilatérale en divorce déposée le 12 mars 2013 par D.________ auprès
+du Tribunal de l’arrondissement de l’Est vaudois contre B.________,
+vu l’ordonnance du 26 mars 2014, par laquelle la Présidente du Tribunal civil de l’arrondissement
+de l’Est vaudois a notamment ordonné au [...] d’interdire à B.________ tout retrait,
+transfert d’argent, de titres ou de valeurs supérieurs à un montant total de 15'000 fr.
+par mois,
+vu l’ordonnance de preuve du 28 mai 2015 de la Présidente du Tribunal civil de l’arrondissement
+de l’Est vaudois nommant notamment trois notaires en qualité d’experts,
+vu le prononcé du 30 septembre 2015 de la Présidente du Tribunal civil de l’arrondissement
+de l’Est vaudois désignant un avocat à B.________ dans le cadre de la procédure
+en divorce,
+vu la demande en récusation de la Présidente A.________ déposée le 26 mars 2018 par
+B.________,
+vu la décision du 2 mai 2018 rendue par le Tribunal de l’arrondissement de l’Est vaudois
+rejetant notamment la requête de récusation déposée par B.________,
+vu le recours interjeté par B.________ le 7 mai 2018 contre la décision susmentionnée,
+vu les pièces au dossier ;
+attendu que le recours est dirigé contre une décision statuant sur la récusation d’un
+magistrat de première instance,
+que l'art. 50 al. 2 CPC (Code de procédure civile du
+19
+décembre 2008 ; RS 272) prévoit que la décision sur récusation peut faire l'objet
+d'un recours au sens des art. 319 ss CPC,
+que la Cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010 ; RSV 211.02] et 6 al. 1 let. a ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007 ; RSV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC ; Tappy, Code
+de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi, le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+qu'en l'espèce, il y a lieu de considérer que le recours a été déposé en
+temps utile par une partie qui a qualité pour recourir ;
+attendu que selon l'art. 47 al. 1 let. f CPC, les magistrats et fonctionnaires judiciaires se récusent
+lorsqu'ils pourraient être prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié
+avec une partie ou son représentant,
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999 ; RS 101)
+et 6 § 1 CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales
+du 4 novembre 1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès
+puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012
+consid. 2.1 ; ATF 138 I 1 consid. 2.2 et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid. 2.1),
+que la garantie du juge impartial ne commande pas, en principe, la récusation d’un juge aux
+motifs qu’il aurait, lors d’un procès précédent, rendu une décision défavorable
+à l’intéressé (Bohnet, Code de procédure civile commenté, op. cit.,
+n. 23 ad art. 47 CPC et les références citées),
+que des décisions ou des actes de procédure prétendument viciés, voire arbitraires,
+ne fondent pas en soi une apparence objective de prévention (TF 5A_171/2015 du 20 avril 2015
+consid. 6.1 ; TF 4A_377/2014 du 25 novembre 2014 consid. 6.1 et les références citées) ;
+attendu que le recourant fait valoir que la Présidente A.________ aurait fait preuve d’abus
+de pouvoir en bloquant ses comptes bancaires, en lui désignant un avocat, en refusant de prendre
+en considération des éléments nouveaux du dossier et en «
+décidant
+d’une convocation
+» pour les plaidoiries
+finales,
+qu’il se plaint également du fait que la magistrate a transmis l’intégralité
+du dossier à deux notaires et à l’avocate de D.________ et que cela constituerait une
+violation du secret de fonction,
+que selon l’art. 124 CPC, il appartient au tribunal de conduire le procès et de prendre les
+décisions d’instruction nécessaires à une préparation et à une conduite
+rapides de la procédure,
+qu’en l’espèce, rien dans la conduite de la procédure telle qu’elle a été
+menée par la Présidente apparaît sous l’influence d’un quelconque chef de
+prévention,
+qu’il semble bien plutôt que le recourant se plaint indirectement du fait que les décisions
+ayant été prises n’ont pas abondé dans son sens,
+que contrairement à ce que soutient le recourant, ses comptes bancaires n’ont pas été
+bloqués auprès du [...], mais limités à des retraits et à des transferts de
+valeurs ne dépassant pas 15'000 fr. par mois,
+que s’agissant du prononcé du 30 septembre 2015 lui désignant un avocat, cette décision
+a notamment été prise en raison du refus de B.________ de procéder conformément aux
+règles du Code de procédure civile nonobstant les interpellations du Tribunal,
+que le dossier de la cause a été transmis aux notaires désignés par ordonnance de
+preuve du 28 mai 2015 pour liquider le régime matrimonial des parties ainsi qu’à l’avocate
+de la partie adverse,
+qu’on peine ainsi à voir en quoi la magistrate aurait objectivement fait preuve de partialité,
+qu’au demeurant même si ces décisions n’indiquaient pas de voies de recours, rien
+n’empêchait B.________ de les contester auprès de l’instance supérieure s’il
+estimait qu’elles lui causaient un préjudice irréparable,
+qu’elles ne peuvent ainsi pas être contestées dans le cadre d’une demande de récusation,
+que par conséquent les griefs susmentionnés tombent à faux ;
+attendu que le recourant fait aussi valoir que la Présidente A.________ a fait preuve de partialité
+car elle se serait uniquement basée sur les affirmations de l’avocate de D.________,
+qu’il fait référence à ce propos à des documents du 17 décembre 2013 et
+12 juin 2014 dont on ignore le contenu et qui n’ont pas été produits avec le mémoire
+de recours,
+qu’il fait également valoir que la Présidente A.________ se serait entretenue en
+a
+parte
+avec l’avocate de D.________ lors
+de deux sessions ayant eu lieu le 20 mars 2014 et le 6 juillet 2014,
+qu’en l’espèce, le recourant se réfère à des événements ayant
+eu lieu il y a plus de quatre ans,
+que contrairement à ce que soutient B.________ dans son mémoire de recours, il est tardif de
+les faire valoir en 2018 dans la mesure où la partie qui entend obtenir la récusation d’un
+magistrat doit en faire la demande aussitôt qu’elle a eu connaissance du motif de récusation
+(art. 49 al. 1 CPC),
+que c’est ainsi à juste titre que le Tribunal n’a pas retenu ces griefs en raison de
+leur tardiveté ;
+attendu que le recourant fait valoir que la Présidente aurait fait « usage de faux »
+au motif qu’elle se serait basée sur les «
+mensonges
+présentés par Me G. Capt pour porter ses jugements
+»
+et que «
+les procès-verbaux
+qui en découlent contiennent des erreurs
+»,
+qu’il argue qu’en session du 7 mai 2015, la magistrate aurait porté un blasphème
+contre le sacrement du mariage alors que le recourant est croyant, et qu’elle l’aurait marginalisé
+au cours de toute la procédure,
+qu’il reproche en outre à la magistrate d’avoir conclu que les conciliations tentées
+n’aboutissaient pas et d’avoir désigné un expert ayant des « relations
+d’initié » avec l’avocate de D.________,
+qu’il invoque encore que la décision du 2 mai 2018 était «
+pipée
+d’avance
+» entre les membres du
+Tribunal et la Présidente A.________ au motif que cette autorité n’a pas eu le temps
+matériel de lire le dossier entre le 30 avril 2018 – date pour se déterminer –
+et la notification de la décision querellée,
+que dans son mémoire de recours, B.________ n’apporte aucun indice objectif quant à la
+véracité de ses propos et ne rend pas vraisemblable en quoi les faits relevés seraient
+empreints de partialité (cf. art. 49 al. 1, 2
+ème
+phrase CPC),
+qu’on ne peut donc pas suivre le recourant sur ces griefs,
+que pour le reste, le recourant plaide le fond,
+que force est ainsi de constater que le recourant ne fait valoir aucun grief permettant de soupçonner
+concrètement une activité partiale de la magistrate intimée dans le cadre de la procédure
+de divorce,
+que partant, il n’existe pas de motifs sérieux de récusation de la Présidente A.________,
+que c’est ainsi à bon droit que le Tribunal a écarté la demande de B.________,
+que le recours doit être rejeté sans autre échange d’écritures (art. 322 al.
+1 CPC) et la décision du 2 mai 2018 confirmée ;
+que les frais judiciaires de deuxième instance peuvent être exceptionnellement laissés
+à la charge de l’Etat (art. 107 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 7 mai 2018 est rejeté.
+II.
+La décision rendue le 2 mai 2018 est confirmée.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+-
+M. B.________,
+-
+Me Gloria Capt, av. (pour D.________),
+-
+Mme la Présidente du Tribunal d’arrondissement de L’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+La greffière:
