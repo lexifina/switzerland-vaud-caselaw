@@ -1,0 +1,342 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 12"
+decided: "2018-05-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6630500"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-043.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 12
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ | 190 al. 1 ch. 2 LP, 190 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 24.05.2018 Faillite / 2018 / 12
+
+FAILLITE SANS POURSUITE PRÉALABLE, INSOLVABILITÉ | 190 al. 1 ch. 2 LP, 190 LP
+
+TRIBUNAL
+CANTONAL
+FW18.004279-180493
+104
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 mai 2018
+_________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+190 al. 1 ch. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+U.________
+Sàrl
+, à [...] contre le jugement rendu
+le 20 mars 2018, à la suite de l’audience du 15 mars 2018, par la Présidente du Tribunal
+d’arrondissement de Lausanne, prononçant la faillite sans poursuite préalable de la recourante
+à la réquisition de
+Confédération
+suisse
+, représentée par l’
+Administration
+fédérale des contributions, division principale ressources
+,
+à Berne.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+U.________ Sàrl, dont le siège est à [...], est une société à responsabilité
+limitée au capital social de 20'000 fr. entièrement libéré, inscrite depuis le 16
+février 2009 au Registre du commerce du canton de Vaud. Elle a pour but l’exploitation d’un
+magasin d’alimentation générale, ainsi que l’importation de produits [...] et [...].
+Elle est gérée par K.________, associé-gérant au bénéfice de la signature
+individuelle. Selon déclaration du 11 février 2009, la société n’est pas
+soumise à une révision ordinaire et a renoncé à une révision restreinte.
+2.
+Assujettie à la TVA, U.________ Sàrl
+ne s’acquitte plus de cet impôt. Les poursuites engagées par l’Administration fédérale
+des contributions ont abouti à la délivrance de trois actes de défaut de biens après
+saisie pour un montant total de 20'687 fr. 30. Les décomptes des premier et deuxième trimestres
+de l’année 2017 font l’objet de poursuites pour respectivement 10'000 fr. et 12'000
+francs. Le décompte du troisième trimestre 2017, échu, n’a été ni remis
+ni payé.
+U.________ Sàrl ne remettant pas les décomptes TVA, certaines périodes fiscales ont été
+taxées par voie d’estimation.
+3.
+Il ressort de l’extrait des registres de
+l’Office des poursuites du district de Lausanne qu’à la date du 15 mars 2018, U.________
+Sàrl faisait l’objet de quatorze poursuites pour un montant total de 47'900 fr., dont cinq
+au stade du commandement de payer (trois faisant l’objet d’opposition), huit au stade de
+la commination de faillite et une ayant fait l’objet d’une saisie fructueuse. Cinq actes
+de défaut de biens après saisie pour un montant total de 22'101 fr. 75, ont en outre été
+délivrés pour des créances d’impôt.
+4.
+Par acte du 30 janvier 2018, la Confédération
+suisse, représentée par l’Administration fédérale des contributions, division
+principale ressources, a requis, avec suite de frais et dépens, du Président du Tribunal d’arrondissement
+de Lausanne qu’il prononce la faillite sans poursuite préalable d’U.________ Sàrl
+en application de l’art. 190 al. 1 ch. 2 LP. Elle a fait valoir que cette société avait
+suspendu ses paiements envers elle et que, sur la base des actes de défaut de biens et de sa créance
+ouverte, l’intéressée faisait montre à son endroit d’une profonde et durable
+carence.
+Par courriers recommandés du 1
+er
+février 2018, la présidente a notifié la requête à U.________ Sàrl et a
+cité les parties à comparaître à l’audience du 15 mars 2018.
+A l’audience du 15 mars 2018, à laquelle la requérante a fait défaut, F.________,
+ancienne gérante d’U.________ Sàrl, dont la signature individuelle a été radiée
+du registre du commerce, sans procuration, a déclaré vouloir éviter à tout prix le
+prononcé de faillite de la société. Elle a indiqué que celle-ci n’avait à
+ce jour plus d’activité, ni stock ni biens ou liquidités et qu’elle avait l’intention
+de commencer une activité de production de [...].
+Le Préposé à l’Office des faillites de l’arrondissement de Lausanne a préavisé
+en faveur du prononcé de la faillite.
+5.
+Par jugement du 20 mars 2018, notifié à
+U.________ Sàrl le 26 mars 2018, la Présidente du Tribunal d’arrondissement de Lausanne,
+statuant en tant qu’autorité de première instance en matière sommaire de poursuites
+pour dettes et de faillite, a admis la requête (I), a prononcé la faillite sans poursuite préalable
+d’U.________ Sàrl, avec effet au 20 mars 2018 à 10 heures (II), a mis les frais judiciaires,
+fixés à 300 fr., à la charge de la faillie (III), a dit que celle-ci rembourserait à
+la requérante son avance de frais, par 300 fr. (IV) et n’a pas alloué de dépens
+(V). En substance, le premier juge a constaté que des poursuites avaient été intentées
+contre la recourante, notamment en lien avec des contributions publiques, dont cinq au stade du commandement
+de payer, huit au stade de la commination de faillite et une ayant fait l’objet d’une saisie
+fructueuse, et qu’il y avait encore cinq actes de défaut de biens, dont trois en faveur de
+la requérante. Il a relevé que, selon les déclarations de la personne qui s’était
+présentée à l’audience, la faillie n’avait à ce jour plus d’activité,
+pas de stock, ni de biens et pas de liquidités. Au vu de ces éléments, il a considéré
+que la cessation de paiement était établie, les retards de paiement ne pouvant être considérés,
+vu le nombre de poursuites, comme relevant d’une simple gêne passagère.
+6.
+Par acte du 28 mars 2018, U.________ Sàrl
+a recouru contre ce jugement en concluant implicitement à ce que sa faillite ne soit pas prononcée.
+Elle a produit les pièces suivantes :
+-
+une copie d’un courrier de la société à l’Administration fédérale
+des contributions non daté, lui communiquant les déclarations de TVA du mois de mai 2015 au
+mois d’octobre 2017 ;
+-
+une copie desdites déclarations.
+Sur réquisition de la cour de céans, l’Office des poursuites du district de Lausanne
+a produit le 3 avril 2018 la liste des affaires en cours de la recourante, dont il ressort qu’elle
+fait l’objet de quatorze poursuites, pour un montant total de 47'996 francs 40, dont huit au stade
+de la commination de faillite, cinq au stade du commandement de payer (trois faisant l’objet d’opposition)
+et une faisant l’objet d’une saisie fructueuse. La liste mentionne encore cinq actes de défauts
+de biens après saisie ayant trait à des créances fiscales pour un montant total de 22'101
+fr. 75, dont trois relatifs à des créances de TVA, pour un montant total de 20'867 fr. 30.
+Dans des déterminations spontanées du 13 avril 2018, l’intimée a indiqué que,
+le 29 mars 2018, la recourante avait remis plusieurs décompte de TVA, permettant ainsi la correction
+des taxations par appréciation et que le solde du compte s’élevait à 1'902 fr. 70,
+intérêts moratoires et frais de poursuites en sus, auquel s’ajoutait le décompte
+du quatrième trimestre 2017 en cours de comptabilisation et impayé. L’intimée a
+déclaré ne pas s’opposer à une révocation de la faillite, pour autant que les
+frais judiciaires demeurent à la charge d’U.________ Sàrl.
+Ces déterminations ont été adressées à la recourante.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1), auquel renvoie l'art.
+194 al. 1 LP, le jugement statuant sur une requête de faillite sans poursuite préalable peut
+faire l'objet d'un recours au sens du CPC (Code de procédure civile du 19 décembre 2008; RS
+272). Le recours au sens des art. 319 ss CPC doit être introduit auprès de l'instance de recours
+par acte écrit et motivé (art. 321 al. 1 CPC), dans les dix jours à compter de la notification
+de la décision motivée (art. 321 al. 2 CPC). En l’espèce, le recours, motivé
+et déposé en temps utile, est recevable formellement.
+b)
+Dans
+la procédure de recours contre une décision du juge de la faillite, selon l’art. 174
+al. 1 in fine LP, les parties peuvent faire valoir des faits nouveaux lorsqu’ils se sont produits
+avant le jugement de première instance. La loi vise ici les faits nouveaux improprement dits (faux
+nova ou pseudo-nova ), savoir qui existaient déjà au moment de l'ouverture de la faillite et
+dont le premier juge n'a pas eu connaissance pour quelque raison que ce soit ; ces faits peuvent être
+invoqués sans restriction devant la juridiction de recours (TF 5A_571/2010 du 2 février 2011
+consid. 2, SJ 2011 I 149 ; Amonn/Walther, Grundriss des Schuldbetreibungs- und Konkursrechts, 9
+e
+éd., 2013, p. 339). Il s’ensuit que, même en deuxième instance, les deux parties
+peuvent alléguer des faits qui se sont produits avant le prononcé de faillite et produire des
+titres aux fins d’établir ces faits. En revanche, seul le débiteur peut produire des
+titres pour établir les faits énumérés limitativement à l’art. 174 al.
+2 ch. 1 à 3 LP. En vertu de ces dispositions, les pièces se rapportant à des faits intervenus
+depuis l’audience de faillite (vrais nova) peuvent être produites, pour autant qu’elles
+tendent à rendre vraisemblable la solvabilité du débiteur et à établir que celui-ci
+a payé sa dette en totalité (ch. 1) ou consigné les montants nécessaires auprès
+de l’autorité compétente (ch. 2) ou que le créancier a retiré sa réquisition
+de faillite (ch. 3). Seul le débiteur peut produire, dans le délai de recours, des titres pour
+établir les faits énumérés limitativement à l’art. 174 al. 2 ch. 1 à
+3 LP (TF 5A_354/2016 du 22 novembre 2016 consid. 6.2.1). Il s’ensuit que, pour juger de l’existence
+d’une suspension de paiements justifiant une faillite sans poursuite préalable, l’autorité
+judiciaire supérieure doit tenir compte des faits nouveaux (vrais nova) et donc de la situation
+financière du débiteur à l'échéance du délai de recours (ATF 139 III 491
+consid. 4 ; ATF 136 III 294 consid. 3 ; TF 5A_442/2015 du 11 septembre 2015 consid. 6.1).
+En l’espèce les pièces produites par la recourante, qui constituent des vrais nova sont
+recevables.
+II.
+La recourante explique qu’elle n’a
+pu durant l’exploitation de son commerce, qui a été difficile, remplir les déclarations
+de TVA. Elle a fini par le faire, ce qui a abouti à une dette inférieure à celle résultant
+des taxations sur estimation objets des poursuites ouvertes contre elle. Elle expose qu’elle entend
+reprendre prochainement une autre activité pour régler ses dettes.
+a/aa)
+Aux termes de l’art. 190 al. 1 ch.
+2 LP, le créancier peut requérir la faillite sans poursuite préalable si le débiteur
+sujet à la poursuite par voie de faillite a suspendu ses paiements.
+La légitimation pour requérir la faillite sans poursuite préalable appartient à celui
+qui prétend être créancier et le rend vraisemblable (TF 5A_452/ 2016 du 12 octobre 2016
+consid. 4; TF 5A_442/2015 du 11 septembre 2015 consid. 4.1). Jurisprudence et doctrine admettent qu’un
+créancier de droit public, qui ne pourrait pas requérir la faillite, vu l’art. 43 ch.
+1 LP, peut requérir la faillite sans poursuite préalable de l’art. 190 al. 1 ch. 2 LP
+(TF 5P.378/1990, SJ 1995 I 496 ; Acocella, Basler Kommentar SchKG, I, n. 12 ad art. 43 LP et les
+réf. cit.).
+bb)
+Le
+système du droit suisse de la poursuite pour dettes et la faillite prévoit fondamentalement
+qu’une procédure de faillite est précédée d’une poursuite préalable
+ordinaire (Fritschi, Verfahrensfragen bei der Konkurseröffnung, thèse Zurich 2010, p. 151;
+Gilliéron, Poursuite pour dettes, faillite et concordat, 5
+e
+éd. n. 564, p. 142). Ce n’est qu’exceptionnellement, dans un certain nombre de cas,
+que la loi permet à un soi-disant créancier de requérir l’ouverture de la faillite
+de son prétendu débiteur sans commandement de payer exécutoire (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, t. III, 2000, n. 2 ad art.
+190 à 194 LP).
+Vu les lourdes conséquences de la déclaration de faillite sans poursuite préalable et
+le fait qu’elle constitue une exception dans le système de l’exécution forcée,
+elle doit être appliquée et interprétée restrictivement. Parmi les causes matérielles
+de la faillite, soumises aux exigences d’une preuve stricte, figure celle de la suspension des
+paiements (Cometta, in Commentaire romand, Poursuite et faillite, 2005, nn. 5 et 10 ad art. 190 LP).
+Cette preuve peut être rapportée sous la forme d’indices et résulter d’actes
+du débiteur permettant de conclure à une suspension ou cessation des paiements (CPF, 29 novembre
+2007/455).
+La suspension de paiements au sens de l’art. 190 al. 1 ch. 2 LP est une notion imprécise qui
+confère au juge de la faillite un ample pouvoir d'appréciation (ATF 137 III 460 consid. 3.4.1;
+TF 5A_442/2015 du 11 septembre 2015 consid. 6.1 ; TF 5A_439/2010 du 11 novembre 2010, SJ 2011 I 175).
+Elle est la manifestation extérieure de l’insolvabilité, qu’il ne faut pas confondre
+avec l’insuffisance d’actifs, c’est-à-dire la situation dans laquelle les passifs
+excèdent les actifs, soit l’endettement ou le surendettement, encore qu’une situation
+prolongée d’insolvabilité aboutit au surendettement, comme un surendettement prolongé
+aboutit à une situation d’insolvabilité (Gilliéron, op. cit., n. 28 ad art. 190
+LP). Cette notion a été préférée par le législateur à celle d’insolvabilité
+parce qu’elle est perceptible extérieurement et par conséquent plus aisée à
+rendre vraisemblable. Lorsque l’insolvabilité est rendue vraisemblable, la faillite sans poursuite
+préalable doit toutefois a fortiori être déclarée (ibid. n. 29 ad art. 190 LP ; TF
+5A_367/2008 du 11 juillet 2008 consid. 4.1) ; lorsqu’il existe de nombreux actes de défauts
+de biens, la condition de la solvabilité est exclue (TF 5A _452/2016 du 12 octobre 2016 consid.
+5.2.2). Pour qu’il y ait suspension de paiements, il faut que le débiteur ne paie pas des
+dettes incontestées et exigibles, laisse les poursuites se multiplier contre lui, tout en faisant
+systématiquement opposition, ou omette de s’acquitter même des dettes minimes, laissant
+démontrer par ce comportement qu’il ne dispose pas de liquidités suffisantes pour honorer
+ses engagements (ATF 137 III 460, consid. 3.4.1). Il n’est pas nécessaire que le débiteur
+interrompe tous ses paiements ; il suffit que le refus de payer porte sur une partie essentielle de ses
+activités commerciales (ATF 137 III 460 consid. 3.4.1; ATF 85 III 146, consid. 4b). Même une
+dette unique n’empêche pas, si elle est importante et que le refus de payer est durable, de
+trahir une suspension de paiements, tel pouvant être le cas lorsque le débiteur refuse de désintéresser
+son principal créancier (TF 5A_354/2016 du 22 novembre 2016 consid. 6.2.1). La suspension des paiements
+ne doit pas être de nature simplement temporaire, mais doit avoir un horizon indéterminé
+(ATF 137 III 460 consid. 3.4.1).
+Le non-paiement de créances de droit public peut constituer un indice de suspension de paiements
+(TF 5A_354/2016 précité ; ATF 137 III 460 consid. 3.4.1). Tel est le cas lorsqu’il
+est établi que le débiteur a sur une certaine durée effectué ses paiements en faveur
+des créanciers autres que ceux de droit public, qui ne pouvant requérir de faillite ordinaire,
+sont renvoyés perdants et doivent se satisfaire d’un acte de défaut de biens (définitif)
+après saisie (art. 43 al. 1 LP ; TF 5A_452/2016 du 12 octobre 2016 consid. 5.2.2 et les réf.
+cit.) ; le but de la loi n’est en effet pas de permettre au débiteur d’échapper
+à la faillite en favorisant de manière systématique ses créanciers privés au
+détriment de ses créanciers de droit public (ibidem).
+b)
+En
+l’espèce, la recourante ne conteste pas être en suspension de paiement, ce qui résulte
+des éléments mis en évidence par la décision attaquée (nombre de poursuites,
+dont certaines pour des créances de droit public, d’actes de défaut de biens et de comminations
+de faillite). Au demeurant, la personne qui s’est présentée à l’audience du
+15 mars 2018 comme représentante de la recourante a déclaré que la société n’avait
+à ce jour plus d’activités, pas de stock ni de biens. Les conditions de l’art.
+190 al. 1 ch. 2 LP sont ainsi manifestement réalisées.
+La recourante fait valoir que sa dette envers l’intimée serait bien inférieure, car elle
+avait été taxée par estimation et qu’elle a aujourd’hui rempli toutes ses
+déclarations de TVA. Ce faisant, elle ne conteste pas la qualité de créancière de
+l’intimée. Certes, cette dernière a déclaré ne pas s’opposer à une
+révocation de la faillite, pour autant que les frais judiciaires demeurent à la charge de la
+recourante. Toutefois un retrait de requête ne peut être conditionnel et, de toute manière,
+un retrait intervenu après la faillite n’est pas opérationnel et peut tout au plus constituer
+un indice d’une solvabilité retrouvée (CPF 13 novembre 2012/424). En l’espèce,
+si le solde dû à l’intimée ne s’élève plus qu’à 1'902
+fr. 70, non compris le décompte du quatrième trimestre 2017, c’est en raison de nouvelles
+décisions de taxation, ensuite du dépôt des déclarations de TVA, et non à des
+paiements de la recourante. Cette dernière fait état du fait qu’elle va commencer prochainement
+une nouvelle activité, mais on ignore tout de cette activité et de ses perspectives, sinon
+qu’il s’agirait de production de [...].
+Cela étant, les conditions au prononcé de faillite sans poursuite préalable sont réalisées
+et le jugement attaqué peut être confirmé.
+III.
+En conclusion, le recours, manifestement mal fondé,
+doit être rejeté et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante U.________ Sàrl.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+U.________ Sàrl,
+‑
+Administration fédérale des contributions, division principale ressources (pour Confédération
+suisse),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne et de l’Ouest lausannois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
