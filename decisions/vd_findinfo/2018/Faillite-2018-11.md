@@ -1,0 +1,345 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 11"
+decided: "2018-06-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6655040"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 11
+
+## Regeste
+
+POURSUITE PAR VOIE DE FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.06.2018 Faillite / 2018 / 11
+
+POURSUITE PAR VOIE DE FAILLITE, INSOLVABILITÉ | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF17.052068-180431
+91
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 juin 2018
+__________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+M.              Valentino
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal
+cantonal, statuant à huis clos en sa qualité d'autorité de recours en matière sommaire
+de poursuites et de faillite, s'occupe du recours exercé par
+E.________
+,
+à Rolle, contre le jugement rendu le 12 février 2018, à la suite de l’audience du
+même jour, par la Présidente du Tribunal d’arrondissement de La Côte, prononçant
+la faillite de la recourante à la réquisition d’
+A.________
+.
+Vu les pièces au dossier, la cour considère :
+En fait
+:
+1.
+Par requête adressée le 4 décembre
+2017 au Président du Tribunal d’arrondissement de La Côte, A.________ a requis la faillite
+d’E.________. Elle a produit le commandement de payer et la commination de faillite notifiés
+à l’intimée dans la poursuite n° [...] de l’Office des poursuites du district
+de Nyon, portant sur la somme totale de 25'011 fr., plus intérêt à 5% l’an dès
+le 25 mai 2017 et frais par 2'066 fr. 60.
+Les parties ont été convoquées à l’audience du 29 janvier 2018. E.________
+ayant produit, le 27 janvier 2018, copie d’un récépissé attestant d’un versement
+de 28'064 fr. 85 en faveur de l’Office des poursuites du district de Nyon, l’audience a été
+reportée au 12 février 2018.
+Contacté par le greffe du Tribunal d’arrondissement de La Côte les 2 et 5 février
+2018, l’Office des poursuites a indiqué n’avoir reçu aucune somme en relation avec
+la poursuite n°  [...], celle-ci n’étant à ce jour pas payée.
+Lors de l’audience du 12 février 2018, qui s’est tenue en présence du conseil d’A.________
+et pour E.________, de [...], associée gérante avec signature individuelle, non assistée,
+cette dernière a admis que le récépissé produit le 27 janvier 2018 était un
+faux et a produit un autre récépissé faisant état d’un versement de 28'110
+fr. 20 en faveur de l’Office des poursuites du district de Nyon dans la poursuite n° [...].
+Contacté par le greffe du tribunal, l’Office des poursuites du district de Nyon a indiqué
+avoir reçu un montant de 22'110 fr. 20 et a produit, sur demande du greffe, copie d’un bulletin
+de versement postal attestant du paiement de ce montant en date du 12 février 2018 ainsi que
+copie du « résumé de la poursuite » litigieuse mentionnant un acompte de
+22'110 fr. 20 et un solde restant à payer de 5'979 fr. 30, intérêts et frais de poursuite
+– d’un total de 3'078 fr. 50 – compris.
+2.
+Par jugement du 12 février 2018, la Présidente
+du Tribunal d’arrondissement de La Côte (ci-après : la Présidente), statuant
+en tant qu’autorité de première instance en matière sommaire de poursuites et de
+faillite, a prononcé la faillite d’E.________ avec effet le 16 février 2018 à 14
+heures (I), a mis les frais judiciaires, fixés à 200 fr., à la charge de la faillie (II)
+et a dit que celle-ci devait verser la somme de 300 fr. à la partie requérante à titre
+de dépens.
+Ce jugement a été notifié à la faillie le 22 février 2018.
+3.
+a)
+Par courrier remis par porteur au greffe du
+Tribunal d’arrondissement de La Côte le 22 février 2018, E.________ a demandé une
+restitution de délai « afin d’annuler [s]a mise en faillite » et a requis
+l’effet suspensif, faisant valoir que la poursuite avait été payée dans son intégralité
+et produisant copie d’un récépissé postal attestant du versement d’un montant
+de 6'020 fr. 90 le 17 février 2018 en faveur de l’Office des poursuites du district de Nyon.
+Par avis du 22 février 2018, la Présidente a imparti à E.________ un délai de cinq
+jours pour lui indiquer si son courrier déposé au greffe du tribunal le même jour devait
+être considéré comme un recours et a convoqué les parties à une nouvelle audience
+fixée au 19 mars 2018, pour statuer sur la demande de restitution (art. 148 CPC [Code de procédure
+civile; RS 272]).
+Le 22 février 2018, l’Office des poursuites du district de Nyon a confirmé au greffe
+du tribunal que la poursuite litigieuse avait été entièrement payée en date du 20 février
+2018 et a produit le « résumé de la poursuite » laissant apparaître
+un solde de 0 franc.
+b)
+Lors
+de l’audience du 19 mars 2018, qui s’est tenue en présence du conseil d’ A.________
+et pour E.________, de
+[...]
+,
+non assistée, cette dernière a indiqué que son écriture du 22 février 2018 dev
+ait
+être considérée comme un recours, précisant ne pas avoir compris les termes du courrier
+de la Présidente du même jour.
+Par prononcé du 20 mars 2018, la Présidente a rejeté la requête en restitution de
+délai déposée par E.________ le 22 février 2018.
+c)
+Par décision du 28 mars 2018, la Présidente
+de la Cour de céans a rejeté la requête d’effet suspensif contenue dans le recours.
+L’extrait des poursuites versé au dossier fait état, au 26 mars 2018, de neuf poursuites
+(hormis celle d’A.________), dont deux sont au stade de la commination de faillite et trois au
+stade de la continuation, le tout pour un montant de 23'688 fr. 85, se détaillant comme suit :
+N°
+de la poursuite
+Etat
+Date
+Créancier
+Solde
+[...]
+Commandements
+de payer notifiés, avec opposition
+29.11.2013
+[...]
+2'939 fr. 60
+[...]
+Commandements
+de payer notifiés, avec opposition
+22.03.2016
+Commune de Rolle
+211 fr. 35
+[...]
+Commandements
+de payer notifiés, avec opposition
+27.03.2017
+[...]
+587 fr. 60
+[...]
+Continuation
+requise
+02.11.2017
+Confédération
+suisse
+6'341 fr. 90
+[...]
+Comminations
+de faillite notifiées
+21.11.2017
+[...]
+3'770 fr. 35
+[...]
+Comminations
+de faillite notifiées
+21.11.2017
+[...]
+1'685 fr. 25
+[...]
+Continuation
+requise
+29.11.2017
+Confédération
+suisse
+1'927 fr. 15
+[...]
+Continuation
+requise
+29.11.2017
+Caisse AVS de
+la Fédération patronale vaudoise
+15 fr. 70
+[...]
+Commandements
+de payer notifiés, sans opposition
+05.02.2018
+Confédération
+suisse
+6'209 fr. 95
+Total
+23'688 fr. 85
+Le 11 avril 2018, la recourante s’est déterminée sur cette liste et a produit un lot
+de pièces.
+L’intimée A.________ n’a pas été invitée à se déterminer sur
+le recours.
+En droit
+:
+I.
+a)
+En
+vertu de l'art. 174 al. 1 LP (loi fédérale sur la poursuite pour dettes et la faillite; RS
+281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+au sens du CPC. Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit
+et motivé, introduit auprès de l'instance de recours.
+En vertu de l'art. 174 al. 1 2
+e
+phrase LP, les parties peuvent faire valoir devant l'instance de recours des faits nouveaux lorsque ceux-ci
+se sont produits avant le jugement de première instance. La loi vise ici les faits nouveaux improprement
+dits (faux nova ou pseudo-nova), à savoir ceux qui existaient déjà au moment de l'ouverture
+de la faillite et dont le premier juge n'a pas eu connaissance pour quelque raison que ce soit; ces faits
+peuvent être invoqués sans restriction devant la juridiction de recours, pour autant qu'ils
+le soient dans le délai de recours (ATF 139 III 491 consid. 4.4). Selon la jurisprudence, les vrais
+nova – à savoir les faits qui sont intervenus après l'ouverture de la faillite en première
+instance (art. 174 al. 2 ch. 1-3 LP) – doivent également être produits avant l'expiration
+du délai de recours (ATF 139 III 491 consid. 4; ATF 136 III 294 consid. 3; TF 5A_899/2014 du 5 janvier
+2015 consid. 3.1 et les autres références, publié in SJ 2015 I p. 437). En vertu de la
+lettre claire de l'art. 174 al. 2 LP, aucun autre novum n'est admissible (TF 5A_874/2017 du 7 février
+2018 ; TF 5A_625/2015 du 18 janvier 2016 consid. 3.6.1). L'octroi d'un délai pour se déterminer
+sur l'extrait du registre des poursuites et des actes de défaut de biens requis d'office et joint
+au dossier n'a pas pour effet de prolonger le délai de recours ni d'instituer un délai supplémentaire
+pour produire des pièces (TF 5A_681/2016 du 24 novembre 2016 ; CPF 7 juillet 2016/215 ; CPF 16 octobre
+2013/409).
+b)
+En l'espèce, l’acte remis par porteur le 22 février 2018 au greffe du Tribunal d’arrondissement
+de La Côte – considéré comme un recours – a été déposé
+en temps utile et dans les formes requises, la recourante demandant l’annulation de la faillite.
+Il est ainsi recevable.
+L’écriture du 11 avril 2018 est également recevable à titre de détermination
+sur l'extrait des poursuites versé d'office au dossier. Les pièces qui y étaient jointes
+sont en revanche irrecevables, car produites après l’échéance du délai de recours.
+II.
+La recourante se prévaut du fait qu'elle
+se serait acquittée intégralement de la dette à l'origine de la commination de faillite.
+a)
+Conformément à l'art. 174 al. 2 LP,
+l’autorité de recours peut annuler le jugement de faillite lorsque le débiteur rend vraisemblable
+sa solvabilité et qu'il établit par titre que l'une des conditions suivantes est remplie :
+la dette, intérêts et frais compris, a été payée (ch. 1), la totalité du
+montant à rembourser a été déposée auprès de l'autorité de recours
+à l'intention du créancier (ch. 2) ou le créancier a retiré sa réquisition de
+faillite (ch. 3). Ainsi, le débiteur ne doit pas uniquement prouver le paiement de la dette à
+l'origine de la faillite, mais en outre rendre vraisemblable sa solvabilité (TF 5A_153/2017 du 21
+mars 2017 consid. 3.1 ; TF 5A_413/2014 du 20 juin 2014 consid. 3 et les arrêts cités). Cette
+condition ne doit pas être soumise à des exigences trop sévères; il suffit que la
+solvabilité apparaisse plus probable que l'insolvabilité (TF 5A_153/2017 précité
+et les réf.; Diggelmann, in Kurzkommentar SchKG, 2
+e
+éd., 2014, n° 15 ad art. 174 LP). L'appréciation de la solvabilité repose sur une
+impression générale fondée sur les habitudes de paiement du failli (TF 5A_153/2017 précité
+consid. 3.1 ; TF 5A_681/2016 du 24 novembre 2016 consid. 3.1.1 ; TF 5A_912/2013 du 18 février 2014
+consid. 3; TF 5A_328/2011 du 11 août 2011 consid. 2, reproduit in SJ 2012 I p. 25; TF 5A_642/2010
+du 7 décembre 2010 consid. 2.4; TF 5A_350/2007 du 19 septembre 2007 consid. 4.3; Diggelmann,
+ibid., n° 13) ; le débiteur doit établir qu'aucune requête de faillite dans
+une poursuite ordinaire ou dans une poursuite pour effets de change n'est pendante contre lui et qu'aucune
+poursuite exécutoire n'est en cours (TF 5A_153/2017 précité consid. 3.1 ; TF 5A_413/2014
+précité consid. 4.1 et les références).
+Dans ce domaine, il ne faut pas poser d'exigences trop sévères, en particulier lorsque la viabilité
+de l'entreprise endettée ne saurait être déniée d'emblée. Il incombe au débiteur
+d'offrir les moyens de preuve propres à rendre vraisemblable sa solvabilité, c'est-à-dire
+qu'il dispose de liquidités suffisantes pour acquitter ses dettes exigibles (TF 5A_328/2011 précité
+consid. 2 ; Message du Conseil fédéral du 8 mai 1991 concernant la révision de la loi
+fédérale sur la poursuite pour dettes et la faillite, FF 1991 III p. 130 s.). En principe,
+s'avère insolvable le débiteur qui, par exemple, laisse des comminations de faillite s'accumuler,
+fait systématiquement opposition et ne paie pas même des montants peu élevés. De
+simples difficultés passagères de paiement ne font en revanche pas apparaître insolvable
+le débiteur, à moins qu'il n'y ait aucun indice important permettant d'admettre une amélioration
+de sa situation financière et qu'il semble manquer de liquidités pour une période indéterminée
+(TF 5A_469/2012 du 22 août 2012 consid. 4.1 et les réf. cit.).
+b)
+En
+l’espèce, il ressort tant du « résumé de la poursuite » produit
+par l’office des poursuites que de l’extrait du registre des poursuites au 26 mars 2018,
+versé d’office au dossier, que la recourante s’est acquittée de sa dette envers
+l’intimée en capital, intérêts et frais, le 20 février 2018. Il y a donc lieu
+d’admettre que la première des conditions légales pour annuler la faillite est réalisée.
+La deuxième condition posée par l’art. 174 LP n’est en revanche pas réalisée.
+En effet, il ressort de l’extrait du registre des poursuites du 26 mars 2018 que la recourante
+fait l’objet de poursuites pour un montant total de 23'688 fr. 85, dont deux se trouvent au stade
+de la commination de faillite, trois au stade de la continuation et une autre porte sur un très
+petit montant (15 fr. 70). Pour le reste, les poursuites concernent principalement des créances
+d’impôt et une créance de la caisse AVS. Ces éléments caractéristiques
+établissent sans aucun doute possible que la recourante est insolvable au sens de la jurisprudence
+précitée, l’étendue des créances qu’elle prétend avoir à l’encontre
+en particulier de la commune de Rolle, pour un montant total de 25'166 fr. 79, n’étant pas
+rendue vraisemblable. Au surplus, la recourante n’a produit aucune pièce sur sa solvabilité
+en première instance ou dans le délai de recours, ni
+a
+fortiori
+de pièces permettant de rendre vraisemblable
+que sa situation financière pourrait s’améliorer.
+III.
+En conclusion, le recours doit être rejeté
+selon le mode procédural de l’art. 322 al. 1 CPC et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., sont mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante E.________.
+IV.
+L’arrêt est
+exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+E.________,
+‑
+Me Sara Giardina (pour A.________),
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+Le greffier :
