@@ -1,0 +1,299 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 19"
+decided: "2018-07-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6713264"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-255.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-173a.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md", "switzerland/bund/acts/281.1/art-194.md", "switzerland/bund/acts/281.1/art-230.md", "switzerland/bund/acts/281.1/art-333.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 19
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, DÉCLARATION D'INSOLVABILITÉ | 191 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.07.2018 Faillite / 2018 / 19
+
+FAILLITE SANS POURSUITE PRÉALABLE, DÉCLARATION D'INSOLVABILITÉ | 191 LP
+
+TRIBUNAL
+CANTONAL
+FV17.046301-180754
+156
+Cour
+des poursuites et faillites
+_____________________________________
+___________
+Arrêt du
+18 juillet 2018
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+191 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+O.________
+,
+à [...], contre le jugement rendu le 14 mai 2018, à la suite de l’audience du 24 avril
+2018, par le Président du Tribunal d’arrondissement de l’Est vaudois, rejetant la requête
+de faillite personnelle sans poursuite préalable déposée par le recourant le 27 octobre
+2017.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par
+requête adressée le 27 octobre 2017 au Président du Tribunal d’arrondissement de
+l’Est vaudois, O.________ a requis sa mise en faillite personnelle sans poursuite préalable
+en se déclarant insolvable. Les pièces produites à l’appui de sa requête établissent
+notamment les faits suivants : né le [...] 1981, le requérant vit en concubinage avec
+sa compagne, le couple ayant deux enfants. Il est employé par la société I.________ AG
+qui lui verse, selon avis de saisie du 17 octobre 2017, un salaire mensuel net de 4'536 fr. 50,
+plus les allocations familiales pour ses enfants, par 500 francs. Selon le même avis de saisie,
+sa compagne touche un salaire mensuel net de 2'956 fr. 75 et le minimum vital du couple atteint 6'713
+francs 45, dont 4'064 fr. 40 à la charge du requérant, laissant un disponible pour celui-ci
+de 472 fr. 10. Selon un extrait 8a LP du 9 mai 2018, le requérant fait l’objet de dix-neuf
+actes de défaut de biens pour un montant total de 38'819 fr. 45, et de trente-et-une poursuites
+pour un montant total de 65'259 fr. 45. Selon avis du 24 novembre 2017 de l’Office d’impôt
+des districts de la Riviera-Pays-d’Enhaut et de Lavaux-Oron, le total des acomptes de l’impôt
+sur le revenu et la fortune et l’impôt anticipé de l’année 2018 a été
+fixé à 7'779 fr. 94 les éléments déterminants étant un revenu annuel de
+47'900 fr. et une fortune de 0 francs.
+b)
+Par
+avis du 31 octobre 2017, le président a imparti au requérant un délai échéant
+le 20 novembre 2017 pour effectuer auprès de l’office des faillites une avance de frais de
+5'000 fr. pour couvrir les premiers frais en cas de suspension pour défaut d’actifs, faute
+de quoi l’audience serait annulée.
+Par décision du 1
+er
+novembre 2017, le Président du Tribunal d’arrondissement de l’Est vaudois a accordé
+l’effet suspensif sur les poursuites dirigées contre le requérant et sur celles qui pourraient
+être introduites jusqu’à droit connu sur la requête du 27 octobre 2017.
+Par courrier du 31 janvier 2018, le requérant a demandé une prolongation à fin février
+2108 du délai de versement de l’avance de frais auprès de l’office des faillites.
+Par avis du 23 février 2018, le président a imparti au requérant un délai non prolongeable
+échéant le 15 mars 2018 pour effectuer l’avance de frais de 5'000 francs auprès
+de l’office des faillites, faute de quoi la cause serait rayée du rôle.
+Le 29 mars 2018, l’Office des faillites de l’arrondissement de l’Est vaudois a informé
+le président du versement par le requérant de l’avance de frais de 5'000 francs.
+c)
+Par
+courrier du 29 mars 2018, le président a cité le requérant a comparaître à l’audience
+du 24 avril 2018, au cours de laquelle celui-ci a été entendu.
+2.
+Par jugement du 14 mai 2018, notifié au requérant
+le 18 mai 2018, le Président du Tribunal d’arrondissement de l’Est vaudois, statuant
+en tant qu’autorité de première instance en matière sommaire de poursuites de faillite,
+a rejeté la requête du 27 octobre 2017 (I), a révoqué l’effet suspensif accordé
+par décision du 1
+er
+novembre 2017 (II), a mis les frais judiciaires, fixés à 200 fr., à la charge du requérant
+(III) et a rejeté toutes autres ou plus amples conclusions (III). En substance, le premier juge
+a considéré que le requérant n’avait pas rendu vraisemblable son insolvabilité.
+3.
+Par acte du 22 mai 2018, O.________ a recouru
+contre ce jugement en concluant à l’admission de sa requête de faillite et à la
+suspension de saisie ordonnée contre lui jusqu’à droit connu sur le recours. Il a produit
+les pièces suivantes :
+-
+un bilan financier établi par le recourant faisant état d’un revenu mensuel de 4'700
+francs pour lui-même et de 8'135 fr. pour son couple et de charges de 3'572 fr. pour lui-même
+et de 5'581 fr. 15 pour son couple. Dans ce document le recourant indique n’avoir aucun bien immobilier,
+aucune fortune personnelle, aucune économie et que le véhicule du couple est en leasing ;
+-
+une attestation de salaire mensuel pour l’année 2017 établie le 13 juillet 2017 par I.________
+AG, indiquant que le recourant réalise un salaire mensuel brut de 5'500 fr., plus un treizième
+salaire de 5'500 fr. brut et une prime de 2'460 francs.
+Par décision du 28 mai 2018, la présidente de la cour de céans a rejeté la demande
+de suspension de la saisie en cours contenue dans le recours.
+En droit
+:
+I.
+a)
+En vertu de l’art. 174 LP [loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1], auquel renvoie l’art. 194 al. 1 LP, le
+jugement rejetant la requête de faillite sans poursuite préalable peut faire l’objet
+d’un recours au sens des art. 319 ss CPC [Code de procédure civile; RS 272].
+Formé par acte écrit et motivé (art. 321 al. 1 CPC) déposé dans le délai
+de dix jours des art. 174 al. 1 LP et 321 al. 2 CPC, le recours est recevable.
+b)
+Les pièces nouvelles sont recevables aux conditions de l’art. 174 LP, en vertu de l’art.
+326 al. 2 CPC. L’art. 174 al. 1 LP autorise les parties à faire valoir des faits nouveaux
+lorsque ceux-ci se sont produits avant le jugement de première instance (faux nova). Les faits qui
+se sont produits après le jugement (vrais nova) ne peuvent être invoqués par le failli
+que s’il entend rendre vraisemblable sa solvabilité – ou son insolvabilité, s'agissant
+d'un recours contre le refus de prononcer sa faillite personnelle.
+En l'espèce, les pièces nouvelles produites par le recourant sont recevables.
+II.
+a)
+Selon l’art. 191 al. 1 LP, le débiteur
+peut lui-même requérir sa faillite en se déclarant insolvable en justice; en vertu de
+l’al. 2 de cette disposition, lorsque toute possibilité de règlement amiable des dettes
+selon les art. 333 ss LP est exclue, le juge prononce la faillite.
+Le requérant n’a pas un droit inconditionnel au prononcé de sa faillite (ATF 133 III
+614 consid. 6.1.2). Pour que la faillite puisse être prononcée ensuite d’une déclaration
+d’insolvabilité en justice, il faut que se réalise une condition positive, soit un état
+d’insolvabilité, et que, simultanément, ne soit satisfaite aucune condition négative,
+savoir la possibilité de règlement amiable des dettes, un ajournement de la décision de
+faillite en raison d'un sursis concordataire ou extraordinaire, une procédure de faillite déjà
+en cours, une procédure de détermination du retour à meilleure fortune en cours ou un
+abus de droit manifeste au sens de l'art. 2 al. 2 CC [Code civil; RS 210] (Cometta, Commentaire romand,
+n. 4 ad art. 191 LP; Stoffel/Chabloz, Voies d’exécution, 2
+ème
+édition, pp. 279-280 ; Gapany, La faillite de la personne physique – Les abus de la procédure
+de faillite, Aspect judiciaires, JdT 2018 II 15, spéc. pp. 19-20).
+L’état d’insolvabilité doit être rendu vraisemblable (Gapany, op. cit., n.
+19 et références). Le débiteur doit mettre le juge en mesure d’évaluer, selon
+un jugement de simple vraisemblance, si, en raison d’un manque de moyens financiers non limité
+dans le temps et ayant son origine dans une insuffisance de revenus et/ou de fortune, il se trouve dans
+l’impossibilité de payer des dettes déjà exigibles (Cometta, op. cit., n. 6 ad art.
+191 LP ; Gapany, loc. cit. et références). Si une impossibilité temporaire ne suffit
+pas, il n’est cependant pas nécessaire que l’insolvabilité – la situation
+combinant l’exigibilité de certaines dettes et l’insuffisance de moyens de paiement
+et d’actifs réalisables et disponibles – se soit manifestée par une suspension
+ou une cessation des paiements (Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, nn. 26 et 27  ad art. 191 LP et les auteurs cités).
+L’art. 191 al. 2 LP indique expressément que la faillite sur déclaration d’insolvabilité
+présuppose qu’il n’existe aucune possibilité de règlement amiable des dettes
+au sens des art. 333 ss LP, soit qu’un tel règlement ait été tenté en vain,
+soit qu’il apparaisse d’emblée dépourvu de chance de succès. Cette condition
+négative n’est valable que pour les débiteurs non sujets à la poursuite par voie
+de faillite. Les moyens de preuve requis sont les mêmes que ceux requis pour rendre vraisemblable
+l’insolvabilité (Cometta, op. cit., n. 8 ad art. 191 LP; Junod Moser/Gaillard, Commentaire
+romand, n. 12 ad art. 333 LP). L’assainissement est exclu en cas de surendettement évident,
+c’est-à-dire lorsque la capacité de paiement du requérant est insuffisante et ne
+laisse aucune possibilité d’épargne (Brunner/Boller, Basler Kommentar, SchKG II, n. 11
+ad art. 333 SchKG [LP]).
+La déclaration d’insolvabilité en justice constitutive d’un abus manifeste de droit
+ne permet pas l’ouverture de la faillite. Constitue un exemple d’abus de droit manifeste
+la déclaration d’insolvabilité en justice destinée uniquement à libérer
+le débiteur d’une saisie de salaire exécutée en faveur d’un seul créancier,
+laquelle est possible à condition d’être limitée au revenu mensuel excédant
+le minimum vital pendant une durée raisonnable (décision du TF non publiée du 25 mai 1994,
+BlSchK 1995, pp. 179 ss; Cometta, op. cit., n. 11 ad art. 191 LP; Gilliéron, op. cit., n. 30 ad
+art. 191 LP; Brunner/Boller, op. cit., n. 16 ad art. 191 SchKG [LP]). Constitue également un abus
+de droit la déclaration d’insolvabilité en justice, si la masse en faillite ne disposerait
+d'aucun actif (ATF 133 III 614 consid. 6.2.1 ; TF 5A_78/2016 du 14 mars 2016 consid. 3.1 ;
+TF 5A_915/2014 du 14 janvier 2015 consid. 5.1; TF 5A_676/2008 du 15 janvier 2009 consid. 2.1). En effet,
+par l’art. 191 LP, le législateur n'a pas voulu introduire et n'a pas introduit une procédure
+de désendettement des particuliers, pour régler le problème du surendettement des débiteurs
+les plus obérés, qui n'ont plus d'actifs et n'ont même pas les moyens d'avancer les frais
+de la procédure (ATF 133 III 614 précité).
+Le juge doit rejeter la requête de faillite sans poursuite préalable en cas de défaut
+d’intérêt digne de protection du requérant ou d’utilisation de l’institution
+dans un but contraire à sa finalité. Il peut d’office ajourner sa décision lorsqu’un
+règlement amiable des dettes selon les art. 333 ss LP paraît possible. Dans ce cas, il doit
+attendre la décision du juge du concordat à qui il a transmis le dossier lorsqu’un concordat
+ou un règlement amiable des dettes lui paraît possible. Si le juge du concordat refuse d’accorder
+un sursis au requérant, le juge de la faillite doit prononcer la faillite (art. 173a al. 3 LP; Gilliéron,
+op. cit., nn. 31, 34 et 35 ad art. 191 LP).
+b)
+L’art. 255 let. a CPC réserve la maxime inquisitoire en matière de faillite. Le juge
+a le devoir d’éclaircir les faits et de prendre en considération d’office tous
+les éléments qui peuvent être importants pour rendre sa décision. Il n’est
+lié ni par les faits allégués, ni par les faits admis, ni par les moyens de preuve invoqués
+par les parties; il ordonne d’office l’administration des preuves qu’il juge nécessaires
+à établir les faits pertinents. L’obligation pour le juge d’établir d’office
+les faits ne dispense cependant pas les parties d’une collaboration active à la procédure;
+il leur incombe ainsi de renseigner le juge sur les faits de la cause et de lui indiquer les moyens de
+preuve disponibles (Bohnet, in Bohnet/Haldy/Jeandin/Schweizer/Tappy (éd.), Code de procédure
+civile commenté, n. 5 ad art. 255 CPC et les arrêts cités). Ainsi, il appartient au requérant
+qui se déclare en état d’insolvabilité de fournir au juge les éléments
+et les documents qui vont permettre à ce dernier de conclure, au stade de la vraisemblance, à
+un état d’insolvabilité.
+c)
+En
+l’espèce, le recourant soutient que son insolvabilité est rendue vraisemblable par le
+fait qu’il ne disposera pas des ressources nécessaires pour régler ses impôts, dans
+l’hypothèse où une saisie serait ordonnée, qu’il ne dispose que d’un
+solde de 1'128 fr. par mois pour lui-même et un solde de 2’553 fr. 85 pour son couple pour
+se nourrir, s’habiller, financer les loisirs, faire face aux aléas de la vie et au paiement
+des assurance incendie, responsabilité civile privée, protection juridique circulation et privée
+et troisième pilier pour sa compagne. Il indique n’avoir aucun bien immobilier, aucune fortune
+personnelle et aucune économie ; l’avis de détermination des acomptes 2018 du 24
+novembre 2017 mentionne effectivement une fortune imposable nulle.
+Ce faisant, le recourant reconnaît qu’il n’a pas d’autres biens que son salaire
+à mettre à disposition de la masse en faillite. Or, les salaires futurs du failli ne sont pas
+compris dans la masse (ATF 114 III 26 ;TF 5A_78/2016 précité consid. 3.2 ; Gilliéron,
+Poursuite pour dette, faillite et concordat, 5
+e
+éd., n° 1618, pp. 383-384 ; Marchand, La faillite personnelle, entre abus et regrets,
+JdT 2018 II 4 spéc. n° 8 p. 6). Faute de biens à partager entre les créanciers, la
+faillite, si elle était prononcée, serait immédiatement suspendue faute d’actifs
+(art. 230 LP), ce qui permettrait à nouveau les saisies, sans que le recourant ne puisse se prévaloir
+du non-retour à meilleure fortune, car il n’est pas délivré d’acte de défaut
+de biens après faillite en cas de suspension de la faillite faute d’actifs (Marchand, op.
+cit., n° 35, p. 13). Une des conditions posée par la jurisprudence susmentionnée n’est
+ainsi par réalisée.
+En outre, le recourant n’allègue pas avoir tenté d’obtenir de ses créanciers
+un règlement amiable de ses dettes ni rendu vraisemblable qu’un tel règlement serait
+exclu. Une autre condition posée par la jurisprudence n’est ainsi pas réalisée.
+Deux des conditions cumulatives posées par la jurisprudence n’étant pas réalisées,
+Il n’est pas nécessaire d’examiner la troisième, savoir si le recourant est insolvable.
+Le jugement attaqué peut donc être confirmé par substitution de motifs.
+III.
+En conclusion, le recours, manifestement mal fondé,
+doit être rejeté et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., sont mis à la charge du recourant (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant O.________.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. O.________,
+-
+M. le Préposé à l'Office des poursuites du district de la Riviera-Pays-d’Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d’Aigle et de la Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
