@@ -1,0 +1,343 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 17"
+decided: "2018-07-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6716048"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-934.md", "switzerland/bund/acts/220/art-938.md", "switzerland/bund/acts/221.411/art-002.md", "switzerland/bund/acts/221.411/art-152.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-039.md", "switzerland/bund/acts/281.1/art-040.md", "switzerland/bund/acts/281.1/art-173.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 17
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, RAISON INDIVIDUELLE, RADIATION{EFFACEMENT}, REGISTRE DU COMMERCE | 174 al. 1 LP, 40 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.07.2018 Faillite / 2018 / 17
+
+OUVERTURE DE LA FAILLITE, RAISON INDIVIDUELLE, RADIATION{EFFACEMENT}, REGISTRE DU COMMERCE | 174 al. 1 LP, 40 LP
+
+TRIBUNAL
+CANTONAL
+FF18.003598-180660
+147
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 juillet 2018
+___________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+40, 174 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+H.________
+,
+à [...], contre le jugement rendu le 20 avril 2018, à la suite de l’audience du 17 avril
+2018, par le Président du Tribunal d’arrondissement de l’Est vaudois, prononçant
+la faillite du recourant à la réquisition de
+L.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+14 décembre 2016, à la réquisition de L.________, l’Office des poursuites du district
+d’Aigle a notifié à H.________, dans la poursuite n° 8'084'665, un commandement
+de payer la somme de 319'700 fr. 50 sans intérêt, indiquant comme titre de la créance
+ou cause de l’obligation : «
+Acte
+de défaut de biens après saisie du 18.12.2013 numéro 5026556 délivré par l’Office
+des poursuites du district de [...], ramené à 319'700 fr. 50. ».
+Le poursuivi a formé opposition totale.
+b)
+Par
+prononcé du 31 mars 2017 attesté définitif et exécutoire dès le 2 mai 2017,
+le Juge de paix du district d’Aigle a prononcé la mainlevée provisoire de l’opposition
+à concurrence de 319'700 fr. sans intérêt. Selon attestation du Tribunal d’arrondissement
+de l’Est vaudois du 9 juin 2017, aucune action en libération de dette n’a été
+déposée à la suite du prononcé du 31 mars 2017 susmentionné.
+c)
+Le 20 octobre 2017, à la réquisition
+de la poursuivante, l’Office des poursuites du district d’Aigle a notifié au poursuivi,
+dans la poursuite susmentionnée, une commination de faillite datée du 17 octobre 2017.
+2.
+Par acte du 25 janvier 2018, la poursuivante a
+requis du Président du Tribunal d’arrondissement de l’Est vaudois, qu’il prononce
+la faillite du poursuivi.
+Après avoir demandé à la poursuivante des pièces complémentaires, le Président
+du Tribunal d’arrondissement de l’Est vaudois a, par courrier recommandé du 21 mars
+2018, notifié la requête au poursuivi et a cité les parties à comparaître à
+l’audience du 17 avril 2018.
+Par courrier du 20 avril 2018, adressé au tribunal d’arrondissement, le poursuivi a fait valoir
+qu’il était salarié de la société D.________ Sàrl depuis 2015 et que son
+inscription sous raison individuelle au Registre du commerce avait été radiée. Il a en
+conséquence mis en doute que sa faillite puisse être prononcée, a requis l’octroi
+d’un effet suspensif de cinq jours et a produit les pièces suivantes :
+-
+une copie de la détermination du total des acomptes pour l’impôt sur le revenu et la
+fortune, l’impôt anticipé et l’impôt fédéral direct pour l’année
+2017 adressé le 11 avril 2017 par l’Office d’impôt du district d’Aigle, au
+poursuivi constatant un revenu imposable de 40'000 fr. et une fortune imposable de 0 franc ;
+-
+une copie d’un certificat de salaire pour l’année 2017 établi le 22 janvier 2018
+par D.________ Sàrl attestant que le poursuivi avait reçu un salaire net de 31'632 francs ;
+-
+un extrait du Registre du commerce du Canton de Vaud relatif à D.________ Sàrl, dont il ressort
+que cette société a été inscrite le 3 mars 2015 et qu’elle a le poursuivi comme
+associé gérant avec signature individuelle ;
+-
+un extrait internet du Registre du commerce du Canton de Vaud relatif à «  [...]H.________ »,
+raison individuelle de l’entreprise du poursuivi, dont il ressort qu’elle a été
+radiée le 27 octobre 2017 par suite de cessation d’activité, radiation publiée dans
+la Feuille officielle suisse du commerce (FOSC) du 1
+er
+novembre 2017 ;
+-
+une copie d’un courrier recommandé de D.________ Sàrl au Registre du commerce du canton
+de Vaud du 25 octobre 2017 requérant la radiation de la raison individuelle susmentionnée,
+au motif que cette entreprise n’avait plus d’activité depuis la fin du mois de février
+2015, et indiquant qu’elle avait cru que cette radiation était intervenue d’office à
+la suite de l’inscription de la société à responsabilité limitée.
+3.
+Par jugement rendu le 20 avril 2018 par défaut
+de la poursuivante, le Président du Tribunal d’arrondissement de l’Est vaudois, statuant
+en tant qu’autorité de première instance en matière sommaire de poursuites et de
+faillite, a prononcé la faillite du poursuivi avec effet au 20 avril 2018 à 12 heures (I),
+a mis les frais judiciaires fixés à 200 fr. à la charge du failli (II) et a dit que celui-ci
+était le débiteur de la poursuivante de la somme de 200 fr. à titre de restitution de
+son avance de frais (III). Ce jugement a été notifié au poursuivi le 23 avril 2018.
+4.
+a)
+Par acte du 3 mai 2018, le recourant, par son
+conseil, a recouru contre le jugement du 20 avril 2018 en concluant, avec suite de frais et dépens,
+principalement à sa réforme en ce sens que sa faillite n’est pas prononcée et, subsidiairement
+à son annulation et au renvoi de la cause au premier juge pour nouvelle décision dans le sens
+des considérants. Il a requis que l’effet suspensif soit accordé au recours et a produit
+notamment les pièces suivantes :
+-
+une procuration ;
+-
+une copie d’un acte de défaut de biens après saisie établi le 18 décembre 2013
+par l’Office des poursuites et faillites du district de [...] dans le cadre de la poursuite n°
+5026556 exercée par l’intimée contre le recourant, laissant apparaître un montant
+impayé de 327'300 fr. 50 ;
+-
+une copie d’un certificat de salaire pour l’année 2015 établi le 7 mars 2016 par
+D.________ Sàrl attestant que le recourant avait reçu un salaire net de 50’958 francs ;
+-
+une copie d’un certificat de salaire pour l’année 2016 établi le 7 mars 2017 par
+D.________ Sàrl attestant que le recourant avait reçu un salaire net de 62’618 francs ;
+-
+une copie de la requête de mainlevée déposée le 31 janvier 2017 par l’intimée
+devant le Juge de paix du district d’Aigle ;
+-
+une copie de la facture établie le 2 novembre 2017 par le Registre du commerce du Canton de Vaud
+pour la radiation de la raison individuelle du recourant ;
+-
+un extrait de la FOSC du 1
+er
+novembre 2017 mentionnant la radiation de la raison individuelle du recourant.
+b)
+A
+la réquisition de la cour de céans, l’Office des poursuites du district d’Aigle
+a produit le 7 mai 2018 la liste des affaires en cours relative au recourant, qui fait état d’un
+montant total des poursuites de 927'039 fr. 30.
+Par décision du 11 mai 2018, la Présidente de la cour de céans a rejeté la requête
+d’effet suspensif.
+Par courrier du 25 mai 2018, le recourant a indiqué qu’il n’avait pas d’observations
+particulières à formuler sur la liste des affaires en cours à l’exception d’une
+poursuite qui n’aurait finalement pour objet qu’un montant de quelque dizaines de milliers
+de francs et non de 440'425 fr. 50.
+L’intimée n’a pas été invitée à se déterminer.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1), la décision du juge de la faillite peut,
+dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile; RS 272).
+Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours.
+En vertu de l'art. 174 al. 1 2ème phrase LP, les parties peuvent faire valoir devant l'instance
+de recours des faits nouveaux lorsque ceux-ci se sont produits avant le jugement de première instance.
+La loi vise ici les faits nouveaux improprement dits (faux nova ou pseudo-nova), à savoir ceux qui
+existaient déjà au moment de l'ouverture de la faillite et dont le premier juge n'a pas eu
+connaissance pour quelque raison que ce soit; ces faits peuvent être invoqués sans restriction
+devant la juridiction de recours, pour autant qu'ils le soient dans le délai de recours (ATF 139
+III 491 consid. 4.4). Selon la jurisprudence, les vrais nova - à savoir les faits qui sont intervenus
+après l'ouverture de la faillite en première instance (art. 174 al. 2 ch. 1-3 LP) - doivent
+également être produits avant l'expiration du délai de recours (ATF 139 III 491 consid.
+4; 136 III 294 consid. 3; TF 5A_899/2014 du 5 janvier 2015 consid. 3.1 et les autres références,
+publié in SJ 2015 I p. 437). En vertu de la lettre claire de l'art. 174 al. 2 LP, aucun autre novum
+n'est admissible (TF 5A_874/2017 du 7 février 2018 ; TF 5A_625/2015 du 18 janvier 2016 consid. 3.6.1).
+L'octroi d'un délai pour se déterminer sur l'extrait du registre des poursuites et des actes
+de défaut de biens requis d'office et joint au dossier n'a pas pour effet de prolonger le délai
+de recours ni d'instituer un délai supplémentaire pour produire des pièces (TF 5A_681/2016
+du 24 novembre 2016 ; CPF 7 juillet 2016/215 ; CPF, 16 octobre 2013/409).
+b)
+En
+l’espèce, le recours du 3 mai 2018 a été déposé dans le délai de
+dix jours de l’art. 174 al. 1 LP. Les pièces produites avec cette écriture sont également
+recevables.
+II.
+Le recourant conteste être soumis à
+la procédure de faillite, dès lors que sa raison individuelle avait été radiée
+au moment où le jugement de faillite a été prononcé et qu’au moment de la réquisition
+de continuer la poursuite, cette raison individuelle n’avait plus d’existence économique
+réelle depuis 2015. Il invoque qu’une faillite pourrait entraîner la liquidation de la
+société D.________ Sàrl et la perte de son salaire.
+a)aa)
+La personne physique titulaire (ou l'exploitant
+ou le chef) d'une entreprise individuelle (Einzelunternehmen ou Einzelfirma), qui exerce une activité
+économique indépendante en vue d'un revenu régulier (art. 2 let. b ORC), est tenue de
+requérir son inscription – qui est une immatriculation au registre du commerce (art. 934 al.
+1 CO) – si elle l'exploite en la forme commerciale et qu'elle obtient, sur une période d'une
+année, une recette brute de 100'000 fr. au moins (chiffre d'affaires annuel; art. 36 al. 1 ORC).
+L'entreprise individuelle préexiste à son inscription au registre du commerce: sa création
+ne dépend pas de l'inscription et, par conséquent, son immatriculation n'est pas constitutive.
+Elle a toutefois l'obligation – de droit public – de se faire immatriculer (art. 934
+al. 1 CO). Comme unité de production, l'entreprise individuelle a une existence réelle; son
+immatriculation ne constitue que la preuve de son existence et en crée l'apparence. La personne
+physique exploitant l'entreprise individuelle répond sur tout son patrimoine. L'inscription au registre
+du commerce a pour conséquence que la personne physique titulaire ("le chef") de la raison
+individuelle est assujettie à la poursuite par voie de faillite (art. 39 al. 1 ch. 1 LP). L'inscription
+formelle au registre du commerce est décisive à cet égard: il ne suffit pas que la personne
+ait la qualité d'exploitant, mais il faut qu'elle soit inscrite au registre du commerce. Par conséquent,
+si une personne exploite une entreprise individuelle commerciale sans être inscrite, le créancier
+qui veut la poursuivre par voie de faillite doit provoquer son inscription au registre du commerce (art.
+152 ORC). Inversement, si le titulaire est resté inscrit au registre du commerce malgré la
+cessation de son activité, il reste soumis à la poursuite par voie de faillite; l'autorité
+de poursuite n'a pas à examiner si l'inscription est justifiée ou non et le poursuivi n'est
+pas admis à démontrer que l'inscription est erronée. Le critère formel de l'inscription
+est décisif; il importe peu que l'inscription eût dû être supprimée. (cf. TF
+4A_23/2014 du 8 juillet 2014, consid. 2.1.1 et les réf. citées; SJ 2015 I 5).
+Lorsque le titulaire de l'entreprise individuelle met un terme à son activité (ou la cède
+à une autre personne ou à une autre entité juridique), il doit requérir sa radiation
+au registre du commerce (art. 938 al. 1 CO et 39 al. 1 ORC). Cette radiation doit être opérée
+au terme de la liquidation. En vertu de l'art. 40 al. 1 LP, même s'il a été radié
+au registre du commerce, le titulaire de l'entreprise individuelle demeure sujet à la poursuite
+par voie de faillite durant les six mois qui suivent la publication de sa radiation dans la FOSC. Cette
+disposition a pour but d'éviter que la personne inscrite puisse, dans le courant d'une procédure
+de poursuite déjà engagée, se soustraire à la faillite en se faisant radier (cf.
+TF 4A_23/2014 du 8 juillet 2014, consid. 2.1.2 et les réf. citées; SJ 2015 I 5). L’art.
+40 al. 2 LP précise que la poursuite se continue par la voie de la faillite lorsque, avant l’expiration
+du délai prévu à l’art. 40 al. 1 LP, le créancier a requis la continuation
+de la poursuite.
+bb)
+La poursuite continuée par voie de saisie, alors que le débiteur est soumis à la faillite,
+et inversement, est nulle (Jent-Sorenson, Kurzkommentar SchKG, n° 3 ad art. 39 LP, et les réf.
+citées).
+Le juge de la faillite qui traite la requête de faillite est tenu d'examiner également la capacité
+du poursuivi à être sujet à la poursuite par voie de faillite (ATF 135 III 14 consid.
+5.4 ; JdT 2010 II 140). S'il parvient dans un cas concret à la conclusion qu'une décision
+nulle a été rendue au cours de la procédure antérieure (art. 22, al. 1), il ajourne
+sa décision et soumet le cas à l’autorité de surveillance (art. 173 al. 2 LP). Si
+le juge de la faillite est d'avis que la poursuite doit être continuée par la voie de la saisie
+ou de la réalisation de gage, il doit procéder de la même manière (ATF 135 III 14
+consid. 5.4 et les réf. citées; JdT 2010 II 140). Il statue sur la réquisition de
+faillite après avoir reçu communication de la décision de l’autorité de surveillance
+(art. 173 al. 3 LP).
+b)
+En
+l’espèce, la commination de faillite, datée du 17 octobre 2017, faisant suite à
+la réquisition de l’intimée de continuer la poursuite, a été notifiée
+au recourant le 20 octobre 2017, soit avant la radiation de sa raison individuelle du registre du commerce
+publiée à la FOSC le 1
+er
+novembre 2017, la radiation ayant pris effet le lendemain de cette publication (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 34 ad art. 40 LP). Au moment
+déterminant selon l’art. 40 al. 2 LP, la raison individuelle du recourant était encore
+inscrite au Registre du commerce et le délai de six mois de l’art. 40 al. 1 LP n’avait
+pas encore commencé à courir. Conformément à ces dispositions, la poursuite devait
+donc être continuée par la voie de faillite et le fait que le jugement de faillite ait été
+rendu alors que la raison individuelle du recourant était radiée du Registre du commerce est
+sans pertinence. De même, au vu de la jurisprudence susmentionnée, il est sans portée
+que cette raison individuelle ait cessé toute activité bien avant sa radiation.
+Le moyen du recourant doit en conséquence être rejeté.
+III.
+En vertu de l'art. 174 al. 2 LP, la décision
+du juge de la faillite peut être déférée à l'autorité de recours, qui peut
+annuler l'ouverture de la faillite lorsque le débiteur, en déposant le recours, rend vraisemblable
+sa solvabilité et établit par titre que depuis lors la dette, intérêts et frais compris,
+a été payée (ch. 1) ou que la totalité de la somme à rembourser a été
+déposée auprès de l'autorité judiciaire supérieure à l'intention du créancier
+(ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions,
+soit le paiement de la dette à l'origine de la faillite, le dépôt de la totalité
+de la somme à rembourser ou le retrait de la requête de faillite et la vraisemblance de la
+solvabilité, sont cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid. 6.1 ; Bosshard, Le
+recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127).
+En l’espèce, le recourant ne prétend pas ni n’établit avoir réglé
+le montant en poursuite dans le délai de recours. Une des deux conditions cumulatives à l’annulation
+du prononcé de faillite n’est dès lors par réalisée. Il n’est donc pas
+nécessaire d’examiner si le recourant a rendu vraisemblable sa solvabilité, ce qu’il
+n’allègue du reste pas.
+IV.
+En conclusion, le recours, manifestement mal fondé,
+doit être rejeté et le jugement confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., doivent être mis à la charge du recourant (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant H.________.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Julien Gafner, avocat (pour H.________),
+‑
+L.________,
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d’Aigle et de la Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
