@@ -1,0 +1,157 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 22"
+decided: "2018-08-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6752879"
+cites_law: ["switzerland/bund/acts/173.110/art-066.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-107.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.35/art-062.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 22
+
+## Regeste
+
+DÉCISION DE RENVOI, TRIBUNAL FÉDÉRAL, PLAINTE{LP}, GRATUITÉ DE LA PROCÉDURE | 20a al. 2 ch. 5 LP, 107 al. 2 LTF, 61 al. 2 let. a OELP, 62 al. 2 OELP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.08.2018 Plainte / 2018 / 22
+
+DÉCISION DE RENVOI, TRIBUNAL FÉDÉRAL, PLAINTE{LP}, GRATUITÉ DE LA PROCÉDURE | 20a al. 2 ch. 5 LP, 107 al. 2 LTF, 61 al. 2 let. a OELP, 62 al. 2 OELP
+
+TRIBUNAL
+CANTONAL
+FA17.001998-180810
+21
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+17 août 2018
+__________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+107 al. 2 LTF, 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP
+Vu l’arrêt rendu par la cour de céans le 16 août 2017, admettant le recours de
+R.________
+,
+à Lausanne, contre la décision de la Présidente du Tribunal d’arrondissement de
+Lausanne du 13 mars 2017 et réformant cette décision en ce sens que la plainte déposée
+par la recourante contre l’
+Office
+des poursuites du district de Lausanne
+, dans le
+cadre de la poursuite n° 8'903'206 exercée contre elle à la réquisition de l’
+Hoirie
+J.________
+, est admise et le commandement de payer
+annulé, l’arrêt étant rendu sans frais ni dépens (réf. FA17.001998-170529),
+vu l’arrêt de la IIe Cour de droit civil du Tribunal fédéral du 3 mai 2018, admettant
+le recours de
+C.________
+contre l’arrêt de la cour de céans, annulant cet arrêt et le réformant en ce
+sens que la plainte est rejetée, et renvoyant la cause à l’autorité cantonale pour
+nouvelle décision sur les frais et dépens de la procédure cantonale,
+vu la lettre de la présidente de la cour de céans du 6 juin 2018, invitant les parties à
+se déterminer,
+vu la réponse de l’Office des poursuites du district de Lausanne du 7 juin 2018, s’en
+remettant à justice,
+vu les déterminations de R.________ du 20 juin 2018, concluant à ce que l’arrêt
+cantonal réformé soit rendu sans frais ni dépens ;
+attendu que l’autorité cantonale à laquelle la cause est renvoyée voit son pouvoir
+d’examen limité par les motifs de l'arrêt de renvoi, en ce sens que la portée de
+l’arrêt de renvoi dépend du contenu de cet arrêt et que l’autorité cantonale
+est liée par ce qui a été jugé définitivement par le Tribunal fédéral
+(TF 5A_488/2013 du 4 avril 2014 consid. 3.1 ; ATF 135 III 334 consid. 2 et les arrêts cités ;
+ATF 133 III 201 consid. 4.2, rés.
+in
+JdT 2008 I 106 ; ATF 131 III 91 consid.
+5.2 et les réf. cit. ; Poudret, Commentaire de la loi fédérale d'organisation judiciaire,
+vol. Il, Berne 1990, nn. 1.2 et 1.3
+ad
+art. 66 aOJ),
+qu’en l'espèce, le renvoi ne porte que sur la question des frais et dépens de la procédure
+de deuxième instance,
+que, selon les art. 20a al. 2 ch. 5, 1
+re
+phrase, LP et 61 al. 2 let. a OELP (ordonnance sur les émoluments perçus en application de
+la LP ; RS 281.35), les procédures devant les autorités cantonales de surveillance sont
+gratuites,
+que l’art. 20a al. 2 ch. 5, 2
+e
+phrase, LP prévoit toutefois que la partie ou son représentant qui use de procédés
+téméraires ou de mauvaise foi peut être condamné(e) à une amende de 1'500 fr.
+au plus ainsi qu’au paiement des émoluments et des débours,
+que la condamnation aux frais ou à une amende relève du (large) pouvoir d'appréciation
+de l'autorité cantonale de surveillance (TF 5A_640/2014 du 16 octobre 2014 consid. 4 et réf.
+cit.),
+qu’en l’espèce, la cour de céans considère qu’il n’y a eu ni témérité
+ni mauvaise foi de la part de la recourante R.________,
+que, par conséquent, il n’y a pas lieu de la condamner à une amende, pas plus qu’au
+paiement des frais,
+que l’allocation de dépens dans les procédures cantonales de plainte est exclue en vertu
+de l'art. 62 al. 2 OELP, les conclusions prises à cette fin étant irrecevables (TF 5A_548/2008
+consid. 3.2 ; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes
+et la faillite
+,
+n. 20
+ad
+art. 20a
+al. 1 aLP),
+que l’exception de l’art. 20a al. 2 ch. 5, 2
+e
+phrase, LP au principe de la gratuité des procédures cantonales ne s’applique pas aux
+dépens,
+que, de toute manière, comme on vient de le constater, la recourante n’a pas usé de procédés
+téméraires ou de mauvaise foi en procédure,
+que, par conséquent, il n’est pas alloué de dépens à l’intimée C.________ ;
+attendu que le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5
+LP, 61 al. 2 let. a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Il n’est pas perçu de frais ni alloué de dépens de deuxième instance dans la
+procédure de recours FA17.001998-170529.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme R.________,
+‑
+Me Peter Schaufelberger, avocat (pour C.________),
+‑
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
