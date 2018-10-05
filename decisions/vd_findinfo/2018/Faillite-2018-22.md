@@ -1,0 +1,361 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 22"
+decided: "2018-10-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6835152"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-050.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-148.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 22
+
+## Regeste
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, RESTITUTION DU DÉLAI, ADMINISTRATION DES PREUVES | 29 al. 2 Cst., 148 CPC (CH), 149 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 05.10.2018 Faillite / 2018 / 22
+
+DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION, RESTITUTION DU DÉLAI, ADMINISTRATION DES PREUVES | 29 al. 2 Cst., 148 CPC (CH), 149 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF18.013674-180978
+224
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+5 octobre 2018
+____________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+29 al. 2 Cst. ; 148, 149 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+M.________
+,
+à [...], contre la décision rendue le 21 juin 2018, par la Présidente du Tribunal d’arrondissement
+de l’Est vaudois, rejetant la requête de restitution déposée par le recourant dans
+la cause l’opposant à
+K.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 6 mars 2018, K.________ a requis du Président du Tribunal d’arrondissement de l’Est
+vaudois qu’il prononce la faillite de M.________ dans le cadre de la poursuite n° 8'557'301
+de l’Office des poursuites du district de la Riviera-Pays-d’Enhaut.
+Par courrier recommandé du 29 mars 2018, le président a notifié la requête à
+M.________ et l’a cité à comparaître à l’audience du 24 avril 2018. La
+citation à comparaître comporte la mention suivante :
+«
+L’attention du débiteur est attirée sur le fait que, sous réserve des dispositions
+de l’art. 172 LP, il ne peut éviter un prononcé de faillite que :
+1.              en réglant le montant
+de la poursuite (en capital, intérêt et frais) au créancier directement, à son mandataire
+ou à l’office des poursuites et en payant au greffe les frais du tribunal par Fr. 50.—au
+moyen du bulletin de versement référencé qui vous parviendra par courrier séparé ;
+(…) »
+Par jugement rendu par défaut des parties le 24 avril 2018, le Président du Tribunal d’arrondissement
+de L’Est vaudois, statuant en tant qu’autorité de première instance en matière
+sommaire de poursuites et de faillite, a prononcé la faillite de M.________ avec effet au 24 avril
+2018 à 16 heures (I) a mis les frais judiciaires, fixés à 200 fr., à la charge du
+failli (II) et a dit que celui-ci était le débiteur de K.________ de la somme de 200 fr. à
+titre de remboursement de l’avance de frais (III). Ce jugement a été adressé aux
+parties le 27 avril 2018 et notifié au failli le 4 mai 2018.
+2.
+a)
+Par acte du 9 mai 2018, déposé le
+même jour au greffe du tribunal d’arrondissement, M.________ s’est référé
+à un entretien téléphonique qu’il aurait eu le 26 avril 2018 avec ledit greffe et
+au cours duquel un « délai immédiat » lui aurait été imparti
+pour solder la poursuite en cause. Il a fait valoir qu’il aurait versé le même jour à
+l’Office des poursuites du district de la Riviera-Pays-d’Enhaut la somme de 253 fr. 80, versement
+dont la preuve aurait été communiquée par courriel du même jour à l’adresse
+électronique du greffe. Il s’étonnait que le jugement de faillite ait été adressé
+aux parties, malgré le règlement de la dette en poursuite. Il demandait en conséquence
+l’annulation du jugement du 24 avril 2018 et dans l’hypothèse où le président
+ne pourrait pas entrer en matière sur cette demande, l’octroi d’une restitution de délai
+et l’effet suspensif, excusant son absence à l’audience par le fait qu’il croyait
+que l’affaire était réglée. Il a produit les pièces suivantes :
+-
+une copie d’un « détail de paiement » de la poste attestant du virement
+le 3 avril 2018 en faveur de K.________ de la somme de 240 francs ;
+-
+une copie d’un courriel adressé le 27 avril 2018 par M.________ à l’adresse internet
+du tribunal  transmettant au Président du Tribunal d’arrondissement de l’Est vaudois
+les preuves des paiements effectués et espérant que K.________ annule sa poursuite ;
+-
+une copie d’un « détail de paiement » de la poste attestant du virement
+le 20 avril 2018 en faveur de K.________ de la somme de 360 francs ;
+-
+une copie d’un « détail de paiement » de la poste attestant du virement
+le 20 avril 2018 en faveur du tribunal de la somme de 50 francs ;
+-
+une copie d’un « détail de paiement » de la poste attestant du virement
+le 27 avril 2018 en faveur de l’Office des poursuite du district de la Riviera-Pays d’Enhaut
+de la somme de 253 fr. 80 à titre de solde de la poursuite n° 8'557’301.
+b)
+Par
+prononcé du 14 mai 2018, le Président du Tribunal d’arrondissement de l’Est vaudois
+a prononcé l’effet suspensif en ce sens que les effets de la procédure de faillite ont
+été suspendus jusqu’à droit connu sur la demande de restitution de délai.
+3.
+Par décision du 21 juin 2018, notifiée
+à M.________ le lendemain, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois, statuant en tant qu’autorité de première instance en matière sommaire de
+poursuites et de faillite, a rejeté la requête de restitution de délai du 9 mai 2018 (I),
+a révoqué l’effet suspensif accordé par décision du 14 mai 2018 (II), a constaté
+que la faillite de M.________ avait été prononcée le 24 avril 2018, a dit qu’elle
+prenait effet le 18 juin 2018 à 16 heures (III) et a mis les frais judiciaires, fixés à
+200 fr. à la charge du faillit (IV). En substance, le premier juge a constaté que l’office
+des poursuites avait informé le greffe par téléphone le 18 juin 2018 que M.________ ne
+s’était pas acquitté de la créance réclamée en poursuite. Il a considéré
+que cette absence de paiement devait entraîner le rejet de la demande de restitution.
+4.
+Par acte du 2 juillet 2018, M.________ a recouru
+contre cette décision en concluant, avec suite de frais et dépens, principalement à son
+annulation, ainsi qu’à l’annulation de la faillite prononcée le 24 avril 2018 et,
+subsidiairement, à l’annulation de la décision et au renvoi de la cause au premier juge
+pour nouvelle décision dans le sens des considérants. Il a requis que l’effet suspensif
+soit accordé au recours et a produit un bordereau de pièces.
+Par décision du 3 juillet 2018, le vice-président de la cour de céans a admis la requête
+d’effet suspensif (I) et a ordonné, à titre de mesures conservatoires, l’inventaire
+et l’audition du failli (II).
+Sur réquisition de la cour de céans, l’Office des poursuites du district de la Riviera-Pays-d’Enhaut
+a produit l’extrait 8a LP du registre des poursuites du recourant, dont il ressort que ce dernier
+fait l’objet de cinq poursuites, outre celle en cause, pour un montant total de 11'735 fr. 70.
+Le recourant s’est déterminé le 23 juillet 2018 sur cet extrait faisant valoir que la
+poursuite litigieuse était réglée et qu’il avait interpellé les autres créanciers
+pour trouver des arrangements.
+Le 11 juillet 2018, le recourant a produit une pièce (décompte de la gérance du poursuivant
+qui attesterait du paiement de la créance litigieuse).
+Dans une écriture spontanée du 30 juillet 2018, l’intimé a informé la cour
+de céans que la poursuite n° 8'557'301 avait été soldée par l’intermédiaire
+de l’Office des poursuites le 12 juillet 2018.
+Dans sa réponse du 10 août 2018, l’intimé a indiqué que le paiement à
+l’office des poursuites de 248 fr. 80 lui avait été communiqué le 3 mai 2018 et
+que le solde de la poursuite ne lui était parvenu que le 12 juillet 2018, les autres paiements invoqués
+par le recourant concernant des créances antérieures à celle visée par la poursuite
+en cause. Il en a déduit que le paiement de la poursuite litigieuse a été fait après
+l’audience de faillite et après l’audience de restitution de délai. Au vu de ces
+éléments, il a conclu à ce que les frais et dépens de première et de deuxième
+instance soient mis à la charge du recourant.
+En droit
+:
+I.
+a)
+En
+vertu de l’art. 174 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes
+et la faillite ; RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l’objet
+d’un recours au sens du CPC (Code de procédure civile du 19 décembre 2008 ; RS 272).
+L’autorité de recours peut annuler l’ouverture de la faillite lorsque le débiteur
+rend vraisemblable sa solvabilité et qu’il établit par titre que la dette, intérêts
+et frais compris, a été payée, ou que la totalité du montant à rembourser a
+été déposée auprès de l’autorité judiciaire supérieure à
+l’intention du créancier, ou encore que ce dernier a retiré sa réquisition de faillite
+(art. 174 al. 1 LP).
+Lorsque le jugement de faillite est rendu par défaut du failli, celui-ci peut – cumulativement
+ou alternativement – recourir contre le jugement de faillite (art. 174 al. 1 LP) et requérir
+la restitution du délai, en particulier lorsqu’il entend être cité à une nouvelle
+audience (art. 148 al. 1 CPC). Le plaideur prudent déposera en même temps un recours et une
+requête de restitution (Tappy, in Bohnet et al., Code de procédure civile commenté, n.
+14 ad art. 149 CPC).
+b)
+Selon l’art. 149 CPC, le tribunal statue
+définitivement sur la restitution. Cela exclut en principe tout recours contre sa décision
+(cf. Tappy, in Bohnet et al., Code de procédure civile commenté, n. 12 ad art. 149 CPC).
+Il est vrai que l’octroi d’une restitution n’est jamais une décision finale en
+tant que, précisément, elle permet l’accomplissement d’un acte de procédure
+par la partie défaillante, dans le délai restitué, ou la tenue d’une nouvelle audience ;
+la décision d’octroi de restitution pourra donc être attaquée avec la décision
+finale intervenant plus tard. Le refus de la restitution est en revanche une décision finale lorsque
+le tribunal de première instance a déjà clos la procédure et que la requête
+de la partie défaillante tend à la faire rouvrir ; le refus de la restitution entraîne
+alors la perte définitive de l'action ou du moyen de l'action. En pareil cas, l’exclusion
+de toute voie de recours n’est pas opposable à la partie requérante (ATF 139 III
+478 consid. 6.3 ; cf. aussi TF 4A_350/2017 du 12 juillet 2017 consid. 3.2.1 ; TF 5A_964/2014
+du 2 avril 2015 consid. 2.3). En d’autres termes, la voie du recours des art. 319 ss CPC (CPF 10
+mai 2016/145) est ouverte contre la décision déclarant irrecevable ou rejetant la requête
+de restitution de délai en vue d’obtenir la tenue d’une nouvelle audience de faillite
+(CPF 5 mars 2018/26). Tel n’est toutefois pas le cas si la demande de restitution est déposée
+alors que le requérant pouvait recourir contre le jugement de faillite et qu’il ne l’a
+pas fait. En effet, dans cette hypothèse il n’y a pas perte définitive d’un droit
+(CPF 26 octobre 2017/266 ; CPF 28 octobre 2016/332).
+c)
+En l’espèce, dans son acte du 9 mai 2018, le recourant a requis du premier juge l’annulation
+du jugement de faillite du 24 avril 2018, ainsi qu’une restitution de délai. Il y lieu de
+considérer qu’il a ainsi également recouru contre ce jugement, de sorte que la voie du
+recours est ouverte contre la décision du 21 juin 2018 rejetant sa requête de restitution de
+délai.
+Interjeté dans le délai de dix jours de l’art. 321 al. 2 CPC et motivé conformément
+à l’art. 321 al. 1 CPC, le recours est recevable.
+Les pièces produites par le recourant figurent déjà au dossier de première instance.
+Elles sont en conséquence recevables.
+En revanche, les pièces produites par l’intimé avec sa réponse ne figurent pas au
+dossier de première instance. Elles sont en conséquence irrecevables, vu la prohibition des
+preuves nouvelles prévues à l’art. 326 al. 1 CPC.
+II.
+Le recourant invoque une violation de son droit
+d’être entendu en ce sens que le premier juge ne lui a pas permis de se déterminer sur
+les informations données par l’office des poursuites le 18 juin 2018.
+a)
+Le
+droit d'être entendu garanti par l'art. 29 al. 2 Cst. (Constitution fédérale du 18 avril
+1999 ; RS 101) comprend notamment le droit pour l'intéressé de s'exprimer sur les éléments
+pertinents avant qu'une décision ne soit prise touchant sa situation juridique, de produire des
+preuves pertinentes, d'obtenir qu'il soit donné suite à ses offres de preuves pertinentes,
+de participer à l'administration des preuves essentielles ou à tout le moins de s'exprimer
+sur son résultat, lorsque cela est de nature à influer sur la décision à rendre (ATF
+142 II 218 consid. 2.3 p. 222 s. et les références citées).
+b)
+En
+l’espèce, il ne ressort pas du procès-verbal de première instance que le premier
+juge aurait informé le recourant du téléphone du 18 juin 2018 ni qu’il l’aurait
+invité à se déterminer sur les informations données lors de ce téléphone,
+informations qui ont fondé sa décision de rejet de la requête de restitution de délai.
+Ce faisant il a violé le droit d’être entendu du recourant, ce qui doit entraîner
+l’annulation du prononcé.
+III.
+Le prononcé doit également être
+annulé pour le motif suivant.
+a)
+La
+jurisprudence a déduit du droit d'être entendu garanti par l'art. 29 aI. 2 Cst. l'obligation
+pour les autorités de motiver leurs décisions. Le droit d'être entendu, en tant que droit
+rattaché à la personnalité permettant de participer à la procédure, exige que
+l'autorité entende effectivement les arguments de la personne touchée dans sa situation juridique
+par la décision, qu'elle examine ses arguments avec soin et sérieux, et qu'elle en tienne compte
+dans la prise de décision. De là découle l'obligation fondamentale des autorités
+de motiver leurs décisions. Si la décision rendue va à l’encontre des arguments
+du citoyen, ce dernier doit pouvoir comprendre pourquoi. La motivation d'une décision doit dès
+lors se présenter de telle manière que l'intéressé puisse, le cas échéant,
+la contester de manière adéquate. Cela n'est possible que lorsque tant le citoyen que l'autorité
+de recours peuvent se faire une idée de la portée d'une décision. Dans ce sens, il faut
+que les considérations qui ont guidé l'autorité et sur lesquelles elle a fondé sa
+décision soient à tout le moins brièvement exposées (ATF 129 I 235 consid. 3.2 et
+réf. cit., JdT 2004 I 588). Toutefois, l'autorité n'a pas l'obligation d'exposer et de discuter
+tous les faits, moyens de preuve et griefs invoqués par les parties, mais elle peut au contraire
+se limiter à ceux qui, sans arbitraire, lui paraissent pertinents (ATF 138 I 232 consid. 5.1; ATF
+133 III 439 consid. 3.3, JdT 2008 I 4; ATF 130 II 530 consid. 4.3 ; TF 5A_344/2015 du 29 février
+2016 consid. 5.3). Une motivation implicite, résultant des différents considérants de
+la décision, suffit à respecter le droit d'être entendu (TF 5A_278/2012 du 14 juin 2012
+consid. 4.1 ; TF 6B_726/2010 du 17 mai 2011 consid. 1.3 ; ATF 141 V 557 consid. 3.2.1). Dès lors
+que l'on peut discerner les motifs qui ont guidé la décision de l'autorité, le droit à
+une décision motivée est respecté même si la motivation présentée est erronée
+(TF 5A_741/2016 du 6 décembre 2016 consid. 3.3.1). En revanche, une autorité se rend coupable
+d'un déni de justice formel si elle omet de se prononcer sur des griefs qui présentent une
+certaine pertinence ou de prendre en considération des allégués et arguments importants
+pour la décision à prendre (ATF 141 V 557 consid. 3.2.1 ; TF 5A_306/2016 du 7 juillet 2016
+consid. 3.2 ; TF 5A_359/2016 du 7 septembre 2016 consid. 4.1 ; TF 5A_982/2015 du 9 décembre
+2016 consid. 3.1 ; TF 5A_282/2016 du 17 janvier 2017 consid. 3.1.1, RSPC 2017 p. 221 ; TF 5A_506/2016
+du 6 février 2017 consid. 2 ; TF 5A_902/2016 du 21 mars 2017 consid. 4.1 ; TF 5A_766/2016 du 5 avril
+2017 consid. 3.1.1).
+b)
+Selon
+l’art. 148 al. 1 CPC, le tribunal peut accorder un délai supplémentaire ou citer les
+parties à une nouvelle audience lorsque la partie défaillante en fait la requête et rend
+vraisemblable que le défaut ne lui est pas imputable ou n’est imputable qu’à une
+faute légère. La requête doit être présentée dans les dix jours qui suivent
+celui où la cause du défaut à disparu (art. 148 al. 2 CPC). Si une décision a été
+communiquée, la restitution ne peut être requise que dans les six mois qui suivent l’entrée
+en force de la décision (art. 148 al. 3 CPC).
+Le défaut doit découler d’une absence de faute ou d’une faute légère ;
+l’art. 148 al. 1 CPC est ainsi moins sévère que les art. 50 al. 1 LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), 33 al. 4 LP et 94 al. 1 CPP (Code de procédure
+pénale suisse ; RS 312.0) qui subordonnent la restitution à l’absence de toute
+faute (TF 5A_414/2016 du 5 juillet 2016 consid. 4.1 et la réf. cit.). La faute légère
+vise tout comportement ou manquement qui, sans être acceptable ou excusable, n’est pas particulièrement
+répréhensible, tandis que la faute grave suppose la violation de règles de prudence vraiment
+élémentaires qui s’imposent à toute personne raisonnable (TF 5A_414/2016 précité ;
+TF 5A_927/2015 du 22 décembre 2015 consid. 5.1 et les réf. cit.) La partie qui se prévaut
+d’une faute légère doit établir le motif invoqué et accompagne sa demande de
+restitution de tous les moyens de preuve disponibles (arrêts précités).
+c)
+En
+l’espèce, le premier juge a rejeté la requête pour le motif que la dette en poursuite
+n’avait pas été réglée. Ce motif n’est pertinent que dans l’examen
+d’une requête de faillite, mais n’a pas, au vu de la jurisprudence susmentionnée,
+à être examiné dans le cadre de l’examen d’une requête de restitution
+de délai. Le premier juge n’a pas évoqué dans sa motivation le point de savoir si
+l’absence du recourant à l’audience du 24 avril 2018, pour le motif qu’il pensait
+qu’avec ses paiements la cause était réglée, était due, au niveau de la vraisemblance,
+à une faute légère au sens de l’art. 148 al. 1 CPC. Cette absence de motivation
+pertinente constitue un délai de justice formel au sens de la jurisprudence susmentionnée.
+IV.
+En conclusion, le recours doit être admis
+et la décision annulée, la cause étant renvoyée au premier juge pour qu’il
+procède dans le sens des considérants.
+Dans l’hypothèse où il admettrait la requête de restitution, il lui appartiendra
+de statuer sur la requête de faillite, si celle-ci est maintenue par K.________. Dans l’hypothèse
+inverse, il lui appartiendra impérativement de transmettre le dossier à la cour de céans
+afin que celle-ci puisse examiner le recours du 9 mai 2018 contre le jugement du 24 avril 2018.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont laissés
+à la charge de l’Etat (art. 107 al. 2 CPC).
+Il n’y a pas lieu d’allouer de dépens de deuxième instance, l’intimé
+n’ayant pas formellement conclu au rejet du recours.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+La décision est annulée et la cause renvoyée à la Présidente du Tribunal d’arrondissement
+de l’Est vaudois pour qu’elle procède dans le sens des considérants.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont laissés à la charge de l’Etat.
+IV.
+Il n’est pas alloué de dépens de deuxième instance.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Aba Neeman, avocat (pour M.________),
+‑
+Mme Laura Jaatinen Fernandez, agent d’affaires breveté (pour K.________),
+-
+M. le Préposé à l'Office des poursuites du district de la Riviera-Pays-d’Enhaut,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d’Aigle et de la Riviera,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
