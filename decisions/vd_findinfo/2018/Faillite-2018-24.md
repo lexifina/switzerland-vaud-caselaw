@@ -1,0 +1,114 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 24"
+decided: "2018-10-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6849129"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-059.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 24
+
+## Regeste
+
+RÉQUISITION DE FAILLITE, OUVERTURE DE LA FAILLITE, INTÉRÊT DIGNE DE PROTECTION, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, SURENDETTEMENT | 59 al. 2 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.10.2018 Faillite / 2018 / 24
+
+RÉQUISITION DE FAILLITE, OUVERTURE DE LA FAILLITE, INTÉRÊT DIGNE DE PROTECTION, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, SURENDETTEMENT | 59 al. 2 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FZ18.015093-181236
+241
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 octobre 2018
+____________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+59 al. 2 let. a CPC
+Vu le prononcé rendu le 14 août 2018 par la Présidente du Tribunal d’arrondissement
+de Lausanne, déclarant irrecevable la requête de faillite déposée le 10 avril 2018
+par la fiduciaire S.________Sàrl pour la société
+X.________Sàrl
+,
+à Chavannes-près-Renens,
+vu le jugement rendu par le magistrat précité le 16 août 2018, statuant par défaut
+des parties et prononçant la faillite de X.________Sàrl, le même jour, à 11
+heures
+47, à la réquisition de la Caisse [...],
+vu la notification de ce jugement à la faillie le 21 août 2018,
+vu la lettre adressée le 21 août 2018 à la présidente du tribunal d’arrondissement
+par F.________, associé gérant de X.________Sàrl, confirmant avoir mandaté la fiduciaire
+S.________Sàrl pour requérir la faillite de sa société et confirmant la requête
+de faillite,
+vu la lettre adressée le 22 août 2018 par le Tribunal d’arrondissement de Lausanne à
+la cour de céans, autorité de recours, lui transmettant le dossier et attirant son attention
+sur le fait que la faillite de la société en question avait été prononcée le
+16 août 2018 ;
+attendu que selon l’art. 59 al. 2 let. a CPC (Code de procédure civile ; RS 272), le
+tribunal n’entre en matière que sur les demandes et requêtes pour lesquelles le demandeur
+ou le requérant a un intérêt digne de protection,
+qu’en l’espèce, la requête déposée le 10 avril 2018 par S.________Sàrl,
+déclarée irrecevable pour le motif que cette fiduciaire n’avait pas justifié de
+ses pouvoirs de représentation, contenait un avis de surendettement de la recourante et tendait
+à ce que la faillite de celle-ci soit prononcée,
+que la faillite de la recourante a été prononcée le 16 août 2018, dans le cadre d’une
+autre procédure,
+que le recours tendant à ce que la requête de faillite précitée soit déclarée
+recevable et la faillite de la recourante prononcée est dès lors devenu sans objet,
+que la recourante n’a en effet aucun intérêt à obtenir une faillite déjà
+prononcée,
+que le recours est en conséquence irrecevable ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+X.________Sàrl en liquidation, M. F.________,
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
