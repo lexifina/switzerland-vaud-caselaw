@@ -1,0 +1,183 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 25"
+decided: "2018-10-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6856689"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 25
+
+## Regeste
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 149 CPC (CH), 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 24.10.2018 Faillite / 2018 / 25
+
+RESTITUTION DU DÉLAI, OUVERTURE DE LA FAILLITE, ACTE DE RECOURS, MOTIVATION DE LA DEMANDE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 149 CPC (CH), 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF18.026592-181495
+258
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 octobre 2018
+____________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+M :              Elsig
+*****
+Art.
+149, 321 al. 1 CPC
+Vu le jugement rendu le 9 août 2018, à la suite de l’audience du même jour, par
+la Présidente du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité
+de première instance en matière sommaire de poursuites et de faillite, prononçant par
+défaut des parties la faillite de
+N.________
+Sàrl
+, à [...], avec effet le 9 août
+2018 à 11 h 47, à la réquisition de
+Fonds
+X.________
+, à [...], (I) et mettant les frais
+judiciaires, fixés à 200 fr., à la charge de la faillie (II),
+vu le relevé Track-and-Trace de la poste indiquant que le pli contenant ce jugement adressé
+à N.________ Sàrl a été avisé pour retrait le 10 août 2018 et renvoyé
+par la poste au greffe du tribunal d’arrondissement de Lausanne le 20 août 2018 avec la mention
+« non réclamé »,
+vu l’acte daté du 23 août 2018 mais remis à la poste le lendemain, par lequel N.________
+Sàrl a requis de la Présidente du Tribunal d’arrondissement de Lausanne la restitution
+de délai et l’octroi de l’effet suspensif,
+vu la décision de la Présidente du Tribunal d’arrondissement de Lausanne du 28 août
+2018 prononçant l’effet suspensif en ce sens que les effets de la procédure de faillite
+sont suspendu jusqu’à droit connu sur la demande de restitution de délai,
+vu la décision de la Présidente du Tribunal d’arrondissement de Lausanne du 19 septembre
+2018 refusant d’entrer en matière sur le requête de restitution du 24 août 2018
+pour défaut de paiement de l’avance de frais (I), révoquant l’effet suspensif accordé
+par décision du 28 août 2018 (II), disant que le prononcé de faillite rendu le 9 août
+2018 prenait effet le 19 septembre 2018 à 9 heures (III), mettant les frais de l’audience
+de faillite, fixés à 200 fr., et ceux de la procédure de restitution de délai, fixés
+à 200 fr., à la charge de la faillie (IV) et déclarant la décision définitive
+sur la question de la restitution de délai, nonobstant recours (V),
+vu le recours interjeté le 1
+er
+octobre 2018 contre cette décision par N.________ Sàrl concluant préalablement à
+l’octroi de l’effet suspensif, principalement à « l’annulation de la
+décision de faillite du 19 septembre 2018 » et subsidiairement, à son annulation
+et au renvoi de la cause au premier juge pour complément d’instruction et nouvelle décision,
+vu les autres pièces du dossier ;
+attendu que le pli contenant la décision du 19 septembre 2018 a été avisé pour retrait
+à la recourante le 20 septembre 2018 et retourné par la poste au greffe du tribunal d’arrondissement
+avec la mention « non réclamé » le 28 septembre 2018,
+que le délai de recours a commencé à courir le 27 septembre 2018 en application de l’art.
+138 al. 3 let. a CPC (Code de procédure civile du 19 décembre 2008 ; RS 272), la recourante
+ayant requis la restitution de délai et devant s’attendre à recevoir une notification,
+que le recours déposé le 1
+er
+octobre 2018, l’a été en temps utile,
+qu’en revanche la conclusion principale tendant à « l’annulation du jugement
+de faillite du 19 septembre 2018 » est irrecevable,
+qu’en effet, c’est par le jugement du 9 août 2018 que la faillite de la recourante a
+été prononcée,
+qu’en tant qu’elle conteste cette décision, la conclusion du recours est tardive,
+que la décision du 19 septembre 2018 n’est pas un nouveau jugement de faillite, contre lequel
+la voie du recours de l’art. 174 al. 1 LP serait ouverte,
+que la faillite prononcée le 9 août 2018 n’a à aucun moment été annulée,
+que ce sont seulement ses effets, suspendus par la décision prononçant l’effet suspensif,
+qui sont entrés en vigueur le 19 septembre 2018, aucun recours n’étant ouvert contre
+une décision confirmant une faillite (CPF 11 juin 2018/96 ; CPF 5 mars 2018/26) ;
+attendu que la recourante conclut subsidiairement à l’annulation de la décision du 19
+septembre 2018 et au renvoi de la cause au premier juge pour nouvelle décision,
+que selon l’article 149 CPC, le juge statue définitivement sur la demande de restitution de
+délai, ce qui exclut en principe tout appel ou recours sur l’admission ou le rejet de la requête
+de restitution (Tappy, Code de procédure civile commenté, n. 12 ad art. 149 CPC),
+que la jurisprudence a précisé que le recours était néanmoins ouvert lorsque le refus
+de la restitution entraînait la perte définitive d’un droit (ATF 139 III 478 consid.
+6.3 ; cf. aussi TF 4A_350/2017 du 12 juillet 2017 consid. 3.2.1 ; TF 5A_964/2014 du 2 avril
+2015 consid. 2.3 ; CPF 7 septembre 2016/ 278 ; CPF 1
+er
+juillet 2016/206 ; CPF 18 septembre 2015/267),
+qu’en l’espèce, à la date à laquelle la recourante a déposé sa requête
+de restitution de délai, elle pouvait encore recourir contre le jugement de faillite du 9 août
+2018, ce qu’elle n’a pas fait,
+que la condition de la perte définitive d’un droit n’est dès lors pas réalisée
+(CPF 5 octobre 2018/224 ; CPF 26 octobre 2017/266 ; CPF 28 octobre 2016/332), de sorte que
+la voie du recours contre la décision de refus d’entrée en matière sur la requête
+de restitution de délai du 19 septembre 2018 n’est pas ouverte,
+que la conclusion subsidiaire de la recourante est dès lors irrecevable pour ce premier motif ;
+attendu qu’en vertu de l’art. 321 al. 1 CPC l’acte de recours doit être motivé,
+que, si la motivation du recours fait défaut, l’instance de recours n’entre pas en matière,
+que, selon la jurisprudence du Tribunal fédéral, la motivation du recours doit à tout
+le moins satisfaire aux exigences qui sont posées pour un acte d’appel, ce qui signifie que
+le recourant doit présenter une argumentation suffisamment explicite pour que l’instance de
+recours comprenne contre quelle décision il recourt et sur quels points il attaque cette décision
+(TF 5A_206/2016 du 1er juin 2016 ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, publié in
+RSPC 6/2015 pp. 512 s. et les arrêts cités),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation
+de la décision attaquée et que son argumentation doit être suffisamment explicite pour
+que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (ibid.),
+que ni l’art. 132 al. 1 et 2 ni l’art. 56 CPC ne sont applicables en cas d’absence
+de motivation d’un acte de recours (ibid.),
+qu’en l’espèce, la recourante ne motive aucunement sa conclusion subsidiaire, qui est
+irrecevable pour ce second motif ;
+attendu que le recours doit donc en définitive être déclaré irrecevable, ce qui entraîne
+l’irrecevabilité de la requête d’effet suspensif ;
+que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Hüsnü Yilmaz, avocat (pour N.________ Sàrl),
+‑
+Fonds X.________,
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
