@@ -1,0 +1,439 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___29"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 29"
+decided: "2018-11-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6891682"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-089.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/311.0/art-169.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 29
+
+## Regeste
+
+PLAINTE{LP}, SAISIE DE SALAIRE, PRÊT DE CONSOMMATION, CONTRAT DE COMMISSION | 89 LP, 93 al. 1 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 01.11.2018 Plainte / 2018 / 29
+
+PLAINTE{LP}, SAISIE DE SALAIRE, PRÊT DE CONSOMMATION, CONTRAT DE COMMISSION | 89 LP, 93 al. 1 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+FA18.009417-181088
+28
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+1
+er
+novembre 2018
+______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+89, 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+K.________
+,
+à [...], contre la décision rendue le 5 juillet 2018, à la suite de l’audience du
+24 mai 2018, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité inférieure
+de surveillance, rejetant la plainte formée par le recourant contre un avis de saisie établi
+par l’
+Office
+des poursuites du district de Lausanne
+, à
+Lausanne.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Anciennement employé de la société Z.________ SA, K.________ (ci-après : le
+plaignant) est devenu courtier indépendant au début de l’année 2017.
+2.
+Le 21 février 2018, dans le cadre de poursuites exercées par la Confédération suisse
+et l’Etat de Vaud, l’Office des poursuites du district de Lausanne (ci-après :
+l’Office) a adressé au plaignant un avis de saisie de gains à hauteur de 6'600 fr. par
+mois dès le 1
+er
+février 2018. L’Office s’est fondé sur un revenu mensuel de 12'636 fr. 70, dont
+il a soustrait la part du plaignant au minimum vital fixée à 6'018 francs 15, ce qui laissait
+un solde disponible de 6'618 fr. 55.
+3.
+a)
+Par acte du 5 mars 2018, K.________ a déposé
+une plainte LP contre l’avis de saisie susmentionné auprès du Président du Tribunal
+d’arrondissement de Lausanne en concluant, avec suite de frais et dépens, principalement à
+son annulation et, subsidiairement, à sa réforme en ce sens qu’il est constaté qu’aucun
+montant n’est saisissable. Il a en substance fait valoir que son activité de courtier indépendant
+ne lui avait rapporté que 6'950 fr. en 2017, et que les autres entrées financières révélées
+par son compte bancaire s’expliquaient par le versement en capital de son deuxième pilier
+à hauteur de 204'822 fr. 30 ainsi que par l’octroi de prêts de tiers à concurrence
+de 189'500 fr., soit 149'000 fr. de W.________ SA, 20'000 fr. du groupe X.________ SA, 20'000 fr. de
+la société A.________ SA et 500 fr. de G.________. Au vu de ces éléments, il a soutenu
+qu’il ne disposait d’aucun revenu relativement saisissable au sens de l’art. 93 LP.
+Il a requis l’octroi de l’effet suspensif à la plainte.
+A l’appui de ses conclusions, le plaignant a notamment produit les pièces suivantes :
+-
+un relevé de son compte bancaire pour l’année 2017, dont il ressort que durant cette
+année, celui-ci a été crédité de divers versements pour un montant total de
+414'852 francs 25. En particulier la société W.________ SA ou N.________ lui ont versé
+les montants de 50'000 fr. le 19 janvier 2017 avec la mention « prêt pour libération
+du contrat avec Z.________ SA, rbt à définir », de 5'000 fr. le 6 mars 2017 avec
+la mention « avance », de 5'000 fr. le 21 juin 2017 et le 30 juin 2017 sans mention,
+de 15'000 fr. le 3 juillet 2017 avec la mention « Darlehen W.________ SA » de 5'000
+fr. le 18 juillet 2017 avec la mention « avance sur commissions », de 1'000 fr. le
+2 août 2017 sans mention, de 2'000 fr. le 3 août 2017 avec la mention « avance sur
+commissions », de 10'000 fr. le 16 août 2017 avec la mention « avance sur commissions »,
+de 5'000 fr. le 8 septembre 2017 avec la mention « avance sur commissions », de 1'000
+fr. le 5 octobre 2017 sans mention, de 8'000 fr. le 12 octobre 2017 avec la mention « avance
+sur commissions », de 10'000 fr. le 23 octobre 2017 avec la mention « avance
+sur commissions », de 1'500 francs le 31 octobre 2017 avec la mention « avance
+sur commissions », de 1'500 fr. le 1
+er
+novembre 2017 sans mention, de 1'500 fr. le 10 novembre 2017 avec la mention « avance sur commissions »
+de 1'000 fr. le 17 novembre 2017 avec la mention « avance sur commissions », 500
+fr. le 24 novembre 2017 avec la mention « avance sur commissions », de 11'000 fr.
+le 1
+er
+décembre 2017 avec la mention « avance sur commissions » et de 10'000 fr. le
+27 décembre 2017 avec la mention « avance sur commissions », soit des versements
+totaux de 65'500 fr. avec la mention « avance sur commissions », sur un montant total
+de 150’000 francs. Le plaignant a également reçu un montant de 20'000 fr. le 13 juillet
+2017 de la société X.________ SA avec la mention « prêt » et de 20'000
+fr. le 15 décembre 2017 de la société A.________ SA avec la mention « Fa 20171213/2
+du 13.12.2017 » ;
+-
+une copie d’un courrier de W.________ SA à l’Office du 17 janvier 2018 confirmant «
+avoir
+prêté différents montants à Monsieur K.________ afin qu’il puisse faire face
+aux paiements de ses différentes factures mensuelles privées
+» ;
+-
+une copie d’une reconnaissance de dette signée le 8 novembre 2017 par le plaignant dont le
+libellé est le suivant :
+« PRET
+REMBOURSABLE VALANT RECONNAISSANCE FORMELLE DE DETTES
+Je K.________, reconnais formellement devoir la somme de Fr. 10'000.—(dix-milles francs o/oo) à
+I.________ Sàrl.
+Le remboursement se fera sans intérêt.
+Le remboursement se fera au plus tard le 31.12.2017 à I.________ Sàrl
+Si des partages de commission interviennent avant la date de 31.12.2017, ils feront l’objet d’un
+décompte et viendront en déduction du montant de la dette de Fr. 10'000.--.
+Ainsi fait par versement sur mon compte bancaire le 08.11.2017 ».
+b)
+Par
+décision du 6 mars 2018, la présidente du Tribunal d’arrondissement de Lausanne a prononcé
+l’effet suspensif jusqu’à droit connu sur la plainte.
+Par courriers recommandés du 6 mars 2018,
+la présidente a notifié la plainte à l’Office et a cité les parties à
+comparaître à l’audience du 3 mai 2018.
+Dans ses déterminations du 23 avril 2018, l’Office a exposé avoir procédé à
+un nouvel examen du dossier sur la base notamment du relevé bancaire produit avec la plainte. Dans
+ce cadre, il a indiqué que, dans la mesure où le plaignant avait commencé son activité
+indépendante au début de l’année 2017, les revenus encaissés jusqu’au
+mois de juin 2017 n’étaient pas représentatifs et qu’il ne fallait par conséquent
+tenir compte que de ceux réalisés durant les six derniers mois de l’année, soit
+du 1
+er
+juillet au 31 décembre 2017. Il a estimé que les onze versements pour un montant total de 65'000
+fr. avec la mention « avance sur commission » effectués durant cette période
+par W.________ SA, ainsi que le versement de 20'000 fr. avec la mention « Fa 20171213/2 du
+13.12.2017 » effectué par A.________ SA devaient être considérés comme
+des revenus. Les gains obtenus par le plaignant durant le deuxième semestre 2017 s’élevaient
+ainsi à 85'000 fr., soit l’équivalent mensuel de 14'166 fr. 65, dont l’Office a
+déduit les charges professionnelles du plaignant, par 2'765 fr. 05, arrêtant ainsi le revenu
+mensuel net moyen de celui-ci à 11'401 fr. 60. Après avoir fixé la participation du plaignant
+aux charges communes de son ménage à 5'892 fr. 30, l’Office est arrivé à la
+conclusion que la quotité saisissable s’élevait en définitive à 5'509 fr. 30,
+arrondi à 5'500 fr. par mois. Sur la base de ces nouveaux calculs, l’Office a conclu à
+ce que la plainte soit partiellement rejetée, le plaignant étant sommé de prélever
+sur ses gains une somme de 5'500 fr. par mois dès le 1
+er
+février 2018.
+c)
+A
+L’audience du 3 mai 2018, à laquelle les parties ont assisté, la présidente a décidé,
+avec leur l’accord, d’entendre comme témoin N.________, administrateur de W.________
+SA, lors d’une nouvelle audience fixée le 24 mai 2018.
+A la reprise d’audience du 24 mai 2018, à laquelle les parties ont assisté, N.________,
+entendu comme témoin, a déclaré ce qui suit
+«
+Avec Monsieur K.________, nous sommes amis, depuis une vingtaine d'années, et nous sommes associés
+depuis une année dans un projet de société pour la vente de propriétés résidentielles.
+Il s'agit d'un service au sein de ma société W.________ SA. Je me suis associé à
+Monsieur K.________ pour ce service, qui est déjà actif. Dans le cadre de ses services, Monsieur
+K.________ touche uniquement des commissions sur les ventes effectuées. Je précise donc qu'il
+n'est pas salarié. Il n'y a pas eu encore de vente, mais c'est en cours. Il n'y a pas eu de commission
+pour l'instant. Comme il doit vivre, je lui paie des montants de temps en temps à titre de prêt.
+En théorie, ce sont des avances sur commissions. La fiduciaire m'a demandé d'indiquer «
+avance sur commissions » plutôt que « prêt », car sinon je devrais demander
+des intérêts sur ces montants, ce que je ne souhaite pas demander. Au bilan, ces « avances
+» sont inscrites comme des dettes dues par Monsieur K.________ à la société. Ces
+dettes sont remboursables dès l'encaissement des prochaines commissions. On prélèvera
+directement les montants dus sur les commissions. C'est Monsieur K.________ qui m'indique quels sont
+ses besoins. Par rapport à la situation de la société, je regarde si on peut effectuer
+ces prêts. Par rapport aux affaires que nous avons en cours, je sais que ces prêts pourront
+être remboursés à court terme. Pour répondre à Monsieur [...], je n'ai pas fait
+signer de reconnaissance de dette ni de contrat à Monsieur K.________, car c'est un amis. Dans les
+avis bancaires, je note « avance sur commissions » et j'attends que l'organe de révision
+me demande une éventuelle reconnaissance de dette pour en faire établir une. Je n'ai eu aucun
+contact avec Monsieur K.________ en vue de la séance de ce jour. Il m'est déjà arrivé
+de prêter de l'argent à quelqu'un, mais j'ai demandé un contrat. Je ne le fais pas avec
+Monsieur K.________, car j'ai confiance en lui. Pour les employés avec une partie de salaire fixe
+et une partie de salaire variable, je fais des avances sur commissions en fonction d'un budget et des
+prévisions. A la fin de l'année, on regarde pour adapter les montants des commissions en fonction
+des avances qui ont été consenties. Il y a une autre personne dans la société, qui
+n'est rémunérée que par commissions, mais qui ne sollicite pas d'avance, car elle est
+retraitée. Si elle en demandait, je procéderais de la même manière qu'avec Monsieur
+K.________. Je précise que les avances sur commissions versées aux employés salariés
+sont comptabilisées comme des salaires, ce qui n'est pas le cas des avances remises à Monsieur
+K.________, puisqu'il n'est pas salarié. En accord avec Monsieur K.________, les avances seront
+remboursées sur les premières commissions touchées par celui-ci.».
+4.
+Par décision du 5 juillet 2018, la Présidente
+du Tribunal d’arrondissement de Lausanne, statuant en tant qu’autorité inférieure
+de surveillance, a rejeté la plainte déposée le 5 mars 2018 par K.________ (I), a révoqué
+l'effet suspensif accordé par décision du 6 mars 2018 (II) et a rendu la décision sans
+frais ni dépens (III). Après avoir constaté que le plaignant ne contestait pas le montant
+retenu à titre de charges professionnelles, soit 2'765 fr. 05, ni celui calculé pour sa participation
+aux frais communs du ménage, soit 5'892 fr. 30, la présidente a en substance considéré
+que les versements opérés par la société W.________ SA ainsi que celui effectué
+par A.________ SA constituaient bien des revenus au sens de l'art. 93 al. 1 LP.
+5.
+Par acte du 16 juillet 2018, le plaignant a recouru contre cette décision en concluant, avec suite
+de frais et dépens, principalement à sa réforme en ce sens que la plainte est admise et
+la décision d'avis concernant une saisie ou séquestre de revenu du 21 février 2018 annulée.
+Subsidiairement, il a conclu à l'annulation du prononcé entrepris. Il a requis que l’effet
+suspensif soit accordé au recours et a produit les pièces suivantes :
+-
+une copie d’une attestation d’affiliation établie le 22 janvier 2018 par la Caisse cantonale
+vaudoise de compensation AVS indiquant que le recourant était inscrit auprès d’elle en
+qualité d’indépendant depuis le 1
+er
+février 2017 ;
+-
+une copie d’un attestation « A qui de droit » établie le 12 juillet 2018
+par W.________ SA, sous la signature d’N.________, indiquant en substance que l’intégralité
+des montants versés au recourant par cette société étaient des prêts, la qualification
+de commission ou avance sur commission étant contestée, qu’il n’y avait aucune
+relation contractuelle entre cette société et le recourant fondant l’obligation de verser
+des commissions ou des avances sur commissions, qu’N.________ et le recourant étaient des
+amis de longue date, qu’ils étaient partenaires dans le domaine de l’immobilier, que
+le recourant aurait droit directement à sa part de commission en cas de concrétisation d’une
+affaire, les partenaires étant dans la situation de courtiers immobiliers agissant conjointement,
+que le recourant n’avait ni n’aurait aucune créance à faire valoir contre W.________
+SA, qu’il était prévu que les prêts en cause seraient remboursables dès que
+le recourant aurait à nouveau de l’argent, que cela devrait en principe se concrétiser
+au moment où les ventes immobilières se feraient, étant précisé que la société
+pourrait en tout temps exiger le remboursement des prêts et le recourant les rembourser par d’autres
+sources de revenus et que les questions de la présidente à l’audience du 24 mai 2018
+avaient fini par embrouiller N.________ dans ses déclarations ;
+-
+une copie d’une attestation « A qui de droit » de la fiduciaire de W.________
+SA du 12 juillet 2108 confirmant que des prêts avaient été accordés au recourant
+par W.________ SA à concurrence de 149'000 francs.
+L'Office s'est déterminé par écriture du 25 juillet 2018 et a conclu au rejet du recours.
+Par décision du 26 juillet 2018, la présidente de la cour de céans a rejeté la requête
+d’effet suspensif, au motif qu’elle n’était pas motivée.
+Le recourant a déposé une réplique spontanée le 27 juillet 2018.
+En droit :
+I.
+Formé contre une décision de l'autorité inférieure de surveillance dans le délai
+de dix jours suivant sa notification, le recours a été déposé en temps utile (art.
+18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1] et 28 al. 1 LVLP [loi du 18 mai 1955 d’application dans le canton de Vaud de la LP ;
+RSV 280.05) ; il comporte des conclusions et l'énoncé des moyens invoqués (art. 18 LP ;
+TF 5A_118/2018 du 7 février 2018 consid. 4.2), de sorte qu'il est recevable.
+Les pièces nouvelles produites par le recourant sont recevables (art. 28 al. 4 LVLP).
+Les déterminations de l’Office sont également recevables (art. 31 al. 1 LVLP).
+La réplique spontanée de la partie recourante, qui fait suite à la réponse de l'Office,
+est aussi recevable en vertu du droit d'être entendu (ATF 138 1154 consid. 2.3.3 ; CPF, 8 avril
+2016/17 et les références citées).
+II.
+Le recourant soutient en substance qu'il est indépendant depuis le 1
+er
+février
+2017, qu'il n'a pas et n'a jamais eu de créance envers W.________ SA, qu'il n'a en particulier jamais
+été son employé, que cette entreprise lui a uniquement consenti des prêts en raison
+de ses liens d'amitiés avec son CEO, N.________ et que ces prêts, comptabilisés comme
+tels par la société, pourraient être dénoncés au remboursement en tout temps.
+Il en conclut que les montants qui lui ont été versés par W.________ SA ne doivent pas
+être considérés comme des revenus au sens de l'art. 93 LP.
+a)
+Aux termes de l'art. 93 al. 1 LP, tous les revenus du travail, les usufruits et leurs produits, les rentes
+viagères, les contributions d'entretien, les pensions et prestations de toutes sortes qui sont destinées
+à couvrir une perte de gain ou une prétention découlant du droit d'entretien, en particulier
+les rentes et les indemnités en capital qui ne sont pas insaisissables en vertu de l'art. 92 LP,
+peuvent être saisis, déduction faite de ce que le préposé estime indispensable au
+débiteur et à sa famille.
+Pour fixer le montant saisissable, l'office des poursuites doit d'abord tenir compte de toutes les ressources
+du débiteur ; puis, après avoir déterminé le revenu global brut, il évalue le
+revenu net en opérant les déductions correspondant aux charges sociales et aux frais d'acquisition
+du revenu ; enfin, il déduit du revenu net les dépenses nécessaires à l'entretien
+du débiteur et de sa famille, en s'appuyant généralement pour cela sur les directives
+de la Conférence des préposés (TF 5A_16/2011 du 2 mai 2011 consid. 2.1, SJ 2011 I 335).
+Par "tous les revenus du travail" au sens de l'art. 93 LP, il faut entendre toutes les formes
+de rétribution d'un travail personnel, régulier ou occasionnel, périodique ou permanent,
+principal ou accessoire, dans le cadre d'une activité d'employé ou d'indépendant (TF 5A_589/2014
+du 11 novembre 2014, consid. 3.2). Pour déterminer si on trouve en présence d'un revenu au
+sens de l'art. 93 al. 1 LP, il faut moins se placer d'un point de vue juridique que d'un point de vue
+économique (TF 5A_589/2014 du 11 novembre 2014, consid. 3.2 ; Gilliéron, Commentaire de la
+loi fédérale sur la poursuite pour dettes et la faillite, n° 28 ad art. 93 LP). La qualification
+juridique ou la dénomination utilisée n'importe donc pas (Winkler, Kommentar zum Bundesgesetz
+über Schuldbetreibung und Konkurs, n° 2 ad art. 93 LP et les réf. citées). Sont donc
+relativement saisissables au sens de l’art. 93 LP tous les gains provenant d’une activité
+indépendante, que ce soit à titre de provisions, d’honoraires, prix d’un ouvrage,
+tantièmes, tout revenu d’une activité indépendante out toute contrepartie d’un
+service rendu dans le cadre d’une profession libérale (Vonder Mühll, in Staehelin/Bauer/Staehelin
+(éd.) Basler Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs I, 2
+e
+éd., n. 5 ad art. 93 LP).
+Sont déterminantes les circonstances réelles au moment de l'exécution de la saisie. Le
+fait que le débiteur aurait pu réaliser tel ou tel revenu s'il avait voulu est sans pertinence.
+Seul peut être saisi un revenu réel et non pas un revenu hypothétique (ATF 115 III 103,
+JdT 1991 II 108 consid. 1c non publié aux ATF).
+Le préposé aux poursuites doit élucider d'office les circonstances de fait qui sont nécessaires
+pour établir le revenu professionnel saisissable. Cela ne signifie cependant pas que le débiteur
+est dispensé de tout devoir de coopération. Au contraire, il lui incombe de renseigner l'autorité
+sur tous les faits essentiels et d'indiquer les preuves qui lui sont accessibles (ATF 119 III 70 consid.
+1 et les réf. cit.). En vertu de l'art. 91 al. 1 ch. 2 LP, le débiteur est du reste tenu, sous
+menace des peines prévues par la loi, d'indiquer jusqu'à due concurrence tous les biens qui
+lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses créances et autres
+droits contre des tiers.
+Le fonctionnaire ou l'employé de l'office des poursuites qui procède à l'exécution
+de la saisie en vertu de l'art. 89 LP ne doit pas se borner à enregistrer les déclarations
+du poursuivi ou de son représentant ; il doit l'interroger sur la composition de son patrimoine,
+y compris sur les droits patrimoniaux dont il n'est pas le titulaire apparent mais l'ayant droit économique,
+et rechercher les traces ou les indices de l'existence de droits patrimoniaux dont le poursuivi serait
+le titulaire, le titulaire apparent ou l'ayant droit économique (TF 7B.212/2002 du 27 novembre 2002
+consid. 2.1 ; ATF 108 III 10 consid. 3 ; Gilliéron, op. cit., n. 19 ad art. 91 LP; Lebrecht, in
+Basler Kommentar, op. cit., n. 13 ad art. 91 SchKG [LP]). Si le débiteur exerce une activité
+indépendante, l'office des poursuites l'interroge sur le genre d'activité qu'il exerce, ainsi
+que sur la nature et le volume de ses affaires ; il estime le montant du revenu en ordonnant d'office
+les enquêtes nécessaires et en prenant tous les renseignements jugés utiles ; il peut
+en outre se faire remettre la comptabilité et tous les documents concernant l'exploitation du débiteur,
+qui est tenu de fournir les renseignements exigés. Lorsque l'instruction menée par l'office
+n'a révélé aucun élément certain, il faut tenir compte des indices à disposition.
+Si le débiteur ne tient pas de comptabilité régulière, le produit de son activité
+indépendante doit être déterminé par comparaison avec d'autres activités semblables,
+au besoin par appréciation (ATF 126 III 89 consid. 3a et les réf. cit. ; TF 5A_1/2017 du 7
+juillet 2017 consid. 2.1 ; TF 5A_16/2011 consid. 2.1 précité ; TF 7B.175/2005 du 20 décembre
+2005 consid. 3.1 ; TF 7B.212/2002 consid. 2.1 précité).
+b)
+En
+l'espèce, il est établi et admis que le recourant exerce une activité de courtier indépendant
+depuis le 1
+er
+février 2017.
+S'agissant des gains du recourant, l'Office a considéré, dans ses déterminations du 23
+avril 2018, qu'ils devaient être évalués sur le deuxième semestre de l'année
+2017, les revenus encaissés jusqu'en juin 2017 n'étant pas révélateurs, ce qui n'est
+pas contesté.
+Le recourant ne conteste pas non plus avoir, durant ce laps de temps, perçu une somme de 20'000
+fr. qui lui a été versée par A.________ SA sous le libellé « FA 20171213/2 du
+13.12.2017 », soit manifestement en paiement d'une facture établie par ses soins, ni que ce
+montant doit être considéré comme un revenu au sens de l'art. 93 LP.
+Pour le reste, il résulte des relevés bancaires produits par le recourant qu'il a perçu,
+durant cette même période, une somme totale de 65'000 fr. de la société W.________
+SA à titre d' « avance sur commission ». Entendu en qualité de témoin lors de
+l'audience tenue par le premier juge, N.________, administrateur de W.________ SA, a effectivement indiqué
+que, dans la comptabilité de la société, ces montants figuraient comme des prêts
+consentis au recourant. La fiduciaire de W.________ SA l'a également confirmé. Cela n'exclut
+toutefois pas que ces montants puissent être considérés comme des revenus au sens économique
+du terme pour le recourant. A cet égard, il résulte de l'audition d'N.________ que le recourant
+est actif dans le cadre d'un partenariat qu'ils ont noué pour la vente de propriétés résidentielles
+et que cette activité va prochainement lui permettre d'encaisser des commissions. Dans l'intervalle,
+la société du témoin lui avance certaines sommes destinées à lui permettre de
+subvenir à ses besoins. L'accord passé entre les intéressés prévoit que les
+montants en cause seront remboursés à la société par compensation avec les premières
+commissions de courtage que touchera le recourant ce qui, aux dires du témoin, va pouvoir se faire
+à court terme. Il y lieu d’en conclure que les montants versés par la société
+W.________ SA représentent bien, pour le recourant, des avances sur honoraires ou commissions pour
+l'activité qu'il déploie en tant que courtier au sein du partenariat noué avec N.________
+d'une part et qu'il n'aura pas à les restituer puisque ces montants pourront être portés
+en déduction des commissions qu'il va prochainement percevoir d'autre part. D'un point de vue économique,
+pour la période considérée, les montants versés par W.________ SA à hauteur
+de 65'000 fr. constituent donc bien des revenus au sens de l'art. 93 LP.
+En définitive, c'est donc à juste titre que l'office a retenu que le recourant avait perçu
+des gains globaux de 85'000 fr. pendant le deuxième semestre 2017.
+Les autres éléments du calcul effectué par l'Office, soit en particulier le montant retenu
+à titre de charges professionnelles ainsi que la part du recourant au minimum vital de son ménage,
+ne sont pas contestés. La saisie de gain de 5’500 fr. proposée par l'Office dans ses
+déterminations est donc parfaitement justifiée. Dans la mesure où l'Office n'a toutefois
+pas fait usage de la possibilité réservée à l'art. 17 al. 4 LP ni notifié un
+avis de saisie rectifié au recourant, le premier juge aurait dû admettre partiellement la plainte
+et réformer l'avis de saisie du 21 février 2018 en ce sens que le recourant est sommé,
+sous la menace des sanctions prévues aux art. 169 et 292 CP, de prélever sur ses gains une
+somme de 5500 fr. par mois dès le 1
+er
+février 2018.
+III.
+En conclusion, le recours doit être partiellement
+admis et la décision réformée en ce sens que la plainte est partiellement admise et l’avis
+de saisie en cause réformé en ce sens que le recourant est sommé de prélever sur
+ses gains la somme de 5'500 fr. par mois dès le 1
+er
+février 2018.
+L’arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ; 61
+al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus en
+application de la LP ; RS 281.35])
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est partiellement admis.
+II.
+La décision est réformée en ce sens que la plainte déposée le 5 mars 2018 par
+K.________ est partiellement admise et l’avis concernant une saisie ou un séquestre de revenu
+du 21 février 2018 réformé en ce sens que K.________ est sommé, sous la menace des
+sanctions prévues aux art. 169 CP (peine privative de liberté de trois ans au plus ou peine
+pécuniaire) et 292 CP (amende), de prélever sur ses gains une somme de 5'500 fr. (cinq mille
+cinq cents francs) par mois dès le 1
+er
+février
+2018.
+La décision est confirmée
+pour le surplus.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Nicolas Saviaux, avocat (pour K.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+Le greffier :
