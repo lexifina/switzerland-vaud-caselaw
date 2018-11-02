@@ -1,0 +1,492 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 30"
+decided: "2018-11-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6875560"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-132a.md", "switzerland/bund/acts/281.42/art-025.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 30
+
+## Regeste
+
+MOYEN DE DROIT, PLAINTE{LP}, PROCÉDÉ TÉMÉRAIRE | 18 al. 1 LP, 20a al. 2 ch. 5 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 02.11.2018 Plainte / 2018 / 30
+
+MOYEN DE DROIT, PLAINTE{LP}, PROCÉDÉ TÉMÉRAIRE | 18 al. 1 LP, 20a al. 2 ch. 5 LP
+
+TRIBUNAL
+CANTONAL
+FA18.021414-181153
+26
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+2 novembre 2018
+_____________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 20a al. 2 ch. 5 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.H.________
+,
+à [...], contre la décision rendue le 13 juillet 2018, à la suite de l’audience
+du 3 juillet 2018, par le Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte déposée le 22 mai 2018 par le recourant
+contre l’
+Office
+des poursuites du district de Lavaux-Oron
+, à
+Pully, dans le cadre de la procédure de réalisation forcée d’immeubles l’opposant
+également à la
+Banque
+X.________
+, à
+A.W.________
+et à
+F.________
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+B.H.________ était propriétaire des parcelles [...] de la commune de [...] et [...] de la commune
+de [...], grevées collectivement de deux cédules hypothécaires au porteur.
+Le 16 août 2001, la Banque X.________, créancière poursuivante, a requis la vente de ces
+immeubles.
+B.H.________ est décédé le 13 mai 2002, laissant pour héritiers sa femme et son fils
+A.H.________.
+Le 18 novembre 2002, un autre créancier poursuivant, B.W.________, porteur des cédules hypothécaires,
+a requis la vente des immeubles. Un avis de vente aux enchères a été adressé le 3
+août 2006 à la succession de B.H.________, mentionnant que le gage était estimé
+à 275'000 fr. « selon rapport d'expert et procédures antérieures ».
+A la suite d’une plainte LP des héritiers de B.H.________, l’autorité inférieure
+de surveillance, par décision du 15 septembre 2011, a annulé cet avis de vente et invité
+l’office des poursuites à procéder à une nouvelle estimation des parcelles...].
+Le rapport d’expertise commandé, déposé le 2 décembre 2011, a arrêté
+la valeur vénale des immeubles à 300'000 fr. et mentionné que les bâtiments sis sur
+la parcelle [...] (une ancienne ferme, soit maison d’habitation et deux dépendances) étaient
+en ruine et voués à la démolition.
+La veuve de B.H.________ étant décédée le 9 janvier 2008, leur fils, A.H.________,
+unique héritier, a accepté la succession sous bénéfice d'inventaire.
+b)
+Le 18 juin 2012, l'Office des poursuites du
+district de Lavaux-Oron (ci-après : l’Office) a adressé un nouvel avis de vente
+aux enchères à A.H.________. La plainte LP de ce dernier contre cet avis a été rejetée
+le 21 novembre 2012 par l'autorité inférieure de surveillance, dont la décision a
+été confirmée par la Cour des poursuites et faillites du Tribunal cantonal, autorité
+supérieure de surveillance (CPF 6 février 2013/4). Le recours du plaignant contre cet
+arrêt a été déclaré irrecevable par le Tribunal fédéral (TF 5A_147/2013
+du 21 février 2013).
+c)
+Le 6 mars 2013, l'Office a adressé
+un nouvel avis de publication de vente aux enchères à A.H.________. La vente prévue pour
+le 26 juin 2013 a été publiée le 15 mars 2013. A.H.________ a déposé une plainte
+LP, concluant à l'annulation de la publication de la vente et à une nouvelle estimation du
+gage par un «
+expert immobilier
+reconnu
+». Par prononcé du 11 juin
+2013, l'autorité inférieure de surveillance a rejeté la plainte et laissé libre cours
+à la vente aux enchères. Statuant sur le recours du plaignant contre cette décision, la
+Cour des poursuites et faillites l’a confirmée (CPF 8 octobre 2013/31). Le recours déposé
+par A.H.________ auprès du Tribunal fédéral a été déclaré irrecevable
+(TF 5A_792/2013 du 10 février 2014). Toutefois, l’effet suspensif ayant été accordé
+par ordonnance présidentielle du 6 novembre 2013, la vente prévue a été reportée
+une nouvelle fois.
+d)
+Le 19 avril 2013, l’Office a dressé le procès-verbal de vente immobilière aux enchères
+des parcelles concernées, contenant les conditions de vente, dont les chiffres 22 et 23 concernaient
+respectivement les baux en vigueur, soit un bail à ferme oral, et le droit de préemption légal
+du fermier, F.________ (art. 51 al. 1 et 60a ORFI).
+Par lettre du 8 mai 2013 adressée à l’Office, A.H.________ a contesté l’état
+des charges annexé au procès-verbal de vente immobilière et contesté l’existence
+du bail à ferme agricole oral en faveur de F.________ inscrit au chiffre 22. Considérant que
+cette dernière contestation était une plainte LP dirigée contre les conditions de vente,
+l’Office l’a transmise au Président du Tribunal d’arrondissement de l’Est
+vaudois, autorité inférieure de surveillance, comme objet de sa compétence.
+Le 16 mai 2013, le président a accordé l’effet suspensif. Par prononcé du 5 août
+2013, il a rejeté la plainte et laissé libre cours à la procédure de réalisation,
+en relevant qu’un arrêt rendu le 19 octobre 1999 par la Cour des poursuites et faillites,
+statuant en qualité d’autorité supérieure de surveillance, avait déjà
+constaté qu’il existait un contrat de bail à ferme oral et que, l’état de
+fait étant identique, il n’y avait pas de raison de s’en écarter.
+A.H.________ a recouru contre ce prononcé en prenant les conclusions suivantes :
+«
+que
+son recours auprès du Tribunal d’arrondissement de l’Est vaudois, Vevey, est maintenu;
+que
+l’effet suspensif est accordé;
+qu’aucun
+droit ne soit accordé à F.________ sur ma propriété […], à [...] […];
+que
+l’office est condamné à me payer les dommages financiers réels et les dommages de
+réputation causés par cet office depuis des années à [son] égard;
+que
+la vente aux enchères soit annulée définitivement;
+que
+la "gérance" de ma propriété par de (sic) cet office soit annulée
+».
+La Cour des poursuites et faillites a rejeté le recours et confirmé le prononcé du 5 août
+2013 (CPF 5 décembre 2013/40). Elle a considéré, en substance, que l’existence d’un
+bail à ferme en faveur de F.________ avait été admise par l’autorité inférieure
+de surveillance dans son prononcé du 25 juin 1999 et par l’autorité supérieure de
+surveillance dans son arrêt du 19 octobre 1999, que le fermage avait depuis lors été payé
+en mains de l’Office – qui exerçait une gérance légale -, que le témoin
+entendu en cours d’instruction avait confirmé ce point, que des quittances de paiement avaient
+été produites, et enfin que le recourant n’avait pas établi que le contrat de bail
+à ferme agricole aurait depuis lors pris fin ; au sujet du droit de préemption, la cour
+a relevé que l’Office avait uniquement mentionné dans les conditions de vente que le
+fermier avait d’ores et déjà demandé que son droit de préemption soit pris
+en compte, mais que cette indication ne signifiait pas que ce droit serait effectivement exercé
+par le fermier lors des enchères, ni que l’immeuble lui serait attribué, ni même
+que celui-ci remplissait les conditions posées par la LDFR pour admettre l’existence d’un
+droit de préemption.
+Saisi d’un recours de A.H.________ contre l’arrêt cantonal précité, le Tribunal
+fédéral l’a déclaré irrecevable (TF 5A_971/2013 du 24 février 2014).
+e)
+Le 12 juin 2013, A.H.________ a déposé une demande en contestation de l’état des
+charges auprès de la Chambre patrimoniale cantonale qui, par jugement du 23 janvier 2017, adressé
+aux parties le 13 avril 2017, a notamment rejeté les conclusions du demandeur et l’a condamné
+à verser des dépens à la défenderesse A.W.________ - qui a succédé au poursuivant
+B.W.________.
+L’appel interjeté par A.H.________ contre ce jugement auprès de la Cour d’appel
+civile du Tribunal cantonal a été déclaré irrecevable (CACI 29 juin 2017/267) et
+le Tribunal fédéral n’est pas entré en matière sur son recours contre cet arrêt
+(TF 4A_464/2017 du 25 octobre 2017).
+f)
+Le 7 mars 2018, l’Office a dressé
+le procès-verbal de vente immobilière aux enchères des parcelles concernées, contenant
+les conditions de vente. Ce procès-verbal est identique à celui du 19 avril 2013, sous réserve
+de modifications mineures apportées aux chiffres 10, 15, 18 et 25 ; il mentionne que les chiffres
+non modifiés sont entrés en force depuis le 3 mai 2013, respectivement le 27 février
+2014 pour les chiffres 22 et 23 ayant trait au contrat de bail et au droit de préemption du fermier
+- qui ont fait l’objet d’une plainte de A.H.________ (cf. supra let. d)). Il mentionne par
+ailleurs que l’estimation officielle, pour les deux parcelles vendues en bloc, s’élève
+à 300'000 fr. et que la vente aux enchères aura lieu le 23 mai 2018. Le chiffre 25 intitulé
+« Transformation » relève que les deux parcelles sont classées en zone
+agricole, qu’elles sont inconstructibles sauf pour les besoins de l’agriculture, que dans
+une lettre du 2 décembre 2011, le Service du développement territorial compétent pour
+délivrer des autorisations de construire a émis un avis défavorable pour tout projet de
+réhabilitation des bâtiments existants, que dans des lettres des 4 juin 2013 et 6 janvier 2014,
+ce service a précisé que, de son point de vue, les bâtiments devraient être démolis
+avant qu’ils ne présentent un risque sérieux pour la sécurité des personnes
+et enfin que, par lettre du 16 février 2018, il a confirmé que ses conclusions antérieures
+étaient toujours d’actualité.
+g)
+aa)
+Par acte du 26 mars 2018, A.H.________ a déposé une plainte LP « contre la décision
+de l’office des poursuites de la vente de [ses] parcelles [...] et [...] à [...] ».
+Il a fait valoir que l’estimation était en-dessous de toute valeur du marché, qu’un
+expert devrait la refaire (point 1), que toutes les conditions de vente établies par l’Office
+étaient contestées (point 2), que le bail accordé à F.________ n’avait jamais
+existé et était contesté (point 3), que le droit d’emption (sic) qui en découlait
+était nul et non avenu (point 4), que F.________ n’avait aucun droit sur son immeuble (point
+5), et que l’état des charges était entièrement contesté (point 6). Il a pris
+les conclusions suivantes, tout en annonçant qu’il compléterait son acte après les
+féries :
+«
+Conclusions :
+A.H.________ conclut par suite de frais et dépens
+à
+ce que la vente est annulée
+les
+conditions de vente sont annulées
+le
+bail oral n’a jamais existé, il est nul et non avenu
+le
+droit d’emption (sic) de M. F.________ est nul et non avenu
+tout
+le pv est contesté
+toutes
+les conditions de vente sont contestées
+l’effet
+suspensif est accordé
+»
+bb)
+Par acte du 9 avril 2018, le plaignant a déclaré
+compléter son acte précédent, en attaquant « la décision de l’Office
+des poursuites de Lavaux-Oron (…) d’organiser le 23.5.18 la vente de [sa] propriété
+à [...] ». Ses contestations, énoncées en vingt points, étaient dirigées
+contre l’estimation de 300'000 fr. qualifiée d’expropriation (point 1), les conditions
+de vente (point 2), le bail à ferme agricole et le droit d’emption (sic) reconnus à F.________
+(points 3 à 6), le prix encaissé par l’Office pour la location - de 1'000 fr. par mois
+–, qui serait inférieur au prix du marché, de sorte que l’Office serait son débiteur
+d’un montant de 100'000 fr. (points 7 et 8), la gérance légale de l’Office, qui
+aurait « intégralement manqué à son devoir » et généré
+des « pertes incalculables à [sa] famille » (points 9 à 12), la publication
+de la vente qui devrait « être interdite pour que d’autres dommages au crédit
+ne soient pas propagés à [son] égard » (point 13), l’Office, dont il demandait
+la récusation immédiate (point 14), l’autorisation par la commission foncière rurale
+du morcellement de la parcelle [...] et l’approbation de cette décision par le département
+compétent le 12 janvier 2010, alors que le procès-verbal ne mentionnait pas ce fait et que
+la valeur de la nouvelle parcelle à détacher serait d’au moins 500 fr. le m
+2
+(soit au total 1'391'000 fr.) (points 15 à 18), et le chiffre 28 du procès-verbal qui serait
+« erroné et réfuté par des grands experts » (points 19 et 20).
+cc)
+Par prononcés rendus le 26 juin 2018, l’autorité inférieure de surveillance a rejeté
+les deux plaintes précitées.
+h)
+Par
+acte du 22 mai 2018, A.H.________ a déposé une nouvelle plainte LP contre l’Office « pour
+arrêter la vente ». Il a fait valoir que F.________ aurait demandé à deux agriculteurs
+de ne pas enchérir lors de la vente prévue le lendemain et a conclu à l’annulation
+de cette vente. Il a formulé en outre les conclusions suivantes :
+«
+Il
+est ordonné à l’Office des poursuites de Lavaux-Oron de refaire l’estimation de
+ma propriété, d’annuler le bail oral et le droit de préemption accordés sans
+fondements juridiques à F.________ et d’annuler le PV et tous les autres protocoles provenants
+(sic) de l’Office des poursuites de Lavaux-Oron concernant la « vente » du
+23.5.18.
+Le
+bail oral et le droit de préemption accordés, sans fondements juridiques, à F.________
+par l’Office des poursuites de Lavaux-Oron, sont annulés.
+».
+i)
+L’Office s’est déterminé le 21 juin 2018, concluant au rejet de la plainte.
+Par lettre du 2 juillet 2018, la créancière A.W.________ a déclaré se rallier aux
+déterminations de l’Office.
+j)
+Lors de l’audience qui s’est tenue le 3 juillet 2018 en présence du plaignant et de
+deux représentants de l’Office, ces derniers ont indiqué que la vente avait eu lieu le
+23 mai 2018 et que quatre intéressés avaient formulé une surenchère.
+2.
+Par prononcé du 13 juillet 2018, rendu sans frais ni dépens, le Président du Tribunal
+d’arrondissement de l’Est vaudois, autorité inférieure de surveillance, a rejeté
+la plainte dans la mesure de sa recevabilité.
+En substance, il a considéré que les questions de l’estimation des immeubles ainsi que
+de la validité du bail et du droit de préemption avaient déjà été définitivement
+tranchées dans le cadre de précédentes plaintes, qu’il n’était pas établi
+que F.________ aurait tenté d’influencer d’autres enchérisseurs potentiels, que
+ce n’était de toute façon pas un motif de renvoyer la vente, et que les autres griefs
+étaient trop imprécis ou ne relevaient pas de mesures prises par l’Office.
+3.
+a)
+Le 14 juillet 2018, par un avis déposé
+dans sa case postale, A.H.________ a été informé de l’arrivée du pli recommandé
+contenant l’exemplaire du prononcé qui lui était destiné et du délai au 21
+juillet 2018 pour le retirer. Ayant fait prolonger le délai de garde au 4 août 2018, il a retiré
+le pli le 25 juillet 2018.
+Par acte du 31 juillet 2018, il recouru contre le prononcé, concluant, avec suite de frais et dépens,
+en substance à sa réforme en ce sens que la plainte est admise, que la vente litigieuse est
+annulée, que le bail de F.________ est radié, que F.________ doit lui payer la somme de 100'000
+fr. « de paiements arriérés pour les dix dernières années »,
+plus intérêt à 5%, que l’Office doit faire « toutes les démarches
+auprès de la SDT pour que la nouvelle parcelle par 2'782 m
+2
+puisse être inscrite au RF de Cully et évidemment
+au nom de A.H.________, propriétaire des parcelles [...] à [...] et [...] à [...] »,
+que l’Office doit lui payer la somme de 100'000 fr. « d’arriérés pour
+les dix dernières années avec 5% d’intérêts et des dommages-intérêts
+à déterminer par un vrai expert pour une gérance déloyale », qu’une
+nouvelle expertise est établie et que l’Office est récusé. Il a produit treize pièces
+sous bordereau, dont le prononcé attaqué et l’enveloppe d’envoi.
+b)
+Par lettre du 21 août 2018, l’Office a déclaré maintenir sa détermination du
+21 juin 2018. Il a précisé que la vente, n’ayant pas fait l’objet d’une plainte,
+était donc entrée en force, de sorte que le transfert de propriété des parcelles
+concernées avait été opéré le 11 juillet 2018.
+A.W.________ s’est déterminée par acte du 22 août 2018, concluant au rejet du recours.
+La Banque X.________ a également conclu au rejet du recours, par lettre du 23 août 2018.
+En droit :
+I.
+a)
+Le recours a été déposé en temps utile, dans les dix jours suivant la notification
+du prononcé attaqué (art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes
+et la faillite ; RS 281.1] ; 28 al. 1 LVLP [loi vaudoise d’application de la LP ;
+RSV 280.05]), qui est réputée avoir eu lieu le 21 juillet 2018, échéance du délai
+de garde, nonobstant la prolongation de ce délai par le destinataire. Il est suffisamment motivé
+(TF 5A_118/2018 du 7 février 2018 consid. 4.1). Il est ainsi recevable formellement.
+Les déterminations de l’Office et des intimées sont également recevables (art. 31
+al. 1 LVLP).
+b)
+Dans sa plainte, le recourant a conclu à l’annulation de la vente prévue en ce sens qu’il
+tendait à « arrêter », soit à empêcher cette vente ; il
+a conclu aussi à une nouvelle estimation des parcelles, à l’annulation du bail et du
+droit de préemption de F.________ et à l’annulation « du PV et de tous les
+autres protocoles » de l’Office concernant la vente. Les conclusions de son recours qui
+portent sur des objets différents (annulation de la vente effective, paiement de dommages et intérêts,
+démarches auprès « de la SDT » et du registre foncier, récusation
+de l’Office) sont nouvelles et, par conséquent, irrecevables (CPF 3 mars 2016/11 et les
+arrêts cités).
+En particulier, c’est en vain que le recourant s’en prend à la vente effective, en concluant
+à son annulation, alors que, dans sa plainte, il visait à empêcher que cette vente ait
+lieu, en soulevant des moyens contre des actes préparatoires de l’Office. Cela n’empêcherait
+néanmoins pas l’annulation de la vente a posteriori si un des griefs formulés contre
+ces actes était recevable et bien fondé (TF 5A_851/2014 du 23 mars 2015).
+c)
+Les pièces produites avec le recours sont nouvelles en ce sens qu’elles ne figuraient pas
+au dossier de première instance. Elles sont recevables (art. 28 al. 4 LVLP).
+Le recourant offre pour le surplus la preuve par témoins et par expertise pour établir certaines
+de ses allégations. Si cela est théoriquement possible (art. 23 et 33 LVLP), les preuves offertes
+en l’espèce le sont pour l’essentiel à l’appui de conclusions irrecevables
+et doivent donc être rejetées. Dans la mesure où elles concernent les allégations
+relatives aux tentatives d’influence exercées par F.________, elles doivent également
+être rejetées, pour les motifs qui suivent.
+II.
+a)
+Le recourant se plaint une fois encore de la manière dont l’Office a exercé la gérance
+légale sur les immeubles et de l’estimation de ceux-ci. Il soulève aussi des griefs contre
+le comportement de F.________.
+b)
+La voie de la plainte et du recours aux autorités de surveillance n’est pas seulement ouverte
+contre les irrégularités commises lors des opérations de la réalisation forcée
+elle-même, mais aussi contre celles commises dans la procédure préparatoire, telle que
+définie par les art. 25 ss ORFI (ordonnance du Tribunal fédéral sur la réalisation
+forcée des immeubles ; RS 281.42). Le vice allégué peut par exemple concerner l’insuffisance
+ou l’inexactitude des indications figurant dans la publication des enchères et les avis spéciaux
+ou des conditions de vente lacunaires (Gilliéron, Commentaire de la loi fédérale sur la
+poursuite pour dettes et la faillite, n. 55
+ad
+art. 126 LP ; Bettschart,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, 2005, n. 8
+ad
+art. 132a LP ; Rutz,
+in
+Staehelin/Bauer/Staehelin (éd.), Basler Kommentar, Bundesgesetz über Schuld-betreibung und
+Konkurs I, 2
+e
+éd.
+2010, n. 9 ad art. 132a SchKG [LP]). Il peut aussi concerner des manœuvres illicites ou contraires
+aux mœurs altérant le résultat des enchères. Constituent de telles manœuvres
+par exemple une convention, dont le but est d’influer défavorablement sur le résultat
+des enchères et d’attribuer à l’un des contractants ou à un tiers la différence
+entre le prix d’adjudication et la véritable valeur du droit patrimonial mis aux enchères ;
+des arrangements en vue d’écarter des amateurs ; un
+pactum
+de non licitando
+aux termes duquel les enchérisseurs
+se sont engagés, moyennant indemnité, à ne pas enchérir au-dessus d’une somme
+déterminée ; un arrangement entre amateurs supprimant leur intérêt à acquérir
+le droit patrimonial mis aux enchères et, par conséquent, à participer aux enchères
+(Gilliéron,
+op. cit.
+,
+n. 16
+ad
+art. 126 LP et les réf. cit. et n. 28
+ad
+art. 132a LP ; Bettschart,
+loc.
+cit.
+; Rutz,
+op.
+cit.
+, n. 8
+ad
+art. 132a LP ; CPF 6 juillet 2017/17).
+c)
+En
+l’espèce, comme l’a considéré avec raison l’autorité inférieure,
+les moyens dirigés contre les actes de l’Office ont fait l’objet de précédentes
+plaintes, définitivement traitées, et sont donc irrecevables.
+Quant au comportement du fermier, le recourant n’a plus d’intérêt à ce qu’il
+soit examiné, dès lors que la vente elle-même n’a pas été remise en cause
+après qu’elle a eu lieu, par une plainte dans laquelle le grief concernant de prétendues
+tentatives d’influence des autres enchérisseurs éventuels aurait pu être invoqué.
+Quoi qu’il en soit, le recourant n’invoque aucune des situations d’arrangements susceptibles
+d’altérer le résultat des enchères, mais uniquement le fait qu’un des enchérisseurs
+aurait tenté de dissuader les autres d’enchérir. Il n’allègue pas même
+que ces autres enchérisseurs potentiels auraient offert plus que le prix de vente effectif, s’ils
+n’avaient pas été prétendument dissuadés de le faire.
+En conclusion, le recours doit être rejeté dans la mesure de sa recevabilité et la décision
+de l’autorité inférieure de surveillance confirmée.
+III.
+a)
+Aux termes de l'art. 20a al. 2 ch. 5 LP, les
+procédures devant les autorités cantonales de surveillance sont gratuites. La partie ou son
+représentant qui use de procédés téméraires ou de mauvaise foi peut être
+condamné à une amende de 1'500 fr. au plus ainsi qu'au paiement des émoluments et des
+débours. Se verra reprocher un comportement téméraire ou de mauvaise foi celui qui –
+en violation du devoir d'agir selon la bonne foi, principe aussi applicable en procédure –
+forme un recours sans avoir d'intérêt concret digne de protection et bien que la situation
+en fait et en droit soit claire, avant tout pour ralentir la procédure de poursuite (ATF 127 III
+178, JT 2001 II 50 et les réf. cit.). Il s’agit ainsi de sanctionner les procédés
+qui troublent le cours ordinaire de l’exécution forcée et les procédés dilatoires,
+dont le devoir général d’agir de bonne foi implique de s’abstenir (Gilliéron,
+op. cit.
+,
+n. 19
+ad
+art.
+20a LP), tels que le dépôt d’un recours voué d’emblée à l’échec,
+la multiplication d’actes peu intelligibles, le fait de soulever des griefs « tous azimuts »
+faisant fi des règles de compétence des juridictions saisies (TF 7B.105/2005 consid. 3.2) ou
+encore le fait de soulever en vain le même argument auquel il a déjà été répondu
+à réitérées reprises (CPF 12 septembre 2016/30). La condamnation aux frais ou à
+une amende en vertu de l’art. 20a al. 2 ch. 5 LP relève du – large – pouvoir d’appréciation
+de l’autorité de surveillance (TF 5A_640/2014 consid. 4).
+b)
+En l’espèce, en persistant dans sa vaine argumentation au sujet de problèmes déjà
+traités ou en se plaignant, à ce stade, de prétendues irrégularités dans la
+phase préparatoire de la vente, alors qu’il n’a pas remis en cause la vente elle-même
+après qu’elle a eu lieu, le recourant agit de manière contraire à la bonne foi.
+Pour ce motif, il se justifie de mettre à sa charge un émolument, arrêté à 300
+francs.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+Le prononcé est confirmé.
+III.
+Les frais de deuxième instance, arrêtés à 300 fr. (trois cents francs), sont mis
+à la charge du recourant A.H.________.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. A.H.________,
+‑
+Me Jean-Luc Tschumy, avocat (pour la Banque X.________)
+-
+Me Guillaume Lammers, avocat (pour A.W.________),
+-
+M. F.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
