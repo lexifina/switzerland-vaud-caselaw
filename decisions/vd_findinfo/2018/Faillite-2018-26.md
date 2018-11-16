@@ -1,0 +1,474 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___26"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 26"
+decided: "2018-11-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6896750"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-260a.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/272/art-101.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-192.md", "switzerland/bund/acts/281.35/art-061.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 26
+
+## Regeste
+
+AJOURNEMENT DE LA FAILLITE, ASSAINISSEMENT FINANCIER | 725a al. 1 CO, 174 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 16.11.2018 Faillite / 2018 / 26
+
+AJOURNEMENT DE LA FAILLITE, ASSAINISSEMENT FINANCIER | 725a al. 1 CO, 174 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FU17.020752-181663
+293
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+16 novembre 2018
+______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 LP et 725a al. 1 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+J.________SA
+,
+[...], contre le jugement rendu le 15 octobre 2018, à la suite de l’audience du 9 octobre
+2018, par le Président du Tribunal d’arrondissement de La Broye et du Nord vaudois, révoquant
+l’ajournement de la faillite et prononçant la faillite de la recourante, avec effet au 15
+octobre 2018, à 9 heures.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+T.________SA est une société anonyme créée en 1964, dont le siège est [...]
+et le but social la fabrication de mécanismes pour chronographes, compteurs de sport, rattrapantes,
+pièces pour horlogerie et instruments de précision. A.B.________ en a été l’administrateur
+président, et son épouse [...] B.________ la secrétaire hors conseil ; depuis le
+3 mai 2017, ses administrateurs sont [...], président, et [...], avec signature collective à
+deux.
+G.________SA est une société créée sous forme de société à responsabilité
+limitée le 27 janvier 2010, et transformée en société anonyme en 2012, dont le siège
+est [...] et le but social tous travaux dans le domaine de l’horlogerie ; dès 2012, ses
+administrateurs ont été [...], président, et [...], avec signatures individuelles ;
+le 12 février 2014, [...] en est devenu l’administrateur président, A.B.________ l’administrateur
+et [...] B.________ la secrétaire hors conseil ; le 8 mai 2017, les époux B.________ ont
+été radiés, [...] remplaçant A.B.________ en qualité d’administrateur.
+[...] et [...] ont un pouvoir de signature collective à deux.
+K.________SA est une société créée sous forme de société à responsabilité
+limitée le 11 janvier 2011 et transformée en société anonyme en 2014, dont le siège
+est [...] et le but social la fabrication de pièces en matériaux composites. [...] et A.B.________
+en ont été respectivement l’administrateur président et l’administrateur,
+avec signature collective à deux ; depuis le 3 mai 2017, ses administrateurs sont [...], président,
+et [...], avec signature collective à deux.
+H.________SA est une société créée le 1
+er
+février 2012 par reprise des actifs et passifs de l’entreprise individuelle A.B.________,
+[...], puis par la transformation le 18 janvier 2013 en société anonyme de [...] Sàrl.
+Son but social est la réalisation de tout travail de création et de développement dans
+les domaines de l’horlogerie et de la micromécanique, et son siège est [...]. Dès
+le 11 février 2014, A.B.________ en a été l’administrateur président et [...]
+l’administrateur, avec signatures collectives à deux. Le 1
+er
+mai 2017, A.B.________ a été radié et il a été remplacé en qualité
+d’administrateur président par [...], [...] demeurant administrateur.
+[...] SA était une société anonyme avec siège à [...], et ayant pour but social
+la fabrication de tous produits micromécaniques et horlogers. Le 6 janvier 2012, elle est devenue
+J.________SA, et son but social a été modifié, en ce sens que celui-ci était désormais
+l’acquisition, la vente et la détention de participations dans des sociétés de capitaux ;
+en 2013 son siège a été transféré [...] ; dès le 13 février
+2014, A.B.________ en a été l’administrateur président, et [...] et [...] les administrateurs,
+avec signatures collectives à deux ; en avril 2014, [...] a rejoint le conseil d’administration ;
+le 8 mai 2017, A.B.________ a été radié, et il a été remplacé en qualité
+de président par [...], [...] et [...] demeurant administrateurs ; le 24 octobre 2018, ce dernier
+a été radié du registre du commerce.
+b)
+Il est constant que J.________SA détient l’entier du capital-actions des sociétés
+anonymes T.________SA, G.________SA, K.________SA et H.________SA. Les sociétés composant ce
+groupe sont, depuis le début du mois de mai 2017, représentées par [...] et [...].
+c)
+Par requête du 10 mai 2017 au Président du Tribunal d’arrondissement de La Broye et du
+Nord vaudois, J.________SA et les quatre autres sociétés du groupe, représentées
+par l’agent d’affaires breveté Nicaty, ont avisé le juge de leur surendettement
+au sens de l’art. 725 al. 2 CO et, simultanément, requis un ajournement de faillite au sens
+de l’art. 725a CO.
+Par décision rendue le 14 juillet 2017, le président a notamment prononcé l’ajournement
+de la faillite des requérantes jusqu’au 30 septembre 2017 et désigné X.________,
+expert-comptable diplômé auprès d’[...] SA, en qualité de curateur.
+d)
+aa)
+Le curateur a déposé trois rapports successifs, le 19 septembre 2017, le 18 janvier 2018 et
+le 5 juillet 2018. Le troisième rapport relève une perte de J.________SA de 24'200 fr. au 30
+juin 2018, « due exclusivement aux coûts en lien avec les frais d'ajournement de faillite » ;
+il conclut à l’octroi d’une ultime prolongation de l’ajournement d’environ
+deux mois, au 5 octobre 2018.
+Sur la base de ces rapports, le président du tribunal, par trois décisions rendues, respectivement,
+le 29 septembre 2017, le 30 janvier 2018 et le 8 août 2018, a prolongé successivement l’ajournement
+de la faillite des requérantes jusqu’au 31 janvier 2018, puis jusqu’au 31 juillet
+2018 et enfin jusqu’au 31 octobre 2018.
+bb)
+Le curateur a déposé un quatrième rapport le 1
+er
+octobre 2018, dans lequel il a notamment exposé ce qui suit :
+«
+Malgré
+les démarches entreprises par les administrateurs durant ces deux derniers mois, l’assainissement
+de l’ensemble des sociétés du groupe n’a pas pu être réalisé. En
+effet, les investisseurs contactés ont estimé que, bien que l’exploitation dégage
+un résultat positif, ce dernier n’était pas suffisant pour investir dans l’assainissement
+du groupe.
+Au
+vu de ces éléments, respectivement du fait que l’exploitation actuelle dégage des
+résultats positifs et permet d’employer une dizaine de personnes, les administrateurs ont
+décidé de constituer une nouvelle entité qui reprendra une partie des actifs et passifs
+des filiales du groupe et poursuivra l’activité d’exploitation actuelle.
+Pour
+ce faire, des évaluations des actifs des sociétés d’exploitation ont été
+réalisées par des tiers de manière à s’assurer, autant que faire se peut, que
+le prix de vente corresponde à la valeur vénale des actifs repris. Des contrats de reprise
+de biens ont été établis avec la nouvelle entité. Les fonds ainsi dégagés
+dans les sociétés [...] [réd. : G.________SA], [...] [réd. : K.________SA]
+et [...] [réd. :
+T.________SA] ont permis la régularisation d’une partie de la dette LPP ainsi que des 13
+ème
+(sic) salaires 2018, ces derniers par reprise des montants dus par la nouvelle entité.
+En
+conséquence, en ma qualité de curateur, je vous informe qu’il ne me semble plus possible
+de poursuivre l’ajournement de faillite des sociétés suivantes :
+a)
+G.________SA ([...])
+b)
+H.________SA ([...])
+c)
+K.________SA ([...])
+d)
+T.________SA ([...])
+Il
+appartiendra le cas échéant aux Conseils d’administration des sociétés précitées
+de confirmer cet état de fait.
+En
+vue de maintenir certains droits litigieux détenus par la société J.________SA ([...]),
+une procédure d’assainissement de celle-ci est en cours. Cette procédure devrait en principe
+permettre à cette entité de couvrir intégralement le surendettement existant par des postpositions
+de créances d’ici au 31 octobre 2018 et ainsi de pouvoir poursuivre son activité.
+Je
+relève toutefois que la procédure précitée est assez complexe et pourrait nécessiter
+plus de temps que prévu pour aboutir. Par conséquent, le Conseil d’administration se
+réserve la possibilité de demander une nouvelle prolongation de l’ajournement si nécessaire
+uniquement pour [...] SA [J.________SA]
+».
+e)
+A l’audience du 9 octobre 2018, le mandataire commun des requérantes a requis la faillite
+de toutes les sociétés à l’exception de J.________SA, pour laquelle il a demandé
+une prolongation de l’ajournement de faillite jusqu’au 15 décembre 2018. Le Préposé
+de l’Office des poursuites du district du Jura-Nord vaudois, représentant également l’Office
+des faillites de l’arrondissement de La Broye et du Nord vaudois, et A.B.________ s’y sont
+opposés. Y.________AG a conclu à l’octroi de la prolongation requise.
+Par lettre et efax du 9 octobre 2018, [...] SA, A.B.________ et B.B.________ se sont opposés à
+la prolongation de l’ajournement de faillite au motif que, les administrateurs actuels ayant créé
+une nouvelle structure dans laquelle ils avaient transféré tous les actifs sains et les dettes
+nécessaires des sociétés filles, il était manifeste qu’ils n’avaient
+plus la volonté d’assainir les sociétés en ajournement ; en outre, ils déclaraient
+contester l’existence d’une créance des sociétés G.________SA et H.________SA,
+locataires, contre les époux B.________, bailleurs, en indemnisation d’une plus-value apportée
+à la chose louée, créance cédée par ces sociétés à J.________SA.
+2.
+Par jugement rendu le 15 octobre 2018, le Président
+du Tribunal d'arrondissement de La Broye et du Nord vaudois a révoqué l'ajournement de la faillite
+des sociétés J.________SA, G.________SA, H.________SA, K.________SA et T.________SA (I), prononcé
+la faillite de ces cinq sociétés avec effet au lundi 15 octobre 2018 à 9 heures
+(II), relevé X.________ de son mandat de curateur et dit que son indemnité serait fixée
+par une décision ultérieure (III) et mis les frais de la décision par 250 fr. à la
+charge de chacune des faillies (IV). Il a relevé, sur la base du rapport du curateur du 1
+er
+octobre 2018, que les requérantes étaient, aussi bien à la date des comptes provisoires
+établis le 30 juin 2018 qu’à la date de l’audience, toujours en situation de surendettement,
+et que, les actifs des quatre sociétés filles ayant été transférés dans
+une nouvelle entité, rendant ainsi impossible toute activité et perspective de gains futurs,
+leur assainissement était désormais exclu ; il en a conclu que la faillite de ces quatre
+sociétés devait être prononcée. S’agissant de J.________SA, il considéré,
+d’une part, que son exploitation était directement liée à l’existence des
+filiales dont la faillite allait être prononcée et qu’elle n’avait de sens qu’à
+travers elles, et, d’autre part, que l’instruction avait démontré que l’assainissement
+envisagé n’avait pas pour but de permettre la continuation de l’exploitation, mais de
+poursuivre un procès ouvert contre des tiers, les époux B.________ ; il en a déduit
+qu’il n’était pas non plus justifié de prolonger l’ajournement de faillite
+de J.________SA.
+3.
+Par recours du 26 octobre 2018, J.________SA a
+conclu, avec suite de frais et dépens, à la réforme du jugement précité en ce
+sens que l'ajournement de sa faillite n’est pas révoqué, que sa faillite n’est
+pas prononcée, que l'ajournement de sa faillite est prolongé au 15 décembre 2018 et que
+X.________ est confirmé dans son mandat de curateur pour ce qui la concerne et relevé de son
+mandat pour ce qui concerne les autres sociétés. Elle a requis l’effet suspensif.
+Elle a produit, outre le jugement attaqué et une procuration en faveur de son conseil, les cinq
+pièces nouvelles suivantes sous bordereau :
+-
+une copie d’un « contrat d’assainissement extrajudiciaire » signé
+par les représentants de la recourante, par [...] ainsi que par [...] et [...] pour [...] SA, contenant
+une déclaration de postposition aux termes de laquelle cette société accepte, avec effet
+au 26 octobre 2018, de postposer la créance de 70'000 fr. qu’elle détient contre la recourante
+(pièce 3) ;
+-
+une copie d’une déclaration d’intention formulée par courriel du 24 octobre 2018,
+selon laquelle l’auteur du courriel (à l’adresse [...]@[...].com) déclare que Y.________AG
+détient une créance globale de 309'209 fr. 63 contre la recourante, découlant de deux
+cautionnements solidaires, qu’elle serait d’accord de postposer « sous réserve
+de la signature d’un contrat d’assainissement extrajudiciaire et d’une déclaration
+de postposition » (pièce 4) ;
+-
+des copies de déclarations d’abandon de créance du 23 octobre 2018 par [...] (pour 7'560
+fr.), par [...] (pour 2'970 fr.) et par [...] (pour 10'230 fr.), toutes trois subordonnées à
+la condition que T.________SA reprenne à son compte 20% des montants en cause, selon un plan de
+paiement à convenir (pièce 5) ;
+-
+une copie d’une requête de conciliation adressée le 14 août 2018 par la recourante
+à la Commission de conciliation en matière de baux à loyer, Préfecture du Jura-Nord
+vaudois, tendant notamment au paiement par les époux [...] et A.B.________ d’un montant d’un
+million de francs à titre d’indemnité de plus-value fondée sur les travaux que les
+locataires G.________SA et H.________SA auraient fait sur l’immeuble de leurs bailleurs, les époux
+B.________ (cf. art. 260a CO), créance que les locataires auraient cédée à la
+recourante par contrat du 13 juillet 2018 (pièce 6) ;
+-
+un courriel apparemment d’un employé d’[...] du 3 juillet 2018, déclarant qu’en
+cas de cession de la créance de G.________SA et de H.________SA contre les époux B.________
+à la recourante, [...] prendra en charge les frais de litige, mais qu’en cas de faillite de
+G.________SA et de H.________SA, respectivement de la recourante, elle cessera toute couverture et, par
+conséquent, ne prendra pas en charge les frais de procédure ultérieurs à la faillite
+(pièce 7).
+Un délai au 5 novembre 2018 a été imparti à la recourante pour effectuer l’avance
+des frais de recours, par 375 francs. Cette avance ayant été effectuée le 6 novembre 2018,
+un délai au 12 novembre 2018 a été imparti à la recourante pour se déterminer.
+Le 12 novembre 2018, elle a requis la fixation d’un délai supplémentaire, subsidiairement
+une restitution de délai.
+En droit
+:
+I.
+a)
+Le recours a été formé en temps
+utile (art. 174 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.1]) et dans les formes requises (art. 321 al. 1 CPC [Code de procédure civile ;
+RS 272]). Il est recevable.
+L’avance des frais de recours n’a pas été fournie dans le délai imparti au
+5 novembre 2018. Toutefois, à teneur de l’art. 101 al. 3 CPC, le tribunal doit en pareil cas
+impartir d’office un délai supplémentaire. Dès lors qu’en l’espèce,
+l’avance de frais a été versée le 6 novembre 2018, on peut considérer qu’elle
+a bien été payée dans le délai supplémentaire qui aurait dû être imparti
+et il n’y a pas lieu de restituer le délai de l’art. 101 al. 1 CPC à la recourante.
+b)
+La question de la recevabilité des pièces nouvelles produites en deuxième instance se
+pose. En effet, l’admission sans restriction de nova tendant à établir le sérieux
+des perspectives d’assainissement de la faillie, soit une problématique préalablement
+examinée par le juge de première instance - contrairement à la problématique de la
+solvabilité de la faillie qui est examinée pour la première fois en deuxième instance,
+par l’autorité de recours, dans le cadre prévu par l’art. 174 al. 2 LP -, conduirait
+à faire de la Cour des poursuites et faillites une instance d’appel, ou une nouvelle autorité
+de première instance (CPF 20 avril 2018/89).
+Cette question peut toutefois demeurer ouverte en l’espèce, les pièces produites à
+l’appui du recours n’apparaissant pas décisives pour l’issue de la cause ;
+le sort du recours est en effet le même que l’on prenne ou non ces pièces en considération.
+II.
+a)
+La recourante expose que, selon les comptes
+au 30 juin 2018, elle a pour créanciers Y.________AG (pour 300'000 fr.), la Confédération
+suisse, Administration fédérale des contributions (pour 223'016 fr. 36 de TVA), [...] (pour
+83'498 fr. 32), [...] (pour 20'000 fr.) et [...] SA (pour 70'000 fr.). Elle se prévaut de postpositions
+et d’abandons de créances qui auraient déjà été souscrits par certains
+créanciers [...] SA, [...], [...], [...] et [...]) (pièces 3 et 5 nouvelles) ainsi que de l’accord
+de principe qui aurait été donné par Y.________AG à une postposition (pièce
+4 nouvelle). Selon elle, cela permettra à la société de ne plus être soumise aux
+dispositions de l'art. 725 CO. Elle invoque par ailleurs la procédure qu’elle mène contre
+les époux B.________ pour une valeur litigieuse de 1'000'000 fr., dont les frais sont couverts par
+une assurance de protection juridique, couverture qui cessera en cas de faillite (pièces 6 et 7
+nouvelles). Elle relève en outre que, si sa situation ne s'est pas améliorée durant la
+période d'ajournement, elle ne s'est pas non plus péjorée. Elle soutient dès lors
+que l'ajournement sollicité, de brève durée, serait dans l'intérêt des créanciers.
+b)
+Selon l'art. 725 al. 2 CO (Code des obligations ;
+RS 220), une société est en état de surendettement lorsque, selon le bilan intermédiaire,
+les dettes sociales ne sont couvertes ni lorsque les biens sont estimés à leur valeur d'exploitation
+ni lorsqu'ils le sont à leur valeur de liquidation, ou autrement dit lorsque les fonds propres ont
+été entièrement consommés par les pertes après dissolution des réserves
+latentes (Peter/Cavadini, Commentaire romand, n. 31 à 33
+ad
+art. 725 CO).
+L'art. 725a al. 1 CO permet au juge qui reçoit l'avis obligatoire de l'art. 725 al. 2 CO, en
+cas de surendettement, d'ajourner la faillite, à la requête du conseil d'administration ou
+d'un créancier, si l'assainissement de la société paraît possible. L'ajournement
+de la faillite au sens de l'art. 725a CO a pour but de permettre la continuation de l'activité de
+la société. A la différence des cas d'ajournement prévus par le droit des poursuites
+(art. 173 et 173a LP), il ne s'agit pas d'une mesure relevant de l'exécution forcée, mais d'un
+simple moratoire (TF 5A_902/2016 du 21 mars 2017 consid. 5.3.2 ; Böckli, Schweizer Aktienrecht,
+4
+e
+éd., 2009, pp. 1886-1887, n. 830 ; Hardmeier, Zürcher Kommentar, n. 1315
+ad
+art. 725a OR [CO]), dont la finalité est de redresser la société en évitant toute
+procédure d'exécution forcée, y compris concordataire (Gilliéron, Commentaire de
+la loi fédérale sur la poursuite pour dettes et la faillite, n. 15
+ad
+art. 192 aLP).
+Le requérant doit présenter au juge un plan d'assainissement exposant les mesures propres à
+redresser la société - telles qu'une postposition par les créanciers de la société,
+la conversion de créances en actions, des cautionnements ou garanties bancaires, etc. -, et indiquer
+le délai dans lequel le surendettement sera éliminé (TF 5A_902/2016
+loc.
+cit.
+; TF 5P.466/1999 du 11 avril 2000 consid.
+3b ; CPF 25 janvier 2012/85). Sur la base de ces éléments, le juge doit estimer les chances
+d'un assainissement réussi et durable. L'assainissement paraît possible quand les mesures proposées
+permettront, selon toute vraisemblance, d'éliminer le surendettement dans le délai prévu
+et de restaurer à moyen terme la capacité de gain, qui seule laisse entrevoir des perspectives
+d'avenir (TF 5A_902/2016
+loc.
+cit.
+; TF 5P.263/2003 du 25 août 2003 consid.
+3.2 et les réf. cit. ; ATF 99 II 283 consid. II/3 ; Tercier/Stoffel, Le droit des sociétés
+1999/2000, résumés de jurisprudence,
+in
+RSDA 2000 p. 299, r86-r88 ; CPF 25 janvier 2012/85 précité).
+L'ajournement aux fins d'assainissement doit tendre à empêcher l'ouverture de la faillite dans
+l'intérêt de la société et avant tout des créanciers (CPF 25 janvier 2012/85
+précité ; CPF 25 mai 2000/210 consid. 3.c). Il a pour but de permettre la continuation
+de l'activité de la société, mais non sa liquidation en dehors de la procédure de
+faillite, et cela même si une telle liquidation devait s'avérer plus favorable pour les créanciers
+(TF 5P.466/1999
+loc. cit.
+;
+CPF 20 avril 2018/89 consid. IIa).
+Une prolongation de l'ajournement de faillite doit être concédée, même de façon
+réitérée, si elle est propice à l'assainissement, sans toutefois qu'il faille tarder
+à prononcer la faillite si celle-ci est inéluctable (Peter/Peyrot, L'ajournement de la faillite
+(art. 725a CO) dans la jurisprudence des tribunaux genevois,
+in
+SJ 2006 II 43 ss, spéc. pp. 62-63). Dans l'appréciation de la situation, le juge doit examiner
+si, entre la décision d'ajournement et le moment où il y a lieu de statuer sur la prolongation,
+en première ou en seconde instance, la situation de la société s'est améliorée,
+à l'aune de la vraisemblance (CPF 25 janvier 2012/85 précité ; CPF 25 mai 2000/210
+consid. 3.c précité). A défaut de s'être améliorée, il faut au moins que
+la situation ne se soit pas aggravée et que la perspective d'amélioration soit solide et prochaine
+pour qu'une prolongation de l'ajournement puisse être accordée (mêmes arrêts; CPF
+20 avril 2018/89 consid. IIa).
+c)
+En l’espèce, il faut d’abord constater que la recourante était à la date du
+jugement attaqué en état de surendettement. Elle ne le conteste pas mais semble soutenir que
+ce ne serait plus le cas à la date du dépôt du recours en raison d’abandons de créances.
+Or, même en considérant que les pièces nouvelles sont recevables – ce qui est douteux
+-, celles-ci ne permettent pas d’arriver à la conclusion que le déficit de couverture
+sociale par les actifs de la recourante, qui s’élevait à 476'299 fr. 05 au 30 juin 2018
+selon le jugement du 8 août 2018 (cf.
+procès-verbal
+de la cause, p. 57), aurait disparu. En effet, les déclarations faites par [...], [...] et [...]
+le 23 octobre 2018, selon lesquelles ces sociétés abandonnent leurs créances de, respectivement,
+7’560 fr., 2’970 fr. et 10'230 fr. (cf. pièce 5 nouvelle), conditionnent ces abandons
+à la reprise de ces dettes par une société tierce à concurrence de 20%. Or, non seulement
+il n’est pas établi que cette condition soit remplie, mais encore les montants en jeu ne sont
+pas de nature à éviter le surendettement de la recourante.
+Quant aux postpositions annoncées, le « contrat d’assainissement extrajudiciaire »
+produit (cf. pièce 3 nouvelle) prévoit que sont postposées les créances figurant
+dans une Annexe 2. Or, ce dernier document ne prévoit de postposition que pour la créance de
+[...] SA de 70'000 fr., mais pas pour d’autres créances, en particulier celle d’[...].
+Enfin, le courriel du 24 octobre 2014 émanant selon toute vraisemblance d’Y.________AG
+est tout au plus une déclaration d’intention, non signée, et qui est elle aussi soumise
+à des conditions non remplies.
+Ces pièces nouvelles - à supposer recevables - sont ainsi insuffisantes pour permettre un nouvel
+ajournement.
+Le premier juge a refusé l'ajournement requis au motif que le maintien de la société n'avait
+d'autre but que de poursuivre le procès dirigé contre les époux B.________ et qu'il n'avait
+dès lors pas pour but de permettre la continuation de l'exploitation, étant précisé
+que cette exploitation était directement liée à l'existence des sociétés filles
+de la recourante dont la faillite allait être prononcée et qu'elle n'avait de sens qu'à
+travers elle. Cette motivation est adéquate au vu de la jurisprudence susmentionnée. Le procès
+mené contre un tiers ne constitue pas une poursuite de l'exploitation, mais doit plutôt s'apparenter
+à une opération de liquidation. A cela s’ajoute que le recouvrement de cette créance
+n’est pas envisageable à court ou moyen terme. La recourante, dont le but social était
+l’acquisition, la vente et la détention de participations dans des sociétés de capitaux,
+n’est plus en mesure de remplir ce but. Elle ne soutient pas qu'elle poursuivrait en parallèle
+une quelconque activité d'exploitation et il résulte au contraire des contrats d'assainissement
+extrajudiciaire qu'elle négocie actuellement qu’elle s'engage, sauf accord contraire d'une
+majorité des créanciers, à consacrer ses ressources à mener à bien les procédures
+engagées pour recouvrer « les créances B.________ » (pièce 3 ;
+art. 5.1). Elle admet par ailleurs être « directement liée à l'existence des
+quatre filiales dont la faillite a été déclarée » (all. 47) et se borne
+à alléguer que rien ne l'empêcherait dans l'avenir de développer son activité
+dans le cadre de son but social, sans cependant exposer concrètement, ni a fortiori rendre vraisemblable
+qu'elle aurait des projets réels de participation dans d’autres entités. Cela est insuffisant
+pour convaincre de l’intérêt d’un ajournement, l'assainissement visé devant
+avoir pour but de permettre la continuation effective de l'exploitation de la société.
+III.
+Vu ce qui précède, le recours doit être
+rejeté et le jugement confirmé. La requête d’effet suspensif - qui est en réalité
+une requête de mesures provisionnelles - est dès lors sans objet.
+Les frais judiciaires de deuxième instance, arrêtés à 375 fr. (art. 61 al. 1 OELP
+[ordonnance sur les émoluments perçus en application de la LP]), sont mis à la charge
+de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+La requête d’effet suspensif est sans objet.
+IV.
+Les frais judiciaires de deuxième instance, arrêtés à 375 fr. (trois cent septante-cinq
+francs), sont mis à la charge de la recourante.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Jean-Daniel Nicaty, agent d’affaires breveté (pour J.________SA),
+‑
+M. X.________, curateur,
+-
+M. Pascal Stouder, agent d’affaires breveté (pour Z.________Sàrl),
+-
+Y.________AG,
+-
+A.B.________,
+-
+B.B.________,
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Broye-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
