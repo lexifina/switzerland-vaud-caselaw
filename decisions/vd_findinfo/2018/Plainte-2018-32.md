@@ -1,0 +1,305 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 32"
+decided: "2018-11-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6903157"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-123.md", "switzerland/bund/acts/281.35/art-013.md", "switzerland/bund/acts/281.35/art-020.md", "switzerland/bund/acts/281.35/art-022.md", "switzerland/bund/acts/281.35/art-024.md", "switzerland/bund/acts/281.35/art-026.md", "switzerland/bund/acts/281.35/art-030.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 32
+
+## Regeste
+
+PLAINTE{LP}, INTÉRÊT DIGNE DE PROTECTION, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ | 123 LP, 18 al. 1 LP, 92 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 20.11.2018 Plainte / 2018 / 32
+
+PLAINTE{LP}, INTÉRÊT DIGNE DE PROTECTION, ACTE DE RECOURS, CONDITION DE RECEVABILITÉ | 123 LP, 18 al. 1 LP, 92 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FA18.022817-181102
+32
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 novembre 2018
+______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1, 92 al. 2 et 123 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+P.________SA
+Ltd
+, à [...], contre la décision rendue
+le 12 juillet 2018, à la suite de l’audience du 3 juillet 2018, par le Président du Tribunal
+d’arrondissement de l’Est vaudois, autorité inférieure de surveillance, rejetant
+la plainte déposée par la recourante contre une décision prise le 15 mai 2018 par l’
+Office
+des poursuites du district de Lavaux-Oron
+, à
+Pully, dans le cadre de poursuites exercées contre elle.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+P.________SA Ltd
+,
+succursale de P.________SA Ltd à Londres,
+a fait l’objet de requêtes de saisie entre les mois de février et mai 2018, dans le cadre
+de sept poursuites en paiement de créances de droit public. Des avis de saisie ont été
+délivrés les 21 et 26 février, 7 mars, 18 et 20 avril 2018 pour un total de 31'504 fr.
+30 (12'742 fr. 90 + 952 fr. 05 + 11'445 fr. 90 + 3'274 fr. + 167 fr. 35 + 2'922 fr. 10) (cf. P
+1
+).
+Le 23 avril 2018, l’Office des poursuites du district de Lavaux-Oron (ci-après : l’Office)
+a effectué un inventaire des seuls actifs détenus par la poursuivie, savoir les biens garnissant
+ses locaux professionnels, dont il a estimé la valeur à 5'829 fr. 40 (cf. P
+2,
+n
+os
+1 à 54).
+Par lettre circulaire du 15 mai 2018, l’Office a informé les créanciers qu’au vu
+de cette estimation et du résultat aléatoire des enchères, il ne serait procédé
+à la saisie des actifs que sur requête expresse de leur part et moyennant un versement simultané
+d’une avance de frais de 5'000 fr. ; sans nouvelles des créanciers jusqu’au 31
+mai 2018, l’Office considérerait qu’ils avaient renoncé à la saisie et leur
+délivrerait des actes de défaut de biens.
+Un créancier a répondu, le 16 mai 2018, qu’il n’effectuerait pas l’avance
+de frais et que l’Office pouvait directement lui adresser un acte de défaut de biens dans
+deux poursuites exercées à son instance. Les autres créanciers ne se sont pas manifestés.
+b)
+Le 25 mai 2018, P.________SA Ltd a déposé une plainte au sens de l’art. 17 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), contestant la décision de l’Office
+du 15 mai 2018 et demandant l’exécution de la saisie. Elle a fait valoir qu’elle entendait
+demander un sursis au sens de l’art. 123 LP pour régulariser sa situation dans le cadre de
+trois poursuites introduites pour des créances de droit public, mais qu’une telle opération
+ne pouvait être envisagée qu’en présence d’une saisie fructueuse, et qu’en
+outre, la délivrance d’actes de défaut de biens à ses créanciers « n’arrangera[it]
+nullement [sa] situation en raison du fait qu’elle exploite un établissement public soumis
+à patente ».
+c)
+L’Office
+a produit des déterminations le 21 juin 2018, concluant au rejet de la plainte. Il a fait valoir
+que, vu le risque que le résultat des enchères soit inférieur à l’estimation,
+il se justifiait d’offrir aux créanciers la possibilité de se déterminer sur la
+suite à donner à la procédure de saisie ; par ailleurs, il lui semblait douteux que
+la plaignante, vu sa situation, puisse s’acquitter d’acomptes réguliers et appropriés
+au sens de l’art. 123 LP.
+2.
+Par prononcé rendu le 12 juillet 2018, à la suite d’une audience tenue le 3 juillet 2018,
+le Président du Tribunal d’arrondissement de l’Est vaudois, autorité inférieure
+de surveillance, a rejeté la plainte. Il a considéré que la plaignante, qui contestait
+le montant de l’estimation des biens effectuée par l’Office, n’apportait aucun
+élément sur la valeur de ces biens, que cette estimation, prudente, à 5'829 francs 40
+paraissait raisonnable et justifiée, compte tenu de l’incertitude du résultat d’une
+vente forcée, que l’estimation à 5'000 fr. des frais engendrés par la vente n’apparaissait
+pas déraisonnable, que la marge d’un peu plus de 800 fr. s’avérait faible et qu’on
+ne saurait reprocher à l’Office de ne pas procéder à l’exécution de la
+saisie alors que les créanciers, à qui le produit de la réalisation devait profiter, ne
+voulaient pas s’acquitter de l’avance de frais.
+3.
+Par acte déposé le 19 juillet 2018, la plaignante a recouru contre le prononcé précité,
+concluant à sa réforme en ce sens que la plainte est admise, que la décision de l’Office
+est annulée et qu’ordre est donné à ce dernier de procéder à la saisie
+des biens inventoriés.
+Le 8 août 2018, la présidente de la cour de céans a rejeté la requête d’effet
+suspensif contenue dans le recours.
+L’Office s’est déterminé le 23 août 2018, concluant au rejet du recours et
+à la confirmation du prononcé de l’autorité inférieure de surveillance. Il
+a justifié les frais probables de réalisation de 5'000 fr. en précisant que ceux-ci pouvaient
+être estimés à 4'557 fr. 70 (soit 404 fr. d’émoluments divers et 4'153 fr.
+70 de débours – dont 3'661 fr. 70 pour les frais de publication), arrondis à 5'000 fr.
+par mesure de prudence.
+En droit :
+I.
+a)
+L’acte de recours a été déposé en temps utile, dans les dix jours suivant la
+notification du prononcé attaqué (art. 18 al. 1 LP et 28 al. 1 LVLP [loi vaudoise d’application
+de la LP ; RSV 280.05]), et il est suffisamment motivé (TF 5A_118/2018 du 7 février 2018
+consid. 4.1), de sorte qu’il est recevable formellement.
+Les déterminations de l’Office sont également recevables (art. 31 al. 1 LVLP).
+b)
+Dans l’examen de la recevabilité, se pose également la question de l’intérêt
+à déposer une plainte au sens de l’art. 17 LP, ainsi qu’à recourir.
+aa)
+L'existence
+d'un intérêt à recourir est requise pour l'exercice de toute voie de droit (ATF 130 III
+102 consid. 1.3 ; ATF 127 III 429 consid. 1b, rés. in JdT 2001 I 371 ; ATF 126 III 198
+consid. 2b ; ATF 120 II 5 consid. 2a, JdT 1997 I 59).
+De
+pratique constante, le recours contre une décision d’une autorité inférieure de
+surveillance n'est recevable que s'il permet d'atteindre un but concret sur le plan de l'exécution
+forcée (arrêt 7B.41/2006 du 19 juillet 2006 et les réf. cit.). L’intérêt
+au recours, comme l’intérêt à la plainte, doit donc être concret, actuel et
+réel, et non théorique ou hypothétique (Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 33
+ad
+art. 18 LP). L’autorité de surveillance ne statuera que sur des plaintes ou des recours dont
+l’admission élimine véritablement un préjudice concret. L’intérêt
+digne de protection consiste ainsi en l’utilité pratique que l’admission de la plainte
+ou du recours apporterait au plaignant ou au recourant ; en d’autres termes, il réside
+dans le fait d’éviter un préjudice de nature économique, idéale, matérielle
+ou autre que la décision ou la mesure attaquée lui occasionnerait (Gilliéron,
+op.
+cit.
+, n. 155
+ad
+art. 17 LP).
+Aux termes de l’art. 92 al. 2 LP, ne sont pas saisissables les objets pour lesquels il y a lieu
+d’admettre d’emblée que le produit de leur réalisation excéderait de si peu
+le montant des frais que leur saisie ne se justifie pas. Ouvrent la voie de la plainte aux autorités
+de surveillance au sens de l’art. 17 LP la violation du devoir de procéder à l’estimation,
+d’une part, ainsi que la violation du devoir d’examiner s’il n’y a pas lieu d’admettre
+d’emblée que le produit de la réalisation n’excéderait de peu les frais entrainés
+par la saisie (ATF 82 III 22, JdT 1956 II 89 consid. 1 ; Gilliéron,
+op.
+cit.,
+n. 209 ad art. 92 LP et les réf. cit.)
+bb)
+En
+l’espèce, l’Office a procédé à l’estimation des biens et a constaté,
+eu égard aux frais probables de réalisation, qu’il y avait lieu d’admettre d’emblée
+que le produit de leur réalisation excéderait de si peu le montant des frais que leur saisie
+ne se justifiait en principe pas. Il a donné un délai aux créanciers saisissants pour,
+nonobstant ce constat, requérir la réalisation des biens et faire l’avance des frais
+de cette réalisation. Ce faisant, l’Office a considéré que seuls les créanciers
+étaient susceptibles d’être lésés par le constat selon lequel les biens de
+la débitrice étaient insaisissables au sens de l’art. 92 al. 2 LP.
+Dans sa plainte et dans son recours, la débitrice, qui fait l’objet de sept avis de saisie
+de la part de la Confédération, l’Etat de Vaud et la Caisse cantonale de compensation,
+conteste l’estimation de ses biens à laquelle l’Office s’est livré, en soutenant
+que celle-ci devrait être revue à la hausse, pour passer de 5'000 à 10'000 francs. Ce
+faisant, elle soutient – implicitement – que les biens considéré par l’Office
+comme insaisissables devraient être saisis. Si elle qualifie elle-même la situation de ʺtrès
+particulièreʺ (cf. recours, all. 7), elle n’en précise pas moins quel serait son
+intérêt – tel que défini plus haut – à ce que les biens en cause ne soient
+pas jugés insaisissables au sens de l’art. 92 al. 2 LP.
+Certes, elle invoque qu’elle entend obtenir un sursis au sens de l’art. 123 LP, soit le renvoi
+de la réalisation. On ne voit pas en quoi cela représente un intérêt par rapport
+au fait actuel que la réalisation n’aura pas lieu du tout. Le matériel garnissant les
+locaux de la recourante, s’il n’est pas saisi, reste de toute manière en sa possession.
+Surtout, il ne s’agit juridiquement pas d’un intérêt actuel, mais éventuel
+et futur.
+Le seul intérêt pour la recourante de procéder ainsi serait donc d’éviter la
+délivrance d’actes de défaut de biens. Sur ce point, toutefois, elle n’apporte
+aucun élément concret, se bornant à alléguer que la délivrance de tels actes
+contre elle « n’arrangera nullement sa situation en raison du fait qu’elle exploite
+un établissement public soumis à patente ». Là encore, on ne voit pas en quoi
+il serait plus avantageux pour son exploitation que tous les biens servant à son activité professionnelle
+soient saisis. Au demeurant, aucune disposition de la loi sur les auberges et les débits de boissons
+(LADB ; RSV 935.31) n’impose le retrait de la licence en cas d’actes de défaut
+de biens. Certes, l’art. 60a let. d LADB prévoit le retrait de la licence lorsque le titulaire
+n’a pas payé les contributions aux assurances sociales qu’il est tenu de régler,
+mais cette circonstance est indépendante de la question de savoir si l’intéressé
+fait l’objet d’un acte de défauts de biens pour une telle dette.
+L’intérêt de la recourante à l’application de l’art. 123 LP apparaît
+donc purement futur et hypothétique, et ce d’autant plus que le débiteur, pour obtenir
+un sursis, doit rendre vraisemblable qu’il peut acquitter sa dette par acomptes et s’engager
+à verser à l’office des poursuites des acomptes réguliers et appropriés (art.
+123 al. 1 LP). Or, en l’espèce, on ne voit pas comment la recourante serait à même
+de remplir ces conditions, en l’absence de tous biens saisissables, hormis ceux nécessaires
+à la poursuite de son exploitation qui, eux, seraient saisis. Ainsi, la recourante ne rend de toute
+manière pas vraisemblable qu’elle est en mesure de s’acquitter par acomptes des dettes
+faisant l’objet des avis de saisie pour un total de 31'504 fr. 30 (plus 4'298 fr. si l’on
+tient compte d’un avis du 28 mai 2018), ni a fortiori qu’elle s’est engagée à
+verser à l’Office des acomptes réguliers et appropriés. Dans ces conditions, l’obtention
+d’un sursis à la réalisation en application de l’art. 123 al. 1 LP n’est
+pas rendu vraisemblable ni même seulement plausible. En outre, si elle est véritablement en
+mesure de verser des acomptes réguliers, rien ne l’empêche de s’acquitter des montants
+des actes de défaut de biens directement auprès de ses créanciers.
+c)
+Il
+s’ensuit que la plainte déposée par la recourante était irrecevable, faute d’intérêt
+concret, actuel et réel pour celle-ci à l’annulation de la mesure de l’Office.
+Pour le même motif, l’intérêt de la recourante à déposer un recours fait
+défaut. Le recours est par conséquent irrecevable.
+II.
+De toute manière, même s’il fallait entrer en matière sur le recours, celui-ci devrait
+être rejeté. En effet, déterminer si le produit de la réalisation ne dépasse
+que dans une moindre mesure le montant des frais est une question d’appréciation (TF 5A_783/2015
+du 15 janvier 2016 consid. 4.3.2 ; TF 5A_330/2001 du 22 septembre 2011 consid. 3.1 ; Gilliéron,
+op. et loc. cit.
+).
+Or, en l’occurrence, la recourante se contente de contester en bloc l’estimation faite par
+l’Office. Elle ne précise pas quel(s) objet(s) parmi les cinquante-quatre inventoriés
+et estimés aurai(en)t une autre valeur que celle retenue, ni n’a fourni le moindre document
+permettant de se convaincre que l’une ou l’autre estimation serait insuffisante. Quant à
+l’estimation des frais et débours, elle comprend en règle générale les frais
+d’exécution des saisies au sens de l’art. 20 OELP (ordonnance sur les émoluments
+perçus en application de la LP ; RS 281.35) et de compléments de saisie (art. 22 OELP),
+ainsi que l’émolument de procès-verbal (art. 24 OELP), l’émolument de garde-meuble
+(art. 26 al. 4 OELP), l’émolument pour la préparation des enchères, de vente de
+gré à gré ou de liquidation (art. 30 OELP), plus les débours qui, selon l’art.
+13 OELP, doivent être intégralement remboursés, et qui comprennent notamment le coût
+du transport et de l’entreposage des objets en cause (qui constituent apparemment le fonds de commerce
+de la recourante), ainsi que le coût de la publication de la vente dans la Feuille des avis officiels
+et dans les journaux locaux, dont il est notoire qu’il est très élevé, et que l’Office
+a estimé à 3'661 fr. 70.
+La conclusion selon laquelle le montant probable de la réalisation des objets du fonds de commerce
+excéderait de très peu les frais et débours probables ne consacre ainsi pas d’erreur
+d’appréciation ou n’omet pas de prendre en compte des critères ou des circonstances
+appropriés.
+III.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al.
+2 let. a et 62 al. 2 OELP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Jean-Daniel Nicaty, agent d’affaires breveté (pour P.________SA Ltd),
+–
+Département de l’Economie (pour Etat de Vaud),
+–
+Division principale ressources TVA (pour Confédération suisse),
+–
+Administration cantonale des impôts, Division perception et finances (pour Etat de Vaud),
+–
+Caisse cantonale vaudoise de compensation AVS,
+-
+M. le Préposé à l’Office des poursuites du district de Lavaux-Oron.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
