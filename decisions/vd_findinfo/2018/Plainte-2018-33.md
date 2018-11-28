@@ -1,0 +1,323 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 33"
+decided: "2018-11-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6917692"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-065.md", "switzerland/bund/acts/281.1/art-072.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 33
+
+## Regeste
+
+NOTIFICATION IRRÉGULIÈRE, COMMANDEMENT DE PAYER, NOTIFICATION DE LA DÉCISION, PERSONNE MORALE, ATTESTATION, ULTRA PETITA | 20a al. 2 ch. 3 LP, 65 al. 1 ch. 2 LP, 72 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.11.2018 Plainte / 2018 / 33
+
+NOTIFICATION IRRÉGULIÈRE, COMMANDEMENT DE PAYER, NOTIFICATION DE LA DÉCISION, PERSONNE MORALE, ATTESTATION, ULTRA PETITA | 20a al. 2 ch. 3 LP, 65 al. 1 ch. 2 LP, 72 LP
+
+TRIBUNAL
+CANTONAL
+FA18.015519-181224
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 novembre 2018
+______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+20a al. 2 ch. 3, 65 al. 1 ch. 2, 72 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+F.________
+SA
+, à [...], contre le prononcé rendu
+le 27 juillet 2018, à la suite de l’audience du 31 mai 2018, par la Présidente du Tribunal
+d’arrondissement de La Côte, autorité inférieure de surveillance, admettant la plainte
+contre l’avis de saisie établi par l’
+Office
+des poursuites du district de Morges
+, à Morges,
+formée par la
+Communauté
+des copropriétaires C.________
+, à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+15 janvier 2018, F.________ SA a déposé auprès de l’Office des poursuites du district
+de Morges (ci-après : l’Office) une réquisition de poursuite dirigée contre
+la «
+Communauté
+des copropriétaires C.________, [...], pour notification à son administrateur, P.________ SA,
+succursale de Lausanne
+».
+Le 28 janvier 2018, donnant suite à cette réquisition, l’Office a fait notifier un commandement
+de payer dans la poursuite n° 8'553'978 à
+« Communauté
+des copropriétaires C.________ / [...]  / [...]
+».
+La rubrique «
+Notification
+»
+du commandement de payer comporte une croix sur la case «
+Au
+destinataire
+» et la mention manuscrite
+«
+employé postal
+»
+sous la rubrique «
+Signature
+de l’agent qui procède à la notification
+».
+Le commandement de payer indique encore qu’aucune opposition n’a été formée.
+Il ressort de l’extrait « track-and-trace » de la Poste que ce commandement
+de payer a été distribué le 28 février 2018, à 13 h 15, sans qu’il soit
+possible de déterminer ni par qui, ni à qui il a été notifié.
+b)
+Le
+9 avril 2018, l’Office a établi un avis de saisie dans la poursuite n° 8'553'976
+pour un montant de 22'198 fr. 25. Cet avis a été distribué au plus tôt le 10 avril
+2018 à « Communauté des copropriétaires C.________, P Not. Adm. P.________ SA
+/ Succ. Lausanne, [...], [...] ».
+c)
+Par
+lettre recommandée adressée le 12 avril 2018 à l’Office, la Communauté des
+copropriétaires C.________, par son conseil, a formé opposition totale à la poursuite
+n° 8'553'976.
+2.
+a)
+Par
+acte du même jour, la Communauté des copropriétaires C.________ a déposé auprès
+du Président du Tribunal de l’arrondissement de La Côte une plainte selon l’art.
+17 LP, tendant à l’annulation de l’avis de saisie dans la poursuite n° 8'553'976.
+b)
+Par
+requête en restitution de délai au sens de l’art. 33 al. 4 LP du même jour, la Communauté
+des copropriétaires C.________ a requis du Président du Tribunal d’arrondissement de
+La Côte qu’il ordonne à l’Office d’annuler l’avis de saisie dans la
+poursuite n° 8'553'976, respectivement de procéder à la notification du commandement de
+payer dans la poursuite n° 8'553'976 et d’admettre l’opposition totale faite.
+c)
+Par
+prononcés du 13 avril 2018, la présidente a prononcé l’effet suspensif, d’une
+part, jusqu’à droit connu sur la plainte et, d’autre part, en ce sens que les procédés
+relatifs à la poursuite n° 8'553'978 sont suspendus jusqu’à droit connu sur la requête
+en restitution de délai.
+Par courriers recommandés du 13 avril 2018, la présidente a notifié la plainte et la requête
+en restitution de délai à l’Office et à l’intimée et a cité les
+parties à comparaître à l’audience du 31 mai 2018.
+Dans ses déterminations du 9 mai 2018, l’Office a préavisé en faveur du rejet de
+la plainte.
+Dans ses déterminations du 14 mai 2018, F.________ SA a conclu, avec suite de frais et dépens,
+au rejet de la requête de restitution de délai.
+Les parties ont été entendues à l’audience du 31 mai 2018. D’entente avec
+les parties, la présidente a ordonné la jonction des causes relatives à la plainte et
+à la requête de restitution de délai.
+3.
+Par prononcé du 27 juillet 2018, notifié
+à l’intimée le 6 août 2018, la Présidente du Tribunal d’arrondissement
+de La Côte, statuant en tant qu’autorité inférieure de surveillance, a admis la
+plainte (I), a constaté que la requête en restitution de délai était sans objet (II),
+a annulé l’avis de saisie (III), a constaté que l’opposition formée le 12
+avril 2018 par la Communauté des copropriétaires C.________ au commandement de payer n°
+8'553'978 avait été formée en temps utile (IV) et a rendu le prononcé sans frais
+judiciaires ni dépens (IV). En substance, le premier juge a constaté que l’Office était
+compétent, vu la situation de l’immeuble, que P.________ SA, succursale de Lausanne, était
+inscrite au registre foncier comme administratrice, de sorte que les actes lui avaient été
+correctement adressés, mais qu’il était impossible de déterminer à qui le commandement
+de payer en cause avait été remis dès lors que seule la case « Destinataire »
+avait été cochée, sans qu’il soit précisé quelle personne physique avait
+réceptionné l’acte, qu’aucun nom ni aucune signature n’apparaissait sur le
+relevé « track-and-trace » et que seule la mention « employé
+postal » figurait sous la rubrique « signature de l’agent qui procède
+à la notification ». Au vu de ces éléments, il a considéré que la
+notification du commandement de payer n’était pas valablement intervenue. Il a admis que la
+plaignante avait eu connaissance de l’existence du commandement de payer en cause au moment de
+la réception de l’avis de saisie, soit au plus tôt le 10 avril 2018, de sorte que l’opposition
+formée le 12 avril 2018 l’avait été en temps utile, ce qui rendait sans objet la
+requête en restitution de délai.
+4.
+Par
+acte du 16 août 2018, F.________ SA a recouru contre ce prononcé en concluant, avec suite de
+frais et dépens, principalement à sa réforme en ce sens que la plainte du 12 avril 2018
+est rejetée (II), que la requête en restitution de délai du 12 avril 2018 est rejetée
+(III), que l’avis de saisie notifié au plus tôt le 10 avril 2018 est maintenu (IV) et
+qu’il est constaté que l’opposition formée le 12 avril 2018 au commandement de
+payer n° 9'553'978 n’a pas été formée en temps utile (V). Subsidiairement,
+la recourante a conclu à l’annulation du prononcé et au renvoi de la cause au premier
+juge pour nouvelle décision dans le sens des considérants (VI).
+Le 29 août 2018, l’Office a déclaré renoncer à se déterminer sur le recours.
+Dans ses déterminations du 12 septembre 2018, l’intimée a conclu, avec suite de frais
+et dépens, au rejet du recours.
+En droit :
+I.
+Le recours, déposé le 16 août 2018, l’a été dans le délai de dix
+jours des art. 18 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la
+faillite ; RS 281.1) et 28 al. 1 LVLP (loi du 18 mai 1955 d’application dans le canton de
+Vaud de la LP ; RSV 280.05). Il comporte des conclusions et l’énoncé des moyens
+invoqués (art. 18 LP ; TF 5A_118/2018 du 7 février 2018 consid. 4.2), de sorte qu’il
+est recevable.
+Les déterminations de l’intimée sont également recevables (art. 31 al. 1 LVLP).
+II.
+a)
+La présidente a considéré que
+le commandement de payer n'avait pas été valablement notifié et que l'opposition faite
+dans les dix jours dès le moment où la plaignante avait eu connaissance de ce commandement
+de payer, soit au moment de la réception de l'avis de saisie, était intervenue en temps utile.
+La recourante soutient qu'il revenait à la poursuivie de faire la preuve que la notification n'avait
+pas été faite au destinataire tel que mentionné sur le commandement de payer.
+b)
+Selon l'art. 65 al. 1 ch. 2 LP,  lorsque la poursuite est dirigée contre une personne morale
+ou une société, les actes de poursuite sont notifiés à son représentant, à
+savoir à un membre de l'administration ou du comité, à un directeur ou à un fondé
+de procuration, s'il s'agit d'une société anonyme. Lorsque les personnes ci-dessus mentionnées
+ne sont pas rencontrées à leur bureau, la notification peut être faite à un autre
+fonctionnaire ou employé (art. 65 al. 2 LP).
+Selon l'art. 72 LP, la notification est opérée par le préposé, par un employé
+de l'office ou par la poste (al. 1). Celui qui procède à la notification atteste sur chaque
+exemplaire le jour où elle a eu lieu et la personne à laquelle l'acte a été remis.
+La preuve de la notification est rapportée par le procès-verbal instrumenté par l'agent
+notificateur. Le poursuivi dispose cependant de la faculté de rapporter la preuve du contraire (ATF
+107 III 1 consid. 2). Si le procès-verbal est lacunaire ou en cas de contestation, c'est l'office
+qui supporte en première ligne le fardeau de la preuve de la notification régulière (ATF
+120 III 117 consid. 2 ; ATF 117 III 10 consid. 5c et les références citées; TF 5A_30/2010
+du 23 mars 2010 consid. 3). Les déclarations de la personne chargée de la notification l'emportent
+naturellement sur celles du destinataire de l'acte (TF 5A_29/2009 du 18 mars 2009 consid. 2.2).
+L'attestation du jour où la notification a eu lieu et de la personne à laquelle l'acte a été
+remis sert à la preuve d'une notification régulière et doit être établie par
+celui qui a effectivement délivré le commandement de payer (ATF 120 III 117 consid. 2). Lorsque
+le destinataire, une personne morale ou une société a plusieurs représentants, la relation
+de la notification doit préciser à laquelle des personnes physiques énumérées
+à l'art. 65 al. 1 LP l'exemplaire du commandement de payer a été remis. Une indication
+de notification "au débiteur" est insuffisante (ATF 59 III 274 consid. 5; Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 15 ad art. 72
+LP). Lorsque l'indication du nom de la personne à laquelle l'acte a été remis fait défaut,
+la notification n'est valable que si on peut établir qu'elle a été régulière
+(ATF 83 III 15 consid. 1).
+La notification subsidiaire, dans les locaux d'une personne juridique de droit privé, à un
+employé de la débitrice n'est valable que si elle ne peut avoir lieu en mains d'une personne
+physique désignée par la loi et identifiée dans la réquisition de poursuite. L'office
+des poursuites doit apporter la preuve de l'absence de personne physique habilitée à recevoir
+la notification dans les locaux de la débitrice au moment de la notification. Une stricte observation
+de la forme s'impose, car le danger est infiniment plus grand qu'un acte de poursuite se perde et ne
+parvienne jamais en mains de la personne concernée (ATF 117 III 10 consid. 5d, JdT 1993 II 130).
+On en déduit qu'il ne suffit pas que la case "au destinataire" soit remplie, sans que
+l'on sache quelle personne physique a réceptionné l'acte pour que la notification soit valable.
+Il incombe au contraire à l'agent notificateur d'indiquer le nom de la personne et la qualité
+en laquelle elle a reçu l'acte (représentant, employé). Lorsqu'on ignore le nom de la
+personne à qui l'acte a été notifié, la notification est irrégulière.
+Lorsque, en raison d'un vice de la notification, le commandement de payer n'est pas parvenu en mains
+du poursuivi, la poursuite est absolument nulle et sa nullité peut et doit être constatée
+en tout temps. Il n'en va autrement que si, malgré le vice de la notification, le commandement de
+payer est néanmoins parvenu en mains du poursuivi (ATF 110 III 9 consid. 2).
+c)
+En l'espèce, comme le premier juge l'a retenu, il est impossible de déterminer  à
+qui le commandement de payer a été remis dès lors que seule la case "
+au
+destinataire
+" a été cochée
+sans qu'il soit précisé quelle personne physique a réceptionné l'acte et sa qualité
+au sein de la société destinataire. En outre, aucun nom ni aucune signature n'apparaît
+sur le ʺtrack and traceʺ de la poste. Pour le surplus, en lieu et place de la "signature
+de l'agent qui procède à la notification", seule l'indication "
+employé
+postal
+" apparaît. Aucune recherche ne
+peut dès lors être effectuée auprès de la poste en vue d'établir à qui
+ce commandement de payer a été remis. Il en résulte que la preuve de la régularité
+de la notification, qui incombe à l'office, n'a pas été apportée.
+IV.
+La recourante soutient que la présidente serait allée au-delà des conclusions prises à
+l'appui de la plainte 17 LP, en constatant que l'opposition avait été formée en temps
+utile.
+a)
+Selon
+la jurisprudence, le juge est lié par les conclusions qui lui sont soumises lorsque la partie a
+qualifié ou limité ses prétentions dans les conclusions elles-mêmes (ATF 142 III
+234 consid. 2.2 ; TF 4A_709/2014 du 21 mai 2015 consid. 4.1; TF 4A_307/2011 du 16 décembre
+2011 consid. 2.4, commenté par Droese, in RSPC 8/2012 p. 296 ss). Ce principe s'applique aussi aux
+autorités de surveillance qui, sous réserve d'un cas de nullité (art. 22 al. 1 LP), ne
+sauraient aller au-delà des conclusions des parties (art. 20a al. 2 ch. 3 LP) (ATF 142 III 234 consid.
+2.2 et références).
+b)
+En
+l’espèce, la présidente a joint la plainte tendant à ce que l'avis de saisie soit
+annulé et la requête en restitution de délai au sens de l'art. 33 al. 4 LP tendant à
+l'annulation de l'avis de saisie, respectivement à ce qu'il soit procédé à la notification
+du commandement de payer et à l'admission de l'opposition totale. En statuant sur la question de
+validité de l'opposition totale, la présidente n'a dès lors pas statué ʺultra
+petitaʺ.
+Dès lors que l'intimée avait fait opposition dans le délai de dix jours dès qu'elle
+avait eu connaissance du commandement de payer notifié irrégulièrement, la requête
+de restitution de délai devenait sans objet et le poursuivi n'avait plus d'intérêt à
+ce qu'il soit procédé à une nouvelle notification du commandement de payer (cf. Malacrida/Roesler,
+in Hunkeler (éd.), Kurzkommentar SchKG, n. 4 ad art. 72 LP). L'admission du moyen tiré de l'irrégularité
+de la notification avait pour effet que l'opposition a été déposée en temps utile,
+ce que la présidente a constaté à juste titre.
+V.
+En conclusion, le recours doit être rejeté
+et le prononcé confirmé.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP,
+61 al. 2 let. a et 62 al. 2 OELP (ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Philippe Chiocchetti, agent d’affaires breveté (pour F.________ SA),
+‑
+M. Mikaël Ferreiro, agent d’affaires breveté (pour Communauté des copropriétaires
+C.________),
+-
+M. le Préposé à l’Office des poursuites du district de Morges.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+Le greffier :
