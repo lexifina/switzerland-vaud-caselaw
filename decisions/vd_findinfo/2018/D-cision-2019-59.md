@@ -1,0 +1,576 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___59"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 59"
+decided: "2018-12-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7002306"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-014.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-052.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-301.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2019 / 59
+
+## Regeste
+
+REFUS D'ENTRER EN MATIÈRE SUR CERTAINS GRIEFS, CALOMNIE, INJURE, MENACE{DROIT PÉNAL}, CONTRAINTE{DROIT PÉNAL}, INSOUMISSION À UNE DÉCISION DE L'AUTORITÉ, DÉNONCIATION CALOMNIEUSE | 174 CP, 177 CP, 180 CP, 181 CP, 292 CP, 303 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 03.12.2018 Décision / 2019 / 59
+
+REFUS D'ENTRER EN MATIÈRE SUR CERTAINS GRIEFS, CALOMNIE, INJURE, MENACE{DROIT PÉNAL}, CONTRAINTE{DROIT PÉNAL}, INSOUMISSION À UNE DÉCISION DE L'AUTORITÉ, DÉNONCIATION CALOMNIEUSE | 174 CP, 177 CP, 180 CP, 181 CP, 292 CP, 303 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+936
+PE18.017798-MYO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+3 décembre 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Perrot, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+310 al. 1 let. a CPP, 174, 177, 180, 181, 292 et 303 CP
+Statuant sur le recours interjeté le 8 octobre 2018 par
+U.________
+contre l’ordonnance de non-entrée en matière rendue le
+18
+septembre 2018 par le Ministère public de l’arrondissement de l’Est vaudois dans la
+cause
+n° PE18.017798-MYO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+U.________
+et K.________ se
+sont
+mariés le 23 octobre 2010. Deux enfants sont nés de cette union, soit [...], le 1
+er
+février 2010 et [...], le 7 août 2011. Rencontrant des difficultés conjugales, ils se
+sont séparés en juin 2014 et les modalités de leur séparation ont, depuis lors, été
+régies par diverses décisions rendues par les autorités civiles vaudoises, puis fribourgeoises.
+Dans ce cadre, la garde des enfants a été confiée à la mère et un droit de visite
+octroyé au père, la fréquence et les modalités de ce droit de visite ayant varié
+au fil des décisions judiciaires rendues. Une enquête avait notamment été ouverte
+par le Ministère public de l’arrondissement du Nord vaudois contre U.________ ensuite d’une
+plainte déposée par l’épouse en septembre 2015 pour des violences et actes d’ordre
+sexuel qu’il aurait commis au préjudice de ses enfants. Cette procédure s’est soldée
+par une ordonnance de classement le 20 mars 2018, définitive et exécutoire (cf. arrêt
+CREP du 26 avril 2018 n
+o
+312).
+b)
+Le
+17 juillet 2018, U.________ a déposé une demande unilatérale de divorce auprès des
+autorités civiles fribourgeoises.
+Le 29 août 2018, U.________ a déposé une requête de mesures provisionnelles et superprovisionnelles,
+partiellement admise par ordonnance du
+30
+août 2018 du Président du Tribunal civil de l’arrondissement de la Broye (FR), en ce
+sens qu’ordre a été donné à K.________ de respecter le droit de visite ordonné
+par arrêt partiel du 20 juillet 2017 de la Juge déléguée de la Cour d’appel
+pénale (recte : civile) du Tribunal cantonal vaudois, cet ordre étant donné sous
+la menace de l’art. 292 CP, disposition reproduite dans l’ordonnance.
+Le 31 août 2018, K.________ a à son tour déposé une requête de mesures provisionnelles
+et superprovisionnelles tendant à ce que le droit de visite de U.________ s’exerce sous surveillance.
+Cette requête, émanant de son conseil et qui a été rejetée, contient notamment
+le passage suivant :
+« (…) il ressort de la précédente procédure de mesures protectrices de
+l’union conjugale, que le père n’avait pas hésité à demander aux enfants
+de mentir à leur mère au sujet du fait que ceux-ci avaient reçu des gifles de la part
+de la compagne du requérant (pièces 103 à 107). Le réseau autour des enfants avait,
+à l’époque, conclu qu’il existait une problématique liée au secret, dans
+lequel les enfants semblaient plongés par le père (pièces 103 et 107). Dans ce contexte,
+dès lors que le mal être des enfants a augmenté, [...] se montrant violant à l’école,
+ce que la maîtresse a constaté et ce que le père a lui-même reconnu, il apparait
+que le père pourrait, dans le prolongement de ce qui s’était passé dans le cadre
+de la précédente procédure, profiter de son droit de visite pour « recadrer »
+les enfants, si ce n’est pour, il est à craindre, les instrumentaliser. Ma cliente constate
+que la situation de ses enfants s’est péjorée. L’exemple le plus frappant et (sic)
+qu’[...] avait cessé de faire tout dessin suggestif depuis trois ans et qu’il s’est
+livré, récemment, à un nouveau dessin particulièrement interpellant, hors la présence
+de la mère, chez un ami (pièce 111). Dès lors, Mme K.________ considère que les enfants
+risqueraient fortement d’être manipulés par le père en prévision de l’intervention
+future du Service de protection de la jeunesse. A l’évidence, il y a lieu de tenir les enfants
+à l’écart de toute capacité d’influence de la part du père, jusqu’à
+ce que le Service de protection de la jeunesse soit intervenu et ait pris position. »
+Par décision du même jour, le Président
+du Tribunal civil de l’arrondissement de la Broye a rejeté cette requête et confirmée
+son ordonnance du 30 août 2018.
+c)
+Le 7 septembre 2018, U.________ a déposé
+plainte pénale contre K.________ pour insoumission à une décision de l’autorité,
+injure (ou autres infractions contre l’honneur), menace, contrainte et dénonciation calomnieuse.
+Il lui reprochait d’avoir, le 2 septembre 2018, enfreint la décision de mesures superprovisionnelles
+rendue le 30 août 2018 par le Tribunal d’arrondissement de la Broye et de l’avoir, le
+même jour, insulté en lui faisant un bras d’honneur tout en lui signifiant que les enfants
+ne lui seraient pas remis. Il lui reprochait encore de s’être rendue coupable de menaces et
+de contrainte à son égard, sans toutefois donner de précisions sur le comportement qui
+serait constitutif de ces infractions. Enfin, dans sa requête de mesures provisionnelles et superprovisionnelles
+du 31 août 2018, K.________ l’aurait accusé « d’instrumentaliser les
+enfants, de provoquer chez eux des réactions, possiblement, selon elle, à connotation sexuelle,
+en d’autres termes de les manipuler ».
+B.
+Par ordonnance du 18 septembre 2018, le Ministère
+public de l’arrondissement de l’Est vaudois a refusé d’entrer en matière
+sur la plainte de U.________ (I) et a laissé les frais de procédure à la charge de l’Etat
+(II). Il a considéré que la décision de la justice fribourgeoise du 30 août
+2018 comportant la menace prévue par l’art. 292 CP avait été envoyée par courriel
+et par courrier aux conseils des parties et qu’il n’était pas établi que la prévenue
+en avait déjà pris connaissance le dimanche 2 septembre 2018. Le comportement reproché
+à l’intéressée n’avait en outre eu lieu qu’une fois et il ne se justifiait
+pas d’entrer en matière, pour des motifs d’opportunité et au vu du peu de gravité
+dudit comportement. S’agissant du bras d’honneur, qui pouvait, dans l’absolu, être
+qualifié d’injure, il avait eu lieu dans un contexte conflictuel et avait davantage vocation
+à mettre un terme à la discussion qu’à injurier la partie adverse, de sorte qu’à
+nouveau, des motifs d’opportunité en lien avec le peu de gravité de ce comportement justifiaient
+la non-entrée en matière. Les comportements menaçants et contraignants invoqués par
+U.________ n’étaient pas étayés dans la plainte et s’il entendait reprocher
+à son épouse de s’opposer à lui ou d’exposer le cas de leurs enfants au Service
+de protection de la jeunesse, les éléments constitutifs de ces infractions n’étaient
+pas réunis, au vu du contexte global dans lequel s’inscrivait cette intention. Enfin, le fait
+de laisser entendre que quelqu’un manipule des enfants dans le cadre d’un conflit conjugal
+ne l’exposait pas à une poursuite pénale. Par ailleurs, la requête du conseil de
+K.________ ne mentionnait qu’un contact pris avec le Service de la protection de la jeunesse et
+non le fait que la justice pénale aurait – à nouveau – été saisie d’une
+dénonciation pour actes d’ordre sexuel avec des enfants. Les propos contenus dans cette requête,
+adressée à un tribunal, ne constituaient pas non plus une atteinte à l’honneur tel
+que protégé par le droit pénal.
+C.
+Par acte du 8 octobre 2018, U.________ a recouru
+contre cette ordonnance, en concluant, avec suite de frais et dépens, principalement à sa réforme
+en ce sens que le dossier de la cause soit ouvert et qu’une instruction soit diligentée, un
+autre magistrat instructeur étant nommé. Subsidiairement, il a conclu à son annulation
+et au renvoi de la cause au Ministère public pour nouvelle décision tendant à l’ouverture
+de l’instruction, le dossier étant attribué à un nouveau magistrat. Plus subsidiairement,
+il a conclu à son annulation, la cause étant renvoyée au Ministère public pour nouvelle
+décision dans le sens des considérants. Il a en outre produit une pièce.
+Le 29 novembre 2018, dans le délai imparti à cet effet, le Ministère public a renoncé
+à déposer des déterminations.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public (art. 310 CPP) dans les dix jours
+devant l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al.
+1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse du
+19
+mai 2009; BLV 312.01]; art. 80 LOJV [Loi d’organisation judiciaire du
+12
+décembre 1979; BLV 173.01]).
+1.2
+Interjeté dans le délai légal et dans les formes prescrites
+(art.
+385 al. 1 CPP) auprès de l’autorité compétente, par une partie qui a qualité
+pour recourir (art. 382 al. 1 CPP), le recours de U.________ est recevable.
+2.
+Conformément à l'art. 310 al. 1 let.
+a CPP, le procureur rend immédiatement – c'est-à-dire sans qu'une instruction soit ouverte
+– une ordonnance de non-entrée en matière lorsqu'il apparaît, à réception
+de la dénonciation
+(cf. art. 301 ss
+CPP) ou de la plainte (Cornu, Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, nn. 1 et 2 ad art. 310 CPP) ou après une procédure préliminaire limitée aux
+investigations de la police (art. 300 al. 1 et 306 ss CPP), que les éléments constitutifs d'une
+infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement pas réunis
+(TF 6B_898/2017 du 8 mars 2018 consid. 3.1). A teneur de l’art. 310 al. 1 let. c CPP, il en va
+de même s'il ressort de la dénonciation ou du rapport de police que les conditions mentionnées
+à l'art. 8 CPP imposent de renoncer à l'ouverture d'une poursuite pénale.
+Selon l’art. 310
+al. 1 let. a CPP, il importe donc que les éléments constitutifs de l'infraction ne soient manifestement
+pas réunis. En d'autres termes, il faut être certain que l'état de fait ne constitue aucune
+infraction. Une ordonnance de non-entrée en matière ne peut être rendue que dans les cas
+clairs du point de vue des faits mais également du droit; s'il est nécessaire de clarifier
+l'état de fait ou de procéder à une appréciation juridique approfondie, le prononcé
+d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte. En règle générale,
+dans le doute, il convient d'ouvrir une enquête pénale (ATF 137 IV 285 consid. 2.3 et les références
+citées, JdT 2012 IV 160).
+Selon la jurisprudence,
+l'art. 310 CPP doit être appliqué conformément à l'adage
+in
+dubio pro duriore
+(TF 6B_427/2017 du 15 novembre
+2017 consid. 2.1 et la référence citée). Celui-ci découle du principe de la légalité
+(art. 5 al. 1 Cst. [Constitution fédérale de la Confédération suisse du 18 avril
+1999; RS 101]  et
+2 al. 1 CPP
+en relation avec les art. 309 al. 1, 319 al. 1 et 324 CPP; ATF 138 IV 86 consid. 4.2) et signifie qu'en
+principe un classement ou une non-entrée en matière ne peuvent être prononcés par
+le ministère public que lorsqu'il apparaît clairement que les faits ne sont pas punissables
+ou que les conditions à la poursuite pénale ne sont pas remplies. La procédure doit se
+poursuivre lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement ou lorsque les
+probabilités d'acquittement et de condamnation apparaissent équivalentes, en particulier en
+présence d'une infraction grave (ATF 143 IV 241 consid. 2.2.1; ATF 138 IV 86 consid. 4.1.2; ATF
+138 IV 186 consid. 4.1).
+Le ministère public doit pouvoir rendre une ordonnance de non-entrée en matière dans les
+cas où il apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter
+la preuve d’une infraction à la charge d’une personne déterminée
+(cf.
+TF 1B_67/2012 du 29 mai 2012 consid. 3.2).
+3.
+3.1
+Le recourant reproche en premier lieu à la
+Procureure d’avoir refusé d’entrer en matière sur les infractions d’insoumission
+à une décision de l’autorité et d’injure, par opportunité notamment.
+3.2
+Selon l’art. 8 CPP, le ministère public
+et les tribunaux renoncent à toute poursuite pénale lorsque le droit fédéral le prévoit,
+notamment aux conditions des
+art. 52, 53
+et 54 CP (Code pénal du 21 décembre 1937; RS 311.0) ou si aucun intérêt prépondérant
+de la partie plaignante ne s’y oppose et que les conditions visées à l’art. 8 al.
+2 let. a à c CPP sont réunies (al. 2).
+Selon l’art. 52 CP, si la culpabilité de l’auteur et les conséquences de son acte
+sont peu importantes, l’autorité compétente renonce à le poursuivre, à le renvoyer
+devant le juge ou à lui infliger une peine. Cette disposition s’applique également pour
+les contraventions au sens du Code pénal suisse; la condition pour une exemption de peine en raison
+de l’absence d’intérêt à punir réside dans le fait que l’acte incriminé,
+en rapport avec la faute et les conséquences, pèse significativement moins lourd que le cas
+visuel et typique de l’infraction en cause (ATF 138 IV 13 consid. 9, JdT 2012 IV 263, spéc.
+p. 277; ATF 135 IV 130
+consid. 5.3.3). L'importance
+de la culpabilité et celle du résultat dans le cas particulier doivent être évaluées
+par comparaison avec celle de la culpabilité et celle du résultat dans les cas typiques de
+faits punissables revêtant la même qualification
+3.3
+3.3.1
+Aux termes de l’art. 292 CP, celui qui ne se sera pas conformé à une décision à
+lui signifiée, sous la menace de la peine prévue au présent article, par une autorité
+ou un fonctionnaire compétents, sera puni d'une amende. Pour que l'infraction soit réalisée,
+il faut que l'insoumission soit intentionnelle (ATF 78 IV 239 et les références citées);
+l'intention suppose la connaissance de l'injonction, de sa validité et des conséquences pénales
+de l'insoumission, le dol éventuel étant suffisant (ATF 119 IV 238 consid. 2a).
+3.3.2
+En l’espèce, on ne saurait suivre le
+Ministère public, dans la mesure où on ne voit pas en quoi le fait d’enfreindre l’injonction
+relative au respect du droit de visite du père serait moins lourd qu’un cas typique du même
+genre. En effet, si les infractions aux injonctions signifiées par le juge civil n’étaient
+pas sanctionnées, de telles injonctions perdraient toute utilité. Le recours est dès lors
+bien fondé sur ce point et il appartiendra en conséquence à la Procureure de déterminer
+si, le
+2 septembre 2018, K.________ avait
+reçu l’ordonnance du Président du Tribunal civil de l’arrondissement de la Broye
+du 30 août 2018 – qui satisfaisait par ailleurs aux conditions de validité d’une
+injonction au sens de l’art. 292 CP –, ou pris connaissance de celle-ci d’une autre
+manière, ce qui n’est pas exclu, dite ordonnance ayant notamment été transmise aux
+conseils des parties par courriel du même jour, soit un jeudi.
+Pour le surplus, dès lors que la Procureure a relevé que le plaignant n’avait pas produit
+la décision relative au droit de visite du père du 20 juillet 2017 à laquelle se réfère
+l’ordonnance du 30 août 2018, on précisera que la teneur de cette décision –
+qui est en réalité une convention partielle ratifiée lors d’une audience tenue par
+la juge déléguée de la Cour d’appel civile du Tribunal cantonal – est reprise
+et confirmée dans l’état de fait ainsi que dans le dispositif de l’arrêt du
+3 novembre 2017 rendu par cette même
+autorité (cf. P. 4/2, pp. 5 et 37).
+3.4
+3.4.1
+Aux termes de l’art. 177 al. 1 CP, se rend
+coupable d’injure celui qui aura, par la parole, l’écriture, l’image, le geste
+ou par des voies de fait, attaqué autrui dans son honneur.
+L’injure suppose
+une atteinte à l’honneur protégé par le droit pénal. Cette disposition réprime
+tout acte qui, d’une autre manière que la diffamation et la calomnie, aura porté atteinte
+à l’honneur d’un tiers. Cette infraction réprime de ce fait trois formes d’atteinte
+à l’honneur, à savoir un jugement de valeur offensant, une injure formelle et un fait
+attentatoire à l’honneur allégué en s’adressant au lésé (Dupuis
+et
+alii
+,
+Petit commentaire CP, 2
+e
+éd., Bâle 2017, n. 9 ad art. 177 CP).
+L’injure formelle consiste en une simple expression de mépris, laquelle doit toutefois être
+d’une certaine gravité excédant ce qui est acceptable (Dupuis, op. cit., nn. 12 s. ad
+art. 177 CP). Un doigt d’honneur fait apparaître la personne visée comme méprisable
+(CAPE 30 avril 2018/142 consid. 6.2; voir aussi TF 6B_794/2007 du 14 avril 2008 consid. 3).
+L’infraction est intentionnelle.
+3.4.2
+En l’espèce, s’agissant du bras
+d’honneur que K.________ aurait adressé à son époux, qui devrait, le cas échéant,
+effectivement être considéré comme une injure au vu de la jurisprudence précitée,
+on ne voit pas non plus en quoi ce comportement serait moins grave que les cas d’injures envisagés
+usuellement par l’art. 177 CP. Au surplus, les circonstances du conflit conjugal existant entre
+les époux ne changent rien à ce constat, pas même au motif de clore une discussion.
+Partant, le recours est bien fondé sur ce point également, une instruction devant être
+ouverte sur la réalité du comportement dénoncé.
+4.
+4.1
+Le recourant s’en prend ensuite au refus
+d’entrer en matière relatif aux infractions de menaces et de contrainte. Il reproche en particulier
+au Ministère public d’avoir procédé à une constatation incomplète ou erronée
+des faits et d’avoir abusé de son pouvoir d’appréciation en considérant que
+les éléments constitutifs de ces infractions n’étaient pas étayés dans
+la plainte, sans lui donner un délai pour préciser les faits ni instruire la cause plus avant.
+4.1.1
+Celui qui, par une menace grave, aura alarmé
+ou effrayé une personne sera, sur plainte, puni d’une peine privative de liberté de trois
+ans au plus ou d’une peine pécuniaire (art. 180 al. 1 CP). La poursuite aura lieu d’office
+si l’auteur est le conjoint de la victime et que la menace a été commise durant le mariage
+ou dans l’année qui a suivi le divorce (al. 2 let. b).
+Sur le plan objectif,
+l’infraction de menaces suppose la réalisation de deux conditions. Premièrement, il faut
+que l’auteur ait émis une menace grave, soit une menace objectivement de nature à alarmer
+ou à effrayer la victime. On tient compte de la réaction qu’aurait une personne raisonnable,
+dotée d’une résistance psychologique plus ou moins normale, face à une situation
+identique
+(TF 6B_192/2012 du 10 septembre
+2012 consid. 1.1). L’exigence d’une menace grave doit conduire à exclure la punissabilité
+lorsque le préjudice évoqué apparaît objectivement d’une importance trop limitée
+pour justifier la répression pénale (Corboz, Les infractions en droit suisse, vol. I, 3
+e
+éd., Berne 2010, n. 9 ad
+art. 180
+CP). En second lieu, il faut que la victime ait été effectivement alarmée ou effrayée.
+Subjectivement, l’auteur doit avoir l’intention non seulement de proférer des menaces
+graves, mais aussi d’alarmer ou d’effrayer le destinataire. Le dol éventuel suffit (TF
+6B_598/2011 du 27 juillet 2012 consid. 1.1).
+4.1.2
+Se rend coupable de contrainte au sens de l'art.
+181 CP celui qui, en usant de violence envers une personne ou en la menaçant d'un dommage sérieux,
+ou en l'entravant de quelque autre manière dans sa liberté d'action, l'aura obligée à
+faire, ne pas faire ou à laisser faire un acte.
+Alors que la violence
+consiste dans l'emploi d'une force physique d'une certaine intensité à l'encontre de la victime
+(TF 6B_153/2017 du 28 novembre 2017 consid. 3.1; ATF 101 IV 42 consid. 3a), la menace est un moyen
+de pression psychologique consistant à annoncer un dommage futur dont la réalisation est présentée
+comme dépendante de la volonté de l'auteur, sans toutefois qu'il soit nécessaire que cette
+dépendance soit effective (TF 6B_153/2017 du
+28
+novembre 2017 consid. 3.1; ATF 117 IV 445 consid. 2b; ATF 106 IV 125
+consid.
+2a) ni que l'auteur ait réellement la volonté de réaliser sa menace
+(TF
+6B_153/2017 du 28 novembre 2017 consid. 3.1; ATF 105 IV 120 consid. 2a). La loi exige un dommage sérieux,
+c'est-à-dire que la perspective de l'inconvénient présenté comme dépendant de
+la volonté de l'auteur soit propre à entraver le destinataire dans sa liberté de décision
+ou d'action. La question doit être tranchée en fonction de critères objectifs, en se plaçant
+du point de vue d'une personne de sensibilité moyenne (TF 6B_153/2017 du 28 novembre 2017 consid.
+3.1;
+ATF 122 IV 322 consid. 1a; ATF 120
+IV 17 consid. 2a/aa). Il peut également y avoir contrainte lorsque l'auteur entrave sa victime « de
+quelque autre manière » dans sa liberté d'action. Cette formule générale
+doit être interprétée de manière restrictive. N'importe quelle pression de peu d'importance
+ne suffit pas. Il faut que le moyen de contrainte utilisé soit, comme pour la violence ou la menace
+d'un dommage sérieux, propre à impressionner une personne de sensibilité moyenne et à
+l'entraver d'une manière substantielle dans sa liberté de décision ou d'action. Il s'agit
+donc de moyens de contrainte qui, par leur intensité et leur effet, sont analogues à ceux qui
+sont cités expressément par la loi (TF 6B_153/2017 du 28 novembre 2017
+consid.
+3.1; ATF 141 IV 437 consid. 3.2.1; ATF 137 IV 326 consid. 3.3.1).
+Selon la jurisprudence,
+la contrainte n'est contraire au droit que si elle est illicite, soit parce que le moyen utilisé
+ou le but poursuivi est illicite, soit parce que le moyen est disproportionné pour atteindre le
+but visé, soit encore parce qu'un moyen conforme au droit utilisé pour atteindre un but légitime
+constitue au vu des circonstances, un moyen de pression abusif ou contraire aux mœurs
+(TF
+6B_153/2017 du 28 novembre 2017 consid. 3.1; ATF 141 IV 437 consid. 3.2.1; ATF 137 IV 326 consid. 3.3.1).
+Lorsque la victime ne
+se laisse pas intimider et n'adopte pas le comportement voulu par l'auteur, ce dernier est punissable
+de tentative de contrainte (art. 22 al. 1 CP; TF 6B_153/2017 du 28 novembre 2017 consid. 3.1; ATF 129
+IV 262 consid. 2.7; ATF 106 IV 125 consid. 2b). Pour qu'il y ait tentative de contrainte, il faut que
+l'auteur ait agi avec conscience et volonté, soit au moins qu'il ait accepté l'éventualité
+que le procédé illicite employé entrave le destinataire dans sa liberté de décision
+(TF 6B_153/2017 du 28 novembre 2017 consid. 3.1; ATF 120 IV 17
+consid.
+2c).
+4.1.3
+En l’espèce, les allégations contenues
+dans la plainte du
+7 septembre 2018 étaient
+clairement insuffisantes pour justifier l’ouverture d’une instruction pénale pour menaces
+et contrainte contre K.________. U.________ n’a en effet pas précisé quel(s) comportement(s)
+adopté(s) par cette dernière serai(en)t constitutif(s) de ces infractions. Du reste, il ne
+le fait pas non plus dans son recours. Un examen des pièces annexées à la plainte ne permet
+pas davantage de comprendre quand ni comment la prévenue aurait gravement menacé le recourant,
+ni en quoi elle l’aurait entravé dans sa liberté d’action. Faute d’indice
+de culpabilité suffisant, le refus d’entrer en matière sur ces infractions était
+justifié sans qu’une interpellation de U.________ – qui ne se plaint du reste pas d’une
+violation de son droit d’être entendu – soit nécessaire.
+4.2
+Le recourant invoque enfin une violation de l’art.
+174 CP. Il soutient que les récents propos tenus par son épouse, soit qu’il instrumentaliserait
+ses enfants, les manipulerait ou susciterait en eux des comportements à connotation sexuelle, relèveraient
+de la calomnie.
+4.2.1
+Selon l'art. 173 ch. 1 CP, se rend coupable de diffamation notamment celui qui, en s'adressant à
+un tiers, aura accusé une personne ou jeté sur elle le soupçon de tenir une conduite contraire
+à l'honneur, ou de tout autre fait propre à porter atteinte à sa considération. Aux
+termes de l'art. 174 ch. 1 CP, commet une calomnie notamment celui qui, connaissant la fausseté
+de ses allégations, aura, en s'adressant à un tiers, accusé une personne ou jeté
+sur elle le soupçon de tenir une conduite contraire à l'honneur, ou de tout autre fait propre
+à porter atteinte à sa considération.
+Ces deux dispositions
+protègent la réputation d'être une personne honorable, c'est-à-dire de se comporter
+comme une personne digne a coutume de le faire selon les conceptions généralement reçues
+(ATF 132 IV 112 consid. 2.1; ATF 128 IV 53 consid. 1a). L'honneur protégé par le droit
+pénal est conçu de façon générale comme un droit au respect qui est lésé
+par toute assertion propre à exposer la personne visée au mépris en sa qualité d'homme
+(ibidem). L'atteinte à l'honneur pénalement réprimée doit ainsi faire apparaître
+la personne visée comme méprisable (ATF 137 IV 313 consid. 2.1; ATF 133 IV 308 consid. 8.5.1).
+Il ne suffit pas d'abaisser une personne dans la bonne opinion qu'elle a d'elle-même ou dans les
+qualités qu'elle croit avoir, notamment dans le cadre de ses activités professionnelles, artistiques,
+politiques ou sportives (ATF 119 IV 47 consid. 2a; ATF 117 IV 27 consid. 2c; ATF 116 IV 205 consid.
+2, JdT 1992 IV 107; Dupuis et
+alii
+,
+op. cit., n. 4 ad rem. prél. aux art. 173 à 178 CP et la doctrine citée). Pour apprécier
+si une déclaration est attentatoire à l'honneur, il faut se fonder non pas sur le sens que
+lui donne la personne visée, mais sur une interprétation objective selon la signification qu'un
+destinataire non prévenu doit, dans les circonstances d'espèce, lui attribuer (TF 6B_143/2011
+du 16 septembre 2011 consid. 2.1.3; ATF 133 IV 308 consid. 8.5.1 précité).
+Dans des débats en justice, le climat peut être très tendu, ce d’autant plus que
+le succès d’une partie implique la défaite de son contradicteur. Il est ainsi compréhensible
+que les propos d’un plaideur soient ressentis comme des attaques personnelles par l’autre
+partie et que celle-ci réagisse de manière excessive. Dans un tel contexte, une atteinte à
+l’honneur ne doit être admise que restrictivement (Favre/Pellet/Stoudmann, Code pénal
+annoté, 3
+e
+éd., Lausanne 2007, n. 1.14 ad
+art.
+173 CP). Ainsi, les parties à un procès ou l’avocat qui se limitent à ce qui est
+nécessaire et pertinent, sans recourir à des formules inutilement blessantes, ne tombent pas
+sous le coup de l’art. 173 CP, l’acte étant licite selon l’art. 14 CP
+(ATF
+131 IV 154, JdT 2007 IV 3; ATF 118 IV 248 consid. 2c; ATF 116 IV 211,
+JdT
+1992 IV 83; ATF 107 IV 34 consid. 4a; Dupuis et
+alii
+.,
+op. cit., n. 52 ad art. 173 CP; Favre/Pellet/Stoudmann, op. cit., n. 1.11 ad art. 14 CP; de Werra, L’avocat
+et la diffamation [Der Anwalt und die üble Nachrede, traduit de l’allemand],
+in
+:
+L’avocat suisse, n° 70, décembre 1980, p. 14).
+4.2.2
+Aux termes de l'art. 303 ch. 1 al. 1 CP, se rend
+coupable de dénonciation calomnieuse celui qui aura dénoncé à l'autorité, comme
+auteur d'un crime ou d'un délit, une personne qu'il savait innocente, en vue de faire ouvrir contre
+elle une poursuite pénale. Sur le plan objectif, cette norme suppose qu’une communication
+imputant faussement à une personne la commission d’un crime ou d’un délit ait été
+adressée à l’autorité (ATF 132 IV 20 consid. 4.2; ATF 75 IV 78). L'infraction est
+intentionnelle. L'auteur doit savoir que la personne visée par la dénonciation est innocente,
+comme c'est le cas pour la calomnie. Le dol éventuel est exclu (Dupuis et
+alii
+,
+op. cit., nn. 22-23 ad art. 303 CP; ATF 136 IV 170 consid. 2.1; TF 6B_32/2011 du 24 février
+2011 consid. 1.1).
+La dénonciation doit être transmise à une autorité compétente; il n’est
+pas nécessaire qu’elle soit compétente pour la poursuite de l’infraction; il suffit
+qu’il soit de son devoir de transmettre la dénonciation à l’autorité qui l’est
+ou, si ce n’est pas le cas, qu’elle la transmette effectivement (Dupuis et
+alii
+,
+op. cit., n. 12 ad
+art. 303 CP et les auteurs
+cités).
+4.2.3
+En l’espèce, on ne discerne aucun propos
+portant atteinte à l’honneur du recourant et le faisant apparaître comme une personne
+méprisable dans la requête du conseil de la prévenue adressée le 31 août 2018
+au Tribunal d’arrondissement de la Broye. Comme l’a relevé à juste titre la Procureure,
+tel n’est pas le cas du fait de dire d’un parent qu’il manipule ou instrumentalise
+ses enfants, ou encore qu’il serait susceptible de le faire, de surcroît dans le cadre d’une
+procédure matrimoniale conflictuelle dans laquelle les relations personnelles avec les enfants sont
+en cause. Il en va de même du fait d’évoquer que la situation des enfants se serait péjorée
+et d’exposer la crainte de la mère que ceux-ci puissent être manipulés par le père
+en citant en exemple un dessin que l’un des enfants du couple a fait – dessin qui n’est
+du reste pas produit avec la plainte – et en expliquant que cela a amené les intervenants
+scolaires à signaler le cas des enfants à l’Office de protection des mineurs de l’Est
+vaudois. En effet, il s’agit là uniquement d’allégations factuelles et la requête
+incriminée ne relie pas explicitement ces allégations à un comportement particulier qu’aurait
+eu le père à l’égard de ses enfants. Certes, le recourant y voit un parallèle
+avec les soupçons d’actes d’ordre sexuel que l’épouse avait porté contre
+lui en 2015. Cela étant, aucune accusation formelle n’a pour l’heure été portée
+contre lui et il n’explique ni dans sa plainte, ni dans son recours, en quoi il faudrait interpréter
+la requête du conseil de son épouse comme lui attribuant un comportement pénalement répréhensible.
+En définitive, la requête du 31 août 2018 ne contient ni propos attentatoire à l’honneur
+du recourant, ni accusation le désignant comme auteur d’une infraction pénale. C’est
+dès lors à juste titre que la Procureure a refusé d’entrer en matière concernant
+les infractions de dénonciation calomnieuse – qui ne semble du reste plus être soutenue
+au stade du recours – et de calomnie.
+5.
+Au vu de ce qui précède, le recours
+doit être partiellement admis, l’ordonnance du 18 septembre 2018 annulée en tant qu’il
+est refusé d’entrer en matière sur les infractions d’insoumission à une décision
+de l’autorité et d’injure, et le dossier de la cause renvoyé au Ministère
+public de l’arrondissement de l’Est vaudois pour qu’il ouvre une instruction en relation
+avec ces infractions. L’ordonnance doit être confirmée pour le surplus.
+Quant à la conclusion tendant à ce que le dossier de la cause soit confié à un autre
+procureur, elle n’a pas à être traitée comme une demande de récusation, dès
+lors qu’il n’est fait référence ni aux art. 56 ss CPP ni au terme « récusation ».
+Quoi qu’il en soit, quand bien même le recourant invoque la partialité de la magistrate
+saisie de la cause, il n’invoque aucun motif sérieux de prévention au sens de l’art.
+56 let. f CPP qui justifierait sa récusation et il perd de vue que la garantie d’un juge impartial
+ne commande pas la récusation d’un magistrat au simple motif qu’il a, dans une procédure
+antérieure – voire dans la même affaire –, tranché en défaveur du requérant
+(ATF 143 IV 69 consid. 3.1).
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt,
+par 1'540 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront mis par moitié à la
+charge de U.________, qui succombe partiellement
+(art.
+428 al. 1 CPP), le solde étant laissé à la charge de l’Etat (art. 423 al. 1 CPP).
+Quand bien même le
+recourant a pris ses conclusions avec suite de frais et dépens, il ne peut lui être alloué
+d’indemnité au sens de l’art. 433 CPP, faute de prévenu succombant à ce stade
+de la procédure (CREP 22 janvier 2018/77).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+L’ordonnance du 18 septembre 2018 est annulée en tant qu’elle concerne les infractions
+d’insoumission à une décision de l’autorité et d’injure.
+Elle
+est confirmée pour le surplus.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de l’Est vaudois pour qu’il procède dans le sens des
+considérants.
+IV.
+Les frais d’arrêt, par 1'540 fr. (mille cinq cent quarante francs), sont mis à la charge
+de U.________ par 770 fr. (sept cent septante francs), le solde étant laissé à la charge
+de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Alessandro Brenci, avocat (pour U.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
