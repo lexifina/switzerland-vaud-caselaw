@@ -1,0 +1,304 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___50"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 50"
+decided: "2018-12-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7007177"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2019 / 50
+
+## Regeste
+
+INJURE, DIFFAMATION, CALOMNIE, MENACE{DROIT PÉNAL}, CONTRAINTE{DROIT PÉNAL}, TENTATIVE{DROIT PÉNAL} | 173 CP, 174 CP, 180 CP, 22 ad 181 CP, 22 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 06.12.2018 Décision / 2019 / 50
+
+INJURE, DIFFAMATION, CALOMNIE, MENACE{DROIT PÉNAL}, CONTRAINTE{DROIT PÉNAL}, TENTATIVE{DROIT PÉNAL} | 173 CP, 174 CP, 180 CP, 22 ad 181 CP, 22 CP
+
+1
+TRIBUNAL
+CANTONAL
+947
+PE18.016556-HNI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+6 décembre 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+173, 174, 177, 180 et 22 ad 181 CP ; 310 et 393 ss CPP
+Statuant sur le recours interjeté le 1
+er
+octobre 2018 par
+V.________
+contre l’ordonnance de non-entrée en matière rendue le 18 septembre 2018 par le Ministère
+public de l’arrondissement de l’Est vaudois dans la cause
+n° PE18.016556-HNI
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 22 août 2018, V.________ a déposé plainte pénale contre D.________.
+Il ressort en substance de cette plainte que P.________, un ami proche du plaignant, a prêté
+à ce dernier une télécommande permettant d’abaisser la barrière à l’entrée
+de la cour de leur immeuble. Ayant appris cela, l’épouse de P.________, D.________, n’aurait
+eu de cesse de le harceler et de le menacer de le dénoncer à la police pour qu’il lui
+rende cette télécommande. Le 27 juin 2018, elle aurait déposé dans sa boîte
+aux lettres un courrier hors enveloppe qui le menacerait de le dénoncer à la police s’il
+ne restituait pas l’objet. Dans un second courrier du 7 juillet 2018, traduit par le plaignant,
+elle aurait à nouveau déposé une lettre hors enveloppe dans la boîte aux lettres
+de ce dernier, dans laquelle elle aurait annoncé que le gérant avait été informé
+de l’aliénation illégale de la télécommande et dans laquelle elle écrivait
+qu’il avait un « cerveau limité » et « ça me dégoûte,
+même d’écrire ton nom, espèce de parasite ». V.________ a rendu la télécommande
+à son ami à son retour de vacances (P. 4).
+B.
+Par ordonnance du 18 septembre 2018, le Procureur
+de l’arrondissement de l’Est vaudois a refusé d’entrer en matière (I) et
+a laissé les frais à la charge de l’Etat (II). Il a considéré que les éléments
+constitutifs des infractions envisagées n’étaient manifestement pas réunis, les
+propos tenus par D.________ n’étant pas d’une gravité suffisante pour tomber sous
+le coup des dispositions pénales réprimant l’injure. Ce magistrat a en outre considéré
+que D.________ ne s’était pas adressée à des tiers en écrivant ces lettres
+car elles étaient destinées au plaignant et avaient été placées dans sa boîte
+aux lettres, qui ne serait pas publique; les infractions de calomnie, subsidiairement diffamation n’étaient
+ainsi pas réalisées. Enfin, s’agissant des infractions de menaces ou de tentative de
+contrainte, le Procureur a considéré qu’elles n’entraient pas non plus en ligne
+de compte dès lors que le plaignant, se sachant dans son droit, n’était pas sous le coup
+d’une menace grave.
+C.
+Par acte du 1
+er
+octobre 2018, V.________ a recouru contre cette ordonnance, en concluant avec suite de frais et dépens
+à son annulation, à charge pour le Ministère public d’ouvrir une instruction pénale
+contre D.________ et d’instruire les faits dénoncés dans sa plainte du 22 août 2018.
+Le Ministère public a renoncé à se déterminer dans le délai imparti.
+En droit
+:
+1.
+Les parties peuvent attaquer
+une ordonnance de non-entrée en matière rendue par le ministère public (art. 310 CPP [Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]) dans les dix jours devant
+l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP ; cf. art.
+20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+Interjeté dans le
+délai légal et dans les formes prescrites (art. 385 al. 1 CPP) auprès de l’autorité
+compétente, par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours
+déposé par V.________ est recevable.
+2.
+Conformément
+à l'art. 310 al. 1 let. a CPP, le ministère public rend immédiatement – c’est-à-dire
+sans qu’une instruction soit ouverte (art. 309 al. 1 et 4 CPP ; TF 1B_111/2012 du 5 avril
+2012 consid. 2.1 ; Cornu, in : Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure
+pénale suisse, Bâle 2011, n. 2 ad art. 310 CPP) – une ordonnance de non-entrée en
+matière lorsqu'il apparaît, à réception de la dénonciation (cf. art. 301 s.
+CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310 CPP), ou après une procédure préliminaire
+limitée aux investigations de la police (art. 300 al. 1 et 306 s. CPP), que les éléments
+constitutifs de l'infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement
+pas réunis.
+Selon
+cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction, ce qui est le cas lors de litiges purement civils. Une ordonnance de
+non-entrée en matière ne peut être rendue que dans les cas clairs du point de vue des
+faits, mais également du droit ; s'il est nécessaire de clarifier l'état de fait
+ou de procéder à une appréciation juridique approfondie, le prononcé d'une ordonnance
+de non-entrée en matière n'entre pas en ligne de compte. En règle générale,
+dans le doute, il convient d'ouvrir une enquête pénale (ATF 143 IV 241 consid. 2.2.1 ;
+138 IV 86 consid. 4.1.2 ; 137 IV 285 consid. 2.3 et les réf. citées, JdT 2012 IV
+160). En revanche, le ministère public doit pouvoir rendre une ordonnance de non-entrée en
+matière dans les cas où il apparaît d’emblée qu’aucun acte d’enquête
+ne pourra apporter la preuve d’une infraction à la charge d’une personne déterminée
+(TF 6B_541/2017 du 20 décembre 2017 consid. 2.2).
+3.
+3.1
+En premier lieu, le recourant fait grief au Procureur
+d’avoir considéré que les propos tenus par D.________ n’étaient pas d’une
+gravité suffisante pour constituer l’infraction d’injure.
+3.2
+A teneur de l’art. 177 al. 1 CP (Code pénal; RS 311.0), celui qui, de toute autre manière,
+aura, par la parole, l'écriture, l'image, le geste ou par des voies de fait, attaqué autrui
+dans son honneur sera, sur plainte, puni d'une peine pécuniaire de 90 jours-amende au plus.
+L'honneur protégé par le droit pénal est conçu de façon générale comme
+un droit au respect, qui est lésé par toute assertion propre à exposer la personne visée
+au mépris en sa qualité d'homme (ATF 137 IV 313 consid. 2.1.1 ; ATF 132 IV 112 consid.
+2.1 ; ATF 128 IV 53 consid. 1a). Il ne suffit pas d'abaisser une personne dans la bonne opinion
+qu'elle a d'elle-même ou dans les qualités qu'elle croit avoir. Echappent ainsi à la répression
+les assertions qui, sans faire apparaître la personne comme méprisable, sont seulement propres
+à ternir la réputation dont elle jouit ou à ébranler la confiance qu'elle a en elle-même
+(ATF 128 IV 53 consid. 1a). Pour apprécier si une déclaration est attentatoire à l'honneur,
+il faut se fonder non pas sur le sens que lui donne la personne visée, mais sur une interprétation
+objective selon la signification qu'un destinataire non prévenu doit lui donner dans les circonstances
+d'espèce (ATF 137 IV 313 consid. 2.1.3).
+La jurisprudence considère que le fait de traiter une personne de parasite constitue un jugement
+de valeur injurieux (Favre/Pellet/Stoudmann, Code pénal annoté, 3
+e
+éd., Lausanne 2011, n. 1.6 ad art. 177 CP et les références citées). En outre, le
+Tribunal fédéral considère que le terme « cloporte » constitue, d’un
+point de vue objectif, une marque de mépris constitutif d’injure au sens de l’art. 177
+CP (TF 6B_229/2016 du 8 juin 2016 consid. 2.2).
+3.3
+En l’occurrence, D.________ a remis au plaignant une lettre qui se concluait par la phrase suivante : « ça
+me dégoûte, même d’écrire ton nom, espèce de parasite ». Comme
+le relève le recourant, selon le site Internet
+www.larousse.fr
+,
+un parasite se définit en particulier comme « une personne qui vit dans l’oisiveté,
+aux dépens d’autrui ou de la société ». Partant, d’un point de vue
+objectif, le terme employé constitue une marque de mépris attentatoire à l’honneur
+de V.________, comme le reconnaît la jurisprudence. Au demeurant, le contenu de la correspondance
+rédigée par D.________ à l’attention du prénommé paraît en outre
+confirmer qu’elle le méprise puisqu’elle prétend notamment qu’il aurait « trouvé
+bon de […] roupiller à la maison au lieu de courser et de chercher un travail ».
+A ce stade, on ne peut donc manifestement pas exclure que D.________ se soit rendue coupable d'injure
+envers le recourant. Le recours de V.________ doit être admis sur ce point. Il appartiendra par
+conséquent au Ministère public d’ouvrir une instruction pénale et de procéder
+aux investigations nécessaires.
+4.
+4.1
+Le recourant fait ensuite grief eu Procureur de ne pas être entré en matière sur les infractions
+de calomnie, subsidiairement diffamation, et de menace ou de tentative de contrainte.
+4.2
+4.2.1
+Se
+rend coupable de diffamation notamment celui qui, en s'adressant à un tiers, aura accusé une
+personne ou jeté sur elle le soupçon de tenir une conduite contraire à l'honneur, ou de
+tout autre fait propre à porter atteinte à sa considération (art. 173 ch. 1 CP). Se rend
+coupable de calomnie notamment celui qui, connaissant la fausseté de ses allégations, aura,
+en s'adressant à un tiers, accusé une personne ou jeté sur elle le soupçon de tenir
+une conduite contraire à l'honneur, ou de tout autre fait propre à porter atteinte à sa
+considération (art. 174 ch. 1 CP).
+Ces deux dispositions
+protègent la réputation d'être une personne honorable, c'est-à-dire de se comporter
+comme une personne digne a coutume de le faire selon les conceptions généralement reçues
+(ATF 132 IV 112 consid. 2.1 ;
+ATF 128 IV
+53 consid. 1a). L'honneur protégé par le droit pénal est conçu de façon générale
+comme un droit au respect, qui est lésé par toute assertion propre à exposer la personne
+visée au mépris en sa qualité d'homme (ATF 137 IV 313
+consid.
+2.1.1; ATF 132 IV 112 consid. 2.1; ATF 128 IV 53 consid. 1a). Pour apprécier si une déclaration
+est attentatoire à l'honneur, il faut se fonder non pas sur le sens que lui donne la personne visée,
+mais sur une interprétation objective selon la signification qu'un destinataire non prévenu
+doit lui donner dans les circonstances d'espèce (ATF 137 IV 313 consid. 2.1.3). Pour qu’il
+y ait diffamation, il faut une allégation de fait et non pas un simple jugement de valeur contrairement
+à l’injure (ATF 117 IV 27 consid. 2c).
+Tant la diffamation que
+la calomnie sont des infractions intentionnelles (Corboz, Les infractions en droit suisse, 3
+e
+éd., vol. I, Berne 2010, n. 48 ad art. 173 CP et n. 11 ad art. 174 CP). La calomnie est une
+forme qualifiée de diffamation, dont elle se distingue en cela que les allégations attentatoires
+à l’honneur sont fausses, que l’auteur doit avoir eu connaissance de la fausseté
+de ces allégations et qu’il n’y a dès lors pas de place pour les preuves libératoires
+prévues dans le cas de la diffamation (ATF 136 IV 170 consid. 2.1 ; TF 6B_676/2017 du 15 décembre
+2017 consid. 3.1 ; Corboz, op. cit., n. 11 ad art. 174 CP ; Favre/Pellet/Stoudmann, op. cit.,
+n. 1.1 ad art. 174 CP).
+4.2.2
+Se rend coupable de contrainte, au sens de l'art.
+181 CP, celui qui, en usant de violence envers une personne ou en la menaçant d'un dommage sérieux
+ou en l'entravant de quelque autre manière dans sa liberté d'action, l'aura obligée à
+faire, à ne pas faire ou à laisser faire un acte. La contrainte est illicite lorsque le moyen
+ou le but est contraire au droit ou encore lorsque le moyen est dispropor-tionné pour atteindre
+le but visé (ATF 134 IV 216 consid. 4.1; ATF 129 IV 6 consid. 3.4; ATF 119 IV 301 consid. 2b). Il
+y a menace d'un dommage sérieux lorsqu'il apparaît, selon la déclaration faite, que la
+survenance de l'inconvénient dépend de l'auteur et que cette perspective est telle qu'elle
+est de nature à entraver le destinataire dans sa liberté de décision. La question doit
+être tranchée en fonction de critères objectifs, et non pas d'après les réactions
+du destinataire visé (ATF 122 IV 322 consid. 1a; ATF 120 IV 17 consid. 2a/aa).
+Quant à l’infraction de menaces, réprimée par l’art. 180 CP, elle suppose
+que l'auteur ait émis une menace, qu'elle soit grave et qu'elle ait eu pour conséquence que
+la victime ait été alarmée ou effrayée. Si l'auteur cherche à influencer le
+lésé, alors seule l'infraction de contrainte est applicable, la menace entrant en concours
+imparfait avec cette infraction (ATF 141 IV 1 consid. 3.2.3; ATF 99 IV 212 consid. 1b).
+4.3
+En l’occurrence,
+s’agissant de la diffamation, subsidiairement de la calomnie, on ne voit pas quels propos pourraient
+être constitutifs de ces infractions puisque les termes employés par D.________, comme par
+exemple « parasite » ou encore « cerveau limité », sont
+des jugements de valeur et non des allégations de fait. Quant aux infractions de menace ou de tentative
+de contrainte, on relèvera que V.________ savait qu’il était dans son droit en utilisant
+la télécommande que lui avait prêtée son ami. Dès lors, une éventuelle
+annonce à la police ou au gérant ne constituait à l’évidence pas une menace
+grave au sens des dispositions topiques. Partant, la décision du Procureur de ne pas entrer en matière
+sur ces points peut être confirmée.
+5.
+En définitive, le
+recours doit être partiellement admis et l’ordonnance attaquée annulée en tant qu’elle
+porte sur l’infraction d’injure et les frais de procédure. Le dossier de la cause sera
+dans cette mesure renvoyé au Ministère public de l’arrondissement de l’Est vaudois
+pour qu’il procède dans le sens des considérants (cf. consid.3.3 supra).
+Les frais de la procédure
+de recours, constitués en l’espèce du seul émolument d’arrêt (art. 422
+al. 1 CPP), par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis par moitié, soit
+par 440 fr., à la charge de la recourante, qui succombe partiellement (art. 428 al. 1, 1
+re
+phrase, CPP), le solde étant laissé à la charge de l’Etat (art. 423 al. 1 CPP).
+Quand bien même le recourant a pris ses conclusions avec suite de frais et dépens, il ne peut
+lui être alloué d’indemnité au sens de l’art. 433 CPP, faute de prévenu
+succombant à ce stade de la procédure (CREP 22 janvier 2018/77).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+L’ordonnance du 18 septembre 2018 est annulée en tant qu’elle porte sur l’infraction
+d’injure et les frais de procédure.
+L’ordonnance
+est confirmée pour le surplus.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de l’Est vaudois pour qu’il procède dans le sens des
+considérants.
+IV.
+Les
+frais d’arrêt, par 880 fr. (huit cent
+huitante francs), sont mis par moitié, soit par 440 fr. (quatre cent quarante francs), à la
+charge de V.________, le solde étant laissé à la charge de l'Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Ludovic Tirelli, avocat (pour V.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
