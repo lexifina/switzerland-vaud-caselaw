@@ -1,0 +1,280 @@
+---
+decision_id: "vd_findinfo_Faillite___2018___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2018 / 33"
+decided: "2018-12-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6934486"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2018 / 33
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ, PREUVE FACILITÉE | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 07.12.2018 Faillite / 2018 / 33
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ, PREUVE FACILITÉE | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF18.039413-181731
+337
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+7 décembre 2018
+_____________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+M.________
+,
+à [...], contre le jugement rendu le 1
+er
+novembre 2018, à la suite de l’audience
+du même jour, par la Présidente du Tribunal d’arrondissement de Lausanne, prononçant
+la faillite de la recourante, le 1
+er
+novembre 2018 à 11 heures 30, à la requête de la
+Fondation
+collective LPP K.________
+, à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Le 13 septembre 2018, la Fondation collective LPP K.________, représentée par K.________SA,
+a déposé auprès du Tribunal d’arrondissement de Lausanne une requête de faillite
+contre M.________, pour une créance totale de 11'408 francs 80, avec intérêt à 5%
+l’an dès le 1
+er
+avril 2017, plus 206 fr. 60 de frais de poursuite et 180 fr. de frais de mainlevée, dont à
+déduire deux acomptes, l’un de 600 francs, valeur au 11 septembre 2017, l’autre de 10'100
+fr., valeur au 5 juin 2018. A l’appui de sa requête, elle a produit :
+-
+l’original du commandement de payer, frappé d’opposition totale, qu’elle avait
+fait notifier à M.________, le 3 août 2017, dans la poursuite n° 8’376'775 de l’Office
+des poursuites du district de Lausanne, portant sur le montant de 11'408 fr. 80, plus intérêt
+à 5% l’an dès le 1
+er
+avril 2017, et mentionnant comme titre de la créance ou cause de l’obligation : « Primes
+et intérêts jusqu’à la date de résiliation au 31 mars 2016 selon convention
+de paiement » ;
+-
+une copie du prononcé rendu le 1
+er
+novembre 2017 par le Juge de paix du district de Lausanne, prenant acte du retrait de l’opposition
+formée par M.________ à la poursuite précitée ;
+-
+l’original de la commination de faillite notifiée le 12 décembre 2017 à M.________
+dans la même poursuite.
+Le 14 septembre 2018, les parties ont été citées à l’audience de faillite du
+1
+er
+novembre
+2018, à 11 heures.
+2.
+A l’issue de l’audience, à laquelle
+les deux parties ont fait défaut, la Présidente du Tribunal d’arrondissement de Lausanne,
+constatant que la requête et les pièces produites étaient conformes aux réquisits
+légaux et que M.________ n’avait pas justifié par titre que la créance avait été
+acquittée en capital, frais et intérêts, ou qu’un sursis lui avait été
+accordé, a prononcé la faillite de cette société, le jour même, à 11 heures
+30, et a mis les frais, par 200 fr., à sa charge.
+3.
+Le 5 novembre 2018, M.________ a recouru contre
+le jugement de faillite, faisant valoir que la créance avait été acquittée le 1
+er
+octobre 2018. Elle a produit une copie d’un « orange payment slip » d’UBS,
+indiquant que le montant de 1'408 fr. 80 avait été payé à K.________SA le 1
+er
+octobre 2018, par le débit d’un compte personnel détenu par un certain [...].
+L’extrait des registres de l’Office des poursuites du district de Lausanne au 7 novembre
+2018 concernant la recourante ne mentionne qu’une poursuite, également exercée à
+l’instance de l’intimée, dans laquelle un commandement de payer le montant de 16'454
+fr. 90 a été notifié le 5 septembre 2016 et frappé d’opposition totale.
+La poursuite litigieuse n’apparaît pas dans l’extrait.
+Par lettre du 27 novembre 2018, l’intimée a déclaré retirer sa requête de faillite
+du 13 septembre 2018 « suite au règlement complet des primes dues ».
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1, 1
+re
+phrase, LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1), la décision
+du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure
+civile ; RS 272). Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte
+écrit et motivé, introduit auprès de l'instance de recours.
+En l’espèce, le recours a été exercé en temps utile et dans les formes requises.
+Il est ainsi recevable.
+b)
+Dans le cadre du recours de l’art. 174 LP, les parties peuvent faire valoir des faits nouveaux,
+lorsque ceux-ci se sont produits avant le jugement de première instance (art. 174 al. 1, 2
+e
+phrase, LP). Cette disposition spéciale de la loi, au sens de l’art. 326 al. 2 CPC, vise
+les faits nouveaux improprement dits (faux
+nova
+ou
+pseudo-nova
+) ;
+ceux-ci peuvent être invoqués sans restriction et prouvés par pièces, dans le délai
+de recours (TF 5A_899/2014 du 15 janvier 2015 consid. 3.1. et les réf. cit., SJ 2015 I 437).
+La pièce nouvelle produite par la recourante, prouvant le paiement à l’intimée d’un
+montant de 1'408 fr. 80 le 1
+er
+octobre 2018 est ainsi recevable.
+II.
+a)
+Selon l’art. 166 al. 1 LP, à l’expiration
+du délai de vingt jours dès la notification de la commination, le créancier peut requérir
+du juge la déclaration de faillite, en joignant à sa demande le commandement de payer et l’acte
+de commina-tion. Le juge saisi d’une réquisition de faillite doit prononcer celle-ci, sauf
+dans les cas mentionnés aux art. 172 à 173a LP (art. 171 LP).
+b)
+En l’espèce, le délai de l’art.
+166 al. 1 LP a été respecté et, comme l’a considéré à raison le premier
+juge, la requête de faillite et les pièces produites étaient conformes aux réquisits
+légaux. Par ailleurs, aucun des cas mentionnés aux art. 172 à 173a LP n’était
+réalisé à la connaissance du premier juge. En particulier, ce magistrat n’a pas
+été informé du paiement intervenu le 1
+er
+octobre 2018. Au demeurant, l’art. 172 ch. 3 LP exige que la créance ait été payée
+en capital, intérêt et frais ; or, le paiement en question ne réglait pas entièrement
+la créance. C’est donc à juste titre que le premier juge a prononcé la faillite
+de la recourante. Celle-ci ne prétend d’ailleurs pas que les conditions de la faillite n’étaient
+pas remplies en première instance.
+III.
+a)
+En vertu de l'art. 174 al. 2 LP, la décision
+du juge de la faillite peut être déférée à l'autorité de recours, qui peut
+annuler l'ouverture de la faillite lorsque le débiteur, en déposant le recours, rend vraisemblable
+sa solvabilité et établit par titre que depuis lors la dette, intérêts et frais compris,
+a été payée (ch. 1) ou que la totalité de la somme à rembourser a été
+déposée auprès de l'autorité judiciaire supérieure à l'intention du créancier
+(ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions,
+soit le paiement de la dette à l'origine de la faillite, le dépôt de la totalité
+de la somme à rembourser ou le retrait de la requête de faillite et la vraisemblance de la
+solvabilité, sont cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid. 6.1 ; Bosshard, Le
+recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127).
+La condition selon laquelle le débiteur doit rendre vraisemblable sa solvabilité ne doit pas
+être soumise à des exigences trop sévères ; il suffit que la solvabilité
+apparaisse plus probable que l'insolvabilité, en particulier lorsque la viabilité de l'entreprise
+ne saurait être déniée d'emblée (TF 5A_251/2018 du 31 mai 2018 consid. 3.1 ;
+TF 5A_181/2018 du 30 avril 2018 consid. 3.1 ; TF 5A_153/2017 du 21 mars 2017 consid. 3.1 ;
+TF 5A_681/2016 du 24 novembre 2016 consid. 3.1.1 ; TF 5A_810/2015 du 17 décembre 2015 consid.
+3.2.1 ; TF 5A_921/2014 du 11 mars 2015 consid. 3.1 ; TF 5A_469/2012 du 22 août 2012
+consid. 4.1.1 ; Cometta,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, n. 9
+ad
+art. 174 LP ; Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, n. 45
+ad
+art. 174 LP). L'extrait du registre des
+poursuites concernant le failli est en règle générale décisif (TF 5A_251/2018 précité
+consid. 3.1 ; TF 5A_181/2018 précité consid. 3.1 ; TF 5A_126/2010 du 10 juin 2010
+consid. 6.2 et la référence ; Cometta,
+op. cit.
+,
+n. 10
+ad
+art.
+174 LP). L'absence de poursuite en cours n'est pas une preuve absolue de solvabilité, mais constitue
+un indice sérieux de la capacité du débiteur de s'acquitter de ses engagements échus
+(TF 5A_251/2018 précité consid. 3.1 ; TF 5A_181/2018 précité consid. 3.1 ;
+TF 5A_93/2018 du 18 avril 2018 consid. 4.1 et réf. cit.). Le Tribunal fédéral a rappelé
+que la
+ratio legis
+consiste à éviter la faillite lorsque le manque de liquidités suffisantes n'apparaît
+que passager et que l'entreprise du débiteur semble en mesure de survivre économiquement (TF
+5A_328/2011 du 11 août 2011 consid. 2, publié
+in
+SJ 2012 I p. 25).
+b)
+En l’espèce, il ressort de la lettre de l’intimée du 27 novembre 2018 que celle-ci
+retire sa requête de faillite à la suite du « règlement complet des primes dues ».
+En outre, la poursuite en cause n’apparait plus dans l’extrait du registre des poursuites
+au 7 novembre 2018, dont la cour de céans a requis d’office la production. On peut en déduire
+que la dette a été intégralement payée et il y a donc lieu d’admettre que la
+première des conditions légales pour annuler la faillite est réalisée.
+Quant à la condition de solvabilité, on constate à la lecture du même extrait qu’il
+ne mentionne qu’une seule poursuite, exercée à l’instance de la même créancière
+et apparemment périmée puisque le commandement de payer a été frappé d’opposition
+le 5 septembre 2016 (art. 88 LP). Cela suffit pour considérer que la solvabilité de la recourante
+est rendue vraisemblable. La deuxième condition posée par l’art. 174 al. 2 LP est ainsi
+également réalisée.
+IV.
+En conclusion, le recours doit être admis et le jugement annulé en ce sens que la faillite
+de la recourante n'est pas prononcée. Le sort des frais judiciaires de première instance demeure
+inchangé, dès lors qu'au moment où le premier juge a statué, la recourante ne s'était
+pas entièrement acquittée de la dette en poursuite, ce qui a entraîné le jugement
+de faillite.
+Les frais judiciaires de deuxième
+instance, arrêtés à 300 fr., doivent être mis à la charge de la recourante pour
+le même motif.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement est annulé en ce sens que la faillite de M.________ n’est pas prononcée.
+Il est maintenu pour le
+surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M.________,
+‑
+K.________SA (pour Fondation collective LPP K.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
