@@ -1,0 +1,203 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 32"
+decided: "2018-12-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6994296"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-323.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 32
+
+## Regeste
+
+NOUVEAU MOYEN DE FAIT, RÉOUVERTURE DE L'ENQUÊTE | 323 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.12.2018 Décision / 2019 / 32
+
+NOUVEAU MOYEN DE FAIT, RÉOUVERTURE DE L'ENQUÊTE | 323 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+961
+PE16.020181-HNI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+10 décembre 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Umuli
+sa Musaby
+*****
+Art.
+323, 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 10 septembre 2018 par
+L.________
+contre l’ordonnance de refus de reprise de l’instruction rendue le 28 août 2018 par
+le Ministère public de l’arrondissement de l’Est vaudois dans la cause
+n° PE16.020181-HNI
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par décision du 12 février 2015, la Juge de paix du district de la Riviera-Pays-d’Enhaut
+a notamment dit que L.________, qui était en possession d’une caisse enregistreuse KSD LMS
+12’’, devait la restituer à la société [...], ce qui a été fait
+le 7 mai 2015 (P. 5/I p. 3).
+b)
+Par acte du 6 octobre 2016, L.________ a déposé une plainte pénale contre [...], (actuellement
+C.________), domicilié à Territet, et [...], sans domicile connu (P. 4).
+Elle reprochait à C.________ de lui avoir vendu la caisse enregistreuse précitée, alors
+que cet appareil aurait été dérobé par son compagnon [...] au préjudice de la
+société [...].
+c)
+Par
+ordonnance du 11 mai 2017, le Ministère public a ordonné le classement de la procédure
+dirigée contre C.________ (I) et la suspension pour une durée indéterminée de la
+procédure dirigée contre [...] (II) et a dit que les frais de procédure suivaient le sort
+de la cause (III).
+Le Procureur a retenu que C.________ avait rendu
+vraisemblable avoir agi de bonne foi et avoir ignoré la provenance délictueuse de la caisse
+enregistreuse qu’elle avait vendue à la plaignante. Il a en revanche suspendu la procédure
+concernant [...], qui n’avait pas pu être localisé ni entendu.
+d)
+Cette ordonnance n’a pas fait l’objet d’un recours.
+e)
+Par ordonnance du 28 août 2018, le Ministère public a décidé la reprise de l’enquête
+dirigée contre [...], qui avait pu être localisé.
+B.
+Par ordonnance du même jour, le Ministère
+public a refusé de reprendre la procédure pénale classée à l’égard
+de C.________ (I) et a dit que cette ordonnance était rendue sans frais (II).
+Le Procureur a considéré que la plaignante n’avait apporté aucun nouveau moyen de
+preuve ni fait nouveau  au sens de l’art. 323 CPP, le seul élément produit étant
+une déclaration d’un tiers affirmant que la prévenue savait que la caisse enregistreuse
+provenait d’un vol.
+C.
+Par acte du 10 septembre 2018, L.________ a recouru
+devant la Chambre des recours pénale contre cette ordonnance, en concluant, sous suite de frais
+et dépens, à sa réforme en ce sens que la procédure pénale classée à
+l’égard de C.________ soit reprise.
+La recourante a en outre demandé l’assistance judiciaire gratuite, comprenant l’exonération
+d’avances de frais et de sûretés, l’exonération des frais de procédure
+et la désignation de l’avocate Aurélie Cornamusaz, en qualité de conseil juridique
+gratuit.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Interjeté en temps utile devant l’autorité
+compétente, par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant
+aux conditions de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Selon l'art. 323 al. 1 CPP, le ministère
+public ordonne la reprise d'une procédure préliminaire close par une ordonnance de classement
+entrée en force s'il a connaissance de nouveaux moyens de preuves ou de faits nouveaux si ceux-ci
+révèlent une responsabilité pénale du prévenu (let. a) et s'ils ne ressortent
+pas du dossier antérieur (let. b). Ces deux conditions doivent être cumulativement remplies.
+Les moyens de preuves sont nouveaux s'ils étaient inconnus au moment de rendre l'ordonnance de classement
+ou de non-entrée en matière. Ce qui est décisif est de savoir si des informations pertinentes
+figuraient déjà au dossier ou non. Les moyens de preuve ne sont pas considérés comme
+nouveaux s'ils ont été cités, voire administrés, lors de la procédure close,
+sans être toutefois complètement exploités. En revanche, un fait ou un moyen de preuve
+sera qualifié de nouveau lorsque le Ministère public ne pouvait pas en avoir connaissance dans
+la procédure antérieure, même en ayant fait montre de la plus grande diligence (ATF 141
+IV 194 consid. 2.3 p. 197 s.). La procédure préliminaire pourra être reprise notamment
+s'il apparaît ultérieurement qu'un témoin a fait un faux témoignage ou que le prévenu
+fait des aveux (Landshut/Bosshard, in Donatsch/Hansjakob/Lieber (éd.), Kommentar zur Schweizerischen
+Strafprozessordnung, 2e éd., 2014, n. 16 ad art. 323 CPP).
+2.2
+La recourante soutient qu’en produisant des déclarations du propriétaire initial de la
+caisse enregistreuse, elle aurait apporté un moyen de preuve et des faits nouveaux qui ne ressortaient
+pas du dossier antérieur. De plus, contrairement à sa promesse (PV aud. 1, ll. 44-47), C.________
+n’aurait donné aucune information permettant de retrouver [...]. Cette argumentation n’est
+pas convaincante.
+D’une part, [...] a pu être localisé, ce qui a motivé le Procureur à reprendre
+la procédure par ordonnance du 28 août 2018. D’autre part, ce dernier a refusé de
+reprendre la procédure dirigée contre C.________ au motif que le seul élément invoqué
+était une déclaration photocopiée émanant d’un tiers, alléguant que la
+prévenue savait que la caisse enregistreuse provenait d’un vol.
+Il est vrai que l’administrateur du [...] confirme les soupçons à l’égard
+de C.________ quant à la connaissance du vol et à son rôle de « patronne »
+du restaurant (P. 16/1). Toutefois, en se basant sur cette unique pièce pour requérir la reprise
+de la cause, la recourante méconnaît les conditions posées par l’art. 323 CPP, notamment
+celle selon laquelle les faits ou moyens de preuve ne ressortaient pas du dossier antérieur. Or,
+le moyen invoqué était connu du Procureur, puisque, lors de l’audition du 9 février
+2017, C.________ avait d’ailleurs relevé que [...] et l’administrateur du [...] étaient
+« associés » : celui-ci était « le propriétaire »
+et celui-là le « gérant » de l’établissement (PV aud. 1, ll.
+59-62). Il était donc aisé de solliciter l’audition de l’administrateur, ce qui
+n’a pas été fait. Il paraît donc que la pièce produite, qui serait en bref
+l’indication qu’un témoin existait sur certains faits, n’est pas un élément
+nouveau, puisqu’il ressortait du dossier antérieur qu’il était « associé »
+du prévenu.
+De toute manière, si le prévenu [...] devait, lors de son audition, mettre en cause directement
+C.________, le Procureur aurait alors tout loisir de reprendre la procédure dirigée contre
+celle-ci.
+C’est dès lors à juste titre que le Procureur a rendu une ordonnance de refus de reprise
+de l’instruction pénale dirigée contre C.________.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée
+confirmée.
+La requête d’assistance judiciaire doit être rejetée, dès lors que le recours
+était d’emblée dénué de toute chance de succès.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 550
+fr.
+(art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale;
+RSV 312.03.1]), seront mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 28 août 2018 est confirmée.
+III.
+La demande d’assistance judiciaire pour
+la procédure de recours est rejetée.
+IV.
+Les
+frais d’arrêt, par 550 fr. (cinq cent cinquante francs), sont mis à la charge de L.________.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Aurélie Cornamusaz, avocate (pour L.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
