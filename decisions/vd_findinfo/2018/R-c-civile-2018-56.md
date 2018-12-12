@@ -1,0 +1,241 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2018___56"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2018 / 56"
+decided: "2018-12-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20181129144153489_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-036.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-334.md"]
+---
+
+# VD Findinfo Réc-civile / 2018 / 56
+
+## Regeste
+
+RÉCUSATION, TRANSACTION JUDICIAIRE, AUTORITÉ DE RECOURS | 6 al. 1 let. a ROTC, 47 al. 1 let. f CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.12.2018 Réc-civile / 2018 / 56
+
+RÉCUSATION, TRANSACTION JUDICIAIRE, AUTORITÉ DE RECOURS | 6 al. 1 let. a ROTC, 47 al. 1 let. f CPC (CH), 50 al. 2 CPC (CH), 8a al. 7 CDPJ
+
+TRIBUNAL
+CANTONAL
+XZ18.024203
+58
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 12 décembre 2018
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              Mme
+Revey et M. Hack, juges
+Greffière
+:              Mme
+Spitz
+*****
+Art.
+47 al. 1 let. f et 50 al. 2 CPC ; 8a al. 7 CDPJ ; 6 al. 1 let. a ROTC
+Vu la cause en paiement ouverte le 5 juin 2018 par demande simplifiée de
+C.________
+contre
+P.________
+devant le Tribunal des baux,
+vu l’avis du 14 juin 2018 par lequel le président H.________ a notifié à P.________
+le double de la demande et du bordereau déposés le 5 juin 2018 par C.________,
+vu l’exploit du 28 juin 2018 par lequel le président H.________ a cité les parties à
+comparaître à l’audience du Tribunal des baux du 24 octobre 2018 pour l’instruction
+et le jugement de la cause,
+vu les déterminations de P.________ du 2 juillet 2018,
+vu l’avis du 4 juillet 2018 par lequel le président H.________ a notifié à C.________
+les déterminations de P.________, qui en a reçu une copie,
+vu le procès-verbal de l’audience tenue le 24 octobre 2018 devant le Tribunal des baux, présidé
+par H.________ (ci-après : le président), duquel il ressort notamment que P.________ a
+suggéré à ce dernier de se récuser d’office, dans la mesure où il était
+l’auteur de la transaction judiciaire du 31 août 2015 dont l’interprétation faisait
+précisément l’objet du litige opposant les parties, que C.________ a indiqué que
+selon lui la récusation ne se justifiait pas et que le président précité a informé
+les parties qu’il n’entendait pas se récuser d’office, aucun motif de l’art.
+47 CPC n’étant à son sens réalisé,
+vu la demande de récusation formée à cette même occasion par P.________, consignée
+au procès-verbal précité, par laquelle il a requis la récusation du président
+pour les motifs susmentionnés,
+vu la décision prise par le Tribunal des baux au cours de cette même audience de ne pas suspendre
+les débats, mais de surseoir à l’envoi du dispositif du jugement le temps qu’il
+soit définitivement statué sur la demande de récusation,
+vu les déterminations du 26 octobre 2018 par lesquelles le président a en substance conclu
+au rejet de la requête tendant à sa récusation,
+vu le courrier de P.________ du 30 octobre 2018,
+vu la décision du 6 novembre 2018 par laquelle le Tribunal des baux a notamment rejeté la requête
+de récusation,
+vu le recours interjeté le 15 novembre 2018 par lequel P.________ conclut principalement à
+la réforme de la décision précitée en ce sens que sa requête de récusation
+soit admise et que les actes accomplis à l’audience du
+24
+octobre 2018 soient annulés, une nouvelle audience de jugement étant appointée devant
+une cour régulièrement composée, subsidiairement à son annulation et au renvoi de
+la cause à l’instance inférieure pour nouvelle décision dans le sens des considérants
+et encore plus subsidiairement à ce qu’une nouvelle audience devant le Tribunal des baux soit
+appointée, afin qu’il puisse faire valoir ses arguments dans le cadre de la procédure
+au fond,
+vu les déterminations du 21 novembre 2018 par lesquelles le président a en substance contesté
+l’existence d’un motif de récusation,
+vu les déterminations du 23 novembre 2018 par lesquelles C.________ a conclu au rejet du recours
+et à la confirmation de la décision du 6 novembre 2018,
+vu les pièces au dossier ;
+attendu que le recours est dirigé contre une décision statuant sur la récusation d’un
+magistrat de première instance,
+que l'art. 50 al. 2 CPC (Code de procédure civile du 19 décembre 2008 ; RS 272) prévoit
+que la décision sur récusation peut faire l'objet d'un recours au sens des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010 ; RSV 211.02] et 6 al. 1 let. a ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007 ; RSV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC ; Tappy,
+Code de procédure civile commenté, Bâle 2011, nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi, le délai pour recourir est de dix jours à compter du lendemain de la notification
+de la décision (art. 142 al. 1 et 321 al. 2 CPC),
+qu'en l'espèce, le recours a été déposé en temps utile par une partie qui a
+qualité pour recourir,
+que le recours est recevable à la forme ;
+attendu qu’aux termes de l’art. 49 al. 1 CPC, la partie qui entend obtenir la récusation
+d’un magistrat ou d’un fonctionnaire judiciaire la demande au tribunal aussitôt qu’elle
+a eu connaissance du motif de récusation,
+que selon une jurisprudence constante – désormais ancrée à l'art. 49 al. 1
+CPC –, la partie qui a connaissance d'un motif de récusation doit l'invoquer aussitôt,
+sous peine d'être déchue du droit de s'en prévaloir ultérieurement (ATF 139 III 120
+consid. 3.2.1 ; 138 I 1 consid. 2.2 ; 134 I 20 consid. 4.3.1),
+que la diligence de la partie qui demande la récusation doit être appréciée en fonction
+du principe de la bonne foi (Aubry Girardin, Commentaire LTF [loi sur le Tribunal fédéral du
+17 juin 2005 ; RS 173.110], 2014, n. 11 ad art. 36 LTF),
+que, selon la pratique
+constante, celui qui omet de se plaindre immédiatement de la prévention d’un magistrat
+et laisse le procès se dérouler sans intervenir, agit contrairement aux règles de la bonne
+foi et voit son droit se périmer (ATF 138 I 1 consid. 2.2 ; TF 1B_321/2013 du 30 octobre 2013
+consid. 2.1 ; Aubry Girardin, op. cit., n. 11 ad art. 36 LTF),
+que, si la loi ne prévoit
+aucun délai particulier, il y a lieu d’admettre que la récusation doit être formée
+dans les jours qui suivent la connaissance de la cause de la récusation (TF 5A_749/2015 du 27 novembre 2015 ;
+TF 1B_277/2008 du 13 novembre 2008 consid. 2.3
+in
+fine
+; Aubry Girardin, op. cit., n. 11
+ad art. 36 LTF),
+que, dans tous les cas, il est trop long d’attendre près d’un mois avant de former une
+demande de récusation (TF 8F_4/2011 du 18 octobre 2011 consid. 6.1 ; Aubry Girardin, op.
+cit., n. 11 ad art. 36 LTF),
+que, conformément aux principes généraux, une partie peut se voir reprocher d’avoir
+présenté tardivement sa demande de récusation lorsqu’elle aurait pu connaître
+plus tôt le motif de récusation en faisant preuve de la diligence nécessaire (Tappy, in
+CPC commenté, Bâle 2011, n. 14 ad
+art. 49 CPC),
+que, toutefois, si les circonstances qui fondent l’apparence de partialité évidentes
+à tel point que le juge aurait dû se récuser spontanément, le vice doit être
+apprécié avec plus de rigueur qu’une éventuelle tardiveté dans la demande de
+récusation (ATF 134 I 20 consid. 4.3.2 ; TF 4A_151/2014 du 14 octobre 2014
+consid.
+2.1),
+que tel est notamment le cas lorsqu’un magistrat a déposé une plainte pénale assortie
+de conclusions civiles en réparation du tort moral à l’encontre de l’une des parties
+et que celle-ci a été définitivement tranchée quelques mois auparavant (ATF 134 I
+20 précité),
+que la doctrine tend à en déduire que la péremption ne peut exclure la récusation
+pour des motifs graves et manifestes (Tappy, op. cit., n. 22 ad. art. 49 CPC),
+attendu qu’en l’espèce, le recourant avait connaissance, respectivement aurait dû
+avoir connaissance, du motif de récusation prétendu à réception de l’avis du
+14 juin 2018 déjà, celui-ci émanant expressément du président H.________, soit
+du magistrat qui avait également signé le procès-verbal de l’audience au cours de
+laquelle la transaction litigieuse avait été signée,
+que le magistrat susmentionné a en outre signé l’exploit de comparution du 28 juin 2018,
+puis l’avis du 4 juillet 2018,
+que, dans ces circonstances, le recourant, assisté d’un mandataire professionnel, ne peut
+se prévaloir d’avoir pris connaissance de l’identité du magistrat instructeur seulement
+au cours de l’audience du 24 octobre 2018,
+que, partant il y a lieu, à l’instar des premiers juges, de constater que la requête
+du 24 octobre 2018 est tardive,
+que le recourant soutient toutefois que le motif invoqué aurait dû entraîner la récusation
+spontanée dudit magistrat et par conséquent que son droit de requérir sa récusation
+ne serait pas périmé,
+que, s’il devait être suivi, le recourant ne fait valoir aucun indice objectif de partialité
+du magistrat, mais invoque une apparence de prévention à son égard du fait que la transaction
+litigieuse ait été conclue lors d’une audience qu’il présidait,
+que la cour de céans fait sienne l’appréciation convaincante des premiers juges selon
+laquelle le seul fait que le magistrat intimé ait pris acte d’une transaction conclue par
+les parties dans une procédure distincte n’est manifestement pas de nature à donner l’apparence
+qu’il aurait décidé définitivement sur les questions juridiques déterminantes
+pour le jugement des prétentions actuellement litigieuses et, partant, à éveiller un quelconque
+soupçon de partialité s’agissant de la conduite du procès, ce d’autant plus
+que le magistrat n’est pas l’auteur de la transaction, laquelle résulte de la volonté
+des parties,
+qu’en effet, contrairement à ce que soutient le recourant, rien n’indique que le juge
+instructeur ait influencé d’une quelconque manière les termes de la transaction litigieuse,
+s’en soit approprié le contenu ou encore ait un parti pris quant à l’interprétation
+qu’il conviendrait d’en donner,
+que, quoi qu’il en soit, cette question peut demeurer indécise, puisque le motif invoqué
+par le recourant n’est à l’évidence pas grave et manifeste au sens de la jurisprudence
+fédérale et ne justifie donc pas de passer outre la péremption,
+qu’en outre, le CPC prévoyant précisément que le tribunal qui a statué est
+compétent en matière d’interprétation (art. 334 CPC), la jurisprudence invoquée
+par le recourant, relative à un juge ayant déjà statué dans la même cause, n’est
+pas applicable,
+que, partant, le recours est manifestement infondé,
+que le recours déposé le 15 novembre 2018 doit ainsi être rejeté et la décision
+du 6 novembre 2018 confirmée ;
+attendu que les frais judiciaires de deuxième instance, arrêtés à 500 fr. (art. 72
+al. 1 TFJC [tarif des frais judiciaires en matière civile du 28 septembre 2010 ; RSV 270.11.5]),
+sont mis à la charge du recourant qui succombe (art. 106 al. 1 CPC),
+que les déterminations sommaires de l’intimé C.________ ne donnent pas lieu à l’allocation
+de dépens,
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 15 novembre 2018 par P.________ est rejeté.
+II.
+La décision rendue le 6 novembre 2018 par le Tribunal des baux est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 500 fr. (cinq cents francs),
+sont mis à la charge du recourant P.________.
+IV.
+Il n’est pas alloué de dépens.
+V.
+L'arrêt
+est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Pierre-Olivier Wellauer (pour P.________),
+-
+M. Youri Diserens (pour C.________),
+-
+M. H.________, président
+du Tribunal des baux.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. [...], président du Tribunal des baux.
+La greffière :
