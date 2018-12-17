@@ -1,0 +1,105 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___39"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 39"
+decided: "2018-12-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6983658"
+---
+
+# VD Findinfo Décision / 2019 / 39
+
+## Regeste
+
+DÉNONCIATION{EN GÉNÉRAL}, ABSENCE, DEVOIR PROFESSIONNEL, CONTRAVENTION | 55 al. 2 LPAv
+
+## Text
+
+Vaud Tribunal cantonal Chambre des avocats 17.12.2018 Décision / 2019 / 39
+
+DÉNONCIATION{EN GÉNÉRAL}, ABSENCE, DEVOIR PROFESSIONNEL, CONTRAVENTION | 55 al. 2 LPAv
+
+TRIBUNAL
+CANTONAL
+16/2018
+CHAMBRE
+DES AVOCATS
+_______________________________
+Prononcé
+du 17 décembre 2018
+__________________
+Composition
+:               Mme
+COURBAT, présidente
+Greffier
+:
+M.              Hersch
+*****
+Vu la dénonciation le 19 octobre 2018 à la Chambre des avocats par [...], administrateur de
+la [...] (ci-après : [...]), du comportement de Me B.________, avocat à Lausanne,
+vu la décision de non-entrée en matière du 23 octobre 2018 de la Présidente de la
+Chambre des avocats et l’avis donné le même jour au dénonciateur qu’il ne
+serait en pas tenu au courant de la suite donnée à sa dénonciation, le dénonciateur
+ne revêtant pas la qualité de partie,
+vu la nouvelle dénonciation du 14 décembre 2018 de L.________, administratrice de la [...],
+du comportement de Me B.________ ;
+considérant qu’aux termes de l’art. 55 al. 2 LPAv (loi sur la profession d’avocat
+du 9 juin 2015 ; BLV 177.11), le président de la Chambre des avocats peut refuser de donner suite
+à une dénonciation manifestement mal fondée,
+que constitue une dénonciation manifestement mal fondée celle qui, sans qu’il soit besoin
+d’instruire, ne repose à l’évidence sur aucun fait établi, respectivement
+ne porte pas sur une violation des règles professionnelles de l’avocat ;
+considérant qu’en l’espèce, la dénonciatrice reproche en substance à
+Me B.________ d’avoir représenté [...] dans un litige de droit du bail l’opposant
+à la [...] et d’avoir déposé au nom de ce dernier une plainte pénale contre
+L.________,
+que ces faits, qui relèvent de l’exercice habituel de la profession d’un avocat, ne
+portent manifestement pas sur une violation des règles professionnelles de l’avocat, telles
+qu’elles sont décrites à l’art. 12 de la loi sur la libre-circulation des avocats
+du 23 juin 2000 (LLCA ; RS 935.61),
+que par conséquent, en l’absence de tout indice de violation par Me B.________ de ses obligations
+professionnelles, il ne sera pas donné suite à dénonciation de L.________ ;
+considérant qu’aux termes de l’art. 59 al. 2 LPAv, les frais, fixés à un montant
+compris entre 100 fr. et 5'000 fr. (art. 59 al. 1 LPAv), peuvent être mis à la charge du dénonciateur
+en cas de dénonciation abusive,
+qu’en l’espèce, Me B.________ a été dénoncé il y a deux mois seulement
+par [...], lui aussi administrateur de la [...],
+que cette première dénonciation a déjà fait l’objet d’une décision
+de non-entrée en matière le 23 octobre 2018,
+que par conséquent, la seconde dénonciation doit être considérée comme abusive,
+que les frais du présent prononcé, arrêtés à 100 fr., doivent donc être
+mis à la charge de la dénonciatrice L.________.
+Par
+ces motifs,
+la
+Présidente de la Chambre des avocats,
+statuant
+à huis clos :
+I.
+n’entre pas en matière
+sur la dénonciation le 14 décembre 2018 par L.________ du comportement de l’avocat
+B.________,
+à Lausanne.
+II.
+met
+les frais de la décision, arrêtés à 100 fr. (cent francs), à la charge de la
+dénonciatrice L.________.
+III.
+dit
+que
+la décision est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+La décision qui précède, lue et approuvée à huis clos, est notifiée à
+:
+‑
+L.________,
+‑
+Me B.________.
+La présente décision peut faire l'objet d'un recours au Tribunal cantonal dans un délai
+de trente jours dès sa notification. Le recours est exercé conformément à la loi
+sur la procédure administrative (art. 65 LPAv).
+Le greffier :
