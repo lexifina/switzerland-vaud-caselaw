@@ -1,0 +1,351 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___34"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 34"
+decided: "2018-12-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6986389"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 34
+
+## Regeste
+
+NON-LIEU, PRINCIPE DE LA CÉLÉRITÉ, MOTIVATION DE LA DEMANDE, CONDUITE DU PROCÈS, ENQUÊTE PÉNALE | 310 CPP (CH), 385 al. 1 CPP (CH), 5 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.12.2018 Décision / 2019 / 34
+
+NON-LIEU, PRINCIPE DE LA CÉLÉRITÉ, MOTIVATION DE LA DEMANDE, CONDUITE DU PROCÈS, ENQUÊTE PÉNALE | 310 CPP (CH), 385 al. 1 CPP (CH), 5 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+981
+PE17.007448-PGT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+17 décembre 2018
+__________________
+Composition
+:               M.
+M E Y L A N, président
+MM.
+Perrot et Oulevey, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+5 al. 1, 310, 385 al. 1 CPP
+Statuant sur le recours interjeté le 24 octobre 2018 par
+G.________
+contre l’ordonnance de non-entrée en matière rendue le 5 octobre 2018 par le Ministère
+public de l’arrondissement du Nord vaudois dans la cause
+n° PE17.007448-PGT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Durant la nuit du 29 au 30 mars 2017, G.________ a eu une dispute avec sa conjointe, [...]. Deux policiers
+sont intervenus au domicile conjugal à la suite d’un appel passé à 23 h 40 par un
+voisin alerté par l’épouse; une patrouille de renfort a été dépêchée
+à 00 h 04 (P. 13 et 14).
+Lorsque la première patrouille, composée du sgtm [...] et du brg [...], est arrivée sur
+les lieux, les agents ont entendu des cris provenant de l'appartement des époux. [...] leur a expliqué
+que son mari était devenu hystérique, qu'il s'était réfugié dans la chambre
+de leur fille âgée de neuf ans et qu'elle craignait qu'il ne s'en prît physiquement à
+elle. Les policiers se sont rendus dans la chambre de la fille du couple afin de s'assurer que celle-ci
+était en sécurité. Ils ont constaté que G.________ se trouvait dans la chambre en
+question, qu'il était sous l'influence de l'alcool et se tenait debout au milieu de la pièce,
+avec sa fille dans ses bras. Ce n’est qu'après maintes demandes que l'intéressé
+a remis sa fille sur son lit et accepté de suivre les policiers sur le palier de l'appartement.
+L’époux présentait une alcoolémie de 0,61 mg/l (PV aud. 1 et 2; P. 6 et 14). Acheminé
+au poste, l’intéressé a été placé en box de maintien, puis en cellule.
+Vingt minutes plus tard, il a simulé un malaise cardiaque, comme il l’a admis par la suite
+(PV aud. 3, R. 4, p. 2 in fine). Il a été conduit à l’hôpital en ambulance
+sous escorte et garde. Après avoir accaparé le personnel hospitalier durant trois heures, l’intéressé
+a été reconduit en cellule, puis entendu le matin suivant, avant d’être relâché
+sitôt après son audition.
+D’office et sur plainte de [...], le Ministère public de l’arrondissement du Nord vaudois
+a ouvert une procédure pénale contre G.________ sur la base de ces faits, pour lésions
+corporelles simples et pour violence ou menace contre les autorités et les fonctionnaires (art.
+123 ch. 1 et 285 ch. 1 CP [Code pénal suisse; RS 311.0], respectivement). Il était notamment
+reproché au prévenu d’avoir forcé le passage pour rentrer dans son logement alors
+même qu’un policier lui avait intimé l’ordre de rester sur le palier, ainsi que
+d’avoir donné des coups de poing à l’agent [...] et de s’en être ensuite
+pris à l’un des policiers dépêchés en renfort.
+G.________ a été entendu en qualité de prévenu le 30 mars 2017, puis le 14 juin 2017
+(PV aud. 3 et 4).
+b)
+Le 19 juin 2017, soit durant l’enquête dirigée contre lui à raison des faits ci-dessus,
+G.________ a déposé plainte pénale contre les agents [...] et [...] pour violation de
+domicile, lésions corporelles et abus d’autorité, à raison de l’intervention
+durant la nuit du 29 au 30 mars 2017. Faisant état de "multiples contusions" qu’il
+aurait subies lors des différentes phases de l’intervention en cause, le plaignant a produit
+des pièces attestant d'un suivi psychologique. Il a exposé que les policiers s’étaient
+imposés sans avoir été sollicités, dès lors que son épouse, dépressive
+et souffrant alors d’une crise de stress, aurait appelé les urgences psychiatriques du CHUV
+et non la police. Il ajoute avoir été jeté à terre par les premiers gendarmes qui
+s’étaient rendus à son domicile et avoir reçu des coups de leur part; en outre,
+il aurait été à nouveau frappé avant d’être jeté en cellule. Selon
+lui, l’intervention des policiers serait totalement disproportionnée. En particulier, il aurait
+été inutile de procéder à une visite domiciliaire et à une fouille corporelle.
+c)
+Par suite de cette plainte, le Ministère public a encore uniquement délivré un mandat
+d’investigation à la police en vue de faire produire le journal des événements concernant
+l’intervention du 29 mars 2017 vers 23 h 40 et l’enregistrement sonore des prétendus
+appels de l’épouse du prévenu au CET peu auparavant (P. 12). C’est cette mesure
+d’instruction qui a établi que, comme déjà indiqué, la police avait été
+appelée non pas par [...] mais, bien plutôt, par un voisin (P. 13).
+B.
+a)
+Par ordonnance du 5 octobre 2018, notifiée
+le 16 octobre suivant, le Ministère public a refusé d’entrer en matière sur la plainte
+(I) et a mis les frais, par 150 fr., à la charge du plaignant (II).
+Le Procureur a d’abord relevé que le prévenu tentait, par sa plainte, de retourner la
+situation en se faisant passer pour une victime, que la police était intervenue suite à une
+demande d’assistance du voisin qui avait été approché par l’épouse du
+prévenu, que celle-ci était en pleurs et sollicitait de l’aide, qu’elle avait expliqué
+aux policiers que son mari était devenu hystérique et qu’elle craignait qu’il ne
+s’en prît physiquement à elle, de sorte que c’était à bon droit que les
+agents avaient pénétré dans le logement.
+Le magistrat a ensuite considéré que rien n'indiquait que les policiers eussent agi contrairement
+à la loi, notamment de façon injustifiée ou disproportionnée. Au contraire, tout
+démontrait qu'ils avaient dû faire usage de la force pour contenir le plaignant qui, sous l'emprise
+de l'alcool et hors de lui, n'obéissait pas aux injonctions alors même qu'aucune circonstance
+ou urgence ne commandait pareille attitude. L’intéressé a eu demeurant admis avoir adopté
+un comportement inadéquat (PV aud. 3, R. 4 et 10), allant jusqu’à feindre un malaise
+cardiaque pour être conduit à l'hôpital, estimant qu'il y serait mieux qu'en cellule (PV
+aud. 3, R. 4; PV aud. 4, R. 5). Il serait ainsi malvenu de s'en prendre aux forces de l'ordre qui, au
+gré de l'analyse de la situation qui leur avait été fournie, avaient agi d'une façon
+qui ne prêtait pas le flanc à la critique. Le Procureur a ainsi considéré que la
+plainte s'apparentait à une dénonciation calomnieuse, de sorte que son auteur devait supporter
+les frais de la décision.
+b)
+Par ordonnance pénale du 16 octobre 2018, le Ministère public a condamné G.________, pour
+lésions corporelles simples et violence ou menace contre les autorités et les fonctionnaires,
+à une peine pécuniaire de 150 jours-amende à 150 fr. le jour-amende, avec sursis pendant
+trois ans, et à une amende de 6'000 fr., convertible en une peine privative de liberté de substitution
+de 40 jours à défaut de paiement, les frais étant mis à sa charge. Le prévenu
+a formé opposition à cette ordonnance. La procédure d’opposition est pendante.
+C.
+Par acte du 24 octobre 2018, G.________ a recouru
+devant la Chambre des recours pénale contre l’ordonnance de non-entrée en matière
+du 5 octobre 2018, en concluant à son annulation et au renvoi de la cause au Ministère public
+pour complément d'instruction. Le recourant a produit des pièces.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public en application de l’art. 310
+CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant
+l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let.
+b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse ; BLV 312.01];
+art. 80 LOJV [loi vaudoise d’organisation judiciaire; BLV 173.01]).
+Interjeté dans le délai légal auprès de l’autorité compétente par
+la partie plaignante, qui a la qualité pour recourir (cf. art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+2.1.1
+Aux termes de l'art. 310 al. 1 CPP, une ordonnance
+de non-entrée en matière est rendue immédiatement – c’est-à-dire sans
+qu’une instruction soit ouverte (art. 309 al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 consid.
+2.1; Cornu,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 2 ad art. 310 CPP) – par le ministère public lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 s. CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310 CPP)
+ou après une procédure préliminaire limitée aux investigations de la police (art.
+300 al. 1 et 306 s. CPP), (a) que les éléments constitutifs de l'infraction ou les conditions
+à l'ouverture de l'action pénale ne sont manifestement pas réunis, (b) qu'il existe des
+empêchements de procéder ou (c) que les conditions mentionnées à l'art. 8 CPP imposent
+de renoncer à l'ouverture d'une poursuite pénale (TF 1B_111/2012 du 5 avril 2012 consid. 2.1;
+TF 1B_67/2012 du 29 mai 2012 consid.2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le Ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2).
+2.1.2
+Le Code de procédure pénale ne spécifie
+le délai dans lequel doit être rendue une ordonnance de non-entrée en matière. Il
+découle de ce silence que le ministère public doit uniquement veiller à ne pas violer
+le principe de célérité (CREP 19 mars 2018/212 consid. 6.2; Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 10 ad art. 310 CPP).
+L’art. 5 al. 1 CPP impose aux autorités
+pénales d’engager les procédures pénales sans délai et de les mener à
+terme sans retard injustifié. Pour déterminer la durée du délai raisonnable au sens
+de l’art. 29 al. 1 Cst., tel que précisé à l’art. 5 CPP, il y a lieu de se
+fonder sur des éléments objectifs. Doivent notamment être pris en compte le degré
+de complexité de l'affaire, l'enjeu que revêt le litige pour l'intéressé ainsi que
+le comportement de ce dernier et des autorités compétentes (JdT 2012 III 27 et les réf.
+citées; CREP 15 janvier 2013/12; CREP 1
+er
+mars 2013/112). Le terme "immédiatement" de l'art. 310 CPP ne veut pas dire que le seul
+fait que du temps ait passé depuis la dénonciation ou le rapport de police équivaut à
+l'ouverture de l'instruction interdisant ainsi le prononcé d'une ordonnance de non-entrée en
+matière (CREP 19 mars 2018/212 précité, ibid.).
+2.1.3
+Lorsque, hormis des investigations policières,
+aucune mesure d’instruction n’a été mise en œuvre depuis la plainte, pas plus
+qu’une ordonnance d’ouverture d’instruction (art. 309 al. 3 CPP) n’a été
+rendue dans l’intervalle, le Ministère public conserve la faculté de statuer par voie
+d’ordonnance de non-entrée en matière nonobstant le long délai écoulé
+depuis sa saisine (TF 1B_111/2012 du 5 avril 2012 consid. 2.1 et 2.2; CREP 19 septembre 2014/686 consid.
+2.1.2; CREP 24 juin 2014/432).
+2.2
+Le droit d'être entendu, tel qu'il est garanti par l'art. 29 al. 2 Cst. (Constitution fédérale
+de la Confédération du 18 avril 1999; RS 101) et, en procédure pénale, par l'art. 107 CPP,
+comprend notamment pour le justiciable le droit d'obtenir l'administration des preuves pertinentes et
+valablement offertes, de participer à l'administration des preuves essentielles et de se déterminer
+sur son résultat lorsque cela est de nature à influer sur la décision à rendre (TF
+1B_526/2012 consid. 2.1; ATF 133 I 270 consid. 3.1; ATF 126 I 15 consid. 2a/aa; ATF 124 I 49 consid.
+3a).
+En cas de non-entrée en matière, le droit d’être entendu s’exerce au moyen
+du recours et la partie plaignante a donc la possibilité de compléter sa plainte et de présenter
+des moyens de preuve complémentaires (CREP 3 décembre 2018/938 consid. 2.2; CREP 19 avril 2016/253
+consid. 2.2).
+2.3
+L'art. 385 al. 1 CPP dispose que, si le code exige
+que le recours soit motivé, la personne ou l'autorité qui recourt doit indiquer précisément
+les points de la décision qu'elle attaque (let. a), les motifs qui commandent une autre décision
+(let. b) et les moyens de preuve qu'elle invoque (let. c). Les motifs au sens de l'art. 385 al. 1 let.
+b CPP doivent être étayés par le recourant sous l'angle des faits et du droit (TF 6B_347/2016
+du 17 février 2017 consid. 4.1).
+En particulier, le recourant doit énoncer "les motifs qui commandent une autre décision"
+(art. 385 al. 1 let. b CPP), à savoir les arguments, de fait ou de droit, sur lesquels il prétend
+se fonder pour faire modifier la décision en sa faveur (Pitteloud, Code de procédure pénale
+suisse [CPP], Commentaire à l’usage des praticiens, Zurich/St-Gall 2012, n. 1126; Lieber,
+in
+: Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozessordnung, 2
+e
+éd., Zurich/Bâle 2014, n. 2 ad art. 385 CPP). Ainsi, il doit indiquer dans quelle mesure et
+sous quel angle il entend critiquer l’établissement des faits ou l’application du droit
+(Calame,
+in
+: Kuhn/Jeanneret [éd.], op. cit., n. 20 ad art. 385 CPP). Il n’est pas entré en
+matière sur les arguments qui résultent seulement d’un renvoi à des pièces
+du dossier ou à des écritures antérieures (Rémy, op. cit., n. 4 ad art. 396 CPP et
+les réf. cit.).
+Même si l’autorité de recours applique le droit d'office, l’affaire se présente
+différemment en deuxième instance, vu la décision déjà rendue. Le recourant
+ne peut donc se borner à simplement reprendre des allégations de fait ou des arguments de droit
+présentés devant l’autorité de poursuite pénale, mais il doit s'efforcer d'établir
+que, sur les faits constatés ou sur les conclusions juridiques qui en ont été tirées,
+l’ordonnance attaquée est entachée d'erreurs. Il ne peut le faire qu'en reprenant la
+démarche du procureur et en mettant le doigt sur les failles de son raisonnement. Si la motivation
+du recours est identique aux moyens qui avaient déjà été présentés devant
+le procureur – notamment dans le délai de prochaine clôture (cf. art. 318 CPP) –
+avant la reddition de l’ordonnance attaquée, ou si elle ne contient que des critiques toutes
+générales de l’ordonnance attaquée ou encore si elle ne fait que renvoyer aux moyens
+soulevés devant le procureur, elle ne satisfait pas aux exigences de l’art. 385 al. 1 CPP
+et l’autorité de recours n’a pas à entrer en matière (CREP 5 juin 2018/418
+consid. 3.2.1; CREP 8 mars 2016/162; CREP 31 mai 2016/355 confirmé sur ce point par TF 6B_991/2016
+du 3 novembre 2017 consid. 2.2.3).
+2.4
+Soulevant uniquement un moyen d’ordre procédural, le recourant soutient que l’ordonnance
+attaquée et l’ordonnance pénale du 16 octobre 2018, bien que rendues dans la même
+procédure, ne comporteraient pas des éléments de fait identiques; il fait ainsi valoir
+que son droit d’être entendu aurait été violé car il aurait été empêché
+de prendre connaissance du résultat de l’instruction menée après sa plainte du 19
+juin 2017. Le recourant ajoute qu’une non-entrée en matière rendue 15 mois après
+l’audition du mois de juin 2017 serait beaucoup trop long pour répondre à la condition
+de l’immédiateté. Partant, après une si longue durée, il aurait incombé
+au Ministère public de lui donner accès au dossier et de lui permettre de faire valoir ses
+moyens nouveaux.
+3.
+3.1
+Dès lors qu’en cas de non-entrée
+en matière, le droit d’être entendu s’exerce au moyen du recours selon les principes
+déjà exposés (consid. 2.2 ci-dessus), le procureur n’était pas tenu d’entendre
+le plaignant ni de l’inviter à présenter des moyens de preuve complémentaires. Il
+découle en outre de la jurisprudence résumée au considérant 2.1.2 ci-dessus que le
+procureur peut procéder à certaines vérifications simples avant de refuser d’entrer
+en matière et qu’il n’est pas tenu, dans un tel contexte, d’ouvrir une instruction.
+Enfin, pour les motifs déjà indiqués (consid. 2.1.3 ci-dessus), le Ministère public
+conserve la faculté de statuer par voie d’ordonnance de non-entrée en matière nonobstant
+le long délai écoulé depuis sa saisine.
+3.2
+En l’espèce, l’enquête du Ministère public dirigée contre G.________
+était quasiment terminée lors du dépôt de la plainte du recourant. Celle-ci n’a
+donc pas amené le procureur à procéder lui-même à des mesures d’instruction.
+Le magistrat s’est bien plutôt contenté d’inviter la police à produire le
+journal des événements concernant l’intervention de la nuit du 29 au 30 mars 2017 et
+l’enregistrement sonore des appels téléphoniques au CET la nuit en question. Cette plainte
+n’a donc pas donné lieu à des opérations qui auraient justifié une interpellation
+de l’intéressé, dès lors que celui-ci disposait de la faculté d’exercer
+son droit d’être entendu au moyen d’un recours, ce qu’il a d’ailleurs fait.
+Quant au laps de temps s’étant écoulé entre le dépôt de cette plainte
+et la non-entrée en matière, il ne procède d’aucune violation du droit, compte tenu
+des principes mentionnés plus haut.
+Pour le surplus, le recours ne comporte aucun élément susceptible de remettre en cause l’appréciation
+du procureur quant au sort de la plainte. C’est ainsi que le recourant ne soutient pas clairement,
+motifs à l’appui, que les policiers n’auraient pas été en droit d’agir
+comme ils l’ont fait. Il ne fait pas davantage valoir que le raisonnement du procureur serait erroné
+s’agissant de l’urgence de la situation et du caractère proportionné de l’intervention
+des agents. Aussi bien, les quelques passages du mémoire de recours ayant un lien avec les faits
+y figurent uniquement à l’appui de la démonstration procédurale faisant l’objet
+du recours et il n’y a pas lieu d’entrer en matière sur le recours en tant qu’il
+porte implicitement sur le fond, compte tenu de cette motivation lacunaire. Enfin, l’ordonnance
+n’est pas contestée séparément quant au sort des frais.
+4.
+En définitive, le recours, manifestement
+mal fondé, doit être rejeté sans échange d’écritures (art. 390 al. 2 CPP)
+dans la mesure où il est recevable, et l'ordonnance attaquée confirmée.
+Les
+frais de la procédure de recours, constitués en l'espèce du seul émolument d’arrêt,
+par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; BLV 312.03.1]), seront mis à la charge du recourant, qui succombe
+(art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 5 octobre 2018 est confirmée.
+III.
+Les frais d’arrêt, par 990 fr. (neuf
+cent nonante francs), sont mis à la charge du recourant.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jacques Ballenegger, avocat (pour G.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
