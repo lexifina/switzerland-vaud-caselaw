@@ -1,0 +1,188 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2018___57"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2018 / 57"
+decided: "2018-12-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6962630"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2018 / 57
+
+## Regeste
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH), 49 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 20.12.2018 Réc-civile / 2018 / 57
+Vaud Tribunal cantonal Cour administrative 20.12.2018 Réc-civile / 2018 / 57
+Vaud Tribunal cantonal Cour administrative 20.12.2018 Réc-civile / 2018 / 57
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH), 49 CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+GA15.049466
+60
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 20 décembre 2018
+____________________________
+Présidence
+de               M
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+47 al. 1 let. f et 49 CPC ; 8a al. 3 et 8b al. 4 CDPJ
+Vu le signalement d’un mineur en danger dans son développement adressé le 28 septembre
+2018 au Service de protection de la jeunesse (ci-après : SPJ), ORPM du Nord vaudois, duquel
+il ressort notamment que l’enfant A.X.________ aurait été victime d’actes d’ordre
+sexuel de la part de son grand-père,
+vu le rapport du SPJ transmis le 3 décembre 2018 à la Justice de paix des districts du Jura-Nord
+vaudois et du Gros-de-Vaud, duquel il ressort notamment que le SPJ entend adresser une dénonciation
+pénale au Ministère public en proposant le classement de l’affaire dans l’intérêt
+de la mineure et qu’une fois la procédure pénale terminée, un soutien aux parents
+s’avérera nécessaire dans le but de régler le droit de visite du père et de
+soutenir la mère dans la mise en place d’un suivi thérapeutique pour l’enfant A.X.________,
+le SPJ demandant par conséquent à la Justice de paix précitée d’ouvrir formellement
+une évaluation en limitation de l’autorité parentale et de confier ce mandat à son
+service,
+vu la dénonciation pénale adressée le 11 décembre 2018 au Ministère public du
+Nord vaudois par le Chef du SPJ, de laquelle il ressort qu’en 2014, [...], mère de A.X.________,
+aurait surpris le grand-père de l’enfant prénommée embrassant sa petite-fille sur
+la bouche et que l’enfant aurait déclaré à sa mère que son grand-père
+avait mis sa main dans sa culotte par derrière, disant qu’il était «
+dégueulasse
+»,
+l’enfant n’ayant plus revu son grand-père depuis ; que [...], père de A.X.________,
+a confirmé que son père, soit le grand-père de A.X.________, avec lequel il vit, avait
+eu des attitudes déplacées envers sa fille par le passé, qu’il était gravement
+malade et qu’il allait bientôt mourir ; que A.X.________ dit ne plus se souvenir de ces
+événements, mais savoir qu’elle ne peut pas aller chez son père à cause de
+son grand-père ; que compte tenu des circonstances, en particulier du grand âge et de
+l’état de santé du grand-père de A.X.________, ainsi qu’en l’absence
+de tout risque de récidive, le SPJ a suggéré au Ministère public de ne pas poursuivre
+l’infraction,
+vu la demande de récusation du 12 décembre 2018 de la Première juge de paix des districts
+du Jura – Nord vaudois et du Gros-de-Vaud, informant la Cour de céans que la tante de A.X.________,
+B.X.________, est gestionnaire de dossiers au sein du greffe de protection de l’adulte et de l’enfant
+de son office ; que le dossier a été traité par la Justice de paix des districts
+du Jura – Nord vaudois et du Gros-de-Vaud durant le temps de l’enquête préalable
+du SPJ, mais qu’il lui semble difficile de continuer à le faire au vu du résultat de
+cette enquête ; qu’au vu du contenu de la dénonciation pénale du 11 décembre
+2018 et de l’enquête en limitation de l’autorité parentale, il faudra probablement
+pourvoir à la désignation d’un curateur
+ad
+hoc
+pour représenter l’enfant, la Première
+juge de paix demandant par conséquent que l’enquête en limitation ainsi que l’éventuelle
+mesure de protection de l’enfant qui pourrait être instituée, de même que l’éventuelle
+désignation d’un curateur de représentation dans le cadre de la procédure pénale,
+soient traitées par un autre office ;
+vu les pièces du dossier,
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+du 12 décembre 2018 en vertu des art. 8a al. 3 CDPJ (Code de droit privé judiciaire vaudois
+du 12 janvier 2010 ; RSV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal
+du 13 novembre 2007 ; RSV 173.31.1),
+que la demande est ainsi recevable ;
+attendu que la Justice de paix des districts du Jura – Nord vaudois et du Gros-de-Vaud est saisie
+d’une requête du SPJ tendant à l’ouverture formelle d’une enquête en
+limitation de l’autorité parentale concernant l’enfant mineure A.X.________,
+que la tante de cette enfant, B.X.________, travaille comme gestionnaire de dossiers au sein de cet office,
+que la Première juge de paix considère qu’il est délicat pour les magistrats de
+son office de continuer à traiter le dossier de A.X.________ ensuite du résultat de l’enquête
+préalable, notamment en raison du fait que le père de l’enfant prénommée est
+le beau-frère d’B.X.________,
+qu'à teneur de l'art. 47 al. 1 let. f CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), les magistrats et fonctionnaires judiciaires se récusent lorsqu'ils pourraient
+être prévenus, notamment en raison d'un rapport d'amitié ou d'inimitié avec une partie
+ou son représentant,
+qu'à teneur de l'art. 49 CPC, la partie qui entend obtenir la récusation d'un magistrat ou
+d'un fonctionnaire judiciaire la demande au tribunal aussitôt qu'elle a eu connaissance du motif
+de récusation, qu’elle doit rendre vraisemblables les faits qui motivent sa demande (al. 1)
+et que le magistrat ou le fonctionnaire judiciaire concerné se prononce sur la demande de récusation
+(al. 2),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge impartial, qui découle des art. 30 al. 1 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 §1 CEDH (Convention de
+sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950 ; RS
+0.101), s'oppose à ce que des circonstances extérieures au procès puissent influencer
+le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie
+(TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid. 2.1 ;
+ATF 138 I 1 consid. 2.2 et les réf. citées),
+qu'en la matière, même les apparences peuvent revêtir de l'importance, pour autant qu'elles
+fassent redouter une attitude partiale du ou des magistrats, qu'elles soient objectives et résultent
+de faits déterminés (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012
+du 4 juin 2012 consid. 2.1 ; ATF 138 I 1 consid. 2.2 et les réf. citées),
+que la Cour de céans a admis la récusation en corps de la Justice de paix et la transmission
+de la cause à un autre office dans des affaires présentant des similitudes avec celle-ci (cf.
+p.ex. CA 31 octobre 2018/46 ; CA 29 juin 2017/26),
+qu'en l'espèce, B.X.________, tante de l’enfant A.X.________, travaille au sein du greffe
+de protection de l’adulte et de l’enfant de la Justice de paix des districts du Jura –
+Nord vaudois et du Gros-de-Vaud,
+qu’à ce titre, elle entretient des relations professionnelles régulières avec les
+magistrats et les collaborateurs de cette autorité,
+qu'il peut résulter de ces relations un rapport d'amitié étroite ou d'inimitié personnelle
+entre les membres de l’office et B.X.________,
+que ce seront ces mêmes membres qui seront appelés à entreprendre des démarches dans
+le cadre de l’enquête en limitation de l’autorité parentale qui doit être
+ouverte,
+qu'afin de garantir l'impartialité de l'autorité appelée à traiter cette procédure,
+la demande de récusation présentée par la Première juge de paix des districts du
+Jura – Nord vaudois et du Gros-de-Vaud doit être admise,
+que dans un tel cas, la cause doit être transmise dans l'état où elle se trouve à
+une autre juridiction ayant les mêmes compétences (art. 8b al. 4 CDPJ),
+que la cause sera en l'espèce transmise à la Justice de paix du district de la Broye-Vully ;
+attendu que la présente décision sera rendue sans frais judiciaires, ni dépens (Tappy,
+Commentaire romand, Code de procédure civile, 2
+e
+éd. 2019, n. 28 ad art. 48 CPC).
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 12 décembre 2018 par la Première juge
+de paix des districts du Jura – Nord vaudois et du Gros-de-Vaud est admise.
+II.
+La cause est transmise dans l'état où elle se trouve à la Justice de paix du district
+de la Broye-Vully.
+III.
+L'arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Mme la Première Juge de paix des districts du Jura – Nord vaudois et du Gros-de-Vaud.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Première juge de paix du district de la Broye-Vully, avec le dossier.
+La greffière :
