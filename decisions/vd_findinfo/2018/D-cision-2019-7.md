@@ -1,0 +1,237 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 7"
+decided: "2018-12-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6986583"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-353.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 7
+
+## Regeste
+
+FICTION DE LA NOTIFICATION, OPPOSITION TARDIVE | 354 CPP (CH), 356 al. 2 CPP (CH), 85 al. 4 CPP (CH), 90 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.12.2018 Décision / 2019 / 7
+
+FICTION DE LA NOTIFICATION, OPPOSITION TARDIVE | 354 CPP (CH), 356 al. 2 CPP (CH), 85 al. 4 CPP (CH), 90 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+975
+PE17.020413-DSO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 décembre 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Abrecht et Perrot, juges
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+85 al. 4 let. a CPP
+Statuant sur le recours interjeté le 10 décembre 2018 par
+L.________
+contre le prononcé rendu le 29 novembre 2018 par le Tribunal de police de l'arrondissement de La
+Côte dans la cause
+n° PE17.020413-DSO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+ordonnance pénale du 30 octobre 2018, le Ministère public de l'arrondissement de La Côte
+a condamné L.________ pour abus de confiance, escroquerie, conduite sans autorisation, conduite
+d'un véhicule dépourvu d'assurance responsabilité civile et conduite sans être porteur
+du permis de conduire, à une peine privative de liberté de 6 mois, sous déduction d'un
+jour de détention provisoire, et à une amende de 200 fr., convertible en 2 jours de peine privative
+de liberté de substitution en cas de non-paiement fautif.
+b)
+L'ordonnance pénale du 30 octobre 2018 a été envoyée le même jour par lettre
+recommandée au prévenu à l’adresse de son domicile à [...].
+Le prévenu n'a pas retiré ce pli dans le délai postal de garde, qui venait à échéance
+le 7 novembre 2018 (P. 52).
+Par pli simple du 12 novembre 2018, le Procureur a adressé au prévenu une copie de l’ordonnance
+pénale qui lui avait été retournée avec la mention « non réclamé »,
+en attirant son attention sur le fait que cette communication ne faisait pas courir un nouveau délai
+de recours ou d’opposition (P. 50).
+c)
+Par acte du 23 novembre 2018 (P. 51), l’avocat
+François Gillard, agissant au nom de L.________, a informé le procureur qu’il formait
+opposition contre l’ordonnance pénale, en expliquant que dans la mesure où son client
+n’avait pu prendre connaissance de cette ordonnance pénale que le 14 novembre 2018 (il aurait
+été auparavant malade), l’opposition était formée en temps utile.
+B.
+Par prononcé du 29 novembre 2018, le Tribunal
+de police de l'arrondissement de La Côte a déclaré irrecevable l'opposition à l'ordonnance
+pénale rendue par le Ministère public de l'arrondissement de La Côte le 30 octobre 2018
+formée le 23 novembre 2018 par L.________ (I), a dit que cette ordonnance était exécutoire
+(II) et a rendu son prononcé sans frais (III).
+Le Tribunal de police a rappelé que l'opposition devait s'exercer dans les dix jours dès la
+notification de l'ordonnance pénale, soit dans le cas d'espèce jusqu'au 19 novembre 2018 au
+plus tard, de sorte que l'opposition déposée par L.________ le 23 novembre 2018 était
+manifestement tardive.
+C.
+Par acte du 10 décembre 2018, L.________
+a recouru contre ce prononcé, en concluant implicitement à sa réforme en ce sens qu'il
+soit constaté qu'il avait été empêché sans sa faute de faire opposition à
+temps à l'ordonnance pénale qui lui avait été notifiée le 7 novembre 2018, qu'une
+restitution de délai d'opposition lui soit accordée et que l'opposition qu'il avait formée
+le 23 novembre 2018 soit déclarée recevable, l'ordonnance pénale du 30 novembre 2018 étant
+annulée.
+En droit
+:
+1.
+1.1
+Le prononcé par lequel un tribunal de première
+instance, statuant sur la validité de l'opposition formée par le prévenu contre une ordonnance
+pénale rendue par le Ministère public (cf. art. 356 al. 2 CPP [Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0]), déclare l'opposition irrecevable, par exemple pour
+cause de tardiveté, est susceptible de recours selon les art. 393 ss CPP (Gilliéron/Killias,
+in : Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 5 ad art. 356 CPP ; Riklin, in : Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar,
+Schweizerische Strafprozessordnung, Jugendstrafprozess-ordnung, 2
+e
+éd., Bâle 2014, n. 2 ad art. 356 CPP ; CREP 25 juillet 2018/563 ; CREP 24 avril 2017/266).
+Le recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art. 396
+al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art.
+13 LVCPP [Loi d'introduction du Code de procédure pénale suisse du 19 mai 2009 ; RSV 312.01]
+; art. 80 LOJV [Loi d'organisation judiciaire du 12 décembre 1979 ; RSV 173.01]).
+1.2
+Interjeté en temps utile devant l’autorité compétente par le prévenu qui a
+qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le
+recours est recevable.
+2.
+2.1
+L’ordonnance pénale est notifiée
+par écrit aux personnes et aux autorités qui ont qualité pour former opposition (art.
+353 al. 3 CPP). Peuvent former opposition contre l’ordonnance pénale devant le Ministère
+public, par écrit et dans les dix jours, le prévenu, les autres personnes concernées et,
+si cela est prévu, le premier procureur ou le procureur général de la Confédération
+ou du canton, dans le cadre de la procédure pénale pertinente (art. 354 al. 1 CPP). Si aucune
+opposition n’est valablement formée, l’ordonnance pénale est assimilée à
+un jugement entré en force (art. 354 al. 3 CPP). En application de l'art. 356 al. 2 CPP, le tribunal
+de première instance statue sur la validité de l'ordonnance pénale et de l'opposition.
+Si l'opposition a été formée tardivement, le tribunal la déclare irrecevable. Elle
+est tardive si elle a été adressée au Ministère public après le délai de
+dix jours prévu par l'art. 354 al. 1 CPP.
+2.2
+Sauf disposition contraire du CPP, les communications des autorités pénales sont notifiées
+en la forme écrite (art. 85 al. 1 CPP). Selon l’art. 85 al. 2 CPP, la notification se fait
+en principe par lettre signature ou par tout autre mode de communication impliquant un accusé de
+réception, notamment par l’entremise de la police. Le prononcé est réputé notifié
+lorsqu’il a été remis au destinataire, à l’un de ses employés ou à
+toute personne de plus de seize ans vivant dans le même ménage (85 al. 3 CPP).
+Aux termes de l'art. 85 al. 4 let. a CPP, un prononcé est réputé notifié lorsque,
+expédié par lettre signature, il n'a pas été retiré dans les sept jours à
+compter de la tentative infructueuse de remise du pli, si la personne concernée devait s'attendre
+à une telle remise. La personne concernée ne doit s'attendre à la remise d'un prononcé
+que lorsqu'il y a une procédure en cours qui impose aux parties de se comporter conformément
+aux règles de la bonne foi, à savoir de faire en sorte, entre autres, que les décisions
+relatives à la procédure puissent leur être notifiées. Le devoir procédural
+d'avoir à s'attendre avec une certaine vraisemblance à recevoir la notification d'un acte officiel
+naît avec l'ouverture d'un procès et vaut pendant toute la durée de la procédure
+(ATF 130 III 396 consid. 1.2.3 ; TF 6B_1336/2017 du 22 mai 2017 consid. 2.2 ; TF
+6B_233/2017 du 12 décembre 2017).
+Il est admis que la personne concernée doit s'attendre à la remise d'un prononcé lorsqu'elle
+est au courant qu'elle fait l'objet d'une instruction pénale au sens de l'art. 309 CPP (TF 6B_233/2017
+du 12 décembre 2017 consid. 2.1 ; TF 6B_1032/2015 du 25 mai 2016 consid. 1.1 et les références
+citées). Ainsi, un prévenu informé par la police d'une procédure préliminaire
+le concernant, de sa qualité de prévenu et des infractions reprochées doit se rendre compte
+qu'il est partie à une procédure pénale et donc s'attendre à recevoir, dans ce cadre-là,
+des communications de la part des autorités, y compris un prononcé (TF 6B_1032/2015 du 25 mai
+2016 consid. 1.1 ; TF 6B_314/2012 du 18 février 2013 consid. 1.3.2 ; TF 6B_281/2012
+du 9 octobre 2012 consid. 1.1).
+De jurisprudence constante, celui qui se sait partie à une procédure judiciaire et qui doit
+dès lors s'attendre à recevoir notification d'actes de l’autorité, est tenu de relever
+son courrier ou, s'il s'absente de son domicile, de prendre des dispositions pour que celui-ci lui parvienne
+néanmoins. A ce défaut, il est réputé avoir eu, à l'échéance du délai
+de garde, connaissance du contenu des plis recommandés que le juge lui adresse. Une telle obligation
+signifie que le destinataire doit, le cas échéant, désigner un représentant, faire
+suivre son courrier, informer les autorités de son absence ou leur indiquer une adresse de notification
+(ATF 139 IV 228 consid. 1.1 et les références citées).
+2.3
+En l’espèce, le recourant, entendu le 4 juin 2018 par le procureur et le
+27
+septembre 2018 par la police en qualité de prévenu, ne conteste pas qu’il savait faire
+l’objet d’une procédure pénale. Il devait ainsi s’attendre à recevoir
+des communications de la part des autorités, notamment une ordonnance pénale. Il devait, dès
+lors, relever son courrier ou prendre des mesures appropriées pour prendre connaissance des décisions
+relatives à cette procédure, en particulier de l’ordonnance pénale du 30 octobre
+2018. Cette ordonnance pénale, envoyée à l’adresse communiquée par le recourant,
+lui a donc été notifiée valablement.
+L’argumentation du recourant, selon laquelle il aurait été retenu à l'étranger
+et y aurait été "très malade", n’affecte pas la validité de la notification
+intervenue à l’issue du délai postal de garde, conformément aux principes rappelés
+ci-dessus. Elle justifierait tout au plus la restitution du délai d’opposition, comme le recourant
+l’indique d’ailleurs lui-même dans son recours en exposant qu' « [a]utant
+que nécessaire, le délai d’opposition doit lui être restitué, et cela en raison
+de la cause objective ne dépendant pas de sa volonté qui l’a empêché de former
+opposition plus vite ».
+Or, bien qu’assisté d’un avocat, le recourant n’a formulé aucune demande
+de restitution du délai d’opposition auprès du Ministère public, qui aurait été
+compétent pour statuer à cet égard (art. 94 al. 2 CPP). La chambre de céans, qui
+n’est pas compétente pour statuer sur une telle demande, ne peut que constater que l’opposition
+n’a pas été déposée dans les dix jours à compter de celui où l’ordonnance
+pénale était réputée notifiée, soit à compter du 7 novembre 2018. Par conséquent,
+c’est à bon droit que le Tribunal de police l’a déclarée irrecevable.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d’écritures (art. 390 al. 2 CPP) et le prononcé du 29 novembre 2018 confirmé.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront
+mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé du 29 novembre 2018 est confirmé.
+III.
+Les frais de la procédure de recours, par
+660 fr. (six cent soixante francs), sont mis à la charge du recourant.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me François Gillard, avocat (pour L.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Tribunal de police de l'arrondissement de La Côte,
+-
+M. le Procureur de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
