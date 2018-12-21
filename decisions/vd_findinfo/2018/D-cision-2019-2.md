@@ -1,0 +1,283 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 2"
+decided: "2018-12-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7034256"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-094.md", "switzerland/bund/acts/311.0/art-352.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 2
+
+## Regeste
+
+RESTITUTION DU DÉLAI, REJET DE LA DEMANDE, FAUTE | 94 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.12.2018 Décision / 2019 / 2
+
+RESTITUTION DU DÉLAI, REJET DE LA DEMANDE, FAUTE | 94 CP
+
+TRIBUNAL
+CANTONAL
+1005
+PE18.013013-CMS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 décembre 2018
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+M.
+Krieger et Mme Byrde, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+94 al. 1 et 393 ss CPP
+Statuant sur le recours interjeté le 14 décembre 2018 par
+S.________
+contre l’ordonnance de refus de restitution de délai rendue le 6 décembre 2018 par le
+Ministère public de l’arrondissement de l’Est vaudois dans la cause
+n° PE18.013013-CMS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par ordonnance pénale du 9 août 2018, la Procureure de l’arrondissement de l’Est
+vaudois a déclaré S.________ coupable de voies de fait, injure et menaces (I), l’a condamné
+à 30 jours-amende, la valeur du jour-amende étant fixée à 60 fr. (II), l’a
+condamné à 300 fr. d’amende, peine convertible en 10 jours de peine privative de
+liberté en cas de non-paiement fautif dans le délai qui sera imparti (III), a révoqué
+le sursis octroyé le 13 janvier 2017 par le Ministère public de l’arrondissement de l’Est
+vaudois et a ordonné l’exécution de 60 jours-amende à 30 fr. (IV), a renvoyé
+D.________ à agir devant le juge civil, s’agissant de ses prétentions civiles non chiffrées
+(V) et a mis les frais de la procédure, par 375 fr., à la charge de S.________ (V).
+Selon le relevé « Track and Trace » de la Poste, cette ordonnance a été
+notifiée à S.________ 14 août 2018 (P. 5).
+Par courrier du 3 septembre 2018, S.________, par son conseil Me Jean de Gautard, a formé opposition
+à cette ordonnance. Par courrier du 19 septembre 2018, le Ministère public a transmis
+cette opposition au Tribunal d’arrondissement de l’Est vaudois aux fins qu’il statue
+sur sa recevabilité. Cette opposition a été déclarée tardive par prononcé
+rendu le 21 septembre 2018 par le Tribunal de police de l’arrondissement de l’Est vaudois.
+Par courrier du 21 septembre 2018 répondant à la transmission du Procureur du 19 septembre
+2018, Me Jean de Gautard a notamment indiqué au Tribunal de police que si son client comprenait
+le français parlé, il ne le lisait que très mal et devait se faire expliquer la plupart
+des lettres de l’administration publique (P. 8). Interpellé par le Tribunal de police
+sur la teneur de cette correspondance (P. 8), en particulier si celle-ci devait être considérée
+comme un recours, Me Jean de Gautard a, par courrier du 1
+er
+octobre 2018, admis la tardiveté de l’opposition et a requis la révocation de l’ordonnance
+pénale et la reprise de la cause par le Ministère public (P. 10/1).
+Par courrier du 9 octobre 2018 (P. 13), le Président de la Chambre des recours pénale a fait
+parvenir au Ministère public, comme objet de sa compétence, la dite correspondance du 1
+er
+octobre 2018 pour valoir demande de restitution du délai d’opposition à l’ordonnance
+pénale au sens de l’art. 94 CPP.
+Par courrier du 2 novembre 2018, le Ministère public a imparti un délai au 15 novembre 2018
+au recourant pour indiquer si son intention était de voir restitué le délai d’opposition.
+La Procureure a en outre expressément attiré son attention sur le fait que l’art. 94
+CPP posait des exigences très strictes. Elle lui a enfin rappelé que dans des affaires ayant
+déjà été jugées par le passé, il avait expressément exprimé le
+fait qu’il n’avait pas besoin d’un interprète, ce qui confirmait qu’il comprenait
+le français, et qu’il avait rédigé un courrier en 2013, ce qui confirmait qu’il
+savait s’exprimer en français écrit.
+Le 9 novembre 2018, en réponse au courrier du Ministère public du 2 novembre 2018, S.________,
+par son défenseur, a indiqué qu’il fallait considérer son opposition du 3 septembre
+2018 comme contenant implicitement une requête de restitution du délai d’opposition.
+B.
+Par ordonnance du 6 décembre 2018, la Procureure
+de l’arrondissement de l’Est vaudois a constaté que l’ordonnance pénale du
+9 août 2018 avait été valablement notifiée (I), a rejeté la demande de restitution
+du délai d’opposition (II), a dit que l’ordonnance du 9 août 2018 était exécutoire
+(III) et a laissé les frais à la charge de l’Etat (IV).
+C.
+Par acte du 14 décembre 2018, S.________ a recouru contre cette ordonnance en concluant principalement
+à sa révocation et à son annulation. Subsidiairement, il a conclu à la restitution
+du délai de dix jours pour faire opposition à l’ordonnance pénale du 9 août
+2018.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), un recours peut être
+formé notamment contre les décisions et les actes de procédure du Ministère public.
+Il doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité de recours (art.
+396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure pénale suisse du 19
+mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du
+12 décembre 1979 ; BLV 173.01]).
+En l’espèce,
+interjeté en temps utile devant l’autorité compétente par le prévenu qui a
+qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le
+recours est recevable en tant qu’il conteste, à titre subsidiaire, la décision sur la
+restitution de délai. En revanche, la conclusion principale, qui tend à l’annulation
+de l’ordonnance pénale du 9 août 2018, est irrecevable, la voie de l’opposition
+étant la seule possible pour contester une telle ordonnance (Moreillon/Parein-Reymond, Petit commentaire
+du Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 2 ad art. 354 CPP).
+2.
+2.1
+Aux termes de l'art. 94 al. 1 CPP, une partie
+peut demander la restitution du délai si elle a été empêchée de l'observer et
+qu'elle est de ce fait exposée à un préjudice important et irréparable. Elle doit
+rendre vraisemblable que le défaut n'est imputable à aucune faute de sa part. Selon l'art.
+94 al. 2 CPP, la demande de restitution, dûment motivée, doit être adressée par écrit
+dans les 30 jours à compter de celui où l'empêchement a cessé, à l'autorité
+auprès de laquelle l'acte de procédure aurait dû être accompli. L'acte de procédure
+omis doit être répété durant ce délai.
+La question de la restitution du délai d'opposition contre une ordonnance pénale ne se pose
+que si l'intéressé a été empêché de l'observer. Cela présuppose que
+le délai d'opposition a expiré avant que l'opposition ne soit formée. Cela présuppose
+à son tour que l'ordonnance ait été valablement notifiée ou réputée notifiée
+(cf. art. 85 al. 4 CPP). La question de savoir si la notification était valable ne peut être
+tranchée par le ministère public à titre préalable dans le cadre de la procédure
+de restitution de délai prévue par l'art. 94 CPP. Elle doit l'être par le tribunal de
+première instance dans le cadre de la procédure d'opposition prévue par l'art. 356 al.
+2 CPP (TF 6B_948/2018, du 4 décembre 2018 consid. 1.1 ; ATF 142 IV 201 consid. 2.4 p. 205 s.).
+D’après la doctrine et la jurisprudence,
+l’absence de faute signifie que l’intéressé devait être dans une situation
+qui impliquait concrètement l’impossibilité de respecter le délai ou de demander
+à un tiers de faire le nécessaire pour le respecter ; autrement dit, l’absence de
+faute doit être claire ; aussi, toute faute de la personne en cause, même minime, exclut
+la restitution de délai (ATF 143 I 284 consid. 1.3 ; TF 6B_1108/2017 du 20 avril 2018 consid.
+1.2 ; TF 6B_67/2018 du 9 avril 2018 consid. 4 et les références citées). Sont par
+exemple des empêchements non fautifs : des évènements de guerre, un accident ayant
+des conséquences très graves au niveau de la santé, le service militaire etc. (Riedo,
+in : Niggli/Wiprächtiger [éd.], Basler Kommentar, Strafrecht I, 2
+e
+éd., Bâle 2014, nn 35 et 37 ad art. 94 CP et les références citées).
+2.2
+En l’espèce, il faut d’abord constater que, dans ses correspondances successives des
+3 et 21 septembre 2018, ainsi que des 1
+er
+octobre et 9 novembre 2018, le recourant n’a pas remis en cause la validité de la notification
+de l’ordonnance pénale du 9 août 2018, admettant au surplus expressément dans son
+courrier du 1
+er
+octobre 2018 que son opposition était tardive. Le recourant n’a pas non plus contesté
+sur ce point le prononcé du Tribunal de police du 21 septembre 2018. Il faut ainsi partir du principe
+que l’ordonnance pénale a été valablement notifiée le 14 août 2018 et
+que celui-ci devait former opposition le 24 août 2018 au plus tard. Son opposition, qui a été
+déposée le 3 septembre 2018, a donc été formée tardivement.
+La requête en restitution de délai qu’il a déposée le 21 septembre 2018 est
+ainsi recevable, le délai qui devait être observé ne l’ayant pas été,
+d’une part, et l’intéressé étant exposé à un préjudice important
+et irréparable, d’autre part.
+Il reste à examiner si le recourant a été empêché sans faute de sa part de respecter
+le délai d’opposition.
+A cet égard, le Ministère public a écarté l’argumentation de S.________ figurant
+dans ses correspondances des 3 et 21 septembre, du 1
+er
+octobre et du 9 novembre 2018, selon laquelle il n’aurait pas compris le sens et l’intitulé
+de l’ordonnance pénale ainsi que les moyens de s’y opposer, son attention n’ayant
+notamment pas été attirée sur le délai de dix jours pour ce faire ; elle a retenu
+qu’il ressortait des précédentes procédures pénales PE13.021877-JPC et PE16.024274-NKS
+ayant visé S.________ que ce dernier n’avait jamais requis l’assistance d’un interprète
+bien qu’il ait été rendu expressément attentif à ce droit, qu’il avait
+en outre formé opposition personnellement, dans les délais légaux et sans l’assistance
+d’un défenseur contre l’ordonnance pénale rendue dans la seconde affaire et que,
+toujours dans le cadre de celle-ci, il avait comparu à l’audience du Tribunal de police le
+1
+er
+juin 2017 sans l’assistance d’un défenseur ou d’un interprète et avait retiré
+son opposition. La Procureure en a déduit que sa compréhension de la langue française
+dépassait le simple langage courant, et qu’il était à tout le moins en mesure de
+comprendre la teneur du libellé « ordonnance pénale » figurant dans la
+décision du 9 août 2018 ; elle relevait en outre que cette décision attirait
+l’attention sur le délai légal de 10 jours pour former opposition ; au vu de l’ensemble
+de ces éléments, elle a conclu qu’il ne pouvait pas se prévaloir de son ignorance
+de la procédure d’opposition, d’une part, et qu’il n’était pas dans
+une situation où il lui était impossible de respecter le délai légal ou de charger
+un tiers de faire le nécessaire pour le sauvegarder.
+A l’appui de son recours, le recourant commence par se référer à tous ses courriers
+précédents (ch. 2). Ce mode de faire n’est pas acceptable puisque le recours doit contenir
+les motifs qui commandent une autre décision (art. 385 al. 1 let. b et 393 al. 2 CPP). Invoquant
+ensuite un excès ou un abus par la Procureure de son pouvoir d’appréciation, il fait
+valoir qu’il est de langue étrangère, qu’il ne s’occupe d’aucune affaire
+administrative, qu’il s’adresse pour ce faire à son ex-épouse ou à sa fille,
+qu’il a peut-être été léger dans l’attention à apporter à cet
+envoi, mais qu’il ne l’a pas compris (ch. 3).
+Ce faisant, le recourant ne répond pas aux arguments convaincants du Ministère public, notamment
+ceux ayant trait au fait qu’il a participé à deux procédures pénales ayant
+débuté en 2013 et 2016, et ce sans l’assistance d’un défenseur ou d’un
+interprète, et qu’il a même formé opposition à une ordonnance pénale dans
+le délai au cours de la seconde procédure. Il ne s’en prend pas non plus à la déduction
+que le Ministère public en tire, à savoir qu’il pouvait comprendre les termes « Ordonnance
+pénale » et qu’il n’était pas dans un cas d’impossibilité
+de respecter le délai légal ou de charger un tiers de faire le nécessaire pour le sauvegarder.
+S.________ se contente d’affirmer qu’il n’a pas compris les conséquences que l’envoi
+de l’ordonnance pénale pouvaient avoir, voire qu’il attendait d’être convoqué.
+Toutefois, pour les motifs exposés par le Ministère public, il était en mesure de comprendre
+la nature de la décision qui le condamnait à une peine pécuniaire et de réagir correctemen
+t
+dans le délai légal. En réalité, comme l’admet son avocat, il a été
+« léger dans l’attention à apporter à cet envoi ». Il aurait
+pu et dû transmettre sans délai ce courrier à son ex-épouse ou à sa fille s’il
+estimait ne pas être en mesure de rédiger une lettre d’opposition personnellement.
+Enfin, le recourant invoque que les conséquences de la tardiveté de l’opposition sont
+graves, notamment eu égard au fait qu’il a été condamné sans avoir pu être
+entendu sur les faits de la cause (ch. 4).
+Ces arguments ne sauraient conduire à admettre la restitution de délai requise. En effet, d’une
+part la gravité des conséquences est une des conditions posées par l’art. 94 al.
+1 CPP pour la recevabilité de la demande de restitution, et il n’est pas contesté en
+l’espèce que cette condition soit remplie. D’autre part, c’est la loi elle-même
+qui prévoit la possibilité pour le Ministère public de condamner un prévenu, et ce
+même sans l’entendre (art. 352 al. 1 CP), puisque, sur simple déclaration, celui-ci peut
+déclencher une procédure ordinaire se déroulant devant un Tribunal (art. 354 let. a CPP).
+3.
+Il s'ensuit que le recours, manifestement mal fondé, doit être rejeté sans échange
+d'écritures (art. 390 al. 2 CPP) et l’ordonnance entreprise confirmée.
+Les frais de la procédure
+de recours, par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 6 décembre 2018 est confirmée.
+III.
+Les frais du présent arrêt, par 770
+fr. (sept cent septante francs), sont mis à la charge de S.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jean de Gautard, avocat (pour S.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de l’Est vaudois,
+-
+M. D.________
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
