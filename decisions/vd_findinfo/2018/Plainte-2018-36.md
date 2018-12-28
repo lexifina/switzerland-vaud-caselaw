@@ -1,0 +1,299 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 36"
+decided: "2018-12-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7014628"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 36
+
+## Regeste
+
+POURSUITE PAR VOIE DE SAISIE, AUTOMOBILE, BIEN DE STRICTE NÉCESSITÉ, PROFESSION, RENTABILITÉ | 92 al. 1 ch. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.12.2018 Plainte / 2018 / 36
+
+POURSUITE PAR VOIE DE SAISIE, AUTOMOBILE, BIEN DE STRICTE NÉCESSITÉ, PROFESSION, RENTABILITÉ | 92 al. 1 ch. 3 LP
+
+TRIBUNAL
+CANTONAL
+FA18.030845-181727
+37
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 décembre 2018
+_______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+92 al. 1 ch. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+C.________
+,
+à [...], contre la décision rendue le 17 octobre 2018, à la suite de l’audience
+du 13 septembre 2018, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée le 16 juillet 2018 par le recourant
+contre une décision de l’
+Office
+des poursuites du district de Lausanne
+révoquant
+le sursis à la réalisation et ordonnant la vente aux enchères publiques d’un véhicule
+saisi.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+C.________
+exerce depuis 2016 une activité indépendante
+à un taux de 40%, consistant notamment en la création de sites internet et le conseil en gestion
+d’image d’entreprise. Son bénéfice annuel s’est monté à 8'627 fr.
+en 2016, et à 1'304 fr. 60 l’année suivante, équivalant à un revenu net mensuel
+moyen en 2017 de 108 fr. 70. Depuis le mois de mars 2017 et jusqu’au 30 septembre 2018, il a en
+outre perçu des indemnités de l’assurance-chômage de 2'151 fr. 75 par mois.
+L’intéressé fait l’objet de plusieurs poursuites, dans le cadre desquelles l’Office
+des poursuites du district de Lausanne (ci-après : l’Office) a établi, les 31 mai,
+14 juillet, 5 octobre et 21 novembre 2017 ainsi que le 11 juin 2018, des procès-verbaux de
+saisie portant sur une voiture de tourisme Audi TT 2.0T Coupé de 2008, estimée à 7'500
+fr. en 2017 et à 7'340 fr. en 2018. Aucune saisie n’a été imposée sur les revenus
+du débiteur, dont le minimum d’existence a été calculé par l’Office à
+2'248 fr. en 2017 et à 2'324 fr. en 2018.
+Des créanciers saisissants ont requis la réalisation du véhicule. Par décisions de
+sursis rendues dans les différentes poursuites concernées entre le 6 juillet 2017 et le
+8 janvier 2018, constatant que le débiteur avait versé des premiers acomptes, l’Office
+a différé la vente de douze, dix ou six mois selon les cas, à la condition que le débiteur
+s’acquitte ponctuellement des acomptes mensuels suivants, faute de quoi le sursis tomberait et
+la vente serait ordonnée d’office, sans nouvelle réquisition du créancier.
+Le débiteur ne s’étant plus acquitté ponctuellement des acomptes, l’Office
+l’a avisé, par lettre du 5 juillet 2018, que les sursis étaient révoqués et
+la vente aux enchères publiques du véhicule ordonnée et qu’il était dès
+lors sommé, sous la menace des peines prévues par le Code pénal, de remettre son véhicule
+à l’Office jusqu’au 25 juillet 2018 au plus tard.
+b)
+Le 16 juillet 2018, C.________ a déposé une plainte contre la décision de l’Office
+auprès du Tribunal d’arrondissement de Lausanne, autorité inférieure de surveillance.
+Il a fait valoir que le véhicule en cause était indispensable à son activité indépendante,
+dans le cadre de laquelle il se rendait régulièrement chez des clients, en transportant du
+matériel imposant aux fins de présentation, de sorte qu’il lui était impossible
+de se déplacer en transports publics. Outre la décision attaquée, il a produit notamment
+sa comptabilité pour l’exercice 2017 et un contrat conclu avec un client à Denezy.
+c)
+L’Office s’est déterminé le 27 août 2018, en préavisant en faveur du
+rejet de la plainte. Il a produit notamment les procès-verbaux de saisie et les décisions de
+sursis, ainsi que la comptabilité 2017 et la comptabilité 2016 du plaignant. Il a relevé
+que la plainte portait sur la saisissabilité du véhicule en cause, et fait valoir qu’en
+l’occurrence, s’il y avait bien lieu de considérer que ce véhicule était nécessaire
+au débiteur pour exercer sa profession, cet exercice, en revanche, n’était pas rentable,
+de sorte que l’une des trois conditions cumulatives pour considérer le véhicule comme
+insaisissable n’était pas remplie.
+d)
+Le 12 septembre 2018, le plaignant a répliqué. Faisant valoir qu’il n’avait pas
+demandé les sursis octroyés, il a conclu à leur annulation, subsidiairement à leur
+révocation au 1
+er
+novembre 2017 ; par ailleurs, il a soutenu que c’était l’utilisation du véhicule
+considéré qui devait être rentable, c’est-à-dire ne pas entraîner des
+frais hors de proportion avec le revenu réalisé, en tenant compte d’un exercice rationnel
+et compétitif de la profession, que l’exercice 2016 s’était soldé par un bénéfice
+de 8'627 fr., auquel il fallait ajouter 1'800 fr. de participation au loyer, soit 10'427 fr., et que
+l’exercice 2017 avait été « catastrophique au vu des réparations sur le
+véhicule et les frais engagés juridiquement pour stabiliser l’activité ».
+2.
+Par prononcé du 17 octobre 2018, la Présidente du Tribunal d’arrondissement de Lausanne,
+autorité inférieure de surveillance, a rejeté la plainte et rendu sa décision sans
+frais ni dépens. Elle a jugé en substance que le plaignant exerçait bien une profession
+– et non pas exploitait une entreprise – et que le véhicule en cause était nécessaire
+à cet exercice, mais qu’en revanche, l’activité du plaignant n’était
+pas rentable ; sur ce point, elle a considéré que, même si la saisie avait été
+exécutée en 2017, l’Office n’aurait pas dû tenir compte que du revenu de cette
+année, mais aussi de celui de 2016, pour avoir une vision de la rentabilité sur une plus longue
+période ; toutefois, même en tenant compte des deux années, le minimum vital ne serait
+pas couvert, « le revenu mensuel moyen s’élevant à 977 francs 70 au total (108
+fr. 70 + 868 fr. 90) ». La présidente a relevé « par surabondance »
+que la non-rentabilité de l’exercice 2017 était notamment due à des frais de réparation
+ou d’entretien du véhicule « plus importants que le revenu réalisé »
+et considéré en conclusion que l’Office avait estimé à juste titre que le véhicule
+était saisissable.
+3.
+Le plaignant a recouru par acte posté le 5 novembre 2018, concluant à la réforme du prononcé
+en ce sens que « le caractère rentable de la profession du recourant est constatée »
+et le véhicule en cause déclaré insaisissable. Il a produit une pièce nouvelle, soit
+une ordonnance pénale du 21 septembre 2017, condamnant une de ses voisines pour avoir, notamment,
+à trois reprises au mois de mars 2017 et encore une fois en avril 2017, causé des dommages
+à sa voiture.
+L’Office s’est déterminé le 14 novembre 2018, préavisant en faveur du rejet
+du recours.
+En droit :
+I.
+Le recours a été déposé en temps utile, dans les dix jours suivant la notification
+du prononcé attaqué (art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes
+et la faillite ; RS 281.1] ; 28 al. 1 LVLP [loi vaudoise d’application de la LP ;
+BLV 280.05]), qui est réputée avoir eu lieu le 25 octobre 2018, échéance du délai
+de garde du pli recommandé non réclamé, nonobstant la remise ultérieure de ce pli
+à son destinataire. Le délai de recours, dont l’échéance tombait le dimanche
+4 novembre 2018, comprenait de droit le premier jour utile, soit le lundi 5 novembre 2018 (art.
+73 LVLP). Le recours est en outre suffisamment motivé (TF 5A_118/2018 du 7 février 2018 consid.
+4.1). Il est ainsi recevable. La pièce nouvelle produite à son appui l’est également
+(art. 28 al. 4 LVLP).
+Les déterminations de l’Office sont recevables (art. 31 al. 1 LVLP).
+II.
+Le recourant fait valoir que le premier juge n’a pas tenu compte du pourcentage de l’activité
+indépendante, de 40% ; or, le revenu moyen de 868 fr. 90 en 2016 couvrait « plus
+de 37% de son minimum vital » et, ajouté à son salaire (revenu dépendant), lui
+permettait de désintéresser les créanciers. Il soutient en outre que les frais de réparation
+du véhicule en 2017 étaient dus à des actes de malveillance d’une voisine et qu’il
+s’agissait donc d’une situation exceptionnelle dont il ne fallait pas tenir compte pour apprécier
+la rentabilité de son activité ; il relève qu’il aurait pu ne pas réparer
+sa voiture, ce qui aurait eu pour double effet d’augmenter la rentabilité de sa profession
+et de réduire la valeur du véhicule saisi.
+L’Office fait valoir que c’est l’année de la saisie qui est déterminante
+et que le fait que 2017 ait été une année difficile ne peut pas être pris en considération.
+Il renvoie à ses déterminations de première instance, dans lesquelles il relevait que
+la comptabilité 2017 du plaignant ne faisait pas état des cotisations au premier pilier et
+aux diverses assurances (accident, RC) et que le cumul des revenus de 2017 sous déduction du minimum
+vital ne permettait pas de dégager une quotité saisissable.
+a)
+Aux termes de l’art. 92 al. 1 ch. 3 LP, les outils, appareils, instruments et livres, en tant qu’ils
+sont nécessaires au débiteur et à a sa famille pour l’exercice de leur profession,
+sont insaisissables. Un outil ou instrument est nécessaire lorsque lui seul permet d’exercer
+la profession de manière rationnelle et concurrentielle, c’est-à-dire quand sans lui
+la profession ne peut plus être exercée (TF 5A_464/2016 du 28 août 2016 ; ATF 113
+III 77 consid. 2b). Dans le cas d’un véhicule automobile, la condition de nécessité
+n’est pas remplie si les transports publics peuvent être utilisés (arrêt de l’Obergericht
+du canton de Zurich du 27 février 2017 (PS170037-O/U) consid. 3.1), et ce même si l’exercice
+de la profession en est rendu plus difficile ou moins agréable (arrêt du Tribunal cantonal
+de Bâle-Campagne du 14 août 2018 (420 18 194) consid. 3.2).
+b)
+La protection offerte par la loi au débiteur qui exerce une profession s’inscrit dans le but
+général de l’art. 92 LP, qui est d’assurer au débiteur son existence ;
+par conséquent, elle est soumise à la condition que cette profession soit rentable. Non contenue
+dans le texte légal, cette condition a été posée depuis longtemps par la jurisprudence
+du Tribunal fédéral (ATF 106 III 108, JdT 1982 II 145, consid. 3 ; ATF 88 III 50, JdT
+1962 II 84, consid. 2). Dans le premier arrêt cité, concernant un cabinet médical, il
+a été jugé que les capitaux investis dans l’appareillage et les frais d’exploitation
+que celui-ci entraînait demeuraient « dans une proportion économique intéressante
+avec le revenu procuré ». De même, dans un arrêt plus ancien, le Tribunal fédéral
+a considéré que l’exercice d’une profession indépendante n’était
+pas productif si les frais qu’entraînaient l’utilisation des instruments nécessaires
+(en l’espèce, une camionnette) n’étaient pas en rapport avec le résultat de
+l’exploitation (ATF 86 III 47, JdT 1961 II 7, consid. 2). Ainsi, le critère de rentabilité
+s’examine sous deux angles, celui de l’activité professionnelle et celui de l’utilisation
+de l’outil, appareil ou instrument nécessaire (arrêt bâlois du 14 août 2018
+consid. 3.2 précité).
+aa)
+La protection de l’art. 92 al. 1 ch. 3 LP disparaît si l’activité professionnelle
+du débiteur ne lui rapporte aucun revenu ou lui cause des pertes ou est durablement déficitaire
+au point que ses recettes ne suffisent pas à couvrir ses frais d’entretien ni ses dépenses
+d’exploitation ; le produit net du travail du débiteur doit au moins couvrir son minimum
+vital (arrêt bâlois du 14 août 2018 consid. 3.2 précité ; ATF 86 III 47,
+JdT 1961 II 7, consid. 2 précité).
+bb)
+L'utilisation de l’instrument – nécessaire – doit également être rentable,
+c'est-à-dire ne pas entraîner des frais hors de proportion avec le revenu réalisé ;
+il faut tenir compte des exigences d'un exercice rationnel et compétitif de la profession (ATF 117
+III 20 consid. 2 ; ATF 110 III 53 consid. 3 b) ; ATF 88 III 50, JdT 1962 II 84, consid. 2 précité ;
+ATF 86 III 47, JdT 1961 II 7, consid. 2 précité). Dans le cas d’un véhicule, le
+revenu réalisé grâce à son utilisation doit au moins couvrir les frais qu’entraîne
+cette utilisation (entretien, amortissement, réparations, charges diverses telles qu’assurances
+obligatoires, taxes, etc.) (cf. arrêt bâlois du 14 août 2018 consid. 3.2 précité
+et la référence citée : Ronnie Bettler,
+in
+Jahrbuch zum Strassenverkehrsrecht 2012, Die Pfändebarkeit
+von Fahrzeugen, pp. 103 ss, spéc. p. 110).
+c)
+De jurisprudence constance, seules les circonstances du moment de l’exécution de la saisie
+sont à prendre en considération pour déterminer si un bien est insaisissable (ATF 111
+III 55 consid. 2 ; ATF 108 III 67 consid. 2 ; ATF 98 III 31, p. 32 ; ATF 97 III 57 consid.
+3 ; arrêt zurichois du 27 février 2017 consid. 3.1 précité ; cf. aussi
+Bettler,
+op. cit.
+,
+p. 105).
+d)
+En l’espèce, il n’est pas contesté que, comme l’a considéré l’autorité
+inférieure de surveillance, le véhicule saisi est nécessaire à l’exercice la
+profession du recourant.
+Il reste à examiner la question de la rentabilité de l’activité professionnelle
+du recourant et de l’utilisation du véhicule nécessaire à cette activité. Pour
+ce faire, vu les principes rappelés sous lettres b) et c) supra, on ne doit prendre en considération
+que l’année 2017 et uniquement les revenus de l’activité indépendante exercée
+durant cette année par le recourant au taux de 40%.
+En ce qui concerne la rentabilité de l’activité professionnelle, on doit constater que
+le revenu moyen de l’année 2017, soit 108 fr. 70, ne suffit pas à couvrir 40% du minimum
+vital du recourant de 2'248 fr., soit 899 fr. 20. Par surabondance, on peut relever que la comptabilité
+produite, bien qu’extrêmement sommaire, indique que l’activité qui a débuté
+en 2016 ne s’est pas développée positivement en 2017 – on ignore ce qu’il
+en a été en 2018. Avant paiement des charges, le chiffre d’affaires s’est élevé
+à 15'679 fr. en 2016 et seulement à 11'754 francs 60 en 2017. De plus, la comptabilité
+de 2017, contrairement à celle de l’année 2016, ne mentionne pas le paiement des cotisations
+AVS et la Caisse AVS de la Fédération patronale vaudoise figure d’ailleurs parmi
+les créanciers saisissants. Les charges 2017 comprennent en revanche des frais d’avocat de
+2'851 fr., montant qui doit correspondre aux « frais engagés juridiquement pour stabiliser
+l’activité » évoqués par le recourant dans son écriture du 12 septembre
+2018.
+Quant à la rentabilité du véhicule, on constate que les frais engagés se montaient
+en 2016 à 1'905 fr. et en 2017 à 3'259 francs. Il n’est cependant pas certain que toutes
+les charges effectives de 2016 aient été payées puisque parmi les créanciers saisissants
+figure également le Service des automobiles et de la navigation (SAN) pour trois poursuites d’un
+montant total de 495 francs. Cela étant, il n’apparaît pas que les frais soient disproportionnés
+par rapport au chiffre d’affaires. Peu importe, toutefois, dès lors que l’activité
+professionnelle, au moment de la saisie, n’était pas rentable. Cette condition n’étant
+pas remplie, cela a pour conséquence que le véhicule en cause n’est pas insaisissable.
+III.
+En conclusion, le recours doit être rejeté et le prononcé de l’autorité inférieure
+de surveillance confirmé.
+L’arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP, 61 al. 2 let. a et 62 al.
+2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. C.________,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
