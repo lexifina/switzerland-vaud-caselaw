@@ -1,0 +1,177 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 3"
+decided: "2018-12-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7103846"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 3
+
+## Regeste
+
+PLAINTE{LP}, DÉCISION D'IRRECEVABILITÉ, RECOURS CONDITIONNEL | 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.12.2018 Plainte / 2019 / 3
+
+PLAINTE{LP}, DÉCISION D'IRRECEVABILITÉ, RECOURS CONDITIONNEL | 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA18.032914-181428
+36
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 décembre 2018
+__________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+18 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+L.________
+,
+à Grandvaux, contre la décision rendue le 13 septembre 2018, à la suite de l'audience
+du 4 septembre 2018, par la Présidente du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, rejetant la plainte déposée le 30 juillet 2018 par la recourante
+contre le tableau de distribution du dividende établi le 19 juillet 2018 par l’
+Office
+des poursuites du district de Lavaux-Oron
+,
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+L.________ fait l’objet de plusieurs saisies définitives portant sur vingt-trois des cent
+actions qu’elle détient dans la société [...].
+Le
+29 janvier 2013, l’Office des poursuites du district de Lavaux-Oron (ci-après : l'office)
+a informé la société précitée de cette saisie et du fait qu’elle était
+tenue de payer en mains de l’office toute somme, en particulier les dividendes, pouvant revenir
+à L.________ pendant la durée de la saisie.
+Le 19 juillet 2017, l’office a établi un tableau de distribution du dividende relatif aux
+actions saisies pour l’année 2017. Le produit à distribuer, selon ce tableau, d'un montant
+de 2'242 fr. 50, a été réparti de la manière suivante :
+-
+1'427 fr. 70 en faveur
+de l’Etat de Vaud et la commune de Pully (poursuite
+n° 5'656'371),
+-
+581 fr. 20 en faveur de
+l'Etat de Vaud (poursuite n° 6'126'102), et
+-
+223 fr. 60 en faveur de
+l’office, en paiement de frais à la charge de la débitrice.
+b)
+Le 30 juillet 2018, L.________ a déposé une plainte au sens des art. 17 ss LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1)  à l’encontre de ce tableau
+de distribution, auprès de la Présidente du Tribunal d'arron-dissement de l'Est vaudois. Elle
+requerrait la production de douze pièces, destinées à établir la valeur des vingt-trois
+actions saisies. La présidente a refusé de faire droit à cette réquisition par décision
+du 16 août 2018. La plaignante a déposé une écriture complémentaire le 21 août
+2018. L'office s'est déterminé sur la plainte le 22 août 2018. Une audience a été
+tenue le 4 septembre 2018, en présence de la plaignante.
+c)
+Par prononcé rendu le 13 septembre 2018, la Présidente du Tribunal d'arrondissement de l'Est
+vaudois a rejeté la plainte déposée par L.________ le 30 juillet 2018, sans frais. Elle
+a considéré, en substance, que la plaignante n'avait développé aucun moyen spécifique
+à l'encontre du tableau de distribution établi par l'office le 19 juillet 2018.
+Par acte déposé le 22 septembre 2018, L.________ a recouru contre ce prononcé, qui lui
+a été notifié le 14 septembre 2018. Elle a pris les conclusions suivantes :
+« 1. Le recours de ce jour, déposé dans le délai de dix jours, doit être
+considéré comme déposé, mais ne doit pas être traité tant que les requête
+spéciales citées ci-dessus ne seront pas effectuées et tant que le CONTENU des pièces
+requises ne sera pas obtenu par le Tribunal cantonal.
+2. Quand ces douze pièces requises seront obtenues par le Tribunal cantonal, elles seront envoyées
+à L.________ par courrier recommandé et au juge [...] afin qu’il puisse enfin réaliser
+une décision en tenant compte de la vérité.
+3. Si les douze pièces ne sont pas réclamées et obtenues, il est interdit de traiter ce
+recours, car les décisions ARBITRAIRES et de MAUVAISE FOI, prises sans rechercher la vérité
+et sans la détenir doive CESSER. Elles enfreignent les articles de la Constitution fédérale
+et les droits de L.________.
+4. Les frais de justice seront mis à la charge de l’Etat. ».
+En droit :
+I.
+a)
+Toute décision de l’autorité inférieure de surveillance peut faire l’objet
+d’un recours auprès de l’autorité cantonale supérieure de surveillance dans
+les dix jours à compter de sa notification (art. 18 al. 1 LP [loi fédérale sur la poursuite
+pour dettes et la faillite ; RS 281.1]). En l’espèce, le recours de L.________ a é
+té
+déposé en temps utile. Toutefois, dès lors que la recourante soumet son examen à
+la réalisation de certaines conditions – en particulier la production de pièces –
+le recours est irrecevable (Reetz, in Sutter-Somm/Hasenböhler/Leuenberger, Kommen-tar zur Schweizerischen
+Zivilprozessordnung [ZPO Kommentar], 3
+e
+éd., n. 49
+ad
+art. 308-318 ZPO [CPC] et les réf. cit. ; Freiburghaus/Afheldt,
+in
+ZPO Kommentar, n. 14
+in fine
+ad
+art. 321 ZPO [CPC] ; CPF 23 août 2017/176 ; CPF 15 juin 2018/16).
+b)
+A supposer recevable, le recours aurait de toute manière dû être rejeté. En effet,
+L.________ n'invoque aucun moyen à l'encontre du tableau de distribution établi par l'office
+le 19 juillet 2018, seul objet de la présente procédure de plainte. Elle se borne à demander
+la production de pièces – en vue d'établir la valeur des actions saisies – qui
+ne sauraient avoir d'incidence sur la distribution du dividende, dont elle ne conteste ni le montant
+ni la répartition.
+III.
+En conclusion, le recours doit être déclaré irrecevable, sans frais (art. 20a al. 2 ch.
+5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme L.________,
+‑
+M. le Préposé à l'Office des poursuites de Lavaux-Oron,
+‑
+Office d'impôt du district de la Riviera – Pays d'Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
