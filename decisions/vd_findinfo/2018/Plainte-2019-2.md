@@ -1,0 +1,218 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 2"
+decided: "2018-12-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7103862"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-119.md", "switzerland/bund/acts/272/art-121.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.35/art-062.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 2
+
+## Regeste
+
+PLAINTE{LP}, ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.12.2018 Plainte / 2019 / 2
+
+PLAINTE{LP}, ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 17 LP
+
+TRIBUNAL
+CANTONAL
+FA18.032914-181371
+35
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 décembre 2018
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+29 al. 3 Cst. ; 17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+D.________
+,
+à Grandvaux, contre la décision rendue le 31 août 2018 par la Présidente du Tribunal
+d’arrondissement de l'Est vaudois, autorité inférieure de surveillance, refusant à
+la recourante la désignation d'un avocat d'office dans le cadre de la procédure de plainte
+l'opposant à l'Office des poursuites du district de Lavaux-Oron.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+D.________ fait l’objet de plusieurs saisies définitives portant sur vingt-trois des cent
+actions qu’elle détient dans la société [...].
+Le
+29 janvier 2013, l’Office des poursuites du district de Lavaux-Oron (ci-après : l'office)
+a informé la société précitée de cette saisie et du fait qu’elle était
+tenue de payer en mains de l’office toute somme, en particulier les dividendes, pouvant revenir
+à D.________ pendant la durée de la saisie.
+Le 19 juillet 2018, l’office a établi un tableau de distribution du dividende relatif aux
+actions saisies pour l’année 2017. Le produit à distribuer, selon ce tableau, d'un montant
+de 2'242 fr. 50, a été réparti de la manière suivante :
+-
+1'427 fr. 70 en faveur
+de l’Etat de Vaud et la commune de Pully (poursuite
+n° 5'656'371),
+-
+581 fr. 20 en faveur de
+l'Etat de Vaud (poursuite n° 6'126'102), et
+-
+223 fr. 60 en faveur de
+l’office, en paiement de frais à la charge de la débitrice.
+b)
+Le 30 juillet 2018, D.________ a déposé une plainte au sens des art. 17 ss LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1)  à l’encontre de ce tableau
+de distribution, auprès de la Présidente du Tribunal d'arron-dissement de l'Est vaudois. Elle
+requerrait la production de douze pièces, destinées à établir la valeur des vingt-trois
+actions saisies. La présidente a refusé de faire droit à cette réquisition par décision
+du 16 août 2018. La plaignante a déposé une écriture complémentaire le 21 août
+2018.
+c)
+Le 27 août 2018, D.________ a demandé la désignation d’un avocat d’office
+dans le cadre de la procédure de plainte. Par prononcé du 31 août 2018, notifié à
+la plaignante le 4 septembre suivant, la Présidente du Tribunal d'arrondissement de l'Est vaudois
+a rejeté cette requête. Elle a considéré que la procédure de plainte étant
+régie par la maxime d’office, l’assistance d’un avocat n’était en règle
+générale pas nécessaire et que tel était le cas en l’espèce, la question
+litigieuse ne soulevant pas de difficultés particulières.
+D.________ a recou
+ru contre
+cette décision par acte déposé le
+10
+septembre 2018.
+En droit :
+I.
+a)
+En procédure civile suisse, la requête d'assistance judiciaire peut être présentée
+avant ou pendant la litispendance (art. 119 al. 1 CPC [Code de procédure civile du 19 décembre
+2008 ; RS 272]). Lorsque la procédure est pendante, le juge saisi statue sur l'octroi ou le
+retrait de l'assistance judiciaire (art. 39 al. 1 CDPJ [Code de droit privé judiciaire vaudois du
+12 janvier 2010 ; RSV 211.01]).
+Les décisions qui
+ne relèvent pas du juge – décisions des organes d'exécution, en particulier les
+offices des poursuites et faillites, et des autorités de surveillance, notamment sur plainte au
+sens de la LP – ne relèvent pas du CPC mais d'une procédure administrative spéciale
+régie par les art. 17 ss LP et pour le surplus par les cantons, soit dans le canton de Vaud la loi
+du 18 mai 1955 d’application dans la canton de Vaud de la LP (LVLP ; RSV 280.05) (Haldy, CPC
+commenté, n. 18 ad art. 1 CPC). La LVLP, qui comprend un certain nombre de dispositions de procédure
+en matière de plainte (art. 17 ss LVLP), ne contient pas de règle sur l'assistance judiciaire.
+Enfin, l'art. 18 LPA-VD prévoit que les autorités administratives sont compétentes pour
+octroyer l'assistance judiciaire pour les procédures qu'elles mènent (al. 3), que le Tribunal
+cantonal est compétent pour les procédures ouvertes devant lui (al. 4) et que, pour le surplus,
+les dispositions régissant l'assistance judiciaire en matière civile sont applicables par analogie
+(al. 5).
+En l'espèce, la recourante
+a saisi la Présidente du Tribunal d'arrondissement de l'Est vaudois, en sa qualité d'autorité
+inférieure de surveillance, d'une plainte au sens l'art. 17 LP, puis, au cours de la procédure,
+d'une requête d'assistance judiciaire.
+b)
+D'après le CPC, applicable ici par analogie, le juge statue sur la requête d'assistance judiciaire
+en procédure sommaire (art. 119 al. 3 CPC). L'art. 319 let. b ch. 1 CPC ouvre la voie du recours
+contre les décisions et ordonnances d'instruction de première instance pour lesquelles un recours
+est expressément prévu par la loi. Tel est le cas d'une décision refusant l'assistance
+judiciaire (art. 121 CPC). Le recours, écrit et motivé, doit s'exercer dans un délai de
+dix jours auprès de l'instance de recours (art. 321 CPC).
+En l'espèce, déposé
+en temps utile et dans les formes requises, auprès de la cour de céans, autorité cantonale
+supérieure de surveillance, qui est compétente pour l'examiner (art. 14 al. 1 LVLP), le recours
+est recevable.
+II.
+a)
+L'assistance judiciaire en procédure de plainte LP n'est pas soumise à l'art. 117 CPC – ce
+code régissant cependant par analogie les questions de procédure en matière d'assistance
+judiciaire –,  mais à l'art. 29 al. 3 Cst. (Constitution fédérale du 18 avril
+1999 ; RS 101). En vertu de cette disposition, toute personne qui ne dispose pas de ressources suffisantes
+a droit, à moins que sa cause paraisse dépourvue de toute chance de succès, à l'assistance
+judiciaire gratuite. Elle a en outre droit à l'assistance gratuite d'un défenseur, dans la
+mesure où la sauvegarde de ses droits le requiert.
+La procédure de plainte
+étant gratuite (art. 20a al. 2 ch. 5 LP), seule la question de l'assistance d'un avocat doit être
+examinée en l'espèce.
+Le droit à l'assistance
+judiciaire n'est pas exclu par principe dans la procédure de plainte des art. 17 ss LP, mais, dans
+la mesure où cette procédure est régie par la maxime d'office, l'assistance d'un avocat
+n'est en général pas nécessaire; toutefois, une telle assistance peut se révéler
+indispensable en raison de la complexité de l'affaire ou des questions à résoudre, des
+connaissances juridiques insuffisantes du requérant ou de l'importance des intérêts en
+jeu (ATF 122 III 392, JdT 1998 II 185 et réf. cit.; TF 5A_660/2013 du 19 mars 2014 consid. 4.2 ;
+TF 5A_136/2011 du 8 août 2011, consid. 2.5.2, Revue suisse de procédure civile [RSPC] 2012,
+p. 17 ; TF 5A_236/2010 du 21 juillet 2010 consid. 6.1).
+b)
+Dans son acte de recours, D.________ expose, en substance, qu'elle réclame, depuis 2007, des pièces
+comptables qui lui auraient été cachées dans le cadre de la succession de son beau-père,
+feu [...], décédé le
+[...],
+et qu'elle aurait été lésée du fait qu’elle ne connaissait pas la véritable
+valeur des cent actions de la société [...] qu'elle avait reçues à titre de legs
+dans le cadre de ladite succession. Elle fait valoir que les nombreuses décisions rendues par les
+autorités vaudoises, notamment pénales, dans le cadre desquelles elle avait requis –
+et jamais obtenu – la production des pièces en question, seraient arbitraires, et que les
+frais judiciaires qui lui sont réclamés dans le cadre de différentes poursuites, ensuite
+de ces décision, seraient dès lors injustifiés. La recourante soutient qu'il importerait
+que les douze pièces mentionnées dans sa plainte du 30 juillet 2018 soient produites, afin
+de déterminer la valeur des actions saisies, conformément à l’art. 97 al. 1 LP.
+Force est de constater que la recourante n'explique pas en quoi la cause – dont l'objet est uniquement
+sa plainte visant le tableau de distribution du dividende établi par l'office le 19 juillet 2018
+– serait complexe et nécessiterait l’assistance d’un avocat. Les moyens qu'elle
+invoque concernent en réalité la valeur des actions saisies et tendent à la production
+de pièces qui ne sauraient avoir d'incidence sur la distribution du dividende, dont elle ne conteste
+du reste ni le montant ni la répartition. Dans ces circonstances, il ne se justifie pas d'octroyer
+l'assistance judiciaire à la plaignante.
+III.
+Le
+recours doit donc être rejeté et le prononcé entrepris confirmé.
+Le présent arrêt
+est rendu sans frais (art. 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35] et 119 al. 6 CPC par analogie).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme D.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l'est vaudois, autorité inférieure de
+surveillance.
+La greffière :
