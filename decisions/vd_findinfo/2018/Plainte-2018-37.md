@@ -1,0 +1,593 @@
+---
+decision_id: "vd_findinfo_Plainte___2018___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2018 / 37"
+decided: "2018-12-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7010377"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-682.md", "switzerland/bund/acts/220/art-032.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-125.md", "switzerland/bund/acts/281.1/art-126.md", "switzerland/bund/acts/281.1/art-132a.md", "switzerland/bund/acts/281.1/art-134.md", "switzerland/bund/acts/281.1/art-135.md", "switzerland/bund/acts/281.1/art-142a.md", "switzerland/bund/acts/281.1/art-143a.md", "switzerland/bund/acts/281.1/art-156.md", "switzerland/bund/acts/281.42/art-058.md", "switzerland/bund/acts/281.42/art-060.md", "switzerland/bund/acts/281.42/art-060a.md"]
+---
+
+# VD Findinfo Plainte / 2018 / 37
+
+## Regeste
+
+GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, ADJUDICATION{VENTE AUX ENCHÈRES}, QUALITÉ POUR AGIR ET RECOURIR, DROIT DE PRÉEMPTION, CONDITIONS DES ENCHÈRES, COMMUNE POLITIQUE, CONSEIL EXÉCUTIF, ASSEMBLÉE COMMUNALE, REPRÉSENTATION | 4 al. 1 ch. 6 LC, 68 al. 1 LC, 132a al. 1 LP, 134 LP, 156 al. 1 LP, 17 al. 1 LP, 17 LP, 58 ORFI, 60a ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 28.12.2018 Plainte / 2018 / 37
+
+GAGE IMMOBILIER, POURSUITE EN RÉALISATION DE GAGE, ADJUDICATION{VENTE AUX ENCHÈRES}, QUALITÉ POUR AGIR ET RECOURIR, DROIT DE PRÉEMPTION, CONDITIONS DES ENCHÈRES, COMMUNE POLITIQUE, CONSEIL EXÉCUTIF, ASSEMBLÉE COMMUNALE, REPRÉSENTATION | 4 al. 1 ch. 6 LC, 68 al. 1 LC, 132a al. 1 LP, 134 LP, 156 al. 1 LP, 17 al. 1 LP, 17 LP, 58 ORFI, 60a ORFI
+
+TRIBUNAL
+CANTONAL
+FA18.030821-181482
+38
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+28 décembre 2018
+______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17 al. 1, 132a al. 1, 134, 156 al. 1 LP ; 58, 60a ORFI ; 4 al. 1 ch. 6, 68 al. 1 LC/VD
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Q.________
+Sàrl
+, à [...],
+A.Z.________
+,
+à [...], et
+B.Z.________
+,
+audit lieu, contre la décision rendue le 11 septembre 2018, à la suite de l’audience
+du 4 septembre 2018, par la Présidente du Tribunal d’arrondissement de l’Est vaudois,
+autorité inférieure de surveillance, rejetant la plainte formée par les recourants contre
+la vente aux enchères effectuée par l’
+Office
+des poursuites du district d'Aigle
+, à [...],
+dans la cause les opposant à la
+Banque
+N.________
+, à [...], et la
+COMMUNE
+D’
+Y.________
+,
+à Y.________.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+A.Z.________ est propriétaire individuellement de la parcelle n°  [...] de la Commune
+d’Y.________. L’extrait du registre foncier relatif à cette parcelle mentionne sous
+la rubrique «
+Servitudes
+»
+un «
+DDP (réd. :
+droit distinct et permanent) Superficie jusqu’au 13 octobre 2047
+»
+du 17 octobre 1997 en faveur de la Commune d’Y.________.
+B.Z.________ est l’épouse de A.Z.________.
+b)
+Lors
+de sa séance du 15 septembre 2016, le Conseil communal d’Y.________ a pris les dispositions
+suivantes (préavis [...]) :
+«
+DECIDE
+1.
+D’accorder à la Municipalité l’autorisation générale de statuer sur les
+acquisitions et les aliénations d’immeubles, dans une limite de CHF 30'000.00 au maximum par
+cas, charges éventuelles comprises, pour la durée de la législature 2016-2021. Cette autorisation
+est valable pour la durée de la législature 2016-2021, soit du 1
+er
+juillet 2016 jusqu’au 30 juin 2021, elle viendra toutefois à échéance 6 mois après
+la fin de la législature, soit au 31 décembre 2021. »
+c)
+A
+la suite d’une réquisition de vente déposée par la Banque N.________ dans le cadre
+de la poursuite en réalisation de gage immobilier n° 7'522'640 dirigée contre A.Z.________,
+l’Office des poursuites du district d’Aigle (ci-après : l’Office) a, par
+courriers recommandés du 20 avril 2018, notifié à A.Z.________ et B.Z.________ l’état
+des charges des parcelles n
+os
+[...], [...] et [...] de la Commune d’Y.________ en vue de leur vente aux enchères prévue
+le 10 juillet 2018.
+Par courrier recommandé du 9 mai 2018, l’Office a notifié à A.Z.________ et B.Z.________
+les conditions de vente de la parcelle n° [...] susmentionnée. Lesdites conditions précisent
+que cette parcelle a été estimée par un expert officiel à 90'000 fr. et que l’immeuble
+sera adjugé après trois criées au plus offrant à condition que son offre soit supérieure
+à 10'379 fr. 40., chaque offre devant dépasser la précédente d’au moins 3'000
+francs. Le chiffre 24 des conditions de vente a la teneur suivante :
+«
+La Commune d’Y.________ représentée par sa municipalité, propriétaire de la
+parcelle RF [...], est le superficiaire de la parcelle réalisée. A ce titre et conformément
+à l’art. 60a ORFI, la Commune d’Y.________ ne peut exercer son droit de préemption
+légal que lors des enchères et aux conditions de l’adjudication.
+Après que l’offre la plus élevée aura été criée trois fois, le titulaire
+du droit de préemption légal, présent ou représenté, sera invité à
+déclarer au Président des enchères, s’il entend exercer son droit. L’enchérisseur
+qui aura fait l’offre la plus élevée demeurera lié par cette dernière jusqu’à
+ce que le titulaire du droit de préemption légal se soit exprimé.
+Si l’ayant droit déclare qu’il veut exercer son droit de préemption pour le prix
+indiqué à l’offre la plus élevée, l’immeuble lui sera adjugé ;
+dans ce cas l’enchérisseur qui aura fait l’offre la plus élevée sera libéré
+de son offre.
+A défaut d’une telle déclaration, la Commune d’Y.________ ne pourra plus exercer
+dans la suite son droit de préemption légal contre l’enchérisseur en faveur duquel
+l’adjudication a été prononcée. »
+Les conditions de vente n’ont pas fait l’objet de contestation.
+d)
+Dans
+sa séance extraordinaire du 25 mai 2018, le Conseil communal d’Y.________ a notamment décidé
+ce qui suit (préavis [...]) :
+« 1.
+D’autoriser la Municipalité à faire valoir son droit de préemption pour l’achat
+de la parcelle RF [...] ;
+2. De lui octroyer, à cet effet, un crédit maximum de CHF 90'000.00 à prélever sur
+les liquidités de la caisse communale ou au besoin, de procéder à l’emprunt nécessaire
+auprès d’un établissement reconnu par l’Etat ;
+3. De l’autoriser à amortir comptablement ce montant au maximum sur 30 ans. »
+Le préavis municipal se réfère à l’avis de vente aux enchères publié
+dans la Feuille des avis officiel le 23 mars 2018, indiquant que la parcelle en cause était estimée
+par l’Office, selon rapport d’expert, à 90'000 francs.
+e)
+La
+vente aux enchères de la parcelle n° [...] susmentionnée a eu lieu le 10 juillet 2018
+à la salle des ventes juridiques de l’Office dès 10 h 25. Selon le procès-verbal
+établi à cette occasion, la créancière Banque N.________ a fait une offre écrite
+de 90'000 fr. qui a constitué la mise de départ. Q.________ Sàrl, représentée
+par W.________, a formulé une offre à 93'000 francs. Les enchères ont été suspendues
+et le Préposé aux enchères a invité l’enchérisseur à satisfaire aux
+conditions de la vente. Q.________ Sàrl a présenté un extrait du registre du commerce,
+un passeport et a versé, conformément aux conditions de vente, 18'000 fr. en espèce à
+valoir sur le prix d’adjudication et 2'000 fr. en espèces en couverture de la provision pour
+les frais.
+La Commune d’Y.________ a ensuite été invitée à déclarer si elle entendait
+exercer son droit de préemption légal selon l’art. 682 al. 2 CC, conformément au
+chiffre 24 des conditions de vente. Par l’intermédiaire du Municipal C.________, la Commune
+d’Y.________ a fait valoir ce droit. C.________ a présenté une pièce d’identité,
+une procuration délivrée par la municipalité, les décisions du conseil communal des
+15 septembre 2016 et 25 mai 2018 susmentionnées, une autorisation générale de plaider
+accordée à la municipalité par décision dudit conseil du 15 septembre 2016 (préavis
+[...]) et un chèque de 20'000 francs (18'000 fr. à valoir sur le prix d’adjudication
+et 2'000 fr. concernant la provision pour les frais).
+Q.________ Sàrl, par son conseil, a demandé s’il pouvait faire une surenchère, demande
+à laquelle le Préposé aux enchères lui a répondu par la négative.
+La parcelle a en conséquence été adjugée à la Commune d’Y.________ pour
+le prix de 93'000 francs.
+f)
+Le
+procès-verbal de la vente aux enchères a été adressé par l’Office au conseil
+de Q.________ Sàrl, A.Z.________ B.Z.________ le 11 juillet 2018.
+2.
+Par acte du 16 juillet 2018, Q.________ Sàrl, A.Z.________ et B.Z.________, par leur conseil, ont
+déposé une plainte au sens de l’art. 17 LP à l’encontre de la vente précitée,
+en concluant, principalement à l’annulation de l’adjudication de la parcelle en cause
+à la Commune d’Y.________, à l’adjudication de dite parcelle à Q.________
+Sàrl, et subsidiairement, à l’annulation de la vente et de l’adjudication de la
+parcelle à la Commune d’Y.________ et à la fixation d’une nouvelle vente aux enchères.
+Par décision du 24 juillet 2018, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois a prononcé l’effet suspensif requis jusqu’à droit connu sur la plainte.
+Dans ses déterminations du 16 août 2018, l’Office a préavisé en faveur du rejet
+de la plainte.
+A l’audience du 4 septembre 2018, se sont présentés : la représentante de Q.________
+Sàrl et A.Z.________, assistés de leur conseil, le substitut au Préposé de l’Office,
+les représentants de la Banque N.________ et C.________ pour la Commune d’Y.________, assisté
+de son conseil. Les parties ont informé la présidente que, le 20 août 2018, les plaignants
+avaient saisi le Conseil d’Etat d’un recours contre la décision communale d’exercice
+du droit de préemption litigieux.
+3.
+Par décision du 11 septembre 2018, notifiée
+aux plaignants le lendemain, la Présidente du Tribunal d’arrondissement de l’Est vaudois,
+statuant en tant qu’autorité inférieure de surveillance, a rejeté la plainte (I),
+a révoqué l’effet suspensif accordé le 24 juillet 2018 (II) et a rendu la décision
+sans frais ni dépens (III). La présidente a en substance considéré qu’il n’appartenait
+pas à l’Office de s’assurer que le représentant de la municipalité –
+muni d’une procuration en bonne et due forme – était habilité à engager la
+commune à hauteur de 93’000 fr., que la décision du conseil communal à cet égard
+n’était du reste pas absolument limpide puisqu’elle mentionnait certes l’octroi
+d’un crédit maximum de 90’000 fr. à prélever sur les liquidités de la
+caisse communale mais également la possibilité de procéder à l’emprunt nécessaire
+auprès d’un établissement reconnu par l’État, qu’en tout état de
+cause, la question d’une éventuelle violation de la loi sur les communes par la Municipalité
+d’Y.________ était du ressort du Conseil d’Etat qui avait précisément été
+saisi d’un recours par les plaignants, qu’il appartiendrait ainsi à cette autorité
+de déterminer si l’opération s’était faite valablement sur le plan interne
+et si le représentant de la municipalité était fondé à dépasser le prix
+de 90'000 fr. sur la base de l’autorisation générale d’acheter délivrée
+par le conseil communal à hauteur de 30'000 fr. comme le soutenait la Commune d’Y.________
+et que, quoi qu’il en soit, il n’appartenait nullement à l’Office d’examiner
+et de trancher ces questions dès lors que les conditions de vente et d’exercice du droit de
+préemption étaient respectées et que le représentant de la municipalité avait
+justifié de ses pouvoirs par la production d’une procuration.
+4.
+a)
+Par acte du 24 septembre 2018, les plaignants
+ont recouru contre cette décision en concluant principalement à sa réforme en ce sens
+que la plainte est admise, que l’adjudication de la parcelle à la Commune d’Y.________
+est annulée, que la parcelle est adjugée à la recourante Q.________ Sàrl, un délai
+fixé à dire de justice lui étant octroyé pour satisfaire aux conditions de la vente,
+soit verser 18’000 fr. en espèce à valoir sur le prix d’adjudication et 2’000
+fr. en espèces concernant la provision pour les frais. Subsidiairement, ils ont conclu à sa
+réforme en ce sens que la vente et l’adjudication de la parcelle en cause sont annulées,
+ordre étant donné à l’Office de fixer une nouvelle vente aux enchères, les
+frais de la nouvelle vente étant mis à la charge de la Commune d’Y.________. Plus subsidiairement,
+ils ont conclu à l’annulation de la décision entreprise et au renvoi la cause à
+l’autorité de première instance pour nouvelle décision dans le sens des considérants.
+Ils ont requis que l’effet suspensif soit accordé au recours et ont produit les pièces
+suivantes :
+-
+une copie de leur recours au Conseil d’Etat du 20 août 2018 contre la décision d’exercer
+le droit de préemption litigieux ;
+-
+une copie d’un avis du 27 août 2018 du Service juridique et législatif du Canton de Vaud,
+organe d’instruction du recours du 20 août 2018 ;
+-
+une copie des déterminations du conseil des recourants adressées le 14 septembre 2018 au Service
+juridique et législatif du Canton de Vaud ;
+-
+une copie d’un préavis complémentaire n° [...], adopté le 3 septembre 2018
+par la Municipalité d’Y.________, proposant de confirmer de l’autorisation à la
+municipalité de faire valoir le droit de préemption de la Commune pour l’achat de la
+parcelle RF [...] au prix de 93'000 fr. et de lui octroyer un crédit complémentaire de 3'000
+fr. à cet effet.
+b)
+Par
+décision du 8 octobre 2018, la présidente de la cour de céans a déclaré sans
+objet la requête d’effet suspensif, celui-ci étant prévu par la loi (cf. art. 66
+al. 1 et 102 ORFI [ordonnance du 23 avril 1920 sur la réalisation forcée des immeubles ; RS
+281.42]).
+c)
+Dans
+ses déterminations du 18 octobre 2018, l’Office a préavisé au rejet du recours.
+Dans ses déterminations du 23 octobre 2018, la Commune d’Y.________ a conclu, avec suite de
+frais et dépens, au rejet du recours. Elle a produit une copie d’un extrait de la séance
+du Conseil communal d’Y.________ du 27 septembre 2018 prenant la disposition suivante (préavis
+[...]) :
+«
+DECIDE :
+1.
+De confirmer l’autorisation à la Municipalité à faire valoir son droit de préemption
+pour l’achat de la parcelle RF [...] au prix de CHF 93'000.00 ;
+2.              De lui octroyer, à
+cet effet, un crédit maximum de CHF 3'000.00 à prélever sur les liquidités de la
+caisse communale ou au besoin, de procéder à l’emprunt nécessaire auprès d’un
+établissement reconnu par l’Etat.
+3.              De l’autoriser
+à amortir comptablement ce montant au maximum sur 30 ans. »
+d)
+Le
+1
+er
+novembre 2018, les recourants ont déposé un mémoire ampliatif spontané confirmant
+leurs conclusions. Ils ont produit les pièces suivantes :
+-
+une copie d’un rapport de la Commission des finances du Conseil communal d’Y.________, relatif
+au préavis [...] ;
+-
+une copie de la décision du Conseil communal d’Y.________ du 27 septembre 2018 déjà
+produite par celle-ci ;
+-
+une copie de la décision du Conseil d’Etat du 10 octobre 2018 déclarant irrecevable pour
+cause de tardiveté le recours du 20 août 2018 susmentionné.
+d)
+Banque N.________ ne s’est pas déterminée dans le délai imparti.
+En droit :
+I.
+a)
+Le recours a été déposé en temps utile, dans les dix jours suivant la notification
+du prononcé attaqué (art. 18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite ; RS 281.1]; 28 al. 1 LVLP (loi du 18 mai 1955 d’application dans
+le canton de Vaud de la LP ; BLV 280.05]). Il est suffisamment motivé (TF 5A_118/2018 du 7
+février 2018 consid. 4.1).
+b)
+La
+qualité pour recourir – qui est une condition de recevabilité du recours et qui doit
+être examinée d’office – doit être reconnue à toute personne qui avait,
+devant l’autorité inférieure, qualité à la plainte et à toute personne
+ou autorité de poursuite qui fait valoir un intérêt digne de protection, direct, actuel
+et réel à la suite de la décision de l’autorité inférieure, tout ʺtiersʺ
+à la procédure de plainte dont la situation est modifiée et à qui d’ailleurs
+la décision de l’autorité inférieure doit être communiquée (Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 26 ad art. 18
+LP). La légitimation pour déposer plainte et recourir est subordonnée, quant aux personnes
+concernées par une procédure d’exécution forcée en cours, voire close, à
+l’existence d’une lésion ou d’une menace des intérêts juridiquement
+protégés ou d’une atteinte grave aux intérêts personnels, le recourant devant
+justifier d’un intérêt actuel, réel et concret à saisir l’autorité
+cantonale supérieure de surveillance (CPF 10 octobre 2018/30 ; CPF 1
+er
+juin 2015/20 ; CPF 13 janvier 2015/1 ; Gilliéron, op. cit., nn. 32 et 33 ad art.
+18 LP).
+En l’espèce on ne voit pas très bien en quoi l’adjudication de la parcelle litigieuse
+à la Commune d’Y.________ pour un prix correspondant à celui de l’offre la plus
+élevée était de nature à porter atteinte aux intérêts de A.Z.________ et
+de B.Z.________. La question de leur qualité pour agir peut toutefois demeurer indécise dans
+la mesure où celle-ci ne peut en tous les cas pas être déniée à Q.________ Sàrl
+en sa qualité d’enchérisseur évincé (Gilliéron, op. cit., n° 162
+ad art. 17 LP et les réf. citées).
+Le recours est en conséquence recevable à tout le moins dans la mesure où il émane
+de Q.________ Sàrl.
+c)
+Les déterminations de l’Office et de l’intimée ainsi que la pièce produite
+par cette dernière sont aussi recevables (art. 31 al. 1 LVLP).
+Il en est de même de l’écriture spontanée déposée par les recourants le
+1
+er
+novembre 2018 et des pièces qui y étaient jointes, en vertu de leur droit à la réplique
+(ATF 142 III 48 consid. 4 ; ATF 138 I 154 consid. 2.3.3).
+II.
+Les recourants soutiennent en substance qu’indépendamment de la procuration délivrée
+au représentant de la municipalité, l’Office ne pouvait adjuger la parcelle à la
+commune pour le prix de 93’000 fr. dès lors que le préposé était en possession
+de la décision du conseil communal qui limitait clairement l’autorisation d’achat à
+un montant maximum de 90’000 francs. Ils font par ailleurs valoir que si la municipalité avait
+réellement été en droit de dépasser ce montant sur la base de l’autorisation
+générale d’acquérir délivrée par le conseil communal pour la durée
+de la législature à hauteur de 30’000 fr., elle n’aurait pas déposé de
+préavis complémentaire auprès de ce même conseil pour faire valider le dépassement
+de 3000 francs. Ils exposent enfin que l’exercice du droit de préemption pour la somme de
+93’000 fr. aurait dû être considéré comme une offre subordonnée à
+la ratification du conseil communal, soit comme une offre conditionnelle prohibée par le chiffre
+3 des conditions de vente.
+L’intimée rétorque que l’Office n’avait pas à se livrer à une analyse
+juridique institutionnelle sur la compétence respective de la municipalité et du conseil communal
+dès lors que le représentant de la commune était dûment légitimé par une
+procuration, au bénéfice de la décision du conseil relative à l’adjudication
+de la parcelle en cause et d’une autorisation générale d’achat à concurrence
+de 30’000 francs par cas. Tout comme le premier juge, elle soutient qu’il appartenait au
+Conseil d’État de contrôler si l’exercice par la commune de son droit de préemption
+s’est fait dans le respect des règles de compétence entre la municipalité et le
+conseil. À titre subsidiaire, elle soutient que si le crédit voté par le conseil communal
+était effectivement de 90’000 fr., la municipalité disposait d’une marge supplémentaire
+de 30’000 fr. sur la base de la délégation générale délivrée pour
+la durée de la législature. Elle expose enfin que si l’art. 4 de la loi sur les communes
+place dans la compétence du conseil, sous réserve de délégation, les acquisitions
+immobilières, cet article ne précise pas que l’approbation du conseil devrait forcément
+être donné en aval de la décision d’acquisition.
+a)
+La réalisation du gage a lieu conformément aux art. 122 à 143b LP (art. 156 al. 1 LP).
+Conformément à l’art. 134 al. 1 LP, l’office des poursuites arrête les conditions
+des enchères immobilières d’après l’usage des lieux et de la manière
+la plus avantageuse. Les conditions de vente, y compris l’état des charges, constituent le
+fondement de toutes ventes aux enchères d’immeubles; elles en déterminent les formalités,
+notamment les modalités de l’adjudication (ATF 128 III 339, JdT 2002 II 81). Leur contenu
+est défini par les art. 135 LP et 45 ss ORFI. L’office jouit pour le surplus d’une marge
+d’appréciation dans la perspective de réaliser l’immeuble "de la manière
+la plus avantageuse"; il doit au reste s’aligner sur "l’usage des lieux",
+en tant que la question n’est pas réglée par le droit fédéral (Piotet, in Dallèves/Foëx/Jeandin
+(éd.) Commentaire romand, Poursuite et faillite, n. 5 ad art. 134 LP).
+Aux termes de l’art. 126 al. 1 LP, l’objet à réaliser est adjugé après
+trois criées au plus offrant, à condition que l’offre soit supérieure à la
+somme des créances garanties par gage préférables à celle du poursuivant. Lorsque
+la dernière offre est, pour une raison ou pour une autre, irrecevable, la vente aux enchères
+doit être continuée, l’offre immédiatement inférieure étant à nouveau
+criée trois fois et le bien adjugé s’il n’est pas fait d’offre supérieure
+(Bettschart, in Commentaire romand, op. cit., n. 11 ad art. 126 LP ; art. 60 al. 2 ORFI).
+Selon l’art. 60a ORFI, les droits de préemptions légaux – tel que celui accordé
+au superficiaire contre tout acquéreur du fonds, dans la mesure où le fonds est mis à
+contribution par l’exercice du droit de superficie (art. 682 al. 2 CC ; Häberlin, Commentaire
+ORFI, n. 3 ad art. 60a ORFI) – ne peuvent être exercés que lors des enchères mêmes
+et aux conditions de l’adjudication (al. 1). Après que l’offre la plus élevée
+aura été criée trois fois, celui qui dirige les enchères devra inviter les titulaires,
+présents ou représentés, d’un droit de préemption légal à déclarer
+s’ils entendent exercer leurs droits. L’enchérisseur qui a fait l’offre la plus
+élevée demeure lié par son offre jusqu’à ce que les titulaires d’un droit
+de préemption légal se soient exprimés (al. 3). Si l’un des ayants droits déclare
+qu’il veut exercer son droit de préemption pour le prix indiqué dans l’offre la
+plus élevée, l’immeuble lui sera adjugé (al. 4, 1
+ère
+phrase). Concrètement, l’immeuble est donc adjugé au plus offrant après que celui-ci
+se soit immédiatement acquitté en espèces du montant exigé ou ait fourni des sûretés.
+Si le titulaire d’un droit de préemption déclare vouloir exercer son droit après
+l’adjudication de l’immeuble, il prend la place du plus offrant pour autant qu’il ait
+lui-même payé le montant requis en espèces ou fourni les sûretés exigées.
+Le plus offrant n’est alors plus considéré comme l’adjudicataire et le montant
+de l’acompte et/ou les sûretés qu’il a fournies doit lui être restitué
+sur-le-champ. Si le titulaire du droit de préemption ne s’acquitte pas du montant en espèces
+ou ne fournit pas les sûretés immédiatement, son droit est périmé et l’adjudication
+demeure acquise au plus offrant. La procédure d’attribution doit être décrite en
+détail dans le procès-verbal d’adjudication (Häberlin, op. cit., n. 6 ad art. 60a
+ORFI).
+Le directeur des enchères doit exiger de ceux qui enchérissent en qualité de représentant
+de justifier de leur pouvoir et doit les joindre au dossier si le représentant obtient l’adjudication
+(art. 58 al. 2 ORFI ; Gilliéron, op. cit., n. 42 ad art. 126 LP et n. 35 ad art 142a LP) ; le directeur
+des enchères ne saurait adjuger le droit patrimonial mis en vente à un représentant sans
+pouvoirs en fixant un délai au représenté pour ratifier (ATF 117 III 42-43, JdT 1994 II
+18-19 ; Gilliéron, op. cit., n. 42 ad art. 126 LP). Les associations, fondations et autres corporations
+ou établissements de droit public justifient de leurs pouvoirs de représentation en présentant
+leurs statuts, loi ou autres règlements d’organisation. Les personnes autorisées à
+les représenter doivent prouver leur nomination en produisant un extrait du procès-verbal y
+afférent. S’il ressort des documents produits que l’adjudication requiert le consentement
+d’un organe de l’adjudicataire, l’extrait du procès-verbal de ratification doit
+également être produit avant l’adjudication (Häberlin, op. cit., n. 9 ad art. 58
+ORFI).
+Selon l’art. 132a al. 1 LP, également applicable en vertu de l’art. 156 al. 1 LP dans
+le cadre d’une poursuite en réalisation de gage immobilier, la réalisation ne peut être
+attaquée que par le biais d’une plainte contre l’adjudication. Cette compétence
+exclusive de l’autorité de surveillance vaut quels que soient les griefs invoqués, qu’ils
+relèvent du droit de la poursuite ou du droit matériel, qu’il s’agisse d’irrégularités
+commises lors des opérations d’adjudication ou lors de la procédure préparatoire
+(TF 5A_359/2016 du 7 septembre 2016 consid. 5.2 ; CPF 23 novembre 2017/34 ; Bettschart, op. cit., n.
+4 ad art. 132a LP et nn. 16 ss ad art. 125 LP). Le moyen tiré du défaut de pouvoir du soi-disant
+représentant de l’adjudicataire peut ainsi être soulevé dans le cadre d’une
+plainte (Gilliéron, op. cit., n. 20, ad art. 143a LP et les réf. citées).
+b)
+Conformément
+à l’art. 4 al. 1 LC/VD (loi vaudoise du 28 février 1956 sur les communes ; BLV 175.11),
+le conseil général ou communal délibère notamment sur l’acquisition et l’aliénation
+d’immeubles, de droits réels immobiliers et d’actions ou parts de sociétés
+immobilières. L’article 44 ch. 1 LC/VD – qui octroie à la municipalité la
+compétence de statuer sur l’acquisition de servitude ne comportant aucune charge pour la commune
+– est réservé. Le conseil peut également accorder à la municipalité l’autorisation
+générale de statuer sur les aliénations et les acquisitions en fixant une limite (ch.
+6). La délégation de compétence prévue au ch. 6 est accordée pour la durée
+de la législature et jusqu’au 31 décembre de l’année du renouvellement intégral
+des autorités communales à moins qu’elle ne figure dans un règlement arrêté
+par le conseil. La municipalité doit en outre rendre compte, à l’occasion du rapport
+sur sa gestion, de l’emploi qu’elle a fait de sa compétence (art. 4 al. 2 LC/VD).
+Selon l’art. 41 al. 1 LC/VD, l’exécution de tout ce qui a été définitivement
+arrêté par le conseil général ou communal appartient à la municipalité.
+Aux termes de l'art. 67 LC/VD, pour être réguliers en la forme, les actes de la municipalité
+doivent être donnés sous la signature du syndic et du secrétaire ou de leur remplaçant
+désigné par la municipalité, et munis du sceau de cette autorité; s'ils sont pris
+en exécution d'une décision du conseil général ou communal, ils doivent mentionner
+cette décision, laquelle est jointe à l'acte (al. 1). La municipalité peut, par décision,
+déléguer des pouvoirs de signature à l'un de ses membres, à un cadre ou un employé
+communal. La délégation s'opère par une procuration expresse donnée sous la signature
+du syndic et du secrétaire ou de leur remplaçant désigné par la municipalité,
+et munie du sceau de cette autorité (al. 2). La procuration peut être spéciale ou générale.
+Dans ce dernier cas, elle indique les limites et la durée du mandat (al. 3). Les actes pris en vertu
+d'une délégation de pouvoirs doivent être donnés sous la signature du ou des membres
+de la municipalité ou de la personne au bénéfice de la délégation (al. 4).
+Selon l'art. 68 LC/VD, les actes réguliers en la forme, au sens de l'art. 67 LC/VD, engagent la
+commune, à moins que celle-ci ne rapporte la preuve que le ou les signataires de l'acte, ou l'organe
+communal lui-même, ont excédé leurs pouvoirs d'une manière manifeste, reconnaissable
+par les tiers intéressés (al. 1). L'alinéa 2 de cette disposition réserve la représentation,
+selon le droit civil, de la commune agissant comme personne de droit privé (art. 32 ss CO).
+c)
+En l’espèce, la vente aux enchères de la parcelle n° [...] de la commune d’Y.________,
+propriété de A.Z.________, a eu lieu le 10 juillet 2018.
+Il ressort du procès-verbal établi à cette occasion que la Banque N.________ avait préalablement
+fait une offre écrite de 90’000 francs qui a constitué la mise à prix de départ.
+Lors de la vente, Q.________ Sàrl, représentée par W.________, a formulé une offre
+à 93’000 francs. Après trois criées, les enchères ont été suspendues.
+Le préposé a alors invité l’enchérisseuse à satisfaire aux conditions
+de vente ce qu’elle a fait en présentant un extrait du registre du commerce, un passeport
+et en versant 18’000 fr. en espèces à valoir sur le prix d’adjudication ainsi que
+de 2000 fr. en espèces à titre de provision (cf. ch. 10 des conditions de vente).
+La Commune d’Y.________ a ensuite été invitée à déclarer si elle entendait
+exercer son droit de préemption légal selon l’art. 682 al. 2 CC, conformément au
+ch. 24 des conditions de vente. C.________, municipal, a alors fait valoir le droit de préemption
+légal de la commune. Il a en outre remis au préposé un chèque d’une valeur
+de 20’000 fr. représentant les 18’000 fr. à faire valoir sur le prix de l’adjudication
+et les 2000 fr. de provision pour les frais.
+Afin de justifier ses pouvoirs, le municipal a produit une pièce d’identité, une procuration
+délivrée par la municipalité, un extrait du procès-verbal de la séance extraordinaire
+du conseil communal du 25 mai 2018 (préavis [...]), un extrait du procès-verbal de la séance
+du conseil communal du 15 septembre 2016 (préavis [...]) ainsi qu’un extrait du procès-verbal
+de la séance du conseil communal du 15 septembre 2016 (préavis [...]). Il résulte des
+principes rappelés plus haut (cf. consid. IIa)) que la question de savoir si le représentant
+de l’intimée a ainsi justifié de l’existence des pouvoirs nécessaires pour
+exercer le droit de préemption est bien de la compétence des autorités de surveillance.
+À cet égard, il ressort des pièces produites que C.________ disposait tout d’abord
+d’une procuration délivrée par la municipalité et dûment signée par le
+syndic ainsi que par le secrétaire : le municipal pouvait par conséquent valablement représenter
+la municipalité aux enchères. Il découle toutefois de l’art. 4 ch. 6 LC/VD que sous
+réserve d’une éventuelle autorisation générale accordée à la municipalité,
+l’acquisition et l’aliénation d’immeubles est de la compétence exclusive
+du conseil communal. Il s’agit donc d’examiner si l’intéressé a également
+été en mesure de produire une autorisation générale ou une décision spéciale
+du conseil communal autorisant la municipalité à exercer le droit de préemption en cause.
+Sur ce point, il résulte tout d’abord des pièces remises au préposé par C.________
+que le Conseil communal d’Y.________ a bien délivré à la municipalité une autorisation
+générale en matière d’acquisition et d’aliénation d’immeuble le
+15 septembre 2016. Le conseil a toutefois expressément limité cette délégation de
+compétence aux transactions d’une valeur 30’000 fr. au maximum par cas, charges éventuelles
+comprises (préavis [...]). La municipalité ne pouvait donc pas, sur la base de cette autorisation
+générale, exercer un droit de préemption qui allait coûter 93’000 fr. à
+la commune.
+C.________ a également transmis au préposé une décision rendue le 25 mai 2018 par
+le conseil communal qui autorise spécifiquement la municipalité à faire valoir le droit
+de préemption de la commune pour l’achat de la parcelle RF [...] et lui octroie à cet
+effet un crédit maximum de 90’000 fr. «
+à
+prélever sur les liquidités de la caisse communale ou au besoin, de procéder à l’emprunt
+nécessaire auprès d’un établissement reconnu par l’État
+», le montant en cause pouvant par ailleurs être amorti comptablement sur une durée d’au
+maximum 30 ans (préavis [...]). Par cette décision, le conseil communal a donc autorisé
+la municipalité à exercer son droit de préemption pour un montant maximum de 90’000
+fr., finançable par prélèvement sur la caisse ou par le biais d’un emprunt. Cette
+décision spéciale n’autorisait donc pas, elle non plus, la municipalité à exercer
+le droit de préemption à hauteur de 93’000 francs. Enfin, et contrairement à ce
+que soutient la Commune d’Y.________, dans la mesure où cette décision spéciale
+octroyait à la municipalité un crédit maximum de 90’000 fr., il est exclu de considérer
+que cette dernière disposait encore d’une marge de manœuvre de 30’000 fr. sur la
+base de l’autorisation générale du 15 septembre 2016. Du reste, si tel avait effectivement
+été le cas, la municipalité aurait sollicité un crédit de 60'000 fr., d’une
+part, et elle n’aurait pas fait ratifier après coup le dépassement de 3000 fr. par le
+conseil communal, d’autre part.
+Il découle de ce qui précède qu’en déclarant vouloir exercer le droit de préemption
+de la commune pour un prix de 93’000 fr. lors des enchères du 10 juillet 2018, le représentant
+de la municipalité a manifestement, et de façon reconnaissable pour le préposé, excédé
+les pouvoirs qui avaient alors été confiés à la municipalité par le conseil
+communal. Il s’ensuit que le préposé n’aurait pas dû adjuger la parcelle en
+cause à la commune mais à Q.________ Sàrl. Le fait que l’exercice du droit de préemption
+pour un coût de 93’000 fr. ait désormais été validé par le conseil communal
+ne saurait suffire à réparer cette irrégularité de procédure qui a conduit à
+priver Q.________ Sàrl d’une adjudication qui aurait pourtant dû lui revenir.
+Dans la mesure où la substitution d’un acquéreur à un autre n’est toutefois
+pas possible (Gilliéron, op. cit., n. 50 ad art. 132a LP et n. 28 ad art 143a LP et les réf.
+citées), la seule solution consiste à annuler la vente aux enchères du 10 juillet
+2018, l’Office étant par ailleurs invité à procéder à une nouvelle réalisation.
+On ne voit en revanche pas sur quelle base les frais de cette nouvelle réalisation pourraient être
+mis à la charge de la Commune d’Y.________, comme le demandent les recourants.
+III.
+En conclusion, le recours doit être admis
+dans la mesure où il est recevable et le prononcé réformé en ce sens que la plainte
+est admise, la vente aux enchères du 10 juillet 2018 annulée et l’Office invité
+à procéder à une nouvelle réalisation.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis dans la mesure où il est recevable.
+II.
+Le prononcé est réformé en ce sens que la plainte est admise, la vente aux enchères
+du 10 juillet 2018 annulée et l’Office des poursuites du district d’Aigle invité
+à procéder à une nouvelle réalisation.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Jean-Marc Schlaeppi, agent d’affaires breveté (pour Q.________ Sàrl, A.Z.________
+et B.Z.________),
+‑
+Banque N.________,
+–
+Me Jacques Haldy, avocat (pour Commune d’Y.________),
+-
+M. le Préposé à l’Office des poursuites du district d’Aigle.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
