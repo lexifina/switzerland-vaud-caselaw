@@ -1,0 +1,122 @@
+---
+decision_id: "vd_gerichte_a02da0d5-2525-4674-ba53-fd8e7eb54e50"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CREC"
+docket: "1"
+decided: "2019-01-04"
+published: "2019-01-30"
+language: "fr"
+legal_area: "Exécution forcée"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/a02da0d5-2525-4674-ba53-fd8e7eb54e50"
+cites_decisions: ["4A_101/2014", "4A_474/2013", "5A_396/2013", "BGE 138 III 374"]
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-341.md"]
+---
+
+# Exécution forcée
+
+## Text
+
+TRIBUNAL CANTONAL
+JM18.046811-182029
+1
+CHAMBRE D E S RECOURS CIVIL E
+_________________________________________
+Arrêt du 4 janvier 2019
+__________________
+Composition : M. SAUTEREL, président
+M. Pellet et Mme Courbat, juges
+Greffier : M. Hersch
+*****
+Art. 321 al. 1 et 341 al. 3 CPC
+Statuant à huis clos sur le recours interjeté par D.L.________, à
+Echandens, intimé, contre l’ordonnance d’exécution forcée rendue le 21
+décembre 2018 par la Juge de paix du district de Morges dans la cause
+divisant le recourant et E.L.________ d’avec V.________, à Prilly, requérant,
+la Chambre des recours civile du Tribunal cantonal considère :
+855
+
+- 2 -
+En fait et e n droi t :
+1. Par ordonnance d’exécution forcée du 21 décembre 2018, la
+Juge de paix du district de Morges (ci-après : la Juge de paix) a ordonné
+l’exécution forcée de la transaction signée le 27 septembre 2018 devant la
+Commission de conciliation en matière de baux à loyer et l’a fixée au jeudi
+31 janvier 2019 à 9h00 (I), a dit que l’exécution forcée aurait lieu par les
+soins de l’huissier de paix, sous la présidence du juge de paix (II), a enjoint
+les agents de la force publique de concourir à l’exécution forcée s’ils en
+étaient requis (III), a avisé les parties intimées E.L.________ et D.L.________
+qu’il serait au besoin procédé à l’ouverture forcée (IV) et a dit que les frais
+seraient fixés à l’issue de la procédure (V).
+2. Par acte du 22 décembre 2018, D.L.________ a interjeté recours
+contre l’ordonnance qui précède. Il s’est déclaré surpris que la Juge de
+paix soit compétente pour procéder à l’exécution forcée, compte tenu des
+plaintes civiles et pénales qu’il avait déposées contre celle-ci.
+3. La voie du recours de l'art. 319 let. a CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272) est ouverte contre les décisions du
+tribunal de l'exécution, la voie de l'appel étant exclue par l'art. 309 let. a
+CPC (Jeandin, Commentaire romand CPC, 2e éd., 2019, n. 5 ad art. 309
+CPC et n. 22 ad art. 341 CPC). L'exécution des décisions étant régie par la
+procédure sommaire (art. 248 let. a et 339 al. 2 CPC), le recours, écrit et
+motivé, doit être introduit dans les dix jours à compter de la notification de
+la décision motivée (art. 321 al. 2 CPC).
+En l'espèce, interjeté en temps utile par une partie qui y a
+intérêt (art. 59 al. 2 let. a CPC), le recours est recevable à cet égard.
+S’agissant des conclusions, on comprend à la lecture de l’acte que le
+recourant s’oppose à l’exécution forcée de la transaction judiciaire du le
+27 septembre 2018.
+
+- 3 -
+4. Le recours doit être motivé (art. 321 al. 1 CPC). Le recourant
+doit expliquer en quoi son argumentation peut influer sur la solution
+retenue par le premier juge (TF 4A_474/2013 du 10 mars 2014 consid.
+3.1). La motivation doit être suffisamment explicite pour que l'instance de
+recours puisse la comprendre aisément, ce qui suppose une désignation
+précise des passages de la décision que le recourant attaque et des pièces
+du dossier sur lesquelles repose sa critique (ATF 138 III 374 consid. 4.3.1 ;
+TF 5A_396/2013 du 26 février 2014 consid. 5.3.1). En l’absence de
+motivation suffisante, le recours doit être déclaré irrecevable
+(TF 4A_101/2014 du 26 juin 2014 consid. 3.3).
+En l’espèce, le seul moyen invoqué par le recourant est la
+prétendue incompétence du premier juge en raison des plaintes civiles et
+pénales déposées par le recourant contre celui-ci. Or aucune requête de
+récusation du premier juge n’a été formulée en première instance, de
+sorte que ce moyen est sans consistance. Pour le surplus, le recourant ne
+s’en prend pas dans son acte de recours à la motivation développée par le
+premier juge à l’appui de l’ordonnance d’exécution forcée litigieuse.
+5. Le défaut de motivation ainsi relevé doit conduire à
+l’irrecevabilité du recours, selon le mode procédural de l’art. 322 al. 1 CPC.
+Il peut être statué sans frais judiciaires de deuxième instance (art. 11 TFJC
+[tarif des frais judiciaires civils du 28 septembre 2010 ; RSV 270.11.5]).
+Par ces motifs,
+la Chambre des recours civile du Tribunal cantonal,
+en application de l'art. 322 al. 1 CPC,
+prononce :
+I. Le recours est irrecevable.
+II. L’arrêt, rendu sans frais judiciaires de deuxième instance, est
+exécutoire.
+
+- 4 -
+Le président : Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié à :
+- D.L.________,
+- Mme Vanessa Casas (curatrice de D.L.________),
+- Mikaël Ferreiro, aab (pour V.________).
+La Chambre des recours civile considère que la valeur
+litigieuse est supérieure à 15'000 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les affaires
+pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de
+droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins que la
+contestation ne soulève une question juridique de principe (art. 74 LTF).
+Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+- Madame la Juge de paix du district de Morges.
+Le greffier :
