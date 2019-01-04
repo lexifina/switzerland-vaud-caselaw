@@ -1,0 +1,316 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 25"
+decided: "2019-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6990059"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-111.md", "switzerland/bund/acts/312.0/art-120.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-427.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-432.md", "switzerland/bund/acts/312.0/art-436.md", "switzerland/bund/acts/641.20/art-018.md"]
+---
+
+# VD Findinfo Décision / 2019 / 25
+
+## Regeste
+
+DÉPENS, NÉGLIGENCE GRAVE, PLAIGNANT | 310 CPP (CH), 429 al. 1 let. a CPP (CH), 432 al. 2 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.01.2019 Décision / 2019 / 25
+
+DÉPENS, NÉGLIGENCE GRAVE, PLAIGNANT | 310 CPP (CH), 429 al. 1 let. a CPP (CH), 432 al. 2 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1
+PE18.022103-CMI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 janvier 2019
+__________________
+Composition
+:               M.
+Perrot
+,
+juge unique
+Greffier
+:              M.
+Glauser
+*****
+Art.
+310, 429 al. 1 let. a et 432 al. 2 CPP
+Statuant sur le recours interjeté le 3 décembre 2018 par
+S.________
+contre l’ordonnance de non-entrée en matière rendue le 21 novembre 2018 par le Ministère
+public de l’arrondissement du Nord vaudois dans la cause
+n° PE18.022103-CMI
+,
+le Juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 11 septembre 2018, H.________SA ont déposé
+plainte contre S.________ pour vol. Travaillant dans cette entreprise en qualité d’employée
+de nettoyage pour le compte d’une autre société, il était reproché à cette
+dernière d’avoir dérobé un billet de 100 fr. dans le fond de caisse du restaurant
+de l’entreprise.
+Dans le cadre de cette procédure, la prévenue s’est faite assister d’un défenseur
+de choix en la personne de Me Didier de Oliveira, avocat à Neuchâtel.
+Des investigations ultérieures menées au sein de l’entreprise ont permis de retrouver
+le billet de 100 fr. manquant dans une « autre caissette à monnaie » (P. 4,
+p. 3), de sorte que, par courrier du 10 octobre 2018, H.________SA ont déclaré retirer leur
+plainte, aucun vol n’ayant été commis.
+Le défenseur de la prévenue a produit une note d’honoraires établie le 2 octobre
+2018 et a requis qu’une indemnité d’un montant de 605 fr. 85 soit allouée à
+cette dernière au sens de l’art. 429 CPP (P. 4, p. 3 et P. 6/3).
+B.
+Par ordonnance du 21 novembre 2018, le Ministère
+public a refusé d’entrer en matière sur la plainte (I), a mis les frais de procédure,
+par 375 fr., à la charge des H.________SA (II) et a rejeté la requête d’indemnité
+formulée par S.________ (III). S’agissant de l’indemnité requise par la prévenue,
+il a considéré que la cause n’était compliquée ni en fait, ni en droit, de
+sorte que le recours à un défenseur n’était pas obligatoire, que des inconvénients
+mineurs tels que l’obligation de comparaître à une audience ne donnaient pas lieu à
+indemnisation et qu’une ordonnance de non-entrée en matière ne permettait pas l’allocation
+d’indemnités en application de l’art. 429 CPP, aucune instruction n’ayant eu lieu.
+C.
+Par acte du 3 décembre 2018, S.________ a
+recouru contre cette ordonnance, en concluant, avec suite de frais et dépens, principalement à
+sa réforme en ce sens qu’une indemnité d’un montant de 605 fr. 85 lui soit allouée
+pour les dépenses occasionnées par l’exercice de ses droits au sens de l’art. 429
+CPP, subsidiairement en ce sens que la partie plaignante soit condamnée à lui verser une telle
+indemnité en application de l’art. 432 al. 2 CPP et, plus subsidiairement, au renvoi de la
+cause au Ministère public pour nouvelle décision dans le sens des considérants.
+Le 13 décembre 2018, le Ministère public a déclaré renoncer à se déterminer
+sur le recours et s’est référé à son ordonnance.
+H.________SA ne se sont pas déterminées dans le délai imparti à cet effet.
+En droit
+:
+1.
+1.1
+Les
+parties peuvent attaquer une ordonnance de non-entrée en matière rendue par le ministère
+public (art. 310 CPP) dans les dix jours devant l’autorité de recours (art. 310 al. 2, 322
+al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des
+recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure
+pénale suisse du
+19 mai 2009; BLV 312.01];
+art. 80 LOJV [Loi d’organisation judiciaire du
+12
+décembre 1979; BLV 173.01]).
+1.2
+Interjeté dans le
+délai légal et dans les formes prescrites
+(art.
+385 al. 1 CPP) auprès de l’autorité compétente, par une partie qui a qualité
+pour recourir (art. 382 al. 1 CPP), le recours de S.________ est recevable.
+1.3
+L'art.
+395 let. b CPP prévoit que si l’autorité de recours est un tribunal collégial –
+ce qui est le cas de la Chambre des recours pénale, laquelle statue à trois juges (art. 67
+al. 1 let. i LOJV; art. 12 al. 1 ROTC [Règlement organique du Tribunal cantonal du 13 novembre 2007;
+BLV 173.31.1]) –, sa direction de la procédure statue seule sur le recours lorsqu’il
+porte sur les conséquences économiques accessoires d’une décision et que le montant
+litigieux n’excède pas 5’000 francs. Dans ce cas, un membre de la Chambre des recours
+pénale est compétent pour statuer en tant que juge unique (art. 13 al. 2 LVCPP).
+Tel est le cas en l'espèce,
+dès lors que le recours porte exclusivement sur les effets accessoires de l'ordonnance de non-entrée
+en matière du
+21 novembre 2018, à
+savoir le non-versement d’une indemnité au sens de
+l’art.
+429 CPP, dont le montant réclamé est par ailleurs inférieur à 5'000 francs. Le recours
+relève donc de la compétence d'un membre de la Chambre des recours pénale en tant que
+juge unique (CREP 24 août 2018/651; CREP 16 novembre 2017/788).
+2.
+2.1
+A teneur de l'art. 429 al. 1 CPP, si le prévenu
+est acquitté totalement ou en partie ou s'il bénéficie d'une ordonnance de classement,
+il a droit à une indemnité pour les dépenses occasionnées par l'exercice raisonnable
+de ses droits de procédure (let. a), une indemnité pour le dommage économique subi au
+titre de sa participation obligatoire à la procédure pénale (let. b) et une réparation
+du tort moral subi en raison d'une atteinte particulièrement grave à sa personnalité,
+notamment en cas de privation de liberté (let. c).
+Bien
+que cette disposition ne mentionne pas expressément l'ordonnance de non-entrée en matière
+(art. 310 CPP), une indemnité selon
+l'art.
+429 al. 1 CPP entre également en considération dans cette hypothèse
+(ATF
+139 IV 241 consid. 1). La non-entrée en matière constitue en effet une forme de « classement
+d’emblée » qui doit être assimilé à un classement après instruction
+(cf. art. 310 al. 2 CPP, qui renvoie aux dispositions sur le classement; Mizel/Rétornaz,
+in
+:
+Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011,
+n. 9 ad art. 429 CPP et la référence citée). De même, la qualité de prévenu,
+et donc les droits qui en découlent, ne dépend pas de l'ouverture d'une instruction pénale,
+mais peut déjà résulter de l'existence d'une plainte ou d'une dénonciation (cf. art.
+111 al. 1 CPP).
+L’indemnité pour frais de défense selon l'art. 429 al. 1 let. a CPP couvre en particulier
+les honoraires d’avocat, à condition que le recours à celui-ci procède d’un
+exercice raisonnable des droits de procédure (ATF 142 IV 45 consid. 2.1). L’Etat ne prend
+en charge les frais de défense que si l’assistance d’un avocat était nécessaire
+compte tenu de la complexité de l’affaire en fait ou en droit et que le volume de travail
+et donc les honoraires étaient ainsi justifiés (Message du Conseil fédéral relatif
+à l'unification du droit de la procédure pénale du 21 décembre 2005, FF 2006
+pp. 1057 ss, spéc. p. 1312 ch. 2.10.3.1; TF 6B_237/2016 du 18 juillet 2016 consid. 3.1).
+L'allocation d'une indemnité
+n'est pas limitée aux cas de défense obligatoire visés par l'art. 130 CPP. Elle peut être
+accordée dans les cas où le recours à un avocat apparaît tout simplement raisonnable.
+Il faut garder à l'esprit que le droit pénal matériel et le droit de procédure sont
+complexes et représentent, pour des personnes qui ne sont pas habituées à procéder,
+une source de difficultés. Celui qui se défend seul est susceptible d'être moins bien
+loti. C’est ainsi qu’en principe, toutes les charges autres qu’une contravention justifient
+l’intervention d’un avocat (ATF 138 IV 197, JdT 2013 IV 184; Mizel/Rétornaz, op. cit.,
+n. 31 ad art. 429 CPP).
+2.2
+Selon l'art. 432 al. 2 CPP, lorsque le prévenu obtient gain de cause sur la question de sa culpabilité
+et que l'infraction est poursuivie sur plainte, la partie plaignante ou le plaignant qui, ayant agi de
+manière téméraire ou par négligence grave, a entravé le bon déroulement
+de la procédure ou a rendu celle-ci plus difficile peut être tenu d'indemniser le prévenu
+pour les dépenses occasionnées par l'exercice raisonnable de ses droits de procédure.
+Cette
+disposition constitue le pendant de l’art. 427 al. 2 CPP, qui régit les conditions dans lesquelles
+les frais de procédure peuvent être mis à la charge de la partie plaignante ou du plaignant
+(ATF 138 IV 248 consid. 5.3). La jurisprudence concernant cette disposition est donc applicable
+par analogie à l’art. 432 al. 2 CPP (TF 6B_438/2013 du 18 juillet 2013 consid. 3.1; ATF 138
+IV 248 consid. 5.3).
+Ainsi, dans ce contexte,
+le plaignant doit être compris comme la personne qui a déposé une plainte pénale
+et qui a renoncé à user des droits qui sont les siens au sens de l'art. 120 CPP, étant
+précisé que cette renonciation ne vaut pas retrait de la plainte pénale (ATF 138 IV 248
+consid. 4.2.1, JdT 2013 IV 191;
+TF 6B_438/2013
+du 18 juillet 2013 consid. 2.1). Contrairement à la version française, les versions allemande
+et italienne opèrent en effet une distinction entre la partie plaignante (Privatklägerschaft;
+accusatore privato) et le plaignant (antragstellende Person; querelante). Dès lors, la condition
+d'avoir agi de manière téméraire ou par négligence grave et de la sorte entravé
+le bon déroulement de la procédure ou rendu celle-ci plus difficile ne s'applique qu'au plaignant.
+En revanche, cette condition ne s'applique pas à la partie plaignante, qui peut se voir chargée
+des frais, ou comme en l’espèce de l’indemnité au sens de l’art. 432 al.
+2 CPP, sans autre condition
+(ATF 138 IV
+248 consid. 4.2.2, JdT 2013 IV 191; TF 6B_438/2013 du 18 juillet 2013 consid. 2.1). La personne
+qui porte plainte pénale et qui prend part à la procédure comme partie plaignante doit
+assumer entièrement le risque lié aux frais et aux indemnités, tandis que la personne
+qui porte plainte, mais renonce à ses droits de partie ne doit supporter les frais ou les indemnités
+qu'en cas de comportement téméraire (ATF 138 IV 248 consid. 4.2.3, JdT 2013 IV 191; TF 6B_438/2013
+du 18 juillet 2013 consid. 2.1).
+Le dommage dont il est question à l'art.
+432 al. 2 CPP est le même que celui de l'art. 429 al. 1 let. a CPP (Moreillon/Parein-Reymond, Petit
+commentaire, Code de procédure pénale, Bâle 2016, n. 11 ad art. 432 CPP), aux termes
+duquel le prévenu acquitté totalement ou en partie ou qui bénéficie d'une ordonnance
+de classement – respectivement d’une non-entrée en matière, conformément à
+la jurisprudence exposée au considérant 2.1 ci-avant – a droit à une indemnité
+pour les dépenses occasionnées par l'exercice raisonnable de ses droits de procédure.
+2.3
+En l’espèce, il convient d’emblée
+de constater que la recourante, en sa qualité de prévenue en faveur de laquelle une non-entrée
+en matière a été prononcée, est fondée à réclamer, sur le principe,
+une indemnité au sens de
+l’art.
+429 CPP. Par ailleurs, comme cette dernière le relève à juste titre, l’affaire présentait
+une certaine gravité et elle n’était pas simple au sens restrictif de la jurisprudence.
+En particulier, même si le vol prétendument commis sur son lieu de travail portait uniquement
+sur une somme de 100 fr., une condamnation aurait pu avoir des conséquences graves pour S.________,
+qui se serait alors exposée à un licenciement immédiat. De surcroît, dans cette hypothèse,
+elle aurait eu de la peine à retrouver un emploi, au vu de la confiance accrue qui doit pouvoir
+être placée dans les employés de nettoyage, auxquels l’accès à des locaux
+privés est donné. Dans ces circonstances, c’est à tort que le Procureur a considéré
+que le recours à un avocat n’était pas raisonnable et qu’une indemnité était
+exclue en cas de non-entrée en matière.
+Pour le surplus, le montant de l’indemnité requise, par 605 fr. 85, apparaît raisonnable
+au vu des opérations effectuées par l’avocat, son activité ayant de surcroît
+été facturée au tarif de l’assistance judiciaire.
+Cette indemnité doit être mise à la charge des H.________SA en application de l’art.
+432 al. 2 CPP. En effet, d’une part, l’infraction dénoncée est un vol d’importance
+mineure et donc uniquement poursuivie sur plainte (art. 139 ad 172ter CP [Code pénal du 21 décembre
+1937; RS 311.0]). D’autre part, il faut reconnaître à la société précitée,
+qui a renoncé à ses droits au sens de
+l’art.
+120 CPP, la qualité de plaignante et non de partie plaignante, de sorte que la condition supplémentaire
+de la témérité ou de la négligence grave doit être remplie. En l’occurrence,
+ladite société a procédé avec une légèreté confinant à la négligence
+grave en déposant plainte pénale contre S.________ pour le vol d’un billet de 100 fr.
+censé se trouver dans le fond de caisse du restaurant de l’entreprise, le billet en question
+ayant été retrouvé quelques jours plus tard. Or, celui-ci n’a pas été
+retrouvé par hasard dans un endroit improbable, ce qui aurait justifié, dans un premier temps,
+les soupçons portés contre l’employée de ménage, mais dans une « autre
+caissette à monnaie ». Dans ces circonstances, force est de constater que l’ouverture
+de la procédure pénale aurait pu être évité si des vérifications d’usage
+avaient été effectuées avant le dépôt de plainte, ce qui n’a de toute
+évidence pas été le cas. Il n’appartient dès lors pas à l’Etat,
+mais bien à la plaignante, de supporter l’indemnité qui doit être allouée à
+la prévenue.
+3.
+Au vu de ce qui précède, le recours
+doit être admis et le chiffre III du dispositif de l’ordonnance du 21 novembre 2018 réformé
+en ce sens qu’une indemnité de 605 fr. 85 est allouée à S.________ pour les dépenses
+occasionnées par l’exercice raisonnable de ses droits de procédure, à la charge
+de H.________SA. L’ordonnance est maintenue pour le surplus.
+La recourante, qui a obtenu gain de cause et qui a procédé avec l'assistance d'un conseil professionnel,
+a droit à une indemnité pour les dépenses occasionnées par la procédure de recours
+(art. 429 al. 1 let. a CPP, applicable par renvoi de l’art. 436 al. 1 CPP). Au vu de l’écriture
+déposée, qui reprend pour l’essentiel la teneur d’un courrier adressé au Procureur
+le 22 novembre 2018 (P. 9), c’est une indemnité de 300 fr., correspondant à une heure
+d’activité au tarif horaire de 300 fr. (art. 26a al. 3 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), plus un montant
+correspondant à la TVA – étant rappelé que si les indemnités au sens des art.
+429 ss CPP ne sont pas soumises à la TVA (art. 18 al. 2 let. i LTVA [Loi fédérale régissant
+la taxe sur la valeur ajoutée du 12 juin 2009; RS 641.20), il convient de tenir compte du fait que
+les honoraires payés par la partie à son avocat sont quant à eux soumis à la TVA
+(CREP 1
+er
+mars 2017/904) –, par 23 fr. 10, soit de 323 fr. 10 au total, qui sera allouée à S.________,
+à la charge de l’Etat, H.________SA n’ayant pas procédé en deuxième instance.
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt
+(art. 422 al. 1 CPP), par 720 fr. (20 al. 1 TFIP), seront laissés à la charge de l’Etat.
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le chiffre III du dispositif de l’ordonnance du 21 novembre 2018 est réformé en ce sens
+qu’une indemnité de 605 fr. 85 (six cent cinq francs et huitante cinq centimes) est allouée
+à S.________, à la charge de H.________SA.
+L’ordonnance
+est maintenue pour le surplus.
+III.
+Une indemnité de 323 fr. 10 (trois cent vingt-trois
+francs et dix centimes) est allouée à S.________ pour la procédure de recours, à
+la charge de l’Etat.
+IV.
+Les frais de la procédure de recours, par
+720 fr. (sept cent vingt francs), sont laissés à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+juge unique :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Didier de Oliveira, avocat (pour S.________),
+-
+H.________SA, à l’att. de M. [...],
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
