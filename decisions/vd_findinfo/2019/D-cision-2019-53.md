@@ -1,0 +1,313 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___53"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 53"
+decided: "2019-01-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6999876"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-426.md"]
+---
+
+# VD Findinfo Décision / 2019 / 53
+
+## Regeste
+
+DÉFENSE D'OFFICE, INDEMNITÉ{EN GÉNÉRAL}, ADMISSION DE LA DEMANDE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 135 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.01.2019 Décision / 2019 / 53
+
+DÉFENSE D'OFFICE, INDEMNITÉ{EN GÉNÉRAL}, ADMISSION DE LA DEMANDE, DROIT D'ÊTRE ENTENDU, MOTIVATION DE LA DÉCISION | 29 al. 2 Cst., 135 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+2
+PE18.005099-PGN/KEL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 janvier 2019
+__________________
+Composition
+:               M.
+Perrot
+,
+juge unique
+Greffier
+:              M.
+Magnin
+*****
+Art.
+29 Cst ; 135 CPP
+Statuant sur le recours interjeté le 26 novembre 2018 par
+V.________
+contre le jugement rendu le 14 novembre 2018 par le Tribunal correctionnel de l’arrondissement
+de Lausanne en tant qu’il porte sur son indemnité due en sa qualité de défenseur
+d’office de G.________ dans la cause
+n° PE18.005099-PGN/KEL
+,
+le Juge unique de la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 14 novembre 2018, le Tribunal correctionnel de l’arrondissement de Lausanne a notamment
+constaté que G.________ s’était rendu coupable d’infraction grave à la LStup
+(Loi fédérale sur les stupéfiants et les substances psychotropes du 3 octobre 1951 ;
+RS 812.121) et d’infraction à la LEtr (Loi fédérale sur les étrangers du 16
+décembre 2005 ; RS 142.20), l’a condamné à une peine privative de liberté
+de 24 mois, a suspendu l’exécution d’une partie de cette peine, portant sur 15 mois,
+et imparti à l’intéressé un délai d’épreuve de 5 ans, a révoqué
+le sursis accordé à G.________ le 26 septembre 2017 par le Ministère public de l’arrondissement
+de Lausanne, a ordonné l’expulsion du prénommé du territoire suisse pour une durée
+de sept ans, a statué sur le sort des pièces à conviction et des objets séquestrés,
+et a mis les frais de la cause, par 17'440 fr. 70, à la charge de G.________ et dit que ces frais
+comprenaient l’indemnité allouée à son défenseur d’office, Me V.________,
+par 2'157 fr. 45, débours et TVA compris, dite indemnité n’étant exigible du prévenu
+que pour autant que sa situation financière le permette (XII).
+La quotité de l’indemnité allouée à Me V.________ est motivée comme il
+suit :
+« Succombant
+à l’action pénale, G.________ supportera les frais de justice en application de l’art.
+426 CPP. Ces frais comprendront l’indemnité allouée à son défenseur d’office,
+Me V.________, par CHF xxx débours et TVA compris, compte tenu de la liste d’opérations
+produite, de la durée du mandat et de la difficulté de la cause. »
+.
+b)
+Par courrier du 15 novembre 2018, l’avocate V.________ a fait observer au Tribunal correctionnel
+de l’arrondissement de Lausanne que la liste d’opérations produite en fin d’audience
+faisait état d’un montant total de 2'804 fr. 95, cette somme étant composée de 2'039
+fr. 90 d’honoraires – sans le temps de l’audience du 14 novembre 2018 –, de 564
+fr. 80 de débours et de 200 fr. 25 de TVA. Elle a ajouté que le jugement précité
+ne contenait aucune remarque particulière s’agissant de la quotité de son indemnité
+de défenseur d’office et que cela la laissait penser que le temps consacré à la
+cause avait été jugé comme correct et justifié, la différence résidant
+dans la TVA et les débours qui n’avaient vraisemblablement pas été pris en compte.
+Elle a dès lors requis, dans le cas d’une inadvertance manifeste, la rectification du chiffre
+XII du dispositif du jugement précité en ce sens que le montant de son indemnité soit
+arrêté à 2'922 fr. 50, montant correspondant à la liste d’opérations,
+soit 2'804 fr. 95, augmenté du temps d’audience par 117 fr. 55, débours et TVA compris.
+B.
+Le 26 novembre 2018, l’avocate V.________ a demandé au Tribunal correctionnel de l’arrondissement
+de Lausanne de considérer son courrier du 15 novembre 2018 comme un « recours contre indemnité »
+et de le transmettre à l’autorité compétente.
+Le 4 décembre 2018, le Président de la Chambre des recours pénale du Tribunal cantonal
+a informé Me V.________ qu’elle avait la faculté de déposer une mémoire complétif.
+Par acte du 6 décembre 2018, Me V.________ a indiqué qu’elle confirmait son recours,
+en concluant, sous suite de frais et dépens, à la réforme du chiffre XII du dispositif
+du jugement du 14 novembre 2018 en ce sens que le montant de son indemnité soit arrêté
+à 2'922 fr. 50, TVA et débours compris.
+Par avis du 14 décembre 2018, la Chambre des recours pénale a donné la possibilité
+au Tribunal correctionnel de l’arrondissement de Lausanne et à G.________ de déposer
+des déterminations. Aucun d’eux n’a procédé.
+En droit
+:
+1.
+1.1
+Le défenseur d’office peut recourir
+devant l’autorité de recours (cf. art. 20 CPP [Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0]) contre la décision du Ministère public ou du tribunal
+de première instance fixant son indemnité (art. 135 al. 3 let. a CPP ; ATF 139 IV 199
+consid. 5.2). Le recours doit être adressé par écrit, dans un délai de dix jours
+dès la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure pénale
+suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire
+du 12 décembre 1979 ; BLV 173.01]).
+En l’espèce, le recours a été déposé en temps utile devant l’autorité
+compétente par le défenseur d’office qui a qualité pour recourir contre le jugement
+fixant son indemnité. Il convient donc d’entrer en matière sur le recours.
+1.2
+Lorsque le recours porte uniquement sur les conséquences économiques accessoires d'une décision
+et que le montant litigieux ne dépasse pas 5'000 fr., un membre de la Chambre de céans statue
+comme juge unique (art. 395 let. b CPP et 13 al. 2 LVCPP).
+L’indemnité due au défenseur d'office entre dans la notion de conséquences économiques
+d'une décision (Schmid, Handbuch des schweizerischen Strafprozessrechts, 2
+e
+éd., Zurich 2013, n. 1521 ; Stephenson/ Thiriet, in : Niggli/Heer/Wiprächtiger [éd.],
+Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 5 ad art. 395 CPP ; Message du Conseil fédéral relatif à
+l’unification du droit de la procédure pénale du 21 décembre 2005, FF 2006 p. 1057
+ss, spéc. p. 1297). Le montant litigieux, qui détermine s’il appartient à la Chambre
+des recours pénale en corps ou à un juge de statuer sur le recours, correspond à la différence
+entre le montant réclamé par le défenseur d’office et la somme allouée par
+la décision attaquée (cf. Stephenson/Thiriet, op. cit., n. 6 ad art. 395 CPP ; CREP
+21 octobre 2013/628).
+1.3
+En l'occurrence, le montant réclamé par la recourante s'élève à 2'922 fr. 50
+et celui qui lui a été accordé par jugement du 14 novembre 2018 se monte à 2’157 fr.
+45. La valeur litigieuse, de 765 fr. 05, place ainsi le recours dans la compétence d'un membre de
+la Chambre des recours pénale en tant que juge unique.
+2.
+2.1
+La recourante considère que l’indemnité
+de défenseur d’office de 2'157 fr. 45 arrêtée par les premiers juges ne tiendrait
+pas compte des opérations effectuées et listées dans sa note d’honoraires produite
+lors des débats de première instance. Elle fait valoir que le jugement attaqué est insuffisamment
+motivé sur ce point. Elle relève au demeurant que ce jugement ne contient aucune critique quant
+au temps consacré par l’avocate à la cause et comporte uniquement la mention « xxx »
+s’agissant du montant alloué. La recourante réclame un montant de 2'922 fr. 50, TVA et
+débours compris.
+2.2
+2.2.1
+Le droit d’être entendu, garanti à l'art. 29 al. 2 Cst. (Constitution fédérale
+de la Confédération suisse du 18 avril 1999 ; RS 101), comporte celui de recevoir une décision
+suffisamment motivée, c'est-à-dire permettant à la personne visée de la contester
+à bon escient (ATF 129 I 232 consid. 3.2 ; ATF 125 II 369 consid. 2c) et à l'autorité
+de recours d'exercer utilement son contrôle (ATF 126 I 97 consid. 2b ; ATF 124 II 146). Pour satisfaire
+à ces exigences, l’autorité doit mentionner, au moins brièvement, les motifs qui
+l'ont guidée et sur lesquels elle a fondé sa décision, de manière à ce que l'intéressé
+puisse se rendre compte de la portée de celle-ci et l'attaquer en connaissance de cause (ATF 134
+I 83 consid. 4.1 ; ATF 133 III 439 consid. 3.3 ; TF 6B_1410/2017 du 15 juin 2018 consid. 2.1). Lorsque
+le juge statue sur la base d'une liste de frais, il doit, s'il entend s'en écarter, au moins brièvement
+indiquer les raisons pour lesquelles il tient certaines prétentions pour injustifiées (TF 6B_1410/2017
+du 15 juin 2018 consid. 3.1). En l’absence de motivation sur les activités, réduites
+ou retranchées, considérées précisément comme inutiles, la Chambre des recours
+pénale ne peut se substituer au premier juge et rectifier les listes d’opérations en
+vertu de son pouvoir d’examen sans donner l’occasion à l’intéressé de
+s’exprimer sur les éventuels motifs permettant de s’écarter de sa liste des opérations
+(TF 6B_1251/2016 du 19 juillet 2017 consid. 3.3). Le principe du droit d’être entendu étant
+de nature formelle, toute violation de ce dernier conduit, en principe, à l’annulation de
+la décision rendue (ATF 122 IV 8 ; ATF 121 I 230 ; CREP 27 février 2018/171 ; CREP
+24 juillet 2018/560).
+2.2.2
+Le défenseur d'office est indemnisé conformément au tarif des avocats de la Confédération
+ou du canton du for du procès (art. 135 al. 1 CPP). Le défenseur d'office a droit au remboursement
+intégral de ses débours ainsi qu'à une indemnité s'apparentant aux honoraires perçus
+par le mandataire plaidant aux frais de son client ; pour fixer cette indemnité, l’autorité
+doit tenir compte de la nature et de l’importance de la cause, des difficultés particulières
+qu’elle peut présenter en fait et en droit, du temps que le défenseur d’office
+y a consacré et de la qualité de son travail, du nombre de conférences, d’audiences
+et d’instances auxquelles il a pris part, du résultat obtenu et, enfin, de la responsabilité
+qu’il a assumée (cf. p. ex. TF 6B_745/2009 du 12 novembre 2009 consid. 10.1). Dans le
+canton de Vaud, l'indemnité horaire de l’avocat d’office breveté est usuellement
+fixée à 180 fr., TVA en sus, et celle de l’avocat-stagiaire à 110 fr. (cf. art.
+2 al. 1 RAJ [Règlement sur l’assistance judiciaire en matière civile du 7 décembre
+2010 ; RSV 211.02.3] ; ATF 137 III 185). L’autorité chargée de fixer la rémunération
+du défenseur d’office peut se prononcer sur le caractère excessif du temps que celui-ci
+allègue avoir consacré à sa mission et ne rétribuer que l’activité qui
+s’inscrit raisonnablement dans le cadre de l’accomplissement de la tâche du défenseur,
+à l’exclusion des démarches inutiles ou superflues ou des tâches relevant d’un
+simple soutien moral ou d’une aide sociale sans rapport avec la conduite du procès pénal ;
+l’avocat doit toutefois bénéficier d’une marge d’appréciation suffisante
+pour déterminer l’impor­tance du travail qu’exige l’affaire (ATF 109 Ia 107
+consid. 3b).
+2.3
+En l’occurrence, la recourante expose que sa stagiaire a soumis une liste d’opérations
+détaillée au tribunal à l’issue des débats de première instance. Aucune
+mention ne figure à cet égard au procès-verbal. Cependant, bien qu’invitée
+à se déterminer, l’autorité de jugement n’a pas contesté ce point dans
+le cadre de la procédure de recours. Dans la liste d’opérations produite (P. 36/1), la
+recourante réclamait un montant de 2'804 fr. 95, correspondant à 15h25 d’activité
+d’avocat ou d’avocat-stagiaire, soit 2'039 fr. 90 d’honoraires, à 564 fr. 80 de
+débours et à 200 fr. 25 de TVA.
+Par jugement du 14 novembre 2018, le Tribunal correctionnel de l’arrondissement de Lausanne a alloué
+à Me V.________ une indemnité de défenseur d’office de 2'157 fr. 45, débours
+et TVA compris (cf. chiffre XII du dispositif). Pour toute motivation sur ce point, les premiers juges
+ont relevé ce qui suit :
+« Succombant
+à l’action pénale, G.________ supportera les frais de justice en application de l’art.
+426 CPP. Ces frais comprendront l’indemnité allouée à son défenseur d’office,
+Me V.________, par CHF xxx débours et TVA compris, compte tenu de la liste d’opérations
+produite, de la durée du mandat et de la difficulté de la cause. »
+.
+Au regard de ce qui précède, on relève que, dans ses considérants, le tribunal a
+omis de faire mention du montant de l’indemnité de défenseur d’office qui devait
+être allouée à la recourante. En outre, les premiers juges, qui ont réduit le montant
+réclamé, n’ont formulé que des généralités et n’ont pas précisé
+quelles opérations étaient jugées inutiles ou superflues. Cela étant, on ignore quelles
+opérations ont été réduites, respectivement retranchées, de la note d’honoraires
+produite par la stagiaire de la recourante. De plus, les parts correspondant aux débours et à
+la TVA ne sont pas mentionnées.
+Ainsi, la motivation des premiers juges est insuffisante, de sorte que ceux-ci ont violé le droit
+d’être entendu de la recourante. En principe, cette violation étant de nature formelle,
+le jugement attaqué devrait être annulé sur ce point et la cause renvoyée à
+l’autorité de première instance pour qu’elle motive et arrête à nouveau
+le montant de l’indemnité de défenseur d’office alloué à Me V.________.
+Cependant, en raison de la simplicité de la question soumise à l’autorité de recours
+et de la quotité réduite du montant litigieux, il serait dans ce cas disproportionné de
+renvoyer le dossier aux premiers juges. Par souci d’économie de procédure, l’autorité
+de céans arrêtera donc directement l’indemnité qui doit être allouée au
+défenseur de G.________. En l’occurrence, selon la note d’honoraires produite par la
+recourante, les opérations effectuées par celle-ci et sa stagiaire, de même que les débours,
+s’inscrivent dans le cadre de l’accomplissement raisonnable de leur tâche de défenseur
+d’office. Ainsi, compte tenu en outre du temps de l’audience de l’autorité de
+première instance, le montant de l’indemnité réclamé par la recourante est
+justifié. Il y a donc lieu d’allouer une indemnité de défenseur d’office de
+2'922 fr. 50, débours et TVA compris, à Me V.________.
+3.
+En définitive, le recours doit être admis et le chiffre XII du dispositif du jugement attaqué
+réformé en ce sens que l’indemnité allouée à la recourante en sa qualité
+de défenseur d’office est fixée à 2'922 fr. 50, TVA comprise, ce qui portera le
+montant des frais judiciaires de première instance mis à la charge de G.________ à 18'205
+fr. 75.
+Le défenseur d'office qui recourt en son nom propre a droit à des honoraires, calculés
+sur la base du tarif horaire prévu pour l’activité déployée dans le cadre d’un
+mandat d’office (Ruckstuhl, in : Niggli/Heer/Wiprächtiger [éd.], op. cit., n. 16
+et 18 ad art. 135 CPP). Au vu du mémoire produit et du résultat obtenu, l'indemnité qu'il
+convient d'allouer à ce titre à la recourante doit être fixée à 180 fr., plus
+la TVA, par 13 fr. 85, soit à 193 fr. 85. Cela correspond à une heure d’activité,
+étant précisé que la recouante n’a pas produit de liste d’opérations
+pour la procédure de recours.
+Les frais de la procédure de recours, constitués en l'espèce de l'émolument d’arrêt,
+par 720 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; RSV 312.03.1), et des frais imputables à la défense
+d’office, par 193 fr. 85, seront laissés à la charge de l'Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Le recours est admis.
+II.
+Le jugement du 14 novembre 2018 est réformé comme il suit au chiffre XII de son dispositif :
+« XII. met
+les frais de la cause, par 18'205 fr. 75, à la charge de G.________, et dit que ces frais comprennent
+l’indemnité allouée à son défenseur d’office, Me V.________, par 2'922
+fr. 50, débours et TVA compris, dite indemnité n’étant exigible de G.________ que
+pour autant que sa situation financière le permette. »
+III.
+L’indemnité allouée à Me
+V.________ pour la procédure de recours est fixée à 193 fr. 85 (cent nonante-trois francs
+et huitante-cinq centimes), TVA comprise.
+IV.
+Les frais d’arrêt, par 720 fr. (sept cent vingt francs), ainsi que l’indemnité
+due à Me V.________, par 193 fr. 85 (cent nonante-trois francs et huitante-cinq centimes), sont
+laissés à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+juge unique :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me V.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. G.________,
+-
+Mme la Présidente du Tribunal correctionnel de l’arrondissement de Lauanne,
+-
+M. le Procureur cantonal Strada,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
