@@ -1,0 +1,444 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 11"
+decided: "2019-01-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6981756"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-081.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-062d.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-075.md", "switzerland/bund/acts/311.0/art-075a.md", "switzerland/bund/acts/311.0/art-084.md", "switzerland/bund/acts/311.0/art-090.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2019 / 11
+
+## Regeste
+
+REJET DE LA DEMANDE, INTÉRÊT JURIDIQUEMENT PROTÉGÉ, CONGÉ{TEMPS LIBRE}, SORTIE, DÉTENU, EXÉCUTION DES PEINES ET DES MESURES, PLAN D'EXÉCUTION DES PEINES | 75 al. 1 CP, 75 al. 3 CP, 75a CP, 38 LEP, 382 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 07.01.2019 Décision / 2019 / 11
+
+REJET DE LA DEMANDE, INTÉRÊT JURIDIQUEMENT PROTÉGÉ, CONGÉ{TEMPS LIBRE}, SORTIE, DÉTENU, EXÉCUTION DES PEINES ET DES MESURES, PLAN D'EXÉCUTION DES PEINES | 75 al. 1 CP, 75 al. 3 CP, 75a CP, 38 LEP, 382 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+9
+OEP/PPL/61178
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+7 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Abrecht, juges
+Greffière
+:              Mme
+Maire Kalubi
+*****
+Art.
+75 CP ; 382 al. 1 CPP ; 38 LEP et 4 RASAdultes
+Statuant sur le recours interjeté le 13 décembre 2018 par
+S.________
+contre la décision de refus d’autorisation de sortie rendue le 30 novembre 2018
+par l’Office d’exécution des peines dans la cause
+n° OEP/PPL/61178
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Depuis le 20 août 2010, S.________, né le [...] 1986, exécute un cumul de quatre peines
+privatives de liberté, à savoir :
+-
+14 ans et demi, sous déduction de 596 jours de détention avant jugement, prononcés le
+7 mars 2011 par la Cour de cassation pénale du Tribunal cantonal vaudois pour assassinat, brigandage,
+vol, tentative de vol, dommages à la propriété, violation de domicile et contravention
+à la Loi fédérale sur les stupéfiants (LStup) ;
+-
+30 mois, sous déduction de 3 mois et 10 jours
+de détention avant jugement, prononcés le 2 mars 2009 par le Tribunal de police de la République
+et canton de Genève pour brigandage, vol et faux dans les titres ;
+-
+9
+mois, prononcés avec sursis le 28 août 2008 par le Tribunal correctionnel de l'arrondissement
+de Lausanne pour actes d’ordre sexuel avec des enfants, pornographie, induction de la justice en
+erreur, port indu de l’uniforme militaire, infraction à la LStup, violation simple et grave
+des règles de la circulation, violation des devoirs en cas d’accident, vol d’usage au
+préjudice d’un proche, circulation sans permis de conduire, mise à disposition d’un
+véhicule à un conducteur non titulaire du permis de conduire et contravention à l’Ordonnance
+sur les règles de la circulation routière, sursis révoqué le 7 mars 2011 par la Cour
+de cassation pénale du Tribunal cantonal vaudois ;
+-
+9 mois, sous déduction de 7 jours de détention
+avant jugement, prononcés avec sursis le 26 septembre 2008 par la Cour de cassation pénale
+du Tribunal cantonal vaudois pour vol en bande, tentative de vol, dommages à la propriété,
+violation de domicile, induction de la justice en erreur, vol d’usage, tentative de vol d’usage
+et contravention à la LStup, sursis révoqué le 7 mars 2011 par la Cour de cassation pénale
+du Tribunal cantonal vaudois.
+b)
+Outre les condamnations susmentionnées, S.________
+a régulièrement occupé la justice depuis l’âge de dix ans ; il a à
+plusieurs reprises été condamné par le Tribunal des mineurs, notamment à des peines
+privatives de liberté. A deux reprises au moins, il a bénéficié de la libération
+conditionnelle, mais ces élargissements ont dû être révoqués quelques mois,
+voire quelques jours après que l’intéressé en avait bénéficié.
+c)
+Dans le cadre des condamnations qu’il exécute actuellement, S.________ a fait l’objet
+de deux expertises psychiatriques dont les rapports, établis par le Centre d’expertises romand
+et déposés les 17 octobre 2006 et 30 septembre 2009, ont abouti au même diagnostic
+de trouble mixte de la personnalité à traits histrioniques et antisociaux. Pour les experts,
+au vu des nombreux antécédents pénaux de l’expertisé, du nombre et de la nature
+des actes illicites commis, de l’échec des mesures antérieures de surveillance, de son
+mode de fonctionnement psychique ainsi que de ses faibles capacités introspectives, le risque de
+récidive était élevé. Les experts précisaient que le trouble de la personnalité
+dont souffrait S.________ n’était que très peu accessible à un traitement
+susceptible de diminuer le risque de récidive.
+d)
+S.________ a tout d’abord été détenu aux Etablissements de la plaine de l’Orbe
+(EPO) pendant trois ans et demi, avant d’être transféré en urgence, en raison de
+soupçons de préparatifs d’évasion, au Pénitencier de Pöschwies, établissement
+dans lequel il est resté durant une année et demie. Il a ensuite été transféré,
+le 21 juillet 2015, aux Etablissements d’exécution de peines de Bellevue (EEP Bellevue), à
+Neuchâtel, puis, le 28 novembre 2017, à l’Etablissement de détention fribourgeois
+(EDFR), site de Bellechasse, où il est actuellement incarcéré.
+Il
+a atteint le premier tiers de ses peines le 14 novembre 2014. La date des deux tiers des peines est fixée
+au 13 janvier 2021, alors que la fin de peine est prévue pour le 15 mars 2027.
+e)
+Un Plan d’exécution de la sanction (PES) a été élaboré au mois d’août 2013.
+Un premier bilan, avalisé par l’OEP le 21 avril 2016, prévoyait trois phases de progression
+dans l’exécution de sa sanction, à savoir des conduites, un transfert en secteur fermé
+dans un établissement disposant d’un secteur ouvert et, après quatre mois, un transfert
+en milieu ouvert. Compte tenu du bon déroulement des trois conduites au sein de l’EEP Bellevue
+et du transfert de S.________ à l’EDFR en date du 28 novembre 2017, les phases 1 et 2 de ce
+premier bilan ont été considérées comme atteintes. Par décision du 27 mars 2018,
+l’OEP a autorisé le placement de S.________ au sein du secteur ouvert de l’EDFR, décision
+toutefois révoquée avec effet rétroactif le 12 avril 2018 en raison de suspicions de fuite
+depuis le secteur ouvert.
+f)
+Les 7 et 22 juin 2018, S.________ a fait l’objet de deux sanctions disciplinaires, sous la forme
+d’une privation de télévision d’une durée de deux semaines pour refus/tricherie
+lors d’une prise d’urine et/ou consommation de cannabis et sous la forme d’un avertissement
+écrit pour autre inobservation de règlement ou directive.
+g)
+Le 2
+e
+bilan du PES, validé le 28 août 2018 par l’OEP, prévoyait à nouveau trois phases
+de progression, soit le passage en secteur ouvert dès le mois d’octobre 2018, la reprise du
+régime de conduites familiales après six mois d’observation en secteur ouvert et un 3
+e
+bilan au mois de juin 2019, afin d’envisager la suite de l’exécution de la peine de
+l’intéressé.
+h)
+Dans un avis du 10 septembre 2018, la Commission interdisciplinaire consultative concernant les délinquants
+nécessitant une prise en charge psychiatrique (CIC) a souscrit à la logique et à la réalisation
+de la reprise des phases d’élargissement proposées dans le 2
+e
+bilan du PES, soulignant toutefois la récurrence et l’étendue des difficultés qui
+marquaient le parcours de S.________. La CIC a notamment indiqué que l’évaluation criminologique
+du 28 juillet 2018 avait relevé, dans sa présentation du condamné, l’accumulation
+d’un décalage émotionnel, de difficultés d’élaboration et d’introspection,
+de même qu’un déficit d’empathie, et qu’elle avait réitéré
+ses observations sur l’influençabilité de l’intéressé, sur sa dépendance
+exagérée à une image valorisante de lui, ainsi que sur une tendance établie à
+l’idéalisation de son futur et de ses projets en contrepoint d’une perception médiocre
+des contraintes de la réalité et de ses propres ressources pour y faire face. Pour sa part,
+constatant qu’aucun projet de réinsertion consistant n’avait pu se concrétiser
+et qu’à aucun moment la question des composantes de violence et d’inadaptation de la
+personnalité de l’intéressé n’avait pu faire l’objet d’un examen
+approfondi, la CIC a apprécié le risque de récidive comme moyen à élevé.
+Considérant que ni le pronostic criminologique, ni les capacités réelles de réinsertion
+sociale de S.________ n’étaient à ce stade en mesure d’être précisés,
+la CIC a suggéré de réaliser une nouvelle expertise psychiatrique et psychologique, qui
+aurait pour but de reprendre la description et l’interprétation clinique et victimologique
+des composantes psychopathologiques de sa personnalité, d’éclairer leur impact sur son
+évolution dans son histoire délictuelle et pénitentiaire, d’apprécier ses capacités
+et son degré d’implication dans un projet de retour à la vie libre et d’indiquer
+quelles pourraient être les options thérapeutiques adaptées à cette problématique.
+i)
+Dès le mois d’octobre 2018, S.________ est passé, comme prévu par la 3
+e
+phase de progression de l’exécution de sa sanction du 2
+e
+bilan PES, en secteur ouvert au sein de l’EDFR. Il a ainsi été affecté à l’atelier
+[...] du 22 octobre au 4 novembre 2018 puis, dès le 5 novembre 2018, à l’atelier [...].
+B.
+a)
+Selon un document établi le 16 novembre
+2018 par l’EDFR (P. 3/2/1), S.________ a demandé un congé de 8 heures pour passer
+du temps avec son épouse le 24 décembre 2018.
+Le 16 novembre 2018, la Direction de l’établissement carcéral a émis un préavis
+défavorable à cette demande, au motif que le 2
+e
+bilan du PES indiquait une reprise du régime de conduites familiales (phase 4) après six mois
+en secteur ouvert – régime dans lequel se trouvait l’intéressé depuis le 22
+octobre 2018 – et qu’un 3
+e
+bilan du PES était prévu pour le mois de juin 2019.
+b)
+Par décision du 30 novembre 2018, l’OEP a rejeté la demande de congé présentée
+par le condamné. L’Office a indiqué que, conformément à l’art. 4 al. 1 RASAdultes
+(Règlement concernant l'octroi d'autorisations de sortie aux personnes condamnées adultes et
+jeunes adultes du 31 octobre 2013 ; BLV 340.93.1), les autorisations de sortie devaient être
+prévues dans un PES et que celui avalisé le 28 août 2018 ne prévoyait aucun
+congé en l’état et qu’aucun élément ne permettait de remettre en cause
+la progression indiquée, à laquelle avait au demeurant souscrit la CIC dans son avis du 10 septembre
+2018.
+C.
+Par acte du 13 décembre 2018, S.________ a recouru contre cette décision, en concluant, avec
+suite de frais et dépens, à sa réforme en ce sens que le congé sollicité lui
+soit octroyé et que la Cour de céans enjoigne à la CIC d’établir une nouvelle
+expertise psychiatrique d’ici la fin de l’année. Subsidiairement, il a conclu à
+son annulation et au renvoi de la cause à l’OEP pour réexamen dans le sens de l’octroi
+d’une autorisation de sortie et à ce que la Cour de céans enjoigne à la CIC d’établir
+une nouvelle expertise psychiatrique d’ici la fin de l’année.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+En vertu de l’art. 38 al. 1 LEP (Loi vaudoise
+sur l’exécution des condamnations pénales du 4 juillet 2006 ; BLV 340.01), les décisions
+rendues par l’Office d’exécution des peines peuvent faire l'objet d'un recours auprès
+du Tribunal cantonal. Selon l’art. 38 al. 2 LEP, la procédure est régie par les dispositions
+du CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours.
+Le recours doit ainsi être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP) qui, dans le canton de Vaud, est la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, le recours a été
+interjeté en temps utile devant l’autorité compétente et il satisfait aux conditions
+de forme posées par l’art. 385 al. 1 CPP.
+2.
+2.1
+Selon l’art. 382 al. 1 CPP, le recourant
+doit en outre disposer d’un intérêt juridiquement protégé à l’annulation
+ou à la modification de la décision entreprise. En droit pénal, la recevabilité d’un
+recours dépend ainsi en particulier de l’existence d’un intérêt actuel et
+pratique à l’annulation ou à la modification de la décision attaquée. Cet intérêt
+doit exister non seulement au moment du dépôt du recours, mais encore au moment où l'arrêt
+est rendu (ATF 137 I 296 consid. 4.2). Lorsque l'intérêt pour recourir fait défaut au
+moment du dépôt du recours, l'autorité pénale n'entre pas en matière sur celui-ci
+et le déclare irrecevable. En revanche, si l'intérêt actuel disparaît en cours de
+procédure, le litige est déclaré sans objet et la cause est rayée du rôle (ATF
+139 I 206 consid. 1.1).
+2.2
+Dans un arrêt du 25 avril 2018, le Tribunal fédéral a considéré que ne disposait
+pas d’un intérêt juridiquement protégé actuel, au sens de l’art. 81 al.
+1 LTF (Loi sur le Tribunal fédéral du 17 juin 2005 ; RS 173.110), celui qui s’attaquait
+au refus d’un congé pour une date échue, lorsque la demande de congé – et,
+partant, son refus – portaient sur une sortie ponctuelle et non sur l’octroi d’un régime
+de congés futurs (TF 6B_1209/2017 du 25 avril 2018 consid. 2). Dans un arrêt du 1
+er
+octobre
+2018, la Cour de céans a considéré qu’il y avait lieu d’interpréter l’intérêt
+juridiquement protégé au sens de l’art. 382 al. 1 CPP restrictivement, comme le fait
+le Tribunal fédéral, cette notion n’étant pas différente de celle figurant
+à l’art. 81 al. 1 LTF (CREP 1
+er
+octobre 2018/761 consid. 1.3).
+2.3
+En l’espèce, il résulte de la motivation de la décision entreprise que celle-ci
+refuse par principe tout congé en l’état et il ressort du mémoire de recours que
+le recourant sollicite le réexamen de cette décision de principe dans le sens de l’octroi
+d’une autorisation de sortie. Il y a ainsi lieu de considérer que la demande du recourant
+et la décision de l’autorité portent sur l’octroi du régime de congés
+futurs. Le recourant dispose dès lors d’un intérêt juridiquement protégé
+actuel à l’annulation ou à la réforme de la décision entreprise, par laquelle
+l’OEP a refusé tout octroi de congé, de sorte que le recours est recevable.
+3.
+3.1
+Aux termes de l’art. 75 al. 1 CP, l'exécution de la peine privative de liberté doit améliorer
+le comportement social du détenu, en particulier son aptitude à vivre sans commettre d'infractions.
+Elle doit correspondre autant que possible à des conditions de vie ordinaires, assurer au détenu
+l'assistance nécessaire, combattre les effets nocifs de la privation de liberté et tenir compte
+de manière adéquate du besoin de protection de la collectivité, du personnel et des codétenus.
+Le règlement de l'établissement prévoit qu'un plan d'exécution est établi avec
+le détenu. Le plan porte notamment sur l'assistance offerte, sur la possibilité de travailler
+et d'acquérir une formation ou une formation continue, sur la réparation du dommage, sur les
+relations avec le monde extérieur et sur la préparation de la libération (art. 75 al. 3 CP).
+Les allègements dans l'exécution, notamment l'octroi de congés, visent à assurer
+une progressivité dans le régime d'exécution et à préparer un retour à
+la vie libre (art. 84 al. 6 CP). Conformément aux art. 84 al. 6 CP et 10 al. 1 let. b RASAdultes,
+des conduites et congés peuvent être octroyés dès le tiers de la peine. Dans le cas
+d'espèce, cette condition temporelle est remplie depuis le 14 novembre 2014.
+Selon l’art. 4 al. 1 RASAdultes, les autorisations de sortie sont des allègements dans l'exécution
+spécialement réglementés en tant qu'absences de l'établissement d'exécution
+autorisées et limitées dans le temps. Ils font partie intégrante des plans d'exécution
+individuels (art. 75 al. 3 CP et art. 90 al. 2 CP) et servent
+a
+priori
+à atteindre l'objectif légal
+de l'exécution des peines, à savoir la future aptitude à vivre sans commettre d'infractions
+(art. 75 al. 1 CP). Ils servent notamment à entretenir des relations avec le monde
+extérieur et structurer l'exécution (let. a), à s'occuper d'affaires personnelles,
+professionnelles ou judiciaires qui ne peuvent être différées et pour lesquelles la présence
+de la personne détenue hors de l'établissement est indispensable (let. b), à s'occuper
+d'affaires personnelles, vitales et légales qui ne peuvent être différées et pour
+lesquelles la présence de la personne détenue hors de l'établissement d'exécution
+est indispensable (let. c), à maintenir le lien avec le monde extérieur et structurer
+une exécution de longue durée (let. d), à des fins thérapeutiques (par ex. l'accomplissement
+de tâches thérapeutiques, la vérification du travail thérapeutique, le maintien d'une
+motivation de base au travail thérapeutique) (let. e) et à préparer la libération
+(let. f). Selon l’art. 4 al. 2 RASAdultes, en règle générale, les
+congés et les permissions ne sont pas accompagnés. L'autorité qui octroie l'autorisation
+peut ordonner que la personne détenue soit accompagnée, lorsque cela semble nécessaire
+afin d'assurer le déroulement normal de l'allègement dans l'exécution. A moins qu'il en
+soit expressément ordonné autrement, l'accompagnement est effectué par des collaborateurs
+de l'établissement d'exécution. Il incombe à la personne accompagnante de veiller au respect
+du programme de sortie ou de congé.
+Selon l’art. 75a CP, la commission visée à l'art. 62d al. 2 CP – soit, dans le
+Canton de Vaud, la CIC – apprécie, lorsqu'il est question d'un placement dans un établissement
+d'exécution des peines ouvert ou de l'octroi d'allègements dans l'exécution, le caractère
+dangereux du détenu pour la collectivité si le détenu a commis un crime visé à
+l'art. 64 al. 1 CP et si l'autorité d'exécution ne peut pas se prononcer d'une manière
+catégorique sur le caractère dangereux du détenu pour la collectivité (al. 1). Les
+allègements dans l'exécution sont des adoucissements du régime de privation de liberté,
+notamment le transfert en établissement ouvert, l'octroi de congés, l'autorisation de travailler
+ou de loger à l'extérieur ainsi que la libération conditionnelle (al. 2). Le caractère
+dangereux du détenu pour la collectivité est admis s'il y a lieu de craindre que le détenu
+s'enfuie et commette une autre infraction par laquelle il porterait gravement atteinte à l'intégrité
+physique, psychique ou sexuelle d'autrui (al. 3).
+3.2
+En l’espèce, le recourant estime que le refus du congé sollicité, et de tout congé
+dans les mois à venir, porterait atteinte de manière disproportionnée à son droit
+à la liberté personnelle, en particulier sous l’angle du droit au maintien des relations
+personnelles et du droit à l’épanouissement sexuel découlant de l’art. 8 CEDH
+(Convention de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950 ;
+RS 0.101) et de l’art. 10 Cst. (Constitution fédérale de la Confédération suisse
+du 18 avril 1999 ; RS 101) ; il estime en outre que l’aménagement de l’exécution
+de sa peine contreviendrait aux objectifs de l’exécution des peines privatives de liberté
+tels que posés par l’art. 75 CP.
+3.2.1
+Invoquant les principes du droit à la liberté personnelle et au respect de la vie privée
+et familiale, le recourant fait valoir qu’il est privé de liberté depuis la date de son
+arrestation, soit depuis le 9 janvier 2009. Il indique avoir noué une relation sentimentale avec
+une femme, qu’il a épousée il y a six mois, et explique que cette relation serait fondamentale
+pour lui, car elle lui apporterait réconfort, sécurité et lui permettrait de se projeter
+dans un avenir nouveau. Observant qu’il n’a jamais bénéficié de congés,
+alors même qu’il a déjà effectué plus de la moitié de sa peine, il estime
+que le refus de ces congés l’empêcherait de stabiliser sa relation sentimentale et également
+familiale, et par conséquent d’envisager sereinement son avenir en dehors du milieu carcéral.
+Il soutient que, sous l’angle juridique, une telle sévérité dans l’exécution
+de sa peine violerait son droit à la liberté personnelle, en particulier sous l’angle
+du droit au maintien des relations personnelles et du droit à l’épanouissement sexuel
+(art. 8 CEDH et art. 10 al. 2 Cst.).
+Le recourant perd toutefois de vue que les droits conventionnels et constitutionnels invoqués ne
+sont pas absolus mais sont restreints, dans le respect des principes de la légalité et de l’intérêt
+public, par les dispositions légales en matière d’exécution des peines. C’est
+donc au regard de ces dispositions qu’il y a lieu d’examiner si le refus de congés à
+ce stade porte une atteinte disproportionnée à ses droits fondamentaux.
+3.2.2
+Le recourant estime que la décision attaquée entrerait en contradiction avec les objectifs
+de l’exécution des peines privatives de liberté, tels que posés par l’art.
+75 CP. Il fait valoir qu’un 2
+e
+bilan du PES a été établi au mois d’août 2018 (P. 3/2/3) et qu’il
+serait globalement bon, puisque l’ensemble des objectifs prévus dans le cadre de l’exécution
+de sa peine auraient été atteints, à l’exception des objectifs 7 (poursuivre et
+terminer sa formation de coach sportif par correspondance) et 8 (assainir sa situation financière),
+qui ne seraient que partiellement atteints. Le recourant s’étonne dès lors que le bilan
+du PES propose un régime de conduites seulement (étant précisé qu’il a bénéficié
+de trois conduites familiales les 20 octobre 2016, 19 janvier 2017 et 4 octobre 2017,
+qui se sont bien déroulées), et ce uniquement après six mois d’observation en secteur
+ouvert. Selon lui, compte tenu de l’écoulement du temps depuis sa dernière sortie, de
+son implication et des progrès effectués, lui refuser un congé et agender la date de sa
+prochaine conduite potentielle à dans cinq mois serait insoutenable et contreviendrait aux objectifs
+de l’exécution des peines privatives de liberté.
+3.3
+Les griefs soulevés par le recourant doivent être rejetés. En effet, son évolution,
+telle qu’elle ressort du 2
+e
+bilan du PES, permet sans aucun doute d’affirmer que la progression prévue, à savoir
+un passage en secteur ouvert dès le mois d’octobre 2018 et une reprise du régime
+de conduites familiales après six mois d’observation en secteur ouvert, est justifiée
+et proportionnée aux enjeux. Il y a en particulier lieu de rappeler que, dans le cadre du 1
+er
+bilan du PES, les criminologues ont estimé qu’il était primordial de préparer au
+mieux le recourant à la sortie par le biais d’élargissements de régime prudents
+et progressifs. Le 2
+e
+bilan du PES relève en outre que le recourant est actuellement dans l’incompréhension
+de l’absence de progression de sa peine, qu’il conteste toute velléité de fuite
+et fait montre d’animosité envers l’OEP. Selon l’EDFR, cette dynamique comportementale
+le pousserait à adopter une attitude passive-agressive et oppositionnelle, voire à se créer
+des situations de mise en échec. Il est ainsi relevé, dans ce bilan du 28 août 2018,
+que le recourant, à son arrivée à l’EDFR au mois de novembre 2017, s’est vite
+montré demandeur et insistant, sollicitant les divers intervenants pour obtenir des ouvertures de
+régime, et qu’il a eu des difficultés à entendre les réponses et s’est
+montré impatient. Il est précisé que la décision autorisant son placement au sein
+du secteur ouvert de l’établissement a dû être révoquée dans un premier
+temps à la suite de suspicions de velléités de fuite et qu’à l’annonce
+de la révocation de son passage en secteur ouvert, le recourant a d’abord refusé le dialogue,
+avant de manifester de la frustration et une attitude contre-productive, notamment en menaçant d’interrompre
+le paiement des indemnités des victimes et des frais de justice, de suspendre son suivi thérapeutique
+et d’arrêter sa formation. Il est mentionné que le fait qu’il puisse être
+émotionnellement débordé et frustré par les règles et les décisions qu’il
+ne comprend pas ou qu’il estime injustes avait déjà été relevé dans le
+passé et était toujours d’actualité au moment du 2
+e
+bilan du PES.
+Au surplus, conformément à l’avis de la CIC du 10 septembre 2018, qui souligne que la
+commission comprend et souscrit à la reprise des phases d’élargissement décrites,
+à savoir un passage en secteur ouvert dès le mois d’octobre 2018 et la reprise des conduites
+familiales après six mois d’observation en régime ouvert, une nouvelle expertise psychiatrique
+et psychologique va être réalisée et devrait permettre de mieux cerner le risque de récidive
+violente, qui reste apprécié par la CIC comme moyen à élevé, avant tout élargissement
+supplémentaire de régime et notamment avant l’octroi de congés, auxquels le recourant
+n’a pas un droit absolu, étant rappelé que la question de sa libération conditionnelle
+ne se posera que dans trois ans.
+4.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autre échange d’écritures (art. 390 al. 2 CPP) et la décision de
+refus d’autorisation de sortie du 30 novembre 2018 confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt, par 1’210 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du
+recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 30 novembre 2018 est confirmée.
+III.
+Les frais d’arrêt, par 1’210
+fr. (mille deux cent dix francs), sont mis à la charge de S.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Elie Elkaïm, avocat (pour S.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Office d’exécution des peines (OEP/PPL/61178),
+-
+Direction de l’Etablissement de détention fribourgeois (EDFR), site de Bellechasse,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
