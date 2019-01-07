@@ -1,0 +1,268 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 8"
+decided: "2019-01-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6976809"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2019 / 8
+
+## Regeste
+
+NON-LIEU, FAUX INTELLECTUEL DANS LES TITRES | 251 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 07.01.2019 Décision / 2019 / 8
+
+NON-LIEU, FAUX INTELLECTUEL DANS LES TITRES | 251 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+6
+PE18.015553-XCR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+7 janvier 2019
+__________________
+Composition
+:               M.
+M E Y L A N, président
+MM.
+Krieger et Perrot, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+251 CP; 310 CPP
+Statuant sur le recours interjeté le 24 août 2018 par
+H.________
+contre l'ordonnance de non-entrée en matière rendue le 16 août 2018 par le Ministère
+public de l'arrondissement de La Côte dans la cause
+n° PE18.015553-XCR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 12 février 2018, H.________, agissant sous la plume de son administratrice, [...], a déposé
+plainte pénale contre Q.________. La plaignante a exposé être issue d’une ancienne
+société, dont la raison sociale était [...], reprise par elle en 2014 et dont Q.________
+était le gérant jusqu’au 20 août de cette année-là. Elle a fait grief
+à ce dernier d’avoir « conclu des contrats de lignes [...] au nom de notre société,
+avec facturation directement chez lui, en 2015 (…) ». Les organes de H.________ auraient
+« été informés de la chose lorsqu’il a[vait] arrêté de payer
+les factures ». Le prestataire de téléphonie aurait refusé la résiliation
+des contrats en raison des factures en souffrance depuis 2016 et aurait émis une prétention
+de 3'866 fr. 65 à ce titre envers H.________ (P. 5). La société a par la suite fait l’objet
+d’une poursuite de [...] pour [...].
+b)
+Par contrat du 14 août 2015, Q.________, disant agir au nom de [...], a souscrit un abonnement de
+téléphonie mobile auprès de [...]. Le 24 février 2016, ce prestataire a pris acte
+de la résiliation du contrat par la volonté de [...]. Il indiquait qu’il imputerait sur
+la facture finale adressée à cette société les redevances dues à hauteur de
+1'574 fr. 20 à l’échéance du contrat (P. 12).
+c)
+Entendu par la police le 11 juillet 2018 en qualité de personne appelée à donner des renseignements,
+Q.________ a indiqué avoir conclu les deux contrats d’abonnement téléphoniques incriminés
+les 28 et 29 mars 2014. Il était alors gérant de [...], n’ayant été radié
+du Registre du commerce que le 20 août 2014. Selon lui, les abonnements auraient été « basculés »
+(sic) à son nom le 18 novembre 2016 avec l’accord de [...]. Le fait que des factures étaient
+en souffrance aurait toutefois fait obstacle au changement d’abonné. Q.________ a soutenu
+avoir payé à [...] toutes les factures en lien avec ses deux raccordements, qu’il a transmises
+à la police (PV aud. 1, spéc. R. 7 et 8, p. 2. s.).
+d)
+Comme il s’y était engagé lors de son audition, Q.________ a produit copies de différents
+courriels échangés avec [...] (P. 13).
+B.
+Par ordonnance du 16 août 2018, le Ministère
+public de l'arrondissement de La Côte (ci-après: le Ministère public) a refusé d’entrer
+en matière (I) et a laissé les frais à la charge de l’Etat (II).
+Le Procureur a considéré qu’il
+ressortait des investigations policières que les contrats des deux raccordements téléphoniques
+incriminés avaient été conclus en 2014, et non en 2015 comme l’indiquait [...],
+soit à une époque durant laquelle Q.________ était gérant de [...]. Les contrôles
+effectués avaient permis d’établir que ce dernier avait entrepris des démarches
+pour transférer ces lignes à son nom en 2016. Cela étant, le magistrat a relevé qu’aucun
+dossier de recouvrement n’était en cours pour des prétentions de [...] envers H.________
+et qu’aucune créance ne subsistait à ce titre, ce dont la plaignante a été
+informée. Partant, aucune infraction ne paraissait avoir été commise, de sorte que les
+conditions pour entrer en matière sur la plainte n'étaient pas remplies.
+C.
+Par acte du 24 août 2018, H.________ a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant implicitement à son annulation et au
+renvoi de la cause au Ministère public pour qu’il ouvre une instruction pénale sur la
+base des faits dénoncés et rende une nouvelle décision. Elle a produit des pièces.
+Interpellé par avis du 14 décembre 2018, le Ministère public a, par lettre du 27 décembre
+suivant, indiqué qu’il renonçait à déposer des déterminations.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de non-entrée en matière rendue par le Ministère
+public (art. 310 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]) dans
+les dix jours devant l’autorité de recours (art. 310 al. 2, 322 al. 2 CPP; cf. art. 20
+al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse du 19 mai 2009;
+BLV 312.01]; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre 1979; BLV 173.01]).
+Interjeté dans le délai légal auprès de l’autorité compétente par
+la plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable. Les pièces
+nouvelles produites à l’appui du recours sont recevables (CREP 27 juin 2017/408 consid. 1,
+et les références citées).
+2.
+2.1
+La recourante soutient notamment, dans sa plainte, que Q.________ a personnellement profité des
+abonnements téléphoniques qu’il avait conclu au nom de la société dont il était
+alors le gérant. Elle ajoute, dans son recours, que les déclarations de Q.________ sont « pour
+la plupart mensongères » et que, contrairement aux assertions de ce dernier, elle avait
+fait l’objet d’une poursuite de [...] pour 3’068 fr. 70, à laquelle elle avait
+formé opposition totale, avant que la poursuite fût retirée et le dossier de recouvrement
+clôturé.
+2.2
+Aux termes de l'art. 310 al. 1 let. a CPP, une ordonnance de non-entrée en matière est rendue
+immédiatement – c’est-à-dire sans qu’une instruction soit ouverte (art. 309
+al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 consid. 2.1; Cornu,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2011, n. 2 ad art. 310 CPP) – par le Ministère public lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 et 302 CPP) ou de la plainte (Cornu, op. cit., n. 1 ad art. 310
+CPP) ou après une procédure préliminaire limitée aux investigations de la police
+(art. 300 al. 1, 306 et 307 CPP), que les éléments constitutifs de l'infraction ou les conditions
+à l'ouverture de l'action pénale ne sont manifestement pas réunis (TF 1B_111/2012 du 5
+avril 2012 consid. 2.1; TF 1B_67/2012 du 29 mai 2012 consid. 2.2).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références citées, JdT 2012 IV 160). En revanche, le Ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (cf. TF 1B_67/2012
+du 29 mai 2012 consid. 3.2).
+2.3
+Selon l'art. 251 ch. 1 CP (Code pénal suisse
+du 21 décembre 1937; RS 311.0), sera puni d'une peine privative de liberté de cinq ans au plus
+ou d'une peine pécuniaire celui qui, dans le dessein de porter atteinte aux intérêts pécuniaires
+ou aux droits d'autrui ou de se procurer ou de procurer à un tiers un avantage illicite, aura créé
+un titre faux, falsifié un titre, abusé de la signature ou de la marque à la main réelles
+d'autrui pour fabriquer un titre supposé, ou constater ou fait constater faussement, dans un titre,
+un fait ayant une portée juridique, ou aura, pour tromper autrui, fait usage d'un tel titre.
+Les infractions du droit pénal relatives aux titres protègent la confiance qui, dans les relations
+juridiques, est placée dans un titre comme moyen de preuve. C'est pourquoi la loi considère
+comme titres les écrits destinés et propres à prouver un fait ayant une portée juridique
+(art. 110 ch. 4 CP). Le caractère de titre d'un écrit est relatif. Par certains aspects, il
+peut avoir ce caractère, par d'autres non. Un écrit constitue un titre en vertu de cette disposition
+s'il se rapporte à un fait ayant une portée juridique et s'il est destiné et propre à
+prouver le fait qui est faux. La destination et l'aptitude à prouver un fait précis d'un document
+peut résulter directement de la loi, des usages commerciaux ou du sens et de la nature dudit document
+(TF 6B_55/2017 du 24 mars 2017 consid. 2.2 ; ATF 142 IV 119 consid. 2.2 ; ATF 138 IV 130
+consid. 2.2.1).
+Le faux dans les titres est une infraction intentionnelle. Le dol éventuel suffit (ATF 141 IV 369
+consid. 7.4). L'art. 251 CP exige en outre un dessein spécial, qui peut se présenter sous deux
+formes alternatives, à savoir le dessein de nuire ou le dessein d'obtenir un avantage illicite.
+L'auteur doit vouloir utiliser le titre en le faisant passer pour véridique dans les relations juridiques,
+ce qui présuppose l'intention de tromper. L'avantage recherché, respectivement l'atteinte,
+doit précisément résulter de l'usage du titre faux, respectivement mensonger (ATF 141
+IV 369 consid. 7.4 et l’arrêt cité). La jurisprudence admet qu’il y a dessein de
+se procurer un avantage illicite lorsque l’auteur entend par un faux faciliter la preuve en justice
+ou dans la vie des affaires d’une prétention qui existe véritablement (Corboz, Les infractions
+en droit suisse, vol. II, 3
+e
+éd., Berne 2010, n. 183 ad art. 251 CP et les arrêts cités).
+2.4
+En l'espèce, il est constant que Q.________ était, jusqu’au 20 août 2014, le gérant
+de la société à laquelle a succédé H.________. Les raccordements téléphoniques
+litigieux, souscrits par ce dernier, ont été transférés à son nom le 18 novembre
+2016 avec effet au 29 novembre suivant. Or, la société était représentée par
+sa nouvelle gérante, [...], dès le 20 août 2014 en remplacement de Q.________, comme l’établit
+l’extrait du Registre du commerce produit à l’appui du recours (P. 18/1). Malgré
+sa radiation comme gérant dès le 20 août 2014, à une reprise au moins dans l’intervalle,
+à savoir le 14 août 2015, ce dernier s’est présenté à l’égard
+de [...] comme l’organe de [...], en passant un contrat de téléphonie prétendument
+au nom de cette société.
+Si, également comme déjà indiqué, Q.________ a par la suite obtenu que les raccordements
+soient remis en fonction au nom de [...], avec comme adresse son propre domicile, cachant alors à
+la société le renouvellement des contrats pour son usage propre (cf. P. 18/3 et les « déclaration[s]
+de reprise » du 18 novembre 2016 sous P. 10 et 11, signées par lui), il n’a pas
+pour autant payé ces raccordements, [...] ayant fait l’objet d’une poursuite de [...]
+pour 3'068 fr. 70. Ce n’est qu’après plusieurs démarches que la société
+a obtenu du prestataire de téléphonie la confirmation qu’une erreur avait été
+commise en ce sens que [...] avait agi sans vérifier la teneur du Registre du commerce (courriel
+du 30 mai 2018 sous P. 18/3). [...] a ainsi reconnu s’être fondée à tort sur les
+déclarations mensongères de Q.________, en omettant de vérifier les pouvoirs de représentation
+de l’intéressé. Le fait de prétendre disposer du pouvoir d’engager la société,
+alors que tel n’était pas le cas, a causé un préjudice à la recourante, puisque
+Q.________ apparaît s’être enrichi à hauteur des communications impayées et
+par l’usage des appareils sur les raccordements en question.
+2.5
+En l’état, les divers documents, mentionnés ci-dessus, signés par Q.________, constituent
+à tout le moins des indices de faux dans les titres (cf., quant aux actes du représentant sans
+pouvoirs sous l’angle de la notion de faux, ATF 123 IV 17 consid. 2). Vu l’ampleur des agissements
+de l’intéressé ressortant des pièces, il n’est pas exclu que d’autres
+infractions entrent en ligne de compte. Seule une instruction complémentaire permettra d’établir
+les faits déterminants. Il appartient au Ministère public de procéder à toutes les
+investigations utiles à cet égard.
+3.
+Il résulte de ce qui précède que le recours doit être admis et l’ordonnance
+attaquée annulée, le dossier de la cause étant renvoyé au Ministère public de
+l’arrondissement de La Côte pour qu’il ouvre une instruction sur la base des faits dénoncés
+dans la plainte et procède à toutes les investigations utiles.
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt,
+par 770 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront laissés à la charge
+de l’Etat (art. 423 al. 1 CPP; CREP 22 janvier 2018/77).
+L’avance de frais de 550 fr. versée par la recourante à titre de sûretés lui
+sera restituée (cf. p. ex. CREP 23 juillet 2018/546).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 16 août 2018 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), sont laissés à la charge
+de l’Etat.
+V.
+L’avance de frais de 550 fr. (cinq cent cinquante francs) versée par H.________ à titre
+de sûretés lui est restituée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme [...] (pour H.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de La Côte,
+-
+M. Q.________,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi fédérale du 17 juin 2005 sur le Tribunal
+fédéral; RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
