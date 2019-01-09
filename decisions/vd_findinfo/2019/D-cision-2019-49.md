@@ -1,0 +1,269 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___49"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 49"
+decided: "2019-01-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6998331"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/641.20/art-018.md"]
+---
+
+# VD Findinfo Décision / 2019 / 49
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE, FRAIS DE LA PROCÉDURE, DÉPENS | 386 al. 2 let. b CPP (CH), 428 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.01.2019 Décision / 2019 / 49
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE, FRAIS DE LA PROCÉDURE, DÉPENS | 386 al. 2 let. b CPP (CH), 428 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+979
+PE16.023548-ERY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+9 janvier 2019
+__________________
+Composition
+:               M.
+Perrot
+,
+vice-président
+M.
+Krieger et Mme Byrde, juges
+Greffier
+:              M.
+Petit
+*****
+Art.
+386 al. 2 CPP
+Statuant sur le recours interjeté le 1
+er
+octobre 2018 par
+B.________
+contre l'ordonnance concernant les objets et valeurs patrimoniales séquestrés rendue le 18
+septembre 2018 par le Ministère public de l'arrondissement de Lausanne dans la cause
+n° PE16.023548-ERY
+,
+la Chambre des recours pénale considère :
+En fait et en droit :
+A.
+a)
+La société X.________ SA a un capital
+social de 40 millions de francs et deux actionnaires, un ressortissant russe, [...], et un ressortissant
+français, B.________, ce dernier à hauteur de 15%. Le but principal est le commerce de spiritueux.
+b)
+Le
+28 novembre 2016, X.________ SA a déposé plainte pénale contre B.________. Le Ministère
+public de l'arrondissement de Lausanne (ci-après: le Ministère public) a ouvert une instruction
+pénale contre le prénommé pour gestion déloyale.
+B.________ est mis en cause pour avoir, entre janvier 2013 et décembre 2015, en qualité d’administrateur
+de la société X.________ SA, ordonné des transferts de fonds sans cause, en sa faveur
+ou en faveur de sociétés dont il était l’ayant droit économique, pour un montant
+de 8'743'219 euros au préjudice de la société X.________ SA. L’une de ces sociétés
+serait Y.________ SA dont le siège est à [...], au profit de laquelle un montant de 3'991'911
+euros aurait été crédité grâce aux fonds détournés (P. 155/2).
+c)
+En cours d’instruction, plusieurs comptes
+en mains de Y.________ SA, respectivement B.________, ont notamment été séquestrés :
+-
+le compte bancaire n°[...], auprès d’[...],
+dont le titulaire est B.________, selon ordonnance de séquestre du 1
+er
+décembre 2016, dont le solde était de 60'217 fr. 77 au 31 décembre 2016 (P. 26);
+-
+les comptes bancaires figurant sous la relation
+n°[...], auprès d’[...], dont le titulaire est la société Y.________ SA, selon
+ordonnance de séquestre du 2 décembre 2016, dont le solde total était de 581'499
+fr. au 31 décembre 2016 (P. 26);
+-
+le compte bancaire n°[...], auprès d’[...],
+dont le titulaire est B.________, selon ordonnance de séquestre du 14 décembre 2016, dont le
+solde était de 412'146 euro 85 au 31 décembre 2016 (P. 26).
+d)
+Par décision du 11 avril 2018, le séquestre prononcé le 14 décembre 2016 sur le compte
+bancaire n°[...] dont le titulaire est B.________ a été partiellement levé à
+raison d’un montant de 9'300 euros par mois (soit environ 11'000 fr. par mois) afin d’assurer
+le minimum vital de ce dernier et de sa famille.
+B.
+a)
+Le 7 septembre 2018 (P. 189), X.________ SA
+a requis l'annulation de la levée partielle du séquestre portant sur les comptes du prévenu
+auprès de l'[...].
+Par courrier du 11 septembre 2018, le Procureur a imparti un délai au 18 septembre 2018 au prévenu
+pour se déterminer sur les mesures requises
+(P.
+190).
+Le 18 septembre 2018, le prévenu a sollicité une prolongation de délai d'une semaine pour
+se déterminer, au motif que le courrier du 7 septembre 2018 portait sur de nombreux points (P. 194).
+Le 19 septembre 2018, le Procureur a prolongé au 27 septembre 2018 le délai imparti au prévenu
+pour procéder (P. 195).
+b)
+Par ordonnance du 18 septembre 2018, le Ministère public a ordonné à [...] de cesser,
+dès décision définitive et exécutoire, la levée partielle du séquestre
+du compte bancaire n° [...] à raison d’un montant de 9'300 euros par mois (I), a ordonné
+le maintien du séquestre pour le surplus (II) et a dit que les frais suivaient le sort de la cause
+(III).
+Dans son ordonnance, le Procureur a relevé qu'à l’examen de la déclaration française
+des revenus du prévenu pour l’année 2017 (P. 175), ce dernier avait perçu notamment
+33'946 euros (« revenus d’activités »), 288'220 euros (« salaires
+de source étrangère ») et 12'000 euros (« revenu foncier »),
+de sorte que son minimum vital, de même que celui de sa famille, était largement couvert. Le
+motif pour lequel la levée partielle du séquestre avait été prononcée n’étant
+plus établi, il convenait par conséquent d’y mettre fin.
+c)
+Le 27 septembre 2018 (P. 196), le prévenu a déposé des déterminations sur les mesures
+requises par X.________ SA le 7 septembre 2018.
+C.
+a)
+Par acte du 1
+er
+octobre 2018, B.________ a recouru auprès de la Cour de céans contre la décision du Ministère
+public du 18 septembre 2018, concluant à son annulation et au renvoi de la cause au Procureur pour
+nouvelle instruction et décision dans le sens des considérants à intervenir.
+Invité à se déterminer, le Ministère public a, par courrier du 5 novembre 2018, déclaré
+s'en remettre à la décision attaquée et a conclu au rejet du recours.
+Invitée également à se déterminer, X.________ SA a déposé des déterminations
+le 5 novembre 2018 accompagnées d'onglet de trois pièces sous bordereau, et a conclu au rejet
+du recours.
+b)
+En
+parallèle à la procédure de recours ouverte par B.________, X.________ SA a recouru, le
+1
+er
+octobre 2018, à l'encontre de la décision rendue également le 18 septembre 2018 par le
+Ministère public de refus de perquisition de quatre boîtes de messagerie électronique
+de B.________ (cf. CREP
+10 décembre
+2018/965).
+c)
+Le 6 novembre 2018 (P. 218), le Ministère public a exposé avoir été informé
+par le conseil de B.________, par courrier du 5 novembre 2018 (cf.
+P.
+218/2), qu'une solution pour le traitement global des séquestres était recherchée avec
+X.________ SA, au vu de quoi une suspension du traitement du recours de B.________ apparaissait opportune,
+ce dont convenait également ce dernier (cf. P. 218/1).
+Le 8 novembre 2018, le Vice-président de céans a informé les parties que, notamment, la
+procédure de recours ouverte sur le recours de X.________ SA (cf. consid. C. b supra) était
+suspendue jusqu'au 30 novembre 2018.
+Le 12 novembre 2018 (P. 220), X.________ SA, soulignant le fait que le Ministère public avait demandé
+de suspendre la procédure ouverte sur recours de  B.________, a invité le Vice-président
+de céans, d'une part, à rapporter la décision de suspension visant la procédure ouverte
+sur son propre recours et, d'autre part, à fixer un délai à B.________ pour se déterminer.
+Le 16 novembre 2018 (P. 222), invité à se déterminer sur le courrier de X.________ SA
+du 12 novembre 2018, le Ministère public a déclaré que l'instruction du recours déposé
+par la partie plaignante ne semblait pas impactée par celui déposé par le prévenu.
+Le 19 novembre 2018 (P. 223), invité également à se déterminer sur le courrier de
+X.________ SA du 12 novembre 2018, B.________ s'est déclaré favorable à la suspension
+du traitement des deux recours.
+Par déterminations spontanées du 20 novembre 2018 (P. 224), X.________ SA a réitéré
+la demande contenue par son courrier du 12 novembre 2018 de rapporter la décision de suspendre le
+traitement du recours de B.________.
+Le 23 novembre 2018, le Vice-président de céans a précisé aux parties que le traitement
+du recours de X.________ SA se poursuivait, que la procédure ouverte sur recours de B.________ était
+suspendue jusqu'au 15 décembre 2018 et qu'en cas d'accord des parties formulé dans l'intervalle,
+cette suspension pourrait être prolongée, à défaut de quoi la procédure sur
+ce point serait reprise d'office. Dans cette hypothèse, il n'y aurait pas non plus de second échange
+d'écritures et il serait statué sur le recours, étant précisé que les autres
+parties s'étaient déjà déterminées. Si le recourant entendait exercer son droit
+de réplique, il devrait le faire sitôt après la fin de la suspension.
+D.
+a)
+Par courrier du 11 décembre 2018 (P. 230), le Ministère public a informé avoir reçu
+le 21 novembre 2018 une proposition de B.________ tendant à la levée des séquestres prononcés
+à son encontre et celle de Y.________ SA, dans le but que les montant concernés soient versés
+en mains de X.________ SA. La plaignante s'y étant montré favorable, le Procureur a indiqué
+que la rédaction d'une décision sur le sort des objets et valeurs patrimoniales séquestrés
+était en cours.
+Par courrier du 17 décembre 2018 (P. 231), B.________ a indiqué, notamment, qu'il n'était
+pas exclu que son recours devienne sans objet si une décision était prochainement rendue.
+Par courrier du 27 décembre 2018 (P. 232), X.________ SA a fait valoir que ce n'était pas la
+décision attendue du Ministère public qui rendrait le recours sans objet, mais le fait que
+B.________ avait requis du Procureur qu'il libère les fonds séquestrés en faveur de la
+plaignante sans rien retenir pour lui. L'intéressée a en outre requis la reprise immédiate
+de la cause, en concluant à ce que le recours de B.________ « soit déclaré sans
+objet et rejeté avec frais et dépens ».
+b)
+Par ordonnance du 28 décembre 2018, le Ministère public a, notamment, ordonné, dès
+décision définitive et exécutoire, la levée des séquestres prononcés sur
+les relations bancaires auprès d'[...] dont sont titulaires B.________ et EGMA SA, et le transfert
+de tous les avoirs en compte en faveur de X.________ SA.
+Par courrier du 7 janvier 2019, B.________ a déclaré retirer le recours déposé le
+1
+er
+octobre 2018, exposant que le Ministère public avait rendu une nouvelle décision concernant
+le sort des séquestres, de sorte que le recours était devenu sans objet, sollicitant enfin
+que les éventuels frais soient laissés à la charge de l'Etat.
+Par courrier du 8 janvier 2019, X.________ SA a déclaré s'opposer à ce que les frais de
+la cause soient laissés à la charge de l'Etat et a conclu à nouveau à l'allocation
+de dépens.
+E.
+Compte-tenu de ce qui précède, il y
+a lieu de prendre acte du retrait du recours de B.________ et de rayer la cause du rôle.
+Les frais de la procédure de recours, constitués en l’espèce de l'émolument
+d'arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; RSV 312.03.1]), seront mis
+à la charge du recourant Christophe Clavé qui succombe dès lors qu'il a retiré son
+recours (art. 428 al. 1 CPP). Il ne saurait en effet être retenu que le retrait du recours a été
+le fait d'une modification de la position du Procureur, ni que l'intimée est en partie à l'origine
+du retrait du recours, puisqu'il apparaît que la levée du séquestre est liée à
+l'allocation de fonds précisément à celle-ci, sur demande notamment du prévenu. Dans
+cette mesure, le bien fondé du séquestre s'est vérifié.
+Spirit Capital SA, qui a procédé avec l’assistance d’un avocat de choix, a droit,
+de la part du recourant qui succombe, à une indemnité pour les dépenses occasionnées
+par la procédure de recours (art. 436 al. 1 et 433 al. 1 CPP). Cette indemnité sera fixée
+à 1'200 fr., correspondant à quatre heures d’activité au tarif horaire d’avocat
+de 300 fr. (art. 26a al. 3 TFIP), plus un montant correspondant à la TVA – étant rappelé
+que si les indemnités au sens des art. 429 ss CPP ne sont pas soumises à la TVA (art. 18 al.
+2 let. i LTVA [Loi fédérale régissant la taxe sur la valeur ajoutée du 12 juin 2009;
+RS 641.20]), il convient de tenir compte du fait que les honoraires payés par la partie à son
+avocat sont quant à eux soumis à la TVA (CREP 1
+er
+mars 2017/904) –, par 92 fr. 40, soit à 1'292 fr. 40 au total.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Il est pris acte du retrait du recours.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont mis à la charge de B.________.
+IV.
+Une indemnité de 1'292 fr. 40  (mille deux cent nonante deux francs et quarante centimes) est
+allouée à X.________ SA, à la charge de B.________.
+V.
+L’arrêt est exécutoire.
+Le
+vice-président :
+Le greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jean-Pierre Gross, avocat (pour X.________ SA),
+-
+Me Stefan Disch, avocat (pour B.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
