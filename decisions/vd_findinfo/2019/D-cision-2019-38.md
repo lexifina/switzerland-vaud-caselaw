@@ -1,0 +1,271 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___38"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 38"
+decided: "2019-01-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6986224"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-426.md"]
+---
+
+# VD Findinfo Décision / 2019 / 38
+
+## Regeste
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, LANGUE DE LA PROCÉDURE, DÉLAI RAISONNABLE, PRINCIPE DE LA BONNE FOI | 58 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.01.2019 Décision / 2019 / 38
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, LANGUE DE LA PROCÉDURE, DÉLAI RAISONNABLE, PRINCIPE DE LA BONNE FOI | 58 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+28
+PE17.015360-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 11 janvier 2019
+__________________
+Composition
+:               M.
+M E Y L A N, président
+Mme
+Byrde et M. Oulevey, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+58 al. 1 CPP
+Statuant sur la demande de récusation déposée le 12 décembre 2018 par
+J.________
+à l'encontre de la Procureure
+[...]
+,
+Procureure de l’arrondissement de La Côte, dans la cause
+n° PE17.015360-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+8 août 2017, [...] a porté plainte contre J.________, pour enregistrement non autorisé
+de conversations (art. 179
+ter
+al. 1 et 2 CP [Code pénal suisse; RS 311.0]). Le 14 août 2017, F.________, collaborateur de
+[...], a également déposé plainte contre J.________, pour enregistrement non autorisé
+de conversations et diffamation (art. 173 CP), à raison du même complexe de faits (P. 4 et
+PV aud. 1, respectivement).
+b)
+Par suite de ces plaintes, le Ministère public de l’arrondissement de La Côte a ouvert
+une instruction pénale contre J.________, pour enregistrement non autorisé de conversations
+et diffamation. La cause a été confiée à la procureure [...]. La magistrate a cité
+le prévenu à comparaître à son audience du 6 décembre 2017 par un mandat de
+comparution envoyé au domicile suisse de l’intéressé. Le mandat ayant été
+retourné à l’expéditeur avec la mention « non réclamé », la
+procureure l’a fait réexpédier à la même adresse sous pli simple.
+L’audience appointée au 6 décembre 2017 a été reportée à la requête
+de F.________.
+Par courriel du 4 décembre 2017 rédigé en allemand, le prévenu a informé la
+procureure qu’il se trouvait en voyage à l’étranger (en Amérique du Nord)
+jusqu’au 15 avril 2018 et il a demandé le report de l’audience du 6 décembre (P.
+10).
+La procureure a répondu au prévenu par un courriel non daté (P. 11), mais parvenu au prévenu
+le 5 décembre 2017 (cf. requête, p. 4), dans laquelle elle a écrit ce qui suit :
+« Monsieur,
+Votre courriel du 4 décembre 2017 m’est bien parvenu et a retenu ma meilleure attention. (…).
+Je vous informe (…) que la langue de la procédure est le français et que, si vous souhaitez
+prendre contact avec moi, je vous invite à le faire dans cette langue et par courrier. Si vous deviez
+à nouveau m’adresser un courriel, il n’y sera pas répondu.
+Pour le surplus, je vous saurais gré de me communiquer, par courrier, une adresse à laquelle
+je peux vous joindre.
+(…) ».
+Par une lettre rédigée en allemand, non datée, parvenue à la procureure le 9 janvier
+2018, le prévenu a désigné une adresse de notification en Suisse et, précisant qu’il
+n’était pas de langue maternelle française, il a demandé à bénéficier
+d’un interprète (P. 13).
+L’audience a été réappointée au 24 mai 2018.
+Par courriel du 30 avril 2018, rédigé en allemand, le prévenu a informé la procureure
+qu’il se trouverait encore en Amérique du Nord jusqu’à la fin du mois de décembre
+2018 et qu’il ne comparaîtrait dès lors pas à l’audience du 24 mai. Par lettre
+du même jour, la procureure a informé le prévenu que l’audience du 24 mai était
+maintenue (P. 14).
+Par courriel du 18 mai 2018, le prévenu a communiqué une nouvelle adresse de notification en
+Suisse. Il a en outre demandé qu’une copie du dossier lui adressée à ses frais et
+à être autorisé à se déterminer par écrit sur le fond. Il a réitéré
+ces demandes par courriel du 3 juin 2018 (P. 17).
+Le 24 mai 2018, la procureure a interpellé la [...] quant aux conditions auxquelles celle-ci pourrait
+retirer sa plainte (P. 18).
+Par lettre du 5 juin 2018, la procureure a informé le prévenu qu’elle refusait de lui
+envoyer une copie du dossier, qui pouvait être consulté à l’office moyennant un
+préavis de vingt-quatre heures (P. 20).
+La [...] a fait connaître ses conditions de retrait de plainte par lettre du 26 juin 2018 (P. 21).
+Par courriel en allemand du 22 juillet 2018, le prévenu a notamment demandé à la procureure
+de le renseigner sur la manière dont il pourrait se défendre (P. 23).
+Par une lettre du 18 septembre 2018 à laquelle elle a annexé copie de pièces essentielles
+du dossier, la procureure a imparti au prévenu un délai au 15 octobre 2015 pour se déterminer
+par écrit sur les faits qui lui étaient reprochés (P. 24).
+Par courriel en allemand du 12 octobre 2018, le prévenu s’est plaint, notamment, de n’avoir
+pas reçu une copie du dossier complet (P. 27).
+Par lettre du 5 novembre 2018, la procureure a demandé au prévenu de lui communiquer des dates
+précises de son retour en Suisse (P. 36).
+Par lettre du 6 novembre 2018, la procureure a transmis au prévenu une copie de la lettre dans laquelle
+la [...] énonçait les conditions auxquelles elle acceptait de retirer sa plainte (P. 37). Le
+prévenu y a répondu par un courriel du 7 novembre 2018, dans lequel il a posé le retrait
+des plaintes comme préalable à l’exécution d’un arrangement (P. 41). Par lettre
+du 16 novembre 2018, la procureure a écrit ce qui suit au prévenu : «Je me permets d’attirer
+votre attention sur le fait qu’il n’appartient pas à la partie plaignante de retirer
+les plaintes déposées avant que vous ayez rempli les conditions posées » (P. 43).
+Le 18 novembre 2018, le prévenu a adressé à la procureure un courriel en allemand (P.
+44), avec traduction française, dans lequel il indiquait notamment qu’il serait « vraisemblablement
+» de retour en Suisse le 27 ou le 28 décembre (2018, réd.) (P. 45).
+Par courriel en allemand du 26 novembre 2018, le prévenu a accusé réception de la lettre
+de la procureure du 5 novembre 2018, expliquant qu’il considérait y avoir déjà répondu
+en communiquant les dates exactes de son retour par son courriel du 18 novembre 2018 (P. 47).
+Le 27 novembre 2018, la procureure a cité le prévenu à comparaître à une audience
+le 7 janvier 2019. La magistrate a accompagné le mandat de comparution d’une lettre indiquant
+ce qui suit : « Etant donné qu’il ne vous est pas possible de savoir, aujourd’hui
+encore, votre date de retour en Suisse, je vous prie de trouver, ci-joint, un mandat de comparution pour
+le 7 janvier 2019 à 09h30 » (P. 48).
+Par courriel en allemand du 28 novembre 2018, le prévenu a, en substance, déploré de devoir
+indiquer «
+pour
+la troisième fois
+( !) [ndr : souligné
+et ponctué par le prévenu] » à la procureure que la date de son retour était
+fixée au « 27/28 » décembre 2018 (P. 49).
+La procureure avait fait établir, au fur et à mesure, des traductions en français des
+divers courriels que le prévenu lui avait adressés en allemand.
+c)
+Par courriel du 3 décembre 2018, le prévenu
+a fait parvenir à la procureure des déterminations sur le fond de cinquante-neuf pages, rédigées
+en allemand (P. 52 /1 et 52/2).
+Par lettre du 5 décembre 2018 (P. 53), la procureure a écrit ce qui suit au prévenu :
+« Monsieur,
+A plusieurs reprises, je vous ai informé que la langue de la procédure était le français.
+Par mail du 3 décembre 2018, vous m’avez adressé vos déterminations en allemand
+sur plusieurs dizaines de pages.
+Je vous saurais gré de bien vouloir me les transmettre en français dans les meilleurs délais.
+Si je ne devais pas les recevoir avant le 21 décembre 2018, je vous informe qu’elles seront
+traduites à vos frais.
+(…) ».
+B.
+Par lettre du 12 décembre 2018 pour l’original
+en allemand et du 13 décembre 2018 pour sa traduction française, toutes deux parvenues au Tribunal
+cantonal le 21 décembre 2018, J.________ (ci-après : le requérant) a déposé
+une requête en récusation contre la procureure [...].
+Par lettre du 7 janvier 2019, la procureure a conclu au rejet de la requête et renoncé à
+se déterminer plus amplement.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 59 al. 1 let. b CPP (Code de procédure pénale suisse du 5 octobre 2007;
+RS 312.0), lorsqu’un motif de récusation au sens de l’art. 56 let. a ou f CPP est invoqué
+ou qu’une personne exerçant une fonction au sein d’une autorité pénale s’oppose
+à la demande de récusation d’une partie qui se fonde sur l’un des motifs énumérés
+à l’art. 56 let. b à e CPP, le litige est tranché sans administration supplémentaire
+de preuves et définitivement par l’autorité de recours, lorsque le ministère public,
+les autorités pénales compétentes en matière de contraventions et les tribunaux de
+première instance sont concernés.
+La Chambre des recours pénale du Tribunal cantonal est donc compétente pour statuer sur la
+demande de récusation présentée par le requérant à l’encontre de la procureure
+[...] (art. 13 LVCPP [loi vaudoise d’introduction du code de procédure pénale suisse
+du 19 mai 2009; BLV 312.01]).
+1.2
+Selon l’art. 58 al. 1 CPP, lorsqu’une
+partie entend demander la récusation d’une personne qui exerce une fonction au sein d’une
+autorité pénale, elle doit présenter sans délai à la direction de la procédure
+une demande en ce sens, dès qu’elle a connaissance du motif de récusation. Selon la jurisprudence,
+même si la loi ne prévoit aucun délai particulier, il y a lieu d’admettre que la
+récusation doit être formée aussitôt, c’est-à-dire dans les jours qui
+suivent la connaissance de la cause de récusation (TF 1B_321/2013 du 30 octobre 2013 consid. 2.1
+et les références citées). Cette disposition reprend une pratique constante, selon laquelle
+la partie qui omet de se plaindre immédiatement de la prévention du magistrat et laisse le
+procès se dérouler sans intervenir agit de manière contraire à la bonne foi et voit
+ainsi son droit se périmer (Moreillon/Parein-Reymond, Petit commentaire, Code de procédure
+pénale, 2e éd., Bâle 2016, n. 3 ad art. 58 CPP et les arrêts cités). Le requérant
+doit ainsi faire valoir le motif de récusation invoqué dans un laps de temps d’au plus
+six ou sept jours depuis sa découverte ; un délai d’attente de deux à trois semaines
+est déjà excessif (TF 1B_308/2014 du 5 novembre 2014 consid. 2.2.1 ; TF 1B_60/2014 du 1er mai
+2014 consid. 2.2 et les arrêts cités ; JdT 2015 III 113 ; CREP 10 mai 2017/321). Cette exigence
+découle du principe de la bonne foi (art. 5 al. 3 Cst.), qui interdit aux parties de garder un moyen
+de récusation en réserve pour ne l’invoquer que si la procédure aboutit à un
+résultat qui leur déplaît (cf. TF 1B_321/2013 du 30 octobre 2013 consid. 2.1 et les références
+citées).
+1.3
+En l’espèce, le requérant fait valoir que c’est depuis la lettre de la procureure
+[...] du 5 décembre 2017 qu’il a le sentiment d’avoir été « pré-condamné
+(sic) ». Il n’invoque pas la lettre de la procureure du 5 décembre 2018 à l’appui
+de sa demande. Parmi les actes de la procureure qui dénoteraient un parti pris selon le requérant,
+le plus récent est ainsi l’envoi du 18 septembre 2018, que le requérant admet avoir reçu
+le 11 octobre 2018. Il n’y a dès lors pas lieu d’entrer en matière sur les griefs
+du requérant, qui sont tardifs.
+2.
+2.1
+Bien que le requérant n’invoque pas la lettre de la procureure [...] du 5 décembre 2018
+à l’appui de sa demande de récusation, il est opportun de relever au surplus ce qui suit.
+2.2
+Lorsqu’un justiciable est insatisfait d’une décision ou d’une procédure judiciaire,
+il lui est loisible de la contester par les voies de recours prévues à cet effet. La procédure
+de récusation n’a pas pour objet de vérifier la légalité ou l’opportunité
+des actes du magistrat qu’elle vise ; elle a tend seulement à vérifier si celui-ci est
+impartial. Selon la jurisprudence, des décisions ou des actes de procédure qui se révéleraient
+erronés ne fondent pas en soi une apparence objective de prévention ; seules des erreurs particulièrement
+lourdes ou répétées, constitutives de violations graves des devoirs du magistrat, peuvent
+fonder une suspicion de partialité, pour autant que les circonstances dénotent que le juge
+est prévenu ou justifient à tout le moins objectivement l'apparence de prévention (ATF
+141 IV 178 consid. 3.2.3 ; ATF 138 IV 142 consid. 2.3).
+2.3
+Dans sa lettre du 5 décembre 2018, la procureure, dans la mesure où elle annonce que des frais
+de traduction pourraient être mis à la charge du requérant, perd de vue l’art. 426
+al. 2 let. b CPP, aux termes duquel le prévenu ne supporte pas les frais imputables aux traductions
+rendues nécessaires du fait qu’il est allophone. Cependant cette erreur de procédure,
+portant sur un point accessoire, ne permet pas de suspecter légitimement la procureure de partialité.
+3.
+Il résulte de ce qui précède que la demande de récusation est irrecevable.
+Les frais de procédure, constitués en l’espèce du seul émolument de décision,
+par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; BLV 312.03.1]), seront mis à la charge du requérant, qui
+succombe (art. 59 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation présentée le 12 décembre 2018 par J.________ contre la procureure
+[...] est irrecevable.
+II.
+Les frais de décision, arrêtés à 880 fr. (huit cent huitante francs), sont mis à
+la charge de J.________.
+III.
+La décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+M. J.________,
+-
+Ministère public central,
+et communiquée à :
+-
+Mme la Procureure du Ministère public de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+Le greffier :
