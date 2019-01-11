@@ -1,0 +1,226 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___76"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 76"
+decided: "2019-01-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7005755"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-318.md"]
+---
+
+# VD Findinfo Décision / 2019 / 76
+
+## Regeste
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, REJET DE LA DEMANDE, MINISTÈRE PUBLIC | 318 CPP (CH), 56 CPP (CH), 56 let. f CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 11.01.2019 Décision / 2019 / 76
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, REJET DE LA DEMANDE, MINISTÈRE PUBLIC | 318 CPP (CH), 56 CPP (CH), 56 let. f CPP (CH)
+
+TRIBUNAL
+CANTONAL
+31
+PE18.013085-C.________
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 11 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Abrecht et Oulevey, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+56 ss CPP
+Statuant sur la demande de récusation déposée le 5 décembre 2018 par
+S.________
+à l'encontre de C.________, procureure de l’arrondissement du Nord vaudois, dans la cause
+n° PE18.013085-C.________
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 3 juillet 2018, S.________ a déposé plainte pénale contre son ex-femme, W.________,
+et son ami, P.________, pour menaces et injures. Il leur reproche de l’avoir menacé de mort
+et traité de « connard », le 29 juin 2018, alors qu’il se trouvait
+dans le hall du centre commercial [...], à la rue de [...], à [...], en compagnie d’un
+ami, H.________.
+A l’appui de sa plainte, S.________ a produit un témoignage écrit rédigé par
+H.________ en langue serbe (non traduit), qui confirmerait les faits objet de la plainte (P. 4).
+Le 5 juillet 2018, l’affaire a été attribuée à [...], procureure de l’arrondissement
+du Nord vaudois.
+Le 19 septembre 2018, une audience de conciliation a été tenue en présence de S.________
+et de W.________. Cette dernière a contesté avoir, elle-même ou son ami P.________, menacé
+ou insulté S.________ lors de leur rencontre au centre commercial le 29 juin 2018.
+Le 1
+er
+octobre 2018, l’affaire a été attribuée à C.________, procureure de l’arrondissement
+du Nord vaudois.
+Le 3 décembre 2018, la procureure C.________ a adressé aux parties un avis de prochaine clôture
+leur indiquant qu’elle entendait rendre une ordonnance de classement et laisser les frais à
+la charge de l’Etat. Elle leur a fixé un délai au 17
+décembre
+2018 pour formuler d’éventuelles réquisitions de preuves.
+B.
+Par courrier du 5 décembre 2018, S.________
+a implicitement requis la récusation de la procureure C.________, en demandant que l’affaire
+soit attribuée à un ou une autre procureure (P. 10).
+Le 10 décembre 2018, la procureure C.________ a imparti un délai à S.________ pour lui
+indiquer si sa lettre devait être interprétée comme une demande de récusation et,
+le cas échéant, pour lui communiquer les motifs invoqués à l’appui de sa requête.
+Par courrier du 26 décembre 2018, S.________ a indiqué maintenir sa demande de récusation
+et a motivé celle-ci (P. 12).
+C.
+Le 8 janvier 2019, la procureure C.________ a transmis le dossier de la cause ainsi que la demande de
+récusation à la Chambre des recours pénale du Tribunal cantonal. Dans sa prise de position
+du même jour, elle a conclu au rejet de cette demande.
+En droit
+:
+1.
+Aux termes de l'art. 59 al. 1 let. b CPP (Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant
+une fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le Ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l'espèce, la Chambre des recours pénale du Tribunal cantonal est compétente (art. 13
+LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009 ;
+BLV 312.01]) pour statuer sur la demande de récusation présentée le 5 décembre 2018
+et complétée le 26 décembre 2018, en temps utile (art. 58 al. 1 CPP). La demande de récusation
+est donc recevable.
+2.
+2.1
+Le requérant, partie plaignante dans une
+affaire traitée par la procureure C.________, a requis sa récusation au motif qu’elle
+n’aurait pas pris en considération les preuves qu’il aurait avancées contre W.________
+et aurait refusé d’auditionner le témoin présent lors de l’altercation litigieuse.
+Il indique avoir le sentiment que tout ce qu’il dit serait pris comme un mensonge, alors que la
+prévenue W.________ aurait elle-même menti à plusieurs reprises.
+2.2
+L'art. 56 let. a à f CPP énonce divers
+motifs de récusation qualifiés à l'égard de toute personne exerçant une fonction
+au sein d’une autorité pénale ; sa lettre f impose la récusation du fonctionnaire
+ou magistrat concerné « lorsque d'autres motifs, notamment un rapport d'amitié étroit
+ou d'inimitié avec une partie ou son conseil, sont de nature à le rendre suspect de prévention ».
+L'art. 56 let. f CPP a la portée d'une clause générale recouvrant tous les motifs de récusation
+non expressément prévus aux lettres précédentes (TF 1B_202/2013 du 23 juillet 2013
+consid. 2.1.2 ; TF 6B_621/2011 du 19 décembre 2011 consid. 2.2).
+La garantie d'un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) et 6
+par. 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme et des libertés
+fondamentales ; RS 0.101) permet d'exiger la récusation d'un juge dont la situation ou le comportement
+est de nature à faire naître un doute sur son impartialité (TF 1B_629/2011 précité
+consid. 2.1 et la référence citée ; ATF 126 I 68 consid. 3a). La récusation
+ne s'impose pas seulement lorsqu'une prévention effective du magistrat est établie, car une
+disposition interne de sa part ne peut guère être prouvée. Il suffit que les circonstances
+donnent l'apparence de la prévention et fassent redouter une activité partiale du magistrat.
+Seules les circonstances constatées objectivement doivent être prises en considération ;
+les impressions purement individuelles d'une des parties au procès ne sont pas décisives (ATF
+143 IV 69 consid. 3.2 ; ATF 141 IV 178 consid. 3.2.1 ; ATF 138 IV 142 consid. 2.1 ; ATF
+136 III 605 consid. 3.2.1 ; ATF 134 I 20 consid. 4.2 ; TF 1B_105/2013 du 21 mai 2013 consid.
+2.1 ; TF 1B_87/2017 du 6 avril 2017 consid. 2.2 et les références). En particulier,
+n'emportent pas prévention une décision défavorable à une partie (TF 1B_365/2009
+du 22 mars 2010 consid. 3.3) ou un refus d'administrer une preuve (ATF 116 Ia 135 ; Verniory, in : Kuhn/Jeanneret
+[éd.], Code de procédure pénale suisse, Commentaire romand, Bâle 2011, n. 35 ad art.
+56 CPP ; CREP 17 mars 2017/181 consid. 2.1 et réf.).
+Dans le cadre de l'instruction, le Ministère public est tenu à une certaine impartialité
+même s'il peut être amené, provisoirement du moins, à adopter une attitude plus orientée
+à l'égard du prévenu ou à faire état de ses convictions à un moment donné
+de l'enquête. Cela est en particulier le cas lorsqu'il décide de l'ouverture d'une instruction
+(qui suppose l'existence de soupçons suffisants au sens de l'art. 309 al. 1 CPP) ou lorsqu'il ordonne
+des mesures de contrainte.
+Selon
+la jurisprudence, des décisions ou des actes de procédure qui se révèlent par la
+suite erronés ne fondent pas en soi une apparence objective de prévention ; seules des
+erreurs particulièrement lourdes ou répétées, constitutives de violations graves
+des devoirs du magistrat, peuvent fonder une suspicion de partialité, pour autant que les circonstances
+dénotent que le magistrat est prévenu ou justifient à tout le moins objectivement l'apparence
+de prévention (ATF 141 IV 178 consid. 3.2.3 ; ATF 138 IV 142 consid. 2.3). De même, la
+garantie d’un juge impartial ne commande pas la récusation d’un magistrat au simple
+motif qu’il a, dans une procédure antérieure – voire dans la même affaire
+–, tranché en défaveur du requérant (ATF 143 IV 69 consid. 3.1). En effet,
+la fonction judiciaire oblige à se déterminer rapidement sur des éléments souvent
+contestés et délicats. Il appartient en outre aux juridictions de recours normalement compétentes
+de constater et de redresser les erreurs éventuellement commises dans ce cadre. Ainsi, lorsqu’un
+justiciable est insatisfait d’une décision ou d’une procédure judiciaire, il lui
+est loisible de la contester par les voies de recours prévues à cet effet. La procédure
+de récusation n’a donc pas pour objet de permettre aux parties de contester la manière
+dont est menée l’instruction et de remettre en cause les différentes décisions incidentes
+prises par la direction de la procédure, ni de vérifier la légalité ou l’opportunité
+des actes du magistrat qu’elle vise ; elle tend seulement à vérifier si celui-ci
+est impartial (ATF 141 IV 178 consid. 3.2.2 ; ATF 138 IV 142 consid. 2.3 ; ATF 116
+Ia 135 consid. 3a ; ATF 114 Ia 153 consid. 3b/bb ; ATF 111 Ia 259 consid. 3b/aa et les références
+citées ; TF 1B_311/2014 du 31 octobre 2014).
+2.3
+En l’espèce, il n’y a pas lieu
+d’examiner, dans la procédure de récusation, si c’est à tort ou à raison
+que la procureure n’a pas entendu l’auteur du témoignage écrit produit par le requérant
+– étant précisé que celui-ci n’a pas formellement requis d’audition
+de témoin – ou qu’elle envisage de classer la procédure. Il appartient au requérant
+de présenter formellement une requête d’audition de témoin dans le délai de
+prochaine clôture et, en cas de classement, de recourir, s’il le souhaite, contre un éventuel
+rejet de sa réquisition ainsi que contre l’appréciation des preuves à laquelle la
+procureure se sera livrée. En tout état de cause, la procureure était tenue, par l’art.
+318 al. 1 CPP, d’annoncer ses intentions en fixant un délai de prochaine clôture, sans
+avoir à motiver son point de vue. Son avis de prochaine clôture, par lequel elle a indiqué
+son intention de rendre une ordonnance de classement, ne permet dès lors pas de la soupçonner
+de partialité. Ainsi, force est de constater que l’on ne discerne pas, dans les éléments
+présentés par le requérant, d’indices de prévention à son encontre de
+la part de la procureure C.________.
+3.
+Il résulte de ce qui précède que la demande de récusation présentée le
+5 décembre 2018 et complétée le 26 décembre 2018 par S.________ à l’encontre
+de la procureure C.________ doit être rejetée.
+Les frais de la procédure, constitués en l’espèce du seul émolument de décision,
+par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge du requérant
+(art. 59 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation présentée le 5 décembre 2018 et complétée le 26
+décembre 2018 par S.________ contre la procureure C.________ est rejetée.
+II.
+Les frais de décision, par 660 fr. (six cent soixante francs), sont mis à la charge de S.________.
+III.
+La décision est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+S.________,
+-
+Ministère public central,
+et communiquée à :
+-
+Mme la procureure du Ministère public de l’arrondissement du Nord vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin
+2005 ; RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
