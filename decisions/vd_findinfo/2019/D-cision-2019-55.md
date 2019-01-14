@@ -1,0 +1,261 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___55"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 55"
+decided: "2019-01-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6997356"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-268.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 55
+
+## Regeste
+
+CAS DE SÉQUESTRE | 263 CPP (CH), 268 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 14.01.2019 Décision / 2019 / 55
+
+CAS DE SÉQUESTRE | 263 CPP (CH), 268 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+35
+PE18.015285-LCI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+14 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Abrecht, juges
+Greffier.
+:              M.
+Magnin
+*****
+Art.
+263 CPP
+Statuant sur le recours interjeté le 14 décembre 2018 par
+L.________
+contre l’ordonnance de séquestre rendue le 5 décembre 2018 par le Ministère public
+cantonal Strada dans la cause
+n° PE18.015285-LCI
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 3 août 2018, le Ministère public de l’arrondissement de Lausanne a ouvert une instruction
+pénale contre L.________, lui reprochant de s’adonner à la culture de marijuana.
+Par mandat oral du même jour – confirmé par écrit le lendemain –, le Ministère
+public a ordonné qu’une perquisition soit opérée au domicile de L.________, sis
+à l’avenue [...], à [...]. Cette perquisition a permis de s
+aisir,
+notamment, un total d’environ 1,5 kg de marijuana, 100 g brut de haschisch, un lot de matériel
+ayant servi à la plantation indoor, la somme de 980 fr., la somme de 5 euros et un ordinateur portable
+signalé volé. Les tests effectués par la police sur plusieurs échantillons de la
+marchandise saisie ont révélé la présence de THC (P. 5).
+Entendu par la police en qualité de prévenu le 28 octobre 2018, L.________ a reconnu qu’il
+consommait de la marijuana tous les jours. Il a admis qu’il cultivait du CBD, qu’il le vendait
+sur Internet et que cela lui rapportait 150 fr. par semaine. Quant à la marijuana contenant du THC,
+le prévenu a précisé qu’il ne la vendait pas et qu’elle était uniquement
+destinée à sa consommation personnelle. S’agissant du montant de 980 fr., il a déclaré
+que cette somme provenait de son salaire, qu’il avait cet argent chez lui car il devait l’utiliser
+pour faire ses paiements ou quelque chose d’autre et que rien dans cette somme ne provenait de
+la vente de CBD.
+B.
+Par ordonnance du 5 décembre 2018, le Ministère
+public cantonal Strada, nouvellement saisi de la cause, a ordonné le séquestre des sommes de
+5 fr. 65 (5 euros) et de 980 francs.
+Il a considéré que ces valeurs patrimoniales pourraient être utilisées comme moyens
+de preuve (art. 263 al. 1 let. a CPP [Code de procédure pénale suisse du 5 octobre 2007 ;
+RS 312.0]), pourraient servir à la garantie des frais (art. 263 al. 1 let. b CPP) et pourraient
+être confisquées (art. 263 al. 1 let. d CPP). La Procureure a précisé que l’argent
+saisi pouvait être le bénéfice de l’activité délictueuse de L.________.
+C.
+Par lettre non datée et non signée, remise à la poste sous pli recommandé le 14 décembre
+2018, L.________ a en substance demandé la restitution de l’argent séquestré.
+Le 17 décembre 2018, le Ministère public a retourné cette écriture au prévenu
+et lui a imparti un délai pour la compléter, notamment par sa signature.
+Dans le délai imparti, L.________ a déposé à la réception du Ministère
+public un exemplaire de son courrier posté le 14 décembre 2018 après y avoir apposé
+la date du 25 décembre 2018 et sa signature.
+Le 27 décembre 2018, le Ministère public a transmis l’acte de L.________ à la Chambre
+des recours pénale du Tribunal cantonal.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1
+.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP, le recours est recevable contre les décisions et
+actes de procédure du Ministère public. Une ordonnance de séquestre (art. 263 CPP)
+rendue par le Ministère public dans le cadre de la procédure préliminaire est ainsi susceptible
+de recours selon les art. 393 ss CPP (Moreillon/ Parein-Reymond, Petit Commentaire du Code de procédure
+pénale, 2
+e
+éd.,
+Bâle 2016, n. 24 ad art. 263 CPP ; Lembo/Julen Berthod, in : Kuhn/Jeanneret [éd.],
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 4 ad art. 267 CPP).
+Ce recours s’exerce par écrit dans les dix jours devant l’autorité de recours (art.
+396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours
+pénale du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction du code de procédure pénale
+suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi d'organisation judiciaire du 12
+septembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, le recours a été interjeté en temps utile (art. 396 al. 1 CPP)
+contre une ordonnance de séquestre du Ministère public (art. 263 al. 1 et 393 al. 1 let. a
+CPP), par le prévenu qui a qualité pour recourir (art. 382 al. 1 CPP), et dans les formes prescrites
+(art. 385 al. 1 CPP), de sorte qu’il est recevable.
+2.
+2.1
+Le recourant conteste le séquestre portant
+sur la somme de 980 francs. Il soutient que ce montant proviendrait de l’assurance-chômage
+et que, le jour de la perquisition, il aurait retiré la somme de 1'000 fr. pour payer ses factures,
+raison pour laquelle il aurait eu cet argent chez lui. Il fait valoir qu’il n’aurait pas
+d’autres ressources et sollicite la restitution du montant saisi.
+2.2
+2.2.1
+L'art. 197 al. 1 CPP prévoit que les mesures de contrainte ne peuvent être ordonnées que
+lorsqu’elles sont prévues par la loi (let. a), que des soupçons suffisants laissent présumer
+une infraction (let. b), que les buts poursuivis ne peuvent pas être atteints par des mesures moins
+sévères (let. c) et qu’elles apparaissent justifiées au regard de la gravité
+de l'infraction (let. d).
+Le séquestre en matière pénale est prononcé en principe sur la base de l'art. 263
+CPP. Cette disposition permet de mettre sous séquestre des objets et des valeurs patrimoniales appartenant
+au prévenu ou à des tiers, notamment lorsqu'il est probable qu'ils seront utilisés comme
+moyens de preuves (art. 263 al. 1 let. a CPP), qu'ils seront utilisés pour garantir le paiement
+des frais de procédure, des peines pécuniaires, des amendes et des indemnités (art. 263
+al. 1 let. b CPP) ou qu'ils devront être confisqués (art. 263 al. 1 let. d CPP).
+Le séquestre dit probatoire au sens de l’art. 263 al. 1 let. a CPP garantit la protection
+et la conservation, à la disposition des autorités pénales, de tous les éléments
+de preuve découverts au cours de l'enquête susceptibles de servir à la manifestation de
+la vérité au cours du procès pénal (Lembo/Julen Berthod, op. cit., n. 5 ad art.
+263 CPP).
+S'agissant d'un séquestre en vue de confiscation (art. 263 al. 1 let. d CPP), cette mesure conservatoire
+provisoire – destinée à préserver les objets ou les valeurs que le juge du fond
+pourrait être amené à confisquer – est fondée sur la vraisemblance et se justifie
+aussi longtemps qu'une simple possibilité de confiscation en application du Code pénal semble,
+prima facie
+,
+subsister. L'art. 70 al. 1 CP (Code pénal suisse du 21 décembre 1937 ; RS 311.0) autorise
+le juge à confisquer des valeurs patrimoniales qui sont le résultat d'une infraction, si elles
+ne doivent pas être restituées au lésé en rétablissement de ses droits. Inspirée
+de l'adage selon lequel « le crime ne paie pas », cette mesure a pour but d'éviter
+qu'une personne puisse tirer avantage d'une infraction. Pour appliquer cette disposition, il doit notamment
+exister entre l'infraction et l'obtention des valeurs patrimoniales un lien de causalité tel que
+la seconde apparaisse comme la conséquence directe et immédiate de la première (ATF 140
+IV 57 consid. 4.1.1 et les références citées).
+2.2.2
+L’art. 263 al. 2 CPP précise que le séquestre est ordonné par voie d'ordonnance
+écrite, brièvement motivée. Cette disposition prévoit expressément l'obligation
+de motiver une ordonnance de séquestre aux fins de respecter le droit d'être entendu des personnes
+dont les biens sont saisis, de manière à ce qu’elles puissent se rendre compte de la
+portée de celle-ci, l'attaquer en connaissance de cause et afin que l'autorité de recours puisse
+exercer son contrôle.
+Selon la jurisprudence constante de la Cour de céans, le défaut de motivation conduit en principe
+à l'annulation de l'ordonnance et au renvoi du dossier à l'autorité saisie de la cause
+pour nouvelle décision ; la seule référence à la norme légale est insuffisante
+sous l'angle des exigences de motivation de la décision et viole le droit d'être entendu de
+la personne dont les biens ont été saisis (CREP 13 janvier 2017/28 consid. 2.2, avec de nombreuses
+références). Une motivation très brève est suffisante si elle permet à l’intéressé,
+au vu du contexte général de la cause, de discerner le lien entre les faits qui lui sont reprochés
+et les objets saisis (CREP 23 mars 2018/223 consid. 2.2 ; CREP 15 juin 2017/393). L’autorité
+de recours dispose en outre d’un pouvoir d’examen étendu et n’est pas limitée
+aux motifs invoqués par l’autorité précédente (art. 393 al. 2 CPP). La Cour
+de céans peut ainsi examiner d’office si le séquestre se justifie pour d’autre
+motifs (CREP 23 mars 2018/223 consid. 2.2 ; CREP 17 juillet 2015/474 ; CREP 21 mai 2014/353
+consid 2, et les références citées).
+2.3
+2.3.1
+Tout d’abord, dans la mesure où elle ne mentionne pour l’essentiel que les dispositions
+légales topiques en matière de séquestre, l’ordonnance attaquée paraît
+sommairement motivée. Cependant, au terme de ses motifs, la Procureure a précisé que l’argent
+saisi pouvait être le bénéfice de l’activité délictueuse du prévenu.
+Dans ces conditions, quand bien même elle est très brève, cette motivation a permis au
+recourant de comprendre le lien entre les faits qui lui sont reprochés, à savoir la culture
+et la vente de produits stupéfiants, et la somme de 980 fr. saisie, considérée comme le
+produit de son activité délictueuse. En outre, le recourant a parfaitement compris la teneur
+de l’ordonnance de séquestre, puisque, dans son recours, il a précisé que cette
+somme provenait de l’assurance-chômage, raison pour laquelle elle devait lui être restituée.
+Ainsi, la motivation de l’ordonnance attaquée est suffisante et respecte le droit d’être
+entendu du recourant.
+2.3.2
+Il existe à ce stade d’importants soupçons permettant de supposer que le recourant s’adonnait
+à la vente de produits stupéfiants. D’une part, les tests réalisés par la police
+ont révélé la présence de THC dans les échantillons de marijuana prélevés.
+D’autre part, les explications de L.________ au sujet de son affaire de vente de cannabis légal
+par Internet sont peu convaincantes. A cet égard, on relève que l’intéressé
+a expliqué que son commerce ne marchait pas bien et qu’il avait peu de clients. En outre,
+il a tout de même admis que la moitié de sa plantation contenait du THC et qu’il allait
+revendre le haschisch retrouvé. Par ailleurs, se contentant de dire qu’il avait retiré
+la somme séquestrée pour faire ses paiements, L.________ n’a pas fourni d’explication
+claire au sujet de la présence de près de 1'000 fr. en liquide dans son appartement. De plus,
+le prénommé a déclaré gagner 150 fr. par semaine de son activité. Dans ces circonstances,
+et malgré les dénégations du recourant, tout porte à croire que la somme de 980 fr.
+saisie lors de la perquisition effectuée au domicile du recourant provienne de la vente de produits
+stupéfiants, soit d’une activité pénalement répréhensible.
+Par conséquent, le séquestre de cette somme est en l’état justifié, dès
+lors que celle-ci pourra vraisemblablement être utilisée comme moyen de preuve (art. 263
+al. 1 let. a CPP) et être confisquée (art. 263 al. 1 let. d CPP). Cela étant, le recourant
+conserve en tout temps la possibilité de demander la levée du séquestre au Ministère
+public en prouvant, par la production de son relevé de compte bancaire, qu’il avait bel et
+bien reçu des indemnités de l’assurance-chômage, puis retiré la somme litigieuse
+en lien avec ce versement.
+Enfin, le séquestre est parfaitement proportionné. Il est en effet apte à produire les
+résultats escomptés et ceux-ci ne peuvent pas être atteints par une mesure moins incisive.
+En dernier lieu, on relève que le séquestre du montant de 980 fr. devant être ordonné
+en application des art. 263 al. 1 let. a et d CPP, il n’y a pas lieu d’examiner si le séquestre
+de cette somme doit également être ordonné pour garantir le paiement des frais de procédure
+(art. 263 al. 1 let. b CPP), ni, partant, d’examiner la situation financière du recourant
+(art. 268 CPP).
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans autre échange
+d’écritures (art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Les frais de la procédure de recours, constitués de l'émolument d'arrêt (art. 422
+al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais judiciaires de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; RSV 312.03.1]), seront mis à la charge du
+recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 5 décembre 2018 est ordonnée.
+III.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont mis à la charge de L.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. L.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure cantonale Strada,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
