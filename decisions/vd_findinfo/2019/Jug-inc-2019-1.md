@@ -1,0 +1,320 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2019___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2019 / 1"
+decided: "2019-01-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6987537"
+cites_law: ["switzerland/bund/acts/272/art-004.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2019 / 1
+
+## Regeste
+
+NOUVEAU MOYEN DE FAIT | 153 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 16.01.2019 Jug-inc / 2019 / 1
+
+NOUVEAU MOYEN DE FAIT | 153 CPC
+
+TRIBUNAL
+CANTONAL
+CO08.021268
+1/2019/EKA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+B.________SA
+,
+à […], requérante, d'avec
+Y.________
+,
+à […], intimé.
+___________________________________________________________________
+Du
+16 janvier 2019
+__________________
+Composition
+:               M.
+Kaltenrieder
+,
+juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le procès devant la Cour civile opposant
+le demandeur Y.________ (intimé) à la défenderesse B.________SA (requérante), ayant
+trait à l’indemnisation des suites d’un accident routier du 21 janvier 2002, selon
+demande du 14 juillet 2008 dont les conclusions sont les suivantes :
+"Le
+demandeur, Y.________, conclut avec dépens au paiement, par la défenderesse B.________SA, d'un
+montant de fr. 818'131.- (…) avec intérêt à 5% l'an dès le 1
+er
+novembre
+2007 sur fr. 748'131.- et dès le 21 janvier 2012 sur le solde de fr. 70'000.-."
+,
+vu la réponse déposée le 20 novembre 2008 par la requérante, qui a conclu au
+rejet des conclusions prises contre elle dans la mesure de leur recevabilité, avec suite de frais
+et dépens,
+vu l'échange d'écritures ultérieur des parties,
+vu l'ordonnance sur preuves du 25 août 2009,
+vu le rapport d'expertise du 21 décembre 2009, et le rapport d'expertise complémentaire
+du 1
+er
+octobre
+2010, déposés par le Dr C.________,
+vu l'avis du juge instructeur du 28 février 2011, rejetant la requête de seconde expertise
+formulée par l'intimé le 25 janvier 2011, dans le délai restitué selon convention
+de procédure du 30 novembre 2010 ratifiée le 6 décembre 2010,
+vu la suspension de la procédure du 5 avril 2011 au 15 septembre 2011, selon convention
+signée par les parties le 1
+er
+avril
+2011,
+vu l'écriture après réforme déposée le 1
+er
+décembre
+2011 par la requérante, et le procédé après réforme de l'intimé du 5 décembre
+2011,
+vu le jugement incident rendu le 20 août 2012 par le juge instructeur, admettant partiellement
+la requête en retranchement d'allégués déposée le 15 décembre 2011
+par la requérante,
+vu l'audience préliminaire après réforme du 24 janvier 2013 où les parties sont
+convenues, de manière à pouvoir suivre l'évolution de l'intimé, d'une suspension
+de la cause jusqu'au 24 janvier 2014, prolongée à plusieurs reprises par la suite, en
+dernier lieu jusqu'au 5 septembre 2016,
+vu l'audience préliminaire après réforme du 11 octobre 2016,
+vu les courriers de la requérante puis de l'intimé des 19 et 24 avril 2017, confirmant
+notamment que les pourparlers transactionnels n'avaient pas abouti,
+vu l'ordonnance de preuves complémentaire après réforme du 21 avril 2017, soumettant
+en particulier diverses questions à l'expertise médicale,
+vu l'ordonnance de preuves complémentaire après réforme du 12 juin 2017 désignant
+en particulier comme expert le Dr S.________, spécialiste en réadaptation, avec pour mission
+de répondre aux deux questions suivantes:
+"
+a)
+Est-il possible que, sans l'accident, le rendement de l'activité professionnelle du demandeur ait
+été identique à celui qu'il réalise actuellement (all. 127)?
+b)
+Les efforts fournis par Y.________ pour avoir une formation professionnelle meilleure auraient-ils abouti
+à un résultat également meilleur, si les séquelles neuropsychologiques de l'accident
+n'étaient pas encore présentes (all. 130)?"
+vu le rapport d'expertise médicale du Dr S.________ du 13 octobre 2017,
+vu le jugement incident du 28 mai 2018 rejetant la requête de nouvelle expertise, subsidiairement
+de complément d’expertise, de la requérante,
+vu le délai au 14 septembre 2018 imparti aux parties pour déposer un mémoire de droit,
+vu le mémoire de droit déposé le 14 septembre 2018 par l’intimé, qui en
+a adressé copie à la requérante,
+vu la requête de réforme de B.________SA du 14 septembre 2018 tendant à l’introduction
+en procédure des allégués 135 à 158 nouveaux et des offres de preuve qui s’y
+rapportent,
+vu l’avis du juge instructeur du 15 octobre 2018 interpellant notamment les parties quant
+au remplacement de l’audience incidente par un échange d’écritures unique et à
+bref délai,
+vu les lettres de la requérante puis de l’intimé des 23 et 31 octobre 2018
+acceptant cette manière de procéder, l’intimé prenant encore des conclusions incidentes
+en rejet de la requête de réforme,
+vu les mémoires incidents déposés les 3 et 9 janvier 2019, dans les délais
+prolongés à cet effet, par la requérante puis par l’intimé, qui a conclu au
+rejet intégral de la requête, subsidiairement à son rejet partiel en tant qu’elle
+concerne les allégués 153 à 156 et 158 nouveaux, ainsi qu’à l’octroi
+de dépens frustraires par 10'500 fr. en cas d’admission partielle ou totale de la
+requête,
+vu les art. 19, 146 ss, 153 ss, 317a et 317b CPC-VD (Code de procédure civile vaudoise du 14 décembre
+1966, dans sa teneur en vigueur jusqu'au 31 décembre 2010; aRSV 270.11), ainsi que les art. 404
+al. 1 et 405 al. 1 CPC (Code de procédure civile du 19 décembre 2008; RS 272);
+attendu que les procédures pendantes avant l'entrée en vigueur du nouveau droit fédéral
+de procédure civile demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance (art. 404 al. 1 CPC), y compris s’agissant du jugement incident rendu
+dans ce cadre (CREC II, 20 juillet 2011/66 consid. 1/a; Haldy, La nouvelle procédure suisse, Bâle
+2009, p. 3 n. 7; Tappy, Le droit transitoire applicable lors de l'introduction de la nouvelle procédure
+civile unifiée
+in
+JdT 2010 III 11 spéc. pp. 366 ss) ;
+attendu que dûment interpellées, les parties ont accepté que l'audience incidente soit
+remplacée par un échange d'écritures unique (art. 149 CPC-VD) ;
+attendu qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un
+délai, corriger ou compléter sa procédure peut, jusqu'à l'expiration du délai
+fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+que la demande doit indiquer les motifs et l'étendue de la réforme demandée (art. 154
+al. 1 CPC-VD),
+qu'en d'autres termes, la partie qui sollicite la réforme doit notamment préciser dans sa requête
+les points sur lesquels elle entend corriger ou compléter sa procédure, en particulier les
+faits qu'elle veut alléguer et les preuves qu'elle entend administrer (Poudret
+et
+alii
+, Procédure civile vaudoise, 3
+e
+éd.,
+Lausanne 2002, n. 1 ad art. 154 CPC-VD),
+qu'en l'espèce, la requête a été déposée le dernier jour du délai
+fixé au 14 septembre 2018 pour le dépôt des mémoires de droit, soit en temps
+utile,
+que l'étendue et l'objet de la réforme en ressortent comme l'exige l'art. 154 al. 1 CPC-VD,
+la requête étant au surplus conforme aux exigences des art. 19 et 147 al. 1 CPC-VD régissant
+la forme incidente, applicable en l'espèce par le renvoi de l'art. 154 al. 2 CPC-VD,
+qu'elle est dès lors recevable en la forme ;
+attendu que la réforme n'est accordée que si la partie y a un intérêt réel et
+si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et 3 CPC-VD),
+que la partie requérante doit établir d'une part son intérêt réel à la
+preuve des faits allégués, c'est-à-dire leur pertinence, et d'autre part son intérêt
+réel à l'administration des preuves offertes, savoir l'utilité que celles-ci présentent
+pour établir les faits allégués (JdT 1988 III 70 consid. 4),
+que l'intérêt réel à la réforme doit être apprécié au regard
+de l'ensemble des circonstances, notamment de la pertinence du fait allégué, de sa vraisemblance,
+de la forme de la preuve offerte et de la durée probable de la procédure consécutive à
+la réforme (JdT 2002 III 190; Poudret
+et
+alii
+, op. cit., n. 4 ad art 153 CPC-VD),
+que dans le cadre de la réforme, la pertinence des faits allégués et la nécessité
+des preuves offertes doivent être appréciées plus strictement que dans l'ordonnance sur
+preuves (JdT 1988 III 70 consid. 4) ;
+que la réforme doit être refusée lorsque les faits qui font l'objet de la requête
+sont dénués de pertinence ou ont déjà été allégués sous une autre
+forme en procédure (JdT 2003 III 14 consid. 4; Poudret
+et
+alii
+, op. cit., n. 4 ad art. 153 CPC-VD),
+qu’il sied de rappeler à cet égard que, selon l’art. 4 CPC-VD, le juge ne
+peut fonder son jugement sur d’autres faits que ceux qui ont été allégués dans
+l’instance et qui ont été soit admis par les parties, soit établis au cours de l’instruction
+selon les formes légales (al. 1), sous réserve toutefois, notamment, des faits révélés
+par une expertise écrite (al. 2
+in
+fine
+) ;
+attendu que la requérante soutient que l’expert S.________ aurait rendu son rapport d’expertise
+du 13 octobre 2017 sans connaître diverses pièces du dossier AI, postérieures à
+l’échange d’écritures,
+que selon elle, il ressort de ces pièces que les atteintes à la santé de l’intimé
+n’entraîneraient qu’une incapacité de travail et de gain de 20%, et que l’OAI
+n’a pas retenu, dans la baisse de revenus imputable à l’accident, l’incapacité
+d’effectuer une formation CFC, sans que l’intéressé conteste cela,
+qu’elle en déduit que l’expert S.________, s’il avait connu ces éléments,
+se serait prononcé différemment, en particulier quant aux conséquences des atteintes à
+la santé sur sa capacité de travail,
+qu’elle conclut à l’introduction d’allégués nouveaux soumis à la
+preuve par expertise, à la lumière de ces éléments (all. 153 et 156-158),
+que la requérante invoque ainsi, expressément (cf. all. 152 nouveau), le caractère
+incomplet de l’expertise S.________,
+que ce moyen doit en principe être invoqué au travers d’une requête de complément
+d’expertise, dans le délai imparti à cet effet (cf. à cet égard les considérants
+du jugement incident du 28 mai 2018, sur lequel il n’y a pas lieu de revenir en détail
+ici), sous réserve éventuellement de l’apparition de faits nouveaux postérieurement,
+que cela étant, les pièces nouvelles invoquées par la requérante sont les suivantes :
+-
+bilan de mesure professionnelle de l’OAI
+du 27 février 2012 (P122 ad all. 135-137),
+-
+rapport de fin de formation de l’ORIF du
+24 juin 2014 (P123 ad all. 138 s.),
+-
+rapport intermédiaire de l’OAI du 4 août
+2014 (P124 ad all. 140),
+-
+certificat de travail intermédiaire de […]
+du 12 mai 2014 (P125 ad all. 141),
+-
+bulletin d’examen de fin d’apprentissage
+du 24 juin 2014 (P126 ad all. 142),
+-
+rapports finaux de l’ORIF du 10 juin
+2015 (P127 ad all. 143) et de l’OAI du 5 janvier 2016 (P128 ad all. 144 et 145),
+-
+examen du droit à la rente du 5 janvier
+2016 (P129 ad all. 146), et
+-
+rapport final et
+décision
+de l’OAI du 15 février 2016 (P131 ad all. 147, 149 et 150),
+que ces pièces sont toutes antérieures au rapport de l’expert S.________, déposé
+le 10 octobre 2017, de sorte qu’il ne s’agit pas de faits ou moyens de preuve nouveaux
+proprement dits,
+qu’au demeurant, la requérante avait accès au dossier AI de l’intimé, puisqu’elle
+a produit, à l’appui de sa réponse du 20 novembre 2008, plusieurs pièces provenant
+de ce dossier,
+qu’elle pouvait dès lors collecter ces éléments au fur et à mesure et les mettre
+à la disposition de l’expert S.________, qui a notamment fondé ses conclusions sur "l’ensemble
+du dossier médical de B.________SA" (cf. rapport S.________, p. 1),
+que c’est donc de manière erronée, voire tronquée, que la requérante invoque
+des pièces nouvelles, la date des écritures n’étant du reste pas décisive pour
+les faits révélés – ou devant l’être – au cours d’une expertise
+écrite (cf. art. 4 al. 2
+in
+fine
+CPC-VD cité ci-dessus),
+que si la réforme tend à permettre à une partie de compléter ou corriger sa propre
+procédure, la requête du cas d’espèce est tardive en tant qu’elle est dirigée,
+au moins en substance, contre les conclusions de l’expert S.________,
+qu’elle doit par conséquent être rejetée dans la mesure où elle porte sur les
+allégués 153 et 156 à 158 nouveaux soumis à la preuve par expertise,
+qu’il en va de même pour les allégués nouveaux par lesquels la requérante
+développe le raisonnement résumé ci-dessus, qui du reste ont trait à des faits figurant
+déjà au dossier (all. 151) ou relevant de l’appréciation (all. 152) ;
+attendu qu’il convient d’examiner les autres allégués et pièces nouvelles,
+pour eux-mêmes et non seulement à l’appui d’une nouvelle expertise dont on vient
+de sceller le sort,
+que les pièces nouvelles énumérées ci-dessus sont toutes de nature non médicale
+et, selon l’appréciation anticipée de leur force probante, paraissent impropres à
+remettre en cause les conclusions de l’expert S.________,
+que dès lors, la requérante n’a pas d’intérêt à se réformer
+en ce qui concerne ces allégués et pièces nouveaux ;
+attendu que seuls restent ainsi l’allégué 148 nouveau, relatif à l’entrée
+en force de la décision de l’OAI précitée (pièce 131 nouvelle), et les allégués
+154 et 155 nouveaux tendant à l’appréciation de l’absence de recours de l’intimé,
+qu’au vu de tout ce qui précède, il n’existe pas d’intérêt à
+la réforme non plus en lien avec ces trois allégués nouveaux,
+attendu qu’il en découle le rejet intégral de la requête et la reprise de la procédure,
+selon des modalités qui n’ont pas à faire l’objet de la présente décision ;
+attendu que les frais de l’incident, arrêtés à 900 fr. (art. 4 al. 1 et 170a
+al. 1 aTFJC [tarif des frais judiciaires en matière civile du 4 décembre 1984, applicable par
+le renvoi de l’art. 99 al. 1 TFJC [tarif des frais judiciaires civils du 28 septembre 2010 ;
+RSV 270.11.5]), doivent être mis à la charge de la requérante, qui succombe ;
+attendu que l’intimé a droit à des dépens de l’incident, à la charge
+de la requérante, qu’il convient d’arrêter à 1'000 fr.
+(art.
+2, 3 et 7
+Tav
+[
+tarif des honoraires d'avocat dus à titre
+de dépens du 17 juin 1986], applicable en vertu de l'art. 26 al. 2 TDC [du tarif des dépens
+en matière civile du 23 novembre 2010 ; RSV 270.11.6]) ;
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+Les conclusions incidentes de la requérante B.________SA, selon requête du 14 septembre
+2018, sont rejetées.
+II.
+Les frais de l’incident, arrêtés à 900 fr. (neuf cents francs), sont mis
+à la charge de la requérante.
+III.
+La requérante doit verser à l’intimé Y.________ un montant de 1'000 fr. (mille
+francs), à titre de dépens de l’incident.
+Le
+juge instructeur :              Le greffier :
+E. Kaltenrieder
+L. Cloux
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils des parties.
+Le greffier :
+L. Cloux
