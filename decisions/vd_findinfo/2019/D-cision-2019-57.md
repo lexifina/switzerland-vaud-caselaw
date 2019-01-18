@@ -1,0 +1,361 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___57"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 57"
+decided: "2019-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6999814"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-179ter.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-189.md", "switzerland/bund/acts/311.0/art-190.md", "switzerland/bund/acts/311.0/art-269.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-140.md", "switzerland/bund/acts/312.0/art-141.md", "switzerland/bund/acts/312.0/art-269.md", "switzerland/bund/acts/312.0/art-280.md", "switzerland/bund/acts/312.0/art-281.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 57
+
+## Regeste
+
+PREUVE ILLICITE, MOYEN DE PREUVE, REJET DE LA DEMANDE, ADMINISTRATION DES PREUVES, SURVEILLANCE DES TÉLÉCOMMUNICATIONS | 140 CPP (CH), 141 CPP (CH), 269 CPP (CH), 280 CPP (CH), 281 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2019 Décision / 2019 / 57
+
+PREUVE ILLICITE, MOYEN DE PREUVE, REJET DE LA DEMANDE, ADMINISTRATION DES PREUVES, SURVEILLANCE DES TÉLÉCOMMUNICATIONS | 140 CPP (CH), 141 CPP (CH), 269 CPP (CH), 280 CPP (CH), 281 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+46
+PE18.022209-MYO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Oulevey, juges
+Greffière
+:              Mme
+Maire Kalubi
+*****
+Art.
+140, 141, 269, 280, 281 et 393 al. 1 let. a CPP
+Statuant sur le recours interjeté le 14 janvier 2019 par
+J.________
+contre la décision de refus de retranchement de pièce rendue le 28 décembre 2018
+par le Ministère public de l’arrondissement de l’Est vaudois dans la cause
+n° PE18.022209-MYO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 14 août 2018, le Ministère public de l’arrondissement de Lausanne a ouvert une instruction
+contre J.________ pour lésions corporelles simples qualifiées, voies de fait qualifiées,
+injure et menaces qualifiées, à la suite de la plainte déposée le 27 juillet 2018
+par T.________. Celle-ci reprochait à son compagnon de l’avoir, entre le 8 décembre 2017
+et fin juillet 2018, violentée physiquement, menacée et insultée à réitérées
+reprises.
+Le 27 septembre 2018, T.________ a retiré sa plainte.
+b)
+Le 7 novembre 2018, X.________ a déposé plainte contre son ex-compagnon J.________, pour lésions
+corporelles simples qualifiées, voies de fait qualifiées, injure, menaces qualifiées,
+contrainte sexuelle, viol et actes d’ordre sexuel commis sur une personne incapable de discernement
+ou de résistance.
+c)
+Le 19 novembre 2018, J.________ a été placé en détention provisoire.
+d)
+Les deux causes ont été jointes le 22 novembre 2018.
+e)
+Par courrier du 13 décembre 2018, J.________ a requis le retranchement du dossier des quatre enregistrements
+audio produits par T.________ par courrier du 4 septembre 2018, à la suite de son audition par le
+Ministère public, versés au dossier sous pièce à conviction n° 24082, en tant
+qu’ils avaient été obtenus de manière illicite.
+B.
+Par décision du 28 décembre 2018, le
+Ministère public de l’arrondissement de l’Est vaudois a rejeté la demande de retranchement
+des enregistrements audio versés sous pièce à conviction n° 24082 (I), et a dit que
+les frais suivaient le sort de la cause (II).
+Si elle a retenu que trois des quatre enregistrements en cause avaient effectivement été obtenus
+de manière illicite, la Procureure a considéré que les autorités pénales auraient
+pu recueillir ces preuves de manière licite et a estimé, au vu de la gravité des infractions
+reprochées au recourant, que l’intérêt public à la manifestation de la vérité
+l’emportait sur l’intérêt privé du prévenu à ne pas tenir compte
+de ces trois enregistrements, de sorte que ceux-ci pouvaient être exploités. S’agissant
+du quatrième enregistrement, la Procureure a considéré que celui-ci était totalement
+exploitable et ne constituait pas une preuve illicite, dans la mesure où il n’avait pas été
+enregistré à l’insu du prévenu par une tierce personne, mais par lui-même.
+C.
+Par acte du 14 janvier 2019, J.________ a recouru auprès de la Cour de céans contre cette décision,
+en concluant, sous suite de frais et dépens, à sa réforme en ce sens que l’ensemble
+des enregistrements réalisés par T.________, versés sous pièce à conviction
+n° 24082, soient retranchés du dossier.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable
+contre les décisions et actes de procédure du Ministère public. Un recours immédiat
+est ainsi ouvert contre les décisions rendues en matière d’admissibilité de preuves
+illégales (Bénédict/Treccani, in : Kuhn/Jeanneret [éd.], Commentaire romand, Code
+de procédure pénale suisse, Bâle 2011, nn. 52 à 55 ad art. 141 CPP). Ce recours doit
+être adressé par écrit, dans un délai de dix jours dès la notification de la
+décision attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art.
+396 al. 1 CPP), qui, dans la canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [Loi vaudoise d'introduction du Code de procédure pénale suisse du 19 mai 2009 ;
+BLV 312.01] ; art. 80 LOJV [Loi vaudoise d'organisation judiciaire du 12 décembre 1979 ;
+BLV 173.01]).
+1.2
+En l’occurrence, interjeté en temps utile devant l’autorité compétente par
+une partie qui a qualité pour recourir au sens de l’art. 382 al. 1 CPP, et satisfaisant aux
+conditions de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant soutient que les trois enregistrements
+réalisés par sa compagne à son insu, obtenus de manière illicite, n’auraient
+pas pu être recueillis licitement par le Ministère public, arguant que la gravité des
+faits qui lui sont reprochés ne serait pas suffisante pour qu’une mesure de surveillance téléphonique
+ou la pose d’un micro dans son véhicule apparaissent proportionnées. Il fait en outre
+valoir que ces mesures de surveillance n’auraient eu objectivement aucune utilité en vue de
+parvenir à la manifestation de la vérité, dans la mesure où il n’aurait jamais
+nié qu’il lui arrivait de s’emporter fortement et que, dans ces circonstances, ses mots
+pouvaient largement dépasser sa pensée. Enfin, le recourant soutient que les enregistrements
+en cause seraient biaisés du fait que sa compagne savait qu’elle était enregistrée
+et aurait adapté son comportement en conséquence, de sorte que leur contenu ne refléterait
+pas la réalité, le fait qu’elle l’ait volontairement provoqué par son attitude
+dans le seul but de se servir ensuite de ses enregistrements comme moyens de preuves ne pouvant par ailleurs
+pas être exclu.
+2.2
+2.2.1
+La procédure pénale contient des dispositions sur les méthodes d'administration des preuves
+interdites (art. 140 CPP) et sur l'exploitation des moyens de preuves obtenus illégalement (art.
+141 CPP).
+Ainsi,
+selon
+l’art.
+140 CPP, les moyens de contrainte, le recours à la force, les menaces, les promesses, la tromperie
+et les moyens susceptibles de restreindre les facultés intellectuelles ou le libre arbitre sont
+interdits dans l'administration des preuves (al. 1). Ces méthodes sont interdites même si la
+personne concernée a consenti à leur mise en œuvre (al. 2).
+Aux
+termes de l’art. 141 CPP, les preuves administrées en violation de l'art. 140 CPP ne sont
+en aucun cas exploitables. Il en va de même lorsque le code dispose qu’une preuve n’est
+pas exploitable (al. 1). Les preuves qui ont été administrées d'une manière illicite
+ou en violation de règles de validité par les autorités pénales ne sont pas exploitables,
+à moins que leur exploitation soit indispensable pour élucider des infractions graves (al.
+2). Les preuves qui ont été administrées en violation de prescriptions d'ordre sont exploitables
+(al. 3). Si un moyen de preuve est recueilli grâce à une preuve non exploitable au sens de
+l'al. 2, il n'est pas exploitable lorsqu'il n'aurait pas pu être recueilli sans l'administration
+de la première preuve (al. 4). Les pièces relatives aux moyens de preuves non exploitables
+doivent être retirées du dossier pénal, conservées à part jusqu'à la clôture
+définitive de la procédure, puis détruites (al. 5).
+Le code de procédure pénale ne règle en revanche pas de manière explicite dans quelle
+mesure ces dispositions s'appliquent quand les moyens de preuves sont récoltés non pas par
+les autorités, mais par des personnes privées (TF 1B_234/2018 du 27 juillet 2018 consid.
+3.1 ; TF 6B_911/2017 du 27 avril 2018 consid. 1.1 ; TF 1B_76/2016 du 30 mars 2016
+consid. 2.2). Dans une telle situation, il n'existe donc pas d'interdiction de principe de les exploiter
+(TF 1B_76/2016 précité consid. 2.1 ; Gless, in : Basler Kommentar, Schweizerische
+Strafprozessordnung, Art. 1-196 StPO, 2
+e
+éd. 2014, n. 40c ad art. 141 CPP). Cela étant, selon la jurisprudence, de tels moyens de preuves
+sont uniquement exploitables si, cumulativement, ils auraient pu être obtenus par les autorités
+de poursuite pénale conformément à la loi et si une pesée des intérêts
+en présence justifie leur exploitation (TF 1B_234/2018 précité ; TF 6B_911/2017 précité
+et la jurisprudence citée). Ainsi, une preuve obtenue illicitement par un particulier – par
+exemple l’enregistrement d’une conversation (cf. art. 179
+bis
+et 179
+ter
+CP) – n’est exploitable que dans la mesure où elle aurait pu être obtenue licitement
+par l’autorité, ce qui n’est pas le cas des preuves recueillies en violation de l’art.
+140 CPP, et moyennant une pesée des intérêts analogue à celle prescrite dans le contexte
+de l’art. 141 al. 2 CPP (Jeanneret/Kuhn, Précis de procédure pénale,
+2
+e
+éd., Berne 2018, n. 9011 et 9012, pp. 244 ss et n. 14089, p. 395 et les références
+citées).
+En tout état de cause, au stade de l'instruction, il convient de ne constater l'inexploitabilité
+de ce genre de moyen de preuve que dans des cas manifestes (TF 1B_234/2018 précité ; Moreille/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, 2
+e
+éd. 2016, n. 5 ad art. 141 CPP).
+2.2.2
+Aux termes de l'art. 280 al. 1 let. a CPP, le ministère public peut utiliser des dispositifs techniques
+de surveillance aux fins d'écouter ou d'enregistrer des conversations non publiques. N'est pas protégé
+au sens de cette disposition celui qui converse à voix élevée dans un endroit public,
+tandis que l'est celui qui parle à voix normale (Zufferey/Bacher, in : Kuhn/Jeanneret [éd.],
+Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 11 ad art. 280
+CPP).
+Les conditions à l'utilisation de dispositifs techniques de surveillance sont pour le surplus régies
+par l'art. 281 CPP : l'utilisation de tels dispositifs ne peut être ordonnée qu'à
+l'encontre du prévenu (al. 1). Les locaux ou les véhicules de tiers ne peuvent être placés
+sous surveillance que si des faits déterminés permettent de supposer que le prévenu se
+trouve dans ces locaux ou utilise ces véhicules (al. 2). L'art. 281 al. 3 CPP interdit enfin l'utilisation
+de dispositifs techniques de surveillance pour enregistrer à des fins probatoires le comportement
+d'un prévenu en détention ou surveiller les locaux ou les véhicules d'un tiers appartenant
+à l'une des catégories professionnelles visées aux art. 170 à 173 CPP. Au surplus,
+l'utilisation de dispositifs techniques de surveillance est régie par les art. 269 à 279 CPP
+(art. 281 al. 4 CPP).
+Aux termes de l'art. 269 al. 1 CPP, le ministère public peut ordonner la surveillance de la correspondance
+par poste et télécommunication aux conditions suivantes : de graves soupçons laissent
+présumer que l'une des infractions visées à l'art. 269 al. 2 CP a été commise
+(let. a), cette mesure se justifie au regard de la gravité de l'infraction (let. b) et les mesures
+prises jusqu'alors dans le cadre de l'instruction sont restées sans succès ou les recherches
+n'auraient aucune chance d'aboutir ou seraient excessivement difficiles en l'absence de surveillance
+(let. c). L'art. 269 al. 2 CP prévoit qu'une surveillance peut être ordonnée aux fins
+de poursuivre notamment les infractions de contrainte (art. 181 CP), de contrainte sexuelle (art. 189
+CP) et de viol (art. 190 CP).
+2.3
+2.3.1
+En l’espèce, T.________ a produit quatre fichiers audio sur lesquels sont enregistrées
+des insultes et des menaces proférées par le recourant à son encontre, à savoir l’enregistrement
+d’un appel téléphonique du 28 juillet 2018 du prévenu à sa compagne effectué
+par une amie de celle-ci (en deux parties), un enregistrement effectué par T.________ d’une
+conversation avec le recourant alors qu’ils se trouvaient tous deux dans la voiture de celle-ci,
+et un message vocal adressé par le recourant à la mère de sa compagne le 28 août
+2018. La licéité et l’exploitabilité du dernier fichier, enregistré et envoyé
+par le recourant lui-même à la mère de sa compagne, ne sont pas contestées. S’agissant
+des trois autres fichiers produits par T.________, portant sur des conversations qui se sont déroulées
+dans des lieux privés, aucun élément au dossier ne permet de retenir que le recourant
+aurait été enregistré avec son accord, de sorte qu’ils doivent être considérés
+comme illicites, nonobstant le fait qu’aucune plainte n’ait été déposée
+par le recourant pour enregistrement non autorisé de conversations (art. 179
+ter
+CP).
+Il convient dès lors d’examiner si ces preuves auraient pu être obtenues licitement par
+l’autorité pénale, d’une part, et si la pesée des intérêts en présence
+justifie leur exploitation, d’autre part.
+2.3.2
+En l’espèce, T.________ a notamment déposé plainte auprès de la police contre
+son compagnon pour des violences domestiques commises à réitérées reprises, ainsi
+que pour des menaces proférées à son encontre. Lors du dépôt de sa plainte,
+elle présentait des lésions visibles sur son corps et a indiqué que le prévenu en
+était l’auteur. Par ailleurs, une seconde plainte a été déposée contre
+le prévenu, par son ex-compagne, laquelle lui reproche de l’avoir violentée verbalement,
+physiquement et sexuellement avant les faits commis au préjudice de T.________. Comme l’a
+relevé à juste titre la Procureure, de tels comportements ne pouvaient que créer de graves
+soupçons de la commission par le recourant d’infractions permettant une surveillance téléphonique.
+Outre le fait qu’une partie des infractions reprochées au prévenu figure dans le catalogue
+de l’art. 269 al. 2 CPP, l’utilisation des dispositifs techniques de surveillance, telle
+que visée par l’art. 280 let. a CPP, aurait de plus été justifiée par la gravité
+des faits dont le recourant est suspecté, s’agissant d’infractions commises à réitérées
+reprises, contre plusieurs victimes et dans le contexte sensible d’une communauté conjugale.
+De surcroît, au vu de la particularité des infractions en jeu, commises dans le huis clos de
+l’intimité du couple, c’est à juste titre que la Procureure a considéré
+qu’aucune mesure moins invasive n’aurait été à même de permettre d’élucider
+les faits, conformément à l’art. 269 al. 1 let. c CPP. Force est dès lors de
+constater, à l’instar du Ministère public, que les enregistrements effectués par
+T.________ et son amie auraient pu être obtenus par les autorités de poursuite pénale
+conformément à la loi, par la surveillance des télécommunications du prévenu
+et l’utilisation de dispositifs techniques de surveillance, les conditions posées par les
+art. 269 al. 1 et 2 et 280 CPP étant remplies.
+Enfin, c’est également à juste titre que la Procureure a considéré que la pesée
+des intérêts en présence justifiait l’exploitation des enregistrements litigieux.
+En effet, les agissements reprochés au prévenu sont graves. A cet égard, la jurisprudence
+retient que plus l’infraction est grave, plus l’intérêt public à la manifestation
+de la vérité l’emporte sur l’intérêt privé à ce que la preuve
+litigieuse reste inexploitée (ATF 131 I 272 consid. 4.1.2 ; TF 6B_911/2017 précité
+consid. 1.2.3 ; TF 6B_786/2015 du 8 février 2016 consid. 1.3.2). En outre, ces enregistrements
+permettent de se rendre compte, d’une part, de l’ambiance au sein du couple et du comportement
+du recourant envers T.________ en particulier et, d’autre part, de saisir de manière plus
+globale l’attitude que celui-ci est susceptible d’adopter vis-à-vis de ses compagnes.
+Ils constituent également un élément important pour évaluer la crédibilité
+des parties.
+Certes, le recourant fait valoir que, pour le genre d’infractions en cause, le Ministère public
+n’aurait pas mis en œuvre de telles mesures de surveillance, d’une part, et que les
+preuves ainsi obtenues ne seraient ni utiles ni probantes, d’autre part. Ces moyens sont cependant
+infondés. En effet, la question n’est pas de savoir si, concrètement, l’autorité
+aurait ordonné la preuve apportée par le particulier, mais si l’autorité aurait
+pu l’obtenir licitement au regard des dispositions légales susmentionnées. Or, le recourant
+ne prétend pas que les conditions posées par la loi à cet égard ne seraient pas remplies
+et ne cite, au demeurant, aucune disposition légale dans les moyens qu’il avance. Par ailleurs,
+à ce stade, il n’est pas nécessaire d’examiner le caractère probant de la
+preuve en cause, mais uniquement le fait qu’elle soit propre à établir la vérité
+au sens de l’art. 139 al. 1 CPP. Or, tel est bien le cas en l’espèce, puisque les fichiers
+en cause contiennent des insultes et des menaces proférées par le recourant à l’encontre
+de T.________. Le fait que le prévenu ait admis s’emporter quelques fois n’enlève
+donc pas toute pertinence à ladite preuve. Quant à l’argument du recourant selon lequel
+sa compagne aurait adapté son comportement parce qu’elle se savait enregistrée, qu’il
+ne serait pas exclu qu’elle l’ait provoqué uniquement dans le but de se servir de ce
+moyen de preuve, et que le résultat ne reflèterait pas la réalité des altercations
+entre les parties, il relève du caractère probant de la preuve, et non de son caractère
+exploitable.
+Le recourant n’ayant au surplus pas prétendu dans sa requête de retranchement ni dans
+son recours que la preuve en question serait le résultat d’une tromperie au sens de l’art.
+140 al. 1 CPP, ni invoqué l’inexploitabilité absolue de la preuve ou développé
+un quelconque moyen précis à cet égard, il n’est pas nécessaire d’examiner
+ce point.
+Partant, les conditions pour admettre au dossier les preuves obtenues illicitement par T.________, ainsi
+que la preuve fournie volontairement par le recourant, étant remplies, c’est à juste
+titre que la Procureure a refusé de retrancher les pièces litigieuses du dossier.
+3.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans autre échange d’écritures (art. 390 al. 2 CPP) et la décision entreprise
+confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d’arrêt, par 1’100 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à
+la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 360 fr., plus la TVA
+par 27 fr. 70, soit à 387 fr. 70 au total, seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Le
+remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera exigible que pour autant que la situation économique de ce dernier le permette
+(art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 28 décembre 2018 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de J.________ est fixée à 387 fr. 70 (trois cent huitante-sept francs
+et septante centimes).
+IV.
+Les frais d’arrêt, par 1’100 fr. (mille cent francs), ainsi que l’indemnité
+due au défenseur d’office de J.________, par 387 fr. 70 (trois cent huitante-sept
+francs et septante centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation économique de J.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Michaël Stauffacher, avocat (pour J.________),
+-
+Me Coralie Devaud, avocate (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales ; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
