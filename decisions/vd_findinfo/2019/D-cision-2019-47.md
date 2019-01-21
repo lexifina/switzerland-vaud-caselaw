@@ -1,0 +1,343 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___47"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 47"
+decided: "2019-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/6992751"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-069.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-196.md", "switzerland/bund/acts/312.0/art-197.md", "switzerland/bund/acts/312.0/art-263.md", "switzerland/bund/acts/312.0/art-267.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 47
+
+## Regeste
+
+ORDONNANCE DE SÉQUESTRE, BLANCHIMENT D'ARGENT, COMPTE BANCAIRE, UTILISATION FRAUDULEUSE D'UN ORDINATEUR | 263 al. 1 let. c CPP (CH), 263 al. 1 let. d CPP (CH), 263 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.01.2019 Décision / 2019 / 47
+
+ORDONNANCE DE SÉQUESTRE, BLANCHIMENT D'ARGENT, COMPTE BANCAIRE, UTILISATION FRAUDULEUSE D'UN ORDINATEUR | 263 al. 1 let. c CPP (CH), 263 al. 1 let. d CPP (CH), 263 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+40
+PE18.018348-ERY
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Oulevey, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+263 CPP
+Statuant sur le recours interjeté le 25 septembre 2018 par
+P.________
+contre l’ordonnance de séquestre rendue le 21 septembre 2018 par le Ministère public
+de l’arrondissement de Lausanne dans la cause
+n° PE18.018348-ERY
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 20 septembre 2018, le procureur de l’arrondissement
+de Lausanne a ouvert une instruction pénale contre P.________ pour blanchiment d’argent. Il
+lui est reproché d’avoir, à tout le moins les 10 et 11 septembre 2018, agi comme «
+money
+mule
+» en acceptant de voir son compte
+bancaire, IBAN [...] ouvert auprès de [...], crédité de deux montants de respectivement
+3'289 fr. et 1'000 francs. Ces versements proviendraient d’actes de type «
+phishing
+»,
+soit d’utilisation frauduleuse d’un ordinateur, commis au préjudice de A.V.________
+et B.V.________, d’une part, et L.________, d’autre part.
+B.
+Par ordonnance de séquestre du 21 septembre
+2018, le Ministère public de l’arrondissement de Lausanne a ordonné à [...] la saisie
+pénale conservatoire de toutes les valeurs patrimoniales déposées sur le compte bancaire
+IBAN [...] au nom de P.________ (I), a ordonné à [...] de lui transmettre les relevés
+semestriels du compte bloqué (II), et a dit que les frais suivront le sort de la cause (III).
+Le procureur a considéré que le montant total de 4'289 fr. versé sur le compte de l’intéressée
+était très vraisemblablement lié à des crimes d’utilisation frauduleuse d’un
+ordinateur commis au préjudice de A.V.________ et B.V.________ et L.________. Le fait pour P.________
+de recevoir de l’argent provenant d’actes de type «
+phishing
+»
+sur son compte afin de le faire échapper à la mainmise de l’Etat pourrait être constitutif
+de blanchiment d’argent. Pour le procureur, le montant se trouvant sur le compte de la prévenue
+provenait des sommes détournées auprès des personnes lésées par l’infraction
+préalable. En conséquence, ces montants pourraient devoir être restitués aux lésés,
+voire être confisqués. Il convenait ainsi de séquestrer le compte bancaire en question,
+afin d’éviter que ce montant soit transféré ou retiré et que l’auteur
+de l’infraction préalable s’enrichisse.
+C.
+a)
+Par acte du 25 septembre 2018 adressé au Tribunal cantonal, P.________ a interjeté recours
+contre cette décision, en concluant implicitement à sa réforme en ce sens que le séquestre
+opéré sur son compte en banque auprès de [...] soit levé (P. 8).
+A l’appui de son recours, elle a produit un relevé de sa carte de crédit [...] [...].
+Elle a précisé qu’elle ferait parvenir par la suite les documents de la banque [...].
+b)
+Par ordonnance de séquestre du 27 septembre 2018, le Ministère public de l’arrondissement
+de Lausanne a ordonné la saisie pénale conservatoire des valeurs patrimoniales déposées
+sur le compte [...] [...] de P.________ à concurrence de 4'003 fr. 60 (I), a dit que pour le surplus,
+le compte précité était à la libre disposition de cette dernière (II), et a
+dit que les frais suivront le sort de la cause (III).
+Le procureur a considéré, sur la base des entrées et sorties du compte, que le montant
+pouvant être restitué aux lésés ne saurait être supérieur à 4'289 francs.
+Il était cependant trop tôt, en l’état de l’instruction, pour déterminer
+le montant pouvant éventuellement être restitué aux lésés. Par ailleurs, au
+vu de la situation financière de la prévenue, un séquestre en vue de garantir une éventuelle
+créance compensatrice ne se justifiait pas, notamment afin de garantir son minimum vital. Il convenait
+donc de maintenir le séquestre du compte [...] en question à concurrence de 4'003 fr. 60, montant
+correspondant au solde du compte lors de son blocage par l’établissement bancaire, le surplus
+pouvant être utilisé par la prévenue pour faire face à ses charges mensuelles.
+c)
+Par courrier du 4 janvier 2019 adressé à la Chambre des recours pénale du Tribunal cantonal
+(P. 19), P.________ a précisé ses conclusions en ce sens qu’elle a requis la levée
+du séquestre à hauteur de 4'289 francs. Elle a produit des pièces, notamment les détails
+des mouvements de compte relatifs aux transactions du 10 et 11 septembre 2018, à savoir les
+virements opérés par A.V.________ et B.V.________ d’une part, pour un montant de 3'289
+fr., et par L.________ d’autre part, pour un montant de 1'000 fr. (P. 19/1).
+Par correspondance du 8 janvier 2019, le président de la Chambre de céans a adressé le
+courrier précité (P. 19) au Ministère public de l’arrondissement de Lausanne comme
+objet de sa compétence, afin de statuer sur la demande de levée partielle de séquestre
+(P. 20).
+d)
+Par courrier du 14 janvier 2019 (P. 26), le Ministère public de l’arrondissement de Lausanne
+a indiqué à P.________ qu’il n’entendait pas revenir sur sa décision du 21
+septembre 2018, modifiée le 27 septembre 2018. Le procureur a notamment précisé qu’il
+ressortait de la communication du Bureau de communication en matière de blanchiment d’argent
+que L.________ avait été la victime d’un «
+IT
+Support-Scam
+», soit d’une escroquerie
+au support informatique. En effet, ce dernier avait indiqué à son établissement bancaire
+que c’était la raison du versement qu’il avait fait à la prévenue. En outre,
+il ressortait d’un dossier zurichois versé dans la présente enquête (P. 23) qu’un
+individu domicilié dans le canton de Zurich avait également été victime de «
+IT
+Support-Scam
+». A la demande de l’escroc,
+non-identifié, il a effectué deux transactions sur le compte [...] au nom de la prévenue.
+Ces transactions, qui ont pu être annulées, se montaient à 5'500 fr. et 4'555 francs.
+Des mesures d’enquêtes étaient en cours pour déterminer si les versements litigieux
+étaient ou non d’origine criminelle.
+La recourante s’est déterminée sur cette lettre le 16 janvier 2019.
+En droit
+:
+1.
+1.1
+Aux termes de l’art. 393 al. 1 let. a CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable
+contre les décisions et actes de procédure du Ministère public. Une ordonnance de séquestre
+(art. 263 CPP) rendue par le Ministère public dans le cadre de la procédure préliminaire
+est ainsi susceptible de recours selon les art. 393 ss CPP (Moreillon/ Parein-Reymond, Petit Commentaire
+du Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 24 ad art. 263 CPP ; Lembo/Julen Berthod, in : Kuhn/Jeanneret
+[éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 4 ad art. 267 CPP ;
+CREP 7 avril 2018/265 et les références citées). Ce recours s’exerce dans les dix
+jours devant l’autorité de recours (art. 396 al. 1 CPP ; cf. art. 20 al. 1
+let. b CPP), qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal
+cantonal (art. 13 LVCPP [loi vaudoise du 19 mai 2009 d’introduction du code de procédure
+pénale suisse ; BLV 312.01] ; art. 80 LOJV [loi vaudoise du 12 décembre
+1979 d’organisation judiciaire ; BLV 173.01]).
+Dans le cadre d’un recours contre une ordonnance de séquestre, un intérêt juridiquement
+protégé doit être reconnu à celui qui jouit sur les objets ou valeurs confisqués
+d'un droit de propriété ou d'un droit réel limité (TF 1B_94/2012 du 2 avril 2012
+consid. 2 et les arrêts cités, SJ 2012 I p. 353 ; Moreillon/Parein-Reymond, op. cit.,
+n. 6 ad art. 382 CPP et les réf. citées).
+1.2
+Interjeté en temps utile (art. 396 al. 1
+CPP) contre une ordonnance de séquestre du Ministère public (art. 263 al. 1 et 393 al. 1 let.
+a CPP), par la prévenue, détentrice du compte en banque séquestré, et qui a ainsi
+un intérêt juridique à l’annulation ou à la modification de l’ordonnance,
+dans les formes prescrites, le recours déposé le 25 septembre 2018 (P. 8) contre l’ordonnance
+de séquestre du 21 septembre 2018 est recevable.
+La lettre de la recourante du 4 janvier 2019 adressée à la Chambre de céans (P. 19) doit
+être interprétée comme un complément au recours, étant précisé que
+si celle-ci devait être un nouveau recours dirigé contre l’ordonnance de séquestre
+du 27 septembre 2018, il serait tardif et donc irrecevable.
+2.
+2.1
+La recourante soutient que les fonds se trouvant
+sur son compte en banque objet du séquestre proviendraient de ses revenus personnels. Elle conteste
+avoir un rapport avec une opération de «
+phishing
+».
+Par courrier du 4 janvier 2019, la recourante a précisé que les fonds bloqués proviendraient
+de l’aide sociale dont elle bénéficie, ainsi que de son compte [...], à raison de
+1'200 francs.
+2.2
+2.2.1
+Le séquestre pénal est prononcé
+en principe sur la base de l'art. 263 CPP, qui permet de mettre sous séquestre des objets et des
+valeurs patrimoniales appartenant au prévenu ou à des tiers, lorsqu'il est probable qu'ils
+seront utilisés comme moyens de preuves (art. 263 al. 1 let. a CPP), qu'ils seront utilisés
+pour garantir le paiement des frais de procédure, des peines pécuniaires, des amendes et des
+indemnités (art. 263 al. 1 let. b CPP), qu'ils devront être restitués au lésé
+(art. 263 al. 1 let. c CPP) ou qu'ils devront être confisqués (art. 263 al. 1 let. d CPP).
+Le séquestre est ordonné par voie d'ordonnance écrite, brièvement motivée (art.
+263 al. 2, 1
+re
+phrase, CPP).
+En tant que mesure de contrainte au sens de l’art. 196 CPP, le séquestre ne peut être
+ordonné que lorsqu’il est prévu par la loi, que des soupçons suffisants laissent
+présumer une infraction, que les buts poursuivis ne peuvent pas être atteints par des mesures
+moins sévères et que la mesure apparaît justifiée au regard de la gravité de
+l'infraction (cf. art. 197 al. 1 CPP).
+L’atteinte causée par une mesure de séquestre présuppose l’existence de présomptions
+concrètes à l’encontre de la ou des personnes visées par la procédure pénale.
+Au début de l’enquête, il est admis qu’un soupçon crédible ou un début
+de preuve de l’existence de l’infraction reprochée suffise à permettre le séquestre,
+ce qui laisse une grande place à l’appréciation du juge (Lembo/Julen Berthod, op. cit.,
+n. 22 ad art. 263 CPP). Il faut également pouvoir établir un lien de connexité entre l’objet
+séquestré et l’infraction poursuivie. À cet égard, le Tribunal fédéral
+considère qu’en début de procédure, la simple probabilité de ce lien suffit,
+dans la mesure où la saisie avant jugement ne constitue qu’une mesure provisoire qui se rapporte
+à des prétentions encore incertaines. En outre, la mesure doit pouvoir être ordonnée
+rapidement, ce qui exclut la résolution de questions juridiques complexes (voir les arrêts
+cités par Lembo/Julen Berthod, op. cit., n. 25 ad art. 263 CPP). Toutefois, le degré de probabilité
+exigé variera selon l’avancement de la procédure. Ainsi, il importe que les présomptions
+se renforcent au cours de l’enquête et que l’existence d’un lien de connexité
+entre le bien séquestré et les actes délictueux puisse être considérée
+comme hautement vraisemblable pour que le maintien du séquestre pendant une période prolongée
+se justifie (TF 1B_458/2012 du 22 novembre 2012 consid. 3.1 ; Lembo/Julen Berthod, op. cit., n.
+26 ad art. 263 CPP et les réf. citées).
+2.2.2
+Le séquestre en vue de la restitution au
+lésé (art. 263 al. 1 let. c CPP) consiste à placer en main de justice des objets ou valeurs
+patrimoniales dans le but de les rendre au lésé en rétablissement des droits qui lui seront
+reconnus au terme du procès (Lembo/Julen Berthod, op. cit., n. 12 ad art. 263 CPP). Ce type de séquestre
+est, selon la jurisprudence et la doctrine, limité aux valeurs patrimoniales et aux objets qui ont
+été soustraits à la personne lésée directement du fait de l’infraction,
+soit aux choses dont l’ayant droit a été dépouillé par l’infraction,
+mais aussi aux comptes alimentés grâce à l’infraction (Message du Conseil fédéral
+relatif à l'unification du droit de la procédure pénale du 21 décembre 2005, FF 2006
+pp. 1057 ss, spéc. p. 1227). Si un lien direct ne peut pas être établi entre les
+objets ou valeurs patrimoniales et l’infraction, le séquestre ne peut pas être ordonné
+et ne saurait être licite (Moreillon/Parein-Reymond, op. cit., n. 17 ad art. 263 CPP et les réf. citées).
+2.2.3
+Le séquestre de type conservatoire (art. 263 al. 1 let. d CPP) consiste en la confiscation des biens
+en raison du danger qu'ils présentent pour la sécurité des personnes, la morale ou l'ordre
+public (art. 69 CP [Code pénal suisse du 21 décembre 1937 ; RS 311.0]), de leur origine
+ou de leur utilisation criminelle (art. 70 et 72 CP) pour autant que l'on puisse admettre,
+prima
+facie
+, qu'ils pourront être confisqués
+en application du droit fédéral (ATF 141 IV 360 consid. 3.2 ; ATF 140 IV 57 consid. 4.1.1 ;
+Lembo/Julen Berthod, op. cit., n. 7 ad art. 263 CPP). Cette mesure conservatoire est fondée
+sur la vraisemblance : la seule probabilité que ces biens soient issus d’une infraction ou
+aient servi à la commission d’une infraction est suffisant, tant que l'instruction n'est pas
+achevée (CREP 15 décembre 2017/863 consid. 2.1 ; CREP 1
+er
+février 2018/71 consid. 2.2.1 ; Moreillon/Parein-Reymond, op. cit., n. 20 ad art. 263
+CPP et les références citées). Il doit exister un rapport de connexité entre l’objet
+du séquestre conservatoire et l'infraction poursuivie (principe de spécialité) (Lembo/Julen
+Berthod, op. cit., n. 17 ad art. 263 CPP ; ATF 140 IV 57 consid. 4.1.2). Ce lien de connexité
+existe lorsque l'objet séquestré est en relation directe avec l'infraction, qu'il ait servi
+à la commettre ou en soit le produit (Lembo/Julen Berthod, op. cit., n. 24 ad art. 263 CPP).
+2.2.4
+Un séquestre est proportionné lorsqu’il
+porte sur des avoirs dont on peut admettre en particulier qu’ils pourront vraisemblablement être
+confisqués en application du droit pénal. Tant que l’instruction n’est pas achevée
+et que subsiste une probabilité de confiscation, de créance compensatrice ou d’une allocation
+au lésé, la mesure conservatoire doit être maintenue (ATF 141 IV 360 consid. 3.2). L’intégralité
+des fonds doit demeurer à disposition de la justice aussi longtemps qu’il existe un doute
+sur la part de ceux-ci qui pourrait provenir d’une activité criminelle (TF 1B_118/2018 du
+5 juillet 2018 consid. 4.1 ; TF 1B_145/2016 du 1
+er
+juillet 2016 consid. 3.1 et les arrêts cités), et un séquestre ne peut être levé
+que dans l’hypothèse où il est d’emblée manifeste et indubitable que les conditions
+matérielles d’une confiscation, respectivement du prononcé d’une créance compensatrice,
+ne sont pas réalisées et ne pourront pas l’être (ATF 140 IV 133 consid. 4.2.1 ;
+TF 1B_118/2018 précité et les réf.).
+2.3
+En l’espèce, il faut d’abord
+constater qu’il existe des soupçons suffisants que la recourante se soit rendu coupable de
+blanchiment d’argent, en lien avec une escroquerie informatique. En effet, selon les explications
+convaincantes du procureur (cf. P. 26), L.________ aurait indiqué à son établissement
+bancaire avoir opéré le versement litigieux sur le compte en banque de la recourante en raison
+du fait qu’il aurait été victime d’un «
+IT Support-Scam
+».
+Il ressort également d’un dossier zurichois (P. 23) qu’un individu domicilié
+dans le canton de Zurich aurait également été victime de ce type d’acte. A la demande
+de l’escroc, non-identifié, il aurait effectué deux transactions sur le compte en banque
+dont la recourante est titulaire, lesquelles auraient pu être annulées. Au vu de ce qui précède,
+il apparaît,
+prima facie
+,
+que le compte en banque de la recourante serait utilisé dans le cadre d’escroqueries informatiques,
+ce qui laisse supposer la commission, par la prévenue, de blanchiment d’argent.
+Quand bien même la recourante prétend que les fonds se trouvant sur le compte séquestré
+provenaient de son compte [...] et de l’aide sociale qu’elle perçoit, ce n’est
+pas ce qui ressort des détails des mouvements de compte [...] que la recourante a produit (P. 19/1).
+En effet, on constate que deux virements ont été opérés par les lésés,
+soit A.V.________ et B.V.________ d’une part, pour un montant de 3'289 fr., et L.________
+d’autre part, pour un montant de 1'000 francs. Les renseignements bancaires fournis par [...]
+font également état des versements litigieux opérés par les lésés les 10
+et 11 septembre 2018 (P. 9/3 pp. 7 et 8).
+La recourante n’explique nullement pour quelle raison les lésés auraient versé ces
+montants sur son compte en banque. Afin de garantir l’éventuelle restitution aux lésés,
+dont le montant ne peut en l’état pas être déterminé, il apparaît justifié
+de maintenir le séquestre ordonné le 21 septembre 2018 et restreint par ordonnance du 27 septembre
+2018.
+3.
+Au vu de ce qui précède, le recours, manifestement mal fondé, doit être rejeté
+sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance de séquestre
+du 21 septembre 2018, modifiée par ordonnance de séquestre du 27 septembre 2018, confirmée.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt, par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge de la recourante,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 21 septembre 2018, modifiée le 27 septembre 2018, est confirmée.
+III.
+Les frais d’arrêt, par 990 fr. (neuf
+cent nonante francs), sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+P.________
+-
+Ministère public central,
+et communiqué à :
+-
+[...],
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
