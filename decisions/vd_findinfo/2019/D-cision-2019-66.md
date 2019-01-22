@@ -1,0 +1,346 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___66"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 66"
+decided: "2019-01-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7020902"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-062.md", "switzerland/bund/acts/312.0/art-422.md"]
+---
+
+# VD Findinfo Décision / 2019 / 66
+
+## Regeste
+
+RÉCUSATION, MINISTÈRE PUBLIC | 56 let. f CPP (CH), 58 CPP (CH), 59 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 22.01.2019 Décision / 2019 / 66
+
+RÉCUSATION, MINISTÈRE PUBLIC | 56 let. f CPP (CH), 58 CPP (CH), 59 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+22
+PE16.009937-[...]
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 22 janvier 2019
+__________________
+Composition :
+M.
+Meylan
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffière :
+Mme              Grosjean
+*****
+Art.
+56 ss CPP
+Statuant sur la demande de récusation déposée le 17 décembre 2018 par
+Y.________
+à l'encontre d’U.________, Procureur du Ministère public central, division criminalité
+économique, dans la cause
+n°
+PE16.009937-[...]
+, la Chambre des recours pénale
+considère :
+En fait :
+A.
+a)
+A
+la suite d’une dénonciation de l’Autorité de surveillance LPP et des fondations
+de Suisse occidentale (ci-après : As-So) du 17 mai 2016, le Ministère public central,
+division criminalité économique, par le Procureur U.________ a décidé, le 6 mars
+2017, de l’ouverture d’une instruction pénale contre Y.________ pour avoir, dès
+la fin de l’année 2012, en sa qualité de membre du conseil de la Fondation Z.________,
+sise à [...], commis des actes de gestion déloyale aggravée, causant à dite fondation
+un préjudice de plusieurs dizaines de milliers de francs.
+b)
+Par
+ordonnance du 6 avril 2017, le Procureur a désigné Me H.________ en qualité de défenseur
+d’office d’Y.________, avec effet rétroactif au 20 mars 2017.
+c)
+Par
+ordonnance du 2 juin 2017, le Procureur a suspendu la procédure jusqu’à réception
+du résultat des travaux confiés par le commissaire de la Fondation Z.________ à K.________,
+administrateur secrétaire et directeur de la société [...] SA, et E.________, représentant
+de la société [...] SA, ainsi que des déterminations du commissaire de la fondation à
+leur égard, à charge pour ce dernier d’en avertir immédiatement la direction de
+la procédure. Il a considéré que la confirmation ou l’infirmation de l’existence
+des malversations soupçonnées par l’As-So dépendaient en majeure partie du résultat
+des travaux de ces experts privés d’ores et déjà mis en œuvre par le commissaire
+et que ces travaux simplifieraient de toute évidence l’administration des preuves dans le
+cadre de la procédure.
+Me C.________, avocat, avait été désigné par l’As-So en qualité de commissaire
+le 17 mai 2016, à charge pour lui de reprendre la gestion de la Fondation Z.________ et de prendre
+une série de mesures précises en vue de circonscrire avec exactitude les manquements suspectés
+(P. 6). Par décision du 3 août 2017, le Département fédéral de l’intérieur
+a nommé l’avocat F.________ commissaire de la fondation précitée en lieu et place
+de Me C.________ (P. 52).
+Le 31 janvier, puis le 27 février 2018, Y.________ a sollicité la reprise de cause. Le 2 mars
+2018, le Ministère public a rejeté la requête du prévenu, confirmant expressément
+son ordonnance du 2 juin 2017.
+Le 6 mars 2018, Y.________ a recouru auprès de la Chambre des recours pénale du Tribunal cantonal
+contre la décision du 2 mars 2018. Avant que la Cour de céans statue, le Procureur U.________
+a, par ordonnance du 5 juillet 2018, ordonné la reprise de la procédure pénale suspendue,
+considérant que le motif de la suspension – à savoir la réception des rapports de
+K.________ et d’E.________ et des déterminations du commissaire de la fondation – avaient
+disparu.
+Par arrêt du 9 août 2018, la Chambre des recours pénale a constaté que le recours
+d’Y.________ était sans objet et a rayé la cause du rôle. Cet arrêt a été
+déclaré définitif et exécutoire le 22 octobre 2018 et le dossier de la cause a été
+retourné au Procureur U.________ le 23 octobre 2018.
+d)
+Par
+courrier du 30 octobre 2018, Me F.________ a informé le Procureur que les anciens membres du conseil
+de fondation ne lui avaient pas retourné de confirmation écrite signée concernant l’accès
+au coffre-fort situé au sous-sol de l’immeuble d’[...] et qu’il lui apparaissait
+dès lors nécessaire que la direction de la procédure procède à l’ouverture
+de ce coffre-fort dans les meilleurs délais afin d’en sécuriser le contenu et d’éviter
+toute soustraction indue des éventuels biens s’y trouvant.
+Le 2 novembre 2018, le Procureur a ordonné qu’une perquisition, y compris documentaire, soit
+opérée dans le coffre-fort entreposé au sous-sol de l’immeuble sis Chemin [...],
+à [...], propriété de la Fondation Z.________, pour y saisir tout objet, tout document
+ou toute donnée informatique utile aux investigations en cours, la police étant chargée
+de l’exécution de ce mandat de perquisition. Le même jour, il a informé Me F.________
+de son intention de procéder à la perquisition ordonnée le 5 novembre 2018, à 13
+h 30, et l’a à cet effet invité à lui mettre à disposition toute clé permettant
+de faciliter l’entrée des enquêteurs sur les lieux.
+Le 5 novembre 2018, constatant que la procédure à disposition, fournie par le commissaire,
+ne permettait pas l’ouverture du coffre-fort, le Procureur a pris contact téléphoniquement
+avec le défenseur d’office d’Y.________ afin de pouvoir éviter, cas échéant,
+une ouverture forcée du coffre-fort qui induirait des coûts supplémentaires.
+e)
+Par
+courrier du 14 novembre 2018, faisant suite à une lettre de Me  H.________ du 12 novembre 2018,
+le Procureur U.________ a informé ce dernier du fait que les éléments au dossier lui faisaient
+craindre que l’essentiel des écritures produites aux diverses autorités concernées
+par l’affaire, y compris au Ministère public, ne soit en réalité de la main d’Y.________
+lui-même et qu’il ne soit que le simple porte-voix de son client, se contentant de signer
+et de mettre sous pli les écritures que celui-ci lui adressait, que l’exercice de son mandat
+pourrait ainsi ne pas s’inscrire dans les exigences d’indépendance préconisées
+par la LLCA (Loi sur la libre circulation des avocats du 23 juin 2000 ; RS 935.61) et qu’il
+devait dès lors se réserver de rendre une décision d’interdiction de représentation
+à son endroit. Un délai au 27 novembre 2018 a été imparti au défenseur d’office
+d’Y.________ pour se déterminer à cet égard.
+Par courrier du 26 novembre 2018, Me H.________ a intégralement contesté les reproches formulés
+par le Procureur U.________ et, au vu de ces derniers, l’a informé qu’il renonçait
+de lui-même à son mandat de défenseur d’office d’Y.________.
+Par ordonnance du 7 décembre 2018, le Ministère public a relevé Me H.________ de
+sa mission de défenseur d’office du prévenu Y.________ avec effet immédiat et a
+dit que faute par Y.________ d’avoir communiqué les coordonnées d’un autre conseil
+d’ici au 15 janvier 2019, un nouveau défenseur d’office lui serait désigné.
+Le Procureur U.________ a considéré qu’une défense efficace paraissait ne plus pouvoir
+être assurée par Me H.________, lequel ne présentait pas les garanties d’indépendance,
+de recul et d’objectivité nécessaires à la poursuite de son mandat. Il a également
+estimé que les derniers écrits de Me H.________ ne permettaient pas de s’assurer
+que celui-ci disposait d’une pleine perception des problématiques de la cause. Cette ordonnance
+a été notifiée, avec indication des voies de recours, à Me H.________ ainsi qu’à
+Y.________ personnellement.
+B.
+a)
+Par acte du 17 décembre 2018 adressé
+au Ministère public central, Y.________ a demandé la récusation du Procureur U.________,
+concluant à ce que ce dernier soit dessaisi de l’instruction en cause ainsi que de toute instruction
+éventuelle dirigée contre lui, à ce qu’un autre procureur soit désigné
+pour instruire et clore la présente affaire, et à ce que les frais soient assumés par
+l’Etat.
+Le 18 décembre 2018, le Ministère public central a transmis la demande de récusation d’Y.________
+à la Chambre des recours pénale comme objet de sa compétence et a sollicité, en l’absence
+du Procureur U.________, qu’un délai soit imparti à ce dernier pour se déterminer.
+b)
+Le
+7 janvier 2019, dans le délai accordé à cet effet, le Procureur U.________ a adressé
+une prise de position à l’autorité de céans. Il a conclu au rejet de la demande
+de récusation dans la mesure de sa recevabilité, considérant que celle-ci était tardive
+dans une large mesure. Sur le fond, il a en substance contesté l’existence d’un quelconque
+indice de prévention et estimé que les arguments du requérant n’étaient pas
+pertinents et ses reproches infondés.
+c)
+Par
+ordonnance du 16 janvier 2019, le Ministère public a désigné Me Bernard de Chedid
+en qualité de défenseur d’office d’Y.________.
+d)
+Dans
+des observations complémentaires déposées les 17 et 21 janvier 2019, Y.________ a
+confirmé sa demande de récusation du Procureur U.________.
+En droit :
+1.
+Selon l'art. 59 al. 1 let. b CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant une
+fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l’occurrence, la Chambre des recours pénale du Tribunal cantonal (art. 13 al. 1 LVCPP [Loi
+d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01])
+est compétente pour statuer sur la demande de récusation présentée par Y.________,
+dans la mesure où cette dernière est dirigée contre un membre du ministère public.
+2.
+2.1
+Le requérant reproche au Procureur U.________
+un manque d’indépendance vis-à-vis du commissaire de la Fondation Z.________, Me F.________,
+auquel il aurait délégué l’instruction. Il soutient en particulier que le Procureur
+aurait été influencé par ce dernier pour aboutir à la conclusion que l’essentiel
+des écritures adressées aux diverses autorités concernées par la présente affaire
+n’était pas de la main de son défenseur d’office, Me H.________, mais de la sienne,
+ce qui l’a finalement conduit à relever cet avocat de sa mission. Le requérant reproche
+également au Procureur U.________ différentes décisions prises sur le déroulement
+de l’instruction en 2017 et 2018, notamment le mandat de perquisition du 2 novembre 2018 –
+contre lequel il a d’ailleurs formé recours –, qui dénoteraient un parti pris à
+son détriment. Enfin, il lui fait grief d’avoir gravement manqué à son devoir de
+célérité en tardant à reprendre l’instruction après sa décision de
+reprise de cause du 5 juillet 2018.
+2.2
+2.2.1
+L’art. 56 let. a à e CPP énonce
+divers motifs de récusation qualifiés à l’égard de toute personne exerçant
+une fonction au sein d’une autorité pénale ; pour sa part, sa lettre f impose la
+récusation du fonctionnaire ou magistrat concerné « lorsque d’autres motifs,
+notamment un rapport d’amitié étroit ou d’inimitié avec une partie ou son
+conseil juridique, sont de nature à le rendre suspect de prévention ». L’art.
+56 let. f CPP a la portée d’une clause générale recouvrant tous les motifs de récusation
+non expressément prévus aux lettres précédentes (ATF 143 IV 69 consid. 3.2 ;
+ATF 138 IV 142 consid. 2.1).
+La garantie d'un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst.
+(Constitution fédérale de la Confédération suisse du 18 avril 1999 ; RS 101)
+et 6 par. 1 CEDH (Convention de sauvegarde des droits de l’homme et des libertés fondamentales
+du 4 novembre 1950 ; RS 0.101) permet d'exiger la récusation d'un juge – respectivement
+d’un procureur (cf. ATF 138 IV 142) – dont la situation ou le comportement est de nature
+à faire naître un doute sur son impartialité (ATF 126 I 68 consid. 3a ; TF 1B_629/2011
+du 19 décembre 2011 consid. 2.1 et la réf. citée). La récusation ne s'impose pas
+seulement lorsqu'une prévention effective du magistrat est établie, car une disposition interne
+de sa part ne peut guère être prouvée. Il suffit que les circonstances donnent l'apparence
+de la prévention et fassent redouter une activité partiale du magistrat. Seules les circonstances
+constatées objectivement doivent être prises en considération ; les impressions purement
+individuelles d'une des parties au procès ne sont pas décisives (ATF 143 IV 69 consid. 3.2 ;
+ATF 141 IV 178 consid. 3.2, JdT 2016 IV 247 ; ATF 138 IV 142 consid. 2.1). En particulier, n'emportent
+pas prévention une décision défavorable à une partie (TF 1B_365/2009 du 22 mars 2010
+consid. 3.3) ou un refus d'administrer une preuve (ATF 116 Ia 135 ; Verniory, in : Kuhn/Jeanneret
+[éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 35 ad art.
+56 CPP ; CREP 17 mars 2017/181 consid. 2.1).
+Le ministère public est l’autorité investie de la direction de la procédure jusqu’à
+la mise en accusation (art. 61 CPP). A ce titre, il doit veiller au bon déroulement et à la
+légalité de la procédure (art. 62 ss CPP). Durant l’instruction, il doit établir,
+d’office et avec un soin égal, les faits à charge et à décharge (art. 6 CPP) ;
+il doit statuer sur les réquisitions de preuves et peut rendre des décisions quant à la
+suite de la procédure (classement ou mise en accusation), voire rendre une ordonnance pénale,
+pour laquelle il assume une fonction juridictionnelle (ATF 138 IV 142 consid. 2.2.1; ATF 124 I 76
+consid. 2). Dans ce cadre, le ministère public est tenu à une certaine impartialité même
+s'il peut être amené, provisoirement du moins, à adopter une attitude plus orientée
+à l'égard du prévenu ou à faire état de ses convictions à un moment donné
+de l'enquête. Tout en disposant, dans le cadre de ses investigations, d'une certaine liberté,
+le magistrat reste tenu à un devoir de réserve. Il doit s'abstenir de tout procédé
+déloyal, instruire tant à charge qu'à décharge et ne point avantager une partie au
+détriment d'une autre (ATF 141 IV 178 consid. 3.2.2 ; ATF 138 IV 142 consid. 2.2.1 ; TF
+1B_46/2016 du 29 avril 2016 consid. 3.1 et les réf. citées).
+Lorsqu'un justiciable est insatisfait d'une décision ou d'une procédure judiciaire, il lui
+est loisible de la contester par les voies de recours prévues à cet effet. La procédure
+de récusation n'a pas pour objet de vérifier la légalité ou l'opportunité des
+actes du magistrat qu'elle vise ; elle tend seulement à vérifier si celui-ci est impartial.
+Selon la jurisprudence, des décisions ou des actes de procédure qui se révéleraient
+erronés ne fondent pas en soi une apparence objective de prévention ; seules des erreurs
+particulièrement lourdes ou répétées, constitutives de violations graves des devoirs
+du magistrat, peuvent fonder une suspicion de partialité, pour autant que les circonstances dénotent
+que le juge est prévenu ou justifient à tout le moins objectivement l'apparence de prévention
+(ATF 141 IV 178 consid. 3.2.3 ; ATF 138 IV 142 consid. 2.3). De même, la garantie d’un
+juge impartial ne commande pas la récusation d’un juge au simple motif qu’il a, dans
+une procédure antérieure – voire dans la même affaire –, tranché en défaveur
+du requérant (ATF 143 IV 69 consid. 3.1).
+2.2.2
+Selon l’art. 58 al. 1 CPP, lorsqu’une
+partie entend demander la récusation d’une personne qui exerce une fonction au sein d’une
+autorité pénale, elle doit présenter sans délai à la direction de la procédure
+une demande en ce sens, dès qu’elle a connaissance du motif de récusation. Les faits
+sur lesquels repose sa demande doivent être rendus plausibles. Une requête de récusation
+ne peut ainsi être déposée à n'importe quel moment au cours de la procédure
+selon la tournure que prend celle-ci. Il incombe donc à celui qui se prévaut d'un motif de
+récusation de se manifester sans délai dès la connaissance de ce motif ; passé
+un certain temps, le droit de requérir, et éventuellement d'obtenir la récusation est
+périmé (ATF 140 I 271 consid. 8.4.3 et les réf. citées ; TF 6B_540/2018 du 31
+juillet 2018 consid. 2.2). Il est en effet contraire aux règles de la bonne foi consacrée à
+l'art. 5 al. 3 Cst. de garder ce moyen en réserve pour ne l'invoquer que plus tard (ATF 139 III
+120 consid. 3.2.1 et les réf. citées ; TF 6B_540/2018 du 31 juillet 2018 consid.
+2.2). Le requérant doit ainsi faire valoir le motif de récusation invoqué dans un laps
+de temps d’au plus six ou sept jours depuis sa découverte ; un délai d’attente
+de deux à trois semaines est déjà excessif (TF 6B_540/2018 du 31 juillet 2018 consid.
+2.2 ; TF 1B_512/2017 du 30 janvier 2018 consid. 3 ; TF 1B_60/2014 du 1
+er
+mai 2014 consid. 2.2 et les arrêts cités).
+2.3
+En l’espèce, en tant qu’elle
+est fondée sur une série de comportements qu’aurait adopté le Procureur U.________
+– censés illustrer un manque d’indépendance de ce dernier – plusieurs semaines,
+voire plusieurs mois avant son dépôt, la demande de récusation d’Y.________ est
+tardive et, partant, irrecevable. S’agissant en particulier des griefs du requérant en lien
+avec le mandat de perquisition décerné le 2 novembre 2018, on précisera qu’il ressort
+du procès-verbal des opérations que Me H.________, alors toujours défenseur d’office
+d’Y.________, en a été informé par téléphone le 5 novembre 2018 déjà.
+Or, le prévenu a déposé sa demande le 17 décembre 2018, soit six semaines plus tard,
+de sorte que les délais tolérés par la jurisprudence pour soulever un motif de récusation
+ont été largement dépassés.
+Au regard des exigences jurisprudentielles quant à la brièveté du délai de réaction,
+seule la recevabilité du moyen en lien avec la révocation du défenseur d’office
+du requérant, intervenue le 7 décembre 2018, doit en définitive être admise. A cet
+égard, il y a lieu de constater que le Procureur U.________ a expliqué, dans une motivation
+particulièrement bien détaillée, les motifs qui l’ont conduit à prendre une
+telle décision. On ne discerne au demeurant à la lecture de ceux-ci aucun indice de prévention.
+Le requérant se borne à critiquer le travail effectué par le Procureur, qu’il considère
+influencé par le commissaire de la Fondation Z.________, sans toutefois apporter le moindre élément
+susceptible d’étayer l’existence d’une apparence de prévention. Si Y.________
+estimait cette décision injustifiée, il lui était par ailleurs loisible de l’attaquer
+par les voies de droit idoines, ce qu’il n’a pas fait. Il ne peut à cet égard utiliser
+la procédure de récusation d’une manière contraire à ses fins pour tenter de
+contester le bien-fondé d’une décision prise par la direction de la procédure.
+En conséquence, le moyen du requérant doit être rejeté.
+3.
+En définitive, la demande de récusation
+présentée par Y.________ contre le Procureur U.________ doit être rejetée dans la
+mesure où elle est recevable.
+Les frais de la présente procédure, constitués en l’espèce du seul émolument
+de décision (art. 422 al. 1 CPP), par 1’100 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront
+mis à la charge du requérant, conformément à l’art. 59 al. 4 CPP.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+La demande de récusation est rejetée dans la mesure où elle est recevable.
+II.
+Les frais de décision, par 1’100 fr. (mille cent francs), sont mis à la charge d’Y.________.
+III.
+La décision est exécutoire.
+Le
+président :
+La greffière :
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+M. Y.________,
+-
+Ministère public central,
+et communiquée à :
+-
+M. le Procureur du Ministère public central, division criminalité économique,
+-
+Me Bernard de Chedid, avocat (pour Y.________),
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (Loi sur le Tribunal fédéral du 17 juin
+2005 ; RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
