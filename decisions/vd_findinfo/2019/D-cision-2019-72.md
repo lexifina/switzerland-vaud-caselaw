@@ -1,0 +1,516 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___72"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 72"
+decided: "2019-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7006020"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-012.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/311.0/art-125.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/641.20/art-018.md", "switzerland/bund/acts/741.01/art-026.md", "switzerland/bund/acts/741.01/art-031.md", "switzerland/bund/acts/741.01/art-032.md", "switzerland/bund/acts/741.01/art-034.md", "switzerland/bund/acts/741.01/art-037.md", "switzerland/bund/acts/741.01/art-090.md", "switzerland/bund/acts/741.11/art-004.md", "switzerland/bund/acts/741.11/art-012.md"]
+---
+
+# VD Findinfo Décision / 2019 / 72
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE, ACCIDENT DE LA CIRCULATION, PLAINTE PÉNALE, CALCUL DU DÉLAI, NOTIFICATION IRRÉGULIÈRE | 125 CP, 31 CP, 26 al. 1 LCR, 31 al. 1 LCR, 34 al. 4 LCR, 37 al. 1 LCR, 90 al. 1 LCR, 90 al. 2 LCR, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2019 Décision / 2019 / 72
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE, ACCIDENT DE LA CIRCULATION, PLAINTE PÉNALE, CALCUL DU DÉLAI, NOTIFICATION IRRÉGULIÈRE | 125 CP, 31 CP, 26 al. 1 LCR, 31 al. 1 LCR, 34 al. 4 LCR, 37 al. 1 LCR, 90 al. 1 LCR, 90 al. 2 LCR, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+57
+PE18.001854-XMA
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+24 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Perrot, juges
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+3 al. 2 let. c, 318 al. 2 et 319 CPP ; 31 et 125 CP ; 29 al. 2 Cst., 26 al. 1, 31 al. 1, 34
+al. 4, 37 al. 1, 90 al. 1 et 2 LCR ; 4 al. 1 et 12 al. 1 et 2 OCR
+Statuant sur le recours interjeté le 18 juillet 2019 par
+X.________
+contre l’ordonnance de classement rendue le 4 juillet 2018 par le Ministère public de l'arrondissement
+de Lausanne dans la cause
+n° PE18.001854-XMA
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par acte daté du 17 janvier 2018 (P. 6) et déposé le 26 janvier 2018 (P. 4), X.________
+a déposé plainte pénale contre Y.________.
+Le 7 octobre 2017, vers 08h05, alors qu’il circulait de jour sur l’autoroute A9 en direction
+du Valais, à hauteur de l’échangeur de Villars-Ste-Croix-Blécherette, X.________,
+au guidon de son motocycle BMW K1200R, a heurté l’arrière gauche du véhicule automobile
+Renault Mégane conduit par Y.________ qui se serait brusquement arrêté. Le conducteur
+du motocycle a été éjecté et a subi une fracture du bassin par compression latérale,
+une bursite hémorragique du genou droit, un volumineux hématome des organes génitaux externes
+avec fracture testiculaire et hématome intra-testiculaire droit, ainsi que des dermabrasions des
+deux genoux. Ces lésions n’ont pas mis sa vie en danger.
+B.
+Par ordonnance du 4 juillet 2018, le Ministère
+public de l'arrondissement de Lausanne a ordonné le classement de la procédure pénale
+dirigée contre Y.________ pour lésions corporelles simples par négligence (I), a dit qu’il
+n’y avait pas lieu d’octroyer à Y.________ une indemnité au sens de l’art.
+429 CPP (II) et a laissé les frais de la procédure à la charge de l’Etat (III).
+La Procureure a retenu, d’une part, qu’aucun comportement fautif de la part d’Y.________
+n’avait été mis en évidence, contrairement à celui de X.________, et qu’à
+la lecture du rapport du CHUV du 23 mai 2018 (P. 14), il y avait lieu d’admettre que les lésions
+dont avait souffert X.________ étaient des lésions corporelles simples et non des lésions
+graves. D’autre part, elle a considéré que la plainte pénale déposée le
+17 janvier 2017 était manifestement tardive, dès lors que X.________ avait eu connaissance
+de l’identité de la conductrice contenue dans le courrier adressé par la police aux parties
+le 10 octobre 2017.
+C.
+Par acte du 18 juillet 2018, X.________ a interjeté
+recours contre cette ordonnance, en concluant à son annulation et au renvoi de la cause au Ministère
+public pour suite d’instruction, notamment en procédant à l’audition des parties
+et des trois témoins requis, les frais étant laissés à la charge de l’Etat.
+Invités à se déterminer, ni le Ministère public, ni la prévenue n’ont
+donné suite.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0) dans les dix jours devant l’autorité de recours
+(art. 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al. 1 let. b CPP), qui est, dans le canton de Vaud, la
+Chambre des recours pénale du Tribunal cantonal
+(art.
+13 LVCPP [loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009;
+BLV 312.01]; art. 80 LOJV [loi vaudoise d’organisation judiciaire du
+12
+décembre 1979; BLV 173.01]).
+En l'espèce, interjeté en temps utile
+et dans les formes prescrites
+(art. 385
+al. 1 CPP) auprès de l’autorité compétente, par la partie plaignante qui a qualité
+pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant fait valoir que les faits ne seraient
+pas suffisamment établis et, en particulier, que ce serait à tort que l’ordonnance attaquée
+mentionne qu’il n’aurait pas formulé de réquisition de preuves, alors qu’il
+aurait par deux fois, et notamment dans le délai de prochaine clôture, requis l’audition
+de trois témoins.
+2.2
+Le droit d'être entendu, tel qu'il est garanti
+par les art. 29 al. 2 Cst. et 3 al. 2 let. c CPP, comprend notamment pour le justiciable le droit d'obtenir
+l'administration des preuves pertinentes et valablement offertes, de participer à l'administration
+des preuves essentielles et de se déterminer sur son résultat lorsque cela est de nature à
+influer sur la décision à rendre, ainsi que le droit de recevoir une décision motivée
+(ATF 142 II 218 consid. 2.3 et 2.8.1 ; ATF 142 III 48 consid. 4.1.1 ; ATF 141 V 557 consid. 3.1 ; (ATF
+133 I 270 consid. 3.1 p. 277; 126 I 15 consid. 2a/aa p. 16). En procédure pénale, l'art.
+318 al. 2 CPP prévoit que le ministère public ne peut écarter une réquisition de
+preuves que si celle-ci exige l'administration de preuves sur des faits non pertinents, notoires, connus
+de l'autorité pénale ou déjà suffisamment prouvés en droit. Selon l'art. 139
+al. 2 CPP, il n'y a pas lieu d'administrer des preuves sur des faits non pertinents, notoires, connus
+de l'autorité pénale ou déjà suffisamment prouvés. Le législateur a ainsi
+consacré le droit des autorités pénales de procéder à une appréciation
+anticipée des preuves. Le magistrat peut renoncer à l'administration de certaines preuves,
+notamment lorsque les faits dont les parties veulent rapporter l'authenticité ne sont pas importants
+pour la solution du litige. Ce refus d'instruire ne viole le droit d'être entendu que si l'appréciation
+anticipée de la pertinence du moyen de preuve offert, à laquelle le juge a ainsi procédé,
+est entachée d'arbitraire (ATF 141 I 60 consid. 3.3 p. 64; 136 I 229 consid. 5.3 p. 236).
+Le droit d’être entendu est une garantie de nature formelle, dont la violation entraîne
+en principe l'annulation de la décision attaquée, indépendamment des chances de succès
+du recours sur le fond (ATF 142 III 218 consid. 2.8.1 ; ATF 135 I 187 consid. 2.2; ATF 126 I 19
+consid. 2d/bb). Selon la jurisprudence, sa violation peut cependant être réparée lorsque
+la partie lésée a la possibilité de s'exprimer devant une autorité de recours jouissant
+d'un plein pouvoir d'examen (ATF 135 I 279 consid. 2.6.1; ATF 133 I 201 consid. 2.2 ; ATF 118 Ib 111
+consid. 4b; ATF 116 Ia 94 consid. 2). Toutefois, une telle réparation doit rester l'exception et
+n'est admissible, en principe, que dans l'hypothèse d'une atteinte qui n'est pas particulièrement
+grave aux droits procéduraux de la partie lésée ; cela étant, une réparation
+de la violation du droit d’être entendu peut également se justifier, même en présence
+d'un vice grave, lorsque le renvoi constituerait une vaine formalité et aboutirait à un allongement
+inutile de la procédure, ce qui serait incompatible avec l'intérêt de la partie concernée
+à ce que sa cause soit tranchée dans un délai raisonnable (ATF 142 III 218 consid. 2.8.1
+; ATF 137 I 195 consid. 2.3.2 ; ATF 136 V 117 consid. 4.2.2.2; ATF 133 I 201 consid. 2.2).
+2.3
+En l’occurrence, l’ordonnance attaquée
+mentionne que les parties n’ont formulé aucune réquisition de preuve, alors que, lors
+de son dépôt de plainte déjà (P. 4), le plaignant avait requis l’audition
+de trois témoins, réquisition qu’il a réitérée dans le cadre du délai
+de prochaine clôture par courrier du 13 juin 2018 (P. 15). Dans ces conditions, c’est à
+raison que le recourant fait valoir que la Procureure ne s’est pas prononcée sur les réquisitions
+de preuve qu’il a formulées en temps utile. Par conséquent, ces réquisitions ont
+été, de fait, écartées, sans qu’un motif n’ait été exposé.
+Dans cette mesure, le droit d’être entendu du recourant a été violé. Pour ce
+premier motif, d’ordre formel, le recours doit être admis et l’ordonnance annulée.
+Le Ministère public n’expose pas, et on ne voit pas que ce vice puisse être réparé
+par la Cour de céans (cf. en outre infra consid. 4.5).
+3.
+3.1
+Le recourant invoque au surplus une constatation
+erronée des faits ainsi que la violation de l’art. 31 CP (Code pénal suisse du 21 décembre
+1937 ; RS 311.0). Il fait grief à la Procureure d’avoir retenu dans les faits qu’il
+avait eu connaissance de l’identité de la conductrice du véhicule automobile visée
+dans la plainte qu’il a déposée le 17 janvier 2018 à réception d’un courrier
+standard que la police lui aurait adressé le 10 octobre 2017, et non à réception du rapport
+de police daté du 9 novembre 2017 comme lui-même le prétendait. Il invoque que le fardeau
+de la preuve de la notification de ce courrier standard et de sa date incomberait à celui qui s’en
+prévaut, que le rapport complémentaire établi par la police au sujet de la date à
+laquelle ce courrier standard aurait été adressé aux parties ne serait pas probant, puisqu’il
+retient qu’il « appert que » la notice a « vraisemblablement » été
+envoyée aux deux intéressés, que cet envoi aurait été fait sans suivi de transmission,
+et que le gendarme qui aurait enregistré cette opération serait absent du service et injoignable
+pendant 12 mois, la seule notice d’échange figurant au dossier étant adressée à
+la conductrice visée dans la plainte, et non à lui-même.
+3.2
+Aux termes de l'art. 125 CP, celui qui, par négligence,
+aura fait subir à une personne une atteinte à l'intégrité corporelle ou à la
+santé sera, sur plainte, puni d'une peine privative de liberté de trois ans au plus ou d'une
+peine pécuniaire (al. 1). Si la lésion est grave, le délinquant sera poursuivi d'office
+(al. 2).
+Selon l’art. 31 CP, le droit de porter plainte se prescrit par trois mois. Le délai court
+du jour où l'ayant droit a eu connaissance de l'auteur de l'infraction. Aux termes de l'art. 110
+al. 6 CP, le jour est compté à raison de vingt-quatre heures consécutives, tandis que
+le mois et l'année sont comptés de quantième à quantième. Cette disposition
+s'applique notamment au délai de trois mois prévu par l’art. 31 CP (ATF 144 IV 161 consid.
+2). Le point de départ du délai est la connaissance de l'auteur et bien entendu également
+de l'infraction. La connaissance par l'ayant droit doit être sûre et certaine, de sorte qu'il
+puisse considérer qu'une procédure dirigée contre l'auteur aura de bonnes chances de succès
+(ATF 142 IV 129 consid. 4.3 ; ATF 126 IV 131 consid. 2a).
+De jurisprudence constante, le fardeau de la preuve
+de la notification et de la date d’un acte incombe en principe à l'autorité qui entend
+en tirer une conséquence juridique (ATF 136 V 295 consid. 5.9 et les nombreuses références).
+L'autorité supporte donc les conséquences de l'absence de preuve en ce sens que si la notification
+ou sa date sont contestées et qu'il existe effectivement un doute à ce sujet, il y a lieu de
+se fonder sur les déclarations du destinataire de l'envoi (ATF 129 I 8 consid. 2.2 p. 10; ATF 124
+V 400 consid. 2a p. 402 ; TF 6B_ 869/2014 du 18 septembre 2015 consid. 1.2). La preuve de la notification
+peut néanmoins résulter d'autres indices ou de l'ensemble des circonstances, par exemple un
+échange de correspondance ultérieur ou le comportement du destinataire (ATF 142 IV 125 consid.
+4.3).
+3.3
+En l’espèce, X.________ ne conteste
+pas la qualification de lésions corporelles simples retenue par la Procureure, ni par conséquent
+ne soutient que ces lésions seraient graves et que la poursuite devrait ainsi avoir lieu d’office.
+Il convient donc de partir du principe que les lésions en cause sont bien des lésions corporelles
+simples. Dans ces conditions, pour que la plainte – datée du 17 janvier 2018 mais déposée
+le 26 janvier 2018 (cf. P. 4 et 6) – ne soit pas tardive, le recourant doit avoir eu connaissance
+des coordonnées d’Y.________ après le 25 octobre 2017, et non avant cette date. Celui-ci
+prétend qu’il ne les a apprises qu’à réception du rapport de police, daté
+du 9 novembre 2017. Le 4 avril 2018, la Procureure a requis de la part de la police un rapport complémentaire
+indiquant à quelle date et par quel moyen celle-ci avait communiqué la notice d’échange
+de leurs coordonnées aux conducteurs impliqués, en particulier au recourant, et l’a invitée
+à joindre une copie de ladite notice et de la trace de son envoi (P. 8). Le rapport établi
+le 8 avril 2018 mentionne qu’à la date du 10 octobre 2017, le gendarme [...] a enregistré
+dans le Journal des événements de police la notice d’échange de coordonnées,
+que ce document a été envoyé sous pli simple et que ledit gendarme est absent pour 12
+mois et est injoignable ; l’auteur du rapport conclut qu’il est vraisemblable qu’un
+exemplaire a été envoyé à chacun des deux intéressés.
+Compte tenu du fait que l’autorité ne peut pas apporter la preuve que le pli contenant la
+notice en cause est bien parvenu au plaignant avant le 25 octobre 2017, le raisonnement fait dans l’ordonnance
+ne saurait être confirmé. En effet, il apparaît à ce stade que cette notice « a
+vraisemblablement » été transmise aux deux parties (P. 9 p. 2) et que – si
+tel a bien été le cas –, elle a été envoyée sous pli simple, donc sans
+possibilité d’apporter la preuve de la réception. Au surplus, le recourant était
+hospitalisé à cette date (P. 17/2/3). A ce stade, le recourant n’allègue pas clairement
+n’avoir pas reçu ce pli mais il prétend que le premier document contenant l’adresse
+de la conductrice qui lui aurait été transmis serait le rapport du 9 novembre 2017. Or,
+aucun élément au dossier ne permet d’admettre que le recourant a bel et bien réceptionné
+la notice d’échange et que cette réception aurait eu lieu avant le 25 octobre 2017. En
+conséquence, il existe un doute à ce sujet et il conviendra que le recourant soit formellement
+entendu sur ce point. Faute d’aveux, et en l’absence d’un autre élément –
+ressortant par exemple de l’audition du gendarme [...], qui aurait pu transmettre ces coordonnées
+oralement au recourant –, il conviendra d’admettre que la plainte a été déposée
+en temps utile.
+4.
+4.1
+Le recourant fait enfin grief à la Procureure
+d’avoir violé l’art. 319 CPP et le principe « in dubio pro duriore » en retenant
+que la conductrice du véhicule qui le précédait n’avait adopté aucun comportement
+fautif. En particulier, il conteste les faits tels qu’ils ressortent du rapport de police, selon
+lesquels il aurait circulé à une vitesse inadaptée aux conditions de la route et du moment
+(soleil rasant), été inattentif et perdu la maîtrise de son véhicule. Selon lui,
+ladite conductrice aurait brusquement freiné en raison du soleil rasant et aurait créé
+un état de fait dangereux en immobilisant complètement son véhicule au milieu de la chaussée
+; or, selon lui toujours, le faible trafic ne justifiait en rien une immobilisation complète du
+véhicule au milieu de la chaussée ; l’autoroute était peu chargée en ce samedi
+matin ; un témoin aurait du reste vu un « nuage de fumée provenant de la gomme des pneumatiques
+» de la voiture de la prévenue ; le recourant considère qu’il ne pouvait pas compter
+sur la présence d’un véhicule totalement arrêté au milieu de la chaussée.
+4.2
+Selon l'art. 319 al. 1 CPP, le ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+Le principe "in dubio pro duriore" découle du principe de la légalité (art. 5
+al. 1 Cst. et 2 al. 2 CPP en relation avec les art. 319 al. 1 et 324 CPP ; ATF 138 IV 86 consid.
+4.2 p. 91). Il signifie qu'en principe, un classement ou une non-entrée en matière ne peuvent
+être prononcés par le ministère public que lorsqu'il apparaît clairement que les
+faits ne sont pas punissables ou que les conditions à la poursuite pénale ne sont pas remplies.
+Le ministère public et l'autorité de recours disposent, dans ce cadre, d'un pouvoir d'appréciation
+que le Tribunal fédéral revoit avec retenue. La procédure doit se poursuivre lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement ou lorsque les probabilités d'acquittement
+et de condamnation apparaissent équivalentes, en particulier en présence d'une infraction grave
+(ATF 138 IV 86 consid. 4.1.2 p. 91; TF 6B_849/2018 du 9 novembre 2018 consid. 3.1). En effet, en cas
+de doute s'agissant de la situation factuelle ou juridique, ce n'est pas à l'autorité d'instruction
+ou d'accusation mais au juge matériellement compétent qu'il appartient de se prononcer (ATF
+143 IV 241 consid. 2.2.1 p. 243; 138 IV 86 consid. 4.1.2 p. 91 et les références citées).
+Enfin, le constat selon lequel aucun soupçon justifiant une mise en accusation n’est établi
+(art. 319 al. 1 let. a CPP) suppose que le Ministère public ait préalablement procédé
+à toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 19 décembre 2018/989 ;
+CREP 10 mai 2016/305 et les références citées).
+4.3
+Agit par négligence au sens de l’art.
+125 CP susmentionné (cf. consid. 3.2.) quiconque, par une imprévoyance coupable,
+commet un crime ou un délit sans se rendre compte des conséquences de son acte ou sans en tenir
+compte. L'imprévoyance est coupable quand l'auteur n'a pas usé des précautions commandées
+par les circonstances et par sa situation personnelle (art. 12 al. 3 CP).
+Deux conditions doivent être remplies pour qu'il y ait négligence. En premier lieu, il faut
+que l'auteur viole les règles de la prudence, c'est-à-dire le devoir général de diligence
+institué par la loi pénale, qui interdit de mettre en danger les biens d'autrui pénalement
+protégés contre les atteintes involontaires. Un comportement dépassant les limites du
+risque admissible viole le devoir de prudence s'il apparaît qu'au moment des faits, son auteur aurait
+dû, compte tenu de ses connaissances et de ses capacités, se rendre compte de la mise en danger
+d'autrui (ATF 136 IV 76 consid. 2.3.1 ; TF 6B_631/2018  du 24 octobre 2018 consid. 1). Pour déterminer
+le contenu du devoir de prudence, il faut donc se demander si une personne raisonnable, dans la même
+situation et avec les mêmes aptitudes que l'auteur, aurait pu prévoir, dans les grandes lignes,
+le déroulement des événements et, le cas échéant, quelles mesures elle pouvait
+prendre pour éviter la survenance du résultat dommageable (ATF 134 IV 255 consid. 4.2.3 et
+les références citées). Lorsque des prescriptions légales ou administratives ont
+été édictées dans un but de prévention des accidents, ou lorsque des règles
+analogues émanant d'associations spécialisées sont généralement reconnues, leur
+violation fait présumer la violation du devoir général de prudence (ATF 143 IV 138 consid.
+2.1; ATF 135 IV 56 consid. 2.1 p. 64; 134 IV 255 consid. 4.2.3 p. 262). En second lieu, la violation
+du devoir de prudence doit être fautive, c'est-à-dire qu'il faut pouvoir reprocher à l'auteur
+une inattention ou un manque d'effort blâmable (ATF 135 IV 56 consid. 2.1 p. 64; 134 IV 255 consid.
+4.2.3 p. 262 et les références citées).
+Il faut en outre qu'il existe un rapport de causalité entre la violation fautive du devoir de prudence
+et les lésions de la victime. Les concepts de causalité naturelle et adéquate ont été
+rappelés récemment aux ATF 143 III 242 consid. 3.7 p. 249 s. et ont notamment été
+précisés aux ATF 133 IV 158 consid. 6.1 p. 167 s. et 131 IV 145 consid. 5 p. 147 ss, auxquels
+on peut se référer. Il y a rupture du lien de causalité adéquate, l'enchaînement
+des faits perdant sa portée juridique, si une autre cause concomitante - par exemple une force naturelle,
+le comportement de la victime ou celui d'un tiers - propre au cas d'espèce constitue une circonstance
+tout à fait exceptionnelle ou apparaît si extraordinaire que l'on ne pouvait pas s'y attendre.
+Cependant, cette imprévisibilité de l'acte concurrent ne suffit pas en soi à interrompre
+le lien de causalité adéquate. Il faut encore que cet acte ait une importance telle qu'il s'impose
+comme la cause la plus probable et la plus immédiate de l'événement considéré,
+reléguant à l'arrière-plan tous les autres facteurs qui ont contribué à amener
+celui-ci, notamment le comportement de l'auteur (ATF 134 IV 255 consid. 4.4.2 p. 265 s.; 133 IV 158 consid.
+6.1 p. 168; 131 IV 145 consid. 5.2 p. 148; cf. aussi ATF 143 III 242 consid. 3.7 p. 250).
+4.4
+4.4.1
+Aux termes de l'art. 90 al. 1 de la loi fédérale
+sur la circulation routière (LCR; RS 741.01), celui qui viole les règles de la circulation
+prévues par cette loi ou par les dispositions d'exécution émanant du Conseil fédéral
+est puni de l'amende. Selon l'art. 90 al. 2 LCR, celui qui, par une violation grave d'une règle
+de la circulation, crée un sérieux danger pour la sécurité d'autrui ou en prend le
+risque est puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire.
+L'art. 26 al. 1 LCR dispose que chacun doit se comporter, dans la circulation, de manière à
+ne pas gêner ni mettre en danger ceux qui utilisent la route conformément aux règles établies.
+La jurisprudence a déduit de cette règle le principe de la confiance, qui permet à l'usager
+qui se comporte réglementairement d'attendre des autres usagers, aussi longtemps que des circonstances
+particulières ne doivent pas l'en dissuader, qu'ils se comportent également de manière
+conforme aux règles de la circulation, c'est-à-dire ne le gênent ni ne le mettent en danger
+(ATF 143 IV 500 consid. 1.2.4 p. 505 s.; 143 IV 138 consid. 2.1 p. 140; 125 IV 83 consid. 2b p.
+87 et les références citées). Seul celui qui s'est comporté réglementairement
+peut invoquer le principe de la confiance. Celui qui viole des règles de la circulation et crée
+ainsi une situation confuse ou dangereuse ne peut pas attendre des autres qu'ils parent à ce danger
+par une attention accrue. Cette limitation n'est cependant plus applicable lorsque la question de savoir
+si l'usager a violé une règle de la circulation dépend précisément de la possibilité
+qu'il a d'invoquer le principe de la confiance, en d'autres termes, si et dans quelle mesure il pouvait
+se fonder sur le comportement de l'autre usager (ATF 143 IV 500 consid. 1.2.4 p. 506 ; ATF 129 IV
+282 consid. 2.2.1 p. 285 et les références citées).
+4.4.2
+D'après l'art. 31 al. 1 LCR, le conducteur
+devra rester constamment maître de son véhicule de façon à pouvoir se conformer aux
+devoirs de la prudence. L'art. 32 al. 1 LCR prévoit que la vitesse doit toujours être adaptée
+aux circonstances, notamment aux particularités du véhicule et du chargement, ainsi qu'aux
+conditions de la route, de la circulation et de la visibilité. Aux endroits où son véhicule
+pourrait gêner la circulation, le conducteur est tenu de circuler lentement et, s'il le faut, de
+s'arrêter, notamment aux endroits où la visibilité n'est pas bonne, aux intersections
+qu'il ne peut embrasser du regard, ainsi qu'aux passages à niveau. Cette règle implique notamment
+qu'on ne peut circuler à la vitesse maximale autorisée que si les conditions de la route, du
+trafic et de visibilité sont favorables (ATF 121 IV 286 consid. 4b p. 291; plus récemment TF
+6B_23/2016 du 9 décembre 2016 consid. 3.1 ; TF 6B_1247/2013 du 13 mars 2014 consid. 3.1). La violation
+de l'art. 32 al. 1 LCR n'est pas subordonnée à la condition de la perte de maîtrise du
+véhicule (TF 6B_23/2016 du 9 décembre 2016 consid. 3.1 ; TF 4A_76/2009 du 6 avril 2009 consid.
+3.2). En outre, l'art. 4 al. 1 de l'ordonnance sur les règles de la circulation routière (OCR;
+RS 741.11) précise que le conducteur ne doit pas circuler à une vitesse qui l'empêcherait
+de s'arrêter sur la distance à laquelle porte sa visibilité ; lorsque le croisement
+est malaisé, il doit pouvoir s'arrêter sur la moitié de cette distance. Le principe de
+la possibilité d’arrêt sur la distance de visibilité, posé par l’art.
+4 al. 1 OCR, est applicable, de jour, dans les circonstances les plus diverses, notamment lorsque les
+conditions atmosphériques réduisent la visibilité ; ainsi, en cas de forte pluie, de brouillard,
+de fumée rabattue sur la route ou d’éblouissement par le soleil (Bussy/Rusconi/Jeanneret/Kuhn/Mizel/Müller,
+Code suisse de la circulation routière commenté, 4e éd. 2015, n. 1.18 et 1.20 pp. 400
+s. et les réf. cit.) ; en particulier, en cas d’éblouissement, le conducteur ébloui
+doit adapter sa vitesse au fait qu’il voit moins loin que normalement et, s’il est aveuglé
+au point de ne plus rien voir, il doit immédiatement s’arrêter et ne continuer que s’il
+voit suffisamment loin (Bussy et alii, op. et loc. cit. ; ATF 77 IV 100)
+L'art. 34 al. 4 LCR prévoit que le conducteur doit observer une distance suffisante notamment lorsque
+des véhicules se suivent. Cette disposition est concrétisée à l'art. 12 al. 1 OCR
+selon lequel lorsque des véhicules se suivent, le conducteur se tiendra à une distance suffisante
+du véhicule qui le précède, afin de pouvoir s'arrêter à temps en cas de freinage
+inattendu. L'irrespect d'une distance suffisante constitue une violation simple (art. 90 al. 1 LCR),
+le cas échéant grave (art. 90 al. 2 LCR) des règles de la circulation. Ce qu'il faut
+comprendre par "distance suffisante" au sens de l'art. 34 al. 4 LCR doit être déterminé
+au regard de toutes les circonstances, telles en particulier que la configuration des lieux, la densité
+du trafic, la visibilité et le véhicule en cause (TF 6B_110/2017 du 12 octobre 2017 consid.
+2.1). Il n'y a pas de règle générale développée par la jurisprudence qui indiquerait
+à partir de quelle distance une violation des règles de la circulation pourrait être retenue.
+Les règles des deux secondes ou du "demi compteur" (correspondant à un intervalle
+de 1.8 secondes) constituent cependant des standards minimaux habituellement reconnus (ATF 131 IV 133
+consid. 3.1 p. 135 s. ; TF 6B_110/2017 du 12 octobre 2017 consid. 2.1).
+Par principe, l'automobiliste qui circule devant n'a pas à tenir compte de la possible inattention
+de celui qui le suit (ATF 115 IV 248 consid. 3). Il est néanmoins tenu à certaines obligations
+envers le véhicule qui suit. Ainsi, l’art. 37 al. 1 LCR prévoit que le conducteur
+qui veut s'arrêter aura égard, dans la mesure du possible, aux véhicules qui le suivent.
+D’après la jurisprudence, il résulte de la lettre de cette disposition qu’elle
+ne concerne que le cas d’un arrêt volontaire, et par conséquent prévisible ; tel
+n’est pas le cas d’un conducteur qui est contraint de freiner brusquement en raison de circonstances
+externes, par exemple en raison d’un véhicule circulant devant lui, ou de l’apparition
+soudaine d’un obstacle ; dans une telle situation qui oblige le conducteur à concentrer toute
+son attention vers l’avant, on ne saurait exiger de celui-ci qu’il ne freine pas brusquement
+ou qu’après s’être assuré dans le rétroviseur qu’il ne se trouve
+pas derrière lui un véhicule qu’il pourrait éventuellement mettre en danger (ATF
+115 IV 248 consid. 4, JdT 1989 I 693 ss, spéc. 696).
+L’art. 12 al. 2 OCR précise que, sauf nécessité, les coups de frein et arrêts
+brusques ne sont admis que si aucun véhicule ne suit. D’après la jurisprudence, toutefois,
+la notion de « nécessité » figurant à l’art. 12 al. 2 OCR doit être
+interprétée largement et au vu de la jurisprudence rendue à propos de l’art. 37
+al. 1 LCR, qu’il concrétise : il s’ensuit que cette disposition interdit exclusivement
+l’arrêt brusque et inutile (ATF 115 IV 248 consid. 4), ce qui n’est pas le cas si un
+obstacle (par exemple un animal) se présente devant le véhicule (cf. ATF 115 IV 248 consid.
+5), mais ce qui est le cas si le véhicule ralentit ou s’arrête brusquement sans raison
+ou par chicane (ATF 137 IV 326 consid. 3.3, JdT 2012 IV 279 ; ATF 117 IV 504 consid. 1, JdT 1991 I 694
+; TF 6B_797/2014 du 23 décembre 2014 consid. 1) ; la question de savoir si un freinage brusque a
+eu lieu sans motif ne peut pas être résolue de manière générale, mais uniquement
+au regard des circonstances concrètes du cas d’espèce (ATF 115 IV 248 consid. 4).
+4.5
+En l’espèce, l’ordonnance attaquée
+ne contient aucun état de fait, et se réfère (en une ligne) au rapport de la gendarmerie
+établi au moment de l’accident pour retenir que celui-ci ne met en évidence aucun comportement
+fautif de la part de la prévenue. Ce faisant, cette ordonnance ne répond ni formellement ni
+matériellement au grief formulé par le recourant dans sa plainte au sujet de la prévenue.
+En outre, la Procureure n’a pas procédé à une instruction au sens des art. 308
+à 318 CPP, ni a fortiori à une instruction complète destinée à établir
+les faits et l’appréciation juridique du cas, diligentée jusqu’à son terme,
+comme il sied en matière de classement (cf. ATF 144 IV 81 consid. 2.3.3), mais s’est uniquement
+fondée sur le rapport établi par la police, ce qui signifie qu’elle a dans les faits
+rendu une ordonnance de non-entrée en matière. Le seul acte n’entrant pas dans la procédure
+habituelle précédant une ordonnance de non-entrée en matière consiste en le délai
+de prochaine clôture octroyé aux parties, étant toutefois relevé qu’il n’a
+pas été tenu compte des réquisitions formulées par le recourant dans ce cadre (cf. consid.
+2.3 ci-dessus). Enfin, l’ordonnance attaquée ne contient aucune appréciation juridique,
+notamment sur les art. 37 al. 1 LCR (relatif aux égards que doit le véhicule qui veut s’arrêter
+aux véhicules qui suivent) et 12 al. 2 OCR (sur les coups de frein et arrêts brusques) et la
+jurisprudence précitée.
+Or, il semble ressortir du rapport de police que la prévenue a freiné brusquement, puis s’est
+arrêtée complètement, sur l’autoroute. Certes, il semblerait également possible
+de retenir, sur le vu des déclarations reproduites succinctement dans ledit rapport, que cet arrêt
+brusque était justifié par le fait que l’intéressée avait été éblouie
+par le soleil, ce qui pourrait constituer un motif permettant de le justifier. Toutefois, comme relevé
+dans la jurisprudence précitée, ces questions ne peuvent pas être résolues de manière
+générale et dans l’abstrait, mais doivent être examinées au regard des circonstances
+concrètes du cas. Il incombera donc au Ministère public d’instruire celles-ci, notamment
+en auditionnant les quatre personnes mentionnées dans le rapport de police, voire les deux autres
+témoins proposés par le recourant s’ils ont assisté aux faits. Dans le cadre de
+cette instruction, il lui incombera également d’examiner l’incidence d’une éventuelle
+violation des règles de la circulation routière par la prévenue, au sens de l’art.
+90 al. 1 LCR, sur l’accident. En effet, le recourant roulait apparemment sur la voie de gauche,
+et la prévenue sur celle du milieu. On peine à comprendre, dans ces circonstances, comment
+le fait qu’elle se soit arrêtée sur la voie centrale, même par hypothèse intempestivement,
+ait pu être en lien de causalité avec les lésions corporelles subies par le recourant.
+Il est vraisemblable qu’en réalité, si celui-ci est entré en collision avec l’arrière
+gauche du véhicule de la prévenue, et a chuté sur la voie de gauche, c’est parce
+que sa vitesse était inadaptée aux circonstances (100 km/h de son propre aveu alors qu’il
+avait baissé sa visière en raison du soleil), qu’il a été inattentif et a perdu
+la maîtrise de son véhicule. En l’état, cependant, faute de tout exposé factuel
+et de raisonnement juridique dans l’ordonnance attaquée, il n’est pas possible à
+la cour de céans d’exclure la violation par la prévenue d’une règle de la
+circulation routière en lien avec les lésions corporelles subies par le recourant.
+Quoi qu’il en soit, en l’état et faute de tout exposé factuel et de raisonnement
+juridique dans l’ordonnance attaquée, il n’est pas possible pour la Cour de céans
+d’exclure la violation par la prévenue d’une règle de la circulation routière
+en lien avec les lésions corporelles subies par le recourant.
+5.
+En définitive, le recours doit être
+admis, l’ordonnance du 4 juillet 2018 annulée et le dossier de la cause renvoyé au Ministère
+public de l'arrondissement de Lausanne pour qu’il procède dans le sens des considérants
+qui précèdent.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 1’560 fr (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés à la charge
+de l’Etat (art. 428 al. 1 CPP).
+Le recourant, qui a procédé avec l’assistance d’un avocat de choix et qui a obtenu
+gain de cause, a droit à une indemnité pour la procédure de recours (art. 436 al. 1 et
+433 al. 1 CPP). Au vu du mémoire produit, cette indemnité sera fixée à 900 fr., soit
+3 heures d’activité au tarif horaire d’avocat de 300 fr. (art. 26a al. 3 TFIP), plus
+un montant correspondant à la TVA – étant rappelé que si les indemnités au
+sens des art. 429 ss CPP ne sont pas soumises à la TVA (art. 18 al. 2 let. i LTVA [loi fédérale
+régissant la taxe sur la valeur ajoutée du 12 juin 2009 ; RS 641.20]), il convient de tenir
+compte du fait que les honoraires payés par la partie à son avocat sont quant à eux soumis
+à la TVA (CREP 1
+er
+mars 2017/904) –, par 72 fr., ce qui représente un total de 972 francs. Elle sera laissée
+à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 4 juillet 2018 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de Lausanne pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par  1'650
+fr. (mille six cent cinquante francs), sont mis à la charge de l’Etat.
+V.
+Une indemnité de 972 fr. (neuf cent septante-deux
+francs) est allouée à X.________ pour les dépenses occasionnées par la procédure
+de recours, à la charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jacques Roulet, avocat (pour X.________),
+-
+Mme Y.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
