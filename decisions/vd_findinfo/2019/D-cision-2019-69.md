@@ -1,0 +1,480 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___69"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 69"
+decided: "2019-01-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7000413"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-107.md", "switzerland/bund/acts/312.0/art-118.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md"]
+---
+
+# VD Findinfo Décision / 2019 / 69
+
+## Regeste
+
+RÉCUSATION, MINISTÈRE PUBLIC, DÉCISION D'IRRECEVABILITÉ | 56 CPP (CH), 59 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.01.2019 Décision / 2019 / 69
+
+RÉCUSATION, MINISTÈRE PUBLIC, DÉCISION D'IRRECEVABILITÉ | 56 CPP (CH), 59 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+58
+PE12.007763-ACP
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 24 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Abrecht, juges
+Greffier
+:              M.
+Magnin
+*****
+Art.
+56 ss CPP
+Statuant sur la requête de récusation déposée le 18 janvier 2019 par
+K.________
+à l'encontre de
+M.________
+,
+Procureur du Ministère public [...], dans la cause
+n° PE12.007763-ACP
+pendante devant le Tribunal criminel de l’arrondissement de l’Est vaudois, la Chambre des
+recours pénale considère :
+En fait :
+A.
+a)
+Le 13 septembre 2012, le Ministère public [...], a, sur la base des faits dénoncés par
+[...], [...] et [...] dans leur plainte du 26 avril 2012 et son complément du 7 juin 2012 et
+du rapport de police du 8 septembre 2012, ouvert une instruction pénale contre K.________.
+b)
+Dans le cadre de cette procédure, et à l’appui de son recours du 30 avril 2015 contre
+un refus, par le Tribunal des mesures de contrainte, d’ordonner sa libération de la détention
+provisoire, K.________ a demandé la récusation du Procureur M.________ (P. 271). Dans sa requête,
+il a relevé que, pour tenter de justifier son incarcération, le Procureur n’avait pas
+eu d’autre solution que de solliciter le dépôt de plaintes supplémentaires afin
+de tenter d’accréditer la thèse soutenue par ce dernier. A l’appui de son grief,
+il a mentionné que le magistrat précité avait indiqué à des tiers à la
+procédure qu’ils avaient la possibilité de déposer plainte, soit lors des auditions
+de [...] (PV aud. 4), de [...] (PV aud. 7), de [...] (PV aud. 9) et de [...] (PV aud 11), lors d’une
+réponse écrite à la prénommée (P. 261) et à l’occasion de contacts
+téléphoniques avec [...] le 25 mars 2015 et avec [...] le 1
+er
+avril 2015 (cf. procès-verbal des opérations).
+c)
+Dans sa prise de position du 1
+er
+mai 2015 (P. 272), le Procureur M.________ a indiqué que la communication qu’il avait faites
+aux individus précités avait été rendue nécessaire au regard de l’art.
+118 al. 4 CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) et s’avérait
+d’autant plus justifiée que le dossier contenait plusieurs éléments permettant de
+craindre que certains des intéressés se trouvaient sous l’influence du prévenu,
+ce dernier étant allé jusqu’à rédiger la lettre requérant le report de
+leur audition.
+d)
+Par arrêt du 5 mai 2015, la Chambre des recours pénale du Tribunal cantonal a rejeté la
+requête de récusation présentée le 30 avril 2015 par K.________.
+L’autorité de céans a retenu ce qui suit :
+« K.________ reproche au Procureur de s'être forgé une opinion définitive quant
+à sa culpabilité dès le début de l'affaire. Contrairement à ce que prétend
+le prénommé, les questions posées aux personnes entendues par le Procureur ne permettent
+pas de suspecter ce dernier de parti pris ; elles s'inscrivent dans la conduite normale de la procédure
+et des auditions de la part d’un magistrat instructeur. Pour le surplus, il y a lieu de se référer
+à la prise de position détaillée et convaincante du Procureur (P. 272). En effet, comme
+celui-ci le relève à juste titre en référence à la jurisprudence, le magistrat
+instructeur ne fait pas preuve de partialité lorsqu'il fait état de ses convictions à
+un moment donné de l'enquête ; cela peut au contraire s'avérer nécessaire à
+l'élucidation des faits. Le magistrat instructeur doit ainsi se voir reconnaître, dans le cadre
+de ses investigations, une certaine liberté, limitée par l'interdiction des procédés
+déloyaux et la nécessité de ne point avantager une partie au détriment d'une autre.
+Les déclarations du magistrat doivent ainsi être interprétées de manière objective,
+en tenant compte de leur contexte, du ton sur lequel elles sont faites, et du but apparemment recherché
+par leur auteur (TF 1B_229/2009 c. 3.2 et la référence citée; cf. c. 2.1 supra). Or en
+l'occurrence, si le Ministère public a fait part de ses soupçons aux clients du prévenu,
+on ne saurait lui reprocher d'avoir considéré "sans équivoque qu'ils étaient
+victimes d'escroquerie", comme le fait valoir le requérant. Par ailleurs, c'est à tort
+que ce dernier soutient que le Procureur aurait "interdit à ces personnes de collaborer avec
+Monsieur [...] en leur proposant si elles ne voulaient pas déposer une plainte" (recours, p.
+2) ; le magistrat s'est en revanche limité à rappeler aux intéressés leur droit,
+le cas échéant, de déposer plainte, en réponse à leurs courriers (P. 261) ou
+à leurs appels téléphoniques (PV des opérations, pp. 36 et 37) ou encore lors de
+leurs auditions (PV aud. 4, lignes 179 et 180 ; PV aud. 7, lignes 216 à 218). Enfin, on ne
+saurait retenir que l'enquête a été menée "exclusivement à charge",
+comme le relève le requérant, dans mesure où le prévenu a, à chaque fois, été
+invité à se déterminer sur les éléments à disposition de la direction de
+la procédure, notamment sur les résultats des analyses financières (cf. P. 52, 56, 67,
+74, 75, 77, 79) ; cela ressort d'ailleurs de son audition d'arrestation, au cours de laquelle le
+prévenu a eu l'occasion de se déterminer sur de nombreuses questions (PV aud. 10). »
+.
+e)
+Par courrier du 26 juin 2015, [...], [...] et [...] ont tous trois déposé plainte contre K.________,
+par l’intermédiaire de l’avocat [...] (P. 300).
+f)
+Par la suite, le Procureur M.________ s’est fondé sur ces nouvelles plaintes pour la prolongation
+de la détention provisoire du prévenu (cf. not. P. 328, P. 404, P. 510, P. 581, P. 622).
+g)
+Par acte d’accusation du 20 février 2017, le Ministère public [...] a mis K.________
+en accusation devant le Tribunal criminel de l’arrondissement de l’Est vaudois pour escroquerie
+par métier, faux dans les titres, gestion déloyale aggravée, gestion fautive et soustraction
+d’objets mis sous main de justice.
+h)
+Fixés à l’origine au 10 juillet 2017, les débats ont été renvoyés
+à plusieurs reprises. L’ouverture des débats est désormais fixée au 28 janvier
+2019.
+i)
+Le 14 janvier 2019, [...] a transmis à K.________ une correspondance que lui avait adressée
+son conseil, Me [...], en date du 22 juin 2015 (P. 929). Dans ce courrier, daté du 22 juin 2015,
+cet avocat avait écrit ce qui suit :
+« [...]
+le temps presse car le Procureur a indiqué à ma collaboratrice, Me [...], que l’instruction
+de la cause était bientôt terminée et qu’il allait prochainement clôturer la
+phase préliminaire, soit la phase d’enquête. ».
+B.
+a)
+Le 18 janvier 2019, K.________ a demandé
+la récusation du Procureur M.________ auprès du Tribunal criminel de l’arrondissement
+de l’Est vaudois (P. 936).
+Le 21 janvier 2019, le Procureur M.________, notamment, a déposé des déterminations (P.
+939).
+b)
+Par prononcé du 21 janvier 2019, la Présidente du Tribunal criminel de l’arrondissement
+de l’Est vaudois a rejeté la requête de récusation du Procureur M.________ formulée
+le 18 janvier 2019 par K.________, dans la mesure où elle était recevable (I), et a dit que
+les frais, arrêtés à 200 fr., suivaient le sort de la cause (II).
+C.
+Par acte du 22 janvier 2019, K.________ a interjeté recours contre ce prononcé devant la Chambre
+des recours pénale. Il a pris, avec suite de frais et dépens, les conclusions suivantes :
+« [...]
+Principalement,
+II.              Le prononcé rendu
+le 21 janvier 2019 par la Présidente du Tribunal criminel de l’arrondissement de l’Est
+vaudois dans la cause PE12.007763-ACP est modifié comme il suit :
+-
+en son chiffre I, en ce sens que
+- la demande de récusation déposée à l’encontre du Procureur M.________ est
+admise ;
+- le dossier de la cause est transmis au Procureur général du canton de Vaud pour nouvelle
+attribution ;
+- les actes accomplis par le Procureur M.________ sont annulés et seront répétés
+par le nouveau magistrat ;
+-
+en son chiffre II, en ce sens que les frais de justice sont laissés à la charge de l’Etat.
+Subsidiairement,
+III.              La demande de récusation
+déposée à l’encontre du Procureur M.________ est admise, le dossier de la cause
+étant transmis au Procureur général du canton de Vaud pour nouvelle attribution et les
+actes accomplis par le Procureur M.________ sont annulés et répétés par le nouveau
+magistrat désigné.
+Plus subsidiairement,
+IV.              Le prononcé du
+21 janvier 2019 par la Présidente du Tribunal criminel de l’arrondissement de l’Est
+vaudois dans la cause PE12.007763-ACP est annulé, la cause étant renvoyée à l’autorité
+de première instance pour nouvelle décision dans le sens des considérants. »
+.
+Par lettre du 22 janvier 2019, la Chambre des recours pénale a imparti au délai au Ministère
+public [...], et au Tribunal criminel de l’arrondissement de l’Est vaudois pour déposer
+des déterminations.
+Par courrier du 23 janvier 2019, la Présidente du Tribunal criminel de l’arrondissement de
+l’Est vaudois a conclu au rejet de la requête de récusation déposée par K.________
+pour les motifs développés dans sa décision du 21 janvier 2019.
+Le même jour, le Procureur M.________ a déposé des déterminations. Il s’en
+est remis à justice s’agissant de la recevabilité du recours déposé par K.________
+et a conclu au rejet de ce recours sur le fond.
+Toujours le 23 janvier 2019, K.________ a déposé des déterminations au pied desquelles
+il a maintenu ses conclusions.
+Par lettre du 23 janvier 2019, [...], [...] et [...] ont déposé des déterminations.
+En droit
+:
+1.
+1.1
+K.________ dépose un recours contre le prononcé
+rendu le 21 janvier 2019 par la Présidente du Tribunal criminel de l’arrondissement de
+l’Est vaudois. Dans sa conclusion principale, il requiert la modification de ce prononcé en
+ce sens que sa demande de récusation soit admise. A cet égard, il soutient, dans ses moyens,
+que sa demande de récusation serait recevable, dès lors que l’autorité de première
+instance est entrée en matière sur celle-ci et l’a examinée sur le fond. De plus,
+il expose que la Présidente du Tribunal criminel de l’arrondissement de l’Est vaudois
+aurait dû transmettre d’office sa demande de récusation du 18 janvier 2019 à
+la Chambre des recours pénale.
+1.2
+Selon l’art. 58 al. 1 CPP, lorsqu’une partie entend demander la récusation d’une
+personne qui exerce une fonction au sein d’une autorité pénale, elle doit présenter
+sans délai à la direction de la procédure une demande en ce sens, dès qu’elle
+a connaissance du motif de récusation ; les faits sur lesquels elle fonde sa demande doivent
+être rendus plausibles.
+L’art. 59 al. 1 let. b prévoit notamment que, lorsqu’un motif de récusation au
+sens de l’art. 56, let. a ou f, est invoqué, le litige est tranché sans administration
+supplémentaire de preuves et définitivement par l’autorité de recours, lorsque le
+Ministère public, les autorités pénales compétentes en matière de contravention
+et les tribunaux de première instance sont concernés.
+Selon le Tribunal fédéral, le tribunal de première instance saisi d’une demande
+de récusation en sa qualité de direction de la procédure doit transmettre cette demande
+à l’autorité de recours comme objet de sa compétence (cf. TF 1B_148/2017 du 6 juillet
+2017 consid. 2.2, concernant la récusation d’un expert, et JdT 2014 III 75).
+1.3
+En l’espèce, K.________ a présenté sa demande de récusation du 18 janvier
+2019 visant le Procureur M.________ devant le tribunal de première instance, soit la direction de
+la procédure. Dans la mesure où cette demande visait un représentant du Ministère
+public, la Présidente du Tribunal criminel n’était pas compétente pour statuer elle-même
+sur cette demande de récusation (cf. art. 59 al. 1 let. b CPP). En effet, en application de
+la jurisprudence, elle devait transmettre cette demande à la Chambre des recours pénale du
+Tribunal cantonal comme objet de sa compétence et laisser le soin à cette autorité de
+statuer sur ladite demande.
+Dans ces circonstances, le prononcé rendu le 21 janvier 2019 doit être annulé.
+1.4
+A titre subsidiaire, K.________ a conclu, devant l’autorité de céans, à l’admission
+de sa demande de récusation déposée à l’encontre du Procureur M.________.
+Partant, il y a lieu d’examiner les motifs exposés à l’appui de cette demande de
+récusation.
+2.
+2.1
+Selon l’art. 56 let. f CPP, toute personne exerçant une fonction au sein d’une autorité
+pénale est tenue de se récuser lorsque d’autres motifs que ceux énumérés
+aux lettres a à e, notamment un rapport d’amitié étroit ou d’inimitié
+avec une partie ou son conseil juridique, sont de nature à la rendre suspecte de prévention.
+L’art. 56 let. f CPP a la portée d’une clause générale recouvrant tous les
+motifs de récusation non expressément prévus ; elle correspond à la garantie
+d’un tribunal indépendant et impartial instituée par les art. 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 par. 1 CEDH
+(Convention de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre
+1950 ; RS 0.101) (ATF 143 IV 69 consid. 3.2).
+L'art. 56 let. f CPP n'impose pas la récusation seulement lorsqu'une prévention effective du
+magistrat est établie, car une disposition interne de sa part ne peut guère être prouvée.
+Il suffit que les circonstances donnent l'apparence de la prévention et fassent redouter une activité
+partiale du magistrat. Seules les circonstances constatées objectivement doivent être prises
+en considération. Les impressions purement individuelles d'une des parties au procès ne sont
+pas décisives (ATF 143 IV 69 consid. 3.2 ; ATF 141 IV 178 consid. 3.2.1, JdT 2016 IV 247 ;
+ATF 138 IV 142 consid. 2.1).
+Dans le cadre de l'instruction, le Ministère public est tenu à une certaine impartialité
+même s'il peut être amené, provisoirement du moins, à adopter une attitude plus orientée
+à l'égard du prévenu ou à faire état de ses convictions à un moment donné
+de l'enquête. Cela est en particulier le cas lorsqu'il décide de l'ouverture d'une instruction
+(qui suppose l'existence de soupçons suffisants au sens de l'art. 309 al. 1 CPP) ou lorsqu'il ordonne
+des mesures de contrainte. Tout en disposant, dans le cadre de ses investigations, d'une certaine liberté,
+le magistrat reste tenu à un devoir de réserve. Il doit s'abstenir de tout procédé
+déloyal, instruire tant à charge qu'à décharge et ne point avantager une partie au
+détriment d'une autre (ATF 141 IV 178 consid. 3.2.2, JdT 2016 IV 247 ; ATF 138 IV 142 consid. 2.1 ;
+TF 1B_46/2016 du 29 avril 2016 consid. 3.1 et les références citées). Après la rédaction
+de l’acte d’accusation, le Ministère public devient partie aux débats et n’est
+plus tenu à l’impartialité ; dans ce cadre-là, ni les art. 29 et 30 Cst. ni
+l’art. 6 par. 1 CEDH n’accordent au prévenu une protection particulière lui permettant
+de se plaindre de l’attitude du Ministère public durant les débats (Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 29 ad art. 56 CPP et les arrêts cités).
+Lorsqu'un justiciable est insatisfait d'une décision ou d'une procédure judiciaire, il lui
+est loisible de la contester par les voies de recours prévues à cet effet. La procédure
+de récusation n'a pas pour objet de vérifier la légalité ou l'opportunité des
+actes du magistrat qu'elle vise ; elle tend seulement à vérifier si celui-ci est impartial.
+Selon la jurisprudence, des décisions ou des actes de procédure qui se révéleraient
+erronés ne fondent pas en soi une apparence objective de prévention ; seules des erreurs particulièrement
+lourdes ou répétées, constitutives de violations graves des devoirs du magistrat, peuvent
+fonder une suspicion de partialité, pour autant que les circonstances dénotent que le juge
+est prévenu ou justifient à tout le moins objectivement l'apparence de prévention (ATF
+141 IV 178 consid. 3.2.3, JdT 2016 IV 247 ; ATF 138 IV 142 consid. 2.3). De même, la garantie d’un
+juge impartial ne commande pas la récusation d’un juge au simple motif qu’il a, dans
+une procédure antérieure – voire dans la même affaire –, tranché en défaveur
+du requérant (ATF 143 IV 69 consid. 3.1).
+2.2
+Tout d’abord, le requérant précise qu’il n’est pas fait grief au Procureur
+intimé d’avoir adopté une attitude partiale à son encontre après son renvoi
+devant l’autorité de jugement, sa requête tendant plutôt à faire constater
+l’existence d’un motif de récusation lorsque le magistrat assumait la direction de la
+procédure. Ainsi, dès lors que la demande de récusation est intervenue après la rédaction
+de l’acte d’accusation, on ne peut que s’interroger sur la validité et la recevabilité
+de celle-ci. Cela étant, dans la mesure où la requête de récusation de K.________
+doit être rejetée dans la mesure où elle est recevable pour les motifs qui seront développés
+ci-dessous, cette question peut être laissée ouverte.
+2.3
+2.3.1
+En l’espèce, les griefs formulé par le requérant à l’encontre du Procureur
+M.________, à savoir que celui-ci aurait adopté une attitude partiale à son égard
+durant la procédure préliminaire, sont pour l’essentiel similaires à ceux figurant
+dans sa demande de récusation du 30 avril 2015 (cf. P. 271). Dans le cadre de celle-ci, K.________
+reprochait au magistrat intimé, entre autres considérations générales, d’avoir
+sollicité de la part de tiers un dépôt de plainte contre lui. Aujourd’hui, le prénommé
+semble reprendre cette argumentation et ajoute qu’
+[...],
+voire [...] ou [...] ont finalement déposé plainte ensuite de sa précédente demande
+de récusation. Or, par arrêt du 5 mai 2015, l’autorité de céans s’était
+déjà prononcée à ce sujet et était arrivée à la conclusion qu’aucune
+apparence de partialité ne pouvait être reprochée au Procureur M.________ pour ce motif.
+Dans ses considérants, elle avait en particulier retenu que le prénommé s’était
+limité à rappeler aux intéressés leur droit, le cas échéant, de déposer
+plainte, en réponse à leurs courriers, à leurs appels téléphoniques ou lors
+de leurs auditions. Cette appréciation garde toute sa pertinence et reste d’actualité.
+Le fait qu’ [...] et les intéressées aient finalement décidé de déposer
+plainte n’y change rien. Il n’y a donc pas lieu de revenir sur de tels griefs.
+En outre, comme K.________ semblait déjà le faire valoir dans sa précédente requête,
+à tout le moins de manière implicite, l’intéressé reproche une activité
+partiale au Procureur intimé, parce que, lorsque celui-ci assurait la direction de la procédure,
+il aurait très régulièrement eu recours à l’usage de l’indicatif du présent
+pour qualifier les faits reprochés vis-à-vis des parties, des témoins, des tiers et des
+autorités de contrôle de la détention préventive. Cependant, contrairement à
+ce qu’il prétend, cette simple attitude ne saurait donner une apparence de prévention
+de la part du Procureur M.________. En effet, à l’instar de la jurisprudence et de ce qui
+avait été retenu dans l’arrêt du 5 mai 2015, le magistrat chargé de l’instruction
+peut, durant la phase préliminaire de l’enquête, adopter une attitude plus orientée
+à l’encontre du prévenu ou d’une partie et faire état de ses convictions à
+un moment donné. Cela peut même, par moments, s’avérer nécessaire à l’élucidation
+des faits. Le Procureur doit ainsi se voir reconnaître une certaine liberté dans le cadre de
+ses investigations, cette liberté étant toutefois limitée par l'interdiction des procédés
+déloyaux et la nécessité de ne pas avantager une partie au détriment d'une autre.
+Par ailleurs, cette argumentation vaut également pour les griefs du requérant tenant à
+la rédaction orientée des demandes de prolongation de la détention provisoire par le Procureur
+M.________. Sous cet angle également, la demande de récusation doit être rejetée
+dans la mesure où elle est recevable au regard de l’art. 58 al. 1 CPP.
+2.3.2
+K.________ invoque un fait nouvellement porté à sa connaissance. Il expose qu’il a eu,
+le 15 janvier 2019, accès à un courrier adressé le 22 juin 2015 à [...] par son ancien
+conseil Me [...], dans lequel il était fait état d’un contact intervenu, entre le 17
+et le 22 juin 2015, entre l’avocate collaboratrice de celui-ci et le magistrat intimé. Lors
+de ce contact, le Procureur M.________ aurait indiqué à cette dernière que l’instruction
+de la cause était bientôt terminée et qu’il allait prochainement clôturer la
+phase préliminaire, soit la phase d’enquête.
+Le requérant reproche d’abord au magistrat intimé d’avoir omis de mentionner au
+procès-verbal l’échange téléphonique qu’il aurait eu avec Me [...]. Pour
+fonder son grief, il se base sur un arrêt du Tribunal fédéral du 5 novembre 2018 (TF 1B_402/2018
+consid. 3.3). Or, contrairement à ce que prétend K.________, cet arrêt n’est pas
+aussi catégorique. En réalité, dans sa décision, le Tribunal fédéral mentionnait
+que l’absence de verbalisation au procès-verbal des opérations d’un entretien téléphonique
+entre le Procureur et une partie, soit dans ce cas une Conseillère d’Etat, faisait naître
+un doute de partialité, si cet événement était cumulé avec d’autres éléments
+suspects au dossier, comme cela était le cas dans cette affaire. Dans le cadre de la présente
+cause, il n’existe pas d’élément permettant de susciter le doute sur l’impartialité
+du magistrat intimé. Ainsi, le simple fait de ne pas mentionner au procès-verbal un téléphone
+intervenu entre ledit magistrat et l’avocate concernée ne suffit pas pour y retenir une apparence
+de prévention. Au demeurant, on rappelle que le CPP ne règlemente pas la tenue d’un procès-verbal
+des opérations du dossier pénal.
+Par ailleurs, dans la mesure où [...] avait contacté, le 1
+er
+avril 2015, la direction de la procédure pour s’enquérir du délai pour déposer
+plainte, puis avait mandaté l’avocat [...] pour défendre ses intérêts (cf.
+P. 300), force est d’admettre que c’est parce qu’il s’estimait lésé
+dans la présente procédure. Dans ces circonstances, le Procureur était tout à fait
+habilité à l’informer, par l’intermédiaire d’un avocat au bénéfice
+d’une procuration, que la procédure allait être prochainement clôturée (cf.
+art. 118 al. 4 CPP). En tout état de cause, cette façon de procéder ne suscite, une fois
+encore, aucune apparence de partialité. Au contraire, il apparaît plutôt conforme à
+la bonne foi, pour un procureur, d’informer un lésé, par l’intermédiaire de
+son mandataire, qu’il doit déposer sa plainte rapidement s’il le souhaite, en raison
+de la prochaine clôture de l’instruction. Enfin, on ne saurait retenir que le magistrat intimé
+ait fait pression sur [...] pour que celui-ci dépose sa plainte. D’une part, c’était,
+comme on l’a vu, lui qui avait contacté, le 1
+er
+avril
+2015, la direction de la procédure, puis avait mandaté un avocat. D’autre part, le 19
+février 2015, c’était l’enquêteur qui l’avait entendu et non le Procureur
+(PV aud. 8). En outre, dans la mesure où les faits dénoncés par [...] se poursuivaient
+d’office, le Ministère public n’avait pas besoin d’un dépôt de plainte
+de sa part pour instruire les faits le concernant.
+Le recourant soutient encore que le Procureur aurait violé le secret de fonction en communiquant
+au mandataire [...] des éléments de l’enquête. Cependant, cet argument n’est
+pas convaincant. En effet, comme on l’a vu, le prénommé s’estimait lésé
+par K.________, puisqu’il a contacté le Procureur le 1
+er
+avril
+2015, puis a mandaté un avocat pour cette procédure. De plus, si un tel grief devait être
+retenu, cela signifierait que plus aucune enquête ne pourrait être menée, puisque le rôle
+tant du Procureur que de la police est justement de contacter les lésés ou les victimes et
+de les informer de leurs droits (cf. par ex. art. 107 al. 2 CPP).
+En dernier lieu, le requérant tire du fait nouveau qu’il invoque des allégations de partialité
+affectant l’ensemble de la procédure préliminaire. Cela étant, à la lecture
+du dossier, on ne discerne aucune erreur particulièrement lourde ou répétée, constitutive
+de violations graves des devoirs du magistrat. En réalité, K.________ fait valoir des impressions
+purement individuelles. Or, de telles impressions ne sont pas décisives, seuls des motifs objectifs
+pouvant faire redouter une apparence de prévention de la part du magistrat entrant en ligne de compte
+dans le cadre d’une demande de récusation. Enfin, il ressort du dossier que l'enquête
+n’a aucunement été menée exclusivement à charge, dès lors que le prévenu
+a, à chaque fois, eu la possibilité de se déterminer sur les éléments à
+disposition de la direction de la procédure. Comme il le relève dans ses déterminations,
+le Procureur a même entrepris des démarches exceptionnelles afin de faciliter l’accès
+au dossier de K.________ (P. 949, p. 2).
+Il s’ensuit que, formulée sans motif objectif, la demande de récusation présentée
+par K.________ doit être rejetée dans la mesure où elle est recevable. Pour le reste,
+il ne se justifie pas de donner suite à la requête d’audition [...], dès lors que,
+dans le cadre d’une procédure de récusation, le litige est tranché sans administration
+supplémentaire de preuves (art. 59 al. 1 CPP).
+3.
+En définitive, le prononcé rendu le 21 janvier 2019 par la Présidente du Tribunal criminel
+de l’arrondissement de l’Est vaudois doit être annulé et la demande de récusation
+présentée le 18 janvier 2019 par K.________ à l’encontre du Procureur M.________
+doit être rejetée dans la mesure où elle est recevable.
+Les frais de la présente procédure, constitués en l’espèce du seul émolument
+de décision (art. 422 al. 1 CPP), par 1’430 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais
+imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à
+1'499 fr. 55, TVA comprise (P. 941/2/C), seront mis à la charge de K.________, conformément
+à l’art. 59 al. 4 CPP.
+Le remboursement à l'Etat de l'indemnité allouée au défenseur d’office de K.________
+ne sera exigible que pour autant que la situation économique de ce dernier le permette (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le prononcé rendu le 21 janvier 2019 par la Présidente du Tribunal criminel de l’arrondissement
+de l’Est vaudois est annulé.
+II.
+La requête de récusation déposée le 18 janvier 2019 par K.________ à l’encontre
+du Procureur M.________ est rejetée dans la mesure où elle est recevable.
+III.
+L’indemnité allouée au défenseur
+d’office de K.________ est fixée à 1’499 fr. 55 (mille quatre cent nonante-neuf
+francs et cinquante-cinq centimes).
+IV.
+Les frais de la procédure, par 1’430 fr. (mille quatre cent trente francs), ainsi que l’indemnité
+due au défenseur d’office de K.________, par 1'499 fr. 55 (mille quatre cent nonante-neuf
+francs et cinquante-cinq centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation économique de K.________ le permette.
+VI.
+La décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Matthieu Genillod, avocat (pour K.________),
+-
+Me Aba Neeman, avocat (pour [...]),
+-
+Me Nicolas Didisheim, avocat (pour [...], [...] et [...]),
+-
+Ministère public central,
+et communiquée à :
+-
+M. le Procureur [...],
+-
+Mme la Présidente du Tribunal criminel de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, la présente décision peut, en tant qu'elle concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71]). Ce
+recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
