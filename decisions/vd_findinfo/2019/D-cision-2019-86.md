@@ -1,0 +1,443 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___86"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 86"
+decided: "2019-01-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7030262"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-010.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-430.md"]
+---
+
+# VD Findinfo Décision / 2019 / 86
+
+## Regeste
+
+NON-LIEU, INDEMNITÉ{EN GÉNÉRAL} | 319 CPP (CH), 429 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 28.01.2019 Décision / 2019 / 86
+
+NON-LIEU, INDEMNITÉ{EN GÉNÉRAL} | 319 CPP (CH), 429 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+64
+PE16.024167-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+28 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Krieger et Perrot, juges
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+319 CPP, 429 CPP
+Statuant sur les recours interjetés le 22 octobre 2018 par
+Q.________
+et par
+A.F.________
+contre
+l'ordonnance de classement rendue le 4 octobre 2018 par la Procureure de l'arrondissement de La Côte
+dans la cause
+n° PE16.024167-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+8 novembre 2016, la gendarmerie de [...] est intervenue à l'avenue [...], à [...], au domicile
+familial de Q.________ et A.F.________.
+Q.________ a expliqué avoir reçu un coup au visage de la part de son compagnon et père
+de ses enfants, A.F.________, et avoir subi, à la suite de ces faits, une fracture du nez. Selon
+elle, elle aurait déjà subi, par le passé, des violences physiques de la part de son ami.
+A.F.________ reproche, quant à lui, à Q.________ d'avoir lancé des coussins dans sa direction
+pour l'empêcher de partir, de lui avoir donné des coups au visage avec ses mains et des coups
+au niveau du torse avec ses pieds. Elle aurait également pris son pantalon, sur lequel une ceinture
+était accrochée, pour le frapper à l'aide de ce vêtement. A.F.________ aurait été
+atteint par la boucle de ladite ceinture au niveau du crâne.
+Aucune expulsion du domicile commun n'a été ordonnée, mais A.F.________ a néanmoins
+quitté le domicile et les parties vivent depuis lors séparément.
+b)
+Le Ministère public de l'arrondissement
+de La Côte a ouvert une instruction pénale contre Q.________ pour voies de fait qualifiées,
+subsidiairement voies de fait. Il a également ouvert une instruction pénale contre A.F.________
+pour voies de faits qualifiées, lésions corporelles simples qualifiées, subsidiairement
+voies de fait qualifiées, lésions corporelles simples par négligence et violation du devoir
+d'assistance ou d'éducation.
+Q.________ a admis avoir repoussé son ami, mais a contesté l'avoir frappé avec les mains,
+les pieds et le pantalon. Pour ce qui est de ce vêtement, elle a expliqué l'avoir jeté
+afin de retrouver sur le lit son téléphone portable pour appeler la police.
+Quant à A.F.________, il a toujours contesté le coup de poing volontaire, expliquant avoir
+voulu prendre son duvet pour dormir au salon et éviter la dispute. Pour ce faire, étant donné
+que la pièce n'était pas éclairée, il avait enclenché la lampe de poche de son
+téléphone portable tout en prenant son duvet. Il n'avait pas remarqué que son amie s'était
+approchée et lui avait donné un coup avec son téléphone portable au niveau du nez
+lorsqu'il s'était retourné et avait fait un mouvement pour éviter les coussins lancés.
+c)
+Entendue par la gendarmerie le jour des faits, Q.________ a indiqué qu'elle ne pensait pas que son
+compagnon l'avait volontairement blessée au nez (P. 4, p. 4), avant de se rétracter lors
+de son audition devant le Ministère public (PV aud. 1).
+Entendu par le Ministère public, B.F.________, le père de A.F.________, a expliqué avoir
+eu un long téléphone avec Q.________ peu après l'événement du 8 novembre 2016.
+Lors de ce téléphone, celle-ci lui avait très clairement dit que A.F.________ ne lui avait
+pas volontairement donné un coup au visage et qu'il avait gesticulé (PV aud. 2, l. 47-52).
+La mère de A.F.________ a déclaré qu'elle avait été surprise d'apprendre que
+le lendemain des faits, soit après que Q.________ aurait reçu un coup de poing volontaire de
+la part de son concubin, cette dernière aurait demandé à celui-ci qu'elle qualifie de
+violent de venir à la maison pour garder les enfants (PV aud. 3, l. 41-45).
+S'agissant des violences que A.F.________ aurait
+– aux dires de Q.________ – fait subir à son fils [...], aucun des nombreux professionnels
+interpellés dans le cadre de l'enquête n'ont confirmé les accusations portées par
+Q.________. Tous, en revanche, s'accordent à dire que le conflit entre les parents est très
+conséquent. Le Service de protection de la jeunesse a déclaré avoir eu des contacts avec
+différents professionnels qui n'ont jamais remarqué des signes de maltraitance sur l'enfant,
+qui était en revanche très touché par le conflit parental sévère et se trouvait
+régulièrement dans un conflit de loyauté. Le pédiatre des enfants a également
+déclaré que Q.________ ne lui avait jamais parlé de maltraitance.
+d)
+Par
+courrier du 5 avril 2018, Q.________ a requis la production par B.F.________ des messages qu'elle lui
+aurait adressés le 8 novembre 2016, sa propre audition afin qu'elle puisse se déterminer sur
+l'audition des deux témoins et enfin l'audition des membres de sa famille et de ses amis.
+B.
+Par ordonnance du 4 octobre 2018, le Ministère public de l'arrondissement de La Côte a rejeté
+les réquisitions de preuves déposées par Q.________. Le procureur a retenu que les photographies
+prises par l'hôpital le soir du 8 novembre 2016 avaient été versées au dossier,
+de sorte que la production des messages de Q.________ à B.F.________ ne se justifiait plus. Il a
+en outre relevé que Q.________ était représentée par son avocat lors des premières
+auditions des témoins, qu'elle avait en outre pu se déterminer par écrit sur les déclarations
+des témoins, de sorte qu'il ne se justifiait pas de les entendre à nouveau.
+Sur le fond, le Ministère public a estimé qu'il n'y avait pas
+au
+dossier d'éléments justifiant une mise en accusation de Q.________, respectivement de A.F.________.
+Il a dès lors ordonné le classement de la procédure dirigée contre ces derniers (I),
+dit qu'il n'y avait pas lieu d'allouer d'indemnité au sens de l'art. 429 CPP aux prévenus
+acquittés (II et III) et laissé les frais de la procédure à la charge de l'Etat (IV).
+C.
+a)
+Par deux actes, datés du 22 octobre 2018,
+tant Q.________ que A.F.________, ont déposé un recours contre cette ordonnance.
+Q.________ a implicitement conclu à sa réforme en ce sens qu'il lui soit donné la possibilité
+de se déterminer sur les témoignages des parents de A.F.________, que soit ordonnée la
+production des messages qu'elle avait adressés à
+B.F.________ après les faits du 8 novembre
+2016 et enfin à ce qu'elle soit à nouveau entendue par le procureur. Elle requiert encore l'audition
+de son psychiatre à titre de témoin.
+A.F.________ a conclu, avec suite de frais et dépens, principalement, à la réforme de
+l'ordonnance entreprise en ce sens qu'une indemnité de 7'189 fr. 70, avec intérêts à
+5% l'an dès le 5 avril 2018, lui soit allouée au sens de l'art. 429 al. 1 let. a CPP. Subsidiairement,
+il a conclu à l'annulation de l'ordonnance entreprise et au renvoi du dossier à l'autorité
+intimée pour nouvelle décision dans le sens des considérants, les frais étant laissés
+à la charge de l'Etat.
+b)
+Le 28 novembre 2018, le conseil d'office de A.F.________ a transmis la liste de ses opérations pour
+la procédure de recours (P. 65/1).
+c)
+Par
+courrier du 25 janvier 2019, le Ministère public a renoncé à se déterminer sur le
+recours déposé par A.F.________.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP (Code de procédure
+pénale suisse du 5 octobre 2007; RS 312.0). Ce recours s’exerce auprès de l’autorité
+de recours (cf. art. 20 al. 1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009; BLV 312.01]; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre 1979;
+BLV 173.01]). Le recours doit être adressé par écrit, dans un délai de dix jours,
+à l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP).
+1.2
+En l’espèce, interjetés dans le délai légal auprès de l’autorité
+compétente par des parties plaignantes et prévenues, qui ont qualité pour recourir (art.
+382 al. 1 CPP), les recours sont recevables. Vu leur connexité, il y a lieu de statuer par un seul
+arrêt sur les deux recours.
+2.
+2.1
+La recourante reproche au Ministère public
+d'avoir rejeté ses réquisitions de preuve et se prévaut d'une violation de son droit d'être
+entendue.
+2.1.1
+Selon l'art. 319 al. 1 CPP, le Ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+De manière générale, les motifs de classement sont ceux "qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement" (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc. 1255).
+Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance confinant
+à la certitude. La possibilité de classer la procédure ne saurait toutefois être
+limitée à ce seul cas, car une interprétation aussi restrictive imposerait un renvoi en
+jugement, même en présence d'une très faible probabilité de condamnation (ATF 138
+IV 86 consid. 4.1.1; TF 1B_272/2011 du
+22
+mars 2012 consid. 3.1.1). Le principe
+in
+dubio pro duriore
+exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement. En effet, en cas de doute, ce n'est
+pas à l'autorité d'instruction ou d'accusation mais au juge matériellement compétent
+qu'il appartient de se prononcer (ATF 143 IV 241 consid. 2.2.1 et les références citées,
+JdT 2017 IV 357; ATF 138 IV 86 consid. 4.1.1; ATF 138 IV 186 consid. 4.1; ATF 137 IV 219 consid. 7;
+TF
+1B_272/2011 du 22 mars 2012 consid. 3.1.1).
+Enfin, le constat selon lequel aucun soupçon justifiant une mise en accusation n’est établi
+(art. 319 al. 1 let. a CPP) suppose que le Ministère public ait préalablement procédé
+à toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 10 mai 2016/305 et les références
+citées).
+2.1.2
+Selon l’art. 6 CPP, les autorités pénales recherchent d’office tous les faits pertinents
+pour la qualification de l’acte et le jugement du prévenu (al. 1). Elles instruisent avec
+un soin égal les circonstances qui peuvent être à la charge et à la décharge
+du prévenu (al. 2).
+La procédure pénale est ainsi régie par la maxime inquisitoire, selon laquelle le ministère
+public doit adopter un comportement actif, à savoir rechercher lui-même les faits, d’office
+et en toute indépendance, dans le but de former son intime conviction et d’établir la
+vérité matérielle. Cette maxime n’oblige pas le magistrat à administrer d’office
+de nouvelles preuves lorsqu’il a déjà formé son opinion sur la base du dossier et
+parvient à la conclusion que les preuves en question ne sont pas décisives pour la solution
+du litige ou ne pourraient pas l’amener à modifier son opinion. S’agissant des faits
+pertinents, l’autorité dispose d’une liberté d’appréciation étendue
+et il lui appartient, en fonction de la complexité du cas, de la gravité de l’infraction
+et des moyens financiers à sa disposition, de définir le stade à partir duquel les faits
+sont suffisamment élucidés (Moreillon/Parein-Reymond, Petit Commentaire CPP, 2
+e
+éd., Bâle 2016, nn. 4 et 8 ad art. 6 CPP et les références citées).
+Conformément au principe de la maxime de l’instruction, les autorités pénales mettent
+en œuvre tous les moyens de preuve licites qui, selon l'état des connaissances scientifiques
+et l'expérience, sont propres à établir la vérité
+(art.
+139 al. 1 CPP).
+Le droit d'être entendu, garanti par l'art. 29 al. 2 Cst. (Constitution fédérale de la
+Confédération suisse du 18 avril 1999 ; RS 101) et par l'art. 3 al. 2 let. c
+CPP, confère notamment à toute personne le droit de s'expliquer avant qu'une décision
+ne soit prise à son détriment. Le droit d'être entendu confère aussi, entre autres
+facultés, celle d'obtenir qu'il soit donné suite à ses offres de preuve pertinentes, lorsque
+cela est de nature à influer sur la décision à rendre.
+Le Ministère public ne peut écarter une réquisition de preuves que si celle-ci exige l’administration
+de preuves sur des faits non pertinents, notoires, connus de l’autorité pénale ou déjà
+suffisamment prouvés en droit. Il rend sa décision par écrit et la motive brièvement.
+Les réquisitions de preuves écartées peuvent être réitérées dans le
+cadre des débats (art. 318 al. 2 CPP). Si la décision négative du Ministère public
+sur une requête en complément de preuves n’est en elle-même pas sujette à recours
+selon l’art. 318 al. 3 CPP, l’autorité de recours, lorsqu’elle est saisie d’un
+recours contre une ordonnance de classement qui fait suite au rejet d’une requête tendant
+à l’administration de preuves complémentaires, examinera si l’instruction apparaît
+suffisante et, si elle estime que l’instruction doit être complétée, elle annulera
+l’ordonnance de classement et renverra la cause au Ministère public (cf. Cornu, in : Kuhn/Jeanneret
+[éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 19 ad art.
+318 CPP ; CREP 16 juin 2016/401).
+2.2
+En l'espèce, le Ministère public a rejeté les réquisitions de preuve présentées
+par la recourante à juste titre. En effet, les
+photographies
+prises par l'hôpital le soir du 8 novembre 2016 et versées au dossier (P. 36) suffisent à
+démontrer que ce soir-là, Q.________ a eu le nez cassé lors d'une altercation avec son
+compagnon, de sorte que la production des messages que celle-ci avait envoyé à B.F.________
+n'était pas nécessaire. Il ressort en outre du dossier que la recourante était représentée
+lors de l'audition des témoins de sorte qu'elle a pu réagir à leurs déclarations.
+En conséquence, le Ministère public était fondé à refuser de les entendre une
+seconde fois. Par avis de prochaine clôture du 16 mars 2018, la recourante a en outre été
+invitée à se déterminer par écrit notamment sur les déclarations des témoins,
+ce qu'elle a d'ailleurs fait le 5 avril 2018 (P. 58), de sorte que son droit d'être entendu a été
+respecté. Enfin, ni l'audition du Dr [...], ni celle des amis de la recourante ne sont pertinentes
+dans la mesure où ces personnes n'ont pas été les témoins directs de l'altercation
+du 8 novembre 2016. Dans ces circonstances, le Ministère public était fondé à rejeter
+les réquisitions de preuves présentées par la recourante.
+Face aux déclarations contradictoires des parties, il est avéré que le 8 novembre 2016,
+elles se sont battues – ce qui explique les lésions constatées sur les photographies
+produites par la recourante. Rien ne permet toutefois de déterminer qui était l'agresseur et
+aucune mesure d'instruction n'est à même d'apporter des éléments pertinents sur cette
+question. Il s'agit donc d'une situation de violence domestique, où c'est la parole de l'un contre
+la parole de l'autre (ATF 143 IV 241, JdT 2017 IV 357). Le classement est justifié et doit être
+confirmé. Le recours de Q.________, mal fondé, doit être rejeté.
+3.
+Le recourant reproche au Ministère public d'avoir refusé de lui allouer une indemnité
+au sens de l'art. 429 CPP alors même qu'il a été disculpé de toute accusation et
+que les frais de la procédure ont été laissés à la charge de l'Etat. Il conclut
+à l'allocation en sa faveur d'une indemnité de 7'189 fr. 70, calculée sur la base d'un
+mandat de 18 heures et 54 minutes (14 heures et 36 minutes en 2017 + 4 heures et 18 minutes en 2018)
+rémunérées au tarif horaire de 350 francs.
+3.1
+3.1.1
+Aux termes de l'art. 429 al. 1 let. a CPP, si le prévenu est acquitté totalement ou en partie
+ou s'il bénéficie d'une ordonnance de classement, il a droit à une indemnité pour
+les dépenses occasionnées par l'exercice raisonnable de ses droits de procédure.
+L’indemnité pour frais de défense selon l'art. 429 al. 1 let. a CPP couvre en particulier
+les honoraires d’avocat, à condition que le recours à celui-ci procède d’un
+exercice raisonnable des droits de procédure (ATF 142 IV 45 consid. 2.1; ATF 138
+IV 197 consid. 2.3.5, JdT 2013 IV 184; JdT 2016 III 178). L’Etat ne prend en charge les frais
+de défense que si l’assistance d’un avocat était nécessaire compte tenu de
+la complexité de l’affaire en fait ou en droit et que le volume de travail et donc les
+honoraires étaient ainsi justifiés (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss,
+spéc. p. 1312 ch. 2.10.3.1; TF 6B_237/2016 du 18 juillet 2016 consid. 3.1).
+L'allocation d'une indemnité n'est pas limitée aux cas de défense obligatoire visés
+par l'art. 130 CPP. Elle peut être accordée dans les cas où le recours à un avocat
+apparaît tout simplement raisonnable. Il faut garder à l'esprit que le droit pénal matériel
+et le droit de procédure sont complexes et représentent, pour des personnes qui ne sont pas
+habituées à procéder, une source de difficultés. Celui qui se défend seul
+est susceptible d'être moins bien loti. C’est ainsi qu’en principe, toutes les charges
+autres qu’une contravention justifient l’intervention d’un avocat (ATF 138 IV 197,
+JdT 2013 IV 184; Mizel/Rétornaz, in Kuhn/Jeanneret [éd.], op. cit., n. 31 ad art.
+429 CPP).
+3.1.2
+Selon l’art. 430 al. 1 CPP, l'autorité pénale peut réduire ou refuser l'indemnité
+notamment si le prévenu a provoqué illicitement et fautivement l'ouverture de la procédure
+ou a rendu plus difficile la conduite de celle-ci.
+Il existe un parallélisme entre la mise à la charge du prévenu des frais de procédure
+selon l'art. 426 al. 1 et 2 CPP et la réduction ou le refus de l'indemnité selon les art. 429
+et 430 CPP en ce sens que si les frais de procédure sont mis à la charge du prévenu, il
+ne peut lui être alloué d'indemnité, tandis que lorsque les frais sont supportés
+par l’Etat en tout ou partie, une indemnisation entre en ligne de compte dans la même proportion
+(ATF 137 IV 352 consid. 2.4.2, JdT 2012 IV 255 ; TF 6B_77/2013 du 4 mars 2013 consid. 2.4 ;
+Juge unique CREP 27 janvier 2016/64 ; CREP 18 février 2016/119). L’art. 430 al. 1 let.
+a CPP posant les mêmes conditions que l’art. 426 al. 2 CPP, il est adéquat de se référer
+dans les deux cas à la jurisprudence rendue en matière de condamnation aux frais du prévenu
+acquitté (ATF 137 IV 352 consid. 2.4.2, JdT 2012 IV 255 ; TF 6B_77/2013 du 4 mars 2013 consid.
+2.3 ; Mizel/Rétornaz, in : Kuhn/Jeanneret [éd.], op. cit., nn. 2 et 3 ad art. 430 CPP ;
+Chapuis, in : Kuhn/Jeanneret [éd.], op. cit., n. 2 ad art. 426 CPP).
+3.1.3
+L'indemnité visée à l'art. 429 CPP doit correspondre au tarif usuel du barreau applicable
+dans le canton où la procédure se déroule et englober la totalité des coûts
+de défense. Elle doit couvrir l'entier des frais de défense usuels et raisonnables. Lorsqu'un
+tarif cantonal existe, il doit être pris en considération pour fixer le montant de l'indemnisation.
+Il sert de guide pour la détermination de ce qu'il faut entendre par frais de défense usuel
+(TF 6B_561/2014 du 11 septembre 2014 consid. 2.2.1; TF 6B_392/2013 du 4 novembre 2013 consid. 2.3). Tel
+est le cas dans le canton de Vaud depuis le 1
+er
+avril 2014 par l'adoption d'un nouvel art. 26a TFIP (Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; BLV 312.03.1), qui énonce les principes applicables
+à la fixation des indemnités allouées selon les art. 429 ss CPP à raison de l'assistance
+d'un avocat dans la procédure pénale. Cette disposition prévoit que l'indemnité pour
+l'activité de l'avocat est fixée en fonction du temps nécessaire à l'exercice raisonnable
+des droits de procédure, de la nature des opérations effectuées, des difficultés
+de la cause, des intérêts en cause et de l'expérience de l'avocat (al. 2). Le tarif horaire
+déterminant – hors TVA – est de 250 fr. au minimum et de 350 fr. au maximum pour l'activité
+déployée par un avocat. Il est de 160 fr. pour l'activité déployée par un avocat-stagiaire
+(al. 3). Dans les causes particulièrement complexes ou nécessitant des connaissances particulières,
+le tarif horaire déterminant peut être augmenté jusqu'à 400 fr. (al. 4).
+3.2
+En l'espèce, le Ministère public a considéré que
+la
+cause était
+simple et que la présence d'un avocat ne se justifiait pas pour la défense des intérêts
+du recourant, ce dernier n'ayant été entendu qu'à une reprise en cours de procédure.
+Cette appréciation ne peut être suivie. En effet,
+le recourant a fait l'objet d'une instruction pénale pour voies de faits qualifiées, lésions
+corporelles simples qualifiées, subsidiairement voies de fait qualifiées, lésions corporelles
+simples par négligence et violation du devoir d'assistance ou d'éducation. Ces infractions
+sont des délits au sens de la loi (art. 10 al. 3 CP) de sorte que la cause n'est pas simple au sens
+de la jurisprudence rappelée plus haut, cela indépendamment des mesures d'instruction entreprises
+– notamment le nombre d'audition du prévenu – durant l'enquête pénale. L'intervention
+d'un avocat apparaissait dès lors raisonnable, cela d'autant plus que la partie adverse était
+également représentée. En outre, le recourant a été acquitté, aucune infraction
+n'ayant pu être établie, et les frais de la procédure pénale ont été laissés
+à la charge de l'Etat. Dans ces circonstances, il convient en principe d'allouer au recourant une
+indemnité au sens de l'art. 429 CPP.
+Dans la liste d'opérations produite le 5 avril 2018 (P. 60/2), le conseil du recourant a indiqué
+avoir consacré 14 heures et 36 minutes à ce mandat en 2017 et 4 heures et 18 minutes en 2018.
+Cette durée peut être admise sous réserve de l'heure ajoutée à chaque déplacement,
+respectivement du 24 janvier 2017 et du
+8
+mars 2018, qui doit être retranchée et indemnisée par le biais d'une vacation forfaitaire
+de 120 fr. par déplacement. Il convient également de réduire le temps consacré à
+l'étude du dossier de la cause en 2017, annoncé à hauteur de 2.18 heures (2 heures
+et 10 minutes) ainsi que l'heure annoncée pour les opérations de clôture du dossier, et
+d'admettre que ces opérations ont nécessité 1.50 heures (1 heure et 30 minutes) en
+tout. On retiendra dès lors que, pour la procédure pénale, le conseil a consacré
+13.28 heures (13 heures et 16 minutes) soumises à la TVA de 8% en 2017 et 2.28 heures (2 heures
+et 16 minutes) soumises à la TVA de 7,7% en 2018. Enfin, au vu de la nature de la cause et de l'absence
+de difficulté qu'elle présente pour un avocat expérimenté, c'est un tarif horaire
+de 300 fr. qui doit être appliqué. C'est ainsi un montant de 5'298 fr. 20 qui doit être
+alloué à A.F.________ au titre de l'indemnité de 429 CPP pour la procédure pénale
+de première instance.
+4.
+En définitive, le recours de Q.________ doit être rejeté et celui de A.F.________ doit
+être admis, l'ordonnance de classement du 4 octobre 2018 étant réformée dans
+le sens des considérants.
+Les frais de la procédure de recours, constitués du seul émolument d’arrêt,
+par 1'320 fr. (art. 20 al. 1 TFIP), seront mis pour moitié, soit par 660 fr., à la charge de
+Q.________, qui succombe (art. 428 al. 1 CPP), le solde, par 660 fr., étant laissé à la
+charge de l’Etat.
+A.F.________, qui a procédé avec l’assistance d’un avocat de choix et qui a obtenu
+gain de cause, a droit à une indemnité pour les dépenses occasionnées par la procédure
+de recours (art. 436 al. 1 et 433 al. 1 CPP). Cette indemnité sera fixée sur la base de la
+liste d'opérations produite par le conseil (P. 65/1) dont il n'y a pas lieu de s'écarter, en
+appliquant toutefois le tarif horaire de 300 fr. (art. 26a al. 3 TFIP). C'est ainsi une indemnité
+de 1'367 fr. 80 au total, à savoir des honoraires par 1'170 fr., des débours annoncés
+par 100 fr. et la TVA à 7,7% sur le tout, par 97 fr. 80 (CREP 1
+er
+mars 2017/904), qui lui sera allouée pour les dépenses occasionnées par la procédure
+de recours. Cette indemnité sera laissée à la charge de l’Etat.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours de Q.________ est rejeté.
+II.
+Le recours de A.F.________ est admis.
+III.
+L’ordonnance de classement du 4 octobre
+2018 est réformée comme il suit au chiffre III de son dispositif :
+III.
+alloue à A.F.________ une indemnité au sens de l'art. 429 CPP de 5'298 fr. 20 (cinq mille deux
+cent nonante-huit francs et vingt centimes), à la charge de l'Etat.
+L'ordonnance est confirmée
+pour le surplus.
+IV.
+Les frais d’arrêt, par 1'320 fr. (mille trois cent vingt francs), sont mis pour moitié,
+soit par 660 fr. (six cent soixante francs), à la charge de Q.________, le solde, par 660 fr. (six
+cent soixante francs), étant laissé à la charge de l'Etat.
+V.
+Une
+indemnité de 1'367 fr. 80 (mille trois cent soixante-sept francs et huitante centimes) pour la procédure
+de recours est allouée à A.F.________, à la charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Nicolas Mossaz, avocat (pour Q.________),
+-
+Me Olivier Boschetti, avocat (pour A.F.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
