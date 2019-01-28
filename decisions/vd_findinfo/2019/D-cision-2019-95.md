@@ -1,0 +1,236 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___95"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 95"
+decided: "2019-01-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7023814"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-095.md", "switzerland/bund/acts/173.110/art-097.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-106.md", "switzerland/bund/acts/311.0/art-091.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2019 / 95
+
+## Regeste
+
+MESURE DISCIPLINAIRE | 38 al. 1 LEP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 28.01.2019 Décision / 2019 / 95
+
+MESURE DISCIPLINAIRE | 38 al. 1 LEP
+
+TRIBUNAL
+CANTONAL
+65
+AP19.001647
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+28 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Abrecht et Oulevey, juges
+Greffière
+:              Mme
+Umulisa Musaby
+*****
+Art.
+34, 40 et 41 RDD ; 38 al. 1 LEP
+Statuant sur le recours interjeté le 17 janvier 2019 par
+R.________
+contre la décision rendue le 9 janvier 2019 par le Service pénitentiaire dans la cause
+n° AP19.001647
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Entre le 8 décembre 2017 – date de son placement en détention provisoire au sein de la
+Prison de la Croisée – et le 28 septembre 2018, R.________ a fait l’objet de neuf condamnations
+disciplinaires, la dernière en date du 27 août 2018 à cinq jours d’arrêts,
+avec révocation du sursis assortissant une peine de vingt et un jours de suppression des activités
+de loisirs, prononcée le 17 août 2018, pour inobservation des règlements et directives
+(art. 40 RDD [Règlement sur le droit disciplinaire applicable aux détenus et aux condamnés
+avant jugement ; BLV 340.07.1]) et refus d’obtempérer (art. 41 RDD).
+B.
+a)
+Par décision du 28 septembre 2018, le
+Directeur de la Prison de la Croisée lui a infligé une sanction disciplinaire de quatorze jours
+de suppression partielle des relations avec le monde extérieur (visites), pour atteintes à
+la liberté (art. 34 RDD), inobservation des règlements et directives (art. 40 RDD) et
+refus d’obtempérer (art. 41 RDD).
+b)
+Sur recours de R.________, le Service pénitentiaire a confirmé cette sanction par décision
+du 9 janvier 2019.
+En constatant les faits, ce Service a relevé que le rapport établi le 26 septembre 2018 par
+l’un des surveillants de la prison était clair et détaillé, que le recourant avait
+offert l’audition d’un codétenu (M. [...]), qui n’avait toutefois assisté
+à l’intégralité de la scène, que le recourant avait soit minimisé les
+faits, soit les avait niés, qu’il avait néanmoins reconnu que c’était lorsque
+l’agent avait menacé d’annuler la visite qu’il s’était conformé
+à ses indications, qu’il avait également confirmé à l’agent que celui-ci
+avait bien entendu les menaces de mort le concernant. Pour ces motifs, le Service pénitentiaire
+a notamment considéré comme établis les faits reprochés à R.________, qui ressortent
+du rapport précité et qui sont en résumé les suivants :
+Le 26 septembre 2018, à l’occasion d’une visite de son ex-épouse, R.________ a
+pris une chaise en salle de visite pour la placer à côté de lui afin de permettre à
+sa visite de s’y installer plutôt qu’en face de lui. Il a refusé d’obtempérer
+aux ordres du surveillant qui lui a demandé à plusieurs reprises de placer les chaises de manière
+conforme au règlement. Le surveillant a dû faire appel à des collègues à cause
+du comportement toujours plus oppositionnel de R.________. Le surveillant a également dû demander
+à réitérées reprises à l’ex-épouse de R.________ de déposer
+réglementairement sa veste. Une heure environ après la fin de la visite, le même surveillant
+est allé remettre à R.________ le colis que son ex-épouse avait apporté pour lui.
+Sur un ton grave, R.________ lui a déclaré : «
+Toi,
+c’est la dernière fois que tu me parles comme ça et que tu parles à ma femme. Tu
+vas voir ce qui va t’arriver, je retiens pour dehors, tu vas voir, c’est la dernière
+fois tu as compris, tu verras dehors
+». Le
+surveillant lui a demandé, à de multiples reprises : « Ce sont des menaces de mort que
+vous me faites là ? » R.________ lui a alors répondu en le pointant du doigt et en le
+désignant avec son stylo : «
+Oui,
+ce sont des menaces. Tu verras ce qui va t’arriver, tu verras dehors, je retiens dans la tête
+».
+C.
+Par lettre du 17 janvier 2019, adressée au
+Service pénitentiaire et transmise le 25 janvier 2019 à la Chambre des recours pénale,
+R.________ a recouru contre la décision du 9 janvier 2019, en concluant implicitement à sa
+réforme en ce sens qu’il ne soit reconnu coupable d’aucune infraction disciplinaire.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Aux termes de l’art. 38 al. 1 LEP (loi sur
+l’exécution des condamnations pénales du 4 juillet 2006; BLV 340.01), les décisions
+rendues sur recours par le Service pénitentiaire peuvent faire l'objet d'un recours au Tribunal
+cantonal. La procédure est régie par les dispositions du CPP (Code de procédure pénale
+suisse du 5 octobre 2007; RS 312.0) relatives au recours (art. 38 al. 2 LEP). Le recours doit ainsi être
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP),
+qui est dans le canton de Vaud la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[Loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009; BLV 312.01];
+art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12 décembre 1979; BLV 173.01]; art.
+26 al. 1 ROTC [Règlement organique du Tribunal cantonal du 13 novembre 2007; BLV 173.31.1]).
+En l’espèce, le recours a été déposé en temps utile auprès de l’autorité
+cantonale compétente contre une décision susceptible de recours. Le recours est ainsi recevable.
+2.
+2.1
+Aux termes de l’art. 91 al. 3 CP (Code pénal
+suisse du 21 décembre 1937; RS 311.0), il appartient aux cantons d’édicter des dispositions
+disciplinaires en matière d'exécution des peines et des mesures. Ces dispositions définissent
+les éléments constitutifs des infractions disciplinaires, la nature des sanctions et les critères
+de leur fixation ainsi que la procédure applicable. Dans le canton de Vaud, le siège de la
+matière se trouve dans le Règlement du 26 septembre 2007 sur le droit disciplinaire applicable
+aux détenus avant jugement et aux condamnés (RDD; BLV 340.07.1).
+En l’occurrence, la sanction infligée a été prononcée sur la base des art.
+34, 40 et 41 RDD. Aux termes de l’art. 34 RDD, le détenu qui aura obtenu ou tenté d'obtenir
+par menace de violences ou contrainte un engagement ou une renonciation ou la remise d'un bien quelconque
+sera sanctionné de l'avertissement, ou de l'amende jusqu'à 30 jours, ou de la suppression temporaire,
+complète ou partielle, de la possibilité de disposer de ressources financières jusqu'à
+30 jours, ou de la suppression temporaire, complète ou partielle, des activités de loisirs
+jusqu'à 30 jours, ou des arrêts jusqu'à 30 jours. Aux termes de l’art. 40 RDD, le
+détenu qui aura de toute autre manière contrevenu au règlement ou aux directives qui lui
+sont applicables sera sanctionné de l'avertissement, de l'amende jusqu'à 10 jours, de la suppression
+temporaire, complète ou partielle, de la possibilité de disposer de ressources financières
+jusqu'à 10 jours, ou de la suppression temporaire, complète ou partielle, des activités
+de loisirs jusqu'à 90 jours, ou de la suppression temporaire, complète ou partielle, des relations
+avec le monde extérieur jusqu'à 90 jours, ou des arrêts jusqu'à 10 jours. Aux termes
+de l’art. 41 RDD, le détenu qui aura refusé d’obtempérer aux injonctions des
+membres du personnel de l’établissement sera sanctionné de l’avertissement, ou
+de l’amende jusqu’à 10 jours, ou de la suppression temporaire, complète ou partielle,
+de la possibilité de disposer de ressources financières jusqu’à 10 jours, ou de
+la suppression temporaire, complète ou partielle, des activités de loisirs jusqu’à
+90 jours, ou de la suppression temporaire, complète ou partielle, des relations avec le monde extérieur
+jusqu’à 90 jours, ou des arrêts jusqu’à 10 jours.
+2.2
+L’art. 38 al. 3 LEP prévoit qu’en matière de sanctions disciplinaires, les motifs
+de recours sont limités à ceux fixés aux art. 95 et 97 LTF (Loi fédérale du
+17 juin 2005 sur le Tribunal fédéral; RS 173.110).
+Selon l’art. 95 LTF, le recours peut être formé pour violation du droit fédéral
+(let. a), du droit international (let. b), de droits constitutionnels cantonaux (let. c), de dispositions
+cantonales sur le droit de vote des citoyens ainsi que sur les élections et votations populaires
+(let. d) et du droit intercantonal (let. e).
+La notion de droit fédéral s’oppose en principe à celle de droit cantonal ou communal.
+Il est toutefois possible de se plaindre devant le Tribunal fédéral d’une violation arbitraire
+du droit cantonal ou du droit communal à la condition de présenter une motivation répondant
+aux exigences de l’art. 106 al. 2 LTF, lequel dispose que le Tribunal fédéral n’examine
+la violation de droits fondamentaux ainsi que celle de dispositions de droit cantonal et intercantonal
+que si ce grief a été invoqué et motivé par le recourant (ATF 138 I 1 consid. 2.1;
+Corboz, in Corboz et al. [éd.], Commentaire de la LTF, 2
+e
+éd., Berne 2014, n. 21 ad art. 95 LTF et la jurisprudence citée).
+L’art. 97 al. 1 LTF prévoit que le recours ne peut critiquer les constatations de fait que
+si les faits ont été établis de façon manifestement inexacte ou en violation du droit
+au sens de l'art. 95 LTF, et si la correction du vice est susceptible d'influer sur le sort de la cause.
+En parlant de faits établis de façon manifestement inexacte, le législateur a envisagé
+en réalité un cas d’arbitraire (Message du Conseil fédéral concernant la révision
+totale de l’organisation judiciaire fédérale, FF [Feuille fédérale] 2001 p.
+4135).
+2.3
+En l’espèce,
+le recourant conteste avoir hurlé ou proféré des menaces. S’il admet avoir utilisé
+les termes « la prochaine fois », rapportés par un codétenu (M. [...]), il nie toute
+intention menaçante. Il aurait simplement dit au surveillant «de se comporter normalement avec
+la mère de [ses] enfants la prochaine fois». Le recourant conteste ainsi les faits retenus
+par la décision attaquée en se contentant d’opposer sa propre version des faits à
+celle de l’autorité précédente, sans tenter de démontrer en quoi celle-ci serait
+manifestement inexacte au sens de l’art. 97 LTF. À cet égard, ses griefs sont dès
+lors irrecevables.
+Les faits dénoncés dans le rapport du surveillant, qui sont tenus pour constants par la décision
+attaquée, sont bien constitutifs des infractions disciplinaires prévues aux art. 34, 40 et
+41 RDD, de sorte que la sanction prononcée est conforme au droit. En particulier, compte tenu des
+antécédents disciplinaires du recourant, elle est conforme au principe de la proportionnalité.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d’écritures (art. 390 al. 2 CPP), dans la mesure où il est recevable, et la décision
+entreprise confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010; BLV 312.03.1]), seront mis à la charge du recourant,
+qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+La décision du Service pénitentiaire du 9 janvier 2019 est confirmée.
+III.
+Les frais d’arrêt, par 660 fr. (six
+cent soixante francs), sont mis à la charge de R.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+R.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Cheffe du Service pénitentiaire,
+-
+Direction de la Prison
+de la Croisée,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
