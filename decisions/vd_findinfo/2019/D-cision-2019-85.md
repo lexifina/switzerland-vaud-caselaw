@@ -1,0 +1,525 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___85"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 85"
+decided: "2019-01-29"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7019474"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-131.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-141.md", "switzerland/bund/acts/312.0/art-158.md", "switzerland/bund/acts/312.0/art-178.md", "switzerland/bund/acts/312.0/art-180.md", "switzerland/bund/acts/312.0/art-181.md", "switzerland/bund/acts/312.0/art-195.md", "switzerland/bund/acts/312.0/art-299.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 85
+
+## Regeste
+
+ACCIDENT DE LA CIRCULATION, DÉFENSE D'OFFICE, DÉFENSE OBLIGATOIRE, DROIT À UN DÉFENSEUR, OBLIGATION DE RENSEIGNER, AUDITION OU INTERROGATOIRE, PRÉVENU, TIERS APPELÉ À FOURNIR DES RENSEIGNEMENTS, DROITS DE LA DÉFENSE, PREUVE ILLICITE, PROCÈS-VERBAL | 114 CPP (CH), 130 CPP (CH), 131 CPP (CH), 132 CPP (CH), 141 al. 5 CPP (CH), 158 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 29.01.2019 Décision / 2019 / 85
+
+ACCIDENT DE LA CIRCULATION, DÉFENSE D'OFFICE, DÉFENSE OBLIGATOIRE, DROIT À UN DÉFENSEUR, OBLIGATION DE RENSEIGNER, AUDITION OU INTERROGATOIRE, PRÉVENU, TIERS APPELÉ À FOURNIR DES RENSEIGNEMENTS, DROITS DE LA DÉFENSE, PREUVE ILLICITE, PROCÈS-VERBAL | 114 CPP (CH), 130 CPP (CH), 131 CPP (CH), 132 CPP (CH), 141 al. 5 CPP (CH), 158 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+71
+PE18.017583-JMN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+29 janvier 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Oulevey, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+114, 130, 131, 132, 141 al. 5 et 158 CPP
+Statuant sur le recours interjeté le 6 décembre 2018 par
+R.________
+contre la décision rendue le 22 novembre 2018 par le Ministère public de l’arrondissement
+de l’Est vaudois dans la cause
+n° PE18.017583-JMN
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 7 septembre 2018, vers 7h00, un grave accident de la circulation, impliquant le véhicule de marque
+[...] et le train routier composé d’un camion [...] et d’une remorque [...] conduit
+par J.________, a eu lieu à [...]. Tous les occupants de la voiture [...] ont été grièvement
+blessés. V.________ est décédée le 13 septembre 2018.
+Selon les premiers éléments recueillis par la police, L.________ aurait été la conductrice
+de la voiture au moment du choc, puisqu’elle se trouvait sur le siège avant gauche au moment
+où les premiers intervenants sont arrivés. Un témoin, D.________, a indiqué qu’il
+avait vu R.________ sortir du véhicule par la porte arrière gauche. Ce dernier lui a déclaré
+que ce n’était pas lui qui conduisait (PV aud. 3).
+Le 7 septembre 2018, le procureur a ouvert une instruction pénale contre L.________.
+b)
+R.________, détenteur du véhicule accidenté et conducteur habituel, a été entendu
+par la police le 7 septembre 2018 vers 16h50, à l’Hôpital Riviera Chablais de Monthey,
+en qualité de personne appelée à donner des renseignements (ci-après : PADR)
+(PV aud. 2). Il a signé le formulaire des droits et obligations d’une PADR, qui prévoit
+notamment le droit de refuser de déposer et de collaborer (cf. P. 75/1).
+Lors de son audition, R.________ se trouvait sous médication (antibiothérapie par Co-Amoxicilline,
+Perfalgan et OxyNorm, ce dernier étant un dérivé de la morphine qui peut avoir des effets
+modérés sur l’état de conscience [P. 65]). A cette occasion, il a notamment
+déclaré avoir été le conducteur du véhicule au moment des faits, tandis qu’L.________
+se trouvait à l’arrière gauche (PV aud. 2, R 4). A la suite de cette déclaration,
+son attention n’a pas été attirée sur ses droits et obligations en qualité
+de prévenu, notamment sur son droit d’être assisté par un avocat. L’interrogatoire
+s’est poursuivi, en particulier sur son emploi du temps et sur les circonstances de l’accident.
+Au terme de son audition, R.________ a réaffirmé être le conducteur en les termes suivants :
+« Pour répondre à votre demande, je vous assure que c’est moi qui conduisais
+le véhicule. Il y a peut-être eu confusion car mes amis m’ont dit que quand les secours
+sont arrivés ils m’ont trouvé sur les places arrière » (PV aud. 2, R 22).
+Le 12 septembre 2018, le procureur a ouvert une instruction pénale contre R.________ pour avoir
+été le conducteur du véhicule [...] et n’avoir pas accordé la priorité
+au camion, ce qui a entraîné l’accident en cause.
+c)
+Par
+courrier du 28 septembre 2018, le défenseur d’office de R.________, Me Yaël Hayat, a
+requis le retranchement du procès-verbal d’audition du 7 septembre 2018, en soutenant
+que son mandant n’était pas en état d’être entendu et que l’assistance
+d’un avocat aurait été nécessaire (P. 20).
+d)
+Selon le rapport de police du 13 octobre 2018 (P. 35), les inspecteurs qui ont procédé à
+l’audition de R.________ le 7 septembre 2018 avaient demandé à l’infirmière
+qui se trouvait sur place si l’audition était possible. Elle leur avait répondu par l’affirmative,
+en précisant qu’il était sous médication pour soulager ses douleurs. Les policiers
+ont indiqué que lors de l’audition, R.________ avait laissé paraître ses douleurs
+par des gémissements intermittents, mais qu’il n’avait pas manifesté une volonté
+d’interrompre l’interrogatoire. Selon eux, ses propos étaient cohérents, malgré
+son état somnolent.
+e)
+Réentendu en qualité de prévenu le 5 octobre 2018 et le 12 novembre 2018, R.________
+a déclaré ne pas être en mesure de confirmer ou d’infirmer avoir été le
+conducteur du véhicule au moment où l’accident est survenu. Il a notamment indiqué
+qu’il n’avait aucun souvenir précis de ce qu’il s’était passé
+(PV aud. 7, R. 3, 5 et 9 ; PV aud. 11, ll. 76 et 112). Il n’avait pas non plus de souvenir
+de l’audition qui s’est déroulée le même jour que l’accident. Selon
+lui, son amie [...], qui était présente lors de celle-ci, lui a rapporté après coup
+que les termes qu’il avait utilisés avaient été reformulés, car il n’était
+pas en état de répondre (PV aud. 7, R 3). Il a également indiqué que, selon la médecin
+l’ayant accueilli aux urgences, il avait déclaré à cette dernière : « pour
+une fois que je prête ma voiture, il se passe quelque chose » (PV aud. 7, R 14).
+B.
+Par décision du 22 novembre 2018, le Ministère
+public de l’arrondissement de l’Est vaudois a dit que le procès-verbal d’audition
+de R.________ du 7 septembre 2018 était exploitable, qu’il pouvait être maintenu au dossier
+(I), et que les frais suivaient le sort de la cause (II).
+Le procureur a considéré qu’avant son audition, aucun indice ne pouvait laisser penser
+à la police que R.________ était conducteur du véhicule accidenté, raison pour laquelle
+il avait été entendu comme PADR. Les enquêteurs, surpris par l’affirmation de R.________,
+avaient de sérieuses raisons de douter de ses aveux, compte tenu des éléments dont ils
+disposaient alors, de sorte qu’il ne s’imposait pas aux agents de police de lui signifier
+ses droits de prévenu. Ce n’était que par la suite que le procureur a ordonné des
+mesures d’instruction permettant potentiellement de confirmer ou d’infirmer les propos de
+R.________ et qu’il y avait ainsi lieu d’ouvrir une instruction contre lui. Selon le procureur,
+malgré la prise de médicaments (dont un dérivé de la morphine qui peut avoir des
+effets modérés sur l’état de conscience), à aucun moment R.________ n’avait
+indiqué ne pas être en mesure d’être entendu. Les gendarmes n’avaient du reste
+pas constaté d’inaptitude à s’exprimer. Le contenu de ses réponses et la précision
+de certaines indiquent que son état de santé et les médicaments qui lui avaient été
+administrés n’avaient eu aucune influence sur sa capacité à répondre aux questions
+et donc à être entendu par la police. Par ailleurs, il ne s’agissait pas d’un cas
+de défense obligatoire, les conditions de l’art. 130 CPP (Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0) n’étant pas réalisées.
+C.
+Par acte du 6 décembre 2018, R.________ a interjeté recours contre cette ordonnance, en concluant,
+principalement, à son annulation et qu’il soit dit que le procès-verbal de son audition
+du 7 septembre 2018 est inexploitable et qu’il soit donné ordre à la direction de la
+procédure de le retirer du dossier. A titre subsidiaire, il a conclu au renvoi de la cause au Ministère
+public pour nouvelle décision dans le sens des considérants et à titre plus subsidiaire,
+au renvoi de la cause au Ministère public pour nouvelle décision et qu’ordre soit donné
+à cette autorité de procéder à une expertise dans le but d’établir s’il
+disposait des capacités nécessaires en vue d’être auditionné par la police
+le 7 septembre 2018.
+R.________ a également conclu à l’allocation d’une indemnité à son défenseur
+d’office, selon la liste d’opérations produite (P. 71/3).
+Par courrier du 20 décembre 2018, le Ministère public de l’arrondissement de l’Est
+vaudois a indiqué qu’il n’entendait pas déposer de déterminations.
+Le 21 janvier 2019, agissant au nom de T.________, F.________ et feue V.________, Me Lisa-Marie Gonzalez
+Pennec a indiqué qu’elle n’entendait pas déposer de déterminations et qu’elle
+s’en remettait à justice.
+Le 25 janvier 2019, L.________, par son défenseur d’office, a indiqué qu’elle n’entendait
+pas déposer de déterminations et qu’elle s’en remettait à justice.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. a CPP,
+le recours est recevable contre les décisions et actes de procédure du Ministère public.
+Ce recours doit être adressé par écrit, dans un délai de dix jours dès la notification
+de la décision attaquée (art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [loi vaudoise du 19 mai 2009 d’introduction
+du code de procédure pénale suisse ; BLV 312.01] ; art. 80 LOJV [loi vaudoise
+du 12 décembre 1979 d’organisation judiciaire ; BLV 173.01]).
+En l’espèce, interjeté en temps utile, devant l’autorité compétente,
+par le prévenu qui a qualité pour recourir (cf. art. 382 al. 1 CPP), et satisfaisant aux conditions
+de formes prescrites (cf. art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant invoque une violation des art. 130,
+131 et 158 CPP, ainsi que la jurisprudence de la Chambre de céans, selon laquelle le législateur
+a souhaité garantir la défense obligatoire dès la première audition du prévenu,
+au sens temporel du mot, quand bien même celle-ci est menée par la police mais avant l’ouverture
+formelle de l’instruction par le Ministère public (JdT 2012 III 141 ; CREP 15 avril 2016/247
+consid. 2.1).
+2.2
+2.2.1
+Le droit à une procédure pénale équitable (art. 6 par. 1 CEDH [Convention de sauvegarde
+des droits de l’homme et des libertés fondamentales du 4 novembre 1950 ; RS 0.101], art. 31
+al. 2 et 32 al. 2 Cst. [Constitution fédérale de la Confédération suisse du 18 avril
+1999 ; RS 101]) peut imposer la nomination d'un défenseur d'office. Les autorités pénales
+sont ainsi amenées à examiner d'office si un cas de défense obligatoire entre en considération,
+au regard du droit à un procès équitable, ainsi que des devoirs d'information et d'assistance
+leur incombant (ATF 143 I 164 consid. 2.3, RDAF 2018 I 310 ; ATF 141 I 350 consid. 4.1 et 4.2).
+Selon l’art. 158 al. 1 CPP, le prévenu doit être informé, au début de la première
+audition, qu’une procédure est ouverte contre lui et pour quelles infractions (let. a), qu’il
+a le droit de refuser de déposer et de collaborer (let. b), qu’il a le droit de se faire assister
+d’un conseil juridique (let. c) et qu’il a le droit de demander l’assistance d’un
+traducteur ou d’un interprète (let. d). Les renseignements obtenus sans que ces informations
+aient été données ne sont pas exploitables, conformément à l’art. 158
+al. 2 CPP, en relation avec l’art. 141 CPP, et le procès-verbal concerné devra être
+retranché du dossier (Ruckstuhl,
+in
+:
+Niggli/Heer/ Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, 2
+e
+éd.,
+Bâle 2014, nn. 33 ss ad art. 158 CPP ; Verniory, in : Kuhn/Jeanneret [éd.], Commentaire romand,
+Code de procédure pénale, Bâle 2011, nn. 26-28 ad art. 158 CPP ; Schmid/Jositsch,
+Praxiskommentar, Schweizerische Strafprozessordnung, 3
+e
+éd.,
+Zurich/St-Gall 2018 [Praxiskommentar], nn. 16-18 ad art. 158 CPP ; Moreillon/Parein-Reymond, Petit
+commentaire, Code de procédure pénale, 2
+e
+éd., Bâle 2016, nn. 18-19 ad art. 158 CPP).
+S’agissant du statut de personnes appelées à donner des renseignements, au sens de l'art.
+178 let. b à g CPP, l’art. 180 al. 1 CPP prévoit que celles-ci ne sont pas tenues de
+déposer, les dispositions concernant l'audition de prévenus leur étant au surplus applicables
+par analogie. Au début de l'audition, les autorités pénales attirent l'attention des personnes
+appelées à donner des renseignements sur leur obligation de déposer ou sur leur droit
+de refuser de déposer ou de témoigner (art. 181 al. 1 CPP). Pour les personnes appelées
+à donner des renseignements qui ont l'obligation de déposer ou qui s'y déclarent prêtes,
+les autorités pénales attirent leur attention sur les conséquences pénales possibles
+d'une accusation calomnieuse, de déclarations visant à induire la justice en erreur ou d'une
+entrave à l'action pénale (art. 181 al. 2 CPP).
+Lorsque la position de partie évolue en cours de procédure, à l’image du comparant
+entendu initialement comme personne appelée à donner des renseignements, puis ultérieurement
+comme prévenu, l’exploitabilité des déclarations dépend de la catégorie
+de personne appelée à donner des renseignements au sens de l’art. 178 CPP. Sont en tous
+les cas inexploitables les déclarations du « quasi prévenu » au sens de l’art.
+178 let. d CPP – soit la personne qui, sans être elle-même prévenue, pourrait s'avérer
+être soit l'auteur des faits à élucider ou d'une infraction connexe soit un participant
+à ces actes –, si les droits du prévenu découlant de l’art. 158 CPP ne lui
+ont pas été communiqués (cf. Schmid/Jositsch, Handbuch des schweizerischen Strafprozessrecht,
+3
+e
+éd., Zurich 2017 [Handbuch], nn. 927 s.).
+D’après la doctrine, en cas d’infractions graves, si les soupçons sont suffisants
+déjà avant la première audition par le Ministère public, l’instruction doit
+être ouverte immédiatement et la défense garantie avant la première audition par
+le Ministère public, qu’il s’agisse d’une défense privée ou d’office
+(Moreillon/Parein-Reymond, op. cit., n. 7 ad art. 131 CPP et les auteurs cités).
+2.2.2
+Selon l’art. 130 let. b CPP, il existe un cas de défense obligatoire si le prévenu encourt
+une peine privative de liberté de plus d’un an. Le Tribunal fédéral estime que la
+peine déterminante pour retenir une défense obligatoire n’est pas la peine abstraite
+de l’infraction, mais la peine concrète que risque de purger le prévenu (ATF 143 I 164
+consid. 2.4.3, RDAF 2018 I 310).
+L’art. 130 let. c CPP impose la désignation d’un avocat quand le prévenu, en raison
+de son état physique ou psychique ou pour d’autres motifs, ne peut pas suffisamment défendre
+ses intérêts dans la procédure pénale.
+Selon la jurisprudence, la question de la capacité
+de procéder doit être examinée d'office. Cependant, des indices de limitation ou d'absence
+d'une telle capacité doivent exister pour qu'il puisse être attendu de l'autorité qu'elle
+obtienne des éclaircissements à ce sujet. Une incapacité de procéder n'est ainsi
+reconnue qu’exceptionnellement, soit en particulier lorsque le prévenu se trouve dans l'incapacité
+de suivre la procédure, de comprendre les accusations portées à son encontre et/ou de
+prendre raisonnablement position à cet égard (TF 1B_285/2016 du 1
+er
+septembre
+2016 consid. 2.1 et les références citées).
+Selon la doctrine, l'hypothèse prévue à l'art. 130 let. c CPP est notamment tenue pour
+réalisée lorsque le prévenu n'est plus à même d'assurer, intellectuellement
+ou physiquement, sa participation à la procédure, à l'image des cas visés par l'art.
+114 al. 2 et 3 CPP (Moreillon/Parein-Reymond, op. cit., n. 15 ad art. 130 CPP et la référence
+citée). La cause des incapacités personnelles peut consister dans des dépendances à
+l’alcool, aux stupéfiants ou à des médicaments, susceptibles d’altérer
+les capacités psychiques (TF 1B_285/2016 précité ; TF 1B_279/2014 du 8 novembre 2014
+consid. 2.1), ainsi que des troubles mentaux sévères ou même légers (Schmid/Jositsch,
+Praxiskommentar, op. cit., n. 9 ad art. 130 CPP ; Harari/Aliberti,
+in
+:
+Kuhn/Jeanneret, op. cit., n. 30 ad art. 130 CPP et la référence citée). Les empêchements
+psychiques, plus particulièrement, ne supposent pas que le prévenu souffre nécessairement
+de troubles d'ordre psychiatrique ; il suffit qu’il puisse être établi qu'il ne
+saisisse pas ou plus les enjeux auxquels il est confronté dans la procédure pénale (Moreillon/Parein-Reymond,
+op. cit., n. 17 ad art. 130 CPP et la référence citée ; Ruckstuhl, op. cit.,
+n. 30 ad art. 130 CPP et la référence citée). D’après la doctrine,
+l’état physique ou psychique altéré peut être temporaire et résulter par
+exemple d’un accident ou d’une maladie, ou encore d’un traitement médicamenteux
+lourd ; dans de tels cas de figure, une défense obligatoire doit être assurée (cf.
+Ruckstuhl, op. cit., nn. 28 ss ad art. 130 CPP).
+La direction de la procédure dispose d'une marge d'appréciation pour déterminer si le
+prévenu frappé d'une incapacité personnelle peut suffisamment se défendre ou non ;
+au vu du but de protection visé par le cas de défense obligatoire, l’autorité devra
+se prononcer en faveur de la désignation d’un défenseur d’office en cas de doute
+ou lorsqu’une expertise psychiatrique constate l’irresponsabilité du prévenu, respectivement
+une responsabilité restreinte de celui-ci (TF 1B_285/2016 précité).
+2.2.3
+En vertu de l'art. 131 CPP, en cas de défense obligatoire, la direction de la procédure pourvoit
+à ce que le prévenu soit assisté aussitôt d’un défenseur (al. 1).
+Si les conditions requises pour la défense obligatoire sont remplies lors de l’ouverture de
+la procédure préliminaire, la défense doit être mise en œuvre après la
+première audition par le ministère public et, en tout état de cause, avant l’ouverture
+de l’instruction (al. 2). Les preuves administrées avant qu’un défenseur ait été
+désigné, alors même que la nécessité d’une défense aurait dû
+être reconnue, ne sont exploitables qu’à condition que le prévenu renonce à
+en répéter l’administration (al. 3).
+Le prévenu a un droit à être spontanément
+pourvu d’un défenseur d’office dans les cas de défense obligatoire, lorsque le
+prévenu ne désigne pas un défenseur de choix (ATF 143 I 164 consid. 2.3, RDAF 2018
+I 310 ; ATF 131 I 350 consid. 2.1). Il existe une ambiguïté sur le point de savoir si,
+par l'expression « première audition » de l'art. 131 al. 2 CPP, le législateur
+entendait la première audition effective (soit par la police, soit par le ministère public)
+ou celle conduite par le ministère public, comme cela apparaît dans le texte légal adopté.
+Selon la jurisprudence de la Chambre des recours pénale, il y a lieu de considérer que le législateur
+a souhaité garantir la défense obligatoire dès la première audition, au sens temporel
+du mot, c'est-à-dire même si celle-ci est menée par la police, mais avant l'ouverture
+de l'instruction par le ministère public. Cette conclusion est en accord avec la systématique
+de la loi qui exige qu'une défense obligatoire soit garantie déjà avant l'ouverture de
+l'instruction s'il s'agit d'un cas reconnaissable dès le début de la procédure préliminaire ;
+or la procédure préliminaire commence, selon l'art. 299 al. 1 CPP, au stade de l'investigation
+par la police. Si, à ce stade, il est clair qu'un cas de défense obligatoire est réalisé,
+celle-ci doit être assurée avant l'ouverture de l'instruction (CREP 14 novembre 2018/887 consid.
+3.2.3 ; CREP 29 mars 2018/236 consid. 2.1 ; CREP 15 avril 2016/247 consid. 2.1 et
+les réf. cit.). Le Tribunal fédéral a également interprété l’art. 131
+al. 2 CPP en ce sens que, face à un cas reconnaissable de défense obligatoire, la direction
+de la procédure doit la mettre en œuvre au moment de l’ouverture de l’instruction
+(art. 309 CPP), dès avant la première audition par le ministère public (TF 6B_178/2017
+consid. 2.2.1 ; Jeanneret/Kuhn, Précis de procédure pénale, 2
+e
+éd., Berne 2018, n° 7009, pp. 202 et 203).
+Il existe une incertitude liée à des divergences selon la version linguistique («
+gültig
+», «
+valido
+», mais « exploitable » en français), s’agissant de déterminer le sort
+des preuves administrées en violation de l’art. 131 al. 2 CPP. La version française imposerait
+une inexploitabilité absolue (art. 141 al. 1 CPP), tandis que les autres versions orienteraient
+vers l’application de l’art. 141 al. 2 CPP. Après avoir retenu la version française
+(TF 6B_883/2013), le Tribunal fédéral a expressément laissé la question ouverte (ATF
+141 IV 289 consid. 2.4, JdT 2016 IV 89 ; TF 6B_990/2017 consid. 2.4.4 ; TF 6B_124/2015 consid.
+2.1.2). Selon la doctrine dominante, il convient de retenir l’hypothèse de l’inexploitabilité
+absolue, d’une part, parce que cela correspond à la volonté du législateur, et,
+d’autre part, en raison du caractère cardinal du droit à l’assistance de l’avocat
+au sein des principes du procès équitable (Jeanneret/Kuhn, op. cit., n° 7009, p. 203,
+et les références citées en note de bas de page 28 ; Ruckstuhl,
+in
+: Niggli/Wiprächtiger [éd.], Basler Kommentar, Strafrecht II, Art. 111-392 StGB, 3
+e
+éd., Bâle 2013, n. 17 ad art. 131 CPP [qui analyse la volonté du législateur] ;
+contra
+:
+Schmid/Jositsch, Praxiskommentar, op. cit., n. 8 ad art. 131 CPP).
+2.2.4
+Selon l’art. 141 al. 5 CPP, les pièces relatives aux moyens de preuves non exploitables doivent
+être retirées du dossier pénal, conservées à part jusqu’à la clôture
+définitive de la procédure, puis détruites.
+Il convient de distinguer deux cas de figure : soit la nécessité d'un défenseur était
+reconnaissable au moment de l'administration de la preuve et, dans ce cas, la preuve administrée
+sans le défenseur n'est en principe pas exploitable et doit être répétée ;
+soit il était impossible au début de la procédure préliminaire de déterminer
+si un défenseur d'office était nécessaire et par conséquent constituait un cas de
+défense obligatoire, les preuves administrées en l'absence du défenseur restant valables
+(CREP 4 décembre 2018/940 consid. 3.2.2 ; Moreillon/Parein-Reymond, op. cit., n. 11 ad art.
+131 CPP).
+Si les conditions de la défense obligatoire lors de l’audition sont réalisées, on
+peut attendre du prévenu, respectivement de son défenseur obligatoire désigné, qu’il
+demande immédiatement la répétition de l’administration de la preuve, conformément
+au principe de la bonne foi en procédure (art. 3 al. 2 let. a CPP), qui s’applique également
+aux parties, s’agissant notamment du délai dans lequel le prévenu doit requérir
+le retranchement d’un procès-verbal d’audition (CREP 4 décembre 2018/940 consid.
+3.2.2 ; Moreillon/Parein-Reymond, op. cit., n. 12 ad art. 131 CPP). Ce principe interdit tout
+comportement contradictoire (cf. ATF 143 IV 117 consid. 3.2 ; ATF 137 V 394 consid. 7.1 ; ATF
+136 I 254 consid. 5.2).
+2.2.5
+En dehors des cas de défense obligatoire au sens de l’art. 130 CPP (art. 132 al. 1 let. a
+CPP), la direction de la procédure ordonne une défense d’office si le prévenu ne
+dispose pas des moyens nécessaires et si l’assistance d’un défenseur est justifiée
+pour sauvegarder ses intérêts (art. 132 al. 1 let. b CPP), ces deux conditions étant cumulatives
+(Harari/Aliberti, op. cit., n. 55 ad art. 132 CPP). La défense d’office aux fins de protéger
+les intérêts du prévenu se justifie notamment lorsque l’affaire n’est pas
+de peu de gravité et qu’elle présente, sur le plan des faits ou du droit, des difficultés
+que le prévenu seul ne pourrait pas surmonter (art. 132 al. 2 CPP). En tout état de cause,
+une affaire n’est pas de peu de gravité lorsque le prévenu est passible d’une peine
+privative de liberté de plus de quatre mois, d’une peine pécuniaire de plus de 120 jours-amende
+ou d’un travail d’intérêt général de plus de 480 heures (art. 132
+al. 3 CPP).
+Les critères énoncés par l'art. 132 al. 1 let. b, al. 2 et 3 CPP reprennent largement
+la jurisprudence du Tribunal fédéral en matière d'assistance judiciaire, rendue sur la
+base des art. 29 al. 3 Cst. et 6 ch. 3 let. c CEDH. Selon la jurisprudence, la désignation d'un
+défenseur d'office dans une procédure pénale est nécessaire lorsque le prévenu
+est exposé à une longue peine privative de liberté ou s'il est menacé d'une peine
+qui ne peut pas être assortie du sursis. Elle peut aussi l'être, selon les circonstances, lorsque
+le prévenu encourt une peine privative de liberté de quelques semaines à quelques mois
+si, à la gravité relative du cas, s'ajoutent des difficultés particulières du point
+de vue de l'établissement des faits ou des questions juridiques soulevées, qu'il ne serait
+pas en mesure de résoudre seul. En revanche, lorsque l'infraction n'est manifestement qu'une bagatelle,
+en ce sens que son auteur ne s'expose qu'à une amende ou à une peine privative de liberté
+de courte durée, la jurisprudence considère que l'auteur n'a pas de droit constitutionnel à
+l'assistance judiciaire (ATF 143 I 164 consid. 3.5).
+Pour évaluer si l'affaire présente des difficultés que le prévenu ne pourrait pas
+surmonter sans l'aide d'un avocat, il y a lieu d'apprécier l'ensemble des circonstances concrètes.
+La nécessité de l'intervention d'un conseil juridique doit ainsi reposer sur des éléments
+objectifs, tenant principalement à la nature de la cause, et sur des éléments subjectifs,
+fondés sur l'aptitude concrète du requérant à mener seul la procédure (TF 1B_93/2018
+du 29 mai 2018 consid. 3.1 ; TF 1B_257/2013 du 28 octobre 2013 consid. 2.1
+in
+SJ 2014 I 273). S'agissant de la difficulté objective de la cause, à l'instar de ce qu'elle
+a développé en rapport avec les chances de succès d'un recours, la jurisprudence impose
+de se demander si une personne raisonnable et de bonne foi, qui présenterait les mêmes caractéristiques
+que le requérant mais disposerait de ressources suffisantes, ferait ou non appel à un avocat
+(ATF 140 V 521 consid. 9.1). La difficulté objective d'une cause est admise sur le plan juridique
+lorsque la subsomption des faits donne lieu à des doutes, que ce soit de manière générale
+ou dans le cas particulier; elle est également retenue, quand il faut apprécier des faits justificatifs
+ou exclusifs de responsabilité ou lorsque la distinction entre infraction simple et infraction grave
+à la loi sur la circulation routière est litigieuse. Pour apprécier la difficulté
+subjective d'une cause, il faut tenir compte des capacités du prévenu, notamment de son âge,
+de sa formation, de sa plus ou moins grande familiarité avec la pratique judiciaire, de sa maîtrise
+de la langue de la procédure, ainsi que des mesures qui paraissent nécessaires, dans le cas
+particulier, pour assurer sa défense, notamment en ce qui concerne les preuves qu'il devra offrir
+(TF 1B_93/2018 du 29 mai 2018 consid. 3.1 et les nombreux arrêts cités).
+2.3
+En l’espèce, il s’agit de déterminer si le recourant était dans un cas de
+défense obligatoire reconnaissable.
+A partir du moment où le recourant a avoué qu’il était le conducteur lors de l’accident,
+les policiers devaient reconnaître qu’il y avait de très fortes chances qu’il ait
+le statut de prévenu de lésions corporelles graves par négligence et de violation grave
+des règles de la circulation routière (le décès d’une passagère étant
+survenu ultérieurement).
+Invités à se déterminer par le procureur, les agents de police ont exposé que, lors
+de l’audition du 7 septembre 2018, le recourant souffrait, qu’il gémissait et était
+dans un état somnolent ; ils ont cependant jugé ses propos « cohérents »
+et ont relevé que le recourant n’avait pas manifesté sa volonté d’interrompre
+l’audition (P. 35). D’après les agents, une infirmière les avait informés
+que l’audition était possible.
+On relèvera que le recourant souffrait notamment d’un traumatisme crânien simple, de
+lacérations au foie, qu’il avait des côtes cassées, le nez cassé et une fracture
+de la main, ces lésions ayant nécessité des soins à l’hôpital durant huit jours
+(P. 65). Il était également sous l’effet de médicaments, notamment à base de
+morphine, qui peuvent altérer l’état de conscience.
+Le fait qu’une infirmière a estimé que l’audition, voire simplement une visite,
+était « possible » n’implique pas que le recourant était, du point
+de vue de son état physique et psychique, suffisamment capable de défendre ses intérêts
+dans le cadre de la procédure pénale. Au vu des circonstances, les policiers auraient dû
+avoir des doutes sur la capacité du recourant à être interrogé et à tout le
+moins, s’en enquérir auprès d’un médecin. En l’absence d’un avis
+contraire émis par un médecin et à partir du moment où le recourant a admis avoir
+été le conducteur, les policiers auraient dû constater qu’il existait des indices
+suffisants que le recourant n’était pas apte à assurer sa propre défense et par
+conséquent, qu’un défenseur lui était probablement nécessaire. Il ressort du
+reste de l’ordonnance attaquée que les policiers avaient été « surpris
+par ces aveux » et qu’ils avaient des raisons d’en douter, au vu des premiers éléments
+de l’enquête. Le fait qu’ils aient jugé les propos du recourant « cohérents »,
+en dépit de son état souffrant, somnolent et gémissant, est pour le moins contradictoire.
+En l’état, le dossier ne permet pas de savoir si le prévenu était, du fait de l’accident,
+du choc que celui-ci a impliqué ou encore des médicaments pris, notamment contre la douleur,
+à même d’assurer intellectuellement et physiquement sa participation à la procédure,
+et en particulier s’il était à même de saisir les enjeux auxquels il était
+confronté dans la procédure pénale. Dans ces conditions, ce point doit être instruit
+précisément, par l’interpellation des médecins de l’Hôpital Riviera Chablais
+de Monthey qui se sont occupés du recourant, auxquels le procureur demandera des renseignements
+sur ces faits, conformément à l’art. 195 al. 1 CPP. Le recourant sollicite sur ce point
+une expertise. Cependant, la production d’un rapport médical selon cette disposition paraît
+suffisante. Celui-ci sera établi après que le recourant aura, à la demande du procureur,
+délié du secret médical les médecins en cause ainsi que tout le personnel médical
+auquel ces médecins pourraient demander des renseignements (étant précisé que sa
+déclaration en ce sens émise lors de l’audition litigieuse, PV aud. 2 R 13, n’est
+pas suffisante).
+3.
+Il résulte de ce qui précède que le recours doit être admis, la décision du
+22 novembre 2018 annulée et la cause renvoyée au Ministère public de l’arrondissement
+de l’Est vaudois pour nouvelle décision dans le sens des considérants.
+Me Yaël Hayat a produit une liste d’opération faisant état d’un total de six heures
+consacrées à la procédure de recours (P. 71/3). Il convient d’admettre la durée
+des opérations indiquées, à l’exception de l’heure attribuée au chef
+d’étude pour le suivi du dossier, qui ne se justifie pas. En effet, il ressort de la liste
+d’opérations produite que l’étude du dossier, les recherches juridiques et la rédaction
+du recours ont été effectuées par un avocat breveté, qui peut donc être autonome
+dans la gestion du dossier. Ainsi, les opérations à rémunérer totalisent cinq heures
+consacrées par un avocat breveté, au tarif de 180 fr. de l’heure (cf. art. 2 al.
+1 RAJ [Règlement sur l’assistance judiciaire en matière civile du 7 décembre
+2010 ; BLV 211.02.3] ; ATF 137 III 185), ce qui donne lieu à 900 fr. à
+titre d’honoraires. A ce montant s’ajoute la TVA sur le tout, au taux de 7,7 %, par
+69 fr. 30. Il en résulte que l’indemnité qui doit être allouée à Me Yaël
+Hayat se monte au total à 969 fr. 30.
+Les frais de recours, constitués de l’émolument d’arrêt, par 1’540 fr.,
+et de l’indemnité du défenseur d’office, par 969 fr. 30, soit au total par
+2'509
+fr. 30, seront laissés à la charge de l’Etat (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+La décision du 22 novembre 2018 est annulée.
+III.
+La cause est renvoyée au Ministère public
+de l’arrondissement de l’Est vaudois pour nouvelle décision dans le sens des considérants.
+IV.
+L’indemnité allouée au défenseur d’office du recourant est fixée à
+969 fr. 30 (neuf cent soixante-neuf francs et trente centimes).
+V.
+Les frais d’arrêt, par 1’540 fr., (mille cinq cent quarante francs), ainsi que l’indemnité
+due au défenseur d’office du recourant, par 969 fr. 30 (neuf cent soixante-neuf francs et
+trente centimes), sont laissés à la charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Yaël Hayat, avocate (pour R.________),
+-
+Me Lise-Marie Gonzalez Pennec, avocate (pour T.________ et F.________),
+-
+Me Magali Vazquez-Rodriguez, avocate (pour L.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+sur l’organisation des autorités fédérales du 19 mars 2010 ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
