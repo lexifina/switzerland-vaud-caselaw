@@ -1,0 +1,253 @@
+---
+decision_id: "vd_findinfo_D_cision___2019___97"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2019 / 97"
+decided: "2019-01-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7021613"
+cites_law: ["switzerland/bund/acts/142.20/art-115.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-064.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-094.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-356.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2019 / 97
+
+## Regeste
+
+DÉLAI DE RECOURS, OPPOSITION{PROCÉDURE}, RESTITUTION DU DÉLAI | 354 CPP (CH), 356 al. 2 CPP (CH), 91 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.01.2019 Décision / 2019 / 97
+
+DÉLAI DE RECOURS, OPPOSITION{PROCÉDURE}, RESTITUTION DU DÉLAI | 354 CPP (CH), 356 al. 2 CPP (CH), 91 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+78
+AM18.009330/TDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 janvier 2019
+__________________
+Composition
+:               M.
+M E Y L A N, président
+MM.
+Abrecht et Oulevey, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+94 al. 1, 354 al. 1, 356 al. 2 CPP
+Statuant sur le recours interjeté le 3 septembre 2018 par
+R.________
+contre le prononcé rendu le 17 août 2018 par le Tribunal de police de l’arrondissement
+de Lausanne dans la cause
+n° AM18.009330/TDE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 6 mai 2018, lors du « Carnaval de Lausanne », R.________, née en 1984, ressortissante
+de Thaïlande, qui résidait alors au Centre d’accueil de Malley-Prairie, lequel prend
+en charge des femmes victimes de violences domestiques, est allée se promener sur la place de l’Europe
+avec son fils [...], né le 21 novembre 2009. Elle y a été abordée par son compagnon,
+qui voulait que l’enfant retourne avec lui. Déclarant craindre son compagnon, qui souffrirait
+de troubles psychiatriques, R.________ s’est réfugiée avec son fils au poste sanitaire
+installé sur la place de l’Europe (caravane Hermostaz). Les responsables du poste ont appelé
+la police. R.________ a alors fait l’objet d‘un contrôle, dont il est ressorti qu’elle
+séjournerait illicitement en Suisse et qu’elle y aurait travaillé sans autorisation.
+Elle a été entendue sans l’assistance d’un interprète, ayant déclaré,
+selon le procès-verbal qu’elle a signé, qu’elle comprenait le français. Elle
+a été informée qu’elle était entendue en qualité de prévenue dans
+une procédure pénale.
+Par ordonnance pénale du 23 juillet 2018, le Ministère public de l’arrondissement de
+Lausanne a condamné R.________, pour séjour illégal selon l’art. 115 al. 1 let.
+b LEtr (loi sur les étrangers du 16 décembre 2005, devenue loi sur les étrangers et l’intégration
+le 1
+er
+janvier 2019; RS 142.20) et activité lucrative sans autorisation au sens de l’art. 115 al.
+1 let. c LEtr, à une peine pécuniaire de 180 jours-amende de 40 fr., avec sursis pendant deux
+ans, et à une peine d’amende de 1'440 fr., convertible en 14 jours de privation de liberté
+en cas de défaut de paiement fautif.
+Cette ordonnance a été expédiée par pli recommandé envoyé à R.________
+par l’adresse du Centre d’accueil de Malley-Prairie. Le pli a été distribué
+le 24 juillet 2018 au personnel du Centre d’accueil de Malley-Prairie. Un employé du centre
+a déposé un billet, rédigé en français, dans le casier de R.________, invitant
+celle-ci à retirer son pli à la réception.
+Le 6 août 2018, le pli recommandé se trouvant toujours à la réception, le personnel
+du Centre d’accueil Malley-Prairie a laissé un message vocal sur le téléphone cellulaire
+de R.________, l’invitant à retirer son pli. Celle-ci est passée le chercher le jour
+même (cf. P. 10/1).
+B.
+Par lettre datée du 7 août 2018 et postée
+le 8 août 2018, R.________ a formé opposition contre l’ordonnance pénale (P. 5).
+Par prononcé du 17 août 2018, le Tribunal de police de l’arrondissement de Lausanne a
+déclaré irrecevable, pour tardiveté, l’opposition de R.________. Expédié
+le 21 août 2018, ce prononcé a été reçu par R.________ au plus tôt le lendemain,
+mercredi 22 août 2018.
+C.
+Par
+acte du lundi 3 septembre 2018, intitulé « recours », adressé à la cour de céans
+et reçu au greffe le 4 septembre 2018 (cf. P. 10), R.________ a recouru contre ce prononcé,
+en concluant, avec suite de frais, à l’annulation du prononcé du 17 août 2018 et
+à ce qu’ordre soit donné au Tribunal d’arrondissement de Lausanne d’entrer
+en matière sur l’opposition. Dans les motifs du mémoire de recours, la recourante a également
+écrit ce qui suit : « (…) je vous demande de bien vouloir restituer le délai pour
+faire opposition (…) ».
+En droit
+:
+1.
+1.1
+Le prononcé par lequel
+un tribunal de première instance, statuant sur la validité de l'opposition formée par
+le prévenu contre une ordonnance pénale rendue par le ministère public (cf. art. 356 al.
+2 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]), déclare l'opposition
+irrecevable, par exemple pour cause de tardiveté, est susceptible de recours selon les art. 393
+ss CPP (Gilliéron/Killias,
+in
+: Kuhn/Jeanneret [éd.], Code de procédure pénale suisse, Commentaire romand, Bâle
+2011, n. 5 ad art. 356 CPP; Riklin,
+in
+: Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung,
+Art. 196-457 StPO – Art. 1-54 JStPO, 2
+e
+éd., Bâle 2014, n. 2 ad art. 356 CPP; CREP 26 septembre 2018/750 et les réf. citées).
+En l'espèce, interjeté en temps utile (art. 396 al. 1 CPP) devant l’autorité compétente
+(art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse du 19 mai 2009;
+BLV 312.01]; art. 80 LOJV [loi d'organisation judiciaire du 12 septembre 1979; BLV 173.01]), par la prévenue
+qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP),
+le recours est recevable.
+1.2
+Les pièces nouvelles
+annexées au recours sont recevables (art. 390   al. 4 in fine CPP).
+2.
+2.1
+Le prévenu peut former opposition contre l’ordonnance pénale devant le ministère
+public par écrit et dans les dix jours (art. 354 al. 1 let. a CPP). Le délai de dix jours pour
+former opposition – qui ne peut être prolongé (art. 89 al. 1 CPP) – commence à
+courir le jour qui suit la notification de l’ordonnance entreprise (art. 90 al. 1 CPP).
+2.2
+Le prononcé est réputé
+notifié lorsqu'il a été remis au destinataire, à l'un de ses employés ou à
+toute personne de plus de seize ans vivant dans le même ménage (art. 85 al. 3 CPP).
+Selon certains auteurs, la notion de « personne vivant dans le même ménage » est
+proche de celle de « familier » de l'art. 110 CP (Code pénal suisse du 21 décembre
+1937; RS 311.0), lequel énonce que les familiers d’une personne sont ceux qui font ménage
+commun avec elle (cf. Macaluso/Toffel, Commentaire romand, Code de procédure pénale suisse,
+Bâle 2011, n. 25 ad art. 85 CPP). Cependant, l’art. 85 CPP n’est pas sans rappeler l’art.
+64 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite; RS
+281.1), qui prévoit que, si le débiteur est absent de sa demeure, l’acte de poursuite
+peut être remis à une personne adulte de son ménage. Comme ces deux dispositions légales
+poursuivent toutes deux un même but – celui de faire avancer équitablement une procédure
+–, il semble plus conforme à la volonté du législateur de rapprocher la notion de
+« personne vivant dans le même ménage » au sens de l’art. 85 CPP de celle de
+l’art. 64 al. 1 LP, laquelle n’est pas nécessairement aussi restrictive que la notion
+de familier au sens de l’art. 110 CP.
+Dans le cadre de l’art. 64 al. 1 LP, lorsque le destinataire d’un acte de poursuite réside
+dans une institution, la notification en mains d'une personne majeure qui collabore à l'exploitation
+de cette institution doit être considérée comme valable, à tout le moins lorsque
+les pensionnaires ne sont pas de simples locataires, mais bénéficient de prestations autres
+que le logement et de nature à créer une certaine communauté domestique (ATF 117 III 5
+consid. 1). Il y a lieu d’appliquer la même règle à la notification d’un prononcé
+en vertu de l’art. 85 CPP.
+2.3
+En l’espèce, lorsque le pli recommandé contenant l’ordonnance pénale a été
+remis au personnel de la réception du Centre d’accueil de Malley-Prairie, la recourante était
+prise en charge par cette institution depuis près de trois mois en tout cas. Elle occupait un logement
+mis à sa disposition par cette institution, qui n’était, pour des raisons de sécurité,
+pas équipé d’une boîte aux lettres propre, ni d’une sonnette indiquant le
+nom de la recourante. Conformément à son but protecteur, l’institution faisait rempart
+entre la recourante et le monde extérieur. Dans ces conditions, il y a lieu de retenir que la recourante
+formait une certaine communauté domestique avec le personnel de l’institution. Dès lors,
+l’ordonnance pénale a été valablement notifiée à la recourante par sa
+remise au personnel du Centre d’accueil de Malley-Prairie le 24 juillet 2018.
+3.
+3.1
+Le délai de dix jours
+pour former opposition – qui ne peut pas être prolongé (art. 89 al. 1 CPP) – commence
+à courir le jour qui suit la notification de l’ordonnance entreprise (art. 90 al. 1 CPP).
+L’opposition doit être remise au plus tard le dernier jour du délai à l’autorité
+pénale, à la Poste suisse, à une représentation consulaire ou diplomatique suisse
+ou, s’agissant de personnes détenues, à la direction de l’établissement carcéral
+(art. 91 al. 2 CPP).
+3.2
+En l’espèce, notifiée le 24 juillet 2018, l’ordonnance pénale pouvait être
+frappée d’opposition jusqu’au vendredi 3 août 2018. Déposée le 8 août
+2018 seulement, l’opposition de la recourante est tardive. C’est dès lors à bon
+droit que le Tribunal de police de l’arrondissement de Lausanne l’a déclarée irrecevable.
+Les conclusions de la recourante en annulation du prononcé du 17 août 2018 et en renvoi de
+la cause à ce tribunal pour qu’il entre en matière doivent être rejetées.
+4.
+4.1
+Selon l’art. 94 al. 1 CPP, une partie peut demander la restitution d’un délai si elle
+a été empêchée de l’observer et qu’elle est de ce fait exposée à
+un préjudice important et irréparable. Selon l’art. 94 al. 2 CPP, la demande de restitution,
+dûment motivée, doit être adressée par écrit dans les trente jours à compter
+de celui où l’empêchement a cessé, à l’autorité auprès de laquelle
+l’acte de procédure aurait dû être accompli; l’acte de procédure omis
+doit être répété durant ce délai. Enfin, un acte de procédure adressé
+à une autorité incompétente est réputé accompli en temps utile s’il parvient
+le dernier jour du délai à une autorité incompétente suisse, qui a alors l’obligation
+de le transmettre sans retard (art. 91 al. 4 CPP).
+4.2
+En l’espèce, la requête de restitution de délai formulée, en plus des conclusions
+en annulation du prononcé du 17 août 2018, dans les motifs de l’acte du 3 septembre 2018
+intitulé « recours » relève de la compétence du ministère public. Il convient
+dès lors de transmettre le dossier au Ministère public de l’arrondissement de Lausanne
+pour décision sur cette requête.
+5.
+En définitive, le recours doit être rejeté et le prononcé attaqué confirmé.
+Le dossier sera toutefois transmis au Ministère public de l’arrondissement de Lausanne pour
+décision sur la requête de restitution de délai formée par la prévenue dans
+son acte du 3 septembre 2018.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+du présent arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront
+mis à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours formé par R.________ dans son acte du 3 septembre 2018 est rejeté.
+II.
+Le prononcé rendu
+le 17 août 2018 par le Tribunal de police de l’arrondissement de Lausanne est confirmé.
+III.
+Le dossier est transmis
+au Ministère public de l’arrondissement de Lausanne pour décision sur la requête
+de restitution de délai formée par R.________ dans son acte du 3 septembre 2018.
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), sont mis à la charge de R.________.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme R.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Tribunal de police de l’arrondissement de Lausanne,
+-
+M. le Procureur de l’arrondissement de Lausanne,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
