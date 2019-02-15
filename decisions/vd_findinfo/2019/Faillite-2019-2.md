@@ -1,0 +1,296 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 2"
+decided: "2019-02-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7034395"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/220/art-728c.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-192.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 2
+
+## Regeste
+
+FAILLITE SANS POURSUITE PRÉALABLE, OUVERTURE DE LA FAILLITE, SURENDETTEMENT, NOUVEAU MOYEN DE PREUVE, OBLIGATION D'ANNONCER{EN GÉNÉRAL}, ORGANE DE RÉVISION | 725a al. 1 CO, 725a CO, 728c al. 3 CO
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 15.02.2019 Faillite / 2019 / 2
+
+FAILLITE SANS POURSUITE PRÉALABLE, OUVERTURE DE LA FAILLITE, SURENDETTEMENT, NOUVEAU MOYEN DE PREUVE, OBLIGATION D'ANNONCER{EN GÉNÉRAL}, ORGANE DE RÉVISION | 725a al. 1 CO, 725a CO, 728c al. 3 CO
+
+TRIBUNAL
+CANTONAL
+FZ18.042559-181987
+20
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 février 2019
+___________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+725a al. 1, 728c al. 3 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+L.________
+SA
+en
+liquidation
+, à [...], contre le jugement
+rendu le 27 novembre 2018, à la suite de l’audience du même jour, par la Présidente
+du Tribunal d’arrondissement de l’Est vaudois.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+L.________ SA en liquidation est une société
+inscrite au registre du commerce, au capital social de 100'000 francs. Selon extrait dudit registre,
+P.________ en est administratrice liquidatrice avec signature individuelle. Fiduciaire S.________ SA
+en est l’organe de révision.
+b)
+Par
+courrier du 2 octobre 2018, Fiduciaire S.________ SA a informé le Président du Tribunal d’arrondissement
+de l’Est vaudois que L.________ SA était surendettée au sens de l’art. 725 al.
+2 CO.
+Par courrier recommandé du 9 octobre 2018, la présidente a cité L.________ SA à comparaître
+à l’audience du 27 novembre 2018. Le pli, retourné par la poste au greffe du tribunal
+avec la mention «
+Le
+destinataire est introuvable à l’adresse indiquée
+»,
+a été envoyé par pli recommandé le 11 octobre 2018 à l’adresse de son
+administratrice.
+c)
+Par
+courrier du 11 octobre 2018, Fiduciaire S.________ SA a transmis à la présidente les pièces
+suivantes :
+-
+une copie des états financiers de L.________ SA au 31 décembre 2017, établis le 11 juillet
+2018, dont il ressort qu’elle a des actifs pour un montant de 2'533'289 fr. 96 (dont 2'531'000
+fr. d’actifs immobilisés) et des passifs (capitaux étrangers à court terme) pour
+un montant de 3'247'438 fr. 28, dont 2'722'318 fr. 78 de compte courant de V.________, soit un découvert
+de 714'148 fr. 32. Le compte pertes et profit fait état d’une perte en 2017 de 305'543 fr.
+45 ;
+-
+une copie d’une convention de postposition signée le 5 octobre 2018 par G.________ et L.________
+SA, par laquelle G.________ a déclaré postposer sa créance à concurrence de 800'000
+fr. derrière toutes les autres créances actuelles et futures de L.________ SA.
+d)
+Selon
+l’extrait du registre du commerce, la décision de dissolution d’office de L.________
+SA en application de l’art. 153b ORC, le délai qui lui avait été imparti pour régulariser
+la situation concernant le domicile au siège de l’entreprise étant échu sans avoir
+été utilisé, a été publiée dans la Feuille officielle suisse du commerce
+le 12 novembre 2018.
+e)
+L.________ SA en liquidation a fait défaut à l’audience du 27 novembre 2018 à laquelle
+Fiduciaire S.________ SA a comparu.
+2.
+Par décision rendue le 27 novembre 2018,
+adressée à L.________ SA en liquidation le 30 novembre 2018 et notifiée à celle-ci
+le 10 décembre 2018, la Présidente du Tribunal d’arrondissement de l’Est vaudois
+a prononcé la faillite de L.________ SA en liquidation, avec effet au 27 novembre 2018 à 16
+h 10 (I), a ordonné la liquidation sommaire de la faillite (II) et a mis les frais judiciaires,
+fixés à 200 fr., à la charge de la faillie (III).
+3.
+Par acte du 17 décembre 2018, L.________
+SA en liquidation a recouru contre ce jugement en concluant à son annulation, sa faillite étant
+annulée, subsidiairement au renvoi de la cause au premier juge pour nouvelle décision dans
+le sens des considérants. Elle a produit un bordereau de pièces et a requis que l’effet
+suspensif soit accordé au recours.
+Le 18 décembre 2018, la recourante a produit une pièce.
+Par décision du 20 décembre 2018, la présidente de la cour de céans a admis la requête
+d’effet suspensif et a ordonné, à titre de mesures conservatoires, l’inventaire
+et l’audition de la faillie.
+En droit
+:
+I.
+a)
+Déposé en temps utile (art. 174 al.
+1 LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1])
+et dans les formes requises (art. 321 al. 1 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272), le recours est recevable.
+b)
+Dans
+le cadre d’un recours contre un jugement de faillite faisant suite à un avis de surendettement,
+les pièces nouvelles produites avec le recours sont recevables sans restriction si elles se rapportent
+à des faits nouveaux s’étant produit avant le jugement de première instance (faux
+novas) (art. 174 al. 1 LP ; CPF 21 octobre 2014/359). Pour les pièces portant sur des fait
+postérieurs (vrais novas), la jurisprudence considère que la lettre de l’art. 174 al.
+2 LP exclut leur recevabilité (TF 5A_625/2015 du 18 janvier 2016 consid. 3.6.1 et les réf.
+cit.).
+En l’espèce, la pièce nouvelle 5 produite avec le recours et celle produite le 18 décembre
+2018 sont postérieures au jugement attaqué et sont donc irrecevables vu la jurisprudence susmentionnée.
+Les pièces n
+os
+6 (décision de l’Office du Registre du commerce du canton de Vaud du 26 septembre 2018 prononçant
+la dissolution de la recourante en application de l’art. 153b ORC) et 8 (procès-verbal de
+l’assemblée générale extraordinaire de la recourante du 23 octobre 2018 mentionnant
+notamment les décisions de modification du siège de la société et de renonciation
+à un contrôle restreint), sont antérieures au jugement attaqué et partant recevables.
+Toutefois, elles sont sans incidence sur le sort du recours. Les autres pièces produites avec le
+recours figurent déjà au dossier de première instance et sont donc recevables.
+II.
+a)
+Selon l’art. 728c al. 3 CO (Code des
+obligations du 30 mars 1911 ; RS 220), si la société est manifestement surendettée
+et que le conseil d’administration omet d’en aviser le juge, l’organe de révision
+avertit ce dernier. Cette obligation d’avis a donc un caractère subsidiaire à celle du
+conseil d’administration découlant de l’art. 725 al. 2 CO (Peter/Genequand/Cavadini,
+in Tercier/Amstutz/Trigo Trindade (éd.), Commentaire romand, CO II, 2
+e
+éd., n. 18 ad art. 728c CO ; Watter/Maizar, in Honsell/Vogt/Watter (éd.), Basler Kommentar
+OR II, 5
+e
+éd., n. 31 ad art. 728c CO). La notion de surendettement est la même que celle définie
+à l’art. 725 al. 2 CO, savoir lorsque l’actif social, entendu comme la totalité
+de l’actif moins les pertes éventuelles, ne couvre plus les fonds étrangers, c’est-à-dire
+lorsque les fonds propres ont été entièrement consommés par les pertes (Peter/Genequand/Cavadini,
+op. cit., n.19 ad art. 728c CO ). Si le conseil d’administration ne satisfait pas aux obligations
+d’établissement de bilans intermédiaires à la valeur d’exploitation, le cas
+échéant à la valeur de liquidation, qui lui incombent en vertu de l’art. 725 al.
+2 CO, l’organe de révision procèdera à l’avis au juge s’il n’a
+aucun doute quant au surendettement sur la base des informations qui lui sont fournies et que ce dernier
+est manifeste (ibidem). Le surendettement est manifeste quand toute personne raisonnable voit, sans nécessité
+d’autres éclaircissements, que les actifs ne couvrent plus les dettes et les réserves
+légales et que les postpositions présentées ne sont pas valables, d’une durée
+trop courte ou insuffisantes (TF 5A_221/2008 du 10 juillet 2008 ; Watter/Maizard, op. cit., n. 34
+ad art. 728c CO et références).
+L’avis prévu par l’art. 728c al. 3 CO n’est pas une requête de faillite (Peter/Genequand/Cavadini,
+op. cit., n. 22 ad art. 728c CO ; Watter/Maizar, op. cit., n. 41 ad art. 728c CO). En principe cet
+avis doit être accompagné d’un double bilan intermédiaire (établi en estimant
+les actifs tant à leur valeur d’exploitation qu’à leur valeur de liquidation),
+ainsi que d’un rapport de vérification de l’organe de révision. Toutefois les autorités
+judiciaires et la doctrine considèrent qu’il y a lieu d’entrer en matière sans
+ces éléments, pour autant qu’il résulte d’autres pièces ou d’autres
+moyens de preuve que la société est surendettée. Il s’agit en effet d’éviter
+qu’une société surendettée puisse continuer ses activités, le but étant
+de prioritairement la protection du public et en particulier des créanciers actuels et potentiels
+de la société (Peter/Genequand/Cavadini, op. cit., n. 23 ad art. 728c CO et références).
+b)
+Selon
+l’art. 725a al. 1 CO, au vu de l’avis selon l’art. 725 al. 2 ou 728c al. 3 CO (TF 5A_867/2015
+du 11 décembre 2015 consid. 5.1.1), le juge déclare la faillite. Il peut l’ajourner,
+à la requête du conseil d’administration ou d’un créancier, si l’assainissement
+de la société paraît possible ; dans ce cas il prend les mesures propres à la
+conservation de l’actif social. Le prononcé de faillite prévu par cette disposition est
+un cas de faillite d’office sans poursuite préalable selon l’art. 192 LP (TF 5A_867/2015
+précité consid. 6.1.1 ; TF 5A_517/2011 du 16 décembre 2011 consid. 3.2) Le juge doit
+s’assurer que le surendettement de la société est vraisemblable. A cette fin, il se basera
+en règle générale sur le (double) bilan intermédiaire, établi avec l’estimation
+des actifs tant à leur valeur d’exploitation qu’à leur valeur de liquidation, ainsi
+que sur le rapport de vérification de l’organe de révision, qui accompagnent en principe
+l’avis de surendettement (TF 5A_867/2015 précité, consid. 5.1.1 et références).
+Cette exigence tend notamment à éviter que, sous le couvert d’un surendettement en réalité
+inexistant, le conseil d’administration puisse obtenir la faillite de la société, partant
+sa dissolution, en contrevenant au principe fondamental selon lequel la compétence de décider
+la dissolution d’une société anonyme appartient exclusivement à l’assemblée
+générale des actionnaires (Peter/Cavadini, Commentaire romand CO II, précité, n.
+45 ad art. 725a CO et références). Toutefois, comme on l’a vu au consid. a) ci-dessus,
+le principe de la protection du public et des créanciers de la société permet au juge,
+en l’absence de ces documents, de tenir compte d’autres pièces ou d’autres moyens
+de preuve établissant que la société est effectivement surendettée (Peter/Cavadini,
+loc. cit.). En particulier, lorsqu’aucun ajournement n’est demandé, le juge peut renoncer
+à l’exigence de la révision du bilan intermédiaire, le but de la révision d’éviter
+que ledit bilan soit trop optimiste n’étant pas opérant dans cette hypothèse et
+cette exigence ne doit pas constituer un obstacle formel au détriment des créanciers (TF 5A_625/2015
+du 18 janvier 2016 consid. 3.5 et références).
+Le juge ne peut en aucun cas prononcer d’office l’ajournement de la faillite. Une requête,
+émanant du conseil d’administration ou d’un créancier, à l’exclusion
+de toute autre source, doit être formulée dans ce sens. A défaut d’une requête
+d’ajournement valable, le juge n’a d’autre choix que de déclarer la faillite de
+la société si celle-ci est surendettée (TF 5A_625/2015 du 18 janvier 2016 consid. 3.2.2 ;
+Peter/Cavadini, op. cit., nn. 14 et 15 ad art. 725a CO ; Wüstiner, in Basler Kommentar OR II
+précité, n. 5 ad art. 725a CO).
+c)
+En
+l’espèce, Fiduciaire S.________ SA a avisé le premier juge le 2 octobre 2018 que la recourante
+était surendettée. Ni elle ni la recourante n’a produit de double bilan intermédiaire
+ni de rapport de l’organe de révision. Il ressort toutefois des états financiers de L.________
+SA au 31 décembre 2017, établis le 11 juillet 2018 et transmis le 15 octobre par Fiduciaire
+S.________ SA, que la faillie avait à cette date des actifs pour un montant de 2'533'289 francs
+96 (dont 2'531'000 fr. d’actifs immobilisés) et des passifs (capitaux étrangers à
+court terme) pour un montant de 3'247'438 fr. 28, dont 2'722'318 fr. 78 de compte courant de V.________,
+soit un découvert de 714'148 fr. 32. Le compte pertes et profit faisait état d’une perte
+en 2017 de 305'543 fr. 45. Cela est suffisant au regard des considérations qui précèdent
+pour retenir que la recourante est surendettée. La convention de postposition signée le 5 octobre
+2018 par la celle-ci et G.________ est inopérante dès lors que cette dernière n’est
+pas mentionnée comme créancière dans les états financiers établis le 11 juillet
+2018 ; à cet égard, la recourante fait valoir en vain une erreur de G.________ quant à
+la désignation de la créancière, la pièce corrigeant cette prétendue erreur
+étant comme on l’a vu au consid. Ib) ci-dessus, irrecevable.
+La recourante invoque en vain une violation des art. 171 et 172 ch. 3 LP, ces dispositions présupposant
+une réquisition de faillite, alors que l’avis selon l’art. 728c al. 3 CO n’en
+est pas une et que la faillite prononcée en application de l’art. 725a al. 1 CO est un cas
+de faillite d’office sans poursuite préalable.
+La recourante n’ayant pas requis d’ajournement et son surendettement étant établi,
+le premier juge ne pouvait que prononcer la faillite.
+Enfin, une annulation de la faillite au sens de l’art. 174 al. 2 LP n’entre pas en considération.
+III.
+En conclusion, le recours manifestement mal fondé,
+doit être rejeté et le jugement confirmé, la faillite de la recourante prenant effet à
+la date du présent arrêt, vu l’effet suspensif accordé au recours.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 300
+fr., sont mis à la charge de la recourante (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de L.________ SA en liquidation, prenant effet le 15 février
+2019 à 16 h 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Astyanax Peca, avocat (pour L.________ SA en liquidation),
+‑
+Fiduciaire S.________ SA,
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office d’Aigle, de la Riviera et de Lavaux-Oron,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+Le greffier :
