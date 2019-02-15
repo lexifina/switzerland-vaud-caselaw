@@ -1,0 +1,165 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 3"
+decided: "2019-02-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7040142"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-098.md", "switzerland/bund/acts/272/art-101.md", "switzerland/bund/acts/272/art-174.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 3
+
+## Regeste
+
+CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ, AVANCE DE FRAIS, ACOMPTE | 101 al. 1 CPC (CH), 101 al. 3 CPC (CH), 98 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 15.02.2019 Faillite / 2019 / 3
+
+CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ, AVANCE DE FRAIS, ACOMPTE | 101 al. 1 CPC (CH), 101 al. 3 CPC (CH), 98 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FZ18.031912-181792
+6
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+15 février 2019
+___________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+98, 101 al. 1 et 3 CPC
+Vu la décision rendue le 18 octobre 2018, à la suite de l’audience du 4 octobre
+2018, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité de première
+instance en matière sommaire de poursuite pour dettes et de faillite, rejetant la requête de
+T.________
+Sàrl
+, à [...], tendant au prononcé
+de sa faillite sans poursuite préalable (I) et mettant à la charge de la requérante les
+frais judiciaires, fixés à 200 fr. (II),
+vu le relevé Track-and-Trace de la poste dont il ressort que cette décision a été
+notifiée à la requérante le 22 octobre 2018,
+vu le courrier de T.________ Sàrl du 25 octobre 2018, transmettant ses comptes à la Présidente
+du Tribunal d’arrondissement de Lausanne,
+vu l’écriture de la présidente du 1
+er
+novembre 2018, avisant T.________ Sàrl qu’une décision avait été rendue le
+18 octobre 2018, et l’invitant à préciser dans un délai échéant le 15
+novembre 2018 si le courrier du 25 octobre 2018 devait être considéré comme un recours,
+vu l’écriture, datée du 5 novembre 2018, déposée à la poste française
+le 6 novembre 2018 et reçue au greffe du tribunal d’arrondissement le 12 novembre 2018 par
+laquelle T.________ Sàrl confirme que son écriture du 25 octobre 2018 devait être considérée
+comme un recours,
+vu l’avis recommandé du greffe de la cour de céans du 20 novembre 2018, notifié
+à la recourante le 24 novembre 2018, lui impartissant un délai de quinze jours dès réception
+pour s’acquitter de l’avance des frais de recours, par 300 fr., étant précisé
+qu’un paiement était effectué dans le délai s’il était versé à
+la poste suisse ou débité d’un compte bancaire ou postal en Suisse le dernier jour du
+délai,
+vu l’écriture de la recourante datée du 1
+er
+décembre 2018, remise à la poste française le 3 décembre 2018 et reçue au greffe
+de la cour de céans le 6 décembre 2018, faisant valoir qu’elle avait déjà
+versé 200 fr. pour le dossier de liquidation, qu’elle ne bénéficiait que d’un
+solde de 114 fr. 50 rendant impossible le paiement de l’avance des frais de recours et soutenant
+que cette avance devait être effectuée par sa fiduciaire, dès lors que celle-ci avait
+fourni tardivement les documents nécessaires,
+vu l’avis recommandé du greffe de la cour de céans du 14 décembre 2018, notifié
+à la recourante le 18 décembre 2018, se référant à celui du 20 novembre
+2018, constatant que l’avance de frais n’avait pas été effectuée et impartissant
+à la recourante un délai supplémentaire non prolongeable de cinq jours pour effectuer
+l’avance de frais de 300 fr. requise, faute de quoi il ne serait pas entré en matière
+sur le recours,
+vu l’extrait du compte commercial de la cour de céans attestant de la réception le 27
+décembre 2018 du versement par la recourante de la somme de 296 francs 56 en règlement de l’avance
+de frais,
+vu les autres pièces du dossier ;
+attendu que le recours a été interjeté dans le délai de dix jours de l’art.
+174 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1),
+que, selon l’art. 98 CPC (Code de procédure civile du 19 décembre 2008, RS 272), applicable
+par renvoi de l’art. 174 al. 1 CPC, le tribunal peut exiger du demandeur une avance à concurrence
+de la totalité des frais judiciaires présumés,
+que le tribunal impartit un délai pour la fourniture des avances de frais (art. 101 al. 1 CPC),
+que, si les avances ne sont pas fournies à l’échéance d’un délai supplémentaire,
+le tribunal n’entre pas en matière sur la demande ou la requête (art. 101 al. 3 CPC),
+que la jurisprudence a précisé que la sanction de l’irrecevabilité du recours pour
+défaut de paiement à temps de l’avance de frais ne procédait pas d’un formalisme
+excessif ou d’un déni de justice, pour autant que les parties aient été averties
+de façon appropriée du montant à verser, du délai imparti pour le versement et des
+conséquences de l’inobservation de ce délai (ATF 133 V 402 consid. 3.3 ; TF 2D_45/2012
+du 10 septembre 2012 consid. 5.1 et références),
+que, lorsque ces conditions sont remplies, un paiement partiel quasi intégral dans le délai
+ne suffit pas pour échapper à l’irrecevabilité du recours (TF 2D_45/2012 précité
+consid. 5.2),
+qu’en l’espèce, la recourante a été avisée le 20 novembre 2018 du montant
+de l’avance des frais de recours, du délai imparti pour effectuer celle-ci, ainsi que des
+modalités de paiement à effectuer pour respecter le délai,
+que, le paiement n’étant pas intervenu dans le délai, le greffe de la cour de céans
+a imparti à la recourante, le 14 décembre 2018, un délai supplémentaire pour effectuer
+l’avance de frais requise, conformément à l’art. 101 al. 3 CPC, et l’a informée
+des conséquences du défaut de l’inobservation de ce délai supplémentaire,
+que les conditions posées par la jurisprudence susmentionnée sont dès lors remplies,
+que le versement partiel de la recourante de 296 fr. 56, sur les 300 fr. réclamés, reçu
+le 27 décembre 2018, ne satisfait donc pas aux exigences découlant des art. 98 et 101 CPC,
+que l’obligation de fournir l’avance de frais ne pouvait être imposée à la
+fiduciaire de la recourante, comme celle-ci le demande dans son écriture du 1
+er
+décembre
+2018, ladite fiduciaire n’étant pas partie à la présente procédure,
+que le recours est en conséquence irrecevable pour défaut de paiement complet de l’avance
+de frais ;
+attendu que l’irrecevabilité du recours ne prive pas la recourante de son droit de déposer
+une nouvelle requête, accompagnée des pièces nécessaires, devant le premier juge ;
+attendu que le présent arrêt peut être rendu sans frais, l’avance partielle étant
+restituée à la recourante.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt est rendu sans frais.
+III.
+L’avance partielle de 296 fr. 56 (deux cent
+nonante-six francs et cinquante-six centimes) est restituée à la recourante.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+T.________ Sàrl,
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+Le greffier :
