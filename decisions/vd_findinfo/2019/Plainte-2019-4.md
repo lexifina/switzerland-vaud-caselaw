@@ -1,0 +1,706 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 4"
+decided: "2019-02-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7049357"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-144.md", "switzerland/bund/acts/220/art-545.md", "switzerland/bund/acts/281.1/art-010.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-070.md", "switzerland/bund/acts/281.1/art-085.md", "switzerland/bund/acts/281.1/art-116.md", "switzerland/bund/acts/281.1/art-117.md", "switzerland/bund/acts/281.1/art-121.md", "switzerland/bund/acts/281.1/art-123.md", "switzerland/bund/acts/281.1/art-132.md", "switzerland/bund/acts/281.41/art-001.md", "switzerland/bund/acts/281.41/art-009.md", "switzerland/bund/acts/281.41/art-010.md", "switzerland/bund/acts/281.41/art-012.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 4
+
+## Regeste
+
+RÉCUSATION, RÉQUISITION DE RÉALISER, SURSIS À LA RÉALISATION, SOLIDARITÉ PASSIVE, PART DE COMMUNAUTÉ, EXÉCUTION DE LA SAISIE | 10 al. 1 ch. 4 LP, 116 LP, 123 LP, 132 LP, 70 al. 2 LP, 10 al. 2 OPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 20.02.2019 Plainte / 2019 / 4
+
+RÉCUSATION, RÉQUISITION DE RÉALISER, SURSIS À LA RÉALISATION, SOLIDARITÉ PASSIVE, PART DE COMMUNAUTÉ, EXÉCUTION DE LA SAISIE | 10 al. 1 ch. 4 LP, 116 LP, 123 LP, 132 LP, 70 al. 2 LP, 10 al. 2 OPC
+
+TRIBUNAL
+CANTONAL
+FA18.034097-181789
+3
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 février 2019
+____________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+10 al. 1 ch. 4, 70 al. 2, 116, 123, 132 LP ; 10 al. 2 OPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.H.________
+,
+à [...], et
+B.H.________
+,
+audit lieu, contre la décision rendue le 30 octobre 2018, à la suite de l’audience du
+2 octobre 2018, par la Présidente du Tribunal d’arrondissement de l’Est vaudois,
+autorité inférieure de surveillance, constatant la dissolution de la société simple
+formée par les recourants à la réquisition de l’
+Office
+des poursuites du district de la Riviera-Pays-d'Enhaut
+,
+à Vevey.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+A.H.________
+et B.H.________ sont propriétaires, en société simple, de l’immeuble RF n°
+[...], plan n° [...], sis [...], à [...]. L’estimation de la valeur fiscale de cet immeuble
+est de 550'000 fr. et sa valeur assurée de 533'866 francs. Il est grevé d’une cédule
+hypothécaire au porteur de 450'000 fr., avec intérêt maximum de 10 %, dont le porteur
+est la Banque S.________. Celle-ci a dénoncé cette cédule au remboursement et a introduit
+une poursuite en réalisation de gage immobilier contre chacun des propriétaires, qui ont formé
+opposition totale le 12 février 2018.
+b)
+Le
+12 avril 2017, l’Office des poursuites du district de la Riviera-Pays-d’Enhaut (ci-après :
+l’Office des poursuites) a établi un procès-verbal de saisie des biens de B.H.________
+dans la série 1 comprenant les poursuites n
+os
+7'949’498, 7'949’491, 7'949’492, 7'949’494, 7'646’485, 7'643’730,
+7'643’464 et 7'643’472 exercées par la Confédération suisse et l’Etat
+de Vaud, représentés par l’Office d’impôt des districts de la Riviera-Pays-d’Enhaut
+et de Lavaux-Oron (ci-après : l’Office d’impôt). La saisie portait sur la
+part, soit les droits de liquidation, de la débitrice dans la liquidation de la société
+simple qu’elle forme avec son époux sur l’immeuble RF n° [...] susmentionné,
+ainsi que sur la rente mensuelle dont était bénéficiaire la débitrice. Le procès-verbal
+mentionne que la réquisition de vente pour les biens mobiliers peut être formée du 8 mars
+2017 au 8 février 2018 et précise que, lorsque la réquisition de vente n’est
+pas formée dans ce délai ou qu’elle est retirée sans être réintroduite,
+la poursuite s’éteint en application de l’art. 121 LP (loi fédérale du 11
+avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1). Ce procès-verbal n’a
+fait l’objet d’aucune plainte.
+Le 12 avril 2017 également, l’Office des poursuites a établi un procès-verbal de
+saisie des biens d’A.H.________ dans la série 2 comprenant les poursuites n
+os
+7'949’497, 7'949’496, 7'949’495, 7'949’493, 7'643’470, 7'643’723,
+7'643’463 et 7'646'477 exercées par la Confédération suisse et l’Etat de Vaud,
+représentés par l’Office d’impôt. La saisie portait sur la part, soit les
+droits de liquidation du débiteur dans la liquidation de la société simple qu’il
+forme avec son épouse sur l’immeuble RF n° [...] susmentionné, ainsi que sur la
+rente mensuelle dont était bénéficiaire le débiteur. Le procès-verbal mentionne
+que la réquisition de vente pour les biens mobiliers peut être formée du 8 mars 2017
+au 8 février 2018 et précise que, lorsque la réquisition de vente n’est pas
+formée dans ce délai ou qu’elle est retirée sans être réintroduite, la
+poursuite s’éteint en application de l’art. 121 LP. Ce procès-verbal n’a
+fait l’objet d’aucune plainte.
+L’entier des seize poursuites susmentionnées ont fait l’objet de réquisitions de
+vente du 24 avril 2017 reçues par l’Office des poursuites le 1
+er
+mai 2017.
+c)
+Par
+courrier recommandé adressé le 6 juin 2017 à l’Office d’impôt, l’Office
+des poursuites s’est référé aux réquisitions de vente du 24 avril 2017 susmentionnées,
+a relevé que les saisies des rentes d’A.H.________ et B.H.________ atteindraient en une année
+de saisie 43'476 fr. (sans frais et accessoires légaux) et fait état de l’arrangement
+suivant proposé par A.H.________ lors d’une visite dans ses bureaux :
+"M.
+A.H.________ propose de régler le solde de vos affaires au stade de la saisie à savoir les
+poursuites no 7949497, 7949496, 7949495, 9749493, 7643470, 7643723, 7643463 et 7646477 (solidairement
+avec les poursuites à l'encontre de son épouse), d'un montant d'environ 50'723 fr. + frais
+acc., sous déduction de 43'476 fr. relatives aux retenues sur les rentes, soit un solde de 7'247
+fr., celui-ci serait arrondi à 9'000 fr. Ce montant serait versé à titre d'acompte sur
+les sursis au sens de l'art. 123 LP.".
+L’Office
+des poursuites demandait à l’Office d’impôt de se déterminer sur cette offre
+dans un délai échéant le 23 juin 2017.
+Par courrier du 13 juin 2017, l’Office d’impôt a répondu ce qui suit :
+"(…)
+Par la présente nous avons l’avantage de vous informer que l'autorité fiscale est d'accord
+avec la proposition faite par M. A.H.________, à savoir le versement de douze fois 750 fr. (sept
+cent cinquante francs) par mois, pour le dossier du couple H.________, la première fois à la
+fin du mois de juin 2017.
+Ainsi, il sera loisible à votre office d'établir des sursis à la réalisation au
+sens de l'art. 123 LP
+(…)"
+Par courrier du 19 juin 2017, l’Office des poursuites a écrit à A.H.________ et B.H.________
+ce qui suit :
+"(…)
+A ce propos, nous vous informons que le créancier a accepté la proposition suivante :
+- un versement de douze fois 750 fr. par mois pour le couple, la première fois à la fin du
+mois de juin 2017.
+(…)
+En conséquence, les
+avis de réception de réquisition de vente du 1
+er
+mai 2017 sont annulés.
+Nous vous rendons attentifs que cette proposition est susceptible d'être modifiée en cas de
+nouvelle requête de saisie à l'encontre du couple.
+Dès lors et afin de bénéficier du sursis au sens de l'art. 123 de la loi fédérale
+sur la poursuite pour dette et la faillite (ci-après LP), nous vous invitons à bien vouloir
+procéder au versement de 750 fr. d'ici le 30 juin 2017
+(…)".
+Par courrier du 24 juillet 2017, l’Office des poursuites a constaté qu’A.H.________
+et B.H.________ ne s'étaient pas acquittés des montants fixés par lettre du 19 juin 2017
+et leur a imparti un délai au 15 août 2017 pour payer le montant de 1'500 fr., à défaut
+de quoi il se verrait dans l'obligation de fixer la procédure de réalisation à leur encontre.
+2.
+a)
+Par
+décision du 28 août 2017, l’Office des poursuites a informé A.H.________ et B.H.________
+que, dès lors qu'ils ne s'étaient pas acquittés dans les délais des montants des
+acomptes déterminés par les sursis, ceux-ci étaient caducs de plein droit en application
+de l’art. 123 al. 5 LP, de sorte que la procédure de réalisation reprenait son cours
+et qu'ils recevraient prochainement une convocation à des pourparlers de conciliation concernant
+la saisie et la réalisation de leur part dans la liquidation de la société simple formée
+par le couple. La décision mentionnait les voies de droit. Elle n'a fait l'objet d'aucune plainte.
+Par courriers recommandés du 11 octobre 2017, l’Office des poursuites a convoqué les
+parties à des pourparlers de conciliation en application de l’art. 9 OPC (ordonnance du 17
+janvier 1923 concernant la saisie et la réalisation des parts de communauté ; RS 281.41)
+fixés au 14 décembre 2017.
+b)
+Le
+21 novembre 2017, l’Office des poursuites a établi un procès-verbal de saisie des biens
+d’A.H.________ dans la série 4 comprenant notamment les poursuites n
+os
+8'156’684, 8'156’824, 8'156’823 et 8'156’681 exercées par la Confédération
+suisse et l’Etat de Vaud, représentés par l’Office d’impôt. La saisie
+portait sur la part, soit les droits de liquidation du débiteur dans la liquidation de la société
+simple qu’il forme avec son épouse sur l’immeuble RF n° [...] susmentionné,
+ainsi que sur la rente mensuelle dont était bénéficiaire le débiteur. Le procès-verbal
+mentionne que la réquisition de vente pour les biens mobiliers peut être formée du 30
+octobre 2017 au 1
+er
+octobre 2018 et précise que, lorsque la réquisition de vente n’est pas formée dans
+ce délai ou qu’elle est retirée sans être réintroduite, la poursuite s’éteint
+en application de l’art. 121 LP. Ce procès-verbal n’a fait l’objet d’aucune
+plainte.
+Le 27 novembre 2017, l’Office des poursuites a établi un procès-verbal de saisie des
+biens de B.H.________ dans la série 2 comprenant les poursuites n
+os
+8'556’822,
+8'156’685, 8'156’683 et 8'156’682 exercées par la Confédération suisse
+et l’Etat de Vaud, représentés par l’Office d’impôt. La saisie portait
+sur la part, soit les droits de liquidation de la débitrice dans la liquidation de la société
+simple qu’elle forme avec son époux sur l’immeuble RF n° [...] susmentionné,
+ainsi que sur la rente mensuelle dont était bénéficiaire la débitrice. Le procès-verbal
+mentionne que la réquisition de vente pour les biens mobiliers peut être formée du 27
+novembre 2017 au 25 octobre 2018 et précise que, lorsque la réquisition de vente n’est
+pas formée dans ce délai ou qu’elle est retirée sans être réintroduite,
+la poursuite s’éteint en application de l’art. 121 LP. Ce procès-verbal n’a
+fait l’objet d’aucune plainte.
+Le 28 novembre 2018, l’Office d’impôt, pour la Confédération suisse et l’Etat
+de Vaud, a déposé une réquisition de vente pour ces huit poursuites.
+c)
+Par
+courrier du 14 décembre 2017, A.H.________ et B.H.________ ont informé l’Office des poursuites
+qu’ils n’assisteraient pas aux pourparlers de conciliation prévus le même jour,
+pour le motif que le substitut P.________, qui devait les diriger avait refusé de se récuser.
+Ils lui reprochaient entre autres d’avoir empêché l’assainissement de leur situation
+et d’avoir favorisé les créanciers.
+Il ressort du procès-verbal de la séance de conciliation de 14 décembre 2017, établi
+par l’Office des poursuites le 15 janvier 2018, que seuls les représentants de l’Office
+d’impôt se sont présentés, que ceux-ci ont confirmé que les réquisitions
+de vente étaient et seraient maintenues et que la vente des droits avait été requise pour
+un montant avoisinant les 46'200 fr. à l’encontre de A.H.________ et 53'500 fr. à l’encontre
+de B.H.________. Le procès-verbal indique que le dossier complet serait transmis à l’autorité
+de surveillance compétente, si, dans un délai de dix jours dès réception du procès-verbal,
+aucune proposition n’était faite en vue des mesures ultérieures de réalisation.
+Par courrier adressé le 26 janvier 2018 à l’Office des poursuites, A.H.________ et B.H.________
+ont contesté le montant des créances à leur encontre figurant dans le procès-verbal
+susmentionné, soutenant qu’il ne tenait pas compte des créances solidaires et ne défalquait
+les sommes déjà payées que sur la moitié des créances, ce qui les empêchait
+de formuler une quelconque proposition. Ils réclamaient l’établissement d’un nouveau
+procès-verbal, que leur soit communiqué le montant total à verser pour que les poursuites
+soient caduques et que le délai de dix jours pour formuler des propositions leur soit restitué.
+Ils soutenaient que la nullité des saisies de leurs parts de communauté du mois d’avril
+2017 devrait vraisemblablement être constatée, ces saisies étant contraires à plusieurs
+dispositions édictées dans l’intérêt public.
+L'Office des poursuites a établi le 12 mars 2018 un nouveau procès-verbal remplaçant celui
+du 15 janvier 2018, qui mentionne ce qui suit, s'agissant des créances:
+"Par
+réquisition de vente des 1
+er
+mai et 29 novembre 2017, le créancier saisissant à savoir l'Office d'impôt des districts
+de la Riviera-Pays d'Enhaut et Lavaux-Oron a requis la vente des parts, soit des droits de Mme et M.
+H.________ qu'ils forment dans la liquidation de leur société simple concernant les poursuites
+solidaires entre les époux suivantes (valeur au 1.3.2018):
+7949797 & 7949498 (impôt sur le revenu et la fortune 2014)
+60'967 fr. 85
+7949496 & 7949491 (impôt fédéral direct 2014)
+1'129 fr. 80
+7949493 & 7949494  (amende d'ordre défaut IFD 2014)
+410 fr. 90
+7949495 & 7949492 (amende d'ordre défaut ICC 2014)
+533 fr. 25
+7646477 & 7646485 (impôt sur le revenu et la fortune 2012)      10'889
+fr. 25
+7643723 & 7643730 (amende d'ordre défaut ICC 2012)
+1'617 fr. 80
+7643470 & 7643472 (amende d'ordre défaut IFD 2012)
+1'070 fr. 75
+7643463 & 7643464 (impôt fédéral direct 2012)
+1'419 fr. 90
+8156684 & 8156685 (impôt sur le revenu et la fortune 2015)     17'773 fr.
+90
+8156824 & 8156683 (impôt fédéral direct 2015)
+4'574 fr. 55
+8156823 & 8156682 (amende d'ordre défaut ICC 2015)
+845 fr. 50
+8156681 & 8156822 (amende d'ordre défaut IFD 2015)
+636 fr. 20
+Totaux:
+47'869 fr. 65"
+Par lettre adressée le 11 avril 2018 à l’Office des poursuites, les recourants se sont
+notamment plaints du fait que les soldes de créances listées étaient incompréhensibles
+et "sortaient de nulle part", sans que les débiteurs aient reçu le moindre décompte
+détaillé malgré leurs demandes. Relevant qu'ils avaient le droit de connaître avec
+exactitude les soldes des créances liées aux réquisitions de vente faisant l'objet des
+pourparlers de conciliation avant de se prononcer et de proposer des mesures, ils ont à nouveau
+requis un relevé de compte détaillé, précisant le montant des créances, intérêts
+et frais compris, la répartition précise des saisies de revenus, le solde des créances
+qui en résultait et le montant à verser pour que les poursuites faisant partie des pourparlers
+de conciliation soient caduques.
+Par courrier du 8 mai 2018, l'Office des poursuites a notamment transmis à A.H.________ et B.H.________
+un extrait des comptes tiers retenue du 1
+er
+janvier 2017 au 7 mai 2018 et un extrait des registres 8a LP les concernant, précisant que, pour
+faciliter la lecture de ce décompte, les poursuites solidaires avaient été clairement
+mentionnées comme telles avec leurs soldes et titres de créance sans "double emploi",
+ces créanciers ayant poursuivi individuellement chacun des coobligés. L'Office des poursuites
+a par ailleurs précisé qu'il n'établirait pas de nouveau procès-verbal et octroyait
+un ultime délai de dix jours pour soumettre d'éventuelles propositions. Ce courrier était
+pourvu de l'indication des voies de droit.
+Ce courrier n’a fait l’objet d’aucune plainte auprès de l’autorité
+inférieure de surveillance. Toutefois, par courrier du 22 mai 2019, A.H.________ et B.H.________
+ont soutenu que la séance de conciliation du 14 décembre 2017 était nulle en raison
+de divers manquements du représentant de l’Office d’impôt et du substitut ayant
+présidé la séance et que les indications fournies dans le procès-verbal du 12 mars
+2018 et le courrier du 8 mai 2018 étaient insuffisantes pour leur permettre de formuler des propositions
+sérieuses. Ils ont sommé l’Office des poursuites de leur faire connaître le solde
+réel exigible pour annuler les réquisitions de vente, savoir les réquisitions en vigueur,
+les poursuites en vigueur et l’ensemble des montants dont l’Office des poursuites disposait
+à cet effet.
+3.
+a)
+Par
+acte du 8 août 2018, l’Office des poursuites a transmis le dossier de la cause au Président
+du Tribunal d’arrondissement de l’Est vaudois, l’a prié de constater la dissolution
+de la société simple formée par A.H.________ et B.H.________ portant sur l’immeuble
+RF [...] susmentionné et a préavisé à ce que sa liquidation soit ordonnée conformément
+à l’art. 12 OPC.
+Par courriers recommandés du 22 août 2018, la présidente a cité les parties et l’Office
+des poursuites à comparaître à l’audience du 2 octobre 2018.
+b)
+Le
+28 septembre 2018, l’Office des poursuites a établi un procès-verbal de saisie des biens
+d’A.H.________ dans la série 6 comprenant notamment les poursuites n
+os
+8'548'179, 8'548'175, 8'548'181, 8'548'177 et 8'548’180 exercées par la Confédération
+suisse et l’Etat de Vaud, représentés par l’Office d’impôt, et des poursuites
+introduites par Y.________ SA. La saisie portait sur la part, soit les droits de liquidation du débiteur
+dans la liquidation de la société simple qu’il forme avec son épouse sur l’immeuble
+RF n° [...] susmentionné, ainsi que sur la rente mensuelle dont était bénéficiaire
+le débiteur. Le procès-verbal mentionne que la réquisition de vente pour les biens mobiliers
+peut être formée du 21 septembre 2018 au 21 août 2019 et précise que, lorsque la
+réquisition de vente n’est pas formée dans ce délai ou qu’elle est retirée
+sans être réintroduite, la poursuite s’éteint en application de l’art. 121
+LP.
+Le 28 septembre 2018, l’Office des poursuites a établi un procès-verbal de saisie des
+biens de B.H.________ dans la série 3 comprenant les poursuites n
+os
+8'548'176,
+8'548'182, 8'548'174, 8'548'183 et 8'548’178 exercées par la Confédération suisse
+et l’Etat de Vaud, représentés par l’Office d’impôt. La saisie portait
+sur la part, soit les droits de liquidation de la débitrice dans la liquidation de la société
+simple qu’elle forme avec son époux sur l’immeuble RF n° [...] susmentionné,
+ainsi que sur la rente mensuelle dont était bénéficiaire la débitrice. Le procès-verbal
+mentionne que la réquisition de vente pour les biens mobiliers peut être formée du 21
+septembre 2018 au 21 août 2019 et précise que, lorsque la réquisition de vente n’est
+pas formée dans ce délai ou qu’elle est retirée sans être réintroduite,
+la poursuite s’éteint en application de l’art. 121 LP.
+c)
+A.H.________ et B.H.________ ont déposé
+des déterminations le 2 octobre 2018 et ont requis l’octroi d’un délai d’un
+mois pour consulter un avocat, obtenir des comptes rectifiés et produire des pièces.
+A.H.________ et B.H.________ ont fait défaut à l’audience du 2 octobre 2018. Se sont
+présentés : deux représentants de l’Office des poursuites, un représentant
+de l’Office d’impôt et un représentant de la Banque S.________. La présidente
+a rejeté la requête des défaillants contenue dans leur écriture du 2 octobre
+2018.
+4.
+Par décision du 30 octobre 2018, notifiée
+à A.H.________ et B.H.________ le lendemain, la Présidente du Tribunal d’arrondissement
+de l’Est vaudois, statuant en tant qu’autorité inférieure de surveillance, a constaté
+la dissolution et la liquidation de plein droit de la société simple formée par les époux
+A.H.________ et B.H.________ (I), a chargé l’Office des poursuites de prendre toutes les mesures
+juridiques nécessaires pour procéder à la liquidation du patrimoine commun (II) et a rendu
+la décision sans frais judiciaires ni allocation de dépens (III). En substance, le premier
+juge a considéré que la procédure prévue par les art. 9 ss OPC avait été
+respectée par l’Office des poursuites, et que le fait qu’A.H.________ et B.H.________
+étaient propriétaires en société simple de l’immeuble RF [...] et que leurs
+parts de cette société avaient été saisies justifiait la dissolution de celle-ci
+en application de l’art. 545 al. 1 ch. 3 CO (Code des obligations du 30 mars 1911 ; RS 220).
+Il a écarté les arguments d’A.H.________ et B.H.________ pour le motif que ceux-ci avaient
+trait aux procédures de saisie et ne concernaient pas le mode de réalisation. Il a renoncé
+à la désignation d’un administrateur et chargé l’Office des poursuites, en
+application de l’art. 12 OPC, de prendre toutes les mesures juridiques nécessaires pour procéder
+à la liquidation de la société simple, avec pouvoir d’exercer à cet effet tous
+les droits appartenant aux débiteurs.
+5.
+Par actes séparés du 12 novembre 2018,
+A.H.________ et B.H.________ ont recouru contre cette décision en concluant à la constatation
+de sa nullité, subsidiairement à son annulation. Ils ont requis que l’effet suspensif
+soit accordé au recours et la production d’une pièce par l’Office des poursuites.
+Par décision du 5 décembre 2018, la présidente de la cour de céans a rejeté
+la requête d’effet suspensif.
+Dans ses déterminations du 10 décembre 2018, l’Office des poursuites a conclu au rejet
+du recours. Il a produit un bordereau de pièces.
+Dans ses déterminations du 11 décembre 2018, l’Administration cantonale des impôts,
+agissant pour le compte de la Confédération suisse et de l’Etat de Vaud, a conclu au
+rejet du recours. Elle a produit un bordereau de pièces.
+Par courrier du 27 décembre 2018, la Banque S.________ a conclu au rejet du recours.
+Les recourants ont déposé une réplique spontanée le 27 décembre 2018.
+En droit :
+I.
+a)
+Le
+recours de l’art. 18 LP est ouvert contre une décision de l’autorité inférieure
+de surveillance fixant le mode de réalisation ; celui-ci est régi par les articles 28
+ss LVLP (loi du 18 mai 1955 d’application dans le canton de Vaud de la LP ; BLV 280.05), à
+l'instar de la procédure prévue en matière de plainte (CPF 17 janvier 2017/5 ; CPF
+11 février 1998/9).
+Formé dans les dix jours suivant la notification de la décision (art. 18 al. 1 LP et 28 al.
+1 LVLP) par acte comportant l’énoncé des moyens invoqués (TF 5A_118/2018 du 7 février
+2018 consid. 4.1), le recours a été déposé en temps utile et dans les formes requises.
+Il est ainsi recevable.
+Il en va de même des déterminations et des pièces produites par les parties intimées
+et l’Office des poursuites (art. 31 al. 1 LVLP).
+L’écriture spontanée des recourants du 27 décembre 2018 est également recevable
+en vertu de leur droit à la réplique spontanée (ATF 142 III 48 consid. 4.1.1 et les références
+citées ; ATF 139 II 189 consid. 3.2 ; ATF 138 I 484 consid. 2).
+b)
+Les
+recourants requièrent la production par l’Office des poursuites des « montants dus
+à ce jours ». Toutefois cette pièce n’est pas de nature à modifier l’appréciation
+de la cour de céans effectuée sur la base des pièces du dossier, de sorte que cette réquisition
+peut être rejetée par appréciation anticipée des preuves (ATF 141 I 60 consid. 3,
+JdT 2015 I 115 ; ATF 130 III 734 consid. 2.3.3 ; TF 5A_ 431/2017 du 14 juin 2017 consid. 5.2).
+II.
+a)
+Les
+recourants font valoir que seize des poursuites citées dans la convocation du 11 octobre 2017 aux
+pourparlers de conciliation seraient caduques et auraient cessé d'exister depuis le 9 février
+2018. Ils en déduisent la nullité de toutes les mesures prises par l'Office des poursuites,
+puis par l'autorité de surveillance dans son prononcé du 30 octobre 2018.
+b)
+Selon l'art. 116 al. 1  LP, le créancier peut requérir la réalisation des biens saisis
+un mois au plus tôt et un an au plus tard après la saisie, s'il s'agit de biens meubles, y
+compris les créances et autres droits.
+Chaque créancier peut requérir la réalisation pour la série dont il fait partie (art.
+117 al.1 LP). Lorsque plusieurs créanciers participent à une saisie, il suffit que l'un d'eux
+requière la vente en temps utile pour que l'office des poursuites doive réaliser les droits
+patrimoniaux visés au profit de tous les créanciers formant la série considérée
+(TF 7B.158/2005 du 11 novembre 2005 consid. 1 ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, [ci-après : Commentaire], nn. 21, 31 et 51 ad
+art. 116 LP et n. 8 ad art. 117 LP ; Frey, in Staehelin/Bauer/Staehelin (éd.) in Basler Kommentar,
+Bundesgesetz über Schuldbetreibung und Konkurs I, 2
+e
+éd., n. 5 ad art. 117 SchKG [LP]).
+La réquisition de vente doit porter sans réserve sur l’ensemble de la créance déduite
+en poursuite et sur toutes les valeurs patrimoniales saisies (Frey, op. cit., n. 20 ad art. 116 LP et
+les réf. citées ; Rüetschi, in Hunkeler (éd.), KurzKommentar SchKG, n. 13 ad art.
+116 SchKG [LP] et les réf. citées ; Zondler, in Kren Kostkiewicz/Vock, Kommentar zum SchKG,
+4
+e
+éd., n. 4 ad art. 116 SchKG [LP] et les réf. citées).
+Si la réquisition est tardive, c’est-à-dire formée après le délai maximal,
+la poursuite tombe (art. 121 LP); le poursuivant peut retirer sa réquisition de vente et la renouveler
+pendant toute la durée du délai utile (Gilliéron, Poursuite pour dettes, faillite et concordat,
+5
+e
+éd., [ci-après : Poursuite] n. 1189 p. 294). La caducité d'une saisie doit être
+constatée d'office et en tout temps (Bettschart, in Dallèves/Foëx/Jeandin Commentaire
+romand LP n. 27 ad art. 116 LP; Gilliéron, Commentaire, n. 33 ad art. 116 LP).
+Le fait que le poursuivant accorde au poursuivi un sursis après la réquisition de vente équivaut
+à un retrait de la réquisition de vente. Il doit en aller de même si l'office des poursuites
+accorde, avec l'assentiment du poursuivant, une suspension de la réquisition de vente (ATF 114 III
+102 consid. 3; ATF 95 III 16 consid. 1, JdT 1969 II 114; Gilliéron, Commentaire, n. 10 ad art. 116
+LP; Bettschart, op. cit., n. 10 ad art. 116 LP). Dans un tel cas, le poursuivant ne peut requérir
+à nouveau la vente des biens saisis que durant la période qui sépare la fin du délai
+de suspension de l'expiration du délai de l'art. 116 LP (ATF 114 III 102 consid. 3). Cette hypothèse
+ne doit pas être confondue avec celle où l'office des poursuites accorde au poursuivi un sursis
+à la réalisation conformément à l'art. 123 LP; un tel sursis ne saurait être
+considéré comme un retrait de la réquisition de vente (ATF 95 III 16 consid. 1, JdT 1969
+II 114; Bettschart, loc. cit.). Dans la procédure de l'art. 123 LP, le poursuivant ne dispose pas
+d'un droit d'être entendu, mais peut présenter des observations dont l'office doit tenir compte
+dans le cadre de l'examen prévu à l'art. 123 al. 3 LP (Bettschart, op. cit., n. 15 ad art.
+123 LP). Le renvoi est caduc de plein droit lorsqu'un acompte n'est pas versé ponctuellement (art.
+123 al. 4 LP) et l'office doit alors poursuivre à la réalisation sans attendre une réquisition
+du créancier (ATF 95 III 16 consid. 1, JdT 1969 II 114; TF 5A_347/2015 du 30 juin 2015 consid. 3.1.2).
+c)
+En l'espèce, les intimés Etat de Vaud et Confédération suisse ont requis la vente
+le 24 avril 2017 pour les seize poursuites ayant fait l'objet du procès-verbal de saisie du 12 avril
+2017, soit en temps utile. Ils ont été interpellés par l'Office des poursuites dans le
+cadre d'une procédure de l'art. 123 LP, celui-ci précisant que les montants faisant l'objet
+des propositions des poursuivis seraient versés à titre d'acompte sur les sursis au sens de
+l'art. 123 LP. Les intimés ont donné leur accord pour que l'Office des poursuites établisse
+des sursis à la réalisation au sens de l'art. 123 LP. Afin de bénéficier du sursis
+au sens de l'art. 123 LP, l'Office des poursuites a invité les recourants à procéder au
+versement de 750 fr. d'ici le 30 juin 2017. Par décision du 28 août 2017, l'Office des
+poursuites a informé les recourants que, dès lors qu'ils ne s'étaient pas acquittés
+dans les délais des montants des acomptes déterminés par le sursis, les sursis étaient
+caducs de plein droit, de sorte que la procédure de réalisation reprenait son cours. Aucune
+plainte n'a été déposée contre cette décision, qui était pourvue des voies
+de droit.
+Il en résulte que les intimés n'ont pas retiré leur réquisition de vente et que leur
+accord à ce que l’Office des poursuites procède selon l'art. 123 LP ne peut équivaloir
+à un retrait, dès lors qu'il s'est exprimé dans le cadre des déterminations faites
+lors d'une procédure de l'art. 123 LP, la décision de sursis conformément à l'art.
+123 LP ayant été prise, puis révoquée par l'Office des poursuites, et un tel sursis
+n'étant pas, selon la jurisprudence ATF 95 III 116 précitée, considéré comme
+un retrait de la réquisition de vente.
+Au demeurant, les poursuivants ont expressément réitéré leur volonté de requérir
+la vente lors de la séance de conciliation du 14 décembre 2017, confirmant que les réquisitions
+de vente étaient et resteraient maintenues. Cette réquisition est intervenue dans le délai
+de l'art. 116 LP, de sorte qu'en tout état de cause les poursuites litigieuses ne sont pas devenues
+caduques le 9 février 2018, comme le soutiennent les recourants.
+Enfin, en tout état de cause, les réquisitions de vente du 28 novembre 2017 sont intervenues
+en temps utile et justifiaient à elles seules la continuation de la procédure, les recourants
+n'établissant pas que ces poursuites seraient devenues caduques en raison de leur paiement intégral,
+preuve qui leur incombait.
+III.
+Les recourants font valoir que l'Office des poursuites ne leur a jamais fourni de décomptes détaillés
+avant le mois de mai 2018 et leur a présenté sans aucune justification des soldes dus prohibitifs
+comme base de pourparlers en décembre 2017, de sorte que les conditions propres à des réels
+pourparlers n'ont jamais été réunies. Ils reprochent en outre à l'Office des poursuites
+d'avoir refusé d'établir un nouveau procès-verbal et donc d'examiner le cas des poursuites
+qui pouvaient être caduques. Dans ces circonstances, l'autorité de surveillance aurait dû
+entamer de nouveaux pourparlers de conciliation, comme ils l'avaient expressément requis.
+a)
+En cas de solidarité entre plusieurs débiteurs, le créancier peut, à son choix, exiger
+de tous les débiteurs solidaires ou de l’un d’eux l’exécution intégrale
+ou partielle de l’obligation (art. 144 al. 1 CO).
+Conformément à l’art. 70 al. 2 LP, lorsque des codébiteurs sont poursuivis simultanément,
+un commandement de payer est notifié à chacun d'eux. Cela implique que lorsque le poursuivant
+allègue avoir deux ou plusieurs codébiteurs et qu’il entend les poursuivre simultanément,
+il doit requérir une poursuite contre chacun des codébiteurs afin qu’un commandement
+de payer soit notifié à chacun d’eux (Gilliéron, Commentaire, n. 15, ad. art. 70
+LP).
+Si des époux répondent solidairement d’une dette, ils peuvent être poursuivis, à
+la requête du créancier, comme tous autres débiteurs solidaires (ATF 113 III 59 consid.
+1.2.1).
+La question de savoir si le débiteur poursuivi répond ou non solidairement de la dette relève
+du droit matériel et elle n'a pas à être examinée lors du dépôt de la réquisition
+de poursuite ou de continuer la poursuite. Chaque poursuite ouverte à l'encontre de codébiteurs
+solidaires existe indépendamment l'une de l'autre et bénéficie d'un traitement individualisé,
+raison pour laquelle les intérêts et frais peuvent différer d'une poursuite à l'autre.
+Pour éteindre la poursuite, chaque codébiteur solidaire doit payer à l'office le montant
+indiqué sur le commandement de payer ou l'avis de saisie qui lui est destiné et obtenir une
+quittance. L'office doit s'en tenir au montant de la prétention déduite en poursuite indiqué
+dans le commandement de payer exécutoire, à moins que le poursuivant ne reconnaisse que le
+dette est éteinte. Si le créancier continue la poursuite malgré la couverture du montant
+de la prétention, il appartiendra à l'autorité de surveillance de trancher la question
+de savoir si la poursuite est éteinte ou non (Gilliéron, Commentaire, n. 28 ad art. 85 LP;
+BlSchK 2010 p. 218).
+b)
+Le législateur a prévu une procédure spéciale pour la saisie et la réalisation
+de parts dans une communauté (cf. art. 132 LP). L’OPC en règle les détails (TF 5A_758/2015
+du 22 février 2016 consid. 3.1). Cette ordonnance s’applique à la part que possède
+le débiteur dans une société simple, lorsque le contrat de société ne prévoit
+pas expressément que les biens sociaux sont la copropriété des associés (art. 1 al.
+2 OPC). Dans cette hypothèse, la saisie des droits du débiteur dans une société simple
+ne peut porter que sur le produit lui revenant dans la liquidation de la communauté, alors même
+que celle-ci ne s’étend qu’à une chose unique (art. 1 al. 1 OPC). Lorsque la réalisation
+de parts de la communauté est requise, l'office des poursuites essaie tout d'abord d'amener entre
+les créanciers saisissants, le débiteur et les autres membres de la communauté une entente
+amiable à l'effet soit de désintéresser les créanciers, soit de dissoudre la communauté
+et de déterminer la part du produit de la liquidation qui revient au débiteur (art. 9 al. 1
+OPC). L'autorité cantonale de surveillance peut également se charger elle-même ou charger
+l'autorité inférieure de surveillance de conduire les pourparlers de conciliation (art. 9 al.
+3 OPC). Si l'entente amiable recherchée a échoué, l'office des poursuites ou l'autorité
+qui a conduit les pourparlers invite les créanciers saisissants, le débiteur et les membres
+de la communauté à lui soumettre, dans les dix jours, leurs propositions en vue des mesures
+ultérieures de réalisation (art. 10 al. 1, 1
+re
+phrase, OPC). Après l'expiration du délai, le dossier complet de la poursuite est transmis
+à l'autorité de surveillance compétente aux termes de l’art. 132 LP ; celle-ci peut
+entamer à nouveau des pourparlers de conciliation (art. 10 al. 1 in fine OPC).
+Lorsqu'il s'agit de réaliser une part de communauté, il appartient à l'autorité de
+surveillance de fixer le mode de réalisation (art. 132 al. 1 LP). Après avoir consulté
+les intéressés, l'autorité peut ordonner la vente aux enchères, confier la réalisation
+à un gérant ou prendre toute autre mesure (art. 132 al. 3 LP). L'OPC prévoit toutefois
+des mesures plus précises qui restreignent le pouvoir attribué à l'autorité de surveillance
+par l'art. 132 al. 3 LP (TF 5A_760/2015 du 18 mars 2016 consid. 3 ; ATF 135 III 179 consid. 2.1 ; 96
+III 10 consid. 2). Cette procédure est aussi applicable à la part que le débiteur possède
+dans une société simple, lorsque les associés n'ont pas convenu la copropriété
+(TF 5A_727/2017 du 8 janvier 2018 consid. 4.1).
+Ainsi, en vertu de l'art. 10 al. 2 OPC, l'autorité de surveillance doit décider, en tenant
+compte autant que possible des propositions des intéressés, si la part de communauté saisie
+doit être vendue aux enchères comme telle ou s'il y a lieu de procéder à la dissolution
+de la communauté et à la liquidation du patrimoine commun conformément aux dispositions
+qui régissent la communauté dont il s'agit. Le choix entre les deux modes de réalisation
+relève de l'opportunité, sous réserve des critères de l'art. 10 al. 3 et 4 OPC (TF
+5A_727/2017 du 8 janvier 2018 consid. 4.1; TF 5A_758/2015 du 22 février 2016 consid. 3.1 ; TF 5A_478/2012
+du 14 août 2012 consid. 3.1 ; ATF 135 III 179 consid. 2.1 ; 96 III 10 consid. 2 ; 87 III 109). Si
+l’autorité de surveillance opte pour le second mode de réalisation, elle doit ordonner
+dans le cas concret la dissolution de la communauté en cause. Toutefois, lorsque cette communauté
+est une société simple, il s’agit d’un cas d’application de l’art.
+545 al. 1 ch. 3 CO : la société simple est dissoute de plein droit et elle entre en liquidation.
+Il n’est pas nécessaire que le contrat de société simple soit dénoncé
+au surplus à l’égard des autres membres de la communauté (TF 5A_758/2015 du 22 février
+2016 consid. 3.2 ; ATF 134 III 133 consid. 1.5).
+Si l'autorité de surveillance ordonne la dissolution et la liquidation de la communauté, elle
+peut, soit recourir à l'office, soit nommer un administrateur qui prendra les mesures juridiques
+nécessaires pour procéder à la dissolution et à la liquidation et exercera à
+cet effet tous les droits appartenant au débiteur (art. 12 al. 1 OPC; TF 5A_727/2017 du 8 janvier
+2018 consid. 4.1).
+c)
+En l'espèce, il n'était, au vu des principes exposés consid. IIIa ci-dessus, pas contraire
+au droit d'indiquer dans le procès-verbal de conciliation le montant total des poursuites contre
+chacun des débiteurs solidaires et cet élément n'était pas de nature à empêcher
+des démarches transactionnelles, d'autant que les créanciers principaux connaissaient la solidarité
+des créances invoquées et auraient admis de tenir compte de la nature de ces créances
+dans le cadre de la procédure de conciliation. Les recourants doivent assumer le risque qu'ils ont
+pris en refusant de participer à ces discussions et en ne faisant aucune proposition. Le fait que
+l'Office des poursuites ait établi un nouveau procès-verbal qui indique les montants encore
+dus, en mentionnant clairement comme telles les poursuites solidaires avec leurs soldes et titres de
+créance sans "double emploi", visait à faciliter la lecture de ce décompte,
+mais n'était pas de nature à justifier une nouvelle procédure de conciliation, les recourants
+disposant au demeurant d'un délai de dix jours pour faire de nouvelles propositions. L'Office des
+poursuites a parallèlement transmis un extrait des comptes tiers retenue A.H.________ et B.H.________
+du 1
+er
+janvier 2017 au 7 mai 2018. Or, les recourants n'ont pas fait la moindre proposition dans ce délai
+et n'ont pas déposé plainte auprès de l'autorité de surveillance contre le nouveau
+procès-verbal du 8 mai 2018, se contentant de répéter auprès de l'Office par courrier
+du 22 mai 2018 que la séance de conciliation était à leurs yeux nulle, en particulier
+du fait que des poursuites caduques étaient invoquées. Un cas de nullité n'étant
+pas établi (cf. supra consid. IIIb), les recourants ne sauraient revenir sur cette question dans
+le cadre d'un recours contre la décision fixant le mode de réalisation. On relèvera par
+ailleurs que les recourants n'expliquent pas de manière détaillée et circonstanciée
+en quoi les décomptes des montants encore dus tels que figurant dans le procès-verbal du 8
+mai 2018 et dans l'extrait des comptes tiers seraient erronés, sinon en invoquant à tort qu'ils
+concerneraient des poursuites caduques.
+Cela étant l'autorité de surveillance n'était pas tenue d'entamer à nouveau des pourparlers
+de conciliation ou d'accorder un nouveau délai pour faire des propositions de règlement, l'art.
+10 al. 1 in fine OPC n'instituant qu'une faculté en ce sens, alors que les recourants s'étaient
+contentés de contester à tort le montant des créances encore dues et de réclamer
+des décomptes détaillés qui leur avaient déjà été fournis, sans faire
+la moindre proposition de règlement, après n'avoir jamais réalisé les conditions
+du sursis 123 LP qu'ils avaient eux-mêmes sollicité, entraînant la caducité de ce
+sursis. L'annonce non concrète de "propositions très sérieuses et difficilement contestables"
+faite dans le présent recours apparaît dès lors purement dilatoire. Comme le relèvent
+les intimés, on ne voit guère quelle proposition pourrait être sérieusement faite
+par ces derniers, alors qu'en raison des saisies en cours, ils sont réduits au minimum vital et
+que la Banque S.________, dans le cadre de poursuites dirigées contre eux, a requis récemment
+la réalisation forcée de l'immeuble en sa qualité de créancière hypothécaire
+en premier rang.
+IV.
+a)
+Les
+recourants font valoir que l’Office des poursuites serait prévenu et ne saurait être
+désigné comme liquidateur.
+b)
+Selon
+l'art. 10 al. 1 LP, aucun préposé, ni employé, ni aucun membre de l'autorité de surveillance
+ne peut procéder à un acte de son office, notamment lorsque, pour d'autres raisons, il pourrait
+avoir une opinion préconçue de l'affaire (art. 10 al. 1 ch. 4 LP). L'acte accompli par une
+personne qui aurait dû se récuser n'est pas nul, mais annulable par la voie de la plainte (Dallèves,
+in Commentaire romand précité, n. 11 ad art. 10 LP).
+Des décisions ou des actes de procédure viciés, voire arbitraires, ne fondent pas en soi
+une apparence objective de prévention. En effet, de par son activité, le juge est contraint
+de se prononcer sur des questions contestées et délicates; même si elles se révèlent
+ensuite erronées, des mesures inhérentes à l'exercice normal de sa charge ne permettent
+pas encore de le suspecter de parti pris; en décider autrement, reviendrait à affirmer que
+tout jugement inexact, voire arbitraire, serait le fruit de la partialité du juge, ce qui n'est
+pas admissible. Seules des erreurs particulièrement lourdes ou répétées, constitutives
+de violations graves des devoirs du magistrat, peuvent en conséquence justifier une suspicion de
+partialité, pour autant que les circonstances corroborent à tout le moins objectivement l'apparence
+de prévention (ATF 143 IV 69 consid. 3.2 ; ATF 138 IV 142 consid. 2.3 ; TF 5A_316/2012 du 17 octobre
+2012 consid. 6.2.1 ; TF 5A_249/2015 du 29 septembre 2015 consid. 4.1 ; TF 5A_482/2017 du 24 août
+2017 consid. 6.2.1). C'est aux juridictions de recours normalement compétentes qu'il appartient
+de constater et de redresser les erreurs éventuellement commises; le juge de la récusation
+ne saurait donc examiner la conduite du procès à la façon d'une instance d'appel (ATF
+116 Ia 135 consid. 3a ; TF 5A_286/2013 du 12 juin 2013 consid. 2.1; TF 5A_749/2015 du 27 novembre 2015
+consid. 4.1 ; TF 5A_973/2015 du 17 janvier 2017 consid. 4.2.1 ; TF 5A_842/2016 du 24 mars 2017 consid.
+3.1). Ces principes sont applicables mutatis mutandis à la récusation du préposé.
+c)
+En
+l'espèce, les recourants n'ont déposé aucune plainte contre les actes dont ils entendent
+déduire une prévention du préposé. De toute manière les prétendues violations
+de la loi, dans le cadre de la procédure de conciliation, ne sont pas établies et, en tout
+état de cause, on ne voit pas que des erreurs particulièrement lourdes ou répétées,
+constitutives de violations graves des devoirs du préposé puissent lui être reprochées,
+la séance de conciliation n'ayant pas été faussée par la présentation de soldes
+manifestement erronés et aucune poursuite n'étant caduque contrairement à ce que plaident
+les recourants.
+Cela étant la désignation de l'Office des poursuites comme liquidateur ne prête pas le
+flanc à la critique. C'est d'autant moins le cas que le créancier hypothécaire a requis
+la vente de l'immeuble litigieux, de sorte que, par économie de procédure, la désignation
+du préposé comme liquidateur permettra de mener l'entier des procédures de réalisation
+de manière coordonnée sous la direction de l'Office des poursuites, dont les opérations
+seront susceptibles de plainte, si les recourants devaient considérer qu'elles sont contraires au
+droit.
+5.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. A.H.________,
+‑
+Mme B.H.________,
+–
+Administration cantonale des impôts (pour Confédération suisse et Etat de Vaud),
+–
+Y.________ SA,
+–
+Banque S.________,
+-
+M. le Préposé à l’Office des poursuites du district de la Riviera-Pays-d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
