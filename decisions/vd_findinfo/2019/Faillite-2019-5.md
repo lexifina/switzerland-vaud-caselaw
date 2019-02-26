@@ -1,0 +1,358 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 5"
+decided: "2019-02-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7053824"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-144.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-294.md", "switzerland/bund/acts/281.1/art-295.md", "switzerland/bund/acts/281.1/art-295c.md", "switzerland/bund/acts/281.1/art-296b.md", "switzerland/bund/acts/281.1/art-298.md", "switzerland/bund/acts/281.1/art-302.md", "switzerland/bund/acts/281.1/art-348.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 5
+
+## Regeste
+
+SURSIS CONCORDATAIRE, PROLONGATION, REJET DE LA DEMANDE, OUVERTURE DE LA FAILLITE | 296b let. b LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 26.02.2019 Faillite / 2019 / 5
+
+SURSIS CONCORDATAIRE, PROLONGATION, REJET DE LA DEMANDE, OUVERTURE DE LA FAILLITE | 296b let. b LP
+
+TRIBUNAL
+CANTONAL
+FV17.050546-190020
+50
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+26 février 2019
+___________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+296b let. b LP
+Vu le jugement rendu le 17 décembre 2018 par la Présidente du Tribunal d’arrondissement
+de La Côte, refusant de prolonger le sursis concordataire accordé à
+T.________
+,
+à [...], échu le 8 décembre 2018 (I), prononçant la faillite de l’intéressé,
+pour prendre effet le 17 décembre 2018 à 9 heures (II), relevant l’agent d’affaires
+breveté
+P.________
+de sa mission de commissaire au sursis (III), impartissant au failli un délai au 7 janvier 2019
+pour se déterminer sur la note d’honoraires du commissaire du 7 décembre 2018 (IV), disant
+que la décision serait publiée par les soins du greffe dans la FAO et la FOSC (V) et mettant
+les frais judiciaires, arrêtés à 604 fr. 95, frais de publication et de registre foncier
+compris, à la charge du failli (VI),
+vu le recours déposé le 31 décembre 2018 par T.________ contre cette décision, concluant,
+avec suite de frais et dépens, préalablement, à l’octroi de l’effet suspensif
+et à la dispense de l’avance des frais, ainsi qu’à l’octroi d’un délai
+« pour consulter la note d’honoraires présentée par le commissaire et produire
+un mémoire complémentaire, le délai de recours de dix jours étant trop court à
+cet effet », puis, principalement, à l’annulation de la décision attaquée
+et à l’octroi d’une prolongation du sursis concordataire de quatre mois, et subsidiairement,
+au renvoi de la cause à l’instance précédente pour nouvelles instruction et décision,
+vu les pièces produites à l’appui du recours,
+vu l’avis de la présidente de la cour de céans du 23 janvier 2019 impartissant au recourant
+un délai de quinze jours dès réception pour effectuer une avance de frais de recours de
+300 fr. ou déposer une demande d’assistance judiciaire dûment complétée,
+vu le dépôt par le recourant d’une demande d’assistance judiciaire dans le délai
+imparti, le 11 février 2019,
+vu la décision de la présidente de la cour de céans du 14 février 2019, rejetant
+la requête d’effet suspensif contenue dans le recours,
+vu les pièces au dossier ;
+attendu qu’en vertu de l'art. 295c al. 1 LP (loi fédérale sur la poursuite pour dettes
+et la faillite ; RS 281.1), le débiteur et les créanciers peuvent attaquer la décision
+du juge du concordat par la voie du recours, conformément au CPC (Code de procédure civile ;
+RS 272), soit plus précisément aux art. 319 à 327a CPC (TF 5A_874/2017 du 7 février
+2018 consid. 4.2.1 ; Umbach-Spahn/Kesselbach/Fink, in Kren Kostkiewicz/Vock (éd.), SK Kommentar
+zum SchKG, 4e éd. 2017, n. 12 à 17 ad art. 295c SchKG [LP]),
+que, lorsque, dans la même décision, la faillite est prononcée à la suite du refus
+de l’octroi du sursis définitif (art. 294 al. 3 LP) - ou, comme en l’espèce, à
+la suite du refus de la prolongation du sursis définitif (art. 296b LP) - parce qu'il n'existe pas
+- ou plus - de perspective d'assainissement ou d'homologation d'un concordat, le recourant doit attaquer
+les deux points (TF 5A_950/2015 du 29 septembre 2016 consid. 8.3.2 et 8.3.3.1) et le recours est
+régi par l’art
+.
+174
+LP
+(TF 5A_874/2017 précité ; TF
+5A_495/2016 du 11 novembre 2016 consid. 3.2.4),
+qu’en l’espèce, déposée dans les formes requises, par acte écrit et motivé
+(art. 321 al. 1 CPC), et en temps utile, dans les dix jours suivant la notification du jugement attaqué
+(art. 321 al. 2 CPC ; art. 174 al. 1 LP), le recours, dans la mesure où il tend principalement
+à l’annulation de la décision attaquée et à l’octroi d’une prolongation
+du sursis concordataire, est recevable ;
+attendu que le délai de recours est un délai légal, qui ne peut pas être prolongé
+(art. 144 al. 1 CPC),
+que la motivation du recours doit être entièrement contenue dans le mémoire de recours
+et ne saurait être complétée ou corrigée après l’échéance du
+délai de recours (TF 5A_206/2016 du 1
+er
+juin 2016 consid. 4.2.2 ; TF 5A_488/2015 du 21 août consid. 3.2.2, publié in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que la conclusion du recours tendant à l’octroi d’un délai pour produire un mémoire
+complémentaire doit donc être rejetée,
+qu’en ce qui concerne le délai imparti au recourant pour se déterminer sur la note d’honoraires
+du commissaire, il courait jusqu’au 7 janvier 2019, de sorte que le 31 décembre 2018, l’intéressé
+n’avait pas d’intérêt, au sens de l’art. 59 al. 2 let. a CPC, à en requérir
+la prolongation,
+qu’au surplus, c’est la présidente du tribunal d’arrondissement et non la cour
+de céans qui est compétente pour accorder une éventuelle prolongation de ce délai,
+que la conclusion du recours tendant à l’octroi d’un délai, soit d’une prolongation
+de délai, « pour consulter la note d’honoraires présentée par le commissaire »
+est par conséquent irrecevable ;
+attendu que, selon l’art. 326 CPC, les conclusions, allégations de fait et preuves nouvelles
+sont irrecevables dans le cadre du recours (al. 1), les dispositions spéciales de la loi étant
+réservées (al. 2),
+qu’en matière de concordat, la LP n’a pas prévu de régime dérogatoire
+réservé par l’art. 326 al. 2 CPC, à la différence du recours en matière
+de jugement de faillite (art. 174 al. 1 LP) et du recours en matière de sursis extraordinaire (art.
+348 al. 2 LP ; CPF, 13 mai 2015/131 ; CPF, 15 janvier 2015/2),
+que, toutefois, dès lors que le jugement attaqué prononce la faillite du recourant, celui-ci
+peut faire valoir des faits nouveaux qui se sont produits avant l’audience de première instance
+ainsi que de vrais nova tendant à prouver sa solvabilité (CPF 30 juin 2016/136 ; CPF 9
+juillet 2015/187),
+que, dans cette mesure, les pièces produites à l’appui du recours sont recevables,
+qu’elles sont décrites infra dans la mesure utile au raisonnement en droit ;
+attendu qu’en l’espèce, par requête du 23 novembre 2017, T.________ a demandé
+l’octroi d’un sursis concordataire provisoire,
+que, par prononcé du 8 décembre 2017, la Présidente du Tribunal d’arrondissement
+de La Côte, lui a accordé un sursis concordataire provisoire de quatre mois et a désigné
+l’agent d’affaires breveté P.________ comme commissaire au sursis,
+qu’il résultait de la requête de sursis et des autres pièces du dossier, notamment
+que le requérant était copropriétaire avec son épouse, chacun pour une demie, d’un
+immeuble à [...] constitué en propriété par étages composée de trois lots,
+qu’il était en instance de divorce, ne travaillait pas et avait fait une demande de revenu
+d’insertion, son seul revenu provenant des loyers qu’il percevait en louant sa villa, qu’il
+faisait l’objet de poursuites pour une somme totale de 273'210 francs 05, et qu’il avait
+pris contact avec ses créanciers dans le but d’établir un concordat dividende à
+hauteur de 30,65% grâce à la vente de sa part de l’immeuble précité, lequel
+était en vente,
+que, par prononcé rendu à la suite d’une audience du 12 mars 2018, adressé aux parties
+le 5 avril 2018, la présidente du tribunal, considérant notamment que l’assainissement
+de la situation du requérant, respectivement l’homologation d’un concordat dividende
+paraissaient possibles « grâce à la vente du bien immobilier », a accordé
+au requérant un sursis concordataire définitif de quatre mois, échéant le 8 août
+2018,
+que, par prononcé du 27 juillet 2018, à la requête du commissaire au sursis, la présidente
+du tribunal a prolongé le sursis concordataire de quatre mois, soit jusqu’au 8 décembre
+2018, afin de permettre la tenue d’une assemblée des créanciers, considérant en
+outre que les charges courantes étaient payées et que les démarches en vue de la vente
+de l’immeuble avaient avancé, une expertise du bien ayant été effectuée,
+que le 18 septembre 2018, le commissaire au sursis a adressé à la présidente du tribunal
+un rapport intermédiaire, indiquant que « toutes les charges courantes ne sont pas
+couvertes », que « certaines charges sont néanmoins réglées »,
+que « la vente du bien immobilier n’est pas encore effectuée » et que
+le commissaire n’a « formellement reçu aucune offre relative à la vente »,
+que, « néanmoins, une expertise immobilière a été établie, fixant
+la valeur du bien immobilier », et qu’il semblerait « judicieux de fixer prochainement
+une audience afin de faire le point sur la suite éventuelle de la procédure concordataire »,
+qu’il a joint à ce rapport notamment une liste provisoire des productions au 30 août
+2018, soit quatre productions de créanciers gagistes (2'293'396 fr.), une production d’une
+créancière privilégiée de première classe (250'000 fr.), trente-quatre productions
+de créanciers de troisième classe (402'108 fr. 85), et neuf productions tardives (94'015 fr.
+55), pour une somme totale de 3'039'520 fr. 50,
+que l’assemblée des créanciers a eu lieu le 19 novembre 2018,
+que le rapport du commissaire au sursis rédigé à cette occasion indique que les actifs
+immobiliers sont de 2'650'000 fr., selon expertise, que la vente des trois lots séparés pourrait
+rapporter 2'690'000 fr. selon expertise, que la valeur totale des actifs est de 2'651'000 fr. et le total
+des passifs de 3'015'123 fr. 35 (créanciers gagistes : 2'292’519 fr. 35 ; créancière
+privilégiée de première classe : 250'000 fr. ; créanciers de troisième
+classe : 404'225 fr. 35 ; productions tardives : 68'378 fr. 65), qu’en cas de faillite,
+un dividende théorique de 22% pourrait revenir aux créanciers de troisième classe, en
+tenant compte d’une réalisation au prix de 2'650'000 fr. et du paiement intégral du créancier
+privilégié (250'000 fr.), qu’il y a toutefois un grand risque que le produit d’une
+vente aux enchères ne couvre finalement que le montant dû au créancier hypothécaire
+et qu’en conclusion, le commissaire entend « donner un préavis favorable à
+l’homologation du concordat dividende, dès l’instant où le dividende proposé
+de 20% est favorable aux créanciers par rapport au dividende hypothétique que ces derniers
+pourraient obtenir en cas de faillite »,
+que, par lettre du 22 novembre 2018, T.________ a requis de la présidente du tribunal une prolongation
+du sursis concordataire de trois mois afin d’avoir « le temps nécessaire pour l’homologation
+de l’accord de [ses] créanciers »,
+que, par lettre du 30 novembre 2018 adressée à la présidente du tribunal, le commissaire
+au sursis a indiqué ne pas être à même d’établir un rapport final détaillé,
+dès lors qu’il n’avait reçu aucun bulletin d’adhésion de la part du
+sursitaire, et qu’en outre, aucun mode de financement n’avait été établi ou
+trouvé, de sorte qu’il ne pouvait préaviser favorablement à l’homologation
+du concordat,
+qu’à l’audience du 6 décembre 2018, le sursitaire a confirmé sa demande de
+prolongation jusqu’au 31 mars 2019 « afin de pouvoir vendre le lot 1 et proposer aux
+créanciers de troisième classe un dividende de 20% », faisant valoir que ces créanciers
+ne toucheraient aucun dividende en cas de faillite,
+que le conseil de A.V.________ et B.V.________, créanciers de troisième classe, a indiqué
+ne pas s’opposer à une prolongation de deux mois à condition que la banque donne son
+accord pour reporter la dette hypothécaire sur les lots 2 et 3 et qu’une offre ferme pour
+les trois lots soit produite à bref délai,
+que C.V.________, l’ex-épouse du sursitaire, créancière privilégiée de
+première classe, a indiqué ne pas s’opposer à une brève prolongation à
+condition que l’accord de la banque pour la reprise ou le report de la dette hypothécaire
+sur les lots 2 et 3 intervienne rapidement, à défaut de quoi elle demandait l’exécution
+de la convention de divorce à savoir la vente des trois lots,
+que le conseil d’U.________, créancière de troisième classe, s’est opposé
+catégoriquement à toute prolongation,
+que le commissaire au sursis s’en est remis à justice, en précisant qu’en cas de
+prolongation, une provision supplémentaire de 3'000 fr. pour ses honoraires devrait être versée,
+que le sursitaire refusant de verser toute provision complémentaire, le commissaire a demandé,
+lors de cette audience, à être relevé de sa mission,
+que la présidente a refusé de prolonger le sursis concordataire définitif et prononcé
+la faillite, considérant que certaines dettes courantes n’avaient pas été payées,
+que la perspective du concordat n’apparaissait pas réaliste dès lors qu’après
+une année de sursis, il n’y avait eu aucune offre sur le lot 1 ou sur l’entier des lots,
+ni aucun accord de la banque créancière gagiste à la vente du seul lot 1, et que, suite
+à l’assemblée des créanciers, le requérant n’avait pas établi d’acte
+de concordat, ni envoyé les bulletins d’adhésion,
+qu’elle a également considéré que, vu le refus du requérant de verser une provision
+complémentaire, la procédure concordataire n’avait pas de garantie d’être
+financée en cas de prolongation,
+que, pour le surplus, elle a considéré qu’il n’apparaissait pas que la faillite
+péjorerait forcément la situation des créanciers, vu le rapport du commissaire dont il
+ressortait qu’un dividende théorique de l’ordre de 22% pourrait revenir à ceux
+de troisième classe en cas de faillite,
+que, dans son recours, T.________ soutient en substance qu’il a reçu une offre d’une
+société « concrètement intéressée à acheter », que
+la Banque K.________, créancière gagiste, a donné son accord à une vente partielle
+des immeubles, que le rapport du commissaire évoque clairement le risque que le produit d’une
+vente aux enchères ne couvre finalement que le montant dû au créancier hypothécaire
+et ne laisse aucun disponible pour les créanciers chirographaires, qu’il a déjà
+payé une avance de 16'500 fr. au commissaire, laquelle couvre la nouvelle avance demandée de
+3'000 fr., qu’il avait préparé l’acte de concordat et un modèle de bulletin
+d’adhésion en vue de l’assemblée des créanciers, mais n’a obtenu aucune
+réponse ni collaboration du commissaire à ce sujet, que sa situation est très complexe
+et que la vente de gré à gré de ses biens immobiliers représente une solution pour
+régler ses créanciers, et enfin, que le commissaire ne s’est pas opposé à une
+prolongation du sursis,
+qu’il produit notamment un courriel d’un courtier du 29 mai 2018, qu’il a transmis
+au commissaire le 5 juin 2018 en indiquant : « Ci- joint vous trouverez l’offre
+pour la maison qui à mon avis doit être refusée »,
+qu’il produit également un courriel du 7 septembre 2018 du directeur d’une succursale
+de la Banque K.________, créancière gagiste, à son adresse, lui confirmant l’accord
+donné par la banque, à certaines conditions, à une demande en trois points qu’il
+avait formulée le 6 septembre 2018, concernant (1) le paiement des intérêts des mois de
+mars à juin 2018 « avec le disponible sur le compte loyer », (2) l’octroi
+d’un délai de paiement au 31 décembre 2018 des loyers de décembre 2017, janvier
+et février 2018, et (3) la non-réclamation de l’amortissement « jusqu’à
+la vente de la maison, mais au plus tard au 31 mars 2019 »,
+qu’il produit également un courriel de sa part au commissaire du 3 décembre 2018,
+le priant de trouver en annexe un « acte de concordat modifié », lui demandant
+si chaque créancier doit recevoir l’ensemble de son « rapport de concordat »
+et lui demandant de lui fournir « un exemple type d’un bulletin d’adhésion » ;
+attendu que, aux termes
+de l’art. 296b LP, la faillite est prononcée d’office avant l’expiration du sursis
+dans trois cas : lorsque cette mesure est indispensable pour préserver le patrimoine du débiteur
+(let. a), lorsqu’il n’y a manifestement plus aucune perspective d’assainissement ou
+d’homologation du concordat (let. b), et lorsque le débiteur contrevient à l’art.
+298 LP ou aux injonctions du commissaire (let. c),
+qu’en l’espèce, le premier juge a fait application de l’art. 296b let. b LP,
+que le recourant ne soutient pas qu’il existerait une perspective d’assainissement de sa
+situation financière,
+qu’il ne rend pas non plus vraisemblable l’existence d’une perspective d’homologation
+du concordat,
+que, force est de constater d’abord qu’aucun projet de concordat n’a été
+soumis à l’assemblée des créanciers pour signature (art. 302 al. 3 LP), ni n’a
+été produit ultérieurement, lors de l’audience ou avec le recours,
+qu’au surplus, le concordat dividende envisagé par le commissaire, et les chiffres avancés
+par celui-ci, reposent sur une vente de tous les lots,
+que, toutefois, le recourant ne fait pas valoir qu’il aurait de manière sérieuse cherché
+un acquéreur pour les lots 1 à 3, et aucune pièce du dossier n’atteste de telles
+recherches, ni a fortiori de l’intérêt à court ou moyen terme d’un quelconque
+acquéreur pour ces trois lots,
+qu’au contraire, le recourant n’entend vendre qu’un seul des lots, le lot 1,
+qu’il ne ressort pas du dossier, et le recourant n’explique pas, comment la vente de ce seul
+lot pourrait laisser un dividende aux créanciers,
+que, de toute manière, l’intérêt actuel et concret d’un acheteur potentiel
+de ce lot 1 n’est nullement établi, la seule offre au dossier datant du mois de mai 2018 et
+devant être, de l’avis du recourant lui-même, refusée,
+qu’en outre, contrairement à ce qu’il soutient, le recourant n’a pas obtenu l’accord
+de la banque à une vente partielle de son immeuble et à la reprise ou au report de la dette
+hypothécaire sur les lots 2 et 3, le courriel de la banque du 7 septembre 2018 ne pouvant pas
+être interprété dans ce sens,
+que, par surabondance, le commissaire peut subordonner la continuation de son activité à des
+avances de frais complémentaires (Gilliéron, Commentaire de la loi fédérale sur la
+poursuite pour dettes et la faillite, n. 40 ad art. 295 LP,
+in
+fine
+),
+qu’en l’espèce, le recourant a refusé de verser au commissaire une provision complémentaire
+de 3'000 fr. pour ses honoraires,
+qu’il apparaît ainsi n’être plus en situation d’assurer les liquidités
+nécessaires pour mener à bien la procédure concordataire,
+que, vu ce qui précède, le recours, manifestement mal fondé, doit être rejeté
+et le jugement confirmé,
+que cet arrêt confirmant la révocation du sursis concordataire, il fera l’objet d’une
+publication dans la FAO et la FOSC,
+que le recours étant d’emblée dépourvu de toute chance de succès, le recourant
+n’a pas droit à l’assistance judiciaire, de sorte que sa requête du 11 février
+2019 doit rejetée (art. 117 let. b CPC),
+que les frais judiciaires de deuxième instance, arrêtés à 300 fr., frais de publication
+en sus, doivent être mis à la charge du recourant (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La requête d’assistance judiciaire du recourant est rejetée.
+III.
+Le jugement est confirmé.
+IV.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+frais de publication en sus, sont mis à la charge du recourant.
+V.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. T.________,
+‑
+M. P.________, agent d’affaires breveté, commissaire au sursis,
+-
+Me Samuel Thétaz, avocat (pour A.V.________ et B.V.________),
+-
+Mme Mimoza Derri, agent d’affaires breveté (pour U.________),
+-
+Mme C.V.________,
+-
+Banque N.________,
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
