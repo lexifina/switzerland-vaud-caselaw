@@ -1,0 +1,570 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2019___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2019 / 3"
+decided: "2019-03-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7080934"
+cites_law: ["switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/220/art-142.md", "switzerland/bund/acts/272/art-021.md", "switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-267.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2019 / 3
+
+## Regeste
+
+NOUVEAU MOYEN DE FAIT | 153 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 07.03.2019 Jug-inc / 2019 / 3
+
+NOUVEAU MOYEN DE FAIT | 153 CPC
+
+TRIBUNAL
+CANTONAL
+CO07.021198
+10/2019/EKA
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant l’hoirie de feu
+H.Z.________
+(
+E.Z.________
+,
+B.Z.________
+,
+I.Z.________
+,
+A.Z.________
+et l’hoirie de
+G.Z.________,
+absente), d’une part, et l’hoirie de
+G.Z.________
+,
+absente (
+E.Z.________
+,
+B.Z.________
+,
+A.Z.________
+,
+F.Z.________
+,
+C.Z.________
+et
+D.Z.________
+),
+d’autre part, d'avec
+J.Z.________
+.
+___________________________________________________________________
+Du
+7 mars 2019
+______________
+Composition
+:               M.
+Kaltenrieder
+,
+juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu le "premier" procès opposant
+les parties devant la Cour civile, ouvert par demande de l’hoirie de feu H.Z.________ du 16 juillet
+2007 dont les conclusions, avec suite de frais et dépens, sont les suivantes :
+"I.
+G.Z.________ et J.Z.________ sont les débiteurs conjoints et solidaires envers l’hoirie de
+feu H.Z.________ du montant de CHF 7'623'653,03.- avec intérêt à 5% l’an dès
+le 13 décembre 2005.
+II.
+J.Z.________ est le débiteur de l’hoirie de feu H.Z.________ du montant de 1'796'500.- avec
+intérêt à 5% l’an dès le 13 décembre 2005.
+III.
+L’opposition au commandement de payer n° [...] de l’Office des poursuites et faillites
+[...] est levée.",
+vu les écritures déposées dans ce procès, savoir notamment :
+-
+la réponse déposée le 22 novembre
+2010 par J.Z.________, qui a conclu au rejet des conclusions de la demande, avec suite de frais et dépens,
+-
+la réponse déposée le 17 février
+2011 par le curateur d’absence de G.Z.________ qui s’en est remis à justice pour la
+conclusion de la demande, avec suite de frais et dépens,
+-
+la réplique de l’hoirie de feu H.Z.________
+du 19 mai 2011 et la duplique de J.Z.________ du 23 août 2011, confirmant leurs conclusions
+respectives,
+-
+les nova déposés le 15 juin 2012
+par l’hoirie de feu H.Z.________, qui a précisé ses conclusions en détaillant ses
+membres ainsi que ceux de l’hoirie de G.Z.________ absente,
+-
+les déterminations sur nova déposées
+en audience du 28 août 2012 par J.Z.________, qui a maintenu ses conclusions en rejet,
+vu le "second" procès ouvert par G.Z.________ (respectivement son hoirie) contre J.Z.________
+et, "pour autant que de besoin", l’hoirie de feu H.Z.________, selon demande déposée
+le 10 octobre 2008 par le curateur d’absence de G.Z.________ dont les conclusions sont les
+suivantes, avec suite de frais et dépens :
+"I.
+Il est constaté que J.Z.________ n’a aucun droit sur les produits des meubles et immeubles
+de la succession indivise de feu K.Z.________ sur lesquels feu H.Z.________ aurait eu un droit d’usufruit
+si elle avait survécu (en particulier sur les produits des immeubles de la succession de feu K.Z.________).
+II.
+En conséquence, il est constaté que G.Z.________ a un droit préférable sur les produits
+de la conclusion I ci-dessus pendant les 11 années suivant le décès de feu H.Z.________,
+à concurrence de sa part successorale (conclusions à préciser en cours d’instance).
+III.
+Le défendeur J.Z.________ doit immédiat paiement à la Demanderesse de
+CHF 312'073.85
+(…) avec intérêt à 5% dès le 1
+er
+juillet
+2007 (échéance moyenne), conclusion qu’on se réserve d’augmenter en cours
+d’instance.",
+vu les écritures déposées dans ce procès, savoir notamment :
+-
+la réponse déposée le 9 janvier
+2012 par l’hoirie de feu H.Z.________, qui a conclu au rejet des conclusions I et II de la demande
+et s’en remettre à justice quant à la conclusion III, sous suite de frais et dépens,
+et qui a pris les conclusions reconventionnelles suivantes :
+"I.
+J.Z.________ est frappé d’indignité dans la succession de sa mère, feu H.Z.________.
+II.
+Il est constaté que l’hoirie de H.Z.________, à savoir la communauté des héritiers
+constituée par E.Z.________, B.Z.________, G.Z.________, F.Z.________, C.Z.________ et D.Z.________,
+cas échéant A.Z.________ si sa vocation réservataire est reconnue, a un droit préférable,
+respectivement est reconnue créancière, durant au moins les 11 années suivant le
+décès de feu H.Z.________, de l’intégralité des produits de la conclusion I
+de la Demande déposée le 10 octobre 2008 par G.Z.________, absente, respectivement son
+curateur en absence, soit les produits des meubles et immeubles de la succession indivise de feu K.Z.________
+sur lesquels feu H.Z.________ aurait eu un droit d’usufruit si elle avait survécu (en particulier
+sur les produits des immeubles de la succession de feu K.Z.________), les montants d’ores et déjà
+dévolus selon ch. III du jugement du Tribunal criminel de l’arrondissement de Lausanne
+du 18 mars 2010 étant réservés, conclusion qui sera précisée en cours d’instance.
+III.
+Le défendeur J.Z.________ doit immédiat paiement à l’hoirie de H.Z.________, à
+savoir la communauté des héritiers constituée par E.Z.________, B.Z.________, G.Z.________,
+F.Z.________, C.Z.________ et D.Z.________, cas échéant A.Z.________ si sa vocation réservataire
+est reconnue, de CHF 570'740.- (…), avec intérêts à 5% dès le 1
+er
+août
+2006 (échéance moyenne), conclusions qu’on se réserve d’augmenter en cours
+d’instance.",
+-
+la réplique déposée le 20 juin
+2012 par le curateur d’absence de G.Z.________ (en l’absence de réponse conforme de
+J.Z.________), qui a déclaré adhérer aux conclusions reconventionnelles prises le 9 janvier
+2012,
+-
+la duplique de J.Z.________ du 2 novembre
+2012, comprenant des conclusions en libération tant à l’égard des conclusions de
+la demande du 10 octobre 2008 que de celles, reconventionnelles, de la réponse du 9 janvier
+2012, avec suite de frais et dépens,
+vu l’audience particulière du 7 février 2013, au cours de laquelle les parties sont
+convenues de joindre les deux causes, les dates d’ouvertures d’action et de prises de conclusions
+étant sauvegardées, et la jonction devenant effective lors d’une audience préliminaire
+à venir,
+vu la duplique déposée le 6 mars 2013 par l’hoirie de feu H.Z.________ qui
+a pris, avec suite de frais et dépens, les conclusions supplémentaires suivantes :
+"IV.
+Dire est constater que l’hoirie de H.Z.________ à savoir la communauté des héritiers
+constituée par E.Z.________, B.Z.________, G.Z.________ (absente), respectivement ses héritiers
+– à savoir les hoirs de H.Z.________ et A.Z.________ –F.Z.________, C.Z.________ et
+D.Z.________, dispose du droit de jouir, notamment de percevoir les fruits, et du droit d’user,
+depuis le 25 décembre 2005 et au moins jusqu’au 2 juin 2026, des immeubles de la succession
+indivise de K.Z.________, respectivement de tout immeuble dont J.Z.________ deviendrait seul propriétaire
+à l’issue du partage de la succession indivise de K.Z.________ ou de tout bien ou actif, de
+quelque autre nature qu’il soit, que J.Z.________ recevrait au titre de sa part au partage de la
+succession indivise de K.Z.________ ou comme résultat de l’exécution forcée des
+créances hypothécaires grevant les immeubles de la succession indivise de K.Z.________.
+V.
+Dire et constater que J.Z.________ est privé, depuis le 25 décembre 2005 et au moins jusqu’au
+2 juin 2026, de tout droit, quel qu’il soit, sur les produits de la location et de l’exploitation
+des immeubles de la succession indivise de K.Z.________, respectivement de tout immeuble dont J.Z.________
+deviendrait seul propriétaire à l’issue du partage de la succession indivise de K.Z.________
+ou de tout bien ou actif, de quelque autre nature qu’il soit, que J.Z.________ recevrait au titre
+de sa part au partage de la succession indivise de K.Z.________ ou comme résultat de l’exécution
+forcée des créances hypothécaires grevant les immeubles de la succession indivise de K.Z.________.
+VI.
+Interdire à J.Z.________, au moins jusqu’au 2 juin 2026, d’aliéner, disposer
+de quelque autre manière, remettre à bail, prêter, percevoir les fruits, user ou jouir
+d’une quelque autre manière, des immeubles de la succession indivise de K.Z.________, respectivement
+de tout immeuble dont J.Z.________ deviendrait seul propriétaire à l’issue du partage
+de la succession indivise de K.Z.________ ou de tout bien ou actif, de quelque autre nature qu’il
+soit, que J.Z.________ recevrait au titre de sa part au partage de la succession indivise de K.Z.________
+ou comme résultat de l’exécution forcée des créances hypothécaires grevant
+les immeubles de la succession indivise de K.Z.________.",
+vu l’audience préliminaire du 3 avril 2014 et l’ordonnance sur preuves après
+jonction des causes du même jour,
+vu l’ordonnance de mesures provisionnelles rendue le 9 janvier 2015 par le juge instructeur,
+ordonnant en particulier à la régie [...] SA de conserver sur un compte bancaire l’essentiel
+du produit de la location d’immeubles propriété indivise de J.Z.________ et de G.Z.________
+respectivement l’hoirie de celle-ci,
+vu les opérations d’instruction conduites,
+vu en particulier l’expertise comptable portant sur divers allégués des trois parties,
+confiée le 16 janvier 2015 à [...],
+vu le délai fixé à l’expert comptable [...] pour déposer son rapport, successivement
+prolongé jusqu’au 15 juillet 2016,
+vu l’absence de réaction dans ce délai de l’expert comptable [...] qui, selon les
+explications données par téléphone au juge instructeur, n’a entrepris aucune démarche
+à l’exception d’une séance de mise en œuvre le 9 juin 2015 (cf. l’avis
+du juge instructeur aux parties du 4 décembre 2018),
+vu par ailleurs l’expertise notariale confiée le 9 juin 2016, en remplacement de [...],
+à Me [...], qui a déposé son rapport le 12 février 2018, dans le délai
+successivement prolongé à cet effet par le juge instructeur, ayant préalablement interpellé
+les parties à cet égard,
+vu l’avis du juge instructeur du 15 février 2018 impartissant un délai aux parties
+pour requérir un complément d’expertise ou présenter leurs éventuelle observations
+sur la note d’honoraires de l’experte notaire,
+vu les lettres des hoiries parties du 8 mars 2018 et de J.Z.________ du 11 avril 2018, par
+lesquelles les trois parties ont renoncé au complément d’expertise et déclaré
+ne pas avoir d’observations à faire valoir,
+vu le courrier de l’hoirie de feu H.Z.________ du 30 mai 2018 relevant que J.Z.________ n’avait
+pas donné suite en temps utile à l’avis du juge instructeur du 15 février 2018,
+et requérant la fixation d’un délai pour déposer un mémoire de droit,
+vu l’avis du juge instructeur du 17 juillet 2018 fixant aux parties un tel délai, échéant
+le 3 octobre 2018, par la suite prolongé au 30 novembre 2018,
+vu les requêtes de réforme déposées le 30 novembre 2018 par l’exécuteur
+testamentaire de H.Z.________ pour l’hoirie de celle-ci, d’une part, et par l’hoirie
+de G.Z.________, d’autre part,
+vu, concernant la requête de l’hoirie de feu H.Z.________ :
+-
+les conclusions de la requête, tendant à
+l’introduction en procédure des allégués 168 à 173 nouveaux et les offres
+de preuve y relatives, ainsi qu’une conclusion V augmentée et des conclusions VII à IX
+nouvelles, une duplique complémentaire après réforme et un bordereau de pièces étant
+d’ores et déjà annexés à la requête,
+-
+les déterminations de l’hoirie de G.Z.________
+du 19 décembre 2018, confirmées le 21 décembre 2018, en ce sens que l’intéressée
+adhérait aux conclusions en réforme et consentait au remplacement de l’audience incidente
+par un échange de mémoires,
+vu, s’agissant de la requête de l’hoirie de G.Z.________ :
+-
+les conclusions de la requête, tendant au
+retrait de l’allégué 279 relatif à l’exception de prescription,
+-
+les déterminations déposées le
+6 décembre 2018 par l’hoirie de feu H.Z.________, qui a déclaré ne pas s’opposer
+aux conclusions en réforme de l’hoirie de G.Z.________, et consentir au remplacement de l’audience
+incidente par un échange de mémoires,
+-
+le courrier de l’hoirie de G.Z.________
+du 14 janvier 2019, acceptant le remplacement de l’audience incidente par un échange
+d’écritures unique et à bref délai,
+vu les déterminations de l’intimé J.Z.________ du 16 janvier 2019, par lesquelles
+il a déclaré s’opposer aux deux requêtes de réforme, mais accepter que l’audience
+incidente soit remplacée par un échange d’écritures,
+vu les mémoires incidents déposés le 1
+er
+février
+2019 par l’hoirie de feu H.Z.________ respectivement par l’hoirie de G.Z.________, chacune
+en lien avec sa propre requête,
+vu les courriers de l’hoirie de G.Z.________ du 15 février 2019, et de l’hoirie
+de feu H.Z.________ du 18 février 2019, par lesquels chacune a renoncé à déposer
+un mémoire incident dans la procédure de réforme initiée par l’autre,
+vu les mémoires incidents déposés le 18 février 2019 par l’intimé,
+qui a conclu au rejet des deux requêtes de réforme,
+vu le procédé de l’hoirie de feu H.Z.________ du 26 février 2019, déposé
+au titre du droit de réplique inconditionnel, et le courrier de l’intimé du 6 mars
+2019, par lequel celui-ci a renoncé à se déterminer de manière plus détaillée,
+vu les art. 2 al. 2 et 8 CC (code civil suisse du 10 décembre 1907 ; RS 210), 142
+CO (loi fédérale complétant le Code civil suisse [Livre cinquième: Droit des obligations]
+du 30 mars 1911 ; RS 220), 4, 19, 146 ss, 153 ss, 317a et 317b CPC-VD (Code de procédure civile
+vaudoise du 14 décembre 1966, dans sa teneur en vigueur jusqu'au 31 décembre 2010 ; aRSV
+270.11), 404 al. 1 et 405 al. 1 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272) ;
+attendu que les procédures pendantes avant l'entrée en vigueur du nouveau droit fédéral
+de procédure civile demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance (art. 404 al. 1 CPC), y compris s’agissant du jugement incident rendu
+dans ce cadre (CREC II, 20 juillet 2011/66 consid. 1/a ; Haldy, La nouvelle procédure suisse,
+Bâle 2009, p. 3 n. 7 ; Tappy, Le droit transitoire applicable lors de l'introduction de la
+nouvelle procédure civile unifiée
+in
+JdT 2010 III 11 spéc. pp. 366 ss),
+que le procès, et la présente procédure incidente, sont dès lors soumis aux dispositions
+du droit de procédure civile vaudois, et en particulier du CPC-VD ;
+attendu qu'aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la restitution d'un
+délai, corriger ou compléter sa procédure peut, jusqu'à l'expiration du délai
+fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture de l'audience
+de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+que la demande doit indiquer les motifs et l'étendue de la réforme demandée (art. 154
+al. 1 CPC-VD),
+que tel est le cas de chacune des deux requêtes de réforme,
+attendu qu’elles respectent au surplus les exigences régissant la forme incidente (art. 19
+et 147 al. 1 CPC-VD
+cum
+art.
+154 al. 2 CPC-VD),
+que les deux requêtes sont dès lors recevables à la forme ;
+attendu que dûment interpellées dans les deux procédures incidentes ici en cause, les
+parties ont accepté que l'audience incidente soit remplacée par un échange d'écritures
+unique (art. 149 CPC-VD),
+que dès lors, plutôt que de faire l’objet de deux décisions parallèles ou consécutives,
+avec des délais qu’il faudra le cas échéant coordonner ultérieurement, les
+deux requêtes seront traitées dans le présent jugement incident ;
+attendu que la réforme n'est accordée que si la partie y a un intérêt réel et
+si la requête n'est pas présentée dans un but dilatoire (art. 153 al. 2 et 3 CPC-VD),
+que la partie requérante doit établir d'une part son intérêt réel à la
+preuve des faits allégués, c'est-à-dire leur pertinence, et d'autre part son intérêt
+réel à l'administration des preuves offertes, savoir l'utilité que celles-ci présentent
+pour établir les faits allégués (JdT 1988 III 70 consid. 4),
+que l'intérêt réel à la réforme doit être apprécié au regard
+de l'ensemble des circonstances, notamment de la pertinence du fait allégué, de sa vraisemblance,
+de la forme de la preuve offerte et de la durée probable de la procédure consécutive à
+la réforme (JdT 2002 III 190; Poudret
+et
+alii
+, op. cit., n. 4 ad art 153 CPC-VD),
+que dans le cadre de la réforme, la pertinence des faits allégués et la nécessité
+des preuves offertes doivent être appréciées plus strictement que dans l'ordonnance sur
+preuves (JdT 1988 III 70 consid. 4),
+que cela étant, il n'incombe
+pas au requérant d'établir qu'il n'a pas déposé sa requête dans le but de prolonger
+la procédure, l'art. 153 al. 3 CPC-VD ne posant pas de condition négative, mais réservant
+une exception analogue à l'abus de droit (Poudret
+et
+alii
+, op. cit., n. 8 ad art. 153
+CPC-VD),
+qu’ainsi, il faut appliquer en la matière la règle générale de l’art. 8
+CC, selon lequel chaque partie doit, si la loi ne prescrit le contraire, prouver les faits qu'elle allègue
+pour en déduire son droit,
+que du reste, la réforme doit être refusée lorsque les faits qui font l'objet de la requête
+sont dénués de pertinence ou ont déjà été allégués sous une autre
+forme en procédure (JdT 2003 III 14 consid. 4 ; Poudret
+et
+alii
+, op. cit., n. 4 ad art. 153 CPC-VD) ;
+attendu que l’on examinera en premier lieu la requête de l’hoirie de feu H.Z.________,
+représentée par Me [...] ;
+attendu que la requête porte premièrement sur six allégués et les moyens de preuve
+s’y rapportant, ayant en substance trait à l’actualisation des revenus d’immeubles
+propriété indivise de l’hoirie de feu K.Z.________ – décédé le 8 décembre
+1990 – (all. 168 à 171 nouveaux), à son changement de statut en qualité d’exécuteur
+testamentaire et non plus d’administrateur officiel (all. 172 nouveau) et à la réserve
+d’une nouvelle augmentation des conclusions après expertise (all. 173 nouveau) ;
+attendu que l’intimé s’oppose à cette réforme, reprochant à l’hoirie
+de feu H.Z.________ d’invoquer l’absence de rapport d’expertise comptable pour introduire
+deux allégués nouveaux à prouver par expertise, alors qu’elle n’avait pas
+réagi à l’expiration du délai imparti à l’expert [...], échu le
+15 juin 2016,
+qu’il relève que l’hoirie de sa feue mère est représentée par un notaire,
+et par un avocat pour la présente procédure, qui n’ont pas pu oublier l’absence
+de rapport d’expertise comptable, sauf à s’être désintéressés de
+son résultat ou à avoir anticipé la présente procédure de réforme, les
+deux cas relevant de l’abus de droit,
+qu’il invoque dans cette mesure, au moins en substance, l’art. 2 al. 2 CC, selon
+lequel nul ne peut invoquer sa bonne foi, si elle est incompatible avec l'attention que les circonstances
+permettaient d'exiger de lui,
+qu’un abus de droit est en particulier réalisé lorsqu'une institution juridique est utilisée
+dans un but étranger au sien, lorsqu’un droit est exercé sans intérêt digne
+de protection ou de manière disproportionnée à l’aune des intérêts en
+cause, ou lorsque cet exercice contredit un comportement antérieur et les attentes légitimes
+que ce comportement a pu susciter (cf. TF 5A_98/2014 du 15 mai 2014 consid. 4.1 et les
+réf. cit.),
+qu’en l’occurrence, la réforme tend notamment à permettre à une partie de
+corriger sa procédure, de sorte qu’un abus de droit ne saurait être retenu déjà
+en cas d’oubli, et ne doit l’être qu’en cas de comportement délibéré,
+ou de gravité similaire,
+que l’examen du déroulement de l’instruction fait plutôt penser que l’expertise
+notariale [...], close le 12 février 2018 après divers avis du juge et déterminations
+des parties, a distrait celles-ci du suivi de l’expertise comptable [...] ici en cause,
+que la teneur du courrier de l’hoirie de feu H.Z.________ du 30 mai 2018, qui ne mention pas
+cette expertise comptable, plaide du reste dans ce sens,
+que l’intimé ne démontre en tout cas pas le contraire, alors qu’il lui incombe
+de le faire (art. 8 CC), ce qui entraîne le rejet du moyen de l’abus de droit ;
+attendu que l’intimé conteste du reste la pertinence des faits nouveaux de l’hoirie
+de sa feue mère, relevant que celle-ci invoque la levée d’un séquestre pénal
+sur les avoirs concernés par la réforme, mais que ceux-ci font déjà l’objet
+d’une ordonnance de mesures provisionnelles du 9 janvier 2015,
+que, selon l’intimé, la levée du séquestre pénal n’a dès lors aucune
+incidence sur l’issue du présent procès,
+que de son côté, l’hoirie de feu H.Z.________ allègue que l’on ignore le montant
+de la part des revenus nets des immeubles restant à la succession de feu K.Z.________, correspondant
+à la part indivise de l’intimé,
+que c’est cet élément de fait, et non la levée du séquestre pénal, dont
+la pertinence doit être examinée,
+qu’en l’occurrence, la pertinence de ce fait n’est pas contestable, ni d’ailleurs
+contestée en tant que telle par l’intimé, dont le moyen doit être rejeté ;
+attendu que celui-ci fait encore valoir que l’établissement des comptes d’exploitation
+des immeubles ne requiert pas de connaissances techniques ou calculs savants,
+que, toutefois, les pièces au dossier concernent des faits très étendus dans le temps,
+et pourraient se trouver à des endroits divers au vu des diverses procédures pénales ouvertes
+à ce sujet,
+que le travail de recherche et de tri des informations pour en faire un exposé synthétique
+relève manifestement du fait technique,
+que ce moyen de l’intimé doit donc également être rejeté ;
+attendu que l’intimé invoque finalement que certains allégués nouveaux de la requête
+recouvrent des allégués déjà en procédure,
+qu’il ne le fait toutefois pas, à raison, pour l’allégué 171 nouveau, soumis
+à la preuve par expertise, pour lequel la réforme sera autorisée,
+qu’en effet, l’intérêt de l’hoirie requérante à faire instruire
+ces informations excède celui de l’intimé à ce que la procédure ne connaisse
+pas de retard excessif, quelles que soient la cause ou la partie à l’origine de ce retard ;
+attendu que la requête de l’hoirie de feu H.Z.________ porte en outre sur diverses conclusions,
+savoir la conclusion V corrigée et les conclusions VII à IX nouvelles,
+attendu que la conclusion V corrigée ne diffère de la version originale que par la désignation
+spécifique des immeubles qu’elle vise, au lieu des "immeubles de la succession indivise"
+de feu K.Z.________,
+qu’en d’autres termes, les immeubles concernés sont identifiables dans la première
+version de cette conclusion, et identifiés dans la seconde, sans altérer le dispositif du jugement
+à intervenir,
+que rien ne s’oppose ainsi à la réforme sur ce point ;
+attendu que l’introduction des conclusions nouvelles VII à IX constitue quant à elle
+une augmentation des conclusions,
+attendu que le demandeur peut augmenter ses conclusions, pour autant qu’elles aient le même
+fondement que la demande initiale, jusqu’à la clôture de l’audience préliminaire
+ou encore dans les dix jours après la communication d’un rapport d’expertise (art. 267
+al. 1 CPC-VD),
+que le délai de l’art. 267 CPC-VD est en l’espèce largement dépassé,
+la réforme pouvant toutefois tendre à sa restitution (cf. Poudret
+et
+alii
+, op. cit., n. 5 ad art. 153
+CPC-VD),
+que dans la mesure où la réforme est déjà admise sur son principe, un procédé
+purement dilatoire est exclu, et il faut examiner la requête à la lumière des conditions
+de l’art. 267 CPC-VD,
+qu’en d’autres termes, la requête doit être admise si les conclusions nouvelles
+ont le même fondement que la demande initiale,
+que l’hoirie de feu H.Z.________ entend prendre deux conclusions principales nouvelles tendant
+(en substance) à être autorisée à prélever l’intégralité des
+montants crédités sur les comptes bancaires concernés par l’ordonnance de mesures
+provisionnelles du 9 janvier 2015 (VII), et à ce que l’intimé soit condamné
+à lui verser le montant total du produit net des immeubles de l’hoirie de feu K.Z.________
+dont il deviendrait le propriétaire, au moins jusqu’au 2 juin 2026 (VIII),
+que ces conclusions sont manifestement en lien étroit avec celles déjà prises par l’hoirie
+de feu H.Z.________, notamment quant au complexe de faits invoqués à leur appui,
+qu’il convient dès lors de faire droit à la requête dans cette mesure, ainsi que
+pour la conclusion IX prise subsidiairement à la conclusion VII précitée ;
+attendu qu’à la lumière de ce qui précède, il convient d’admettre intégralement
+les conclusions en réforme de l’hoirie de feu H.Z.________, l’introduction des allégués
+nouveaux non spécifiés ci-dessus n’entraînant aucun "nouveau" retard dans
+la procédure,
+que cela est d’autant plus vrai que l’hoirie requérante a d’ores et déjà
+déposé une duplique après réforme ;
+attendu que les autres conséquences de la réforme susmentionnée seront traités après
+l’examen de la requête de l’hoirie de G.Z.________, selon ce qui suit,
+que celle-ci entend se réformer pour retirer son allégué 279 relatif à l’exception
+de prescription, afin de pas être déboutée sur ce moyen qu’elle estime désormais
+infondé,
+qu’il n’y a pas lieu de suivre sur ce point l’intimé qui soutient que ce procédé
+est purement dilatoire, vu le sorte de la "première" requête comme on l’a vu
+ci-dessus,
+qu’il convient dès lors de respecter le droit des parties d’invoquer – ou non
+– leurs prétentions et moyens de défense (pour la prescription cf. art. 142
+CO),
+que la requête de l’hoirie de G.Z.________ sera par conséquent également admise ;
+attendu qu’il convient dès lors d’organiser la suite de la procédure ;
+attendu qu’il est pris acte de l’introduction, d’ores et déjà intervenue,
+de la duplique après réforme de l’hoirie de feu H.Z.________, dont une copie a été
+adressée aux autres parties avec un bordereau certifié conforme à celui produit ici,
+qu’au vu des circonstances de l’espèce, cette communication est la voie la plus expédiente
+pour transmettre cet acte (art. 21 CPC-VD), qu’il n’est donc pas nécessaire de
+notifier,
+qu'un délai de vingt jours est imparti à l’hoirie de G.Z.________ pour se déterminer
+sur ces allégués et pièces nouveaux et, au besoin, alléguer des faits connexes,
+qu’un délai sera ultérieurement imparti à l’intimé pour faire de même,
+le cas échéant aussi sur les allégués connexes de l’hoirie de G.Z.________ ;
+attendu que, sous réserve de l’allégué 279 précité, tous les actes du
+procès peuvent, et doivent, être maintenus (cf. art. 155 al. 1 CPC-VD) ;
+attendu qu’à moins qu’elle n’établisse n’avoir pu connaître en
+temps utile le fait qui l’incite à corriger sa procédure, la partie qui obtient la réforme
+est chargée des dépens frustraires, qui sont arrêtés par le jugement de réforme
+(art. 156 al. 2 CPC-VD),
+que ceux-ci sont fixés en fonction des opérations que l’intimée devra refaire ou
+reconsidérer en raison de la réforme, alors qu'elles auraient pu être évitées
+dans le cours ordinaire de la procédure (JICC, 3 mars 2003/53),
+qu’ils sont en l’occurrence dus par la requérante hoirie de feu H.Z.________, qui versera
+à l’intimé la somme de 600 fr. à ce titre,
+que l’hoirie de G.Z.________ n’a quant à elle pas requis l’octroi de dépens
+frustraires, qui ne lui seront dès lors pas alloués,
+qu’il n’y a pour le surplus pas lieu d’astreindre l’hoirie de G.Z.________ à
+payer des dépens frustraires, le retrait d’un allégué n’entraînant pas
+de nouvelle opération ;
+attendu que les hoiries de feu H.Z.________ et de G.Z.________ supporteront les frais de la procédure
+incidente qu’elles ont initiée, chacune par 900 fr. (art. 4 al. 1 et 170a al: 1
+aTFJC [tarif des frais judiciaires en matière civile du 4 décembre 1984, abrogé],
+applicable par le renvoi de l'art. 99 al. 1 TFJC [tarif des frais judiciaires en matière civile
+du 28 septembre 2010 ; BLV 270.11.5]) ;
+attendu qu’obtenant gain de cause, elles ont en outre droit à de pleins dépens de l'incident
+(art. 92 al. 1 CPC-VD), à la charge de l’intimé, comprenant le remboursement
+de leurs émoluments de l’incident précités, plus 600 fr. à titre
+d’honoraires de leurs conseils, soit 1'500 fr. en tout (art. 2 al. 1 ch. 10 et
+11 et art. 3 aTAv [tarif des honoraires d'avocat à titre de dépens du 17 juin 1986,
+abrogé ; aRSV 177.11.3], applicable en vertu de l'art. 26 al. 2 TDC [tarif des dépens
+en matière civile du 23 novembre 2010 ; BLV 270.11.6]) ;
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La requête de réforme de l’hoirie
+de feu H.Z.________ (E.Z.________, B.Z.________, I.Z.________, A.Z.________ et les membres de l’hoirie
+de G.Z.________ [E.Z.________, B.Z.________, A.Z.________, F.Z.________, C.Z.________ et D.Z.________])
+est admise.
+II.
+Il est pris acte du fait que les allégués
+168 à 173 nouveaux et les offres de preuve y relatives, ainsi que la conclusion V augmentée
+et les conclusions VII à IX nouvelles de l’hoirie de feu H.Z.________, figurent déjà
+au dossier, selon duplique complémentaire après réforme du 30 novembre 2018.
+III.
+La requête de réforme de l’hoirie
+de G.Z.________ est admise.
+IV.
+L’allégué 279 est retiré
+de la procédure.
+V.
+Un délai de
+vingt
+jours
+dès réception du présent
+jugement incident est imparti à l’hoirie de G.Z.________ pour se déterminer sur les allégués
+et conclusions nouveaux mentionnés sous chiffre II ci-dessus et, le cas échéant, déposer
+une écriture comprenant des allégations et offres de preuves connexes à ceux-ci.
+VI.
+Un délai sera fixé ultérieurement
+à l’intimé J.Z.________ pour agir dans le sens décrit sous chiffre V ci-dessus.
+VII.
+Tous les actes du procès sont maintenus,
+sous réserve de l’allégué 279 mentionné sous chiffre IV ci-dessus.
+VIII.
+Les membres de l’hoirie de feu
+H.Z.________,
+solidairement entre eux, verseront à J.Z.________ un montant de 600 fr. (six cents francs),
+à titre de dépens frustraires.
+IX.
+Les frais de la procédure incidente sont
+arrêtés à 900 fr. (neuf cents francs) pour l’hoirie de feu H.Z.________,
+et à 900 fr. (neuf cents francs) pour l’hoirie de G.Z.________.
+X.
+L’intimé versera à l’hoirie
+de feu H.Z.________ la somme de 1'500 fr. (mille cinq cents francs), à titre de dépens.
+XI.
+L’intimé versera à l’hoirie
+de G.Z.________ la somme de 1'500 fr. (mille cinq cents francs), à titre de dépens.
+XII.
+Tous autres ou plus amples conclusions incidentes
+sont rejetées.
+Le
+juge instructeur :              Le greffier :
+E. Kaltenrieder
+L. Cloux
+Du
+Le jugement qui précède, lu et approuvé à huis clos, est notifié, par l'envoi
+de photocopies, aux conseils des parties.
+Le greffier :
+L. Cloux
