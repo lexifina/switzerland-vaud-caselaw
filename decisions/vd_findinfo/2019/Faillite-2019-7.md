@@ -1,0 +1,251 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 7"
+decided: "2019-04-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7132044"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 7
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.04.2019 Faillite / 2019 / 7
+
+OUVERTURE DE LA FAILLITE, INSOLVABILITÉ | 174 LP
+
+TRIBUNAL
+CANTONAL
+FF18.052049-190300
+76
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+8 avril 2019
+__________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffière
+:              Mme
+Umulisa Musaby
+*****
+Art.
+174 al. 2 LP
+Vu le jugement rendu par défaut de la partie requérante
+M.________SA
+,
+à Nyon, le 18 février 2019, à la suite de l’audience du même jour, par la Présidente
+du Tribunal d’arrondissement de La Côte, prononçant la faillite d’
+N.________
+,
+titulaire de l’entreprise individuelle [...], à [...], le 18 février 2019 à 12 heures
+30, et mettant les frais, par 200 fr., à la charge de celui-ci,
+vu l’envoi de ce jugement aux parties le jour même et sa notification au failli le 20 février
+2019,
+vu le recours interjeté par le failli, par acte déposé le 22 février 2019, accompagné
+de deux pièces, concluant à l’annulation du jugement de faillite,
+vu l’extrait des registres de l’Office des poursuites du district de Nyon du 26 février
+2019 concernant le recourant,
+vu le courrier recommandé du 27 février 2019, par lequel la Présidente de la cour de céans
+a transmis au recourant cet extrait et l’a invité à se déterminer dans un délai
+de dix jours,
+vu le courrier du 1
+er
+mars 2019, accompagné d’une pièce, que le recourant a remis à l’Office des
+faillites de l’arrondissement de La Côte et qui a été acheminé à la cour
+de céans,
+vu le courrier du 4 mars 2019, accompagné d’une pièce, par lequel la requérante
+à la faillite a informé la cour de céans qu’elle renonçait à requérir
+la faillite du recourant,
+vu les autres pièces du dossier ;
+attendu qu'en vertu de l'art. 174 al. 1 LP (loi sur la poursuite pour dettes et la faillite ; RS 281.1),
+la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours au sens
+du CPC (Code de procédure civile ; RS 272),
+qu'en l'espèce, le recours a été déposé en temps utile et dans les formes requises,
+par acte écrit et motivé (art. 321 al. 1 CPC), de sorte qu'il est recevable ;
+attendu
+qu’en vertu de l’art. 174 al. 1, 2
+e
+phrase LP, les parties peuvent faire valoir des faits nouveaux lorsque ceux-ci se sont produits avant
+le jugement de faillite (pseudo-nova),
+qu’en outre, le failli peut faire valoir que les conditions d’annulation de la faillite prévues
+par l’art. 174 al. 2 LP sont réalisées (vrais nova) et produire à cet effet des
+pièces nouvelles,
+que les trois pièces produites à l’appui du recours (un accord conclu avec la requérante
+à la faillite, un récépissé de paiement, ainsi qu’un plan de recouvrement d’impôts)
+sont ainsi recevables ;
+attendu que selon l’art. 166 al. 1 LP, à l’expiration du délai de vingt jours dès
+la notification de la commination, le créancier peut requérir du juge la déclaration de
+faillite, en joignant à sa demande le commandement de payer et l’acte de commination,
+que le juge saisi d’une réquisition de faillite doit prononcer celle-ci, sauf dans les cas
+mentionnés aux art. 172 à 173a LP (art. 171 LP),
+qu'en l’espèce, le délai de l’art. 166 al. 1 LP, qui courait depuis le 1
+er
+novembre 2018, lendemain de la commination de faillite, jusqu’au 20 novembre 2018, a été
+respecté,
+que le recourant ne prétend pas que l’un des cas mentionnés aux art. 172 à
+173a LP était réalisé,
+que
+c'est donc à juste titre que le premier juge a prononcé la faillite du recourant ;
+attendu qu'en vertu de l'art. 174 al. 2 LP, l'autorité de recours peut annuler le jugement de faillite
+lorsque le débiteur rend vraisemblable sa solvabilité et qu'il établit par titre que la
+dette à l'origine de la faillite, intérêts et frais compris, a été payée,
+ou que la totalité du montant à rembourser a été déposée auprès de
+l'autorité judiciaire supérieure à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite,
+que ces deux conditions, soit le paiement de la dette à l’origine de la faillite, le dépôt
+de la totalité de la somme à rembourser ou le retrait de la requête de faillite et la
+vraisemblance de la solvabilité, sont cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid.
+6.1 ; Bosshard, Le recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127),
+que c’est le débiteur qui doit rendre vraisemblable sa solvabilité,
+qu’il n’appartient pas à l’autorité de recours de rechercher d’office
+des moyens de preuve idoines,
+que la condition selon laquelle le débiteur doit rendre vraisemblable sa solvabilité ne doit
+pas être soumise à des exigences trop sévères,
+qu’il suffit que la solvabilité apparaisse plus probable que l’insolvabilité, en
+particulier lorsque la viabilité de l’entreprise ne saurait être déniée d’emblée,
+que si le débiteur doit seulement rendre vraisemblable – et non prouver – sa solvabilité,
+il ne peut se contenter de simples allégations, mais doit fournir des indices concrets tels que
+récépissés de paiement, justificatifs des moyens financiers (avoir en banque, crédit
+bancaire) à sa disposition, liste des débiteurs, extrait du registre des poursuites, comptes
+annuels récents, bilan intermédiaire, etc,
+qu’en plus de ces documents, le poursuivi doit établir qu’aucune requête de faillite
+et qu’aucune poursuite exécutoire n’est en cours contre lui,
+que l’extrait du registre des poursuites constitue un document indispensable pour évaluer
+la solvabilité du failli,
+que l’appréciation de la solvabilité repose sur une impression générale fondée
+sur les habitudes de paiement du failli,
+qu’en principe, s’avère insolvable le débiteur qui, par exemple, laisse des comminations
+de faillite s’accumuler, fait systématiquement opposition et ne paie pas même des montants
+peu élevés (TF 5A_181/2018 du 30 avril 2018 consid. 3.1 ; et les réf. citées) ;
+qu’en l’espèce, le recourant demande l’annulation de la faillite, en se prévalant
+d’un accord conclu avec M.________SA, qui a conduit au retrait de la requête de faillite par
+celle-ci, ainsi que d’un plan de recouvrement du 28 février 2019 convenu avec l’Office
+d’impôt des districts de Nyon et Morges,
+que la partie requérante a retiré sa réquisition de faillite, le lundi 4 mars 2019, dernier
+jour du délai de recours,
+que la première condition permettant d’obtenir l’annulation est ainsi réalisée,
+que tel n’est en revanche pas le cas, s’agissant de la deuxième condition,
+qu’il ressort de l’extrait du registre des poursuites qu’à la date du 26 février
+2019, le recourant faisait l’objet d’un acte de défaut de biens délivré au
+mois de mai 2017 pour 246 fr. 90 et de quinze poursuites pour la somme de 69'953 fr. 90, qui peuvent
+être résumées comme il suit  :
+-
+une poursuite intentée par M.________SA pour
+25'801 fr. 65 (commination de faillite notifiée) ;
+-
+quatre poursuites totalisant 3'757 fr. 70 (=186
+fr. 20 + 615 fr. 65 + 1'147 fr. 35 + 1'808 fr. 50) intentées par [...], [...], [...] (comminations
+de faillite notifiées) ;
+-
+une poursuite intentée par [...] pour 4'055
+fr. 25 (commandement de payer notifié, sans opposition) ;
+-
+quatre poursuites totalisant 18’505 fr.
+95 (=16'157 fr. 35 + 779 fr. 75 + 525 fr. 95 + 1'042 fr. 90), intentées par l’Etat de Vaud
+et la Confédération suisse, représentés par l’Office d’impôt des
+districts de Nyon et Morges (commandements de payer notifiés, sans opposition) ;
+-
+une poursuite intentée par l’Etat de
+Vaud, représenté par l’Administration cantonale des impôts, pour 1'312 fr. (commandement
+de payer notifié, avec opposition) ;
+-
+une poursuite intentée par [...] pour 11'415
+fr. 70 (commandement de payer notifié, avec opposition) ;
+-
+une poursuite intentée par [...] pour 1'213
+fr. 65 (commandement de payer notifié, avec opposition) ;
+-
+une poursuite intentée par la Commune de
+[...] pour 1'728 fr. 45 (commandement de payer adressé) ;
+-
+une poursuite intentée par [...] pour 2'163
+fr. 55 (commandement de payer adressé),
+que le recourant établit, certes, avoir payé une partie de la dette réclamée en poursuite
+par M.________SA, par le versement de 7'500 fr. le 21 février 2019, et avoir obtenu de celle-ci
+un accord lui permettant d’amortir le solde de la dette par des acomptes mensuels de 5'000 fr.
+depuis le 15 mars 2019 jusqu’à l’extinction totale de la dette,
+qu’il établit également avoir obtenu de l’Office d’impôt des districts
+de Nyon et Morges un plan de recouvrement lui permettant de verser 19'804 fr. 30 jusqu’au 31 mars
+2019,
+qu’il allègue aussi, sans toutefois l’établir, que [...] aurait accepté que
+le recourant s’acquitte de sa dette de 11'415 fr. 70 dès la vente de « [ses] droit
+à l’
+[...]
+;
+ce qui [serait] en cours »,
+que, toutefois, à supposer que le recourant soit en mesure de tenir les engagements qui précèdent,
+il reste encore neuf poursuites ouvertes pour environ 14'200 fr. (=1'213 fr. 65 + 186 fr. 20 + 615 fr.
+65 + 1'147 fr. 35 + 1'808 fr. 50 + 1'312 + 4'055 fr. 25 + 1'728 fr. 45 + 2'163 fr. 55),
+que le recourant déclare être en train de les « épurer dans un très court
+laps de temps »,
+qu’il n’apporte toutefois pas d’indices permettant de rendre vraisemblable son affirmation,
+que le recourant est d’autant moins crédible qu’on ne sait rien de son activité
+professionnelle, des causes de ses difficultés de paiement, ou de sa situation financière,
+si ce n’est qu’il a une épouse en fin de droit au chomâge et trois enfants mineurs
+à charge,
+qu’il fait l’objet de quatre comminations de faillite,
+que le recourant échoue donc à rendre vraisemblable sa solvabilité,
+attendu que le recours, manifestement infondé au sens de l'art. 322 al. 1 CPC, doit être
+rejeté et le jugement de faillite confirmé,
+que les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à
+la charge du recourant, qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+N.________,
+‑
+M.________SA,
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
