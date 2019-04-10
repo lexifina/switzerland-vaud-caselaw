@@ -1,0 +1,609 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___12"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 12"
+decided: "2019-04-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7132228"
+cites_law: ["switzerland/bund/acts/101/art-023.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-091.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-323.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-275.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 12
+
+## Regeste
+
+PLAINTE{LP}, DÉCISION INCIDENTE, PRÉVOYANCE PROFESSIONNELLE SELON LA LPP, AVOIR DE VIEILLESSE, PRESTATION DE VIEILLESSE, PRESTATION EN CAPITAL, EXÉCUTION DE LA SAISIE, PROCÈS-VERBAL DE SAISIE, NULLITÉ | 17 LP, 18 al. 1 LP, 22 al. 1 LP, 22 LP, 92 al. 1 ch. 10 LP, 92 al. 1 ch. 5 LP, 93 al. 1 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 10.04.2019 Plainte / 2019 / 12
+
+PLAINTE{LP}, DÉCISION INCIDENTE, PRÉVOYANCE PROFESSIONNELLE SELON LA LPP, AVOIR DE VIEILLESSE, PRESTATION DE VIEILLESSE, PRESTATION EN CAPITAL, EXÉCUTION DE LA SAISIE, PROCÈS-VERBAL DE SAISIE, NULLITÉ | 17 LP, 18 al. 1 LP, 22 al. 1 LP, 22 LP, 92 al. 1 ch. 10 LP, 92 al. 1 ch. 5 LP, 93 al. 1 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+FA18.039026-190022
+16
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 avril 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 18 al. 1, 22 al. 1, 92 al. 1 ch. 5 et 10, 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Confédération
+suisse
+,
+Etat
+de Vaud
+et
+COMMUNE
+D’
+U.________
+,
+représentés par l’
+Administration
+cantonale des impôts
+, à Lausanne, contre
+la décision rendue le 12 décembre 2018, à la suite de l’audience du 16 octobre 2018,
+par le Président du Tribunal d’arrondissement de la Broye et du Nord vaudois, autorité
+inférieure de surveillance, admettant partiellement la plainte formée par
+G.________
+,
+à [...], contre des avis de saisie établis par l’
+Office
+des poursuites du district du Jura-Nord vaudois
+,
+à Yverdon-les-Bains.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Les 2 août et 4 septembre 2017, G.________ a perçu de la Fondation de libre passage de la Banque
+H.________, respectivement 14'399 fr. 10, versés sur un compte de la Banque W.________, et 240'658
+fr. 40, versés sur un compte de la Banque H.________, à titre de prestations en capital à
+la suite de son départ à la retraite.
+Le 24 novembre 2017, il a placé un montant de 100'000 fr. auprès des Caisse S.________ dans
+le but de se constituer une prévoyance individuelle libre (pilier 3b) lui permettant de toucher
+une rente trimestrielle de 2'799 fr. 50. Interpellé à l’audience, il a indiqué avoir
+utilisé les montants versés par la Fondation de libre passage de la Banque H.________ pour
+la souscription de la prévoyance individuelle susmentionnée, pour régler environ 25'000
+fr. d’arriérés d’impôt, pour rembourser des dettes personnelles à hauteur
+de 40'000 fr. environ et pour acquérir un nouveau véhicule au prix de 25'000 francs.
+2.
+a)
+Le
+23 janvier 2018, à la réquisition de l’Etat de Vaud et de la Commune d’U.________,
+représentés par l’Administration cantonale des impôts – Groupe PROCO, le Juge
+de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud a ordonné, en application de l’art.
+271 al. 1 ch. 5 LP, le séquestre de tous les avoirs, valeurs et créances (espèces, dépôts,
+titres, avoir en banque ou safe) que possédait G.________ auprès de la Banque W.________ et
+de la Banque H.________, notamment sur deux comptes. Les titres de créances invoqués étaient
+des actes de défaut de biens pour un montant total de 67'224 francs. Selon procès-verbal du
+séquestre n° 8'571'151 établi le 30 janvier 2018 par l’Office des poursuites du
+district du Jura-Nord vaudois (ci-après : l’Office), celui-ci n’a pas porté
+en mains de la Banque W.________, le compte sur lequel devait porter le séquestre présentant
+un solde de 370 fr. 45.
+Le même jour, à la réquisition de la Confédération suisse, représentée
+par l’Administration cantonale des impôts – Groupe PROCO, le Juge de paix des districts
+du Jura-Nord vaudois et du Gros-de-Vaud a ordonné, en application de l’art. 271 al. 1 ch.
+5 LP, le séquestre de tous les avoirs, valeurs et créances (espèces, dépôts,
+titres, avoir en banque ou safe) que possédait G.________ auprès de la Banque W.________ et
+de la Banque H.________, notamment sur deux comptes. Les titres de créances invoqués étaient
+des actes de défaut de biens pour un montant total de 16'934 fr. 25. Selon procès-verbal du
+séquestre n° 8'571'071 établi 30 janvier 2018 par l’Office, celui-ci n’a pas
+porté en mains de la Banque W.________, le compte sur lequel devait porter le séquestre présentant
+un solde de 370 fr. 45.
+b)
+Le
+16 avril 2018, l’Office a établi, dans la série 3 comprenant les poursuites nos 8'572'676,
+8'572'675, 8'623'896 et 8'623'895 exercées par la Confédération suisse et l’Etat
+de Vaud, représentés par l’Office d’impôt du district du Jura-Nord vaudois,
+et portant respectivement sur les sommes de 832 fr. 55, 11'602 francs 25, 10’064 fr. 10 et 1'022
+fr. en capital, un procès-verbal de saisie portant sur le véhicule de tourisme de marque [...],
+mis en circulation la première fois le 29 juin 2016 et dont la valeur estimative a été
+fixée à 15'000 francs. Ce procès-verbal a été envoyé aux parties le même
+jour.
+Par acte reçu par l’Office le 18 avril 2018, l’Office d’impôt du district
+du Jura-Nord vaudois a requis la réalisation du véhicule susmentionné. Le même jour,
+l’Office a adressé à G.________ quatre avis de réception de cette réquisition
+de vente.
+Par ordonnance du 23 avril 2018, le Juge de paix des districts du Jura-Nord vaudois et du Gros-de-Vaud,
+a, à la réquisition de l’Etat de Vaud et de la Commune d’U.________, représentés
+par l’Administration cantonale des impôts — Groupe PROCO, ordonné le séquestre
+en application de l’art. 271 al. 1 ch. 5 LP du véhicule susmentionné pour une créance
+en capital de 20'112 fr. 95 fondée sur un acte de défaut de biens, ordonnance ayant donné
+lieu à un procès-verbal de séquestre du même jour.
+Le 15 juin 2018, l’Office a adressé à G.________ quatre avis de sursis différant,
+au vu du paiement d’acomptes, la vente du véhicule [...] susmentionné, pour une durée
+allant de neuf à douze mois, moyennant le versement d’autres acomptes.
+c)
+Dans
+le cadre des poursuites n
+os
+8'592'572 et 8'592'643 en validation des séquestres du 23 janvier 2018 susmentionnés portant
+sur les montants respectifs de 17'469 fr. 45 et 67'852 fr. 60 en capital, l’Office a exécuté
+la saisie le 26 juillet 2018.
+Par courrier du 3 août 2018, l’Administration cantonale des impôts – Groupe PROCO
+a demandé à l’Office de requérir de la Banque H.________ la production des extraits
+du compte [...] du 4 septembre 2017 au jour de l’exécution du séquestre, pour le cas
+où le montant séquestré puis saisi en mains de cette banque ne suffisait pas à la
+désintéresser.
+Le 14 août 2018, la Banque H.________ a informé l’Office que G.________ était cotitulaire
+avec un tiers d’un compte privé présentant un solde créancier de 34'253 fr. 25,
+d’un compte épargne présentant un solde de 0 fr., d’un compte portfolio présentant
+un solde créancier de 58 fr. 85 et d’un compte dépôt titres dont l’estimation
+s’élevait à 30'107 fr. 55. Vu la cotitularité des comptes, elle a refusé de
+remettre les relevés de comptes requis.
+d)
+Par
+avis de déplacement relatif à un sursis 123 LP envoyé le 29 août 2018 sous pli recommandé
+à G.________, l’Office a constaté qu’un solde d’acomptes de 4'000 fr. demeurait
+impayé, et a imparti au débiteur un ultime délai échéant le 18 septembre 2018
+pour le régler, faute de quoi celui-ci devrait amener le véhicule de marque [...] susmentionné
+à l’Office en vue de sa réalisation juridique.
+3.
+Le 4 septembre 2018, l’Office a établi un procès-verbal de saisie dans la série
+4, comprenant les poursuites en validation de séquestre nos 8'592'643 et 8'592'572, imposant une
+saisie à concurrence de 55'637 fr. 25, correspondant à la valeur estimative des fonds détenus
+par G.________ auprès de la Banque H.________, en particulier sur le compte [...].
+4.
+Par acte du 11 septembre 2018, G.________ a déposé auprès du Président du Tribunal
+d’arrondissement de la Broye et du Nord Vaudois, une plainte au sens de l’art. 17 LP contre
+l’avis de saisie du 4 septembre 2018, reçu le jour précédant, et a fait valoir les
+arguments suivants :
+« (…)
+Ce montant fait partie intégrante de mon deuxième pilier.
+Ce montant m’est absolument indispensable pour vivre et compléter mon revenu AVS (2'200.-
++ 900.-).
+Depuis que les comptes sont séquestrés, plusieurs mois déjà, je ne peux pas effectuer
+mes paiement tous les mois.
+Actuellement mon revenu ne satisfait pas mes besoins indispensables pour mener une existence conforme
+à la dignité humaine.
+Concernant mon véhicule il m’est indispensable au suivi et contrôle de mon traitement
+contre deux cancers.
+(…) »
+Par décision du 26 septembre 2018, la présidente a octroyé l’effet suspensif à
+la plainte.
+Par courriers recommandés du même jour, la présidente a notifié la plainte aux créanciers
+et à l’Office et a cité les parties et l’Office à comparaître à
+l’audience du 16 octobre 2018.
+Dans ses déterminations du 8 octobre 2018, l’Office a conclu à la recevabilité partielle
+de la plainte et à son rejet sur le fond. Il a précisé que les revenus et le minimum vital
+du plaignant et de son épouse, qui n’exerce aucune activité lucrative, ont été
+calculés de la manière suivante :
+Rente
+viagère des Caisse S.________
+Fr.     19.75
+Rente
+(prévoyance libre) des Caisse S.________
+Fr.   933.15
+Rente
+AVS de la Fédération vaudoise des entrepreneurs
+Fr. 2'218.00
+Total
+Fr. 3'170.90
+Base
+mensuelle pour le couple
+Fr. 1'700.00
+Loyer
+Fr. 1'445.00
+Prime
+d’assurance maladie pour le couple
+Fr.    905.00
+Frais
+médicaux et dentaires pour le couple
+Fr.
+258.00
+Total
+Fr. 4'308.00
+Quotité
+mensuelle saisissable
+-
+Fr. 1'137.10
+Dans ses déterminations du 8 octobre 2018, l’Administration cantonale des impôts –
+Groupe PROCO, a requis la production par le plaignant du détail de tous ses comptes ouverts auprès
+de la Banque H.________ pour la période du 4 septembre 2017 au 24 janvier 2018. Elle a conclu au
+rejet de la plainte s’agissant de l’insaisissabilité de l’avoir LPP et du véhicule
+[...].
+Par courrier du 12 octobre 2018, la présidente a informé l’Administration cantonale des
+impôts qu’il ne serait en l’état pas donné suite à ses réquisitions
+de production de pièces.
+A l’audience du 16 octobre 2018, se sont présentés le plaignant personnellement, le substitut
+du préposé de l’Office et un représentant de l’Administration cantonale des
+impôts – Groupe PROCO.
+5.
+Par décision du 12 décembre 2018, notifiée
+à l’Administration cantonale des impôts le lendemain, la Présidente du Tribunal
+d’arrondissement de la Broye et du Nord vaudois, statuant en tant qu’autorité inférieure
+de surveillance, a admis partiellement la plainte (I), a en conséquence annulé le procès-verbal
+de saisie du 4 septembre 2018 (II), a invité l’Office à établir un nouveau
+procès-verbal de saisie dans le sens des considérants (III) et a rendu la décision sans
+frais judiciaires ni dépens (IV). En substance, le premier juge a considéré que la plainte
+était irrecevable pour cause de tardiveté en tant qu’elle avait trait à l’avis
+de saisie du 16 avril 2018 portant sur le véhicule de marque [...]. Il a constaté que
+le montant de 55'637 fr. 25 saisi provenait d’un versement du 4 septembre 2017 d’un montant
+de 240'658 fr. 40 versé par la Fondation de libre passage de la Banque H.________, que ce capital
+était relativement saisissable en application de l’art. 93 LP, vu sa provenance, et que l’Office
+aurait dû calculer quelle rente viagère annuelle aurait pu être achetée au moment
+de l’exécution du séquestre en précisant que cette rente théorique devait être
+calculée sur la base de l’intégralité de la prestation exigible au moment de l’événement
+assuré, savoir 14'399 fr. 10 et 240'658 francs 40, sous déduction de la somme de 100'000 fr.
+investie dans la prévoyance individuelle (pilier 3b).
+6.
+Par acte du 3 janvier 2019, Confédération
+suisse, Etat de Vaud et Commune d’U.________, représentés par l’Administration
+cantonale des impôts – Groupe PROCO, ont recouru contre cette décision en concluant,
+à sa réforme en ce sens que la saisie exécutée le 26 juillet 2018 contre G.________
+est maintenue et que seule la somme de 2'274 fr. 20 doit être laissée à la disposition
+du poursuivi. Ils ont requis que l’effet suspensif soit accordé au recours.
+Le 9 janvier 2019, l’intimé G.________ a requis le bénéfice de l’assistance
+judiciaire consistant dans la désignation d’un avocat d’office.
+Par décision du 28 janvier 2019, la présidente de la cour de céans a accordé à
+l’intimé le bénéfice de l’assistance judiciaire et a désigné l’avocat
+Eric Muster en qualité de conseil d’office.
+Par décision du 4 février 2019, la présidente de la cour de céans a rejeté la
+requête d’effet suspensif.
+Dans ses déterminations du 6 février 2019, l’Office a maintenu sa position du 5 octobre
+2018 et déclaré au surplus se rallier à celle des recourants.
+Dans ses déterminations du 19 février 2019, l’intimé a pris, avec suite de frais
+et dépens, les conclusions suivantes :
+« I.-
+Le recours déposé par la Confédération Suisse, Etat de Vaud et Commune d’U.________
+est rejeté dans la mesure où il est recevable.
+II.              Le procès-verbal,
+série n° 4, du 4 septembre 2018 est modifié en ce sens que les avoirs LPP de l’intimé
+sont saisis au maximum à concurrence d’une rente viagère théorique annuelle, conformément
+aux considérants de la décision entreprise.
+III.              Le procès-verbal
+de saisie, série n° 3, du 16 avril 2018 est modifié en ce sens que le véhicule [...]
+est insaisissable au sens de l’art. 92 LP et qu’il n’est donc pas saisi. »
+L’intimé a produit les pièces suivantes :
+-
+une copie d’une décision de taxation et calcul de l’impôt sur les prestations en
+capital provenant de la prévoyance 2017 et de l’impôt fédéral direct 2017 rendue
+le 13 octobre 2017 par l’Office d’impôt du district du Jura-Nord vaudois, fixant la
+prestation imposable à 255'000 fr., l’impôt cantonal et communal à 19'713 fr. et
+l’impôt fédéral à 3'942 fr. 40 ;
+-
+une copie d’une facture de garage d’un montant de 25'600 fr. et de de deux récépissés
+de paiement de 14'000 fr. le 11 août 2017 et de 10'600 fr. le 6 septembre 2017 ;
+-
+une copie d’un certificat médical établi le 24 octobre 2017 par le Dr. [...], spécialiste
+FMH en Oncologie médicale et Médecine interne, du Centre d’oncologie [...] Lausanne,
+Clinique Bois-Cerf, attestant que l’intimé avait été en traitement de radiothérapie
+et de chimiothérapie durant l’année 2017 et que pour des raisons médicales, il n’était
+pas en mesure de conduire lui-même et avait dû être transporté par son épouse
+ou des tiers ;
+-
+une copie d’un certificat médical établi le 24 octobre 2017 par le Dr. [...], spécialiste
+FMH en radio-oncologie du Centre d’oncologie [...] Lausanne, Clinique Bois-Cerf, attestant que
+l’intimé avait bénéficié d’une prise en charge au sein de l’institut
+et avait dû effectuer à ses frais trente-cinq allers-retours entre son domicile et la clinique ;
+-
+une copie d’un certificat médical établi le 13 février 2019, par le Dr [...], attestant
+que l’intimé était traité et suivi régulièrement à sa consultation
+à la clinique Bois-Cerf et à l’Hôpital de Saint-Loup ;
+-
+une copie d’une attestation médicale établie par le Dr. [...], spécialiste FMH en
+médecine interne, à Mézières, indiquant que l’intimé était en traitement
+chronique de saignées effectuées environ tous les deux à trois mois en raison d’une
+surcharge chronique en fer ;
+-
+une copie d’une liste de paiements de 5'050 fr. 35 au mois de février 2017, de 4'129 francs
+70 au mois de janvier 2017 et de 4'005 francs au mois de décembre 2016 ;
+-
+une copie des décomptes de prestations de la Caisse cantonale de chômage des 29 novembre
+et 19 décembre 2017 indiquant que l’intimé a touché des prestations de l’assurance-chômage
+de 4'900 fr. net par mois pour les mois de novembre et de décembre 2017 ;
+-
+un extrait du site internet postauto.ch. du 11 février 2019 indiquant un temps de déplacement
+en transport public entre 1 h 03 et 1 h 34 entre le domicile de l’intimé et l’Hôpital
+de Saint-Loup ;
+-
+un extrait du site internet postauto.ch. du 11 février 2019 indiquant un temps de déplacement
+en transport public entre 1 h 03 et 1 h 47 entre le domicile de l’intimé et la Clinique Bois-Cerf
+à Lausanne ;
+-
+un extrait du site internet postauto.ch. du 11 février 2019 indiquant un temps de déplacement
+en transport public entre 2 h 05 et 2 h. 39 entre le domicile de l’intimé et la Commune de
+Mézières ;
+-
+un extrait du site d’information de voyage CFF du 19 février 2019 dont il ressort que le trajet
+entre le domicile de l’intimé et l’Hôpital de Saint-Loup, aller-retour, coûte
+33 francs 20 ;
+-
+un extrait du site d’information de voyage CFF du 19 février 2019 dont il ressort que le trajet
+entre le domicile de l’intimé et Lausanne, aller-retour, coûte 44 fr. 40 ;
+-
+un extrait du site d’information de voyage CFF du 19 février 2019 dont il ressort que le trajet
+entre le domicile de l’intimé et Mézières, aller-retour, coûte 51 fr. 60.
+En droit :
+I.
+a)aa)
+L'intimé
+met en doute l’ouverture d’une voie du recours contre la décision en cause, soutenant
+que celle-ci est de nature incidente dès lors qu’elle donne à l’Office une marge
+de manœuvre qu’il devra exploiter.
+Selon l'art. 18 LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1), toute décision de l'autorité inférieure peut être déférée
+à l'autorité cantonale supérieure de surveillance dans les dix jours à compter de
+sa notification. Il est admis que le recours à l'autorité de surveillance ne peut être
+plus limité que le recours au Tribunal fédéral. Peuvent dès lors faire l'objet d'un
+recours les décisions finales ou les décisions partielles au sens de l'art. 91 LTF (loi du
+17 juin 2005 sur le Tribunal fédéral ; RS 173.110). Quant aux décisions incidentes
+ou préjudicielles (Zwischenentscheide oder prozessleitende Anordnungen), elles ne peuvent faire
+l'objet d'un recours que s'il s'agit d'une décision sur la compétence ou la récusation
+au sens de l'art. 92 LTF ou si la décision peut causer un préjudice irréparable au sens
+de l'art. 93 al. 1 let. a LTF (Cometta/Moeckli, in Staehelin/Bauer/Staehelin (éd.) Basler Kommentar
+SchKG I, 2
+e
+éd, n. 6 ad art. 18 LP; Dieth/Wohl, in Hunkeler (éd.) KurzKommentar SchKG, n. 4 ad art. 18
+LP; Maier/Vagnato, in Kren Kostkiewicz/Vock, Kommentar SchKG, n. 4 ad art. 18 LP; cf. en matière
+d'effet suspensif: JdT 2018 III 53). Une décision de renvoi ne peut faire l'objet d'un recours que
+lorsque la cause est renvoyée à l'office avec des instructions très précises (Cometta/Moeckli,
+loc. cit.; ATF 134 III 136 consid. 1.3).
+En l'espèce, l'autorité intimée a donné des instructions précises sur la marche
+à suivre que l'Office devra respecter, en ayant déterminé que l'Office aurait dû
+calculer quelle rente viagère annuelle aurait pu être achetée au moment de l'exécution
+du séquestre auprès d'un assureur sur la vie au moyen du capital servi par la Fondation de
+libre passage de la Banque H.________ et en fixant la part de capital qui devait être prise en compte
+dans ce calcul. La marge de manœuvre de l'Office est dès lors très restreinte et il se
+justifie de considérer que la voie du recours de l’art. 18 LP est ouverte.
+bb)
+Formé
+contre une décision de l'autorité inférieure de surveillance dans le délai de dix
+jours suivant sa notification, le recours a été déposé en temps utile (art. 18 al.
+1 LP et 28 al. 1 LVLP [loi vaudoise du 18 mai 1955 d'application de la LP ; BLV 280.05]). Il comporte
+des conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte qu’il
+est conforme aux exigences de l’art. 18 LP et de la jurisprudence y relative en matière de
+motivation (TF 5A_118/2018 du 7 février 2018 consid. 4.1). Il est ainsi recevable.
+b)aa)
+Les
+déterminations de l'Office et celles de l’intimé sont également recevables, de même
+que les pièces produites par ce dernier (art. 31 al. 1 LVLP).
+bb)
+Dans
+la mesure où l'intimé a pris dans sa réponse des conclusions plus étendues que celles
+en rejet du recours, ses conclusions sont irrecevables. Si elles ne contiennent pas de disposition similaire
+à l'art. 323 CPC, ni la LP ni la LVLP ne prévoient en effet la possibilité d'un recours
+joint (CPF 12 août 2014/36 ; CPF 18 juin 2012/27). En particulier, faute d'avoir recouru en temps
+utile contre le prononcé en tant qu'il déclarait irrecevable sa plainte contestant le procès-verbal
+de saisie, série no 3 du 16 avril 2018 portant sur le véhicule [...], l'intimé ne saurait
+contester cette décision par voie de recours joint.
+Certes, selon l'art. 22 LP, l'autorité de surveillance peut, même hors délai, déclarer
+nulle une mesure de l'office si celle-ci est contraire à des dispositions édictées dans
+l'intérêt public ou dans l'intérêt de personnes qui ne sont pas parties à la
+procédure. Une décision n'est nulle que si le vice qui l'affecte est particulièrement
+grave, s'il est manifeste ou, pour le moins, facilement reconnaissable et si, de surcroît, la sécurité
+du droit n'est pas sérieusement mise en danger par l'admission de la nullité (ATF 136 III 571
+consid. 6.2 et les références; TF 5A_312/2012 du 18 juillet 2012 consid. 4.2.1). Tel est
+le cas lorsque la saisie porte une atteinte flagrante au minimum vital, respectivement prive le débiteur
+et les membres de sa famille des objets indispensables au vivre et au coucher (Cometta/Moeckli, op. cit.,
+n. 22 ad art. 22 LP; ATF 110 III 30 consid. 2; ATF 97 III 7 consid. 2; TF 5A_464/2016 du 29 août
+2016 consid. 4). Tel n'est pas le cas d'une saisie portant sur un véhicule destiné exclusivement
+à l'usage privé, qui n'est pas absolument insaisissable (ATF 106 III 104 ; TF 5A_35/2015 du
+13 janvier 2016 consid. 5.1). Certes, la jurisprudence admet qu'un tel véhicule est absolument insaisissable
+dans des cas exceptionnels, notamment dans l'hypothèse où le débiteur ne peut, sans danger
+pour sa santé ou sans difficultés extraordinaires, recourir à un moyen de transport plus
+économique et qui, à défaut de ce véhicule, serait empêché de suivre un
+traitement médical indispensable (arrêts précités), mais le recourant se contente
+d'alléguer qu'il devrait consulter à une fréquence importante différents médecins
+ou hôpitaux, en se prévalant des horaires de transport publics entre son domicile et les cliniques.
+Aucune attestation n'a été versée au dossier, qui établirait que le recourant serait
+dans l'impossibilité de prendre les transports publics pour des motifs de santé et le recourant
+n'a pas plus établi que les transports publics lui prendraient un temps disproportionné par
+rapport au trajet en véhicule privé, les trajets entre son domicile à [...] et Lausanne,
+respectivement Saint-Loup prenant environ une heure. La seule éventuelle durée supplémentaire
+des trajets ne permet dans tous les cas pas de retenir que le débiteur serait privé d'un objet
+indispensable au vivre et au coucher, de sorte qu'il n'y a pas lieu de constater d’office la nullité
+de la saisie de ce véhicule.
+II.
+Les recourants font valoir que la saisie du capital de prévoyance devrait être confirmée,
+seul un montant de 2'274 fr. 20 devant être restitué au débiteur.
+a)
+Par renvoi de l'art. 275 LP, les art. 91 à 109 LP relatifs à la saisie s'appliquent par analogie
+à l'exécution du séquestre. Cela signifie que l'office des poursuites doit, lors de l'exécution
+du séquestre, prendre en compte les règles concernant l'insaisissabilité (art. 92 LP),
+respectivement la saisissabilité relative des biens patrimoniaux (art. 93 LP).
+A teneur de l'art. 93 al. 1 LP, tous les revenus du travail, les usufruits et leurs produits, les rentes
+viagères, de même que les contributions d'entretien, les pensions et prestations de toutes
+sortes qui sont destinés à couvrir une perte de gain ou une prétention découlant
+du droit d'entretien, en particulier les rentes et les indemnités en capital qui ne sont pas insaisissables
+en vertu de l'art. 92 LP, peuvent être saisis, déduction faite de ce que le préposé
+estime indispensable au débiteur et à sa famille (minimum vital). Ces revenus peuvent être
+saisis pour un an au plus à compter de l'exécution de la saisie (art. 93 al. 2 LP).
+D'après l'art. 92 al. 1 ch. 10 LP sont insaisissables les droits aux prestations de prévoyance
+et de libre passage non encore exigibles à l'égard d'une institution de prévoyance professionnelle.
+En revanche, une fois l'événement assuré intervenu (la retraite, le décès ou
+l'invalidité), les prestations versées dans le cadre de la prévoyance professionnelle
+sont relativement saisissables au sens de l'art. 93 LP (ATF 121 III 285 consid. 1b ; ATF 120 III 71,
+JdT 1998 II 15 consid. 1b; Ochsner, in Dallèves/Foëx/Jeandin (éd.) Commentaire romand
+LP, n. 165 ad art. 92 LP).
+Lorsque les prestations de la prévoyance professionnelle, exigibles après la survenance de
+l'événement assuré, sont versées exceptionnellement sous la forme d'un capital, le
+Tribunal fédéral a admis que ce dernier était saisissable au sens de l'art. 93 al. 1 LP
+au motif que la forme des prestations servies n'affecte pas le but qu'elles poursuivent (ATF 117 III
+20 consid. 4, JdT 1993 I 116; ATF 115 III 45 consid. 1b, JdT 1991 II 140 ; ATF 113 III 10 consid. 4,
+JdT 1989 II 109; Ochsner, op. cit., n. 62 ad art. 93 LP). La fourniture de la prestation en capital,
+plutôt que sous la forme d'une rente, ne doit pas porter préjudice au débiteur. Il faut
+envisager les deux formes de prestation comme fondamentalement identiques (ATF 115 III 45 consid. 1b,
+JdT 1991 II 140).
+S'agissant des modalités de la saisie de ce capital, le Tribunal fédéral a préconisé
+une solution consistant pour l'office à calculer quelle rente viagère annuelle pourrait être
+achetée auprès d'un assureur sur la vie au moyen du capital servi par la caisse de prévoyance,
+en tenant compte d'une durée donnant droit à cette rente correspondant à l'espérance
+moyenne de vie du débiteur (ATF 115 III 45 consid. 2c, JdT 1991 II 140; ATF 113 III 10 consid. 5,
+JdT 1989 II 109). Il n'y a à disposition pour désintéresser le créancier que la part
+du capital qui correspond, pendant un an, à la rente mensuelle hypothétique, déduction
+faite du minimum vital non couvert par les autres revenus (ATF 115 III 45 consid. 2c, JdT 1991 II 140;
+ATF 113 III 10 consid. 5, JdT 1989 II 117).
+Lorsque le débiteur a mélangé la prestation reçue en capital avec le reste de son
+patrimoine ou lorsque, d'une autre manière, il donne à entendre qu'il ne pense pas l'employer
+pour son entretien, contrairement à son but, le Tribunal fédéral considère qu'il
+est douteux que la protection de l'art. 93 LP soit encore justifiée dans ces hypothèses (ATF
+115 III 45 consid. 1 c, JdT 1991 II 140; Ochsner, op cit., n. 66 ad art. 93 LP). Des arrêts cantonaux
+ont admis que, dans un tel cas, le débiteur ne pouvait pas se prévaloir du principe qui veut
+que le versement en capital soit transformé en rente hypothétique dans le cadre de la détermination
+du revenu saisissable (BlSchK 2012 p. 145 no 33: cas où le poursuivi avait dépensé en
+moins de deux ans 70'000 fr. sur les 120'000 fr. d'avoir de prévoyance reçu en capital), ce
+qui est approuvé par la doctrine (Vonder Mühll, Basler Kommentar précité, n. 13 ad
+art. 93 LP; Winkler, Kommentar SchKG précité, n. 14 ad art. 93 LP; Annen, note BlSchK 2015
+p. 114, qui considère qu'il s'agit d'un cas d'abus de droit).
+b)
+Un arrêt fribourgeois, se fondant sur l'avis de Gilliéron, a considéré que, l'assuré
+pouvant décider librement s'il veut se faire verser ses avoirs de prévoyance professionnelle
+sous forme de capital, le capital versé ne servait plus à la prévoyance, mais faisait
+désormais partie du patrimoine de l'ayant-droit. Il ne serait dès lors ni insaisissable ni
+relativement saisissable (RFJ 2012 p. 384; Gilliéron, Commentaire de la loi fédérale sur
+la poursuite pour dettes et la faillite, n. 202 ad art. 92 LP; Ochsner, op. cit., n. 179 ad art. 92 LP).
+Dans un arrêt récent, destiné à la publication, le Tribunal fédéral a considéré
+que le capital du deuxième pilier versé au moment de la survenance d’un cas d’assurance
+et qui existe toujours au moment du dépôt de la requête, doit être pris en considération
+dans la fortune du requérant à l’assistance judiciaire pour déterminer son indigence.
+Il n’y a pas de raisons de convertir ce capital en une rente hypothétique et de la prendre
+en considération à titre de revenu (TF 4A_362/2018 du 5 octobre 2018 consid. 4.2., destiné
+à la publication, Revue suisse de procédure civile [RSPC] 2019 p. 42 note Dupont). La loi ne
+prévoit pas d’égalité de traitement systématique entre les variantes de paiement
+sous forme de rente ou de capital. Pour l’assistance judiciaire selon les art. 117 ss CPC, il n’y
+a pas non plus de motifs d’ignorer le choix autonome de l’assuré et de retenir une rente
+hypothétique pour déterminer l’indigence. (TF 4A_362/2018 précité consid. 4.2.1,
+RSPC 2019 p. 42 note Dupont). Le seul fait que l’avoir versé par la caisse de pension a pour
+but la prévoyance ne suffit pas à l’exclure  de la fortune, dans la détermination
+de l’indigence (TF 4A_362/2018 précité c. 4.2.3, RSPC 2019 p. 42 note Dupont).
+Si, en matière d'assistance judiciaire, le Tribunal fédéral a considéré à
+juste titre que le choix autonome de l'assuré de percevoir un capital plutôt qu'une rente était
+décisif, il n'y a pas de motifs de ne pas en faire de même en matière de saisie. Le débiteur,
+qui a choisi de percevoir un capital et qui peut l'utiliser pratiquement sans limitation de la manière
+qu'il juge bonne, doit assumer ce choix et il n'y a pas de motifs de retenir que ce capital devrait être
+converti en rente, selon un choix qu'il n'a pas fait. Il y a donc lieu de suivre la jurisprudence fribourgeoise,
+qui peut prendre appui sur la jurisprudence récente du Tribunal fédéral en matière
+d'assistance judiciaire. D’ailleurs dans son commentaire de cet arrêt, Dupont, si elle ne
+cite pas la question de la saisie, préconise d'appliquer cette nouvelle jurisprudence, par cohérence
+et prévisibilité, dans d'autres domaines du droit de famille, notamment en matière d'avis
+aux débiteurs (Dupont, note in RSPC 2019 p. 47).
+c)
+Même si l'on devait s'en tenir à la jurisprudence actuelle, il y a lieu de constater ce qui
+suit:
+Le recourant a perçu 255'000 fr. en chiffres ronds (240'658 + 14'399). Il a investi 100'000 fr.
+dans une rente auprès des Caisse S.________, garantissant ainsi le but de prévoyance dans cette
+mesure. Il a payé 24'000 fr. en chiffres ronds à titre d'impôt sur le capital perçu.
+Il a utilisé 25'600 fr. pour l'acquisition d'un véhicule [...]. Il a conservé les 65'000
+fr. séquestrés sur ses différents comptes bancaires. Pour le surplus, il dit avoir utilisé
+le solde pour boucler ses fins de mois. On constate que ce solde représente un montant de 40'400
+fr. en quatre mois, soit près de 10'000 fr. par mois, ce qui ne peut guère s'expliquer par
+les besoins courants du débiteur. On peut ainsi estimer que le solde séquestré de 65'000
+fr. aurait été dépensé en moins d'une année. Une telle attitude démontre
+que le recourant a utilisé près de la moitié des fonds de prévoyance touchés
+à des fins de prévoyance retraite à des buts autres que la prévoyance (105'400 fr.),
+favorisant ainsi certains de ses créanciers et en ignorant d'autres, tels que les recourants et,
+surtout qu'il est vraisemblable que le solde séquestré aurait été utilisé en
+dehors de son but de protection, en assurant au débiteur pour une brève période un train
+de vie supérieur à celui qui aurait pu être mené s'il avait perçu une rente
+et non un capital. Il importe peu qu'il ait consacré une partie du capital reçu à l'établissement
+d'une rente, cette part étant retenue comme revenu dans le calcul du minimum vital. Dans tous les
+cas, on doit admettre que les conditions de l'exception jurisprudentielle à la transformation du
+capital en rente hypothétique dans le cadre de la détermination du revenu saisissable sont
+réalisées.
+Cela étant, c'est à juste titre que les recourants soutiennent que seul le complément
+entre les revenus du débiteur, qui s'élèvent à 3'170 fr. 90, et son minimum vital
+arrêté à 4'308 fr. par l'Office doit être laissé à disposition du débiteur
+pour les deux mois qui ont suivi la saisie (art. 92 al. 1 ch. 5 LP ; Ochsner, op. cit., n. 132 ad
+art. 92 LP), soit 2'274 fr. 20 (2 x 1'137 fr. 10), le surplus pouvant être saisi et encaissé.
+III.
+a)
+En conclusion, le recours de l’intimé
+doit être déclaré irrecevable, celui des recourants admis et la décision réformée
+en ce sens que la saisie exécutée le 26 juillet 2018 contre l’intimé sur ses avoirs
+en mains de la Banque H.________ est confirmée, sous réserve d’un montant de 2'274 fr.
+80, qui doit être laissé à la disposition du poursuivi.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+b)
+Le
+conseil d’office de l’intimé a déposé le 20 février 2019 une liste de
+ses opérations, dont il ressort qu’il a consacré huit heures quarante à la procédure
+de recours et supporté 11 fr. de débours. Cette durée et le montant de ces débours
+apparaissent adéquats. Au tarif horaire de 180 fr. (art. 2 al. 1 let. a RAJ [règlement du 7
+décembre 2010 sur l’assistance judiciaire en matière civile ; BLV 211.01.3]), l’indemnité
+de conseil d’office doit être fixée à 1’512 fr., montant auquel il convient
+d’ajouter les débours par 11 fr. et la TVA à 7,7 %, par 117 fr. 27, soit une indemnité
+totale de 1'640 fr. 27, ramenée à 1’640 francs.
+Le bénéficiaire de l’assistance judiciaire est tenu de rembourser l’assistance
+judiciaire dès qu’il est en mesure de le faire au sens de l’art. 123 CPC (Code de procédure
+civile du 19 décembre 2008 ; RS 272), applicable par analogie en matière de plainte LP
+(CPF 11 avril 2018/11), cette disposition concrétisant le principe jurisprudentiel selon lequel
+ni l’art. 23 al. 3 Cst. (Constitution fédérale du 18 avril 1999 ; RS 101) ni le
+droit conventionnel n’imposent une renonciation définitive de l’Etat au remboursement
+des frais avancé à titre de l’assistance judiciaire (ATF 135 I 91, rés. in JdT 2010
+IV 40 ; Tappy, in Bohnet et alii, Commentaire romand, Code de procédure civile, 2
+e
+éd., n. 3 ad art. 123 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours de la Confédération suisse, de l’Etat de Vaud et de la Commune d’U.________
+est admis.
+II.
+Le recours de G.________ est irrecevable.
+III.
+La décision est réformée dans le sens que la saisie exécutée le 26 juillet
+2018 contre G.________ sur ses avoirs en mains de la Banque H.________ est confirmée, sous réserve
+d’un montant de 2'274 fr. 80 (deux mille deux cent septante-quatre francs et huitante centimes),
+qui doit être laissé à la disposition du poursuivi.
+IV.
+L’indemnité d’office de Me Eric Muster, conseil de l’intimé G.________, est
+arrêtée à 1'640 fr. (mille six cent quarante francs), TVA et débours compris.
+V.
+Le bénéficiaire de l’assistance judiciaire est, dans la mesure de l’art. 123 CPC
+applicable par analogie, tenu au remboursement de l’indemnité due au conseil d’office
+selon le chiffre IV qui précède et mise à la charge de l’Etat.
+VI
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Administration cantonale des impôts – Groupe PROCO (pour Confédération suisse, Etat
+de Vaud et Commune d’U.________),
+‑
+Me Eric Muster, avocat (pour G.________),
+-
+M. le Préposé à l’Office des poursuites du district du Jura-Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+Le greffier :
