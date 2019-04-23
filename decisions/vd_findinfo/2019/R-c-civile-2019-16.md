@@ -1,0 +1,149 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2019___16"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2019 / 16"
+decided: "2019-04-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20190423135414105_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2019 / 16
+
+## Regeste
+
+RÉCUSATION | 47 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 23.04.2019 Réc-civile / 2019 / 16
+
+RÉCUSATION | 47 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+XZ18.036889
+20
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 23 avril 2019
+_______________________
+Présidence
+de               M.
+Hack
+,
+vice-président
+Juges
+:              MM.
+Colombini et Meylan, membres
+ad
+hoc
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+47 al. 1 let. a et f et 48 CPC ; 8a al. 3 et 8b al. 4 CDPJ
+Vu l’avis du 15 avril 2019 de l’huissier du Tribunal des baux, informant le conseil de J.M.________
+qu’il procéderait, le 13 mai 2019 dès 14 h, à l’exécution forcée
+de la transaction judiciaire du 25 septembre 2018, soit à l’évacuation de l’appartement
+occupé par B.M.________ et J.M.________ sur la Commune d’ [...],
+vu le contrat de bail à loyer du 7 juillet 2016 portant sur la location de l’appartement précité,
+conclu par J.M.________ et B.M.________, en qualité de locataires, et par T.________ et F.________,
+en qualité de bailleurs,
+vu la demande de suspension de l’exécution forcée adressée par J.M.________ à
+la Justice de paix du district de Morges le 16 avril 2019, laquelle demande est notamment dirigée
+contre S.________, membre de l’hoirie de F.________,
+vu le courrier du 16 avril 2019, par lequel la Première juge de paix du district de Morges a spontanément
+demandé la récusation en corps de son office, au motif qu’S.________ exerce la fonction
+de juge assesseur au sein dudit office,
+vu les pièces au dossier ;
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+du 6 février 2019 en vertu des art. 8a al. 3 CDPJ (Code de droit privé judiciaire vaudois du
+12 janvier 2010 ; BLV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal
+du 13 novembre 2007 ; BLV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable ;
+attendu qu’en vertu de l’art. 47 al. 1 let. a et f CPC (Code de procédure civile suisse
+du 19 décembre 2008 ; RS 272), les magistrats et les fonctionnaires judiciaires se récusent
+lorsqu'ils pourraient être prévenus, notamment s’ils ont un intérêt personnel
+dans la cause ou en raison d'un rapport d'amitié ou d'inimitié avec une partie ou son représentant,
+que, selon l’art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d’un motif de récusation possible et se récuse lorsqu’il considère
+que ce motif est réalisé,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des
+art.
+30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999 ;
+RS 101) et 6 § 1 CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales
+du 4 novembre 1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès
+puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid.
+2.1 ; ATF 138 I 1 consid. 2.2 et les réf. citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid. 2.1),
+qu’en l’espèce, S.________, contre lequel notamment une demande de suspension de l’exécution
+forcée a été introduite devant la Justice de paix du district de Morges, exerce la fonction
+de juge assesseur au sein de cette même autorité,
+que cette fonction implique des contacts réguliers et professionnels avec les autres membres de
+cette juridiction aux côtés desquels il est amené à siéger et à collaborer,
+qu'il est dès lors possible qu'un rapport d'amitié ou d'inimitié ait pu naître des
+relations professionnelles entre S.________ et les autres magistrats composant cet office (cf. notamment
+CA 14 août 2018/33 ; CA 2 février 2018/4 ; CA 27 novembre 2017/45),
+qu’il est par ailleurs lui-même investi d'un pouvoir décisionnel dans le cadre de sa
+fonction de juge assesseur,
+qu'il pourrait ainsi résulter de ces relations une apparence de prévention, du moins aux yeux
+de la partie adverse et des tiers,
+qu'afin de garantir l'impartialité du tribunal appelé à statuer sur la demande de suspension
+de l’exécution forcée formée notamment contre S.________, la demande de récusation
+présentée spontanément par la Première juge de paix du district de Morges doit être
+admise,
+que, dans un tel cas, la cause doit être déléguée à une autre juridiction ayant
+les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'il convient dès lors de désigner la Justice de paix du district de l’Ouest lausannois ;
+attendu que le présent arrêt doit être rendu sans frais, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 16 avril 2019 par la Première juge de paix
+du district de Morges est admise.
+II.
+La cause est transmise, dans l’état où elle se trouve, à la Justice de paix du district
+de l’Ouest lausannois.
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Adrienne Favre (pour J.M.________),
+-
+Me Olivier Bloch (pour T.________, S.________ et [...]).
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Première juge de paix du district de Morges,
+‑
+Mme la Première juge de paix du district de l’Ouest lausannois, avec le dossier.
+La greffière :
