@@ -1,0 +1,369 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2019___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2019 / 5"
+decided: "2019-05-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7243385"
+cites_law: ["switzerland/bund/acts/272/art-092.md", "switzerland/bund/acts/272/art-144.md", "switzerland/bund/acts/272/art-145.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-151.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-274.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2019 / 5
+
+## Regeste
+
+DÉCISION INCIDENTE, NOUVEAU MOYEN DE FAIT, PRINCIPE D'ALLÉGATION | 155 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 07.05.2019 Jug-inc / 2019 / 5
+
+DÉCISION INCIDENTE, NOUVEAU MOYEN DE FAIT, PRINCIPE D'ALLÉGATION | 155 CPC
+
+TRIBUNAL
+CANTONAL
+CO07.034346
+16/2019/ROU
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+A.X.________
+,
+à [...], requérante, d'avec
+B.X.________
+,
+à [...], intimé.
+___________________________________________________________________
+Séance
+du 7 mai 2019
+__________________
+Composition
+:               M. OULEVEY, juge instructeur
+Greffier
+:              Mme Bron
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu la demande déposée le 13 novembre
+2007 par la demanderesse [...] contre le défendeur B.X.________, contre lequel elle a pris les conclusions
+suivantes, avec suite de frais et dépens:
+"
+I.
+Le défendeur B.X.________ est reconnu débiteur de la demanderesse [...] et lui doit immédiat
+paiement de la somme de 203'797 fr. 63 (deux cent trois mille sept cent nonante-sept francs suisses et
+soixante-trois centimes) avec intérêt à 5% l'an dès le 11 décembre 2000.
+II.
+Ordonner la mainlevée définitive de l’opposition formée par le défendeur au
+commandement de payer n° [...] de l’Office des poursuites et faillites de [...], libre
+cours étant laissé à dite poursuite à hauteur des montants alloués sous chiffre
+I ci-dessus, intérêts et frais et émolument de poursuite et de procès-verbal de séquestre
+en sus.
+III.
+Ordonner à l’Office des poursuites et faillites de [...] de lever, en faveur de [...], le
+séquestre sur la part de copropriété d’une demie dont le défendeur B.X.________
+est propriétaire sur le lot PPE n° [...] du registre foncier de [...] sous la dénomination
+suivante :
+Commune: [...]
+Numéro d’immeuble: [...]
+Immeuble de base : B-F [...]
+Quote-part : 500/1000
+Droit exclusif : villa comprenant :
+Sous-sol de 73 m2 environ
+Rez-de-chaussée de 91,5 m2 environ comprenant garage
+terrasse couverte de 31 m2 environ, patio de 8,40 m2 environ
+Place de parc
+Premier étage de 91,5 m2 environ
+Combles de 48 m2 environ
+Constituant le lot H2 du plan
+A
+hauteur de la créance de la demanderesse allouée selon chiffres I et II ci-dessus, en capital,
+intérêts et frais. »
+vu la réponse déposée le 11 mars 2008 par le défendeur qui a conclu, avec suite de
+frais et dépens, au rejet des conclusions de la demanderesse,
+vu les échanges d'écritures ultérieurs des parties, et en particulier la réplique
+déposée le 11 décembre 2008 par la demanderesse, qui a conclu au rejet des conclusions
+de la réponse et confirmé les conclusions prises dans sa demande, sous réserve d’ampliation,
+vu l'ordonnance sur preuves du 10 septembre 2009,
+vu l'ordonnance sur preuves complémentaire du 18 novembre 2009,
+vu la convention de suspension de cause signée par les parties le
+8
+décembre 2009, qui prévoyait que l’instance serait suspendue jusqu’à la clôture
+de l’enquête pénale dirigée contre le défendeur par le Juge d’instruction
+de [...] ([...]),
+vu l’avis du juge instructeur du 19 février 2013 ordonnant la reprise de la cause,
+vu la décision du juge instructeur du 3 mai 2013 suspendant la cause du fait du décès
+de la demanderesse,
+vu l’avis du juge instructeur du 18 septembre 2013 ordonnant la reprise de la cause entre la fille
+de la demanderesse, A.X.________, et le défendeur,
+vu la requête de réforme déposée le 23 novembre 2017 par la demanderesse à l’encontre
+du défendeur, tendant à l'introduction des allégués
+nos
+201 à 240, à la production du bordereau de pièces nos 201 à 210, à la modification
+de trente-quatre allégués et à la modification de la conclusion I de sa demande, s'appuyant
+sur le fait qu'un jugement pénal condamnant le défendeur à verser à [...] le montant
+de ses conclusions civiles à hauteur de 211'764 fr. avec intérêt à 5% l'an dès
+le 11 décembre 2000, avait été rendu par le Tribunal de police du Canton de [...] le 21
+septembre 2011,
+vu le jugement incident du 19 février 2018 par lequel le juge instructeur a notamment admis la requête
+de réforme (I), autorisé la demanderesse à se réformer pour introduire en procédure
+les allégués nouveaux nos 201 à 240 avec les offres de preuve afférentes, l'a autorisée
+à procéder à la modification des trente-quatre allégués mentionnés dans
+sa requête, ainsi qu'à la modification de la conclusion I de la demande (II), et par lequel
+il a fixé un délai de vingt jours à la demanderesse pour déposer une écriture
+complémentaire (III), ainsi que déclaré qu'un délai serait fixé ultérieurement
+au défendeur pour se déterminer sur cette écriture et, au besoin, introduire des allégations
+strictement connexes (IV),
+vu la réplique complémentaire après réforme déposée le 19 mars 2018 par
+la demanderesse par laquelle celle-ci a notamment introduit les allégués nouveaux nos 201 à
+240 et modifié la conclusion I de la demande,
+vu l'avis du juge instructeur du 22 mars 2018 notifiant la réplique complémentaire après
+réforme au défendeur et lui fixant un délai prolongé au 9 mai 2018 pour déposer
+une duplique complémentaire conforme au chiffre IV du jugement incident du 19 février 2018,
+vu la duplique complémentaire après réforme déposée le 9 mai 2018 par le défendeur
+par laquelle il s'est déterminé sur les allégués nouveaux nos 201 à 240 et par
+laquelle il a introduit quatorze nouveaux allégués, soit les allégués
+nos
+241 à 254,
+vu l'avis du juge instructeur du 14 mai 2018 notifiant la duplique complémentaire après réforme
+à la demanderesse et lui fixant un délai prolongé au 20 juin 2018 pour procéder selon
+l’art. 274 al. 4 CPC-VD (Code de procédure civile vaudoise du 14 décembre 1966 ;
+RSV 270.11),
+vu la requête déposée le 20 juin 2018 par la demanderesse au fond et requérante à
+l'incident (ci-après la requérante) par laquelle elle a conclu principalement au retranchement
+des allégués nos 241 à 248 déposés par le défendeur au fond et intimé
+à l'incident (ci-après l'intimé), subsidiairement à ce que l'introduction de ces
+allégués soit assimilée à une requête de réforme, et plus subsidiairement
+à ce qu'un délai complémentaire lui soit octroyé afin de déposer des allégations
+nouvelles une fois droit connu sur ses conclusions principales et subsidiaires,
+vu l'avis du juge instructeur du 25 juin 2018 notifiant la requête du
+20
+juin 2018 à l'intimé et lui fixant un délai prolongé au 16 août 2018 pour se
+déterminer,
+vu le courrier de l'intimé du 10 août 2018 par lequel il s'est opposé au retranchement
+des allégués nos 241 à 248,
+vu l'avis du juge instructeur du 16 août 2018 par lequel il a pris acte de l'opposition de l'intimé
+à la requête incidente et a fixé aux parties un délai au
+7
+septembre 2018 pour indiquer si elles consentaient au remplacement de l'audience par un échange
+d'écritures unique et à bref délai (art. 149 al. 4 CPC-VD) et, cas échéant,
+à la reddition d'un jugement immédiat au sens de l'art. 151 CPC-VD,
+vu le courrier de la requérante du 7 septembre 2018 par lequel elle a déclaré consentir
+au remplacement de l'audience par un échange d'écritures unique et à bref délai,
+et le cas échéant à la reddition d'un jugement immédiat,
+vu le courrier de l'intimé du 7 septembre 2018 par lequel il a déclaré consentir au remplacement
+de l'audience par un échange d'écritures unique et à bref délai,
+vu l'avis du juge instructeur du 19 novembre 2018 par lequel il a informé les parties que l'audience
+incidente serait remplacée par un échange d'écritures unique et leur a fixé un délai
+prolongé au 18 janvier 2019 pour déposer un mémoire,
+vu le mémoire déposé le 18 janvier 2019 par la requérante par lequel elle a déclaré
+s'en remettre à justice sur la question du retranchement des allégués nos 241 à 248,
+et par lequel elle a soutenu que les allégués nos 244, 253 et 254 devaient être écartés,
+concluant très subsidiairement à ce qu'un délai lui soit octroyé, si la duplique
+complémentaire devait être admise, afin de déposer des allégations connexes aux allégations
+introduites par l'intimé, ceci en application du droit d'être entendu,
+vu le mémoire déposé le 18 janvier 2019 par l'intimé par lequel il a maintenu les
+allégués litigieux et par lequel il a déclaré ne pas s'opposer à ce qu'un délai
+soit imparti à la requérante pour alléger des faits connexes à ceux qu'il a allégués,
+vu les autres pièces au dossier;
+attendu qu'à teneur de l'art. 404 al. 1 CPC (Code de procédure civile suisse du 19 décembre
+2008 ; RS 272), les procédures pendantes avant l'entrée en vigueur du nouveau droit demeurent
+régies par l'ancien droit de procédure cantonal,
+que le jugement incident rendu dans le cadre d’une procédure au fond soumise à l’ancien
+droit de procédure cantonal est également régi par cet ancien droit (CREC II 20 juillet
+2011/66 consid. 1a ; Haldy, La nouvelle procédure civile suisse, p. 3, n. 7 ; Tappy, Le
+droit transitoire applicable lors de l’introduction de la nouvelle procédure civile unifiée,
+in
+JdT 2010 III 11, spéc. pp. 36 à 38),
+qu’en l’espèce, la procédure au fond, ouverte le 13 novembre 2007, était en
+cours lors de l’entrée en vigueur du CPC le 1
+er
+janvier 2011,
+qu’elle demeure donc régie par l’ancien droit de procédure,
+qu’il en va de même de la présente procédure incidente,
+que les parties ont toutes deux consenti au remplacement de l'audience par un échange d'écritures,
+selon l'art. 149 al. 4 CPC-VD, mais non à la reddition d'un jugement immédiat selon l'art.
+151 CPC-VD ;
+attendu qu'est en cause dans le présent litige la question du retranchement éventuel des allégués
+nos 241 à 254 introduits par l'intimé dans sa duplique complémentaire après réforme
+du 9 mai 2018,
+que la requérante fait en effet valoir le défaut de connexité de ces allégués,
+lesquels ne se rattachent, selon elle, pas suffisamment aux allégués
+nos
+201 à 240 qu'elle-même a introduits dans sa réplique complémentaire après réforme
+du 19 mars 2018,
+qu’elle soutient que l’intimé se fonde sur ces nouvelles allégations pour introduire
+en droit un moyen nouveau, à savoir une prétendue créance successorale découlant
+de dispositions testamentaires que [...] aurait rédigées en sa faveur en 1991, dispositions
+qui ne lui ont pas permis d’obtenir la révision du jugement pénal rendu en 2011 et qu’il
+aurait eu le loisir de produire à l’appui de l’une ou l’autre de ses écritures
+dans la présente procédure civile,
+qu'elle prétend qu'admettre ces allégués reviendrait à autoriser l'intimé à
+introduire en procédure de nouveaux allégués en éludant une réforme, voire lui
+permettrait de faire réinstruire une question litigieuse déjà tranchée ;
+attendu que le conflit relatif au retranchement, pour défaut de connexité, d'allégués
+introduits consécutivement à une écriture après réforme constitue un incident
+au sens de l'art. 144 al. 1 CPC-VD (Poudret/Haldy/Tappy, Procédure civile vaudoise, 3
+ème
+éd., n. 1 ad art. 144 CPC-VD),
+qu'il doit ainsi être instruit et jugé en la forme incidente (art. 145 al. 1
+CPC-VD), l'opposant à l'instruction de nouveaux
+allégués devenant le requérant à l'incident (art. 147 al. 1 et 3 CPC-VD; JICCiv,
+12 juin 1998, B. c. H.M. SA; JICCiv,
+23
+juin 1998, L. c. E. SA; JICCiv, 7 mai 2008, T. SA c. P. SA),
+qu'en l'espèce, la requête, conforme aux exigences des art. 19 et
+147
+al. 1 CPC-VD, est recevable à la forme;
+attendu qu'aux termes de l'art. 155 al. 1 CPC-VD, le juge détermine l'étendue de la réforme
+et ordonne librement les opérations complémentaires,
+qu'il doit notamment veiller à ce que la partie intimée puisse articuler les faits et moyens
+que l'allégation nouvelle de sa partie adverse suscite chez elle (BGC 1966, p. 719),
+qu'ainsi, le juge fixe un délai à la
+partie intimée à la réforme pour introduire des allégués nouveaux et connexes
+à ceux ayant motivé la requête de réforme, sur lesquels il est ensuite loisible à
+la requérante de se déterminer (art. 155 al. 1 CPC-VD; JdT 1981 III 133),
+que la jurisprudence, suivant l'avis des commentateurs du code de procédure civile vaudoise, impose
+que ces nouvelles allégations soient connexes à celles autorisées par la réforme
+(JdT 1981 III 133; Poudret/Haldy/Tappy, op. cit., n. 1 ad art. 155 CPC-VD),
+que cela se justifie par le souci d'éviter qu'une partie n'utilise la réforme de l'autre pour
+procéder à des corrections de sa procédure qui nécessiteraient en principe qu'elle-même
+se réformât;
+attendu que l'on ne trouve, dans cette jurisprudence pas plus que dans le Code de procédure civile,
+de définition précise de la connexité dans l'allégation,
+que cette notion est cependant généralement comprise comme le "lien étroit"
+existant entre deux causes ou objets (Piccard/Thilo/Steiner, Dictionnaire juridique, Zurich 1939, p.
+94; Raymond Guillien et Jean Vincent, Lexique de termes juridiques, 3e éd., Paris 1974, p. 87; Gérard
+Cornu, Vocabulaire juridique, Paris 1987, p. 184),
+qu'en l'espèce, il faut donc examiner si les allégués de l'écriture complémentaire
+déposée par l'intimé le 9 mai 2018 ont un lien étroit avec les allégations et
+pièces de la requérante dont l'introduction a été autorisée par le jugement
+de réforme du 19 février 2018,
+que l'examen de ce lien devra se faire à la lumière du droit de l'intimé de se déterminer
+sur les moyens nouveaux de la requérante et non à celle de son intérêt réel
+à l'allégation de faits pertinents;
+attendu qu'en l'occurrence
+les
+allégués introduits par le biais de la réforme traitent de la substitution de la requérante
+à [...] dans la procédure du fait du décès de cette dernière, du séquestre
+inscrit sur la part de propriété de l’intimé, et des faux dans les titres retenus
+contre l’intimé dans le cadre de la procédure pénale ouverte à son encontre,
+que la requérante tente de démontrer que le jugement du tribunal de police du 21 septembre
+2011 condamnant notamment l’intimé à lui verser des conclusions civiles à hauteur
+de 211'764 fr. avec intérêt à 5% l’an dès le
+11
+décembre 2000, a été confirmé par les instances ultérieures et est entré
+en force de chose jugée le 16 janvier 2013,
+que la requérante conteste que les allégués introduits par l'intimé dans sa duplique
+complémentaire après réforme du 9 mai 2018 soient connexes à ceux qu’elle a
+introduits dans sa réplique complémentaire après réforme du 19 mars 2018 et en requiert
+le retranchement,
+que ces allégués font état de la découverte en 2012 de dispositions testamentaires
+rédigées en 1991 par [...] en faveur de l’intimé (allégués nos 241 à
+245), du fait que la requérante ne pourrait faire valoir des prétentions que par le biais d’une
+action en réduction contre la renonciation faite par la défunte en faveur de l’intimé
+(allégué no 246), que cette action est désormais prescrite (allégué no 247),
+que la compensation peut être invoquée par l'intimé (allégué no 248), que les
+autorités judiciaires pénales ne se sont pas prononcées sur les effets des dispositions
+testamentaires de 1991 dans le cadre des procédures de révision (allégué no 249),
+que compte tenu de la litispendance, le juge pénal n’était pas habilité à se
+prononcer sur les conclusions civiles de [...] et que cette partie du jugement pénal n'est pas opposable
+à l'intimé (allégués 251 à 254),
+que ce dernier soutient en outre que la procédure applicable ne fixe pas de conditions particulières
+pour l’introduction de faits et d’éléments de preuve nouveaux (allégué
+no 250),
+qu'il entend prouver ces nouveaux allégués notamment par la production de la pièce no
+118, par l’expertise et par l’audition de témoins,
+que, comme relevé ci-dessus, les déterminations de l'intimé à la réforme ne
+doivent pas permettre d'introduire de nouveaux allégués sans rapport de connexité avec
+ceux introduits par le biais de la réforme,
+que la pièce no 118 offerte à titre de preuve déterminante des allégués introduits
+par l’intimé a déjà été produite par ce dernier dans le cadre des différentes
+procédures pénales ouvertes à son encontre,
+qu’il aurait également pu la produire en tous les cas dès 2012 dans le cadre de la procédure
+ouverte devant la Cour civile,
+que les allégués de la réplique complémentaire après réforme relatifs à
+la procédure pénale se contentent de détailler la chronologie de celle-ci en reprenant
+les différents arrêts rendus ensuite des procédures d’appel, de recours et de révision
+ouvertes par l’intimé,
+qu’ils précisent également le contenu du jugement pénal rendu par le tribunal de
+police le 21 septembre 2011 à l’encontre de l’intimé et qui a été confirmé
+par les instances ultérieures,
+qu’ils décortiquent plus particulièrement les trois documents ayant fondé la condamnation
+de l’intimé pour faux dans les titres,
+qu'il n'y a en l'espèce pas à proprement parler de lien étroit entre l’objet des
+allégués introduits par la réforme et le contenu des allégués nos 241 à
+249,
+que l’intimé tend à introduire par ce biais un moyen nouveau, à savoir une prétendue
+créance successorale qui découlerait de dispositions testamentaires rédigées par
+[...] en 1991 afin de pouvoir invoquer la compensation,
+que l'introduction de ces allégués, à ce stade de la procédure, nécessiterait
+une réforme de la part de l'intimé,
+que les allégués nos 250 à 254 ne sont pas des allégations de fait mais de droit,
+que la requête incidente tendant au retranchement des allégués
+nos
+241 à 254 doit donc être admise,
+que les allégués nos 241 à 254 doivent par conséquent être retranchés de
+la procédure et la pièce no 118 produite à leur appui renvoyée à l’intimé,
+qu'il convient dès lors de fixer un nouveau délai à l’intimé pour déposer
+une écriture contenant ses déterminations sur les allégués nos 201 à 240 introduits
+par la requérante, à défaut de toute allégation nouvelle;
+attendu que les frais de la procédure incidente, arrêtés à 900 fr., doivent être
+mis à la charge de la requérante (art. 4 al. 1
+er
+et 170a al. 1 du tarif du 4 décembre 1984 des frais judiciaires en matière civile [aTFJC] ;
+RSV 270.11.5);
+attendu que le jugement incident statue sur les dépens comme en matière de jugement au fond
+(art. 150 al. 2 CPC-VD),
+que les dépens sont alloués à la partie qui a obtenu l'adjudication de ses conclusions
+(art. 92 al. 1 CPC-VD),
+que ceux-ci comprennent principalement les frais de justice mis à la charge de la partie requérante,
+les honoraires et les débours de son avocat (art. 91 litt. a et c CPC-VD),
+que les honoraires d'avocats sont fixés selon le tarif du 17 juin 1986 des honoraires d'avocat dus
+à titre de dépens (aTAv),
+que la requérante, qui obtient gain de cause, a droit à de pleins dépens (art. 92 al.
+1 et 150 al. 2 CPC-VD) qu'il convient d'arrêter à 1'700 fr., soit 900 fr. en remboursement
+de ses frais de justice et 800 fr. à titre de participation aux honoraires et débours de son
+conseil.
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I
+.
+La requête incidente en retranchement déposée le 20 juin 2018 par la requérante A.X.________
+est admise.
+II.
+Les allégués nos 241 à 254 déposés par l'intimé B.X.________ le 9 mai 2018
+sont retranchés de la procédure et la pièce no 118 lui est renvoyée.
+III.
+Un délai au 15 juin 2019 est imparti à l’intimé pour produire une écriture
+nouvelle, remplaçant celle produite le 9 mai 2018, et contenant uniquement ses déterminations
+sur les allégués nos 201 à 240 contenus dans l'écriture déposée le 19 mars
+2018 par la requérante.
+III.
+Les frais de la procédure incidente sont arrêtés à 900 fr. (neuf cents francs) à
+la charge de la requérante.
+IV.
+L'intimé B.X.________ versera à la requérante A.X.________ le montant de 1'700 fr. (mille
+sept cents francs) à titre de dépens de l'incident.
+Le
+juge instructeur :              Le greffier :
+R.
+Oulevey              M. Bron
+Du
+Le jugement motivé qui précède, lu et approuvé à huis clos, prend date de ce
+jour. Il est notifié, par l'envoi de photocopies, aux conseils des parties.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 30 jours dès
+la notification de la présente décision en déposant au greffe du Tribunal cantonal un
+mémoire écrit et motivé. La décision objet du recours doit être jointe.
+Le greffier :
+M. Bron
