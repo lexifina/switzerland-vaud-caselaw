@@ -1,0 +1,273 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 22"
+decided: "2019-05-19"
+published: "2020-05-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7717478"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-012.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-085.md", "switzerland/bund/acts/281.1/art-085a.md", "switzerland/bund/acts/281.1/art-091.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 22
+
+## Regeste
+
+PAIEMENT, CRÉANCIER, CLASSEMENT DE LA PROCÉDURE | 12 LP, 85 LP, 85a LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.05.2020 Plainte / 2020 / 22
+
+PAIEMENT, CRÉANCIER, CLASSEMENT DE LA PROCÉDURE | 12 LP, 85 LP, 85a LP
+
+TRIBUNAL
+CANTONAL
+FA19.055399-200415
+18
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 mai 2019
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+M.
+Hack et Mme Byrde, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+12, 85, 85a LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+P.________
+,
+à Lausanne, contre la décision rendue le 28 février 2020, à la suite de l’audience
+du 6 février 2020, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, dans la cause opposant le recourant à l’
+OFFICE
+DES POURSUITES DU DISTRICT DE LAUSANNE
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 30 mai 2019,
+I.________
+a requis la continuation de la poursuite n° 9’005’569 contre P.________ (ci-après :
+le plaignant).
+En leur qualité de créanciers saisissants, [...] (poursuite n
+o
+9153146), la [...] (poursuites n
+os
+9213134, 9145927 et 9282892) et l’ [...] (poursuite n
+o
+9294102)
+ont également requis la continuation des poursuites à l’encontre du plaignant.
+2.
+a)
+Le 3 juin 2019, l’Office des poursuites
+du district de Lausanne (ci-après : l’Office ou l’Office intimé) a adressé
+au plaignant un avis de saisie dans le cadre de la poursuite n
+o
+9’005’569, l’informant qu’il serait procédé à la saisie le 17
+juin 2019, l’après-midi, dans les locaux de l’Office, pour un montant de 459 fr. 85,
+frais et intérêts compris.
+b)
+Après
+plusieurs convocations,
+le
+plaignant s’est finalement présenté à l’Office le 23 août 2019, où
+il a pu être interrogé sur sa situation personnelle et professionnelle. Il a déclaré
+qu’il était né le 27 septembre 1984 en Sierra Leone, qu’il était au bénéfice
+d’un permis de séjour B en Suisse, qu’il était marié et qu’il vivait
+seul en Suisse, son épouse et ses trois enfants étant domiciliés au Sénégal.
+S’agissant de sa situation professionnelle, il a précisé qu’il était vitrier
+de profession et qu’il travaillait auprès de [...] à Villeneuve jusqu’au 30 août
+2019. Il a expliqué être à la recherche d’un emploi et a certifié n’avoir
+aucun autre revenu, sous quelque forme que ce soit.
+Il a indiqué posséder un véhicule de marque Toyota Auris 1.6 de 2014.
+3.
+Le 27 septembre 2019, l’Office a établi un procès-verbal de saisie, adressé au plaignant
+par pli recommandé du 28 novembre 2019, lequel indiquait qu’une voiture de tourisme de marque
+Toyota Auris 1.6, de couleur grise, VD [...], était saisie.
+Le plaignant s’est présenté de lui-même à l’Office en date du 4 novembre
+2019. A cette occasion, il a déclaré être toujours sans emploi, ne percevoir aucune aide
+sociale et vivre de l’aide financière de ses amis. Il a indiqué vouloir obtenir un permis
+de conduire professionnel afin d’éventuellement travailler pour la société [...].
+La saisie sur le véhicule de marque Toyota Auris 1.6 a été maintenue et un avis à
+l’assureur touchant la saisie des biens assurés a été adressé à [...]
+en ce sens.
+4.
+a)
+Par acte du 10 décembre 2019, reçu
+le 11 décembre 2019 par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, le plaignant a déposé plainte au sens de l’art. 17 LP
+contre le procès-verbal de saisie du 27 septembre 2019. En substance, il a contesté la saisie
+de son véhicule au motif que la réalisation de son projet professionnel consistant à devenir
+chauffeur de taxi indépendant reposait essentiellement sur le fait de posséder un véhicule
+comme outil de travail. Ainsi, son véhicule étant le seul bien qui lui permettrait de subvenir
+à ses propres besoins et à ceux de sa famille, la décision de saisie serait, selon lui,
+disproportionnée au regard de sa situation personnelle et financière.
+Au pied de ses déterminations du 30 janvier 2020, l’Office intimé a conclu au rejet de
+la plainte, tout en relevant qu’elle paraissait recevable.
+A l’appui de sa position, il a, en substance, estimé que l’avis de saisie litigieux
+avait été établi conformément à l’art. 91 LP.
+b)
+A l’audience du 6 février 2020,
+le plaignant a indiqué avoir besoin de sa voiture pour effectuer ses recherches d’emploi et
+se présenter à différents entretiens.
+5.
+Par
+décision, dont les considérants écrits ont été adressés aux parties le
+28 février 2020 et notifiés au plaignant le 3 mars 2020, la Présidente du Tribunal d’arrondissement
+de Lausanne a rejeté la plainte déposée le 10 décembre 2019. Elle a constaté
+que celle-ci était formellement recevable. Sur le fond, elle a retenu que le plaignant ne pouvait
+pas s’opposer à la saisie de son véhicule en invoquant des motifs professionnels ou familiaux,
+puisque le plaignant était sans emploi et que sa famille vivait au Sénégal. Elle a considéré
+que le plaignant ne saurait invoquer la nécessité d’un véhicule pour ses recherches
+d’emploi, car cet argument n’était pas pertinent au regard de la jurisprudence en la
+matière. Par ailleurs, le plaignant n’avait pas rendu vraisemblable qu’il ne pouvait
+pas utiliser les transports publics pour ses recherches d’emploi.
+6.
+Par acte posté le 12 mars 2020, reçu par le Tribunal d’arrondissement de Lausanne le
+lendemain et réacheminé à la cour de céans, le plaignant a conclu que « la
+poursuite [était] définitivement arrêtée, la procédure étant devenue sans
+objet ».
+Il a allégué qu’à la date de la décision entreprise, le 28 février 2020,
+il avait payé la totalité de la dette envers la créancière I.________ et a produit
+deux courriels qu’il avait échangés avec cette dernière société, d’où
+il ressort notamment ce qui suit :
+-
+le 16 janvier 2020, Y.________ a fait savoir à A.________ que le plaignant devait encore payer 154
+fr. et qu’il n’était dès lors pas possible « d’annuler les frais
+de poursuite » nonobstant l’erreur de renseignement au sujet de la suspension du
+contrat d’assurance, erreur qui aurait été commise par l’assurance elle-même
+;
+-
+le 11 mars 2020, A.________ a informé le plaignant que tous les arriérés de primes avaient
+été payés, que les divers frais de relance et de poursuite avaient été annulés
+et que tout était en ordre jusqu’au 30 septembre 2020.
+Par déterminations du 14 avril 2020, l’Office des poursuites a conclu au rejet du recours,
+expliquant que le plaignant avait payé un montant de 440 fr. 40 le 16 juillet 2019 directement auprès
+de la créancière précitée, qu’il restait un solde ouvert et que tous les autres
+créanciers saisissants avaient requis la vente du véhicule en cause.
+Le 15 avril 2020, le recourant a spontanément
+répliqué.
+En droit :
+I.
+Déposé en temps utile, dans les dix jours suivant la notification de la décision attaquée
+(art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1] et
+28 al. 1 LVLP [loi vaudoise d’application de la LP ; BLV 280.05]), et suffisamment motivé
+(TF 5A_118/2018 du 7 février 2018 consid. 4.1), le recours est recevable formellement.
+Les pièces produites à l’appui du recours sont recevables, à supposer qu’elles
+soient nouvelles (art. 28 al. 4 LVLP).
+II.
+a)
+Le recourant soutient que la poursuite en cause n’aurait plus d’objet, dès lors qu’il
+aurait payé la totalité de la créance déduite en poursuite.
+b) aa)
+L'art.
+22 al. 1 LP prévoit la nullité des mesures contraires à des dispositions édictées
+dans l'intérêt public ou dans l'intérêt d'un nombre indéterminé de personnes
+qui ne sont pas parties à la procédure. Il enjoint aux autorités de surveillance de constater
+cette nullité indépendamment de toute plainte, c'est-à-dire en tout temps, même en
+dehors du délai de plainte (TF 5A_529/2019 du 6 septembre 2019 consid. 4.1.1 ; ATF 128 III 104).
+Les dispositions dont la violation est susceptible de fonder un cas de nullité sont essentiellement
+les règles impératives du droit des poursuites que doivent respecter les organes d'exécution
+forcée (ATF 128 I 206 consid. 5.2.5).
+bb)
+Le paiement complet, et sans réserve, en mains de l'office pour le compte du créancier éteint
+la dette en poursuite et fait tomber la poursuite, au cas où les frais sont également réglés
+(TF 5A_837/2018 du 17 mai 2019 consid. 3.3). Non seulement le paiement du montant de la créance
+à l'office vaut ainsi réalisation, mais encore il éteint la dette en vertu de l'art. 12
+LP, sans qu'il y ait lieu de se préoccuper de savoir si et quand l'argent est transmis au créancier
+(ATF 116 III 56 consid. 2b p. 58 et les références; Emmel, in Staehelin/Bauer/Staehelin [éd.],
+Kommentar zum Bundesgesetz über Schuldbetreibung und Konkurs I, 2
+ème
+éd., n. 14 ad art. 12 LP).
+Dans un arrêt du 24 juin 2011 (CPF 24 juin 2011/18 consid. II/a), la cour de céans s’est
+prononcé sur la plainte d’un plaignant qui invoquait l’art. 12 LP, tout en déclarant
+avoir payé la somme en poursuite directement au créancier. La Cour a considéré que
+ce n’est que si le versement était fait en mains de l’office qu’il appartient
+aux autorités de surveillance d’en connaître. Dans les autres cas, le débiteur poursuivi
+qui entend faire constater l’extinction de la dette et en déduire l’annulation de la
+poursuite doit saisir le juge d’une action en annulation de l’art. 85 LP ou de l’art.
+85a LP. Elle a dès lors conclu que le refus de l'office d’admettre que les prétendus
+paiements avaient éteint la créance en poursuite ne pouvait pas être contesté par
+la voie de la plainte de l'art. 17
+LP, car cette voie n’était pas ouverte.
+La doctrine va dans le même sens (Emmel, op. cit., n. 22 ad art. 12 LP ; Dallèves,
+in Dallèves/Foëx/Jeandin [éd.], Commentaire romand, Poursuite et faillite, n. 4 ad art.
+12 LP ; Schmidt, Commentaire romand, n. 4 in fine ad art. 85a LP ; Gilliéron, Commentaire de
+la loi fédérale sur la poursuite pour dettes et la faillite, n. 31 ad art. 12 LP ;
+Weingart, in Kostkiewicz/Vock [éd.], Kommentar SchKG, nn. 17 ad art. 12 LP, qui signale une pratique
+divergente à Berne, n. 18 ad art. 12 LP).
+c)
+En l’espèce, il est établi que le plaignant n’a jamais payé en mains de l’office
+des poursuites. Il se prévaut, en deuxième instance seulement, d’un paiement en mains
+de la créancière saisissante.
+Dans ces circonstances, l’extinction de créance éventuelle ne peut pas être examinée
+par une autorité de surveillance. Le plaignant n’a jamais invoqué le paiement devant
+le premier juge, lequel n’avait de toute manière pas à en tenir compte, conformément
+à l’arrêt de la cour de céans précité. Il devait à cet égard
+s’adresser au juge de l’exécution forcée des art. 85 et 85a LP. Ainsi, en tant
+qu’il se prévaut de l’extinction de la dette, à la suite du paiement fait en mains
+du créancier, la voie de la plainte n’était pas ouverte. Ce grief ne peut pas non plus
+être examiné par la cour de céans, en sa qualité d’autorité supérieure
+de surveillance. Au demeurant, sa plainte n’avait pas pour objet l’extinction de la dette,
+mais la saisissabilité de son véhicule. Sur ce point, le recourant ne discute aucun point du
+raisonnement du premier juge.
+Le recours s’avère dès lors irrecevable.
+Supposé recevable, le recours serait de toute manière manifestement infondé. En effet,
+à la date du procès-verbal de saisie, le 27 septembre 2019, le plaignant n’avait pas
+encore payé la totalité de la dette, frais de poursuite compris, ce qui ressort aussi bien
+des déterminations de l’Office que du courriel du 16 janvier 2020 produit par le recourant.
+Ainsi, même si les paiements dont il se prévaut en deuxième instance avaient été
+faits en mains de l’Office des poursuites, on n’aurait pas considéré que la poursuite
+avait perdu son objet.
+III.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+-
+P.________
+-
+M. le Préposé de l’Office des
+poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière:
