@@ -1,0 +1,145 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___17"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 17"
+decided: "2019-05-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7190224"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-168.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 17
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OUVERTURE DE LA FAILLITE, OBSERVATION DU DÉLAI, FICTION DE LA NOTIFICATION | 174 al. 1 LP, 138 al. 3 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.05.2019 Faillite / 2019 / 17
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, OUVERTURE DE LA FAILLITE, OBSERVATION DU DÉLAI, FICTION DE LA NOTIFICATION | 174 al. 1 LP, 138 al. 3 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF18.054689-190709
+126
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 mai 2019
+__________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 LP et 138 al. 3 let. a CPC
+Vu le jugement rendu à la suite de l’audience du 1
+er
+février 2019 par la Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+statuant par défaut des parties régulièrement convoquées, prononçant la faillite
+de
+H.________
+,
+à [...], le 1
+er
+février 2019 à 10 heures trente, à la réquisition d’
+O.________SA
+,
+à [...], ordonnant la liquidation sommaire de cette faillite et mettant les frais, par 200 fr.,
+à la charge de la faillie,
+vu le recours déposé le 25 mars 2019 contre ce jugement par H.________ - accompagné d’une
+requête de restitution de délai qui a été rejetée par la présidente du
+tribunal le 8 mai 2019 -,
+vu la transmission du dossier à la cour de céans, autorité de recours, le 8 mai 2019 ;
+attendu qu'en vertu de l'art. 174 al. 1 LP (loi fédérale sur la poursuite pour dettes et la
+faillite ; RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet
+d'un recours au sens du CPC (Code de procédure civile ; RS 272),
+que, sauf disposition contraire de la LP, les règles du CPC s'appliquent à la computation et
+à l'observation des délais (art. 31 LP),
+que les délais déclenchés par la communication d'un événement – telle
+que la notification d'une décision – courent dès le lendemain de celle-ci (art. 142 al.
+1 CPC),
+que, selon l'art. 138 al. 3 let. a CPC, une décision est réputée notifiée, en cas
+d'envoi recommandé, lorsque celui-ci n'a pas été retiré à l'expiration d'un
+délai de sept jours à compter de l'échec de la remise, si le destinataire devait s'attendre
+à recevoir la notification,
+qu’en matière de faillite, le rapport procédural qui impose aux parties de se comporter
+conformément aux règles de la bonne foi, soit, notamment, de se préoccuper de ce que les
+actes judiciaires concernant la procédure puissent leur être notifiés, ne prend naissance
+qu'à partir de la réquisition de faillite et de l’avis aux parties de l’audience
+de faillite avant la tenue de celle-ci (art. 168 LP) (TF 5A_466/2012 consid. 4.1.1 et 4.1.2 ; ATF
+138 III 225 consid. 3.2),
+qu'en l'espèce, H.________ a été dûment convoquée à l’audience de
+faillite du 1
+er
+février 2019 et devait par conséquent s'attendre à recevoir une décision du juge
+de la faillite dans les jours suivants et prendre toutes dispositions nécessaires pour sauvegarder
+son droit de recours,
+que le jugement du 1
+er
+février 2019 a été envoyé pour notification aux parties le même jour,
+que, selon le suivi des envois postaux figurant au dossier, l'avis de retrait du pli destiné à
+H.________ a été distribué à la destinataire le 4 février 2019, l'échéance
+du délai de garde étant le 11 février 2019, le pli n’a pas été retiré
+dans ce délai et il a été renvoyé au tribunal d’arrondissement le 12 février
+2019, avec la mention « non réclamé »,
+que la fiction de la notification à l'échéance du délai de sept jours de l'art. 138
+al. 3 let. a CPC s'applique, le jugement de faillite étant réputé avoir été
+notifié le 11 février 2019,
+que le délai de recours contre ce jugement arrivait donc à échéance le 21 février
+2019,
+que le recours déposé le 25 mars 2019 est en conséquence tardif et doit être déclaré
+irrecevable pour ce motif ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme H.________,
+‑
+O.________SA,
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Jura-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
