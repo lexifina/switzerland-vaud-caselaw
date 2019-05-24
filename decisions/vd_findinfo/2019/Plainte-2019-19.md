@@ -1,0 +1,333 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 19"
+decided: "2019-05-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7201276"
+cites_law: ["switzerland/bund/acts/101/art-112.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.35/art-062.md", "switzerland/bund/acts/831.10/art-020.md", "switzerland/bund/acts/831.20/art-050.md", "switzerland/bund/acts/831.30/art-020.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 19
+
+## Regeste
+
+SAISIE DE SALAIRE, CALCUL, PLAINTE{LP} | 17 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 24.05.2019 Plainte / 2019 / 19
+
+SAISIE DE SALAIRE, CALCUL, PLAINTE{LP} | 17 LP
+
+TRIBUNAL
+CANTONAL
+FA18.047405-190251
+13
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 mai 2019
+__________________
+Composition
+:               M.
+Maillard
+,
+vice-président
+MM.
+Colombini et Hack, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+P.________
+,
+à Chardonne, contre la décision rendue le 25 janvier 2019, à la suite de l’audience
+du 4 décembre 2018, par le Président du Tribunal d’arrondissement de l'Est vaudois, autorité
+inférieure de surveillance, dans la cause opposant le recourant à l'
+OFFICE
+DES POURSUITES DU DISTRICT DE LA RIVIERA – PAYS-D'ENHAUT
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+P.________ est marié et père de deux filles, [...] et [...], nées respectivement en 2003
+et 2007. Il exerce une activité de technicien de maintenance à plein temps auprès de [...],
+pour un salaire mensuel net de 5'230 fr. 45. Son employeur met à sa disposition un véhicule
+pour ses déplacements professionnels et il bénéficie d'une réduction de 20 % sur
+les repas pris au restaurant [...]. Son épouse est artiste-peintre indépendante. Le loyer du
+local qu'elle occupe pour son activité est de 260 fr. par mois.
+b)
+Suite à des réquisitions de continuer la poursuite déposées par [...], [...], [...]
+et [...], l'Office des poursuites du district de La Riviera – Pays-d'Enhaut a établi, le 16
+octobre 2018, un procès-verbal de saisie et a calculé le minimum d'existence du débiteur
+P.________ comme suit :
+-------------------------------------------------------------------------------------------------------------------------
+Débiteur
+Conjoint
+Total
+Revenu mensuel
+net
+5'230 fr. 45
+267 fr. 00
+% des revenus
+95.14%
+4.86%
+-------------------------------------------------------------------------------------------------------------------------
+Base mensuelle
+1'617 fr. 43
+82 fr. 57
+1'700 fr. 00
+Supplément
+enfants
+666 fr. 00
+34 fr. 00
+700 fr. 00
+Charges communes
+2'056 fr. 04
+104 fr. 96
+2'161 fr. 00
+Charges propres
+payées
+399 fr. 60
+20 fr. 40
+420 fr. 00
+Charges enfant
+284 fr. 47
+14 fr. 53
+299 fr. 00
+Minimum
+d'existence
+5'023 fr. 56
+256 fr. 44
+------------------------------------------------------------------------------------------------------------------------
+En détail,
+les charges mensuelles retenues par l'office ont été les suivantes :
+Base mensuelle
+du couple
+1'700 fr. 00
+Supplément
+enfant
+350 fr. 00
+(base de 600 fr. ./. 250 fr. d'allocations familiales)
+Supplément
+enfant
+350 fr. 00
+(base de 600 fr. ./. 250 fr. d'allocations familiales)
+Loyer
+2'161 fr. 00
+Repas débiteur
+pris hors domicile
+160 fr. 00
+Loyer atelier
+peinture épouse
+260 fr. 00
+Repas [...]
+pris hors domicile
+200 fr. 00
+Frais déplacement
+[...]
+52 fr. 00
+Frais déplacement
+[...]
+47
+fr. 00
+L'office
+n'a pas pris en compte les primes d'assurance-maladie de la famille, pour le motif que celles-ci n'étaient
+pas payées.
+L'avis de saisie adressé à l'employeur du débiteur le 16 octobre 2018 précisait que
+la retenue de salaire de l'intéressé portait "sur tout ce qui dépasse son minimum
+d'existence de Fr. 5'050.00 par mois dès le 01.10.2018" et que la saisie s'étendait également
+"à l'entier du 13
+ème
+salaire, aux gratifications, etc. (…)". L'avis mentionnait en outre que "les indemnités
+de vacances, les jours fériés, allocations familiales et frais de déplacements sont à
+verser au débiteur".
+2.
+Le 2 novembre 2018, P.________ a déposé plainte contre l'avis de saisie du 16 octobre 2018,
+concluant en substance à son annulation.
+L'office s'est déterminé sur la plainte par écriture du 26 novembre 2018, concluant à
+son rejet et à ce que la saisie sur le salaire du plaignant soit modifiée en ce sens qu'elle
+soit exécutée à hauteur de tout ce qui dépasse le minimum vital de P.________, arrêté
+à 5'020 fr. par mois, en sus de l'entier du 13
+ème
+salaire.
+3.
+Par prononcé dont les considérants écrits ont été adressés aux parties
+le 25 janvier 2019, le Président du Tribunal d'arrondissement de l'Est vaudois, statuant en qualité
+d'autorité inférieure de surveillance en matière de poursuite pour dettes et faillite,
+a rejeté la plainte déposée le 2 novembre 2018 par P.________ (I), a dit que la saisie
+effectuée sur le salaire de P.________ était modifiée en ce sens qu'elle serait désormais
+exécutée à hauteur de tout ce qui dépasse le minimum vital de P.________, arrêté
+à 5'020 fr. par mois, 13
+ème
+salaire en sus (II) et a rendu la décision sans frais, ni dépens (III).
+Par acte du 14 février 2019, accompagné d'un bordereau de pièces, P.________ a recouru
+contre cette décision, concluant avec suite de frais et dépens principalement à ce que
+le prononcé rendu le 25 janvier 2019 et la saisie sur salaire ordonnée le 16 octobre 2018 sont
+annulés, la cause étant renvoyée à l'office pour nouvelle décision dans le sens
+des considérants, et subsidiairement à ce que le prononcé et la saisie sont "redressés"
+en ce sens que la saisie s'effectue sur tout montant supérieur à 5'020 fr., hors allocations
+familiales, lesquelles doivent être versées au recourant.
+Par décision rendue le 19 février 2019, le vice-président de la cour de céans a rejeté
+la requête d'effet suspensif contenue dans le recours.
+Par écriture du 26 février 2019, l'office a conclu au rejet du recours.
+Par courrier du 4 mars 2019, [...], créancier, s'en est remis à justice. Les autres créanciers
+ne se sont pas déterminés.
+Par courrier du 26 mars 2019, l'office a informé la cour de céans que la retenue de salaire
+était annulée dès le 28 février 2019, selon avis du 12 mars 2019.
+En droit :
+I.
+a)
+Le recours, suffisamment motivé (TF 5A_118/2018 du 7 février 2018 consid. 4.1), a été
+déposé en temps utile, dans les dix jours suivant la notification du prononcé attaqué
+(art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1] ;
+28 al. 1 LVLP [loi vaudoise d’application de la LP ; BLV 280.05]). Il est ainsi recevable.
+Les pièces nouvelles produites à son appui le sont également (art. 28 al. 4 LVLP).
+Il en va de même
+des déterminations de l’office (art. 31 al. 1 LVLP).
+b)
+Par ailleurs, nonobstant la décision subséquente du 12 mars 2019 annulant la retenue de salaire
+dès le 28 février 2019, le recours conserve son objet pour la période du 1
+er
+octobre 2018 au 27 février 2019. Il y a dès lors lieu d'entrer en matière sur le recours.
+II.
+a)
+Le recourant soutient tout d'abord que, dans la mesure où l'employeur a reçu l'ordre de prélever
+sur son salaire tout montant supérieur à 5'020 francs, les allocations familiales – lesquelles
+ont été portées en déduction du montant de base des enfants dans le calcul de son
+minimum d'existence – feraient partie de la saisie.
+b)
+Selon l'art. 92 al. 1 ch. 9a LP, sont insaisissables les rentes au sens de l’art. 20 LAVS (loi
+fédérale sur l’assurance-vieillesse et survivants ; RS 831.10) ou de l’art. 50
+LAI (loi fédérale sur l’assurance-invalidité ; RS 831.20), les prestations au sens
+de l'art. 20 LPC (loi fédérale sur les prestations complémentaires à l'assurance-vieillesse,
+survivants et invalidité ; RS 831.30) et les prestations des caisses de compensation pour allocations
+familiales. L’insaisissabilité de ces prestations provient de ce que l’art. 112 al.
+2 let. b Cst. (Constitution fédérale ; RS 101) dispose qu’elles doivent couvrir les besoins
+vitaux de manière appropriée. Ainsi, les rentes servies sur la base de la LAVS, de la LAI et
+de la LPC, de même que les allocations familiales, constituent des exceptions au principe selon
+lequel des prestations destinées à remplacer un revenu sont relativement saisissables en application
+de l'art. 93 LP. Le législateur a considéré, suivant en cela le Conseil fédéral,
+qu'aussi longtemps que les prestations du premier pilier n'atteindraient pas leur but, c'est-à-dire
+couvrir les besoins vitaux dans une mesure appropriée, elles devaient être déclarées
+absolument insaisissables (ATF 135 III 20 consid. 4.1 et les réf. cit. ; cf. ATF 144 III 407 consid.
+4.2.1).
+Lorsque le débiteur dispose de rentes insaisissables selon l’art. 92 LP et de rentes relativement
+saisissables selon l’art. 93 LP, les prestations absolument insaisissables s’ajoutent au
+revenu relativement saisissable. Il faut en effet tenir compte de ce que le débiteur peut subvenir
+à une partie de son entretien au moyen de la rente insaisissable, si bien que pour couvrir la part
+restante de son minimum vital, il n’a le cas échéant plus besoin de tout son revenu relativement
+saisissable (ATF 135 III 20 consid. 5.1 ; ATF 134 III 182 consid. 5 ; ATF 104 III 38 consid. 1). Quant
+aux allocations familiales, elles ne doivent pas être ajoutées aux revenus du débiteur,
+mais être portées en déduction de l'entretien des enfants en faveur desquels elles sont
+versées (Ochsner, Commentaire romand, n. 68 ad art. 93 LP). La protection légale de l’insaisissabilité
+des rentes et allocations de l’art. 92 LP s’épuise donc dans le fait que ces rentes
+elles-mêmes ne peuvent être saisies (TF 5A_605/2016 du 14 septembre 2016 consid. 2).
+c)
+En l'espèce, l'office a respecté ces règles. S'il a déduit les allocations familiales
+des besoins des enfants, il a expressément prescrit, dans son avis de saisie du 16 octobre 2018,
+que les allocations familiales devaient être versées au débiteur. En d'autres termes,
+le salaire net  sur la base duquel se calcule la saisie ne comprend pas les allocations familiales
+qui sont bien versées au débiteur. On précisera, à l'attention de l'employeur que,
+concrètement, la saisie sur salaire s'effectuera sur tout montant supérieur à 5'020 fr.,
+hors allocations familiales, lesquelles doivent être versées au recourant.
+III.
+a)
+Le recourant conteste également qu'un revenu soit retenu à l'égard de son épouse.
+b)
+Lorsque le débiteur saisi est un indépendant, l’office doit se renseigner sur le type
+et l’étendue de l’activité. Il procède aux investigations nécessaires
+et peut en particulier demander la comptabilité et d’autres pièces justificatives au
+débiteur. Lorsqu’un calcul fiable du revenu saisissable n’est pas possible, l’office
+doit procéder à une évaluation, pour laquelle la prise en compte des revenus d’une
+activité comparable peut être utile (ATF 126 III 89 consid. 3a ; TF 5A_16/2011 du 2 mai 2011
+consid. 2, SJ 2011 I 335 ; TF 5A_1/2017 du 7 juillet 2017 consid. 2.1).
+c)
+En l'espèce, l'épouse du recourant n'a fourni à l'office aucun élément permettant
+d'apprécier sa situation financière. Cela étant, l'office a retenu un revenu correspondant
+au montant du loyer de l'atelier de peinture qu'elle occupe, qui s'élève à 260 fr. par
+mois. Ce faisant, l'office n'a pas tenu compte d'un revenu hypothétique, mais a apprécié,
+conformément au pouvoir d'appréciation qui lui est conféré, le revenu effectif de
+l'épouse du recourant. Il ne prête pas le flanc à la critique de retenir que les revenus
+de l'intéressée correspondent à tout le moins au loyer de l'atelier qu'elle occupe, car
+il n'est guère concevable que l'activité lucrative exercée n'engendre pas même un
+revenu permettant de couvrir les  charges de loyer, sauf à prétendre qu'il appartiendrait
+aux créanciers du recourant de supporter les frais d'une activité indépendante qui ne
+rapporterait rien.
+Il importe peu que, dans une précédente saisie, un tel revenu n'ait pas été retenu,
+l'office étant en droit, dans le cadre d'une nouvelle saisie, de prendre en compte les éléments
+pertinents de manière plus conforme à la loi. Il est admis que, dans le cadre d'une saisie
+en cours, l'office puisse corriger dans le cadre d'une révision selon l'art. 93 al. 3 LP  une
+erreur dans le calcul du minimum vital (Von der Mühll, Basler Kommentar, 2e éd., n. 54 ad art.
+93 LP). Cela vaut a fortiori dans le cadre d'une saisie subséquente. Le débiteur ne peut prétendre
+être mis sans limite de temps au bénéfice d'une situation plus favorable que celle justifiée.
+IV.
+a)
+Le recourant se plaint enfin que l'office n'ait pas imparti de délai pour la production d'une attestation
+de l'établissement scolaire et des justificatifs de paiement des abonnements de parcours concernant
+les frais de déplacement des enfants.
+b)
+Pour être retenues, les charges composant le minimum vital doivent être effectivement payées.
+A cet égard, l'office ne doit pas se contenter des déclarations du poursuivi, mais, dans le
+cadre du comportement actif qu'il doit adopter pour l'exécution de la saisie des revenus, il doit
+exiger du débiteur la production des justificatifs des paiements (Ochsner, op. cit., n. 82 ad art.
+93 LP).
+c)
+En l'espèce, l'office a précisé dans ses déterminations du
+27
+novembre 2018 qu'il adapterait le montant de la saisie dès qu'il serait en possession des justificatifs.
+Il n'avait pas à suspendre la saisie jusqu'à l'obtention de ces justificatifs, ce qui permettrait
+au débiteur d'échapper entretemps à une saisie et donnerait lieu à des procédés
+dilatoires. On relèvera par ailleurs que le recourant n'a jusqu'ici déposé aucune pièce
+à ce sujet, pas même avec son recours, alors même que des pièces nouvelles auraient
+été recevables.
+V.
+En conclusion, le recours
+doit être rejeté.
+L'arrêt sera rendu sans frais (art. 20a ch. 5 LP), ni dépens (art. 62 al. 2 OELP [ordonnance
+sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+vice-président :              La
+greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Benjamin Schwab, avocat (pour P.________),
+-
+M. le Préposé à l’Office des poursuites du district de La Riviera – Pays-d'Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur
+le Tribunal fédéral – RS 173.110). Ce recours doit être déposé devant
+le Tribunal fédéral dans les dix jours – cinq jours dans la poursuite pour effets de
+change – qui suivent la présente notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d’arrondissement de l'Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
