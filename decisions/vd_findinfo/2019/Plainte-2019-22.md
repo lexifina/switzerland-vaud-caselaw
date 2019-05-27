@@ -1,0 +1,488 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___22"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 22"
+decided: "2019-05-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7200698"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-152.md", "switzerland/bund/acts/272/art-181.md", "switzerland/bund/acts/281.1/art-004.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-091.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.1/art-163.md", "switzerland/bund/acts/311.0/art-323.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 22
+
+## Regeste
+
+PLAINTE{LP}, MAXIME INQUISITOIRE, CONDUITE DU PROCÈS, REVENU D'UNE ACTIVITÉ LUCRATIVE INDÉPENDANTE, MINIMUM VITAL, EXÉCUTION DE LA SAISIE | 17 LP, 20a al. 2 ch. 2 LP, 4 LP, 91 al. 1 ch. 2 LP, 91 al. 1 LP, 91 LP, 33 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.05.2019 Plainte / 2019 / 22
+
+PLAINTE{LP}, MAXIME INQUISITOIRE, CONDUITE DU PROCÈS, REVENU D'UNE ACTIVITÉ LUCRATIVE INDÉPENDANTE, MINIMUM VITAL, EXÉCUTION DE LA SAISIE | 17 LP, 20a al. 2 ch. 2 LP, 4 LP, 91 al. 1 ch. 2 LP, 91 al. 1 LP, 91 LP, 33 LVLP
+
+TRIBUNAL
+CANTONAL
+FA19.000187-190464
+20
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 mai 2019
+_________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+4, 17, 20a al. 2 ch. 2, 91 al. 1 ch. 2 LP ; 33 LVLP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+C.________
+,
+à [...], contre la décision rendue le 12 mars 2019, à la suite de l’audience du
+12 février 2019, par le Président du Tribunal d’arrondissement de le Broye et du Nord
+vaudois, autorité inférieure de surveillance, rejetant sa plainte contre la décision de
+révision de saisie de salaire de l’
+Office
+des poursuites du district de la Broye-Vully
+,
+à Payerne, dans la cause opposant la recourante à
+H.________
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 9 mars 2018, C.________ a requis de l’Office des poursuites du district de la Broye-Vully (ci-après :
+l’Office) la continuation de la poursuite n° 8'498'129 dirigée contre H.________
+et portant sur des créances de 8'146 francs 75 et de 91'035 fr. 70.
+Le 12 mars 2018 l’Office a exécuté la saisie requise. Selon procès-verbal de saisie
+du 20 avril 2018, les revenus de H.________ étaient uniquement constitués de son salaire mensuel
+d’aide-soignant de 3'872 fr. 80 auprès de la Fondation X.________. L’Office a constaté
+que le montant saisissable était de 422 fr. 80 (3'872 fr. 80 – 1'200 fr. de montant de base
+– 1'020 fr. de loyer – 50 fr. de frais de repas pris hors du domicile – 242 fr. 50
+de frais de déplacement jusqu’au lieu de travail en transport privé – 650 fr. de
+contribution d’entretien – 250 fr. de frais de visite de son enfant – 37 fr. 50 d’arrondi).
+La prime d’assurance-maladie n’a pas été prise en compte, car impayée.
+2.
+a)
+Par
+avis du 11 décembre 2018, l’Office a modifié la retenue effectuée sur le salaire
+de H.________ en ce sens qu’ordre a été donné à l’employeur de celui-ci
+de retenir chaque mois sur le salaire de celui-là tout montant dépassant 3'650 francs dès
+le 1
+er
+décembre 2018. Cette décision prend comme base un revenu mensuel de 3'335 fr. 60, ainsi que
+d’un minimum vital de 3'650 fr. calculé comme il suit : 1'200 fr. de montant de base,
+1’020 fr. de loyer, 220 fr. de repas pris hors du domicile (en raison du travail de nuit de l’intéressé),
+219 fr. 60 de frais de déplacement jusqu’à son lieu de travail en transport privé,
+650 fr. de contribution d’entretien, 50 fr. de frais médicaux et dentaires, 250 fr. de frais
+de visite de son enfant et 40 fr. 40 d’arrondi. La prime d’assurance-maladie n’a pas
+été prise en compte, car impayée.
+b)
+Par
+acte du 21 décembre 2018, C.________ a déposé auprès du Président du Tribunal
+d’arrondissement de la Broye et du Nord vaudois, une plainte au sens de l’art. 17 LP (loi
+fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1) contre
+l’avis du 11 décembre 2018, concluant, avec suite de frais et dépens, à son annulation
+et au renvoi de la cause à l’Office pour nouvelle détermination des revenus et du minimum
+vital de H.________. Elle a fait grief à l’Office de n’avoir pas tenu compte d’une
+moyenne des salaires perçus par H.________ sur la période d’exécution de la saisie
+et d’avoir retenu un montant de frais de repas de 220 fr. au lieu de 50 fr., ainsi que des frais
+médicaux et dentaires non établis, par 50 francs. Elle a soutenu que H.________ exerçait
+une activité accessoire non déclarée de massages à domicile et qu’il convenait
+de prendre ces revenus en compte. Elle a notamment requis qu’ordre soit donné à l’Office
+de prendre toutes les mesures d’instruction nécessaires pour déterminer le revenu, y
+compris le revenu accessoire, de H.________, notamment par visite domiciliaire, ainsi que la production
+par l’administration fiscale des déclarations d’impôt et taxations relatives aux
+années 2015-2018 de H.________. Elle a notamment produit les pièces suivantes :
+-
+une copie d’un rapport d’enquête privée établi le 5 novembre 2016 à la
+requête de la plaignante, par l’entreprise G.________ et dont la teneur est la suivante :
+«
+AVANT-PROPOS
+:
+1.              Nous avons constaté
+que Monsieur H.________ possédait une inscription dans l'annuaire téléphonique sous le
+nom: « [...],H.________ » cette inscription indique comme service « Massage [...] - Reconnection
+» (Pièce 1).
+2.              Nous avons pris rendez-vous
+avec Monsieur H.________ pour un massage le 5 novembre 2016.
+3.              En date du 5 novembre
+2016, nous nous sommes rendus au domicile de Monsieur H.________ sis [...] à [...]. Monsieur H.________
+nous a fourni un service de massage et nous a remis une carte de visite (Pièce 2).
+DÉTAILS
+DU RENDEZ-VOUS DU 5 NOVEMBRE 2016 :
+OBSERVATIONS
+DE L'ENQUÊTRICE
+Nous arrivons sur le lieu de notre rendez-vous sis [...] à [...]. Nous constatons qu'il s'agit d'une
+grande maison. Il y a plusieurs boites-aux-lettres dont une sur laquelle figure le nom de Monsieur H.________.
+Il semblerait que plusieurs personnes vivent dans cette maison. Il y a un grand escalier situé sur
+le côté de la maison qui donne accès au cabinet de Monsieur H.________. Lorsque nous entrons
+dans le cabinet nous remarquons que la table de massage est prête, il y a plusieurs serviettes posées
+dessus. Nous remarquons qu'il y a un meuble où sont disposés plusieurs flacons d'huiles essentielles
+ainsi qu'une bougie. Il semblerait que Monsieur H.________ vive également dans ce haut de villa,
+puisqu'il y a un lit qui semble avoir été déplacé et remplacé par la table de
+massage. Monsieur H.________ m'accueille et me demande de me dévêtir en gardant les sous-vêtements.
+Afin d'écourter le massage, je prétexte avoir un rendez-vous client et que j'ai uniquement
+45 minutes de disponibilité. Monsieur H.________ atteste et me dit préférer travailler
+son massage sur 1h30 pour en avoir les bénéfices. Il me dit également que lorsqu'il travaillait
+en tant qu'assureur il allait faire 1 heure de massage ayurvédique et ensuite il prenait 1 heure
+sans rien faire pour laisser l'effet du massage se mettre en place. Il me conseille donc de faire la
+même chose. Je m'installe sur la table de massage, Monsieur H.________ me recouvre de serviettes,
+met la musique et commence son massage corporel. Il commence par le dos, les jambes arrière, le
+ventre, les jambes avant et il finit par la nuque. Tout au long du massage, Monsieur H.________ avait
+les mains froides, il ne massait jamais de la même façon d'un côté à l'autre.
+J'avais l'impression qu'il passait l'huile plus qu'il ne massait. Après 45 minutes, Monsieur H.________
+se retire dans une autre pièce, qui semble être une salle de bain, pour me laisser me rhabiller.
+Je remarque qu'aucun diplôme de masseur ou autre n'est accroché et visible dans la pièce.
+Monsieur H.________ sort de sa pièce c'est alors que je lui demande un verre d'eau. Nous nous asseyons
+quelques minutes autour de la table et je lui demande : « vous avez été assureur ? »
+Monsieur H.________ me répond : « oui pendant 7 ans ». Ensuite Monsieur H.________ me
+dit « qu'il masse de temps en temps et qu'il travaille dans un EMS ». Je lui demande s’il
+a une clientèle. « Il me fait comprendre que non car il a déménagé 3 fois mais
+que lorsqu'il aura plus de clientèle, il aimerait par la suite avoir une salle commune ». Je
+décide de régler la prestation CHF 90.- comme il me l'avait dit par téléphone. Comme
+il ne m'a massé que 45 minutes Monsieur H.________ décide de me faire payer CHF 70.-. Je le
+remercie et avant de partir Monsieur H.________ me donne sa carte de visite, et je quitte les lieux. » ;
+-
+une copie d’un compte-rendu d’audition adressé le 16 décembre 2016 par l’Office
+au conseil de la plaignante, dont il ressort que H.________ a indiqué avoir suivi des cours pour
+prodiguer des massages il y a plusieurs années, que les inscriptions dans les annuaires en ligne
+datent également de plusieurs années, que cette activité n’est pas régulière
+ni rentable, qu’il ne cherche pas à la développer, principalement par manque de temps,
+qu’il n’a eu en 2016 que deux clients, dont l’enquêtrice, et qu’il travaille
+à 90 % par choix, notamment pour s’occuper de son fils. Au vu de ces déclarations, l’Office
+a considéré que faute de preuve que celles-ci étaient inexactes, il ne pouvait admettre
+que l’activité litigieuse procurait à H.________ un revenu accessoire régulier et
+a maintenu la saisie de salaire en l’état ;
+-
+une copie d’une plainte pénale adressée le 5 novembre 2018 auprès du Ministère
+public du Nord vaudois par C.________ contre H.________ pour fraude dans la saisie, inobservation des
+règles de la procédure de poursuite pour dettes ou de faillite ainsi que pour toute autre infraction
+qui pourra être retenue suite à l’enquête qui sera menée. Elle invoquait le
+fait que H.________ avait caché à l’Office les revenus tirés de son activité
+accessoire de masseur et se fondait sur le rapport d’enquête privée du 5 novembre 2016
+susmentionné.
+3.
+Par avis du 20 décembre 2018, l’Office
+a à nouveau modifié la retenue de salaire en cause en ce sens qu’il a ordonné l’employeur
+de celui-ci de retenir chaque mois sur ledit salaire tout montant dépassant 3'520 fr. dès les
+1
+er
+janvier 2019. Cette décision prend comme base un revenu mensuel de 3'335 fr. 60 et un minimum vital
+de 3'520 fr. calculé comme il suit : 1'200 fr. de montant de base, 1'020 francs de loyer, 220
+fr. de frais de repas pris hors du domicile, 219 fr. 60 de frais de déplacement jusqu’au lieu
+de travail en transport privé, 650 fr. de contribution d’entretien, 200 fr. de frais de visite
+de son enfant et 10 fr. 40 d’arrondi. La prime d’assurance-maladie n’a pas été
+prise en compte, car impayée.
+4.
+Par acte du 3 janvier 2019, C.________ a déposé
+auprès du Président du Tribunal d’arrondissement de la Broye et du Nord vaudois une plainte
+au sens de l’art. 17 LP contre l’avis du 20 décembre 2018, concluant, avec suite de
+frais et dépens, à son annulation et au renvoi de la cause à l’Office pour nouvelle
+détermination des revenus et du minimum vital de H.________. Elle a déclaré faire valoir
+les mêmes motifs que ceux exposés dans sa plainte du 21 décembre 2018.
+Par courrier du 7 janvier 2019, le président a cité les parties et l’Office à l’audience
+du 12 février 2019.
+Dans ses déterminations du 23 janvier 2019, l’intimé H.________ a exposé que son
+salaire effectif auprès de la Fondation X.________ variait chaque mois en fonction du nombre de
+nuits effectuées durant le mois en question. En ce qui concerne les massages à domicile, il
+a expliqué n’avoir jamais pu développer cette activité et s’être engagé
+après un entretien avec l’Office à déclarer tout revenu accessoire, croyant jusque-là
+de bonne foi ne pas avoir à déclarer le revenu provenant de cette activité s’il
+était inférieur à 2'000 fr. par an. Il a précisé que les frais de repas dépendaient
+également du nombre de nuits effectuées et que les frais médicaux retenus avaient été
+occasionné par un arrêt de travail. Il a produit les pièces suivantes :
+-
+une copie d’un certificat de salaire pour l’année 2018 établi le 21 décembre
+2019 par la Fondation X.________, dont il ressort que l’intimé a perçu un salaire net
+de 49'218 francs ;
+-
+une copie de la déclaration d’impôt 2017 de l’intimé, dont il ressort un revenu
+d’activité salariée de 51'261 fr., un revenu d’activité indépendante
+de 0 fr. et un revenu imposable de 23'000 fr. pour l’impôt cantonal et communal et de 35'000
+fr. pour l’impôt fédéral direct ;
+-
+une copie d’une décision de taxation de l’intimé pour l’année 2017 du
+10 septembre 2018 retenant un revenu imposable de 21'500 fr. pour l’impôt cantonal et communal
+et de 34'200 fr. pour l’impôt fédéral direct ;
+Dans ses déterminations du 28 janvier 2019, l’Office a conclu au rejet des plaintes. Il a
+notamment exposé que, lors d’un entretien avec l’intimé du 28 novembre 2018,
+celui-ci avait été rendu attentif au fait que s’il ne déclarait pas l’ensemble
+de ses actifs et de ses revenus, il s’exposait à des sanctions pénales.
+A l’audience du 12 février 2019, se sont présentés le conseil de la plaignante,
+celle-ci ayant été dispensée de comparution, le préposé et l’huissière
+de l’Office et l’intimé personnellement. L’intimé a certifié qu’il
+n’avait pas eu de nouveaux clients pour son activité de masseur à domicile depuis 2016,
+n’ayant pas encore pu développer celle-ci. Il a reconnu avoir toujours l’intention de
+le faire, ce qui expliquait pourquoi il n’avait pas encore supprimé son inscription du site
+local.ch.
+5.
+Par décision du 12 mars 2019, notifiée
+à la plaignante le lendemain, le Président du Tribunal d’arrondissement de la Broye et
+du Nord vaudois, statuant en tant qu’autorité inférieure de surveillance, a rejeté
+la plainte du 3 janvier 2019 (I) et a rendu la décision sans frais judiciaires ni dépens (II).
+En substance, le premier juge a considéré que la plainte du 21 décembre 2018 contre la
+décision du 11 décembre 2018 était sans objet, vu la nouvelle décision de l’Office
+du 20 décembre 2018. Il a admis que le montant du salaire de l’intimé n’était
+pas déterminant, puisque l’employeur était tenu de verser à l’intimé
+uniquement la part de salaire couvrant le minimum vital de ce dernier. En ce qui concerne l’activité
+accessoire de masseur à domicile, il a retenu qu’il ressortait du rapport d’enquête
+privée du 5 novembre 2016 que cette activité n’était pas régulière ni
+rentable, seul deux massages ayant été prodigués en 2016 et que l’intimé avait
+certifié à l’audience n’avoir pas eu d’autres clients depuis, mais vouloir
+toujours développer cette activité. Dès lors qu’aucune pièce du dossier ne
+laissait penser que ces déclarations étaient erronées, il a considéré qu’il
+n’y avait pas lieu de prendre en compte un revenu pour cette activité accessoire. Il a admis
+que les frais de repas hors du domicile devaient être fixés à 121 fr. par mois, vu le
+nombre de nuits effectuées par l’intimé, que les frais médicaux avait été
+retranchés dans la décision de l’Office du 20 décembre 2018 et que l’Office
+avait indiqué à l’audience que l’intimé avait établi s’acquitter
+de ses primes d’assurance-maladie, ce qui devait entraîner leur prise en compte dans le calcul
+de minimum vital, par 269 fr. 60 par mois. Il a ainsi fixé le minimum vital de l’intimé
+à 3'680 fr. 20 en prenant en compte les éléments suivants : 1'200 fr. de base mensuelle,
+1'020 fr. de loyer, 269 fr. 60 de primes d’assurance-maladie, 121 fr. de frais de repas pris hors
+du domicile, 219 fr. 60 de frais de déplacement jusqu’au lieu de travail en transport privé,
+650 fr. de contribution d’entretien et 250 fr. de frais de visite de l’enfant de l’intimé.
+Il a considéré que l’art. 20a al. 2 ch. 3 LP empêchait toutefois de modifier la
+décision attaquée au détriment de la plaignante.
+6.
+Par acte du 22 mars 2019, la plaignante a recouru
+contre cette décision en concluant, avec suite de frais et dépens, principalement, à ce
+qu’il soit constaté que la quotité saisissable du revenu de l’intimé comprend,
+en sus de son salaire perçu auprès de la Fondation X.________, un montant mensuel saisissable
+de 864 fr. au titre d’une activité indépendante de service de massage, subsidiairement,
+à ce que la cause soit renvoyée au premier juge ou à l’Office pour nouvelle détermination
+du revenu accessoire de l’intimé au sens des considérants. Elle a requis la mise en œuvre
+de toutes mesures d’instructions permettant de déterminer ce revenu accessoire, notamment
+la production du dossier pénal ( [...]) ou par une inspection du domicile du poursuivi. Elle a notamment
+produit les pièces nouvelles suivantes :
+-
+un extrait du site internet local.ch consulté le 20 mars 2019, mentionnant le libellé «
+[...] massage [...] – reconnection », l’intimé et l’adresse de celui-ci
+comme « Contact » ;
+-
+un extrait non daté du site search.ch comportant le libellé suivant : «  [...]
+/ H.________ / massage [...] – reconnection » ;
+-
+des extraits de pages internet Facebook dont il ressort que l’intimé a déclaré le
+20 octobre 2018 avoir un stand partagé à deux au salon des thérapies naturelles d’Aigle ;
+-
+un extrait du site internet d’inscription au salon des thérapies naturelles d’Aigle
+pour l’année 2019 dont il ressort que des stands sont mis en location pour un prix allant
+de 390 fr. à 750 francs ;
+-
+une copie d’une publicité en faveur de l’activité de l’intimé publiée
+sur internet par celui-ci le 20 mai 2018 ;
+-
+un extrait d’un site internet non daté comprenant une liste d’exposants mentionnant
+l’intimé.
+Dans ses déterminations du 5 avril 2019, l’Office a préavisé pour le rejet du recours.
+Le 9 avril 2019, l’intimé a déposé des déterminations. Il a notamment indiqué
+qu’un tiers lui avait proposé de tenir un stand au salon des thérapies naturelles d’Aigle
+et qu’il avait considéré cette proposition comme une opportunité, mais que sa présence
+à ce salon ne lui avait apporté aucun client.
+En droit :
+I.
+a)
+Formé
+contre une décision de l'autorité inférieure de surveillance dans le délai de dix
+jours suivant sa notification, le recours a été déposé en temps utile (art. 18 al.
+1 LP et 28 al. 1 LVLP [loi vaudoise du 18 mai 1955 d'application de la LP ; BLV 280.05]). Il comporte
+des conclusions et l'énoncé des moyens invoqués (art. 28 al. 3 LVLP), de sorte qu’il
+est conforme aux exigences de l’art. 18 LP et de la jurisprudence y relative en matière de
+motivation (TF 5A_118/2018 du 7 février 2018 consid. 4.1). Il est ainsi recevable. Les pièces
+produites avec le recours sont recevables (art. 28 al. 4 LVLP).
+Les déterminations de l'Office et celles de l’intimé sont également recevables (art.
+31 al. 1 LVLP).
+b)
+La
+recourante requiert la mise en œuvre de toutes mesures d’instructions permettant de déterminer
+ce revenu accessoire, notamment la production du dossier pénal ( [...]) ou une inspection du domicile
+du poursuivi.
+aa)
+Selon
+l’art. 33 LVLP, les articles 20, 21, alinéa 1, 22, 23, 25, 26, alinéa 2 et 27 sont applicables
+par analogie à la procédure de recours. L’art. 23 al. 1 LVLP dispose que le président
+ordonne librement les mesures d'instruction qui lui paraissent nécessaires. Il peut notamment entendre
+des témoins et ordonner la production de pièces. Il dispose à cet effet des mêmes
+pouvoirs qu'en procédure civile contentieuse. Les règles prévues à l'article 20a,
+al. 2 LP sont réservées (al. 2). L’art. 32 al. 1 LVLP prévoit toutefois que la cour
+de céans statue à huis clos.
+Aux termes de l'art. 20a al. 2 ch. 2 LP, l'autorité de surveillance constate les faits d'office.
+Elle peut demander aux parties de collaborer et peut déclarer irrecevables leurs conclusions lorsque
+les parties refusent de prêter le concours nécessaire que l'on peut attendre d'elles. La maxime
+inquisitoire prévue par cette disposition impose à l'autorité cantonale de surveillance
+de diriger la procédure, de définir les faits pertinents et les preuves nécessaires, d'ordonner
+l'administration de ces preuves et de les apprécier d'office (TF 5A_187/2011 du 13 mai 2011 consid.
+2.1; 7B.68/2006 du 15 août 2006 consid. 3.1). L'autorité doit établir d'elle-même
+les faits pertinents dans la mesure qu'exige l'application correcte de la loi et ne peut se contenter
+d'attendre que les parties lui demandent d'instruire ou lui apportent spontanément les preuves idoines
+(TF 7B.15/2006 du 9 mars 2006 consid. 2.1). Les parties intéressées à une procédure
+d'exécution forcée n'en sont pas moins tenues de collaborer à l'établissement des
+faits (ATF 123 III 328 consid. 3; TF 5A_253/2015 du 9 juin 2015 consid. 4.1).
+Une mesure d'instruction peut être refusée par appréciation anticipée des preuves
+(Colombini, Code de procédure civile. Condensé de la jurisprudence fédérale et vaudoise,
+n. 1.1.4 ad art. 152 CPC). Le juge peut refuser d'ordonner une mesure probatoire - en l'occurrence une
+inspection (art. 181 CPC) - lorsqu'elle apparaît d'emblée inapte à élucider les faits
+contestés (TF 5A_560/2014 du 17 septembre 2014 c. 5.1). Le droit à la preuve ne s'oppose pas
+à ce que l'autorité mette un terme à l'instruction lorsque les preuves administrées
+lui ont permis de forger sa conviction et que, procédant d'une manière non arbitraire à
+une appréciation anticipée des preuves qui lui sont encore proposées, elle a la certitude
+que ces dernières ne pourraient l'amener à modifier son opinion (ATF 143 III 297 consid. 9.3.2
+; ATF 140 I 285 consid. 6.3 ; ATF 138 III 374 consid. 4.3.2; Colombini, op. cit., n. 1.4.2 ad art. 152
+CPC), ce qui vaut également lorsque la maxime inquisitoire est applicable (Colombini, op. cit.,
+n. 1.4.3 et réf. citées).
+bb)
+En
+l’espèce, si la procédure pénale ouverte contre l’intimé devait avoir
+révélé des éléments favorables à sa thèse, la recourante, qui a accès
+au dossier en qualité de partie, n'aurait pas manqué de les produire, de sorte qu'il n'y a
+pas lieu d'ordonner la production du dossier pénal.
+De même, c'est en vain que la recourante se plaint du fait que le premier juge a refusé d'ordonner
+une visite domiciliaire et requiert la mise en œuvre de cette mesure d’instruction en deuxième
+instance. Ce refus a été motivé par le fait que la mesure d'instruction était dépourvue
+de pertinence, ce qui peut être confirmé. On ne voit guère qu'une telle visite serait
+de nature - plus que celle résultant de l'enquête d'investigation à laquelle la recourante
+a fait procéder en novembre 2016 - à permettre de vérifier l'existence d'une clientèle
+régulière, permettant de tirer un revenu accessoire.
+On ne voit par ailleurs pas quelle autre mesure d’instruction serait à même d’établir
+les faits en cause. La recourante ne le précise pas.
+II.
+a)
+Selon l’art. 91 LP, le débiteur
+est tenu, sous menace des peines prévues par la loi, d’indiquer jusqu’à due concurrence,
+tous les biens qui lui appartiennent, même ceux qui ne sont pas en sa possession, ainsi que ses
+créances et autres droits contre des tiers (al. 1 ch. 2) ; les tiers qui détiennent des biens
+du débiteur ou contre qui le débiteur a des créances ont, sous menace des peines prévues
+par la loi, la même obligation de renseigner que le débiteur (al. 4). Selon l’art. 112
+LP, il est dressé procès-verbal de la saisie (al. 1) ; si les biens saisissables sont insuffisants
+ou font entièrement défaut, il en est fait mention (al. 3).
+L'office en charge de l'exécution de la saisie a le devoir d’interroger le poursuivi. Il doit
+adopter un comportement actif et une position critique, de sorte qu'il ne peut s'en remettre, sans les
+vérifier, aux seules déclarations du débiteur quant à ses biens et revenus. Afin
+de pourvoir au meilleur désintéressement possible des créanciers, il doit procéder
+avec diligence, autorité et souci de découvrir les droits patrimoniaux du poursuivi. Pour remplir
+la tâche que lui assigne la loi, il est doté de pouvoirs d'investigation et de coercition étendus,
+« à l'instar d'un juge chargé d'instruire une enquête pénale ou d'un officier
+de police judiciaire » (TF 5A_267/2009 du 5 juin 2009 consid. 3.1 ; Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, nn. 12 ss ad art. 91 LP). Ces
+pouvoirs sont cependant limités à l’égard des tiers (Gilliéron, eod. loc.).
+Il résulte aussi indirectement de l’art. 4 LP que la compétence des offices est limitée
+géographiquement au territoire de leur arrondissement, sous réserve d’entraide (Dallèves,
+in Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, n. 1 ad art.
+4 LP).
+Lorsque le débiteur saisi est un indépendant, l’office doit se renseigner sur le type
+et l’étendue de l’activité. Il procède aux investigations nécessaires
+et peut en particulier demander la comptabilité et d’autres pièces justificatives au
+débiteur. Lorsqu’un calcul fiable du revenu saisissable n’est pas possible, l’office
+doit procéder à une évaluation, pour laquelle la prise en compte des revenus d’une
+activité comparable peut être utile (ATF 126 III 89 consid. 3a ; TF 5A_16/2011 du 2 mai 2011
+consid. 2, SJ 2011 I 335 ; TF 5A_1/2017 du 7 juillet 2017 consid. 2.1).
+b)
+Est litigieux le point de savoir si le poursuivi réalise des revenus dans le cadre d'une activité
+accessoire de masseur à domicile.
+Sur ce point, le premier juge a retenu qu'il ressortait du courrier du 16 décembre 2016 adressé
+par l'Office au conseil de la plaignante que l'intimé avait affirmé, lors d'un entretien qui
+s'était tenu le 13 novembre 2016, à la suite d'un rapport d'investigation mandaté par
+la recourante et transmis à l'Office, que s'il avait effectivement suivi des cours de massage et
+s'était inscrit dans des annuaires en ligne en vue de promouvoir son activité de masseur à
+domicile plusieurs années auparavant, cette activité n'était nullement régulière
+ni rentable et il ne cherchait pas particulièrement à la développer, principalement par
+manque de temps ; qu'il n'avait prodigué que deux massages dans le courant de l'année 2016,
+et qu'il travaillait à 90% par choix, notamment pour s'occuper de son fils. A l'audience du 12 février
+2019, l'intéressé avait en outre certifié qu'il n'avait pas eu de nouveaux clients depuis
+lors, notamment du fait qu'il n'avait pas encore pu développer son service de massage, reconnaissant
+avoir toujours l'intention de le faire, ce qui expliquait qu'il n'avait pas encore supprimé du site
+local.ch l'inscription y relative. Le premier juge a considéré qu'aucune pièce du dossier
+ne laissait penser que ces déclarations seraient inexactes, en particulier les éléments
+qui ressortent du rapport de l'enquêtrice mandatée par la plaignante afin d'établir l'existence
+d'une éventuelle activité professionnelle non déclarée de l'intéressé ou
+le fait que ce dernier dispose d'une carte de visite.
+Cette appréciation ne prête pas le flanc à la critique. Si, selon le rapport de G.________
+du 5 novembre 2016, il était fait état du fait qu'une table de massage était prête,
+la pièce où elle se trouvait était le lieu de vie de l'intimé, "
+puisqu'il
+y a un lit qui semble avoir été déplacé et remplacé par la table de massage
+".
+Par ailleurs, si un massage a été prodigué à l'enquêtrice – ce que l'intimé
+a admis lors de son audition, en précisant qu'il n'avait prodigué que deux massages durant
+l'année 2016 – l'intéressé lui a aussi indiqué qu'il n'avait pas de clientèle,
+tout en exprimant le souhait d'en avoir une. On ne peut déduire de ce rapport que l'intimé
+exercerait une activité régulière de massage, encore moins qu'il en tirerait un revenu.
+Si la recourante a déposé une plainte pénale contre l'intimé pour fraude dans la
+saisie (art. 163 LP), inobservation des règles de la procédure de poursuite pour dettes et
+de faillite (art. 323 CP), elle n'a produit aucun élément du dossier pénal qui permettrait
+de retenir une activité régulière de massage. Le seul dépôt d'une plainte pénale
+est insuffisant.
+La recourante se prévaut du fait que l'intimé aurait participé au Salon des thérapies
+naturelles du 20 octobre 2018 à Aigle, ce qu'admet l'intimé, qui indique cependant que cette
+expérience ne lui aurait rapporté aucun client, donc aucun bénéfice. Cette seule
+participation, à but publicitaire, ne permet pas de retenir qu'elle lui aurait permis de se créer
+une clientèle et d'avoir une activité effective. A cet égard, les extraits de sites internet
+produits avec le recours ne confirment pas les allégations de la recourante selon lesquelles l’intimé
+aurait fait imprimer une affiche au format mondial et qu’il participerait à l’édition
+2019 du Salon des thérapies naturelles. Au surplus, ces éléments ne sont pas de nature
+à établir l’existence de revenus réguliers provenant de l’activité accessoire
+litigieuse.
+Dès lors que les éléments au dossier ne permettent pas de retenir une activité accessoire
+régulière comme masseur, encore moins la réalisation d'un revenu, on ne saurait enfin
+évaluer un revenu sur la seule base du fait que l'intimé aurait un disponible d'activité
+de 10%, dès lors qu'il travaille par ailleurs à 90%, étant encore précisé qu'il
+a motivé un tel taux d'activité notamment par la volonté de s'occuper de son fils, ce
+qui n'est pas contesté en recours.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me David Minder, avocat (pour C.________),
+‑
+M. H.________,
+-
+M. le Préposé à l’Office des poursuites du district de Broye-Vully.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+Le greffier :
