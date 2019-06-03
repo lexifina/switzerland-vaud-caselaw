@@ -1,0 +1,245 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 19"
+decided: "2019-06-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7223858"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-068.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-096.md", "switzerland/bund/acts/272/art-104.md", "switzerland/bund/acts/272/art-105.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-107.md", "switzerland/bund/acts/272/art-110.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 19
+
+## Regeste
+
+DÉPENS, AVOCAT, FAILLITE SANS POURSUITE PRÉALABLE | 95 al. 1 let. b CPC (CH), 3 TDC, 6 TDC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.06.2019 Faillite / 2019 / 19
+
+DÉPENS, AVOCAT, FAILLITE SANS POURSUITE PRÉALABLE | 95 al. 1 let. b CPC (CH), 3 TDC, 6 TDC
+
+TRIBUNAL
+CANTONAL
+FW19.001335-190252
+97
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 juin 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+président
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+95 al. 3 let. b CPC ; 3 al. 1 à 3, 6 et 19 al. 2 TDC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+K.________
+,
+à Corcelles-près-Payerne, contre la décision rendue le 5 février 2019 par la Présidente
+du Tribunal d’arrondissement de la Broye et du Nord vaudois, dans la cause opposant le recourante
+à
+C.________
+,
+à Etoy.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 10 janvier 2019, C.________ a adressé au Président du Tribunal d’arrondissement de
+la Broye et du Nord vaudois une requête de faillite sans poursuite préalable dirigée contre
+K.________ en faisant valoir une créance de 40’522 fr. 50.
+K.________ a consulté un avocat et s’est déterminée par écriture du 4 février
+2019 – adressée au tribunal et au conseil de la requérante le même jour par courrier
+recommandé et par e-fax à 17h06 – en concluant au rejet de la requête de faillite
+sans poursuite préalable et à ce que les frais judiciaires et les dépens, à hauteur
+de 5'000 fr., soient mis à la charge de la requérante.
+Par écriture du 4 février 2019 – adressée le même jour au tribunal et au conseil
+de l’intimée par courrier A et par e-fax à 17h20 –C.________ a retiré la requête
+qu’elle avait déposée le 10 janvier 2019.
+b)
+Par décision du 5 février 2019, la Présidente du tribunal a pris acte du retrait de la
+requête, supprimé l’audience appointée le jour même à 11h30, arrêté
+les frais à 150 fr. pour la partie requérante et rayé la cause du rôle.
+2.
+Par courrier du même jour, K.________ a invité la Présidente à lui allouer une indemnité
+de dépens et a produit une note de frais.
+Par courrier du 14 février 2019, K.________ a indiqué, suite à l’interpellation
+de la Présidente, que son envoi du 5 février 2019 devait être considéré comme
+un recours.
+Par écriture du 21 mars 2019, C.________, considérant que la note de frais produite était
+manifestement disproportionnée, a conclu, sous suite de frais et dépens, au rejet du recours
+et à la confirmation de la décision rendue le
+5
+février 2019.
+En droit
+:
+I.
+L'écriture du 5 février 2019 déposée
+par K.________, qui a indiqué explicitement par courrier du 14 février 2019 que cette écriture
+constituait un recours, peut être considérée comme tel. Le recours porte sur les dépens,
+plus précisément sur le défraiement du mandataire professionnel (art. 95 al. 3 let. b
+CPC [Code de procédure civile du 19 décembre 2008 ; RS 272]). Les dépens sont
+compris dans les frais (art. 95 al. 1 CPC) et peuvent faire l’objet d’un recours (art. 110
+CPC). Suffisamment motivé et déposé en temps utile (art. 321 al. 1 et 2 CPC), le recours
+est ainsi recevable formellement et matériellement.
+II.
+a)
+En vertu de l'art. 106 al. 1 CPC, les frais
+sont mis à la charge de la partie succombante. Les frais comprennent les frais judiciaires et les
+dépens (art. 95 al. 1 CPC).
+Les dépens comprennent
+notamment le défraiement d'un représentant professionnel (art. 95 al. 3 let. b CPC). Sont essentiellement
+visés par cette disposition les frais d'avocat, mais aussi les honoraires dus à un autre représentant
+professionnel au sens de l'art. 68 CPC (Tappy, in Bohnet et alii (éd.), Commentaire romand, Code
+de procédure civile, 2
+e
+éd., 2019, n. 26 ad art. 95 CPC). L'art. 95 al. 3 let. b CPC ne limite pas la prise en considération
+des frais de représentant professionnel au cas où ils étaient nécessaires. Ni le
+juge ni le droit cantonal ne sauraient écarter la couverture de frais d'avocat réellement consentis
+par une partie et conformes aux règles ordinaires en la matière au motif que cette partie aurait
+pu plaider seule ou recourir à un autre type de représentant professionnel, moins coûteux
+(Tappy, op. cit., n. 29 ad art. 95 CPC ; Suter/Von Holzen, in Sutter-Somm/ Hasenböhler/Leuenberger
+(éd.) Kommentar zur Schweizerischen Zivilprozess-ordnung, 3
+e
+éd., 2016, n. 37 ad art. 95 ZPO [CPC], in fine ; CPF 13 octobre 2016/319).
+Le tribunal statue sur
+les frais en règle générale dans la décision finale (art. 104 al. 1 CPC). Conformément
+à l'art. 105 al. 2 CPC, le tribunal fixe les dépens selon le tarif. Les parties peuvent produire
+une note de frais. La maxime de disposition est également applicable en ce qui concerne les dépens
+(TF 4A_465/2016 du 15 novembre 2016 c. 4.2). Les dépens ne sont pas alloués d'office, mais
+seulement sur requête. Faute d'une conclusion correspondante, l'octroi de dépens viole l'art.
+105 CPC (ATF 139 III 334 c. 4.3, Revue suisse de procédure civile [RSPC] 2014 p. 115 note Tappy).
+L'art. 105 CPC n'exige toutefois pas de conclusions chiffrées sur les dépens requis en première
+instance (ATF 140 III 159 c. 4.4).
+L'art. 96 CPC, auquel
+renvoie l'art. 105 al. 2 CPC, dispose que les cantons fixent le tarif des frais. Conformément à
+l'art. 37 al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010 ; BLV 211.02), le
+Tribunal cantonal a arrêté le tarif des dépens en matière civile du 23 novembre 2010
+(TDC ; BLV 270.11.6), entré en vigueur le 1
+er
+janvier 2011. C'est en principe l'entier des frais liés à la consultation d'un avocat ou d'un
+autre représentant professionnel qui est visé par la notion de défraiement de l'art. 95
+al. 3 let. b CPC (Tappy, op. cit., n. 30 ad art. 95 CPC). Ce principe a d'ailleurs été repris
+à l'art. 3 al. 1 TDC, qui dispose qu'en règle générale, la partie qui succombe est
+tenue de rembourser à la partie qui a obtenu gain de cause tous les frais nécessaires causés
+par le litige.
+Dans les contestations
+portant sur des affaires patrimoniales, le défraiement est fixé, selon le type de procédure
+et dans les limites des tableaux figurant aux art. 4 à 8 et 10 à 13 TDC, en considération
+de l'importance de la cause, de ses difficultés, de l'ampleur du travail et du temps consacré
+par l'avocat ou l'agent d'affaires breveté (art. 3 al. 2, 1
+ère
+phrase, TDC). Selon l'art. 6 TDC, en procédure sommaire, le défraiement de l'avocat est en
+principe fixé, pour une valeur litigieuse de 30'001 à 100'000 fr., dans une fourchette de 1'500
+à 6'000 francs.
+En matière de faillite, la détermination de la valeur litigieuse est ardue ; comme les effets
+d'une faillite ne se limitent pas à un seul créancier, la valeur litigieuse devrait se calculer
+sur la base de l'entier du patrimoine du débiteur (Kren Kostkiewicz, Schuldbetreibungs- und Konkursrecht,
+3
+e
+éd., 2018, pp. 556 ss ; Vock/ Meister/Müller, SchKG-Klagen nach der Schweizerischen ZPO, 2
+e
+éd., 2018, p. 229).
+b)
+En l’espèce, en première instance, la recourante a procédé avec l’aide
+d’un avocat et a pris des conclusions en allocation de dépens. Elle a par ailleurs obtenu
+intégralement gain de cause puisque la requête de faillite sans poursuite préalable a
+finalement été retirée. La recourante avait ainsi incontestable-ment droit à de pleins
+dépens.
+S’agissant de leur quotité, à défaut d'indication de la valeur litigieuse par les
+parties et de renseignement sur le patrimoine de la recourante ou plus précisément d'un éventuel
+droit au dividende, il faut estimer la valeur litigieuse en fonction de la créance à l'encontre
+de la recourante. Le tarif prévoit une fourchette de 1'500 fr. à 6'000 fr. lorsque la valeur
+litigieuse se situe, comme en l’espèce, entre 30’001 fr. et 100’000 francs. Le
+conseil de la recourante a produit une liste de frais qui comptabilise une activité de 545 minutes
+à 250 fr. de l’heure, soit 2'270 fr. 85 d’honoraires, 78 fr. 50 de photocopies et 58
+fr. 30 de débours, ce qui représente un total de 2'593 fr. 05, TVA comprise. On doit retrancher
+de cette liste 60 minutes pour des activités effectuées avant le dépôt de la requête
+de faillite sans poursuite préalable. Restent ainsi 485 minutes, soit 8,08 heures, ce qui ne paraît
+pas du tout excessif si on considère le temps nécessaire à une discussion avec la cliente,
+l’examen du dossier, l’élaboration et la rédaction d’une détermination
+fouillée de
+15 pages, motivée
+en fait et en droit, la préparation d’un bordereau de 13 pièces ainsi que l’envoi
+de diverses correspondances à l’office des poursuites, au tribunal et à la cliente. Le
+tarif horaire pratiqué est en outre inférieur à celui retenu dans le cadre de l’élaboration
+du tarif des dépens en matière civile. Enfin, rien ne permet de considérer que tout ou
+partie de l’activité aurait été déployée par un(e) avocat(e) stagiaire.
+Il se justifie dès lors d’allouer à la recourante un montant de 2'020 fr.
+(8,08
+heures à 250 fr.) auxquels on ajoutera encore 5 % à titre de débours (art. 19
+al.
+2 TDC), ce qui représente un total de 2'121 fr. net, respectivement 2'284 fr. 30, TVA comprise.
+III.
+Au vu de ce qui précède, le recours doit être partiellement admis et le prononcé
+réformé en ce sens que C.________ versera à K.________ la somme de 2'284 fr. 30 à
+titre de dépens de première instance.
+Dans la mesure où le premier juge a manifestement commis une inadvertance en ne statuant pas sur
+les dépens requis, il y a lieu de faire application de l’art. 107 al. 2 CPC et de laisser
+les frais de seconde instance à la charge de l’État.
+Quand bien même elle obtient gain de cause sur l’essentiel, il n’y a pas lieu d’allouer
+de dépens de deuxième instance à la recourante, dont l’écriture du
+5
+février 2019, considérée comme un recours, tient sur une page à peine. Cette écriture
+est, de surcroît, certainement déjà comptée dans la liste de frais produite simultanément
+pour la première instance puisque la requérante s'adressait au premier juge et n'envisageait
+alors pas de faire un recours.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+Le prononcé est réformé en ce sens que C.________ versera à K.________ la somme de
+2'284 fr. 30 (deux mille deux cent huitante-quatre francs et trente centimes) à titre de dépens
+de première instance.
+Le prononcé est maintenu
+pour le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 315 fr. (trois cent quinze
+francs), sont laissés à la charge de l'Etat.
+IV.
+Il n'est pas alloué de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Stefano Fabbro, avocat (pour K.________),
+‑
+M. Thierry Zumbach, agent d'affaires breveté (pour C.________),
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours do
+it
+être déposé devant le Tribunal fédéral dans les trente jours qui suivent la
+présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois.
+La greffière :
