@@ -1,0 +1,467 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 18"
+decided: "2019-06-03"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7215264"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-293b.md", "switzerland/bund/acts/281.1/art-295.md", "switzerland/bund/acts/281.1/art-295c.md", "switzerland/bund/acts/281.1/art-299.md", "switzerland/bund/acts/281.1/art-348.md", "switzerland/bund/acts/281.35/art-055.md", "switzerland/bund/acts/446.1/art-007.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 18
+
+## Regeste
+
+COMMISSAIRE{CONCORDAT}, HONORAIRES, AGENT D'AFFAIRES | 7 al. 2 LPAg, 55 OELP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 03.06.2019 Faillite / 2019 / 18
+
+COMMISSAIRE{CONCORDAT}, HONORAIRES, AGENT D'AFFAIRES | 7 al. 2 LPAg, 55 OELP
+
+TRIBUNAL
+CANTONAL
+FV18.028792-181875
+125
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+3 juin 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+55 OELP et 7 al. 2 LPAg
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par l’
+Etat
+de Vaud
+, représenté par l’
+Administration
+cantonale des impôts
+, contre le jugement
+rendu le 13 novembre 2018, à la suite de l’audience du 18 octobre 2018, par le Président
+du Tribunal d’arrondissement de Lausanne, révoquant le sursis concordataire accordé à
+H.________SA
+,
+à [...], et fixant le montant des honoraires du commissaire au sursis provisoire, l’agent
+d’affaires
+X.________
+.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 30 avril 2018, S. et T.________, créanciers solidaires de H.________SA, au bénéfice
+d’un jugement et d’une commination de faillite exécutoires, ont requis la faillite de
+la débitrice. L’audience de faillite a été fixée au 5 juillet 2018, mais
+n’a pas eu lieu. En effet, le 4 juillet 2018, H.________SA a requis du Président du Tribunal
+d’arrondissement de Lausanne l’octroi d’un sursis concordataire provisoire.
+H.________SA, dont le but est la fourniture de tout service dans le domaine de la gestion de fortune,
+selon son inscription au registre du commerce, n’est plus active dans ce domaine et n’a aucun
+employé. Ses seuls actifs sont des lots de PPE d’un immeuble commercial, hypothéqués
+à une hauteur dépassant leur valeur vénale cumulée, estimée à 2'000'000
+francs.
+Par décision du 5 juillet 2018, la présidente du tribunal précité a, notamment, accordé
+un sursis provisoire de quatre mois à la requérante (I), désigné D.________, agent
+d’affaires breveté, en qualité de commissaire provisoire, avec pour mission d’analyser
+les perspectives d’assainissement ou d’homologation d’un concordat, de surveiller la
+requérante en s’assurant en particulier de la conservation des actifs de la société
+et du paiement des charges courantes ainsi que d’informer les créanciers et/ou l’Office
+des poursuites concerné si une poursuite est au stade de la continuation ou a d’ores et déjà
+été requise ou encore si un séquestre ou une autre mesure conservatoire est prévisible
+(II), invité le commissaire provisoire à déposer un rapport écrit intermédiaire
+sur la situation de la requérante une semaine avant l’audience appointée sous chiffre
+VI (III), invité le commissaire à informer sans délai et en tout temps la présidente
+du tribunal si les conditions à l’octroi du sursis provisoire ne devaient plus être réunies
+et le sursis provisoire révoqué (IV), dit qu’il appartenait à la requérante
+de provisionner directement, à première réquisition, le commissaire provisoire pour ses
+honoraires (V) et appointé l’audience préliminaire au jeudi 18 octobre 2018, à
+10 heures, l’envoi de la décision valant convocation pour la requérante et le commissaire
+provisoire (VI).
+Par décision du 3 août 2018, la présidente du tribunal a pris acte de la renonciation
+de D.________ à fonctionner en qualité de commissaire et a désigné X.________, agent
+d’affaires breveté, avec la même mission.
+b)
+Par
+lettre du 17 août 2018, le commissaire a demandé à H.________SA de lui verser « à
+réception » une provision de 5'000 francs.
+Dans une lettre à la présidente du tribunal du 19 septembre 2018, il a indiqué avoir rencontré
+les organes de H.________SA durant toute la matinée du 24 août 2018, mais n’avoir
+cependant toujours pas reçu la provision demandée et n’être dès lors pas en
+mesure d’exécuter sa mission.
+Par lettre du 20 septembre 2018 au conseil de H.________SA, la présidente du tribunal a imparti
+à la sursitaire un ultime délai au 25 septembre 2018 pour payer la provision requise par le
+commissaire et produire la preuve de ce paiement, à défaut de quoi, le sursis accordé
+serait révoqué.
+Le 21 septembre 2018, le commissaire a informé la présidente que la provision requise venait
+de lui parvenir.
+c)
+Le 11 octobre 2018, le commissaire au sursis provisoire a déposé son rapport, d’un peu
+plus de deux pages, accompagné de vingt-trois pièces sous bordereau, dont notamment les comptes
+de H.________SA au 31 août 2018 (pièce 2) et la liste de ses créanciers (pièce 3)
+établie par elle-même, un lot de factures de charges et les ordres de paiement y relatifs (pièces
+9 à 18), et un état des revenus locatifs (pièce 23). Sous pièce 1, a été
+produite une « lettre d’engagement » adressée au commissaire le 31 août
+2018 par l’administrateur de Q.________SA – également directeur de H.________SA –
+qui occupe les locaux dont H.________SA est propriétaire et a les mêmes actionnaires que cette
+société, certifiant que « la société Q.________SA sera en mesure de financer
+le dividende concernant la procédure concordataire touchant H.________SA afin que celle-ci soit
+menée à bien ». Sous pièce 8, a été produit un ordre de paiement donné
+par e-banking par Q.________SA, pour être exécuté le 19 septembre 2018 par le débit
+de son compte courant entreprise auprès d’UBS, portant sur le montant de 5'000 fr. à
+verser en faveur de X.________, avec la mention « H.________
+24385 ».
+Sur la base de la lettre d’engagement précitée, et considérant que la sursitaire
+n’avait « pas de charges courantes à l’exception des charges de PPE »,
+lesquelles étaient « payées régulièrement par la société Q.________SA
+qui occupe les locaux », le commissaire a estimé qu’il semblait « envisageable
+qu’un sursis concordataire définitif puisse aboutir à condition que Q.________SA s’engage
+à régler, en plus d’un dividende concordataire, les charges courantes de la société
+et notamment les charges PPE de l’immeuble ».
+d)
+L’audience du 18 octobre 2018, qui a duré vingt-six minutes selon le procès-verbal au
+dossier, s’est tenue en présence de l’administrateur et du conseil de la sursitaire,
+du commissaire au sursis provisoire, d’une représentante de l’Office des faillites de
+l’arrondissement de Lausanne et de trois créanciers, présents ou représentés,
+savoir l’Etat de Vaud, représenté par l’Administration cantonale des impôts,
+la PPE P.________ et [...].
+Lors de cette audience, le représentant de l’Administration cantonale des impôts a « souhaité
+savoir ce qu’il en était des trois cédules hypothécaires, non attribuées, d’un
+montant de 200'000 fr., de 425'000 fr. et de 180'000 fr., grevant les lots PPE de la requérante ».
+Celle-ci ayant indiqué que ces cédules étaient en sa possession, un délai au 18 octobre
+2018 lui a été imparti pour les remettre au commissaire.
+Par lettre du 25 octobre 2018, le commissaire a informé le président du tribunal qu’une
+seule cédule hypothécaire – de 200'000 fr. - lui avait été remise et en a produit
+une copie.
+Le 29 octobre 2018, la requérante a confirmé que les deux autres cédules n’avaient
+pas été retrouvées, en précisant cependant qu’elles n’avaient été
+ni cédées ni grevées en faveur de tiers.
+2.
+Par jugement du 13 novembre 2018, le Président
+du Tribunal d’arrondissement de Lausanne a révoqué le sursis concordataire accordé
+le 5 juillet 2018 à H.________SA (I), prononcé la faillite de H.________SA, pour prendre effet
+le 9 novembre 2018, à 9 heures (II), relevé X.________ de sa mission de commissaire provisoire
+au sursis (III), arrêté à 5'000 fr., débours et TVA compris, les honoraires dus au
+commissaire provisoire au sursis par H.________SA (IV), dit que la décision serait publiée
+par les soins du greffe dans la FAO et la FOSC (V), et mis les frais judiciaires, arrêtés à
+800 fr., frais de publication en sus, à la charge de H.________SA (VI).
+En bref, le premier juge a considéré qu’il n’existait aucune chance réaliste
+d’assainissement ou de concordat, la lettre de Q.________SA étant vague et ne reposant sur
+aucun élément matériel ni sur aucune garantie.
+3.
+a)
+Par acte déposé le
+23 novembre 2018, le créancier Etat de Vaud,
+représenté par l’Administration cantonale des impôts, a recouru contre le chiffre
+IV du dispositif du jugement fixant les honoraires du commissaire ; il a conclu, avec suite de frais,
+à sa réforme, principalement en ce sens qu’aucun honoraire n’est dû au commissaire,
+subsidiairement en ce sens que les honoraires, débours et TVA compris, dus au commissaire sont arrêtés
+forfaitairement à 1'000 francs.
+Les autres parties ont été invitées à se déterminer sur le recours, par avis
+du greffe de la cour de céans du 12 mars 2019, dans un délai non prolongeable de dix jours
+dès réception de cet avis.
+La PPE P.________, l’Office des faillites de l’arrondissement de Lausanne, [...] ainsi que
+S. et T.________, par lettres respectives des 13, 14, 15 et 22 mars 2019, ont tous renoncé à
+déposer une réponse.
+Le 22 mars 2019, le commissaire au sursis, représenté par un agent d’affaires breveté,
+a déposé une réponse, concluant, avec suite de frais et dépens, au rejet du recours
+et à l’allocation d’une « équitable indemnité de dépens, conformément
+au tarif en matière de procédure sommaire, soit à 0.75% de la valeur litigieuse ».
+Il a produit deux pièces nouvelles.
+H.________SA a déposé une réponse le 25 mars 2019, concluant au rejet du recours.
+Dans une réplique spontanée du 9 avril 2019, le recourant a relevé que le mémoire
+de réponse du commissaire n’était pas signé – ce qui avait échappé
+à la cour de céans – et a soutenu qu’il était par conséquent irrecevable.
+Le 13 mai 2019, en application de l’art. 132 al. 1 CPC, la Présidente de la cour de céans
+a renvoyé au mandataire du commissaire l’original de sa réponse du 22 mars 2019 et lui
+a imparti un délai de deux jours pour le signer. Ce mandataire s’est exécuté et
+a déposé le mémoire de réponse signé, le 14 mai 2019.
+Par lettre du 16 mai 2019, le recourant a « déplor(é) le fait qu’un délai
+de deux jours ait été accordé pour réparer le vice » et soutenu implicitement
+que le défaut de signature n’était pas dû à une inadvertance.
+b)
+Parallèlement,
+H.________SA
+a recouru contre le jugement, concluant, avec dépens, principalement à sa réforme en ce
+sens qu’un sursis concordataire définitif lui est octroyé pour une durée de six
+mois, le commissaire étant reconduit dans ses fonctions, subsidiairement à l’annulation
+du jugement et au renvoi de la cause en première instance pour complément d’instruction
+et nouvelle décision (dossier réf. FV18.028792-181874). Elle a requis l’effet suspensif,
+qui a été rejeté par décision de la Présidente de la cour de céans du 29
+janvier 2019.
+En droit
+:
+I.
+a) aa)
+En vertu de l'art. 295c al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), les créanciers peuvent attaquer la
+décision du juge du concordat par la voie du recours, conformément au CPC (Code de procédure
+civile ; RS 272), soit plus précisément aux art. 319 à 327a CPC (TF 5A_874/2017 du
+7 février 2018 consid. 4.2.1 ; Umbach-Spahn/Kesselbach/Fink,
+in
+Kren Kostkiewicz/ Vock (éd.), SK Kommentar zum SchKG, 4e éd. 2017, n. 12 à 17
+ad
+art. 295c SchKG [LP]).
+En l’espèce, le recours du créancier Etat de Vaud a été déposé par
+l’Administration cantonale des impôts dans les formes requises, par acte écrit et motivé
+(art. 321 al. 1 CPC), et en temps utile, dans les dix jours suivant la notification du jugement attaqué
+(art. 321 al. 2 CPC). Il est ainsi recevable formellement.
+bb)
+L
+’intimé X.________
+semble contester la validité de la représentation de l’Administration cantonale des impôts
+par le seul signataire du recours et se demande « si un tel recours ne devrait pas être
+signé par au moins deux personnes, respectivement par un Conseiller d’Etat ».
+L’art. 155 al. 1 LI (loi sur les impôts cantonaux ; BLV 642.11) dispose que l’Administration
+cantonale des impôts, les Offices d’impôt de district et l’Office d’impôt
+des personnes morales sont chargés de percevoir les impôts. Ils ont qualité de mandataire
+légal du canton tant dans les procédures de recouvrement que dans les procédures associées,
+y compris lorsque l’Etat perçoit les impôts communaux.
+En l’espèce, l’Etat de Vaud fait valoir, dans la procédure concordataire, une créance
+d’impôt contre H.________SA. L’Administration cantonale des impôts est donc bien
+habilitée à représenter l’Etat de Vaud dans la présente procédure, sans
+procuration.
+b)
+Déposée dans le délai imparti pour ce faire, la réponse du commissaire est également
+recevable, le défaut de signature (art. 130 al. 1 CPC) ayant été réparé, conformément
+à l’art. 132 al. 1 CPC. Le fait que le mandataire soit un agent d’affaires breveté
+n’empêchait pas de considérer que l’omission de signer l’acte en question
+résultait d’une inadvertance de sa part et de lui donner l’occasion de réparer
+ce vice.
+Selon l’art. 326 CPC, les conclusions, allégations de fait et preuves nouvelles sont irrecevables
+dans le cadre du recours (al. 1), les dispositions spéciales de la loi étant réservées
+(al. 2). En matière de concordat, la LP n’a pas prévu de régime dérogatoire
+réservé par l’art. 326 al. 2 CPC, à la différence du recours en matière
+de jugement de faillite (art. 174 al. 1 LP) et du recours en matière de sursis extraordinaire (art.
+348 al. 2 LP ; CPF 13 mai 2015/131 ; CPF 15 janvier 2015/2). Lorsque le jugement attaqué
+prononce la faillite du débiteur et que celui-ci recourt, l’art. 174 LP s’applique (TF
+5A_874/2017 précité ; TF 5A_495/2016 du 11 novembre 2016 consid. 3.2.4 ; CPF
+26 février 2019/50) et le recourant peut faire valoir des faits nouveaux (CPF 26 février 2019/50 ;
+CPF 30 juin 2016/136 ; CPF 9 juillet 2015/187). Tel n’est pas le cas lorsque, comme en
+l’espèce, le recours émane d’un créancier et porte au surplus exclusivement
+sur la question des honoraires du commissaire.
+Il s’ensuit que les pièces nouvelles produites par le commissaire à l’appui de
+sa réponse, dont une liste d’opérations, sont irrecevables.
+c)
+Déposée en temps utile, le lundi 25 mars 2019 (art. 142 al. 3 CPC), la réponse de H.________SA
+est recevable.
+II.
+a)
+L’art. 293b al. 1 LP prévoit que,
+lorsque le sursis provisoire est accordé, le juge du concordat charge un ou plusieurs commissaires
+provisoires d’analyser de manière approfondie les perspectives d’assainissement ou d’homologation
+d’un concordat. L’art. 295 LP est applicable par analogie. Le juge peut encore attribuer
+d’autres tâches au commissaire que celles expressément prévues par ces deux dispositions
+(art. 295 al. 3 LP).
+Selon l’art. 55 OELP, le juge du concordat fixe de manière forfaitaire les honoraires du commissaire
+(al. 1) ; il tient notamment compte de la difficulté et de l’importance de l’affaire,
+du volume du travail fourni, du temps consacré ainsi que des dépenses engagées (al. 3).
+L’indemnité allouée au commissaire au sursis constitue une créance contre la masse
+(Eugster,
+in
+Commentaire sur l’OELP, n. 1
+ad
+art. 55).
+b)
+Les
+intimés X.________ et H.________SA contestent l’intérêt du créancier Etat de
+Vaud au recours. Ils font valoir que la provision du commissaire a été versée non par
+la sursitaire, mais par un tiers, savoir Q.________SA. Selon eux, si les honoraires du commissaire étaient
+réduits, les créanciers de H.________SA n’en bénéficieraient pas, l’excédent
+devant être remboursé à Q.________SA.
+Le jugement prévoit que les honoraires sont dus par H.________SA et il s’agit, comme on l’a
+vu, d’une dette de la masse. Certes, le dossier contient un ordre de paiement de Q.________SA du
+montant de la provision de 5'000 fr., à exécuter le 19 septembre 2018 en faveur de X.________ ;
+rapprochée de la lettre du commissaire du 21 septembre 2018, disant que la provision venait de lui
+parvenir, cette pièce suffit pour admettre que c’est bien Q.________SA qui a payé dite
+provision. Toutefois, une provision ne constitue qu’une avance et rien ne permet de considérer
+que Q.________SA ne va pas en demander le remboursement à la masse en faillite de H.________SA.
+Même si elle en a opéré l’avance, elle n’a pas déclaré prendre en
+charge les frais, dont la masse en faillite demeure débitrice. Le créancier Etat de Vaud a
+donc bien un intérêt à voir réduire la dette d’honoraires du commissaire.
+c)
+Selon le recourant, le commissaire aurait failli à ses devoirs, car il n’aurait appris l’existence
+de trois cédules hypothécaires libres d’engagement qu’à l’audience du
+18 octobre 2018, alors qu’il devait établir un inventaire des biens de la sursitaire et estimer
+les gages (art. 299 LP, par renvoi des art. 293b al. 1
+in
+fine
+et 295 al. 1 let. c LP) ; il n’aurait
+pas correctement évalué les perspectives d’assainissement de H.________SA, puisqu’une
+attention même minimale aurait dû lui permettre de se rendre compte que la sursitaire resterait
+très vraisemblablement en situation de surendettement quelle que soit l’ampleur de l’abandon
+consenti par les créanciers de troisième classe ; il lui aurait également appartenu
+de vérifier la solvabilité de la société Q.________SA, supposée financer le
+dividende concordataire.
+Bien fondées ou non, ces critiques sont sans portée sur la question des honoraires du commissaire,
+qui ne sont pas arrêtés en fonction de sa perspicacité, mais en fonction des critères
+définis à l’art. 55 al. 3 OELP, soit la difficulté et l’importance de l’affaire,
+le volume du travail fourni, le temps consacré et les dépenses engagées.
+aa)
+Dans la mesure où la sursitaire n’avait
+plus d’activité et ne disposait que de peu de biens, on ne saurait considérer que l’affaire
+présentait une importance particulière, ni une grande difficulté.
+bb)
+Le volume du travail fourni et le temps consacré peuvent être estimés sur la base du dossier,
+en l’absence d’une liste d’opérations – celle produite en deuxième
+instance étant irrecevable (cf. supra, consid. I b).
+Pour ce qui est du volume de travail, on constate que le commissaire a envoyé le 17 août 2018
+à la sursitaire une lettre de trois pages contenant des instructions, qui est manifestement un document
+standard. Il a rencontré l’administrateur de la sursitaire et visité ses locaux durant
+la matinée du 24 août 2018. Il a adressé deux lettres à la présidente du tribunal,
+les 19 et 21 septembre 2018, relatives à sa provision. Le 11 octobre 2011, il a établi
+un rapport, sous forme d’une lettre de deux pages et demie, qu’on peut qualifier de succinct,
+l’exposition de la situation de la sursitaire tenant sur une seule page. Aucune des vingt-trois
+pièces jointes à ce rapport, sous bordereau, n’a été établie par le commissaire.
+Celui-ci a assisté à l’audience du 18 octobre 2018, qui a duré vingt-six minutes.
+Enfin, il a adressé une brève lettre au président du tribunal le 25 octobre 2018.
+On peut estimer le temps consacré à cinq minutes pour la première lettre, qui est une
+correspondance standard, ainsi que pour chacune des trois autres lettres, qui sont brèves, voire
+très brèves, soit en tout vingt minutes ; à trois heures pour l’entrevue avec
+l’administrateur de la sursitaire et la visite des locaux, divers entretiens téléphoniques
+et la réunion des pièces ; à trois heures encore pour l’étude des pièces,
+l’établissement du bordereau et la rédaction du petit rapport ; le temps d’audience
+peut être arrondi à trente minutes. Au total, le temps consacré est estimé à
+six heures et cinquante minutes, qu’on peut arrondir à sept heures.
+cc)
+Selon l’art. 7 al. 2 LPAg (loi sur la profession d’agent d’affaires breveté ;
+BLV 179.11), dans les cas non prévus par le tarif des honoraires dus à titre de dépens,
+les honoraires de l'agent d'affaires
+breveté sont fixés par analogie avec le tarif en tenant compte notamment de l'usage, de l'importance
+et de la difficulté de l'affaire et du résultat obtenu.
+Lors de l’élaboration du tarif des dépens en matière civile (TDC ; BLV 270.11.6),
+le Tribunal cantonal a retenu comme base pour les agents d’affaires brevetés un tarif horaire
+de 215 fr., TVA en sus, dans les causes dont la valeur litigieuse est inférieure à 30'000 fr.
+et de 250 fr., TVA en sus, lorsque celle-ci est égale ou supérieure à 30'000 fr. (Rapport
+explicatif sur le nouveau tarif des dépens en matière civile, p. 9,
+ad
+art. 10-13). En matière de modération de notes d’honoraires d’agents d’affaires,
+le tarif généralement admis est de 220 fr. (CPF 30 novembre 2017/295 ; CREC 7 janvier
+2014/3).
+Les facteurs déterminants pour la fixation des honoraires du commissaire sont les mêmes que
+pour la fixation de l’indemnisation de l’administration spéciale de la faillite (cf.
+Eugster,
+op.
+cit.
+, n. 5
+ad
+art. 55 OELP). A ce sujet, le Tribunal fédéral, après avoir rappelé que, selon lui,
+«
+dans l'intérêt des créanciers
+et du débiteur, il convient que ceux qui exercent une activité en matière de poursuite
+pour dettes et de faillite reçoivent, non une rémunération calculée en fonction d'évaluations
+commerciales, orientées vers le gain, et leur assurant une pleine couverture, mais des émoluments,
+au sens propre du droit administratif, destinés à leur procurer simplement un dédommagement
+équitable » (ATF 103 III 65 consid. 2, lettre à l’autorité de surveillance
+du canton de Genève du 30 novembre 1977), a considéré que des honoraires « conformes
+aux lois du marché » étaient « inconciliables avec ces réflexions »
+et « la composante sociale » de l’OELP (TF 7B.86/2005 du 18 juillet 2005 consid.
+3.1.4, cité par Eugster,
+loc.
+cit.
+). Dans cet arrêt, le Tribunal fédéral
+a admis des honoraires de 280 fr. pour un avocat administrateur d’une masse en faillite. Eugster
+est d’avis qu’un tarif de 200 fr. se trouverait « à la limite supérieure
+acceptable », en tenant compte du fait que les travaux de secrétariat sont facturés
+à part (
+op. cit.
+,
+n. 6
+ad
+art. 55).
+En l’espèce, il convient d’appliquer le tarif horaire global de 220 fr., débours
+compris. Les honoraires du commissaire sont ainsi ramenés à 1'540 fr., plus TVA à 7,7%,
+soit 1'658 fr. 60.
+III.
+Vu ce qui précède, le recours est admis
+partiellement et le prononcé réformé à son chiffre IV, en ce sens que les honoraires
+du commissaire sont arrêtés à 1'658 fr. 60.
+Les frais judiciaires de deuxième instance, arrêtés à 360 fr., sont mis, vu le sort
+du recours, par moitié à la charge du recourant et par un quart à la charge de chacun
+des intimés X.________ et H.________SA. Ceux-ci doivent par conséquent rembourser au recourant
+chacun un quart de son avance de son frais.
+Il n’est pas alloué de dépens de deuxième instance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est partiellement admis.
+II.
+Le jugement est réformé au chiffre IV de son dispositif en ce sens que les honoraires dus au
+commissaire au sursis provisoire X.________ par la masse en faillite de H.________SA sont arrêtés
+à 1'658 francs 60 (mille six cent cinquante-huit francs et soixante centimes), débours et TVA
+compris.
+Le jugement est confirmé
+pour le surplus.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 360 fr. (trois cents francs),
+sont mis à la charge du recourant Etat de Vaud par 180 fr. (cent huitante francs), à la charge
+de l’intimé X.________ par 90 fr. (nonante francs) et à la charge de l’intimée
+masse en faillite de H.________SA par 90 fr. (nonante francs).
+IV.
+L’intimé X.________ doit verser au recourant Etat de Vaud la somme de 90 fr. (nonante francs)
+à titre de remboursement partiel d’avance de frais de deuxième instance.
+V.
+L’intimée masse en faillite de H.________SA doit verser au recourant Etat de Vaud la somme
+de 90 fr. (nonante francs) à titre de remboursement partiel d’avance de frais de deuxième
+instance.
+VI.
+Il n’est pas alloué de dépens de deuxième instance.
+VII.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Administration cantonale des impôts (pour l’Etat de Vaud),
+‑
+M. Julien Greub, agent d’affaires breveté (pour H.________SA),
+-
+Mme Laura Jaatinen Fernandez, agent d’affaires breveté (pour X.________),
+-
+Me Christian Favre, avocat (pour PPE P.________),
+-
+Me Annie Schnitzler, avocate (pour [...]),
+-
+Me Olivier Righetti, avocat (pour S. et T.________),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
