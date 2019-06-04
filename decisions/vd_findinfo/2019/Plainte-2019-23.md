@@ -1,0 +1,274 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 23"
+decided: "2019-06-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7207199"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 23
+
+## Regeste
+
+PLAINTE{LP}, EXÉCUTION DE LA SAISIE, EXPERTISE ORDONNÉE PAR L'ADMINISTRATION, CERTIFICAT D'ACTIONS | 17 LP, 97 al. 1 LP, 97 al. 2 LP, 97 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 04.06.2019 Plainte / 2019 / 23
+
+PLAINTE{LP}, EXÉCUTION DE LA SAISIE, EXPERTISE ORDONNÉE PAR L'ADMINISTRATION, CERTIFICAT D'ACTIONS | 17 LP, 97 al. 1 LP, 97 al. 2 LP, 97 LP
+
+TRIBUNAL
+CANTONAL
+FA18.051681-190477
+24
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+4 juin 2019
+________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 97 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+M.________
+,
+à [...], et
+X.________
+,
+audit lieu, contre la décision rendue le 18 mars 2019, à la suite de l’audience du 11
+février 2019, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, contre les procès-verbaux des opérations de la saisie établis
+par l’
+Office
+des poursuites du district de Nyon
+, à Nyon,
+dans la cause divisant les recourants d’avec
+K.________
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le 17 juillet 2018, K.________ a déposé auprès de l’Office des poursuites du district
+de Nyon (ci-après : l’Office) deux réquisitions de continuer la poursuite respectivement
+dans les poursuites n° 8’7775'549 ouverte contre M.________ et n° 8'775'560 ouverte contre
+X.________ portant chacune sur un montant de 36'590 fr. 85, frais et intérêt compris.
+Le même jour l’Office a adressé à M.________ et X.________ deux avis de saisie dans
+les poursuites susmentionnées.
+2.
+Le 26 novembre 2018, l’Office a établi deux procès-verbaux des opérations de la
+saisie, signés respectivement par M.________ et X.________. Il en ressort notamment que ceux-ci
+sont mariés, n’ont aucun compte bancaire, ni bien immobilier en Suisse et qu’ils sont
+propriétaires respectivement des 10 % et des 5 % du capital social de la société non cotée
+en bourse F.________ SA composé de mille actions déposées en mains de Me D.________, notaire
+à Fribourg. Les procès-verbaux mentionnent que l’Office a saisi les cent actions propriété
+de M.________ et les cinquante actions propriété de X.________ et leur a imparti un délai
+échéant le 6 décembre 2018 pour les lui remettre. Les certificats d’action ont été
+déposés à l’Office le 11 janvier 2019.
+3.
+Par acte du 29 novembre 2018 adressé au Président
+du Tribunal d’arrondissement de La Côte, M.________ et X.________ se sont opposés à
+la saisie des 15 % du capital de la société F.________ SA et ont requis la suspension des procédures,
+considérant cette saisie comme étant abusive dès lors que la valeur de chaque action atteindrait
+400'000 francs. Ils ont fait valoir qu’ils avaient créé la société F.________
+SA à la suite d’un conseil de leur banquier pour pouvoir continuer à faire des affaires
+en Europe, que F.________ SA était détenue à 80 % par une fiducie familiale étrangère
+leur appartenant, que F.________ SA avait accusé un retard important à son démarrage en
+raison de problèmes de santé de X.________ et qu’elle n’avait jamais pris son plein
+essor, ne disposant d’aucuns fonds ni liquidités ni compte en Suisse et d’aucun bien
+immobilier. A l’appui de leur écriture, ils ont notamment produit une copie d’un document
+intitulé « Hypothèse ayant servi de base à la préparation du bilan de l’exercice
+au 31 décembre 2016 & 2017 » rédigé sur papier à en-tête de F.________
+SA mentionnant notamment sous la rubrique «
+Valeur
+marchande des assets roulés par rapport à la valeur marchande
+»
+un montant de 599'508'195 fr. et des «
+notes
+au bilan
+» indiquant sous la rubrique
+«
+actifs
+»
+300 kg d’une forme de métal valant six millions de dollars le kilogramme selon commande de
+l’une des cinq plus grandes banques mondiales.
+Par décision du 30 novembre 2018, la présidente a accordé l’effet suspensif à
+la plainte en ce sens que la procédure de réalisation a été suspendue jusqu’à
+droit connu sur la plainte.
+Par courriers recommandés du 30 novembre 2018, la présidente a notifié la plainte à
+l’Office et communiqué celle-ci à K.________, a cité les plaignants et l’Office
+à l’audience du 11 février 2019 et avisé K.________ de celle-ci.
+Dans ses déterminations du 28 janvier 2019, l’Office a préavisé en faveur du rejet
+de la plainte. Il a notamment produit les pièces suivantes :
+-
+un extrait du Registre du commerce de l’Etat de Fribourg relatif à la société F.________
+SA, dont il ressort qu’elle a été inscrite le 18 mai 2011, qu’elle a pour but l’achat
+et la vente de matières premières, qu’elle a un capital de 100'000 fr. entièrement
+libéré consistant en 1'000 actions au porteur de 100 fr. chacune et que la plaignante en est
+l’administratrice secrétaire trésorière avec signature individuelle ;
+-
+une copie d’un courrier du Service cantonal des contributions de l’Etat de Fribourg adressé
+le 12 juillet 2018 à F.________ SA fixant la valeur nominale d’une action de celle-ci au 31
+décembre 2017 à 100 fr. et la valeur fiscale nette à 0 franc.
+A l’audience du 11 février 2019, à laquelle les plaignants, le substitut du Préposé
+et un huissier de l’Office se sont présentés, les plaignants ont notamment produit un
+courrier du notaire et expert fiscal diplômé R.________ adressé à l’Office
+le 29 janvier 2018 indiquant qu’il connaissait le plaignant depuis l’année 2010, qu’il
+avait conseillé celui-ci dans le cadre de la constitution de la société F.________ SA,
+que le plaignant avait subi plusieurs hospitalisations de longue durée, ce qui l’avait empêché
+d’avancer avec les projets de F.________ SA et qu’au jour du courrier, cette société
+n’avait pratiquement pas d’activité lucrative.
+4.
+Par décision du 18 mars 2019, notifiée
+aux plaignants le lendemain, la Présidente du Tribunal d’arrondissement de La Côte, statuant
+en tant qu’autorité inférieure de surveillance, a rejeté la plainte (I) et a rendu
+la décision sans frais judiciaires ni dépens (II). En substance, le premier juge a pris acte
+que l’Office avait admis dans ses déterminations qu’il n’avait pas la possibilité
+ou les moyens juridiques pour procéder aux investigations touchant aux activités de F.________
+SA et ne disposait pas des moyens requis pour déterminer la valeur de réalisation des actions.
+Il a considéré que le document du Service des contributions de l’Etat de Fribourg du
+12 juillet 2018 fixant la valeur des actions en cause à leur valeur nominale devait l’emporter
+sur les documents produits par les plaignants, dès lors que ces documents avaient été
+établis par eux-mêmes.
+5.
+Par acte du 26 mars 2019, les plaignants ont recouru
+contre cette décision en demandant à ce que la valeur de chaque action soit fixée à
+400'000 francs.
+Par courrier du 1
+er
+avril 2019, l’Office s’est référé à ses déterminations de première
+instance.
+En droit :
+I.
+Déposé en temps utile, dans les dix jours suivant la notification du prononcé attaqué
+(art. 18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1] et 28 al. 1 LVLP [loi du 18 mai 1955 d’application dans le canton de Vaud de la LP ;
+BLV 280.05]) et suffisamment motivé (TF 5A_118/2018 du 7 février 2018 consid. 4.1), le recours
+est recevable.
+Il en va de même des déterminations de l’Office (art. 31 al. 1 LVLP).
+II.
+Les recourants soutiennent que la valeur réelle de chacune des actions saisies s’élèverait
+à 400'000 francs. Ils semblent se prévaloir d’une offre d’achat ferme qui aurait
+été émise par le « head office » d’une des plus importantes banques de
+la planète mais qui ne pourrait pas être dévoilée pour des raisons de confidentialité.
+Ils paraissent vouloir établir l’existence de cette offre en se présentant devant la
+Cour avec un avocat qui pourrait préparer un « NC/NDA » (North Carolina non-disclosure
+aggreement) à signer par les parties présentes à l’audience.
+a)
+Aux termes de l’art. 97 LP, le fonctionnaire fait l’estimation des objets qu’il saisit.
+Il peut s’adjoindre des experts (al. 1). Il ne saisit que les biens nécessaires pour satisfaire
+les créanciers saisissants en capital, intérêts et frais (al. 2).
+L’estimation des biens saisis au moment de l’exécution de la saisie devra correspondre
+à leur valeur présumée lors de la réalisation ; en d’autres termes, l’office
+doit estimer les biens qu’il saisit en fonction du produit probable des enchères (de Gottrau,
+in Dallèves/Foëx/Jeandin Commentaire romand, Poursuite et faillite, n. 6 ad art. 97 LP ; Gilliéron,
+Commentaire de la loi fédérale sur la poursuite pour dettes et la faillite, n. 19 ad art. 97
+LP ; ATF 99 III 52, JdT 1974 II 116). La valeur des biens saisis ne doit pas dépasser de manière
+importante les limites fixées par l'art. 97 al. 2 LP, qui permettent la prise en compte d'une marge
+raisonnable (p. ex. à la suite de revendication) (ATF 132 III 281 consid. 2; TF 5A_346/2018 du 3
+septembre 2018 consid. 3.2.1).
+Le recours à un expert s'impose lorsque le préposé – ou son substitut – ne
+dispose pas des connaissances particulières nécessaires à l'estimation des biens saisis
+(ATF 93 III 20 consid. 4, JT 1967 II 44). La procédure d’estimation, qui a pour but de limiter
+les effets de la saisie à ce qui est nécessaire pour désintéresser les créanciers
+(art. 97 al. 2 LP), et de renseigner les intéressés (créanciers, enchérisseurs éventuels),
+doit cependant rester raisonnable. Dans certaines circonstances, une expertise peut s'avérer inutile,
+voire déraisonnable, par exemple si elle coûte proportionnellement trop cher, ou encore si
+elle nécessiterait un délai démesuré pour le poursuivant (ATF 110 III 65 ; Foëx,
+in Staehelin et alii, Basler Kommentar, Bundesgesetz über Schuldbetreibung und Konkurs I, 2
+e
+éd., nn. 14 et 15 ad art. 97 SchKG ; Gilliéron, op. cit., n. 21 ad art. 97). L’expertise
+servant à garantir une estimation aussi précise que possible, son but ne peut être atteint
+dans un délai utile que s’il existe des critères d’estimation reconnus (ATF 101
+III 32 consid. 2b, JdT 1977 II 3 ; CPF 3 mars 2014/8).
+b)
+En l’espèce, les biens à estimer sont des actions non cotées en bourse.
+L’Office, suivi par le premier juge, les a estimées à leur valeur nominale, soit 100
+fr. par action, ce qui représente 10’000 fr. pour les cent actions détenues par M.________
+et 5000 fr. pour les cinquante actions détenues par X.________.
+On ne saurait s’écarter de cette appréciation sur la base des documents produits par
+les recourants, et notamment du document intitulé «
+hypothèse
+ayant servi de base à la préparation du bilan de l’exercice au 31 décembre
+2016 & 2017
+» : ce document a en effet
+été établi pour les besoins de la cause par les plaignants eux-mêmes et n’a
+donc absolument aucune valeur probante. Il apparaît en outre que l’évaluation de l’Office
+constitue un maximum. En effet, les recourants reconnaissent eux-mêmes, dans leur plainte, que la
+société F.________ SA n’a jamais pris son plein essor et qu’elle ne dispose pas
+de fonds, ni de liquidités, ni de compte en Suisse, ni de biens immobiliers. Ils ont également
+produit une attestation rédigée par un notaire le 29 janvier 2019 qui confirme que la société
+en cause n’a pratiquement pas d’activité lucrative à ce jour. L’autorité
+fiscale fribourgeoise a par ailleurs considéré que la valeur fiscale de ces actions était
+nulle. Dans ces circonstances, l’existence d’une offre émanant d’un mystérieux
+Etat étranger pour l’achat d’un actif d’une valeur de 599'508'195 fr. valorisant
+l’action à 400'000 fr. contredit les propres déclarations des recourants dans leur plainte
+du 29 novembre 2018, ainsi que les documents officiels produits et apparaît comme totalement
+fantaisiste. En conséquence, il n’y a pas lieu de procéder à des mesures d’instruction
+supplémentaires et l’évaluation de l’Office doit être confirmée.
+Dans la mesure où la valeur de la créance en poursuite s’élevait, le 17 juillet
+2018, à 36'590 fr. 85 en capital, frais et intérêts, les limites posées à l’art.
+97 al. 2 LP ont été respectées.
+III.
+En conclusion, le recours doit être rejeté
+et la décision confirmée.
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme M.________,
+‑
+M. X.________,
+–
+M. K.________
+-
+M. le Préposé à l’Office des poursuites du district de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+Le greffier :
