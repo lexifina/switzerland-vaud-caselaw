@@ -1,0 +1,483 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___27"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 27"
+decided: "2019-06-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7230356"
+cites_law: ["switzerland/bund/acts/101/art-112.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/831.10/art-020.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 27
+
+## Regeste
+
+ABUS DE DROIT, RENTE DE VIEILLESSE, INSAISISSABILITÉ | 2 al. 2 CC, 92 al. 1 ch. 9a LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 19.06.2019 Plainte / 2019 / 27
+
+ABUS DE DROIT, RENTE DE VIEILLESSE, INSAISISSABILITÉ | 2 al. 2 CC, 92 al. 1 ch. 9a LP
+
+TRIBUNAL
+CANTONAL
+FA18.049431-190473
+26
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+19 juin 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+92 al. 1 ch. 9a LP et 2 al. 2 CC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+V.B.________
+,
+à [...], contre la décision rendue le 14 mars 2019, à la suite de l’audience du
+17 janvier 2019, par le Président du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, admettant la plainte déposée par
+X.B.________
+,
+à [...], contre l’
+Office
+des poursuites du district de Lausanne
+, dans le
+cadre d’une poursuite exercée à son instance contre le recourant.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le divorce des époux V.B.________ et X.B.________ a été prononcé par jugement rendu
+le 24 novembre 1993 par le Président du Tribunal civil du district de Lausanne, ratifiant une convention
+sur les effets accessoires du divorce qui prévoyait notamment que V.B.________ verserait à
+X.B.________ une pension après divorce de 1'800 fr. par mois.
+Lors d’une audience du 1
+er
+juillet 2014 tenue dans le cadre d’une procédure de modification du jugement de divorce ouverte
+par demande de V.B.________, les parties ont signé une convention modifiant ledit jugement en ce
+sens que la pension due à X.B.________ était réduite à 700 fr. par mois, dès
+le 1
+er
+juin
+2014. V.B.________ s’est en outre reconnu débiteur envers son ex-épouse d’un arriéré
+de pensions de 102'831 fr. pour les mois de mars 2008 à novembre 2013, montant qu’il s’est
+engagé à lui verser au plus tard le 31 décembre 2014. A titre liminaire, il a été
+« rappelé que V.B.________ est à la retraite depuis 5 ans » et « a
+pour seul revenu actuel une rente de l’assurance vieillesse et survivant ».
+Pour les mois de janvier à avril 2016, le débiteur n’a versé que 300 fr. par mois
+à la créancière. Celle-ci a introduit une poursuite contre lui, à laquelle il n’a
+pas fait opposition, en paiement de l’arriéré de 1'600 fr., plus intérêts (commandement
+de payer n° 7'861'045 de l’Office des poursuites du district de Lausanne notifié le 2
+mai 2016).
+Le 28 septembre 2016, V.B.________ a déposé une nouvelle demande de modification du jugement
+de divorce, concluant à la suppression de sa contribution à l’entretien de son ex-épouse
+avec effet au 30 août 2016. Cette demande a été rejetée par jugement du Tribunal
+civil de l’arrondissement de Lausanne du 8 décembre 2017, confirmé par arrêt de
+la Cour d’appel civile du Tribunal cantonal du 8 juin 2018, puis par arrêt du Tribunal fédéral
+du 30 juillet 2018.
+Pour les mois de décembre 2015 et de mai à novembre 2016, le débiteur n’a versé
+que 300 fr. par mois à la créancière, et pour le mois de décembre 2016, 1 franc.
+Celle-ci a introduit une poursuite contre lui en paiement de l’arriéré de 3'899 fr.,
+plus intérêts (commandement de payer n° 8’117'997 de l’Office des poursuites
+du district de Lausanne notifié le 21 décembre 2016). L’opposition formée par
+le poursuivi a été définitivement levée par prononcé de la Juge de paix du district
+de Lausanne du 29 juin 2017.
+Pour les mois de janvier à septembre 2017, le débiteur n’a versé que 1 franc par
+mois à la créancière. Celle-ci a introduit une poursuite contre lui en paiement de l’arriéré
+de 6’291 fr., plus intérêts (commandement de payer n° 8'495’759 de l’Office
+des poursuites du district de Lausanne notifié le 17 novembre 2017). L’opposition formée
+par le poursuivi a été définitivement levée par prononcé de la Juge de paix
+du district de Lausanne du 22 janvier 2018.
+b)
+Par ordonnance pénale du 7 mars 2018, le Ministère public de l’arrondissement de Lausanne,
+constatant que le débiteur n’avait « manifestement pas entrepris les efforts qu’on
+pouvait attendre raisonnablement de lui en vue de s’acquitter de la pension à laquelle il
+est tenu », l’a condamné à une peine pécuniaire de 120 jours-amende à
+30 fr., avec sursis pendant deux ans, pour violation de son obligation de contribuer à l’entretien
+de son ex-épouse pour la période des mois de décembre 2015 à février 2018.
+c)
+Le 25 septembre 2018, X.B.________ a requis de l’Office des poursuites du district de Lausanne
+(ci-après : l’Office), la continuation de la poursuite n° 8'495'759.
+Le 5 octobre 2018, le débiteur a été entendu par l’Office. Il a indiqué n’avoir
+personnellement plus d’activité lucrative, percevoir une rente AVS et vivre à l’entière
+charge de son épouse.
+Le 8 novembre 2018, l’Office a établi un acte de défaut de biens pour une créance
+totale de 7'979 fr. 35, intérêts et frais inclus, sur la base des observations suivantes :
+«
+Marié,
+père d’un enfant né en 2000, à charge. Rentier AVS, le débiteur perçoit
+une rente de Fr. 2'256.00 par mois, insaisissable conformément à l’art. 92 al. 1 ch.
+9a LP. Son épouse, travaille en qualité de chef de projet et réalise un salaire de Fr.
+7'000.00 par mois. Frais de logement (intérêt hypothécaire) Fr. 1'184.40 par mois. Assurances
+maladie Fr. 735.70 par mois pour toute la famille. Ne possède aucun bien de valeur ou de nature
+saisissable. Le bien immobilier est au nom de son épouse. Aucune saisie possible au sens de l’art.
+92 et 93 LP. A été rendu attentif aux conséquences pénales en cas de fausses déclarations.
+Aux termes de l’art. 92 al. 1 ch. 9a LP, les rentes au sens de l’art. 20 de la fédérale
+sur la vieillesse sont insaisissables. S’il en est ainsi, c’est parce que la Constitution
+(art. 112 al. 2 let. b Cst) dispose que ces rentes doivent couvrir les besoins de manière appropriée
+(ATF 130 II 400). Les rentes en question peuvent néanmoins entrer en ligne de compte dans le calcul
+de la saisie de revenus si le débiteur dispose d’autres sources de revenus (exemple rente
+LPP), ce qui n’est pas le cas en l’espèce. L’insaisissabilité instituée
+par l’art. 92 al. 1 ch. 9a LP a donc seulement pour effet que les rentes (AVS, AI, impotent) concernées
+ne peuvent être saisies. Dans le cas présent, le disponible de CHF 1'075.80 par mois dont bénéficie
+le couple n’apparaît nullement « très confortable » au pont de permettre
+à celui-ci de mener « un train de vie élevé » comme cela ressort de
+l’arrêt du TF cité (5A_265/2018 du 9 juillet 2018). Il est même inférieur au
+montant du disponible mentionné par le Tribunal fédéral. Au vu de ce qui précède,
+la rente AVS du poursuivi demeure absolument insaisissable en vertu des dispositions de l’art.
+92 al. 1 ch. 9a LP.
+»
+Le détail du calcul du minimum d’existence du débiteur est le suivant :
+Revenus
+Débiteur
+Fr.
+2’256.00
+Conjoint
+Fr.
+7'000.00
+Total
+Fr.
+9'256.00 (part débiteur : 24.37%)
+Charges
+Base
+mensuelle commune
+Fr.               1’700.00
+Supplément
+enfant commun
+Fr.                 600.00
+Loyer
+(intérêts hypothécaires)
+Fr.               1'184.40
+Frais
+de chauffage
+Fr.
+300.00
+Prime
+d’assurance maladie débiteur
+Fr.                 332.80
+Prime
+d’assurance maladie conjoint
+Fr.                 402.90
+Repas
+pris hors du domicile conjoint
+Fr.                 250.00
+Transport
+public au travail conjoint
+Fr.
+72.00
+Total
+Fr.              4'842.10 (part débiteur :
+24.37%)
+La part du débiteur sur les charges étant de 1'180 fr. 20, son disponible est de 1'075 fr.
+80. Celui de son épouse est de 3’338 fr. 10 (7'000 fr. – 3’361 fr. 90).
+d)
+Le 15 novembre 2018, X.B.________ a saisi le Président du Tribunal d’arrondissement de Lausanne,
+en sa qualité d’autorité inférieure de surveillance en matière de poursuites
+pour dettes et de faillite, d’une plainte contre l’acte de défaut de biens précité,
+concluant, avec suite de frais et dépens, à ce que la rente AVS de V.B.________ soit déclarée
+saisissable et à ce qu’il soit ordonné à l’Office d’exécuter la
+saisie pour le solde dû de 6'291 fr. relatif aux pensions des mois de janvier à septembre 2017,
+selon l’acte de défaut de biens du 8 novembre 2018, avec intérêt à 5% l’an
+dès le 15 avril 2017 et frais en sus. Outre l’acte de défaut de biens litigieux, elle
+a produit dix-neuf pièces sous bordereau, notamment les jugements, conventions, arrêts, commandements
+de payer, prononcés de mainlevée d’opposition, réquisition de continuer la poursuite
+et ordonnance pénale, ainsi qu’un extrait du Registre foncier de Lausanne relatif à l’immeuble
+en PPE propriété de l’épouse de V.B.________, W.B.________, soit une villa sur trois
+niveaux, avec garage et jardin, acquise par achat en 1999.
+Le président du tribunal a convoqué les parties à son audience du 17 janvier 2019
+et imparti aux intimés un délai au 11 janvier 2019 pour se déterminer sur la plainte.
+L’Office s’est déterminé le 9 janvier 2019, préavisant en faveur du rejet
+de la plainte.
+Par courrier du 11 janvier 2019, le conseil de V.B.________ a produit un lot de pièces sous bordereau
+relatifs à « la situation financière de [son] mandant et de son couple de manière
+plus générale ». Il a par ailleurs demandé la dispense de comparution personnelle
+de son client à l’audience, qui lui a été accordée.
+2.
+Par décision adressée pour notification aux parties le 14 mars 2019, le Président du Tribunal
+d’arrondissement de Lausanne, autorité inférieure de surveillance, a admis la plainte
+de W.B.________ (I), déclaré saisissable la rente AVS perçue par V.B.________ (II), ordonné
+à l’Office d’exécuter la saisie sur le solde dû par 6'291 fr., selon l’acte
+de défaut de biens du 8 novembre 2018, avec intérêt à 5% l’an dès le 15
+avril 2017 et frais en sus (III) et rendu sa décision sans frais ni dépens (IV).
+Le premier juge a rappelé que la rente AVS était en principe insaisissable, mais que l’abus
+de droit était réservé, notamment lorsque le débiteur profitait de fait d’un
+« train de vie élevé » grâce à son conjoint, notion qu’il
+ne fallait pas interpréter trop restrictivement, le but de l’insaisissabilité de la rente
+AVS étant de couvrir les besoins vitaux du débiteur et non de lui permettre de vivre dans l’aisance.
+En l’espèce, selon le calcul de l’Office, le revenu cumulé des époux leur
+laissait, après couverture totale des charges, un disponible de 4'413 fr. 90, alors qu’on
+pouvait constater que, s’il vivait seul, le débiteur n’aurait qu’un faible voire
+aucun disponible. En tout état de cause, dans la première procédure en modification du
+jugement de divorce, en 2014, le débiteur, qui percevait déjà l’AVS, avait accepté
+de fixer la pension à 700 fr. par mois, ce qui montrait qu’il estimait pouvoir payer ce montant.
+Par la suite, en 2016, il avait échoué à faire complètement supprimer la pension
+- faute d’avoir établi une péjoration de sa situation financière depuis le jugement
+du 1
+er
+juillet 2014. Il était donc manifestement abusif de sa part de se prévaloir de l’art.
+92 LP pour se dispenser de payer sa contribution d’entretien.
+3.
+Par acte du 25 mars 2019, V.B.________ a recouru
+contre cette décision, concluant à sa réforme en ce sens que la plainte est rejetée,
+sa rente AVS déclarée absolument insaisissable et l’acte de défaut de biens litigieux
+maintenu. Il a produit des pièces, dont plusieurs nouvelles, sous bordereau.
+La requête d’effet suspensif contenue dans le recours a été rejetée par décision
+du 29 mars 2019.
+Le 12 avril 2019, dans le délai imparti aux intimés pour ce faire, l’Office a déposé
+une réponse, préavisant en faveur de l’admission du recours.
+La plaignante et intimée X.B.________ a produit des déterminations le 15 avril 2019, déclarant
+maintenir les conclusions de sa plainte. Elle a requis la production d’une pièce en mains
+de W.B.________, savoir un extrait des comptes bancaires dont celle-ci est titulaire ou ayant-droit économique.
+Elle a en outre sollicité l’octroi de l’assistance judiciaire, en annonçant l’envoi
+prochain du « formulaire adéquat » et des pièces justificatives. Ces documents
+ont été produits par l’avocate de l’intimée, accompagnés d’une
+liste détaillée de ses opérations en vue de la fixation de son indemnité de conseil
+d’office, par courrier du 6 mai 2019, dans le délai de quinze jours qui lui avait été
+fixé par avis de la présidente de la cour de céans du 25 avril 2019.
+En droit :
+I.
+a)
+Déposé en temps utile (art. 18 al.
+1 LP [loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1] et 28 al. 1
+LVLP [loi vaudoise d'application de la LP ; RSV 280.05]) et suffisamment motivé (TF 5A_118/2018
+du 7 février 2018 consid. 4.1), le recours est recevable. Il en va de même des pièces
+produites à son appui, y compris des pièces nouvelles (art. 28 al. 4 LVLP).
+b)
+Les réponses de l’Office et de l’intimée sont recevables (art. 31 al. 1 LVLP).
+c)
+La cour de céans, autorité de recours en matière de plainte LP, peut ordonner des mesures
+d’instruction, notamment la production de pièces (art. 23 al. 2 et 33 LVLP). Pour juger de
+la présente cause, toutefois, elle n’estime pas utile de connaître l’état
+des comptes de l’épouse du débiteur. La réquisition de production de pièce
+formulée par l’intimée est dès lors rejetée.
+II.
+a)
+Selon l'art. 92 al. 1 ch. 9a LP, sont insaisissables,
+en particulier, les rentes au sens de l’art. 20 LAVS (loi fédérale sur l’assurance-vieillesse
+et survivants ; RS 831.10). L’insaisissabilité de ces prestations provient de ce que
+l’art. 112 al. 2 let.
+b
+Cst. (Constitution fédérale ; RS 101) dispose qu’elles doivent couvrir les besoins
+vitaux de manière appropriée. Ainsi, les rentes servies sur la base de la LAVS constituent
+des exceptions au principe selon lequel des prestations destinées à remplacer un revenu sont
+relativement saisissables en application de l'art. 93 LP. Le législateur a considéré,
+suivant en cela le Conseil fédéral, qu'aussi longtemps que les prestations du premier pilier
+n'atteindraient pas leur but, c'est-à-dire couvrir les besoins vitaux dans une mesure appropriée,
+elles devaient être déclarées absolument insaisissables (ATF 135 III 20 consid. 4.1 et
+les réf. citées). En principe, cette solution est aussi valable en cas de dépassement
+du minimum vital par suite du cumul de plusieurs prestations différentes absolument insaisissables,
+voire d'une seule prestation de cette nature; de telles prestations échappent ainsi à la mainmise
+des créanciers, quand bien même elles excéderaient le minimum vital du débiteur et
+de sa famille (ATF 144 III 407 consid. 4.2.1 ; ATF 143 III 385 consid. 4.2 ; ATF 135 III 20
+consid. 5.1).
+L'insaisissabilité a une limite, qui découle de l'interdiction de l'abus de droit. Dans son
+Message du 8 mai 1991 relatif à la révision de la loi fédérale sur la poursuite pour
+dettes et la faillite, le Conseil fédéral a évoqué la situation où le débiteur
+invoque l'insaisissabilité absolue du premier pilier qui représente son unique source de revenu
+« accessible » (« du fait, par exemple, (...) que l'ayant droit n'est associé
+qu'en fait au niveau de vie élevé de son conjoint »); en pareil cas, le créancier
+peut se prévaloir de l'interdiction de l'abus de droit au sens de l'art. 2 al. 2 CC, car « les
+règles de l'insaisissabilité absolue sont également soumises au principe de la bonne foi »
+(FF 1991 III 89). La jurisprudence s'est ralliée expressément à cet avis (ATF 144 III
+407 consid. 4.2.2 et les références citées).
+Le moyen pris de l'abus de droit ne vise pas à écarter de façon générale l'application
+de normes juridiques à certaines situations, mais invite le juge à tenir compte des particularités
+de l'espèce lorsque, en raison des circonstances, l'application ordinaire de la loi ne se concilie
+pas avec les règles de la bonne foi. De surcroît, l'abus de droit n'est réprouvé
+que s'il est « manifeste », de sorte qu'il doit être admis restrictivement.
+Le Tribunal fédéral ne dit pas autre chose lorsqu'il conclut à un comportement abusif
+du débiteur qui mène un « grand train de vie » grâce aux revenus ou
+à la fortune de son conjoint, alors qu'il n'est lui-même au bénéfice que de ressources
+totalement insaisissables sous l'angle de l'art. 92 al. 1 ch. 9a LP (ATF 144 III 407 consid. 4.2.3 et
+les réf. cit.).
+b)
+La seule question litigieuse en l’espèce est celle de savoir si le recourant commet un abus
+de droit en se prévalant de l’insaisissabilité de sa rente AVS, compte tenu de sa situation
+financière d’ensemble, en particulier du train de vie mené grâce à son épouse.
+Les parties divergent sur la similarité ou au contraire la différence de la situation avec
+celle qui prévalait dans l’ATF 144 III 407. Dans le cas jugé en l’occurrence, la
+débitrice et son époux réalisaient des revenus mensuels totaux de 9'771 fr. 85, soit 117'262
+fr. 20 par année, et jouissaient d'un usufruit gratuit et viager sur une unité d'étage
+leur permettant de disposer d'un « triplex » (avec cave et place de parc dans un
+garage) ; le mari était propriétaire d'une voiture. Les charges du couple s'élevaient
+à 7'656 fr. 75 par mois, de sorte qu'il subsistait un disponible mensuel de 2'115 fr. 10, qui serait
+de 3'365 fr. 10 dès le mois de mars 2019, lorsque le mari aurait réglé ses arriérés
+d'impôts. Le Tribunal fédéral a considéré que la recourante ne menait pas un
+« grand train de vie », grâce aux revenus de son conjoint, au point que l'insaisissabilité
+absolue de sa rente AVS contrevienne manifestement aux règles de la bonne foi au sens de l'art.
+2 al. 2 CC.
+aa)
+Le
+recourant fait valoir que son fils majeur est totalement
+à sa charge en attendant d’éventuelles
+mesures de l’AI, alors que le calcul opéré par l’Office ne tient compte que du
+montant de base pour l’enfant, à l’exclusion de sa prime d’assurance maladie et
+de ses frais de transport. S’agissant de la jurisprudence susmentionnée, il fait valoir que
+sa propre situation ne serait en tout cas pas meilleure : son couple a un enfant à charge et
+vit dans une villa jumelée dont les charges se composent selon lui de 588 fr. d’intérêts,
+1'000 fr. d’amortissement, 300 fr. de frais de chauffage, 1'500 fr. de frais d’entretien
+et de réparation et 52 fr. de charges de PPE, tandis que le couple concerné par la jurisprudence
+en question était sans enfant et jouissait d’un usufruit viager gratuit dans un appartement
+en triplex. Il relève aussi que dans cet arrêt, le Tribunal fédéral a tenu compte
+de l’impôt, ce qui n’a pas été fait dans son cas. Il conclut de ces éléments
+que l’autorité inférieure devait retenir qu’il ne menait pas un train de vie élevé.
+Le recourant reproche ensuite au premier juge de lui avoir opposé le fait qu’il avait accepté
+en 2014 de continuer à payer une pension de 700 fr. par mois. Il expose avoir accepté pour
+des motifs tactiques, craignant un rejet de sa demande de modification du jugement de divorce qui l’aurait
+contraint de continuer à payer une pension de 1'800 fr. par mois à l’intimée ;
+il aurait également tenu compte du fait qu’il pouvait « compter sur sa rente AVS
+pour ne pas être totalement à la charge de son épouse, puisqu’en principe, une telle
+rente est absolument insaisissable » ; en outre, à l’époque, son enfant
+représentait une charge financière moins lourde.
+Enfin, le recourant fait valoir que, même en cas de train de vie confortable, saisir la rente AVS
+n’est qu’une faculté de l’office des poursuites et non une obligation. En l’occurrence,
+le premier juge n’aurait pas examiné cette question et n’aurait laissé aucune marge
+de manœuvre à l’Office. La décision attaquée aboutirait en définitive
+à un résultat choquant, revenant à faire assumer à son épouse actuelle, avec
+qui il est marié depuis vingt-quatre ans, ses obligations envers son ex-épouse, dont il a divorcé
+il y a vingt-six ans.
+bb)
+L’Office
+rejoint le recourant dans le constat que le recourant ne mène pas un grand train de vie avec son
+épouse. Il rappelle que son calcul ne tient compte que du strict minimum vital. En substance, il
+estime que l’intimée n’a pas établi l’existence d’un abus de droit.
+cc)
+De
+son côté, l’intimée relève que le calcul de l’Office tient compte d’intérêts
+hypothécaires à concurrence de 1'184 fr., alors qu’ils ne sont que de 588 fr. selon les
+chiffres du recourant lui-même. Elle fait valoir que les allégations du recourant au sujet
+de ses charges s’écartent en vain du calcul du minimum vital établi par l’Office.
+En particulier, l’enfant devrait être assumé au-delà de la base mensuelle par des
+allocations familiales ou des prestations AI ; les charges d’entretien de l’immeuble
+ne constituent pas des charges fixes entrant dans le minimum vital. L’intimée relève
+par ailleurs que les pièces nouvelles produites par le recourant permettent de constater que le
+couple est en mesure d’épargner sous la forme d’amortissement de la dette hypothécaire
+et de cotisation auprès d’une assurance-vie, et qu’il dispose d’une voiture, ce
+qui n’a pas été annoncé à l’Office au moment de la saisie. Il résulte
+en outre du « certificat fiscal d’intérêts hypothécaires annuels »
+(pièce 10 produite par le recourant) que le recourant est codébiteur du prêt immobilier.
+Comparant le cas d’espèce à celui de l’ATF 144 III 407, l’intimée relève
+que dans les deux cas, le couple payait les intérêts hypothécaires, contrairement à
+ce que soutient le recourant ; elle observe que le disponible calculé dans la présente
+cause – plus de 4'000 fr. pour le couple – est le double de celui retenu dans l’arrêt
+précité. Elle fait valoir qu’il faudrait tenir compte de toute la fortune du conjoint
+du débiteur et requiert pour cela production des relevés des comptes bancaires de W.B.________.
+Enfin, l’intimée relève que dans les procédures civiles et pénales qui ont
+opposé les parties, les juges ont estimé que le recourant était en mesure de s’acquitter
+de son obligation d’entretien de 700 fr. par mois. Il serait dès lors choquant qu’on
+lui permette de s’y soustraire en invoquant l’insaisissabilité de sa rente AVS.
+c)
+Le
+cas présent est similaire à celui de l’ATF 144 III 407, si l’on tient compte des
+charges ordinaires et non seulement du minimum vital, sans pour autant prendre en compte toutes les charges
+relatives à l’enfant majeur. On a affaire à un couple sans enfant mineur à charge,
+disposant d’un immeuble et d’une voiture. Son train de vie peut être qualifié de
+confortable, mais pas de luxueux, et l’on doit ainsi admettre avec l’Office et le recourant
+que ce dernier ne mène pas un « grand train de vie ».
+En l’espèce, toutefois, c’est dans le fait même que le recourant ne dispose plus
+que d’une rente insaisissable que réside l’abus de droit, dès lors qu’il
+s’est délibérément mis dans cette situation. Dans sa demande du 28 septembre 2016
+tendant à la suppression de la pension de l’intimée, le recourant a allégué
+que ses fonds de deuxième piler avaient servi à alimenter une police de prévoyance libre
+troisième pilier B de sa seconde épouse ; il a d’ailleurs également allégué
+avoir dû utiliser « le solde » de cette police pour payer un arriéré
+de pensions à l’intimée (cf. allégués 12 et 13 de la demande (pièce 15
+produite par la plaignante)). De toute évidence, le reste de ses ressources a servi à aider
+son épouse à acquérir l’immeuble dans lequel vit le couple, ne serait-ce que pour
+fournir une garantie telle qu’une assurance-vie, puisque le recourant est codébiteur du crédit
+hypothécaire, alors que seule son épouse est propriétaire de l’immeuble. Il est
+ainsi malvenu de soutenir qu’il est choquant d’exiger de la seconde épouse qu’elle
+assume l’entretien de la première. A cela s’ajoute l’argument selon lequel il
+a accepté en 2014 de payer une pension de 700 fr. parce qu’il pouvait « compter
+sur sa rente AVS pour ne pas être totalement à la charge de son épouse, puisqu’en
+principe, une telle rente est absolument insaisissable », qui laisse penser qu’il misait
+déjà sur le caractère insaisissable de ses revenus pour pouvoir éventuellement échapper
+aux obligations auxquelles il souscrivait. Ainsi, alors que tous les juges intervenus dans les procédures
+tant civiles que pénales qui ont divisé les parties ont estimé que le recourant pouvait
+payer la pension due à l’intimée - appréciation que le résultat du calcul de
+l’Office ne contredit pas -, leurs décisions ne pourraient être exécutées faute
+de pouvoir saisir le montant de la pension au profit de la créancière, dont la situation financière
+est pourtant bien plus modeste que celle du débiteur. Ce résultat est choquant. Pour les motifs
+précités, les conditions d’un abus de droit de droit manifeste sont réalisées.
+III.
+Il découle de ce qui précède que la rente AVS du recourant est saisissable à concurrence
+de 1'075 fr. 80 par mois.
+Le recours doit par conséquent être rejeté et le prononcé attaqué confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP ; 61 al. 2 let.
+a et 62 al. 2 OELP (ordonnance sur les émoluments perçus en application de la LP ; RS
+281.35).
+L’intimée obtient gain de cause et son indigence est établie par les pièces produites
+à l’appui de sa requête d’assistance judiciaire gratuite ; par conséquent,
+cette assistance lui est accordée sous la forme de la désignation comme conseil d’office
+de son avocate, Me Muriel Vautier (art. 1 al. 2 RAJ [règlement sur l’assistance judiciaire
+en matière civile ; BLV 211.02.3]). Une indemnité de 795 fr. est allouée à ce
+conseil pour quatre heure et vingt-cinq minutes de travail, conformément à la liste des opérations
+produite (art. 2 al. 1 let. a et 3 al. 1 RAJ), plus 2% de débours (art. 3bis RAJ), plus TVA
+à 7,7%, soit au total 873 fr. 30.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+La requête d’assistance judiciaire formée par X.B.________ est admise et Me Muriel Vautier,
+avocate, désignée comme son conseil d’office pour la procédure de recours, avec
+effet au 15 avril 2019.
+IV.
+L’indemnité d’office de Me Muriel Vautier, conseil d’office de l’intimée,
+arrêtée à 873 fr. 30 (huit cent septante-trois francs et trente centimes)
+,
+débours et TVA compris, est mise à la
+charge de l’Etat.
+V.
+La bénéficiaire de l’assistance judiciaire X.B.________ est, dans la mesure de l’art.
+123 CPC, tenue au remboursement de l’indemnité du conseil d’office mise à la charge
+de l’Etat, selon le chiffre IV qui précède.
+VI.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Gilles Miauton, avocat (pour V.B.________),
+‑
+Me Muriel Vautier, avocate (pour X.B.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
