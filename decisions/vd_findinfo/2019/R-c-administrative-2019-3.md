@@ -1,0 +1,273 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2019___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2019 / 3"
+decided: "2019-07-09"
+published: "2019-07-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-administrative/20190701090719159_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/171.21/art-014.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md"]
+---
+
+# VD Findinfo Réc-administrative / 2019 / 3
+
+## Regeste
+
+RÉCUSATION, ADMISSION DE LA DEMANDE | 11 al. 3 LPA-VD, 9 let. b LPA-VD, 9 let. e LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 09.07.2019 Réc-administrative / 2019 / 3
+
+RÉCUSATION, ADMISSION DE LA DEMANDE | 11 al. 3 LPA-VD, 9 let. b LPA-VD, 9 let. e LPA-VD
+
+TRIBUNAL
+CANTONAL
+FI.2019.0097
+25
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 9 juillet 2019
+_______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+9 let. b et e, 11 al. 3 LPA-VD
+Vu le recours déposé auprès de la Cour de droit administratif et public du Tribunal cantonal
+(ci-après : CDAP) le 1
+er
+juin 2019 par
+W.________
+contre la décision rendue le 29 avril 2019 par l’
+ADMINISTRATION
+CANTONALE DES IMPOTS
+(ci-après : ACI),
+qui a rejeté la réclamation et a confirmé la décision de perception du 31 janvier
+2019,
+Vu l’avis d’enregistrement de la cause sous la référence FI. [...] du 4 juin 2019
+signé par le Juge instructeur D.________ et adressé à W.________ par pli recommandé,
+lequel n’a pas été retiré par la prénommée et lui a derechef été
+adressé par pli simple le 17 juin 2019,
+vu la demande de récusation de ce magistrat, présentée par W.________
+le 24 juin 2019, dans laquelle la prénommée
+soutient que le magistrat intimé aurait déjà tranché la question de la solidarité
+des époux pour le paiement des impôts dans un arrêt du 6 août 2018, rendu dans la
+cause FI. [...],
+vu le courrier du 26 juin 2019 du Juge instructeur prénommé, dans lequel il a déclaré
+s’en remettre à justice quant au bien-fondé de la demande de récusation,
+vu l’arrêt du 19 décembre 2016, rendu dans la cause [...], dans lequel la CDAP –
+composée d’ [...], présidente, de [...] et [...], juges cantonaux, et de [...], greffière
+– a considéré que W.________ apparaissait, dans le cadre d'un examen sommaire, bien débitrice
+de l'impôt cantonal et communal relatif aux périodes fiscales 2004 à 2009,
+vu l’arrêt CA 7 juillet 2017/27, rendu dans la cause [...], dans lequel la Cour de céans
+a admis la demande de récusation de la Juge instructrice [...] présentée par W.________,
+au motif que cette magistrate avait d’ores et déjà, au terme d’un examen sommaire,
+pris position sur la question de la solidarité entre époux dans la cause [...], ce qui était
+de nature à faire naître une apparence qui pouvait faire douter de son impartialité, et
+a transmis le dossier de la cause au président de la deuxième CDAP pour désignation d’un
+nouveau juge instructeur,
+vu les considérants 4b/aa, 4b/bb et 4c de l’arrêt du 6 août 2018, dans lequel la
+CDAP, présidée par D.________, a considéré qu’en ce qui concernait l’impôt
+fédéral direct, W.________ devait répondre des montants d'impôt dus par le couple
+pour les périodes 2004 à 2009, soit lorsque celui-ci faisait encore ménage commun, mais
+seulement à concurrence de sa part à l’impôt global. La CDAP a précisé
+que cette part devrait être déterminée ultérieurement, une fois les taxations entrées
+en force (cf. TF 2C_592/2011). S’agissant de l’impôt cantonal et communal, la CDAP a
+retenu qu’il importait peu que les contribuables aient vécu de façon séparée
+à compter du 17 décembre 2010. En effet, en vertu de l'art. 14 al. 1 LI (loi sur les impôts
+directs cantonaux du 4 juillet 2000 ; BLV 642.11), ils répondaient de façon solidaire
+du paiement de l’impôt dû pour les années durant lesquelles ils avaient fait ménage
+commun, y compris les rappels d’impôt afférents à cette période. La CDAP a
+ajouté que sur le plan de la procédure, conformément à la pratique de l'ACI, la question
+de la solidarité fondée sur l'art. 14 al. 1 LI ferait l'objet d'une décision ultérieure,
+dans le cadre de la perception des montants d'impôt dus sur la base des décisions de rappel
+d'impôt et de taxation entrées en force. Toutefois, dès lors que l’ACI avait abordé
+le problème de la solidarité dans la motivation de son prononcé et par économie de
+procédure, la CDAP s’est penchée sommairement sur la question de la solidarité et
+a retenu qu’il n’y avait pas lieu de s’écarter de la jurisprudence du Tribunal
+fédéral (cf. TF 2C_723/2015) qui retenait que l’application de l’art. 14 al. 1
+LI ne conduisait pas à un résultat discriminatoire,
+vu l’arrêt du 8 novembre 2018 (TF 2C_766/2018), dans lequel la IIe Cour de droit public du
+Tribunal fédéral a considéré que la CDAP avait expliqué à satisfaction
+pourquoi, à ce stade, il n'était pas question d'examiner la question de la solidarité
+des époux. Elle a retenu que la CDAP avait écarté cette question aussi bien en ce qui
+concernait l'impôt fédéral direct (cf. TF 2C_592/2011 du 8 décembre 2011 consid.
+2) que les impôts cantonal et communal (cf. art. 14 al. 1 LI, qu'il fallait comprendre en ce sens
+que la solidarité des époux subsiste et se prolonge après leur séparation, pour la
+part afférente à la vie commune [cf. TF 2C_723/2015 du 18 juillet 2016]). Elle a encore précisé
+que la CDAP avait rappelé la jurisprudence du Tribunal fédéral rendue en matière
+d'égalité des sexes (TF 2C_723/2015 du 18 juillet 2016) et avait exclu tout caractère
+discriminatoire de l'application faite par les autorités vaudoises de l'art. 14 al. 1 LI,
+vu les pièces du dossier,
+attendu que le recours déposé par le 1
+er
+juin 2019 par W.________ est pendant devant la CDAP,
+que les art. 9 à 12 LPA-VD (loi sur la procédure administrative du 28 octobre 2008 ; BLV
+173.36) sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal
+du 13 novembre 2007 ; BLV 173.31.1), la Cour administrative est compétente pour statuer sur
+la demande de récusation présentée le 24 juin 2019 à l'encontre du Juge cantonal
+D.________,
+attendu qu’en vertu de l’art. 10 al. 2 LPA-VD, les parties qui souhaitent demander la récusation
+d’une autorité ou de l’un de ses membres doivent le faire dès la connaissance du
+motif de récusation (ATF 132 II 485 consid. 4.3),
+qu’en l’espèce, la demande de récusation a été présentée le
+24 juin 2019,
+que la demande de récusation a ainsi été présentée en temps utile, que l'on
+considère que W.________ ait eu connaissance du motif de récusation à l'échéance
+du délai de garde du pli recommandé du 4 juin 2019 ou à la réception du pli simple
+du 17 juin 2019,
+que la demande de récusation a ainsi été présentée en temps utile,
+qu’elle satisfait en outre aux exigences de forme,
+qu’elle est dès lors recevable ;
+attendu que selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (ATF 116
+Ia 14 consid. 4, trad. et rés. in JdT 1991 IV 157 ; ATF 115 Ia 172 consid. 3),
+que l'art. 6 §1 CEDH (Convention de sauvegarde des droits de l’homme et des libertés
+fondamentales du 4 novembre 1950 ; RS 0.101) garantit le droit à être jugé par un
+tribunal indépendant et impartial, établi par la loi (ATF 127 I 44 consid. 2),
+que l'art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999 ; RS 101) n'a, de ce point de vue, pas une portée différente de l'art. 6 §
+1 CEDH, toute personne dont la cause doit être jugée dans une procédure judiciaire ayant
+droit à ce que sa cause soit portée devant un tribunal établi par la loi, compétent,
+indépendant et impartial (TF 1C_235/2008 du 13 mai 2009 consid. 3.1),
+qu'en matière de récusation, même les apparences peuvent revêtir de l'importance,
+pour autant qu'elles fassent redouter une attitude partiale du ou des magistrats (ATF 134 I 20 consid.
+4.2), qu'elles soient objectives et résultent de faits déterminés (ATF 131 I 24 consid.
+1.1 ; ATF 124 I 121 consid. 3a, JdT 1999 I 159 ; ATF 115 Ia 172 consid. 3),
+que les impressions purement individuelles d'une des parties au procès ne sont en revanche pas décisives
+(ATF 134 I 238 consid. 2.1 ; ATF 131 I 24 consid. 1.1),
+qu'en particulier, la garantie du juge impartial s'oppose à ce que des circonstances extérieures
+au procès puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur
+ou au préjudice d'une partie (ATF 131 I 24 consid. 1.1),
+que la participation d’un juge à des procédures distinctes posant les mêmes questions
+n’est pas contraire à la Constitution et à la CEDH (TF 1C_477/2011 du 16 janvier 2012
+consid. 2.1 et les réf. citées),
+que le cumul des fonctions n’est alors admissible que si le magistrat, en participant à des
+décisions antérieures relatives à la même affaire, n’a pas déjà pris
+position au sujet de certaines questions de manière telle qu’il ne semble plus à l’avenir
+exempt de préjugés et que, par conséquent, le sort du procès n’apparaisse plus
+indécis (ibid.),
+que pour en juger, il faut tenir compte des faits, des particularités procédurales, ainsi que
+des questions concrètes soulevées au cours des différents stades de la procédure
+(ATF 126 I 168 consid. 2a ; ATF 120 Ia 82 consid. 6),
+que par ailleurs, le seul fait qu’un juge ait déjà rendu une décision défavorable
+au recourant ne suffit pas pour admettre un motif de prévention (ATF 114 Ia 278 consid. 1),
+qu’enfin, la connaissance approfondie du dossier par le juge n’implique pas un préjugé
+empêchant de le considérer comme impartial au moment du jugement au fond (TF 1C_477/2011 du
+16 janvier 2012 consid. 2.1),
+qu'il n'est en particulier pas judicieux de déroger à la pratique installée au sein de
+la CDAP d'attribuer au même juge deux dossiers dont le complexe de faits est semblable, du moment
+que son appréciation intervient avec le jugement et s'appuie sur les éléments produits
+et débattus en procédure, la garantie du juge impartial étant de la sorte respectée
+(CA 21 septembre 2011/20, confirmé
+in
+TF 1C_477/2011 du 16 janvier 2012 consid. 2.2 ; CEDH du 9 novembre 2006, Sacilor Lormines c.
+France § 61),
+qu’il n'appartient en outre pas au juge de la récusation d'examiner la conduite du procès
+à la façon d'un organe de surveillance (TF 4A_323/2010 du 3 août 2010 consid. 2.2),
+qu'en l'espèce, le magistrat intimé est appelé à statuer dans une cause concernant
+certes les mêmes parties, mais distincte de la précédente,
+qu’on ne se trouve dès lors pas dans le cas de récusation prévu à
+l’art.
+9 let. b LPA-VD, l’intervention dans une autre cause ne constituant pas, comme telle, un motif
+de récusation (cf. Bohnet, Commentaire romand, Code de procédure civile, 2
+e
+éd., 2019, n. 22 ad art. 47 CPC),
+que par ailleurs, le magistrat intimé agit dans tous les cas au même titre,
+qu’il convient dès lors d’examiner si les circonstances d’espèce le font
+apparaître comme prévenu de toute autre manière au sens de l’art. 9 let. e LPA-VD,
+que dans l’arrêt du 6 août 2018 rendu dans la cause FI. [...], la CDAP – composée
+de D.________, président, de [...] et [...], assesseurs, et de [...], greffier – a considéré
+que la question de la solidarité ne devait pas être tranchée à ce stade,
+que par arrêt du 8 novembre 2018, la IIe Cour de droit public du Tribunal fédéral a considéré
+que la CDAP avait expliqué à satisfaction pourquoi, à ce stade, il n'était pas question
+d'examiner la question de la solidarité des époux (cf. TF 2C_592/2011 du 8 décembre 2011
+consid. 2),
+que dans l’arrêt du 6 août 2018, la CDAP s’est toutefois penchée sommairement
+sur la question de la solidarité et a rappelé que conformément à l’art. 14
+al. 1 LI, les époux répondaient solidairement du paiement de l’impôt pour les années
+durant lesquelles ils faisaient ménage commun, y compris les rappels d’impôt afférents
+à cette période,
+que le recours déposé auprès de la CDAP le 1
+er
+juin 2019 par W.________ a pour fin de contester une décision sur réclamation de l’ACI
+qui a notamment pour objet la responsabilité solidaire des époux s’agissant du paiement
+des impôts cantonal et communal pour les périodes fiscales 2004 à 2009,
+qu’il s’agit dès lors d’une
+question juridique tranchée une première fois – certes au terme d’un examen sommaire
+– et qui se pose à nouveau, sur des faits semblables au cours de la même période
+et entre les mêmes parties, même s’il s’agit de deux recours différents contre
+deux décisions différentes,
+que le fait que le magistrat intimé ait déjà pris position sur la question de la solidarité
+entre époux pour la période fiscale considérée est de nature à faire naître
+une apparence qui pourrait faire douter de son impartialité,
+qu’au vu de ces éléments, les appréhensions de W.________ peuvent passer pour objectivement
+justifiées,
+que la demande de récusation du juge cantonal D.________ doit ainsi être admise et la cause
+déléguée à un autre juge, qui ne s’est pas déjà prononcé dans
+la cause [...], ni dans la cause [...],
+que la présente cause doit être renvoyée à la présidente de la section II de
+la CDAP pour désignation d’un nouveau juge instructeur ;
+attendu que le présent arrêt peut être rendu sans frais, ni dépens, la requérante
+n’étant pas assistée d’un conseil professionnel.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 24 juin 2019 par W.________ tendant à la récusation
+du Juge cantonal D.________ est admise.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- W.________, personnellement,
+- D.________, Juge cantonal, Cour de droit administratif et public,
+et communiqué par l'envoi de photocopies à :
+- Administration cantonale des impôts,
+- Administration fédérale des contributions,
+- [...], Juge cantonale, Présidente de la de la section II de la Cour de droit administratif et
+public.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF
+(art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans
+les trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
