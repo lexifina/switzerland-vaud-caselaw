@@ -1,0 +1,396 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 36"
+decided: "2019-07-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7277583"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-032.md", "switzerland/bund/acts/281.1/art-038.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-067.md", "switzerland/bund/acts/281.1/art-069.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 36
+
+## Regeste
+
+PLAINTE{LP}, RÉQUISITION DE POURSUITE, RETRAIT{VOIE DE DROIT}, QUITTANCE, COMPÉTENCE RATIONE LOCI, OFFICE DES POURSUITES | 17 LP, 32 al. 2 LP, 67 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.07.2019 Plainte / 2019 / 36
+
+PLAINTE{LP}, RÉQUISITION DE POURSUITE, RETRAIT{VOIE DE DROIT}, QUITTANCE, COMPÉTENCE RATIONE LOCI, OFFICE DES POURSUITES | 17 LP, 32 al. 2 LP, 67 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+FA18.043877-190555
+31
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 juillet 2019
+___________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Hack, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+17, 32 al. 2, 67 al. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Y.________
+,
+à [...], contre la décision rendue le 26 mars 2019, à la suite de l’audience du
+15 janvier 2019, par la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, admettant partiellement la plainte formée par la recourante contre
+le rejet de réquisition de l’
+Office
+des poursuites du district de la Riviera-Pays-d'Enhaut
+,
+à Vevey, dans la cause la divisant d’avec
+M.________
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+samedi 29 septembre 2018, Y.________, par son conseil, a adressé à l’Office des poursuites
+du district de la Riviera-Pays d’Enhaut (ci-après : l’Office) une réquisition
+de poursuite contre M.________ à l’adresse «  [...], [...] » portant sur
+la somme de 300'000 fr. avec intérêt à 5 % l’an dès le 14 août 2013 et
+indiquant comme titre de la créance ou cause de l’obligation «
+interruption
+de la prescription
+». Cette réquisition
+a été reçue par l’Office le lundi 1
+er
+octobre
+2018 à 7 h 29.
+b)
+Par
+courrier du 1
+er
+octobre 2018, adressé à l’Office par courriel et courrier A, Y.________ a retiré
+la réquisition de poursuite susmentionnée en expliquant qu’elle avait déposé
+celle-ci par précaution aux fins d’interruption de la prescription et a sollicité la
+délivrance d’un reçu de réquisition au sens de l’art. 67 al. 3 LP. Le courriel
+a été réceptionné par l’Office le 1
+er
+octobre 2018 à 10 h 57.
+2.
+Le 1
+er
+octobre 2018, l’Office a adressé à Y.________ un «
+avis
+de rejet de réquisition
+» n°
+10'410'421 comportant le libellé suivant :
+« (…)
+L’office soussigné n’a pu enregistrer votre réquisition de poursuite
+du : 01.10.2018
+contre : M.________
+pour les motifs ci-après :
+Débiteur parti hors arrondissement
+Le débiteur est parti le 31.03.2018 pour [...], [...], selon le registre cantonal des personnes.
+Office des poursuites compétent : Office des poursuites de la Sarine, Av. Beauregard 13, 1700
+Fribourg
+L’avis
+mentionnait un total de frais de 18 fr. 30, soit 13 fr. d’émoluments et 5 fr. 30 de débours.
+3.
+Par acte du 12 octobre 2018, Y.________ a déposé
+auprès du Président du Tribunal d’arrondissement de l’Est vaudois une plainte LP
+contre cet avis, en concluant, avec suite de frais, à son annulation, à ce qu’ordre soit
+donné à l’Office de transmettre, sans frais, comme objet de sa compétence, à
+l’Office des poursuites de la Sarine la réquisition de poursuite enregistrée sous n°
+10'410'421 et à ce qu’ordre soit donné à l’Office d’établir à
+son intention une attestation confirmant la réception de la réquisition de poursuite déposée
+le 29 septembre 2018.
+Par courriers recommandés du 2 novembre 2018, la présidente a cité les parties et l’Office
+à comparaître à l’audience du 15 janvier 2019.
+Dans ses déterminations du 25 octobre 2018, l’Office a conclu au rejet de la plainte.
+Par courrier du 11 janvier 2019, la plaignante a indiqué qu’elle ne se présenterait pas
+à l’audience et s’est déterminée sur l’écriture de l’Office
+du 25 octobre 2018.
+M.________, assisté de son conseil, a comparu à l’audience du 15 janvier 2019 à
+laquelle la plaignante et l’Office ont fait défaut. M.________ a conclu au rejet de la plainte.
+4.
+Par prononcé du 26 mars 2019, notifié
+à la plaignante le lendemain, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois, statuant en tant qu’autorité inférieure de surveillance, a admis très partiellement
+la plainte (I), a invité l’Office à établir un nouvel avis de rejet, à l’intention
+de la plaignante, en tous points conforme à l’avis objet de la plainte, sous réserve
+de la mention «
+L’Office
+soussigné rejette votre réquisition de poursuite du 29.09.2018 enregistrée sous n°
+10410421 / contre M.________ / (…) / Le présent avis annule et remplace celui du 01.10.2018
+»
+(II), a rejeté toutes autres ou plus amples conclusions (III) et a rendu la décision sans frais
+ni dépens (IV). En substance, le premier juge a considéré que l’Office n’avait
+pas à transmettre la réquisition de poursuite en cause à l’office des poursuites
+compétent à raison du lieu, dès lors que l’adresse du débiteur fournie par
+la plaignante était erronée et que les énonciations figurant dans la réquisition
+de poursuite ne permettaient pas de déterminer l’office compétent. L’Office avait
+donné à bien plaire les informations quant au domicile supposé de l’intimé,
+mais n’avait aucune obligation de transmettre la réquisition, ce d’autant moins que
+les informations dont il disposait dataient du mois de mars 2018. Le premier juge a admis que l’Office
+avait à juste titre refusé d’établir un reçu relatif à la réquisition
+de poursuite, pour le motif que dite réquisition, reçue le 1
+er
+octobre 2018, et le retrait de celle-ci du même jour, devaient être considérées comme
+une déclaration simultanée et contradictoire. Il a cependant jugé que l’avis de
+rejet de réquisition du 1
+er
+octobre 2018 devait être corrigé en tant qu’il indiquait que la réquisition de poursuite
+ne pouvait être enregistrée, alors qu’elle avait reçu le n° 10'410'421 et que
+le motif d’incompétence à raison du lieu avait été invoqué.
+5.
+Par acte du 8 avril 2019, la plaignante a recouru
+contre ce prononcé en concluant, avec suite de frais, à son annulation, à ce qu’ordre
+soit donné à l’Office de transmettre, sans frais, la réquisition de poursuite en
+cause et sa communication du 1
+er
+octobre 2018 retirant dite requête à l’Office des poursuites de la Sarine, comme objet
+de sa compétence, et à ce qu’ordre soit donné à l’Office d’établir
+une attestation à son intention confirmant qu’il a reçu la réquisition de poursuite
+en cause et qu’il l’a enregistrée sous n° 10'410'421. Elle a produit un bordereau
+de pièces.
+Dans ses déterminations du 17 avril 2019, l’Office s’est référé à
+ses déterminations de première instance.
+Dans ses déterminations du 30 avril 2019, l’intimé a conclu, avec suite de frais et dépens,
+au rejet du recours. Il a produit un bordereau de pièces.
+En droit :
+I.
+Déposé en temps utile, dans les dix jours suivant la notification du prononcé attaqué
+(art. 18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ;
+RS 281.1] et 28 al. 1 LVLP [loi du 18 mai 1955 d’application dans le canton de Vaud de la LP ;
+BLV 280.05]) et suffisamment motivé (TF 5A_118/2018 du 7 février 2018 consid. 4.1), le recours
+est recevable. Les pièces produites avec le recours sont recevables (art. 28 al. 4 LVLP).
+Il en va de même des déterminations de l’Office et de l’intimé, ainsi que
+des pièces produites par ce dernier (art. 31 al. 1 LVLP).
+II.
+a)
+Selon l’art. 67 al. 1 LP, la réquisition
+de poursuite est adressée à l’office par écrit ou verbalement. L’art. 67 al.
+3 LP prévoit qu’un reçu de la réquisition est délivré gratuitement au
+créancier qui en fait la demande. L’art. 69 al. 1 LP impose à l’office de rédiger
+un commandement de payer dès réception de la réquisition de poursuite. La poursuite commence
+par la notification du commandement de payer au débiteur (art. 38 al. 2 LP).
+Le créancier peut en tout temps retirer sa réquisition de poursuite (ATF 144 III 425 consid.
+2.3.4 ; ATF 83 III 7 ; OG Thurgau du 23 avril 1997, BlSchK 2000, p. 100 ; Kofmel Ehrenzeller, in
+: Staehelin/Bauer/Staehelin (éd.), Basler Kommentar SchKG I, 2
+e
+éd., n. 47 ad art. 67 LP et références), en particulier avant l’établissement
+du commandement de payer (Gilliéron, Commentaire de la loi fédérale sur la poursuite pour
+dettes et la faillite, n. 118 ad art. 67 LP). La doctrine et la jurisprudence parlent alors d’une
+poursuite silencieuse (« stille Betreibung ») (ATF 144 III 425 consid. 2.1 et référence).
+Le retrait s’effectue par une déclaration correspondante à l’office, déclaration
+qui n’a pas besoin d’être motivée (ATF 142 III 648 consid. 3.1 ; ATF 129 IIII 284
+consid. 3.1, JdT 2004 II 1), mais ne saurait être conditionnelle (Kren Kostkiewicz/Walder, SchKG
+Kommentar, n. 8 ad art. 67 LP ; Gilliéron, op. cit., n. 119 ad art. 67 LP et références).
+Le retrait de la réquisition de poursuite entraîne une inscription au registre des poursuites
+de la lettre E sous la rubrique résultat de la poursuite (art. 10 Oform [ordonnance du 5 juin 1996
+sur les formulaires et registres à employer en matière de poursuite pour dettes et de faillite
+et sur la comptabilité ; RS 281.31] ; ATF 142 III 648 consid. 3.1 et références), et la
+perception des émoluments prévus aux art. 16 al. 4 et 42 OELP (Ordonnance du 23 septembre 1996
+sur les émoluments perçus en application de la LP ; RS 281.35) (ATF 144 III 425 ; ATF
+142 III 648 consid. 3). La poursuite ayant fait l’objet d’un retrait de réquisition
+ne peut plus être communiquée à des tiers (art. 8a al. 3 let. c LP ; ATF 144 III 425 consid.
+2.1 ; ATF 142 III 548 consid. 3.1), le fait que le retrait ait eu lieu avant ou après le paiement
+par le débiteur ne jouant aucun rôle, puisque le créancier n’a pas besoin de motiver
+le retrait et que le stade de la poursuite au moment du retrait n’a aucune influence (ATF 129 III
+284 consid. 3.1 et références, JdT 2004 II 11).
+Dans un arrêt CPF 28 juin 2018/15, publié in JdT 2019 III 22 et in Blätter für Schuldbetreibung
+und Konkurs [BlSchK] 2018 p. 191, la Cour de céans s'est penchée sur un cas où la recourante
+avait simultanément déposé une réquisition de poursuite et une déclaration de
+retrait de celle-ci, accompagné d'un courrier exposant que le but de ce procédé était
+d'interrompre la prescription. Elle a considéré qu'il n'appartenait pas à l'autorité
+de surveillance en matière de LP de déterminer si ce procédé interrompait effectivement
+la prescription, question qui relevait du juge civil. Elle a retenu que l'autorité de surveillance
+n'avait pas à prendre en compte les motivations du requérant, à déterminer s'il cherchait
+à économiser des frais, si cette motivation était légitime et si elle méritait
+d'être protégée. Se référant à un arrêt du Tribunal fédéral
+relatif à un retrait d'opposition (TF 7B.256/2003 du 25 février 2004 consid. 2.1), elle a considéré
+que l'indication donnée à l'Office, selon laquelle sa réquisition avait pour but d'interrompre
+la prescription, n'avait aucune portée, à l'instar de la question de savoir si ce but serait
+atteint. Il appartenait uniquement à l'Office de déterminer le sens qu'il fallait donner aux
+réquisitions de la recourante qui, en requérant l'introduction d'une poursuite et en déclarant
+simultanément retirer cette réquisition, avait émis deux déclarations contradictoires,
+qu'il convenait de considérer comme s'annulant et ne signifiant rien, puisqu'elles n'indiquaient
+ni la volonté d'agir ni celle de poursuivre.
+L’arrêt paru aux ATF 144 III 425 semble admettre le dépôt d’une réquisition
+de poursuite accompagné d’une déclaration de retrait de celle-ci lorsqu’elle aura
+été enregistrée et une attestation délivrée. Cet arrêt a toutefois été
+rendu sur recours d’un office des poursuites, dont la qualité pour recourir n’existe
+que lorsque celui-ci agit comme organe du canton et fait valoir les intérêts du fisc ou que
+le litige a trait à l’application de l’OELP (ATF 134 III 136 consid. 2.3 ; TF 5A_8/2018
+du 21 juin 2018 consid. 1.2 et références, non publié aux ATF 144 III 425) et ne porte
+que sur la question de la tarification. Le Tribunal fédéral a d’ailleurs déclaré
+irrecevable, vu la limitation de la qualité pour recourir susmentionnée, un recours d’un
+office des poursuites contre une décision de l’autorité cantonale supérieure de
+surveillance admettant le dépôt simultané d’une réquisition de poursuite et
+d’une déclaration de retrait de celle-ci (TF 5A_535/2017 du 1
+er
+septembre 2017 consid. 1.2).
+De ces deux cas de figure (dépôt d’une réquisition et retrait simultané de
+celle-ci et dépôt d’une requête avec l’indication selon laquelle la poursuivante
+a la volonté de la retirer une fois celle-ci enregistrée et une attestation délivrée),
+il faut encore distinguer celui où le poursuivant dépose purement et simplement une réquisition,
+puis, ultérieurement et séparément, une déclaration de retrait, à des dates
+séparées ; dans ce troisième cas, l’office a matériellement le temps d’examiner
+s’il est compétent au sens des art. 46 ss LP et si la réquisition est conforme aux exigences
+de l’art. 67 LP.
+En résumé, il y a donc trois types de poursuites silencieuses (cf. pour le surplus : Peter,
+Interrompre la prescription par une poursuite, in BlSchK 2018, pp. 175 ss ; idem, La réquisition
+de poursuite et son retrait simultané, in BlSchK 2016, pp. 215 ss).
+b)
+En
+l’occurrence, le cas d’espèce est à ranger dans le troisième type de poursuite
+silencieuse. Or, la jurisprudence cantonale susmentionnée ne remet pas en cause le principe selon
+lequel la poursuite peut être retirée en tout temps, mais concerne uniquement le cas du dépôt
+simultané d’une réquisition de poursuite et de la déclaration du retrait de celle-ci.
+Elle n’exclut pas le cas qui nous occupe consistant à déposer une réquisition de
+poursuite, puis ultérieurement, avant l’établissement du commandement de payer, de la
+retirer, dès lors qu’on ne se trouve pas en présence d’une déclaration intrinsèquement
+contradictoire. Comme le relève la recourante, la simultanéité s'apprécie non pas
+en fonction de la réception de la réquisition et de son retrait par l'autorité, mais en
+fonction du moment où le poursuivant a émis ses déclarations. Il importe peu que l'Office
+ait reçu les deux déclarations le même jour, parce que la recourante a envoyé sa
+réquisition par courrier et sa déclaration de retrait par télécopie. A titre superfétatoire,
+on relève que le pli contenant la réquisition a été retiré par l'Office à
+7h29, alors que le retrait par télécopie est intervenu ultérieurement à 10h50.
+Le recours doit être admis sur ce point.
+c)
+La
+recourante conclut à cet égard que l'Office soit invité à établir une attestation
+à son attention confirmant qu'il a reçu la réquisition de poursuite déposée
+le 29 septembre 2018 à l'encontre de M.________ pour un montant de 300'000 fr., avec intérêt
+à 5% l'an dès le 14 août 2013, et l'avoir enregistré sous no 10'410’421. Dès
+lors que l’art. 67 al. 3 LP donne un droit au poursuivant à obtenir un reçu attestant
+du dépôt de sa réquisition de poursuite, qu’une telle réquisition a été
+déposée et que l’Office en a même examiné la validité, une attestation
+devait être délivrée. Il y a donc lieu de réformer la décision en ce sens.
+III.
+La recourante soutient que l'Office aurait dû transmettre d'office la réquisition de poursuite
+en cause à l'Office des poursuites de la Sarine.
+a)
+Selon
+l'art. 32 al. 2 LP, le délai est observé lorsqu'un office des poursuites ou un office des faillites
+incompétent est saisi en temps utile; celui-ci transmet la communication sans retard à l'office
+compétent.
+Par communication, la loi vise les actes de procédure que la LP prévoit directement, notamment
+les réquisitions de poursuite (Erard, in Dallèves/Foëx/ Jeandin (éd.), Commentaire
+romand LP, n. 3 ad art. 32 LP). La règle de l'art. 32 al. 2 LP s'applique à toutes les autorités
+(Erard, op. cit., n. 12 ad art. 32 LP). Si l'office qui a reçu une réquisition de poursuite
+est incompétent ratione loci, il doit, dans la mesure où les énonciations lui permettent
+d'identifier l'office compétent, lui transmettre la réquisition de poursuite après l'avoir
+enregistrée au journal, conformément à la règle de l'art. 32 al. 2 deuxième
+phrase LP (ATF 127 III 567 consid. 3a, JdT 2001 II 76, qui concernait le cas où une réquisition
+de poursuite avait été adressée par erreur à un office des poursuites bâlois,
+alors qu'il mentionnait en toutes lettres l'adresse zurichoise du débiteur, de sorte que l'office
+bâlois pouvait reconnaître sans autres qu'il n'était pas compétent et que l'office
+compétent était celui de Zurich, cf. le consid. 3b de l'arrêt; Gilliéron, op. cit.,
+n. 38 ad art. 32 LP; Nordmann, in Basler Kommentar précité, n. 6 ad art. 32 LP). S'il n'est
+pas en mesure de le faire, il doit refuser de donner suite à la réquisition et la retourner
+au poursuivant après l'avoir enregistrée au journal (Gilliéron, op. cit., n. 113 ad art.
+67 LP). On ne saurait retenir qu'il se justifie au besoin de demander un complément d'information
+à l'expéditeur, l'office étant tenu par un devoir de neutralité et d'impartialité
+(Gilliéron, op. cit., n. 38 ad art. 32 LP; Erard, op. cit., n. 15 ad art. 32 LP et réf. citée;
+Baeriswyl/Milani/Schmid, in Kren Kostkiewicz/Vock (éd.), Kommentar SchKG, 4
+e
+éd., n. 13 ad art. 32 LP n'excluent pas une prise de contact de l'office, tout en précisant
+qu'elle devrait intervenir avec retenue). Il en résulte que l'office des poursuites doit refuser
+de donner suite à une réquisition ne désignant pas suffisamment le débiteur. Il n'est
+pas tenu de rechercher le domicile du débiteur, mais il doit vérifier les indications données
+par le créancier, dès lors que sa compétence en dépend (Gilliéron, Poursuite
+pour dettes, faillite et concordat, 5
+e
+éd, n. 612 p. 153).
+b)
+En
+l'espèce, l'adresse du débiteur fournie par la recourante était erronée et les énonciations
+figurant dans la réquisition ne permettaient pas d'identifier l'office compétent. Dans ces
+conditions, il n'appartenait pas à l'Office de procéder à des recherches pour déterminer
+le domicile du débiteur, pas plus qu'il ne lui incombait d'interpeller le créancier afin qu'il
+entreprenne les recherches nécessaires et corrige sa réquisition, le vice tenant à la
+saisine d'un office incompétent étant un vice irréparable, auquel l'art. 32 al. 4 LP -
+dont se prévaut la recourante - est inapplicable, cette disposition visant essentiellement des vices
+de forme, tel un défaut de signature ou de procuration (voir les exemples cités par Erard,
+op. cit., n. 26 ad art. 32 LP et par Gilliéron, Commentaire, nn. 63ss ad art. 32 LP; Baeriswyl/Milani/Schmid,
+op. cit., n. 25 ad art. 32 LP).
+Il importe peu que l'Office ait communiqué à titre informatif – alors qu'il n'était
+pas tenu de le faire – que le débiteur n'était plus domicilié dans son arrondissement
+et avait déménagé dans le canton de Fribourg, en tenant compte des informations ressortant
+du registre vaudois des personnes remontant à mars 2018, d'autant que ces données, datant de
+plusieurs mois, n'offraient aucune garantie d'actualité. On ne saurait retenir que l'Office aurait
+ainsi guéri le vice découlant de l'absence de vérification imputable au créancier
+et qu'il serait tenu de transmettre la réquisition de poursuite à l’Office des poursuites
+de la Sarine. Au contraire, il aurait violé son devoir de neutralité et d'impartialité
+en procédant de la sorte, alors même que les énonciations figurant dans la réquisition
+de poursuite ne permettaient pas de déterminer le domicile du débiteur.
+Le recours doit être rejeté sur ce point.
+IV.
+En conclusion, le recours doit être partiellement
+admis et la décision réformée en ce sens que l’Office est invité à établir
+une attestation à la recourante confirmant qu’il a reçu la réquisition de poursuite
+déposée le 29 septembre 2018 par la recourante à l’encontre de l’intimée
+pour un montant de 300'000 fr. avec intérêt à 5 % l’an dès le 14 août
+2013 et l’a enregistrée sous n° 10'410'421.
+Le présent arrêt doit être rendu sans frais (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a
+et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est partiellement admis.
+II.
+Le prononcé est réformé par l’adjonction d’un chiffre IIbis à son dispositif.
+IIbis.
+Invite l’Office des poursuites de la Riviera-Pays d’Enhaut à établir une attestation
+à l’attention d’Y.________ confirmant qu’il a reçu la réquisition de
+poursuite déposée le 29 septembre 2018 par Y.________ à l’encontre de M.________
+pour un montant de 300'000 fr., avec intérêt à 5 % l’an dès le 14 août
+2013 et l’a enregistrée sous n° 10'410'421.
+Il est confirmé pour
+le surplus.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Christophe Claude Maillard, avocat (pour Y.________),
+‑
+Me Steve Gomes, avocat (pour M.________),
+-
+M. le Préposé à l’Office des poursuites du district de la Riviera-Pays d’Enhaut.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+Le greffier :
