@@ -1,0 +1,214 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2019___24"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2019 / 24"
+decided: "2019-07-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20190726091414352_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-036.md", "switzerland/bund/acts/210/art-394.md", "switzerland/bund/acts/210/art-395.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2019 / 24
+
+## Regeste
+
+RÉCUSATION, REJET DE LA DEMANDE, JUGE DE PAIX | 47 al. 1 let. a CPC (CH), 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 8a al. 1 CDPJ, 8a al. 3 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 30.07.2019 Réc-civile / 2019 / 24
+
+RÉCUSATION, REJET DE LA DEMANDE, JUGE DE PAIX | 47 al. 1 let. a CPC (CH), 47 al. 1 let. f CPC (CH), 49 al. 1 CPC (CH), 8a al. 1 CDPJ, 8a al. 3 CDPJ
+
+TRIBUNAL
+CANTONAL
+L817.054989 -
+D115.050035
+27
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 30 juillet 2019
+______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+47 al. 1 let. a et f et 49 al. 1 CPC ; 8a al. 1 et 3 CDPJ
+Vu l’ordonnance de mesures provisionnelles du 25 novembre 2015, rendue par la Juge de paix du district
+de Morges F.________ (ci-après : la juge de paix) dans la cause D115.050035, modifiant la curatelle
+d’accompagnement en une curatelle provisoire de représentation au sens de l’art. 394
+al. 1 CC (Code civil suisse du 10 décembre 1907 ; RS 210) et de gestion au sens de l’art.
+395 al. 1 CC avec privation de la faculté d’accéder à certains biens au sens de
+l’art. 395 al. 3 CC en faveur de V.________ et nommant B.________ en qualité de curatrice,
+vu le signalement d’un mineur en danger dans son développement du 6 octobre 2017,
+vu l’ordonnance de mesures superprovisionnelles du 21 décembre 2017, rendue par la juge de
+paix dans la cause M117.043149 (
+recte
+:
+L817.054989), retirant notamment provisoirement à V.________ le droit de déterminer le lieu
+de résidence de l’enfant [...],
+vu l’ordonnance de mesures provisionnelles du 8 janvier 2018 de la juge de paix, ouvrant notamment
+une enquête en retrait du droit de déterminer le lieu de résidence concernant l’enfant
+mineur [...] et confirmant le retrait provisoire du droit de V.________ de déterminer le lieu de
+résidence de l’enfant,
+vu le rapport du Service de protection de la jeunesse (ci-après : SPJ) du 27 mai 2019,
+vu les différentes audiences tenues par la juge de paix,
+vu le courrier du 18 juillet 2019, dans lequel V.________ a demandé la récusation de la juge
+de paix,
+vu le courrier de la juge de paix du 22 juillet 2019 à la Cour de céans, dans lequel elle a
+déclaré s’en remettre à justice s’agissant de cette demande,
+vu les pièces aux dossiers ;
+attendu qu'il s'agit en premier lieu de déterminer l'autorité compétente pour traiter
+la demande de récusation,
+que l'art. 8a al. 1 CDPJ (Code de droit privé judiciaire vaudois du 12 janvier 2010 ;
+BLV 211.02) dispose que lorsque la demande de récusation vise un magistrat professionnel ou un vice-président,
+trois autres magistrats du même office judiciaire statuent sur ladite demande,
+que la Cour de céans est compétente pour statuer sur les demandes de récusation visant
+l'ensemble d'une autorité judiciaire de première instance ou la majorité de ses membres
+(art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC [règlement organique du Tribunal cantonal du 13 novembre
+2007 ; BLV 173.31.1]),
+que dans le cas d’un office judiciaire composé de moins de quatre magistrats professionnels,
+il revient à la Cour de céans de statuer sur la demande de récusation d’un magistrat
+professionnel, en application des art. 8a al. 3 CDPJ et 6 al. 1 let. a ROTC par analogie (CA 20 octobre
+2016/29),
+qu’en l’occurrence, la Justice de paix du district de Morges n’est composée que
+de deux magistrates professionnelles,
+que la Cour de céans est ainsi compétente pour statuer comme autorité de première
+instance sur la demande du 18 juillet 2019 ;
+attendu que la demande de récusation du 18 juillet 2018 ne porte que sur le dossier L817.054989,
+dans lequel la juge de paix a notamment retiré provisoirement à V.________ le droit de déterminer
+le lieu de résidence de l’enfant [...], et pas sur la question de la curatelle prononcée
+dans la cause D115.050035,
+qu’aux termes de l’art. 49 al. 1 CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), la partie qui entend obtenir la récusation d’un magistrat ou d’un
+fonctionnaire judiciaire la demande au tribunal aussitôt qu’elle a eu connaissance du motif
+de récusation,
+que le droit de soulever un motif de récusation se périme s’il n’est pas invoqué
+immédiatement (Tappy, Commentaire romand, Code de procédure civile, 2
+e
+éd., 2019, n. 19 ad art. 49 CPC),
+que la diligence de la partie qui demande la récusation doit être appréciée en fonction
+du principe de la bonne foi (Aubry Girardin, Commentaire LTF [loi sur le Tribunal fédéral du
+17 juin 2005 ; RS 173.110], 2014, n. 11 ad art. 36 LTF),
+que, selon la pratique constante, celui qui omet de se plaindre immédiatement de la prévention
+d’un magistrat et laisse le procès se dérouler sans intervenir, agit contrairement aux
+règles de la bonne foi et voit son droit se périmer (ATF 138 I 1 consid. 2.2 ; TF 1B_321/2013
+du 30 octobre 2013 consid. 2.1 ; Aubry Girardin, op. cit., n. 11 ad art. 36
+LTF),
+que, si la loi ne prévoit aucun délai particulier, il y a lieu d’admettre que la récusation
+doit être formée dans les jours qui suivent la connaissance de la cause de la récusation
+(TF 1B_277/2008 du 13 novembre 2008 consid. 2.3
+in
+fine
+; Aubry Girardin, op. cit., n. 11
+ad art. 36 LTF),
+que, dans tous les cas, il est trop long d’attendre
+près d’un mois avant de former une demande de récusation (TF 8F_4/2011 du 18 octobre
+2011 consid. 6.1 ; Aubry Girardin, op. cit., n. 11 ad art. 36 LTF),
+qu’en l’espèce, V.________ allègue avoir déposé sa demande de récusation
+après avoir eu connaissance, après dix-huit mois d’attente, du signalement qui a démontré
+qu’elle était inapte à s’occuper de son enfant, lequel serait truffé de mensonges,
+qu’elle affirme qu’il y aurait eu de la médisance à son propos et qu’elle
+aurait conservé un appartement si cette « erreur grave n’avait pas été
+faite »,
+qu’on ignore à quel moment V.________ a eu connaissance du document dont elle se prévaut,
+que le SPJ a déposé son rapport le 27 mai 2019, de sorte que la demande apparaît tardive,
+que la question de la recevabilité de la demande de récusation peut toutefois rester indécise,
+dès lors qu’elle doit être rejetée pour les motifs suivants ;
+attendu qu'à teneur de l’art. 47 al. 1 CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu'ils ont un intérêt personnel dans la cause (let. a) ou pourraient être
+prévenus d'une quelconque manière, notamment en raison d'un rapport d'amitié ou d'inimitié
+avec une partie ou son représentant (let. f),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que les « intérêts personnels » visés à l'art. 47 al. 1 let.
+a CPC doivent être propres à mettre en cause l'indépendance du magistrat concerné ;
+celui-ci ne doit pas être touché seulement de manière générale, mais être
+affecté dans sa sphère personnelle davantage que les autres membres de l'autorité judiciaire
+(ATF 140 III 221 consid. 4.2, JdT 2014 II 425 ; TF 5A_171/2015 du 20 avril 2015 consid. 6.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 § 1
+CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre
+1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent
+influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin
+2012 consid. 2.1 ; ATF 138 I 1 consid. 2.2 et les réf. citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid.
+2.1),
+que le risque de prévention ne saurait être admis trop facilement, sous peine de compromettre
+le fonctionnement normal des tribunaux (ATF 105 Ia 157 consid. 6a ; TF 5A_316/2012 du 17 octobre
+2012 consid. 6.2.1 ; TF 5A_249/2015 du 29 septembre 2015 consid. 4.1 ; TF 5A_801/2016 du 29
+novembre 2016 consid. 5.1),
+que le seul fait qu’un magistrat ait tranché en défaveur d’une partie dans d’autres
+procédures indépendantes ne crée pas une apparence de prévention (TF 5A_674/2016
+du 20 octobre 2016 consid. 3.2, RSPC 2017 p. 75),
+que le fait que le juge ait précédemment agi dans l’affaire d’une partie ne permet
+pas de conclure à lui seul à une prévention du juge. Le critère décisif est
+de savoir si, d’un point de vue objectif, l’issue de la procédure apparaît encore
+ouverte (ATF 142 III 732 consid. 4.2.2, JdT 2017 II 303 ; ATF 140 I 240 consid. 2.2 ; ATF 140
+III 221 consid. 4.1),
+qu’en l’espèce V.________ ne fait valoir aucun motif de récusation contre la juge
+de paix intimée, se limitant à requérir qu’une audience soit tenue par un juge plus
+attentif à la vérité et à reprocher au SPJ et à [...] d’avoir établi
+des preuves malveillantes,
+qu’elle ne fait pas valoir que la juge de paix aurait incorrectement mené l’instruction
+ou aurait un quelconque intérêt personnel dans la cause,
+qu’elle n’apporte dès lors aucun élément de nature à démontrer que
+le comportement adopté par la juge de paix intimée serait de nature à fonder une apparence
+de prévention,
+qu’ainsi, aucun motif de récusation n’est réalisé ;
+attendu que, au vu de ce qui précède,
+la demande de récusation de la Juge de paix F.________ dans le cadre du dossier L817.054989 est
+manifestement infondée,
+qu’on relèvera qu’il n’appartient pas davantage à la juge de paix intimée
+de se récuser dans le cadre du dossier D115.050035,
+que la demande doit dès lors être rejetée, dans la mesure de sa recevabilité ;
+attendu que le présent arrêt sera rendu sans frais judiciaires ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 18 juillet 2019 par V.________ est rejetée,
+dans la mesure où elle est recevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+Me Jean Cavalli, pour V.________,
+‑
+Mme B.________, curatrice au sein de l’Office des curatelles et tutelles professionnelles,
+‑
+Mme F.________, Juge de paix du district de Morges.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+La greffière :
