@@ -1,0 +1,161 @@
+---
+decision_id: "vd_findinfo_R_c-administrative___2019___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-administrative / 2019 / 4"
+decided: "2019-08-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-administrative/20190812081810372_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-092.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# VD Findinfo Réc-administrative / 2019 / 4
+
+## Regeste
+
+RÉCUSATION, ASSESSEUR | 9 LPA-VD
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours civile 12.08.2019 Réc-administrative / 2019 / 4
+
+RÉCUSATION, ASSESSEUR | 9 LPA-VD
+
+TRIBUNAL
+CANTONAL
+AC.2019.0230
+31
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+ADMINISTRATIVE
+Séance
+du 12 août 2019
+_______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Di Ferro Demierre
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+9 ss LPA-VD
+Vu le recours déposé auprès de la Cour de droit administratif et public du Tribunal cantonal
+(ci-après : CDAP) le 24 juillet 2019 par
+P.________
+contre la décision rendue par la
+MUNICIPALITE DE [...]
+le 28 juin 2019, levant
+l’opposition formée par le prénommé et délivrant le permis de construire une
+villa jumelée avec garage sur la parcelle [...] propriété d’S.________, promise-vendue
+à M.________, CAMAC [...],
+vu le courrier du 30 juillet 2019 du Président de la section III de la CDAP, informant la Cour de
+céans que P.________ est assesseur au sein de la CDAP et demandant la récusation de l’ensemble
+des membres de la CDAP et la désignation d’un juge instructeur
+ad
+hoc
+,
+vu les pièces au dossier ;
+attendu que le recours déposé par P.________ le 24 juillet 2019 est pendant devant la CDAP,
+que les art. 9 à 12 LPA-VD (loi sur la procédure administrative du 28 octobre 2008 ;
+BLV 173.36) sont donc applicables au cas d'espèce,
+qu'en vertu des art. 11 al. 3 LPA-VD et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal
+du 13 novembre 2007 ; BLV 173.31.1), la Cour administrative est compétente pour statuer sur
+la demande de récusation présentée par le président de la CDAP à l'encontre
+de
+l’ensemble
+de ses membres,
+attendu que selon l'art. 9 LPA-VD, toute personne appelée à rendre ou à préparer
+une décision ou un jugement doit se récuser si elle a un intérêt personnel dans la
+cause (let. a), si elle a agi dans la même cause à un autre titre, notamment comme membre d'une
+autorité, comme conseil d'une partie, comme expert ou comme témoin (let. b), si elle est liée
+par les liens du mariage ou du partenariat enregistré ou fait durablement ménage commun avec
+une partie, son mandataire ou une personne qui a agi dans la même cause comme membre de l'autorité
+précédente, la dissolution du mariage ou du partenariat enregistré ne supprimant pas le
+motif de récusation (let. c), si elle est parente ou alliée en ligne directe ou, jusqu'au troisième
+degré inclus, en ligne collatérale avec une partie, son mandataire ou une personne qui a agi
+dans la même cause comme membre de l'autorité précédente (let. d) ou si elle pourrait
+apparaître comme prévenue de toute autre manière, notamment en raison d'une amitié
+étroite ou d'une inimitié personnelle avec une partie ou son mandataire (let. e),
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1),
+que la garantie du juge indépendant et impartial, qui découle des art. 30 al. 1 Cst. (Constitution
+fédérale de la Confédération suisse du 18 avril 1999 ; RS 101) et 6 § 1
+CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre
+1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès puissent influencer
+le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice d'une partie
+(TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin 2012 consid. 2.1 ;
+ATF 138 I 1 consid. 2.2 et les réf. citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid. 2.1),
+qu’en l’espèce, P.________, recourant, exerce la fonction de juge assesseur au sein
+de la CDAP,
+que cette fonction implique des contacts réguliers et professionnels avec les autres membres de
+cette juridiction aux côtés desquels il est amené à siéger et à collaborer,
+qu'il est dès lors possible qu'un rapport d'amitié ou d'inimitié ait pu naître des
+relations professionnelles entre P.________ et les autres magistrats composant cette autorité (cf.
+notamment : CA 14 août 2018/33 ; CA 2 février 2018/4 ; CA 27 novembre 2017/45),
+qu’il est par ailleurs lui-même investi d'un pouvoir décisionnel dans le cadre de sa
+fonction de juge assesseur,
+qu'il pourrait ainsi résulter de ces relations une apparence de prévention, du moins aux yeux
+de la partie adverse et des tiers,
+qu'afin de garantir l'impartialité du tribunal appelé à statuer sur le recours interjeté
+par P.________, la demande de récusation présentée spontanément par le président
+de la CDAP doit être admise,
+qu’il y a dès lors lieu de désigner une cour
+ad
+hoc
+pour instruire et statuer sur le recours interjeté
+par P.________, laquelle sera composée des juges cantonaux [...], en qualité de président,
+[...] et [...] ;
+attendu que le présent arrêt sera rendu sans frais judiciaires, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation de l’ensemble des membres de la Cour de droit administratif et public
+présentée par le président de sa section III le 30 juillet 2019 est admise.
+II.
+La cause est transmise, dans l’état où elle se trouve, à une cour
+ad
+hoc
+, composée des juges cantonaux [...],
+[...] et [...].
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L’arrêt qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- P.________, recourant,
+- Municipalité de [...], autorité intimée,
+- S.________, propriétaire,
+- [...], constructeur,
+et communiqué par l'envoi de photocopies à :
+- [...], Juge cantonal,
+- [...], Juge cantonal, président de la section III de la CDAP.
+Le présent arrêt peut faire l'objet d'un recours en matière de droit public devant le
+Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art.
+113 ss LTF (art. 92 LTF). Ces recours doivent être déposés devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
