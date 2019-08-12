@@ -1,0 +1,255 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 23"
+decided: "2019-08-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7310533"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 23
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, RÉVOCATION{EN GÉNÉRAL}, PAIEMENT, INSOLVABILITÉ | 174 al. 1 LP, 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 12.08.2019 Faillite / 2019 / 23
+
+OUVERTURE DE LA FAILLITE, RÉVOCATION{EN GÉNÉRAL}, PAIEMENT, INSOLVABILITÉ | 174 al. 1 LP, 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF19.017807-190900
+192
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+12 août 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Hack et Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 et 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+E.________SA
+,
+à [...], contre le jugement rendu le 20 mai 2019, à la suite de l’audience du même
+jour, par la Présidente du Tribunal d’arrondissement de La Côte, statuant par défaut
+des parties et prononçant la faillite de la recourante, le 20 mai 2019, à 12 heures, à
+la réquisition de
+B.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 18 décembre 2017, dans la poursuite ordinaire n° 8’532'538 de l’Office des poursuites
+du district de Nyon exercée à l’instance de B.________, un commandement de payer portant
+sur des frais judiciaires à rembourser et des dépens alloués dans le cadre d’une
+procédure d’expulsion, pour une somme totale de 6'683 fr., plus intérêts, a été
+notifié à E.________SA, qui a formé opposition totale.
+Cette opposition a été définitivement levée, le point de départ des intérêts
+étant fixé au lendemain de la notification du commandement de payer, par prononcé rendu
+le 15 mai 2018 par la Juge de paix du district de Nyon, confirmé par arrêt de la cour de céans
+du 11 octobre 2018.
+Le 11 décembre 2018, une commination de faillite a été notifiée à la poursuivie,
+par remise en main de son administrateur, P.________.
+Le 16 avril 2019, le poursuivant a requis la faillite de la poursuivie.
+b)
+Par avis du 18 avril 2019, la Présidente du Tribunal d’arrondissement de La Côte a cité
+les parties à comparaître à son audience du 20 mai 2019, à 11 heures.
+Par lettre du 30 avril 2019, invoquant le fait qu’il devait être hospitalisé le 14 mai
+2019 « pour quelques jours pour une opération chirurgicale suivie d’une période
+de convalescence » et le fait qu’il souhaitait encore « trouver une solution
+pour régler la dette en question au créancier afin d’éviter la faillite »,
+P.________ a demandé l’annulation ou le report de la date « d’une éventuelle
+audience d’environ un mois ». A l’appui de sa requête, il a produit une lettre
+que l’Hôpital de Nyon lui avait adressée le 15 avril 2019, relative à une intervention
+fixée au 14 mai 2019.
+Par lettre du 2 mai 2019, la présidente du tribunal, constatant que rien dans la pièce produite
+n’indiquait que P.________ ne serait pas en mesure d’être présent à l’audience
+du 20 mai 2019 et relevant qu’en outre, il lui était loisible de se faire représenter,
+a maintenu l’audience, « sauf accord du créancier ».
+Le 8 mai 2019, le conseil du poursuivant a transmis au tribunal une copie de sa lettre du même jour
+à la poursuivie, dans laquelle il se déclarait prêt à retirer sa requête de
+faillite, sous condition du paiement immédiat d’un premier acompte de 4'000 fr. au minimum,
+au moyen du bulletin de versement annexé.
+2.
+Par jugement rendu à la suite de l’audience tenue le 20 mai 2019 par défaut des parties,
+la Présidente du Tribunal d’arrondissement de La Côte a prononcé la faillite d’E.________SA,
+le jour même, à 12 heures, a mis les frais, par 200 fr., à la charge de la faillie et
+a dit que celle-ci, partie intimée, devait verser au requérant la somme de 150 fr. à titre
+de dépens. Elle a considéré que la requête de faillite et les pièces produites
+étaient conformes aux réquisits légaux et que l’intimée n’avait pas justifié
+par titre que la créance avait été payée ou qu’un sursis lui avait été
+accordé.
+3.
+a)
+Par acte daté du 6 et posté le 7
+juin 2019, E.________SA, par son administrateur, a recouru auprès du Tribunal cantonal contre le
+jugement de faillite, qui lui avait été notifié le 28 mai 2019. P.________ a conclu à
+la réforme de ce jugement en ce sens que la requête de faillite est rejetée, en faisant
+valoir en substance que sa demande de report de l’audience avait été rejetée « de
+manière injustifiée » et, par ailleurs, que la société était « à
+jour avec ses obligations financières », à l’exception de la poursuite à
+l’origine de la faillite, et qu’en outre, son expulsion de ses locaux ayant été
+exécutée « de manière totalement illégale », elle n’avait
+pas à supporter les frais de cette procédure.
+Par lettre du 21 juin 2019, la recourante a précisé ses conclusions en ce sens que les frais
+et dépens devaient être mis à la charge du « demandeur de la mise en faillite »
+et non du « débiteur », comme indiqué dans son recours. En outre, elle
+a requis l’effet suspensif.
+Par décision du 12 juillet 2019, la requête d’effet suspensif a été déclarée
+irrecevable, pour tardiveté.
+b)
+Il résulte de l’extrait des registres de l’Office des poursuites du district de Nyon
+au 17 juin 2019 concernant la recourante que celle-ci fait l’objet de onze poursuites, pour un
+montant total de 68’164 fr. 90, dont quatre exercées à l’instance d’une société
+d’assurances et six à l’instance de l’intimé, parmi lesquelles deux poursuites
+en réalisation de gage mobilier. Hormis la poursuite à l’origine de la faillite, toutes
+sont au stade des oppositions aux commandements de payer, lesquels ont été notifiés entre
+les mois d’octobre 2015 et novembre 2016.
+La recourante s’est déterminée sur cet extrait de poursuites par lettre du 5 juillet
+2019, dans le délai imparti pour ce faire si elle le souhaitait.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1), la décision du juge de la faillite
+peut, dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile; RS
+272). Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et
+motivé, introduit auprès de l'instance de recours.
+b)
+En l’espèce, le recours a été exercé en temps utile et dans les formes requises.
+Il est ainsi recevable.
+II.
+a)
+Selon l’art. 166 al. 1 LP, à l’expiration
+du délai de vingt jours dès la notification de la commination, le créancier peut requérir
+du juge la déclaration de faillite, en joignant à sa demande le commandement de payer et l’acte
+de commina-tion. Le juge saisi d’une réquisition de faillite doit prononcer celle-ci, sauf
+dans les cas mentionnés aux art. 172 à 173a LP (art. 171 LP).
+b)
+En l’espèce, les conditions de l’art. 166 al. 1 LP ont été respectées
+et aucun des cas mentionnés aux art. 172 à 173a LP n’était réalisé. La
+recourante ne prétend d’ailleurs pas le contraire. C’est donc à juste titre que
+le premier juge a prononcé la faillite de celle-ci.
+c)
+Quant au refus de déplacer l’audience
+de faillite à la demande de la recourante, il ne prête pas le flanc à la critique. Comme
+l’a constaté la présidente du tribunal, la pièce produite à l’appui de
+cette demande ne concernait que l’admission à l’hôpital de l’administrateur
+de la recourante le 14 mai 2019, pour une intervention prévue ce jour-là, et ne contenait aucun
+élément indiquant que celui-ci ne pourrait pas assister à l’audience du 20 mai suivant.
+La recourante n’a produit aucune autre pièce à la suite de la lettre de la présidente
+du 2 mai 2019 refusant de déplacer l’audience. Par ailleurs, elle n’a donné aucune
+suite à la lettre du conseil du poursuivant, alors même que sa demande de déplacement
+de l’audience était également motivée par son prétendu souhait de « trouver
+une solution pour régler la dette en question au créancier afin d’éviter la faillite ».
+Enfin, elle ne s’est pas fait représenter par un autre mandataire à l’audience,
+comme elle en avait la possibilité.
+III.
+a)
+En vertu de l'art. 174 al. 2 LP, la décision
+du juge de la faillite peut être déférée à l'autorité de recours, qui peut
+annuler l'ouverture de la faillite lorsque le débiteur, en déposant le recours, rend vraisemblable
+sa solvabilité et établit par titre que depuis lors la dette, intérêts et frais compris,
+a été payée (ch. 1) ou que la totalité de la somme à rembourser a été
+déposée auprès de l'autorité judiciaire supérieure à l'intention du créancier
+(ch. 2), ou encore que celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions,
+soit le paiement de la dette à l'origine de la faillite, le dépôt de la totalité
+de la somme à rembourser ou le retrait de la requête de faillite et la vraisemblance de la
+solvabilité, sont cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid. 6.1 ; Bosshard, Le
+recours contre le jugement de faillite, in JdT 2010 II 113 ss, p. 127).
+C'est le débiteur qui doit rendre sa solvabilité vraisemblable; il n'appartient pas à
+l'autorité de recours de rechercher d'office des moyens de preuve idoines (TF 5A_181/2018 du 30
+avril 2018 consid. 3.1 ; TF 5A_354/2016 du 22 novembre 2016 consid. 4.1 et les arrêts
+cités; TF 5A_300/2016 du 14 octobre 2016 consid. 5.1 et les arrêts cités; TF 5A_175/2015
+du 5 juin 2015 consid. 4.1 publié in SJ 2016 I p. 101; TF 5A_912/2013 du 18 février 2014 consid.
+3) ; il ne peut se contenter de simples allégations, mais doit fournir des indices concrets
+tels que récépissés de paiements, justificatifs des moyens financiers (avoirs en banque,
+crédit bancaire) à sa disposition, liste des débiteurs, extrait du registre des poursuites,
+comptes annuels récents, bilan intermédiaire, etc. (TF 5A_181/2018 précité).
+b)
+En l’espèce, la recourante ne prétend pas ni, a fortiori, n’établit avoir
+réglé le montant en poursuite dans le délai de recours. Elle admet au contraire que c’est
+la seule obligation financière avec laquelle elle n’est pas « à jour ».
+Elle semble d’ailleurs contester le fondement de cette dette, ce qui est dénué de toute
+pertinence à ce stade. Une des deux conditions cumulatives à l’annulation du prononcé
+de faillite n’est dès lors pas réalisée. Par conséquent, il n’est pas
+nécessaire d’examiner si la recourante a rendu vraisemblable sa solvabilité. Sur ce point,
+on peut toutefois relever que l’intéressée se borne à affirmer qu’elle est
+« à jour avec ses obligations financières » - à l’exception
+de la poursuite à l’origine de la faillite -, mais ne produit aucun document du type de ceux
+énumérés par la jurisprudence citée ci-dessus. Ses seules déterminations sur
+l’extrait des poursuites la concernant ne suffisent pas à rendre sa solvabilité vraisemblable.
+La deuxième condition pour annuler la faillite n’est ainsi pas non plus réalisée.
+IV.
+En conclusion, le recours, manifestement infondé (art. 322 al. 1 CPC), doit être rejeté
+et le jugement de faillite confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge de la recourante (art. 106 al. 1 CPC), qui en a déjà fait l’avance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+E.________SA,
+‑
+M. Youri Diserens, agent d’affaires breveté (pour B.________),
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
