@@ -1,0 +1,233 @@
+---
+decision_id: "vd_findinfo_Jug-inc___2019___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Jug-inc / 2019 / 7"
+decided: "2019-08-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7339243"
+cites_law: ["switzerland/bund/acts/272/art-007.md", "switzerland/bund/acts/272/art-149.md", "switzerland/bund/acts/272/art-153.md", "switzerland/bund/acts/272/art-154.md", "switzerland/bund/acts/272/art-155.md", "switzerland/bund/acts/272/art-156.md", "switzerland/bund/acts/272/art-167.md", "switzerland/bund/acts/272/art-276.md", "switzerland/bund/acts/272/art-279.md", "switzerland/bund/acts/272/art-404.md"]
+---
+
+# VD Findinfo Jug-inc / 2019 / 7
+
+## Regeste
+
+NOUVEAU MOYEN DE FAIT, CONVENTION RELATIVE À LA PROCÉDURE CIVILE | 153 CPC, 279 CPC, 7 CPC
+
+## Text
+
+Vaud Tribunal cantonal Cour civile 20.08.2019 Jug-inc / 2019 / 7
+
+NOUVEAU MOYEN DE FAIT, CONVENTION RELATIVE À LA PROCÉDURE CIVILE | 153 CPC, 279 CPC, 7 CPC
+
+TRIBUNAL
+CANTONAL
+CO10.015008
+33/2019/ROU
+COUR
+CIVILE
+_________________
+Jugement
+incident dans la cause divisant
+U.________
+,
+à […], requérant, d’avec
+T.________SA
+,
+à […],
+C.________
+,
+à […],
+P.________
+,
+à […], et
+F.________
+,
+à […], intimés.
+___________________________________________________________________
+Du
+20 août 2019
+______________
+Composition
+:               M.
+Oulevey
+,
+juge instructeur
+Greffier
+:              M.
+Cloux
+*****
+Statuant immédiatement à huis clos, le juge instructeur considère :
+En fait et en droit :
+Vu la demande déposée le 5 mai
+2010 par les demandeurs T.________SA, C.________, P.________ et F.________, qui ont pris contre le défendeur
+U.________ les conclusions suivantes, avec suite de frais et dépens :
+"I)
+Les défendeur est le débiteur de la demanderesse 1 et lui doit immédiat paiement de la
+somme de fr. 936'754.- (…) plus intérêts à 5% l’an dès le 1
+er
+janvier
+2007.
+II)
+Le défendeur est le débiteur de chacun des demandeurs 2 à 4 de montants qui seront
+chiffrés après le dépôt de l’expertise.",
+vu la réponse du défendeur du 1
+er
+juillet
+2014, comprenant des conclusions en libération, avec suite de frais et dépens,
+vu la réplique des demandeurs du 20 octobre2014, par laquelle ils ont réduit le montant
+en capital de leur conclusion I à concurrence de 906'754 fr.,
+vu les écritures ultérieures des parties,
+vu l’ordonnance sur preuves du 1
+er
+mai
+2015 et les opérations d’instruction subséquemment conduites,
+vu l’avis du juge instructeur du 9 janvier 2019 impartissant aux parties un délai pour
+déposer un mémoire de droit, par la suite prolongé au 16 août 2019,
+vu la convention du 16 août 2019 déposée le jour même par les parties, tendant
+à l’introduction des novas 199 à 227 et des preuves offertes à leur appui, subsidiairement
+à la réforme dans la même mesure par le défendeur, requérant, d’une part,
+et des déterminations sur ces éléments nouveaux par les demandeurs, intimés, d’autre
+part,
+vu le chiffre IV de la convention, tendant à la suppression de l’audience préliminaire
+et à la ratification des offres de preuves du requérant,
+vu les autres pièces au dossier,
+vu les art. 7, 19, 21, 146 ss, 153 ss, 167, 267 al. 1 et 279 CPC-VD (Code de procédure civile
+vaudoise du 14 décembre 1966, dans sa teneur en vigueur jusqu'au 31 décembre 2010 ;
+aRSV 270.11), et 404 al. 1 CPC (Code de procédure civile du 19 décembre 2008 ; RS
+272) ;
+attendu que les procédures pendantes avant l'entrée en vigueur du nouveau droit fédéral
+de procédure civile demeurent régies par l'ancien droit de procédure cantonal jusqu'à
+la clôture de l'instance (art. 404 al. 1 CPC), y compris s’agissant du jugement incident rendu
+dans ce cadre (CREC II, 20 juillet 2011/66 consid. 1/a ; Haldy, La nouvelle procédure suisse, Bâle
+2009, p. 3 n. 7 ; Tappy, Le droit transitoire applicable lors de l'introduction de la nouvelle procédure
+civile unifiée
+in
+JdT 2010 III 11 spéc. pp. 366 ss),
+que le procès, ouvert le 5 mai 2010, et la présente procédure incidente, sont dès
+lors soumis aux dispositions du droit de procédure civile vaudois, et en particulier du CPC-VD ;
+attendu que les conventions de procédure ne sont valables que si elles sont ratifiées par le
+juge (art. 7 CPC-VD),
+qu’en l’espèce, la convention du 16 août 2019 tend à permettre au requérant
+d’introduire des faits et documents postérieurs au dépôt de sa dernière écriture,
+d’une part, ainsi que des faits et moyens de preuve antérieurs à cet acte par la voie
+de la réforme, d’autre part,
+que la convention se rapporte ainsi à l’art. 279 al. 2 CPC-VD en tant qu’elle
+touche à l’introduction de novas, et aux art. 153 ss CPC-VD en tant qu’elle a trait
+à la réforme,
+qu’elle est dans les deux cas soumise à la forme incidente (art. 19 et 144 ss CPC-VD,
+le cas échéant
+cum
+art. 154 al. 2 CPC-VD ; JdT 1983
+III 62 ; Poudret
+et alii
+,
+Procédure civile vaudoise, 3
+e
+éd.,
+Lausanne 2002, ad art. 279 CPC-VD), dont elle respecte les conditions ;
+attendu qu’il en va de même des conditions spécifiques à la réforme, la convention
+intervenant en temps utile et indiquant les motifs et l’étendue de la réforme requise
+(art. 154 al. 1 et 317b CPC-VD) ;
+que la requête est dès lors recevable à la forme ;
+attendu qu’il n’y a pas lieu de fixer d’audience incidente (art. 149 CPC-VD par
+analogie), les parties agissant en commun, ce qui exclut toute violation du principe contradictoire,
+et requérant la suppression de l’audience préliminaire ;
+attendu que l’art. 279 CPC-VD, applicable après la fixation de cette audience (cf. art. 276
+CPC-VD), qu’aucune des parties ne peut alléguer des faits nouveaux, ni soulever des exceptions
+nouvelles, ni produire des titres ou moyen de preuve nouveaux (al. 1), sauf s’il apparaît
+que la partie a été sans sa faute dans l’impossibilité de le faire dans sa dernière
+écriture, ou n’a pas eu de raison de soulever de nouveaux moyens (cf. al. 2),
+qu’en l’espèce les allégués et moyens de preuve nouveaux sont en partie postérieurs
+à l’échange d’écritures, et donc recevables à l’aune de la première
+hypothèse de l’art. 279 al. 2 CPC-VD ;
+attendu que par ailleurs, aux termes de l'art. 153 al. 1 CPC-VD, la partie qui désire obtenir la
+restitution d'un délai, corriger ou compléter sa procédure peut, jusqu'à l'expiration
+du délai fixé pour le dépôt des mémoires de droit, voire jusqu'à la clôture
+de l'audience de jugement, demander l'autorisation de se réformer (art. 317a et 317b CPC-VD),
+que la partie requérante doit établir d'une part son intérêt réel à la
+preuve des faits allégués, c'est-à-dire leur pertinence, et d'autre part son intérêt
+réel à l'administration des preuves offertes, savoir l'utilité que celles-ci présentent
+pour établir les faits allégués (JdT 1988 III 70 consid. 4),
+qu’en l’espèce, la réforme est requise par convention commune des parties, de sorte
+qu’il y sera fait droit,
+que pour des motifs de célérité, on ne distinguera dans ce cadre pas entre les allégués
+de fait, d’une part, et relevant de l’appréciation, d’autre part, quand bien même
+ceux-ci ne sont en principe pas susceptibles d’une réforme ;
+que pour des motifs de célérité, on ne distinguera dans ce cadre pas les allégués
+de fait susceptibles de réforme, d’une part, de ceux portant sur des faits déjà
+introduits en procédure ou relevant de l’appréciation, d’autre part ;
+attendu que la convention du 16 août 2019 sera ainsi ratifiée,
+attendu que les allégués et offres de preuve nouveaux du requérant, d’une part,
+et les déterminations des intimés, d’autre part, figurent dans la convention, de sorte
+que l’on peut en prendre acte, sans fixer de délai pour l’introduction de nouvelles
+écritures,
+attendu que, cela étant, les intimés ont passé des aveux indivisibles au sujet des allégués
+218 et 224 nouveaux (cf. art. 167 CPC-VD),
+qu’un délai de vingt jours dès réception du présent jugement incident est dès
+lors imparti au requérant pour déclarer s’il se contente, ou non, de ces aveux indivisibles,
+ensuite de quoi une ordonnance sur preuves complémentaire sera rendue et les mesures d’instruction
+requises mises en œuvre ;
+attendu que tous les actes du procès peuvent, et doivent, être maintenus (cf. art. 155
+CPC-VD) ;
+attendu que le requérant supportera les frais de la procédure incidente, réduits à
+225 fr. (art. 4 al. 1, 156a et 170a al. 1 aTFJC [tarif des frais judiciaires en matière
+civile du 4 décembre 1984, abrogé], applicable par le renvoi de l'art. 99 al. 1 TFJC
+[tarif des frais judiciaires en matière civile du 28 septembre 2010 ; BLV 270.11.5]) ;
+attendu qu’en matière de réforme, et à moins qu’elle n’établisse
+n’avoir pu connaître en temps utile le fait qui l’incite à corriger sa procédure,
+la partie qui obtient la réforme est chargée des dépens frustraires (cf. art. 156
+al. 2 CPC-VD),
+que les dépens frustraires sont fixés en fonction des opérations que la partie intimée
+devra refaire ou reconsidérer en raison de la réforme, alors qu'elles auraient pu être
+évitées dans le cours ordinaire de la procédure (JICC, 3 mars 2003/53),
+qu’en l’occurrence, le dépôt d’une convention commune exclut a priori que
+les intimés aient entrepris des démarches rendues vaines par le requérant,
+que les intéressés ne démontrent en tout cas pas le contraire, de sorte qu’il ne
+sera pas octroyé de dépens frustraires ;
+attendu qu’il n’y a pas non plus lieu d’octroyer des dépens de l’incident,
+les parties agissant ensemble sans obtenir gain de cause l’une contre l’autre ;
+Par
+ces motifs,
+le
+juge instructeur,
+statuant
+à huis clos
+et
+par voie incidente,
+prononce
+:
+I.
+La convention conclue le 16 août 2019
+par le requérant U.________, d’une part, et les intimés T.________SA, C.________,
+P.________ et F.________, d’autre part, est ratifiée.
+II.
+Il est pris acte de l’introduction en procédure
+des allégués 199 à 227 nouveaux du requérant, des offres de preuve y relatives, et
+des déterminations correspondantes des intimés, selon pages 2 à 7 de la convention
+du 16 août 2019.
+III.
+Un délai de
+vingt
+jours
+dès réception du présent
+jugement incident est imparti au requérant pour indiquer s’il se contente de l’aveu
+indivisible des intimés sur les allégués 218 et 224 nouveaux.
+IV.
+Tous les actes du procès sont maintenus.
+V.
+Les frais de la procédure incidente, arrêtés
+à 225 fr. (deux cent vingt-cinq francs), sont mis à la charge du requérant.
+VI.
+Il n’est pas alloué de dépens
+frustraires, ni de dépens de l’incident.
+Le
+juge instructeur :              Le greffier :
+R. Oulevey
+L. Cloux
+Du
+Le jugement incident qui précède, lu et approuvé à huis clos, est notifié, par
+l'envoi de photocopies, aux conseils des parties.
+Le greffier :
+L. Cloux
