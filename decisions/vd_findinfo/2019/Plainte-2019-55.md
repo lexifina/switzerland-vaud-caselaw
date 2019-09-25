@@ -1,0 +1,128 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___55"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 55"
+decided: "2019-09-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7452938"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-093.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-001.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 55
+
+## Regeste
+
+EFFET SUSPENSIF, MOYEN DE DROIT | 93 al. 1 let. a LTF, 30 al. 1 LVLP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 25.09.2019 Plainte / 2019 / 55
+
+EFFET SUSPENSIF, MOYEN DE DROIT | 93 al. 1 let. a LTF, 30 al. 1 LVLP
+
+TRIBUNAL
+CANTONAL
+FA19.041919-191445
+46
+LA
+PRESIDENTE
+DE
+LA COUR DES POURSUITES ET FAILLITES
+_________________________________________________________
+Arrêt du
+25 septembre 2019
+________________________
+Art.
+30 al. 1 LVLP
+Vu le prononcé motivé rendu le 25 septembre 2019 par la Présidente du Tribunal d'arrondissement
+de Lausanne refusant d'accorder l'effet suspensif requis par
+Z.________
+,
+à [...], dans la plainte déposée le 24 septembre 2019 contre la décision de
+l'
+Office
+des faillites de l'arrondissement de Lausanne
+de procéder à la vente aux enchères de son bien immobilier, fixée au 25 septembre
+2019 à 14 heures,
+vu le recours formé contre ce prononcé par Z.________, par acte du 25
+septembre
+2019, concluant à l'octroi de l'effet suspensif à sa plainte;
+attendu que la voie du recours est ouverte contre un refus d’effet suspensif dans le cadre d’une
+plainte au sens de l’art. 17 LP (loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.1) en cas de préjudice irréparable au sens de l’art. 93 al. 1 let. a LTF (loi
+sur le Tribunal fédéral ; RS 173.110),
+qu’un tel préjudice doit être de nature juridique et ne pas pouvoir être réparé
+ultérieurement par une décision finale favorable au recourant (ATF 138 III 46 consid. 1.2 ;
+ATF 137 V 314 consid. 2.2.1 et les arrêts cités),
+qu’en revanche, et dès lors que le droit cantonal ne prévoit pas de voie de droit plus
+large, il n’y a pas lieu d’admettre que le recours serait déjà recevable en cas
+de préjudice difficilement réparable au sens de l’art. 319 let. b CPC (Code de procédure
+civile ; RS 272), notion qui est plus large que celle de dommage irréparable de l’art.
+93 al. 1 let. a LTF, puisqu’elle devrait viser également les désavantages de fait (JdT
+2011 III 86 consid. 3),
+qu’en effet, le CPC ne s’applique pas à la procédure de plainte (art. 1 let. c
+CPC
+a contrario
+;
+Muster, La nouvelle procédure civile et le droit des poursuites et des faillites,
+in
+JdT 2011 II 75 ss, p. 77, n. 2.2).
+qu’en l’espèce, la recourante n’explique pas quel risque concret de préjudice
+juridique irréparable lui ferait courir le refus d’accorder l’effet suspensif à
+sa plainte,
+que le recours doit par conséquent être déclaré irrecevable ;
+attendu qu’au demeurant, le prononcé attaqué constate de manière convaincante que
+la plainte apparaît tardive, l’Office intimé ayant informé la plaignante, par courrier
+recommandé du 3 juin 2019, de la date de la vente et de l’estimation des immeubles, et lui
+ayant encore adressé, par courrier recommandé du 13 août 2019, une copie de la publication
+de vente immobilière, laquelle indiquait la date dès laquelle les conditions de vente étaient
+à disposition des intéressés, soit le 23 août 2019, ainsi qu’à nouveau,
+l’estimation des immeubles,
+que le prononcé attaqué considère également de manière convaincante que la plainte
+paraît infondée, son auteur tentant une nouvelle fois d’échapper par ce moyen à
+l’exécution forcée, alors que sa faillite a été prononcée le 25 novembre
+2016, soit il y a près de trois ans, et que de nombreux délais lui ont été laissés,
+en vain, pour trouver une solution,
+que le refus de l’effet suspensif apparaît ainsi justifié ;
+attendu que, la procédure de plainte étant gratuite, le présent arrêt est rendu sans
+frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a et 62 al. 2 OELP [ordonnance sur
+les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Présidente de la Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :               La greffière
+:
+Fabienne
+Byrde              Lise Debétaz
+Ponnaz
+Du
+25 septembre 2019
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme Z.________,
+‑
+M. le Préposé à l'Office des faillites de l’arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
+Lise Debétaz Ponnaz
