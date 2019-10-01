@@ -1,0 +1,368 @@
+---
+decision_id: "vd_findinfo_S_questre___2019___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2019 / 5"
+decided: "2019-10-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7388979"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-124e.md", "switzerland/bund/acts/220/art-104.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2019 / 5
+
+## Regeste
+
+CAS DE SÉQUESTRE, TITRE DE MAINLEVÉE, ORDONNANCE DE SÉQUESTRE, OPPOSITION{PROCÉDURE} | 271 al. 1 ch. 6 LP, 272 al. 1 LP, 278 al. 3 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 01.10.2019 Séquestre / 2019 / 5
+
+CAS DE SÉQUESTRE, TITRE DE MAINLEVÉE, ORDONNANCE DE SÉQUESTRE, OPPOSITION{PROCÉDURE} | 271 al. 1 ch. 6 LP, 272 al. 1 LP, 278 al. 3 LP
+
+TRIBUNAL
+CANTONAL
+KE19.008649-191120
+217
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+1
+er
+octobre 2019
+_____________________
+Composition
+:              M.
+Maillard
+,
+vice-président
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+271 al. 1 ch. 6, 272 al. 1 et 278 al. 3 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+B.________
+,
+à [...], contre le prononcé du 10 avril 2019, rendu à la suite de l’audience du
+28 mars 2019 par la Juge de paix du district de Nyon, dans la cause en opposition au séquestre ordonné
+contre le recourant à la requête de
+W.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 4 février 2019, W.________ [ci-après : W.________], invoquant le cas de séquestre
+de l’art. 271 al. 1 ch. 6 LP (loi fédérale sur la poursuite pour dettes et la faillite ;
+RS 281.1), a saisi la Juge de paix du district de Nyon d’une requête de séquestre contre
+B.________ pour une créance de 2'587’790 fr., plus intérêt à 5% l’an
+dès le 25 octobre 2018, fondée sur le jugement de divorce des parties du 18
+septembre
+2018 rendu par le Tribunal de première instance de la République et canton de Genève.
+A l’appui de sa requête, elle a produit quinze pièces sous bordereau, parmi lesquelles
+le jugement de divorce précité et un certificat de non-appel contre ce jugement, délivré
+le 3 décembre 2018 par la Cour civile de la Cour de justice de la République et canton de Genève.
+Le jugement en question condamne notamment B.________ à payer à W.________ :
+-
+un montant de 2'186'790 fr. à titre de dettes entre époux et de liquidation du régime
+matrimonial (chiffre 5 du dispositif) ;
+-
+un montant de 400'000 fr. à titre d’indemnité équitable au sens de l’art.
+124e al. 1 CC (Code civil suisse ; RS 210) (chiffre 7 du dispositif) ;
+-
+la somme de 1'000 fr. à titre de remboursement de frais judiciaires (chiffre 9 du dispositif).
+b)
+Le 11 février 2019, la juge de paix a rendu neuf ordonnances de séquestre sous la référence
+commune KH19.005553, dispensant la créancière de fournir des sûretés et ordonnant
+le séquestre à concurrence de 2'587’790 fr., respectivement :
+-
+à l'Office des poursuites du district de Nyon, sur tous avoirs, espèces, valeurs, titres, créances
+et autres biens en compte, dépôt ou coffre-fort, de quelque nature que ce soit dont B.________
+est le titulaire ou l’ayant droit économique, déposés auprès d’UBS Switzerland
+AG, à Zurich, soit notamment onze comptes, et auprès de BNP Paribas (Suisse) SA, soit notamment
+deux comptes (1), sur un immeuble sis à [...] (parcelle n° 24) dont B.________ est propriétaire
+individuel (2) et sur la part du produit de vente du bien immobilier sis à [...] (parcelle n°
+4497 de [...]), revenant à B.________ en mains d’un notaire à Genève (3) ;
+-
+à l’Office des poursuites du district de Lausanne, sur toutes actions et/ou certificats d’actions
+dont B.________ est titulaire dans la société X.________SA, à Lausanne ;
+-
+à l'Office des poursuites de Genève sur tous avoirs, espèces, valeurs, titres, créances
+et autres biens en compte, dépôt ou coffre-fort, de quelque nature que ce soit dont B.________
+est le titulaire ou l’ayant droit économique, déposés auprès de BNP Paribas
+(Suisse) SA, à Genève, soit notamment deux comptes (1), et sur toutes actions et/ou certificats
+d’actions dont B.________ est titulaire dans la société Z.________SA, à [...] (2) ;
+-
+à l'Office des poursuites du district de La Veveyse sur toutes actions et/ou certificats d’actions
+dont B.________ est titulaire dans la société Q.________Ltd, à [...] ;
+-
+à l'Office des poursuites du Seeland à Bienne, sur toutes actions et/ou certificats d’actions
+dont B.________ est titulaire dans la société V.________SA, à Bienne ;
+-
+à l'Office des poursuites de Lucerne, sur toutes actions et/ou certificats d’actions dont
+B.________ est titulaire dans la société D.________AG, à Lucerne ;
+-
+à l'Office des poursuites de Zurich, Kreis 1, sur tous avoirs, espèces, valeurs, titres, créances
+et autres biens en compte, dépôt ou coffre-fort, de quelque nature que ce soit dont B.________
+est le titulaire ou l’ayant droit économique, déposés auprès d’UBS Switzerland
+AG, à Zurich, soit notamment onze comptes ;
+-
+à l'Office des poursuites de Zurich, Kreis 2, sur une police d’assurance de B.________ auprès
+de Swiss Life AG, à Zurich ;
+-
+à l'Office des poursuites de Winterthur, sur trois polices d’assurance de B.________ auprès
+de AXA, à Winterthur.
+c)
+Par
+acte déposé le 22 février 2019, B.________ a formé opposition au séquestre et
+a conclu, avec suite de frais et dépens, à ce que l’ordonnance de séquestre
+du 11 février 2019 soit annulée et à ce qu’il soit ordonné aux différents
+offices des poursuites concernés de libérer les biens séquestrés sur la base de cette
+ordonnance, W.________ étant condamnée au paiement de tous les frais et dépens de la procédure,
+y compris une équitable indemnité pour les honoraires du conseil de l’opposant, et déboutée
+de toutes autres conclusions. Il a notamment soutenu que le séquestre était fondé sur
+un abus de droit manifeste de la requérante, que celle-ci avait déjà obtenu un séquestre
+auprès du Tribunal de première instance de Genève pour la même créance, qu’elle
+refusait de collaborer à la vente de biens immobiliers à Paris et à Genève et qu’elle
+poursuivait de toute évidence le but de lui nuire en le mettant dans une situation de banqueroute
+et de l’empêcher de vivre en bloquant toute sa fortune alors qu’il n’avait pas
+de revenus et vivait de celle-ci ; il y avait également selon lui un abus manifeste à
+lui réclamer des intérêts, alors que c’était la requérante qui l’empêchait
+d’honorer son obligation ; enfin, l’un des comptes séquestrés auprès
+d’UBS était un compte dont il était titulaire avec sa compagne et non seul, de sorte
+qu’à tout le moins le séquestre sur ce compte joint devait être annulé. Il
+a produit vingt-six pièces sous bordereau.
+L’intimée a produit ses déterminations le 21 mars 2019, concluant au rejet de l’opposition,
+à la confirmation de l’ordonnance de séquestre du 11 février 2019, à la condamnation
+de l’opposant à tous les frais et dépens de la procédure et à ce que l’opposant
+ou tout tiers soit débouté de toutes autres ou contraires conclusions.
+Le 25 mars 2019, l’opposant a produit une décision du Tribunal de première instance de
+Genève, rendue le 20 mars 2019 dans la cause en opposition au séquestre ordonné par ce
+tribunal (ordonnance de séquestre du 20 décembre 2018), constatant que la procédure était
+devenue sans objet, à la suite d’un courrier de W.________ qui informait le tribunal « avoir
+donné contrordre au séquestre auprès des offices des poursuites concernés ».
+Selon le procès-verbal de l’audience qui s’est tenue contradictoirement le 28 mars 2019,
+les parties ont indiqué à la juge de paix que le séquestre exécuté par l’Office
+des poursuites de Genève avait été retiré et que celui exécuté par l’Office
+de Zurich avait été suspendu ; B.________ a confirmé qu’il ne contestait pas
+sa dette envers W.________. Son conseil a plaidé l’abus de droit.
+2.
+Par prononcé du 10 avril 2019, la Juge de
+paix du district de Nyon a rejeté l’opposition (I), a confirmé l’ordonnance de
+séquestre du 11 février 2019 (II), a arrêté à 1’800 fr. les frais judiciaires,
+compensés avec l’avance de frais de l’opposant (III), les a mis à la charge de
+celui-ci (IV), et a dit qu’il verserait à l’intimée la somme de 6'000 fr. à
+titre de dépens (V).
+Par lettre du 23 avril 2019, l’opposant a requis la motivation de cette décision, dont le
+dispositif, adressé aux parties le 11 avril 2019, lui avait été notifié le 15 avril
+2019.
+Le prononcé motivé a été adressé aux parties le 8 juillet 2019 et notifié
+à l’opposant le lendemain.
+3.
+B.________ a recouru par acte du 18 juillet 2019,
+concluant à l’annulation du prononcé précité et à l’annulation de
+l’ordonnance de séquestre du 11 février 2019, à ce qu’il soit ordonné
+aux différents offices des poursuites concernés de libérer les biens séquestrés
+sur la base de cette ordonnance, à ce que W.________ soit condamnée au paiement de tous les
+frais de la procédure, y compris au remboursement de l’avance de frais de première instance
+de 1'800 fr., et au paiement de dépens de 35'556 fr. 65 « pour les honoraires réels »
+du conseil du recourant, et à ce qu’elle soit déboutée de toutes autres conclusions.
+Par courrier posté le 30 juillet 2019, le recourant a déposé une « pièce
+additionnelle », soit une décision rendue le 22 juillet 2019 par la Présidente du
+Tribunal d’arrondissement de Nyon, autorité inférieure de surveillance, rejetant la plainte
+déposée le 21 février 2019 par B.________ contre l’Office des poursuites du district
+de Nyon, relative au séquestre litigieux dans la présente cause.
+En droit
+:
+I.
+a)
+Conformément à l'art. 278 al. 3 LP,
+la décision du juge du séquestre statuant sur opposition peut faire l’objet d’un
+recours au sens des art. 319 ss CPC (Code de procédure civile ; RS 272).
+En l'espèce, le recours a été déposé
+dans les formes requises et en temps utile (art. 321 al. 1 et 2 CPC), de sorte qu'il est recevable.
+b)
+En matière d'opposition au séquestre, les parties peuvent alléguer des faits nouveaux
+(art. 278 al. 3 LP). Cette disposition déroge à l'art. 326 al. 1 CPC et permet aux parties
+à un recours contre une décision sur opposition au séquestre d'alléguer des faits
+nouveaux et de produire des pièces nouvelles. La portée de cette disposition, dont la lettre
+n'a pas changé, est la même que sous l'ancien droit, en ce sens que seuls les « vrais
+nova » peuvent être invoqués (CPF 9 décembre 2016 et les références
+citées), les « pseudo nova » ne pouvant l’être qu’à certaines
+conditions.
+En l’espèce, la pièce nouvelle produite par le recourant constitue un vrai novum ;
+la question de la recevabilité de sa production après l’expiration du délai de recours
+se pose, mais peut rester ouverte (cf. TF 5A_626/2018 consid. 6.6.4, destiné à la publication),
+cette pièce n’ayant pas d’influence sur le sort du recours.
+II.
+a)
+Aux termes de l'art. 272 al. 1 LP, le séquestre
+est autorisé à condition que le créancier rende vraisemblable que sa créance existe
+(ch. 1), qu'on est en présence d'un cas de séquestre (ch. 2) et qu'il existe des biens appartenant
+au débiteur (ch. 3).
+L’art. 271 al. 1 ch. 6 LP prévoit que le créancier d’une dette échue et non
+garantie par gage peut requérir le séquestre des biens du débiteur qui se trouvent en
+Suisse, lorsqu’il possède contre ce dernier un titre de mainlevée définitive, au
+sens l’art. 80 LP.
+b)
+Dans la décision attaquée, la juge de paix a considéré que les conditions posées
+par l’art. 272 al. 1 LP étaient réalisées, la partie séquestrante rendant
+vraisemblables l’existence et l’exigibilité de ses créances à hauteur de 2'587’790
+fr., la réalisation du cas de séquestre prévu à l’art. 271 al. 1 ch. 6 LP,
+ainsi que l’existence de biens appartenant au débiteur séquestré, d’ailleurs
+non contestée ; elle a considéré en outre que le dispositif du jugement de divorce
+des parties, qui constituait un titre de mainlevée définitive, ne soumettait pas le versement
+de la soulte de 2'587’790 fr. en faveur de la créancière séquestrante à la
+vente de la maison conjugale, ou de tout autre bien, de sorte qu’il n’y avait pas d’abus
+de droit d’exiger ce paiement par la voie du séquestre avant la vente de dite maison ou de
+l’immeuble parisien ; elle a considéré enfin que l’art. 271 al. 1 ch. 6 LP
+ne supposait pas une situation d’urgence et a rejeté le grief d’abus de droit que soulevait
+le débiteur séquestré en soutenant que le séquestre avait été requis alors
+qu’aucune urgence ne le justifiait. Par ailleurs, la juge de paix a considéré qu’elle
+n’était pas compétente pour examiner le grief d’abus de droit soulevé par
+le débiteur contre le séquestre de ses biens à hauteur de trois fois le montant de la
+créance de 2'587’790 fr. plus intérêt à 5 % l’an dès le 4
+février 2019, grief irrecevable devant le juge du séquestre, pour le motif qu’il concernait
+l’exécution du séquestre et devait être examiné par l’autorité inférieure
+de surveillance, soit le président du tribunal d’arrondissement, dans le cadre d’une
+plainte au sens de l’art. 17 LP.
+c) aa)
+Le recourant soutient que la requête
+de séquestre est abusive. Il fait valoir que l’esprit de cette institution est de protéger
+le créancier contre le mauvais payeur, alors que lui n’aurait jamais eu l’intention
+de se dérober à ses obligations ; l’intimée aurait ainsi utilisé le séquestre
+de manière injustifiée, pour atteindre d’autres buts que celui prévu par la loi
+et notamment aux fins de lui nuire.
+La requête de séquestre de l’intimée est fondée sur l’art. 271 al. 1
+ch. 6 LP. Dans ce cas, le créancier séquestrant n’a pas à rendre vraisemblable que
+le débiteur tente de se soustraire à ses obligations. Il lui suffit de rendre vraisemblable
+l’existence d’un titre de mainlevée définitive, soit d’un jugement exécutoire
+fondant sa créance, et l’exigibilité de celle-ci. Cette preuve a été apportée
+en l’espèce à satisfaction.
+Le moyen est mal fondé.
+bb)
+Se fondant sur l’arrêt du Tribunal fédéral 5A_925/2012 du 5 avril 2013, le recourant
+fait valoir que la créancière avait cumulé deux séquestres identiques, ce qui serait
+abusif.
+L’arrêt en question rappelle que le patrimoine du débiteur ne doit pas être séquestré
+au-delà de la créance réclamée, plusieurs séquestres pouvant cependant coexister
+dans cette limite. Quoi qu’il en ait été en l’espèce, le premier séquestre
+obtenu à Genève n’est plus en vigueur, de sorte que la question du caractère éventuellement
+abusif de la pluralité de séquestres ne se pose plus. La cour de céans n’a pas à
+examiner l’historique de la situation actuelle, mais la conformité au droit du séquestre
+qui lui est soumis.
+Le moyen est mal fondé.
+cc)
+Le
+recourant fait valoir que le blocage – excessif, selon lui – de ses biens a retardé
+le règlement de sa dette et que cela lui a causé un dommage en intérêts moratoires.
+Il requiert que le séquestre, s’il est maintenu, soit ordonné à concurrence du montant
+de la créance en capital, sans les intérêts moratoires.
+En vertu de l’art. 273 LP, le créancier répond du dommage qu’un séquestre
+injustifié peut causer notamment au débiteur, qui dispose donc d’une action en dommages-intérêts
+pour faire valoir ses éventuelles prétentions à ce titre.  Cela ne constitue pas
+un motif pour admettre l’opposition du recourant au séquestre en cause.
+Quant à l’intérêt moratoire, il est dû ex lege par le débiteur en demeure
+pour le paiement d’une somme d’argent (art. 104 al. 1 CO [Code des obligations ; RS
+220]) et on ne saurait le refuser au créancier sur la base d’allégations non établies
+selon lesquelles ce dernier refuserait ou empêcherait le paiement.
+Le moyen est mal fondé.
+dd)
+Le recourant reproche au premier juge de ne pas avoir examiné tous ses arguments, notamment ceux
+relatifs à l’abus de droit.
+La jurisprudence a déduit du droit d'être entendu garanti par l'art. 29 al. 2 Cst. (Constitution
+fédérale ; RS 101) l'obligation pour les autorités de motiver leurs décisions.
+Le droit d'être entendu, en tant que droit rattaché à la personnalité permettant
+de participer à la procédure, exige que l'autorité entende effectivement les arguments
+de la personne touchée dans sa situation juridique par la décision, qu'elle examine ses arguments
+avec soin et sérieux, et qu'elle en tienne compte dans la prise de décision. De là découle
+l'obligation fondamentale des autorités de motiver leurs décisions. Dans ce sens, il faut que
+les considérations qui ont guidé l'autorité et sur lesquelles elle a fondé sa décision
+soient à tout le moins brièvement exposées (ATF 129 I 235 consid. 3.2, JdT 2004 I 588).
+Toutefois, l'autorité n'a pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve
+et griefs invoqués par les parties, mais elle peut au contraire se limiter à ceux qui, sans
+arbitraire, lui paraissent pertinents (ATF 143 III 65 consid. 5.2 ; ATF 142 III 433 consid. 4.3.2 ; ATF
+138 I 232 consid. 5.1 ; ATF 133 III 439 consid. 3.3, JdT 2008 I 4).
+En l’espèce, contrairement à ce
+que soutient le recourant, la juge de paix a rapporté dans sa décision les différents
+arguments de ce dernier (cf. prononcé pp. 6 et 7) et y a répondu (cf. p. 8), de manière
+certes brève, mais satisfaisant néanmoins au respect du droit d’être entendu.
+Le moyen est mal fondé.
+ee)
+Le recourant se plaint d’une inégalité des droits entre séquestrant et séquestré.
+Ces critiques, visant la procédure en général et non la décision attaquée, sont
+dénuées de pertinence dans le cadre du recours.
+III.
+Vu ce qui précède, le recours, manifestement
+infondé, doit être rejeté selon le mode procédural de l’art. 322 al. 1 CPC.
+Les frais judiciaires de deuxième instance, arrêtés à 2'250 fr., doivent être
+mis à la charge du recourant (art. 106 al. 1 CPC), qui en a déjà fait l’avance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 2’250 fr. (deux mille
+deux cent cinquante francs), sont mis à la charge du recourant B.________.
+IV.
+L'arrêt est exécutoire.
+Le
+vice-président :
+La greffière :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. B.________,
+‑
+Me Anne Reiser, avocate (pour W.________),
+-
+M. le Préposé à l’Office des poursuites du district de Nyon,
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des poursuites de Genève,
+-
+M. le Préposé à l'Office des poursuites du district de La Veveyse,
+-
+M. le Préposé à l'Office des poursuites du Seeland,
+-
+M. le Préposé à l'Office des poursuites de Lucerne,
+-
+M. le Préposé à l'Office des poursuites de Zurich, Kreis 1,
+-
+M. le Préposé à l'Office des poursuites de Zurich, Kreis 2,
+-
+M. le Préposé à l'Office des poursuites de Winterthur.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 2'587’790 francs.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de Nyon.
+La greffière :
