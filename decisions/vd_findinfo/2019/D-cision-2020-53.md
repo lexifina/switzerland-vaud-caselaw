@@ -1,0 +1,665 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___53"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 53"
+decided: "2019-11-01"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7564824"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-519.md", "switzerland/bund/acts/311.0/art-110.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/311.0/art-157.md", "switzerland/bund/acts/311.0/art-181.md", "switzerland/bund/acts/311.0/art-251.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2020 / 53
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, TESTAMENT, FAUX MATÉRIEL DANS LES TITRES, USAGE DE FAUX{DROIT PÉNAL}, ASSISTANCE JUDICIAIRE | 146 CP, 157 CP, 181 CP, 251 CP, 136 CPP (CH), 319 al. 1 CPP (CH), 6 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 01.11.2019 Décision / 2020 / 53
+
+CLASSEMENT DE LA PROCÉDURE, TESTAMENT, FAUX MATÉRIEL DANS LES TITRES, USAGE DE FAUX{DROIT PÉNAL}, ASSISTANCE JUDICIAIRE | 146 CP, 157 CP, 181 CP, 251 CP, 136 CPP (CH), 319 al. 1 CPP (CH), 6 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+878
+PE10.021271-PGN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+1er novembre 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Oulevey, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+146, 157, 181 et 251 CP ; 6, 136 al. 1 let. b et 319 al. 1 CPP
+Statuant sur le recours interjeté le 30 août 2019 par
+A.X.________
+,
+B.X.________
+,
+et
+C.X.________
+contre l’ordonnance de classement rendue le 13 août 2019 par le Procureur cantonal Strada
+dans la cause
+n° PE10.021271-PGN
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+B.________ est décédée le [...]
+2009, sans laisser de descendants en ligne directe. Cinq testaments ont été produits auprès
+de la Justice de paix du district de Lausanne. Un premier daté du 17 novembre 2004 en faveur de
+X.________ et, en cas de prédécès, de ses enfants A.X.________, B.X.________ et C.X.________
+à parts égales (P. 5/6 et 17/12), les suivants datés des 25 janvier 2009, 11 février
+2009 et 21 février 2009 en faveur de C.________ comme unique héritière (P. 8/1, 8/2
+et 17/4) et un cinquième daté du 28 février 2009 en faveur de A.S.________ uniquement
+(P. 5/7, 17/5 et 17/10).
+b)
+Par courrier du 26 mars 2010 parvenu à la Justice de paix du district de Lausanne le 1
+er
+avril 2010, A.X.________, B.X.________ et C.X.________ ont formé opposition au testament du 21 février
+2009 instituant C.________ seule héritière de B.________. Ils estimaient que le document aurait
+été rédigé sous la contrainte, C.________ ayant profité de sa position d’amie,
+de médecin et d’administratrice de la défunte pour la pousser à rédiger un
+testament en sa faveur. Ils estiment également que B.________ n’aurait pas eu les capacités
+physiques et psychiques suffisantes pour rédiger seule son testament, de sorte qu’il ne serait
+pas le fruit de sa volonté (P. 17/3).
+c)
+Le 30 mars 2010, C.________ a formé opposition auprès de la Justice de paix du district de
+Lausanne au testament du 28 février 2009 instituant A.S.________ unique héritier, au motif
+qu’il devait s’agir d’un faux, dès lors que son amie B.________ n’aurait
+pas entretenu de relations personnelles avec les A.S.________, des membres de sa famille éloignée.
+Elle a également affirmé que la défunte souffrait de déficience visuelle restreignant
+sa faculté à lire et écrire, de sorte que ce dernier testament n’aurait pas pu être
+si bien écrit (P. 5/8).
+d)
+Le 14 avril 2010, A.X.________, B.X.________ et C.X.________ ont formé opposition au testament du
+28 février 2009 instituant A.S.________ unique héritier, estimant qu’il s’agissait
+d’un faux, B.________ n’ayant pas la force physique et psychique pour écrire un tel
+document (P. 5/9 et 17/3). Selon eux, ce document aurait été copié sur le testament en
+leur faveur du 17 novembre 2004.
+e)
+Par courrier du 16 avril 2010 adressé à la Justice de paix du district de Lausanne, C.________
+a derechef formé opposition au testament du 28 février 2009 instituant A.S.________ unique
+héritier, considérant qu’il s’agissait d’un faux (dossier C, p. 6/8).
+f)
+Par décision du 11 mai 2010, la Juge de paix du district de Lausanne a ordonné l’administration
+d’office de la succession de B.________, a pris acte de la requête de bénéfice d’inventaire
+formée par A.S.________ le 21 avril 2010, a suspendu l’ouverture de la procédure de bénéfice
+d’inventaire jusqu’à droit connu sur la qualité d’héritier de A.S.________,
+a refusé de stopper les procédures successorales vraisemblablement ouvertes en Pologne, a transmis
+le dossier à la Justice de paix du district de Lausanne pour qu’elle procède à la
+nomination d’un administrateur d’office et a fait interdiction à C.________, A.X.________,
+B.X.________, C.X.________ et A.S.________ d’effectuer tout transfert ou acte de disposition à
+l’égard de tout avoirs, espèces, valeurs, titres, documents, créances, droits, objets
+et autres biens de quelque nature qu’il soit, en compte, dépôt au coffre-fort, etc.,
+propriété de feue B.________.
+g)
+Par courrier du 31 août 2010, parvenu au Ministère public de l’arrondissement de Lausanne
+le 2 septembre 2010, C.________ a déposé plainte pénale contre A.S.________ pour
+faux dans les titres et tentative d’escroquerie (P. 4). Elle lui reprochait d'avoir produit un
+faux testament, qui aurait été décalqué sur celui du 17 novembre 2004.
+D’office et ensuite de cette plainte, une instruction pénale a été ouverte par le
+Ministère public de l'arrondissement de Lausanne sous la référence PE10.021271, pour notamment
+escroquerie et faux dans les titres (dossier A).
+h)
+Par courrier du 18 avril 2011, parvenu au Ministère public de l’arrondissement de Lausanne
+le 26 avril 2011, A.S.________ a déposé plainte pénale contre C.________ pour « vol,
+captation d’héritage, détournement et dissimulation de succession, faux et usage de faux
+en écriture, abus de faiblesse, voire toute autre infraction ». Il lui reprochait d’avoir
+profité de la faiblesse psychique et physique de B.________, liée à son âge, pour
+la manipuler afin qu’elle rédige un testament en sa faveur. Il soutient que le testament,
+existant en plusieurs versions, n’aurait pas été rédigé librement, C.________
+étant intervenue dans la forme et la mise en forme de ces documents (dossier B, P. 4/1).
+D’office et ensuite de cette plainte, une instruction pénale a été ouverte par le
+Ministère public de l'arrondissement de Lausanne sous la référence PE11.006194 (dossier
+B).
+i)
+Par ordonnance du 22 juin 2011, le Ministère public de l'arrondissement de Lausanne a ordonné
+la jonction de l'enquête PE11.006194 à l'enquête PE10.021271.
+j)
+Le 5 mars 2012, B.S.________ a déposé plainte pénale contre C.________, A.S.________,
+A.X.________, B.X.________ et C.X.________, contestant l’authenticité de tous les testaments,
+ce qui a amené le Ministère public de l'arrondissement de Lausanne à ouvrir une nouvelle
+instruction sous la référence PE12.004284 (dossier C, P. 5). B.S.________ estimait que
+tous les testaments seraient des faux ou que la main de la testatrice aurait été guidée,
+s’agissant du testament instituant C.________ héritière. Elle prétendait ainsi être
+l’héritière légale de la défunte B.________.
+k)
+Par ordonnance du 20 avril 2012, le Ministère public de l’arrondissement de Lausanne a ordonné
+la jonction des enquêtes PE12.004284 et PE10.021271.
+l)
+Une expertise en écriture a été
+ordonnée. Dans son rapport du 23 février 2012, l'inspectrice scientifique de l'Identité
+judiciaire a conclu que la source commune entre l'écriture du testament du 17 novembre 2004 et l'écriture
+du testament du 21 février 2009 était exclue, que le testament du 28 février 2009 était,
+selon toute vraisemblance, un faux par calque direct réalisé à partir du testament du
+17 novembre 2004, et que les concordances et discordances observées soutenaient très fortement
+l'hypothèse selon laquelle ces trois testaments avaient été rédigés par trois
+personnes différentes (P. 21).
+m)
+Le 19 décembre 2012, C.________ s'est déterminée spontanément sur l'expertise en
+écriture et a étendu sa plainte pénale contre A.S.________ pour induction de la justice
+en erreur, calomnie et dénonciation calomnieuse notamment.
+n)
+Par arrêts des 1
+er
+septembre 2015, 27 février 2017 et 7 mars 2018, la Chambre des recours pénale du Tribunal cantonal
+a admis trois recours interjetés par C.________ pour déni de justice et retard injustifié.
+o)
+Le 15 septembre 2015, A.X.________, B.X.________ et C.X.________ ont déposé plainte contre
+A.S.________ pour faux dans les titres (P. 47/1). Ils le soupçonnaient d’avoir rédigé
+le testament du 28 février 2009.
+p)
+Dans son rapport du 15 mars 2018, la Police de sûreté, Brigade de police scientifique, a procédé
+à la comparaison des testaments des 17 novembre 2004 et 21 février 2009 avec sept agendas et
+deux cahiers à titre de matériel de comparaison pour authentifier son écriture durant
+la période allant de 2003 à 2009, durant laquelle B.________ a vu son état physique se
+dégrader, ce qui a influencé sa capacité à écrire. Au terme de son rapport,
+la Brigade de police scientifique a conclu que les testaments des 17 novembre 2004 et 21 février
+2009 avaient été écrits par la même personne, à savoir B.________ (P. 75/1).
+q)
+Le 4 juillet 2018, C.________ s’est déterminée sur l’avis de prochaine clôture
+rendu par le Ministère public cantonal Strada le 9 mai 2018 dans le cadre de l’enquête
+ouverte contre elle (P. 82). Elle a requis l’allocation d’une indemnité au titre de
+l’art. 429 CPP de 40'000 fr., soit 25'000 fr. pour ses frais de défense et 15'000 fr.
+pour tort moral, à la charge de A.S.________ et B.S.________. Pour le surplus, elle a conclu à
+ce qu’il lui soit donné acte de ses réserves civiles contre ces derniers.
+r)
+Le 20 septembre 2018, A.S.________ s’est déterminé sur l’avis de prochaine clôture
+rendu par le Ministère public cantonal Strada le 9 mai 2018 (P. 90/1).
+s)
+Le 20 septembre 2018, A.X.________, B.X.________ et C.X.________
+se sont également déterminés sur
+l’avis de prochaine clôture du 9 mai 2018 (P. 89). Ils ont requis l’audition de [...]
+et de [...], des amis proches de la défunte pouvant témoigner de la relation de cette dernière
+avec C.________, ainsi que la production par [...] du dossier administratif et médical de la défunte
+dans le but d’attester de la capacité de discernement de cette dernière lors de son séjour
+à l’EMS (établissement médico-social). Ils ont conclu à l’allocation
+d’une indemnité fondée sur l’art. 433 CPP à hauteur de 14'551 fr. 23, à
+la charge de C.________ et A.S.________, solidairement entre eux, et que, pour le surplus, il leur soit
+donné acte de leurs réserves civile.
+t)
+Le 27 septembre 2018, C.________ a transmis des observations complémentaires (P. 91/2).
+B.
+a)
+Par ordonnance du 13 août 2019, le Ministère
+public cantonal Strada a rejeté les réquisitions de preuve formulées par A.X.________,
+B.X.________ et C.X.________, a ordonné le classement de la procédure pénale dirigée
+contre C.________ pour faux dans les titres, subsidiairement escroquerie (I), lui a alloué une indemnité
+de 5'385 fr., TVA comprise, pour l’exercice raisonnable de ses droits de procédure (II),
+lui a alloué une indemnité de 2'000 fr. pour tort moral (III), lui a donné acte de ses
+prétentions civiles pour le surplus (IV), a rejeté la demande d’indemnité d’A.X.________,
+B.X.________ et C.X.________ fondée sur l’art. 433 CPP, en tant qu’elle était dirigée
+contre C.________ (V) et a laissé les frais de procédure lié à ce pan du dossier,
+par 2'000 fr., à la charge de l’Etat (VI).
+S’agissant des réquisitions de preuves, le Procureur a considéré que le point de
+savoir si B.________ disposait de son discernement au moment où elle avait rédigé les
+testaments litigieux avait déjà été instruit par le témoignage de son médecin-traitant,
+le Dr H.________. Au surplus, la production du dossier médical ne pouvait pas apporter plus d’élément
+que le témoignage de celui qui avait constitué ce dossier. Quant aux auditions de témoins,
+il n’apparaissait pas utile de déterminer si C.________ était la seule amie de la défunte,
+ces éléments ressortant également du témoignage du Dr H.________. Au demeurant, ces
+éléments n’étaient pas déterminants sur le plan pénal.
+Sur le fond, le Procureur a considéré que la nouvelle analyse de l’Identité judiciaire
+(Brigade de police scientifique, réd.), qui a pu comparer des documents manuscrits de la défunte
+mettant en évidence l’évolution de l’écriture de celle-ci, attestait que le
+premier testament de 2004 et celui produit par C.________ en 2010 avaient été écrits par
+la même personne, à savoir B.________. Les soupçons de faux dans les titres à l’encontre
+de la prévenue étaient donc infondés. Quant aux reproches selon lesquels C.________ aurait
+profité de la faiblesse psychique de la testatrice pour la manipuler et lui faire rédiger un
+testament en sa faveur, ils devaient également faire l’objet d’un classement, compte
+tenu de l’audition du Dr H.________ indiquant que sa patiente n’était pas influençable
+et qu’elle avait, à son avis, gardé son discernement jusqu’à son décès.
+Ce témoin avait en outre affirmé que B.________ et C.________ s’appréciaient mutuellement,
+la deuxième ayant montré beaucoup de sollicitude à l’égard de la première,
+qui lui était reconnaissante pour ses bons offices. Par conséquent, le contenu du testament
+en faveur de C.________ paraissait se justifier par le soutien apporté par C.________ à B.________
+dans les années précédant son décès, de sorte qu’il n’y avait aucun
+élément parlant en faveur de pressions ou de manipulations qu’aurait subis la testatrice
+de la part de C.________. La procédure dirigée contre elle devait ainsi être classée.
+b)
+Par ordonnance pénale du 19 août 2019, le Ministère public cantonal Strada a condamné
+A.S.________ à 90 jours-amende à 30 fr. le jour, avec sursis pendant 2 ans, pour tentative
+d’escroquerie, a alloué un montant de 5'892 fr. 50 à A.X.________, B.X.________ et C.X.________,
+à charge de A.S.________, les parties plaignantes étant renvoyées à agir devant le
+juge civil pour le surplus, et a statué sur les frais et l’indemnité du conseil d’office
+des plaignants.
+Le Procureur a considéré qu’il ressortait clairement du rapport de l’Identité
+judiciaire que le testament daté du 28 février 2009 et produit par A.S.________ à la Justice
+de paix le 15 mars 2010 constituait un faux, créé par calque direct avec un testament précédent.
+Le 29 août 2019, A.S.________ a formé opposition à cette ordonnance pénale.
+C.
+a)
+Par acte du 30 août 2019, A.X.________, B.X.________ et C.X.________ ont interjeté recours
+auprès de la Chambre des recours pénale contre l’ordonnance de classement du 13 août
+2019, en concluant, avec suite de frais et dépens, à son annulation et au renvoi de la cause
+au Ministère public cantonal Strada pour complément d’instruction à l’encontre
+de C.________, dans le sens des considérants et des réquisitions de preuve formulées dans
+leur courrier du 20 septembre 2018.
+A l’appui de leur recours, A.X.________, B.X.________ et C.X.________ ont produit un bordereau
+de pièces.
+b)
+Par requête du 30 août 2019, C.X.________ a requis l’octroi de l’assistance judiciaire
+gratuite complète, avec effet rétroactif au 20 août 2019, en ce sens qu’il soit
+exonéré d’avance de frais et de sûretés, qu’il ne soit pas perçu
+de frais et que Me Antoine Eigenmann soit désigné en qualité de conseil d’office.
+A l’appui de sa requête, C.X.________ a produit un bordereau de pièces.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let.
+b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi vaudoise du 19 mai 2009 d’introduction du Code de procédure pénale suisse ;
+BLV 312.01] ; art. 80 LOJV [loi vaudoise du 12 décembre 1979 d’organisation
+judiciaire ; BLV 173.01]).
+En l’espèce, interjeté en temps utile devant l’autorité compétente, par
+des parties qui ont qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant
+aux conditions de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Les recourants invoquent une violation du principe «
+in
+dubio pro duriore
+» et de leur droit
+d’être entendu, leurs réquisitions de preuve – tendant à l’audition
+de deux témoins et à la production du dossier administratif et médical de la défunte
+par l’EMS dans lequel elle résidait à son décès – ayant été
+écartées selon eux à tort par le Procureur. Ils soutiennent qu’une influence de
+C.________ ne pourrait pas être exclue et que, de même, une incapacité de discernement
+de la défunte ne pourrait pas être écartée, compte tenu de son grand âge et
+de son état de santé au moment de rédiger les testaments en faveur de la prévenue.
+Quant à l’avis du Dr H.________, médecin-traitant de la défunte, il ne serait
+pas probant, celui-ci étant proche de la prévenue.
+2.2
+2.2.1
+Selon l'art. 319 al. 1 CPP, le ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e). L'art. 319 al. 2 CPP prévoit encore deux
+autres motifs de classement exceptionnels (intérêt de la victime ou consentement de celle-ci
+au classement).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). La décision de classer la procédure doit être prise en application du principe
+in dubio pro duriore
+,
+qui signifie qu’en règle générale, un classement ou une non-entrée en matière
+ne peut être prononcé par le ministère public que lorsqu’il apparaît clairement
+que les faits ne sont pas punissables ou que les conditions à la poursuite pénale ne sont pas
+remplies. La procédure doit se poursuivre lorsqu’une condamnation apparaît plus vraisemblable
+qu’un acquittement ou lorsque les probabilités d’acquittement et de condamnation apparaissent
+équivalentes, en particulier en présence d’une infraction grave. En effet, en cas de
+doute s’agissant de la situation factuelle ou juridique, ce n’est pas à l’autorité
+d’instruction ou d’accusation mais au juge matériellement compétent qu’il
+appartient de se prononcer (ATF 143 IV 241 consid. 2.2.1, JdT 2017 IV 357 ;
+ATF 138 IV 86 consid. 4.1.1 et les références citées ; TF 6B_116/2019 du 11 mars
+2019 consid. 2.1). En revanche, le ministère public doit classer la procédure s’il
+apparaît, sur la base de faits assez clairs pour qu’il n’y ait pas lieu de s’attendre
+à une appréciation différente de l’autorité de jugement (ATF 143 IV 241 précité),
+qu’un renvoi aboutirait selon toute vraisemblance à un acquittement.
+Pour pouvoir constater légitimement que l’instruction ne corrobore aucun soupçon justifiant
+une mise en accusation (art. 319 al. 1 let. a CPP), le ministère public doit avoir préalablement
+procédé, conformément à la maxime de l’instruction (art. 6 al. 1 CPP), à
+toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 11 octobre 2019 consid. 2.2.1 ;
+CREP 10 mai 2016/305 et les références citées).
+2.2.2
+Selon l’art. 6 CPP, les autorités pénales
+recherchent d’office tous les faits pertinents pour la qualification de l’acte et le jugement
+du prévenu (al. 1). Elles instruisent avec un soin égal les circonstances qui peuvent être
+à la charge et à la décharge du prévenu (al. 2).
+La procédure pénale est ainsi régie par la maxime inquisitoire, selon laquelle le ministère
+public doit adopter un comportement actif, à savoir rechercher lui-même les faits, d’office
+et en toute indépendance, dans le but de former son intime conviction et d’établir la
+vérité matérielle. Cette maxime n’oblige pas le magistrat à administrer d’office
+de nouvelles preuves lorsqu’il a déjà formé son opinion sur la base du dossier et
+parvient à la conclusion que les preuves en question ne sont pas décisives pour la solution
+du litige ou ne pourraient pas l’amener à modifier son opinion. S’agissant des faits
+pertinents, l’autorité dispose d’une liberté d’appréciation étendue
+et il lui appartient, en fonction de la complexité du cas, de la gravité de l’infraction
+et des moyens financiers à sa disposition, de définir le stade à partir duquel les faits
+sont suffisamment élucidés (Moreillon/Parein-Reymond, Petit Commentaire du Code de procédure
+pénale, 2
+e
+éd.,
+Bâle 2016, nn. 4 et 8 ad art. 6 CPP et les références citées).
+Conformément à la maxime de l’instruction, les autorités pénales mettent en
+œuvre tous les moyens de preuves licites qui, selon l'état des connaissances scientifiques
+et l'expérience, sont propres à établir la vérité
+(art.
+139 al. 1 CPP).
+2.2.3
+Réprimant le faux dans les titres, l'art. 251 CP prévoit que sera puni d'une peine privative
+de liberté de cinq ans au plus ou d'une peine pécuniaire celui qui, dans le dessein de porter
+atteinte aux intérêts pécuniaires ou aux droits d'autrui ou de se procurer ou de procurer
+à un tiers un avantage illicite, aura créé un titre faux, falsifié un titre, abusé
+de la signature ou de la marque à la main réelles d'autrui pour fabriquer un titre supposé,
+ou constater ou fait constater faussement, dans un titre, un fait ayant une portée juridique, ou
+aura, pour tromper autrui, fait usage d'un tel titre (ch. 1). Les infractions du droit pénal relatives
+aux titres protègent la confiance qui, dans les relations juridiques, est placée dans un titre
+comme moyen de preuve. C'est pourquoi la loi considère comme titres les écrits destinés
+et propres à prouver un fait ayant une portée juridique et tous les signes destinés à
+prouver un tel fait (art. 110 ch. 4 CP).
+La notion de titre est définie par l'art. 110 al. 4 CP, qui prévoit que sont notamment réputés
+titres tous écrits destinés et propres à prouver un fait ayant une portée juridique
+(Corboz, Les infractions en droit suisse, vol. II, 3
+e
+éd. Berne 2010, nn. 15 et 24 ad art. 251 CP). La caractéristique essentielle du titre est qu'il
+doit être objectivement en mesure de prouver tout ou partie de ce qu'il exprime ; autrement dit,
+sa lecture doit fonder la conviction. L'aptitude à servir de preuve résulte de la loi ou des
+usages commerciaux (ATF 120 IV 361 consid. 2a). Le fait que le titre doive être en mesure de prouver
+doit en outre avoir une portée juridique ; le titre doit ainsi convaincre d'un fait dont dépend
+notamment la naissance, l'existence, la modification, l'extinction ou la modification d'un droit ; autrement
+dit, le fait doit être de nature à modifier la solution apportée à un problème
+juridique (Corboz, op. cit., nn. 20 et 27 ad art. 251 CP).
+L'art. 251 ch. 1 CP vise non seulement un titre faux ou la falsification d'un titre (faux matériel),
+mais aussi un titre mensonger (faux intellectuel). Il y a faux matériel lorsque l'auteur réel
+du document ne correspond pas à l'auteur apparent, alors que le faux intellectuel vise un titre
+qui émane de son auteur apparent, mais dont le contenu ne correspond pas à la réalité
+(ATF 138 IV 130 consid. 2.1, JdT 2013 IV 46). Un simple mensonge écrit ne constitue cependant pas
+un faux intellectuel. Le document doit revêtir une crédibilité accrue et son destinataire
+pouvoir s'y fier raisonnablement (ATF 142 IV 119 consid. 2.1 ; ATF 138 IV 130 consid. 2.1 ;
+ATF 132 IV 12 consid. 8.1).
+Du point de vue subjectif, le faux dans les titres
+est une infraction intentionnelle. L'intention doit porter sur tous les éléments constitutifs
+de l'infraction, le dol éventuel étant suffisant. De surcroît, l'art. 251 CP exige un
+dessein spécial, à savoir que l'auteur agisse afin de porter atteinte aux intérêts
+pécuniaires ou aux droits d'autrui ou de se procurer ou de procurer à un tiers un avantage
+illicite (TF 6B_891/2018 du 31 octobre 2018 consid. 3.5.1).
+La notion d'avantage illicite est très large.
+Elle vise toute type d'avantage, d'ordre matériel ou immatériel, qui peut être destiné
+à l'auteur lui-même ou à un tiers (ATF 129 IV 53 consid. 3.5 ;
+TF 6B_891/2018 du 31 octobre 2018 consid.
+3.5.1 ; TF 6B_116/2017 du 9 juin 2017 consid. 2.2.3). Le caractère illicite de l'avantage peut
+découler du droit suisse ou du droit étranger (Trechsel/Erni, Schweizerisches Strafgesetzbuch,
+Praxiskommentar, Trechsel/Pieth [éd.], 3
+e
+éd., 2018, n° 16 ad art. 251 CP) et
+ne requiert ni que l'auteur ait l'intention de porter préjudice, ni que l'obtention d'un avantage
+soit punissable au titre d'une autre infraction (ATF 129 IV 53 consid. 3.3). L'illicéité peut
+découler du but poursuivi ou du moyen utilisé, sans que l'avantage obtenu ne doive forcément
+être illicite en tant que tel. Ainsi, celui qui veut obtenir une prétention légitime ou
+éviter un inconvénient injustifié au moyen d'un titre faux est également punissable
+(ATF 128 IV 265 consid. 2.2 ; TF 6B_891/2018 du 31 octobre 2018 consid. 3.5.1 ; TF 6B_116/2017
+précité consid. 2.2.3).
+2.2.4
+En vertu de l'art. 146 CP, se rend coupable d'escroquerie celui qui, dans le dessein de se procurer ou
+de procurer à un tiers un enrichissement illégitime, aura astucieusement induit en erreur une
+personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou l'aura astucieusement
+confortée dans son erreur et aura de la sorte déterminé la victime à des actes préjudiciables
+à ses intérêts pécuniaires ou à ceux d'un tiers.
+Les éléments constitutifs objectifs de l’escroquerie sont une tromperie
+–
+qui peut être effectuée sous la forme d’affirmations fallacieuses, d’une dissimulation
+de faits vrais ou encore en confortant autrui dans son erreur –, une astuce, une induction en erreur,
+un acte de disposition, un dommage et un lien de causalité entre les éléments qui précèdent.
+Sur le plan subjectif, l’infraction requiert l’intention et un dessein d’enrichissement
+illégitime pour soi-même ou pour un tiers (Dupuis et al. [éd.], Petit commentaire du Code
+pénal, 2
+e
+éd., Bâle 2017, nn. 1 et 2, ad art. 146 CP).
+Il y a tromperie astucieuse, au sens de l'art. 146 CP, lorsque l'auteur recourt à un édifice
+de mensonges, à des manœuvres frauduleuses ou à une mise en scène, mais aussi lorsqu'il
+donne simplement de fausses informations, si leur vérification n'est pas possible, ne l'est que
+difficilement ou ne peut raisonnablement être exigée, de même que si l'auteur dissuade
+la dupe de vérifier ou prévoit, en fonction des circonstances, qu'elle renoncera à le
+faire en raison d'un rapport de confiance particulier (ATF 142 IV 153 consid. 2.2.2 ; ATF 135 IV
+76 consid. 5.2). L'astuce n'est toutefois pas réalisée si la dupe pouvait se protéger
+avec un minimum d'attention ou éviter l'erreur avec le minimum de prudence que l'on pouvait attendre
+d'elle. Il n'est cependant pas nécessaire qu'elle ait fait preuve de la plus grande diligence ou
+qu'elle ait recouru à toutes les mesures possibles pour éviter d'être trompée. L'astuce
+n'est exclue que si elle n'a pas procédé aux vérifications élémentaires que
+l'on pouvait attendre d'elle au vu des circonstances. Une coresponsabilité de la dupe n'exclut
+toutefois l'astuce que dans des cas exceptionnels (ATF 142 IV 153 consid. 2.2.2 ; ATF 135 IV 76
+consid. 5.2).
+Pour apprécier si l'auteur a usé d'astuce et si la dupe a omis de prendre des mesures de prudence
+élémentaires, il ne suffit pas de se demander comment une personne raisonnable et expérimentée
+aurait réagi à la tromperie. Il faut, au contraire, prendre en considération la situation
+particulière de la dupe, telle que l'auteur la connaît et l'exploite, par exemple une faiblesse
+d'esprit, l'inexpérience ou la sénilité, mais aussi un état de dépendance, d'infériorité
+ou de détresse faisant que la dupe n'est guère en mesure de se méfier de l'auteur. L'exploitation
+de semblables situations constitue précisément l'une des caractéristiques de l'astuce
+(ATF 128 IV 18 consid. 3a ; plus récemment : TF 6B_898/2017 du 8 mars 2018
+consid. 3.2).
+La tromperie (astucieuse) doit être la cause de l'erreur, en ce sens qu'elle doit déterminer
+la dupe à se faire une représentation erronée de la réalité. Il n'est pas nécessaire
+d'appréhender concrètement l'erreur dans laquelle se trouvait la dupe. Il suffit que cette
+dernière soit partie du principe que l'état de fait présenté par l'auteur était
+correct (ATF 118 IV 35 consid. 2c ; TF 6B_150/2017 du 11 janvier 2018 consid. 3.3, non publié
+aux ATF 144 IV 52).
+2.2.5
+Se rend coupable de contrainte, au sens de l'art. 181 CP, celui qui, en usant de violence envers une
+personne ou en la menaçant d'un dommage sérieux, ou en l'entravant de quelque autre manière
+dans sa liberté d'action, l'aura obligée à faire, ne pas faire ou à laisser faire
+un acte.
+Alors que la violence consiste dans l'emploi d'une force physique d'une certaine intensité à
+l'encontre de la victime (TF 6B_415/2018 du 20 septembre 2018 consid. 2.1.2 ; ATF 101 IV 42 consid.
+3a), la menace est un moyen de pression psychologique consistant à annoncer un dommage futur dont
+la réalisation est présentée comme dépendante de la volonté de l'auteur, sans
+toutefois qu'il soit nécessaire que cette dépendance soit effective (TF 6B_415/2018 précité
+consid. 2.1.2 ; ATF 117 IV 445 consid. 2b ; ATF 106 IV 125 consid. 2a) ni que l'auteur
+ait réellement la volonté de réaliser sa menace (TF 6B_415/2018 précité
+consid. 2.1.2 ; ATF 105 IV 120 consid. 2a). La loi exige un dommage sérieux, c'est-à-dire que
+la perspective de l'inconvénient présenté comme dépendant de la volonté de l'auteur
+soit propre à entraver le destinataire dans sa liberté de décision ou d'action. La question
+doit être tranchée en fonction de critères objectifs, en se plaçant du point de vue
+d'une personne de sensibilité moyenne (TF 6B_415/2018 précité consid. 2.1.2 ; ATF
+122 IV 322 consid. 1a ; ATF 120 IV 17 consid. 2a/aa).
+Il peut également y avoir contrainte lorsque l'auteur entrave sa victime « de quelque
+autre manière » dans sa liberté d'action. Cette formule générale doit être
+interprétée de manière restrictive. N'importe quelle pression de peu d'importance ne suffit
+pas. Il faut que le moyen de contrainte utilisé soit, comme pour la violence ou la menace d'un dommage
+sérieux, propre à impressionner une personne de sensibilité moyenne et à l'entraver
+d'une manière substantielle dans sa liberté de décision ou d'action. Il s'agit donc de
+moyens de contrainte qui, par leur intensité et leur effet, sont analogues à ceux qui sont
+cités expressément par la loi (TF 6B_153/2017 du 28 novembre 2017 consid. 3.1 ; ATF
+141 IV 437 consid. 3.2.1 ; ATF 137 IV 326 consid. 3.3.1). Selon la jurisprudence, la contrainte
+n'est contraire au droit que si elle est illicite (ATF 120 IV 17 consid. 2a et les arrêts cités ;
+TF 6B_415/2018 précité consid. 2.1.3), soit parce que le moyen utilisé ou le but
+poursuivi est illicite, soit parce que le moyen est disproportionné pour atteindre le but visé,
+soit encore parce qu'un moyen conforme au droit utilisé pour atteindre un but légitime constitue,
+au vu des circonstances, un moyen de pression abusif ou contraire aux mœurs (ATF 141 IV 437 consid.
+3.2.1 ; ATF 137 IV 326 consid. 3.3.1 ; ATF 120 IV 17 consid. 2a/bb ; TF 6B_415/2018 du
+20 septembre 2018 consid. 2.1.3).
+2.2.6
+Réprimant l'usure, l'art. 157 ch. 1 CP rend punissable celui qui exploite la capacité de jugement
+déficiente d'une personne en se faisant accorder par elle, pour lui-même ou pour un tiers,
+en échange d'une prestation, des avantages pécuniaires en disproportion évidente avec
+cette prestation sur le plan économique.
+Selon la jurisprudence, il résulte du libellé « en échange d'une prestation »
+que cette disposition pénale ne vise pas celui qui, même en exploitant la capacité de
+jugement déficiente d'autrui, se fait accorder des avantages pécuniaires sans lui-même
+accorder de contrepartie. En particulier, celui qui capte une donation ne commet pas le crime d'usure,
+et son acte n'est pas non plus punissable à un autre titre, parce qu'il ne fournit lui-même
+aucune prestation (ATF 142 IV 341 consid. 2).
+L’usure ne peut ainsi intervenir que dans le cadre de contrats onéreux, si bien qu’elle
+est exclue en matière d’actes unilatéraux et gratuits, tels par exemple la donation ou
+le testament (cf. Hurtado Pozo, Droit pénal, partie spéciale, Zürich 2009, n. 1457 s.
+§51, p. 431).
+2.3
+En l’espèce, les recourants énoncent des généralités sur le discernement,
+en se référant à de la jurisprudence rendue en matière de validité des testaments
+en droit civil, mais n’indiquent pas quelle infraction la prévenue aurait pu commettre.
+L’infraction de faux dans les titres peut être exclue, la dernière expertise ayant conclu
+que le testament du 21 septembre 2009 gratifiant la prévenue était, à l’instar de
+celui du 17 novembre 2004 gratifiant le père des recourants et, à son décès, les
+recourants, de la main de la testatrice (P. 75/1). Les recourants ne soutiennent du reste pas que la
+prévenue aurait commis un faux dans les titres.
+S’agissant de l’infraction d’escroquerie, celle-ci doit également être exclue.
+A défaut de titre faux qui aurait servi à élaborer une astuce, on ne voit pas en quoi
+une telle infraction pourrait être réalisée. Les recourants ne soutiennent au demeurant
+pas que la prévenue se serait rendue coupable d’escroquerie, voire de tentative d’escroquerie
+et
+a fortiori
+,
+n’exposent pas ce qui pourrait constituer une astuce.
+Les recourants n’invoquent pas non plus l’infraction de contrainte. Ils ne prétendent
+pas que la prévenue aurait usé de violence envers la défunte, ni qu’elle l’aurait
+menacée d’un dommage sérieux, ni qu’elle l’aurait entravée d’une
+autre manière dans sa liberté, mais tout au plus que la prévenue aurait pu influencer
+la testatrice. Du reste, une telle influence et
+a
+fortiori
+des pressions peuvent être exclues
+sur la base du témoignage du Dr H.________, médecin-traitant de la défunte, comme l’a
+fait le Procureur. Ce témoin, qui a été son médecin-traitant pendant les vingt dernières
+années de sa vie et qui était médecin au sein de l’EMS où elle a séjourné
+durant les dix dernières années de sa vie et qui, à ce titre, lui rendait visite une fois
+par semaine, a répondu très clairement à la question du conseil des recourants de savoir
+si elle aurait pu être influencée dans ses actes et décisions, en particulier à la
+fin de sa vie. Il a notamment déclaré ce qui suit : « Mme B.________ était
+une personne très peu influençable. Elle avait un caractère déterminé. J’ai
+parfois même regretté qu’elle ne soit pas plus influençable. J’ai le sentiment
+que j’aurais peut-être pu mieux la soigner » (PV aud. 5, ll 113 à 118). En
+particulier, il a indiqué qu’en dépit de débuts de troubles mnésiques, sa patiente
+« allait très bien » et a été « capable de discernement
+jusqu’à son décès » (ll. 33 à 35 et 130 à 133) ; « elle
+rencontrait sur la fin de sa vie des troubles de la mémoire, mais cela n’affectait pas sa
+capacité de discernement » (l. 35). Quant à la question du conseil des recourants
+sur le point de savoir si B.________ avait pu être influencée, voire manipulée par la
+prévenue, il a derechef été clair : « Je réponds que, en mon âme
+et conscience, je n’en ai pas le sentiment. Je dis cela en connaissant à la fois Mme C.________
+et Mme B.________ » (ll. 119 à 121).
+Certes, les recourants essaient de remettre en cause le caractère probant de ce témoignage
+en invoquant que le Dr H.________ et la Dresse C.________ seraient « proches », étant
+tous deux médecins. Le Dr H.________ s’est expliqué sur les liens qu’il entretenait
+avec sa consœur et rien ne permet de penser qu’il y aurait entre eux une proximité qui
+pourrait mettre en doute la véracité de ses déclarations. Il a déclaré qu’il
+s’agissait d’une consœur qu’il rencontrait à des congrès. A cet égard,
+entendu le 23 novembre 2015, il a précisé que la dernière fois qu’il l’avait
+vue, c’était à un congrès en septembre 2014 et qu’il la connaissait davantage
+en tant qu’amie de sa patiente décédée, B.________ lui ayant souvent parlé
+d’elle. Il a encore précisé que sa patiente lui était reconnaissante des bons services
+qu’elle lui rendait et qu’une affection mutuelle existait entre les deux femmes (PV aud.
+5, ll. 41 à 56). Dans ces conditions, l’infraction de contrainte – qui n’est du
+reste pas invoquée par les recourants – peut être écartée avec une vraisemblance
+confinant à la certitude.
+Quant à l’usure, comme déjà indiqué (cf.
+supra
+,
+consid. 2.2.6), elle ne peut être réalisée dans le cadre d’un testament, acte unilatéral,
+dès lors que le droit civil offre une protection suffisante à cet égard.
+Au vu de ce qui précède, on ne constate aucune violation du principe «
+in
+dubio pro duriore
+». Aussi, on ne voit
+pas qu’une instruction complémentaire doive avoir lieu, celle-ci ne pouvant déboucher
+sur une mise en cause de C.________. Le droit des recourants à être entendus n’a par
+conséquent pas non plus pu été violé.
+3.
+En définitive, le recours, manifestement
+mal fondé, doit être rejeté sans échange d’écritures (art. 390 al. 2 CPP)
+et l’ordonnance de classement du 13 août 2019 doit être confirmée.
+4.
+4.1
+C.X.________ sollicite l’octroi de l’assistance judiciaire gratuite.
+4.2
+Selon l’art. 136 al. 1 CPP, la direction de la procédure accorde entièrement ou partiellement
+l'assistance judiciaire à la partie plaignante pour lui permettre de faire valoir ses prétentions
+civiles lorsqu'elle est indigente (let. a) et que l'action civile ne paraît pas vouée à
+l'échec (let. b). Aux termes de l'art. 136
+al.
+2 CPP, l'assistance judiciaire comprend : l'exonération d'avances de frais et de sûretés
+(let. a), l'exonération des frais de procédure (let. b) et la désignation d'un conseil
+juridique gratuit, lorsque la défense des intérêts de la partie plaignante l'exige (let.
+c).
+Cette norme reprend ainsi les trois conditions cumulatives découlant de l'art. 29 al. 3 Cst., à
+savoir l'indigence, les chances de succès et le besoin d'être assisté (TF 1B_151/2016
+du 1
+er
+juin 2016 consid. 2.2). Le législateur a sciemment limité l'octroi de l'assistance judiciaire
+aux cas où le plaignant peut faire valoir des prétentions civiles (TF 1B_151/2016 précité).
+Il a ainsi tenu compte du fait que le monopole de la justice répressive est par principe exercé
+par l'Etat, de sorte que l'assistance judiciaire de la partie plaignante se justifie en priorité
+pour que celle-ci puisse défendre ses conclusions civiles (cf. Message du 21 décembre 2005
+relatif à l'unification du droit de la procédure pénale, FF 2006 p. 1160 ; TF 1B_314/2016
+du 28 septembre 2016 consid. 2.1). L'art. 136 al. 1 CPP n'exclut cependant pas que le conseil juridique
+assistant le plaignant au bénéfice de l'assistance judiciaire puisse intervenir, déjà
+au stade de l'instruction préliminaire, également sur les aspects pénaux, qui peuvent
+avoir une influence sur le principe et la quotité des prétentions civiles (TF 1B_151/2016 précité ;
+TF 6B_458/2015 du 16 décembre 2015 consid. 4.3.3 et les références citées).
+4.3
+En l’espèce, C.X.________ n’a pas porté plainte contre C.________, mais uniquement
+contre A.S.________. Il ne peut donc pas faire valoir de prétentions civiles contre la prévenue
+dans le cadre de la procédure pénale, de sorte que la condition de l’art. 136 al. 1 let.
+b CPP n’est pas remplie. C’est dans le cadre de la procédure civile en contestation
+de la validité des testaments
+(cf.
+art. 519 ss CC) que le requérant, à l’instar de son frère et de sa sœur, pourrait
+actionner C.________, respectivement la personne qui tire des avantages successoraux des dispositions
+qui seraient invalidées (cf. Bonhet, Actions civiles, 2
+e
+éd.,
+vol. I, nn 18 ss et 23 ss ad § 32, pp 425 ss et les réf. cit.). Il s’ensuit que sa requête
+tendant à l’octroi de l’assistance judiciaire gratuite doit être rejetée.
+5.
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d'arrêt,
+par 2’090 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge des recourants,
+qui succombent (art. 428 al. 2 let. a CPP), solidairement entre eux.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 13 août 2019 est confirmée.
+III.
+La requête d’assistance judiciaire
+de C.X.________ est rejetée.
+IV.
+Les frais d’arrêt, par 2’090 fr. (deux mille nonante francs), sont mis à la charge
+des recourants A.X.________, B.X.________ et C.X.________, solidairement entre eux.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Antoine Eigenmann, avocat (pour A.X.________, B.X.________ et C.X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur cantonal Strada,
+-
+Me Violaine Jaccottet Sherif, avocate (pour B.S.________),
+-
+Me Elie Elkaim, avocat (pour A.S.________),
+-
+Me Christian Fischer, avocat (pour C.________),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
