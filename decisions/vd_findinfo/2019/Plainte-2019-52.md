@@ -1,0 +1,549 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___52"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 52"
+decided: "2019-11-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7448221"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/210/art-646.md", "switzerland/bund/acts/210/art-712e.md", "switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-106.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.1/art-114.md", "switzerland/bund/acts/281.1/art-118.md", "switzerland/bund/acts/281.41/art-005.md", "switzerland/bund/acts/281.42/art-008.md", "switzerland/bund/acts/281.42/art-009.md", "switzerland/bund/acts/281.42/art-023.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 52
+
+## Regeste
+
+2 CC, 112 al. 1 LP, 23 ORFI, 8 ORFI, 9 al. 1 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.11.2019 Plainte / 2019 / 52
+
+2 CC, 112 al. 1 LP, 23 ORFI, 8 ORFI, 9 al. 1 ORFI
+
+TRIBUNAL
+CANTONAL
+FA 19.013915-191185
+49
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 novembre 2019
+_______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+2 CC ; 112 al. 1 LP ; 8, 9 al. 1 et 23 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+A.________
+et
+B.________
+,
+à [...], contre la décision rendue le 16 juillet 2019, à la suite de l’audience
+du 16 mai 2019, par la Présidente du Tribunal d’arrondissement de Lausanne, autorité
+inférieure de surveillance, rejetant la plainte déposée le 25 mars 2019 par les recourants
+contre le procès-verbal de saisie établi le 12 mars 2019 par l’
+Office
+des poursuites du district de Lausanne
+, dans le
+cadre de la poursuite exercée contre eux à l’instance de
+Banque
+X.________
+, à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Par contrat de mariage signé à [...] devant notaire le 11 juin 1976, les futurs époux
+A.________ et B.________ ont adopté le régime matrimonial de la communauté légale
+régi par les art. 1400 à 1491 du Code civil français.
+Le 29 juillet 2008, les époux ont signé devant notaire, à Lausanne, un contrat de vente
+à terme portant sur l’achat en copropriété, chacun pour une demie, d’un appartement
+en PPE à [...], parcelle RF [...], pour la somme de 2'700'000 francs.
+Le 11 décembre 2008, ils ont été inscrits au registre foncier comme copropriétaires
+simples, chacun pour une demie, de l’immeuble précité.
+b)
+Le
+2 septembre 2016, dans la poursuite n° 7'952’156 exercée à l'instance de A.________,
+l'Office des poursuites du district de Lausanne (ci-après : l’Office) a notifié
+à A.________ un commandement de payer portant sur les montants de (1) 732'140 fr., plus intérêt
+au taux de 12% l'an dès le 16 novembre 2010, et (2) 2’832 fr., plus intérêt
+au taux de 12% l'an dès le 16 novembre 2010, indiquant comme titre de la créance ou cause
+de l'obligation : «
+1) Solde non remboursé
+d’un prêt personnel selon contrat de prêt du 21 juillet 2008, échu le 16 novembre
+2010, soit un montant de EUR 674'311.17 converti au taux de ce jour (Eur 1 = CHF 1.08576). 2) Intérêts
+conventionnés échus s/contrat de prêt du 21 juillet 2008 (EUR 2608.16).
+».
+Le poursuivi a formé opposition totale.
+Le 20 septembre 2016, un exemplaire du commandement de payer précité a été notifié
+à B.________, en sa qualité de conjoint du débiteur. Celle-ci a formé opposition
+totale en déclarant par écrit : «
+Opposition
+totale concernant la créance en poursuite et opposition quant aux biens soumis à l'exécution
+forcée, à limiter dans tous les cas, aux biens propres de M.
+A.________
+,
+mon époux
+».
+Par prononcé du 26 septembre 2017, le Juge de paix du district de Lausanne a prononcé la mainlevée
+provisoire des oppositions à concurrence de 732'140 fr., plus intérêt au taux de 4,7%
+l’an dès le 16 novembre 2010, et de 2'832 francs sans intérêt.
+Par arrêt du 12 juin 2018, la cour de céans, statuant en sa qualité d’autorité
+de recours en matière sommaire de poursuites, a admis partiellement le recours des poursuivis en
+ce sens que les deux oppositions ont été provisoirement levées à concurrence de 732'140
+fr., plus intérêt à 4,35% l’an dès le 16 novembre 2010, et maintenues
+pour le surplus.
+Par arrêt rendu le 25 février 2019, le Tribunal fédéral a admis partiellement le
+recours des poursuivis et réformé l’arrêt cantonal en ce sens que les oppositions
+ont été provisoirement levées à concurrence de 732'140 fr., plus intérêt
+à 3% l’an dès le 16 novembre 2010.
+Entretemps, le 4 janvier 2018, les opposants avaient
+ouvert action en libération de dette devant la Chambre patrimoniale cantonale.
+c)
+Le 23 juillet 2018, Banque X.________ a requis de l'Office la continuation de la poursuite n° 7'952'156.
+Par lettre du 25 juillet 2018, elle a précisé à l’Office que l’objet de sa
+réquisition était la saisie provisoire des biens d’A.________.
+Le 26 juillet 2018, l'Office a établi un avis de saisie provisoire pour un montant de 988'583 fr.
+35 et a fait procéder à l'annotation d'une restriction du droit d'aliéner sur la part
+de copropriété d’A.________ de l’appartement en PPE.
+aa)
+Le 20 août 2018, les poursuivis ont déposé une plainte au sens de l’art. 17
+LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1) « contre
+la décision et tout acte de l’Office par lesquels il est donné suite à la réquisition
+de continuer la poursuite n° 7'952’156 ». Ils ont requis l’effet suspensif,
+qui a été accordé par décision du 21 septembre 2018.
+bb)
+Parallèlement à la procédure de plainte, le 24 août 2018, le conseil d’A.________
+et B.________ a proposé à l'Office que son client verse des sûretés en lieu et place
+de la saisie provisoire de sa part de copropriété sur l’appartement, qu’il avait
+mis en vente.
+Par lettre/décision du 27 août 2018 adressée au conseil précité, mentionnant
+qu’elle pouvait faire l’objet d’une plainte au sens de l’art. 17 LP, l'Office
+a accepté le principe du versement de sûretés, « par le dépôt d’un
+montant sur le compte de l’office ou par une garantie bancaire en francs suisses émise par
+une banque suisse et garantie par cette dernière (et non établie sur le compte personnel de
+votre client), laquelle devra être remise à l’office en précisant qu’elle
+sera payée à première demande et sans restriction et d’une durée indéterminée » ;
+il a fixé le montant des sûretés à 1'100'000 fr. et rappelé notamment que, selon
+la jurisprudence du Tribunal fédéral (TF 5C.267/1999 du 22 août 2000 consid. 2b),
+de nouveaux biens procurés pour être substitués aux objets saisis - avec le consentement
+de l’office et dans des conditions telles que le préposé pouvait disposer desdits biens
+à l’exclusion du débiteur - tombaient
+ipso
+facto
+sous le coup de la saisie.
+Par lettre du 28 août 2018, le conseil des plaignants a précisé à l’Office
+que si les fonds nécessaires pouvaient être réunis, ils seraient déposés « par
+M.A.________ et Mme B.________ ».
+Par lettre du 29 août 2018, l'Office lui a répondu notamment ce qui suit :
+«
+Comme nous vous l’avons expliqué en détail dans notre courrier du 27 août 2018,
+la saisie provisoire s’exécute comme une saisie définitive, la seule différence
+est que le créancier ne peut requérir la réalisation de l’actif saisi ou obtenir
+le versement des fonds consignés en regard des dispositions de l’art. 118 LP.
+En
+d’autres termes, l’arrêt du Tribunal fédéral indique que lorsque le créancier
+aura obtenu une saisie définitive et exécutoire et que le délai de participation sera
+échu, art. 114 LP, l’argent comptant sera versé sans autre forme au créancier sans
+qu’il doive en requérir la vente, c’est-à-dire que l’office versera au poursuivant
+le montant consigné ou demandera l’encaissement de la garantie bancaire sans autre forme.
+Si
+vous devez opter pour la remise d’une garantie bancaire, nous précisons que celle-ci devra
+être uniquement libellée au nom du poursuivi M. A.________ et non solidairement avec son épouse
+(communauté de biens).
+En
+effet, si le moment venu nous devons faire appel à la garantie bancaire ou verser les fonds consignés
+pour procéder au règlement de la poursuite précitée, il ne doit pas y avoir une entrave
+à la procédure par une revendication de Mme B.________ sur les fonds en question. (…)».
+Par lettre du 7 septembre 2018, Me Jean-Pierre Henchoz, notaire à Prilly, a informé l’Office
+que le transfert de propriété de l’immeuble des plaignants aurait lieu le 18 septembre
+2018, en exécution du droit d’emption inscrit le 24 mai 2018 au registre foncier en faveur
+des futurs acquéreurs, et qu’il s’engageait à verser à l’Office le montant
+des sûretés convenues de 1'100'000 francs. Par courriel du même jour, il a prié le
+conseil des plaignants de lui virer la somme de 1'100'000 fr. et lui a confirmé par ailleurs « avoir
+reçu hier l’intégralité du prix de vente et de la provision des frais d’achat »
+(pièce 121 produite à l’appui du recours).
+Le 10 septembre 2018, l’Office a communiqué au notaire les coordonnées de son compte
+auprès de PostFinance pour le versement de la somme de 1'100'000 fr. et lui a remis la radiation
+de l’annotation d’une restriction du droit d’aliéner sur la part de copropriété
+d’A.________ sur la parcelle RF [...], en précisant que ce document ne pourrait être
+adressé au registre foncier « qu’à la condition que les fonds susmentionnés
+[lui] soient versés dans leur intégralité et sans restriction ou revendication quelconque
+de la part de tiers notamment de l’épouse et libellés uniquement au nom de M. A.________ ».
+Le 11 septembre 2018, le conseil des plaignants a fait virer la somme de 1'100'000 fr. sur le compte
+de l’Association des notaires vaudois, rubrique Me Jean-Pierre Henchoz. Le 24 septembre 2018, les
+fonds ont été versés sur le compte de l’Office et consignés. Le document émis
+par PostFinance, intitulé « Confirmation de paiement e-finance » (pièce
+127 produite à l’appui du recours), mentionne, sous la rubrique « Informations complémentaires »,
+ce qui suit :
+«
+Consignation
+produit de vente
+Rubrique :
+A.________
+».
+Par acte du 26 septembre 2018 adressé au président du tribunal d’arrondissement, les
+plaignants ont précisé les conclusions de leur plainte en ce sens que « la décision
+du 26 juillet 2018 par laquelle l’Office donne suite à la réquisition de continuer la
+poursuite n° 7'952'156 et tout acte relatif à cette décision est annulé, notamment
+la saisie de 1'100'000 francs ». Ils ont fait valoir que l’Office avait « d'abord
+saisi la part de copropriété d’A.________ sur l'immeuble de [...], part de copropriété
+qui constitue un bien commun des époux » et « ensuite saisi la somme de 1'100'000
+fr. également bien commun des époux », cette saisie de 1'100'000 fr. ayant été
+« opérée en lieu et place de la saisie de copropriété précitée,
+cela pour ne pas faire échouer la vente des deux parts de copropriété des époux sur
+l'immeuble de [...], les deux parts de copropriété constituant des biens communs du couple ».
+cc)
+Par décision du 29 novembre 2018, le Président du Tribunal d'arrondissement de Lausanne, statuant
+en sa qualité d’autorité inférieure de surveillance, a admis la plainte déposée
+le 20 août 2018 par A.________ et B.________ et a constaté la nullité de la décision
+de l’Office du 26 juillet 2018 et de tout acte relatif à cette décision.
+Par arrêt du 29 janvier 2019, la cour de céans, statuant en sa qualité d’autorité
+cantonale supérieure de surveillance, a admis le recours de Banque X.________ contre la décision
+précitée, qu’elle a réformée en ce sens que la plainte a été rejetée.
+d)
+Le 12 mars 2019, l’Office a établi un procès-verbal de saisie portant sur la part de
+copropriété d’une demie d’A.________ sur l’appartement en PPE, estimé
+à 2'500'000 francs. Il a communiqué cet acte par courrier recommandé au poursuivi ainsi
+qu’à son épouse, qui l’ont reçu le 14 mars 2019.
+2.
+a)
+Le 25 mars 2019, A.________ et B.________ ont déposé une plainte contre le procès-verbal
+de saisie précité, à l’appui de laquelle ils ont produit quarante pièces sous
+bordereau. Ils ont notamment fait valoir qu’ils étaient mariés sous le régime de
+la communauté de biens de droit français et ont soutenu que l’immeuble en cause était
+un bien commun. Leurs conclusions étaient les suivantes :
+« I.
+La plainte est admise.
+II.
+Le procès-verbal de saisie du 12 mars 2019 dans la poursuite no 7'952'156 de l'Office des poursuites
+de Lausanne (avec mention: débiteur 236450 et poursuite 7952156a) est complété, dans le
+sens qu'il est précisé que la somme de CHF 1'100'000.00 consignée en mains de l'office
+est le produit de la vente de l'immeuble no [...] de 311/1000 de la parcelle de base [...] de la commune
+de [...].
+III.
+Le procès-verbal de saisie du 12 mars 2019 dans la poursuite no 7'952'156 de l'Office des poursuites
+de Lausanne (avec mention: débiteur 236450 et poursuite 7952156a) est complété, dans le
+sens qu'il est précisé que la somme de CHF 1'100'000.00 consignée en mains de l'office
+constitue un bien commun du couple formé par A.________ et B.________.
+IV.
+Le procès-verbal de saisie du 12 mars 2019 dans la poursuite no 7'952'156 de l'Office des poursuites
+(avec mention: débiteur 236450 et poursuite 7952156a) est complété dans le sens qu'il
+est précisé que "par avis apposé au commandement de payer le 20 septembre 2016, par
+recours adressés le 27 décembre 2017 à la Cour des poursuites et faillites et le 7 août
+2018 au Tribunal fédéral ainsi que par demande de A.________ et B.________ déposée
+le 4 janvier 2018 auprès de la Chambre patrimoniale, ceux-ci se sont opposés à ce qu'une
+poursuite porte sur les biens communs de leur couple; par communication du 26 septembre 2018, A.________
+et B.________ ont précisé que la somme de CHF
+1'100'000.00
+consignée en mains de l'Office des poursuites de Lausanne est un bien commun du couple formée
+par A.________ et B.________". »
+b)
+L’Office s’est déterminé par mémoire du 8 mai 2019, préavisant en faveur
+du rejet de la plainte. Il a produit six pièces sous bordereau.
+c)
+Par déterminations du 10 mai 2019, l’intimée Banque X.________ a conclu, avec suite de
+frais et dépens, au rejet de la plainte. Elle a produit cinq pièces sous bordereau.
+d)
+Le 16 mai 2019, les plaignants ont encore produit huit pièces sous bordereau et pris la conclusion
+complémentaire suivante :
+« V.
+Le procès-verbal de saisie du 12 mars 2010 dans la poursuite no 7'952'156 de l'Office des poursuites
+(avec mention: débiteur 236450 et poursuite 7952156a) est complété dans le sens qu'il
+est précisé que la valeur d'estimation de CHF 1'250'000.00 de la part de copropriété
+de A.________ est une valeur brute, avant déduction des engagements hypothécaires qui grevaient
+à hauteur de CHF 1'336'299.20 (valeur 19 septembre 2018) l'appartement estimé à CHF 2'500'000.00. »
+Lors de l’audience qui s’est tenue le même jour, les plaignants ont confirmé leur
+plainte, tandis que l’Office et l’intimée ont conclu à son rejet.
+3.
+Par prononcé dont les considérants écrits ont été adressés aux parties
+le 16 juillet 2019, la Présidente du Tribunal d'arrondissement de Lausanne, statuant en sa qualité
+d'autorité inférieure de surveillance en matière de poursuite pour dettes et de faillite,
+a rejeté la plainte déposée par A.________ et B.________ le 25 mars 2019 (I) et a rendu
+le prononcé sans frais ni dépens (II).
+En bref, elle a considéré que la part de copropriété d’A.________ sur l’immeuble
+litigieux pouvait être saisie, que le droit français n’était pas applicable et que
+les plaignants, en requérant la modification du procès-verbal de saisie, manifestement pour
+permettre à la plaignante d’agir en revendication de la somme de 1'100’000 fr. alors
+qu’ils avaient accepté les conditions posées par l’Office au versement de sûretés,
+adoptaient un comportement contradictoire qui devait être considéré comme abusif au sens
+de l’art. 2 al. 2 CC (Code civil suisse ; RS 210).
+4.
+A.________ et B.________ ont recouru par acte
+du 29 juillet 2019, concluant, avec suite de frais et dépens, à l’admission du recours
+et à la réforme du prononcé de l’autorité inférieure de surveillance en
+ce sens que la plainte du 25 mars 2019 est admise dans toutes ses conclusions, y compris la conclusion
+complémentaire prise le 16 mai 2019. Outre la décision attaquée (pièce 1), ils ont
+produit cent septante-huit pièces sous bordereau (pièces 2 à 179).
+Par détermination du 19 août 2019, l’Office a préavisé en faveur du rejet du
+recours.
+Par réponse du 12 septembre 2019, l’intimée Banque X.________ a conclu, avec suite de
+frais et dépens, au rejet du recours. Elle a produit trois pièces.
+Les recourants ont déposé une réplique le 27 septembre 2019, accompagnée de quatorze
+pièces sous bordereau.
+En droit :
+I.
+Le recours a été déposé en temps utile, l’échéance du délai
+de dix jours suivant le 17 juillet 2019, jour de la notification du prononcé attaqué, étant
+reportée au lundi 29 juillet 2019 (art. 18 al. 1 LP ; 28 al. 1 et 73 al. 3 LVLP [loi vaudoise
+d’application de la LP ; BLV 280.05]) et il est suffisamment motivé (TF 5A_118/2018 du
+7 février 2018 consid. 4.1). Il est ainsi recevable. Les pièces produites à son appui
+sont également recevables (art. 28 al. 4 LVLP).
+Il en va de même des déterminations de l’Office et de Banque X.________ ainsi que des
+pièces produites par cette dernière (art. 31 al. 1 LVLP).
+L’écriture spontanée déposée par les recourants le 27 septembre 2019 est également
+recevable en vertu de leur droit de réplique (ATF 142 III 48 consid. 4 ; ATF 138 I 154 consid. 2.3.3).
+II.
+a)
+Les recourants soutiennent que le procès-verbal de saisie provisoire devrait être complété
+par la précision que la somme de 1'100'000 fr. consignée constituerait un bien commun. Ils
+se prévalent à cet égard des règles du droit français en matière de régime
+matrimonial de la communauté réduite aux acquêts et plaident que les sûretés
+ont été constituées au moyen du produit de la vente de l’appartement de Lausanne,
+qui constituerait un bien commun des époux. Ils font en outre valoir qu'ils n'auraient pas renoncé
+à un quelconque droit et que l'Office n'aurait pas subordonné son accord au remplacement de
+la saisie du bien immobilier par des sûretés au fait que les sûretés devraient être
+uniquement libellées au nom du poursuivi et non solidairement avec son épouse, de sorte que
+l'on ne pourrait leur opposer un comportement contradictoire et abusif, comme l'a fait le premier juge.
+b)
+aa)
+Selon l'art. 112 al. 1 LP, il est dressé procès-verbal de la saisie. Le procès-verbal
+est signé par le fonctionnaire ou l'employé qui procède à l'opération ;
+il énonce les noms du créancier et du débiteur, le montant de la créance, le jour
+et l'heure de la saisie, les biens saisis et leur valeur estimative, ainsi que les prétentions de
+personnes tierces.
+Les droits patrimoniaux saisis sont énumérés dans une liste dans laquelle chaque droit
+porte un numéro. Ils sont spécifiés par leur objet : désignation de la chose
+mobilière dont le droit de propriété est saisi ; désignation de l'objet de la
+propriété foncière, et le cas échéant de ses accessoires, dont le droit de propriété
+est saisi ; désignation du tiers débiteur de la créance saisie et du montant de cette
+dernière ; mention de tous les membres de la communauté et de la nature de celle-ci, lorsque
+sont saisis les droits du poursuivi sur les droits patrimoniaux compris dans le patrimoine de la communauté
+(art. 5 OPC [ordonnance du Tribunal fédéral concernant la saisie et la réalisation de
+parts de communautés ; RS 281.41]) ; mention des noms et domiciles des autres copropriétaires,
+ainsi que leurs quotes-parts ou leurs parts en pour-cent ou en pour-mille et, en cas de propriété
+par étages, description de la part de l'immeuble dont le poursuivi est titulaire et, le cas échéant,
+de ses accessoires spécifiques (art. 23 ORFI [ordonnance du Tribunal fédéral sur
+la réalisation forcée des immeubles ; RS 281.42]). Une colonne est réservée
+à l'indication de la valeur estimative du droit patrimonial saisi. Une troisième colonne est
+destinée aux observations, telles que revendication d'un droit de préférence (droit de
+gage) par le tiers détenteur, revendication d'un droit de distraction par un tiers, séquestre
+du droit patrimonial saisi etc. (Gilliéron, Commentaire de la loi fédérale sur la poursuite
+pour dettes et la faillite, n. 16
+ad
+art. 112 LP).
+S'agissant de la saisie d'immeubles, les prescriptions des art. 8 à 15 et 23 ORFI doivent être
+respectées (Zondler,
+in
+Kren Kostkiewicz/Vock (éd.), Kommentar zum Bundesgesetz über Schuldbetreibung und Konkurs,
+4
+e
+éd., SK Kommentar, n. 6
+ad
+art. 112 SchKG [LP] ; Wernli,
+in
+Hunkeler (éd.), Kurzkommentar SchKG, 2
+e
+éd., n. 4
+ad
+art. 112 LP). Selon l'art. 8 ORFI, l'office procède à la saisie sur la base des mentions du
+registre foncier. Selon l'art. 9 al. 1 ORFI, l'estimation doit déterminer la valeur vénale
+présumée de l'immeuble et de ses accessoires, sans égard au montant de la taxe cadastrale
+ou de la taxe de l'assurance contre l'incendie. Les créances garanties par gage qui sont révélées
+par le registre foncier doivent être indiquées sommairement, sans que d'ailleurs il y ait lieu
+d'introduire une procédure de revendication en ce qui les concerne. Selon l'art. 23 ORFI, en cas
+de saisie d'une part de copropriété sur un immeuble, le procès-verbal de saisie mentionnera
+les noms et domiciles du débiteur et des autres copropriétaires, ainsi que leurs quotes-parts
+(art. 646 al. 1 CC) ou leurs parts en pour-cent ou en pour-mille (art. 712e al. 1 CC), et renfermera
+la description de l'immeuble en copropriété et de ses accessoires, avec indication de la valeur
+estimative.
+Le procès-verbal peut contenir des indications supplémentaires au gré des circonstances,
+de façon à permettre aux destinataires de ce document de sauvegarder leurs droits en pleine
+connaissance de cause (ATF 108 III 78 consid. 4, JdT 1983 II 113 ; Jeandin/Sabeti,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, n. 8
+ad
+art. 112 LP). Le point de savoir quelles autres indications sont de mise dans un cas particulier est
+une question d'opportunité, relevant du pouvoir d'appréciation de l'office (ATF 108 III 78
+consid. 4, JdT 1983 II 113).
+bb)
+Le principe de la bonne foi (art. 2 al. 1 CC)
+et l’interdiction de l’abus de droit (art. 2 al. 2 CC) sont des principes fondamentaux de
+l’ordre juridique suisse (art. 5 al. 3 Cst. [Constitution fédérale ; RS 101]). Ils
+s'appliquent aussi en procédure civile. Le principe de la bonne foi est codifié pour la procédure
+civile à l'art. 52 CPC. Il s'adresse à tous les participants au procès, parties et juge,
+en leur imposant d'agir de bonne foi et, partant, de ne pas commettre d'abus de droit. Constitue notamment
+un abus de droit l'attitude contradictoire d'une partie. Lorsqu'une partie adopte une certaine position,
+elle ne peut pas ensuite soutenir la position contraire, car cela revient à tromper l'attente fondée
+qu'elle a créée chez sa partie adverse; si elle le fait, c'est un
+venire
+contra factum proprium
+, qui constitue un abus
+de droit (TF 4A_590/2016 du 26 janvier 2017 consid. 2.1 et les références citées ;
+CPF 2 avril 2019/60).
+c)
+En l'espèce, l'immeuble litigieux a été acquis par les recourants en copropriété,
+chacun pour une demie. Les époux ont été inscrits comme copropriétaires au registre
+foncier. C'est ainsi à juste titre que l'Office a procédé à la saisie en se fondant
+sur cette inscription, conformément à l'art. 8 ORFI. L'office doit en effet se fier aux indications
+actuelles du registre foncier (Zopfi,
+in
+Commentaire ORFI, n. 5
+ad
+art. 8 ORFI). Il n'entrait pas dans les compétences de l'Office, ni des autorités de surveillance,
+d'examiner quelle pourrait être l'éventuelle influence du régime matrimonial de la communauté
+de biens réduite aux acquêts du droit français, ni de trancher de délicates questions
+de droit international privé, voire de droit étranger, seul le juge pouvant le faire dans le
+cadre d'une procédure judiciaire, notamment dans le cadre des art. 106 ss LP. Les recourants ont
+d'ailleurs d'ores et déjà engagé une procédure judiciaire devant la Chambre patrimoniale
+cantonale, dans laquelle ils ont notamment conclu à ce que cette autorité prononce que les
+biens communs des époux ne sont pas engagés pour le paiement de créances de Banque X.________
+(cf. demande et requête de conciliation déposées le 4 janvier 2018, pièces 97 et
+99 du bordereau du recourant du 29 juillet 2019). Il n'y a dès lors pas lieu d'examiner si l'immeuble
+est susceptible de constituer un bien commun en vertu du droit français de la communauté de
+biens réduite aux acquêts, ni d’examiner si ce régime matrimonial a une influence
+éventuelle sur le statut réel de l'immeuble, ni, a fortiori, de compléter le procès-verbal
+de saisie par la précision que la somme de 1'100'000 fr. consignée en mains de l'Office à
+titre de sûretés en lieu et place de l'immeuble saisi constituerait un bien commun.
+De toute manière, dans sa lettre/décision du 27 août 2018, l'Office, prenant note qu’A.________
+avait l’intention de vendre son bien immobilier et de requérir à cet effet la radiation
+de la restriction du droit d’aliéner sa part de copropriété saisie et qu’il
+proposait de constituer des sûretés en lieu et place de cette saisie, a précisé sous
+quelles formes ces sûretés, personnelles ou réelles, devaient être fournies. Il a
+encore détaillé ces conditions dans sa lettre du 29 août 2018, en précisant notamment
+qu’une garantie bancaire devrait être libellée uniquement au nom du poursuivi A.________
+et non solidairement avec son épouse, et que si, le moment venu, l’Office devait faire appel
+à la garantie bancaire ou verser les fonds consignés pour procéder au règlement de
+la poursuite, il ne devait pas y avoir une entrave à la procédure par une revendication de
+B.________ sur les fonds en question. Ces deux lettres n'ont fait l'objet d'aucune plainte, alors même
+que celle du 27 août 2018 comportait l’indication de cette voie de droit. L'Office a encore
+rappelé au notaire chargé d’instrumenter la vente, par lettre du 10 septembre 2018, que
+la radiation de l'annotation d'une restriction du droit d'aliéner ne pourrait être adressée
+au registre foncier « qu'à la condition que les fonds susmentionnés (réd. :
+soit la somme de 1'100'000 fr. qui allait être versée à l’Office à titre de
+sûretés) soient versés dans leur intégralité et sans restriction ou revendication
+quelconque de la part de tiers notamment de l'épouse et libellés uniquement au nom de M. A.________ ».
+Contrairement à ce que tentent de plaider les recourants, ces lettres contiennent une condition
+à laquelle était subordonnée l'acceptation des sûretés, savoir que le dépôt
+d'une garantie bancaire ou le versement d'une somme de 1’100'000 fr. sur le compte de l'Office
+soit libre de toute revendication d'un tiers, notamment de l'épouse. En versant les sûretés
+sans contester d’aucune manière ces modalités fixées par l’Office, les recourants
+les ont acceptées. Il n’importe pas qu’ils aient plaidé antérieurement que
+l'immeuble constituait un bien commun ou qu'ils plaident désormais à nouveau que tel est le
+cas. De même n’importent pas les motifs pour lesquels ils ont accepté les modalités
+fixées par l’Office, savoir la volonté d'éviter un échec de la vente ou la
+prétendue inefficacité d'une plainte contre ces conditions.
+Il s’ensuit que, comme l’a considéré à raison le premier juge, en requérant
+la modification du procès-verbal de saisie, manifestement pour permettre à la recourante d'agir
+en revendication, les recourants adoptent un comportement contradictoire qui doit être considéré
+comme abusif au sens de l'art. 2 al. 2 CC.
+III.
+Les recourants entendent faire mentionner dans le procès-verbal l'origine des fonds qui ont servi
+à la fourniture des sûretés.
+Une telle indication n'est pas prescrite de manière impérative par l'art. 112 LP, ce qui
+n'est pas contesté. En considérant qu'il n'avait pas à trancher ce point, qui aurait demandé
+des éclaircissements factuels dépassant les prérogatives de l'Office, ce dernier n'a pas
+mésusé de son pouvoir d'appréciation, la perspective d'une simplification de la demande
+en libération de dette déposée le 4 janvier 2018 n'étant pas un motif suffisant.
+On relèvera au demeurant qu'au vu des pièces produites, il n'apparaît pas clairement que
+les sûretés aient été constituées au moyen du produit de réalisation de
+l'immeuble. La pièce 127, soit la confirmation de paiement émise par PostFinance le 24 septembre
+2018, qui mentionne « consignation produit de vente » n’est pas univoque, en
+particulier rapprochée de la pièce 121, soit le courriel du 7 septembre 2018 par lequel
+le notaire Henchoz demandait au conseil des recourants de verser la somme de 1'100'000 fr. sur son compte,
+tout en confirmant avoir reçu « l'intégralité du prix de vente » de
+l'immeuble. Cet élément donne à penser que le financement des sûretés provenait
+d’une autre source que le produit de la vente, sans quoi le notaire n’aurait pas demandé
+une somme supplémentaire. La question peut toutefois être laissée indécise, pour
+les motifs susmentionnés.
+IV.
+Les recourants entendent faire compléter le procès-verbal de saisie par l’indication
+de toutes les écritures dans lesquelles ils ont fait valoir que l'immeuble, respectivement les suretés
+constituaient un bien commun.
+Une telle indication n'est pas prescrite par la loi et l'Office n'a pas mésusé de son pouvoir
+d'appréciation en ne la mentionnant pas. Au demeurant, les recourants n'ont aucun intérêt
+digne de protection à faire mentionner cet élément, qui n'a aucune pertinence dans le
+cadre de la procédure d'exécution forcée, et ce d’autant moins qu’ils ont
+conclu, dans la procédure judiciaire déjà pendante, à ce qu’il soit prononcé
+que les biens communs des époux ne sont pas engagés pour le paiement des créances de la
+banque (cf. supra, consid. III c)).
+V.
+Dans la mesure où les recourants entendent faire compléter le procès-verbal de saisie
+en précisant que la valeur d'estimation de 1'250'000 fr. de la part de copropriété d’A.________
+est une valeur brute, avant déduction des engagements hypothécaires qui grevaient à hauteur
+de 1'336'299 fr. 20 (valeur au 19 septembre 2018) l'appartement estimé à 2'500'000 fr.,
+il n'y a pas lieu de donner suite à cette conclusion.
+Pour estimer un immeuble, l'office doit partir du produit présumé qui pourrait être perçu
+lors de la procédure de réalisation forcée. Le montant effectif des droits de gage n'est
+pas pertinent pour le montant de l'estimation devant figurer dans le procès-verbal de saisie (Zopfi,
+op. cit.
+,
+n. 4
+ad
+art. 9 ORFI). Dès l'instant où les dettes hypothécaire ressortant du registre foncier
+n'ont aucune influence sur le prix d'estimation, il n'y a pas lieu de préciser dans le procès-verbal
+de saisie que la valeur d'estimation de 1'250'000 fr. de la part de copropriété saisie est
+une valeur brute. Pour le surplus, l'estimation de la part de copropriété saisie est aujourd'hui
+sans pertinence, dès lors que l'immeuble a été vendu et que les sûretés de 1'100'000
+fr. se sont substituées à la saisie de la part de copropriété du recourant, de sorte
+que les recourants n'ont aucun intérêt digne de protection à cette indication. Ils soutiennent
+certes avoir un intérêt à mettre en évidence le fait que la constitution des sûretés
+représenterait une valeur quantitative supérieure à la valeur nette de la part de copropriété
+saisie. Dès lors qu'ils n'ont pas déposé de plainte contre la décision de l'Office
+fixant à 1'100'000 fr. le montant des sûretés, qui est ainsi définitive, on ne voit
+pas quel intérêt digne de protection ils auraient à l'indication sollicitée.
+VI.
+En conclusion, le recours doit être rejeté et la décision de l’autorité inférieure
+de surveillance confirmée.
+L’arrêt est rendu sans frais ni dépens (art. 20a ch. 5 LP, 61 al. 2 let. a et 62 al.
+2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Righetti, avocat (pour A.________ et B.________),
+‑
+Me Gilles Favre, avocat (pour Banque X.________),
+-
+M. le Préposé à l’Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
