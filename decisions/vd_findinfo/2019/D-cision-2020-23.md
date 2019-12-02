@@ -1,0 +1,522 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___23"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 23"
+decided: "2019-12-02"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7549138"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/311.0/art-097.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-316.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2020 / 23
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ESCROQUERIE, MOTIVATION DE LA DEMANDE | 146 al. 1 CP, 319 al. 1 CPP (CH), 385 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 02.12.2019 Décision / 2020 / 23
+
+CLASSEMENT DE LA PROCÉDURE, ESCROQUERIE, MOTIVATION DE LA DEMANDE | 146 al. 1 CP, 319 al. 1 CPP (CH), 385 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+962
+PE18.017938-SRD
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+2 décembre 2019
+__________________
+Composition :
+M.
+Meylan
+,
+président
+Mme
+Byrde et M. Perrot, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+146 al. 1 et 251 ch. 1 CP ; 316 al. 1, 319 al. 1 et 385 al. 1 CPP
+Statuant sur le recours interjeté le 16 septembre 2019 par
+B.X.________
+contre l'ordonnance de classement rendue le 30 août 2019 par le Ministère public de l'arrondissement
+de La Côte dans la cause
+n
+o
+PE18.017938-SRD
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+C.X.________, de nationalité [...], et
+B.X.________, de nationalités [...] et [...], se sont mariés le [...] 1977, à [...]. Trois
+enfants, actuellement majeurs, sont issus de cette union. En 1997, la famille est venue s'installer en
+Suisse.
+b)
+Le 14 septembre 1992, C.X.________ aurait créé la société R.________BV, société
+de capitaux [...], dont il aurait été le seul et unique actionnaire. Le capital de R.________BV
+aurait été constitué par un apport en argent de 18'000 euros, résultat du produit
+du travail de C.X.________. Ce dernier aurait vendu cette société en novembre 2016 (PV aud.
+1).
+En 1992, R.________BV aurait acquis l'entier du capital-actions de S.________BV, société de
+capitaux [...], dont C.X.________ aurait été le directeur adjoint, puis le directeur. En 1994,
+en raison de problèmes de santé, C.X.________ aurait nommé un nouveau directeur à
+S.________BV, tout en restant propriétaire de la société qu'il aurait vendue en 2004 (PV
+aud. 1).
+Entre 1994 et 2002, C.X.________ aurait hérité, respectivement reçu de ses parents et
+de l'une de ses sœurs, un montant total d'environ 4'000'000 euros.
+Le 16 juillet 1997, C.X.________ a créé la société T.________SA, dont le capital
+initial était constitué de 200 actions nominatives d'une valeur individuelle de 1'000 fr.
+(P. 5/2/4). C.X.________ a immédiatement investi les fonds de cette société dans la société
+C.________SA, inscrite au Registre du commerce le 8 avril 1997, en achetant 20 % du capital-actions
+de cette dernière pour le prix de 200'000 fr. et en lui octroyant un prêt de 300'000 fr.,
+montant que T.________SA avait au préalable emprunté à R.________BV (P. 5/2/5 et 5/2/6 ;
+PV aud. 1).
+La société T.________SA est en liquidation depuis le 5 septembre 2018 (P. 5/2/15).
+c)
+A partir de l'automne 2006, l'entente entre les époux s'est fortement détériorée.
+Le 4 février 2010, B.X.________, par l'intermédiaire de son avocat, a proposé à son
+époux de divorcer par requête commune, sachant que la procédure de divorce risquait d'être
+«
+longue, complexe
+et coûteuse en raison des expertises qui devront être ordonnées dans le cadre de la liquidation
+du régime matrimonial
+». C.X.________
+n'est pas entré en matière (P. 25/2/A).
+Le 2 juillet 2010, B.X.________ a déposé une demande unilatérale en divorce auprès
+du Tribunal civil de l'arrondissement de La Côte (P. 23/1/B).
+Le 4 novembre 2010, alors qu'un expert avait été trouvé en la personne de Me [...], notaire,
+B.X.________, par l'intermédiaire de son conseil, a réitéré sa proposition de règlement
+à l'amiable (P. 25/2/C).
+Le 31 mai 2011, les parties ont signé une «
+convention
+sur les effets du divorce
+» comportant
+notamment les clauses suivantes (P. 5/2/1) :
+« I.-
+Par
+acte de vente à terme signé le 31 mai 2011 (...), parties ont vendu l'immeuble d' [...], l'exécution
+devant intervenir au 1
+er
+septembre
+2011.
+Parties
+conviennent que l'intégralité du prix de vente sous déduction des hypothèques, de
+la commission de courtage et de l'impôt sur le gain immobilier sera acquis à B.X.________.
+(...)
+IV.-
+B.X.________
+est considérée comme seule propriétaire de l'appartement de [...] ainsi que de tout ce
+qu'il contient.
+B.X.________
+est réputée seule et unique propriétaire du compte Banque Postale n
+o
+[...], en [...]. (...)
+V.-
+C.X.________
+est réputé seul et unique propriétaire des comptes bancaires suivants (…).
+C.X.________
+est réputé seul et unique propriétaire des actions de R.________BV, en [...], et de T.________SA,
+en Suisse, B.X.________ déclarant n'avoir aucune prétention à faire valoir à l'égard
+de l'une ou l'autre de ces sociétés. (...)
+VI.-
+Moyennant
+exécution des modalités prévues aux chiffres I, Il, III et IV, ainsi que V ci-dessus,
+parties considèrent qu'elles ont définitivement liquidé leur régime matrimonial qui
+peut être considéré comme dissous.
+VII.-
+B.X.________
+renonce à toute contribution d'entretien pour elle-même dès le 1
+er
+janvier
+2011, ainsi qu'après divorce. (...)
+IX.-
+C.X.________
+s'engage à faire verser la moitié des rentes [...] qu'il toucherait au titre de l'équivalent
+2
+ème
+pilier à B.X.________ dès qu'elles seront échues. »
+Par jugement du 16 septembre 2011, le Tribunal civil de l'arrondissement de La Côte a notamment
+prononcé le divorce des époux X.________ et a ratifié, pour faire partie intégrante
+du dispositif, la convention sur les effets du divorce (P. 5/2/2).
+d)
+Le 10 septembre 2018, B.X.________ a déposé plainte pénale contre C.X.________, pour escroquerie
+et faux dans les titres. Elle a exposé qu'«
+en
+faisant du rangement et de l’ordre dans [ses] affaires et celles laissées par [son] ex-époux
+»,
+elle aurait découvert que ce dernier l'aurait trompée au moment de la procédure de divorce.
+En substance, elle lui reproche de lui avoir, par des manœuvres frauduleuses, à son insu et
+en profitant de son état de santé affaibli, fait faussement croire qu'elle ne pouvait prétendre
+à aucun partage de la valeur des actions des sociétés R.________BV et T.________SA dans
+le cadre de la liquidation du régime matrimonial, l'amenant à signer la convention sur les
+effets du divorce du 31 mai 2011 et en lui causant ainsi un préjudice financier important.
+Le 17 septembre 2018, B.X.________ a requis du Ministère public de l'arrondissement de La Côte
+le séquestre «
+sur
+l'ensemble des actifs de la société T.________SA, des actions, des créances et des éventuels
+dividendes de liquidation, ainsi que sur les avoirs bancaires de Monsieur C.X.________, ce en vue de
+garantir une créance compensatrice (...) et d'empêcher que Monsieur C.X.________ puisse faire
+disparaître et transférer l'ensemble de ses avoirs à l'étranger
+»
+(P. 6). Elle a réitéré sa demande le 3 janvier 2019 (P. 11/1).
+Le 4 mars 2019, le Ministère public de l'arrondissement de La Côte a rejeté la demande
+de séquestre en l'absence d'éléments suffisamment probants justifiant celle-ci.
+e)
+Le 24 septembre 2018, B.X.________ a déposé auprès du Tribunal civil de l'arrondissement
+de La Côte une demande de révision du jugement de divorce, avec effet suspensif jusqu'à
+droit connu sur l'issue de la procédure pénale, tendant notamment à l'invalidation de
+la convention sur les effets du divorce du 31 mai 2011 et au paiement par C.X.________ de la somme de
+1'000'000 fr., avec intérêts à 5 % dès le 31 mai 2011 (P. 10/2/19).
+Elle a également déposé une requête de mesures superprovisionnelles et provisionnelles
+le 22 octobre 2018.
+Par ordonnance de mesures superprovisionnelles du 24 octobre 2018, le président du tribunal civil
+a notamment ordonné à C.X.________ de bloquer les éventuels dividendes de liquidation
+de la société T.________SA jusqu'à droit connu sur la procédure de révision
+du jugement de divorce (I) et a ordonné aux banques Crédit Suisse SA, Raiffeisen Suisse et
+UBS SA de bloquer les avoirs bancaires de l'intéressé (II, III, IV) (P. 10/2/21).
+Par ordonnance de mesures provisionnelles du 21 décembre 2018, le président du tribunal civil
+a notamment rejeté la requête de mesures provisionnelles formée par B.X.________ (II),
+a révoqué l'ordonnance de mesures superprovisionnelles du 24 octobre 2018 (III) et a levé
+le blocage des éventuels dividendes de liquidation de la société T.________SA et des avoirs
+bancaires de C.X.________ détenus auprès des banques Crédit Suisse SA, Raiffeisen Suisse
+et UBS SA. Il a retenu qu'aucun élément ne permettait, en l'état, de rendre vraisemblable
+que C.X.________ aurait profité, lors de la signature de la convention sur les effets accessoires
+du divorce en 2011, d'un vice du consentement de son ex-épouse la spoliant de prétentions pécuniaires
+sur des actions de ses sociétés (P. 11/2).
+B.
+Par ordonnance du 30 août 2019, rectifiée
+le 19 septembre 2019, le Ministère public de l'arrondissement de La Côte a ordonné le
+classement de la procédure pénale dirigée contre C.X.________ pour escroquerie entre proches
+et faux dans les titres (I), a dit qu'il y avait lieu d'octroyer à C.X.________ une indemnité
+de 4'609 fr. 55 au sens de l'art. 429 CPP (II) et a laissé les frais à la charge
+de l'Etat (III).
+La Procureure a tout d'abord relevé que la tromperie et l'astuce, éléments constitutifs
+objectifs de l'infraction d'escroquerie, n’étaient pas réalisées. En effet, la plaignante
+savait que T.________SA détenait une partie du capital-actions de C.________SA et que cette dernière
+société était susceptible de générer des revenus extrêmement importants
+(P. 23/4, p. 6), que la valeur des actions de T.________SA n'étaient en tout cas pas inférieure
+à trois millions de francs (P. 23/2), que le capital de R.________BV avait été constitué
+par un apport en argent provenant du travail de son ex-époux (P. 23/5), qu'elle aurait eu droit
+à la moitié de la valeur des actions de R.________BV (P. 23/7) et que la valeur imposable
+de cette dernière société s’élevait à 9'836'240 fr. au 31 décembre
+2009 (le couple étant créancier à hauteur de 4'125'010 fr.), puisqu'elle avait signé
+la déclaration fiscale avec son ex-époux (P. 23/8). Ainsi, malgré la complexité
+de la situation financière du couple dont elle était consciente et les informations dont elle
+disposait, la plaignante, par l'intermédiaire d'un avocat, avait proposé à deux reprises
+à son ex-époux un arrangement à l'amiable afin d'éviter une procédure longue
+et coûteuse. En outre, après avoir consulté un nouveau conseil spécialisé en
+matière de divorce, la plaignante avait signé la convention du 31 mai 2011 dans laquelle elle
+déclarait explicitement ne plus avoir aucune prétention à faire valoir à l'encontre
+des sociétés R.________BV et T.________SA. La plaignante ne pouvait donc pas arguer avoir été
+trompée astucieusement par son ex-époux.
+La Procureure a également considéré qu'aucun élément au dossier ne permettait
+de retenir que le prévenu aurait profité de l’état de santé précaire de
+la plaignante, d'une part parce que le traitement médical par radiothérapie de cette dernière
+avait pris fin le 25 août 2008, alors que la convention sur les effets accessoires avait été
+signée le 31 mai 2011, d'autre part parce que la conclusion de la convention impliquait la
+renonciation à toute expertise, de même qu'une acceptation tacite par les parties de la persistance
+d'incertitudes sur certains points.
+S'agissant de l'infraction de faux dans les titres, la Procureure a relevé que la plaignante n'avait
+présenté aucun document permettant d’admettre que son ex-époux aurait abusé
+de sa signature et/ou ouvert des comptes bancaires liés à son insu. Il n'était pas non
+plus établi que la signature de la plaignante était nécessaire pour que le prévenu
+obtienne un prêt relatif à l'une ou l'autre des entreprises dont il était l'actionnaire
+unique. De toute manière, la Procureure a constaté que les documents produits par la plaignante
+dataient de 1997 et 2002, de sorte que la prescription était acquise.
+Enfin, la Procureure a exposé qu'elle n'avait pas à refaire le procès civil, ce volet
+de l’affaire devant être réglé par le procès en révision actuellement
+pendant devant le Tribunal civil de l'arrondissement de La Côte.
+Au vu de ces circonstances, la Procureure a considéré que les réquisitions de preuve présentées
+par la plaignante, soit son audition, celle du prévenu et celles des anciens actionnaires de C.________SA,
+ainsi que la production par le prévenu de ses déclarations fiscales 2009-2018 et de plusieurs
+documents relatifs aux sociétés R.________BV et T.________SA, n'étaient pas utiles.
+C.
+Par acte du 16 septembre 2019, B.X.________ a recouru contre l'ordonnance de classement du 30 août
+2019, en concluant, avec suite de frais et dépens, à son annulation et au renvoi de la cause
+au Ministère public pour instruction.
+En droit
+:
+1.
+Interjeté en temps utile (art. 322 al. 2
+et 396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]), contre
+une ordonnance de classement rendue par le ministère public (art. 393 al. 1 let. a CPP), par la
+partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable, excepté en ce qui concerne les griefs portant sur
+l'infraction de faux dans les titres (cf. infra, consid. 4).
+2.
+Selon l'art. 319 al. 1 CPP, le ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+De manière générale, les motifs de classement sont ceux « qui déboucheraient
+à coup sûr ou du moins très probablement sur un acquittement ou une décision similaire
+de l'autorité de jugement » (Message du Conseil fédéral relatif à l'unification
+du droit de la procédure pénale du 21 décembre 2005, FF 2006 pp. 1057 ss, spéc.
+1255). Un classement s'impose donc lorsqu'une condamnation paraît exclue avec une vraisemblance
+confinant à la certitude. La possibilité de classer la procédure ne saurait toutefois
+être limitée à ce seul cas, car une interprétation aussi restrictive imposerait un
+renvoi en jugement, même en présence d'une très faible probabilité de condamnation
+(ATF 138 IV 86 consid. 4.1.1 ; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1). Le principe
+in
+dubio pro duriore
+exige donc simplement qu'en
+cas de doute, la procédure se poursuive. Pratiquement, une mise en accusation s'impose lorsqu'une
+condamnation apparaît plus vraisemblable qu'un acquittement. En effet, en cas de doute, ce n'est
+pas à l'autorité d'instruction ou d'accusation mais au juge matériellement compétent
+qu'il appartient de se prononcer (ATF 138 IV 86 consid. 4.1.1 ; ATF 138 IV 186 consid. 4.1 ;
+ATF 137 IV 219 consid. 7 ; TF 1B_272/2011 du 22 mars 2012 consid. 3.1.1).
+3.
+3.1
+La recourante invoque plusieurs agissements du
+prévenu dans le cadre des pourparlers précédant la convention de divorce qui seraient
+constitutifs, selon elle, de l'infraction d'escroquerie. Elle soutient que le prévenu lui aurait
+caché le montant réel de la participation de la société T.________SA dans le capital-actions
+de C.________SA, respectivement la valeur réelle de cette dernière société, que le
+prévenu serait frauduleusement parvenu à la dissuader de demander l'expertise des sociétés
+R.________BV et T.________SA et que, profitant du fait qu'elle était suivie entre le 3 juin 2008
+et le 15 octobre 2010 pour un «
+état
+anxio-dépressif dans le cadre d'une maladie somatique et d'un conflit de couple
+»,
+il aurait fait pression sur elle en lui disant qu'il ne signerait le contrat de vente de la maison d'
+[...] que si elle signait la convention de divorce. Elle ajoute que le prévenu a été condamné,
+le 9 février 2010, pour l'avoir séquestrée dans la chaufferie de la maison familiale
+(P. 5/2/17), et qu'il aurait fait preuve de violence physique à son encontre en septembre 2008.
+3.2
+Se rend coupable d'escroquerie au sens de l'art. 146 al. 1 CP celui qui, dans le dessein de se procurer
+ou de procurer à un tiers un enrichissement illégitime, aura astucieusement induit en erreur
+une personne par des affirmations fallacieuses ou par la dissimulation de faits vrais ou l’aura
+astucieusement confortée dans son erreur et aura de la sorte déterminé la victime à
+des actes préjudiciables à ses intérêts pécuniaires ou à ceux d’un
+tiers.
+Il y a tromperie astucieuse au sens de cette disposition lorsque l'auteur recourt à un édifice
+de mensonges, à des manœuvres frauduleuses ou à une mise en scène, mais aussi lorsqu'il
+donne simplement de fausses informations, si leur vérification n'est pas possible, ne l'est que
+difficilement ou ne peut raisonnablement être exigée, de même que si l'auteur dissuade
+la dupe de vérifier ou prévoit, en fonction des circonstances, qu'elle renoncera à le
+faire en raison d'un rapport de confiance particulier (ATF 142 IV 153 consid. 2.2.2, JdT 2017 IV 75 ;
+ATF 135 IV 76 consid. 5.2 ; ATF 133 IV 256 consid. 4.4.3 ; ATF 128 IV 18 consid. 3a ;
+TF 6B_117/2015 du 11 février 2016 consid. 2.3.1.1 et les références citées). Avec
+l’élément constitutif de l’astuce, la loi vise à donner une importance particulière
+à l’aspect de la coresponsabilité de la victime. L’astuce est exclue lorsque la
+dupe aurait pu éviter l’erreur en faisant preuve d’un minimum d’attention (ATF
+142 IV 153 consid. 2.2.2, JdT 2017 IV 75 ; ATF 135 IV 76 consid. 5.2). Il n'est cependant pas nécessaire
+qu'elle ait fait preuve de la plus grande diligence ou qu'elle ait recouru à toutes les mesures
+possibles pour éviter d'être trompée. L'astuce n'est exclue que si elle n'a pas procédé
+aux vérifications élémentaires que l'on pouvait attendre d'elle au vu des circonstances
+(ATF 142 IV 153 consid. 2.2.2, JdT 2017 IV 75 ; ATF 135 IV 76 consid. 5.2 ; ATF 133 IV 256
+consid. 4.4.3 ; ATF 128 IV 18 consid. 3a).
+3.3
+En l’espèce, les arguments de la recourante concernant le montant de la participation de T.________SA
+dans C.________SA, respectivement la valeur de cette dernière société, les circonstances
+dans lesquelles les époux, représentés par leurs avocats respectifs, ont renoncé
+aux expertises des sociétés R.________BV, T.________SA et C.________SA, son état de santé
+au moment des pourparlers et de la signature de la convention de divorce, les éventuelles pressions
+exercées sur elle par le prévenu et la condamnation de celui-ci pour l'avoir séquestrée
+le 8 août 2008, ne suffisent pas pour retenir un comportement astucieux de la part du prévenu.
+En effet, si certains des éléments que la recourante met en exergue sont certes susceptibles
+de constituer des indices de volonté de dissimulation, il n'en demeure pas moins que les époux
+étaient tous deux assistés d'un avocat au cours des pourparlers ayant précédé
+la signature de la convention de divorce et que la recourante était parfaitement consciente de la
+complexité du patrimoine de son ex-époux et de la nécessité d'investiguer plus avant
+sur sa valeur, notamment par la mise en œuvre d'expertises. En outre, la prudence et la méfiance
+étaient de mises, puisque les époux n'étaient plus liés par un rapport de confiance,
+ce qui ressort clairement de la condamnation pour séquestration en février 2010 et de la demande
+unilatérale en divorce déposée par l'épouse en juillet 2010 (P. 23/1). En outre,
+contrairement à ce qu'elle affirme, la recourante savait qu'elle aurait éventuellement eu droit
+à la moitié de la valeur de R.________BV, puisque c'est elle-même qui le dit dans son
+courrier du 23 novembre 2010 au prévenu (P. 25/2/E : «
+Monsieur
+C.X.________ a écrit à sa fille [...] un courrier dans lequel il indique que Madame B.X.________
+aura droit à la moitié des actions de R.________BV
+»).
+De même, en requérant l'expertise des sociétés R.________BV, T.________SA et C.________SA,
+la recourante aurait obtenu la réponse à la question qu'elle soulève plusieurs fois dans
+son recours, soit de savoir si l'injection de capital par T.________SA dans C.________SA a été
+alimentée par un compte joint des époux, constituant ainsi des acquêts. Or, en proposant
+en tout cas deux fois (le 4 février 2010 et le 19 novembre 2010) à son ex-époux
+de négocier une convention plutôt que de s'engager dans une procédure «
+longue,
+complexe et coûteuse en raison des expertises qui devront être ordonnées dans le cadre
+de la liquidation du régime matrimonial
+»
+(P. 25/2/A), respectivement en renonçant à toute expertise des sociétés concernées
+dans un climat d'incertitude complet, la recourante, assistée d’un avocat, a délibérément
+choisi de conclure une convention de divorce quasiment « à l'aveugle », en validant
+par sa seule signature le risque que le patrimoine du couple ne soit pas entièrement dévoilé,
+fût-ce à son détriment. La recourante est ainsi coresponsable des conséquences qu’elle
+invoque désormais, ce qui enlève tout caractère astucieux au comportement de son ex-époux.
+C’est donc à raison que le Ministère public a exclu l’infraction d’escroquerie.
+4.
+4.1
+La recourant soutient que le prévenu devrait également être condamné pour faux dans
+les titres.
+4.2
+Le recours s’exerce par le dépôt d’un mémoire écrit et dûment motivé
+(art. 396 al. 1 CPP). Les exigences de motivation du recours sont posées à l’art. 385
+al. 1 CPP. Selon cette disposition, la personne ou l’autorité qui recourt doit indiquer précisément
+les points de la décision qu’elle attaque (let. a), les motifs qui commandent une autre décision
+(let. b) et les moyens de preuve qu’elle invoque (let. c).
+Ainsi, le recourant doit d’abord indiquer « les points de la décision »
+qui sont attaqués (art. 385 al. 1 let. a CPP), par quoi il faut entendre les points du dispositif
+(cf. art. 81 al. 4 CPP) qui devraient être changés et quelle formulation devrait avoir la nouvelle
+décision si le recours était admis (Pitteloud, Code de procédure pénale suisse, Commentaire
+à l’usage des praticiens, 2012, n. 1126 ; Ziegler/Keller, Basler Kommentar, Schweizerische
+Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd.,
+Bâle 2014, n. 1a ad art. 385 CPP).
+Le recourant doit ensuite énoncer « les motifs qui commandent une autre décision »
+(art. 385 al. 1 let. b CPP), à savoir les arguments, de fait ou de droit, sur lesquels il prétend
+se fonder pour faire modifier la décision en sa faveur (Pitteloud, op. et loc. cit. ; Lieber,
+Kommentar zur Schweizerischen Strafprozessordnung, 2
+e
+éd.,
+2014, n. 2 ad art. 385 CPP). Ainsi, il doit indiquer dans quelle mesure et sous quel angle il entend
+critiquer l’établissement des faits ou l’application du droit (Calame, Commentaire romand,
+Code de procédure pénale suisse, 2
+e
+éd.,
+Bâle 2019, n. 20 ad art. 385 CPP).
+L’art. 385 al. 2, 1
+re
+phrase, CPP prévoit que si le mémoire ne satisfait pas aux exigences mentionnées à
+l’al. 1, l’autorité de recours le renvoie au recourant pour qu’il le complète
+dans un bref délai. Cette disposition vise uniquement à protéger le justiciable contre
+un formalisme excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer
+un défaut de motivation. Il est en effet communément admis en procédure que la motivation
+d’un acte de recours doit être entièrement contenue dans l’acte de recours lui-même.
+Elle ne saurait dès lors être complétée ou corrigée ultérieurement, l’art.
+385 al. 2 CPP ne devant pas être appliqué afin de détourner la portée de l’art.
+89 al. 1 CPP, qui interdit la prolongation des délais fixés par la loi et n’autorise
+pas la partie à compléter un acte dépourvu de motivation (TF 1B_232/2017 du 19 juillet
+2017 consid. 2.4.3 ; TF 6B_347/2016 du 10 février 2017 consid. 4.1 ; TF 1B_363/2014
+du 7 janvier 2015 consid. 2.1 et les références citées ; TF 6B_872/2013 du 17 octobre
+2013 consid. 3).
+4.3
+La recourante soutient qu'elle n'a ni signé ni donné son accord aux transferts de montants
+conséquents impliquant des acquêts du couple, ce qui ressortirait des pièces 5/2/7-9,
+24/2/19, 24/2/28, 24/2/32 et 24/2/34. Toutefois, la recourante n'expose nullement en quoi ces documents,
+qui ne semblent par ailleurs pas non plus comporter la signature du prévenu, établiraient que
+celui-ci aurait créé un titre faux, falsifié un titre ou abusé de la signature de
+son ex-épouse pour fabriquer un titre, ni en quoi le Ministère public ne devrait pas être
+suivi à propos de la prescription. Cette motivation est lacunaire et ne satisfait pas aux exigences
+de l'art. 385 al. 1 CPP, de sorte que les moyens de la recourante doivent être déclarés
+irrecevables.
+Au demeurant, comme exposé par la Procureure, c'est le lieu de noter que le délai de prescription
+de l'infraction de faux dans les titres était de 10 ans jusqu'au 1
+er
+octobre 2002 (art. 70 aCP et 251 aCP ; RO 2002 2996 ; FF 2000 2769), le délai étant
+de 15 ans depuis cette date (art. 97 al. 1 let. c CP), de sorte que l'infraction de faux dans les titres
+invoquée pour les transactions qui datent de 1997 et 2002 (P. 5/2/7-9) est prescrite.
+5.
+5.1
+La recourante requiert sa propre audition afin que le Ministère public puisse recueillir sa perception
+des faits, indispensable selon elle à l'appréciation du caractère pénal des agissements
+du prévenu.
+5.2
+Le droit d'être entendu, tel qu'il est garanti à l'art. 29 al. 2 Cst., comprend notamment le
+droit pour le justiciable de s'expliquer avant qu'une décision ne soit prise à son détriment,
+celui de fournir des preuves quant aux faits de nature à influer sur le sort de la décision,
+celui d'avoir accès au dossier, celui de participer à l'administration des preuves, d'en prendre
+connaissance et de se déterminer à leur propos (
+ATF
+142 II 218
+consid. 2.3 ; ATF
+140
+I 285
+consid. 6.3.1).
+Le principe de l'égalité des armes requiert que chaque partie se voie offrir une possibilité
+raisonnable de présenter sa cause dans des conditions qui ne la placent pas dans une situation de
+net désavantage par rapport à son adversaire. Au pénal, ce principe suppose un équilibre
+non seulement entre le prévenu et le ministère public soutenant l'accusation, mais également
+entre le prévenu et la partie civile. Cette égalité doit permettre d'assurer un débat
+contradictoire (TF 6B_194/2009 du 13 juillet 2009 consid. 2.1 et les références citées).
+Lorsque la procédure préliminaire porte
+sur des infractions poursuivies sur plainte, le Ministère public peut citer le prévenu et le
+plaignant à une audience dans le but de tenter d'aboutir à un arrangement à l'amiable
+(art. 316 al. 1 CPP). C'est une faculté qui est laissée au Ministère public et non pas
+une obligation, l'idée poursuivie par le législateur étant de faire usage de cette possibilité,
+à moins qu'une réconciliation ne paraisse d'emblée impossible (Message du Conseil fédéral
+relatif à l'unification du droit de la procédure pénale FF 2006 p. 1251 ; Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, Bâle 2016, n. 2 ad art. 316 CPP). Ainsi,
+l'audition du plaignant se justifie en principe pour tenter la conciliation ou pour étayer une plainte
+peu claire ou obscure dans des cas d'une certaine complexité (CREP 1
+er
+mars 2016/141 consid. 3.2).
+5.3
+Une audition de la recourante et plaignante se justifierait dans la perspective d'un arrangement à
+l'amiable, ce qui paraît impossible compte tenu de la situation conflictuelle ancrée depuis
+plusieurs années, ou pour étayer une plainte peu claire ou obscure dans une affaire d'une certaine
+complexité, ce qui n'est manifestement pas le cas en l'espèce. Le Ministère public pouvait
+donc procéder à une appréciation complète sur la base de la plainte de la recourante,
+de l'audition du prévenu et des multiples pièces déposées par les parties.
+D’autre part et surtout, la recourante n’invoque pas dans son recours le moindre élément
+susceptible d’établir qu’elle serait en mesure de fournir des compléments d’information
+nouveaux et déterminants quant aux actes pénalement répréhensibles qu'elle impute
+à son ex-époux. Comme on l'a vu ci-dessus, elle n'a pas expliqué en quoi le comportement
+du prévenu aurait été trompeur et astucieux s'agissant de l'infraction d'escroquerie,
+ni en quoi celui-ci aurait créé un titre faux, falsifié un titre ou abusé de sa signature
+s'agissant de l'infraction de faux dans les titres. Elle ne s'est pas non plus déterminée à
+propos de la prescription de cette dernière infraction. On ne voit donc pas en quoi l'audition de
+la plaignante pourrait modifier l’appréciation pertinente du Ministère public. Il en
+va de même pour les autres mesures d’instruction requises par la recourante, qui tendent uniquement
+à prouver ses allégués sur les éventuelles dissimulations de son ex-époux.
+Dès lors que les chances d'acquittement sont très nettement plus élevées que celles
+d'une condamnation du prévenu pour escroquerie et faux dans les titres, c'est à juste titre
+que le Ministère public a classé la procédure.
+6.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans échange d'écriture (art. 390 al. 2 CPP) et l'ordonnance entreprise confirmée.
+Les frais de la procédure de recours, arrêtés à 1'540 fr. (art. 20 al. 1 TFIP
+[tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]), seront mis à la charge de la recourante, qui succombe (art. 428
+al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L'ordonnance du 30 août 2019 est confirmée.
+III.
+Les frais d'arrêt, par 1'540 fr. (mille
+cinq cent quarante francs), sont mis à la charge de B.X.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :              La
+greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Rodolphe Gautier, avocat (pour B.X.________),
+-
+Me Estelle Chanson, avocate (pour C.X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
