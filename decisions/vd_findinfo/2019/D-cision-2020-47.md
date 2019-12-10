@@ -1,0 +1,217 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___47"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 47"
+decided: "2019-12-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7561659"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-257f.md", "switzerland/bund/acts/220/art-266l.md", "switzerland/bund/acts/311.0/art-137.md", "switzerland/bund/acts/312.0/art-301.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2020 / 47
+
+## Regeste
+
+NON-LIEU, CHOSE LOUÉE | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 10.12.2019 Décision / 2020 / 47
+
+NON-LIEU, CHOSE LOUÉE | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1031
+PE19.021613-VWT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+10 décembre 2019
+__________________
+Composition :
+M.
+Meylan
+,
+président
+Mme
+Byrde et M. Perrot, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+257f CO et 310 CPP
+Statuant sur le recours interjeté le 28 novembre 2019 par
+B.X.________
+contre l'ordonnance de non-entrée en matière rendue le 15 novembre 2019 par le Ministère
+public de l'arrondissement de La Côte dans la cause
+n
+o
+PE19.021613-VWT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+B.X.________ et son époux C.X.________ sont les locataires d'un appartement et de deux places de
+parc intérieures à [...], depuis le 1
+er
+août 2017. L'immeuble est géré par la régie N.________SA.
+Par lettre du 13 mars 2019, la régie N.________SA a sommé les époux X.________ de débarrasser
+divers objets qu'ils entreposaient sur les deux places de parc, précisant qu'à défaut
+de quoi ils s'exposaient à une résiliation anticipée du contrat de bail et au débarras
+des affaires à leurs frais.
+Les époux X.________ n'ont pas obtempéré.
+Le 17 mai 2019, la régie N.________SA a informé les époux X.________, sous la forme d'un
+«
+bon de commande
+»,
+qu'elle avait mandaté la société P.________ afin de débarrasser les places de parc,
+le délai d'exécution étant fixé au 20 mai 2019.
+Les objets ont été évacués entre le 19 et le 23 août 2019. Une partie des affaires
+aurait été acheminée à la déchetterie, tandis que d'autres objets, dont un vélo,
+auraient été donnés à des voisins.
+Le 20 septembre 2019, B.X.________ a déposé plainte pénale contre inconnu et s'est constituée
+partie civile.
+B.
+Par ordonnance du 15 novembre 2019, le Ministère
+public de l'arrondissement de La Côte a dit qu'il n'entrait pas en matière sur la plainte déposée
+par B.X.________ (I) et que les frais étaient laissés à la charge de l'Etat (II).
+La Procureure a retenu que, dans la mesure où le matériel avait été débarrassé
+sur ordre de la gérance et que la société P.________ n'avait pas agi dans le dessein de
+s'enrichir et de s'approprier les objets débarrassés, les éléments constitutifs de
+l'infraction d'appropriation illégitime (art. 137 ch. 2 CP) n'étaient pas réalisés.
+C.
+Par acte du 28 novembre 2019, B.X.________ a recouru contre cette ordonnance, en concluant, sous suite
+de frais et dépens, à son annulation et à ce que le Ministère public entre en matière
+sur sa plainte pénale.
+Le 6 décembre 2019, le Ministère public a indiqué qu'il renonçait à se déterminer
+sur le recours.
+En droit
+:
+1.
+Interjeté en temps utile (art. 310 al. 2 et 322 al. 2 CPP [Code de procédure pénale suisse
+du 5 octobre 2007 ; RS 312.0]), contre une ordonnance de non-entrée en matière rendue
+par le ministère public (art. 393 al. 1 let. a CPP), par la partie plaignante qui a qualité
+pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable.
+2.
+Conformément à l'art. 310 al. 1 let. a CPP, le ministère public rend immédiatement
+– c'est-à-dire sans qu'une instruction soit ouverte – une ordonnance de non-entrée
+en matière lorsqu'il apparaît, à réception de la dénonciation (art. 301
+ss CPP) ou de la plainte (Grodecki/Cornu, Commentaire romand, Code de procédure pénale suisse,
+2
+e
+éd.,
+Bâle 2019, nn. 1-2 ad art. 310 CPP) ou après une procédure préliminaire limitée
+aux investigations de la police (art. 300 al. 1 et 306 ss CPP), que les éléments constitutifs
+d'une infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement pas
+réunis (TF 6B_898/2017 du 8 mars 2018 consid. 3.1).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits mais également du droit. S'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+137 IV 285 consid. 2.3 et les références, JdT 2012 IV 160). En revanche, le ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (TF 1B_67/2012 du 29
+mai 2012 consid. 3.2).
+3.
+3.1
+La recourante soutient que le Ministère public aurait éludé le fait que sa plainte n'avait
+pas été spécifiquement déposée contre P.________, mais contre inconnu, de sorte
+que l'instruction aurait dû être ouverte à tout le moins dans le but de rechercher de
+qui émanait l'ordre de débarrasser les objets et qui en était responsable (un employé
+de la régie ou le propriétaire, par exemple). Or, le bailleur, par l'intermédiaire de
+sa régie, s'était fait justice lui-même au lieu de faire usage des procédures civiles
+à sa disposition pour obtenir l'évacuation des objets.
+3.2
+Aux termes de l'art. 257f al. 1 et 2 CO, le locataire est tenu d'user de la chose louée avec le
+soin nécessaire et, s'il s'agit d'un bien immobilier, d'avoir pour les personnes habitant la maison
+et pour les voisins les égards qui leur sont dus.
+L'art. 257f al. 3 CO vise un cas particulier d'inexécution des obligations, spécifique à
+la relation entre bailleur et locataire, et il en règle les effets. Selon son texte, cette disposition
+spéciale vise les manquements du locataire dans son devoir de diligence concernant la chose, d'une
+part, ou dans les égards dus au voisinage, s'il s'agit d'une chose immobilière, d'autre part.
+En réalité, l'art. 257f CO régit également le cas où le locataire use de la
+chose en violation des stipulations du contrat même si l'activité du locataire n'entraîne
+pas une situation insupportable (ATF 132 III 109 consid. 5 ; Braconi/Carron, CC/CO commenté,
+10
+e
+éd.,
+Bâle 2016, p. 193 ad art. 257f CO). Au regard de l'art. 257f al. 3 CO, la résiliation
+n'est valable qu'après une protestation écrite du bailleur et une violation persistante des
+stipulations concernant l'utilisation de la chose ; elle doit aussi satisfaire à la forme prévue
+par l'art. 266l CO et laisser au locataire un délai de départ de trente jours au moins, expirant
+à la fin d'un mois (ibidem). Les baux d’habitations et de locaux commerciaux peuvent toutefois
+être résiliés avec effet immédiat, si le locataire cause volontairement un préjudice
+grave à la chose (art. 257f al. 4 CO).
+3.3
+En l'espèce, lorsque le locataire fait usage de la chose louée en violation des clauses du
+contrat – point qui n'a pas à être examiné par la Cour de céans, mais qui constitue
+le point d'achoppement des parties –, le bailleur ne dispose que d'une seule solution : la
+résiliation extraordinaire du contrat de bail, soit avec un délai de 30 jours pour la
+fin d'un mois (art. 257f al. 3 CO), soit avec effet immédiat si le locataire cause volontairement
+un préjudice grave à la chose (art. 257f al. 4 CO). Ainsi, l'injonction faite aux locataires
+de débarrasser leurs deux places de parc des objets qui y étaient entreposés ne pouvait
+être suivie, en cas de persistance, que d'une résiliation du contrat de bail. Ni le bailleur
+ni sa régie ne pouvaient valablement mandater un tiers pour emporter, donner, jeter ou détruire
+lesdits objets. En particulier, la régie, en tant que professionnelle de la branche, devait en être
+consciente et ne pouvait en tout cas pas assimiler la situation avec celle du locataire expulsé
+qui laisse dans les locaux loués des objets dont on peut éventuellement penser qu'il en fait
+déréliction.
+Quoi qu'il en soit, comme allégué à juste titre par la recourante, on ignore, en l'état,
+qui a donné l'ordre d'évacuer les objets stockés sur les places de parc et quel a été
+le sort de ceux mentionnés dans la plainte. La commission des infractions des art. 137, 139 et/ou
+144 CP n'est donc pas exclue, étant précisé que l'art. 137 ch. 2 CP n'exige pas un dessein
+d'enrichissement illégitime et que le dol éventuel suffit. Par conséquent, le Ministère
+public devra entrer en matière sur la plainte pénale déposée et procéder à
+toute mesure d'instruction nécessaire propre à élucider les faits et interrogations susmentionnées.
+4.
+Il résulte de ce qui précède que le recours doit être admis, l'ordonnance entreprise
+annulée et le dossier de la cause renvoyé au Ministère public de l'arrondissement de La
+Côte pour qu'il procède dans le sens des considérants.
+Les frais de la procédure de recours, fixés à 660 fr. (art. 20 al. 1 TFIP [tarif
+des frais de procédure et indemnités en matière pénale du 28 septembre 2010 ;
+BLV 312.03.1]), sont laissés à la charge de l'Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Le recours est admis.
+II.
+L'ordonnance du 15 novembre 2019 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l'arrondissement de La Côte pour qu'il procède dans le sens des considérants.
+IV.
+Les frais d'arrêt, par 660 fr. (six cent soixante francs), sont laissés à la charge
+de l'Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :              La
+greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me César Montalto, avocat (pour B.X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l'arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
