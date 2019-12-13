@@ -1,0 +1,255 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___57"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 57"
+decided: "2019-12-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7498943"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-088.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/281.1/art-115.md", "switzerland/bund/acts/281.1/art-265.md", "switzerland/bund/acts/281.1/art-265a.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 57
+
+## Regeste
+
+PLAINTE{LP}, MEILLEURE FORTUNE, AVIS DE SAISIE, CALCUL, RÉQUISITION DE CONTINUER LA POURSUITE, MINIMUM VITAL | 17 LP, 265 al. 2 LP, 92 LP, 93 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.12.2019 Plainte / 2019 / 57
+
+PLAINTE{LP}, MEILLEURE FORTUNE, AVIS DE SAISIE, CALCUL, RÉQUISITION DE CONTINUER LA POURSUITE, MINIMUM VITAL | 17 LP, 265 al. 2 LP, 92 LP, 93 LP
+
+TRIBUNAL
+CANTONAL
+FA19.016220-191133
+48
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 décembre 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17, 92 ss et 265 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________
+,
+à Avenches, contre la décision rendue le 12 juillet 2019, à la suite de l’audience
+du 28 mai 2019, par la Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois,
+autorité inférieure de surveillance, dans la cause opposant le recourant à l’
+OFFICE
+DES POURSUITES DU DISTRICT DE LA BROYE-VULLY
+et
+à
+D.________
+,
+à Rheinfelden,
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 2 novembre 2016, l’Office des poursuites du district de la
+Broye-Vully
+(ci-après : l'office), a notifié à H.________, à la réquisition de D.________,
+un commandement de payer, dans la poursuite ordinaire n° 8'057'208, portant sur un montant de 10'000
+fr. sans intérêt. La poursuite était fondée sur un acte de défaut de biens après
+faillite délivré le 22 août 1996.
+Le
+poursuivi a formé opposition totale, en contestant son retour à meilleure fortune.
+Par prononcé du 11 mai 2018, le Juge de paix du district de la Broye-Vully a déclaré irrecevable
+l’opposition de non-retour à meilleure fortune à hauteur de 680 fr. par mois. Il a considéré
+qu’au 1
+er
+janvier 2017, le minimum vital de l’intéressé était de 4'348 fr. 25, en tenant compte
+d’un montant de base augmenté de 100% (soit 3'400 fr.), pour un revenu de 5'028 fr. 95.
+Par prononcé du 13 novembre 2018, le même magistrat a notamment prononcé la mainlevée
+provisoire de l’opposition au commandement de payer précité à concurrence de 10'000
+fr. sans intérêt.
+Ces deux décisions ont été déclarées définitives et exécutoires.
+b)
+Le 16 janvier 2019, D.________ a adressé à l’office une réquisition de continuer
+la poursuite, en produisant les deux prononcés précitées.
+Dans le cadre du calcul du montant saisissable, l’office a retenu que les revenus du couple H.________
+totalisaient 5'239 fr. 55, soit 3'464 fr. 95 pour le poursuivi et 1'774 fr. 60 pour son épouse.
+Il a calculé le minimum vital du couple de la manière suivante :
+Base mensuelle
+élargie retenue par le juge de paix :
+3'400 fr.
+Charges du
+couple retenues par le juge de paix (pour 2017) :
+2'478 fr. 80
+Prime d’assurance-maladie
+du débiteur :
+492 fr.
+Prime d’assurance-maladie
+de l’épouse :
+495 fr. 20
+----------------
+Total :
+6'848 fr. 10
+----------------
+Constatant
+que le débiteur réalisait 66,13% des revenus du ménage, l’office a arrêté
+son minimum d’existence à 4'539 fr. 28, selon le calcul suivant :
+Base mensuelle :
+2'248 fr. 44
+Charges communes :
+1'637 fr. 92
+Charges propres
+payées :
+652 fr. 90
+Le
+revenu du poursuivi étant inférieur au minimum d’existence ainsi calculé, l’office
+a considéré que le montant mensuel saisissable était nul.
+c)
+Le 28 mars 2019, l'office a adressé à la poursuivante un procès-verbal de saisie selon
+l’art. 115 LP (loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1) valant
+acte de défaut de biens.
+2.
+Le 8 avril 2019, D.________ a déposé une plainte au sens de l'art. 17 LP auprès de la
+Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois, concluant à ce
+qu'une saisie mensuelle correspondant à la quotité disponible du débiteur – qu'elle
+a calculée à 1'006 fr. 95 – soit ordonnée.
+Le 13 mai 2019, l’office et le poursuivi se sont déterminés, concluant tous deux au rejet
+de la plainte.
+3.
+Par décision du 12 juillet 2019, la Présidente du Tribunal d’arrondisse-ment de la Broye
+et du Nord vaudois a admis la plainte et invité l’office à procéder dans le sens
+des considérants.
+Elle a considéré, en substance, qu'en reprenant les calculs effectués par le juge ayant
+statué sur le retour à meilleure fortune, notamment en doublant la base mensuelle des époux
+H.________, l'office s’était écarté des règles qu'il aurait dû appliquer,
+à savoir celles de l’art. 93 LP. Elle a donc invité l’office à calculer la
+quotité saisissable selon les critères stricts du minimum vital, avec des charges actualisées.
+4.
+Par acte du 19 juillet 2019, H.________ a recouru contre cette décision, concluant en substance
+au rejet de la plainte.
+Dans sa réponse du 31 juillet 2019, l'intimée D.________ a conclu au rejet du recours.
+Dans une écriture du 9 août 2019, l’office s’est référé aux détermina-tions
+qu’il avait déposées en première instance, concluant à l’admission du
+recours.
+Par prononcé du 16 août 2019, la Présidente de la Cour de céans a déclaré
+irrecevable la requête d'effet suspensif déposée par la recourante.
+En droit :
+I.
+Le recours, déposé
+en temps utile, dans les dix jours suivant la notification du prononcé attaqué (art. 18 al.
+1 LP ; 28 al. 1 LVLP [loi du 18 mai 1955 d’application de la LP dans le canton de Vaud ; BLV
+280.05]), signé et suffisamment motivé (TF 5A_118/2018 du 7 février 2018 consid. 4.1),
+est recevable. Il en va de même des déterminations de l’office et de l'intimé (art.
+31 al. 1 LVLP).
+II.
+a)
+La question qui se pose est celle de savoir comment l’office doit calculer le montant saisissable
+lorsque le juge a déclaré irrecevable (ou partiellement irrecevable) une opposition pour non-retour
+à meilleure fortune et a donc procédé au calcul du minimum vital élargi du débiteur,
+en vertu des critères de l’art. 265 al. 2 LP.
+L’office fait valoir qu'il ne peut s’écarter du minimum vital élargi retenu par
+le juge de l’exception, car s’il le faisait, cela réduirait à néant la procédure
+de calcul du non-retour à meilleure fortune. Cet argument est repris par le recourant.
+L'intimée soutient, au contraire, que l’office doit procéder à un calcul du minimum
+vital strict fondé sur les art. 92 et 93 LP.
+b)
+Lorsqu’un débiteur est poursuivi
+sur la base d’un acte de défaut de biens après faillite, il peut non seulement faire
+opposition à la créance, mais aussi se prévaloir de l’exception de non-retour à
+meilleure fortune (art. 265 al. 2 LP). Si le débiteur fait opposition en contestant son retour à
+meilleure fortune, l’office soumet cette opposition au juge du for de la poursuite, qui statue
+en procédure sommaire (art. 251 let. d CPC) et sans recours (art. 265a al. 1 LP). S’il déclare
+l’opposition irrecevable, le juge détermine dans quelle mesure le débiteur est revenu
+à meilleure fortune (art. 265a al. 3 LP). Il le fait  en vertu des critères issus de l’art.
+265 al. 2 LP. Une fois que l’existence d’une nouvelle fortune a été définitivement
+établie et que l’opposition dirigée contre la créance elle-même a été
+définitivement écartée, le créancier peut requérir la continuation de la poursuite
+(art. 88 LP). S’il y donne suite, l’office procédera à une saisie.
+Selon la jurisprudence du Tribunal fédéral, la constatation de la meilleure fortune par le
+juge limite la responsabilité du débiteur dans le cadre de la poursuite en question. Jusqu’à
+cette limite, le débiteur doit toutefois répondre sur l’ensemble de son patrimoine. Pour
+cette raison, l’office des poursuites doit procéder à une saisie sur la base des art.
+92 ss LP comme pour n’importe quelle autre réquisition de continuer la poursuite (ATF 136
+III 51 consid. 3.2 et les références citées, JT 2012 II 556 ; TF 5A_21/2010 du 19 avril
+2010 consid. 5 ; Jeandin, in Commentaire romand, Poursuite et faillite, n. 28 ad art. 265 LP et les références
+citées). L’art. 265 LP ne pose aucune règle supplémentaire pour la saisie subséquente,
+comme un « minimum vital de second rang » ; la constatation de la nouvelle fortune
+et la saisie subséquente sont deux opérations distinctes (ATF 136 III 51 précité
+consid. 3.3 et les références citées).
+S'il déclare l'opposition recevable, le juge détermine dans quelle mesure le débiteur
+est revenu à meilleure fortune (art. 265 al. 2 LP) ; il peut fixer soit un montant mensuel soit
+un montant annuel. Le tribunal fédéral préconise la fixation d'un montant global –
+annuel, soit multiplié par douze mois – du retour à meilleure fortune et rappelle que
+c’est à l’office qu’il appartient ensuite d'arrêter la quotité saisissable
+sur la base des art. 92 et 93 LP (TF 5A_21/2010 précité). Cette méthode a pour conséquence
+que l’office fixera pour la saisie mensuelle un montant supérieur à celui retenu par
+le juge, que le créancier obtient le montant de la saisie en quelques mois seulement au lieu d’une
+année et que le poursuivi  est  pendant ce temps-là réduit au minimum vital.
+Nonobstant les critiques de la doctrine – selon lesquelles, lorsque le juge de l’exception
+a déterminé un montant annuel, le système légal permettrait de saisir le revenu du
+débiteur et de ne lui laisser que le minimum nécessaire – le Tribunal fédéral
+n’a émis aucune réserve à cet égard, relevant que cela ne changeait rien au
+système légal (ATF 136 III 51 précité consid. 3.4).
+c)
+En l’espèce, le juge de l’exception a déterminé dans quelle mesure le débiteur
+est revenu à meilleure fortune en fixant un montant mensuel, et sa décision est définitive
+et exécutoire. Conformément à la jurisprudence précitée, l'office doit procéder
+au calcul du minimum vital strict du débiteur selon les critères des art. 92 et 93 LP (et non
+en vertu de l'art. 265 al. 2 LP). Il ne pourra en revanche pas saisir davantage que le montant à
+concurrence duquel le poursuivi est revenu à meilleure fortune, soit à 680 fr. par mois.
+III.
+Vu ce qui précède, le recours doit être rejeté et la décision de l'autorité
+inférieure de surveillance confirmée.
+L'arrêt est rendu
+sans frais ni dépens (art. 20a al. 2 ch. 5 LP ; 61 al. 2 let. a et 62 al. 2 OELP [ordonnance sur
+les émoluments perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Burnet, avocat (pour H.________),
+‑
+Me Séverine Berger, avocate (pour D.________),
+-
+M. le Préposée à l’Office des poursuites du district de la Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois, autorité
+inférieure de surveillance.
+La greffière :
