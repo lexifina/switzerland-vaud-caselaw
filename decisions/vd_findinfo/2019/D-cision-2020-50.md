@@ -1,0 +1,395 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___50"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 50"
+decided: "2019-12-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7563463"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-179ter.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-432.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2020 / 50
+
+## Regeste
+
+INJURE, DIFFAMATION, INFRACTIONS CONTRE LE DOMAINE SECRET, CLASSEMENT DE LA PROCÉDURE | 173 CP, 177 CP, 179ter CP, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.12.2019 Décision / 2020 / 50
+
+INJURE, DIFFAMATION, INFRACTIONS CONTRE LE DOMAINE SECRET, CLASSEMENT DE LA PROCÉDURE | 173 CP, 177 CP, 179ter CP, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1007
+PE18.008692-KBE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+16 décembre 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+MM.
+Perrot et Maillard, juges
+Greffier
+:              M.
+Pilet
+*****
+Art.
+173, 174, 177 CP ; 319 CPP
+Statuant sur le recours interjeté le 18 octobre 2019 par
+P.________
+contre l’ordonnance de classement rendue le 27 septembre 2019 par le Ministère public de l’arrondissement
+de l’Est vaudois dans la cause
+n° PE18.008692-KBE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 7 mai 2018, le Ministère public de l’arrondissement de l’Est vaudois a ouvert une
+enquête pénale contre X.________ pour diffamation, injure et enregistrement non autorisé
+de conversations à la suite de la plainte de P.________.
+La plaignante, copropriétaire avec son mari (dont elle vit séparée) d’un appartement
+sis à [...], a exposé que sa famille serait l’objet d’une cabale de certains propriétaires
+orchestrée par la prévenue, administratrice de la PPE «  [...] ». Tout
+serait prétexte pour la dénigrer et à la moindre occasion certains propriétaires
+appelleraient la police. Elle a notamment reproché à la prévenue d’avoir déclaré
+lors d’une médiation organisée le 6 février 2018 au poste de la gendarmerie d’
+[...] que son comportement posait de graves problèmes dans l’immeuble, qu’elle était
+à l’origine de nuisances sonores, de tapage nocturne, de violences et autres incivilités
+et qu’elle apostrophait tous les locataires de manière injurieuse. En outre, selon la plaignante,
+la prévenue aurait dit au médiateur qu’il serait parvenu à sa connaissance que ses
+deux filles étaient livrées à elles-mêmes, leur mère étant fréquemment
+absente, notamment la nuit, que plusieurs propriétaires avaient relaté qu’ils entendaient
+ses deux enfants pleurer durant de longs moments et de manière répétée, qu’ils
+les avaient vues jouer à saute-mouton sur les tombes du cimetière de la localité. Suite
+à cette médiation, un policier aurait dénoncé le cas au Service de protection de
+la jeunesse.
+Par ailleurs, la prévenue aurait mentionné dans le procès-verbal de l’assemblée
+générale de la PPE s’étant déroulée le 14 mars 2018 que depuis plusieurs
+mois la plaignante laissait ses filles seules à la maison et jusque tard dans la nuit, que malheureusement
+aucune amélioration n’avait été constatée, bien au contraire, que moins de
+15 jours après cet avertissement, la police avait déjà dû intervenir vers minuit
+pour calmer la prévenue, qu’au vu de la gravité des faits relatés lors de cette
+séance, le médiateur proposait que la PPE continue ses démarches au tribunal et annonçait
+qu’il informerait les services concernés de toutes infractions dont il avait eu connaissance,
+en particulier un comportement suspect et étrange avec les filles de l’intéressée.
+Toujours selon la plaignante, qui s’est fondée sur des notes prises par son fiduciaire lors
+de cette séance, la prévenue aurait parlé lors de cette assemblée de son statut sous
+l’angle de la police des étrangers, qu’il s’agissait de lui faire perdre, du Service
+de protection de la jeunesse, de son divorce, de la Justice de paix, de ses filles qui « auraient
+peur ou seraient terrifiées », et aurait déclaré qu’elle serait folle, qu’elle
+aurait agressé la prévenue et qu’elle aurait dû suivre un traitement médical.
+La plaignante a encore reproché à la prévenue d’avoir enregistré sur support
+audio les propos tenus lors de cette assemblée générale et d’avoir mentionné
+dans un courrier du 8 mai 2017 adressé à la Municipalité d’ [...] que les deux fillettes
+de 10 et 12 ans étaient moralement et psychologiquement en grand danger avec leur mère et que
+leur quotidien consistait en des crises d’hystérie et autre hurlements de la plaignante à
+l’encontre de ses enfants ou de son époux, de scènes de ménage, de portes systématiquement
+et délibérément claquées et ceci jusque très tard la nuit.
+b)
+Le 14 septembre 2018, X.________ et P.________ ont comparu devant le Procureur à une audition de
+conciliation, laquelle n’a pas abouti.
+B.
+Par ordonnance du 27 septembre
+2019, le Ministère public a prononcé le classement de la procédure pénale dirigée
+contre X.________ pour diffamation, injure et enregistrement non autorisé de conversation (I), a
+alloué à X.________ une indemnité au sens de l’article 429 CPP de 1'038 fr. 60,
+TVA comprise (II), et a laissé les frais de procédure à la charge de l’Etat (III).
+Le Procureur a constaté
+qu’il ressortait d’un courrier du 12 avril 2018 du Commandant de la Police cantonale
+que les informations convergentes laissaient entendre que le voisinage de P.________ se plaignait de
+son comportement, ce qui rendait la copropriété et la cohabitation des plus difficiles depuis
+de nombreux mois, que les services de police avaient dû intervenir à plusieurs reprises au
+domicile de la plaignante pour le constat de troubles à l’ordre public, que le comportement
+de celle‑ci lors de la séance de médiation semblait être une des causes de l’échec
+de cette dernière, que dans son rapport du 7 février 2018, le chef de la division médiation
+de la Police cantonale avait relevé qu’un couple de locataires ne supportait plus le comportement
+de la plaignante qui faisait du tapage nocturne, que cette dernière avait faussement signalé
+à la Police cantonale des violences domestiques au sein de ce couple, ce qu’elle avait reconnu
+par la suite. Pour le Ministère public, il apparaissait ainsi que les propos de la prévenue
+relatifs au comportement de la plaignante étaient le reflet de la réalité, qu’il
+en allait de même du contenu du courrier adressé par celle-ci le 8 mai 2017 à la municipalité.
+On ne pouvait ainsi reprocher à X.________ d’avoir agi pour le bien de la copropriété,
+d’avoir rapporté aux autres copropriétaires ce qui s’était dit durant la séance
+de médiation et de s’être inquiétée du sort des enfants qui avaient parfois
+été laissés seuls tard le soir, ce qui n’était pas contesté par la plaignante,
+ni d’avoir informé certaines autorités compétentes. La prévenue aurait ainsi
+fait la preuve de sa bonne foi au sens de l’art. 173 ch. 2 CP. Quant au fait d’avoir
+déclaré que la plaignante était « folle » ou « hystérique »
+lors d’une assemblée de PPE, il n’y aurait pas d’atteinte à l’honneur,
+ces propos n’ayant pas fait passer l’intéressée pour une personne méprisable,
+et il ne s’agirait de surcroît pas d’une injure formelle. S’agissant enfin de
+l’infraction de l’art. 179ter CP, le Ministère public a considéré que
+P.________ n’avait pas qualité pour déposer plainte pénale car elle n’était
+pas présente lors de l’assemblée en question. De toute manière, les conditions objectives
+de cette infraction ne seraient pas réalisées, le mari de la plaignante et son fiduciaire n’ayant
+pas exprimé leur désaccord avec cet enregistrement et n’ayant pas déposé plainte
+de leur côté.
+C.
+Par
+acte du 18 octobre 2019, P.________ a recouru auprès de la Chambre des recours pénale contre
+cette ordonnance, en concluant, sous suite de frais et dépens, principalement à son annulation,
+la cause étant renvoyée au Ministère public pour qu’il procède dans le sens
+des considérants, à ce que X.________ soit condamnée à lui verser immédiatement
+les avances de frais faites par elle dans le cadre du présent recours, à ce que X.________
+soit condamnée à lui verser immédiatement une indemnité fixée à dires de
+justice, mais pas inférieure à 3'231 fr., TVA comprise, et subsidiairement à la réforme
+du chiffre II du dispositif de l’ordonnance attaquée en ce sens qu’aucune indemnité
+au sens de l’art. 429 CPP ne soit allouée à X.________.
+Il n’a pas été ordonné d’échange
+d’écritures.
+En droit
+:
+1.
+Interjeté dans le
+délai légal auprès de l’autorité compétente par la partie plaignante,
+qui a la qualité pour recourir (cf. art. 382 al. 1 CPP [Code de procédure pénale suisse
+du 5 octobre 2007 ; RS 312.0]), le recours est recevable.
+2.
+Selon l’art. 319
+al. 1 CPP, le ministère public ordonne le classement de tout ou partie de la procédure lorsqu’aucun
+soupçon justifiant une mise en accusation n’est établi (let. a), lorsque les éléments
+constitutifs d’une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs
+empêchent de retenir une infraction contre le prévenu (let. c), lorsqu’il est établi
+que certaines conditions à l’ouverture de l’action pénale ne peuvent pas être
+remplies ou que des empêchements de procéder sont apparus (let. d) ou lorsqu’on peut
+renoncer à toute poursuite ou à toute sanction en vertu de dispositions légales (let.
+e).
+La décision de classer
+la procédure doit être prise en application du principe «
+in
+dubio pro duriore
+». Ce principe vaut également
+pour l'autorité judiciaire chargée de l'examen d'une décision de classement. Il signifie
+qu'en règle générale, un classement ou une non-entrée en matière ne peut être
+prononcé par le ministère public que lorsqu'il apparaît clairement que les faits ne sont
+pas punissables ou que les conditions à la poursuite pénale ne sont pas remplies. La procédure
+doit se poursuivre lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement ou lorsque
+les probabilités d'acquittement et de condamnation apparaissent équivalentes, en particulier
+en présence d'une infraction grave. En effet, en cas de doute s'agissant de la situation factuelle
+ou juridique, ce n'est pas à l'autorité d'instruction ou d'accusation mais au juge matériellement
+compétent qu'il appartient de se prononcer (ATF 143 IV 241 consid. 2.2.1 ; ATF 138 IV 86 consid.
+4.1.2 et les références citées). En revanche, le ministère public doit classer la
+procédure s’il apparaît, sur la base de faits assez clairs pour qu’il n’y
+ait pas lieu de s’attendre à une appréciation différente de l’autorité
+de jugement (cf. ATF 143 IV 241 consid. 2.3.2), qu’un renvoi aboutirait selon toute vraisemblance
+à un acquittement.
+Enfin, le constat selon
+lequel aucun soupçon justifiant une mise en accusation n’est établi (art. 319 al. 1 let.
+a CPP) suppose que le ministère public ait préalablement procédé à toutes les
+mesures d’instruction pertinentes susceptibles d’établir l’existence de soupçons
+suffisants justifiant une mise en accusation (CREP 4 septembre 2019/584 ; CREP 10 mai
+2016/305 et les références citées).
+3.
+3.1
+La recourante déclare recourir uniquement
+contre le classement pour diffamation et injure, mais elle mentionne également la calomnie. Elle
+requiert la production de l’enregistrement de l’assemblée générale de la PPE
+et l’audition de son époux et de son fiduciaire présents à cette occasion. De manière
+générale, elle reproche au Ministère public de n’avoir mené aucune investigation
+et d’avoir rejeté sans fondement ses réquisitions, celui-ci s’étant contenté
+d’organiser une audition de conciliation. Sur le fond, elle invoque que le fait de jeter sur une
+mère le soupçon d’avoir maltraité moralement ses enfants ou de la faire passer pour
+une mauvaise mère ou une femme malhonnête est constitutif de diffamation. Or, dans le cas présent,
+X.________ l’aurait clairement fait passer auprès de différentes personnes pour une « folle »
+ou une « hystérique » se livrant à du tapage nocturne et causant volontairement
+des nuisances sonores, ainsi que pour une mère maltraitant ses enfants en les terrifiant, en les
+laissant régulièrement seuls livrés à eux-mêmes ou en leur faisant subir des
+crises d’hystérie les mettant moralement et psychologiquement en grand danger. En outre, elle
+aurait porté atteinte à sa réputation auprès des participants à l’assemblée
+de la PPE et de l’adjudant [...]. Enfin, la prévenue aurait indiqué aux membres de la
+PPE qu’elle l’aurait agressée et menacée, alors qu’elle a finalement reconnu
+qu’il ne s’agissait que d’un seul événement consistant en une simple altercation
+verbale au sujet de laquelle elle a été curieusement très évasive durant son audition.
+Selon la recourante, le dossier – en particulier la lettre du 28 mars 2017 de [...] faisant
+part d’une attitude querelleuse et chicanière de l’administratrice de la PPE à
+son égard – ferait clairement ressortir que la prévenue ne la porte pas dans son cœur
+et qu’elle a menti auprès de l’adjudant [...] et de l’assemblée des propriétaires
+en prétendant qu’elle l’insultait et insultait les locataires. Dans un tel contexte,
+le Ministère public ne pouvait pas admettre que la prévenue avait fait la preuve de sa bonne
+foi. Dans un dernier moyen, la recourante conteste le droit de la prévenue d’obtenir une indemnité
+au sens de l’art. 429 CPP, compte tenu de son comportement fautif.
+3.2
+3.2.1
+Selon l'art. 173 ch. 1 CP (Code pénal suisse,
+RS 311.0), se rend coupable de diffamation notamment celui qui, en s'adressant à un tiers, aura
+accusé une personne ou jeté sur elle le soupçon de tenir une conduite contraire à
+l'honneur, ou de tout autre fait propre à porter atteinte à sa considération. D’après
+l'art. 174 ch. 1 CP, se rend coupable de calomnie notamment celui qui, connaissant la
+fausseté de ses allégations, aura, en s'adressant à un tiers, accusé une personne
+ou jeté sur elle le soupçon de tenir une conduite contraire à l'honneur, ou de tout autre
+fait propre à porter atteinte à sa considération.
+Ces deux dispositions protègent la réputation d'être une personne honorable, c'est-à-dire
+de se comporter comme une personne digne a coutume de le faire selon les conceptions généralement
+reçues (ATF 132 IV 112 consid. 2.1 ; ATF 128 IV 53 consid. 1a). L'honneur protégé
+par le droit pénal est conçu de façon générale comme un droit au respect qui
+est lésé par toute assertion propre à exposer la personne visée au mépris en
+sa qualité d'homme (
+ibidem
+).
+L'atteinte à l'honneur pénalement réprimée doit ainsi faire apparaître la personne
+visée comme méprisable (ATF 137 IV 313 consid. 2.1 ; ATF 133 IV 308 consid. 8.5.1). Il ne suffit
+pas d'abaisser une personne dans la bonne opinion qu'elle a d'elle-même ou dans les qualités
+qu'elle croit avoir, notamment dans le cadre de ses activités professionnelles, artistiques, politiques
+ou sportives (ATF 119 IV 47 consid. 2a ; ATF 117 IV 27 consid. 2c ; ATF 116 IV 205 consid. 2, JdT
+1992 IV 107 ; Dupuis/Moreillon/ Piguet/Berger/Mazou/Rodigari [éd.], Petit commentaire CP, 2
+e
+éd., Bâle 2017, n. 4 ad remarques préliminaires aux art. 173 à 178 CP et la doctrine
+citée). Pour apprécier si une déclaration est attentatoire à l'honneur, il faut se
+fonder non pas sur le sens que lui donne la personne visée, mais sur une interprétation objective
+selon la signification qu'un destinataire non prévenu doit, dans les circonstances d'espèce,
+lui attribuer (TF 6B_143/2011 du 16 septembre 2011 consid. 2.1.3 ; ATF 133 IV 308 consid. 8.5.1
+précité).
+3.2.2
+Se rend coupable d’injure au sens de l’art. 177 al. 1 CP celui qui, de toute autre manière,
+aura, par la parole, l’écriture, l’image, le geste ou par des voies de fait, attaqué
+autrui dans son honneur.
+L'honneur que protège l'art. 177 CP est le sentiment et la réputation d'être une personne
+honnête et respectable, c'est-à-dire le droit de ne pas être méprisé en tant
+qu'être humain ou entité juridique (ATF 132 IV 112 consid. 2.1 ; ATF 128 IV 53 consid.
+la). L'injure peut consister dans la formulation d'un jugement de valeur offensant, mettant en doute
+l'honnêteté, la loyauté ou la moralité d'une personne de manière à la rendre
+méprisable en tant qu'être humain ou entité juridique (Corboz, Les infractions en droit
+suisse, vol. I, 3
+e
+éd., Berne 2010, nn 10 ss ad art. 177 CP), ou celui d'une injure formelle, lorsque l'auteur a, en
+une forme répréhensible, témoigné de son mépris à l'égard de la personne
+visée et l'a attaquée dans le sentiment qu'elle a de sa propre dignité (Corboz, op. cit.,
+n. 14 ad art. 177 CP). La marque de mépris doit revêtir une certaine gravité,
+excédant ce qui est acceptable. Par ailleurs, si l'auteur, évoquant une conduite contraire
+à l'honneur ou un autre fait propre à porter atteinte à la considération, ne s'adresse
+qu'à la personne visée elle-même, la qualification de diffamation ou de calomnie est exclue
+et on admet, en raison de la subsidiarité, que la communication constitue une injure (Corboz, op.
+cit., n. 20 ad art. 177 CP). Sur le plan subjectif, l'injure suppose l'intention. L'auteur doit vouloir
+ou accepter que son message soit attentatoire à l'honneur et qu'il soit communiqué à la
+victime (ATF 117 IV 270 consid. 2b).
+3.3
+En l’espèce, la recourante fonde ses
+allégations essentiellement sur le procès-verbal de l’assemblée générale
+du 14 mars 2018 (P. 6/18), sur les notes prises par son fiduciaire lors de cette séance (P. 6/19),
+sur le courrier adressé le 8 mai 2017 par la prévenue à la municipalité (P.
+6/25) et sur des aveux partiels de la prévenue selon lesquels la plaignante ne l’avait jamais
+injuriée, elle avait peut-être traité celle-ci d’« hystérique » lors
+de l’assemblée générale et dit à cette occasion qu’elle avait été
+agressée par la plaignante, et avait traité à une reprise la plaignante de « stupide
+» (PV d’audition n. 1). Or, l’analyse de ces pièces établit surtout que la
+plaignante occasionne des nuisances pour les occupants de l’immeuble et que, pour cette raison,
+les locataires de deux lots ont résilié leur bail. Il s’avère également que
+l’assemblée a décidé, à l’unanimité moins une abstention –
+ce qui est tout de même révélateur de la cohésion de l’ensemble des propriétaires
+–, la procédure d’exclusion de la plaignante et de son époux et de vente forcée
+de leur lot si aucune proposition acceptable n’était présentée par ceux-ci d’ici
+au 16 avril 2018. Quant au courrier du 8 mai 2017, il apparaît au contraire crédible sur
+le comportement général de la plaignante, cela d’autant plus que la prévenue a été
+appuyée par l’agent de police ayant participé à la médiation s’étant
+déroulée à la gendarmerie d’ [...]. Il convient à cet égard de se référer
+au courrier du commandant de la Police cantonale du 12 avril 2018 (P. 6/12) révélant l’absence
+de coopération de la plaignante lors de cette séance et le manque de bonne foi de cette dernière
+dans les discussions, s’agissant en particulier de sa maîtrise de la langue française
+et rappelant que la plaignante avait fait l’objet de sanctions en raison de divers épisodes
+et violation du règlement général de police communal ayant entraîné des interventions
+des services de police. Par ailleurs, ce n’est pas la lettre manifestement orientée adressée
+le 28 mars 2017 par le fiduciaire de la plaignante à la prévenue (P. 9) qui permet de
+renverser l’impression très défavorable donnée par celle-ci. Bien au contraire,
+le représentant des intéressés admet dans une mesure non négligeable certains agissements
+répréhensibles passés commis par la plaignante. Sur le plan objectif, il est manifeste
+que l’atteinte à l’honneur est réalisée et que la prévenue doit être
+mise au bénéfice d’une application du chiffre 2 de l’art. 173 CP. Non seulement
+celle-ci a quasiment rapporté la preuve que les allégations propagées sont conformes à
+la vérité mais, de surcroît, la bonne foi de la prévenue apparaît évidente,
+celle-ci ayant agi dans l’intérêt de la PPE, de manière conciliante dans un premier
+temps puis proportionnée par la suite, en s’efforçant de maintenir le dialogue, notamment
+lors de la précédente assemblée générale du 28 février 2017, puis à
+l’occasion de l’envoi de l’ultime avertissement du 28 juin 2017 (annexes à la
+P. 15) et de la médiation civile menée par un médiateur agréé. Certes, les propos
+incriminés sont relativement graves, s’agissant notamment de la manière dont la plaignante
+se comporte avec ses enfants et de ses difficultés à se maîtriser, et portent atteinte
+à la réputation de la plaignante, mais celle-ci apparaît effectivement avoir adopté
+les comportements en question, la prévenue n’ayant fait que d’exprimer le ressenti général
+des autres propriétaires. Cela ne tombe dès lors pas sous le coup des art. 173 et
+174 CP. Par ailleurs, la recourante met en avant des imprécisions, des contradictions et des
+reconnaissances de la prévenue. Il s’agit en particulier de l’agression dont la prévenue
+aurait déclaré avoir été victime, avant de préciser lors de son audition qu’il
+s’agissait d’une agression verbale. Elle aurait également dit initialement que la plaignante
+apostrophait les autres locataires de manière injurieuse avant de préciser qu’elle n’avait
+pas vraiment proféré d’injure mais qu’elle parlait violemment et qu’elle
+l’avait traitée à une reprise de « femme sale ». En l’espèce,
+on peut se contenter de ces explications et admettre que les déclarations de la prévenue sur
+ce point paraissent fiables au vu de l’attitude de la plaignante durant tous ces événements.
+Enfin, quant au terme « hystérique » que la prévenue reconnaît avoir vraisemblablement
+exprimé lors de l’assemblée générale, il ne saurait s’agir d’une
+injure selon la pratique assez restrictive de la Chambre de céans pour des expressions assez similaires
+(p. ex. « folle », cf. CREP 6 août 2015/530).
+Ainsi, le dossier est suffisamment complet et l’administration des preuves requises par la recourante
+n’est pas utile. Il en va ainsi de l’audition de l’adjudant [...] – la pièce
+6/12 étant parfaitement claire –, ainsi que de l’époux et du fiduciaire de la plaignante
+qui ne pourront pas dire grand-chose de plus s’agissant des propos imputés à la prévenue
+lors de l’assemblée générale, ceux-ci ayant été globalement reconnus.
+Il paraît également inutile de disposer de l’enregistrement audio de cette séance,
+pour le même motif. En outre, le dossier de la Police cantonale ne serait pas de nature à fournir
+des éléments pertinents supplémentaires et la recourante n’argumente d’ailleurs
+pas sur ce point.
+Partant, c’est à bon droit que le Ministère public a ordonné le classement de la
+procédure pénale dirigée à l’encontre de X.________ et alloué à cette
+dernière une indemnité au sens de l’art. 429 CPP, encore qu’une indemnité
+au sens de l’art. 432 al. 2 CPP aurait aussi pu être envisagée, les infractions considérées
+ne se poursuivant que sur plainte.
+4.
+Au
+vu de ce qui précède, le recours, manifestement mal fondé, doit être rejeté
+sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance du 27 septembre 2019
+confirmée.
+Les frais de la procédure
+de recours, constitués en l’espèce du seul émolument d’arrêt, par 1'100
+fr., (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités en matière pénale
+du 29 septembre 2010 ; RSV 312.03.1), seront mis à la charge de la recourante, qui succombe (art.
+428 al. 1 CPP). Elle n’a en conséquence pas droit à l’indemnité qu’elle
+demande (art. 433 al. 1 let. a CPP
+a contrario
+).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 27 septembre 2019 est confirmée.
+III.
+Les frais d’arrêt, par 1'100 fr. (mille
+cent francs), sont mis à la charge de la recourante.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Franck Tieche, avocat (pour P.________),
+-
+Me Laurent Moreillon, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
