@@ -1,0 +1,550 @@
+---
+decision_id: "vd_findinfo_S_questre___2019___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2019 / 6"
+decided: "2019-12-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7501213"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-095.md", "switzerland/bund/acts/272/art-104.md", "switzerland/bund/acts/272/art-105.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2019 / 6
+
+## Regeste
+
+DÉCISION EXÉCUTOIRE, SÉQUESTRE{LP}, DÉPENS, COMPENSATION DE CRÉANCES | 271 al. 1 ch. 6 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.12.2019 Séquestre / 2019 / 6
+
+DÉCISION EXÉCUTOIRE, SÉQUESTRE{LP}, DÉPENS, COMPENSATION DE CRÉANCES | 271 al. 1 ch. 6 LP
+
+TRIBUNAL
+CANTONAL
+KE18.055676-190783
+/ KE18.055676-190784
+197
+/ 198/ 198
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+17 décembre 2019
+__________________
+Composition
+:              Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+271 al. 1 ch. 6 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+G.________
+,
+à Prangins, et par
+S.________
+,
+à Lausanne, contre le prononcé rendu le 29 mars 2019, à la suite de l’audience du
+8 février 2019, par la Juge de paix
+du district de Nyon, dans la cause opposant les recourants respectivement à
+S.________
+et à
+G.________
+.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Le 14 décembre 2018, S.________ a déposé auprès du Juge de paix du district de Nyon
+une requête fondée sur l'art. 271 al. 1 ch. 6 LP (loi fédérale sur la poursuite pour
+dettes et la faillite ; RS 281.1), concluant principale-ment au séquestre de deux comptes bancaires
+ouverts au nom de son ex-épouse G.________ auprès de la Banque Cantonale Vaudoise (ci-après
+: BCV), à concurrence des montants suivants :
+(1)
+5'000 fr. plus intérêts
+à 5 % dès le 21 novembre 2012,
+(2)
+2'500 fr. plus intérêts
+à 5 % dès le 16 mars 2015,
+(3)
+1'000 fr. plus intérêts
+à 5 % dès le 8 octobre 2015,
+(4)
+12'800 fr. plus intérêts
+à 5 % dès le 27 octobre 2015,
+(5)
+3'332 fr. 50 plus intérêts
+à 5 % dès le 24 mars 2016,
+(6)
+6'000 fr. plus intérêts
+à 5 % dès le 19 octobre 2015,
+(7)
+71'330 fr. plus intérêts
+à 5 % dès le 19 octobre 2015.
+A l'appui de sa requête, le séquestrant a notamment produit, en copies,  les pièces
+suivantes, en relation avec les créances susmentionnées :
+(1)
+un arrêt rendu le 21 novembre 2012 par la Cour d'appel civile du Tribunal
+cantonal vaudois, qui prévoit notamment que G.________,
+doit verser à S.________ la somme de 5'000 fr. à titre de dépens et de
+restitution partielle d'avance de frais de deuxième instance (chiffre VI du
+dispositif) ;
+(2)
+un arrêt du 16 mars 2015 de la IIème Cour de droit civil du Tribunal fédéral,
+mettant à la charge de l'intimée G.________ une indemnité de
+2'500 fr., à verser au recourant S.________ à titre de dépens (chiffre 3 du
+dispositif) ;
+(3)
+un arrêt rectificatif rendu le 8 octobre 2015 par la IIème Cour de droit civil du
+Tribunal fédéral, complétant l'arrêt susmentionné du 16 mars 2015 en ce sens
+que l'intimée devait
+verser au recourant une indemnité de 1'000 fr. à titre de
+dépens pour la procédure fédérale (chiffre 3 du dispositif) ;
+(4)
+un arrêt du 27 octobre
+2015 de la Chambre des recours civile du Tribunal
+cantonal vaudois, qui prévoit notamment que G.________,
+doit verser à S.________ les sommes de 4'800 fr. à titre de dépens et de
+restitution d'avance de frais de première instance (chiffre II du
+dispositif) et 8'000               francs
+à titre de dépens et de restitution d'avance de frais de deuxième instance
+(chiffre IV du dispositif) ;
+(5)
+un arrêt rendu le
+24 mars 2016 par la Cour des poursuites et faillites du Tribunal
+cantonal vaudois, qui prévoit notamment que G.________,
+doit verser à S.________ les sommes de 1'860 fr. à titre de dépens réduits
+et de restitution partielle d'avance de frais de première instance (chiffre II/IV du
+dispositif) et 1'472 fr. 50 à titre de dépens réduits et de restitution partielle
+d'avance de frais de deuxième instance (chiffre IV du dispositif) ;
+(6)
+un arrêt rendu le 19 octobre 2015 par le Juge délégué de la Cour d'appel civile
+du Tribunal cantonal vaudois, mettant à la charge de G.________ les
+frais d'expertise à hauteur de 6'000 fr. (chiffre III/XII du dispositif) ;
+(7)
+le même arrêt
+du 19 octobre 2015, d'où il ressort notamment qu'à compter du
+1
+er
+février 2014, S.________ devait contribuer à l'entretien de ses enfants
+par le versement, en mains de G.________, d'une pension mensuelle de
+4'800 fr., allocations familiales non comprises (chiffre III/VI du dispositif).
+A l'appui de sa requête
+de séquestre, S.________ a également produit notamment les pièces suivantes :
+–
+une copie d'une ordonnance
+de mesures provisionnelles rendue le 12 mai 2015
+par le Président du Tribunal d'arrondissement de Lausanne, qui a retenu, dans
+les considérants en faits de sa décision, notamment que par arrêt du 28 mars
+2013 la Cour d'appel de Paris avait fixé la contribution d'entretien due par S.________ en faveur
+de son épouse à 2'500 euros par mois, dès et y compris le
+30 mars 2012 ;
+–
+une copie d'un arrêt rendu le 14 juin 2018 par la Cour d'appel de Paris, qui
+résume les différentes décisions rendues par les autorités françaises dans le
+cadre du divorce des parties,
+notamment l'arrêt du 28 mars 2013 de la Cour
+d'appel de Paris et dont il ressort, en particulier, que S.________ a été
+condamné à payer à G.________ une prestation compensatoire en capital
+de 1'000'000 euros ;
+–
+un certificat de non pourvoi délivré le 27 novembre 2018 par le greffier en chef
+de la Cour de cassation, attestant qu'aucun pourvoi – dont le délai a expiré le
+16 novembre 2018 – n'avait été enregistré contre l'arrêt du 14 juin 2018 de
+la               Cour d'appel de Paris.
+b)
+Par ordonnance du 14 décembre 2018, la Juge de paix du district de Nyon a fait entièrement
+droit à la requête de séquestre déposée par S.________.
+2.
+a)
+Le 22 décembre 2018, G.________ a déclaré former opposition au séquestre. Au pied
+de son écriture, elle a conclu, avec suite de frais et dépens, préliminairement à
+ce qu'ordre soit donné à S.________ de constituer immédiatement des sûretés
+à hauteur de 50'000 fr. et, principalement, à ce que l'ordonnance de séquestre du 14 décembre
+2018 soit annulée et le séquestre opéré sur ses avoirs auprès de la BCV immédiatement
+levé.
+Une audience a été tenue, contradictoirement, le 8 février 2018.
+Dans le cadre de cette procédure d'opposition au séquestre, G.________ a notamment produit,
+en copies :
+–
+un jugement rendu le 4
+novembre 2015 par le Tribunal de Grande Instance de
+Paris prononçant le divorce des parties et ordonnant la liquidation et le partage
+de leurs intérêts patrimoniaux ;
+–
+un extrait du site internet
+"legifrance.gouv.fr" relatif à la fixation du taux d'intérêt
+légal notamment en cas de condamnation pécuniaire par décision de justice (art.
+L313-2 et L313-3 du
+Code monétaire
+français
+) ;
+–
+un extrait du site internet
+"service-public.fr" d'où il ressort que la personne
+condamnée par décision de justice au paiement d'une somme d'argent ne doit
+que des intérêts simples si cette somme est versée dans les deux mois suivant la
+date d'application du jugement et que, pour le deuxième semestre de l'année
+2018, ce taux était de 3,6 % pour les particuliers ;
+–
+un extrait de compte de la BCV du 21 décembre 2018 d'où il ressort que S.________ a versé
+à G.________ les montants de 185'000 fr. valeur au
+11 décembre 2018, 200'000 fr. valeur au 12 décembre 2018, 200'000 fr. valeur
+au 13 décembre 2018, 200'000 fr. valeur au 14 décembre 2018, et 200'000 fr.
+valeur au 19 décembre 2018.
+b)
+Par prononcé non motivé du 29 mars 2019, le Juge de paix du district de Nyon a admis partiellement
+l’opposition au séquestre en ce sens que le séquestre porte sur les créances n°
+2 à 6 (I), a fixé les frais judiciaires à 660 fr., compensés avec l'avance de frais
+de la partie requérante (II), les a mis à la charge de la partie intimée (III) et a dit
+que celle-ci rembourserait à la partie requérante son avance de frais à concurrence de
+660 fr. et lui verserait la somme de 2'000 fr. à titre de dépens (IV).
+La motivation du prononcé,
+requise par S.________ le 2 avril 2019, a été notifiée aux parties le 7 mai 2019.
+3.
+Par
+acte déposé le 17 mai 2019, G.________ a recouru contre ce prononcé, concluant, avec suite
+de frais et dépens, principalement à sa réforme  en ce sens que son opposition au
+séquestre est intégralement admise et, subsidiaire-ment, à l'annulation du prononcé.
+Ce recours a été enregistré sous référence KE18.055676-190783.
+Le même jour, S.________ a également déposé un recours contre le même prononcé,
+concluant, avec suite de frais et dépens, principalement à ce que les chiffres III et IV du
+dispositif du 29 mars 2019 soient réformés en ce sens que les frais judiciaires sont mis à
+la charge de la partie requérante, soit G.________, et que celle-ci lui rembourse la somme de 2'000
+fr. à titre de dépens et, subsidiairement, à l'annulation du prononcé. Ce recours
+a été enregistré sous référence KE18.055676-190784.
+Le 5 juillet 2019, S.________ a informé l'autorité de céans qu'il n'entendait pas déposer
+de réponse et a conclu, avec suite de frais et dépens, au rejet du recours déposé
+par G.________.
+Le 5 juillet 2019, G.________ a déposé une réponse sur le recours de S.________, concluant,
+avec suite de frais et dépens, principalement à ce que celui-ci soit déclaré irrecevable
+et, subsidiairement, rejeté.
+La recourante a encore
+déposé une brève écriture spontanée le 8 juillet 2019 confirmant ses conclusions.
+En droit
+:
+I.
+a)
+Le recours de G.________, déposé
+en temps utile et dans les formes requises (art. 321 al. 1, 2 et 3 CPC, par renvoi de l’art. 278
+al. 3 LP), est recevable. Il en va de même du recours déposé le même jour par S.________.
+Les écritures des parties du 5 juillet 2019 sont également recevables (art. 322 CPC), de même
+que l'écriture spontanée déposée par la recourante le
+8
+juillet 2019 (ATF 142 III 48 consid. 4.1.1 et les réf. cit.).
+b)
+Les deux recours sont dirigés contre la même décision. Il y a en conséquence lieu
+de les traiter dans un seul arrêt et de joindre les dossiers KE18.055676-190783 et KE18.055676-190784.
+II.
+Le recours de G.________
+a)
+L'opposition de G.________ du 22 décembre
+2018 contre l'ordonnance de séquestre du 14 décembre 2018 ayant été partiellement
+admise, seul reste litigieux le séquestre portant sur les montants figurant sous chiffres (2) à
+(6) de la requête de séquestre, à savoir : 2'500 fr. plus intérêts à 5
+% dès le 16 mars 2015, 1'000 fr. plus intérêts à 5 % dès le 8 octobre 2015,
+12'800 fr. plus intérêts à
+5
+% dès le 27 octobre 2015, 3'332 fr. 50 plus intérêts à 5 % dès le 24 mars 2016
+et 6'000 fr. plus intérêts à 5 % dès le 19 octobre 2015, soit un montant total, en
+capital, de 25'632 fr. 50.
+La recourante fait grief au premier juge de n’avoir pas pris en compte les créances qu'elle
+oppose en compensation, à savoir :
+-
+2'627.49 euros, soit 2'995
+fr. 35, à titre d'intérêts moratoires, à un taux de 3.6 %,
+sur une partie du montant de 1'000'000 euros qui lui a été alloué par jugement
+de la Cour d’appel de Paris du 14 juin 2018,
+-
+1'335.35 euros, soit 1'520
+fr., à titre de pension alimentaire pour la période du
+1
+er
+au 16 novembre 2018, et
+-
+170'000 fr. à titre
+de liquidation du régime matrimonial.
+Elle
+soutient que les deux premières créances sont établies par titre et que la troisième
+est rendue vraisemblable, ce qui serait suffisant selon elle dans le cadre d'une procédure de séquestre.
+b)
+Aux termes de l'art. 272 al. 1 LP, le séquestre
+est autorisé à condi-tion que le créancier rende vraisemblable que sa créance existe
+(ch. 1), qu'on est en présence d'un cas de séquestre (ch. 2) et qu'il existe des biens appartenant
+au débiteur (ch. 3).
+Le séquestre est
+une mesure conservatoire urgente, qui a pour but d'éviter que le débiteur ne dispose de ses
+biens pour les soustraire à la poursuite pendante ou future de son créancier (ATF 116 III 111
+consid. 3a ; ATF 107 III 33 consid. 2 ; TF 5A_205/2016 du 7 juin 2016, consid. 7.1). Le juge du
+séquestre statue en se basant sur la simple vraisemblance des faits. Les faits à l'origine
+du séquestre sont rendus vraisemblables lorsque, se fondant sur des éléments objectifs,
+le juge acquiert l'impression que les faits pertinents se sont produits, mais sans qu'il doive exclure
+pour autant la possibilité qu'ils se soient déroulés autrement (ATF 138 III 232 consid.
+4.1.1 ; en général : cf. ATF 130 III 321 consid. 3.3 ; TF 5A_205/2016 du 7 juin 2016 consid.
+7.1). De son côté, le poursuivi doit s'efforcer de démontrer, en s'appuyant sur les moyens
+de preuve à sa disposition, que son point de vue est plus vraisemblable que celui du créancier
+séquestrant (TF 5A_482/2010 du 16 septembre 2010 consid. 2.1 et la réf. cit. ; TF 5A_205/2016
+du 7 juin 2016, consid. 7.1). S'agis-sant de l'application du droit, le juge procède à un examen
+sommaire du bien-fondé juridique, c'est-à-dire un examen qui n'est ni définitif, ni complet,
+au terme duquel il rend une décision provisoire (ATF 138 III 232 consid. 4.1.1 ; TF 5A_925/
+2012 du
+5 avril 2013 consid. 9.2 et les
+réf. ; TF 5A_205/2016 du 7 juin 2016 consid. 7.1).
+c)
+Parmi les cas de séquestre figure celui de l’art. 271 al. 1 ch. 6 LP, entré en vigueur
+le 1
+er
+janvier 2011 (RO 2010 5601), qui dispose que le créancier d’une dette échue et non garantie
+par gage peut requérir le séquestre des biens du débiteur qui se trouvent en Suisse, lorsque
+le créancier possède contre le débiteur un titre de mainlevée définitive. La
+loi vise un titre de mainlevée définitive au sens de l'art. 80 LP (TF 5A_953/2017 du 11 avril
+2018 consid. 3.2.2.1 ; ATF 143 III 693 consid. 3.4.2 ; ATF 139 III 135 consid. 4.2 ; TF 5A_806/2014
+du 28 avril 2015 consid. 2.2.1 ; 5A_866/2012 du 1
+er
+février 2013 consid. 4). Contrairement au cas de séquestres prévus au ch. 1 à 5 de
+l’art. 271 al. 1 LP, point n’est besoin, dans le cas du ch. 6, que le séquestrant rende
+vraisemblable l’existence de sa créance, car cette vraisemblance découle directement
+du titre produit (TF 5A_953/2017 du 11 avril 2018 consid. 3.2.2.1 ; CPF 18 juillet 2013/299, CPF
+18 septembre 2013/378).
+Selon l'art. 80 al. 1
+LP, le créancier qui est au bénéfice d'un jugement exécutoire peut requérir
+du juge la mainlevée définitive de l'opposition. Lorsque la poursuite est fondée sur un
+jugement exécutoire rendu par un tribunal ou une autorité administrative suisse, le juge ordonne
+la mainlevée définitive de l’opposition, à moins que l’opposant ne prouve
+par titre que la dette a été éteinte ou qu’il a obtenu un sursis, postérieurement
+au jugement, ou qu’il ne se prévale de la prescription (art. 81 al. 1 LP). Par extinction
+de la dette au sens de l’art. 81 al. 1 LP, la loi ne vise pas seulement le paiement, mais aussi
+toute autre cause de droit civil, en particulier la compensation (ATF 136 III 624 consid. 4.2.1 ; ATF
+124 III 501 consid. 3b et les réf. cit., JdT 1999 II 136). En matière de mainlevée définitive,
+le poursuivi doit apporter par pièces la preuve stricte de l’extinction de la dette (ATF 136
+III 624 consid. 4.2.1 précité ; ATF 124 III 501 précité consid. 3a, JdT 1999 II 136).
+d)
+Dans la procédure d'opposition, le débiteur (ou le tiers) dont les droits sont touchés
+par le séquestre (art. 278 al. 1 LP) et qui n'a pas pu participer à la procédure d'autorisation
+de séquestre, a la possibilité de présenter ses objections ; le juge réexamine donc
+en contradictoire la réalisation des conditions du séquestre qu'il a ordonné (ATF 140
+III 466 consid. 4.2.3). L'opposant doit tenter de démontrer que son point de vue est plus vraisemblable
+que celui du créancier séquestrant (TF 5A_685/2014 consid. 3 précité et les réf.
+cit.). La procédure d'opposition ayant le même objet que la procédure d'autorisation de
+séquestre, le juge doit revoir la cause dans son entier et tenir compte de la situation telle qu'elle
+se présente au moment de la décision sur opposition (ATF 140 III 466 consid. 4.2.3 précité
+et les réf. cit.). Son pouvoir d’examen n’est toutefois pas plus étendu que celui
+qu’il avait lorsqu’il a statué unilatéralement sur la requête de séquestre.
+Il ne statue pas définitivement sur les conditions du séquestre (sauf en ce qui concerne le
+cas de séquestre selon l'art. 272 al. 1 ch. 2 LP), mais uniquement à titre provisoire sur la
+base de la simple vraisemblance des faits et ensuite d'un examen sommaire du droit (TF 5A_925/2012 consid.
+9.3 et les réf. cit.).
+e)
+Ce qui précède ne signifie pas, contrairement à ce que soutient la recourante, qu’il
+suffise pour le séquestré de rendre vraisemblable une créance compensante pour que le
+séquestre doive être refusé. Dès lors que le séquestrant dispose d’un
+titre de mainlevée définitive, le séquestré, pour démontrer que son point de
+vue est plus vraisemblable que celui du séquestrant, doit disposer d’une preuve équivalente
+de sa propre créance compensante. Le contraire signifierait qu’on serait plus exigeant pour
+accorder un séquestre que pour accorder une mainlevée définitive. Il y a dès lors
+lieu de constater que la créance de 170'000 fr. invoquée en compensation – qui n'est
+pas prouvée par pièce, de l'aveu-même de la recourante – n'est pas suffisamment
+établie et que sa simple vraisemblance est insuffisante pour faire échec au séquestre.
+Les deux autres créances – 1'335.35 euros, soit 1'514 fr. 29, et 2'627.49 euros, soit 2'984
+fr. 04, selon le taux de conversion au 7 février 2019 (jour de l'invocation de la compensation)
+du site de référence
+"www.fxtop.com
+"
+qui donne les taux diffusés par la Banque centrale européenne (ATF 138 III 628 consid. 5.5
+et les références)  – sont en revanche suffisamment établies. Il ressort en
+effet de l'arrêt du 28 mars 2013 de la Cour d'appel de Paris qu'une pension de 2'500 euros par mois
+a été mise à la charge de S.________ à compter du 30 mars 2012. S’il conteste
+qu’elle soit due, l'intimé admet n’avoir pas payé de pension en novembre 2018.
+Pour la période du 1
+er
+au 16 novembre 2018 (date de l'entrée en force du jugement du 14 juin 2018 de la Cour d'appel de
+Paris), la pension s'élevait à 1'333.35 euros ([2'500 : 30] x 16), soit 1'514 fr. 29. Quant
+aux intérêts moratoires sur le capital de 1'000'000 euros, qui a été alloué
+à G.________ par arrêt d
+u
+14 juin 2018 de la Cour d'appel de Paris, ils peuvent être calculés sur la base des pièces
+produites, dont il ressort que l'intimé a effectué en faveur de la prénommée cinq
+versements à ce titre, un premier versement de 185'000 fr. valeur au 11 décembre 2018, puis
+quatre versements de 200'000 fr. chacun, valeurs aux 12, 13, 14 et 19 décembre 2018. Les intérêts
+moratoires – au taux de 3,6 % – sur la part de capital versée en retard s'élèvent,
+sur la période du 17 novembre 2018 (lendemain de l'entrée en force de l'arrêt) au 19 décembre
+2018 (jour du dernier versement), à 2'627.49 euros, soit 2'984 fr. 04, selon le détail suivant
+:
+-
+du 17.11 au 10.12.2018
+2'331.61 euros
+([985'000 euros x 3.6 % x 24 jours] : 365 jours)
+-
+le 11.12.2018
+78.90 euros   ([800'000 euros x 3.6 % x 1 jour] : 365 jours)
+-
+le 12.12.2018
+59.18 euros   ([600'000 euros x 3.6 % x 1 jour] : 365 jours)
+-
+le 13.12.2018
+39.45 euros   ([400'000 euros x 3.6 % x 1 jour] : 365 jours)
+-
+du 14.12 au 19.12.2018
+118.35 euros
+([200'000 euros x 3.6 % x 6 jours] : 365 jours)
+f)
+Au vu de ce qui précède, le recours
+de G.________ doit être partiellement admis, en ce sens que le séquestre est ordonné pour
+les créances figurant sous chiffres (2) à (6) de la requête de séquestre, sous déduction
+de 2'984 fr. 04 et de 1'514 fr. 29, valeurs au 7 février 2019, date à laquelle la compensation
+a été invoquée.
+III.
+Le recours de S.________
+a)
+Le recours déposé par S.________ porte exclusivement sur la question des frais et dépens.
+b)
+Aux termes de l’art. 104 al. 1 CPC, le tribunal statue sur les frais en général dans
+la décision finale. Les frais comprennent les frais judiciaires et les dépens (art. 95 al.
+1 CPC). Quant aux dépens, ils comprennent notamment les débours nécessaires et le défraiement
+d’un représentant professionnel (art. 95 al. 3 let. a et b CPC). Les frais judiciaires sont
+fixés et répartis d’office (art. 105 al. 1 CPC). Les dépens sont fixés selon
+le tarif cantonal (art. 96 et 105 al. 2 CPC), en l’espèce selon le tarif des dépens en
+matière civile du 23 novembre 2010 (TDC ; RSV 270.11.6). En vertu de l’art. 3 al. 1 TDC,
+en règle générale, la partie qui succombe est tenue de rembourser à la partie qui
+a obtenu gain de cause tous les frais nécessaires causés par le litige.
+c)
+En l'espèce, sur la question des frais et dépens, le dispositif du prononcé attaqué
+prévoit que les frais sont mis à la charge de la partie intimée (chiffre III) et que "la
+partie intimée remboursera à la partie requérante son avance de frais à concurrence
+de fr. 660.- et lui versera la somme de fr. 2'000.- à titre de dépens" (chiffre IV). Or,
+dans les considérants en droit de la décision motivée, la juge de paix a retenu qu'en
+vertu de l'art. 106 al. 1 CPC, les frais "doivent être mis à la charge de G.________,
+qui succombe pour l'essentiel" et que " G.________ versera la somme de fr. 2'000.- à S.________
+au titre de défraiement de son représentant professionnel". Comme l'allègue à
+juste titre le recourant, il y a une contradiction entre le dispositif et le considérant précité,
+plus exactement une inversion entre les parties. En effet, G.________ était la "partie requérante"
+et S.________ "la partie intimée" dans le cadre de la procédure d'opposition au séquestre
+ayant abouti à la décision attaquée.
+La requête de séquestre de S.________ portait sur un montant de 101'962 fr. 50. En première
+instance, l'opposition déposée par G.________ a été partiellement admise et le séquestre
+confirmé pour un montant de 25'632 fr. 50 (créances (2) à (6) de la requête de séquestre),
+G.________ obtenant ainsi gain de cause dans une proportion de 75 %. C'est donc à tort que le premier
+juge a considéré dans ses motifs que la prénommée avait succombé pour l'essentiel
+et que l'entier des frais devait être mis à sa charge. En deuxième instance, le recours
+de G.________ a été partiellement admis en ce sens que le séquestre a été ordonné
+à hauteur de 21'134.17 ([2'500 + 1'000 + 12'800 + 3'332.50 + 6'000] – [2'984.04 + 1'514.29]).
+Il s'ensuit qu'en définitive, S.________ n'obtient gain de cause que sur 20 % de ses conclusions
+([21'134.17 x 100] : 101'962.50). Les frais et dépens de première instance doivent être
+répartis dans cette proportion.
+d)
+En conclusion, le recours de S.________ doit être partielle-ment admis et les chiffres III et IV
+du dispositif du prononcé attaqué réformés en ce sens que les frais judiciaires de
+première instance, fixées à 660 fr., sont mis par 528 fr. (80 %) à la charge de S.________
+et par 132 fr. (20 %) à la charge de G.________, S.________ devant verser à G.________ le montant
+de 528 fr. en remboursement partiel de son avance de frais, ainsi qu'un montant de 1'600 fr. (80 % de
+2'000 fr.) à titre de dépens réduits de première instance.
+IV
+.
+a)
+En seconde instance, la recourante G.________ a conclu à ce que son opposition au séquestre
+soit admise pour les créances figurant sous chiffres (2) à (6) de la requête de séquestre
+(son opposition ayant déjà été admise pour les créances figurant sous chiffre
+(1) et (7) en première instance), représentant un capital de 25'632 fr. 50. Elle obtient gain
+de cause à hauteur d'un montant de 4'498 francs 33 (2'984.04 + 1'514.29), ce qui représente
+20 % (arrondi) de ses prétentions ([4'498.33 x 100] : 25'632.50).
+Ainsi, les frais judiciaires de deuxième instance, arrêtés à 570 fr. pour le recourante,
+sont mis par 456 fr. (80 %) à la charge de cette dernière et par 114 fr. (20 %) à la charge
+de S.________, qui devra verser à G.________ le montant de 114 fr. en remboursement partiel de son
+avance de frais, ainsi qu'un montant de 240 fr. de dépens réduits, soit le 20 % de 1'200 fr.
+(art. 3 al. 2 et 8 TDC [tarif des dépens en matière civile ; BLV 270.11.6]).
+b)
+Dans le cadre de son propre recours, S.________ a conclu à l'allocation de 2'000 fr. de dépens
+et à la mise à la charge de G.________ des 660 fr. de frais de justice de première instance.
+Sur la totalité de ses prétentions (2'660 fr.), il obtient gain de cause pour 532 fr. (2'660
+./. [1'600 + 528]), soit dans une proportion de 20 % ([532 x 100] : 2'660).
+Ainsi, les frais judiciaires de deuxième instance, arrêtés à 315 fr. pour le recourant,
+sont mis par 252 fr. (80 %) à sa charge et par 63 fr. (20 %) à la charge de G.________. Cette
+dernière devra verser au recourant le montant de 63 fr. en remboursement partiel de son avance de
+frais de deuxième instance, ainsi qu'un montant de 60 fr. à titre de dépens réduits,
+soit 20 % de 300 fr. (art. 3 al. 2 et 8 TDC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Les causes KE18.055676-190783 et KE18.055676-190784 sont jointes.
+II.
+Le recours de G.________ est partiellement admis.
+III.
+Le recours de S.________ est partiellement admis.
+IV.
+Le prononcé est réformé en ce sens que le séquestre est ordonné pour les montants
+de 2'500 fr. (deux mille cinq cents francs) plus intérêts à
+5
+% dès le 16 mars 2015, de 1'000 fr. (mille francs) plus intérêts à 5 % dès le
+8 octobre 2015, de 12'800 fr.(douze mille huit cents francs) plus intérêts à 5 % dès
+le 27 octobre 2015, de 3'332 fr. 50 (trois mille trois cent trente-deux francs et cinquante centimes)
+plus intérêts à 5 % dès le 24 mars 2016 et de 6'000 fr. (six mille francs) plus intérêts
+à 5 % dès le 19 octobre 2015, sous déduction de 2'984 fr. 04 (deux mille neuf cent huitante-quatre
+francs et quatre centimes), valeur au 7 février 2019, et de 1'514 fr. 29 (mille cinq cent quatorze
+francs et vingt-neuf centimes), valeur au 7 février 2019.
+Les frais judiciaires
+de première instance sont mis par 528 fr. (cinq cent vingt-huit francs) à la charge de S.________
+et par 132 fr. (cent trente-deux francs) à la charge de G.________.
+S.________ doit verser
+à G.________ un montant de 528 fr. (cinq cent vingt-huit francs) en remboursement partiel de son
+avance de frais, ainsi qu'un montant de 1'600 fr. (mille six cents francs) à titre de dépens
+réduits de première instance.
+V.
+Les frais judiciaires de deuxième instance, arrêtés à 570 fr. (cinq cent septante
+francs) pour le recours de G.________, sont mis à la charge de cette dernière par 456 fr. (quatre
+cent cinquante-six francs) et à la charge de S.________ par 114 fr. (cent quatorze francs).
+VI.
+S.________ doit verser à G.________ le montant de 114 fr. (cent quatorze francs) en remboursement
+partiel de son avance de frais, ainsi qu'un montant de 240 fr. (deux cent quarante francs) à titre
+de dépens réduits de deuxième instance.
+VII.
+Les frais judiciaires de deuxième instance, arrêtés à 315 fr. (trois cent quinze
+francs) pour le recours de S.________, sont mis à la charge de ce dernier par 252 fr. (deux cent
+cinquante-deux francs) et à la charge de G.________ par 63 fr. (soixante-trois francs).
+VIII.
+G.________ doit verser à S.________ le montant de 63 fr. (soixante-trois francs) en remboursement
+partiel de son avance de frais, ainsi qu'un montant de 60 fr. (soixante francs) à titre de dépens
+réduits de deuxième instance.
+IX.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Jerôme Bénédict, avocat (pour G.________),
+‑
+Me Cédric Thaler, avocat (pour S.________)
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 25'632 fr. 50 pour
+le recours de G.________ et de 2'660 fr. pour le recours de S.________.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de Nyon.
+La greffière :
