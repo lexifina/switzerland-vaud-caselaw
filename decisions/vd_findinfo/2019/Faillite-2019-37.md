@@ -1,0 +1,700 @@
+---
+decision_id: "vd_findinfo_Faillite___2019___37"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2019 / 37"
+decided: "2019-12-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7508317"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-335.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-107.md", "switzerland/bund/acts/281.1/art-108.md", "switzerland/bund/acts/281.1/art-206.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-293.md", "switzerland/bund/acts/291/art-025.md", "switzerland/bund/acts/291/art-027.md", "switzerland/bund/acts/291/art-029.md", "switzerland/bund/acts/291/art-166.md", "switzerland/bund/acts/291/art-167.md", "switzerland/bund/acts/291/art-170.md", "switzerland/bund/acts/291/art-174.md", "switzerland/bund/acts/291/art-175.md", "switzerland/bund/acts/291/art-199.md"]
+---
+
+# VD Findinfo Faillite / 2019 / 37
+
+## Regeste
+
+RECONNAISSANCE DE LA DÉCISION, DÉCISION ÉTRANGÈRE, SURSIS CONCORDATAIRE, COMPÉTENCE RATIONE LOCI, OUVERTURE DE LA FAILLITE, RÉSERVE DE L'ORDRE PUBLIC | 166 LDIP, 167 LDIP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 20.12.2019 Faillite / 2019 / 37
+
+RECONNAISSANCE DE LA DÉCISION, DÉCISION ÉTRANGÈRE, SURSIS CONCORDATAIRE, COMPÉTENCE RATIONE LOCI, OUVERTURE DE LA FAILLITE, RÉSERVE DE L'ORDRE PUBLIC | 166 LDIP, 167 LDIP
+
+TRIBUNAL
+CANTONAL
+FZ18.048781-191239
+280
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+20 décembre 2019
+__________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+MM.
+Colombini et Maillard, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+166 ss LDIP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+B.________SA
+,
+à [...], contre la décision rendue le 2 août 2019, à la suite de l'interpellation
+de la partie intimée, par la Présidente du Tribunal d’arrondissement de La Côte,
+dans la cause opposant la recourante à
+K.Holding________,
+en liquidation
+, à Paris, représentée
+par ses liquidateurs Mes S.________ et D.________.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+K.Holding________, société par actions simplifiée de droit français dont le siège
+se trouve à Paris, a déposé devant le Tribunal de commerce de Paris (ci-après : le
+Tribunal de commerce) une déclaration de cessation de paiements, aux fins d’une ouverture
+de redressement judiciaire par voie de cession d’actifs. Cette société appartenait au
+groupe [...], qui connaissait de graves difficultés liées notamment à la disparition de
+son dirigeant et à la conjoncture économique.
+Par jugement du 29 juin 2017, le Tribunal de commerce a ordonné l’ouverture d’une procédure
+de redressement judiciaire à l’égard de onze des sociétés du groupe [...] et
+notamment de K.Holding________, a fixé la date de cessation des paiements au 16 juin 2017, a fixé
+à 6 mois la période d'observation, a invité le comité d'entreprise ou à défaut
+les délégués du personnel ou les salariés s'il en existait à désigner au
+sein de l'entreprise un représentant dans les conditions prévues par le code de commerce, a
+fixé le délai de déclaration des créances imparti aux créanciers à deux
+mois à compter de la publication au Bulletin officiel des annonces civiles et commerciales de ce
+jugement, a fixé le délai de dépôt de la liste des créances par le mandataire
+à 12 mois à compter de la publication au Bulletin officiel des annonces civiles et commerciales
+de ce jugement, a désigné Mes [...], avocats à Paris, en qualité de mandataires judiciaires
+et a dit que ce jugement était exécutoire de plein droit.
+b)
+Par
+jugement du 25 août 2017, le Tribunal de commerce de Paris a adopté les plans de cession relatifs
+au redressement judiciaire des sociétés du groupe [...].
+Il ressort de ce jugement que la presse nationale française et la presse internationale africaine
+ont relaté les difficultés et les procédures collectives relatives à ce groupe. Dans
+le cadre de ce processus, 19 candidats ont manifesté un intérêt et ont déposé
+des offres de reprise portant sur les différentes activités du groupe. Z.________SA, société
+de droit suisse dont l'administrateur est N.________, a présenté conjointement avec [...] une
+offre afin de détenir "des participations dans K.Holding________ : K.Suisse________SA".
+Il en ressort également que le Tribunal de commerce a notamment retenu l’offre de la société
+Q.Holding________S, société de droit libanais ayant son siège social à Beyrouth,
+qui s’est vu céder notamment l’ensemble des titres de la société K.Suisse________SA,
+détenus par K.Holding________ et représentant 100% du capital social. La cession comprenait
+également « toutes les créances (…) détenues par les Sociétés
+Françaises [...] sur les sociétés du groupe [...] dont les titres sont repris aux termes
+de la Lettre d’Amélioration du candidat, ainsi que sur leurs filiales directes et indirectes
+(ensemble, les « Entités du Périmètre Q.Holding________S »). Par ailleurs,
+le Tribunal a maintenu les mandataires judiciaires susmentionnés et déclaré que ce jugement
+était exécutoire de plein droit à titre provisoire.
+c)
+Par
+jugement du 12 septembre 2017, le Tribunal de commerce a mis fin à la période d’observation
+et a prononcé la liquidation judiciaire de la société K.Holding________. Il a considéré
+que la conversion du redressement judiciaire en liquidation judiciaire s’imposait, car la société
+se trouvait en cessation de paiements et ne disposait pas des capacités de financement suffisantes
+pour lui permettre de poursuivre son activité, de sorte qu’un redressement était manifestement
+impossible. Le Tribunal a en outre nommé Mes [...], mandataires judiciaires, en qualité de
+liquidateurs et déclaré ce jugement exécutoire de plein droit.
+2.
+a)
+Par
+sentence arbitrale rendue à Genève le 31 juillet 2017,
+K.Holding________ a été condamnée
+à payer notamment à B.________SA, société anonyme de droit suisse dont le siège
+se trouve dans le canton de Vaud, la somme de 1'000'000 euros, avec intérêts à 5% l’an
+dès le 18 juillet 2015. N.________ dispose d'une signature individuelle au sein de cette société.
+Il a également été directeur de K.Suisse________SA depuis sa fondation le 16 novembre
+1998, puis administrateur secrétaire directeur, avec signature individuelle, du 27 janvier 2011
+au 6 juillet 2012.
+Les 10 août 2017
+et 2 juillet 2018, B.________SA a requis des mandataires judiciaires de K.Holding________ l'enregistrement
+de cette créance dans la procédure de redressement judiciaire ouverte contre cette société.
+b)
+Par prononcé du 29 août 2017, la
+Juge de paix du district de Nyon a ordonné, à la requête de B.________SA, le séquestre
+(séquestre n° 8416434) à forme de l’art. 271 al. 1 ch. 6 LP des créances de
+K.Holding________ envers K.Suisse________SA, société dont le siège social se trouve à
+Nyon. Le juge a en particulier considéré que B.________SA avait rendu vraisemblable sa créance,
+laquelle était fondée sur une sentence arbitrale, le cas de séquestre ainsi que l’existence
+de biens appartenant au débiteur, soit en l’occurrence les créances de K.Holding________
+à l’encontre de K.Suisse________SA. Ce prononcé prenait acte en outre du retrait par
+B.________SA de deux précédentes requêtes de séquestre et annulait en conséquence
+les ordonnances de séquestre rendues les 24 février 2016 et 10 août 2017.
+A partir du 26 janvier 2018, la raison sociale
+de K.Suisse________SA est devenue U.________SA).
+c)
+Par courrier du 16 avril 2018, adressé à
+l’Office des poursuites du district de Nyon (ci-après : l'Office des poursuites), les liquidateurs
+de K.Holding________, en liquidation, ont demandé la levée immédiate du séquestre.
+Ils faisaient valoir que le 29 août 2017, date du prononcé du séquestre n° 8416434,
+cette dernière société n’était plus titu
+laire
+de créance à l’encontre de K.Suisse________SA (U.________SA), dans la mesure où
+l’ensemble des créances que la société débitrice K.Holding________ détenait
+contre K.Suisse________SA avait été transféré à Q.Holding________S, selon le
+plan de cession des actifs arrêté par jugement du 25 août 2017 et que, par conséquent,
+le juge de séquestre suisse n'était pas compétent. En outre, invoquant l’art. L
+622-21 du code de commerce français, ils ont soutenu qu’aucune procédure d’exécution
+portant sur les actifs de K.Holding________ ne pouvait plus être initiée dès le 26 juin
+2017 (sic), date du jugement de redressement judiciaire.
+d)
+Par courrier du 18 avril 2018, adressé
+à l'Office des poursuites, Q.Holding________S a déclaré revendiquer les créances
+visées par l'ordonnance de séquestre n° 8416434, en précisant ce qui suit :
+"Q.Holding________S
+a récemment eu connaissance du séquestre prononcé le 30 août dernier à l'encontre
+de la société K.Holding________. Nous comprenons que ce séquestre a pour objet les créances
+de K.Holding________ à l'endroit de K.Suisse________SA (…).
+Or,
+K.Holding________, en liquidation n'est plus créancière de K.Suisse________SA, et ce depuis
+le 25 août 2017. En effet, à cette date – soit 5 jours avant le prononcé du séquestre
+– la cession en faveur de Q.Holding________S de toutes les créances de K.Holding________ à
+l'encontre de K.Suisse________SA a été ordonnée par le Tribunal de commerce de Paris dans
+le cadre du redressement judiciaire de K.Holding________.
+(…)"
+e)
+Par
+courrier du 26 avril 2018, adressé à l'Office des poursuites, B.________SA a déclaré
+contester la prétention en revendication de Q.Holding________S. Selon elle, au vu des ordonnances
+de séquestre rendues les 24 février 2016 et 10 août 2017, finalement remplacées par
+l'ordonnance du 29 août 2017, les jugements des 29 juin et 25 août 2017 du Tribunal de commerce
+de Paris ont été rendus au moment où les créances litigieuses étaient séquestrées,
+ce que la débitrice K.Holding________ savait. Q.Holding________S s'est ainsi procuré des créances
+auprès d'un débiteur qui n'en avait pas la libre disposition. En outre, aucune procédure
+en reconnaissance des décisions françaises n'aurait été entamée en Suisse conformément
+aux articles 166 ss LDIP (loi fédérale du 18 décembre 1987 sur le droit internationale
+privé; RS 291) et il y avait lieu de rappeler que selon l'art. 167 LDIP les créances du débiteur
+failli étaient réputées sises au domicile du débiteur du failli. Pour ces motifs,
+la cession de créance dont se prévalait Q.Holding________S était nulle et ne produisait
+aucun effet.
+f)
+Le
+8 mai 2018, l'Office des poursuites a rendu une décision, dont la teneur est la suivante :
+" Je me réfère au séquestre précité scellé par Mme le Juge de Paix
+par ordonnance du 29 août 2017, exécuté par mon office selon procès-verbal établi
+le 21 septembre 2017 et validé par le commandement de payer, actuellement en cours de notification.
+Ce séquestre a porté sur toutes créances dues par K.Holding________ envers K.Suisse________SA,
+dont le siège est à Nyon.
+Ces créances ont été contestées par la société K.Suisse________SA, subsidiairement
+revendiquées par Q.Holding________S.
+Il a été récemment porté à ma connaissance les éléments principaux
+suivants
+·
+par jugement du 29 juin 2017, le Tribunal de Commerce
+de Paris a ouvert une procédure de redressement judiciaire, avec une période d'observation
+de 6 mois, au bénéfice de diverses sociétés, comprenant la société K.Holding________,
+contre laquelle le séquestre est dirigé
+·
+le 25 août 2017, le Tribunal de Commerce
+de Paris a établi un plan de cession dans le cadre du redressement judiciaire
+·
+le 12 septembre 2017, le Tribunal de Commerce
+de Paris a mis fin à la période d'observation et en application à l'art. L.631-15-II du
+code de commerce, a prononcé la liquidation judiciaire de la société K.Holding________.
+L'art. L.622-21 du code du commerce précise :
+I.
+Le jugement d'ouverture interrompt ou interdit toute action en justice de la part de tous les créanciers
+dont la créance n'est pas mentionnée au I de l'article L. 622-17 et tendant :
+1°
+A la condamnation du débiteur au paiement d'une somme d'argent ;
+2°
+A la résolution d'un contrat pour défaut de paiement d'une somme d'argent.
+II.
+Il arrête ou interdit
+également toute procédure d'exécution de la part de ces créanciers tant sur les meubles
+que sur les immeubles ainsi que toute procédure de distribution n'ayant pas produit un effet attributif
+avant le jugement d'ouverture.
+Aussi et fondé sur ce qui précède, particulièrement du fait que la société
+débitrice est actuellement en liquidation judiciaire en France, je vous informe que je procède
+à l'annulation du séquestre no 8416434, ainsi qu'au commandement de payer no 8450238 qui valide
+cette mesure.
+Le créancier est invité, pour autant que le délai pour agir ne soit pas prescrit, à
+déclarer sa créance au liquidateur selon les modalités prévues selon les dispositions
+légales du droit applicable en France.
+Cette décision peut être contestée par la voie de la plainte qui doit être déposée
+dans les dix jours dès sa connaissance, auprès de l'autorité inférieure de surveillance
+(…)".
+g)
+Le 18 mai 2018,
+B.________SA a déposé une plainte au
+sens de l’art. 17 LP contre cette dernière décision devant la Présidente du Tribunal
+d’arrondissement de Nyon, autorité inférieure de surveillance.
+Par déterminations du 12 juillet 2018, l’Office des poursuites a informé la présidente
+qu’il avait reconsidéré sa position, au sens de l’art. 17 al. 4 LP, au motif que
+la masse en faillite étrangère n’avait pas au préalable fait reconnaître en
+Suisse le jugement de faillite prononcé à l’étranger. Il a déclaré annuler
+sa décision du 8 mai 2018.
+La présidente en a pris acte et a rayé la cause du rôle le 3 août 2018.
+h)
+Le 3 septembre 2018, B.________SA a déposé
+une réquisition de continuer la poursuite en validation du séquestre n° 8416434.
+i)
+Le 5 septembre 2018, l'Office des poursuites
+a notamment informé les conseils de B.________SA, de Q.Holding________S et de K.Holding________,
+en liquidation qu'à la suite de la réquisition de continuer la poursuite, un avis de saisie
+était adressé au conseil de la société débitrice et qu'au vu de l'arrêt
+du Tribunal fédéral du 23 octobre 2013 (5A_294/2013), il y avait lieu d'ouvrir une procédure
+de revendication. La décision rendue le 30 août 2018 était modifiée en ce sens que
+les dispositions des art. 106 à 108 LP en rapport avec la revendication de la société
+Q.Holding________S sur les créances séquestrées seraient appliquées. Il était
+par ailleurs précisé que les parties avaient un délai de 20 jours pour se déterminer
+et qu'elles pouvaient contester cette décision par la voie de la plainte.
+j)
+Par courrier du 20 septembre 2018, adressé
+à l'Office des poursuites, B.________SA a de nouveau fait valoir que la cession de créance
+à Q.Holding________S était nulle, pour le motif qu'aussi bien cette société que K.Holding________
+et les liquidateurs de celle-ci avaient délibérémment choisi de ne pas prendre en compte
+la procédure suisse de séquestre et avaient cédé les créances à Q.Holding________S,
+comme si cette procédure n'existait pas. Elle a demandé qu'un délai de 20 jours soit imparti
+à cette dernière société pour ouvrir action, conformément à l'art. 107
+al. 4 LP.
+k)
+Le 16 octobre 2018, l'Office des poursuites
+a établi un procès-verbal de saisie portant sur les créances de K.Holding________ envers
+K.Suisse________SA (U.________SA), d’une valeur estimative de 2'800'000 fr., qui auraient le cas
+échéant été reprises par Q.Holding________S et a imparti à B.________SA un délai
+de 20 jours conformément à l’art. 108 LP pour ouvrir action contre cette dernière
+société, en contestation de sa revendication de propriété.
+l)
+Le 23 octobre 2018, B.________SA a déposé
+une nouvelle plainte au sens de l'art. 17 LP, en concluant principalement à la réforme du procès-verbal
+de saisie du 16 octobre 2018 en ce sens qu'il était pris acte de la revendication formulée
+par Q.Holding________S et que, conformément à l'art. 107 al. 5 LP, un délai de 20
+jours était assigné à celle-ci pour ouvrir action en constatation de son droit. La plaignante
+soutenait que dans la mesure où la cession de créance intervenue en faveur de Q.Holding________S
+était nulle, la prétention de cette société était moins fondée que celle
+du débiteur et qu'il appartenait à Q.Holding________S – et non à B.________SA –
+d'ouvrir action.
+Par décision du 25 octobre 2018, le Président
+du Tribunal d'arrondissement de La Côte a admis la requête d'effet suspensif qui était
+contenue dans la plainte et a prononcé que le délai de 20 jours imparti à B.________SA
+était suspendu jusqu'à droit connu sur la plainte.
+m)
+Par courrier du 19 novembre 2018, adressé
+au Juge commissaire de K.Holding________, en liquidation en vue de l'audience du 4 décembre 2018,
+Me [...] a déclaré que la créance produite par B.________SA résultant d'une sentence
+arbitrale condamnant K.Holding________ à payer à celle-ci 1'000'000 euros, avec intérêts
+à 5 % l'an dès le 18 juillet 2015, n'était plus contestée, à l'exception du
+cours des intérêts moratoires.
+Par ordonnance du 4 décembre 2018, le juge
+commissaire a admis la créance de B.________SA à concurrence de 1'038'006 euros dans la liquidation.
+3.
+Le
+8 novembre 2018, Mes [...], agissant en qualité de liquidateurs de K.Holding________, en liquidation,
+ont déposé une requête en reconnaissance de deux jugements rendus par le Tribunal de commerce
+de Paris le 29 juin 2017, respectivement le 12 septembre 2017.
+4.
+Par décision dont les considérants
+écrits ont été adressés aux parties le 2 août 2019 et notifiés à B.________SA
+le 5 août 2019, la Présidente du Tribunal d'arrondissement de La Côte a reconnu et déclaré
+exécutoire en Suisse le jugement rendu par le Tribunal de commerce de Paris le
+28
+(sic)
+juin 2017 (I), a reconnu et déclaré exécutoire en Suisse le jugement rendu par le Tribunal
+de commerce de Paris le 12 septembre 2017 (II), a ordonné l'ouverture en Suisse de la faillite ancillaire
+de K.Holding________ (III) et a mis les frais par 1'000 fr. à la charge des requérants.
+Le
+premier juge a considéré que les conditions posées par les art. 166 al. 1 et 167 al. 1
+1
+re
+phr.
+LDIP étaient remplies en l’espèce. Rejetant les arguments de la recourante, il a notamment
+considéré qu’il serait pour le moins choquant de considérer que les requérants
+(soit les liquidateurs) n’avaient pas rendu vraisemblable l’existence de biens en Suisse
+alors qu’ils n’avaient eu d’autre choix que de déposer la requête en reconnaissance.
+Pour le premier juge, la question de savoir si la faillie était toujours titulaire des créances
+à l’encontre d’U.________SA et dès lors si elle possédait des biens patrimoniaux
+en Suisse devrait être examinée dans le cadre du traitement de la faillite ancillaire. Il convenait
+d’admettre que l’existence de biens en Suisse était rendue vraisemblable et que la compétence
+ratione loci du juge suisse était donnée. En outre, il a retenu que le jugement rendu le 12
+septembre 2017, considéré comme une décision de faillite, était exécutoire et
+que rien ne s’opposait à sa reconnaissance. Il en allait de même s’agissant du
+jugement du 29 juin 2017, qui était aussi exécutoire. Le premier juge a relevé qu’une
+procédure française de redressement judiciaire était assimilable en Suisse à un concordat
+ou procédure analogue et que les moyens tirés de la violation de l’ordre public suisse
+n’étaient pas fondés.
+5.
+Par recours du 14 août 2019, B.________SA a conclu avec suite de frais et dépens à la
+réforme de cette décision en ce sens que la requête en reconnaissance d'une faillite étrangère
+et d'un concordat ou une procédure analogue déposée le 8
+novembre
+2018 par K.Holding________ soit rejetée, dans la mesure où elle est
+recevable.
+Par décision du 4 septembre 2019, la Présidente de la cour de céans a rejeté la requête
+d'effet suspensif qui était contenue dans le recours.
+Par réponse du 21 octobre 2019, Mes [...], liquidateurs de K.Holding________, en liquidation, ont
+conclu, avec suite de frais et dépens, principalement à l'irrecevabilité du recours, subsidiairement
+à son rejet.
+La recourante a déposé une réplique spontanée le 30 octobre 2019.
+En droit
+:
+I.
+a)
+La reconnaissance et l'exécution des décisions
+étrangères est régie par le chapitre 1 du Titre 10 du Code de procédure civile du
+19 décembre 2008 (CPC ; RS 272), à moins qu'un traité international ou la loi fédérale
+sur le droit international privé n'en dispose autrement (art. 335 al. 3 CPC).
+La reconnaissance en Suisse
+d'une décision de faillite étrangère ou d'un concordat ou d'une décision rendue dans
+une procédure analogue suit, à défaut de convention, les règles des art. 25ss LDIP,
+et plus particulièrement les règles des art. 166ss LDIP.
+Dans l'optique des voies
+de recours cantonales, la décision sur la reconnaissance d'une faillite étrangère doit
+être assimilée à un jugement de faillite au sens de l'art. 174 LDIP (Braconi, in Bucher
+[éd.], Commentaire romand, Loi sur le droit international privé, Convention de Lugano, n. 17
+ad art. 167 LDIP; Berti/Mabillard, in Honsell et al. [éd.], Basler Kommentar, Internationales Privatrecht,
+3è éd., n. 20 ad art. 167 LDIP; Kaufmann-Kohler/Rigozzi,
+in : Dallèves et al. [éd.], Commentaire romand, Commentaire de la Loi fédérale sur
+la poursuite pour dettes et la faillite ainsi que des articles 166 à 175 de la Loi fédérale
+sur le droit international privé, Bâle 2005, n. 23ss ad art. 167 LDIP). Selon l'art. 174
+al. 1 LDIP, la décision du juge de la faillite peut faire l'objet d'un recours au sens des
+art. 319 à 327a CPC. C'est la voie du recours et non de l'appel qui est ouverte contre les décisions
+du tribunal de l'exécution (Bernasconi, La reconnaissance des faillites et des concordats étrangers
+dans la pratique judiciaire tessinoise, JdT 2014 II 40ss, 43; Braconi, loc. cit.; Berti/Mabillard, loc.
+cit.).
+S'agissant de la qualité
+pour recourir, il y a lieu de tenir compte de l'art. 29 al. 2 LDIP, qui est applicable par analogie
+à la procédure de reconnaissance de la faillite étrangère (ATF 140 III 379 consid.
+4 ; ATF 139 III 504 consid. 3.2). Selon cette disposition, la partie qui s'oppose à la reconnaissance
+est entendue dans la procédure et peut y faire valoir ses moyens. Pour l'interprétation de
+la notion de partie intéressée, on peut s'inspirer par voie d'analogie de l'art. 6 de la loi
+fédérale sur la procédure administrative (FF 1983 319 ch. 217.4), qui règle la qualité
+de partie en procédure administrative fédérale. A ainsi la qualité de partie celui
+qui est particulièrement touché par la décision attaquée et a un intérêt
+digne de protection à ce qu'elle soit annulée ou modifiée. Est particulièrement touché
+celui qui est atteint de manière directe et concrète et dans une mesure et avec une intensité
+plus grande que d'autres personnes et se trouve dans un rapport étroit et spécial avec l'objet
+de la contestation. A un intérêt digne de protection, celui qui a un intérêt juridique
+ou de fait à ce que la décision soit annulée ou modifiée : cet intérêt
+consiste dans l'utilité pratique que la modification ou l'annulation lui apporterait, en lui évitant
+de subir directement un préjudice de nature économique, idéale, matérielle ou autre
+(ATF 139 III 504 consid. 3.3). Les intéressés pourront faire valoir leurs moyens d'opposition,
+conformément à l'art. 29 al. 2 LDIP, en interjetant recours contre la décision de reconnaissance
+(ATF 139 III 504 consid. 3.2).
+La doctrine majoritaire,
+qu'il y a lieu de suivre, admet que le créancier ayant obtenu en Suisse l'exécution d'une mesure
+conservatoire, spécialement un séquestre, a la qualité d'opposant (Braconi, op. cit.,
+n. 11 ad art. 167 LDIP et réf. citées; Berti/Mabillard, op. cit., n. 21 ad art. 167 LDIP; Volken/Rodriguez,
+in Müller-Chen et al. [éd.], Zürcher Kommentar zum IPRG, 3è éd., n. 10 ad art.
+167 LDIP; Kaufmann-Kohler/Rigozzi, op.cit., nn. 9 et 23 ad art. 167 LDIP).
+b)
+La recourante, qui est créancière de K.Holding________, en liquidation, selon une sentence
+arbitrale du 31 juillet 2017 et à ce titre requérante à une poursuite en validation de
+séquestre portant sur une créance de K.Holding________ contre U.________SA a la qualité
+d'opposante au sens de l'art. 29 al. 2 LDIP et a d'ailleurs participé à ce titre à la
+procédure de première instance. Elle a dès lors qualité pour recourir, contrairement
+à ce que soutient l'intimée.
+Le recours, par ailleurs
+déposé en temps utile (art. 321 al. 2 CPC), est recevable.
+Il en va de même
+de la réponse déposée dans le délai légal fixé par l'art. 322 al. 2 CPC.
+Conformément à
+la jurisprudence (cf. ATF 142 III 48 consid. 4.1.1 et ATF 139 I 189 consid. 3.2), la réplique
+spontanée, déposée pour répondre aux arguments soulevés dans la réponse,
+est également recevable.
+II.
+a)
+En vertu du principe de la territorialité, une décision de faillite ou de concordat prononcée
+à l’étranger ne déploie pas d’effets en Suisse. La reconnaissance est la condition
+préalable à toute prise en considération de la décision étrangère. La reconnaissance
+d’une décision de faillite étrangère déclenche une faillite ancillaire –
+appelée aussi faillite « collatérale » ou « mini-faillite »
+en Suisse aux conditions et avec les effets limités prévus par la LDIP (cf. art. 170 al. 1
+LDIP; Stoffel/Chabloz, Voies d’exécution,
+Poursuite pour dettes, exécution de jugements et faillite en droit suisse, 3è éd., nn.
+8 et 39). En cas de reconnaissance d’un sursis concordataire étranger, le pouvoir de disposer
+du débiteur commun étranger sur ses biens situés en Suisse est limité conformément
+à l’art. 298 al. 1 1
+re
+phr. LP (Robert-Tissot, Les effets du concordat
+sur les obligations, Analyse en particulier des effets du concordat sur les contrats, in Gauch [éd.],
+AISUF – Arbeiten aus dem Iuristischen Seminar der Universität Freiburg Schweiz, vol. 293,
+2010, p. 213).
+Comme précédemment
+relevé, une décision étrangère en matière de faillite et de concordat est reconnue
+en Suisse aux conditions des art. 166 ss LDIP. Dans sa teneur au 31 décembre 2018, l’art.
+166 al. 1 LDIP (applicable au concordat par le renvoi de l’art. 175 LDIP) disposait qu’une
+décision de faillite étrangère rendue dans l’Etat du domicile du débiteur est
+reconnue en Suisse à la réquisition de l’administration de la faillite ou d’un
+créancier : a) si la décision est exécutoire dans l’Etat où elle a été
+rendue ; b) s’il n’y a pas de motif de refus au sens de l’art. 27 et c) si la
+réciprocité est accordée dans l’Etat où la décision a été rendue.
+Aux termes de l’art.
+166 al. 1 LDIP nouveau, entré en vigueur au 1
+er
+janvier 2019 (RO [Receuil officiel] 2018, pp. 3263), une décision de faillite étrangère
+est reconnue en Suisse à la requête de l’administration de la faillite étrangère,
+du débiteur ou d’un créancier : a) si la décision est exécutoire dans l’Etat
+où elle a été rendue; b) s’il n’y a pas de motif de refus au sens de l’art.
+27, et c) si la décision a été rendue : 1) dans l’Etat du domicile du débiteur,
+ou 2) dans l’Etat où est situé le centre des intérêts principaux du débiteur,
+si celui-ci n’était pas domicilié en Suisse au moment de l’ouverture de la procédure
+étrangère. Outre la possibilité pour le failli de requérir la reconnaissance et la
+compétence indirecte reconnue à l’Etat où est situé le centre des intérêts
+principaux du débiteur (art. 166 al. 1 let. c ch. 2 nLDIP), la nouvelle loi se distingue de l’ancienne
+par l’abandon complet de l’exigence de réciprocité (sur les motifs de la révision,
+cf. Kuonen, Droit suisse de la faillite internationale, quoi de neuf ?, RSJ 2019, pp. 499-515).
+Sous l’ancien droit, cette dernière exigence ne devait pas être interprétée
+avec une excessive sévérité (Lembo/Jeanneret, La reconnaissance d’une faillite étrangère
+(Art. 166 et ss. LDIP) : Etat des lieux et considérations pratiques, in SJ 2002 II 247, 261).
+Selon l’art. 199 LDIP, les requêtes en reconnaissance ou en exécution d’une décision
+étrangère qui étaient pendantes lors de l’entrée en vigueur de la présente
+loi sont régies par celle-ci en ce qui concerne les conditions de la reconnaissance et de l’exécution.
+Dans la mesure où
+la présente procédure, introduite par la requête de l'intimée du 8 novembre 2018,
+était pendante au 1
+er
+janvier 2019, la nouvelle loi s’applique à la présente affaire. La reconnaissance des
+jugements litigieux n'est pas soumise à l'exigence de réciprocité.
+b)
+Le premier juge a considéré que les conditions posées par l’art. 166 al. 1 LDIP
+étaient remplies. En deuxième instance, la recourante ne conteste pas la qualité des liquidateurs
+de la société étrangère faillie à requérir la reconnaissance en Suisse
+des jugements rendus par le Tribunal de commerce les 29 juin 2017 et 12 septembre 2017, ni la compétence
+de ce Tribunal à rendre les deux jugements litigieux. Le caractère exécutoire de ceux-ci
+n’est pas non plus remis en cause. Il n’est pas nécessaire de revenir sur ces points.
+III.
+a)
+La
+recourante conteste en revanche que le jugement du Tribunal de commerce du 29 juin 2017, qui a ouvert
+une procédure de redressement judiciaire avec période d'observation de six mois, puisse être
+assimilé à un concordat et soit susceptible de reconnaissance. Elle soutient que le premier
+juge se serait uniquement référé à une jurisprudence (cf. ATF 115 III 148, SJ 1997,
+p. 101 consid. 3a) ancienne et qui aurait analysé l'institution du redressement judiciaire
+français avec une cognition limitée à l'arbitraire. Elle relève que selon le Code
+de commerce français, le but du redressement judiciaire est de "permettre la poursuite de l'activité
+de l'entreprise, le maintien de l'emploi et l'apurement du passif" (art. L 631-1 et 642 -1),
+que "dès l'ouverture de la procédure, les tiers sont admis à soumettre à l'administrateur
+des offres tendant au maintien de l'activité de l'entreprise, par une cession totale ou partielle
+de celle-ci" (art. L 631-13) et que lorsque l'arrêté d'un plan de redressement ne peut
+être obtenu ou lorsque la situation du débiteur qui a déclaré être en état
+de cessation des paiements apparaît manifestement insusceptible de redressement, le tribunal prononce
+la liquidation judiciaire et met fin à la période d'observation ainsi qu'à la mission
+de l’administrateur (art. L 631-7 et L 631-15). La recourante en déduit que le redressement
+judiciaire poursuivrait plusieurs objectifs, dont certains relèveraient de la politique économique,
+par le maintien de l'emploi, que cette institution ne concernerait pas tous les biens du débiteur
+ni ne requérait l’accord de tous les créanciers. Ces points seraient étrangers à
+la procédure concordataire suisse.
+b)
+Selon l'art. 175 LDIP, dans sa teneur en vigueur depuis le 1
+er
+janvier 2019, un concordat ou une procédure analogue homologuée par une juridiction étrangère
+est reconnu en Suisse. Les art. 166 à 170 et 174a à 174c LDIP sont applicables par analogie.
+Les créanciers domiciliés en Suisse sont entendus.
+En vertu de cette disposition,
+un concordat étranger, soit un acte juridique homologué en principe par une autorité judiciaire
+administrative, par lequel un débiteur propose et soumet à l’accord des créanciers
+des modalités de remboursement de ses dettes, ou une procédure analogue, peut être reconnu
+en Suisse. La qualification de la procédure dont la reconnaissance est requise s’opère
+selon la lex fori. Une décision étrangère provisoire à vocation universelle, préalable
+à un concordat, telle que le sursis, qui est d’une durée limitée et mène nécessairement
+soit à l’assainissement, soit à la liquidation du patrimoine du débiteur, mais qui
+ne fait pas intervenir l’accord des créanciers, doit être qualifiée de procédure
+analogue, dont le but et les effets sont comparables à ceux du sursis concordataire suisse, et être
+également reconnue en application de l’art. 175 LDIP (Hari, in Chenaux/Danon/Tissot [éd.],
+Le commissaire au sursis dans la procédure concordataire (art. 273 ss LP). Statut, fonctions et
+responsabilité, avec une analyse de l’activité des mandataires nommés par la FINMA
+en cas d’insolvabilité d’un assujetti, 2011 p. 267 et les réf. citées).
+Le Tribunal fédéral
+a jugé que, en dépit du terme "homologué", une procédure concordataire
+étrangère peut être reconnue dès qu'elle a été ouverte par l'autorité
+compétente, c'est-à-dire "déjà au stade de la suspension des poursuites",
+en sorte qu'une décision qui correspond à un sursis concordataire est susceptible de reconnaissance
+(TF 5P.189/1996 du 19 septembre 1996 consid. 3b, in SJ 1997 p. 101 ss, 104; ATF 115 III 148 consid. 2
+et 3), relevant que la doctrine largement majoritaire approuvait cet avis (ATF 137 III 138 consid. 2.1).
+Le Tribunal fédéral a en particulier considéré qu'il n'était pas arbitraire
+d'admettre que la phase initiale du redressement judiciaire de droit français, en particulier la
+période d'observation, était soumise à l'art. 175 LDIP (TF 5P.189/1996 du 19 septembre
+1996 consid. 3b, in SJ 1997 p. 101 ss, 104). La doctrine admet que ses effets sont similaires à
+ceux du sursis concordataire prévu à l’art. 293 ss LP (Robert-Tissot, op. cit., p. 210
+et les réf. citées). La reconnaissance ne saurait par ailleurs être exclue du seul fait
+que la mesure d'assainissement sert principalement les intérêts de politique économique
+de l'Etat étranger (Kaufmann-Kohler/Schöll, Commentaire romand, n. 8 ad art. 175 LDIP), ni
+du fait que ses conséquences puissent se limiter à entraîner la cession d'une partie du
+patrimoine du débiteur à des tiers, ce qui n'est pas étranger aux possibilités du
+droit suisse, le concordat par abandon d'actifs pouvant concerner l'abandon d'une partie des actifs du
+concordataire en vue de leur liquidation (art. 317 al. 1 et 318 al. 2 LP; Gilliéron, Poursuite pour
+dettes, faillite et concordat, 5è éd. no 3201 p. 630).
+On relèvera par ailleurs
+que la doctrine préconise, pour déterminer le champ des procédures analogues au concordat,
+de se référer à l'annexe A du Règlement 2015/848 du Parlement européen et du
+Conseil du 20 mai 2015 relatif aux procédures d'insolvabilité (JO [Journal officiel de l'Union
+européenne] L 141 du 5 juin 2015, p. 19 à 72 ; Volken/Rodriguez, op. cit., n. 17 ad art.
+175 LDIP) et que cet annexe A mentionne, pour la France, les procédures de redressement judiciaires.
+c)
+Au vu de ce qui précède, les arguments
+de la recourante tombent à faux. Contrairement à son opinion, le jugement du 29 juin 2017 qui
+a ordonné l’ouverture d’une procédure collective de redressement, avec une période
+limitée d’observation, est une décision analogue à un concordat, dont les effets
+sont similaires à un sursis concordataire suisse.
+C'est
+à juste titre que le premier juge a considéré que la décision du Tribunal de commerce
+de Paris du 29 juin 2017 était susceptible de reconnaissance.
+III.
+a)
+La
+recourante soutient ensuite qu'il n'y aurait plus d'intérêt à la reconnaissance du jugement
+du 29 juin 2017, dans la mesure où ce jugement a été vidé de toute substance par
+celui du 12 septembre 2017, qui a converti la procédure de redressement judiciaire en liquidation
+judiciaire, assimilable à une faillite.
+b)
+Le moyen est infondé, l'intimée conservant un intérêt à la reconnaissance du
+premier jugement, ne serait-ce que pour la période séparant les deux jugements.
+IV.
+a)
+La recourante fait également valoir que la reconnaissance des décisions des 29 juin et 12 septembre
+2017 du Tribunal de commerce serait contraire à l'ordre public suisse, puisque la procédure
+en France aurait été initiée dans le seul but de contourner les effets de la créance
+de la recourante en Suisse et qu'elle n'aurait pu participer à la procédure que dès le
+mois de décembre 2018 (date de l'admission de la créance).
+b)
+Selon l'art. 27 LDIP, la reconnaissance d'une décision étrangère doit être refusée
+en Suisse si elle est manifestement incompatible avec l'ordre public suisse (al. 1), exigence du respect
+de l'ordre public matériel qui a trait au fond du litige, mais également si elle viole certaines
+règles fondamentales de procédure civile, énoncées exhaustivement à l'al. 2,
+exigences de l'ordre public procédural, telles que la citation irrégulière, la violation
+du droit d'être entendu, la litispendance ou la chose jugée.
+De manière générale,
+la réserve de l'ordre public doit permettre au juge de ne pas apporter la protection de la justice
+suisse à des situations qui heurtent de manière choquante les principes les plus essentiels
+de l'ordre juridique, tel qu'il est conçu en Suisse (ATF 142 III 180 consid. 3.2 ; ATF 126 III 534
+consid. 2c ; ATF 125 III 443 consid. 3d). En tant que clause d'exception, la réserve de l'ordre
+public doit être interprétée de manière restrictive, spécialement en matière
+de reconnaissance et d'exécution des jugements étrangers, où sa portée est plus étroite
+que pour l'application directe du droit étranger (effet atténué de l'ordre public) ; la
+reconnaissance de la décision étrangère constitue la règle, dont il ne faut pas s'écarter
+sans de bonnes raisons (ATF 142 III 180 consid. 3.2 ; ATF 126 III 101 consid. 3b, ATF 126 III 127 consid.
+2b et les arrêts cités). Un jugement étranger peut être incompatible avec l'ordre
+public suisse non seulement à cause de son contenu, mais également en raison de la procédure
+dont il est issu (ATF 142 III 180 consid. 3.2 ; ATF 126 III 327 consid. 2b ; ATF 116 II 625 consid. 4a
+et les arrêts cités).
+c)
+Le premier juge a considéré que l'on ne distinguait pas en quoi l'ouverture de la procédure
+de redressement judiciaire serait contraire à l'ordre public suisse et constitutif d'un abus de
+droit, sachant que le droit suisse admet parfaitement la possibilité d'accorder un sursis concordataire
+alors même que certains actifs du débiteur font l'objet d'un séquestre et que la cession
+à Q.Holding________S de la créance de K.Holding________ à l'encontre d'U.________SA ne
+découlait pas du jugement d'ouverture de la procédure de redressement du 29 juin 2017, mais
+d'un jugement du 25 août 2017, qui ne fait pas l'objet de la présente procédure. Par ailleurs,
+la recourante n'avait pas été empêchée de participer à la procédure de
+sursis concordataire, sa créance ayant dans un premier temps été contestée, puis
+finalement admise le 4 décembre 2018 à hauteur de 1'090'000 euros, le fait qu'une créance
+soit contestée ne signifiant pas que la recourante ait été exclue de la procédure.
+Ces considérations peuvent être confirmées.
+L'ouverture de la procédure
+de redressement judiciaire, puis de mise en liquidation, n'a pas concerné K.Holding________ seule,
+mais onze des sociétés du groupe. Rien ne permet de retenir que K.Holding________ ait requis
+le redressement judiciaire, dans le seul but de contourner un séquestre obtenu en Suisse. Il résulte
+du dossier que le groupe [...] a connu des difficultés liées notamment à la conjoncture
+économique, ce qui a provoqué la cessation de paiements, qui est à l'origine des procédures
+collectives litigieuses. Pour le surplus, la recourante n'expose pas en quoi les effets de la présente
+procédure de reconnaissance aboutiraient à un résultat autre qu'une procédure de
+concordat, respectivement de faillite suisse, dont l'effet est d'éteindre les procédures individuelles
+au profit d'une procédure collective (cf. art. 206 LP). La recourante conteste en réalité
+la cession de la créance litigieuse, selon le jugement du 25 août 2017, mais, comme l'a relevé
+le premier juge, ce dernier jugement ne fait pas l'objet de la présente procédure et l'on ne
+saurait en tout état de cause retenir que la procédure de redressement judiciaire aurait été
+initiée dans le seul but de permettre une cession à Q.Holding________S, dès lors que 19
+offres de reprise ont pu être effectuées devant le juge français - dont notamment l'offre
+de Z.________SA, dont l'administrateur unique N.________ dispose d'une signature individuelle au sein
+de la société recourante - , qui a dûment explicité les motifs de son choix.
+On ne voit dès lors
+pas que la reconnaissance des décisions des 29 juin et 12 septembre 2017 soit contraire à l'ordre
+public.
+V.
+a)
+La recourante fait enfin valoir que, faute de biens localisés dans le canton de Vaud après
+le 26 août 2017, le premier juge n'était pas compétent ratione loci pour reconnaître
+la décision du 12 septembre 2017.
+b)
+Selon l'art. 167 al. 1 LDIP, la requête en reconnaissance de la décision de faillite rendue
+à l'étranger est portée devant le tribunal du lieu de situation des biens en Suisse. Les
+créances du débiteur failli sont réputées sises au domicile du débiteur du failli
+(art. 167 al. 3 LDIP).
+c)
+A cet égard, le premier juge a relevé qu'il serait pour le moins choquant de considérer
+que l'intimée n'a pas rendu vraisemblable l'existence de biens en Suisse, alors qu'elle n'a eu d'autre
+choix que de déposer la présente requête puisque la cession des créances de K.Holding________
+à Q.Holding________S était contestée par B.________SA et qu'elle n'était pas reconnue
+par l'Office des poursuites faute précisément de reconnaissance en Suisse de la faillite étrangère.
+Cette motivation doit être confirmée. Dès lors que la validité de la cession de créance
+est contestée, on ne saurait en l'état nier la vraisemblance de biens en Suisse et il n'appartient
+pas au juge de la reconnaissance d'examiner plus avant la question de la composition de la masse active,
+qui risque d'être éminemment sujette à des contestations, que ce soit au sujet de l'appartenance
+de cette créance à la masse ou au sujet d'un droit d'un tiers sur cette créance. En tant
+que juge de l'entraide judiciaire internationale, le juge de la reconnaissance doit uniquement vérifier
+la réalisation des conditions posées par la LDIP; il ne peut pas se prononcer sur la question
+de savoir si des avoirs tombent dans la masse ou s'ils sont acquis au créancier individuel qui a
+poursuivi le débiteur (ATF 140 III 379 consid. 4.3; Stoffel/Chabloz, op. cit., n. 94).
+En définitive, les
+arguments de la recourante, mal fondés, doivent être rejetés.
+VI.
+Il s'ensuit que
+le recours doit être rejeté et la décision
+attaquée confirmée.
+Vu le rejet du recours,
+les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge de la recourante, qui versera en outre à l’intimée des dépens
+de deuxième instance, fixés à 3'000 fr. (art. 106 al. 1 CPC ; art. 3 al. 2 et 8 TDC [tarif
+du 23 novembre 2010 des dépens en matière civile ; BLV 270.11.6]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante B.________SA doit verser à l'intimée K.Holding________, en liquidation la somme
+de 3'000 fr. (trois mille francs) à titre de dépens de deuxième instance.
+V.
+L'arrêt est exécutoire.
+La
+présidente :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Freymond, avocat (pour B.________SA),
+‑
+Me Pierre-Damien Eggly, avocat (pour Mes [...], liquidateurs de K.Holding________, en liquidation),
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud.
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
