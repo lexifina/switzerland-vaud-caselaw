@@ -1,0 +1,406 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 20"
+decided: "2019-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7529481"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-046.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-177.md", "switzerland/bund/acts/311.0/art-180.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-062.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-352.md", "switzerland/bund/acts/312.0/art-354.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-426.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2020 / 20
+
+## Regeste
+
+RÉCUSATION | 56 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.12.2019 Décision / 2020 / 20
+
+RÉCUSATION | 56 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1040
+PE18.022193-MYO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 30 décembre 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Perrot, juges
+Greffier
+:              M.
+Petit
+*****
+Art.
+56 CPP
+Statuant sur la demande de récusation déposée le 27 novembre 2019 par
+V.________
+à l'encontre de la Procureure Myriam Bourquin, dans la cause
+n° PE18.022193-MYO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 1
+er
+novembre 2019, la Procureure Myriam Bourquin (ci-après: la Procureure) du Ministère public
+de l'arrondissement de l'Est vaudois (ci-après: le Ministère public) a rendu une ordonnance
+pénale à l'encontre de V.________, dont il ressort notamment ce qui suit:
+"
+Faits
+1.
+A Bex et en tout autre
+endroit, entre la mi-juin et le 4 août 2018, date du dépôt de plainte
+,
+V.________ a déclaré, sur les ondes de «
+Radio
+[...]
+», faisant référence à
+Q.________, que celle-ci avait «
+intérêt
+à courir vite
+» et que ça allait
+«
+dégommer
+».
+Il a également indiqué, sur un podcast diffusé sur Facebook, que la précitée
+était une «
+arnaqueuse
+»
+et qu’elle commettait des «
+fraudes
+»,
+la qualifiant également de «
+psychopathe
+».
+Enfin, il lui a adressé un courriel indiquant «
+vitrine
+cassée, tableaux brûlés
+» et
+un message indiquant qu’elle et W.________ violaient la loi et incitaient d’autres personnes
+à le faire.
+Q.________
+a déposé
+plainte
+et fait valoir des
+prétentions
+civiles
+, par CHF 5'000.-.
+2.
+A Bex et en tout autre
+endroit, entre la mi-juin 2018 et le 19 juin 2019, date de l’extension de la plainte pénale
+,
+V.________ a déclaré, sur les ondes «
+Radio
+[...]
+», que l’émission animée
+par W.________ était «nulle», puis lui a adressé des courriels et messages informatiques
+via Facebook indiquant «
+vitrine
+brûlée…vinyls brûlés…tout calciné…
+»
+et «
+attention, les vinyls,
+ça fond
+». Il a également déclaré
+par message Facebook qu’il violait la loi et incitait d’autres personnes à le faire;
+certains de ces messages ont également été adressés à Q.________.
+W.________
+a déposé
+plainte
+et fait valoir des
+prétentions
+civiles
+, par CHF 5'291.58.
+Infractions
+commises
+Diffamation
+(art. 173 ch. 1 CP) – cas 1 et 2
+Injure
+(art. 177 al. 1 CP) – cas 1
+Menaces
+(art. 180 al. 1 CP) – cas 1 et 2
+On
+précise que le fait de dire de quelqu’un que son émission est nulle n’est pas pénalement
+répréhensible.
+Antécédents
+12
+mai 2016                Ministère
+public de l'arrondissement de Lausanne
+, violence
+ou menace contre les autorités et les fonctionnaires, 30 jours-amende à CHF 30.-, avec sursis
+pendant 2 ans, CHF 300.- d'amende
+29
+mai 2017              Ministère
+public de l’arrondissement de l’Est vaudois
+,
+calomnie, injure et menaces, 40 jours-amende à CHF 40.-, avec sursis pendant 2 ans, CHF 300.- d’amende
+Motivation
+sommaire
+Une
+peine pécuniaire doit sanctionner le comportement du prévenu. Celle-ci ne sera pas assortie
+du sursis, dont il ne remplit pas les conditions, au vu de la récidive durant le délai d’épreuve.
+Pour cette même raison, le sursis accordé le 29 mai 2017 sera révoqué et une peine
+d’ensemble sera prononcée (cf. art. 46 al. 1 CP).
+Succombant
+à l’action pénale, V.________ en supportera les frais.
+Articles
+de loi applicables
+34,
+46 al. 1, 47, 49 al. 1, 173 ch. 1, 177 al. 1, 180 al. 1 CP ; 352, 353, 422, 426 et 433 CPP.
+Frais
+de procédure
+Les
+frais de procédure doivent être mis à la charge de V.________ dans leur intégralité.
+Indemnités
+Q.________
+requiert l’allocation d’une somme de CHF 1'258.95 à titre d’indemnité pour
+l’exercice raisonnable de ses droits de procédure. Son avocat produit à l’appui
+de cette requête une liste d’opérations faisant état d’une activité de
+3h30 au tarif horaire de CHF 300.-, à laquelle il faut ajouter CHF 72.60 de « frais, charges
+et crédits », des débours à hauteur de CHF 50.- et CHF 86.35 de TVA (7.7%).
+Aux
+termes de l’art. 433 al. 1 CPP, la partie plaignante peut demander au prévenu une juste indemnité
+pour les dépenses obligatoires occasionnées par la procédure si elle obtient gain de cause
+(let. a) ou si le prévenu est astreint au paiement des frais conformément à l’art.
+426 al. 2 CPP (let. b). La partie plaignante obtient gain de cause au sens de l’art. 433 al. 1
+CPP si les prétentions civiles sont admises ou lorsque le prévenu est condamné. Dans ce
+dernier cas, la partie plaignante peut être indemnisée pour les frais de défense privée
+en relation avec la plainte pénale (ATF 139 IV 102 consid. 4.1 et 4.3 p. 107ss ; TF6B_1286/2016
+du 15 août 2017 consid. 2.1). La juste indemnité, notion qui laisse un large pouvoir d’appréciation
+au juge, couvre les dépenses et les frais nécessaires pour faire valoir le point de vue de
+la partie plaignante dans la procédure pénale. Il s’agit en premier lieu des frais d’avocat
+(ATF 139 IV 102 consid. 4.1 p. 107 et consid. 4.5 p. 109). Les démarches doivent apparaître
+nécessaires et adéquates pour la défense du point de vue de la partie plaignante (TF 6B_1286/2016
+du 15 août 2017 consid. 2.1). Selon la jurisprudence, l’indemnité doit correspondre au
+tarif usuel du barreau applicable dans le canton où la procédure se déroule (TF 6B_111/2017
+du 17 octobre 2017 consid. 4.1). Selon l’article 26a du Tarif vaudois des frais de procédure
+et indemnités en matière pénale (TFIPND ; BLV 312.03.1), le tarif horaire déterminant,
+hors TVA, est de CHF 250.- au minimum et de CHF 350.- au maximum pour l’activité déployée
+par un avocat.
+Dans
+le cas d’espèce, l’indemnité demandée est justifiée, il convient donc
+de l’allouer, à la charge de V.________.
+Décision
+La
+procureure :
+I.
+déclare
+V.________ coupable de diffamation, injure et menaces;
+II.
+révoque
+le sursis accordé le 29 mai 2017 par le Ministère public de l’arrondissement de l’Est
+vaudois et
+condamne
+V.________ à une peine d’ensemble
+de
+100 (cent) jours-amende, le montant du jour-amende étant fixé à CHF 30.- (trente francs)
+;
+III.
+alloue
+à Q.________, en vertu de l’article 433 CPP, une indemnité de CHF 1'258.95 (mille deux
+cent cinquante-huit francs nonante-cinq) pour l’exercice raisonnable de ses droits de procédure,
+à la charge de V.________ ;
+IV.
+renvoie
+Q.________ et W.________ à agir devant la justice civile pour leurs prétentions ;
+V.
+ordonne
+le maintien au dossier du CD-R contenant les enregistrements audio de V.________, sous fiche de pièce
+à conviction n°10451 ;
+VI.
+met
+les frais de procédure, par CHF 1'050.-, à la charge de V.________."
+Le Ministère public a adressé l'ordonnance pénale précitée le 1
+er
+novembre 2019 par envoi recommandé à V.________, [...].
+Cet envoi a été retourné le 15 novembre 2019 au Ministère public avec la mention
+«non réclamé». Le même jour, l’ordonnance a été renvoyée
+à V.________ sous pli prioritaire à la même adresse, avec une lettre dans laquelle il
+était stipulé que ce nouvel envoi ne faisait pas courir un nouveau délai de recours ou
+d’opposition (P. 17).
+b)
+Le 19 novembre 2019, par efax [réd.: courriel] non signé, V.________ a annoncé faire opposition
+à l’ordonnance pénale (P. 18). Il a reçu une réponse automatique de la boîte
+efax [réd.: électronique] du Ministère public attirant son attention notamment sur le
+fait que seul le courrier postal garantissait une prise en considération par le Ministère public,
+que l’envoi électronique devait au surplus impérativement contenir, sous la forme de
+pièce jointe, un courrier signé précisant les motifs de l’envoi, et enfin que la
+communication électronique ne revêtait pas la forme d’une requête au sens de l’article
+110 al. 2 CPP.
+c)
+Le 20 novembre 2019, le Ministère public a adressé à V.________ un courrier par lequel
+il relevait à nouveau que l’opposition par efax [réd.: courriel] n’était pas
+recevable en la forme et que l’opposition apparaissait pour le surplus tardive, précisant
+que, sauf avis contraire de la part de l'intéressé dans les 5 jours, le Ministère public
+renonçait à adresser le dossier au tribunal pour qu’il statue formellement sur cette
+question (P. 19).
+d)
+Par courrier daté du 18 novembre 2019, posté à une date indéterminée (sceau
+postal illisible) et reçu le 25 novembre 2019 par le Ministère public, V.________ a déclaré
+faire opposition à l’ordonnance pénale (P. 20). Tant ce courrier que l'enveloppe utilisée
+par l'intéressé mentionnaient l'adresse "[...]"
+B.
+a)
+Par courrier daté du 27 novembre 2019
+adressé au Tribunal d'arrondissement de l'Est vaudois (ci-après: le Tribunal d'arrondissement),
+posté le 29 novembre 2019 et reçu au greffe du tribunal le 2 décembre 2019, V.________
+a demandé la récusation de la Procureure, au motif que ses courriers auraient été
+"envoyés à la mauvaise adresse", ce qui rendrait son "jugement inadmissible",
+l'intéressé exposant encore ce qui suit: "votre jugement ne m'ayant pas été
+entendu est un parti pri irrévocable (sic)" (P. 24). Cet envoi était accompagné d'une
+attestation médicale concernant l'intéressé, datée du 21 octobre 2019 et adressée
+par le Dr [...] à [...] (P. 25).
+Par efax [réd.: courriel] du 27 novembre 2019 au Ministère public, V.________ a également
+demandé la révocation de la Procureure, sans faire valoir de motif particulier (P. 23, page
+4).
+Par efax [réd.: courriel] non signé du 28 novembre 2019 au Ministère public, V.________
+a déclaré "signal[er] qu'un courrier A avec les certificats medicaux necessaires a la
+demande de votre revocation a ete envoye ce jour, certifies par le psychiatre de [...] et par la fondation
+de nant [le] concernant suite à votre refus d'opposition (sic)" (P. 23, page 2).
+Le 28
+novembre 2019, la
+Procureure a fait suivre au Tribunal d'arrondissement l'efax [réd.: courriel] précité
+comme objet de sa compétence.
+b)
+Le 17 décembre 2019, la présidente du Tribunal d'arrondissement a transmis le dossier de la
+cause à la Chambre des recours pénale du Tribunal cantonal afin de statuer sur la requête
+de récusation déposée le 27 novembre 2019 par V.________.
+Le 20 décembre 2019, la Procureure s'est déterminée sur la requête de récusation,
+faisant notamment valoir qu'elle ignorait tout des griefs faits en lien avec l'impartialité à
+laquelle elle était tenue.
+En droit
+:
+1.
+Selon l’art. 59 al. 1 let. b CPP (Code de
+procédure pénale suisse du 5 octobre 2007; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant une
+fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l’espèce, la Chambre des recours pénale du Tribunal cantonal est compétente pour
+statuer sur la demande de récusation présentée par V.________ (art. 13 al. 1 LVCPP [Loi
+d’introduction du Code de procédure pénale suisse du 19 mai 2009; BLV 312.01]), dans
+la mesure où celle-ci est dirigée contre un membre du Ministère public.
+2.
+2.1
+Pour autant que l'on comprenne le sens de sa lettre
+du 27 novembre 2019, le requérant avance comme motif de récusation que les courriers de la
+Procureure auraient été "envoyés à la mauvaise adresse", ce qui rendrait
+"son jugement inadmissible", et paraît se plaindre également de ne pas avoir été
+entendu (P. 24). Il semble enfin se prévaloir d'un certificat médical le concernant, attestant
+notamment d'antécédents psychiatriques et d'un suivi psychothérapeutique du 28 juin 2018
+au 17 juin 2019 (P. 25).
+2.2
+2.2.1
+Selon l’art. 56 let. f CPP, toute personne
+exerçant une fonction au sein d’une autorité pénale est tenue de se récuser
+lorsque d’autres motifs que ceux énumérés aux lettres a à e, notamment un rapport
+d’amitié étroit ou d’inimitié avec une partie ou son conseil juridique, sont
+de nature à la rendre suspecte de prévention. L’art. 56 let. f CPP a la portée d’une
+clause générale recouvrant tous les motifs de récusation non expressément prévus;
+elle correspond à la garantie d’un tribunal indépendant et impartial instituée par
+les art. 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril
+1999; RS 101) et 6 par. 1 CEDH (Convention du 4 novembre 1950 de sauvegarde des droits de l’homme
+et des libertés fondamentales; RS 0.101) (ATF 143 IV 69 consid. 3.2).
+L'art. 56 let. f CPP n'impose pas la récusation seulement lorsqu'une prévention effective du
+magistrat est établie, car une disposition interne de sa part ne peut guère être prouvée.
+Il suffit que les circonstances donnent l'apparence de la prévention et fassent redouter une activité
+partiale du magistrat. Seules les circonstances constatées objectivement doivent être prises
+en considération. Les impressions purement individuelles d'une des parties au procès ne sont
+pas décisives (ATF 143 IV 69 consid. 3.2; ATF 141 IV 178 consid. 3.2.1; ATF 138 IV 142 consid. 2.1).
+2.2.2
+Le ministère public est l’autorité
+investie de la direction de la procédure jusqu’à la mise en accusation (art. 61 CPP).
+A ce titre, il doit veiller au bon déroulement et à la légalité de la procédure
+(art. 62 ss CPP). Durant l’instruction, il doit établir, d’office et avec un soin égal,
+les faits à charge et à décharge (art. 6 CPP); il doit statuer sur les réquisitions
+de preuves et peut rendre des décisions quant à la suite de la procédure (classement ou
+mise en accusation), voire rendre une ordonnance pénale, pour laquelle il assume une fonction juridictionnelle
+(ATF 138 IV 142 consid. 2.2.1; ATF 124 I 76 consid. 2). Dans le cadre de l'instruction, le ministère
+public est tenu à une certaine impartialité même s'il peut être amené, provisoirement
+du moins, à adopter une attitude plus orientée à l'égard du prévenu ou à
+faire état de ses convictions à un moment donné de l'enquête. Cela est en particulier
+le cas lorsqu'il décide de l'ouverture d'une instruction (qui suppose l'existence de soupçons
+suffisants au sens de l'art. 309 al. 1 CPP) ou lorsqu'il ordonne des mesures de contrainte. Tout en disposant,
+dans le cadre de ses investigations, d'une certaine liberté, le magistrat reste tenu à un devoir
+de réserve. Il doit s'abstenir de tout procédé déloyal, instruire tant à charge
+qu'à décharge et ne point avantager une partie au détriment d'une autre (ATF 141 IV 178
+consid. 3.2.2; 138 IV 142 consid. 2.1; TF 1B_46/2016 du 29 avril 2016 consid. 3.1 et les références
+citées).
+2.3
+En l’espèce, le requérant n’avance
+aucun élément susceptible d’étayer un tant soit peu sérieusement sa requête
+de récusation. D'une part, s'agissant des prétendues difficultés d'adressage des courriers,
+il faut constater que la Procureure a utilisé, pour notifier l'ordonnance pénale, l'adresse
+indiquée et utilisée par le requérant lui-même pour correspondre avec le Ministère
+public. Ce premier motif est ainsi invoqué de manière abusive. D'autre part, contrairement
+à ce que semble encore alléguer le requérant, celui-ci a été formellement entendu
+par la police durant l'enquête le 3 octobre 2018, soit avant que la Procureure statue (cf. PV aud.
+2). A cet égard, il faut observer que l’ordonnance pénale constitue une proposition de
+règlement extrajudiciaire d’une affaire pénale, qui peut être contestée par
+une opposition ayant pour effet de déclencher la procédure judiciaire (Moreillon/Parein-Reymond,
+Petit commentaire, Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 3 ad art. 354 CPP et les réf.), elle peut ainsi être rendue sans
+même que le prévenu soit entendu par le procureur (Moreillon/Parein-Reymond, op. cit. n. 9
+ad art. 352 CPP). Enfin, le requérant ne développe absolument aucune argumentation en lien
+avec l'attestation médicale qu'il a produite.
+Il résulte de ce qui précède que la demande de récusation présentée par
+V.________ contre Myriam Bourquin, Procureure de l’arrondissement de l'Est vaudois, manifestement
+abusive, est irrecevable.
+3.
+Les frais de la présente procédure, constitués en l’espèce du seul émolument
+de décision (art. 422 al. 1 CPP), par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront mis
+à la charge du requérant, conformément à l’art. 59 al. 4 CPP.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation présentée par V.________ contre la Procureure Myriam Bourquin
+est irrecevable.
+II.
+Les frais de décision, par 880 fr. (huit cent huitante francs), sont mis à la charge de V.________.
+III.
+La décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+V.________,
+-
+Ministère public central,
+et communiquée à :
+-
+Mme la Procureure de l'arrondissement de l'Est vaudois,
+-
+Mme la Présidente du Tribunal d'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
