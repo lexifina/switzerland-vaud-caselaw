@@ -1,0 +1,416 @@
+---
+decision_id: "vd_findinfo_Plainte___2019___62"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2019 / 62"
+decided: "2019-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7510313"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-022.md", "switzerland/bund/acts/281.1/art-092.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/831.30/art-012.md", "switzerland/bund/acts/832.20/art-018.md", "switzerland/bund/acts/832.20/art-019.md", "switzerland/bund/acts/832.20/art-020.md", "switzerland/bund/acts/832.20/art-023.md", "switzerland/bund/acts/832.20/art-050.md"]
+---
+
+# VD Findinfo Plainte / 2019 / 62
+
+## Regeste
+
+SAISISSABILITÉ RELATIVE, RENTE D'INVALIDITÉ, LOI FÉDÉRALE SUR L'ASSURANCE-ACCIDENTS | 18 al. 1 LP, 93 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.12.2019 Plainte / 2019 / 62
+
+SAISISSABILITÉ RELATIVE, RENTE D'INVALIDITÉ, LOI FÉDÉRALE SUR L'ASSURANCE-ACCIDENTS | 18 al. 1 LP, 93 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA19.026725-191447
+59
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 décembre 2019
+_______________________
+Composition
+:               Mme
+Byrde
+,
+présidente
+Mme
+Rouleau et M. Maillard, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+18 al. 1 et 93 al. 1 LP
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+H.________
+,
+à [...], contre la décision rendue le 13 septembre 2019, à la suite de l’audience
+du 9 juillet 2019, par la Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+autorité inférieure de surveillance, statuant sur la plainte déposée par la recourante
+contre les décisions de saisie de salaire prises par l’
+Office
+des poursuites du district du Gros-de-Vaud
+dans
+le cadre de la continuation de la poursuite n° 9'133'493 exercée contre elle à l’instance
+de
+K.________AG
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+H.________
+fait l’objet d’une saisie pour un
+montant de 22'343 fr.
+10,
+dans la poursuite n° 9'133'493 de l’Office des poursuites du district du Gros-de-Vaud
+(
+ci-après :
+l’Office) exercée contre elle à l’instance de K.________AG. Dans ce cadre, l’Office
+a rendu le 7 juin 2019 une « décision de saisie de salaire », portant sur la
+saisie d’un montant de 1'300 fr. par mois à prélever dès le 1
+er
+juillet 2019 sur les indemnités versées à la débitrice par Zurich Compagnie d’assurances
+au titre de rente d’invalidité de l’assurance-accidents obligatoire (art. 18 LAA [loi
+fédérale sur l’assurance-accidents ; RS 832.20]).
+Le calcul du minimum d’existence établi par l’Office était le suivant :
+Revenus
+Rente
+AVS
+Fr.   923.00
+Rente
+accident
+Fr. 1919.00
+Allocations
+pour impotent
+Fr.
+812.00
+Fr. 3654.00
+Charges
+Base
+mensuelle
+Fr. 1200.00
+Loyer
+(charges comprises)
+Fr.   720.00
+Prime
+d’assurance maladie (subsidiée)
+Fr.       0.00
+Déplacements
+(voiture nécessaire selon certificat médical)
+Fr.   174.40
+Frais
+médicaux et dentaires
+Fr.
+150.00
+Fr. 2244.40
+Montant
+mensuel saisissable :
+Fr.
+1409.60
+b)
+Le 13 juin 2019, H.________ a saisi la Présidente
+du Tribunal d’arrondissement de La Broye et du Nord vaudois, autorité inférieure de surveillance,
+d’une plainte contre la décision de l’Office, invoquant l’insaisissabilité
+de sa rente d’invalidité et contestant en outre le calcul de son minimum vital.
+L’Office a déposé des déterminations le 2 juillet 2019, concluant au rejet de la
+plainte « en tant qu’elle se rapporte à l’insaisissabilité des prestations
+versées par la Zurich Compagnie d’assurances ».
+L’audience de plainte a eu lieu le 9 juillet 2019 en présence de la plaignante et du préposé
+de l’Office. Un délai au 12 juillet 2019 a été imparti à la plaignante pour
+produire certains documents, à réception desquels l’Office serait interpellé. Il
+s’agissait de « tout document attestant les raisons pour lesquelles elle loue un local
+à M. [...] », de la police d’assurance maladie obligatoire, avec indication du montant
+de la prime 2019 et de la décision d’octroi d’un subside pour le paiement des primes
+d’assurance. Les comparants ont été informés qu’à réception des
+déterminations de l’Office, la décision serait rendue sans nouvelle audience.
+c)
+Le 23 août 2019, l’Office a rendu une nouvelle « décision de saisie de salaire »,
+abaissant le montant à saisir à 1'100 fr. par mois, sur la base du calcul du minimum d’existence
+suivant :
+Revenus
+Rente
+AVS
+Fr.   923.00
+Rente
+accident
+Fr. 1919.00
+Allocations
+pour impotent
+Fr.
+812.00
+Fr. 3654.00
+Charges
+Base
+mensuelle
+Fr. 1200.00
+Loyer
+(charges comprises)
+Fr.   720.00
+Prime
+d’assurance maladie (solde subsidié)
+Fr.
+42.50
+Déplacements
+(voiture nécessaire selon certificat médical)
+Fr.   174.40
+Frais
+médicaux et dentaires
+Fr.   150.00
+Loyer
+location box de stockage
+Fr.
+150.00
+Fr. 2436.90
+Montant
+mensuel saisissable :
+Fr.
+1217.10
+d)
+Invitée à se déterminer à
+la suite de cette nouvelle décision, la plaignante, par lettre du 4 septembre 2019, a déclaré
+maintenir sa plainte, invoquant derechef l’insaisissabilité de sa rente d’invalidité.
+2.
+Par décision rendue sans frais ni dépens le 13 septembre 2019, notifiée le 19 septembre
+2019 à la plaignante, la Présidente du Tribunal d’arrondissement de La Broye et du Nord
+vaudois, autorité inférieure de surveillance, a constaté que la plainte n’avait
+plus d’objet en tant qu’elle était dirigée contre la décision de saisie de
+salaire du 7 juin 2019 et l’a rejetée en tant qu’elle était dirigée contre
+la décision de saisie de salaire du 23 août 2019.
+En bref, la présidente a considéré que la rente d’invalidité LAA de la plaignante
+était relativement saisissable, selon l’art. 93 al. 1 LP (loi fédérale sur
+la poursuite pour dettes et la faillite ; RS 281.1), et que le calcul du minimum vital effectué
+par l’Office dans sa nouvelle décision du 23 août 2019, qui avait remplacé celle
+du 7 juin 2019, était adéquat.
+3.
+Par acte du 24 septembre
+2019, la plaignante a recouru contre cette décision, concluant à ce qu’il plaise à
+la cour de céans prononcer son annulation et l’insaisissabilité de la rente, « et
+par conséquent débouter la demande de la banque concernée en lui remettant un acte de
+défaut de biens ».
+Par lettre du 9 octobre 2019, soit dans le délai de réponse fixé au 15 octobre 2019,
+l’Office s’est référé aux déterminations qu’il avait produites
+en première instance.
+La créancière K.________AG n’a pas procédé.
+En droit :
+I.
+Formé dans les dix jours suivant la notification de la décision attaquée (art. 18 al.
+1 LP et 28 al. 1 LVLP [loi d’application dans le canton de Vaud de la LP ; BLV 280.05]) par
+acte comportant l’énoncé des moyens invoqués (TF 5A_118/2018 du 7 février 2018
+consid. 4.1), le recours a été déposé en temps utile et dans les formes requises.
+Il est ainsi recevable.
+Il en va de même des déterminations de l’Office (art. 31 al. 1 LVLP).
+II.
+La recourante ne conteste plus le calcul de son minimum vital.
+Ce calcul ne prête pas le flanc à la critique et peut être confirmé, sous réserve
+de la détermination du montant mensuel saisissable, dépendant de la question de la saisissabilité
+de la rente d’invalidité examinée ci-après.
+III.
+a)
+La recourante se plaint tout d’abord
+de n’avoir pas pu s’expliquer en audience.
+b)
+aa)
+La procédure de plainte est régie par la maxime inquisitoire et le principe de disposition.
+L'autorité de surveillance constate donc les faits d'office et, sous réserve d'un cas de nullité
+(art. 22 al. 1 LP), elle est liée par les conclusions des parties (art. 20a al. 2 ch. 3 LP ;
+ATF 142 III 234 consid. 2.1 ; TF 5A_43/2019 du 16 août 2019 consid. 4.2). La maxime inquisitoire
+impose à l'autorité de surveillance de diriger la procédure, de définir les faits
+pertinents et les preuves nécessaires, d'ordonner l'administration de ces preuves et de les apprécier
+d'office. L'autorité doit établir d'elle-même les faits pertinents dans la mesure qu'exige
+l'application correcte de la loi et ne peut se contenter d'attendre que les parties lui demandent d'instruire
+ou lui apportent spontanément les preuves idoines. Les parties intéressées à une
+procédure d'exécution forcée n'en sont pas moins tenues de collaborer à l'établissement
+des faits ; il en est ainsi, notamment, lorsque la partie saisit dans son propre intérêt
+les autorités de surveillance ou qu'il s'agit de circonstances qu'elle est la mieux à même
+de connaître ou qui touchent à sa situation personnelle, surtout lorsqu'elle sort de l'ordinaire
+(ATF 123 III 328 consid. 3 ; TF 5A_43/2019 précité consid. 4.2 ; TF 5A_253/2015 du
+9 juin 2015 consid. 4.1 et les autres références).
+bb)
+Selon l’art. 21 al. 1 LVLP, le président du tribunal saisi de la plainte fixe une audience,
+à laquelle il convoque les parties ou leurs mandataires et le préposé à l’office
+intimé.
+c)
+En l’espèce, une audience a eu lieu
+le 9 juillet 2019, à laquelle la recourante était présente, ainsi que le préposé
+à l’Office.
+Le
+procès-verbal de l’audience indique que les comparants ont été entendus et qu’un
+délai au 12 juillet 2019 a été imparti à la recourante pour produire des documents
+relatifs à certaines de ses charges. Il précise en outre qu’après remise des documents,
+suivie des déterminations de l’Office à leur sujet, la décision sera rendue sans
+audience et communiquée par écrit aux parties. Les comparants ont reçu une copie du procès-verbal
+avant la clôture des débats. Certes, il n’y a pas eu d’audience après la nouvelle
+décision rendue par l’Office le 23 août 2019 - fondée sur un calcul du minimum vital
+plus favorable à la recourante, en tenant compte des documents que celle-ci avait produits –,
+mais l’intéressée a été invitée à se déterminer. Elle l’a
+fait par lettre du 4 septembre 2019, dans laquelle elle a déclaré maintenir sa plainte pour
+le motif d’insaisissabilité de sa rente d’invalidité et relevé qu’elle
+avait déjà exposé « les raisons qui militaient à considérer les rentes
+servies par la Zurich assurances au regard de l’art. 92 LP et de la jurisprudence qui s’y
+rapporte ».
+L’autorité inférieure a respecté les maximes précitées (cf. supra let. b)aa)).
+Elle a établi les faits pertinents dans la mesure exigée par l’application du droit et
+a examiné les questions soulevées dans la plainte, tant du caractère saisissable de la
+rente d’invalidité que de la conformité du calcul du minimum d’existence aux lignes
+directrices en la matière. L’état de fait établi était suffisant pour juger
+et aucun élément n’a été pris en considération sur lequel la recourante
+n’aurait pas pu se déterminer. On ne voit dès lors pas sur quel fait pertinent l’intéressée
+aurait été empêchée de s’expliquer et celle-ci ne le précise d’ailleurs
+pas.
+Le moyen tiré d’une prétendue violation du droit d’être entendu doit être
+rejeté.
+IV.
+a)
+La recourante soutient que le caractère
+relativement saisissable des rentes des assurances sociales ne concerne que celles qui ont le caractère
+de succédané de salaire ; tel ne serait pas le cas de sa rente d’invalidité
+LAA, dès le moment où elle a atteint l’âge de la retraite. Elle invoque aussi le
+fait que la rente « censée compenser une partie de (son) revenu ne (l’)a pas du
+tout protégée en ce qui concerne (sa) sécurité sociale pour l’avenir et en
+particulier le régime de l’AVS ». Le fait que sa rente AVS n’est que de 923
+fr. serait la preuve flagrante de l’inapplicabilité de l’ATF 130 III 400 à son
+cas, puisque, si elle avait été en mesure de travailler, elle percevrait une rente AVS de 2'370
+francs.
+b)
+Les principes juridiques exposés dans la décision attaquée sont pertinents. Ils résultent
+notamment de l’ATF 134 III 182 (consid. 4 et 5 et les références citées), jurisprudence
+confirmée par la suite, notamment dans les arrêts TF 5A_680/2015 du 6 novembre 2015 consid.
+4, TF 5A_642/2016 du 12 octobre 2016 consid. 2 et TF 5A_262/2018 du 4 juin 2018 consid. 3.5.
+Selon l'art. 93 al. 1 LP, les pensions et prestations destinées à couvrir une perte de gain,
+en particulier les rentes et indemnités en capital qui ne sont pas insaisissables en vertu de l'art.
+92 LP, peuvent notamment être saisies, déduction faite de ce que le préposé estime
+indispensable au débiteur et à sa famille.
+L'art. 92 al. 1 ch. 9 LP déclare (absolument) insaisissables les rentes, indemnités en capital
+et autres prestations allouées à la victime ou à ses proches pour lésions corporelles,
+atteinte à la santé ou mort d'homme, en tant qu'elles constituent une indemnité à
+titre de réparation morale, sont destinées à couvrir les frais de soins ou l'acquisition
+de moyens auxiliaires. Cette disposition a été modifiée lors de la révision de la
+LP de 1994, entrée en vigueur le 1
+er
+janvier 1997, modification qui avait entraîné une adaptation de l'art. 50 LAA (loi fédérale
+sur l’assurance-accidents ; RS 832.20), lequel disposait alors expressément que les prestations
+au sens de la LAA - versées et exigibles - étaient insaisissables, mais seulement dans les
+limites de l'art. 92 al. 1 ch. 9 LP. Le Message du Conseil fédéral du 8 mars 1991 (FF 1991
+III 1 ss, p. 93) précisait ainsi que « sont désormais relativement saisissables en
+vertu de l'art. 93 al. 1 LP [notamment] la rente d'invalidité (cf. art. 18 ss LAA) ou l'indemnité
+en capital qui la remplace (cf. art. 23 LAA) ». Lors de l'adoption de la loi fédérale
+du 6 octobre 2000 sur la partie générale du droit des assurances sociales (LPGA ; RS 830.1),
+entrée en vigueur le 1
+er
+janvier 2003, l'art. 50 LAA a été modifié et règle désormais un autre problème.
+Il n'en résulte toutefois aucune modification quant au statut desdites prestations, la question
+de leur saisissabilité étant réglée directement par la LP, au lieu de l'être
+sur renvoi de la LAA. Ainsi, comme sous l'empire de l'art. 50 aLAA, la rente d'invalidité de l'art.
+18 LAA n'est pas absolument insaisissable au sens de l'art. 92 al. 1 ch. 9 LP puisqu'elle n'est pas destinée
+à réparer le tort moral, ni à couvrir des frais de soins ou de moyens auxiliaires.
+Comme cela
+ressort des art.
+19 et 20 LAA, la rente d'invalidité est en effet une indemnité pour perte de gain ; elle
+est calculée en pourcentage du gain assuré (art. 20 al. 1 LAA) et lorsqu'elle naît, le
+droit au traitement médical s'éteint (art. 19 al. 1 LAA). La révision de la LP a
+adopté pour principe que les rentes des assurances sociales sont relativement saisissables dans
+la mesure où elles ont le caractère de succédané du salaire (ATF 130 III 400 consid.
+3.3.2). Certes, les rentes AVS et AI sont absolument insaisissables, en vertu de l'art. 92 al. 1 ch.
+9a LP ; la raison en est qu'elles ne couvrent que le minimum vital du débiteur et que, par
+conséquent, une discussion sur leur saisissabilité n'aurait pas de sens (même arrêt,
+consid. 3.3.2 et 3.3.4). Un traitement différent se justifie par contre pour les autres rentes des
+assurances sociales, comme la rente d'invalidité de l'assurance-accidents obligatoire, dont le montant
+calculé en pour-cent du gain assuré dépasse généralement le minimum vital. Lorsque
+l'assuré a droit à une rente AVS ou AI, la rente d'invalidité de la LAA est fixée
+comme une rente complémentaire, conformément à l'art. 20 al. 2 LAA, de façon à
+éviter la surindemnisation. Il ne s'agit toutefois pas d'une prestation complémentaire au sens
+de la loi fédérale du 6 octobre 2006 sur les prestations complémentaires à l'AVS
+et à l'AI (LPC ; RS 831.30), qui ne vise que les prestations complémentaires au sens de
+cette loi, lesquelles sont soustraites à toute exécution forcée (art. 12 LPC) et insaisissables
+en vertu de l'art. 92 al. 1 ch. 9a LP.
+Lorsque, comme en l'espèce, la partie poursuivie bénéficie d'une rente AVS et d'une rente
+d'invalidité de l'art. 18 LAA, la première est (absolument) insaisissable (art. 92 al. 1 ch.
+9a LP) et la seconde relativement saisissable (art. 93 al. 1 LP). La rente AVS entre néanmoins en
+ligne de compte dans le calcul de la quotité saisissable. Elle doit être ajoutée au revenu
+relativement saisissable qu'est la rente d'invalidité LAA : le débiteur peut en effet
+subvenir à une partie de son
+entretien
+au moyen de la rente insaisissable AVS et n'a plus besoin, le cas échéant, de toute sa rente
+d'invalidité LAA pour couvrir la part restante de son minimum vital. L'insaisissabilité de
+la rente AVS au sens de l'art. 92 al. 1 ch. 9a LP a donc seulement pour effet que cette rente ne peut
+être elle-même saisie ; mais elle ne permet pas au débiteur d'exiger, en plus de
+cette dernière, une part de sa rente d'invalidité LAA qui correspond à son minimum vital
+(TF 5A_14/2007 du 14 mai 2007, consid. 3.1).
+c)
+Il résulte des considérations qui
+précèdent que l’autorité inférieure a jugé à bon droit que la rente
+d’invalidité LAA de la recourante était relativement saisissable.
+Si l’on suivait la recourante dans son premier argument, on devrait admettre qu’une personne
+retraitée, sans fortune et disposant uniquement de ses rentes AVS et LPP, ne pourrait pas faire
+l’objet d’une saisie. Il ressort au contraire du texte clair de l’art. 93 LP que les
+pensions et prestations « de toutes sortes » destinées à couvrir une perte
+de gain, en particulier les rentes qui ne sont pas insaisissables en vertu de l’art. 92 LP, sont
+relativement saisissables. L’art. 92 LP rend insaisissables les rentes AVS, mais pas les rentes
+LPP, lesquelles sont bien des rentes destinées à couvrir une perte de gain, survenue le cas
+échéant en raison de l’âge, soit de l’accession à l’âge de
+la retraite. La recourante admet d’ailleurs que sa rente d’invalidité LAA était
+censée compenser une partie de son revenu.
+Par ailleurs, s’il est vrai qu’une personne empêchée de travailler en raison d’une
+invalidité est généralement désavantagée par rapport à une personne active
+en ce qui concerne ses possibilités de se constituer une retraite, force est de constater que ce
+problème d’ordre général n’empêche pas, sous l’angle de l’application
+de la LP, le cumul des diverses rentes perçues par le débiteur saisi. En l’espèce,
+ce cumul donne une somme de 3'654 fr., qui dépasse le minimum vital de la recourante arrêté
+à 2'436 fr. 90, de sorte qu’une saisie mensuelle de 1'100 fr. par mois est possible sans porter
+atteinte à ce minimum vital. Si la recourante avait pu travailler jusqu’à percevoir une
+rente AVS de 2'370 fr. et une rente LPP, la première couvrirait presque la totalité de son
+minimum vital, ce qui aurait alors pour conséquence qu’une part plus importante de la seconde
+pourrait être saisie. La recourante ne subit donc ici aucun préjudice particulier dû à
+sa situation de personne invalide de longue date plutôt que de personne active, seule étant
+assurée dans les deux cas par la LP la couverture du minimum vital.
+V.
+En conclusion, le recours doit être rejeté
+et le prononcé de l’autorité inférieure de surveillance confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+La
+présidente :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme H.________,
+‑
+K.________AG,
+-
+M. le Préposé à l’Office des poursuites du district du Gros-de-Vaud.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
