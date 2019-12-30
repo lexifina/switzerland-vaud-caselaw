@@ -1,0 +1,129 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 10"
+decided: "2019-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7544633"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-083.md"]
+---
+
+# VD Findinfo Décision / 2020 / 10
+
+## Regeste
+
+RECTIFICATION DE LA DÉCISION, DÉPENS | 83 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.12.2019 Décision / 2020 / 10
+
+RECTIFICATION DE LA DÉCISION, DÉPENS | 83 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1047
+PE16.024158-STL
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+30 décembre 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président
+Mme
+Byrde et M. Perrot, juges
+Greffier :
+M.
+Magnin
+*****
+Art.
+83 CPP
+Statuant sur la demande de rectification de la décision rendue le 5 décembre 2019 dans la cause
+n° PE16.024158-STL
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par décision du 5 décembre 2019 (n° 971), la Chambre des recours pénale du Tribunal
+cantonal a déclaré irrecevable la demande de récusation présentée le 30 septembre
+2019 par le Ministère public central, division affaires spéciales, à l’encontre
+de l’expert G.________ (I) a dit que les frais de la décision, par 880 fr., étaient laissés
+à la charge de l’Etat (II) et a dit que la décision était exécutoire (III).
+2.
+Par courrier du 19 décembre 2019, l’avocat
+O.________, agissant pour le compte de I.________, a observé que la décision du 5 décembre
+2019 était incomplète, dans la mesure où elle ne lui allouait pas de dépens. A l’appui
+de son affirmation, il a relevé que, dans ses déterminations du 14 octobre 2019, il avait expressément
+conclu à l’allocation de dépens. L’avocat O.________ a donc demandé que la
+décision du 5 décembre 2019 soit complétée en ce sens.
+3.
+Selon l'art. 83 al. 1 CPP, l'autorité pénale qui a rendu un prononcé dont le dispositif
+est peu clair, contradictoire ou incomplet ou qui est en contradiction avec l'exposé des motifs
+l'explique ou le rectifie à la demande d'une partie ou d'office.
+4.
+En l’espèce, I.________ a effectivement requis l’allocation de dépens dans le cadre
+de ses déterminations du 14 octobre 2019. Par ailleurs, dès lors que l’intéressé
+a conclu au rejet de la demande de récusation concernée et que l’autorité de céans
+a ensuite déclaré celle-ci irrecevable, il y a lieu de considérer que I.________ a obtenu
+gain de cause, de sorte que le prénommé a droit à l’allocation d’une indemnité
+pour les dépenses occasionnées par la procédure de récusation. Or, par inadvertance
+manifeste, l’autorité de céans a omis de lui en allouer une. Il convient donc de compléter
+le dispositif de la décision du 5 décembre 2019 en application de l’art. 83 CPP (CREP
+2 novembre 2018/831).
+Au vu des pièces produites par l’avocat de I.________ dans le cadre de la procédure de
+récusation, l’indemnité sera fixée à 600 fr., correspondant à 2 heures
+d’activité au tarif horaire d’avocat de 300 fr. (art. 26a al. 3 TFIP), auxquels
+il convient d’ajouter des débours forfaitaires à concurrence de 2% (art. 19 al. 2 TDC,
+applicable par renvoi de l’art. 26a al. 6 TFIP), par 12 fr., plus un montant correspondant à
+la TVA, par 47 fr. 10, soit 659 fr. 10 au total. Elle sera mise à la charge de l’Etat.
+La décision du 5 décembre 2019 sera rectifiée en ce sens par l’ajout d’un
+chiffre IIbis à son dispositif.
+5.
+Le présent prononcé rectificatif sera
+rendu sans frais.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La décision rendue le 5 décembre 2019 par la Chambre des recours pénale du Tribunal cantonal
+est complétée par l’ajout du chiffre IIbis suivant :
+« IIbis.
+Une indemnité de 659 fr. 10 (six cent cinquante-neuf francs et dix centimes) est allouée à
+I.________, à la charge de l’Etat. »
+.
+II.
+Le présent prononcé rectificatif, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me O.________, avocat (pour I.________),
+-
+M. G.________,
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur du Ministère public central, division affaires spéciales,
+-
+M. le Président du Tribunal de police de l’arrondissement de la Broye et du Nord vaudois,
+par l’envoi de photocopies.
+Le présent prononcé peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
