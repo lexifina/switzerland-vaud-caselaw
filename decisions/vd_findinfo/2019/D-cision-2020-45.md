@@ -1,0 +1,247 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___45"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 45"
+decided: "2019-12-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7913956"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-189.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2020 / 45
+
+## Regeste
+
+NON-LIEU, ADMISSION DE LA DEMANDE | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.12.2019 Décision / 2020 / 45
+
+NON-LIEU, ADMISSION DE LA DEMANDE | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1043
+PE18.013368-HNI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 décembre 2019
+__________________
+Composition
+:               M.
+Meylan
+,
+président.
+M.
+Krieger, juge, et Mme Epard, juge suppléante
+Greffier
+:              M.
+Petit
+*****
+Art.
+310 CPP
+Statuant sur le recours interjeté le 25 novembre 2019 par K.________ contre l'ordonnance de non-entrée
+en matière rendue le 11 novembre 2019 par le Ministère public de l’arrondissement de
+l'Est vaudois dans la cause
+n° PE18.013368-HNI
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+T.________ et K.________ étaient tous
+deux employés de l'EMS [...] à [...].
+K.________ a été licencié au mois de février 2018, après que T.________ et une
+stagiaire de l'EMS se soient plaintes auprès de la direction de son comportement.
+b)
+Le
+13 mars 2018, K.________ a déposé plainte contre T.________ pour diffamation ou calomnie. Cette
+dernière a été entendue par la police ensuite de cette plainte le 27 mars 2018. Elle a
+notamment dit avoir été victime d'attouchements de la part du prénommé.
+c)
+Le 14 juin 2018, T.________ a déposé plainte pénale contre K.________. Elle lui reprochait
+en substance de l'avoir importunée à plusieurs reprises sur leur lieu de travail.
+- En septembre ou octobre 2016, K.________ serait venu se frotter à elle, par derrière, lorsqu'elle
+était en train de refaire le lit dans la chambre d'une résidente. Elle aurait pu sentir son
+sexe en érection contre ses fesses. Il lui aurait en outre touché les seins, par-dessus les
+vêtements, durant deux minutes. Elle n'aurait pas immédiatement réagi mais lui aurait
+finalement dit "Lâche-moi !", ordre auquel il aurait immédiatement obtempéré.
+- En février ou mars 2017, K.________ serait venu dans une chambre où la plaignante était
+en train de prodiguer des soins à une patiente en état végétatif, aujourd'hui décédée.
+Il serait arrivé par derrière, lui aurait déboutonné sa blouse à pressions d'un
+geste sec, puis aurait mis ses mains sur ses seins, par-dessus le soutien-gorge. Elle l'aurait alors
+repoussé des deux mains en lui disant de dégager car elle était vierge, et il aurait quitté
+la chambre en s'excusant.
+- En 2017, quelques mois plus tard, K.________ aurait appelé T.________ pour qu'elle vienne l'aider
+dans une chambre vide. Alors qu'elle l'aurait suivi à cet endroit, il l'aurait poussée sur
+un lit, sans la toucher, alors qu'elle lui disait "Dégage ! Arrête de me toucher".
+Le prévenu aurait obtempéré en la laissant sur le lit.
+- A la fin de l'année 2017, K.________ aurait enfermé la plaignante dans la chambre d'une patiente,
+l'aurait poussée contre le lit qu'elle était en train de refaire et se serait allongé
+sur elle, face à elle, avant de "malaxer" ses seins avec les deux mains, par-dessus les
+vêtements. Il aurait essayé, sans y parvenir, de baisser le pantalon de la jeune femme avant
+de quitter la pièce, en disant qu'il allait chercher un préservatif.
+- En janvier 2018, alors que T.________ était dans la chambre d'un résident sénile, K.________
+se serait mis derrière elle et lui aurait touché les seins par-dessus ses vêtements, avant
+de mettre les deux mains dans le pantalon de la jeune femme et de lui toucher les fesses à même
+la peau.
+- K.________ aurait en outre touché les seins de la plaignante par-dessus les vêtements dans
+la salle du personnel, alors qu'elle faisait la sieste, en novembre et en janvier 2018.
+Le 18 juillet 2018, le Ministère public de l'arrondissement de l'Est vaudois (ci-après: le
+Ministère public) a ouvert une instruction pénale, sous référence PE 18.013282-HNI,
+contre K.________ en raison des faits qui précèdent,
+d)
+Par ordonnance du 27 mars 2019, le Ministère public de a notamment ordonné le classement de
+la procédure dirigée contre K.________ sous référence PE 18.013282-HNI pour contravention
+à l'intégrité sexuelle.
+Par arrêt du 19 août 2019, la Chambre des recours pénale du Tribunal cantonal a notamment
+admis le recours de T.________, annulé l'ordonnance de classement précitée et renvoyé
+la cause au Ministère public pour qu'il procède dans le sens de des considérants. Dans
+son arrêt, l'autorité de recours a notamment retenu que les faits dénoncés étaient
+susceptibles de tomber sous le coup de l'art. 189 CP (Code pénal suisse du 21 décembre 1937;
+RS 311.0), infraction poursuivie d'office, et qu'un classement de la procédure en application des
+art. 319 al. 1 let. d CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0) et
+31 CP (plainte tardive entraînant un obstacle à la procédure pénale) était exclu.
+B.
+Par ordonnance du 11 novembre 2019, le Ministère
+public de l’arrondissement de l'Est vaudois a refusé d’entrer en matière sur la
+plainte de K.________ (I) et a laissé les frais à la charge de l’Etat (II).
+Dans son ordonnance, le Procureur a considéré que les éléments constitutifs de l'infraction
+de diffamation ou calomnie n'étaient manifestement pas réunis en ce sens que K.________ faisait
+l'objet d'une enquête pénale en cours pour contrainte sexuelle à l'égard de T.________
+sous référence PE18.013282-HNI, ajoutant qu'une mise en accusation de ce dernier devant le
+Tribunal était prévisible. Pour le magistrat, T.________ n'avait manifestement pas porté
+atteinte à l'honneur du plaignant en faisant part des faits dont elle avait été victime.
+C.
+Par acte du 25 novembre 2019, K.________ a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant, avec suite de frais et dépens, à
+son annulation et au renvoi de la cause au Ministère public pour instruction pénale. A l’appui
+de son recours, il a produit un lot de pièces sous bordereau dont la plupart sont nouvelles. A titre
+de mesure d'instruction, il a requis la production du dossier pénal PE 18.013282-HNI en mains du
+Ministère public.
+Le 19 décembre 2019, le Ministère public a informé qu'il n'avait pas de déterminations
+particulières à faire valoir et s'est référé à la motivation de son ordonnance.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le ministère public (art. 310 CPP) dans les dix jours
+devant l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP; cf. art. 20 al.
+1 let. b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal
+(art. 13 LVCPP [Loi d’introduction du Code de procédure pénale suisse du 19 mai 2009;
+BLV 312.01]; art. 80 LOJV [Loi d’organisation judiciaire du 12 décembre 1979; BLV 173.01]).
+Interjeté dans le délai légal et dans les formes prescrites (art. 385 al. 1 CPP) auprès
+de l’autorité compétente, par la partie plaignante qui a qualité pour recourir (art.
+382 al. 1 CPP; ATF 140 IV 155 consid. 3.3.1), le recours de K.________ est recevable.
+Les pièces nouvelles sont également recevables (art. 390 al. 4
+in
+fine
+CPP; Moreillon/Parein-Reymond, Code de procédure
+pénale, Petit commentaire,
+2
+e
+éd., Bâle 2016, n. 8 ad art. 385 CPP; CREP 9 juillet 2012/427 consid. 1b et les réf.
+citées).
+2.
+Conformément à l'art. 310 al. 1 let.
+a CPP, le Ministère public rend immédiatement – c'est-à-dire sans qu'une instruction
+soit ouverte (art. 309 al. 1 et 4 CPP; TF 1B_111/2012 du 5 avril 2012 consid. 2.1; Cornu, in: Kuhn/Jeanneret
+[éd.], Commentaire romand, Code de procédure pénale suisse, Bâle 2011, n. 2 ad art.
+310 CPP) – une ordonnance de non-entrée en matière lorsqu'il apparaît, à réception
+de la dénonciation (cf. art. 301 et 302 CPP) ou de la plainte (Cornu, op. cit., nn. 1 et 2 ad art.
+310 CPP) ou après une procédure préliminaire limitée aux investigations de la police
+(art. 300 al. 1 let. a, 306 et 307 CPP), que les éléments constitutifs d'une infraction ou
+les conditions d'ouverture de l'action pénale ne sont manifestement pas réunis (TF 6B_1238/2018
+du 16 janvier 2019 consid. 3.1; TF 1B_709/2012 du 21 février 2013 consid. 3.1). Selon cette
+disposition, il importe donc que les éléments constitutifs de l'infraction ne soient manifestement
+pas réunis. En d'autres termes, il faut être certain que l'état de fait ne constitue aucune
+infraction (ATF 137 IV 285 consid. 2.3). Une ordonnance de non-entrée en matière ne peut être
+rendue que dans les cas clairs du point de vue des faits, mais également du droit; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+143 IV 241 consid. 2.2.1; ATF 138 IV 86 consid. 4.1.2; ATF 137 IV 285 consid. 2.3 et les réf. citées,
+JdT 2012 IV 160). En revanche, le Ministère public doit pouvoir rendre une ordonnance de non-entrée
+en matière dans les cas où il apparaît d’emblée qu’aucun acte d’enquête
+ne pourra apporter la preuve d’une infraction à la charge d’une personne déterminée
+(TF 6B_541/2017 du 20 décembre 2017 consid. 2.2).
+3.
+En l'espèce, l'enquête ouverte contre
+le recourant sous référence PE18.013282-HNI étant encore en cours, on ne saurait considérer
+que les faits sont clairement établis et que le recourant s'est manifestement rendu coupable de
+l'infraction qui lui est reprochée. On relèvera à ce propos que le Procureur avait dans
+un premier temps rendu une ordonnance de classement en faveur de K.________.
+Dès lors, on doit considérer que les conditions d'une non-entrée en matière ne sont
+pas remplies et que le Procureur doit ouvrir une instruction, quitte à suspendre jusqu'à droit
+connu sur l'enquête menée contre K.________ sous référence PE18.013282-HNI.
+4.
+En définitive, le recours de K.________ doit
+être admis, l’ordonnance querellée annulée et le dossier de la cause renvoyé
+au Ministère public de l’arrondissement de l'Est vaudois pour qu’il ouvre une instruction
+pénale et procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 770 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront laissés
+à la charge de l’Etat (art. 428 al. 4 CPP).
+Le recourant, qui obtient gain de cause et qui a procédé avec l’assistance d’un
+mandataire professionnel, a droit à une indemnité pour les dépenses occasionnées
+par l’exercice raisonnable de ses droits pour la procédure de recours. Au vu du mémoire
+produit, cette indemnité sera fixée à 600 fr. (2 heures à 300 fr.), auxquels il convient
+d’ajouter des débours forfaitaires à concurrence de 2 % (art. 19 al. 2 TDC [Tarif
+des dépens en matière civile du 23 novembre 2010; BLV 270.11.6], applicable par renvoi de l’art.
+26a al. 6 TFIP), par 12 fr., plus un montant correspondant à la TVA, par 47 fr. 10, soit 659 fr.
+10 au total. Elle sera laissée à la charge de l’Etat, en l’absence de partie succombante
+(TF 6B_265/2016 du 1
+er
+juin 2016 consid. 2.3 et 2.4
+in
+limine
+).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance du 11 novembre 2019 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de l’Est vaudois pour qu’il ouvre une instruction pénale
+et procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 770 fr. (sept cent septante francs), sont laissés à la charge
+de l’Etat.
+V.
+Une indemnité de 659 fr. 10 (six cent cinquante-neuf francs et dix centimes) est allouée à
+K.________ pour la procédure de recours, à la charge de l’Etat.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Gabrielle Weissbrodt, avocate (pour K.________),
+-
+Mme T.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
