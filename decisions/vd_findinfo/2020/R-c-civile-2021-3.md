@@ -1,0 +1,169 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2021___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2021 / 3"
+decided: "2020-01-12"
+published: "2021-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8179632"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2021 / 3
+
+## Regeste
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8a al. 4 CDPJ
+
+## Text
+
+Waadt Tribunal cantonal Cour administrative 12.01.2021 Réc-civile / 2021 / 3
+Vaud Tribunal cantonal Cour administrative 12.01.2021 Réc-civile / 2021 / 3
+Vaud Tribunal cantonal Cour administrative 12.01.2021 Réc-civile / 2021 / 3
+
+RÉCUSATION | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8a al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+MOR/015/19/0000028
+2
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 12 janvier 2020
+_______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              Mme
+Revey et M. Maillard
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+8a al. 3 et 4 CDPJ ; 47 al. 1 let. f et 49 al. 1 CPC
+Vu la procédure en contestation du loyer initial pendante devant la Commission de conciliation en
+matière de baux à loyer du district de [...] (ci-après : la commission de conciliation),
+introduite par les locataires V.________ et P.________ contre la bailleresse F.________,
+vu la participation comme témoin de la Préfète du district de [...] E.________ à
+la procédure pénale dirigée par les autorités genevoises contre le frère de
+la bailleresse F.________ et contre un gérant d’immeubles,
+vu la production par les locataires à l’audience du 29 octobre 2020 du jugement du Tribunal
+correctionnel du 20 mai 2020, sous sa forme anonymisée, condamnant le frère de F.________ et
+un gérant d’immeubles,
+vu la retranscription du témoignage de la Préfète E.________ en page 28 du jugement (cf.
+let. c.f), dans lequel elle déclare avoir connu le gérant d’immeubles en 2011, dans le
+cadre d’audiences de conciliation, avoir trouvé l’intéressé très agréable
+et conciliant et n’avoir jamais constaté de pratiques incorrectes voire illégales de
+sa part,
+vu le courrier du 26 novembre 2020 du conseil de F.________, dans lequel il demande la récusation
+de la commission de conciliation au motif de la participation de la préfète à la procédure
+pénale dirigée contre le frère de sa cliente, et dans lequel il indique n’avoir
+pas pu déposer sa demande plus tôt en raison d'une mise en isolement du 8 au 17 novembre 2020,
+vu les déterminations de la Préfète E.________ datées du 14 décembre 2020, dans
+lesquelles elle explique avoir effectivement été entendue comme témoin dans le cadre de
+la procédure pénale dirigée contre le frère de F.________, n’avoir toutefois
+pas eu accès au dossier pénal, avoir été entendue au sujet du gérant d’immeubles
+et n’avoir jamais rencontré le frère de la bailleresse,
+vu les pièces du dossier,
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+de F.________ visant l’ensemble des membres de la commission de conciliation (cf. art. 8a al. 3
+et 4 CDPJ [Code de droit privé judiciaire vaudois du 12 janvier 2010 ; BLV 211.02] et 6 al.
+1 let. a ROTC [règlement organique du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1]),
+qu’aux
+termes de l’art. 49 al. 1 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272), la partie qui entend obtenir la récusation d’un magistrat ou d’un fonctionnaire
+judiciaire la demande au tribunal aussitôt qu’elle a eu connaissance du motif de récusation,
+c'est-à-dire dans les jours qui suivent la connaissance de la cause de récusation (TF 5A_540/2020
+du 29 septembre 2020 consid. 3.2 et les réf citées),
+qu’en l’espèce,
+la demande de récusation a été adressée à l’autorité près d’un
+mois après l’audience du 29 octobre 2020 et une dizaine de jours après la fin de l’isolement
+du conseil de F.________, si bien qu’elle doit être considérée comme ayant été
+déposée à tard,
+que la demande de récusation est dès lors irrecevable,
+qu’à supposer
+recevable, la demande aurait de toute manière dû être rejetée pour les motifs suivants
+;
+attendu que le juge d'une cause civile est récusable
+dans les cas énumérés à l'art. 47 al. 1 let. a à e CPC ; il est aussi récusable,
+selon l'art. 47 al. 1 let. f CPC, s'il est « de toute autre manière » suspect
+de partialité, notamment en raison d’un rapport d’amitié ou d’inimitié
+avec une partie ou son représentant (TF 5A_843/2019 du 8 avril 2020 consid. 4.2.1),
+que selon la jurisprudence,
+cette disposition doit être appliquée dans le respect des principes de la garantie d'un tribunal
+indépendant et impartial instituée par les art. 6 par. 1 CEDH (Convention de sauvegarde des
+droits de l'homme et des libertés fondamentales du 4 novembre 1950 ; RS 0.101) et 30 al. 1
+Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999 ; RS
+101) (ATF 140 III 221 consid. 4.2 ; ATF 139 III 433 consid. 2.2
+in
+fine
+),
+que ladite garantie permet
+au plaideur d'exiger la récusation d'un juge dont la situation ou le comportement est de nature
+à faire naître un doute sur son impartialité ; elle tend notamment à éviter
+que des circonstances extérieures à la cause puissent influencer le jugement en faveur ou au
+détriment d'une partie. Elle n'impose pas la récusation seulement lorsqu'une prévention
+effective du juge est établie, car une disposition interne de sa part ne peut guère être
+prouvée ; il suffit que les circonstances donnent l'apparence de la prévention et fassent
+redouter une activité partiale du magistrat. Seules des circonstances constatées objectivement
+doivent être prises en considération ; les impressions purement individuelles d'une des
+parties au procès ne sont pas décisives (ATF 144 I 159 consid. 4.3 et les réf. citées ;
+TF 5A_843/2019, déjà cité, consid. 4.2.1 ; TF 5A_738/2017 du 25 octobre 2018
+consid. 3.1),
+attendu qu’en l’espèce, la bailleresse F.________ fait valoir que la commission de conciliation
+ne serait pas impartiale pour connaître de la procédure civile en contestation du loyer initial
+l’opposant aux locataires P.________ et V.________, compte tenu de la participation par la préfète
+à la procédure pénale dirigée contre son frère,
+que la préfète n’a pas été entendue au sujet du frère de la bailleresse
+mais du gérant d’immeubles,
+qu’à supposer recevable, la demande de récusation, manifestement mal fondée, aurait
+dès lors de toute manière dû être rejetée,
+qu’il n’y a donc pas lieu de recueillir les déterminations des autres parties mais de
+déclarer la demande irrecevable ;
+attendu que les frais judiciaires, arrêtés
+à 500 fr. (art. 28 TFJC [tarif des frais judiciaires civils du 28 septembre 2010 ; BLV 270.11.5],
+applicable par renvoi de l’art. 51 TFJC), seront mis à la charge de la requérante qui
+succombe (art. 106 al. 1 CPC),
+que les parties adverses n’ayant pas été invitées à se déterminer, il
+n’y a pas lieu à l’allocation de dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation présentée le 26 novembre 2020 par F.________ est irrecevable.
+II.
+Les frais d’arrêt, par 500 fr. (cinq cents francs), sont mis à la charge de F.________.
+III.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+-
+Me Nicolas Saviaux (pour F.________),
+-
+Me Adrienne Favre (pour V.________ et P.________),
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Préfète du district de [...].
+La greffière :
