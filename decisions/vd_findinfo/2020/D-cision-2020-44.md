@@ -1,0 +1,443 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___44"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 44"
+decided: "2020-01-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7580262"
+cites_law: ["switzerland/bund/acts/935.61/art-001.md", "switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/935.61/art-013.md", "switzerland/bund/acts/935.61/art-014.md", "switzerland/bund/acts/935.61/art-017.md"]
+---
+
+# VD Findinfo Décision / 2020 / 44
+
+## Regeste
+
+CONFLIT D'INTÉRÊTS, DEVOIR PROFESSIONNEL, AMENDE, AVOCAT | 12 let. c LLCA
+
+## Text
+
+Vaud Tribunal cantonal Chambre des avocats 14.01.2020 Décision / 2020 / 44
+
+CONFLIT D'INTÉRÊTS, DEVOIR PROFESSIONNEL, AMENDE, AVOCAT | 12 let. c LLCA
+
+TRIBUNAL
+CANTONAL
+1/2020
+CHAMBRE
+DES AVOCATS
+_______________________________
+Décision
+du 14 janvier 2020
+__________________
+Composition
+:               Mme
+COURBAT, présidente
+Mes
+Roux, Henny et Amy, membres, Me Kasser, membre suppléant
+Greffier
+:
+M.              Hersch
+*****
+La Chambre des avocats prend séance au Palais de justice de l'Hermitage, à Lausanne, pour statuer
+dans le cadre de l’enquête disciplinaire dirigée contre l’avocat
+D.________
+,
+à Lausanne.
+Délibérant à huis clos, la Chambre des avocats retient ce qui suit :
+En fait :
+1.
+D.________, né en [...], a obtenu le brevet d’avocat genevois en 1995. Il est inscrit au registre
+cantonal des avocats vaudois depuis 1995.
+Les antécédents disciplinaires de Me D.________ sont les suivants :
+- par décision du 30 septembre 2009, la Chambre des avocats a constaté que Me D.________ avait
+violé l’art. 12 let. a LLCA et l’a condamné à une amende de 3'000 francs ;
+- par décision du 22 août 2013, la Chambre des avocats a constaté que Me D.________ avait
+violé l’art. 12 let. a LLCA et l’a condamné à une amende de 500 francs ;
+- par décision du 2 février 2017, la Chambre de surveillance des avocats valaisans a constaté
+que Me D.________ avait violé l’art. 12 let. a LLCA et l’a condamné à
+une amende de 7'000 francs.
+2.
+La société O.________ SA a constitué
+une propriété par étages dans un immeuble de quatre appartements qu'elle a fait construire
+sur la parcelle n° [...] de la commune d'Ollon. Elle a vendu trois des unités de la propriété
+par étages à U.________, B.________ et T.________ et est restée propriétaire de la
+quatrième unité.
+3.
+Les 17 janvier et 9 décembre 2014, Me D.________, agissant pour la propriété par étages,
+a déposé une requête en inscription d'une hypothèque légale à l’encontre
+d’O.________ SA pour garantir les charges de copropriété impayées pour les années
+2011-2012 et 2013-2014. Le 13 janvier 2015, agissant pour U.________ et B.________, il a actionné
+O.________ SA en paiement de défauts de la chose vendue à hauteur de 190'000 francs. Le 9 avril
+2015, en tant que représentant d’U.________, il a agi en justice en dommages-intérêts
+contre T.________, réclamant la somme de 50'000 fr. en raison des forages dans le plafond de son
+appartement. Il a encore agi en 2015 pour la propriété par étages contre T.________ pour
+non-paiement des charges de la copropriété.
+4.
+Après divers échanges de courriers en
+avril et en mai 2015, dans le cadre desquels l’avocat de T.________, Me [...], et l’avocat
+d’O.________ SA, Me [...], ont remis en cause la capacité de postuler de Me D.________,
+ce
+dernier a demandé le 9 juillet 2015 à la Chambre des avocats de statuer sur sa capacité
+de postuler et sur celle de son confrère mandataire d'O.________ SA. Le 21 août 2015, Me [...]
+a requis que Me D.________ soit sommé de se dessaisir immédiatement de ses mandats l’opposant
+à sa cliente O.________ SA.
+Par décision du 30 novembre 2015, la Chambre des avocats a rejeté la requête de Me D.________
+du 9 juillet 2015 et celle de Me [...] du 21 août 2015. Elle a constaté que Me D.________ pouvait
+continuer à représenter la propriété par étages dans le cadre de la procédure
+en recouvrement des charges de copropriété d’une part, et U.________ et B.________ en
+garantie des défauts de la chose vendue d’autre part, les deux procédures étant
+dirigées contre O.________ SA. La Chambre des avocats a également constaté que Me [...]
+pouvait continuer à représenter O.________ SA dans le cadre des procédures en recouvrement
+des charges l’opposant à la propriété par étages et en garantie des défauts
+de la chose vendue l’opposant à U.________ et à B.________.
+5.
+Par décision du 26 janvier 2016, la Chambre
+des avocats a rejeté la requête d’interdiction de postuler initialement déposée
+en Valais par l'avocat de T.________ le 15 juillet 2015. Elle a constaté que Me D.________ pouvait
+continuer d'agir pour le compte de la propriété par étages contre T.________ pour non-paiement
+des charges de la copropriété, pour le compte d’U.________ et de B.________ contre O.________
+SA en garantie des défauts de la chose vendue et pour le compte d’U.________ contre T.________
+en paiement de dommages-intérêts.
+Statuant le 15 juillet 2016 sur recours de Me [...] et de T.________, la Cour de droit administratif
+et public du Tribunal cantonal a annulé la décision de la Chambre des avocats du 26 janvier
+2016 et a renvoyé la cause à cette autorité pour instruction complémentaire et nouvelle
+décision.
+Après avoir procédé à diverses mesures d'instruction et entendu les parties, la Chambre
+des avocats a, par décision du 27 septembre 2017, admis la requête en interdiction de postuler
+de T.________. Elle a interdit à
+Me
+D.________ de postuler dans les affaires U.________ et B.________ contre O.________ SA et U.________
+contre T.________ et dans toute procédure conduite pour le compte de la propriété par
+étages contre certains de ses copropriétaires, notamment en recouvrement de charges. Cette
+décision a été confirmée le 3 septembre 2018 par la Cour de droit administratif et
+public du Tribunal cantonal.
+Par arrêt 2C_898/2018 du 30 janvier 2019, le Tribunal fédéral a rejeté le recours
+en matière de droit public interjeté par Me D.________ et a déclaré irrecevable le
+recours constitutionnel subsidiaire interjeté par ce dernier. Le Tribunal fédéral a relevé
+que Me D.________ avait été mandaté par la propriété par étages pour recouvrer
+les charges impayées de copropriété auprès de deux des quatre copropriétaires.
+Simultanément, il avait été mandaté par les deux autres copropriétaires pour
+les représenter dans des actions civiles ouvertes contre les deux copropriétaires opposés
+à la propriété par étages. Me D.________ admettait par ailleurs des erreurs de facturation
+et sa liste des opérations ne permettait que difficilement de savoir à quelle procédure
+ces opérations se rapportaient. Outre un état de désorganisation dans les nombreux et
+volumineux dossiers produits par Me D.________, dépourvus de tout bordereau, les erreurs de facturation
+commises par Me D.________ avaient mis certains copropriétaires dans la situation de financer des
+procédures dirigées contre eux par d'autres copropriétaires à titre individuel. Certains
+frais avaient en effet été facturés à tort à la propriété par étages
+(consid. 5.3).
+Le Tribunal fédéral a considéré qu'il existait matériellement différents
+liens de connexité entre les procédures menées par Me D.________. Chacune d'entre elles
+concernait en effet directement ou indirectement (à travers la propriété par étages)
+les mêmes personnes. Toutes avaient également pour objet l'immeuble dont ces personnes étaient
+copropriétaires. Me D.________ s’était ainsi mis en situation de disposer d'informations
+acquises dans le cadre des mandats conduits pour la propriété par étages pour les utiliser
+dans les procédures menées pour ses clients copropriétaires. Il ne fallait pas perdre
+de vue que les deux copropriétaires qui étaient opposés aux mandants de Me D.________
+étaient aussi les mandants de celui-ci dans les procédures menées par la propriété
+par étages. Le fait que Me D.________ ait effectivement disposé et utilisé des informations
+obtenues dans l'une des procédures pour favoriser ses clients dans l'autre n’était pas
+pertinent. La connexité de ces procédures était suffisamment importante pour que le risque
+ne soit pas simplement abstrait, mais qu'il existe véritablement la possibilité d'utiliser,
+consciemment ou non, des connaissances acquises sous couvert du secret professionnel dans différents
+mandats. Certes, les copropriétaires opposés à la propriété par étages
+étaient les mêmes que ceux opposés aux deux autres mandants du recourant. Si une représentation
+de la propriété par étages contre l'un ou l'autre des copropriétaires était
+possible, la conjonction de toutes ces procédures créait toutefois un risque de conflit d'intérêts
+effectif. Ce risque s’était d'ailleurs concrétisé, puisque Me D.________ s'était
+trouvé à facturer par mégarde à la propriété par étages des opérations
+qui ne la concernaient pas, mais qui avaient trait à ses copropriétaires. Dès lors, en
+acceptant tous les mandats relatifs, de près ou de loin, à la propriété par étages,
+Me
+D.________ n'avait pas évité tout conflit entre les intérêts de ses clients et ceux
+de personnes avec lesquelles il était en relation sur le plan professionnel, violant de ce fait
+l'art. 12 let. c LLCA (consid. 5.4 et 5.5).
+6.
+Le 25 mars 2019, la Chambre des avocats a ouvert
+une enquête disciplinaire contre Me D.________ pour violation éventuelle de l’art. 12
+let. c LLCA. Me Amédée Kasser a été désigné membre enquêteur.
+Me D.________ s’est déterminé le 5 septembre 2019. Il a exposé qu'il avait spontanément
+sollicité la Chambre des avocats sur un éventuel conflit d'intérêt, sans attendre
+une dénonciation. A cet égard, la dénonciation du 15 juillet 2015 émanait de l'avocat
+de T.________, et non pas de ce dernier. Dans les deux premières décisions rendues, le 30 novembre
+2015 et le 26 janvier 2016, la Chambre des avocats avait nié l'existence d'un conflit d'intérêts.
+Selon Me D.________, c’est le recours interjeté par l’avocat de T.________ qui avait
+conduit à la réouverture du dossier sur la question de la facturation. A ce propos, seules
+3 opérations sur 322 auraient été facturées à tort à la propriété
+par étages, et non 23 tel que retenu par la Chambre des avocats. Me D.________ a contesté que
+ses dossiers soient mal tenus. Il a déploré que le Tribunal fédéral, pour confirmer
+l'existence d'un conflit d'intérêts, ne se soit pas attardé sur le nombre exact d'opérations
+facturées à tort à la propriété par étages, mais s'en soit tenu au principe.
+En conclusion, Me D.________ a déclaré prendre acte de la décision du Tribunal fédéral,
+tout en regrettant cette procédure car il s’en était tenu de bonne à un conflit
+d’intérêt effectif et non potentiel comme admis initialement par la Chambre des avocats.
+7.
+Le membre enquêteur a rendu son rapport le 6 décembre 2019. Celui-ci a été transmis
+le 13 décembre 2019 à Me D.________.
+Dans ses déterminations du 9 janvier 2020, Me D.________ a déclaré renoncer à être
+entendu personnellement par la Chambre des avocats
+in
+corpore
+. Il a rappelé avoir saisi spontanément
+la Chambre des avocats le 9 juillet 2015, avant d’avoir eu connaissance le 3 septembre 2015 du
+fait que les avocats d’O.________ SA et de T.________ avaient interpellé l’Ordre des
+avocats valaisans au sujet de sa capacité de postuler. Le Tribunal fédéral ne s’était
+pas attardé sur le nombre exact d’opérations qu’il avait facturées à
+tort à la propriété par étages et s’en était tenu au principe du conflit
+d’intérêts. Dans deux décisions, le 30 novembre 2015 et le 26 janvier 2016, la Chambre
+des avocats avait nié existence d’un conflit d’intérêts. Or, ces deux décisions
+étaient intervenues sur la base d’un état de fait identique à celui qui avait conduit
+le Tribunal fédéral à retenir l’existence d’un conflit d’intérêts.
+Me D.________ a estimé avoir été conforté dans ses démarches par l’avis
+initial erroné de la Chambre des avocats et a requis qu’il en soit tenu compte au moment de
+prononcer une sanction disciplinaire. Il a contesté que ses dossiers aient été mal tenus,
+photographies à l’appui. Le 10 janvier 2020, Me D.________ a précisé que si la décision
+de la Chambre des avocats du 30 novembre 2015 lui avait été défavorable, il s’y
+serait conformé.
+En droit
+:
+1.
+1.1
+La procédure de surveillance des avocats relève de la LLCA (loi fédérale sur la libre
+circulation des avocats du 23 juin 2000 ; RS 935.61) et de la LPAv (loi sur la profession d’avocat
+du 9 juin 2015 ; BLV 177.11). La LLCA fixe les principes applicables à l'exercice de la profession
+d'avocat en Suisse (art. 1 LLCA) et, en particulier, les règles professionnelles auxquelles l'avocat
+est soumis (art. 12 LLCA). Chaque canton désigne une autorité chargée de la surveillance
+des avocats qui pratiquent la représentation en justice sur son territoire (art. 14 LLCA). Dans
+le canton de Vaud, c'est la Chambre des avocats qui est l'autorité compétente (art. 11 al.
+1 LPAv). Elle se saisit d'office, sur plainte ou sur dénonciation, de toute question concernant
+l'activité professionnelle d'un avocat (art. 11 al. 2 LPAv).
+1.2
+En l’espèce, à la suite de l’arrêt
+rendu le 30 janvier 2019 par le Tribunal fédéral, la Chambre des avocats a ouvert une enquête
+disciplinaire contre un avocat inscrit au registre cantonal et pratiquant la représentation en justice
+dans le canton de Vaud. Elle est dès lors compétente.
+2.
+2.1
+La question de l’interdiction de postuler de Me D.________ fondée sur l’art. 12
+let. c LLCA a d’ores et déjà été tranchée dans le cadre de la procédure
+en interdiction de postuler ayant abouti à l’arrêt 2C_898/2018 du 30 janvier 2019 du
+Tribunal fédéral. Se pose désormais la question de savoir si, sous l’angle disciplinaire,
+le comportement de Me D.________ est constitutif d’une violation de l’art. 12 let. c LLCA.
+2.2
+Parmi les règles professionnelles que doit
+respecter l'avocat, l'art. 12 let. c LLCA prévoit qu'il doit éviter tout conflit entre les
+intérêts de son client et ceux des personnes avec lesquelles il est en relation sur le plan
+professionnel ou privé. L'interdiction de plaider en cas de conflit d'intérêts est une
+règle cardinale de la profession d'avocat (TF 2C_898/2018 du 30 janvier 2019 consid. 5.2). Elle
+est en lien avec la clause générale de l'art. 12 let. a LLCA – selon laquelle l'avocat
+exerce sa profession avec soin et diligence –, avec l'obligation d'indépendance figurant à
+l'art. 12 let. b LLCA (ATF 141 IV 257 consid. 2.1 ; ATF 134 II 108 consid. 3), ainsi qu'avec
+l'art. 13 LLCA relatif au secret professionnel (TF 2A.310/2006 du 21 novembre 2006 consid. 6.2 ;
+Chappuis, La profession d'avocat, tome I, 2
+e
+éd. 2016, pp. 114 ss). Le Tribunal fédéral a souvent rappelé que l'avocat a notamment
+le devoir d'éviter la double représentation, c'est-à-dire le cas où il serait amené
+à défendre les intérêts opposés de deux parties à la fois, car il n'est
+alors plus en mesure de respecter pleinement son obligation de fidélité et son devoir de diligence
+envers chacun de ses clients (ATF 141 IV 257 consid. 2.1 et les références citées; TF
+2C_898/2018 du 30 janvier 2019 consid. 5.2).
+Les règles susmentionnées visent avant tout à protéger les intérêts des
+clients de l'avocat, en leur garantissant une défense exempte de conflit d'intérêts. Elles
+tendent également à garantir la bonne marche du procès, en particulier en s'assurant qu'aucun
+avocat ne soit restreint dans sa capacité de défendre l'un de ses clients – notamment
+en cas de défense multiple –, respectivement en évitant qu'un mandataire puisse utiliser
+les connaissances d'une partie adverse acquises lors d'un mandat antérieur au détriment de
+celle-ci (ATF 141 IV 257 consid. 2.1 ). Les critères suivants peuvent permettre de déterminer
+l'existence ou non de mandats opposés dans un cas concret : l'écoulement du temps entre
+deux mandats, la connexité (factuelle et/ou juridique) de ceux-ci, la portée du premier mandat
+– à savoir son importance et sa durée –, les connaissances acquises par l'avocat
+dans l'exercice du premier mandat, ainsi que la persistance d'une relation de confiance avec l'ancien
+client (TF 2A.535/2005 du 17 février 2006 consid. 3.2 ; Grodecki/Jeandin, Approche critique
+de l'interdiction de postuler chez l'avocat aux prises avec un conflit d'intérêts, SJ 2015
+II 107, p. 114 ; Fellmann, in Fellmann/Zindel, Kommentar BGFA, 2
+e
+éd., 2011, nn. 109 ss ad art. 12 LLCA ; Bohnet/Martenet, Droit de la profession d'avocat, 2009,
+n. 1440 p. 589 ; Valticos, Commentaire romand LLCA, 2009, n. 175 ad art. 12 LLCA). Le devoir de
+fidélité exclut a fortiori que l'avocat procède contre un client actuel (ATF 134 II 108
+consid. 5.2).
+Il faut éviter toute situation potentiellement susceptible d'entraîner des conflits d'intérêts.
+Un risque purement abstrait ou théorique ne suffit pas, le risque doit être concret. Il n'est
+toutefois pas nécessaire que le danger concret se soit réalisé et que l'avocat ait déjà
+exécuté son mandat de façon critiquable ou en défaveur de son client (TF 1B_59/2018
+du 31 mai 2018 consid. 2.4 ; TF 1B_20/2017 du 23 février 2017 consid. 3.1). Dès que le
+conflit d'intérêts survient, l'avocat doit mettre fin à la représentation (ATF 135
+II 145 consid. 9.1 ; ATF 134 II 108 consid. 4.2.1).
+Il y a notamment violation de l'art. 12 let. c LLCA lorsqu'il existe un lien entre deux procédures
+et que l'avocat représente dans celles-ci des clients dont les intérêts ne sont pas identiques.
+Il importe peu en principe que la première des procédures soit déjà terminée
+ou encore pendante, dès lors que le devoir de fidélité de l'avocat n'est pas limité
+dans le temps (ATF 134 II 108 consid. 3 p. 110). Il y a aussi conflit d'intérêts au sens de
+la disposition susmentionnée dès que survient la possibilité d'utiliser, consciemment
+ou non, dans un nouveau mandat les connaissances acquises antérieurement, sous couvert du secret
+professionnel, dans l'exercice d'un mandat antérieur (ATF 145 IV 218 consid. 2.1 ; TF 2C_898/2018
+du 30 janvier 2019 consid. 5.2 ; TF1B_20/2017 du 23 février 2017 consid. 3.1).
+2.3
+En l’espèce, dans son arrêt 2C_898/2018
+du 30 janvier 2019, le Tribunal fédéral a considéré qu'il existait matériellement
+différents liens de connexité entre les procédures menées par Me D.________, puisque
+chacune d'entre elles concernait directement ou indirectement les mêmes personnes et que toutes
+avaient pour objet l'immeuble dont ces personnes étaient copropriétaires. Me D.________ s’était
+mis en situation de disposer d'informations acquises dans le cadre des mandats conduits pour la propriété
+par étages pour les utiliser dans les procédures menées pour ses clients copropriétaires.
+Les deux copropriétaires qui étaient opposés aux mandants de Me D.________ étaient
+aussi les mandants de celui-ci dans les procédures menées par la propriété par étages.
+Le fait que Me D.________ ait effectivement disposé et utilisé des informations obtenues dans
+l'une des procédures pour favoriser ses clients dans l'autre n’était pas pertinent. La
+connexité de ces procédures était suffisamment importante pour que le risque ne soit pas
+simplement abstrait, mais qu'il existe véritablement la possibilité d'utiliser, consciemment
+ou non, des connaissances acquises sous couvert du secret professionnel dans différents mandats.
+Certes, les copropriétaires opposés à la propriété par étages étaient
+les mêmes que ceux opposés aux deux autres mandants du recourant. Si une représentation
+de la propriété par étages contre l'un ou l'autre des copropriétaires était
+possible, la conjonction de toutes ces procédures créait toutefois un risque de conflit d'intérêts
+effectif. Ce risque s’était d'ailleurs concrétisé, puisque Me D.________ s'était
+trouvé à facturer par mégarde à la propriété par étages des opérations
+qui ne la concernaient pas, mais qui avaient trait à ses copropriétaires. Dès lors, en
+acceptant tous les mandats relatifs, de près ou de loin, à la propriété par étages,
+Me D.________ n'avait pas évité tout conflit entre les intérêts de ses clients et
+ceux de personnes avec lesquelles il était en relation sur le plan professionnel, violant de ce
+fait l'art. 12 let. c LLCA (consid. 5.4 et 5.5).
+Il s’ensuit que sous l’angle disciplinaire également, le comportement de Me D.________
+est constitutif d’une violation de l’art. 12 let. c LLCA. Ce dernier ne le conteste d’ailleurs
+pas, puisqu’il a déclaré dans ses déterminations qu’il prenait acte de l’arrêt
+du Tribunal fédéral et qu’il a concentré son argumentation sur la quotité de
+la sanction disciplinaire à prononcer.
+3.
+3.1
+Le comportement de Me D.________ étant constitutif
+d’une violation de l’art. 12 let. c LLCA sous l’angle disciplinaire, se pose à
+présent la question de la mesure disciplinaire qui sanctionne adéquatement le comportement
+de Me D.________.
+A c
+e propos, Me D.________
+avance qu’il aurait spontanément sollicité l’avis de la Chambre des avocats sur
+sa capacité de postuler, avant d’avoir connaissance des dénonciations de ses confrères.
+Il rappelle que la Chambre des avocats a rendu deux décisions niant l’existence d’un
+conflit d’intérêt, le 30 novembre 2015 et le 26 janvier 2016. Il estime avoir été
+conforté dans ses démarches par l’avis initial erroné de la Chambre de céans
+et demande qu’il en soit tenu compte au moment de prononcer une sanction disciplinaire. A cet égard,
+il précise que si la première décision de la Chambre des avocats lui avait été
+défavorable, il ne l’aurait pas contestée. Me D.________ regrette que le Tribunal fédéral
+ne se soit pas attardé sur le nombre exact d’opérations qu’il aurait facturées
+à tort à la propriété par étages et se soit contenté du principe de l’existence
+d’un conflit d’intérêts, puisque seules 3 opérations sur 322 auraient été
+facturées à tort à la propriété par étages, et non 23 tel que retenu par
+la Chambre des avocats. Me D.________ conteste enfin que ses dossiers aient été mal tenus.
+3.2
+L'art. 17 LLCA permet de prononcer, en cas de
+violation de la loi, l'avertissement, le blâme, une amende de 20'000 fr. au plus, l'interdiction
+de pratiquer pour une durée maximale de deux ans ou l'interdiction définitive de pratiquer.
+Le droit disciplinaire a principalement pour but de maintenir l’ordre dans la profession, d’en
+assurer le fonctionnement correct, d’en sauvegarder le bon renom et la confiance des citoyens envers
+cette profession, ainsi que de protéger le public contre ceux de ses représentants qui pourraient
+manquer des qualités nécessaires. Les mesures disciplinaires ne visent ainsi pas, au premier
+plan, à punir le destinataire, mais à l’amener à adopter à l’avenir un
+comportement conforme aux exigences de la profession (TF 2C_448/2014 du 5 novembre 2014 consid. 4.2).
+La loi reconnaît à l'autorité compétente en matière disciplinaire une certaine
+marge d'appréciation. Sa décision doit toutefois toujours respecter les principes de l'égalité
+de traitement, de la proportionnalité et de l'interdiction de l'arbitraire (TF 2C_307/2019 du 8
+janvier 2020 consid. 8.1 et les réf. citées). La mesure prononcée doit tenir compte, de
+manière appropriée, de la nature et de la gravité de la violation des règles professionnelles.
+Elle doit se limiter à ce qui est nécessaire pour garantir la protection des justiciables et
+empêcher les atteintes au bon fonctionnement de l'administration de la justice (Bohnet/Martenet,
+op. cit., nn. 2183-2184 p. 890). L’autorité de surveillance doit tenir compte du comportement
+passé de l’avocat en cause (TF 2A.560/2004 du 1
+er
+février 2005 consid. 6).
+La mesure disciplinaire de l’amende vise à sanctionner un manquement plus grave que celui
+justifiant un blâme, mais pas inconciliable avec la poursuite de l’activité professionnelle
+(Bauer/Bauer, Commentaire romand LLCA, op. cit., n. 63 ad art. 17 LLCA). Elle remplit une fonction de
+prévention spéciale (Bohnet/Martenet, op. cit., n. 2160 p. 881). Une amende de 10'000
+fr. ou plus ne se justifie qu’en cas de manquements graves et répétés (Fellmann,
+Anwaltsrecht, 2
+e
+éd., 2017, n. 731 p. 293). Le Tribunal fédéral a considéré qu’une
+amende de 7'000 fr. constitue une sanction disciplinaire d'importance moyenne (TF 2C_280/2017 du 4 décembre
+2017 consid. 6).
+3.3
+En l’espèce, on retiendra à charge
+que Me D.________ a déjà trois antécédents en matière disciplinaire, qui ont
+tous été sanctionnés de l’amende, sanction se situant au milieu du catalogue de
+l’art. 17 al. 1 LLCA. Dans le cadre de la présente affaire, la Chambre des avocats a
+certes rendu plusieurs décisions sur la capacité de postuler de Me D.________, dont les deux
+premières ont nié l’existence d’un conflit d’intérêts. Toutefois,
+dès le moment où la Cour de droit administratif et public du Tribunal cantonal a rendu son
+arrêt du 15 juillet 2016 annulant la décision de la Chambre des avocats du 26 janvier 2016,
+Me D.________ devait se rendre compte du caractère problématique de ses différents mandats
+en lien avec la propriété par étages. Il n’a cependant rien entrepris pour clarifier
+ses mandats. Le comportement de Me D.________ à compter de l’arrêt de la Cour de droit
+administratif et public du 15 juillet 2016 constitue donc un élément aggravant. En ne remettant
+nullement en cause la multiplicité de ses mandats malgré les décisions négatives
+successives qui étaient rendues, Me D.________ a porté atteinte aux intérêts de ses
+clients. Il a donné l’impression qu’il était plus soucieux de conserver ses mandats
+que d’éviter de se retrouver dans une situation où il n’était plus en mesure
+d’assurer diligemment la défense des intérêts de ses différents mandants. Ce
+faisant, il a nui au bon renom de la profession d’avocat.
+A décharge, on retiendra que la situation de fait était complexe et que l’existence d’un
+conflit d’intérêts n’était
+a
+priori
+pas forcément évidente, notamment
+compte tenu du fait qu’il est admissible pour une propriété par étages d’actionner
+l’un de ses copropriétaires. De plus, comme on l’a vu, plusieurs décisions ont
+été rendues par la Chambre de céans dans ce dossier, dont les deux premières, qui
+niaient l’existence d’un conflit d’intérêts, pouvaient éveiller la confiance
+de
+Me D.________. Il faut toutefois relever
+qu’en acceptant tous les mandats relatifs, de près ou de loin, à la propriété
+par étages, Me D.________ a lui-même contribué au caractère complexe de la situation
+de fait.
+S’agissant des arguments soulevés par Me D.________, il est erroné d’avancer que
+celui-ci aurait spontanément saisi la Chambre de céans le
+9
+juillet 2015,
+avant de faire l’objet d’une
+dénonciation, puisque Me D.________ avait déjà été interpellé sur sa capacité
+de postuler par ses confrères en avril et en mai 2015. Le fait que seules 3, et non 23 opérations
+aient été facturées à tort à la propriété par étages, pour autant
+qu’il soit avéré, n’est pas déterminant. En effet, le Tribunal fédéral
+a considéré que la conjonction de tous les mandats acceptés par Me D.________ créait
+en elle-même un risque effectif de conflit d'intérêts. Ce risque s’était d’ailleurs
+concrétisé puisque cet avocat avait lui-même admis avoir facturé à la copropriété
+des opérations qui ne concernaient que les copropriétaires.
+Au final, compte tenu des éléments qui précèdent et des antécédents de
+l’intéressé, une amende disciplinaire de 4'000 fr. sanctionne adéquatement le comportement
+de Me D.________. Une telle sanction est nécessaire, mais également suffisante pour amener
+cet avocat à adopter à l’avenir un comportement conforme aux exigences de la profession.
+4.
+En définitive, il y a lieu de constater que
+Me D.________ a violé l’art. 12 let. c LLCA. Une amende de 4'000 fr. (art. 17 al. 1 let. c
+LLCA) doit être prononcée à l’encontre de cet avocat. Les frais de la cause, comprenant
+un émolument de 864 fr. et les frais d’enquête par 636 fr., seront arrêtés
+à 1'500 fr. et mis à la charge de Me D.________ (art. 59 al. 1 LPAv).
+Par
+ces motifs,
+la
+Chambre des avocats,
+statuant
+à huis clos :
+I.
+Constate que l’avocat D.________ a violé l’art. 12 let. c LLCA.
+II.
+Condamne l’avocat D.________ au paiement d’une amende de 4'000 fr. (quatre mille francs).
+III.
+Dit que les frais de la cause, par 1'500 fr. (mille cinq cents francs), sont mis à la charge de
+l'avocat D.________.
+IV.
+Dit que la décision est immédiatement
+exécutoire et retire l'effet suspensif à un éventuel recours en application de l'art.
+80 al. 2 LPA-VD.
+La
+présidente :               Le greffier
+:
+Du
+La décision qui précède, lue et approuvée à huis clos, est notifiée à
+:
+‑
+Me Elie Elkaim (pour D.________).
+La présente décision peut faire l'objet d'un recours au Tribunal cantonal dans un délai
+de trente jours dès sa notification. Le recours est exercé conformément à la loi
+sur la procédure administrative (art. 65 LPAv).
+Le greffier :
