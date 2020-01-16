@@ -1,0 +1,212 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___30"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 30"
+decided: "2020-01-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7546601"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-147.md", "switzerland/bund/acts/312.0/art-306.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2020 / 30
+
+## Regeste
+
+ADMISSION DE LA DEMANDE, NON-LIEU | 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 16.01.2020 Décision / 2020 / 30
+
+ADMISSION DE LA DEMANDE, NON-LIEU | 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+10
+PE19.019086-MNU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+16 janvier 2020
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+310 CPP
+Statuant sur le recours interjeté le 21 octobre 2019 par
+X.________
+contre l’ordonnance de non-entrée en matière rendue le 14 octobre 2019 par le Ministère
+public de l'arrondissement de La Côte dans la cause
+n° PE19.019086-MNU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+X.________ a déposé plainte pénale le 29 août 2019 contre Y.________, lui reprochant
+de l’avoir menacé, le 28 août 2019, à [...], route [...], en lui disant qu’il
+allait lui « casser la gueule », à la suite d’une altercation portant sur le stationnement
+d’un vélo.
+B.
+Par ordonnance du 14 octobre 2019, le Ministère
+public de l'arrondissement de La Côte a refusé d’entrer en matière sur la plainte
+d’X.________ (I) et a laissé les frais à la charge de l’Etat (II).
+La Procureure a retenu que les versions des parties paraissaient irrémédiablement contradictoires,
+qu’aucun élément au dossier ne permettait de corroborer la version soutenue par X.________
+et qu’il n’existait pas d’élément permettant d’établir un comportement
+pénalement répréhensible de la part de Y.________.
+C.
+Par acte daté du 19 octobre 2019 et remis
+à la poste le 21 octobre 2019, X.________ a recouru contre cette ordonnance, en concluant implicitement
+à son annulation et à l’ouverture d’une instruction.
+b)
+X.________
+a versé 550 fr. à titre sûretés pour la procédure de recours.
+c)
+Le
+23 décembre 2019, dans le délai imparti à cet effet, le Ministère public a indiqué
+qu’il se référait intégralement à l’ordonnance attaquée et qu’il
+renonçait à déposer des déterminations.
+Y.________ n’a pas retiré le pli recommandé qui lui a été adressé par
+la Cour de céans et ne s’est par conséquent pas déterminé dans le délai
+imparti.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public en application de l’art. 310
+CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) dans les dix jours devant
+l’autorité de recours (art. 310 al. 2, 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let.
+b CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13
+LVCPP [Loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009
+; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12 décembre 1979 ;
+BLV 173.01]).
+Interjeté en temps utile et dans les formes prescrites (art. 385 al. 1 CPP) auprès de l’autorité
+compétente, par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), le recours
+est recevable.
+2.
+2.1
+Le recourant
+indique en premier lieu qu’il regrette de
+ne pas avoir été convoqué lors de l’audition de Y.________ par la police.
+2.2
+L'art. 147 al. 1 CPP consacre le principe général
+de l'administration des preuves durant l'instruction et la procédure principale en présence
+des parties, et prévoit que ces dernières ont le droit d'assister à l'administration des
+preuves par le Ministère public et les tribunaux et de poser des questions aux comparants. Selon
+l’art. 147 al. 3 CPP, une partie ou son conseil peuvent demander que l’administration des
+preuves soit répétée lorsque, pour des motifs impérieux, le conseil juridique ou
+la partie non représentée n’a pas pu y prendre part.
+Toutefois, dans le cadre de la procédure d’investigation, des auditions séparées
+(hors présence des parties) par la police sont possibles si cette dernière procède à
+l’audition de suspects lors des investigations qu’elle mène de manière indépendante
+(art. 306 al. 2 let. b CPP ; ATF 139 IV 25 consid. 5.4.3, JdT 2013 IV 226).
+2.3
+En application de la jurisprudence rappelée
+ci-dessus, s’agissant d’investigations menées de manière indépendante, la
+police n’était pas tenue de convoquer la partie plaignante à l’audition de Y.________.
+Ce grief est donc sans fondement.
+3.
+3.1
+Le recourant conteste ensuite la décision de non-entrée en matière.
+3.2
+Conformément à l’art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s’il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l’infraction ou les conditions à l’ouverture
+de l’action pénale ne sont manifestement pas réunis. L’entrée en matière
+peut encore être refusée au terme des investigations policières (art. 306 et 307 CPP)
+– même diligentées à l'initiative du Procureur –, si les conditions de l’art.
+310 al. 1 let. a CPP sont réunies (TF 6B_427/2017 du 15 novembre 2017 consid. 2.1).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction. Une ordonnance de non-entrée en matière ne peut être rendue
+que dans les cas clairs du point de vue des faits, mais également du droit ; s'il est nécessaire
+de clarifier l'état de fait ou de procéder à une appréciation juridique approfondie,
+le prononcé d'une ordonnance de non-entrée en matière n'entre pas en ligne de compte.
+En règle générale, dans le doute, il convient d'ouvrir une enquête pénale (ATF
+143 IV 241 consid. 2.2.1 ; ATF 138 IV 86 consid. 4.1.2 ; ATF 137 IV 285 consid. 2.3 et les références
+citées, JdT 2012 IV 160). En revanche, le Ministère public doit pouvoir rendre une ordonnance
+de non-entrée en matière dans les cas où il apparaît d’emblée qu’aucun
+acte d’enquête ne pourra apporter la preuve d’une infraction à la charge d’une
+personne déterminée (TF 6B_541/2017 du 20 décembre 2017 consid. 2.2).
+3.2
+En l’espèce, le recourant reproche
+à Y.________ de l’avoir menacé de « lui casser la gueule », alors que ce dernier
+a expliqué, lors de son audition par la police, qu’il avait uniquement menacé X.________
+de déposer une plainte pénale contre lui (PV aud. 2). Le Ministère public a considéré
+qu’aucun élément au dossier ne permettait de corroborer la version soutenue par le plaignant
+et que les déclarations des parties étaient irrémédiablement contradictoires.
+Toutefois, à la lecture du maigre dossier, il apparaît que tant le recourant (cf. P. 8) que
+Y.________ (PV aud. 2, R. 6) ont admis que l’épouse d’X.________ était présente
+au moment des faits. Dans ces conditions, le Ministère public ne pouvait pas simplement constater
+que les déclarations des parties étaient contradictoires sans procéder à l’audition
+de celle qui semble avoir été le seul témoin de l’altercation. En effet, bien qu’il
+s’agisse de l’épouse du plaignant et qu’il appartiendra d’apprécier
+ses déclarations avec une certaine retenue, son audition est néanmoins un élément
+de preuve pertinent qui doit être administré en vue de clarifier l'état de fait.
+Pour ce motif déjà, il convient donc de renvoyer le dossier au Ministère public afin que
+celui-ci procède à l’audition du témoin. Il lui appartiendra ensuite de déterminer
+si une audition de confrontation entre les parties apparaît nécessaire pour élucider les
+faits.
+4.
+Il résulte de ce
+qui précède que le recours d’X.________ doit être admis et l’ordonnance entreprise
+annulée. Le dossier de la cause sera renvoyé au Ministère public de l’arrondissement
+de La Côte pour qu’il procède dans le sens des considérants.
+Les frais de la procédure de recours, par 550 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés
+à la charge de l’Etat (art. 428 al. 4 CPP). L’avance de frais de 550 fr. versée
+par le recourant à titre de sûretés lui sera en outre restituée.
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L'ordonnance du 14 octobre 2019 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de La Côte pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 550 fr. (cinq
+cent cinquante francs), sont laissés à la charge de l’Etat.
+V.
+L’avance de frais de 550 fr. (cinq cent
+cinquante francs) versée par X.________ à titre de sûretés lui est restituée.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. X.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+-
+M. Y.________
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
