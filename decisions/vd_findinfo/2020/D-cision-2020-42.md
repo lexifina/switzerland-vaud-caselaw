@@ -1,0 +1,285 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___42"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 42"
+decided: "2020-01-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7548324"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-056.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-061.md", "switzerland/bund/acts/312.0/art-063.md", "switzerland/bund/acts/312.0/art-064.md", "switzerland/bund/acts/312.0/art-110.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2020 / 42
+
+## Regeste
+
+RÉCUSATION, COMPORTEMENT IRRESPECTUEUX, REJET DE LA DEMANDE | 110 al. 4 CPP (CH), 56 CPP (CH), 64 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.01.2020 Décision / 2020 / 42
+
+RÉCUSATION, COMPORTEMENT IRRESPECTUEUX, REJET DE LA DEMANDE | 110 al. 4 CPP (CH), 56 CPP (CH), 64 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+57
+PE16.009937-[…]
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+17 janvier 2020
+__________________
+Composition
+:               M.
+PERROT
+,
+président
+M.
+Meylan et Mme Giroud Walther, juges
+Greffière
+:              Mme
+Jordan
+*****
+Art.
+56 ss, 64, 110 al. 4 CPP
+Statuant sur le recours et la demande de récusation interjetés le 26 novembre 2019 par
+G.________
+contre la décision rendue le 25 novembre 2019 par le Ministère public central, division criminalité
+économique, dans la cause
+n° PE16.009937-[…]
+,
+respectivement contre le Procureur W.________, la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+A la suite d’une dénonciation de l’Autorité de surveillance LPP et des fondations
+de Suisse occidentale du 17 mai 2016, le Ministère public central, division criminalité économique,
+a décidé, le 6 mars 2017, de l’ouverture d’une instruction pénale contre G.________
+pour avoir, dès la fin de l’année 2012, en sa qualité de membre du conseil de la
+Fondation N.________, sise à [...], commis des actes de gestion déloyale aggravée, causant
+à dite fondation un préjudice de plusieurs dizaines de milliers de francs. Cette enquête
+est instruite par le Procureur W.________, rattaché à la division criminalité économique
+du Ministère public central.
+Le 3 août 2017, en raison des malversations suspectées, le Département fédéral
+de l’intérieur (ci-après : DFI) a nommé l’avocat R.________ commissaire
+de la Fondation N.________ en lieu et place de Me L.________.
+b)
+En 2018 et 2019, G.________ a déposé des plaintes pénales contre R.________ notamment,
+pour abus d'autorité entre autres. Ces plaintes ont donné lieu à l’ouverture de
+deux procédures, qui ont été jointes en mains des autorités pénales fédérales
+et suspendues par ordonnance rendue le 9 avril 2019 par le Ministère public de la Confédération.
+Le 12 novembre 2019, la Cour des plaintes du Tribunal pénal fédéral a annulé cette
+ordonnance en tant que les procédures concernées étaient suspendues et a ordonné
+à l'autorité de poursuite pénale fédérale d'instruire la cause.
+c)
+Par arrêt du 22 janvier 2019 (n° 22), la Cour de céans a rejeté dans la mesure de
+sa recevabilité une demande de récusation formée le 17 décembre 2018 par G.________
+contre le Procureur W.________. Elle a considéré que cette demande était manifestement
+tardive et qu’on ne discernait aucun motif de prévention de ce magistrat.
+Par arrêt du 22 août 2019 (n° 608), la Cour de céans a déclaré irrecevable
+une seconde demande de récusation formée le 12 juillet 2019 par G.________ contre le Procureur.
+Elle a considéré que cette demande ne satisfaisait nullement aux exigences de motivation de
+l’art. 58 CPP et qu’à supposer recevable, elle devrait dans tous les cas être rejetée
+dès lors que le dépôt d’une plainte pénale contre le procureur concerné
+ne suffisait pas pour établir l’existence d’un motif de récusation à son encontre
+et qu’on ne distinguait aucune circonstance objective susceptible de faire apparaître une
+apparence de prévention de sa part. Le 30 septembre 2019, le Tribunal fédéral a déclaré
+irrecevable le recours formé par G.________ contre cet arrêt (TF 1B_478/2019).
+B.
+a)
+Le 11 novembre 2019, G.________ a indiqué
+au Procureur que la consultation du dossier lui avait permis de constater de « nouveaux dérapages
+de la part de la direction de la procédure ». Il a accusé le Procureur de « voler
+au secours » de R.________, de « maintenir contre vents et marées »
+des poursuites pénales contre lui, de « jouer à cela » depuis trois ans
+et demi et de gérer « les intérêts publics dont [il était] en charge d’une
+manière déloyale et illégale ». G.________ a ensuite indiqué qu’il
+déposait plainte pour dénonciation calomnieuse et induction de la justice en erreur contre
+R.________, qui se livrerait entre autres à des « élucubrations » et des
+« pleurnicheries » devant le Tribunal pénal fédéral. D’autre
+part, le prévenu a présenté diverses réquisitions, tendant, en substance, à
+ce que R.________ ne soit plus partie à la procédure en qualité de partie plaignante ou
+de représentant de la plaignante mais en qualité de prévenu, que R.________ indique les
+démarches qui ont été entreprises pour localiser un tableau de la fondation qui aurait
+disparu et L.________ tous les inventaires des biens de la fondation, ces documents devant être
+séquestrés, tout comme divers autres documents de la société S.________ Sàrl.
+Le 12 novembre 2019, considérant que le courrier précité était entaché de propos
+inconvenants au sens de l’art. 110 al. 4 CPP (Code de procédure pénale du 5 octobre 2007
+; RS 312.0), le Procureur l’a renvoyé au prévenu et lui a imparti un délai au 22
+novembre 2019 pour lui adresser un nouvel écrit expurgé de toute considération outrancière
+ou inutilement polémique, en indiquant qu’à défaut, ses requêtes ne seraient
+pas prises en considération.
+Par courrier du 23 novembre 2019, G.________ a contesté avoir tenu des propos inconvenants à
+l’encontre de R.________. S’agissant de ses griefs à l’encontre du Procureur,
+il a déclaré que le terme « dérapage » n’était pas inadapté.
+Il a ensuite indiqué ce qui suit : « A plusieurs reprises, lors des audiences,
+vous m’avez interpellé pour me demander si je vous prenais pour un imbécile. J’ai
+à chaque fois éludé la question, ne m’étant pas encore forgé une conviction
+définitive. En revanche, il me paraît évident qu’à cette même question
+le commissaire répond de manière positive ». Il a ensuite affirmé qu’il
+n’était pas « dans [ses] vues de reprendre ou modifier de quelque manière que
+ce soit un courrier déjà déposé au dossier ». Il a en dernier lieu produit
+une copie de l’arrêt rendu le 13 novembre 2019 par le Tribunal pénal fédéral,
+en indiquant au Procureur que ses « tentatives d’enterrer [ses] plaintes »
+avaient échoué et que l’application de l’art. 110 al. 4 CPP à son encontre
+constituait une tentative d’intimidation. Le prévenu a conclu en requérant du Procureur
+qu’il se récuse et que les comptes de la Fondation N.________ et de la société [...]
+Sàrl fassent l’objet d’une « véritable expertise ».
+b)
+Le
+25 novembre 2019, appliquant l'art. 110 al. 4 CPP, le Procureur a indiqué à G.________ que
+les réquisitions et la plainte contenues dans son courrier du 11 novembre 2019 ne seraient
+pas prises en considération, puisqu’il n’entendait pas le modifier. Il a également
+précisé que son courrier valait décision. D’autre part, s’agissant de la requête
+tendant à la mise en œuvre d’une expertise et la demande de récusation, le Procureur
+a considéré que le courrier d’G.________ était une fois de plus entaché de
+propos inconvenants et lui a imparti un délai au 6 décembre 2019 pour reformuler ses requêtes
+sans considération outrancière, en indiquant qu’à défaut, celles-ci ne seraient
+pas prises en considération. En dernier lieu, il a attiré l’attention du prévenu
+sur les dispositions de l'art. 64 CPP, en l’avertissant formellement qu'à réception d'un
+nouvel écrit enfreignant les règles de la bienséance, il se réservait de prononcer
+une amende d'ordre de 1'000 fr. à son encontre.
+C.
+Par acte du 26 novembre 2019, G.________ a recouru contre la décision du Procureur de ne pas prendre
+en considération ses réquisitions du 11 novembre 2019. Concluant implicitement à
+son annulation, il a en substance renouvelé les réquisitions précitées, ainsi que
+sa demande de récusation et sa requête tendant à la mise en œuvre d’une expertise.
+Les 19 décembre 2019 et 16 janvier 2020, G.________ a adressé à la Cour de céans
+deux courriers, s’enquérant notamment des suites données à sa demande de récusation.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Aux termes de l’art. 393 al. 1 let. a CPP,
+le recours est recevable contre les décisions et les actes de procédure du ministère public.
+Une décision du ministère public refusant de procéder en application de l’art. 110
+al. 4 CPP peut ainsi faire l’objet d’un recours selon les art. 393 ss CPP.
+En l’espèce, le recours a été interjeté en temps utile, par une partie ayant
+qualité pour recourir (art. 382 al. 1 CPP), devant l’autorité compétente, et satisfait
+aux conditions de forme posées par l’art. 385 al. 1 CPP.
+2.
+2.1
+En premier lieu, le recourant reproche au Procureur la manière dont il conduit son enquête,
+soutenant, en substance, qu’il n’instruirait qu’à sa charge et qu’il prendrait
+le parti de R.________. Ce magistrat se rendrait coupable de « gestion déloyale des intérêts
+publics » et devrait à ce titre être considéré comme « un participant »
+aux infractions instruites par le Ministère public de la Confédération. Le recourant soutient
+ensuite qu’il n’aurait pas les moyens d’être frappé d’une amende à
+chaque fois qu’il s’adresse au Procureur et se considère victime d’intimidation
+de la part de ce dernier. Enfin, il conteste le caractère inconvenant de ses propos en se livrant
+à une interprétation historique de l’art. 110 al. 4 CPP.
+2.2
+2.2.1
+Aux termes de l’art. 110 al. 4 CPP, la direction de la procédure peut retourner à l’expéditeur
+une requête illisible, incompréhensible, inconvenante ou prolixe, en lui impartissant un délai
+pour la corriger et en l’avertissant qu’à défaut, la requête ne sera pas prise
+en considération.
+Ainsi, le juge qui refuse d'entrer en matière sur une écriture outrancière à l'égard
+d'une partie ou d'un tiers ne commet pas de déni de justice formel s'il l'a fait après avoir
+vainement donné l'occasion à l'auteur de l'écriture de la corriger (TF 6B_933/2015
+du 22 juin 2016 consid. 3.1 et les arrêts cités). Le fait d'accuser des magistrats d'être
+des criminels est manifestement outrancier et inconvenant (TF 1B_387/2013 du 1
+er
+novembre 2013 ; CAPE 17 janvier 2018/59, JdT 2018 III 3).
+Si l’acte n’est pas corrigé dans le délai fixé, il est irrecevable (CAPE 17 janvier
+2018/59, JdT 2018 III 3). Cela vaut notamment pour un recours couplé à une demande de récusation
+(CREP 23 juillet 2018/554).
+L’art. 110 al. 4 CPP est en principe applicable à toute écriture adressée à
+une autorité pénale (TF 6B_204/2017 du 5 décembre 2017).
+2.2.2
+Les principes régissant la récusation
+au sens des art. 56 ss CPP ont déjà été énoncés dans les arrêts rendus
+dans la présente cause les 22 janvier 2019 (n° 22) et 22 août 2019 (n° 608) par la
+Cour de céans. Il n’est pas nécessaire de les rappeler et on peut y renvoyer intégralement.
+2.2.3
+Selon l’art. 64 al. 1 CPP, la direction de la procédure – qui, jusqu’à la
+décision de classement ou de mise en accusation, est le Ministère public (cf. art. 61 let.
+a CPP) – peut infliger une amende d’ordre de 1’000 fr. au plus aux personnes qui troublent
+le déroulement de la procédure, qui enfreignent les règles de la bienséance ou qui
+n’obtempèrent pas à ses injonctions. Alors que l’art. 63 CPP, relatif à la
+police de l’audience, vise en premier lieu les débats, soit les procédures orales, l’art.
+64 CPP vise également les procédures écrites et permet de prononcer une amende d’ordre
+sans avertissement préalable. Les participants à la procédure qui tiennent des propos
+attentatoires à l’honneur de la personne investie de la direction de la procédure enfreignent
+à plus forte raison les règles de la bienséance au sens de l’art. 64 al. 1
+CPP. Le participant à la procédure qui est condamné à une amende d’ordre s’expose
+à supporter en outre les frais de ce prononcé (CREP 3 avril 2011/95 et les réf. cit.).
+2.3
+En l’espèce,
+le courrier que le recourant a adressé au Procureur le 11 novembre 2019 comporte manifestement
+des propos outranciers et inconvenants au sens de l’art. 110 al. 4 CPP. Le recourant attaque délibérément
+le commissaire R.________, dont il évoque les « élucubrations » et les
+« pleurnicheries », ainsi que le Procureur qu’il accuse notamment de « dérapages »,
+de « maintenir contre vents et marées » des poursuites pénales contre lui,
+de gérer « les intérêts publics dont [il est] en charge d’une manière
+déloyale et illégale » et de « voler au secours » de R.________.
+Il en va de même s’agissant du courrier du 23 novembre 2019 dans lequel le recourant déclare
+ne pas s’être encore forgé une conviction définitive sur le fait de savoir s’il
+prenait le Procureur pour un imbécile.
+Dans ce contexte particulier, c’est à bon droit que le Procureur a refusé de prendre
+en considération le contenu du courrier du 11 novembre 2019 en l’absence de correction en
+temps utile, d’une part, et qu’il a imparti un délai au 6 décembre 2019 au
+prévenu pour rectifier son écrit du 23 novembre 2019 comportant notamment sa demande de récusation,
+d’autre part. Contrairement à ce que prétend le recourant, aucun comportement répréhensible
+ne peut être reproché au Procureur. C’est au contraire ce magistrat qui est l’objet
+de provocations inadmissibles d’un justiciable, qui multiplie les attaques personnelles et les
+procédés prolixes et abusifs. Face à de tels agissements, le Procureur était parfaitement
+fondé à attirer l’attention du recourant sur son intention de prononcer des mesures disciplinaires
+au sens de l’art. 64 CPP en cas de récidive de sa part.
+2.4
+Quant à la demande de récusation du 23 novembre 2019, elle n’a pas été
+validée en temps utile par une rectification, de sorte que le recourant ne saurait obtenir directement
+une décision de la Chambre des recours pénale, celle-ci n’ayant pas été saisie
+valablement d’une telle demande. Cela étant, il convient de relever en l’état,
+comme dans l’arrêt rendu le 22 août 2019, que cette demande apparaîtrait de toute
+manière abusive, le recourant détournant derechef la finalité de cette institution procédurale,
+laquelle n’a pas pour objet de permettre aux parties de contester la manière dont est menée
+l'instruction et de remettre en cause les différentes décisions incidentes prises notamment
+par la direction de la procédure (ATF 143 IV 69 consid. 3.2 ; TF 1B_382/2019 du 18 septembre
+2019 consid. 2 ; TF 1B_307/2019 du 2 août 2019 consid. 3.2).
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d'écritures (art. 390 al. 2 CPP) et la demande de récusation déclarée irrecevable.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d'arrêt (art. 422 al. 1 CPP), par 880 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à
+la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 25 novembre 2019 est confirmée.
+III.
+La demande de récusation est irrecevable.
+IV.
+Les frais d’arrêt, par 880 fr. (huit
+cent huitante francs), sont mis à la charge d’G.________.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Bernard de Chedid, avocat (pour G.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur du Ministère public central, division criminalité économique,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
