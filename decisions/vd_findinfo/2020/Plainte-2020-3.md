@@ -1,0 +1,217 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 3"
+decided: "2020-01-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7534208"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-097.md", "switzerland/bund/acts/281.1/art-112.md", "switzerland/bund/acts/281.42/art-009.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 3
+
+## Regeste
+
+PROCÉDURE D'ESTIMATION, IMMEUBLE, ORDONNANCE DU TRIBUNAL FÉDÉRAL SUR LA RÉALISATION FORCÉE DES IMMEUBLES, AVANCE DE FRAIS, ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 9 al. 2 ORFI
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 17.01.2020 Plainte / 2020 / 3
+
+PROCÉDURE D'ESTIMATION, IMMEUBLE, ORDONNANCE DU TRIBUNAL FÉDÉRAL SUR LA RÉALISATION FORCÉE DES IMMEUBLES, AVANCE DE FRAIS, ASSISTANCE JUDICIAIRE | 29 al. 3 Cst., 9 al. 2 ORFI
+
+TRIBUNAL
+CANTONAL
+FA19.042433-200003
+2
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+17 janvier 2020
+____________________
+Composition
+:               M.
+Maillard
+,
+président
+Mmes
+Rouleau et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+29 al. 3 Cst. et 9 al. 2 ORFI
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+K.________
+,
+à [...], contre la décision rendue le 18 décembre 2019 par la Présidente du Tribunal
+d’arrondissement de La Broye et du Nord vaudois, autorité inférieure de surveillance,
+rejetant la requête d’assistance judiciaire déposée par le recourant dans la cause
+en nouvelle estimation de l’immeuble saisi l’opposant à l’
+Office
+des poursuites du district du Gros-de-Vaud
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Le recourant K.________ fait l’objet d’une procédure de réalisation par voie de
+saisie. Dans ce cadre, son immeuble a été estimé à 1'180'000 fr. par l’Office
+des poursuites du district du Gros-de-Vaud (ci-après : l’Office), qui l’en a informé
+par lettre du 6 septembre 2019.
+Le 17 septembre 2019, le recourant a contesté cette estimation auprès de l’autorité
+inférieure de surveillance, en concluant à l’annulation de l’estimation de l’Office
+et à ce que l’immeuble soit estimé à 1'700'000 fr., subsidiairement à ce qu’il
+fasse l’objet d’une nouvelle estimation par un autre expert.
+Le 26 septembre 2019, l’autorité saisie a imparti au recourant un délai au 16 octobre
+2019 pour effectuer une avance de frais de 3'150 fr. pour la procédure de nouvelle estimation. A
+la requête de l’intéressé, le délai a été prolongé au 18 novembre
+2019.
+A cette date, le recourant a requis une deuxième prolongation du délai précité, également
+fixé pour qu’il se détermine sur l’expert pressenti, et a déposé une
+demande d’assistance judiciaire en vue d’être exonéré de l’avance de
+frais requise.
+2.
+Par décision du 18 décembre 2019, notifiée au recourant le lendemain, la Présidente
+du Tribunal d’arrondissement de La Broye et du Nord vaudois, statuant en sa qualité d’autorité
+inférieure de surveillance, a rejeté la demande d’assistance judiciaire.
+3.
+Par acte du 30 décembre
+2019, K.________ a recouru contre cette décision. Il a requis l’octroi de l’effet suspensif
+et a conclu à l’admission de son recours, à l’annulation de la décision attaquée
+et à l’admission de sa demande d’assistance judiciaire.
+En droit :
+I.
+Aux termes de l’art. 9 ORFI (ordonnance du Tribunal fédéral sur la réalisation forcée
+des immeubles ; RS 281.42), l’estimation doit déterminer la valeur présumée
+de l’immeuble et de ses accessoires, sans égard au montant de la taxe cadastrale ou de la
+taxe de l’assurance contre l’incendie (al. 1, 1
+re
+phrase) ; dans le délai de plainte contre la saisie (art. 17 al. 2 LP [loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 2818.1]), chacun des intéressés a le
+droit d’exiger, en s’adressant à l’autorité de surveillance et moyennant
+avance des frais, qu’une nouvelle estimation soit faite par des experts (al. 2, 1
+re
+phrase).
+Une « plainte » tendant à une nouvelle estimation de l’immeuble, comme
+celle que le recourant a en l’occurrence adressée à l’autorité inférieure
+de surveillance, doit être traitée comme une demande de nouvelle estimation par des experts
+au sens de l’art. 9 al. 2 ORFI. Il ne s’agit en effet pas d’une plainte LP au sens
+strict, l’autorité inférieure de surveillance n’ayant pas à se livrer à
+un contrôle de l’estimation de l’office ou de l’expert qu’il s’est
+adjoint (ATF 135 I 102 consid. 3.1 ; TF 5A_421/2018 du 13 novembre 2018 consid. 5.2.2 ; TF
+5A_275/2013 du 12 juin 2013 consid. 5.1), mais à mettre en œuvre une nouvelle estimation.
+La question de la voie de recours existant contre une décision de l’autorité inférieure
+de surveillance prise dans le cadre de la procédure de l’art. 9 al. 2 ORFI, qui n’est
+donc pas celle de la plainte LP, a été discutée et laissée indécise dans plusieurs
+arrêts rendus par la cour de céans (CPF 30 décembre 2019/58 ; CPF 28 décembre
+2016/42 ; CPF 14 septembre 2015/30). Elle se pose en l’occurrence également en tant que
+le recourant attaque le rejet de sa requête d’assistance judiciaire dans la procédure
+de nouvelle estimation, une telle décision suivant la voie de droit ouverte pour attaquer la décision
+au fond (TF 5A_275/2013 précité consid. 1). Elle peut toutefois rester ouverte en l’espèce,
+dès lors que le recours, recevable ou non, doit de toute manière être rejeté pour
+les motifs exposés ci-après.
+On relève cependant, dans l’hypothèse d’une application analogique des dispositions
+sur le recours en matière de plainte, que le recours, déposé dans le délai de dix
+jours suivant la notification de la décision attaquée (art. 18 al. 1 LP et 28 al. 1 LVLP [loi
+vaudoise d’application de la LP ; BLV 280.05]), dans les formes requises (art. 28 al. 2 LVLP)
+et suffisamment motivé (TF 5A_118/2018 du 7 février 2018 consid. 4.1), est recevable formellement.
+II.
+a)
+En vertu de l’art. 29 al. 3 Cst. (Constitution fédérale de la Confédération
+suisse ; RS 101), toute personne qui ne dispose pas de ressources suffisantes a droit, à moins
+que sa cause ne paraisse dépourvue de toute chance de succès, à l’assistance judiciaire
+gratuite. Si la sauvegarde de ses droits le requiert, il a en outre le droit à la commission d’office
+d’un conseil juridique.
+Selon le sens et le but de l’assistance judiciaire, l’Etat ne doit soutenir le justiciable
+que si, sans cette assistance, celui-ci est menacé de perdre un droit ou d’être atteint
+de manière importante dans ses droits (ATF 135 I 102 consid. 3.2.1 et les références ;
+TF 5A_275/2013 précité consid. 6.2.3).
+b)
+Dans
+la procédure de saisie, les fonctions principales de l’estimation consistent en la détermination
+de l’étendue de la saisie (art. 97 al. 2 LP) et l’orientation du créancier sur
+le résultat prévisible de la réalisation (art. 112 al. 1 LP). Elle ne donne aucune indication
+quant au prix de vente qui sera effectivement obtenu lors des enchères. Tout au plus donne-t-elle
+aux intéressés une indication quant à l’offre à faire (TF 5A_421/2018 précité
+consid. 6.2.2). Pour cette raison, l’estimation ne doit pas être « si possible élevée »,
+mais doit déterminer la valeur vénale probable de l’immeuble. C’est dans ce but
+qu’un droit a été conféré aux intéressés de solliciter une nouvelle
+estimation sans indication d’un motif particulier (ATF 134 III 42 consid. 4 ; TF 5A_275/2013
+précité consid. 5.1).
+Selon le Tribunal fédéral, dans la poursuite en réalisation de gage, l’estimation
+n’a qu’une importance secondaire. Ses fonctions principales dans la procédure de saisie
+n’ont pas cette importance dans la procédure en réalisation de gage. L’estimation
+de l’immeuble à vendre donne uniquement aux intéressés un point de repère sur
+l’offre défendable, sans toutefois donner d’indication sur le produit effectivement
+réalisable lors des enchères (TF 5A_421/2018 consid. 6.2.2). Le poursuivi n’est donc
+pas menacé de perdre un de ses droits si l’Etat ne le soutient pas en lui octroyant l’assistance
+judiciaire dans la procédure de nouvelle estimation du gage (ATF 135 I 102 consid. 3.2.2 et 3.2.3 ;
+TF 5A_275/2013 précité consid. 6.2.3).
+c)
+Le recourant soutient en premier lieu que « la plainte est ouverte à propos de l’estimation
+d’un immeuble », ce qui montrerait « que la question présente un intérêt »
+et justifierait l’octroi de l’assistance judiciaire.
+Comme exposé plus haut (cf. supra consid. I), la procédure de l’art. 9 al. 2 ORFI n’est
+pas une procédure de plainte. De plus, l’argument ne saurait convaincre, sauf à accorder
+l’assistance judiciaire dans n’importe quelle procédure pour le seul motif qu’elle
+est ouverte, ce qui n’est évidemment pas le sens de la jurisprudence développée
+en la matière (cf. supra consid. II a)).
+Pour le surplus, le recourant fait uniquement valoir que la « sous-estimation de l’immeuble
+fausse le résultat de la vente à la baisse, car elle consiste en une publicité négative
+par rapport à l’objet » et que « le résultat péjoré de
+la vente nuit bel et bien aux droits du propriétaire poursuivi ».
+Force est ici de constater que le recourant ne soutient pas que la nouvelle estimation qu’il demande
+serait propre à modifier la détermination de l’étendue de la saisie (art. 97 al.
+2 LP), pas plus que l’orientation du créancier sur le résultat prévisible de la
+réalisation (art. 112 al. 1 LP). Il ne peut dès lors prétendre au bénéfice de
+l’assistance judiciaire afin d’obtenir une meilleure estimation en vue de faire une meilleure
+publicité de son immeuble. Un tel motif ne saurait en effet suffire à justifier l’octroi
+de l’assistance judiciaire requise en première instance.
+III.
+Vu ce qui précède, le recours doit être rejeté et la décision attaquée
+confirmée. La requête d’effet suspensif contenue dans le recours est ainsi sans objet.
+L’arrêt est rendu sans frais judiciaires (art. 20a al. 2 ch. 5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+La décision du 18 décembre 2019 est
+confirmée.
+III.
+La requête d’effet suspensif contenue dans le recours est sans objet.
+IV.
+L’arrêt, rendu sans frais judiciaires, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Jean-Emmanuel Rossel, avocat (pour K.________),
+-
+M. le Préposé à l’Office des poursuites du district du Gros-de-Vaud.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
