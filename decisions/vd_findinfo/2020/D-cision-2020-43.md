@@ -1,0 +1,532 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 43"
+decided: "2020-01-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7587312"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-056.md", "switzerland/bund/acts/311.0/art-062d.md", "switzerland/bund/acts/311.0/art-064.md", "switzerland/bund/acts/311.0/art-064a.md", "switzerland/bund/acts/311.0/art-064b.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-139.md", "switzerland/bund/acts/312.0/art-189.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-389.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2020 / 43
+
+## Regeste
+
+64a CP, 64b CP, 38 al. 1 LEP, 38 al. 2 LEP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 20.01.2020 Décision / 2020 / 43
+
+64a CP, 64b CP, 38 al. 1 LEP, 38 al. 2 LEP
+
+TRIBUNAL
+CANTONAL
+41
+AP18.009230-BRB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+20 janvier 2020
+__________________
+Composition
+:               M.
+P E R R O T, président
+M.
+Meylan et Mme Byrde, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+64a al. 1, 64b al. 2 CP; 38 LEP
+Statuant sur le recours interjeté le 13 décembre 2019 par
+Z.________
+contre la décision rendue le 2 décembre 2019 par le Collège des Juges d’application
+des peines dans la cause
+n° AP18.009230-BRB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+jugement du 11 janvier 1994, le Tribunal correctionnel du district d’Yverdon-les-Bains a condamné
+Z.________, né en 1946, pour contrainte sexuelle, à six mois d’emprisonnement, sous déduction
+de six jours de détention préventive, avec sursis pendant trois ans.
+b)
+Par jugement du 19 décembre 1996, confirmé
+par la Cour de cassation pénale du Tribunal cantonal le 29 janvier 1997, le Tribunal correctionnel
+du district d’Yverdon-les-Bains a, notamment, condamné Z.________ à une peine de quatre
+ans de réclusion, sous déduction de 394 jours de détention préventive, pour crime
+manqué de meurtre et menaces, a révoqué le sursis portant sur la peine de six mois d’emprisonnement
+prononcée par jugement du 11 janvier 1994, a suspendu l’exécution de ces deux peines
+et a ordonné l’internement de l’intéressé dans un établissement fermé.
+L’internement a été ordonné sur la base d’un rapport d’expertise du
+28 avril 1993 et de son complément du 17 avril 1996, desquels il ressortait notamment que l’expert
+avait posé le diagnostic de débilité mentale légère dans le cadre de possibles
+séquelles de psychose enfantine, n’excluant pas un début de détérioration psycho-organique
+et constatant une séropositivité HIV anamnestique.
+L’expert avait exposé que l’agression que le condamné avait fait subir à sa
+victime n’était pas uniquement en relation avec des motivations d’ordre sexuel mais
+plutôt avec une intense frustration mobilisée par le refus des femmes de couleur de l’épouser
+et de le sortir ainsi de son isolement. Selon l’expert, les limites intellectuelles de Z.________
+étaient importantes, ce qui expliquait le caractère rigide et obtus de sa pensée et le
+peu de ressources qu’il avait pour tirer enseignement de ses erreurs, ce dernier continuant à
+se considérer comme une victime. Son état mental l’exposait avec une forte probabilité
+à mettre en danger la sécurité publique. L’expert avait ainsi préconisé
+un internement dans un environnement fermé, des mesures d’internement en milieu ouvert ne
+devant être considérées qu’avec une très grande prudence.
+c)
+Le condamné a d’abord été interné aux Etablissements de la plaine de l’Orbe,
+avant d’être transféré à l’EMS [...] en 2002. Sa situation est réexaminée
+à intervalles réguliers par la Commission interdisciplinaire consultative concernant les délinquants
+nécessitant une prise en charge psychiatrique (ci-après : CIC).
+d)
+Dans un rapport d’expertise psychiatrique mise en œuvre en 2012, les experts ont posé
+les diagnostics de retard mental léger et de syndrome de dépendance au tabac, utilisation continue,
+accompagnés sur Ie plan somatique d’une infection au HIV de stade B3, d’un BPCO et d’une
+insuffisance rénale chronique stade III d’origine indéterminée. Les experts ont
+considéré que le condamné était susceptible de commettre de nouveaux actes punissables,
+mais que ce risque était fortement diminué dans l’environnement structurant de l’EMS
+[...], y compris en tenant compte des sorties et ouvertures progressives de son programme.
+e)
+Par décision du 23 mai 2013, l’Office
+d’exécution des peines (ci-après : OEP) a autorisé le condamné à
+intégrer un appartement communautaire dépendant de l’EMS [...] ensuite des recommandations
+émises par le Collège des juges d’application des peines dans sa décision du 28
+novembre 2012 et de l’avis de la CIC des 22 et 23 avril 2013. Ce placement était notamment
+subordonné au maintien d’un bon comportement et au respect de l’interdiction de posséder
+du matériel pornographique.
+f)
+Il
+ressort d’une expertise psychiatrique du 7 avril 2015, que le condamné souffre d’un
+retard mental léger et que ce trouble influence son comportement en ce sens qu’il limite ses
+capacités d’apprentissage et le rend davantage influençable et vulnérable y compris
+dans la gestion de sa propre pulsionnalité. Selon l’expert, l’intéressé présente
+également de graves difficultés d’adaptation à son environnement et des déficits
+majeurs dans la gestion du stress, si bien que ses projets de vie s’inscrivent dans une rupture
+par rapport aux mesures existantes d’encadrement et d’accompagnement. En l’état,
+il ne parait dès lors pas avoir les moyens de pouvoir gérer les aspects d’une libération
+conditionnelle, même avec des règles de conduite. L’expert a conclu à un risque
+de récidive moyen à élevé.
+Selon le psychiatre, le retard mental était par définition durable, ce qui augmentait le risque
+que de nouveaux actes punissables soient commis, le prénommé ayant une connaissance partielle
+de la gravité de ses actes, montrant peu d’empathie pour ses victimes et s’investissant
+peu dans un travail personnel. L’expert a ajouté que l’intéressé paraissait
+avoir intégré un certain nombre de limites mais qu’il était fort à craindre
+qu’il ne s’agisse pas d’une réelle intériorisation de ces interdits mais
+de l’effet de son rappel et de sa présence continue, compte tenu de son comportement. L’expert
+a ainsi conclu à un risque de récidive moyen à élevé.
+L’expert a encore indiqué que Z.________ tirait profit de son internement, en ce sens qu’il
+le structurait, mais que, malheureusement, le bénéfice par rapport au traitement psychiatrique
+paraissait limité et devrait le rester au vu des limitations intellectuelles de l’intéressé
+et du peu d’intérêt qu’il y trouvait. Pour l’expert, le cadre actuel, déjà
+relativement léger, paraissait répondre au mieux en termes d’accompagnement et d’autonomie
+aux besoins de l’expertisé, étant précisé qu’une perte drastique du cadre
+éducatif représenterait un risque majeur de déstructuration et de passage à l’acte.
+g)
+Par
+décisions des 7 avril 2009, 11 mai 2010, 28 novembre 2012, 5 février 2014, 7 juillet 2015,
+11 juillet 2016 et 6 septembre 2017, le Collège des juges d’application des peines a refusé
+d’accorder au condamné la libération conditionnelle de l’internement ordonné
+le 19 décembre 1996 par le Tribunal correctionnel du district d’Yverdon-les-Bains. La décision
+du 7 juillet 2015 a été confirmée, sur recours du condamné, par arrêt rendu
+le 23 juillet 2015 par la Chambre des recours pénale (CREP 489/2015), qui retient qu’il ne
+fait aucun doute que le pronostic quant au comportement de Z.________ était défavorable.
+h)
+Par
+décision du 24 mars 2017, l’OEP a ordonné à titre provisoire le placement du condamné
+en milieu institutionnel au sein de l’EMS [...], avec effet rétroactif au 23 mars 2017 et
+ce jusqu’au 30 avril 2017.
+L’autorité pénitentiaire relevait en particulier avoir, lors d’une fouille effectuée
+au sein du lieu de vie de Z.________, trouvé un DVD à caractère pornographique ainsi que
+des extraits de magazines contenant des photos/annonces à caractère sexuel. Elle soulignait
+aussi les mises en garde dont l’intéressé avait déjà fait l’objet les
+10 novembre 2014 et 8 février 2017, en particulier en raison des propositions à caractère
+sexuel faites à une veilleuse travaillant au sein de son institution d’accueil, le fait d’avoir
+effacé délibérément le contenu de l’historique de son téléphone et
+de n’avoir pas respecté l’injonction de rester joignable en tout temps.
+Par décision du 28 avril 2017, constatant que le condamné avait violé de manière
+non négligeable plusieurs conditions subordonnant son placement en appartement communautaire, l’OEP
+a ordonné la prolongation, à titre provisoire pour une durée de 6 mois – jusqu’au
+28 octobre 2017 –, du placement de l’intéressé en milieu institutionnel au sein
+de l’EMS [...].
+i)
+Dans un rapport du 15 septembre 2017, l’Unité
+d’évaluation criminologique a considéré que le condamné présentait un
+risque de récidive moyen à élevé, le risque de récidive violente et celui concernant
+la violence sexuelle étant, en particulier, considérés comme élevés.
+A l’issue d’une rencontre interdisciplinaire tenue le 13 septembre 2017 (cf. le rapport du
+6 octobre 2017), le maintien du condamné à l’EMS [...] a été décidé.
+Le rapport comporte toutefois la réserve suivante : « L’ensemble des intervenants
+préconise un changement de lieu de vie à terme dans une autre structure de type foyer, notamment
+en raison de l’âge avancé du prénommé ».
+Dans son rapport du 17 octobre 2017, la CIC a proposé le maintien de la mesure en cours, aucune
+ouverture significative du régime ne semblant envisageable.
+Par décision du 27 octobre 2017 fondée sur les avis ci-dessus, l’OEP a ordonné la
+poursuite de l’internement du condamné.
+j)
+Le 7 mai 2018, l’OEP a saisi le Collège des Juges d’application des peines d’une
+proposition de refus de la libération conditionnelle de la mesure d’internement dont le condamné
+faisait l’objet, motif pris que seul le cadre mis en place permettait de prévenir une récidive,
+un élargissement anticipé étant, selon l’autorité, encore largement prématuré.
+k)
+Le condamné a été entendu par le Président du Collège des Juges d’application
+des peines le 24 juillet 2018. A l’issue de l’audience, il a été décidé
+d’actualiser le rapport d’expertise psychiatrique du 7 avril 2015.
+l)
+Dans un rapport d’expertise du 9 mai 2019, la Dresse Laia Castello Orri et la psychologue Léonie
+Chiquet, du département de psychiatrie légale du CHUV, ont posé le diagnostic de retard
+mental léger avec troubles de la compréhension, des apprentissages et de l’adaptation,
+immaturité émotionnelle et sociale et déficit d’introspection. Le risque de récidive
+a été considéré comme important en l’absence d’un encadrement approprié.
+A cause de ses limitations intellectuelles, l’expertisé n’est pas en mesure de comprendre
+son trouble et les effets de celui-ci sur son comportement. Un EMS ordinaire n’offre pas une sécurité
+suffisante, notamment en raison de la proximité de résidentes ou du fait que tout changement
+est susceptible d’entraîner chez l’intéressé des angoisses mal contenues auxquelles
+il pourrait faire face par un passage à l’acte.
+m)
+Les 4 juin et 31 juillet 2019, la défense a requis la production, par l’EMS [...], «
+d’une attestation indiquant le nombre de pensionnaires fréquentant la structure avec leur
+répartition par classe d’âge », d’une part, et la production du règlement
+interne à la structure, d’autre part. Le condamné a en outre demandé l’audition
+des auteures du rapport du 9 mai 2019.
+Le 22 août 2019, le Ministère public a préavisé en défaveur de la libération
+conditionnelle.
+Le 18 septembre 2019, la défense, maintenant ses réquisitions, a conclu principalement à
+la libération conditionnelle, subsidiairement au placement du condamné dans un appartement
+protégé.
+B.
+Par décision du 2 décembre 2019, le
+Collège des Juges d’application des peines a refusé la libération conditionnelle
+de l’internement ordonné le 19 décembre 1996 par le Tribunal de district d’Yverdon-les-Bains
+à l’encontre du condamné (I), a arrêté à 2'049 fr. 75 l’indemnité
+due au défenseur d’office du condamné (II) et a laissé les frais de la cause, comprenant
+l’indemnité ci-dessus, à la charge de l’Etat (III).
+C.
+Par acte du 13 décembre 2019, Z.________,
+agissant par son défenseur d’office, a recouru contre cette décision, concluant à
+l’octroi de la libération conditionnelle avec un délai de mise à l’épreuve
+fixé à dire de justice, une assistance de probation étant ordonnée. Subsidiairement,
+il a conclu à l’annulation de la décision et au renvoi de la cause à l’autorité
+inférieure pour nouveau jugement dans le sens des considérants. Il a requis la production,
+par l’EMS [...], « d’une attestation indiquant le nombre de pensionnaires fréquentant
+la structure avec leur répartition par classe d’âge », d’une part, et
+la production « du règlement interne à la structure », d’autre part.
+Il a en outre demandé l’audition de Léonie Chiquet, du département de psychiatrie
+légale du CHUV, co-auteure du rapport d’expertise du 9 mai 2019. Enfin, il a requis l’assistance
+judiciaire pour la procédure de recours, à compter du 3 décembre 2019.
+Il n'a pas été ordonné d'échange d'écritures.
+En droit
+:
+1.
+En vertu de l’art. 38 al. 1 LEP (Loi sur
+l’exécution des condamnations pénales du 4 juillet 2016; BLV 340.01), les décisions
+rendues par le Juge d'application des peines et par le Collège des juges d'application des peines
+peuvent faire l'objet d'un recours auprès du Tribunal cantonal. Selon l’art. 38 al. 2 LEP,
+la procédure est régie par les dispositions du CPP (Code de procédure pénale suisse
+du 5 octobre 2007; RS 312.0) relatives au recours. Interjeté dans les formes et délais légaux
+(art. 385 al. 1 et 396 al. 1 CPP), par une partie ayant qualité pour recourir (art. 382 al. 1 CPP),
+contre une décision judiciaire susceptible de recours, le recours est recevable.
+2.
+2.1
+Le recourant renouvelle en seconde instance presque à l’identique ses réquisitions présentées
+les 4 juin et 31 juillet 2019.
+Les premiers juges ont rejeté ces réquisitions de preuve. Ils ont d’abord considéré
+que les conclusions figurant dans le rapport d’expertise du 9 mai 2019 étaient suffisamment
+claires et étayées pour renoncer à entendre les auteures du rapport. Ils ont ensuite estimé
+que l’on peinait à saisir l’impact que les pièces requises en main de l’EMS
+seraient susceptibles d’avoir sur l’examen de la question litigieuse.
+2.2
+2.2.1
+Selon l’art. 389 al. 1 CPP, la procédure de recours se fonde sur les preuves administrées
+pendant la procédure préliminaire et la procédure de première instance. L’art.
+389 al. 3 CPP règle les preuves complémentaires. Ainsi, l’autorité de recours administre,
+d’office ou à la demande d’une partie, les preuves complémentaires nécessaires
+au traitement du recours.
+Conformément à l’art. 139 al. 2 CPP, il n’y a pas lieu d’administrer des
+preuves sur des faits non pertinents, notoires, connus de l’autorité ou déjà suffisamment
+prouvés. Cette disposition codifie, pour la procédure pénale, la règle jurisprudentielle
+déduite de l’art. 29 al. 2 Cst. en matière d’appréciation anticipée des
+preuves (ATF 143 IV 380 consid. 1.1; TF 6B_1191/2019 du 4 décembre 2019 consid. 1.1). Le magistrat
+peut renoncer à l’administration de certaines preuves, notamment lorsque les faits dont les
+parties veulent rapporter l’authenticité ne sont pas importants pour la solution du litige
+ou s’il parvient sans arbitraire à la constatation, sur la base des éléments déjà
+recueillis, que l’administration de la preuve sollicitée ne peut plus modifier sa conviction.
+Ce refus d’instruire ne viole le droit d’être entendu que si l’appréciation
+anticipée de la pertinence du moyen de preuve offert, à laquelle le juge a ainsi procédé,
+est entachée d’arbitraire (ATF 141 I 60 consid. 3.3; ATF 136 I 229
+consid. 5.3; TF 6B_1103/2016 du 15 juin 2017 consid. 2.1; Bénédict,
+in
+: Jeanneret/Kuhn/Perrier Depeursinge, Commentaire romand, Code de procédure pénale suisse [CR
+CPP], 2
+e
+éd., Bâle 2019, n. 23 ad art. 139 CPP).
+2.2.2
+Selon l'art. 189 CPP, la direction de la procédure fait, d'office ou à la demande d'une partie,
+compléter ou clarifier une expertise par le même expert ou désigne un nouvel expert, notamment
+si l'expertise est incomplète ou peu claire (let. a) ou si l'exactitude de l'expertise est
+mise en doute (let. c). L'expertise doit être considérée comme incomplète ou peu
+claire notamment lorsqu'elle ne répond pas à toutes les questions posées, n'est pas fondée
+sur l'ensemble des pièces transmises à l'expert, fait abstraction de connaissances scientifiques
+actuelles ou ne répond pas aux questions de manière compréhensible ou logique (TF 6B_824/2018
+du 19 septembre 2018 consid. 2.1; TF 6B_607/2017 du 30 novembre 2017 consid. 2.1; TF 6B_1307/2015
+du 9 décembre 2016 consid. 4.3.2). Si le juge se fonde sur une expertise dont les conclusions apparaissent
+douteuses sur des points essentiels et qu'il renonce à recueillir des preuves complémentaires,
+il peut commettre une appréciation arbitraire des preuves et violer l'art. 9 Cst. (ATF 142 IV 49
+consid. 2.1.3; TF 6B_824/2018 précité; TF 6B_56/2018 du 2 août 2018 consid.
+2.1). Savoir si une expertise est convaincante est une question d'interprétation des preuves.
+2.3
+Le recourant ne soulève aucun moyen spécifique à l’appui de ses deux conclusions
+préalables portant sur l’administration de preuves. En particulier, il n’expose pas
+en quoi les motifs des premiers juges seraient erronés; il n’invoque pas non plus la violation
+de son droit d’être entendu ou de son droit à la preuve. S’il soutient certes,
+sur le fond, que c’est à tort que l’expertise retient l’existence d’un risque
+de récidive important, il n’expose pas en quoi les mesures d’instruction requises permettraient
+de parvenir à une autre appréciation. Dans ces conditions, les conclusions portant sur l’administration
+de preuves complémentaires en deuxième instance sont irrecevables. Au demeurant, même
+recevables, elles devraient être rejetées. En effet, la Cour de céans ne discerne pas
+quelles informations complémentaires elles pourraient fournir qui seraient susceptibles de remettre
+en cause l’appréciation des experts psychiatres quant à l’importance du risque
+de récidive en l’absence d’un cadre approprié.
+3.
+3.1
+Invoquant une violation de l’art. 64a al. 1 CP, respectivement une application arbitraire de cette
+norme, le recourant fait grief aux premiers juges d’avoir considéré que les conditions
+à sa libération conditionnelle n’étaient pas réalisées. Il fait valoir
+que c’est sans aucun élément probant que l’autorité a retenu qu’il banalisait
+les actes pour lesquels il a été condamné et que son discours n’était pas sincère.
+Il soutient en effet que son thérapeute aurait relevé qu’il se montrait calme et poli,
+comme le mentionne l’expertise du 9 mai 2019. Il ressortirait en outre de cette expertise que le
+condamné s’était montré en mesure de régler un conflit avec un autre résident
+de l’EMS, qu’il respectait le cadre des sorties et l’abstinence à l’alcool
+et qu’il se montrait collaborant et compliant à la médication. Le recourant conteste
+en outre présenter un risque de récidive et critique l’appréciation des experts
+à cet égard.
+3.2
+3.2.1
+Selon l'art. 64a al. 1 CP, l'auteur est libéré
+conditionnellement de l’internement dès qu'il est à prévoir qu'il se conduira correctement
+en liberté. Le délai d'épreuve est de deux à cinq ans. Une assistance de probation
+peut être ordonnée et des règles de conduite peuvent lui être imposées pour
+la durée de la mise à l'épreuve.
+La libération conditionnelle de l'internement au sens de l'art. 64a CP dépend d'un pronostic
+favorable. Elle ne pourra être ordonnée que s'il est hautement vraisemblable que l'intéressé
+se comportera correctement en liberté (ATF 142 IV 56 consid. 2.4; TF 6B_1147/2018 du 25 mars 2019
+consid. 1.3.1; TF 6B_823/2018 du 12 septembre 2018 consid. 1.1). La condition de la prévisibilité
+d'une conduite correcte en liberté doit être appréciée par rapport aux seules infractions
+énumérées à l'art. 64 al. 1 CP (ATF 136 IV 165 consid. 2.1.1; TF 6B_823/2018 précité
+consid. 1.1). Le pronostic doit être posé en tenant compte du comportement du condamné
+dans son ensemble et plus particulièrement de sa collaboration face aux traitements prescrits par
+les médecins, de la prise de conscience des actes à la base de sa condamnation, de ses aptitudes
+sociales et, notamment, de ses capacités à vivre en communauté et à résoudre
+des conflits potentiels. Il est difficile d'évaluer, à sa juste valeur, la dangerosité
+d'un détenu, dès lors que celui-ci évolue précisément dans un milieu conçu
+aux fins de le neutraliser (ATF 136 IV 165 consid. 2.1.2 et plus récemment TF 6B_823/2018 précité
+consid. 1.1). En matière de pronostic, le principe « in dubio pro reo » ne s'applique
+pas (ATF 137 IV 201 consid. 1.2; plus récemment TF 6B_823/2018 du 12 septembre 2018 consid. 1.1;
+TF 6B_130/2018 du 27 juin 2018 consid. 3.2; TF 6B_658/2019 du 17 juillet 2019 consid. 4.2).
+3.2.2
+L’art. 64b al. 2 CP dispose que l'autorité prend la décision relative à la libération
+conditionnelle en se fondant sur un rapport de la direction de l'établissement (let. a), une expertise
+indépendante au sens de l'art. 56 al. 4 CP (let. b), l'audition d'une commission au sens de
+l'art. 62d al. 2 CP (let. c) et l'audition de l'auteur (let. d).
+L’expertise doit se déterminer sur la nécessité et les chances de succès d’un
+traitement, la vraisemblance que l’auteur commette d’autres infractions et la nature de celles-ci.
+Selon la jurisprudence rendue sous l’emprise de l’ancien droit, le critère formel de
+la date de l’expertise n’est pas en soi déterminant. Le juge peut se fonder sur une
+expertise relativement ancienne à condition que la situation n’ait pas changé entre-temps
+(ATF 128 IV 241 consid. 3.4 p. 247). Si, en revanche, par l’écoulement du temps et à
+la suite d’un changement de circonstances, l’expertise existante ne reflète plus l’état
+actuel, une nouvelle évaluation est indispensable (ATF 128 IV 241 consid. 3.4 p. 247). Contrairement
+au droit actuel (art. 64b al. 2 CP), l’ancien droit n’exigeait pas que la révision annuelle
+de l’internement se fonde sur une expertise. Selon la jurisprudence récente rendue en matière
+d’examen annuel de la libération conditionnelle de l’internement (art. 64b al. 1 let.
+a CP), l’art. 64b CP ne peut être interprété dans le sens d’une obligation
+de procéder à une expertise à chaque révision annuelle. Le critère déterminant
+demeure l’actualité du contenu de la
+dernière
+expertise. Si aucun changement significatif dans la situation du condamné permettant de mettre en
+doute l’actualité de l’expertise ne s’est produit, l’autorité compétente
+peut se fonder sur celle-ci. Toutefois, elle devra tenir compte du fait que, selon les milieux de la
+psychiatrie, un pronostic de dangerosité fiable ne peut pas être établi pour une longue
+période. La doctrine évoque un délai de l’ordre de trois ans pour un renouvellement
+de l’expertise. Un complément d’expertise peut s’avérer suffisant (TF 6B_323/2014
+du 10 juillet 2014 consid. 3 et les réf. cit.; TF 6B_413/2012 consid. 2.1 et les réf. cit.,
+publié
+in
+SJ 2013 I 401; cf. aussi, sur tous ces points, CREP 19 juin 2018/ 474 consid. 2.3). Il n’y a pas
+lieu de s’écarter de cette jurisprudence qui est également applicable à la révision
+biennale visant à établir si les conditions d’une mesure thérapeutique institutionnelle
+sont remplies (art. 64b al. 1 let. b CP).
+Le juge apprécie en principe librement une expertise et n'est pas lié par les conclusions de
+l'expert. Toutefois, il ne peut s'en écarter que lorsque des circonstances ou des indices importants
+et bien établis en ébranlent sérieusement la crédibilité; il est alors tenu
+de motiver sa décision de ne pas suivre le rapport d'expertise (ATF 138 III 193 consid. 4.3.1, JdT
+2012 II 489; ATF 129 I 49 consid. 4 p. 57; ATF 128 I 81 consid. 2 p. 86). Inversement, si les conclusions
+d'une expertise judiciaire apparaissent douteuses sur des points essentiels, le juge doit recueillir
+des preuves complémentaires pour tenter de dissiper ses doutes. A défaut, en se fondant sur
+une expertise non concluante, il pourrait commettre une appréciation arbitraire des preuves et violer
+l'art. 9 Cst. (ATF 138 III 193 consid. 4.3.1, JdT 2012 II 489; cf. aussi, sur tous ces points, CREP 19
+juin 2018/ 474 consid. 3.2.2).
+3.3
+En l’espèce, le rapport d’expertise psychiatrique du 9 mai 2019, dont le Collège
+des Juges d’application des peines a fait siennes les conclusions, répond aux exigences posées
+par l’art. 56 al. 4 CP. Le recourant ne le conteste d’ailleurs pas. Les expertes, qui sont
+des spécialistes en psychiatrie, ont donné un avis clair et circonstancié en réponse
+aux questions qui leur étaient posées, s’agissant notamment de la probabilité que
+le condamné commette des actes de même nature et des risques encourus si l’intéressé
+devait être placé dans une institution de moindre sécurité. Le diagnostic posé
+par ces expertes rejoint celui émis par les spécialistes ayant précédemment déposé
+des rapports, avis sur la base desquels la libération conditionnelle de l’internement a été
+refusée au condamné lors de chaque examen annuel de la mesure.
+Certes, dans un courrier du 26 mai 2015 (complément d’expertise), dont se prévaut le
+recourant, un précédent expert avait estimé que, sous l’angle du risque de récidive,
+un placement institutionnel en milieu ouvert assorti d’une obligation de soins paraissait apporter
+les mêmes garanties que le régime actuel. Pour autant, il s’agit d’un avis remontant
+à plus de quatre ans et dont la pertinence a été infirmée par des événements
+inquiétants survenus depuis lors, lesquels avaient entraîné la cessation du placement
+du condamné en appartement communautaire et son retour en milieu institutionnel, à savoir à
+l’EMS [...]. Les éléments de mauvais pronostic en question étaient une proposition
+à caractère sexuel à l’une des intervenantes de l’institution où l’intéressé
+était placé, ainsi que la détention de matériel pornographique, étant précisé
+que le placement en appartement communautaire était notamment subordonné au maintien d’un
+bon comportement et au respect de l’interdiction de posséder du matériel pornographique.
+Par la suite, l’intéressé a proféré des insultes à l’égard
+d’un autre résident de l’institution, acte à raison duquel il a reçu un avertissement
+de la direction de l’établissement le 4 juin 2018. A défaut de toute violence physique
+ou sexuelle, ce comportement n’est certes pas gravissime. A lui seul, il ne saurait faire obstacle
+à la libération conditionnelle. Il n’en trahit pas moins une difficulté récurrente
+du condamné à se conformer au cadre qui lui est fixé.
+Il est vrai également que, selon le rapport du 6 octobre 2017 établi à l’issue de
+la rencontre interdisciplinaire tenue le 13 septembre 2017, les intervenants ont décidé du
+maintien du condamné à l’EMS [...], « un changement de lieu de vie à terme
+dans une autre structure de type foyer » étant néanmoins préconisé. Cette réserve,
+dont se prévaut le recourant, n’est toutefois pas de nature à contrebalancer les préavis
+de tous les intervenants, ainsi que les conclusions de la dernière expertise psychiatrique. Les
+experts de 2019 sont en effet circonspects quant à un allègement de la mesure, puisqu’ils
+relèvent qu’un EMS ordinaire n’offre pas une sécurité suffisante, notamment
+en raison de la proximité avec des résidentes et du fait que tout changement est susceptible
+d’entraîner chez l’expertisé des angoisses mal contenues auxquelles il pourrait
+alors faire face par un passage à l’acte. Il doit être déduit de cet avis que, pour
+l’heure, seul un cadre plus strict permet de maintenir un faible risque de récidive.
+Quant aux critiques émises par le recourant quant à la banalisation de ses actes et de son
+irrespects des interdits, elles tombent également à faux. En effet, d’une part, les premiers
+juges se limitent à reprendre les déclarations des thérapeutes et des intervenants; d’autre
+part, ils le font de manière circonstanciée, singulièrement en tenant compte des limitations,
+notamment intellectuelles, présentées par le recourant (cf. jugement, consid. 3b p. 10).
+Pour le reste, c’est à juste titre que les premiers juges ont retenu comme un facteur de mauvais
+pronostic que le condamné ne comprend pas les motifs de son internement et se pose en victime, comme
+le constate le rapport d’expertise psychiatrique du 9 mai 2019. De même, c’est à
+bon droit qu’ils ont considéré, avec les experts, que le condamné n’était
+pas en mesure de comprendre son trouble et les effets de celui-ci sur son comportement, ce qui constitue
+également un facteur de mauvais pronostic. Dans cette mesure, bien que relativement ancien, le rapport
+de la CIC du 17 octobre 2017 conserve toute sa pertinence, en présence d’un état de fait
+qui n’évolue guère au fil du temps, le rapport d’expertise psychiatrique du 9 mai
+2019 constatant même un état stationnaire.
+Enfin, c’est à juste titre que les premiers juges ont considéré, sur la base des
+faits mis en exergue par le rapport d’expertise psychiatrique du 9 mai 2019 et après avoir
+entendu le condamné, que les regrets parfois exprimés par l’intéressé restaient
+pour l’essentiel centrés sur lui-même et que l’évocation d’une vengeance
+légitime pour expliquer certains de ses actes survenait encore régulièrement (jugement,
+consid. 3b p. 10). De même, c’est ainsi que l’empathie que le condamné témoigne
+à ses victimes paraît encore bien lacunaire (ibid.). Ces éléments cumulés ont
+mené les premiers juges à tenir le discours du condamné pour « ambivalent »
+(ibid.). Cette appréciation est cohérente avec le rapport d’expertise psychiatrique du
+9 mai 2019, lequel établit un risque de réitération important à défaut de cadre,
+en raison notamment des faibles capacités d’introspection de l’expertisé. Il s’agit
+également de facteurs de mauvais pronostic.
+3.4
+C’est ainsi à raison que les premiers juges ont déduit de ces éléments que
+les conditions posées par l’art. 64a al. 1, 1
+re
+phrase, CP n’étaient pas réunies. Les facteurs de mauvais pronostic sont établis
+à satisfaction de droit et ne sont pondérés par aucun élément favorable. Aucune
+règle de conduite ou assistance de probation n’apparaît de nature à limiter le risque
+de récidive. Pour l’heure, ce risque ne peut être contenu dans un cadre moins strict
+que celui auquel le recourant est actuellement soumis. Au vu de ce qui précède, il n’est
+pas possible, en l’état du moins, de considérer comme hautement vraisemblable que le
+recourant se conduira correctement en liberté et ne commettra plus d’infractions contre la
+vie ou l’intégrité sexuelle qui ont justifié son internement.
+Il découle de ce qui précède que la décision dont est recours ne procède pas
+d’une fausse application de l’art. 64a al. 1 CP, a fortiori d’une appréciation
+arbitraire.
+4.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d’écritures (art. 390 al. 2 CPP) et la décision entreprise confirmée.
+Le mandat du défenseur d’office ne prend fin qu’à l’épuisement des instances
+cantonales (CREP 19 décembre 2019/1023 consid. 7 et les réf. citées). Partant, la requête
+tendant à l’assistance judiciaire pour la procédure de recours est sans objet.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d’arrêt, par 1’430 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et
+indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), et des frais imputables
+à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 360 fr., auxquels
+il convient d’ajouter des débours forfaitaires à concurrence de 2 % (art. 3
+bis
+al. 1 RAJ [Règlement du 7 décembre 2010 sur l'assistance judiciaire en matière civile;
+BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 7 fr. 20, plus la TVA, par 28 fr.
+30, soit à 395 fr. 50 au total, seront mis à la charge du recourant, qui succombe (art. 428
+al. 1 CPP).
+Le remboursement à l'Etat de l'indemnité allouée au défenseur d'office du recourant
+ne sera exigible que pour autant que la situation économique de ce dernier le permette (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 2 décembre 2019 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de Z.________ est fixée à 395 fr. 50 (trois cent nonante-cinq francs et cinquante
+centimes).
+IV.
+Les frais d’arrêt, par 1'650 fr. (mille six cent cinquante francs), ainsi que l’indemnité
+due au défenseur d’office de Z.________, par 395 fr. 50 (trois cent nonante-cinq francs et
+cinquante centimes), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation financière de Z.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Claude-Alain Boillat, avocat (pour Z.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Collège des Juges d’application des peines,
+-
+M. le Procureur du Ministère public central, division affaires spéciales,
+-
+Office des curatelles et tutelles professionnelles, à l’att. de Mme [...],
+-
+Office d’exécution des peines (OEP/MES/961/CGY/MBD),
+-
+EMS [...],
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
