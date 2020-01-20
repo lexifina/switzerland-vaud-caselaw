@@ -1,0 +1,142 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___46"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 46"
+decided: "2020-01-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7545637"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2020 / 46
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET, DÉTENTION PROVISOIRE, MISE EN LIBERTÉ PROVISOIRE | 382 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 20.01.2020 Décision / 2020 / 46
+
+PROCÈS DEVENU SANS OBJET, DÉTENTION PROVISOIRE, MISE EN LIBERTÉ PROVISOIRE | 382 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+43
+PE19.024997-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+20 janvier 2020
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Krieger et M. Kaltenrieder, juges
+Greffier
+:              M.
+Pilet
+*****
+Art.
+382 CPP
+Statuant sur le recours interjeté le 10 janvier 2020 par
+J.________
+contre l’ordonnance rendue le 30 décembre 2019 par le Tribunal des mesures de contrainte dans
+la cause
+n° PE19.024997-CPB
+,
+la Chambre des recours pénale considère :
+En fait et en droit :
+1.
+Par ordonnance du 30 décembre 2019, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire de J.________ (I), a fixé la durée maximale de la détention provisoire à
+un mois, soit au plus tard jusqu’au 27 janvier 2020 (II) et a dit que les frais de la décision,
+par 225 fr., suivaient le sort de la cause (III).
+2.
+Par acte du 10 janvier 2020, J.________ a recouru devant la Chambre des recours pénale contre cette
+ordonnance en concluant, avec suite de frais et dépens, principalement à son annulation, subsidiairement
+à sa réforme en ce sens qu’elle soit immédiatement libérée.
+3.
+Par courrier du 13 janvier 2020, le Ministère public de l’arrondissement de l’Est vaudois
+a informé la Cour de céans que la recourante avait été relaxée le jour même.
+4.
+Interpellée, la recourante,
+par son défenseur d’office, a maintenu son recours par crainte de devoir supporter frais et
+indemnités, en faisant référence à l’art. 428 al. 1 in fine CPP (Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) qui prévoit que celui qui
+retire son recours est considéré avoir succombé.
+4.
+La libération de la détention provisoire requise par la recourante ayant été ordonnée,
+J.________ a ainsi obtenu ce qu’elle demandait dans son recours du 10 janvier 2020. Il convient
+dès lors de constater que le recours est devenu sans objet et de rayer la cause du rôle (cf.
+CREP 21 janvier 2019/38 et les références citées).
+5.
+Compte tenu de ce qui précède, les frais de la procédure de recours, constitués en
+l’espèce de l’émolument d'arrêt, par 330 fr. (art. 20 al. 1 TFIP [Tarif des
+frais de procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+et des frais imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP),
+fixés – selon la liste des opérations produite par Me Jérôme Reymond, dont
+il n’y a pas lieu de s’écarter – à 751 fr. 40, qui comprennent des honoraires,
+par 684 fr. (correspondant à 3.8 heures d’activité au tarif horaire d’avocat de
+180 fr.), des débours forfaitaires à concurrence de 2 % (art. 3bis al. 1 RAJ
+[Règlement sur l’assistance judiciaire en matière civile du 7 décembre 2010 ;
+BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 13 fr. 70, et la TVA
+au taux de 7,7 %, par 53 fr. 70, seront laissés à la charge de l’Etat (art. 423 al.
+1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est sans objet.
+II.
+La cause est rayée du rôle.
+III.
+L’indemnité allouée au défenseur
+d’office de J.________ pour la procédure de recours est fixée à 751 fr. 40 (sept
+cent cinquante et un francs et quarante centimes).
+IV.
+Les frais d’arrêt, par 330 fr. (trois cent trente francs), ainsi que l’indemnité
+due au défenseur d’office de J.________, par 751 fr. 40 (sept cent cinquante et un francs
+et quarante centimes), sont laissés à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jérôme Reymond, avocat (pour J.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement de l’Est vaudois,
+-
+M. S.________,
+-
+MmeE.________,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
