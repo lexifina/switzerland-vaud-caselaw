@@ -1,0 +1,120 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___40"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 40"
+decided: "2020-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7541754"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2020 / 40
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 386 al. 2 let. b CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.01.2020 Décision / 2020 / 40
+
+RETRAIT{VOIE DE DROIT} | 386 al. 2 let. b CPP (CH)
+
+TRIBUNAL
+CANTONAL
+40
+PE19.009873-EBJ
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 janvier 2020
+__________________
+Composition :
+M.
+Perrot
+,
+président
+MM.
+Meylan et Oulevey, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+386 al. 2 let. b CPP
+Statuant sur le recours interjeté le 21 novembre 2019 par
+X.________
+contre l'ordonnance de non-entrée en matière rendue le 8 novembre 2019 par le Ministère
+public de l'arrondissement de l'Est vaudois dans la cause
+n
+o
+PE19.009873-EBJ
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Par ordonnance du 8 novembre 2019, le Ministère public de l'arrondissement de l'Est vaudois a dit
+qu'il n'entrait pas en matière sur la plainte déposée par X.________ contre son père
+Z.________ (I) et a laissé les frais à la charge de l'Etat (II).
+2.
+Par acte du 21 novembre 2019, X.________ a recouru
+contre cette ordonnance, en concluant, avec suite de frais et dépens, principalement à son
+annulation et au renvoi de la cause au Ministère public pour ouverture d'enquête et instruction,
+subsidiairement à son annulation et au renvoi de la cause au Ministère public pour nouvelle
+décision dans le sens des considérants de l'arrêt à intervenir. Il a en outre sollicité
+l'octroi de l'assistance judiciaire gratuite pour la procédure de recours.
+Dans ses déterminations du 13 janvier 2020, Z.________ a conclu au rejet du recours déposé
+par X.________. Il a en outre sollicité la désignation de Me Basile Couchepin en tant que défenseur
+d'office à partir du 24 août 2019.
+3.
+Le 16 janvier 2020, Z.________ a informé
+la Cour de céans que, au cours de l'audience de la Cour d'appel civile du 15 janvier 2020, les parties
+avaient signé une convention selon laquelle notamment X.________ retirait sa plainte pénale
+déposée contre Z.________, respectivement son recours déposé auprès de la Chambre
+des recours pénale (PE19.009873).
+4.
+Il y a lieu de prendre acte du retrait du recours
+et de rayer la cause du rôle (art. 386 al. 2 let. b CPP [Code de procédure pénale suisse
+du 5 octobre 2017 ; RS 312.0]).
+5.
+Les frais de la procédure de recours, par 330 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront
+exceptionnellement laissés à la charge de l’Etat (art. 423 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Il est pris acte du retrait du recours.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d'arrêt, par 330 fr. (trois cent
+trente francs), sont laissés à la charge de l'Etat.
+IV.
+L’arrêt est exécutoire.
+Le
+président :              La
+greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Mathilde Bessonnet, avocate (pour X.________),
+-
+Me Basile Couchepin, avocat (pour Z.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l'arrondissement de l'Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
