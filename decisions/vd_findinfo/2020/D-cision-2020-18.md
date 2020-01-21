@@ -1,0 +1,228 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 18"
+decided: "2020-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7542672"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-059.md", "switzerland/bund/acts/312.0/art-058.md", "switzerland/bund/acts/312.0/art-059.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/935.61/art-012.md"]
+---
+
+# VD Findinfo Décision / 2020 / 18
+
+## Regeste
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, JUGE DE LA DÉTENTION | 58 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.01.2020 Décision / 2020 / 18
+
+DEMANDE ADRESSÉE À L'AUTORITÉ, RÉCUSATION, JUGE DE LA DÉTENTION | 58 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+21
+AP19.008173-PAE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Décision
+du 21 janvier 2020
+__________________
+Composition
+:               M.
+P E R R O T, président
+M.
+Meylan et Mme Byrde, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+58 al. 1 CPP
+Statuant sur la demande de récusation déposée le 3 janvier 2020 par
+D.________
+à l'encontre de [...], Juge d’application des peines, dans la cause
+n° AP19.008173-PAE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+jugement du 13 mars 2018, le Tribunal correctionnel de l’arrondissement de Lausanne a, notamment,
+constaté qu’D.________ s’était rendu coupable d’actes d’ordre sexuel
+avec des enfants, de contrainte sexuelle, d’actes d’ordre sexuel commis sur une personne
+incapable de discernement ou de résistance et de calomnie (II), l’a condamné à une
+peine privative de liberté de cinq ans, sous déduction de 893 jours de détention avant
+jugement (III), a ordonné la mise en œuvre d’une mesure thérapeutique institutionnelle
+au sens de l’art. 59 CP (Code pénal; RS 311.0) à son encontre (IV) et a ordonné
+son maintien en détention, pour motifs de sûreté (VI). Ce jugement a été confirmé
+par jugement du 13 septembre 2018 de la Cour d’appel pénale du Tribunal cantonal (n°
+281). Un recours interjeté contre ce dernier jugement a été déclaré irrecevable
+par arrêt du 3 décembre 2018 du Tribunal fédéral (TF 6B_1230/2018).
+Un rapport d’expertise psychiatrique a été déposé le 8 mars 2018 dans la procédure
+clôturée par le jugement du 13 mars 2018 précité.
+Le condamné est détenu aux Etablissements de la Plaine de l’Orbe depuis le 2 mai 2019,
+en provenance de la Prison de La Croisée.
+b)
+Par
+ordonnance du 24 décembre 2019, rendue sous la signature de la juge [...], le Juge d’application
+des peines, statuant d’office, a, notamment, refusé d’accorder au condamné la libération
+conditionnelle de la mesure thérapeutique institutionnelle au sens de l’art. 59 CP prononcée
+par jugement du Tribunal correctionnel de l’arrondissement de Lausanne du 13 mars 2018.
+B.
+a)
+Le 3 janvier 2020, D.________ a demandé
+la récusation de la Juge d’application des peines [...]. Invoquant un « acte de
+corruption faisant suite à un acte juridique précédent », il faisait grief à
+la magistrate de s’être fondée sur « un faux rapport psychiatrique »
+et d’avoir rendu « un jugement violant tous (sic) les règles de droit (…) ».
+b)
+Le
+7 janvier 2020, la Juge d’application des peines [...] a transmis le dossier de la cause à
+la Cour de céans comme objet de sa compétence. Elle a conclu au rejet de la demande de récusation
+formée à son encontre.
+c)
+Le 14 janvier 2020, le requérant, agissant
+par son défenseur d’office, a requis qu’un délai lui soit imparti pour compléter
+sa demande et pour se déterminer sur l’écriture de la juge [...] du 7 janvier précédent.
+Par lettre du 20 janvier 2020, transmise par efax et par envoi recommandé, le Président de
+la Chambre des recours pénale a fait savoir au défenseur du requérant qu’un deuxième
+échange d’écritures ne se justifiait pas dans la présente procédure, mais que
+cela n’empêchait pas le requérant de déposer des observations spontanées, pour
+autant qu’il le fasse sans délai après la réception des déterminations qui
+lui avaient été transmises.
+Le 20 janvier 2020 également, le requérant, agissant toujours par son défenseur d’office
+en se référant à l’avis précité de la direction de la procédure,
+a conclu, avec suite de frais et dépens, à la récusation de la juge [...], à l’annulation
+de l’ordonnance rendue sous la signature de cette magistrate le 24 décembre 2019 et au renvoi
+du dossier de la cause au Juge d’application des peines pour nouvelle décision.
+En droit
+:
+1.
+Selon l’art. 59 al. 1 let. b CPP (Code de
+procédure pénale suisse du 5 octobre 2007; RS 312.0), lorsqu’un motif de récusation
+au sens de l’art. 56 let. a ou f CPP est invoqué ou qu’une personne exerçant une
+fonction au sein d’une autorité pénale s’oppose à la demande de récusation
+d’une partie qui se fonde sur l’un des motifs énumérés à l’art.
+56 let. b à e CPP, le litige est tranché sans administration supplémentaire de preuves
+et définitivement par l’autorité de recours, lorsque le ministère public, les autorités
+pénales compétentes en matière de contraventions et les tribunaux de première instance
+sont concernés.
+En l’espèce, la Chambre des recours pénale du Tribunal cantonal est compétente pour
+statuer sur la demande de récusation (art. 13 al. 1 LVCPP [loi d’introduction du Code de procédure
+pénale suisse du 19 mai 2009; BLV 312.01]), dans la mesure où celle-ci est dirigée contre
+une juge d’application des peines, soit une personne exerçant une fonction au sein d’une
+autorité pénale. Le procédé du requérant du 20 janvier 2020 ne réplique
+pas aux déterminations déposées le 7 janvier 2020 par la Juge [...]. Bien plutôt,
+il se limite à des considérations d’ordre général. Quoi qu’il en soit,
+serait-il même recevable que ce mémoire est sans pertinence, pour les motifs exposés ci-après.
+2.
+2.1
+A teneur de l'art. 58 al. 1 CPP, lorsqu'une partie
+entend demander la récusation d'une personne qui exerce une fonction au sein d'une autorité
+pénale, elle doit présenter sans délai à la direction de la procédure une demande
+en ce sens, dès qu'elle a connaissance du motif de récusation.
+Une requête de récusation ne peut ainsi pas être déposée à n'importe quel
+moment au cours du procès, selon la tournure que prend celui-ci. Il incombe au contraire à
+celui qui se prévaut d'un motif de récusation de se manifester sans délai dès la
+connaissance du motif de récusation (TF 1B_502/2018 du 12 novembre 2018 consid. 4). Passé un
+certain temps, le droit de requérir, éventuellement d'obtenir, la récusation est périmé
+(ATF 140 I 271 consid. 8.4.3; TF 1B_502/2018 du 12 novembre 2018 consid. 4). En matière pénale,
+est irrecevable pour cause de tardiveté la demande de récusation déposée trois mois,
+deux mois ou même vingt jours après avoir pris connaissance du motif de récusation. En
+revanche, n'est pas tardive la requête formée après une période de six ou sept jours,
+soit dans les jours qui suivent la connaissance du motif de récusation (TF 1B_502/2018 du 12 novembre
+2018 consid. 4).
+2.2
+En l’espèce, à l’appui de
+sa demande de récusation, le requérant critique le rapport d’expertise psychiatrique
+du 8 mars 2018, mentionné dans l’ordonnance du 24 décembre 2019 rendue sous la signature
+de la juge [...]. Il a déposé sa demande de récusation alors que cette décision au
+fond venait de lui être notifiée. Toutefois, aucun recours n’a, pour l’heure, été
+interjeté contre cette ordonnance. Si le requérant entendait contester la force probante de
+l’expertise sous l’angle de la libération conditionnelle, la voie de droit était
+celle du recours contre l’ordonnance. S’il entendait mettre en cause la validité générale
+de cet avis médical, singulièrement en excipant de la prévention de son auteur, il lui
+aurait appartenu d’agir durant la procédure clôturée par le jugement rendu le 13
+mars 2018 par le Tribunal correctionnel de l’arrondissement de Lausanne. Il aurait ainsi eu la
+faculté de demander la récusation de l’expert, respectivement le retrait du dossier de
+l’expertise. A ce stade, le requérant est donc manifestement à tard. Un grief portant
+sur une expertise ne saurait au demeurant être invoqué à l’appui d’une demande
+de récusation dirigée contre un juge. Partant, la requête de récusation est irrecevable.
+Qui plus est, les griefs de corruption et d’arbitraire dirigés contre la Juge d’application
+des peines sont sans fondement aucun et ne constituent dès lors pas des moyens susceptibles d’être
+examinés à l’aune de l’art. 56, notamment let. f, CPP.
+3.
+Il résulte de ce qui précède que
+la demande de récusation, manifestement irrecevable, doit être écartée sans autre
+échange d'écritures (art. 390 al. 2 CPP).
+Les frais de la présente procédure, constitués en l’espèce du seul émolument
+de décision (art. 422 al. 1 CPP), par 660 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), seront mis
+à la charge du requérant, conformément à l’art. 59 al. 4 CPP.
+Vu son caractère abusif, la demande de récusation ne saurait justifier l’allocation d’une
+indemnité d'office (TPF BB.2017.107 du 15 décembre 2017 consid. 4.1.3; TPF BB.2016.388 du 6
+avril 2017 consid. 6.1; Valticos,
+in
+: Valticos/Geiser/ Chappuis [éd.], Commentaire romand, Loi fédérale sur la libre circulation
+des avocats, Bâle 2010, n. 257 ad art. 12 LLCA; CREP 25 janvier 2019/60 consid. 3). Les opérations
+du défenseur d’office du requérant n’étaient dès lors pas utiles à
+la défense des intérêts de la partie et donc justifiées par l’accomplissement
+de sa tâche, indépendamment même de la question de la recevabilité du mémoire
+du 20 janvier 2020. En outre, il ne devait s’agir que d’observations spontanées sur
+la prise de position de la magistrate visée, un nouvel échange d’écritures ne se
+justifiant pas dans la présente procédure, comme cela a expressément été porté
+à la connaissance du défenseur du requérant par la lettre du Président de la Chambre
+des recours pénale du 20 janvier 2020. Les écritures déposées par le défenseur
+du requérant à compter du 14 janvier 2020 ne sauraient donc donner lieu à indemnisation
+selon l’art. 135 CPP, rapproché de l’art. 422 al. 2 let. a CPP, ce même si le mandat
+du défenseur d’office ne prend fin qu’à l’épuisement des instances cantonales
+(CREP 19 décembre 2019/1023 consid. 7 et les réf. citées).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+La demande de récusation présentée par D.________ contre la Juge d’application des
+peines [...] est irrecevable.
+II.
+Les frais de décision, par 660 fr. (six cent soixante francs), sont mis à la charge d’D.________.
+III.
+Aucune indemnité n’est allouée
+au défenseur d’office du requérant pour la présente procédure de récusation.
+IV.
+La
+décision est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+La présente décision, dont la rédaction a été approuvée à huis clos,
+est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Anne Dorthe, avocate (pour D.________),
+-
+Ministère public central,
+et communiquée à :
+-
+Mme la Juge d’application des peines,
+par l’envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, la présente décision peut, en tant qu'elle concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités fédérales; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
