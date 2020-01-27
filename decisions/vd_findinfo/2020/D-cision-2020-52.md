@@ -1,0 +1,213 @@
+---
+decision_id: "vd_findinfo_D_cision___2020___52"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2020 / 52"
+decided: "2020-01-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7561103"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2020 / 52
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, INTÉRÊT JURIDIQUEMENT PROTÉGÉ, MOTIVATION DE LA DEMANDE | 382 al. 1 CPP (CH), 385 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 27.01.2020 Décision / 2020 / 52
+
+DÉCISION D'IRRECEVABILITÉ, INTÉRÊT JURIDIQUEMENT PROTÉGÉ, MOTIVATION DE LA DEMANDE | 382 al. 1 CPP (CH), 385 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+46
+OEP/PPL/65808/NJ
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+27 janvier 2020
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+M.
+Krieger et Mme Byrde, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+38 al. 1 LEP, 382 al. 1 et 385 al. 1 et 2 CPP
+Statuant sur le recours interjeté le 20 janvier 2020 par
+L.________
+contre les décisions rendues les 21, 22 et 24 juin 2019 par l'Office d'exécution des peines
+dans la cause
+n° OEP/PPL/65808/NJ
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+L.________
+a été incarcéré depuis le 18 juin 2018, notamment aux Etablissements pénitentiaires
+de la plaine de l’Orbe, en exécution de diverses condamnations par les autorités pénales
+vaudoises. Il a été libéré définitivement le 26 juin 2019, au terme de
+sa peine.
+b)
+Au cours de l'exécution de sa peine, L.________
+a déposé de nombreuses demandes de congés, qu’il n’a pas toujours obtenus.
+Ainsi, par arrêts
+des 8 janvier 2019 (n° 12), 23 janvier 2019 (n° 44),
+20
+février 2019 (n° 121), 15 mai 2019 (n° 401) et 29 juillet 2019 (n° 579) la Chambre
+des recours pénale a déclaré sans objet les recours déposés par L.________ contre
+des décisions rendues par l’Office d’exécution des peines (ci-après :
+OEP) refusant de lui octroyer les congés requis.
+Par arrêt du 24 avril
+2019 (n° 303), la Chambre des recours pénale a déclaré irrecevable un recours daté
+du 19 mars 2019 interjeté par L.________ sans préciser la décision qu’il entendait
+contester ni les motifs dont il se prévalait, alors qu’un délai pour se conformer à
+l’art. 385 al. 1 CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0) –
+dont la teneur lui avait été rappelée – lui avait été imparti.
+Par arrêt du 18 juin
+2019 (n° 494), la Chambre des recours pénale a déclaré irrecevables les recours déposés
+le 4 juin 2019 par L.________ contre deux décisions rendues le 1
+er
+mai 2019 par l’OEP refusant de lui octroyer les congés demandés. Elle a constaté
+que ces recours étaient manifestement tardifs, que le recourant ne disposait à nouveau pas
+d’un intérêt actuel à l’annulation ou à la modification des décisions
+qu’il contestait et que la motivation des recours ne satisfaisait au surplus pas aux conditions
+de l’art. 385 al. 1 CPP.
+B.
+Par acte daté du 21 juin 2019, posté
+le 20 janvier 2020, L.________ a indiqué recourir contre des décisions de sorties rendues par
+l’OEP les 21, 22 et
+24 juin 2019,
+en indiquant "Merci d'étudier ces dysfonctionnements au sein du SPEN/EPO/OEP-Vaudois"
+et en concluant que Me Véronique Fontana lui soit désignée en qualité de défenseur
+d’office.
+Il n’a pas été
+ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Selon l'art. 38 al. 1
+LEP (Loi sur l'exécution des condamnations pénales du 4 juillet 2006; BLV 340.01), peuvent
+notamment faire l'objet d'un recours au Tribunal cantonal les décisions rendues par l'Office d'exécution
+des peines. Aux termes de l'art. 38 al. 2 LEP, la procédure est régie par les dispositions
+du CPP relatives au recours. Le recours doit ainsi être adressé par écrit, dans un délai
+de dix jours dès la notification de la décision attaquée (art. 384 let. b CPP), à
+l'autorité de recours (art. 396 al. 1 CPP), à savoir à la Chambre des recours pénale
+du Tribunal cantonal (art. 80 al. 1 let. d LOJV [Loi d’organisation judiciaire du
+12
+décembre 1979; BLV 173.01]).
+1.2
+Le recours s’exerce
+par le dépôt d’un mémoire écrit et dûment motivé (art. 390 al. 1
+et 396 al. 1 CPP). Les exigences de motivation du recours sont posées à l’art. 385 al.
+1 CPP. A teneur de cette disposition, la personne ou l’autorité qui recourt doit indiquer
+précisément les points de la décision qu’elle attaque (let. a), les motifs qui commandent
+une autre décision (let. b) et les moyens de preuves qu’elle invoque (let. c). Si le mémoire
+ne satisfait pas à ces exigences, l’autorité de recours le renvoie au recourant pour
+qu’il le complète dans un bref délai. Si, après l’expiration de ce délai
+supplémentaire, le mémoire ne satisfait toujours pas à ces exigences, l’autorité
+de recours n’entre pas en matière (art. 385 al. 2 CPP). Cette disposition vise uniquement
+à protéger le justiciable contre un formalisme excessif de la part de l’autorité.
+Elle ne permet en revanche pas de suppléer un défaut de motivation. Il est en effet communément
+admis en procédure que la motivation d’un acte de recours doit être entièrement
+contenue dans l’acte de recours lui-même. Elle ne saurait dès lors être complétée
+ou corrigée ultérieurement, l’art. 385 al. 2 CPP ne devant pas être appliqué
+afin de détourner la portée de l’art. 89 al. 1 CPP, qui interdit la prolongation des
+délais fixés par la loi (TF 6B_347/2016 du 10 février 2017
+consid.
+4.1; TF 1B_363/2014 du 7 janvier 2015 consid. 2.1 et les références citées; CREP
+6 juillet 2018/524 consid. 1.2).
+1.3
+Conformément à
+l’art. 382 al. 1 CPP, le recourant doit disposer d’un intérêt juridiquement protégé
+à l’annulation ou à la modification de la décision entreprise. En droit pénal,
+la recevabilité d’un recours dépend ainsi en particulier de l’existence d’un
+intérêt actuel à l’annulation de la décision attaquée. Cet intérêt
+doit exister non seulement au moment du dépôt du recours, mais encore au moment où l’arrêt
+est rendu (ATF 137 II 40 consid. 2 ; ATF 137 I 296 consid. 4.2, par analogie). Lorsque l’intérêt
+pour recourir fait défaut au moment du dépôt du recours, l’autorité pénale
+n’entre pas en matière sur celui-ci et elle le déclare irrecevable. En revanche, si l’intérêt
+actuel disparaît en cours de procédure, le litige est déclaré sans objet et la cause
+est rayée du rôle (ATF 139 I 206 consid. 1.1).
+1.4
+En l'espèce, les décisions attaquées,
+qui sont désignées par leurs dates, soit les 21, 22 et 24 juin 2019, sont de six mois antérieures
+au dépôt du recours, de sorte qu'on peut déjà douter que celui-ci ait été
+déposé à temps.
+Cela
+étant, cet acte est dépourvu de toute indication quant aux points des décisions évoquées
+qui seraient contestés ou quant aux motifs qui commanderaient de nouvelles décisions. Ne comportant
+aucune motivation à l'exception de "Merci d'étudier ces dysfonctionnements au sein du
+SPEN/EPO/OEP-Vaudois", le recours ne satisfait donc de surcroît pas aux exigences de formes
+prescrites par l'art. 385 al. 1 CPP. Un tel défaut de motivation ne saurait justifier qu'un délai
+supplémentaire soit fixé au recourant pour compléter son acte en application de l'art.
+385 al. 2 CPP (cf.
+supra
+consid.
+1.2).
+Enfin,
+dans la mesure où L.________ a été libéré définitivement le 26 juin 2019,
+il ne dispose à l'évidence pas d'un intérêt juridiquement protégé, ni encore
+moins actuel à recourir contre des décisions lui refusant des sorties.
+2.
+Au vu de ce qui précède, le recours
+déposé par L.________ le
+20 janvier
+2020 doit être déclaré irrecevable.
+La requête de désignation d’un défenseur d’office pour la procédure de
+recours sera rejetée, dans la mesure où le recours était d’emblée dénué
+de chances de succès (CREP 21 août 2014/593 et les références citées).
+Les frais de la procédure de recours, constitués en l'espèce du seul émolument d’arrêt,
+par 550 fr. (art. 20 al. 1 TFIP  [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010; BLV 312.03.1]), seront mis à la charge du recourant, qui est réputé
+succomber (art. 428 al. 1, 2
+e
+phrase CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+La requête de désignation d'un défenseur d'office pour la procédure de recours est
+rejetée.
+III.
+Les frais d'arrêt, par 550 fr. (cinq cent
+cinquante francs), sont mis à la charge de L.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. L.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+Office d'exécution des peines,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
