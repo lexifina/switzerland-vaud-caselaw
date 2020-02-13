@@ -1,0 +1,239 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 7"
+decided: "2020-02-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7587122"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-328.md", "switzerland/bund/acts/272/art-329.md", "switzerland/bund/acts/272/art-331.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 7
+
+## Regeste
+
+RÉVISION{DÉCISION}, MOTIF DE RÉVISION, OUVERTURE DE LA FAILLITE, RÉCUSATION, COMPOSITION DE L'AUTORITÉ, ASSISTANCE JUDICIAIRE, DÉCISION D'IRRECEVABILITÉ | 328 al. 1 let. a CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 13.02.2020 Faillite / 2020 / 7
+
+RÉVISION{DÉCISION}, MOTIF DE RÉVISION, OUVERTURE DE LA FAILLITE, RÉCUSATION, COMPOSITION DE L'AUTORITÉ, ASSISTANCE JUDICIAIRE, DÉCISION D'IRRECEVABILITÉ | 328 al. 1 let. a CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF19.026234-200035
+7
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+13 février 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+M.
+Colombini et Mme Rouleau, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+328 al. 1 let. a CPC
+La Cour des poursuites
+et faillites du Tribunal cantonal, statuant à huis clos en sa qualité d'autorité de recours
+en matière sommaire de poursuites et de faillite, s'occupe de la demande de révision déposée
+par
+A.L.________
+,
+à Villeneuve, dans la cause l'opposant à
+B.L.________
+,
+à Villeneuve.
+Vu les pièces au
+dossier, la cour considère :
+En fait :
+1.
+a)
+Par jugement rendu le 13 août 2019, à la suite de l'audience du même jour, le Président
+du Tribunal de l'arrondissement de L’Est vaudois a prononcé la faillite de A.L.________, avec
+effet au 13 août 2019 à 16h25. Ce jugement a été notifié au failli le 21 août
+2019.
+Le 23 août 2019, A.L.________ a recouru contre ce jugement.
+b)
+Par décision rendue le 30 août 2019, la Présidente de la Cour de céans a rejeté
+la requête de récusation, en tant qu'elle la concernait, et la requête d'effet suspensif
+contenues dans le recours déposé par A.L.________ et a refusé à celui-ci le bénéfice
+de l'assistance judiciaire, en particulier la désignation d'un conseil juridique.
+Par arrêt du 8 octobre 2019, la IIe Cour de droit civil du Tribunal fédéral a déclaré
+irrecevable le recours déposé par A.L.________ contre la décision du
+30
+août 2019 précitée.
+c)
+Par arrêt rendu le 1
+er
+novembre 2019, la cour de céans a déclaré irrecevable – pour défaut de motivation
+conforme – le recours déposé par A.L.________ contre le jugement de faillite du 13 août
+2019.
+2.
+Par écriture du 14 décembre 2019 adressée au Tribunal fédéral, A.L.________
+a :
+-
+déclaré recourir
+contre l'arrêt du 1
+er
+novembre 2019,
+-
+demandé "la révision complète" de la cause, estimant que "les racines des
+problèmes de cette
+affaire de vente d'un appartement, dont la conformité a été
+contestée à tort, sont les graves erreurs de fond",
+-
+requis "l'effet suspensif
+de toutes les procédures ouvertes contre [lui]",
+-
+sollicité le bénéfice
+de l'assistance judiciaire, et
+-
+déclaré qu'il
+"récuse les magistrats qui ont déjà participé à la procédure de cette
+affaire".
+Par arrêt du 23 décembre 2019, statuant sur les conclusions prises par A.L.________ dans son
+écriture du 14 décembre 2019, la IIe Cour de droit civil du Tribunal fédéral a déclaré
+irrecevable la demande de récusation (1), a déclaré irrecevable le recours (2), a rejeté
+la requête d'assistance judiciaire (3), a dit que la demande de révision était transmise
+à l'autorité précédente (4) et a mis les frais judiciaires, arrêtés à
+500 fr., à la charge du recourant (5).
+En droit :
+I.
+a)
+Selon l’art. 328 al. 1 let. a CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272), une partie peut demander la révision de la décision entrée en force au tribunal
+qui a statué en dernière instance, lorsqu’elle découvre après coup des faits
+pertinents ou des moyens de preuve concluants qu’elle n’avait pu invoquer dans la procédure
+précédente, à l’exclusion des faits et moyens de preuve postérieurs à
+la décision.
+La révision étant
+une voie de rétractation, c'est l'autorité qui a statué en dernier lieu sur la question
+faisant l'objet de la révision qui est compétente (Schweizer, Commentaire romand, CPC, Bâle
+2019, 2
+e
+éd., n. 12 ad art. 328 CPC et n. 5 ad art. 331 CPC),
+Le délai pour demander
+la révision est de 90 jours à compter de celui où le motif de révision est découvert ;
+la demande doit être écrite et motivée (art. 329 al. 1 CPC).
+b)
+L'écriture du 14 décembre 2019 est dirigée contre l'arrêt rendu par la Cour de céans
+le 1
+er
+novembre 2019. Dans cet arrêt, la cour avait retenu que l'acte de recours déposé par A.L.________
+le 23 août 2019 contre le jugement de faillite du 13 août 2019 ne visait pas le raisonnement
+opéré par le juge de la faillite ni ne remettait en cause la motivation du jugement attaqué,
+en particulier la conformité aux réquisits légaux de la requête de faillite, du commandement
+de payer et de la commination de faillite produits par la requérante, le recourant se bornant à
+exposer divers griefs contre un jugement du Tribunal d’arrondissement de l’Est vaudois du
+31 mai 2017, définitif et exécutoire
+à la suite de l'arrêt de la Cour d'appel civile du
+14
+mai 2018 et de l'arrêt du Tribunal fédéral du 10 juillet 2018. Le recours a dès lors
+été déclaré irrecevable, faute de motivation conforme à l’art. 321 al.
+1 CPC.
+Force est de constater que les moyens invoqués par A.L.________ dans son écriture du 14 décembre
+2019 – en particulier les moyens tendant à la révision, objet de la présente décision
+– ne concernent en réalité pas l'arrêt du
+1
+er
+novembre 2019 (ni du reste la décision de faillite du 13 août 2019), mais – une nouvelle
+fois – le jugement rendu le 31 mai 2017 par le Tribunal d’arrondissement de l’Est vaudois
+(confirmé par arrêt rendu par la Cour d’appel civile du Tribunal cantonal le 14 mai 2018
+et par arrêt du Tribunal fédéral du 10 juillet 2018) ayant donné lieu à la procédure
+de faillite. Le juge de la faillite ne saurait en aucun cas revoir le bien-fondé dudit jugement.
+En effet, il n'est pas compétent pour statuer sur l'existence matérielle de la créance
+à l'origine de la faillite (TF 5A_257/2013 du 12 avril 2013) mais uniquement sur le respect des
+exigences formelles de l’art. 166 al. 1 LP (loi fédérale du 11 avril 1889 sur la poursuite
+pour dettes et la faillite ; RS 281.1), et sur l’existence ou non d’un des cas prévus
+par les art. 172 à 173a LP (art. 171 LP).
+Le requérant fonde
+son argumentation en particulier sur la délivrance, le 22 mars 2019, d'un permis d'habiter, qu'il
+considère comme étant "incontes-tablement un fait nouveau". Ce document, invoqué
+en réalité dans le but de remettre en cause le jugement du 31 mai 2017 (confirmé les 14
+mai et 10 juillet 2018) est sans pertinence dans le cadre de la présente procédure de faillite,
+pour les motifs exposés ci-dessus, à savoir l'impossibilité pour le juge de la faillite
+de revoir le bien-fondé du jugement à l'origine de la faillite. En outre, la révision
+ne peut être demandée que pour des faits ou preuves découverts a posteriori, que la partie
+n’avait pas pu invoquer dans la procédure originelle malgré sa diligence, et non pour
+des faits ou des preuves nés après l'entrée en force de la décision (ATF 143 III
+272 consid. 2.3; Schweizer, op. cit., n. 21 ad art. 328 CPC). Or, en l'espèce, A.L.________ avait
+connaissance de la délivrance du permis d'habiter invoqué, a pu s'en prévaloir dans le
+cadre de la procédure de faillite, ce qu'il a du reste fait, notamment dans un courrier adressé
+au tribunal d'arrondissement le 10 août 2019.
+Il y a lieu de conclure
+de ce qui précède que A.L.________ n'invoque aucun moyen de révision recevable au sens
+de l’art. 328  al. 1 CPC.
+II.
+Dans ces circonstances,
+faute de chances de succès, l'assistance judiciaire requise ne saurait être accordée (art.
+117 let. b CPC).
+III.
+Enfin, il n'y a pas lieu
+à récusation des magistrats ayant participé à la procédure de recours contre
+le jugement de faillite, la garantie du juge impartial n'étant pas violée lorsque le juge,
+saisi d'une requête de révision, avait déjà statué sur le jugement dont la révision
+est requise, dès lors que les motifs de révision à juger ne sont pas identiques à
+l'état de fait déterminant jusqu'alors (ATF 108 Ia 15 consid. 6a ; TF 4F_11/2013 du 15 octobre
+2013 consid. 1).
+IV.
+En conclusion, la requête de révision doit être déclarée irrecevable et les
+requêtes d'assistance judiciaire et de récusation rejetées.
+Le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+La requête de révision est irrecevable.
+II.
+La requête d'assistance judicaire est rejetée.
+III.
+La requête de récusation est rejetée.
+IV.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+-
+M. A.L.________,
+-
+Me Nicolas Saviaux, avocat (pour B.L.________),
+-
+M. le Préposé à l’Office
+des
+faillites de l’arrondissement de l’Est vaudois,
+-
+M. le Préposé à l’Office des poursuites du district d’Aigle.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Préposé au Registre du commerce du canton de Vaud,
+-
+M. le Conservateur du Registre foncier de l’Est vaudois,
+et communiqué à :
+‑
+M. le Président du Tribunal d’arrondissement de L’Est vaudois.
+La greffière :
