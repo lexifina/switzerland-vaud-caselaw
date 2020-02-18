@@ -1,0 +1,180 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___5"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 5"
+decided: "2020-02-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7592753"
+cites_law: ["switzerland/bund/acts/173.110/art-035.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-033.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 5
+
+## Regeste
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 18 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 18.02.2020 Plainte / 2020 / 5
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 18 LP
+
+TRIBUNAL
+CANTONAL
+FA19.049542-200090
+4
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+18 février 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+M.
+Colombini et Mme Byrde, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+18 LP
+Vu la décision rendue le 30 décembre 2019, à la suite de l’audience du 2 décembre
+2019, par la Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois, statuant
+en tant qu’autorité inférieure de surveillance, rejetant la requête formée
+le 6 novembre 2019 par
+Z.________
+,
+à Bretigny-sur-Morrens, tendant à la restitution du délai d’opposition au commandement
+de payer, qui lui a été notifié dans la poursuite n° 9’333’416 de
+l’
+OFFICE DES POURSUITES
+DU DISTRICT DU GROS-DE-VAUD
+à l’instance
+d’
+I.________
+,
+à Zurich (I), et rendant la décision sans frais (II),
+vu l’avis invitant au retrait du pli contenant cette décision, remis au plaignant le 31 décembre
+2019 et indiquant un délai de garde postal échéant le 7 janvier 2019,
+vu le renvoi de ce pli à la justice de paix avec la mention « non réclamé »,
+vu l’acte de recours déposé le 17 janvier 2020 devant le Tribunal d’arrondissement
+de la Broye et du Nord vaudois et transmis à la cour de céans ;
+attendu
+que le délai pour recourir contre la décision de l'autorité inférieure de surveillance
+est de dix jours (art. 18 al. 1 LP [loi fédérale du 11 avril 1889 sur la poursuite pour dettes
+et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]),
+que
+conformément à l'art. 138 al. 3 let. a CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), applicable selon l'art. 31 LP, la décision du 30 décembre 2019 était
+censée notifiée à l'échéance du délai de garde de sept jours, qui a couru
+du 31 décembre 2019 au 7 janvier 2020,
+que
+le délai de recours a ainsi commencé à courir le 8 janvier 2020 pour expirer le 17 janvier
+suivant,
+que
+le recours déposé le 17 janvier 2020 a dès lors été formé en temps utile
+;
+attendu que, selon le Tribunal fédéral, il découle de l’art. 18 LP et de la jurisprudence
+y relative que le recours doit contenir un exposé, à tout le moins sommaire, des moyens invoqués
+à son appui (TF 5A_118/2018 du 7 février 2018 consid. 4.1),
+que l'art. 28 al. 3 LVLP, qui selon une jurisprudence constante, impose aux parties de motiver leur recours,
+soit d'indiquer leurs moyens, faute de quoi le recours est irrecevable (CPF 23 novembre 2011/43 ; CPF
+27 mai 2011/17; CPF 8 mai 2009/19; CPF 19 avril 2006/7; CPF 23 décembre 2003/66 et les arrêts
+cités), ne revêt ainsi aucune portée propre (TF 5A_118/2018 précité),
+que la décision notifiée aux parties comporte l'indication de la voie du recours de l'art.
+18 al. 1 LP et mentionne que "l'acte de recours doit préciser les points sur lesquels une modification
+du prononcé est demandée et indiquer brièvement les moyens invoqués",
+que la jurisprudence du Tribunal fédéral en matière de recours selon les art. 319 ss CPC
+(Code de procédure civile du 19 décembre 2008 ; RS 272) –applicable par analogie –
+exige que le recourant démontre le caractère erroné de la motivation de la décision
+attaquée et que son argumentation soit suffisamment explicite pour que l’instance de recours
+puisse la comprendre, ce qui suppose une désignation précise des passages de la décision
+qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (TF 5A_488/2015
+du 21 août 2015 consid. 3.2.1, Revue suisse de procédure civile [RSPC] 2015, p. 512),
+qu’un vice dans la motivation n’est pas réparable (ATF 126 III 30, JdT 2000 II 11) ;
+attendu par ailleurs que selon l’art. 33 al. 4 LP, quiconque a été empêché
+sans sa faute d’agir peut demander à l’autorité de surveillance ou à l’autorité
+judiciaire compétente qu’elle lui restitue ce délai, l’intéressé devant,
+à compter de la fin de l’empêchement, déposer une requête motivée dans
+un délai égal au délai échu et accomplir auprès de l’autorité compétente
+l’acte juridique omis,
+que selon la jurisprudence, il faut entendre par empêchement non fautif, non seulement l'impossibilité
+objective, comme la force majeure, mais aussi l'impossibilité subjective due à des circonstances
+personnelles ou à une erreur excusables (TF 5A_149/2013 du 10 juin 2013 consid. 5.1.1 ; 5A_896/2012
+du 10 janvier 2013 consid. 3.2 et les réf. cit. ; 5A_30/2010 du 23 mars 2010 consid. 4.1; de manière
+générale sur l'empêchement d'accomplir un acte de procédure, cf. TF 2C_319/2009 du
+26 janvier 2010 consid. 4.1 ; 2P.264/2003 du 29 octobre 2003 consid. 2.1 et les réf. cit.).
+qu’en d'autres termes, est non fautive toute circonstance qui aurait empêché un plaideur
+consciencieux d'agir dans le délai fixé (ATF 119 II 86 consid. 2a; TF 5A_149/2013 précité
+; 2C_734/2012 du 25 mars 2013 consid. 3.3 et les réf. cit. ; Gilliéron, Commentaire de la loi
+fédérale sur la poursuite pour dettes et la faillite, n. 44 ad art. 33 LP ; Poudret, Commentaire
+de la loi fédérale d’organisation judiciaire, t. 1, pp. 246 à 251 ad art. 35 aOJ),
+que, parmi les empêchements non fautifs figurent l’incapacité passagère de discernement,
+l’accident ou la maladie grave et subite (ATF 112 V 255 consid. 2a et les réf. cit. ; 108
+V 109 consid. 2c), ainsi que le service militaire (Nordmann, in Staehelin/Bauer/Staehelin (éd.),
+Basler Kommentar, SchKG I, n. 11 ad art. 33 SchKG ; Poudret, op. cit., pp. 246 s. ad art. 35 aOJ),
+que, s’agissant plus particulièrement de la maladie, la jurisprudence et la doctrine posent
+comme principe qu’elle doit être telle qu’elle implique non seulement que l’intéressé
+soit incapable d’agir dans le délai, mais aussi qu’il soit incapable de demander à
+un tiers de le faire (ATF 112 V 255 consid. 2a et les réf. cit.) ;
+attendu que dans ses considérants, le premier juge a retenu que le plaignant n’avait pas formé
+opposition dans le délai de dix jours suivant la notification du commandement de payer, qui était
+arrivé à échéance le lundi 7 octobre 2019, qu’une attestation médicale
+au dossier permettait de retenir que le plaignant avait été empêché de gérer
+ses affaires administratives pendant la période du 23 septembre au 14 octobre 2019, qu’il
+n’était ainsi plus empêché de former opposition dès le 15 octobre 2019, que
+le délai de dix jours pour agir dès la fin de l’empêchement avait dès lors
+expiré le 24 octobre 2019, que l’opposition formée le 6 novembre 2019 n’était
+donc pas intervenue en temps utile et que cela suffisait pour rejeter la requête en restitution
+de délai,
+que le recours ne contient aucune motivation topique contre ce raisonnement,
+qu’en revanche, le recourant se contente d’émettre des observations sur le bien-fondé
+de la créance déduite en poursuite et d’invoquer sa situation financière, qui ne
+lui permettrait pas de payer la dette en poursuite, ce qui n’est pas pertinent en matière
+de restitution de délai,
+que faute de motivation ciblée, le recours doit être déclaré irrecevable,
+que supposé recevable, le recours serait manifestement infondé, dès lors que le prononcé
+peut être confirmé par adoption de motifs ;
+attendu que le présent arrêt est rendu sans frais (art. 20a al. 2 ch. 5 LP, 61 al. 2 let. a
+et 62 al. 2 OELP [ordonnance sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. Z.________
+‑
+I.________
+‑
+M. le Préposé à l'Office des poursuites du district du Gros-de-Vaud
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière :
