@@ -1,0 +1,1834 @@
+---
+decision_id: "vd_findinfo_S_questre___2020___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2020 / 1"
+decided: "2020-03-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7632835"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/210/art-277.md", "switzerland/bund/acts/220/art-006.md", "switzerland/bund/acts/220/art-115.md", "switzerland/bund/acts/220/art-128.md", "switzerland/bund/acts/220/art-131.md", "switzerland/bund/acts/220/art-134.md", "switzerland/bund/acts/272/art-053.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-142.md", "switzerland/bund/acts/272/art-250.md", "switzerland/bund/acts/272/art-254.md", "switzerland/bund/acts/272/art-309.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-046.md", "switzerland/bund/acts/281.1/art-052.md", "switzerland/bund/acts/281.1/art-080.md", "switzerland/bund/acts/281.1/art-081.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-272.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-274.md", "switzerland/bund/acts/281.1/art-278.md", "switzerland/bund/acts/291/art-006.md", "switzerland/bund/acts/510.10/art-002.md", "switzerland/bund/acts/510.10/art-015.md", "switzerland/bund/acts/642.11/art-023.md"]
+---
+
+# VD Findinfo Séquestre / 2020 / 1
+
+## Regeste
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE SÉQUESTRE, SÉQUESTRE{LP}, MOTIVATION DE LA DEMANDE, NOUVEAU MOYEN DE PREUVE, SÛRETÉS, MOTIVATION DE LA DÉCISION, DROIT D'ÊTRE ENTENDU, DROIT D'OBTENIR UNE DÉCISION, PREUVE FACILITÉE, PRESCRIPTION, SUSPENSION DU DÉLAI, REMISE CONVENTIONNELLE DE DETTE, OBLIGATION D'ENTRETIEN, ENFANT, MAJORITÉ{ÂGE}, ASSISTANCE JUDICIAIRE | 277 al. 2 CC, 115 CO, 134 al. 1 ch. 6 CO, 29 al. 1 Cst., 29 al. 2 Cst., 271 al. 1 ch. 6 LP, 272 al. 1 ch. 1 LP, 273 al. 1 LP, 273 LP, 278 al. 3 LP, 81 al. 1 LP, 122 al. 2 CPC (CH), 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 09.03.2020 Séquestre / 2020 / 1
+
+OPPOSITION{PROCÉDURE}, ORDONNANCE DE SÉQUESTRE, SÉQUESTRE{LP}, MOTIVATION DE LA DEMANDE, NOUVEAU MOYEN DE PREUVE, SÛRETÉS, MOTIVATION DE LA DÉCISION, DROIT D'ÊTRE ENTENDU, DROIT D'OBTENIR UNE DÉCISION, PREUVE FACILITÉE, PRESCRIPTION, SUSPENSION DU DÉLAI, REMISE CONVENTIONNELLE DE DETTE, OBLIGATION D'ENTRETIEN, ENFANT, MAJORITÉ{ÂGE}, ASSISTANCE JUDICIAIRE | 277 al. 2 CC, 115 CO, 134 al. 1 ch. 6 CO, 29 al. 1 Cst., 29 al. 2 Cst., 271 al. 1 ch. 6 LP, 272 al. 1 ch. 1 LP, 273 al. 1 LP, 273 LP, 278 al. 3 LP, 81 al. 1 LP, 122 al. 2 CPC (CH), 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+KE18.049502-191449
+19
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+9 mars 2020
+_________________
+Composition
+:              Mme
+Byrde
+,
+juge présidante
+Mmes
+Rouleau et Cherpillod, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+29 al. 1 et 2 Cst. ; 81 al. 1, 271 al. 1 ch. 6, 272 al. 1 ch. 1, 273 al. 1, 278 al. 3 LP ;
+277 al. 2 CC ; 115, 134 al. 1 ch. 6 CO ; 122 al. 2, 321 al. 1 CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+A.N.________
+,
+à [...] (Etats-Unis), contre le prononcé rendu le 27 août 2019, à la suite de l’audience
+du 18 décembre 2018, par la Juge de paix du district de Morges, dans la cause opposant le recourant
+à
+R.________
+,
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par
+acte du 1
+er
+novembre 2018 fondé sur l’art. 271 al. 1 ch. 6 LP (loi fédérale du 11 avril 1889
+sur la poursuite pour dettes et la faillite ; RS 281.1), R.________ a requis du Juge de paix du
+district de Morges qu’il ordonne, avec suite de frais et dépens, le séquestre à
+concurrence de 164'846 fr. 37, subsidiairement 94'636 fr. 91, des droits successoraux dont A.N.________
+est titulaire sur le compte bancaire n° [...] de la Banque W.________ et de la dispenser de fournir
+des sûretés. A l’appui de sa requête, elle a produit les pièces suivantes :
+-
+un copie d’un jugement rendu le 23 mars 2004 par le Président du Tribunal civil de l’arrondissement
+de La Côte, prononçant, sur requête commune, le divorce de A.N.________ et de R.________
+(I) et ratifiant pour faire partie intégrante du jugement les chiffres III à XIII de la convention
+sur les effets du divorce, signée le 17 octobre 2003 par les parties (II), dont le chiffre V à
+la teneur suivante :
+« V.
+A.N.________ contribuera à l’entretien de ses enfants [réd. : C.N.________ née
+le [...] 1992, et B.N.________ né le [...] 1994] par le versement des pensions suivantes :
+- CHF 850.— (…)
+par enfant et par mois, jusqu’à ce que l’enfant ait atteint l’âge de 15 ans.
+- CHF 1'000.— (…)
+par enfant et par mois dès cet âge et jusqu’à ce que l’enfant ait atteint
+sa majorité, l’art. 277 al. 2 CCS étant réservé.
+Dites pensions seront
+payées douze fois l’an.
+Les pensions mentionnées
+ci-dessus ne seront pas indexées. »
+-
+une copie certifiée conforme d’un jugement rendu le 7 novembre 2011 par le Président
+du Tribunal civil de l’arrondissement de La Côte admettant partiellement l’action de
+A.N.________ en modification du jugement de divorce du 23 mars 2004 (I) et modifiant le dispositif dudit
+jugement en ce sens que notamment :
+« (…)
+IIbis.
+dit
+que A.N.________ contribuera à l’entretien
+de ses enfants C.N.________, née le [...] 1992, et B.N.________, né le [...] 1994, par le régulier
+versement d’un montant de 600 USD (…), par enfant, payable d’avance le premier de chaque
+mois, dès et y compris le 1
+er
+mars 2009, et jusqu’à la fin de leur formation professionnelle pour autant qu’elle soit
+achevée dans des délais normaux ;
+IIter.
+dit
+que le versement des pensions prévues
+sous chiffre II bis ci-dessus se fera en mains de R.________ dès le 1
+er
+mars 2009 et jusqu’à la majorité de chaque enfant et que, dès le 1
+er
+du mois suivant la majorité de l’enfant, le versement de sa contribution se fera directement
+en ses propres mains, soit dès le 1
+er
+août 2010 en ce qui concerne C.N.________ et dès le 1
+er
+juin 2012 en ce qui concerne B.N.________ ;
+(…) »
+Le
+jugement retient que A.N.________ avait conclu à la réduction des contributions d’entretien
+en cause à 350 fr. par enfant et que R.________ avait conclu au rejet de cette conclusion.
+-
+un décompte non signé couvrant la période courant du 1
+er
+août 2003 au 28 février 2009, dont il ressort que les contributions en cause ont été
+réglées jusqu’au mois de juillet 2008 y compris, puis dès le mois d’août
+2008 à raison de 200 fr. par mois jusqu’au mois de février 2009 y compris, laissant un
+solde impayé de 10'650 fr., y compris le paiement d’une retenue non justifiée de 850
+fr. au mois de juillet 2006, et une créance d’intérêt sur ce solde au 29 octobre
+2018 de 4'908 fr. 63 ;
+-
+un décompte non signé couvrant la période courant du 1
+er
+mars 2009 au 31 octobre 2018, dont il ressort que les contributions en cause ont été couvertes
+par des versements à raison de 200 francs par mois du mois de mars au mois de juin 2009 y compris,
+de 982 fr. 25 au mois de juillet 2009, de 955 US$ pour le mois d’août 2009, de 938 fr. 41
+pour le mois de septembre 2009, de 955 US$ par mois pour les mois d’octobre 2009 à juillet
+2010 y compris, de 465 US$ au mois d’août 2010, de 455 US$ par mois pour les mois de
+septembre et d’octobre 2010 y compris et de montants divers par mois pour les mois de novembre
+2010 à février 2012 y compris. Selon ce décompte, les versements relatifs à ces contributions
+ont cessé complètement dès le mois de mars 2012 jusqu’au mois d’octobre 2018,
+laissant un total de pensions impayées de 64'018,34 US$ et d’intérêts, par 15'419,12
+US$. Le premier juge, par son greffier, a ajouté sur ce décompte deux versements de 465 US$
+pour les mois de mai et juin 2012, donnant lieu à un solde de pension impayée de 63'088,34
+US$ (64'018,34 – 930) et d’intérêts de 15'119,17 US$ (15'419, 12 – 299,95) ;
+-
+un extrait du site internet ictax.admin.ch du 29 octobre 2018 dont il ressort qu’à cette date
+1 US$ valait 0,998153 franc suisse ;
+-
+une copie d’une attestation d’études valable pour le semestre académique printemps
+2017-2018 (19 février 2018 au 16 septembre 2018), établie le 19 février 2018 par la Haute
+école [...] dont il ressort que B.N.________ était étudiant régulier à cette
+école, ses études ayant débuté le 19 septembre 2016 en filière Architecture,
+à plein temps, pour une durée minimale de trois ans, et qu’il ne recevait aucune rémunération
+de l’école durant sa formation ;
+-
+une copie d’une cession de créance signée le 3 septembre 2018 par C.N.________ et R.________,
+par laquelle la première a déclaré céder à la seconde la créance dont elle
+était titulaire à l’encontre de A.N.________ au titre de contributions d’entretien
+impayées, R.________ étant expressément autorisée à en requérir le paiement
+en justice par le biais de tous moyens utiles ;
+-
+une copie d’une cession de créance signée le 1
+er
+septembre 2018 par B.N.________ et le 3 septembre 2018 par R.________, par laquelle le premier a déclaré
+céder à la seconde la créance dont il était titulaire à l’encontre de
+A.N.________ au titre de contributions d’entretien impayées, R.________ étant expressément
+autorisée à en requérir le paiement en justice par le biais de tous moyens utiles ;
+-
+une copie d’un rapport avec annexe établi le 28 septembre 2018 par l’exécuteur
+testamentaire de la succession de feu D.N.________ et du mandataire de la succession de feu E.N.________,
+dont il ressort que A.N.________ était héritier de 19/128
+èmes
+d’un immeuble sis à [...], vendu le 30 avril 2018 pour le prix de 1'355'000 fr., et d’un
+quart des autres biens de la succession de feu D.N.________, ce qui avait pour conséquence qu’il
+avait droit à un montant de 164'846 fr. 37 sur le solde de 1'109'629 fr. 15 du compte n°
+[...] de la Banque W.________ ;
+-
+un extrait internet du registre foncier, non daté, dont il ressort que A.N.________ était copropriétaire
+en main commune de la parcelle n° [...] de la Commune d’ [...] ;
+-
+une copie d’un décompte du prix de vente pour le vendeur non signé du 27 avril 2018,
+dont il ressort que la parcelle n° [...] de la Commune d’ [...] a été vendue pour
+le prix de 1'355'000 fr., laissant un solde de 1'112'140 fr. 75 aux vendeurs après déduction
+des prêts hypothécaires, consignation au fisc et paiement du solde d’impôt ;
+-
+une copie d’un décompte de vente d’immeuble au 7 mai 2018, non signé ni daté,
+faisant état d’un prix de vente de 1'355'000 fr. et d’une part de A.N.________ de 120'473
+fr. 99 ;
+-
+des extraits de comptes de succession non datés ni signés.
+b)
+Par
+ordonnance du 2 novembre 2018, la Juge de paix du district de Morges a ordonné, en application de
+l’art. 271 al. 1 ch. 4 LP, le séquestre à concurrence de 94'636 fr. 91 sans intérêt
+des droits successoraux dont A.N.________ est titulaire sur le compte bancaire n° [...] auprès
+de la Banque W.________ et a dispensé la créancière de la fourniture de sûretés.
+A.N.________ a été informé de cette ordonnance et du fait que le séquestre avait
+porté à hauteur de 100'000 fr. par courriel de l’Office des poursuites du district de
+Morges du 7 novembre 2018.
+2.
+a)
+Par acte du 15 novembre 2018, A.N.________,
+par son conseil, a formé opposition au séquestre en concluant, avec suite de frais et dépens,
+à ce qu’il soit ordonné à l’intimée R.________ le dépôt de
+sûretés non inférieures à 40'500 francs et à la nullité, respectivement
+à l’annulation de l’ordonnance de séquestre, ordre étant donné à
+l’Office des poursuites du district de Morges de libérer immédiatement en sa faveur les
+avoirs séquestrés. A l’appui de ses conclusions, il a requis la production de six pièces
+et a produit les pièces suivantes :
+-
+une copie de l’ordonnance de séquestre du 2 novembre 2018 ;
+-
+une copie du courriel de l’Office des poursuites du district de Morges du 7 novembre 2018
+susmentionné ;
+-
+un extrait d’un site internet relatif à B.N.________ mentionnant qu’il avait suivi le
+gymnase de [...], avait une maturité professionnelle commerciale, avait suivi la Haute école
+[...], classe de 2019, avait le grade de premier-lieutenant à l’armée et travaillait
+chez Q.________ SA ;
+-
+une feuille d’information relative aux indemnités pour militaires en service, état au
+1
+er
+mai 2018, éditée par l’Armée suisse dont il ressort que la solde se situe entre
+4 fr. par jour pour une recrue et 13 fr. par jour pour un premier lieutenant et l’allocation pour
+perte de gain de 62 fr. par jour pour un militaire pendant l’école de recrues à 196 fr.
+par jour au maximum pendant le service pour un grade supérieur ;
+-
+une copie d’un échange de courriels entre les parties sur la messagerie iMessage intervenu
+entre le 26 décembre 2014 et le premier janvier 2015, dans lequel l’opposant a indiqué
+le 26 décembre 2014 qu’il n’était pas disponible et a demandé à l’intimée
+de lui dire de quels sujets elle voulait discuter. Celle-ci lui a répondu qu’elle voulait
+«
+faire un point
+sur la pension et les enfants car j ai pris de bonne résolution et je voulais t en informer
+de vive voix (…)
+», précisant
+que «
+les enfants
+mon aidée à faire le bon choix
+»,
+et lui a demandé une entrevue de trente minutes pour qu’elle puisse «
+te
+dire ce que j’ai a t annoncer
+».
+L’opposant lui ayant demandé de clarifier son propos, l’intimée lui a indiqué
+qu’elle entendait venir lui parler, régler tous leurs différends et mettre un point final
+au conflit. L’opposant lui a répondu : «
+Je
+regrette nous serons ʺout of Townʺ
+».
+Le 28 décembre 2014, l’intimée lui a proposé une rencontre en [...], où elle
+était, s’il se trouvait «
+out
+of Town
+» dans la région. L’opposant
+n’a pas répondu à ce message. Le 1
+er
+janvier 2015, l’intimée a envoyé le message suivant : « [émoticône
+de cloche]
+Bonne Année
+2015 a vous tous
+[émoticône d’un
+sac avec la mention $]
+de la
+pension pour ma part je remet sa entre vos mains je ne demanderai plus rien c’est une page tournée
+pour moi nos enfants son bien
+[émoticône
+d’un cœur]
+je suis
+très fier de ce qu’ils sont devenu tous les deux malgré nos différents en 2014 et
+avant mais l’amour a tout résolu ils t aime A.N.________ inconditionnellement
+(…)
+bisous et Vivez la vie que
+vous aimer et aimer la vie que vous vivez R.________
+».
+L’opposant a répondu un peu plus de deux heures plus tard notamment ce qui suit : « (…)
+Comme tu le dit bien, ils m’aiment
+inconditionnellement et je ne peux seulement que t’en remercier. Concernant la pension due, pour
+moi c’est très clair mais il faut expliquer cela aux enfants sans que tu y remette ton ʺTwistʺ
+dedans et passer pour la meilleur mère au monde. Tu sais, j’ai (nous) avons essayé d’être
+dans leur vie et en fin de compte ton agenda était (est probablement toujours) différent que
+le notre. Concernant ma relation avec nos enfants, j’en suis actuellement fatigué et je ne
+vais plus rien faire de mon côté. Je (ainsi que ma femme et leur sœur) mérite un
+peu plus de respect que 1 sms par année. Maintenant ils sont adultes et n’ont qu’à
+prendre leurs responsabilités (quand ça les arranges ils en sont capables) J’attends
+un coup de téléphone ou une visite afin de m’expliquer leur actuel et passé comportement
+si ils ont envie de recréer une relation (je ne vais plus répondre à un e-mail or Sms).
+Concernant la pension, merci de me répondre sur mon e-mail ou m’envoyer une confirmation par
+écrit. Bonne et Heureuse Année et bonne vacances
+».
+L’intimée a répondu le même jour à ce message notamment ce qui suit :
+«
+Je suis vraiment
+désolée que cette haine ses jugements et ses préjugés t habitent encore apres
+toutes ses années que tu te sente attaque mal aimé pas respecté vraiment quoi que je fasse
+et que je dise sais jamais juste
+(…)
+reste
+avec ta haine tes principes tes jugements je suis triste de voir autant de rage sortir de tes mots en
+deux mot pauvre top
+» Dans le message
+suivant, elle ajoutait notamment ce qui suit : «
+Tu
+te pend (sic) pour Dieu le père et ta confirmation c est exclu que je l envoie quand tu
+la voudra tu te deplacera je te la remettrais qu en main propre voila c est clair peut être
+tu préférerais un avocat a tes trousse ?
+(…) ».
+L’opposant a répondu le même jour notamment ce qui suit : «
+Concernant
+l’avocat et la pension, tu ne vas pas me tenir en otage pour le restant de Ta vie. Alors s’il
+te plait soit attaque mois ou ferme là !
+(…)
+Concernant 2015 je suis seulement
+ouvert à des discussions réelles et honnêtes. Est-ce que tu as quelque chose d’autre
+tu as à me dire regardant C.N.________ et B.N.________ ?
+».
+L’intimée lui a répondu le même jour notamment ce qui suit : « (…)
+Pour la pension [...] a décider
+de laisser tombé et apres longue réflexion je me suis ralliée à son idée donc
+je t écris ce matin au lieu d être détendu et dire merci ! pour la décision
+ou je n ai ni preuve a te donner rien c est à notre bon vouloir et c est décidé
+ainsi. Au lieu de sa tu m envoie des pics
+(…)
+tu m aurais dis merci
+et c est tout je vais rien te donner ni plus faire de menace mais je vais juste digérer le
+faite des réponses donnée ce matin par appor aux enfants
+(…) » ;
+-
+une copie d’un courrier adressé le 15 décembre 2017 par l’intimée à l’opposant
+libellé comme il suit :
+« Salut
+A.N.________,
+Je t’écris aujourd’hui, c’est en aucun cas pour t’ennuier !
+Juste pour t’informer que nous avons de sérieux problèmes financier.
+Que nous sommes sur le point de quitter notre maison pour prendre un appartement 3 pièces par obligation.
+Aujourd’hui un bon nombre de bien nous a été saisi, dont ma voiture.
+Tu peux en rire si tu en as envie. C’est juste là ce qui est.
+Nous ne sommes plus en mesure de payé les assurances et les études de B.N.________.
+Il y passe tout son temps, toute son énergie, toute sa connaissance dans un travail acharné.
+Il aime ce qu’il fait, c’est un travail intense. Il y passe des nuits blanches une fois par
+mois. C’est un jeune homme très responsable.
+Ses résultats sont bons et il est en de bonne voie pour y arrivé…
+C’est pour cette raison que je me permet de t’écrire.
+Si tu as la possibilité et l’envie de participer pour ses études Et de pouvoir l’aider
+à accomplir sa dernière ligne droite et sa profession pour l’avenir.
+Je t’en serais extrainement (sic) reconnaissant.
+Et sache que si je ne me trouvais pas dans cette situation, je ne t’aurais en aucun cas solicité
+et même écris mes problèmes.
+J’aurais assumé moi-même ses études. Ici en Susse nous sommes responsables de payé
+les études de nos enfants jusqu’à 25 ans selon la loi !!
+Voilà quoi que tu fasse sa sera OK pour moi.
+J’ai pris la décision de t’écrire celle lettre seule et j’espère que
+toi et ta famille allez bien ?
+Je vous souhaites à tous de belles fêtes. »
+-
+une copie d’un décompte d’une banque pour la période du 8 octobre au 6 novembre
+2018 relatif à un «
+Home
+Equity Account
+» de l’opposant,
+laissant apparaître un solde de 14’802,88 US$ ;
+-
+une copie d’un décompte d’une institution de carte de crédit de l’opposant
+pour la période courant du 28 septembre au 25 octobre 2018, laissant apparaître un solde dû
+de 11'307,47 US$ ;
+-
+une copie d’un décompte de carte de crédit d’une banque au 18 novembre 2018,
+laissant apparaître un solde dû de 10'428,97 US$ ;
+-
+une copie d’un décompte d’une autre institution de carte de crédit de l’opposant
+pour la période du 21 septembre au 20 octobre 2018, laissant apparaître un solde dû de
+13'081,68 US$ ;
+-
+une copie d’un décompte d’une autre institution de carte de crédit de l’opposant,
+laissant apparaître un solde dû au 9 octobre 2018 de 3'322,48 US$ ;
+-
+une copie d’un décompte de carte de crédit d’une banque de l’épouse
+de l’opposant, laissant apparaître un solde dû au 23 octobre 2018 de 2'784,99 US$ ;
+-
+une copie d’un décompte de carte de crédit d’une autre banque de l’épouse
+de l’opposant, laissant apparaître un solde dû au 8 novembre 2018 de 17'028,19 US$ ;
+-
+une copie d’un décompte d’une institution de carte de crédit de l’épouse
+de l’opposant, laissant apparaître un solde dû au 13 novembre 2018 de 6'796,24 US$ ;
+-
+une copie d’un décompte d’une autre institution de carte de crédit de l’épouse
+de l’opposant, laissant apparaître un solde dû au 23 octobre 2018 de 13'356,75 US$ ;
+-
+une copie d’un décompte de carte de crédit d’une autre banque de l’épouse
+de l’opposant, pour la période courant du 19 septembre au 18 octobre 2018, laissant apparaître
+un solde dû de 15'905,48 US$.
+b)
+Par
+courriers recommandés du 20 novembre 2018, la juge de paix a notifié l’opposition à
+l’intimée et a cité les parties à comparaître à l’audience du 18 décembre
+2018.
+Le 21 novembre 2018, le conseil de l’opposant a requis de la juge de paix la dispense de comparution
+de son client, vu son domicile aux Etats-Unis, dispense accordée par décision du 27 novembre
+2018.
+Les conseils des parties se sont présentés à l’audience du 18 décembre
+2018. L’opposant a produit les pièces suivantes :
+-
+une copie d’un courrier du conseil de l’opposant à celui de l’intimée du
+20 juillet 2010, constatant qu’il n’avait pas reçu les informations requises sur l’avenir
+économique de C.N.________ dès sa majorité et l’avisant que la contribution d’entretien
+pour celle-ci ne serait plus payée dès le mois d’août 2010, sauf à prouver,
+dans l’intervalle, documents à l’appui, que sa formation continuerait au sens de l’art.
+277 al. 2 CC, et requérant des informations quant au cursus de B.N.________ ;
+-
+un extrait de décompte de prêts à l’épouse de l’opposant mentionnant
+un solde dû au 21 novembre 2018 de 10'608,54 US$ ;
+-
+une copie d’une information sur papier d’un organisme de prêt du 21 novembre 2018, dont
+il ressort que l’épouse de l’opposant est débitrice de trois prêts dont les
+soldes s’élèvent respectivement à 15'624,64 US$, 14'196,02 US$ et 6'853,81 US$ ;
+-
+une copie d’un décompte d’un organisme de crédit du 21 novembre 2018 relatif à
+un prêt accordé à l’épouse de l’opposant, dont il ressort un solde dû
+de 100'254,64 US$ ;
+-
+une copie d’un décompte d’une banque du 28 novembre 2018 relatif à un prêt
+accordé à l’épouse de l’opposant dont il ressort un solde dû de 9'154,70
+US$.
+A ladite audience, l’intimée a produit les pièces suivantes :
+-
+une copie d’une cession de créance signée le 17 décembre 2018 par C.N.________ et
+R.________, par laquelle la première a déclaré céder à la seconde la créance
+dont elle était titulaire à l’encontre de A.N.________ au titre de contributions d’entretien
+impayées et futures, R.________ étant expressément autorisée à en requérir
+le paiement en justice par le biais de tous moyens utiles ;
+-
+une copie d’une cession de créance signée le 17 décembre 2018 par B.N.________ et
+R.________, par laquelle le premier a déclaré céder à la seconde la créance
+dont il était titulaire à l’encontre de A.N.________ au titre de contributions d’entretien
+impayées et futures, R.________ étant expressément autorisée à en requérir
+le paiement en justice par le biais de tous moyens utiles ;
+-
+une copie du curriculum vitae de B.N.________, dont il ressort qu’il a suivi l’école
+de culture générale et commerce à [...], option économie et commerce, de 2009 à
+2012, puis un stage de maturité professionnelle commerciale dans une entreprise de [...] du mois
+de septembre 2012 au mois d’octobre 2013. Il a ensuite effectué son service militaire obligatoire,
+service long, du mois de mars 2014 au mois d’octobre 2015, ayant acquis le grade de premier-lieutenant,
+puis a suivi un stage d’architecture pour l’entrée en HES auprès de Q.________
+SA, du mois de novembre 2015 au mois de septembre 2016. Il était à la date de l’établissement
+du document dans son quatrième semestre de Bachelor of Arts en architecture auprès de la Haute
+école [...]. Le curriculum vitae mentionne encore, sous la rubrique «
+Expériences
+professionnelles
+» un stage en 2008
+dans un bureau d’architecte durant lequel il avait réalisé des plans de bâtiments
+à la main ;
+-
+une copie du certificat d’études secondaires, voie secondaire générale, décerné
+le 1
+er
+juillet 2009 à B.N.________ par l’Etablissement secondaire de [...] ;
+-
+une copie d’un certificat de maturité professionnelle commerciale délivré le 19 novembre
+2013 à B.N.________ par le Gymnase de [...] ;
+-
+deux copies d’attestations d’études des 14 juillet 2010 et 12 juillet 2011 indiquant
+que B.N.________ suivait les cours en qualité d’élève régulier à l’Ecole
+de culture générale et de commerce pour les années 2010-2011 et 2011-2012 ;
+-
+une copie du brevet de premier-lieutenant accordé le 11 mai 2015 à B.N.________ par le Département
+fédéral de la défense, de la protection de la population et des sports ;
+-
+une copie du contrat de stage de candidat architecte du 28 septembre 2015, signé par Q.________
+SA et B.N.________, par lequel la première a engagé le second en tant que stagiaire à
+un horaire hebdomadaire de travail de quarante-deux heures, avec entrée en fonction le 2 novembre
+2015 pour une durée de dix mois. Le contrat est muet sur la question de la rémunération ;
+-
+cinq copies d’attestations d’études des 19 septembre 2016, 20 février 2017, 18 septembre
+2017, 19 février 2018 et 17 septembre 2018 indiquant que B.N.________ était étudiant régulier
+en Architecture, formation à plein temps, auprès de la Haute école [...] durant les semestres
+automne 2016-2017 (19.09.16 – 19.02.17), printemps 2016-2017 (20.02.17 – 17.09.17), automne
+2017-2018 (18.09.17 – 18.02.18), printemps 2017-2018 (19.02.18 – 16.09.18) et automne 2018-2019
+(17.09.18 – 17.02.19) ;
+-
+un extrait du site internet de la Haute école [...] indiquant comme condition d’accès
+aux études d’architecture une maturité professionnelle couplée à un CFC dans
+un domaine apparenté à la filière choisie. Si le CFC relève d’un domaine différent,
+une année d’expérience pratique est exigée ;
+-
+une copie d’un courrier de l’intimée au conseil de l’opposant du 22 juillet 2009,
+lui communiquant les coordonnées bancaires pour le versement des contributions en cause et l’avisant
+que le montant de l’arriéré au 30 juin 2009 s’élevait à 19'300 francs ;
+-
+une copie d’un courriel de l’intimée à l’opposant du 4 avril 2013 se référant
+au jugement du 7 novembre 2011, constatant que le dernier versement partiel des contributions d’entretien
+en cause avait été reçu le 29 février 2012, et que, selon les situations financières
+jointes, il demeurait un solde impayé de 10'650 fr. pour la période courant du mois d’août
+2003 au mois de février 2009 et de 29'581,66 US$ pour la période courant du mois de mars 2009
+au mois d’avril 2013. L’intimée réclamait le paiement notamment de ces arriérés
+dans un délai échéant le 22 avril 2013, faute de quoi elle procèderait au recouvrement
+par la voie juridique ;
+-
+une copie d’un courriel de l’intimée à l’opposant du 7 avril 2013, répondant
+à un courriel de celui-ci et maintenant le délai au 22 avril 2013 pour régler l’arriéré
+de pensions, faute de quoi elle envisageait une action judiciaire au Etats-Unis ;
+-
+une copie du courriel de réponse de l’opposant du 22 avril 2013, admettant un arriéré
+d’environ 5'000 US$ sur les pensions dues du 1
+er
+mars 2009 jusqu’à la majorité des enfants, expliquant cet arriéré par le refus
+de l’intimée et de B.N.________ de lui parler et de lui procurer les bulletins scolaires pour
+une formation qui aurait dû être achevée à sa majorité. L’opposant relevait
+encore que C.N.________ avait approuvé une pension de 500 US$ par mois et que celle-ci devait lui
+rembourser deux mois de pensions versées en trop. Il invitait l’intimée à ne le
+contacter que si elle était prête à discuter l’arriéré de 5'000 US$ et
+le plan de remboursement de celui-ci et de laisser les tribunaux des Etats-Unis trancher le litige si
+elle n’était pas d’accord avec la solution proposée.
+L’intimée a requis la production par l’opposant de deux pièces.
+La juge de paix a indiqué que dès le dépôt des pièces requises, un bref délai
+pour se déterminer serait imparti aux conseils des parties.
+c)
+Par
+courriers recommandés du 19 décembre 2018, la juge de paix a requis de l’intimée
+la production dans un délai échéant le 10 janvier 2019 du diplôme CFC et de la maturité
+fédérale de B.N.________ (pièce n° 150), des déclarations d’impôts
+de celui-ci pour les années 2012 à 2017, ainsi que des décisions de taxation y relatives
+(pièce n° 152), du contrat en vigueur entre B.N.________ et Q.________ SA (pièce n°
+153), des déclarations d’impôt de C.N.________ pour les années 2010 à 2017
+(pièce n° 154) et des déclarations d’impôt de l’intimée pour les
+années 2009 à 2017, ainsi que des décisions de taxation y relatives (pièce n°
+155). Elle a requis de l’opposant la production, dans le même délai, de ses six dernières
+fiches de salaire et des extraits de comptes bancaires pour la période courant du 1
+er
+juin au 30 novembre. Elle a requis de l’Armée suisse la production, dans le même délai
+d’une attestation de tous montants versés à B.N.________ de l’école de recrue
+à la date de la réquisition, y compris la solde et les allocations pour perte de gain.
+Le 31 décembre 2018, l’opposant a produit les pièces suivantes :
+-
+des copies de fiches de salaire de l’employeur de l’opposant, dont il ressort que celui-ci
+a perçu un revenu net de 2'046,01 US$ pour la période courant du 2 au 15 juin 2018, 3'000,42
+US$ pour la période courant du 16 au 29 juin 2018, 3'099,22 US$ pour la période courant
+du 30 juin au 13 juillet 2018, 2'436.01 US$ pour la période courant du 14 au 27 juillet 2018, 3'090,15
+US$ pour la période courant du 28 juillet au 10 août 2018, 2'436.01 US$ pour la période
+courant du 11 au 24 août 2018, 2'415,55 US$ pour la période courant du 25 août au 7 septembre
+2018, 2'577,63 US$ pour la période courant du 8 au 21 septembre 2018, 2'810,17 US$ pour la
+période courant du 22 septembre au 5 octobre 2018, 2'510,17 US$ pour la période courant
+du 6 au 19 octobre 2018, 4'228.40 US$ pour la période courant du 20 octobre au 2 novembre 2018,
+2'636.76 US$ pour la période courant du 3 au 16 novembre 2018, 3'030,43 US$ pour la période
+courant du 17 au 30 novembre 2018 et de 2'559,29 US$ pour la période courant du 1
+er
+au 14 décembre 2018 ;
+-
+une copie d’un relevé des comptes de l’opposant et de son épouse auprès d’une
+banque, comprenant celui contenant les versements de l’employeur de l’opposant, pour la période
+courant du 12 mai au 12 juin 2018, faisant état d’un solde positif final de 13'999,71 US$.
+Il ressort de ces comptes que les entrées d’argent proviennent dans leur quasi-totalité
+de l’employeur de l’opposant ;
+-
+une copie d’un relevé des comptes de l’opposant et de son épouse auprès d’une
+banque, comprenant celui contenant les versements de l’employeur de l’opposant, pour la période
+courant du 13 juin au 12 juillet 2018, faisant état d’un solde positif final de 10'648,27
+US$. Il ressort de ces comptes que les entrées d’argent proviennent dans leur quasi-totalité
+de l’employeur de l’opposant ;
+-
+une copie d’un relevé des comptes de l’opposant et de son épouse auprès d’une
+banque, comprenant celui contenant les versements de l’employeur de l’opposant, pour la période
+courant du 13 juillet au 14 août 2018, faisant état d’un solde positif final de 11'114.59
+US$. Il ressort de ces comptes que les entrées d’argent proviennent dans leur quasi-totalité
+de l’employeur de l’opposant ;
+-
+une copie d’un relevé des comptes de l’opposant et de son épouse auprès d’une
+banque, comprenant celui contenant les versements de l’employeur de l’opposant, pour la période
+courant du 15 août au 11 septembre 2018, faisant état d’un solde positif final de 9'671,94
+US$. Il ressort de ces comptes que les entrées d’argent proviennent dans leur quasi-totalité
+de l’employeur de l’opposant ;
+-
+une copie d’un relevé des comptes de l’opposant et de son épouse auprès d’une
+banque, comprenant celui contenant les versements de l’employeur de l’opposant, pour la période
+courant du 12 septembre au 12 octobre 2018, faisant état d’un solde positif final de 2'609,60
+US$. Il ressort de ces comptes que les entrées d’argent proviennent dans leur quasi-totalité
+de l’employeur de l’opposant ;
+-
+une copie d’un relevé des comptes de l’opposant et de son épouse auprès d’une
+banque, comprenant celui contenant les versements de l’employeur de l’opposant, pour la période
+courant du 13 octobre au 9 novembre 2018, faisant état d’un solde positif final de 60'455,23
+US$. Il ressort de ces comptes que les entrée d’argent consistaient dans un versement de 54'628,82
+US$ provenant de la succession de feu D.N.________, et, pour la quasi-totalité du reste, dans des
+versements de l’employeur de l’opposant.
+Le 8 janvier 2019, l’Armée suisse a indiqué que B.N.________ avait perçu depuis
+son recrutement en 2013 et jusqu’au 8 janvier 2019 11'593 fr. 50 (5'935 fr. 50 de montant de base
+et 5'658 fr. de supplément pendant le service d’avancement) à titre de solde, qu’il
+avait effectué 601 jours de service soldés (2 jours en 2013, et 599 jours durant les années
+2014-2015) et avait rempli ses obligations militaires au mois d’octobre 2015. Elle a précisé
+que pour chaque jour de service soldé, il avait reçu une carte d’attestation pour la
+perte de gain, destinée à son employeur ou à la caisse de compensation compétente,
+et que les indemnités versées par cette dernière ne lui étaient pas connues, ce renseignement
+étant détenu par la caisse de compensation ayant versé lesdites indemnités.
+Par courrier du 10 janvier 2019, l’intimée a requis une prolongation de dix jours du délai
+pour produire les pièces requises, prolongation accordée par décision du 15 janvier 2019
+au 21 janvier 2019.
+Le 16 janvier 2019, l’opposant a requis de la juge de paix la production par l’intimée
+d’une attestation de la caisse de compensation ou de l’employeur de B.N.________ de tous
+montants perçu au titre des allocations pour perte de gain, pour les périodes de service militaire
+accomplies entre le 21 août 2013 et le 30 octobre 2015. La juge de paix a requis de l’intimée
+par courrier du 17 janvier 2019 la production dans un délai échéant le 18 février
+2019 de la pièce susmentionnée.
+Le 21 janvier 2019, l’intimée a produit les pièces suivantes :
+-
+une copie d’un diplôme d’études commerciales délivré le 6 juillet 2012
+par le Gymnase de Nyon à B.N.________ ;
+-
+une copie de la maturité professionnelle commerciale délivrée 19 novembre 2013 à
+B.N.________, déjà produite à l’audience du 18 décembre 2018 ;
+-
+une copie d’une décision de taxation fiscale pour l’impôt sur le revenu et la fortune
+et l’impôt fédéral direct pour l’année 2012 du 17 décembre 2013,
+dont il ressort que B.N.________ a réalisé un revenu net de l’activité principale
+salariée de 7'075 francs ;
+-
+une copie d’une décision de taxation fiscale pour l’impôt sur le revenu et la fortune
+et l’impôt fédéral direct pour l’année 2013 du 4 mars 2014, dont il ressort
+que B.N.________ a réalisé un revenu net de l’activité principale salariée
+de 17’653 francs ;
+-
+une copie d’une décision de taxation fiscale pour l’impôt sur le revenu et la fortune
+et l’impôt fédéral direct pour l’année 2014 du 24 juin 2015, dont il
+ressort que B.N.________ a réalisé un revenu net de l’activité principale salariée
+de 9’198 fr. et touché des indemnités journalières de l’assurance-chômage
+et/ou de l’assurance perte de gain pour un montant global de 22'067 francs ;
+-
+une copie d’une décision de taxation fiscale pour l’impôt sur le revenu et la fortune
+et l’impôt fédéral direct pour l’année 2015 du 30 septembre 2016, dont
+il ressort que B.N.________ n’a réalisé aucun revenu d’une activité principale
+salariée et a touché des indemnités journalières de l’assurance-chômage
+et/ou de l’assurance perte de gain pour un montant global de 33’242 francs ;
+-
+une copie d’une décision de taxation fiscale pour l’impôt sur le revenu et la fortune
+et l’impôt fédéral direct pour l’année 2016 du 30 juin 2017, dont il
+ressort que B.N.________ a réalisé un revenu net de l’activité principale salariée
+de 7’882 francs ;
+-
+une copie d’une décision de taxation fiscale pour l’impôt sur le revenu et la fortune
+et l’impôt fédéral direct pour l’année 2017 du 16 mai 2018, dont il ressort
+que B.N.________ a réalisé un revenu net de l’activité principale salariée
+de 4'640 francs.
+Dans le courrier accompagnant ces pièces, l’intimée a notamment précisé que
+le seul contrat signé par B.N.________ et Q.________ SA était celui du 28 septembre 2015
+produit à l’audience du 18 décembre 2018 et que les quelques heures rémunérées
+par cette société et figurant sur les documents fiscaux correspondaient au travail accompli
+par B.N.________ durant ses vacances scolaires pour financer ses études. Elle a admis, en relation
+avec les pièces requises n
+os
+154 et 155 en lien avec l’allégué n° 48 de l’opposition, que les contributions
+d’entretien qu’elle réclamait à l’opposant n’avaient pas été
+déclarées aux autorités fiscales pour le motif qu’elle n’allait pas payer
+des impôts sur des montants, dont elle savait pertinemment qu’elle ne pourrait jamais les
+encaisser. Elle a jugé que cette déclaration rendait inutile la production requise desdites
+pièces n
+os
+154 et 155.
+d)
+Par
+lettre du 24 janvier 2019, l’opposant s’est déterminé sur les pièces produites
+par l’intimée, a maintenu sa réquisition de production des pièces n
+os
+154 et 155 et a produit une copie d’un «
+Quitclaim
+deed
+» du 8 janvier 2015 relatif à
+un «
+condominium
+»
+en Floride dont l’époux de l’intimée serait copropriétaire.
+Le 25 janvier 2019, l’intimée a conclu au rejet de la réquisition de production de l’opposant
+du 24 janvier 2019 en faisant valoir que la déclaration qu’elle avait faite dans son courrier
+du 21 janvier 2019 correspondait à une admission de l’allégué n° 48 de l’opposition.
+Par courrier du 28 janvier 2019, l’opposant s’est référé à un entretien
+téléphonique avec la juge de paix dans lequel celle-ci aurait déclaré que les pièces
+requises dans le cadre de la procédure de mainlevée avaient été amputées de
+celles requises dans la présente procédure pour ne pas faire envoyer deux fois les mêmes
+documents par l’intimée, étant entendu que, par la suite, toutes les pièces seraient
+en intégralité versées dans chacun des dossiers. Il a relevé qu’il en avait
+été ainsi pour les pièces n
+os
+154 et 155, étant rappelé que cette dernière était également offerte comme preuve
+pour l’allégué n° 47 de la procédure de mainlevée, allégué qui
+n’avait pas été admis. Il a maintenu sa réquisition.
+Par courrier du 29 janvier 2019, la juge de paix a avisé les parties que les déterminations
+de l’intimée concernant l’allégué n° 48 de l’opposition lui paraissaient
+suffisantes et qu’elle renonçait à requérir de celle-ci la production des pièces
+n
+os
+154 et 155.
+Par courrier du 31 janvier 2019, la juge de paix a transmis à l’intimée les déterminations
+de l’opposant du 28 janvier 2019 susmentionnées et lui a imparti un délai échéant
+le 18 février 2019 pour se déterminer sur cette écriture.
+Le 18 février 2019, l’intimée a déposé des déterminations dans lesquelles
+elle a fait valoir que les procédures d’opposition au séquestre et de mainlevée
+étaient distinctes et qu’elle avait admis l’allégué qui devait être prouvé
+par la pièce n° 155 dans le cadre de la procédure d’opposition au séquestre,
+de sorte que la décision de la juge de paix de renoncer à en requérir la production devait
+être confirmée. En ce qui concerne la réquisition de production de l’attestation
+des sommes perçues par B.N.________ au titre des allocations pour perte de gain pendant sa période
+de service militaire, l’intimée a indiqué que cette information ressortait des déclarations
+d’impôts produites le 21 janvier 2019.
+Par courrier du 20 février 2019, la juge de paix a avisé les parties qu’elle maintenait
+sa décision du 29 janvier 2019 et leur a imparti un délai échéant le 1
+er
+mars 2019 pour lui faire savoir si elles souhaitaient qu’une nouvelle audience soit appointée
+ou si une décision pouvait être rendue sur la base des pièces du dossier.
+Par lettre du 20 février 2019, l’opposant a contesté le moyen développé dans
+les déterminations de l’intimée du 18 février 2019.
+Le 22 février 2019, l’opposant a indiqué qu’une nouvelle audience ne lui paraissait
+pas nécessaire, mais a requis la fixation d’un délai pour déposer des déterminations
+écrites.
+e)
+Par
+courrier du 25 février 2019, la juge de paix a imparti aux parties un délai échéant
+le 18 mars 2019 pour déposer des déterminations écrites avant décision.
+Dans ses déterminations du 18 mars 2019, l’intimée a confirmé, avec suite de frais
+et dépens, sa conclusion en rejet de l’opposition.
+f)
+Dans
+ses déterminations du 18 mars 2019, l’opposant a maintenu ses conclusions et a produit les
+pièces suivantes :
+-
+une copie du courriel de l’intimée du 7 avril 2013 déjà produit par celle-ci à
+l’audience du 18 décembre 2018 ;
+-
+une copie du «
+Quitclaim
+deed
+» du 8 janvier 2015 déjà
+produit le 24 janvier 2019 ;
+-
+un extrait du Registre du commerce du canton de Vaud relatif à une raison individuelle inscrite
+le 13 octobre 2004 détenue par l’époux de l’intimée ;
+-
+un extrait du Registre du commerce du canton de Vaud relatif à une société à responsabilité
+limitée inscrite le 31 janvier 2019 ayant la même raison sociale et le même but que la
+raison individuelle susmentionnée, au capital social de 20'000 fr., dont l’intimée est
+associée avec signature individuelle avec deux cents parts de 100 fr. et son époux gérant
+avec signature individuelle ;
+-
+un extrait d’un site internet relatif à une société dont le président était
+l’époux de l’intimée, enregistrée au Etats-Unis le 2 octobre 2000 et dissoute
+le 16 septembre 2005 ;
+-
+une copie du courrier du conseil de l’opposant du 20 juillet 2010 déjà produite par l’opposant
+à l’audience du 18 décembre 2018 ;
+-
+une copie d’une photographie d’un tableau de sonnettes d’un immeuble.
+Le 27 mars 2019, l’intimée a déposé des déterminations spontanées contestant
+notamment la recevabilité des pièces produites par l’opposant le 18 mars 2019. Le 28
+mars 2019, l’opposant a conclu à l’irrecevabilité de ces déterminations, subsidiairement
+à ce qu’un délai lui soit imparti pour procéder sur celles-ci. Par décision
+du 2 avril 2019, la juge de paix a prolongé au 23 avril 2019 le délai imparti à l’opposant
+pour déposer ses déterminations. Le 23 avril 2019, l’opposant a déposé des
+déterminations confirmant ses conclusions et a produit les pièces suivantes :
+-
+une copie d’un «
+preliminary
+report of title
+» non signé dont
+il ressort que l’époux de l’intimée et un «
+owner
+of record
+» pour une demie d’une
+«
+property
+»
+aux Etats-Unis ( [...]) ;
+-
+une copie de l’invitation du 18 mars 2019 au week-end de mariage de C.N.________ en [...].
+Le 24 avril 2019, l’opposant a requis de la juge de paix qu’il lui impartisse un délai
+pour produire des pièces et donne suite à sa requête de réquisition de pièces
+formulée le 17 avril 2019 dans le cadre de la procédure de mainlevée. Il a produit les
+pièces suivantes :
+-
+un extrait du site internet ʺprotitleusa.comʺ du 21 avril 2019, dont il ressort que l’époux
+de l’intimée est copropriétaire d’un immeuble aux Etats-Unis ( [...]), accompagné
+de certificats fiscaux relatif à cet immeuble ;
+-
+une copie du «
+Quitclaim
+deed
+» du 8 janvier 2015 déjà
+produit le 24 janvier 2019 ;
+-
+un extrait du site ʺrealtor.comʺ relatif à cet immeuble.
+Le 29 avril 2019, l’intimée a déposé des déterminations spontanées concluant
+à l’irrecevabilité des pièces produites par l’opposant les 18 mars, 23 et
+24 avril 2019 et au rejet des réquisitions d’octroi de délai et de production de
+pièces. Subsidiairement elle a conclu à ce qu’un délai lui soit imparti pour se
+déterminer sur ces pièces.
+Par courrier du 16 mai 2019, la juge de paix a imparti à l’intimée un délai échéant
+le 31 mai 2019 pour se déterminer sur les pièces produites les 23 et 24 avril 2019.
+Par courrier du même jour, la juge de paix a imparti aux parties un délai échéant
+le 11 juin 2019 pour lui faire savoir si une nouvelle audience devait être fixée et les a avisées
+que, passé ce délai, une ordonnance serait rendue.
+Le 31 mai 2019, l’intimée a déposé des déterminations sur les pièces produites
+les 23 et 24 avril 2019 confirmant, avec suite de frais et dépens, ses conclusions. Elle a indiqué
+qu’elle ne requérait pas la tenue d’une nouvelle audience.
+3.
+Par prononcé directement motivé du 27
+août 2019, notifié à l’opposant le 11 septembre 2019, la Juge de paix du district
+de Morges a dit que le montant séquestré devait être ramené à 91'609 fr. 70
+(I), a rejeté pour le surplus l’opposition au séquestre (II), a fixé les frais judiciaires
+à 480 fr. (III), les a mis à la charge de l’opposant (IV) et a dit que celui-ci verserait
+à l’intimée des dépens, fixés à 2'000 fr. (V). En substance, la première
+juge a constaté que la requête de séquestre était fondée sur l’art. 271
+al. 1 ch. 6 LP. Elle a considéré que les jugements des 23 mars 2004 et 7 novembre 2011 constituaient
+des titres à la mainlevée définitive. Elle a rejeté l’exception de prescription
+de l’opposant pour le motif que celle-ci avait été suspendue durant la période où
+l’intimée n’avait pas eu de for en Suisse pour actionner l’opposant, que la révision
+du droit de la prescription n’était pas encore en vigueur et que l’opposant n’avait
+produit aucun élément permettant d’établir que l’intimée disposait de
+la possibilité certaine de créer un for en Suisse lorsque l’opposant était de passage.
+A cet égard, elle a rejeté comme non pertinent le moyen de l’opposant tiré de la
+possibilité qu’aurait eue l’intimée d’ouvrir action aux Etats-Unis, considérant
+au surplus que celle-ci n’avait pas commis un abus de droit en ne le faisant pas durant ses vacances
+dans ce pays. Elle a en outre rejeté le moyen de l’opposant tiré du fait que la créance
+litigieuse aurait pu être réclamée devant un tribunal suisse pour le motif que la distinction
+que semblait faire l’opposant entre existence d’une créance et exécution de celle-ci
+était sans pertinence.
+En ce qui concerne le moyen de l’opposant tiré de la prétendue renonciation de l’intimée
+à la créance litigieuse, la première juge a considéré qu’une telle renonciation
+ne pouvait être indubitablement déduite du courrier du 15 décembre 2017, celui-ci
+apparaissant comme la recherche d’un accord transactionnel n’ayant pas abouti, que l’absence
+de mention des contributions en cause dans les déclarations fiscales de l’intimée ne
+constituait qu’un indice non corroboré par les autres éléments du dossier et que
+l’échange de courriels de la fin de l’année 2014 et du début de l’année
+2015 pouvait être interprété comme la manifestation de volonté de l’intimée
+de cesser d’essayer de contraindre l’opposant à payer les contributions en cause, cet
+échange ne liant pas B.N.________ et C.N.________ qui, alors majeurs, étaient titulaires de
+ces créances et une renonciation tacite ne pouvant être imputée à ces derniers.
+Pour ce qui est du moyen de l’opposant tiré de la violation par B.N.________ de son obligation
+de poursuivre une formation professionnelle découlant de l’art. 277 al. 2 CC (Code civil du
+10 décembre 1907 ; RS 210), la première juge a constaté que B.N.________ avait poursuivi
+depuis sa majorité des études de manière continue, hormis la période de service militaire,
+que l’obtention d’un CFC n’était pas déterminante dès lors qu’il
+avait été obtenu à la suite d’études auprès de l’Ecole de culture
+générale et de commerce et d’un stage d’une année, ce choix de cursus permettant
+de considérer que B.N.________ entendait à son entrée au gymnase poursuivre ses études
+au-delà du CFC, cette voie étant usuellement utilisée pour obtenir une maturité professionnelle
+permettant d’intégrer une haute école spécialisée. B.N.________ n’avait
+donc pas entamé une deuxième formation et avait d’ailleurs effectué un stage dans
+un bureau d’architecture en 2008 avant sa formation gymnasiale. La première juge a considéré
+que le moyen de l’opposant tiré du fait que B.N.________ avait négligé de fournir
+les efforts raisonnablement exigibles pour acquérir une autonomie financière à côté
+de ses études et tendant à la prise en compte des revenus effectivement perçus relevait
+du juge du fond. Elle a rejeté le moyen tiré des revenus perçus par B.N.________ durant
+son service militaire, dès lors que ceux-ci s’étaient élevés à 11'593
+fr. 50, soit 610 fr. 20 par mois. Elle a relevé que les versements de 465 US$ pour les mois de janvier
+et février 2012 en faveur de C.N.________, ainsi que le versement en mains propres à celle-ci
+pour les mois de novembre et de décembre 2011 avaient été pris en compte dans le décompte
+établi par l’intimée, seuls les versements établis de 465 US$ pour les mois de mai
+et de juin 2012 n’y ayant pas été comptabilisés. Elle a donc déduit ces deux
+derniers montants du solde dû, celui-ci s’élevant en conséquence à un capital
+de 73'612 fr. 15 et à des intérêts échus de 19'997 fr. 60 (taux de 1 US$ = 0.998
+francs du 9 [recte : 29] octobre 2018). Elle a enfin déduit de ces montants la somme de 2'000
+fr. de dépens accordés par le jugement du 7 novembre 2011 à l’opposant et invoquée
+en compensation par celui-ci.
+4.
+Par acte du 23 septembre 2019, l’opposant
+a recouru contre ce prononcé en prenant, avec suite de frais et dépens, les conclusions suivantes :
+«
+Préalablement
+:
+I.
+Déclarer recevable le présent Recours.
+II.
+Demander à la Justice de Paix de Morges confirmation qu'elle a mis en commun au présent dossier
+et au dossier de mainlevée l'ensemble des pièces versées par les parties dans le cadre
+de l'un ou de l'autre, comme convenu officiellement ; cas échéant demander copies de toutes
+pièces versées dans le cadre du dossier de mainlevée qui n'auraient pas été
+dupliquées et versées dans le présent dossier.
+III.
+Requérir production en main de B.N.________ :
+a.              D'une attestation de
+domicile actuelle
+b.              De sa déclaration
+d'impôt 2018 et de la décision de taxation y relative
+c.              De toutes preuves de
+ses revenus perçus en 2019
+d.              De la continuation de
+sa formation à l’ [...]
+e.              De son bulletin de notes
+de l'année passée
+f.              De ses déclarations
+d'impôt 2015 et 2016, ainsi que des décisions fiscales y relatives
+g.              De toute preuve de réclamation
+écrite de sa part du paiement des pensions postérieurement à 2012.
+IV.
+Ordonner à l'intimée production de la
+Pièce
+155
+en intégralité.
+V.
+Ordonner à C.N.________ production de la
+Pièce
+154
+.
+VI.
+Ordonner à l'Office d'impôt du District de Nyon, Avenue Reverdil 4-6, CP 1341, 1260 NYON 1,
+production de l'ensemble des déclarations d'impôt de l'intimée et des décisions de
+taxation y relatives, pour les années 2009 à 2018 incluses.
+VII.
+Ordonner production, en main de Q.________ SA, [...] à [...], d'une attestation relative aux montants
+payés à B.N.________ pendant son stage débuté en novembre 2015.
+VIII.
+Ordonner production, en main de [...], [...], [...], d'une attestation établissant qui est actuellement
+locataire de l'appartement sis [...] à [...], propriété [...], locataire(s) [...] et/ou
+B.N.________, ainsi que du titulaire du compte duquel sont payées les loyers pour tout 2018 et 2019.
+Principalement
+:
+IX.
+Annuler soit mettre à néant la Décision querellée.
+X.
+Déclarer nulle soit annuler l'Ordonnance de séquestre du 2 novembre 2018 et donner ordre à
+l'Office des poursuites de libérer entièrement et immédiatement les avoirs séquestrés
+en main de A.N.________.
+Subsidiairement
+:
+XI
+Ordonner à l'intimée le dépôt de sûretés non inférieures à CHF
+40'500.-.
+Plus
+subsidiairement et sans préjudice de la conclusion XI
+:
+XII.
+Annuler soit mettre à néant la Décision querellée et dire que le montant séquestré
+n'est pas supérieur à CHF 48'044.-, en donnant ordre à l'Office des poursuites de libérer
+entièrement et immédiatement le solde des avoirs séquestrés en main de A.N.________.
+Ou
+:
+XIII.
+Annuler soit mettre à néant la Décision querellée et renvoyer l'entier de la cause
+à l'Autorité de première instance pour complément d'instruction et nouvelle Décision
+dans le sens des considérants de l'Arrêt à rendre. »
+Le recourant a produit une copie du prononcé attaqué et une copie de ses déterminations
+de première instance du 23 avril 2019.
+Dans sa réponse du 1
+er
+novembre 2019, l’intimée a conclu, avec suite de frais et dépens, au rejet du recours.
+Elle a requis le bénéfice de l’assistance judiciaire. Elle a produit une copie certifiée
+conforme d’un prononcé non motivé rendu le 10 septembre 2019 par la Juge de paix du district
+de Morges statuant sur une requête de mainlevée de l’intimée contre le recourant,
+prononçant la mainlevée définitive à concurrence de 73'612 fr. 15 avec intérêt
+à 5 % l’an dès le 27 novembre 2018, plus 19’997 fr. 55 sans intérêt,
+sous déduction de 2'000 fr. valeur au 30 janvier 2019, de l’opposition formée par le
+recourant à la poursuite n° 8'948'766 de l’Office des poursuites du district de Morges
+exercée par l’intimée (I), fixant les frais judiciaires à 480 fr. (II), les mettant
+à la charge du recourant (III) et disant qu’en conséquence, celui-ci rembourserait à
+l’intimée son avance de frais, par 480 fr., et lui verserait des dépens, fixés à
+2'000 fr. (IV).
+Par courrier du 5 novembre 2019, la Présidente de la Cour des poursuites et faillites a notamment
+informé l’intimée qu’il serait statué sur la requête d’assistance
+judiciaire dans l’arrêt à intervenir.
+Le 15 novembre 2019, le recourant a déposé une réplique spontanée confirmant ses
+conclusions et a produit une copie d’une déclaration d’impôt de l’intimée
+et de son époux pour l’année 2007.
+Le 20 novembre 2019, l’intimée a déposé une duplique spontanée confirmant ses
+conclusions.
+Par courrier du 25 novembre 2019, la Présidente de la Cour des poursuites et faillites a informé
+les parties que la cause était gardée à juger, qu’il n’y aurait pas d’autre
+échange d’écritures et qu’aucun fait ou moyen de preuve ne serait pris en compte.
+Le 20 janvier 2020, le conseil de l’intimée a déposé la liste de ses opérations.
+En droit
+:
+I.
+a)
+L’art. 278 al. 3 LP ouvre la voie du
+recours des art. 319 ss CPC (Code de procédure civile du 19 décembre 2008 ; RS 272), contre
+la décision sur opposition au séquestre (TF 5A_818/2013 du 21 février 2014 consid. 2.1 ;
+Feuille fédérale [FF] 2009 p. 1540 et 1542 ; Jeandin, in Bohnet et alii (éd), Commentaire
+romand, Code de procédure civile, 2
+e
+éd., n. 14 ad art. 309 CPC et les citations). La procédure sommaire étant applicable (art.
+250 let. a CPC), le délai de recours est de dix jours (art. 321 al. 2 CPC).
+En l’espèce, le prononcé attaqué a été notifié au recourant le 11 septembre
+2019. Le recours a été déposé le 23 septembre 2019, soit dans le délai de dix
+jours de l’art. 321 al. 2 CPC, compte tenu du fait que ce dernier, arrivé à échéance
+le samedi 21 septembre 2019, a été reporté au lundi 23 septembre 2019 en application de
+l’art. 142 al. 3 CPC.
+b)
+Selon
+l’art. 321 al. 1 CPC, le recours doit être motivé. La motivation du recours doit à
+tout le moins satisfaire aux exigences qui sont posées pour un acte d’appel (TF 5D_43/2019
+du 24 mai 2019 consid. 3.2.2.1 ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, publié
+in Revue suisse de procédure civile [RSPC] 6/2015 pp. 512 s., et les arrêts cités). Cela
+signifie que le recourant doit démontrer le caractère erroné de la motivation de la décision
+attaquée et que son argumentation doit être suffisamment explicite pour que l’instance
+de recours puisse la comprendre, ce qui suppose une désignation précise des passages de la
+décision qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (ibid.).
+Le recourant ne saurait renvoyer aux moyens développés en premier instance (ibid.).
+En l’espèce, le recours satisfait en grande partie aux exigences susmentionnées. Il est
+donc recevable. Toutefois, dans la mesure où le recourant renvoie aux moyens développés
+dans ses écritures de première instance, en particulier ses déterminations du 23 avril
+2019 (page 5 du recours), ceux-ci sont irrecevables, vu la jurisprudence susmentionnée.
+c)
+La
+réplique spontanée du recourant et la duplique spontanée de l’intimée sont
+recevables en vertu de leur droit d’être entendu (ATF 142 III 48 consid. 4.1.1 et les références
+citées ; ATF 139 II 189 consid. 3.2 ; ATF 138 I 484 consid. 2).
+II.
+a)
+En
+matière d'opposition au séquestre, les parties peuvent alléguer des faits nouveaux (art.
+278 al. 3 LP); les pièces nouvelles sont également recevables. Cette disposition déroge
+à l'art. 326 al. 1 CPC et permet aux parties à un recours contre une décision sur opposition
+au séquestre d'alléguer des faits nouveaux. Dans un arrêt paru aux ATF 145 III 324 consid.
+6 (JdT 2019 II 275), le Tribunal fédéral a confirmé la pratique de la cour de céans
+qui considérait que seuls les ʺvrais novaʺ pouvaient être invoqués (CPF 24 mars
+2016/103 CPF, 30 septembre 2013/397 et les réf. cit. ; CPF 30 septembre 2013/397 et les réf.
+cit. ; CPF 3 mai 2013/185) et que les pseudo-nova n’étaient recevables qu'en tant que celui
+qui les allègue établit qu'ils ne pouvaient être invoqués ou produits devant la première
+instance bien qu'il ait fait preuve de la diligence requise – soit aux condition de l’art.
+317 al. 1 CPC appliqué par analogie –, dès lors qu’en procédure de recours,
+les moyens nouveaux, admis par exception en application de l'art. 278 al. 3 LP, ne devaient en tout cas
+pas être admis plus largement que dans l'appel (CPF 3 mai 2013/185).
+b)
+S'agissant de l'établissement des faits justifiant le séquestre, le juge statue sur la base
+de leur simple vraisemblance. Dès lors, il suffit que, se fondant sur des éléments objectifs,
+il acquiert l'impression que les faits pertinents se sont produits, mais sans qu'il doive exclure pour
+autant la possibilité qu'ils se soient déroulés autrement (ATF 132 III 715 consid. 3.1;
+TF 5A_582/2012 du 11 février 2013 consid. 3.1). Dès lors que la décision d'opposition
+au séquestre n'est susceptible que d'un recours au sens des art. 319 ss CPC, l'autorité cantonale
+n'intervient, sous réserve de novas, voire de pseudo-novas, que si le juge de première instance
+a retenu de manière arbitraire la simple vraisemblable des faits (cf. TF 5A_582/2012 du 11 février
+2013 consid. 31 ; CPF 16 août 2016/254 ; CPF 30 juin 2017/99).
+c)aa)
+En l’espèce, le recourant n’invoque pas de novas. Il n’expose pas en quoi les
+pseudos novas qu’il allègue, s’agissant en particulier de la situation de son fils B.N.________
+pour la période litigieuse qui allait jusqu’en octobre 2018, n’auraient pu être
+invoqués et les pièces y afférentes produites ou requises devant la première instance,
+bien qu'il ait fait preuve de la diligence requise. Ceux-ci n’ont pas à être instruits
+et les réquisitions de preuve les concernant ne peuvent qu’être rejetées.
+S’agissant des pièces produites durant la procédure de recours, la pièce 2 figure
+déjà au dossier. Quant à la pièce 3 (déclaration d’impôts 2007 de
+l’intimée et son époux), sa recevabilité peut demeurer indécise dès lors
+que, comme on le verra, cette pièce est sans pertinence vu notamment son ancienneté.
+bb)
+Pour le reste, le recourant évoque de nombreux faits qui ressortiraient du dossier de première
+instance. Il n’expose toutefois pour aucun d’eux distinctement en quoi la vraisemblance de
+l’un ou l’autre aurait été omise de manière arbitraire par l’autorité
+précédente de sorte que la décision serait au surplus insoutenable tant dans sa motivation
+que dans son résultat. Comme on le verra, tel n’est pas le cas. Il convient donc de s’en
+tenir, sous les réserves qui suivent, aux faits constatés dans le prononcé entrepris et
+qui ressortent des pièces produites.
+cc)
+Le
+prononcé non motivé du 10 septembre 2019 produit par l’intimée avec sa réponse
+du 1
+er
+novembre 2019 constitue un ʺvrai novumʺ et est par conséquent recevable.
+III.
+Dans un premier grief, le recourant se plaint
+d’un déni de justice, respectivement d’un défaut de motivation s’agissant
+du traitement de sa requête en dépôt de sûretés. Il conclut de plus au prononcé
+de cette mesure au pied de son recours.
+a)aa)
+Commet
+un déni de justice formel et viole par conséquent l’art. 29 al. 1 Cst. (Constitution
+fédérale du 18 avril 1999 ; RS 101) l’autorité qui ne statue pas ou n’entre
+pas en matière sur un recours ou un grief qui lui est soumis dans les formes et les délais
+légaux ou dans un délai que la nature de l’affaire ainsi que toutes les autres circonstances
+font apparaître comme raisonnable, alors qu’elle était compétente pour le faire
+(ATF 144 II 184 consid. 3.1 ; ATF 141 I 172 consid. 5 et les réf. cit).
+bb)
+La
+jurisprudence a déduit du droit d'être entendu garanti par l’art. 29 al. 2 Cst., le devoir
+de l'autorité ou du juge de motiver sa décision afin que le destinataire puisse la comprendre,
+l'attaquer utilement s'il y a lieu et que l'autorité de recours puisse exercer son contrôle.
+Pour répondre à ces exigences, le juge doit mentionner, au moins brièvement, les motifs
+qui l'ont guidé dans sa décision, de manière à ce que l'intéressé puisse
+se rendre compte de la portée de celle-ci et l'attaquer en connaissance de cause. Il n'a toutefois
+pas l'obligation d'exposer et de discuter tous les faits, moyens de preuve et griefs invoqués par
+les parties, mais peut au contraire se limiter à l'examen des questions décisives pour l'issue
+du litige (ATF 141 V 557 consid. 3.2.1 ; ATF 139 IV 179 consid. 2.2 ; ATF 138 I 232 consid.
+5.1 et les arrêts cités). La motivation peut par ailleurs être implicite et résulter
+des différents considérants de la décision (ATF 141 V 557 consid. 3.2.1)
+cc)
+Le
+droit d’être entendu est une garantie constitutionnelle de caractère formel, dont la
+violation doit entraîner l’annulation de la décision indépendamment des chances
+de succès du recours sur le fond (ATF 142 II 218 consid. 2.8.1 ; ATF 135 I 187 consid. 2.2 ; TF
+5A_741/2016 du 6 décembre 2016 consid. 3.1.2 ; TF 4A_453/2016 du 16 février 2017 consid. 4.2.2,
+in RSPC 2017 p. 313 ; Colombini, Code de procédure civile, Condensé de jurisprudence
+fédérale et vaudoise, n. 15.1 ad art. 53 CPC). Une violation du droit d’être entendu
+peut toutefois être réparée dans le cadre de la procédure de recours lorsque l’irrégularité
+n’est pas particulièrement grave et pour autant que la partie concernée ait la possibilité
+de s’exprimer et de recevoir une décision motivée de la part de l’autorité
+de recours disposant d’un pouvoir d’examen complet en fait et en droit (ATF 142 II 218 consid.
+2.8.1 ; ATF 136 III 174 consid. 5.1.2 ; TF 4A_35/2015 du 12 juin 2015 consid. 2.3 ; TF 5A_897/2015 du
+1
+er
+février 2016 consid. 3.2.2 ; TF 5A_741/2016 consid. 3.1.2 précité ; Colombini, op.
+cit., n. 15.3.1 ad art. 53 CPC). Une réparation du vice procédural peut également se justifier,
+même en présence d’un vice grave, lorsque le renvoi à l’autorité précédente
+constitue une vaine formalité, provoquant un allongement inutile de la procédure, incompatible
+avec l’intérêt de la partie concernée à ce que sa cause soit tranchée
+dans un délai raisonnable (ATF 142 II 218 consid. 2.8.1 ; ATF 137 I 195 consid. 2.3.2 ; ATF 136
+V 117 consid. 4.2.2.2 ; TF 4A_283/2013 du 20 août 2013 consid. 3.3, in RSPC 2014 p.5 ; TF 5A_925/2015
+consid. 2.3.3.2 non publié à l’ATF 142 III 195 ; TF 5A_596/2018 du 26 novembre 2018 consid.
+5.3 ; Colombini, op. cit., n. 15.3.2 ad art. 53 CPC).
+b)
+En
+vertu de l'art. 273 al. 1 LP, le créancier répond du dommage qu'un séquestre injustifié
+peut causer tant au débiteur qu'aux tiers ; le juge peut l'astreindre à fournir des sûretés.
+Le droit fédéral règle les conditions et le contenu des sûretés prévues
+par l'art. 273 al. 1 LP. Le séquestrant peut être astreint - tant par l'ordonnance elle-même
+(art. 274 al. 2 ch. 5 LP) qu'à un stade ultérieur (TF 5A_757/2010 du 20 avril 2011 consid.
+2.1 et références, SJ 2011 I 450) - de fournir des sûretés lorsque la créance
+ou le cas de séquestre sont douteux (ATF 112 III 112 consid. 2a; ATF 93 I 278 consid. 5a ;
+TF 5A_807/2016 du 22 mars 2017 consid. 5 ; TF 5A_757/2010 précité) ou que la créance
+a perdu de sa vraisemblance par rapport au moment où le séquestre a été autorisé
+(ATF 113 III 94 consid. 6 et les références ; TF 5A_757/2010 précité). L'autorité
+de séquestre apprécie librement s'il se justifie d'imposer une garantie (ATF 112 III 112 consid.
+2c ; TF 5A_807/2016 précité ; TF 5A_757/2010 précité)
+Les sûretés de l'art. 273 al. 1 LP sont destinées à garantir la prétention en
+dommages-intérêts du débiteur (ou du tiers) qui découle de l'indisponibilité
+frappant ses biens (TF 5A_757/2010 précité consid. 2.2 ; TF 5A_165/2010 du 10 mai 2010
+consid. 2.3.2 et la jurisprudence citée) ; au nombre des éléments pertinents pour
+déterminer ce préjudice éventuel figurent, notamment, la durée prévisible du
+procès en validation de séquestre, ainsi que les intérêts - équivalant en principe
+à deux années - des emprunts que le débiteur (ou le tiers) a contractés pour pallier
+la privation de ses avoirs (TF 5A_757/2010 précité ; TF 5A_165/2010 précité
+consid. 2.3.3 et les nombreuses citations). Les intérêts du créancier doivent également
+être pris en compte dans l’évaluation générale, au même titre que ceux
+du débiteur. Lorsque les conditions du séquestre sont remplies, le créancier a un droit
+à obtenir cette mesure. Ce droit ne doit pas être rendu illusoire par l’astreinte à
+fournir des sûretés excessives (Stoffel/Chabloz, in Dallèves/Foêx/Jeandin, Commentaire
+romand, Poursuite et faillite, n. 25 ad art. 273 LP ; Gilliéron, Commentaire de la loi fédérale
+sur la poursuite pour dettes et la faillite, n. 38 ad art. 273 LP ; Stoffel, in Staehelin/Bauer/Staehelin
+(éd.), Basler Kommentar SchKG II, 2
+e
+éd., n. 23 ad art. 273 LP).
+D’après le Tribunal fédéral et la doctrine, il n’y a pas lieu d’imposer
+des sûretés lorsque le créancier peut se fonder sur un jugement exécutoire (TF 5A_228/2017
+du 26 juin 2017 consid. 3.5 ; TF 5A_165/2010 du 10 mai 2010 consid. 2.3.1 ; Kren Kostkiewicz,
+Schuldbetreibungs- und Konkursrecht, 3
+e
+éd, 2018, n° 1644, p. 460 et les réf. cit.). Tel est en particulier le cas lors que le
+créancier se prévaut d’un jugement «
+Convention
+de Lugano
+» (Jeandin, Point de la situation
+sur le séquestre à la lumière de la Convention du Lugano, in SJ 2017 II 27ss, spéc.
+p. 39 ; Boller, Der neue Arrestgrund von Art. 271 Abs. 1 Ziff. 6 revSchKG, p. 194).
+c)aa)
+En l’espèce, l’autorité précédente a estimé que l’intimée
+disposait bien d’un titre à la mainlevée définitive justifiant le cas de séquestre
+invoqué de l’art. 271 al. 1 ch. 6 LP, constitué par des jugements définitifs et
+exécutoires, mais a ramené le montant séquestré de 94'636 fr. 91 à 91'609 fr.
+75 afin de tenir compte d’un montant non comptabilisé par l’intimée lors de sa
+demande de séquestre ainsi que d’un montant compensé. Elle a déclaré rejeter,
+pour le surplus, l’opposition au séquestre, indication figurant expressément dans le
+dispositif du prononcé attaqué.
+On comprend de ce qui précède que la première juge a implicitement mais clairement considéré
+que, dès lors que l’intimée disposait d’un titre à la mainlevée définitive
+lui permettant d’obtenir l’exécution forcée de sa créance et le séquestre
+sur la base de l’art. 271 al. 1 ch. 6 LP, le séquestre ne pouvait pas être injustifié
+de sorte que la requête de sûretés devait par voie de conséquence être rejetée,
+celle-ci ne visant qu’à assurer, selon les termes de la loi, un séquestre injustifié.
+La conclusion en constitution de sûretés était au demeurant comprise dans l’opposition
+à séquestre que la première juge a déclaré rejetée «
+pour
+le surplus
+». Le grief de déni de justice
+ainsi que de défaut de motivation apparaissent ainsi infondés.
+bb)
+Pour le surplus, le recourant n’expose aucunement dans son recours en quoi les conditions posées
+par l’art. 273 al. 1 LP seraient actuellement remplies. Il n’indique en particulier pas,
+encore moins ne rend vraisemblables, les éléments du dommage auquel l’exposerait l’indisponibilité
+actuelle de ses avoirs. Faute de motivation suffisante, sa conclusion en constitution de sûretés
+est irrecevable. Au demeurant, au vu du dispositif du prononcé de mainlevée définitive
+de l’opposition produit par l’intimée, la créance a été considérée
+par le juge de la mainlevée comme établie ; en outre, comme on va le voir (cf. infra consid.
+IV et V), le séquestre fondé sur l’art. 271 al. 1 ch. 6 LP est bien fondé, de sorte
+qu’il ne saurait y avoir de dommage en lien de causalité avec un séquestre injustifié.
+Dans ces circonstances, il se justifie de rejeter la demande de sûretés.
+IV.
+Le recourant conteste l’existence d’une créance au sens de l’art. 272 al. 1 ch.
+1 LP.
+a)
+Celui
+dont les droits sont touchés par un séquestre peut former opposition auprès du juge du
+séquestre dans les dix jours dès celui où il en a eu connaissance (art. 278 al. 1 LP).
+L’objet de la procédure d’opposition est les conditions du séquestre (art. 272
+LP ; TF 5A_228/2017 du 26 juin 2017 consid. 3.1).
+Le séquestre, mesure conservatoire urgente, doit être autorisé par le juge compétent,
+lorsque le créancier rend vraisemblable l'existence de la créance qu'il allègue (art.
+272 al. 1 ch. 1 LP), la réalisation du cas de séquestre invoqué et l'existence de biens
+appartenant au débiteur (art. 272 al. 1 ch. 2 et 3 LP).
+S’agissant de la créance invoquée, le critère de la vraisemblance s'applique non
+seulement à l'existence de la créance en fait, mais aussi à son existence juridique (ATF
+138 III 232 consid. 4.1.1). Ainsi, les faits à l'origine du séquestre doivent être rendus
+simplement vraisemblables. Tel est le cas lorsque, se fondant sur des éléments objectifs, le
+juge acquiert l'impression que les faits pertinents se sont produits, mais sans qu'il doive exclure pour
+autant la possibilité qu'ils se soient déroulés autrement (ATF 138 précité loc.
+cit.; en général: cf. ATF 130 III 321 consid. 3.3). A cet effet, le créancier séquestrant
+doit alléguer les faits et produire un titre (art. 254 al. 1 CPC) qui permet au juge du séquestre
+d'acquérir, au degré de la simple vraisemblance, la conviction que la prétention existe
+pour le montant énoncé et qu'elle est exigible (ATF 138 III 636 consid. 4.3.2; TF 5A_877/2011
+du 5 mars 2012 consid. 2.1). S'agissant de l'application du droit, le juge procède à un examen
+sommaire du bien-fondé juridique, c'est-à-dire un examen qui n'est ni définitif, ni complet,
+au terme duquel il rend une décision provisoire (ATF 138 III 232 consid. 4.1.1; TF 5A_828/2015 du
+23 février 2016 consid. 3).
+b)
+Selon
+l'art. 271 al. 1 ch. 6 LP, le créancier d'une dette échue et non garantie par gage peut requérir
+le séquestre des biens du débiteur qui se trouvent en Suisse lorsque le créancier possède
+contre le débiteur un titre de mainlevée définitive. La loi vise un titre de mainlevée
+définitive au sens de l'art. 80 LP (ATF 144 III 411 consid. 6.3.1 ; ATF 139 III 135 consid.
+4.2 ; TF 5A_953/2017 du 11 avril 2018 consid. 3.2.2.1 ; ATF 143 III 693 consid. 3.4.2 ; TF 5A_806/2014
+du 28 avril 2015 consid. 2.2.1 ; 5A_866/2012 du 1er février 2013 consid. 4), savoir notamment un
+jugement exécutoire rendu par un tribunal suisse (art. 80 al. 1 LP). Contrairement au cas de séquestres
+prévus au ch. 1 à 5 de l’art. 271 al. 1 LP, point n’est besoin, dans le cas du
+ch. 6, que le séquestrant rende vraisemblable l’existence de sa créance, car cette vraisemblance
+découle directement du titre produit (TF 5A_953/2017 du 11 avril 2018 consid. 3.2.2.1 ; CPF 18 juillet
+2013/299, CPF 18 septembre 2013/378).
+c)
+En
+l’espèce, l’intimée a produit en première instance les jugements rendus les
+23 mars 2004 et 7 novembre 2011 par le Président du Tribunal civil de l’arrondissement de
+La Côte, fixant les contributions d’entretien de chacun des enfants à 850 fr. par mois
+jusqu’à l’âge de quinze ans révolus, à 1'000 fr. dès lors et jusqu’à
+la majorité, puis dès le 1
+er
+mars 2009 à 600 US$ jusqu’à la fin de leur formation professionnelle pour autant qu’elle
+soit achevée dans des délai normaux. Le recourant ne conteste pas que ces jugements sont exécutoires,
+de sorte qu’il y a lieu d’admettre, au vu des considérations qui précèdent,
+que l’intimée a rendu vraisemblable l’existence des créances qu’elle a alléguées.
+Il n’est pas contesté que les dettes en cause sont échues et qu’elles ne sont pas
+garanties par gage. Enfin, le recourant ne conteste pas la validité des cessions de créance
+des 1
+er
+et 3 septembre 2018 et 17 décembre 2018 par lesquelles les enfants des parties ont cédé
+à l’intimée leurs créances en aliments découlant des jugements susmentionnés
+Le recours doit être rejeté sur ce point.
+V.
+Le recourant soutient que la créance en cause
+a été éteinte postérieurement aux jugements des 23 mars 2004 et 7 novembre 2011.
+a)
+Selon
+l’art. 81 al. 1 LP, applicable en matière de séquestre fondé sur l’art. 271
+al. 1 ch. 6 LP (TF 5A_228/2017 du 26 juin 2017 consid. 3.1 ; Stoffel, in Staehelin/Bauer/Staehelin
+(éd.), op. cit., n. 107 ad art. 271 SchKG, p. 2353), lorsque la poursuite est fondée sur un
+jugement exécutoire rendu par un tribunal ou une autorité administrative suisse, le juge ordonne
+la mainlevée définitive de l’opposition, à moins que l’opposant ne prouve
+par titre que la dette a été éteinte ou qu’il a obtenu un sursis, postérieurement
+au jugement, ou qu’il ne se prévale de la prescription. Par extinction de la dette au sens
+de l’art. 81 al. 1 LP, la loi ne vise pas seulement le paiement, mais aussi toute autre cause de
+droit civil, en particulier la compensation (ATF 136 III 624 consid. 4.2.1 ; ATF 124 III 501 consid.
+3b et les réf. cit., JdT 1999 II 136). En matière de mainlevée définitive, le poursuivi
+doit apporter par pièces la preuve stricte de l’extinction de la dette (ATF 136 III 624 consid.
+4.2.1 précité ; ATF 124 III 501 précité consid. 3a, JdT 1999 II 136). L’extinction
+par compensation d’une créance constatée par un titre de mainlevée doit donc être
+prouvée par la production de titres qui justifieraient eux-mêmes la mainlevée définitive
+ou à tout le moins la mainlevée provisoire (TF 5P. 459/2002 du 29 janvier 2003 consid. 2.2.1
+; ATF 115 III 97 consid. 4 précité, JT 1991 II 47 ; Staehelin, in Staehelin/Bauer/Staehelin
+(éd.), Basler Kommentar, SchKG I, 2
+e
+éd., n. 10 ad art. 81 LP). La créance compensante peut ainsi également se fonder sur une
+reconnaissance de dette inconditionnelle, pour autant qu’elle ne soit pas contestée par le
+créancier (Abbet, in Abbet/Veuillet (éd.), La mainlevée de l’opposition,  n.
+13 ad art. 81 LP ; ATF 136 III 624 précité consid. 4.2.3). Une partie de la doctrine considère
+qu’une contestation non fantaisiste de la reconnaissance de dette compensante suffit pour faire
+échec à la compensation (Abbet, loc. cit.; Marchand, La compensation dans la procédure
+de poursuite, JT 2012 II 61 ss, p. 64). Le débiteur doit en outre établir les conditions de
+la compensation (réciprocité des créances, identité des prestations dues, exigibilité
+et déductibilité en justice de la créance compensante), conditions qui peuvent résulter
+d’autres titres que le titre exécutoire établissant l’existence de la créance
+compensante (Abbet, op. cit., n. 14 ad art. 81 LP ; Staehelin, loc. cit.; sur le tout : CPF 29 décembre
+2017/315).
+b)
+Selon
+Piegai (La protection du débiteur et des tiers dans le nouveau droit du séquestre, thèse
+Lausanne 1997, pp. 174-176), l’application générale du critère de la vraisemblance
+résultant de la procédure sommaire a pour conséquence que le séquestre pourrait être
+levé lorsque le débiteur rend seulement vraisemblable que la créance n’existe pas
+ou qu’elle n’est pas exigible au moment de statuer sur l’opposition. Cette solution
+porterait, selon Piegai, gravement atteinte à la protection des droits du créancier dès
+lors qu’elle rendrait inutile la preuve complète de l’existence de la créance et
+de son exigibilité qui pourrait être apportée ultérieurement dans la procédure
+ultérieure de validation du séquestre. Piegai propose donc de distinguer entre conditions propres
+au droit des poursuites (cas de séquestre, créance garantie par gage), examinées en principe
+par le seul juge de l’opposition au séquestre et conditions de droit matériel, qui font
+l’objet de la procédure de validation du séquestre. Pour les premières, le séquestre
+serait levé si l’opposant rend vraisemblable qu’elles ne sont pas réalisées.
+Pour les secondes, le séquestre ne devrait être levé que si l’opposant prouve par
+titre (ou par une autre preuve complète et immédiatement disponible) l’inexistence ou
+l’inexigibilité de la créance, par analogie avec l’art. 81 al. 1 LP.
+Le Tribunal fédéral s’est fondé sur cet avis pour juger non arbitraire l’assertion
+de la cour de céans dans l’arrêt CPF 8 juillet 1999/305 selon laquelle la levée
+du séquestre pouvait avoir pour le séquestrant, des conséquences plus graves que le refus
+de la mainlevée de l’opposition, de sorte que le juge de l’opposition au séquestre
+devait apprécier les moyens de l’opposant avec plus de retenue que le juge de la mainlevée
+(TF 5P.450/1999 du 23 mars 2000 consid. 3d). Dans un arrêt ultérieur, le Tribunal fédéral
+s’est fondé sur le même avis et sur ce dernier arrêt pour juger non arbitraires
+les considérations de la Cour civile du Tribunal du canton de Neuchâtel selon lesquelles, en
+cas d’opposition à une ordonnance de séquestre prise en application de l’art. 271
+al. 1 ch. 6 LP, l’extinction de la dette doit être prouvée par un titre exécutoire
+ou être admise sans réserve par le créancier, à l’instar de ce qui vaut en
+matière de mainlevée définitive, dès lors que le séquestrant se fonde sur un
+titre exécutoire (TF 5A_806/2014 du 28 avril 2015 consid. 2.1.1 et 2.3.2).
+La solution de la cour cantonale neuchâteloise a été appliquée, sans références
+particulières, par la cour de céans (CPF 17 décembre 2019/197 / 198 consid. IIe). L’application
+de cette solution à la présente espèce peut toutefois demeurer indécise dès
+lors que, comme on le verra, même sous l’angle de la seule vraisemblance, les moyens libératoires
+invoqués par le recourant ne sont pas susceptibles de faire obstacle au séquestre.
+VI.
+Le recourant soutient que les créances invoquées
+par l’intimée consistant en des arriérés de contributions d’entretien dues
+pour ses enfants à elle-même puis, dès leur majorité, à eux-mêmes seraient
+prescrites.
+a)aa)
+Aux
+termes de l’art. 128 ch. 2 CO (Code des obligations du 30 mars 1911 ; RS 220), les actions
+en pensions alimentaires se prescrivent par cinq ans. La prescription court dès le jour de l’exigibilité
+du premier terme demeuré impayé (art. 131 CO). Selon l’art. 134 al. 1 ch. 6 aCO, dans
+sa teneur en vigueur jusqu’au 31 décembre 2019, la prescription ne court pas et, si elle avait
+commencé à courir, est suspendue tant qu’il est impossible de faire valoir la créance
+devant un tribunal suisse.
+Selon la jurisprudence, la suspension de la prescription instaurée par l'art. 134 al. 1 ch. 6 CO
+suppose que le créancier soit empêché d'agir devant les tribunaux suisses par des circonstances
+objectives et indépendantes de sa situation personnelle; la loi envisage ici, notamment, l'inexistence
+d'un for dans le pays (ATF 134 III 294 consid. 1.1 ; ATF 90 II 428 consid. 9 ; TF 4A_618/2014
+du 7 juillet 2015 consid. 5). Si aucun for n'est disponible, l'hypothétique possibilité que
+la compétence d'un tribunal suisse soit néanmoins acceptée par la partie défenderesse,
+tacitement, selon l'art. 6 LDIP (loi fédérale du 18 décembre 1987 sur les droit international
+privé ; RS 291), ne suffit pas à priver le créancier du bénéfice de l'art.
+134 al. 1 ch. 6 CO, car cette éventualité dépend du bon vouloir de l'adverse partie et
+elle revêt donc un caractère purement aléatoire (ATF 124 III 449 consid. 4a ; TF
+4A_618/2014 précité). L’art. 134 al. 1 ch. 6 CO s’applique également aux procédures
+d’exécution forcée. La suspension de la prescription vaut donc également lorsqu’une
+créance portant sur le versement d’une somme d’argent déjà constatée
+dans un jugement ne peut pas être exécutée faute de for de poursuite au sens de l’art.
+46 LP (TF 5A_696/2017 du 26 juin 2018 consid. 3.2.1, commenté par Meier, in Revue de la protection
+des mineurs et des adultes [RMA] 2018, pp. 325 ss, spéc. pp. 341-342 et les références
+citées), respectivement faute de for de séquestre au sens de l’art. 52 LP (ATF 134 III
+294 consid. 2.2 ; Wegmann, Organisation judiciaire et procédure, Aperçu de jurisprudence,
+Pratique juridique actuelle [PJA] 2012, pp. 1610 ss, spéc. p. 1614, relatif à ObGer Zürich
+20 septembre 2011 ; Blätter für Zürcherische Rechtsprechung [ZR] 2012, p. 26). Dans
+chaque cas, il appartient au juge d'apprécier si le créancier parvient à justifier son
+retard à agir par une impossibilité objective (ATF 124 III 449 consid. 4a ; TF 4A_618/2014
+précité).
+bb)
+Dès
+le 1
+er
+janvier 2020, l’art. 134 al. 1 ch. 6 CO dispose que la prescription ne court pas et, si elle avait
+commencé à courir, est suspendue tant qu’il est impossible, pour des raisons objectives,
+de faire valoir la créance devant un tribunal. La nouvelle teneur de cette disposition a ainsi abandonné
+la limitation aux tribunaux suisses prévue par l’ancien droit (RO 2018 p. 5343).
+Selon l’art. 49 du Titre final du CC, dans sa teneur en vigueur dès le 1
+er
+janvier
+2020, lorsque le nouveau droit prévoit des délais de prescription plus longs que l’ancien
+droit, le nouveau droit s’applique dès lors que la prescription n’est pas échue
+en vertu de l’ancien droit (al. 1). Lorsque le nouveau droit prévoit des délais de prescription
+plus courts que l’ancien droit, l’ancien droit s’applique (al. 2). L’entrée
+en vigueur du nouveau droit est sans effets sur le début des délais de prescription en cours,
+à moins que la loi n’en dispose autrement (al. 3). Au surplus, la prescription est régie
+par le nouveau droit dès son entrée en vigueur (al. 4).
+Le Message a précisé que pour les questions de droit de la prescription autres que celles du
+début et de la longueur du délai, par exemple les (nouveaux) motifs de suspension et d’interruption,
+la renonciation à la prescription ou le droit transitoire, seul le nouveau droit sera applicable
+dès lors qu’il sera entré en vigueur. Mais il le sera uniquement pour la période
+suivant son entrée en vigueur et non rétroactivement (FF 2014 pp. 221ss, spéc. p. 254).
+b)
+En
+l’espèce, la période de suspension de la prescription litigieuse est antérieure
+à l’entrée en vigueur du nouveau droit. Au vu des considérations qui précèdent,
+elle demeure soumise à l’ancien droit.
+Le recourant ne conteste pas être domicilié, depuis la cessation du paiement régulier
+des contributions d’entretien mises à sa charge, soit environ 2005, à l’étranger,
+en l’occurrence aux Etats-Unis. Il n’existait et il n’existe ainsi pas en Suisse de
+for de poursuite au sens des art. 46 al. 1 ou 48 LP. Rien ne permet non plus de penser – et le
+recourant ne le soutient pas – qu’il aurait existé en Suisse un for de poursuite au
+sens des art. 50 (élection de domicile en Suisse pour l’exécution de l’obligation)
+ou 51 LP (créance garantie par un gage sis en Suisse). En outre, il n’est pas non plus rendu
+vraisemblable que, durant la période considérée, il aurait existé en Suisse d’autres
+objets du recourant à séquestrer. Force est ainsi de constater qu’au vu du dossier et
+des circonstances du cas d’espèce et faute d’allégation du recourant et de titres
+établissant l’existence d’autres avoirs lui appartenant permettant un séquestre
+en Suisse plus tôt, l’existence d’avoirs successoraux dans la succession de D.N.________,
+domiciliée à [...] et décédée le 23 février 2017, constituait la première
+possibilité pour l’intimée, respectivement les enfants des parties, de faire valoir leurs
+créances en contributions d’entretien devant un tribunal suisse, plus précisément
+d’obtenir l’exécution de dites créances en Suisse. Conformément à l’art.
+134 al. 1 ch. 6 aCO, le délai de prescription de l’art. 128 ch. 2 CO n’a ainsi pas couru
+avant le 23 février 2017 au plus tôt et n’est dès lors pas échu. Le grief
+relevant de la prescription est infondé.
+Les circonstances invoquées par le recourant quant aux liens prétendus de l’intimée
+avec les Etats-Unis, même avérées, sont sans pertinence dans la question de savoir si
+l’art. 134 al. 1 ch. 6 aCO s’appliquait, et partant impropres à remettre en question
+l’appréciation qui précède. La production du passeport de l’intimée afin
+de démontrer qu’elle se rendrait régulièrement aux Etats-Unis, n’avait et
+n’a ainsi pas lieu d’être.
+L’existence de la procédure de modification de divorce ouverte par le recourant en Suisse
+en 2008 est également sans pertinence dans le cadre de la question de l’application de l’art.
+134 al.1 ch. 6 aCO. En effet, dite procédure ne créait pas un for permettant à l’intimée,
+respectivement à ses enfants d’obtenir en Suisse l’exécution des créances
+dont ils étaient déjà titulaires.
+VII.
+Le recourant fait valoir que son ex-épouse puis ses enfants auraient renoncé aux montants qui
+leur étaient dus. Il soutient qu’il y aurait eu entre les parties, puis entre lui et ses enfants
+un contrat d’abandon de créances, constitué par le fait qu’il n’aurait plus
+rien versé dès 2012 et que ses enfants ne lui auraient alors plus rien demandé. S’agissant
+de l’intimée, celle-ci n’aurait plus rien réclamé dans la procédure en
+modification de jugement de divorce qui a duré de 2008 à 2011.
+a)
+La
+remise de dette (art. 115 CO) est un contrat bilatéral par lequel le créancier et le débiteur
+conviennent d'éteindre une créance ou un rapport juridique (ATF 131 III 586 consid. 4.2.3.4
+p. 593; Engel, Traité des obligations en droit suisse, 2
+e
+éd., p. 761; Loacker, in Lüchinger/Oser (éd.), Basler Kommentar, OR I, 7
+e
+éd., nn. 2 et 8 ad art. 115 CO). Elle est une modalité d’extinction de l’obligation
+(ATF 124 III 501 c. 3 b). La remise de dette peut également être convenue par actes concluants
+(ATF 52 II 215 consid. 5). Le fardeau de la preuve incombe au débiteur qui se prévaut d'une
+remise de dette (art. 8 CC [Code civil du 10 décembre 1907 ; RS 210]). Le juge doit ne retenir
+qu'avec prudence une offre de remise de dette exprimée par actes concluants du créancier (ATF
+109 II 327 consid. 2b; ATF 52 II 215 consid. 5 in fine; Engel, op. cit., p. 762; Piotet, in
+Thevenoz/Werro (éd.), Commentaire romand, 2
+e
+éd., n. 22 ad art. 115 CO) car, en règle générale et sauf circonstances particulières,
+nul ne renonce sans contrepartie à une prétention. La renonciation du créancier ne peut
+être ainsi admise que si son attitude, interprétée selon le principe de la confiance,
+peut être comprise dans le cas particulier comme manifestant clairement sa volonté de renoncer
+définitivement à tout ou partie de la créance (ATF 110 II 344 consid. 2b; TF 4C.447/2006
+du 27 août 2007 consid. 6.1; Aepli, Zürcher Kommentar, n. 30 ad art. 115 CO).
+Le temps plus ou moins long que le créancier laisse s'écouler avant de procéder au recouvrement
+de sa créance n'établit pas à lui seul la remise de dette, mais constitue tout au plus
+un indice (cf. ATF 110 II 344 c. 2b; ATF 54 II 197 c. 3; Engel, op. cit., p. 762; Aepli, op. cit., n.
+37 ad art. 115 CO; Loacker, op. cit., n. 13 ad art. 115 CO). Il ne s’agit pas non plus d’un
+abus de droit (TF 4A_367/2018 du 27 février 2019 consid. 3.5.3 et les réf. cit.).
+b)aa)
+En
+l’espèce, comme on l’a vu au considérant V ci-dessus, le recourant devait établir
+par pièces une remise de dette par les créanciers des contributions en cause. A cet égard,
+il a produit un échange de courriels sur la messagerie iMessage intervenu entre le 26 décembre
+2014 et le premier janvier 2015 entre lui-même et l’intimée et un courrier que lui a
+adressé l’intimée le 15 décembre 2017, ainsi que l’absence de mention
+des contributions litigieuses dans les déclarations d’impôts de l’intimée
+et de B.N.________. Interprétées objectivement, ces manifestations de volonté, dont l’intimée
+ne conteste pas être l’auteur, ne sauraient valoir remise de dette (cf. supra consid. VIIb)bb).
+Dans la mesure où les écritures de l’intimée devraient être interprétées
+comme un abandon de créance libérant le recourant de celle-ci, cet abandon serait inopérant,
+dès lors qu’aux dates où elles ont été émises, B.N.________ et C.N.________
+étaient, de par leur majorité, les seuls créanciers des contributions en cause. En outre,
+ces documents mis en relation avec l’écoulement du temps ne sauraient établir une volonté
+de B.N.________ et C.N.________ de renoncer à leur créance par actes concluants. Quant à
+l’absence de mention des contributions en cause dans les déclarations d’impôts
+de l’intimée et de B.N.________, elle ne permet aucune déduction quant à la volonté
+de ces derniers, la jurisprudence en matière fiscale considérant que les contributions d’entretien
+ne doivent être déclarées par leur bénéficiaire que si elles sont effectivement
+versées et non sur la seule base d’un jugement ou d’une convention qui les prévoient
+(TF 2C_585/2014 du 13 février 2015 consid. 5.1 et références [relatif à la période
+fiscale 2008] ; Jaques, in Noël/Aubry Girardin (éd.), Commentaire romand, LIFD, 2
+e
+éd., n. 42 ad art. 23 LIFD et références).
+Le recours doit donc être rejeté sur ce point.
+bb)
+Au demeurant, l’intimée s’est notamment expressément opposée aux conclusions
+prises par le recourant en 2011 afin d’obtenir la réduction des pensions dues à ses enfants
+dans la procédure en modification de jugement de divorce qui a duré de 2008 à 2011. Elle
+a de ce fait clairement exprimé qu’elle souhaitait que le recourant continue à verser
+les contributions d’entretien auxquelles il avait été astreint par le jugement de divorce
+et ce jusqu’à ce que leurs enfants aient obtenu une formation appropriée. Le courriel
+du 1
+er
+janvier 2015 de l’intimée, qu’invoque le recourant à l’appui de son recours,
+n’est d’ailleurs pas produit de manière complète. Il ne pouvait ainsi rien en être
+tiré par le recourant qui n’en cite que des passages choisis. Le recourant y répond au
+demeurant par courriel du 1
+er
+janvier 2015 en se référant à «
+la
+pension due
+», puis «
+concernant
+l’avocat et la pension, tu ne vas pas me tenir en otage pour le restant de TA vie. Alors s’il
+te plait soit attaque moi ou ferme la !
+[sic]
+». On est loin, même dans l’esprit du recourant, d’une renonciation par l’intimée
+ou les enfants des parties aux contributions qui leur sont dues, renonciation qui aurait été
+acceptée par le recourant. Enfin, le 15 décembre 2017, par le courrier dont se prévaut
+également le recourant ici, l’intimée lui écrivait pour lui faire part des graves
+difficultés financières que la famille traversait et qu’ils n’étaient plus
+en mesure de «
+payer les
+études de B.N.________. Il y passe tout son temps, toute son énergie, toute sa connaissance
+dans un travail acharné
+». L’intimée
+demandait ensuite expressément au recourant de contribuer à l’entretien de leur fils
+B.N.________. Ces éléments ne permettent pas de retenir que la première juge aurait omis
+de manière arbitraire de constater qu’il aurait été même vraisemblable que
+l’intimée aurait eu la volonté, respectivement l’aurait manifestée au recourant,
+de renoncer pour ses enfants au paiement des contributions auxquelles le recourant avait été
+astreint. Celui-ci ne l’a au demeurant clairement pas compris comme cela
+L’absence alléguée par le recourant du dépôt en Suisse d’une plainte
+pénale de l’intimée ou de ses enfants contre lui est totalement impropre à rendre
+vraisemblable un tel abandon de créance.
+Quant aux enfants des parties, aucun élément n’imposait de retenir une telle renonciation.
+Leur prétendu silence, malgré les tentatives de leur mère d’obtenir quelque chose
+pour eux d’un père qui ne pouvait être poursuivi en Suisse, n’avait pas à
+être interprété comme tel. Celui-ci, en 2017 notamment, était informé que son
+fils poursuivait des études et donc qu’aux termes de la loi et du jugement de modification
+de divorce, il était toujours débiteur de la pension à lui verser. Aucune pièce tel
+que requise par le recourant n’a ainsi à être produite sur la question de savoir si les
+enfants du recourant lui auraient réclamé les pensions dues par écrit.
+Au vu de ces éléments, on ne saurait considérer que la première juge aurait constaté
+de manière manifestement inexacte des faits ni fait une fausse application du droit, notamment de
+l’art. 6 CO, en niant que l’intimée ou ses enfants aient renoncé aux créances
+qu’ils avaient contre le recourant. Un abus de droit constitué par le fait de réclamer
+le paiement de ces contributions, vraisemblablement à la première occasion utile où le
+recourant pouvait réellement y être astreint, soit lorsque des avoirs en Suisse pouvaient être
+séquestrés, ne saurait être opposé à l’intimée, respectivement à
+ses enfants. La cession à ces fins par des enfants à leur mère de créances, dont
+il n’est pas rendu vraisemblable qu’ils y aient renoncé, ne saurait non plus être
+taxée d’abusive, ni a fortiori de manifestement abusive.
+VIII.
+Le
+recourant conteste la valeur probante donnée aux tableaux récapitulatifs des pensions dues
+et contributions versées sur lesquels la première juge s’est fondée.
+Comme on l’a vu au considérant IVc) ci-dessus, l’intimée est au bénéfice
+de titre à la mainlevée pour les montants mensuels de 850 fr. jusqu’à l’âge
+de quinze ans révolus et de 1'000 fr. dès lors jusqu’au 28 février 2009 puis de
+600 US$ par enfant dès le 1
+er
+mars 2009 jusqu’à la fin de leur formation professionnelle pour autant qu’elle soit
+achevée dans des délais normaux. Conformément à l’art. 81 al. 1 LP (applicable
+en vertu des considérations développées au consid. V ci-dessus), il appartenait au recourant
+de rendre vraisemblable par titre sa libération, autrement dit qu’il aurait versé davantage
+que les montants retenus par la première juge sur la base des décomptes de l’intimée
+qu’elle a corrigés. Or, tel n’est pas le cas.
+Le recours doit donc être rejeté sur ce point.
+IX.
+Le recourant invoque une mauvaise application
+des art. 277 al. 2 et 276 al. 3 CC.
+a)
+Le recourant conteste que B.N.________ aurait poursuivi une formation appropriée au sens de l’art.
+277 al. 2 CC au-delà de sa majorité.
+aa)
+D'après l'art. 277 al. 2 CC, si, à
+sa majorité, l'enfant n'a pas encore de formation appropriée, les père et mère doivent,
+dans la mesure où les circonstances permettent de l'exiger d'eux, subvenir à son entretien
+jusqu'à ce qu'il ait acquis une telle formation, pour autant qu'elle soit achevée dans des
+délais normaux.
+Le devoir d'entretien des père et mère de l'enfant majeur est destiné à permettre
+au créancier d'acquérir une formation professionnelle, à savoir les connaissances qui
+lui permettront de gagner sa vie dans un domaine correspondant à ses goûts et à ses aptitudes.
+La formation tend donc à l'acquisition de ce qui est nécessaire pour que l'enfant puisse faire
+face par ses propres ressources aux besoins matériels de la vie (ATF 117 II 372 consid. 5b ;
+TF 5A_664/2015 du 25 janvier 2016 consid. 2.1, publié in La Pratique du droit de la famille [FamPra.ch]
+2016, p. 519). Elle doit être achevée dans des délais normaux, ce qui implique que l'enfant
+doit s'y consacrer avec zèle ou en tout cas avec bonne volonté, sans toutefois faire preuve
+de dispositions exceptionnelles. La loi n'impose pas l'assistance à un étudiant qui perd son
+temps; il y a lieu d'accorder une importance décisive à l'intérêt, à l'engagement
+et à l'assiduité que manifeste un enfant à l'égard d'une formation déterminée
+dont on peut légitimement admettre qu'elle correspond à ses aptitudes. Le retard entraîné
+par un échec occasionnel de même qu'une brève période infructueuse ne prolongent
+pas nécessairement d'une manière anormale les délais de formation. Il incombe toutefois
+à l'enfant qui a commencé des études depuis un certain temps et réclame une pension
+de faire la preuve qu'il a déjà obtenu des succès, notamment qu'il a présenté
+les travaux requis et réussi les examens organisés dans le cours normal des études (ATF
+117 II 127 consid. 3b et la jurisprudence citée; TF 5A_664/2015 précité et références).
+Une seconde formation, un perfectionnement ou une formation complémentaire ne sont en principe pas
+couverts, même s'ils peuvent paraître utiles (ATF 118 II 97 consid. 4a ; TF 5A_664/2015
+précité et références). L'obligation d'entretien peut subsister au-delà de la
+formation de base, pour une formation complémentaire ou une seconde formation fondée sur la
+première, si ces compléments ont été envisagés avant la majorité de l'enfant
+(ATF 107 II 465 consid. 6c ; TF 5A_664/2015 précité).
+Sous l'ancien droit, l'obligation d'entretien des parents au-delà de la majorité revêtait
+un caractère exceptionnel. Ce principe doit toutefois être relativisé sous le nouveau
+droit, particulièrement lorsque sont concernés des enfants majeurs qui n'ont pas encore vingt
+ans (TF 5C.205/2004 du 8 novembre 2004 consid. 3.1 et les réf. cit.). S'il est exact que la formation
+professionnelle doit avoir été projetée dès avant la majorité, le Tribunal fédéral
+a par ailleurs considéré qu'en cas d'études universitaires, la formation, qui débute
+avant la majorité - soit par le gymnase - et se termine après, constitue un tout. La formation
+doit en effet permettre à l'enfant de se rendre indépendant par la pleine exploitation de ses
+capacités. A cet égard, on ne saurait considérer que d'une manière générale
+la maturité constitue l'aboutissement de la formation, ce titre conduisant naturellement à
+une formation ultérieure, et notamment de niveau universitaire (TF 5C.205/2004 précité
+consid. 4.1 et les références citées). La doctrine a déduit de cette jurisprudence
+que l’obtention d’une maturité professionnelle ou d’une maturité commerciale
+constitue aujourd’hui uniquement la base nécessaire pour accomplir une formation plus complète
+et ne marque donc pas la fin de la formation. Celle-ci sera achevée au terme de la formation qui
+suit, en particulier en Haute Ecole Spécialisée (HES) (Meier/Stettler, Droit de la filiation,
+6
+e
+éd., n° 1581 p. 1033).
+bb)
+Selon
+la jurisprudence relative à la mainlevée définitive, applicable en l’espèce
+(cf. consid. IVb ci-dessus), le jugement qui condamne un père au paiement de contributions d’entretien
+«
+jusqu’à la
+fin de la formation professionnelle, pour autant qu’il achève sa formation dans des délais
+raisonnables
+», est conditionnellement exécutoire,
+en ce sens qu’il soumet l’entretien au-delà de la majorité à la condition
+– résolutoire  – de l’achèvement de la formation dans un délai
+raisonnable. Dans le cas d’un jugement condamnant au paiement de contributions d’entretien
+au-delà de la majorité dont l’effet cesse si la condition n’est pas réalisée,
+il appartient au débiteur d’apporter la preuve stricte par titre de la survenance de la condition
+résolutoire, sauf si cette dernière est reconnue sans réserve par le créancier ou
+si elle est notoire (ATF 144 III 193 consid. 2.2 et les réf. citées ; ATF 143 III 564
+consid. 4.2.2).
+cc)
+En
+l’espèce, B.N.________, né le [...] 1994, a suivi des cours au gymnase en Ecole de culture
+générale et de commerce entre 2009 et 2012, avant d’exécuter un stage de maturité
+professionnelle de septembre 2012 à octobre 2013 qui a abouti à l’obtention de sa maturité
+professionnelle le 19 novembre 2013. Il a ensuite accompli ses obligations militaires du mois de mars
+2014 au mois d’octobre 2015, dont la durée prolongée s’explique par le fait qu’il
+a été promu au grade de premier lieutenant le 11 mai 2015 et a accompli l’entier
+de son service militaire à cette occasion. Après l’accomplissement de son service militaire,
+B.N.________ a accompli un stage non rémunéré dans un bureau d’architecte du 2 novembre
+2015 au 1
+er
+septembre 2016 en vue d’intégrer la Haute école [...], dont l’admission était
+conditionnée à une année d’expérience pratique dans le domaine. Depuis le 19
+septembre 2016, il suit régulièrement une formation à plein temps dans cette école,
+dans le but d’obtenir un bachelor.
+Dans la présente procédure, il s’agit uniquement d’examiner si c’est à
+tort que la juge de première instance a retenu que le fils des parties avait poursuivi une formation
+appropriée dans des délais raisonnables, durant la période pour laquelle le paiement de
+contributions est réclamé, soit jusqu’en octobre 2018. Il n’y a dès lors pas
+lieu d’instruire sur la période postérieure à cette date et les réquisitions
+de preuve du recourant à cet égard doivent être rejetées pour ce motif déjà.
+Au vu des faits constatés par la première juge, dont le recourant ne démontre pas qu’ils
+auraient été retenus au stade de la vraisemblance de manière arbitraire, il n’apparait
+pas que l’autorité de première instance aurait considéré de manière contraire
+au droit que le fils des parties suivrait une formation appropriée. Tout d’abord, il n’était
+pas insoutenable de retenir le fait constaté par la première juges que le fils des parties
+s’orientait vraisemblablement déjà vers le métier d’architecte dès avant
+sa majorité dès lors qu’il avait effectué, selon son curriculum vitae produit par
+l’intimée à l’audience du 18 décembre 2018, dont rien ne permet de douter,
+un stage dans ce domaine alors qu’il n’avait que quatorze ans. On ne saurait ensuite considérer
+que le CFC obtenu hors apprentissage, ou la maturité professionnelle devrait, au stade de la vraisemblance
+à tout le moins, être considérés comme suffisants pour constituer une formation appropriée
+au sens de l’art. 277 al. 2 CC. Au contraire, il est admis aujourd’hui par la doctrine susmentionnée
+que la maturité professionnelle n’est qu’une étape ouvrant la voie aux hautes écoles
+spécialisées. Que le fils des parties ait rejoint l’armée, gradé dans le cadre
+de celle-ci et accompli l’entier de son service obligatoire ne saurait non plus imposer de considérer
+qu’il aurait abandonné la poursuite de la formation civile d’architecte envisagée
+dès avant sa majorité. Le service militaire est en effet obligatoire pour tout homme suisse
+(art. 2 al. 1 LAAM [loi du 3 février 1995 sur l’armée et l’administration militaire ;
+RS 510.10]). De plus, de par la loi également, tout militaire peut être tenu de revêtir
+un grade puis d’accomplir les services correspondants (art. 15 LAAM). Le recourant qui affirme
+que son fils aurait choisi d’embrasser la carrière militaire et de faire autant de jours d’armée
+ne le rend aucunement vraisemblable. Le cursus de son fils dit bien le contraire. La période de
+service doit ainsi être considérée dans le cas d’espèce, au stade de la vraisemblance,
+comme constituant une interruption limitée, même si longue du fait des obligations auxquelles
+il a dû faire face, impropre à remettre en question la poursuite par le fils des parties d’une
+formation appropriée ou son intérêt quant au fait d’obtenir celle-ci dans des délais
+normaux.
+Le recourant estime que la situation professionnelle de son fils pour 2018 doit être vérifiée
+et requiert la production de pièces à ce sujet. Il n’a pas contesté dans son recours
+le fait admis par l’autorité précédente que son fils suivait des études jusqu’en
+2017. Il n’apparait d’autre part pas que le premier juge aurait retenu de manière arbitraire
+qu’il était vraisemblable que le fils des parties, qui avait commencé ses études
+d’architecte en 2016 – fait démontré par attestation –, qui les continuait
+encore fin 2017 – fait invoqué par l’intimée dans une lettre directement adressée
+au recourant hors de toute procédure – les ai poursuivies jusqu’à fin octobre 2018.
+Au demeurant, le recourant aurait pu invoquer une interruption par son fils de ses études en 2018
+et surtout requérir des pièces le démontrant devant l’autorité de première
+instance. Il est forclos à le faire devant l’instance de céans.
+Au vu de ce qui précède, force est de constater que le recourant n’a pas rendu vraisemblable
+que le fils des parties, durant toute la période de non-paiement des contributions litigieuses,
+avait achevé une formation appropriée au sens de l’art. 277 al. 2 CC. A fortiori n’a-t-il
+pas apporté la preuve stricte de la survenance de la condition résolutoire prévue par
+le jugement de 2011.
+b)
+Le
+recourant reproche également à la première juge de n’avoir pas pris en considération
+les revenus réalisés par son fils entre 2012 et 2017 ou encore son lieu de domicile censé
+prouver son indépendance financière. Il reproche également à l’intimée
+et à leur fils de n’avoir pas déclaré les créances qu’ils lui réclament
+dans leurs déclarations d’impôt respectives.
+aa)
+L'enfant
+majeur peut être tenu, indépendamment de la capacité contributive de ses parents, de subvenir
+à ses besoins en travaillant – fût-ce partiellement –, pendant sa formation. Cas
+échéant, il peut se voir imputer un revenu hypothétique (TF 5A_685/2008 du 18 décembre
+2008 consid. 3.2 ; TF 5C.150/2005 du 11 octobre 2005 consid. 4.4.1, in FamPra.ch 2006 p. 480 ; TF 5A_129/2019
+du 10 mai 2019 consid. 9.3). Toutefois, l'autonomie financière exigible de l'enfant majeur trouve
+sa limite dans le temps qu'il doit consacrer en priorité à sa formation, soit dans la mesure
+du conciliable avec les études entreprises (Meier/Stettler, op. cit., no 1606 p. 1045). Le parent
+a la charge d'établir que l'enfant dispose ou pourrait disposer de ressources propres (Meier/Stettler,
+op. cit, no 1637 p. 1064).
+La prise en compte des ressources de l'enfant ne libère en principe que partiellement les père
+et mère de leur obligation, les montants touchés étant en général insuffisants
+pour couvrir l'entier des besoins de l'enfant. Une décharge totale des parents ne se justifie en
+principe que si la situation économique de l'enfant est sensiblement plus confortable (Meier/Stettler,
+op. cit., no 1603 p. 1044). S'agissant de la prise en compte des revenus de l'enfant, le Tribunal fédéral
+a imputé la paie d'apprenti à raison de 50% la première année, 60% la deuxième
+année et 100% la troisième année (TF 5C.106/2004 du 5 juillet 2004), mais une imputation
+des 2/3 pour toute la période d'apprentissage ne procède pas d'un abus du pouvoir d'appréciation
+(TF 5A_664/2015 du 25 janvier 2016 consid. 4.2, FamPra.ch 2016
+p.
+519 ; Meier/Stettler, op. cit., no 1605 p. 1045).
+bb)
+Selon
+la jurisprudence relative à la mainlevée définitive, (cf. consid. IVb ci-dessus), il n’appartient
+pas au juge de la mainlevée définitive de trancher de délicates questions de droit matériel
+ou pour la solution desquelles le pouvoir d'appréciation joue un rôle important, la décision
+sur de telles questions étant réservée au juge du fond (ATF 140 III 180 consid. 5.2.1;
+ATF 124 III 501 consid. 3a, avec les arrêts cités). Quant au juge de l’opposition au
+séquestre, il statue en procédure sommaire sous l’angle de la vraisemblance (ATF 132
+III 715 consid. 3.1; TF 5A_582/2012 du 11 février 2013 consid. 3.1).
+cc)
+En
+l’espèce, le recourant semble remettre en question l’obligation d’entretien qui
+a été mise à sa charge en faveur de son fils en formation durant les années litigieuses
+du fait des capacités financières prétendues de celui-ci. Il s’agit ici d’une
+question qui relève du fond dès lors qu’il conviendrait d’examiner la situation
+financière de B.N.________, et la proportion de ses revenus qu’il y aurait lieu d’imputer,
+examen qui ne relève pas, vu les considérations qui précèdent, du juge du séquestre.
+Au demeurant, il est juridiquement erroné de soutenir que le fait qu’un enfant réalise
+un gain aussi élevé que la quotité de la pension en sa faveur mettrait d’office
+fin à celle-ci. Dès lors que cette question est sans portée ici, les faits invoqués
+par le recourant ne sauraient être considérés, même avérés, comme ayant
+été omis de manière arbitraire par la première juge. Il n’y a partant pas lieu
+non plus à instruire sur ces faits dans la présente cause. Il en va de même et pour les
+mêmes raisons des pièces requises aux conclusions IV à VIII. A ce sujet encore, le recourant
+demande que les pièces produites dans la procédure de mainlevée définitive l’opposant
+à l’intimée pour le montant de la créance ayant fondé le séquestre ici
+contesté soient produites. Il lui appartenait toutefois de produire l’une ou l’autre
+de ces pièces dans la procédure de première instance s’il l’estimait utile.
+Il ne démontre aucunement en avoir été empêché. Il n’établit au surplus
+aucunement l’utilité de l’une ou l’autre d’entre elles. Celles qu’il
+cite en p. 6-7 de son recours (production d’une attestation relative aux montants payés à
+B.N.________ pendant son stage débuté en novembre 2015 ; pièce n° 155 [déclarations
+d’impôt de l’intimée pour les années 2009 à 2017] ; production d'une
+attestation établissant qui est actuellement locataire de l'appartement sis [...] à [...],
+propriété [...], locataire(s) [...] et/ou B.N.________, ainsi que du titulaire du compte duquel
+sont payées les loyers pour tout 2018 et 2019), ne sont pour les motifs exposés ci-dessus pas
+pertinentes dans la présente procédure. Enfin, au vu du prononcé de mainlevée définitive
+du 10 septembre 2019 mettant fin à dite procédure en défaveur du recourant, on ne voit
+pas qu’une pièce de cette procédure pourrait être pertinente ici pour le sort de
+la cause. Le recourant n’en dit rien. Il n’y a dès lors pas lieu de requérir production
+de ce dossier. Enfin, on peine à suivre le recourant lorsqu’il soutient qu’il ne savait
+pas que ses enfants étaient en formation durant les années litigieuses. En effet, que ce soit
+en 2013, 2014, en 2015 ou en 2017, les échanges qu’il a produits et auxquels il se réfère
+dans son recours font état de sa connaissance de la «
+pension
+due
+» de même que du suivi par son fils
+de son gymnase puis de ses études.
+X.
+a)
+En conclusion, le recours doit être rejeté
+dans la mesure de sa recevabilité et le prononcé confirmé.
+Vu le rejet du recours, les frais judiciaires de deuxième instance, arrêtés à 750
+fr., doivent être mis à la charge du recourant, qui versera en outre à l’intimée
+des dépens de deuxième instance, fixés à 3'000 fr. (art. 106 al. 1 CPC ; art. 3 al.
+2 et 8 TDC [tarif du 23 novembre 2010 des dépens en matière civile ; BLV 270.11.6]).
+b)aa)
+L’intimée
+obtenant gain de cause et remplissant les conditions économiques de l’art. 117 let. a CPC,
+sa requête d’assistance judiciaire doit être admise.
+bb)
+Le
+conseil de l’intimée a déposé le 20 janvier 2020 une liste de ses opérations,
+dont il ressort qu’il a consacré 12 h 10 à la procédure de recours et qu’il
+fait valoir des débours, par 2 % du temps consacré, soit 43 fr. 90. Cette durée et ces
+débours apparaissent adéquats. Au tarif horaire de 180 fr. (art. 2 al. 1 let. a RAJ [règlement
+du 7 décembre 2010 sur l’assistance judiciaire en matière civile ; BLV 211.02.3])
+l’indemnité de conseil d’office de l’intimée doit être fixée à
+2'190 fr., montant auquel il convient d’ajouter la TVA à 7,7 %, par 168 fr. 65, les débours
+par 43 fr. 90, la TVA à 7,7 % sur ceux-ci, par 3 fr. 40, ce qui aboutit à une indemnité
+globale de 2'405 fr. 95.
+cc)
+Selon
+l’art. 123 al. 1 CPC, une partie n’est tenue de rembourser l’assistance judiciaire
+dès qu’elle est en mesure de le faire.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté dans la mesure de sa recevabilité.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 750 fr. (sept cent cinquante
+francs), sont mis à la charge du recourant.
+IV.
+La demande d’assistance judiciaire de l’intimée est admise et Me Nicolas Blanc désigné
+conseil d’office.
+V.
+L’indemnité de conseil d’office de Me Nicolas Blanc est fixée à 2'405 francs
+95 (deux mille quatre cent cinq francs et nonante-cinq centimes), TVA et débours compris.
+VI.
+La bénéficiaire de l’assistance
+judiciaire est, dans la mesure de l’art. 123 CPC, tenue au remboursement de l’indemnité
+du conseil d’office mise à la charge de l’Etat.
+VII.
+Le recourant A.N.________ versera à l’intimée
+R.________ la somme de 3'000 fr. (trois mille francs) à titre de dépens de deuxième instance.
+VIII.
+L'arrêt est exécutoire.
+La
+juge-présidante :
+Le greffier :
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Emmanuel Hoffmann, avocat (pour A.N.________),
+‑
+Me Nicolas Blanc, avocat (pour R.________).
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 91'609 fr. 70.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de Morges.
+Le greffier :
