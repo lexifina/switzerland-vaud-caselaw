@@ -1,0 +1,249 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 10"
+decided: "2020-03-10"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7620472"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-002.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-191.md", "switzerland/bund/acts/281.1/art-194.md", "switzerland/bund/acts/281.1/art-197.md", "switzerland/bund/acts/281.1/art-333.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 10
+
+## Regeste
+
+DÉCLARATION D'INSOLVABILITÉ, ABUS DE DROIT | 2 al. 2 CC, 191 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 10.03.2020 Faillite / 2020 / 10
+
+DÉCLARATION D'INSOLVABILITÉ, ABUS DE DROIT | 2 al. 2 CC, 191 LP
+
+TRIBUNAL
+CANTONAL
+FY19.043337-200030
+38
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+10 mars 2020
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+191 LP ; 2 al. 2 CC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+X.________
+,
+à [...], contre le jugement rendu le 20 décembre 2019, à la suite de l’audience
+du 10 décembre 2019, par la Présidente du Tribunal d’arrondissement de l’Est vaudois,
+rejetant la requête de faillite personnelle déposée par le recourant le 30 septembre 2019.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par requête adressée le 30 septembre 2019 au Tribunal d’arrondissement de l’Est
+vaudois, X.________ a requis sa mise en faillite personnelle, en invoquant les nombreuses poursuites
+dont il faisait l’objet et ses difficultés à payer ses dettes, en particulier ses impôts.
+Les pièces produites à l’appui de la requête établissent notamment les faits
+suivants : né en 1966, X.________ fait ménage commun avec sa compagne et leur fille de
+quatre ans ; il est également père d’un garçon de quinze ans, pour lequel il
+verse une pension mensuelle de 650 fr. ; employé à 100 %, il perçoit un salaire mensuel
+net de 4'553 fr. 15, allocations familiales en sus ; sa compagne travaille à 80% pour un salaire
+mensuel net de l’ordre de 2'950 fr., comprenant une commission variable ; selon un calcul
+de son minimum d’existence et un avis de saisie du 19 septembre 2019 établis par l’Office
+des poursuites du district d’Aigle, l’intéressé dispose, après paiement de
+ses charges indispensables, d’un montant mensuel de 350 fr., saisissable dès le 1
+er
+septembre 2019 ; il fait valoir qu’il ne peut cependant pas payer ses impôts courants,
+ce qui ressort effectivement d’un budget établi avec l’aide de Caritas et du décompte
+final d’impôt 2018 du 23 mai 2019, montrant qu’aucun acompte n’a été
+versé ; selon une « liste des affaires communiquées dans les 5 ans »,
+établie le 6 septembre 2019 par l’Office des poursuites du district d’Aigle, l’intéressé
+fait l’objet de dix-neuf poursuites pour un montant total de 33'505 fr. 35, dont dix-huit exercées
+par l’Office d’impôt du district d’Aigle, et de cent vingt-quatre actes de défaut
+de biens après saisie pour un montant total de 151’354 fr. 95.
+Un extrait 8a LP du 6 décembre 2019 au dossier mentionne toutes les poursuites, y compris celles
+au stade de l’« extinction » ou de la « réalisation avec paiement
+intégral », pour un montant total de 369'807 fr. 17 et cent vingt-trois actes de défaut
+de biens pour un montant total de 151'000 fr. 35.
+2.
+Par jugement du 20 décembre 2019, notifié
+au requérant le lendemain, la Présidente du Tribunal d’arrondissement de l’Est
+vaudois a rejeté la requête de faillite personnelle et a mis les frais judiciaires, arrêtés
+à 200 fr., à la charge du requérant. Considérant que la déclaration d’insolvabilité
+en justice constituait un abus de droit dans le cas où la masse en faillite ne disposerait d’aucun
+actif, elle a constaté qu’en l’occurrence, le requérant ne disposait d’aucun
+actif réalisable au profit de ses créanciers, ses salaires futurs ne tombant pas dans la masse
+active, de sorte que sa faillite ne profiterait qu’à lui, qui échapperait à une
+saisie de salaire sans pouvoir offrir aucun autre moyen de désintéresser ses créanciers.
+3.
+X.________ a recouru par acte déposé
+le 31 décembre 2019. En substance, il a conclu à l’admission de sa requête, en faisant
+notamment valoir que sa mise en faillite personnelle constituerait le seul moyen d’enrayer le cercle
+vicieux de l’endettement généré par le fait qu’il ne peut pas payer ses impôts
+et qu’il n’est pas tenu compte des impôts courants dans le calcul du minimum vital.
+La « liste des affaires en cours » établie par l’Office des poursuites
+du district d’Aigle au 8 janvier 2020, dont l’édition a été ordonnée
+d’office par la cour de céans, mentionne dix poursuites en cours pour un montant total de
+16'688 fr. 20, dont neuf exercées à l’instance de l’Office d’impôt du
+district d’Aigle, au stade de la « saisie fructueuse » et cent vingt-trois
+actes de défaut de biens pour un montant total de 151'000 fr. 35.
+Le 8 février 2020, le recourant a déposé une écriture complémentaire et a produit
+des pièces nouvelles.
+En droit
+:
+I.
+En vertu de l’art. 174 LP (loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1), auquel renvoie l’art. 194 al. 1 LP, le
+jugement rejetant la requête de faillite sans poursuite préalable peut faire l’objet
+d’un recours au sens des art. 319 ss CPC (Code de procédure civile; RS 272).
+Formé par acte écrit et motivé (art. 321 al. 1 CPC) déposé dans le délai
+de dix jours des art. 174 al. 1 LP et 321 al. 2 CPC, le recours est recevable.
+En revanche, l’écriture et les pièces produites après l’expiration du délai
+de recours sont irrecevables ; c’est en effet dans le délai de recours que le mémoire
+et tous les titres ou documents de la partie qui recourt doivent être produits (ATF 139 III 491
+consid. 4 ; TF 5A_427/2013 du 14 août 2013 consid. 5.2.1 ; CPF 16 octobre 2013/409).
+II.
+a)
+Aux termes de l’art. 191 LP, le débiteur
+peut lui-même requérir sa faillite en se déclarant insolvable en justice (al. 1) ;
+lorsque toute possibilité de règlement amiable des dettes selon les art. 333 ss LP est exclue,
+le juge prononce la faillite (al. 2).
+Le débiteur doit rendre vraisemblable son insolvabilité, qui n’équivaut pas au surendettement,
+mais consiste en l’incapacité, en raison d’un manque de liquidités qui n’apparaît
+pas seulement temporaire, de payer ses dettes échues (Pierre Gapany, La faillite de la personne
+physique – les abus de la procédure de faillite Aspects judiciaires, JdT 2018 II 15 ss, spéc.
+p. 19, et les réf. citées à la note infrapaginale 16).
+b)
+aa)
+La prérogative du débiteur, prévue par
+l’art.
+191 al. 1 LP, de requérir sa faillite en se déclarant insolvable en justice trouve sa limite
+dans l'abus de droit (art. 2 al. 2 CC [Code civil ; RS 210]), dont le juge doit examiner d'office
+la réalisation au regard de l'ensemble des circonstances du cas concret. Il convient de rappeler
+d’emblée que la faillite volontaire n'est pas une procédure visant à régler
+la problématique du surendettement des particuliers obérés ; les considérations
+relatives à la « spirale » de dettes dans lequel se trouverait le débiteur
+requérant sont dès lors sans pertinence. La demande de faillite volontaire du débiteur
+qui poursuit le but d’échapper à la saisie de son salaire constitue un abus de droit.
+Il ne saurait y avoir libre choix entre la saisie de revenu et la déclaration d'insolvabilité,
+car les intérêts des créanciers doivent également être pris en compte et il
+ne peut s'agir de faire triompher uniquement le point de vue du débiteur (ATF 145 III 26 consid.
+2.2 et les réf. cit. ; TF 5A_819/2018 du 4 mars 2019 consid. 2.1).
+bb)
+Le Tribunal fédéral a jugé qu’il y avait également abus de droit manifeste
+de la part d’un débiteur à solliciter sa mise en faillite volontaire alors qu’il
+sait que la masse ne disposera d’aucun actif réalisable au profit de ses créanciers (ATF
+133 III 614 consid. 6.1). Cet arrêt a été rendu dans le cadre de l’assistance judiciaire
+(chances de succès), mais le Tribunal fédéral a confirmé ultérieurement que
+son raisonnement s’appliquait aussi à la requête de faillite volontaire elle-même
+(TF 5A_819/2018 précité ; Gapany,
+op.
+cit.
+, pp. 20-21 et les réf. citées à
+la note infrapaginale 24). En effet, seuls les biens existant au moment de la déclaration de faillite
+tombent dans la masse active de la faillite (art. 197 LP), et le salaire futur du débiteur n’en
+fait pas partie ; les saisies de salaire opérées par des créanciers pour une année
+tombent dès que le débiteur est déclaré en faillite (ATF 114 III 26 ; Marchand,
+La faillite personnelle, entre abus et regrets, JdT 2018 II 4 ss, 6). Le Tribunal fédéral a
+donc considéré que commettait un abus de droit le débiteur qui demandait sa faillite personnelle
+sans aucun actif susceptible de constituer une masse active pouvant désintéresser les créanciers.
+Dans cette hypothèse, le débiteur n’offre en effet rien à ses créanciers, alors
+qu’il récupère le salaire futur saisi ou pouvant être saisi par ceux-ci (Marchand,
+op. cit.
+,
+p. 9 et les arrêts cités). Il en va de même lorsque le dividende prévisible n’est
+pas nul mais insuffisant (Gapany,
+op. cit.
+,
+p. 21 et les réf. citées à la note infrapaginale 30 ; Staehelin,
+in
+Staehelin/ Bauer/Staehelin (éd.), Basler Kommentar SchKG, Ergänzungsband,
+ad
+n. 16
+ad
+art. 191 SchKG [LP]).
+c)
+En l’espèce, il ressort du dossier que la situation du recourant est obérée, ce
+dernier étant chroniquement endetté envers l’administration fiscale. La saisie dont fait
+l’objet le montant disponible de son revenu déterminé par le calcul de son minimum d’existence
+– lequel ne tient pas compte des impôts – l’empêche de payer ceux-ci, ce
+qui entraîne l’augmentation de ses dettes. Il demande d’ailleurs sa mise en faillite
+dans le but « de pouvoir à nouveau payer les impôts et à [son] rythme,
+pouvoir racheter les dettes aux créanciers ». Toutefois, comme exposé dans le jugement
+attaqué et rappelé supra (let. b) aa)), le législateur n’a pas voulu, par l’institution
+de la faillite personnelle ou volontaire de l’art. 191 LP, introduire une procédure de désendettement
+des particuliers, pour régler le problème du surendettement des débiteurs les plus obérés.
+La faillite personnelle n’est donc pas, contrairement à ce que soutient le recourant, « la
+seule solution valable de désendettement ». En outre, comme on l’a vu, la faillite
+volontaire ne doit pas être constitutive d’un abus de droit et les intérêts des
+créanciers doivent être pris en compte. Or, en l’occurrence, la faillite du recourant,
+servirait avant tout, si ce n’est uniquement, les intérêts de ce dernier en lui permettant
+d’échapper à la saisie de son salaire disponible, alors qu’il ne dispose d’aucun
+actif réalisable au profit de ses créanciers. L’abus de droit est réalisé,
+même si le recourant n’a peut-être pas la volonté subjective d’agir au détriment
+de ses créanciers. C’est dès lors à raison que le premier juge a rejeté sa
+requête de faillite personnelle.
+III.
+En conclusion, le recours, manifestement mal fondé,
+doit être rejeté et le jugement de première instance confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. X.________,
+-
+M. le Préposé à l'Office des poursuites du district d’Aigle,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de l’Est vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de de l’Est vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois.
+La greffière :
