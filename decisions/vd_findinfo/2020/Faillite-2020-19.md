@@ -1,0 +1,657 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 19"
+decided: "2020-04-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7650134"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-725.md", "switzerland/bund/acts/220/art-725a.md", "switzerland/bund/acts/220/art-820.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-192.md", "switzerland/bund/acts/281.1/art-194.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 19
+
+## Regeste
+
+SOCIÉTÉ À RESPONSABILITÉ LIMITÉE, AJOURNEMENT DE LA FAILLITE, ASSAINISSEMENT FINANCIER | 725a al. 1 CO, 820 CO, 174 al. 1 LP, 192 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 06.04.2020 Faillite / 2020 / 19
+
+SOCIÉTÉ À RESPONSABILITÉ LIMITÉE, AJOURNEMENT DE LA FAILLITE, ASSAINISSEMENT FINANCIER | 725a al. 1 CO, 820 CO, 174 al. 1 LP, 192 LP
+
+TRIBUNAL
+CANTONAL
+FU19.031975-200203
+111
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 avril 2020
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+M.
+Colombini et Mme Byrde, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 et 192 LP ; 725a al. 1 et 820 CO
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+W.________Sàrl
+en liquidation
+,
+à [...], contre le jugement rendu le 24 janvier 2020, à la suite de l’audience du 13
+janvier 2020, par la Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois,
+prononçant la faillite de la recourante.
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+W.________Sàrl (ci-après : la
+société) est une entreprise constituée en société à responsabilité
+limitée et inscrite au Registre du commerce du canton de Vaud depuis le 13 septembre 2017. Précédemment,
+c’était une entreprise individuelle. Son but est, notamment, le transport et la distribution
+de marchandises, les déménagements et tous travaux de nettoyage. Elle compte une dizaine d’employés.
+M.________, son associé gérant avec signature individuelle, détient l’entier de
+son capital-actions de 20’000 fr., en vingt parts de 1'000 francs.
+Le 12 juillet 2019, la société a requis un ajournement de faillite. Elle faisait valoir que
+l’explosion de son chiffre d’affaires en quelques années s’était accompagnée
+d’une augmentation des charges sociales, de la TVA et des coûts de leasing de ses neuf véhicules,
+qui n’avait pas été provisionnée et à laquelle elle n’avait pas pu faire
+face. Elle indiquait avoir besoin de six mois pour « thésauriser des fonds qui permettront
+de payer ses créanciers, sachant que la société génère un chiffre d’affaires
+de plus de 60'000.- par mois, en raison de sa cliente principale qui est La Poste ». Selon
+elle, ses perspectives d’avenir étaient sereines. Par ailleurs, elle indiquait avoir pris
+certaines mesures d’assainissement : deux collaborateurs ayant quitté la société
+au 30 juin 2019 ne seraient pas remplacés, certains véhicules non indispensables seraient restitués
+à la société de leasing à l’échéance du contrat, et elle recherchait
+de nouveaux locaux moins grands que ceux loués alors pour son activité.
+La requérante a produit des extraits du registre du commerce (pièces 1 et 2), une liste des
+poursuites dont elle faisait l’objet au 8 juillet 2019, pour un montant total de 110'179 fr. 05,
+intentées par des créanciers institutionnels tels que la Caisse cantonale de compensation AVS,
+la Confédération et deux cantons, la SUVA et des compagnies d’assurance (pièce 3) ;
+une liste de ses salariés (pièce 4) ; ses contrats de leasing (pièce 5) ; un
+bail à loyer pour locaux commerciaux d’environ 244 m
+2
+,
+comprenant une surface de bureaux, un dépôt et quatre places de parc extérieures, pour
+un loyer de 2'700 fr. par mois (pièce 6) ; un contrat « relatif aux prestations de
+transport » conclu avec Poste CH SA (pièce 7) ; un compte de résultat provisoire
+au 30 juin 2019 (pièce 8) ; un budget pour les douze prochains mois (pièce 9) ; un
+tableau des charges actuelles, dont il résulte que les charges mensuelles moyennes sont de l’ordre
+de 60'000 fr., réparties entre charges salariales et sociales de 32'770 fr., charges de véhicules
+(carburant, leasing, assurances, taxes etc.) de 16'389 fr., autres charges (loyers, assurances, publicité,
+charges administratives, honoraires, marchandises etc.) de 9'123 fr. et charges financières (frais
+bancaires, intérêts et impôts) de 800 fr. (pièce 10) ; une attestation de la
+Fiduciaire B.________Sàrl (ci-après : la fiduciaire) du 9 juillet 2019, selon laquelle
+la perte estimée, sans amortissement, pour la période comptable du 1
+er
+janvier au 30 juin 2019 est de 40'000 fr., les dettes envers les institutions sociales (AVS, LPP et SUVA)
+et la TVA s’élèvent à près de 150'000 fr. et le capital-social et la réserve
+générale s’élève à 20'000 fr., de sorte que la société est en
+situation de surendettement au 30
+juin
+2019 (pièce 11).
+La Présidente du Tribunal d’arrondissement de La Broye et du Nord vaudois (ci-après :
+la Présidente) a tenu une audience le 17 septembre 2019. Les comptes établis par la fiduciaire
+et produits à cette audience présentaient une perte de l’exercice 2018 de 86'159 fr.
+65 et une perte intermédiaire au 30 juin 2019 de 92’698 fr. 88. L’Office des poursuites
+du district du Jura-Nord vaudois a produit un extrait des poursuites au 17 septembre 2019, montrant que
+la requérante avait fait l’objet le 18 juillet 2019 de trois nouvelles poursuites, deux exercées
+à l’instance de l’Etat de Neuchâtel (Office de l’impôt à la source)
+pour des montants de 612 fr. 25 et 195 fr. 25, frappées d’opposition, et une de l’ECA,
+pour un montant de 222 fr. 35, également frappée d’opposition. La requérante a indiqué
+que ses charges courantes étaient payées.
+Par décision du 24 septembre 2019, la Présidente, considérant que l’assainissement
+de la société paraissait possible à moyen terme, pour autant que la requérante veille
+scrupuleusement à la concrétisation rapide des mesures proposées, a, notamment, prononcé
+l’ajournement de la faillite de la société jusqu’au 31 mars 2020, suspendu les
+poursuites pendantes et futures, désigné l’agent d’affaires breveté O.________
+en qualité de curateur et défini sa mission, limité les pouvoirs de l’associé-gérant
+de la requérante en ce sens que toute sortie de fonds devrait être autorisée par le curateur,
+invité celui-ci à déposer un rapport pour le 25 février 2020, ordonné à
+la requérante la production de ses comptes au 31 décembre 2019 pour le 14 février
+2020 et fixé une nouvelle audience au 2 mars 2020.
+b)
+Le 11 octobre 2019, le curateur a adressé à la société un courriel dont la teneur
+était la suivante :
+«
+Je
+fais suite à vos différents envois et vous rappelle qu’il est nécessaire de me faire
+parvenir au début de la semaine prochaine les éléments réclamés par ma lettre
+du 26 septembre 2019, dont copie vous a été remise lors de notre entretien à mon
+bureau.
+J’ai
+d’ores et déjà reçu les fiches de salaire, ainsi que les contrats de leasing.
+Il
+est toutefois indispensable que vous m’adressiez un listing récapitulatif des salaires (noms
+et montants des salaires d’octobre), ainsi que des leasings (no de contrats et types de véhicules).
+J’attends
+également que vous m’indiquiez où en sont vos démarches pour l’ouverture du
+nouveau compte bancaire, afin de me remettre au plus vite les documents à signer.
+Quant
+au solde de la provision réclamée, j’accepte qu’il me soit viré à la
+fin de ce mois.
+Enfin,
+je joins en annexe un bulletin de versement indiquant le compte sur lequel vous pourrez consigner à
+mon étude tous les mois la marge bénéficiaire devant vous permettre d’assainir votre
+situation. J’ai compris que vous aviez plusieurs dépenses extraordinaires pour octobre. Je
+vous suggère dès lors de commencer vos virements d’ici à la fin du mois de novembre.
+»
+Le 18 novembre 2019, le curateur a adressé à la Présidente la lettre suivante :
+«
+(…) Ma mission consiste notamment à informer le Tribunal si les charges courantes ne devaient
+plus être couvertes.
+A
+cet égard, je vous informe qu’une grande partie des charges courantes du mois d’octobre
+ne sont pas payées. Il s’agit entre autres de la prime AVS de Fr. 3'514,50 et des loyers dont
+le découvert s’élève à Fr. 3'320,10. La fiduciaire de la société
+n’est également pas payée.
+En
+outre, W.________Sàrl va devoir très prochainement régler les salaires de novembre. Or,
+à ce jour, le compte à la BCV présente un découvert de Fr. 27'522,75 et le compte
+à la Banque Raiffeisen un disponible de Fr. 1'487,01.
+Dans
+ces conditions, je doute que le seul fruit du travail de la société permette d’assurer
+le paiement des charges courantes et, encore moins, l’assainissement de la société. Eu
+égard à ce qui précède, je vous laisse prendre les mesures que vous jugerez utile. ».
+La société a requis la tenue d’une
+audience pour pouvoir s’expliquer et son conseil a demandé que rien ne soit entrepris
+avant fin novembre 2019 afin que sa cliente soit en mesure de justifier le paiement des charges courantes,
+dont une partie n’était pas encore échue et serait réglée d’ici à
+la fin du mois, « compte tenu du montant de l’ordre de CHF 65'000.- qui sera versé
+par la poste ».
+La Présidente a tenu une audience le 2 décembre 2019. Au vu des explications données par
+le représentant de la société, le curateur n’a pas sollicité la révocation
+de l’ajournement en l’état et la représentante de l’office des poursuites
+a conclu à la prolongation de l’ajournement. Les salaires de novembre avaient finalement été
+payés et les charges courantes à payer, de l’ordre de 10'000 fr., seraient couvertes.
+La société a par ailleurs indiqué que des discussions avec de potentiels investisseurs
+étaient en cours. En outre, elle a affirmé qu’elle parvenait à payer ses charges
+courantes.
+Par décision du 11 décembre 2019, la Présidente, considérant qu’un assainissement
+n’était toujours pas exclu en l’état, a renoncé à révoquer l’ajournement
+de la faillite et dit que la décision du 24 septembre 2019 était maintenue.
+c)
+Le
+3 janvier 2020, la société a déposé une « requête de mesures provisionnelles »,
+concluant à la révocation immédiate du curateur. Contestant, en substance, que les honoraires
+du curateur, de même que ceux de son conseil – dont elle avait résilié le mandat
+le jour même – et ceux de la fiduciaire soient des « charges courantes »,
+elle se plaignait de faire l’objet d’un « chantage déguisé se traduisant
+comme ceci : "si mes honoraires et ceux de mes confrères ne sont pas payés alors
+je mets la société en faillite" ». Elle a notamment produit un courriel du curateur
+du 27 décembre 2019 à son adresse, prenant note qu’elle ne pouvait pas payer ses honoraires
+avant la deuxième semaine de janvier, indiquant être dès lors dans l’impossibilité
+de remplir la mission qui lui avait été confiée par la justice, ce qu’il annoncerait
+à la Présidente le 3 janvier 2020 et aurait « pour conséquence la mise en faillite
+de la société », et concluant en ces termes, soulignés dans le courriel :
+«
+Je
+tenais à ce que vous soyez, une nouvelle fois, avisé des conséquences de l’absence
+de ce paiement.
+».
+Le 8 janvier 2020, le curateur a adressé à la Présidente une lettre lui faisant part des
+difficultés qu’il rencontrait avec la société, qui ne donnait pas suite à ses
+instructions et ne payait pas toutes les charges courantes. Restaient ainsi impayés le coupon de
+justice du tribunal d’arrondissement du 12 décembre 2019 de 250 fr., une facture SwissLife
+de 424 fr., une facture de la fiduciaire de 1'554 fr. 75, une provision due au conseil de la société
+de 2'692 fr. 50 et une provision due au curateur de 2'500 francs. En outre, il y avait « un
+flou au sujet du paiement des loyers du bureau » et la société n’avait rien
+entrepris auprès de la régie pour obtenir un décompte exact.
+La Présidente a tenu une nouvelle audience le 13 janvier 2020. A cette occasion, l’associé
+gérant de la société a produit la preuve du paiement du coupon de justice de 250 fr. et
+s’est engagé à payer le jour même la provision de 2'500 fr. demandée par le
+curateur et le lendemain, la facture SwissLife de 424 fr. ; en revanche, il a indiqué que,
+« faute d’argent disponible sur le compte », le montant de 1'554 fr. 75 ne
+pourrait être versé à la fiduciaire que le 24 janvier 2020. Le curateur a demandé
+à être relevé de sa mission au 1
+er
+février 2020. La représentante de l’office des poursuites s’est interrogée
+sur la viabilité de la société au vu des problèmes rencontrés par celle-ci et
+sur les possibilités d’aboutissement de la procédure d’assainissement.
+Le jour même, la société a versé au curateur la provision demandée de 2'500
+francs.
+Le lendemain, elle a informé le curateur que « 2, 3 voir[e] 4 employés »
+allaient être mis au chômage partiel dès ce jour afin de réduire ses charges salariales.
+Le curateur a transmis cette information à la Présidente.
+Le 22 janvier 2020, le curateur a informé la Présidente qu’il avait reçu le montant
+de 2'500 fr. à titre de provision et que le paiement en faveur de SwissLife avait été
+exécuté, mais qu’aucun autre ordre de paiement n’avait été préparé
+à ce jour, quand bien même le compte présentait un disponible de 52'019 fr. 63 (la Poste
+ayant versé le 16 janvier un montant de 49'127 fr. 95). Il lui a par ailleurs transmis le courriel
+d’un créancier de la société, U.________SA « qui a[vait] reçu des
+informations pour le moins étonnantes puisqu’une « assemblée des créanciers »
+sembl[ait] avoir été convoquée ce vendredi, sans que le curateur soit avisé ».
+Ce courriel faisait état de factures courantes impayées pour un montant de 13'423 fr. 15.
+2.
+Par jugement du 24 janvier 2020, notifié le 28 janvier 2020 à la société, la Présidente
+a révoqué l’ajournement de la faillite de W.________Sàrl (I), a prononcé le
+vendredi 24 janvier 2020 à 11 heures la faillite de W.________Sàrl (II), a relevé O.________
+de son mandat de curateur et a dit que son indemnité serait fixée dans une décision séparée
+(III) et a mis les frais de la décision, par 200 fr., à la charge de W.________Sàrl (IV).
+Statuant en premier lieu sur la requête de révocation immédiate du curateur, la Présidente
+a retenu que les griefs formulés par la requérante étaient dénués de fondement
+et que l’examen des échanges intervenus entre la requérante et le curateur révélait
+que c’était la première qui ne collaborait pas convenablement avec le second en omettant
+de lui fournir des informations essentielles à la bonne exécution de sa mission et en ne donnant
+pas suite à ses instructions. Le travail du curateur ne prêtant pas le flanc à la critique,
+elle a confirmé celui-ci dans sa mission. Examinant ensuite la situation financière de la requérante,
+la Présidente a considéré que, contrairement à ce que cette dernière avait assuré
+à l’audience du 2 décembre 2019, elle n’était pas en mesure d’honorer
+ses charges courantes, ainsi que cela ressortait de la lettre du curateur du 8 janvier 2020 ; le
+fait de devoir attendre la fin du mois de janvier pour régler le montant de 1'554 fr. 75 dû
+à la fiduciaire, soit une facture courante exigible au mois de septembre 2019, démontrait que
+la société était dépourvue de liquidités ; il était en outre ressorti
+des discussions à la dernière audience que la requérante ne s’était pas acquittée
+du paiement du loyer du bureau pour le mois de janvier 2020, ni des primes AVS exigibles le 10 janvier
+2020 ; les potentiels investisseurs évoqués par la requérante à l’audience
+du 2 décembre 2019 n’existaient pas, puisqu’il s’agissait en réalité
+uniquement de nouveaux clients ; la dette de la requérante de 158'858 fr. 53 n’avait
+pas été assainie d’un centime depuis le prononcé d’ajournement ; même
+si l’activité de la requérante générait un bénéfice de 4'500 fr.
+chaque mois, ce qui était peu et n’était au demeurant actuellement pas le cas, il lui
+faudrait trois ans pour assainir sa dette. En conclusion, l’assainissement de la requérante
+paraissait concrètement impossible à moyen terme, particulièrement en raison de l’importance
+des problèmes de liquidités auxquels elle devait faire face et qui ne lui permettaient pas
+de s’acquitter à temps des factures courantes, telles que des charges sociales ou des loyers.
+3.
+a)
+Par acte du 7 février 2020, sous la plume
+de son nouveau conseil, la faillie a recouru contre ce jugement, concluant, avec suite de frais et dépens,
+principalement à sa réforme en ce sens que la décision rendue le 24 septembre 2019, prononçant
+l’ajournement de la faillite, est maintenue, subsidiairement, à son annulation et au renvoi
+de la cause au premier juge pour complément d’examen et nouvelle décision dans le sens
+des considérants.
+Elle a produit des pièces nouvelles, soit une lettre de l’Office des faillites de l’arrondissement
+de La Broye et du Nord vaudois adressée le 29 janvier 2020 à la Banque Raiffeisen d’Yverdon-les-Bains,
+la priant de débiter la somme de 30'422 fr. 70 du compte de la société faillie présentant
+un disponible de 51'065 fr. 10 au 28 janvier 2020 et de procéder au virement des salaires du mois
+de janvier en faveur des onze employés de la société, avant de bloquer ledit compte (pièce
+10) ; des avis de crédit de la Poste pour les mois d’octobre, novembre et décembre
+2019, établis le dernier jour des mois concernés et portant respectivement sur les montants
+de 46'867 fr. 78, 45'403 fr. 46 et 49'127 fr. 95, payables à trente jours à la faillie, ainsi
+qu’une « convention de prestations » conclue avec une société « K.________ »,
+aux termes de laquelle, pour autant qu’on les comprenne, la faillie assurerait pour son « mandant »
+des livraisons à partir du 1
+er
+janvier 2020 en Suisse romande et dans la région de Berne pour un prix variant de 7'500 fr. à
+11'000 fr. par mois (pièce 11).
+b)
+Un extrait des poursuites au 10 février 2020 versé d’office au dossier montre que la
+recourante a fait l’objet de deux nouvelles poursuites, les 29 octobre et 20 novembre 2019, l’une
+exercée à l’instance d’une société [...] SA pour un montant de 4'956
+fr. 75 et l’autre à l’instance de la Confédération suisse, Division TVA, pour
+un montant de 15'040 fr. 95.
+Invitée à se déterminer sur cet extrait, la recourante a indiqué, par lettre du 13
+mars 2020, que les deux poursuites précitées se rapportaient « à des dettes
+nées avant le prononcé d’ajournement et qui ont été prises en compte dans le
+calcul du déficit de la Sàrl, en première instance » et a déclaré
+pouvoir assumer ses charges courantes et disposer de liquidités lui permettant d’assainir
+sa situation.
+c)
+Par décision du 11 février 2020, le Président de la cour de céans a admis la requête
+d’effet suspensif contenue dans le recours et a ordonné, à titre de mesures conservatoires,
+l’inventaire et l’audition de la faillie.
+Le 17 février 2020, le curateur a adressé à la cour de céans une copie d’un
+courriel qu’il avait adressé le même jour à la recourante, dès lors qu’il
+était maintenu dans sa mission, la priant notamment de lui faire parvenir d’ici au 20 février
+les preuves de paiement des charges courantes pour les mois de décembre 2019 et janvier 2020. Il
+indiquait par ailleurs avoir été alerté par deux créanciers de la société,
+D.________SA et U.________SA, au sujet de plusieurs factures, postérieures à l’octroi
+de l’ajournement et impayées, et attendait les déterminations de la recourante à
+ce sujet. Enfin, il lui demandait une provision de 1'500 fr., ses honoraires étant à découvert
+à hauteur de 258 fr. 20.
+Le 28 février 2020, le curateur a transmis à la cour de céans la réponse du conseil
+de la recourante du 21 février 2020 à son courriel précité, de la teneur suivante :
+«
+Pourriez-vous
+me faire parvenir le tableau des charges courantes, respectivement le budget mensuel de la Sàrl,
+afin qu’aucune charge ne soit oubliée et que les preuves de paiement vous soient transmises.
+Cela
+étant, dès lors que vous avez validé les ordres de paiement en décembre, pourriez-vous
+m’indiquer quels paiements doivent vous être établis ?
+S’agissant
+du fournisseur D.________SA, il reste une facture échue, que la Sàrl paiera la semaine prochaine.
+Quant à U.________SA, Monsieur M.________ est en discussion avec eux pour un paiement par acomptes.
+Enfin,
+mon client vous verse aujourd’hui le montant de votre découvert, par Frs 258.20, et vous versera
+la provision demandé à réception des prochaines recettes.
+»
+Par le même courrier, le curateur a transmis à la cour de céans sa réponse au conseil
+de la recourante du 24 février 2020, de la teneur suivante :
+«
+Comme
+je l’ai déjà longuement expliqué à votre cliente, les charges courantes consistent
+aux dettes contractées depuis l’octroi de l’ajournement de faillite. Celles antérieures
+à cette décision font l’objet d’un moratoire.
+Eu
+égard à ce qui précède, il appartient à votre cliente de lister chaque mois
+les charges d’exploitation récurrentes (telles que salaires, charges sociales, loyers, leasing,
+etc…) et, indépendamment de celles-ci, annoncer des charges qui ne seraient pas connues du
+curateur, pour ratification et paiement.
+Votre
+mandante voudra bien dès lors, d’ici à mercredi 26 février au plus tard, me faire
+parvenir les tableaux récapitulant la totalité des charges d’exploitation courantes pour
+les mois de décembre 2019 et janvier 2020, accompagnées des pièces justificatives.
+Vous
+voudrez bien également me faire savoir où en sont les démarches de W.________Sàrl
+en ce qui concerne l’établissement des décomptes TVA et leurs paiements. Il en est de
+même pour les décomptes qu’il convient d’établir au début de l’année
+pour les charges sociales.
+Je
+vous laisse par ailleurs le soin de me renseigner en ce qui concerne les accords que votre cliente est
+sur le point de conclure avec D.________SA et U.________SA.
+Pour
+le surplus, je vous informe que je ne suis plus en mesure de procéder à la libération
+des ordres de paiement, l’Office des faillites ayant pris la main sur le compte bancaire.
+(…)
+P.
+S. : Je joins en annexe le courrier de la régie [...] SA adressé à l’Office
+des faillites le 21 février faisant état de loyers impayés depuis l’octroi de l’ajournement
+de faillite.
+»
+Le 19 mars 2020, le curateur a transmis à la cour de céans :
+-
+un courriel adressé le 17 mars 2020 par le comptable de la recourante, A.________, à l’Office
+des faillites, demandant « que le séquestre du montant versé par la Poste de Daillens
+pour le paiement des prestations du mois de février soit effectué sans délai »,
+afin de garantir le paiement des salaires du mois de mars des employés de la recourante. Il indiquait
+que ses rapports de travail avec la recourante avaient cessé avec effet immédiat le jour même
+et qu’il allait, de même que plusieurs chauffeurs, déposer une plainte pénale et
+se constituer partie civile. Enfin, il confirmait « que l’AVS, la LPP et l’assurance
+maladie perte de gain, la SUVA qui ont été prélevées sur les salaires depuis septembre
+2018 n’ont pas été payées » ;
+-
+la réponse de l’Office des faillites du 19 mars 2020, disant ne pouvoir intervenir auprès
+de la Poste, vu l’effet suspensif accordé au recours contre le jugement de faillite, et l’invitant
+à s’adresser au curateur ;
+-
+un courriel du 19 mars 2020 d’A.________ au curateur, rédigé en ces termes :
+«
+Licencier
+(sic) avec effet immédiat, désapprouvant totalement la gestion des charges sociales impayées,
+non seulement le tribunal des prud’hommes est saisi mais une plainte pénale sera adressée
+au Ministère public pour les charges sociales prélevées et non payées.
+Je
+vous présente mes excuses d’avoir été contre vous, certains éléments m’ont
+été dissimulés aussi je n’ai pas été très malin et j’ai aussi
+été persuadé que je pouvais inverser la situation j’ai été trompé
+car rien n’a été fait et beaucoup de choses m’ont été cachées
+. ».
+Le 23 mars 2020, le curateur a adressé à la Présidente du tribunal d’arrondissement
+la lettre suivante, dont il a transmis une copie à la cour de céans :
+«
+Eu égard à l’effet suspensif rendu
+par le Président de la Cour des poursuites et faillites du Tribunal cantonal, je suis maintenu dans
+mon rôle de curateur et la procédure d’ajournement de faillite est pendante.
+Je
+continue dès lors ma mission de contrôle. A cet égard, j’ai obtenu des informations
+pour le moins troublantes. Vous trouverez en effet ci-joint le mail qui m’a été adressé
+samedi 21 mars par M. A.________, ancien collaborateur de M. M.________. Je joins également
+mon courrier de ce jour au conseil de W.________Sàrl, Me Weil, avocate à Lausanne.
+Cela
+étant, en temps normal, je solliciterai de votre part la fixation rapide d’une audience afin
+que nous puissions investiguer sur ces informations qui, si elles s’avèrent exactes, devraient
+à mon sens aboutir à la révocation immédiate de l’ajournement de faillite.
+Mais j’avoue que, compte tenu du recours déposé, de l’effet suspensif délivré
+et de la crise que nous traversons liée au Covid-19, je ne sais pas si vous pouvez convoquer une
+telle audience.
+Quoi
+qu’il en soit, je me décharge de toute responsabilité dans l’hypothèse où
+le dommage devrait continuer à s’aggraver pour les créanciers de la société,
+sachant au demeurant que j’ai déjà informé les autorités sur le fait que les
+charges courantes n’étaient pas payées.
+».
+Le courriel en question fait état d’informations fausses transmises tant à l’Office
+des faillites, en juillet 2019, qu’au curateur, en automne 2019, au sujet notamment de l’existence
+d’un safe, « qui n’est plus au bureau », du paiement de factures alors
+même qu’il y avait peu d’entrées d’argent, d’encaissements de clients
+dans une banque en Allemagne, et d’autres encaissements en espèces, en particulier d’une
+société [...] qui n’existerait d’ailleurs pas.
+Par lettre du 25 mars 2020, la recourante a contesté en substance avoir reçu des paiements
+de la main à la main pendant l’ajournement de faillite et indiqué que le compte en Allemagne
+était un compte privé de son associé gérant, sur lequel aucune facture de la société
+n’avait été payée.
+En droit
+:
+I.
+La voie du recours au sens des art. 319 ss CPC
+(Code de procédure civile ; RS 272) est ouverte contre la décision du juge de révoquer
+un ajournement de la faillite au sens de l’art. 725a al. 1 CO (art. 174 al. 1 LP [loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1]) par renvoi de l’art. 194 al. 1 LP ;
+Haas/Strub
+in
+Zürcher Kommentar, Art. 698-728 et 731b OR [CO], 3
+e
+éd. 2018, n. 23
+ad
+art. 725a OR).
+En l’espèce, le recours a été formé en temps utile (art. 174 al. 1 LP) et dans
+les formes requises (art. 321 al. 1 CPC). Il est recevable.
+II.
+a)
+Selon l’art. 192 LP, la faillite est
+prononcée d’office sans poursuite préalable dans les cas prévus par la loi.
+Aux termes de l’art. 820 al. 1 CO (Code des obligations ; RS 220), les dispositions du droit
+de la société anonyme concernant l’avis obligatoire en cas de perte de capital ou de
+surendettement de la société ainsi qu’en matière d’ouverture et d’ajournement
+de la faillite sont applicables par analogie à la société à responsabilité limitée.
+L’art. 820 al. 2 CO prévoit expressément que le juge peut ajourner la faillite à
+la requête des gérants ou d’un créancier, notamment si les versements supplémentaires
+encore dus sont opérés sans délai et si l’assainissement de la société
+paraît possible.
+L'art. 725a al. 1 CO, applicable à la société à responsabilité limitée
+en vertu de la disposition précitée, permet au juge qui reçoit l'avis obligatoire de l'art. 725
+al. 2 CO, en cas de surendettement, d'ajourner la faillite, à la requête du conseil d'administration
+ou d'un créancier, si l'assainissement de la société paraît possible. L'ajournement
+de la faillite au sens de l'art. 725a CO, respectivement 820 CO, a pour but de permettre la continuation
+de l'activité de la société. A la différence des cas d'ajournement prévus par
+le droit des poursuites (art. 173 et 173a LP), il ne s'agit pas d'une mesure relevant de l'exécution
+forcée, mais d'un simple moratoire, dont la finalité est de redresser la société
+en évitant toute procédure d'exécution forcée, y compris concordataire (TF 5A_902/2016
+du 21 mars 2017 consid. 5.3.2 ; Böckli, Schweizer Aktienrecht, 4
+e
+éd., 2009, pp. 1886-1887, n. 830 ; Haas/Strub,
+op. cit.
+,
+nn. 1, 2 et 17 ss
+ad
+art. 725a OR ; Gilliéron, Commentaire de la loi fédérale sur la poursuite pour dettes
+et la faillite, n. 15
+ad
+art. 192 aLP).
+Le requérant doit présenter au juge un plan d'assainissement exposant les mesures propres à
+redresser la société - telles qu'une postposition par les créanciers de la société,
+la conversion de créances en actions, des cautionnements ou garanties bancaires, etc. -, et indiquer
+le délai dans lequel le surendettement sera éliminé (ATF 130 V 196 consid. 5.4 et les
+réf. cit. ; TF 5A_902/2016
+loc.
+cit.
+; TF 4C.366/2000 du 19 juin 2001 consid.
+4b ; TF 5P.466/1999 du 11 avril 2000 consid. 3b ; CPF 30 avril 2018/89 ; CPF 25 janvier
+2012/85). Sur la base de ces éléments, le juge doit estimer les chances d'un assainissement
+réussi et durable. L'assainissement paraît possible quand les mesures proposées permettront,
+selon toute vraisemblance, d'éliminer le surendettement dans le délai prévu et de restaurer
+à moyen terme la capacité de gain, qui seule laisse entrevoir des perspectives d'avenir (ATF
+99 II 283 consid. II/3 ; TF 5A_902/2016
+loc.
+cit.
+et les références citées ;
+TF 5P.263/2003 du 25 août 2003 consid. 3.2 et les réf. cit. ; Haas/Strub,
+op. cit.
+,
+nn. 35, 39 à 42
+ad
+art. 725a OR ; Tercier/Stoffel, Le droit des sociétés 1999/2000, résumés de
+jurisprudence,
+in
+RSDA 2000 p. 299, r86-r88 ; CPF 30 avril 2018/89 ; CPF 25 janvier 2012/85).
+L'ajournement aux fins d'assainissement doit tendre à empêcher l'ouverture de la faillite dans
+l'intérêt de la société et avant tout des créanciers (CPF 30 avril 2018/89 ;
+CPF 25 janvier 2012/85 ; CPF 25 mai 2000/210 consid. 3.c). Il a pour but de permettre la continuation
+de l'activité de la société, mais non sa liquidation en dehors de la procédure de
+faillite, et cela même si une telle liquidation devait s'avérer plus favorable pour les créanciers
+(TF 5P.466/1999
+loc. cit.
+).
+Une prolongation de l'ajournement de faillite doit être concédée, même de façon
+réitérée, si elle est propice à l'assainissement, sans toutefois qu'il faille tarder
+à prononcer la faillite si celle-ci est inéluctable (Peter/Peyrot, L'ajournement de la faillite
+(art. 725a CO) dans la jurisprudence des tribunaux genevois,
+in
+SJ 2006 II 43 ss, spéc. pp. 62-63). Dans l'appréciation de la situation, le juge doit examiner
+si, entre la décision d'ajournement et le moment où il y a lieu de statuer sur la prolongation,
+en première ou en seconde instance, la situation de la société s'est améliorée,
+à l'aune de la vraisemblance (CPF 30 avril 2018/89 ; CPF 25 janvier 2012/85 ; CPF 25 mai
+2000/210 consid. 3.c). A défaut de s'être améliorée, il faut au moins que la situation
+ne se soit pas aggravée et que la perspective d'amélioration soit solide et prochaine pour
+qu'une prolongation de l'ajournement puisse être accordée (mêmes arrêts).
+Ce qui est nécessaire en tout cas, selon le Tribunal fédéral, c’est qu'une société
+aux bases financières saines ressorte, avec une haute probabilité, du processus d'assainissement
+(ATF 130 V 196 consid. 5.5 précité ; TF 5A_902/2016
+loc.
+cit.
+).
+Si l’assainissement est devenu impossible ou que ses chances de succès sont réellement
+compromises, le juge doit prononcer la faillite de la société. Le cas échéant, cette
+constatation peut être faite sans attendre la fin de la durée de l’ajournement. Dans
+ce cas, le juge met fin à celui-ci de façon anticipée (Peter/ Cavadini,
+in
+Tercier/Amstutz/Trigo Trindade (éd.), Commentaire romand, Code des obligations II, 2
+e
+éd., 2017, n. 62
+ad
+art. 725a CO).
+b)
+En l’espèce, les considérants ayant conduit le premier juge à révoquer l’ajournement
+de la faillite et à prononcer celle-ci sont convaincants. Ce magistrat a considéré que
+la requérante n’était pas en mesure d’honorer ses charges courantes, ainsi que
+cela ressortait de la lettre du curateur du 8 janvier 2020 et contrairement à ce qu’elle
+avait assuré à l’audience du 2 décembre 2019 ; le fait qu’elle doive
+attendre la fin du mois de janvier pour régler le montant de 1'554 fr. 75 dû à la fiduciaire,
+soit une facture courante qui était exigible au mois de septembre 2019 déjà, démontrait
+qu’elle était dépourvue de liquidités ; il était en outre ressorti des
+discussions à la dernière audience qu’elle ne s’était pas acquittée du
+paiement du loyer du bureau pour le mois de janvier 2020, ni des primes AVS exigibles le 10 janvier
+2020 ; les potentiels investisseurs qu’elle avait évoqués à l’audience
+du 2 décembre 2019 n’existaient pas, puisqu’il s’agissait en réalité
+uniquement de nouveaux clients ; sa dette de 158'858 fr. 53 n’avait été aucunement
+assainie depuis le prononcé d’ajournement et même dans l’hypothèse, actuellement
+non réalisée, d’un bénéfice mensuel régulier de 4'500 fr., il lui faudrait
+trois ans pour l’éponger. Le premier juge est ainsi parvenu à bon droit à la conclusion
+que l’assainissement de la requérante paraissait concrètement impossible à moyen
+terme, particulièrement en raison de l’importance des problèmes de liquidités auxquels
+elle devait faire face et qui ne lui permettaient pas de s’acquitter à temps des factures
+courantes, telles que des charges sociales ou des loyers.
+A cela, la recourante n’oppose en substance que deux arguments. Premièrement, c’est
+le curateur qui lui aurait suggéré, dans un courriel du 11 octobre 2019, de commencer ses paiements
+à fin novembre. La recourante fonde cet argument sur le passage suivant du courriel en question :
+« Enfin,
+je joins en annexe un bulletin de versement indiquant le compte sur lequel vous pourrez consigner à
+mon étude tous les mois la marge bénéficiaire devant vous permettre d’assainir votre
+situation. J’ai compris que vous aviez plusieurs dépenses extraordinaires pour octobre. Je
+vous suggère dès lors de commencer vos virements d’ici à la fin du mois de novembre.
+»
+Il
+est pourtant clair que cette suggestion concernait la marge bénéficiaire éventuelle à
+consigner en vue d’assainir la dette de la société, après paiement de toutes les
+charges, courantes et extraordinaires, et non pas le paiement de ces charges. L’argument est mal
+fondé et, au surplus, de mauvaise foi. Peu importe au demeurant, dès lors que la recourante
+a ensuite obtenu le maintien de l’ajournement de sa faillite, essentiellement sur la base du fait
+que les salaires de novembre, en tout cas, avaient été payés.
+Deuxièmement, la recourante affirme qu’elle serait à jour « pour le paiement
+de ses charges essentielles, en particulier les salaires » et disposerait de fonds disponibles
+auprès de la Raiffeisen. Cette affirmation, outre qu’elle est contredite notamment par le
+courriel du curateur du 17 février 2020, faisant état de plusieurs factures postérieures
+à l’octroi de l’ajournement de faillite et impayées, n’est corroborée
+par aucun élément concret. A cet égard, les pièces nouvelles produites à l’appui
+du recours - pour autant qu’elles soient recevables, question qui peut demeurer ouverte en l’occurrence
+- sont insuffisantes et n’établissent ni le sérieux des perspectives d’assainissement
+de la recourante, ni d’ailleurs sa solvabilité. La pièce 10 n’apporte aucun élément
+déterminant puisqu’elle établit seulement que la Poste, principale cliente de la recourante,
+a encore crédité le compte de celle-ci en janvier 2020, comme les mois précédents,
+et que la somme versée a au moins permis de régler les salaires du mois de janvier. Le paiement
+des autres charges n’est nullement établi, en particulier les charges sociales, la TVA et
+le loyer. Quant à la pièce 11, soit la « convention de prestations », elle
+est à peine compréhensible et l’on ignore tout de son exécution.
+Sans même tenir compte des derniers éléments dont le curateur a eu connaissance par l’ancien
+comptable de la société, qui sont certes préoccupants mais, pour l’heure, ne sont
+pas documentés, on constate que la recourante doit se livrer à un exercice d’équilibrisme
+financier à chaque fin de mois pour payer les charges et que même alors, elle ne parvient pas
+à les payer toutes. Cela conduit à considérer que ses perspectives d’assainissement
+ne sont pas concrètes. Elle ne fait valoir en outre aucune mesure propre à éliminer son
+surendettement, se contentant d’alléguer qu’elle est toujours « attelée
+à des démarches tendant à la réduction de ses charges et à la signature de nouveaux
+contrats ». On ne voit en tout cas pas concrètement qu'une société aux bases
+financières saines ressorte, avec une haute probabilité du processus d'assainissement.
+III.
+Vu ce qui précède, le recours doit être
+rejeté et le jugement confirmé, la faillite de W.________Sàrl prenant effet à la
+date du présent arrêt, vu l’effet suspensif accordé. Les frais judiciaires de deuxième
+instance, arrêtés à 300 fr., sont mis à la charge de la recourante (art. 106 al.
+1 CPC).
+Le curateur O.________ est relevé de sa mission. Il est invité à déposer sa note
+d’honoraires concernant la procédure de recours et son indemnité, à la charge de
+la recourante, sera fixée dans une décision séparée.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite de W.________Sàrl prenant effet le 6 avril 2020, à
+16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+Le curateur O.________, agent d’affaires breveté, est relevé de sa mission.
+V.
+La fixation de l’indemnité du curateur durant la procédure de recours fera l’objet
+d’une décision séparée.
+Le
+président :               La greffière
+:
+Du
+6 avril 2020
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Pierre Ventura, avocat (pourW.________Sàrl en liquidation).
+‑
+M. O.________, agent d’affaires breveté, curateur.
+-
+M. le Préposé à l'Office des poursuites du district du Jura-Nord vaudois,
+-
+Mme la Préposée à l'Office des faillites de l'arrondissement de La Broye et du Nord vaudois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de la Broye-Nord vaudois,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Broye et du Nord vaudois.
+La greffière :
