@@ -1,0 +1,193 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 14"
+decided: "2020-04-06"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7650150"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-171.md", "switzerland/bund/acts/281.1/art-172.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 14
+
+## Regeste
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 06.04.2020 Faillite / 2020 / 14
+
+OUVERTURE DE LA FAILLITE, PAIEMENT, INSOLVABILITÉ | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF19.052294-200178
+93
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+6 avril 2020
+___________________
+Composition
+:              M.
+Maillard
+,
+président
+M.
+Colombini et Mme Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 2 LP
+Vu le jugement rendu le 21 janvier 2020 par la Présidente du Tribunal d’arrondissement de
+Lausanne, à la suite de l’audience du 9 janvier 2020 tenue par défaut de la partie
+requérante, prononçant la faillite de
+V.________
+,
+à [...], le 21
+janvier
+2020 à 9 heures, à la requête de
+Z.________SA
+,
+à [...], et mettant les frais, par 200 fr., à la charge du failli,
+vu l’envoi de ce jugement aux parties le jour même et sa notification au failli le 28 janvier
+2020,
+vu le recours formé par V.________ par acte daté du 31 janvier et posté le 3 février
+2020, concluant ce que la cour de céans constate le paiement du solde de la dette à l’origine
+de la faillite avec ses accessoires légaux, ainsi que la solvabilité du recourant, et annule
+la faillite,
+vu la pièce produite à l’appui du recours, savoir la photocopie de deux récépissés
+postaux de versements effectués par V.________ sur le compte de l’Office des poursuites du
+district de l’Ouest lausannois, l’un de 700 fr., le 9 janvier 2020, et l’autre de 1’865
+fr. 70, le 3 février 2020, mentionnant le numéro de poursuite 9’268'355,
+vu l’extrait des registres de l’Office des poursuites du district de l’Ouest lausannois
+du 4 février 2020 concernant le recourant, versé d’office au dossier,
+vu la décision du 7 février 2020 rejetant la requête d’effet suspensif contenue
+dans le recours,
+vu le courrier recommandé du 12 février 2020 par lequel le président de la cour de céans
+a transmis à V.________ l’extrait des poursuites précité en l’invitant à
+se déterminer au sujet de cette pièce dans un délai de dix jours,
+vu l’absence de suite donnée à ce courrier par le recourant dans le délai imparti,
+vu les autres pièces du dossier ;
+attendu qu'en vertu de l'art. 174 al. 1 LP (loi sur la poursuite pour dettes et la faillite ; RS
+281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet d'un recours
+au sens du CPC (Code de procédure civile ; RS 272),
+qu'en l'espèce, le recours a été déposé en temps utile et dans les formes requises,
+par acte écrit et motivé (art. 321 al. 1 CPC), de sorte qu'il est recevable ;
+attendu qu’en vertu de l’art. 174 al. 1, 2
+e
+phrase, LP, les parties peuvent faire valoir des faits nouveaux lorsque ceux-ci se sont produits avant
+le jugement de faillite (pseudo-nova),
+qu’en outre, le failli peut faire valoir que les conditions d’annulation de la faillite prévues
+par l’art. 174 al. 2 LP sont réalisées (vrais nova) et produire à cet effet des
+pièces nouvelles,
+que la pièce produite à l’appui du recours est ainsi recevable ;
+attendu que selon l’art. 166 al. 1 LP, à l’expiration du délai de vingt jours dès
+la notification de la commination de faillite, le créancier peut requérir du juge la déclaration
+de faillite, en joignant à sa demande le commandement de payer et l’acte de commination,
+que le juge saisi d’une réquisition de faillite doit prononcer celle-ci, sauf dans les cas
+mentionnés aux art. 172 à 173a LP (art. 171 LP),
+qu'en l’espèce, le délai de l’art. 166 al. 1 LP a été respecté,
+que le recourant ne prétend pas que l’un des cas mentionnés aux art. 172 à
+173a LP était réalisé,
+qu’il se prévaut de ses versements de 700 fr. et 1’865 fr. 70 effectués l’un
+avant et l’autre après le jugement de faillite, mais, à raison, ne soutient pas avoir
+justifié par titre, devant le juge de la faillite, que la créance aurait été acquittée
+en capital, intérêts et frais, ou que le créancier lui aurait accordé un sursis (art.
+172 al. 2 ch. 3 LP),
+que c'est donc à juste titre que le premier juge a prononcé la faillite du recourant ;
+attendu qu'en vertu de l'art. 174 al. 2 LP, l'autorité de recours peut annuler le jugement de faillite
+lorsque le débiteur rend vraisemblable sa solvabilité et qu'il établit par titre que la
+dette à l'origine de la faillite, intérêts et frais compris, a été payée,
+ou que la totalité du montant à rembourser a été déposée auprès de
+l'autorité judiciaire supérieure à l'intention du créancier, ou encore que celui-ci
+a retiré sa réquisition de faillite,
+que ces deux conditions, remboursement – ou dépôt ou retrait – et solvabilité,
+sont cumulatives,
+qu'en l'espèce, le recourant a apporté, sinon la preuve stricte, par la production d’une
+quittance de l’office des poursuites, du règlement de la poursuite n° 9’268'355,
+du moins la preuve du paiement du montant de 1'856 fr. 65 pour lequel cette poursuite figure encore dans
+l’extrait des registres de l’office au 4 février 2020, ce qui peut s’expliquer
+par le fait que le paiement effectué la veille n’était pas encore parvenu à l’office,
+que, quoi qu’il en soit, on peut laisser ouverte la question de la réalisation de la première
+des conditions légales pour annuler la faillite, en l’espèce, dès lors que la seconde
+condition n’est pas réalisée,
+qu’en ce qui concerne la seconde condition, en effet, le débiteur, s'il ne doit pas prouver
+sa solvabilité de manière stricte, ne peut se contenter de simples allégations, mais doit
+fournir des indices concrets tels que récépissés de paiements, justificatifs des moyens
+financiers (avoirs en banque, crédit bancaire) à sa disposition, liste des débiteurs,
+extrait du registre des poursuites, comptes annuels récents, bilan intermédiaire, etc. (TF
+5A_181/2018 du 30 avril 2018 consid 3.1),
+que l’extrait du registre des poursuites concernant le failli est en règle générale
+décisif (TF 5A_181/2018 consid. 3.1 précité ; Cometta,
+in
+Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, n. 10
+ad
+art. 174 LP),
+qu’en l’espèce, selon l'extrait
+au 4 février 2020, le recourant fait l'objet de neuf poursuites pour une somme totale de 39'708
+fr. 40, y compris celle à l’origine de la faillite, dont une deuxième poursuite exercée
+à l’instance de la même créancière, d’un montant de près de 5'500
+fr., est au stade de la commination de faillite et une troisième, de plus de 2'200 fr., est restée
+libre d’opposition, les autres poursuites, portant sur des prestations sociales ou d’autres
+créances de droit public, étant au stade de la continuation requise ou libres d’opposition,
+que cela constitue un indice sérieux de l’incapacité du recourant à s’acquitter
+de ses engagements échus,
+qu’en outre, celui-ci n’a produit aucun document du type de ceux énumérés
+par la jurisprudence citée ci-dessus,
+que sa solvabilité n’est ainsi pas rendue vraisemblable ;
+attendu que le recours, manifestement infondé au sens de l'art. 322 al. 1 CPC, doit être
+rejeté et le jugement de faillite confirmé,
+que les frais judiciaires de deuxième instance, arrêtés à 300 fr., sont mis à
+la charge du recourant, qui succombe (art. 106 al. 1 CPC).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. V.________,
+‑
+Z.________SA,
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
