@@ -1,0 +1,153 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2020___7"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2020 / 7"
+decided: "2020-04-16"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20200402142916618_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2020 / 7
+
+## Regeste
+
+RÉCUSATION, PERSONNE PROCHE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour des assurances sociales 16.04.2020 Réc-civile / 2020 / 7
+
+RÉCUSATION, PERSONNE PROCHE | 47 al. 1 let. f CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+XZ20.011383
+10
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 16 avril 2020
+______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+47 al. 1 let. c et f CPC ; 8a al. 3 et 8b al. 4 CDPJ
+Vu la demande déposée le 14 mars 2020 par
+B.________
+contre
+Z.________
+et
+E.________
+devant
+le Tribunal [...], concernant un appartement sis à [...]
+vu le courrier du 18 mars 2020, par lequel la Première présidente du Tribunal [...] a demandé
+spontanément sa récusation, ainsi que celle de tous les présidents de l’office,
+vu les pièces du dossier ;
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+du 18 mars 2020 en vertu des art. 8a al. 3 CDPJ (Code de droit judiciaire privé vaudois du 12 janvier
+2010 ; BLV 211.02) et 6 al. 1 let. a ROTC (règlement organique du Tribunal cantonal du 13 novembre
+2007 ; BLV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable ;
+attendu que la garantie d'un juge indépendant et impartial telle qu'elle résulte des art. 30
+al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999 ;
+RS 101) et 6 par. 1 CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales
+du 4 novembre 1950 ; RS 0.101) – lesquels ont, de ce point de vue, la même portée
+– vise à éviter que des circonstances extérieures à la cause puissent influencer
+le jugement en faveur ou au détriment d'une partie (TF 4A_172/2019 du 4 juin 2019 consid. 4.1.2),
+qu’elle n'impose pas la récusation uniquement lorsqu'une prévention effective est établie,
+car une disposition interne de la part du juge ne peut pas être prouvée ; il suffit que
+les circonstances donnent l'apparence d'une prévention et fassent redouter une activité partiale
+du magistrat ; cependant, seules les circonstances objectivement constatées doivent être
+prises en considération, les impressions purement individuelles n'étant pas décisives
+(ATF 144 I 159 consid. 4.3 ; ATF 142 III 732 consid. 4.2.2 ; ATF 142 III 521 consid. 3.1.1 ;
+ATF 140 III 221 consid. 4.1 ; TF 4A_172/2019, déjà cité, consid. 4.1.2),
+qu’aux termes de l’art. 47 al. 1 let. c CPC, les magistrats et les fonctionnaires judiciaires
+se récusent lorsqu’ils sont conjoints, ex-conjoints, partenaires enregistrés ou ex-partenaires
+enregistrés d’une partie, de son représentant ou d’une personne qui a agi dans
+la même cause comme membre de l’autorité précédente ou mènent de fait
+une vie de couple avec l’une de ces personnes,
+que le juge est aussi récusable, selon l'art.
+47 al. 1 let. f CPC, s'il est « de toute autre manière », c'est-à-dire
+indépendamment des cas énumérés à l'art. 47 al. 1 let. a à e CPC,
+suspect de partialité (TF 4A_23/2019 du 27 mai 2019 consid. 5),
+que selon l’art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d’un motif de récusation possible et se récuse lorsqu’il considère
+que le motif est réalisé ;
+attendu qu’en l’espèce, la Première présidente du Tribunal [...] fait valoir
+que l’un des membres de l’office est en concubinage avec le demandeur B.________, si bien
+que le motif de récusation de l’art. 47 al. 1 let. c CPC est réalisé, pour ce magistrat
+en particulier,
+que ce juge entretient des relations professionnelles avec les autres magistrats professionnels de l’office,
+qu’il pourrait ainsi résulter de ces relations une apparence de prévention, du moins
+aux yeux des défendeurs et des tiers,
+qu'afin de garantir l'impartialité du tribunal appelé à statuer sur la demande formée
+par B.________, la demande de récusation présentée spontanément par la Première
+présidente du Tribunal [...] doit être admise,
+que, dans un tel cas, la cause doit être déléguée à une autre juridiction ayant
+les mêmes compétences (art. 8b al. 4 CDPJ),
+qu’il convient dès lors de désigner le Premier président du Tribunal d'arrondissement
+de [...] et deux assesseurs du Tribunal [...] rattachés à cet arrondissement en qualité
+de Tribunal [...]
+ad hoc
+,
+qu’il est précisé que, dans l'exercice de sa fonction, la Première présidente
+du Tribunal [...] ne siège pas aux côtés des assesseurs du Tribunal [...] rattachés
+à l’arrondissement de [...] ;
+attendu que le présent arrêt doit être rendu sans frais judiciaires, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation spontanée déposée le 18 mars 2020 par la Première présidente
+du Tribunal [...] est admise.
+II.
+La cause est transmise, dans l’état où elle se trouve, au Premier président du Tribunal
+d'arrondissement de [...], désigné en qualité de président du Tribunal [...]
+ad
+hoc
+, lequel siégera, le cas échéant,
+aux côtés de deux assesseurs du Tribunal [...] rattachés à l’arrondissement
+de [...].
+III.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. B.________,
+-
+M. Z.________ et E.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Première présidente du Tribunal [...],
+-
+M. le Premier président du Tribunal d’arrondissement de [...], avec le dossier.
+La greffière :
