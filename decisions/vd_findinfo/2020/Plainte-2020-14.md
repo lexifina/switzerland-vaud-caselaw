@@ -1,0 +1,258 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___14"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 14"
+decided: "2020-04-23"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7686875"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-117.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 14
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE, DÉFENSE D'OFFICE, COMPLEXITÉ DE LA PROCÉDURE | 29 al. 3 Cst.
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 23.04.2020 Plainte / 2020 / 14
+
+ASSISTANCE JUDICIAIRE, DÉFENSE D'OFFICE, COMPLEXITÉ DE LA PROCÉDURE | 29 al. 3 Cst.
+
+TRIBUNAL
+CANTONAL
+FA19.057092-200213
+10
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+23 avril 2020
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+M.
+Hack et Mme Cherpillod, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+29 al. 3 Cst ; 117 ss CPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+Q.________
+Q.________
+,
+à La Tour-de-Peilz, contre la décision de refus d’assistance judiciaire rendue le 27
+janvier 2020, par la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, dans la cause opposant la recourante à
+l’OFFICE
+DES POURSUITES DU DISTRICT DE LA RIVIERA – PAYS-D’ENHAUT
+.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le 13 décembre 2019, à la réquisition de [...], l’Office des poursuites du district
+de la Riviera – Pays-d’Enhaut a notifié à Q.________, dans la poursuite ordinaire
+n° 9'415'403, un commandement de payer portant sur les montants de 1) 86'509 fr. 75, avec intérêt
+à 5 % dès le 11 décembre 2019, 2) 78 fr., 3) 10'379 fr. 84 et 4) 895 fr. sans intérêt.
+Les causes de l’obligation figurant sur cet acte sont, respectivement, les suivantes :
+« 1)
+arcade [...], Genève
+loyer 01.03.2018 - 01.05.2019 à CHF 5 585.00
+règlement facture Vitrerie d’Onex 06.06.2018 CHF 2 734.75
+2)               Frais de rappel
+3)               Intérêt 10.12.2019
+4)               Frais de traitement. »
+L’intéressée a formé opposition totale.
+b)
+Il ressort des pièces produites en première instance que la poursuivie était locataire,
+conjointement avec [...], de locaux sis [...] à Genève, destinés à l’exploitation
+d’une pharmacie, selon un contrat de bail signé le 31 octobre 2006. Ce contrat prévoyait
+à son chiffre 6 la constitution par les locataires d’une garantie locative de 15'700 francs.
+Cette garantie a été constituée le 14 décembre 2006 auprès de la Banque [...].
+Le 19 décembre 2019, le compte de garantie de loyer présentait un solde de 16'412 fr. 40.
+2.
+Le 20 décembre 2019, la poursuivie, agissant
+par son conseil l’avocat Jérôme Bénédict, a déposé une plainte LP
+auprès du Président du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, concluant à la nullité, respectivement à l’annulation
+de la poursuite n° 9'415'403. Elle faisait valoir que les créances déduites en poursuite
+étaient fondées sur un contrat de bail et qu’elles concernaient le loyer ainsi que, selon
+toute vraisemblance, des dégâts qui seraient survenus dans les locaux loués. Dans la mesure
+où une garantie locative avait été constituée, elle faisait valoir que ces sûretés,
+fournies en vertu de l’article 257e CO, garantissaient, faute de stipulation contraire, l’ensemble
+des obligations du locataire, et qu’elles avaient fait naître un droit de gage en faveur du
+bailleur. Invoquant l’ATF 129 III 360 consid. 2, elle demandait l’annulation de la poursuite,
+dès lors qu’elle se prévalait du
+beneficium
+excussionis realis
+de l’article 41 alinéa
+1bis LP.
+Le même jour, la poursuivie a demandé d’être mise au bénéfice de l’assistance
+judiciaire avec effet au 13 décembre 2019 dans le cadre de la procédure de plainte LP. Elle
+a déposé le formulaire idoine accompagné de ses annexes, en déclarant un revenu de
+2'305 fr. (constitué de contributions d’entretien et d’allocations familiales), une
+fortune immobilière de 473'000 fr. et une dette hypothécaire de 510'000 francs. L’intéressée
+vit avec ses trois enfants, dont l’un est majeur. Elle a indiqué n’avoir pas d’activité
+professionnelle.
+Le 31 décembre 2019, l’Office des poursuites du district de la Riviera – Pays-d’Enhaut
+s’en est remis à justice sur le bien-fondé de la plainte.
+3.
+Par décision du 27 janvier 2020, notifiée
+au conseil de la plaignante le 29 janvier 2020, la Présidente a rejeté la requête d’assistance
+judiciaire. A l’appui de cette décision, elle a considéré que la procédure
+de plainte était gratuite, que cette procédure était soumise à l’instruction
+d’office et que la cause ne présentait pas de difficulté particulière en fait et
+en droit. Dès lors, la désignation d’un conseil d’office ne se justifiait pas.
+4.
+Par acte déposé le 10 février 2020,
+Q.________ a recouru contre cette décision, concluant avec suite de frais principalement à
+sa réforme en ce sens que le bénéfice de l’assistance judiciaire, soit l’assistance
+d’un avocat en la personne de Me Jérôme Bénédict, avocat à Lausanne, lui
+est accordé avec effet au 13 décembre 2019. A titre subsidiaire, elle a conclu à l’annulation
+de la décision entreprise et au renvoi de la cause au premier juge pour qu’il procède
+dans le sens des considérants.
+La recourante a demandé l’assistance judiciaire également pour la procédure de recours,
+avec effet au 29 janvier 2020.
+Elle a requis d’être dispensée de toute contribution aux frais du procès, dans la
+mesure où elle s’acquittait de deux remboursements mensuels de 50 fr. en faveur de l’Etat
+de Vaud (pour les dossiers [...] et [...]).
+Outre les informations figurant dans le formulaire idoine déposé devant le premier juge, la
+recourante a indiqué être née en Pologne, avoir quitté ce pays pour la Suisse en
+1998, à l’âge de 30 ans, et n’avoir entrepris aucune formation ni exercé aucune
+activité lucrative en Suisse, s’étant exclusivement occupée de l’éducation
+de ses trois enfants.
+En droit :
+I.
+Déposé en temps utile, dans les dix jours suivant la notification de la décision attaquée
+(art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1] et
+28 al. 1 LVLP [loi vaudoise d’application de la LP ; BLV 280.05]), et suffisamment motivé
+(TF 5A_118/2018 du 7 février 2018 consid. 4.1), le recours est recevable.
+II.
+a)
+L'assistance judiciaire en procédure de plainte LP n'est pas soumise à l'art. 117 CPC –
+ce code régissant cependant par analogie les questions de procédure en matière d'assistance
+judiciaire –, mais à l'art. 29 al. 3 Cst. (Constitution fédérale ; RS 101). En vertu
+de cette dernière disposition, toute personne qui ne dispose pas de ressources suffisantes a droit,
+à moins que sa cause paraisse dépourvue de toute chance de succès, à l'assistance
+judiciaire gratuite. Elle a en outre droit à l'assistance gratuite d'un défenseur, dans la
+mesure où la sauvegarde de ses droits le requiert.
+b)
+La procédure de plainte étant gratuite (art. 20a al. 2 ch. 5 LP), seule la question de l'assistance
+d'un avocat doit être examinée en l'espèce.
+Le
+droit à l'assistance judiciaire n'est pas exclu par principe dans la procédure de plainte des
+art. 17 ss LP, mais, dans la mesure où cette procédure est régie par la maxime inquisitoire
+(art. 20a al. 2 LP ; TF 5A_336/2011 du 8 août 2011 consid. 2.5.2),
+l'assistance d'un avocat n'est en général
+pas nécessaire ; toutefois, une telle assistance peut se révéler indispensable en
+raison de la complexité de l'affaire ou des questions à résoudre, des connaissances juridiques
+insuffisantes du requérant ou de l'importance des intérêts en jeu (ATF 122 III 392, JdT
+1998 II 185 et réf. cit.; TF 5A_660/2013 du 19 mars 2014 consid. 4.2 ; TF 5A_136/2011 du 8 août
+2011, consid. 2.5.2, Revue suisse de procédure civile [RSPC] 2012, p. 17 ; TF 5A_236/2010 du 21
+juillet 2010 consid. 6.1).
+c)
+En
+l’espèce,
+si
+l’on peut admettre que les faits de la cause ne posent pas de grandes difficultés, il en va
+autrement s’agissant du droit. La question qui se pose en l’occurrence est celle de savoir
+si le dépôt de la plainte nécessitait l’assistance d’un avocat. Or, sans se
+prononcer sur le bien-fondé de la plainte, il est évident que la recourante n’aurait
+jamais, sans l’assistance d’un avocat, pu penser à faire valoir l’article 41 alinéa
+1bis LP. En effet, il fallait savoir si l’on pouvait considérer la garantie locative comme
+l’objet d’un gage mobilier, et penser à faire valoir l’exception propre à
+la LP de l’article 41 alinéa 1bis LP. Il fallait également savoir que c’était
+par la voie de la plainte LP que l’on devait faire valoir ce moyen. Tout cela est clairement hors
+de portée pour le plaideur habituel, et en particulier de la recourante, qui n’a pas de formation
+juridique.
+Cela suffit à considérer que la cause justifiait la désignation d’un défenseur
+d’office. S’agissant de la condition alternative relative à l’importance des intérêts
+en jeu, on relèvera que ceux-ci ne sont pas négligeables, au vu des montants en poursuite.
+Les autres conditions de l’octroi de l’assistance judiciaires sont également clairement
+établies : la cause au fond n’apparaît pas dénuée de toute chance de succès
+et l’insuffisance de moyens de la recourante n’est pas contestable.
+III.
+a)
+Au vu de ce qui précède, le recours doit être admis et la décision réformée
+en ce sens que le bénéfice de l’assistance judiciaire est accordé à la recourante,
+Me Jérôme Bénédict étant désigné en qualité de son conseil d’office.
+La recourante remplit également les conditions permettant l’octroi de l’assistance judiciaire
+en deuxième instance. Là encore, il fallait connaître les principes exposés plus
+haut pour recourir (consid. II/c).
+Pour les deux instances, la recourante a demandé de ne pas devoir payer de franchise. Au vu de ses
+revenus, et du fait qu’elle paie déjà deux franchises mensuelles, la recourante en sera
+dispensée (cf. JdT 2011 III 92 ; CREC 10 février 2014/52 consid. 3c).
+b)
+Il convient de fixer l’indemnité de Me Bénédict pour la procédure de recours.
+Le conseil juridique commis d’office a droit au remboursement de ses débours et à un
+défraiement équitable (art. 122 al. 1 let. a CPC), qui est fixé en considération
+de l’importance de la cause, de ses difficultés, de l’ampleur du travail et du temps
+consacré par le conseil juridique (art. 2 al. 1 RAJ [règlement sur l’assistance judiciaire
+en matière civile du 7 décembre 2010 ; BLV 211.02.03]).
+Vu la nature du litige et les difficultés de la cause, il y a lieu d'admettre la durée de travail
+alléguée et d’arrêter le montant des honoraires à 727 fr. 40, auquel s’ajoute
+des débours forfaitaires de 2 % (art. 3bis RAJ) par 14 fr. 55 et la TVA sur le tout par 57 fr. 13,
+soit 799 fr. 08 au total.
+La
+bénéficiaire de l'assistance judiciaire est, dans la mesure de l'art. 123 CPC, tenue au
+remboursement de l'indemnité au conseil d'office laissée provisoirement à la charge de
+l'Etat.
+c)
+Le présent arrêt est rendu sans frais judiciaires ni dépens (art. 20a al. 2 ch. 5 LP ;
+art. 61 al. 2 let. a et 62 al. 2 OELP [ordonnance du 23 septembre 1996 sur les émoluments perçus
+en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est admis.
+II.
+La décision est réformée en ce sens que le bénéfice de l’assistance judiciaire
+est accordé à Q.________ dans la mesure suivante :
+-
+assistance d’un avocat en la personne de
+Me Jérôme Bénédict, avocat à Lausanne, avec effet au 13 décembre 2019.
+III.
+La requête d’assistance judiciaire de la recourante en deuxième instance est admise,
+l’assistance d’un avocat en la personne de Me Jérôme Bénédict étant
+accordée avec effet au 29 janvier 2020.
+IV.
+L’indemnité de Me Jérôme Bénédict, conseil d’office de la recourante,
+est arrêtée à 799 fr. (sept cent nonante-neuf francs) pour la procédure de recours.
+V.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Jérôme Bénédict, avocat (pour Q.________)
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière:
