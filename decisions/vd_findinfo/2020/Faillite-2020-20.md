@@ -1,0 +1,200 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 20"
+decided: "2020-04-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7690737"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-056.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-056.md", "switzerland/bund/acts/281.1/art-062.md", "switzerland/bund/acts/281.1/art-063.md", "switzerland/bund/acts/281.1/art-166.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 20
+
+## Regeste
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, OUVERTURE DE LA FAILLITE, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 27.04.2020 Faillite / 2020 / 20
+
+ACTE DE RECOURS, CONDITION DE RECEVABILITÉ, MOTIVATION DE LA DEMANDE, OUVERTURE DE LA FAILLITE, PAIEMENT | 174 al. 1 LP, 174 al. 2 LP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FF19.038184-200433
+118
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+27 avril 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 al. 1 et 2 LP ; 321 al. 1 CPC
+Vu le jugement rendu le 7 octobre 2019 par la Présidente du Tribunal d’arrondissement de La
+Côte, statuant par défaut des parties et prononçant la faillite d’
+E.________
+,
+à [...], à la réquisition d’
+Y.________SA
+,
+à [...] (I), et mettant les frais, par 200 fr., à la charge du failli (II),
+vu le jugement rendu le 12 mars 2020 par le même magistrat, à la suite de l’audience
+du 25 novembre 2019 et des reprises d’audience des 16 décembre 2019, 27 janvier et 24 février
+2020, admettant la requête en restitution de délai déposée le 15 octobre 2019 par
+E.________ (I), révoquant l’effet suspensif accordé le 16 octobre 2019 (II), confirmant
+les chiffres I et II du jugement rendu le 7 octobre 2019 et disant que la faillite d’E.________
+prenait effet le 12 mars 2020 à 11 heures (III) et mettant les frais, par 400 fr., à la charge
+du failli (IV),
+vu le recours formé contre ce jugement par E.________, par acte du 16
+mars
+2020 adressé au Tribunal d’arrondissement de La Côte, requérant, à titre de
+mesures d’instruction, la possibilité de déposer un mémoire complémentaire
+et des pièces et concluant à l’admission du recours, à l’annulation de la
+décision attaquée, à ce que le recourant ait « la possibilité de déposer
+un mémoire et les pièces justificatives à sa demande de sursis » et à
+ce qu’il puisse « régulariser sa situation envers son créancier sous trente
+jours »,
+vu la transmission du dossier par le Tribunal d’arrondissement de La Côte à la cour de
+céans, autorité de recours, par courrier du 17 mars 2020,
+vu la lettre adressée le 27 mars 2020 au recourant par le Président de la cour de céans,
+l’informant que le mémoire de recours motivé et les éventuelles pièces nouvelles
+devaient être déposés dans le délai de recours, la loi ne prévoyant pas un deuxième
+échange d’écritures,
+vu la lettre adressée le 31 mars 2020 à la cour de céans par le recourant, demandant des
+explications sur la lettre précitée,
+vu les autres pièces du dossier ;
+attendu qu'aux termes de l'art. 174 al. 1 LP (loi fédérale sur la poursuite pour dettes et
+la faillite; RS 281.1), la décision du juge de la faillite peut, dans les dix jours, faire l'objet
+d'un recours au sens du CPC (Code de procédure civile; RS 272),
+que le recours doit en principe être introduit auprès de l’instance de recours (art.
+321 al. 1 CPC),
+que le délai de recours est toutefois réputé observé si l’acte est adressé
+à temps à l'autorité qui a rendu la décision attaquée (ATF 140 III 636 consid.
+3.6),
+qu’en l’espèce, le jugement de faillite attaqué a été notifié au
+recourant le 13 mars 2020,
+que l’échéance du délai de recours de dix jours tombait le 23 mars 2020, soit durant
+la suspension des poursuites ordonnée par le Conseil fédéral en application de l’art.
+62 LP, laquelle a duré jusqu’au 4 avril 2020 et a été suivie des féries de
+Pâques (art. 56 ch. 2 LP), du 5 au 19 avril 2020,
+qu’en application de l’art. 63 LP, l’échéance du délai de recours a
+ainsi été reportée au 22 avril 2020,
+que l’acte de recours adressé le 16 mars 2020 par E.________ au Tribunal d’arrondissement
+de La Côte a été déposé en temps utile ;
+attendu que la partie qui entend user d'une voie de droit a la charge de se conformer à certaines
+règles de forme, à défaut de quoi sa démarche sera frappée d'irrecevabilité
+(Jeandin,
+in
+Bohnet
+et al.
+(éd.), Commentaire romand, Code de procédure civile, 2
+e
+éd., n. 1
+ad
+art. 321 CPC),
+que, pour
+être
+recevable, le recours doit être motivé (art. 321 al. 1
+in
+initio
+CPC),
+que si la motivation fait défaut, l’instance de recours n’entre pas en matière,
+que selon la jurisprudence du Tribunal fédéral, la motivation du recours doit à tout le
+moins satisfaire aux exigences qui sont posées pour un acte d’appel (TF 5A_488/2015 du 21
+août 2015 consid. 3.2.1 et 3.2.2, publié
+in
+RSPC 6/2015 pp. 512 s., et les arrêts cités),
+que cela signifie que le recourant doit démontrer le caractère erroné de la motivation
+de la décision attaquée et que son argumentation doit être suffisamment explicite pour
+que l’instance de recours puisse la comprendre, ce qui suppose une désignation précise
+des passages de la décision qu’il attaque et des pièces du dossier sur lesquelles il
+fonde sa critique (ibid.),
+qu’en matière de faillite, les motifs peuvent aussi tendre à démontrer que les conditions
+d’une annulation de la faillite sont réunies (art. 174 al. 2 LP),
+que la motivation d’un acte de recours doit être entièrement contenue dans le mémoire
+de recours ou, si elle n’est pas immédiate, doit en tout cas être produite dans le délai
+de recours (TF 5A_488/2015 précité consid. 3.2.1 et 3.2.2),
+que la loi ne permet pas d’octroyer au recourant un délai pour compléter son mémoire,
+ni l’art. 132 al. 1 et 2, ni l’art. 56 CPC n’étant applicables en cas d’absence
+de motivation d’un acte de recours (ibid.),
+qu'en l'espèce, l’acte de recours du 16 mars 2020 ne contient aucun grief contre le jugement
+de faillite, ni aucun motif d’annulation de la faillite,
+que le recourant n’a pas complété son acte dans le délai de recours, alors qu’il
+a été informé par la lettre du Président de la cour de céans du 27 mars 2020,
+de manière compréhensible même pour un non-juriste, du fait qu’il devait procéder
+dans le délai de recours,
+que le recours est dès lors irrecevable, faute de motivation ;
+attendu qu’au demeurant, même s’il était recevable, le recours devrait être
+considéré comme manifestement infondé et, par conséquent, rejeté,
+qu'il apparaît en effet que le premier juge a prononcé la faillite du recourant à bon
+droit, les pièces produites à l’appui de la requête de faillite étant conformes
+aux réquisits légaux, le délai de l’art. 166 al. 1 LP ayant été respecté
+et le recourant ne prétendant pas que l’un des cas mentionnés aux art. 172 à 173a
+LP était réalisé,
+que l’autorité de recours peut annuler le jugement de faillite lorsque le débiteur rend
+vraisemblable sa solvabilité et prouve par titre le paiement de la dette à l’origine
+de la faillite, intérêts et frais compris, ou le dépôt de la totalité du montant
+à rembourser auprès de l’autorité judiciaire supérieure à l’intention
+du créancier, ou encore le retrait par ce dernier de la réquisition de faillite,
+qu’en l’espèce, E.________ - qui a pourtant déjà obtenu non seulement une
+restitution de délai à la suite du premier jugement de faillite rendu le 7 octobre 2019,
+mais encore l’octroi de trois délais successifs d’un mois pour s’acquitter de
+la poursuite en cause - n’allègue, ni ne prouve avoir payé sa dette, mais demande encore
+un délai supplémentaire de trente jours pour régulariser sa situation,
+que la faillite ne saurait être annulée dans ces conditions ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. E.________,
+‑
+Y.________SA,
+-
+M. le Préposé à l'Office des poursuites du district de Morges,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
