@@ -1,0 +1,311 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 19"
+decided: "2020-05-07"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7707281"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-609.md", "switzerland/bund/acts/272/art-052.md", "switzerland/bund/acts/272/art-067.md", "switzerland/bund/acts/272/art-068.md", "switzerland/bund/acts/272/art-137.md", "switzerland/bund/acts/281.1/art-010.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-132.md", "switzerland/bund/acts/281.41/art-009.md", "switzerland/bund/acts/281.41/art-010.md", "switzerland/bund/acts/281.41/art-012.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 19
+
+## Regeste
+
+RÉALISATION{LP}, CITATION À COMPARAÎTRE, AVOCAT, PRINCIPE DE LA BONNE FOI, PART DE COMMUNAUTÉ | 132 LP, 17 LP, 10 OPC
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 07.05.2020 Plainte / 2020 / 19
+
+RÉALISATION{LP}, CITATION À COMPARAÎTRE, AVOCAT, PRINCIPE DE LA BONNE FOI, PART DE COMMUNAUTÉ | 132 LP, 17 LP, 10 OPC
+
+TRIBUNAL
+CANTONAL
+FA19.055318-200180
+12
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+7 mai 2020
+__________________
+Composition
+:               M.
+Maillard
+,
+président
+M.
+Hack et Mme Rouleau, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+17 et 132 LP ; 10 OPC
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+V.________
+,
+à Bruson, contre la décision rendue le 22 janvier 2020, à la suite de l’audience
+du 14 janvier 2020, par la Présidente du Tribunal d’arrondissement de La Broye et du Nord
+vaudois, autorité inférieure de surveillance, dans la cause opposant la recourante à l’
+OFFICE
+DES POURSUITES DU DISTRICT DE LA BROYE-VULLY
+,
+à Payerne, et à
+C.________
+,
+à Combrement-le-Petit, notamment.
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+[...], décédée le 23 janvier 2018, a laissé comme seuls héritiers institués
+ses filles C.________ et V.________. L’époux de la défunte, [...], dispose d’un
+usufruit portant sur l’ensemble des actifs de la succession. Celle-ci comprend à titre d’actifs
+la part de copropriété par étages d’une demie de l’immeuble [...], ainsi que
+les droits revenant à [...] dans la société simple qu’elle constituait avec [...]
+et dont l’actif se compose de l’immeuble [...].
+C.________ fait l’objet de plusieurs poursuites. V.________ est l’un de ses créanciers.
+Dans le cadre de ces poursuites, l’Office des poursuites du district de La Broye-Vully (ci-après :
+l’office) a saisi les droits dont C.________ est titulaire dans la succession non partagée
+de sa mère [...]. Plusieurs des créanciers de C.________ ont requis la réalisation de
+sa part de communauté.
+b)
+Le 5 décembre 2019, après avoir mené en vain des pourparlers en vue d’une conciliation,
+l’office a saisi la Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois
+d’une requête tendant à la fixation du mode de réalisation des droits dont C.________
+est titulaire dans la succession susmentionnée.
+Une audience a été tenue le 14 janvier 2020 en présence du préposé de l’office,
+de C.________ assistée de son conseil, d’un représentant de l’Administration cantonale
+des impôts, d’un représentant de l’Office d’impôt des districts du Jura-Nord
+vaudois et de la Broye-Vully et d’V.________. Aucune solution amiable n’a pu être trouvée
+lors de cette audience.
+2.
+Par prononcé du 22
+janvier 2020, notifié le lendemain à V.________, la Présidente du Tribunal d’arrondissement
+de la Broye et du Nord vaudois a ordonné la dissolution et la liquidation de la communauté
+héréditaire (I) et chargé l’office de prendre toutes mesures utiles pour procéder
+au partage de cette communauté (II). Le premier juge a considéré, en substance, qu’une
+liquidation de la communauté héréditaire, préférée par toutes les parties
+présentes à l’exception d’V.________, permettrait aux créanciers d’obtenir
+de meilleurs résultats qu’une vente aux enchères de la part de communauté.
+3.
+Par acte du 3 février
+2020, accompagné d’un onglet de pièces sous bordereau, V.________ a recouru contre cette
+décision en concluant :
+-
+principalement à
+ce qu’il soit prononcé qu’elle est nulle, respectivement annulée,
+le dossier étant renvoyé à la Présidente du Tribunal d’arrondissement pour
+qu’elle               « convoque
+une nouvelle audience, après avoir notifié la convocation à cette
+audience au conseil de la recourante notamment », et
+-
+subsidiairement à
+sa réforme en ce sens que sont également ordonnée la dissolution et la liquidation de
+la « communauté en mains communes formée  par C.________, V.________ et [...],
+notamment en ce qui concerne l’immeuble sis sur la commune de [...] et les comptes dont [...] et
+[...] étaient propriétaires en commun », l’office des poursuites étant
+« chargé de prendre toutes mesures utiles pour intervenir dans la procédure de partage
+introduite par la recourante (…) devant le Tribunal valaisan à l’encontre de C.________
+et de [...], et procéder au partage de la communauté formée par V.________, C.________
+et [...] ».
+Le 27 février 2020, l’office a déposé des déterminations, déclarant « s’en
+remettre à la décision de l’Autorité supérieure de surveillance ».
+Le 28 février 2020, C.________ a conclu au rejet du recours.
+En droit :
+I.
+Le recours de l’art.
+18 LP (loi fédérale sur la poursuite pour dettes et la faillite ; RS 281.1) est ouvert
+contre une décision de l’autorité inférieure de surveillance fixant le mode de réalisation
+; il est régi par les articles 28 ss LVLP (loi d’application dans le canton de Vaud de la
+LP ; BLV 280.05), à l'instar de la procédure prévue en matière de plainte (CPF 20
+février 2019/3 ; CPF 17 janvier 2017/5 ; CPF 11 février 1998/9).
+Formé dans les dix jours suivant la notification de la décision attaquée (art. 18 al.
+1 LP et 28 al. 1 LVLP) par acte comportant l’énoncé des moyens invoqués (TF 5A_118/2018
+du 7 février 2018 consid. 4.1), le recours a été déposé en temps utile et dans
+les formes requises. Il est ainsi recevable.
+Les déterminations déposées par l’office et par C.________ (art. 31 al. 1 LVLP)
+sont également recevables.
+II.
+a)
+La recourante reproche au premier juge de ne pas avoir cité son conseil à comparaître
+à l’audience du 14 janvier 2020 et indique n’avoir « pas pensé à
+réagir lorsqu’elle s’est retrouvée à l’audience, étant surprise
+de l’absence de son conseil », invoquant ainsi une violation de son droit d’être
+entendu. S’agissant d’une cause de nullité dont l'admission, le cas échéant,
+rend superflu l'examen des moyens de réforme soulevés par la recourante, il y a lieu d'examiner
+ce grief en premier lieu.
+b)
+L'art. 136 let. a, b et c CPC prévoit que le tribunal notifie aux personnes concernées les
+citations, les ordonnances et les décisions ainsi que les actes de la partie adverse. Aux termes
+de l'art. 137 CPC cependant, lorsque la partie est représentée, les actes sont notifiés
+à son représentant.
+Est un représentant au sens de l’art. 137 CPC aussi bien le représen-tant conventionnel
+(art. 68 CPC), que le représentant légal (art. 67 al. 2 CPC) ou celui désigné par
+le tribunal (art. 69 al. 1, 118 al. 1 let. c et 299 CPC) (ATF 143 III 28 consid. 2.2.2 ; cf. TF 5A_268/2012
+du 12 juillet 2012 consid. 3.3, Revue suisse de procédure civile [RSPC] 2013 p. 18). Lorsqu’un
+représentant a été valablement désigné pour la procédure, une notification
+directe à la partie est exclue et n’est pas valable. Il faut encore que la représentation
+existe au moment de la notification et ait été communiquée au tribunal (ATF 143 III 28
+consid. 2.2.1). Il n’est toutefois pas nécessaire que le représentant se soit légitimé
+à l’aide d’une procuration (art. 68 al. 3 CPC ; Bohnet,
+in
+Commentaire romand, Procédure civile, 2e éd., n. 5 ad art. 137 CPC). Si la notification est
+faite au représenté, celui-ci peut partir de l’idée que son représentant a
+également reçu l’acte et il ne lui revient pas de le lui transmettre. Lorsque l’acte
+en question est une citation, l’audience ne pourra dès lors être valablement tenue en
+l’absence du représentant, en vertu du droit d’être entendu  (Bohnet, op.
+cit., n. 8 ad art. 137 CPC ; Staehlin, in Kommentar zur Schweizerischen Zivilprozessordnung, n. 4 ad
+art. 137 CPC ; Gschwend, Basler Kommentar ZPO,
+3e
+éd., n. 5 ad art. 137 CPC ; dans le même sens Weber, in Oberhammer (éd), Kurzkommentar
+ZPO, n. 3 ad art. 137 CPC). Le droit d'être entendu est une garantie constitutionnelle de caractère
+formel, dont la violation doit entraîner l'annulation de la décision, indépendamment des
+chances de succès du recours sur le fond (ATF 135 I 187 consid. 2.2 ; TF 5A_741/2016 du 6 décembre
+2016 consid. 3.1.2 ; TF 4A_453/ 2016 du 16 février 2017 consid. 4.2.2, RSPC 2017 p. 313).
+Le principe de la bonne foi intervient toutefois dans l’appréciation du cas (Donzallaz, La
+notification en droit interne suisse, n. 789, p. 405 et la réf. citée). Selon l’art.
+52 CPC, quiconque participe à la procédure doit se conformer aux règles de la bonne foi.
+Ce principe s’adresse à tous les participants au procès, parties et juge. Il leur impose
+d’agir de bonne foi et, partant, de ne pas commettre d’abus de droit (TF 4A_590/2016 du 26
+janvier 2017 consid. 2.1, publié in RSPC 2017 p. 204, avec notes de Constantina et Droese ;
+TF 4A_267/2014 du 8 octobre 2014 consid. 4.1, publié in RSPC 2015 p. 112).
+c)
+En l’espèce, il ressort des pièces figurant au dossier que la recou-rante était
+assistée d’une avocate au stade des échanges des parties avec l’office, de sorte
+que la Présidente pouvait soupçonner l’existence d’un mandat au moment où
+elle a été saisie. Force est toutefois de constater que la représentation n’a pas
+été communiquée au tribunal et, surtout, que la recourante n’a pas réagi à
+l’absence de son conseil lors de l’audience, dont elle n’a, en particulier, pas demandé
+le renvoi. Cela étant, vu son absence de réaction lors de l’audience, la recourante ne
+peut invoquer de bonne foi une violation de son droit d’être entendu. Le moyen tiré de
+l’absence de convocation de son conseil à l’audience est dès lors mal fondé.
+II.
+a)
+Aux termes de l'art. 9 al. 1 OPC (Ordonnance du Tribunal fédéral concernant la saisie et la
+réalisation de parts de communauté du 17 janvier 1923 ; RS 281.41), lorsque la réalisation
+de parts de la communauté est requise, l'office des poursuites essaie tout d'abord d'amener entre
+les créanciers saisissants, le débiteur et les autres membres de la communauté une entente
+amiable à l'effet soit de désintéresser les créanciers, soit de dissoudre la communauté
+et de déterminer la part du produit de la liquidation qui revient au débiteur. Si l'entente
+amiable recherchée a échoué, l'office des poursuites ou l'autorité qui a conclu les
+pourparlers invite les créanciers saisissants, le débiteur et les membres de la communauté
+à lui soumettre, dans les dix jours, leurs propositions en vue des mesures ultérieures de réalisation
+(art. 10 al. 1 1ère phrase OPC). Après l'expiration du délai, le dossier complet de la
+poursuite est transmis à l'autorité de surveillance ; celle-ci peut entamer à nouveau
+des pourparlers de conciliation (art. 10 al. 1 in fine OPC).
+Lorsqu'il s'agit de réaliser une part de communauté, il appartient à l'autorité de
+surveillance de fixer le mode de réalisation (art. 132 al. 1 LP). Après avoir consulté
+les intéressés, l'autorité peut ordonner la vente aux enchères, confier la réalisation
+à un gérant ou prendre toute autre mesure (art. 132 al. 3 LP). L'OPC prévoit toutefois
+des mesures plus précises qui restreignent le pouvoir attribué à l'autorité de surveillance
+par l'art. 132 al. 3 LP (ATF 96 III 10 consid. 2). Ainsi, en vertu de l'art. 10 al. 2 OPC, l'autorité
+de surveillance doit décider, en tenant compte autant que possible des propositions des intéressés,
+si la part de communauté saisie doit être vendue aux enchères comme telle ou s'il y a
+lieu de procéder à la dissolution de la communauté et à la liquidation du patrimoine
+commun conformé-ment aux dispositions qui régissent la communauté dont il s'agit (art.
+10 al. 2 OPC). Dans la règle, la vente aux enchères ne doit être ordonnée que si
+la valeur de la part saisie peut être déterminée approximativement au moyen des renseignements
+obtenus lors de la saisie ou au cours des pourparlers amiables (art. 10 al. 3 OPC). Le choix entre les
+deux modes de réalisation relève de l'opportunité (ATF 96 III 10 consid. 2 précité).
+Il n'appartient toutefois pas à l'autorité de surveillance de se prononcer sur le montant de
+la part de communauté dans le cadre du partage de la succession, mais uniquement déterminer
+le mode de réalisation selon l'art. 132 LP (ATF 130 III 652 consid. 2.2.2 ; ATF 113 III 40 consid.
+3b ; TF 5A_478/2012 du 14 août 2012 consid. 3.4). Lorsqu'elle choisit la dissolution et la liquidation
+de la communauté selon l'art. 10 al. 2 LP, l'autorité de surveillance ne peut qu'ordonner
+celles-ci. Il appartient alors à l'office des poursuites, conformément à l'art. 12 OPC,
+de requérir le partage avec le concours de l'autorité compétente au sens de l'art. 609
+CC (ATF 129 III 316 consid. 3; ATF 110 III 46 p. 48 ; ATF 71 III 99 consid. 2), laquelle désignera
+en principe un représentant qui sera chargé de déposer l'action en partage à la place
+de l'héritier débiteur.
+b)
+La recourante reproche au premier juge de n’avoir pas tenu compte des droits revenant à la
+défunte, respectivement à ses deux filles, dans la société simple qu’elle formait
+avec [...] sur l’immeuble de [...] et sur les comptes bancaires notamment, et soutient qu’il
+importe de dissoudre non seulement la communauté héréditaire formée par V.________
+et C.________, mais également la communauté formée par les prénommées et [...].
+Ce moyen est mal fondé. En effet, la saisie opérée par l’office porte uniquement
+sur les droits dont C.________ est titulaire dans la succession non partagée de sa mère [...],
+donc uniquement sur la part de communauté héréditaire de C.________. Ce n’est que
+dans le cadre du partage successoral que le sort des biens en copropriété ou propriété
+en main commune devra être réglé. Ce n’est pas parce que la part de communauté
+saisie comprend des droits dans d’autres communautés qu’il appartiendrait à l’autorité
+de surveillance d’ordonner les dissolutions et liquidations en cascade, ce qui empièterait
+sur les prérogatives du juge saisi du partage.
+c)
+La recourante fait également valoir qu’en chargeant l’office « de prendre
+toutes mesures utiles pour procéder au partage », le premier juge n’aurait pas tenu
+compte du fait qu’elle avait déjà ouvert action en partage devant le tribunal valaisan
+compétent. Ce faisant, la recourante se méprend sur le sens de la décision. En effet,
+l’office n’a pas été chargé de procéder lui-même au partage –
+cela ne relève pas de sa compétence – mais de prendre les mesures utiles en vue du partage,
+l’office n’étant habilité qu’à requérir le partage du juge compétent
+ou, si c’est déjà fait par une autre partie, qu’à intervenir dans cette procédure
+au nom du poursuivi.
+III.
+Vu ce qui précède,
+le recours doit être rejeté et le prononcé attaqué confirmé.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. 2 ch. 5 LP, 61 al.
+2 let. a et 62 al. 2 OELP [ordonnance sur les émoluments perçus en applica-tion de la LP ;
+RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+L’arrêt, rendu sans frais judiciaires ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Malek Buffat Reymond, avocate (pour V.________),
+‑
+Me Jana Burysek, avocate (pour C.________),
+-
+M. le Préposé à l’Office des poursuites du district de La Broye-Vully .
+-
+M. [...],
+-
+[...],
+-
+[...],
+-
+[...],
+-
+[...],
+-
+[...],
+-
+[...],
+-
+[...],
+-
+[...].
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de la Broye et du Nord vaudois, autorité
+inférieure de surveillance.
+La greffière :
