@@ -1,0 +1,129 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 20"
+decided: "2020-05-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7711642"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-019a.md", "switzerland/bund/acts/210/art-398.md", "switzerland/bund/acts/272/art-059.md", "switzerland/bund/acts/272/art-060.md", "switzerland/bund/acts/272/art-067.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-013.md", "switzerland/bund/acts/281.1/art-073.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 20
+
+## Regeste
+
+EXERCICE DES DROITS CIVILS, CAPACITÉ D'ESTER EN JUSTICE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 398 CC, 59 al. 2 let. c CPC (CH), 60 CPC (CH), 67 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.05.2020 Plainte / 2020 / 20
+
+EXERCICE DES DROITS CIVILS, CAPACITÉ D'ESTER EN JUSTICE, CONDITION DE RECEVABILITÉ, DÉCISION D'IRRECEVABILITÉ | 398 CC, 59 al. 2 let. c CPC (CH), 60 CPC (CH), 67 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+MA20.010163-200364
+16
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 mai 2020
+_________________
+Composition
+:              M.
+Maillard
+,
+président
+Mmes
+Byrde et Rouleau, juges
+Greffier
+:
+M.              Elsig
+*****
+Art.
+398 CC ; 59 al. 2 let. c, 60, 67 CPC
+Vu la dénonciation déposée le 2 mars 2020 par
+T.________
+,
+à [...], auprès de la Cour administrative du Tribunal cantonal contre l’
+Office
+des poursuites du district de l'Ouest lausannois
+,
+à Renens, concluant à ce que celui-ci lui transmette, en application de l’art. 8a LP
+(loi du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 282.1), une copie des actes
+de défaut de biens relatifs à la créance que celui-ci lui réclame, ainsi que les
+moyens de preuve en application de l’art. 73 LP,
+vu la transmission de cet acte à la Cour des poursuites et faillites du Tribunal cantonal, comme
+autorité de surveillance des offices des poursuites du canton de Vaud conformément à l’art.
+13 al. 1 LP,
+vu le courrier du Service des curatelles et tutelles professionnelles, Domaine de la protection de l’adulte
+Région Centre et Ouest du 20 mars 2020, confirmant, à la demande de la cour de céans et
+sous la signature de sa cheffe de groupe et de la curatrice G.________, qu’il ne ratifiait pas
+le courrier du 2 mars 2020 susmentionné,
+vu les autres pièces du dossier ;
+attendu que, selon l’art. 398 al. 3 CC (Code civil du 10 décembre 1907 ; RS 210), la
+personne concernée pour laquelle une curatelle de portée générale a été
+instituée est privée de plein droit de l’exercice des droits civils,
+que la privation de l’exercice des droit civils a pour conséquence que la personne concernée
+ne peut agir en justice, sauf s’il dispose du discernement et qu’il exerce des droits strictement
+personnels dits ʺabsolusʺ (art. 67 CPC [Code de procédure civile du 19 décembre 2008 ;
+RS 272] ; Meier, Droit de la protection de l’adulte (art. 360-456 CC, Zurich 2016, n
+os
+708, 710 et 902 ss, pp. 360 et 435 ss, pour l’exécution forcée régie par la LP :
+Gilliéron, Poursuite pour dettes, faillite et concordat, 5
+e
+éd., n° 344, p. 86),
+que la personne privée de l’exercice des droits civils agit en justice par l’intermédiaire
+de son représentant légal (art. 67 al. 2 CPC par analogie ; Gilliéron, loc. cit.),
+que les actes d’une personne privée de l’exercice des droits civils mais capable de
+discernement peuvent être ratifiés par son représentant légal (art. 19a al. 1 CC),
+qu’à l’instar du juge, l’autorité supérieure de surveillance doit examiner
+d’office si la partie peut agir en justice (capacité d’ester) (art. 60 CPC par analogie)
+et ne pas entrer en matière si cette condition n’est pas réalisée (art. 59 al. 2
+let. c CPC par analogie),
+qu’en l’espèce, il ressort du Registre des mesures de protection que T.________ est
+soumis à une curatelle de portée générale depuis le 21 mai 2015 et qu’il
+a pour curatrice G.________ du Service des curatelles et tutelles professionnelles,
+qu’il ne peut donc agir en justice que par l’intermédiaire de sa curatrice ou si celle-ci
+ratifie ses actes de procédure, les conclusions de son écriture du 2 mars 2020 n’entrant
+pas dans ses droits strictement personnels ʺabsolusʺ,
+que, par courrier du 20 mars 2020, le Service des curatelles et tutelles professionnelles de la Région
+Centre et Ouest, sous la signature de la cheffe du groupe et de la curatrice, a confirmé qu’il
+ne ratifiait pas l’acte du 2 mars 2020,
+que l’écriture du 2 mars 2020 de T.________ est en conséquence irrecevable ;
+attendu que le présent arrêt peut être rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+L’acte du 2 mars 2020 est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. T.________,
+‑
+Mme G.________, Service des curatelles et tutelles professionnelle, Domaine de protection de l’adulte
+Région Centre et Ouest,
+‑
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Le greffier :
