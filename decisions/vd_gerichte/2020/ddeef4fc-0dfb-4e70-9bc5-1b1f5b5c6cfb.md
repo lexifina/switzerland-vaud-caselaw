@@ -1,0 +1,295 @@
+---
+decision_id: "vd_gerichte_ddeef4fc-0dfb-4e70-9bc5-1b1f5b5c6cfb"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CACI"
+docket: "ddeef4fc-0dfb-4e70-9bc5-1b1f5b5c6cfb"
+decided: "2020-05-20"
+published: "2025-09-26"
+language: "fr"
+legal_area: "Divorce sur demande unilatérale"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/ddeef4fc-0dfb-4e70-9bc5-1b1f5b5c6cfb"
+cites_decisions: ["5A_131/2016", "5A_274/2016", "5A_375/2008", "5A_403/2015", "5A_514/2012", "5A_558/2013", "5A_661/2015", "5A_978/2016", "BGE 129 III 250", "BGE 136 III 353", "BGE 137 III 475", "BGE 138 III 378", "BGE 138 III 565", "BGE 141 III 312", "BGE 141 III 328", "BGE 142 III 481", "BGE 144 III 469"]
+cites_law: ["switzerland/bund/acts/101/art-011.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-301a.md", "switzerland/bund/acts/272/art-104.md", "switzerland/bund/acts/272/art-315.md", "switzerland/bund/acts/272/art-325.md"]
+---
+
+# Divorce sur demande unilatérale
+
+## Text
+
+TRIBUNAL CANTONAL
+TD15.037306-200671
+CO UR D’APPEL CIVI L E
+____________________________
+Ordonnance du 20 mai 2020
+________________________________
+Composition : M. STOUDMANN, juge délégué
+Greffier : M. Clerc
+*****
+Art. 301a al. 2 CC ; 315 al. 4 let. b et al. 5 CPC
+Statuant sur la requête présentée par A.W.________, à Féchy,
+tendant à l’octroi de l’effet suspensif à l’appel qu’il a interjeté contre
+l’ordonnance de mesures provisionnelles rendue le 14 mai 2020 par le
+Président du Tribunal civil de l’arrondissement de l’Est vaudois dans la
+cause le divisant d’avec B.W.________, à Nyon, le Juge délégué de la Cour
+d’appel civile du Tribunal cantonal considère :
+1117
+
+- 2 -
+En fait et e n droi t :
+1. A.W.________, né le [...] 1971, et B.W.________, née [...] le [...]
+1977, tous deux ressortissants suisses, se sont mariés le [...] 2004 devant
+l’Officier de l’état civil de [...].
+Trois enfants sont issus de cette union :
+- P.________, née le [...] 2005,
+- G.________, née le [...] 2007, et
+- M.________, né le [...] 2011.
+2. Rencontrant d’importantes difficultés conjugales, les parties
+vivent séparément depuis le 31 juillet 2013 ; leur séparation a été réglée
+par plusieurs décisions de mesures provisionnelles.
+Le 26 juillet 2013, A.W.________ a ouvert action en divorce par
+le dépôt d’une demande unilatérale devant le Tribunal civil de
+l’arrondissement de La Côte.
+Par ordonnance de mesures provisionnelles du 7 juillet 2014,
+la garde sur les enfants du couple a été attribuée à B.W.________, laquelle
+a été autorisée à s’installer en Australie avec eux. En octobre 2014, celle-
+ci a déménagé en Australie en compagnie des trois enfants.
+Le 15 mars 2018, B.W.________ est revenue s’installer en
+Suisse avec les enfants du couple afin de soutenir et d’accompagner sa
+mère mourante.
+3. Par requête de mesures provisionnelles du 20 décembre 2019,
+B.W.________ a conclu notamment à être autorisée à modifier le lieu de
+résidence des enfants du couple de Suisse en Australie et à y déménager
+le 31 janvier 2020, les modalités du droit de visite de A.W.________ sur ses
+enfants restant à préciser.
+
+- 3 -
+A une audience du 6 janvier 2020, A.W.________ a conclu en
+particulier, par voie de mesures provisionnelles, à ce que le lieu de
+résidence des enfants du couple reste fixé au domicile de leur mère à
+Nyon et, si celle-ci décidait de retourner vivre en Australie, que le lieu de
+résidence des enfants soit fixé au domicile du père, qui en aurait la garde
+de fait. Il a conclu en outre à bénéficier d’un droit de visite sur ses enfants
+G.________ et M.________ à raison d’un mercredi par mois, d’un week-end
+sur deux du vendredi après l’école au lundi à la reprise de l’école et durant
+la moitié des vacances scolaires, l’exercice du droit de visite sur l’enfant
+P.________ devant être suspendu et réévalué en fonction de l’évolution de
+la thérapie familiale systémique entreprise.
+4. Par ordonnance de mesures provisionnelles du 14 mai 2020, le
+Président du Tribunal civil de l’arrondissement de l’Est vaudois (ci-après :
+le président ou le premier juge) a notamment confirmé l’attribution de la
+garde de fait et du droit de déterminer le lieu de séjour des enfants à leur
+mère (III), a autorisé celle-ci a déplacer le lieu de résidence des enfants
+auprès d’elle dans la région de Sydney, en Australie, dès notification de
+ladite ordonnance (IV), a fixé les modalités du droit de visite de
+A.W.________ sur ses enfants, soit, à défaut d’entente, la moitié des
+vacances scolaires et une fois par semaine par vidéoconférence (V), a
+exhorté B.W.________ à favoriser les relations personnelles entre les
+enfants et leur père (VI), a ordonné la mise en œuvre d’une thérapie
+coparentale auprès d’un cabinet spécialisé à Sydney (VII) et la mise en
+œuvre d’une thérapie familiale systémique auprès d’un cabinet spécialisé
+à Sydney (VIII).
+Le premier juge a retenu en substance que B.W.________ s’était
+toujours occupée des enfants du couple, que ses capacités éducatives
+n’avaient pas été contestées mais avaient été confirmées par expertise,
+qu’elle était davantage disponible pour eux que leur père et qu’elle avait
+d’ores et déjà pris les mesures nécessaires à leur retour en Australie. Le
+président a relevé que les enfants avaient répété vouloir retourner en
+Australie et avoir du mal à s’intégrer en Suisse, où ils ont déclaré être
+
+- 4 -
+malheureux, ce qui avait été également constaté par les experts
+mandatés dans le cadre de la procédure.
+5. Par acte du 15 mai 2020, A.W.________ (ci-après : le requérant)
+a interjeté appel contre le prononcé susmentionné en concluant, avec
+suite de frais et dépens, en particulier à sa réforme en ce sens que le lieu
+de résidence des enfants reste fixé au domicile de leur mère à Nyon, et, si
+celle-ci décidait de retourner vivre en Australie, que le lieu de résidence
+des enfants soit fixé au domicile du père, qui en aurait la garde de fait. Il a
+en outre sollicité l’octroi de l’effet suspensif à son appel.
+Par déterminations du 18 mai 2020, B.W.________ (ci-après :
+l’intimée) a conclu au rejet de la requête d’effet suspensif.
+Par courrier du 19 mai 2020, le requérant a confirmé sa
+requête d’effet suspensif.
+Le 20 mai 2020, l’intimée a déposé des déterminations ainsi
+que des pièces complémentaires.
+6. Selon l’art. 315 al. 4 CPC (Code de procédure civile du 19
+décembre 2008 ; RS 272), l’appel n’a pas d’effet suspensif lorsqu’il a pour
+objet des décisions portant sur le droit de réponse ou des mesures
+provisionnelles.
+L’exécution des mesures provisionnelles peut
+exceptionnellement être suspendue si la partie concernée risque de subir
+un préjudice difficilement réparable (art. 315 al. 5 CPC).
+Le préjudice difficilement réparable peut être de nature
+factuelle ; il concerne tout préjudice, patrimonial ou immatériel, et peut
+même résulter du seul écoulement du temps pendant le procès. Le
+dommage est constitué, pour celui qui requiert les mesures
+provisionnelles, par le fait que, sans celles-ci, il serait lésé dans sa position
+juridique de fond et, pour celui qui recourt contre le prononcé de telles
+
+- 5 -
+mesures, par les conséquences matérielles qu'elles engendrent (ATF 138
+III 378 consid. 6.3 ; TF 5A_978/2016 du 16 février 2017 consid. 4). Saisie
+d'une demande d'effet suspensif au sens de l'art. 315 al. 5 CPC, l'autorité
+cantonale d'appel doit ainsi procéder à une nouvelle pesée des intérêts
+entre les deux préjudices difficilement réparables, celui du demandeur à
+l'action si la mesure n'était pas exécutée immédiatement et celui
+qu'entraînerait pour le défendeur l'exécution de cette mesure (ATF 138 III
+378 consid. 6.3 ; TF 5A_514/2012 du 4 septembre 2012 consid. 3.2). Elle
+doit faire preuve de retenue et ne modifier la décision de première
+instance que dans des cas exceptionnels ; elle dispose cependant d'un
+large pouvoir d'appréciation permettant de tenir compte des circonstances
+concrètes du cas d'espèce (ATF 137 III 475 consid. 4.1, rés. in JdT 2012 II
+519 ; ATF 138 III 565 consid. 4.3.1, JdT 2015 II 408 ; TF 5A_558/2013 du 11
+septembre 2013 consid. 4.2.1 ; TF 5A_403/2015 du 28 août 2015 consid.
+5, RSPC 2015 p. 510 ; TF 5A_661/2015 du 2 décembre 2015 consid. 5.1 ;
+TF 5A_131/2016 du 25 avril 2016 consid. 3.1).
+Conformément à l’art. 325 al. 2 CPC, l’instance de recours «
+ordonne au besoin des mesures conservatoires ». Bien que, s’agissant de
+l’appel, une indication similaire fait défaut à l’art. 315 CPC, l’instance
+d’appel peut néanmoins ordonner de telles mesures (Stucki/Pahud, Le
+régime des décisions superprovisionnelles et provisionnelles du Code de
+procédure civile, SJ 2015 II 1, pp. 29 ss et les réf. cit.).
+7.
+7.1 Le requérant fait valoir que le déménagement immédiat des
+enfants en Australie entraînerait la cessation abrupte de tout contact avec
+ses enfants, qui risquerait de s’éterniser compte tenu de la situation
+actuelle de pandémie, et le priverait de toute possibilité de contester
+l’ordonnance entreprise. Il relève en outre que l’urgence du
+déménagement ne serait pas avérée.
+7.2
+7.2.1 L'art. 301a al. 1 CC prévoit que l'autorité parentale inclut le
+droit de déterminer le lieu de résidence de l'enfant. Il en résulte qu'un
+
+- 6 -
+parent exerçant conjointement l'autorité parentale ne peut modifier le lieu
+de résidence de l'enfant qu'avec l'accord de l'autre parent ou sur décision
+du juge ou de l'autorité de protection de l'enfant lorsque le nouveau lieu
+de résidence se trouve à l'étranger ou quand le déménagement a des
+conséquences importantes pour l'exercice de l'autorité parentale par
+l'autre parent et pour les relations personnelles (art. 301a al. 2 let. a et b
+CC).
+La décision du juge ou de l'autorité de protection de l'enfant
+sera prise dans l'intérêt de l'enfant, lequel est protégé par la Constitution
+(art. 11 Cst.) et constitue la ligne directrice pour l'ensemble des affaires se
+rapportant aux enfants (TF 5A_274/2016 du 26 août 2016 consid. 6 ; ATF
+142 III 481 consid. 2.6, JdT 2016 II 427 ; ATF 141 III 328 consid. 5.4 ; ATF
+141 III 312 consid. 4.2.4 ; ATF 129 III 250 consid. 3.4.2).
+Selon la jurisprudence relative au déménagement de l’une des
+parties, les intérêts des parents devraient passer à l’arrière-plan s’agissant
+de la nouvelle organisation des relations parents-enfants ; il faut accorder
+un poids particulier aux relations existant entre parents et enfants, à la
+capacité éducative des parents et à leur disposition à prendre les enfants
+sous leur garde, à s’occuper et à prendre soin personnellement d’eux ; il
+convient aussi de tenir compte de leur développement harmonieux, tant
+physique que moral et intellectuel, ce qui a un certain poids à compétence
+égale des parents en matière d’éducation et de prise en charge
+(TF 5A_375/2008 du 11 août 2008 consid. 2d ; ATF 142 III 481 consid. 2.7,
+JdT 2016 II 427). Comme il s’agit en règle générale d’adapter la
+réglementation existante à la nouvelle situation, le mode de prise en
+charge prévu jusqu’alors va être en fait le point de départ des réflexions.
+Si le parent désireux de déménager était jusqu’alors, en réalité, celui avec
+qui était établie la relation exclusive ou principale, on considérera que
+c’est généralement pour le meilleur bien des enfants que ceux-ci restent
+avec ce parent et déménagent avec lui. Dans cette hypothèse, la
+nécessaire attribution de la garde à l’autre parent pour que l’enfant reste
+en Suisse – attribution qui présuppose naturellement que ce parent soit
+capable et disposé à prendre les enfants chez lui et à assurer une garde
+
+- 7 -
+adéquate – implique en tous les cas un examen minutieux afin de
+déterminer si cela correspond vraiment au bien de l’enfant (ATF 142 III
+481 consid. 2.7, JdT 2016 II 427).
+Dans le cadre d’un changement du lieu de résidence, il faut
+également examiner tous les aspects de la situation concrète. Ainsi, par
+exemple, le problème n’est pas le même si les enfants sont encore petits
+et par conséquent plus sensibles aux personnes et à l’environnement, le
+respect du principe de continuité dans les soins et l’éducation n’incitant
+pas à procéder à la légère à une attribution au parent qui reste sur place.
+Si au contraire les enfants sont plus grands, on accorde plus
+d’importance à l’environnement domiciliaire et scolaire ainsi qu’au cercle
+d’amis constitué, de même qu’on prendra en compte leurs souhaits et
+avis, pour autant que cela soit conciliable avec la réalité et les possibilités
+concrètes d’accueil et de prise en charge. En résumé, il s’avère que, pour
+juger du bien de l’enfant, les circonstances concrètes du cas d’espèce sont
+toujours déterminantes ; en règle générale, on doit autoriser le parent qui
+le désire, qui a exercé principalement la garde jusqu’alors et qui
+continuera de le faire, à déplacer le lieu de résidence de l’enfant à
+l’étranger et c’est de cette idée que part la doctrine unanime (ATF 142 III
+481 consid. 2.7, JdT 2016 II 427 et les références citées).
+On notera encore que c’est seulement s’il n’y a apparemment
+aucun motif plausible du départ et si le parent ne part, à l’évidence, que
+pour éloigner l’enfant de l’autre parent, que sa capacité de tolérer
+l’attachement de l’enfant à l’autre parent et, par conséquent sa capacité
+éducative, seront mises en doute avec pour conséquence que la
+modification du lieu de résidence de l’enfant doit faire l’objet d’une
+réflexion claire (ATF 142 III 481 consid. 2.7, JdT 2016 II 427; ATF 136 III
+353 consid. 3.3).
+7.2.2 Confronté à une requête d’effet suspensif dans une affaire
+impliquant une modification du lieu de résidence de l’enfant, le Tribunal
+fédéral a estimé qu’en cas de départ à l’étranger du parent qui a la garde
+de l’enfant, le statu quo doit en règle générale être maintenu afin d’éviter
+
+- 8 -
+de préjuger la cause, sauf si l’urgence commande le déménagement (ATF
+144 III 469 consid. 4.2.2).
+7.3 En l’espèce, si l’intimée déménage en Australie avec les
+enfants du couple mais que le Juge délégué de céans réforme la décision
+du premier juge quant à l’autorisation de partir à l’étranger, les enfants
+seraient alors contraints de revenir en Suisse et de subir un deuxième
+déménagement très contraignant en l’espace de quelques mois.
+Or, pour le bien-être des enfants et pour éviter le risque de
+leur imposer des changements trop fréquents dans leurs conditions de vie,
+il est préférable de repousser un éventuel déménagement à l’étranger le
+temps d’examiner les griefs soulevés par le requérant dans son appel. A
+l’inverse, l’arrêt sur appel pourra être rendu rapidement, ce qui exclut tout
+risque de préjudice pour les enfants du fait du statu quo pendant la
+procédure d’appel. Par ailleurs, l’intimée n’a pas démontré la nécessité
+urgente d’un déménagement en Australie, alléguant au contraire en
+particulier que les enfants avaient de l’avance sur le cursus scolaire
+australien.
+Au demeurant, cette solution est conforme à la jurisprudence
+exposée ci-dessus (cf. consid. 7.2.2 supra) qui prévoit que le statu quo doit
+prévaloir en cas de départ à l’étranger du parent gardien, aucun motif ne
+justifiant en l’espèce de s’écarter de ce principe.
+8. En définitive, la requête d’effet suspensif doit être admise en
+ce sens que l’exécution des chiffres IV à VIII – qui ont tous trait au
+déménagement en Australie – de l’ordonnance de mesures provisionnelles
+entreprise est suspendue jusqu’à droit connu sur l’appel.
+Il sera statué sur les frais judiciaires et les dépens dans le
+cadre de l’arrêt sur appel à intervenir (cf. art. 104 al. 3 CPC).
+
+- 9 -
+Par ces motifs,
+le Juge délégué de la Cour d’appel civile,
+prononce :
+I. La requête d’effet suspensif est admise en ce sens que
+l’exécution des chiffres IV à VIII de l’ordonnance de
+mesures provisionnelles rendue le 14 mai 2020 par le
+Président du Tribunal civil de l’arrondissement de l’Est
+vaudois est suspendue jusqu’à droit connu sur l’appel.
+II. Il sera statué sur les frais judiciaires et les dépens de la
+présente ordonnance dans le cadre de l’arrêt sur appel à
+intervenir.
+Le juge délégué : Le greffier :
+Du
+La présente ordonnance, dont la rédaction a été approuvée à
+huis clos, est notifiée à :
+- Me Mélanie Freymond (pour A.W.________),
+- Me Patricia Michellod (pour B.W.________),
+et communiquée, par l'envoi de photocopies, à :
+- M. le Président du Tribunal civil de l’arrondissement de l’Est vaudois.
+La présente ordonnance peut faire l'objet d'un recours en
+matière civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du
+17 juin 2005 sur le Tribunal fédéral – RS 173.110), le cas échéant d'un
+recours constitutionnel subsidiaire au sens des art. 113 ss LTF. Dans les
+affaires pécuniaires, le recours en matière civile n'est recevable que si la
+valeur litigieuse s'élève au moins à 15'000 fr. en matière de droit du
+
+- 10 -
+travail et de droit du bail à loyer, à 30'000 fr. dans les autres cas, à moins
+que la contestation ne soulève une question juridique de principe (art. 74
+LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Le greffier :
