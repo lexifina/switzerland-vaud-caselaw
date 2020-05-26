@@ -1,0 +1,155 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2020___9"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2020 / 9"
+decided: "2020-05-26"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20200518101723564_e.html"
+cites_law: ["switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-048.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2020 / 9
+
+## Regeste
+
+ASSESSEUR, RÉCUSATION | 47 al. 1 let. a CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 26.05.2020 Réc-civile / 2020 / 9
+
+ASSESSEUR, RÉCUSATION | 47 al. 1 let. a CPC (CH), 8a al. 3 CDPJ, 8b al. 4 CDPJ
+
+TRIBUNAL
+CANTONAL
+P320.017234
+13
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 26 mai 2020
+______________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+47 let. a CPC ; 8a al. 3 et 4 et 8b al. 4 CDPJ
+Vu la requête de conciliation déposée le 1
+er
+mai 2020 par
+S.________
+contre son ancien employeur
+I.________
+,
+dont le siège est à [...], auprès du Tribunal de Prud’hommes de l’arrondissement
+de [...]
+vu le courrier du 6 mai 2020 par lequel la Présidente du Tribunal de Prud’hommes de l’arrondissement
+de [...], avec l’accord du premier président, a requis spontanément la récusation
+en corps dudit tribunal, au motif que L.________, directeur d’I.________, exerce la fonction de
+juge assesseur représentant les employeurs au sein de ce tribunal,
+vu les pièces au dossier ;
+attendu que la Cour de céans est compétente pour statuer sur la demande de récusation
+spontanée du 6 mai 2020 en vertu des art. 8a al. 3 et 4 CDPJ (Code de droit judiciaire privé
+vaudois du 12 janvier 2010 ; BLV 211.02) et 6 al. 1 let. a ROTC (règlement organique du
+Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1),
+que la demande satisfait aux exigences de fond et de forme,
+qu'elle est ainsi recevable ;
+attendu
+que le juge d'une cause civile est récusable notamment lorsqu’il a un intérêt personnel
+dans la cause (art. 47 al. 1 let. a CPC [Code de procédure civile du 19 décembre 2008 ;
+RS 272]) ; il est aussi récusable, selon l'art. 47 al. 1 let. f CPC, s'il est « de
+toute autre manière » suspect de partialité, notamment en raison d’un rapport
+d’amitié ou d’inimitié avec une partie ou son représentant (TF 4A_364/2018
+du 6 août 2018 consid. 6),
+que selon la jurisprudence, cette disposition doit être appliquée dans le respect des principes
+de la garantie d'un tribunal indépendant et impartial instituée par les art. 6 par. 1 CEDH
+(Convention de sauvegarde des droits de l'homme et des libertés fondamentales du 4 novembre 1950 ;
+RS 0.101) et 30 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999 ; RS 101) (ATF 140 III 221 consid. 4.2 ; ATF 139 III 433 consid. 2.2
+in
+fine
+),
+que ladite garantie permet au plaideur d'exiger la récusation d'un juge dont la situation ou le
+comportement est de nature à faire naître un doute sur son impartialité ; elle tend
+notamment à éviter que des circonstances extérieures à la cause puissent influencer
+le jugement en faveur ou au détriment d'une partie. Elle n'impose pas la récusation seulement
+lorsqu'une prévention effective du juge est établie, car une disposition interne de sa part
+ne peut guère être prouvée ; il suffit que les circonstances donnent l'apparence
+de la prévention et fassent redouter une activité partiale du magistrat. Seules des circonstances
+constatées objectivement doivent être prises en considération ; les impressions purement
+individuelles d'une des parties au procès ne sont pas décisives (ATF 116 Ia 135 consid. 2 ;
+TF 4A_364/2018, déjà cité, consid. 6 ; cf. ég. ATF 140 III 221 consid.
+4.1 ; ATF 140 I 240 consid. 2.2 ; ATF 138 I 1 consid. 2.2),
+qu'à teneur de l'art. 48 CPC, le magistrat ou le fonctionnaire judiciaire concerné fait état
+en temps utile d'un motif de récusation possible et se récuse lorsqu'il considère que
+ce motif est réalisé ;
+attendu qu’en l’espèce, L.________ est le directeur de la société défenderesse,
+impliquant notamment un pouvoir décisionnel,
+qu’il exerce également la fonction de juge assesseur représentant les employeurs au sein
+du Tribunal de Prud’hommes de l’arrondissement de [...],
+que cette fonction judiciaire implique des contacts réguliers et professionnels avec les autres
+membres de cette autorité, avec lesquels il est amené à siéger et à collaborer,
+qu'il est possible qu'un rapport d'amitié ou d'inimitié ait pu naître des relations professionnelles
+entre L.________ et les autres magistrats composant cet office (CA 14 août 2018/33 ; CA 2 février
+2018/4 ; CA 27 novembre 2017/45),
+qu'il est par ailleurs lui-même investi d'un pouvoir décisionnel dans le cadre de sa fonction
+de juge assesseur,
+qu'il pourrait ainsi résulter de ces relations une apparence de prévention, du moins aux yeux
+de la partie adverse et des tiers,
+qu'afin de garantir l'impartialité du tribunal appelé à statuer sur la requête de
+conciliation formée par S.________, la demande de récusation présentée par la Présidente
+du Tribunal de Prud’hommes de l’arrondissement de [...] doit être admise,
+que, dans un tel cas, la cause doit être déléguée à une autre juridiction ayant
+les mêmes compétences (art. 8b al. 4 CDPJ),
+qu'il convient dès lors de désigner le Tribunal de Prud’hommes de l’arrondissement
+de [...] ;
+attendu que le présent arrêt doit être rendu sans frais judiciaires, ni dépens.
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+La demande de récusation déposée le 6 mai 2020 par la Présidente du Tribunal de Prud’hommes
+de l’arrondissement de [...] est admise.
+II.
+La cause est transmise, dans l’état où elle se trouve, au Tribunal de Prud’hommes
+de l’arrondissement de [...].
+III.
+L'arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+M. Julien Greub, aab. (pour I.________),
+‑
+I.________.
+Un recours au sens des art. 319 ss CPC peut être formé dans un délai de 10 jours, la décision
+étant rendue en procédure sommaire, dès la notification de la présente décision
+en déposant au greffe du Tribunal cantonal un mémoire écrit et motivé. La décision
+objet du recours doit être jointe.
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal de Prud’hommes de l’arrondissement de [...],
+-
+Mme la Présidente du Tribunal de Prud’hommes de l’arrondissement de [...], avec le dossier.
+La greffière :
