@@ -1,0 +1,211 @@
+---
+decision_id: "vd_findinfo_R_c-civile___2020___10"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Réc-civile / 2020 / 10"
+decided: "2020-06-15"
+published: "2020-06-15"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CA/R%E9c-civile/20200604090050189_e.html"
+cites_law: ["switzerland/bund/acts/101/art-030.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-047.md", "switzerland/bund/acts/272/art-049.md", "switzerland/bund/acts/272/art-050.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-122.md", "switzerland/bund/acts/272/art-145.md", "switzerland/bund/acts/272/art-248.md", "switzerland/bund/acts/272/art-319.md"]
+---
+
+# VD Findinfo Réc-civile / 2020 / 10
+
+## Regeste
+
+ACTE DE RECOURS, RÉCUSATION, REJET DE LA DEMANDE | 47 al. 1 let. f CPC (CH), 50 al. 2 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel civile 15.06.2020 Réc-civile / 2020 / 10
+
+ACTE DE RECOURS, RÉCUSATION, REJET DE LA DEMANDE | 47 al. 1 let. f CPC (CH), 50 al. 2 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+D117.033217
+15
+COUR
+ADMINISTRATIVE
+______________________________
+RECUSATION
+CIVILE
+Séance
+du 15 juin 2020
+__________________
+Présidence
+de               M.
+Kaltenrieder
+,
+président
+Juges
+:              M.
+Hack et Mme Revey
+Greffière
+:              Mme
+Spitz
+*****
+Art.
+47 al. 1 let. f et 50 al. 2 CPC ;
+Vu la procédure d’enquête en institution d’une mesure de protection instruite par
+la Juge de paix du district de [...]V.________ (ci-après : la juge de paix) en faveur de P.________,
+né le [...] 1962 (réf. D117.033217),
+vu le courrier du 24 avril 2020 par lequel P.________ a requis la récusation de la juge de paix
+précitée,
+vu la décision du 27 avril 2020 par laquelle la Justice de paix du district de [...] (ci-après :
+la justice de paix) a rejeté, dans la mesure de sa recevabilité, la demande tendant à
+la récusation de la magistrate intimée et a mis les frais de ladite procédure, arrêtés
+à 200 fr., à la charge de P.________,
+vu le recours formé le 15 mai 2020 par P.________ (ci-après : le recourant) contre la
+décision précitée, tendant principalement à sa réforme en ce sens que la demande
+de récusation qu’il a formée le 24 avril 2020 soit admise, que le dossier de la cause
+soit transmis à la Justice de paix du district de [...] comme objet de sa compétence et que
+les frais judiciaires de première instance soient laissés à la charge de l’Etat,
+vu les pièces au dossier ;
+attendu que le recours est dirigé contre une décision statuant sur la récusation d’un
+magistrat de première instance,
+que l'art. 50 al. 2 CPC prévoit que la décision sur récusation peut faire l'objet d'un
+recours au sens des art. 319 ss CPC,
+que la cour de céans est compétente pour statuer sur un tel recours (art. 8a al. 7 CDPJ [Code
+de droit privé judiciaire vaudois du 12 janvier 2010 ; BLV 211.02] et 6 al. 1 let. a ROTC
+[règlement organique du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1]),
+que la procédure de récusation, devant conclure rapidement à une solution sur la base
+de la vraisemblance, suit les règles de la procédure sommaire (art. 248 ss CPC ; Tappy,
+Commentaire romand, Code de procédure civile, Bâle 2019, 2
+e
+éd., nn. 21 et 32 ad art. 50 CPC),
+qu'ainsi, le délai pour recourir, qui n’est pas suspendu par les féries judiciaires (art.
+145 al. 2 let. b CPC), est de dix jours à compter du lendemain de la notification de la décision
+(art. 142 al. 1 et 321 al. 2 CPC),
+qu'en l'espèce, la décision litigieuse, expédiée le 27 avril 2020, a été
+notifiée le 5 mai 2020 au recourant, qui a formé recours par courrier recommandé du 15
+mai 2020, de sorte que le recours a été formé en temps utile par une partie qui a qualité
+pour recourir,
+que le recours est recevable à la forme ;
+attendu qu'aux termes de l’art. 47 al. 1 let. f CPC (Code de procédure civile du 19 décembre
+2008 ; RS 272), les magistrats et les fonctionnaires judiciaires se récusent lorsqu'ils pourraient
+être prévenus d'une quelconque manière, notamment en raison d'un rapport d'amitié
+ou d'inimitié avec une partie ou son représentant,
+que la récusation d'un juge ou d'un tribunal ne doit pas être autorisée à la légère,
+mais uniquement pour des motifs sérieux, la récusation devant demeurer l'exception (TF 1C_103/2011
+du 24 juin 2011 consid. 2.1 ; ATF 116 Ia 14 consid. 4, JdT 1991 IV 157),
+que la garantie du juge indépendant et impartial, qui découle des
+art. 30
+al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999 ;
+RS 101) et 6 § 1 CEDH (Convention de sauvegarde des droits de l'homme et des libertés fondamentales
+du 4 novembre 1950 ; RS 0.101), s'oppose à ce que des circonstances extérieures au procès
+puissent influencer le jugement d'une manière qui ne serait pas objective, en faveur ou au préjudice
+d'une partie (TF 5A_316/2012 du 17 octobre 2012 consid. 6.2.1 ; TF 4A_151/2012 du 4 juin
+2012 consid. 2.1 ;
+ATF 138 I 1 consid. 2.2
+et les références citées),
+qu’il suffit que les circonstances donnent l'apparence d'une prévention et fassent redouter
+une activité partiale du magistrat, seules les circonstances objectivement constatées devant
+cependant être prises en compte, les impressions purement individuelles n'étant pas décisives
+(ATF 140 III 221 consid. 4.1 ; ATF 139 III 120 consid. 3.2.1 ; ATF 138 IV 142 consid.
+2.1),
+que
+la partie qui entend obtenir la récusation d'un magistrat doit rendre vraisemblable les faits qui
+motivent sa demande (art. 49 al. 1 CPC),
+que la garantie du juge impartial ne commande pas, en principe, la récusation d’un juge aux
+motifs qu’il aurait, lors d’un procès précédent, rendu une décision défavorable
+à l’intéressé (Bohnet, CPC commenté, 2010, n. 23 ad art. 47 CPC
+et les références citées),
+qu'ayant
+été élu ou nommé à une fonction judiciaire, le magistrat est censé être
+capable de prendre le recul nécessaire par rapport aux reproches qu'une partie élève,
+le cas échéant, contre lui, et de se prononcer de façon impartiale sur la contestation
+dont il est saisi (TF 1P.267/2006 du 17 juillet 2006, consid. 3.2),
+que des décisions ou des actes de procédure prétendument viciés, voire arbitraires,
+ne fondent pas en soi une apparence objective de prévention (TF 5A_171/2015 du 20 avril 2015
+consid. 6.1 ; TF 4A_377/2014 du 25 novembre 2014 consid. 6.1 et les références citées),
+qu’en particulier, même lorsqu'elles sont établies, des erreurs de procédure ou
+d'appréciation commises par un juge ne suffisent pas à fonder objectivement un soupçon
+de partialité, seules des erreurs particulièrement lourdes ou répétées, constitutives
+de violations graves des devoirs du magistrat, pouvant justifier une suspicion de partialité, pour
+autant que les circonstances corroborent à tout le moins objectivement l'apparence de prévention
+(TF 5A_749/2015 du 27 novembre 2015 consid. 4.1 ; ATF 138 IV 142 consid. 2.3 et les références
+citées),
+que c'est aux juridictions de recours normalement compétentes qu'il appartient de constater et de
+redresser les erreurs éventuellement commises, le juge de la récusation ne pouvant pas examiner
+la conduite du procès à la façon d'une instance d'appel (TF 5A_749/2015 du 27 novembre
+2015 consid. 4.1 ; ATF 116 Ia 135 consid. 3a), ni d'un organe de surveillance (TF 4A_323/2010 du
+3 août 2010 consid. 2.2),
+que dans son recours du 15 mai 2020, P.________ reproche à la magistrate intimée, dont il conteste
+la compétence
+ratione
+loci
+, les mesures prises par ses soins dans le
+cadre de l’enquête qu’elle instruit en sa faveur, mais également de lui avoir notifié
+une décision avant les féries de fin d’année et d’avoir mis les frais judiciaires
+y relatifs à sa charge alors que sa situation financière ne lui permettrait pas de s’en
+acquitter,
+que, si le recourant estime que ses droits – notamment de procédure – ne sont pas respectés,
+il lui appartient de le faire valoir devant les juridictions ordinaires et non de s’en plaindre
+par la voie d’une requête de récusation de la magistrate en charge du dossier,
+que la compétence à raison du lieu de la justice de paix du district de [...] a au demeurant
+été confirmée dans un arrêt de la Chambre des curatelles du Tribunal cantonal du
+21 avril 2020/77,
+qu’on ne discerne pas, dans la conduite de la présente cause d’erreurs de procédure
+lourdes ou répétées commises par la juge de paix intimée, susceptible de constituer
+des violations graves de ses devoirs de magistrate, ni même de créer une apparence de prévention
+ou de faire redouter une activité partiale de sa part,
+que P.________ ne démontre même pas que la juge aurait commis une erreur quelconque ou que
+les mesures et décisions prises par ses soins ne seraient pas justifiées,
+que le simple fait que la juge de paix ait par le passé rendu des décisions qui lui étaient
+défavorables ne saurait par ailleurs constituer un motif suffisant,
+qu’en outre, les frais judiciaires sont mis à la charge de la partie qui succombe (art. 106
+al. 1 CPC), ceux-ci étant provisoirement laissés à la charge de l’Etat lorsque celle-ci
+est au bénéfice de l’assistance judiciaire (art. 122 al. 1 let. b CPC),
+qu’en l’espèce, la décision rendue le 31 octobre 2019 par la juge de paix ne donne
+pas gain de cause à P.________,
+que celui-ci ne prétend pas avoir agi au bénéfice de l’assistance judiciaire,
+que, dans ces circonstances, il ne saurait être reproché à la magistrate intimée
+d’avoir mis à la charge du recourant les frais judiciaires relatifs à ladite décision,
+que, pour le surplus,
+le recourant n’apporte aucun élément de nature à démontrer que le comportement
+adopté par la juge de paix intimée puisse laisser craindre une partialité à son égard,
+qu’aucun motif de récusation n’est dès lors réalisé,
+que, partant, le recours est manifestement infondé,
+que le recours déposé le 15 mai 2020 doit ainsi être rejeté et la décision du
+27 avril 2020 confirmée ;
+attendu que les frais judiciaires de deuxième instance, arrêtés à 500 fr. (art. 72
+al. 1 TFJC [tarif des frais judiciaires en matière civile du 28 septembre 2010 ; BLV 270.11.5]),
+sont mis à la charge du recourant qui succombe (art. 106 al. 1 CPC),
+Par
+ces motifs,
+la
+Cour administrative du Tribunal cantonal,
+statuant
+à huis clos
+prononce
+:
+I.
+Le recours déposé le 15 mai 2020 par P.________ est rejeté.
+II.
+La décision rendue le 27 avril 2020 par la Justice de paix du district de [...] est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 500 fr. (cinq cents francs),
+sont mis à la charge du recourant P.________.
+IV.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié en expédition complète, par l'envoi de photocopies, à :
+‑
+P.________, personnellement.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Ces recours doivent être déposés devant le Tribunal fédéral dans les trente
+jours qui suivent la présente notification (art. 100  al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Juge de paix V.________,
+-
+M. le Premier juge de paix du district de [...].
+La greffière :
