@@ -1,0 +1,288 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___25"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 25"
+decided: "2020-07-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7819330"
+cites_law: ["switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-130.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-143.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md", "switzerland/bund/acts/281.1/art-031.md", "switzerland/bund/acts/281.1/art-033.md", "switzerland/bund/acts/281.1/art-056.md", "switzerland/bund/acts/281.1/art-063.md", "switzerland/bund/acts/742.141.1/art-002.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 25
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 21.07.2020 Plainte / 2020 / 25
+
+TRIBUNAL
+CANTONAL
+FA18.047688-200539
+17
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+21 juillet 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+18 al. 1 LP
+La Cour des poursuites
+et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité d'autorité
+cantonale supérieure de surveillance, pour statuer sur le recours interjeté par
+J.________
+, à Josselin (France), contre la
+décision rendue le 10 mars 2020 par la Présidente du Tribunal d’arrondissement de Lausanne,
+autorité inférieure de surveillance, admettant la plainte déposée le
+5
+novembre 2018 par
+H.________
+,
+à St-Sulpice, contre l’
+Office
+des poursuites du district de Lausanne
+, dans le
+cadre d’un séquestre ordonné contre le recourant...]
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+Par ordonnance du 8 octobre 2018, à la requête de H.________, le Juge de paix du district de
+Lausanne a ordonné le séquestre de « la part saisissable de la, des prestations de
+retraite mensuelle ou non de J.________, né le [...] 1951 actuellement domicilié à F-...]56120
+Josselin, en mains de la Caisse de pensions de l’Etat de Vaud à Lausanne », à
+concurrence d’une créance de 4’200 fr., avec intérêt à 5% l’an
+dès le 11 septembre 2018, dont le titre ou la cause est : « Loyer dû selon contrat
+d’hébergement du 10 mars 2016 ». L’Office a déclaré le séquestre
+infructueux et l’a annulé de son registre le 26 octobre 2018. Il a par ailleurs restitué
+à H.________ la réquisition de poursuite en validation de séquestre qu’elle avait
+déposée le 24 octobre 2018.
+Par acte du 5 novembre 2018, H.________ a formé
+une plainte contre la décision de l’Office.
+Par prononcé du 9
+janvier 2019, la Présidente du Tribunal d’arrondisse-ment de Lausanne, statuant en sa qualité
+d’autorité inférieure de surveillance en matière de poursuite pour dettes et de
+faillites, a rejeté la plainte et rendu sa décision sans frais judiciaires ni dépens.
+Le 21 janvier 2019, H.________ a déposé un recours contre ce prononcé. Par arrêt
+du 5 avril 2019, la cours de céans a annulé le prononcé du 9 janvier 2019 et renvoyé
+la cause à la Présidente du Tribunal d’arrondissement de Lausanne, autorité inférieure
+de surveillance, pour nouvelles instruction et décision sur la plainte.
+2.
+Par décision du 10
+mars 2020, la Présidente du Tribunal d’arron-dissement de Lausanne, statuant en qualité
+d’autorité inférieure de surveillance en matière de poursuite pour dettes et de
+faillites, a admis la plainte déposée le
+5
+novembre 2018 par H.________, annulé l’avis concernant l’annulation de saisie du 24
+octobre 2018 émis par l’Office des poursuites du district de Lausanne et chargé l’office
+de procéder à un nouveau calcul du minimum vital et de la quotité saisissable de J.________
+ainsi que de déterminer la retenue mensuelle de salaire imposée.
+Par courriel du 18 mars
+2020, J.________ a informé la présidente que la décision du 10 mars 2020 lui avait été
+notifiée le 14 mars 2020 et lui a demandé de bien vouloir « geler [sa] décision
+et le délai de recours de 10 jours, jusqu’à la fin du confinement » au vu de
+« l’état de guerre sanitaire en vigueur en France, comme en Suisse ».
+Par courriel du 23 mars 2020, le prénommé a réitéré sa demande.
+Par courriel non daté,
+le tribunal a informé J.________ qu’en raison de la suspension des poursuites jusqu’au
+3 avril 2020 ainsi que les féries de poursuite qui s’en suivent jusqu’au 19 avril 2020,
+le délai était prolongé au 20 avril 2020. Puis, par courriel adressé au prénommé
+le 24 mars 2020, il a été précisé que la décision du 10 mars 2020 tombait sous
+le coup de l'Ordonnance du Conseil fédéral sur la suspension des poursuites du 20 mars 2020,
+ainsi que des féries de l'art. 63 LP, de sorte que le délai de recours était prolongé
+jusqu’à la fin de la suspension prévue par ladite ordonnance, soit jusqu’au 19
+avril 2020 inclus.
+Par courriel du 17 avril
+2020, J.________ a sollicité une prolongation du délai de recours jusqu’au 12 mai 2020
+« compte tenu de la prolongation du confinement jusqu’au 11 mai 2020 en France ».
+Par courriel du 21 avril
+2020, la présidente a répondu à l’intéressé que les féries judiciaires
+et la suspension des poursuites ayant pris fin, il n’était pas, ou plus, possible de prolonger
+les délais de recours.
+J.________ a recouru par
+acte du 21 avril 2020, adressé au tribunal le même jour par courrier électronique et remis
+à la poste française le 24 avril 2020.
+En droit :
+I.
+a)
+Le délai de recours auprès de l’autorité cantonale supérieure de surveillance
+contre une décision rendue par l’autorité inférieure de surveillance est de dix
+jours à compter de la notification de cette décision (art. 18 al. 1 LP [loi fédérale
+sur la poursuite pour dettes et la faillite ; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d’application
+de la LP ; RSV 280.05]).
+En l’espèce, le prononcé attaqué a été notifié à J.________
+le
+14 mars 2020, de sorte que le délai
+de dix jours de l’art. 18 al. 1 LP arrivait à échéance le 24 mars 2020.
+b)
+Selon l’art. 1 al. 1 de l’ordonnance du 20 mars 2020 sur la suspension des délais dans
+les procédures civiles et administratives pour assurer le maintien de la justice en lien avec le
+coronavirus (COVID-19) (ci-après : OCF du 20 mars 2020 ; RO 2020 849 ; RS 173.110.4),
+lorsque, en vertu du droit fédéral ou cantonal de procédure applicable, les délais
+légaux ou les délais fixés par les autorités ou par les tribunaux ne courent pas
+pendant les jours qui précèdent et qui suivent Pâques, leur suspension commence dès
+l’entrée en vigueur de la présente ordonnance – soit le 21 mars 2020 à 0 h
+00 (art. 2 OCF du 20 mars 2020) – et dure jusqu’au 19 avril 2020 inclus.
+Cette suspension ne s’applique toutefois pas en l’espèce, dès lors qu’il
+n’y a pas de féries judiciaires en matière de procédure de plainte (art. 74
+LVLP [loi vaudoise d’application de la LP; BLV 280.05]). En effet, selon la jurisprudence, la décision
+d'une autorité de surveillance qui statue uniquement sur le bien-fondé d'une plainte, sans
+donner d’instruction à l’office d’effectuer un acte de poursuite particulier ou
+d’ordonner lui-même un tel acte n'est pas un acte de poursuite au sens de l'art. 56 LP, de
+sorte que les féries prévues à l'art. 56 ch. 2 LP n'entrent pas en considération
+dans la computation du délai de recours (TF 5A_166/2013 du 6 août 2013 consid. 4.2 ; TF
+5A_448/2011 du 31 octobre 2011 consid. 2.5 ; ATF 117 III 4 consid. 3; ATF 115 III 11 consid. 1b;
+TF B.54/1989 du 14 avril 1989,
+in
+:
+SJ 1989 p. 318 consid. 2b; TF 5A_550/2007 du 28 novembre 2007, in : Praxis 2008 n° 29 consid. 3.3).
+Partant, l'art. 63 LP ne trouve pas non plus application (TF 5A_166/2013 du 6 août 2013, consid.
+4.2 ; ATF 117 III 4 consid. 3; ATF 115 III 11  consid. 1c).
+C’est donc par erreur que le premier juge a indiqué au recourant, dans deux courriels, que
+le délai de recours était prolongé jusqu’au 20 avril 2020, respectivement jusqu’au
+19 avril inclus, en vertu de l’ordonnance précitée et des féries.
+On déduit du principe général de la bonne foi, consacré à l’art. 5 al.
+3 Cst. (Constitution fédérale de la Confédération suisse du 18 avril 1999 ;
+RS 101), que les parties ne doivent subir aucun préjudice en raison d’une indication inexacte
+des voies de droit (ATF 117 Ia 297 consid. 2). Seule une négligence procédurale grossière
+peut faire échec à la protection de la bonne foi en cas d’indication erronée des
+voies de droit. Celle-ci cesse uniquement si une partie ou son avocat aurait pu se rendre compte de l’inexactitude
+de l’indication des voies de droit en lisant simplement la législation applicable. En revanche,
+il n’est pas attendu d’eux qu’outre les textes de loi, ils consultent encore la jurisprudence,
+même publiée aux ATF, ou la doctrine y relatives. Déterminer si la négligence commise
+est grossière s’apprécie selon les circonstances concrètes et les connaissances
+juridiques de la personne en cause. Les exigences envers les avocats sont naturellement plus élevées :
+on attend dans tous les cas de ces derniers qu’ils procèdent à un contrôle sommaire
+(«
+Grobkontrolle
+»)
+des indications sur la voie de droit (ATF 138 I 49 consid. 8.3.2 et les réf. citées ;
+TF 5A_706/2018 du 11 janvier 2019 consid. 3.1).
+En l’espèce, le recourant, non assisté, ne pouvait se rendre compte de l’inexactitude
+des indications qu’il avait reçues quant à l’échéance du délai de
+recours. Il y a dès lors lieu de considérer que le délai de recours a été suspendu
+jusqu’au 20 avril 2020.
+c)
+Selon l’art. 33 al. 2 LP, il est possible d'accorder un délai plus long ou de prolonger un
+délai notamment lorsqu'une partie à la procédure habite à l'étranger. La demande
+de prolongation du délai doit être formée avant l’expiration du délai et doit
+être sommairement motivé (Erard, Commentaire romand, n. 8
+ad
+33 LP). Si la partie est à l’étranger
+et que le délai a été prolongé en vertu de l’art. 33 al. 2 LP, le dépôt
+doit se faire dans le délai prolongé (TF 5A_882/2012 du 23 janvier 2013 consid. 3.2 et 3.4).
+Par courriel du vendredi 17 avril 2020, J.________ a sollicité une prolongation du délai de
+recours jusqu’au 12 mai 2020, invoquant « la prolongation du confinement jusqu’au
+11 mai 2020 en France ». Par courriel du 21 avril 2020, la présidente a répondu à
+l’intéressé que les féries judiciaires et la suspension des poursuites ayant pris
+fin, il n’était pas, ou plus, possible de prolonger les délais de recours.
+Certes, le recourant, âgé de plus de 65 ans, entre dans la catégorie des personnes vulnérables
+au sens de l’art. 10b al. 2 de l’Ordonnance 2 sur les mesures destinées à lutter
+contre le coronavirus (COVID-19) (RS 818.101.24). Il n’invoque toutefois pas que ce serait également
+le cas de son épouse. Le recourant a en outre sept enfants. Dans son acte de recours, J.________
+conteste le montant du revenu minimal du couple, demande la prise en compte du leasing de son véhicule
+et de ses frais de maladie, au sujet desquels les pièces avaient déjà été fournies,
+ainsi que d’un montant mensuel de 50 fr. pour l’entretien d’un animal domestique, produisant
+la copie du livret relatif à un chat. Force est de constater que le confinement n’empêchait
+nullement le recourant de disposer de ces éléments dès réception du prononcé
+le 14 mars 2020. Dans ces circonstances, en particulier au vu de la présence de son épouse
+et de l’existence de ses enfants, on ne voit pas que le confinement prononcé le 17 mars 2020
+doive être retenu comme empêchant J.________ d’envoyer, respectivement de faire envoyer,
+un acte de recours en temps utile et dans les formes prescrites, et ce d’autant moins que l’intéressé
+aura disposé, dans les faits, d’un délai de plus de cinq semaines pour procéder.
+Il y a dès lors lieu de considérer que le recourant n’a pas été empêché
+d’agir dans le délai au 20 avril 2020, de sorte qu’aucune prolongation de délai
+supplémentaire ne se justifiait. Le silence de la présidente du tribunal entre le 17 et le
+21 avril 2020 n’y change rien.
+d)
+Aux termes de l'art. 33 al. 4 LP, quiconque a été empêché sans sa faute d'agir dans
+le délai fixé peut demander à l'autorité de surveillance ou à l'autorité
+judiciaire compétente qu'elle lui restitue ce délai. L'intéressé doit, à compter
+de la fin de l'empêchement, déposer une requête motivée dans un délai égal
+au délai échu et accomplir auprès de l'autorité compétente l'acte juridique
+omis.
+En l’espèce, le recourant ne formule pas une telle demande.
+e)
+Selon l’art. 143 al. 1 CPC (Code de procédure civile du 19 décembre 2008 ;
+RS 272) applicable par renvoi de l’art. 31 LP, pour être recevable, un acte doit être
+remis au plus tard le dernier jour du délai soit au tribunal soit à l’attention de ce
+dernier, à la poste suisse ou à une représentation diplomatique ou consulaire suisse.
+En
+cas de dépôt auprès d’une poste étrangère, le délai ne sera respecté
+que pour autant qu’il ne soit pas déjà échu au moment de l’arrivée effective
+de l’acte au tribunal, ou au moins que l’envoi soit passé de la poste étrangère
+à la poste suisse avant l’échéance dudit délai (TF 4D_10/2020 du 5 février
+2020 et les réf. cit. ;
+TF 4A_97/2019
+du 11 mars 2019 ; Tappy, in Bohnet et alii, Commentaire romand, Code de procédure civile, 2
+e
+éd, n. 13 ad art. 143 CPC et les réf.).
+Selon l’art. 130 al. 1 CPC, les actes sont adressés au tribunal sous forme de documents papier
+ou électroniques et doivent être signés. L’art. 130 al. 2 CPC précise que,
+lorsqu’ils sont transmis par voie électronique, le document contenant l’acte et les
+pièces annexées doit être certifié par la signature électronique reconnue de
+l’expéditeur, le Conseil fédéral déterminant le format du document. Selon l’art.
+7 OCEPCP (ordonnance du 18 juin 2010 sur la communication électro-nique dans le cadre des procédures
+civiles pénales et de procédures en matière de poursuite pour dettes et de faillite ;
+RS 272.1), est une signature électronique valable celle basée sur un certificat qualifié
+qui émane d’un fournisseur reconnu. L’envoi par courrier électronique non certifié
+ne sauvegarde pas le délai initial ni ne permet d’obtenir un délai de grâce selon
+l’art. 132 al. 1 CPC (Tappy, op. cit., n. 17 ad art. 143 CPC).
+En l’espèce, J.________ a adressé son acte de recours au tribunal d’abord par courrier
+électronique le 21 avril 2020. Faute de signature valable, ce courriel est irrecevable comme acte
+de recours ; il est de surcroît tardif. Puis, le recourant a remis l’acte à la poste
+française le 24 avril 2020, soit après l’échéance du délai de recours
+prolongé, de fait, au 20 avril 2020, date à laquelle son acte aurait dû, au plus tard,
+être remis soit au tribunal, soit à l’attention de ce dernier, à la poste suisse.
+Dans ces circonstances, le recours – déposé tardivement – doit être déclaré
+irrecevable.
+II.
+Le présent arrêt
+est rendu sans frais (art. 20a al. 2 ch. 5 LP et 61 al. 2 let. a OELP [ordonnance sur les émoluments
+perçus en application de la LP; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. J.________,
+‑
+Me Johanna Trümpy, avocate (pour H.________),
+‑
+M. le Préposé à l'Office des poursuites du district de Lausanne.
+Le présent arrêt peut faire l'objet d'un reco
+urs
+en matière civile devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110). Ce recours doit être déposé
+devant le Tribunal fédéral dans les dix jours – cinq jours dans la poursuite pour effets
+de change – qui suivent la présente notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne, autorité inférieure de surveillance.
+La greffière :
