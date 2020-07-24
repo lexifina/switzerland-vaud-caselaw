@@ -1,0 +1,757 @@
+---
+decision_id: "vd_findinfo_S_questre___2020___11"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2020 / 11"
+decided: "2020-07-24"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20200623160702636_e.html"
+cites_law: ["switzerland/bund/acts/0.275.12/art-034.md", "switzerland/bund/acts/0.275.12/art-041.md", "switzerland/bund/acts/0.275.12/art-045.md", "switzerland/bund/acts/0.275.12/art-053.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/210/art-008.md", "switzerland/bund/acts/272/art-055.md", "switzerland/bund/acts/272/art-060.md", "switzerland/bund/acts/272/art-063.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-150.md", "switzerland/bund/acts/272/art-229.md", "switzerland/bund/acts/272/art-317.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/272/art-327a.md", "switzerland/bund/acts/281.1/art-271.md", "switzerland/bund/acts/281.1/art-273.md", "switzerland/bund/acts/281.1/art-278.md"]
+---
+
+# VD Findinfo Séquestre / 2020 / 11
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 24.07.2020 Séquestre / 2020 / 11
+
+TRIBUNAL
+CANTONAL
+KE19.056880-200537
+195
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+24 juillet 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+M.
+Hack et Mme Rouleau, juges
+Greffière
+:              Mme
+Progin
+*****
+Art.
+271 al. 1 ch. 6, 273 et 278 al. 3 LP ; art. 34 ch. 1 et 41 CL ; art. 59 al. 1 et 2 let.
+c CPC
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites, s'occupe du recours exercé par
+V.________
+,
+à [...] (Italie), contre le prononcé rendu le 3 avril 2020, à la suite de l’audience
+du 6 mars 2020, par la Juge de paix du district d’Aigle, rejetant l’opposition formée
+par la recourante au séquestre ordonné contre elle le 3 décembre 2019 à la réquisition
+de
+Z.________PLC
+,
+à [...] (Royaume-Uni),
+T.________JSC
+,
+S.________LLP
+,
+et
+L.________LLP
+,
+Oblast d’ [...], à [...] (Kazakhstan).
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+a)
+Par acte du 26 novembre 2019, invoquant le cas de séquestre de l’art. 271 al. 1 ch. 6
+LP (loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite ; RS 281.1),
+Z.________PLC, T.________JSC, S.________LLP et L.________LLP ont requis de la Justice de paix du district
+d’Aigle qu’elle ordonne le séquestre, à concurrence d’un montant de 10'258'439
+fr. 60, contrevaleur de 8'000'000 livres sterling au cours de 1 livre sterling pour 1 fr. 28230, de trois
+parts de copropriété détenues par V.________ sur un immeuble sis à Ollon, sur les
+fruits et autres produits de ces trois immeubles, notamment les loyers, des objets « corporels »
+garnissant ces immeubles, notamment les tableaux, meubles et appareils électroniques d’une
+part, sur toutes les espèces, valeurs, titres, créances et autres biens de quelque nature qu’ils
+soient, en comptes, dépôts ou coffre-fort, appartenant à V.________, « sous
+son nom propre, désignation conventionnelle ou numérique », déposés en
+mains de la Banque Q.________ à Zurich ou auprès de ses succursales, notamment le compte IBAN
+[...], d’autre part, et qu’elle dispense les requérantes de fournir des sûretés.
+Deux formules préimprimées d’ordonnances de séquestre, précisant que le séquestre
+devait être ordonné à concurrence de 10'258'439 fr. 60 « avec intérêt
+à 7.14% du 14 mars 2018 au 31 octobre 2019, puis de 2'006.86.- par jour dès le 1 novembre
+2019 », étaient jointes à la requête.
+Le litige s’inscrit dans le cadre d’un procès initié en 2013 par les séquestrantes
+(procédure No. CL-2013-000683), lesquelles font parties d’un groupe spécialisé dans
+le recyclage de papier et d’emballages au Kazakhstan, à l’encontre de leur CEO B.U.________,
+gendre de la séquestrée, et de leur ancienne CFO, S.________, qui leur ont causé un dommage
+frauduleux de plusieurs centaines de millions de dollars américains. Tous deux ont été
+condamnés par jugement du 28 février 2018 au paiement du montant de 298'834'593 USD aux séquestrantes,
+dont 8'000'000 £ devaient être acquittés à titre d’acomptes sur les dépens.
+N’étant pas parvenues à recouvrer ce montant, les séquestrantes, conformément
+au droit anglais, ont agi contre l’intimée et sa fille, lesquelles avaient financé le
+procès de B.U.________. Par décision du 17 octobre 2019 (cf. pièce 14), faisant suite
+à la décision de principe du 8 octobre 2019 (cf. pièce 2), le juge anglais a condamné
+la séquestrée et sa fille à payer aux séquestrantes 8'000'000 £, portant
+intérêts.
+A l’appui de leur requête, les séquestrantes ont produit plusieurs documents, dont notamment :
+-
+Quatre procurations, signées par O.________,
+Director of X.________LP, par lesquelles elles donnaient le pouvoir à leurs avocates de les représenter
+dans la procédure en cours (pièce 0) ;
+-
+Le jugement de la High Court of Justice of England
+and Wales du 8 octobre 2019 et la traduction partielle en français de ce jugement, statuant
+sur demande des séquestrantes, ainsi que de deux autres sociétés, Y.________JSC et W.________LLP,
+contre plusieurs défendeurs, dont A.U.________ et V.________, considérant qu’il était
+juste que les demanderesses puissent se retourner contre cette dernière notamment pour obtenir le
+paiement de leurs dépens, au motif qu’elle avait contribué au financement de la défense
+de son gendre. Ce jugement contient plusieurs références aux arguments soulevés par V.________
+et évoque la première déclaration de témoin de cette dernière dans la procédure
+No. CL-2013-000683 (pièce 9). Il mentionne également qu’elle n’a pas été
+avertie qu’elle pourrait être astreinte au paiement des dépens de la partie adverse (pièce
+2) ;
+-
+Une copie certifiée conforme d’un « Order »
+de la « High Court of Justice of England and Wales » du 17 octobre 2019, selon
+lequel A.U.________ et V.________ sont redevables individuellement des frais mis à la charge des
+deuxième et troisième défendeurs, dont £ 8'000'000.- à rembourser aux demanderesses,
+portant intérêts à 7.14% l’an, soit £ 934'264.11 pour la période
+du 14 mars 2018 au 31 octobre 2019 et au taux de £ 1'564.93 par jour jusqu’à la
+date du versement. Il ressort également de cet « Order », qu’il est rendu
+« upon the application of the First, Second, Third and Fourth Claimants », soit selon
+la traduction figurant au dossier, « sur requête des premier, deuxième, troisième
+et quatrième demandeurs », à savoir les quatre séquestrantes dans la présente
+procédure. Enfin, sous chiffre (6), il est mentionné que l’autorisation d’interjeter
+un appel a été refusée à V.________ notamment (pièce 14) ;
+-
+L’annexe V CL (Convention concernant la
+compétence judiciaire, la reconnaissance et l’exécution des décisions en matière
+civile et commerciale [Convention de Lugano] ; RS 0.275.12) complétée par la High Court
+of Justice of England and Wales le 19 novembre 2019, certifiant que la décision du 17 octobre
+2019 est exécutoire dans le pays d’origine (pièce 15).
+b)
+Le
+3 décembre 2019, la Juge de paix du district d'Aigle a scellé les deux ordonnances de séquestre
+requises, indiquant comme titre de la créance le jugement du 17 octobre 2019 de la Haute Cour de
+Justice du Royaume-Uni, dans l'affaire CL-2013-000683. Comme objets à séquestrer, la première
+ordonnance désignait : « 1. Les parts de copropriété 9991-8-68, 9991-8-70, et
+9991-29 détenues par Madame V.________ en propriété individuelle dans l'immeuble de base
+9991, sis dans la commune d'Ollon ; 2. Les fruits et autres produits des immeubles mentionnés
+sous chiffre 1, notamment les loyers ; 3. Les objets mobiliers garnissant des immeubles mentionnés
+sous chiffre 1, notamment les tableaux, meubles et appareils électroniques », et la seconde :
+« toutes espèces, valeurs, titres, créances et autres biens de quelque nature qu’ils
+soient, en comptes, dépôts ou coffre-fort, appartenant à Madame V.________, sous son nom
+propre, désignation conventionnelle ou numérique, déposées en mains de la [...],
+respectivement de ses succursales, notamment le compte identifié sous IBAN [...] ». Le
+créancier a été dispensé de fournir des sûretés. La juge a adressé
+les ordonnances le même jour pour exécution à l’Office des poursuites du district
+d’Aigle pour la première, qui a été enregistrée sous n
+o
+9'409'772,
+et à l’Office des poursuites de Zurich pour la seconde.
+c)
+Par
+acte de son mandataire du 19 décembre 2019, V.________ a formé opposition « à
+l’Ordonnance de séquestre […] rendue le 3 décembre 2019 », requérant
+la fixation d’une audience selon l’art. 278 LP et exigeant que les séquestrantes soient
+tenues de fournir un montant d’un million de francs à titre de sûretés. Le 20 décembre
+2019, elle a requis la traduction de toutes les pièces produites à l’appui de la requête
+de séquestre. Le procès-verbal de séquestre n
+o
+9'409'772 du 20 décembre 2019 de l’Office des poursuites du district d’Aigle a été
+notifiée le 23 décembre 2019 à V.________. Cette dernière y a formé opposition
+par courrier du 23 décembre 2019 et a à nouveau requis la fixation d’une audience.
+d)
+Le
+31 janvier 2020, la juge de paix a transmis l’opposition aux séquestrantes et convoqué
+les parties à son audience du 6 mars 2020. Par courrier du 26 février 2020, les séquestrantes
+ont fourni la traduction en français des pièces produites à l’appui de leur requête
+de séquestre.
+Lors de l’audience du 6 mars 2020, l’opposante a conclu, sous suite de frais et dépens,
+à l’annulation du séquestre et, subsidiairement, à la fourniture de sûretés
+à hauteur d’un million de francs. Les intimées ont quant à elles pris les conclusions
+suivantes : « 1) reconnaître et déclarer exécutoire le jugement du 17 octobre
+2019, 2) rejeter l’opposition, 3) confirmer l’ordonnance de séquestre, 4) dispenser
+les intimées de fournir des sûretés, 5) débouter l’opposante de toutes autres
+conclusions, 6) condamner l’opposante aux frais et dépens de l’instance ».
+2.
+Par prononcé motivé du 3 avril 2020,
+la Juge de paix du district d’Aigle a rejeté l’opposition au séquestre (I), confirmé
+les ordonnances de séquestre du 3 décembre 2019 (II), arrêté les frais judiciaires
+à 2'000 fr., compensés avec l’avance de frais de l’opposante (III), mis les frais
+à sa charge (IV) et dit que celle-ci verserait aux intimées la somme de 12'000 fr. à titre
+de dépens (V).
+En substance, la première juge a retenu que le jugement du 17 octobre 2019 de la High
+Court of Justice of England and Wales était vraisemblablement exécutoire et rendait donc également
+vraisemblable la créance de £ 8'000'000.- et le cas de séquestre de l’art. 271 al.
+1 ch. 6 LP. Elle a considéré que la saisine de la justice de paix en lieu et place de la juge
+de paix compétente ne portait pas à conséquence et que l’argument de l’opposante,
+qui considérait que le jugement anglais était contraire à l’ordre public, n’avait
+pas à être examiné au stade du séquestre et qu’il n’était en toute
+hypothèse pas propre à remettre en cause le caractère vraisemblable de la créance
+et du cas de séquestre. Le séquestre a donc été confirmé et la juge de paix
+a refusé d’ordonner la fourniture de sûretés de la part des intimées.
+3.
+Par acte du 16 avril 2020, V.________ a recouru
+contre ce prononcé, concluant, avec suite de frais et dépens, principalement à sa réforme
+en ce sens que l’opposition au séquestre est admise, que les ordonnances de séquestre
+du 3 décembre 2019 sont annulées et que les frais de première instance sont mis à
+la charge des intimées, subsidiairement à ce que les intimées soient astreintes à
+verser la somme de 1'000'000 fr. à titre de sûretés, et plus subsidiairement à l’annulation
+du prononcé et au renvoi de la cause en première instance pour nouvelle décision dans
+le sens des considérants. A l’appui de son recours, elle a produit un onglet de neuf pièces
+sous bordereau, dont six sont nouvelles (pièces 4 à 9).
+Dans leur réponse du 25 mai 2020, les intimées ont conclu, sous suite de frais et dépens,
+au rejet du recours, à ce que les pièces nouvelles de la recourante soient déclarées
+irrecevables et, subsidiairement, à ce que celles qu’elles produisaient elles-mêmes,
+soit les pièces 16 à 21, toutes nouvelles, soient déclarées recevables. La pièce
+20 consiste en un « Register of directors and officers of X.________LP GP LTD ».
+Dans la liste figure O.________. La pièce 21, « Written resolutions of the Board of Directors
+(…) of the company », comporte la ratification, par trois des quatre directeurs de la
+société X.________LP, des actes accomplis par O.________ en son nom.
+Le 11 juin 2020, la recourante s’est spontanément déterminée sur la réponse
+des intimées. Le 24 juin 2020, les intimées ont pris position sur ces déterminations.
+Les parties ont encore chacune déposé des écritures en date des 3 et 8 juillet 2020.
+En droit
+:
+I.
+a)
+Conformément à l'art. 278 al. 3 LP,
+la décision du juge du séquestre statuant sur opposition peut faire l’objet d’un
+recours au sens des art. 319 ss CPC (Code de procédure civile ; RS 272).
+En
+l'espèce, le recours a été déposé dans les formes requises et en temps utile
+(art. 321 al. 1 et 2 CPC), de sorte qu'il est recevable.
+Il
+en va de même de la réponse des intimées (art. 322 CPC).
+Les
+écritures ultérieures sont également recevables en application du droit de réplique
+spontanée des parties (ATF 142 III 48 consid. 4.1.1).
+b)
+aa)
+En matière d'opposition au séquestre,
+les parties peuvent alléguer des faits nouveaux (art. 278 al. 3 LP). Cette disposition déroge
+à l'art. 326 al. 1 CPC et permet aux parties à un recours contre une décision sur
+opposition au séquestre d'alléguer des faits nouveaux et de produire des pièces nouvelles.
+Les vrais nova sont recevables sans restriction et les pseudo-nova aux conditions de l’art. 317
+al. 1 CPC appliqué par analogie (ATF 145 III 324 consid. 6, JdT 2019 II 275) ; il faut donc
+que la partie qui les invoque ou les produit établisse qu’ils ne pouvaient l'être devant
+la première instance bien qu’elle ait fait preuve de la dili-gence requise (CPF 19 mai 2020/130).
+Toutefois, selon l’art. 327a CPC, lorsque le recours est dirigé contre une décision du
+tribunal de l'exécution au sens des art. 38 à 52 CL 2007, le tribunal examine avec un plein
+pouvoir de cognition les motifs de refus prévus par la convention. Il en découle que les pièces
+nouvelles sont recevables sans restriction aux « vrais nova », dans la mesure où
+elles ont trait aux conditions de l'exequatur (CPF 27 juillet 2016/235 ; CPF 23 février 2012/36
+et réf. cit. ; CPF 22 juin 2012/182). Il faut rappeler que, dans le système de la Convention
+de Lugano 2007, lorsque le recours est dirigé contre une décision du tribunal de l'exécution
+au sens des art. 38 à 52 CL 2007, la décision constatant le caractère exécutoire
+est rendue en première instance sans examen des moyens tirés des art. 34 et 35 (art. 41
+CL 2007), ce qui explique que l'instance de recours devant laquelle il peut faire valoir son point de
+vue pour la première fois dispose d'un pouvoir de cognition complet, en dérogation au régime
+prévu par l'art. 326 CPC pour le recours (Jeandin, in Bohnet/Haldy/Jeandin/Schweizer/Tappy (éd.),
+Code de procédure civile commenté, n. 6 ad art. 327a CPC).
+La
+production d'expertises juridiques ou d'avis de droit destinés à étayer l'argumentation
+juridique d'une partie n'est pas davantage visée par l'interdiction des
+nova
+,
+mais doit être faite dans le délai de recours ou d'appel (TF 4A_303/2018 du 17 octobre
+2018 consid. 3.2).
+De
+même, s
+i le fait nouveau invoqué consiste
+en une règle de droit ou une jurisprudence, il doit, en vertu du principe jura novit curia, qui
+s'applique également au droit étranger en vertu de certaines dispositions légales, pouvoir
+être invoqué et produit à n’importe quel stade de la procédure (Schweizer,
+in Bohnet et al., Code de procédure civile commenté, Bâle 2011, n. 16 ad art. 150 CPC),
+c’est-à-dire également en deuxième instance mais dans le délai de recours ou
+d’appel, ou de réponse.
+bb)
+En l'espèce, la recourante produit pour la première fois devant l'autorité de céans
+trois décisions kazakhes, du 12 mars 2018, du 4 juillet 2018 et du 28 décembre 2017, ainsi
+que leur traduction française (pièces 4 à 9). Dans son recours, elle invoque le défaut
+de légitimation active des sociétés. Elle allègue en particulier que les deux autres
+sociétés qui apparaissent en qualité de demanderesses dans le jugement du 17 octobre
+2019 ont cédé leur prétention à l'une des intimées, mais que cette cession a
+été annulée par les tribunaux kazakhs (pièces 4 et 5) et que T.________JSC a été
+déclarée en faillite (pièces 8 et 9). Faute pour ces faits et pièces d'avoir trait
+aux conditions de l'exequatur, plus particulièrement aux motifs de refus de l'exequatur prévus
+aux art. 34, 35 et 45 al. 1 CL 2007 (ATF 138 III 82 consid. 3.5.3, JdT 2012 II 470 ; CPF 27 juillet
+2016/235 et les réf. citées ; Jeandin, op. cit., n. 5 ad art. 327a CPC), ils ne sont admissibles
+qu'aux conditions de l'art. 317 al. 1 CPC. Or, ces preuves ne concernent pas des faits qui se sont produits
+depuis la décision du juge de paix, et on ne voit pas en quoi la recourante aurait été
+empêchée de les produire en première instance. Par conséquent, les pièces 4
+à 9 sont irrecevables.
+Il
+en va de même pour les faits invoqués par les intimées à ce sujet et les pièces
+qu'elles produisent à leur appui (pièces 16 et 17) dans leur réponse.
+S'agissant
+des pièces 18 et 19 produites pour la première fois en deuxième instance par les intimées,
+il s'agit d'un avis de droit de deux avocats anglais et d'un extrait du code de procédure civile
+anglais. Ces pièces sont recevables, dès lors qu’elles ont été introduites
+dans le délai de réponse.
+Quant
+aux deux autres pièces nouvelles (pièces 20 et 21) que les intimées produisent à
+l'appui de leur réponse au recours, elles répondent à des arguments que la recourante
+fait pour la première fois valoir en deuxième instance, et qui eux-mêmes ne reposent sur
+aucune pièce nouvelle. On se trouve dès lors en présence de faux nova, dont la production
+est admise, du fait que leur non-invocation en première instance résulte du comportement procédural
+de l'adverse partie (TF 5A_621/2012 du 20 mars 2013 consid. 5.4).
+II.
+a) aa)
+La recourante soutient tout d'abord que
+le premier juge aurait dû déclarer la requête de séquestre irrecevable, faute de
+légitimation active. Elle fait valoir que, dans le jugement invoqué comme titre de mainlevée
+justifiant le cas de séquestre, figurent deux autres sociétés en plus des intimées.
+Or, il n'est pas établi que ces dernières peuvent agir sans le concours des premières.
+En outre, les deux sociétés auraient vendu leur droit d'action à l'intimée Z.________PLC,
+cession annulée par un tribunal kazakh pour cause de faillite de l'une des deux sociétés.
+De plus, la faillite de la société T.________JSC aurait également été prononcée.
+Les intimées invoquent l'irrecevabilité de ce moyen, au motif qu'il ne repose pas sur des allégués
+dûment introduits en procédure et qu'il n'avait pas été invoqué en première
+instance. Sur le fond, elles font valoir que les contrats de cession auraient « fusionné »
+selon le droit anglais avec le jugement postérieur du 28 février 2018, de sorte que ces
+contrats de cession auraient cessé d'exister et ne pouvaient pas fonder de nouvelles procédures,
+comme les trois jugements kazakhs censés les annuler. Elles invoquent également le fait qu'en
+tout état de la cause, les contrats de cession étant soumis à la juridiction exclusive
+des tribunaux anglais, les tribunaux kazakhs n'étaient pas compétents pour se prononcer sur
+leur validité. S'agissant des deux sociétés qui apparaissent également sur le jugement
+en qualité de parties, elles se fondent sur un avis de droit, selon lequel il y a lieu de distinguer
+entre être partie ou être demanderesse dans la procédure. Or, les deux sociétés
+étaient seulement parties à la procédure, et non pas demanderesses. Les intimées
+produisent enfin des décisions en justice pour démontrer que la faillite de T.________JSC aurait
+été annulée le 10 octobre 2018.
+bb)
+Selon le droit matériel, la qualité
+pour agir est un fait implicite, soit un fait qui est contenu, sans aucun doute, dans un autre allégué
+expressément invoqué (ATF 48 II 347 consid. 4 p. 356; arrêts 4A_283/2008 du 12 septembre
+2008 consid. 6, non publié in ATF 134 III 541; 5C.26/1991 du 30 septembre 1991 consid. 2 et
+3, publiés in RFJ 1992 p. 71; Max Kummer, in Berner Kommentar, 1962, n° 44-45 ad art. 8 CC;
+Fabienne Hohl, procédure civile, Tome I, 2
+e
+éd., 2016, n. 1238 ss). Le fardeau de l'allégation et le fardeau de la preuve de ce fait n'incombe
+à la partie demanderesse que lorsque sa partie adverse l'a contesté (Hohl, op. cit., n. 1239
+s. et 1594 ss; KUMMER, op. cit., n° 46 ad art. 8 CC). Ainsi, ce n'est que si le défendeur conteste
+la qualité pour agir du demandeur, que celui-ci supporte le fardeau de l'allégation et le fardeau
+de la preuve: il lui appartient alors d'alléguer et d'offrir les moyens de preuve nécessaires
+pour établir l'existence de celle-ci (HOHL, op. cit., n. 1594 ss et 1238 ss).
+Dans
+les procès soumis à la maxime des débats (art. 55 al. 1 CPC), la contestation d'un fait
+implicite, comme toute contestation de faits, doit intervenir dans la réponse (art. 222 al. 2, 2
+ème
+phrase, CPC), voire, s'il n'y a pas de second échange d'écritures ni de débats d'instruction,
+au début des débats principaux (art. 229 al. 2 CPC). A défaut de contestation,
+le fait implicite est censé admis (art. 150 al. 1 CPC; ATF 111 II 156 consid. 1b). Le
+défendeur qui n'a pas contesté en temps utile la qualité pour agir du demandeur ne peut
+donc pas réparer son omission en recours; aucun fait nouveau ni aucune preuve nouvelle ne peut en
+principe rendre excusable cette omission (art. 317 al. 1 let. b CPC; TF 4A_404/2016 du 7 décembre
+2016 consid. 2.2).
+Si
+l’autorité de recours n’est pas tenue de procéder à des recherches étendues
+en fait, elle doit constater d’office les faits lorsque, sur la base des allégations des parties
+ou de faits notoires, il existe des éléments suffisants pour permettre de penser qu’une
+condition de recevabilité n’est pas réalisée (TF 4A_100/2016 du 13 juillet 2016
+consid. 2.1.1, non publié à ATF 142 III 515 : commination de faillite contre une partie, qui
+aurait dû conduire le Tribunal à faire produire un extrait du RC susceptible de faire tomber
+la cause dans la compétence du tribunal de commerce). Le fait que le juge doive examiner d'office
+les conditions de recevabilité ne dispense pas les parties du fardeau de la preuve, ni du devoir
+de collaborer activement à la preuve en soumettant au juge les faits et moyens de preuve pertinents.
+La partie demanderesse doit ainsi exposer les faits et moyens de preuve qui fondent la recevabilité
+de son action et la partie défenderesse ceux qui s'y opposent. Dans un litige dominé par la
+maxime des débats, il n'incombe pas au tribunal de rechercher lui-même les faits qui fondent
+la recevabilité de l'action (ATF 139 III 278 consid. 4.3, JdT 2014 II 337 ; ATF 141 III 294
+consid. 6.2).
+En
+l'espèce, la question de savoir si la jurisprudence précitée du Tribunal fédéral
+(TF 4A_404/2016) s'applique aussi en procédure sommaire, où les parties ne sont pas soumises
+à l'obligation d'alléguer les faits de manières strictes comme en procédure ordinaire,
+peut souffrir de demeurer indécise. En effet, en toute hypothèse, l'argumentation de la recourante
+se fonde sur des pièces nouvelles qui, on l'a vu, sont irrecevables. Il s'ensuit que ses allégations,
+faute de fondements, ne peuvent être retenues. Au demeurant, elle n'a pas contesté en première
+instance la légitimation des intimées, quand bien même les intimées ont produit un
+« Order » du 17 octobre 2019 (pièce 14), duquel il ressort qu'il est rendu
+« upon the application of the First, Second, Third and Fourth Claimants », soit selon
+la traduction figurant au dossier, « sur requête des premier, deuxième, troisième
+et quatrième demandeurs », qui sont les intimées. Sur cette base et faute de moyens
+soulevés à son encontre par la recourante en première instance, la première juge
+n'avait aucune raison de remettre en cause leur légitimation active et la recourante est forclose
+à invoquer cet argument devant la cour de céans.
+Au
+surplus, si les pièces déclarées irrecevables étaient prises en considération,
+on constaterait encore qu'au moment où le jugement litigieux a été rendu, soit le 8 octobre
+2019, la cession déployait ses effets et que T.________JSC n'était pas en faillite. En effet,
+selon l'expertise produite par les intimées (pièce 17), le contrat de cession contenait une
+clause prévoyant la compétence exclusive des tribunaux anglais, de sorte que les tribunaux
+kazakhs n'avaient pas la compétence d'annuler la transaction. Au demeurant, en vertu du principe
+de la fusion du droit anglais, également développé dans l’expertise produite par
+les intimées (pièce 18), lorsqu'un jugement est rendu au sujet d'une « cause of action »,
+la cause d'action en question cesse d'exister, fusionnant avec le jugement ultérieur. Or, en l'espèce,
+la cession aurait cessé d'exister suite au jugement du 28 février 2018, la titularité
+de Z.________PLC pour la créance en cause ne découlant plus que de ce dernier jugement. S'agissant
+de T.________JSC, sa faillite a été annulée par la Cour suprême du Kazakhstan le
+10 octobre 2018. De plus, selon l'avis de droit produit par les intimées, cette société
+figure dans les registres officiels, lesquels indiquent qu'elle est en règle, y est enregistrée
+en tant qu'entité juridique, ne fait pas l'objet d'une procédure de faillite et n'a pas été
+liquidée.
+b)
+aa)
+La recourante soutient ensuite que la requête
+aurait dû être déclarée irrecevable car les procurations produites en faveur du conseil
+des intimées étaient signées par O.________, directeur de X.________LP, société
+à qui les intimées avaient donné mandat pour agir en leur nom. Or, il n'y aurait selon
+elle aucune preuve au dossier qu’O.________ disposait de pouvoirs pour représenter X.________LP.
+De plus, le mandat donné à cette société serait antérieur au jugement litigieux
+et ne pourrait donc s'appliquer à la présente procédure de séquestre.
+Les
+intimées font valoir que ce mandat valait pour toutes les procédures d'exécution connexes
+au jugement rendu contre les CEO et CFO et s'appliquerait bien à la présente procédure.
+En ce qui concerne les pouvoirs d’O.________, elles ont produit des pièces nouvelles 20 et
+21 attestant de sa position et de la ratification de ses actes par les autres organes de X.________LP.
+bb)
+Selon l'art. 132 al. 1 CPC, le tribunal fixe un
+délai pour la rectification des vices de forme telle l'absence de signature ou de procuration. A
+défaut, l'acte n'est pas pris en considération. La fixation d'un délai n'est possible
+que si l'oubli est réparable, ce qui n'est le cas qu'en présence d'omission involontaire (TF 5A_822/2014
+du 4 mai 2015 consid. 2).
+Conformément
+à cet article, lorsqu'une partie invoque l'absence de pouvoirs pour agir d'un représentant
+de la partie adverse, ce représentant doit se voir fixer un délai pour établir la réalité
+de ses pouvoirs. Comme mentionné ci-dessus, les pièces 20 et 21 des intimées sont donc
+recevables.
+Il
+ressort du dossier que l' « Order » du 1
+er
+août 2018 (pièce 7) est une autorisation donnée par le juge anglais à la société
+X.________LP, d'agir au nom des sociétés intimées afin de « take over sole conduct
+of all negotiations and proceedings in connection with the enforcement of the Order of Picken J dated
+28 February 2018 in claim number CL-2013-00683 (…) and any other judgments entered against the
+defendants to the said proceedings » (ch. 1 du dispositif de l' « Order »).
+Il constate en effet au chiffre 2 de son dispositif que la société X.________LP, « has
+been validly appointed as the Defendants' attorney to act in the names and on behalf of the Defendants
+or any of them in connection with the said negotiations and proceedings (…) ».
+En
+outre, le jugement litigieux a bien été rendu dans le cadre de la vaste procédure CL-2013-000683
+dont il porte la référence (cf. pièces 2 et 14 du dossier, jugements des 8 et 17 octobre
+2019, portant tous deux, à titre de « n
+o
+d'affaire »,
+la référence CL-2013-000683). En conséquence, X.________LP a bien reçu mandat pour
+faire exécuter (« enforcement ») ce jugement et était légitimée
+à signer les procurations des avocats mandatés pour ouvrir action devant les juridictions helvétiques.
+Reste
+encore à analyser la question soulevée par la recourante au sujet de la légitimation d’O.________
+d'agir au nom de X.________LP. Or, celle-ci est établie par les pièces 20 et 21 produites par
+les intimées avec leur réponse, lesquelles établissent qu’O.________ est bien directeur
+de la société X.________LP (pièce 20) et qu'il a signé au nom de cette dernière
+les procurations des avocates agissant devant les tribunaux suisses en sa qualité d'administrateur
+(pièce 21, ch. 2.2). En outre, il importe peu finalement de savoir s'il était autorisé
+à représenter, par sa seule signature, la société X.________LP, puisqu'il ressort
+de cette dernière pièce, soit la « Written resolutions of the Board of Directors
+(…) of the company » (pièce 21), que trois des quatre directeurs de la société
+ont ratifié le 17 janvier 2020 les actes accomplis par O.________ au nom de cette dernière.
+De jurisprudence constante en effet, peu importe qu'au moment du dépôt du recours les signataires
+aient disposé des pouvoirs de représentation et aient seulement omis d'en justifier par une
+procuration, ou qu'ils n'aient pas disposé des pouvoirs à ce moment-là mais que par la
+suite, la partie représentée ait ratifié leur acte, ce qui fait rétroagir la ratification
+au moment auquel le représentant a agi (TF 5A_822/2014 du 4 mai 2014 consid. 2). Il en découle
+que la requête a valablement été introduite par les intimées, dûment représentées
+par la société X.________LP, agissant par l'intermédiaire de son directeur O.________.
+c)
+aa)
+La recourante soutient enfin que la juge de paix aurait dû déclarer la requête irrecevable
+car adressée à une autorité incompétente, la justice de paix. Elle fait valoir qu'il
+n'existe aucun devoir de transmission au juge compétent de la requête, sauf s'il s'agit d'une
+inadvertance. En l'espèce, les intimées auraient bien, par erreur, voulu soumettre leur requête
+à la justice de paix.
+Les
+intimées rappellent que leur requête cite la bonne disposition légale désignant le
+juge de paix et que la mention de la justice de paix doit être comprise comme une appellation « générique ».
+Elles observent que, selon la jurisprudence cantonale constante, la transmission s'impose car il s'agit
+d'un vice mineur.
+bb)
+Selon l'art. 59 al. 1 et 2 let. b CPC, après
+avoir vérifié d'office si les conditions de recevabilité sont remplies (art. 60 CPC),
+le tribunal n'entre pas en matière s'il n'est pas compétent à raison de la matière
+ou du lieu. La sanction de l'incompétence du juge saisi est donc, en principe, l'irrecevabilité
+de la demande, sans possibilité de transmission de la cause devant l'autorité compétente.
+L'art. 63 al. 1 CPC dispose que, si l'acte introductif d'instance retiré ou déclaré
+irrecevable pour cause d'incompétence est réintroduit dans le mois qui suit le retrait ou la
+déclaration d'irrecevabilité devant le tribunal ou l'autorité de conciliation compétent,
+l'instance est réputée introduite à la date du premier dépôt de l'acte. Certains
+auteurs en déduisent que la transmission d'office de l'acte n'a ainsi pas été voulue en
+première instance et qu'il s'agirait d'un silence qualifié du législateur (Bohnet, CPC
+commenté, n
+o
+29 ad art. 63). D'autres auteurs sont favorables à la transmission de la cause s'il s'agit du choix
+de l'autorité collégiale ou du juge unique (Zürcher, ZPO-Komm, n. 17 ad art. 59). Bohnet
+admet également que l'acte, qui est adressé au bon tribunal mais au mauvais juge ou à
+la mauvaise cour, est revêtu d'un vice de forme mineur (ATF 118 Ia 241, JT 1995 I 538) et doit être
+traité par le tribunal compétent (ibidem).
+La
+Cour d'appel civile vaudoise a jugé qu'il y avait lieu de transmettre d'office la cause lorsque
+le plaideur avait saisi le président du tribunal au lieu du tribunal d'arrondissement (CACI 5 septembre
+2011/236 consid. 3b), ou inversement le tribunal d'arrondissement plutôt que son président
+(CACI 10 novembre 2014/581 consid. 3c ; 7 mai 2013/242 consid. 3.2).
+cc)
+En l'espèce, il y a lieu de suivre la jurisprudence
+de la CACI et de considérer que la juge de paix s'est à juste titre saisie de la requête
+adressée à la justice de paix. Au demeurant, même si elle ne l'avait pas fait, la juge
+de paix aurait alors dû prononcer un déclinatoire, et impartir un délai aux intimées
+pour déposer leur requête devant l'autorité compétente, de sorte que le résultat
+final serait identique.
+III.
+a)
+La recourante invoque une violation de son
+droit d'être entendue, au motif que la juge de paix n'a pas traité son grief relatif à
+la reconnaissance du caractère exécutoire du jugement du 17 octobre 2019, retenant que ces
+moyens n'avaient pas à être examinés au stade du séquestre.
+Les intimées relèvent quant à elles que l'art. 41 CL exclut précisément cet
+examen, reporté au recours éventuel.
+b)
+Selon l'art. 41 CL, la décision est
+déclarée exécutoire dès l’achèvement
+des formalités prévues à l’art. 53 CL, sans examen au titre des art. 34 et 35 CL.
+La partie contre laquelle l’exécution est demandée ne peut, en cet état de la procédure,
+présenter d’observations. L’autorité de recours peut, elle, refuser la force exécutoire
+pour l’un des motifs prévus aux art. 34 et 35 CL (art. 45 ch. 1 CL). Cette manière de
+procéder va de pair avec le fait que le juge du séquestre statue sur la base de la vraisemblance
+de l’existence d’un titre de mainlevée définitive.
+c)
+En
+l’espèce, la première juge a, certes très brièvement, exposé les arguments
+de la recourante, avant de préciser qu’ils n’avaient pas à être examinés
+au stade du séquestre. Elle a également relevé qu’en toute hypothèse, ils n’étaient
+pas propres à remettre en cause le caractère vraisemblable du cas de séquestre. Il n’y
+a donc, effectivement, aucune violation du droit d’être entendu de la recourante.
+IV.
+a)
+La
+recourante soutient que le jugement litigieux
+ne devrait pas être déclaré exécutoire, car il serait contraire à l’ordre
+public pour divers motifs.
+Tout d’abord, il violerait l’indépendance juridique des personnes en condamnant l’intimée
+à payer des dépens dus par une partie à un procès qui ne la concernait en rien ;
+elle n’aurait ainsi jamais eu l’occasion de faire valoir le caractère exorbitant de
+ces dépens. Le jugement serait ensuite contraire à nos valeurs fondamentales que seraient les
+conditions de la responsabilité délictuelle, dans laquelle le principe de l’art. 106
+CPC trouve son fondement. En laissant la décision à la seule appréciation du juge,
+soit à l’arbitraire, les conditions générales de la responsabilité civile,
+que sont l’acte illicite, la faute et la causalité notamment, ne sont en effet pas respectées.
+La recourante se plaint également d’avoir été condamnée « sans avertissement »
+qu’une telle possibilité existait, soit qu’elle puisse être astreinte au paiement
+des dépens, fixés arbitrairement par le juge dans une procédure à laquelle elle n’était
+pas partie. Enfin, le jugement ne prévoyant aucune voie de recours, il ne pourrait pas être
+reconnu.
+Les intimées répondent que la recourante a été entendue avant que la décision
+litigieuse (cf. pièces 2 et 9) ne soit prise et qu’elle aurait pu faire valoir tout moyen
+qu’elle souhaitait, en particulier sur le montant des dépens. Cette somme ne représentait
+au demeurant que quelque 3.2 % du capital détourné par les CEO et CFO de sorte que, conformément
+à la jurisprudence fédérale suisse, elle n’avait rien d’exorbitant. Elles
+font valoir que le droit de la responsabilité civile et la méthode de calcul des dépens
+ne feraient pas partie de l’ordre public suisse. De plus, il ne suffit pas que le droit anglais
+diffère du droit suisse pour violer l’ordre public, violation que la recourante n’aurait
+du reste pas établie en l’espèce. Le droit suisse connait aussi la libre appréciation
+du juge. Le juge anglais avait néanmoins minutieusement examiné toutes sortes de critères,
+parmi lesquelles l’absence d’avertissement, avant de rendre sa décision qui ne pouvait
+donc pas être qualifiée d’arbitraire. Les voies de droit étaient prévues par
+la loi, le « candidat à l’appel » devant demander au juge l’autorisation
+de recourir, et il ressortait du jugement litigieux que la recourante avait précisément demandé
+cette autorisation qui lui avait été refusée. Selon l’avis de droit anglais (cf.
+pièce 19, art. 52.3), elle aurait pu, ensuite, demander l’autorisation directement à
+la Cour d’appel.
+b)
+L’art. 34 ch. 1 CL dispose qu’une
+décision n’est pas reconnue si la reconnaissance est manifestement contraire à l’ordre
+public de l’Etat requis. La clause d’ordre public a une fonction essentiellement négative ;
+elle permet au juge d’exclure l’application du droit étranger, lorsqu’elle heurterait
+de manière intolérable le sentiment du droit tel qu’il existe généralement
+en Suisse et violerait les règles fondamentales de l’ordre juridique suisse, ce qui n’est
+pas déjà le cas lorsque la règle étrangère est contraire à une disposition
+impérative de droit suisse (ATF 97 I 250 consid. 6a ; ATF 96 I 387 consid. 3 et 397 consid.
+4 ; ATF 93 II 379 consid. 4a ; ATF 87 I 191 consid. 1 ; Bucher, commentaire romand LDIP/CL,
+n. 6 ad art. 34 CL).
+Selon
+la jurisprudence du Tribunal fédéral, la notion d’incompatibilité avec l’ordre
+public suisse doit recevoir en matière d’exécution de jugements étrangers, une interprétation
+plus étroite que lorsqu’il s’agit de l’application directe de la loi étrangère
+par le juge suisse. L’ordre public suisse s’oppose à l’exécution d’un
+jugement étranger lorsque ce jugement va, d’une manière intolérable, à l’encontre
+du sentiment du droit, tel qu’il existe généralement en Suisse, et viole les règles
+fondamentales de l’ordre juridique suisse (ATF 87 I 191 consid. 1 ; ATF 96 I 387 consid. 3,
+Bucher, op. cit., n. 9 ad art. 34 CL).
+c)
+En l’espèce, le juge anglais a examiné la question du principe de la mise des dépens
+à la charge de la recourante notamment de manière détaillée dans son jugement du
+8 octobre 2019. À la lecture de ce dernier, on constate que la recourante a eu l’occasion
+de s’exprimer, de faire valoir ses droits (en particulier cf. n
+o
+46 let. b, p. 15, qui mentionne la déclaration
+de témoin [pièce n
+o
+9] et les n
+os
+71 ss, pp. 21 ss du jugement [pièce n
+o
+2]) et que le juge anglais a pris en considération ses arguments. Si la recourante n’a pas
+participé à la procédure contre le CEO, elle a ainsi eu l’occasion de présenter
+sa défense dans la procédure ultérieure ayant mené au jugement du 8 octobre 2019,
+soit celui la condamnant au paiement des dépens.
+De
+plus, le juge anglais a détaillé dans son raisonnement les critères d’imputabilité
+des dépens à la recourante, notamment la condition de la causalité. Il a également
+pris en compte le fait que la recourante n’avait pas été avertie du fait qu’elle
+pourrait être amenée à supporter les dépens des avocats des parties adverses (cf. n
+os
+44 et 101 notamment du jugement, pp. 14 et 29, pièce n
+o
+2). Certes, ces critères ne sont pas les mêmes que ceux appliqués en droit suisse, ce
+qui est, somme toute, logique, l’ordre juridique anglais différant du système suisse.
+Toutefois, ce simple fait ne suffit pas à en conclure que le jugement serait contraire à l’ordre
+public suisse, ceci dans la mesure où la principale condition d’imputation, soit avoir financé
+le procès, relève d’une logique accessible aux juristes suisses, et non de critères
+irrationnels, comme une ordalie. Il est vrai également que, dans l’absolu, le montant des
+dépens réclamé est important. Toutefois, remis dans son contexte, sur le vu du capital
+en jeu, il apparaît comme tout à fait raisonnable. Conformément à la jurisprudence
+du Tribunal fédéral (cf. not. 5A_409/2014 du 15 septembre 2014 consid. 7.2.2.2 et
+7.3 et les références citées), il y a dès lors lieu de retenir que le montant des
+dépens ne justifie pas, en l’occurrence, de refuser l’exécution du jugement anglais.
+Enfin, il ressort de l’ « Order » du 17 octobre 2019 (pièce n
+o
+14) que la recourante, qui était assistée d’un avocat, a su demander l’autorisation
+de faire appel, autorisation qui lui a certes été refusée, mais qui démontre bien
+qu’elle n’a pas été privée de ses droits élémentaires de partie
+et qu’elle a été en mesure de les exercer.
+En
+conclusion, la force exécutoire du jugement litigieux ne saurait être déniée au motif
+qu’il serait contraire à l’ordre public. Le grief soulevé par la recourante sur
+ce point doit donc être rejeté.
+V.
+a)
+La recourante, pour le cas où le séquestre
+serait maintenu, demande que les intimées soient astreintes au paiement de sûretés. Elle
+fait valoir qu’elle a « perdu toute possibilité d’agir » sur
+les actifs séquestrés, en particulier sur les avoirs bancaires exposés aux fluctuations
+de la bourse en ces temps d’instabilité.
+Les intimées font valoir quant à elles que, selon le Message du Conseil fédéral (Message
+du Conseil fédéral du 18 février 2009 relatif à l’arrêté fédéral
+portant approbation et mise en œuvre de la Convention de Lugano révisée concernant la
+compétence judiciaire, la reconnaissance et l’exécution des décisions en matière
+civile et commerciale, FF 2009 1497 p. 1533), le cas de séquestre de l’art. 271 al. 1 ch.
+6 LP n’est pas soumis à sûretés.
+b)
+Le créancier d’une dette échue et non garantie par gage peut requérir le séquestre
+des biens du débiteur qui se trouvent en Suisse lorsque le créancier possède contre le
+débiteur un titre de mainlevée définitive (art. 271 al. 1 ch. 6 LP). En vertu de
+l'art. 273 al. 1 LP, le créancier répond du dommage qu'un séquestre injustifié peut
+causer tant au débiteur qu'aux tiers ; le juge peut l'astreindre à fournir des sûretés.
+Le juge du séquestre astreindra le créancier à fournir des sûretés lorsque la
+créance ou le cas de séquestre sont douteux (TF 5A_807/2016 du 22 mars 2017 consid. 5.1 ; TF
+5A_165/2010 du 10 mai 2010 ; ATF 112 III 112 consid. 2a), autrement dit lorsqu'il ne peut pas exclure
+que les faits qu'il a retenus au stade de la vraisemblance soient autres ou qu'un examen approfondi conduise
+à une autre solution juridique que celle dictée par un examen sommaire (Gilliéron, op.
+cit., nn. 27 et 37 ad art. 273 LP). Le montant des sûretés dépend du dommage éventuel
+dont est menacé le débiteur en cas de séquestre injustifié (ATF 113 III 94 consid. 12 ;
+ATF 93 I 278 consid. 5b ; Gilliéron, op. cit., n. 36 ad art. 273 LP). Le dommage découle de
+l'indisponibilité frappant les biens séquestrés (TF 5A_165/2010 du 10 mai 2010 consid.
+2.3.2). Il dépend ainsi de l’importance de la créance à la base du séquestre
+et de l’importance qu’ont les biens séquestrés pour le débiteur ou le tiers.
+Parmi les éléments pertinents pour apprécier ce dommage éventuel figurent notamment,
+la durée prévisible du procès en validation de séquestre, ainsi que les intérêts
+– équivalant en principe à deux années – des emprunts que le débiteur
+(ou le tiers) a contractés pour pallier la privation de ses avoirs (TF 5A_757/2010 précité
+consid. 2.2 ; TF 5A_165/2010 précité consid. 2.3.3).
+Il
+incombe au débiteur qui requiert des sûretés d’établir les éléments
+du dommage auquel l’expose l’indisponibilité de ses avoirs (TF 5A_757/2010 du 20 avril
+2011 consid. 3.2.2). L’autorité de séquestre – et l’autorité de recours
+– apprécient librement s’il se justifie d’imposer ou d’augmenter une garantie
+(ATF 112 III 112 consid. 2c).
+Les intérêts du créancier doivent également être pris en compte dans l’évaluation
+générale, au même titre que ceux du débiteur. Lorsque les conditions du séquestre
+sont remplies, le créancier a droit à obtenir cette mesure. Ce droit ne doit pas être
+rendu illusoire par l’astreinte à fournir des sûretés excessives (Stoffel/Chabloz,
+in Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite, nn. 22 à
+25 ad art. 273 LP ; CPF 22 mars 2019/80 ; CPF 28 septembre 2015/276 ; CPF 9 mai 2014/174).
+D’après le Tribunal fédéral et la doctrine, il n’y a pas lieu d’imposer
+des sûretés lorsque le créancier peut se fonder sur un jugement exécutoire (TF 5A_228/2017
+du 26 juin 2017 consid. 3.5 ; TF 5A_165/2010 du 10 mai 2019 consid. 2.3.1 ; Kren Kostkiewicz,
+Schuldbetreibungs- und Konkursrecht, 3
+e
+éd., 2018, n
+o
+1644
+p. 460 et les réf. cit. ; Stoffel/Chabloz, Voies d’exécution, poursuite pour dettes,
+exécution de jugements et faillite en droit suisse, 3
+e
+éd., §8 n. 154). Tel est en particulier le cas lorsque le créancier se prévaut
+d’un jugement « Convention de Lugano » (Jeandin, Pont de la situation sur le
+séquestre à la lumière de la Convention de Lugano, in SJ 2017 II 27ss, spéc. p. 39 ;
+Boller, Der neue Arrestgrund von Art. 271 Abs. 1 Ziff. 6 revSchKG, p. 194).
+c)
+En l’occurrence, les intimées n’ont, à juste titre, pas été astreintes
+à fournir des sûretés. En effet, non seulement le cas de séquestre de l’art.
+271 al. 1 ch. 6 LP l’exclut mais en toute hypothèse, la recourante n’expose aucunement
+dans son recours en quoi les conditions posées par l’art. 273 al. 1 LP seraient actuellement
+remplies. En particulier, elle n’indique pas, ni ne rend même vraisemblables, les éléments
+du dommage auquel l’exposerait l’indisponibilité actuelle de ses avoirs. Or, il lui
+incombait de les établir. En outre, le cas de séquestre se fonde sur un jugement anglais qui
+a été reconnu exécutoire, de sorte que ni la créance, ni le cas de séquestre
+n’apparaissent comme fortement douteux au sens de l’art. 273 LP.
+La
+requête de constitution de sûretés formée par la recourante doit dès lors être
+rejetée.
+VI.
+En conclusion, le recours
+doit être rejeté et le prononcé de la première juge rejetant l’opposition au
+séquestre litigieux doit être confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 3’000 fr., doivent être
+mis à la charge de la recourante (art. 106 al. 1 CPC).
+Les intimées ont droit, solidairement entre elles, à des dépens de deuxième instance,
+qui peuvent être fixés à 8'000 fr. (art. 8 TDC [Tarif des dépens en matière
+civile ; BLV 270.11.3]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le prononcé est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 3'000 fr. (trois mille francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante V.________ doit payer aux intimées Z.________PLC, T.________JSC, S.________LLP, L.________LLP,
+solidairement entre elles, la somme de 8'000 fr. (huit mille francs) à titre de dépens de deuxième
+instance.
+V.
+L'arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Freymond, pour Mme V.________,
+‑
+Mes Aurélie Conrad Hari et Claire Tistounet, pour Z.________PLC, T.________JSC, S.________LLP, L.________LLP.
+La Cour des poursuites et faillites considère que la valeur litigieuse est de 10'258'439 fr. 60.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe (art. 74 LTF). Ces recours doivent être déposés
+devant le Tribunal fédéral dans les trente jours qui suivent la présente notification
+(art. 100  al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district d’Aigle.
+La greffière :
