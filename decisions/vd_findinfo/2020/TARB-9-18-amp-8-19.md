@@ -1,0 +1,121 @@
+---
+decision_id: "vd_findinfo_TARB_9_18__amp__8_19"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+chamber: "TARB"
+docket: "TARB 9/18 &amp; 8/19"
+decided: "2020-07-27"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/TARB/Jug/20200728164506942_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-241.md"]
+---
+
+# VD Findinfo TARB 9/18 &amp; 8/19
+
+## Regeste
+
+RADIATION DU RÔLE, TRANSACTION JUDICIAIRE, JONCTION DE CAUSES | 109 LPA-VD, 116 LPA-VD, 82 LPA-VD, 94 al. 1 let. c LPA-VD, 241 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Tribunal arbitral 27.07.2020 TARB 9/18 & 8/19
+
+RADIATION DU RÔLE, TRANSACTION JUDICIAIRE, JONCTION DE CAUSES | 109 LPA-VD, 116 LPA-VD, 82 LPA-VD, 94 al. 1 let. c LPA-VD, 241 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+TARB
+9/18 & 8/19 - 6 / 2020 ZK19.030316
+TRIBUNAL
+ARBITRAL DES ASSURANCES
+__________________________________________________
+Jugement du
+27 juillet 2020
+__________________
+Composition
+:               M.
+Métral
+,
+président
+Greffière
+:              Mme
+Tedeschi
+*****
+Cause
+pendante entre :
+D.________
+,
+à [...], demanderesses, représentées par Me Valentin Schumacher, avocat à Fribourg,
+et
+X.________
+,
+à [...], défendeur, représenté par Me Antonella Cereghetti Zwahlen, avocate à
+Lausanne.
+_______________
+Art.
+241 CPC ; 82, 94 al. 1 let. c, 109 et 116 LPA-VD.
+E n  f a i t  e t  e n  d r o i t :
+que par acte du 10 juillet 2018, D.________, tous représentés par V.________, ont ouvert contre
+X.________ une action tendant, en substance, au paiement d'un montant de 388'755 fr. pour l'année
+statistique 2016,
+que le Président du Tribunal arbitral des assurances a ouvert une procédure sous le numéro
+de cause T. arb. 9/18 et, avec l'accord des parties, a suspendu cette procédure dès le 20 septembre
+2018,
+que le défendeur a conclu au rejet de la demande par réponse du 8 juillet 2019,
+que, parallèlement, le 5 juillet 2019, D.________, tous représentés par V.________, ont
+ouvert contre X.________, une seconde action tendant, en substance, au paiement d'un montant de 353'858
+fr. pour l'année statistique 2017,
+que le Président du Tribunal arbitral des assurances a ouvert une procédure sous le numéro
+de cause T. arb. 8/19 et, avec l'accord des parties, a suspendu cette procédure dès le 5 septembre
+2019,
+que le 7 mars 2019, il a ordonné la reprise de l'instruction de la cause T. arb. 9/18,
+que le 20 septembre 2019, il a tenu une audience de conciliation dans la cause T. arb. 9/18,
+que les parties ne sont pas parvenues à s'accorder lors de l'audience, mais que la cause T. arb.
+9/18 a été suspendue à l'issue de l'audience pour permettre la poursuite des discussions
+transactionnelles,
+que le 23 juillet 2020, les demanderesses ont produit une transaction signée par les parties et
+datée des 14 et 20 juillet 2020, en demandant de la consigner au procès-verbal pour valoir
+jugement, puis de radier les causes du rôle,
+que la transaction ne paraît violer aucune disposition impérative, de sorte qu'il convient
+d'en prendre acte, de l'annexer au procès-verbal pour valoir jugement et de radier les causes du
+rôle (art. 241 CPC, en relation avec les art. 109 al. 2 et 116 LPA-VD),
+qu'il n'y a pas lieu d'allouer de dépens, conformément à la transaction intervenue entre
+les parties, et qu'il convient de renoncer à la perception de frais de justice,
+que la procédure simplifiée prévue par les art. 82 LPA-VD et 94 al. 1 let. c LPA-VD
+(juge unique), en relation avec les art. 109 al. 1 et 116 LPA-VD, est applicable,
+Par
+ces motifs,
+le
+juge unique
+prononce :
+I.
+Les causes T. arb. 9/18 et T. arb.
+9/19 sont jointes.
+II.
+Il est pris acte de la transaction passée les 14 et 20 juillet 2020 entre D.________
+et X.________ qui sera annexée au procès-verbal pour valoir jugement.
+III.
+Les causes sont radiées du rôle.
+IV.
+Il n'est pas perçu de frais judiciaires, ni alloué de dépens.
+Le
+président :
+La greffière :
+Du
+Le jugement qui précède est notifié à :
+‑
+Me Valentin Schumacher (pour D.________),
+‑
+Me Antonella Cereghetti Zwahlen (pour X.________),
+‑
+Office Fédéral de la Santé Publique (OFSP),
+par
+l'envoi de photocopies.
+Le présent jugement peut faire l'objet d'un recours en matière de
+droit
+public devant le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral ; RS 173.110), cas échéant d'un recours constitutionnel subsidiaire
+au sens des art. 113 ss LTF. Ces recours doivent être déposés devant le Tribunal fédéral
+(Schweizerhofquai 6, 6004 Lucerne) dans les trente jours qui suivent la présente notification (art.
+100 al. 1 LTF).
+La greffière :
