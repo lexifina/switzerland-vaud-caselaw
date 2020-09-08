@@ -1,0 +1,276 @@
+---
+decision_id: "vd_gerichte_254361c4-9c58-4f31-af55-9512d5e621ce"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CAPE"
+docket: "376"
+decided: "2020-09-08"
+published: "2020-10-09"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/254361c4-9c58-4f31-af55-9512d5e621ce"
+cites_decisions: ["1B_81/2020", "1B_87/2018", "BGE 141 I 211", "BGE 143 I 194", "BGE 143 IV 151"]
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-070.md", "switzerland/bund/acts/312.0/art-069.md", "switzerland/bund/acts/312.0/art-070.md"]
+---
+
+# VD Gerichte 376
+
+## Text
+
+TRIBUNAL CANTONAL
+376
+PE19.000742/PCL
+CO UR D’APPEL PENALE
+______________________________
+Séance du 8 septembre 2020
+__________________
+Composition : M. MAILLARD, président
+Mme Fonjallaz et M. Pellet, juges
+Greffière : Mme Jordan
+*****
+Parties à la présente cause :
+MINISTERE PUBLIC, représenté par le Procureur général du canton de
+Vaud, appelant,
+et
+P.________, prévenue, représentée par Me Youri Widmer, défenseur de
+choix à Lutry, intimé,
+J.________, prévenue, représentée par Me Mireille Loroch, défenseur de
+choix à Lausanne, intimée,
+B.________, prévenue, représentée par Me Robert Fox et Me Annie
+Schnitzler, défenseurs de choix à Lausanne, intimée,
+653
+
+- 2 -
+W.________, prévenu, représenté par Me Laïla Batou, défenseur de choix à
+Genève, intimé,
+G.________, prévenu, représenté par Me Antonella Cereghetti et Me
+Raphaël Mahaïm, défenseurs de choix à Lausanne, intimé,
+N.________, prévenu, représenté par Me Charles Munoz, défenseur de choix
+à Yverdon-les-Bains, intimé,
+K.________, prévenue, représentée par Me Olivier Boschetti, défenseur de
+choix à Lausanne, intimée,
+X.________, prévenu, représenté par Me Florian Ducommun et Me David
+Raedler, défenseurs de choix à Lausanne, intimé,
+Q.________, prévenu, représenté par Me Marie-Pomme Moinat, défenseur
+de choix à Lausanne, intimé,
+Z.________, prévenu, représenté par Me Christian Bettex, défenseur de
+choix à Lausanne, intimé,
+R.________, prévenue, représentée par Me Aline Bonard, défenseur de
+choix à Lausanne, intimée,
+T.________, prévenu, représenté par Me Irène Wettstein Martin, défenseur
+de choix à Vevey, intimé,
+F.________ SA, partie plaignante, représenté par Me Miriam Mazou, conseil
+de choix à Lausanne, intimé.
+
+- 3 -
+La Cour d’appel pénale statue à huis clos sur la requête
+formée le 4 septembre 2020 par R.________, par l’intermédiaire de son
+défenseur qui a également déclaré agir au nom de P.________, J.________,
+B.________, G.________, N.________, K.________, X.________, Q.________,
+Z.________, T.________ et W.________, dans le cadre de l’appel interjeté par
+le Procureur général du canton de Vaud contre le jugement rendu le
+13 janvier 2020 par le Tribunal de police de l’arrondissement de Lausanne
+dans la cause les concernant.
+Elle considère :
+En fait :
+A. Par jugement du 13 janvier 2020, le Tribunal de police de
+l'arrondissement de Lausanne a acquitté P.________, J.________, B.________,
+W.________, G.________, N.________, K.________, X.________, Q.________,
+Z.________, R.________ et T.________ des chefs d'accusation de violation de
+domicile et d'infractions à la loi vaudoise sur les contraventions (LContr ;
+BLV 312.11) (I à XII) et a laissé les frais à la charge de l'Etat (XIII).
+B. a) Par annonce du 15 janvier 2020, puis déclaration motivée
+du 6 février 2020, le Ministère public a interjeté appel contre ce jugement,
+concluant à sa réforme en ce sens que P.________ et J.________ sont
+condamnées pour violation de domicile et infraction à la LContr (pour
+violation de l'art. 41 RGP [Règlement général de police de la Commune de
+Lausanne) à 30 jours-amende avec sursis pendant 2 ans, la valeur du jour-
+amende étant fixée à 30 fr., ainsi qu'à une amende de 400 fr., convertible
+en 13 jours de peine privative de liberté de substitution en cas de non-
+paiement fautif dans le délai qui sera imparti, qu’B.________, W.________,
+G.________, N.________, K.________, X.________, Q.________, Z.________,
+R.________ et T.________ sont condamnés pour violation de domicile et
+infraction à la LContr (pour violation des art. 29 et 41 RGP) à 30 jours-
+amende avec sursis pendant 2 ans, la valeur du jour-amende étant fixée à
+
+- 4 -
+30 fr., ainsi qu'à une amende de 600 fr., convertible en 20 jours de peine
+privative de liberté de substitution en cas de non-paiement fautif dans le
+délai qui sera imparti et que les frais de la procédure de première instance
+sont mis à la charge de chacun des prévenus à raison d'un douzième. Le
+Ministère public a en dernier lieu conclu à ce que les frais de la procédure
+d’appel soient également mis à la charge de chacun des prévenus à raison
+d'un douzième.
+Par écritures déposées entre le 16 et le 18 mars 2020, les
+douze prévenus ont indiqué qu'ils n'entendaient pas présenter une
+demande de non-entrée en matière ni déclarer un appel joint.
+b) Au vu du contexte sanitaire actuel, l’Ordre judiciaire
+vaudois (ci-après : OJV) a pris des mesures afin de respecter les
+prescriptions de l’Office fédéral de la santé publique (ci-après : OFSP) et
+garantir une protection maximale à tous ses collaborateurs et usagers. Il a
+entre autres décidé que les audiences se dérouleraient à huis-clos partiel –
+soit en présence des seules parties et des médias – et dans des salles
+permettant le respect de la distance prescrite entre les personnes
+présentes. Il a précisé que les journalistes accrédités étaient autorisés à
+assister aux audiences dans la limite des places disponibles et que la
+direction de la procédure était compétente pour déterminer le nombre de
+ces places, une attention particulière étant portée aux audiences dont on
+pourrait d’emblée présupposer qu’elles susciteront un important intérêt
+médiatique. Ces mesures, en vigueur depuis la reprise des activités
+ordinaires de l’OJV le 27 avril 2020, ont fait l’objet de communiqués de
+presse, peuvent être consultés en tout temps sur le site de l’OJV
+(https://www.vd.ch/toutes-les-autorites/ordre-judiciaire-vaudois-
+ojv/actualites/news/
+12964i-coronavirus-informations-importantes-de-lordre-judiciaire-vaudois/)
+et sont connues de tous les avocats pratiquants dans le canton de Vaud.
+Le 9 juin 2020, les parties ont été citées à comparaître à
+l’audience de la Cour d’appel pénale qui se tiendra les 22 et 24 septembre
+
+- 5 -
+2020 à la salle d’audience cantonale, sise avenue de Longemalle 1 à
+Renens.
+Dans une note diffusée le 31 août 2020, le Tribunal cantonal a
+communiqué aux médias les dates de l’audience précitée et a confirmé
+que celle-ci se déroulerait à huis clos partiel en raison de la situation
+sanitaire actuelle, seuls les journalistes accrédités pouvant y assister, sur
+inscription préalable et dans la limite des places disponibles.
+Par courrier du 4 septembre 2020, Me Aline Bonard, déclarant
+agir au nom de R.________ et au nom de l’ensemble des prévenus, a requis
+que l’audience d’appel soit publique. Elle a fait valoir que le huis clos
+serait une mesure disproportionnée, que seuls les rassemblements de plus
+de 1000 personnes étaient interdits, qu’il conviendrait de s’entretenir avec
+l’Office du médecin cantonal, que le port du masque pourrait le cas
+échéant être imposé et que l’utilisation d’une salle d’audience plus grande
+que celle de Longemalle pourrait être envisagée. Subsidiairement, Me
+Aline Bonard a requis le report de l’audience, alléguant que les prévenus
+auraient été convaincus, jusqu’à la communication du 31 août 2020, que
+l’audience d’appel serait publique.
+En d roit :
+1. Aux termes de l’art. 69 al. 1 CPP (Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0), les débats devant le tribunal de
+première instance et la juridiction d’appel de même que la notification
+orale des jugements et des décisions de ces tribunaux sont publics, à
+l’exception des délibérations.
+La publicité de l’audience constitue un principe fondamental,
+qui vise à assurer la transparence et à susciter la confiance en la justice et
+qui s’oppose à toute forme de justice secrète (ATF 143 I 194 consid. 3.1 ;
+ATF 143 IV 151 consid. 2.4, JdT 2017 IV 364 ; ATF 141 I 211 consid.
+
+- 6 -
+3.3.1.1 ; TF 1B_81/2020 du 11 juin 2020 consid. 3.2.1 et les réf. cit.). La
+jurisprudence du Tribunal fédéral insiste sur le rôle d’intermédiaire que les
+médias jouent entre la justice et le public en général, et sur la surveillance
+qu’ils permettent d’exercer sur celle-là. La chronique judiciaire, en rendant
+possible une publicité élargie des jugements, endosse ainsi une fonction
+quasi institutionnelle (ATF 143 I 194 consid. 3.1 ; Mahon/Jeannerat, in :
+Jeanneret et al. [éd.], Commentaire romand, Code de procédure pénale
+suisse, 2e éd., Bâle 2019, n. 8 ad art. 69 CPP).
+Selon l’art. 70 al. 1 let. a CPP, le tribunal peut restreindre
+partiellement la publicité de l’audience ou ordonner le huis clos si la
+sécurité publique et l’ordre public ou les intérêts dignes de protection
+d’une personne participant à la procédure, notamment ceux de la victime,
+l’exigent. Il peut, à certaines conditions, autoriser les chroniqueurs
+judiciaires et d’autres personnes justifiant d’un intérêt légitime à assister à
+des débats à huis clos au sens de l’alinéa 1 (art. 70 al. 3 CPP).
+Avant de prononcer le huis clos, total ou partiel, le tribunal doit
+mettre en balance les intérêts à la sauvegarde de la sécurité ou de l’ordre
+public avec la nécessité d’une publicité des débats judiciaires permettant
+le contrôle de la bonne administration de la justice (Moreillon/Parein-
+Reymond, Petit commentaire, Code de procédure pénale, Bâle 2016, n. 4
+ad art. 70 CP). Une exclusion du public et de la presse dans les procès
+pénaux ne peut être ordonnée que de manière très restrictive, soit en
+présence d’intérêts publics ou privés qui, compte tenu de l’ensemble des
+circonstances, l’emportent sur celui de la publicité des débats dans un
+Etat de droit et une société démocratique (Mahon/Jeannerat, op. cit., n. 8a
+ad art. 70 CPP ; cf. également : ATF 143 I 194 consid. 3.1 ; TF 1B_81/2020
+précité consid. 3.2.1 et les réf. cit. ; TF 1B_87/2018 du 9 mai 2018 consid.
+3.2.3).
+2. En l’espèce, compte tenu du contexte sanitaire actuel, l’OJV a
+pris des mesures particulières afin de respecter les prescriptions de l’OFSP
+et protéger la santé de ses usagers. Il a ainsi décidé que les audiences se
+tiendraient dorénavant dans des salles d’audience permettant le respect
+
+- 7 -
+de la distance prescrite entre les personnes présentes (actuellement 1,5
+m) et à huis clos partiel – et non à huis clos comme l’indique Me Bonard –,
+seuls les journalistes accrédités pouvant y assister dans la mesure des
+places disponibles. Compte tenu de ces mesures de protection et du
+nombre des parties à la présente procédure d’appel, la tenue des débats
+dans les locaux de l’Hermitage n’aurait pas permis la présence des
+médias. La direction de la procédure a donc décidé que l’audience aurait
+lieu à la salle cantonale de Longemalle de manière à ce que les
+journalistes – qui étaient nombreux en première instance – puissent y
+assister en nombre suffisant.
+Cela étant, la mesure de huis clos partiel est appliquée à
+l’ensemble des débats judiciaires qui se tiennent dans le canton de Vaud
+et on ne distingue pas quel motif justifierait dans le cas particulier de lever
+cette mesure extraordinaire qui poursuit uniquement un but de santé
+publique. La publicité des débats sera en outre largement assurée par la
+présence des journalistes. De toute manière, la configuration de la salle
+cantonale et le nombre de journalistes attendu fait qu’il n’y aura que très
+peu, voire aucune place disponible pour le public. L’OJV ne dispose par
+ailleurs pas d’une salle plus grande et correctement équipée pour tenir
+une audience.
+Par conséquent, la mesure de huis clos partiel est, en l’état,
+maintenue pour l’audience du 22 septembre 2020 ainsi que pour la lecture
+du jugement qui interviendra le 24 septembre suivant.
+3. A titre subsidiaire, Me Aline Bonard a requis le report de
+l’audience d’appel au motif que les prévenus auraient été convaincus,
+jusqu’au communiqué de presse du 31 août 2020, que celle-ci serait
+publique.
+Cette requête doit être rejetée. Les mesures prises par l’OJV
+pour assurer le fonctionnement de ses différents offices pendant
+l’épidémie de COVID 19, dont celle du huis clos partiel, figurent sur son
+site Internet. Elles ont par ailleurs été communiquées à l’Ordre des
+
+- 8 -
+avocats vaudois et sont par conséquent connues de l’ensemble des
+avocats pratiquant dans le canton de Vaud depuis que les audiences ont
+pu reprendre leur cours normal le 27 avril 2020. Dans ces circonstances,
+les prévenus, qui plus est assistés de quinze défenseurs, ne sauraient
+invoquer qu’ils ignoraient jusqu’au 31 août 2020 que les débats d’appel ne
+seraient pas accessibles au public pour requérir le report de l’audience
+deux semaines avant celle-ci. Par ailleurs, et compte tenu de l’évolution
+incertaine de la pandémie, un renvoi des débats jusqu’au rétablissement
+d’une situation normale serait contraire au principe de célérité.
+4. La présente décision sera rendue sans frais.
+Par ces motifs,
+la Cour d’appel pénale,
+en application des art. 70 al. 1 let. a et al. 3 CPP,
+statuant à huis clos :
+I. Maintient le huis clos partiel pour l'audience d'appel du 22
+septembre 2020 et la lecture du jugement qui interviendra le
+24 septembre 2020, seuls les journalistes accrédités étant
+autorisés à assister aux débats dans la limite des places
+disponibles.
+II. Rejette la requête tendant au renvoi des débats.
+III. Déclare la présente décision, rendue sans frais, exécutoire.
+Le président : La greffière :
+Du
+
+- 9 -
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+- Me Aline Bonard, avocate (pour R.________),
+- M. le Procureur général du canton de Vaud,
+et communiquée à :
+- Me Olivier Boschetti, avocat (pour K.________),
+- Me Miriam Mazou, avocate (pour F.________ SA),
+- Me Christian Bettex, avocat (pour Z.________),
+- Mes Robert Fox et Annie Schnitzler, avocats (pour B.________),
+- Me Charles Munoz, avocat (pour N.________),
+- Me Marie-Pomme Moinat, avocate (pour Q.________),
+- Mes Florian Ducommun et David Raedler, avocats (pour X.________),
+- Me Youri Widmer, avocat (pour P.________),
+- Me Mireille Loroch, avocate (pour J.________),
+- Mes Antonella Cereghetti et Raphaël Mahaïm, avocats (pour
+G.________),
+- Me Irène Wettstein Martin, avocate, pour T.________),
+- Me Laïla Batou, avocate (pour W.________),
+par l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (Loi du 17 juin
+2005 sur le Tribunal fédéral ; RS 173.110). Ce recours doit être déposé
+devant le Tribunal fédéral dans les trente jours qui suivent la notification
+de l'expédition complète (art. 100 al. 1 LTF).
+La greffière :
