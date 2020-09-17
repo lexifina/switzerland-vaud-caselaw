@@ -1,0 +1,223 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___6"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 6"
+decided: "2020-09-17"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8068620"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-031.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 6
+
+## Regeste
+
+PLAINTE PÉNALE, DÉLAI, OMISSION DANS LE DÉLAI D'UN ACTE PROCÉDURAL | 31 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 17.09.2020 Décision / 2021 / 6
+
+PLAINTE PÉNALE, DÉLAI, OMISSION DANS LE DÉLAI D'UN ACTE PROCÉDURAL | 31 CP
+
+TRIBUNAL
+CANTONAL
+701
+PE19.013845-MRN
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+17 septembre 2020
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+31 CP
+Statuant sur le recours interjeté le 10 juin 2020 par
+M.________
+contre l’ordonnance de non-entrée en matière rendue le 29 mai 2020 par le Ministère
+public de l’arrondissement de Lausanne dans la cause
+n° PE19.013845-MRN
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 8 octobre 2019, M.________ a déposé plainte contre I.________ et V.________ pour injure
+et lésions corporelles simples. Il leur reproche de l’avoir, à Lausanne, [...], le 9
+mai 2019 vers 16h20, injurié et frappé, lui occasionnant des hématomes et des douleurs
+à la mâchoire.
+Le 28 mai 2020, le Ministère public de l’arrondissement de Lausanne a ouvert une instruction
+pénale contre M.________, [...], I.________ et V.________ pour avoir, à Lausanne, le 9 mai
+2019, pris part à une rixe les opposant et au cours de laquelle V.________ a subi des lésions
+corporelles simples de la part d’[...]. L’enquête est également dirigée contre
+M.________ pour avoir, toujours le 9 mai 2019, alors qu’il circulait au volant d’une voiture,
+contourné des véhicules par la droite, puis immobilisé son véhicule à un endroit
+gênant la circulation, injurié V.________ et troublé l’ordre et la tranquillité
+publics.
+B.
+a)
+Par ordonnance du 29 mai 2020, le Ministère
+public de l’arrondissement de Lausanne a refusé d’entrer en matière sur la plainte
+d’M.________ du 8 octobre 2019 (I) et a dit que les frais de cette décision étaient
+laissés à la charge de l’Etat (II).
+La Procureure a considéré que les infractions de lésions corporelles simples et d’injure
+se poursuivaient sur plainte uniquement, que le délai pour déposer plainte était de trois
+mois depuis que l’ayant droit avait eu connaissance de l’auteur de l’infraction et
+que la plainte déposée par M.________ le 8 octobre 2019 était donc tardive.
+b)
+Par ordonnance du 2 juin 2020, le Ministère public de l’arrondissement de Lausanne a ordonné
+la disjonction du cas du prévenu M.________, qui a été repris dans le cadre de l’enquête
+PE20.008463-MRN.
+C.
+Par acte daté du 8 juin 2020 et remis à
+la poste le 10 juin 2020, M.________ a interjeté recours contre l’ordonnance de non-entrée
+en matière du 29 mai 2020, en concluant implicitement à son annulation et à l’ouverture
+d’une instruction pénale concernant les faits dont il aurait été victime.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0]) dans les dix jours devant l’autorité
+de recours (art. 310 al. 2, 322 al. 2 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le canton
+de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi
+d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+En l’espèce, le recours a été interjeté en temps utile et dans les formes prescrites,
+par la partie plaignante qui a qualité pour recourir (art. 382 al. 1 CPP). Transmis à l’autorité
+compétente (art. 91 al. 4 CPP), il est recevable.
+2.
+Conformément à l'art. 310 al. 1 let.
+a CPP, le ministère public rend immédiatement – c'est-à-dire sans qu'une instruction
+soit ouverte (art. 309 al. 1 et 4 CPP ; TF 1B_111/2012 du 5 avril 2012 consid. 2.1 ; Grodecki/Cornu,
+in : Jeanneret/Kuhn/Perrier Depeursinge [édit.], Code de procédure pénale suisse,
+Commentaire romand, 2
+e
+éd., Bâle 2019, n. 2 ad art. 310 CPP) – une ordonnance de non-entrée en matière
+lorsqu'il apparaît, à réception de la dénonciation (cf. art. 301 et 302 CPP) ou de
+la plainte (Grodecki/Cornu, op. cit., n. 1 ad art. 310 CPP) ou après une procédure préliminaire
+limitée aux investigations de la police (art. 300 al. 1 let. a, 306 et 307 CPP), que les éléments
+constitutifs d'une infraction ou les conditions d'ouverture de l'action pénale ne sont manifestement
+pas réunis (TF 6B_1238/2018 du 16 janvier 2019 consid. 3.1 ; TF 1B_709/2012 du 21 février 2013
+consid. 3.1).
+Selon cette disposition, il importe donc que les éléments constitutifs de l'infraction ne soient
+manifestement pas réunis. En d'autres termes, il faut être certain que l'état de fait
+ne constitue aucune infraction (ATF 137 IV 285 consid. 2.3). Une ordonnance de non-entrée en matière
+ne peut être rendue que dans les cas clairs du point de vue des faits, mais également du droit
+; s'il est nécessaire de clarifier l'état de fait ou de procéder à une appréciation
+juridique approfondie, le prononcé d'une ordonnance de non-entrée en matière n'entre pas
+en ligne de compte. En règle générale, dans le doute, il convient d'ouvrir une enquête
+pénale (ATF 143 IV 241 consid. 2.2.1 ; ATF 138 IV 86 consid. 4.1.2 ; ATF 137 IV 285 consid.
+2.3 et les réf. citées, JdT 2012 IV 160). Dans cette mesure, le principe
+in
+dubio pro duriore
+, qui signifie qu’en règle
+générale, un classement ou une non-entrée en matière ne peut être prononcé
+par le ministère public que lorsqu’il apparaît clairement que les faits ne sont pas punissables
+ou que les conditions à la poursuite pénale ne sont pas remplies, s’applique sous l’angle
+de l’art. 310 CPP (Grodecki/Cornu, op. cit., n. 10b ad art. 310 CPP). En revanche, le ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (TF 6B_541/2017 du
+20 décembre 2017 consid. 2.2).
+3.
+3.1
+Le recourant conteste la tardiveté de sa plainte pénale. Il invoque le fait qu’il aurait
+attendu un avis des policiers qui étaient intervenus à la suite de l’altercation du 9 mai
+2019 pour déposer plainte. N’ayant pas reçu de convocation, il aurait téléphoné
+quelques mois plus tard au poste de police pour expliquer son cas, ensuite de quoi il serait immédiatement
+allé déposer plainte le 8 octobre 2019.
+3.2
+Selon l'art. 31 CP, le droit de porter plainte se prescrit par trois mois dès le jour où l'ayant
+droit a connu l'auteur de l'infraction. Le délai institué par l'art. 31 CP étant
+un délai de péremption, il ne peut être ni interrompu, ni prolongé (ATF 118 IV 325
+consid. 2b). La tardiveté d’une plainte, à l’instar du retrait de la plainte (Moreillon/Parein-Reymond,
+Petit Commentaire du Code de procédure pénale, 2
+e
+éd., Bâle 2016, n. 13 ad art. 310 CPP), doit être assimilée à un empêchement
+de procéder au sens de l’art. 310 al. 1 let. b CPP, du moins lorsqu’aucune infraction
+poursuivie d’office n’est en cause (CREP 19 décembre 2019/1025 consid. 3.2 ;
+CREP 18 novembre 2019/927 ; CREP 28 octobre 2019/859 ; CREP 12 février
+2019/115).
+3.3
+En l’espèce, le rapport de police du 7 août 2019 mentionne qu’à la suite de
+leur intervention sur les lieux de l’incident le 9 mai 2019, les policiers ont transmis leurs coordonnées
+aux personnes impliquées en cas de velléités de plainte, avant de quitter les lieux (P.
+11 p. 6). Il a également été mentionné qu’au jour de la rédaction du rapport
+de police, M.________ n’avait pas encore fait part de sa volonté de déposer une plainte
+pénale (P. 11 p. 7).
+On constate que les affirmations du recourant sont contredites par le rapport de police du 13 novembre
+2019 (P. 12). Il ressort en effet du procès-verbal de son audition que le recourant a été
+entendu comme prévenu le 8 octobre 2019 et qu’au cours de cette audition, celui-ci a souhaité
+déposer plainte contre deux autres protagonistes de l’altercation, soit V.________ et I.________,
+pour lésions corporelles et injure (P. 12, p. 7, R. 8).
+En tout état de cause, il appartenait au recourant de déposer spontanément plainte, s’il
+entendait le faire, et non d’attendre une hypothétique interpellation de la police, qui ne
+peut avoir aucune influence sur l’échéance du délai (Dupuis et al., Petit commentaire,
+Code pénal, 2
+e
+éd., Bâle 2017, n. 11 ad art. 31 CP). Les infractions en cause étant poursuivies sur plainte
+uniquement (art. 123 ch. 1 et 177 CP), le recourant disposait d’un délai de trois mois
+pour déposer plainte, dès le 9 mai 2019 (art. 31 CP), soit jusqu’au 9 août
+2019. Déposée le 8 octobre 2019, la plainte est donc tardive. Il s’ensuit que le
+Ministère public était fondé à rendre une ordonnance de non-entrée en matière
+(art. 310 al. 1 let. b CPP).
+4.
+Le recourant n’a développé aucun
+moyen contre l’ordonnance de disjonction de procédures pénales du 2 juin 2020. Il n’y
+a donc pas lieu d’examiner le bien-fondé de cette décision (cf. art. 385 al. 1 CPP).
+5.
+Au vu de ce qui précède, le recours doit être rejeté et l’ordonnance du 29
+mai 2020 confirmée.
+Les frais de la procédure de recours, par 660 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+seront mis à la charge du recourant, qui succombe (art. 428
+al.
+1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 29 mai 2020 est confirmée.
+III.
+Les frais d’arrêt, par 660 fr. (six
+cent soixante francs), sont mis à la charge d’M.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
