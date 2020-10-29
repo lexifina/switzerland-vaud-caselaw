@@ -1,0 +1,147 @@
+---
+decision_id: "vd_gerichte_05c612b3-07b0-4f34-b67f-9ceec1ed2b79"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CAPE"
+docket: "435"
+decided: "2020-10-29"
+published: "2021-01-07"
+language: "fr"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/05c612b3-07b0-4f34-b67f-9ceec1ed2b79"
+cites_decisions: ["BGE 127 I 202", "BGE 135 I 221"]
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/281.1/art-093.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-132.md"]
+---
+
+# VD Gerichte 435
+
+## Text
+
+TRIBUNAL CANTONAL
+435
+PE18.017935-//ACA
+CO UR D’APPEL PENALE
+______________________________
+Séance du 29 octobre 2020
+_____________________
+Composition : M. MAILLARD, président
+Greffière : Mme Mirus
+*****
+Parties à la présente cause :
+M.________, prévenu, représenté par Me Tania Almeida Sousa, défenseur de
+choix à Nyon, requérant,
+et
+Ministère public, représenté par la Procureure de l'arrondissement de La
+côte, intimée.
+655
+
+- 2 -
+Vu le jugement rendu le 21 août 2020, par lequel le Tribunal
+de police de l’arrondissement de La Côte a constaté que M.________ s’est
+rendu coupable d’escroquerie (I), a condamné M.________ à 150 jours-
+amende à 40 fr. le jour, avec sursis pendant deux ans (II), a condamné en
+outre M.________ à une amende de 1'200 fr. à titre de sanction immédiate,
+assortie d’une peine privative de liberté de substitution en cas de non-
+paiement fautif de 30 jours (III), a dit que la peine prononcée sous chiffres
+II et III était une peine complémentaire à celle prononcée le 28 mai 2015
+par le Ministère public de l’arrondissement de La Côte (IV), a dit que
+M.________ est le débiteur d’ [...] SA d’un montant de 38'531 fr. (V) et a mis
+l’intégralité des frais de la procédure, par 1'450 fr., à la charge de
+M.________ (VI),
+vu l’annonce d’appel et la déclaration d’appel déposées les 31
+août et 13 octobre 2020,
+vu la demande d’assistance judiciaire déposée le 27 octobre
+2020 par M.________,
+vu les pièces du dossier;
+attendu qu’en dehors des cas de défense obligatoire au sens
+de l’art. 130 CPP ─ hypothèses non réalisées en l'espèce ─, la direction de
+la procédure ordonne une défense d’office si le prévenu ne dispose pas
+des moyens nécessaires et si l’assistance d’un défenseur est justifiée pour
+sauvegarder ses intérêts (art. 132 al. 1 let. b CPP),
+que ces deux conditions sont cumulatives (Moreillon/Parein-
+Reymond, Code de procédure pénale, Petit commentaire, 2e éd., Bâle
+2016, n. 16 ad art. 132 CPP),
+qu’une partie est indigente lorsqu'elle ne peut assumer les
+frais liés à la défense de ses intérêts sans porter atteinte au minimum
+nécessaire à son entretien et à celui de sa famille (ATF 135 I 221 consid.
+5.1 p. 223 et les arrêts cités),
+
+- 3 -
+que pour déterminer l'indigence, il convient de prendre en
+considération l'ensemble de la situation financière du requérant au
+moment où la demande est présentée, celui-ci devant indiquer de manière
+complète et établir autant que faire se peut ses revenus, sa situation de
+fortune et ses charges (ibid.),
+que la part des ressources excédant ce qui est nécessaire à la
+couverture des besoins personnels doit être comparée, dans chaque cas,
+aux frais prévisibles de la procédure pour laquelle l'assistance judiciaire
+est demandée (ibid.),
+que le soutien de la collectivité publique n'est en principe pas
+dû, lorsque cette part disponible permet d'amortir les frais judiciaires et
+d'avocat en une année au plus, pour les procès relativement simples, et
+en deux ans pour les autres (ibid.),
+que les revenus et la fortune des personnes qui, à l'instar du
+conjoint, ont à l'égard du requérant une obligation d'assistance ou
+d'entretien doivent également être pris en compte (cf. ATF 127 I 202
+consid. 3b p. 205; 119 Ia 11 consid. 3a p. 12),
+qu’en l’espèce, le revenu du requérant, qui comprend un
+treizième salaire, s’élève mensuellement à 5'180 fr. 70 (4'782 fr. 20 x 13 /
+12) et celui de son épouse à 2'500 fr, ce qui correspond à un total de
+7'680 fr. 70,
+que les charges mensuelles invoquées et établies par le
+requérant comprennent les sommes de 1'831.50 euros (crédit
+hypothécaire pour le bien immobilier sis en France), 586 euros
+(remboursement d’un prêt de 30'000 euros), 34.41 euros (facture de
+téléphone), 686 euros (acomptes d’impôts) et 257.40 euros
+(remboursement d’un prêt de 46'804 euros), soit un total de 3'395.30
+euros (environ 3'670 fr.),
+
+- 4 -
+qu’ainsi, même en ajoutant aux charges précitées le montant
+de base du minimum vital d’un couple marié avec un enfant de moins de
+dix ans, soit 2'100 fr. (cf. les lignes directrices pour le calcul du minimum
+vital du droit des poursuites selon l’art. 93 LP [Loi fédérale sur la poursuite
+pour dettes et la faillite du 11 avril 1889 ; RS 281.1), étant en outre
+précisé que le requérant et son épouse vivent en France où le coût de la
+vie est moins élevé qu’en Suisse, le total des revenus du couple laisse un
+disponible suffisant pour acquitter d’éventuels frais d’avocat, d’autant plus
+que le requérant pourrait, le cas échéant, augmenter son crédit
+hypothécaire sur son immeuble au Portugal,
+qu’enfin, la requête de M.________ tendant à la désignation
+d'un avocat d'office vaut uniquement pour la procédure postérieure à sa
+demande, soit en l'occurrence pour la procédure d'appel,
+qu’au vu de l’ensemble de ces éléments, l’intéressé ne peut
+pas être considéré comme indigent,
+que l’une des conditions cumulatives de l'art. 132 al. 1 let. b
+CPP n’est donc pas remplie,
+qu’en conséquence, la requête formulée par M.________ doit
+être rejetée;
+attendu que le présent prononcé peut être rendu sans frais.
+
+- 5 -
+Par ces motifs,
+le Président de la Cour d’appel pénale,
+statuant à huis clos :
+I. Refuse de désigner un défenseur d’office à M.________ dans la
+procédure d’appel à l’encontre du jugement rendu le 21 août
+2020 par le Tribunal de police de l’arrondissement de La Côte.
+II. Déclare le présent prononcé, rendu sans frais, exécutoire.
+Le président : La greffière :
+Du
+Le prononcé qui précède, dont la rédaction a été approuvée à
+huis clos, est notifié, par l'envoi d'une copie complète, à :
+- Me Tania Almeida Sousa, avocate (pour M.________),
+- Ministère public central,
+et communiqué à :
+- Mme la Vice-présidente du Tribunal de police de l’arrondissement de
+La Côte,
+- Mme la Procureure de l’arrondissement de La Côte,
+par l'envoi de photocopies.
+
+- 6 -
+Le présent jugement peut faire l'objet d'un recours en matière
+pénale devant le Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin
+2005 sur le Tribunal fédéral – RS 173.110). Ce recours doit être déposé
+devant le Tribunal fédéral dans les trente jours qui suivent la notification
+de l'expédition complète (art. 100 al. 1 LTF).
+La greffière :
