@@ -1,0 +1,180 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 3"
+decided: "2020-11-09"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8065543"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-085.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-090.md", "switzerland/bund/acts/312.0/art-355.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 3
+
+## Regeste
+
+DÉLAI DE RECOURS, FICTION DE LA NOTIFICATION, DÉCISION D'IRRECEVABILITÉ | 396 al. 1 CPP (CH), 85 al. 4 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 09.11.2020 Décision / 2021 / 3
+
+DÉLAI DE RECOURS, FICTION DE LA NOTIFICATION, DÉCISION D'IRRECEVABILITÉ | 396 al. 1 CPP (CH), 85 al. 4 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+879
+PE19.024534-BDR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+9 novembre 2020
+__________________
+Composition :
+M.
+Perrot
+,
+président
+M.
+Meylan et Mme Byrde, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+85 al. 4 let. a et 396 al. 1 CPP
+Statuant sur le recours interjeté le 13 août 2020 par
+X.________
+contre l’ordonnance rendue le 17 juillet 2020 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n
+o
+PE19.024534-BDR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Par ordonnance pénale du 12 juin 2020, le Ministère public de l’arrondissement de Lausanne
+(ci-après : le Ministère public) a condamné X.________ à 45 jours de peine privative
+de liberté pour calomnie, utilisation abusive d’une installation de télécommunication,
+menaces et tentative de contrainte.
+B.
+Par ordonnance du 17 juillet 2020, constatant que X.________ avait fait défaut à l’audience
+du même jour et faisant application de l’art. 355 al. 2 CPP (Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0), le Ministère public a pris acte du retrait de l’opposition
+formée le 21 juin 2020 par X.________ contre l’ordonnance pénale du 12 juin
+2020 (I), a dit que dite ordonnance pénale devenait exécutoire (II) et a dit que la décision
+était rendue sans frais (III). Le pli recommandé ayant été retourné au Ministère
+public avec la mention «
+non
+réclamé
+», l’ordonnance
+a été envoyée à X.________ par pli simple le 5 août 2020 (P. 39),
+en attirant son attention sur le fait que cet envoi ne faisait pas courir un nouveau délai de recours
+ou d’opposition.
+C.
+Par acte du 13 août 2020, posté le 14
+août 2020, X.________ a recouru contre l’ordonnance du 17 juillet 2020. Elle a fait valoir
+qu’elle était en Allemagne pour des raisons professionnelles depuis le 18 juillet 2020,
+si bien qu’elle n’avait eu connaissance de l’ordonnance attaquée que le 13 août
+2020, lorsqu’elle était revenue à son domicile.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 393 al. 1 let. a CPP, le
+recours est recevable contre les décisions et les actes de procédure de la police, du Ministère
+public et des autorités pénales compétentes en matière de contraventions.
+Le recours doit être adressé par écrit dans un délai de dix jours à l’autorité
+de recours (art. 396 al. 1 CPP). Le délai de recours – qui ne peut pas être prolongé
+(art. 89 al. 1 CPP) – commence à courir le jour qui suit la notification du prononcé
+entrepris (art. 90 al. 1 et 384 let. b CPP ; Stoll, Commentaire romand, Code de procédure pénale
+suisse, 2
+e
+éd.,
+Bâle 2019, n. 3 ad art. 90 CPP).
+1.2
+Selon l'art. 85 al. 4 let. a CPP, un prononcé
+est réputé notifié lorsque, expédié par lettre signature, il n'a pas été
+retiré dans les sept jours à compter de la tentative infructueuse de remise du pli, si la personne
+concernée devait s'attendre à une telle remise.
+De jurisprudence constante, celui qui se sait partie à une procédure judiciaire et qui doit
+dès lors s'attendre à recevoir des actes du juge – condition en principe réalisée
+pendant toute la durée d'un procès –, est tenu de relever son courrier ou, s'il s'absente
+de son domicile, de prendre des
+dispositions
+pour que celui-ci lui parvienne néanmoins. A ce défaut, il est réputé avoir eu, à
+l'échéance du délai de garde, connaissance du contenu des plis recommandés que le
+juge lui adresse. Une telle obligation signifie que le destinataire doit, le cas échéant, désigner
+un représentant, faire suivre son courrier, informer les autorités de son absence ou leur indiquer
+une adresse de notification (ATF 146 IV 30 consid. 1.1.2 ; ATF 141 II 429 consid. 3.1 ;
+ATF 139 IV 228 consid. 1.1 et les réf. ; TF 6B_936/2018 du 4 décembre 2018 consid.
+1.1). Le devoir procédural d'avoir à s'attendre avec une certaine vraisemblance à recevoir
+la notification d'un acte officiel naît avec l'ouverture d'un procès et vaut pendant toute
+la durée de la procédure (ATF 146 IV 30 consid. 1.1.2 ; ATF 130 III 396 consid. 1.2.3,
+JdT 2005 II 87 ; TF 6B_1336/2017 du 22 mai 2018 consid. 2.2 ; TF 6B_1032/2015 du 25 mai
+2016 consid. 1.1). La fiction de notification ne peut toutefois pas perdurer indéfiniment. A cet
+égard, le Tribunal fédéral a estimé qu’il était raisonnable de devoir
+s’attendre à recevoir la notification d’un acte officiel pendant une période allant
+jusqu’à un an après le dernier acte de procédure de la part de l’autorité
+(TF 6B_511/2010 du 13 août 2010 consid. 3 ; TF 6B_553/2008 du 27 août 2008 consid. 3).
+1.3
+Dans le cas particulier, l’ordonnance du
+17 juillet 2020 a été envoyée pour notification à la recourante sous pli recommandé.
+Celle-ci n’a pas retiré le courrier dans le délai postal de garde, échéant
+le 27 juillet 2020 (P. 38), de sorte que la poste a retourné le pli avec la mention «
+non
+réclamé
+» au Ministère
+public.
+Or, se sachant partie à la procédure puisqu’elle avait fait opposition à l’ordonnance
+pénale du 12 juin 2020 le 21 juin 2020 et qu’elle avait été convoquée à
+une audience le 17 juillet 2020, la recourante devait s’attendre à recevoir des actes judiciaires
+relatifs à son opposition. Il lui incombait dès lors de relever son courrier ou de prendre
+les mesures appropriées pour que celui-ci lui parvienne. L’ordonnance du 17 juillet 2020 est
+donc réputée avoir été valablement notifiée à l’échéance
+du délai postal de garde, soit le 27 juillet 2020.
+Cela étant, le délai de dix jours pour interjeter recours contre l’ordonnance du 17 juillet
+2020 a commencé à courir le 28 juillet 2020 pour arriver à échéance le jeudi
+6 août 2020. Posté le 14 août 2020, le recours est manifestement tardif.
+2.
+Il s’ensuit que le recours doit être
+déclaré irrecevable, sans échange d’écriture (art. 390 al. 2 CPP).
+Les frais de la procédure de recours, par 440 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis
+à la charge de X.________, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 440 fr. (quatre cent quarante francs), sont mis à la charge
+de X.________.
+III.
+L’arrêt est exécutoire.
+Le
+président :              La
+greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme X.________,
+-
+M. [...],
+-
+Ministère public central,
+et communiqué à :
+-
+M. le Procureur de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
