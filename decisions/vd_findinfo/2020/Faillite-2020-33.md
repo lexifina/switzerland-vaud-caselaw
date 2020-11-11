@@ -1,0 +1,330 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 33"
+decided: "2020-11-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/7975204"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-251.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-326.md", "switzerland/bund/acts/281.1/art-083.md", "switzerland/bund/acts/281.1/art-162.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 33
+
+## Regeste
+
+SOCIÉTÉ À RESPONSABILITÉ LIMITÉE, VENTE, EXÉCUTION DE L'OBLIGATION, PAIEMENT, ACTION EN LIBÉRATION DE DETTE, MAINLEVÉE PROVISOIRE, INVENTAIRE, MESURE PROVISIONNELLE | 162 LP, 83 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 11.11.2020 Faillite / 2020 / 33
+
+SOCIÉTÉ À RESPONSABILITÉ LIMITÉE, VENTE, EXÉCUTION DE L'OBLIGATION, PAIEMENT, ACTION EN LIBÉRATION DE DETTE, MAINLEVÉE PROVISOIRE, INVENTAIRE, MESURE PROVISIONNELLE | 162 LP, 83 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+JP20.017578-201130
+276
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+11 novembre 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+Mmes
+Byrde et Rouleau, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+83 al. 1 et 162 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+R.________
+,
+à ...]Crissier, contre l’ordon-nance de mesures provisionnelles rendue le 15 juillet 2020
+par le Président du Tribunal d’arrondissement de Lausanne, dans la cause opposant le recourant
+à
+K.________
+,
+à Gollion.
+Vu les pièces au
+dossier, la cour considère :
+En fait :
+1.
+a)
+Le 2 novembre 2017, K.________ a vendu à R.________ les parts sociales de la société [...]
+pour un prix de 200’000 francs. Selon la convention signée par les parties, un montant de
+30'000 fr. sur le prix de vente avait déjà été payé au moment de la signature,
+le solde devant être acquitté selon les modalités suivantes : 70'000 fr. au plus
+tard le 20 décembre 2017 et 100'000 fr. dès que les bilan et comptes de pertes et profits au
+31 décembre 2017 auraient été établis, mais au plus tard le 31 mars 2018.
+Par convention du 12 décembre 2018, les parties ont arrêté à 45'000 fr. le solde
+du prix de vente convenu le 2 novembre 2017, payable au 31 janvier 2019. Cette convention précise
+que moyennant exécution de ce qui précède [paiement du montant de 45'000 fr. au 31 janvier
+2019], « les parties se donnent réciproquement quittance pour solde de tous comptes et
+de toutes prétentions du fait de la cession des parts sociales convenue le 2 novembre 2017 pour
+la société [...]».
+Les parties sont en litige au sujet de l’exécution du contrat de vente : K.________ requiert
+paiement du montant de 45'000 fr. susmentionné et R.________ soutient que le vendeur n’aurait
+pas exécuté les prestations qui lui incombaient, en particulier la transmission de la clientèle
+et le transfert de propriété sur plusieurs machines.
+b)
+Le 29 mai 2019, à la réquisition de K.________, l'Office des poursuites du district de l’Ouest
+lausannois (ci-après : l’office) a notifié à R.________, dans la poursuite
+n° 9'197’550, un commandement de payer la somme de 45’000 fr. plus intérêt
+à 5 % l’an dès le 1
+er
+février 2019.
+Par prononcé rendu le 1
+er
+octobre 2019, le Juge de paix du district de l’Ouest lausannois a provisoirement levé l’opposition
+formée par le poursuivi au commandement de payer précité.
+Le poursuivi a ouvert action en libération de dette par demande du
+12
+novembre 2019. Cette procédure est actuellement pendante devant le Tribunal civil de l’arrondissement
+de Lausanne.
+Le 7 mai 2020, le poursuivant a requis du Président du Tribunal d’arrondissement de Lausanne,
+par requête de mesures provisionnelles et super-provisionnelles, qu’il donne ordre à
+l’office de dresser l’inventaire des biens de R.________.
+Par lettre recommandée du 8 mai 2020, le président a informé les parties que la requête
+de mesures superprovisionnelles était rejetée et a imparti à l’intimé un délai
+au 15 mai 2020 pour déposer des déterminations.
+Le 15 mai 2020, R.________ a conclu au rejet des conclusions prises par K.________ dans sa requête
+du 7 mai 2020.
+2.
+Par ordonnance de mesures
+provisionnelles du 15 juillet 2020, notifiée le 16 juillet 2020 au conseil de l’intimé,
+le Président du Tribunal d’arrondissement de Lausanne a invité l’office à
+dresser l’inventaire des biens de l’intimé R.________ (I), a mis les frais judiciaires,
+arrêtés à 800 fr., à la charge du prénommé (II), a dit que celui-ci devait
+rembourser ledit montant au requérant qui en avait fait l’avance (III), a dit que R.________
+devait en outre verser à K.________ un montant de 1'500 francs à titre de dépens (IV)
+et a déclaré l’ordonnance immédiatement exécutoire (V).
+Le premier juge a retenu que l’intimé faisait l’objet de plusieurs poursuites, majoritairement
+introduites en 2020, pour un total de 81'269 fr. 10, que l’une d’entre elles, pour 30'682
+fr. 10, était au stade de la commination de faillite, que plusieurs poursuites concernaient des
+montants modestes, que la poursuite intentée par le requérant portait sur le solde du prix
+de vente d’une société qui, depuis lors, le 19 décembre 2019, était tombée
+en faillite et a considéré que la situation de l’intimé « en terme de
+solvabilité » était particulièrement préoccupante, qu’il existait
+un risque important de préjudice pour le requérant et qu’il y avait dès lors lieu
+de faire droit à la requête d’inventaire.
+3.
+Par acte du 27 juillet
+2020, R.________ a déposé un « appel » contre cette décision, concluant,
+avec suite de frais et dépens des deux instances, préliminairement à ce qu’il soit
+accordé un délai à l’appelant pour produire des pièces complémentaires,
+et sur le fond, principalement à la réforme de l’ordonnance en ce sens que la requête
+du poursuivant est rejetée et, subsidiairement, à son annulation. Il a produit trois pièces
+nouvelles.
+En droit
+:
+I.
+a)
+L’acte du 27 juillet 2020 intitulé « appel » est dirigé contre une
+décision du président du tribunal d'arrondissement ordonnant l'inventaire des biens du débiteur
+en application des art. 83 al. 1 et 162 LP (loi fédérale sur la poursuite pour dettes et la
+faillite ; RS 281.1). Une telle décision d’inventaire, prise en procédure sommaire (art.
+251 let. d CPC [Code de procédure civile ; RS 272]), est susceptible de recours, et non d’appel
+(art. 309 let. b ch. 6 et 7 en relation avec l’art. 319 let. a CPC ; Gilliéron, L’exécution
+forcée ayant pour objet une somme d’argent ou des sûretés à fournir après
+l’entrée en vigueur de la loi sur le Tribunal fédéral et du Code de procédure
+civile, JT 2011 II 107 ss, spéc. 135 ; Ottomann/Markus, in Staehelin/Bauer/Staehelin [édit.],
+Basler Kommentar, SchKG II, 2
+e
+éd., n. 15 et 18 ad art. 162, p. 1560).
+En l’espèce, l’acte du 27 juillet 2020, écrit et motivé, a été déposé
+dans les formes requises (art. 321 al. 1 CPC) et en temps utile, dans les dix jours suivant la notification
+de l’ordonnance attaquée (art. 321 al. 2 CPC). Il est ainsi recevable comme recours.
+b)
+Les conclusions, les allégations de fait et les preuves nouvelles sont irrecevables en procédure
+de recours (art. 326 al. 1 CPC). Le tribunal de deuxième instance doit statuer sur un état
+de fait identique à celui examiné par le premier juge. Cette règle, stricte, s'explique
+par le fait que l'instance de recours a pour mission de contrôler la conformité au droit de
+la décision entreprise, mais non de poursuivre la procédure de première instance ;
+à l'instar du Tribunal fédéral, l'instance de recours doit contrôler la juste application
+du droit à un état de fait arrêté définitivement (Chaix, Introduction au recours
+de la nouvelle procédure civile fédérale,
+in
+SJ 2009 II 257 ss, n. 17, p. 267 ; CPF 14 octobre 2019/209 ; CPF 29 mars 2018/39 ; CPF
+17 novembre 2017/271 ; CPF 13 août
+2014/295 ; CPF 12 novembre 2013/445).
+En l’espèce, en vertu de l’art. 326 al. 1 CPC, les pièces nouvelles déposées
+par le recourant sont irrecevables et il n’y a pas lieu de lui impartir un délai supplémentaire
+pour en produire encore d’autres.
+II.
+a)
+Selon l'art. 83 al. 1 LP, lorsque la mainlevée provisoire a été accordée, le créancier
+peut, passé le délai de paiement et suivant la qualité du débiteur, requérir
+la saisie provisoire ou demander au juge qu'il soit procédé à l'inventaire en application
+de l'art. 162 LP. De son côté, le débiteur peut, dans les vingt jours à compter de
+la mainlevée, intenter au for de la poursuite une action en libération de dette (art. 83 al.
+2 LP). Tant que l'action en libération de dette n'est pas rejetée, la décision de mainlevée
+provisoire ne permet pas au créancier de former la réquisition de continuer la poursuite (Stoffel/Chabloz,
+Voies d'exécution, nn. 132 et 133, p. 133). Le risque existe alors que d’autres créanciers
+soient favorisés. Dès lors, le créancier peut requérir une saisie provisoire si le
+débiteur est soumis à la poursuite par voie de saisie, ou un inventaire s’il est soumis,
+comme en l’espèce, à la poursuite par voie de faillite (cf. art. 39 P).
+Selon l’art. 162 LP, à la demande du créancier, le juge de la faillite décide, si
+cette mesure lui paraît nécessaire, qu’il sera dressé inventaire des biens du débiteur.
+La doctrine et la jurisprudence s’accordent pour dire que la prise d’inventaire de l’art.
+162 LP équivaut à une mesure provisionnelle conservatoire (ATF 137 III 143 consid. 1.3 et les
+réf. cit. ; ATF 128 III 383 consid. 3 ; Schmidt,
+in
+Dallèves/Foëx/Jeandin [édit.]
+Commentaire romand, Poursuite et faillite, nn.
+5 et 6
+ad
+art. 83 LP et les arrêts cités ; Cometta,
+in
+Dallèves/Foëx/Jeandin [édit.]
+Commentaire romand, Poursuite et faillite, n.
+1 ad art. 162 LP ; Braconi, Le contentieux des mesures provisionnelles au Tribunal fédéral
+en matière de poursuite pour dettes et faillite,
+in
+Mélanges à la mémoire de Bernard Corboz, 2019, p. 317 à 332, spéc. 325). Elle
+anticipe sur la continuation de la poursuite. Evidemment, si l’action en libération de dette
+est admise, l’inventaire se révélera injustifié. L’inventaire a pour but de
+déterminer le substrat patrimonial qui constituerait la masse active en cas d’ouverture de
+la faillite et de mettre ainsi le créancier à l’abri des manœuvres incorrectes que
+le débiteur au bord de la faillite pourrait effectuer, en facilitant l’intervention de l’autorité
+pénale en cas de distraction importante d’actifs (Cometta,
+op.
+cit.
+, n. 2
+ad
+art. 162 LP).
+Pour que l’inventaire soit ordonné, il faut une vraisemblance d’un intérêt,
+qui doit être admise notamment quand le débiteur prépare sa fuite, cèle ou détruit
+ses biens, liquide ses actifs à vils prix, change de domicile ou transfère son siège après
+la notification du commandement de payer, ainsi que dans toutes les situations où il existe des
+indices subjectifs ou objectifs tels qu’un risque de préjudice pour le requérant apparaisse
+vraisemblable. Le degré de vraisemblance qualifiée est nécessaire si l’inventaire
+est requis lorsqu’une action en libération de dette est pendante (art. 83 al. 2 LP). La vraisemblance
+qualifiée est donnée par exemple quand le poursuivi est l’objet de deux autres poursuites
+au stade de la commination de faillite, comme aussi si de nombreuses poursuites sont pendantes pour des
+montants importants. D’autres éléments à prendre en considération peuvent être,
+par exemple, de continuelles promesses de paiement jamais tenues, une demande de sursis non encore décidée,
+une procédure pénale pour des infractions relevant de la LP (Cometta,
+op.
+cit.,
+nn. 3, 5 et 6
+ad
+art. 162 LP).
+c)
+aa)
+Comme en première instance, le recourant conteste que sa situation financière soit préoccupante.
+Il fait valoir que si le solde du prix de la société acquise n’a pas été payé,
+ce n’est pas parce qu’il est un mauvais payeur mais parce que le vendeur n’aurait pas
+exécuté ses propres obligations ; il ne lui aurait notamment pas transmis sa clientèle
+ni transféré la propriété sur plusieurs machines ; l’action en libération
+de dette serait ainsi bien fondée. Sur la question de la faillite de la société vendue
+(prononcée le 19 décembre 2019), le recourant explique que son chiffre d’affaires a baissé,
+que la Banque [...] a réclamé le remboursement d’une ligne de crédit et l’a
+poursuivi comme caution solidaire de cet engagement jusqu’à obtenir une commination de faillite.
+Désormais, il œuvrait par le biais d’une entreprise individuelle. Enfin, il soutient
+qu’à part celle – litigieuse – de la Banque [...], les poursuites en cours ne
+portent que sur de petits montants qu’il serait en train de régler et que, bloquées par
+des oppositions, ces poursuites ne constitueraient pas des indices d’insolvabilité. En droit,
+le recourant fait valoir que l’inventaire de l’art. 83 LP serait « plus grave »
+que celui de l’art. 162 LP, dès lors qu’il intervient non pas dans le cadre d’une
+commina-tion de faillite mais dans celui d’une action en libération de dette, de sorte qu’il
+faudrait être plus restrictif dans l’appréciation de sa nécessité.
+bb)
+On observe tout d’abord que la convention du 2 novembre 2017 relative à la vente de la société
+[...] ne prévoit rien au sujet d’un transfert de clientèle ou de la propriété
+de machines et que, dans le cadre de la convention du 12 décembre 2018, les parties se sont donné
+« réciproquement quittance pour solde de tous comptes et de toutes prétentions du
+fait de la cession des parts sociales convenue le 2 novembre 2017 pour la société [...]»,
+sous réserve du paiement de 45'000 fr. au 31 janvier 2019. Ces éléments contre-disent
+les griefs d’inexécution soulevés par R.________.
+On constate également qu’au moment où l’ordonnance attaquée a été
+rendue, le recourant faisait l’objet de poursuites pour un total de 81'269 fr. 10, dont 45'000
+fr. correspondent au montant faisant l’objet du présent litige et 30'682 fr. 10 à la
+créance réclamée par la Banque [...]. Restent 5’587 fr. pour sept poursuites introduites
+entre janvier et mars 2020 par les créanciers suivants :
+-
+283 fr. 90, [...],
+-
+1'187 fr. 35, [...],
+-
+360 fr., Etat de Vaud,
+Office d’impôt des districts de Lausanne et Ouest lausannois,
+-
+2'561 fr. 45, Etat de
+Vaud, Office d’impôt des districts de Lausanne et Ouest lausannois.
+-
+180 fr., Confédération
+suisse, Office d’impôt des districts de Lausanne et Ouest lausannois,
+-
+50 fr., Etat de Vaud,
+Office d’impôt des districts de Lausanne et Ouest lausannois,
+-
+964 fr. 30, [...].
+S’il
+est vrai qu’aucune de ces poursuites n’était au stade de la continuation et que la
+somme totale des poursuites n’est pas très importante, le fait que le recourant ne s’acquitte
+pas de faibles montants comme 50 fr. ou 180 fr. d’impôts est plutôt inquiétant du
+point de vue des liquidités dont il disposerait. Force est donc de constater que la situation financière
+du recourant apparaît plutôt préoccupante.
+Enfin, s’il est de bonne foi et solvable, comme il le prétend, on ne voit pas en quoi l’inventaire
+requise pose difficulté au débiteur. En effet, l’inventaire ne bloque pas l’accès
+à ses biens, dont il garde le droit de disposer normalement, sous réserve des abus interdits
+par la LP et le Code pénal, mais cela suppose la survenance, ensuite, de la faillite.
+Dans ces circonstances, il y a lieu de conclure que c’est à juste titre que le premier juge
+a considéré qu’il existait un risque de préjudice suffisamment important pour K.________
+pour
+faire droit à
+sa requête d’inventaire.
+III.
+Le recours doit donc être rejeté et l’ordonnance de mesures provision-nelles attaquée
+confirmée.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant (art. 106 al. 1 CPC), qui en a déjà fait l’avance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance de mesures provisionnelles du 15 juillet 2020 est confirmée.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Christophe Tafelmacher, avocat (pour R.________),
+‑
+Me Marc-Olivier Buffat, avocat (pour K.________),
+-
+M. le Préposé à l'Office des poursuites du district de l’Ouest lausannois.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+M. le Président du Tribunal d'arrondissement de Lausanne.
+La greffière :
