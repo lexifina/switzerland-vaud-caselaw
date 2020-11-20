@@ -1,0 +1,114 @@
+---
+decision_id: "vd_findinfo_S_questre___2020___18"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Séquestre / 2020 / 18"
+decided: "2020-11-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/CPF/S%E9questre/20201120122555880_e.html"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-074.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md", "switzerland/bund/acts/272/art-241.md"]
+---
+
+# VD Findinfo Séquestre / 2020 / 18
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT} | 241 CPC (CH), 43 al. 1 let. a CDPJ
+
+## Text
+
+Vaud Tribunal cantonal Chambre des curatelles 20.11.2020 Séquestre / 2020 / 18
+
+RETRAIT{VOIE DE DROIT} | 241 CPC (CH), 43 al. 1 let. a CDPJ
+
+TRIBUNAL
+CANTONAL
+KE20.026464-201414
+329
+LE
+PRESIDENT
+DE
+LA COUR DES POURSUITES ET FAILLITES
+_________________________________________________________
+Arrêt du
+20 novembre 2020
+_______________________
+Art.
+241 CPC et 43 al. 1 let. a CDPJ
+Vu le prononcé du 10 septembre 2020, rendu à la suite de l’audience du 25 août 2020,
+par la Juge de paix du district de La Riviera-Pays-d’Enhaut, admettant partiellement l’opposition
+formée par
+X.____________
+,
+à [...] (Thaïlande), à l’ordonnance de séquestre scellée contre lui le
+30 juin 2020 à l’instance d’
+A._____________
+__
+,
+à [...], modifiant cette ordonnance en ce sens qu’elle porte sur les créances de 2’317
+fr. 50, avec intérêt à 5% l’an dès le 9 octobre 2019, et de 2'158 fr.
+35, avec intérêt à 5% l’an dès le 2 novembre 2019, et la confirmant pour le
+surplus, arrêtant à 180 fr. les frais judiciaires, compensés avec l’avance de frais
+de l’opposant, les mettant à la charge de celui-ci et disant qu’il verserait à
+l’intimé la somme de 800 fr. à titre de dépens (défraiement de son représentant
+professionnel),
+vu les motifs de ce prononcé adressés aux parties le 24 septembre 2020 et notifiés à
+X.________ le lendemain,
+vu le recours déposé le 1
+er
+octobre 2020 auprès de la Cour des poursuites et faillites par X.________,
+vu l’avance de frais de 270 fr. payée par le recourant le 22 octobre 2020,
+vu la lettre adressée le 11 novembre 2020 par le recourant à la Cour des poursuites et faillites,
+l’informant qu’il retirait son recours et demandant le remboursement de son avance de frais,
+vu l'art. 43 al. 1 let. a CDPJ (Code de droit privé judiciaire vaudois; BLV 211.02);
+attendu qu'il y a lieu de prendre acte du retrait du retrait du recours et de rayer la cause du rôle
+(art. 241 al. 3 CPC [Code de procédure civile; RS 272]),
+que la présente décision peut être rendue sans frais, l’avance de frais de 270 fr.
+versée par X.________ lui étant restituée.
+Par
+ces motifs,
+le
+Président de la Cour des poursuites et faillites du Tribunal cantonal,
+autorité
+de recours en matière sommaire de poursuites,
+statuant
+en tant que juge unique au sens de l'art. 43 CDPJ :
+I.
+Prend acte du retrait du recours.
+II.
+Raye la cause du rôle.
+III.
+Rend le présent arrêt sans frais et dit que l’avance de frais de 270 fr. (deux cent septante
+francs) versée par X.________ doit lui être restituée par la caisse du Tribunal cantonal.
+IV.
+Dit que le présent arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Christophe
+Maillard              Lise Debétaz
+Ponnaz
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. X.________,
+‑
+Me Fabien Hohenauer, avocat (pour A.________).
+Le Président/Juge unique de la Cour des poursuites et faillites considère que la valeur litigieuse
+est de 4’475 fr. 85.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110), cas échéant d'un recours constitutionnel subsidiaire au sens des art. 113 ss LTF.
+Dans les affaires pécuniaires, le recours en matière civile n'est recevable que si la valeur
+litigieuse s'élève au moins à 15'000 fr. en matière de droit du travail et de droit
+du bail à loyer, au moins à 30'000 fr. dans les autres cas, à moins que la contestation
+ne soulève une question juridique de principe
+(art.
+74 LTF). Ces recours doivent être déposés devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Juge de paix du district de La Riviera-Pays-d’Enhaut.
+La greffière :
+Lise Debétaz Ponnaz
