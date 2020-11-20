@@ -1,0 +1,455 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___2"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 2"
+decided: "2020-11-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8085731"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-138.md", "switzerland/bund/acts/312.0/art-006.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2021 / 2
+
+## Regeste
+
+NON-LIEU, IN DUBIO PRO DURIORE, ADMISSION DE LA DEMANDE, ABUS DE CONFIANCE | 138 ch. 1 CP, 319 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 20.11.2020 Décision / 2021 / 2
+
+NON-LIEU, IN DUBIO PRO DURIORE, ADMISSION DE LA DEMANDE, ABUS DE CONFIANCE | 138 ch. 1 CP, 319 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+796
+PE19.016279-JON
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+20 novembre 2020
+_____________________
+Composition
+:               M.
+Perrot
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffière
+:              Mme
+Villars
+*****
+Art.
+138 ch. 1 al. 1 CP ;
+319
+al. 1 CPP
+Statuant sur le recours interjeté le 20 mai 2020 par
+Z.________
+contre l’ordonnance de classement rendue le 13 mai 2020 par le Ministère public de l’arrondissement
+de Lausanne dans la cause
+n° PE19.016279-JON
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 17 avril 2019, Z.________, d’origine
+camerounaise et domiciliée en France, a déposé plainte auprès de la Gendarmerie nationale
+française de [...] contre la société M.________ pour escroquerie (P. 7).
+Dans sa plainte, Z.________ a exposé qu’elle avait cherché une entreprise pour transporter
+des effets personnels représentant environ 5 m
+3
+dans son pays d’origine, qu’elle avait trouvé la société M.________ par l’inter­médiaire
+d’une amie, qu’au mois de novembre 2018, elle était entrée en contact avec B.________,
+basé en Suisse, en utilisant un raccordement téléphonique suisse, que celui-ci lui avait
+remis un flyer de l’entreprise qui faisait la promotion de ce service (P. 14/3), qu’il était
+venu à son domicile à deux reprises avec un camion, soit les 5 et 11 novembre 2018, pour récupérer
+la marchandise, que la seconde fois, il était accompagné d’un homme d’origine cap
+verdienne, qu’elle lui avait remis des biens d’une valeur totale de 6'000 euros, qu’il
+lui avait remis un reçu intitulé « Bordereau d’expédition »
+avec le tampon de l’entreprise, qu’elle avait versé la somme 1'300 euros en liquide
+pour assurer le transport et qu’elle lui avait envoyé la somme de 347 fr. par « mandat
+cash » pour l’achat d’un groupe électrogène qu’il devait acheter
+à sa place au Cameroun. Elle a encore expliqué qu’elle n’avait signé aucun
+contrat de transport, que les colis n’avaient jamais été livrés, que la société
+M.________ ne répondait plus à ses appels, qu’elle avait encore eu quelques échanges
+avec B.________ le 12 mars 2019, que sa belle-sœur, chez qui ses biens devaient être livrés
+au Cameroun, avait dû payer l’équivalent de 300 euros à un individu qui s’était
+présenté comme un agent des douanes et qu’une plainte avait été déposée
+au Cameroun.
+L’adresse de la société M.________ à [...] communi­quée est celle de H.________,
+compagne de B.________, lequel est susceptible de renvoi de Suisse et d’interdiction d’entrée
+dans ce pays, et auprès de laquelle il se serait rendu régulièrement depuis cinq ans depuis
+l’Italie (P. 12/1).
+b)
+A la suite de la demande de délégation de la poursuite pénale adressée le 29 juillet
+2019 par les autorités judiciaires françaises à l’Office fédéral de la
+justice (ci-après : OFJ), la poursuite pénale étant dirigée contre une société
+ayant son siège en Suisse, le Ministère public de l’arrondissement de Lausanne (ci-après :
+Ministère public) a ouvert une instruction pénale contre B.________ et N.________.
+c)
+Entendu par la police le 10 octobre 2019 (PV aud. 1), B.________, d’origine camerounaise, a expliqué
+qu’il venait régulièrement en Suisse depuis cinq ans, qu’il allait se marier avec
+H.________, qu’il avait donné un coup de main à un ami appelé [...] pour charger
+des containers pour le Cameroun, que le premier envoi datait de 2017, qu’ils avaient mis tous les
+deux des biens dans le même container, que le dénommé [...] ne lui avait jamais payé
+les taxes et les frais qu’il lui devait pour le container, qu’[...] avait créé
+le flyer remis à Z.________ sans son autorisa­tion, qu’ils avaient fait un deuxième
+container en 2018 dans lequel il avait mis une voiture et les affaires de cinq ou six personnes, dont
+celles appartenant à Z.________, qu’il avait alors fait appel à un intermédiaire,
+D.________, vivant au Cameroun, à qui il avait donné l’argent des douanes, mais que celui-ci
+avait gardé l’argent pour lui et que les biens avaient été vendus aux enchères
+au Cameroun, qu’il n’avait pas réussi à joindre D.________ après cette histoire,
+qu’il allait déposer plainte au Cameroun dès qu’il s’y rendrait et qu’il
+n’y avait pas eu d’autres envois. B.________ a ajouté qu’il s’était
+occupé des affaires de Z.________, chez qui il s’était rendu à deux reprises avec
+un camion – dont une fois avec un ami portugais – pour récupérer ses affaires,
+que celles-ci avaient été envoyées au Cameroun dans le deuxième container, mais que
+les affaires, entretemps vendues aux enchères, n’avaient jamais été distribuées,
+que Z.________ lui avait effecti­vement confié les objets figurant sur la liste qui lui était
+soumise, mais que leur valeur ne pouvait pas atteindre 6'000 euros, qu’elle lui avait donné
+700 fr., puis « un peu » d’euros, qu’il ne gardait pas le détail
+des paiements, mais qu’il était possible que Z.________ lui ait versé 1'300 euros en
+liquide et qu’il avait bien acheté un groupe électrogène pour elle. B.________ a
+encore déclaré que N.________ était un ami qu’il connaissait depuis le Cameroun,
+qu’il n’avait pas travaillé avec N.________ pour les deux envois évoqués et
+qu’il ignorait que le dénommé [...] était N.________.
+L’extrait du casier judiciaire suisse de B.________ fait état d’une condamnation du
+3 août 2018 par le Ministère public de l’arrondissement de l’Est vaudois à
+une peine de 60 jours-amende à 30 fr. le jour, avec sursis pendant 2 ans, révoqué le 13
+août 2019, et à une amende de 600 fr. pour infractions à la loi sur la circulation routière,
+ainsi que d’une condam­nation du 13 août 2019 par le Ministère public de l’arrondissement
+de Lausanne à une peine de 150 jours-amende à 30 fr. le jour pour infractions à la LCR
+(loi fédérale sur la circulation routière du 19 décembre 1958 ; RS 741.01) et à
+la LEI (loi fédérale sur les étrangers et l’intégration du 16 décembre
+2005 ; RS 142.20).
+d)
+Lors de son audition par la police le 11 décembre 2019 (PV aud. 2), N.________, d’origine
+camerounaise, a expliqué qu’il s’était occupé de l’envoi de containers
+en Côte d’Ivoire avec son entreprise [...], que les biens étaient transportés dans
+des cartons avec une camionnette jusqu’à [...] où ils étaient stockés avant
+d’être chargés dans des containers, qu’une entreprise de transport venait récupérer
+les containers qui étaient acheminés par le train jusqu’en Belgique, puis par bateau
+jusqu’en Côte d’Ivoire, qu’il avait conçu le flyer de la société
+M.________, qu’il était le dénommé [...] et qu’il utilisait ce pseudonyme
+pour des raisons de marketing. Il a déclaré qu’il connaissait B.________ qui était
+son ami, qu’il avait collaboré une seule fois avec lui en 2018 pour l’envoi d’un
+container « pilote » au Cameroun, qu’ils avaient récupéré les
+colis ensemble chez les six clients, mais qu’il avait décidé de ne plus travailler avec
+lui car il y avait eu un problème avec cet envoi, le contact de B.________ ayant mis plus de quatre
+mois pour faire dédouaner le container et livrer les marchandises, qu’à partir de dix
+jours, les taxes pour les containers augmentaient très rapidement, que si les taxes n’étaient
+pas payées, le contenu du container était vendu aux enchères, que B.________ avait dû
+emprunter de l’argent à une amie pour payer ces taxes, qu’il avait coupé tout contact
+avec lui depuis lors et qu’il ignorait s’il avait continué dans le business des containers.
+N.________ a encore précisé qu’il ne connaissait pas Z.________, contestant toute implica­tion
+en lien avec le transfert de ses biens au Cameroun, que les dates des 5 et 11 novembre 2018 ne correspondaient
+pas à celles de l’envoi de leur container « com­mun », que Z.________
+ne faisait pas partie de ses contacts téléphoniques du Cameroun, qu’elle aurait dû
+faire partie de leur envoi « pilote » de 2018, mais qu’elle leur avait fait
+faux bond, que B.________ avait refait un container de son côté avec les affaires de plusieurs
+personnes quelques mois après, mais que le container avait disparu, qu’il y avait notamment
+les biens de V.________ dans ce container, qu’il connaissait bien cette dame et qu’il savait
+qu’elle n’avait pas récupé­ré ses affaires et qu’elle n’avait
+plus de nouvelles de B.________.
+L’extrait du casier judiciaire suisse de N.________ mentionne une condamnation du 9 décembre
+2019 par le Tribunal de police de l’arrondissement de Lausanne à une peine pécuniaire
+de 200 jours-amende à 20 fr. le jour, avec sursis pendant 2 ans, pour violation d’une obligation
+d’entretien.
+e)
+Selon le rapport d’investigation de la Police de sûreté établi le 17 mars 2020 (P.
+14/1), N.________ a été entendu en 2014 dans le cadre d’une demande d’entraide
+judiciaire de la Police cantonale de Lucerne et dans le cadre d’une demande d’entraide judiciaire
+internationale émanant de la France au sujet de biens et d’une voiture qui devaient être
+convoyés au Cameroun par l’entremise de sa société F.________ et qui n’avaient
+jamais été livrés, ainsi qu’en 2018 dans le cadre d’une demande d’entraide
+judiciaire de la Police cantonale de Neuchâtel en lien avec le transport en Guinée Conakry
+par l’entremise de la société E.________ d’un véhicule qui n’était
+jamais arrivé à destination. B.________ a quant à lui été condamné en 2019
+pour des infractions à la LCR et à la LEI, et il a été entendu par la police dans
+le cadre d’une plainte déposée par N.________ pour un vol dans un container maritime
+lui appartenant.
+Dans son rapport, la police n’a relevé aucun transfert de fonds et aucun débiteur ou
+créancier commun entre B.________ et N.________, mais elle a constaté que B.________, qui ne
+dispose pas de revenus déclarés en Suisse, a envoyé un total d’environ 28'934 fr.
+à des proches et à des particuliers entre 2017 et 2019, dont 16'926 fr. 50 au Cameroun. La
+police a constaté que l’extraction des données du téléphone portable utilisé
+par N.________ n’avait pas permis de mettre en évidence un quelconque lien entre lui et les
+biens de Z.________, si ce n’est les flyers qu’il dit avoir créés, et qu’aucun
+autre élé­ment au dossier ne permettait de relier N.________ à la présente affaire.
+f)
+A la suite de l’avis de prochaine clôture du 27 avril 2020, Z.________ a, par courrier du
+2 mai 2020 (P. 19/1), informé le Ministère public qu’elle était opposée au
+classement de la présente procédure pénale. Elle a notamment produit une déclaration
+établie et signée le 12 février 2019 par D.________, «
+représentant
+de Mr B.________ de M.________
+», par
+laquelle le prénommé reconnaissait avoir reçu la somme de «
+200.000
+FCFA (deux cent mille) des mains de Mme [...] pour le compte de Mme Z.________ à titre de solde
+sur sa facture de transport de ses colis de la Suisse au Cameroun
+»
+(P. 19/5), ainsi qu’une copie de la plainte déposée au Cameroun le 19 mars 2019 contre
+D.________ par [...] (P. 19/6).
+B.
+Par ordonnance du 13 mai 2020, le Ministère
+public a classé la procédure pénale ouverte contre B.________ et N.________ pour abus
+de confiance (I), a ordonné le maintien au dossier du DVD-R contenant les conversations WhatsApp
+entre N.________ et B.________, inventorié sous fiche n
+o
+28081, à titre de pièces à conviction (II), a dit qu’il n’y avait pas lieu
+d’octroyer à B.________ et à N.________ une indemnité au sens de l’art. 429
+CPP (
+Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0
+)
+(III) et a laissé les frais de la procédure à la charge de l’Etat (IV).
+Le procureur a considéré en substance que les divers effets personnels de Z.________ –
+machines d’électroménager, meubles et vêtements d’une valeur alléguée
+de 6'000 euros – pris en charge par B.________ pour être acheminés chez la belle-sœur
+de la prénommée domiciliée au Cameroun n’étaient jamais parvenus à destination,
+mais qu’il n’était pas possible d’infirmer les dires de B.________, selon lequel
+un dénommé D.________, intermé­diaire devant gérer le transfert du container
+au Cameroun, avait conservé l’argent destiné à payer les frais de dédouanement
+des biens et ceux-ci avaient en conséquence été vendus aux enchères par l’Etat
+camerounais, ni les dires de N.________, selon lequel il n’était pas impliqué dans cet
+envoi, puisqu’il n’avait collaboré qu’à une seule reprise avec B.________
+pour envoyer un container et que celui-ci ne contenait pas les biens de Z.________. Le procureur a également
+retenu que, sans preuves écrites, il n’était pas possible de confirmer les déclarations
+des prévenus, ni d’établir que ceux-ci avaient sciemment trompé la plaignante et
+qu’une demande d’entraide au Cameroun était d’avance vouée à l’échec,
+précisant que la plaignante pouvait agir par la voie civile en invoquant la violation du contrat
+passé avec B.________.
+C.
+Par deux actes du 20 mai 2020 postés respectivement
+en France et en Suisse (P. 22 et P. 23), Z.________ a interjeté recours contre l’ordonnance
+de classement auprès de la Chambre des recours pénale du Tribunal cantonal en concluant implicitement
+à son annulation et au renvoi de la cause au Ministère public pour complément d’instruction
+et nouvelle décision. Elle a produit plusieurs pièces à l’appui de son recours.
+Le 9 octobre 2020 (P. 25), le Ministère public a déclaré renoncer à déposer
+des déterminations. Il a transmis un extrait du guide de l’entraide judiciaire figurant sur
+le site Internet de l’Administration fédérale –
+www.rhf.admin.ch
+–  relatif aux demandes d’entraide adressées au Cameroun, dont il ressort qu’il
+est actuellement impossible d’adresser une demande d’entraide judiciaire internationale tendant
+à l’obtention de preuves au Cameroun (P. 25/1).
+B.________ ne s’est pas déterminé dans le délai qui lui a été imparti.
+Z.________ a encore développé ses moyens dans un courrier adressé le 23 octobre 2020 à
+la Cour de céans (P. 27).
+En droit
+:
+1.
+Les parties peuvent attaquer une ordonnance de
+classement rendue par le Ministère public en application des art. 319 ss CPP dans les dix jours
+devant l’autorité de recours (art. 322 al. 2 et 396 al. 1 CPP ; cf. art. 20 al. 1 let.
+b CPP) qui, dans le canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[loi d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV
+312.01] ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre 1979 ; BLV
+173.01]).
+Interjeté en temps utile par la plaignante, qui a un intérêt juridique à l’annulation
+ou la modification de l’ordonnance entreprise (art. 382 al. 1 CPP), et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours de Z.________ est recevable.
+2.
+2.1
+La recourante conteste le classement. Soutenant que B.________ l’aurait escroquée, elle fait
+valoir qu’elle ne connaîtrait pas N.________, qu’elle ne l’aurait jamais rencontré,
+qu’elle aurait confié des biens à B.________ pour qu’il les envoie au Cameroun,
+que ceux-ci ne seraient jamais arrivés à destination, que B.________ aurait menti lors de son
+audition, qu’il lui aurait avoué les faits reprochés lors de leur échange de messages
+WhatsApp
+du 12 mars 2019 en lui disant «
+bjr je
+vois tes messages tu as raison en tout
+»,
+qu’il aurait agi avec la complicité de D.________ et qu’il aurait déjà fait
+d’autres victimes avec le même stratagème. A titre de mesures d’instruction, elle
+requiert son audition personnelle par le procureur, ainsi qu’une confrontation avec B.________.
+2.2
+2.2.1
+Selon l'art. 319 al. 1 CPP, le Ministère public ordonne le classement de tout ou partie de la procédure
+lorsqu'aucun soupçon justifiant une mise en accusation n'est établi (let. a), lorsque les éléments
+constitutifs d'une infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent
+de retenir une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions
+à l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements
+de procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+La décision de classer la procédure doit être prise en application du principe «
+in dubio pro duriore
+», qui vaut également pour l'autorité judiciaire chargée de l'examen d'une décision
+de classement. Il signifie qu'en règle générale, un classement ou une non-entrée
+en matière ne peut être prononcé par le ministère public que lorsqu'il apparaît
+clairement que les faits ne sont pas punissables ou que les conditions à la poursuite pénale
+ne sont pas remplies. La procédure doit se poursuivre lorsqu'une condamnation apparaît plus
+vraisemblable qu'un acquittement ou lorsque les probabilités d'acquittement et de condamnation apparaissent
+équivalentes, en particulier en présence d'une infraction grave. En effet, en cas de doute
+s'agissant de la situation factuelle ou juridique, ce n'est pas à l'autorité d'instruction
+ou d'accusation mais au juge matériellement compétent qu'il appartient de se prononcer (ATF
+143 IV 241 consid. 2.2.1, JdT 2017 IV 357 ; ATF 138 IV 86 consid. 4.1.2 et réf. cit. ; TF 6B_1064/2019
+du 16 janvier 2020 consid. 2.1 ;
+TF
+6B_116/2019 du 11 mars 2019 consid. 2.1). En revanche, le Ministère public doit classer la
+procédure s’il apparaît, sur la base de faits assez clairs pour qu’il n’y
+ait pas lieu de s’attendre à une appréciation différente de l’autorité
+de jugement (cf. ATF 143 IV 241 consid. 2.3.2), qu’un renvoi aboutirait selon toute vraisemblance
+à un acquittement.
+Pour pouvoir constater légitimement que l’instruction ne corrobore aucun soupçon justifiant
+une mise en accusation (art. 319 al. 1 let. a CPP), le Ministère public doit avoir préalablement
+procédé, conformément à la maxime de l’instruction (art. 6 al. 1 CPP), à
+toutes les mesures d’instruction pertinentes susceptibles d’établir l’existence
+de soupçons suffisants justifiant une mise en accusation (CREP 11 octobre 2019 consid. 2.2.1 ;
+CREP 10 mai 2016/305 et réf. cit.).
+2.2.2
+Commet un abus de confiance au sens de l'art. 138 ch. 1 al. 1 CP, celui qui, pour se procurer ou procurer
+à un tiers un enrichissement illégitime, se sera approprié une chose mobilière appartenant
+à autrui et qui lui avait été confiée.
+Sur le plan objectif, cette infraction suppose la réalisation de trois conditions, à savoir
+l'existence d'une chose mobilière, que cette chose ait été confiée à l'auteur
+et que ce dernier se soit approprié la chose en violation du rapport de confiance. Une chose est
+confiée au sens de l'art. 138 ch. 1 CP lorsqu'elle est remise ou laissée à l'auteur, en
+vertu d'un accord ou d'un autre rapport juridique, pour qu'il l'utilise d'une manière déterminée
+dans l'intérêt d'autrui, en particulier pour qu'il la garde, l'administre ou la livre selon
+des instructions qui peuvent être expresses ou tacites (Corboz, Les infractions en droit suisse,
+vol. I, 3
+e
+éd., 2010 n. 4 ad art. 138 CP ; ATF 133 IV 21 consid. 6.2 ; TF 6B_1043/2013
+du 4 juillet 2014 consid. 3.1.1). L'acte d'appropriation signifie tout d'abord que l'auteur incorpore
+économiquement la chose ou la valeur de la chose à son propre patrimoine, pour la conserver,
+la consommer ou pour l'aliéner; il dispose alors d'une chose comme propriétaire, sans pour
+autant en avoir la qualité. Du point de vue subjectif, l'auteur doit avoir agi intentionnellement
+et dans un dessein d'enrichissement illégitime, lequel peut être réalisé par dol
+éventuel (ATF 118 IV 32 consid. 2a)
+2.3
+En l’espèce, il résulte de l’examen du dossier que N.________ a fait l’objet
+de plusieurs plaintes pénales en Suisse en lien avec des biens confiés non acheminés au
+Cameroun ou en Guinée Conakry, à plusieurs reprises, sous les enseignes des sociétés
+F.________ et E.________
+(P. 14/1 p. 5).
+Lors de son audition par la police, B.________ a pour sa part reconnu s’être rendu à
+deux reprises chez la plaignante, dont une fois avec le dénommé « [...]», qui
+ne serait pas N.________, et avoir pris en charge les biens confiés dont la liste a été
+annexée au procès-verbal de son audition (annexe au PV aud. 1). Selon sa version, les biens
+de la plaignante n’auraient pas été dédouanés par le déclarant en douane
+D.________, malgré le règlement des taxes douanières, raison pour laquelle le contenu
+du container aurait été vendu aux enchères par l’Etat camerounais. Quant à
+N.________, il a expliqué qu’il avait eu recours au pseudonyme « [...]» pour
+des raisons de marketing dans le cadre de son activité de convoyeur sous l’enseigne de la
+société [...]. Si les deux prévenus ont admis avoir travaillé au moins une fois ensemble
+pour l’envoi d’un container au Cameroun en 2018, N.________ a dit que la collaboration avec
+B.________ s’était mal passée, dès lors que le commissionnaire choisi par ce dernier
+avait tardé à faire sortir le container, provoquant une augmentation exponentielle des taxes
+douanières et, en cas de non-paiement, la vente aux enchères de son contenu. N.________ a affirmé
+n’avoir rien touché pour cet envoi qui lui avait fait de la mauvaise publicité et avoir
+cessé toute collaboration avec B.________. N.________ a nié connaître la plaignante et
+toute implication dans le transport de ses biens au Cameroun, contestant en particulier avoir rempli
+le bordereau d’expédition qui lui avait été remis (P. 14/2), mais admettant avoir
+créé ceux relatifs à leur container « pilote » commun. Aucun mouvement
+d’argent ou débiteur/créancier commun n’a été mis en évidence entre
+les deux prévenus (P. 14/1 p. 5). Quant à l’extraction des données du téléphone
+portable de N.________, elle n’a pas permis de mettre quoi que ce soit en évidence susceptible
+de rendre plausible son implication dans la dispa­rition des biens de la plaignante, hormis la présence
+de flyers de la société M.________ (P. 14/3), qu’il a dit avoir créés lui-même.
+On relèvera encore à ce stade que B.________, qui ne déclare pas de revenus en Suisse,
+a malgré tout été en mesure d’envoyer l’équivalent de 28'934 fr. à
+des proches et à des particuliers, entre 2017 et 2019, dont près de 17'000 fr. au Cameroun
+(P. 14/1 p. 6 et P. 14/6). La commission rogatoire aux autorités camerounaises destinées à
+rassembler des informations relatives à la vente aux enchères du container qui contenait les
+biens de la plaignante, suggérée par la police, s’avère impossible (P. 25/1).
+A ce stade de l’instruction, force est de constater que B.________ a menti quant à sa collaboration
+avec N.________, avec lequel il a bel et bien travaillé en vue de l’envoi de containers au
+Cameroun, et il apparaît certain que B.________ a utilisé le cadre contractuel mis en place
+par N.________ pour proposer ses services de transporteur à la plaignante, dont les biens confiés
+n’ont jamais été livrés. Toutefois, comme le retient le procureur dans l’ordonnance
+de classement, aucun élément du dossier ne permet, en l’état, de mettre en doute
+la version des faits de l’un ou l’autre des prévenus, ni d’établir celle
+de la plaignante. Or, l’instruction apparaît d’emblée insuf­fisante. En effet,
+il est avéré que B.________ frayait avec N.________, lequel a fait l’objet de plusieurs
+plaintes similaires pour détournement d’objets confiés dans des circons­tances analogues
+en 2014 et 2018 (P. 14/1 p. 5), que le premier nommé a envoyé plus de 28'000 fr. à des
+proches et à des particuliers entre 2017 et 2019, alors qu’il a affirmé n’avoir
+jamais travaillé en Suisse et qu’il n’a déclaré aucun revenu en Suisse, et
+que les déclarations des deux prévenus sur leurs liens sont concordantes, puisqu’ils
+ont tous deux reconnus qu’ils étaient « amis ». Il apparaît en outre
+que B.________, qui a dit s’être rendu chez la plaignante à deux reprises pour récupérer
+les biens devant être transportés au Cameroun et s’être chargé du container
+contenant les affaires confiées par celle-ci, n’a pas été en mesure de fournir la
+moindre preuve de l’envoi de ce container au Cameroun, que ce prévenu est défavorablement
+connu des services de police, puisqu’il a été condamné pour infraction à la
+LCR en 2018 et pour infraction à la LEI en 2019, et entendu en qualité de personne appelée
+à donner des renseignement ensuite d’une plainte déposée par N.________ pour vol
+dans un container maritime lui apparte­nant (P. 14/1 p. 4), et que N.________ a dit qu’il
+connaissait une autre victime de B.________, V.________, qui pourrait vraisemblablement être identifiée
+et entendue. Dans ces conditions, si l’autorité de jugement devait retenir que B.________
+avait menti, ses déclarations seraient moins crédibles que celles de la plaignante et une condam­nation
+de B.________ et de N.________ ne pourrait pas être exclue.
+Au vu de ce qui précède, il s’impose, au regard du principe «
+in
+dubio pro duriore
+», de clarifier les
+faits litigieux et de mettre en œuvre toutes les mesures d’instruction nécessaires pour
+déterminer les rôles de chacun des deux protago­nistes et de l’intermédiaire
+D.________, et ce qu’il est advenu des biens confiés par la plaignante et des montants qu’elle
+a payés. Ainsi, il appartiendra au procureur de procéder à des mesures d’instruction
+complémentaires, savoir en particulier l’audition des deux prévenus – qui ont pour
+l’heure été entendus uniquement par la police – et de la plaignante, ainsi que
+leur confrontation, l’extraction des données du téléphone portable de B.________
+et l’audition de V.________, et la vérification des différents éléments avancés
+par la recourante dans sa correspondance du 22 octobre 2020 (P. 27). Enfin, les prévenus seront
+invités à produire toutes pièces attestant de leur version des faits.
+3.
+Au vu de ce qui précède, le recours interjeté par Z.________ doit être admis et l’ordonnance
+de classement annulée, le dossier de la cause étant renvoyé au Ministère public pour
+qu’il procède dans le sens des considérants.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 1'320 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront laissés
+à la charge de l’Etat (art. 428 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 13 mai 2020 est annulée.
+III.
+Le dossier de la cause est renvoyé au Ministère
+public de l’arrondissement de Lausanne pour qu’il procède dans le sens des considérants.
+IV.
+Les frais d’arrêt, par 1'320 fr. (mille trois cent vingt francs), sont laissés à
+la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mme Z.________,
+-
+M. B.________,
+-
+M. N.________,
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de Lausanne,
+-
+Service de la population (B.________, né le [...]1979 ; N.________, né le [...]1963),
+-
+Office fédéral de la justice, Entraide judiciaire internationale,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
