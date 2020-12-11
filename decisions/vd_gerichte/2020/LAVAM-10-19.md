@@ -1,0 +1,161 @@
+---
+decision_id: "vd_gerichte_LAVAM 10_19"
+court: "VD Gerichte"
+court_id: "vd_gerichte"
+chamber: "CASSO"
+docket: "LAVAM 10/19"
+decided: "2020-12-11"
+published: "2022-06-08"
+language: "fr"
+legal_area: "LAVAM"
+source_url: "https://prestations.vd.ch/pub/101623/"
+pdf_url: "https://prestations.vd.ch/pub/101623/api/decision/download/d141989c-01f6-4506-979d-bb5157e4b213"
+cites_decisions: ["BGE 130 V 90", "BGE 134 I 313"]
+cites_law: ["switzerland/bund/acts/173.110/art-082.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/173.110/art-113.md"]
+---
+
+# LAVAM
+
+## Text
+
+TRIBUNAL CANTONAL LAVAM 10/19
+ZL19.051626
+CO UR DE S ASSURANCES S OCIALES
+_____________________________________________
+Ordonnance du 11 décembre 2020
+__________________
+Composition : Mme DESSAUX, juge instructrice
+Greffière : Mme Tedeschi
+*****
+Cause pendante entre :
+Q.________, à [...], recourant, représenté par Me Flore Primault, avocate à
+Lausanne,
+et
+OFFICE VAUDOIS DE L'ASSURANCE-MALADIE, à Lausanne, intimé.
+_______________
+Art. 25 et 94 al. 2 LPA-VD.
+413
+
+- 2 -
+E n f a i t e t e n d r o i t :
+Vu la décision sur opposition du 16 octobre 2019 de l'Office
+vaudois de l'assurance-maladie (ci-après : l'OVAM ou l'intimé) refusant à
+Q.________ (ci-après : l'assuré ou le recourant) et B.________ un droit aux
+subsides pour le paiement de leurs primes d'assurance obligatoire des
+soins,
+vu le recours interjeté le 19 novembre 2020 par le seul
+recourant, assisté de son conseil, auprès de la Cour des assurances
+sociales du Tribunal cantonal à l'encontre de cette décision sur opposition,
+vu la réponse du 9 mars 2020 de l'intimé,
+vu la requête de suspension de la procédure du 21 août 2020,
+présentée par le recourant, la suspension étant demandée jusqu'à l'issue
+de la procédure d'imposition pour l'année fiscale 2018, étant donné que la
+décision de taxation 2018 allait avoir une incidence sur le litige en cause,
+vu les déterminations du 16 octobre 2020 de l'intimé,
+concluant au rejet de la requête en suspension de cause,
+vu les pièces au dossier ;
+attendu que le magistrat instructeur est compétent pour
+prendre les décisions d'instruction, celles relatives à l'effet suspensif, aux
+mesures provisionnelles et à l'assistance judiciaire (art. 94 al. 2 première
+phrase LPA-VD [loi cantonale vaudoise du 28 octobre 2008 sur la
+procédure administrative ; BLV 173.36]),
+que selon l'art. 25 LPA-VD, le juge instructeur peut, d'office ou
+sur requête, suspendre la procédure pour de justes motifs, notamment
+lorsque la décision à prendre dépend de l'issue d'une autre procédure ou
+pourrait s'en trouver influencée d'une manière déterminante,
+
+- 3 -
+que la suspension de procédure doit toutefois rester
+l'exception (ATF 130 V 90 consid. 5 ; 119 II 386 consid. 1b),
+que selon l'art. 65 al. 3 première phrase LAMaI (loi fédérale du
+18 mars 1994 sur l'assurance-maladie ; RS 832.10), les cantons veillent,
+lors de l'examen des conditions d'octroi de réductions de primes, à ce que
+les circonstances économiques et familiales les plus récentes soient prises
+en considération, notamment à la demande de l'assuré,
+que ces principes ont été repris dans la LVLAMal (loi du 25 juin
+1996 d'application vaudoise de la loi fédérale sur l'assurance-maladie ;
+BLV 832.01),
+que l'art. 11 al. 1 LVLAMal renvoie à la LHPS (loi du 9
+novembre 2010 sur l'harmonisation et la coordination de l'octroi des
+prestations sociales et d'aide à la formation et au logement cantonales
+vaudoises ; BLV 850.03), en ce qui concerne le calcul du revenu
+déterminant, la composition de l'unité économique de référence et la
+hiérarchisation des prestations sociales,
+que le revenu déterminant unifié sert de base pour le calcul du
+droit à une prestation (art. 6 al. 1 LHPS),
+qu'il est défini à l'art. 6 al. 2 LHPS, selon lequel le revenu
+déterminant unifié est constitué du revenu net, au sens de la LI (loi
+vaudoise du 4 juillet 2000 sur les impôts directs cantonaux ; BLV 642.11),
+cas échéant majoré,
+qu'en dérogation au principe posé à l'art. 11 LVLAMal, l'art. 12
+al. 1 LVLAMal prévoit que le revenu déterminant pour le subside est
+calculé sur la base de la situation économique réelle du requérant, si ce
+calcul aboutit à un revenu déterminant qui diffère de 20 % ou plus du
+revenu déterminant, au sens de l'art. 11 LVLAMal, donc du revenu
+
+- 4 -
+déterminant unifié, conformément à l'art. 6 LHPS (voir également à ce
+propos, ATF 134 I 313 consid. 5.6.4),
+que selon l'art. 11 al. 4 LVLAMal, le Conseil d'Etat fixe la
+période fiscale de référence prise en compte dans le calcul du revenu
+déterminant,
+qu'en application de l'art. 4 de l'arrêté du Conseil d'Etat
+vaudois du 9 mai 2018 concernant les subsides aux primes de l'assurance-
+maladie obligatoire en 2018 (BLV 832.00.090518.1), la période fiscale
+prise en compte dans le calcul du revenu déterminant est celle faisant
+l'objet de la décision de taxation définitive la plus récente entrée en force
+au 30 septembre 2017 (al. 1) ; à défaut de données fiscales récentes, les
+dernières données financières utilisées pour le calcul du subside en 2017,
+notamment dans le cadre d'une actualisation conformément à l'art. 6
+LHPS, seront reprises pour le calcul du subside en 2018 (al. 2),
+que conformément à l'art. 4 al. 1 de l'arrêté du Conseil d'Etat
+vaudois du 10 octobre 2018 concernant les subsides aux primes de
+l'assurance-maladie obligatoire en 2019, lorsque conformément à l'art. 11
+al. 4 LVLAMal, le calcul du revenu déterminant le droit au subside est
+opéré par l'OVAM au 31 décembre 2018 au plus tard, la période fiscale
+prise en compte est celle ayant fait l'objet de la dernière décision de
+subside rendue par l'OVAM, sous réserve d'une actualisation financière
+selon l'art. 12 LVLAMal,
+qu'en l'occurrence, le recourant requiert la suspension de la
+présente cause dans l'attente de la décision de taxation 2018,
+qu'une telle suspension irait à l'encontre du système mis en
+place par le législateur vaudois, à savoir la prise en compte de la décision
+de taxation définitive la plus récente rendue avant l'année du droit aux
+subsides,
+
+- 5 -
+que l'attente de la décision de taxation définitive pour l'année
+fiscale 2018 irait également à l'encontre du principe de célérité,
+que la dérogation instituée par l'art. 12 al. 1 LVLAMal permet
+par ailleurs de corriger les effets de l'absence de décision de taxation
+récente,
+qu'en l'espèce, le droit aux subsides du recourant a été calculé
+sur la base de cette disposition légale,
+qu'au demeurant la procédure de révision procédurale
+préserve les droits des requérants dans l'hypothèse de faits nouveaux,
+qu'en conséquence, la requête de suspension de cause est
+rejetée,
+que les frais et dépens de la présente procédure suivent le sort
+de la cause au fond,
+Par ces motifs,
+la juge instructrice
+p r o n o n c e :
+I. La requête de suspension de la procédure est rejetée.
+II. Les frais et dépens de la présente procédure suivent le sort de
+la cause au fond.
+La juge instructrice : La greffière :
+
+- 6 -
+Du
+L’ordonnance qui précède est notifiée à :
+- Me Flore Primault (pour Q.________),
+- Office vaudois de l'assurance-maladie,
+par l'envoi de photocopies.
+La présente décision peut l'objet d'un recours en matière de
+droit public devant le Tribunal fédéral au sens des art. 82 ss LTF (loi du 17
+juin 2005 sur le Tribunal fédéral ; RS 173.110), cas échéant d'un recours
+constitutionnel subsidiaire au sens des art. 113 ss LTF. Ces recours doivent
+être déposés devant le Tribunal fédéral (Schweizerhofquai 6, 6004
+Lucerne) dans les trente jours qui suivent la présente notification (art. 100
+al. 1 LTF).
+La greffière :
