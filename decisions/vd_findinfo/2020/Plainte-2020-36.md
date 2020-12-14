@@ -1,0 +1,739 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___36"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 36"
+decided: "2020-12-14"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8030915"
+cites_law: ["switzerland/bund/acts/101/art-009.md", "switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-069.md", "switzerland/bund/acts/220/art-085.md", "switzerland/bund/acts/220/art-086.md", "switzerland/bund/acts/220/art-089.md", "switzerland/bund/acts/220/art-114.md", "switzerland/bund/acts/281.1/art-012.md", "switzerland/bund/acts/281.1/art-016.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-068.md", "switzerland/bund/acts/281.1/art-144.md", "switzerland/bund/acts/281.35/art-016.md", "switzerland/bund/acts/281.35/art-019.md", "switzerland/bund/acts/281.35/art-020.md", "switzerland/bund/acts/830.1/art-026.md", "switzerland/bund/acts/830.1/art-049.md", "switzerland/bund/acts/830.1/art-052.md", "switzerland/bund/acts/832.102/art-105a.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 36
+
+## Regeste
+
+AVIS DE SAISIE, ACOMPTE, IMPUTATION, INTÉRÊT MORATOIRE | 85 al. 1 CO, 12 LP, 16 al. 1 LP, 68 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 14.12.2020 Plainte / 2020 / 36
+
+AVIS DE SAISIE, ACOMPTE, IMPUTATION, INTÉRÊT MORATOIRE | 85 al. 1 CO, 12 LP, 16 al. 1 LP, 68 LP
+
+TRIBUNAL
+CANTONAL
+FA19.052345-200490
+36
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+14 décembre 2020
+_______________________
+Composition
+:               M.
+Maillard
+,
+président
+Mmes
+Byrde et Rouleau, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+12, 16 al. 1 et 68 LP ; 85 al. 1 CO
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+K.________
+,
+à [...], contre la décision rendue le 10 mars 2020, à la suite de l’audience
+du 13 janvier 2020, par la Présidente du Tribunal d’arrondissement de La Côte, autorité
+inférieure de surveillance, statuant sur la plainte déposée par le recourant contre un
+avis de saisie établi par l’
+Office
+des poursuites du district de Nyon
+dans le cadre
+d’une poursuite exercée contre lui à l’instance de
+V.________SA
+,
+à [...].
+Vu les pièces du dossier, la cour considère :
+En fait :
+1.
+a)
+Le
+15 juin 2018, à la réquisition de V.________SA, l’Office des poursuites du district de
+Nyon (ci-après : l’Office) a notifié à K.________, dans la poursuite n°
+8'764'865, un commandement de payer portant sur les montants de (1) 177 fr. 10, sans intérêt,
+(2) 2'090 fr. 35, plus intérêt à
+5%
+l’an dès le 4 juin 2018, (3 et 4) 240 fr. et 30 fr. 85, sans intérêt, indiquant
+comme titre de la créance ou cause de l’obligation : « (
+1)
+Participation LAMal 08.2017-09.2017 (2) Prime LAMal 10.2017-03.2018 (3) Frais administratifs (4) Intérêts
+échus
+». Le débiteur
+a formé opposition totale le 22 juin 2018.
+b)
+Le 27 juin 2018, la créancière a rendu une décision selon l’art. 49 LPGA (loi fédérale
+sur la partie générale du droit des assurances sociales; RS 830.1), par laquelle elle a levé
+l’opposition du débiteur au commandement de payer précité pour la somme de 2'507
+fr. 45 (2'090 fr. 35 + 177 fr. 10 + 240 fr.). La décision précisait que, de plus, l’art.
+26 al. 1 LPGA prévoyait un intérêt moratoire, fixé au taux de
+5%
+l’an (art. 105a OAMal [ordonnance sur l’assurance-maladie ; RS 832.102]). L’opposition
+n’a pas été levée pour le montant de 30 fr. 85 d’intérêts échus.
+c)
+Le 29 août 2018, l’Office a reçu une réquisition de continuer la poursuite fondée
+sur la décision administrative précitée. Le même jour, il a établi un avis de
+saisie pour un montant de 2'665 fr. 55 comprenant le montant réclamé ainsi que les intérêts
+et les frais.
+Le 3 septembre 2018, K.________ a déposé une plainte LP contre ledit avis. Il faisait valoir
+que, le 27 août 2018, il s’était opposé à la décision administrative du
+27 juin 2018 et que, par conséquent, celle-ci n’était pas exécutoire.
+Par prononcé du 2 novembre 2018, la Présidente du Tribunal d’arron-dissement de la Côte,
+autorité inférieure de surveillance, a admis la plainte et annulé l’avis de saisie
+litigieux.
+d)
+Le 18 septembre 2018, l’Office a enregistré
+une annonce reçue de la créancière, via le système E-LP, du versement d’un
+acompte de 222 fr., valeur au 14 septembre 2018, sur la poursuite en cause.
+e)
+Le 31 décembre 2018, la créancière
+a rendu une décision sur opposition selon l’art. 52 LPGA, rejetant l’opposition formée
+par le débiteur contre la décision du 27 juin 2018 et confirmant cette décision. Le détail
+du montant total dû de 2'285 fr. 45 était le suivant : 2'090 fr. 35 de primes LAMal 10.2017-03.2018,
+plus 177 fr. 10 de participations LAMal, plus 120 fr. de frais de sommation, plus 120 fr. de frais d’ouverture
+de dossier, moins 222 fr. d’acompte. La décision précisait que, de plus, l’art.
+26 al. 1 LPGA prévoyait un intérêt moratoire, fixé au taux de
+5%
+l’an (art. 105a OAMal [ordonnance sur l’assurance-maladie ; RS 832.102]).
+f)
+Par arrêt du 6 mai 2019, la Juge unique
+de la Cour des assurances sociales (CASSO) du Tribunal cantonal a rejeté le recours formé par
+le débiteur contre la décision précitée du 31 décembre 2018 et a confirmé
+cette décision.
+g)
+Le 17 septembre 2019, le débiteur a versé
+un second acompte, de 2'285 fr. 45, valeur au 16 septembre 2019, sur la poursuite en cause. L’Office
+a établi un avis de répartition qui détaille le solde dû comme suit :
+Détail
+du solde
+Attribution
+Solde
+Capital
+:
+*2'316.30
+2'285.45
+272.95
+Acompte
+:
+222.00
+Intérêts
+:
+130.05
+Frais
+de poursuite :
+100.60
+Frais
+externes :
+0.00
+Frais
+d’encaissement :
+11.45
+*(= 2'285.45 + 30.85)
+Solde
+2'558.40
+Totaux
+:
+2'285.45
+272.95
+Le même jour, l’Office a envoyé au débiteur un décompte, intitulé « Solde
+d’une poursuite », accompagné d’un bulletin de versement pour un montant de
+278 fr. 20, arrêté selon le calcul suivant :
+Montant
+:              Créance
+: Fr.
+2'538.30
+(=2'285.45 + 30.85 +
+222)
+Intérêts
+: Fr.
+130.30
+Frais
+: Fr.
+117.05
+Versements
+: Fr.
+2'507.45
+(=
+2'285.45 +222)
+Solde au 24.09.2019              : Fr.
+278.20
+Le 26 septembre 2019, le débiteur a déposé une plainte au sens de l’art. 17 LP contre
+ce décompte, avec demande d’effet suspensif.
+Par décision du 25 octobre 2019, l’Office a annulé ce décompte en application de
+l’art. 17 al. 4 LP. Le débiteur a alors retiré sa plainte.
+h)
+Le 4 octobre 2019, la créancière
+a déposé une nouvelle réquisition de continuer la poursuite n° 8’764'865, à
+laquelle étaient jointes ses décisions de mainlevée et de rejet d’opposition des
+27 juin 2018 et 31 décembre 2018, et l’arrêt de la CASSO du 6 mai 2019. Le détail
+de la créance mentionne le montant d’intérêts échus de 30 fr. 85, pour lequel
+l’opposition n’a pas été levée.
+i)
+Le 11 novembre 2019, l’Office a établi un nouvel avis de saisie, « joint à
+la saisie qui était prévue le 19.09.2019 » pour un montant de 293 fr. 75, frais et
+intérêts compris, qu'il n'a pas détaillé. Cet avis a été envoyé en
+courrier A au débiteur le 12 novembre 2019.
+2.
+a)
+Par plainte déposée le 22 novembre
+2019 auprès de la Présidente du Tribunal d’arrondissement de la Côte, autorité
+inférieure de surveillance, K.________ a pris les conclusions suivantes :
+«
+1.              Prononcer l’effet
+suspensif
+2.              Ordonner à l’Office
+des poursuites de Nyon de rectifier le montant de son avis de saisie du 11 novembre 2019 en déduisant
+le montant de CHF 81.85.- sur le solde de la poursuite n° 8764865, soit un solde à payer de
+211.90, intérêts et frais compris. (et non pas CHF 293.75).
+»
+Il invoquait une surfacturation de l’Office de 81 fr. 85*, au motif que, selon lui, les intérêts
+se montaient à 115 fr. 50, et non à 130 fr. 30 et les frais de l’Office à 96 fr.
+40 en application des art. 16, 19 et 20 OELP (ordonnance sur les émoluments perçus en application
+de la LP ; RS 281.35) et non à 117 fr. 05. Il calculait ainsi les intérêts :
+l’acompte de 222 fr. ayant été payé avant la poursuite, la créance portant
+intérêt s’élevait selon lui à 1'868 fr. 35 et non à 2'090 fr. 35 ;
+au taux de
+5%
+l’an
+« pendant 462 jours (du 4.06.2018 au 16.09.2019 date de l’extinction de la créance
+portant intérêts suite à [son] versement de 2'285 fr. 45) », les intérêts
+se montaient selon lui à 115 fr. 50. Il faisait ainsi valoir en substance que les deux acomptes
+versés devaient être d’abord imputés sur le capital et que le 16 septembre
+2019, date du versement du second acompte, la créance portant intérêt aurait été
+éteinte.
+Par décision du 25 novembre 2019, la présidente du tribunal a prononcé l’effet suspensif
+requis jusqu’à droit connu sur la plainte.
+b)
+Par déterminations du 18 décembre 2019, l’Office a préavisé en faveur du rejet
+de la plainte. Il a présenté comme suit le « détail de la poursuite » :
+«
+1)               Participations LAMal
+08.2017-09.2017
+Fr. 177.10, sans intérêt
+en 2
+ème
+classe
+2) Primes LAMal 10.2017-03.2018
+Fr. 2'090.35 avec 5% dès
+le 04.06.2018 en 2
+ème
+classe
+3)              Frais administratifs
+Fr. 240.00, sans intérêt
+en 3
+ème
+classe
+4) Intérêts échus
+Fr. 30.85, sans intérêt
+en 2
+ème
+classe
+»
+Il a exposé que, lors du versement d’un acompte - en l’occurrence, un acompte de 222
+fr. le 14 septembre 2018 et un autre de 2'285 fr. 45 le 16 septembre 2019 -, il appliquait l’art.
+85 CO (Code des obligations; RS 220) ; ainsi, le montant versé servait à payer d’abord
+les frais de l’office, puis les intérêts, puis enfin le capital. Il a présenté
+le calcul suivant du solde dû au 6 décembre 2019, qui ne comprenait pas les frais futurs et/ou
+frais d’encaissement plus intérêts courants :
+Créances :
+Fr.               2'538.30
+Acomptes :
+Fr.
+-              2'507.45
+Intérêts
+au 6.12.19 :
+Fr.
+132.65
+Frais
+de poursuite :
+Fr.
+126.05
+Frais
+externes :
+Fr.
+0.00
+Solde :
+Fr.
+289.55
+Quant au calcul des frais de poursuite fixés à 126 fr. 05, l’Office a expliqué avoir
+tenu compte des opérations suivantes :
+1.
+établissement et envoi du commandement de payer le 7 juin 2018 : émoluments de 60 fr.
+(art. 16 OELP) et débours de 13 fr. 30 ;
+2. enregistrement
+de la réquisition de continuer la poursuite le 29 août 2018 : émoluments de 5 fr.
+(art. 20 al. 4 OELP) ;
+3.
+établissement et envoi de l’avis de saisie le 29 août 2018 : émoluments de
+8 fr. (art. 5 al. 1 et 9 ch. 1 let. a OELP) et débours de 1 fr. ;
+4.
+enregistrement du retrait de la réquisition de continuer du 6 décembre 2018 : émoluments
+de 8 fr. (art. 5 al. 1 et 9 ch. 1 let. a OELP) et débours de 5 fr. 30 ;
+5.
+encaissement et transmission du 17 septembre 2019 : émoluments de 11 fr. 45 (art. 19 ch. 1
+OELP) ;
+6.
+établissement et envoi de l’avis de saisie du 11 novembre 2019 : émoluments de 8 fr.
+(art. 5 al. 1 et 9 ch. 1 let. a OELP) et débours de 1 fr. ;
+7.
+enregistrement de la réquisition de continuer la poursuite du 11 novembre 2019 : émoluments
+de 5 fr. (art. 20 al. 4 OELP).
+En droit, l’Office a cité les dispositions topiques de l’OELP fondant la perception
+de ses émoluments et l’art. 85 CO.
+c)
+Le plaignant s’est spontanément déterminé le 10 janvier 2020. Il a soutenu que l’art.
+85 CO n’était pas applicable à une poursuite par voie de saisie, mais uniquement à
+une poursuite en réalisation de gage, en citant deux arrêts du Tribunal fédéral (TF
+5A_780/2010 du 24 mars 2011 consid. 2.1, dont le dernier paragraphe se référerait à l’ATF
+121 III 432). Il en déduisait que, dès lors que sa créance portant intérêt à
+5%
+avait été entièrement payée, aucun intérêt ne pouvait plus courir.
+d)
+Lors de l’audience de plainte tenue le 13 janvier 2020, l’Office a indiqué que les frais
+des opérations 2 à 4 de ses déterminations du 18 décembre 2019, soit 27 fr. 30 seraient
+déduits. Un délai au 20 janvier 2020 a été imparti au plaignant pour indiquer s’il
+maintenait sa plainte.
+e)
+Par lettre du 18 janvier 2020, le plaignant a fait valoir que le 16 septembre 2019, date à
+laquelle il avait versé le deuxième acompte, la somme totale des acomptes de 2'507 fr. 45 avait
+intégralement payé les frais de poursuite, soit 98 fr. 75 (126 fr. 05 – 27 fr. 30 (opérations
+2 à 4 précitées de l’Office)), les « intérêts au 16.9.19 »
+de 132 fr. 65 sur le montant de 2'090 fr. 35 et ce dernier montant ; partant, aucun intérêt
+ne pouvait courir après cette date et le solde indiqué dans l’avis de saisie, incluant
+des intérêts courant après le 16 septembre 2019, était faux ; le montant
+exact à payer était, selon lui, de 262 fr. 25 : 2'538 fr. 30 (créances), dont à
+déduire 2'507 fr. 45 (acomptes), 132 fr. 65 (intérêts) et 98 fr. 75 (frais poursuite).
+Si l’Office admettait ce solde, il retirerait sa plainte.
+Par déterminations du 30 janvier 2020, l’Office a exposé que les intérêts calculés
+au 16 septembre 2019 se chiffraient à 129 fr. 45, et qu’à cette date, la poursuite affichait
+un solde de 264 fr. 05, y compris les frais d’encaissement ; il a relevé que le plaignant
+n’indiquait pas comment il obtenait un chiffre de 132 fr. 65 d’intérêts au 16 septembre
+2019, d’une part, et que celui-ci ne tenait pas compte des frais d’encaissement selon l’art.
+19 OELP, d’autre part. Au 28 janvier
+2020, l’Office arrivait à un solde
+dû de 267 fr. 90, soit une différence de 65 centimes avec le montant que plaignant admettait
+devoir, majoré des frais d’encaissement de 5 fr. (262 fr. 25 + 5 = 267 fr. 25). L’Office
+rappelait en outre que les intérêts continuaient à courir et que les acomptes, dès
+lors que certaines créances de la poursuite en cause concouraient dans la même classe, n’étaient
+pas « mis à 100% sur la créance comportant des intérêts », mais
+« répartis au prorata des montants des créances et selon leur classe »,
+en application des dispositions de la LP. Il confirmait enfin avoir effectué les calculs sans les
+frais du premier avis de saisie du 29 août 2018 qui avaient été annulés.
+Par lettre du 31 janvier 2020, l’autorité inférieure de surveillance a fait remarquer
+au plaignant que le montant de 5 fr. qui le séparait de l’Office correspondait aux frais d’encaissement,
+et lui a imparti un délai au 12 février 2020 pour indiquer si la plainte était néanmoins
+maintenue.
+Par lettre du 12 février 2020, le plaignant a déclaré maintenir sa plainte et sa position
+selon laquelle le solde définitif dû dans la poursuite en cause se montait à 262 fr. 25.
+Il a contesté avoir omis les frais d’encaissement dans ses calculs, exposant en avoir tenu
+compte à hauteur de 12 fr. 55 (
+5‰
+de 2'507 fr. 45 selon l’art. 19 OELP), compris dans le montant de 98 fr. 75 retenu comme frais
+de poursuite. Il a détaillé son calcul du montant des intérêts de 132 fr. 64 (2'090
+fr. 35 x 5% : 365 x 462), et a derechef soutenu que les intérêts ne couraient plus depuis le
+16 septembre 2019. Il a en outre invoqué l’illégalité de la « répartition
+des acomptes au prorata des créances et selon leur classe », qui serait contraire à
+la LP, en particulier à son art. 220 al. 2, selon lequel tant que les créanciers d’une
+classe précédente n’ont pas été complètement désintéressés,
+ceux des classes suivantes ne reçoivent rien.
+3.
+Par décision du 10 mars 2020, la Présidente du Tribunal d’arrondissement de la Côte,
+autorité inférieure de surveillance, a admis partiellement la plainte (I), invité l’Office
+à déduire du montant de l’avis de saisie du 11 novembre 2019 les frais relatifs à
+l’avis de saisie du 29 août 2018 à hauteur de 27 fr. 30 (II), rendu la décision
+sans frais ni dépens (III) et rejeté toutes autres ou plus amples conclusions (IV). Elle a
+considéré en substance que, contrairement à ce que soutenait le plaignant, l’art.
+85 al. 1 CO, qui prévoit que le débiteur ne peut imputer un paiement partiel sur le capital
+qu’en tant qu’il n’est pas en retard pour les intérêts ou les frais, s’appliquait
+en l’espèce ; en particulier, elle a estimé que si cette disposition valait pour
+la poursuite en réalisation de gage, comme le relevaient les arrêts du Tribunal fédéral
+dont se prévalait le plaignant, elle s’appliquait plus généralement en matière
+de poursuite, et donc également à la poursuite par voie de saisie. Elle en a conclu que l’Office
+avait procédé correctement en attribuant les acomptes d’abord au remboursement des intérêts,
+puis à celui du capital en application de l’art. 85 CO ; partant, c’est à
+juste titre qu’il avait considéré que la dette n’était pas éteinte le
+16 septembre 2019 et qu’elle portait encore intérêt au-delà de cette date. En revanche,
+l’Office ne devait pas prendre en compte dans son calcul de frais ceux concernant l’avis
+de saisie du 29 août 2018, annulé par décision de l’autorité de surveillance
+du 2 novembre 2018, soit un montant total de 27 fr. 30, comprenant les frais d’enregistrement de
+la réquisition de continuer la poursuite du 29 août 2018 par 5 fr., les frais d’établissement
+et d’envoi de l’avis de saisie du 29 août 2018 par 9 fr. et les frais de retrait
+de la réquisition de continuer la poursuite du 6 décembre 2018 par 13 fr. 30. En conclusion,
+la présidente a considéré qu’au 28 janvier 2020, avec le nouveau calcul des
+intérêts effectués par l’Office dans ses déterminations et la correction résultant
+de l’annulation des frais du premier avis de saisie, le montant total de la poursuite, y compris
+les frais d’encaissement par 5 francs, se montait à 267 fr. 90.
+La décision qui précède a été notifiée le 11 mars 2020 à l’Office
+et à la créancière intimée, et le 17 mars 2020 au plaignant.
+4.
+a)
+Par acte du 27 mars 2020, K.________ a recouru
+contre la décision de l’autorité inférieure de surveillance, en concluant (1) à
+son annulation,
+(2) à
+ce qu’il soit dit « que la manière dont l’Office des poursuites de Nyon attribue
+les acomptes versés par le débiteur au prorata sur les différentes créances est illégale »,
+(3) à ce qu’il soit dit « que le solde dû par le débiteur se monte à
+CHF 262.25 et que les intérêts ne courent plus depuis le 16 septembre 2019 »,
+(4) subsidiairement, à ce que l’affaire soit renvoyé à l’autorité
+inférieure « afin qu’elle se prononce sur le point 2 des présentes conclusions ».
+Outre la décision attaquée et l’enveloppe d’envoi de celle-ci, le recourant a produit
+deux pièces figurant déjà au dossier, savoir la détermination de l’Office du
+30 janvier 2020 et la sienne du 12 février 2020.
+b)
+Dans sa réponse du 22 avril 2020, l’Office a déclaré maintenir intégralement
+ses déterminations des 18 décembre 2019 et 30 janvier 2020 et ses conclusions tendant au rejet
+de la plainte. Il a détaillé les montants réclamés dans la poursuite en cause, auxquels
+s’ajoutaient les frais de l’office par 98 fr. 75 (opérations 1 et 5, 6 et 7 de ses déterminations
+du 18 décembre 2019). Il a rappelé avoir fait application des art
+.
+85 CO, 144 et 219 LP pour l’attribution
+des acomptes et présenté ainsi le solde de la poursuite « à ce jour » :
+1.
+Capital :
+Fr.   30.85
+2.
+Intérêts :
+Fr. 135.75
+3.
+Frais de poursuite :
+Fr.  98.75
+4.
+Frais d’encaissement en cas de paiement à l’Office :
+Fr.     5.00
+Total :
+Fr. 270.35
+c)
+La réponse de l’Office a été adressée le 27 mai 2020 en courrier recommandé
+au recourant, qui a retiré le pli le 2 juin 2020. Le 8 juin 2020, il a déposé une détermination
+spontanée
+,
+contestant
+que les intérêts échus soient des créances de deuxième classe et, en outre,
+que l’art. 144 LP soit applicable en l’espèce. Il a derechef fait valoir que le « solde
+définitif de la poursuite » se montait à 262 fr. 25, comprenant :
+« 1.
+Intérêts échus (et non pas Capital) :
+Fr.   30.85
+2.
+Intérêts au 16.9.2019 :
+Fr. 132.65
+3.
+Frais de poursuite :
+Fr.   98.75 »
+Il a encore déposé une écriture le 29 juin 2020, « complétant »
+sa précédente détermination sur la réponse de l’Office. Cette écriture
+a été transmise à l’Office et à la créancière intimée le 1
+er
+juillet 2020.
+Comme devant l’autorité précédente, l’intimée n’a pas procédé
+devant la cour de céans.
+d)
+Le 20 novembre 2020, le président de la cour de céans a ordonné, à titre de mesure
+d'instruction, la production par l'Office, dans un délai de dix jours, du détail complet du
+calcul dont résulte le montant de la saisie de 293 fr. 75 selon avis du 11 novembre 2019, objet
+de la plainte, ledit calcul devant mentionner tous les éléments pris en compte, à savoir
+les créances, les acomptes, les intérêts au 11 novembre 2019 (en précisant sur
+quel(s) capital(-aux) et pour quelle(s) période(s) ils étaient calculés) et les frais
+de poursuite au 11 novembre 2019.
+Le 1
+er
+décembre 2020, l'Office a déposé le document reproduit ci-après. Dans la lettre accompagnant
+ce document, il a précisé que, lorsque l’avis de saisie était « joint
+à une saisie fixée avant la date dudit avis », les intérêts étaient
+calculés « à 20 jours plus tard », en l’occurrence au 1
+er
+décembre 2019 et que cela était lié au fonctionnement de son système informatique ;
+par ailleurs, il a indiqué que, contrairement à ce qu’il avait écrit dans ses déterminations
+du 22 avril 2020, les articles 144 et 219 LP ne s’appliquaient pas aux acomptes versés par
+le débiteur.
+Cette écriture de l’Office a été transmise pour information au recourant et à
+l’intimée, le 3 décembre 2020.
+En droit :
+I.
+Déposé en temps utile, dans les dix jours suivant la notification de la décision attaquée
+(art. 18 al. 1 LP [loi fédérale sur la poursuite pour dettes et la faillite; RS 281.1] et 28
+al. 1 LVLP [loi vaudoise d’application de la LP; BLV 280.05]), et suffisamment motivé (TF
+5A_118/2018 du 7 février 2018 consid. 4.1), le recours est recevable.
+Il en va de même de la réponse de l’Office (art. 31 al. 1 LVLP).
+La détermination spontanée du recourant du 8 juin 2020 est également recevable, en vertu
+du droit de répliquer qui s'applique à toutes les procédures administratives et judiciaires
+(ATF 142 III 48 consid. 4.1.1 et les références citées ; ATF 138 I 154 c. 2.3.2).
+En revanche, l’écriture déposée par le recourant le 29 juin 2020 est irrecevable.
+Le droit à la réplique permet aux parties de se déterminer sur toutes observations ou
+preuves nouvelles soumises au tribunal, mais non de s'exprimer deux fois ou plusieurs fois sur le même
+objet avant que le tribunal ne rende sa décision (TF 4A_431/2017 du 2 mai 2018 c. 4.3).
+II.
+a)
+Dans son recours du 27 mars 2020, le recourant indique que cet acte « porte uniquement sur
+la manière illégale dont l’Office attribue les acomptes versés par le débiteur (…)
+sur les créances de primes, de frais de rappel et d’administration de l’assureur maladie ».
+Il reproche à la première juge de ne pas s’être prononcée à ce sujet et
+d’avoir motivé sa décision « uniquement sur l’art. 85 CO »,
+alors qu’il avait « également motivé juridiquement [sa] contestation de la
+manière illégale dont l’Office attribue des acomptes au prorata sur les créances ».
+La première juge aurait ainsi fait preuve d’arbitraire et violé l’art. 9 Cst. (Constitution
+fédérale; RS 101). Dans sa réplique du 8 juin 2020, le recourant indique que « le
+différend reste principalement sur le fait que l’OP de Nyon a continué à calculer
+illégalement des intérêts après le 16 septembre 2019 alors que la seule créance
+portant intérêt (primes LAMal CHF 2'090.35) a été éteinte au 16 septembre 2019 ».
+b)
+aa)
+L’arbitraire prohibé par l’art. 9 Cst. se traduit par une violation grave d’une
+norme ou d’un principe juridique claire et indiscuté, ou par la contradiction choquante du
+sentiment de la justice et de l’équité. Une motivation n'est pas arbitraire du seul fait
+qu'une autre solution apparaît concevable ou même préférable (ATF 140 III 16 consid.
+2.1). Pour être qualifiée d'arbitraire, elle doit également être insoutenable dans
+son résultat, c’est-à-dire conduire à une décision en contradiction manifeste
+avec la situation effective, adoptée sans motifs objectifs ou en violation d'un droit certain (ATF
+141 III 564 consid. 4.1 et les réf. cit.).
+bb)
+En l’espèce, le recourant ne dit
+pas en quoi la décision attaquée serait arbitraire. S’il entend en réalité
+soutenir que le premier juge a violé son devoir de motiver la décision en n’examinant
+pas la question de savoir si les intérêts échus étaient ou non des créances
+de deuxième classe et si l’art. 144 LP était ou non applicable, son grief est infondé.
+La jurisprudence a déduit du droit d'être entendu, consacré à l'art. 29 al. 2
+Cst., l'obligation pour l'autorité de motiver sa décision, afin que l'intéressé puisse
+se rendre compte de la portée de celle-ci et exercer son droit de recours à bon escient (ATF
+142 I 135 consid. 2.1). Pour satisfaire à ces exigences, il suffit que l'autorité mentionne,
+au moins brièvement, les motifs qui l'ont guidée et sur lesquels elle a fondé son raisonnement.
+Elle ne doit pas se prononcer sur tous les moyens des parties, mais peut au contraire se limiter aux
+questions décisives (ATF 141 V 557 consid. 3.2.1 ; ATF 134 I 83). Or, en l’occurrence,
+les deux questions précitées n’étaient nullement décisives, le litige portant
+sur la répartition des acomptes et l’application de l’art. 85 CO.
+iii.
+a)
+aa)
+L'art. 12 LP prévoit que l'office des poursuites est tenu d'accepter les paiements faits pour le
+compte du créancier poursuivant (al. 1) et que le débiteur est libéré par ces paiements
+(al. 2).
+Il résulte de la jurisprudence du Tribunal fédéral publiée aux ATF 116 III 56, reprise
+à l’ATF 127 III 182 et confirmée encore par l’arrêt non publié TF 5A_47/2020
+du 6 mai 2020 consid. 5.1, qu’un paiement partiel entraîne, après prélèvement
+des frais, l'extinction partielle de la créance déduite en poursuite, qui porte intérêt.
+La date pertinente pour cette extinction est l'instant où le paiement partiel « rentre »
+à l'office des poursuites. En conséquence, le débiteur est libéré de sa dette
+et de l'obligation y afférente de payer des intérêts en fonction du paiement partiel.
+Cela signifie que l’intérêt ne continue à courir que sur la créance réduite.
+bb)
+Selon l’art. 68 al. 1 LP, les frais de la poursuite sont à la charge du débiteur ;
+le créancier en fait l’avance. Ces frais font l’objet d’un tarif (art. 16 LP),
+à savoir l’OELP (ordonnance sur les émoluments perçus en application de la LP; RS
+281.35).
+Selon l’art. 68 al. 2 LP, le créancier peut prélever les frais sur les premiers versements
+du débiteur. Cela renvoie à l’art. 85 CO. L’office des poursuites appliquent les
+mêmes dispositions lorsqu’il reçoit des paiements pour le compte du créancier poursuivant
+(art. 12 al. 1 LP).
+cc)
+A raison, le recourant ne soutient plus que l’art. 85 CO ne s’applique qu’à la
+poursuite en réalisation de gage. Le Tribunal fédéral a clairement jugé que cette
+disposition était applicable en matière de poursuite « et spécialement »
+- et non pas exclusivement - à la poursuite en réalisation de gage (ATF 121 III 432 consid.
+2b et les réf. cit. ; cf. aussi ATF 137 III 133 consid. 2.1. in fine).
+b)
+aa)
+A teneur de l'art. 85 al. 1 CO, le débiteur ne peut imputer un paiement partiel sur le capital qu'en
+tant qu'il n'est pas en retard pour les intérêts ou les frais. Si le créancier a reçu
+pour une fraction de la créance des cautionnements, gages ou autres sûretés, le débiteur
+n'a pas le droit d'imputer un paiement partiel sur la fraction garantie ou mieux garantie de la créance
+(art. 85 al. 2 CO).
+Selon la jurisprudence du Tribunal fédéral, dès l'instant où le créancier a
+en principe le droit de refuser une prestation partielle (art. 69 al. 1 CO), il ne doit pas subir un
+dommage s'il accepte l'exécution d'une partie de sa créance. C'est là qu'intervient l'art.
+85 CO, qui tend à protéger le créancier pour des motifs d'équité et d'opportunité.
+Ainsi, le débiteur n'a pas la faculté de choisir sur quelle part de la dette son paiement doit
+être porté en compte. Le débiteur doit imputer le paiement partiel prioritairement sur
+les intérêts et les frais (art. 85 al. 1 CO) et sur la partie qui n'est pas garantie ou qui
+est moins garantie de la dette (art. 85 al. 2 CO). Ce régime s'applique également si le créancier
+est contraint d'accepter le paiement partiel, en vertu du contrat, de la loi ou du principe de la bonne
+foi. L'art. 85 CO est en harmonie avec l'art. 89 al. 2 CO, qui prescrit que si le créancier donne
+quittance pour le capital, il est présumé avoir perçu les intérêts (ATF 133
+III 598 consid. 4.2.1 et les réf. cit.).
+L'art. 85 CO étant de droit dispositif, les parties peuvent convenir, avant l'exécution de
+la prestation partielle ou au moment où elle est effectuée, que l'extinction de la dette suivra
+un ordre différent entre le principal et les accessoires que celui prévu par cette disposition.
+Ainsi en va-t-il par exemple lors de la conclusion d'un contrat d'ouverture de crédit en compte
+courant ou, dans certaines circonstances, en présence d'une déclaration d'acceptation sans
+réserve du capital (art. 114 al. 2 CO) (ATF 133 III 598 consid. 4.2.1 et les réf. cit.). Tel
+n’est pas le cas en l’espèce. Partant, l’art. 85 CO s’applique.
+Par ailleurs, le recourant ne prétend pas avoir fait une déclaration d’imputation au
+moment du paiement (art. 86 al. 1 CO), ni que la créancière aurait fait une telle déclaration
+dans une quittance (art. 86 al. 2 CO). Partant, en présence de plusieurs dettes exigibles réclamées
+dans la même poursuite, l’Office était fondé à procéder à une imputation
+proportionnelle des acomptes (cf. art. 87 al. 1 et 2 CO). Au demeurant, une imputation sur la première
+dette échue, savoir la participation LAMal de 177 fr. 10, n’aurait pas été plus
+favorable au recourant, dès lors que la dette de 2’090 fr. 35, portant intérêt,
+n’aurait pas été du tout réduite par le premier acompte, entraînant des intérêts
+plus élevés, et toujours pas complètement éteinte par le deuxième acompte, la
+dette de 240 fr. demeurant au surplus intacte, avec pour résultat qu’en définitive, le
+montant de l’avis de saisie litigieux aurait été supérieur à celui retenu par
+l’Office.
+Il découle de ce qui précède que, contrairement à ce que soutient le recourant, la
+répartition des acomptes versés au prorata sur les différentes créances est légale.
+La conclusion 2 du recours tendant à ce que l’illégalité d’une telle répartition
+soit constatée doit par conséquent être rejetée.
+bb)
+Il
+reste néanmoins à vérifier l’exactitude des calculs effectués par l’Office.
+Le premier acompte versé, de 222 fr. valeur au 14 septembre 2018, a été imputé
+d’abord, conformément à l’art. 85 CO, sur les frais de l’Office de 87 fr.
+30 - selon ses déterminations du 18 décembre 2019 (ch. 1, 2 et 3) - et sur les intérêts
+à
+5%
+l’an sur 2'090 fr. 35 (primes LAMal) du 4 juin au 14 septembre 2018 (101 jours), soit 29 fr. 32.
+Ainsi, après déduction de 116 fr. 62, le solde de l’acompte à répartir était
+de 105 fr. 38.
+Le décompte produit par l’Office le 1
+er
+décembre 2020 inclut à tort le montant de 30 fr. 85, pour lequel la mainlevée n’a
+pas été accordée. En outre, il y a lieu de déduire à ce stade déjà
+les frais des opérations du 29 août 2018 (ch. 2 : 5 fr. et ch. 3 : 9 fr.), soit 14
+francs. Le solde à répartir est ainsi de 119 fr. 38. Il convient dès lors de refaire le
+calcul présenté de la manière suivante :
+Créances
+Montant
+Prorata              Acompte
+Solde
+Participations
+LAMal                177.10
+7.06
+8.43              168.67
+Primes
+LAMal
+2’090.35              83.37
+99.53              1’990.82
+Frais
+administratifs
+240.00                9.57
+11.42
+228.58
+Total
+2’507.45
+100%              119.38
+2’388.07
+Le second acompte versé, de 2’285 fr. 45., valeur au 16 septembre 2019, a été
+imputé d’abord, selon le décompte précité de l’Office, sur les frais
+de l’Office de 13 fr. 30 - selon ses déterminations du 18 décembre 2019 (ch. 4) - et
+sur les intérêts à
+5%
+l’an sur 2’003 fr. 57 [recte : 1’990 fr. 82] du 15 septembre 2018 au 16 septembre
+2019 (361 jours), soit 100 fr. 46 [recte : 99 fr. 82], le solde de l’acompte à répartir
+étant de 2’171 fr. 69 [recte : 2’172 fr. 33].
+Le décompte produit par l’Office inclut à tort, comme on l’a vu, le montant de
+30 fr. 85, pour lequel la mainlevée n’a pas été accordée. En outre, il y a
+lieu de déduire à ce stade déjà les frais des opérations du 6 décembre
+2018 (ch. 4) soit 13 fr. 30. Le solde à répartir est ainsi de 2’185 fr. 63. Il convient
+dès lors de refaire le calcul présenté de la manière suivante :
+Créances
+Montant
+Prorata              Acompte
+Solde
+Participations
+LAMal                 168.67
+7.06
+154.31                 14.36
+Primes
+LAMal
+1’990.82              83.37
+1'822.16                168.66
+Frais
+administratifs
+228.58              9.57
+209.16
+19.42
+Total
+2’388.07
+100%              2’185.63
+202.44
+Il s’ensuit que, contrairement à ce
+que le recourant s’évertue à soutenir, la dette portant intérêt n’a pas
+été éteinte le 16 septembre 2019 et a par conséquent continué à porter
+intérêt après cette date. La conclusion 3 du recours doit être rejetée dans
+la mesure où elle tend à ce qu’il soit constaté que les intérêts ne courent
+plus depuis le 16 septembre 2019. La dette en question diminue en revanche, proportion-nellement, et
+les intérêts ne courent plus que sur la dette ainsi réduite.
+cc)
+Au 11 novembre 2019, les frais de l’Office s’élevaient à 30 fr. 45 (ch. 5, 6 et
+7), y compris les frais d’encaissement par 5 fr. en cas de paiement ; les intérêts
+à
+5%
+l’an sur 199 fr. 33 [recte : 168 fr. 68] ont été calculés pour la période
+de 74 jours du 17 septembre au 1
+er
+décembre
+2019, qui est une date théorique selon les explications fournies par l’Office. Dans le cadre
+du présent recours, ils doivent être calculés jusqu’au 22 novembre 2019 au
+plus tard, pour tenir compte de l’effet suspensif accordé à la plainte par l’autorité
+inférieure, soit pour une période de 66 jours, ce qui équivaut à 1 fr. 55. Le montant
+de l’avis de saisie litigieux est ainsi arrêté à 234 fr. 44, arrondi à 234
+fr. 45. Il est à noter que les intérêts ont recommencé à courir dès le
+11 mars 2020, faute d’effet suspensif au recours.
+Certes, le recourant conclut à ce que le solde définitif de la poursuite soit arrêté
+à 262 fr. 25. Il n’y aurait toutefois aucun sens à appliquer le principe
+nec
+ultra petita
+et à arrêter l’avis
+de saisie litigieux à un montant incorrect. En effet, il ne s’agit pas pour l’autorité
+de céans de trancher des prétentions civiles entre parties, mais d’examiner si une mesure
+d’un office de poursuites est conforme à la loi et justifiée en fait.
+Vu ce qui précède, le recours doit être admis très partiellement et le prononcé
+réformé en ce sens que l’avis de saisie du 11 novembre 2019 est rectifié dans
+le sens des considérants qui précèdent.
+Le présent arrêt est rendu sans frais ni dépens (art. 20a al. ch. 5 LP, 61 al. 2 let.
+a et 62 al. 2 OELP.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est très partiellement admis.
+II.
+Le prononcé est réformé en ce sens que le montant de l’avis de saisie du 11 novembre
+2019 est arrêté à 234 fr. 45 (deux cent trente-quatre francs et quarante-cinq centimes).
+III.
+L’arrêt, rendu sans frais ni dépens, est exécutoire.
+Le
+président :              La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. K.________,
+‑
+V.________SA,
+-
+M. le Préposé à l’Office des poursuites du district de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte, autorité inférieure de
+surveillance.
+La greffière :
