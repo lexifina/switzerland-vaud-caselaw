@@ -1,0 +1,424 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___96"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 96"
+decided: "2020-12-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8143014"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-147.md", "switzerland/bund/acts/312.0/art-300.md", "switzerland/bund/acts/312.0/art-306.md", "switzerland/bund/acts/312.0/art-307.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 96
+
+## Regeste
+
+NON-LIEU, DROIT D'ÊTRE ENTENDU | 309 CPP (CH), 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.12.2020 Décision / 2021 / 96
+
+NON-LIEU, DROIT D'ÊTRE ENTENDU | 309 CPP (CH), 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1016
+PE19.012599-SRD
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 décembre 2020
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et de Montvallon, juges
+Greffier
+:              M.
+Valentino
+*****
+Art.
+306 ss CPP
+Statuant sur le recours interjeté le 16 novembre 2020 par
+I.________
+contre l’ordonnance de non-entrée en matière rendue le 4 novembre 2020 par le Ministère
+public de l’arrondissement de La Côte dans la cause
+n° PE19.012599-SRD
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par
+courrier du 23 juin 2019, reçu le 25 juin 2019 par le Ministère public de l’arrondissement
+de La Côte (ci-après : le Ministère public), I.________ a porté plainte pour
+vol et gestion déloyale contre son ex-employé, W.________, qui avait été engagé
+en 1992 et qu’elle avait licencié avec effet au 31 octobre 2017 (P. 5). La recourante
+soutenait dans sa plainte que W.________ lui aurait volé, durant plusieurs années, de la marchandise
+et une partie des recettes du commerce d’alimentation de la station-service dont elle est propriétaire
+et qu’elle exploite en raison individuelle à la [...].W.________ aurait profité du fait
+qu’il avait connaissance de toutes les informations essentielles du commerce, en particulier des
+codes pour la caisse enregistreuse, et qu’il disposait d’un accès libre au coffre contenant
+les liquidités.
+Pour fonder ses accusations, la plaignante s’est référée à l’analyse
+comptable réalisée par sa fiduciaire. Dans un courrier du 5 octobre 2018, cette fiduciaire
+a fait état d’interrogations en lien avec les résultats moins favorables enregistrés
+par l’activité commerciale de la recourante avant 2017, et a formulé toute une série
+d’hypothèses, sans parvenir à identifier une cause particulière (P. 6/5). Dans un
+second courrier du 20 mai 2019, la fiduciaire a indiqué qu’il y avait lieu d’examiner
+les changements survenus fin 2016 et début 2017 pour déterminer les raisons des mauvais résultats
+enregistrés antérieurement (P. 6/6).
+Il ressort de la feuille-accident LAA établie au sujet de W.________ (orthographié [...]) et
+produite par la recourante à l’appui de sa plainte que son employé a été accidenté
+en date du 5 mars 2016 à 9h00, qu’il a ensuite été en incapacité de travail
+à 100 % dès cette date et jusqu’au mois d’août 2016 y compris, puis à
+50 % dès le mois d’octobre et jusqu’à la fin de l’année 2016 (P. 6/2).
+Dans sa plainte, la recourante a expliqué que l’incapacité à 50 % de son employé
+a ensuite perduré jusqu’à la fin des rapports de travail le 31 octobre 2017 (P. 5, ch.
+4, p. 2).
+b)
+Le
+28 juin 2019, le Ministère public a adressé à la police de sûreté une demande
+d’enquête «
+avant
+ouverture d’instruction
+».
+En janvier 2020, sur interpellation de la recourante, le Ministère public a relancé les enquêteurs.
+Entendue le 5 février 2020 (PV aud. 1), I.________ a confirmé le contenu de sa plainte. Informée
+par les policiers que l’analyse des recettes journalières de 2016 ne permettaient pas de suspecter
+W.________ de vol, elle a déclaré qu’elle n’était « pas d’accord »,
+précisant que depuis que cette personne n’était plus présente dans son commerce,
+elle n’avait plus de problème et qu’elle avait changé sa « politique
+de gestion de la recette ». Elle a confirmé qu’à l’époque des faits,
+son ex-employé pouvait se servir dans les recettes sans qu’elle s’en rende compte, mais
+qu’elle ne pouvait pas le prouver. Elle a en outre expliqué qu’elle ne disposait pas
+d’inventaire pour établir la valeur de son stock pour l’année 2016 et qu’elle
+ne tenait pas d’inventaire de caisse journalier pour son commerce. Enfin, elle a indiqué qu’il
+lui arrivait de prélever de petites sommes en cash dans la recette pour son compte privé, mais
+que ce montant s’élevait à 200 fr. au maximum.
+Entendu le 13 juillet 2020 en qualité de prévenu (PV aud. 2), W.________ a contesté tout
+délit. Il a déclaré qu’à l’époque où il travaillait pour I.________,
+il avait accès au coffre, qu’il était autorisé à aller déposer de l’argent
+à la banque, qu’I.________ comptait la caisse tous les soirs et tenait un livre de caisse
+qu’elle remplissait à la main, que tous les employés avaient accès au stock de marchandise
+et qu’il n’y avait plus d’inventaire de stock depuis des années. Questionné
+à propos des annulations de caisse de janvier 2016, il a contesté en être l’auteur,
+mettant en cause I.________, et a expliqué la présence de son nom sur la fiche d’annulation
+en question par le fait que tous pouvaient utiliser les caisses, aucune d’elle n’étant
+attitrée.
+c)
+La
+police de sûreté a établi un rapport d’investigation daté du 11 août 2020
+(P. 10), indiquant que l’analyse des décomptes détaillés des recettes et des relevés
+avait permis de démontrer que les chiffres d’affaires journaliers lors des jours de présence
+de W.________ étaient généralement conformes ou supérieurs au chiffre d’affaires
+journalier moyen, excluant ainsi l’hypothèse d’une recette qui n’aurait pas été
+intégralement enregistrée dans la caisse. Quant à l’analyse des décomptes d’annulations
+de caisse de 2016 sur lesquels figuraient le nom du prévenu (« W.________ »[
+P. 11/1]), elle avait certes révélé un nombre important d’annulations de vente ;
+toutefois, il était précisé que contactée en avril 2020, la société [...],
+fournisseur du système de gestion de caisse, avait expliqué que le chiffre d’affaires
+figurant sur les décomptes de ventes ne prenait en considération que les produits tippés
+et vendus au prix correct, les annulations n’étant pas comprises. Le rapport concluait qu’au
+vu des nombreuses incohérences dans les annulations de caisse et de l’absence d’inventaire
+régulier des stocks et de la caisse, il était impossible aux enquêteurs de confirmer la
+commission d’un délit et d’identifier un éventuel auteur.
+d)
+Sur
+requête du Ministère public du 29 septembre 2020, la police de sûreté a procédé,
+en complément à son rapport du 11 août 2020, à l’analyse des tickets de caisse
+et des opérations d’annulation correspondantes pour la journée du 27 janvier 2016 (P.
+11/1).
+B.
+Par ordonnance du 4 novembre 2020, le Ministère
+public a dit qu'il n'entrait pas en matière sur la plainte déposée par I.________ (I)
+et a laissé les frais à la charge de l'Etat (II).
+C.
+Par acte du 16 novembre 2020, I.________ a recouru
+auprès de la Chambre de céans contre cette ordonnance, en concluant à son annulation et
+au renvoi de la cause au Ministère public pour qu’il instruise la plainte pénale qu’elle
+a déposée le 24 juin 2019 dans le sens des considérants de l’arrêt à intervenir.
+Il n’a pas été ordonné d’échange
+d’écritures.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer une ordonnance de
+non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0 ]) dans les dix jours devant l’autorité
+de recours (art. 310 al. 2, 322 al. 2, 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans le
+canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi d’introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+En l'espèce, la recourante se dit victime
+de vol (art. 139 CP) et de gestion déloyale (158 CP). On comprend, sur la base de ses explications,
+qu'elle entend obtenir réparation d'un dommage, sous la forme d'un manque à gagner en relation
+avec la baisse de son chiffre d’affaires, qu'elle soutient découler des infractions dont elle
+se plaint. La recourante fait donc valoir un intérêt juridiquement protégé qui justifie
+d'entrer en matière sur le recours.
+Interjeté dans le délai légal et dans les formes prescrites (art. 385 al. 1 CPP) auprès
+de l’autorité compétente, par la partie plaignante qui a qualité pour recourir (art.
+382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+La recourante fait tout d’abord valoir une
+violation de son droit d’être entendue dès lors qu’elle a été privée
+de la possibilité de se déterminer ensuite du dépôt du rapport d’investigation
+de la police de sûreté et de l’audition de W.________, éléments dont elle n’avait
+pas connaissance.
+2.2
+Aux termes de l'art. 309 CPP, le Ministère
+public ouvre une instruction, notamment, lorsqu'il ressort du rapport de police, des dénonciations
+ou de ses propres constatations des soupçons suffisants laissant présumer qu'une infraction
+a été commise (al. 1 let. a). Il peut renvoyer à la police, pour complément d'enquête,
+les rapports et les dénonciations qui n'établissent pas clairement les soupçons retenus
+(al. 2). Il renonce à ouvrir une instruction lorsqu'il rend immédiatement une ordonnance de
+non-entrée en matière ou une ordonnance pénale (al. 4). Conformément à l'art.
+310 al. 1 let. a CPP, le Ministère public rend immédiatement une ordonnance de non-entrée
+en matière s'il ressort de la dénonciation ou du rapport de police que les éléments
+constitutifs de l'infraction ou les conditions à l'ouverture de l'action pénale ne sont manifestement
+pas réunis.
+La phase qui précède l'ouverture d'une instruction au sens de l'art. 309 CPP constitue les
+investigations policières au sens des art. 306 et 307 CPP (art. 300 al. 1 let. a CPP). Durant cette
+phase, le Ministère public peut donner des directives à la police ou lui confier des mandats
+(art. 306 al. 1 et 307 al. 2 CPP ; TF 6B_875/2018 du 15 novembre 2018 consid. 2.2 et la référence
+citée). Les informations recueillies lors de ces investigations permettent au Ministère public
+de prendre les décisions qui s'imposent en fonction des faits dénoncés. La phase des investigations
+policières prend fin par l'ouverture d'une instruction (art. 309 al. 1 CPP), ou par une ordonnance
+de non-entrée en matière ou une ordonnance pénale comme énoncé par l'art. 309
+al. 4 1
+re
+et 2
+e
+hypothèses CPP (TF 6B_940/2016 du 6 juillet 2017 consid. 3.3.2 et les références citées).
+En revanche, le Ministère public ne peut pas rendre une ordonnance de non-entrée en matière
+après avoir ouvert une instruction au sens de l'art. 309 CPP (TF 6B_1365/2017 du 27 juin 2018 consid.
+3.3).
+Selon la jurisprudence, le Ministère public peut procéder à certaines vérifications
+avant de refuser d'entrer en matière. Il peut demander des compléments d'enquête à
+la police, non seulement lorsqu'il s'agit de compléter un précédent rapport au sens de
+l'art. 307 CPP, mais aussi lorsque la dénonciation elle-même apparaît insuffisante (art.
+309 al. 2 CPP). Il ressort également de l'art. 309 al. 1 let. a CPP que le Ministère public
+peut procéder à ses propres constatations. Cela comprend le droit de consulter les fichiers,
+dossiers et renseignements disponibles. Il en va de même lorsque le Ministère public demande
+à la personne mise en cause une simple prise de position (TF 6B_810/2019 du 22 juillet 2019 consid.
+2.1 ; TF 6B_239/2019 du 24 avril 2019 consid. 2.1 ; TF 6B_1096/2018 du 25 janvier 2019 consid. 2.2 ;
+TF 6B_496/2018 du 6 septembre 2018 consid. 1.3).
+Avant l'ouverture d'une instruction, le droit de participer à l'administration des preuves ne s'applique
+en principe pas (art. 147 al. 1 CPP
+a
+contrario
+;
+ATF
+143 IV 397
+consid. 3.3.2
+i.f.
+p. 403 ; ATF
+140
+IV 172
+consid. 1.2.2 p. 175), et ce y
+compris en cas d'investigations policières diligentées à titre de complément d'enquête
+requis par le Ministère public en vertu de l'art. 309 al. 2 CPP (TF 6B_1385/2019 du 27 février
+2020 consid. 1.1 et la référence citée ; TF 6B_673/2019 du 31 octobre 2019 consid. 2.1
+et les références citées). En outre, avant de rendre une ordonnance de non-entrée
+en matière, le Ministère public n'a pas à informer les parties ni n'a l'obligation de
+leur fixer un délai pour présenter d'éventuelles réquisitions de preuve, l'art. 318
+CPP n'étant pas applicable dans ce cas. Le droit d'être entendu des parties est en effet assuré,
+le cas échéant, dans le cadre de la procédure de recours contre l'ordonnance de non-entrée
+en matière (cf. art. 310 al. 2, 322 al. 2 et 393 ss CPP). Cette procédure permet aux parties
+de faire valoir tous leurs griefs - formels et matériels - auprès d'une autorité disposant
+d'une pleine cognition en fait et en droit (cf. art. 391 al. 1 et 393 al. 2 CPP; TF 6B_673/2019 du 31 octobre
+2019 consid. 2.2 ; TF 6B_810/2019 du 22 juillet 2019 consid. 2.1 ; TF 6B_239/2019 du 24 avril 2019 consid.
+2.1 ; TF 6B_1096/2018 du 25 janvier 2019 consid. 2.2). L'instruction pénale est considérée
+comme ouverte dès que le Ministère public commence à s'occuper de l'affaire, ce qui est
+toujours le cas lorsqu’il ordonne des mesures de contrainte. Dès lors qu'un mandat de comparution
+est une mesure de contrainte, celui-ci suffit en règle générale à l'ouverture de
+l'instruction lorsque le Ministère public effectue lui-même les premières mesures d'instruction,
+en particulier entend le prévenu (
+ATF
+141 IV 20
+consid. 1.1.4 p. 24 s.).
+2.3
+Il ressort du procès-verbal des opérations
+que la plainte déposée par la recourante a été reçue le 25 juin 2019. Le Ministère
+public a ensuite adressé à la police de sûreté une demande d’enquête «
+avant
+ouverture d’instruction
+» en date
+du 28 juin 2019. En janvier 2020, sur interpellation de la recourante, le Ministère public a relancé
+les enquêteurs qui l’ont entendue le 5 février 2020, puis W.________ le 13 juillet 2020.
+La police de sûreté a établi un rapport d’investigation daté du 11 août
+2020. Le 29 septembre 2020, le Ministère public a encore demandé à la police de sureté
+de procéder à un complément d’enquête par l’analyse de tickets de caisse
+et des opérations d’annulation correspondantes, avant de rendre finalement l’ordonnance
+de non-entrée en matière contestée en date du 4 novembre 2020.
+Ainsi, avant l’ordonnance de non-entrée en matière litigieuse, les opérations effectuées
+dans la présente procédure se résument à l’audition, par la police, de la recourante,
+comme partie plaignante, et de celle de son ex-employé entendu comme prévenu, au dépôt
+d’un bref rapport d’investigation et de l’examen complémentaire d’un relevé
+de caisse pour la journée du 27 janvier 2016 qui ne montre rien d’autre que des corrections
+pour des erreurs de frappe au moment de l’enregistrement du prix du produit vendu. Ces opérations
+d’enquête ne sauraient impliquer à elles seules une ouverture d’instruction, en
+particulier pour ce qui concerne l’audition de W.________ par la police (TF 6B_239/2019 du 24 avril
+2019 consid. 2.3 et 2.4). Les opérations effectuées correspondent à ce qui est attendu
+de la police au stade des toutes premières investigations. Aucune décision formelle d'ouverture
+d'une instruction n'a été prise par le Ministère public avec la mention du prévenu
+et des infractions qui lui seraient imputées, comme le prévoit l'art. 309 al. 3 CPP. Aucune
+mesure de contrainte n'a été ordonnée. Rien ne laisse supposer que l’instruction
+avait été matériellement ouverte à ce stade et la procédure n’avait donc
+pas dépassé les premières investigations qui sont accomplies de manière usuelle par
+la police, y compris dans le cadre d'une demande de complément d'enquête (art. 309 al. 2 CPP).
+L’audition de W.________ pouvait dès lors être effectuée en l’absence de la
+partie plaignante, à savoir la recourante. Avant de rendre son ordonnance de non-entrée en
+matière, le droit d'être entendu n’imposait pas non plus au Ministère public d'aviser
+la recourante des opérations de police réalisées et de recueillir ses déterminations.
+Il découle de ce qui précède que la recourante ne disposait pas d'un droit à participer
+à l'administration des preuves. La recourante a eu connaissance des déclarations de W.________
+dans l'ordonnance de non-entrée en matière et elle a eu la possibilité de se déterminer
+sur celles-ci durant la procédure de recours, l’autorité de céans disposant d’une
+pleine cognition en fait et en droit pour examiner tous les griefs qu’elle entendait invoquer.
+Son droit d'être entendu a été respecté et le moyen tiré de sa violation doit
+par conséquent être rejeté.
+3.
+3.1
+La recourante fait ensuite valoir la violation
+du principe
+in dubio pro duriore
+.
+Elle soutient que les deux rapports établis par sa fiduciaire ainsi que ses déclarations aux
+enquêteurs démontreraient que la baisse des marges de son commerce serait le résultat
+du comportement de son ex-employé qui rencontrait, selon elle, des problèmes financiers à
+l’époque des faits.
+3.2
+Conformément à l'art. 310 al. 1 let.
+a CPP, le Ministère public rend immédiatement – c'est-à-dire sans qu'une instruction
+soit ouverte (art. 309 al. 1 et 4 CPP ; ATF 144 IV 86 consid. 2.3.3) – une ordonnance de non-entrée
+en matière lorsqu'il apparaît, à réception de la dénonciation (cf. art. 301
+et 302 CPP) ou de la plainte (Cornu,
+in
+: Kuhn/Jeanneret [éd.], Commentaire romand, Code de procédure pénale suisse, Bâle
+2019, nn. 1 et 2 ad art. 310 CPP) ou après une procédure préliminaire limitée aux
+investigations de la police (art. 300 al. 1 let. a, 306 et 307 CPP), que les éléments constitutifs
+d'une infraction ou les conditions d'ouverture de l'action pénale ne sont manifestement pas réunis
+(TF 6B_401/2020 du 13 août 2020 consid. 2.1). Cette disposition doit être appliquée
+conformément à l’adage «
+in
+dubio pro duriore
+». Celui-ci, qui découle
+du principe de la légalité, signifie qu’un classement ou une non-entrée en matière
+ne peuvent être prononcés par le Ministère public que lorsqu’il apparaît clairement
+que les faits ne sont pas punissables ou que les conditions à la poursuite pénale ne sont pas
+remplies (TF 6B_375/2020 du 9 juillet 2020 consid. 3.2 et les références citées).
+Une ordonnance de non-entrée en matière ne peut être rendue que dans les cas clairs du
+point de vue des faits, mais également du droit ; s'il est nécessaire de clarifier l'état
+de fait ou de procéder à une appréciation juridique approfondie, le prononcé d'une
+ordonnance de non-entrée en matière n'entre pas en ligne de compte. En règle générale,
+dans le doute, il convient d'ouvrir une enquête pénale (ATF 143 IV 241 consid. 2.2.1 ; ATF
+138 IV 86 consid. 4.1.2; ATF 137 IV 285 consid. 2.3 et les réf. citées, JdT 2012 IV 160).
+En revanche, le Ministère public doit pouvoir rendre une ordonnance de non-entrée en matière
+dans les cas où il apparaît d’emblée qu’aucun acte d’enquête ne
+pourra apporter la preuve d’une infraction à la charge d’une personne déterminée
+(TF 6B_375/2020 précité ; TF 6B_541/2017 du
+20
+décembre 2017 consid. 2.2).
+3.3
+A la différence des situations jugées
+par le Tribunal fédéral dans les affaires citées par la recourante, les faits dénoncés
+concernent des infractions contre le patrimoine, infractions pour l’établissement desquelles
+l’existence de preuves matérielles revêt une importance primordiale, les déclarations
+des parties jouant un rôle secondaire dans ce contexte. En l’espèce, les faits s’inscrivent
+dans le cadre de la gestion d’un commerce, ce qui nécessite en premier lieu l’examen
+de la comptabilité, soit des pièces comptables constituées à cette fin, comme les
+décomptes de caisse, les relevés bancaires ou encore les inventaires du stock.
+En l’occurrence, il faut tout d’abord constater que la fiduciaire de la recourante n’a
+pas été en mesure, sur la base des pièces comptables à sa disposition, d’établir
+une cause précise à la variation de la marge commerciale de la recourante pour les années
+précédant le licenciement de W.________ (P. 6/5). Le nombre important d’hypothèses
+envisagées par cette fiduciaire démontre que la comptabilité tenue par la recourante est
+manifestement déficiente et que les éléments comptables à disposition sont pour le
+moins lacunaires. Les considérations en cause sont finalement essentiellement de nature spéculative.
+En particulier, la fiduciaire met systématiquement hors de cause tout comportement de la recourante
+sur la base des explications qu’elle a fournies, ce qui révèle l’absence de tout
+justificatif comptable à même d’établir les éléments en question.
+Les documents produits par la recourante pour étayer sa plainte ainsi que ses déclarations
+aux enquêteurs confirment l’état sommaire et lacunaire de la comptabilité de son
+commerce. Surtout, lors de son audition devant la police le 5 février 2020, la recourante a
+notamment indiqué ne pas disposer d’inventaire pour établir la valeur de son stock pour
+l’année 2016. Elle a également déclaré qu’elle ne tenait pas d’inventaire
+de caisse journalier pour son commerce et qu’elle effectuait parfois des prélèvements
+directement dans la caisse pour ses besoins personnels (PV aud. 1, R. 6). Il apparaît ainsi que
+des prélèvements sans justificatifs étaient effectués dans la caisse du commerce
+dont aucun décompte journalier n’était tenu.
+Dans ces conditions, et sans même se fonder sur les déclarations de W.________, ni sur les
+considérations des enquêteurs, il y a lieu de constater que les faits dénoncés par
+la recourante ne pourront jamais être établis sur la base de sa comptabilité, celle-ci
+présentant des carences rédhibitoires. Aucune opération d’enquête n’apparaît
+susceptible de remédier à cette situation. Le défaut de preuves matérielles à
+ce niveau est insurmontable. En d’autres termes, la comptabilité de la recourante ne reflète
+à l’évidence pas la réalité de sa situation commerciale. Cette comptabilité
+ne saurait présenter les garanties d’exactitude indispensables à l’établissement
+des faits pour lesquels W.________ est mis en cause et toute condamnation de celui-ci apparaît d’emblée
+manifestement exclue.
+Au surplus, étant donné l’importance de l’incapacité de travail de cet employé
+durant l’année 2016 (6 mois à 100 % et 3 mois à 50 %), il paraît
+pour le moins douteux qu’il soit responsable d’une baisse de la marge brute, puisqu’il
+aura été en grande partie absent du commerce l’année en question. Quant à 2017,
+dès lors qu’il a travaillé à 50 % jusqu’à son licenciement au 31 octobre
+2017, il faut en conclure que sa présence dans le commerce n’a pas nui à la progression
+de la marge brute constatée par la fiduciaire, étant précisé que cette dernière
+la considère comme une valeur de référence. Enfin, pour expliquer la différence de
+marge entre les années 2016 et 2017, la fiduciaire estime qu’il faudrait rechercher un événement
+qui se serait produit à cheval entre ces deux années. Or, les rapports de travail de W.________
+se sont terminés à la fin du mois d’octobre 2017, de sorte que ce fait n’apparaît
+pas non plus à même d’expliquer la problématique en cause.
+Au vu des considérations qui précèdent, c’est à bon droit que le Ministère
+public a rendu une ordonnance de non-entrée en matière.
+4.
+Il résulte de ce qui précède que
+le recours, manifestement mal fondé, doit être rejeté sans autre échange d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance du 4 novembre 2020 confirmée.
+Les frais de la procédure de recours, par 1'210 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis
+à la charge de la recourante, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 4 novembre 2020 est confirmée.
+III.
+Les frais d’arrêt, par 1'210 fr. (mille
+deux cent dix francs), sont mis à la charge d’I.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Ismael Fetahi, avocat (pour I.________),
+-
+M. W.________,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
