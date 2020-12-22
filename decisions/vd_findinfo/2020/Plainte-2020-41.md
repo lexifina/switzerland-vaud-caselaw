@@ -1,0 +1,162 @@
+---
+decision_id: "vd_findinfo_Plainte___2020___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2020 / 41"
+decided: "2020-12-22"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8042048"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-132.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-020a.md"]
+---
+
+# VD Findinfo Plainte / 2020 / 41
+
+## Regeste
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 22.12.2020 Plainte / 2020 / 41
+
+MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ | 18 al. 1 LP
+
+TRIBUNAL
+CANTONAL
+FA20.037401-201515
+38
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+22 décembre 2020
+_______________________
+Composition
+:              M.
+Maillard
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Umulisa Musaby
+*****
+Art.
+18 al. 1 LP ; 132 al. 1 et 2 CPC
+Vu l’avis du 30 septembre 2020, par lequel la Présidente du Tribunal d’arrondissement
+de la Broye et du Nord vaudois (ci-après : la Présidente ou le premier juge), en sa qualité
+d’autorité inférieure de surveillance, a informé
+T.________
+(ci-après : la recourante), à [...], que l’acte qu’elle avait déposé
+le 25 septembre 2020 était incompréhensible et prolixe, qu’en application de l’art.
+132 al. 1 et 2 CPC un délai au 9 octobre 2020 lui était imparti pour rectifier ce vice de forme
+et qu’à défaut, l’acte ne serait pas pris en considération,
+vu l’acte du 9 octobre 2020 que la recourante a adressé à la Présidente,
+vu par ailleurs le courrier du 10 octobre 2020, intitulé « acte de défaut de biens
+périmés (sic) » que la recourante a adressé à la cour de céans,
+vu l’avis du 19 octobre 2020, par lequel le Président de la cour de céans lui a imparti
+un délai de cinq jours pour produire l’acte contre lequel elle entendait recourir,
+vu la décision du 15 octobre 2020, notifiée à la recourante le lendemain, par laquelle
+la Présidente, se référant à son avis du 30 septembre 2020, a refusé l’entrée
+en matière pour le motif que la recourante n’avait pas rectifié son acte dans le délai
+imparti, le nouvel acte déposé étant toujours incompréhensible et prolixe,
+vu l’acte du 26 octobre 2020 envoyé à la Présidente, par lequel la recourante a
+déclaré avoir fait recours le 10 octobre 2020 à la Cour des poursuites et faillites pour
+« confirmation de la fraude conjointe de l’OP de Payerne et de la [...] »,
+qu’elle attendait la décision de cette cour et que la Présidente avait dix jours pour
+lui répondre dès réception de [son] recours »,
+vu le courrier du 28 octobre 2020, par lequel la Présidente a demandé à la recourante
+de lui indiquer dans un délai au 30 octobre 2020 si le courrier du 26 octobre 2020 pouvait
+être interprété comme un recours contre la décision du 15 octobre 2020,
+vu l’acte du 30 octobre 2020 adressé à la Présidente et réacheminé devant
+la cour de céans le 3 novembre 2020,
+vu l’avis du 3 novembre 2020, se référant à l’acte du 26 octobre 2020, par
+lequel le Président de la cour de céans a informé la recourante qu’aucune suite
+ne serait donnée à son envoi du 26 octobre 2020, dès lors que la cour de céans n’était
+compétente que pour statuer sur des recours déposés contre les décisions rendues
+par une autorité inférieure de surveillance au sens de la LP et les prononcés rendus en
+procédure sommaire de poursuites et faillites et qu’aucune de ces hypothèses n’était
+réalisée en l’espèce ;
+vu le courrier du 16 novembre 2020, intitulé « acte de défaut de biens périmés »
+que la recourante a adressé à la cour de céans, déclarant contester la « réponse
+du 4 novembre 2020 », qu’elle considérait comme étant « de mauvaise
+foi et abusive » et « non conforme à l’art. 132 CPC » ;
+attendu qu'aux termes de l'art. 18 al. 1 LP (loi sur la poursuite pour dettes et la faillite du 11 avril
+1889; RS 281.1), toute décision de l'autorité inférieure peut être déférée
+à l'autorité cantonale supérieure de surveillance dans les dix jours à compter de
+la notification,
+que selon le Tribunal fédéral, il découle de l’art. 18 LP et de la jurisprudence
+y relative que le recours doit contenir un exposé, à tout le moins sommaire, des moyens invoqués
+à son appui (TF 5A_118/2018 du 7 février 2018 consid. 4.1),
+que la jurisprudence du Tribunal fédéral en matière de recours selon les art. 319 ss CPC
+(Code de procédure civile du 19 décembre 2008 ; RS 272) –applicable par analogie –
+exige que le recourant démontre le caractère erroné de la motivation de la décision
+attaquée et que son argumentation soit suffisamment explicite pour que l’instance de recours
+puisse la comprendre, ce qui suppose une désignation précise des passages de la décision
+qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (TF 5A_488/2015
+du 21 août 2015 consid. 3.2.1, Revue suisse de procédure civile [RSPC] 2015, p. 512) ;
+attendu en l’espèce que la seule décision dont on dispose est celle rendue le 15 octobre
+2020 et notifiée à la recourante le 16 octobre 2020 par la Présidente du Tribunal d’arrondissement
+de la Broye et du Nord vaudois, agissant en sa qualité d’autorité inférieure de
+surveillance,
+qu’au vu des courriers au dossier, notamment celui du 26 octobre 2020, on peut admettre que le
+recours a été interjeté en temps utile ;
+attendu que le premier juge a refusé d’entrer en matière en application de l’art. 132
+CPC, selon lequel le tribunal fixe un délai pour la rectification des vices de forme, tels que des
+actes incompréhensibles ou prolixes et, à défaut de rectification, l’acte n’est
+pas pris en considération (al. 1 et 2),
+que la recourante n’expose pas en quoi les motifs du premier juge seraient erronés, en particulier
+en quoi sa deuxième écriture du 9 octobre 2020 n’était pas incompréhensible
+et prolixe,
+que d’ailleurs, l’acte de recours est aussi difficilement compréhensibles que les écritures
+précédentes de la recourante, du reste en partie reprises telles quelles,
+que le recours ne satisfait donc pas aux exigences de motivation prévues par l’art. 18 LP
+et la jurisprudence du Tribunal fédéral y relative, de sorte qu’il doit être déclaré
+irrecevable,
+que les écritures de la recourante des 10 et 26 octobre et 16 novembre 2020 ne changent rien à
+l’irrecevabilité,
+qu’il ressort du dossier que la recourante semble se plaindre d’une poursuite qui aurait
+été introduite par la [...] en lien avec un – ou des actes de défaut de biens « périmés »,
+que si l’on suppose que ces écritures – difficilement compréhensibles - étaient
+dirigées contre la décision du 15 octobre 2020 de l’autorité inférieure de
+surveillance, la recourante n’y expose pas en quoi la motivation du premier juge serait erronée,
+que si elles ne sont pas dirigées contre cette décision, mais uniquement contre l’introduction
+d’une poursuite sur la base d’un acte de défaut de biens vicié, la voie de recours
+n’est pas ouverte, faute de décision susceptible de recours, la recourante étant ici
+renvoyée à l’avis du Président de la cour de céans du 3 novembre 2020 ;
+attendu que le présent arrêt peut être rendu sans frais (art. 20a al. 2 ch. 5 LP).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Mme T.________
+‑
+M. le Préposé à l'Office des poursuites du district de la Broye-Vully.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+dix jours – cinq jours dans la poursuite pour effets de change – qui suivent la présente
+notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de la Broye et du Nord vaudois, autorité inférieure
+de surveillance.
+La greffière:
