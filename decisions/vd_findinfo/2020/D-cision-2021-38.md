@@ -1,0 +1,126 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___38"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 38"
+decided: "2020-12-28"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8107115"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-386.md", "switzerland/bund/acts/312.0/art-395.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/312.0/art-429.md"]
+---
+
+# VD Findinfo Décision / 2021 / 38
+
+## Regeste
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 386 al. 2 let. b CPP (CH), 428 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 28.12.2020 Décision / 2021 / 38
+
+RETRAIT{VOIE DE DROIT}, RADIATION DU RÔLE | 386 al. 2 let. b CPP (CH), 428 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1030
+PE19.016323-EMM
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+28 décembre 2020
+__________________
+Composition
+:               M.
+Meylan
+,
+juge unique
+Greffière
+:              Mme
+De Corso
+*****
+Art.
+386 al. 2 let. b et 428 al. 1 CPP
+Statuant sur le recours interjeté le 21 décembre 2020 par
+K.________
+contre l'ordonnance de classement rendue le 10 décembre 2020 par le Ministère public central,
+division affaires spéciales, dans la cause
+n° PE19.016323-EMM
+,
+le juge unique de la Chambre des recours pénale considère :
+En fait et en droit :
+1.
+Par ordonnance du 10 décembre 2020, le Ministère
+public central, division affaires spéciales, a ordonné le classement de la procédure dirigée
+contre K.________ pour empêchement d'accomplir un acte officiel (I), a dit qu'il n'y avait pas lieu
+d'octroyer à K.________ une indemnité au sens de l'art. 429 CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) (II), et a laissé les frais de procédure
+à la charge de l'Etat (III).
+2.
+Par courrier adressé au Ministère public le 14 décembre 2020, K.________ a requis la rectification
+du chiffre II de cette ordonnance, en ce sens qu'une indemnité lui soit allouée au titre de
+l'art. 429 CPP.
+3.
+Par acte du 21 décembre 2020, K.________ a recouru auprès de la Chambre des recours pénale
+du Tribunal cantonal contre cette ordonnance, en concluant, avec suite de frais et dépens, à
+ce que son chiffre II soit annulé et à ce que le dossier de la cause soit renvoyé au Ministère
+public pour qu'il statue sur sa requête d'indemnité au sens de l'art. 429 CPP.
+4.
+Par ordonnance rectificative du 22 décembre
+2020, le Ministère public central, division affaires spéciales, a corrigé l'ordonnance
+querellée en ce sens qu'une indemnité de 3'827 fr. 55, débours et TVA inclus, est allouée
+à K.________ au titre de l'art. 429 CPP (I), et a confirmé son ordonnance pour le surplus
+(II), le prononcé rectificatif étant rendu sans frais (III).
+5.
+Par courrier du 23 décembre 2020, K.________
+a déclaré retirer son recours.
+6.
+Dès lors que le recours porte uniquement sur les conséquences économiques accessoires
+d’une décision et que le montant litigieux n’excède pas 5'000 fr. (art. 395
+let. b CPP), il relève de la compétence d’un membre de la Chambre des recours pénale
+du Tribunal cantonal statuant comme juge unique (art. 13 al. 2 LVCPP [loi d’introduction du
+Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01]).
+7.
+Compte tenu de ce qui précède, il y a lieu de prendre acte du retrait du recours de K.________
+et de rayer la cause du rôle (art. 386 al. 2 let. b CPP).
+8.
+Les frais de la procédure de recours, constitués du seul émolument d'arrêt, par 270
+fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010; BLV 312.03.1]), seront laissés à la charge de l'Etat (art. 423 al. 1
+CPP).
+Par
+ces motifs,
+le
+juge unique
+prononce
+:
+I.
+Il est pris acte du retrait du recours.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d'arrêt, par 270 fr. (deux cent
+septante francs), sont laissés à la charge de l'Etat.
+IV.
+L’arrêt est exécutoire.
+Le
+juge unique :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Romain Kramer, avocat (pour K.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur du Ministère public central, division affaires spéciales,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
