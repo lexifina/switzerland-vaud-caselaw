@@ -1,0 +1,231 @@
+---
+decision_id: "vd_findinfo_Plainte___2021___3"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2021 / 3"
+decided: "2020-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8097988"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-123.md", "switzerland/bund/acts/272/art-138.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-017.md", "switzerland/bund/acts/281.1/art-018.md", "switzerland/bund/acts/281.1/art-031.md"]
+---
+
+# VD Findinfo Plainte / 2021 / 3
+
+## Regeste
+
+ACTE DE RECOURS, RECOURS CONDITIONNEL, MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ, FICTION DE LA NOTIFICATION, OBSERVATION DU DÉLAI | 18 LP, 28 al. 3 LVLP, 321 al. 1 CPC (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.12.2020 Plainte / 2021 / 3
+
+ACTE DE RECOURS, RECOURS CONDITIONNEL, MOTIVATION DE LA DEMANDE, DÉCISION D'IRRECEVABILITÉ, FICTION DE LA NOTIFICATION, OBSERVATION DU DÉLAI | 18 LP, 28 al. 3 LVLP, 321 al. 1 CPC (CH)
+
+TRIBUNAL
+CANTONAL
+FA20.036900-201651
+39
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 décembre 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+18 LP ; 28 al. 3 LVLP ; 321 al. 1 CPC par analogie
+La Cour des poursuites et faillites du Tribunal cantonal prend séance à huis clos, en sa qualité
+d'autorité cantonale supérieure de surveillance, pour statuer sur le recours interjeté
+par
+B.________
+,
+à Jongny, contre la décision rendue le 20 octobre 2020 par la Présidente du Tribunal d’arrondissement
+de l’Est vaudois, autorité inférieure de surveillance, rayant du rôle la cause opposant
+le recourant à l’
+OFFICE
+DES POURSUITES DU DISTRICT DE LA RIVIERA – PAYS-D’ENHAUT
+.
+Vu les pièces du
+dossier, la cour considère :
+En fait :
+1.
+a)
+Le 23 septembre 2020, B.________ a adressé à l’Office des poursuites du district de
+La
+Riviera-Pays d’Enhaut un courrier daté
+du
+19 septembre 2020 et intitulé « Réaction
+à avis de saisie », dans lequel le prénommé se déclarait étonné
+d’apprendre qu’il faisait l’objet d’une saisie de salaire (en raison d’une
+créance 158 fr. 30 de la Ville de Lausanne découlant d’une ordonnance pénale). Le
+24 septembre 2020, l’office des poursuites a transmis ce courrier au
+Tribunal
+d’arrondissement de l’Est vaudois. Le poursuivi a également été informé
+de cette transmission par courrier de l’office du même jour.
+b)
+Par avis recommandé du
+24
+septembre 2020, la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité
+inférieure de surveillance, a imparti à B.________ un délai au 5 octobre 2020 pour qu’il
+confirme que son courrier du 19 septembre 2020 devait être considéré comme une plainte
+17 LP contre l’avis de saisie du 19
+septembre 2020 et pour qu’il produise ledit avis de saisie, précisant que sans nouvelles de
+sa part dans le délai imparti, sa requête serait considérée comme irrecevable et
+la cause rayée du rôle.
+L’extrait « Easy Track » de la Poste relative à cet envoi mentionne que
+le 28 septembre 2020 le destinataire a été « avisé pour retrait / délai
+[de garde postal] au 05.10.2020 » et que le 6 octobre 2020 le « Recommandé (R)
+[a été] retourné selon la disposition formulée par l’expéditeur Non réclamé ».
+2.
+Par décision du 20 octobre 2020, la Présidente du Tribunal d’arron-dissement de l’Est
+vaudois a constaté que B.________ n’avait pas produit la décision contestée dans
+le délai imparti au 5 octobre 2020 et a rayé la cause du rôle en application de l’art.
+123 CPC (Code de procédure civile du 19 décembre 2008 ; RS 272), sans frais.
+Cette décision a été notifiée à l’intéressé le 22 octobre 2020.
+3.
+a)
+Par courrier daté du 27 et mis à la poste le 28 octobre 2020,
+B.________
+a demandé à la présidente de « reconsidérer à nouveau ma demande de
+restitution de délais », a déclaré s’opposer à la saisie ainsi qu’à
+un commandement de payer n° 9'513'581 du 12 février 2020, et a conclu à « l’interruption »
+de la procédure de saisie, à la restitution du montant saisi et à ce qu’il soit
+« [remis] dans les termes d’opposition afin de me permettre de comprendre la nature de la
+contestation à ma charge, à l’origine de la saisie »,
+b)
+Par avis recommandé du 2 novembre 2020, la présidente a adressé à B.________ une
+copie de l’avis du 24 septembre 2020 que l’intéressé n’avait pas retiré
+à la poste, l’informant qu’il lui appartenait de faire en sorte de réceptionner
+ledit avis dès lors qu’il se savait partie à une procédure et que, partant, elle
+n’entendait pas revenir sur sa décision du 20 octobre 2020 ; elle a en outre imparti
+à l’intéressé un délai au 19 novembre 2020 pour lui faire savoir si son courrier
+du 27 octobre 2020 devait être considéré comme un recours contre la décision du 20
+octobre 2020.
+c)
+Par courrier daté du 18 novembre 2020, posté le même jour, B.________ a confirmé
+que son « courrier du 19 septembre 2020 est à considérer comme une plainte ex art.
+17 LP et comme requête de restitution de délais », et a demandé à la présidente
+de « reconsidérer à nouveau mes arguments et demandes dont mes communications du
+19 septembre 2020 et du 27 octobre 2020, en vous priant gentiment de rouvrir le rôle »
+et que « en défaut d’accueil de cette demande, je vous confirme ma volonté
+de recourir contre votre (non) décision du 20 octobre 2020 ».
+Le 20 novembre 2020, B.________ a à nouveau adressé ce même courrier au tribunal d’arrondissement,
+accompagné cette fois de deux pièces.
+Ces deux écritures ont été transmises par la présidente à l’autorité
+de céans les 20 et 23 novembre 2020 comme objets de sa compétence.
+En
+droit :
+I.
+a)
+Le recours contre une décision de l'autorité inférieure de surveillance dans être
+introduit dans un délai de dix jours dès la notification du prononcé (art. 18 al. 1 LP
+[loi fédérale du 11 avril 1889 sur la poursuite pour dettes et la faillite; RS 281.1] et 28
+al. 1 LVLP [loi vaudoise d'application de la LP; RSV 280.05]).
+Le recours doit en outre être motivé (art. 28 al. 3 LVLP),
+soit indiquer brièvement les moyens invoqués, faute de quoi il est irrecevable (CPF, 30 avril
+2015/18 ; CPF, 21 août 2014/37 ; CPF, 26 juin 2014/28 ; CPF, 23 novembre 2011/43 ;
+CPF, 27 mai 2011/7).
+La jurisprudence du Tribunal
+fédéral en matière de recours selon les art. 319 ss CPC – applicable par analogie,
+du fait que l’art. 28 al. 3 LVLP n’a pas de portée propre (TF 5A_118/2018 du 7 février
+2018 consid. 4.2) – exige que le recourant démontre le caractère erroné de la motivation
+de la décision attaquée et que son argumentation soit suffisamment explicite pour que l’instance
+de recours puisse la comprendre, ce qui suppose une désignation précise des passages de la
+décision qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (art.
+321 al. 1 CPC ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, Revue suisse de procédure
+civile [RSPC] 2015, p. 512).
+b)
+En l’espèce, la décision rendue le 20 octobre 2020 – seul objet de la présente
+procédure – a été notifiée à B.________ le 22 octobre 2020. On peut considérer,
+en particulier au vu des précisions apportées par le prénommé dans le courrier qu’il
+a déposé le 18 novembre 2020 (dans le délai imparti), que l’écriture déposée
+le 28 octobre 2020 constitue un recours contre la décision du
+20
+octobre 2020, et que celui-ci a été formé en temps utile, dans le délai de dix jours
+à compter de la notification.
+On constate toutefois que le recourant soumet son recours à la condition que le premier juge refuse
+de rouvrir le rôle et de « reconsidérer à nouveau [ses] arguments et demandes ».
+Un tel recours – conditionnel – est en soi irrecevable (Reetz/Hilber, Kommentar zur Schweizerischen
+Zivilprozessordnung [ZPO Kommentar], n. 45 ad art. 308-318 CPC et les réf. cit.).
+Par ailleurs, à la lecture de ses différentes écritures – en particulier celle du
+28 octobre 2020, seule recevable comme recours –, on comprend que B.________ conteste en réalité
+le bien-fondé de la poursuite
+ayant
+donné lieu à la procédure de saisie, déclarant s’opposer à l’une
+et à l’autre, et que ses conclusions tendent à ce que toute la procédure de poursuite
+soit revue dès le début, la réouverture du rôle dans le cadre de la présente
+procédure n’en étant qu’un préalable nécessaire. Force est ainsi de constater
+que les arguments qu’il invoque ne sont pas dirigés contre la décision du 20 octobre
+2020 à proprement parler ; en effet, la question de l’absence de réaction du recourant
+à l’avis recommandé du 24 septembre 2020 dans le délai imparti – seule question
+traitée dans la décision attaquée – ne fait l’objet d’aucune discussion,
+l’intéressé se bornant à déclarer qu’il n’a jamais reçu ledit
+avis. En particulier, le recourant ne critique pas le raisonnement du premier juge consistant à
+dire qu’il lui appartenait de faire en sorte de réceptionner ledit avis dès lors qu’il
+se savait partie à une procédure. Le recours est donc également irrecevable pour défaut
+de motivation conforme.
+d)
+A supposer recevable, le recours aurait de toute manière dû être rejeté. En effet,
+dans son écriture du 28 octobre 2020, le recourant admet qu’il savait qu’une procédure
+était pendante devant la Présidente du Tribunal d’arrondissement de l’Est vaudois,
+l’office des poursuites l’ayant informé, par courrier du 23 septembre 2020, de la transmission
+de son « opposition » du 19 septembre 2020 à ladite autorité. Dans ces
+circonstances, la fiction de la notification était opposable au recourant, qui, au courant de la
+procédure, devait s’attendre à recevoir du courrier de l’autorité saisie (art.
+138 al. 3 let. a CPC, applicable par renvoi de l’art. 31 LP), si bien que l’avis du 24 septembre
+2020 était réputé notifié à l’intéressé le 5 octobre 2020 au
+plus tard, échéance du délai de garde postal de sept jours.
+II.
+En conclusion, le recours
+doit être déclaré irrecevable.
+Le présent arrêt est rendu sans frais.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. B.________,
+‑
+Ville de Lausanne, Service du contentieux,
+‑
+M. le Préposé à l’Office des poursuites du district de
+La
+Riviera-Pays d’Enhaut
+.
+Le présent arrêt peu
+t
+faire l'objet d'un recours en matière civile devant le Tribunal fédéral au sens des art.
+72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral – RS 173.110). Ce recours doit
+être déposé devant le Tribunal fédéral dans les dix jours – cinq jours
+dans la poursuite pour effets de change – qui suivent la présente notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme la Présidente du Tribunal d’arrondissement de l’Est vaudois, autorité inférieure
+de surveillance.
+La greffière :
