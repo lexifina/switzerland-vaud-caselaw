@@ -1,0 +1,264 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___66"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 66"
+decided: "2020-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8095336"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-066a.md", "switzerland/bund/acts/311.0/art-146.md", "switzerland/bund/acts/312.0/art-130.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# VD Findinfo Décision / 2021 / 66
+
+## Regeste
+
+ASSISTANCE JUDICIAIRE, DÉFENSE D'OFFICE, EXPULSION{DROIT PÉNAL} | 146 al. 1 CP, 66a CP, 130 CPP (CH), 131 CPP (CH), 132 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 30.12.2020 Décision / 2021 / 66
+
+ASSISTANCE JUDICIAIRE, DÉFENSE D'OFFICE, EXPULSION{DROIT PÉNAL} | 146 al. 1 CP, 66a CP, 130 CPP (CH), 131 CPP (CH), 132 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1011
+PE20.011551-SOO
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+30 décembre 2020
+________________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Kaltenrieder et Oulevey, juges
+Greffière
+:              Mme
+Pitteloud
+*****
+Art.
+130, 131 et 132 CPP ; 66a al. 1 let. f et 146 al. 1 CP
+Statuant sur le recours interjeté le 26 novembre 2020 par
+W.________
+contre l’ordonnance de refus de désignation d’un défenseur d’office rendue
+le 18 novembre 2020 par le Ministère public de l’arrondissement de Lausanne dans la cause
+n° PE20.011551-SOO
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Il est reproché à W.________ d’avoir, à [...], passé plusieurs commandes sur
+Internet en utilisant le nom d’F.________ mais sa propre adresse de livraison, et déterminé
+ainsi les sociétés vendeuses à des actes préjudiciables à leurs intérêts
+pécuniaires, alors qu'il savait dès le départ qu'il ne payerait pas les factures correspondantes.
+b)
+W.________, portugais d’origine, réside en Suisse depuis 2009 et est titulaire d’un
+permis d’établissement C (P. 30/4/1). Il travaille en qualité de manutentionnaire à
+la [...] et perçoit ainsi un revenu mensuel net moyen de 3'700 fr. (P. 30/4/5), auquel s’ajoutent
+des « extras », lui permettant selon ses dires d’atteindre un salaire mensuel
+moyen de 5'000 fr. (cf. PV aud. 1, R. 4). Sa prime d’assurance-maladie s’élève
+à 301 fr. 20 (P.30/4/7) et son loyer, pour l’appartement qu’il partage avec son ami,
+à 922 fr. 50 (P. 30/4/6 ; PV. aud. 1, R. 4). Après paiement de ses charges mensuelles,
+W.________ estime bénéficier d’un disponible d’environ 2'000 fr. (PV aud. 1, R.
+4).
+c)
+Dans le cadre de l’enquête pénale, W.________ a été entendu, sans interprète
+ni avocat, le 29 septembre 2020 (PV. aud. 1). A cette occasion, il a notamment dit être d’accord
+que les objets litigieux soient restitués aux ayants-droit économiques (PV. aud. 1, R. 20)
+et a fourni des explications concernant ces objets (PV aud. 1, R. 18 et 19).
+B.
+a)
+Le 12 novembre 2020, l’avocat de W.________
+a requis du Ministère public d’être désigné en qualité de conseil d’office
+de ce dernier.
+b)
+Par ordonnance du 18 novembre 2020, le Ministère public de l’arrondissement de Lausanne a
+rejeté la requête de désignation d’un défenseur d’office à W.________
+(I) et a dit que les frais suivaient le sort de la cause (II).
+La procureure a considéré que le prévenu ne se trouvait pas dans un cas de défense
+obligatoire au sens de l'art. 130 CPP (Code de procédure pénale suisse du 5 octobre 2007 ;
+RS 312.0). Par ailleurs, la cause n'était compliquée ni en fait ni en droit, de sorte que l'affaire
+ne nécessiterait que peu de mesures d’instruction et ne présentait pas de difficultés
+que le prévenu ne pourrait pas surmonter seul (art. 132 al. 2 CPP). Pour le surplus, au vu de la
+peine susceptible d'être prononcée, l'assistance d'un défenseur n'apparaissait pas justifiée
+pour sauvegarder les intérêts du prévenu (art. 132 al. 1 let. b CPP).
+C.
+Par acte du 26 novembre 2020 adressé à
+la Chambre des recours pénale du Tribunal cantonal, W.________ a recouru contre l’ordonnance
+du 18 novembre 2020 et a conclu à sa réforme en ce sens que sa requête de désignation
+d’un défenseur d’office soit admise, Me Gaëtan-Charles Barraud étant désigné
+en cette qualité.
+Par déterminations du 14 décembre 2020, le Ministère public a conclu, sous suite de frais,
+au rejet du recours, en particulier au motif que contrairement aux arguments du recourant, on ne se trouvait
+pas en présence d’un cas de défense obligatoire.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP) contre une décision du Ministère public refusant au prévenu la désignation
+d'un défenseur d'office (art. 393 al. 1 let. a CPP), par le prévenu, qui a qualité
+pour recourir (art. 382 al. 1 CPP), et dans les formes prescrites (art. 385 al. 1
+CPP), le recours formé par W.________ est recevable.
+2.
+2.1
+Le recourant fait valoir qu’il aurait droit
+à l’assistance d’un défenseur d’office, puisqu’il serait poursuivi
+pour une infraction susceptible d’entraîner le prononcé d’une expulsion obligatoire.
+Quoi qu’il en soit, à supposer qu’il faille retenir un cas de défense non obligatoire,
+sa situation personnelle, étant de langue maternelle portugaise et manutentionnaire à la [...],
+justifierait qu’un défenseur d’office lui soit désigné. La condition d’indigence
+serait de plus réalisée.
+2.2
+2.2.1
+Selon l'art. 130 CPP, le prévenu doit avoir
+un défenseur notamment lorsqu'il encourt une peine privative de liberté de plus d'un an, une
+mesure entraînant une privation de liberté ou une expulsion (let. b), ou lorsque, en raison
+de son état physique ou psychique ou pour d'autres motifs, il ne peut pas suffisamment défendre
+ses intérêts dans la procédure et ses représentants légaux ne sont pas en mesure
+de le faire (let. c).
+Sous l’angle de l’art. 130 let. b CPP, l’expulsion est toujours « encourue »
+lorsque le prévenu étranger est poursuivi pour des infractions entraînant l’expulsion
+obligatoire. Le catalogue d’infractions dressé par l’art. 66a al. 1 CP est dès
+lors également celui des infractions qui donnent lieu à une défense obligatoire lorsque
+le prévenu est étranger (Harari/Jakob/Santamaria,
+in
+Jeanneret/ Kuhn/Perrier Depeursinge [édit.], Commentaire romand, Code de procédure pénale
+suisse, 2
+e
+éd., Bâle 2019, n. 24 ad art. 130 CPP).
+Selon l’art. 66a al. 1 let. f CP, l’expulsion obligatoire est prononcée notamment en
+cas d’escroquerie (cf. art. 146 al. 1 CP [Code pénal suisse du 21 décembre 1937 ;
+RS 311.0]). La jurisprudence a toutefois précisé que l’escroquerie « simple »
+n’était pas visée par cette disposition mais, conformément aux derniers mots de
+l’art. 66a al. 1 let. f CP, l’escroquerie dans le domaine de contributions de droit public
+(TF 6G_3/2019 du 15 octobre 2019 consid. 1.4 et les réf. citées).
+2.2.2
+En dehors des cas de défense obligatoire
+visés à l'art. 130 CPP, l'art. 132 al. 1 let. b CPP soumet le droit à l'assistance
+d'un défenseur d'office aux conditions que le prévenu soit indigent et que la sauvegarde de
+ses intérêts justifie une telle assistance. Une personne est indigente lorsqu’elle n'est
+pas en mesure d'acquitter les frais du procès sans avoir recours à des moyens qui lui sont
+nécessaires pour subvenir à ses besoins élémentaires et à ceux de sa famille
+(ATF 144 III 531 consid. 4.1 ; ATF 141 III 369 consid. 4.1 ; ATF 128 I 225 consid. 2.5.1,
+JdT 2006 IV 47).
+S'agissant de la seconde condition, elle s'interprète à l'aune des critères mentionnés
+à l'art. 132 al. 2 et 3 CPP. Ainsi, les intérêts du prévenu justifient une défense
+d'office notamment lorsque la cause n'est pas de peu de gravité et qu'elle présente, sur le
+plan des faits ou du droit, des difficultés que le prévenu seul ne pourrait pas surmonter (art.
+132 al. 2 CPP). En tout état de cause, une affaire n'est pas de peu de gravité lorsque le prévenu
+est passible d'une peine privative de liberté de plus de quatre mois ou d'une peine pécuniaire
+de plus de cent-vingt jours-amende (art. 132 al. 3 CPP ; TF 1B_475/2020 du 19 novembre 2020 consid.
+2.1).
+2.2.3
+Si les deux conditions mentionnées à
+l'art. 132 al. 2 CPP doivent être réunies cumulativement, il n'est pas exclu que l'intervention
+d'un défenseur soit justifiée par d'autres motifs (comme l'indique l'adverbe « notamment »),
+en particulier dans les cas où cette mesure est nécessaire pour garantir l'égalité
+des armes ou parce que l'issue de la procédure pénale a une importance particulière pour
+le prévenu, par exemple s'il est en détention, s'il encourt une révocation de l'autorisation
+d'exercer sa profession ou s'il risque de perdre la garde de ses enfants (TF 1B_360/2020 du 4 septembre
+2020 consid. 2.1 et les arrêts cités). La désignation d'un défenseur d'office peut
+ainsi s'imposer selon les circonstances, lorsque le prévenu encourt une peine privative de liberté
+de quelques semaines à quelques mois si, à la gravité relative du cas, s'ajoutent des
+difficultés particulières du point de vue de l'établissement des faits ou des questions
+juridiques soulevées, qu'il ne serait pas en mesure de résoudre seul. En revanche, lorsque
+l'infraction n'est manifestement qu'une bagatelle, en ce sens que son auteur ne s'expose qu'à une
+amende ou à une peine privative de liberté de courte durée, la jurisprudence considère
+que l'auteur n'a pas de droit constitutionnel à l'assistance judiciaire (ATF 143 I 164 consid. 3.5,
+RDAF 2018 I 310 ; TF 1B_475/2020, déjà cité, consid. 2.1).
+Pour évaluer si l'affaire présente des difficultés que le prévenu ne pourrait pas
+surmonter sans l'aide d'un avocat, il y a lieu d'apprécier l'ensemble des circonstances concrètes.
+La nécessité de l'intervention d'un conseil juridique doit ainsi reposer sur des éléments
+objectifs, tenant principalement à la nature de la cause, et sur des éléments subjectifs,
+fondés sur l'aptitude concrète du requérant à mener seul la procédure (TF 1B_475/2020,
+déjà cité, consid. 2.2 ; TF1B_360/2020, déjà cité, consid. 2.2 et
+l'arrêt cité). S’agissant en particulier la difficulté subjective d'une cause, il
+faut tenir compte des capacités du prévenu, notamment de son âge, de sa formation, de
+sa plus ou moins grande familiarité avec la pratique judiciaire, de sa maîtrise de la langue
+de la procédure, ainsi que des mesures qui paraissent nécessaires, dans le cas particulier,
+pour assurer sa défense, notamment en ce qui concerne les preuves qu'il devra offrir (TF 1B_475/2020,
+déjà cité, consid. 2.2 ; TF 1B_360/2020, déjà cité, consid. 2.2 et
+l'arrêt cité).
+2.3
+En l’espèce, contrairement à ce que soutient le recourant, on ne se trouve pas dans un
+cas de défense obligatoire, puisque l’escroquerie simple n’est pas visée par l’art.
+66a al. 1 let. f CP et n’entre par conséquent pas dans le catalogue des infractions donnant
+obligatoirement lieu à une expulsion.
+Les conditions cumulatives de l’art. 132 CPP ne sont pour leur part pas réalisées. En
+effet, comme relevé à juste titre par la procureure, la cause n’apparaît pas comme
+étant compliquée, ni en fait ni en droit. Par ailleurs, la peine susceptible d’être
+prononcée paraît encore compatible avec le cas de peu de gravité au sens de l’art. 132
+al. 3 CPP. Les circonstances invoquées par le recourant ne sont pas de nature à considérer
+que la cause serait complexe. En particulier, on ne voit pas en quoi le fait que le recourant soit de
+langue maternelle portugaise constituerait un obstacle à la défense de ses intérêts,
+puisqu’il réside en Suisse depuis 2009 (cf. P. 30/4/1) et qu’il est intégré
+dans le monde professionnel, ce qui laisse présumer une compréhension de la langue française.
+Il n’a d’ailleurs pas requis l’assistance d’un interprète – ni d’un
+avocat – lors de son audition du 29 septembre 2020 (PV aud. 1). Au cours de cette audition,
+le recourant a déclaré qu’il acceptait que les objets litigieux soient restitués
+aux ayants-droit économiques. Un nombre limité de mesures d’instruction devra ainsi être
+mis en œuvre et le prévenu n’aura que peu de moyens de preuve à fournir. On ne voit
+dès lors pas en quoi, à ce stade, l’assistance d’un avocat serait nécessaire
+au prévenu pour la défense de ses droits, quand bien même l’intéressé
+ne dispose pas de connaissances juridiques et travaille comme manutentionnaire à la [...].
+Pour ce qui est de la condition de l’indigence, le recourant a lui-même déclaré,
+lors de son audition du 29 septembre 2020, qu’il gagnait un salaire moyen de 5'000 fr. par mois
+et qu’il lui restait un disponible mensuel de 2'000 fr. une fois l’entier de ses charges
+payé, ce qui est largement suffisant pour s’acquitter des honoraires de son avocat. Même
+en tenant compte des seules charges alléguées dans le recours, soit d’un loyer de 922
+fr. 50 (et non 1'845 fr.), d’une prime maladie de 301 fr. 20 et d’un montant de base
+de 850 fr. (le recourant vivant avec son ami), soit d’un total de 2'073 fr. 70, et d’un salaire
+de 3'700 fr., le recourant serait toujours en mesure de s’acquitter des honoraires de son
+conseil, avec son disponible de 1'626 fr. 30 (3'700 fr. – 2'073 fr. 70).
+3.
+3.1
+Compte tenu de ce qui précède, le recours doit être rejeté et la décision entreprise
+confirmée.
+3.2
+Au vu de l’issue
+de la cause, les frais de la procédure de recours, constitués en l'espèce du seul émolument
+d'arrêt, par 770 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront mis à la charge
+du recourant, qui succombe (arr. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 18 novembre 2020 est confirmée.
+III.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont mis à la charge du recourant W.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Gaëtan-Charles Barraud (pour W.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de Lausanne,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
