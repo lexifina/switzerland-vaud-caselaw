@@ -1,0 +1,151 @@
+---
+decision_id: "vd_findinfo_Plainte___2021___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Plainte / 2021 / 4"
+decided: "2020-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8108640"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-319.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-008a.md", "switzerland/bund/acts/281.1/art-018.md"]
+---
+
+# VD Findinfo Plainte / 2021 / 4
+
+## Regeste
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE | 18 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.12.2020 Plainte / 2021 / 4
+
+ACTE DE RECOURS, MOTIVATION DE LA DEMANDE | 18 LP
+
+TRIBUNAL
+CANTONAL
+FA20.035147-201664
+40
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 décembre 2020
+__________________
+Composition
+:              M.
+Maillard
+,
+président
+Mmes
+Byrde et Giroud Walther, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+18 LP
+Vu la plainte formée le 10 septembre 2020 par
+B.________
+,
+à Nyon, contre la décision du 7 septembre 2020 de l’
+OFFICE
+DES POURSUITES DU DISTRICT DE NYON
+refusant
+de faire droit à sa demande tendant à la non-divulgation de la poursuite n° 9'532'817
+introduite contre lui par [...], à Lussy,
+vu la décision rendue le 13 novembre 2020, à la suite d’une audience tenue en présence
+du plaignant et d’un représentant de l’office, par la Présidente du Tribunal d’arrondissement
+de La Côte, statuant en tant qu’autorité inférieure de surveillance, rejetant, dans
+la mesure de sa recevabilité, la plainte de B.________,
+vu la notification de
+cette décision au plaignant le 16 novembre 2020,
+vu le recours formé le 20 novembre 2020 par B.________, qui expose le litige qui l’oppose
+à la poursuivante et conclut à ce qu’il « plaise au Tribunal de bien vouloir
+évaluer la situation et prendre une décision juste quant à [son] recours contre ce prononcé » ;
+vu les autres pièces du dossier ;
+attendu que toute décision de l’autorité inférieure de surveillance peut être
+déférée à l’autorité cantonale supérieure de surveillance dans les
+dix jours à compter de sa notification (art. 18 al. 1 LP [loi fédérale du 11
+avril 1889 sur la poursuite pour dettes et la faillite; RS 281.1] et 28 al. 1 LVLP [loi vaudoise d'application
+de la LP; RSV 280.05]),
+qu’en l’espèce, l’acte de recours du 20 novembre 2020, dirigé contre la
+décision du 13 novembre 2020 qui a été notifiée au plaignant le 16 novembre 2020,
+a été déposé en temps utile ;
+attendu que le
+recours
+doit en outre être motivé (art. 28 al. 3 LVLP),
+soit indiquer brièvement les moyens invoqués, faute de quoi il est irrecevable (CPF,
+30
+avril 2015/18 ; CPF, 21 août 2014/37 ; CPF, 26 juin 2014/28 ; CPF, 23 novembre 2011/43 ;
+CPF, 27 mai 2011/7),
+que la
+jurisprudence du Tribunal fédéral
+en matière de recours selon les art. 319 ss CPC – applicable par analogie du fait que l’art.
+28 al. 3 LVLP n’a pas de portée propre (TF 5A_118/2018 du 7 février 2018 consid. 4.2)
+– exige que le recourant démontre le caractère erroné de la motivation de la décision
+attaquée et que son argumentation soit suffisamment explicite pour que l’instance de recours
+puisse la comprendre, ce qui suppose une désignation précise des passages de la décision
+qu’il attaque et des pièces du dossier sur lesquelles il fonde sa critique (art. 321 al. 1
+CPC ; TF 5A_488/2015 du 21 août 2015 consid. 3.2.1, Revue suisse de procédure civile [RSPC]
+2015, p. 512),
+qu’un vice dans la motivation n’est pas réparable (CPF 10 août 2020/191 et les
+réf. cit. ; ATF 126 III 30, JdT 2000 II 11),
+qu’en l’espèce, dans son acte de recours, B.________ expose la nature du litige qui
+l’oppose à [...] et fait référence à une procédure de mainlevée en
+cours, mais n’invoque aucun grief contre la décision attaquée, dont l’unique objet
+est la demande de non-divulgation de la poursuite n° 9'532'817 qu’il avait déposée,
+que le recourant ne fait ainsi valoir aucun moyen contre les considérants du premier juge, qui a
+retenu, d’une part, que s’agissant de la non-divulgation de la poursuite litigieuse, les
+conditions de l’art. 8a al. 3 let d LP n’étaient pas réunies et que c’est
+dès lors à bon droit que l’office avait rejeté la demande du plaignant et, d’autre
+part, qu’en tant qu’elle mettait en cause le bien-fondé de la poursuite et demandait
+le rejet de la mainlevée de l’opposition, la plainte était irrecevable,
+que B.________ ne formule par ailleurs pas de conclusion(s) à proprement parler, se bornant à
+demander à ce que « la situation » soit « évaluée »
+et à ce qu’une « décision juste » soit rendue,
+que faute de contenir
+une motivation topique contre la décision entre-prise et à défaut de conclusion(s) suffisamment
+précise(s), le recours doit être déclaré irrecevable ;
+attendu que le présent
+arrêt est rendu sans frais (art. 20 a al. 2 ch. 5 LP; 61 al. 2 let. a et 62 al. 2 OELP [ordonnance
+du 23 septembre 1996 sur les émoluments perçus en application de la LP ; RS 281.35]).
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité cantonale
+supérieure
+de surveillance,
+p
+r o n o n c e :
+I.
+Le recours est irrecevable.
+II.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+M. B.________,
+‑
+[...],
+‑
+M. le Préposé à l'Office des poursuites de Nyon.
+Le présent arrêt peut faire l'objet d'un recours en matière
+civile
+devant le Tribunal fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal
+fédéral – RS 173.110). Ce recours doit être déposé devant le Tribunal
+fédéral dans les dix jours – cinq jours dans la poursuite pour effets de change –
+qui suivent la présente notification (art. 100 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+‑
+Mme
+la Présidente du Tribunal
+d’arrondissement de La Côte
+, autorité
+inférieure de surveillance.
+La greffière :
