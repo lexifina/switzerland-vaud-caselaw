@@ -1,0 +1,237 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 41"
+decided: "2020-12-30"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8053658"
+cites_law: ["switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/281.1/art-174.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 41
+
+## Regeste
+
+PROCÉDURE DE FAILLITE, INSOLVABILITÉ, PREUVE | 174 al. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 30.12.2020 Faillite / 2020 / 41
+
+PROCÉDURE DE FAILLITE, INSOLVABILITÉ, PREUVE | 174 al. 2 LP
+
+TRIBUNAL
+CANTONAL
+FF20.029648-201344
+330
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du
+30 décembre 2020
+_______________________
+Composition
+:               M.
+Maillard
+,
+président
+Mmes
+Byrde et Cherpillod, juges
+Greffier
+:
+Mme              Joye
+*****
+Art.
+174 al. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+K.________
+,
+à Begnins, contre le jugement rendu le 7 septembre 2020, à la suite de l’audience du
+même jour, par la Présidente du Tribunal d’arrondissement de La Côte, prononçant
+la faillite du recourant à la réquisition de
+N.________
+,
+à Lausanne.
+Vu les pi
+èces au dossier,
+la cour considère :
+En fait
+:
+1.
+Par requête adressée le 28 juillet 2020
+au Président du Tribunal d’arrondissement de La Côte, N.________ a requis la faillite
+de K.________. Elle a produit le commandement de payer et la commination de faillite notifiés au
+poursuivi dans la poursuite n° ...]9'417’125 de l’Office des poursuites du district
+de Nyon, portant sur les sommes de 1'184 fr. 10 plus intérêt à 5% l’an dès
+le
+9 décembre 2019, de 469 fr. plus
+intérêt à 5% l’an dès le 9 décembre 2019, de 220 fr. sans intérêt
+et de 20 fr. 25 sans intérêt.
+Par avis recommandé du 29 juillet 2020, la requête a été adressée au poursuivi
+et les parties ont été convoquées à une audience de faillite fixée au
+7
+septembre 2020. Aucune des parties n’a comparu à l’audience.
+2.
+Par jugement du 7 septembre 2020, la Présidente
+du Tribunal d’arron-dissement de La Côte, statuant en tant qu’autorité de première
+instance en matière sommaire de poursuites et de faillite, a prononcé la faillite de K.________
+le 7 septembre 2020 à 12 heures (I), a mis les frais judiciaires, fixés à 200 fr., à
+la charge du failli (II). Le pli contenant ce jugement destiné au failli a été retourné
+au greffe du tribunal avec la mention « non réclamé ».
+3.
+a)
+Par acte du 18 septembre 2020, K.________ a recouru contre le jugement du 7 septembre 2020 en concluant,
+avec dépens, à l’annulation de la faillite. A l’appui de son écriture, il
+a produit les trois pièces suivantes :
+–
+un extrait du Registre du commerce relatif à
+l’entreprise individuelle [...],K.________,
+–
+une quittance de l’Office des poursuites du district de Nyon attestant du paiement, le 18 septembre
+2020, par le poursuivi, d’un montant de 2'219 fr. 05 en règlement de la poursuite n°
+9'417'125 introduite par N.________, et
+–
+un reçu de l’Office
+des faillites de l’arrondissement de La Côte concernant le paiement, par le poursuivi, d’un
+montant de 200 fr. à titre de frais de restitution de délai.
+b)
+Par décision du 23 septembre 2020, le Président de la cour de céans a rejeté la requête
+d’effet suspensif contenue dans le recours.
+c)
+Un extrait des poursuites au 22 septembre 2020 concernant le recourant a été versé au
+dossier. Cet extrait a été adressé à l’intéressé par avis recommandé
+du 28 septembre 2020 et un délai de dix jours dès réception de l’envoi lui a été
+imparti pour se déterminer sur son contenu.
+Le 9 octobre 2020, le recourant a déposé des observations sur ledit extrait. A l’appui
+de son écriture, il a produit un lot de pièces.
+Le 16 octobre 2020, un délai de dix jours a été imparti à l’intimée pour
+se déterminer sur le recours. Elle n’a pas procédé.
+En droit :
+I.
+a)
+En vertu de l'art. 174 al. 1 LP (loi fédérale
+sur la poursuite pour dettes et la faillite; RS 281.1), la décision du juge de la faillite peut,
+dans les dix jours, faire l'objet d'un recours au sens du CPC (Code de procédure civile; RS 272).
+Selon l'art. 321 al. 1 CPC, le recours s'exerce par le dépôt d'un acte écrit et motivé,
+introduit auprès de l'instance de recours.
+En vertu de l'art. 174 al. 1, 2
+e
+phrase LP, les parties peuvent faire valoir devant l'instance de recours des faits nouveaux lorsque ceux-ci
+se sont produits avant le jugement de première instance. La loi vise ici les faits nouveaux improprement
+dits (faux nova ou pseudo-nova), à savoir ceux qui existaient déjà au moment de l'ouverture
+de la faillite et dont le premier juge n'a pas eu connaissance pour quelque raison que ce soit; ces faits
+peuvent être invoqués sans restriction devant la juridiction de recours, pour autant qu'ils
+le soient dans le délai de recours (ATF 139 III 491 consid. 4.4). Selon la jurisprudence, les vrais
+nova – à savoir les faits qui sont intervenus après l'ouverture de la faillite en première
+instance (art. 174 al. 2 ch. 1-3 LP) – doivent également être produits avant l'expiration
+du délai de recours (ATF 139 III 491 consid. 4; ATF 136 III 294 consid. 3; TF 5A_899/2014 du 5 janvier
+2015 consid. 3.1 et les autres références, publié in SJ 2015 I p. 437). En vertu de la
+lettre claire de l'art. 174 al. 2 LP, aucun autre novum n'est admissible
+(TF
+5A_874/2017 du 7 février 2018; TF 5A_625/2015 du 18 janvier 2016 consid. 3.6.1). L'octroi d'un délai
+pour se déterminer sur l'extrait du registre des poursuites et des actes de défaut de biens
+requis d'office et joint au dossier n'a pas pour effet de prolonger le délai de recours ni d'instituer
+un délai supplémentaire pour produire des pièces (TF 5A_681/2016 du 24 novembre 2016 ;
+CPF 6 novembre 2020/242; CPF
+7 juillet 2016/215;
+CPF 16 octobre 2013/409).
+b)
+En l'espèce, l’acte de recours du 18 septembre 2020, dirigé contre le jugement rendu
+le 7 septembre 2020, a été déposé en temps utile et dans les formes requises, le
+recourant demandant l’annulation de la faillite. Il est ainsi recevable. Les pièces produites
+à l’appui de cette écriture sont également recevables.
+L’écriture du 9 octobre 2020, déposé dans le délai imparti dans l’avis
+du 28 septembre 2020, est également recevable à titre de détermination sur l'extrait des
+poursuites précité. Les pièces accompagnant ces déterminations sont en revanche irrecevables,
+car produites après l’échéance du délai de recours. En effet, dans son écriture
+du 18 septembre 2020, le recourant affirme avoir eu connaissance du jugement de faillite le même
+jour (par l’intermédiaire de l’office des poursuites), de sorte que le délai de
+recours de dix jours (174 al. 1 LP et 321 al. 2 CPC) est arrivé à échéance le 28
+septembre 2020 au plus tard.
+II.
+a)
+En vertu de l'art. 174 al. 2 LP, l'autorité
+de recours peut annuler l'ouverture de la faillite lorsque le débiteur rend vraisemblable sa solvabilité
+et établit par titre que la dette, intérêts et frais compris, a été payée
+(ch. 1) ou que la totalité de la somme à rembourser a été déposée auprès
+de l'autorité judiciaire supérieure à l'intention du créancier (ch. 2), ou encore
+que celui-ci a retiré sa réquisition de faillite (ch. 3). Ces deux conditions, soit le paiement
+de la dette à l'origine de la faillite, le dépôt de la totalité de la somme à
+rembourser ou le retrait de la requête de faillite et la vraisemblance de la solvabilité, sont
+cumulatives (TF 5A_801/2014 du 5 décembre 2014 consid. 6.1 ; Bosshard, Le recours contre le jugement
+de faillite, in JdT 2010 II 113 ss, p. 127).
+C'est le débiteur qui doit rendre sa solvabilité vraisemblable; il n'appartient pas à
+l'autorité de recours de rechercher d'office des moyens de preuve idoines (TF 5A_181/2018 du 30
+avril 2018 consid. 3.1; TF 5A_354/2016 du 22 novembre 2016 consid. 4.1 et les arrêts cités;
+TF 5A_300/2016 du 14 octobre 2016 consid. 5.1 et les arrêts cités; TF 5A_175/2015 du 5 juin
+2015 consid. 4.1 publié in SJ 2016 I p. 101; TF 5A_912/2013 du 18 février 2014 consid. 3);
+il ne peut se contenter de simples allégations, mais doit fournir des indices concrets tels que
+récépissés de paiements, justificatifs des moyens financiers (avoirs en banque, crédit
+bancaire) à sa disposition, liste des débiteurs, extrait du registre des poursuites, comptes
+annuels récents, bilan intermédiaire, etc. (TF 5A_181/2018 précité). L’extrait
+du registre des poursuites concernant le failli est en règle générale décisif (même
+arrêt).
+b)
+En
+l’espèce, le recourant a produit à l’appui de son écriture du
+18
+septembre 2020 une quittance de l’Office des poursuites du district de Nyon attestant du règlement,
+dans le délai de recours, de la poursuite à l’origine de la faillite. La première
+des conditions légales pour annuler la faillite est ainsi réalisée.
+Tel n’est en revanche pas le cas de la deuxième condition posée par l’art. 174
+LP. En effet, l’acte de recours du 18 septembre 2020 ne contient aucune allégation au sujet
+de la solvabilité du failli et n’est accompagné d’aucune pièce susceptible
+de la rendre vraisemblable. De telles pièces ne ressortent en outre pas du dossier de première
+instance.
+III.
+En conclusion, le recours doit être rejeté
+et le jugement de faillite confirmé.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr., doivent être
+mis à la charge du recourant (art. 106 al. 1 CPC), qui en a déjà fait l’avance.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement de faillite du 7 septembre 2020 est confirmé.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge du recourant.
+Le
+président :               La greffière
+:
+Du
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Olivier Wehrli, avocat (pour K.________),
+‑
+N.________,
+-
+M. le Préposé à l'Office des poursuites du district de Nyon,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de La Côte.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+M. le Conservateur du Registre foncier, Office de La Côte,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal d'arrondissement de La Côte.
+La greffière :
