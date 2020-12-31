@@ -1,0 +1,303 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___8"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 8"
+decided: "2020-12-31"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8058002"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-022.md", "switzerland/bund/acts/311.0/art-139.md", "switzerland/bund/acts/311.0/art-144.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 8
+
+## Regeste
+
+DÉTENTION PROVISOIRE, SOUPÇON, RISQUE DE FUITE | 221 al. 1 let. a CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 31.12.2020 Décision / 2021 / 8
+
+DÉTENTION PROVISOIRE, SOUPÇON, RISQUE DE FUITE | 221 al. 1 let. a CPP (CH)
+
+TRIBUNAL
+CANTONAL
+1040
+PE20.021867-DBT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+31 décembre 2020
+__________________
+Composition
+:               Mme
+B Y R D E, vice-présidente
+MM
+Meylan et Oulevey, juges
+Greffier
+:              M.
+Ritter
+*****
+Art.
+212 al. 3, 221 al. 1 CPP
+Statuant sur le recours interjeté le 23 décembre 2020 par
+N.________
+contre l’ordonnance rendue le 14 décembre 2020 par le Tribunal des mesures de contrainte dans
+la cause
+n° PE20.021867-DBT
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+Ministère public cantonal Strada (ci-après : le Ministère public) diligente une instruction
+pénale contre N.________, ressortissant de Roumanie, né en 1985, pour dommage à la propriété
+(art. 144 al. 1 CP), tentative de vol (art. 22 CP ad art. 139 ch. 1 CP), tentative de violation de domicile
+(art. 22 CP ad art. 186 CP) et violation de domicile (art. 186 CP).
+N.________ a été appréhendé le 11 décembre 2020 à 2 h 00. L’audition
+d’arrestation par le Ministère public a eu lieu le même jour à 18 h 26. Le prévenu
+a valablement renoncé à être entendu par le Tribunal des mesures de contrainte.
+Il est fait grief au prévenu des faits suivants :
+-
+d’avoir, avec son compatriote [...], à [...], [...], entre le 10 et le 11 décembre 2020,
+pénétré par effraction dans la [...] et y d’avoir tenté en vain d'y dérober
+des biens;
+-
+d’avoir, avec le même comparse, à [...], [...], entre le 10 et le 11 décembre 2020,
+tenté en vain de pénétrer par effraction dans le magasin [...] dans le dessein d'y dérober
+des biens et d’avoir ainsi endommagé le cache de la serrure de la porte;
+-
+d’avoir, avec le
+même comparse, à [...], [...], entre le 10 et le 11 décembre 2020, tenté en vain
+de pénétrer par effraction dans le magasin [...] dans le dessein d'y dérober des biens
+et d’avoir ainsi endommagé la serrure et la porte;
+-
+d’avoir, avec le
+même comparse, à [...], [...], entre le 10 et le 11 décembre 2020, tenté en vain
+de pénétrer par effraction chez [...] et d’avoir ainsi endommagé la porte, sa serrure
+et son cadre.
+La fouille du véhicule Alfa Roméo à plaques roumaines dans lequel circulaient N.________
+et [...] a révélé la présence de matériel propre à être utilisé
+pour un cambriolage. Une partie du cylindre endommagé dans la [...] a également été
+retrouvée dans ce véhicule (P. 7).
+b)
+Par
+demande motivée du 12 décembre 2020, le Ministère public a requis le Tribunal des mesures
+de contrainte d’ordonner la détention provisoire du prévenu pour une durée de trois
+mois. Il a invoqué les risques de fuite et de réitération.
+Dans ses déterminations du 13 décembre 2020, le prévenu a conclu au rejet de la demande
+de détention provisoire et a requis sa libération immédiate.
+B.
+Par ordonnance du 14 décembre 2020, le Tribunal
+des mesures de contrainte a prononcé la détention provisoire de N.________ (I), a fixé
+la durée maximale de la détention provisoire à trois mois, soit jusqu’au 11 mars
+2021 (II), et a dit que les frais, par 375 fr., suivaient le sort de la cause (III).
+C.
+Par acte du 23 décembre 2020, N.________, agissant par son défenseur d’office, a recouru
+contre cette ordonnance, en concluant, avec suite de frais et dépens, à sa réforme en
+ce sens que sa libération immédiate soit ordonnée. Subsidiairement, il a conclu à
+l’annulation de l’ordonnance, la cause étant renvoyée au Tribunal des mesures de
+contrainte pour nouvelle décision dans le sens des considérants.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Interjeté dans le délai légal (art.
+396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]) contre une décision
+du Tribunal des mesures de contrainte dans un cas prévu par le CPP (art. 393 al. 1 let. c CPP),
+par un détenu qui a qualité pour recourir (art. 222 et 382 al. 1 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable (cf. not. CREP 26 février 2020/130 qui concerne,
+comme le présent cas, le rejet d’une demande de levée de la détention provisoire).
+2.
+2.1
+Aux termes de l'art. 221 al. 1 CPP, la détention provisoire et la détention pour des motifs
+de sûreté ne peuvent être ordonnées que lorsque le prévenu est fortement soupçonné
+d'avoir commis un crime ou un délit et qu'il y a sérieusement lieu de craindre qu'il se soustraie
+à la procédure pénale ou à la sanction prévisible en prenant la fuite (let.
+a), qu'il compromette la recherche de la vérité en exerçant une influence sur des personnes
+ou en altérant des moyens de preuve (let. b) ou qu'il compromette sérieusement la sécurité
+d'autrui par des crimes ou des délits graves après avoir déjà commis des infractions
+du même genre (let. c).
+2.2
+La mise en détention provisoire n’est
+possible que s’il existe à l’égard de l’auteur présumé, et préalablement
+à toute autre cause, de graves soupçons de culpabilité d’avoir commis un crime ou
+un délit (ATF 139 IV 186 consid. 2; Chaix,
+in
+: Jeanneret/Kuhn/Perrier Depeursinge [éd.], Commentaire romand, Code de procédure pénale
+suisse, 2
+e
+éd., Bâle 2019, nn. 4 ss ad art. 221 CPP).
+L'intensité des charges propres à motiver un maintien en détention provisoire n'est pas
+la même aux divers stades de l'instruction pénale. Si des soupçons, même encore peu
+précis, peuvent être suffisants dans les premiers temps de l'enquête, la perspective d'une
+condamnation doit apparaître vraisemblable après l'accomplissement des actes d'instruction
+envisageables (ATF 143 IV 330 consid. 2.1; ATF 143 IV 316 consid. 3.2; TF 1B_139/2020 du 15 avril 2020
+consid. 3.1; TF 1B_219/2019 du 4 juin 2019 consid. 2.1). A l'instar du juge du séquestre, le juge
+de la détention n'est toutefois pas tenu, à ce stade de la procédure, de résoudre
+des questions juridiques complexes (ATF 141 IV 360 consid. 3.2; TF 1B_211/2017 du 27 juin 2017 consid.
+2.1). Les autorités de recours appelées à se prononcer sur la légalité d'une
+décision de maintien en détention provisoire ou pour des motifs de sûreté ne doivent
+pas procéder à une pesée complète des éléments à charge et à
+décharge, ni apprécier la crédibilité des personnes qui mettent en cause le prévenu.
+Bien plutôt, elles doivent uniquement examiner s'il existe des indices sérieux de culpabilité
+justifiant une telle mesure (ATF 137 IV 122 consid. 3.2; ATF 124 I 208 consid. 3; TF 1B_308/2018 du 17
+juillet 2018 consid. 2.1).
+3.
+3.1
+En l’espèce, le recourant conteste d’abord l’existence de soupçons suffisants
+à son encontre. Il fait valoir que les infractions incriminées ont été perpétrées
+par son seul comparse, qui a reconnu les faits en précisant avoir agi seul et à l’insu
+de son passager; le recourant précise qu’il était, pour sa part, resté dans la voiture
+et qu’il n’était « pas lié aux faits qui sont survenus à [...] dans
+la nuit du 10 au 11 décembre 2020 » (recours, p. 5).
+3.2
+Les forts soupçons découlent d’un faisceau d’indices convergents, à savoir :
+les aveux d’[...]; la présence des deux comparses dans le même véhicule; les outils
+propres à être utilisés lors d’un cambriolage retrouvés dans la voiture (deux
+tournevis cruciformes, un tournevis plat et deux clés à fourche); la présence, dans ce
+véhicule, d’une partie du cylindre endommagé dans la [...], ainsi que de deux bonnets
+(l’un gris, l’autre noir) et de deux paires de gants. En particulier, les outils saisis apparaissent
+destinés à être utilisés par deux personnes simultanément, à défaut
+de quoi la présence conjointe de deux tournevis et de deux clés à fourche de même
+type ne serait guère explicable. Il en va de même des bonnets et des paires de gants retrouvés,
+le recourant ayant au demeurant admis qu’un bonnet et une paire de gants lui appartenaient. A ce
+stade précoce de l’enquête, ces éléments infirment les propos du comparse tendant
+à mettre hors de cause le recourant. De même, il importe peu que la description du suspect
+donnée par la personne ayant alerté la police paraisse correspondre davantage à la corpulence
+d’[...] qu’à celle du recourant. En effet, qu’un individu ait été entraperçu
+fugitivement dans l’obscurité sur le lieu des faits n’exclut pas l’implication
+d’un autre.
+Qui plus est, l’explication donnée par le recourant à sa présence en Suisse apparaît
+peu plausible. Il soutient que son comparse et lui-même entendaient se rendre à Belfort depuis
+l’Italie et qu’ils avaient emprunté des routes secondaires pour éviter de payer
+la vignette autoroutière (PV aud. du 11 décembre 2020, R. 9, p. 5). Même si le recourant
+travaille dans cette localité française et que ce lieu figurait dans le GPS intégré
+dans le téléphone de son comparse, il n’en reste pas moins que les faits allégués
+ne justifient pas leur présence, en pleine nuit, à [...], commune qui ne se trouve pas sur
+la voie directe en direction de Belfort.
+En l’état, le rapprochement de ces éléments commande de considérer que le recourant
+est impliqué dans les actes incriminés. Les soupçons sont donc suffisants à ce stade
+précoce de l’enquête. La condition préalable à la détention provisoire
+est ainsi remplie.
+3.3
+Au surplus, le recourant ne conteste pas le risque
+de fuite. Il suffit de relever à cet égard que l’intéressé, ressortissant roumain,
+est dépourvu de tout titre de séjour en Suisse. Il loge dans un hôtel à Belfort;
+de son propre aveu, il travaille au noir dans cette localité; il est célibataire et la mère
+de ses enfants réside en Italie; il a une concubine au Royaume-Uni (PV aud. du 11 décembre
+2020, R. 5, p. 3). A défaut de toute attache du prévenu avec la Suisse, le risque de fuite
+est manifeste.
+3.4
+Les hypothèses prévues par l'art. 221
+al. 1 CPP étant alternatives et non cumulatives (TF 1B_242/2016 du 21 juillet 2016 consid. 5; TF
+1B_242/2013 du 5 août 2013 consid. 3; Chaix, op. cit, n. 2 ad art. 221 CPP), point n’est besoin
+d’examiner le risque de réitération, également invoqué par le Ministère
+public et que le Tribunal des mesures de contrainte a renoncé à examiner.
+4.
+4.1
+L’art. 212 al. 3 CPP prévoit que la détention provisoire ne doit pas durer plus longtemps
+que la peine privative de liberté prévisible. La proportionnalité de la détention
+provisoire doit être examinée au regard de l’ensemble des circonstances concrètes
+du cas d’espèce (ATF 133 I 168 consid. 4.1 et la jurisprudence citée). A cet égard,
+il est admis que le juge peut maintenir la détention provisoire aussi longtemps qu’elle n’est
+pas très proche de la durée de la peine privative de liberté à laquelle il faut s’attendre
+concrètement en cas de condamnation (ATF 133 I 168 consid. 4.1; ATF 132 I 21 consid. 4.1; TF 1B_238/2017
+du 5 juillet 2017 consid. 2.2).
+4.2
+En l’espèce, le recourant conteste la proportionnalité de la détention provisoire.
+Il se prévaut d’abord de l’absence de soupçons suffisants invoquée par ailleurs.
+Ce moyen a toutefois déjà été rejeté. Le prévenu conteste ensuite la durée
+de la détention en relation avec les mesures d’instruction à mettre en œuvre. Il
+fait valoir à cet égard que l’extraction des données contenues dans les téléphones
+portables des comparses, ainsi que l’analyse de leurs empreintes digitales et les prélèvements
+d’ADN peuvent être effectués à bref délai et ne justifient dès lors pas
+une détention provisoire de trois mois (recours, p. 8).
+L’enquête implique d’autres mesures d’instruction que celles que mentionne le
+recourant. Le Tribunal des mesures de contrainte précise en effet qu’une comparaison du cylindre
+retrouvé dans le véhicule avec la partie laissée sur la porte de la [...] doit être
+entreprise. En outre, les chaussures portées par les prévenus seront également contrôlées.
+Il est cependant notoire que l’analyse des traces de semelles relève de la police scientifique
+et que cet examen et les comparaisons nécessaires prennent quelque temps, tout comme cela est le
+cas des empreintes digitales. De même, des analyses d’ADN ne sauraient être effectuées
+en quelques jours seulement, étant ajouté que les décisions ordonnant l’établissement
+d’un profil ADN ont été rendues le 21 décembre 2020. C’est donc en vain que
+le recourant invoque le principe de célérité consacré à l’art. 5 CPP.
+Le prévenu est détenu depuis le 11 décembre 2020. Les faits incriminés sont d’une
+gravité significative, abstraction faite même du possible concours d’infractions et de
+la circonstance aggravante de la bande (deux personnes pouvant suffire à constituer une bande; cf.
+ATF 135 IV 158 consid. 2 et 3; Favre/ Pellet/Stoudmann, Code pénal annoté, 3
+e
+éd., Lausanne 2007/2011, n. 3.1 ad art. 139 CP). Dans ces conditions, la durée de la détention
+provisoire subie à ce jour demeure à l’évidence proportionnée à la peine
+privative de liberté susceptible d’être prononcée, ce d’autant que l’enquête
+n’en est qu’à ses débuts.
+5.
+Il résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance du 14
+décembre 2020 confirmée.
+Les frais de la procédure de recours, par 880 fr. (art. 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), ainsi que les
+frais imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à
+395 fr. 45, montant arrondi à 395 fr., qui comprennent des honoraires par 360 fr., des débours
+forfaitaires par 7 fr. 20 (cf. art. 26b TFIP qui renvoie à l'art. 3
+bis
+RAJ [règlement sur l’assistance judiciaire en matière civile du 7 décembre
+2010; BLV 211.02.3]) et la TVA sur le tout, au taux de 7,7%, par 28 fr. 45, seront mis à la
+charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l'Etat de l'indemnité allouée au défenseur d'office du recourant
+ne sera exigible que pour autant que la situation financière de ce dernier le permette (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 14 décembre 2020 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de N.________ est fixée à 395 fr. (trois cent nonante-cinq francs).
+IV.
+Les frais d’arrêt, par 880 fr. (huit cent huitante francs), ainsi que l’indemnité
+due au défenseur d’office de N.________, par 395 fr. (trois cent nonante-cinq francs), sont
+mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation financière de N.________ le permette.
+VI.
+L’arrêt est exécutoire.
+La
+vice-présidente :
+Le greffier :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Patricia Spack Isenrich, avocate (pour N.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+M. le Procureur du Ministère public cantonal Strada,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales; RS 173.71]). Ce recours
+doit être déposé devant le Tribunal pénal fédéral dans un délai de
+dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
