@@ -1,0 +1,333 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___56"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 56"
+decided: "2021-01-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8170151"
+cites_law: ["switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-081.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/210/art-028.md", "switzerland/bund/acts/311.0/art-063.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-436.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2021 / 56
+
+## Regeste
+
+INTÉRÊT ACTUEL, INTÉRÊT JURIDIQUEMENT PROTÉGÉ, RESPECT DE LA VIE PRIVÉE, PROTECTION DE LA PERSONNALITÉ | 28 CC, 13 Cst., 38 LEP, 382 al. 1 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 05.01.2021 Décision / 2021 / 56
+
+INTÉRÊT ACTUEL, INTÉRÊT JURIDIQUEMENT PROTÉGÉ, RESPECT DE LA VIE PRIVÉE, PROTECTION DE LA PERSONNALITÉ | 28 CC, 13 Cst., 38 LEP, 382 al. 1 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+6
+SPEN/146822/SBA/dde
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+5 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Kaltenrieder et de Montvallon, juges
+Greffière
+:              Mme
+Vantaggio
+*****
+Art.
+38 LEP ; 28 CC
+Statuant sur le recours interjeté le 23 novembre 2020 par
+A.________
+contre la décision rendue le 11 novembre 2020 par la Cheffe du Service pénitentiaire dans la
+cause
+n° SPEN/146822/SBA/dde
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 29 mars 2018, rectifié par prononcé du 16 avril 2018, le Tribunal criminel
+de l’arrondissement de la Broye et du Nord vaudois a notamment constaté que A.________ s’était
+rendu coupable de lésions corporelles simples qualifiées, voies de fait qualifiées, mise
+en danger de la vie d'autrui, menaces qualifiées, actes d'ordre sexuel avec des enfants, contrainte
+sexuelle aggravée, viol aggravé, tentative de viol aggravé, pornographie, inceste, complicité
+d'inceste et violation du devoir d'assistance ou d'éducation (II), l'a condamné à une
+peine privative de liberté de 18 ans, sous déduction de 692 jours de détention avant jugement
+(III), ainsi qu'à une amende de 1'000 fr., convertible en 10 jours de peine privative de liberté
+de substitution (IV), a constaté qu’il avait subi 22 jours de détention dans des conditions
+de détention provisoire illicites et ordonné que 11 jours de détention soient déduits
+de la peine privative de liberté (V), a ordonné son maintien en détention pour des motifs
+de sûreté (VI), a ordonné qu’il soit soumis à un traitement ambulatoire en
+application de l’art. 63 CP (Code pénal suisse du 21 décembre 1937 ; RS 311.0) (VII),
+lui a interdit toute activité impliquant des contacts réguliers avec des mineurs pour une durée
+de 10 ans et a ordonné une assistance de probation pour la durée de l'interdiction (VIII),
+a dit que A.________ devait payer divers montants à ses huit enfants à titre de réparation
+morale (IX) et a statué sur le sort des pièces à conviction (XVIII), sur les indemnités
+d’office (XIX à XXIII) et sur les frais de procédure (XXIV à XXVI).
+b)
+Par courrier du 9 août 2019, la Direction des Etablissements de la Plaine de l'Orbe (ci-après
+: EPO) a informé A.________ qu'elle avait saisi trois courriers qui lui avaient été adressés
+par sa mère et son frère au motif qu'ils contenaient une multitude de photographies représentant
+des enfants, vraisemblablement les siens, soit ses victimes pénales. Elle a exposé que ces
+envois ne lui seraient pas transmis, dès lors que les personnes détenues en exécution
+de peine avaient l'interdiction d'entrer en contact de manière directe ou indirecte avec leurs victimes.
+Par courrier du 15 août 2019, A.________, par l'intermédiaire de son conseil, a soutenu que
+le refus de transmission des photos était inopportun dès lors qu’une telle transmission
+ne constituerait pas un contact direct ou indirect et que leur contenu ne prêtait pas à discussion.
+Il a invoqué que la sécurité de l'établissement n'était pas en jeu et a sollicité
+le prononcé d'une décision sujette à recours.
+Le 15 octobre 2019, la Direction des EPO a indiqué qu'elle maintenait sa position en l'état,
+mais qu'elle pourrait réexaminer le cas si A.________ pouvait se prévaloir de l'accord écrit
+manifesté par chacun des enfants représentés sur les photos, respectivement par leur représentant
+légal.
+Par courrier du 12 novembre 2019, A.________ a réitéré le contenu de sa correspondance
+du 15 août 2019 sollicitant le prononcé d'une décision formelle.
+Le 18 novembre 2019, la Direction des EPO a formalisé son refus de transmettre à A.________
+les photos concernées sous réserve de « l'accord écrit manifestement exprimé
+par chaque victime pénale figurant sur les photographies, respectivement chaque curateur muni d'un
+mandat de protection en faveur des victimes pénales concernées ».
+Par acte du 22 novembre 2019, A.________ a fait recours contre cette décision auprès du Service
+pénitentiaire (ci-après : SPEN) en invoquant le défaut de motivation et le fait que les
+photos ne représenteraient pas un risque sécuritaire justifiant la censure des courriers qui
+lui sont adressés. En outre, il a exposé que, tous ses enfants n'étant pas victimes des
+faits qu'il avait commis, le refus de transmission de l'ensemble des photos serait injustifié. Enfin,
+il a requis d'être mis au bénéfice de l'assistance judiciaire dans le cadre de la procédure
+de recours.
+Dans ses déterminations du 16 décembre 2019, la Direction des EPO a exposé que son refus
+de transmission des photos reposait sur des motifs ayant trait à la protection des données
+des personnes qui y sont représentées et à des motifs sécuritaires.
+Par courrier du 8 janvier 2020, A.________ a invoqué l'absence de base légale à la décision
+du 18 novembre 2019.
+Le 11 mars 2020, l'Office d'exécution des peines (ci-après : OEP) a formellement interdit à
+A.________ d'entretenir tout contact avec ses victimes.
+Par courriers des 24 avril et 1
+er
+mai 2020, A.________ a répété son argumentation développée précédemment
+sur l'absence de base légale et a estimé que le fait de ne pas distinguer la situation des
+enfants relativement aux infractions précises commises sur certains d'entre eux et pas les autres
+violait le principe de proportionnalité.
+Par courrier du 17 juillet 2020, adressé à la Direction du SPEN, la Direction des EPO a indiqué
+qu'elle avait découvert que les photos en question avaient en réalité été restituées
+aux proches de A.________, à l'occasion d'une visite de ces derniers, en date du 3 octobre
+2019, et qu'elle ne pouvait ainsi pas accéder à sa demande tendant à la transmission de
+dites photos.
+Par observations du 28 août 2020, A.________ a déclaré maintenir son recours.
+B.
+Par décision du 11 novembre 2020, la Cheffe
+du Service pénitentiaire a préalablement refusé l'octroi de l'assistance judiciaire à
+A.________, a déclaré irrecevable son recours faute d'intérêt actuel (I), a rendu
+sa décision sans frais (II) et a dit qu'il n'y avait pas lieu d'octroyer de dépens (III).
+Cette autorité a notamment retenu que s'agissant de la qualité pour recourir, la question de
+l'intérêt actuel de A.________ se posait, compte tenu du fait qu'il était apparu en cours
+d'instruction que les photos litigieuses avaient en réalité été rendues à ses
+proches avant même le dépôt de son recours et que celui-ci ne pouvait l'ignorer à
+ce moment-là dès lors que, selon les indications de la Direction des EPO, c'était lui-même
+qui avait demandé à ce que les photos soient restituées. Les photos litigieuses n'étant
+plus disponibles, le recours de A.________ ne présentait pas d'intérêt actuel au sens
+de l'art. 75 de la loi vaudoise sur la procédure administrative du 28 octobre 2008 (LPA-VD ; BLV
+173.36), les photos ne pouvant en tous les cas pas être communiquées au recourant en cas d'admission
+du recours. Au demeurant, la Cheffe du SPEN a retenu que la question de savoir si A.________ avait le
+droit de disposer de photos de ses enfants dans sa cellule était extrêmement délicate,
+compte tenu des motifs de sa condamnation et du fait que certains de ses enfants étaient ses victimes
+pénales. Elle a rappelé que l'autorité de placement lui avait signifié, le 11 mars
+2020, qu'il n'avait pas le droit d'entrer en contact par quelque moyen que ce soit avec ses enfants et
+sa femme et que s'il souhaitait à nouveau que soit examiné son droit à pouvoir conserver
+dans sa cellule des photos de ses enfants, il avait tout le loisir de déposer une nouvelle demande
+auprès de la Direction des EPO, munie des photos en question, afin que l'autorité puisse trancher
+cette question sur la base des photos considérées, en fonction des personnes précises
+qui y figurent et des circonstances représentées sur les prises de vues, le cas échéant
+en sollicitant l'avis des personnes concernées, respectivement de leurs représentants légaux
+pour celles qui sont mineures. Considérant qu'il n'y avait ainsi pas lieu de trancher la question
+du principe de l'autorisation pour A.________ de disposer de photos de ses enfants et que la cause ne
+représentait pas une question de principe justifiant de faire une exception à l'exigence de
+l'intérêt actuel comme condition de recevabilité, la Cheffe du SPEN a déclaré
+son recours irrecevable.
+C.
+Par acte du 23 novembre 2020, A.________ a interjeté
+recours contre cette décision auprès de la Chambre de céans en concluant, à titre
+préalable, au bénéfice complet de l'assistance judiciaire dans le cadre de la présente
+procédure de recours, à titre principal, à l'admission de son recours (I), à ce que
+la décision rendue le 11 novembre 2020 par la Cheffe du Service pénitentiaire soit réformée
+en ce sens que son recours soit déclaré recevable (II), qu'il soit autorisé à disposer
+de photos de sa famille, y compris des photos représentant ses enfants, sans égard à l'accord
+des personnes représentées sur les photos (III) et à ce que l'assistance judiciaire lui
+soit également octroyée pour la procédure de première instance, Me Loïc Parein
+étant désigné comme avocat d'office avec effet au 22 novembre 2019. A titre subsidiaire,
+il a conclu à la réforme de la décision entreprise en ce sens que son recours est déclaré
+recevable, à l'annulation de la décision et au renvoi de la cause à l'autorité intimée
+pour nouvelle décision.
+Par déterminations du 22 décembre 2020, l'autorité intimée a confirmé le contenu
+de sa décision et a exposé que la présente cause n'avait pas de portée de principe
+et qu'il n'existait aucun intérêt public suffisamment important justifiant de faire exception
+à la condition de l'intérêt actuel dans le cadre de l'examen de la recevabilité.
+En droit
+:
+1.
+1.1
+Aux
+termes de l’art. 38 al. 1 LEP (loi vaudoise sur l'exécution des condamnations pénales
+du 4 juillet 2006 ; BLV 340.01), les décisions rendues sur recours par le SPEN peuvent faire
+l'objet d'un recours au Tribunal cantonal. La procédure est régie par les dispositions du CPP
+(Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours (art.
+38 al. 2 LEP). Le recours doit ainsi être adressé par écrit, dans un délai de dix
+jours dès la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP), qui est dans le canton de Vaud la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [loi vaudoise d’introduction du Code de procédure
+pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi vaudoise d’organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01] ; art. 26 al. 1 ROTC [règlement
+organique du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1]).
+1.2
+Selon
+l'art. 382 al. 1 CPP, le recourant doit en outre disposer d'un intérêt juridiquement protégé
+à l'annulation ou à la modification de la décision entreprise. La recevabilité d'un
+recours en droit pénal dépend ainsi en particulier de l'existence d'un intérêt actuel
+à l'annulation de la décision entreprise. Cet intérêt doit exister non seulement
+au moment du dépôt du recours, mais encore au moment où l'arrêt est rendu (ATF 137
+II 40 consid. 2 ; ATF 137 I 296 consid. 4.2, par analogie
+;
+CREP 14 juillet 2017/466 consid. 1 ; CREP 1
+er
+octobre 2018/761 consid. 1. 2). Lorsque l'intérêt pour recourir fait défaut au moment
+du dépôt du recours, l'autorité pénale n'entre pas en matière sur celui-ci et
+elle le déclare irrecevable. En revanche, si l'intérêt actuel disparaît en cours
+de procédure, le litige est déclaré sans objet et la cause est rayée du rôle
+(ATF 139 I 206 consid. 1.1).
+Afin d'assurer une cohérence
+entre le CPP et la loi fédérale sur le Tribunal fédéral du 17 juin 2005 (ci-après
+: LTF, RS : 173.110), la notion d'« intérêt juridiquement protégé à l'annulation
+ou la modification d'une décision » ne doit pas être interprété de manière
+plus stricte que celle figurant à l'art. 81 al. 1 let. b LTF (Perrier Depeursinge, CPP annoté,
+2
+e
+éd., 2020, p. 575 ad art. 382 CPP; TF 1B_6/2015 du 24 février 2015 consid. 2). Selon l'art.
+81 al. 1 LTF, a qualité pour former un recours en matière pénale quiconque a pris
+part à la procédure devant l'autorité précédente et a un intérêt juridique
+à l'annulation ou à la modification de la décision attaquée, à savoir, en particulier,
+l'accusé. De jurisprudence constante, cet intérêt doit être actuel et pratique (TF
+6B_1209/2017 du 25 avril 2018 consid. 2 ; cf. ATF 137 I 296 consid. 4.2). Dans des circonstances
+particulières, le Tribunal fédéral examine le recours au fond malgré la perte de
+l'intérêt actuel du recourant. Au regard du principe de l'unité de la procédure,
+tel est le cas lorsque le recourant se prévaut, en le motivant suffisamment, d'un « grief défendable
+» fondé sur la CEDH (TF 6B_1209/2017 du 25 avril 2018 précité ; ATF 137 I 296 consid.
+4 et 5 ; ATF 136 I 274 consid. 1. 3).
+1.3
+En
+l'espèce, le recourant ne dispose plus d'un intérêt actuel à l'annulation ou à
+la modification de la décision attaquée s'agissant des photos qui ont été restituées
+à ses proches. Cela étant, dans cette situation déterminée qui peut être amenée
+à se reproduire, le recourant a un intérêt à ce que la question de savoir s'il peut
+avoir accès à des photos de ses enfants soit tranchée sur le principe, même si les
+photos litigieuses ont été restituées. Il se prévaut notamment de son droit au respect
+de la vie privée et familiale (art. 13 al. 1 Cst. et 8 CEDH).
+Pour le surplus, dirigé contre une décision sujette à recours et interjeté en temps
+utile, dans les formes prescrites par le CPP – applicable par renvoi de l’art. 38 al.
+2 LEP –, le présent recours est recevable.
+2.
+La Cheffe du Service pénitentiaire a déclaré
+irrecevable le recours de A.________ et n'a par conséquent pas examiné le fond. Or, à
+ce stade, même si le recourant ne peut faire valoir un intérêt actuel au sens de l'art.
+75 LPA-VD, au motif que les photos ont été restituées, l'autorité inférieure
+aurait dû, conformément à la jurisprudence du Tribunal fédéral, renoncer à
+cette exigence. En effet, cette question revêt une portée de principe et peut se poser à
+nouveau en tout temps dans des circonstances identiques ou analogues, sans qu'un tribunal soit en mesure
+de se prononcer en temps utile si, comme c'est le cas en l'espèce, les photographies ont déjà
+été retournées à leur expéditeur avant que la question de leur transmission
+à leur destinataire n'ait été tranchée (cf. notamment TF 1C_360/2019 du 15 janvier
+2020 consid. 1.2 et la jurisprudence citée). A.________ doit ainsi pouvoir savoir s'il peut
+recevoir des photos de ses enfants et, cas échéant, s'il convient de recueillir l'accord préalable
+des personnes concernées avant toute transmission. L'autorité inférieure aurait dû
+répondre à cette question et donc entrer en matière sur son recours. C'est ainsi à
+tort que l'autorité intimée a prononcé l'irrecevabilité du recours de A.________.
+Le recours doit par conséquent être admis, la décision annulée et la cause renvoyée
+à l'autorité inférieure pour qu'elle entre en matière sur le recours de A.________.
+Sur le fond, se posera effectivement la question de l'existence d'une base légale pouvant justifier
+le refus de transmission au recourant des photos de ses enfants, sans leur accord. Il appartiendra à
+l'autorité inférieure de déterminer si cette question peut être examinée notamment
+sous l'angle de la protection de la personnalité des enfants du recourant au sens de l'art. 28 CC
+(Code civil suisse du 10 décembre 1907 ; RS 210). À cet égard, il ne faut en
+effet pas perdre de vue que les actes qui ont été infligés par le recourant sur la majorité
+de ses enfants sont gravissimes et ont causé des traumatismes à ce point importants que la
+question de l'intérêt des victimes à ne pas voir leurs photos tomber entre ses mains devra
+être examinée de manière approfondie.
+3.
+Il résulte de ce
+qui précède que le recours doit être admis, la décision entreprise annulée et
+le dossier de la cause renvoyé au SPEN pour qu'il entre en matière sur le fond de la cause
+; il incombera également à cette autorité de statuer à nouveau sur la requête
+d'assistance judiciaire du recourant.
+Le
+recourant, qui a procédé avec l’assistance d’un mandataire professionnel et qui
+obtient gain de cause, a droit à une indemnité pour les dépenses occasionnées par
+l’exercice raisonnable de ses droits de procédure en procédure de recours (art. 429 al.
+1 let. a CPP, applicable à la procédure de recours par renvoi de l’art. l’art.
+436 al. 1 CPP). Au vu de la liste d'opérations produite, cette indemnité sera fixée à
+1'050 fr., pour 3 h 30 d'activité d’avocat au tarif horaire de 300 fr., honoraires auxquels
+il convient d’ajouter des débours forfaitaires à concurrence de 2 % (art. 19 al.
+2 TDC [tarif des dépens en matière civile du 23 novembre 2010; BLV 270.11.6], applicable par
+renvoi de l’art. 26a al. 6 TFIP), par 21 fr., plus un montant correspondant à la TVA, par
+82 fr. 45, soit 1'153 fr. 45 au total, montant arrondi à 1'154 francs. L’indemnité sera
+laissée à la charge de l’Etat.
+Vu
+l’issue de la cause, les frais de la procédure de recours, par 990 fr. (art. 20 al. 1
+TFIP), seront laissés à la charge de l’Etat (art. 428 al. 1 CPP).
+Le
+recourant a requis l'octroi complet de l'assistance judiciaire pour la procédure de recours. Dans
+la mesure où les frais de la procédure sont laissés à la charge de l’Etat et
+où une indemnité lui est allouée pour les dépenses occasionnées par la procédure,
+cette requête se révèle sans objet (CREP 3 août 2020/599 consid. 5 ; CREP 14 novembre
+2017/773 consid. 3 ; CREP 7 novembre 2017/748 consid. 3).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+La décision du 11 novembre 2020 est annulée.
+III.
+Le dossier de la cause est renvoyé au Service pénitentiaire pour qu'il procède dans le
+sens des considérants.
+IV.
+La requête d'assistance judiciaire de A.________
+est sans objet.
+V.
+Une indemnité de 1'154 fr. (mille cent cinquante-quatre francs) est allouée à A.________
+pour les dépenses occasionnées par l'exercice raisonnable de ses droits de procédure en
+procédure de recours, à la charge de l'Etat.
+VI.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), sont laissés à la charge
+de l’Etat.
+VII.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Loïc Parein, avocat (pour A.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Cheffe du Service pénitentiaire,
+-
+Direction des Etablissements de la Plaine de l'Orbe,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
