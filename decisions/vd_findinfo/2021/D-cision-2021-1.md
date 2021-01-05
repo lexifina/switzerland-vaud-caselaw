@@ -1,0 +1,166 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___1"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 1"
+decided: "2021-01-05"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8057013"
+cites_law: ["switzerland/bund/acts/142.20/art-080.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md"]
+---
+
+# VD Findinfo Décision / 2021 / 1
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET | 75 al. 1 let. g LEI, 75 al. 1 let. h LEI, 76 al. 1 let. b ch. 1 LEI, 76 al. 1 let. b ch. 3 LEI, 76 al. 1 let. b ch. 4 LEI
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 05.01.2021 Décision / 2021 / 1
+
+PROCÈS DEVENU SANS OBJET | 75 al. 1 let. g LEI, 75 al. 1 let. h LEI, 76 al. 1 let. b ch. 1 LEI, 76 al. 1 let. b ch. 3 LEI, 76 al. 1 let. b ch. 4 LEI
+
+TRI
+BUNAL
+CANTONAL
+1038
+DA20.020377-SDE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+5 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et Kaltenrieder, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+25 al. 1 et 30 LVLEtr
+Statuant sur le recours interjeté le 10 décembre 2020 par
+N.________
+contre l’ordonnance rendue le 30 novembre 2020 par le Tribunal des mesures de contrainte dans la
+cause
+n° DA20.022683-LAS
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Le Tribunal des mesures
+de contrainte statue sur la légalité et l’adéquation de la détention administrative,
+conformément à l’art. 80 al. 2 LEI ([Loi fédérale sur les étrangers et
+l’intégration du 16 décembre 2005 ; RS 142.20] ;
+art.
+16a al. 1 LVLEtr [Loi d'application dans le canton de Vaud de la législation fédérale
+sur les étrangers du 18 décembre 2007 ; BLV 142.11]).
+Les décisions prononcées
+par le Tribunal des mesures de contrainte peuvent faire l’objet d’un recours auprès
+du Tribunal cantonal (art. 30 al. 1 LVLEtr), soit auprès de la Chambre des recours pénale (art.
+26 al. 1 ROTC [Règlement organique du Tribunal cantonal du 13 novembre 2007 ; BLV 173.31.1]),
+dans les dix jours dès la notification de la décision attaquée. L’acte de recours
+doit être signé et sommairement motivé (art. 30 al. 2 LVLEtr). La procédure est régie
+par l'art. 31 LVLEtr, qui renvoie pour le surplus aux dispositions de la LPA-VD (Loi sur la procédure
+administrative du 28 octobre 2008 ; BLV 173.36).
+2.
+a)
+Par ordre de détention administrative du 23 septembre 2020, le Service de la population (ci-après :
+SPOP), a placé N.________ en détention administrative pour une durée de trois mois sur
+la base des articles 75 al. 1 let. g et h et 76 al. 1 let. b ch. 1, 3 et 4 LEI.
+b)
+Par ordonnance du 25 septembre 2020, le Tribunal des mesures de contrainte a confirmé l’ordre
+de détention établi le 23 septembre 2020 par le SPOP à l’endroit de N.________.
+c)
+Le 23 novembre 2020, N.________, se prévalant d’une violation du principe de célérité,
+a requis sa mise en liberté auprès du Tribunal des mesures de contrainte.
+3.
+Par ordonnance du 30 novembre 2020, le Tribunal
+des mesures de contrainte a rejeté la demande de levée de la détention administrative
+formée par N.________, alors détenu dans les locaux de l’Etablissement de Frambois (I
+et a dit que les frais de la cause étaient laissés à la charge de l’Etat (II).
+4.
+Par acte du 10 décembre 2020, N.________,
+par son défenseur d’office, a recouru contre cette ordonnance en concluant à sa libération
+immédiate.
+5.
+Par ordre de détention administrative du
+18 décembre 2020, le SPOP a ordonné, dès le 23 décembre 2020, la prolongation de
+la détention administrative de N.________ pour une durée de trois mois sur la base des articles
+75 al. 1 let. g et h et 76 al. 1 let. b ch. 1, 3 et 4 LEI.
+6.
+Par ordonnance du 24 décembre 2020, le Tribunal
+des mesures de contrainte a constaté que l’ordre de détention notifié le 23 décembre
+2020 par le Service de la population à N.________, alors détenu à l’Etablissement
+de Frambois, contrevenait aux principes de la légalité et de l’adéquation (I), a
+ordonné la libération immédiate de N.________ (II) et a dit que les frais suivaient le
+sort de la cause (III).
+7.
+La libération de la détention administrative requise par le recourant ayant été ordonnée,
+le recourant a ainsi obtenu ce qu’il demandait dans son recours du 10 décembre 2020. Il convient
+dès lors de constater que le recours est devenu sans objet et de rayer la cause du rôle.
+8.
+Selon l'art. 25 al. 1 LVLEtr, lorsque la personne
+détenue est indigente, le conseil d'office reçoit une indemnité à la charge de l'Etat,
+les dispositions relatives à la rémunération des défenseurs d'office en matière
+pénale étant applicables. Au vu du travail accompli par Me Raphaël Brochellaz, défenseur
+d'office du recourant, il sera retenu deux heures d'activité au tarif horaire de 180 fr. (art. 2
+al. 1 let. a et 3 al. 2 RAJ [règlement sur l'assistance judiciaire en matière civile
+du 7 décembre 2010 ; BLV 211.02.3], par renvoi de l'art. 26b TFIP), de sorte que
+son indemnité est fixée à 360 francs. S'y ajoutent 2 % pour les débours,
+soit 7 fr. 20 (art. 3bis al. 1 RAJ par renvoi de l'art. 26b TFIP) et 7,7% pour la TVA, soit 28 fr. 30,
+de sorte que le montant total arrondi revenant à Me Raphaël Brochellaz s’élève
+en définitive à 396 francs.
+9.
+L’arrêt
+peut être rendu sans frais judiciaires (art. 50 LPA-VD, applicable par renvoi de l’art. 31
+al. 6 LVLEtr)
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est sans objet.
+II.
+La cause est rayée du rôle.
+III.
+L'indemnité allouée à Me Raphaël
+Brochellaz, défenseur d'office de N.________, est fixée à 396 fr. (trois cent nonante-six
+francs) et laissée à la charge de l’Etat.
+IV.
+L’arrêt, rendu sans frais, est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Raphaël Brochellaz, avocat (pour N.________),
+-
+Service de la population, Secteur départs,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
