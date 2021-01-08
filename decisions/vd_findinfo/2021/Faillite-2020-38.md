@@ -1,0 +1,588 @@
+---
+decision_id: "vd_findinfo_Faillite___2020___38"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Faillite / 2020 / 38"
+decided: "2021-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8055377"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-072.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/272/art-106.md", "switzerland/bund/acts/272/art-321.md", "switzerland/bund/acts/272/art-322.md", "switzerland/bund/acts/281.1/art-043.md", "switzerland/bund/acts/281.1/art-174.md", "switzerland/bund/acts/281.1/art-190.md", "switzerland/bund/acts/281.1/art-194.md", "switzerland/bund/acts/281.1/art-197.md"]
+---
+
+# VD Findinfo Faillite / 2020 / 38
+
+## Regeste
+
+INSOLVABILITÉ, FAILLITE SANS POURSUITE PRÉALABLE | 174 LP, 190 al. 1 ch. 2 LP
+
+## Text
+
+Vaud Tribunal cantonal Cour des poursuites et faillites 08.01.2021 Faillite / 2020 / 38
+
+INSOLVABILITÉ, FAILLITE SANS POURSUITE PRÉALABLE | 174 LP, 190 al. 1 ch. 2 LP
+
+TRIBUNAL
+CANTONAL
+FW20.013047-201008
+2
+Cour
+des poursuites et faillites
+________________________________________________
+Arrêt du 8
+janvier 2021
+__________________
+Composition
+:               Mme
+Rouleau
+,
+vice-présidente
+M.
+Maillard et Cherpillod, juges
+Greffier
+:
+Mme              Debétaz Ponnaz
+*****
+Art.
+174 et 190 al. 1 ch. 2 LP
+La Cour des poursuites et faillites du Tribunal cantonal, statuant à huis clos en sa qualité
+d'autorité de recours en matière sommaire de poursuites et de faillite, s'occupe du recours
+exercé par
+X.________SA
+,
+à [...], contre le jugement rendu le 10 juillet 2020, à la suite de l’audience du 25
+juin 2020, par la Présidente du Tribunal d’arrondissement de Lausanne, dans la cause opposant
+la recourante à
+G.________SA
+(précédemment
+Z.________SA
+),
+à [...].
+Vu les pièces au dossier, la cour considère :
+En fait :
+1.
+Par acte déposé le 3 avril 2020, Z.________SA a requis du Président du Tribunal d’arrondissement
+de Lausanne qu’il prononce, avec suite de frais et dépens, la faillite sans poursuite préalable
+de X.________SA. Elle invoquait la suspension de paiements de l’intimée, sa locataire, et
+une créance d’arriérés de loyer. A l’appui de sa requête, elle a produit,
+notamment :
+-
+quatre contrats de bail à loyer conclus entre les parties – la bailleresse Z.________SA étant
+représentée par Q.________SA -, l’un le 9 mars 2016, portant sur un appartement
+dont le loyer était de 1'020 fr., les trois autres le 17 mai 2017, portant sur des locaux commerciaux
+(bureaux, arcade et dépôt) dont les loyers étaient, respectivement, de 450 fr., 3'360
+fr. et 2’690 francs ;
+-
+des décomptes établis par Q.________SA pour la période des mois de janvier 2019 à
+mars 2020 inclus et pour les quatre objets loués, indiquant des loyers de 1'020 fr., 280 fr., 2'120
+fr. et 1'700 fr. et présentant un montant total d’arriérés de loyer de 30'061 fr.
+10 au 30 mars 2020 ;
+-
+un extrait du registre des poursuites au 3 décembre 2019 concernant l’intimée, indiquant
+que celle-ci faisait l’objet de cinquante-cinq poursuites pour un montant total de 1’282'507
+fr. 92 - dont dix-sept poursuites payées (288'560 fr. 34) et deux éteintes (14’021 fr.
+20) - et de deux actes de défaut de biens pour un montant total de 861 fr. 10.
+A l’audience tenue le 25 juin 2020 devant la Présidente du Tribunal d’arrondissement
+de Lausanne (ci-après : la présidente ou le premier juge), la requérante a produit
+un nouvel extrait du registre des poursuites concernant l’intimée, au 5 juin 2020, indiquant
+que celle-ci faisait l’objet de quarante-neuf poursuites pour un montant total de 1’114'805
+fr. 85 92 - dont onze poursuites payées (234’995 fr. 49) et deux éteintes (14’021
+fr. 20) - et d’aucun acte de défaut de biens. Trois poursuites étaient au stade de la
+commination de faillite, dont deux pour des sommes respectives de 256 fr. 35 et 414 fr. 40, cinq au stade
+de la saisie et vingt-quatre au stade de l’opposition au commandement de payer.
+Par déterminations remises à l’audience, l’intimée a conclu à l’irrecevabilité
+de la requête, subsidiairement à son rejet, avec suite de frais et dépens. Elle a produit
+des pièces sous bordereau (P.101 à 132), parmi lesquelles un courriel de Q.________SA du 22
+août 2017 (P.102), dont il résultait que les loyers des locaux commerciaux avaient été
+réduits d’entente entre les parties aux montants figurant sur les décomptes établis
+par Q.________SA, et un ordre de paiement de sa part à Q.________SA de 30'061 fr. 10, valeur au
+23 juin 2020 (P.116), dont elle précisait qu’il s’agissait du règlement de la créance
+litigieuse qu’elle s’était « sentie contrainte de payer », tout
+en contestant être débitrice de la requérante.
+Le 3 juillet 2020, dans le délai de dix jours imparti par la présidente pour se déterminer
+notamment sur le paiement du 23 juin 2020, la requérante a allégué que, malgré ce
+versement, l’intimée demeurait sa débitrice. Elle a produit de nouveaux décomptes
+de loyers indiquant qu’aucun montant n’avait été versé pour les mois d’avril
+à juin 2020 et présentant un arriéré total de loyers de 15'378 fr. au 25 juin
+2020.
+2.
+Par jugement du 10 juillet 2020, la Présidente
+du Tribunal d’arrondissement de Lausanne a admis la requête (I), a prononcé la faillite
+sans poursuite préalable de X.________SA avec effet au 10 juillet 2020 à 14 heures (II),
+a mis les frais judiciaires, arrêtés à 300 fr., à la charge de la faillie (III),
+et a dit que celle-ci devait rembourser à la requérante son avance de frais judiciaires de
+300 fr. (IV) et lui verser la somme de 2'205 fr. à titre de dépens (V).
+Ce jugement a été notifié à la faillie le 13 juillet 2020.
+3.
+Par acte du 17 juillet 2020, X.________SA a recouru
+contre cette décision, concluant avec suite de frais et dépens à sa réforme en ce
+sens que la requête est rejetée, et les frais et dépens mis à la charge de la requérante.
+Elle a produit des pièces nouvelles sous bordereau (P. R-1 à 19). Elle a en outre consigné
+auprès de la cour de céans la somme de 15'678 fr. (P. R-4).
+Par prononcé du même jour, le Président de la cour de céans a admis la requête
+d’effet suspensif contenue dans le recours et a ordonné des mesures conservatoires.
+Le 17 septembre 2020, la recourante s’est déterminée sur l’extrait des poursuites
+la concernant au 17 juillet 2020 et a produit trois pièces nouvelles.
+Le 30 septembre 2020, G.________SA, qui a repris les actifs et passifs de Z.________SA au mois de juillet
+2020, a déposé une réponse, concluant avec suite de frais et dépens au rejet du recours.
+Elle a déposé un extrait du Registre du commerce de Zoug la concernant.
+Le 14 octobre 2020, la recourante a déposé une réplique spontanée et une pièce
+nouvelle.
+L’intimée au recours a déposé une duplique spontanée le 26 octobre 2020.
+La recourante s’est encore déterminée par acte du 29 octobre 2020.
+En droit
+:
+I.
+a)
+En vertu de l'art. 174 al. 1 LP, auquel renvoie
+l'art. 194 al. 1 LP, le jugement statuant sur une requête de faillite sans poursuite préalable
+peut, dans les dix jours, faire l'objet d'un recours au sens du CPC.
+b)
+En l’espèce, le recours a été introduit dans les formes requises, auprès de
+l'instance de recours, par acte écrit et motivé (art. 321 al. 1 CPC), et en temps utile, dans
+le délai de dix jours à compter de la notification de la décision attaquée (art.174
+al. 1 LP et 321 al. 2 CPC). Il est ainsi recevable.
+La réponse de l’intimée, déposée dans le délai imparti (art. 322 CPC),
+est également recevable.
+Il en va de même des réplique, duplique et déterminations spontanées déposées
+de part et d’autre, toutes produites dans un délai raisonnable après la communication
+de l’écriture précédente de la partie adverse (ATF 142 III 48 consid. 4.1.1 et les
+réf. cit. ; TF 5A_741/2016 du 6 décembre 2016 c. 3.1.1).
+II.
+a)
+Dans la procédure de recours contre une décision du juge de la faillite, selon l’art.
+174 al. 1 in fine LP, les parties peuvent faire valoir des faits nouveaux lorsqu’ils se sont produits
+avant le jugement de première instance. La loi vise ici les faits nouveaux improprement dits (faux
+nova ou pseudo-nova), savoir qui existaient déjà au moment de l'ouverture de la faillite et
+dont le premier juge n'a pas eu connaissance pour quelque raison que ce soit ; ces faits peuvent être
+invoqués sans restriction et prouvés par pièces, pour autant qu'ils le soient dans le
+délai de recours (ATF 139 III 491 consid. 4.4 ; TF 5A_874/2017 du 7 février 2018 consid.
+4.2.1, RSPC 2018 p. 238 ; TF 5A_571/2010 du 2 février 2011 consid. 2, SJ 2011 I 149 ;
+Amonn/Walther, Grundriss des Schuldbetreibungs- und Konkursrechts, 9
+e
+éd., 2013, p. 339). Il s’ensuit que, même en deuxième instance, les deux parties
+peuvent alléguer des faits qui se sont produits avant le prononcé de faillite et produire des
+titres aux fins d’établir ces faits.
+En revanche, seul le débiteur peut produire des titres pour établir les faits énumérés
+limitativement à l’art. 174 al. 2 ch. 1 à 3 LP (TF 5A_354/2016 du 22 novembre 2016
+consid. 6.2.1). En vertu de ces dispositions, les pièces se rapportant à des faits intervenus
+depuis l’audience de faillite (vrais nova) peuvent être produites, pour autant qu’elles
+tendent à rendre vraisemblable la solvabilité du débiteur et à établir que celui-ci
+a payé sa dette en totalité (ch. 1) ou consigné les montants nécessaires auprès
+de l’autorité compétente (ch. 2) ou que le créancier a retiré sa réquisition
+de faillite (ch. 3). Selon la jurisprudence, ces vrais nova doivent également être
+produits avant l'expiration du délai de recours (ATF 139 III 491 consid. 4.4 ; ATF 136 III
+294 consid. 3 ; TF 5A_874/2017 précité consid. 4.2.1 ; TF 5A_243/2019 du 17 mai 2019
+consid. 3.1, SJ 2019 I 376). Toute pièce produite postérieurement à l’échéance
+du délai de recours est irrecevable (TF 5A_874/2017 précité consid. 4.2.1). En particulier,
+le débiteur ne peut pas tirer profit du droit de se déterminer sur l’extrait des poursuites
+le concernant pour produire des pièces une fois échu le délai de recours prévu par
+l'art. 174 al. 1 LP ; l'autorité supérieure doit en effet statuer au regard de la situation
+financière du débiteur à l'échéance du délai de recours cantonal (TF 5A_1009/2017
+du 16 février 2018 consid. 2.3).
+Il s’ensuit que, pour juger de l’existence d’une suspension de paiements justifiant
+une faillite sans poursuite préalable, l’autorité judiciaire supérieure doit tenir
+compte des faits nouveaux (vrais nova) et donc de la situation financière du débiteur à
+l'échéance du délai de recours (ATF 139 III 491 consid. 4 ; ATF 136 III 294 consid. 3 ;
+TF 5A_354/2016 précité consid. 6.2.1), l’admission des nova étant destinée
+à éviter l’ouverture de la faillite (TF 5A_442/2015 du 11 septembre 2015 consid. 6.1,
+SJ 2016 I 85).
+b)
+Les pièces nouvelles produites avec le recours, portant tant sur des faux nova que des vrais, sont
+recevables au vu de ce qui précède.
+Les pièces nouvelles jointes respectivement aux déterminations sur l’extrait des poursuites
+et à la réplique de la recourante sont en revanche irrecevables.
+III.
+La recourante invoque une violation de son droit
+d’être entendue par le premier juge, qui ne lui a pas communiqué les déterminations
+de l’intimée du 3 juillet 2020 et, en statuant le 10 juillet 2020, ne lui a pas laissé
+le temps de répliquer spontanément. Selon elle, ces déterminations « livraient
+un argumentaire inédit et appelaient à tout le moins une réplique ainsi que la production
+de pièces nouvelles – qui sont en fait celles annexées au présent recours ».
+L’intimée fait valoir qu’elle avait elle-même envoyé une copie de ses écritures
+à la recourante et que le juge pouvait, par une sorte d’appréciation anticipée des
+preuves, considérer qu’une prise de position de la recourante ne changerait rien.
+a)
+Compris comme l'un des aspects de la notion générale de procès équitable au sens
+des art. 29 Cst., le droit d'être entendu garantit notamment au justiciable le droit de s’expliquer
+avant qu’une décision ne soit prise à son détriment, d’avoir accès au
+dossier, de prendre connaissance de toute argumentation présentée au tribunal et de se déterminer
+à son propos, dans la mesure où elle l'estime nécessaire, que celle-ci contienne ou non
+de nouveaux éléments de fait ou de droit, et qu'elle soit ou non concrètement susceptible
+d'influer sur le jugement à rendre (ATF 142 III 48 consid. 4.1.1 et réf. cit.). Il appartient
+aux parties, et non au juge, de décider si une prise de position ou une pièce nouvellement
+versée au dossier contient des éléments déterminants qui appellent des observations
+de leur part (ATF 139 I 189 consid. 3.2 ; TF 5A_504/2018 du 25 juin 2018 consid. 3.1). Ce droit à
+la réplique vaut pour toutes les procédures judiciaires (ATF 138 I 154 consid. 2.5). Toute
+prise de position ou pièce nouvelle versée au dossier doit dès lors être communiquée
+aux parties pour leur permettre de décider si elles veulent ou non faire usage de leur faculté
+de se déterminer (ATF 139 I 189 consid. 3.2 ; TF 5A_504/2018 précité consid. 3.1). Pour
+que le droit de réplique soit garanti, il faut que le tribunal laisse un laps de temps suffisant
+à la partie concernée, entre la remise de la prise de position ou des pièces nouvelles
+et le prononcé de sa décision, pour qu'elle ait la possibilité de déposer des observations
+si elle l'estime nécessaire à la défense de ses intérêts (ATF 142 III 48 consid.
+4.1.1 et réf. cit.). A cet égard, le Tribunal fédéral considère qu'un délai
+inférieur à dix jours ne suffit pas à garantir l'exercice du droit de répliquer,
+tandis qu'un délai supérieur à vingt jours permet, en l'absence de réaction, d'inférer
+qu'il a été renoncé au droit de répliquer. En d'autres termes, une autorité
+ne peut considérer, après un délai de moins de dix jours depuis la communication d'une
+détermination à une partie, que celle-ci a renoncé à répliquer et rendre sa
+décision (TF 6B_1058/2018 du 17 décembre 2018 consid. 1.1 et réf. cit.).
+Le droit d'être entendu est une garantie constitutionnelle de caractère formel, dont la violation
+entraîne en principe l'annulation de la décision attaquée, indépendamment des chances
+de succès du recours sur le fond (ATF 142 II 218 consid. 2.8.1 et réf. cit.). Une réparation
+de la violation du droit d'être entendu peut toutefois se justifier, même en présence
+d'un vice grave, lorsque le renvoi constituerait une vaine formalité, qui aboutirait à un allongement
+inutile de la procédure et entraînerait des retards inutiles incompatibles avec l'intérêt
+des parties à un prononcé rapide (ATF 137 I 195 consid. 2.3.2 ; ATF 136 V 117 consid. 4.2.2.2
+; TF 5A_925/2015 du 4 mars 2016 consid. 2.3.3.2, non publié à l’ATF 142 III 195 ; TF 4A_283/2013
+du 20 août 2013 consid. 3.3, Revue suisse de procédure civile [RSPC] 2014 p. 5; TF 4A_35/2015
+du 12 juin 2015 consid. 2.3 ; TF 5A_897/2015 du 1
+er
+février 2016 consid. 3.2.2 ; TF 5D_8/2016 du 3 juin 2016 consid. 2.3 ; cf. également :
+ATF 143 IV 380 consid. 1.4.1 ; TF 4A_578/2017 du 20 juillet 2018 consid. 3.1.2 ; TF 6B 207/2018 du 15
+juin 2018 consid. 2.1). Tel est le cas également lorsque la violation du droit de réplique
+est invoqué (TF 5A_653/2016 du 13 octobre 2016 consid. 2.2, SJ 2017 I 318). Le droit inconditionnel
+de répliquer ne dispense cependant pas la partie d’exposer, de manière suffisante au
+plan procédural, en quoi, à son avis, l’acte sur lequel elle n’a pas pu se déterminer
+contenait des éléments déterminants qui appelaient des observations de sa part (cf. le
+cas d’une plaidoirie finale sur laquelle le recourant n’avait pas eu l’occasion de
+s’exprimer : TF 5A_126/2018 du 14 septembre 2018 consid. 7).
+b)
+En l’espèce, le procès-verbal des opérations de première instance ne contient
+aucune mention d’une transmission à la partie intimée de la réplique déposée
+le 3 juillet 2020 par la partie requérante, pas plus, d’ailleurs, que n’est mentionné
+le dépôt de cette écriture. Il semble donc qu’elle n’a pas été communiquée
+par la présidente du tribunal à la partie intimée et que la décision du 10 juillet
+2020 a été rendue sans que la partie intimée ait eu le temps de faire valoir ses moyens.
+Le fait que le conseil de la requérante ait transmis confraternellement une copie de son écriture
+au conseil de l’intimée, comme il l’allègue, n’y change rien.
+Le droit de réplique de la recourante a donc effectivement été violé, mais on peut
+admettre que le vice est réparé par le fait qu’elle pouvait invoquer des nova et se déterminer
+dans le cadre de son recours, ce qu’elle a fait.
+IV.
+La recourante conteste que l’intimée soit sa créancière.
+a)
+Celui qui requiert la faillite sans poursuite préalable selon l'art. 190 al. 1 LP doit
+rendre vraisemblable sa qualité de créancier. La loi exige la simple vraisemblance, et non
+une vraisemblance qualifiée (TF 5A_442/2015 précité consid. 4.1.2, SJ 2016 I 85 ;
+TF 5A_117/2012 du 12 juillet 2012 consid. 3.2.2 et les références). Selon le Tribunal fédéral,
+la critique d’une partie de la doctrine, qui soutient que le degré de preuve de la qualité
+de créancier doit être la vraisemblance qualifiée, n’est pas convaincante et il
+n'y a aucune raison de s'écarter du degré de preuve de la simple vraisemblance (TF 5A_452/2016
+du 12 octobre 2016 consid. 4.2.1 non publié in SJ 2017 I 235).
+b)
+En l’espèce, au vu des contrats de bail, du courriel du 22 août 2017 entre les parties
+et des décomptes de loyers dus au 25 juin 2020, le premier juge a considéré que la qualité
+de créancière de la requérante, intimée au recours, avait été rendue vraisemblable.
+c)
+La recourante soutient que ces décomptes n’ont pas de valeur probante, qu’ils reprennent
+des loyers déjà payés, qu’elle-même était régulièrement mandatée
+par sa partie adverse pour faire des travaux, que les parties avaient l’habitude de procéder
+par compensation de créances et qu’elle a demandé en vain un décompte à sa
+bailleresse, tenant compte des compensations.
+Outre que la recourante aurait pu tenir ses propres décomptes, elle est malvenue de nier toute force
+probante aux décomptes de la partie adverse tout en se plaignant de ne pas avoir réussi à
+en obtenir. Quoi qu’il en soit, les créances de loyer sont rendues vraisemblables en ce sens
+qu’il n’est pas contesté que les parties sont liées par des contrats de bail et
+que le montant des loyers semble aussi faire l’objet d’un consensus. Il appartient dès
+lors à la partie débitrice de renverser cette présomption en rendant vraisemblable qu’elle
+a payé, directement ou par compensation. En admettant que tous les arriérés dus à
+fin mars 2020 ont été réglés par le paiement des 30'061 fr. 10 versés en juin,
+il n’en demeure pas moins que les loyers d’avril à juin sont échus, ce qui équivaut
+à une somme de 15'360 fr., à laquelle l’intimée ajoute 18 fr. de « divers »
+pour aboutir au montant total de 15'378 fr., et qu’aucun autre paiement n’est allégué.
+La recourante soutient avoir payé par compensation. Toutefois, les créances compensantes qu’elle
+invoque ne sont pas reconnues par l’intimée. Une procédure est en cours devant le Tribunal
+des baux, la recourante soutenant être créancière de sa bailleresse de quelque 40'000
+fr., dont 15'000 fr. pour des travaux effectués et le solde à titre de réduction de loyer
+et dommages-intérêts pour des défauts, de frais accessoires indûment perçus,
+etc. En l’état actuel du dossier, ces créances sont possibles mais pas vraisemblables.
+La recourante allègue s’être « sentie fondée à compenser »,
+mais elle entend prouver cet allégué de son recours par l’« appréciation ».
+Elle ne produit aucune lettre invoquant la compensation, de l’une ou l’autre des parties,
+ni aucun accord de type « compte courant », qui impliquerait une compensation systématique
+de toutes les créances réciproques. Il faudrait de toute façon qu’on dispose d’un
+décompte admis par les deux parties, intégrant ces créances, ce qui n’est pas le
+cas.
+Dans ces conditions, on doit admettre que la qualité de créancière de l’intimée,
+au moment du jugement de première instance, a été rendue vraisemblable au degré requis.
+V.
+La recourante conteste être en suspension
+de paiements.
+a)
+Aux termes de l’art. 190 al. 1 ch. 2
+LP, le créancier peut requérir la faillite sans poursuite préalable si le débiteur
+sujet à la poursuite par voie de faillite a suspendu ses paiements.
+Le système du droit suisse de la poursuite pour dettes et la faillite prévoit fondamentalement
+qu’une procédure de faillite est précédée d’une poursuite préalable
+ordinaire (Fritschi, Verfahrensfragen bei der Konkurseröffnung, thèse Zurich 2010, p. 151 ;
+Gilliéron, Poursuite pour dettes, faillite et concordat, 5
+e
+éd., n° 564, p. 142). Ce n’est qu’exceptionnellement, dans un certain nombre
+de cas, que la loi permet à un créancier de requérir l’ouverture de la faillite
+de son prétendu débiteur sans commandement de payer exécutoire (Gilliéron, Commentaire
+de la loi fédérale sur la poursuite pour dettes et la faillite, t. III, 2000, n. 2 ad art.
+190 à 194 LP).
+Vu les lourdes conséquences de la déclaration de faillite sans poursuite préalable et
+le fait qu’elle constitue une exception dans le système de l’exécution forcée,
+elle doit être appliquée et interprétée restrictivement. Parmi les causes matérielles
+de la faillite, soumises aux exigences d’une preuve stricte, figure celle de la suspension des
+paiements (Cometta, in Dallèves/Foëx/Jeandin (éd.), Commentaire romand, Poursuite et faillite,
+2005, nn. 5 et 10 ad art. 190 LP). Cette preuve peut être rapportée sous la forme d’indices
+et résulter d’actes du débiteur permettant de conclure à une suspension ou suspension
+des paiements (CPF 14 février 2020 consid. IV b) ; CPF 3 octobre 2018/244 consid.
+III a) et réf. cit.).
+La suspension de paiements au sens de l’art. 190 al. 1 ch. 2 LP est une notion indéterminée
+qui confère au juge de la faillite un ample pouvoir d'appréciation (ATF 137 III 460 consid.
+3.4.1, JdT 2012 II 178 ; TF 5A_442/2015 précité consid. 6.1, SJ 2016 I 85 ; TF 5A_439/2010
+du 11 novembre 2010 consid. 4, SJ 2011 I 175 ; Gilliéron, Commentaire précité, n.
+30 ad art. 190 LP ; Cometta, op. cit., n. 10 ad art. 190 LP ; Peter, Edition annotée de la loi fédérale
+sur la poursuite pour dettes et la faillite, p. 851 ; Huber, in Hunkeler (éd.), Kurzkommentar SchKG,
+n. 8 ad art. 190 LP). Elle est la manifestation extérieure de l’insolvabilité, qu’il
+ne faut pas confondre avec l’insuffisance d’actifs, c’est-à-dire la situation
+dans laquelle les passifs excèdent les actifs, soit l’endettement ou le surendettement, encore
+qu’une situation prolongée d’insolvabilité aboutit au surendettement, comme un
+surendettement prolongé aboutit à une situation d’insolvabilité (Gilliéron,
+Commentaire précité, n. 28 ad art. 190 LP). Cette notion de suspension de paiements a été
+préférée par le législateur à celle d’insolvabilité parce qu’elle
+est perceptible extérieurement et par conséquent plus aisée à rendre vraisemblable.
+Lorsque l’insolvabilité est rendue vraisemblable, la faillite sans poursuite préalable
+doit toutefois a fortiori être déclarée (ibid., n. 29 ad art. 190 LP ; TF 5A_367/2008
+du 11 juillet 2008 consid. 4.1) ; lorsqu’il existe de nombreux actes de défauts de biens,
+la condition de la solvabilité est exclue (TF 5A_452/2016 précité consid. 5.2.2, SJ 2017
+I 235). Pour qu’il y ait suspension de paiements, il faut que le débiteur ne paie pas des
+dettes incontestées et exigibles, laisse les poursuites se multiplier contre lui, tout en faisant
+systématiquement opposition, ou omette de s’acquitter même des dettes minimes, laissant
+démontrer par ce comportement qu’il ne dispose pas de liquidités suffisantes pour honorer
+ses engagements (ATF 137 III 460 consid. 3.4.1, JdT 2012 II 178). Il n’est pas nécessaire
+que le débiteur interrompe tous ses paiements ; il suffit que le refus de payer porte sur une partie
+essentielle de ses activités commerciales (ATF 137 III 460 consid. 3.4.1, JdT 2012 II 178 ; ATF
+85 III 146 consid. 4b). Même une dette unique n’empêche pas, si elle est importante et
+que le refus de payer est durable, de trahir une suspension de paiements, tel pouvant être le cas
+lorsque le débiteur refuse de désintéresser son principal créancier (TF 5A_439/2010
+précité consid. 4, SJ 2011 I 175 ; TF 5A_367/2008 précité consid. 4.1). La suspension
+des paiements ne doit pas être de nature simplement temporaire, mais doit avoir un horizon indéterminé
+(ATF 137 III 460 consid. 3.4.1, JdT 2012 II 178; TF 5A_790/2017 du 3 septembre 2018 consid. 3.2, RSPC
+2018 p. 523).
+Le fait de payer en priorité des créanciers privés au détriment des créanciers
+publics ne pouvant requérir la faillite ordinaire est un indice de suspension de paiements par le
+débiteur (TF 5A_300/2016 du 14 octobre 2016 consid. 7.2.2., SJ 2017 I 224). L’existence d'actes
+de défaut de biens peut en particulier constituer une « suspension de paiements »,
+précisément dans l'hypothèse où des créanciers de droit public, qui ne peuvent
+requérir une faillite ordinaire (art. 43 ch. 1 LP), sont renvoyés perdants et doivent se satisfaire
+d'un acte de défaut de biens (définitif) après saisie ; le but de la loi n'est pas de
+permettre au débiteur d'échapper à la faillite en favorisant de manière systématique
+ses créanciers privés au détriment des créanciers de droit public (TF 5A_452/2016
+précité consid. 5.2.2, SJ 2017 I 235).
+b)
+Au moment de l’audience de première instance, en juin 2020, la recourante faisait l’objet
+de quarante-neuf poursuites pour un montant total de 1'114'805 fr. 85, dont onze poursuites payées
+(234’995 fr. 49) et deux éteintes (14’021 fr. 20). Trois poursuites étaient au
+stade de la commination de faillite, dont deux pour les sommes minimes de 256 fr. 35 et 414 fr. 40, cinq
+au stade de la saisie et vingt-quatre au stade de l’opposition. Le premier juge a considéré
+que le montant total des poursuites, s’il avait baissé depuis 2019, restait considérable,
+que la grande majorité des poursuites introduites depuis 2017 concernait des créances de droit
+public et qu’il y avait eu deux actes de défaut de biens pour la somme totale de 861 fr. 10.
+Il a en outre constaté que les allégations de la recourante, selon lesquelles elle avait pu
+désintéresser des créanciers en utilisant une somme obtenue de la part d’une société
+tierce et qu’elle avait elle-même des créances à recouvrer, n’étaient
+pas établies, et que, même si elle avait effectué des paiements pour une somme totale
+de 693'570 fr. en 2019, comme elle le prétendait, elle n’indiquait avoir payé ses créanciers
+de droit public qu’à hauteur de 59'720 francs.
+c)
+La recourante conteste ce dernier point : elle allègue avoir payé plus de 350'000 fr.,
+soit près de 200'000 fr. en mains de l’office des poursuites en novembre 2019 (P. 122
+à 124), et quelque 59'600 fr. à la Fondation Institution supplétive LPP (P. 117 et P.
+R-19), 14'000 fr. à l’Office des assurances sociales de Genève (P. 117), près de
+20'000 fr. à la Caisse cantonale vaudoise de compensation AVS (P. 117), plus 1'000 fr. à l’office
+des poursuites pour payer une dette envers la Ville de Genève (P. 117). Elle fait valoir qu’elle
+a dépensé plus de 50'000 fr. en avances de frais judiciaires pour divers procès qu’elle
+a ouverts contre des sociétés détenues par la même personne que l’intimée (
+ndr
+:
+qui ne font pas partie des poursuivants, ce qui permet de déduire qu’il ne s’agit pas
+d’actions en libération de dettes), réclamant notamment environ 160'000 fr. à l’une
+d’elles et 110'000 fr. à une autre. Elle relève qu’elle ne fait l’objet d’aucun
+acte de défaut de biens. Elle soutient en outre que l’extrait des poursuites est trompeur en
+faisant valoir ce qui suit : en vertu d’un accord passé avec [...] SA, qui a introduit contre
+elle deux poursuites de quelque 12'000 fr. chacune, seul un montant de 2'000 fr. resterait dû (P.
+R-7) ; trois poursuites, dont l’une au stade de la commination de faillite, figurent encore
+dans l’extrait alors qu’elles auraient été payées ; de nombreuses poursuites,
+pour plusieurs centaines de milliers de francs, émanent de sociétés détenues par
+l’animateur de l’intimée ou de fournisseurs de ces sociétés, et sont infondées,
+comme celle de 329'788 fr. 45 de Q.________SA. Une fois ces poursuites retirées, le solde des poursuites
+en cours est ramené à quelque 141'000 fr. ; or, ce solde inclut des créances de droit
+public dont certaines ont été revues à la baisse (P. 125 à 128), l’Administration
+fédérale des contributions devant même lui restituer près de 97'000
+fr.
+(P. R-12), et d’autres, de l’ordre de 50'000 fr. en tout, font l’objet de plans de
+paiement.
+La recourante fait encore valoir qu’elle poursuit son activité de manière soutenue, qu’elle
+a réalisé un chiffre d’affaires de quelque 450'000 fr. en 2019, qu’elle paie ses
+charges courantes et assainit sa situation, qu’elle a obtenu en janvier et février 2020 deux
+contrats en sous-traitance pour 785'000 fr. et 385'000 fr., et que les travaux sont en cours.
+d)
+Les arguments de la recourante ne manquent pas de pertinence et certains sont étayés par les
+pièces au dossier. Néanmoins, ils ne suffisent pas à faire admettre qu’elle ne se
+trouve pas en suspension de paiements. Contrairement à l’extrait des poursuites au 15 juillet
+2020 produit à l’appui du recours (P. R-6), sur lequel figurent des poursuites payées
+ou éteintes, soit, après soustractions de ces dernières, une somme de 875'887 fr. 66 en
+poursuite, l’extrait au 17 juillet 2020 sur lequel la recourante a été invitée
+à se déterminer ne montre que les poursuites encore en cours, au nombre de trente-quatre, dont
+la somme totale s’élève à 960’558 fr. 65, intérêts et frais compris.
+Même si l’on peut constater qu’aucune poursuite antérieure à juin 2019 n’a
+dépassé le stade de l’opposition et que deux poursuites, pour 12'900 fr. et 151'854 fr.,
+émanent de sociétés domiciliées à l’adresse de Q.________SA, représentées
+par le même conseil que l’intimée, on ne saurait retenir sans autres éléments
+probants, comme le soutient la recourante, que ces poursuites sont « absolument injustifiées
+et abusives » ou qu’elles constituent des « représailles ».
+L’accord invoqué avec la société [...] SA résulte d’une lettre de la
+mandataire de cette société du 15 mai 2020, laquelle exigeait clairement le paiement du montant
+de 2'000 fr. dans un délai au 15 juin 2020, faute de quoi « une nouvelle demande
+de faillite pour la totalité des montants ouverts » serait déposée. La recourante
+n’allègue ni ne prouve s’être acquittée de ce montant en temps utile. Quoi
+qu’il en soit, la poursuite exercée à l’instance de [...] SA, représentée
+par la mandataire précitée, subsiste dans l’extrait au 17 juillet 2020, au stade de la
+commination de faillite, et deux autres poursuites exercées par cette société, représentée
+par un autre mandataire, y figurent également.
+Une autre poursuite, exercée à l’instance d’une société [...] SA, est
+au stade de la commination de faillite, pour une somme de 360 fr. 40. La recourante dit avoir payé
+cette poursuite et produit une pièce (P. R-8), à savoir le récépissé postal
+d’un versement, le 14 juillet 2020, sur le compte de ladite société, d’un montant
+inférieur à celui de la poursuite, d’ailleurs sans aucune référence à
+celle-ci, ce qui laisse penser qu’il pouvait s’agir du règlement d’une autre dette,
+ou que la recourante ne s’est pas acquittée des intérêts et des frais de la poursuite
+en question. Quoi qu’il en soit, un retrait de cette poursuite par la créancière n’est
+pas non plus établi.
+Des onze poursuites de droit public, soit un tiers des poursuites listées, pour des dettes fiscales
+(88'991 fr. 15) – notamment TVA (80’542 francs 55) – ou de cotisations sociales (24'942
+fr. 95), cinq sont au stade de l’avis de saisie. En ce qui concerne la TVA, il est vrai que l’Administration
+fédérale des contributions, par lettres des 8 octobre, 10 décembre et 17 décembre
+2019, a informé la recourante de la correction en sa faveur des montants d’impôt provisoirement
+dus pour le quatrième trimestre de 2018 et les deux premiers trimestres de 2019 et de la mise en
+compte des montants résultant de cette correction (P. R-12). Il n’est toutefois pas établi
+que les six poursuites en cours portant sur des dettes de TVA concernent les mêmes périodes.
+Cela n’est même pas vraisemblable dès lors que les lettres en question ne font aucune
+mention de poursuites en cours sur lesquelles les corrections annoncées auraient une incidence,
+que les deux dernières poursuites ont été introduites au mois de juin 2020 et que les
+avis de saisie dans les trois premières poursuites ont été établis soit à la
+même période que les corrections annoncées, en décembre 2019, soit postérieurement,
+en juin 2020.
+Enfin, l’extrait des poursuites montrent deux poursuites émanant de [...] SA, de plus de 60'000
+fr. chacune, ce qui indique que la recourante, de manière répétée, n’a pas
+pu payer le salaire de ses employés intérimaires.
+Au de tous ces éléments, on doit considérer que la recourante est bien en suspension de
+paiements.
+VI.
+A titre subsidiaire, la recourante invoque l’art. 174 al. 2 LP. Elle fait valoir qu’elle
+a consigné le montant de 15'678 fr. en mains de la cour de céans.
+a)
+En vertu de l'art. 174 al. 2 LP, la décision du juge de la faillite peut être déférée
+à l'autorité de recours, qui peut annuler l'ouverture de la faillite lorsque le débiteur,
+en déposant le recours, rend vraisemblable sa solvabilité et établit par titre que depuis
+lors la dette, intérêts et frais compris, a été payée (ch. 1) ou que la totalité
+de la somme à rembourser a été déposée auprès de l'autorité judiciaire
+supérieure à l'intention du créancier (ch. 2), ou encore que celui-ci a retiré sa
+réquisition de faillite (ch. 3). Ces deux conditions, soit le paiement de la dette à l'origine
+de la faillite, le dépôt de la totalité de la somme à rembourser ou le retrait de
+la requête de faillite et la vraisemblance de la solvabilité, sont cumulatives (TF 5A_801/2014
+du 5 décembre 2014 consid. 6.1 ; Bosshard, Le recours contre le jugement de faillite, in JdT 2010
+II 113 ss, p. 127).
+Le débiteur doit rendre sa solvabilité vraisemblable ; il ne peut se contenter de simples allégations,
+mais doit fournir des indices concrets tels que récépissés de paiements, justificatifs
+des moyens financiers (avoirs en banque, crédit bancaire) à sa disposition, liste des débiteurs,
+extrait du registre des poursuites, comptes annuels récents, bilan intermédiaire, etc. (TF
+5A_181/2018 du 30 avril 2018 consid. 3.1 ; TF 5A_615/2020 du 30 septembre 2020 consid. 3.1).
+En principe, s'avère insolvable le débiteur qui, par exemple, laisse des comminations de faillite
+s'accumuler, fait systématiquement opposition et ne paie pas même des montants peu élevés
+(TF 5A_181/2018 précité ; TF 5A_413/2014 du 20 juin 2014 consid. 4.1; TF 5A_118/2012 du 20
+avril 2012 consid. 3.1). S'il y a des poursuites ayant atteint le stade de la commination de faillite,
+le débiteur doit en principe prouver par titre qu'une des hypothèses de l'art. 174 al. 2 ch.
+1 à 3 LP s'est réalisée, à moins qu'il ne résulte du dossier la vraisemblance
+qualifiée de l'existence de disponibilités en liquidité objectivement suffisantes non
+seulement pour payer ces créances, mais aussi pour faire face aux autres prétentions créancières
+déjà exigibles (TF 5A_615/2020 précité consid. 3.1).
+b)
+La première condition à l’annulation de la faillite est remplie, le montant litigieux
+(y compris 300 fr. de frais judiciaires de première instance) ayant été consigné
+en mains de la cour de céans.
+Il reste à examiner si la recourante est solvable. On ne dispose pas d’une comptabilité.
+L’examen de l’extrait des poursuites conduit à considérer que la recourante ne
+rend pas sa solvabilité vraisemblable, notamment pour les motifs ayant conduit à considérer
+qu’elle se trouve en suspension de paiements. Certes, elle s’efforce d’assainir sa
+situation, a payé certains de ses créanciers, a passé des arrangements de paiement avec
+d’autres et a signé deux contrats de sous-traitance en janvier et février 2020 pour un
+montant global de 1'170'000 francs. Cependant, de janvier à juin 2020, elle a fait l’objet
+de cinq nouvelles poursuites, pour plus de 44'700 fr., dont quelque 34'000 fr. de dettes de droit
+public (TVA et cotisations sociales). Il est ainsi patent que la recourante ne peut faire face à
+ses charges courantes.
+VII.
+En conclusion, le recours doit être rejeté
+et le jugement confirmé, la faillite de la recourante prenant effet, vu l’effet suspensif
+accordé, à la date du présent arrêt.
+Les frais de deuxième instance doivent être mis à la charge de la recourante (art. 106
+al. 1 CPC), savoir les frais judiciaires, arrêtés à 300 fr., dont elle a déjà
+fait l’avance et des dépens auxquels l’intimée a droit, arrêtés
+à 1'500 fr. (art. 8 TDC [tarif des dépens en matière civile ; BLV 270.11.6]).
+La faillie étant dessaisie de ses biens (art. 197 LP), le montant déposé auprès de
+l’autorité de recours conformément à l’art. 174 al. 2 ch. 2 LP tombe dans
+la masse en faillite (Talbot, in Kren Kostkiewicz/Vock [éd.], Kommentar SchKG, 4
+e
+éd.,
+n. 15 ad art. 174 LP). Le montant de 15'678 fr. déposé par la recourante auprès de la
+cour de céans devra donc être versé à l’Office des faillites de l’arrondissement
+de Lausanne, une fois le présent arrêt devenu définitif et exécutoire.
+Par
+ces motifs,
+la
+Cour des poursuites et faillites du Tribunal cantonal,
+statuant
+à huis clos en sa qualité d'autorité
+de
+recours en matière sommaire de poursuites et de faillite,
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+Le jugement est confirmé, la faillite sans poursuite préalable de X.________SA prenant effet,
+vu l’effet suspensif accordé, le 8 janvier 2021, à 16 heures 15.
+III.
+Les frais judiciaires de deuxième instance, arrêtés à 300 fr. (trois cents francs),
+sont mis à la charge de la recourante.
+IV.
+La recourante X.________SA doit verser à l’intimée G.________SA la somme de 1'500 fr.
+(mille cinq cents francs) à titre de dépens de deuxième instance.
+V.
+Le montant de 15'678 fr. (quinze mille six cent septante-huit francs) déposé par la recourante
+auprès de la cour de céans sera versé à l’Office des faillites de l’arrondissement
+de Lausanne lorsque la faillite de la recourante sera définitive et exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+8 janvier 2021
+L'arrêt qui précède, dont la rédaction a été approuvée à huis
+clos, est notifié, par l'envoi de photocopies, à :
+‑
+Me Maxime Rocafort, avocat (pour X.________SA),
+‑
+Me Alain Dubuis, avocat (pour G.________SA),
+-
+M. le Préposé à l'Office des poursuites du district de Lausanne,
+-
+M. le Préposé à l'Office des faillites de l'arrondissement de Lausanne.
+Le présent arrêt peut faire l'objet d'un recours en matière civile devant le Tribunal
+fédéral au sens des art. 72 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral –
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la présente notification (art. 100 al. 1 LTF).
+Cet arrêt est communiqué, par l'envoi de photocopies, à :
+-
+Mme la Conservatrice du Registre foncier, Office de Lausanne,
+-
+M. le Préposé au Registre du Commerce du canton de Vaud,
+et communiqué à
+:
+‑
+Mme la Présidente du Tribunal d'arrondissement de Lausanne.
+La greffière :
