@@ -1,0 +1,210 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___91"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 91"
+decided: "2021-01-08"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8124693"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-081.md", "switzerland/bund/acts/312.0/art-089.md", "switzerland/bund/acts/312.0/art-355.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2021 / 91
+
+## Regeste
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE | 354 CPP (CH), 385 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 08.01.2021 Décision / 2021 / 91
+
+DÉCISION D'IRRECEVABILITÉ, MOTIVATION DE LA DEMANDE | 354 CPP (CH), 385 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+22
+PE20.011353-EBJ
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+8 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+Mme
+Fonjallaz et M. Kaltenrieder, juges
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+385 CPP
+Statuant sur le recours interjeté le 28 décembre 2020 par
+L.________
+contre l’ordonnance rendue le 15 décembre 2020 par le Ministère public de l’arrondissement
+de l’Est vaudois dans la cause
+n° PE20.011353-EBJ
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par ordonnance pénale du 20 octobre 2020, le Ministère public de l’arrondissement de
+l’Est vaudois a reconnu L.________ coupable de rixe et de tentative de vol et l’a condamné
+à 60 jours-amende, avec sursis pendant deux ans, le montant du jour-amende étant fixé
+à 30 fr., ainsi qu’à une amende de 450 fr., convertible en 15 jours de peine privative
+de liberté de substitution en cas de non-paiement dans le délai imparti.
+b)
+Le 22 octobre 2020, L.________ a fait opposition à l’ordonnance pénale.
+c)
+Par courrier recommandé du 9 novembre 2020, le Ministère public a cité L.________ à
+comparaître personnellement à son audience du 8 décembre 2020 à 9h30, précisant
+qu’un défaut sans excuse serait considéré comme un retrait de l’opposition.
+Le mandat de comparution a été notifié à l’intéressé le 10 novembre
+2020 (P. 19).
+d)
+L.________ ne s’est pas présenté, ni personne en son nom, à l’audience du
+8 décembre 2020.
+B.
+Par ordonnance du 15 décembre 2020, le Ministère
+public a pris acte du retrait de l’opposition (I), a dit que l’ordonnance du 20 octobre 2020
+devenait exécutoire (II) et a rendu la décision sans frais (III).
+La procureure a constaté que L.________ avait été cité à comparaître à
+l’audience du 8 décembre 2020 par pli recommandé et qu’il avait fait défaut
+à dite audience sans aucun motif valable. Elle a considéré cette absence comme un retrait
+d’opposition en application de l’art. 355 al. 2 CPP.
+C.
+Par courrier recommandé du 17 décembre
+2020 (date du timbre postal), L.________ a écrit au Ministère public pour indiquer qu’il
+avait « bien pris note de la convocation à l’audience du 08.12.2020 »,
+qu’il priait la Procureure d’excuser son absence qui était due à un « problème
+d’horaire venant de [sa] part ». Il a demandé le renvoi de « cette affaire
+à une date ultérieure afin qu[’il] puisse [se] présenter devant votre Tribunal.
+» (P. 20).
+Le 28 décembre 2020, L.________ a déposé
+à la réception du Ministère public un courrier daté du 23 novembre 2020, dans lequel
+il explique que son absence à l’audience du 8 décembre 2020 était due à « un
+problème de compréhension venant de [sa] part », ajoutant ne pas être « tout
+à fait d’accord avec la décision finale ». Il a confirmé que son courrier
+du 17 décembre précédent était un recours contre l’ordonnance du 15 décembre
+2020 (P. 22).
+Le 6 janvier 2021, les courriers susmentionnés de L.________ ont été transmis à la
+Chambre de céans comme objet de sa compétence.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Le prononcé par lequel le Ministère
+public prend acte du retrait d’une opposition formée contre une ordonnance pénale (cf.
+art. 355 al. 2 CPP [Code de procédure pénale suisse du 5 octobre 2007; RS 312.0]) est
+susceptible de recours selon les art. 393 ss CPP.
+Le recours doit être adressé par écrit dans un délai de dix jours à l’autorité
+de recours (art. 396 al. 1 CPP).
+1.2
+1.2.1
+Le recours s’exerce par le dépôt
+d’un mémoire écrit et dûment motivé (art. 390 al. 1 et 396 al. 1 CPP). Les
+exigences de motivation du recours sont posées à l’art. 385 al. 1 CPP. Selon cette disposition,
+la personne ou l’autorité qui recourt doit indiquer précisément les points de la
+décision qu’elle attaque (let. a), les motifs qui commandent une autre décision (let.
+b) et les moyens de preuve qu’elle invoque (let. c).
+Ainsi, le recourant doit d’abord indiquer «
+les
+points de la décision
+» qui sont attaqués
+(art. 385 al. 1 let. a CPP), par quoi il faut entendre les points du dispositif (cf. art. 81 al. 4 CPP)
+qui devraient être changés et quelle formulation devrait avoir la nouvelle décision si
+le recours était admis (Pitteloud, Code de procédure pénale suisse, Commentaire à
+l’usage des praticiens, Zurich/St-Gall 2012, n. 1126 ; Ziegler/Keller, in : Niggli/Heer/Wiprächtiger
+[éd.], Basler Kommentar, Schweizerische Strafprozessordnung, Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 1a ad art. 385 CPP ; CREP 12 mai 2020/352 consid. 1.3 et réf. cit).
+Il doit ensuite énoncer «
+les
+motifs qui commandent une autre décision
+»
+(art. 385 al. 1 let. b CPP), à savoir les arguments, de fait ou de droit, sur lesquels il prétend
+se fonder pour faire modifier la décision en sa faveur (Pitteloud, op. et loc. cit. ; Lieber,
+in : Donatsch/Hansjakob/Lieber [éd.], Kommentar zur Schweizerischen Strafprozess­ordnung, 2
+e
+éd., Zurich/Bâle/Genève 2014, n. 2 ad art. 385 CPP). Ainsi, il doit indiquer dans quelle
+mesure et sous quel angle il entend critiquer l’établissement des faits ou l’application
+du droit (Calame, in : Jeanneret et al. [éd.], Commentaire romand, Code de procédure pénale
+suisse, 2
+e
+éd., Bâle 2019, n. 20 ad art. 385 CPP ; CREP 12 mai 2020/352 consid. 1.3 et réf. cit).
+1.2.2
+Conformément à l'art. 385 al. 2 CPP,
+si le mémoire ne satisfait pas à ces exigences, l'autorité de recours le renvoie au recourant
+pour qu'il le complète dans un bref délai. Si, après expiration de ce délai supplémentaire,
+le mémoire ne satisfait toujours pas à ces exigences, l'autorité de recours n'entre pas
+en matière. Cette disposition vise uniquement à protéger le justiciable contre un formalisme
+excessif de la part de l’autorité. Elle ne permet en revanche pas de suppléer un défaut
+de motivation. La motivation d’un acte de recours doit en effet être entièrement contenue
+dans l’acte de recours lui-même. Elle ne saurait être complétée ou corrigée
+ultérieurement (TF 6B_510/2018 du 31 juillet 2018 consid. 1 et réf. cit.), l’art.
+385 al. 2 CPP ne devant pas être appliqué pour contourner l’art. 89 al. 1 CPP, qui
+interdit la prolongation des délais fixés par la loi (TF 1B_232/2017 du 19 juillet 2017 consid.
+2.4.3 ; TF 6B_347/2016 du 10 février 2017 consid. 4.1; TF 1B_363/2014 du 7 janvier 2015
+consid. 2.1 et réf. cit. ; CREP 28 mai 2020/413 consid. 1.2 ; CREP 12 mai
+2020/352 consid. 1.3; CREP 11 mars 2020/188 consid. 1.1 ; CREP 27 janvier 2020/46 consid. 1.2 ;
+CREP 6 juillet 2018/524 consid. 1.2).
+1.2.3
+Dans le cas présent, le recourant se borne à présenter des excuses pour son absence à
+l’audience du 8 décembre 2020, qui serait due à « un problème d’horaire
+venant de [sa] part » (P. 20) ou à « un problème de compréhension
+venant de [sa] part. » (P. 22). Il indique ne pas être « tout à fait d’accord
+avec la décision finale » sans toutefois exposer les points de la décision qui sont
+attaqués, ni énoncer les arguments, de fait ou de droit, sur lesquels il prétend se fonder
+pour faire modifier la décision en sa faveur. Le recours de L.________ ne satisfait dès lors
+pas aux exigences de motivation imposées par l’art. 385 al. 1 CPP.
+2.
+Au vu de ce qui précède, le recours de L.________ doit être déclaré irrecevable,
+sans autre échange d’écritures (art. 390 al. 2 CPP).
+Par surabondance, il peut être relevé qu’un problème d’horaire ou de compréhension
+ne constitue pas un cas de force majeure ou d’impossibilité objective au sens de la jurisprudence
+(ATF 142 IV 158 consid. 3.2 ; ATF 140 IV 82 consid. 2.3 et 2.4), de sorte que même s’il
+était recevable, son recours devrait être rejeté.
+Les frais de la procédure de recours, constitués en l’espèce du seul émolument
+d’arrêt (art. 422 al. 1 CPP), par 550 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), seront
+exceptionnellement laissés à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est irrecevable.
+II.
+Les frais d’arrêt, par 550 fr. (cinq cent cinquante francs), sont laissés à la charge
+de l’Etat.
+III.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+M. L.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Mme la Procureure de l’arrondissement de l’Est vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
