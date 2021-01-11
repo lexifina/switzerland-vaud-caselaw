@@ -1,0 +1,654 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___41"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 41"
+decided: "2021-01-11"
+published: "2021-01-11"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8127610"
+cites_law: ["switzerland/bund/acts/0.101/art-008.md", "switzerland/bund/acts/101/art-005.md", "switzerland/bund/acts/101/art-013.md", "switzerland/bund/acts/142.201/art-031.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-042.md", "switzerland/bund/acts/311.0/art-043.md", "switzerland/bund/acts/311.0/art-054.md", "switzerland/bund/acts/311.0/art-066a.md", "switzerland/bund/acts/311.0/art-219.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 41
+
+## Regeste
+
+EXPULSION{DROIT PÉNAL}, SURSIS PARTIEL À L'EXÉCUTION DE LA PEINE | 43 CP, 66a al. 2 CP
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 11.01.2021 Décision / 2021 / 41
+
+EXPULSION{DROIT PÉNAL}, SURSIS PARTIEL À L'EXÉCUTION DE LA PEINE | 43 CP, 66a al. 2 CP
+
+TRIBUNAL
+CANTONAL
+22
+PE19.012813-LRC
+COUR
+D’APPEL PENALE
+______________________________
+Séance
+du 11 janvier 2021
+__________________
+Présidence
+de               M.
+Pellet
+,
+président
+MM.
+Sauterel et Maillard, juges
+Greffière
+:              Mme
+De Corso
+*****
+Parties
+à la présente cause :
+A.Z.________,
+prévenu, représenté par Me Olivier Bloch, défenseur d’office à Yverdon-les-Bains,
+appelant,
+et
+M
+INISTÈRE
+PUBLIC
+, représenté par la Procureure
+de l'arrondissement de l'Est vaudois, intimé.
+La Cour d'appel pénale considère :
+En fait
+:
+A.
+Par jugement du 7 septembre 2020, le Tribunal
+correctionnel de l'arrondissement de l'Est vaudois a libéré A.Z.________ de l'infraction de
+violation du devoir d'assistance et d'éducation (I), a condamné A.Z.________ pour lésions
+corporelles simples qualifiées, voies de fait qualifiées, injure, menaces, menaces qualifiées,
+tentative de contrainte, viol, pornographie et contravention à la Loi fédérale sur les
+stupéfiants (LStup ; RS 812.121) à une peine privative de liberté de 30 (trente) mois
+ferme, sous déduction de 369 (trois cent soixante-neuf) jours de détention provisoire, 48 (quarante-huit)
+jours de détention pour des motifs de sûreté et 21 (vingt-et-un) jours d'exécution
+anticipée de peine, à une peine-pécuniaire de 20 (vingt) jours-amende à 10 (dix)
+francs et à une amende de 600 (six cents) francs, la peine privative de liberté de substitution
+étant de 6 (six) jours (II), a maintenu A.Z.________ en détention en exécution anticipée
+de peine (III), a constaté qu'A.Z.________ a été détenu dans des conditions illicites
+durant 12 (douze) jours et a ordonné que 6 (six) jours soient déduits de la peine fixée
+sous chiffre II (IV), a ordonné la mise en œuvre d'un traitement psychothérapeutique ambulatoire
+en faveur d'A.Z.________ (V), a ordonné l'expulsion d'A.Z.________ du territoire suisse pour une
+durée de 10 (dix) ans (VI), a dit qu'A.Z.________ est le débiteur des montants suivants : 10'000
+(dix mille) francs en faveur de D.Z.________, valeur échue à titre d'indemnité pour tort
+moral ; 4'000 (quatre mille) francs avec intérêts à 5% l'an dès le 27 juin 2019
+en faveur de B.Z.________ à titre d'indemnité pour tort moral; 5'000 (cinq mille) francs avec
+intérêt à 5% l'an dès le 27 juin 2019 en faveur de C.Z.________ à titre d'indemnité
+pour tort moral, et leur a donné acte de leurs réserves civiles (VII), et a statué sur
+les indemnités et frais (VIII à XIII).
+B.
+Par annonce du 8 septembre 2020, puis déclaration
+motivée du 9 octobre 2020, A.Z.________ a formé appel contre ce jugement, en concluant
+à sa réforme en ce sens qu'il soit condamné à une peine privative de liberté
+de 30 mois avec sursis partiel et qu'il soit renoncé à prononcer son expulsion.
+C.
+Les faits retenus sont les suivants :
+a)
+Ressortissant d’Afghanistan selon lui ou
+d’Iran selon le dossier, A.Z.________ est né le [...] 1984. Il est issu d'une famille de trois
+enfants. Elevé par ses parents, il a été scolarisé durant 4 ou 5 ans en Iran, puis
+a travaillé dans la construction. Le prévenu relate une enfance empreinte de violence paternelle.
+A.Z.________ et D.Z.________ se sont mariés – selon un mariage traditionnel, qui n’est
+pas reconnu en Suisse – en Afghanistan en 2004. Leurs deux enfants, B.Z.________ et C.Z.________,
+sont nés en Iran, respectivement le 25 février 2004 et le 17 juin 2013. En 2015, la famille
+a quitté l'Iran et a entamé un périple de plusieurs mois à destination de la Suisse,
+où elle est arrivée en octobre 2016. Les parents du prévenu demeurent en Iran, tandis
+que son frère vit à Zurich.
+Le casier judiciaire suisse d’A.Z.________ est vierge de toute inscription.
+A.Z.________ a été soumis à une expertise psychiatrique pour les besoins de la cause,
+confiée au Dr [...] et à la psychologue [...]. Dans leur rapport d’expertise daté
+du 23 mars 2020, les experts ont posé les diagnostics de trouble psychotique d'allure schizophrénique
+vraisemblablement lié à l'utilisation de cannabis, de syndrome de dépendance au cannabis,
+auquel s'associait une possible utilisation problématique de l'alcool. La responsabilité était,
+selon les périodes, conservée à fortement diminuée. Le risque de récidive était
+difficile à apprécier au vu de la contestation des faits, mais il était existant en cas
+de rechute dans une consommation de stupéfiants et de nouvelles décompensations psychotiques,
+ainsi qu'en présence de nouvelles tensions familiales. Un traitement psychothérapeutique ambulatoire
+a été préconisé par les experts.
+­
+b)
+1.1
+Au foyer [...], à [...], [...], puis au domicile familial, à [...], [...], entre juin 2017,
+les faits antérieurs étant prescrits, et le 26 juin 2019, date de son interpellation, A.Z.________
+s'est montré physiquement violent envers son épouse, D.Z.________, en lui assénant notamment
+des gifles et des coups de pieds.
+1.2
+Plus particulièrement, au foyer [...], à [...], [...], en décembre 2017, A.Z.________
+a lancé un téléphone portable au niveau de la tête de son épouse, D.Z.________,
+car elle lui avait préalablement manifesté sa désapprobation alors qu'il montrait des
+photos de femmes nues à son fils, C.Z.________. D.Z.________ a souffert d'une plaie au front qui
+a nécessité des points de suture.
+1.3
+Au domicile familial, à [...], [...], entre le 27 mars 2019, les faits précédents
+n'étant pas couverts par la plainte, et le 26 juin 2019, A.Z.________ a régulièrement
+injurié son épouse, D.Z.________ en la traitant notamment de
+« salope ».
+D.Z.________
+a déposé plainte pénale le 27 juin 2019.
+2.1
+Au foyer [...], à [...], [...], puis au domicile
+familial, à [...], [...], entre juin 2017, les faits antérieurs étant prescrits, et le
+26 juin 2019, date de son interpellation, A.Z.________ s’est montré physiquement violent envers
+sa fille, B.Z.________, en lui assenant notamment des gifles.
+2.2
+Plus particulièrement, au foyer [...], à
+[...], [...], en 2017, A.Z.________ a assené un coup de poing au visage de sa fille, B.Z.________,
+provoquant un saignement et lui causant une marque sur le visage.
+2.3
+Au domicile familial, à [...], [...], au
+3
+ème
+étage,
+en juillet 2018, A.Z.________ – excédé par les contacts téléphoniques de sa
+fille B.Z.________ avec son cousin – lui a pris son téléphone portable, et afin qu’elle
+cesse ses agissements, l’a saisie avec ses deux mains, par les épaules, l’a menacée
+de la jeter par la fenêtre et l’a poussée contre le velux ouvert en imposte, avant que
+D.Z.________ n’intervienne. A.Z.________ a alors menacé de se jeter lui-même par la fenêtre
+si elle n’arrêtait pas ses contacts téléphoniques.
+2.4
+Le 9 janvier 2019, au domicile familial, à [...], [...],A.Z.________ a asséné une gifle
+sur le côté gauche du visage de sa fille, B.Z.________, alors qu’elle conversait téléphoniquement
+avec un cousin, lui causant un hématome et des douleurs.
+3.1
+Au foyer [...], à [...], [...], puis au domicile familial, à [...],  [...], entre juin
+2017, les faits antérieurs étant prescrits, et le 26 juin 2019, date de son interpellation,
+A.Z.________ s’est montré physiquement violent envers son fils C.Z.________, en lui donnant
+des fessées à deux ou trois reprises, en tirant au niveau de ses oreilles et en le frappant
+au moyen d’un câble de chargeur de téléphone portable au niveau de la paume des
+mains, de la plante des pieds et des jambes.
+3.2
+Plus particulièrement, à une date indéterminée,
+entre le 17 juin 2019 et le 23 juin 2019, au domicile familial, à [...],  A.Z.________ a poussé
+son fils, C.Z.________, contre le canapé, lui causant une bosse à la tête.
+3.3
+Au foyer [...], à [...], [...], en décembre
+2017, A.Z.________ a, à tout le moins à une reprise, regardé des vidéos, respectivement
+des représentations, à caractère pornographique en présence de son fils, C.Z.________.
+A la suite de ces évènements, plus particulièrement en juin et décembre 2018, l’enfant
+a adopté des comportements inadéquats, turbulents et sexualisés envers des fillettes de
+son école (baisers forcés sur la bouche, va et vient en collant le bas de son corps contre
+une camarade de classe, doigt dans le rectum d’une camarade à travers ses collants).
+4.1
+Au domicile familial, à [...], [...], le 23 juin 2019, vers minuit, A.Z.________ a saisi un couteau
+– noir avec des points blancs et une lame d'environ 20 à 30 centimètres – qui se
+trouvait dans la cuisine, puis s'est avancé en direction de son épouse, D.Z.________ –
+qui criait et était restée immobile, les yeux fermés, contre la porte de la salle de bain
+–, en tenant le couteau verticalement, pointe vers le haut. Arrivée à environ un mètre
+d'elle, il l'a menacée en déclarant notamment :
+« ce
+soir, soit je vais te tuer toi soit je vais me tuer moi ».
+Alertée
+par les cris de sa mère, B.Z.________ est intervenue et est montée dans sa chambre avec sa
+mère, qui s’est alors évanouie. Quand B.Z.________ est redescendue à l’étage
+inférieur, elle a alors vu son père, le couteau sous la gorge, menaçant de s’
+« égorger »
+devant elle et sa mère afin que ce moment reste gravé dans leur mémoire. A.Z.________
+s’est ensuite automutilé au niveau des bras devant sa fille.
+4.2
+Au domicile familial, à [...],  [...],
+le 24 ou le 25 juin 2019, en fin de matinée, alors que les époux faisaient chambre séparée
+à la demande de D.Z.________ – effrayée par la menaces proférées les jours
+précédents – qui avait clairement signifié à son époux qu’elle ne
+voulait pas entretenir des rapports sexuels pendant une semaine –
+« si
+tu veux que je te pardonne, tu ne dois pas avoir de rapport sexuel pendant une semaine avec moi »
+–,A.Z.________, vêtu d’un caleçon,
+s’est approché d’elle et l’a embrassée. D.Z.________ l’a immédiatement
+repoussé au niveau des épaules et lui a dit de ne pas s’approcher. A.Z.________ lui a
+alors rétorqué qu’il était son mari, qu’il voulait avoir des relations sexuelles
+avec elle et que si elle refusait c’était parce qu’elle était infidèle –
+et entretenait ainsi des relations sexuelles avec d’autres hommes –.
+Alors que D.Z.________ s’était levée pour monter à l’étage, A.Z.________
+l’a retenue par la main en lui demandant où elle voulait aller, puis lui a signifié qu’il
+« était en manque ».
+Il l’a ensuite poussée sur le canapé,
+lui a mis les mains au-dessus de la tête alors qu’elle était couchée sur le dos
+et lui a dit :
+« t’a
+pas envie de faire du sexe avec moi parce que cela fait quelques temps que nous l’avons pas fait,
+tu verras, si on le fait, après, cela devient normal pour toi ».
+A.Z.________ lui a ensuite enlevé son pantalon alors que son épouse disait qu’elle ne
+le reconnaissait pas et lui demandait d’arrêter, lui répétant
+« ne
+fais pas ça ».
+En dépit de
+son refus et de ses pleurs, A.Z.________ a enlevé le sous-vêtement de son épouse avant
+d’ôter son propre caleçon, s’est couché sur elle, l’a maintenue par
+les bras et l’a contrainte à entretenir une relation sexuelle par pénétration vaginale.
+Durant l’acte, D.Z.________ a tourné la tête, fermé les yeux, lui a répété
+en criant qu’elle le détestait – ce qui a fait rire A.Z.________ –, qu’elle
+avait mal –D.Z.________ souffrait d’une infection aux ovaires – tout en lui demandant
+d’arrêter. Après avoir éjaculé, A.Z.________ a déclaré à D.Z.________ :
+« tu vois comme c’était
+facile
+»
+,
+avant d’aller prendre une douche et laissant son épouse en pleurs sur le canapé.
+4.3
+Le 26 juin 2019, depuis le domicile conjugal, entre 14h00 et 14h08, alors que D.Z.________ se trouvait
+au [...] pour une consultation, A.Z.________ l’a menacée par messages téléphoniques,
+contenant les propos suivants :
+« tu
+ne viens pas à la maison »
+,
+« je
+te montrerai ce que je vais faire »
+,
+« je sais comment
+je vais faire ».
+Alors qu’elle était revenue dans l’appartement,
+vers 18h30, A.Z.________ a proféré des injures, tant à l’égard de son épouse,
+que de sa fille B.Z.________, les traitant de
+« putes »
+et leur demandant par qui elles s’étaient
+« faites
+sauter […] baiser »
+. A.Z.________
+a ensuite menacé son épouse de ne plus s’occuper de ses enfants si elle continuait à
+sortir du domicile. D.Z.________ a alerté les services de police qui se sont rendus sur place. Après
+le départ des agents de police, A.Z.________ a, à nouveau, menacé de mort son épouse
+en lui déclarant notamment
+« la
+police ne fait rien, si je te tue, il ne m’arrivera rien »
+.
+D.Z.________ a alors quitté le domicile conjugal avec les deux enfants, sous les cris de son époux
+qui vociférait que désormais sa femme et sa fille pourraient
+« aller
+librement baiser partout où [elles] voulaient ».
+D.Z.________ a déposé plainte pénale le 27 juin 2019.
+5.
+Entre juin 2017, les faits antérieurs étant
+prescrits, et la mi-juin 2019 à tout le moins, à [...] notamment, A.Z.________ a régulièrement
+consommé de la marijuana, à raison de deux ou trois fois par semaine, ainsi que de l’opium
+à deux reprises.
+En droit
+:
+1.
+Interjeté dans
+les formes et délais légaux (art. 399 CPP [Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0]), par le prévenu ayant qualité pour recourir (art. 382 al. 1 CPP) contre le
+jugement d’un tribunal de première instance qui a clos la procédure (art. 398 al. 1 CPP),
+l'appel d'A.Z.________ est recevable.
+2.
+La
+juridiction d’appel jouit d’un plein pouvoir d’examen sur tous les points attaqués
+du jugement (art. 398 al. 2 CPP). Selon l’art. 398 al. 3 CPP, l’appel peut être formé
+pour violation du droit, y compris l’excès et l’abus du pouvoir d’appréciation,
+le déni de justice et le retard injustifié (let. a), constatation incomplète ou erronée
+des faits (let. b) et/ou inopportunité (let. c).
+L'appel doit permettre un nouvel examen au fond par la juridiction d'appel. Celle-ci ne doit pas se borner
+à rechercher les erreurs du juge précédent et à critiquer le jugement de ce dernier ;
+elle doit tenir ses propres débats et prendre sa décision sous sa responsabilité et selon
+sa libre conviction, qui doit reposer sur le dossier et sa propre administration des preuves. L'appel
+tend à la répétition de l'examen des faits et au prononcé d'un nouveau jugement (Eugster,
+in : Niggli/Heer/ Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung,
+Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 1 ad art. 398 CPP).
+3.
+3.1
+L'appelant ne conteste plus les faits en appel et soutient que sa peine devrait être assortie d’un
+sursis partiel. Il fait valoir qu'il n'a pas d'antécédents judiciaires, qu'il a commis
+des infractions sous l'influence de troubles psychiques, qu'il pourrait être soumis à des mesures
+d'éloignement de sa famille et à des contrôles d'abstinence, de sorte qu'un pronostic
+favorable pourrait être posé.
+3.2
+L’art. 42 al. 1 CP (Code pénal suisse
+du 21 décembre 1937; RS 311.0), dispose que le juge suspend en règle générale l'exécution
+d'une peine pécuniaire ou d'une peine privative de liberté de deux ans au plus lorsqu'une peine
+ferme ne paraît pas nécessaire pour détourner l'auteur d'autres crimes ou délits.
+L'art. 43 al. 1 CP prévoit que le juge peut suspendre partiellement l'exécution d'une peine
+privative de liberté d'un an au moins et de trois ans au plus afin de tenir compte de façon
+appropriée de la faute de l'auteur.
+Sur le plan subjectif, le juge doit poser, pour l'octroi du sursis, un pronostic quant au comportement
+de l'auteur. En l'absence de pronostic défavorable, il doit accorder le sursis. Celui-ci est ainsi
+la règle, dont le juge ne peut s'écarter qu'en présence d'un pronostic défavorable
+ou hautement incertain (ATF 134 IV 1 consid. 4.2.2). En d'autres termes, la loi présume l'existence
+d'un pronostic favorable et cette présomption doit être renversée pour exclure le sursis.
+La question de savoir si le sursis serait de nature à détourner le prévenu de commettre
+de nouvelles infractions doit être tranchée sur la base d'une appréciation d'ensemble,
+tenant compte des circonstances de l'infraction, des antécédents de l'auteur, de sa réputation
+et de sa situation personnelle au moment du jugement, notamment de l'état d'esprit qu'il manifeste.
+Le pronostic doit être posé sur la base de tous les éléments propres à éclairer
+l'ensemble du caractère du prévenu et ses chances d'amendement (ATF 134 IV 1 consid. 4.2.1 ;
+TF 6B_805/2020 du 15 juillet 2020 consid. 2.2 ; TF 6B_317/2020 du 1
+er
+juillet 2020 consid. 4.1). Le juge dispose d'un large pouvoir d'appréciation en la matière
+(ATF 145 IV 137 consid. 2.2 ; ATF 135 IV 180 consid. 2.1 ; ATF 134 IV 1 consid. 5.2 ;
+TF 6B_392/2016 du 10 novembre 2016).
+De jurisprudence constante, les conditions subjectives auxquelles l'art. 42 CP soumet l'octroi du
+sursis intégral s'appliquent également à l'octroi du sursis partiel prévu à
+l'art. 43 CP (ATF 139 IV 270 consid. 3.3 ; ATF 134 IV 1 consid. 5.3.1).
+3.3
+Se fondant sur l'expertise
+psychiatrique, les premiers juges ont retenu que le risque de récidive était présent,
+notamment en cas de consommation de stupéfiants et d'alcool. Ils ont relevé que le prévenu
+n'avait eu de cesse de faire pression sur sa femme pour qu'elle retire sa plainte, puis sur sa fille,
+démontrant qu'il n'avait pas pris conscience de la gravité de son comportement. Ils ont ainsi
+retenu l’existence d’un risque de récidive à sa sortie de prison et que la peine
+devait en conséquence être ferme.
+L’appelant se prévaut
+en vain d'un casier judiciaire suisse vierge, alors qu’il est arrivé en Suisse il y a quatre
+ans et que la présente cause révèle qu’il a commis des infractions – très
+graves pour certaines – durant ces trois dernières années. L'absence d'antécédents
+n'a donc qu'une portée relative. A.Z.________ invoque vainement ses troubles psychiques qui ont
+été pris en compte dans la fixation de la peine, en raison d'une diminution sensible de sa
+responsabilité pénale, mais qui ne sont pas de nature à entraîner un pronostic favorable.
+En effet, les experts ont mis en évidence non seulement un risque de récidive en cas de consommation
+de stupéfiants et d'alcool, mais aussi un risque de nouvelles décompensations en cas de tensions
+familiales (cf. jugt. pp. 33 et 34). En outre, l'appelant n'a pas pris entièrement conscience de
+son état de santé. A l’audience d’appel, la reconnaissance des faits était
+purement formelle. C'est donc à juste titre que les premiers juges ont posé un pronostic défavorable
+et ont prononcé une peine ferme.
+4.
+4.1
+A.Z.________
+conteste son expulsion qui consacrerait selon
+lui un cas de rigueur. Il se prévaut de la présence en Suisse de son épouse et de ses
+enfants. Il invoque aussi son état de santé et fait valoir qu'il conserverait encore la possibilité
+de s'intégrer. Selon lui, un renvoi en Afghanistan ne serait pas possible en raison de la situation
+instable de ce pays, et il conteste avoir la nationalité iranienne. Enfin, il se réfère
+à la jurisprudence du Tribunal fédéral (TF 6B_908/2019 du 5 novembre 2019) concernant
+une affaire où il a été renoncé à l’expulsion d’un condamné
+souffrant de schizophrénie paranoïde.
+4.2
+4.2.1
+Aux termes de l'art. 66a CP, le juge expulse de
+Suisse l'étranger qui est condamné pour l’une des infractions ou combinaisons d’infractions
+listées à l’al. 1, quelle que soit la quotité de la peine prononcée à
+son encontre, pour une durée de cinq à quinze ans. Selon l'art. 66a al. 2 CP, le juge peut
+exceptionnellement renoncer à une expulsion lorsque celle-ci mettrait l'étranger dans une situation
+personnelle grave et que les intérêts publics à l'expulsion ne l'emportent pas sur l'intérêt
+privé de l'étranger à demeurer en Suisse. A cet égard, il y a lieu de prendre en
+considération la situation particulière de l’étranger qui est né ou qui a grandi
+en Suisse.
+4.2.2
+L'art. 66a al. 2 CP est formulé comme une
+norme potestative, en ce sens que le juge n'a pas l'obligation de renoncer à l'expulsion, mais peut
+le faire si les conditions fixées par cette disposition sont remplies. Ces conditions sont cumulatives.
+Afin de pouvoir renoncer à une expulsion prévue par l'art. 66a al. 1 CP, il faut donc, d'une
+part, que cette mesure mette l'étranger dans une situation personnelle grave et, d'autre part, que
+les intérêts publics à l'expulsion ne l'emportent pas sur l'intérêt privé
+de l'étranger à demeurer en Suisse. Le fait que la clause de rigueur soit une norme potestative
+ne signifie pas que le juge pénal pourrait librement décider d'appliquer ou non l'exception
+de l'art. 66a al. 2 CP. Le juge doit faire usage du pouvoir d'appréciation qui lui est conféré
+par une norme potestative dans le respect des principes constitutionnels. S'il devait refuser de renoncer
+à l'expulsion alors que les conditions de la clause de rigueur sont remplies, le principe de proportionnalité
+ancré à l'art. 5 al. 2 Cst. (Constitution fédérale de la Confédération
+suisse du 18 avril 1999 ; RS 101) serait violé. Le juge doit ainsi renoncer à l'expulsion
+lorsque les conditions de l'art. 66a al. 2 CP sont réunies, conformément au principe de proportionnalité
+(TF 6B_965/2018 du 15 novembre 2018 consid. 4.2 et les références).
+La loi ne définit pas ce qu'il faut entendre par une "situation personnelle grave" (première
+condition cumulative) ni n'indique les critères à prendre en compte dans la pesée des
+intérêts (seconde condition cumulative).
+4.2.3
+En règle générale,
+il convient d'admettre l'existence d'un cas de rigueur au sens de l'art. 66a al. 2 CP lorsque l'expulsion
+constituerait, pour l'intéressé, une ingérence d'une certaine importance dans son droit
+au respect de sa vie privée et familiale garanti par la Constitution fédérale (art. 13
+Cst.) et par le droit international, en particulier l'art. 8 CEDH (Convention européenne de sauvegarde
+des droits de l’homme et des libertés fondamentales du 4 novembre 1950 ; RS 0.101) (TF
+6B_724/2018 du 30 octobre 2018 consid. 2.3.2).
+Un étranger peut se prévaloir de l'art. 8 par. 1 CEDH (et de l'art. 13 Cst.), qui
+garantit le droit au respect de la vie privée et familiale, pour s'opposer à l'éventuelle
+séparation de sa famille, pour autant qu'il entretienne une relation étroite et effective avec
+une personne de sa famille ayant le droit de résider durablement en Suisse (ATF 144 II 1 consid.
+6.1; 139 I 330 consid. 2.1 et les références citées). D'après une jurisprudence constante,
+les relations visées par l'art. 8 CEDH sont avant tout celles qui concernent la famille dite
+nucléaire, soit celles qui existent entre époux ainsi qu'entre parents et enfants mineurs vivant
+en ménage commun (ATF 144 II 1 consid. 6.1; ATF 135 I 143 consid. 1.3.2).
+Tous les immigrés établis, indépendamment de la durée de leur résidence dans
+le pays dont ils sont censés être expulsés, n'ont pas nécessairement une "vie
+familiale" au sens de l'art. 8 CEDH. Toutefois, dès lors que cette disposition protège
+également le droit de nouer et d'entretenir des liens avec ses semblables et avec le monde extérieur
+et qu'il englobe parfois des aspects de l'identité sociale d'un individu, il faut accepter que l'ensemble
+des liens sociaux entre les immigrés établis et la communauté dans laquelle ils vivent
+fasse partie intégrante de la notion de "vie privée" (TF 6B_612/2018 du 22 août
+2018 consid. 2.2). Selon la jurisprudence, pour se prévaloir du respect au droit de sa vie privée
+au sens de l'art. 8 par. 1 CEDH, l'étranger doit établir l'existence de liens sociaux et professionnels
+spécialement intenses avec la Suisse, notablement supérieurs à ceux qui résultent
+d'une intégration ordinaire (ATF 134 II 10 consid. 4.3; TF 6B_695/2018 du 15 novembre 2018 consid.
+4.3). Il y a lieu de procéder à une pesée des intérêts en présence, en
+considérant la durée du séjour en Suisse comme un élément parmi d'autres et
+en n'accordant qu'un faible poids aux années passées en Suisse dans l'illégalité,
+en prison ou au bénéfice d'une simple tolérance (ATF 134 II 10 consid. 4.3; TF 6B_695/2018
+du 15 novembre 2018 consid. 4.3).
+En recourant à la notion de cas de rigueur dans le cadre de l'art. 66a al. 2 CP,
+le législateur a fait usage d'un concept ancré depuis longtemps dans le droit des étrangers
+(cf. art. 30 al. 1 let. b ou 50 al. 1 let. b de la loi fédérale sur les étrangers [LEtr;
+RS 142.20], ainsi que l'art. 14 de la loi sur l'asile [LAsi; RS 142.31]). Compte tenu également
+du lien étroit entre l'expulsion pénale et les mesures du droit des étrangers, il est
+justifié de s'inspirer, de manière générale, des critères prévus par l'art.
+31 al. 1 de l'ordonnance relative à l'admission, au séjour et à l'exercice d'une activité
+lucrative (OASA; RS 142.201) et de la jurisprudence y relative, dans le cadre de l'application de l'art.
+66a al. 2 CP. L'art. 31 al. 1 OASA prévoit qu'une autorisation de séjour peut être octroyée
+dans les cas individuels d'extrême gravité. Elle commande de tenir compte notamment de l'intégration
+du requérant, du respect de l'ordre juridique suisse par le requérant, de la situation familiale,
+particulièrement de la période de scolarisation et de la durée de la scolarité des
+enfants, de la situation financière ainsi que de la volonté de prendre part à la vie économique
+et d'acquérir une formation, de la durée de la présence en Suisse, de l'état de santé
+ainsi que des possibilités de réintégration dans l'Etat de provenance. Comme la liste
+de l'art. 31 al. 1 OASA n'est pas exhaustive et que l'expulsion relève du droit pénal,
+le juge devra également, dans l'examen du cas de rigueur, tenir compte des perspectives de réinsertion
+sociale du condamné (TF 6B_371/2018 du 21 août 2018 consid. 2.4 et 2.5 et les références
+citées).
+4.2.4
+Dans
+l'hypothèse où la personne peut se prévaloir d'une situation personnelle grave, il convient
+encore de déterminer si l'intérêt privé du recourant à demeurer en Suisse pourrait
+l'emporter sur les intérêts publics présidant à son expulsion. Cet examen implique
+en particulier de déterminer si la mesure litigieuse respecte le principe de la proportionnalité
+découlant des art. 5 al. 2 Cst. et 8 par. 2 CEDH (TF 6B_1078/2018 du 7 novembre 2018
+consid. 1.5, TF 6B_724/2018 du 30 octobre 2018 consid. 2.5; TF 6B_371/2018 du 21 août 2018
+consid. 3.2).
+4.3
+En
+l’espèce, A.Z.________ est arrivé en Suisse en 2016 et n'y a aucune attache socio-professionnelle,
+à l'exception de sa proche famille. Son intégration est mauvaise. Il n'est pas capable de s'exprimer
+correctement en français et il n'a jamais travaillé en Suisse. Par contre, il a longuement
+vécu en Afghanistan et en Iran. Il s'est marié religieusement dans le premier pays et a eu
+deux enfants dans le second. L’état de santé invoqué par l’appelant ne constitue
+pas un motif suffisant pour renoncer à son expulsion, car ses troubles psychiques sont liés
+à la consommation abusive de produits stupéfiants et d’alcool. Or, s’il est renvoyé
+dans un pays de religion musulmane, cette consommation abusive ne sera plus possible. L’appelant
+se prévaut en outre de la présence de sa famille en Suisse, mais chacun des membres de celle-ci
+a été victime d'infractions violentes de sa part, au point qu'aucun d'entre eux ne veut le
+revoir, ni avoir de contacts avec lui (cf. jugt. pp. 15 et 16). Son comportement a conduit à
+l'éclatement de la cellule familiale. L’appelant n’entretient ainsi plus avec les membres
+de sa famille une relation suffisamment étroite pour s’en prévaloir. Ainsi, les liens
+du prévenu avec la Suisse sont insuffisants pour considérer que son expulsion consacrerait
+un cas de rigueur. La seconde condition cumulative de l'art. 66a al. 2 CP n’est non plus pas remplie,
+car l'intérêt public à l'expulser pour des infractions graves l'emporte sur ses intérêts
+privés à demeurer en Suisse.
+C’est en vain que l’appelant invoque les risques d’un renvoi en Afghanistan, car il
+ne rend aucunement vraisemblable qu’il y courrait un danger, se bornant à affirmer aux débats
+d’appel qu’il n’aurait aucun avenir dans ce pays. De toute manière, il faut admettre
+que l’appelant a également la nationalité iranienne, de sorte qu’un renvoi dans
+ce pays devra être également examiné. De toute manière, ces questions doivent être
+tranchées par l’autorité qui sera chargée d’exécuter le renvoi.
+L’expulsion d’A.Z.________ du territoire suisse pour une durée de 10 ans doit dès
+lors être confirmée.
+5.
+5.1
+Au
+vu de ce qui précède, l'appel d'A.Z.________ doit être rejeté et le jugement entrepris
+confirmé.
+5.2
+Conformément à
+l'art. 54 CP, la détention subie par l'appelant depuis le jugement de première instance sera
+déduite de la peine infligée et son maintien en détention pour des motifs de sûreté
+sera ordonné pour garantir l'exécution de la peine et de la mesure, compte tenu du risque de
+récidive qu'il présente (art. 221 al. 1 let. c CPP).
+5.3
+Selon l'art. 135 al. 1
+CPP, le défenseur d'office est indemnisé conformément au tarif des avocats de la Confédération
+ou du canton du for du procès. Dans le Canton de Vaud, le tarif horaire de l’avocat d’office
+breveté est fixé à 180 fr., TVA et débours forfaitaires en sus (art. 2 al. 1,
+3 et 3bis RAJ [règlement sur l'assistance judiciaire en matière civile du 7 décembre 2010 ;
+BLV 211.02.3], applicable par renvoi de l'art. 26b TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]).
+Il y a lieu de s’écarter
+de la liste des opérations produite le 11 janvier 2021 par Me Olivier Bloch (P. 134), qui consacre
+une durée d’opérations excessive et non justifiée par la complexité de la cause,
+limitée à la question du sursis et de l’expulsion en appel. L’annonce d’appel
+sera indemnisée à hauteur de 10 minutes au lieu des 20 annoncées. La durée consacrée
+aux recherches et à la rédaction de la déclaration d’appel sera arrêtée
+à 6 heures au lieu de 13 heures 30. Pour ce qui est de la préparation de l’audience,
+y compris l’entretien avec le client du 6 janvier 2021, on admettra 3 heures 20. On ajoutera 1
+heure pour la participation à l’audience d’appel. Pour le surplus, il ne sera pas tenu
+compte des heures restantes consacrées à la rédaction de la correspondance, qui représente
+pour partie du travail de secrétariat (copie aux autres parties) ou qui n’étaient pas
+nécessaires (lettres explicatives au client). C'est ainsi une indemnité de 2'334 fr. 70 correspondant
+à 10 heures 30 d'activité au tarif horaire de 180 fr., par 1'890 fr., à 2% de débours
+forfaitaires, par 37 fr. 80, à 240 fr. de vacation et à 7,7% de TVA, par 166 fr. 90, qui
+sera allouée à Me Olivier Bloch pour la procédure d'appel.
+Vu l'issue de la cause,
+les frais de la procédure d'appel, par 4'494 fr. 70, constitués en l'espèce des émoluments
+de jugement et d'audience, par 2'160 fr. (art. 21 al. 1 et 2 TFIP), ainsi que de l'indemnité
+allouée au défenseur d'office, seront mis à la charge d'A.Z.________, qui succombe (art.
+428 al. 1 CPP).
+A.Z.________ ne sera tenu
+de rembourser à l'Etat l'indemnité allouée à son défenseur d'office que lorsque
+sa situation financière le permettra (art. 135 al. 4 let. a CPP).
+Par
+ces motifs,
+la
+Cour d’appel pénale,
+vu
+l'art. 219 al. 1 CP,
+appliquant
+les art. 19 al. 2, 34, 40, 47, 49 al. 1, 51, 63, 66a al. 1 let. h, 106, 123 ch. 1 et 2 al. 2 et 5, 126
+al. 1 et 2 let. a et c, 177 al. 1, 180 al. 1 et 2 let. b,
+181
+ad 22 al. 1, 190 al. 1 et 197 al. 1 CP, 19a ch. 1 LStup, et
+398
+ss CPP,
+prononce
+:
+I.
+L’appel est
+rejeté.
+II.
+Le jugement rendu le 7 septembre 2020 par le Tribunal correctionnel de l’arrondissement de l’Est
+vaudois est confirmé selon le dispositif suivant :
+" I.
+libère A.Z.________ de l'infraction de violation du devoir d'assistance ou d'éducation;
+II.
+condamne A.Z.________ pour lésions corporelles simples qualifiées, voies de fait qualifiées,
+injure, menaces, menaces qualifiées, tentative de contrainte, viol, pornographie et contravention
+à la Loi fédérale sur les stupéfiants à une peine privative de liberté
+de 30 (trente) mois ferme, sous déduction de 369 (trois cent soixante-neuf) jours de détention
+provisoire, 48 (quarante-huit) jours de détention pour des motifs de sûretés et 21 (vingt-et-un)
+jours d'exécution anticipée de peine, à une peine-pécuniaire de 20 (vingt) jours-amende
+à 10 (dix) francs et à une amende de 600 (six cents) francs, la peine privative de liberté
+de substitution étant de 6 (six) jours;
+III.
+maintient A.Z.________ en détention en exécution anticipée de peine;
+IV.
+constate qu'A.Z.________ a été détenu dans des conditions de détentions illicites
+durant 12 (douze) jours et ordonne que 6 (six) jours soient déduits de la peine fixée sous
+chiffre II. – ci-dessus;
+V.
+ordonne la mise en œuvre d'un traitement psychothérapeutique ambulatoire en faveur d'A.Z.________
+;
+VI.
+ordonne l'expulsion d'A.Z.________ du territoire suisse pour une durée de 10 (dix) ans;
+VII. dit qu'A.Z.________
+est le débiteur des montants suivants:
+-
+10'000 (dix mille) francs en
+faveur de D.Z.________, valeur échue à titre d'indemnité pour tort moral;
+-
+4'000 (quatre mille) francs
+avec intérêts à 5% l'an dès le 27 juin 2019 en faveur de B.Z.________ à
+titre d'indemnité pour tort moral;
+-
+5'000 (cinq mille) francs avec
+intérêt à 5% l'an dès le 27 juin 2019 en faveur de C.Z.________ à titre d'indemnité
+pour tort moral;
+et
+leur donne acte de leurs réserves civiles;
+VIII. fixe l'indemnité
+due à Me Olivier Bloch, défenseur d'office d'A.Z.________ à 16'155 fr. 05, TVA et débours
+compris;
+IX.
+fixe l'indemnité
+due à Me Natasa Djurdjevac Heinzer, conseil d’office de D.Z.________, à 8'775 fr. 65,
+TVA et débours compris, sous déduction de 2'000 francs d'ores et déjà versés;
+X.
+fixe l'indemnité
+de Me Roxane Chauvet-Mingard, conseil d'office de B.Z.________ et C.Z.________, à 4'645 fr.
+05, TVA et débours compris;
+XI.
+ordonne le maintien au
+dossier à titre de pièces à conviction du DVD séquestré sous fiche n° [...];
+XII.
+met les frais, par 49'981 fr. 40, y compris les indemnités fixées sous chiffres VIII.- à
+X.- ci-dessus, à la charge d'A.Z.________ ;
+XIII.
+dit que le remboursement à l'Etat de l'indemnité des défenseur et conseils d'office ne
+sera exigé que si la situation financière du condamné le permet."
+III.
+La détention subie depuis le jugement de
+première instance est déduite.
+IV.
+Le maintien en détention d’A.Z.________
+à titre de sûreté est ordonné.
+V.
+Une indemnité de défenseur d'office
+pour la procédure d'appel d'un montant de 2'334 fr. 70 (deux mille trois cent trente-quatre francs
+et septante centimes), TVA et débours inclus, est allouée à Me Olivier Bloch.
+VI.
+Les frais d'appel, par 4’494 fr. 70 (quatre
+mille quatre cent nonante-quatre francs et septante centimes), y compris l'indemnité allouée
+au défenseur au chiffre V ci-dessus, sont mis à la charge d'A.Z.________.
+VII.
+A.Z.________ ne sera tenu de rembourser à
+l'Etat le montant de l’indemnité en faveur de son défenseur d'office prévu au chiffre
+V ci-dessus que lorsque sa situation financière le permettra.
+VIII.
+Le jugement motivé est exécutoire.
+Le
+président :               La greffière
+:
+Du
+La décision qui précède, dont la rédaction a été approuvée à
+huis clos, est notifiée, par l'envoi d'une copie complète, à :
+-
+Me Olivier Bloch, avocat (pour A.Z.________),
+-
+Me Natasa Djurdjevac, avocate (pour D.Z.________),
+-
+Me Roxane Chauvet-Mingard, avocate (pour C.Z.________ et B.Z.________),
+-
+Ministère public central,
+et communiquée à :
+-
+Mme la Présidente du Tribunal correctionnel de l'arrondissement de l'Est vaudois,
+-
+Mme la Procureure de l'arrondissement  de l'Est vaudois,
+-
+Office d'exécution des peines,
+-
+Direction de la prison de la Croisée,
+-
+Service de la population,
+par
+l'envoi de photocopies.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, la présente décision peut, en tant qu'elle concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [Loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71].
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière
