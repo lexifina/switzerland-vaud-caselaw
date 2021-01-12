@@ -1,0 +1,258 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___33"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 33"
+decided: "2021-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8067907"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-078.md", "switzerland/bund/acts/312.0/art-091.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2021 / 33
+
+## Regeste
+
+MISE AU SECRET, DÉTENTION{INCARCÉRATION}, RÉGIME DE LA DÉTENTION, MESURE DISCIPLINAIRE | 120 al. 1 RSPC, 122 RSPC
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2021 Décision / 2021 / 33
+
+MISE AU SECRET, DÉTENTION{INCARCÉRATION}, RÉGIME DE LA DÉTENTION, MESURE DISCIPLINAIRE | 120 al. 1 RSPC, 122 RSPC
+
+TRIBUNAL
+CANTONAL
+26
+OEP/PPL/65502/NVD
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+120 al. 1 et 122 RSPC
+Statuant sur le recours interjeté le 30 décembre 2020 par
+L.________
+contre la décision rendue le 18 décembre 2020 par l’Office d’exécution des
+peines dans la cause
+n° OEP/PPL/65502/NVD
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Par jugement du 10 août 2020 et prononcé complémentaire du 25 août 2020, le
+Tribunal correctionnel de l’arrondissement de Lausanne a notamment constaté que L.________
+s’était rendu coupable de vol par métier, dommages à la propriété, utilisation
+frauduleuse d’un ordinateur d’importance mineure, violation de domicile, faux dans les certificats,
+délits à la LEI (loi fédérale sur les étrangers et l'intégration du 16
+décembre 2005 ; RS 142.20), délit à la LArm (loi fédérale sur les armes,
+les accessoires d’armes et les munitions du 20 juin 1997 ; RS 514.54) et contravention à
+la LStup (loi fédérale sur les stupéfiants et les substances psychotropes du 3 octobre
+1951 ; RS 812.121), l’a condamné à 2 ans de peine privative de liberté, sous
+déduction de 198 jours de détention avant jugement, et à une amende de 600 fr., la peine
+privative de liberté de substitution étant de 12 jours, a constaté qu’il avait été
+détenu durant 5 jours dans des conditions illicites et a ordonné que 3 jours soient déduits
+de la peine privative de liberté précitée et a ordonné son expulsion du territoire
+suisse pour une durée de 5 ans.
+b)
+Par ordonnance pénale du 7 décembre 2020, le Ministère public de l’arrondissement
+du Nord vaudois a constaté que L.________ s’était rendu coupable de dommages à la
+propriété et l’a condamné à une peine privative de liberté de 60 jours,
+peine complémentaire au jugement du 25 août 2020 précité.
+c)
+L.________ a été incarcéré à la prison du Bois-Mermet entre le 30 janvier 2020
+et le 8 juillet 2020, puis à la prison de la Croisée entre le 8 juillet 2020 et le 4 septembre
+2020, puis aux Etablissements de la Plaine de l’Orbe (ci-après : EPO) depuis le 4 septembre
+2020, où il exécute actuellement ses peines privatives de liberté.
+d)
+Entre le 16 mai 2020 et le 16 décembre 2020, L.________ a été sanctionné à de
+très nombreuses reprises par les établissements pénitentiaires dans lesquels il a été
+et il est actuellement détenu, notamment pour atteinte à l’honneur, fraude et trafic,
+consommation de produits prohibés, dommages à la propriété, refus d’obtempérer,
+inobservation des règlements et directives, menaces, atteinte au patrimoine et atteinte à l’intégrité
+physique.
+e)
+Par courriel du 5 octobre 2020, la direction des EPO a informé l’Office d’exécution
+des peines de la dégradation du comportement de L.________, de son inobservation des règles,
+de ses propos menaçants et hétéro-agressifs envers le personnel de détention ainsi
+que de son attitude exponentielle en termes de risques hétéro-agressifs et requérant,
+au vu des risques graves et imminents qu’il présentait pour le personnel, son placement en
+régime d’isolement cellulaire à titre de sûreté à sa sortie des arrêts
+en date du 19 octobre 2020.
+Par décision du 16 octobre 2020, l’Office d’exécution des peines a notamment ordonné
+son placement en isolement cellulaire à titre de sûreté pour une durée de deux mois,
+soit jusqu’au 19 décembre 2020.
+Par courrier du 25 novembre 2020, l’ancien défenseur d’office de L.________ a indiqué
+à l’Office d’exécution des peines avoir reçu de nombreux courriers injurieux
+de la part de ce dernier.
+Par rapport du 30 novembre 2020 destiné au chef de l’Office d’exécution des peines,
+la direction des EPO a indiqué que L.________ restait adéquat dans la relation avec le personnel
+de surveillance. Il a cependant été fait état d’un épisode survenu le 24 novembre
+2020 durant lequel l’intéressé avait cassé un manche à balai ainsi que le matériel
+de sa cellule, alors qu’il se trouvait aux arrêts disciplinaires. Compte tenu de la dégradation
+de la situation, la direction des EPO a indiqué qu’un élargissement du régime de
+détention n’était pas envisagé.
+Par courrier du 5 décembre 2020 adressé à la direction des EPO, L.________ a requis la
+levée de la mesure d’isolement en régime cellulaire et s’est engagé à
+collaborer avec les différents intervenants.
+B.
+Dans son rapport du 9 décembre 2020, la direction
+des EPO a indiqué que, le 1
+er
+décembre 2020, L.________ avait détérioré un appareil dans la salle de sport, cassé
+le téléphone, projeté des excréments et étendu ceux-ci sur la porte de sa cellule
+et détérioré celle-ci en donnant des coups sur le radiateur, en frappant contre les vitres,
+occasionnant des impacts, et bloqué l’accès au personnel de surveillance. Au vu de la
+poursuite du non-respect du cadre de la part du détenu, la direction des EPO a requis la prolongation
+d’un mois de l’isolement cellulaire à titre de sûreté.
+Par courrier du 13 décembre 2020 adressé à la direction des EPO, L.________ a notamment
+fait part de son mécontentement concernant son régime de détention actuel et de son lieu
+de détention.
+Par décision du 18 décembre 2020, l’Office d’exécution des peines a notamment
+ordonné la poursuite du placement de L.________ en isolement cellulaire à titre de sûreté,
+dès le 20 décembre 2020, pour une durée d’un mois, soit jusqu’au 20 janvier
+2021.
+L’Office d’exécution des peines a notamment considéré que, depuis le début
+de son incarcération aux EPO, L.________ avait fait l’objet de nombreuses sanctions disciplinaires
+et que son placement en isolement cellulaire ne l’avait pas empêché de commettre de nouveaux
+manquements graves, qui s’inscrivaient dans la durée, démontrant une absence de remise
+en question. Son impulsivité, ses propos, son aversion envers les collaborateurs du Service pénitentiaire
+et ses comportements violents et injurieux récurrents faisaient craindre un risque de passage à
+l’acte violent et imminent qui pourrait toucher l’intégrité physique d’autrui.
+Aucune amélioration de son comportement ne pouvait en outre être constatée à ce jour.
+L’autorité a ainsi estimé nécessaire de prolonger le placement du détenu en
+isolement cellulaire, afin qu’il démontre être capable d’adopter un comportement
+durablement adéquat au sein des EPO, face à tous les intervenants assurant sa prise en charge.
+Dans son rapport du 28 décembre 2020, la direction des EPO a indiqué que, le 14 décembre
+2020, L.________ avait occasionné des dommages à la bâche de son matelas ; une décision
+de sanction devait être rendue à cet égard. Hormis cet incident, le comportement au cellulaire
+était adéquat, l’intéressé ne montrant pas d’agressivité envers
+le personnel.
+C.
+Par acte remis à l’établissement
+carcéral le 30 décembre 2020, L.________ a interjeté recours contre la décision de
+l’Office d’exécution des peines du 18 décembre 2020 auprès de la Chambre des
+recours pénale, en concluant implicitement à son annulation.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+Aux termes de l'art. 38 al. 1 LEP (loi sur l’exécution
+des condamnations pénales du 4 juillet 2006 ; BLV 340.01), les décisions rendues par l'Office
+d’exécution des peines – lequel est compétent pour mettre en œuvre l’exécution
+des condamnations pénales et ordonner une détention cellulaire de sûreté (art. 8
+et 19 al. 1 let. g LEP) – peuvent faire l'objet d'un recours auprès du Tribunal cantonal.
+Selon l'art. 38 al. 2 LEP, la procédure est régie par les dispositions du CPP (Code de procédure
+pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours. Le recours doit ainsi être
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (art. 384 let. b et 396 al. 1 CPP), à l’autorité de recours qui, dans le
+canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise
+d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01]) ;
+art. 80 LOJV [loi vaudoise d'organisation judiciaire du 12 septembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, interjeté dans le délai légal (art. 91 al. 2 CPP), auprès
+de l'autorité compétente, par un détenu qui a qualité pour recourir (art. 382 al.
+1 CPP) et dans les formes prescrite (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant ne conteste pas son comportement
+dans sa globalité. Il admet en particulier avoir écrit le 2 octobre 2020 un courrier attentatoire
+à l’honneur, mais selon lui nullement menaçant. Il allègue également que les
+gestes menaçants qui lui sont reprochés auraient en réalité été commis
+par un agent de détention à son endroit. Il requiert à cet égard une enquête
+et la production des vidéos de surveillance.
+2.2
+La détention cellulaire sous la forme de
+l’isolement peut être ordonnée à titre de sanction (art. 78 let. c CP [Code pénal
+suisse du 21 décembre 1937 ; RS 311.0]).
+Aux termes de l’art. 120 al. 1 RSPC (règlement sur le statut des personnes condamnées
+exécutant une peine privative de liberté ou une mesure du 16 août 2017 ; BLV 340.01.1),
+peuvent faire l'objet d'un isolement cellulaire à titre de sûreté, les personnes condamnées
+qui présentent des risques graves et imminents pour la collectivité, les autres personnes condamnées,
+le personnel de l'établissement ou leur propre personne, ainsi que celles qui présentent un
+danger de fuite particulièrement élevé.
+En vertu de l’art. 122 RSPC, l'isolement cellulaire à titre de sûreté est ordonné
+pour une durée maximale de 3 mois (al. 1). A titre exceptionnel et si la situation l'exige, la durée
+maximale de l'alinéa 1 peut être portée à 6 mois. Dans ce cas, l'autorité doit
+disposer au préalable d'une évaluation établie par une chargée d'évaluation
+criminologique ou d'un avis de la Commission interdisciplinaire consultative concernant les délinquants
+nécessitant une prise en charge psychiatrique justifiant le placement (al. 2). La décision
+peut être renouvelée. Dans ce cas, la direction de l'établissement adresse un rapport
+à l'autorité dont la personne condamnée dépend au plus tard 2 semaines avant l'échéance
+prévue de l'isolement cellulaire, pour décision (al. 3).
+2.3
+En l’espèce, l’isolement cellulaire
+à titre de sûreté a débuté le 19 octobre 2020 et a été prolongé
+jusqu’au 20 janvier 2021 sur la base d’un rapport complémentaire déposé par
+la direction des EPO.
+Il ressort du dossier que l’attitude du recourant n’a pas été correcte durant la
+première période d’isolement, puisque l’on déplore divers incidents faisant
+sérieusement craindre un danger pour autrui. Même s’il conteste que son courrier du 2
+octobre 2020 adressé à la directrice adjointe des EPO fût empreint de menaces, il a admis
+que cette missive contenait des propos à caractère sexuel déplacés et attentatoires
+à l’honneur. Quand bien même les menaces en question ne seraient pas avérées,
+son comportement (dommages à la propriété, injures, blocage d’accès à
+sa cellule, projection d’excréments, non-respect des directives et règlements) récurrent,
+au vu des très nombreuses sanctions dont il a fait l’objet jusqu’à récemment,
+suffit à justifier la prolongation ordonnée. Il n’y a donc pas lieu de procéder
+à des mesures d’instruction complémentaires.
+3.
+Au vu de ce qui précède, le recours doit être rejeté et l’ordonnance attaquée
+confirmée.
+Les frais d'arrêt, par 770 fr. (art. 422 al. 1 CPP et 20 al. 1 TFIP [tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+seront mis à la charge du recourant, qui succombe (art. 428
+al. 1
+CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 18 décembre 2020 est confirmée.
+III.
+Les frais d’arrêt, par 770 fr. (sept
+cent septante francs), sont mis à la charge de L.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+L.________,
+-
+Ministère public central,
+et communiqué à :
+-
+Office d’exécution des peines,
+-
+Direction des Etablissements de la Plaine de l’Orbe,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
