@@ -1,0 +1,688 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___20"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 20"
+decided: "2021-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8061068"
+cites_law: ["switzerland/bund/acts/0.101/art-003.md", "switzerland/bund/acts/101/art-007.md", "switzerland/bund/acts/101/art-010.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-003.md", "switzerland/bund/acts/312.0/art-132.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-136.md", "switzerland/bund/acts/312.0/art-227.md", "switzerland/bund/acts/312.0/art-235.md", "switzerland/bund/acts/312.0/art-381.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 20
+
+## Regeste
+
+DÉTENTION ILLICITE | 3 CEDH
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2021 Décision / 2021 / 20
+
+DÉTENTION ILLICITE | 3 CEDH
+
+TRIBUNAL
+CANTONAL
+21
+PC20.017071-CPB
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+M.
+Krieger et Mme Byrde, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+3 CEDH
+Statuant sur le recours interjeté le 30 décembre 2020 par
+B.________
+contre l’ordonnance rendue le 22 décembre 2020 par le Tribunal des mesures de contrainte dans
+la cause
+n° PC20.017071-CPB
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+B.________ a été renvoyé en jugement
+devant le Tribunal correctionnel de l’arrondissement de la Broye et du Nord vaudois par acte d’accusation
+du 23 septembre 2020. L’audience de jugement est fixée aux 14 et 15 janvier 2021. Dans le
+cadre de cette procédure, le prévenu a été arrêté le 10 octobre 2019, puis
+détenu à la zone carcérale du Centre de la Blécherette du 10 au 15 octobre 2019 puis,
+après un court séjour à la Prison de la Croisée, il a été détenu provisoirement
+à la Prison du Bois-Mermet dès le 21 octobre 2019.
+B.
+a)
+Le 5 octobre 2020, B.________, par son défenseur
+d’office, a adressé au Tribunal des mesures de contrainte une demande tendant à ce que
+soit constaté le caractère illicite de ses conditions de détention, pour la période
+du 10 octobre 2019 jusqu’à tout le moins le 15 janvier 2021. Il a en substance invoqué
+un confinement dans des cellules dont la surface à disposition était inférieure à
+4 m
+2
+,
+avec un ou plusieurs codétenus, une absence de séparation des sanitaires du reste de la cellule
+par une cloison, un défaut lié à des températures excessives et à une aération
+insuffisante, une limitation des activités extérieures, des visites, des douches et du travail
+liée aux restrictions sanitaires dues à la pandémie du Covid-19.
+b)
+Le
+19 octobre 2020, la direction de la Prison du Bois-Mermet a déposé un rapport dont il résulte
+que B.________ a occupé la cellule double n
+o
+231 du 21 octobre 2019 au 22 novembre 2019, la cellule quadruple n
+o
+236 du 22 novembre 2019 au 5 septembre 2020 et la cellule double n
+o
+229 depuis le
+5 septembre 2020. Ce rapport
+précise en outre que l’établissement ne dispose pas d’un relevé des températures
+des cellules, qui bénéficient d’un chauffage au sol ou sont équipées de radiateurs,
+que l’aération se fait par l’ouverture de la fenêtre par laquelle entre la lumière
+et qu’un ventilateur est à disposition dans toutes les cellules et pour chaque détenu.
+Les sanitaires sont séparés du reste de la cellule par un rideau ignifuge, excepté dans
+la cellule n
+o
+236, où une porte sépare les locaux. Le
+6
+juillet 2020, B.________ avait décliné un poste de travail à la bibliothèque, refusant
+de changer de cellule. Du 21 octobre 2019 au 6 septembre 2020, le prénommé n’ayant pas
+d’occupation professionnelle, bénéficiait d’une heure de promenade par jour et
+de quatre séances d’une heure de sport par semaine, et avait la possibilité de participer
+aux activités socio-éducatives ou de se rendre à la bibliothèque, les rencontres
+avec la Fondation vaudoise de probation, les visites ainsi que les téléphones pouvant également
+être comptabilisés comme temps passé hors de cellule. Le 7 septembre 2020, l’intéressé
+avait débuté une activité à l’atelier vidéo à 50% (6 semaines de
+2 jours de travail puis 6 semaines de 3 jours de travail) et œuvrait en alternance ou non avec son
+codétenu de cellule (horaires : 7h45-11h30 puis 13h45-16h30), plus une demi-heure de travail
+le samedi et le dimanche. Les détenus travailleurs avaient également droit chaque jour à
+une heure de promenade ainsi qu’à trois séries de sport par semaine d’une durée
+de
+45 minutes. Depuis le début de la
+crise du Covid-19 et jusqu’au 10 mai 2019, les visites avaient été interrompues et remplacées
+par des échanges Skype. Les personne en détention avant jugement avaient droit, pendant cette
+période, à
+2 appels téléphoniques
+par semaine, limités à 15 minutes par appel, au lieu d’un appel par semaine et d’un
+échange Skype. Les programmes occupationnels et activités socio-éducatives avaient été
+restreints durant la pandémie, puis avaient repris normalement le 8 juin 2020. Dès lors, cinq
+séries de sport hebdomadaires avaient été octroyées aux personnes détenues depuis
+le mois de mars, jusqu’au
+19 juin
+2020. Trois douches par semaine d’une durée de 10 minutes étaient proposées aux
+personnes détenues, les lundis, mercredis et vendredis. Si la personne pratiquait un sport hors
+de ces trois jours, elle avait le droit à une douche supplémentaire, de même que si elle
+recevait une visite durant le week-end. En outre, un détenu qui travaillait avait droit à une
+douche après sa journée de travail. L’intéressé portait ses propres vêtements mais
+la buanderie prêtait des habits de rechange pour les personnes nécessiteuses. La direction
+de la Prison du Bois-Mermet a également produit plusieurs documents, dont le plan des cellules occupées
+par le détenu et un calcul de leur surface.
+c)
+Le
+5 novembre 2020, B.________ a déposé des déterminations et a confirmé les conclusions
+prises dans sa demande du 5 octobre 2020. Il a notamment exposé qu’il avait dû décliner
+l’offre d’un poste de travail le 6 juillet 2020 parce que cela impliquait qu’il partage
+sa cellule avec un codétenu avec lequel il était susceptible de ne pas s’entendre, que
+dans la cellule n
+o
+236, le lavabo n’était pas séparé du reste de la cellule par la porte, que le ventilateur
+mis à disposition des détenus était insuffisant pour pallier les problèmes d’aération,
+que dans la cellule n
+o
+236 les rangements seraient insuffisants, de même que les mesures de substitution mises en place
+en réponse aux restrictions imposées par la crise sanitaire, et que l’éclairage
+dans les cellules serait insuffisant pour lire. Le requérant s’est encore livré à
+son propre calcul des surfaces des cellules qu’il a occupées, en y déduisant la surface
+dédiée au mobilier.
+d)
+Par
+ordonnance du 22 décembre 2020, le Tribunal des mesures de contrainte a constaté que les conditions
+dans lesquelles se déroulait la détention de B.________, à compter du 21 octobre 2019,
+à la Prison du Bois-Mermet, étaient licites (I) et a dit que les frais de sa décision,
+par 1'916 fr. 25, comprenant l’indemnité due à son défenseur d’office, par
+1'391 fr. 25, débours et TVA compris, étaient mis à sa charge (II).
+Cette autorité a tout d’abord constaté que les conditions de détention de B.________
+à la zone carcérale du Centre de la Blécherette étaient notoirement illicites au-delà
+des 48 premières heures, de sorte qu’il n’y avait nullement besoin de constater ce fait.
+Quant à la détention de l’intéressé à la Prison de la Croisée du
+15 au 21 octobre 2019, il ne ressortait pas du dossier que ce dernier se serait plaint de ce que cette
+détention se serait déroulée dans des conditions illicites.
+A la Prison du Bois-Mermet, le détenu avait bénéficié d’une surface individuelle
+de 3,92 m
+2
+dans la cellule n
+o
+231, de 5,825 m
+2
+dans la cellule n
+o
+236 et de 3,825 m
+2
+dans la cellule n
+o
+229. B.________ avait ainsi séjourné durant une période inférieure à trois mois
+dans la cellule n
+o
+231 et sa détention au sein de cette dernière n’était pas illicite. Le fait que
+les sanitaires n’étaient pas séparés du reste de la cellule par une cloison, que
+l’isolation thermique du bâtiment et la luminosité soient mauvaises, ainsi que les autres
+griefs d’incommodités, étaient des circonstances à elles seules insuffisantes pour
+fonder un constat d’illicéité. B.________ n’avait en outre pas soutenu avoir enduré
+de souffrance particulière, de sorte qu’il n’y avait pas lieu d’examiner plus
+avant les autres griefs invoqués, qui ne constituaient en tous les cas pas en soi des conditions
+de détention illicites. Sa détention ne s’était donc pas déroulée dans
+des conditions illicites du 21 octobre 2019 au 5 septembre 2020.
+B.________ était détenu dans la cellule n
+o
+229 depuis le
+5 septembre 2020, soit depuis
+109 jours, ce qui pouvait être considéré comme une longue période. Les conditions
+liées à la surface et à la durée étant remplies s’agissant de cette cellule
+(réd. : moins de 4 m
+2
+,
+durant plus de trois mois), il convenait d’analyser si la détention avait été rendue
+exagérément pénible par la présence concomitante de facteurs aggravants. L’éclairage
+insuffisant de la cellule pour la lecture et le travail constituait une circonstance qui n’était
+pas optimale mais qui ne devait pas aggraver de manière insoutenable les conditions de détention.
+Cela étant, l’intéressé avait pu intégrer l’atelier vidéo à
+50% dès le 7 septembre 2020, en alternance ou non avec son codétenu. Il avait donc passé
+alternativement entre 13h et 19h30 par semaine au travail. Il disposait seul de sa cellule pendant à
+tout le moins huit heures environ par semaine. Venaient encore s’ajouter à cela une heure
+de promenade quotidienne, trois séances de sport hebdomadaires de 45 minutes, les sorties pour se
+doucher, voire davantage. Le confinement quotidien en cellule depuis que B.________ travaillait était
+ainsi vraisemblablement de l’ordre de 19 heures ou moins. Le fait de passer autant d’heures
+à l’extérieur ou seul dans une cellule double réduisait de manière significative
+le confinement. Pour le surplus, l’absence de cloison pour les sanitaires, le confinement en cellule
+et les problèmes notoirement connus liés à l’isolation, le chauffage et l’aération,
+étaient à elles seules des circonstances insuffisantes pour fonder un constat d’illicéité
+au vu des éléments liés à la durée de l’incarcération et à l’espace
+disponible, qui apparaissaient largement prépondérant par rapport aux autres circonstances
+invoquées par le détenu. Il y avait en outre lieu de relever que l’intéressé
+se limitait à fournir une liste standard d’inconvénients potentiels présentés
+par sa cellule, sans aucune précision particulière (durée, date, intensité de la
+circonstance alléguée). Rien n’indiquait non plus que le prénommé se serait
+plaint auprès de la direction de la prison des circonstances qu’il alléguait, ce qui
+ne les rendait pas suffisamment graves au vu de la jurisprudence de la Chambre des recours pénale.
+Les conditions de détention de B.________ depuis le 21 octobre 2019, bien que difficiles, étaient
+donc licites.
+C.
+Par acte du 30 décembre 2020, B.________
+a recouru contre cette ordonnance, en concluant, avec suite de frais et dépens, à sa réforme
+en ce sens qu’il soit constaté que ses conditions de détention subies depuis le
+21
+octobre 2019 jusqu’au jour du jugement à intervenir étaient illicites et qu’il
+y avait lieu à réparation « sous la forme d’une déduction de la peine
+à intervenir de la totalité de la détention provisoire subie au jour du jugement, augmentée
+de la moitié du temps de détention provisoire subie dans des conditions illicites ».
+Subsidiairement, il a conclu qu’il soit constaté qu’il y avait lieu à réparation
+et à l’allocation d’une indemnité en sa faveur, soit une indemnité d’un
+montant journalier de 100 fr. pour chaque jour passé dans des conditions illicites à la Prison
+du Bois-Mermet. Plus subsidiairement, il a conclu à l’annulation de l’ordonnance attaquée
+et au renvoi de la cause à l’autorité de première instance pour nouvelle instruction
+et nouvelle décision dans le sens des considérants.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Selon l’art. 393 al. 1 let. c CPP (Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0), le recours est recevable
+contre les décisions du Tribunal des mesures de contrainte dans les cas prévus par le code.
+La juridiction investie du contrôle de la détention est le Tribunal des mesures de contrainte,
+auquel il appartient donc d'intervenir en cas d'allégations crédibles de traitement prohibé
+(ATF 140 I 125 consid. 2.1; TF 1B_39/2013
+du 14 février 2013 consid. 3.3;
+JdT
+2013 III 86).
+Le recours doit être
+adressé par écrit, dans un délai de dix jours dès la notification de la décision
+attaquée (cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP),
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[Loi d’introduction du Code de procédure pénale suisse du 19 mai 2009; BLV 312.01]; art.
+80 LOJV [Loi d'organisation judiciaire du
+12
+septembre 1979; BLV 173.01]).
+1.2
+En l'espèce, interjeté
+en temps utile auprès de l'autorité compétente, par le Ministère public qui a qualité
+pour recourir (art. 381 al. 1 CPP), et dans les formes prescrites (art. 385 al. 1 CPP), le recours est
+recevable. En particulier, dès lors que la Cour de céans dispose d’un plein pouvoir d’examen
+en fait et en droit
+(art. 393 al. 2 CPP),
+elle peut examiner si les conditions de détention constatées par le Tribunal des mesures de
+contrainte sont encore actuelles (TF 1B_377/2020 du
+2
+décembre 2020 consid. 2.3). Elle ne saurait en revanche statuer sur une éventuelle réparation,
+faute de compétence; les conclusions en ce sens (III, IV et V) sont irrecevables.
+2.
+Le recourant soutient en résumé avoir
+subi une détention de longue durée dans des cellules n’offrant pas une surface individuelle
+suffisante – y compris dans la cellule n
+o
+236 –, soit inférieure à 4 m
+2
+,
+voire inférieure à 3 m
+2
+en déduisant encore la surface du mobilier, ce qui suffirait selon lui à justifier un constat
+d’illicéité au vu de la jurisprudence cantonale et fédérale. Il fait sa propre
+lecture de la jurisprudence en question, soutient que la surface de l’ameublement des cellules
+devrait être déduite, invoque l’absence de cloison entre les sanitaires et le reste de
+la cellule, se prévaut de températures excessives en été 2020 et d’un défaut
+d’aération des cellules, d’un défaut de lumière à l’intérieur
+de celles-ci qui impliquerait que les détenus devraient utiliser des lampes d’appoint, ainsi
+que de la réduction des activités et des visites depuis mars 2020.
+2.1
+2.1.1
+Au niveau conventionnel, l'art. 3 CEDH (Convention
+de sauvegarde des droits de l’homme et des libertés fondamentales du 4 novembre 1950; RS 0.101),
+prévoit que nul ne peut être soumis à la torture ni à des peines ou traitements inhumains
+ou dégradants. Sur le plan constitutionnel, l'art. 7 Cst. (Constitution fédérale de la
+Confédération suisse du 18 avril 1999; RS 101) prescrit de son côté que la dignité
+humaine doit être respectée et protégée. A teneur de l'art. 10 al. 3 Cst., la torture
+et tout autre traitement ou peine cruels, inhumains ou dégradants sont interdits. Au niveau législatif,
+l'art. 3 al. 1 CPP (Code de procédure pénale suisse du 5 octobre 2007; RS 312.0) rappelle
+le principe du respect de la dignité humaine. L'art. 235 CPP régit l'exécution de
+la détention; il pose le principe général de proportionnalité (al. 1) et précise
+(al. 5) que les cantons règlent les droits et les obligations des prévenus en détention
+(Härri, Basler Kommentar, Schweizerische Strafprozessordnung, 2
+e
+éd., 2014, ad art. 234 et 235 CPP). Dans le canton de Vaud, le RSDAJ (Règlement sur le
+statut des personnes détenues placées en établissement de détention avant jugement
+du 28 novembre 2018; BLV 340.02.5) ne contient aucune disposition précise concernant l'aménagement,
+l'équipement, la dimension des cellules ou la surface dont doit bénéficier chaque détenu
+à l'intérieur de celles-ci.
+2.1.2
+Pour le domaine spécifique de la détention,
+la Suisse a ratifié, le 7 octobre 1988, la Convention européenne de 1987 pour la prévention
+de la torture et des peines ou traitements inhumains ou dégradants (RS 0.106). L'art. 1 de cette
+Convention institue un « Comité européen pour la prévention de la torture et
+des peines ou traitements inhumains ou dégradants » (ci-après : CPT), qui a
+édité certaines normes sur l’espace vital par détenu dans les établissements
+pénitentiaires. Par ailleurs, le Comité des ministres du Conseil de l'Europe, en application
+de l'art. 15 (b) du Statut du Conseil de l'Europe (RS 0.192.030), a adopté le 11 janvier 2006, la
+Recommandation Rec (2006) 2 sur les Règles pénitentiaires européennes (ci-après :
+RPE).
+Les RPE – et a fortiori leur commentaire – ont le caractère de simples directives à
+l’intention des Etats membres du Conseil de l’Europe (Härri, op. cit., n. 6 ad art.
+235 CPP). Le Tribunal fédéral en tient cependant compte dans la concrétisation de la liberté
+personnelle et des autres droits fondamentaux garantis par la Cst. et par la CEDH (ATF 141 I 141 consid.
+6.3.3; ATF 140 I 125 consid. 3.2; ATF 139 IV 41 consid. 3.2; ATF 123 I 112 consid. 4d/cc).
+Pour le Tribunal fédéral,
+même si les mesures privatives de liberté s’accompagnent inévitablement de souffrances
+et d’humiliation, cela n’emporte pas en soi une violation de l’art. 3 CEDH. Pour enfreindre
+cette disposition, les conditions matérielles de détention doivent atteindre un niveau d’humiliation
+ou d’avilissement supérieur à ce qu’emporte habituellement la privation de liberté.
+Cela impose ainsi à l’Etat de s’assurer que tout prisonnier est détenu dans des
+conditions compatibles avec le respect de la dignité humaine, que les modalités de sa détention
+ne le soumettent pas à une détresse ou à une épreuve d’une intensité qui
+excède le niveau inévitable de souffrance inhérent à une telle mesure et que, eu
+égard aux exigences pratiques de l’emprisonnement, sa santé et son bien-être sont
+assurés de manière adéquate (ATF 141 I 141 consid. 6.3.4).
+Le Tribunal fédéral
+a insisté sur l’appréciation globale de toutes les conditions concrètes de détention
+(ATF 141 I 141 précité; ATF 123 I 221
+consid.
+II/1c/cc). En ce qui concerne la violation de l’art. 3 CEDH, il a relevé que le traitement
+dénoncé devait atteindre un minimum de gravité : l’appréciation de ce
+minimum dépend de l’ensemble des données de la cause et notamment de la nature et du
+contexte du traitement ainsi que de sa durée (ATF 139 I 272 consid. 4). Cette durée est en
+effet susceptible de rendre incompatible avec la dignité humaine une situation qui ne le serait
+pas nécessairement sur une courte période (ATF 141 I 141 précité; ATF 140 I 125 consid.
+3.3).
+2.1.3
+S’agissant plus précisément de
+la situation de la prison genevoise de Champ-Dollon, le Tribunal fédéral a jugé qu'en
+cas de surpopulation carcérale, l'occupation d'une cellule dite individuelle par trois détenus
+– chacun disposant d'un espace individuel de 4 m
+2
+,
+restreint du mobilier, – était une condition de détention difficile; elle n'était
+cependant pas constitutive d'une violation de l'art. 3 CEDH et ne représentait pas un traitement
+dégradant portant atteinte à la dignité humaine des prévenus (ATF 140 I 125
+consid. 3.6.3). En revanche, l'occupation d'une cellule dite triple par six détenus avec une surface
+individuelle inférieure à 3,83 m
+2
+– restreinte encore par le mobilier – pouvait constituer une violation de l'art. 3 CEDH si
+elle s'étendait sur une longue période et si elle s'accompagnait d'autres mauvaises conditions
+de détention. Il fallait dès lors considérer la période pendant laquelle l’intéressé
+avait été détenu dans les conditions incriminées, une durée s'approchant de
+trois mois consécutifs – délai que l'on retrouve en matière de contrôle périodique
+de la détention provisoire ou pour des motifs de sûreté (cf. art. 227 al. 7 CPP)
+– apparaissant comme la limite au-delà de laquelle les conditions de détention susmentionnées
+ne pouvaient plus être tolérées (ATF 140 I 125 consid. 3.6.3;
+TF
+6B_1205/2018 du 22 février 2019 consid. 2.1; TF 1B_325/2017 du
+14
+novembre 2017 consid. 3.3; TF 6B_1244/2016 du 31 octobre 2017 consid. 2.1; TF 6B_688/2015 du 19
+mai 2016 consid. 7.2).
+2.1.4
+Depuis lors, le Tribunal fédéral – s'inspirant également de la jurisprudence de
+la Cour européenne des droits de l'homme (cf. arrêts cités à l'ATF 140 I 125
+consid. 3.4; TF 1B_325/2017 précité consid. 3.3) – s'en est tenu au critère
+de la surface individuelle inférieure à 4 m
+2
+(TF 1B_325/2017 précité; TF 1B_394/2016 du 25 avril 2017 consid. 2.2.1). Dans un
+arrêt de principe
+Mursic
+contre Croatie
+du 20 octobre 2016 (§ 110
+à 115), la Grande Chambre de la Cour européenne des droits de l'homme s'est cependant écartée
+de cet ordre de grandeur de 4 m
+2
+,
+déduit des normes établies par le CPT, en retenant qu'une surface de 3 m
+2
+au sol par détenu constituait la norme minimale pertinente (TF 1B_325/2017 précité).
+La Cour européenne des droits de l’homme a par ailleurs relevé que, dans les cas où
+la surpopulation n’était pas importante au point de soulever à elle seule un problème
+de violation de la CEDH, les autres aspects des conditions de la détention devaient être pris
+en compte, comme l’aération disponible, la qualité du chauffage, le respect des règles
+d’hygiène de base et la possibilité d’utiliser les toilettes de manière privée
+(cf. arrêt
+Canali contre
+France
+du 25 avril 2013 §§ 52 et
+53). A cet égard, dans des cas où chaque détenu disposait de 3 à 4 m
+2
+,
+une violation de l’art. 3 CEDH a été retenue parce que le manque d’espace s’accompagnait,
+par exemple, d’un manque de ventilation et de lumière (arrêt
+Babouchkine
+contre Russie
+du 18 octobre 2007 § 44),
+d’un accès limité à la promenade en plein air et d’un confinement en cellule
+(arrêt
+Istvan Gabor Kovacs
+contre Hongrie
+du 17 janvier 2012 § 26).
+Ainsi, la Cour européenne des droits de l’homme a retenu que ce cumul de circonstances conduisait
+à un traitement dégradant (arrêt
+Aleksandr
+Makarov contre Russie
+du 12 mars 2009 §§
+95 à 98).
+En définitive, pour que les conditions matérielles de détention atteignent un niveau d’humiliation
+ou d’avilissement suffisant pour emporter une violation de l’art. 3 CEDH, il faut que la
+surface individuelle nette à disposition dans la cellule soit inférieure à 3 m
+2
+ou que, située entre 3 et 4 m
+2
+,
+elle s’accompagne de circonstances aggravantes, notamment une durée de détention supérieure
+à trois mois, un certain nombre d’heures quotidiennes passées en cellule ou la pénibilité
+des autres conditions matérielles de détention, relatives notamment à l'aération,
+au chauffage, à l’isolation, à la literie, au respect des règles d'hygiène
+de base et à la possibilité d'utiliser les toilettes de manière privée (cf. ATF 140
+I 125 consid. 2 et les références citées; TF 1B_325/2017 précité; TF 6B_456/2015
+du 21 mars 2016 consid. 2.1). En principe, si la surface disponible dépasse 4 m
+2
+,
+les conditions de détention ne sont pas illicites ; cela n’exclut toutefois pas que l’autorité
+doive examiner d’autres aspects matériels des conditions de détention, si le détenu
+s’en plaint, car ceux-ci peuvent, eux, être constitutifs d’une violation de l’art.
+3 CEDH (cf. arrêt
+Mursic
+contre Croatie
+précité §140; TF
+1B_330/2020 consid. 4.4).
+Dans l’appréciation globale de toutes les conditions concrètes de détention, il
+faut prendre en compte la durée que le détenu est autorisé à passer hors de sa cellule;
+à cet égard, le Tribunal fédéral a jugé que le fait de passer pendant 114 jours,
+entre 4 heures 30 et 7 heures 15 par jour hors de la cellule, réduisait de manière significative
+le confinement en cellule et permettait de considérer que la détention dans de telles conditions
+ne constituait pas un traitement dégradant portant atteinte à la dignité humaine; ce d'autant
+lorsque les codétenus partageant la cellule étaient aussi absents quotidiennement pendant plusieurs
+heures, à des moments différents; le Tribunal fédéral a encore estimé que le
+fait de passer durant 201 jours
+5 heures
+par jour en moyenne hors de la cellule, réduisait également de manière significative le
+confinement en cellule et permettait de considérer que la détention dans de telles conditions
+ne constituait pas un traitement dégradant portant atteinte à la dignité humaine (TF 1B_377/2020
+du 2 décembre 2020 consid. 2.1.2;
+TF
+1B_394/2016 du 25 avril 2017 consid. 2.4; TF 6B_1085/2016 du 28 août 2017 consid. 3.2).
+2.1.5
+S'agissant de la prison vaudoise du Bois-Mermet, le Tribunal fédéral a précisé que,
+lors du calcul de la surface individuelle à disposition de chaque détenu, la surface des installations
+sanitaires se trouvant dans la cellule devait être retranchée (TF 1B_325/2017 précité;
+TF 1B_70/2016 du 24 juin 2016 consid. 3.4), à raison de 1,5 m
+2
+(CREP 5 septembre 2019/728, consid. 2.2.1; CREP 15 août 2019/654 consid. 2.2).
+2.2
+En l’espèce, on relèvera en premier
+lieu que c’est à tort que le recourant soutient que la jurisprudence du Tribunal fédéral
+serait indécise s’agissant de déduire la surface occupée par le mobilier dans les
+cellules, alors que, de jurisprudence constante (cf. récemment TF 1B_330/2020 du 2 décembre
+2020 consid. 4.3, se référant aux arrêts de la CourEDH), il n’y a pas lieu de tenir
+compte desdites surfaces. En outre, le recourant ne saurait soutenir que les murs encadrant la porte
+des cellules auraient une épaisseur de 50 cm, puisqu’il y a uniquement lieu de tenir compte
+du débordement du mur à l’intérieur de la cellule et non de son épaisseur totale.
+Il s’ensuit par conséquent que les surfaces telles que calculées par le Tribunal des
+mesures de contrainte – tenant compte pour le surplus de la déduction usuelle de 1,5 m
+2
+pour la surface dédiée aux sanitaires – sont correctes. Il y a donc lieu de retenir que
+B.________ a bénéficié d’une surface individuelle nette de 3,92 m
+2
+dans la cellule n
+o
+231, de 5,825 m
+2
+dans la cellule n
+o
+236 et de 3,825 m
+2
+dans la cellule n
+o
+229. L’intéressé a ainsi été détenu du
+21
+octobre 2019 au 22 novembre 2019, soit durant 33 jours, dans une cellule double dans laquelle il a bénéficié
+d’un espace individuel compris entre 3 et 4m
+2
+,
+puis, du
+22 novembre 2019 au 5 septembre
+2020, soit durant un peu moins de 10 mois, dans une cellule quadruple dans laquelle il a bénéficié
+d’un espace individuel largement supérieur à 4 m
+2
+puis, enfin, du 5 septembre 2020 au 22 décembre 2020, soit durant 107 jours (3 mois et 16 jours),
+dans une cellule double dans laquelle il aura bénéficié à nouveau d’un espace
+compris entre 3 et 4 m
+2
+.
+Puisque le recourant le requiert, il convient de constater que ces conditions de détention dans
+la cellule n
+o
+229 sont encore actuelles. Pour le reste, il est constant qu’à la Prison du Bois-Mermet, l’absence
+de cloison séparant les sanitaires du reste des cellules doubles – mais non dans les cellules
+quadruples, où les sanitaires, hormis le lavabo, se trouvent dans un local séparé –
+constitue une circonstance aggravante rendant les conditions de détention plus pénibles, mais
+non une cause d’illicéité en soi.
+Des constatations qui précèdent, il y a lieu de retenir que la détention de B.________
+a duré à peine plus d’un mois dans une cellule dans laquelle la surface était inférieure
+à 4 m
+2
+,
+aggravée par un confinement probablement de 23 heures sur 24 avec un codétenu, ainsi que par
+l’absence de cloison séparant les sanitaires du reste de la cellule. Cette détention
+a immédiatement été suivie de près de 10 mois de détention dans une cellule
+offrant à l’intéressé une surface individuelle nettement supérieure aux standards
+minimaux, de surcroît dans laquelle les sanitaires – hormis le lavabo, mais on ne voit pas
+en quoi l’usage d’un lavabo devrait se faire dans l’intimité – étaient
+séparés du reste de la cellule par une cloison et une porte. On ne voit pas ce qu’entend
+tirer le recourant du fait que la cellule
+n
+o
+236 aurait été initialement prévue pour trois et non quatre détenus, puisque de toute
+manière il y a bénéficié d’une surface largement suffisante. Cette longue période
+de détention aura enfin été suivie, au jour de la reddition du présent arrêt,
+d’une période de détention d’un peu plus de 4 mois dans une cellule légèrement
+inférieure au standard minimal de 4 m
+2
+en terme de surface, mais dans laquelle il aura été peu confiné avec son codétenu,
+dès lors qu’il a pu intégrer l’atelier vidéo à 50% trois jours après
+avoir intégré ladite cellule. Comme l’a relevé le Tribunal des mesures de contrainte,
+sans être contredit sur ce point par le recourant, il a ainsi passé alternativement entre 13h
+et 19h30 par semaine hors de sa cellule durant cette période, et a pu disposer seul de celle-ci
+pendant à tout le moins 8h par semaine. A cela viennent encore s’ajouter une heure de promenade
+quotidienne, trois séances de sport hebdomadaires de 45 minutes, les sorties pour se doucher, voire
+davantage. Le confinement en cellule était ainsi de 19h par jour ou moins, sur cette durée
+de 4 mois. Or, selon la jurisprudence, le fait de passer en moyenne au moins 5 heures par jour hors de
+la cellule réduit de manière significative le confinement; de plus, B.________ occupait seul
+cette cellule pendant plusieurs heures par semaine lorsque son codétenu travaillait, ce qui allégeait
+encore quelque peu les conditions de détention (cf. TF 1B_377/2020 du 2 décembre 2020 consid.
+2.2).
+Compte tenu d’une appréciation globale des conditions concrètes de détention de
+B.________, force est de constater qu’un constat d’illicéité ne peut pas être
+posé. S’il pouvait se plaindre d’un confinement excessif et de l’absence de séparation
+des sanitaires par une cloison dans sa première cellule, il n’a occupée celle-ci que
+durant une période réduite d’un mois et quelques jours, immédiatement suivie d’une
+longue période de près de 10 mois où ces deux dernières circonstances n’étaient
+plus présentes. Enfin, dans la dernière cellule, si les sanitaires n’étaient à
+nouveau plus séparés par une cloison, il a en revanche pu bénéficier de beaucoup
+d’heures par semaine hors de sa cellule ou seul dans celle-ci, réduisant d’autant le
+confinement. Un tel confinement ne saurait être considéré comme étant excessif sur
+une période d’un peu plus de 4 mois, soit à peine plus d’un mois au-delà de
+la période indicative de 3 mois à partir de laquelle la jurisprudence admet des conditions
+illicites de détention, mais lorsqu’elle s’accompagne d’un confinement trop important,
+ce qui n’était en l’occurrence pas le cas.
+Pour le surplus, on relèvera que dans sa demande du 5 octobre 2020, dans ses déterminations
+du 5 novembre 2020 et dans son recours, B.________ se borne à invoquer des inconvénients potentiels
+qu’auraient présenté ses cellules, sans aucune précision particulière sur les
+souffrances qu’il aurait concrètement subies (durée, dates, fréquence et intensité
+des circonstances alléguées). Or, il ne saurait se prévaloir de manière générale
+de toute circonstance possible et imaginable pour soutenir que sa détention aurait été
+rendue plus pénible, en dehors de l’élément notoire dont il a été tenu
+compte. En particulier, rien n’indique que durant la période de détention en cause, le
+recourant se soit plaint auprès de la direction de la Prison du Bois-Mermet d’une des circonstances
+aggravantes dont il se prévaut depuis le 5 octobre 2020 (température en été, aération
+et éclairage insuffisants). Si ces prétendues circonstances aggravantes avaient été
+présentes et avaient revêtu une gravité telle qu’elles auraient pu être assimilées
+à de la torture ou à un traitement cruel ou inhumain, la logique et la bonne foi auraient supposé
+que le recourant s’en plaigne formellement auprès de la direction de l’établissement
+carcéral, notamment pour que celle-ci prenne les mesures idoines pour faire cesser les prétendus
+traitements inhumains. En particulier, s’il ressort d’un rapport du
+4
+mars 2013 de la Commission nationale de prévention de la torture adressée au Conseil d’Etat
+que l’isolation thermique du bâtiment est clairement insuffisante, cela n’implique pas
+concrètement que la température à l’intérieur de la cellule n
+o
+236 – qui a une surface nette de 23,30 m
+2
+– a été excessive durant l’été 2020 au point de constituer un traitement
+dégradant et inhumain au sens de l’art. 3 CEDH. Le fait que le recourant se soit abstenu de
+se plaindre des défauts que présentait selon lui ses cellules (autres que ceux qui découlent
+du régime carcéral lui-même) pendant la durée de détention en cause permet de
+déduire que ceux-ci n’étaient pas considérés comme des défauts par l’intéressé
+lui-même ou, en tout cas, qu’ils ne revêtaient pas la gravité exigée par la
+jurisprudence. Au surplus, cette abstention rend impossible une constatation a posteriori de certains
+desdits défauts, respectivement une appréciation des conditions matérielles concrètes
+de détention, qui exige un examen se fondant sur des critiques précises (cf. TF 1B_330/2020
+précité consid. 4.4).
+On relèvera encore que le recourant est mal venu de se plaindre d’une réduction des activités
+et visites durant les périodes de confinement, alors que l’établissement carcéral
+– qui est tenu d’assurer la santé et le bien-être des détenus de manière
+adéquate – a pris les mesures qu’imposaient la gestion de la crise sanitaire précisément
+dans ce but, tout en mettant en place des mesures de substitution adéquates, et il convient de ne
+pas oublier que durant ces périodes, des mesures de restriction se sont également imposées
+aux personnes en liberté.
+C’est donc à juste titre que le Tribunal des mesures de contrainte a considéré que
+la détention de B.________ à la Prison du Bois-Mermet depuis le 21 octobre 2019 s’était
+déroulée dans des conditions licites jusqu’au
+22
+décembre 2020, étant précisé qu’il n’est pas contesté que ces conditions
+ont perduré durant la procédure de recours.
+3.
+Au vu de ce qui précède, le recours,
+manifestement mal fondé, doit être rejeté sans échange d'écritures (art. 390
+al. 2 CPP), dans la mesure où il est recevable (cf.
+supra
+consid. 1.2), et l'ordonnance du 22 décembre
+2020 confirmée.
+La requête du recourant
+tendant à l’octroi de l’assistance judiciaire pour la procédure de recours –
+qui est uniquement recevable en tant qu’elle porte sur la désignation d’un défenseur
+d’office, dès lors que l’assistance judiciaire pour la procédure de recours, comprenant
+l’exonération des frais de procédure et d’avances de frais, ne peut être accordée
+qu’à la partie plaignante (cf. art. 136 CPP) et non au prévenu (cf. art. 132 CPP; JdT
+2016 III 33; CREP 22 mars 2019/219) – est sans objet, la désignation d’un défenseur
+d’office par le Tribunal des mesures de contrainte valant également pour la procédure
+de recours.
+Les frais de la procédure
+de recours, constitués de l’émolument d’arrêt, par 1'650 fr. (
+art. 20
+al. 1 TFIP
+[Tarif des frais de procédure
+et indemnités en matière pénale du 28 septembre 2010; BLV 312.03.1]), ainsi que des frais
+imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP), fixés à
+720 fr. sur la base d’une durée d’activité d’avocat estimée à quatre
+heures au tarif horaire de 180 fr., auxquels il convient d’ajouter des débours forfaitaires
+à concurrence de 2 % (art. 2 al. 1 let. a et 3bis  al. 1 RAJ [Règlement sur l'assistance
+judiciaire en matière civile du 7 décembre 2010; BLV 211.02.3], applicables par renvoi de l’art.
+26b TFIP), par 14 fr. 40, plus la TVA par 56 fr. 55, soit à 790 fr. 95 au total, arrondis à
+791 fr., seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à
+l'Etat de l'indemnité allouée au défenseur d'office du recourant ne sera exigible que
+pour autant que la situation financière de ce dernier le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté dans la mesure où il est recevable.
+II.
+L’ordonnance du 22 décembre 2020 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de B.________ est fixée à 791 fr. (sept cent nonante et un francs).
+IV.
+Les frais du présent arrêt, par 1’650 fr. (mille six cent cinquante francs), ainsi que
+l’indemnité due au défenseur d’office de B.________, par 791 fr. (sept cent nonante
+et un francs), sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation financière de B.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Michel Dupuis, avocat (pour B.________), (et par efax)
+-
+Ministère public central, (et par efax)
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte, (et par efax)
+-
+Mme la Procureure de l’arrondissement du Nord vaudois, (et par efax)
+-
+Tribunal correctionnel de l’arrondissement de la Broye et du Nord vaudois, (et par efax)
+-
+Direction de la Prison du Bois-Mermet, (et par efax)
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales; RS 173.71]). Ce recours
+doit être déposé devant le Tribunal pénal fédéral dans un délai de
+dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
