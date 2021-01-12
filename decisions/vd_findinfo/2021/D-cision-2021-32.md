@@ -1,0 +1,368 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___32"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 32"
+decided: "2021-01-12"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8075002"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-015.md", "switzerland/bund/acts/311.0/art-016.md", "switzerland/bund/acts/311.0/art-054.md", "switzerland/bund/acts/311.0/art-123.md", "switzerland/bund/acts/311.0/art-126.md", "switzerland/bund/acts/312.0/art-008.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-319.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 32
+
+## Regeste
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE | 54 CP, 319 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 12.01.2021 Décision / 2021 / 32
+
+CLASSEMENT DE LA PROCÉDURE, ADMISSION DE LA DEMANDE | 54 CP, 319 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+29
+PE20.010609-CMI
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+12 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+M.
+Meylan et Mme Byrde, juges
+Greffier
+:              M.
+Cloux
+*****
+Art.
+54 CP ; 319 al. 1 let. a et e CPP
+Statuant sur le recours interjeté le 22 décembre 2020 par
+M.________
+contre l’ordonnance de classement rendue le 11 décembre 2020 par le Ministère public
+de l’arrondissement du Nord vaudois dans la cause
+n° PE20.010609-CMI
+,
+la Chambre des recours pénale considère :
+En fait:
+A.
+M.________ et I.________ font l’objet
+d’une procédure pénale diligentée par le Ministère public de l’arrondissement
+du Nord vaudois (ci-après : le Ministère public) en raison d’une altercation qui
+les a opposés le 28 mai 2020 entre 12h.30 et 13h.30 à [...].
+I.________ a déposé plainte pénale contre M.________ le 28 mai 2020 en raison de
+ces faits.
+Entendu le 2 juillet 2020 lors d’une audition d’arrestation en raison de faits qui lui
+étaient reprochés dans le cadre d’une enquête distincte, M.________ a exposé
+sa version quant au déroulement de l’altercation. Selon lui, I.________, qui était l’ex-ami
+de sa compagne, l’avait attrapé au cou des deux mains ; il s’était débattu
+et, alors qu’il se trouvait face à un plan de travail avec I.________ dans son dos qui s’appuyait
+sur lui, avait saisi un verre et avait fait un geste par-dessus son épaule, atteignant I.________
+au visage. Il n’avait pas voulu faire "
+aussi
+mal
+" à I.________, ayant promis à
+sa compagne qu’il ne lui ferait pas de mal, et cherchait seulement à lui faire lâcher
+prise.
+Par ordonnance du 6 juillet 2020, Me Laurent Savoy a été désigné en qualité
+de défenseur d’office de M.________ dans le cadre de la procédure distincte le concernant.
+Par ordonnance du 8 juillet 2020, le Ministère public a joint les deux enquêtes conduites
+contre M.________, incluant la procédure relative aux faits ici en cause (anciennement PE20.009225).
+Le 18 août 2020, M.________ a déposé plainte pénale contre I.________ pour lésions
+corporelles simples, subsidiairement voies de fait, renvoyant à ses déclarations du 2 juin
+(recte : juillet) 2020.
+Entendu le 30 septembre 2020 par le Ministère public, I.________ a contesté les déclarations
+de M.________ et en particulier d’avoir saisi celui-ci au cou des deux mains. Il a exposé
+qu’il se trouvait dans le salon de M.________ et avait posé son téléphone sur la
+table. M.________ avait pris le téléphone, pensant être enregistré, avait refusé
+de rendre l’objet et avait haussé le ton. I.________ avait alors tenté de reprendre le
+téléphone et était entré en contact physique avec M.________, qui s’était
+redressé brusquement. I.________, qui s’est référé à des messages de M.________
+de mai 2020 disant qu’il voulait le frapper, pensait qu’ils allaient se battre et avait saisi
+le cou de M.________ avec un bras pour le maîtriser. Un coup porté au moyen d’une chope
+l’avait alors atteint à la figure.
+M.________ a fait l’objet d’un acte d’accusation du 11 décembre 2020 relatant
+les faits ici pertinents dans les termes suivants (ch. 4), pour lesquels les infractions de lésions
+corporelles simples avec un objet dangereux, d’injure et de menaces (art. 123 ch. 1 et
+2 al. 1, 177 al. 1 et 180 al. 1 CP [Code pénal du 21 décembre 1937 ; RS
+311.0]) ont été retenues :
+"
+[...], le 28 mai
+2020, entre 12h.30 et 13h.30, I.________ M.________ pour tenter de régler un différend personnel.
+M.________ s’est emparé du téléphone portable d’I.________, qui l’avait
+posé sur la table, croyant qu’ils étaient enregistrés. Malgré les demandes
+d’I.________, le prévenu a refusé de lui restituer le téléphone. I.________
+s’est levé pour tenter de reprendre son appareil, touchant au passage M.________ à l’épaule.
+Le prévenu s’est levé et s’est dirigé de façon menaçante contre
+I.________ qui, surpris, a attrapé le prévenu par le cou avec son bras gauche pour le maîtriser.
+M.________ a alors saisi un verre et a frappé I.________ au visage à une reprise provoquant
+l’éclatement du verre, mettant ainsi fin à l’empoignade. Le prévenu a déclaré
+à I.________ que s’il allait à la police, il allait appeler un cousin et il vivrait un
+enfer.
+Préalablement à cette altercation, courant mai 2020, M.________ a écrit par WhatsApp à
+I.________ : "Me venger de quoi fils de pute ? Je sais où tu es mec, tu veux que
+je débarque à [...] te mettre la misère. Je n’ai rien à me venger de toi merdeux".
+I.________ a subi une plaie linéaire d’un cm au niveau de la joue gauche, une plaie de 2 cm
+au niveau du sillon naso-labial gauche, une plaie d’un cm au niveau de la paupière supérieure
+gauche, une plaie de 5 cm au niveau de l’arcade gauche et plusieurs plaies de 1, 2 et 3 cm
+au niveau frontal gauche. 23 points de suture ont dû lui être posés.
+I.________
+s’est
+porté partie plaignante
+demandeur
+au pénal et au civil le 28 mai 2020."
+B.
+Par ordonnance du 11 décembre
+2020, le Ministère public a ordonné le classement de la procédure pénale dirigée
+contre I.________ pour lésions corporelles simples subsidiairement voies de fait (I), a dit qu’il
+n’y avait pas lieu d’octroyer d’indemnité à I.________ (II) et a laissé
+les frais de la décision à la charge de l’Etat (III).
+Le procureur a considéré que les versions d’I.________ et M.________ concordaient dans
+la mesure où une altercation les avait opposés, lors de laquelle M.________ avait frappé
+I.________ au visage avec un verre qui s’est alors brisé, mais que ces versions étaient
+irréconciliables quant aux autres circonstances de l’altercation. I.________ devait dès
+lors être mis au bénéfice de la version qui lui était la plus favorable, selon laquelle
+il n’avait fait que se défendre face à l’attitude agressive de M.________. Cette
+agressivité ressortait également d’insultes et de menaces transmises à I.________
+par messagerie et du fait que M.________ avait eu la possibilité de mettre fin à l’altercation
+en restituant le téléphone à I.________. Par ailleurs, celui-ci avait subi des blessures
+conséquentes de sorte qu’aucune peine ne s’imposerait même si une faute lui était
+imputable, l’intéressé ayant été directement et sérieusement atteint par
+les conséquences de son acte au sens de l’art. 54 CP.
+C.
+Par acte du 22 décembre
+2020, M.________ a recouru contre cette ordonnance en concluant, avec suite de frais et dépens,
+à son annulation et au renvoi de la cause au Ministère public pour qu’il donne suite
+à la plainte pénale de M.________ du 18 août 2020 en ce sens que les conditions du
+prononcé d’une ordonnance de classement ne sont en l’état pas réunies.
+M.________ a déposé le 24 décembre 2020 un nouveau mémoire de recours identique
+au précédent, sous réserve de développements relatifs à la validité de
+la notification de l’ordonnance querellée.
+Par courriers séparés du 8 janvier 2021, le Ministère public et I.________ ont conclu
+au rejet du recours et, pour le second, à l’allocation d’une justice indemnité
+à titre de dépens.
+M.________ s’est déterminé sur les écrits du Ministère public le 11 janvier
+2021.
+En droit
+:
+1.
+1.1
+Les écrits du recourant seront
+considérés comme un seul recours, le mémoire du 24 décembre 2020 ne comprenant
+aucune conclusion nouvelle.
+1.2
+Déposé
+en
+temps utile (art. 396 al. 1
+cum
+384 let. b CPP) et dans les formes prescrites (cf. art. 385 al. 1 CPP) par la partie plaignante
+qui a qualité pour recourir (cf. art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant conteste le classement
+au motif qu’I.________ avait admis avoir initié l’altercation, ce qui exclurait la version
+selon laquelle il n’aurait fait que se défendre et tout autre motif justificatif. Un classement
+en application de l’art. 54 CP n’entrerait selon lui pas non plus en considération.
+2.2
+Selon l'art. 319 al. 1 CPP, le Ministère
+public ordonne le classement de tout ou partie de la procédure lorsqu'aucun soupçon justifiant
+une mise en accusation n'est établi (let. a), lorsque les éléments constitutifs d'une
+infraction ne sont pas réunis (let. b), lorsque des faits justificatifs empêchent de retenir
+une infraction contre le prévenu (let. c), lorsqu'il est établi que certaines conditions à
+l'ouverture de l'action pénale ne peuvent pas être remplies ou que des empêchements de
+procéder sont apparus (let. d) ou lorsqu'on peut renoncer à toute poursuite ou à toute
+sanction en vertu de dispositions légales (let. e).
+Cette décision doit être prise en application du principe
+in
+dubio pro duriore
+, qui vaut également pour
+l'autorité judiciaire chargée de l'examen d'une décision de classement. Il signifie qu'en
+règle générale, un classement ou une non-entrée en matière ne peut être
+prononcé par le Ministère public que lorsqu'il apparaît clairement que les faits ne sont
+pas punissables ou que les conditions à la poursuite pénale ne sont pas remplies. La procédure
+doit se poursuivre lorsqu'une condamnation apparaît plus vraisemblable qu'un acquittement ou lorsque
+les probabilités d'acquittement et de condamnation apparaissent équivalentes, en particulier
+en présence d'une infraction grave. En effet, en cas de doute s'agissant de la situation factuelle
+ou juridique, ce n'est pas à l'autorité d'instruction ou d'accusation mais au juge matériellement
+compétent qu'il appartient de se prononcer (ATF 143 IV 241 consid. 2.2.1, JdT 2017 IV 357 ; ATF
+138 IV 86 consid. 4.1.2 et réf. cit. ; TF 6B_116/2019 du 11 mars 2019 consid. 2.1). L'autorité
+de recours ne peut confirmer un classement au seul motif qu'une condamnation n'apparaît pas plus
+probable qu'un acquittement (TF 6B_874/2017 du 18 avril 2018 consid. 5.1 et réf. cit.).
+Dans les procédures où l’accusation repose essentiellement sur les déclarations
+de la victime, auxquelles s’opposent celles du prévenu et lorsqu’il n’est pas
+possible d’estimer que certaines dépositions sont plus crédibles que d’autres,
+le principe
+in
+dubio pro duriore
+impose en règle
+générale que le prévenu soit mis en accusation (ATF 143 IV 241 consid. 2.2.2 et réf. cit. ;
+TF 6B_874/2017 précité consid. 5.1). Cela vaut en particulier lorsqu’il s’agit
+de délits commis typiquement "entre quatre yeux" pour lesquels il n’existe souvent
+aucune preuve objective. Il peut toutefois être renoncé à une mise en accusation lorsque
+la partie plaignante fait des dépositions contradictoires, rendant ses accusation moins crédibles
+ou encore lorsqu’une condamnation apparaît au vu des circonstances
+a
+priori
+improbable pour d’autres
+motifs (ATF 143 IV 241 consid. 2.2.2 ; TF 6B_847/2017 précité consid. 5.1).
+En outre, face à des versions contradictoires des parties, il peut être exceptionnellement
+renoncé à une mise en accusation lorsqu’il n’est pas possible d’apprécier
+l’une ou l’autre version comme étant plus ou moins plausible et qu’aucun résultat
+n’est à escompter par d’autres moyens de preuve (TF 6B_806/2015 du 1
+er
+février
+2016 consid. 2.3 ; TF 6B_11512014 du 16 décembre 2015 consid. 3.1).
+Aux termes de l’art. 319 al. 1 let. e CPP, le Ministère public ordonne le classement
+de tout ou partie de la procédure lorsqu’on peut renoncer à toute poursuite ou à
+toute sanction en vertu de dispositions légales. Cette disposition vise notamment les cas prévus
+par l’art. 8 al. 1 CPP, qui dispose que le Ministère public ou les tribunaux renoncent
+à toute poursuite pénale lorsque le droit fédéral le prévoit, notamment lorsque
+les conditions visées aux art. 52, 53, 54 CP sont remplies.
+A teneur de l’art. 54 CP, si l’auteur
+a été directement atteint par les conséquences de son acte au point qu’une peine
+serait inappropriée, l’autorité compétente renonce à la poursuivre, à
+le renvoyer devant le juge ou à lui infliger une peine.
+Sont visées les conséquences directes de l'acte, à savoir celles qui sont survenues lors
+de l'exécution de l'acte ou sont étroitement liées au résultat de l'acte. Est notamment
+atteint directement par les conséquences de son acte, celui qui subit des lésions physiques
+ou psychiques causées à l'occasion d'un accident qu'il a provoqué (ATF 119 IV 280 consid.
+2b). Une exemption de peine se justifie lorsque l'auteur paraît déjà suffisamment puni
+et que la fonction compensatrice de la peine est déjà réalisée (ATF 137 IV 105 consid.
+2.3). En cas d'infraction intentionnelle, une réduction de la peine en application de l'art. 54
+CP est possible, mais ne doit être admise qu'avec retenue (TF 6B_107/2012 du 25 avril 2012 consid. 3.1 ;
+TF 6B_373/2009 du 22 septembre 2009 consid. 3.3.2). Pour déterminer si une peine serait disproportionnée,
+il convient de mettre en balance les conséquences de l'acte et la faute de l'auteur. Ainsi, l'art.
+54 CP peut s'appliquer dans le cas où une faute légère a entraîné des conséquences
+directes très lourdes pour l'auteur et à l'inverse, ne doit pas être appliqué lorsqu'une
+faute grave n'a entraîné que des conséquences légères pour l'auteur. Le juge
+doit prendre sa décision en analysant
+in
+concreto
+les circonstances du cas et il dispose
+d'un large pouvoir d'appréciation (cf. TF 6B_442/2014 du 18 juillet 2014 consid. 2.1; TF 6B_107/2012
+du 25 avril 2012 consid. 3.1; cf. ATF 121 IV 162 consid. 2d ; ATF 117 IV 245 consid. 2a).
+2.3
+En l’espèce, l’altercation
+entre le recourant et I.________ a apparemment eu lieu entre quatre yeux et le principe
+in
+dubio pro duriore
+exclut en règle
+générale un classement.
+Comme cela ressort de l’appréciation des versions des parties faite par le Ministère
+public, il n’est pas exclu qu’I.________ se soit rendu coupable de lésions corporelles
+simples ou de voies de fait lors de l’altercation. En effet, I.________ a en particulier admis
+avoir saisi le recourant par le cou, quand bien même il conteste l’avoir fait des deux mains,
+soutenant avoir voulu se protéger.
+Considérant
+que les versions des parties étaient irréconciliables dans la mesure où elles portaient
+sur les actes que le recourant reprochait à I.________, le procureur a toutefois retenu dans cette
+mesure la version la plus favorable à celui-ci, ce en violation du principe
+in
+dubio pro duriore
+.
+Il est vrai que le procureur a considéré que le recourant était moins crédible que
+le prévenu. Toutefois, ce faisant, il a porté, sur les faits qui font également l’objet
+de l’acte d’accusation du 11 décembre 2020, une appréciation qui pourrait
+être démentie par le tribunal. Cette manière de procéder n’est pas opportune,
+s’agissant du même complexe de faits avec le risque qu’il existe des décisions
+contradictoires.
+Un classement en application de l’art. 54 CP n’entre pas non plus en considération,
+les lésions subies par I.________ ne découlant pas en ligne directe des faits que le recourant
+lui reproche, mais plutôt de ceux qu’il reproche au recourant. Il n’est pas pertinent
+que ces reproches réciproques renvoient au même complexe de faits. En effet, les infractions
+de lésions corporelles simples (art. 123 ch. 1 CP) et de voies de fait (art. 126
+ch. 1 CP) portent atteinte à l’intégrité corporelle du lésé mais
+il n’existe aucun lien direct entre l’auteur de telles infractions et les lésions qu’il
+subit en raison d’autres faits même simultanés. Les blessures au visage d’I.________,
+qui proviendraient d’un coup porté par le recourant, se distinguent dans cette mesure de celles
+provenant d’un accident qu’il aurait causé.
+Enfin, le prévenu a indiqué avoir agi comme il l’a fait pour récupérer son
+téléphone portable puis pour prévenir d’éventuels coups portés par le
+recourant. Cette justification pose la question d’une éventuelle légitime défense
+du recourant (cf. art. 15 CP), voire d’une éventuelle défense excusable (cf. art. 16
+CP), ainsi que d’un éventuel état de nécessité licite ou excusable (cf. art. 17
+et 18 CP). Or, l’ordonnance ne contient aucune explication à cet égard.
+Le grief du recourant est ainsi fondé.
+3.
+Le recourant conteste par ailleurs
+la validité de la notification de l’ordonnance querellée, soutenant qu’un tel vice
+la rendrait sans effet à son endroit en vertu du principe de la bonne foi. Ce moyen devient toutefois
+sans objet, le classement étant de toute manière infondé pour les motifs qui précèdent.
+4.
+Il s’ensuit que le recours
+doit être admis, la décision querellée annulée et le dossier de la cause renvoyé
+au Ministère public pour qu’il procède dans le sens des considérants.
+Les frais d’arrêt sont en l'espèce constitués de l’émolument d'arrêt,
+par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière
+pénale du 28 septembre 2010 ; BLV 312.03.1]) et des frais relatifs à la défense d’office
+du recourant, comprenant des honoraires par 540 fr. (trois heures d’activité à
+180 francs), des débours forfaitaires (2%) par 10 fr. 80 (art. 3
+bis
+al.
+1 RAJ [règlement du 7 décembre 2010 sur l'assistance judiciaire en matière civile ;
+BLV 211.02.3]
+cum
+art.
+26b TFIP), et la TVA par 42 fr. 40, soit 593 fr. 40 au total, arrondis à 594 francs.
+Ces frais seront mis à la charge de l’intimé, qui succombe dès lors qu’il
+a conclu au rejet du recours (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est admis.
+II.
+L’ordonnance du 11 décembre 2020 est annulée.
+III.
+La cause est renvoyée au Ministère public
+pour qu’il procède dans le sens des considérants.
+IV.
+L’indemnité de Me Laurent Savoy, défenseur d’office de M.________, est fixée
+à 594 fr. (cinq cent nonante-quatre francs).
+V.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), ainsi que l’indemnité
+de défenseur d’office allouée sous chiffre IV ci-dessus, par 594 fr. (cinq
+cent nonante-quatre francs), sont mis à la charge de l’intimé I.________.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Laurent Savoy, avocat (pour M.________),
+-
+Me Charles Navarro, avocat (pour I.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement du Nord vaudois,
+-
+M. le Président du Tribunal correctionnel de l’arrondissement de la Broye et du Nord
+vaudois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+Le greffier :
