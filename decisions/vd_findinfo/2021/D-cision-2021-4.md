@@ -1,0 +1,553 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___4"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 4"
+decided: "2021-01-13"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8269780"
+cites_law: ["switzerland/bund/acts/311.0/art-292.md", "switzerland/bund/acts/935.61/art-012.md", "switzerland/bund/acts/935.61/art-013.md"]
+---
+
+# VD Findinfo Décision / 2021 / 4
+
+## Regeste
+
+CONFLIT D'INTÉRÊTS, DROIT DE REPRÉSENTATION | 12 let. c LLCA
+
+## Text
+
+Vaud Tribunal cantonal Chambre des avocats 13.01.2021 Décision / 2021 / 4
+
+CONFLIT D'INTÉRÊTS, DROIT DE REPRÉSENTATION | 12 let. c LLCA
+
+TRIBUNAL
+CANTONAL
+01/2021
+CHAMBRE
+DES AVOCATS
+_______________________________
+Décision
+du 13 janvier 2021
+__________________
+Composition
+:               Mme
+COURBAT
+,
+présidente
+Mes
+Gillard, Henny, Amy et Chambour, membres
+Greffier
+:              M.
+Steinmann
+*****
+La Chambre des avocats prend séance au Palais de justice de l'Hermitage, à Lausanne, pour statuer
+sur la capacité de postuler des avocats
+Q.________
+et
+F.________
+dans le cadre des mandats qu’ils exercent en faveur de leur client respectif dans la procédure
+de mesures provisionnelles et superprovisionnelles en protection de la personnalité actuellement
+pendante auprès de la Présidente du Tribunal civil de l’arrondissement de l’Est
+vaudois.
+Délibérant à huis clos, la Chambre des avocats retient ce qui suit :
+En fait :
+1.
+A
+titre préliminaire, il sied d’apporter les quelques précisions suivantes sur les différents
+protagonistes du présent litige et leurs relations avec les avocats concernés.
+a)
+L’enfant A.________, âgée de
+six ans, a pour père N.________ et pour mère B.P.________, lesquels n’ont jamais été
+mariés et vivent séparés. B.P.________ entretient une relation intime avec A.P.________,
+avec lequel elle se serait apparemment mariée le 15 décembre 2020.
+Depuis le mois d’août 2020, A.________ vit chez son père N.________, chez qui elle a
+été placée provisoirement par décision de l’Autorité Intercommunale de
+protection de l’enfant et de l’adulte de Martigny (ci-après : APEA).
+b)
+Me Q.________ est le conseil de l’enfant A.________, représentée par son père, dans
+le cadre d’une procédure de mesures superprovisionnelles et provisionnelles ouverte devant
+la Présidente du Tribunal civil de l’arrondissement de l’Est vaudois, dans laquelle
+A.________ requiert des mesures d’éloignement à l’encontre d’A.P.________.
+Dans cette procédure, ce dernier est défendu par Me F.________.
+Me F.________ représente en parallèle, ou à tout le moins a représenté jusqu’au
+22 janvier 2021, B.P.________ dans le cadre de la procédure en retrait du droit de garde et en limitation
+du droit de visite sur l’enfant A.________ actuellement pendante devant l’APEA.
+Me W.________, qui est l’employeur de Me Q.________, défend en outre les intérêts
+de N.________ dans le cadre d’une procédure pénale dirigée contre celui-ci à
+la suite d’un signalement ayant été déposé par A.P.________ et d’une
+plainte ayant été déposée par B.P.________, pour de prétendus actes d’ordre
+sexuel commis à l’encontre d’A.________.
+Les faits relatifs à ces différentes procédures, tels qu’ils ressortent des pièces
+versées au dossier, sont décrits plus en détails ci-après.
+2.
+a)
+Le 7 novembre 2019, A.P.________ a adressé
+un signalement à l’APEA faisant état d’actes d’ordre sexuel qui auraient
+été commis par N.________ sur sa fille A.________.
+Par décision de mesures superprovisionnelles du 8 novembre 2019, l’APEA a retiré aux
+deux parents le droit de déterminer le lieu de résidence de l’enfant A.________.
+Une enquête pénale a en outre été ouverte parallèlement à l’encontre
+de N.________, en lien avec les faits dénoncés dans le signalement précité. Dans
+le cadre de cette procédure, un curateur de représentation, en la personne de Me Stéphane
+Coudray, a été désigné en faveur d’A.________.
+b)
+B.P.________
+et N.________ ont tous deux été entendus par l’APEA lors d’une audience tenue le
+18 novembre 2019.
+Selon le procès-verbal d’audition établi à cette occasion, B.P.________ a notamment
+déclaré qu’elle ne voulait plus jamais qu’A.P.________ s’approche de sa fille
+et que celui-ci « [était] en train de lui faire vivre un enfer ». N.________
+a pour sa part indiqué qu’il ne voulait pas que sa fille approche A.P.________, qu’il
+craignait un enlèvement et que « dès que possible, il [allait] porter plainte ».
+B.P.________ a ensuite déclaré que N.________ et elle-même allaient « déposer
+plainte ensemble », ajoutant qu’elle « se rend[ait] compte qu’elle [avait]
+laissé l’affection de [A.P.________] pour sa fille [aller] trop loin ». N.________
+a encore déclaré que « la seule chose qui compt[ait], pour le moment, [était]
+qu’A.________ retrouve sa maman », précisant que « lorsqu’il serait
+lavé de tout soupçon, il reverr[ait] sa fille comme auparavant. Quant à la Présidente
+de l’APEA, elle a notamment indiqué qu’elle souhaitait que N.________ et B.P.________
+« prennent conscience de la gravité de la situation », que les propos d’A.P.________
+avaient eu un impact extrêmement grave sur leur fille, ajoutant que ce dernier avait revendiqué
+sa garde auprès de l’autorité. Elle a encore relevé qu’un enfant avait besoin
+de repères et de savoir qui était son papa, qui était sa maman et qui était A.P.________
+dans sa situation, en déclarant qu’ « il [allait] falloir expliquer à
+[A.________] pourquoi elle ne peut plus voir cette personne et que [A.P.________] est dangereux ».
+Par décision rendue le 18 novembre 2019, l’APEA a restitué à B.P.________ le droit
+de déterminer le lieu de résidence de sa fille A.________ et a instauré une curatelle
+éducative en faveur de cette dernière.
+c)
+En
+date du 19 décembre 2019, B.P.________ a déposé une requête de mesures superprovisionnelles
+et provisionnelles auprès d’un tribunal de district valaisan, aux fins d’obtenir, tant
+vis-à-vis d’elle-même que de l’enfant A.________, des mesures d’éloignement
+à l’encontre d’A.P.________.
+Par décision du 23 décembre 2019, l’autorité judiciaire valaisanne a admis pour
+l’essentiel la requête de mesures superprovisionnelles, en ce sens qu’elle a fait interdiction
+à A.P.________ de prendre contact de quelque manière que ce soit avec B.P.________ et l’enfant
+A.________ et de s’approcher à moins de deux cents mètres de leur domicile, jusqu’à
+droit connu sur la requête de mesures provisionnelles.
+d)
+Par
+ordonnance de classement rendue le 16 avril 2020, le Ministère public en charge de l’enquête
+pénale dirigée contre N.________ pour actes d’ordre sexuel a ordonné le classement
+de ladite procédure.
+e)
+Par
+courrier du 15 mai 2020, N.________ a informé l’APEA que B.P.________ l’empêchait
+d’entretenir des relations personnelles avec sa fille A.________.
+f)
+Le 4 juin 2020, B.P.________ a déposé
+plainte pénale contre N.________, au motif que des évènements récents l’avaient
+convaincue que ce dernier avait bien commis des attouchements à caractère sexuel sur A.________.
+g)
+Par
+décision du 15 juillet 2020, l’APEA a notamment ordonné la reprise immédiate du
+droit de visite de N.________ sur sa fille A.________, tout d’abord à quatre reprises de manière
+surveillée, puis de façon usuelle, ordre étant donné à B.P.________, sous la
+menace de l’art. 292 CP, de collaborer et de favoriser ledit droit de visite.
+h)
+Le
+17 juillet 2020, B.P.________ a retiré la requête d’éloignement qu’elle avait
+déposée à l’encontre d’A.P.________ le 19 décembre 2019.
+i)
+Par
+décision de mesures provisionnelles du 13 août 2020, la Présidente déléguée
+de l’APEA a notamment retiré à B.P.________, avec effet immédiat, le droit de déterminer
+le lieu de résidence d’A.________ (1), a confié ce droit à l’Office pour la
+Protection de l’Enfant (ci-après : OPE) (2), a dit qu’A.________ était provisoirement
+placée chez son père jusqu’à nouvelle décision (3) et a dit que le droit de
+visite de B.P.________ sur sa fille A.________ s’exercerait de façon médiatisée
+dans un cadre surveillé, selon les modalités à définir par l’OPE (6).
+En droit, la magistrate a relevé que B.P.________ et A.P.________ semblaient vivre désormais
+ensemble et que B.P.________ avait récemment fait obstacle à l’exercice du droit de visite
+de N.________ sur A.________. Elle a considéré que le contact entre A.P.________ et A.________
+n’apparaissait manifestement pas opportun et dans l’intérêt de cette dernière.
+Ainsi, l’absence de collaboration de B.P.________, son déménagement sans consulter N.________
+– pourtant titulaire de l’autorité parentale conjointe – et la forte suspicion
+de la présence de A.P.________ aux côtés d’A.________ et de son influence sur celle-ci
+faisait craindre une menace de danger pour l’enfant. En définitive, la magistrate a estimé
+que le retrait du droit de garde à la mère apparaissait proportionné au but visé
+– les autres mesures n’ayant jusqu’alors pas suffi –, de sorte que le droit de
+déterminer le lieu de résidence d’A.________ devait être confié à l’OPE
+et celle-ci placée provisoirement chez son père.
+j)
+Le
+8 octobre 2020, Me Q.________ – agissant au nom et pour le compte d’A.________, elle-même
+représentée par N.________ – a saisi la Présidente du Tribunal civil de l’arrondissement
+de l’Est vaudois d’une requête de mesures provisionnelles et superprovisionnelles, au
+pied de laquelle il a substance conclu à ce qu’il soit fait interdiction à A.P.________
+d’entrer en contact par quelque moyen que ce soit avec A.________ et de l’approcher à
+moins de deux cents mètres, le tout sous la menace des sanctions prévues à l’art.
+292 CP.
+k)
+Par décision du 19 octobre 2020, la procureure en charge de la plainte pénale déposée
+par B.P.________ à l’encontre de N.________ a refusé d’ordonner la reprise de l’instruction
+de la procédure dirigée contre ce dernier et a refusé d’entrer en matière sur
+ladite plainte pour le surplus.
+En droit, la procureure a considéré que les nouvelles pièces produites, respectivement
+les nouveaux moyens de preuve fournis ou proposés, ne rendaient aucunement vraisemblable que N.________
+se serait rendu coupable d’une infraction et ne remettaient pas en cause l’argumentation
+développée dans l’ordonnance de classement du 16 avril 2020, laquelle gardait toute sa
+pertinence.
+B.P.________ a interjeté un recours contre cette ordonnance, lequel est actuellement pendant.
+3.
+a)
+Le 24 novembre 2020, Me F.________ –
+qui, comme déjà indiqué, est le conseil d’A.P.________ dans le cadre de la procédure
+de mesures provisionnelles ouverte par A.________ auprès de la Présidente du Tribunal civil
+de l’arrondissement de l’Est vaudois –, a saisi la Chambre des avocats d’une
+requête, tendant en substance à faire constater que Me Q.________ se trouve en situation de
+conflit d’intérêts l’empêchant de représenter A.________ dans cette procédure.
+A l’appui de sa requête, elle s’est notamment prévalue du fait que dans la mesure
+où l’employeur de Me Q.________, Me W.________, représente N.________ dans le cadre de
+la procédure pénale ouverte contre ce dernier en lien avec les accusations d’actes d’ordre
+sexuel commis sur sa fille A.________, Me Q.________ se trouverait confronté à un conflit d’intérêts
+en agissant pour le compte de cette enfant dans la procédure civile précitée. Elle a en
+outre reproché à Me Q.________ d’utiliser, pour la défense d’A.________, des
+pièces de la procédure pénale qu’il n’aurait pu obtenir que parce qu’elles
+ont été notifiées à Me W.________, ce qui illustrerait selon elle le conflit d’intérêts.
+b)
+Par courrier du 30 novembre 2020, Me Q.________ a, à son tour, requis de la Chambre de céans
+qu’elle se prononce sur la capacité de postuler de Me F.________. A l’appui de sa requête,
+il a en substance fait valoir que cette avocate se trouverait en proie à un conflit d’intérêts
+en représentant à la fois A.P.________ dans la procédure de mesures provisionnelles pendante
+auprès de la Présidente du Tribunal civil de l’arrondissement de l’Est vaudois
+et la mère d’A.________ dans d’autres procédures, notamment dans la procédure
+en limitation des droits d’autorité parentale ouverte devant l’APEA. A cet égard,
+il a soutenu que la présence d’A.P.________ au côté de B.P.________ constituait
+l’une des principales raisons ayant conduit à retirer à celle-ci la garde d’A.________
+et le principal obstacle à une reprise des relations personnelles entre mère et fille. Il en
+a dès lors déduit qu’il serait objectivement impossible de concilier l’intérêt
+de B.P.________ à pouvoir retrouver sa fille au plus vite et l’intérêt de A.P.________
+à ne pas faire l’objet d’une mesure d’éloignement vis-à-vis d’A.________.
+c)
+Le 7 décembre 2020, Me F.________ s’est déterminée sur la requête en interdiction
+de postuler formulée à son encontre, en concluant à son rejet et à ce qu’il
+soit constaté qu’elle ne se trouve pas en situation de conflit d’intérêts.
+Le 11 décembre 2020, Me Q.________ s’est déterminé sur la requête en interdiction
+de postuler le concernant, en concluant à son rejet et à ce qu’il soit constaté
+que son intervention en faveur d’A.________ ne le place pas en situation de conflit d’intérêts.
+A l’appui de ses déterminations, il a produit des pièces, dont notamment un courrier
+de la Présidente du Tribunal d’arrondissement de l’Est vaudois du 20 novembre 2020,
+dans lequel celle-ci a en substance indiqué que les conditions permettant d’instaurer une
+curatelle de représentation en faveur de l’enfant A.________ dans la procédure de mesures
+provisionnelles dirigée contre A.P.________ n’étaient en l’état pas remplies.
+Par courriers des 23 décembre 2020 et 11 janvier 2021, Me F.________ s’est encore déterminée
+sur les déterminations déposées par Me Q.________ le 11 décembre 2020. A l’appui
+de son courrier du 11 janvier 2021, elle a en outre produit des pièces.
+d)
+Par courrier du 14 janvier 2021, la Présidente de la Chambre des avocats a écrit à Mes
+Q.________ et F.________ pour les informer que l’autorité de céans s’estimait suffisamment
+renseignée, que l’instruction était close et qu’une décision leur serait notifiée
+à bref délai.
+Par courrier du 22 janvier 2021, Me F.________ a indiqué qu’elle n’était plus le
+conseil de B.P.________, avec effet immédiat.
+En droit
+:
+1.
+1.1
+Dans le canton de Vaud, la Chambre des avocats
+est l'autorité chargée de la surveillance des avocats qui pratiquent la représentation
+en justice (art. 11 al. 1 LPAv [Loi sur la profession d’avocat du 9 juin 2015 ; BLV 177.11]
+et 14 LLCA [Loi fédérale sur la libre circulation des avocats du 23 juin 2000 ; RS 935.61]).
+Elle se saisit d'office, sur plainte ou sur dénonciation, de toute question concernant l'activité
+professionnelle d'un avocat (art. 11 al. 2 LPAv).
+La Chambre des avocats
+est également compétente pour statuer sur la capacité de postuler d'un avocat en matière
+civile, ce qui a été confirmé par la Cour de droit administratif et public du Tribunal
+cantonal (CDAP GE.2017.0082 du 7 décembre 2017 consid. 2).
+1.2
+En
+l’espèce, la Chambre des avocats a été saisie de requêtes visant à constater
+l'incapacité de postuler des avocats Q.________ et F.________ dans le cadre d'une procédure
+civile ouverte dans le canton de Vaud. Elle est dès lors compétente.
+2.
+2.1
+A l’appui de sa requête, Me F.________ soutient en substance que Me Q.________ se trouverait
+confronté à un conflit d’intérêts en agissant pour le compte d’A.________
+dans la procédure de mesures d’éloignement dirigée contre A.P.________, alors que
+son employeur est l’avocat de N.________ dans la procédure pénale dont ce dernier fait
+l’objet en lien avec la commission de prétendus actes d’ordre sexuel à l’encontre
+de l’enfant prénommé. Selon Me F.________, les intérêts d’A.________
+et de son père pourraient en effet « clairement diverger, en particulier au vu de la procédure
+pénale et compte tenu du fait que les parents sont séparés ». Elle relève
+au demeurant que Me Q.________ serait à même d’utiliser dans la procédure civile
+des pièces du dossier pénal qu’il n’a pu obtenir qu’en raison de l’intervention
+de son employeur en qualité d’avocat de N.________ dans la procédure pénale.
+Quant à Me Q.________, il estime que Me F.________ se trouverait elle-même en situation de
+conflit d’intérêts en raison des mandats qu’elle exerce respectivement pour A.P.________
+dans la procédure de mesures d’éloignement ouverte devant la Présidente du Tribunal
+civil de l’arrondissement de l’Est vaudois et pour B.P.________ dans la procédure pendante
+devant l’APEA, arguant qu’il lui serait objectivement impossible de défendre à
+la fois les intérêts de B.P.________ à pouvoir retrouver sa fille au plus vite dans cette
+procédure-ci et l’intérêt de A.P.________ à ne pas faire l’objet d’une
+mesure d’éloignement vis-à-vis d’A.________ dans cette procédure-là.
+2.2
+2.2.1
+Parmi
+les règles professionnelles que doit respecter l'avocat, l'art. 12 let. c LLCA prévoit qu'il
+doit éviter tout conflit entre les intérêts de son client et ceux des personnes avec lesquelles
+il est en relation sur le plan professionnel ou privé. L'interdiction de plaider en cas de conflit
+d'intérêts est une règle cardinale de la profession d'avocat (TF 2C_898/2018 du 30 janvier
+2019 consid. 5.2). Elle est en lien avec la clause générale de l'art. 12 let. a LLCA –
+selon laquelle l'avocat exerce sa profession avec soin et diligence –, avec l'obligation d'indépendance
+figurant à
+l'art. 12 let. b LLCA (ATF
+141 IV 257 consid. 2.1 ; ATF 134 II 108 consid. 3), ainsi qu'avec l'art. 13 LLCA relatif au secret
+professionnel (TF 2A.310/2006 du
+21 novembre
+2006 consid. 6.2 ; Chappuis, La profession d'avocat, tome I, 2
+e
+éd., 2016, pp. 114 ss). Les règles susmentionnées visent avant tout à protéger
+les intérêts des clients de l'avocat, en leur garantissant une défense exempte de conflit
+d'intérêts. Elles tendent également à garantir la bonne marche du procès, en
+particulier en s'assurant qu'aucun avocat ne soit restreint dans sa capacité de défendre l'un
+de ses clients – notamment en cas de défense multiple –, respectivement en évitant
+qu'un mandataire puisse utiliser les connaissances d'une partie adverse acquises lors d'un mandat antérieur
+au détriment de celle-ci (ATF 141 IV 257 consid. 2.1 ; TF 1B_510/2018 du 14 mars 2019 consid.
+2.1, publié in ATF 145 IV 218).
+Un conflit d'intérêts
+peut survenir dans trois situations : la double représentation simultanée, les mandats
+opposés qui se succèdent dans le temps et les intérêts propres de l'avocat (Chappuis,
+op. cit., p. 120 ; Grodecki/Jeandin, critique de l'interdiction de postuler chez l'avocat aux prises
+avec un conflit d'intérêts,
+SJ
+2015 II 107, pp. 113-115).
+Le Tribunal fédéral
+a souvent rappelé que l'avocat a notamment le devoir d'éviter la double représentation,
+c'est-à-dire le cas où il serait amené à défendre les intérêts opposés
+de deux parties à la fois, car il n'est alors plus en mesure de respecter pleinement son obligation
+de fidélité et son devoir de diligence envers chacun de ses clients (ATF 141 IV 257 consid.
+2.1 et les références citées ; TF 2C_898/2018 du 30 janvier 2019 consid. 5.2). Il
+y a notamment violation de
+l'art. 12 let.
+c LLCA lorsqu'il existe un lien entre deux procédures et que l'avocat représente dans celles-ci
+des clients dont les intérêts ne sont pas identiques. Il importe peu en principe que la première
+des procédures soit déjà terminée ou encore pendante, dès lors que le devoir
+de fidélité de l'avocat n'est pas limité dans le temps. Il y a aussi conflit d'intérêts
+au sens de la disposition susmentionnée dès que survient la possibilité d'utiliser, consciemment
+ou non, dans un nouveau mandat les connaissances acquises antérieurement, sous couvert du secret
+professionnel, dans l'exercice d'un mandat antérieur (ATF 145 IV 218 consid. 2.1 et les références
+citées).
+Les critères suivants
+peuvent permettre de déterminer l'existence ou non de mandats opposés dans un cas concret :
+l'écoulement du temps entre deux mandats, la connexité (factuelle et/ou juridique) de ceux-ci,
+la portée du premier mandat – à savoir son importance et sa durée –, les connaissances
+acquises par l'avocat dans l'exercice du premier mandat, ainsi que la persistance d'une relation de confiance
+avec l'ancien client (TF 2A.535/2005 du 17 février 2006 consid. 3.2 ; Grodecki/Jeandin, op.
+cit., p. 107 ; Fellmann, in Fellmann/Zindel, Kommentar BGFA [ci-après : Kommentar BGFA],
+2
+e
+éd., 2011, nn. 109 ss ad art. 12 LLCA ; Bohnet/Martenet, Droit de la profession d'avocat, 2009,
+n. 1440 p. 589 ; Valticos, in Commentaire romand LLCA, 2009, n. 175 ad art. 12 LLCA).
+Un risque purement abstrait
+ou théorique de conflit d’intérêts ne suffit pas ; le risque doit être
+concret (TF 2C_688/2009 du 25 mars 2010 consid. 3.1, in
+SJ
+2010 I p. 433). Le conflit d'intérêts est concret lorsqu'il ne résulte pas simplement
+d'une réflexion théorique sur les intérêts juridiques en présence. Il n'est
+toutefois pas nécessaire que le danger concret se soit réalisé et que l'avocat ait déjà
+exécuté son mandat de façon critiquable ou en défaveur de son client. Dès que
+le conflit d'intérêts survient, l'avocat doit mettre fin à la représentation (ATF
+145 IV 218 consid. 2.1 et les références citées).
+2.2.2
+L'incapacité de représentation affectant
+un avocat rejaillit sur ses associés (
+ATF
+135 II 145
+consid. 9.1 p. 154). Le problème
+de la double représentation peut donc survenir quand les parties sont représentées par
+des avocats distincts, mais pratiquant dans la même étude, en qualité d'associés
+(TF 2C_45/2016 du 11 juillet 2016 consid.
+2.2). L'interdiction des conflits d'intérêts ne se limite ainsi pas à la personne même
+de l'avocat, mais s'étend à l'ensemble de l'étude ou du groupement auquel il appartient
+(TF 5A_967/2014 du 27 mars 2015 consid. 3.3.2), position que partage la doctrine dans son ensemble (Fellmann,
+Anwaltsrecht [ci-après : Anwaltsrecht], 2
+e
+éd., 2017, n. 356 p. 155 ; Chappuis,
+op.
+cit., ad VII/B/1 p. 117 et VII/B/3/d p. 121 ; Brunner/Henne/Kriesi, Anwaltsrecht, 2015, n. 163 p.
+128 ; Grodecki/Jeandin, op. cit., n. IV p. 112 ; Bohnet, Droit des professions judiciaires,
+avocat, notaire, juge, 3
+e
+éd., 2014, n. 50 p. 58 ; Fellmann/Zindel, Kommentar BGFA, op. cit., n. 88 ad art. 12 LLCA ;
+Valticos, op. cit., n. 156 ad art. 12 LLCA ; Bohnet/Martenet, op. cit., n. 1435 p. 587 ; Schiller,
+Schweizerisches Anwaltsrecht, 2009, n. 895 p. 222). Sous cet angle, sont donc en principe concernés
+tous les avocats exerçant dans une même étude au moment de la constitution du mandat,
+peu importe leur statut (associés ou collaborateurs) et les difficultés que le respect de cette
+exigence découlant des règles professionnelles peut engendrer pour une étude d'une certaine
+taille (ATF 145 IV 2018 consid. 2.2).
+2.3
+2.3.1
+La présente cause soulève la question
+du conflit d’intérêts de l’avocat sous l’angle de la double représentation,
+tant en ce qui concerne Me Q.________ que Me F.________.
+2.3.2
+S’agissant de Me Q.________, celui-ci ne
+conteste pas – à juste titre – que l’intervention de son employeur en faveur de
+N.________ dans la procédure pénale pourrait théoriquement engendrer un cas de double
+représentation, au même titre que s’il intervenait lui-même dans cette procédure.
+En l’espèce, force est toutefois de constater que l’enquête pénale a abouti
+à une ordonnance de non-lieu le 16 avril 2020, confirmée par une ordonnance de refus de reprise
+de l’instruction et de non-entrée en matière rendue le 19 octobre 2020. Quand bien même
+B.P.________ a semble-t-il recouru contre cette dernière décision, les éléments au
+dossier ne démontrent ainsi pour l’heure aucunement que N.________ aurait eu un comportement
+répréhensible à l’égard d’A.________, susceptible de conduire à
+un conflit d’intérêt concrets entre père et fille. On observe d’ailleurs que
+le curateur de représentation désigné en faveur de l’enfant dans la procédure
+pénale n’a apparemment pas recouru contre l’ordonnance du 19 octobre 2020 et que –
+selon les explications de Me Q.________ – il n’aurait pas non plus jugé utile d’intervenir
+en tant que partie dans la procédure pénale, ce qui renforce le constat qui précède.
+De surcroît, aucun élément au dossier ne permet de conclure que l’enquête pénale,
+quel qu’en soit le résultat définitif, placerait Me Q.________ en position de conflit
+d’intérêts concret dans le cadre du mandat qu’il exerce en faveur d’A.________
+en lien avec la procédure de mesures provisionnelles pendante devant la Présidente du Tribunal
+civil de l’arrondissement de l’Est vaudois. En effet, cette procédure tend exclusivement
+à obtenir des mesures d’éloignement à l’encontre d’A.P.________. Or,
+il n’est aucunement démontré qu’A.________ et N.________ – lequel agit dans
+ce cadre comme représentant autorisé de sa fille en tant que co-titulaire de l’autorité
+parentale – n’auraient pas des intérêts identiques à obtenir de telles mesures
+d’éloignement, et ce indépendamment même du sort de l’enquête pénale.
+Le fait que la juge en charge de la procédure civile précitée ait refusé de désigner
+un curateur de représentation à l’enfant démontre d’ailleurs l’absence
+de tout conflit d’intérêts entre celle-ci et son père dans ladite procédure.
+On ne voit enfin pas en quoi le fait que Me Q.________ serait à même de produire dans la procédure
+civile des pièces de la procédure pénale serait constitutif d’un conflit d’intérêt
+entre A.________ et son père, Me F.________ n’avançant aucun argument à ce propos.
+En définitive, il n’apparaît pas que Me Q.________ serait en proie à un conflit
+d’intérêts concret dans le cadre du mandat qu’il exerce en faveur d’A.________,
+en raison du fait que N.________ est représenté par Me W.________ dans la procédure pénale.
+2.3.3
+En ce qui
+concerne Me F.________, il est établi que
+celle-ci représente, ou à tout le moins a représenté jusqu’à une date
+récente, à la fois A.P.________ dans la procédure de mesures provisionnelles ouverte par
+A.________ devant la Présidente du Tribunal civil de l’arrondissement de l’Est vaudois
+et la mère de cette enfant – B.P.________ – dans la procédure en limitation des
+droits d’autorité parentale actuellement pendante auprès de l’APEA. Or, plusieurs
+éléments au dossier démontrent que B.P.________ et A.P.________ ont été, par
+le passé, en litige, notamment s’agissant des relations entretenues entre A.________ et A.P.________.
+B.P.________ a ainsi elle-même déposé une requête tendant à obtenir des mesures
+d’éloignement d’A.P.________ vis-à-vis de sa fille le 19 décembre 2019. Cette
+requête a été pour l’essentiel admise par décision de mesures superprovisionnelles
+rendue le 23 décembre 2019, avant qu’elle ne soit finalement retirée par B.P.________
+le 17 juillet 2020. Entendue par l’APEA le 18 novembre 2019, B.P.________ a en outre indiqué
+qu’elle ne voulait plus jamais qu’A.P.________ s’approche de sa fille et que celui-ci
+« [était en train de lui faire vivre un enfer », ajoutant que N.________ et
+elle-même allait « déposer plainte ensemble » contre lui. Certes, cette
+plainte n’a finalement pas été déposée, B.P.________ et A.P.________ s’étant
+par la suite réconciliés et apparemment même mariés en décembre 2020. Il apparaît
+néanmoins qu’il y a environ une année, ils ont été profondément divisés
+au sujet de l’enfant A.________. De telles divergences sont susceptibles de surgir à nouveau
+à l’avenir, de sorte qu’il convient de constater – déjà à ce stade
+– qu’il existe un risque concret de conflit d’intérêts entre B.P.________
+et A.P.________, risque que leur mariage ne suffit pas, à lui seul, à lever.
+Il semble au demeurant que l’un des motifs ayant conduit à retirer à B.P.________ le
+droit de déterminer le lieu de résidence d’A.________ avec effet immédiat soit lié
+à la présence d’A.P.________ auprès de cette enfant. A l’appui de sa décision
+du 13 août 2020, la Présidente déléguée de l’APEA a en effet considéré
+que le contact entre A.P.________ et A.________ n’apparaissait manifestement pas opportun et dans
+l’intérêt de cette dernière, justifiant sa décision de retrait du droit de
+garde à la mère notamment par « la forte suspicion de la présence d’A.P.________
+aux côtés d’A.________ et de son influence sur celle-ci », qui « faisait
+craindre une menace de danger pour l’enfant ». Dans la mesure où B.P.________ revendique
+apparemment dans cette procédure la garde d’A.________, respectivement un droit de visite
+plus élargi, on ne voit pas comment Me F.________ peut valablement défendre ses intérêts
+dans ce sens et simultanément défendre A.P.________ dans le cadre de la procédure de mesures
+d’éloignement vis-à-vis de l’enfant prénommée dont ce dernier fait l’objet.
+Il apparaît bien plutôt que, s’agissant des rapports avec A.________, il existe un risque
+concret d’intérêts contradictoires entre B.P.________ et A.P.________. Le fait que ces
+derniers se soient mariés dernièrement ne change pas le constat qui précède.
+Il convient ainsi de constater que Me F.________ se trouve concrètement dans un conflit d’intérêts
+en défendant à la fois B.P.________ et A.P.________. Le fait que cette avocate ait indiqué,
+le 22 janvier 2021, avoir mis un terme à son mandat en faveur de B.P.________ ne met pas fin à
+l’existence d’un tel conflit. Il faut tout d’abord relever qu’on ne saurait tenir
+compte de cette communication, intervenue postérieurement à la date à laquelle la Chambre
+de céans s’est réunie pour statuer sur la requête d’interdiction de postuler
+litigieuse. Quoi qu’il en soit, même s’il fallait tenir compte de cet élément
+– ce qui n’est pas le cas – Me F.________ ne pourrait continuer à représenter
+A.P.________ dans la procédure de mesures provisionnelles, compte tenu du risque d’intérêts
+contradictoires entre celui-ci et B.P.________ qui a été exposé ci-dessus, ainsi que du
+risque que l’avocate prénommée puisse utiliser dans le cadre de ce mandat-ci des informations
+couvertes par le secret professionnel obtenues dans le cadre de son mandat en faveur de B.P.________.
+Cette situation implique que Me F.________ doit se dessaisir de l’ensemble de ses mandats en faveur
+de A.P.________et B.P.________. Ainsi, une interdiction de postuler doit être prononcée à
+son encontre dans la procédure de mesures provisionnelles ouverte dans le canton de Vaud. Par ailleurs,
+le dossier doit être transmis à l’autorité de protection de l’adulte et de
+l’enfant valaisanne pour qu’elle ordonne les mesures utiles à cet égard dans la
+procédure actuellement pendante devant cette autorité.
+3.
+En définitive, la requête en interdiction de postuler dirigée contre Me Q.________ doit
+être rejetée et il doit être constaté que celui-ci peut continuer à représenter
+A.________ dans le cadre de la procédure de mesures provisionnelles et superprovisionnelles en protection
+de la personnalité ouverte contre A.P.________ par devant la Présidente du Tribunal civil de
+l’arrondissement de l’Est vaudois.
+La requête en interdiction de postuler déposée contre Me F.________ doit quant à
+elle être admise, en ce sens qu’il doit être constaté que cette avocate doit se
+dessaisir de l’ensemble des mandats qu’elle exerce en faveur de B.P.________ et d’A.P.________.
+Il doit en outre lui être fait interdiction de postuler en faveur d’A.P.________ dans la procédure
+de mesures provisionnelles et superprovisionnelles en protection de la personnalité ouverte par
+A.________ auprès de la Présidente du Tribunal civil de l’arrondissement de l’Est
+vaudois, le dossier devant également être transmis à l’APEA pour toute suite utile
+selon les considérants qui précèdent.
+Les
+frais de la présente décision, par 1’500 fr., seront mis à la charge de Me F.________
+(art. 59 al. 1 LPAv). Il n’y a pas matière à l’allocation de dépens, dès
+lors qu’aucune conclusion en ce sens n’a été prise par les avocats concernés.
+Par
+ces motifs,
+la
+Chambre des avocats,
+statuant
+à huis clos :
+I.
+Rejette la requête en interdiction de postuler déposée le 24 novembre 2020 par Me F.________
+à l’encontre de Me Q.________.
+II.
+Constate que Me Q.________ peut continuer à représenter A.________ dans le cadre de la procédure
+de mesures provisionnelles et superprovionnelles en protection de la personnalité actuellement pendante
+auprès de la Présidente du Tribunal civil de l’arrondissement de l’Est vaudois.
+III.
+Admet la requête en interdiction de postuler déposée le 30 novembre 2020 par Me Q.________
+à l’encontre de Me F.________.
+IV.
+Constate que Me F.________ doit se dessaisir de l’ensemble des mandats qu’elle exerce en
+faveur de B.P.________ et d’
+A.P.________.
+V.
+Interdit à Me F.________ de postuler pour A.P.________ dans le cadre de la procédure de mesures
+provisionnelles et superprovionnelles en protection de la personnalité actuellement pendante auprès
+de la Présidente du Tribunal civil de l’arrondissement de l’Est vaudois.
+VI.
+Transmet le dossier de la cause à l’Autorité Intercommunale de protection de l’enfant
+et de l’adulte du district de Martigny pour qu’elle ordonne toute mesure utile dans la procédure
+actuellement pendante devant elle, selon les considérants qui précèdent.
+VII.
+Dit que les frais de la présente décision, par 1'500 fr. (mille cinq cents francs), sont mis
+à la charge de Me F.________.
+VIII.
+Dit que la présente décision est immédiatement exécutoire et retire l’effet
+suspensif à un éventuel recours en application de l’art. 80
+al.
+2 LPA-VD.
+La
+présidente :               Le greffier
+:
+Du
+La décision qui précède, lue et approuvée à huis clos, est notifiée à
+:
+‑
+Me Q.________
+‑
+Me F.________
+La présente décision peut faire l'objet d'un recours au Tribunal cantonal dans un délai
+de trente jours dès sa notification. Le recours est exercé conformément à la loi
+sur la procédure administrative (art. 65 LPAv).
+Cette décision est également communiquée à :
+‑
+Mme la Présidente du Tribunal civil de l’arrondissement de l’Est vaudois,
+-
+l’Autorité Intercommunale de protection de l’enfant et de l’adulte du district
+de               Martigny.
+Le greffier :
