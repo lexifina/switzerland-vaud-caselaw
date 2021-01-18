@@ -1,0 +1,867 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___78"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 78"
+decided: "2021-01-18"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8113539"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-173.md", "switzerland/bund/acts/311.0/art-174.md", "switzerland/bund/acts/311.0/art-219.md", "switzerland/bund/acts/311.0/art-303.md", "switzerland/bund/acts/312.0/art-020.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 78
+
+## Regeste
+
+DIFFAMATION, CALOMNIE, DÉNONCIATION CALOMNIEUSE, VIOLATION DU DEVOIR D'ASSISTANCE OU D'ÉDUCATION, NON-LIEU, PREUVE DE LA VÉRITÉ | 173 ch. 1 CP, 173 ch. 3 CP, 174 CP, 219 CP, 303 CP, 310 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 18.01.2021 Décision / 2021 / 78
+
+DIFFAMATION, CALOMNIE, DÉNONCIATION CALOMNIEUSE, VIOLATION DU DEVOIR D'ASSISTANCE OU D'ÉDUCATION, NON-LIEU, PREUVE DE LA VÉRITÉ | 173 ch. 1 CP, 173 ch. 3 CP, 174 CP, 219 CP, 303 CP, 310 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+43
+PE20.017442-MMR
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+18 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Oulevey et de Montvallon, juges
+Greffière
+:              Mme
+Aellen
+*****
+Art.
+310 CPP ; 173, 174, 219 et 303 CP
+Statuant sur le recours interjeté le 20 novembre 2020 par
+X.________
+contre l’ordonnance de non-entrée en matière rendue le 3 novembre 2020 par le Ministère
+public de l'arrondissement de La Côte dans la cause
+n° PE20.017442-MMR
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le
+8 octobre 2020, X.________ a déposé plainte pénale contre Q.________, mère de leur
+fille U.________, née le [...] 2010, pour calomnie, subsidiairement diffamation, violation du devoir
+d’assistance ou d’éducation et dénonciation calomnieuse.
+b)
+En
+substance, X.________ et Q.________ ont noué une relation en octobre 2009 et la prénommée
+est rapidement tombée enceinte sans que cette grossesse ait été prévue ni souhaitée
+par le couple. La question d'un avortement s'est immédiatement posée et a été passablement
+discutée. Les parties ont brièvement fait ménage commun en s'installant ensemble un mois
+avant l'accouchement. Elles se sont séparées quelques semaines après la naissance de leur
+enfant. Depuis lors, elles ont toujours été en conflit, en particulier sur la question de l'exercice
+des relations personnelles du père sur sa fille.
+En 2014, le plaignant a fait l'objet d'une enquête pénale pour actes d'ordre sexuel avec des
+enfants, charge dont il a été acquitté au bénéfice du doute selon jugement rendu
+le 12 octobre 2016 par le Tribunal correctionnel de l'arrondissement de Lausanne. Dans cette affaire,
+il était reproché au plaignant d'avoir fait subir des attouchements à sa fille, entre
+le début de l'année 2013 et jusqu'au 15 mars 2014, lors de l'exercice du droit de visite instauré
+au Point Rencontre, à Ecublens. Dans le cadre de l'enquête, l'expertise de crédibilité
+mise en œuvre n'a abouti à aucune conclusion sur la validité des déclarations de
+l'enfant. Le jugement a notamment relevé que dès son plus jeune âge, la fille des parties
+avait manifesté des troubles de l'attachement et du sommeil ainsi qu'une angoisse de séparation
+exacerbée vis-à-vis de sa mère (P. 4/4, p. 16). Le jugement retenait également ce
+qui suit au sujet du conflit parental :
+« On rappellera ici qu’U.________
+a grandi au milieu de parents entraînés très vite dans une querelle judiciaire dont elle
+était, bien malgré elle, le centre des préoccupations, et auprès d’une maman
+dont l’instruction a mis à jour un tempérament particulièrement angoissé. Avant
+même les faits dénoncés par l’enfant à sa mère, cette dernière avait
+déjà fait part de ses craintes qu’un jour son père n’abuse de cet enfant.
+Il n’a pas été possible de déterminer l’origine de ces craintes, mais on ne
+peut exclure qu’elles aient teinté l’atmosphère qui régnait dans ce foyer.
+Le temps écoulé entre le premier jour où U.________ a dévoilé les attouchements
+litigieux à sa mère, et le dépôt par celle-ci d’une plainte, puis l’interrogatoire
+filmé d’U.________, plus d’un mois après, ne permet pas d’exclure non plus
+que les propos de l’enfant aient entre-temps été contaminés par les questions de
+son entourage.
+Les auteurs du rapport d’expertise rédigé par l’unité de pédopsychiatrie
+légale du CHUV ont relevé qu’au vu de l’âge d’U.________, il ne leur
+était pas possible de se prononcer quant au degré de crédibilité de sa déposition,
+seuls les récits d’enfant âgé d’au moins 6 ans étant susceptibles d’être
+analysés sous cet angle. Ces experts ont également noté que les troubles perçus chez
+U.________ ne pouvaient être mis en lien de causalité directe avec un abus sexuel dont elle
+aurait été victime, ces troubles ayant été constatés bien avant les faits reprochés
+au prévenu. »
+(P. 4/4, p. 16 et 17).
+c)
+En
+avril 2014, la Justice de paix du district de Nyon a ouvert une enquête en limitation de l'autorité
+parentale dirigée contre Q.________ et a mis en œuvre une expertise pédopsychiatrique.
+Un rapport a été déposé par l'Unité de pédopsychiatrie légale du CHUV
+en juin 2016, au terme duquel, les médecins ont répondu aux questions de la manière suivante :
+«
+1.
+Comment se porte l'enfant sur les plans pédiatrique, psychologique, social et scolaire ?
+RÉPONSE
+:
+Sur le plan pédiatrique,
+la Docteure [...] observe un développement staturo-pondéral harmonieux. Les contrôles
+médicaux sont à jour ainsi que les vaccins. U.________ est propre depuis début 2017. Elle
+rencontre toutefois des difficultés à déféquer sur les toilettes. Ce blocage psychologique
+a eu pour conséquence que la petite fille se retient durant plusieurs jours, voire une semaine.
+L'enfant n'est à l'aise pour déféquer que lorsqu'elle porte une couche le soir et la nuit.
+La pédiatre observe qu'U.________ manifeste un état anxieux ainsi que des angoisses de séparation
+fluctuantes ayant un impact sur son sommeil. Actuellement, l'enfant et la mère dorment en co-slipping.
+La Docteure [...], pédopsychiatre, relève chez cette enfant les mêmes angoisses de séparation
+décrites par la pédiatre ainsi que des angoisses phobiques. Toutefois, elle précise qu'actuellement
+l'enfant va bien. C'est la raison pour laquelle les séances pédopsychiatriques se font avec
+la mère d'U.________ et à la demande de celle-ci. La mise en place d'un suivi art-thérapeutique
+régulier apparaît bénéfique pour l'enfant.
+Sur le plan cognitif, la petite fille fait preuve de bonnes capacités. Son intelligence apparaît
+conforme aux enfants de son âge. Elle est intégrée dans sa classe et démontre de
+bonnes capacités d'apprentissage. Sur le plan social, U.________ entre facilement en contact avec
+les personnes qui l'entourent et a développé un lien de confiance tant avec des adultes que
+des enfants.
+2.
+Souffre-t-elle de troubles du développement (anxiété, difficultés de séparation)
+? Si oui, comment sont-ils traités ?
+Souffre-t-elle d'aliénation parentale ?
+RÉPONSE
+:
+U.________ ne présente
+pas de trouble du développement. Ses habiletés développementales comprenant la motricité
+fine et globale, son langage, ses habiletés personnelles et sociales, sa cognition et les activités
+de la vie quotidienne n'apparaissent pas altérées.
+Cependant, l'enfant manifeste, de manière fluctuante, des angoisses essentiellement centrées
+sur la question du contrôle et de la séparation, favorisant des réactions phobiques chez
+elle.
+Actuellement, U.________ ne souffre pas d'aliénation parentale. Néanmoins, nous observons que
+Madame Q.________ favorise peu le contact père-fille, d'une part parce que probablement elle ne
+fait pas confiance au père au vu de leur histoire commune et, d'autre part, elle attend qu'U.________
+en fasse la demande. L'enfant est trop petite et les relations père-fille trop ténues pour
+que la petite fille soit demandeuse d'une relation avec son père. N'étant pas suffisamment
+autonome sur le plan affectif, U.________ redoute principalement la séparation avec sa mère.
+Suite aux accusations sexuelles dont Monsieur X.________ a fait l'objet en 2014, il n'est pas exclu que
+Madame Q.________ ne puisse pas envisager un lien entre le père et sa fille sans craindre que cette
+dernière ne soit en danger en présence de son père, instillant une méfiance du père,
+voire un risque d'aliénation parentale.
+3.
+Etes-vous en mesure de
+comparer l'évolution de l'enfant depuis 2014 ?
+RÉPONSE:
+Lorsque nous avons rencontré U.________ en 2014, il nous était difficile d'évaluer la
+thymie d'U.________. Le contexte de l'expertise de crédibilité semble avoir perturbé l'enfant
+qui s'était montrée agitée, adoptant des comportements et un langage inhabituel et régressé
+(mutisme sélectif) selon la maman. Bien que nous soyons restés interloqués par cette régression
+situationnelle, U.________ n'a pas semblé freinée dans son développement ni dans ses apprentissages,
+qui apparaissaient dans la norme pour son âge. Actuellement, le développement de l'enfant ne
+semble pas en danger: U.________ a continué à grandir et à poursuivre ses apprentissages
+liés à son âge. Sur le plan psychologique, nous ne remarquons pas, à l'heure actuelle,
+de symptômes francs. Tout comme en 2014, au vu des angoisses de séparation manifestées
+par l'enfant, nous suspectons qu'elle soit toujours perméable aux inquiétudes de sa maman dont
+elle dépend. Il est vraisemblable que la petite fille ait développé un attachement de
+type insécure et ambivalent, se vivant comme indifférenciée de sa mère.
+4.
+La mère rencontre-t-elle des difficultés individuelles liées à sa relation conjugale
+antérieure (stress post-traumatique) ?
+RÉPONSE
+:
+Madame Q.________ relate
+une histoire de couple compliquée sur le plan relationnel, génératrice de souffrance et
+d'inquiétudes quant à la personne de Monsieur X.________. Toutefois, nous n'observons actuellement
+pas de symptomatologie concordante avec un stress post-traumatique chez cette maman.
+5.
+Le souvenir du père ou/et de la mère personnellement sont-ils vecteurs d'anxiété
+pour l'enfant ?
+RÉPONSE
+:
+La représentation et
+l'image paternelle apparaissent vecteurs d'anxiété pour l'enfant, qui associe directement les
+rencontres paternelles aux séparations maternelles, réactivant dès lors des angoisses
+de séparation.
+6.
+Est-ce qu'U.________ rencontre des difficultés avec l'idée de rétablir des relations personnelles
+avec son père ?
+RÉPONSE:
+En effet, U.________ rencontre des difficultés avec l'idée de rétablir des relations personnelles
+avec son père, parce qu'elle devra se séparer de sa mère, ce qui génère beaucoup
+d'angoisses chez elle.
+7.
+U.________ veut-elle et peut-elle reconstruire de telles relations ?
+Si oui, pouvez-vous indiquer les modalités envisageables (échéances, lieu, fréquence,
+accompagnement éventuel) ?
+Si non, pouvez-vous
+en indiquer les raisons et la part de suggestibilité dans les réponses apportées ?
+RÉPONSE:
+La condition pour qu'U.________ puisse reconstruire une relation personnelle avec son père est qu'elle
+se sente sécurisée. C'est la raison pour laquelle nous suggérons tant une prise en charge
+thérapeutique sur la relation mère-enfant et père-enfant au sein des Boréales, qu'une
+reprise des visites le plus rapidement et de manière progressive (de quelques heures au début)
+encadrée par Espace Contact. Nous préconisons également l'instauration d'un droit de regard
+et d'information au sens de l'art 307 al. 3 par le SPJ, voire celle d'un mandat de curatelle, pour s'assurer
+du déroulement des relations personnelles entre chaque parent et l'enfant, de pouvoir les évaluer,
+rassurer et conseiller les parents et fixer les modalités organisationnelles du droit de visite
+paternel.
+8.
+Les visites au Point Rencontre
+ont-elles représenté pour U.________ un stress émotionnel avant, pendant et/ou après
+les visites ?
+Si oui:
+A.               Quel est le niveau
+de stress observé ?
+B.               Quelles sont les conséquences
+du niveau de stress observé ?
+RÉPONSE
+:
+Il est difficile de répondre
+à cette question étant donné que nous n'avons pas rencontré U.________ lorsqu'elle
+fréquentait le Point Rencontre. Les stress observés chez U.________ à l'évocation
+des contacts avec son père sont multifactoriels. Nous ne pouvons, dès lors, pas faire de lien
+de causalité direct entre ces visites et l'état psychique de l'enfant.
+9.
+Quel soutien serait susceptible
+d'aider U.________ dans la gestion :
+A.              de sa relation avec
+son père ?
+B.              de sa relation et du
+quotidien avec sa mère ?
+C.              des visites à son
+père ?
+D.              de son retour à
+la maison auprès de sa mère ?
+RÉPONSE
+:
+Face aux angoisses de séparation d'U.________, exacerbées à l'idée de rencontrer
+son père et de quitter sa mère, nous suggérons que les visites reprennent progressivement
+et soient encadrées par Espace Contact. L'enfant sera accompagnée par un adulte, tel un objet
+transitionnel, permettant une autonomisation affective, une symbolisation du lien maternel alors que
+cette dernière est absente. Cette reprise de contact progressive avec un adulte sécurisant
+de transition permettrait à U.________ de se sentir plus sécurisée lors de la séparation
+avec sa maman et moins angoissée à l'idée d'être en contact avec un père dont
+elle ne connaît rien et qui suscite de l'inquiétude chez sa mère. De plus et en parallèle
+de la reprise du droit de visite, nous préconisons une prise en charge thérapeutique au sein
+des Boréales centrée sur la relation mère-enfant et père-enfant, afin de travailler
+les angoisses de séparation, de tenter de délier les vécus respectifs de la mère
+et de l'enfant, de rencontrer son père de manière à développer un lien plus sécurisant.
+Ce travail devra également comporter des aspects de guidance parentale pour les deux parents. »
+(P. 4/3, pp. 22 à 25).
+d)
+Dans
+sa plainte, X.________ dénonce les propos tenus à son sujet par Q.________ dans un courrier
+qu'elle a adressé le 15 mai 2020 à la Conseillère d'Etat Cesla Amarelle. Ce courrier a
+la teneur suivante :
+« Madame
+la Conseillère d'Etat,
+Je
+me permets de vous écrire pour faire suite à votre courrier du 19 avril 2019, que je vous remercie
+d'avoir adressé à ma sœur [...], et vous apporter ainsi plus de détails sur la situation
+que ma fille U.________ continue à vivre. Je rebondis également sur le fait qu'il y est précisément
+mentionné que « les intérêts des mineurs » constituent le but de chaque
+intervention.
+Permettez-moi
+de vous dire que dans la situation de ma fille ses intérêts ne sont pas pris en considération
+ou alors semblent l'être mais de telle manière que cela ne lui est pas bénéfique.
+Depuis
+des années déjà, comme vous le savez sans doute, U.________ est suivie par le SPJ, et
+malgré les avertissements de sa pédopsychiatre d'alors, Q.________ n'est pas respectée
+ni considérée selon son âge, son développement psychique et sa maturité.
+Tout
+l'acharnement qu'elle a subi « pour son bien » depuis si longtemps, et qui continue aujourd'hui
+encore, a abouti à ce qu'elle soit traumatisée.
+Cette
+pédopsychiatre l'avait prévu et dit mais personne ne l'a écoutée, pire, la Justice,
+à la demande du père et du SPJ m'a demandé d'arrêter de la consulter, ce que j'ai
+dû faire. Elle était accusée de partialité.
+A
+la demande de la pédiatre et de son ancienne pédopsychiatre et afin de pouvoir aider U.________
+par un biais différent, elle était également suivie par deux psychologues, une art-thérapeute
+et l'autre sophrologue.
+Comme
+vous le savez déjà, à trois ans, U.________ a dit avec ses propres mots bien sûr,
+qu'elle subissait des attouchements de son père, alors qu'elle le rencontrait dans un point rencontre.
+En a résulté une procédure pénale à la suite de laquelle il a été
+« acquitté au bénéfice du doute ». L'expertise de crédibilité
+réalisée alors sur cette enfant de 3 ans n'ayant pu aboutir à aucune conclusion.
+Une
+fois la procédure pénale terminée, il a été décidé que « la reprise
+du lien » entre U.________ et son père soit remise en place par le biais de séances aux
+Boréales. A ce moment-là, j'ai dû me battre afin qu'U.________ soit préparée
+à ces séances par les professionnels responsables, qu'elle puisse les rencontrer avant de voir
+son père.
+Mais
+malgré tout, cela s'est mal passé pour elle. Elle a très mal vécu ces rencontres
+de « reprise de lien », elle était toujours triste, restait dans son coin, n'avait rien
+envie de faire et refusait de parler, de manger, de jouer.
+U.________
+n'avait plus aucune aide de sa pédopsychiatre pour l'accompagner durant cette période de reprise
+du lien, ayant dû interrompre son suivi au moment où elle en avait le plus besoin.
+Mais
+son art-thérapeute ainsi que sa sophrologue étaient très inquiètes de son état
+et en avaient d'ailleurs fait part aux Boréales et au SPJ, qui n'en ont pas tenu compte.
+A
+ce moment-là, j'avais pris contact avec la psychiatre que je consulte et qui est également
+pédopsychiatre ainsi qu'avec sa pédiatre. Elles avaient reçu U.________ en urgence au
+cours de l'été, car elle était vraiment au plus mal.
+La
+pédiatre, ainsi que l'art-thérapeute et la sophrologue qui suivent ma fille depuis des années
+ont alors fait part de leurs inquiétudes aux Boréales et au SPJ. U.________ était dans
+un tel état que j'ai interrompu les séances d'U.________ aux Boréales. Elle a failli être
+hospitalisée. A la suite de quoi une audience a été demandée par le SPJ. Il était
+noté dans leur rapport pour la Justice, qu'ils se questionnaient sur les médecins et thérapeutes
+qui « gravitaient » autour de ma fille, mettant ainsi en doute leurs compétences et leur
+savoir professionnels.
+Tout
+ce système a donc continué à traumatiser ma fille qui s'est retrouvée au milieu d'une
+triangulation, les médecins et thérapeutes d'un côté, le SPJ et les Boréales
+de l'autre, et U.________ en souffrance.
+C'est
+précisément à ce moment-là que vous avez reçu les courriers de certaines de
+mes proches, tout mon entourage étant consterné par le fait qu'une assistante sociale du SPJ
+dénigre l'avis de médecins et des psychologues.
+Au
+cours de cette audience, où finalement, et à la demande expresse de mon avocat, les médecins
+ont aussi pu être entendus, il a été décidé de mettre en place un réseau.
+Enfin tous les intervenants allaient pouvoir communiquer.
+Grâce
+à mon conseil, U.________ a aussi pu avoir une avocate, une curatrice, une personne spécialisée
+en Droit des enfants quelqu'un qui puisse aussi défendre ses intérêts à elle, en-dehors
+de moi.
+J'avais
+bon espoir dès lors que les choses allaient s'améliorer et qu'U.________ soit enfin considérée,
+entendue et respectée, mais malgré tout, pour l'instant il n'y a pas grand changement.
+Lors
+d'un réseau organisé entre professionnels, ma psychiatre (pédopsychiatre) que j'avais
+consulté en urgence pendant l'été, dû à l'état dépressif d'U.________,
+a été contactée pour assister à une rencontre du réseau et avait donné
+son point de vue, disant notamment que tout cet acharnement auquel U.________ était soumise depuis
+si longtemps était iatrogène pour elle.
+A
+la suite de cette rencontre, l'on m'avait demandé de changer de psychiatre !?
+J'en
+ai conclu que toutes les personnes qui ne sont pas du même avis que le SPJ dérangent.
+Les
+rencontres en vue de la « reprise du lien », décidées par la Justice, ont donc continué
+aux Boréales et je me rends donc depuis avril de l'année passée à des séances
+de coparentalité avec le père d'U.________. Il faut que l'on devienne co-parents alors que
+nous n'avons jamais pu l'être, que nous n'avons vécu ensemble que 4 mois, dont 1 seulement
+après la naissance d'U.________. De plus, il faut que je fasse comme si de rien n'était, malgré
+le fait qu'U.________ l'ait accusé d'attouchements.
+Lors
+de ces séances, je m'efforce de donner toutes les informations pertinentes sur U.________ et les
+nombreuses difficultés qu'elle rencontre: difficulté à s'endormir, cauchemars presque
+toutes les nuits, difficulté à me quitter, à aller à l'école. Elle a sans cesse
+besoin d'être rassurée. Malheureusement, tout cela n'est pas entendu.
+Au
+cours de ces séances également, les intervenants poussent le père à être moins
+dans la procédure et plus intéressé à la vie d'U.________.
+Depuis,
+il a pris quelques rendez-vous avec les médecins qui suivent U.________. Consultations qui ME sont
+facturées.
+Il
+a aussi contacté la maîtresse d'U.________ (elle était en 4p) et voulait se rendre dans
+sa classe. U.________ a très mal vécu cet épisode. Elle était à nouveau très
+angoissée, ne voulant plus aller à l'école et refusant une nouvelle fois de faire seule
+les trajets.
+La
+curatrice a donc décidé que le père ne pouvait pas se rendre à l'école mais
+pouvait téléphoner pour prendre des renseignements. Elle a promis à U.________ que cela
+ne se reproduirait plus jamais.
+Après
+plusieurs séances aux Boréales, un bilan devait être rendu à la Justice par le SPJ.
+Ceci a pris plusieurs mois à être transmis et à ma grande surprise, tout ce qui avait
+été discuté aux Boréales ni figurait pas.
+Lors
+de ces séances, tous les intervenants ont répété au père qu'il devait prendre
+contact avec un psychiatre et être suivi mais comme IL n'en ressent pas le besoin, rien n'est mis
+en place. Je rappelle que c'est tout de même une personne qu'U.________ a accusée d'attouchements.
+Cependant
+il y était mentionné que l'on m'avait demandé de changer de psychiatre.
+En
+début de cette nouvelle année scolaire 2019-20 (5p), le SPJ et la curatrice devaient respectivement
+contacter le secrétariat de l'école et la maîtresse d'U.________, pour les informer que
+le père d'U.________ ne pouvait pas se rendre dans la classe, mais cela n'a été fait.
+Le
+père a donc pris contact avec la nouvelle maîtresse au mois d'octobre et s'est rendu dans la
+classe d'U.________, ce qui a eu encore une fois des répercussions sur U.________ quand elle l'a
+appris.
+Et
+en plus, au lieu de reconnaître leurs erreurs et de les assumer, tout le monde essayé de se
+renvoyer la balle, tout en félicitant Monsieur de son initiative.
+Après
+coup, les intervenants ont tout de même reconnu qu'il y avait eu un couac... UN COUAC ???? ET U.________
+DANS TOUT CA ??
+Il
+m'est une fois de plus inutile de vous dire dans quel état s'est trouvé ma fille en ayant su
+qu'il était allé dans sa classe, sur sa chaise, regardant dans ses affaires.
+Ainsi
+cela fait depuis le mois de novembre dernier qu'U.________ a recommencé à avoir des montées
+d'angoisse, qu'elle ne veut plus aller à l'école, qu'elle a de nouveau de l'eczéma, qu'elle
+est constipée, pleure tous les jours et régresse. Elle n'a plus confiance en sa curatrice qui
+lui avait fait des promesses.
+Un
+couac de plus qui renforce le traumatisme d'U.________ déjà bien présent.
+J'ai
+fait part, une fois de plus, des difficultés d'U.________ liées à ce nouveau « couac
+» mais les intervenants ne sont pas entrés en matière: ils ont leur interprétation
+de l'état d'U.________. Moi je n'interprète rien, je constate seulement. Je suis sa maman,
+je vis avec elle et je la vois souffrir. C'est tout un système qui lui gâche son enfance, sa
+vie. Les droits du père prédominent sur ceux d'U.________ qui souffre.
+Depuis
+l'été 2018, où elle était si mal après avoir dû rencontrer son père
+aux Boréales, U.________ est suivie par une nouvelle pédopsychiatre. Ayant appris que celle-ci
+rencontrait également son père, elle n'arrive pas à se sentir en confiance avec elle.
+Elle se rend aux rendez-vous en traînant les pieds, se sentant forcée. Ces conditions ne sont
+pas productives pour une thérapie qui puisse aider U.________ à surmonter ses angoisses notamment.
+Si
+le père a besoin d'une guidance parentale, comme l'affirment les intervenants, il devrait consulter
+une autre personne que la psychiatre d'U.________, me semble-t-il.
+De
+plus, c'est à
+moi
+que ces séances sont facturées, ce que j'ai déjà répété à plusieurs
+reprises à tous les intervenants qui m'ont appris récemment que c'était au SPJ de faire
+le nécessaire mais j'ignore quand cela sera enfin mis à jour. En attendant, je continue de
+payer.
+Afin
+de discuter de ces dysfonctionnements et de mon questionnement sur le suivi peu satisfaisant de ce réseau
+par rapport à l'écoute d'U.________ et à sa protection, une rencontre avec les différents
+intervenants et le père a eu lieu au mois de février au SPJ.
+Cela
+a duré une vingtaine de minutes et rien d'important au sujet d'U.________ n'a été discuté,
+comme s'il ne fallait pas trop faire de vagues et qu'entendre et parler des souffrances d'U.________
+ne servait à rien, voire dérangeait. Seule compte la décision de Justice, c'est-à-dire
+« reprendre le lien », lien qui n'a par ailleurs jamais existé, le reste n'ayant
+aucune importance. J'aurais pu prendre la parole, bien sûr, mais à quoi cela sert-il de répéter
+ce qui n'est jamais pris en compte. Le pire c'est que c'est moi qui passe pour une maman angoissée.
+Et malheureusement, toutes les erreurs à répétition, ces « couacs », cet acharnement
+à aller de l'avant sans écouter ma fille, sans prendre en considération ses réticences,
+ses peurs, son mal-être ne contribuent pas à lui donner confiance.
+A
+la suite de ce mini-réseau « sans vague », il a été décidé qu'U.________
+devait retourner aux Boréales, avec sa curatrice, pour rencontrer une nouvelle thérapeute dans
+l'équipe, et afin de préparer, encore une fois à ma demande, les 4 futures rencontres
+prévues avec son père, en ma présence. A chaque fois c'est un stress énorme pour
+U.________, qui dort mal, se plaint de maux de ventre, peine à aller à l'école, même
+en ma compagnie, s'isole dans sa chambre, dit qu'elle ne veut pas aller à ces rencontres et traîne
+les pieds pour s'y rendre.
+Après
+la 1ère rencontre avec son père, les signes du mal-être d'U.________ se sont accentués,
+surtout au niveau du sommeil. J'ai dû « batailler » pour qu'elle vienne, qu'elle accepte
+de s'y rendre et durant la rencontre a tout fait pour ignorer son père. Avant la deuxième rencontre
+prévue un lundi, U.________ a été malade tout le week-end, s'est plainte de maux de ventre,
+au point que j'ai dû appeler sa pédiatre qui, dans un premier temps m'a conseillé par
+téléphone puis finalement l'a reçue dans son cabinet. Le deuxième rendez-vous aux
+Boréales a donc été reporté. Lors de la rencontre suivante, U.________ s'est montrée
+indifférente. La 3ème rencontre, n'a pu avoir lieu à cause du début de l'épidémie.
+Depuis
+tout s'est aggravé. Il s'agît de pandémie et il en est résulté le confinement
+actuel et la fermeture des frontières.
+Comme
+la date de la reprise des classes est prévue pour aujourd'hui, le 11 mai, il me semble important
+maintenant de vous envoyer ce courrier, d'autant plus qu'U.________ commence à dire qu'elle ne veut
+pas retourner à l'école car elle associe cette reprise avec la reprise de ses rencontres aux
+Boréales.
+J'ai
+déjà reçu aujourd'hui des propositions de dates de la part des Boréales pour la suite
+des séances entre U.________ et son père.
+Il
+est donc important que vous puissiez recevoir ce courrier maintenant, d'autant plus que le directeur
+du SPJ m'avait écrit pour me dire que compte tenu des rencontres d'U.________ et de son père
+aux Boréales, tout était pour le mieux. C'est loin d'être le cas.
+Je
+dispose de tous les courriers, emails, rapports et témoignages à dispositions et je vous fais
+parvenir des lettres qu'U.________ avait écrites avant les rencontres aux Boréales, ainsi que
+le dernier courrier reçu par le directeur du SPJ.
+D'avance
+je vous remercie, Madame la Conseillère d'Etat, de l'attention que vous continuerez à porter
+à la situation d'U.________, et vous présente mes salutations respectueuses. »
+(P.
+4/2).
+e)
+La
+plainte déposée le 8 octobre 2020 par le recourant a également été dirigée
+contre la sœur d’Q.________, [...], laquelle avait écrit avant sa sœur à la
+Conseillère d'Etat, sans que le plaignant ne soit cependant au courant du contenu de ce premier
+courrier.
+Dans sa plainte, le plaignant a indiqué que les termes du courrier d’Q.________ du 15 mai
+2020 étaient attentatoires à son honneur. Il a reproché en particulier à la prénommée
+d’avoir, dans cette lettre, sous-entendu à plusieurs reprises que, nonobstant son acquittement,
+il avait bel et bien commis des attouchements sur leur fille U.________. Il a relevé également
+qu’Q.________ avait porté atteinte à son honneur en affirmant, toujours dans le même
+courrier, qu’il avait porté atteinte à la santé psychique de leur fille en se rendant
+dans sa classe.
+Enfin, X.________ a fait également valoir que la mère de l’enfant s’était
+rendue coupable de violation du devoir d’assistance ou d’éducation en mettant tout en
+œuvre pour éviter qu’une relation entre lui et sa fille se tisse.
+B.
+Par ordonnance du 3 novembre 2020, le Ministère
+public de l'arrondissement de La Côte a refusé d’entrer en matière sur la plainte
+déposée par X.________ (I) et a laissé les frais à la charge de l’Etat (II).
+La Procureure a retenu, d’une part, que la lettre litigieuse n’apparaissait pas comme un
+courrier voulant porter atteinte à l’honneur du plaignant mais bien plutôt comme une
+attaque contre la gestion faite par le SPJ de la situation de leur fille U.________. D’autre part,
+aucun élément au dossier ne permettait de retenir que c’était bien le comportement
+de la prévenue consistant à empêcher tout lien entre U.________ et son père qui était
+à l’origine de la mise en danger du développement physique ou psychique de cette dernière,
+si mise en danger il y avait, mais qu’il apparaissait bien plutôt que les parties étaient
+dans un conflit depuis de nombreuses années, qu’elles n’avaient jamais réussi à
+communiquer entre elles et qu’U.________ se retrouvait dans un conflit de loyauté qui pouvait
+également jouer un rôle dans les difficultés qu’elle rencontrait. Enfin, rien au
+dossier ne permettait de retenir l’infraction de dénonciation calomnieuse.
+C.
+Par acte du 20 novembre 2020, X.________ a interjeté
+recours contre cette ordonnance, en concluant, sous suite de frais et dépens, à son annulation
+et au renvoi du dossier de la cause au Ministère public de l'arrondissement de La Côte pour
+qu’il ouvre une instruction s’agissant des infractions de calomnie, subsidiairement diffamation,
+et de violation du devoir d’assistance et d’éducation.
+Par courrier du 3 décembre 2020, X.________, par son conseil, a produit une copie du procès-verbal
+d’audience du 27 octobre 2020 qui s’est tenue devant le Justice de Paix, estimant que ce
+document était nécessaire à la compréhension du contexte familial.
+En droit
+:
+1.
+1.1
+Les parties peuvent attaquer
+une ordonnance de non-entrée en matière rendue par le Ministère public (art. 310 CPP [Code
+de procédure pénale suisse du 5 octobre 2007 ; RS 312.0 ]) dans les dix jours devant l'autorité
+de recours (art. 310 al. 2, 322 al. 2, 396 al. 1 CPP ; cf. art. 20 al. 1 let. b CPP) qui est, dans
+le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [Loi d'introduction
+du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi d'organisation
+judiciaire du 12 décembre 1979 ; BLV 173.01]).
+1.2
+Interjeté en temps utile et dans les formes
+prescrites (art. 385 al. 1 CPP) auprès de l'autorité compétente, par la partie plaignante
+qui a qualité pour recourir (art. 382 al. 1 CPP), le recours est recevable.
+Tel n'est cependant pas le cas du courrier du conseil du recourant adressé le 3 décembre 2020
+à la Chambre de céans (P. 8), lequel doit être considéré comme un mémoire
+complémentaire manifestement tardif et, comme tel, irrecevable.
+2.
+2.1
+Conformément à
+l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement – c'est-à-dire
+sans qu'une instruction soit ouverte (art. 309 al. 1 et 4 CPP ; Grodecki/Cornu, in : Jeanneret/Kuhn/Perrier
+Depeursinge [éd.], Code de procédure pénale suisse, Commentaire romand, 2
+e
+éd., Bâle 2019, n. 2 ad art. 310 CPP) – une ordonnance de non-entrée en matière
+lorsqu'il apparaît, à réception de la dénonciation (cf. art. 301 et 302 CPP) ou de
+la plainte (Grodecki/Cornu, op. cit., n. 1 ad art. 310 CPP) ou après une procédure préliminaire
+limitée aux investigations de la police (art. 300 al. 1 let. a, 306 et 307 CPP), que les éléments
+constitutifs d'une infraction ou les conditions d'ouverture de l'action pénale ne sont manifestement
+pas réunis (TF 6B_401/2020 du 13 août 2020 consid. 2.1).
+Selon cette disposition, qui doit être appliquée selon le principe
+in
+dubio pro duriore
+, il importe donc que les éléments
+constitutifs de l'infraction ne soient manifestement pas réunis. En d'autres termes, il faut être
+certain que l'état de fait ne constitue aucune infraction (ATF 137 IV 285 consid. 2.3 ; TF 6B_375/2020
+du 9 juillet 2020 consid. 3.2 et les références citées). Une ordonnance de non-entrée
+en matière ne peut être rendue que dans les cas clairs du point de vue des faits, mais également
+du droit ; s'il est nécessaire de clarifier l'état de fait ou de procéder à une appréciation
+juridique approfondie, le prononcé d'une ordonnance de non-entrée en matière n'entre pas
+en ligne de compte. En règle générale, dans le doute, il convient d'ouvrir une enquête
+pénale (ATF 143 IV 241 consid. 2.2.1 ; ATF 138 IV 86 consid. 4.1.2 ; ATF 137 IV 285 consid.
+2.3 et les réf. citées, JdT 2012 IV 160). Dans cette mesure, le principe
+in
+dubio pro duriore
+, qui signifie qu’en règle
+générale, un classement ou une non-entrée en matière ne peut être prononcé
+par le Ministère public que lorsqu’il apparaît clairement que les faits ne sont pas punissables
+ou que les conditions à la poursuite pénale ne sont pas remplies, s’applique sous l’angle
+de l’art. 310 CPP (Grodecki/Cornu, op. cit., n. 10b ad art. 310 CPP). En revanche, le Ministère
+public doit pouvoir rendre une ordonnance de non-entrée en matière dans les cas où il
+apparaît d’emblée qu’aucun acte d’enquête ne pourra apporter la preuve
+d’une infraction à la charge d’une personne déterminée (TF 6B_375/2020 précité).
+2.2
+Le recourant conteste
+l'ordonnance de non-entrée en matière et fait valoir une violation du principe
+in
+dubio pro duriore
+estimant que les faits dénoncés
+justifieraient une instruction plus complète du Ministère public nécessitant notamment
+la production du dossier de la cause civile, la production de toutes les correspondances échangées
+entre la prévenue et/ou les membres de sa famille et celle échangée entre sa sœur,
+[...], et la Conseillère d'Etat Cesla Amarelle, ainsi que l'audition de témoins, dont la curatrice
+de l'enfant, et l'audition des parties.
+2.3
+2.3.1
+Selon l'art. 173 ch. 1
+CP (Code pénal du 21 décembre 1937; RS 311.0), se rend coupable de diffamation celui qui, en
+s'adressant à un tiers, aura accusé une personne ou jeté sur elle le soupçon de tenir
+une conduite contraire à l'honneur, ou de tout autre fait propre à porter atteinte à sa
+considération, ou celui qui aura propagé une telle accusation ou un tel soupçon.
+A teneur de l'art. 174 ch. 1 CP, se rend coupable de calomnie celui qui, connaissant la fausseté
+de ses allégations, aura, en s'adressant à un tiers, accusé une personne ou jeté
+sur elle le soupçon de tenir une conduite contraire à l'honneur, ou de tout autre fait propre
+à porter atteinte à sa considération, ou celui qui aura propagé de telles accusations
+ou de tels soupçons, alors qu'il en connaissait l'inanité.
+Les art. 173 et 174 CP protègent la réputation d'être une personne honorable, c'est-à-dire
+de se comporter comme une personne digne a coutume de le faire selon les conceptions généralement
+reçues. L'honneur protégé par le droit pénal est conçu de façon générale
+comme un droit au respect, qui est lésé par toute assertion propre à exposer la personne
+visée au mépris en sa qualité d'homme (ATF 137 IV 313 consid. 2.1.1; ATF 132 IV 112
+consid. 2.1; ATF 128 IV 53 consid. 1 a). La diffamation suppose une allégation de fait et non un
+simple jugement de valeur (ATF 117 IV 27 consid. 2c). Il ne suffit pas d'abaisser une personne dans la
+bonne opinion qu'elle a d'elle-même ou dans les qualités qu'elle croit avoir. Echappent ainsi
+à la répression les assertions qui, sans faire apparaître la personne comme méprisable,
+sont seulement propres à ternir la réputation dont elle jouit ou à ébranler la confiance
+qu'elle a en elle-même (ATF 128 IV 53 consid. la). Pour apprécier si une déclaration est
+attentatoire à l'honneur, il faut se fonder non pas sur le sens que lui donne la personne visée,
+mais sur une interprétation objective selon la signification  qu'un destinataire non prévenu
+doit lui donner dans les circonstances d'espèce (ATF 137 IV 313 consid. 2.1.3).
+Tant la diffamation que la calomnie sont des infractions intentionnelles (Corboz, Les infractions en
+droit suisse, 3
+e
+éd., vol. I, Berne 2010, n. 48 ad art. 173 CP et n. 11 ad art. 174 CP). La calomnie est une forme
+qualifiée de diffamation, dont elle se distingue en cela que les allégations attentatoires
+à l'honneur sont fausses, que l'auteur doit avoir eu connaissance de la fausseté de ces allégations
+et qu'il n'y a dès lors pas de place pour les preuves libératoires prévues dans le cas
+de la diffamation (ATF 136 IV 170 consid. 2.1; TF 613_676/2017 du 15 décembre 2017 consid. 3.1;
+Corboz, op. cit., n. 11 ad art. 174 CP; Favre/Pellet/Stoudmann, Code pénal annoté, 3
+e
+éd., Lausanne 2011, n. 1.1 ad art. 174 CP).
+2.3.2
+La loi prévoit la possibilité pour une personne accusée de diffamation d'apporter des
+preuves libératoires qui excluent sa condamnation (art. 173 ch. 2 CP). Aux termes de cette disposition,
+le prévenu n'encourra aucune peine s'il prouve que les allégations qu'il a articulées
+ou propagées sont conformes à la vérité ou qu'il avait des raisons sérieuses
+de les tenir de bonne foi pour vraies. La preuve de la vérité est apportée lorsque l'auteur
+de la diffamation établit que tous les éléments essentiels des allégations qu'il
+a articulées ou propagées sont vrais (TF 6B_371/2011 du  15  août 2011 consid.
+5.3 et les arrêts cités ; Dupuis et al., Dupuis et al., Petit commentaire, Code pénal,
+2
+e
+éd., Bâle 2017, n. 30 ad art. 173 CP et les réf. citées). La preuve de la bonne foi
+est apportée lorsque le prévenu démontre qu’il a cru à la véracité
+de ce qu’il disait, d’une part, et qu’il avait des raisons sérieuses de le croire,
+après avoir accompli ce qu’on pouvait attendre de lui pour en contrôler l’exactitude,
+d’autre part (ATF 124 IV 149 consid. 3b ; TF 6B_1047/2019 du 15 janvier 2020 consid.
+3.1). Il faut se placer exclusivement sur les éléments dont il avait connaissance à l’époque
+de sa déclaration (ibidem). L'admission à la preuve libératoire constitue la règle.
+Elle ne peut être refusée que si deux conditions sont réunies cumulativement : l'auteur
+a agi principalement dans le but de dire du mal d'autrui et il s'est exprimé sans motif suffisant
+(art. 173 ch. 3 CP ; TF 6B_1268/2019 précité, consid. 1.2).
+2.3.3
+Il n'est pas contesté que le recourant a
+fait l'objet d'une enquête pénale pour actes d'ordre sexuel avec des enfants ensuite des déclarations
+de sa fille lors de l'exercice de son droit de visite au Point Rencontre et qu'il a été libéré
+de cette accusation au bénéfice du doute au terme de la procédure.
+2.3.3.1
+Pour qu'il entre dans les prévisions de l'art. 173 al. 1 CP, il suffit, aux termes mêmes de
+cette disposition, qu'un propos « jette ... le soupçon » sur le lésé de tenir
+une conduite contraire à l'honneur. En l’espèce, le courrier adressé à la Conseillère
+d'Etat comporte en particulier les deux passages suivants :
+« (...) U.________ a dit
+avec ses propres mots bien sûr, qu'elle subissait des attouchements de son père, alors qu'elle
+le rencontrait dans un point rencontre. En a résulté une procédure pénale à
+la suite de laquelle il a été "acquitté au bénéfice du doute" ».
+(...)
+« De plus, il faut que je fasse comme si de rien n'était, malgré le fait qu'U.________
+l'ait
+accusé d'attouchements ».
+Ces deux passages, interprétés objectivement,
+c'est-à-dire tels que devait les comprendre un destinataire non averti (cf. Dupuis et al., op. cit.,
+n. 16 ad art. 173 CP), signifient que leur auteur, soit Q.________, soupçonne le recourant
+d'avoir commis des attouchements sur l'enfant, soit d'un comportement qui est contraire à l'honneur.
+Ces deux passages sont contenus dans une lettre adressée à un tiers, auprès duquel les
+soupçons sont donc colportés. Les conditions d'application de l'art. 173 al. 1 CP paraissent
+clairement réalisées. Il reste dès lors à examiner s’il apparaît déjà
+clairement qu’en cas de mise en accusation, la prévenue devrait de toute manière être
+exemptée de toute peine en vertu des al. 2 et 3 de l’art. 173 CP.
+2.3.3.2
+Au regard de l'art. 173 al. 3 CP, il apparait que Q.________ devrait de toute manière être
+admise à apporter la preuve de la vérité ou de sa bonne foi (preuves libératoires),
+dès lors que les allégations attentatoires à l'honneur que comporte la lettre ont pour
+but d'obtenir une intervention de la Conseillère d'Etat afin que soit préservé ce que
+l'auteur de la lettre estime être l'intérêt de son enfant. Il n'en irait pas de même
+dans un autre contexte.
+2.3.3.3
+S’agissant en premier lieu de la preuve de la vérité, elle serait à l'évidence
+vouée à l'échec, puisque la preuve d'une infraction pénale doit être rapportée
+par un jugement condamnatoire (cf. Dupuis et al., op. cit., n. 32 ad art. 173) et que le recourant
+a été acquitté.
+2.3.3.4
+Reste la preuve de la bonne foi. A cet égard, il est constant que l'enfant a tenu des propos inquiétants,
+de nature à troubler une mère, et que l’expertise de crédibilité n’avait
+pas pu démentir. La bonne foi d’Q.________ devrait ainsi selon toute vraisemblance être
+retenue et le mensonge (dans le cadre de l'art. 174 CP) être exclu.
+Pour ce motif, c’est à juste titre que le Ministère public a refusé d’entrer
+en matière sur la plainte déposée par le recourant en tant qu’elle concerne les
+infractions de diffamation et de calomnie.
+2.4
+2.4.1
+Sous le titre marginal
+"violation du devoir d'assistance ou d'éducation", l'art. 219 CP prévoit que celui
+qui aura violé son devoir d'assister ou d'élever une personne mineure dont il aura ainsi mis
+en danger le développement physique ou psychique, ou qui aura manqué à ce devoir, sera
+puni d'une peine privative de liberté de trois ans au plus ou d'une peine pécuniaire (al. 1) ;
+si le délinquant a agi par négligence, la peine pourra être une amende au lieu d'une peine
+privative de liberté ou d'une peine pécuniaire (al. 2). Cette disposition protège le développement
+physique et psychique du mineur, à savoir d'une personne âgée de moins de 18 ans (ATF
+126 IV 136 consid. 1 b p. 138 ; ATF 125 IV 64 consid. 1 p. 68).
+Pour que l'art. 219 CP soit applicable, il faut d'abord que l'auteur ait eu envers une personne mineure
+un devoir d'assistance, c'est-à-dire de protection, ou un devoir d'éducation, c'est-à-dire
+d'assurer le développement – sur les plans corporel, spirituel et psychique – du mineur
+(ATF 125 IV 64 consid. 1a p. 68). Il doit s'agir d'une relation d'une certaine durée, principalement
+en ce qui concerne le devoir d'éducation (Dupuis et al., op. cit., n. 5 ad art. 219 CP). La position
+de garant de l'auteur peut être fondée sur la loi, sur une décision de l'autorité
+ou sur un contrat, voire sur une situation de fait. Sont notamment considérés comme des garants
+les parents naturels ou adoptifs, le tuteur, le maître d'école, le responsable d'une institution,
+le directeur d'un home ou d'un internat, l'employeur, la gardienne de jour, la jardinière d'enfants,
+le personnel soignant dans un hôpital ou une clinique (ATF 125 IV 64 consid. la p. 69). Concernant
+les parents, il importe peu qu'ils vivent ou non avec l'enfant ; même s'ils sont séparés
+de fait, leur obligation d'éducation et d'assistance subsiste (Moreillon, Quelques réflexions
+sur la violation du devoir d'assistance ou d'éducation, in : RPS 116/1998, p. 431 ss, spéc.
+p. 435).
+Il faut ensuite que l'auteur ait violé son devoir d'assistance ou d'éducation ou qu'il ait
+manqué à ce devoir. Le comportement délictueux peut donc consister en une action ou en
+une omission. Dans le premier cas, l'auteur viole positivement son devoir, par exemple en maltraitant
+le mineur ou en l'exploitant par un travail excessif ou épuisant. Dans le second cas, il manque
+passivement à son obligation, par exemple en abandonnant l'enfant, en négligeant de lui donner
+des spins ou en ne prenant pas, face à un danger, les mesures de sécurité qui s'imposent
+(ATF 125 IV 64 consid. 1 a).
+Les actes reprochés doivent mettre en danger le développement physique ou psychique du mineur.
+Définissant un délit de mise en danger concrète, l'art. 219 CP n'exige pas une atteinte
+à l'intégrité corporelle ou psychique du mineur ; une mise en danger suffit, celle-ci
+devant toutefois être concrète, c'est-à-dire qu'elle doit apparaître vraisemblable
+dans le cas concret (ATF 126 IV 136 consid. la p. 139 ; ATF 125 IV 64 consid. 1 a p. 69).
+En pratique, il sera souvent difficile de déterminer quand il y aura un risque pour le développement
+du mineur. Il sera en particulier difficile de distinguer les atteintes qui devront relever de l'art.
+219 CP des traumatismes qui font partie de la vie de tout enfant. Vu l'imprécision de la disposition,
+la doctrine recommande de l'interpréter de manière restrictive et d'en limiter l'application
+aux cas manifestes. Des séquelles durables, d'ordre physique ou psychique, devront apparaître
+vraisemblables, de telle sorte que le développement du mineur sera mis en danger. Pour provoquer
+un tel résultat, il faudra normalement que l'auteur agisse de façon répétée
+ou viole durablement son devoir ; une transgression du droit de punir de peu d'importance ne saurait
+déjà tomber sous le coup de l'art. 219 CP (TF 6B_457/2013 du 29 octobre 2013).
+Sur le plan subjectif, l'auteur peut avoir agi intentionnellement – dans ce cas, le dol éventuel
+suffit – ou par négligence (ATF 125 IV 64 consid. 1 a p. 70).
+2.4.2
+Dans son acte de recours,
+le recourant mentionne que les éléments dont il dispose, et qu'il a fait valoir devant le Ministère
+public, feraient naître le soupçon que sa fille serait victime d'aliénation parentale
+de la part de sa mère dont le comportement serait par conséquent susceptible de mettre en danger
+le bon développement de l'enfant.
+En l'occurrence, il ressort de l'expertise pédopsychiatrique déposée en juin 2016, que
+la situation de la fille des parties fait l'objet d'examens réguliers et pour ainsi dire continus
+de la part des autorités judiciaires, ce depuis l'année 2011 à tout le moins (P. 4/3,
+pp. 8 ss). Plusieurs rapports de la Direction générale de l'enfance et de la jeunesse (DGEJ),
+anciennement SPJ, ont été rendus au sujet de l'enfant et des parties. La situation est suivie
+dans le cadre d'un réseau regroupant la DGEJ, une pédiatre, une pédopsychiatre, le centre
+de consultation du CHUV Les Boréales et une curatrice. Dans ses conclusions, l'experte mentionne
+expressément que l'enfant des parties ne souffre pas d'aliénation parentale. Cette experte
+a également retenu que le développement de l'enfant ne semblait pas être en danger, la
+fille des parties ayant continué à grandir et à poursuivre ses apprentissages dans la
+norme des enfants de son âge. L'experte a ainsi expressément constaté que l'enfant ne
+présentait pas de trouble du développement. L'état de stress observé chez la fille
+des parties à l'évocation des contacts avec son père a été jugé par l'experte
+comme ayant des causes multifactorielles. Par conséquent, il n'existe pas d'indice concret permettant
+de retenir que les éléments constitutifs de l'infraction de violation du devoir d'assistance
+et d'éducation seraient réunis, étant rappelé que l’application de la disposition
+pénale en cause doit être limitée aux cas manifestes. Au demeurant, une procédure
+étant pendante devant la Justice de paix au sujet de l’enfant des parties, cette autorité,
+alertée le cas échéant par les nombreux intervenants impliqués dans la situation,
+aurait été à même d’intervenir si des éléments avaient justifié
+de retirer la garde de la fillette à sa mère en raison d’une atteinte illicite concrète
+à son développement physique ou psychique. Cela étant, l’élément objectif
+de l’infraction de l’art. 219 CP n’apparaît clairement pas réalisé et
+la non-entrée en matière se révèle également fondée sur ce point.
+2.5
+2.5.1
+Aux termes de l'art. 303
+ch. 1 al. 1 CP, se rend coupable de dénonciation calomnieuse celui qui aura dénoncé à
+l'autorité, comme auteur d'un crime ou d'un délit, une personne qu'il savait innocente, en
+vue de faire ouvrir contre elle une poursuite pénale.
+Sur le plan objectif, cette norme suppose qu'une communication imputant faussement à une personne
+la commission d'un crime ou d'un délit ait été adressée à l'autorité (ATF
+132 IV 20 consid. 4.2 ; ATF 75 IV 78). La dénonciation consiste à imputer en fait à la
+personne dénoncée un comportement qui est, en droit, constitutif d'un crime ou d'un délit.
+Pour qu'il y ait dénonciation, il n'est pas nécessaire que l'auteur affirme, comme étant
+certain, que la personne dénoncée a eu un tel comportement ; il suffit qu'il rapporte à
+l'autorité, à dessein, des faits suffisants pour que celle-ci conçoive un soupçon
+qui l'oblige à procéder à des investigations (Delnon/Rüdy, in : Niggli/Wiprächtiger
+[éd.], Basler Kommentar, Strafrecht II, 4
+e
+éd., Bâle 2019, n. 17 ad art. 303 CP). La dénonciation doit être transmise à
+une autorité compétente ; il n'est pas nécessaire qu'elle soit compétente pour la
+poursuite de l'infraction ; il suffit qu'il soit de son devoir de transmettre la dénonciation à
+l'autorité qui l'est ou, si ce n'est pas le cas, qu'elle la transmette effectivement (Dupuis et
+al., op. cit., n. 12 ad art. 303 CP et les auteurs cités). La dénonciation doit faire
+porter l'accusation sur une personne qui est innocente ; la personne visée n'est donc pas coupable
+de l'infraction dont on l'accuse, soit parce que cette dernière n'a jamais été commise,
+soit parce qu'elle l'a été par un tiers (Dupuis et al., op. cit., n. 18 ad art. 303 CP et les
+références citées). Est considéré comme innocent notamment celui qui a été
+libéré par jugement d'acquittement ou par le prononcé d'un non-lieu (ATF 136 IV 170 consid.
+2.1 ; Dupuis et al., op. cit., n. 21 ad art. 303 CP et les références citées). Cela étant,
+celui qui dépose une dénonciation pénale contre une personne ne se rend pas coupable de
+dénonciation calomnieuse du seul fait que la procédure pénale ouverte consécutivement
+à la dénonciation est classée ; l'infraction n'est réalisée que si l'innocence
+de la personne dénoncée a été constatée dans une procédure précédente
+(ATF 136 IV 170 précité consid. 2.2).
+2.5.2
+En l'occurrence, l'infraction
+de dénonciation calomnieuse n'entre pas en ligne de compte puisque la prévenue a précisé
+que les faits litigieux avaient fait l'objet d'une enquête pénale et que le recourant avait
+été acquitté. Les éléments constitutifs de l'infraction en cause sont donc inexistants.
+Au surplus, étant donné le contexte dans lequel s'inscrit la lettre de la prévenue et
+le but qu'elle poursuit, à savoir la remise en question des actions de la DGEJ, il n'y a pas le
+moindre début d'indice tendant à laisser supposer que la prévenue entendait faire ouvrir
+une nouvelle enquête pénale contre le recourant.
+2.6
+Enfin, s'agissant des
+mesures d'instruction envisagées par le recourant, elles ne sont pas susceptibles de fournir des
+indications supplémentaires sur l'interprétation qu'il conviendrait de donner aux propos tenus
+dans la lettre litigieuse. Pour ce qui concerne en particulier la lettre adressée par la sœur
+de la prévenue à la Conseillère d'Etat, rien ne permet de supposer qu'elle contiendrait
+des éléments répréhensibles, ce d'autant moins qu'aucune infraction ne peut être
+retenue vis-à-vis de la prévenue elle-même dans cette affaire. Fondée sur de simples
+spéculations, cette réquisition de preuve ne saurait justifier l’ouverture d’une
+instruction.
+3.
+En définitive, le
+recours, manifestement mal fondé, doit être rejeté sans échange d'écritures
+(art. 390 al. 2 CPP) et l’ordonnance entreprise confirmée.
+Les frais de la procédure de recours, par 2’420 fr. (art. 20 al. 1 TFIP [tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L'ordonnance du 3 novembre 2020 est confirmée.
+III.
+Les frais d'arrêt, par 2’420 fr. (deux
+mille quatre cent vingt francs), sont mis à la charge de X.________.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Patricia Michellod, avocate (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Procureure de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
