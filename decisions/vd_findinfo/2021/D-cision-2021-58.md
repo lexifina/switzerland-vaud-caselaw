@@ -1,0 +1,699 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___58"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 58"
+decided: "2021-01-19"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8095597"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2021 / 58
+
+## Regeste
+
+LIBÉRATION CONDITIONNELLE, EXÉCUTION DES PEINES ET DES MESURES, PLAN D'EXÉCUTION DES PEINES, OPPORTUNITÉ | 86 al. 1 CP, 86 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 19.01.2021 Décision / 2021 / 58
+
+LIBÉRATION CONDITIONNELLE, EXÉCUTION DES PEINES ET DES MESURES, PLAN D'EXÉCUTION DES PEINES, OPPORTUNITÉ | 86 al. 1 CP, 86 CP
+
+TRIBUNAL
+CANTONAL
+49
+AP20.016109-JSE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+19 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Meylan et Oulevey, juges
+Greffière
+:              Mme
+de Benoit
+*****
+Art.
+86 al. 1 CP
+Statuant sur le recours interjeté le 8 janvier 2021 par
+A.X.________
+contre la décision rendue le 28 décembre 2020 par le Collège des Juges d’application
+des peines dans la cause
+n° AP20.016109-JSE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Condamnations
+pénales
+A.X.________, né le [...] 1986, a été condamné le 27 juin 2008 par le Tribunal correctionnel
+de l'arrondissement de Lausanne à une peine privative de liberté de 9 mois, sous déduction
+de 7 jours de détention avant jugement, avec sursis pendant 3 ans, pour tentative de vol, vol
+en bande, dommages à la propriété, violation de domicile, induction de la justice en erreur,
+vol d'usage, tentative de vol d'usage et contravention à la LStup (loi fédérale sur les
+stupéfiants et les substances psychotropes du 3 octobre 1951 ; RS 812.121). Par arrêt
+du 26 septembre 2008, la Cour de cassation pénale a confirmé le jugement de première instance.
+Le sursis accordé à l'intéressé a été révoqué le 7 mars 2011.
+A.X.________ a en outre été condamné le 28 août 2008 par le Tribunal correctionnel
+de l'arrondissement de Lausanne à une peine privative de liberté de 9 mois, avec sursis pendant
+3 ans, pour actes d'ordre sexuel avec des enfants, pornographie, induction de la justice en erreur, port
+indu de l'uniforme militaire, infraction à la LStup, violations simple et grave des règles
+de la circulation routière, violation des devoirs en cas d'accident, vol d'usage au préjudice
+d'un proche, circulation sans permis, mise à disposition d'un véhicule à un conducteur
+non titulaire du permis de conduire et contravention à l'Ordonnance sur les règles de la circulation
+routière. Ledit sursis a été révoqué le 7 mars 2011.
+A.X.________ a encore été condamné le 2 mars 2009 par le Tribunal de police de Genève
+à une peine privative de liberté de 30 mois, sous déduction de 3 mois et 10 jours
+de détention avant jugement, pour vol, brigandage et faux dans les titres.
+Enfin, le 19 novembre 2010, le Tribunal criminel de l'arrondissement de Lausanne, a reconnu A.X.________
+coupable d'assassinat, brigandage, vol, tentative de vol, dommages à la propriété, violation
+de domicile et contravention à la LStup, a révoqué les sursis qui lui avaient été
+accordés les 28 août 2008 par le Tribunal correctionnel de Lausanne et 26 septembre 2008 par
+la Cour de cassation pénale et a condamné le prénommé à une peine privative
+de liberté d'ensemble de 16 ans, sous déduction de 596 jours de détention avant jugement,
+et à une amende de 200 francs.
+Les faits ayant menés à cette dernière condamnation peuvent être résumé
+comme il suit : le matin du 29 décembre 2008, A.X.________ s'est rendu, avec U.________, au
+domicile des époux A.S.________ et B.S.________, à [...] – qu'il connaissait pour l'avoir
+déjà cambriolé à deux reprises –, où les deux comparses entendaient faire
+main basse sur le contenu du coffre-fort, en usant de violence envers le couple s'ils n'obtenaient pas
+satisfaction. A cette occasion, A.S.________ a été roué de coups et son épouse frappée
+et menacée d'un couteau sous la gorge. A.X.________ et U.________ ont quitté les lieux avec
+quelque 3'400 fr., 200 euros, la montre de B.S.________ et diverses cartes bancaires. A.S.________ est
+décédé des suites des coups reçus. Dans son jugement, le tribunal a considéré
+que la culpabilité de A.X.________ était écrasante, ayant été l'instigateur
+de cette entreprise funeste et n'ayant rien fait pour empêcher U.________ de s'acharner sur A.S.________,
+qui agonisait à leurs pieds. Il a également été retenu à sa charge ses antécédents,
+le concours d'infractions et une responsabilité pénale pleine et entière. A décharge,
+l'autorité de première instance a retenu que l'intéressé avait spontanément
+avoué les faits, que ses déclarations avaient permis de faire avancer l'enquête et débouché
+sur l'identification et l'arrestation de U.________. Le tribunal a encore pris en compte son bon comportement
+en prison et ses engagements financiers pris en faveur des victimes.
+Par arrêt du 7 mars 2011, la Cour de cassation pénale du Tribunal cantonal a rejeté le
+recours de A.X.________. Elle a en revanche admis le recours en réforme du Ministère public,
+qui contestait le genre et la quotité de la peine prononcée à l'encontre du précité.
+Ainsi, l’intéressé a été condamné à une peine privative de liberté
+de 14 ans et demi, sous déduction de 596 jours de détention avant jugement et à une
+amende de 200 fr., a révoqué les sursis des 28 août 2008 du Tribunal correctionnel
+de l’arrondissement de Lausanne et 26 septembre 2008 de la Cour de cassation pénale et
+ordonné l'exécution des peines de 9 mois de peine privative de liberté et 9 mois de peine
+privative de liberté prononcées à ces occasions.
+Dans son arrêt du 23 septembre 2011, la Cour de droit pénal du Tribunal fédéral a
+rejeté le recours de A.X.________ dans la mesure de sa recevabilité.
+b)
+Expertises
+psychiatriques
+A.X.________ a fait l'objet de trois expertises psychiatriques dont les rapports ont été rendus
+respectivement les 17 octobre 2006 par le Pr P.________, 30 septembre 2009 par le Pr J.________ et le
+Dr Z.________ et 8 août 2019 par le Dr V.________ et la psychologue W.________.
+La première a été réalisée dans le cadre de l'instruction ayant mené au
+jugement du 28 août 2008. L'expert P.________ a posé le diagnostic de trouble sévère
+de la personnalité à traits histrioniques et dyssociaux, pouvant conduire A.X.________ à
+multiplier les comportements infantiles et immatures ainsi qu'à se construire un personnage factice
+et fabulé, à mettre en relation avec un développement particulièrement perturbé
+et carencé. Ce trouble était susceptible d'entraîner une légère diminution de
+sa responsabilité notamment en entretenant la propension de l'intéressé à se percevoir
+comme un personnage autre que celui auquel sa réalité le renvoyait. L'expert avait alors estimé
+que de nouveaux comportements antisociaux n'étaient pas à exclure en raison de la réitération
+quasi ininterrompue d'actes de petite délinquance pendant son adolescence et de l'absence de perspective
+réaliste en matière occupationnelle. Il avait enfin indiqué qu'un travail psychothérapeutique
+pouvait être indiqué pour lui permettre de maturer une histoire difficile.
+La seconde expertise a été réalisée dans le cadre de l'instruction relative à
+l'assassinat de A.S.________. Les experts J.________ et Z.________ ont retenu le diagnostic de trouble
+mixte de la personnalité à traits histrioniques et anti-sociaux, précisant que ce trouble
+s'était manifesté chez A.X.________ de manière très précoce et était solidement
+ancré, entraînant des comportements inadaptés, une surestimation de ses capacités
+et un besoin constant de paraître autre que ce qu'il était réellement. Les médecins
+n'ont pas retenu de diminution de responsabilité et ont estimé que l'expertisé présentait
+un risque élevé de commettre des actes de même nature en raison notamment de ses antécédents
+pénaux, du nombre et de la nature des actes illicites commis, de l'échec des mesures antérieures
+de surveillance, de son mode de fonctionnement psychique et de ses faibles capacités introspectives,
+précisant de surcroît qu'il n'existait pas de thérapie pharmacologique et qu'un processus
+de changement psychothérapeutique – même imposé – n'avait selon toute probabilité
+que peu de chances d'aboutir.
+Dans le cadre de la dernière expertise, réalisée sur demande de l'Office d'exécution
+des peines (ci-après : OEP), les experts ont reconduit le diagnostic de trouble mixte de la
+personnalité avec traits dyssociaux et histrioniques – ayant également relevé des
+traits psychopathiques chez A.X.________ – et précisant que celui-ci n'avait pas réellement
+conscientisé son trouble psychique, puisqu'il expliquait majoritairement son parcours par des facteurs
+exogènes qu'il lui était difficile de relier à son développement intrapsychique.
+Les médecins ont estimé que le risque de récidive générale (en particulier les
+délits contre le patrimoine) était élevé, le risque de récidive violente moyen
+et le risque homicidaire faible. S'agissant de mesures à mettre en œuvre, ils ont mis en avant
+la poursuite et la consolidation des acquis actuels, à savoir terminer la formation en cours, maintenir
+les liens familiaux et continuer le suivi thérapeutique, dont l'expertisé semblait tirer bénéfice.
+Les carences analytiques et introspectives étaient cependant toujours présentes et ses ressources
+internes demeuraient pauvres, ayant de surcroît tendance à surestimer ses capacités d'adaptation.
+Les experts ont exposé qu'il était probable que A.X.________ se comporte correctement en liberté
+dans un premier temps, mais que le risque de récidive pourrait augmenter lorsqu'il serait libre
+de toute obligation juridique et responsable de lui-même. Ils ont ainsi insisté sur une observation
+au long cours, en particulier de sa capacité à se maintenir dans une activité rémunérée,
+et sur la poursuite d'une psychothérapie de soutien, tout comme une abstinence totale aux drogues.
+c)
+Exécutions
+des peines privatives de liberté
+Détention
+A.X.________ a formellement débuté l'exécution de ses peines le 20 août 2010
+à la prison du Bois-Mermet, avant de rejoindre les Etablissements de la Plaine de l'Orbe (EPO) le
+25 octobre 2010. Il y a passé un peu plus de 3 ans, avant d'être transféré en urgence,
+le 8 février 2014, à la prison de la Croisée, puis le 20 février suivant au
+pénitencier de Rischwies, après qu'il avait été suspecté de préparer une
+évasion. Le 21 juillet 2015, il a rejoint l'Etablissement de Bellevue (EEPB), à Gorgier, avant
+de rejoindre, l'Etablissement de détention fribourgeois (EDFR), site de Bellechasse, à Sugiez,
+le 28 novembre 2017, où il se trouve toujours actuellement. Au sein de Bellechasse, il aurait dû
+rejoindre le secteur ouvert au printemps 2018, conformément à la décision de l'OEP du
+27 mars 2018, qui a toutefois été révoquée le 12 avril suivant, suite à des
+velléités d'évasion. Ce transfert en secteur ouvert s'est finalement réalisé
+le 15 octobre 2018, sur décision de l'OEP.
+A.X.________ a atteint les deux tiers de ses peines le 13 janvier 2021.
+Plan d’exécution
+des peines et bilans
+Un plan d'exécution de la sanction (PES) a été élaboré durant le mois d'août
+2013 et avalisé par l'autorité d'exécution le 26 août 2013. Ce document constatait
+que A.X.________ présentait un bon comportement au sein des EPO mais qu'au vu de la longueur de
+sa peine, aucun élargissement de régime ne pouvait être envisagé, de sorte que la
+phase 1 prévoyait un maintien au pénitencier.
+En février 2016, un bilan de phase du PES a été réalisé par l'Etablissement
+de Bellevue et avalisé par l'OEP le 21 avril suivant. Ce document mentionnait que le condamné
+reconnaissait ses infractions, qu'il faisait montre d'un bon comportement en détention, tout comme
+à l'atelier, qu'il bénéficiait d'un lien familial soutenant et préservé et qu'il
+s'astreignait à un suivi psychologique volontaire. L'intéressé minimisait cependant ses
+délits, faisait preuve d'une mauvaise gestion de la frustration et surestimait ses capacités.
+Il a été souligné qu'il était primordial de le préparer au mieux à la sortie
+de prison par le biais d'élargissements de régime prudents et progressifs. Ainsi, à sa
+phase 1, le bilan prévoyait, dès le mois de septembre 2016, trois conduites rythmées tous
+les trois mois pour permettre à A.X.________ de reprendre progressivement contact avec le monde
+extérieur. A la phase 2, il était prévu, dès le mois de mai 2017, un transfert
+en secteur fermé dans un établissement disposant d'un secteur ouvert, puis, en phase 3, dès
+le mois de septembre 2017, un transfert en milieu ouvert pour que l'intéressé puisse démontrer
+sa stabilité dans un cadre plus souple et plus responsabilisant, avec une reprise des conduites
+au bout de deux mois.
+Courant juillet 2018, un deuxième bilan du PES a été élaboré par l'Etablissement
+de Bellechasse, qui a été avalisé par l'OEP le 28 août suivant. Il a été
+constaté que la phase 3 du précédent bilan n'avait pas pu être atteinte en raison
+des suspicions d'évasion portées à l'encontre du concerné et que, depuis, il abordait
+une attitude passive-agressive et oppositionnelle, bien que son comportement au cellulaire et à
+l'atelier soit qualifié de correct. Ainsi, à sa phase 3, le bilan prévoyait un passage
+en secteur ouvert, dès le mois d'octobre 2018. Enfin, en phase 4, il était prévu, après
+6 mois d'observation en secteur ouvert, une reprise du régime des conduites familiales.
+Enfin, en septembre 2019, un troisième bilan du PES a été élaboré et avalisé
+par l'autorité d'exécution le 1
+er
+octobre suivant. Une évolution positive était constatée depuis le passage de A.X.________
+en secteur ouvert. Ainsi, la progression envisagée était, en phase 5, un régime de congés,
+dès le mois de décembre 2019, puis, en phase 6, après au moins cinq congés réussis,
+la possibilité d'un régime de travail externe. Enfin, en phase 7, l'examen de la libération
+conditionnelle par le Juge d'application des peines était prévue pour le 13 janvier 2021.
+Évaluations criminologiques
+Durant son incarcération, A.X.________ a été soumis à trois évaluations criminologiques.
+Lors de la première évaluation en 2013, les criminologues ont rapporté que le condamné
+reconnaissait la gravité de ses délits dans leur ensemble, se situant néanmoins dans une
+banalisation totale des actes de cambriolage, voire dans une normalisation de ces derniers. En effet,
+l'intéressé avait indiqué avoir été qualifié de mini Arsène Lupin,
+ayant été condamné pour 70 cambriolages alors qu'il en aurait commis plus de 200, et avoir
+appris au fil du temps à voler de manière de plus en plus fine. Il avait cependant admis une
+tendance au narcissisme et à la superficialité, estimant toutefois ne plus souffrir à
+l'heure actuelle des troubles de la personnalité décrits dans les différentes expertises
+psychiatriques. Il présentait une bonne reconnaissance du statut des victimes, des capacités
+d'empathie ayant pu être mises en avant, même si A.X.________ présentait une certaine
+tendance à digresser sur des préoccupations plus égocentriques. Par rapport aux délits
+sexuels, les évaluateurs ont constaté que le prénommé restait passablement vague
+et qu'une certaine zone d'ombre demeurait quant à ses aspects de son passé délictueux,
+étant souligné à cet égard que le condamné avait été abusé sexuellement
+dans son enfance par son frère aîné. L'intéressé s'était montré plutôt
+réaliste sur le risque de récidive qu'il pourrait présenter, admettant des goûts
+de luxe et estimant qu'il lui faudrait avoir le soutien de sa famille et celui d'un suivi thérapeutique,
+changer de lieu de vie afin de ne pas croiser d'anciennes fréquentations et éviter les sorties
+nocturnes, mais banalisant la consommation d'alcool. Au vu de ce qui précède, les criminologues
+ont considéré que A.X.________ présentait un risque moyen à élevé en matière
+de cambriolages, un risque de passage à l'acte violent moyen et un risque de délits à
+caractère sexuel faible.
+Il ressort de la deuxième évaluation criminologique du 20 mars 2016 que A.X.________ présentait
+une reconnaissance de délits et explication des passages à l'acte assez similaires à la
+précédente évaluation, niant avoir donné les chiffres de ses cambriolages, non sans
+souligner qu'il en aurait commis bien plus de 200. Les criminologues se sont intéressés à
+cette occasion à la sexualité de l'intéressé, celui-ci ayant été condamné
+en 2008 pour avoir entretenu des relations sexuelles – consenties – avec une jeune fille
+de 14 ans et s'être masturbé devant celle-ci et sa copine du même âge. Ils n'ont
+toutefois pas mis en évidence de déviance sexuelle, les délits à caractère sexuel
+commis semblant davantage en lien avec le traumatisme subi par les contraintes sexuelles de son frère
+et par le fait qu'il ait été initié très jeune à la sexualité par le biais
+de prostituées. Cela étant, il a été constaté une légère évolution
+dans la prise de conscience de A.X.________ par rapport à ses victimes et sur le fait qu'il était
+désormais conscient que le fait de consommer de l'alcool et des drogues étaient susceptibles
+de le fragiliser. S'agissant des risques de récidive, les évaluateurs ont indiqué que
+les risques de récidives générale et spécifique étaient élevés, le
+risque de récidive violente moyen et les risques de récidive sexuelle et de fuite faibles.
+Les axes de travail proposés étaient de mener à bien sa formation d'instructeur de fitness
+et de poursuivre son suivi psychothérapeutique.
+Il ressort enfin de la dernière évaluation criminologique à laquelle A.X.________ a été
+soumis, datée du 25 juillet 2018, que ce dernier démontrait une volonté authentique de
+s'identifier à des valeurs prosociales, bien qu'il n'en ait pas encore assimilé le sens ou
+la portée. S'il semblait bien avoir intégré les conditions de sa progression, il fallait
+néanmoins se questionner sur sa capacité à moyen terme à s'y tenir, dès lors
+que l'intéressé restait assez vite débordé par sa frustration et ses émotions
+lorsqu'il était confronté à des décisions qui ne lui convenaient pas. Les criminologues
+ont estimé que le risque de récidive générale – tous délits confondus
+mais notamment les infractions contre le patrimoine – était élevé mais qu'une réduction
+de ce risque à un niveau moyen paraissait peu probable tant que le condamné restait dans ses
+conditions de détention actuelles. S'agissant du risque de réitération d'actes de violences
+sous toutes ses formes, il était qualifié de moyen à élevé, tandis que le risque
+homicidaire était, lui, faible. Enfin, le risque de fuite était qualifié de modéré,
+les évaluateurs préconisant toutefois des ouvertures de régime très progressives,
+avec un suivi socio-judiciaire élevé pour tester le concerné face à ce risque et
+pour le confronter à ses très hautes attentes du futur et aux difficultés de l'extérieur,
+qu'il ne semblait pas percevoir.
+Avis de la Commission
+interdisciplinaire consultative
+La Commission interdisciplinaire consultative
+concernant les délinquants nécessitant une prise en charge psychiatrique (ci-après :
+CIC) a rendu un avis le 15 octobre 2019. Elle a considéré que la bonne volonté manifestée
+par A.X.________ pouvait servir de base à un nouveau bilan de compétences, ouvrant sur une
+perspective professionnelle réaliste et à la mise en place d’un accompagnement socio-éducatif
+ciblé et personnalisé incluant l’obligation du suivi psychothérapeutique préconisé
+par les experts psychiatres. La commission a recommandé une prise en charge fondée sur un processus
+de confrontation aux exigences d’une réinsertion sociale, lequel devait faire l’objet
+d’une observation et d’un accompagnement attentifs et étayés par des ressources
+externes fiables. Ce parcours devait être suffisamment prolongé pour qu’il puisse être
+considéré comme consolidé et établir une adéquation correcte entre les capacités
+réelles de l’intéressé et la réalité des contraintes socio-professionnelles
+communes. La CIC a encore approuvé l’orientation générale du PES (troisième
+bilan de septembre 2019), en préconisant toutefois d’adapter le calendrier aux acquis réellement
+identifiés et de mettre l’accent, conjointement aux congés familiaux, sur un programme
+très encadré de conduites à visée socio-professionnelle.
+Suivi médical
+A.X.________ a bénéficié d'un suivi thérapeutique sur un mode volontaire aux EPO,
+à l'EEPB puis à l'Etablissement de Bellechasse.
+Par décision du 1
+er
+novembre 2019, basée essentiellement sur l'expertise psychiatrique du 8 août 2019, l'OEP a
+ordonné le suivi thérapeutique du prénommé auprès du Centre de psychiatre forensique
+(CPF) à Fribourg.
+Comportement en détention
+Selon le rapport établi le 7 août 2020 par la direction de l'EDFR, le comportement de A.X.________
+est décrit comme bon, tant avec le personnel qu'avec ses codétenus. S'agissant de son attitude
+au travail, soit au secteur artisans sanitaires depuis le 2 septembre 2019, il est indiqué qu'il
+faisait preuve d'un manque d'intérêt et de motivation, même s'il montrait en général
+un bon sens de l'organisation et travaillait avec conscience et implication.
+Le concerné a fait l'objet de six sanctions disciplinaires entre 2018 et 2019, notamment pour consommation
+de cannabis, refus de travailler et possession de moyens de communication illicites.
+L'établissement carcéral a encore mentionné que A.X.________ s'était marié en
+détention en juillet 2018 avec B.X.________, elle-même mère d'une fille née d'une
+première union. A cet égard, la direction de l'EDFR a relevé que, lors d'échanges
+téléphoniques avec son épouse, il y avait parfois des échanges d'injures entre eux,
+ce qui était de nature à interloquer. Le concerné recevait en outre régulièrement
+des visites de sa famille et de son épouse.
+Au sujet de sa formation, il ressort de ce rapport que le condamné poursuivait sa formation d'instructeur
+de fitness, dont il avait notamment validé le module 2. Le contexte sanitaire actuel complexifiait
+cependant l'organisation et le suivi des formations. Il était encore exposé que l'intéressé
+allait réaliser un second bilan de compétences afin de définir un projet de réinsertion
+réaliste.
+Il était ensuite mentionné que A.X.________ s'acquittait des frais de justice et d'indemnités-victime
+à hauteur de 20 fr. par mois chacun, étant souligné que son importante dette – d'environ
+un demi-million – était un élément à prendre en considération dans la
+réinsertion socio-professionnelle du condamné, dès lors qu'elle pourrait être une
+source de stress importante et ainsi l'amener à retomber dans ses schémas délinquants.
+Enfin, l'établissement carcéral a indiqué que A.X.________ acceptait les infractions qui
+lui étaient reprochées, relevant une tendance à s'en vanter auprès de ses codétenus.
+L'intéressé avait expliqué vouloir s'installer avec sa femme à Neuchâtel ou
+à Yverdon-les-Bains et exercer une activité dans la vente ou comme instructeur de fitness.
+Au terme de son rapport, l'EDFR a constaté que A.X.________ présentait, depuis septembre 2019,
+une certaine irritabilité comportementale, une instabilité dans l'humeur ainsi qu'une tolérance
+à la frustration vacillante qui l’amenait à rechercher la confrontation avec le personnel.
+Il a ainsi préavisé défavorablement à sa libération conditionnelle, préconisant
+qu'il puisse continuer la progression envisagée dans son troisième bilan du PES, notamment
+dans le cadre d'un travail externe.
+Il ressort des différents documents versés au dossier que le comportement du condamné
+en détention a toujours été adéquat, tant au cellulaire qu'à l'atelier, nonobstant
+quelques sanctions disciplinaires, majoritairement en lien avec une consommation sporadique de cannabis.
+A noter qu'au mois de mars 2017, alors qu'il était détenu à l'Etablissement de Bellevue,
+A.X.________ aurait été impliqué indirectement dans l'agression d'un codétenu. Si
+cet épisode n'a pas abouti à une sanction disciplinaire, il a néanmoins engendré
+une reconsidération du préavis de l'établissement en vue d'une troisième conduite.
+Conduites et congés
+A.X.________ a bénéficié de plusieurs conduites et congés depuis 2016, d'abord à
+l'Etablissement de Bellevue puis à Bellechasse, conformément à la progression ressortant
+des bilans du PES. Lors de ceux-ci, le condamné a eu l'occasion de passer du temps majoritairement
+avec son épouse, mais aussi avec sa famille, notamment son père et son frère. Les différents
+rapports déposés à la suite des conduites n'ont pas mis en évidence de problème
+particulier. Il a néanmoins été relevé que, lors d'une promenade au bord du lac le
+31 mai 2019, A.X.________ avait regardé avec attention certaines villas luxueuses et plus particulièrement
+celles qui étaient accessibles aisément. Lors d'une autre, toujours au bord du lac, le 23 juillet
+2019, en présence de son épouse, il s'est dévêtu le haut du corps, ne remettant son
+t-shirt qu'une fois arrivé en ville, à la demande de l'intervenant social qui l'accompagnait.
+L'EDFR a encore relevé que, lors des congés, le condamné ne respectait pas toujours le
+programme établi, notamment en ce qui concernait les transports, comme en date du 28 juin 2020 où
+il a été pris en charge par une autre personne que celle qui était prévue.
+B.
+Le 14 septembre 2020, l'OEP a saisi le Collège
+des Juges d'application des peines d'une proposition tendant au refus de la libération conditionnelle
+de A.X.________. Cet office a donné acte au prénommé de son comportement relativement
+adéquat en détention, de son amendement, bien qu'empreint d'une certaine minimisation de son
+potentiel de violence, de son évolution quant à l'empathie envers les victimes, de son investissement
+dans une thérapie, de la création d'un réseau familial soutenant ainsi que de ses efforts
+déployés en vue d'obtenir une formation. Néanmoins, l'autorité d'exécution a
+constaté que le condamné n'était de loin pas prêt à accéder à une
+libération conditionnelle, dès lors que sa réintégration dans la société
+venait à peine de commencer, par l'octroi de congés fractionnés, et que son projet professionnel
+n'était pas clairement défini, sa formation d'instructeur de fitness IFAS n'étant pas
+terminée. La perspective professionnelle effective a été jugée peu réaliste.
+L’OEP a encore relevé que le goût de l’intéressé pour le luxe, son besoin
+de satisfaction immédiate, son manque de motivation dans le cadre du travail à l'atelier, ainsi
+que la réalité d'un emploi et des contraintes financière de la vie paraissaient des éléments
+pertinents devant encore être travaillés sur le long cours, notamment par le biais d'élargissements
+successifs et dans le cadre de sa thérapie, afin de réduire au maximum le risque de récidive.
+A cet égard, l'OEP a encore mentionné que certaines étapes avaient été mises
+en échec, respectivement retardées par le comportement de A.X.________ et que son parcours
+était encore émaillé de doutes quant au respect effectif des règles imposées,
+notamment lors de ses congés, ce qui mettait à mal la confiance des autorités. L’OEP
+a ainsi été d'avis que le condamné devait faire ses preuves dans le cadre d'élargissements
+progressifs et prudents, en poursuivant ses congés encore un temps puis en passant par un régime
+de travail externe, voire de travail et logement externes, afin de le tester sur la durée. L’office
+a insisté sur la nécessité que la situation de l’intéressé puisse se stabiliser,
+notamment sur le plan financier, pour réduire le risque de récidive au minimum et protéger
+la société.
+Le 11 novembre 2020, le Procureur général du canton de Vaud a transmis ses déterminations
+et a en substance conclu au refus de la libération conditionnelle de A.X.________.
+Le 16 novembre 2020, A.X.________, par son défenseur d’office, a conclu à l’octroi
+de sa libération conditionnelle à compter du 13 janvier 2021, assortie d’une assistance
+de probation, éventuellement de règles de conduite et d’un suivi thérapeutique externe
+durant le délai d’épreuve qui lui serait imparti, d’une durée équivalente
+au solde de ses peines.
+Par décision du 28 décembre 2020, le Collège des Juges d’application des peines
+a refusé la libération conditionnelle à A.X.________ (I), a fixé l’indemnité
+allouée à son défenseur d’office (II) et a laissé les frais de cette décision
+à la charge de l’Etat (III).
+Le Collège des Juges d’application des peines a considéré que A.X.________ remplissait
+deux des trois conditions pour l’octroi de la libération conditionnelle, à savoir avoir
+atteint les deux tiers de ses peines et faire preuve d’un bon comportement en détention. Ils
+ont considéré en revanche que le pronostic était défavorable. Certes, le condamné
+avait accompli des progrès dans la prise de conscience du mal fait aux victimes, mais peu encore
+quant à sa propre responsabilité, dans la mesure où il attribuait essentiellement son
+parcours à des facteurs exogènes. Le risque de récidive générale évalué
+par les psychiatres était encore élevé. Pour le réduire, il était indispensable
+que A.X.________ ait une activité professionnelle. Or, il n’avait pas achevé la formation
+entamée (instructeur de fitness IFAS), dans laquelle la CIC avait vu une perspective professionnelle
+peu réaliste. A.X.________ n’avait pas encore commencé la phase 6 du PES, soit l’accomplissement
+d’un travail externe, phase qui était pourtant cruciale, tout en relevant que le condamné
+était au bénéfice d’une promesse ferme d’embauche. Les premiers juges ont
+aussi relevé que la communication entre le condamné et son épouse laissait parfois à
+désirer selon ce que rapportait l’EDFR. En outre, l’intéressé paraissait encore
+peu conscient du poids des responsabilités financières qui l’attendaient à sa sortie
+de prison, ce qui pouvait laisser craindre un retour dans la délinquance.
+C.
+Par acte du 8 janvier 2020, A.X.________, par
+son défenseur d’office, a interjeté recours contre la décision du 28 décembre
+2020 auprès de la Chambre des recours pénale, en concluant, avec suite de frais et dépens,
+principalement à l’octroi de sa libération conditionnelle à compter du 13 janvier
+2021, assortie d’une assistance de probation durant un délai d’épreuve de durée
+équivalente au solde de peine au jour de la libération effective et à ce que toute règle
+de conduite jugée nécessaire lui soit imposée, ainsi qu’un suivi thérapeutique
+externe durant la durée du délai d’épreuve. A titre subsidiaire, il a conclu à
+l’annulation de la décision entreprise et au renvoi du dossier de la cause à l’autorité
+précédente pour nouvelle décision dans le sens des considérants.
+A l’appui de son recours, A.X.________ a produit un bordereau de pièces.
+Le 15 janvier 2021, A.X.________ a produit le diplôme qu’il a obtenu à l’issue
+de sa formation d’instruction fitness IFAS.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+En vertu de l’art. 38 al. 1 LEP (loi vaudoise
+sur l'exécution des condamnations pénales du 4 juillet 2006 ; BLV 340.01), les décisions
+rendues par le Juge d'application des peines et par le Collège des Juges d'application des peines
+peuvent faire l'objet d'un recours auprès du Tribunal cantonal. Selon l’art. 38
+al.
+2 LEP, la procédure est régie par les dispositions du CPP (Code de procédure pénale
+suisse du 5 octobre 2007 ; RS 312.0) relatives au recours. Le recours doit ainsi être adressé
+par écrit, dans un délai de dix jours dès la notification de la décision attaquée
+(cf. art. 384 let. b CPP), à l’autorité de recours (art. 396 al. 1 CPP) qui, dans le
+canton de Vaud, est la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP [loi vaudoise
+d’introduction du Code de procédure pénale suisse du 19 mai 2009 ; BLV 312.01] et
+art. 80 LOJV [loi vaudoise d’organisation judiciaire du 12 décembre 1979 ; BLV 173.01]).
+En l’espèce, interjeté en temps utile devant l’autorité compétente par
+le condamné qui a qualité pour recourir (art. 382 al. 1 CPP) et dans les formes prescrites
+(art. 385 al. 1 CPP), le recours est recevable. Les pièces nouvelles produites par le recourant
+sont également recevables (cf. CREP 1
+er
+juillet 2020/515 consid. 1). Il en sera donc tenu compte dans le traitement du recours.
+2.
+2.1
+Le recourant requiert l’octroi de la libération
+conditionnelle. Il conteste l’appréciation des premiers juges selon laquelle le pronostic
+est défavorable.
+2.2
+Aux termes de l'art. 86 al. 1 CP, l'autorité
+compétente libère conditionnellement le détenu qui a subi les deux tiers de sa peine,
+mais au moins trois mois de détention, si son comportement durant l'exécution de la peine ne
+s'y oppose pas et s'il n'y a pas lieu de craindre qu'il ne commette de nouveaux crimes ou de nouveaux
+délits.
+La libération conditionnelle constitue la dernière étape de l'exécution de la sanction
+pénale. Elle est la règle et son refus l'exception, dans la mesure où il n'est plus exigé
+qu'il soit à prévoir que le condamné se conduira bien en liberté (cf. art. 38 ch.
+1 al. 1 aCP), mais seulement qu'il ne soit pas à craindre qu'il commette de nouveaux crimes ou délits.
+Autrement dit, il n'est plus nécessaire pour l'octroi de la libération conditionnelle qu'un
+pronostic favorable puisse être posé. Il suffit que le pronostic ne soit pas défavorable
+(ATF 133 IV 201 consid. 2.2 et 2.3). Le pronostic à émettre doit être posé sur la
+base d'une appréciation globale, prenant en considération les antécédents de l'intéressé,
+sa personnalité, son comportement en général et dans le cadre des délits qui sont
+à l'origine de sa condamnation, le degré de son éventuel amendement ainsi que les conditions
+dans lesquelles il est à prévoir qu'il vivra (ATF 133 IV 201 consid. 2.3 et les arrêts
+cités ; TF 6B_18/2020 du 20 avril 2020 consid. 1.1.1). La nature des délits commis par
+l'intéressé n'est, en tant que telle, pas à prendre en compte, en ce sens que la libération
+conditionnelle ne doit pas être exclue ou rendue plus difficile pour certains types d'infractions.
+Toutefois, les circonstances dans lesquelles l'auteur a encouru la sanction pénale sont également
+pertinentes dans la mesure où elles sont révélatrices de sa personnalité et donnent
+ainsi certaines indications sur son comportement probable en liberté.
+En outre, si la libération conditionnelle n'est pas subordonnée à une reconnaissance des
+actes ou de l'illicéité des actes ayant conduit à la condamnation, il s'agit toutefois
+d'un indice qui peut permettre de poser un pronostic sur le comportement futur du condamné en liberté
+(ATF 124 IV 193 consid. 5b/ee ; TF 6B_259/2014 du 5 juin 2014 consid. 2.5). Au demeurant, pour déterminer
+si l'on peut courir le risque de récidive, inhérent à toute libération qu'elle soit
+conditionnelle ou définitive, il faut non seulement prendre en considération le degré
+de probabilité qu'une nouvelle infraction soit commise mais également l'importance du bien
+qui serait alors menacé. Ainsi, le risque de récidive que l'on peut admettre est moindre si
+l'auteur s'en est pris à la vie ou à l'intégrité corporelle de ses victimes que s'il
+a commis par exemple des infractions contre le patrimoine (ATF 125 IV 113 consid. 2a ; TF 6B_18/2020
+précité).
+Afin de procéder à un pronostic différentiel, il sied de comparer les avantages et désavantages
+de l'exécution de la peine avec la libération conditionnelle (ATF 124 IV 193 consid. 4a et
+consid. 5b/bb ; TF 6B_18/2020 précité ; TF 6B_686/2019 du 17 juillet 2019 consid.
+1.1). S’il ne faut pas s'attendre à ce que le pronostic s'améliore de manière significative
+d'ici au terme de l'exécution de la peine, la priorité peut être accordée à
+l'intérêt de la sécurité publique au vu de la probabilité de la commission de
+nouvelles infractions et de l'importance des biens juridiques menacés (cf. TF 6B_91/2020 du 31 mars
+2020 consid. 3.1 ; TF 6B_353/2019 du 25 avril 2019 consid. 1.5 ; TF 6B_32/2019 du 28 février
+2019 consid. 2.10 ; 6B_208/2018 du 6 avril 2018 consid. 1.3).
+Il y a également lieu de rechercher si la libération conditionnelle, éventuellement assortie
+d'une assistance de probation et de règles de conduite, ne favoriserait pas mieux la resocialisation
+de l'auteur que l'exécution complète de la peine (ATF 124 IV 193 consid. 4d/aa et bb, JdT 2000
+IV 162 ; TF 6B_11/2018 du 30 novembre 2017 consid. 1.1). Il faut pour cela que la libération
+conditionnelle offre des avantages permettant de trouver une solution durable au problème, ou désamorcer
+celui-ci, que l’exécution complète de la peine n’offrirait pas, et dont on se priverait
+en y procédant (ATF 124 IV 193 précité consid. 4d/bb
+in
+initio
+).
+2.3
+2.3.1
+Le recourant fait grief aux premiers juges de
+s’être fondés sur l’avis de l’EDFR au sujet de ses relations avec son épouse,
+alors que la licéité du procédé consistant à écouter les conversations
+d’un détenu avec son épouse serait douteuse, d’une part, et que les autres éléments
+du dossier démontreraient que l’entente serait solide entre les deux conjoints, d’autre
+part.
+En tout premier lieu, il sied de relever qu’il est possible que, sans écoute illicite, des
+fonctionnaires pénitentiaires aient assisté à des échanges vifs entre le condamné
+et son épouse. Cela étant précisé, il faut admettre que l’appréciation
+de l’EDFR, reprise par les premiers juges, ne repose pas sur des faits concrets et documentés
+et que les pièces qui figurent au dossier corroborent plutôt la version du recourant, selon
+laquelle son épouse le soutiendrait. Il est toutefois vrai que, comme l’ont aussi souligné
+les premiers juges, le recourant et son épouse n’ont encore jamais vécu ensemble. On
+ne peut donc, en l’état, ni affirmer ni exclure que l’épouse du recourant soit
+un facteur fort de prévention pour celui-ci. Dans la mesure où il tend à établir
+que l’épouse du recourant serait un fort facteur de prévention, le recours est mal fondé.
+2.3.2
+Le recourant reproche aussi aux premiers juges
+d’avoir retenu qu’il n’avait pas conscience de l’importance de ses dettes et
+qu’il pourrait être amené à retomber dans la délinquance une fois qu’il
+en aurait ressenti le poids. Il fait valoir qu’il saurait très bien qu’il devra se contenter
+du minimum vital.
+Certes, le seul poids des dettes du recourant ne saurait justifier un pronostic défavorable si,
+par ailleurs, il démontre avoir la volonté et la capacité de mener une vie rangée,
+sur un train de vie modeste. Cette démonstration n’est cependant pas faite en l’état
+(cf.
+infra
+,
+consid. 2.3.3). Le grief est donc infondé.
+2.3.3
+Le recourant fait grief aux premiers juges de
+ne pas avoir tenu compte des restrictions dues à la situation sanitaire, qui l’ont empêché
+d’avancer normalement dans sa formation IFAS. Il se prévaut également de l’obtention
+de son diplôme depuis la décision attaquée. Il fait encore valoir que si la fréquence
+des congés n’avait pas été réduite à cause des mesures sanitaires, il
+aurait bénéficié de son cinquième congé en juin 2020 et qu’il aurait pu
+demander à bénéficier d’un travail externe dès le mois de juillet 2020, soit
+quatre mois avant l’examen de sa libération conditionnelle. Il serait dès lors arbitraire
+de poser un pronostic défavorable en raison de circonstances sanitaires qui ne lui sont en rien
+imputables.
+On rappelle que la libération conditionnelle est la dernière étape du système progressif
+d’exécution des peines privatives de liberté, précédant la libération
+définitive. Il s’agit donc d’une modalité d’exécution et non d’un
+droit, ni d’une faveur accordée au détenu (cf. Dupuis et al. [édit.], Petit Commentaire
+du Code pénal, 2
+e
+éd., Bâle 2017, n. 3 ad art. 86 CP). Il ne s’agit pas non plus d’une récompense
+accordée aux détenus pour leurs mérites, mais d’une modalité d’exécution
+qui a pour but de concilier au mieux la sortie du condamné avec la sécurité publique.
+Dès lors, si le pronostic à poser concernant un détenu est défavorable, la libération
+conditionnelle doit être refusée, indépendamment du point de savoir si le détenu
+a démérité dans le suivi des mesures qui lui ont été proposées ou imposées
+pour réduire le risque de récidive ; seul compte le résultat. Partant, les moyens
+que le recourant veut tirer du fait que le retard pris dans la mise en œuvre de la phase 6 du PES
+ne lui serait pas imputable sont sans pertinence dans l’examen de sa libération conditionnelle.
+On rappelle aussi que la dernière expertise psychiatrique du 8 août 2019 préconisait une
+observation au long cours, en particulier de la capacité de l’intéressé à se
+maintenir dans une activité rémunérée. Le recourant n’a encore jamais durablement
+occupé un emploi ordinaire ; il y a donc lieu de craindre qu’il ne soit pas capable de
+se maintenir dans une activité rémunérée normale. S’il était libéré
+et s’il perdait son emploi, il est vraisemblable que le recourant, qui a toujours vécu d’expédients,
+rechuterait rapidement dans la délinquance. Dès lors, le passage du recourant en phase d’exécution
+6, qui comporte un travail externe, constitue la mesure d’élargissement maximale qui puisse
+être envisagée en l’état. Ce n’est que si cette phase se déroule bien
+et que le recourant y prend de bonnes habitudes que la libération conditionnelle sera envisageable.
+2.3.4
+Le recourant reproche aussi aux premiers juges
+de ne pas avoir procédé à un pronostic différentiel. Il soutient que, dès lors
+qu’il dispose d’un diplôme et d’une promesse d’engagement, soit d’une
+perspective concrète d’insertion professionnelle immédiate, il serait plus efficace pour
+sa resocialisation de lui accorder immédiatement une libération conditionnelle assortie de
+règles de conduite et d’une assistance de probation que de lui faire exécuter le solde
+de sa peine, son emploi devant lui permettre de bénéficier d’un rythme et d’un
+cadre stimulant que la prison ne lui offrirait pas, surtout dans la situation sanitaire actuelle.
+Tout porte à prévoir que le pronostic s’améliorera si le recourant accomplit et
+réussit, en les consolidant une à une, chacune des étapes du PES, notamment s’il
+commence par travailler à l’extérieur en continuant à bénéficier de l’encadrement
+institutionnel que fournit la prison. En outre, rien n’indique que, s’il ne peut entrer prochainement
+au service de l’employeur qui lui a fait une promesse ferme d’embauche et que cet employeur
+finisse par renoncer à l’engager, le recourant ne pourra pas trouver un autre emploi. La poursuite
+de l’exécution de la peine n’implique donc pas de renoncer à un moyen de prévention
+spéciale qui permettrait de résoudre durablement le problème. Le grief est mal fondé.
+2.3.5
+Enfin, le recourant soutient que la décision attaquée serait inopportune au sens de l’art.
+393 al. 2 let. c CPP.
+L'art. 393 al. 2 let. c CPP prévoit que le recours peut être formé pour des motifs d'opportunité.
+Selon la doctrine, contrôler l’inopportunité, c’est intervenir à l’intérieur
+même du cadre légal dans lequel l’autorité, dont l’acte est attaqué,
+exerce sa liberté d’appréciation ; l’autorité supérieure ne vérifie
+pas si des normes juridiques ont été violées mais si la décision en cause est bien
+la meilleure qu’on puisse prendre dans ce cadre (Moor, Droit administratif, vol. II, Berne 2011,
+n. 5.7.3.5, pp. 797 s. ; Rémy, in : Kuhn/Jeanneret [édit.], Commentaire romand,
+Code de procédure pénale suisse, Bâle 2011, n. 18 ad art. 393 CPP ; Stephensen/Thiriet,
+in : Niggli/Heer/Wiprächtiger [édit.], Basler Kommentar, Schweizerische Strafprozess-ordnung,
+Art. 196-457 StPO – Art. 1-54 JStPO, 2
+e
+éd., Bâle 2014, n. 17 ad art. 393 CPP;
+Schmid, Schweizerische Strafprozessordnung, Praxiskommentar,
+2
+e
+éd., Zurich/St-Gall 2013, nn. 17 s. ad art. 393 CPP).
+En l’espèce, il apparaît clairement que l’ordonnance attaquée est non seulement
+conforme à la loi, mais également opportune. On doit en effet admettre, avec les premiers juges,
+que la sortie du recourant du milieu carcéral doit être encadrée, afin d’éviter
+que l’intéressé soit confronté seul aux difficultés du quotidien et qu’il
+se retrouve dans des situations déstabilisantes. Le soutien que le recourant pourrait trouver auprès
+de son épouse, de son frère ou de son père n’est pas assez sûr pour lui octroyer
+la libération conditionnelle à ce stade.
+Au vu de ce qui précède, le pronostic apparaît toujours défavorable. La situation
+devra de toute manière être réexaminée, au plus tard dans une année (art. 86
+al. 3 CP).
+3.
+Il s’ensuit que le recours doit être rejeté sans échange d’écritures
+(art. 390 al. 2 CPP) et l’ordonnance attaquée confirmée.
+Me Elie Elkaim, défenseur d’office du recourant, a produit une liste d’opérations
+faisant état d’une durée d’activité de 9,5 heures d’avocat et une durée
+d’activité d’avocat-stagiaire de 7,84 heures (P. 18/1). Compte tenu de la nature
+de la cause ainsi que des écritures déjà déposées devant le Collège des
+Juges d’application des peines et ayant servi de base au mémoire de recours, la durée
+alléguée est excessive et doit être ramenée à 6 heures pour la rédaction
+du mémoire et 2 heures pour les contacts avec le client et 1 heure pour le suivi du dossier, le
+tout au tarif horaire d’un avocat breveté. Les honoraires dus à Me Elie Elkaim seront
+donc fixés à 1’620 fr. (au tarif de 180 fr. de l’heure, cf. art. 2 al. 1 RAJ [règlement
+sur l’assistance judiciaire en matière civile du 7 décembre 2010 ; BLV 211.02.3],
+applicable par analogie en vertu de l’art. 26b TFIP [tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010 ; BLV 312.03.1]), auxquels il convient d’ajouter
+des débours forfaitaires à concurrence de 2 % (art. 19 al. 2 TDC [tarif des dépens
+en matière civile du 23 novembre 2010 ; BLV 270.11.6], applicable par renvoi de l’art.
+26a al. 6 TFIP), par 32 fr. 40, plus un montant correspondant à la TVA, par 127 fr. 25, soit 1’780
+fr. au total (le tout arrondi au franc supérieur).
+Les frais de la procédure de recours, par 2’310 fr. (art. 20 al. 1 TFIP [tarif des frais de
+procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+ainsi que les frais imputables à la défense d’office (art. 422 al. 1 et 2 let. a CPP),
+fixés à 1’780 fr., seront mis à la charge du recourant, qui succombe (art. 428
+al. 1 CPP).
+Le remboursement à l'Etat de l'indemnité allouée au défenseur d'office du recourant
+ne sera exigible que pour autant que la situation économique de ce dernier le permette (art. 135
+al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+La décision du 28 décembre 2020 est confirmée.
+III.
+L’indemnité due pour la procédure
+de recours à Me Elie Elkaim, défenseur d’office de A.X.________, est fixée à
+1’780 fr. (mille sept cent huitante francs).
+IV.
+Les frais d’arrêt, par 2’310 fr. (deux mille trois cent dix francs), ainsi que l’indemnité
+due au défenseur d’office de A.X.________, par 1’780 fr. (mille sept cent huitante francs),
+sont mis à la charge de ce dernier.
+V.
+Le remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus
+ne sera exigible que pour autant que la situation financière de A.X.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Elie Elkaim, avocat (pour A.X.________),
+-
+M. le Procureur général,
+et communiqué à :
+-
+Mme la Présidente du Collège des juges d’application des peines,
+-
+Office d’exécution des peines,
+-
+Direction de l’Etablissement de détention fribourgeois,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+sur l’organisation des autorités fédérales du 19 mars 2010 ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
