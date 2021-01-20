@@ -1,0 +1,855 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___61"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 61"
+decided: "2021-01-20"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8100127"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-423.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2021 / 61
+
+## Regeste
+
+LIBÉRATION CONDITIONNELLE, RÉCLUSION, À VIE | 86 al. 1 CP, 86 al. 2 CP, 86 al. 5 CP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 20.01.2021 Décision / 2021 / 61
+
+LIBÉRATION CONDITIONNELLE, RÉCLUSION, À VIE | 86 al. 1 CP, 86 al. 2 CP, 86 al. 5 CP
+
+TRIBUNAL
+CANTONAL
+59
+AP19.016557-JSE
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+20 janvier 2021
+__________________
+Composition :
+Mme
+Byrde
+,
+vice-présidente
+MM.
+Meylan et Oulevey, juges
+Greffière :
+Mme              Vuagniaux
+*****
+Art.
+86 al. 1, 2 et 5 CP
+Statuant sur le recours interjeté le 21 décembre 2020 par
+X.________
+contre la décision rendue le 10 décembre 2020 par le Collège des juges d’application
+des peines dans la cause
+n
+o
+AP19.016557-JSE
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+X.________ est né le [...] 1962 au F.________, pays dont il est ressortissant. Il est arrivé
+en Suisse en 1985. Il a eu trois enfants avec sa défunte épouse.
+b)
+Par jugement du 20 juin 2000, le Tribunal V Burgdorf-Fraubrunnen (BE) a condamné X.________ à
+3 ans et 9 mois de réclusion pour contrainte, séquestration et enlèvement. La
+libération conditionnelle accordée le 3 octobre 2001 a été révoquée
+le 28 juin 2005.
+c)
+Le 1
+er
+janvier 2002, à 6h30, X.________ s’est présenté, armé d’un couteau de
+cuisine, sur le lieu de travail de son épouse aux [...]. Il a tout d’abord poignardé
+la collègue et amie de son épouse une fois derrière la nuque, puis a poursuivi sa femme
+qui tentait de s’échapper et l’a poignardée à plusieurs reprises à la
+nuque, puis s’est dirigé vers l’amie de sa femme et l’a à nouveau poignardée
+à plusieurs reprises à la poitrine, puis s’est dirigé vers son épouse agonisante
+et l’a à nouveau poignardée à plusieurs reprises. Il ne supportait pas que sa femme,
+dont il était séparé, veuille demander le divorce.
+Par jugement du 1
+er
+novembre 2004, confirmé par arrêt du 23 février 2005 de la Cour de cassation pénale
+du Tribunal cantonal, le Tribunal criminel de l’arrondissement de Lausanne a condamné X.________
+à la réclusion à vie pour assassinat (de son épouse), crime manqué d'assassinat
+(de l’amie de celle-ci) et contrainte, et l’a expulsé du territoire suisse à vie.
+Incarcéré le 4 janvier 2002 à la Prison de La Tuilière, X.________ a été
+transféré à la Prison du Bois-Mermet le 28 octobre 2002, au pénitencier de Bochuz
+des Etablissements de la plaine de l’Orbe (ci-après : EPO) le 22 décembre 2004,
+au sein de la Colonie fermée des EPO le 6 juillet 2015 et à l'Etablissement d'exécution
+des peines de Bellevue, à Gorgier (NE) (ci-après : EEP de Bellevue), le 20 mars 2019.
+Avant ce dernier transfert, il avait refusé son transfert au pénitencier de Pöschwies,
+prévu le 28 janvier 2019.
+d)
+X.________ n’est actuellement au bénéfice d’aucune autorisation de séjour
+en Suisse. Une décision de renvoi définitive et exécutoire a été rendue par
+le Service de la population le 9 septembre 2016. Il devra donc quitter la Suisse à sa sortie de
+prison.
+e)
+X.________ a été soumis à deux expertises psychiatriques dont les rapports ont été
+rendus les 14 juillet 2003 et 10 novembre 2014. Dans leur dernier rapport, les experts ont exposé
+que le risque de nouveaux actes de violence grave ne pouvait pas être écarté, notamment
+en situations de frustration ou de colère, et serait même nettement majoré en cas de reprise
+d'une consommation d'alcool. Ils ont cependant estimé que le condamné était parvenu à
+édifier des facteurs de protection par le biais d'une amélioration des capacités de maîtrise
+de soi et d'un certain assouplissement progressif du système de valeurs, notamment lorsque ses idées
+étaient confrontées à la souffrance humaine engendrée.
+f)
+Par décisions des 19 décembre 2017 et 15 janvier 2019, le Collège des juges d'application
+des peines (ci-après : Collège des JAP) a refusé d'accorder la libération conditionnelle
+à X.________. Dans sa dernière décision, le collège a considéré, en substance,
+que les chargés d’évaluation qualifiaient le risque de récidive de moyen, qu’il
+n’était pas possible d’envisager un programme structuré d’élargissements,
+que l’intéressé avait fait l’objet de quatre sanctions en détention, dont
+l’une pour atteinte à l’intégrité physique d’un détenu, et que
+ses projets pour sa sortie de prison n’étaient pas suffisamment concrets.
+g)
+Dans son rapport du 8 août 2019 (P. 3/6), la direction de l’EEP de Bellevue a exposé
+que, de manière générale, l'attitude de X.________ en détention pouvait être
+qualifiée d'adéquate, bien qu'il puisse se montrer passablement demandeur avec le service de
+probation. Il n'avait pas été sanctionné disciplinairement depuis son arrivée dans
+l'établissement et les analyses toxicologiques s’étaient toutes révélées
+négatives. Depuis le 13 mai 2019, il travaillait à l'atelier boulangerie, où il adoptait
+une bonne attitude, tout comme il se montrait assidu, ponctuel et motivé dans l'apprentissage de
+nouvelles connaissances. Il avait toutefois été observé qu’il tendait à perdre
+patience lorsqu'il était confronté à une contradiction ou lorsqu'il devait faire face
+à une frustration. Il recevait régulièrement des visites de son amie, sa sœur, sa
+belle-sœur et ses neveux. Sur le plan thérapeutique, il était suivi, sur une base volontaire,
+par le psychologue de la prison. S'agissant de la perception du crime, il disait accepter sa condamnation
+car il avait enfreint la loi. Il disait avoir beaucoup perdu à cause de cet acte, soit ses enfants,
+son épouse et son permis de séjour, ce qui démontrait qu’il ne paraissait pas se
+décentrer de sa perte personnelle et ne parvenait que difficilement à reconnaître sa famille
+et surtout ses enfants comme victimes de son crime. Il souhaitait retourner au F.________ à l'issue
+de sa détention, où il avait le projet d'ouvrir un restaurant-boulangerie avec une associée
+et donner des cours d'informatique à des enfants à titre bénévole. Il était
+précisé que l'amie du détenu, que celui-ci fréquentait depuis huit ans, était
+interdite d'entrée au F.________ pour des raisons politiques, mais que le condamné avait bon
+espoir qu'un changement de gouvernement permette à celle-ci de le rejoindre au F.________, un projet
+de mariage n'étant pas exclu dans cette optique.
+h)
+Le 16 août 2019, l'Office d'exécution des peines (ci-après : OEP) a saisi le Collège
+des JAP du réexamen annuel de la libération conditionnelle de X.________. L’office a
+préavisé pour un rejet de la libération conditionnelle, considérant que l'élaboration
+des projets de l’intéressé au F.________ n’était pas suffisamment aboutie,
+notamment en termes de documents produits et de positionnement quant à son avenir avec son amie.
+i)
+L’Unité d’évaluation criminologique des EPO a rendu un rapport le 29 octobre
+2019 (P. 7).
+S’agissant de l’évolution de l’agir criminel, les criminologues ont noté
+que le discours du condamné n’avait pas évolué depuis leur précédent point
+de situation en 2018. Cependant, lorsqu’il était fait mention des victimes, il citait la collègue
+de son épouse, ses enfants et sa défunte épouse. Il niait catégoriquement être
+une victime, ce qui n’était pas le cas durant les précédentes démarches évaluatives,
+bien qu’il fasse tout de même référence à tout ce qu’il avait perdu suite
+à son passage à l’acte. En cela, une légère amélioration du positionnement
+du condamné pouvait être constatée, ce dernier tendant à entretenir un discours un
+peu moins égocentré. Cela étant, même s’il fallait envisager avec nuance le
+lien entre empathie envers la victime et risque d’agression future, les capacités du détenu
+à se mettre à la place d'autrui ou à accéder au registre émotionnel de tierces
+personnes demeuraient toujours limitées. Cela pouvait à nouveau être compris à la
+lumière des expertises psychiatriques de 2003 et 2014, qui avaient toutes deux retenu une personnalité
+à traits narcissiques.
+Concernant l’évaluation des risques de récidive et des ressources, les criminologues
+ont retenu que les facteurs de risque étaient toujours relatifs aux antécédents et aux
+comportements antisociaux du condamné, à son rapport à l’alcool et à son absence
+de participation à des loisirs structurés en détention. Concernant les comportements antisociaux,
+l’explication de l’intéressé concernant la dernière sanction prononcée
+le 31 juillet 2018 relevait de la justification (i.e. pression liée à la quantité de travail).
+Il n’estimait pas que son comportement avait été violent comparativement à d’autres
+comportements qu’il avait pu avoir par le passé en détention. En cela, son rapport à
+la violence demandait encore à être travaillé. Par ailleurs, son discours par rapport
+à l’alcool n’avait pas évolué. En effet, il n’identifiait toujours aucun
+facteur fragilisant. En revanche, relativement à son souhait d’entamer un suivi addictologique
+une fois de retour au F.________, il aurait désormais plusieurs adresses de psychiatres [...] qu’il
+contacterait. Les facteurs protecteurs étaient toujours liés à l’emploi (i.e. bonne
+implication à l’atelier boulangerie de l’EEP de Bellevue) et au soutien actuel octroyé
+par son cercle familial (particulièrement sa sœur qu’il appellerait tous les jours et
+dont il recevait régulièrement des visites) et par sa compagne (dont il recevait également
+des visites régulières). De plus, il mentionnait avoir renoué avec une partie de sa famille
+et des connaissances résidant au F.________, ce qui pourrait amoindrir l’isolement social
+vers lequel il tendait lors de la démarche évaluative de 2018. Les experts concluaient que
+le condamné appartenait actuellement à une catégorie d’individus pour laquelle les
+niveaux de risque de récidive générale et violente pouvaient toujours être qualifiés
+de moyens. Il convenait à nouveau de souligner que les antécédents, qui étaient des
+éléments statiques et donc immuables dans le temps, avaient un poids prépondérant
+dans la qualification des risques. S’il était possible de les écarter de la cotation,
+ces niveaux de risques pourraient alors être considérés comme étant, à ce jour,
+faibles. Relativement au risque de récidive homicidaire, la littérature retenait que les homicides
+impliquant des individus ayant un lien familial, amoureux ou matrimonial, présentaient un taux de
+réitération de 1,3 %, ce qui en faisait un taux plus faible de réitération que
+les autres types d’homicide ou de délit. Toutefois, une récidive était possible
+bien que dépendante d’un contexte particulier. En effet, si l’intéressé devait
+avoir des soupçons d’infidélité, refuser une future séparation, être intolérant
+à la frustration qu’une telle situation pourrait générer, le risque de récidive
+s’en trouverait accru. Une rechute dans une éventuelle consommation abusive d’alcool
+s’avérerait également néfaste dès lors que les éléments contextuels
+précités devaient être présents. Le niveau des facteurs de protection pouvait, quant
+à lui, être apprécié comme étant moyen à élevé. En outre, au
+vu des projets professionnels de l’intéressé et de la reprise de contacts avec son cercle
+familial au F.________, il semblait que les facteurs de protection pouvaient perdurer au-delà du
+renvoi.
+Concernant les besoins criminogènes et recommandations, les criminologues ont constaté que
+leurs axes de travail demeuraient les mêmes que ceux présentés en 2018 (i.e. abstinence
+à l’alcool et réflexion sur cette dernière, maintien du suivi thérapeutique,
+mise en place de projets concrets en vue du renvoi). Relativement à son retour au F.________, il
+semblait que le détenu avait effectué des démarches pour concrétiser sa réinsertion
+dans son pays et qu’il avait désormais un réseau familial sur lequel il pourrait compter,
+notamment pour le logement. Il souhaitait ouvrir un restaurant-boulangerie avec une associée. A
+cette fin, un acte notarié aurait déjà été rédigé et des démarches
+pour récupérer son deuxième pilier seraient en cours. En parallèle, il souhaiterait
+œuvrer pour une association bernoise au F.________, en donnant des cours d’informatique gratuits
+à des enfants. Il semblait désormais conscient qu’il devait mettre en place des projets
+concrets et réalistes pour sa sortie. Sa compagne (avec laquelle il souhaiterait toujours se marier)
+étant dans l’impossibilité de retourner au F.________ pour des raisons politiques, aucun
+projet concret de vie commune ne semblait d’actualité. Même s’il ne souhaitait
+pas mettre un terme à sa relation sentimentale, il avançait qu’il accepterait une séparation
+si telle était sa volonté de son amie. Or, il conviendrait que la question du futur avec sa
+compagne soit éclaircie, étant donné qu’une éventuelle séparation placerait
+l’intéressé dans un contexte similaire à celui de son passage à l’acte.
+j)
+Une nouvelle expertise psychiatrique a été ordonnée le 20 décembre 2019. Dans
+leur rapport du 7 septembre 2020 (P. 21), le Prof. [...] et la Dresse [...], du Centre d’expertises
+du département de psychiatrie du CHUV, ont diagnostiqué, à l’instar de l’expertise
+de 2014, la présence de traits narcissiques de la personnalité et un syndrome de dépendance
+à l’alcool, actuellement abstinent dans un environnement protégé (milieu carcéral).
+Les aspects narcissiques de la personnalité présentés par le condamné ne paraissaient
+pas avoir engendré de troubles du comportement récents, en tout cas depuis son transfert à
+l’EEP de Bellevue, mais restaient toutefois présents au travers de son discours et de son
+positionnement, lesquels restaient globalement factuels et autocentrés. Il ne se considérait
+pas comme présentant des troubles psychiques à proprement parler et mettait la diminution de
+ses comportements hétéro-agressifs essentiellement en lien avec le fait qu’il était
+actuellement plus âgé et moins impulsif. Il reconnaissait que l’alcool pouvait être
+un problème par rapport à la gestion de la violence, ce qu’il indiquait notamment de
+façon indirecte en signalant que le fait de s’occuper d’enfants au F.________ le contraindrait
+à ne pas consommer d’alcool.
+Les experts ont constaté que le comportement en détention avait la plupart du temps été
+décrit comme bon, mais qu’une résurgence de comportements transgressifs, y compris à
+une reprise de nature violente, avait été observée de 2016 à 2018. En l’état,
+il n’y avait pas d’évolution significative par rapport à l’évaluation
+effectuée en 2014 sur un plan psychiatrique. Ils ont rappelé que, dans l’expertise de
+2014, il était notamment mentionné que pour pouvoir davantage apprécier le potentiel adaptatif
+du détenu, il faudrait avoir la possibilité d’évaluer ses capacités de gestion
+de la frustration et de la colère, ainsi que ses capacités de maintien d’une abstinence
+stricte à l’alcool, dans un contexte de progression du cadre d’exécution de la
+peine, les modalités de cette dernière ne s’étant pas significativement modifiées
+depuis lors.
+Les experts ont retenu que leur évaluation n’avait pas mis en évidence d’éléments
+qui les amèneraient à s’écarter de l’évaluation criminologique effectuée
+en octobre 2019, qui concluait à un risque moyen de récidive générale et de violence.
+Quant aux mesures qui devraient être mises en œuvre pour réduire ce risque de récidive,
+les experts ont souscrit aux propositions figurant dans l’évaluation criminologique d’octobre
+2019, soit l’abstinence à l'alcool et une réflexion sur cette dernière, le maintien
+du suivi thérapeutique et la mise en place de projets concrets en vue du renvoi. Toutefois, ils
+ont souligné qu’au vu de l’évolution sur plusieurs années, quand bien même
+le condamné mettait en avant les bienfaits de cette prise en charge et que certains assouplissements
+des mécanismes de fonctionnement avaient pu être constatés, le bénéfice en termes
+de réduction du risque de récidive lié au suivi spécialisé paraissait actuellement
+ténu. En effet, la prise en charge correspondait davantage à un suivi de soutien qu'à
+une psychothérapie introspective à laquelle l'expertisé paraissait très difficilement
+en mesure d'accéder.
+Concernant la reconnaissance des délits, de leurs déclencheurs et de leurs conséquences,
+les experts ont retenu que le positionnement du condamné était le même que celui du rapport
+criminologique du 25 juin 2018, à savoir que celui-ci reconnaissait les actes pour lesquels il avait
+été incarcéré mais continuait de nier la préméditation, au contraire de
+la Cour de cassation pénale du Tribunal cantonal qui l’avait retenue. En revanche, une légère
+évolution pouvait être constatée en ce sens que le détenu faisait mention d’un
+facteur endogène, soit sa jalousie excessive, pour expliquer son geste. Cela étant, même
+s’il s’attribuait l’entière responsabilité des actes commis et estimait que
+la sanction pénale infligée était juste au regard de la gravité de ces derniers,
+l’expertisé continuait de mentionner principalement des facteurs exogènes (alcool, cannabis,
+ne pas avoir vu ses enfants, une discussion préalable avec son épouse), de sorte qu’il
+semblait que ses capacités d’introspection demeuraient limitées.
+Dans l'hypothèse de l’octroi d’une libération conditionnelle, les experts ont indiqué
+qu’il conviendrait de mettre en place des modalités permettant le contrôle du maintien
+d'une abstinence stricte de l'alcool, ainsi que des modalités permettant l'évaluation de la
+manière dont l’expertisé entrait en lien avec autrui, notamment en ce qui concernait
+ses capacités de gestion de la frustration et de la colère, ainsi que la manière dont
+se déployaient ses relations, en particulier affectives. A cet égard, les experts ont mentionné
+que l’intéressé leur avait déclaré qu’il avait rompu avec sa compagne,
+expliquant qu’il souhaitait la protéger et ne pas être responsable s’il devait
+quitter la Suisse avec elle pour le F.________.
+k)
+Dans leur rapport du 22 septembre 2020 (P. 37/1), le Dr [...] et le psychologue [...], du Département
+de psychiatrie de l'adulte du Centre neuchâtelois de psychiatrie, ont indiqué qu’un suivi
+psychothérapeutique avait débuté le 8 juillet 2019 à la demande du condamné,
+que celui-ci était assidu aux séances qui se déroulaient en général une fois
+par semaine, que le travail lui avait permis de dévoiler ses émotions et que les séances
+visaient actuellement à extraire le patient de sa position de victime, où la faute était
+la plupart du temps celles des autres, de sorte à permettre une authentique remise en question et
+une relation plus épanouie dans le lien social.
+l)
+Les criminologiques de l’EEP de Bellevue a rendu un rapport le 1
+er
+octobre
+2020 (P. 33/2).
+Dans le cadre de la détention, les criminologues ont constaté que le condamné faisait
+preuve d’un bon comportement, qu’au départ, il avait montré une tendance à
+se montrer hautain, revendicateur et susceptible, mais que, depuis quelque temps, il faisait preuve d’une
+attitude plus posée et davantage ouverte au dialogue. Il préférait ne pas se rendre à
+la promenade afin d’éviter les problèmes liés à la promiscuité carcérale.
+Il avait demandé à être transféré dans un plus petit secteur, ce qui lui avait
+permis de créer des affinités avec les codétenus de ce secteur. Au niveau cellulaire,
+il était poli, peu demandeur et acceptait facilement le refus. Il était un détenu discret
+qui ne posait pas de problèmes. Ses analyses toxicologiques s’étaient révélées
+négatives aux substances prohibées. Aucune sanction disciplinaire n’avait été
+prononcée à son encontre. Concernant ses contacts avec l’extérieur, il recevait
+régulièrement des visites, notamment de sa sœur et de son neveu qui lui donnaient souvent
+de l’argent. Son amie, avec laquelle il avait mentionné avoir eu un projet de mariage par
+le passé, ne lui avait plus rendu visite depuis le 15 août 2020. L’expertisé
+avait confirmé qu’il n’était plus avec celle-ci. Il entretenait des contacts téléphoniques
+réguliers avec sa famille et ses amis à l’étranger. Il détenait en effet plusieurs
+numéros de téléphone de compatriotes à travers le monde (Canada, Angleterre), ces
+derniers l’ayant mis en contact avec d’autres compatriotes résidant au F.________ pour
+l’aider à préparer au mieux son retour au pays. De manière générale, il
+était un détenu qui ne posait pas de problèmes et qui était probablement en proie
+à une forte institutionnalisation au vu du nombre d’années passées en détention.
+Concernant sa probation, les criminologues ont relevé que le condamné avait demandé des
+entretiens à plusieurs reprises. Se montrant initialement distant, il s’était ouvert
+au fil des rencontres, en se confiant davantage, ce qui avait permis d’aborder différents
+sujets administratifs, dont l’un avait été de faire des démarches pour réunir
+ses avoirs LPP sur un seul compte de libre passage, afin de récupérer son deuxième pilier
+plus facilement lors de son départ. Le détenu avait beaucoup mentionné ses trois fils
+et aurait souhaité reprendre contact avec eux. Toutefois, il n’avait pas pu obtenir leur adresse,
+vu leur statut de victimes.
+S’agissant de la comptabilité, le condamné gérait son argent de manière autonome
+et n’était pas demandeur vis-à-vis de la comptable. Il s’était engagé,
+le 4 avril 2019, à verser des indemnités aux victimes et payer les frais de justice, ce
+qu’il faisait par plusieurs acomptes mensuels d’environ 40 francs.
+Concernant le travail, le condamné était affecté à l’atelier boulangerie depuis
+le 13 mai 2019. Il s’investissait activement, était ponctuel et respectait tant le maître
+d’atelier que ses codétenus. Il donnait entière satisfaction. Cette affectation à
+l’atelier boulangerie avait en outre un sens puisque l’intéressé envisageait d’ouvrir
+une boulangerie au F.________.
+S’agissant de la prise en charge thérapeutique/médicale, le condamné était
+suivi par le personnel infirmier une fois par semaine pour des problèmes somatiques. Son comportement
+durant les consultations était adapté. Il bénéficiait, depuis le 8 juillet 2019,
+d’un suivi thérapeutique volontaire à fréquence d’une fois par semaine, parfois
+toutes les deux semaines. Le psychologue soulignait le fait que l’intéressé avait réussi
+à sortir ses émotions au fils des séances, surtout par rapport à ses enfants, plus
+spécifiquement la culpabilité qu’il ressentait face à eux. Il avait mentionné
+ses délits et formulé des regrets. Il discutait aussi beaucoup de son projet d’ouvrir
+une boulangerie au F.________. Sa compagne n’était pas mentionnée. Il disait que le suivi
+psychologique lui faisait du bien, qu’il pouvait parler «
+de
+tout
+» : «
+mes
+enfants, ma femme, mon crime (…), beaucoup de personnes ont des problèmes à cause de
+moi
+». Interrogé sur la possibilité
+d’obtenir une attestation de prise en charge médicale au F.________, le détenu avait
+expliqué que le système de santé était différent dans son pays, qu’il
+se verrait contraint de payer une grande somme sans pour autant avoir la certitude qu’il serait
+vraiment pris en charge lorsqu’il y serait et qu’il préférait attendre d’être
+dans son pays pour réellement prendre contact et entamer un suivi.
+Concernant sa perception du délit, les criminologues se sont référés à l’expertise
+psychiatrique du 7 septembre 2020. Questionné sur sa relation avec son amie et du risque éventuel
+d’un nouveau passage à l’acte, le condamné mentionnait son âge comme facteur
+protecteur. En effet, selon ses dires, il acceptait le fait qu’il avait pris de l’âge,
+qu’il avait passé la majeure partie de sa vie en détention et qu’il ne se marierait
+plus. Il avait expliqué que les mœurs [...] ne permettaient pas comme en Suisse de se remarier
+après un certain âge. Il avait expliqué que son amie était au courant de son passage
+à l’acte, mais qu’il était très clair pour lui qu’elle ne viendrait
+pas avec lui au F.________, puisqu’elle ne pouvait pas s’y rendre. Il se rendait compte du
+risque qu’il avait de passer le reste de sa vie seul et l’acceptait. Interrogé sur l’impact
+qu’avait eu son incarcération sur lui-même, il mentionnait : «
+A
+l’époque, j’étais très actif, je buvais beaucoup d’alcool, fumais des
+joints et voyais beaucoup de monde
+».
+Il confirmait se rendre bien compte que suite à son comportement passé, il avait perdu de nombreux
+amis, ses enfants et sa femme. Il prenait conscience que ses actes avaient eu un impact sur de nombreuses
+personnes qui en avaient souffert. Il mentionnait ne plus vouloir consommer d’alcool et vouloir
+mener une vie altruiste.
+S’agissant des élargissements de peine, aucune ouverture de régime n’avait été
+octroyée au condamné. Celui-ci avait fait deux demandes de sortie qui étaient en cours
+de traitement auprès de la direction. La première était une demande de permission de 3 jours
+pour le mariage de son neveu et la seconde pour 4 heures afin d’effectuer des achats. Comme
+relevé dans les expertises psychiatriques de 2014 et 2020, l’intéressé était
+resté en milieu carcéral fermé ce qui n’avait pas permis d’analyser son comportement
+dans un autre contexte.
+Concernant ses projets, le condamné acceptait son renvoi de Suisse et collaborait avec les autorités
+administratives. Il était important de souligner qu’il avait su outrepasser ses inquiétudes
+de retour dans son pays d’origine après 35 ans d’absence et s’était investi
+dans le concret pour mener à bien son retour au F.________ si cela devait avoir lieu. En effet,
+il avait expliqué qu’il avait demandé au juge s’il serait possible de bénéficier
+d’une «
+sécurité
+»
+au F.________, notamment afin d’éviter «
+le
+vol de ses avoirs financiers
+», et avait
+prévu que sa sœur l’accompagne lors de son retour afin de l’aider à s’installer.
+Concernant ses projets professionnels, il s’était montré concret dans la mise en œuvre
+de son projet de boulangerie. En effet, grâce à un compatriote résidant au Canada, il
+avait été mis en contact avec une femme au F.________, qui serait son associée. Il lui
+avait versé 5'000 fr. (en plusieurs versements) pour finaliser leur rapport d’associés
+et pour qu’elle puisse entamer des travaux dans le local qui accueillerait leur futur commerce.
+La situation sanitaire avait toutefois retardé les travaux et l’ouverture de la boulangerie.
+Il avait un second projet de dispenser des cours d’informatique gratuitement à des enfants,
+peu importe [...]. Ce dernier projet serait essentiellement mis en œuvre par des compatriotes vivant
+au Canada et en Angleterre, qui se chargeraient d’acheter le matériel et d’ouvrir l’école.
+Le détenu expliquait que le projet principal serait la boulangerie, puisque cela constituerait une
+source de revenus.
+En conclusion, les criminologues ont exposé que le condamné avait fait preuve de bon comportement
+et que son attitude s’était remarquablement améliorée au fil des années, probablement
+au vu de l’institutionnalisation qui découlait de sa longue incarcération. Il semblait
+avoir trouvé ses repères à l’EEP de Bellevue et faire davantage confiance aux divers
+intervenants, ce qui avait permis une prise en charge plus adéquate. Son projet demeurait inchangé
+depuis de nombreuses années et semblait se concrétiser davantage au fil du temps, notamment
+grâce à son investissement personnel et à l’aide des membres de sa communauté.
+Concernant son délit, il semblait s’être remis réellement en question et parvenait
+désormais à reconnaître ses fragilités. Il paraissait tirer profit du suivi thérapeutique.
+m)
+La Commission interdisciplinaire consultative concernant les délinquants nécessitant une prise
+en charge psychiatrique (ci-après : CIC) a procédé à une évaluation de
+la situation. Dans son avis du 12 octobre 2020 (P. 37), elle a relevé que la situation et le comportement
+du détenu n’avaient pas foncièrement évolué au cours des dernières années
+et qu’aucun changement de fond concernant les troubles de personnalité n’était
+à attendre du suivi thérapeutique, auquel l’intéressé s’astreignait pourtant
+volontairement. La qualification moyenne du risque de récidive était tempérée par
+les criminologues qui faisaient remarquer que si l’on ne considérait que les items actuels,
+le risque de récidive serait alors faible. La commission a relevé que certains éléments
+nouveaux étaient apparus au cours des derniers mois, à savoir le rapport d’évaluation
+criminologique du 1
+er
+octobre 2020 qui qualifiait de remarquable l’évolution constatée au fil des années,
+ainsi que le fait que le condamné avait réussi à sortir de sa passivité pour envisager
+concrètement sa réinsertion professionnelle au F.________. Devant ce mouvement et également
+devant le doute fondé qu’une prolongation indéfinie de la détention et du soin volontaire
+apporte des améliorations significatives, la commission posait la question de l’opportunité
+d’une libération conditionnelle assortie d’un retour immédiat au pays, sans attendre
+davantage de la prise en charge par le système pénitentiaire suisse tant sur le plan criminologique
+que clinique. Vu ces considérations et les mesures apparemment concrètes prises par l’intéressé
+pour préparer sa réinsertion au F.________, la commission a estimé que cette question
+méritait d’être examinée et qu’il y avait peut-être une opportunité
+à saisir. Ainsi, elle encourageait vivement le condamné, dans le maintien du cadre de sa détention
+actuelle, à poursuivre ses efforts d’autonomisation et à produire le plus grand nombre
+de pièces probantes pour soutenir sa demande lorsque celle-ci arriverait devant le Collège
+des JAP.
+n)
+Dans son complément de saisine du 19 octobre 2020, l’OEP a exposé qu’au vu de l’expertise
+du 7 septembre 2020, de l’avis de la CIC du 12 octobre 2020, de l’amélioration
+de l’attitude et du comportement du condamné en détention au fil des ans, de l’absence
+de sanction disciplinaire depuis plus de deux ans, de son statut administratif et des démarches
+qu’il avait entreprises pour une réinsertion dans son pays d’origine, il peinait à
+concevoir quel impact plus significatif la poursuite de l’exécution de la peine pourrait avoir
+sur l’intéressé, que ce soit sur le plan criminologique au vu du dernier rapport d’évaluation
+criminologique ou au niveau thérapeutique compte tenu des conclusions de l’expertise psychiatrique.
+Dès lors, et pour autant que le détenu apporte des preuves concrètes et documentées
+en lien avec ses projets d’avenir et les formalités déjà réalisées à
+cet égard, l’office proposait, au contraire de son préavis du 16 août 2019, d’accorder
+la libération conditionnelle dès le jour où le renvoi de Suisse pourrait être mis
+en œuvre par les autorités administratives compétentes et de fixer un délai d’épreuve
+de cinq ans.
+o)
+X.________ a été auditionné par la Présidente du Collège des JAP le 26 octobre
+2020. Il a produit un bordereau de pièces (P. 40), soit trois déclarations de son oncle
+(au F.________), de son frère et de sa sœur (en Italie) selon lesquelles chacun était
+disposé à le loger dans leur maison respective au F.________, ainsi qu’un extrait de
+sa comptabilité carcérale indiquant une réserve bloquée de 18'893 fr. 50
+et, depuis mai 2019, les versements de 40 fr. à chaque victime (environ tous les trois mois)
+et de 80 fr. (chaque mois) pour les frais de justice.
+p)
+Le 30 octobre 2020, le Ministère public a préavisé défavorablement à la libération
+conditionnelle (P. 43). Tout en prenant acte des avis positifs de la CIC et de l’OEP, la procureure
+a relevé que les perspectives d’emploi du condamné en étaient au stade de l’envie,
+voire de l’ébauche mais guère plus, que le passage à une libération conditionnelle
+sans élargissement préalable était peu judicieux, que le risque de récidive, bien
+que tempéré par les criminologues de l’EEP de Bellevue, avait été considéré
+comme moyen dans l’expertise psychiatrique du 7 septembre 2020, et que la relation du détenu
+avec son amie n’était pas des plus claires. La procureure préconisait une préparation
+soigneuse de la libération conditionnelle, incluant des élargissements de peine, une clarification
+de la relation entre le détenu et sa compagne et un retour dans son pays d'origine incluant une
+prise en charge familiale et professionnelle solides.
+q)
+Dans ses déterminations du 12 novembre 2020, X.________ a conclu à sa libération conditionnelle,
+assortie d'un délai d'épreuve de 5 ans dès que son renvoi au F.________ pourrait
+être mis en œuvre par les autorités administratives compétentes. Il a produit un
+bordereau de trois pièces (P. 44/1), soit une attestation certifiée de son associée
+au F.________, confirmant qu’elle gérait le restaurant «  [...]» et que le
+détenu avait contribué financièrement à l’ouverture de celui-ci, une attestation
+de sa tante sur place, prête elle aussi à l'héberger, et un courrier de son ex-compagne,
+confirmant leur rupture.
+B.
+Par décision du 10 décembre 2020, le
+Collège des JAP a refusé la libération conditionnelle à X.________ (I), a arrêté
+l’indemnité de Me Loïc Parein, défenseur d’office de X.________, à 2'455 fr. 75,
+débours et TVA compris (II), et a laissé les frais de la décision, y compris l’indemnité
+arrêtée sous chiffre II, à la charge de l’Etat (III).
+C.
+Par acte du 21 décembre 2020, X.________ a recouru contre cette décision, en concluant, avec
+suite de frais et dépens, principalement à sa réforme en ce sens que la libération
+conditionnelle soit ordonnée aux conditions que justice dirait, notamment à compter de l’exécution
+de l’expulsion, les frais des deux instances étant laissés à la charge de l’Etat,
+subsidiairement à son annulation, la cause étant renvoyée à l’autorité
+précédente pour nouvelle décision dans le sens des considérants à intervenir,
+les frais des deux instances étant laissés à la charge de l’Etat.
+Le 4 janvier 2021, le Collège des JAP a renoncé à se déterminer, en se référant
+intégralement aux considérants de sa décision du 10 décembre 2020.
+Le 4 janvier 2021, le Ministère public a conclu au rejet du recours, en se référant à
+son préavis du 30 octobre 2020 et à la décision attaquée.
+En droit
+:
+1.
+En vertu de l’art. 38 al. 1 LEP (loi sur l’exécution des condamnations pénales
+du 4 juillet 2006 ; BLV 340.01), les décisions rendues par le juge d'application des peines
+et par le collège des juges d'application des peines peuvent faire l'objet d'un recours auprès
+du Tribunal cantonal. Selon l’art. 38 al. 2 LEP, la procédure est régie par les dispositions
+du CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours.
+Le recours doit ainsi être motivé et adressé par écrit, dans un délai de dix
+jours dès la notification de la décision attaquée (art. 384 let. b et 396 al. 1 CPP),
+à l’autorité de recours qui, dans le canton de Vaud, est la Chambre des recours pénale
+du Tribunal cantonal (art. 13 LVCPP [loi d’introduction du Code de procédure pénale suisse
+du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [loi d’organisation judiciaire du 12 décembre
+1979 ; BLV 173.01]).
+En l’espèce, interjeté en temps utile dans les formes prescrites (art. 385 al. 1
+CPP) auprès de l’autorité compétente par le condamné qui a qualité pour
+recourir (art. 382 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant conteste les quatre éléments opposés par l’autorité intimée
+pour lui refuser la libération conditionnelle, à savoir le manque d’évolution personnelle,
+le manque de consistance de ses projets professionnels, l’inefficacité et l’ineffectivité
+du suivi thérapeutique en cours et les dangers d’une sortie sèche. Il fait valoir en
+outre qu’il existe de nombreux facteurs protecteurs propices à sa libération conditionnelle.
+2.2
+Selon l'art. 86 CP, l'autorité compétente libère conditionnellement le détenu qui
+a subi les deux tiers de sa peine, mais au moins trois mois de détention, si son comportement durant
+l'exécution de la peine ne s'y oppose pas et s'il n'y a pas lieu de craindre qu'il ne commette de
+nouveaux crimes ou de nouveaux délits (al. 1). Cet examen intervient d’office (al. 2). En
+cas de condamnation à vie, la libération conditionnelle peut intervenir après 15 ans au
+plus tôt (al. 5).
+La libération conditionnelle constitue la dernière étape de l'exécution de la sanction
+pénale. Elle est la règle et son refus l'exception, dans la mesure où il n’est plus
+exigé qu’il soit à prévoir que le condamné se conduira bien en liberté
+(cf. art. 38 ch. 1 al. 1 aCP), mais seulement qu’il ne soit pas à craindre qu’il commette
+de nouveaux crimes ou délits. Autrement dit, il n'est plus nécessaire pour l'octroi de la libération
+conditionnelle qu'un pronostic favorable puisse être posé. Il suffit que le pronostic ne soit
+pas défavorable (ATF 133 IV 201 consid. 2.2). Le pronostic à émettre doit être posé
+sur la base d'une appréciation globale, prenant en considération les antécédents
+de l'intéressé, sa personnalité, son comportement en général et dans le cadre
+des délits qui sont à l'origine de sa condamnation, le degré de son éventuel amendement
+ainsi que les conditions dans lesquelles il est à prévoir qu'il vivra (ATF 133 IV 201 consid.
+2.2 et 2.3 ; TF 6B_353/2019 du 25 avril 2019 consid. 1.2.1 ; TF 6B_103/2019 du 21 février
+2019 consid. 2.1). La nature des délits commis par l'intéressé n'est, en tant que telle,
+pas à prendre en compte, en ce sens que la libération conditionnelle ne doit pas être
+exclue ou rendue plus difficile pour certains types d'infractions. Toutefois, les circonstances dans
+lesquelles l'auteur a encouru la sanction pénale sont également pertinentes dans la mesure
+où elles sont révélatrices de sa personnalité et donnent ainsi certaines indications
+sur son comportement probable en liberté. Au demeurant, pour déterminer si l'on peut courir
+le risque de récidive, inhérent à toute libération qu'elle soit conditionnelle ou
+définitive, il faut non seulement prendre en considération le degré de probabilité
+qu'une nouvelle infraction soit commise mais également l'importance du bien qui serait alors menacé.
+Ainsi, le risque de récidive que l'on peut admettre est moindre si l'auteur s'en est pris à
+la vie ou à l'intégrité corporelle de ses victimes que s'il a commis par exemple des infractions
+contre le patrimoine (ATF 133 IV 201 consid. 2.3 ; ATF 125 IV 113 consid. 2a ; TF 6B_353/2019
+précité ; TF 6B_103/2019 précité).
+2.3
+2.3.1
+Dans le cas particulier, le recourant est détenu depuis plus de 19 ans, soit plus que la durée
+minimale de 15 ans après laquelle une libération conditionnelle est possible en cas de
+condamnation à vie.
+Le comportement du recourant en détention est considéré comme bon et adéquat. Bien
+qu’ayant montré une attitude hautaine, revendicatrice et susceptible au départ à
+l’EEP de Bellevue, il fait maintenant preuve d’une attitude plus posée et davantage
+ouverte au dialogue. Au niveau cellulaire, il est poli, peu demandeur et accepte facilement le refus.
+Il n’a pas été sanctionné disciplinairement depuis son arrivée à l’EEP
+de Bellevue. Ses analyses toxicologiques se sont toutes révélées négatives aux substances
+prohibées. Au niveau du travail à l’atelier boulangerie, il adopte une bonne attitude,
+se montre assidu, ponctuel et motivé dans l'apprentissage de nouvelles connaissances. Il s’investit
+activement et respecte tant le maître de l’atelier que ses codétenus. De manière
+générale, il est un détenu discret qui ne pose pas de problèmes et qui est probablement
+en proie à une forte institutionnalisation au vu du nombre d’années passées en détention.
+La condition du bon comportement en détention étant réalisée, seule la question du
+pronostic quant à la conduite future du condamné fait donc débat.
+2.3.2
+Le Collège des JAP a examiné le pronostic sous plusieurs angles.
+1)
+Evolution personnelle
+L’autorité intimée a retenu que, dans leur rapport du 7 septembre 2020, les experts psychiatres
+avaient maintenu un regard clinique similaire à celui de l’expertise de 2014 et n’avaient
+pas observé d’évolution significative depuis lors sur un plan psychiatrique, de sorte
+que le risque de récidive générale et de violence était considéré comme
+moyen. Elle a observé que ce manque d’évolution personnelle avait été signalé
+tant par la CIC dans son avis du 12 octobre 2020 et que par elle-même, puisque le recourant avait
+déclaré, au cours de son audition du 26 octobre 2020, qu’il regrettait son acte
+criminel parce qu’il avait «
+perdu
+»
+sa femme, faisant ainsi encore une fois preuve d’un égocentrisme prononcé.
+Les experts psychiatres ont effectivement retenu qu’il n’y avait aucune évolution significative
+psychiatrique par rapport à la précédente expertise de 2014. Comme relevé pertinemment
+par la CIC, aucun changement de fond significatif des traits de personnalité narcissiques intrinsèques
+recourant n’est à attendre du suivi thérapeutique. D’ailleurs, dans son arrêt
+du 23 février 2005, la Cour de cassation pénale du Tribunal cantonal n’avait pas astreint
+le condamné à un traitement ambulatoire.
+La question qui se pose est celle de savoir s’il est à craindre que le recourant récidive
+à sa prochaine rupture sentimentale non désirée.
+Il est aussi exact que, dans leur rapport du 7 septembre 2020, les experts psychiatres ont retenu que
+l’analyse du risque de récidive ne les amenait pas à s’écarter de l’évaluation
+des criminologues des EPO d’octobre 2019, à savoir que le recourant appartenait à une
+catégorie d’individus pour laquelle les niveaux de risque de récidive générale
+et violente pouvaient toujours être qualifiés de moyens.
+Il n’en demeure pas moins que le comportement du recourant et la perception de ses actes criminels
+a évolué favorablement au fil des années comme il suit :
+- Le 10 novembre 2014, les experts psychiatres ont relevé que, s’agissant de l’évolution
+clinique et psychologique du recourant depuis le rapport d’expertise de juillet 2003, «
+Plusieurs
+des éléments psychopathologiques écrits à l’époque, notamment ceux associés
+au registre dyssocial, ne sont pas au premier plan aujourd’hui. Un certain assouplissement semble
+avoir lieu, allant de pair avec l’évolution du comportement observé dans le cadre carcéral,
+notamment dans le sens d’une meilleure maîtrise de soi
+».
+Les experts ont mentionné que le fonctionnement psychique du recourant «
+présente
+aujourd’hui des signes d’une certaine plasticité, dans lesquels l’existence de
+certaines capacités adaptatives ne semble pas absente
+».
+Ils ont signalé qu’«
+il
+paraît que Monsieur X.________ peut entendre une partie de ce qui lui est restitué de ses traits
+de personnalité, et peut-être maitriser quelques-unes de leurs éventuelles manifestations
+comportementales, même s’il ne les ressent pas toujours comme véritablement dysfonctionnels.
+Monsieur X.________ reconnaît plus facilement les effets néfastes que la consommation d’alcool
+peut avoir sur son comportement
+». S’agissant
+de l’amendement, les experts ont signalé que, indépendamment du fait que le recourant
+ne reconnaissait pas la préméditation de son acte, «
+Monsieur
+X.________ paraît aujourd’hui considérer son acte comme regrettable et s’en attribuer
+en grande partie la responsabilité (malgré les facteurs contextuels qu’il met en évidence),
+notamment en admettant qu’il ne sait plus vraiment ce qu’il a fait et pourquoi. On peut ainsi
+parler de reconnaissance partielle des actes. Par ailleurs, Monsieur X.________ peine encore à concevoir
+et à admettre le potentiel de violence qu’il présente, lorsqu’il envisage l’avenir
+»
+(P. 21, pp. 17-18) ;
+- Le 29 octobre 2019, les criminologues des EPO ont confirmé la légère amélioration
+du positionnement du recourant, qui tendait à entretenir un discours un peu moins égocentré.
+En effet, il niait être une victime, ce qui n’était pas le cas durant les précédentes
+démarches évaluatives, et citait sa défunte épouse, ses enfants et la collègue
+de son épouse lorsqu’il était fait mention des victimes. Les capacités limitées
+du recourant à se mettre à la place d’autrui et à accéder au registre émotionnel
+de tierces personnes se comprenaient à la lumière de sa personnalité à traits narcissiques.
+Même si le recourant appartenait à une catégorie d’individus pour laquelle les niveaux
+de risque de récidive générale et violente pouvaient toujours être qualifiés
+de moyens, ce risque pouvait en revanche être considéré comme faible si l’on écartait
+les antécédents, éléments statiques et immuables dans le temps. En outre, il avait
+renoué avec une partie de sa famille et des connaissances résidant au F.________, ce qui pourrait
+amoindrir l’isolement social vers lequel il tendait lors de la démarche évaluative de
+2018 ;
+- Le 7 septembre 2020, les Drs [...] et [...] ont exposé que les aspects narcissiques de la personnalité
+présentés par le condamné ne paraissaient pas avoir engendré de troubles du comportement
+récents, en tout cas depuis son transfert à l’EEP de Bellevue. L’intéressé
+mettait la diminution de ses comportements hétéro-agressifs essentiellement en lien avec le
+fait qu’il était actuellement plus âgé et moins impulsif. Il reconnaissait que l’alcool
+pouvait être un problème par rapport à la gestion de la violence. Une légère
+évolution pouvait être constatée en ce sens que l’intéressé faisait mention
+d’un facteur endogène, soit sa jalousie excessive, pour expliquer ses gestes criminels ;
+- Le 22 septembre 2020, le Dr [...] et le psychologue [...] ont indiqué que le travail thérapeutique
+avait permis au recourant un progrès dans l’expression et la reconnaissance de ses émotions
+et que les séances visaient à extraire le patient de sa position de victime, où la faute
+était la plupart du temps celle des autres, ce qui pourrait permettre une remise en question authentique
+et une relation plus épanouie dans le lien social ;
+- Le 1
+er
+octobre 2020, les criminologiques de l’EEP de Bellevue ont exposé que le recourant avait créé
+des affinités avec des codétenus lorsqu’il avait été placé dans un plus
+petit secteur, avait réussi à sortir ses émotions au gré des séances thérapeutiques,
+avait mentionné ses délits, formulé des regrets et pris conscience que ses actes avaient
+eu un impact sur de nombreuses personnes qui en avaient souffert. Ils ont conclu que le recourant faisait
+preuve d’un bon comportement, que son attitude s’était remarquablement améliorée
+au fil des années, qu’il semblait s’être réellement remis en question concernant
+son délit, qu’il parvenait désormais à reconnaître ses fragilités et qu’il
+paraissait tirer profit du suivi thérapeutique ;
+A ces éléments positifs s’ajoutent de nombreux facteurs de protection :
+- Le recourant a des contacts téléphoniques réguliers avec sa famille et ses amis à
+l’étranger. Il détient en effet plusieurs numéros de téléphone de compatriotes
+à travers le monde (Canada, Angleterre), ces derniers l’ayant mis en contact avec d’autres
+compatriotes résidant au F.________ pour l’aider à préparer au mieux son retour
+au pays ;
+- Quatre membres de sa famille se sont déclarés disposer à l’héberger dans
+leur maison respective au F.________ dès son retour au pays ;
+- Il gère son argent de manière autonome. Il a pu s’organiser pour que tous les avoirs
+de son deuxième pilier soient regroupés sur un seul compte afin de faciliter le retrait en
+cas de départ à l’étranger. Les membres de sa famille le soutiennent financièrement,
+lui apportant de l’argent en détention ;
+- Il a pris conscience de ses actes : depuis mai 2019, il indemnise les victimes et rembourse ses
+frais judiciaires de manière mensuelle ;
+- Les préavis du monde carcéral sont tous favorables à la libération conditionnelle,
+à savoir l’EEP de Bellevue, la CIC qui y voit «
+une
+opportunité à saisir
+» et
+l’OEP ;
+- Il a un projet d’emploi concret au F.________ (cf. infra, ch. 2) ;
+- Les criminologues des EPO ont retenu que le niveau des facteurs de protection pouvait être apprécié
+comme moyen à élevé et que lesdits facteurs pouvaient perdurer au-delà du renvoi,
+vu les projets professionnels du recourant et la reprise de contact avec son cercle familial au F.________ ;
+- Comme évoqué ci-dessus, exception faite de ses antécédents, éléments
+statiques et immuables, le risque de récidive est faible ; son comportement en prison n’a
+fait l’objet d’aucune critique ; il a pu verbaliser ses émotions, a fait état
+de ses regrets et a manifesté de l’empathie pour ses enfants qui avaient perdu leur mère ;
+il a compris que ses agissements criminels avaient encore des conséquences puisqu’il déplore
+que ses enfants ne veulent pas le voir.
+2)
+Projets pour le
+retour au F.________
+Le Collège des JAP a retenu que les projets du recourant manquaient de consistance et en étaient
+même au point mort à cause de la crise sanitaire, que son second projet caritatif n’était
+pas matérialisé autrement que par ses propres dires, qu’il n’avait pas pu dire
+où il logerait effectivement à son retour au F.________ et qu’il n’avait pas documenté
+la poursuite de son traitement psychothérapeutique dans ce pays.
+Le recourant est parfaitement conscient qu’il doit retourner dans son pays. Son projet de travailler
+dans le domaine de la boulangerie au F.________ est cohérent avec les connaissances qu’il
+a acquises à l’atelier boulangerie où il donne entière satisfaction. Il a produit
+un acte notarié selon lequel il loue avec son associée des locaux comprenant une cuisine, des
+équipements de boulangerie et du mobilier correspondant à 75 places assises (P. 8/1).
+Le «
+Deed of partnership
+»
+indique que les associés géreront un restaurant-boulangerie (ibidem). Le recourant a versé
+5'000 fr. pour finaliser ce rapport d’associés. Ce projet existe de longue date et est
+décrit par les différents intervenants (P. 7 in fine, P. 33/2, p. 4). Le recourant
+a aussi pour projet de donner des cours informatiques gratuitement à des enfants, peu importe [...].
+Le projet serait mis en œuvre par ses amis compatriotes vivant au Canada et en Angleterre qui se
+chargeraient d’acheter le matériel informatique et d’ouvrir l’école (P. 33/2,
+p. 4). S’il est vrai que ce projet n’est pas entièrement abouti, il ne s’agit
+toutefois que d’une activité secondaire, l’activité principale demeurant celle
+procurant des revenus au recourant (ibidem). Dans son attestation certifiée du 8 novembre 2020 (P. 44/1/1),
+l’associée du recourant confirme qu’elle est actuellement en train de gérer («
+I
+am running
+») le restaurant nommé
+«  [...]» et que le recourant est son partenaire dans cette affaire. Le projet d’ouverture
+d’un restaurant-boulangerie est donc concret – si ce n’est déjà réalisé
+–, ce qui démontre que le recourant se projette dans son retour au F.________. Quant au logement
+du recourant, quatre membres de sa famille se sont déclarés disposés à l’héberger
+dès son retour au pays, ce qui est amplement suffisant. Enfin, on peut concevoir qu’il n’est
+pas aisé d’obtenir une attestation de prise en charge d’un médecin psychiatre au
+F.________, le système de santé gratuit y étant moins performant qu’en Suisse comme
+l’explique le recourant et sans savoir en outre quand le suivi pourrait débuter. En l’état,
+le psychiatre des EPO a donné au recourant une liste des médecins qu’il pourra contacter
+au F.________ (P. 39, lignes 103 ss).
+Vu les éléments qui précèdent, il y a lieu de constater que le recourant, en dépit
+de l’éloignement géographique et de l’écoulement du temps, a réussi à
+mettre en œuvre un projet réel de perspective professionnelle dans son pays.
+3)
+Autorisations de
+sortie
+Le Collège des JAP soutient que le recourant n’a bénéficié d’aucun élargissement
+et qu’il apparaît primordial qu’il puisse reprendre progressivement contact avec le
+monde extérieur par le biais de conduites.
+Il est exact que le recourant n’a bénéficié d’aucun élargissement durant
+sa détention, ses deux demandes de congé et de sortie ayant été refusées (P. 40/5
+et 40/6). Toutefois, les spécialistes du monde carcéral, la CIC et l’OEP n’en ont
+pas fait, à juste titre, une condition à l’octroi de la libération conditionnelle.
+S’il aurait certes été utile d’avoir des observations sur le comportement du recourant
+lors de conduites accompagnées par exemple, cela n’était toutefois pas nécessaire.
+4)
+Enjeux sécuritaires
+Il est vrai que le recourant avait une compagne depuis 2012 qui venait le voir régulièrement
+en détention et qu’ils avaient le projet de se marier. Le recourant a toutefois expliqué
+qu’il avait mis fin à cette relation, dès lors qu’il avait pour but de retourner
+dans son pays, que sa compagne ne pouvait pas le faire pour des raisons politiques et qu’il ne
+voulait pas prendre la responsabilité de la faire venir au F.________ dans ces conditions. Le recourant
+a en outre produit une attestation de l’intéressée indiquant que son statut de requérante
+d’asile ne lui permettait pas de retourner au F.________ et confirmant la rupture (P. 44/1/3).
+Cette relation n’est donc plus un obstacle à la libération conditionnelle.
+2.3.3
+Au vu des considérations qui précèdent, le pronostic quant au comportement futur du recourant
+n’est pas défavorable. Comme relevé par la CIC, la libération conditionnelle assortie
+d’un retour immédiat au pays peut être organisée sans attendre davantage de la prise
+en charge par le système pénitentiaire suisse, tant sur le plan criminologique que sur le plan
+clinique. Cela suffit pour accorder au recourant une libération conditionnelle, avec délai
+d’épreuve de cinq ans, la condition étant celle d’un retour immédiat de l’intéressé
+au F.________ dès le jour où son renvoi de Suisse pourra être mis en œuvre.
+3.
+Il s’ensuit que le recours doit être admis et la décision entreprise réformée
+dans le sens du considérant qui précède. La décision est confirmée pour le surplus.
+Les frais de la procédure de recours sont fixés à 2’640 fr. (art. 20 al. 1
+TFIP [Tarif des frais de procédure et indemnités en matière pénale du 28 septembre
+2010 ; BLV 312.03.1]).
+Me Loïc Parein, défenseur d’office de X.________, a produit une liste d’opérations
+indiquant 8 h 08 d’activité. Il n’y a pas lieu d’indemniser totalement
+le temps indiqué pour la rédaction des lettres et courriers (1 h 03) et celui indiqué
+pour la rédaction du bordereau (15 min.), activités qui relèvent surtout du travail
+de secrétariat. L’opération intitulée « 00.1.2021 étude du dossier
+décision » (30 min.) est incompréhensible, de sorte qu’il n’en sera pas
+tenu compte. Le temps consacré aux intitulés « étude du dossier documents client »,
+« étude du dossier documents OEP », « étude du dossier JAP »
+et « étude du dossier expertise psy », totalisant 2 h 25 de travail,
+le sont pour des documents déjà connus, de sorte qu’il n’en sera tenu compte qu’à
+hauteur d’une heure. Par conséquent, pour l’étude du dossier, des pièces nouvelles
+et pour la rédaction, il sera retenu globalement 5 h d’activité au tarif horaire
+de 180 fr. (art. 2 al. 1 let. a et 3 al. 1 RAJ [règlement sur l'assistance judiciaire
+en matière civile du 7 décembre 2010 ; BLV 211.02.3] par renvoi de l'art. 26b TFIP),
+soit 900 francs. S'y ajoutent 2 % pour les débours (art. 3bis al. 1 RAJ par renvoi de l'art.
+26b TFIP) et 7,7 % pour la TVA, de sorte que l'indemnité d'office s'élève au total
+à 989 fr. en chiffres ronds.
+Les frais judiciaires et les frais imputables à la défense d’office seront laissés
+à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce :
+I.
+Le recours est admis.
+II.
+La décision du 10 décembre 2020 est réformée en ce sens que la libération conditionnelle
+est accordée à X.________, avec délai d’épreuve de 5 ans, dès le
+jour où son renvoi de Suisse pourra être mis en œuvre.
+La
+décision est confirmée pour le surplus.
+III.
+L'indemnité allouée à Me Loïc
+Parein, défenseur d'office de X.________, est fixée à 989 fr. (neuf cent huitante-neuf
+francs).
+IV.
+Les frais d'arrêt, par 2'640 fr. (deux mille six cent quarante francs), ainsi que l'indemnité
+allouée à Me Loïc Parein, par 989 fr. (neuf cent huitante-neuf francs), sont laissés
+à la charge de l’Etat.
+V.
+L’arrêt est exécutoire.
+La
+vice-présidente :
+La greffière :
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Loïc Parein, avocat (pour X.________),
+-
+Ministère public central,
+et communiqué à :
+-
+Collège des juges d’application des peines,
+-
+Mme la Procureure du Ministère public central, division affaires spéciales,
+-
+Direction de l’Etablissement d’exécution des peines de Bellevue,
+-
+Office d’exécution des peines (réf. : OEP/PPL/19097/VRI/ipe),
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi sur le Tribunal fédéral du 17 juin 2005 ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
