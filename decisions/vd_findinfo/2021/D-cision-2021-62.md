@@ -1,0 +1,454 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___62"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 62"
+decided: "2021-01-21"
+published: "2021-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8155121"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/220/art-257h.md", "switzerland/bund/acts/311.0/art-186.md", "switzerland/bund/acts/312.0/art-009.md", "switzerland/bund/acts/312.0/art-010.md", "switzerland/bund/acts/312.0/art-329.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-383.md", "switzerland/bund/acts/312.0/art-398.md", "switzerland/bund/acts/312.0/art-399.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/312.0/art-429.md", "switzerland/bund/acts/312.0/art-433.md"]
+---
+
+# VD Findinfo Décision / 2021 / 62
+
+## Regeste
+
+REJET DE LA DEMANDE, VIOLATION DE DOMICILE | 186 CP, 10 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Cour d'appel pénale 21.01.2021 Décision / 2021 / 62
+
+REJET DE LA DEMANDE, VIOLATION DE DOMICILE | 186 CP, 10 CPP (CH)
+
+[...]
+TRIBUNAL
+CANTONAL
+27
+PE18.013032-CMS
+COUR
+D’APPEL PENALE
+______________________________
+Séance
+du 21 janvier 2021
+__________________
+Présidence
+de               M.
+Sauterel
+,
+président
+Mme
+Rouleau et M. Stoudmann, juges
+Greffière
+:              Mme
+De Corso
+*****
+Parties
+à la présente cause :
+P.________,
+partie plaignante, représenté par Me Alban Matthey, conseil de choix à Lausanne, appelant,
+et
+MINISTÈRE
+PUBLIC
+, représenté par la Procureure
+de l'arrondissement de l'Est vaudois, intimé,
+F.________
+,
+prévenu, représenté par Me Gilles Monnier, défenseur de choix à Pully, intimé,
+L.________
+,
+prévenu et intimé,
+S.________,
+prévenue et  intimée.
+La Cour d'appel pénale considère :
+En fait
+:
+A.
+Par jugement du 3 septembre 2020, le Tribunal
+de police de l’arrondissement de l’Est vaudois a libéré F.________, L.________
+et S.________ du chef d’accusation de violation de domicile (I à III), a rejeté les conclusions
+civiles en réparation du tort moral prises par P.________ contre F.________, L.________ et S.________
+(IV), a rejeté la demande d’indemnité au sens de l’art. 433 CPP d’P.________
+à l’encontre de L.________, F.________ et S.________ (V), a dit que l’Etat est le débiteur
+de F.________ de la somme de 8'324 fr. 25 pour les dépenses occasionnées par l’exercice
+raisonnable de ses droits de procédure (VI), a rejeté la demande  d’indemnité
+de F.________ pour le dommage économique subi au titre de sa participation obligatoire à la
+procédure pénale (VII) et a laissé les frais de la cause à la charge de l’Etat
+(VIII).
+B.
+Par annonce du 11 septembre 2020, puis par déclaration
+motivée du 16 octobre 2020, P.________ a formé appel contre ce jugement en concluant à
+sa modification, en ce sens que F.________, L.________ et S.________ soient reconnus coupables de violation
+de domicile, subsidiairement de tentative de ce délit, à ce qu'ils soient condamnés à
+lui verser, solidairement, une indemnité de 300 fr. pour tort moral, ainsi qu’une indemnité
+de 16'060 fr. pour les dépenses obligatoires occasionnées par la procédure au sens de
+l’art. 433 CPP, que, subsidiairement, cette indemnité soit mise à la charge de l’Etat,
+qu’aucune indemnité au sens de l’art. 429 CPP ne soit allouée à F.________,
+ni pour le dommage économique qu'il aurait subi, et que les frais de procédure soient mis à
+la charge des trois prévenus, subsidiairement à la charge de l’Etat.
+Par avis du 22 octobre 2020, la direction de la procédure a imparti à l’appelant un délai
+pour effectuer un dépôt de 10'000 fr. à titre de sûretés au sens de l’art.
+383 CPP. L’intéressé s’est acquitté de cette somme en temps utile.
+C.
+Les faits retenus sont les suivants :
+1.
+1.1
+Ressortissant suisse, F.________ est né le [...] [...]. Il est directeur de la gérance K.________.
+Son revenu annuel net pour 2018 s’est élevé à 359'070 francs. Il est marié
+et père de trois enfants de 22, 15 et 12 ans qui sont toujours à la charge de leurs parents,
+l’aîné étant issu d’un premier lit du prévenu.
+Le
+casier judiciaire suisse de F.________ est vierge de toute inscription.
+1.2
+Ressortissant suisse, L.________ est né le
+[...] [...]. Il est directeur adjoint de la gérance K.________ qui lui verse un salaire mensuel
+net de 9'870 fr., payé treize fois l’an. Il est marié sans enfant et le couple est propriétaire
+de son logement, chacun pour une demie. Les charges de l’immeuble s’élèveraient
+à 1'725 fr. par mois.
+Le
+casier judiciaire suisse de L.________ est vierge de toute inscription.
+1.3
+Ressortissante suisse, S.________ est née
+le [...] [...]. Elle est gérante d’immeubles. Son salaire mensuel net est de 8'100 fr., versé
+treize fois l’an. Célibataire, elle est locataire de l’appartement dans lequel elle
+vit et dont le loyer est de 2'000 fr. charges comprises.
+Le
+casier judiciaire suisse d'S.________ est vierge de toute inscription.
+2.
+Par ordonnance pénale du 16 janvier 2020,
+le Ministère public de l’arrondissement de l’Est vaudois a condamné F.________,
+L.________ et S.________ à dix jours-amende, le montant du jour-amende étant fixé respectivement
+à 150 fr., 100 fr. et 50 fr., avec sursis pendant deux, pour violation de domicile, et a mis les
+frais de procédure, par 975 fr., à leur charge, chacun par un tiers.
+Cette ordonnance énonçait les faits suivants : le 29 mars 2018, à [...], [...], dans
+le cadre d’un litige relevant du droit du bail opposant le locataire P.________ à son bailleur,
+F.________, L.________ et S.________, respectivement directeur, adjoint de direction et gérante
+technique au sein de la gérance K.________, ont pénétré dans le jardin clos et attenant
+à la propriété louée par P.________ à l’adresse précitée, afin
+d’y procéder à un constat des défauts, malgré le refus à eux signifié
+par le plaignant.
+Le 27 juin 2018, P.________ a déposé plainte pénale.
+En temps utile, F.________, L.________ et S.________ ont formé opposition contre cette ordonnance
+et le dossier a été transmis au Tribunal de police de l’arrondissement de l’Est
+vaudois comme objet de sa compétence.
+3.
+Le tribunal de police a libéré les prévenus
+de toute infraction, retenant, au bénéfice du doute, leur version des faits, soit qu’P.________
+avait accepté qu’ils visitent les extérieurs de la villa, tout en refusant qu’ils
+pénètrent à l’intérieur du bâtiment.
+En droit :
+1.
+Interjeté dans les formes et délais
+légaux (art. 399 CPP [Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0]),
+par la partie plaignante ayant qualité pour recourir (art. 382 al. 1 CPP) contre le jugement d’un
+tribunal de première instance qui a clos la procédure (art. 398 al. 1 CPP), l'appel d’P.________
+est recevable.
+2.
+La juridiction d’appel jouit d’un
+plein pouvoir d’examen sur tous les points attaqués du jugement (art. 398 al. 2 CPP). Selon
+l’art. 398 al. 3 CPP, l’appel peut être formé pour violation du droit, y compris
+l’excès et l’abus du pouvoir d’appréciation, le déni de justice et le
+retard injustifié (let. a), constatation incomplète ou erronée des faits (let. b) et/ou
+inopportunité (let. c).
+L'appel doit permettre un nouvel examen au fond par la juridiction d'appel. Celle-ci ne doit pas se borner
+à rechercher les erreurs du juge précédent et à critiquer le jugement de ce dernier ;
+elle doit tenir ses propres débats et prendre sa décision sous sa responsabilité et selon
+sa libre conviction, qui doit reposer sur le dossier et sa propre administration des preuves. L'appel
+tend à la répétition de l'examen des faits et au prononcé d'un nouveau jugement (Eugster,
+in : Niggli/Heer/ Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung,
+Jugendstrafprozessordnung, 2
+e
+éd., Bâle 2014, n. 1 ad art. 398 CPP).
+3.
+3.1
+L’appelant soutient que F.________, L.________
+et S.________ devraient être condamnés pour tentative de violation de domicile dès lors
+qu’ils auraient tenté de pénétrer dans la villa, mais sans y être parvenus
+en raison de la résistance opposée par G.________ – ami de l’appelant présent
+à l’intérieur de la villa –, lorsque F.________ lui a demandé de le laisser
+entrer par une porte-fenêtre.
+3.2
+L’acte d’accusation n’énonce
+pas ces faits. Selon la jurisprudence du Tribunal fédéral (TF 6B_114/2018 du 31 juillet
+2018 consid. 2.2) concernant une affaire de tentative de contrainte, le respect du droit d’être
+entendu impose au juge d’informer les parties d’une insuffisance de l’acte d’accusation.
+Conformément à l'art. 329 CPP, il appartient à la direction de la procédure d'appel
+d'examiner la régularité de l'acte d'accusation (cf. ATF 141 IV 20 consid. 1.5.4). Si
+celle-ci entend fonder sa décision sur une irrégularité constatée au terme de cet
+examen, elle doit, en l'absence de tout élément ayant par ailleurs permis aux parties de supputer
+une telle irrégularité, en informer préalablement ces dernières et leur donner l'occasion
+de se déterminer sur le sujet.
+3.3
+En l’espèce, il ne s’agit pas à proprement parler d’une irrégularité
+de l’acte d’accusation, mais d’un grief nouveau de l’appelant qui ne trouve aucun
+fondement en fait et en droit dans l’acte d’accusation. Il ne ressort pas du jugement de
+première instance que la question d'une irrégularité de l'acte d'accusation aurait été
+soulevée par une partie ni discutée devant l’autorité précédente. Ainsi,
+traiter son grief en appel reviendrait à violer la maxime d’accusation (art. 9 al. 1 CPP).
+Au demeurant, constater que la vitre d’une fenêtre est cassée peut s’effectuer
+depuis l’extérieur en ouvrant cette fenêtre et n’équivaut pas nécessairement
+au fait d’entrer dans l’immeuble. A cet égard, la demande de constater la face interne
+d’un vitrage n’implique pas une tentative de violation de domicile de la part de l’intimé
+F.________.
+Partant, le grief de l’appelant doit être rejeté.
+4.
+4.1
+L’appelant fait valoir une constatation
+incomplète ou erronée des faits. Il soutient en substance qu’en prenant en considération
+les éléments factuels qui seront exposés ci-après, le premier juge n’aurait
+dû éprouver aucun doute et tenir sa version des faits pour crédible.
+4.2
+L'art.
+10 CPP dispose que toute personne est présumée innocente tant qu'elle n'est pas condamnée
+par un jugement entré en force (al. 1). Le Tribunal apprécie librement les preuves recueillies
+selon l'intime conviction qu'il retire de l'ensemble de la procédure (al. 2). Le tribunal se fonde
+sur l'état de fait le plus favorable au prévenu lorsque subsistent des doutes insurmontables
+quant aux éléments factuels justifiant une condamnation (al. 3).
+S'agissant plus précisément
+de l'appréciation des preuves et de l'établissement des faits, il s'agit de l'acte par lequel
+le juge du fond évalue librement la valeur de persuasion des moyens de preuve à disposition
+et pondère ces différents moyens de preuve afin de parvenir à une conclusion sur la réalisation
+ou non des éléments de fait pertinents pour l'application du droit pénal matériel.
+Le juge peut fonder une condamnation sur un faisceau d'indices ; en cas de versions contradictoires,
+il doit déterminer laquelle est la plus crédible. En d'autres termes, ce n'est ni le genre
+ni le nombre des preuves qui est déterminant, mais leur force de persuasion (Verniory,
+in
+:
+Jeanneret/ Kuhn/Perrier Depeursinge [éd.], Commentaire romand, Code de procédure pénale
+suisse [ci-après : CR CPP], 2
+e
+éd.,
+Bâle 2019, n. 34 ad art. 10 CPP).
+La présomption d'innocence,
+ainsi que son corollaire, le principe
+in
+dubio pro reo
+, concernent tant le fardeau de la
+preuve que l'appréciation des preuves (ATF 144 IV 345 consid. 2.2.3.1 ; ATF 127 I 38 consid.
+2a). En tant que règle relative au fardeau de la preuve, la présomption d'innocence signifie
+que toute personne prévenue d'une infraction pénale doit être présumée innocente
+jusqu'à ce que sa culpabilité soit légalement établie et, partant, qu'il appartient
+à l'accusation de prouver la culpabilité de celle-là (ATF 127 I 38 précité ;
+TF 6B_47/2018 du 20 septembre 2018 consid. 1.1). Comme règle d'appréciation des preuves,
+elle signifie que le juge ne doit pas se déclarer convaincu de l'existence d'un fait défavorable
+à l'accusé si, d'un point de vue objectif, il existe des doutes quant à l'existence de
+ce fait. Il importe peu qu'il subsiste des doutes seulement abstraits et théoriques, qui sont toujours
+possibles, une certitude absolue ne pouvant être exigée. Il doit s'agir de doutes sérieux
+et irréductibles, c'est-à-dire de doutes qui s'imposent à l'esprit en fonction de la situation
+objective. Lorsque l'appréciation des preuves et la constatation des faits sont critiquées
+en référence au principe
+in
+dubio pro reo
+, celui-ci n'a pas de portée
+plus large que l'interdiction de l'arbitraire, prohibant une appréciation reposant sur des preuves
+inadéquates ou sans pertinence (ATF 144 IV 345 consid. 2.2.3.3 ; ATF 143 IV 500 consid. 1.1 ;
+ATF 138 V 74 consid. 7).
+Lorsque l'autorité
+a forgé sa conviction sur la base d'un ensemble d'éléments ou d'indices convergents, il
+ne suffit pas que l'un ou l'autre de ceux-ci ou même chacun d'eux pris isolément soit à
+lui seul insuffisant. L'appréciation des preuves doit être examinée dans son ensemble
+(ATF 127 I 38 consid. 2a ; ATF 120 la 31 consid. 2c ; TF 6B_831/2009 du 15 juillet 2019
+consid. 2.2.2).
+La constatation des faits
+est incomplète au sens de l'art. 398 al. 3 let. b CPP lorsque toutes les circonstances
+de fait et tous les moyens de preuve déterminants pour le jugement n'ont pas été pris
+en compte par le tribunal de première instance. Elle est erronée lorsque le tribunal a omis
+d'administrer la preuve d'un fait pertinent, a apprécié de manière erronée le résultat
+de l'administration d'un moyen de preuve ou a fondé sa décision sur des faits erronés,
+en contradiction avec les pièces, par exemple (Kistler Vianin,
+in
+:
+CR CPP,
+op. cit.,
+n. 19 ad art. 398 CPP).
+4.3
+4.3.1
+En l’espèce, premièrement, l’appelant entend déduire de l’arrivée
+des trois prévenus sur les lieux, le 29 mars 2018, qu’ils voulaient procéder à une
+visite « en force » de la villa, qu’ayant abandonné toute distance professionnelle,
+ils éprouvaient des sentiments de mépris, d’antipathie et de ressentiment envers lui,
+et qu’ils cherchaient un motif – soit la transgression de l’interdiction de la sous-location
+– pour résilier le bail.
+S’il est manifeste que les représentants de la gérance souhaitaient constater les défauts
+allégués par le locataire – qui leur donnait l’impression de se dérober –,
+on ne saurait spéculer sur leur état d’esprit et leur prétendue volonté de
+passer outre à une interdiction d’accès. Le premier juge a présenté objectivement
+les circonstances qui ont conduit les intimés à fixer une date et une heure de visite unilatéralement,
+suite à leurs tentatives vaines de convenir d’une date (cf. jugt. p. 32).
+4.3.2
+Deuxièmement, l’appelant soutient que son appel à la police démontrerait qu’il
+avait enjoint les intimés de quitter le jardin de la villa. Le journal de police (P. 13) résume
+l’appel téléphonique passé à 11h16 en ces termes :
+« M. P.________ signale
+que 3 personnes (2H, 1F) tournent autour de sa propriété et auraient un comportement suspect
+selon lui. Pense à des agents immobiliers. Ne peut pas nous fournir un signalement. Aurait demandé
+à ces gens de partir, ce que ces derniers ont refusé de faire ».
+Dans la plainte pénale déposée par l’appelant par courrier du 28 juin 2018 (P. 4)
+– à l’échéance du délai légal de plainte de trois mois –,
+les heures indiquées, soit 8h45 pour le début de la confrontation et 8h55 pour déposer
+sa fille à la garderie, ne coïncident pas avec celles du journal de police. De plus, l’appelant
+a indiqué que l’intimé F.________ lui avait remis sa carte de visite.
+Le premier juge a relevé (cf. jugt. p. 34) qu’il était surprenant qu’P.________
+ait appelé la police sans savoir si les intimés avaient ou non quitté les lieux, en évoquant
+des inconnus suspects, alors qu’il disposait d’une carte de visite et qu’il n’ignorait
+pas les motifs de leur venue. On peut ajouter à ces incohérences que si véritablement
+l’appelant avait été confronté à un refus catégorique des prévenus
+de quitter son jardin, il aurait aussitôt appelé la police en demeurant sur place pour faire
+cesser et constater l’infraction.
+L’appelant reproche au premier juge d’avoir retenu (cf. jugt. p. 35) que sa menace d’appeler
+la police portait uniquement sur le fait de vouloir entrer dans la villa en son absence, comme indiqué
+par l’intimée S.________. F.________ a donné la même explication (cf. jugt. p. 14),
+ainsi que L.________ (cf. jugt. p. 18), qui a précisé que l’autorisation donnée
+par le locataire de faire le tour des extérieurs était associée à la désignation
+d’un arbre abritant des chenilles processionnaires dont il se plaignait. L’appelant estime
+que cette explication serait invraisemblable parce qu’il n’aurait pas pu vérifier une
+intrusion dans la villa. Cependant, l’appelant avait un ami présent dans la villa, G.________,
+pouvant communiquer par téléphone avec lui. En outre, avant l’arrivée de la police,
+cet ami a eu une confrontation avec F.________ portant sur le refus de lui laisser constater l’état
+du battant intérieur de la vitre d’une fenêtre.
+4.3.4
+Troisièmement, l’appelant se réfère à divers courriers que les intimés
+lui ont adressés après les faits du 29 mars 2018, évoquant son refus de les laisser entrer
+dans la villa. Il en infère qu’ils n’avaient pas eu l’autorisation de sa part
+de visiter les extérieurs de la villa, parce que ces écrits n’en font pas état.
+On peut toutefois en tirer la déduction inverse, soit qu’il n’y avait pas lieu d’évoquer
+dans ces lettres un point non litigieux, soit la visite autorisée du jardin.
+4.3.5
+Quatrièmement, l’appelant s’en prend à la concordance des déclarations des
+intimés, retenue par le jugement de première instance (cf. jugt. p. 33) à l’appui
+de la crédibilité de leur version. Il fait valoir qu’il s’agirait d’une version
+commune arrangée, mais il n’apporte aucune preuve à l’appui de cette affirmation.
+Les trois versions sont non seulement concordantes, mais elles sont aussi détaillées et ne
+présentent pas d’incohérence, à l’inverse des indications horaires contradictoires
+fournies par l’appelant et des aspects insolites de son appel à la police. En outre, les versions
+des prévenus n’apparaissent pas arrangées ou apprises, mais vécues. Ils ont confirmé
+de manière convaincante à l’audience d’appel avoir reçu l’autorisation
+du locataire et donné des détails sur les éléments extérieurs qu’ils ont
+vérifiés.
+4.3.6
+Cinquièmement, l’appelant reproche au premier juge d’avoir considéré le témoignage
+d'G.________ comme non crédible (cf. jugt. pp. 35 et 36), d’une part parce qu’il n’a
+pas pu être réentendu en contradictoire et, d’autre part, parce qu’il ressortait
+de l’audition de ce témoin qu’il confirmait les déclarations de l’appelant,
+notamment sur l’horaire des faits. Cela étant, le témoin s’est contredit en soutenant
+d’abord que les faits s’étaient déroulés en début de matinée, puis
+vers midi, avant de se rallier à la première indication de l’appelant soutenant qu’ils
+avaient eu lieu entre 9h00 et 9h30 environ. Il a donc confirmé aveuglément les déclarations,
+mêmes fausses, de l’appelant, ce qui doit déjà inciter à prendre ses déclarations
+avec circonspection. On peut ajouter que le témoin a déclaré ne pas avoir entendu l’entier
+de la conversation (PV aud. 2 p. 2) – ce qui génère une incertitude sur la question
+décisive de l’octroi de l’autorisation orale de circuler dans le jardin – et qu’il
+a discuté avec l’appelant, qui est son ami, de son audition comme témoin. C’est
+donc à juste titre que cette déposition n’a pas été considérée comme
+probante par le tribunal de première instance. L’appelant ne réfute du reste pas cette
+appréciation, mais se limite à affirmer que le contenu de la déposition serait crédible.
+4.4
+En définitive, c’est à juste titre que le premier juge a fait application de l’art.
+10 al. 3 CPP en mettant les intimés au bénéfice de l’état de fait leur étant
+le plus favorable.
+Partant, le grief de l’appelant portant sur une constatation incomplète ou erronée des
+faits doit être rejeté. La question de savoir si l’exercice de la faculté du bailleur
+ou de ses représentants d’inspecter la chose louée (art. 257h al. 2 CO [Loi fédérale
+complétant le Code civil suisse du 30 mars 1911 ; RS 220]) constituait dans le cas particulier
+un acte licite ou autorisé par la loi peut demeurer ouverte (Patrick Stoudmann, in Commentaire romand,
+Code pénal II, Bâle 2017, n. 40 ad art. 186 CP).
+5.
+Au vu de ce qui précède, l'appel d’P.________
+doit être rejeté et le jugement entrepris confirmé.
+Sur la base de la liste d’opérations produite par son défenseur, un montant de 4'443
+fr. sera alloué à F.________ à titre de juste indemnité pour les dépenses occasionnées
+par la procédure d’appel. Cette indemnité tient compte d’une activité de 10
+heures 30 au tarif horaire de 400 fr., TVA et débours compris. Elle sera mise à la charge d’P.________
+et sera prélevé sur la somme de 10'000 versée par l'appelant à titre de sûretés.
+Vu l’issue de la cause, les frais de la
+procédure d’appel, constitués des émoluments de jugement et d’audience, par
+1'910 fr. (art. 21 al. 1 TFIP [Tarif des frais de procédure et indemnités en matière pénale
+du 28 septembre 2010 ; BLV 312.03.1), seront mis à la charge d’P.________, qui succombe
+(art. 428 al. 1 CPP). Les frais d’appel seront prélevés sur la somme de 10'000 fr. versée
+par l'appelant à titre de sûretés.
+Le
+solde des sûretés versées par l'appelant lui sera restitué (art. 383 al. 1 CPP ;
+art. 7 TFIP).
+Par
+ces motifs,
+la
+Cour d’appel pénale
+vu
+pour L.________ et S.________ les art. 186  CP et 433 CPP,
+vu
+pour F.________ les art. 186 CP, 429 al. 1 let. b et 433 CPP,
+appliquant
+à L.________, F.________ et S.________
+les
+art. 10 et 398 ss CPP,
+prononce :
+I.
+L’appel
+est rejeté.
+II.
+Le jugement rendu le 3 septembre 2020 par le Tribunal de police de l’arrondissement de l’Est
+vaudois est confirmé selon le dispositif suivant :
+" I.
+libère L.________ du chef d'accusation de violation de domicile ;
+II.
+libère S.________ du chef d'accusation de violation de domicile;
+III.
+libère F.________ du chef d'accusation de violation de domicile;
+IV.
+rejette les conclusions civiles en indemnisation du tort moral prises par P.________ contre L.________,
+F.________ et S.________,
+V.
+rejette la demande d'indemnité au sens de l'art. 433 CPP d’P.________ à l'encontre de
+L.________,
+F.________ et S.________.
+VI.
+dit que l'Etat est débiteur de F.________ de la somme de 8'324 fr. 25 pour les dépenses occasionnées
+par l'exercice raisonnable de ses droits de procédure;
+VII. rejette la demande
+d'indemnité de F.________ pour le dommage économique subi au titre de sa participation obligatoire
+à la procédure pénale ;
+VIII. laisse les frais de la cause à la charge de l'Etat. "
+III.
+P.________ doit verser à F.________ la somme
+de 4'443 fr. (quatre mille quatre cent quarante-trois francs), valeur échue, à titre de juste
+indemnité pour les dépenses occasionnées par la procédure d'appel. Ce montant sera
+prélevé sur la somme de 10'000 versée par l'appelant à titre de sûretés.
+IV.
+Les frais d'appel, par 1'910 fr. (mille neuf cent
+dix francs), sont mis à la charge de l'appelant et seront prélevés sur la somme de 10'000
+fr. versée par l'appelant à titre de sûretés.
+V.
+Le solde des sûretés versées, soit
+3'647 fr. (trois mille six cent quarante-sept francs) par l'appelant lui sera restitué.
+VI.
+Le jugement est exécutoire.
+Le
+président :              La greffière
+:
+Du
+Le dispositif qui précède est notifié à :
+-
+Me Alban Matthey, avocat (pour P.________),
+-
+Me Gilles Monnier, avocat (pour F.________),
+-
+M. L.________,
+-
+Mme S.________,
+-
+Ministère public central,
+une copie du dispositif est adressée à :
+-
+M. le Président du Tribunal de police de l'arrondissement de l'Est vaudois,
+-
+Mme la Procureure de l'arrondissement  de l'Est vaudois,
+par
+l'envoi de photocopies. Il prend date de ce jour.
+La présente décision peut faire l'objet d'un recours en matière pénale devant le
+Tribunal fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral
+– RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral
+dans les trente jours qui suivent la notification de l'expédition complète (art. 100 al.
+1
+LTF).
+La greffière :
