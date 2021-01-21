@@ -1,0 +1,431 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___65"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 65"
+decided: "2021-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8091518"
+cites_law: ["switzerland/bund/acts/101/art-036.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-212.md", "switzerland/bund/acts/312.0/art-221.md", "switzerland/bund/acts/312.0/art-237.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 65
+
+## Regeste
+
+RISQUE DE FUITE, RISQUE DE RÉCIDIVE, PROPORTIONNALITÉ, DÉTENTION PROVISOIRE | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.01.2021 Décision / 2021 / 65
+
+RISQUE DE FUITE, RISQUE DE RÉCIDIVE, PROPORTIONNALITÉ, DÉTENTION PROVISOIRE | 221 al. 1 let. a CPP (CH), 221 al. 1 let. c CPP (CH)
+
+TRIBUNAL
+CANTONAL
+61
+PE20.017959-LAS
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 janvier 2021
+__________________
+Composition
+:               M
+Perrot
+,
+président
+MM.
+Meylan et Krieger, juges
+Greffière
+:              Mme
+Fritsché
+*****
+Art.
+221 al. 1 let. a et c, 393 ss CPP
+Statuant sur le recours interjeté le 18 janvier 2021 par
+A.X.________
+contre l’ordonnance rendue le 7 janvier 2021 par le Tribunal des mesures de contrainte dans la
+cause
+n° PE20.017959-LAS
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+Le 17 octobre 2020, le Ministère public cantonal Strada a ouvert une enquête pénale contre
+A.X.________, ressortissant français sans statut légal en Suisse, pour lésions corporelles
+simples qualifiées, voies de fait qualifiées, injure, menaces qualifiées, contrainte,
+viol et contravention à la Loi fédérale sur les stupéfiants.
+Il lui est en substance notamment reproché d’avoir frappé à réitérées
+reprises son épouse B.X.________, de l’avoir menacée et injuriée et de l’avoir
+contrainte à deux reprises à entretenir des relations sexuelles par voie vaginale et anale,
+de manière violente.
+b)
+Le prévenu a été interpellé par la police le 17 octobre 2020. L’audition d’arrestation
+par le procureur a eu lieu le lendemain. Lors de cette audition, A.X.________ a contesté les faits
+qui lui étaient reprochés. Il a également déclaré qu’il n’avait
+pas de domicile officiel en Suisse et ne s’était pas annoncé au Contrôle des habitants
+lorsqu’il était revenu dans notre pays en novembre 2019 (PV aud. d’arrestation du 18
+octobre 2020, l. 49ss). Il a également expliqué qu’il avait l’intention de retourner
+vivre en France, pays dans lequel vivait toute sa famille, soit ses trois enfants et sa petite-fille,
+et qu’il avait d’ores et déjà informé son épouse et la mère de celle-ci
+de cette décision (ibidem, l. 55-56, 59 et 99ss). Au terme de cette audition, A.X.________ a renoncé
+à être entendu par le Tribunal des mesures de contrainte.
+Le rapport de l’intervention de la police du 17 octobre 2020 contient diverses photographies faisant
+état de blessures, et notamment d’une lésion au pli du coude gauche. Ce rapport mentionne
+également qu’entre le mois de juin et le mois d’octobre 2019, la police est intervenue
+à cinq reprises, notamment sur appel de tiers, pour des faits de violences domestiques (rapport
+de police du 17 octobre 2020  p. 3 ; P. 5). Lors de l’intervention du 27 octobre 2019,
+le prévenu avait été expulsé de son logement pour une durée de 30 jours (ibidem).
+c)
+Par demande motivée du 18 octobre 2020, le Ministère public a sollicité du Tribunal des
+mesures de contrainte d’ordonner la détention provisoire de A.X.________ pour une durée
+de trois mois. Le procureur a invoqué l’existence des risques de fuite, de collusion et de
+réitération.
+Dans ses déterminations du 19 octobre 2020, A.X.________, par son défenseur d’office,
+s’en est remis à justice s’agissant de la requête précitée. Il a cependant
+contesté les faits qui lui étaient reprochés et a expliqué qu’il pourrait s’installer
+provisoirement chez un tiers en Suisse, qu’il était prêt à prendre l’engagement
+de ne pas quitter la Suisse et de ne pas prendre contact avec son épouse de quelque manière
+que ce soit, qu’il avait déclaré vouloir divorcer et que le risque de collusion était
+dès lors certainement moindre.
+Par ordonnance du 20 octobre 2020, le Tribunal des mesures de contrainte a ordonné la détention
+provisoire de A.X.________ (I),  a fixé la durée maximale de la détention provisoire
+à 3 mois, soit au plus tard jusqu’au 17 janvier 2021 (II) et a dit que les frais de cette
+ordonnance, par 525 fr., suivaient le sort de la cause (III).
+d)
+Le 21 octobre 2020, le dossier de la cause a été transmis au Ministère public de l’arrondissement
+du Nord vaudois pour la suite de l’instruction.
+e)
+Lors de son audition du 10 décembre 2020, qui s’est déroulée en présence du
+défenseur d’office du prévenu, B.X.________ a confirmé que A.X.________ avait fait
+usage de violences physique, verbale et sexuelle à son encontre à plusieurs reprises durant
+leur relation et a ajouté avoir également été forcée à des actes de sodomie
+(PV aud. de B.X.________ du 10 décembre 2020).
+f)
+Le 28 décembre 2020, la Procureure a adressé aux parties une circulaire pour la mise en œuvre
+d’une expertise psychiatrique de A.X.________.
+B.
+a)
+Le 30 décembre 2020, le Ministère public a requis la prolongation de la détention provisoire
+de A.X.________ pour une durée de trois mois, invoquant les risques de fuite, de réitération
+et de passage à l’acte et précisant que l’instruction contre le prévenu avait
+été étendue au fait d’avoir également contraint son épouse à des
+sodomies.
+b)
+Dans ses déterminations du 5 janvier 2021, A.X.________, par son défenseur d’office,
+a contesté les faits reprochés, a estimé que les risques de fuite, de réitération
+et de passage à l’acte n’étaient pas réalisés, a invoqué le principe
+de proportionnalité et s’est étonné du fait qu’il n’ait toujours pas
+pu s’expliquer sur les accusations formulées contre lui par la plaignante. Il a également
+produit un extrait de son casier judiciaire français, lequel est vierge.
+c)
+Par ordonnance du 7 janvier 2021, le Tribunal des mesures de contrainte a ordonné la prolongation
+de la détention provisoire de A.X.________ (I), a fixé la durée maximale de la prolongation
+à 3 mois, soit au plus tard jusqu’au 17 avril 2021 (II), et a dit que les frais de cette ordonnance,
+par 225 fr., suivaient le sort de la cause (III). Cette autorité a en substance retenu l’existence
+des risques de fuite et de réitération.
+C.
+Par acte du 18 janvier 2021, A.X.________, par
+son défenseur d’office, a recouru contre cette ordonnance en concluant, sous suite de frais
+et de dépens, à sa réforme en ce sens qu’il est immédiatement libéré,
+pour autant qu’il ne soit pas détenu pour une autre cause.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+Interjeté
+dans le délai légal (art. 396 al. 1 CPP [Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0]), contre une décision du Tribunal des mesures de contrainte dans un cas prévu
+par le CPP (art. 222 et 393 al. 1 let. c CPP), par un détenu qui a la qualité pour recourir
+(art. 382 al. 1 CPP) et dans les formes prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+Selon l’art. 221 al. 1 CPP, la détention
+provisoire et la détention pour des motifs de sûreté ne peuvent être ordonnées
+que lorsque le prévenu est fortement soupçonné d’avoir commis un crime ou un délit
+et qu’il y a sérieusement lieu de craindre qu’il se soustraie à la procédure
+pénale ou à la sanction prévisible en prenant la fuite (let. a), qu’il compromette
+la recherche de la vérité en exerçant une influence sur des personnes ou en altérant
+des moyens de preuve (let. b) ou qu’il compromette sérieusement la sécurité d’autrui
+par des crimes ou des délits graves après avoir déjà commis des infractions du même
+genre (let. c). En outre, la détention peut être ordonnée s’il y a sérieusement
+lieu de craindre qu’une personne passe à l’acte après avoir menacé de commettre
+un crime grave (art. 221 al. 2 CPP). La détention provisoire et la détention pour des motifs
+de sûreté ne doivent pas durer plus longtemps que la peine privative de liberté prévisible
+(art. 212 al. 3 CPP).
+3.
+3.1
+Le recourant conteste l’existence de soupçons suffisants. Il relève qu’il n’a
+pas été entendu par la procureure ensuite de l’audition de la plaignante du 10 décembre
+2020. Il soulève également une contradiction entre les déclarations de la plaignante et
+celles d’un témoin (la mère de celle-ci), qui l’aurait entendue lui reprocher «
+de
+ne pas l’avoir baisée pendant 6 mois
+».
+Il soutient enfin que c’est son épouse qui lui aurait demandé de revenir en Suisse.
+3.2
+La mise en détention
+provisoire n'est possible que s'il existe à l'égard de l'auteur présumé, et préalablement
+à toute autre cause, de graves soupçons de culpabilité d'avoir commis un crime ou un délit
+(ATF 139 IV 186 consid. 2 ; Chaix, in : Jeanneret et al. [éd.], Commentaire romand, Code
+de procédure pénale suisse, 2
+e
+éd.,
+Bâle 2019 [ci-après : CR CPP], nn. 4 ss ad art. 221 CPP).
+L'intensité des charges
+propres à motiver un maintien en détention provisoire n'est pas la même aux divers stades
+de l'instruction pénale. Si des soupçons, même encore peu précis, peuvent être
+suffisants dans les premiers temps de l'enquête, la perspective d'une condamnation doit apparaître
+vraisemblable après l'accomplissement des actes d'instruction envisageables (ATF 143 IV 330 consid. 2.1 ;
+ATF 143 IV 316 consid. 3.1 et 3.2 ; TF 1B_7/2020 précité consid. 3.1 ; Chaix,
+in : CR CPP, op. cit., n. 6 ad art. 221 CPP). En d’autres termes, les soupçons
+doivent se renforcer plus l’instruction avance et plus l’issue du jugement au fond approche.
+Si des raisons plausibles de soupçonner une personne d’avoir commis une infraction suffisent
+au début de l’enquête, ces motifs objectifs doivent passer de plausibles à vraisemblables
+(TF 1B_7/2020 précité ; TF 1B_219/2019 du 4 juin 2019 consid. 2.1). A l'instar du juge
+du séquestre, le juge de la détention n'est toutefois pas tenu, à ce stade de la procédure,
+de résoudre des questions juridiques complexes (ATF 141 IV 360 consid. 3.2 ; TF 1B_211/2017
+du 27 juin 2017 consid. 2.1). Les autorités de recours appelées à se prononcer sur
+la légalité d'une décision de maintien en détention provisoire ou pour des motifs
+de sûreté ne doivent pas procéder à une pesée complète des éléments
+à charge et à décharge, ni apprécier la crédibilité des personnes qui mettent
+en cause le prévenu. Bien plutôt, elles doivent uniquement examiner s'il existe des indices
+sérieux de culpabilité justifiant une telle mesure (ATF 137 IV 122 consid. 3.2 ; ATF 124
+I 208 consid. 3 ;
+TF 1B_308/2018
+du 17 juillet 2018 consid. 2.1 ;
+Forster,
+in : Niggli/Heer/Wiprächtiger [éd.], Basler Kommentar, Schweizerische Strafprozessordnung,
+2
+e
+éd., Bâle 2014, n. 3 ad art. 221 CPP).
+3.3
+En l’espèce, bien que A.X.________ conteste catégoriquement les faits qui lui sont reprochés,
+les déclarations de B.X.________ sont détaillées et convaincantes. Elles sont en outre
+corroborées par diverses photographies versées au dossier faisant état de blessures subies
+par la victime, et notamment d’une lésion au pli du coude gauche. Par ailleurs, on rappellera
+qu’entre le mois de juin et le mois d’octobre 2019, la police est intervenue à cinq
+reprises, notamment sur appel de tiers, pour des faits de violences domestiques. Lors de l’intervention
+du 27 octobre 2019, le prévenu avait été expulsé de son logement pour une durée
+de 30 jours.  Le fait que le recourant n’ait pas été entendu ensuite de l’audition
+du 10 décembre 2020 de la victime, à laquelle son défenseur était par ailleurs présent,
+ou qu’il existerait une contradiction entre les déclarations de B.X.________ et celles de
+la mère de celle-ci n’y change rien. En effet, le juge de la détention n’a pas
+à instruire à charge et à décharge, mais uniquement à vérifier que les
+soupçons soient suffisants, ce qui est le cas en l’espèce. Pour le reste, on rappellera
+que le recourant a été entendu le 17 octobre 2020 par la police, le 18 octobre 2020 par le
+procureur, et qu’il n’a pas souhaité d’être entendu par le Tribunal des mesures
+de contrainte.
+Ce premier moyen, mal fondé, doit être rejeté.
+4.
+4.1
+Le recourant conteste l’existence du risque de fuite. Il explique qu’il n’entend pas
+quitter la Suisse et qu’en cas de libération, il se rendrait chez un ami, à Vallorbe.
+4.2
+Selon la jurisprudence, le risque de fuite au sens de l'art. 221 al. 1 let. a CPP
+doit s'analyser en fonction d'un ensemble de critères tels que le caractère de l'intéressé,
+sa moralité, ses ressources, ses liens avec l'Etat qui le poursuit ainsi que ses contacts à
+l'étranger, qui font apparaître le risque de fuite non seulement possible, mais également
+probable. La gravité de l'infraction ne peut pas, à elle seule, justifier la prolongation de
+la détention, même si elle permet souvent de présumer un danger de fuite en raison de
+l'importance de la peine dont le prévenu est menacé (ATF 143 IV 160 consid. 4.3 ; TF 1B_174/2019
+du 3 mai 2019 consid. 3.1).
+4.3
+En l’occurrence, A.X.________ est un ressortissant français sans statut légal en Suisse.
+Il n’a pas de domicile officiel dans ce pays et ne s’est pas annoncé au Contrôle
+des habitants lorsqu’il y est revenu en novembre 2019. Même si dans son recours il explique
+qu’il ne compte pas quitter la Suisse, on rappellera qu’il a déclaré devant le
+procureur qu’il a l’intention de retourner vivre en France, pays dans lequel vit toute sa
+famille, soit ses trois enfants et sa petite-fille. Dans ces conditions, on peut effectivement craindre
+que l’intéressé soit tenté de prendre la fuite pour se rendre en France, pays qui
+n’extrade pas ses ressortissants, ou de disparaître dans la clandestinité et échapper
+aux poursuites pénales dont il fait l’objet.
+Le risque de fuite est ainsi concret.
+5.
+5.1
+Le recourant conteste encore l’existence d’un risque de réitération. Il soutient
+qu’il n’entend pas reprendre la vie commune avec son épouse et qu’il a consenti
+sans difficulté à signer une convention de divorce. Pour le surplus, il se réfère
+à l’extrait du casier judiciaire français – vierge – qu’il a produit
+à l’appui de ses déterminations auprès du Tribunal des mesures de contrainte.
+5.2
+En
+vertu de l'art. 221 al. 1 let. c CPP, la détention provisoire peut être ordonnée lorsqu'il
+y a sérieusement lieu de craindre que le prévenu compromette sérieusement la sécurité
+d'autrui par des crimes ou des délits graves après avoir déjà commis des infractions
+du même genre. Cette disposition pose trois conditions pour admettre un risque de récidive.
+En premier lieu, le prévenu doit en principe déjà avoir commis des infractions du même
+genre et il doit s'agir de crimes ou de délits graves. Deuxièmement, la sécurité
+d'autrui doit être sérieusement compromise. Troisièmement, une réitération doit,
+sur la base d'un pronostic, être sérieusement à craindre (ATF 143 IV 9 consid. 2.5 ;
+TF 1B_219/2019 du 4 juin 2019 consid. 3.1).
+Bien qu'une application
+littérale de l'art. 221 al. 1 let. c CPP suppose l'existence d'antécédents, le risque
+de réitération peut être également admis dans des cas particuliers alors qu'il n'existe
+qu'un antécédent, voire aucun dans les cas les plus graves. La prévention du risque de
+récidive doit en effet permettre de faire prévaloir l'intérêt à la sécurité
+publique sur la liberté personnelle du prévenu (ATF 137 IV 13 consid. 3-4). Le risque
+de récidive peut également se fonder sur les infractions faisant l'objet de la procédure
+pénale en cours, si le prévenu est fortement soupçonné – avec une probabilité
+confinant à la certitude – de les avoir commises (ATF 143 IV 9 précité consid. 2.3.1 ;
+TF 1B_3/2019 du 17 janvier 2019 consid. 3.1).
+La gravité
+de l'infraction dépend, outre de la peine menace prévue par la loi, de la nature du bien juridique
+menacé et du contexte, notamment la dangerosité présentée concrètement par le
+prévenu, respectivement son potentiel de violence. La mise en danger sérieuse de la sécurité
+d'autrui par des crimes ou des délits graves peut en principe concerner tous types de biens juridiquement
+protégés, même si ce sont en premier lieu les délits contre l'intégrité
+corporelle et sexuelle qui sont visés (ATF 143 IV 9 précité consid. 2.7 ; TF 1B_3/2019
+précité).
+Pour établir le pronostic de récidive, les critères déterminants sont la fréquence
+et l'intensité des infractions poursuivies. Cette évaluation doit prendre en compte une éventuelle
+tendance à l'aggravation telle qu'une intensification de l'activité délictuelle, une escalade
+de la violence ou une augmentation de la fréquence des agissements. Les caractéristiques personnelles
+du prévenu doivent en outre être évaluées (ATF 143 IV 9 précité consid.
+3.2 ; ATF 137 IV 84 consid. 3.2 ; TF 1B_455/2016 du 9 décembre 2016 consid. 3.1).
+Lorsqu'on dispose d'une expertise psychiatrique ou d'un pré-rapport – moyens d'instruction
+dont la mise en œuvre n'est pas forcément nécessaire dans tous les cas où le risque
+de récidive est examiné –, il y a lieu d'en tenir compte (ATF 143 IV 9 précité
+consid. 2.8).
+En général,
+la mise en danger de la sécurité d'autrui est d'autant plus grande que les actes redoutés
+sont graves. En revanche, le rapport entre gravité et exigences pour admettre le risque de récidive
+est inversement proportionnel. Cela signifie que plus l'infraction et la mise en danger sont graves,
+moins les exigences seront élevées quant au risque de réitération. Lorsque la gravité
+des faits et leurs incidences sur la sécurité sont particulièrement élevées,
+on peut ainsi admettre un risque de réitération à un niveau inférieur. Il demeure
+qu'en principe le risque de récidive ne doit être admis qu'avec retenue comme motif de détention.
+Dès lors, un pronostic défavorable est nécessaire (et en principe également suffisant)
+pour admettre l'existence d'un tel risque (ATF 143 IV 9 précité consid. 2.9 ; TF 1B_3/2019
+précité).
+5.3
+En l’espèce, il faut relever que la police est intervenue à pas moins de cinq reprises
+au domicile conjugal de A.X.________ et de B.X.________, et que l’expulsion du logement conjugal
+pour une durée de 30 jours prononcée
+le 27 octobre 2019 n’a pas dissuadé l’intéressé de s’en prendre à
+nouveau régulièrement à son épouse après son retour en Suisse. En outre, le
+fait que le prévenu se serait cette fois-ci muni d’un couteau afin de blesser la victime est
+inquiétant et démontre une certaine gradation dans les violences perpétrées. Enfin,
+le prévenu semble minimiser les actes qu’il a commis, puisque confronté aux journaux
+d’engagement de la police relatant des faits de violences à l’encontre de son épouse,
+il a simplement déclaré «
+oui,
+nous avons eu des problèmes
+» (PV aud.
+d’arrestation du 18 octobre .2020, l. 70). A cela s’ajoute qu’une expertise psychiatrique
+est en cours afin d’évaluer la dangerosité de A.X.________ et de déterminer les
+éventuelles mesures à prendre pour éviter toute récidive.
+Au vu de ce qui précède, c’est à bon droit que le Tribunal des mesures de contrainte
+a retenu l’existence d’un risque de réitération.
+6.
+Les motifs fondant la détention provisoire
+étant alternatifs (TF 1B_249/2011 du 7 juin 2011 consid. 2.4), l’existence des risques
+de fuite et de réitération dis­pen­se d’examiner si la détention provisoire
+se justifie également en raison du risque de collusion.
+7.
+7.1
+Le recourant se plaint d’une violation du
+principe de la proportionnalité parce que la procureure ne lui aurait pas donné l’occasion
+de s’expliquer sur les accusations portées par la plaignante lors de son audition du 10 décembre
+2020.
+7.2
+Le principe de proportionnalité
+impose d'examiner les possibilités de mettre en œuvre d'autres solutions moins dommageables
+que la détention (règle de la nécessité ; cf. art. 36 Cst. et 212 al. 2 let.
+c CPP). Cette exigence est concrétisée par l'art. 237 al. 1 CPP, qui prévoit que le tribunal
+compétent ordonne une ou plusieurs mesures moins sévères en lieu et place de la détention
+si ces mesures permettent d'atteindre le même but que la détention (TF 1B_326/2020 du 9 juillet
+2020 consid. 2.4.1).
+En tout état de cause,
+la détention avant jugement ne doit pas durer plus longtemps que la peine privative de liberté
+prévisible (art. 212 al. 3 CPP ; TF 1B_61/2020 du 24 février 2020 consid. 2). Le juge
+peut dès lors maintenir la détention provisoire ou pour des motifs de sûreté aussi
+longtemps qu'elle n'est pas très proche de la durée de la peine privative de liberté à
+laquelle il faut s'attendre concrètement en cas de condamnation (TF 1B_23/2019 du 28 janvier 2019
+consid. 2.1).
+7.3
+En
+l’occurrence, on ne voit pas en quoi le fait que la procureure n’ait pas encore entendu le
+recourant sur les déclarations de B.X.________ du 10 décembre 2020 heurterait le principe de
+la proportionnalité. Au demeurant, on rappellera que le défenseur de l’intéressé
+a participé à cette audition. Quoi qu’il en soit, au regard des charges qui pèsent
+sur A.X.________, sa détention, qui a débuté le 17 octobre 2020, paraît pour l’heure
+proportionnée à la peine susceptible d’être prononcée en cas de condamnation
+et aux mesures d’instruction annoncées, soit notamment la mise en œuvre d’une expertise
+psychiatrique.
+8.
+Aucune
+mesure moins incisive n’apparaît susceptible de prévenir les risques encourus. Du reste,
+le recourant n’en propose lui-même aucune.
+9.
+Il
+résulte de ce qui précède que le recours, manifestement mal fondé, doit être
+rejeté sans échange d’écritures (art. 390 al. 2 CPP) et l’ordonnance entreprise
+confirmée.
+Les frais de la
+procédure de recours, constitués en l'espèce de l'émolument d'arrêt (art. 422
+al. 1 CPP), par 1’100 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités
+en matière pénale du 28 septembre 2010; BLV 312.03.1]), et des frais imputables à
+la défense d'office (art. 422 al. 1 et 2 let. a CPP), fixés à 395 fr. 45, montant
+arrondi à 396 fr., qui comprennent des honoraires par 360 fr. (2 heures au tarif horaire de 180
+fr.), des débours forfaitaires à concurrence de 2 %, par 7 fr. 20 (art. 3
+bis
+al. 1 RAJ [Règlement du 7 décembre 2010 sur l'assistance judiciaire en matière
+civile; BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), ainsi que la TVA sur le tout,
+par 28 fr. 30, seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 7 janvier 2021 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de A.X.________ est fixée à 396 fr. (trois cent nonante-six francs).
+IV.
+Les
+frais
+d’arrêt, par 1’210 fr. (mille deux cent dix francs), ainsi que l’indemnité
+due au défenseur d’office de A.X.________, par 396 fr. (trois cent nonante-six francs), sont
+mis à la charge de ce dernier.
+V.
+Le remboursement à l'Etat de l'indemnité allouée au chiffre III ci-dessus ne sera exigible
+que pour autant que la situation financière de A.X.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Laurent Gilliard, avocat (pour A.X.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+Mme la Présidente du Tribunal des mesures de contrainte,
+-
+Mme la Procureure de l’arrondissement du Nord vaudois,
+-
+Me Marina Kilchenmann, avocate (pour B.X.________),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
