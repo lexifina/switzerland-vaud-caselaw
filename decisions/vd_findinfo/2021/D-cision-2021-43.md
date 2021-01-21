@@ -1,0 +1,340 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___43"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 43"
+decided: "2021-01-21"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8084914"
+cites_law: ["switzerland/bund/acts/101/art-029.md", "switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-005.md", "switzerland/bund/acts/312.0/art-147.md", "switzerland/bund/acts/312.0/art-300.md", "switzerland/bund/acts/312.0/art-306.md", "switzerland/bund/acts/312.0/art-307.md", "switzerland/bund/acts/312.0/art-309.md", "switzerland/bund/acts/312.0/art-310.md", "switzerland/bund/acts/312.0/art-312.md", "switzerland/bund/acts/312.0/art-318.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-385.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-422.md", "switzerland/bund/acts/312.0/art-428.md"]
+---
+
+# VD Findinfo Décision / 2021 / 43
+
+## Regeste
+
+REFUS DE STATUER, REJET DE LA DEMANDE, ENQUÊTE{EN GÉNÉRAL} | 309 CPP (CH), 5 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 21.01.2021 Décision / 2021 / 43
+
+REFUS DE STATUER, REJET DE LA DEMANDE, ENQUÊTE{EN GÉNÉRAL} | 309 CPP (CH), 5 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+19
+PE20.021754-JRU
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+21 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+Mme
+Byrde et M. de Montvallon, juges
+Greffière
+:              Mme
+Maire Kalubi
+*****
+Art.
+5, 309 CPP
+Statuant sur le recours interjeté le 7 décembre 2020 par
+F.________
+pour déni de justice dans la cause
+n° PE20.021754-JRU
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+Le 19 septembre 2020, F.________ a déposé plainte pénale « contre inconnus »
+pour lésions corporelles graves, subsidiairement simples, le cas échéant par négligence,
+ainsi que pour toute autre infraction que l’instruction pourrait faire apparaître, à
+la suite d’un accident de la circulation survenu le 23 juin 2020 à [...], lors duquel
+il aurait été renversé par une voiture alors qu’il circulait à vélo. Dans
+sa plainte, F.________ a également fait valoir qu’il aurait ensuite été victime
+d’une erreur médicale lors de sa prise en charge aux urgences de l’hôpital de [...],
+dont il résulterait une aggravation des lésions subies. Bien qu’il ait indiqué que
+son acte était dirigé « contre inconnus », F.________ a précisément désigné,
+dans sa plainte, l’identité des personnes prétendument responsables des infractions qu’il
+dénonçait, à savoir celle de l’automobiliste qui l’aurait renversé, ainsi
+que celles du médecin assistant qui l’aurait pris en charge à l’hôpital et
+de son superviseur, en indiquant leur nom et même l’adresse pour le premier.
+B.
+a)
+Par courrier du 23 septembre 2020, le Ministère public de l’arrondissement de La Côte
+a accusé réception de la plainte déposée par F.________, enregistrée sous la
+référence PX20.[...], et a indiqué qu’en l’absence de soupçons suffisants
+pour justifier l’ouverture d’une instruction pénale contre un prévenu déterminé,
+celle-ci était transmise à la police cantonale pour investigations, précisant qu’à
+défaut d’indices permettant d’identifier un auteur, le dossier de l’affaire serait
+conservé par la police cantonale sans qu’un avis ne soit adressé au plaignant, les investigations
+pouvant le cas échéant être reprises en cas d’éléments nouveaux.
+b)
+Le 28 septembre 2020, afin de pouvoir préserver et faire valoir ses droits dans le cadre de cette
+procédure, F.________ s’est opposé à cette mesure et a sollicité du Ministère
+public qu’il lui notifie qu’il demeurait saisi, que mandat était donné à la
+police cantonale selon l’art. 312 CPP (Code de procédure pénale suisse du 5 octobre
+2007 ; RS 312.0), et non selon les art. 306 et 307 CPP, et qu’une décision formelle serait
+rendue concernant sa plainte le moment venu.
+c)
+Par courrier du 30 septembre 2020, F.________ a indiqué avoir, suite à un entretien téléphonique
+avec le greffe du Ministère public en date du 29 septembre 2020, pris note du fait que le Ministère
+public avait décidé d’ouvrir une instruction au sens de l’art. 309 al. 1 CPP, que
+mandat avait été donné à la police d’investiguer au sens de l’art. 312
+CPP et que le Parquet demeurait saisi. Il a également indiqué avoir pris note qu’une
+décision formelle serait rendue sur sa plainte le moment venu.
+d)
+Par courrier du 30 novembre 2020, ensuite d’un entretien téléphonique du 26 novembre
+2020 avec le greffe du Ministère public, F.________ a constaté qu’aucune instruction
+n’avait été ouverte par le Ministère public à la suite de sa plainte du 19
+septembre 2020, malgré les informations qui lui avaient été transmises en ce sens le 29
+septembre 2020 et quand bien même le Ministère public disposait des éléments de fait
+permettant d’identifier de potentielles infractions ainsi que de l’identité de prévenus
+potentiels, et a requis l’ouverture d’une instruction.
+C.
+Par acte du 7 décembre 2020, F.________ a
+déposé un recours auprès de la Chambre de céans notamment pour déni de justice
+en concluant principalement, sous suite de frais et dépens, à ce que l’ouverture immédiate
+d’une instruction pénale soit ordonnée et à ce que toute décision du Ministère
+public refusant l’ouverture immédiate d’une instruction pénale soit, le cas échéant,
+annulée. A titre subsidiaire, il a conclu à l’annulation de toute décision du Ministère
+public refusant l’ouverture immédiate d’une instruction pénale et au renvoi de
+la cause à cette autorité pour qu’elle ouvre immédiatement une instruction au sens
+de l’art. 309 al. 1 let. a CPP. Plus subsidiairement, F.________ a conclu à l’annulation
+de la décision du Ministère public du 26 novembre 2020, la cause étant renvoyée
+à cette autorité pour qu’elle rende immédiatement une décision au sens de l’art. 309
+al. 1 let. a ou al. 4 CPP, subsidiairement pour nouvelle décision dans le sens des considérants.
+Le 4 janvier 2021, dans le délai imparti en application de l’art. 390 al. 2 CPP,
+le Ministère public s’est déterminé et a en substance conclu au rejet du recours.
+En droit
+:
+1.
+Aux termes de l’art. 393 CPP, le recours
+est recevable notamment contre les décisions et les actes de procédure du Ministère public
+(art. 1 let. a), pour des motifs incluant en particulier la violation du droit, y compris le déni
+de justice et le retard injustifié (al. 2). Selon l’art. 396 al. 2 CPP, le recours pour déni
+de justice ou retard injustifié n’est soumis à aucun délai. Il doit être motivé
+et adressé par écrit (art. 396 al. 1 CPP) à l’autorité de recours
+qui est, dans le canton de Vaud, la Chambre des recours pénale du Tribunal cantonal (art. 13 LVCPP
+[Loi vaudoise d’introduction du Code de procédure pénale suisse du 19 mai 2009 ;
+BLV 312.01] ; art. 80 LOJV [Loi vaudoise d'organisation judiciaire du 12 septembre 1979 ; BLV 173.01]).
+En l’espèce, interjeté auprès de l’autorité compétente par la partie
+plaignante qui a qualité pour recourir (art. 382 al. 1 CPP), et satisfaisant
+aux conditions de forme prescrites (art. 385 al. 1 CPP), le recours est recevable.
+2.
+2.1
+Le recourant fait grief au Ministère public de ne pas avoir formellement ouvert une instruction
+pénale ensuite du dépôt de sa plainte, se contentant de transmettre celle-ci à la
+police cantonale pour investigations. Il reproche au Ministère public un déni de justice, étant
+donné l’absence de décision relative à l’ouverture d’une instruction
+pénale. Le recourant invoque également une violation de son droit d’être entendu
+dès lors qu’il aurait été privé de la possibilité de participer à
+la procédure pénale, le Ministère public s’étant, selon lui, dessaisi à
+tort de sa plainte auprès de la police cantonale. Il fait enfin valoir que l’éventualité
+mentionnée par le Parquet quant au fait que sa plainte soit conservée par la police cantonale
+si aucun auteur ne devait être identifié, ce sans qu’aucun avis quelconque ne lui soit
+communiqué, correspondrait en substance à rendre une ordonnance de non-entrée en matière.
+2.2
+2.2.1
+Selon l'art. 29 al. 1 Cst. (Constitution fédérale de la Confédération suisse du 18
+avril 1999 ; RS 101), toute personne a droit, dans une procédure judiciaire ou administrative,
+à ce que sa cause soit traitée équitablement et jugée dans un délai raisonnable.
+A l'instar de l'art. 6 § 1 CEDH (Convention de sauvegarde des droits de l'homme et des libertés
+fondamentales du 4 novembre 1950 ; RS 0.101), qui n'offre pas à cet égard une protection
+plus étendue, cette disposition consacre le principe de la célérité, en ce sens qu'elle
+prohibe le retard injustifié à statuer ; l'autorité viole cette garantie constitutionnelle
+lorsqu'elle ne rend pas une décision qu'il lui incombe de prendre dans le délai prescrit par
+la loi ou dans le délai que la nature de l'affaire et les circonstances font apparaître comme
+raisonnable (ATF 143 IV 373 consid. 1.3.1 ; TF 6B_417/2019 du 13 septembre 2019 consid. 4.1 et les
+arrêts cités).
+L’art. 5 al. 1 CPP impose en particulier aux autorités pénales d’engager les procédures
+pénales sans délai et de les mener à terme sans retard injustifié. Pour déterminer
+la durée du délai raisonnable, il faut se fonder sur des éléments objectifs. Doivent
+notamment être pris en compte le degré de complexité de l'affaire, l'enjeu que revêt
+le litige pour l'intéressé ainsi que le comportement de ce dernier et des autorités compétentes.
+L'attitude de l'intéressé s'apprécie avec moins de rigueur en procédure pénale
+et administrative qu'en procédure civile. Celui-ci doit néanmoins entreprendre ce qui est en
+son pouvoir pour que l'autorité fasse diligence, notamment en incitant celle-ci à accélérer
+la procédure ou en recourant pour retard injustifié. Par ailleurs, on ne saurait reprocher
+à l'autorité quelques temps morts, qui sont inévitables dans une procédure. Lorsqu'aucun
+d'eux n'est d'une durée vraiment choquante, c'est l'appréciation d'ensemble qui prévaut.
+Des périodes d'activité intense peuvent donc compenser le fait que le dossier a été
+laissé momentanément de côté en raison d'autres affaires. Le principe de la célérité
+peut être violé même si les autorités pénales n'ont commis aucune faute. Celles-ci
+ne sauraient donc exciper des insuffisances de leur organisation (ATF 130 I 312 consid. 5.2 ; TF
+6B_417/2019 précité). La surcharge des autorités de poursuite pénale ne saurait justifier
+que l’instruction d’une procédure éprouve trop de retard ou qu’il ne soit
+pas statué sur une requête d’une partie (ATF 130 I 312 précité ; CREP 15 octobre
+2020/729 consid. 2.2.1 ; CREP 11 juin 2020/444 consid. 2.2).
+Il y a déni de justice lorsqu’une autorité se refuse à statuer bien qu’elle
+y soit obligée (ATF 124 V 130 consid. 4 ; TF 6B_34/2009 du 20 avril 2009 consid. 3.4)
+ou lorsqu’une autorité n’entre pas en matière dans une cause qui lui est soumise
+dans les formes et délai prescrits, alors qu’elle devrait s’en saisir (ATF 142 II
+54 consid. 4.1 ; TF 1B_490/2020 du 9 décembre 2020 consid. 2.1), mais le défaut
+de réponse du magistrat à une requête ne fonde pas automatiquement le grief de déni
+de justice (JdT 2012 III 27 et la référence citée).
+2.2.2
+Aux termes de l'art. 309 CPP, le Ministère public ouvre une instruction, notamment, lorsqu'il ressort
+du rapport de police, des dénonciations ou de ses propres constatations des soupçons suffisants
+laissant présumer qu'une infraction a été commise (al. 1 let. a). Il peut renvoyer à
+la police, pour complément d'enquête, les rapports et les dénonciations qui n'établissent
+pas clairement les soupçons retenus (al. 2). Il renonce à ouvrir une instruction lorsqu'il
+rend immédiatement une ordonnance de non-entrée en matière ou une ordonnance pénale
+(al. 4). Conformément à l'art. 310 al. 1 let. a CPP, le Ministère public rend immédiatement
+une ordonnance de non-entrée en matière s'il ressort de la dénonciation ou du rapport
+de police que les éléments constitutifs de l'infraction ou les conditions à l'ouverture
+de l'action pénale ne sont manifestement pas réunis.
+La phase qui précède l'ouverture d'une instruction au sens de l'art. 309 CPP constitue
+les investigations policières au sens des art. 306 et 307 CPP (art. 300 al. 1 let. a CPP). Durant
+cette phase, le Ministère public peut donner des directives à la police ou lui confier des
+mandats (art. 306 al. 1 CPP et 307 al. 2 CPP ; TF 6B_290/2020 du 17 juillet 2020 consid. 2.2 ;
+TF 6B_875/2018 du 15 novembre 2018 consid. 2.2 et la référence citée). Les informations
+recueillies lors de ces investigations permettent au Ministère public de prendre les décisions
+qui s'imposent en fonction des faits dénoncés. La phase des investigations policières
+prend fin par l'ouverture d'une instruction (art. 309 al. 1 CPP), ou par une ordonnance de non-entrée
+en matière ou une ordonnance pénale comme énoncé par l'art. 309 al. 4
+1
+re
+et 2
+e
+hypothèses CPP (TF 6B_290/2020 précité ; TF 6B_940/2016 du 6 juillet 2017 consid.
+3.3.2 et les références citées). En revanche, le Ministère public ne peut pas rendre
+une ordonnance de non-entrée en matière après avoir ouvert une instruction au sens de
+l'art. 309 CPP (TF 6B_290/2020 précité ; TF 6B_1365/2017 du 27 juin 2018 consid.
+3.3).
+Selon la jurisprudence, le Ministère public peut procéder à certaines vérifications
+avant de refuser d'entrer en matière. Il peut demander des compléments d'enquête à
+la police, non seulement lorsqu'il s'agit de compléter un précédent rapport au sens de
+l'art. 307 CPP, mais aussi lorsque la dénonciation elle-même apparaît insuffisante (art.
+309 al. 2 CPP). Il ressort également de l'art. 309 al. 1 let. a CPP
+que le Ministère public peut procéder à ses propres constatations. Cela comprend le droit
+de consulter les fichiers, dossiers et renseignements disponibles. Il en va de même lorsque le Ministère
+public demande à la personne mise en cause une simple prise de position (TF 6B_290/2020 précité
+et les références citées ; TF 6B_810/2019 du 22 juillet 2019 consid. 2.1 ; TF 6B_239/2019
+du 24 avril 2019 consid. 2.1).
+Avant l'ouverture d'une instruction, le droit de participer à l'administration des preuves ne s'applique
+en principe pas (art. 147 al. 1 CPP
+a
+contrario
+; ATF 143 IV 397 consid. 3.3.2
+in fine
+; ATF 140 IV 172 consid. 1.2.2), et ce y compris en cas d'investigations policières diligentées
+à titre de complément d'enquête requis par le Ministère public en vertu de l'art.
+309 al. 2 CPP (TF 6B_290/2020 précité ; TF 6B_1385/2019 du 27 février 2020
+consid. 1.1 et la référence citée ; TF 6B_673/2019 du 31 octobre 2019 consid.
+2.1 et les références citées). En outre, avant de rendre une ordonnance de non-entrée
+en matière, le Ministère public n'a pas à informer les parties ni n'a l'obligation de
+leur fixer un délai pour présenter d'éventuelles réquisitions de preuve, l'art. 318
+CPP n'étant pas applicable dans ce cas. Le droit d'être entendu des parties est en effet assuré,
+le cas échéant, dans le cadre de la procédure de recours contre l'ordonnance de non-entrée
+en matière (cf. art. 310 al. 2, 322 al. 2 et 393 ss CPP). Cette procédure permet aux parties
+de faire valoir tous leurs griefs – formels et matériels – auprès d'une autorité
+disposant d'une pleine cognition en fait et en droit (cf. art. 391 al. 1 et 393 al. 2 CPP ; TF 6B_290/2020
+précité et les références citées ; TF 6B_673/2019 précité consid.
+2.2 ; TF 6B_810/2019 du 22 juillet 2019 consid. 2.1).
+L'instruction pénale est considérée comme ouverte dès que le Ministère public
+commence à s'occuper de l'affaire. Cela est en tout état le cas lorsque le Ministère public
+ordonne des mesures de contrainte. Dès lors qu'un mandat de comparution est une mesure de contrainte,
+celui-ci suffit en règle générale à l'ouverture de l'instruction lorsque le Ministère
+public effectue lui-même les premières mesures d'instruction, en particulier entend le prévenu
+(ATF 141 IV 20 consid. 1.1.4 ; TF 6B_290/2020 précité).
+2.3
+Dans ses déterminations, le Ministère
+public a expliqué avoir transmis, peu après sa réception, la plainte déposée
+contre inconnu à la police en lui demandant d’identifier les auteurs des faits dénoncés
+sur la base de la plainte et des documents annexés. Dans la mesure où le plaignant entendait
+poursuivre à la fois l’auteur de l’accident dont il avait été victime et les
+médecins de l’hôpital de [...] pour la mauvaise prise en charge dont il se prévalait,
+le procureur a précisé avoir décidé d’établir dans un premier temps les
+circonstances de l’accident puis, une fois le rapport de police établi, de reconsidérer
+s’il y avait lieu de transmettre la plainte à la division des affaires spéciales du Ministère
+public central, compétente en matière d’erreurs médicales. Le procureur a indiqué
+que quelques jours après avoir reçu un courriel du 1
+er
+octobre 2020 de la police cantonale lui faisant savoir que, dans la mesure où les parties avaient
+décidé d’établir un constat à l’amiable s’agissant de l’accident
+de la circulation, elle n’entrait pas en matière pour établir un rapport d’accident,
+il avait pris contact avec la police pour lui signaler qu’elle devait procéder à tout
+le moins aux auditions des parties pour déterminer les circonstances de l’accident, étant
+précisé qu’il serait donné suite au volet « prise en charge médicale »
+une fois le rapport de police établissant les responsabilités de l’accident initial reçu.
+Suite au courrier du recourant du 30 novembre 2020, après avoir constaté une carence au
+niveau des investigations policières, le procureur a expliqué avoir décidé d’ouvrir
+formellement une procédure pénale préliminaire afin qu’il puisse instruire la cause
+en donnant au besoin mandat à la police de procéder à des investigations complémentaires.
+Ainsi, le Ministère public a considéré que si l’on pouvait certes reprocher un certain
+cafouillage dans la prise en charge et le suivi de la plainte déposée par le recourant, on
+ne saurait considérer qu’il s’agirait d’un cas de déni de justice ou d’un
+retard injustifié au sens de l’art. 393 CPP.
+En l’espèce, il ne ressort pas du procès-verbal des opérations que le Ministère
+public aurait formellement ouvert une procédure pénale préliminaire. Quoi qu’il
+en soit, contrairement à ce que soutient le recourant, l’état d’avancement de la
+procédure et les opérations effectuées par le Ministère public ne signifient pas
+que cette autorité n’entend pas entrer en matière sur sa plainte. En effet, force est
+de constater que celle-ci a été déposée récemment et que le Ministère public
+en a accusé réception dans son courrier du 23 septembre 2020. Certes, l’hypothèse
+formulée dans cette lettre-type concerne le cas où aucun auteur ne devait être identifié
+et n’est manifestement pas adaptée à la situation du recourant. Celui-ci ne subit cependant
+aucun préjudice quelconque en l’état sous l’angle d’un déni de justice.
+Au vu de la jurisprudence susmentionnée, le Ministère public est en effet en droit de transmettre
+la plainte pour investigations à la police cantonale et d’attendre le résultat de cette
+démarche avant de décider d’ouvrir une enquête, de rendre une ordonnance de non-entrée
+en matière ou une ordonnance pénale (art. 309 al. 1 et 4 CPP). Le Ministère public
+peut également demander préalablement un complément d’enquête (art. 309 al.
+2 CPP). A ce stade de la procédure, la plainte ayant à tout le moins été enregistrée,
+le recourant ne dispose donc pas d’un droit à participer à l’administration des
+preuves avant l’ouverture formelle de l’instruction. Au surplus, les déterminations
+du procureur dans son courrier du 4 janvier 2021 montrent que le Ministère public n’est pas
+resté inactif et qu’il entend bien mener une enquête complète sur les faits dénoncés.
+Au vu de ce qui précède, aucun déni de justice ou retard injustifié ne saurait donc,
+à ce stade, être reproché au Ministère public. Cela étant, une fois le rapport
+d’investigation déposé, respectivement après le dépôt d’un éventuel
+rapport complémentaire, le Ministère public sera tenu de statuer conformément à l’art. 309 CPP,
+avec indication formelle au procès-verbal des opérations, étant précisé que
+le recourant conserve la possibilité de relancer le Ministère public à ce sujet pour vérifier
+que l’enquête policière ne subit pas de retard injustifié.
+3.
+En définitive, le recours doit être rejeté sans autre échange d’écritures.
+Vu l’issue du recours, les frais de la procédure, constitués en l’espèce du
+seul émolument d'arrêt (art. 422 al. 1 CPP), par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais
+de procédure et indemnités en matière pénale du 28 septembre 2010 ; BLV 312.03.1]),
+seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I
+.
+Le recours est rejeté.
+II.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), sont mis à la charge de F.________.
+III.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Mes Guillaume Vionnet et Camille Fenter, avocats (pour F.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Procureur de l’arrondissement de La Côte,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (Loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+La greffière :
