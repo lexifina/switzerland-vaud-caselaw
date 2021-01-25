@@ -1,0 +1,359 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___99"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 99"
+decided: "2021-01-25"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8122957"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/311.0/art-086.md", "switzerland/bund/acts/312.0/art-135.md", "switzerland/bund/acts/312.0/art-382.md", "switzerland/bund/acts/312.0/art-384.md", "switzerland/bund/acts/312.0/art-390.md", "switzerland/bund/acts/312.0/art-393.md", "switzerland/bund/acts/312.0/art-396.md", "switzerland/bund/acts/312.0/art-428.md", "switzerland/bund/acts/818.101/art-026.md", "switzerland/bund/acts/818.101/art-038.md"]
+---
+
+# VD Findinfo Décision / 2021 / 99
+
+## Regeste
+
+LIBÉRATION CONDITIONNELLE, PRONOSTIC | 86 al. 1 CP, 86 al. 2 CP, 26 LEP
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 25.01.2021 Décision / 2021 / 99
+
+LIBÉRATION CONDITIONNELLE, PRONOSTIC | 86 al. 1 CP, 86 al. 2 CP, 26 LEP
+
+TRIBUNAL
+CANTONAL
+66
+AP20.018852-DBT
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+25 janvier 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+MM.
+Krieger et Meylan, juges
+Greffière
+:              Mme
+Choukroun
+*****
+Art.
+86 al. 1 et 2 CP, 26 LEP
+Statuant sur le recours interjeté le 15 janvier 2021 par
+B.________
+contre l’ordonnance rendue le 5 janvier 2021 par le Juge d’application des peines dans la
+cause
+n° AP20.018852
+,
+la Chambre des recours pénale considère :
+En fait :
+A.
+a)
+B.________, né le [...] 1974 à [...], ressortissant d’Algérie, purge actuellement
+les peines privatives de liberté suivantes (P. 3/13) :
+-
+28 mois, avec expulsion judiciaire du territoire suisse pour une durée de 5 ans, auxquels s'ajoutent
+4 jours (conversion d'une amende), sous déduction de 454 jours de détention avant jugement
+et de 8 jours à titre de réparation du tort moral, prononcés le 13 juillet 2020 par le
+Tribunal correctionnel de l'arrondissement de Lausanne pour vol par métier et en bande, utilisation
+frauduleuse d'un ordinateur, infraction à la Loi fédérale sur les étrangers et l'intégration
+et contravention à la Loi fédérale sur les stupéfiants ;
+-
+100 jours, prononcés le 24 mai 2018 par le Ministère public de l'arrondissement de Lausanne
+pour infraction à la Loi fédérale sur les étrangers ;
+-
+1 jour (conversion d'une amende), prononcé par la Préfecture de Lausanne pour contravention
+à la Loi sur le transport des voyageurs ;
+-
+5 jours, prononcés le 14 mai 2019 par le Ministère public du canton de Fribourg pour infraction
+à la Loi fédérale sur les étrangers et l'intégration ;
+-
+4 jours (conversion d'une amende), prononcés le 12 décembre 2017 par le Ministère public
+régional de Bern-Mittelland ;
+-
+1 jour (conversion d'une amende), prononcé le 30 octobre 2017 par le Ministère public régional
+de Bern-Mittelland.
+b)
+L'extrait du casier judiciaire suisse de B.________ (au 16 novembre 2020) fait état de 12 autres
+condamnations en sus de celles qu’il exécute actuellement, prononcées entre 2006 et 2017,
+pour des infractions contre le patrimoine et la Loi fédérale sur les étrangers notamment.
+c)
+B.________ exécute ses peines depuis le 13 juillet 2020, tout d’abord à la Prison du
+Bois-Mermet, puis dès le 22 septembre 2020 à l’Etablissement pénitentiaire de Pöschwies.
+Il est éligible à la libération conditionnelle depuis le 12 janvier 2021, sous l’angle
+de la première des conditions cumulatives de l’art. 86 al. 1 CP.
+d)
+Le comportement de B.________ en détention à la Prison du Bois-Mermet n’a pas toujours
+été exemplaire, celui-ci peinant à respecter le règlement ainsi que le cadre fixé
+par l'établissement. Il a également eu des difficultés à cohabiter avec ses codétenus,
+la gestion de ses émotions et de ses frustrations semblant compliquée. B.________ a fait l'objet
+d'un avertissement en date du 11
+septembre
+2020, pour avoir fumé dans les parties sanitaires de la buanderie. Dans son rapport, la direction
+de la prison a toutefois préavisé en faveur de la libération conditionnelle, compte tenu
+de l’amélioration du comportement de B.________ dès le mois de mai 2020 et du fait qu’il
+avait obtenu un laissez-passer des autorités algériennes en vue de son renvoi dans ce pays,
+étant précisé qu’à sa libération, il était attendu de lui qu’il
+collabore et monte dans l’avion à destination de l’Algérie (P. 3/15).
+La direction de la Prison de Pöschwies a, quant à elle, fait état d'un comportement en
+détention irréprochable et a préavisé favorablement à la libération conditionnelle
+de B.________ (P. 3/16).
+e)
+Par courriel du 7 septembre 2020 (P. 3/8), le Service de la population (ci-après : SPOP) a
+indiqué que B.________ séjournait illégalement en Suisse et faisait l’objet d’une
+expulsion judiciaire pour une durée de 5 ans. Il avait été reconnu par les autorités
+algériennes et un laissez-passer pourrait être obtenu dès la date du vol fixée, étant
+précisé que les vols à destination d’Alger étaient très limités et
+compliqués à réserver et qu’aucun vol spécial n’était envisageable.
+B.
+a)
+L’Office d’exécution des peines
+(ci-après : l’OEP) a saisi le Juge d'application des peines d'une proposition tendant
+à refuser la libération conditionnelle à B.________. Il a évoqué les antécédents
+judiciaires de l’intéressé, son comportement en détention, certes adéquat mais
+pas exemplaire, et ses projets futurs qui semblaient consister, comme par le passé, à se rendre
+en France, pays pour lequel il n’avait pas démontré posséder d’autorisation
+de séjour. A ces éléments s’ajoutait la mesure d’expulsion de Suisse dont
+il faisait l’objet pour cinq ans, sa faible capacité d’introspection, ses intentions
+d’amendement qui semblaient tactiques voire factices, et ses projets de vie non conformes à
+sa situation administrative (P. 3).
+b)
+Par courrier du 3 novembre 2020 (P. 5), B.________ a indiqué qu’il désirait être
+défendu par Me Olivier Buttet dans le cadre de la présente procédure, qu’il voulait
+reprendre sa vie en main, quitter la Suisse dans les vingt-quatre heures en direction de Marseille en
+France. Il a en outre affirmé accepter de retourner en Algérie pour obtenir la libération
+conditionnelle s’il n’avait pas d’autre solution.
+c)
+Lors de son audition du 1
+er
+décembre 2020, B.________, assisté de son défenseur d’office, a expliqué qu’il
+regrettait ses comportements délictueux, qu’il souhaitait avoir une vie « comme
+tout le monde », qu’il acceptait de quitter la Suisse mais refusait de retourner en Algérie.
+Il a encore indiqué avoir l’intention d’aller vivre à Marseille auprès de
+sa sœur et de son beau-frère. Il a précisé qu’un dossier était « ouvert
+auprès de la Préfecture à Marseille en vue d’obtenir une autorisation de résidence »,
+que sa famille soutenait sa démarche et que son beau-frère avait promis de l’engager
+dans sa société, active dans l’exploitation de voitures de transport avec chauffeur (VTC),
+la location de voiture avec ou sans chauffeur et l’achat et la vente de véhicules.
+d)
+Le 3 décembre 2020 (P. 9), le Ministère public de l’arrondissement de Lausanne a indiqué
+se rallier à la position de l’OEP, dans la mesure où le comportement de B.________ était
+loin d’être exemplaire, qu’il n’avait pas de projet d’avenir tangible, qu’il
+s’obstinait à vouloir se rendre en France, pays dans lequel il n’avait actuellement
+pas d’autorisation de séjour et à refuser de retourner dans son pays d’origine.
+e)
+Dans ses déterminations du 18 décembre 2020, B.________ a indiqué qu’il avait réellement
+pris conscience de la gravité de ses actes et qu’il les regrettait, qu’il avait admis
+les faits reprochés et que son amendement était sincère. Il a en outre évoqué
+les rapports favorables des établissements pénitentiaires du Bois-Mermet et de Pöschwies.
+Il a confirmé son projet d’aller vivre à Marseille, auprès de sa sœur et son
+beau-frère, précisant qu’il allait déposer une nouvelle demande pour y obtenir une
+autorisation de séjour et que son beau-frère avait promis de l’engager dans sa société
+de transport dès le 1
+er
+janvier 2021.
+f)
+Par ordonnance du 5 janvier 2021, le Juge d’application des peines a refusé d’accorder
+la libération conditionnelle à B.________ (I), a fixé l’indemnité due au défenseur
+d’office à 2'022 fr. 30, dont 144 fr. 60 de TVA (II) et a laissé les frais de cette décision
+à la charge de l’Etat (III).
+Le premier juge a relevé les lourds antécédents de B.________, qui avait été
+condamné à quinze reprises sur une période de plus de quinze ans, démontrant ainsi
+un ancrage dans la délinquance, notamment dans le domaine des infractions contre le patrimoine.
+Le magistrat a également rappelé qu’en 2011 et 2012, les demandes de libération
+conditionnelle de B.________ avaient déjà été rejetées dans le cadre d’une
+précédente exécution de peine et qu’il ne présentait aucun élément
+nouveau permettant de modifier les conclusions prises en 2011 et 2012. B.________ avait varié dans
+ses déclarations s’agissant de sa volonté de retourner dans son pays d’origine,
+s’y opposant finalement à l’audience du 1
+er
+décembre
+2020. Or, sa situation administrative en France n’était pas régularisée, de sorte
+que l’exécution de la décision d’expulsion en direction de ce pays n’était
+aucunement envisageable en l’état. Au regard de l’ensemble de ces éléments,
+le pronostic quant au comportement futur de B.________ était résolument défavorable, si
+bien que la libération conditionnelle ne pouvait qu’être refusée.
+C.
+Par acte du 15 janvier 2021, B.________ a interjeté recours contre la décision précitée
+auprès de la Chambre des recours pénale du Tribunal cantonal, en concluant, avec suite de frais
+et dépens, en substance à sa réforme en ce sens que la libération conditionnelle
+lui soit immédiatement accordée.
+Il n’a pas été ordonné d’échange d’écritures.
+En droit
+:
+1.
+1.1
+L’art. 26 al. 1 let. a LEP (Loi sur l’exécution
+des condamnations pénales du 4 juillet 2006 ; BLV 340.01) dispose que, sous réserve des compétences
+que le droit fédéral attribue expressément au juge qui connaît de la commission d'une
+nouvelle infraction, le Juge d'application des peines prend toutes les décisions relatives à
+la libération conditionnelle et statue dès lors notamment sur l’octroi ou le refus de
+la libération conditionnelle. Lorsque la durée de la peine privative de liberté prononcée
+à l’encontre du condamné est égale ou supérieure à six ans, le Juge d’application
+des peines statue en collège, le collège étant formé de trois juges d’application
+des peines (al. 2).
+En vertu de l’art. 38 al. 1 LEP, les décisions rendues par le Juge d'application des peines
+et par le collège des Juges d'application des peines peuvent faire l'objet d'un recours auprès
+du Tribunal cantonal. La procédure est régie par les dispositions prévues aux art. 393
+ss CPP (Code de procédure pénale suisse du 5 octobre 2007 ; RS 312.0) relatives au recours,
+par renvoi de l’art. 38 al. 2 LEP.
+Le recours doit ainsi être adressé par écrit, dans un délai de dix jours dès
+la notification de la décision attaquée (cf. art. 384 let. b CPP), à l’autorité
+de recours (art. 396 al. 1 CPP) qui est, dans le canton de Vaud, la Chambre des recours pénale du
+Tribunal cantonal (art. 13 LVCPP [Loi vaudoise d’introduction du Code de procédure pénale
+suisse du 19 mai 2009 ; BLV 312.01] ; art. 80 LOJV [Loi vaudoise d’organisation judiciaire du 12
+décembre 1979 ; BLV 173.01]).
+1.2
+En l’espèce, le recours a été
+interjeté en temps utile par le condamné qui a qualité pour recourir au sens de l’art.
+382 al. 1 CPP, et dans les formes prescrites par la loi, de sorte qu’il est recevable.
+2.
+Le recourant conteste qu’un pronostic défavorable
+puisse être posé.
+2.1
+Selon l'art. 86 al. 1 CP (Code pénal suisse du 21 décembre 1937; RS 311.0), l'autorité
+compétente libère conditionnellement le détenu qui a subi les deux tiers de sa peine,
+mais au moins trois mois de détention, si son comportement durant l'exécution de la peine ne
+s'y oppose pas et s'il n'y a pas lieu de craindre qu'il commette de nouveaux crimes ou de nouveaux délits.
+Cette disposition renforce le principe selon lequel la libération conditionnelle est la règle
+et son refus l'exception, dans la mesure où il n'est plus exigé qu'il soit à prévoir
+que le condamné se conduira bien en liberté (cf. art. 38 ch. 1 al. 1 aCP), mais qu'il ne soit
+pas à craindre qu'il commette de nouveaux crimes ou délits. Autrement dit, il n'est plus nécessaire
+qu'un pronostic favorable puisse être posé ; il suffit que le pronostic ne soit pas défavorable
+(TF 6B_521/2011 du 12 septembre 2011 consid. 2.3 ; ATF 133 IV 201 consid. 2.2).
+Le pronostic requis doit être posé sur la base d'une appréciation globale, prenant en
+considération les antécédents de l'intéressé, sa personnalité, son comportement
+en général et dans le cadre des délits qui sont à l'origine de sa condamnation, son
+comportement au travail ou en semi-liberté et, surtout, le degré de son éventuel amendement
+ainsi que les conditions dans lesquelles il est à prévoir qu'il vivra (TF 6B_521/2011 précité
+consid. 2.3 ; ATF 133 IV 201 précité consid. 2.3 ; Maire, La libération conditionnelle,
+in : Kuhn et al., La nouvelle partie générale du Code pénal suisse, Berne 2006, p.
+361 et les références citées). Tout pronostic constitue une prévision au sujet de
+laquelle on ne peut exiger une certitude absolue ; il faut donc se contenter d'une certaine probabilité,
+un risque de récidive ne pouvant être complètement exclu (Maire, op. cit., pp. 361 ss
+; ATF 119 IV 5 consid. 1b). Selon la jurisprudence, les évaluations du risque de récidive et
+de la dangerosité du condamné sont des éléments qui font partie du pronostic. Au
+moment d’effectuer ces évaluations, il convient en particulier de tenir compte de l'imminence
+et de la gravité du danger, ainsi que de la nature et de l'importance du bien juridique menacé.
+Lorsque des biens juridiques importants, tels que la vie ou l'intégrité corporelle, sont mis
+en péril, il faut se montrer moins exigeant quant à l'imminence et à la gravité du
+danger que lorsque des biens de moindre valeur, tels que la propriété ou le patrimoine, sont
+menacés (ATF 127 IV 1 consid. 2a et les arrêts cités).
+Le Tribunal fédéral exige encore de procéder à un pronostic différentiel. Il
+s'agit d'examiner la dangerosité de l'auteur et si celle-ci diminuera, demeurera inchangée
+ou augmentera en cas d'exécution complète de la peine. Il y a en outre lieu de rechercher si
+la libération conditionnelle, éventuellement assortie de règles de conduite et d'un patronage,
+ne favoriserait pas mieux la resocialisation de l'auteur que l'exécution complète de sa peine
+(ATF 124 IV 193 consid. 4d/aa et bb, JdT 2000 IV 162 ; TF 6B_825/2011 du 8 mai 2012 consid.
+1.1 ; TF 6B_915/2013 du 18 novembre 2013 consid. 4.1). Ainsi, si la libération conditionnelle,
+considérée dans sa fonction de réinsertion sociale, offre des avantages permettant de
+trouver une solution durable au problème ou de le désamorcer, il faut opter pour la libération
+conditionnelle plutôt que pour le refus de la libération conditionnelle, qui ne résout
+rien et se borne à repousser le problème à plus tard (ATF 124 IV 193 consid. 4d/aa et
+bb, JdT 2000 IV 162).
+Enfin, dans l'émission du pronostic, l'autorité compétente dispose d'un large pouvoir
+d'appréciation, de sorte que l'autorité de recours n'intervient que si l’autorité
+inférieure l'a excédé ou en a abusé, notamment lorsqu'elle a omis de tenir compte
+de critères pertinents et s'est fondée exclusivement sur les antécédents du condamné
+(TF 6B_900/2010 du 20 décembre 2010 consid. 1 ; ATF 133 IV 201 précité consid. 2.3).
+2.2
+En l’espèce, le recourant déclare qu’il entend maintenir son projet de rejoindre
+sa sœur et son beau-frère à Marseille, que des démarches visant à obtenir un
+titre de séjour auraient été entamées, mais révoquées en raison de son
+incarcération en Suisse. Il ajoute qu’il doit se rendre à Marseille pour y ré-initier
+ces démarches et qu’il a le soutien de sa famille. Il évoque encore la promesse d’engagement
+faite par son beau-frère à compter du 1
+er
+janvier 2021. Selon lui, ces éléments indiqueraient clairement qu’une organisation sérieuse
+a été mise en place afin qu’il vive dans la légalité en France et qu’il
+y travaille.
+Le recourant perd toutefois de vue qu’à défaut de présenter un titre de séjour
+valable, la France ne l’acceptera pas et que la Suisse ne peut garder sur son territoire un condamné
+expulsé judiciairement jusqu’à ce qu’il obtienne un hypothétique titre de
+séjour dans un pays tiers. Le recourant n’a aucun projet alternatif et a clairement refusé
+de retourner dans son pays. Dans ces circonstances, le pronostic quant au comportement futur du recourant
+est défavorable. Pour obtenir une libération conditionnelle, il doit montrer un projet viable
+et dont les conséquences ne seraient pas un retour probable dans la délinquance.
+Au vu de l’ensemble des considérations qui précèdent, c’est à juste titre
+que le premier juge a considéré que le pronostic quant au comportement futur du recourant était
+défavorable.
+Partant, la libération conditionnelle doit lui être refusée.
+3.
+En définitive, le recours, manifestement mal fondé, doit être rejeté sans échange
+d’écritures (art. 390 al. 2 CPP) et l’ordonnance entreprise confirmée.
+Les frais de la procédure de recours, constitués en l’espèce de l’émolument
+d'arrêt, par 990 fr. (art. 20 al. 1 TFIP [Tarif des frais de procédure et indemnités en
+matière pénale du 28 septembre 2010 ; BLV 312.03.1]), et des frais imputables à la défense
+d’office (art. 422 al. 1 et 2 let. a CPP), fixés à 540 fr. (3h au tarif horaire de 180
+fr.), auxquels il convient d’ajouter des débours forfaitaires à concurrence de 2 %
+(art. 3bis
+al.
+1 RAJ [Règlement sur l'assistance judiciaire en matière civile du 7 décembre 2010 ;
+BLV 211.02.3], applicable par renvoi de l’art. 26b TFIP), par 10 fr. 80, plus la TVA,
+par 42 fr. 40, soit à 593 fr. 20 au total, montant qu’il convient d’arrondir à
+594 fr., seront mis à la charge du recourant, qui succombe (art. 428 al. 1 CPP).
+Le remboursement à l’Etat de l’indemnité allouée au défenseur d’office
+du recourant ne sera toutefois exigible que pour autant que la situation financière de ce dernier
+le permette (art. 135 al. 4 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est rejeté.
+II.
+L’ordonnance du 5 janvier 2021 est confirmée.
+III.
+L’indemnité allouée au défenseur
+d’office de B.________ est fixée à 594 fr. (cinq cent nonante-quatre francs).
+IV.
+Les frais d’arrêt, par 990 fr. (neuf cent nonante francs), ainsi que l’indemnité
+due au défenseur d’office de B.________ par 594 fr. (cinq cent nonante-quatre francs),
+sont mis à la charge de ce dernier.
+V.
+Le
+remboursement à l’Etat de l’indemnité allouée au chiffre III ci-dessus ne
+sera exigible que pour autant que la situation financière de B.________ le permette.
+VI.
+L’arrêt est exécutoire.
+Le
+président :               La greffière
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Olivier Buttet, avocat (pour B.________),
+-
+Ministère public central ;
+et communiqué à :
+-
+Mme la Juge d’application des peines,
+-
+Mme la Procureure de l’arrondissement de Lausanne,
+-
+Office d’exécution des peines (réf. : OEP/PPL/63685/VRI/GAM),
+-
+Direction de la Prison de Pöschwies,
+-
+Service de la population (18.03.1974),
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral ;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+En vertu de l’art. 135 al. 3 let. b CPP, le présent arrêt peut, en tant qu'il concerne
+l’indemnité d’office, faire l’objet d’un recours au sens des art. 393 ss
+CPP devant le Tribunal pénal fédéral (art. 37 al. 1 et 39 al. 1 LOAP [loi fédérale
+du 19 mars 2010 sur l’organisation des autorités pénales ; RS 173.71]).
+Ce recours doit être déposé devant le Tribunal pénal fédéral dans un délai
+de dix jours dès la notification de l’arrêt attaqué (art. 396 al. 1 CPP).
+La greffière :
