@@ -1,0 +1,136 @@
+---
+decision_id: "vd_findinfo_D_cision___2021___94"
+court: "VD Findinfo"
+court_id: "vd_findinfo"
+docket: "Décision / 2021 / 94"
+decided: "2021-02-04"
+language: "fr"
+source_url: "https://www.findinfo-tc.vd.ch/justice/findinfo-pub/html/8114475"
+cites_law: ["switzerland/bund/acts/173.110/art-078.md", "switzerland/bund/acts/173.110/art-100.md", "switzerland/bund/acts/312.0/art-423.md"]
+---
+
+# VD Findinfo Décision / 2021 / 94
+
+## Regeste
+
+PROCÈS DEVENU SANS OBJET | 382 al. 1 CPP (CH), 393 CPP (CH)
+
+## Text
+
+Vaud Tribunal cantonal Chambre des recours pénale 04.02.2021 Décision / 2021 / 94
+
+PROCÈS DEVENU SANS OBJET | 382 al. 1 CPP (CH), 393 CPP (CH)
+
+TRIBUNAL
+CANTONAL
+102
+PE20.014277-JON
+CHAMBRE
+DES RECOURS PENALE
+__________________________________________
+Arrêt du
+4 février 2021
+__________________
+Composition
+:               M.
+Perrot
+,
+président
+M.
+Meylan et Mme Byrde, juges
+Greffier
+:              M.
+Glauser
+*****
+Art.
+382 al. 1 et 393 ss CPP
+Statuant sur le recours interjeté le 14 janvier 2021 par
+Q.________
+contre l’ordonnance de refus de désignation d’un défenseur d’office rendue
+le 4 janvier 2021 par le Ministère public de l’arrondissement de Lausanne dans la cause
+n° PE20.014277-JON
+,
+la Chambre des recours pénale considère :
+En fait
+et en droit :
+1.
+Le 26 août 2020, le Ministère public de l’arrondissement de Lausanne a ouvert une instruction
+pénale contre Q.________ pour lésions corporelles simples qualifiées et voies de fait
+qualifiées.
+2.
+Par ordonnance pénale du 10 décembre
+2020, le Ministère public a condamné Q.________ à 80 jours-amende à 30 fr. avec sursis
+pendant deux ans, ainsi qu’à une amende de 320 fr., convertible en trois jours de peine privative
+de liberté de substitution en cas de non-paiement fautif.
+Le 18 décembre 2020, l’avocat Samuel
+Pahud a formé opposition contre cette ordonnance pour le compte de Q.________ et a sollicité
+sa désignation en qualité de défenseur d’office de celui-ci.
+3.
+Par ordonnance du 4 janvier 2021, le Ministère
+public de l’arrondissement de Lausanne, considérant que les faits étaient de peu de gravité
+et que l’assistance d’un défenseur n’apparaissait pas justifiée, a rejeté
+la requête de désignation d’un défenseur d’office à Q.________ (I) et
+a dit que les frais de sa décision suivaient le sort de la cause (II).
+Par avis du même jour, le procureur a décidé de maintenir son ordonnance pénale et
+a transmis le dossier de la cause au Tribunal de police de l’arrondissement de Lausanne en vue
+des débats, l’ordonnance pénale tenant lieu d’acte d’accusation.
+4.
+Par acte du 14 janvier 2021, Q.________ a recouru
+contre l’ordonnance précitée et a implicitement conclu, en se référant à
+un écrit rédigé par sa mère, [...], que l’avocat Samuel Pahud lui soit désigné
+en qualité de défenseur d’office. Le même jour, Me Pahud a indiqué ne plus
+être le défenseur du prévenu, compte tenu du refus de le désigner en qualité
+de défenseur d’office.
+5.
+Par prononcé du 2 février 2021, le Président
+du Tribunal de police de l’arrondissement de Lausanne, considérant que le prévenu semblait
+souffrir d’un trouble particulièrement grave et n’était dès lors pas en mesure
+de se défendre efficacement seul, a désigné Me Jonathan Bory en qualité de défenseur
+d’office de Q.________ (I) et a dit que sa décision était rendue sans frais (II).
+6.
+Compte tenu de ce qui précède, il y
+a lieu de constater que le recours est devenu sans objet et de rayer la cause du rôle.
+7.
+Les frais de la procédure de recours, constitués
+en l’espèce de l’émolument d’arrêt, par 330 fr. (art. 20 al. 1 TFIP
+[Tarif des frais de procédure et indemnités en matière pénale du 28 septembre 2010 ;
+BLV 312.03.1]), seront laissés à la charge de l’Etat (art. 423 al. 1 CPP).
+Par
+ces motifs,
+la
+Chambre des recours pénale
+prononce
+:
+I.
+Le recours est sans objet.
+II.
+La cause est rayée du rôle.
+III.
+Les frais d’arrêt, par 330 fr. (trois
+cent trente francs), sont laissés à la charge de l’Etat.
+IV.
+L’arrêt est exécutoire.
+Le
+président :               Le greffier
+:
+Du
+Le présent arrêt, dont la rédaction a été approuvée à huis clos, est
+notifié, par l'envoi d'une copie complète, à :
+-
+Me Jonathan Bory, avocat (pour Q.________),
+-
+Ministère public central,
+et communiqué à :
+‑
+M. le Président du Tribunal de police de l’arrondissement de Lausanne,
+-
+M. le Procureur de l’arrondissement de Lausanne,
+-
+Service de la population,
+par l’envoi de photocopies.
+Le présent arrêt peut faire l'objet d'un recours en matière pénale devant le Tribunal
+fédéral au sens des art. 78 ss LTF (loi du 17 juin 2005 sur le Tribunal fédéral;
+RS 173.110). Ce recours doit être déposé devant le Tribunal fédéral dans les
+trente jours qui suivent la notification de l'expédition complète (art. 100 al. 1
+LTF).
+Le greffier :
